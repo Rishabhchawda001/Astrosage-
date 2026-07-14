@@ -1,0 +1,4682 @@
+# panini_Ashtadhyayi_book5
+
+**Document ID:** DOC-C3289A3AB077
+**Language:** english (latin)
+**Pages:** 221
+**Class:** scanned_image
+**SHA256:** `c3289a3ab0775976f071e3ecc5aea65ecf574dad8d4227a2ea8934d2bd92f2b0`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project
+to make the world’s books discoverable online.
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books
+are our gateways to the past, representing a wealth of history, culture and knowledge that’s often difﬁcult to discover.
+Marks, notations and other marginalia present in the original volume will appear in this ﬁle - a reminder of this book’s long journey from the
+publisher to a library and ﬁnally to you.
+Usage guidelines
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to
+prevent abuse by commercial parties, including placing technical restrictions on automated querying.
+We also ask that you:
++ Make non-commercial use of the ﬁles We designed Google Book Search for use by individuals, and we request that you use these ﬁles for
+personal, non-commercial purposes.
++ Refrain from automated querying Do not send automated queries of any sort to Google’s system: If you are conducting research on machine
+translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the
+use of public domain materials for these purposes and may be able to help.
++ Maintain attribution The Google “watermark” you see on each ﬁle is essential for informing people about this project and helping them ﬁnd
+additional materials through Google Book Search. Please do not remove it.
++ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other
+countries. Whether a book is still in copyright varies from country to country, and we can’t offer guidance on whether any speciﬁc use of
+any speciﬁc book is allowed. Please do not assume that a book’s appearance in Google Book Search means it can be used in any manner
+anywhere in the world. Copyright infringement liability can be quite severe.
+About Google Book Search
+Google’s mission is to organize the world’s information and to make it universally accessible and useful. Google Book Search helps readers
+discover the world’s books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web
+at http://books.google.com/
+
+## Page 3
+
+se Ys oe
+ANE  BYS/) 2.17
+
+Tish
+
+HARVARD
+COLLEGE
+LIBRARY
+
+## Page 4
+
+ooiveasy Google
+
+## Page 5
+
+ooiveasy Google
+
+## Page 6
+
+ooiveasy Google
+
+## Page 7
+
+C
+300]
+3} €
+
+## Page 8
+
+345)
+29 te. wv
+x
+
+ASHTADHYVAYVI
+
+: of.
+: PANINI - '
+| ‘PARTS XVII—xXx
+
+## Page 9
+
+ooiveasy Google
+
+## Page 10
+
+ornel
+
+F SANSKRIT.
+
+Profes » © © From what
+T have set jould I have given for
+such a wor Panini’s Sdtras and
+the Comm ~ inishing your work.
+
+|
+
+Profes \February, 1892.—* *
+. ok fe Garvard Cullege + Public shows clearly
+that the at re pas exact and pithy
+as possibk Library “it claim a high place
+amongst t! ikrit Grammar. The
+paper, prit fellent, :
+
+Profei THE BEQUEST OF id April, 1893" °
+© Nothin oubt, than to get hold
+of ‘a trustw Chats RLaaman te standard work of
+Sanskrit 1 PROFESSOR OF SANSKRIT ke this valuable work
+known to! 1880-1936 of ancient India in
+this counti .
+
+Profe\ rune, 1893—* * ©
+The work nd executed, doing
+credit to‘ -me—transravor—arre— or —sese—eeey- in my opinion, very
+
+pesos
+valuable undertaking, as it does to give the European student of the native
+grammar more help than he can find anywhere else. It ought to have a good
+sale in Europe (and correspondingly in America). .
+
+Professor V. Fausbol, Copenhagen, 15th June, 1893.—® ® ® It appears to
+me to be a splendid production of Indian industry and scholarship, and I value
+it particularly on account of the extracts from the Kasika, .
+
+Professor Dr. R. Pischel, Hlale (Saale), 27th May, 1893.—* © ® I have
+gone through it and find it an extremely valuable and useful book, all the more
+so, as there are very few Sanskrit scholars in Europe who understand Panini,
+
+Pandit Lalchandra Vidyabhaskar, M. R. A. S.(Loudon), Guru to H. H.
+the Maharaja of Jodhpur.
+
+Targa femanerinrara ceretanfanatfimtraest
+VERA ara TTT TS TTA APTA TTA TSS UR
+Rrtagta arcifraannirsn anegat Pert aap GATT
+
+aRaracPRoentten Brera: afafere we
+=. ai 2 etanteaera i
+RapTTENtea TTT ATS ATTA TTT TET Wy W
+
+Satend amteparanaant wa Tees aa RaTa EW
+EAT TTM TATA TAT TTT TLL |
+
+TIETT SATS TTT evry T want fhe 8H
+TRNAS Tare aT eT Frat
+maiceatans Sieat edescartitr wag fee array ew
+
+## Page 11
+
+. OPINIONS OF THE PRESS."''
+
+The Indian Union, (Allahabad), 26th November, 1891.—* * * The originat .
+Text and Commentaries, carefully edited with English notes and explanations,
+bespeak of much diligence, care and ability; and those of the English-reading
+public who have a taste for Sanskrit cannot be too thankful to Babu Sris
+Chandra for offering them so easy an access to the intricate regions reigned
+over by that Master Grammarian. *''® «© We recommend this book to all
+English-knowing lovers of the Sanskrit Language. -
+
+The Tribune, (Lahore), 9th December, 1891.—*. ® .* The translator has
+spared no pains in preparing a translation which may place PAanini’s celebrated
+work within the comprehension of people not deeply read in Sanskrit. . The
+paper, printing and the general get-up of the book before us are admirable,
+and considering the size of the book (it is estimated to extend 2000 pages)
+the price appears to be extremely moderate. . oot .? :
+
+The Amrita Basar Patrika, (Calcutta), 18th December, 1891.—* * * Judging
+from the first part before us, we must say that Babu Sris Chandra has suc-
+ceeded well in the difficult work of translation, which seems to us to be at.
+once lucid, full and exact. It isno exaggeration to say that Babu Sris Chandra’s
+translation, when completed, will claim a prominent place among similar works
+by European Sanskrit Scholars, . . . : .
+
+The Hope, (Calcutta), 20th December, 1891—* * * The get-up of the
+publication is of a superior order, and the contents display considerable  pains-
+taking on the part of the translator. - sone - :
+
+The Arya Patrika, (Lahore), 22nd December, 1891—* * ® The talented
+
+- Babu has rendered a great service to the cause of Sanskrit literature by produ-
+
+cing the sort of translation he is engaged upon, * * ® Hiseffort is most
+laudable and deserves every encouragement. .
+
+Karnatak Patra, (Dharwar), 7th February, 1892—* ® * Mr. Vasu gives
+ample proof of his competency to undertake the work which is not an easy task
+even to learned Sanskritists. :
+
+The Punjab Times, (Rawalpindi), 17th February, 1892—* ® * Babu
+Sris Chandra is well-known for his scholarly attainments. He has done the
+translation in a lucid and clear English. We can strongly recommend it to those
+who wish to study Sanskrit Grammar through the medium of .English.
+
+The Mandalay Herald, 31st. December, 1891—* ® ® Students and readers
+of classic language of India are much indebted to the learned Pandit for his -
+translation of this scientific work on the grammar and philology of the Sanskrit
+language.
+
+The Arya Darpan, (Shahjahanpur,) February, 1892—* ® *® Such a work
+has been a desideratum. It is well got up, and praiseworthy. We wish it every
+success,
+
+## Page 12
+
+Jnah 3451) _ .
+
+_————
+
+OPINIONS OF DISTINGUISHED PROFESSORS OF SANSKRIT.
+
+Professor Max Miiller, Oxford, 9th February, 1892.—* ® ® From what
+I have seen of it, it will be avery useful work. What should I have given for
+such a work'forty years ago'when I puzzled my head over PAnini’s Satras and
+
+the Commentaries. ® ® ® -I hope you may succecd in finishing your work.
+
+Professor Gopalji S. Desat, Rajkot in Kathiawar, 20th February, 1892.—* *
+The first part that has already been out before the Public shows clearly
+
+that the author has spared no pains to make the translation as exact and pithy
+as possible. The work when completed will no doubt claim a high place
+amongst the best works by European scholars on Sanskrit Grammar. The
+paper, printing and the general get-up of the book are excellent.
+
+Professor T. Jolly, Ph. D., Wiirsburg, (Germany), 23rd April, 1893.—* *
+Nothing could have been more gratifying to me, no doubt, than to get hold
+of a trustworthy translation of Panini’s Ashtadhy4yt, the standard work of
+
+Sanskrit literature, and I shall gladly do my best to make this valuable work
+known to lovers and students of the immortal literature of ancient India in
+this country.
+
+The work seems to me to
+
+credit to the translator and publisher. It is also, in my
+valuable undertaking, as it does to give the European student of the native
+grammar more help than he can find anywhere else. It ought to have a good
+sale in Europe (and correspondingly in America). .
+
+me to bea splendid production of Indian industry and scholarshi|
+it particularly on account of the extracts from the Kasika,
+
+Professor W. D. Whitney, New Haven, U.S. A. 17th June, 1893—* * *
+very well planned and executed, doing
+
+opinion, very
+
+Professor V. Faushél, Copenhagen, 15th June, 1893—* © ® It appears to
+
+ip, and I value
+
+Professor Dr. R. Pischel, Hlale (Saale), 27th May, 1893—* ® ® I have
+
+gone through it and find it an extremely valuable and useful book, all the more
+so, as there are very few Sanskrit scholars in Europe who understand Panini.
+
+the Maharaja of Jodhpur.
+
+ere ae fragt fray rent qRterrrorendafay garat t .
+Prorfrareaitateag gars Tea SORT TTT TATA HN
+Tentara grate g TA TRTATATT ATTN TAT |
+
+Gera Tae TS TTT TTA TTS UY
+Rotate erifertteren aad frond orga gfted |
+areatrrcrimtrrdte hrratrarre: afeferne uv H
+
+iis a Tame ihren
+waren aaqyaetersrinaa w frars
+‘gal edyscaretdar wag dfea erred u cu
+
+Pandit Lalchandra Vidyabhaskar, M. R. A. S.(London), Guru to H. H.
+
+## Page 13
+
+. OPINIONS OF THE PRESS.’
+
+The Indian Union, (Allahabad), 26th November, 1891.—* © * The original
+Text and Commentaries, carefully edited with English notes and explanations,
+bespeak of much diligence, care and ability; and those of the English-reading
+public who have ataste for Sanskrit cannot be too thankful to Babu Sris
+Chandra for offering them so easy an access to the intricate regions reigned
+over by that Master Grammariar. *' ® © We recommend this book to all
+English-knowing lovers of the Sanskrit Language.’ __ . -
+
+The Tribune, (Lahore), 9th December, 1891.—* * * The translator has
+spared no pains in preparing a translation which may place Panini’s celebrated
+work within the comprehension of people not deeply read in Sanskrit.. The
+paper, printing and the general get-up of the book before us are admirable,
+and considering the size of the book (it is estimated to extend 2000 pages)
+the price appears to be extremely moderate, : :
+
+The Amrita Bazar Patrika, (Calcutta), 18th December, r891.—* * * Judging
+from the first part before us, we must say that Babu Sris‘Chandra has suc~
+ceeded well in the difficult work of translation, which seems to us to be at
+once lucid, full and exact. It is no exaggeration to say that Babu Sris Chandra’s
+translation, when completed, will claim a prominent place among similar works
+by. European Sanskrit Scholars. 7 . .
+
+The Hope, (Calcutta), 20th December, 1891—* * * The get-up of the
+publication is of a superior order, and the contents display considerable pains-
+taking on the part of the translator. - . tee : .
+
+The Arya Patrika, (Lahore), 22nd December, 1891.—* * * The talented
+
+- Babu has rendered a great service to the cause of Sanskrit literature by produ-
+
+cing the sort of translation he is engaged upon, * ®* ® His effort is most
+laudable and deserves every encouragement.
+
+Karnatak Patra, (Dharwar), 7th February, 1892,—* * © Mr. Vasu gives
+ample proof of his competency to undertake the work which is not an easy task
+even to learned Sanskritists. ,
+
+The Punjab Times, (Rawalpindi), 17th February, 1892—* © © Babu
+
+Sris Chandra is well-known for his scholarly attainments.) He has done the
+translation in a lucid and clear English. We can strongly recommend it to those
+who wish to study Sanskrit Grammar through the medium of -English.
+
+The Mandalay Herald, 31st December, 1891.—* © ® Students and readers
+
+of classic language of India are much indebted to the learned Pandit for his ~
+
+translation of this scientific work on the grammar and philology of the Sanskrit
+language. .
+
+The Arya Darpan, (Shahjahanpur,) February, 1892—* © ® Such a work
+has been a desideratum. It is well got up, and. praiseworthy. We wish it every
+success,
+
+## Page 14
+
+OPINIONS OF THE PRESS (continued).
+
+The Allahabad Review, January, 1892.—* ® © The translator has done
+his work conscientiously and faithfully. The translation of such a work into
+English, therefore, cannot but be a great boon to all students of the science
+of language and of Sanskrit literature in special. The translator deserves the
+help of the Government and the Chiefs of India.
+
+rs
+
+The Maharatta (Poona), gth July, 1893—* © * If we may judge from
+the first part which lies before us, it will prove'a very valuable help to the stu-
+dent of Panini. ® © So faras it goes it is creditably performed, and there-
+fore deserves patronage from all students of Sanskrit and the Education
+Department.
+
+Indian Mirror (Calcutta), 17th March, 1894.—* ® © The manner in
+which the publication is being pushed through, speaks volumes in favour of the
+learning and patriotism of its editor, Babu Sris Chandra Vasu. The whole
+work when completed will be an invaluable guide to the study of Sanskrit litera-
+ture and especially to the English speaking students of the Sanskrit language.
+
+Lucifer (London), March 1896.—* * © We are pleased to find
+that the translation is clear and easy and the extracts from the Kashika are not
+only very numerous but also valuable, The large number of references to the pre-
+ceding sftras for the formation of ‘padas’ will save much time and trouble,
+and obviate a difficulty which discourages many from the study of Panini.
+Indeed the English translation of the grammar could rightly be - called “ Panini
+Made Easy.” © ® * It can be recommended as of great impor-
+tance, not only to all who wish to have a general knowledge of PAnini but also
+to the few who desire to master the great grammar thoroughly and enjoy all
+its benefits, .
+
+——
+
+RATES OF SUBSCRIPTION
+Payable in advance, for the complete work, including postage.
+Indian - oe - Rs. 2000
+Foreign... oe -~ & 200
+
+Payable by instalments, per volume, excluding postage.
+Indian on ~ Rs 800
+Foreign... oe - & o60
+
+Payable at the end of publication, for the complete work, excluding postage.
+Indian we one - Rs. 8000
+Foreign - - - & 30.0
+
+All communications to be addressed to
+SINDHU CHARAN BASU,
+PUBLISHER OF PANINI,
+Benares Cantonment,
+NW. P., India,
+The Tara Printing Works, Benares. oN
+
+\
+
+## Page 15
+
+BOOK V.
+
+_, THE.
+
+THE ASHTADHYAYI OF PANINI
+TRANSLATED INTO ENGLISH.
+
+BY
+
+SRISA CHANDRA VASJU, B. A,,
+
+Provincial Civil Service, N. W. P.
+
+Benwres.
+PUBLISHED BY SINDHU CHARAN BOSE,
+at the Panini Office,
+1897,
+(AU Rights Reserved)
+
+## Page 16
+
+(a)
+3
+3
+
+>
+=
+7)
+a
+w
+2
+Zz
+=)
+
+3
+2
+a
+
+## Page 17
+
+TO.
+
+SGav'dle Sir Yoln Gige, Bt, O. G,
+
+CHIEF JUSTICE OF THE NORTH-WESTERN POVINCES,
+THIS WORK
+
+Is,
+
+WITH HIS LORDSHIP’S PERMISSION,
+AND IN RESPECTFUL APPRECIATION OF HIS LORDSHIP'S
+SERVICES TO THE CAUSE OF ADMINISTRATION OF
+“JUSTICE AND OF EDUCATION
+
+IN
+
+THESE PROVINCES,
+Dedicated
+
+BY HIS LORDSHIP’S HUMBLE SERVANT
+
+_ THE TRANSLATOR,
+
+CRele.
+
+## Page 18
+
+f
+vole
+
+wih
+
+.aVine
+
+jaw da
+
+Me
+
+## Page 19
+
+ara:
+
+Cones
+
+AT WIAsea TAA: We: |
+
+BOOK FIFTH”
+
+Carter First
+
+ure stares: WRN arto ore, strata, &
+TAr aa tafe Rafe, wreretadreranta sryahrearPoreaeny
+wa aags .
+1. From this one forward to ‘tena-kritam’ V: 1.
+37, the affix ‘chha’ bears rule.
+The affix & has thé various senses taught in these thirty-sevén sOtras
+V. i. 1. to 37. Thus in the Sdtra wéhfed ‘suitable for that’, V. 1. 5. the word @
+must be read to complete the sense. Thus qapaitigat=setar tinge, wot vB
+sraofte:, stata: «The limitation of the jurisdiction of & has been indicated in
+the sitra with regard to the meaning of the affix, and not with regard to the
+affix. As an affix, has no force beyond Sdtra 17, the affix ssy being the
+ruling affix thereafter.
+
+THANset TENN gant ns, warkysw:, wah _
+gar u arg trarfteaa | craiaremashtary watpaw, aererar ene, arpeniiterig f
+2. The affix ‘yat’ comes after a pritipadika ending
+with = (long or short), and after the words nj and the rest,
+the senses of the affix being those taught upto Satra V. 1. 37.
+The senses of Prak-kritiya affixes are three viz, those taught in sOtras
+V. 1.5, V. 1. 12, and V. 1.16. This aqdebars oil Thus ag¥ fta-ag+aq
+age (VI. 4. 146, VI. 1. 79). As tized a1, ‘wood’, ‘fit for a stake’ Rrerea: srafersie
+So also qaveeeat ara ‘earth’ lit. ‘fit for a water-pot’.
+So also after waft words, e. g. 1644 ‘suitable for cows’, efacay, ‘suitable
+for offering’.
+The words aay: meaning ‘a kind: of leather’, and qe: ‘a kind of eft:
++ offering’, and ag: ‘a kind of food’, all end in g and are governed by this sdtra,
+
+## Page 20
+
+8st a a) - [BK V.CHL§4
+
+in spite of V. 1.15 which applies especially to leathers, and V. 1.4 and its
+-vArtika which applies especially to ‘offerings’ and ‘food modifications’. This is
+an example where a . subsequent stra does not debar a prior stra (I. 4. 2). Thus
++aq= aaget Ti, ‘leather fit for ng; Sanangu’, E+ q= set RET
+‘rice fit for making charu’, aytean' art: ‘barley’ fit for making Saktu’.
+
+In the list of waft given heréunder, occurs am@ =» q, which means that
+ama is replaced by aq when the affix aq is added. Thus arax fa: = pq: mean-
+ing rq: ‘axis, axle’ lit. ‘fitted for the nave of the wheel’; or a wood fit to be
+made the nave of a wheel or wea the grease. When the word anf
+means ‘navel’ of a living being, then it will not take this qq, but it will take
+the aq of V. 1.6, In that case, #4 will not replace an; ¢. g. a8 +aq=aPaR,
+‘suitable for navel’ i, e. oil. .
+
+The word erg occurs in sarfy class, It-takes samprasdrana, q being
+changed to z, and optionally this z is lengthened; and the ud&tta accent falls
+on the final. As siataq=Qataq= Gig or My t+aq= Ya ‘fit for a dog’.
+Contrary to VI. 4. 144, the of er is not elided before the taddhita affix aq u
+
+The word aya occurs in the warty class, Its final is replaced by Wag;
+©. g. SUI + THY + aA +a HE: Ae ‘a well’.
+
+1 tt, 2 ee, 3 ereae, 4 fry, 5 age, 6 rem, 7 ea (cae), Sz, 9 HT, 10 oe
+(we), 11 ate Trg, 12 er Greet nt Grae weNAaA aaa, 13 svat
+SEG, 14 Ha", 15 GT, 16 qe (TAO, 17 Uy, 18 wrAr®, 19 eeTT (HTT; FT) 20 UE’,
+21 By®, 22 dra®, 23 Gra® (ta), 24 eae
+
+WISTS SATAN NB ANAM HETUTE, &, Sera (TT) Wl
+Rr 0 eran wera wT, SEITE aaa Pee w
+8. The affix wa comes in the Prék-krittya senses,
+after the word ‘kambala’, when a Name is meant.
+
+This debars ‘chha’, Thus a-aa+aq=arqey ‘A kambalya-measure of
+wool’= 100 Palas of wool. This is the name of a measure, such as ETAT
+Roi. a]
+
+Why do we say qurat? Observe aractar saat “wool” lit, ‘fit for making
+blanket’, which is formed by 5 ¥
+
+frara efacqaiten nen wan 0 rar, ef, erqanitea: (aa)
+
+ah u gaaTTrP a senfpaw nfratae: retiaerty rarer ay werd rete
+
+4. The affix a comes optionally after the words
+
+denoting ‘offering,’ and after apfipa &c, in the sense of
+Prak-kritiya.
+
+Thus errfiet a, “fit for making sifrar” i.e. curd :—or sifretd with
+su So also gireremtt or gtretutar eager, ‘suitable for making Purodasa’ i.e. -
+
+\
+
+\
+
+## Page 21
+
+Bx. V.Ch.1.§ 7.) qu . 852
+
+akind of rice. The word gf¥ occurs in the warfg class (V. 1. 2) and it neces-
+sarily takes qq, there being no option. The ef here, therefore, means things
+denoting sacrificial offerings, and not the word-form ‘havi.’
+
+So also after srganft as, srgere Or HEN, argeyl or qegatd O
+
+1 sryy, 2 aogn, 3 PAT (SPE), 4 BParg, 5 state, 6 Pag, 7 gH, 8 site, 9 OT,
+
+10 gq, 11 fara, 12 way, 13 gas, 14 wea, 15 ates, 16 Gia®, 17 snia,
+18 eratraioaw, 19 gq’, 20 Egon, 21 ete (fe), 22 wrx, 23 oH, 24 |e, 25 or ET,
+
+Vart :—The affix aq comes optionally after words denoting modifica-
+
+tions of food: such as au In the case of ‘saktu’ however, no of option is
+allowed. See V.1. 2. ;
+
+wer fare nu oar ae, een
+ahe u gene wquieruifuateaternd aunfites went ware
+5. An affix comes after a word in the fourth case
+in construction, in the sense of ‘good for that.’
+Thus qeirat feat ine qeafe: ‘fit for calves’ i, e. a cow-milker, So
+Srreefter:, Teva, MoI, TAT, ATL TTA
+antcvararag n § 0 cari a ate, saaara, aa
+oP u oet etrare | atarerntea atntarer Tent ws act ateaaferre
+qi cervag 0
+6. The affix gq comes in the sense of ‘good for
+that,’ after a word denoting a part of the body. : .
+The word gat means animal organism. This debars g, thus, Sarg,
+
+good for the teeth.’ Roary, Fiew, araz, Wey, such as dentrifice, snuff, oil &c.
+See VI. 1. 213. .
+
+RSTNMASTIATT WON Tae Nas-aa-are-Ae-g, MEO,
+=, (aa)
+Tru aeritat are wife wet Ratatat cerca 0
+7. The affix qq comes in the sense of ‘good for
+that,’ after the word ‘khala,’ ‘yava,’ mAsha,’ ‘tila, ‘vrisha’
+and ‘ brahman.’
+
+This debars gs. Thus &equ “suitable for threshing floor’ So also
+Kean, frees, face, fort and ageing
+
+No secondary derivatives can, however, be formed of the following = -
+
+em feat, Brera raw; the full phrases must be used in these cases, for these
+words take neither @ nor aq though qq is= qq, and merqis=sreTH W
+
+## Page 22
+
+853 - et [BK V. CHL § 9°
+
+The word q in the sOtra indicates that the rule applies to words other
+than those enumerated. Thus tara ftar=nar tl
+
+aronfiyat oat <i aaiit U at-afsara, orto
+ORE 0 ors wife qetanal wary rer wale aes HeRMaeRTTs | SeATTATE
+8 The affix erg comes in the sense of ‘good for that,’
+after the words ‘ aja’ and ‘ avi."
+This debars ‘chha,’ Thus stspar ura ‘the yellow jasmine called
+yOthi’ srftuq gfey: 0
+AAPA TAIT TUR Tare srane-Areasra, dpi
+Tae, & 0
+afer rere eer eee stirrer mare: ewer wh eRe
+Pe oprene u
+TN STATES TTL TEER at
+Tre UTTAR SLT qe wasrarbaig Frere u
+gle w arraralgerey tt >
+
+9. The affix ‘kha’ comeg in the sense of ‘good
+for that,’ after the words ‘&tman,’ and ‘ yisvajana’ and after
+compounds having the word ‘ bhoga’ as their second term.
+
+This debarseu Inthe sftra, the 4 of wrevq has not been elided,
+indicating that it should not be compounded with the word @t which. would
+have been the case otherwise. It therefore follows from this irregular con-
+struction of the stra, that the word Rpirytry does not apply to the words
+aera and fers, but these ‘words are themselves prakyiti, Thus setae
+wrerataa ‘suitable for ones self’ the q of 4tman, which required to be elided
+by VI. 4 144, is saved by VI, 4. 169. So also fagrairta ‘suitable for all men’?
+The word fagrsq must be a karmadharaya compound, meaning ‘all.men,’ for
+the application of this rule; when it is a Tatpurusha or a Bahuvrihi compound,
+it will take g. As, farsa fea = rats, ‘beneficial for man-kind,’
+
+Vért ;—So also after Karmadharaya Compound qasm, ¢. g. 4eHatTe,
+otherwise trerattera, ! :
+
+Vért :—After the Karmadharaya campound 43m, there are the affix.
+¢s sand @, as, erat, and arraaay; otherwise gtattrnn
+
+Vért:—The affix sg comes always after the word agraq whether it
+be a Karmadharaya or a Tatpurusha, but not so when it is a Bahuvrihi Com-
+pound, As era fer = arersnta In a Bahuvrihi it will be agraeita: with
+ew
+
+oN
+
+\
+
+Pomel
+
+## Page 23
+
+4
+
+nn emt ee
+
+BK. V. Cu. I. § 12] Cc : 854
+
+. Compounds having *rr as their final term, also take the affix q. as,
+argatato: and fagurafer: uw The word vit means ‘body.’ But arafy: and ffra:
+with @, when the word art does not follow.
+
+Véart :—The words wat and sirarq followed by ‘bhoga’ take always
+the affix @, as, qsrtrta: and sparpimta: In the case of sraraireftt, the
+ais not changed into o (VIII. 4. 2.) The words do not take the affix @ when
+used singly. As, uz fears, srarata feat, no affix being employed. *
+
+eaguasat rest ko NTA Nl ad-Gearyara, 1-TH
+OF n edgeqnat aurea Tes Tent er Te feahreaMeATT | CRATE
+RT Bare aT PTTL ATPL GeTeUarcaRRaTeAaeNes THT
+10. The affixes "and gsxcome in the sense of
+* good for that’ after the words ‘ sarva’ and ‘purusha’.
+This debars ‘chha’, Thus qe fet= arin. So also texan
+Véart :—The affix 4 comes optionally after af, as, ‘after, or ara ut
+Vért :—The affix est comes after geq when the word so formed
+means: ‘slaughter’, ‘modification’, ‘a crowd’, or ‘made by him’. As qrewat
+aq &c. ‘man-slaughter’, ‘a crowd of men’, ‘human action’, ‘made by man’.
+e. g. Setar wey ‘a book written by man’ contra. opiréyar War: ‘The Vedas are
+non-human’,
+AUTTTATHTSA ST YW Tae Nl ATTA - SCHTYATA, BT
+TA u arerrrenmerat ery Tera arate Tet aAeTARA | CETTE Hl
+11. The affix @< comes in the sense of ‘goad
+for that’, after the words ‘ m4nava’, and ‘ charaka’.
+This debars &. As arorata gt = arerataa, So also areatora t
+aad Pret: owe wn agri nage fee, sre a
+atu ptrererraTc, wert gHorreaeat Praha: | Prefrahra: safeaftererparae
+Yara auifatea verde rater
+12. After a word being the name of a product,
+the above-mentioned affix comes, to denote a thing which is
+the primitive that is serviceable for that.
+The word gef% means ‘primitive or the material cause of a product’,
+The word fagf means ‘the product’ or ‘modification of such primitive®
+aay ‘serviceable for that’ i. e. ‘the primitive being serviceable for the product’,
+The word at shows that the primitive must be serviceable for that parti-
+eular product and nothing else, That is to say, an affix will nat come ta
+
+## Page 24
+
+855 . De] Bx. V. Cu. I. §13 ]
+
+denote any product in general, but only when the primitive is serviceable for
+@ particular product and nothing else. The word ag{ shows also that the
+
+word must be in ths 4th case, when the affix is added. Some read the words
+att fgg also into this stra. .
+
+Thus srgreat feat vert arerf= ergrdtarfor aretfe ‘wood serviceable
+. for making charcoal;’ so also yrartat year: ‘bricks serviceable for making a
+
+wall’. Here wpréa and graréa are formed by & V. 1,1. Similarly aget we ©
+
+‘wood serviceable for a spear.’, fraea' araia? ‘cotton plant serviceable for
+cotton’, :
+
+Why do we say aga ‘serviceable thereto’? Observe aarat wrat:, WT-
+art awa Here there is modification of primitive, but ag is the product
+also of other things than yrat: such as ers &c. _
+
+Why do we say faga: ‘aftera product’? Observe aeard: @v;, there
+is no affix. For eq ‘a well’ and ww ‘water’ do not stand in the relation of
+wera and rgia i.e. material cause and effect. As ‘water’ is not the modi-
+fication or product of ‘the well’, though it is found in the well, and therefore,
+the affix is not employed.
+
+Why do we say sgat ‘to denote a primitive’. Observe wera ‘ent
+‘a sheath serviceable for a sword’, The sword isa product of iron, but a
+sheath is not the primitive of the sword.
+
+By using the words sera and fargfa it is ‘further shown that the pra-
+
+kgiti is liable to modification or vikara.
+‘ofrarassa nan oan nay; oH, TH TN
+Re u ofraies: wea te meadbrne att Pree: wpahreaareneea | SeanraTg
+13. The affix tx (+/—tq) comes, in the sense of
+
+@ primitive serviceable for a product, after the words ‘chhadis’,
+‘upadhi’, and ‘bali’, denoting the product.
+
+This debars @.° Thus onft@arfor gonf, stata qe, eTdarerogar:
+
+The affix comes after the word zaf without changing the sense. zq-
+
+raat cease = cri ‘part of a wheel between the nave and the circumference
+or the wheel istelf’. The word sitqiq also means the same.
+
+PTANIUTAETE EA TAMA SETA, Terra: Sa:
+At weer sorae raped ser rea eae ae eee RAMA RATeTTy SeTTATT
+14. The affix sq ( +/—2) comes, in the sense of a
+
+‘primitive serviceable for a product, after the words ‘yishabha’
+and ‘upinah’ denoting the producta..
+
+## Page 25
+
+BK. V. Cu. I. § 16. J vu - 856
+
+Thus safpat reat, startet: od u This ‘fiya’ debars ‘chha’. Even when
+the primitive is ‘leather 4, the affix ‘nya’ will come after Tyg irregularly
+debarring wz of V. 1.15. Thus startet vt u
+
+aehoitsy neh TET TOT: aL
+ata ufone eet | chet ar Prefer: aaah mraftares gerd wale eek Fetes
+paireraferrrta | SeareaTg :
+; ‘15. The affix ax (+/—2t) comes, in the sense of
+a primitive serviceable for a product, after a word expressing
+the product of leather. _
+The word qm: in the aphorism is in the genitive case. This eysg,
+
+debars g Thus arg q4 and aret a leather serviceable for making a ‘vard-
+hra’ and ‘varatd’ i, e. a leather thong.
+
+Ce RETR RRM want hn ag-sea, aq-aeT, Tare
+i]
+
+TAT uw aftfa mre erifere:, sree Nera, ETT weLaP TONE | ea Rect
+SB ge fray raat ea g rere eae: | rear awe Tare
+ited rent ere | arorrrreaay earraana | erarcorerat itn t .
+
+16. The above mentioned affixes come after a
+word in the first case in construction, with the force of a geni-
+tive or a locative, when the word in the first case’ is agent of
+the verb ‘syat’;—in other words—the above-mentioned affix-
+es have also the senses of ‘very well sufficient there to’ and
+
+‘very well sufficient to be made therein’.
+
+The word aq shows that the word in construction must be in the
+Ist case, the words seq ‘of it’ and wftrz ‘in it’ show the senses of the
+affix, the word garg ‘it can be’ qualifies the primitive, the word gf is for the
+
+sake of distinctness. Thus grant Hard qarat ea =NTardar year ‘the bricks |
+
+sufficient to raise a wall’. So also sraréta qe Similarly qrartsfertay earq—
+araréar ta: ‘a place sufficient to make a wall therein’. grarftargéru
+
+The word earg being in the Potential Mood ( faftr Fre) of srq‘to be,”
+has the force of état ‘potentiality, sufficiency’ as given in SOtras III. 3
+154 &c. Such as when the large number of bricks makes it possible to raise
+a wall, we say ara sretiiearat ear Similarly when the quality ( gor) of a
+land, such as its area, situation &c, makes it possible to erect a palace therein,
+we say, arava ferae ear °
+
+In the examples under this stra, there is no modification ( fart )of
+
+Wn eee SET TE RT
+
+i
+'
+i
+|
+
+j
+
+## Page 26
+
+857 saw { Bx. V. Cit. £. § 18
+
+the primitive (wgia ) into a product, as was the case under sftra V..1. 12. The
+‘examples under this sOtra show merely the ‘adequacy, fitness or sufficiency’
+of a thing for a certain purpose. Herein lies the difference between this
+sftra and the previous ones,
+
+The repetition of the word ag twice in this stra shows the existence
+of this Grammatical maxim: safer werd were anh fie Geert
+* when the sense of an affix is more than one, the case in construction to which
+the affix must be added must be shown ini each case.’
+
+Why there is no affixing in this case: grarartaraea erg? The use
+of @ in the SOtra would prevent this, the force of gf@ beirg that the secular -
+usage must be looked to in forming these derivatives,
+
+wtarar SUN WON TaN A aarar:, TH
+Te un carrer way Tera Has ATEN AATF | GeATTATE: i
+. 17. The affix esq (+/—"4) comes, after the word
+*parikh&’ in the above senses of ‘ this is sufficient for that’,
+and ‘this is sufficient therein ’.
+
+This debars ow. Thus snferat aft ‘jand sufficient to make a mote
+thereon’ .
+
+Up to this Satra was the governing force of the affixes gy and aq
+
+Hereafter another affix will be taught.
+START N LEN TANT A saa, er
+att uaa ged Rear Saat Rae | eierafreuepranaa ergata wsy eee
+eeaeaaea tact wu
+18. Upto Sitra V.1. 115 (excluding that) the
+affix sex (+/—xat or +/—m) bears rule.
+
+The affix ssz governs all the succeeding sftras upto Wa gra ra ware,
+and has the senses given to it in SQtras V. 1. 37 &c. Strictly speaking the
+affix 3 governs only upto V. 1. 110 and not upto 115. Thus in Sdtra 72,
+the affix sq must be read, as qreTatare:, @roaferan:, aregraforag: 7
+
+ae TST NTATOTSSA, NLA sara 0 a-aeta-atait-gss-
+eter - taro -Se
+
+Ot u aati sea tor rereidaerrantrs seater TE mete TTT
+Bitaa: Trees horse | se taraAraATe Wages TH TTT U
+Kériké arm Rastert oftart a ate t
+
+Sarre TAT RaTRTET ATE | TET!
+oN
+
+\
+
+## Page 27
+
+‘BK V. Cu L. §. 19) "sau, , 858 ;
+
+19. Upto Sitra V. 1. 63, inclusive, the affix o@
+(+/—x& or +/-—2h) bears rule, with the exception of the word
+‘gopuchchha’, or a Numeral, or a word denoting a measure of
+capacity. :
+
+Strictly speaking sa governs upto sutra V. 1.65. The word weit is
+made up of ur + wretet The force of sq here is frf4X or inclusive, so that in
+the Sdtra atu@ (V. 1. 63) also, the s& will be employed. The affix s@ debars
+zu The sense will be the same as given in V. 1. 37 &c. the difference be-
+tween s@ and s% being in accent only. Thus frexat ate=aftaaa, So also
+oferta w
+
+But ftge3a frera="itgieeas, the accent falling on My; so also with
+words denoting Numbers and Measures, as qffeava, Srfewart, Sitzfaan
+
+The'word qftart in this s(tra has its technical signification, and not
+its etymological sense. Technically aftqrr does not include gaat, etymologi-
+cally it does. PAnini has used this word 9ftart in some sftras in its technical
+sense, in others in its etymological sense. Thus in sitras IV. 1. 22, and V.
+I, 19 the technical sense is taken, while in sdtras IV. 3. 156 and V. 1. 57 the
+etymological sense is meant. Technically qftaret means eft aT or a measure.
+of capacity, and surface namely length and breadth and height or depth, such
+as weg: &c, ie. acubic measure and a square measure. In this sense it is’
+to be distinguished from the measures of length or lineal measure, technically
+called sara, such as a faqeet ‘a cubit’ &c, on the one side, and the measures
+of weight, technically called gar such as qs, &c on the other sidé. In short
+aeart_ means a measure of weight or gravity, qftarer means a measure of
+volume or capacity, gar means a lineal measure, and a gear is beyoud all
+these,
+
+areata PreanGsa: WoW Tether tl ataara-frearfeya: ( se )
+ht u erehRar | ream ea gear same 3H vert vara anders | rcae wo
+20. The affix sq comes after the words five &,
+
+when they are not parts of a compound, the sense of the affix
+being that taught in the subsequent sftras upto V. 1. 63.
+
+The word sr is understood in this s(tra also. This sq debars sy.
+Thus hada, nea, aeaa, arr o
+
+Why do we say stam ‘when not compounds? Observe Fetntaare :
+Seppifexara formed by se (V. 1. 18.) Compare VII. 3. 17 by which the Vriddhi
+of the second term takes place and not of the first. :
+
+Q. Is not the employment of the word sta@ra in the Sdtra redun-
+dant? For by the maxim weorvar ifeqitart ayatituaifer “that which cannot
+2
+
+## Page 28
+
+“859 ‘an ( BK. V. Cu. 1. § 21 *
+
+possibly be anything but a pratipadika, does, contrary to I. 1. 72, not denote
+that which ends with it, but it denotes only itself ;” the pratipadika fray being
+especially mentioned in the stra, the rule will “apply to the word fava and
+not to a word ending with fem
+
+A. The employment of the word same in this Stra, indicates by
+implication (jfiapaka), that in spite of the above maxim, the agara@ I. 1. 72
+applies in the previous s(tras, while in the subsequent s(tras its does not. As
+wranGar aq V. 1. 2, the aq applies not only to a &c but to words ending in ay
+&ec. As weqg and greg, wfagrem «Not only sree srggtag V. 1. 4. but
+also qargerz, wargitaa, Not only wary V. 1. 6. but also aaa W
+
+While in the sQtras subsequent to this V. 1. 20, the tadanta-vidhi ap-
+plies only to words preceded by a Sankhy4 and that alsoin Sdtras upto
+V. 1. 115 and not there after as, fqrmarftm: and \qraafar V. 1. 72. Even in
+this latter case, when an affix is elided by mathe tadanta vidhi does not
+apply. Thus grat qipat atd =f wi+osz V. 1 18=ftyta, the affix being elid-
+ed by V. 1. 28. Now in forming a tertiary derivative from this word Tegta,
+the tadanta vidhi will not apply. Thus fiegyor ra, here what affix are we to
+subjoin? If tadanta-vidhi applied, we get the affix wz V. 1. 26 in the alter-
+native. But tadanta-vidhi not applying, we get the general affix eV. 1. 8
+and have réditvwa i Here the affix ssz is not elided by V. 1. 28, as there is
+no Dvigu compounding. The above rule is suinmarised in the following isktt
+
+ara: gearglrert aE tt
+
+The words 1. fase, 2. qo, 2. Are, 4. Wea and 5. WE belong to Meat
+class, :
+
+AST STATTTS MAM TAHA Ta, Sy, ST-TAT, TTA MW
+fers w arrerg eee | rermerg sera TERN ara: ere SHUG eT erse | ariteare
+21. The affixes aq (—'—m) and 4 (—a) come
+in the senses taught upto V. 1. 63 after the word wa, when it
+is not a part of a compound, and when it does not mean
+merely a ‘hundred’. -
+
+The word wrefq V. 1.19 is understood here also. These affixes 54
+and aq debar the affix az V.1.22, Thus gaa atag= Terr or Uae ‘purchas-
+ed for a hundred gold coins’,
+
+Why do we say sua ‘when not meaning merely ‘a hundred’? Observe
+wa qtearerren = tara Prevrz‘a band whose measure is hundred’. The word say
+qualifies the sense of the affix, and not that of the base, the latter not being pos-
+sible; for the word Wa asa base must always mean ‘a hundred’, The following
+examples will illustrate the meaning jwemarar:aftaTorteg WTI = Ue‘ book con-
+
+\
+
+## Page 29
+
+BK. V. Cu, I. §. 22] aa” . 860
+
+sisting of hundred Adhyayas’, In this case there is essentially no difference be-
+tween the base (prakyiti) and the sense of the affix (pratyay4rtha), though there
+is apparent difference, for the sake of applying the affix. For uaq@: is a book
+essentially consisting of huhdred: while weg ‘a carriage purchased for a mnared
+coins’, does not contain hundred as its essential part. Similarly waar area: ‘
+herd of cows hundred In number’. Here the eq: essentially consists of ue and
+so there is the affix ard and not 8% or aq ( V. 1. 58 ). But not so in the case of
+wel wreaTd, Ufa ureaad, for here the sense of the affix is formed by the -
+sentence, and not discovered merely from the word, Hence the following
+Vartika wanfatasqarasaate t
+
+The word @ in the sfitra draws in the word erqara from the previous
+sdtra, Thus qv wd T=ftue, fut at =feuaae ‘purchased for a hundred
+and two coins’. Here the affix is aq V. 1.22. Sofauanau According to the.
+Ishti given in the last Sdtra, the tadanta vidhi applies here.
+
+Serrar aftargrarar: EW RRM TATA eae: ARNTeaTaT: eT
+oP: saree eee SAT TTT HL TET NT TACT | TH STAT bt
+22. The affix kan (__—*) comes after a Numer-
+
+al, when it does not end with f& or ara, the sense of the affix,
+being that taught hereafter upto V. 1.63.
+
+The word wef is to be read into this stra also. The word gaat is
+defined in I. 1. 23. This-aqdebars ssyu' Thus iit win = TH, TER,
+WoT?
+
+Why do we say ‘ when it does not end in f& or oT ? Observe rafter,
+Sretiftuae: formed by 33 But why afaar is formed by ara and not by sq
+or 3&, as the word aif also ends in fa? The word afq is formed by adding
+the affix wf, while the rule applies to the numerals which in their primitive
+state end with fe such as anfa?, wrutte:, frufe &c. Here. apply the two maxims
+wrfamae® arrjaer ‘a combination of letters capable of expressing a meaning
+denotes whenever it is employed in Grammar, that combination of letters in
+‘so far as it possesses that meaning, but it does not denote the same combina-
+tion of letters void of a meaning ;’ and fatqaray Wee | aTaNeraee ‘when a
+term void of Anubandhas is employed in Grammar, it does not denote that
+which has an Anubandha attached to it’. Therefore when {@ is taken, it does
+not mean <f% Wt
+
+ante ar Ben cq Wat, e&, ert : :
+
+aie Meret SETA, HL A TH, TET ETAT AT ATTA FG eRT TATCRT HAY AT RT
+watt wate orga | . aes
+23. The affix ‘Kan’ coming after a Numeral end-
+
+## Page 30
+
+S6r * eqn [ BK. V. CHL. §, 28
+
+ing with aa, takes optionally the augment €z, the sense of
+the affix being those given upto V. 1. 63. .
+
+The words ending in wa are seat; see I. 1. 23: and would consequent-
+ly take aq by V. 1. 22, The present stra ordains the optional affixing of yz
+to this au Thus aren or areieen, arafirar or aren:
+
+: VW TaTT Nfs |
+Seater rrayat LETETATE Nl BW u -rrerrare- Sar
+
+SPE: u Frorafirrpal aq rea as erearat ee eeideree 1
+: 24, The affix Zqq (L— srg) comes in the senses
+taught upto V. 1. 63, after the words ‘ Vinsati’ and ‘tyinéat’,
+when it does not denote a Name: the f& and erg of the base
+being dropped before this affix.
+
+Thus flrofr+ qaq= frat ere (VI. 4. 142)= fear; firm eet= fet ee
+(VI. 4. 143) = frre: 0 -
+
+Why do we say srdgrara, ‘when not denoting a Name’? Observe,
+Frafear:, firmer: formed by affix ary V. 1. 22. Q. Why do you affix a, when .
+
+it is prohibited by the phrase wiftruqrarar:; for raf ends in f& and frag, ends
+in gq? The affix aq will be added by dividing the sQtra into two: viz: (1)
+frafafrapat (2) <grdgrarg; the meanings being (1) The affix ‘ Kan’ is added
+to vinéati and trinfat ; (2) The affix dvun is added to the Same words, when
+not denoting a name. .
+
+Sensor wag aqA Nn kara-Rern
+Re 0 mentor cewt wate sntiierig i ssirgee
+arPrae waa TET ete RTT TOTARTHT REA:
+“Te W NUS ETE aT RET Wl .
+25 The affix faq (-—a) comes in the senses
+taught upto V. 1. 63, after the word a # .
+
+. This debars ssz; the’anubandha f& of fésa shows that the feminine of
+the word will be formed by ty (IV. 1. 15), the x of f@ is for the sake of pro-
+nunciation, the 9 of feeq is for accent (VI. 1. 197). Thus atftra: fem, reat
+
+Vért:—So also it must be stated after the word wi; e.g. ethan,
+etter u Lo.
+
+Vért:—So also after the word amatqa, e. g. aratafrat fem. araiq-
+Pret u Sometimes the word yf& is substituted for arate before this affix,
+as, 3Rrar fem. afrat w . .
+
+oN
+
+\
+
+## Page 31
+
+BK. V. Cx. L§, 28 J ; wen 862
+
+matqererecerre GA TT Hata, ary, sTererceTTT
+ARE 0 ghuer Erne reat TUS eNeaerig | STATE Ta AT Te A
+26.. The affix aq (+’—a) comes optionally in
+the senses taught upto VI. 1. 63, after the word ‘sirpa’.
+
+This debars s5_ which comes in the alternative. As, for tra = ifr,
+or aiftara, 0
+“WaATTTTARACATTATTIL Mt VW Ml wate 8 mere eae ee .
+AAAS
+TAT U CET pT Tea SUL Tet was wneaergy | caEATTTATE |
+. 27. The affix au (+—2) comes in the senses
+taught upto V. 1. 63, after the words ‘ gatamina’, » ‘ vinsati-
+ka’, ‘sahasra’, and ‘ vasana’.
+This debars sx, vq and au Thus warn nite = raat so also Fuftras,
+arena and gaa
+srera afastterererans tl Re W TANS nerers-ga-Aet:, oe weet
+ara Wl
+wa mri mae gi eemreneen ete Fe ee EN
+wala, srearat Fat
+28. The affix having the senses taught upto V.1.63,
+is elided by gm, after a stem beginning with the word adhy-
+ardha, and after a Dvigu compound, when it is not a Name.
+The word wirgfg is understood here also. Thus sundaes, Rater, way
+Sulz, feats, fraen, fergie un Here the affixes sq and sym are elided,
+Though in the words fiqyia &c. the affix is elided, it is only so when the
+affixing of the taddhita occasions a Dvigu compounding (II. 1. 51) such as in
+apa qrai st¢-fayia Here the resultant isa Dvigu compound. But in
+forming tertiary derivatives the affix is not elided, as feytfor ata = fonitere
+Hence the following rule: AT afaPramergu See IV. 1. 88, V. 1. 20.8
+
+Why do we say sragrara ‘when not a Name’? Observe arene,
+or Geciefrary and gietaetfaag being names of certain measures. The femi- °
+nine word eifgdt is changed into the masculine by the Vartika weait afaa
+given under VI. 3. 35. :
+
+The word spapg is a Sahkhy& (See I. 1. 23), and a word beginning with
+it will be a Dvigu compound. Its separate mention in this stra may appear
+superfluous. It is however so. mentioned, in order to indicate (jhapaka) that
+
+## Page 32
+
+863 ge-Euiston. (BK. V.CHCL § 131
+
+this word is not always a Sankhy4. Thus for the purposes of the application
+Of the affix gerqyy (V. 4. 17), this word is not a sahkhya.
+
+| Reamer ret rorercerreare R80 ad i) ferarer, sariram, SEeT-
+rare, ( BH) W
+TRE 0 sreregaly fitinw ee fora grat j
+Tren qrioarrarerdaarry
+29. The affix having the senses taught up to V’
+1. 63 is optionally luk-elided, after the words k&rsh&pana,
+and sahasra, when they are preceded by adhyardha or are
+members of a Dvigu compound.
+This sQtra makes the elision optional, when it was compulsory by
+
+the last sdtra. Thus mpapgaarataore, or spaganrainirs, fraretrorn or Rrearatafr
+tam, here the affix fq (V. 1. 25) is elided in one case, and not elided in the
+other. When it is not elided, sf may be substituted for aratam (V. 1. 25).
+repentant, ftnirert u
+
+So also after the word aga, . g. nagagay or srearean, fagea or
+feargaa un When the affix is not elided, the forms above shown with irregular
+Vyiddhi of the second stem, are evolved by stra VII. 3. 15.
+
+Vért :—The words 3a and gaara should also be enumerated. As,
+setae or akin, Resi, fata, cemeaar, srearaares,
+ferraara or araarm_n =The irregular Vyiddhi of the second term takes
+
+place by VII. 3. 17. : -
+WRon vant nf, Fe, Gra, Hrearg, (am) Wl
+fichfiearannéfarcraes Praret sora t
+
+ghar: wu farttftetea | Fe girg,
+eM RRGETaS TTT
+
+30. The Arhtya-affix (V. 1. 63) is optionally elid-
+ed after » Dvigu occasioning compound, of the word nishka,
+preceded by dvi and tri.
+
+The word fivit: ‘a taddhita occasioning a Dvigu compound’ of V. 1.
+28 is to be read into this sQtra, Thus faPiean or faaftrng, fifrong or fia
+wa (VIL. 3. 17). :
+
+Vért :—So also when nishka is preceded by 4, e. g. Syfaray or we
+fexwau The irregular Vyiddhi of the second term is caused by VII. 3. 17.
+
+firearea nag ana n Reraa (ga) U
+
+hn ARE Tattora RA, FerRNREATHAT HEM: Tee ATTA ATT TTT |
+31 The arhtya-affix (V. 1. 37-63) occasioning. a
+
+aN
+
+## Page 33
+
+BK. V. Cx. 1. §. 34) ar 1) 0 864
+
+Dvigu compound, is optionally elided after the word bista,
+preceded by dvi or tri. : .
+The word @ in the sfitra draws in the words Aree u Thus Reiwerg,
+
+or faaterang, fattery or raferand, Syfrert,
+The separation of this stra is for the sake of the subsequent sftra.
+
+feaferenrea: WW Tether n fererferera-ar: 0
+ahr u senagatentedeatiters frofrmueraragacty & wert wef
+32. The affix kha (4) comes in the arhiya senses
+(V. 1. 37-63) after the word vingatika, when preceded by the —
+word adhyarddha or a Numeral, occasioning a Dvigu.
+. Thus sepdfrufratag, fafrotatag and Fefirafeetag O Being especi-
+ally ordained, this affix q is not elided by V. 1. 28
+wart faq WARN Tart n aeat:, deg 8
+gfer u rendgesig fenRere | srenigatenfaahtare, Aeter ertrerearndfateig ice
+erat wate :
+TPT UTR RTL Te RTRRCATATTEATAT Wate BaTaTATT
+33. The affix tkan (1—5) comes in the Arhtya
+senses (V. 1. 37-63), after the word kharf, when preceded by
+the word adhyardha or a Numeral occasioning a Dvigu.
+Thus sparardag, frordarg :
+Vért :—So also after the word ug alone, as uréarta
+Vért :—So also after the word anfavft, as, segantaoitarg; ftarfeotaz,
+fratfaetara So also when the word is alone: as, anfacttag «
+TUTTATT TAT NIV TAT Gor-are-ara-gara, TH A
+afar u mendging fitter | seaiairy fetes qorererT ame reaneaeneg AE OTA
+ware t
+
+34. The affix yat (%) comes in the drhfya senses
+(V. 1. 37-63), after the words pana, p&da, m&sha and Sata,
+when preceded by the word adhyardhe, or a Numeral occasion-
+ing a Dvigu. : :
+Thus eraiqean, FTA, — so also wapkqraa, ftvras, frrax 0
+. Here qq is not changed into qq, by VI. 3. 53. The substitution enjoined by
+VIL 3. 53 takes place when qq means the /oot of a living being, while here
+it means a measure of capacity. So also srapdareay, figreat, Pricey, srapd-
+ureay, firmer, Rroertu
+
+ve a cece
+
+## Page 34
+
+st an. (BK. V. Cu I. §. 37
+
+._ Srorrar 34h con erat (et) 8
+fern meakebetianftae 1 arene Rearotiaent er recat ea
+TIE toe ae wast : :
+atteng 0 carey ener we
+
+35. The affix yat comes optionally after the word
+sina, in the Arhtya-senses (V. 1. 63), when it is pre receded by
+the word tihvartha or a Numeral occasioning a Dvigu.
+
+This debars sg which also comes in the alternative, and is then elided
+by V, 1. 28. Thus spaggureay or snatorery, feuray or ficurry, fray or
+
+Vart :—So also optionally after the word ga, as, (AgTET or Tay,
+Furey or ° wed, firmert or °ueg a -
+
+fafiradrewer 1 35 wart n fe B-qara, wa, 0
+gr u orenkees, fePreresrersarenfartarnsiaetg wy reat wae, ATT! At
+36. The affix an (t—#) as well as ‘yat’ optionally
+also comes after the word é4na, in the Arhtya-senses (V. 1.
+37-63), when preceded by the words fr and f&.
+
+The aq comes optionally by the last stra and is also drawn into this
+by the word q. Thus we have three forms, fturay, turd, and furry, so
+also Rrereag, Watery and Frarory w
+
+The irregular Vriddhi of the second term in cases of compounds of
+numerals, taught in VII. 3. 15-17, does not however take place in the case of
+‘ary, this word being especially excluded from the operation of those rules,
+see VII. 3.17. The Vriddhi here is regular as taught by the general rule
+Vil. 2.117.
+
+ar wit ON ara Aas
+afr n ssa rear wear wera: Tee Ta: TereTate PPA
+f ettararate stata aferrd aentafed wert vate
+37. The thirteen affixes taught i in V.1. 18-36,
+have the sense of “ purchased with this price”, and are added
+to a word in the third case in construction.
+
+The thirteen affixes 84, 3%, 74, 1, #1, FH, Rea, WH, wy, w, tA,
+wand wa have already been taught. Now is taught their sense, and the
+case in construction of the word to which they should be added. The 3+
+shows that the word must be in the 3rd case in construction : and ara shows
+that the sense is that of ‘purchased’. The illustrations have already been
+given in the previous s(itras. Some more may be mentioned here. Thus
+
+ener = arnfirny, Hay, Waa, TAL, TT, TTT, were, URre,
+fen, Frat &c,
+
+## Page 35
+
+BR. V. Cu, I. § 38.) wre . 866
+
+. The affix will come after a word in the 3rd cas¢ In construction when
+it means ‘ price, and the force of the 3rd case is that of ‘instrument’ (LI. 3. 18)
+and not that of ‘agent.’ Therefore, there is no affixing in the words {ew -
+att or qfrat ate :
+
+Nor does the affix come after a dual or a plural, Thus yeqnet sitiy of
+nett: of, there is no affixing, as it is not the idiom. But ypat rirt= fies, Frente
+‘aaa, gk att=Afkas, mfram Here there is affixing after a dual and
+plural, for the words f&, r@ are essentially dual.or plural, and in the case
+of gmt and arg, those are always used in the plural, for it is not possible to
+purchase anything with a single grain of 3x or are .
+
+wren farts eeeiteitearat Re ar re, ares, Seatseaat @
+
+Fr n reels corerratiatiratreraternes meee eae aM, ee Fare aE
+& sort re Pk eee -
+
+wife u rea irare TaP Neng: CATT TTE RATT
+
+re 0 afiraTaTehe RTL . .
+
+38. The above affixes have further the sense of
+
+“ for its sake”, when the meaning is a relation or an unwont-
+
+ed appearance. . . :
+
+The word qeq shows that the word in construction must be in the 6th
+case, the word fifi ‘cause or occasion’ gives the sense of the affix; fart means
+‘a connection, or relation’: geqra: means ‘a portend indicative of good or bad
+luck.’ Thus qaeq fatast waatiar aart:= ger ‘a connection with a rich man
+for the sake of getting a hundred.’ So also waar, erga 1 So also wavs fairer.
+sera Winfree = gers, wleTr, ae “the twitching of the right eye for the
+sake of a hundred "i. e, indicative of acquiring or losing a hundred, a thouse
+and &c,
+
+Vadrt :—The above affixes come after the words ra, fret, and wer in
+the senscs of allaying or vitiating. As afer ‘ allaying or vitiation of windy
+humour.’ So also Utes, Situ
+
+Vdrt:—Also after the word aPaqra, as, aera
+
+rarsttserearaftarorsargas tak a Tas Wit-aretr:, atatear-qhte
+ATT-asaTy:, TT HW
+
+at u ares ares arfiearererattropantetiatsarag erat waft wea Fife
+earirqahreatertyt ) sardtarcarg a ;
+artery t erreergreearry
+
+39. After the word :i and after a word having two
+syllables, with the exception of a Numeral, or a Measure of
+3
+
+ree rrr ert, wee
+
+## Page 36
+
+S67: ert and ama T BK. V. Cit. L'§ 43
+
+capacity, or asva a &e; the affix'yat (7) is added, in the above
+sense of ‘a relation or a portent for the purpose of that’. *
+ye This debars sa. Asi ffir &arn wera at = Frey fa connection or a
+portent for the sake of a cow." So also after a word of two syllables, as,
+baa Seria, auedet, wget *
+
+* Why do we say “wlien not a word denoting a Numeral, or a Measure
+
+of capacity 'or ereg &e"? Observe Gatat P= TraL, AHH HEH; TTT
+créer, wire: formed by V. 1, 22, 18,19 ° ”
+
+©. f°  Véyt:—The word mere should be enumerated: e. g. moredaey
+Pret gen sane: = agers “ relationship with a a teacher in order to acquire
+Brahmavarchasa” » Meet
++. lea 2epm, $ wa, sek Sen, Sear FT SE wo
+GAPS TN ven TaN gee, TM
+gRe u gergeres: vert wafer qarTee wer Fifrt eairtrerrenParcaafenterwa uw
+
+40. After the word putra, the affix chha (ga) also
+‘Contes, as well as yat (@), in the above sense of ‘a relation or a
+portent for the purpose of that.’
+
+The word gw being a dissyllabic word would always have taken qq by
+the last aphorism. This ordains & also. Thus gwen fart earn sear w=
+sre or gram
+
+‘ehyhrghtetyaraersit 1 vy tl wart n ahege-ghrdrean, aussi. f]
+
+ahr: o afetytatrenat qareronst rent wee, wea Pfr cantrerenfreafer-
+Faat caret u
+
+41, The affixes an (+—=) “and afi (+/—2t) are
+Fespectively added to the words sarvabhimi and prithivt, in
+the above mentioned sense of ‘a connéction or’a portent for
+its purpose”.
+
+This debars way. Thus eiitetdam seri et entire, so also arttes it
+In ara: there is Vriddhi of both members of the compound by VII. 3. 20,
+
+SSPE W UVM TEN Nl aed, dea: He
+te Waa Cerabal shun etree rent wre hae reset
+fsc., :°420 To thé same: bases sarvabhfimi and prithivt,
+are added the same affixes an and aii respectively, in the sense
+of “lord thereof”.
+
+svit Thus siete arin: ‘the lord of the whole: carth’, ini ‘the | lord
+‘of the earth’ .
+
+“oN . .
+AN .
+
+## Page 37
+
+a
+
+BK..V. CH. L §°467 wr . 3
+
+. The word aga; showing the genitive construction of the base, has been
+repeated in this sQtra, though its anuvyitti_ wag _funning into it from V. 1. 383
+in order to show that the senses given in V. 1. 38. do not extend further. Had
+wea not been repeated here, the word tr would have been an attribute, like :
+the words @art and zeqra, of the word fit e :
+
+. awa de anean art A ere-Paitett-a (were) A
+are: Weare extreripal etePreataat waren reat aeg:, fatter rey
+’
+fom 43. To the same bases ‘sarvabhomi and’ prithive,
+‘being i in the 7th ease in construction; are added the same.
+affixes anand. at meapectinely when the sense is that of “know
+therein”, :
+The word -fargn: means: “Senown poblhed &e eich ate ae
+known in the whole world, So also qf | =<. -
+BHATIA N VE cant t eeartotere S00 \ .
+‘ee " araelermusmat atte enfremeinat Peta CeareeTR HL TERT eR | %
+44 The affix thai (+/—xm) ‘comes in. the. sense -oft
+‘known therein’, after the words loka and  sarvaloka, the ith
+vase in construction. ces
+Thus arm fatter: =A, artes 1 The irregular Vridahi of | both
+members takes place by VII. 3. 20.
+wer ATT: NBS rari bee: eae
+“RT 0 reate eneftererary Ceraferat menferee TeTa eR :
+45. The above mentioned affixes (V.. 1. 18. &e)
+come after a word in the sixth case in construction, i in the,
+sense of ‘sown with so much’, P
+The word aq: means ‘sown therein’ i. e. a field. . Thus were we ints
+sarigang ‘sown with a Prastha’, itrrs, adem i.e. a field sown with a quantity
+of grain measuring a Prastha or a Drona ora Khari. > .
+ETE BEN. TNA NET! Poe TY
+hi W qTeneee OR eRe wert mare TRANG RATES} he
+' 46. The affix shthan (4—xq) comes in the senag
+of.‘sown with so much’, after the word patra. ah
+This debars ss, Thea of gq is for- accent ( VI. 1. 197), the gis for
+
+rg (1V. 1. 41). The word art:denotes a measure of capacity. Thus us arwcartl
+= dita tree, fem Tat Wena os . gay
+
+i
+
+## Page 38
+
+869 a Bx. V. Cu. I. § 49 J
+
+aqferrarmoragectedt rad neo a oun Wag, sre, A
+WT-SM-Yes-SIaqy, Fas A
+ae wee ToT GRA THANE TA aT THeTTTETT TENT
+rates
+ate u agubistaaary w
+
+47. The above mentioned affixes have also the
+
+sense of “an interest, or a rent, or a profit, or a tax, or a bribe
+given thereby or in that”.
+
+The affix is added to a word in the first case (qq) in construction. The
+sense of the affix is that of a locative (sft). The word Wz ‘is given’ in the
+singular number joins with each one of the word qfa, sq &c, The sum paid
+by adebtar to his creditor over and above the principal, is called qf or in-
+terest, The share of profit taken by landlord in villages &c. is called srg or
+rent. The increase ever the capital by sale of cloth &c, is called apt or pro-
+fit, The share of the king for protection &c. is called gra or tax. The pre-
+sent or bribe is called eqa@r t Thus crarferg gfe St eat aT On AT GER AT TTT AT
+eat = Fra? ‘that transaction &c. in which five per cent is given as interest, rent,
+profit, tax or bribe’, Similarly qnar, wer, Ufear, ate &c.
+
+Vért:—So also in the sense of a Dative. As Gare yfact erat a ont
+sya a Gat = Tear Yarra! “Devadatta to whom five percent is given as In-
+terest &c", This Vartika may be redundant, if we take the locative as some.
+times having the force of dative also. As in the sentence UTE wen,
+
+TOoaTEST MS TTT Gee, erat, 3TH
+ART 0 qeorentes: wenger TTA ATT TN BEATER TTT
+wt qared see |
+48. The affix than (+—q@) comes in the same
+sense of “an interest, a rent, a profit, a tax or a bribe given
+thoreby or therein”, after a word denoting an ordinal, and
+after the word ardha. ,
+This debars sq and (sq ‘Thus fat genie tht = fetter, gait
+Ger, tenitar, ante, vifse: uw The word wg is technically the name of agent
+AMTTT NVA want anna, aaah
+Pe arerrerrerg eee eT | ROTEL PTET Carentan By tl
+49. The affix yat (%) comes after the word bhiga
+in the sense of “an interest,a rent, a profit, a tax or & bribe
+given thereby or therein”, .
+ON
+
+S
+
+## Page 39
+
+BK. V. Ch. 1. § 51. J au _ 870
+
+” By the word - in the sttra sqalso comes, This debars equ Thus
+ant genieery Raa = arg or waft Cee; Arran or wrftrar fruft: w The word
+art also denotes eqarg a
+
+- weeOe aararaelet arerdkanSer It 40 W wat A ay, EC, awa,.-
+TARA, ATCA, TUNA: Wl
+TR Uae Riitererabacentverty qearftied eat wns 4
+. 50. The above mentioned affixes, after the word
+wire preceded by the word &a &c, have the sense of ‘who
+carries away, or conveys or brings that ".
+The case in construction here is accusative (ay. Thus ¢uart qcfa, weet
+errefe t= sinfter, deserter, eTersnnfter #
+Why do we say “after arc”? Observe at eft, no affixing. Why do
+we say “preceded by qu &c”. Observe sfifrart exfa, no affixing.
+
+According to another explanation, the phrase arog qunfa: is explained
+as wregat TanGa:. Then the sdtra will mean “the above named affixes come
+after ag &c. when they denote a load”, Thus arcana dura eee =siftre:;
+referer, aTeaisra: | Why do we say “when denoting a load wre"? Observe gay
+ef Why do we say after 4g &c.? Observe aregary Ritqest un Both
+these explanations are valid and traditional.
+
+The word gift means to carry to another place or to steal; agffq means .
+to carry on ones back or head, wrrert means to produce or bring, ~
+
+lag, 2 ges, 3 aqeTs, 493, 5 eg, (egm), 6 on, 7 eTeTE, 8 ep, 9 eHE,
+10 vq, Ll agri
+
+eeaqearyat amet 4h TRH Nl Ter-AsaTyATA, TT, Gat Wl
+
+OR u qoequeat Rterarabat wares 35 HT Cea Te Ta Eee |
+51. The affixes than (+ — gm) and kan (4 — »)
+come respectively after the words vasna and dravya, in the
+second case in construction, in the same sense of ‘who carries
+&e.
+Thus get gut weft a= aera, were:
+
+Serqeraene Tafa GR TENA N ATaTe, ETA, Ta A :
+
+Te nae efter aniahagra | ate feftarmorenheRy watts
+
+rere Ng | TUTTE ATTA GOTT | TTRECOUT TATE: | ART TTR A
+enteang cert Foe U
+
+62. The above-mentioned affixes have also: the
+
+## Page 40
+
+876 * wu: ( BK. VCH 54
+sense of “ what i is , capable of holding 1 that ; or takes away
+that, or cooks that.”” : :
+
+The word aq is understood here, showing that the word in construe:
+tion to which the affix is.to be added should be in the accusative. * The word
+aq means the capacity to hold the exact quantity; sagt. means. ‘taking
+away, or containing.’ Thus qeq eaafa=mifera: ‘a vessel capable of holding
+a Prastha measure.’ So qeqaagefa or THT = mifera: ‘a vessel or a person that
+takes away, holds or cooks a Prastha measure.’ Similarly areieat and eta: w
+The word gq does not govern the word qafe, thus wer raf mrareft = mrlerett
+
+* Brahmani who cooks a Prastha.’ 4
+Vart :—The affix wa also comes after the word grt in "the sense of
+‘who cooks that.’ e. g. Fre TS Bre = Froft or Mier bones 3
+
+o sreanraargreateraceane 43:0 car a Te, a, WaT,
+i, WITTE eG
+WAH mretereraeee Rete Sent treoedy ee et
+. 53. The affix kha (f4) may optionally be added:
+in the above sense of ‘being capable of holding &e,’ after:
+the words 4dhaka, achita, and patra. ~~
+"This @ debars =a which comes in the alternative. Thus are dau, be
+stad, oe eT=eTERtAT oF eee, wnrtreftar or sneer, rete or strat
+Rotter nae aman Acts, oz ae .
+aha 0 wreanframentas | sremPremercat fir: drrenftetty wy wert raft,
+THUG, TAT
+
+54, The affix shthan (+ — xq) as well as the
+
+affix @(é) may optionally come, after the same words
+
+‘ Adhaka, Achita, and patra, being final of a Dvigu compound,
+the sense being that of ‘ what can hold, &c.’
+
+The q is read into the sftra by the word of the aphorism These two
+affixes wy and ga being especially ordained, are not to be elided by V. 1. 28.
+
+But when in the alternative, we add the general affix sm, then it~is elided .
+
+by V. 1. 28. The of ga is for accent (VI. 1:19). and the g for rq Thus
+we have 3 forms: —urerwat, Seam, or ENeat; enPafra, antedrn, anh. In
+this case of anfear the feminine is not formed by stq (IV. 1. 21) because of the
+specific prohibition contained in IV. 1. 22. So also fcatfrat, fearon and ferritin
+geareaaet TN44h TaN Sfeata, BE, at aN 7
+afer 0 fetter Shree Rett: Rome: cermenitertg Tae ATE: U srarerei a-TaCe
+FENAT ET ame Rae :
+
+## Page 41
+
+CBE V..CR.L § 977] rT) ; 872
+
+‘56. After the word kulija, being thé final of a
+Dvigu, there is optionally the elision of the above affixes, or
+the adding of the affix @ (mm), in the sense of ‘what can
+
+“hold that &e’
+
+ie
+
+By ot the affix gm is‘also added.” The elision being optional, the affix
+ag Vi 18 may optionally be elided by V. I. 28. Thus we get four forms’
+fateh (ot), fetter (a), Regret (se em), tei (eL) an In the
+
+last example, there is not vgiddhi of the second term, though it was so re-
+quired by VII. 3. 17. The ariomaly is explained by holding that the word
+@t%x should be included in the exception along with gr and grey of VII. 3. 17.
+
+ Sreateraenrar 1 4G n oarh nat, eee, sre, Ter, eT
+. ahr Wee ermTerTGE TEAR UTE eTEaRE eT AAT AT TUTATEN TTT
+water
+
+56. The affixes taught in V. 1. 18 “be have also
+‘the sense 2 of ‘this is his portion, price or pay.’ " 1
+
+The q: shows that the case in construction is nominative.’ The word
+
+‘rq means ‘share,’ qet means ‘price,’ yy means ‘wages.’ Thus ¢w vier TY
+‘ar gfaratea = Pea: ‘whose portion, price or pay is five’ So awa, Tew: U
+
+eer GtarerT NS Tari az, area, oftaTOTT A '
+
+aft: u afete vraenatzeata ceutt eanfatea sera wate a errand Teach raat
+
+; 57. The affixes V. 1. 18 &c have the sense of
+
+“this is its measure.” ve
+
+The word aq shows that the word in construction should be in the
+nominative case. Thus qeq: 9ftarorreg = qrreqat Ufa: ‘a heap whose mass is a
+Prastha’ So also @rta:, Tea, Ufte, Tea, Nita, Setar, eae, THT
+Pea So also qiatita atearemted = ste, frareraar # _
+
+. Why the words aye have been repeated in this sQtra, when their
+anuvyitti could have been drawn from the last aphorism, the word @-s € and
+aqet being the same? The repetition shows that the affixes are again ordained,
+so that the elision taught in V. 1. 28 does not apply. Thus % qt sitfta terre
+a= fren, fraretae, "Here the affix is not elided by V. 1. 28.
+dearer: aardargqarerarg gen TTT Saran, eareta-gT-
+
+areaaay W-
+
+«afer ergen afta ata ot dearnfrat: aftafraretontratysroreerlte
+sent aurfsied werat water! Sareraqarraaeae Terao A .
+
+Sarat STR SAR: HTT WO Te TTTAS PORTS Y :
+- TO re ee tee ee
+
+## Page 42
+
+875 _ wn [Bk V.CHL§ 59
+
+58. The affixes V.1. 18 &c come after a word de-
+noting a numeral, in the sense of “this is its measure," when:
+the word eo formed means a Name, a Multitude, a Book, or a
+fixed way and mode of study.
+
+The phrase aqeq oftaret is understood here. The word in construction
+to which the affix is to be added should be in the nominative case. When
+it is a Name, the affix does not change the sense of the radical. Thus qeaqn
+=a ‘the Five’ as ¢war wara:, frat ‘the Three’=qregraar: uw The sense
+of the primitive is changed when it means a @q‘a multitude or flock’; as
+‘yaar an, weg So also when it means a yw ‘a Book’, as, srernarat: qftarot
+wea HUET = Hes Terftag ‘The Ashtaka of Pagini viz, a Book comprising Eight
+Adhyayas’. So also gaa Yanatrat, fire TTP TEH Is not a collection of
+‘Adhyayas the same as &q? No, the word @&: is confined to a collection of
+living beings only.
+
+The word epqaqt means ‘study’. Its numerical measure (areeer afta)
+means the particular number of times, or ways in which it should be read.
+Thus qwarsfra ‘what is studied five-times or in five modes’ wratsftet so
+also Wear or Te W
+
+Vért:—The affix ¥ comes after the words qq &c, when the word
+means a Stoma. As, Taga sar oar = teen: et, ane: ert: &c. The
+indicatory ¥ causes the elision of final (f@) by VI. 4. 143, in the cases of
+words like gafta: &c, In the case of yay: the q is elided by VI. 4. 144.
+
+Vért:—The affix feft comes in the Chhandas after words ending in
+aq and 9, as, Paefrietran:, fates Arar w
+
+Vért:—So also after the word firufa, as fafrtisiyrr a
+
+qekntat fresenfirgretaraattaraaarae 0 4k ht
+
+wana i vets, Rane, fraaaenitaa, wanna, af, ama, wait,
+sare ware Wl
+
+GaP: een oRRUTMPAAR A eM ET PUTO | ey MRPTETER GE Prete
+warierayt _
+. 59. The following words are anomalous :_pankti
+“a verse’, vingati ‘twenty’, tringat ‘thirty’, chatvariigat
+* forty’, pahchasat ‘fifty’, shashthi ‘sixty ’, saptati ‘seventy’,
+-aégiti ‘eighty’, navati ‘ninty’, and gata ‘a hundred’.
+. The words egea of.rerg are understood here also: 4 is formed by
+adding fa toq4, the final being elided, meaning ‘a verse the measure of
+which is five’, i, e, a half-quarter consisting of 5 syllables. The word frafe
+is formed by adding fae to the word fra which replaces the tio word eat-
+
+## Page 43
+
+BK. V. CH. i. §. 62)" wan 74
+
+won: asi cat afer duea=fraft: «So the affix eq comes after firg
+representing qargua? ; so for waut oat we have ~weqtftqand then add wd,_
+similarly with ¢araqu Similarly with the rest,
+
+Note s—All thé rest appoers to be the conjectural etymology of Patanjali and Kisible
+K4ra,and hence it is omitted.
+
+The word fem also means ‘a line’. As mreorrgita', Prater aim a
+
+Here the sense has no relation to its etymology.
+
+agra at at kon Tana A Osa &
+DET THe TL Cee Pearce Tee ATLA TT TT
+
+60. The words paichat and dagat in combination
+
+with varga, may be anomalously so formed, in the sense of.
+
+‘ this is its measure’.
+
+This ordains w@ instead of hind V. 1.22, which also comes in the
+alternative. As Paget, quat or (warnn, quatTh a
+
+SAAT SATS MELA TATA A Tee, eT, BaA
+aPRee w ebeee 1 erga SARTO TL TTT NS AVR SH eM TT THAN
+61. The affix afi (+/—w) comes after the word
+. Baptan, in the Chhandas, when the meaning is s that of a
+Varga.
+As an a The phrase area afters is understood here.
+frosearftadtateart Gerat sy 0 aT A Frea-wenftadr,
+Break, Sera, SW
+gir azea sferratreart  atata Prag | frowenitreoeral carat AGe we Tee
+WR, Trea TTA TTY STAINS
+62. The affix dan (+—2) comes after the words
+trifsat and chatvarinSat, in the sense of ‘this is its measure’,
+wien it is the Nam? denoting a Brahmana-book.
+
+The word qi does not govern this s(tra, The indicatory ¥ causes
+the elision of the last vowel with the consonant that follows it (VI. 4. 143)
+The force of the locative case in srg is that of ufiityg and not faqz, i.e. when
+the word means a Brahmana itself. Had the force been that of faqa, it
+would have meant, ‘in the Brahmaga literature’. As faupara: qftaerat
+wrest =“arf steronfs ‘The Brahmaga containing thirty Adhyayas’. So
+‘wrenitarf srarnft | These being the names of certain Brahmagas,
+
+arefa n gan varia N arg-arefa ‘
+
+PRE o eae RetrarareTTEea Cake eet Te ATT wl re)
+
+4
+
+227
+=
+
+—_—
+
+re ne nme rman ene Re Be cata meaner eamtn a a eas aT
+
+## Page 44
+
+875- ; Cas : ( BK. V. Cu. I. § 67--
+
+63. The affixes V. 1. 18. &c, have also the sense |
+of ‘ who deserves that’, ‘
+
+The case in construction here is accusative, Thus Saeowrtra=2q-
+wsftra: “who deserves the White Umbrella”, So also qraaftam, oer, uftrat
+Smee: 8 .
+
+Barford Pere il get eqs Sariter:,Prera
+
+ahr uo Premed ceenheaqort | Gaea fetrenerniet Rreanbtearerts aenftint
+wera wafer
+
+64, After the words 3¢ &ec in the second case in
+construction, the above-mentioned affixes havé the sense of
+“‘who deserves that under all circumstances”.
+
+Thus 8% remit = Sfta, so also Mite: w
+‘ 1 By, 23rq, 3 ary, 4 ate, 5 ae ( TH), 6 ane, 7 a, 8 dxire, 9 form, 10
+srarn®, 11 Fnarg, 12 Heer, 13 ere, 14 fora, 15 rark®, 16 gee*, 17 roe fet
+(from fram is formed 2uRe ), 8
+akdssqrera 84 wa ait Barra, ait
+ate u dttearueng fitreraniitnentaratera’t aq reat ae ar "
+
+65. The affix yat (¥) as well as the above affixes
+come after the word Sirshachchheda in the accusative, in the
+sense of ‘who deserves that under all circumstances’.
+
+Thus fieedé Prani=dtreaer, or desta: u The word firg is
+changed irregularly into ut¥ before the affix.
+avarfesar a: ween caf n qeertya:, ae
+“ghee Rea Prom wantar tartar shitter q: wert wae | warTaTE |
+
+66. After the words danda &c in the accusative,
+the affix ya comes in the sense of ‘who deserves that’.
+
+The word freq does not govern this sitra, This q debars sg V. 1. 19.
+Thus qweungta = yuu: ‘deserving to be killed’. gara: &.
+
+1 wa, 2 gas, 3 ayTs, 4 HUT, 5 ord, 6 Fa, 7 har, 8 geh®, 9 eH, 10 7, 1
+Gr, 12 ae, 13 are, 14 eH, 15 aR, -
+
+Note.—The Sidhanta-Kaumndi gives the sfitra as qarfeat aq; another
+Version gives the sfitra as qarfteq: only drawing the affix wa from the last stra.
+
+seat TN GON TANT! Saha (aa) W
+TRE aTaaRTATT CON fra eee eT wey reat ate | EMTATATE 1
+67. The affix yat (@) comes in the sense of ‘ des-
+erving thai?, in the Chhandas, after. every pritipadika.
+
+## Page 45
+
+BK V. CH. L.§.77 J 7 owe . * 876
+
+This debars eq &c. Thus ayeir gaa, Sa: gere, Feit tu See VE.
+1, 213. :
+arg tar ee tart 0 ors, oH TO :
+TRE TeraeTE or reat HTS TaTTAeT, oreo | ca 1
+68. The affix ghan(‘¢) together with yat (4)
+comes in the sense of “ deserving that”, after the word patra.
+This debars sq and sj The word qrw denotes measure also. Thus
+arrati = Grea: or Srfra: w . .
+SVERRISS TN EVN TPT HeETAAN, vs, TM - :
+hr aegentorreal 6: wert waft, warreres aetcteatahaey | TaTTTE |
+69. The affix chha (gz) as well as yat (%) comes in
+the, sense of ‘deserving that’, after the words kadahkara and
+dakshin&. . y .
+This debars sa 0 Thus aegeifr= =aegda: or Hege ‘one deserving
+
+straw’ such as a cow. So also aieetta: or eR TET: * a Brahmaga deserving
+alms”
+
+earettera nook agit | emetiera(s-at)
+aA | oaaTTaT aa | eanifrmerreset meat wee: eee | ete te
+70. The affixes chha (fa) and yat (a) come in
+the sense of ‘deserving that,’ after the word sthalibila.
+
+This debars sau Thus eurdtfaetareregar: or exreftaear: ‘rice deserving
+the pot’ i. e. cookable rice.
+
+aptarat rest Weg atl aeghayaraat ft
+afa: \ emruorreferearren eerie were wend ees wetenitaheel | rato
+aitray 0 cattmat cenitetegreearrg u
+71. The affixes gha (gq) and eey 4 + +f) come
+
+respectively after the words yajfia andyitvija, in the sense of
+‘ deserving that.’
+
+This debars s& | Thus aferat Baw: ‘a Brahmaga worthy of honor
+at a sacrifice’ emférsitir wrerr: w
+
+Vért :—After the words yajfia And ritvija, these affixes have also the
+sense of “deserving the performance thereof! Thus aganaléfy = aftrar te ‘ ‘a
+place fit for the performance of sacrifice’ @ftta wateft = serra mere
+
+Here ends the governing power of id Vv. 1 19: hence forward is the
+government of tz V. 1. 18,
+
+soe
+
+RA Aa att CRRA EET ea on ma ll eT
+
+## Page 46
+
+-877 ae -[ BK. V.CH. 1. §. 75
+
+ertrafe #92 A een W OTTO GTA
+" qorat, udaft (3%)
+
+afar: ardhrahacarae | wbeite pee! arent at fectarenibat cee
+Say Tera Tg |
+72. The affix thai (+/—<_x V. 1. 18) comes ‘in the
+‘sense of ‘who performs this’, after the words partyana, turé-
+‘yana and chandréyana, being i in the 2nd case in construction.
+. The force of séfy ceases, Thus qrraftrs >ore ‘a pupil, who reads
+under a teacher’: @raaferat esrartt, aearaforacaredt uo The word qq
+means a ‘teacher’ (qreq muta) a
+* eaerarae: H0R W Tater  Grarer-srTt (Se) 8
+‘ghee: t ererereare Atrarerrererem eee way eT aT
+73. The affix that (+/—xm) comes after the word
+sahsaya i in the accusative construction, the sense being “fallen
+‘into this, or thrown into it”.
+
+Thus queima ame=atufee eae: “a doubtful pillar", i¢ ina
+precarious state.
+
+atrart reatS 192 N caret Hl atsrereearsaie (Bet) A
++ gr u areraere fttrarerdre reodteatmey ox ret wars wv
+ET ATTA TTT TTT,
+Fre waa Prevage T RTTTa TTA TIAL tt
+: 74. The affix thas comes in the sense of ‘who
+goes’, after the word yojana in the accusative construction.
+Thus tay weatt=atatrar @
+vare :—So also after the words mraaq and araqua. As mrqofaa,
+
+Vert :—The affix after these two words means also “who is worthy
+to be approached from so far”. As mrewanPerrrnga = =mrrafrar fry:, ara
+Ofere Brae:
+
+Te: VT NSH TET A Ter wee “
+Rettererrate
+
+75. The affix shkan (—m) comes in the same
+-sense of ‘who goes there’, after the word patha, being in the
+- Qnd case in construction,
+. Of the affix ena, @ is for ae (IV. 1. 41), and q for accent (VI. 1. 197).
+"As wart wept = ifs: fem, af&8t W »
+
+oN
+
+eRe OS SSeS
+
+## Page 47
+
+y
+
+BK. V. CH. Lg§ 78) wan _ 878
+
+weit or Reng nog nh car a qeettor, ere o
+ate: Regt ear TT TEE TH LUTTE Hay Or ea tee toe
+Frau
+
+76, The affix na (+ a) comes after the word
+pantha, which becomes the substitute of pathin, the sense of the
+affix being “who always gocs”.
+
+, The word freq qualifies the sense of the affix. Thus qearg fet res-
+fr= gran as get Ara area Why fret ? See gira:
+
+Seas TW 9 cart  werente-areee (35) &
+aRT u Pitas erie | serererSaT Yt arerTT TEMA ™ wear
+wae 0
+TAU TERT TRACT ETT A
+Meu RTT RG TIMA ATTEN ATS U NT ANCTATY eTeTT
+
+71. The affix 35 comes, after the word ‘uttarapatha?
+in the third case in construction, in the sense of ‘who passes
+by that way’ and ‘what is conveyed by that way’.
+
+The construction of the sdtra shaws that the base must be in the 3rd
+case,. The word shows that the word sesfy ‘who passes by that way’
+should also be read into the aphorism, Thus sacviipt=siracfies or
+SATA Tee = eae
+
+Vart:—So also after the word qy preceded by the words aft, 7
+eqs, Irae the affix has the sense of ‘conveyed by that way’ or ‘passing by
+that way’, As aicataren: = nitefrarn, nite Test = eftafire:, so also wr
+aftr, eareafirs, areas, masculine or neuter according as the affix means
+“conveyed or passing, .
+
+Vért:—So also after the words vara and ware as, sated Tee
+Tracie, cigiirs: w -
+
+Vért:—The affix wa comes after the word eqaqy when the thing
+conveyed or brought means honey’ or ‘pepper’. As eaten mga, cared aire
+
+ToT we Maar MTEL (SE) M ;
+aft: u areaReatare 1 aftr ergata arent stftarcrs u
+
+78. In the following sfitras, the phrase “after a
+word denoting time”, should be supplied to complete the
+sense. U
+
+The word wrarq bears rule in the following. aphorisms upto V. 1.96
+inclusive. Thus the next sftra &q frfwq means ‘accomplished by means
+thereof’, We must read the word ars into it, As maa firgwy—mitay &.
+
+Lares | os rE rm ce Sone tna IT
+
+## Page 48
+
+879 wr . A BK. V. Cir I. §. 82
+
+dar Pepa Noe watt naarean h
+afer: 0 Wale wdtrerdtenernf et sneered reat ef
+79. The affix than (+/-xm) comes after a word
+denoting time, being in the third case in construction, in the
+sense of “to be accomplished by that time ”. .
+
+Thus wgt Frt=snigarg “to be accomplished in aday” i. e. a ceftain
+
+portion of reading &c, unfarftrad, airrafierg u
+
+wena Tat yee ara oN TATA Mae, aaa, eT, art
+wen ais fedrererndicerseter sufeafearetrer zat yat carder warfare
+rerar wate u
+
+80. The above-affixes come after a word express:
+
+ing time, in the accusative case in construction, in the senses
+of “solicited to instruct for such a period, hired for sucha
+period, which had lasted for such a Period, or which will last
+so long”.
+
+The word snffe: means “honorary office”, therefore ‘one solicited te to
+teach, but who accepts no pay’ IIL. 3. 161, wa: means “engaged on wages”,
+‘We means ‘the time pervaded or occupied by its existence’, and art the same
+as last in the future, The word denoting time will be in the second case
+by II. 3. 5. Thus arenfte: = nfadirsarrar, so also aretra: = afer: awtac, ard-
+ee ante cary: artaret = fas were 0
+
+Q. The solicitation (aqqo) and hiring (axe) only take a short time,
+how can these acts extend over a month ?
+
+A. It is not these acts, but their results which “extend over a month,
+such as, teaching and serving. .
+
+areraare acest WR TAA ATaTg, TATA, Tawa
+OR: W rere TTA meer ea TTT | wASTATAY
+81. The affixes yat(Lq) and khafi (+'fa) come
+after the word masa, in denoting ‘age’.
+This debars sg" The word 4a of the previous sOtra should be read
+
+into this, Thus anna: = area: or atdtat ‘a month old’.
+Why do we say when denoting ‘age’? Observe atte: @
+
+Reig new n wart n Retr, wee
+afer uw mrareaehtfey 683 | arereary Fvirey Teme aRe THEA |
+; 82. The affix yap (%) comes after the word mass
+when forming a Dvigu compound ; and meaning ‘age’. .
+
+## Page 49
+
+(BK. V. Cu. 1 § 87.) an 880
+
+Thus & arat Sa: = fate, Praren:
+- GeRTET wa NAN TAT MN TwATETe, VTA A
+afr u retreats | qorrareraeahyy cay Tet Tae, aE TN
+83. After the word shanmfsa, come the affixes
+nyat (+—<) as well as ay and aq, in the sense of ‘age’.
+Thus qreareat, qearer:, and qrenfera: tt
+aera deren aren raat, oy a
+AR U qoareraeTeTaeaaNy oy vera way
+84. The affix than (4—e) comes also after the
+word shaymasa, when ‘age’ is not meant. .
+
+The q draws in the affix ew also, Thus qrarftre or reat ue ‘a
+disease lasting six months’. .
+
+aT: Weg TENA Bara, we
+
+ahr u onterawend su agrre | aarnearg fietrarrraig wierfietig er wer
+ware l ostrvarg: w
+
+85. The affix kha (€2) comes in the fourfold senses
+of solicited, hired, lasted, and will last, after the word samé.
+
+This debars sz Thus qarnftet, wat zat art at = ert: uw Some say,
+the sense of the affix is #4 Pra V. 1. 79, as amar frp: = att u
+
+fatat a <Q nu water ul factr-ar (@ ) a
+
+afar u aarar @ cert! eaTeeary fenpateaty wg Tt a Terr wafs ow :
+86. The affix kha comes optionally in the senses
+
+taught in V. 1. 76, 80, after the word Sam, forming a Dvigu.
+: In the alternative #34 will also apply. The V4rtika taught in V. 1. 20
+Carat: dearrivaat aqaries agin) applies here also. Thus faardta: or tare
+fern: rare: or Serie:
+
+TAUECATATTS Mt 9 crate crP-mre:-ctarereray = (@:) 8
+
+RT 0 of ore: erent Cerrray AonPrpaertg we reat ae | er TT
+aft wafer 0 : :
+
+87. The affix kha optionally comes in the fivefold °
+senses (V. 1. 79, 82), after the words rftri, ahan, and sam-
+vatsara, occasioning a Dvigu. . . .
+
+In the alternative #33 will’ also come. Thus Fexretor, tates, te
+NIL + 145 or wes, fatrede:, igatreatcr: VIL 3 15.
+
+cee | coe = Ln Ne A PR Re OTS ERIN
+
+## Page 50
+
+881 wu [ Bx. V. CH. 1. §. of
+
+adegg when watinic ee <e
+{fee u rere | werere ReeteRNeneeg as eT wear et
+orate a
+88. The sbove affixes kha and thift may also be
+elided after a Dvigu ending in varsha.
+
+The affix @ as well as ex come in the five fold senses V. 1. 79, 80,
+after the word ayf forming a Dvigu; and these ech affixes may also be elided
+
+optionally, Thus we have three forms; fetqion, fearaar or ferwt wafer ‘a
+disease that lasted two years’, Compare VII. 3. 16; but when the sense is
+that of arg, the form will be Yetta: «
+
+freant Preavaznenu waft 0 Rrerata-frere (we)
+afte u Brena werent SPAN oedeane fief penferet genres Termes Fred Bera
+89. The affixes meaning accomplished &c V. 1.
+79, 80, are necessarily elided after the word varsh& forming
+a Dvigu, when it refers to a being endowed with reason.
+Here the elision is compulsary and not optional as in the last. Thus
+
+ferat aren: ‘a boy two years old’, Why do we say fraafe “when meaning
+endowed with reason”? Observe faagjor cana:
+afer: efector qeaeaucon carftnsfier:, sfate, read ut
+afr u Qieaeh fret, serra, | yfaruerydtoraratens wert Pret
+qTeparcafermy, aftrasrer y arg: w
+
+- 90. The anomalously formed word shashtikah has
+the meaning of “ what are matured in six nights”.
+
+The word qfear may be said to be formed by adding "a to qftufe
+in the 3rd case in construction, then eliding the word a@, the force of the affix
+being ‘matured’, Thus qitusra qeara=qftar ‘a kind of barley’. It isa name
+of barley and therefore does not apply to pulse, beans &c, though they may also
+ripen in six days.
+
+SRAUFATSSRT TA NSE wat h aeercrara, w TARE a
+afte u qerararenfiafeantagantertg Grate AVS OF eRe AeiS | TAT TE H
+91. The affix chha (€a) comes in the Chhandas,
+in the fivefold senses taught in V. 1. 79, 80, after a stem end-
+ing with vatsara. -
+
+This debars sq Thus querdta:, eureeeta:
+dakar Tne a sarft n etaftgatet os
+afr Sattapteereraentrshearearae Fee Praeger raft, reTES
+\
+
+n
+
+## Page 51
+
+BK V. Cu. I. §..94) . mH : , 882
+ce
+92, The affixes @ (f%) and g (fa) come in the
+
+Chhandas in the fivefold senses taught in V. 1. 79, 80, after .
+
+the word vatsara, when preceded by sam and pari.
+
+Thus &qeaftor and darata:, oftrenior: and oftrerter @ .
+aa oftereqeyrarirgece 1830 Tae a aa-aCae, or, ort,
+BCLs) Wt
+
+ae wae RtemerTetemTerT eee Fe EaTeaTeeR mo ard gar madly ™
+rerar wary w
+
+93. The affix than (ioe or w) comes after a
+
+word denoting time, in the 3rd case in construction, in the
+
+sense of “to be subdued, to -be gained or attained, to be.
+
+completed and to be easily completed in that time”.
+Thus wraaiaftsea: (read 3d) = nirat ait, atrerhtat care, mat Load
+monte: 1, ait ara = ae Aree, ATT ERT =e ATaTE MO
+
+ATET AETATA (SH) AVM TATA Ml aa-ereT, HATTA
+ae: uw efeher rer aries Tos way req Ta, TATA PALE meray AeorTs 0
+ania firearm rr afarheareeare weat oxy wera wake marred Yerrags w
+nftart aerrenips whey spear Meu Tees
+are u srTATeT ea RerrreE Mare nt HerTentiaad gow Rete ce
+grew argareara Taree E_w Fee THe: ee UAH oar aR
+To U RATATAT TATA: Mt .
+
+94. The affix thai comes after a word of time i in
+
+the sense of “an abstinence that lasts so long” or “who prac-
+
+tises abstinence so long”.
+
+The word eg shows that the word must bein the accusative cases
+sqeq shows the force of the affix, meracd: joins both, Thus art mgracia= .
+arferat Herart “who practises abstinence for a month”, So also ertpnftan,
+atreafte: w :
+
+Another explanation is, the affix thafi comes after a word in the Sirst
+case in construction, when the sense is that of an abstinence which lasts for
+such a period. As ardtsea mereaea= faa wari,“ an abstinence lasting for
+a month”. wndnfert, aireafte u
+
+In the first case the affix relates to a person, in the second, to the vow
+itself. Both these explanations are valid, as the structure of the aphorism
+is open to both constructions.
+
+Vért :—So also after the words myrargt &c in the genitive construction,
+As wre Tarenteng,, Ste safer, .
+
+## Page 52
+
+_ 884. : su "BK. V. CH. 1. §.96 }
+——— SSS
+Vart :—After those words, the affix means also ‘who practises that’.
+As agranitaia =srerifra:, snfreatar, trea: aera + oe = ae t OE
+CVI. 3. 35 Vart)= arerntaar (VI. 4. 144). aeIer ST, TT TEA ae
+Vart:—The affix ff% comes after the words stztareiar &c, in the
+sense of ‘who practices’, As sraracthatadfit = sara, freatarg a -
+* -Vdrt:— The affixes ggqand fay come after the word HEATON. as
+sresenitagain warts = seaenttea: or weenfeharg Wt :
+. : Vart :—The same affixes come after the words qa &c, the final a
+being clided. As aqafemt wit = argiraa or srgairey u .
+‘ Vart :—The affix eq comes after “gata, in the sense.of ‘produced there
+As sag aia watt = argent ut It refers to a sacrifice,
+Vart :—The affix wy, comes, when it is a Name, as, way meg | we
+sagtich Grate 1 So also ward, aida, sreuat
+
+were aggre TaTeaT NRG TATA NL aeT, a, TT, —
+(sa)
+afa: 1 eae beat eects eARra RAMEE ESL eT Te |
+95. The affix thai, comes after a word being the
+name of a sacrifice, in the sense of “ the fee thereof”.
+As nfadines tito = snftaditrat, arsiifiat, orgheat tt
+The word sreat in the sdtra implies that the affix comes even after
+those sacrifice-denoting words which do not express time (V. 1. 78); had it
+not been used, the stra would have applied only to such sacrifice-denoting
+words as Gae:, azure, which are time-denoting words as well. The Vartika
+in V. 1. 20 would apply to arqutg &c. Some texts do not read ¥ in the s(tra.
+ar @ Grae BY WATT meen waht Last, &, HA, Bee, ITT
+(sa)a
+fa: u aaa aRntaratenre at: marth ener trea rrrererar wai 9
+96. The affixes having the sense of wa (IV. 3.
+53, IV. 3. 11) come after a time-denoting word, in the sense of
+“what is given in that, and what is done in that ”.
+
+As ma aqa= nfat (IV. 3. 11). This word also means ae at and
+ama ata w Similarly aigeates,” srqaed (JV. 3. 17), arateaars (IV. 3. 20), atarre
+CIV. 3. 16), Brery (IV. 3. 22), Gara (IV. 3. 16), afew (IV. 3. 21), ureee (IV. |
+3. 16). All these words mean also what is given or done in those seasons,
+The word aq in wqaa means that all the rules of qarm: (IV. 3. 53) apply here,
+
+This sQtra should be divided into two parts, one joining with the
+previous sdtra, as 85T y tae, aang, as Hea AM, TaN, THAT Y
+
+oN
+
+## Page 53
+
+BK: V. Ch. I. §'99.) ° wqus 88h
+
+. So far does the word are V. 1. 78, bear rule. Hereafter general affixes
+will be taught.
+Buys soy YoU cat N eqerPcea:, aro
+aft: | ate aetarhar queen tas altreaarey wera wae t
+aR 0 TRC SAPs TTISATTy | -
+97. The affix an (+—21) comes after the words qu
+&c in the 7th case in construction, the sense of f “being givert
+therein or done therein ”.
+Thus eg? @aa ard a= Yara, ear
+Védrt:—So also after the words wftaqe &e. As, waren ae a]
+This VArtika can be dispensed with, as the word witqqz &c can be included
+in the egeri list of words, .
+1 oge, 2 fren, 3 Premanr, 4 Sra, 3 aqemrrer, 6 fh, 7 ererea (Sram), Be
+Hm, 9 ara, 10 srfrrg, 11 digas (are, 3), 12 sara, 13 s7HTe, 14 eam, 15
+da qarraraeRaTsat TAY Re SATA aA, TeT aT EAT,
+orrat .
+afr Grae erie ea ee qlaranubat aurnaEraepat auTaad wear
+mead 1ra: | Lo
+98. The affix of (+—a) and qq come respectively
+
+after the words yatha-kath4-cha, and hasta, being in the third
+
+case in construction, having the sense of what is “ given or is
+done in this way or with this”. ' . ty
+
+The words @a% and ara apply to both; the rule of quréae: (I. 3. 10)
+not applying to it. The word aqraure is an Indeclinable, meaning contempt.
+Of course this word cannot take any case-affix, it therefore only ‘gives | the
+sense of third case. As aur @ure (tat ana a= arerrarag; RAT Cay ae T=
+gery
+
+PEE HSS oat W Sree (Sst) W
+afer: w ereaee | garareerir ea TRARY oH TET eT |
+99. The affix thai (+'—ea) comes after a word in
+
+the Instrumental case in construction, in the sense of. “ fitted
+for that”. tee _
+
+The word aqft: means ‘suitable, proper, fit’. The word anfra fs
+formed by adding fafa to dag, the force of the affix being that of neces-
+sity (IIL. 3.170). As aviftzanal aufe s&= arietaa ew ‘a face fit for ear-
+rings’, qWeatraq Th i. c, Taal Maes Aa W . .
+
+## Page 54
+
+885 - om * [ BK. V. CHL § 104
+
+sokberera t too Hori A ee ere
+Te u akteupat errata gered way duet aay | CHTTTT
+
+100. The affix yat (4) comes in the sense of “be- ©
+
+ing fitted with that”, after the words karma and vesha, i in the
+third-case in construction.
+This debars thaf. afew dqat=aid cacy, Wor arava ae
+For accent See VI. 1. 213.
+eh rete Sere: w ROR aan aetsraen®, aearaiter
+( a
+wee were sadtarthe: garner warden eraee 55h recat we |
+101, The affix thai (+/—tm) comes after the word
+santapa &c inthe dative construction, in the sens of “ what
+is able to effect that ”. .
+The word s-rafy means ‘able, capable’, The dative here has the force
+of way (IT. 3. 16). As, daria saafe = drain, eran: w
+1 garg, 2 dare, 3 dura, 4 dan, 5 vay, 6 dda, 7 tq, 8 Freya, _ 10
+Pref, 11 fren, 12 zrert, 13 gare, 14 sre, 15 dare, 16 GTe*, 17 aera’, 18 Gites,
+19 aR, 20 nietterrfeytarel, 21 wren. w
+“aterrerer WoV MN AA N tra, Ta, TN
+ahr | Aereeraererat HUR, THIS TH, Te TTL Seay |
+102. The affix yat (q) is also added in this sense
+of ‘able to effect that’, after the word yoga.
+Thus errr weaefit = tem or fiftrer
+enter Sac l FoVN TATA A HEtor:, THT A
+afer | ates cerry get perdrerarerres | 553 see |
+103, The affix ukai (+/ sm) comes after the word
+Karman, in the same sense of ‘able to effect that’,
+co This debars sx. As mitraaaitearahug: w= This word argag means
+always a ‘bow’, and is never employed to designate anything else, -—
+SATSATET STATA Re A TATE AAT, Ta, eaeTET ( Sr) A
+Sem NER rea weaeG ce wy wert Te qrermTaTs wi-
+104. The affix thai (+/—<=) comes after the word
+samaya in the first case in construction, in the sense of “ that
+has arrived for it”.
+
+## Page 55
+
+ane ca
+
+BR. V.CH. I. § 109} owe , 886
+
+Thus arafrk at ='a work for which the time has come’.
+
+EATEN Rog TaN SEA, SUE
+Te: 1 egeN MTRTR ESTAR | TUN AALS TAT amine area eon sq aeedt wu,
+eee ATMA ery FARA
+afer! area THT STTSTPA areearry "
+105. The affix an (+—a) comes after the word
+yitu, meaning “that has come for it”. .
+As qegarttser = 8rd ST (Guna by VIL 4. 146) “the flower for which
+the season has arrived”,
+Vért :—So also after the words ayra &c. As Vitra, SIfawe a .
+sale Tq oR Vast N oeate, TA ~
+DA U TTT STS TT TE TeTgT NS TET ATATACEM TTT | soa:
+"106, In the Chhandas, the affix ghas (ca) comes
+after the word gq in the same sense of ‘season has come for it’.
+This debars wu. As way attrctera: Here there is no Guna by VI.
+4. 146, because by sftra I. 4. 16, mq before the affix qq gets the designation
+of qq, hence the guna rule which applies to ¥ (I. 4. 18) does not apply.
+TST WON Tara Nl Hata, Ta
+Pa: U RMSE ANS TET TTAARALAT TTT |
+107. The affix yat (&) comes after the word Kile,
+in the same sense of ‘time has come for it’.
+: As areaeart:, ated UW See VI. 1. 213.
+THE TM Roe TATA Ml THA SH a
+gfe: u qreriseaa eres Te mee PTT RT aaa Peas eRe TeATATERTETTES ”
+are TOU TH TAT ATT |
+108. The affix that (+/—x—) comes after the word
+Kala in the first case in construction, in the sense of “ long-
+standing ”.
+As seer STAI = ST REOT “long-standing debt”. afer Bex “long-
+standing enmity ”.
+In this sQtra eT and az are understood, but not so the ford are
+STATHAM LOL TAT MN Tete (SST)
+Rt: u atta rerarenaieedra seat om ret era, areas Tart Aras
+109. The affix thai (t '—e) comes after a word
+
+“in the first case in construction in the sense of -“ that whose
+
+occasion or Purpose is this”
+
+ees to san cea meneame ee itenesee
+ae ursar-- eee poe
+
+oe eee
+
+## Page 56
+
+837 on : (Bx. V. Cw 1'§ riz
+
+As Tart satsarea = = tanfeay, maritary
+feurararerqenzaqusar: n gto Maza Rearerscerera, aq,
+werquedt: bo
+aren u Paverereraemarre Tea wah area HereTaP Ara eaeaNa meee NRTA
+Preaar: 1
+Sra! rerhey TTaATTT ‘
+110. The affix an (+—#) comes in the sense of
+.‘that whose purpose is this’, after the words visakha, and asha-
+dha, when the derivative of the first is combined with arr
+and that of the second with qvw y
+As rat aren, ateTer wou?
+Vért:—So also after the words wet &c. As wat wars = Hew,
+TST TATTAARS = TA
+AGTASASTRS: ULV Tana W ageaTafyes:, wh
+. afar aareriea: meets: read we aT TarTaarereey | THT TT |
+aiitarn u Rraghaasterea crag IS eT Nate emia aaTT w
+Ae W PACA ATMA HTH w
+111. The affix Chha (&) comes in the same sense
+of ‘that whose purpose is this’, after the words aguaaa &e.
+This debars ew. Thus squares yarsrraea = gnTetag, Tear
+Vért :—So also after the derivatives formed by the affix wa (g) from
+the radicals fq, ‘to enter’, gg, ‘to fill’, qq ‘to fall’, and eq ‘to mount’, when pre-
+ceded by a word. As qentarttery, aargeinery, sraarrentiag, Ararat
+. Vért :—The affix aq comes after the words ent &. eT warere=
+
+UAL, ATTY, UTA, BAL, VTA Il ;
+: Vért :—The affix is elided after the words goaryaraa &c. As, qoarg-
+
+SIT Tae = Prareanrst, eeeaaTet, TAT TTT
+: Legere, 2 acura, 3 aveuray, 4 ata, 5 atu, Cugutea, 7 uae,
+Sagem, 9 waa, 10 Hegre, 11 ATT, 12 sae, 13 wre, Magra,
+15 wane, 16 oe
+SATTATA TAT ATA MVM TATA THTTATA, exivara (5)
+
+afar u aarereregirafceragtrares! Waa TART TTT TATTATA AEE | THT
+
+wae!
+112. The affix Chha comes in the same sense of
+“that whose purpose is this ”, after the word samfpana, when
+it has a word in composition preceding it. —- .
+
+\
+
+## Page 57
+
+BK. V. Cu. I. § 115.) A a) . - 88s
+
+This debars su Thus ot aargd Tarr = oy! GATT, SATHCT
+wareftag | The specific mention of the word qin the aphorism indicates
+that the rule will not apply when a word other than a ‘ pada,’ such as the
+affix ‘ bahuch,’ V. 3. 68. precedes the word Sam4pana.
+
+Tarte VT gM Tae Rarfoa, HT a
+TAT u Garmftag ef Para SANT
+113. The word Rarnfteg is irregularly formed, in
+the sense of a ‘thief’. . :
+© The feminine will be in stg Thus warmt waravtea=Yarmfar fem.
+*aitu This word can be regularly formed by <2, but it will always be res;
+tricted to mean a thief. When any other thing is des'gnated, it will not
+take this affix, Thus varmt sarsrmeq fret: here there will be no affixing.
+The feminine moreover will be in ¢tqu Some say the word is formed by
+adding the affix gaz with the irregular Vyiddhi of the first syllable.
+— ararferererrasat nee Tare I aries Zz, TTA A
+aft: un oraritarg 08 Paread araraT et | AAT TET wT | wTETa-
+Vieng rears FraTeae |
+aaa WATT SOs :
+114. The word Akalikat is irregularly formed in,
+the sense of “ what coincides with the beginning and the end’
+i.e. what lasts only an instant”.
+The word eras is substituted for garam. Thus srrarfiar: cane
+‘a thunder lasting for an instant’. strarfeat fruq “a lightening lasting a twin,
+kle”. i. e, whose death is equal to its time of birth or dying as soon as born.
+
+Vért:—The affixes sq and esq also come after sqrats; as eraifoat
+Rau . :
+So far is the governing power of the affix s% V. 1. 18. -
+an get Rear Sate: neg ware naa, qed-far-aet ata:
+aha: wate etrarerabaeainet afer: erate wafer aeaet fara Sree arate
+115. The affix vati (==) comes after a word: in
+the third case in construction, in the sense of “like that ”
+when the meaning is ‘similarity of action’. ,
+As ara ara 883 = mregorry, TTT °
+Why do we say “action”? The affix will not be joined when the
+similarity i is in ‘quality’, As gyorag eqs: “as big as the son”, gary qa: fret a
+
+TT TRTT HN RUG TET NL ars veT ee ( fer ) A ar
+
+eam re |
+
+## Page 58
+
+889 : . wan ( Bx. V. Cu, £. § 120
+
+wer wf afar Sorermare eat af were waft
+
+116. he affix vati comes also in the sense of
+
+“ like what is therein or thereof’.
+
+As ayuarfia= "gaat ‘like that in Mathura’, as — RTTC, TERA
+THR SRT Ter, Para Tera aT TET ATT Ec.
+aad neon caren ag-aréen( aia: ) 0
+afer w atthe ftdtarerrateéhicraternyt fer: reed wate
+117. The affix vati comes after a word in the
+second case in construction, in the sense of “befitting that
+or suited to-that ”.
+As aarriia = "1aaq meme “the protection as befits a king Le.as a king
+should protect”. srgoreq, eftqa, uPrarry 0
+Saensargres args Re Tana sTeia-seTe-areaei(ale) a
+ate: u scartreands rete verrrareeny aftr: sear rate orate FTA
+118. In the Chhandas, the affix vati is added to
+an Upasarga (Preposition), in the sense of averbal root.  -
+
+As the word aya and raat: in the following Rik ( X. 142. 4).
+
+aguat fasar ats wag Tete seatits Baru “When thou O Fire ! goest
+burning high (aaa! = sqarz) and low (fata = Frrarg) trees &c.
+
+TET ATSTTST WLLL MTT MN Tee-ae- eae HT
+air u aeae wraratg are raerny eraet Nera TT :
+
+119. The affixes tva (eq) and tal (— — @ or =)
+come after a word in the sixth case in construction, in the
+sense of “the nature thereof”.
+
+As sored art: = epaeta, or Sat, Hert or strar
+
+BTS cata ROM GAT a-a-care ( ea-aet )
+aha: u areroresy ef eaafer | oer CaeTAa TET UT ata SETA CATT, ET TART Te
+warafepar Wiaeat a
+
+120. From this forward as far as the aphorism V.
+1, 136, the affixes <@ and a bear rule.
+
+Thus in V. 1.122, ef and qq are read, giving the forms aera and
+qgat &c. This rule is intended to secure admission for these two affixes not-
+withstanding the bars in the shape of subsequent aphorisms directing the em-.
+ployment of other affixes. These affixes signify, in addition to “T# (nature),
+gt (action) also, in V. 1.124. The word @ in the aphorism is intended to
+secure their admission notwithstanding the affixes asxand esy (VI. 1.87). Thus
+fran: are: = Sora, sirens, effar ‘the nature of a female’, garg, Yeu, ferqn-
+
+»,
+
+dee
+
+## Page 59
+
+4
+
+BX. V. Cu. I. §. 122 J Ad] 890
+
+a asqdrereqarrqagremdearacgrnacaeesd: 0 k22 haat
+MATA, TAYOUA, TACT GAT FS TAHITI SAT A
+TAT at at ® area asybrqerm ene wgatersifren w
+
+121. The affixes denoting ‘ nature’, taught here-
+after, do not come after a Tatpurusha compound formed by the
+
+. negative particle ag, with the exception of the following:—
+
+chatura, sahgata, lavana, vata, budha, kata, rasa, and lasa.
+
+Thus the words sraqfe, weg and sqceftg will have two forms only i. e.
+wrafaery or Bafa, SIZTY or erqgaT, sreroftaery or sTerfiqar tt While by V. 1.
+128, other compounds will have 4g also, as Gargarq An exception to this is
+snfaga (VII. 2, 25), as used by the author himself. Why do we say #5q wre
+“a Tatpurusha whose first member is #3q”?_ Observe argeqara, STS1T3T3 U
+
+Why do we say ‘after a Tatpurusha?’ Observe, when the word wg
+is a Bahuvrihi compound meaning area Tea? afr, its derivative will be erqer".
+So also, wreraey &
+
+So also the compounds of wgt &c, with qx, e.g. wraqay, HTTAgs
+RHPA, VAY, WTA, WAHT, AC, Mee In some texts, there is
+qa instead of gq u
+
+gearfesa cafasar 822 0 art 0 genfeer;, — ark
+Rr gg ratriida: ntaaeg wafrapert ang a, Ter ars eae
+
+122. The affix imanich (x4) comes optionally in
+the sense of ‘nature thereof’, after the words prithu &c.
+
+The word 4 ‘optionally’ is employed with the intention of securing
+admission for the affixes wy &c. Thus gitar =starg nom. gtr (gg + ore
+agate VI. 4. 155 =9a+ 09a VI. 4. 161 =8ferar), or Thee by V. 1. 131. So
+also wfgat or argrgn ‘The of qq and 4g is elided by VI. 4. 155, and€
+is substituted for m@ by VI. 4. 161. Of course, the affixcs eq and aq come
+here also as, (UeTL, FEA, TIAN, Fear W .
+
+1 gg, 2 ug, 3 meq, 49g, 5 ag, 6 my, 7 ae, 8 ary, 9 Bry (eTg!), 10 ze (KE),
+11 ae, 12 age, 13 qe, 14 we, 15 Gee, 16 Bea, 17° ats, 18 ae, 19 TH,
+20 ara, 21 Ary, 22 ery, 23 wes, 24 Grd, 25 firm, 26 qe, 27 wey, 28 fer, 2
+am, 30 sra*, 31 Fy (1).
+
+qrearhysa: Srey TN RAM Ta Ni ae-zengya:, a a
+TAT 0 RTM: TRA cake Tea Ns, aTU TG, ae ATT
+Tear
+
+## Page 60
+
+or emu [ BK. V. Cu 1. §, 124
+
+123. The affix shyaii (+/—q) also comes, as well
+as imanich, after a word denoting colour, and after the words
+dridha &c, in the sense of ‘nature thereof’.
+
+Thus qaaet We = Gaert, ORT, TTS, Tea, HORT, BROT, GO
+OY, SAT; THI, wer (nom. “ar ), eeerg, TFAT
+
+The & of sax shows that the feminine is formed by ete (III. 1. 41).
+As titre: fem. vifret (VI. 4. 148. and 150).
+
+1 ee, 2 ae, 3 afte, 4 Ta, 5 Bu, 6 am (aH), 7 TH", 8 yem®, 9 HTT
+10 ge, (age), 11 wae, 12 ere, 13 fa, 14 ae, 15 He, 16 afar, 17 Wee
+18 AYE, 19 get, 20 ye, 21 Yataeranfearcerary (at is also read The affix shyafi
+is added tocompounds ending in yAta & preceded by vi, as, fraraera, fraraar, Prater,
+Sra Renret, Rreprar, Reni, wera, Petes, Pree, Prater, Wrest and Yat (V.
+1. 131); Perret, Porrent, Reiter, Srret and Rraveyet, Praverar, Froreear, Narcan) th
+22 exit, afert Tat, (Tho words mati and manas preceded by sam take shyafi, as qafaet,
+eater, £0). 23 wat, 24 ates, 25 ate, 26 TEM, 27 ee, 28 fore, 29 aye, 30 edn
+
+2 TT STM LW TATA TT aa-ATOTTA ET,
+erat, & (erg)
+
+TRE Nga Orr: UTE menipaw wae Wraps: teats wy
+wert wate | ware aie Tt
+airy watattat erienierr 0
+
+124. The same affix shyan has after a word
+expressive of ‘quality, and after Brihmana &c, the sense of
+the activity or occupation of something or some one.
+
+The q in the aphorism is employed with the intention of including
+ara or “nature”. The word a denotes activity. “eq ATT at T= WITT so
+also BTEIraR, ATCAR W
+, The words wrq and ay bear rule upto the end of the chapter. This
+class of srgm &c, is Aksitigana i. e. the fact of a word belonging to which is
+known only from the forms met with in writers of authority.
+
+Véart :—The affix does not change the sense in “rgivd &c, as WENT
+wba ngeagn agra, tea, fede, Teoe, Sarg, afin, alt-
+og, SHTML, TET
+
+1 erg, 2 arew, SHTore, 4 we TL, as Tg 5 re, Out 7 sree, 8 Pera,
+9 area, 10 stove, 1) gana, 12 fiona, 13 Pons, 14 were, 15 saree,
+16 Gafea, 17 eat, 18 eoniea, 19 agnfrs, 20 etrertrs (eta), 21 feenfee,
+22 qneq, 23 fawney, 24 qeaed, 25 maqeq, 26 epipay, 27 gus, 28 qs, 29
+faqs, 80 frat, 31 gyes*, 32 Sey, 33 frex®, 34 aa, 35 wR, 36 gyET,
+
+s!
+
+## Page 61
+
+(BK. V.CH.1§ 128) |” «<r 892
+
+37 aryet, 38 us, 39 megfer, 40 iftafe, 41 orgs, 42 ear, 43 Prufer®, 44 Prone,
+45 frara®, 36 frova®, 46 atthe: ers, aera: = Tate U 48 WA TEANTATTTAAN, a8
+saga 49 Grate 50 aay, 51 ate, 52 Profs, 53 Fare, 54 frave, 55 waaie, 56 arate, 57
+Fra 58 frart 59 faq, 60 entra, 61 Frarfea, 62 anger, 63 frara 64 Frure, 65 frsra, 66
+ware, 67 ates, 68 eta, 69 faery, 70 afera, 71 eae, 72 ets, 73 aeat, 74 EET, 75 GOT.
+war, 76 qq, 77 ge gt, 78 eae, 79 acy, 80 yar, 81 qurar, 82 fase,
+83 eras, 84 merrH, 85 gras, 86 warg, 87 wifrq, 88 wifraT, 89 erate, 90 wT
+wre, 91 ereRUTgE 92 engi, 93 wage, 94 aftaows, 95 firaey, 96 wera, 97 zaredta,
+98 Hat, 99 afeng, 100 enfery), 101 argy, 102 wnitae, 103 anita, 104 grag,
+105 gana, 106 seoret wear w
+
+SAAT TST RGN TAT  RaaTA-aa, ASTT:, TA
+TATU errrereeteraterrarttiterear vara; Tree sere TART
+
+125. The affix yat () comes in the sense of “na-
+
+ture thereof or action thereof”, after the word stena, in the
+genitive, and @ is elided before this affix.
+
+As araea ara: at T= sta ~Some divide the sftra into two arg,
+wary ara (2) wat aa Sree as ETE and ag
+SRT: WARE TTA eT:
+Ora u we@ueng &: rer ate ATTRTTCTaT: 0
+aiftrara u qaairmat Sf Tereern
+126. The affix @ comes in the sense of ‘nature or
+action thereot’, after the word afa ll
+As waaay ‘friendship’,
+Vért :—So also after the words ga and aftrg, as, gq and aforsnyu
+The word afersaz is formed by V. 1. 124, afr belonging to arernfy class.
+eaters eM RVON TAT NAT STEM, THM
+art: 0 afarkrrepat ca wera wale areaererar 7
+127. The affix dhak (+ —d) comes in the sense:
+of ‘nature or action thereof’, after the words kapi and jiati.
+
+Thus ay ater at qtoatar, sraqi The rule of aureeq (I. 3. 10)
+does not apply any where under this head.
+
+TeragUrentrsaerg Ml RRM AAT MN Gerea-qUirearyen, wa A
+aa: U peaerrefararegneaneare TH Tea HARTA T a: tt
+128. The affix yak (+—#) comes in the senso of
+nature or action thereof’, after a compound ending with pati,
+and after purohita &c.
+
+## Page 62
+
+- 893 * sro [ BK. V.CH. I. §. 130
+
+Thus targa ate: ant er Sargent, Teter ears, Meter, TITTY
+
+1 gafea, 2 ana (saaa, ose WA), 3 orfre (aurfra), 4 Rfeww, 5
+giza®, 6 ars, 7 wz, 8 ufem, 9 efem, 10 afta (aftr), 1) anfte, 12 afta,
+13 farfer (eftferm), 14 afern, 15 afte, 16 feo, (fiftar), 17 srenta 18 sreafre,
+Carsifrat), 19 afte, 20 gf (ga), 21 afra®, 22 wien, 23 after, 24 afar
+Caftrat), 25 afr, 26 sfre, 27 ade (anfea), 28 siitin®, 29 afra, 30
+Sew, 31 qaa (darqen), 22 artera®, 33 ersnfrs, 34 arene (aeat), 35 aT,
+36 afeai, 37 efter, 38 fart, 39 aif, 40 fetta, 41 efter, 42 gfe, 43 fire,
+44 ance, 45 oftrn, 46 siten, 47 offen, 43 fafiva, 49 afer, 50 nie, 51 aftera,
+52 quate, 53 afta, 54 eafter
+
+MITA SHaTataaigmsaesar soe lt Ven” carhr W sropra-smla-
+eat TAA-SATANTHT:, AT W
+“qn srerrrfaemea: manta arr TATE Tet wate ATTRA
+oretar
+129. The affix afi (+’_2) comes in the sense of
+“nature or action thereof’, after class names of animals, and
+words expressing age, as well as after udgityi&e. =)
+Thos wera wet at Tesmen, sige, Rarer, Rare, ary ATL,
+lang, 2 hq, 3 afeeg, 4 wares, 5 arg, 6 Oe, 7 We (ag), STORE
+9 grrrere (aftrrora irre), 10 gg, ugg, 12 weg, 13 gy, 14 gan aN In,
+the Mantra literature subhaga takes sry, as H¢a Wang; sometimes there is no we,
+as Grarea wey Tera .
+BTaaragahe rarer Ro MN  ETeaAea-ZaNTss:, BIEN
+aRt: 0 erea: Maas Tap aATy vert wae areata
+erties u ahraeg Gere areg :
+130. The affix an (+ —2) comes in the sense of
+‘ nature or action thereof’, after compounds ending in hayana,
+and after yuvana &.
+
+Thus figresea are: mi r= Rarer, Serene; dare, ener tt:
+Vart :—The @ of sti is elided, as >t are: wT =
+
+1 gry, 2 cafe 3 ay, 4 armars, 5 gems ( gee erate ), 6 arg ( Ty), 7 Eg
+wa ( HaH ), 8 AT ( mre ), 9 aK, 10 Karey, 11 Fett, 12 yeh, 13 geht, 14 Gera
+15 gira, 16 ger, 17 gez, 18 qarg, 19 guty, 20 ges, 2l afta, 22 aera, 23
+ergia, 24 ere (era stay ), 25 Gas, 26 qe, 27 Frew, 23 fryA, 29 wwe, 30 Be
+aa, 31 sarfeaea Gare, 32 arg, 33 ean, 34 oye, 35 arya, 36 fry, 37 gt, 38 A
+a, 39 farers, 40 Gra.
+
+## Page 63
+
+eer Ne reece
+
+BK. V. Cu. I. §. 133] AA 894
+
+creane egy WRN RaTATeyata (a)
+af gree agyarey sera ware aT w
+131. The affix an (t—a) comes in the sense of
+“nature or action there of, after a stem ending in y& (x, Lax
+or #g or %), when the preceding syllable is prosodially light.
+Thus g@ Sra arf a= tren, sire (GF), aTTeL (ae), Erte, (Hoaat)
+qrema (qg), araza (ag). Why do we say agyafa ‘the preceding syllable being
+
+light’? Observe aoqera, gegen Why aan from aft? The word ang
+takes sqsz as belonging to Brahmanadi class V. 1. 124.
+
+NV. B. The word anta in tho Stra may will be dispensed with. The aphorism laghu-
+ptrvid ikah will give the same meaning.
+
+Poraguedaargs Ww TTA AT aTa-ye-setraara-qyz tl
+aha Roredtarreren eter! TRAIT A AARAT TTL! SETETATERT TN:
+“SL rerh wate aerator: w
+
+Tatra 0 eTary HRTEM, .
+
+132. The affix vui (+/—are) comes in the sense of
+‘nature or action there of’, after a polysyllabic stem: whose
+penultimate Ietter is y, and whose penultimate syllable is
+prosodially heavy.
+
+The word aqraq means the last syllable but one in a word of three
+syllables or more. That word whose penultimate syllable is we “heavy’, is
+called gaara: the drat means ‘having penutimate ¥.
+
+Thus anftart from cava, erates from qaata w
+
+Why do we say “the penultimate letter being q"? Observe reraet
+from frara
+
+Why do say gaat “the penultimate syllable being heavy” ? Wit-
+ness UTTaETT Wt
+
+Véart :—Optionally so after the word ‘Gert, as, arerrag and arena
+
+The words aqtwa and za should be distinguished: the first means
+penultimate sy//able (implying thereby the word is of more than two syllables),
+and the second means penultimate /eéter.
+
+BeaAaraTAyaaT NAR TATA N aea-wateNSsT,a (Ts)
+
+fa: u qeateaed atatheeae ga wet wae ATTRA: :
+
+133. The affix vuii comes in the sense of ‘nature
+or action there of’, after a dvandva compound and after the
+words manojia &e.
+
+## Page 64
+
+895 , > oe ( BK. V. Cu. I. § 67
+
+Thus araresvyrert are: att r= ftrmrgmtar, Vetmantet, Serge
+facet, ATA, BATT
+
+latte, 2 firres, 3 ePred, 4 wear, 5 afer, 6 ara, 7 gaye, 8 oreE, 9
+rw, 10 stra, 11 sire, 12 wt, 13 feats (WF), 14 gea, 15 HTW*, 16 says, 17 ~
+aragaa®, 18 arrgew ( ATED ), 19 arA_ATe, 20 gHUG 2 qys, 22 wrqqagsr (wT ea);
+23 arqearsy, 24 wrgeage, 25 arcrr®, 26 gags, 27 Hus, 28 waged. w
+: WRQen TaN ate-TeOTE, HaTAT-
+arerrarcag-araery (qx) ;
+Rr winerRewornRers mfr oH Terdt wee geek aTettredan sara
+Rey freneay o . .
+
+: 134, The affix vuii comes in the sense of ‘nature
+or action thereof’ after a family-name (Gotra), and after the
+Name of a Vedic School, when one boasts thereby, or mani-
+fests his contempt thereby, or when it means one who has at-
+tained that (or has come for an inspection or inquiring thereof).
+
+The word »arar means boasting; saqrare means ‘contempt’, ag waa:
+means agama: ‘who has gained that’, or eq: ‘who inquires that’, The word
+
+wa refers to tire and amu The word atta: means “who has obtained that or
+‘who has known that”.
+
+To take first qarar as wiffrxar saray or anisaar earaa “boasts of belong-
+ing to the family of Garga, or the school of Katha”, To take sreqrat, as, smf-
+wareagey, afraareagear “he manifests contempt upon another, because of his
+belonging to the clan of Garga or School of Katha”. To take agar as, mfft-
+wearite:. esata: = ATT OF eTeTTTT Ww
+
+Why do we say “when it means boasting &c” Observe mrder, avert
+The ag of mq is elided in the above examples by VI. 4. 148 & VI. 4. 151.
+
+Srareres: 1 a4 1 oar etaTya Sw: Wl
+“Rr u terme efteteren eherarrnr aT: Te TTR ATTRA
+185. The affix chha (ga) comes in the~sense of
+“nature or action thereof’, after words expressing Hotr&
+
+priests.
+
+. Thus wresrareters, Reraantat, wreroreselta, wrrefhitrere, ava eUTsHee, Met
+ec rata ii grepa: is plural to prevent application of I. 1.68, therefore the rule
+does not apply to the word-form ‘ hota’ derived from g + erat meaning a fitorj.
+
+## Page 65
+
+BK. V. Cu. I. §, 136 ) we. 896
+
+POTST: WLAN TATA TOT
+Fe ha CTS | ETT ET TER TTT ATT; SRTTTE
+136. The affix tva (eq) comes in the sense of ‘na-
+ture or action thereof’, after the word | Brahman, denoting
+y  akind of Hotré priest.-
+
+This debars @. Thus merit art af Teme This debars wu
+When gra means a Brahman, by caste, we have merry or segrer
+So much for the province of the affixes wg and eng (IV. 1. 87). _
+
+## Page 66
+
+arg -
+. a~_ A
+AT WAATaeSy Tacit: We: |
+ste ;
+BOOK FIFTH
+
+Cuarrer Seconp
+
+arearat war BR aN Tees NM arearant-aaa-Sra-aer
+ahr u fiture ariiete  aratiem tes wrethar aay a Tea wee,
+atart int waft
+1. The affix khafi (+’-f) comes after the
+name of any particular corn, being in Benitive case in cons-
+truction, in the sense of a place of growing, when that place
+is a field. :
+
+According to Béhtlingk, the Sftra should be thus translated. “Toa
+corn-name is added gq, to express the fields in which the corn grows”. Accord-
+ing to Ballantyne, it is translated “when we speak of a place for grain, or a
+field of it, there may be the affix khafi”,
+
+The word yarat ‘of grains’, shows that the word in constructiou should
+“be in the genitive case. The plural number shows that the affix is not to be
+added to the word-form ya, but to words which denote various kinds of
+dhanya (I. 1. 63). at means ‘the place where a thing is produced or grows
+(rata area)’
+Thus gat art it = ardtre, &dtors, dreekert a
+Why do we say “of grains”? There will be no affixing in a case like
+this gorat wet Wt
+Why do we say “when it is a field”? Observe garat wet SW ‘a gra-
+nary where kidney-beans grow’.
+BATTS RN aul eerhe-ear:-TH A
+gRr u atitartacwat wa gerd way at HT SHY TTTATE
+2. The affix dhak (+—a) comes in the above
+sense of ‘a place of growing, when it is a field’, after the
+words ef& and unfs a
+
+## Page 67
+
+BK V. CH. IL §.6) ws oo | 898
+
+Thus heat aed We = mea, cits ‘a field fit for growing rice’,
+
+qarannearra Wg waiter W caree-aftrera, wee
+RE wanes wepd cerena way TT AT SHV TTT .
+
+3. The affix yat (a or 47) comes in the same -
+
+sense of ‘a place for growing, it being a field’, after the words
+yava, yavaka, and shashtika.
+
+This debars qqu Thus aqrat wrt t= fer, writ, oeeeu See
+VI. 1, 213 for accent.
+
+Prarar froarttarrgrysa: 18 crf Rrra Pa aes TET ,
+
+auyea:( wa)
+ghar: u fas are war ag ory CRT Para aera wal a BY SHYT.
+
+-4, The affix yat comes, in the sense of ‘a place
+for growing, it being a field’, optionally after the words tila,
+masa, umé, bhang& and anu.
+
+The affix khaft will come in the alternative. Thus Tq ext or Yarra ‘a
+* field for growing sesamum’, Sreqa or ardtorg ‘a field for growing beans’, Seqq or
+
+irftrne ‘a field of linseed’, sera or argiaa, ‘a field of hemp’, soreiey or wTotTE,
+‘a field for small grain’,
+
+etait: wa: west 14 warfe 8 ed-ahor-ee-rerctt .
+gr cteierydtareraiees waftrnt wet wera wre:
+
+5. The affix kha (€) and khafi (+’— 7) come in
+the sense of “wholly made thereof”, after the word sarya-
+charman.
+
+The word wa is here a part of the sense of the affix, and joins with the
+
+word @a:, and not with iq. The compounding is in fact made by the affix.
+Thus erento: = ereifor or artrifor: “made wholly of leather.”
+
+THHTATS THT SW TT NaeE-ayaET TT eT
+
+TRE u qargenerergarerentaratcds watt &: wert wate w
+6. The affix kha (€%) comes in the sense of fa
+mirror’, after the words yath4mukha, and sanmukha being i in
+the 6th case in construction,
+The word qa: means that in which something is seen, such as, looking
+glass, mirror &c, which reflect things. The word qurgy is an Avyay!bhava_
+
+compound, the meaning of ayt being that of likeness II, 1.6, Thus wars git =
+7
+
+## Page 68
+
+899 0 wu BK. V. Cu. 11. § 9]
+
+qargutat ‘showing or reflecting the likeness of the face’—a mirror. wfea Gaet
+weit = age: ‘showing or reflecting the whole face’'—a looking-glass.
+araale: vergentraart samnfe non cart naqaatt:, Tea
+ena-oa-arara, saratfa (te: a
+afr 0 afte fetter eritente: | caret werarh | afte: wefehtiwor, watt
+arferattenre of org arty ow oer erry fttrararutenirdtatemey a: wera water 4
+7.. After the words pathi, afga, karman, patra
+or pftra, preceded by sarva, being in the second case in
+‘ construction, the affix kha ($4) comes in the sense of “ what
+pervades or fills the whole of that”.
+
+Thus aaqa sane -airitier; eigen, etatie gen, ater
+erat: etarai Fret
+
+aragonite ne carte warrant (er) &
+
+agar wreath Treearegeat | renaigrat eareodrara: | aeraTerefehy feettarers-
+droneirdtraternt @ erat raft so
+
+. 8. The affix kha (ga) comes after the word Apra-
+pada, in the sense of “ reaching thereto”.
+
+The word #qq means the ‘top of the foot’. "wr means “upto”. smrqg is
+an Avyayibhava compound meaning ‘to the top of the foot’. Thus sirqy arate
+= emgftt: qe ‘cloth reaching to the end of the feet’, i. e, showing the width of
+the cloth by comparison with the body.
+
+_ aguradterart sanrratarrg tS tl qanat  agug-aate-aat-
+art, warererafa- Atay (a ) 0 ;
+ahr: 0 argTarea mepaRATs Attar sar raved ara wee Wa TRACT SF: A
+Serer ATR , .
+. 9. The affix kha comes after the words anupada,
+sarvénona, and ayfnaya, being in the second case in construc-
+tion, in the senses of ‘so bound ’, ‘cating that’, and ‘to carry
+thereto’ respectively. _
+Thus wrgre wana area ‘a kind of shoe’; this word is always feminine.
+The force of wg here is that of ‘length’ or ‘likeness’, That is ‘a shoe of the
+measure of a foot. So eatarf weraia = aatariting: ‘a mendicant who eats the
+‘whole food’. So also ware: are ‘a chessman or piece that is taken to the
+position on the chess called ayanaya’. The word sraraa is compounded of
+two words #4, meaning ‘going from right to left’, and waa ‘from left to right,
+
+\
+
+N
+
+## Page 69
+
+BK. V. Ch. II. § 14. J aa; . 900,
+
+and it means a particular position in which the pieces'moving from right to
+left and left to right cannot move further, and attack the other pieces.
+
+According to some wrarqafa is the name of the front pieces in ones own
+row of chess-men. A piece which moves only in one side, does not admit
+of this affix. The piece which is carried from one side to another, admits of
+this affix. Others move only in one direction stq or syqa, but not both.
+Kaiyyata: ag ore Gan Ted Ue GY wT rahe eT, aT AY OTT arate erereo-
+faa, see ae, srareg Bare ataa, wrretrs tae ar
+
+Neon TET WATT GATT,
+waa (:) 8
+
+afer: u atrre qeege gertror ree preahe Aittarentha sameetea era or Tea Tea
+10. The affix kha comes in the sense of “who
+witnesses or experiences that”, after the words parovara,
+parampara and putrapautra, in the second case in construction.
+The word qirqt is compounded of qx and sat the sit in & being irre-
+gular, the compounding being caused by the affix. quwrrdw srgaafa = seeder:
+“who lives to see high and low”. The word qaat is compounded of q¢ and quay
+the compounding being caused by the affix. As, Tie rerdergrate = = Teno 0
+
+Similarly gairstor: #
+The word qq is a separate word as well, not formed by or admitting
+
+this affix. As afaqcera at Rrafer 0
+ararcarcrerargant mit weed Ta tarcaeaerdagent,
+“oandt(@:) a
+ara ee See TTT CHAT etre ete wera waft @
+attra n ferdare u
+11. The affix kha comes in the sense of “who
+purposes to go”, after the words avrapfra, atyanta, and
+anuk4ma, being in the accusative case in construction. a
+The word wrt means ‘nfacafa’, see III. 3. 3. The genitive case is
+prohibited by II. 3. 70: the word eft governing the accusative, Thus wercart
+amet = srarcardor: Ww
+Vért ;—So also when the words are “reversed, As qrawrém: n So al-
+so when the words are taken separately as, syardor and qr@or
+So also staat anft= saat =r mar As garter = ate war a
+aateat Parga uta warht n eaterai-frorad &
+aft u ententate ftearat geeregae: were: | Prorat we rere werd 1 mbar.
+Ort qeREMAT GAT CarcAATy seraraare feet”
+
+CAA LAY GH SHTEHCAE MIT e Uh MART RTT CTT TT NTT THT
+
+## Page 70
+
+gor - wu (BK. V. Ca. II. § 14
+
+. 12. The affix kha comes after the word sam&msa-
+mém in the sense of ‘ who bears in the womb’.
+
+The word fesraa means wt acafe ‘who bears in the womb’. This
+verb governs the accusative of time qutaat by II. 1.29. Thus qaiant frarae
+eantettn th, anterior weet 0
+
+Vért :— According to others the aphorism means ‘the affix comes in the
+sense of to give birth to or to get a young”. i. e. Frarag=rtareye uu According
+to them, the verb governs the locative: earat qarat frsraa = aaterttr, the q of
+the first aarat being elided, the restof the vibhakti(siq) remaining. Theword
+will mean “an animal that gives birth to a young one every year”,
+
+-Vdrt:—Sometime there is no affixing, but the whole sentence is to be
+used to express this meaning, or the g only of both members is to be elided
+and a sentence formed. As gat ant ftsraz or erat erat frsras wo
+
+arepararaeee 1 RQ Tar ererseira-srereee
+afer Reman 1 set Pere ereeey FA | ee watt snfegt &
+aiar Poatae,
+13. The word ‘adyavta is anomalous, meaning
+“a female near delivery’.
+
+The word furazy is understood here The word eqenq means ‘im-
+minent, near’. It is formed by wa+era+ em, the @ being changed to & by
+VIII. 3.68, Thus spay ar oat or frsraa = sradtar Wr: “a cow likely to give birth
+to-day or to-morrow”. So also wepdtar qeat 0
+
+Some do not read fersraa into the sftra, which then means “The word
+adya$vina is irregularly formed meaning imminent”. As svepdttt act ‘im-
+minent death’, spepdtit frit: ‘separation likely to take place to-day or to-
+morrow’,
+
+ware: 1B A TTR A rere
+afer rere Fe Frere # ware ae ever ite FRraTe, ara a Tea
+Tey a
+14. The word 4gavina is irregularly formed.
+
+This word is formed by adding @ to the word wr preceded by the
+preposition e, as eritr+q=srrarg ts The force of the affix is that of ‘a
+servant’, A person who is engaged in business till the return of the cows,
+Le. a day-labourer.
+
+ETT WL 0 crane W ragey-seérnit (=r)
+hr ut: gare wag | rqguerrttererny wr recat wate
+15. The affix kha comes after the word anugu in
+the sense of ‘ who is fit to follow’.
+
+™\
+
+## Page 71
+
+xe
+
+BK. V. CHIL § 19) , we : 903°
+
+Thusthe word srqq means wr garg Thus wag tate weet = crane
+‘who is suited or able to follow after the cows’ i. e. a cowherd.
+arora Tea RE TAT O area: Tee A
+hat u area Refrar erdhoregaae i anita et recon beeen Fadrarer-
+ubeuriteatent adhrerat rer u
+16. The affixes yat (¢) and kha (4) come after
+the word adhvan, in the above sense of ‘who is fit or able
+
+to follow’.
+
+Thus sparen = seri? or epee. ‘able to undertake a journey’.
+By aphorisms VI. 4. 168, 169, the word wpqq retains its original form before
+the affix q and q, not losing its final sq which it does before other affixes,
+by VI. 4. 144.
+
+ayatigres & NON TANT Nn ayatrsTa-s-a (aq at)
+
+- ght u spaftpracng fittererrufetrrtraters o: vert wns | TaTTURe Tt
+
+17. The affix Chha (gq) also as well as yat and
+kha, comes after the word abhyamitra, i in the sense of ‘who
+is able to go’. .
+
+The | draws in aq and @ = Thus spate wert = srafste:, sparse,
+spafiefto: ‘an warrior who valiantly encounters his enemy '= “frat Ge
+wrote .
+
+airoreasy aT Ul Re eat Waitara, asx, erg
+ata: uw mrattauraata Shag Rowdee atafeartregg Pa. Teas | gare wee Re
+
+Tr) eve gA hares a err way
+
+18. The affix khaii (+/—gq) comes after the word
+goshtha in the sense of ‘it formerly had been’.
+
+The word tirg is a compound of sit+ eq i. e. a cow-pen, it means the
+place all around a cow-pen. The word qay¢ qualifies it. Thus rar gage =
+aindtit ta: ‘a place which was formerly a Goshtha’. Otherwise when not
+meaning formerly, we have rat 742 u
+
+SOTAHTETT WLS TATA N sore, CHET: ( aT)
+RT U Ptarts erittate | eeroererdterattarernn er es ey Tea UT
+19. The affix khafi comes after the word aSva,
+in the genitive case in construction, the sense being ‘what
+is travelled over or traversed in one day’.
+
+## Page 72
+
+903 ered tt ( BK. V. Cu. IL § 22
+
+The word wpqeq being in the sixth case shows the construction it
+should have before the affix. The gargam: means yatta wad i.e. what is or
+can be gone over in oneday. Thus spy@rarenitset=part, as edrarta wt
+fren = area arrareaieartes ret area oe ere STRAT aT ERE dre
+sqrt rere: BRON TENT NW Meta GA, snTE-srHT-
+
+a
+aftr: a onthrartttasd Armes aareaarge sar PNA aryer suTeR 1 eRe
+cone Praag! unirrerat ergeraréar: veiar carat Reg oqearefereat a
+
+20. The word galina and kaupina are anomalous,
+when meaning ‘modest’ and ‘a shameful action’ -respec-
+tively
+
+The word srgg means ‘not proud’, wraTéa, means ‘unfit to be done’
+i.e. an infamous act. The words come from grat “a hall” and gq ‘a well’,
+It is not easy to trace any connection between ‘modesty’ and ‘a hall’, or
+between ‘shameful’ and ‘a well’. However some say qremyaaefa ‘who
+deserves to enter a hall’,= greta, aarearenetet ‘who deserves to be thrown
+into a well’ =ardtt:, hence 2 thing to be concealed, and the dress that con-
+ceals it. As urttat we, aritt tm +
+
+ara sitet wata vari a area, strata ( ase)
+afer u figures qatar anther: tarerrer peter areaReTe TH eT eS
+arranftar abrerpaa Tera ea ara Ww”
+
+21. The affix khai comes after the word vrata
+in the third case in construction, the sense being “ who leads
+this life, or who lives by this”.
+
+The word gq means a multitude or mass composed of various castes,
+
+who have no fixed employment, and live by violence, or by bodily labor. maa
+‘Mtafir = sirfta: ‘a person who lives by the labour of his body, not of his brain’,
+arcaratt Sera Tah A area, weTT tl
+aPer u arandtarne fries eas SPAY a _
+-22.° The word s&ptapadina is anomalous, when
+meaning ‘ friendship’.
+
+The word arariia comes from gnqg but the connection of senses is
+not very clear. It is said auf Gyemeaa=arerétta “formed by walking to-
+gether seven steps or by talking together seven words”. The circumambula-
+tion of the Fire by the bride and bridegroom in seven steps makes the marri-
+
+~,
+
+## Page 73
+
+BK. V.CH.IL§ 25.) e8 "904
+
+age irrevocable. eray@rt seems to have some connection with that. The
+word" araqétt: or % means ‘a friend’ also; the abstract sense being made
+applicable by analogy to the person as well. .
+
+Rawat Gara WEA TaN N Rayer, Serer (wet) A
+afer tagettt Pravecter erarat FAN | vinvirereet feEreTter, rer a EL TERY we
+We Saray
+23. The word haiyaigavina is anomalons, when
+it is a Name.
+
+The word dente means ‘fresh butter’. The word comes from W:
+‘yesterday’ and tit ‘cow’. wit tiriteea feat ‘prepared from yesterday’s milk*
+i.e. “fresh butter”. The affix does not come in the sense of any ftar in
+general. There is no affixing in wr tirgtyea fart when it means wefia or
+‘whey’. .
+
+wer Tad Cenftaoifieea: gorsareat i 22 twat itera, aT
+7S, vieant, sohfpea, Foreaest
+ws a meat weethe: dteaea: aaifeaw career araaptredar SUE WER Tea
+wea
+24. The affixes kupap (SU) and jahach (wt)
+come after the words pilu &c and karna &c respectively,
+when the senses are respectively ‘the fruiting-season of this’
+and ‘the root of this’.
+
+The word aeqshows that the construction must be genitive. The
+affix gq comes after feat words, signifying ‘ripening’, and the affix ae
+comes after @omft words signifying the ‘ root’.
+
+Thus tat iar =dtage, saegg_T, so also aniea R= atarew, TfY-
+we
+
+Laws, 2 ufa, 3 7a, 4 ge, 5 Bra, 6 ore, 7 aes, 8 yw, 9 OTR CEE ! wu) 10
+wa, 11 sity, 12 gg. 13 +a, 14 Ege. ow
+
+14s, 2 adeg (ry), 3h, 4 Oe, 5 Bre, 6 we, 7 erate, 8 eft
+
+gars: URN TaN Tara, Peon
+gfe: w retreat | eater Corerratererreary AHN A wera ATs
+25. The affix ti (fr) comes after the word paksha
+in the genitive case in construction, in the sense of ‘ the
+root of it’. ‘
+. The word ga of the last sitra is drawn into this aphortca 3 ‘and not
+the word qa aswell. Thisis an exceptional case of sayfa, generally the
+whole is drawn and nota portion, Hence arises the following maxim =afy-
+
+## Page 74
+
+905 ween [ BK, V. CH. I1.§ 28
+
+Yarirsag¢aa “Sometimes it also happens that only a part of the words of
+a rule which are mutually connected is valid in a subsequent tule, while the
+rest ceases to be valid”.
+Thus qaeq = Tene: Le. afar ‘the root or the first day of a Paksha
+or a fortnight’.
+_ Fa Preaerareordt WGN WaT ae, ee, Geary W
+an w wate qirreraifice raters gegy wry Tea TER TTT
+26. The affixes chuiichup (s) and chanap (=)
+come after a word in the third case in construction, in the
+sense of ‘celebrated through this’,
+The word fart means known, illustrious. Thus feaar fer = frargsg?,
+Fraren, ere: wn The initial — in these affixes is not yz (I. 3. 7).
+Rerspeat arash wae 1 VOW Tan Retsrrara arash ere
+aR: 0 PF arsy eRraPat arses AT ATT Lea TT: | TSN TVA ITT | HTT TT-
+wart trina Peoeai ert ararst wey wer 0 :
+27. The affixes at and amq come respectively after
+the words f@ and a3, in the sense of ‘not being together’.
+Thus f+ a1= feat ‘without’; 9324 az = Atay “several.
+Sh resserel Wen Tana Ne, ea, Testo
+fern Perey ore ogee Teaar Te | ETTARRarrTary Tansey Tera eee: Ht
+28. The affixes sdlach (w1é) and ganhkatach
+(x5) come after the preposition f&, without changing the
+sense. .
+Thus fane pR=fams, fedatu Thus these words may apply toa
+cow, as Prate:, fade: u According to some these words are adjectives mean-
+
+ing ‘great, lange’ &. There is no connection here of sense of base and the
+affix.
+
+Sirer SEM RV arf aaea-se, a, BN
+Re wag ae MA BET TAT ay | TTI It
+UAT HEMT SATS CHEETA ETAL Wt _
+are u rere: earneg Teas Te aATTY W
+Ae UA ROY THT Waren eae Te TNT NAT fee TE
+are w rEetet TA TTT Tew Reni ee Hey
+are 0 HeAA TET TTRTTA Ww
+
+29, The affix katach (w#) comes after the words
+sam, pra, ud, (and vi).
+
+## Page 75
+
+Bx, V.CH.IL§. 31) - ftequ * . 906
+
+The f& is read into the stra by virtue of the word qu Thus A
+Wee, THA, fRe
+Vart :—The affix ST comes after syerg, fers, TAT, and ‘xt in denoting
+dust thereof, As targat an = serge, Renew, TarEeR, More
+Vart :—The affix ‘rea comes after the names of animals, i in denoting
+the places. As wat eart=ainnd, afedtind, &c.
+Vart:—When a flock is denoted, the affix aeq, is added, as nftaega
+Vért:—When spreading is denoted, the affix is qeq, and sifqz: u
+Vért When a couple is denoted, the affix is figry, as, sraitgrt,
+ry .
+Vért:—When six is denoted, the affix is qaqa, as, (RTE, ST
+FETT
+Vért ;—The affix Sarg comes when it means the oil of it. As eee
+Roa, taeda, Famer a
+Vért:—The affixes urae and urna denote ‘a field where it grows’,
+after the words tg &. As QqUrEe’, FrUTEe, guia, Hua
+MATEHETCT MYON TNA U eara,Hercw, TA
+Rr: u rrreray HecL TERT ANT THT ATT
+30. The affix gacqas well as "za comes after
+the word aq q- - :
+As wager, trae, ‘downwards’, ‘very deep’.
+aa arftrarar: erat desqres aes UR Tah Nae, area,
+earam, feqareaea:
+aha u araritere tari et aiReearen: Gafeahr easy Fey ey Wey OAT Te
+aratea Sarat fray w
+31. The affixes dizq, areq and qaq come after
+the word aq, in the sense of a hooked nose, when the word
+so formed is a Name. : :
+
+Thus arfernrar taa=AeAea, or WATER, WET ~The word signifies
+the nose, as well as the person also, as erqéter anfereant, sradte? GEq? w
+
+ateeeaeterst WR oT A, Preaefertrerett
+aft: 0 ae nfearan pega, carenfate | Preemie ay sAe fre fete
+Fea TERA TT
+32. The affixes faeq and fitters come after the.
+
+word f, in the above sense of a hooked nose, the whole word
+being a Name.
+
+8
+
+## Page 76
+
+|
+
+907 : arqe | (BK V.CH.IL. § 35
+
+: .
+| > Thus Pifireqand ffedert i How do you say fiftrartur or Pied Tera?
+It is by analogy. . .
+
+eva frefire Rr rn aga wafer nrg, flew, Re, ae
+afer waar, a eRerrar afer ae ProerAMarer SaAUR TT Ret, Tet seedy
+serereredrtatita  Rroreyen mavens Frey Fer erat were
+anftrang u arate: Tera Tee NECA Fa A .
+are u fare Pra Rrareren argdt woe W gereur areca W
+33, The affixes g7a_and ftzq come after the word
+f& in the above sense of a hooked nose; and fra and fr
+are the substitutes of f% before those affixes respectively.
+Thus rf ere= re + ort = Patent ; fat Req= Prt Req Pate:
+Vért:—So also comes @, and fas replacing f, as fa+a— feta
+=e 0 .
+
+Vért :—The affix = comes after the word fy in the sense of ‘its
+
+eyes’; and faa and faa are substitutes of fa: as, fer wea att= foe, Frat
+
+‘blear-eyed’
+
+Vart :—g is also the substitute. As, gu These words apply to
+*eye’ also, as Fat, Fw, ‘du “sore-eyes.” They apply to person also.
+
+sotisat ARAAATSTaT: WRN Tae NSTI, eH,
+
+BNTA-ATRTAT: . :
+
+aftr wag wefY erat MUTeETTAAT RCA eT TTT UE
+
+84. The affix tyakan (—ere) comes after the
+words upa and adhi, in the sense of ‘nearness’ and ‘eleva-
+tion’ respectively ; the words so formed being Names.
+
+Thus gqerat= tdaerand lowland, a land at the foot of the mountain’,
+sqfqerar = yaaearets ‘a table-land, high-land’. The rule VII. 3. 44 does not
+apply here, so we do not get the forms aqferar or wiftferar & .
+
+ee AS SSN ALM TATA Nh Bent, as, eT A
+ghar: Ribaree erates: aaron teary re Te SO TATA TTR Ut
+35. The affix athach (#3) comes after the word
+karma in the seventh case in construction, in the sense of
+“employing oneself zealously in it’. >
+
+The word qe: means zealous work, Thus aif goats: geq: ‘a
+clever, proficient person’,
+
+ARET AAS ATCHNTHT CTT UREN aA aa, wer, aoraa,
+AHN ET, CTT A
+
+## Page 77
+
+[Bx. V. Ca. IN § 37.) wren . 908
+
+Rr 0 afte reretbeereanee: weed aly Tees crt ear wey w eset
+
+weeRowre :
+
+36. "The affix itach (xq) comes after the words’
+tarak& &c. in the first case in construction, in the sense of
+‘that whereof this is observed’.
+
+Thus ere: esrar wer aad: = arded TT fa starry sky’ Lea. night is in
+which stars are visible. gftqat.qur ‘a tree in which flowers have grown ‘ .
+
+The aranty class is wrefyerer a
+
+Laren, 2907, Sapte®, 4aeat*, 5 esig, 6 ar, Te (ere), ‘Saw,
+2 fear, 10 gée, Nl vere, 12 were 13 Frere 14 Ber, 15 ares, 16 gaa®, 17 gH,
+18 gam, 19 HaTe, 20 eram, 21 frame, 22qmq, 23 ex, 24 Br, 25 fagT 26 gaT,
+27 qaer, 28 Uae, 29 Frqran, 30 aT, 31 wry, 32 gers, 33 wrgTEH, 34 qr, 85 Fre,
+36 ire, 37.qe, 38 g:, 39 TeRreT ( TERT ), 40 AE, 41 SaUTY, 42 aq’, 43 sror®, 44 ae
+wa®, 45 aren, 46 air, 47 ferry, 48 were ( ee ), 49 BETA, 50 mf, 51 Fg, 52 EF, 53
+went, 54 cr*, 55 gaa, 56 mh, 57 epg ( gar), 58 draca, 59 saz, 60 ae®, 61 im, 62
+Gears, 63 qwer, 64 asTs, 65 YE", 66 cH, 67 Hires, 6S EZe*, 69 we, 70 HTyR*, 71
+ERI’, 72 WER, 73 wars; 74 aHs*, 75 ara*, 76 ras’, 77 Hag, 78 HEA, 79 qeTs, 80
+HOI*, 81 wrgre, 82 Gera ( wer), 83 gfrfree?, G4 PamaeT ( fam, T= )®, 85 Hera’, 86 -
+art®, 87 rs, 88 mrorearfenis. (afer: Tse: but wftroft fr:) 69 ear, 90 wre, 91 a,
+92 sqretre, 93 ai, 94 or,
+
+TAT IAAT: AYO Tans Use, HATTA: LJ}
+aftr u aqereagraa | afte remrenafeans caw cary OT TE CAT TELAT “T
+@e crorpraad qart Aarzafe
+enrerant w rarer Br RET: Mate UATE Te 0 TCR OTT
+ew errmeiSertenca: waren firoatefar eeag
+ate uw xareqftaropat dearer wey ees aresTe:
+re 0 TePaENny CITT TET
+
+37. The affixes dvayasach (aad), daghnach (af)
+and mitrach (#rx), come in denoting “that whereof this is
+the lineal measure ” after a word in first case in construction.
+
+The word qyeq is understood here. . Thus e WaT = HATA, TEE
+wa, Seam ‘as high as the thigh’ So also srgarwa, wrguaet and wraqwy we
+As seqaggrna ‘water reaching upto the thigh’. According to some the first
+and the second affixes (dvayasa and daghna) come in denoting the measure of
+altitudes and depths, and not horizontal measures. The affix et comes in
+a general sense also. As yeqarya,‘a cubit long’.
+
+Vért:—The affixes denoting lineal measure are elided after words
+which are themselves recognised as standards of measure, Thus qr srrTerreq
+
+## Page 78
+
+‘
+|
+i
+
+909 wu [ Bx. V. Cu IL. §, 38
+
+=m ‘that which is fama (a hand) in length’, Similarly ff: frafert Ww. The
+affix matra only is elided, the other two affixes are never applicable to these
+words, . ; .
+
+Vért:—The elision is invariable after a Dvigu. As a wit STATOTTES
+=ftur, fataier in Why do we say “invariable”? The elision will take
+place even where there is doubt. & feet carat a 9 aT =faiehe: 8 .
+
+Vért :—The affix << comes after a word, when it denotes a stoma; as,
+Saunt: Trp aft uw The x causes aq (IV. 1. 15).
+
+Vért :—The affix Feft comes after words ending in wor wy, as Y4-
+eftrincran, fatetr arat: u
+
+Vart :—So also after the word firofr, as fafirtrsfipcat a
+
+Védrt:—The affix arr comes after words denoting lineal measure,
+and mass measure, and after a numeral, even when there is doubt. As qaAr-
+TA, Ue TATED RATA TT, PRATT, TERTTR, HET, TTA, TOA TTT: w
+An exception to this is contained in the 2nd V4rtika, where matra is elided
+in Dvigu compounds, owing to the word fiat being used ‘there, .
+
+Vért :—The affixes garg and a1w4 come without changing the sense,
+diversely after a word ending. in 4g; as qrIqaad, =a TUMOR CimaieeaTTE,
+ATTATTL, TATA, TaTToaTTy &e.
+
+garartararave 3c career gay, qearary, oy, =H
+afer u agers, RATT TI geTe erat MTMTETTAP At HATHA TEA Sey
+TTA AAA, TROT CATAL Y
+88. The affix an (+—2) also, as well as dvaya-
+sach &c, comes after the words purusha and hasti, in the first
+case in construction in the sense of ‘that whereof this is the
+lineal measure’.
+
+The phrase aqea qarot is understood here. By the affixes qaary &c
+are drawniin. Thus yeu: sarerreg = Freng, FRICAT, TETENA, TTA, EATTAT,
+eCRTTHTL, CTETATTL, TFET TT tt
+
+. Vart:—The affix is always elided after a Dvigu, As ftqavayna, fagere
+fareter, Prefer, fare, Frgect, fieterat freee u
+Bayada: TATA TTTNAV NM TATA Naag-aaen:, wart, vay a
+aft: u reetraer | cata erent: Tera THT TTL TTT TTT
+Kériké wreareeateatata: Tea t
+araranfrarara ara: free area
+etree UTTER TATE CNT TRAST TAT .
+
+## Page 79
+
+BK. V. CH. 11. §. 41) fu , gto:
+
+39. The affix vatup (qa) comes after the"words
+yad, tad, and etad, being in the first case of construction, in
+signifying “‘ that where of this is the measure of volume”,
+
+The phrase qyeq is understood here. As aq qftromea=arna, This
+form is thus evolved; aq+ aqz=arag (the ti eq being replaced by wr by VI. 3.
+91)= arena (the gx being added by VII. 1. 70) = ararag (the sq being lengthened
+by VI. 4. 41); the vibhakti g being elided by VI. 1. 68, and q being eliided by
+VIII, 2. 23 we get finally arava, arard, gararg it The qftarey is used in this sOtra,
+in order to distinguish it from the word gare used in the last aphorism ( See
+V. 1. 19). Therefore aq, ay & Gaz take the affixes ‘mAtra’ &c also in the sense
+of ware, which would not have been the case, had qftary not been used in the
+stra, for then the special affix wqqz would have debarred matrach & in the case
+of aq &c; The word zrag in the karika is the name given to this affix way by
+
+~ the ancient grammarians; so that according to them there was no necessity of
+
+VIL. 3. 91 to replace fe of aa &c, by st; thus aq+<Tag= are 8
+Moreover the affix sy being added in the sense of qftare, ( capacity )
+only after aq &c, it follows that the words so formed, may take the further
+affix ara, &c in the additional sense of gare (length); which would not have
+been the case had the word qftarer not been used in the stra. Thus Tr
+ARR ATE as ured Urergt | From this army we have arn saroriea BTUe= are
+sarvq meaning araq arenes wraer Fea, aTeY WEY :
+Vart:—The affix 4qx comes in the sense of ‘like this’, after the words
+geag and srerz in the Chhandas. As rareq: gerat ag faqen area:
+feRrteat Ta: Won carn aera, wT,
+Rt: 0 PaPreangprcea agit warcea Garcicar wate u :
+40. After the words kim and idam, q (ra) is substi-
+tuted for the & of vatup.
+Thus faa +agqy=at+aqy (VI. 3.90)=H+aqK (VI. 4. 148) = faq nom.
+feara. Similarly gr nom. garg a .
+fara: crearaftaret efer seg cate i farm: xtearaftre, eft, ar
+The 0 Sear: start, GearakeSe ere: | deat ey Rew prea
+Fe eaattetens meray aA | TET | eT TCE ST ATE
+41. The affix dati ( aff with the elision of mx) as
+well as the affix vatup comes after the word r@, in the first
+case in construction, in the sense of ‘numerical quantity’. |
+
+## Page 80
+
+pee ee ee
+
+ort . waa ‘[ Bx. V. Cu. IL. §. 43
+
+The introduces the affix yy which is changed into wat (rat) 0
+
+The word gearefen® means gear: oftart i.e. Gearaiteay ‘making
+estimate by numbers’. As ay Gear dena ket sreerat= ate wre: or feate
+wre: ‘how many Brahmanas in number do you estimate these’, This al-
+ways comes in the plural.
+
+This word is formed, in fact, when a question is put relating to the
+numerical quantity (sahkhya-parim4na) of any thing. But the word sah-
+khy4-parimaga may be explained also as a Karmadhfaraya, in which the
+attributive word has been placed second. It will then mean “quantitative
+number”, The sfitra will be rendered thus: “kim takes dati, when it means a
+quantitative number”. It should not be objected that numbers are always quan-
+titative, and therefore parimAya is redundant in the aphorism. For sometimes
+numbers are used not to define any quantity but merely to mark contempt.
+As in the following :—
+
+Srararrrart snfarnrsirare! | SENT: erat weet 7 Frit un Here
+the word agaq: is used indefinitely in a contemptuous sense. Therefore, it is
+not true that a number always defines a quantity. Where famzis used to
+express contemptuous number, no affixing takes place: as @aqt dwar yur
+aratt’ The word parim4na in this sftra is not used in its technical sense; as
+in Stra 39 ante: for its very repetition here shows that it is used here to
+denote ‘quantity’ in general, and not ‘capacity’, for a number cannot mean
+“capacity”.
+
+stearat saa gay U3 Mt aaife t earan:, saa’, waza
+afer: nm aeeaaee | aerar oreey Terra Breas TaN Tay eva wear
+42. The affix tayap (3%) comes after a numeral,
+in the sense of “that whereof the parts are so many”.
+
+The word aqeq is understood here. Thus qq sqrt wet = TeaTy ‘hav-
+ing five parts’, The part being connected with the whole, the force of the
+affix is to denote the whole. So also quaag, Squad, Waeet (VILL. 3. ror and
+IV. 5. 15)
+
+fafasat avearasar 083 wath &-Asare, area, ATG, aT
+afer u akon Faferet earee fifat seer or saat wate w _
+43. The affix ayach (#@) is optionally the sub-
+stitute of tayap, after words dvi and tri.
+
+As qrraaarrea = ar or fgaray, Tay Or FAay ‘a couple’ ‘a triad’ (VI. 4.
+
+148).
+
+The word wa is used in the sitra to indicate the sthanin or thing to
+be replaced. Had it not been used, the sitra would have run thus feRearrry,
+aq “ayach optionally comes after dvi and tri", Here ayach would have be-
+
+\
+
+## Page 81
+
+BK. V.CH.IL§. 48) we. rz
+
+come a separate affix, instead of being a mere substitute. Where is the harm
+in its being a separate affix? Then the word way or Ext will not form their
+feminine in #tq; but wa being taken as sthAnivat to aa (I. 1. 56), the affix
+¥tq which by IV. 1. 15, applies to wa, applies to wa also. Thus we have wit
+uf: Moreover by I. 1. 33, words ending in qq are declined as Pronouns
+optionally before nominative plural termination, By the rule of sthanivat
+Adefa (I. 1. 56), the words ending in stq will also be Pronouns, As ¢& or er,
+8% or Wat: The qin strq is for accent, showing that the substitute ‘aya”
+differs in accent from the sthant taya.
+sargarar Frenzel a
+Rr u arrears sant Perret wate @ ST:
+
+48. After the word ubha, ayach is always the
+substitute for tayap, having the acute (udatta) accent on its
+first syllable.
+
+The affix w%q having indicatory takes the acute accent on the’
+final syllable (VI. 1. 163), i. e. on a, the special mention of the udatta in the
+
+* stra shows that the accent should be ona syllable which would otherwise
+- not have taken it i. e. the first syllable i. e. = ; for had this not been the mean-
+ing, there was no necessity of using the word udatta in the sdtra.
+
+If m1 is a Sankhya word (I. 1. 23) in the secular sense, it would have
+taken qaq, the present sdtra ordains stq instead as a substitute always. If
+it is not a Sankhya, then we should first ordain wag after it, by the process
+of splitting the sQtra 42 ante into two, thus qaqrar way, Hea TAT and then
+replace yay by 1&0
+
+Thus wit dtearftar eat wee srt Tae Perea ; whan afer w
+
+aaftraftrntife qarearg: 84 0 canta natn afr afa-
+qarare S:
+
+afer u afete serararutefentiter areratt yarerentfaterg: reat eft ererereorerh
+afrea Soraafar | ehreacoreratigeen
+
+Kériké afte warrantee crageeat t
+area ter TUTTEY Ss ated aa TT
+45. The affix da (# with the elision of #7 of the
+base), comes after a Numeral ending in dagan, being in the
+first case in construction, in the sense of “ this is surplus
+in it”.
+Thus garea afr afer w= cared wr “hundred + eleven ”. So also
+Care eyo
+
+## Page 82
+
+_ 913 wae u . ( Bx. V. Ca. 11.8 47
+wae : -
+
+Why do we say ending in qua? Observe Cantar were ae u
+
+Why do we say “ending”? Observe qanftar witty u@
+
+Ishti:—This rule applies when both words denote a thing of. the
+same denomination. As varea aration wfvar Hitt wretgo ox= arent aTet-
+wrod uw But not here :—garea aren wien sera araigrgs a
+
+Ishti:—This applies only after wa and aga, therefore it does not
+apply here :-—gareurftrat sreat Firat 0
+
+The word gf in the sftra is for clearness, The rule applies to waaet
+also, as garga waaya which may mean either (1) verge warrafvanrafera or (2)
+aT RATATAT .
+
+uqrafirarter a Ben cari n arqear-feraa: @ (e:)
+ARE u aefontaPreagr’, = tie aearontaritanigeene we: wera rahe eft
+RenfieataPara a
+TPT EATEN TROT
+46. The affix da comes in the sense of “ this is
+surplus in it”, after a Numeral ending in qa and after
+fam@ ; with the elision of ava and afr a . -
+The indicatory ¥ causes elision of f@ portion VI. 4. 142 &c. Thus’
+flere seset= fired wa, card ot, vatenitd mt This rule applies to
+abstract Numerals. Hence not here, mfrughvar wfarg trae 0
+So also after frofa ; as fat ad
+Vért—So also after compounds ending in frafe, as, gaffe we u This .
+also applies to pure Numbers. Therefore not here, «tt frafadftrenr sferq it oa
+sera grea font azz usen sais a tear, qoeq, Fon,
+
+wath
+
+ater n aTaegeae ave esratrern | afefr mammenatecearafien siferateenreenter
+Tend Fae eT UT TaeTTATAAT ToT AAT TAT
+
+47. The affix mayat (aq with feminine in vq)
+
+comes after a Numeral in denoting a thing given in ex-
+change ; in the sense of “containing so many times more of
+something” or “the price ofa portion of this is so many
+equal portion of the other”.
+
+The word aqeq from V. 2. 36 should be read in this, The sense of the
+aphorism is “after a Numeral in the first case in construction (#7), with the
+force of a genitive ("™), comes the affix 7qq, when the word in the first case
+in construction denotes the value (tart) of a portion (qmr)”. The word qm
+means arr or “portion”, and fart means ‘price’. In comparing the quality
+of one thing with another, fara is the value or price, Thus qarat & art Prara-
+
+o~\ .
+
+\
+
+## Page 83
+
+Bx. V. Cu. II. § 48.) ee _ O14
+
+neater = fierraifiacarart, “two parts of Yava is the price of one part
+Udasvit”. Similarly frra, Watast, lit. “Udasvit is fra or ‘two-times”
+the value of yava”. .
+
+The word qq is in the singular number. The comparison must
+therefore be made with one portion of a thing, with the several portions of the
+other. The ratio must be x: 1, but never x: 2, or x: 3 &c. Therefore the
+rule does not apply hers, gr anit arat Ga swag uw The x also must be
+more than one, The rule therefore does not apply here: yar art Prey
+
+The word gt denotes an integral number, therefore the rule will not
+apply to fraction. As & “mtr eararnand sefrq: U
+
+The affix also comes in the sense of purchasing or the comparative
+value of a thing, i. e. in denoting the thing received in exchange.(fa%q) As aq-
+
+paar Sant Piraret armed = ficrar:, as fora ear sahara: =“ sehear Br get Par
+
+‘aurragurat aarat “the exchange value of Udasvita is twice as much as that of
+a Yava”. The word faara means the thing given in exchange ; and Fara the
+thing received in exchange. Both words are reciprocal and are terms of
+barter or exchange, but they do not apply to sales or purchases for coins.
+
+Why do we say area ‘of a portion’? Observe @ afttaat Prrmeite-
+fazq: | Here being no comparison of ratios, there is no affixing.
+
+Why do we say rata “in denoting the thing given in exchange”?
+Observe, a aur efter TRetrer = fT Tey Fi efttr “one part of oil cooks or
+absorbs as much as two parts of milk”. Here the sense is that of ‘cooking’ and
+not of purchasing. . .
+
+In short qaz has the meaning of ‘time or fold’. As fara “two time”,
+the word qualifying sometime the fara, sometime the fara; & g. frag
+wat “ Udasvit is two-times 01 two-fold of Yava in value’; or favar aa zifita?
+“two-times Yava are equal to one Udasvit’.
+
+wea Ter sz ven cafe NW aee, Gee, eee
+ait: u aeate Wharuteteraters: ataaftaregrrrenerm’e Sz gerd wafer
+48. The affix dat (#, causing the elision of the
+last vowel with the consonant following it) comes after a
+Numeral in the sixth case in construction, when. the sense is
+“ making full this number ”’. .
+
+That by which a thing is completed is called gran Thus earent
+ger: =yarqa: the “eleventh” (i. ¢. the one which, added to ten, completes the
+eleven). Similarly qaqa: By this affix, ordinals are formed. The rule
+
+therefore, does not apply to a case like this :-—qerat afzarat ger az: w
+
+arrareearearaare Be ogee arearrer reteary: az
+he: u atete waa earerarciearnfra: afrafearcdaat: qe sa Terra aha
+9
+
+## Page 84
+
+ors fee [ Bk. V.CH. IL. § 52
+
+49. The augment mat (x) comes before zz, in
+the above sense, after a Numeral which ends in q when no
+other Numeral precedes it.
+
+Thus qaqa ‘fifth’ (the completer of the five), awa n ‘Why do we
+say ‘ending in q’? Observe fram: geit=fra: ‘twentieth’. Why do we say
+‘not preceded by a Numeral’? Observe qargarat [or= Taree: Wt
+
+agaseaie gon walt tag, a, safe
+afer tare een Tees A eT He HTT TER AeA
+
+50. The wz is the augment of gq, in the Chhan-
+das, after a Numeral ending in & and not preceded by another .
+numeral : as well as the augment aq a
+. Thus @ee:, Bat or em, Gwe As quai gewant waft and
+TNA NU See V. 2. 56. .
+
+qenfrntaqrage oe Ngan qari Q ag-nfa-afara-agia, Fe
+ahr uvieegraa acawar friterad) Teale aiaTa Waa Te TET
+wer
+aitrar i age oaarerenrstee 0
+
+51.. When dat follows, ga is the augment of the
+words shat, kati, katipaya and chatur.
+
+The zz is to be read into this sftra, and it should be changed into
+locative, as zf@ ‘when dat follows”. The word amiqqa is not a Numeral, it
+takes zz by force of this sQtra. Thus qout qwit=quy: ‘sixth’. afaq ‘the
+which in order?” afaqay: ‘the one in order after several’, wat “the fourth’,
+
+Vart :—The affixes @ (fa) and aq come after wat and there is eli-
+sion of the first letter. As q@a: or g& u
+
+In this and the two following s(tras, the action of the ¥ of gz vanishes
+when an augment is added. . :
+
+agrees erg NR TE-GsTo-etereq, fg
+ght: u eieerr ae or rey de eee The TeahergT aha
+
+52. When dat follows, fags is the augment of the
+words bahu, pfiga, gana, and sahgha.
+
+The word xfé is understood here also, The words grand &q are
+not Numerals ; they take the affix <q by virtue of this sdtra. Thus aqat
+qtr = agfre:, mfr: onae, and qafrr w
+
+ etifterg 043.0 aahrn adr, cee :
+aha: Mw eect arate es Care eh | eee reaTeaTN FERMENT TTT
+fanftey .
+
+## Page 85
+
+BK. V, Cut. HH. § 56) we 916
+
+53. When dat follows, wage isthe augment of a
+stem ending in vatu.
+
+The word <f% is understood here also. The words ending in qq are
+Numerals (I. 1. 23): and they will take wz by V. 2. 48; the present sftra
+declares the augment. Thus arat qtr = arated, araferat, garatera
+
+Reda: wen waft i oe, at
+gir: u frocereite wert era wen Qorreereaey | SETAE t
+54. The affix diqcomes in the sense of ‘ eqm-
+pleter thereof’, after the word dvi.
+This debars zx Thus gar qoit=fadte ‘the second '—that which
+completes the two.
+& dwarct Tah OPT a, Ssvarcet, @ (Ata)
+afer u froegrett: genie wate wea geontracheee | carcaTe: | aca ee avant
+rate it . -
+55. The affix tiya comes in the sense of ‘com-
+pleter thereof’, after the word tri; and there is samprasfrana
+( vocalisation ) of the stem.
+
+The substitution of a vowel for a semi-vowel is sampras4raga (I. 1.
+45). Thus f+dta=g+x+ata-qate (VI. 1. 108, the gof fi assumes the
+form of the prior letter @ which is substituted for ¢). In géra: the @ is not -
+lengthened by VI. 4. 2, because that rule applies to the lengthening of the
+wy letters only, this word being read into VI. 42, by anuvyitti from VI. 3.
+
+111, The pratyahara yy is formed by the first 4, and means the letters wt,
+fandza
+
+— nan cart n fauenfher, ang, a-
+rraceat @
+afer 0 Prreniter: area SEPT ATTA |
+56. After the words vingati &c, tamat (a@ fem. in
+rq) is optionally the augment of dat.
+
+This rule falling under the jurisdiction of qu, we must read the word
+<< into this sAtra, as the affix to which the augment amqis added. Thus fawaz
+gen: = firafraa: or fem: ‘twentieth’, gafrafas: or yateu:, fafroferas or fr-
+fire, frrert: or far, eafrart or garsra: Wt
+
+There is no faqrmft class given in Ganapatha. These are ordinary
+words like frafa, farm &c. The words fam, firm &c of V. 1. 59, should not
+be taken as the faqenft alluded to by this stra. For had it been so, we
+
+## Page 86
+
+917 . ” are [ BK. V. CH. IL. § 57
+
+could not have formed the words like wafrufaam ; because the rule applying -
+to firafe specifically mentioned, will not apply to faute as the end of a com-
+pound. . As this maxim declares, ngorzat raha aeratafyater “that which
+cannot possibly be anything but a Pratipadika, does, contrary to I. 1. 72;
+not denote that which ends with it, but it denotes only itself”. This being
+the case, the word faata &c must be taken in their popular signification, and
+not as particular prAtipadikas ; and hence also becomes valid the exception
+given in V. 2. 58, in the case of yf &c when preceded by another numeral. For
+the very prohibition staare in that rule, shows, that with the exception of
+@f& &c, the present rule applies to other daarfe words, as, gafeafa &e.
+
+Bohtlingk takes 4¢, qe and qq as separate affixes and not as aug-
+ment. He says “The commentators take aa here and in the following
+Stras as an Augment of ze (V. 2. 48), because firafy &c with the affix qa,
+would yield faafaaa by III. 1. 3, whilst otherwise it would be accented as
+frafra% un According to this interpretation az V. 2. 49 and ae V.2.50 are
+Augments, though they would yield the right form as affixes also, That
+Panini by forms 4, we and #7z so much resembling ¥z, should not have.
+meant an affix, is not probable. Moreover one does not understand well this,
+why he, if he intended that 4, q and aq should be taken as augments, does
+not, for the sake of clearness, ordain this after the stem, which could have been
+expressed by adding of the servile (i. e. gg gH and age), as he does in
+the case of the augments y& V. 2. 51, faye V. 2. 52 and gag V. 2. 53. I also
+think this, that Panini, when he designated this affix az, did not think of
+the accent.”
+
+In the case of agand ug there will be no difference whatever whether
+we take them as affixes or as augments, Thus qaq+az=qat+ae (VI. 4. 144)
+= ta a
+
+fret warfararkaradararce 049 gant a ere, car, aI-
+
+ard, ara, daracra, @, (aAe) w
+ait 0 care: dearasy ahaa vet | waieat wrandaradrercaspaw Tee Ser Pe.
+arent wars _
+
+. 57. Always after the words gata &c, and after
+masa, ardha-masa, and sam-vatsar; tamat is the augment
+of dat.
+
+The words qarqa are numerals, The words ara &c, are not numerals ;
+they would not have taken gz, but by the implication of this s(tra) Thus
+
+waet TW: = Taga? ‘hundreth’; BERTH, HITT wu Similarly TR Ee = TET
+feta ‘the last day of the month’. sparaatt, eae: Wt
+
+\
+
+## Page 87
+
+BK. V. Ch. If, § 11.) Wat 918
+
+By the next Sitra V. 2. 58, the words ga &c, would also have taken
+gaz; but the scope of that stra is confined to numerals not preceded by
+another numeral. There is no such restriction here. Hence we have qaga-
+or, fcrrart o
+
+qeeaaneend: nen eet Hwee; w, wefearts, (ae) &
+ata: u qeaiy: qearasreieare wea eer Pret erent aafe a
+68. After the words shashti &e, when no other
+Numeral precedes them ; tamat is always the augment of
+dat.
+
+By sOtra V. 2.56, the augment was optional, this makes it com-
+pulsary. Thus qi¢am, anfeat:
+
+Why do we say “when not preceded by a Numeral”? Observe, gaye?
+qaaikan, crann or gaanfaaa W Here V. 2. 56, applies also.
+
+Fat GS: Qearae QQ TT Nad, Sas, aa.
+afar: u mentite werd wera orfararret o: wera af Ee orafa TPA
+59. When a Sikta or a Saman is to be expressed,
+the affix Chha (gq) comes after a pritipadika (nominal-stem),
+in the sense of the affix matup (V. 2. 94).
+
+The word wat means ‘in the sense of aay affix’.. The sense of agy,
+is “ whose is it or in whom itis”. Thus wegrarg WTS = HOTTA
+Grarrecitarr, aarasitat ort, Tete art W
+
+The affix comes after a collocation of words, as weqartta ‘the Sdkta
+containing the words weq art’ e.g. Rig Veda Mandala I. sdkta 164. Here
+the words weq qmeq are considered as a Nominal Stem. So also wargaiaye
+
+AMATATFATHATSS Nl Fo NTA Mt tears, aqarnah, SAM
+afta: u naftear ceric oer By wala, oTgRaT a: w .
+: 60. When an Adhydya or an Anuvaka is to be
+expressed, there is luk-elision of the affix Chha having the
+above sense of matup.
+
+This stra indicates by implication (gryq:), that the affix g comes
+after a nominal stem, to denote an Adhydya or an Anuvaka. According to
+Patanjali the elision is optional. Thus agaree uezisferater = npaTesTSATa, Wy-
+erat at In the alternative, siprevta: ; so also fastfra: or OSstrrdter, wea-
+wr: or afererathe W
+
+fagenized smn etn cant n fagerer:, ak
+ahr 0 aera, wearargraaa 1 Protea: mfraharar sy cera wah werd,
+marergrnarer tear a
+
+## Page 88
+
+919 . "argu 2 (Bk. V.CH. IL§ 64
+
+.
+
+G1. The affix an (+—a) comes in the sense of
+matup, when an Adhydya or an Anuvaka is to > be expressed,
+after the words vimukta &e. .
+Thus frgpusirsferafer = tartsendisgarat an -So also Farge: &. -
+1 Prom, 2 rae, 3 varsay 4 avae, 5 geht (gee), 6 stares (ahtaret) 7 TS
+araa, 8 ty. 9 467 ( Feet), 10 gett, 11 vga, 12 aftaer ( ates), 13 qerq, 14
+whaa?, 15 vars, 16 ene, 17 cag ( coTéTag ), 18 errata, 19 qafiry ( Tae), 20 AfE-
+Ft, 21 wreneer, 22 Srarget, 23 eat, 24 srenToy ( Frog), 25 THe, 26 qaer ( Twefe ),
+27 Fareft, 28 ara, 29 eq. o
+drentredt gq uM TTA eee, Tt
+afer u narftars, memrergrrnaaa Tt Arena: eifaarea Gree ate Te SAT.
+agree w
+62. After the nominal stems goshada &c, there
+is the affix vun~(1—2), in the sense of matup, when an
+Adhyfya or an Anuvaka is to be expressed.
+Thus tyqaetsiemtta = TeTaISAMISg Ia TM ATT, — &e,
+Another reading is airqq the final consonant being mute,
+1 aiag ( trey), 2 eT (er), 3 arafora, 4 ere et, 5 Pitas, 6 Bor sear,
+aete:, 7 lt (at) Fea fran ( Prene), 8 eater, 9 gesTA, 10 etssta, 11 sea, 12 Ted, 13
+pura ( cur ). 14 agadtet, 15 ear &, 16 Sura, 17 eer, 18 aH (1). ¥
+aX FAS: Ta ERM Tare ag, Hae, Ta, (gz), W
+aft: u ghar aafe ant arutafirg veregas refemt gerent waft u
+63. The affix vun comes, after the word pathin,
+being in the seventh case in construction, when the sense is
+“versed thercin or skilled therein ”.
+Thus qfy_gue: = cam: (afirgt g= Tet ga V4.1 44=9at we VIL)
+arateee: STN GEA TAA ara, ee
+ater u ates, gus 0a wT) aiies: mee antatba: gos eaters a
+wyerar Tay _
+64. The affix kan (L—m) comes in the sense of <
+‘versed therein, skilled therein’, after the nominal stems
+akarsha &c, being in the seventh case in construction.
+Thus sat gue: = sania, cren:. Another reading has sag (Béhtlingk)
+. L orang (rare ), 2 eae, 3 fare ( Fravat), 4 freee, 5 raft, 6 sera, 7 Mr
+wa ( frva), 8 ra, 9 frma®, 10 wa, 11 saree, 12 aa, 13 are ( FraTe), 14 ey, 1 xt
+16 gre, 17 gra, 18 era, 19 Bra, 20 wae
+
+## Page 89
+
+BK V. Cu. II. §. 68 } Pra) . , 920
+
+wraftcoarenra 0&4 0 aT era, fecwaTa, wR (wD) W
+ae aan, white + wafgeausra aafe amtteribat arutay ater
+65. The affix kan comes, after the words dhava
+and hiranya, being in 7th case in construction, in the sense e of
+“a desire thereafter’. .
+The word ara means ‘desire, wish’, Thus wt BU = ETT TAGE,
+feo Fayeres tt
+ear: ofa neg TaN eae, Wea (ee.
+SR Aa BAR SL eRTEO wepaate anarha: gfeartahiny are
+66. The affix kan comes after a word denoting
+a part of one’s body, in the sense of ‘who takes care of it,
+who bestows care upon it’. :
+The words aw and aq are understood in this sOtra. The word gag
+means ‘devoted to, intent upon, craving after’. Thus @ag Nfea:= toa i.e.
+
+waficrarat wan vageaa i The enipa: is in the plural number, indicating
+_ that the affix comes even after a collective compound of Svanga terms,
+
+Thus waren, ware wu See II. 3. 44.
+NEON arf STC, TH aret a
+afer uw akaee, ufererefer 1 setuemeanetterratentraeaarerey Say eT ALY
+67. The affix thak (+—&) comes in the sense of. .
+‘voracious’, after the word udara.
+
+.The translation given above is according to Dr. Béhtlingk. Accord-
+ing to the KAsika, the Anuvyitti of sfra is also read into this sQtra. The mean.
+ing then would be “thak comes after the word udara in the seventh case in
+construction, in the sense of ‘who is devoted therein’, when the word so
+formed means “ voracious”. A person who is very much distressed by
+
+hunger is so called ; stsfaisrfpteagy | Thus zi aie = viraftan: (i. . rg).
+‘Why do we say when it means ‘voracious? Observe 24cm: ‘abdominal’,
+wreaa oftsra: We TATA eta, aftare:, ( wT) 8
+Pa: u arerera carr eras, 1 sat Ptares eer aTahR: | ceroerydtareratey-
+Rava watery acre waft
+68. The affix kan (4 —s) comes after the word
+sasya, being in the third case in construction, when the sense
+is “to supply richly with it”.
+
+## Page 90
+
+921 DC BK. V. Cu. IL. § 71) -
+
+The anuvyitti of aya, not of BR. is tobe read here. The word eet
+here means ‘good quality’, and not ‘corn’. Another reading is ueq. The
+word qft means ‘all, every where’. That which is full of (qitsrq) good quali-
+ties (geq) in which there is no defect, that is the signification here. Thus
+wert oftara: » wean: ols: ‘a rice, above all praise’, germ: ang: ‘a-good man,
+not equalled by any’. east afer: ‘a precious stone of the best quality’, i. e.
+perfect in form’,
+
+at ere kA Tara Nl eta, ere, ( wT) W
+> ght u eornsniitater fidtarerrarerdcratemt serait vata a
+69. The affix kan comes after the word anga ‘a
+share’ in the second-case in construction, the sense being
+‘who must take that’.
+
+The word tyq is used in the accusative in the aphorism, showing that
+the construction must be accusative. The word eritq nom. ef is formed by
+adding faf% to the root g, the force of the affix being that of “ must, or neces-
+sity”. Sce III. 3.170. The word eitqz will govern accusative and not geni-
+tive II. 3. 70.
+
+Thus wu ert=stam: ‘an heir’, ie. who is entitled to take a share at
+partition i.e. a qrarg: | stan ga
+
+Srarenraea N90 WITT N AeA, BEAT, TIES, (HT)
+aie 0 eauenitare weaterrats Provearatert aercrar rahe tt .
+70. The affix Kan comes after the word tantra
+“a loom’, in the sense of “ taken off therefrom not long ago
+or shortly before ”.
+
+The word a-q must be in the fifth case in corstiuction, by the very
+fact of its being so employed in the sQtra. The word wfat means ‘short
+time, not long’ stqgq means “taken off". Thus qantas -a-qa ‘a
+cloth just taken off the loom’ i. e. an unbleached cloth. As q-aq? [e?, (am
+are ‘a new mantle’=qea: or AT -
+
+FTAA S RTA WS TATA Nl reToren, Shores, eras)
+afer u rena afeorn carat weit rare eer Sarat Fees
+71. The words Brahmanaka and ushnika are ano-
+malous, when they are a Name.
+
+Thus argrorat Fa:, sftorar aay: The affix aq is added to ara, with
+the force of ‘a place where Brahmagas who live by profession of arms dwell’.
+Similarly sforg means syeqrat: on
+
+## Page 91
+
+BK. V. Cu. IL. §.76 ] vest . p22
+
+aftatorrsat earfdtr 92 W raft after, Seorryare, ert, (xu
+
+ahr u dhiterasgat aritoafyy aera way w
+72.’ The affix kan comes after the words sita” and
+ushya, in the sense of ‘who goes to work thus’.
+
+The word gra and ay being used as adverbs will be in accusative
+construction. As eftt aut ‘who goes to work coldly’ i.e. a lazy man=wiq-
+&:= ue: Ae:. Similarly tor: = etnaar€, wr ‘who goes to work hotly’,
+
+after nogn carn aren, (et )a
+ahr: u erence Prareaa | snare ceaTCTTAAT: HT TT
+73. The word adhika is anomalous.
+The word wie: meaning ‘more’, is formed by adding arg to the word
+
+snareg ; there being elision of the second term before the affix, Thus wire -
+
+im: qrata “a Drona is superior to Khart” wiftrar are git “a Khart is infe~
+rior to Drona”. The word saree governs nominative or accusative indiffer-
+
+ently.
+
+qe wage aire evita cia Cer aerearar Provera ahaenrerns w
+74. The words anuka, abhika and abhika aré
+
+anomalous, meaning ‘being at liberty to do or being fond of’:
+Thus stqarraa=sgar ‘desirous, libidinous’. eaPrearrat= sifig: or
+
+spite: ‘a lover, voluptuous person’.
+arttartasara W988 trae n arse, ag, af, (wa)
+aft u iasaryatararatateresdtenerny aereaar wate :
+
+75. The affix kan(_—e) comes after the word pire
+$va, in the third-case in construction, signifying “ who strives
+to gain something by that”.
+
+The word qr$q means ‘a fraudulent or crooked expedient’, One who
+endeavours to obtain any thing by fraud is called qrfar: ‘a cheat, a juggler, a
+partisan’. qmgj=a rib, a crooked thing; as Whar = aranitg, defies, sti &e,
+
+aa: usqverhrnyat seestt nog qart Wo eae, qverfrar-
+SATH, SF, SH
+ahr u wferodrerr tem geraearat qrxcachertressteenit sas q-
+watt wee 8
+
+76. The affixes thak (+—xq) and thaa (+e)
+come respectively after ayahsdla and dandajina, in the. same
+sense of “ who strives to gain something by that”. ”
+
+10
+
+SR a rE
+
+arqenfirerefie: tar i we i cr & seg, as, ae, ATH
+
+anes,
+
+## Page 92
+
+923 mT) (BK. V. Cit IL. § 78
+
+The word sqfresfer is understood here also... The word srasqaa means
+*a violent proceeding’, Who seeks to obtain any thing by violent means is
+called arecyftar = areftrat uw The word qwatft means ‘staff (dagda) and
+hide (ajina)’ i.e. outer badges of devotion or hypocrisy. Who seeks to gain
+“something by hypocrisy and deceit is called qrearfafrars = ear: &
+arate reo Sar noon cat Naan, TEE, Ta, Z-
+Qan
+afer: u arcat er arafirrnt sete SHG TELL TEAR ATO Ferg, 8 Qomeqarearen-
+feaftere eectrarhtenreen aeoreral waft
+rR! areata Tras arTReA:, TomeTas aha gay .
+77. The affix kan ( L —@) is added to an ordinal
+‘number, in the sense of “acquiring a subject after so many
+attempts”; and there is optionally the elision of the affix
+denoting the ordinal number.
+The word arafay (V. 2. 53) stands here as a type of all words ending
+In affixes denoting qua i.e. ordinals, The word mgq means ‘acquired or
+learned hereby’. This qualifies the base, Thus fata sao at Tyttr = few
+wreong or fixitas agora, ‘the acquisition of the knowledge or book by the second
+time’ i.e, “successful mastery by the second time”. So also fr or firftawat,
+srgeny or agdag u :
+Vért :—When the word, formed by the affix kan, means the person who
+acquires after so many times then the elision of the qq affix is compulsory and
+not optional, Thus qéq aio aed mypfi= czar tera? ‘Devadatta who learns
+the book for the sixth time’ i.e. ‘who succeeds in learning the book at the
+sixth attempt’. Similarly qa, aqeat WU The word aga here is confined to
+bocks only and to nothing else.
+aaah arrit: Wee naar ne, oer, sree, (wt)
+afer u a afr reameraieerhate seat serena wae, aeroreraTeTay ere aaEy
+78. The affix kan comes after a word in the first
+cease in construction, with the force of a genitive case, when
+the sense is ‘he is their leader”.
+The word arqft means ‘head-man, leader, spokes- -man’. Thus writ
+BR = ITA: MAT TAT tt
+Why do wé say ‘when meaning a leader’? Witness Yaya: ogra
+Here there is no affixing,
+AHSAST THT HA MG Tara N TMS, MeN, TITATT, HTH Nl
+ait worgeaerer Tera TUNE RTE TT, THTTATAAT THT Aes
+FR, CHITRA PGE HOTT ay
+
+\
+
+n
+
+## Page 93
+
+(Be. V. Ca. 11 § 81.J wu 074
+ne
+79. The affix kan comes after the word érihkhala
+
+“a clog’, in the sense of “ clog is its fetter”, when the whole
+
+word means a young camel,
+
+Thus yas word HOTT =>Yart a The young ones of camel
+are called aan The wooden clogs put on their feet to prevent them from
+‘straying are called ={q%" Though the ropes &c are also used along with
+the clog, yet 6rinkhala being the principal object that takes away the free-
+dom is called qaqa or bond or fetter.
+
+Sew THAT: Woh TATA M Sem, THAT:, ( HT) A
+afer u ven ef Prrede orate wate | eat i eee THAT | ;
+80. The word utka is anomalous, meaning ‘long-
+ing after, yearning’.
+
+He whose mind anxiously desires or yearns after a thing Is called
+waa: The word ata? is formed by adding arg to the preposition zy. Thus
+TER FATA: TH TTT = TER OF Teas o
+
+TSMATTATATT ON TATA NTS, ator, OH, (HT) W
+aft u wrubat aritoats: ssrererarsrare werent ara aRT ARTS
+wee w
+, 81. The affix kan comes after a word expressing
+a time, or a cause or effect (of the disease), When an illness
+is denoted.
+
+The word sr means ‘days’ &e, and qarya means ‘the cause (of
+disease) or jts effect’. Thus faarashwr = fietadr sac ‘the fever which comes
+on the second day’, qqyar ‘a fever which comes on the fourth day’. Sjmf-
+larly after aword denoting watsrt:, as, feqqersifra: = fraqerat sae ‘a fever
+caused by poisonous flowers’. So alsomragsva # So also wom ertcicg = Tore
+‘a fever producing heat’. teat 7400
+
+When ‘illness’ Is not meant, then there is no affixing, as, fata fyvat-
+sequ The word gat is to be read into this sAtra from the next sitra. There-
+fore words fedtan: &c are Names,
+
+arqferraet 8 Ceara HRA TATA Mare, BHR, ETRE, TT, SHUT
+are, (eq) A
+oa wae anrerrafeftatatey, aweait mura at, ewer Yeraftet
+cs u
+wien weana wire 0
+: 82, The affix kan is added to a word denoting
+food, in the first case in construction, in the sense of “this
+
+gp nN a RR
+
+## Page 94
+
+~
+
+a afr and sy 8 [Bx V. CH il. §. 85
+
+is the principal food on this particular occasion ” ”, when the
+whole word so formed is a Name. : .
+Thus gaergar sieorerea somreat = Gergfrar Fetaret “The Gudapopika
+—Paurpmast” i.e, that particular Full-Moon day in which cakes of sugar
+form the principal accompaniment of food. Similarly frersfrat, safca,
+fryitar &c.
+Vdrt :—The affix xfq comes after qeq in the same sense. As whet
+deta u :
+ Benreresy <3 arf Wi geen, <r
+ARE U Hermes Te ate, eae Ty rea era
+83. The affix af (+/—st) comes after kulmfsha,
+in the same sense “this is the principal food on this parti-
+cular occasion’”’—and the whole word is a Name.
+: The of erg is for the sake of causing Vyiddhi and accent.. Thus
+BET: MATA = Peet Sear w
+
+shfeaeeadt saan cen waft a hfeea, ora, anit, a-
+aia: w nhrainie Prorae oat siracateryt w :
+84. The word grotriyan is irregularly formed mean-
+ing ‘who has studied the Chhandas’.
+
+. The & in atfirer is for the sake of accent. As Sinwat areca: * a Brahe
+maga learned in the Vedas”. The word wifwa is either a condensed expression
+for the full sentence p-ars¥t@, referring to no parlicular base or affix. Or
+the word geqa is replaced by *ira, and then is added the affix qqu But how
+do you form then greya:, in the sense of g-asft¥, by adding the affix wry by
+AV. 2. 59? The present sAtra is optional, the word at of V. 2. 77 being under-
+stood here: so that we have the form fia: also. Some say that »if%tq applies
+only to that person who has not only studied the Vedas but who acts upon its
+purport also, while gta applies to a student in general, so one sOtra does not
+debar the other, as they apply to different objects,
+areata aiaPrett ce 0 crqrft n eras, wri, ere, SA A a
+gh wart rat ere ead | aha rata Torn | areeT ya
+Sreafers Pret waar ree
+85. The affixes ini (f%) and than (——rm) come
+‘after the word Sraddha, in the sense of “this is eaten by him”.
+Thus sand qaritt= art or WfwaR? “a person who has eaten obsequial
+food”. This relates to a person who eats on the day the Sraddha ceremony
+takes place; and not at any other time nor who eats stale food of &4ddha. wa
+
+XX
+
+a
+
+a S|
+
+## Page 95
+
+BK. V. Cx, 11.88) re 96:
+
+Wwe we nfs f@ aren The word srg originally means a certain cerem-
+ony, and is derived from the word tat with the affix w V. 2. 101. In a figur-"
+ative sense, it here means the food taken at that ceremony. .
+aaiRA: nce Mea ata, WW
+afer u wate gerard: edn fears eed ere a at Aarne
+seaat fate: | gererreatearrt ee: req raf
+: 86. The affix ini (cx) comes after the word piirva,
+in the sense of ‘by whom something was done formerly’, —..
+The word wfxa of the last sftra is understood here. “But what is the
+verb of which wr is the agent. The gem does not come to be read into this
+sftra. Therefore we must supply some general verb such as ‘doing’ &c,-to
+complete the : sense. Thus q% nama = git i So also ge aim, ft &. T= ge
+s. afte d. gift: pl. In fact gq means by whom some thing was done &c,
+formerly. .
+aqara Noon cart n ergata, =, (ef) 8
+ahr 0 Ror of aefatey age anfaatiart | wen Tues mea | oystenfratter
+eqdurerrareitenttrn’t cfr: wert wate W -
+
+87. The affix ini comes after the word parva, also
+when another word precedes it, the sense being ‘by whom
+something is done’.
+
+oes Thus gavaf ae ot sat ‘who formerly made’.qeng@ SrgTEN |
+In these words, first gq and gy are compounded by II. 1. 4; and then
+the affix is added. These two sitras V. 2. 86, 87, give rise to these two maxims
+wetrat miaeitaa aeatafvaiier “that which connot possibly be anything
+but a Pratipadika or Nominal-stem, does, (contrary to I. 1. 72) not denote
+that which ends with it, but it denotes only itself.” eqqqr@varttsmftaitan “The
+rule of vyapadesivad-bh4va does not apply to a pratipadika”. That rule is
+embodied in the following paribhasha—saqqerdyaferq—“an operation which
+affects some thing on account of some special designation, which for certain
+reasons attaches to the latter, affects likewise that which stands alone and
+to which therefore, just because the reasons for it do not exist, that special
+designation does not attach”.
+werfemar cen wart curftea:, a, (a8)
+Pt u serrearr erfte: afaahars Sreafers wa: gerd wate w
+
+88. The affix ini comes after ishta é&c. in the sense
+of ‘by him’.
+
+Thus qeata = a3; gafare® &c. “who wished”, “who performed a
+charitable act”. The words qf@a, oférg &c. formed by ¥4 will ‘govern locative
+instead of accusative, Sce vartika under II. 3 36,
+
+## Page 96
+
+927 : owt “> BK. V. CH. IL-§. 91
+
+1 we, 2 gf, 3 aarenfta ( zrarfta ), 4 Prefea, 5 aftafte®, 6 afterfte, 7 frente
+&, & frarita®, 9 Prafte, 10 danfirs, 11 sftenfier, 12 cata, 13 qftera, 14 wftre, 15
+wrfore®, 16 wreath, 17 errgen, 18 yete, 19 errara, 20 ye ( sTrETeyA ), 21 rte, 22 wt
+wart (1), 23 eTUPra, 24 senate, 25 srenfera, 26 Prope, 27 sre, 28 TaTEA, 29 oT
+WI", 30 wane, 31 erqufsa, 32 sargiva, 33 aftafers, 34 dafera, 35° frais, 36
+Fratta, 37 ofa, 38 ofa, 39 afeerrer, 40 zqmitra, 41 afta (!), 42 sternite, 43 zy,
+44 Frofta, 45 erate, w
+
+Brae oraraataften wrreraft nl <e  aThe nt wea he, wheat,
+aftarcetr, wiererreft W -
+af tater afetee eRe UHR ore A Pree vereaah ee w viverra
+WATE STATTAT u
+89. Inthe Chhandas, the words paripanthin and
+
+pariparin are anomalously formed by this affix, and have the
+sense of ‘an antagonist’ .
+
+The word TaTENg means ‘an adversary, an antagonist’ Thus ar et
+afeahtad fee ar ett aftafert fag (Yaj. Ved. IV. 34). These words are obsolete
+in secular literature. See however Gita III. 34.
+
+agraaur nen wart h agedl, ater W
+Qter u ergata Proread ster Ger cafe cree TATTATTT
+90. The word anupadin, formed anomalously by
+ini, denotes ‘who goes after, who searches’,
+
+. Thus ware vara, ware Tere, “ going after or searching the cows and
+
+camels’
+
+erarg ult carers 182 cq crea, eR — (a) 0
+
+afer Sn arereget Saree eure: weadt wet eR erat da aera ee
+
+91. The affix ini comes after the word s&kshat, in
+
+the sense of ‘a spectator, looker on’, when the word so formed
+is a Name.
+
+The word grarg, is an Indeclinable. The word tat is used in the
+aphorism to restrict the sense of the word. Thus anarz xet=ereft, d. erfirst, pl.
+amet: ‘an eye-witness’. In.any transaction like loan, &c, three persons
+directly see the fact, and may be called yet, viz. who gives, who takes, and
+another who merely looks on. By using the word gar, the word erfery is
+restricted to the mere looker on, and not to the lender or borrower.
+
+ahrorg qoas Pafcer: Wen caw aRrra, Tay, Pafacer:0
+aftr: 0 Grane Rrareda | ae Rrereer reaery THI ETT | TTT ant
+erotterratey Peirce Ceres TE ETT TCORTTT PraTeay W :
+
+_
+
+N
+
+## Page 97
+
+Bx. V. Cx. IL. § 93) wea: (ga
+
+92. The word kshetriyach (@f*%) is anomalous,
+
+meaning “curable in another body” i.e. “not curable in
+this life”.
+
+The whole word enunciated here in the sense of para-kshetre chikitsya;
+or the word a&fra, with acute on the last syllable, is formed. by adding
+the affix wy to the word qr, the force of the affix being ‘curable therein’
+and the word qzis elided before this affix. Thus @fwat enfy: ‘incurable
+disease’. fra get ‘incurable leprosy’: i, e.—organic disease. The word
+qaarq means body assumed in the next reincarnation, The word fra applies
+to an irremediable disease.
+
+The word fa means ‘ poison’ alsomepy TST Toutitaace Ritarenye
+“that which is to be removed from another’s body where it has entered’. Or
+‘fra means ‘rank growth or grass’, i. e. arity qrearéd Ge srerit Pefencearit arate
+avait u “that like grass &c, which grows in a para-kshetra or another's field
+i.e. a field set apart for grain &c, and not for grass, and which therefore
+must be weeded out (chikitsya)” Or &fia is an ‘adulterer’, ie. gar Tart,
+aw Farner frygtrsa: un These are all secondary meanings.
+
+Rraitegiataeetaat gers ak h Tan
+KPqae, CRSTA, HACE VAIL, CAYUA, HATTA, CfA, a, (TE)a
+ater u erated cored Prorat | efeter gaia aor, care gatitet
+
+eter) rocrentrerutteghrertanet verertr weft w carer Pyfkiees | cer wre
+ereguitar acorrradtae | arengah ncorafes | aor cen qdtarrratererg: | wer Tee
+Brand er Se TET FER! TREAT TTT TAP TR ST
+
+93. The word Indriyam, (having udatta on the
+last), is anomalous, meaning an organ of sense; and so called,
+either because it is “the characteristic from which the exis-
+tence of Indra is inferred”, or ‘it is seen by Indra’, or ‘it is
+created by Indra’, or ‘it is wished for by Indra’, or ‘it is given
+by Indra’. .
+
+The word ¢fya is a primitive word, meaning organs of sense, such as
+eyes &c. Its derivation is obscure, if it isa derivative word at all. In the
+latter alternative, it may be said to be formed by the affix ww added after wy,
+in the sense of either ‘a mark thereof’. As taxes figa=thazn The senses
+(indriyas) are so called because, Indra is Atma or soul, and it is inferred by
+the existence of the senses, eyes, ears &c. So that these organs are the ‘marks’
+or signs or linga of Indra: because they being an instrument Presupose an
+agent, there being no instrument without an agent.
+
+oe .
+
+i a
+
+## Page 98
+
+99 ; a agye ( BK. V. Cit. Ih § 94
+
+Or the senses (indriyas) are so-called because they are ‘seen or
+known by Indra or Atma’ (qa té=ard). The affix is here added toa
+word in the third case in construction. The knowing or perceiving of the
+senses by the Self is an allusion to the following Sruti of the Aitareya Upa-
+nishad Chapter III. verse. 13, where the Self having created the physical body
+took a survey of it. @ yaya ged met aan PalmTft “He beheld this
+Brahma who dwells in the body who pervades everywhere, and exclaimed—
+‘I have seen this’.Or they are so called because they are created by Indra or
+Atma (qayor qe) i. . the senses are formed according to the good and bad deeds
+of the Self Or they are so called because they are wished for by Indra or
+Self (qeyor qt Gfad ) as they are the gate-ways of knowledge. Or they are so
+called because they are given by Indra (gor qt) i.e. they are allotted to
+their respective objects by Indra e. g. the eye is given to perceive forms, the
+ear to perceive sounds and so on. The word af ‘or’ joins every one of the above.
+The word gf shows, that there may be other appropriate significations also:
+As, Girt gaat = thay, ‘senses '—difficult to be subdued by the Soul.
+
+aqerrenftafafa wag nen aah na, sea, aha, ferry, fF
+|
+* gpre u afthe neat endfratie: svearftafit aeaan:, sraftt mefafeoTorE | eRe
+Freer 1 eieferrermrerrateeare TaN SAeneaNe EE AT ATT Tere AU, ROTTATETA-
+Safte Waraafe w
+0 Kériké -gatenndarg Pretty sfroreat .
+: aatishahrrrad wafer agar # .
+aftart u greeted agit gre :
+
+94. The affix matup (3, ® wef. t) comes after a
+
+word in first case in construction in the sense of ‘ whose it is,’
+or ‘in whom it is’. . -
+
+Thus orarsea afer = site nom. itary ‘having cows’, as ararg Yaya: wl
+wa ufert afta grag (4 being substituted for q by VIII. 2. 9),as qearg cia:
+Similarly aera,’ weart uu ~The word tfi shows that the use of #gqqz and cog-
+nate affixes are restricted in their application. For example,a person who
+has three barley grains only will not be called qqargtt This affix comes
+when the significations are (1) A large quantity or number, as ‘targa ‘having
+many cows’. (2) When censure (far) is implied, as xgrevif, darqatt, (3)
+when praise (adat) is meant, as eqadt at, (4) when an inherent or perma-
+nent quality of a thing is meant (freqarr) as, eftfteht gar u (5) When excel-
+lence ( stftruret) is meant, as, zeftoft aur (6) When accompaniment (dat).
+is meant, as qe, OWN (7) When the sense of wfet ‘to be’ is denoted, as
+wera a s
+
+\
+
+## Page 99
+
+BK. V. Cu. IT. § 96. ] ome 930
+
+Vrt:—The affix agzis elided after words of quality (erwen) as
+Uw wirseafta =e TEM GT, Te Ae.
+worigerar WRN Tae n center, we
+ha: u ceria: sraaiearat TAL Tera wae, areaTeTa en AeA Ty B
+95. The affix matup comes after, the nominal
+stems rasa &c, in the sense of ‘whose it is’, or ‘in whom
+
+it is’
+
+As waara, &TaT, N=TaQu Why this special sitra with regard to
+warfe words, when they would have taken aqy by the last sfitra? This pre-
+vents the application to these words of other affixes having the sense of aqy @
+How do you form then eft an, efit qe These are rare forms.
+According to Patanjali this sftra is useless. Or the word vq &c, must denote
+qualities, perceivable by the organs of taste,touch &c, i. e. cq should mean taste,
+eq form. Therefore the forms efqoft and eta: are valid, meaning Gravaraat @
+So also ef ae: = arzarm:, here eq and ta do not mean ‘form’ and ‘taste’. And
+all words of quality having one syllable are governed by this sftra, and form
+their derivative in may u See V. 2. 115.
+
+Lae, 2 ay, 3 ahr, 4 oy, 5 end, 6 ey, 7 Be, 8 aTe®, 9 Gory ( ToT CATA
+at Freer, ), 10 gare: ( ere). u
+otra arate 8g nh Tan siftrend, ae: oe,
+WAAC Nt
+aPa: U rere Sat: Ceerenraray yh TTA VARTA TT
+TRU TOUTS TROT
+96. The affix lach (&) comes optionally, in the
+sense of matup, after a stem ending in long a, the word
+expressing something which is found only in a living being.
+Thus from qgt ‘a crest’, we have qere: or Ystarq. So also afters:
+or mforarara.' Why do we say ‘which is found in a living being’? Observe
+frrararg él: ‘the crested flame of alamp’. Why do we say “ending ina”?
+Observe werara, TYIPy tt
+Vért:—It should be stated that the affix a comes only after what
+denotes member or limb of a living being, (and not anything like love, pas-
+sion, intelligence &c, that are also found in living being). Hence there is no
+affixing of ow here: Fratatsenttr = Pratetara, Rngtetarg u
+Every affix is udatta (III. 1. 3), unless contrary is indicated by some
+anubandha, The #4 would have been udatta by. III. 1. 3, even without the
+indicatory & (VI. 1. 163). The employment of this anubandha, however
+ll
+
+## Page 100
+
+"93" an > ale [ Bx. V. Cu. II. § 98
+
+indicates that this udatta will never be changed into svarita, as other udattas
+are by rule VIII, 2. 6, as qeris@ 0 -
+
+fronftert neon caf n feronfter:, «, (oq) a
+ahr w eweracemnifee Ths | fronfpa: arfaaiearedt oy weet wereavaaceat rere
+Rafer eT TH Me U ATATATRSMTTOTATTL TM Te METIETERRT: a
+eoftrart 0 qrergrarqecay a
+97. The affix lach comes in the sense of matup,
+after the words sidhma &c, and optionally matup also.
+
+Thus fees or favrarg, age: or tga ~The word sreraceara under.
+stood In this sdtra, causes the employment of the affix agqy in the alternative
+It does not mean that the affix mq is optional. For were my optional, then
+the affix yf and sq would come by V. 2.115 after those words of faunte
+class which end in %, But that is not the case,
+
+Vért:—The words qféy and waft lengthen’ the vowel before a
+orestst, write: «
+Vért:—The words arg, qa, 4, Bare and ws take the augment we before
+BY, aS ATG: TIS TT:, HT, TE
+Vért:—The word et, Yer, et and qt take ew, when censure Is meant
+as Sere, Vers: Hore: and were, but werateqrta: when no censure is meant.
+” -Wért:—This ‘affix comes after words denoting lower organisms, and
+word denoting disease: as ware, aftrare:, Frafirare:, fraftare:, 7oTe W
+1 fan, 2 ag, 3 aftr, 4 anita, 5 dst (site), 6 Son’, 7 geor®, 8 frreqra, 9 aig
+lO qré, Lg (wg), 12 44, 1 ay, 14 ate, 15 orprar ee 16 eaTaETTe
+arg 17 meraerncraer (Het) HT, 18 qo, 19 eH, 20 qe, 21 fea, (afer) 22 ad
+23 &y, 2 efter, 25 ear, 26 fay, 27 Fret, 28 gun (UeH), 29 Ty, 30 Uy, 31 ASY, 32 HEI
+33 qu, 34g, 35 mY, 86 wy (mg), 37 Aiea, 38 x*, 39 GU, 40 yTU, 41 Toh
+42 quia’, 43 ora, 44 FU, 45 Prene®, 46 Geox’, 47 qraegrarrity 48 ww, 49 at
+qeatarsat sraae 8c TaN aca, sarsard, STATS, (wa) 0
+afer: u ceatauerat were wate qarecea aerate weratey aT w
+98. The affix lach comes after the -words vats:
+and afsa, in the sense of love and strength respectively.
+Thus qeam: ‘loving the calf, loving, tender’. stam: ‘strong, lusty
+The word qeq means ‘calf’; in qaqa there is no trace of its origin, for it
+applied to father, master &c, as qeas: earit, Tar: ftar &c. The word ¥
+means ‘shoulder’: but tras means ‘strong’, The affix ain these cases
+not optional, but necessary and debars ygyu In other senses, the matup on
+is added as wrernft oh, staan gies: .
+
+‘“
+\
+
+## Page 101
+
+Br. V. Ci. IL § 108) : on : 932.
+
+Faroe neyn cara a haraceae, we
+ahr T eraernfteet meray war weed | sracrerery | erate myst gereray citer,
+aries
+99. The affix ilach (ge) as well as lach, comes
+
+after the word phena, in the sense of matup: and ‘optionally
+the affix matup also.
+
+The word @& draws in &q]; and the word syyateury understood in the
+sOtra adds agq in the alternative. As @fre, Saa: and Sarge
+
+SrartunnisanSea: WAST Ul Roo cent Se
+
+sontra:, UAT tl
+ahr | are afar Frearfeere: fear ned marred wo wee, CRE Naver waite
+nent ATU! a
+' 100. The three affixes 62 (ar), na (4), and qa,
+(«&) come in the sense of matup, respectively after the words
+of these three classes i."e. lomadi, p&émadi, and pichchhédi :
+and the affix matup also comes in the alternative.
+The affix q comes after stag’ words as, Sarg? or arrara shaky’.
+The. affix q comes after qrnfy words, as, qrrq? or qrrara ‘scabby’, The affix
+«ry comes after fyearty words, as, fafeas? or fafeeara ‘broth *.
+Vért:—The affix 4 comes after the word sg in the sense of beautiful,
+as tyr ‘the fair one’ i. e. a woman,
+" Védrt:-—The words ara, Tra and yy shorten their final vowel before
+a, as aitaag ‘a field’, garter, Gort u :
+
+Vért:—The word fasTa (eg +srq) loses its second member, before #, -
+
+and the change caused by sandhi (g in to x) is undone. Otherwise the form
+would be fxm: (wa being elided), as fcafsaen® afr wer=fegera ‘moving
+variously".
+: Vért:—The effix q comes after met, before which {is changed to w,
+
+as padicventta =r w
+
+Vért:—The affix ilach comes after jata, ghat4, and kala, when censure
+is meant, as #iem:, Ufa: afes: but sera when no censure is meant.
+
+1 at, 2 Dt, 3 wy, 4 eft, 5 fie®, 6 mal®, 7 ae, 8 of, Dae
+
+lara, 2am, 3 Bag, 4 baa, 5 Bera, 6 ae (ag), 7 ae, 8 arr, oom,
+10 af, 11 wag ara, 12 eratversteget (arstertegat), gevet a, 18 Frat:
+AUTTATT TBAT! (FAH), 14 aT are (MAT: ), 15 Ry, 16 gas w :
+
+1 Rrra (Rea), 2 ace 3 wee (Gee), 4 yew (gre, § wereereer (mere
+TATA), WA, 6 ach, 7 wee, 8 TE, 9 maT . m Y
+
+none a nee ee ao eee

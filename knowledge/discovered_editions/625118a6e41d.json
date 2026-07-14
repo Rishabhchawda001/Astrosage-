@@ -1,0 +1,162 @@
+{
+  "title": "18-maha-puranas-in-english",
+  "discovered_at": "2026-07-13T12:03:27.357608+00:00",
+  "edition_count": 10,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "18-maha-puranas-in-english",
+      "title": "18 Maha Puranas In English",
+      "creator": "",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "BookReadWrittenByIraiarignar",
+      "title": "BOOK READ WRITTEN BY IRAIARIGNAR",
+      "creator": "IRAIARIGNAR",
+      "year": 1990,
+      "language": "Arabic",
+      "formats": [
+        "Archive BitTorrent",
+        "Item Tile",
+        "JPEG",
+        "JPEG Thumb",
+        "Metadata",
+        "Word Document"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "PratisargaParvaThirdKhand",
+      "title": "Bhavishya Purana (Bhavishya Maha Purana) -Pratisarg Parv -Khand Three full translated to english",
+      "creator": "Vedvyasa ( translated by Avinandan Bose )",
+      "year": 2016,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2303033969",
+      "title": "Caste, class and community : the role of the South African Hindu Maha Sabha in (re)making Hinduism in South Africa, 1912-1960.",
+      "year": 2010,
+      "is_oa": true,
+      "oa_url": "http://hdl.handle.net/10413/7797",
+      "authors": [
+        "Karthigasen Gopalan"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2132334125",
+      "title": "The Gift and Its Forms of Life in Contemporary India",
+      "year": 2011,
+      "is_oa": true,
+      "oa_url": "https://www.research.ed.ac.uk/files/2664688/Copeman_2011_Gift.pdf",
+      "authors": [
+        "Jacob Copeman"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "BookReadWrittenByIraiarignar",
+      "title": "BOOK READ WRITTEN BY IRAIARIGNAR",
+      "creator": "IRAIARIGNAR",
+      "year": 1990,
+      "language": "Arabic",
+      "formats": [
+        "Archive BitTorrent",
+        "Item Tile",
+        "JPEG",
+        "JPEG Thumb",
+        "Metadata",
+        "Word Document"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "brahmanda-purana-book-1-part-1-by-bibek-debroy",
+      "title": "Brahmanda Purana Book 1 Part 1 By Bibek Debroy",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "Metadata"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "PratisargaParvaThirdKhand",
+      "title": "Bhavishya Purana (Bhavishya Maha Purana) -Pratisarg Parv -Khand Three full translated to english",
+      "creator": "Vedvyasa ( translated by Avinandan Bose )",
+      "year": 2016,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2303033969",
+      "title": "Caste, class and community : the role of the South African Hindu Maha Sabha in (re)making Hinduism in South Africa, 1912-1960.",
+      "year": 2010,
+      "is_oa": true,
+      "oa_url": "http://hdl.handle.net/10413/7797",
+      "authors": [
+        "Karthigasen Gopalan"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2132334125",
+      "title": "The Gift and Its Forms of Life in Contemporary India",
+      "year": 2011,
+      "is_oa": true,
+      "oa_url": "https://www.research.ed.ac.uk/files/2664688/Copeman_2011_Gift.pdf",
+      "authors": [
+        "Jacob Copeman"
+      ]
+    }
+  ]
+}

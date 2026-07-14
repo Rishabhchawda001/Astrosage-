@@ -1,0 +1,70 @@
+{
+  "title": "ShivaSutras",
+  "discovered_at": "2026-07-13T15:08:53.822869+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "The Shivasutra-vartikam",
+      "authors": [
+        "Varadar\u0101ja son of Madhur\u0101ja",
+        "Madhus\u016bdanakaula\u015b\u0101str\u012b"
+      ],
+      "year": 1925,
+      "languages": [
+        "san",
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Printed at the Kashmir Pratap Steam Press"
+      ],
+      "ol_key": "/works/OL44344540W"
+    },
+    {
+      "source": "open_library",
+      "title": "Shivasutra-vartikam",
+      "authors": [
+        "Varadaraja son of Madhuraja"
+      ],
+      "year": 1925,
+      "languages": [
+        "san"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "[Research Dept., Jammu & Kashmir State]"
+      ],
+      "ol_key": "/works/OL12876914W"
+    },
+    {
+      "source": "open_library",
+      "title": "Shiva-Sutra Vimarsini of Ksemaraja (Sri Garib Dass Oriental S.)",
+      "authors": [
+        "P.T. Srinivas Iyengar"
+      ],
+      "year": 1994,
+      "languages": [],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "8170303907",
+        "9788170303909"
+      ],
+      "publisher": [
+        "Sri Satguru Publications,India"
+      ],
+      "ol_key": "/works/OL9086961W"
+    }
+  ]
+}

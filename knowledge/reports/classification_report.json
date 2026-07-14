@@ -1,0 +1,19 @@
+{
+  "total_files": 751,
+  "by_type": {
+    "pdf": 602,
+    "image": 69,
+    "docx": 1,
+    "archive": 1,
+    "audio": 12,
+    "video": 66
+  },
+  "pdf_analysis": {
+    "native": 303,
+    "scanned": 272,
+    "mixed": 26,
+    "unknown": 1
+  },
+  "ocr_required_count": 367,
+  "invalid_files": 0
+}

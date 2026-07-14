@@ -1,0 +1,29 @@
+{
+  "title": "202-Valmiki-Ramayan-Telugu",
+  "discovered_at": "2026-07-13T12:14:04.665554+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7131295809",
+      "title": "Perspectivas prism\u00e1ticas na reescrita de \u00e9picos hindus por autoras indianas angl\u00f3fonas",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "http://www.teses.usp.br/teses/disponiveis/8/8147/tde-24022026-081145/publico/2026_TaisLeiteDeMoura_VCor.pdf",
+      "authors": [
+        "Ta\u00eds Aparecida de [UNESP] Moura"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7131295809",
+      "title": "Perspectivas prism\u00e1ticas na reescrita de \u00e9picos hindus por autoras indianas angl\u00f3fonas",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "http://www.teses.usp.br/teses/disponiveis/8/8147/tde-24022026-081145/publico/2026_TaisLeiteDeMoura_VCor.pdf",
+      "authors": [
+        "Ta\u00eds Aparecida de [UNESP] Moura"
+      ]
+    }
+  ]
+}

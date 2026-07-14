@@ -1,0 +1,15 @@
+{
+  "checkpoint_id": "RC-f8c716a220fd",
+  "timestamp": "2026-07-13T07:44:11.974928+00:00",
+  "results": {
+    "scanned": 591,
+    "processed": 200,
+    "passports": 200,
+    "versions": 200,
+    "evidence_nodes": 200,
+    "variants": 200,
+    "truth_verdicts": 200,
+    "validations": 600,
+    "review_items": 200
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "title": "Arogyanidhii",
+  "discovered_at": "2026-07-13T12:40:13.530115+00:00",
+  "edition_count": 1,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "70600Arogyanidhii",
+      "title": "70600 Arogyanidhii",
+      "creator": "SUVRATSUT",
+      "year": 2017,
+      "language": "mar",
+      "formats": [
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

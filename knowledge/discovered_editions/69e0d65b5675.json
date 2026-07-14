@@ -1,0 +1,175 @@
+{
+  "title": "Spectral_Analysis_Om",
+  "discovered_at": "2026-07-13T15:19:49.068576+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp84-00581r000301060015-2",
+      "title": "CIA Reading Room cia-rdp84-00581r000301060015-2: DOKLADY FR: DOK AK NAUK SSSR, TO: DOK AK NAUK SSSR",
+      "creator": "CIA Reading Room",
+      "year": 1972,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp84-00581r000300870040-6",
+      "title": "CIA Reading Room cia-rdp84-00581r000300870040-6: RUSSIA AND BACK FR: SOVREMENYY VOSTOK TO: SPOKTROSKOPIYA MOTODY I",
+      "creator": "CIA Reading Room",
+      "year": 1972,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp91-00772r000100650036-7",
+      "title": "CIA Reading Room cia-rdp91-00772r000100650036-7: A FR: VOLKOVA, K. V. TO: VOLLERNER, N. F.",
+      "creator": "CIA Reading Room",
+      "year": 1983,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "DTIC_ADA188661",
+      "title": "DTIC ADA188661: Time-Frequency Representations for Speech Signals.",
+      "creator": "Defense Technical Information Center",
+      "year": 1987,
+      "language": "english",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp84-00581r000300870040-6",
+      "title": "CIA Reading Room cia-rdp84-00581r000300870040-6: RUSSIA AND BACK FR: SOVREMENYY VOSTOK TO: SPOKTROSKOPIYA MOTODY I",
+      "creator": "CIA Reading Room",
+      "year": 1972,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp91-00772r000100650036-7",
+      "title": "CIA Reading Room cia-rdp91-00772r000100650036-7: A FR: VOLKOVA, K. V. TO: VOLLERNER, N. F.",
+      "creator": "CIA Reading Room",
+      "year": 1983,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2802965286",
+      "title": "EEG Spectral Analysis on OM Mantra Meditation: A Pilot Study",
+      "year": 2018,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Bhavna P. Harne",
+        "Anil Hiwale"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2058246635",
+      "title": "Spectral Reflectance Methodology in Comparison to Traditional Soil Analysis",
+      "year": 2006,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Marcos Rafael Nanni",
+        "Jos\u00e9 Alexandre Melo Dematt\u00ea"
+      ]
+    }
+  ]
+}

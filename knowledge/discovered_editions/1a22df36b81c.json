@@ -1,0 +1,59 @@
+{
+  "title": "Vastu-for-House-eBook",
+  "discovered_at": "2026-07-13T15:32:05.514983+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2887708515",
+      "title": "Morphology and Evolution of Sesamoid Elements in Bats (Mammalia: Chiroptera)",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "https://bioone.org/journals/american-museum-novitates/volume-2018/issue-3905/3905.1/Morphology-and-Evolution-of-Sesamoid-Elements-in-Bats-Mammalia/10.1206/3905.1.pdf",
+      "authors": [
+        "Lucila I. Amador",
+        "Norberto P. Giannini",
+        "Nancy B. Simmons"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4381737729",
+      "title": "Optimized progression of Full-Body In-Bed Gym workout: an educational case report",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://pagepressjournals.org/index.php/bam/article/download/11525/11042",
+      "authors": [
+        "Barbara Ravara",
+        "Walter Giuriati",
+        "Maria Chiara Maccarone"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2887708515",
+      "title": "Morphology and Evolution of Sesamoid Elements in Bats (Mammalia: Chiroptera)",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "https://bioone.org/journals/american-museum-novitates/volume-2018/issue-3905/3905.1/Morphology-and-Evolution-of-Sesamoid-Elements-in-Bats-Mammalia/10.1206/3905.1.pdf",
+      "authors": [
+        "Lucila I. Amador",
+        "Norberto P. Giannini",
+        "Nancy B. Simmons"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4381737729",
+      "title": "Optimized progression of Full-Body In-Bed Gym workout: an educational case report",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://pagepressjournals.org/index.php/bam/article/download/11525/11042",
+      "authors": [
+        "Barbara Ravara",
+        "Walter Giuriati",
+        "Maria Chiara Maccarone"
+      ]
+    }
+  ]
+}

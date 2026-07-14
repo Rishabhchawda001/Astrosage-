@@ -1,0 +1,100 @@
+{
+  "title": "\u0935\u093e\u092e\u0928 \u092a\u0941\u0930\u093e\u0923",
+  "discovered_at": "2026-07-13T17:36:04.578584+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "vaman-puran-hindi",
+      "title": "\u0935\u093e\u092e\u0928 \u092a\u0941\u0930\u093e\u0923, Vaman Puran",
+      "creator": "\u092d\u0935\u093f\u0924\u0935\u094d\u092f \u092e\u093f\u0936\u094d\u0930",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "20251203_20251203_1219",
+      "title": "\u0935\u093e\u092e\u0928 \u092a\u0941\u0930\u093e\u0923 (\u0938\u0902\u0938\u094d\u0915\u0943\u0924 \u0939\u093f\u0902\u0926\u0940) \u0917\u0940\u0924\u093e \u092a\u094d\u0930\u0947\u0938",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wg1016",
+      "title": "2011 Or Before -Vaman Puran",
+      "creator": "",
+      "year": 2011,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3201558195",
+      "title": "\u0905\u092d\u0932\u0916\u0924 \u0932\u091a\u091b\u0935\u0915\u0932\u0928 \u092e\u0930\u0924 \u0935\u0937\u0923\u0935\u0915\u0930\u0928\u0924 : \u0935\u0936\u0932\u0937\u0923\u0924\u092e\u0915 \u0935\u092e\u0930\u0936 [Recorded Licchavikalin idol Vishnuvikranta: Analytical analysis]",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://www.nepjol.info/index.php/sirjana/article/download/39790/30361",
+      "authors": [
+        "\u0913\u092e Om \u0916\u0924\u094d\u0930\u0940 Khatri"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4307627279",
+      "title": "\u092e\u0925\u0915-\u092a\u0930\u092a\u0930\u0913 \u0915 \u092a\u0928\u0930\u0935\u092f\u0916\u092f \u0938 \u0907\u0924\u0939\u0938 \u0915 \u0916\u091c (\u092e\u0939\u0937\u0938\u0930: \u092e\u0925\u0915 \u0935 \u092a\u0930\u092a\u0930 \u0915 \u0908\u0936 \u092e\u0936\u0930 \u0926\u0935\u0930 \u0932\u0916\u0924 \u0938\u092e\u0915\u0937)",
+      "year": 2008,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.7264929",
+      "authors": [
+        "Ish N Mishra"
+      ]
+    }
+  ]
+}

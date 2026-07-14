@@ -1,0 +1,89 @@
+{
+  "title": "\u0906\u0930\u094d\u092f\u092d\u091f\u094d\u091f ( Hindi )",
+  "discovered_at": "2026-07-13T17:16:19.609621+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "aryabhata_202512",
+      "title": "\u0906\u0930\u094d\u092f\u092d\u091f\u094d\u091f - \u0935\u0948\u091c\u094d\u091e\u093e\u0928\u093f\u0915 \u091c\u0940\u0935\u0928\u0940 - \u0917\u0941\u0923\u093e\u0915\u0930 \u092e\u0941\u0933\u0947",
+      "creator": "\u0917\u0941\u0923\u093e\u0915\u0930 \u092e\u0941\u0933\u0947",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "jyotsnavaidikmathsbook",
+      "title": "\u0909\u091a\u094d\u091a \u092a\u094d\u0930\u093e\u0925\u092e\u093f\u0915 \u0938\u094d\u0924\u0930 \u0915\u0947 \u0935\u093f\u0926\u094d\u092f\u093e\u0930\u094d\u0925\u093f\u092f\u094b\u0902 \u092e\u0947\u0902 \u0935\u0948\u0926\u093f\u0915 \u0917\u0923\u093f\u0924 \u0915\u0940 \u092a\u094d\u0930\u092d\u093e\u0935\u0936\u0940\u0932\u0924\u093e \u0915\u093e \u0905\u0927\u094d\u092f\u092f\u0928 Uchch Praathamik Star Ke Vidyaarthiyon Mein Vaidik Ganit Kee Prabhaavasheelata Ka Adhyayan",
+      "creator": "Dr. Rajeev Agarwal, Sushil kumar kushwaha, Jyotishna Tiwari",
+      "year": 2023,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "AryaBhatt-PracheenGanitagya-Hindi",
+      "title": "ARYABHATT - PRACHEEN GANITAGYA - GUNAKAR MULEY",
+      "creator": "GUNAKAR MULEY",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "JPEG Thumb",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Unknown"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4411124249",
+      "title": "Intellectual and Scientific Awareness in the Gupta Era: A Historical Review of the Golden Age",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.31305/rrijm.2025.v10.n4.031",
+      "authors": [
+        "Pooja Dixit",
+        "Poonam"
+      ]
+    }
+  ]
+}

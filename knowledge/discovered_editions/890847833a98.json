@@ -1,0 +1,95 @@
+{
+  "title": "ALL Puran English",
+  "discovered_at": "2026-07-13T12:38:18.888366+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "the-fundamental-message-of-islam",
+      "title": "The Fundamental Message Of Islam",
+      "creator": "fmoislam@protonmail.com",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "areyousecular",
+      "title": "ARE YOU SECULAR",
+      "creator": "Rajesh",
+      "year": 2019,
+      "language": "English",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "45-story-of-ravana-and-the-epic-war-of-lanka",
+      "title": "45= Story Of Ravana And The Epic War Of Lanka",
+      "creator": "Ajai Kumar Chhawchharia",
+      "year": 2021,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2605417539",
+      "title": "After Macauliffe: the wondrous liberty of Puran Singh",
+      "year": 2017,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Christopher Shackle"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4396639696",
+      "title": "Ashwamedha Yagya in Puran",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://dsiij.dsvv.ac.in/index.php/dsiij/article/download/341/246",
+      "authors": [
+        "Manisha Bhardwaj"
+      ]
+    }
+  ]
+}

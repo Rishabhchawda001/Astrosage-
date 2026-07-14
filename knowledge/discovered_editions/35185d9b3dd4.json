@@ -1,0 +1,103 @@
+{
+  "title": "\u090b\u0917\u094d\u0935\u0947\u0926",
+  "discovered_at": "2026-07-13T17:16:43.766336+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.343221",
+      "title": "\u090b\u0917\u094d\u0935\u0947\u0926\u093e\u0926\u093f\u092d\u093e\u0937\u094d\u092f \u092d\u0942\u092e\u093f\u0915\u093e",
+      "creator": "\u0926\u092f\u093e\u0928\u0928\u094d\u0926 \u0938\u0930\u0938\u094d\u0935\u0924\u093f",
+      "year": 1920,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.409812",
+      "title": "\u090b\u0917\u094d\u0935\u0947\u0926\u0938\u0902\u0939\u093f\u0924\u093e\u092f\u093e\u0903",
+      "creator": "Not Available",
+      "year": 1910,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "by-0_20200617",
+      "title": "\u0935\u0947\u0926\u094b\u0902 \u092e\u0947\u0902 \u092a\u0948\u0917\u0902\u092c\u0930 \u092e\u0941\u0939\u092e\u094d\u092e\u0926 \u0935\u0947\u0926\u094b\u0902 \u092e\u0947\u0902 \u0907\u0938\u094d\u0932\u093e\u092e By \u0921\u093e 0 \u090f\u092e \u090f \u0936\u094d\u0930\u0940\u0935\u093e\u0938\u094d\u0924\u0935",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7134169684",
+      "title": "\u092d\u0930\u0924\u092f \u091c\u091e\u0928 \u092a\u0930\u092a\u0930 \u092e \u0935\u0926 \u0915 \u092d\u092e\u0915",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.65403/bhairavi.vol30.022",
+      "authors": [
+        "\u0921\u0949. \u0936\u0940\u0932\u093e \u091d\u093e"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3134350661",
+      "title": "COLOR COMBINATION IN RAJASTHANI PAINTING",
+      "year": 2014,
+      "is_oa": true,
+      "oa_url": "https://www.granthaalayahpublication.org/journals/index.php/granthaalayah/article/download/IJRG14_CC11_96/3536",
+      "authors": [
+        "Vasundhara Pawar"
+      ]
+    }
+  ]
+}

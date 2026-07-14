@@ -1,0 +1,51 @@
+{
+  "title": "tamil-ramayanam-326-page",
+  "discovered_at": "2026-07-13T17:04:58.224617+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4414458026",
+      "title": "Towards a History of the BnF Collection of Tamil Manuscripts",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://hal.science/hal-05272712v1/file/Francis_2025_history_BNF_collection_Tamil_MSS.pdf",
+      "authors": [
+        "Emmanuel Francis"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4242949111",
+      "title": "Book Reviews",
+      "year": 2005,
+      "is_oa": true,
+      "oa_url": "https://eprints.soas.ac.uk/8579/1/A_Review_Symposium.pdf",
+      "authors": [
+        "N/A"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4414458026",
+      "title": "Towards a History of the BnF Collection of Tamil Manuscripts",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://hal.science/hal-05272712v1/file/Francis_2025_history_BNF_collection_Tamil_MSS.pdf",
+      "authors": [
+        "Emmanuel Francis"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4242949111",
+      "title": "Book Reviews",
+      "year": 2005,
+      "is_oa": true,
+      "oa_url": "https://eprints.soas.ac.uk/8579/1/A_Review_Symposium.pdf",
+      "authors": [
+        "N/A"
+      ]
+    }
+  ]
+}

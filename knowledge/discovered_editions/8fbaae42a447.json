@@ -1,0 +1,29 @@
+{
+  "title": "freq analysisi of OM",
+  "discovered_at": "2026-07-13T16:03:46.523680+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2155984825",
+      "title": "Movement patterns of snow leopard (Panthera uncia) around kills based on GPS location clusters",
+      "year": 2011,
+      "is_oa": true,
+      "oa_url": "https://stud.epsilon.slu.se/2277/",
+      "authors": [
+        "Elin Gr\u00f6nberg"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2298570847",
+      "title": "Mineralogy and trace elements of the Cretaceous Greymouth coals and their combustion products.",
+      "year": 2002,
+      "is_oa": true,
+      "oa_url": "http://hdl.handle.net/10092/7525",
+      "authors": [
+        "Zhongsheng Li"
+      ]
+    }
+  ]
+}

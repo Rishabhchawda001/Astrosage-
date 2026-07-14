@@ -1,0 +1,29 @@
+{
+  "title": "\u0cae\u0cb9\u0cbe\u0cad\u0cbe\u0cb0\u0ca4\u0ca6 \u0c86\u0ca6\u0cb0\u0ccd\u0cb6_",
+  "discovered_at": "2026-07-13T17:49:51.026117+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7148543739",
+      "title": "\u0cae\u0ca7\u0cb5 \u0c95\u0ca6\u0cac\u0cb0\u0caf\u0cb2\u0cb2\u0ca8 \u0cb8\u0ca4\u0cb0\u0cb8\u0cb5\u0ca6\u0ca8",
+      "year": 2026,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.19391503",
+      "authors": [
+        "\u0c97\u0c82\u0c97\u0cb2\u0c95\u0ccd\u0cb7\u0ccd\u0cae\u0cc0 \u0c8e\u0c82.\u0c95\u0cc6"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7148456469",
+      "title": "\u0cae\u0ca7\u0cb5 \u0c95\u0ca6\u0cac\u0cb0\u0caf\u0cb2\u0cb2\u0ca8 \u0cb8\u0ca4\u0cb0\u0cb8\u0cb5\u0ca6\u0ca8",
+      "year": 2026,
+      "is_oa": true,
+      "oa_url": "https://www.kannadabooksjournal.linkpc.net",
+      "authors": [
+        "\u0c97\u0c82\u0c97\u0cb2\u0c95\u0ccd\u0cb7\u0ccd\u0cae\u0cc0 \u0c8e\u0c82.\u0c95\u0cc6"
+      ]
+    }
+  ]
+}

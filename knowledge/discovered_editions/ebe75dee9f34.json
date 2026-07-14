@@ -1,0 +1,179 @@
+{
+  "title": "Vividh_Chikitsa",
+  "discovered_at": "2026-07-13T15:35:22.347895+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "123171VividhChikitsaNo6",
+      "title": "123171 Vividh Chikitsa No 6",
+      "creator": "SUVRATSUT",
+      "year": 2017,
+      "language": "mar",
+      "formats": [
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ayurveda-Vividh_Chikitsa_no__6_",
+      "title": "Vividh Chikitsa Paddatiyan- hindi",
+      "creator": "",
+      "year": null,
+      "language": "Hindi",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "51265VividhChikitsa",
+      "title": "51265 Vividh Chikitsa",
+      "creator": "SUVRATSUT",
+      "year": 2017,
+      "language": "mar",
+      "formats": [
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "51265VividhChikitsa",
+      "title": "51265 Vividh Chikitsa",
+      "creator": "SUVRATSUT",
+      "year": 2017,
+      "language": "mar",
+      "formats": [
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "123171VividhChikitsaNo6",
+      "title": "123171 Vividh Chikitsa No 6",
+      "creator": "SUVRATSUT",
+      "year": 2017,
+      "language": "mar",
+      "formats": [
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ayurveda-Vividh_Chikitsa_no__6_",
+      "title": "Vividh Chikitsa Paddatiyan- hindi",
+      "creator": "",
+      "year": null,
+      "language": "Hindi",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2520273962",
+      "title": "CONCEPT OF VISHADVAYA AND THEIR THERAPEUTIC VALUE IN CHIKITSA GRANTH: A REVIEW",
+      "year": 2016,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.7897/2277-4343.074159",
+      "authors": [
+        "Gagan deep kour",
+        "Suresh Chaubey",
+        "Dinesh Chandra Singh"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7130734856",
+      "title": "Vividh Sharirik Evam Mansik Rogon Ke Upchar Ka Sashakt Madhyam - Sangeet Chikitsa",
+      "year": 2026,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.18709110",
+      "authors": [
+        "Kiran Sharma"
+      ]
+    }
+  ]
+}

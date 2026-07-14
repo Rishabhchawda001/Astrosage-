@@ -1,0 +1,1074 @@
+=== PAGE 1 ===
+
+SIT Graduate Institute/SIT Study Abroad
+SIT Digital Collections
+Independent Study Project (ISP) Collection
+SIT Study Abroad
+Spring 2018
+Ontology of Personhood in Ayurveda from the
+Perspective of Patients and Physicians in Palampur,
+Himachal Pradesh: An Independent Study
+Denise DeFelice
+SIT Study Abroad
+Follow this and additional works at: https://digitalcollections.sit.edu/isp_collection
+Part of the Alternative and Complementary Medicine Commons, Community-Based Research
+Commons, Family, Life Course, and Society Commons, and the Medicine and Health Commons
+This Unpublished Paper is brought to you for free and open access by the SIT Study Abroad at SIT Digital Collections. It has been accepted for
+inclusion in Independent Study Project (ISP) Collection by an authorized administrator of SIT Digital Collections. For more information, please
+contact digitalcollections@sit.edu.
+Recommended Citation
+DeFelice, Denise, "Ontology of Personhood in Ayurveda from the Perspective of Patients and Physicians in Palampur, Himachal
+Pradesh: An Independent Study" (2018). Independent Study Project (ISP) Collection. 2854.
+https://digitalcollections.sit.edu/isp_collection/2854
+
+=== PAGE 2 ===
+
+Ontology of Personhood in Ayurveda from the Perspective of 
+Patients and Physicians in Palampur, Himachal Pradesh: An 
+Independent Study 
+ 
+Denise M. DeFelice 
+Academic Director: Azim Khan 
+ISP Advisor: Dr. Ashutosh Guleri 
+SIT Study Abroad 
+India: Public Health, Gender, and Community Action 
+Spring 2018
+
+=== PAGE 3 ===
+
+2 
+ 
+TABLE OF CONTENTS 
+ABSTRACT .................................................................................................. 4 
+PRELIMINARY RESEARCH AND DISCUSSION .......................................... 4 
+ 
+INTRODUCTION ............................................................................................................................................ 4 
+OBJECTIVE ..................................................................................................................................................... 6 
+BACKGROUND ............................................................................................................................................... 7 
+The Body in Indian Philosophy ............................................................................................................. 8 
+Ayurveda ................................................................................................................................................ 11 
+Yoga and Naturopathy ......................................................................................................................... 14 
+LITERATURE REVIEW ................................................................................................................................ 15 
+RESEARCH DESIGN ................................................................................. 20 
+METHODS ..................................................................................................................................................... 21 
+LIMITATIONS ............................................................................................................................................... 21 
+ 
+RESULTS .................................................................................................. 22 
+ 
+DISCUSSION OF CONCEPTS ...................................................................................................................... 22 
+Balance and Action .............................................................................................................................. 22 
+Mind and Body ..................................................................................................................................... 24 
+Behavior ................................................................................................................................................ 25 
+Change and Deterioration ................................................................................................................... 26 
+FUTURE DIRECTIONS ................................................................................................................................ 27
+
+=== PAGE 4 ===
+
+3 
+ 
+CONCLUSION ........................................................................................... 28 
+APPENDIX ................................................................................................ 29 
+ 
+ACKNOWLEDGEMENTS ............................................................................................................................. 29 
+INTERVIEW QUESTIONS ........................................................................................................................... 31 
+Doctors ................................................................................................................................................. 31 
+Patients ................................................................................................................................................. 32 
+WORKS CITED .............................................................................................................................................. 34 
+Primary Sources ................................................................................................................................... 34 
+Secondary Sources ............................................................................................................................... 34
+
+=== PAGE 5 ===
+
+4 
+ 
+ABSTRACT 
+Scholars in western biomedicine describe the body as a physical entity distinct from 
+mind and soul. However, the human body in Indian systems of medicine integrates the 
+multiple natures of personhood and is both deeply physical and spiritual. This study 
+demonstrates the unique view of personhood, being, health, and illness in Ayurveda 
+through literature research and interviews with practitioners and patients. This study 
+extends past a search for the ontology of personhood in Ayurveda and discusses the 
+implications of this ontology on the way one views oneself and the world around him or 
+her. Through this integrative approach, this study argues that the human body proposed 
+in Ayurveda is fundamentally different from some other traditions of medicine, and 
+because of this difference, the human body is treated differently and health is pursued in 
+a unique manner.  
+Keywords: Ayurveda, AYUSH, ontology, semantics, philosophy, health, personhood 
+PRELIMINARY RESEARCH AND DISCUSSION 
+INTRODUCTION 
+The Ayurveda, an ancient medical text and one of the oldest systems of medicine in the 
+world, synthesizes knowledge from Indian philosophical traditions to create a system of 
+health and well-being. This system distinguishes itself from other ways of thinking 
+about the human body due to its holistic nature.1 This unique view of humanity and 
+personhood, or the ontology of being, affects not only the way one views oneself but also 
+every interaction with the external reality. 
+                                                        
+1 Richard A Shweder, “The Cultural Psychology of Suffering: The Man Meanings of Health in Orissa, India (And 
+Elsewhere), Ethos 36, no. 1 (2008): 66.
+
+=== PAGE 6 ===
+
+5 
+ 
+The following study seeks to understand the ontology of personhood in the 
+context of the Ayurveda. This study first introduces the idea of ontology and semantics, 
+an important subcategory of ontology in the philosophy of health, and contextualizes the 
+Ayurveda in the broader context of Indian philosophy. A brief background in Ayurveda 
+is included as well, and naturopathy is also discussed to contextualize the blend of 
+panchkarma and naturopathy treatment that patients at the location where the study 
+took place received. Following this, a literature review was conducted to understand 
+where the field of the philosophy of personhood in Ayurveda is today. Very few scholars 
+directly study ontology of being, but rather discuss some important ideas in Ayurveda 
+and apply them to everyday life. This literature review illuminates this significant gap in 
+knowledge and explains the importance of this research. Following this, the findings of 
+this interview-based study are presented and discussed. 
+ 
+Ontology is a central concept in philosophy when thinking about the meaning of 
+personhood. The Stanford Encyclopedia of Philosophy defines ontology as “what there 
+is, what exists…what the general features and relations of these things are”.2 The 
+discipline of ontology has four parts: the study of ontological commitment, the study of 
+what there is, the study of general features about what there is, and the study of meta-
+ontology. To discuss the body, this paper focuses on the second and third aspects of this 
+discipline. In order to answer these questions, the relation between things and what is 
+involved in settling questions about these musings will also be discussed.3  
+                                                        
+2 Thomas Hofwber, “Logic and Ontology”, The Stanford Encyclopedia of Philosophy (Winter 2017 Edition) ed. 
+Edward N. Zalta (Stanford: The Metaphysics Research Lab, 2016). 
+3 Ibid.
+
+=== PAGE 7 ===
+
+6 
+ 
+ 
+Semantics, or use of language, also plays a significant role in the ontology of the 
+body. Word choice and diction, varying definitions of words, and cultural context of 
+language in Ayurveda affect the view of the body. This will be discussed deeply from the 
+point of view of Ayurvedic practitioners, or Vaidyas, and the implications of semantics 
+in Ayurveda will be analyzed.4 Philosophers and linguists use many definitions of 
+semantics; for the purpose of this research, the Oxford Dictionary definition is used: 
+“[semantics is] the branch of linguistics and logic concerned with meaning. The two 
+main areas are logical semantics, concerned with matters such as sense and reference 
+and presupposition and implication, and lexical semantics, concerned with the analysis 
+of word meanings and relations between them.”5 Lexical semantics, which focuses on 
+the analysis of word meaning, is of particular interest.6  
+ 
+Although the Ayurveda existed for millennia, few scholars have focused on its 
+philosophy that contributes to the meaning of personhood. This lack of focus, however, 
+is not due to lack of importance. The manner in which one views the body not only 
+affects that one person but also how one views everyone around him or her. This is the 
+way in which philosophy is embodied, which changes how one falls ill, seeks treatment, 
+and pursues a healthy life. The ontology of the self applies philosophy and thought to 
+healing and care. 
+OBJECTIVE 
+The objective of this study is to gain an understanding of the ontology of personhood 
+from the perspective of Ayurveda. This study took place at Kayakalp Himalayan 
+                                                        
+4 Shweder, “The Cultural Psychology of Suffering”, 68. 
+5 English Oxford Living Dictionaries, s.v.  “Semantics”, accessed 15-5-2018. 
+6 Dirk Geeraerts, “Lexical Semantics”, Oxford Research Encyclopedia of Linguistics (Oxford: Oxford University 
+Press, 2017).
+
+=== PAGE 8 ===
+
+7 
+ 
+Research Institute for Yoga and Naturopathy in Palampur, Himachal Pradesh. This 
+health center located in the mountains of Palampur in Northern India, provides 
+integrated treatment using various traditions of medicine, including Yoga, Pranayam, 
+Meditation, Naturopathy, Panchkarma, Physiotherapy, Acupressure, Magnetotherapy, 
+Diet therapy, and Colon Hydrotherapy.7 Patients at Kayakalp primarily receive an 
+amalgamation of panchkarma and Naturopathy treatments. Panchkarma, meaning 
+“five actions” or “five treatments”, is the Ayurvedic treatment used to detoxify and heal 
+the body.8 This study includes literature research and interviews from both Ayurvedic 
+and Naturopathic doctors and patients, also referred to as health-seekers, at Kayakalp. 
+This study argues that Ayurveda posits a unique view of health, illness, life, death, and 
+personhood that deeply affects the way a person views oneself and interacts with the 
+world. 
+BACKGROUND 
+Preliminary research was done in Ayurveda, Naturopathy, and Yoga in preparation for 
+this study. Because India embraces a plurality of medical practices, doctors and patients 
+alike are rarely exposed to only one pathy of medicine.9 Kayakalp provides treatment 
+through many traditions and systems of Indian medicine. Panchkarma and naturopathy 
+were two main pathies practiced at Kayakalp.10 Although the Ayurveda is the main focus 
+of this research, Ayurvedic Vaidyas and patients, also known as health-seekers at 
+Kayakalp, include their experience of naturopathy as well.  
+                                                        
+7 “Welcome to Kayakalp”, Kayakalp Himalayan Research Institute for Yoga and Naturopathy, accessed 15-5-
+2018. 
+8 Ashutosh Guleri, “Introduction to Ayurveda” (lecture, Kayakalp – Palampur Workshop, Palampur, Himachal 
+Pradesh, India, 20-March, 2018). 
+9 Shweder, “The Cultural Psychology of Suffering”, 68. 
+10 “About Us,” Kayakalp Himalayan Research Institute for Yoga and Naturopathy, accessed 15-5-2018.
+
+=== PAGE 9 ===
+
+8 
+ 
+The Body in Indian Philosophy 
+Because the Ayurveda originates from Indian philosophy, a background in the 
+idea of the body in various Indian traditions of philosophy is important. Different 
+schools of thought in Indian philosophy interpret personhood in a different manner. In 
+many of these traditions, the body is both a physical entity and a space for the 
+intersection of the spiritual and physical. Here, the soul is just as tangible as the physical 
+body. From the earliest traditions, such as the Vedic tradition, the body is interpreted as 
+a “vehicle of consciousness”, where the consciousness or the soul is the chief part of 
+personhood.11 The Rg Veda, the chief text of the Vedic tradition, presents the body as 
+the “original sacrificial being” whose sacrifice resulted in the creation of reality. The 
+dividing of the human body which contains all of reality is a ritual act. The hermeneutic 
+phrase “as above, so below” describes this view of the body; what is found in the body 
+reflects what is in the world. The only part of oneself that is truly individual and not a 
+reflection of the outside reality is the “absolute” soul.12 Contrary to conventional 
+thought, the Rg Veda argues that the dividing of the body does not make one less 
+human, but rather enhances one’s humanness and “makes the victim into a celestial 
+being”.13 However, it must be done in the appropriate context of sacrifice; otherwise, it 
+is crude butchery.  
+ 
+The tradition of the Upanisads which follows the Vedic tradition views the body 
+as five different bodies tied into one self. The Tattiriya Upanisad, defines these bodies 
+as annamaya, or the physical body, pranamaya, the body of breath or air, manomaya, 
+                                                        
+11 Dominik Vujastyk, “Interpreting the Image of the Human Body in Premodern India”, International Journal of 
+Hindu Studies 13, no. 2 (2009): 190. 
+12 Ibid, 196. 
+13 Ibid, 194.
+
+=== PAGE 10 ===
+
+9 
+ 
+or the mind, vijnanamaya, or knowledge, and anadamaya, or the self from joy. One 
+can use techniques of breath control and breathing to access these different atmans, or 
+bodies. Each of these meditative states brings one to another physical state. One can 
+gain or regain health through patterns of breathing to access a healthy meditative 
+state.14 This is similar to the practice of Yoga today which seeks to activate the natural 
+healing powers of the body through breathing and physical exercises.15 
+ 
+The Jain tradition embraces karma as a semi-physical part of the body and soul. 
+Karmic debt weighs down the soul and binds it to physical existence. Liberation from 
+karmic debt frees the soul which is the human body in its freest form. In the Jaina 
+philosophy, illness is caused by anything that binds the soul to physical existence; 
+anything that accumulates karmic debt can cause bodily illness and harm the soul.16 
+ 
+The Buddhist body is similar to the Jaina body in the sense that the soul is the 
+most important part of personhood. The physical body is almost irrelevant, and those 
+who are immune to pain or physical discomfort are praised. In this sense, illness should 
+not affect a person, because the body is not a significant part of what makes one human. 
+The physical body is a combination of processes or events, not necessarily an 
+independent object which can be studied. Ideally, a person can cast aside the needs of 
+his physical body and focus on reaching enlightenment.17 
+ 
+The Tantric and Yogic bodies, unlike the Vedic body, is non-anatomical. The body 
+here is a locus of the Tantric chakras, or wheels which are epicenters of energy which all 
+affect one another. These energies are far more important than the physical body. 
+                                                        
+14 Vujastyk, “Interpreting the Image of the Human Body in Premodern India”, 196. 
+15Henry Lindlahr, Philosophy and Practice of Nature Cure (Unknown: Sat Sahitya Shayogi Sangh, 1995): 150. 
+16 Vujastyk, 196-197. 
+17 Vujastyk, “Interpreting the Image of the Human Body in Premodern India”, 197-198.
+
+=== PAGE 11 ===
+
+10 
+ 
+Practices in the Tantric tradition bring the physical body back in touch with the chakras 
+to restore health and well-being. The Yogic body, similar to the Tantric body, is a 
+spiritual center, and its physical nature can sometimes obstruct what makes one human: 
+the soul. The practice of yoga is meant to subdue to body in order for the person to reach 
+higher states of enlightenment.18 This same practice is utilized in modern Naturopathy 
+and Yoga in India. Illness is thought to come from the mind, and the only way to achieve 
+health and recover from a mind illness is through the empowerment of the awaken the 
+consciousness.19 
+ 
+The Samkhya philosophy introduces some key concepts that are reflected in 
+Ayurveda.20 In this philosophy the universe has two main components: the purusa, or 
+universal soul, and the prakrti, or cosmic substance. Purusa and prakrti meet in the 
+human body, which is both body and soul.21 The prakrti is an important term used in 
+Ayurveda and is the basis for personhood, disease, and health.22 In the Samkhya 
+philosophy, prakrti is composed of three gunas, or strands of existence. These three 
+strands are sattva, or lightness, rajas, or action, and tamas, or inaction. These three 
+strands are eternally bound together and are the building blocks for all parts of the 
+physical nature of the universe. These three qualities are in constant tension with one 
+another: the brightness of sattva collides with the dullness of tamas, the lethargy of 
+tamas contradicts the vitality of rajas; the blunt force of rajas intrudes on the lightness 
+                                                        
+18 Ibid, 199-200. 
+19Nagendra Kumar Neeraj, Miracles of Naturopathy and Yogic Sciences (Jaipur: Popular Book Depot, 2015): 
+150. 
+20 Joseph S. Alter, “Heaps of Health, Metaphysical Fitness: Ayurveda and the Ontology of Good Health in 
+Medical Anthropology”, Current Anthropology 40, no. 1 (Chicago: University of Chicago Press on behalf of 
+Wenner-Gren Foundation of Anthropological Research, 1999): s46. 
+21 Ibid, s47. 
+22 Ayurvedic Vaidya in discussion with the author, interview 8, 19-4-2018, transcript.
+
+=== PAGE 12 ===
+
+11 
+ 
+and beauty of sattva. Despite this tension, all life is built from this. The concept of the 
+gunas proposes an inherent competition and violence to life and existence, not just 
+between things but within oneself. To live, then, is to fight.23 
+Overview of Ayurveda  
+The Ayurveda builds from these ideas of personhood and applies them to health. 
+The Ayurveda, meaning “knowledge of life” in Sanskrit, originates from the ancient 
+Vedic texts, and is considered to be unchangeable.24 The physical nature of the universe 
+is constructed of five basic elements: space, air, fire, water, and earth. The body is 
+divided into three parts, called doshas, which are blends of these five elements. The 
+first, vata or air and wind, is the principle governing motion, movement, and space. The 
+second, pitta, a combination of water and fire, is the digestive fire or bile, and controls 
+the transforming processes of the body. The third, kapha, is water and earth. This is the 
+solidity of the body or phlegm, and is where cohesion, growth, and liquefaction exists. 
+Much like the gunas of the Samkhya philosophy, these three doshas are in tension with 
+each other. The healthy body contains these three doshas in perfect equilibrium.25,26  
+ 
+Similar to the Yogic tradition, the body in the Ayurveda is an undifferentiated, 
+integrated space irrigated by snayus, or channels. These channels are substances 
+through which life can flow. The body evolves and grows through changes, or susrutas, 
+which are a fundamental aspect of life. The only way through which to end this cycle of 
+                                                        
+23 Alter, “Heaps of Health, Metaphysical Fitness”, s47. 
+24 Carlos J. Moreno Leguizamon, “Dichotomies in Western Medicine and Ayurveda: Health-Illness and Body-
+Mind” Economic & Political Weekly 40, no. 30 (2005): 3302. 
+25Ibid, 3308. 
+26 Ashutosh Guleri, “Introduction to Ayurveda” (lecture, Kayakalp – Palampur Workshop, Palampur, Himachal 
+Pradesh, India, 20-March, 2018).
+
+=== PAGE 13 ===
+
+12 
+ 
+changes is to be liberated from it.27 The mind and the soul, the atma, is a critical concept 
+in the body. The jiva atma is the individual soul which gives a person a sense of “I-
+ness”. The param atma, the other part of the soul, is universal, and gives consciousness 
+to nature. This duality of the soul makes a person fully oneself and integrated with 
+nature simultaneously, and has unique implications for health and wellness.28 
+ 
+To stay healthy, the snayus of the body must stay open. Blockages in the snayus 
+of the body can cause illness. The displacement of humors, or doshas, in the wrong parts 
+of the body can also cause illness. Conventionally, scholars discuss illness in the 
+Ayurveda as an imbalance of the doshas. However, Projit Mukharji, a professor in the 
+History and Sociology of Science department at the University of Pennsylvania, 
+challenges this idea as a misinterpretation of the Ayurveda in the Greek, western 
+philosophical context. The view of imbalanced doshas also considers the body to be a 
+closed anatomical space made up only of flows and energy. The displaced doshas must 
+be relocated to their proper places within the body to regain health.29  
+ 
+The Ayurveda posits a unique etiology of illness. Because the body is intimately 
+tied to the soul, and the soul is both individual and universal, illness is also both 
+individual and universal. For example, poor weather can cause ill health in the body, 
+because the relationship between the body and the environment is a basic element of the 
+whole system. Change, although a fundamental aspect of life, can also cause destruction 
+with time.30 When one faces too great of a challenge, whether physical, emotional, or 
+                                                        
+27 Projit Mukharji, “Doctoring Traditions: Ayurveda and Small Technologies, 1860-1930” (presentation, 
+Center for South Asia, UW-Madison). 
+ “Doctoring Traditions”. 
+28 Leguizamon, “Dichotomies in Western Medicine and Ayurveda”, 3309. 
+29 Mukharji, “Doctoring Traditions”. 
+30 Leguizamon, “Dichotomies in Western Medicine and Ayurveda”, 3308.
+
+=== PAGE 14 ===
+
+13 
+ 
+spiritual, the body may fall ill, due to the relationship between the physical body and the 
+atma. Karmic debt, similar to the Jain body, can weigh down on the soul and cause 
+illness. 31 
+ 
+The concept of tension is a common theme in Ayurveda. Although the 
+unchangeable text of the Rg Veda influences the texts of the Ayurveda, change seems to 
+be the only constant.32,33 The Ayurvedic human body embodies the Vedic concept of 
+susruta, which states that change is the only constant and is a fundamental condition of 
+life.34 In addition, the tridosha concept of the human body implies constant tension in 
+the body. Each of the three doshas can aggravate or pacify one of the others, causing an 
+imbalance.35 In Mukharji’s interpretation, they can also move throughout the body and 
+displace each other.36 Health is a balance, and balance in Ayurveda implies a perfect 
+tension. 
+Yoga and Naturopathy 
+Naturopathy is a worldwide tradition of medicine, and originated in India during 
+the Vedic period. Naturopathy and nature cure focus on the healing power of nature to 
+cure disease. The body contains a natural healing energy which can only be 
+compromised by going against the laws of nature, which causes disease.37 There is no 
+substitute for the laws of nature; neither drugs nor surgery can solve a problem created 
+                                                        
+31 Alex Hankey, “Ayurveda and the battle against chronic disease: An opportunity for Ayurveda to go 
+mainstream?” Journal of Ayurveda & Integrative Medicine 1, no. 1 (2010): 9-12. 
+32 Leguizamon, 3302. 
+33 Ayurvedic Vaidya in discussion with the author, interview 6, 27-4-2018, transcript. 
+34 Leguizamon, 3308. 
+35 Ayurvedic Vaidya in discussion with the author, interview 8, 19-4-2018, transcript. 
+36 Mukharji, “Doctoring Traditions”. 
+37 Memon Shakeel et al, “Alternative System of Medicine in India: A Review”. International Research Journal of 
+Pharmacy 2, no. 4 (2011): 29-37.
+
+=== PAGE 15 ===
+
+14 
+ 
+from violating these laws.38 This view of disease shifts the responsibility of illness from 
+the external to the internal; only oneself is to blame for one’s illness, which occurs from 
+one’s own choice to violate nature’s laws.39  
+Medicines are not prescribed in naturopathy, but they are allowed insofar as they 
+do not cause any harm to the body.40 If one chronically takes a medication for an illness 
+to control the symptoms, one may feel healthy or externally appear healthy; however, 
+one cannot be healthy if the body is reliant on a medication. Medicine only creates the 
+“illusion” of being healthy.41 Disease is defined as “lowered vitality, abnormal 
+composition of blood and lymph, and accumulation of morbid matter.”42 Health, then, is 
+harmony with nature, or the normal vibrations of elements composing the human 
+entity, in a physical, mental, and spiritual capacity.43 In order to cure disease, one has to 
+“return to nature” and purify the self to allow the natural healing powers of the body to 
+do their work.44  
+In Naturopathy, life is vibratory, like a miniature solar system. Patterns of 
+movement and vibration sustain life, and similar to Ayurveda, all things must stay in 
+balance to remain healthy.45 The body in naturopathy is soul, mind, and body.46 All are 
+important parts of humanity, and if one falls ill, all three components of the body are 
+simultaneously affected. Treatment is holistic and seeks to heal all three essences of the 
+body, regardless of from where the disease originated. For example, if someone suffers 
+                                                        
+38 Lindlahr, Philosophy and Practice of Nature Cure, 27. 
+39 Ibid, 35. 
+40 Ibid, 28. 
+41 Neeraj, Miracles of Naturopathy and Yogic Sciences, 38. 
+42 Lindlahr, 25. 
+43 Ibid. 
+44 Lindlahr, Philosophy and Practice of Nature Cure, 29. 
+45 Lindlahr, 33. 
+46 Lindlahr, 374.
+
+=== PAGE 16 ===
+
+15 
+ 
+from depression and experience headaches and muscle pain from mental illness, the 
+naturopath will treat the patient’s mind as well as his or her physical aches and pains.47  
+Yoga is a discipline of Indian medicine that is often practiced in tandem with 
+Naturopathy. The body is viewed in a similar manner to that of Naturopathy; the mind 
+is the main factor in health and disease. Disease comes from the mind and the violation 
+of nature’s laws. Therefore, one heals the body through the focus of the mind to 
+strengthen the natural healing powers of the body. The aim of yoga is to awaken the 
+consciousness and to commune with the Universal Soul. Health in yoga does not end 
+with the health of the body, mind, and soul. Instead, health extends to a higher 
+consciousness of being, and the pursuit of health is a driving factor of life.48 
+LITERATURE REVIEW 
+Although a complex and obscure topic to pursue, many scholars have taken on the 
+challenge of studying the idea of personhood in Ayurveda. Because the philosophy of 
+health is an obscure subject, many scholars do not study it directly, but conclusions and 
+interpretations can be drawn from their sociological and anthropological research. The 
+following literature review contextualizes the following study on the ontology of 
+personhood by discussing important trends in literature and demonstrating gaps in this 
+body of knowledge. 
+Dr. Richard Shweder discusses this in “The Cultural Psychology of Suffering”. In 
+general, the Ayurveda does not attempt to be an “antiseptic science” with no interaction 
+between it and social sciences. Instead, it freely incorporates these ideas. Also, like many 
+traditions of medicine beside allopathy, the Ayurveda allows for a pluralistic thought 
+                                                        
+47 Naturopath in discussion with the author, interview 7, 24-4-2018. 
+48 Neeraj, Miracles of Naturopathy and Yogic Sciences, 151.
+
+=== PAGE 17 ===
+
+16 
+ 
+process about different systems of medicine. This enhances Ayurvedic knowledge of 
+personhood by including many systems of thought. Healers from most traditions across 
+India share many of the ideas about what it means to be human.49 Humans are both 
+physical and spiritual, and interaction with “the society of spirits…have the ability to 
+trouble human beings; that demonic planets can influence the humors or doshas of the 
+body…”50 When one views the body in this way, the body becomes a spiritual being. 
+Suffering does not affect only one’s physical body, but can also extend to one’s eternal 
+existence. The body is eternal and spiritual; the body is God. To maintain health, one 
+must stay close to one’s godliness and keep oneself pure. A friend of the author discusses 
+this in Shweder’s article:  
+“There is nothing on the outside called God. God is within us. The human body is the only 
+real sacred ground and it becomes de-sanctified after pollution. If your life-span is fifty 
+years it will decrease if you allow your body to become polluted. But if you obey every 
+duty and custom you will be free of pollution and you will be healthy.”51   
+This article deeply analyzes cultural differences between Indian traditions of medicine 
+and western biomedicine. In this way, the author discusses many of the ways Indian 
+traditions of medicine ontologize the body differently than in western biomedicine. 
+However, this research was not confined to the experience of Ayurveda and 
+Naturopathy, but rather includes religious healers, kalisis or mediums of the goddess, 
+and practitioners of other Indian systems of medicine. Research also was conducted in 
+Orissa, a south Indian state where traditions and customs are different than states in 
+                                                        
+49 Richard A. Shweder, “The Cultural Psychology of Suffering: The Many Meanings of Health in Orissa, India”, 
+67. 
+50 Ibid, 68. 
+51 Interview conducted by Dr. Richard Shweder, Orissa, India, 1982-1983. Referenced in “The Cultural 
+Psychology of Suffering: The Many Meanings of Health in Orissa, India”, 63.
+
+=== PAGE 18 ===
+
+17 
+ 
+North India.52 In addition, implications of the ontology of being are not discussed; 
+rather, conclusions must be drawn from Shweder’s research. 
+Dr. Projit Mukharji in his book, Doctoring Traditions, discusses how different 
+small medical advancements have revealed specific ways the Ayurveda views the 
+ontology of the body. His research also indirectly introduces semantics to the 
+philosophy of personhood in Ayurveda. For example, with the increased popularity of 
+the thermometer came a change in the meaning of the word “heat”.53 Before the 
+introduction of the thermometer, heat was not a measurable commodity. Instead, heat 
+was an embodiment of the pitta dosha, which is fire and water. Temperature and heat in 
+the human body were not necessarily linked; for example, the digestive fire of the pitta 
+dosha was not tangibly hotter than, say, the liquefaction of the kapha dosha. Fever was 
+diagnosed not through observing an elevated body temperature but through observing 
+the aggravation of pitta which caused babbling, headaches, and pain. The use of the 
+thermometer made heat in the body into a measurable commodity. The use of the word 
+thatman for heat, which was originally used only in the context of weather and 
+meteorology, is now used in Ayurveda. Thermometers did not change thatman, but 
+rather illuminated this unique view of heat and fever. Mukharji’s research demonstrates 
+how medical technologies can affect the language of health, and how semantic changes 
+can then be embodied.54 However, this research discusses the causal pathway through 
+which semantics can affect personhood, but does not directly focus on the meaning of 
+personhood and humanity. 
+                                                        
+52 Shweder, “The Cultural Psychology of Suffering”, 60. 
+53 Projit Mukharji, “Doctoring Traditions: Ayurveda and Small Technologies”. 
+54 Mukharji, “Doctoring Traditions”.
+
+=== PAGE 19 ===
+
+18 
+ 
+Dr. Leguizamon’s article on “Dichotomies in Western Medicine” compares the 
+Ayurvedic body to the body in western biomedicine. Leguizamon introduces ideas of 
+tension in Ayurveda; for example, an inherent tension exists between the importance of 
+change as a “fundamental condition of life” and the results of change, which are disease 
+and death.55 Also, the body itself is in constant tension between the dueling forces of 
+illness and health.56 However, some tensions found in other traditions of medicine such 
+as western biomedicine are not found in the Ayurvedic view of the body. For example, 
+the theory of Ayurveda’s physical body, or sthula sharira, and the subtle body, or linga 
+sharira, essentially describes the dual nature of personhood as both physical and 
+spiritual. This view of the body recognizes the importance of the subtle body, or the 
+psyche, in personhood.57 Leguizamon also discusses explains the interaction of the 
+environment and the body. Because the Ayurveda views the body as constructed from 
+the five basic elements, the body interacts closely with the environment. One falling ill 
+can be due to imbalances in weather or the environment.58 This article shows how the 
+holistic view of the body and nature affects the etiology of illness and the meaning of 
+health. This article also presents two significant concepts in the ontology of the body in 
+Ayurveda: change and tension. Leguizamon does not discuss, however, how the 
+Ayurveda’s ontology of the body affects the way one views oneself or the world around 
+them.  
+Joseph S. Alter discusses the meaning of health in Ayurveda in his article, “Heaps 
+of Health, Metaphysical Fitness: Ayurveda and the Ontology of Good Health in Medical 
+                                                        
+55 Carlos J. Moreno Leguizamon, “Dichotomies in Western Medicine and Ayurveda: Health-Illness and Body-
+Mind”, 3308. 
+56 Ibid. 
+57 Ibid, 3309. 
+58 Leguizamon, “Dichotomies in Western biomedicine and Ayurveda”, 3302.
+
+=== PAGE 20 ===
+
+19 
+ 
+Anthropology”. He views the Ayurveda not as a means of curing illness and restoring 
+balance, but rather a way of life for “radical self-improvement”.59 Good health is an ideal 
+in Ayurveda, and the lack of disease does not necessarily equate with or restore health. 
+The default of the human body when exposed to the environment is unhealthiness. Alter 
+includes White’s interpretation of health in Ayurveda:  
+“…for so long as a human being is not exposed to the outside world (when in the womb, 
+for example), it enjoys a perfect balance of dos[h]as. When, however, it becomes exposed 
+to the outside world, the dos[h]as fall out of balance and the individual becomes subject 
+to health disorders.”60  
+The term dosha has no direct translation, although it is often translated as “humour”. It 
+can also be translated as “corrupting agent” or “cause of disease”.61 This use of language 
+signifies that the doshas which construct the human body and are necessary for 
+personhood also cause the disease.62 Health is not passive; one must actively pursue 
+health in all aspects of one’s life in order to be considered healthy.63 This implies that if 
+one is not constantly working to improve one’s health, he or she is chronically ill.64 
+Alter’s research is unique in the field of medical anthropology and fills an important gap 
+in scholarship by discussing the implications of semantics on the meaning of health in 
+Ayurveda. However, Alter’s research stops at the ontology of health and does not 
+directly investigate the ontology of being as a whole.  
+The following study attempts to bridge these gaps in knowledge of the ontology 
+and meaning of personhood. Instead of drawing indirect conclusions from sociological 
+                                                        
+59 Joseph S. Alter, “Heaps of Health, Metaphysical Fitness: Ayurveda and the Ontology of Good Health in 
+medical Anthropology”, s44. 
+60 David G. White, The Alchemical Body: Siddha Traditions in Medieval India (Chicago: University of Chicago 
+Press: 1996), 21. Referenced in Alter, s47. 
+61 Alter, s48. 
+62 Ibid. 
+63 Alter, “Heaps of Health, Metaphysical Fitness”, s46. 
+64 Ibid, s51.
+
+=== PAGE 21 ===
+
+20 
+ 
+and historical research, this study directly examines the philosophy of life and health in 
+Ayurveda. Furthermore, this study investigates how the views of life, health, and 
+personhood in Ayurveda affect one’s everyday life: how one views oneself, how one 
+views others, and how one views the world around them. 
+RESEARCH DESIGN 
+This interview-based study will take place at Kayakalp, an Ayurvedic treatment center in 
+Palampur, Himachal Pradesh. The organization’s name, kaya meaning body, and kalp 
+meaning power, emphasizes the importance of the human body and empowerment in 
+healing.65 Here, Vaidyas of the Ayurveda will be easily accessible, and patients from 
+diverse backgrounds will be present as well. Because health-seekers often travel far 
+distances to pursue health at Kayakalp, they often stay for a longer period of time than 
+at other Ayurvedic centers throughout the country. This allows for building a rapport 
+and having a series of significant conversations with health-seekers about the topic of 
+personhood.  
+Because of the diversity of cultures and backgrounds among those who seek 
+treatment at Kayakalp, many factors may contribute to differing ideas of personhood 
+that are not related to the practice of Ayurveda. However, because this study is 
+anthropological and philosophical in nature rather than sociological, these variables will 
+not mar the results, but rather are facets to be explored. Variations in culture, gender, 
+age, illness, or caste will undoubtedly affect the way that people understand what it 
+means to be human. These variations will be studied thoroughly through in-depth 
+interviews to see how the Ayurveda affects these people’s individual opinions and 
+                                                        
+65 “About us”, Kayakalp Himalayan Research Institute for Yoga and Naturopathy, accessed 15-5-2018.
+
+=== PAGE 22 ===
+
+21 
+ 
+thoughts about personhood. Because of this, the subject group to be interviewed will be 
+as diverse as possible. However, all interviewees are from North India and metropolitan 
+regions in India. The practice of Ayurveda and common home remedies in South India 
+are distinct from those of North India. Most interviewees are from Delhi, Mumbai, 
+Punjab, and Chandigarh.   
+METHOD 
+This study is interview-based. The subject group of study includes Naturopathic and 
+Ayurvedic health care practitioners and health-seekers at Kayakalp. The focus of these 
+interviews will be to understand how those in the world of Ayurvedic medicine through 
+the influence of Naturopathy view health and personhood. Nine interviews are included 
+in this study: two Vaidyas, one naturopath, and six health-seekers.  
+LIMITATIONS 
+One challenge that may be faced is falling into the common pitfall of comparison. This 
+study is not constructed to focus on a comparative model between Ayurvedic medicine 
+and western biomedicine, which may be more distracting than helpful. Comparative 
+studies across cultures often ends in overt or covert conclusions that one way of thinking 
+is superior to the other, which is not the intent of this study. Instead, the goal of this 
+project is to understand the experiences of people in the Ayurvedic system of medicine, 
+and the philosophy behind these experiences. Comparisons between the efficacy of 
+different systems of medicine do not play a role in these experiences. 
+Another anticipated challenge is understanding the experience of Ayurveda for 
+the health-seekers. Because many traditions of medicine are practiced simultaneously in 
+India, health-seekers at Kayakalp cannot confine their experience only to Ayurveda. 
+Religion, worldview, life experience, and treatment through other pathies such as
+
+=== PAGE 23 ===
+
+22 
+ 
+Naturopathy deeply affect the way people view themselves. As a result, some of the input 
+from health-seekers originates from these other attributes rather than their experience 
+of Ayurveda. Unfortunately, there is no viable way for these factors to be ignored, so 
+they will also be included in this study. 
+RESULTS  
+DISCUSSION OF CONCEPTS 
+Balance and Action 
+ 
+Equilibrium and balance are significant to the meaning of life and health. The 
+original definition of health in the Ayurveda indicates the many different balancing acts 
+occurring simultaneously to maintain health. The definition of health in Ayurveda from 
+the Acharya Susruta is as follows: “samma dosha, samma agnischa, samma dhatu 
+malakriya, persanna atma indriya, mahana swastha iti aboideeyate”. This roughly 
+translates to “balanced doshas, balanced digestive fire, balanced excretion of the dhatus 
+(basic tissues of the body), happy soul and mind, served senses, such a person is called 
+healthy”.66,67 Samma, or balance, is used three times in the Acharya Susruta, which 
+signifies its utmost importance. One cannot have health without balance, and this 
+balance can be difficult to strike. Too much of a good thing, or too little of a bad thing, 
+can send the body spiraling downward to disease. For example, low amounts of the rasa 
+dhatu or the digestive juice of the body can cause. tiredness and muscle cramps through 
+the whole body. If the rasa dhatu is high, it can cause over-vitality.68 The goal of 
+                                                        
+66 Vaidya in discussion with the author, interview 1, 19-4-2018, transcript. 
+67 Vaidya in discussion with the author, interview 6, 27-4-2018, transcript. 
+68 Vaidya in discussion with the author, interview 1, 19-4-2018, transcript.
+
+=== PAGE 24 ===
+
+23 
+ 
+diagnosis is to understand the imbalances in the body and rejuvenate the body to 
+counteract these imbalances.69 
+ 
+Because this balance is so difficult to find, one might wonder if health is truly 
+attainable at all. After explaining the meaning of health in Ayurveda, one Vaidya sat 
+back and mused, “…so strangely…you put all those parameters into current standards, 
+everybody would be found sick.”70 If no one can reach the standard of health in 
+Ayurveda, one could question whether the definition is important to heed. It is only 
+useful to the person pursuing health if one changes the way one views health and their 
+body. Instead of viewing the body as healthy by default, one must actively pursue 
+balance and health in order to maintain it. Although it may never be fully achieved in 
+every aspect, the driving force of life is toward health. This introduces action instead of 
+passivity to health: 
+“Ayurveda[‘s]…mainstay is not to allow diseases to creep up in the human body…it is pro-
+health approach. It is not a pro-disease approach, so I am not waiting for disease to 
+happen. From that perspective, treatment is secondary in Ayurveda. Maintaining health 
+is primary.”71 
+The human body is inherently ill. Health is not assumed but must be pursued. One 
+patient said, “…if we don’t fall sick or we don’t have a problem, we are not concerned 
+with health.”72 The Ayurveda argues the opposite of this. Health should be a concern at 
+all times, regardless of a person’s bodily state. In this way, the action of health is 
+principle to the meaning of personhood. 
+Mind and Body 
+                                                        
+69 Vaidya in discussion with the author, interview 8, 19-4-2018, transcript. 
+70 Vaidya in discussion with the author, interview 6, 27-4-2018, transcript. 
+71 Vaidya in discussion with the author, interview 6, 27-4-2018, transcript. 
+72 Patient in discussion with the author, interview 3, 22-3-2018, transcript.
+
+=== PAGE 25 ===
+
+24 
+ 
+ 
+The Ayurveda recognizes two dual natures of a person: the body and the mind. 
+The physical body guides the person toward health. Whatever the body requires, a 
+person must give; in order to know what the body requires, a person must listen. One 
+patient explained his learning experience of awareness during his pursuit of health at 
+Kayakalp: 
+“It’s a must, a person should come here [Kayakalp]. At least once to have 
+awareness…once we have to be here…I realized here that we drink 3 or 4 liters of water 
+every day and the intake has to be there, but I was not having that. Generally, we do not 
+think to have water…we never paid attention to it, whether you are thirsty or not 
+thirsty…awareness.”73 
+ 
+Whereas a person must submit to their physical body to achieve health, one must 
+learn to control the mind. An important theme in Ayurveda is sabka abija jakitsa, 
+meaning “to win over the mind”, to remain healthy, especially as it pertains to illnesses 
+of the mind. One patient who had come to Kayakalp for treatment of his anxiety learned 
+that through the control of his mind he could control his illness.74 The passivity to the 
+needs of the body and control of the needs of the mind subtly imply the underlying 
+nature of these two essences of a person. The body’s underlying nature is toward 
+goodness, toward nature, toward health. The mind’s underlying nature, however, is 
+toward chaos, pain, and disease. The mind must be controlled to allow for the body to 
+rescue the person from the mind’s destruction. Many interviewees discussed this subtle 
+activity and passivity, which, although subtle, drastically affects how Ayurveda 
+ontologizes personhood. The body is pure and good; the mind can be the source of evil. 
+One can trust their body, but one may not always trust the whims of the mind. 
+                                                        
+73 Patient in discussion with the author, interview 3, 22-3-2018, transcript. 
+74 Patient in discussion with the author, interview 9, 22-4-2018, transcript.
+
+=== PAGE 26 ===
+
+25 
+ 
+ 
+Although the mind in this sense may not always be trusted, a person’s analytical 
+mind is essential to human life. Health-seekers and doctors alike, when discussing how 
+humans are different from animals, discuss the super-analytical brain. However, 
+Vaidyas unlike health-seekers, argue that humans are essentially no different from 
+other animals. “We are all animals,” one Vaidya mentioned with a musing smile.75 
+Behavior 
+ 
+Each Vaidya explained that each and every one of the patients they see are 
+unique due to their prakrti, or subtle nature. Prakrti is both the composition of a person 
+in body, soul, and mind; the natural tendency and reaction toward things; one’s natural 
+habits.76,77,78 The prakrti of a person never changes; if one is born pitta-vata, one will 
+be pitta-vata until the day one dies. This subtle nature affects everything about a 
+person, from how one interacts with others, to what one eats, or how one’s body reacts 
+to illness.79 One Vaidya described some differences she observes between those of 
+different prakrti. 
+“I will say that vata is a curious type of person. He will gain each and everything 
+but he will not retain 100%. And pitta type, yes, he will try to learn most of the 
+things, but he will not go everywhere…he will…do his work with perfection. And 
+the kapha person…he is a lazy person…he will not try to learn much things.”80  
+The composition of the physical body also affects the way that one thinks and interacts 
+with the world. For example, the slow movement of the blood through the kapha 
+person’s veins is externally represented through lazy behavior. 
+                                                        
+75 Vaidya in discussion with the author, interview 6, 27-4-2018, transcript. 
+76 Ibid. 
+77 Vaidya in discussion with the author, interview 1, 19-4-2018, transcript. 
+78 Vaidya in discussion with the author, interview 8, 19-4-2018, transcript. 
+79 Ibid. 
+80 Vaidya in discussion with the author, interview 8, 19-4-2018, transcript.
+
+=== PAGE 27 ===
+
+26 
+ 
+Although one can demonstrate the illusion of change, but that person is still fully 
+oneself. “[Prakrti] can be masked through different development processes, but it is a 
+mask. The subtle reaction will always be the same…old age, you will be a different 
+person, but not the subtle nature.”81 If one acts in a way against one’s subtle nature, one 
+is not truly oneself. Behavior, then, is a key pathway through which one creates meaning 
+and ontologizes personhood. 
+Change and Deterioration 
+ 
+As discussed in background research, change is one of the few constants 
+throughout life. “Day changes into night and night changes into more day. Seasons, they 
+completely change…no different perspective.”82 The sharira or the Ayurvedic body, 
+translated roughly from Sanskrit means “undergo[ing] constant, continuous 
+destruction”.83 In this sense, at every moment one’s body is deteriorating further and 
+further; from one moment to another the physical body changes. The aging timeline in 
+Ayurveda is divided into ten year increments, and over each decade something in the 
+body deteriorates.84 Death follows when the rate of deterioration supercedes the rate of 
+regeneration. It can also happen through the aggravation and pacification of the doshas. 
+Cardiac arrest in Ayurveda is a result of the weakening or pacification of the vata dosha. 
+For any cause of death, one of the three doshas is responsible.85 One has to accept the 
+degeneration of the body instead of fighting it. “The problem is that one does not 
+accept,” one Vaidya reflected, “mostly we do not age graciously.”86 
+                                                        
+81 Vaidya in discussion with the author, interview 6, 27-4-2018, transcript. 
+82 Ibid. 
+83 Ibid. 
+84 Vaidya in discussion with the author, interview 1, 19-4-2018, transcript. 
+85 Vaidya in discussion with the author, interview 8, 19-4-2018, transcript. 
+86 Vaidya in discussion with the author, interview 6, 27-4-2018, transcript.
+
+=== PAGE 28 ===
+
+27 
+ 
+ 
+In this sense, as a person ages, one does not lose any part of one’s original 
+identity. The meaning of oneself, the essence of oneself, remains the same. The 
+definition of human does not end with the physical body, but rather extends to the mind 
+and the soul. Although the physical body may deteriorate, the mind and soul may stay 
+sharp. One can lose the body and retain one’s personhood through the retaining of the 
+mind and soul. 
+FUTURE DIRECTIONS 
+This study touches the surface of the ontology of personhood, and research on this topic 
+is far from complete. In the future, scholars with a deep understanding of the Ayurvedic 
+texts could find scriptures and quotes to correlate with each of the ideas proposed 
+above.  
+Also, the concept of semantics in the ontology of personhood could be more 
+sufficiently explained. The study above was conducted fully in English with a few 
+translations from Sanskrit. However, a study done in Sanskrit that includes the many 
+translations of words from the ancient language into English would improve this field of 
+study greatly. The meanings of words in the original language of Sanskrit will carry 
+much more weight than individual scholar’s word choice when translating from Sanskrit 
+to English, as the original meaning is slightly marred through translation. Not only 
+would the original Sanskrit usage strengthen the argument, but it would also clarify the 
+true meanings of philosophy in Ayurveda without the influence of another language. For 
+example, Mukharji argues that illness is not caused by an imbalance of doshas, but 
+rather a displacement of them. The idea of imbalance of doshas might originate from
+
+=== PAGE 29 ===
+
+28 
+ 
+Greek, western philosophy, according to Mukharji.87 An understanding of cultural 
+context and the original language would help clarify some of these semantic tensions 
+that inevitably arise. 
+ 
+CONCLUSION 
+ 
+The concept of philosophy in health is not often studied, but the topic is of utmost 
+important. The nuances in language, unique perspectives on life, and the implications of 
+these ways of thought deeply affect how a person views oneself and how they embody 
+health. This study pursued the elusive topic of ontology of personhood in Ayurveda, and 
+discovered ideas that can have a significant impact on a person’s daily life.  
+ 
+In general, life implies constant tension: between good and evil, change and 
+stagnation, deterioration and rejuvenation. This tension creates balance, and that 
+balances brings forth health in a person’s life. Balance implies constant action; 
+otherwise, the equilibrium will fall apart. Therefore, a healthy life is an active choice, 
+and not a passive trait. 
+ 
+The Ayurveda posits a unique view of the body and health. This unique view is 
+embodied through the practice and care of panchkarma. In this way, ancient 
+philosophical traditions soar from the theoretical into the tangible body. This path of 
+embodiment applies philosophy to health, biology, healing, and care. 
+ 
+ 
+ 
+                                                        
+87 Mukharji, “Doctoring Traditions”.
+
+=== PAGE 30 ===
+
+29 
+ 
+APPENDIX 
+ACKNOWLEDGEMENTS 
+This study was made possible through the patience and support of the Kayakalp faculty 
+and staff. During my two week stay at Kayakalp, the research institute provided 
+accommodation and support to help guide me through my first independent study. I 
+want to especially thank Dr. Rohit who helped coordinate interviews with physicians 
+and patients and shared some valuable sources that were consulted throughout the 
+study. 
+I would also like to thank the many anonymous health-seekers at Kayakalp who 
+welcomed me and the other students into their community during our time there and 
+contributed to this study. Their kind-heartedness and considerate attitudes made the 
+interview process light and easy. I appreciate their openness and honesty in each 
+conversation. 
+Thank you to my Independent Study Advisor, Dr. Ashutosh Guleri. Your 
+mentorship and support through email correspondence and frequent in-person 
+meetings contributed a much-needed structure to my open student schedule. Thank you 
+for contributing your wealth of knowledge to my multifaceted subject of study and 
+helping to dissect these complex issues. 
+Thank you to Dr. Azim Khan, my academic director throughout the program. I 
+appreciate your continuous support for the past four months and your dedication to my 
+success as one of your students. Your confidence in my abilities as a student and an 
+independent researcher gave me the direction to conduct my independent study with 
+confidence and surety.
+
+=== PAGE 31 ===
+
+30 
+ 
+I want to thank the Local Review Board members, Abid Siraj, Dr. Anjali Capila, 
+and Chris Kurian. Your dedication to our success was apparent through our many 
+meetings and correspondences. Your constructive criticism leading up to the 
+independent study guided me through the process and gave me the confidence to do my 
+independent work. 
+I want to thank Bhavna Singh, Archna Merh, and Goutam Merh. Thank you for 
+welcoming me into your lives, guiding me through your country, and treating me like 
+your family. Although there have been many difficult moments while living in India, 
+your constant love and support made even the most difficult experiences manageable. 
+Finally, I want to thank my fellow students who embarked on this unique journey 
+with me. Four months ago we were strangers, and now we are close friends who have 
+accomplished more than we ever thought we would. Thank you for supporting me and 
+encouraging me through tough times, and sharing with me during the best memories. I 
+am so grateful that we found each other here, and I am so proud of what you all have 
+accomplished over the past four months.
+
+=== PAGE 32 ===
+
+31 
+ 
+INTERVIEW QUESTIONS 
+Doctors: 
+Panchkarma 
+1. What do you practice at Kayakalp? 
+2. How long have you been practicing? 
+3. What do you enjoy most about your work? 
+4. How does Ayurveda define health? 
+5. What does it mean to be healthy? 
+6. What does illness mean? 
+7. What are humans made of in the Ayurvedic context? 
+8. What makes a person unique, or different from anyone else? 
+9. What makes a person different from other living things? 
+10. How does the Ayurvedic view of the body differ from other pathies? 
+11. When does a human life begin? 
+12. When does life end? What defines death? 
+13. Does a person stay themselves as they go through the Ayurveda lifespan? Do they 
+become a different person? 
+14. During the aging process, at which point is someone not themselves anymore, if 
+any? 
+15. What would someone have to lose to lose their identity? 
+16. While aging, is a person losing a part of themselves? 
+17. How is aging viewed in Ayurveda? What is aging? 
+Yoga and Naturopathy 
+1. What do you practice at Kayakalp?
+
+=== PAGE 33 ===
+
+32 
+ 
+2. How long have you been practicing? 
+3. What do you enjoy most about your work? 
+4. How is health defined in Naturopathy and Yoga? 
+5. What does it mean to be healthy? 
+6. What is illness? Where does illness come from? 
+7. What is disease? Who or what is to blame for disease? 
+8. What is a human made of in the context of Naturopathy? What is the body made 
+of? 
+9. What makes a person unique, or different from other people? 
+10. How does the Naturopathic view of the body differ from other pathies? 
+11. What defines life, or human life? 
+12. What defines death? How does life end? 
+13. Is there anything about a person that will never change over the course of their 
+life? What are those things? 
+14. What do you hope your patients learn over the course of treatment?  
+15. What do you hope your patients learn about themselves? 
+16. How is aging defined and discussed in Naturopathy? 
+17. What is the role of the mind in curing disease? What does the mind do? 
+18. What is the most important part of a person? 
+Patients: 
+1. Is this your first time at Kayakalp or similar treatment center? 
+2. Has your experience this time been different? How so? 
+3. What has your treatment and overall experience been like? 
+4. What do you enjoy? What do you find difficult?
+
+=== PAGE 34 ===
+
+33 
+ 
+5. What has your biggest challenge been? 
+6. Have you learned anything new about yourself? What did you learn? 
+7. What have you learned about healthy living? What are some “rules” for healthy 
+living? 
+8. What were/are you seeking from treatment? 
+9. What home remedies do you have, if any? 
+10. Where did you learn about these home remedies? 
+11. How do you define health? 
+12. What makes you feel healthy? 
+13. What makes you feel ill? 
+14. Where does illness come from? 
+15. What makes a human unique? What makes you, you? 
+16. How do you define a person? 
+17. What makes a human distinct from other living things? 
+18. When thinking about changes you’ve experienced during your life, have you 
+become a different person? What, if anything, about a person never changes?
+
+=== PAGE 35 ===
+
+34 
+ 
+WORKS CITED 
+Primary Sources 
+1. Dr. Rohit Mehta in discussion with the author, interview 1, 19-4-2018, transcript. 
+2. Patient MJ in discussion with the author, interview 2, 22-4-2018, transcript. 
+3. Patient SM in discussion with the author, interview 3, 22-3-2018, transcript. 
+4. Patient A in discussion with the author, interview 4, 22-4-2018, transcript. 
+5. Patient Y in discussion with the author, interview 5, 24-4-2018, transcript. 
+6. Dr. Ashutosh Guleri in discussion with the author, interview 6, 27-4-2018, 
+transcript. 
+7. Dr. Santosh in discussion with the author, interview 7, 24-4-2018, transcript. 
+8. Dr. Shalini in discussion with the author, interview 8, 19-4-2018, transcript. 
+9. Patient X in discussion with the author, interview 9, 22-4-2018, transcript. 
+Secondary Sources 
+1. “About Us,” Kayakalp Himalayan Research Institute for Yoga and 
+Naturopathy, accessed 15-5-2018, http://www.kayakalppalampur.in/about/. 
+2. Alter, Joseph S.  “Heaps of Health, Metaphysical Fitness Ayurveda and the 
+Ontology of Good Health in Medical Anthropology”. Current Anthropology 40, 
+no. 1. Chicago: University of Chicago Press on behalf of Wenner-Gren Foundation 
+of Anthropological Research, 1999, s43-s66. 
+3. Dubey, G.P.; Agarwal, Aruna; Rajamanickam, G.V.; Levakar, G.S. “Biology and 
+Overview of Ageing: An Ayurvedic Concept.” Brain Ageing and Ayurveda. New 
+Delhi: Central Council for Research in Ayurveda and Siddha, 2008, 9-24. 
+4. Geeraerts, Dirk. “Lexical Semantics”, Oxford Research Encyclopedia of 
+Linguistics. Oxford: Oxford University Press, 2017,
+
+=== PAGE 36 ===
+
+35 
+ 
+http://linguistics.oxfordre.com/view/10.1093/acrefore/9780199384655.001.000
+1/acrefore-9780199384655-e-29.  
+5. Guleri, Ashutosh. “Introduction to Ayurveda”. Lecture at Kayakalp – Palampur 
+Workshop, Palampur, Himachal Pradesh, India, 20-March, 2018. 
+6. Hankey, Alex. “Ayurveda and the battle against chronic disease: An opportunity 
+for Ayurveda to go mainstream?” Journal of Ayurveda & Integrative Medicine 1. 
+No 1 (2010): 9-12. 
+7. Hofweber, Thomas, "Logic and Ontology", The Stanford Encyclopedia of 
+Philosophy (Winter 2017 Edition), Edited by Edward N. Zalta. Stanford: The 
+Metaphysics Research Lab, 2016, 
+https://plato.stanford.edu/archives/win2017/entries/logic-ontology/.  
+8. Leguizamon, Carlos J. Moreno. “Dichotomies in Western Medicine and 
+Ayurveda: Health-Illness and Body-Mind”. Economic & Political Weekly 40, no. 
+30. Economic and Political Weekly, 2005: 3302-3310. 
+9. Lindlahr, Henry. Philosophy and Practice of Nature Cure. Unknown: Sat Sahitya 
+Shayogi Sangh, 1995. 
+10. Mukharji, Projit. “Doctoring Traditions: Ayurveda and Small Technologies, 1860-
+1930”. Presentation, Center for South Asia, UW-Madison. 
+11. Neeraj, Nagendra Kumar. Miracles of Naturopathy and Yogic Sciences. Jaipur: 
+Popular Book Depot, 2015. 
+12. English Oxford Living Dictionaries, s.v.  “Semantics”, accessed 15-5-2018, 
+https://en.oxforddictionaries.com/definition/semantics.
+
+=== PAGE 37 ===
+
+36 
+ 
+13. Shakeel, Memon; Dilnawaz, Pathan; Kamal Safura, Ziyaurrahman; 
+Chanderprakash, Bora. “Alternative System of Medicine in India: A Review”. 
+International Research Journal of Pharmacy 2, no. 4 (2011): 29-37. 
+14. Shweder, Richard A. “The Cultural Psychology of Suffering: The Many Meanings 
+of Health in Orissa, India (And Elswhere)” ETHOS 36, no. 1 (2008): 60-77. 
+15. Vujastyk, Dominik. “Interpreting the Image of the Human Body in Premodern 
+India”. International Journal of Hindu Studies 13, no. 2 (2009): 189-228. 
+16. White, David G. The Alchemical Body: Siddha Traditions in Medieval India 
+Chicago: University of Chicago Press, 1996.

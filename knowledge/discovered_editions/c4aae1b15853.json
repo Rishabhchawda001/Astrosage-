@@ -1,0 +1,51 @@
+{
+  "title": "105-Valmiki-Ramayan-Telugu",
+  "discovered_at": "2026-07-13T11:55:35.658213+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2979456265",
+      "title": "Hindi Christian Literature in Contemporary India",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9780367330637&type=googlepdf",
+      "authors": [
+        "Rakesh Peter-Dass"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3107716657",
+      "title": "Kaikeyi- The Untold Story of Ramayana",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://figshare.com/articles/Full_Paper_Kaikeyi-_The_Untold_Story_of_Ramayana_pdf/9755804",
+      "authors": [
+        "Advait Vats"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2979456265",
+      "title": "Hindi Christian Literature in Contemporary India",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9780367330637&type=googlepdf",
+      "authors": [
+        "Rakesh Peter-Dass"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3107716657",
+      "title": "Kaikeyi- The Untold Story of Ramayana",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://figshare.com/articles/Full_Paper_Kaikeyi-_The_Untold_Story_of_Ramayana_pdf/9755804",
+      "authors": [
+        "Advait Vats"
+      ]
+    }
+  ]
+}

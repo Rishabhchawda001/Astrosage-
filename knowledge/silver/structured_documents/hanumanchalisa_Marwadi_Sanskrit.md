@@ -1,0 +1,442 @@
+# 
+
+**Author:** 
+**Language:** unknown
+**Pages:** 19
+**Document Class:** scanned_image
+**Pipeline:** Document Intelligence v1.0
+**SHA256:** `79c32ab0c7a59641c9ce419fca86be574bbe01758b97879a2bce5957c0a86d1a`
+
+---
+
+## Page 1
+
+Compiled by Ganv ka Gurukul...
+
+ata Aatst A
+SAAT ATHTAT
+
+(<IsiTs STAT, FIAT )
+
+ganvkagurukul.blogspot.com
+
+## Page 2
+
+Read More Books At Our
+Online Library
+
+ganvkagurukul.blogspot.com
+
+(Copyright — Rajeev Sharma
+
+All rights reserved published- 2014
+
+## Page 3
+
+TeicGGGnel
+
+ALT ARATSt AH STAT ATeHAT
+
+( aqata: asta stat, Fret )
+
+ae
+Sis AST MT OT
+fis aa ape gee
+aers tye fae aq
+ST are Het ATR
+
+Ae. - Was Tet Fe ree HOT HHT HS El aT ATT Ft Iw |
+
+aft aa ar vee ate ate fae sort Si ores F sara tasax oft Sorat oa FT
+
+aaa He 2g, AR aH, aes, FTA ae ART - A as he feat Sart ST
+
+afaett Ty aT,
+afat capa!
+
+## Page 4
+
+aet gfe fret ag atte,
+ag Fea fare!
+
+ag. fae 4 ad ¢ Ae (erst) aaah BoA HT Fees FAAS 1 AT
+feoret & fet wet are, Tet ate fear Tani wa cnet ae Gera | TATA
+
+IIL’
+ST BTA AAT YA ATE
+wa ata fag ate Sa
+
+ag. Fart A TT aT ae BATA SFT Fer, aT eT ST SHAT (aTeRt
+at trot), fret art A ae = ara Zl (TST AT get OS arate SF aT
+SAAT S) ANT HA STI
+
+wa ae ag fea Te ATATI
+stair Ta qe ATATI
+
+ag Faas Tadas ST ar ga ste tet TOT aTerareft SMF at aioe aT
+are Stl TAA-At ATT ATA
+
+## Page 5
+
+Fera< faa serch
+gate fra qafe > ah
+
+ag. @ art act, & wari ate TT Ml art Fae | Aer are eT
+arat az art Feat ara
+
+arar ae fret Ga
+art Heer SRT FAT
+Hq. ae aa wT aT rat aah Z1 ae ara A tea ake de
+Saran ar ara aT FA
+
+are ae att esa fart
+aie HoT TAS AH
+A. AT HH ATT HTT (AEN) AT TAT HF AST (AST) Sl Te HTT Te AT FT
+FAS AAT WT ZI
+
+dae Gar hatha
+
+Aa WATT Fer eT eA!
+
+## Page 6
+
+4
+
+ag. & wae faa ar Be aaa ate HTT ST HT ATA AM Ae AT TAT
+At ATT FATT TST FF I
+
+fearare ot afe ara
+oH are BR FY STE
+
+ag.- & frat ar ver, Tras ate ao Teh Sl TATA Tae oft
+IA Het F SAAT ATE ET
+
+wy afta gia at car
+aa ae ater aa afer
+
+AG WaT Tatas Ht FT aT Dora Ht AT ST Saat at oft cafe
+oft site star oft art at Fatt MH
+
+gen we aft feat fara
+fame wy aft im aeTATII
+
+ag sare area Ft area wT acy Atay ot | fcr ate aet wT
+aT TAT TATE
+
+## Page 7
+
+aftr we aft rae der
+
+wads } art Fare
+
+ag § ai ate aera BT ae Tat FT fara Fz feat site TATA
+
+caaaz St BT TA FATS AT (ae HT StH At THC ATI
+
+are asia weet rah
+Sropstz aft 3x TAI
+
+ag. afta at war & ase a freer oft at cer sara Ee TATA
+
+crrdat ot ira arr ast zat
+
+waafe stet age FETE
+qaaa fia sea aa sei
+aq.- Fe Aras Tatas St a site aeve HA Ae at seat rat fer ATS
+
+aaratl
+
+TER Fat TR TA TTA
+aa aie state Fo TATA
+
+ae- We wart art ferret sie dear 4 Sat oe fear aie ard WS |
+
+TAT
+
+## Page 8
+
+ararien aeife Fran
+Aree area ae FSAI
+ag. aration mars Ret (aa, aes, TATA ae ATT TATA), TAT St,
+
+area, teat adh ate AaATT
+
+wr Hae frat Tet F
+ale afte aie ah pet A
+
+FG.- TAT, FA, TAS H VATS FIT HT Sava fewara, set faears site
+
+apes At are afar eet ert rat aT
+
+qa sre aflate fren
+om fea wet ve ee
+
+ag. arta & aaa Tada ot ef rears & ft oe aft aca at siz fart
+
+orem arr fear
+Grad aa faster ara
+
+hea AU Ae HT STATI
+
+## Page 9
+
+7
+
+ag. fatten ft oa aarti at ara AT ate eaaT HT TT TWAT, AT ATA
+at gitar art 21
+
+WT Gee ST TX ATI
+sfteat anf FAX Het TTI
+
+ae.- aed He Sos HAT FT eT FF crac F Ast He ana fw
+ferami
+
+we afar Aer Ge ATH
+orerfer aif aa arareet are
+
+ag. aH oft ft atyst Ft rh ay are ae Ff Sera AT AT oT aT PE
+AST AAA SI, aT S ara F HTS aT UT 1
+
+giant ore & aa
+
+OTF ag TTT
+ag. ¢ aftr a fron ft qatar are fF aor art HT Ff aaa aT
+sare a
+
+## Page 10
+
+TH gat TA aa
+Sea a Har faq Faz!
+
+Hq aT Tatas oH AY HT HT FS Taeare MM TTA St FT aT atte
+aeat aTet sorrsra & feta Brat fret THI
+
+aa Fe Ae Gent ae
+TA Wear Fg A STATI
+
+ag. Tt ars ant aor & at sara fad ator ae faa var fh sitar Ft
+
+SATA Bt fart Scorn Ft HIE SETA BAT
+
+ATT AT ANT aT
+tat ate aie 3 art
+ag FS A st ae aT aM ave aor FS Shy aH acta aT
+saat
+
+ae fara fre afe ara
+FSA Fe ATA FATA
+
+## Page 11
+
+9
+
+ag. sara StF aa A AT Sach arena @ Pe aa-frars ate GA ara
+aaa pret eat aT
+
+ara a et aa diet
+ward fax qa ARTI
+
+ae. at are ft corre A are oft Fereret Ht ATA Fae S Slat ATT MT
+az tet aaa at sare &
+
+ane t Eat GSTs!
+FT TT CATT HY TAL
+
+aq. STA ot a aa, HH Se aaa | GT AT HE ears eZ, ft T ax
+are yf aaret
+
+aa Te Te ae TTI
+fea & are Het TA ATT!
+
+ag. = aaa HT Fares, TT case St ar are St S TOA ST, GT
+AATS FT TATA ZT
+
+## Page 12
+
+aie Fae ST FTE ATA
+are afta sitar het aa
+
+ag. art sardt eefirn at ft wa Fara Ft 2, Stat faa F aSt Haw
+fart vez fA 21
+
+AY ST TAT T TFSIAT!
+@ reas ore Share
+
+AG MATS TT (AT TT, TAT, TAIT ATH MT) H aA SF Tea ZF
+
+tare A ora ret, tear rar ort & are SF ATA Gara ZI
+
+arg dah a Taare
+wet fhe TT GATTI
+AG. TAT AMT Ate AeA HTT SF SaTHT Sl A Tara TWA St HT TAT,
+geet at aez weft ST
+
+ae fafa at fafa & ara
+ae ae Stet STAY ATT
+
+## Page 13
+
+an
+
+ag. & ard PEt ate at Pera aT sar ST AT aaa at ATT Sa |
+farerst 21
+
+UH CAR et TAT!
+
+ar Tel TITAS F aTAM
+
+ae.- & aa SH Fares, ae Het TAT Ta oT FY sarc F site W arT-aaT
+oer Te oft FT ea ZT
+
+Tet FT TH BT TA
+were ware ge faa
+
+Aq. ae aT AT FATT Fee Ble FT aa aA ot fer at Ah art
+RT ef a -Te  ar a aad feat Sars ZI
+
+ae HIT TYR IX FTE
+wet wer aft-afe Harel!
+ae.- art art aeforat S sitet ore aera are oft cee A TS ate
+
+Ore WATT ATA BT TE ATA
+
+## Page 14
+
+ate tae Fra a aed
+Byrd ay as Fa FE
+
+Aq ATT BS (Ae Saar Ft ett) See ATA ST Perera FT SE TT FT
+at fast ft arar qa faa at St
+
+dae we ft aa tT
+
+oT GAT BAA TeaATI
+
+ag. Fert arara oft a GT Fre Gat Z, Far aa ae ae TAT HT
+fre sari &
+
+SAS ETAT Tras
+
+FAT Hg Ye 2a Ft TAI
+
+ag. SST ST Fares, at Ts ST, A ST, HT SUT AST STAT STITH AT
+
+Te Te Ferret reat HTT TI
+
+OT Ta AT TS HK FEI
+
+gels ate mer Ge ara!
+
+## Page 15
+
+13
+
+AG.- S STAT ATLA FT GT AT ATE TTS HEAT AT = Shar Ft |x fasar, AAT
+
+AZ Sort EAH eT SaTATT
+
+oY ag Ts BATT Veta
+ata fate aret atte
+
+ag.- arava faa = ara ar warat Jf fe = eorara arta aT GT Fre TTS
+
+pant, feht wares fags sath
+
+aettara sar eft Far
+ft are ees AE aT!
+
+- Fat ATTA H area S qaetarea Ft ar fart f fH S TTA, F VAT AL
+faze Fare eT
+
+er
+
+Taras UHe ETA,
+Fret Aes ST
+aa wea ater afea,
+
+et TAG KK Tl!
+
+## Page 16
+
+14
+
+HG FIAT TA, THe aT Bar ae Ae Fehrs saa Sf, F TATA
+cadax Ff, rae oft ate ater oft are aar-aar Her AL fees F fat
+
+-+» ganvkagurukul.blogspot.com...
+
+## Page 17
+
+Tra ST Tee : TT ate oheaTz
+
+‘Ts HT Teper UH ae Feta 21 WS tae Tea & tad ret & ae are oe Te sa
+ord STF safes ear ara aml earat A Saar BTS ATA ae ar ate cay sees ft aes a TS
+Fest 10 Pavat & ope Peat war gear a tT ava aH ata he gt te aga ara sem aa ate FH aH
+frat wet ae creat oH terre eet FT sie ae TA ae Pes aT
+
+aah earrar Set ars Usitet orat a arett eaelt Tare feat H aret 2000 Ft afeat HF Fr fh art 2007 Ft
+aaa wat at saat fafead cared Pear wan art 2010 aH FAH AAA TIAA TET SAH Te WRT
+FEIT TTT AT TT FS SS ST TAT Beat A Ta Ae ret BH HTT eps FH ATs 2013 Fae eras
+a eqey Ff geede oe pe Pear aT SAT AAT AT ~~ WT HT Re aT TAT! Seed We STAT RT ST HAS
+mara At we ft Pe seer Ser Paaer a et oft ate ate ore ar are ot Pere Gee aro seria area faa
+Peeft open oe ae AAT
+
+qedarert & Fat Tt (ganvkagurukul.blogspot.com) Wt ary es1-ahtar ss aH aaa, Weare aie we YET
+froree os aad J) seta Hae ae HT OH TT aa ae 2 TT ae Pett wee Te aT MT 21 Fe AAT ZI
+
+qeaarara ft fia Ferra ¢- Free, Easy and Paperless.
+
+## Page 18
+
+aera F ae
+
+amt : afta sat
+
+WH : 6 sare, 1987 - Tae aes ret Brea ars A
+
+saTarat eEett faert sat ate creche freer A ara Ft Aer 2000 F He PHatat F
+
+aa Far az A Test Ft qearea «2005 Huh ash Thea are TACT HT aeTaA + Ge
+
+qt
+
+wae sant fro 24 ag At sa A ue cere A aq a fafha slam seal
+aries & pe Ta-a erat F at area varietal we Taare FT Aart F agate Fal
+
+Fer ara @ fe ftaa UH Ger Ft ae Sl ae ae aaa AY eT Pet ear Fh fer
+wae ST aa aren scares Hate HT Sper attest ATS Fh Area SB Serre az STAT
+
+qecat ar ara arm frearat ar fax seater (FSz
+
+feat) = Ferm sfereror sft fear
+
+ge wt aq F yan F are WH aA Sa
+
+gear att pe seat ar fraror F
+
+gece at forert  ara At ortho area ae ara Serna Tare eT RAT TATA ATT El AAT
+
+ATA Tis HT Tepes BT UH Ta areas wa FH fafa Hear S Heat aa a Sats Pear siz
+Pe-tte ae Tard art sear a atl UH WaT Spot rast ax feos oe eet tran Prat fare
+
+WRT SIAST Stl Aer aeT aaa ast areas sara Tat S het F eH pest oes TET TATAT
+
+aed gl
+
+art
+write4mylibrary @ gmail.com
+sat
+
+ganvkagurukul. blogspot.com
+
+## Page 19
+
+“afqar up Fed Ast Asact Sl Aal SA AS Ta Tel He aH fH
+arrat Phare st st srostt, afar Ae sat Het ar arferenre sa S Ph
+saa elt Hert forest sesth”
+
+ganv ka gurukul
+
+Online Store of Knowledge....
+
+ganvkagurukul.blogspot.com

@@ -1,0 +1,205 @@
+{
+  "title": "ravan-samhita-2",
+  "discovered_at": "2026-07-13T16:54:31.256265+00:00",
+  "edition_count": 10,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "SundarKand_201804",
+      "title": "Sundar Kand",
+      "creator": "Raju Srivastava",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "JPEG Thumb",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ravan-samhita-2_202310",
+      "title": "Ravan Samhita 2",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ravan-samhita-1",
+      "title": "Ravan Samhita_ \u0930\u093e\u0935\u0923 \u0938\u0902\u0939\u093f\u0924\u093e",
+      "creator": "Acharya Pt. Shivkant Jha",
+      "year": null,
+      "language": "Hindi",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4390062936",
+      "title": "Admit Mistake Take Respect (AMTR): Human Resource and Organizational Behaviour Lessons from Indian Mythological King Ravan",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://supublication.com/index.php/ijcsbe/article/download/1017/783/1876",
+      "authors": [
+        "B. R. Shyam",
+        "P. S. Aithal"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2520720045",
+      "title": "PROBABLE MODE OF ACTION OF HINGVASTAKA CHURNA: A CRITICAL REVIEW",
+      "year": 2016,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.7897/2277-4343.074146",
+      "authors": [
+        "Manoj Kumar Dash",
+        "Namrata Joshi",
+        "Laxmikant Dwivedi"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ravan-samhita-1_202509",
+      "title": "Ravan Samhita 1/5",
+      "creator": "Ravana",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ravan-samhita-1_202310",
+      "title": "Ravan Samhita 1",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "untitleddocument_20191128",
+      "title": "Ravan samhita",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4390062936",
+      "title": "Admit Mistake Take Respect (AMTR): Human Resource and Organizational Behaviour Lessons from Indian Mythological King Ravan",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://supublication.com/index.php/ijcsbe/article/download/1017/783/1876",
+      "authors": [
+        "B. R. Shyam",
+        "P. S. Aithal"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2520720045",
+      "title": "PROBABLE MODE OF ACTION OF HINGVASTAKA CHURNA: A CRITICAL REVIEW",
+      "year": 2016,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.7897/2277-4343.074146",
+      "authors": [
+        "Manoj Kumar Dash",
+        "Namrata Joshi",
+        "Laxmikant Dwivedi"
+      ]
+    }
+  ]
+}

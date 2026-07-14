@@ -1,0 +1,344 @@
+{
+  "title": "Four-Vedas-English-Translation",
+  "discovered_at": "2026-07-13T13:11:43.086096+00:00",
+  "edition_count": 16,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "The Vedas made easy, or, A literal English translation of the four Vedas",
+      "authors": [
+        "Durga Prasad"
+      ],
+      "year": 1912,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Durga Prasad"
+      ],
+      "ol_key": "/works/OL23180146W"
+    },
+    {
+      "source": "open_library",
+      "title": "Ecclesia Divina, or, A selection of hymns from the four Vedas",
+      "authors": [],
+      "year": 2002,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9788174790590",
+        "8174790594"
+      ],
+      "publisher": [
+        "Kaveri Books"
+      ],
+      "ol_key": "/works/OL19437704W"
+    },
+    {
+      "source": "open_library",
+      "title": "The Indian Antiquary",
+      "authors": [
+        "James Burgess",
+        "Richard Carnac Temple",
+        "John Faithful Fleet",
+        "Royal Anthropological Institute of Great Britain and Ireland.",
+        "Stephen Meredyth Edwardes",
+        "Charles Evelyn Arbuthnot William Oldham"
+      ],
+      "year": 1893,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "TheIndianAntiquaryVolVI",
+        "indianantiquarya014355mbp",
+        "TheIndianAntiquaryVolIii",
+        "indianantiquarya014360mbp",
+        "TheIndianAntiquaryVolXXIV",
+        "indianantiquary00indigoog",
+        "indianantiquary02indigoog"
+      ],
+      "edition_count": 10,
+      "isbn": [],
+      "publisher": [
+        "Kegan Paul, Trench, Tr\u00fcbner & Co. [etc.]",
+        "Swati Publications",
+        "Education Society's Press",
+        "Education Society's Press, Byculla [etc.]",
+        "Popular Prakashan",
+        "Archaeological Survey of India",
+        "S. B. Singh, Indological Book Reprint Corp."
+      ],
+      "ol_key": "/works/OL16286082W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "yajurveda-samhita-vol-1-with-english-translation-by-swami-satya-prakash-saraswat",
+      "title": "Yajurveda Vol 1 By Swami Satya Prakash Saraswati in English",
+      "creator": "",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "the-fundamental-message-of-islam",
+      "title": "The Fundamental Message Of Islam",
+      "creator": "fmoislam@protonmail.com",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "education-in-ancient-india-valabhi-and-nalanda-universities_20211211",
+      "title": "Education In Ancient India Valabhi And Nalanda Universities",
+      "creator": "Dr Suvarna Nalapat",
+      "year": 2012,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3160646047",
+      "title": "An Exploratory Study of English Teachers: The Use of Social Media for Teaching English on Distance Learning",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://ijeltal.org/index.php/ijeltal/article/download/753/pdf",
+      "authors": [
+        "Ubaedillah Ubaedillah",
+        "Damar Isti Pratiwi",
+        "Syaiful Huda"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2074061429",
+      "title": "Classical S\u0101\u1e41khya on the Authorship of the Vedas",
+      "year": 2012,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s10781-012-9161-4.pdf",
+      "authors": [
+        "Olena Lutsyshyna"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "The Vedas made easy, or, A literal English translation of the four Vedas",
+      "authors": [
+        "Durga Prasad"
+      ],
+      "year": 1912,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Durga Prasad"
+      ],
+      "ol_key": "/works/OL23180146W"
+    },
+    {
+      "source": "open_library",
+      "title": "Ecclesia Divina, or, A selection of hymns from the four Vedas",
+      "authors": [],
+      "year": 2002,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9788174790590",
+        "8174790594"
+      ],
+      "publisher": [
+        "Kaveri Books"
+      ],
+      "ol_key": "/works/OL19437704W"
+    },
+    {
+      "source": "open_library",
+      "title": "The Indian Antiquary",
+      "authors": [
+        "James Burgess",
+        "Richard Carnac Temple",
+        "John Faithful Fleet",
+        "Royal Anthropological Institute of Great Britain and Ireland.",
+        "Stephen Meredyth Edwardes",
+        "Charles Evelyn Arbuthnot William Oldham"
+      ],
+      "year": 1893,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "TheIndianAntiquaryVolVI",
+        "indianantiquarya014355mbp",
+        "TheIndianAntiquaryVolIii",
+        "indianantiquarya014360mbp",
+        "TheIndianAntiquaryVolXXIV",
+        "indianantiquary00indigoog",
+        "indianantiquary02indigoog"
+      ],
+      "edition_count": 10,
+      "isbn": [],
+      "publisher": [
+        "Kegan Paul, Trench, Tr\u00fcbner & Co. [etc.]",
+        "Swati Publications",
+        "Education Society's Press",
+        "Education Society's Press, Byculla [etc.]",
+        "Popular Prakashan",
+        "Archaeological Survey of India",
+        "S. B. Singh, Indological Book Reprint Corp."
+      ],
+      "ol_key": "/works/OL16286082W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "tulsiramrigvedavol2of4_202001",
+      "title": "Rigveda Vol 2 Of 4",
+      "creator": "Dr Tulsi Ram Sharma",
+      "year": 2013,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "Metadata"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "muhammad-in-the-hindu-scriptures-dr-ved-prakash-upadhyay-prayag-university-1970-english",
+      "title": "Muhammad In The Hindu Scriptures",
+      "creator": "Ved Prakash Upadhyay",
+      "year": 2000,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "hymns-of-the-rigveda-volume-1",
+      "title": "Hymns of the Rigveda, English Translation of the Rigveda",
+      "creator": "",
+      "year": 1920,
+      "language": "eng",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3160646047",
+      "title": "An Exploratory Study of English Teachers: The Use of Social Media for Teaching English on Distance Learning",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://ijeltal.org/index.php/ijeltal/article/download/753/pdf",
+      "authors": [
+        "Ubaedillah Ubaedillah",
+        "Damar Isti Pratiwi",
+        "Syaiful Huda"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2074061429",
+      "title": "Classical S\u0101\u1e41khya on the Authorship of the Vedas",
+      "year": 2012,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s10781-012-9161-4.pdf",
+      "authors": [
+        "Olena Lutsyshyna"
+      ]
+    }
+  ]
+}

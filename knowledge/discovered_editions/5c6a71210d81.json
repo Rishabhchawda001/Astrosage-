@@ -1,0 +1,149 @@
+{
+  "title": "Yoga-rasayanam-sanskrit-hindi",
+  "discovered_at": "2026-07-13T15:44:59.788665+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "AtmaBodh",
+      "title": "Atma Bodh by Adi Shankaracharya",
+      "creator": "Rajanikant Chandwadkar (rasucha@gmail.com)",
+      "year": 2014,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ShriNarayanGuruJeevanCharitra",
+      "title": "Shri Narayan Guru Jeevan Charitra",
+      "creator": "",
+      "year": null,
+      "language": "Malagasy",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "YogavaasishhThaBhaagaDusaraa",
+      "title": "Yoga Vasishtha Marathi PDF Part 02",
+      "creator": "Rajanikant Chandwadkar (rasucha@gmail.com)",
+      "year": null,
+      "language": "Marathi",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "yogarasayanamsanskrithindi1929nirnayasagarpress_202001",
+      "title": "Yoga Rasayanam Sanskrit Hindi 1929 Nirnaya Sagar Press",
+      "creator": "Raju Srivastava",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "TripuraRahasyaEnglishTranslation",
+      "title": "Tripura Rahasya English Translation",
+      "creator": "",
+      "year": null,
+      "language": "English",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "RaidasjiKiBani",
+      "title": "Raidasji Ki Bani",
+      "creator": "Rajanikant Chandwadkar (rasucha@gmail.com)",
+      "year": 2014,
+      "language": "Hindi",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "JPEG Thumb",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    }
+  ]
+}

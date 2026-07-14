@@ -1,0 +1,78 @@
+{
+  "title": "\u092d\u0917\u0940\u0930\u0925",
+  "discovered_at": "2026-07-13T17:24:32.016611+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "rahasya-lilaa-1",
+      "title": "Rahasya Lilaa ( \u0930\u0939\u0938\u094d\u092f \u0932\u0940\u0932\u093e - \u091c\u093e\u0926\u0942 \u0914\u0930 \u091c\u093e\u0926\u0942\u0917\u0930 )",
+      "creator": "Swami Sanatan Shri",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "divya-phal-flph-beijin-1981",
+      "title": "\u0926\u093f\u0935\u094d\u092f \u092b\u0932 (Sacred Fruit in Hindi)",
+      "creator": "",
+      "year": 1981,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3027695742",
+      "title": "\u0917\u0938\u0935\u092e \u0924\u0932\u0938\u0926\u0938\u0915\u0924 \u0930\u092e\u091a\u0930\u0924\u092e\u0928\u0938 \u090f\u0935 \u0905\u0927\u092f\u0924\u092e \u0930\u092e\u092f\u0923 \u0915 \u0935\u0935\u091a\u0928\u0924\u092e\u0915 \u0905\u0927\u092f\u092f\u0928",
+      "year": 2020,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "\u0915\u0943\u092a\u093e \u0936\u0902\u0915\u0930"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4387029514",
+      "title": "\u092d\u0930\u0924\u092f \u0938\u0935\u0927\u0928 \u090f\u0935 \u0938\u092e\u091c\u0915 \u0928\u092f\u092f",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://humanitiesdevelopment.com/index.php/had/article/download/13/10",
+      "authors": [
+        "\u0936\u093f\u0935 \u0928\u0928\u094d\u0926\u0928 \u092f\u093e\u0926\u0935"
+      ]
+    }
+  ]
+}

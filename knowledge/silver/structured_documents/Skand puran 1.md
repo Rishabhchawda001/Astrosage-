@@ -1,0 +1,5231 @@
+# Skand puran 1
+
+**Document ID:** DOC-3C225FFB00CD
+**Language:** unknown (unknown)
+**Pages:** 325
+**Class:** scanned_image
+**SHA256:** `3c225ffb00cd702b6802672faaceb2fd9c50ba055c1d0d1f7b2bca3351687cfb`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+THE
+
+SKANDA-PURANA
+
+PART I
+
+MOTILAL BANARSIDASS PUBLISHERS
+PRIVATE LIMITED. DELHI
+
+## Page 2
+
+First Edition: Dethi, 1950
+
+Also available at:
+MOTILAL BANARSIDASS
+41 U.A., Bungalow Road, Jawahar Nagar, Delhi 110007
+120 Royapettah High Road, Mylapore, Madras 600 004
+16 St. Mark’s Road, Bangalore 560 001
+Ashok Rajpath, Patna 800 004
+Chowk, Varanasi 221 001
+
+PRINTED IN INDIA
+
+BY JAINENDRA PRAKASH JAIN AT SHRI JAINENDRA PRESS, A-45 NARAINA
+
+INDUSTRIAL AREA, PHASE 1, NEW DELHI 110028 AND PUBLISHED BY
+NARENDRA PRAKASH JAIN FOR MOTILAL BANARSIDASS PUBLISHERS
+PVT. LTD., BUNGALOW ROAD, JAWAHAR NAGAR, DELHI 110 007
+
+## Page 3
+
+CONTENTS
+
+Book I: MAHESVARAK HANDA
+Section I: KEDARAKHANDA
+
+Chapters
+
+I.
+
+SK SW KCI DUN BW YD
+
+—
+
+12
+
+13.
+
+Daksa’s Insolence
+
+. Sati’s Arrival at Daksa’s Sacrifice
+
+. Virabhadra Comes to the Yajiia
+
+. A Fight between Virabhadra and Visnu and Others
+. Meritoriousness of Devotion to Siva
+
+. Curse to Brahma and Others
+
+. Worship of the Linga
+
+. The Story of a Thief: Incarnation of Rama
+
+. The Churning of the Occan
+
+. Siva Swallows the Poison
+
+. Procedure of Ganesa Worship: Manifestation of
+Laksmi
+
+Devas Taste the Divine Nectar
+
+The Fight between Devas and Asuras
+
+14. Resuscitation of Dead Daityas
+
+15.
+
+Nahusa and Yayati: Their Indrahood and Fall
+
+16. Dadhici’s Gift of His Body
+
+17.
+18.
+19.
+20.
+
+Vrtra Killed: Bali Prepares for War
+
+Vamana’s Arrival at Bali’s Sacrifice
+
+Sukra Curses Bali: Vamana Grants Boon to Bali
+The Nirgunatva of the Siva Liga: The Manifesta-
+tion of Bhavani
+
+21. Parvati’s Penance
+
+13
+0
+26
+2
+47
+53
+64
+14
+
+82
+90
+96
+106
+109
+118
+126
+151
+169
+
+176
+18]
+
+## Page 4
+
+22.
+
+23.
+24.
+
+25.
+26.
+
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+
+Contents
+
+Sankara’s Revelation of Himself to Parvati: Their
+Dialogue
+
+Siva’s Marriage
+
+The Marriage Ceremony of Siva: The Arrangement
+for Accommodating Devas and Others
+
+The Marriage Ritual
+
+The Marriage Celebration of Siva and Parvati: Aus-
+picious Festivities
+
+The Birth of Kumara Karttikeya
+
+Preparations of Devas and Daityas for War
+
+The Battle between Suras and Taraka
+
+Taraka Is Slain
+
+The Greatness of Sivalinga
+
+The Burning of Kala
+
+The Greatness of Sivaratri Vrata
+
+Siva Loses to Parvati in a Game of Dice
+
+Parvati as Sabari Brings Back Siva: Siva’s Coronation
+
+INDEX
+
+196
+207
+
+214
+220
+
+227
+232
+242
+247
+254
+258
+268
+271
+287
+
+301
+
+37
+
+## Page 5
+
+SKANDA PURANA
+
+Book I: MAHESVARAKHANDA
+S:c1ion T: KEDARAKHANDA
+
+CHAPTER ONE
+
+Daksa’s Insolence
+
+Obeisunce to Sri Ganesa. Om, obeisance to Lord Vasudeva.
+Om. After bowing down to Narayana! as well as to (Sage)
+Nara.” the most excellent one among men, and to goddess Sara-
+svati (the goddess of learning), one should narrate the Jayu.3
+
+1. Nardyana—-l ts significant that a Purana specifically compiled for
+the glorification of Siva begins with an obetsance to Narayana.
+
+Etymologically “Nardyana’ means ‘one whose abode is waters’ (Manu
+1.10, Mbh, Sanzi 328. 25). But Purana-writers ascribed a number of mean-
+ings to Nara, e.g. in the Brahma-Vaivarta Purana it means +a form of libe-
+ration called Sdardpya’, final beatitude’ (Afoksa), ‘sins committed’. Thus
+Narayan. = Destroyer of sins.
+
+In carly Visnuism, Visnu and Narayana are not identical. The Vedic god
+Visnu was later amalgamated with Narayana of the Paficardtra system. See
+J. Gonda, Aspects of Early Visnuism; G.V. Tagare, Intro. to BhP, pp. XII-
+XIV).
+
+2. Nara.=Anincarnation of Visnu, the son of Dharma and Murti, a
+daughter of Daksa; 4 permanent companion of Narayana while performing
+penance at Badarikasrama. They are supposed to have incarnated as Krsna
+and Arjuna in Dvapara Age.
+
+3 Jaya—Originally this epithet was restricted to the Jrihdsa called Maha-
+bharata (Mbh, Udyoga 136.18; Svarrgarohanika 5.51). Later some Puranas
+like BdP (ILL. iv. 4.47-54), VaP (1L.41.48-51) claimed the epithet ‘/tihdsa’
+to themselves. Some Puranas like BhP 1.2.4, VaPL.1.1 adopted the verse
+Naréyanam namaskrtya etc. along with the epithet Jaya. Kalpataru (Brahma-
+cari-Khanda, p. 25) on the strength of Bhavisya Purdna states that the appel-
+lation Jaya is applied to18 Puranas, Ramdyana, Mahabharata and Manu-
+smrt. Hence our Purana is justified in adopting the epithet Jaya.
+
+## Page 6
+
+2 Skanda Purana
+
+Vyasa said:
+
+1. Obeisance tothat Lord, the wielder of Pinaka bow, at
+whose bidding Virifici (Brahma) creates the universe, Hari
+(Visnu) protects it and the god named K4larudra annihilates it.
+
+2. There, in the Naimisa? forest which is the holiest among
+all holy places and sacred-most among all the sacred spots (in the
+world), ascetics with Saunaka® as their leader—ascetics who were
+(usual) performers of sacrifices and whose minds were (always)
+inclined towards holy rites, started a sacrifice of along duration.
+
+3. The excessively (highly) intelligent disciple of Vyasa, an
+ascetic of great austerities, named Lomasga‘, came there with an
+
+ardent desire to see them.
+
+4. As soon as they saw him coming, all the sages engaged
+in that sacrifice of long duration, stood up simultaneously with
+great eagerness to receive him, with materials of worship in their
+
+hands.
+5. After offering him water for washing his feet and present-
+
+ing him respectfully materials of worship the sinless sages receiv-
+
+1. Vydsa—Kysna Dvaipayana, the son of Satyavati and Pardsara, out of
+wedlock. He was dark in complexion and was brought up in an islet in the
+river Yamuna by Satyavati (Mbh, Adi 63.86). His great achievement was the
+arrangement of the floating Vedic Mantras into Sanihitas. Hence he came to
+be known as Vydsa (‘The Arranger’). Puragas use Vydsa as a title and state
+that in every Dvapara Yuga, there is born a Vyasa whose job is to arrange
+the Vedic Mantras and there have been 28 Vydsas (VP IIL3; KP 1.52.1-11;
+VaP 11.23.107-213; BdP Lii. 35.116-126). Some Puranas, however, give
+less than 28 Vyasas (e.g. KP) while some give more than 28 (€.g. BdP).
+
+2. Naimisa forest—The ancient site at modern Nimsar at a distance of 20
+miles from Sitapur and 45 miles northwest of Lucknow.
+
+3. Saunaka—Name of various authors of important works like Rgveda-
+pratisakhya, Brhad-devatad. One is identified with the Vedic Seer Grtsa-
+mada. Mbh states that the Saunaka at whose sacrificial session Mbh
+was recited by the Sita Ugrasravas belonged to the Bhrgu clan (Adi 1.19)
+and was the son of Sunaka (Anusasana 30.65).
+
+Purdna-writers have adopted him as the listener of their Purdnas.
+
+4. Lomasa—A sage from the North who associated closely with Panda-
+vas during their long stay jn forest and narrated ancient legends and impor-
+tance of sacred places etc. to them (Mbh, Vana, AnuSdsana). But Mbh does
+not regard him as the disciple of Vyasa as claimed by the SkP here. Our
+Purdna-writer substituted him for the usual Sota due to Lomaga’s story
+telling throughout Mbh, Vana and automatically SOta’s discipleship of Vyasa
+was attributed to him.
+
+## Page 7
+
+1.i.1.6-18 3
+
+ed him with due hospitality. The sages of exalted nobility then
+asked him to explain in detail Sivadharma (pious activities per-
+taining to Siva).
+
+The sages said:
+
+6. ‘Recount, O sage of extraordinary intellect, the greatness
+of the Trident-bearing Lord of Devas. O exalted one, describe
+everything along with the modes of meditation and worship.
+
+7-11. What is the benefit in sweeping (the temple premises)?
+What is the benefit in making (mystic diagrams) of various
+colours, in making gifts of mirror, chowries etc. (or in offering
+these to Siva), in constructing canopies as well as fountains? What
+will be the benefit in offering lamps? What will be the fruit of the
+worship? What are the meritorious results in worshipping Siva?
+Men read and recite the Itihasas and Puranas in front of the idol
+of Siva, They study (recite) the Vedas in front of him, and make
+others do the same. What benefit do those men derive? Let it be
+mentioned in detail. There is no one else in the world, O sage,
+more devoted to the narratives about Siva.
+
+12. On hearing these words of those sages of sanctified
+souls, the disciple of Vyasa recounted (to them) the excellent
+greatness of Siva.
+
+Lomasa said:
+
+13. In all the eighteen Puranas, Siva is sung about as the
+greatest (lord). Hence no one is competent to recount the great-
+ness of Siva (adequately).
+
+14. Heaven and liberation (from Samsara) will be attained
+by those people who repeatedly utter the two-syllabled name
+Si-va.1 Not otherwise.
+
+15. Munificent indeed is Mahadeva (the great god), the
+lord of Devas, the Supreme Ruler. Since everything has been
+given by him, he is named Sarva.
+
+16-18. Blessed are they, noble-souled are they, who always
+worship Siva (or the ever-auspicious god). Aperson who wishes
+
+1. God’s name is regarded as highiy efficacious in the Bhakti-cult, the
+
+roots of which go back to the Rgieda (See H.D. Velankara, Bhakti in the
+Vedas, pub. in Kausika Lectures Series in Marathi).
+
+## Page 8
+
+4 Skanda Purana
+
+to cross (the ocean) of worldly existence without Sadasiva, is
+indeed foolish and confounded. There is no doubt that he, the
+hater of Siva, is a great sinner. It was by him thaf (Haldhala)
+poison was swallowed, Daksa’s sacrifice was destroyed, Kala
+(god of Death) was burnt down and the king was released.
+
+The sages requested:
+
+19. We are very cager. Recount unto us how the poison was
+swallowed and how Daksa’s Yajfia (sacrifice) was destroyed.
+
+Sita narrated:
+
+20. Formerly at the instance of Brahma Parmesthin, Daksa-
+yani (Daksa’s daughter) was given (in marriage) to noble-souled
+Sankara by Daksa, O brahmanas.
+
+21-22, Once, by chance, Daksa came to the Naimisa forest.
+On arrival, he was duly honoured by the sages as well as by
+ali Suras and Asuras by means of eulogies and obeisances.
+Mahadeva who was present there, did not stand up nor did he
+offer any reverential salutation to him. Therefore, Daksa became
+furious and he spoke these words:
+
+23. “Everywhere all the Suras and Asuras as well as excel-
+lent brahmanas repeatedly bow down to me with great eagerness.
+How is it, then, that, like a vicious fellow, this noble-souled one
+does not pay obeisance to me now. Accompanied by vampires,
+goblins and others, he is a shameless permanent resident of the
+cremation ground.
+
+24. Heretics, wicked people and habitual sinners become
+haughty and arrogant on seeing a brahmana. Indeed, people like
+these deserve killing or excommunication by good people. Hence
+1am intent on cursing him.”
+
+25-27. After saying thus that (Daksa) of great austerities,
+became angry and spoke to Rudra these words:
+
+“May these excellent brahmanas listen to these words of
+mine. It behoves you all to carry out my words. This Rudra is
+considered by me as banned out of all Yajfias because he has
+gone beyond the Varnas (castes) and has transgressed the dis-
+cipline of the Varnas.”’
+
+Nandin, son of Silada, became furious on hearing those
+
+## Page 9
+
+Li.1.28- 39 5
+
+words. He promptly said to Daksa who had great refulgence but
+who uttered that curse:
+
+Nandin said:
+
+28-30. Why is my lord Maheéga excluded from Yajfias?
+Merely by remembering him all these Yajfias become fruitful.
+Sacrifice, charitable gift, penance, different kinds of holy spots of
+pilgrimage—all these became sanctified by his name. Why has he
+been cursed now? He has been cursed by you foolishly and im-
+properly due to your brahmanical rashness, O evil-minded
+Daksa. Tt is by the noble-souled Sarva that this universe is pro-
+tected. How is it that Rudra has been cursed, O sinful base
+brahmana?
+
+31. On being rebuked thus by Nandin, Daksa, the Praja-
+pati, became furious and he cursed Nandin:
+
+32-33. ‘All of you devoted to Rudra have been completely
+excluded from the Vedas. You are indeed cursed by the followers
+of the Vedic path and excommunicated by the great sages. You
+all cling to heretical doctrines. You are out of the pale of refined
+breeding and good conduct. All these Kapalins (followers of the
+skull-cult) are black-faced and addicted to drinking liquor.’”!
+
+34. Thus the servants of Siva were then cursed by Daksa.
+Then the infuriated Nandin began to imprecate Daksa:
+
+35. “O brahmana, although we, the servants of Siva, are
+good and pious, we have been cursed by you improperly (and
+unnecessarily) out of your brahmanical rashness. Now I shall
+curse you.
+
+36-39, Arguing that there is nothing else you all adhere to
+Vedic doctrines. (But) you are lustful, desirous of heaven, greedy
+
+1, Kapalikas were then beyond the pale of Vedism (like Jainas and Bud-
+dhists). This episode reflects the conflict between orthodox Vedism and
+heterodox followers of Siva. The obnoxious practices of Kapalikas offended
+orthodox Brahmanism so much so that they were not allowed even to have a
+look at Sraddha food lest it should get polluted. (Vide Gautama DhS
+15.25-28, Manu I11.239-42, KP 11.22.34-35; also G.V. Tagare’s Introduc-
+tions to BdP and VaP.)
+
+The prejudice against Kapalikas is found even in classical Sanskrit
+literature,
+
+## Page 10
+
+6 Skanda Purana
+
+and deluded. Keeping a follower of the Vedas in front, brahma-
+nas will perform sacrifices on behalf of Siidras. They Will always
+be impoverished and greedy of monetary gifts. O Daksa, some
+brahmanas will become brahmaraksasas (brahminical demons).”
+
+Lomasa said:
+
+Those brahmanas were (thus) cursed by Nandin who had _ be-
+come excessively angry.
+
+On hearing the words of Nandin, Sadasiva smilingly
+spoke these sweet enlightening words:
+
+Mahadeva said:
+
+40. It does not behove you to be angry always towards
+brahmanas. These brahmanas, devoted to Vedic doctrines, are
+always our elders and preceptors.
+
+41. The'Vedas are full of mantras and of siiktas (hymns).
+The adtman of every embodied being is established in the hymn.
+
+42-43. Hence those who have realized the &tman should not
+be censured. J am the atman myself, no one else. Who is this?
+Who are you? Where am I? Why are the brahmanas cursed?
+Avoid the concept of diversity, O highly intelligent one, and_be-
+come enlightened. Manage (everything) through the knowledge
+of reality. Be established in your own self and avoid anger etc.
+
+44. On being advised and instructed thus by Sarnbhu, the
+Supreme Being, Nandin (Silada’s son) of great austerities, be-
+came aware of true knowledge and discernment. Closely associa-
+ting himself with Siva, he became immersed in (the ocean of)
+great bliss.
+
+45. Overwhelmed by anger, Daksa went to his abode
+accompanied by the sages. He entered his abode still indignant.
+
+46. Abandoning his great faith inthose who worship Siva
+and engaged in censuring them, he bacame the basest of men.
+Reaching that place along with all the great sages, he continued
+to censure lord Siva. He never became calm.
+
+## Page 11
+
+1.i.2.1-6
+CHAPTER TWO
+
+Sati’s Arrival at Daksa’s Sacrifice+
+
+Lomasa said:
+
+1. Once, a great sacrifice was commenced by him (Daksa).
+All were invited to be present there by the ascetic (Daksa)
+(who was) initiated for the sacrifice.
+
+2-3. A number of sages including Vasistha and others came
+there. Agastya, Kasyapa, Atri, Vamadeva, Bhrgu, Dadhica, holy
+lord Vyasa, Bharadvaja and Gautama, these and many other
+
+great sages assembled there.
+
+4. Similarly all the groups of Suras (gods), the Guardians of
+the Quarters and others, Vidyadharas, Gandharvas, Kinnaras
+and groups of celestial damsels (came there).
+
+5. Brahma, the grandfather of worlds, was invited from
+Satyaloka. Similarly Visnu was invited from Vaikuntha to the
+
+place of sacrifice.
+6. Devendra of great lustre came along with Indrani. Simi-
+
+larly the Moon-god came along with Rohini and Varuna came
+in the company of his beloved.
+
+1. Chs. 2 and 3 describe the self-immolation of Sati, the daughter of
+Daksa and the consort of Siva, in Daksa’s sacrifice, when she and her hus-
+band Siva were insulted by bim. But there is no Vedic evidence to show that
+Siva married Daksa’s daughter (Rudra-Siva, pp. 70-80). Mbh, Santi, ch. 283
+describes destruction of Daksa’s sacrifice by Siva with Yogic power (Yoga-
+balam: krtva—283.32) in order to mollify his consort Uma, the daughter of the
+King of Mountains (Saila-réja-suta—283.7 and 22) and not Sati, Daksa’s
+daughter. Uma did not know who Daksa was and Siva had to inform her
+that a Prajapati called Daksa was performing a Horse-sacrifice (Dakso ndma
+prajanam patih hayamedhena yajate).
+
+This clearly shows that the story of the self-immolation by Sati, Daksa’s
+daughter, in Daksa’s sacrifice described here is a post-Mahabharata develop-
+ment. In the next ch, (284) the appeasement of Uma’s anger is affirmed as
+the cause of the destruction of Daksa’s sacrifice:
+
+devya manyu-vyapohartham
+hato daksasya vai kratuh
+—Mbh, Sant: 284.31
+
+This story of Sati’s self-immolation in yogic fire created by herself (Sati
+++. prajajvala samédhijagnind) is however supported in BhP IV. 4; BdP
+Lii.13.60-61; VaP I.30,52-55).
+
+## Page 12
+
+8 Skanda Purana
+
+7. Kubera came there riding in his aerial chariot Puspaka,
+Wind-god riding on his deer, Fire-god riding on His goat and
+Nirrti riding on a ghost.
+
+8 All these came tothe sacrificial enclosure of the Brah-
+mana. All of them were received and honoured by the evil-mind-
+ed Daksa.
+
+9. Great and divine abodes of great value and good splend-
+our were skilfully constructed by the noble-souled Tvastr.
+
+10-13. (The visitors) occupied all those abodes according to
+their pleasure.
+
+When the great sacrifice commenced in the holy spot Kana-
+khala,' the ascetics beginning with Bhrgu were appointed as
+Rtviks by him. Then Daksa underwent due initiation. The
+solemn, auspicious ceremony was duly performed. Benedictory
+tites were completed by the Brahmanas for the sake of Daksa
+accompanied by his wife. Always surrounded by his friends, he
+shone remarkably, thanks to his greatness. In the meantime,
+Dadhici spoke these words there:
+
+Dadhici? said:
+
+14. These leading Suras (gods), the great sages and the
+Guardians of the Quarters have come to your (sacrifice). Still the
+Yajfia does not shine properly without (the presence of) the
+noble-souled Pinaka-bearing Lord.
+
+15. Great learned men say that everything becomes auspi-
+cious and splendid through him. That primordial Purusa (person),
+the bull-bannered, bluc-throated lord with matted hair, is not seen
+here.
+
+16. Presided over and authorized by him, O Daksa, even
+inauspicious things become auspicious. (Without) the Three-eyed
+Lord, very auspicious things become instantly bereft of their
+auspiciousness.
+
+17-20. Hence he must be invited only by you immediately
+through Brahma, Visnu the powerful lord and Sakra. All of them
+
+1, Kanakhala—A village two miles to the east of Haridwar (U.P.), at the
+junction of Ganga and Niladhara.
+
+2. Dadhici’s objection to non-invitation of Siva and his quitting of the
+sacrifice (infra vv. 31-33) with the prediction (curse) about the non-comple-
+tion of the sacrifice is found also in Mbh, Santi 284.12-21.
+
+## Page 13
+
+Li.2.21-31 9
+
+should go where lord Maheévara is present. Bring him along with
+Daksayani. Hurry up. Everything shall become extremely sancti-
+fied through that Yogin Sarnbhu by remembering whom and by
+uttering whose names, merits become well-accomplished. Hence,
+with all your efforts, the Bull-bannered Lord should be brought.
+
+21-26. On hearing these words of his, the evil-minded
+(Daksa) said laughing (derisively): “Indeed the root cause of
+Devas is Visnu in whom the eternal virtue (Dharma) is present. In
+him Vedas, Yajfas and the different kinds of holy rites are
+established and that Visnu has come here.
+
+Brahma, the grandfather of the worlds, has come from Satya-
+loka along with the Vedas, Upanisads and various kinds of Aga-
+mas (scriptural treatises).
+
+Similarly the king of Suras (gods) himself has come along
+with the groups of Suras. So also you, the sinless sages, have come.
+
+All those tranquil ones who are worthy (of being present) in
+a Yajfia have come. Allof you are conversant with the Vedas,
+Vedic expositions and reality. All of you are steadfast in your
+holy rites and observances.
+
+Of what avail is Rudra to us in this matter? Of course, my
+daughter has been given to him by me, O Brahmana, (but that
+was) when I had been urged by Brahma.
+
+27. He is not of noble birth, O Brahmana. He is doomed
+and he is always a favourite of the dcomed. He is the sole lord
+of goblins, ghosts and vampires. He is unfathomable.
+
+28. He esteems himself very much. He is deluded and stub-
+born. He is tacitern, jealous and malicious. In this holy rite he is
+utterly unworthy. Hence indeed he was not invited by me now.
+
+29. Hence, words like these should not be uttered by you
+again, O Brahmana. My great Yajfia should be made successful
+by all of you collectively.”
+
+30. On hearing these words of his, Dadhici made the
+following statement:
+
+Dadhici said:
+
+31. Great injustice has been done to all these excellent sages
+and Devas of sanctified soul by not having the noble soul with
+them.
+
+## Page 14
+
+10 Skanda Purana
+
+32-33. A great ruin will soon befall all those who are present
+here.
+
+After saying thus, Dadhici alone walked out in protest from
+the sacrificial enclosure of Daksa and hurriedly went to his
+hermitage. When the sage went out, Daksa said this laughingly :
+
+34-36. ‘There, a heroic supporter and friend of Siva named
+Dadhici, has gone out. All those slow-witted rogues whose minds
+are possessed by evil spirits, who are enamoured of heretic
+doctrines, who are excluded from the Vedas and whose behaviour
+and acts are vicious, should leave this holy rite.
+
+You are all devoted to Vedic doctrines having Visnu as your
+leader. O Brahmanas, make my Yajva fruitful ere long.”’
+
+Then all of them along with the sages performed the worship
+of the lord.
+
+37-40. Inthe meantime there on the mountain Gandha-
+madana! the great goddess Daksayani was engaged in various.
+kinds of sports. She was surrounded by her female friends. Some-
+times she played beneath in the Dhdaragrha (chamber fitted with
+fountains and water-jets). Sometimes she moved about in an
+aerial chariot. Sometimes she stood in the middle of the aerial
+chariot and indulged in thousands of sports with balls etc.
+
+While engaged in playing the games, the great goddess Sati
+saw the Moon-god going to the place of sacrifice along with
+Rohini.
+
+She said to her maid Vijaya, ‘‘Where is Candra going now?
+O Vijaya, go and enquire immediately.”
+
+On being thus instructed by her, the gentle lady Vijaya asked
+him suitably.
+
+41. Everything about Daksa’s sacrifice and other things
+were told by him. On hearing it the gentle lady Vijaya became
+
+1. Gandhamadana—The northern ridge of the great Hindukush arch with
+its northern extension Khwaja Mohammud range (AGP 58-59). The extent
+of Puranic India was much larger than the pre-partition map of India which
+was based on the political realities of the 19th century A.D. Soviet Indo-
+logists and archacologists now testify to the existence of Vedic Aryans from
+the lower reaches of the Dnieper, the area to the north of the Black Sea
+through the Sovict republics of central Asia. Vide for example B.A. Ryba-
+kov’s Indo-Aryans in Northern Black Sea Area, O.N. Trubachev’s Lingu-~
+istic Periphery of the Ancient Slaves.
+
+## Page 15
+
+1i.2.42-55 . 11
+
+agitated. Hurriedly (she went to Sati) and told her everything
+exactly as it was said by the Moon-god.
+
+42-43. The goddess began to ponder over the reason thus:
+‘Why does he not invite (us)? Daksa is my father. Why has my
+mother forgotten me now? I shall ask Sankara now about the
+reason (thereof).’ After deciding thus, she asked the friends to
+stay there and approached Sankara.
+
+44-49. She sawthe Three-eyed Lord in the centre of the
+assembly stationed there, in an extremely wonderful seat, and
+surrounded by all his Ganas (attendants) beginning with Canda
+and Munda, Bana, Bhrngin, Nandin of great power of penance,
+the son of Silada, Mahakala, Mahacanda. Mahamunda, Maha-
+Siras, Dhimraksa, Dhimraketu and Dhimrapada—these and
+many other Ganas, the followers of Rudra, (were present there).
+Some were hideous and terrifying. Others were mere headless
+trunks. Some had no eyes. Others were devoid of chests. There
+were hundreds like these. All of them had elephant-hides for
+their clothes. Clusters of matted hair were their ornaments. All
+were adorned with Rudraksa beads. They were devoid of attach-
+ment. They had conquered their sense-organs. They were anta-
+gonistic to objects of sensual pleasure. Sankara, the benefactor of
+the worlds, was seen by her surrounded by all these.
+
+50-52. Bewildered in her mind, she suddenly went to Siva’s
+presence. The beloved wife was placed in his lap by Siva who
+was pleased. She was addressed with loving words with due res-
+pect: *‘O lady of excellent waistline, what is the purpose of your
+arrival? Tell me quickly.”
+
+On being spoken thus by him, the dark-eyed lady said:
+
+Sati said:
+
+53. Olord, O lord of the chiefs of Devas, how is it that
+going to the great sacrifice of my father is not approved of by
+you? Tell (me) everything.
+
+54-55. This is the duty of friends, O Mahadeva, that they
+(regularly) associate with their friends, thereby increasing the
+pleasure and love of their friends. Hence make all efforts (to be
+present there). Oh, go there even if you have not been invited.
+Go to the sacrificial enclosure of my father today at my request,
+O Sadafsiva.
+
+## Page 16
+
+12 . Skanda Purdna
+
+56-57. On hearing her words (Siva) spoke these kind and
+sincere words: .
+
+“O gentle lady, you must not go to the sacrifice of Daksa.
+All those persons who honour Daksa, including Suras, Asuras
+and Kinnaras, have undoubtedly gone to the sacrifice of your
+father.
+
+58-59, O lady of fine eyebrows, those who go to others’
+mansions without being invited, meet with insult which is more
+(painful) than death. Even Indra who goes to the abode of
+others meets with contempt and disrespect. Hence, O splendid
+lady, you must not go to Daksa’s sacrifice.”
+
+60. On being told thus by the noble-souled Siva, Sati, the
+most excellent one among those who are conversant with modes
+of expression, spoke these words full of anger:
+
+61. “It is true that you are (the rea!) Yajfia in this world, O
+most excellent lord of Devas. (How is it) that you have not
+been invited by my father of evil conduct today? Hence1 wish to
+know thoroughly the attitude of that evil-minded one.
+
+62. Hence J shall go to the sacrificial enclosure of my father
+today itself. Grant me permission, O my lord, lord of the uni-
+verse, lord of Devas.”
+
+63-65a. On being told thus by that goddess, Lord Siva him-
+self, who has knowledge and vision of everything, the lord who
+is the sanctifier of all living beings, the lord of Devas, Mahesa,
+the bestower of all Siddhis said to her:
+
+“Go quickly, O gentle lady of holy rites, at my instance, rid-
+ing on this Nandin and accompanied by various kinds of Ganas.”
+
+656-68. At the bidding of Siva, sixty thousand of the terrify-
+ing Ganas went (along with her). Surrounded by those Ganas,
+the goddess went to the abode of her father. Observing the
+entire army, Mahadeva became excessively surprised. Mahadeva,
+the unperturbed scorcher of enemies, sent very valuable crna-
+ments to her through his attendants. He sent them immediately
+after her.
+
+Pondering over the departure of the goddess to her father’s
+abode, Lord Maheéa exclaimed:
+
+“On being insulted by her father, Sati, the daughter of
+Daksa, will never come back to her city again.”
+
+## Page 17
+
+Li.3.1-11 13
+CHAPTER THREE
+
+Virabhadra Comes to the Yajfia
+
+Lomasa said:
+
+1-4a. Daksayani went to the place where the great sacrifice
+was being performed. After going to the abode of her father, the
+abode which was full of various wonderful things, she stood at
+the entrance. The Devas of exalted fortune became delighted.
+They got down from their seats. After seeing the congregation
+of the Devas, her parents, friends, relatives and kinsmen, she
+made obeisance to her father and mother with delight. Then the
+goddess spoke these words in a manner suitable to the occasion:
+
+4b-9. “Why was Sarnbhu, the extremely splendid (lord),
+not invited by you? (He is tke lord) by whom this entire uni-
+verse consisting of the mobile and immobile beings has been
+sanctified. He is Yajfia (incarnate), an (important) part of
+Yajfia, the sacrificial gift offered therein, the material offered
+therein, the Mantras etc., the Havya and Kavya—he is identical
+with all these things. He is the most excellent one among those
+who are expert in performing Yajfas. Everything performed
+without him will become impure. How can a sacrifice function
+(at all), Odear father, without Sambhu? How did these come
+here, O father, along with Brahma? Don’t you know? O Bhrgu,
+O Kasyapa of great intellect, O Atri, O Vasistha? You are alone,
+O Sakra, what has been done by you today? O Visnu, you do
+know the supreme lord Mahadeva. O Brahma, don’t you
+know the valour of Mahadeva?
+
+10. Formerly you happened to be five-faced. You (spoke)
+arrogantly to Sadasiva and you were made four-faced. It is sur-
+prising that you have forgotten that miracle.
+
+11. He is the lord Rudra who formerly begged for alms in
+the forest of Daruvana,! when this mendicant was cursed by you
+(and) your friends.
+
+1. This refers to Lord Siva’s visit to Daruvana to teach Pagupata Yoga
+to the sages thereof. He adopted the queer behaviour called Dvdra (Vide
+PaSupata Sitra ch. T11.1-19 and Kaundinya’s com.). The sages were infuria-
+ted at it and they cursed Siva and suffered disastrous results (BdP L.ii.27
+and Tagare’s Introduction to BdP on ‘Liriga worship’). The story is narrated
+in LP and KP also.
+
+## Page 18
+
+14 Skanda Purdna
+
+12-14. Even after cursing Rudra, how was (this incident)
+forgotten by you? He is the lord by whose limb alone the uni-
+verse including the mobile and immobile beings has been
+filled up. The entire universe became the Linga at that very
+instant. They call it Linga because of the dissolution (of the
+universe in it).1 All the Devas along with Vasava (Indra) are
+born of the Trident-bearing Lord. Such a lord who is to be reali-
+zed through the Vedantas, cannot be comprehended by you.”
+
+15-19a. On hearing her words, Daksa became angry and
+spoke these words:
+
+“Of what avail is your verbal prolixity. It has no relevance
+to the present occasion. O gentle lady, (you may) go or stay.
+‘Why did you come at all? Your husband is an inauspicious
+fellow, not conducive to propitiousness, O lady of good waistline.
+
+He is ignoble, excluded from the Vedas. He is the king of
+goblins, ghosts and vampires. Hence he was not invited to the
+sacrifice, O gentle lady of sweet speech.
+
+O lady of excellent loins, it is to Rudra who is haughty and
+evil-minded and of unknown antecedents that you had been
+given in marriage by me, a dull-witted sinner. Hence, abandon
+this body (of yours), O lady of pure smiles, and be happy.”
+
+19b-23. It wasthus that his own daughter Sati who was
+worshipped by all the worlds, was addressed by Daksa then.
+
+On seeing her own father full of contempt (for Siva), Sati
+became excessively furious. Then the goddess thought thus:
+‘Though I am desirous of seeing Sankara, how can I go back to
+our mansion? What will I say if I am asked (about this incident)
+by him? He who censures Mahadeva and he who listens when
+Mahadeva is being censured—both of them goto hell and remain
+there as long as the moon and the sun (shine). Hence I will aban-
+don this body and enter fire.’ Pondering thus and being over-
+whelmed by insult, she entered fire? uttering the words ““O Rudra,
+O Siva”.
+
+1. A popular ctymology of Liriga from +/li ‘to dissolve’, It is to be
+derived from /lig, /ling, ‘to go’. MW 901 conjecturally traces it to ./lag
+‘to adhere’, ‘to stick’.
+
+2. Ascontrasted with older Puranas mentioned in Supra p. 7. fn 1,
+this text does not bring in ‘Yogic fire’ for self-immolation.
+
+## Page 19
+
+1.i.3.24-36 15
+
+24-30. The entire quarters became pervaded with the great
+uproar of “Alas! Alas!”’. Allthose (who had come with Sati)
+climbed on to the platform. Laden with weapons they crowded
+the place without any gap. They hit and struck themselves with
+their weapons. They cut off their own bodies. Some of them cut
+off their heads and eagerly performed the Nirdjana (waving of
+the lights in circles) rites with them. Immediately they were
+reduced to ash. Then everyone said thus: ‘‘Twenty thousand of
+the Ganas roared terrifically. Those dreadful ones cut off their
+limbs by means of weapons. Thus they all perished there along
+with Daksayani.”?
+
+That was a great miracle. All sages, the Devas beginning
+with Indra, along with the groups of Maruts, Visvedevas,
+Asvins andthe Guardians of the Quarters—all these became
+silent then. Some of them (walked) round requesting Visnu, the
+most excellent one. This was the end of the Yajna of that evil-
+minded one. The Yajfia of the unworthy Brahmana Daksa (was
+ruined) and the sages became afraid.
+
+31. Inthe meantime, O Brahmanas, all these activities and
+behaviour of Daksa were communicated to Rudra by the noble-
+minded Narada.
+
+32. On hearing Narada’s report the supreme Lord Siva be-
+came extremely infuriated. In his anger he as if jumped up from
+his seat.
+
+33. Uprooting a plait of hair from his (matted hair), Rudra,
+the cause of the annihilation of all the worlds, angrily dashed it
+on the top of the mountain.
+
+34. Asa result of this dashing, Virabhadra of great fame
+rose up. So also did Kali surrounded by crores of spirits and
+goblins.
+
+35. Through the wrathful breath of the noble-minded Rudra
+a hundred (types of) Fevers and thirteen Sannipatas (combined
+derangement of all the three humours causing deadly varieties of
+fevers) rose up.
+
+36. Rudra of fierce and dreadful exploits was entreated by
+Virabhadra ‘“‘O Lord! what task of Your Lordship is to be carried
+out? Tell me quickly.”
+
+1. The Yajfiu was disturbed by the Harakiri of Sati’s attendants. This is
+not mentioned in V4P and BdP in contexts noted in fn 1 of p. 7.
+
+## Page 20
+
+16 Skanda Purana
+
+37. On being requested thus, lord Rudra hurriedly commis-
+sioned him, ‘“‘Destroy Daksa’s Yajfia.”’
+
+38. Recciving the behest of the Trident-bearing Lord of
+Devas with his head (i.e. humbly accepting the order), the heroic
+Virabhadra of excessive refulgence, who was kiss2d (d-lidha) by
+Kalika and was surrounded by all goblins rushed to Daksa’s
+sacrifice.
+
+39-40. At that very time, ill-omens occurred suddenly. A
+rough wind blew carrying with it gravels and sand. The Rain-god
+showered blood. The quarters were enveloped in darkness.
+Thousands of meteors fell on the earth.
+
+41. The Devas and others saw such phenomena foreboding
+evil. Becoming frightened, Daksa sought refuge in Visnu.
+
+42. “Save mc, save me, O great Visnu. Indeed you are our
+greatest preceptor and elderly one. You are (identical with)
+Yajfia, O most excellent one among Suras. Save me from
+this fearful danger.”
+
+43. On being requcsted and prayed to by Daksa, the slayer
+of Madhu (Visnu) said: ‘‘Protection should be accorded to you
+by me. There is no doubt about it.
+
+44. Disrespect has been shown by you, O Daksa, without
+understanding genuine Dharma (Virtu2). Due to the contem-
+ptuous disregard of Lord Siva, everything will become fruitless.
+
+45. Where those who are not worthy of respect are worship-
+ped, where he who is worthy of being worshipped is not wor-
+shipped, three consequences, viz. famine, death and fear, prevail
+there.
+
+46. Hence, the Bull-bannered Lord (Siva) should be honoured
+with all efforts. Great fear and danger beset you because the
+great lord was not honoured.
+
+47. All of us are not powerful enough now, because of yout
+evil behaviour. There is no need to discuss this matter further.”
+
+48. On hearing those words of Visnu, Daksa became lost in
+(anxious) thoughts, Turning pale in the face, he remained silent
+and sat on the ground.
+
+49-51. Expressly commanded by Rudra himself the ex-
+tremely powerful Virabhadra came to the sacrificial enclosure
+accompanied by the nine Durgas and others.1 The nine Durgas
+
+1. The legend of destruction of Daksa’s sacrifice is mentioned in the
+
+## Page 21
+
+1L.i.3.52-59a . 17
+
+were Kali, Katyayani, Isana, Camupda, Mundamardini, Bhadra-
+kali, Bhadra, Tvarita and Vaisnavi. A big multitude of Bhitas
+also entered the sacrificial enclosure of great refulgence. Sakinis,
+Dakinis, Bhitas, Pramathas, Guhyakas,a host of Yoginis (in
+circular formation) along with the sixtyfour (Jantras)!—all these
+entered the sacrificial enclosure suddenly.
+
+52-55. Hundreds and thousands of Ganas who accompani-
+ed Virabhadra were all the Pdrsadas (attendants) of Sankara.
+All of them had the form of Rudra. They had five faces and
+blue throats. All had weapons in their hands. They were duly
+served with umbrellas and chowries. All were as valorous as
+Siva. They had ten arms and three eyes. Their hair was matted.
+They wore the ornaments of Rudra. Bearing crescent moon
+(on their heads), all of them had (different kinds of) robes and
+ornaments.
+
+56. Accompanied by these, the noble-souled, three-cyed,
+dreadful Virabhadra of terrible might, who had a thousand arms
+and was entwined by great serpents, marched towards the
+sacrifice.
+
+57. His chariot was drawn by two thousand horses and a
+million lions.
+
+58-59a. The armoured defenders of his sides were many lions,
+tigers, sharks, fishes and thousands of elephants. He had different
+kinds of umbrellas and chowries held over the head of everyone
+everywhere.
+
+Satapatha and Kausitaki Brahmanas. But the cause was Daksa’s illicit
+relations with his daughter. The destruction of the sacrifice mentioned in
+Puranas (e.g. BhP I[V.5, LP 1.99 and 100, NP I1.5-16, BdP and VaP
+mentioned above) is caused by the insult of Sati, Sankara’s spouse and
+Daksa’s daughter.
+
+1. Tantras are scriptures promulgated by Siva. SkP gives a list
+of 64 Tantras such as JAdndrnava, Malini-vijaya, Yamala and others. Some
+of them are still unpublished. They generally contain: (1) Creation of the
+world; (2) Dissolution of the world; (3) The procedure of worshipping the
+deity: (4) Penance (Sadhana); (5) Repetition of the name of the deity ; (6) Six
+daily sacred duties (Saskarma); (7) The Yoga of meditation. The Varahitantra
+gives the number of verses in each Tantra. Schools of Saivism such as Trika
+Saivism of Kashmir, the Saktivigistadvaita of Lingayatas are based on Saiva
+Tantras (Agamas). Even Vaisnavas had their own Tantras as one finds in
+Ramanuja’s Sribhdsya and the ten topics of Paficaratra Agama have close
+similarity with these topics.
+
+## Page 22
+
+Skanda Purdua
+
+59bc. Then high sounding Bheris (war-drums), conchs of
+various (degrees of) sounds, Pafahas (kettle-drums), musical
+instruments like Gomukha, different kinds of horns wefe sounded.
+
+60. Cymbals, gongs and wind instruments were played. All
+of them were engaged in singing pleasantly. All of them played
+on Mrdangas (special drums).
+
+61. The Ganas proceeded ahead in front of Virabhadra
+indulging in different kinds of dances. Those Ganas of unmea-
+sured power and potency roared along with the martial sounds
+of the musical instruments.
+
+62-63a. By that great sound the three worlds echoed and rever-
+berated. Thus all those Ganas ordered (urged) by Rudra came
+there to the sacrificial enclosure of Daksa and began to smash
+for the sake of destroying it.
+
+63b-64a._ The sky was covered with dust and all the quar-
+ters were enveloped in darkness. The earth consisting of the
+seven islands (continents)? shook along with the mountains and
+
+18
+
+forests.
+64b-65. Those Devas, Daityas and night-wanderers obsery-
+
+ed this wonderful spectacle foreboding the ruin of all the worlds.
+All of them stood up simultaneously. They saw the dreadful
+army of Rudra advancing.
+
+66-67. Some of them were coming over the earth. Some
+were coming through the sky. Others covered the quarters and
+the intervening spaces and rushed on. All of them were of
+inexhaustible strength; infinite (in number), they were heroic on
+a par with Rudra in battle. On seeing such an army surrounded
+by (the followers of) Rudra, all of them said in great surprise
+and dismay: “Let us advance (against them) with weapons in the
+hands.”
+
+68-70. Indra rode on his elephant. The Wind-god rode on a
+deer. Yama equipped with the rod of death rode on a buffalo.
+Kubera drove in the aerial chariot Puspaka. Varuna rode on a
+shark. The Fire-god rode on a goat. Nirrti rode ona ghost.
+
+1, Dvfpas—‘Dvipa’ originally means a land-mass between two arms of
+water. According to Puranas the earth consists of the following seven conti-
+nents (dvipas) : (1) Saka, (2) Kuéa, (3) Plaka, (4) Puskara, (5) Salmala
+(li), (6) Kraufica, (7) Jamb0. Scholars differ about their identification with
+modern parts of the world.
+
+## Page 23
+
+Li.3.71-82 19
+
+Similarly other groups of Suras, Yaksas, Caranas and Guhyakas,
+valorously rode on their respective vehicles.
+
+71. On seeing the preparations of his own people, Daksa’s
+face was covered with tears. He prostrated himself on the ground
+and spoke to all of them:
+
+72. ‘‘O (friends) of great lustre, it was on the strength of
+your support that this great Yujfia was begun by me. For the
+accomplishment of this good rite, you are the final authority.
+
+73. ©O Visnu, you are the protector of holy rites and Yajfias
+as well as the virtue described in the Vedas.O Madhava, you
+are the promoter of Brahmana’s rites.
+
+74. Hence, O great Lord, proper protection should be
+accorded to this Yajfia.”’
+
+On hearing the words of Daksa, the slayer of Madhu (Visnu)
+teplied :1
+
+75-76. ‘When you say that protection should be accorded
+by me to maintain holy rites, it is true. But the transgression is
+of your own doing in regard to this Yajfia. You said something
+to Sadasiva in the Naimisa forest, the holy spot of Devas. Is
+it not remembered by you?
+
+77-78. ‘Rudra, Sadasiva, who has great splendour, who is of
+the form of Yajfia, was excluded from the Yajfias,O deluded
+one. That was the wrong advice of yours. Who is competent
+to protect you from Rudra’s wrath? I do not see anyone, O
+Brahmana, who can protect you, the evil-minded one.
+
+79. You do not distinguish between good and evil acts, O
+evil-minded one. A holy rite alone is not (necessarily) efficacious
+always (to produce results).
+
+80. Understand that a holy rite with the support of Igvara
+(Siva) is competent to produce results. Excepting Ivara, there
+is no other bestower of the fruit of Karman (a holy rite).
+
+81. Sadasiva grants the benefit of the holy rites of those
+persons who are the devotees of ISvara, who are calm and whose
+minds dwell on him.
+
+82. Those people who solely depend upon Karman and are
+
+1, The author of the Purana takes every opportunity to reduce the gulf
+between Saivism and Vaisnavism and to assert the oneness of Siva and
+Visnu. Visnu’s reply is thus remarkable.
+
+## Page 24
+
+20 Skanda Purana
+
+engaged in denying Jévara, go to hell even if they perform hund-
+red crores of Yajfias.
+
+83. Those who put faith in the Karmans alone are bound
+by the fetters of Karman in birth after birth. They are roasted
+and cooked in the hells.””
+
+CHAPTER FOUR
+A Fight between Virabhadra and Visnu and Others
+
+Lomaga said:
+
+1, On hearing the words uttered by Visnu, Daksa spoke
+these words:
+
+“O slayer of Madhu (Visnu), you have made it appear that
+Vedas are not authoritative (pramdana).}
+
+2. How can one forsake the Vedic rite and accept the doc-
+trine of the authoritativeness of Iévara? Let this be explained, O
+Mahavisnu, by whom Dharma has been established?”
+
+3-5. On being asked by Daksa, Mahavisnu said to him
+consolingly : “The Vedas have the three Gunas for their object.?
+They cannot be otherwise. How can the rites mentioned in the
+Vedas become fruitful without Isvara? They definitely become
+fruitless. Hence seek refuge in Igvara by all means.”
+
+Even as Govinda (Visnu) was saying thus, the ocean of an
+army, similar to Virabhadra’s came there. All the Suras (Devas)
+saw it.
+
+6. Indra laughed at Visnu who was engaged in explaining
+the doctrine of Atman then. With the Vajra (thunderbolt) in
+
+1, This shows a stage of conflict between the traditional Vedic religion
+and Saivism. Vedic tradition prohibited its followers from even speaking
+with the non-Vedic Saivas and Paficaratras. These Sastras were regarded as
+authoritative so far as they are not opposed to the Vedas (Sita-Samhita
+IV.4.16-18). Parijata as quoted in the Krtyaratnakara (p. 37) states the view
+of the mediacval writers on Dharma Sastra as follows:
+
+Paiicaratrapasupatadinyapi Sastrdni vedaviruddhani pramaénam
+
+2. Cf. traigunya-visaya vedah—BG 11.45. .
+
+## Page 25
+
+1i.4.7-22 21
+
+his hand, he became desirous of fighting, accompanied by the
+Suras.
+
+7. He was made to go hurriedly by Bhrgu who was bent
+upon routing (the Ganas). Then, the Ganas in the formation of
+groups fought with the Suras.
+
+8. They struck one another with arrows, iron clubs and
+sharp-pointed missiles. In the course of that great festival of war,
+many conchs were blown.
+
+9. So also drums like Dundubhis, Patahas, Dindimas etc.,
+were sounded. Thanks to that great sound, the Suras considered
+themselves flattered. Accompanied by the Guardians of the
+Quarters, they killed the servants of Siva.
+
+10. Some were killed by means of swords. Some were
+smashed by means of iron clubs. All of the hundreds and thou-
+sands of the Ganas were entirely routed by the Devas.
+
+ll. It was by the power of the Mantras of Bhrgu, that
+those Ganas were instantaneously defeated and driven back by
+the Guardians of the Quarters headed by Indra.
+
+12. Their extermination was effected by Bhrgu who perform-
+ed the Yaga as the fire-worshipper. He was initiated in this for
+the sake of the worship, on behalf of the Devas and for their
+pleasure too.
+
+13. By that alone did the Devas become victorious at the
+very instant. On seeing the defeat of his own army, Virabhadra
+became angry.
+
+14-15. He made the goblins, ghosts and vampires go to the
+rear and the bull-riders advance at the front. The leader of great
+strength took up a sharp trident and struck down the Devas,
+Yaksas, Pisacas, Guhyakas and Raksasas in the battle. Striking
+with spears, all the Ganas began to kill the Devas.
+
+16. Some of them were split into two by means of swords.
+They were smashed with iron clubs. In the course of the battle,
+some were cut into pieccs with battle-axes.
+
+17. Hundreds were pierced with spears; some were torn to
+pieces. Thus, all of those being defeated, began to run away.
+
+18. Embracing each other, they went back to heaven. Only
+the guardians of the worlds led by Indra remained there, eager
+(to fight). They consulted Brhaspati, “How can we have victory?”
+
+19-22. Brhaspati immediately replied to Indra thus:
+
+## Page 26
+
+22 Skanda Purdna
+
+Brhaspati said:
+
+What had been spoken by Visnu formerly has become true
+today.
+
+If there is ISvara as (bestower of) the benefit of a holy rite, he
+assigns it (the benefit) to the performer (of the rite). He is not
+powerful over one who does not perform (the rite). Neither Mantras
+nor all the medicinal herbs, neither black magic nor secular rites,
+neither holy rites nor the Vedas, nor the two systems of Mimamsa
+are capable of understanding Igvara. He can be known only
+through unswerving devotion. By calmness and great content-
+ment, Sadagiva should (i.e. could) be known.
+
+23. It is through him that the entire universe with happiness
+and misery as its characteristic features, takes its origin. But I
+shall speak further with a desire to explain (what are the) right
+and wrong actions.
+
+24. O/JIndra, you have been foolish in accompanying the
+(other) guardians of the worlds here. What can you do further
+now with the self-same folly?
+
+25. These extremely splendid Ganas, the assistants of Rudra,
+have become infuriated. Those persons of exaltcd fortune cause
+nothing to be left over.
+
+26. On hearing these words of Brhaspati, all the heaven-
+dwellers and all those great gods, the guardians of the worlds,
+became anxious.
+
+27-28. Then Virabhadra who was very closely surrounded
+by the Ganas, said:
+
+“On account of your ignorant nature, you have come here
+for the sake of Avaddna (glorious achievement). For the sake of
+your satisfaction, I shall immediately give you Avaddnas (cutting
+into pieces).””
+
+After saying this, he furiously hit them with sharp arrows.
+
+29. Hit by those arrows, all of them fled in all the ten
+directions.
+
+30. When the guardians of the worlds had left the place and
+when the Devas had fled, Virabhadra came into the sacrificial
+enclosure accompanied by the Ganas.
+
+31. At that time all those sages who were desirous of inti-
+mating everything to Janardana (Visnu), the god of gods, said to
+him all at once:
+
+## Page 27
+
+1.i.4.32-42 23
+
+32-33. “Protect the Yajfa of Daksa. Indeed, there is no
+doubt that you are Yajfia incarnate.”
+
+On hearing these words of the sages, Janardana, the all-per-
+vading lord, the illuminator of spiritual faculties, became desirous
+of fighting and stood there ready for the battle. Virabhadra of
+powerful arms spoke these words to Kegava (‘Visnu):
+
+34. ‘Why have you come here, O Visnu, you who know the
+great strength (of mine)? How will you be victorious by taking
+up Daksa’s side? Tell me that.
+
+35. Did you not observe? What has been done by Daksa-
+yani, O sinless one? You too have come for the sake of a share
+in the course of the Yajfia of Daksa. O lord of powerful arms, I
+shall give oblation to you also.”
+
+36. After saying this, at the very outset, he bowed down to
+Visnu whose form was similar to his. Virabhadra then went in
+front of Visnu and spoke these words:
+
+37. “You are to me just like Sarhbhu.! There is no doubt
+about this. Still, O lord of powerful arms, you face me with a
+desire to fight. If you continue to stay here yourself, I shall give
+you liberation (Apunaravrtti).”
+
+38. On hearing those words of the intelligent Virabhadra
+lord Visnu, the lord of all lords, said laughingly :
+
+Visnu said:
+
+39-41, O highly intelligent one, you are born of the splend-
+our of Rudra. You are very pure and holy. I had been requested
+by this (Daksa) before repeatedly for attending this Yajfia.T am
+subservient to my devotees. So also is the case of Maheévara. It
+is for that reason that T have come to this sacrifice of Daksa, O
+Virabhadra, born of the wrath of Rudra. Either I shall restrain
+you or you shall restrain me.
+
+42. When Govinda said this much, that (Virabhadra) of
+mighty arms laughed and after bowing down humbly said this
+to Janardana (Visnu):
+
+, 1, The Puraya reiterates the identity of Siva and Visnu. Virabhadra calls
+himself the servant of both Siva and Visnu and bows down humbly to Visnu
+before fighting (vv 42-43 below).
+
+## Page 28
+
+24 Skanda Purana
+
+43. «Just as Siva, so also you. Just as you, so also Siva. All
+of us are servants both of you and of Sankara.”
+
+44. On hearing his words, Acyuta, Visnu, the greatest lord,
+spoke these important words laughingly :
+
+45. ‘Fight with me unhesitatingly, O lord of powerful arms,
+I shall goto my own abode when I am surfeited with your
+arrows and missiles.”
+
+46. Saying ‘so be it”, Virabhadra, the hero of great
+strength, took up the greatest of his missiles and roared like a
+lion.
+
+47. Visnu too blew his conch of loud report. On hearing it,
+those Devas who had fled away from the battlefield, returned
+once again.
+
+48-50. Allthe Guardians of the Quarters including Indra
+made an array (of their soldiers). Then Nandin was struck by
+Indra with his Vajra (thunderbolt) that had a hundred spikes.
+Sakra was hit in the middle of his chest by Nandin with his tri-
+dent. Bhrngi was struck by Vayu and Vayu was struck (in return)
+by Bhrngi. Standing well prepared with his trident of sharp edge,
+Mahakala, endowed with great strength, fought with Yama
+holding the heavy rod.
+
+51-55. The lord of Kismandas clashed with Kubera.
+Munda of great strength fought with Varuna. He fought with
+such a great strength as surprised the three worlds. The cxceed-
+ingly powerful Canda clashed with Nirrta and fought with a very
+great missile, mocking his demoniac nature. Bhairava, the great
+leader, accompanied by the circle of Yoginis tore through all
+the Devas and drank their wonderful blood. All the Ksetrapalas,
+Bhitas, Pramathas, Guhyakas, Sakinis, Dakinis, the terrible
+nine Durgas, Yoginis, Yatudhanis, Kigmandakas and others
+roared, drank blood and devoured a lot of flesh.
+
+56. On seeing that his army was being devoured, the king of
+Suras left Nandin behind and challenged Virabhadra.
+
+57. Leaving off Visnu, Virabhadra engaged Devendra. The
+battle between them was as terrible as that between Mars and
+Mercury.
+
+58-61. When Sakra was desirous of killing Virabhadra and
+hastily prepared for the same, Virabhadra became furious and
+filled Indra who was seated on his elephant, with a mass of
+
+## Page 29
+
+1i.4.62-71 25
+
+arrows. The extremely mighty Virabhadra who was unrestrain-
+able, was immediately struck by Indra with his Vajra of a hundred
+spikes. Then he (Virabhadra) attempted to swallow Indra along
+with his elephant and thunderbolt, All the Bhittas who saw Vira-
+bhadra like that desirous of killing Indra, raised the loud shouts
+of “Ha-Ha” (Alas-Alas). Seeing Virabhadra desirous of killing
+Indra, Visnu came there ina hurry and stood in front of Vira-
+bhadra.
+
+62. He pushed Sakra behind and fought with Virabhadra.
+The battle between them was very tough.
+
+63-64. They then fought with various kinds of weapons and
+missiles. Seeing Nandin once again, Sakra who was an expert in
+battle, cngaged him in a tumultuous duel.
+
+There was a great clash between Devas and Pramathas.
+Pramathas were smashed by Devas and all of them fled from the
+battle.
+
+65. On sceing the Ganas turning their faccs away (from the
+battle), all those (bacterial) ailments! that had originated from
+the fury of Rudra rushed against Devas.
+
+66. On sceing Devas afflicted with the fevers, Visnu laugh-
+ingly seized Devas alive separately.
+
+67. He called Agvini Devas in order to quell the ailments.
+The highly intelligent (lord) made them carefully work out and
+consider the requisite nourishment (medicine) and sustenance,
+and gave the same to them.
+
+68. Asvini gods caught hold of the fevers and Sannipdata
+(fevers) as well as other inimical elements and quelled them.
+They joyously made Devas free from fever and rejoiced for a
+long time.
+
+69, The Yogini Cakra also was subdued by them. With
+sharp-pointed arrows, they toppled down Bhairava who was
+highly excited and felled the Ganas too.
+
+70. On seeing his army routed by Suras and felled down by
+them, Virabhadra became furious and spoke these words to
+Visnu:
+
+71. “You are a heroic warrior, O mighty one. Indeed you
+are the protector of Devas. If you think so, come on, fight with
+me strenuously.”
+
+1. An imaginative precursor of modern bacterial warfare?
+
+## Page 30
+
+26 Skanda Purane
+
+72. After saying thus, Virabhadra of great strength, appro-
+ached Visnu, the lord of all lords, and showered him with sharp.
+arrows.
+
+73. Then the lord attacked Virabhadra with his discus. On
+seeing the discus coming, it was instantaneously swallowed (by
+Virabhadra).
+
+74-75. On seeing that his discus was swallowed, Visnu, the
+conqueror of the cities of his enemies, stroked and pressed his
+mouth. Thus the (discus) was caused to be spitted out by Visnu.
+
+Taking his discus, Visnu of exalted nature, the sole lord of
+the universe, went to heaven. On understanding everything that
+had been done and was unbearable to the enemies he became
+satisfied (of having done his job).
+
+CHAPTER FIVE
+
+Meritoriousness of Devotion to Siva
+
+Lomasga continued:
+
+1, When Visnu went away, all those Devas along with the
+sages and all those who subsisted on that Yajfia were totally
+vanquished by the Ganas.
+
+2. He (Virabhadra) made Bhrgu fall down and his beard
+and moustache were plucked and cut.! He got the teeth of
+Piasan uprooted after distorting and deforming them.
+
+3. Svadha was ridiculed and the sages were mocked there.
+In their fury, they showered the sacrificial fire with faccal matter.
+
+4. The Ganas who had become excessively infuriated creat-
+ed unspeakable havoc. Out of great fear, Daksa hid himself be-
+neath the altar.
+
+5. After realizing that he was in hiding, he angrily dragged
+him out. Holding by the cheeks, he struck his head witha
+sword.
+
+1. Cf. BhP LV.5.13-26 for aclose similarity in the description of the
+destruction and humiliation of persons in Daksa’s sacrifice.
+
+## Page 31
+
+1.i.5.6-17 27
+
+6. Thinking that the head could not be pierced or split
+through, the valorous Virabhadra pressed the shoulder down
+with his feet and wrung the neck.
+
+7. On being wrenched off from the neck, the head of the
+vicious Daksa was taken away by the intelligent Virabhadra and
+thrown (lit. offered as oblation) into the blazing sacrificial pit
+instantaneously.
+
+8. Other sages, Devas, Pitrs, Yaksas and Raksasas who yet
+stayed on were assaulted by the Ganas. All of them fled from the
+place.
+
+9. The Moon, the groups of Adityas, all the Planets, Stars
+and Constellations—all of them were displaced and shaken.
+They too were attacked by the Ganas.
+
+10. Brahma returned to Satyaloka. He was afflicted with
+sorrow for his son. He thought without being perturbed: ‘What
+action is to be taken now?’
+
+11-15. As his mind was suffering, the grandfather of the
+worlds did not derive any happiness. With great effort, he under-
+stood all the wicked deeds of that sinner. He decided to go to
+the Kailasa mountain.
+
+Riding on his swan, accompanied by all the Devas, the lord
+of great splendour reached the most excellent mountain. There
+he saw Siva, Rudra, accompanied by only Nandin, staying alone.
+
+He had matted hair and possessed great splendour. It was the
+lord who could not he grasped by the Vedas or their A/gas
+(Ancillaries). On seeing such a lord, Brahma became greatly
+agitated.
+
+He prostrated himself on the ground like a staff and
+began to plead for pardon, touching his lotus-like feet with the
+tips of the four crowns. He began to eulogize Siva, the supreme
+
+soul.
+
+Brahma said:
+
+16. Obeisance to Rudra, the quiescent Brahman, the sup-
+reme soul. You are the creator and sustainer (protector) of the
+universe; you are the great-grandfather (of the world).
+
+17. Obeisanve to the great Rudra, to the blue-throated one,
+to the creator, to the lord identical with the universe, to the seed
+of the universe, to the cause of the bliss of the worlds.
+
+## Page 32
+
+28 Skanda Purana
+
+18-19. You are Omka@ra; you are Vasatkara, the prompter of
+the functioning of all enterprises. You are Yajfia; youeare the
+YGjnic rite. You are the cause of the functioning of Yajfia; you
+alone are the protector of all the performers of sacrifice. You are
+worthy of being the refuge, O great lord, to all living beings. Save
+me, save me, O lord Mahadeva, I have been afflicted with the
+grief for my son.
+
+Mahddeva said:
+
+20. O grandfather, listen attentively to my words. The des-
+truction of the Yajfia of Daksa has not been carried out by me at
+all.
+
+21-22. O Brahma, there is no doubt about this that Daksa
+was killed by his own deeds. An act (rite) that causes pain to
+many others, should not be performed at all, at any time. O
+Paramesthin, what befalls others will befall one too.
+
+23. After saying this, Rudra accompanied by Brahma and
+Suras went to the holy spot Kanakhala and to the sacrificial en-
+closure of the Prajapati (Daksa).
+
+24-26. ‘Rudra saw what had been committed by Virabhadra.
+Svaha, Svadha, Pisan, Bhrgu the most excellent one among
+intelligent beings (all had been injured by the Ganas). So also
+all the other sages and all the manes had been driven to that
+miserable plight. Many other Yaksas, Gandharvas and Kinnaras
+who had been there were wounded, split and torn off. Some died
+in the battle.
+
+27. On seeing that Sambhu had come, Virabhadra prostra-
+ted himself like a log of wood by way of obeisance, along with
+his Ganas. Then he stood in front of Siva.
+
+28. On seeing Virabhadra of great strength standing in
+front, Rudra spoke these words laughingly: “‘O hero, what is
+this that has been done here?
+
+29. Immediately bring here that Daksa by whom this un-
+usual and inauspicious thing has been committed in the course
+of a Yajfia, in consequence of which was (the present) fruit.”
+
+30. On being ordered thus by Sankara, Virabhadra hurried-
+ly brought the headless trunk and placed it in front of Sarhbhu.
+
+31-32. Then Virabhadra of noble mind was enquired by
+
+## Page 33
+
+1.i.5.33-40 29
+
+Sankara: “By whom has the head of the vicious Daksa been re-
+moved? Though he is a crooked fellow, O hero, I shall now give
+him life (revive him).”
+
+On being told thus by Sankara, Virabhadra submitted again:
+
+33. ‘The head was dropped by me into the fire at the very
+instant, O Sankara. The head that is left, O Sambhu, is that of
+an animal and the face has been distorted.”’
+
+34. After knowing (the position), Rudra placed upon the
+headless trunk the deformed head of the animal. The head had
+a beard and it was terrible.
+
+35. Thankstothe grace of Sankara, Daksa regained his
+life. On seeing Rudra in front of him, Daksa became ashamed,
+Bowing down he eulogized Sankara, the benefactor of all the
+worlds.
+
+Daksa said:
+
+36. I bow down to the excellent lord, the bestower of boons.
+I bow down to the most excellent lord of Devas, the eternal lord.
+J pay obeisance to Igvara, the lord of Devas. I bow down to
+Hara, Sarhbhu, the sole kinsman of the universe.
+
+37. I bow down to the cosmic form of the lord of the uni-
+verse, the eternal Brahman in theform of one’s own soul. I salute
+Sarva (Siva) having the existence of one’s own mental creation.
+J pay obeisance to the excellent one, the bestower of boons.
+
+Lomasga said:
+38. Rudra who was eulogized by Daksa, spoke laughingly
+in secret:
+
+Rudra (Hara) said:
+
+39. Four types of meritorious people always worship! me.
+They are: (those who are in misery), those who are thirsting for
+knowledge, the seekers of wealth and the possessors of spiritual’
+knowledge, O excellent Brahmana.
+
+40. Hence undoubtedly sages, possessors of true knowledge,
+are my favourites. Those who strive to attain me without spiritual
+knowledge are ignorant.
+
+1. Anecho of BG VII. 16.
+
+## Page 34
+
+30 Skanda Purana
+
+41. Merely by means of Karman (holy rites) you wish to
+cross the (ocean of) worldly existence.
+
+42. Neither by means of the Vedas nor by means of charit-
+able gifts, neither by sacrifices nor by penance at any place can
+they attain me. But due to the power of Karman men get
+deluded.
+
+43. Hence, be devoted to knowledge and perform holy rites
+with concentration and purity of mind. Be equally indifferent to
+happiness and misery and attain eternal happiness.
+
+Lomasa said:
+
+44. Thus Daksa was advised by Sarmbhu, the greatest god.
+After establishing Daksa there itself, Rudra went back to his
+mountain.
+
+45. Similarly all the great sages beginning with Bhrgu were
+consoled and enlightened by Brahma. Instantaneously they be-
+came endowed with true knowledge.
+
+46. Thereafter Brahma went to his abode.
+
+47. Daksa too achieved the excellent enlightenment through
+the utterance. Engrossed in the meditation of Siva, the noble-
+minded one performed penance.
+
+48. Hence Lord Siva should be served by means of all pos-
+sible efforts.
+
+49. Those men who sweep the courtyard of Siva (i.e. Siva’s
+temple) attain Siva’s city and become worthy of the praise of the
+whole universe.”
+
+50. Those who offer a mirror of great lustre to Siva become
+attendants of Siva and will be standing in front of Siva.
+
+51. Those who give chowries to the Trident-bearing Lord of
+Devas will themselves be fanned with chowries in all the three
+worlds.
+
+52. The men who offer lamps to the temple of Mahadeva
+will become refulgent. They will be the illuminators of the three
+worlds.
+
+53. Those who offer incense to Siva, the great Atman, will
+
+1. Cf. BG X1.46.
+
+2. VV 49-62 describe the fruit of different types of services rendered to
+Siva. Some of these verses are illustrated by stories of Siva’s devotees, the
+benefit derived by them by their particular act of devotion.
+
+## Page 35
+
+1.i1,5.54-65 31
+
+become famous. They redeem both the families (their own as
+well as that of their mothers).
+
+54. Those men who offer eatables (Naivedya) in front of
+Hari and Hara with great devotion, attain the fruit of a sacrifice
+for every lump of boiled rice offered by them (as Naivedya).
+
+55. Those excellent men who repair a Siva temple in ruins
+attain two-fold benefit. There is no doubt about it.
+
+56. Those who build anew temple by means of bricks or
+stones rejoice in heaven as long as their spotless fame stays in the
+world. O excellent brahmanas, no doubt need be entertained
+about this.
+
+57. Those highly intelligent brahmanas who cause to build
+a’ palatial temple of many floors for Siva, attain the greatest goal
+{i.e. Moksa).
+
+58. Those who clean or whitewash a temple of Siva built
+by themselves or by others attain the greatest goal.
+
+59. Those who offer a canopy are meritorious men. They go
+to the world of Siva and redeem their entire family.
+
+60. Those who tie a ringing bell in a temple of Siva will
+become refulgent and well reputed in the three worlds.
+
+61. He who visits (Siva’s temple) once, twice or thrice (a
+day) attains happiness whether he is rich or poor. He gets releas-
+ed from misery.
+
+62. A religious faithful who offers worships unto Siva, the
+great Atman, redeems ten million members of his family and
+rejoices in the company of Siva.
+
+63. Inthis context they cite this ancient legend, the con-
+versation between the son of Indradyumna and the noble-minded
+Yama.
+
+64. Formerly, in Krtayuga, there was a king named Indra-
+sena. He was a great warrior ruling Pratisthana. He was always
+interested in hunting.
+
+65. Unfriendly to brahmanas, he always indulged in horri-
+ble and cruel misdeeds. He was always devoted to worldly plea-
+
+1. VV 63-86 narrate the legend of Indrasena to show the efficacy of the
+syllables HA-RA uttered as a part of words of different meaning (e.g. Ghara
+‘pring’) simply because the name of god Siva is indirectly pronounced by
+him.
+
+## Page 36
+
+32 Skanda Purana
+
+sures only. That wicked king nourished his own self through the
+lives of others. .
+
+66. Ever-addicted to drinking wine, he very much sought
+the company of other men’s wives. He coveted other men’s
+wealth. Brahmanas were killed by him.
+
+67. Hedefiledthe bed of his preceptor. He always stole gold.
+All his followers too were of that nature. All the followers of
+that evil-minded king committed sins like him.
+
+68. Thus that vicious king ruled the kingdom indiverse
+ways. Then, after a great decal of time, the wicked king died.
+
+69. Then, this evil-minded Indrasena was taken away by the
+followers of Yama. The sinful king thus came to the presence of
+Yama.
+
+70. Indrasena who was standing in front there, was seen by
+Yama. He stood up and bent his head (in honour of) Siva.
+
+71. Yama, the most excellent one among those who uphold
+virtue, rebuked his messengers. After releasing Indrasena who
+had been bound with nooses Dharmaraja (god Yama) spoke:
+
+72-73. “O most excellent one among kings, go to the meri-
+torious worlds and enjoy them as long as Indra stays in heaven,
+as long as the sun is in the sky. Be happy as long as the five ele-
+ments cxist. O great king, you are a man of meritorious deeds.
+You are a permanent devotee of Siva.”
+
+74. On hearing the words of Yama, Indrasena spoke: “I do
+not know Siva. I am only a person interested in hunting.”
+
+75-76. On hearing his words Yama spoke by way of cxpla-
+nation: “The words ‘ahara’ (eat), ‘praharasva’ (attack) were always
+uttered by you. As a result of that holy act, O bestower of
+honour, you are permanently purified. Hence you do go to the
+Kailasa mountain, to Sankara.”
+
+77-78. Even as the noble-minded Yama was talking thus,
+the messengers of Siva came there riding on bulls. They had
+great refulgence. They were blue-throated, with ten arms, five
+faces and three eyes. They had matted hair and wore ear-rings.
+Their heads were markedly adorned with the crescent moon.
+
+79. On seeing them, Yama, the most excellent one among
+the upholders of virtue, stood up. He worshipped them all who
+resembled the great Indra.
+
+80. All of them hurriedly spoke to Yama, the son of Vivas-
+
+## Page 37
+
+1.i.5.81-91 33
+
+van: “O lord of exalted fortune, did Indrasena of unmeasured
+splendour come here? He is the person who continuously uttered
+the name of the noble-minded Rudra.”
+
+81. On hearing their words, Indrasena was honoured by
+Yama and placed in an aerial chariot. He was then sent to the
+abode of Siva.
+
+82. He was brought in by the excellent attendants of Siva.
+Then Indrasena of unmeasured splendour was seen by Sarhbhu.
+
+83. Rudra stood up to welcome him, approached him and
+embraced the king. He made Indrasena sit on half of his seat and
+then said:
+
+84. “O excellent king, what shall be given to you? What is
+your desire? I shall give you whatever is desired by you.”
+
+On hearing the words of the great Siva the king shed tears
+of joy. (Overwhelmed) by love, he could not say anything.
+
+85. Then he was made a Parsada (Attendant) by the noble-
+minded Mahesga. He became famous by the name Canda. He
+was a favourite friend of Munda.
+
+86. Merely by uttering the name of Rudra, the supreme
+soul. (former) sinful king Indrasena attained Siddhi.
+
+87. By merely uttering ‘O Hari’, *‘O Hara’, the names of
+Siva, the supreme soul, and of Visnu, the wielder of discus, many
+men have been saved by Siva.
+
+88. No other god greater than Mahega (Siva) can be seen
+(found) in the three worlds. Hence Sadasiva should be worship-
+ped by all the means.
+
+89. He should always be worshipped with leaves, flowers,
+fruits, even pure water, and with Karavira. And he becomes a
+bestower of boons.
+
+90. The flower of Arka (calotropis gigantea) is ten times
+more efficacious than Karavira. The entire universe consisting of
+mobile and immobile beings is made with Vibhiti (the sacred ash).
+
+91. It is always present in the courtyard of Siva. Hence one
+should always besmear oneself with it.
+
+Henceforth, listen to the merit, O excellent brahmanas, of
+Tripundra' (three parallel horizontal lines on the forehead)
+drawn with sacred ash.
+
+1. VV 91-96 describe the redeeming power of Tripundra.
+
+## Page 38
+
+34 Skanda Purana
+
+92. It is meritorious and it dispels all sins. Listen to it, O
+excellent brahmanas.
+
+There was a certain thief who was a great sinner. He was
+executed by the servants of the king.
+
+93-95. A certain dog came there to eat him (his flesh) and
+stood over his head. Some ash sticking between the claws of the
+dog fell on the forehead of that sinner in the form of an impres-
+sion similar to Tripundra. His body was without consciousness
+but the ash fell on it. Therefore the thief was taken to Kailasa
+by the messengers of Rudra. Who can specifically describe the
+greatness of Vibhiiti (holy ash).
+
+96. The men whose limbs are adorned with holy ash are
+men of meritorious deeds. The men in whose mouth the
+five-syllabled (Mantra), viz. namah Sivaya exists are undoubtedly
+veritable Rudras.
+
+97. Those who have a cluster of matted hair on their heads
+and those who have Rudraksa beads as their ornaments, are
+themselves Rudras in human form. There is no doubt about it.
+
+98. Hence Sadasiva should be regularly worshipped by men
+in the morning, at midday and in the evening. The time of dusk
+is very excellent.
+
+99. By seeing Sambhu during the morning, the sin of (com-
+mitted at) the night is dispelled. By visiting Sarnbhu at midday
+the sin incurred by men in the course of seven previous births
+becomes quelled. (The merit of seeing Sarhbhu) at night cannot
+be adequately calculated.
+
+100. The two-syllabled name Si-va is destructive of great
+sins. The whole universe is sustained by those men from whose
+mouths the name issues out.
+
+101. Even heretics and those who cling to false and hetero-
+dox doctrines attain the greatest goal and people who are devo-
+ted to sinful activities become sanctified if they hear the sound
+of the Bheri (big drum) placed in the courtyard of Siva’s temple
+by people of meritorious deeds.
+
+102. There isno doubt about this that even that animal
+attains Siva’s presence, whose hide is used in connection with
+the Bheri, Mrdanga, Muraja and other types of drums placed in
+Siva’s temple by men.
+
+103-104, Hence the devotee should offer various things
+
+## Page 39
+
+1.i.5.105-112 . 35
+
+pleasing to Sarhbhu in accordance with the injunctions, viz.
+Tata and Vitata (stringed musical instruments such as lute etc.),
+Ghana (cymbals, bells and gongs), Susira (flutes), very valuable
+chowries, palanquins, beds, (singing) story poems, legends,
+devotional music etc.
+
+105-108. By offering these things even sinners go to the
+world of Siva. (The following people get even better benefits:)
+Men of good holy rites, noble-souled men proficient in the wor-
+ship of Siva, those who are engaged in the worship of Siva
+according to the procedure acquired directly from the (oral)
+instructions of the preceptor, those persons of firm resolve who
+see the universe as the form of Siva, persons of good conduct
+with perfect intellect, men who adhere to the discipline of castes
+and stages of life as well as others, brahmanas, ksatriyas, vaisgyas,
+Sidras and other men. Even a candala (devotee of Siva) is excel-
+lent. He shall be a great favourite of Sarnbhu. The whole of this
+universe including mobile and immobile beings is presided over
+by Sarnbhu.
+
+109-110. Hence it should be especially understood that
+everything is identical with Siva. Sarnbhu should be known by
+means of Vedas, Puranas, sacred treatises, Upanisads and
+different kinds of Agamas. Sadasiva should be worshipped by
+all people irrespective of their being with or without desires.
+
+Lomasga said:
+
+111. Ishall narrate an old legend describing an event that
+happened long ago.
+
+Formerly there was a vaisya named Nandin who lived in the
+city of Avanti.2
+
+112. He engaged himself in meditation on Siva and per-
+formed his worship. Everyday he worshipped a Linga that was
+in the penance grove.
+
+1. VV 111-193 relate the legend of two devotees—Nandin, a vaisya, and
+Mahdakala, a Kirfta (a tribal). Siva approved of the selfless devotion of
+theignorant Kirata and not the ostentatious worship of Nandin, the vaisya.
+It was due to the request of the Kirta that the rich vaisya was redeemed by
+Siva and absorbed as his gaya (attendant).
+
+## Page 40
+
+36 Skanda Purana
+
+113. He used to get up very early in the morning everyday.
+Nandi, the lover of Siva, became excessively devoted to the
+worship of the Linga.
+
+114. He bathed the Liga in Paficamrta in the manner
+prescribed (in scriptures). He was always surrounded by brah-
+manas who had mastered Vedas and Veddngas (ancillaries to
+Vedas).
+
+115-116. He was devoted to the worship of the Liriga in
+accordance with the injunctions of the sacred treatises. After
+bathing the Linga duly, he always worshipped it with different
+kinds of wonderful flowers, pearls, aspphires, Gomedas (Himalayan
+gems), lapis lazuli, emeralds and rubies.
+
+117. Thus Nandi of exalted fortune worshipped for many
+years that Liga stationed in a lonely spot with different kinds of
+offerings.
+
+118. Once there was a Kirata (a forester) who was interested
+in hunting and used to injure and kill animals. Being wreckless
+he always cnjoyed hunting.
+
+119. That wicked fellow of sinful activities used to wander
+in mountains and caves teeming with beasts of prey, killing the
+animals here and there.
+
+120. In the course of his wandering that Kirata, a habitual
+killer of animals, came by chance where the Liviga had been duly
+worshipped.
+
+121. He was extremely afflicted with thirst and looked for
+water (everywhere). He saw a lake in the forest and immediatcly
+entered the water.
+
+122. The wicked fellow had placed everything he had got
+by hunting, on the shore. He gargled, drank some water and
+came out.
+
+123-126. He saw in front of him the temple that had been
+wonderfully embellished. The Liriga that had been excellently
+worshipped by means of different kinds of gems was seen
+(by him). After seeing the Liriga, when he began to offer his
+worship, all the gems were tossed about here and there. Bathing
+of the Liga was performed by him by means of a mouthful of
+water. With one of his hands he offered Bilva leaves (aegle
+marmelos) for the purpose of worship. With the other hand he
+
+## Page 41
+
+1.i.5.127-140 37
+
+offered venison. After prostrating himself like a stick he men-
+tally took the solemn vow to perform worship (as follows):
+
+127. “From today onwards I shall strenuously perform the
+worship. From today, O Sankara, you are my master and lam
+your devotee.”
+
+128. After having thus become a regular worshipper, the
+Kirata returned home.
+
+Nandi saw everything scattered here and there by the Kirata.
+
+129. Nandi became anxious and worried: ‘What flaw is
+this that has befallen me? Many obstacles have been mentioned
+in the case of one who is engaged in the worship of Siva. Owing
+to my misfortune all those obstacles have beset me.”
+
+130. After pondering thus for a long time, he washed the
+temple of Siva. Nandi then returned to his house along the path
+by which he had gone.
+
+131. The priest approached Nandi (as he was found) dejec-
+ted in his mind. He spoke these words: ‘‘Why have you become
+dejected in your mind?”
+
+132-133. Nandi then spoke these words to his priest: ‘‘O
+brahmana, impure things have been seen by me today in the
+vicinity of Siva. I do not know at all by whom this has been
+caused.”
+
+134-140. Then the priest spoke these words to Nandin:
+“The person by whom the offerings of gems etc. have been scat-
+tered is a deluded one. There is no doubt. He is a stupid fellow
+not aware of what should be or should not be done. Hence, O
+lord, do not worry in the least. Be pleased to go to that temple
+of Siva in the morning along with me in order to see that wicked
+fellow. Thereafter, 1 shall do what should be done.”” On hearing
+these words of his priest, Nandin remained in his house during
+the night with his mind extremely pained.
+
+When the night passed, he called the priest and went to the
+temple of Siva. Nandi went there along with that noble-souled
+one. Thereafter, what was done by that wicked one the previous
+day was seen.
+
+Nandi performed the worship elaborately with different
+kinds of gems for the requisite things. The five Upacaras (modes
+of service in the course of the worship) and recitation of Rudra
+hymns eleven times while bathing the god were duly performed.
+
+## Page 42
+
+38 Skanda Purdna
+
+He eulogized Giriga with various hymns and prayers in the com-
+pany of brahmanas. Two Yamas (i-e. six hours) were thus spent
+by Nandi engaged in eulogy.
+
+141, Indeed, at that time, there arrived (the Kirata called)
+Mahakala who was of the same form (as before). He was extre-
+mely powerful, very hideous and dreadful like the god of Death.
+He was valorous and armed with a bow in his hand.
+
+142. On seeing him Nandi was excessively frightened and he
+cried. The priest too was suddenly struck with fear.
+
+143. Everything was done by the Kirata scrupulously as
+before. With the forepart of his foot he kicked aside the (pre-
+vious) worship by Nandi and offered leaves of Bilva (instead).
+
+144. The bathing rite was performed by means of the
+mouthful of water. The Naivedya (food offering) was the picce
+of flesh. Thus the Kirata offered everything to Siva.
+
+145-147. He prostrated himself on the ground like a staff of
+wood. Then he rose up and went to his abode. On seeing that
+extremely wonderful incident, he (Nandi) thought about it for a
+long time. Along with the priest, Nandi was agitated in his mind
+as he pondered over this. Many brahmanas, expounders of the
+Vedas, were invited by him. He recounted to them everything
+performed by the Kirata and asked them: ‘““What should be done,
+O brahmanas? Let everything be explained accurately.”
+
+148. Allofthem met together and ascertained the matter
+from the point of Dharma Sastra. Then, all those brahmanas
+spoke to Nandin who was extremely frightened and suspicious:
+
+149. “This obstacle that has sprung up cannot be warded
+off even by Devas. Hence, O excellent vaigya, bring that Linga
+to your own abode.”
+
+150-151. He honoured their suggestion saying, ‘“‘So be it’’.
+Then Nandi dug out that Sivalinga, brought it to his own house
+and consecrated it duly after placing it on a golden pedestal
+rendered splendid by means of the nine precious stones. He then
+performed the Pajd with various kinds of rites and articles of
+worship.
+
+152. The next day the Kirata came to the temple of Siva
+and on glancing about could not see the Liriga of Iga.
+
+153-157. Breaking his silence suddenly he shouted loudly
+and spoke thus: “O Sambhu, where have you gone? Reveal your-
+
+## Page 43
+
+Li.5.158-173 39
+
+self to me now. If you are not seen now, I will give up my body.
+O Sarhbhu, O lord of the universe, O destroyer of Tripura, O
+Rudra, O Mahadeva, reveal your form yourself.”’
+
+Thus, by means of sweet words of apparent rebuke Sadasiva
+was disrespected by the Kirata. Then that heroic forester tore up
+his belly with his nails. Stroking his arms he said angrily, “O
+Sarnbhu, reveal yourself. Where will you go abandoning me?”
+
+158. After scolding thus, the Kirata cut the flesh all round
+and took out the intestines. With his hand he threw them
+suddenly into that pit.
+
+159-161. He steadied his heart and took bath in that lake.
+Similarly he brought water and Bilva leaves hurriedly. He wor-
+shipped the lord duly and prostrated on the ground stretching
+himself like a stick of wood. Thereafter the Kirata remained there
+in the presence of Siva engaged in meditation. Thereupon, Rudra
+surrounded by Pramathas, revealed himself to him.
+
+162. The moon-crested lord Rudra who was white like cam-
+phor and who was refulgent with matted hair, grasped him by the
+hand and assuaged him consolingly.
+
+163. “O heroic one of great intcllect, you are my
+devotee. Choose a boon conducive to your own welfare. O highly
+intelligent one, (speak) whatever is intensely desired by you.”
+
+164. On being addressed thus by Rudra, Mahakala became
+joyous. Endowed with great devotion, he fell down on the ground
+like a stick of wood.
+
+165-167. Then he spoke to Rudra: “I request for the boon.
+O Rudra, there is no doubt about (the fact) that I am your slave.
+You are my lord and master. Realizing this, grant me devotion
+unto you in every birth, You are my mother. You are my father
+too. You are my kinsman and friend. You are the preceptor. You
+are the great Mantra. You are always worthy of being known
+through the Mantras. Hence in the three worlds there is nothing
+else than you.”
+
+168. On hearing these words of the Kirata, devoid of desire,
+Siva granted him the position of the chief of his attendants and
+the post of his doorkeeper.
+
+169-173. Then the three worlds were filled with the sound
+of Dumaru (a kind of drum), with the booming sound of the big
+drum Bheri and the sound of conchs. Then thousands of Dun-
+
+## Page 44
+
+40 Skanda Purana
+
+dubhis and Patahas (different kinds of drums) were sounded. On
+hearing that sound Nandi was surprised. He hurried to the place
+in the penance grove where Siva was present surrounded by
+Pramathas. The Kirata too was scen exactly like that by Nandi.
+Nandi who was surpriscd much, spoke these words humbly. He
+became desirous of eulogizing the Kirata with great intentness:
+“§armbhu was brought here by you. O scorcher of enemies, you
+are (his real) devotee. Iam your devotee and have come here.
+Mention about me to Sankara.”
+
+174. On hearing his words, the Kirdta grasped Nandi by the
+hand and hurriedly approached Sankara.
+
+175. Lord Rudra laughingly spoke these words to the
+Kirata: ‘Who is this person brought by youin the presence of
+the Ganas?”
+
+176. Sankara, the benefactor of all the worlds, was then in-
+formed by the Kirata:
+
+Kirdta said:
+
+This is your devotec, O lord. He is always engaged in your
+worship.
+
+177-178. Everyday you have been worshipped by him with
+gems and rubies, flowers of various kinds, with his own life as
+well as wealth. There is no doubt about this. Hence know that he
+is my friend, Nandin, O lord favourably disposed towards your
+devotees.
+
+Mahddeva said:
+
+179. T donot know, O highly fortunate one, Nandi, the
+vaisya mentioned (by you), (but) O Mahakala of great intellect,
+shall accept him) because you are my devotee as well as friend.
+
+180. Those who are free from fraud, and are of lofty mind,
+are dear devotees of mine. They are excellent men.
+
+181. Heis your devotee and hence he is a dearer friend to me.
+
+Thus both of them were accepted by Sarnbhu as his atten-
+dants.
+
+182. Then many aerial chariots of great lustre arrived there.
+That excellent vaisya was redeemed by that excellent Kirata of
+great refulgence.
+
+## Page 45
+
+1.i.5.183-197 41
+
+183. By means of aerial chariots of great speed both of
+them arrived at Mount Kailasa. They attained the state of hav-
+ing the same form as that of the noble-souled Isvara.
+
+184. Waving of the light was performed by Girija to both
+of them along with Siva. Thereupon, the goddess with a graceful
+gait of an elephant laughingly said to Siva:
+
+185-188. “Just as you are, so also are these, undoubtedly
+in form as well as mode of walking. They are well-honoured with
+smiles and friendliness. Hitherto you alone had been served by
+me, no doubt.”
+
+On hearing the words of the goddess, the Kirata and the
+vaisya turned their faces aside immediately even as Sankara was
+observing. (They said:) ‘“We are to be sympathized by you alone,
+Othree-cyed lord. We shall perpetually stand at your door.
+Obeisance, obeisance to you.”
+
+189. Knowing their intention, Bhava laughingly said: “On
+account of your great devotion may your desire be fulfilled.”
+
+190. Ever since then both of them became the gatekeepers.
+They stood at the doorway of Siva, O brahmanas. They had the
+vision of Siva during midday.
+
+191. One was Nandi and the other Mahakala. Both of them
+were lovers of Siva. Both of them joyously talked to Sadasiva
+who was one.
+
+192-193. Mahadeva talked to them lifting up one of his
+fingers. Similarly Nandi said lifting up two of his fingers. Thus
+with the gestures and signs they stand at the entrance to the
+abode of the noble-souled (lord) Sankara. O highly fortunate
+sages, listen.
+
+194-197. Formerly the unlimited pious rites of Siva had
+been proclaimed by Sailida out of sympathy, O brahmanas, for
+evil-minded living beings, sinners, impious people, blind ones,
+dumb beings, lame ones, those of ignoble births, evil-minded
+ones, candalas, and other persons whatever their nature may be.
+If they are endowed with devotion to Siva, they go to the pre-
+sence of the trident-bearing lord of Devas. Those learned men
+who worship a Linga made of sand, go to Rudraloka un-
+doubtedly.
+
+## Page 46
+
+42 Skanda Purana
+CHAPTER SIX
+
+Curse to Brahma and Others
+
+The sages enquired:
+
+1. How did the pre-eminence of Linga, exclusive of Siva,
+come to be established? O highly fortunate sage, let this be
+narrated to us who are eagerly desirous of learning it.
+
+Lomaga said:
+
+2-4. Lord Sarnbhu wandered about in the forest Daruvana
+for the sake of begging alms.! The sole lord of the worlds with
+quarters for his garments (i.e. naked), having the cluster of his
+matted hair loosened, that lord who can be understood only
+through Vedanta (i.e. Upanisads), the great lord, the greatest
+among leading Yogins, the sole supporter of the group of worlds
+is greater than the greatest. He isthe great lord of the worlds
+with exalted dignity. That noble-souled Igvara assumed the form
+of a mendicant; begged for alms in the Daruvana forest.
+
+5. At midday the sages, O brahmanas, went to the sacred
+places (for bath) from their hermitages. At that very time, all the
+wives of those sages came there.
+
+6-8 Onseeing Sarhbhu they spoke to one another, “Who is
+this personage of uncommon appearance, who has come here in
+the form of a mendicant? We along with our friends shall give
+him alms,” Saying, “So be it”, they went home and joyously
+brought various kinds of food as alms. They were fine and
+delicate. They offered everything in accordance with their
+capacity but with due honour and gentle behaviour. The alms
+begged for by the Trident-bearing Lord of Devas were (duly
+given to him).
+
+9-12. One of the ladies who was struck with wonder asked
+Sarnbhu who endeared himself very much to her: ‘Who are you,
+O excessively intelligent one? Why have you come here asa
+mendicant? This is the sacred hermitage of sages. Why do you
+
+1. The story of Siva’s visit to Daruvana and dropping of his Phallus
+when cursed by sages, is found in other Puranas also (e.g. KP II.3.8-39,
+BdP L.ii.27). The peculiar behaviour of Siva is called Dvdra in Pasupata
+Sutras.
+
+## Page 47
+
+1Li.6.13-23 43
+
+not sit here in our hermitage?’’ On being asked thus by her,
+Sambhu said laughingly:
+
+“I am Ivara, O lady with excellent tresses; I have come to
+this holy place.”” On hearing the words of Isvara (Siva) the wife
+of the sage asked him:
+
+“(You say that) you are Igvara (Siva), O gentle Sir, of
+exalted fortune. You are the lord of the Kailasa mountain. But,
+O lord, how does it happen that you are begging for alms alone
+and single?’
+
+13-14. On being asked thus by her, Sarhbhu said to her once
+again these words: ‘Iam bereaved of Daksayani. Hence I wander
+about nude for the purpose of begging alms, O lady of excellent
+hips. I am free from any wish or desire or any expectation of
+advantage from anybody. O beautiful lady, without Sati all the
+women in the world do not at all appeal to me. I am speaking
+the truth to you, O lady of large eyes.”
+
+15-16. On hearing the words spoken by him, the lotus-eyed
+lady said: ‘‘There is no dcubt that women really accord pleasure
+by their touch unto man. Such pleasurable women, O Sambhu,
+have been eschewed by a learned man like you!”
+
+17-21. In this manner all young women gathered together
+at the place where Sankara was (standing). The alms-bowl of
+Sarnbhu was filled with cooked food of very good quality. Four
+types of foodstuffs with all the six tastes filled his bowl.
+
+When Sambhu was desirous of returning to the Kailisa
+mountain, all those wives of brahmanas joyously followed him
+forsaking their domestic duties. With their minds attached to
+him, they walked on and on (after him).
+
+When all those wives (of sages) had left thus, the excellent
+sages reached their hermitages and found them empty and
+vacant. They spoke to one another, “Where have all these women
+(our wives) gone? We do not know by what damned fellow they
+have been abducted.’’ Pondering and deliberating thus they
+searched here and there.
+
+22. Thereupon they saw that they had been following Siva.
+On seeing Siva, the sages angrily closed in upon him.
+
+23. Standing in front of Siva, all of them said with impetuo-
+sity, ‘What has been done by you, O Sarhbhu (who profess to be)
+
+## Page 48
+
+44 Skanda Puradna
+
+detached and noble-souled? You are no doubt the kidnapper of
+the wives of others, i.e. of us, the sages.”
+
+24. Although rebuked thus, Siva silently went of towards
+his mountain. Then that immutable Mahadeva was overtaken
+by the sages. (They then cursed him thus:) “Since you are the
+abductor of (our) wives, be instantaneously a eunuch.”
+
+25. Thus cursed by the sages, his penis fell down on the
+ground. As soon as it reached the ground, it became very large
+immcdiately and it increased in size (enormously).
+
+26-31. From beneath and above, the Linga covered the seven
+Patalas in an instant. Then it pervaded the entire earth and
+enveloped the firmament. Allthe heavens were covered. Then
+it rose beyond the heavens. There was no earth, no quarters,
+neither water nor fire, neither wind nor ether, neither Cosmic
+Ego (Ahmkara) nor the Great Principle (Mahat), neither the Un-
+manifest One (Avyakta) nor the Time and no great Primordial
+Matter (Prakrti). There was no dualistic division. Everything
+became merged in an instant. Since the entire universe became
+Lina (merged) in that Linga of the great Atman (it came to be
+called so).
+
+‘Learned men say that it is called Liiga because of
+Layana (merging of the universe). On sceing such a Liriga rising
+further and further, the celestial sages, Brahma, Indra, Visnu,
+Vayu, Agni and the Guardians of the Quarters and the serpents
+were filled with surprise in their minds. They spoke to one an-
+other:
+
+32. “What is the length (of this Linga)? What is its girth?
+Where is its top? Where is its pedestal?” All the Suras who were
+worried with thoughts like these then said to Visnu:
+
+Devas said:
+
+33. Its root must be seen by you, O Visnu. O lotus-born
+Brahma, its head must be seen by you.! Then you can justifiably
+be called protectors,
+
+1. This legend explains why the leaf of Ketaki is not used in Siva’s
+worship and why god Brahma is not generally worshipped. This legend has
+no basis in Mahabharata and Valmiki’s Ramayana. Here gods requested
+Visnu to trace the root of the Linga as he was a Varaha and due to Brahma’s
+
+## Page 49
+
+Li.6.34-45 45
+
+34. Visnu and the Lotus-born god Brahma both of whom
+were (gods) of exalted fortune, heard this. Visnu went to the
+nether worlds and Brahma went to heaven.
+
+35. When he reached heaven, Brahma eagerly looked (every-
+where) but that clever (lord) did not see the top of that Linga.
+
+36. So the Lotus-born (Lord) returned along the path he
+had gone and reached the top of Meru. There he was seen by
+Surabhi (Divine Cow).
+
+37. She was standing inthe shade of a Ketaki plant and
+spoke to him in sweet words. On hearing her words, the grand-
+father of all the worlds spoke laughingly to Surabhi in deceptive
+words:
+
+38-41. “An extraordinarily wonderful Liriga which has per-
+vaded the entire region of the three worlds was seen; 1 was
+deputed by Devas to see its top. Iam extremely worried as to
+what I should report in the presence of Devas as the top of
+that all-pervading Linga of the noble-souled (lord) was not seen.
+Though it is untrue, you should tell Devas that the top
+ofthe Liga has been seen. If all the groups of Devas like
+Indra and others were to ask you, ‘Have you witnessed?’, you
+shall say quickly, ‘In this matter, O Devas, there are witnesses’.
+In this matter, O lady of good holy rites, you do be my wit-
+ness along with the Ketaki flower.”
+
+42-43. Accepting the suggestion of Brahma Paramesthin
+with her head (bent down respectfully), Surabhi in the company
+of the Ketaki flower honoured it. Arriving thus in front of
+Devas, Brahma spoke:
+
+Brahma said:
+
+44. Thave seen the wonderful top of the Linga,O Devas.
+It was duly worshipped by me with Ketaki petals. It is large,
+soft and spotlessly pure.
+
+45. It is beautiful and fascinating. It is wonderfully lustrous
+and excessively refulgent.
+
+association with swans, the latter was sent to explore the top. In other Pura-
+mas we are told that Siva appeared in the form of a column of fire to resolve
+the conflict between Brahma& and Visnu about personal superiority and
+showed them that he was superior to them both.
+
+## Page 50
+
+46 Skanda Purana
+
+46. Such a Linga was seen by me. Like that I have not seen
+anything else anywhere else.
+
+On hearing the words of Brahma, Devas were struck with
+wonder.
+
+47-52. Even as the groups of Devas beginning with Indra
+stood thus filled with wonder, Visnu, the lord of all, the bestower
+of spiritual illumination, came there from Pataéla. Immediately
+he reported to all: (Although) I was eager to see its end, it (the
+end of the Liga) has not been seen by me. As I was moving further
+from Patala, I was struck with great wonder. I went through
+Atala, Sutala, Nitala, Rasatala, Patala and Tala and Talatala.
+Everything appeared empty and void. Even the most vacant
+place of all was examined well. But it has neither root nor
+middle nor top. Mahadeva by whom this universe is sustained
+is the one in the form of Liga. It was due to his grace that you
+and the sages were born.”
+
+53. On hearing his words Suras and sages honoured him.
+Then Visnu spoke thus laughingly to Brahma:
+
+54. “If, O Brahma, the top has been truly seen by you, who
+are the witnesses you have had in this matter?”
+
+55-58. On hearing the words of Visnu, Brahma, the grand-
+father of the worlds, hurriedly said, ““Ketaki and Surabhi. O
+Devas, these two may be known as my eye-witnesses.” On hear-
+ing the words of Brahma, all Devas hurriedly sent for Surabhi
+along with Ketaki. The two instantaneously came there for the
+work of Brahma.
+
+Thereafter Surabhi was asked by Devas beginning with
+Indra. She said thus together with Ketaki: “Indeed, O Devas,
+The top of the Liga was seen by Brahma and worshipped with
+the petals of Ketaki.”
+
+59-60. Even as all of them listened, an ethereal voice was
+heard from the sky: ‘‘Understand, O gods, that what is deposed
+by Surabhi and Ketaki is a false statement. Its top has not
+been seen (by Brahma).”
+
+61. Then all Devas along with Indra and Visnu angrily
+cursed Surabhi who was intent to utter falsehood:
+
+62. ‘O splendid one, today a lie has been thus uttered by
+
+## Page 51
+
+1.i.6.63—L.i.7.3 47
+
+your mouth. Let your mouth be unholy and impure. Let it be
+excluded from all religious rites.
+
+63. Even though fragrant, O Ketaki, you shall be unsuitable
+for the worship of Siva. There is no doubt about it, O good
+lady, that you have lied.”
+
+64-68. Then the ethereal voice cursed Brahma: “O stupid
+one, why has falsehood been uttered childishly by you? (Why
+have you done this) along with Bhrgu, the sages and the priest?
+Hence you will never be worthy of worship. You will suffer from
+pain. The sages (who ought to be) virtuous will be excluded from
+truthful statements. They will be deluded, engaged in disputes,
+jealous and unaware of true knowledge. They will be beggars
+and worthy of being cut to pieces. They will perpetually ruin
+their own knowledge. They will boast tof themselves. They will
+be stubborn and will censure one another.”
+
+Thus Devas beginning with Brahma, as well as the sages were
+cursed. All of them, cursed by Siva sought refuge in Lirga.
+
+CHAPTER SEVEN
+
+Worship of the Linga
+
+Lomasa said:
+
+1, Then all those Suras and even the sages became fright-
+ened. Brahma and others who became perturbed and distressed
+on account of their knowledge (of their mistake) eulogized the
+Liga of Lord Siva.
+
+Brahma said:
+
+2. Youwho have assumed the Lirigaform, are of great
+miraculous power. You who are of the form of the Supreme
+Soul, are knowable (only) through Vedanta (Upanisads). It
+is by you who is ever engrossed in Bliss that the universe which
+is rooted in you, has been created.
+
+3. You are the witness unto all the worlds. You are the
+
+## Page 52
+
+48 Skanda Purana
+
+annihilator of all. You are the protector, O Mahadeva. You
+are Bhairava, O lord of universe.
+
+4. This unit of the three worlds has been pervaded by you
+in the form of Liga. O lord, we are insignificant creatures
+whose minds are deluded by Maya.
+
+5. We, viz. 1, Suras, Asuras, all the Yaksas, Gandharvas
+and Raksasas, serpents, Pisacas and these Vidyadharas, are all
+deluded.
+
+6-7. You are the creator of the creators of the universe.
+You are indeed the lord and ruler of the universe. You, the
+Supreme Person, are (both) the creator and annihilator of the
+universe.
+
+Protect everything belonging to us. O Mahadeva. Obeisance
+
+to you, O god of Devas.
+
+Thus the great lord in the form of Linga was eulogized
+by Brahma.
+
+8. The sages who were desirous of eulogizing Mahesvara.
+the sinless one, eulogized with very great eagerness and respect
+by means of excellent words recorded in the Vedas.
+
+The sages said:
+
+9. We are all ignorant. On account of lust, we do not re-
+cognise your status. Indeed you are the Soul, the Supreme Soul.
+You are the Prakrti, the evolver (of everything).
+
+10. You are our mother. You alone are our father. You
+are our kinsman. You alone are our friend. You alone are
+Igvara. You are conversant with the Vedas. You are always
+meditated upon by persons of great magnanimity.
+
+11. Youarethe immanent Soul of all living beings, like
+flame of all fuel. Since everything takes its origin from you, you
+are forever Sarva.
+
+12. The lord is called Sarnbhu because Samm (happiness)
+takes its origin from him.
+
+13. All of us, Devas and others (such as) sages, celestial
+Gandharvas, Vidyadharas, great serpents have resorted to your
+lotus-like feet.
+
+14. Hence, with mercifulness, O Sarnbhu, O lord of the
+universe, protect us.
+
+## Page 53
+
+1.1.7.15-24 49
+
+Mahadeva said:
+
+15. Listen to my word now. Let it be carried out immedia-
+tely. May all of you pray to Visnu,! O ascetics, with immediate
+effect.
+
+16. On hearing the word of the noble-souled Sankara, all
+those Suras bowed down to Visnu and eulogized him.
+
+Devas said:
+
+17. Vidyadharas, groups of Suras, all the sages, everyone
+has been saved by you today, O sole kinsman of the universe.
+In that manner, O merciful one, O lord of the three worlds, O
+lord of the universe, O abode of the universe, protect all the
+people.
+
+18-19. Lord Visnu laughed loudly and spoke these words
+then: “Formerly you were oppressed by Daityas and protected
+by me. But today a great danger of everlasting nature has
+arisen from this Linga. It is not possible for me to protect
+you, O Suras, from the danger from this Linga.”’
+
+20. On being told thus by Visnu, Devas became worried.
+Thereupon an ethereal voice spoke thus, consoling all the Suras:
+
+21. “O Janardana, choose this Liga for worship. Becom-
+ing a mass of refulgence, O mighty one, protect the mobile and
+immobile beings.”’
+
+Saying ‘‘so be it” and honouring it, Lord Virabhadra worship-
+ped it.?
+
+22. At that time, the noble-souled Virabhadra, having the
+moon for his crest and engaged in carrying out the orders of
+Siva, was worshipped by the groups of Suras beginning with
+Brahma, collectively. Virabhadra was a favourite of Siva and
+was on a par with Rudra in the three worlds.
+
+23-24. Then Virabhadra was absorbed in worshipping the
+Linga. It (the Liga) had the same form wherefrom the entire
+universe takes it origin, derives sustenance and gets merged with
+it. The excellent ones among those who are the knowers of the
+
+1, This is how Puranas tried to bring together followers of Saivism and
+Vaisnavism.
+
+2. Or, was Virabhadra worshipped by them? The next verse shows that
+Virabhadra was worshipped by Suras,
+
+## Page 54
+
+50 Skanda Purana
+
+Reality call it Linga, because of its being a place of rest (to the
+absorbed).
+
+25. The Linga became pervaded by the spheres of the
+Cosmic Eggs. It was embellished with Rudradksas. It grew so
+large that it could not be surpassed by anyone.
+
+26-27. Then all Devas and sages of great lustre eulogized
+the great Liga by means of the Vedic words (Mantras) sepa-
+rately:
+
+“O lord, you are minuter than the atom. So also you are
+greater than the greatest. Hence, O lord Siva, you must make
+such arrangements as to make the worship of the Liga easy for
+everyone.””
+
+28-35. At that time itself, many types of Lingas were evolv-
+ed by Sarva (Siva)!, viz. the Brahmegvara Lingain the world
+called Satya (god Brahma’s region), Sada@iva Liga in Vaikuntha,
+a well-established Liga named Amare§vara in Amaravati
+(Indra’s capital), Varupesvara Linga in the city of Varuna, Lord
+Kalesvara in the city of Yama, Nairrtesvara Linga in the city of
+Nirsti, Pavanes§vara Linga inthe city of Vayu, in the Mrtyu-
+loka? Kedara Linga as well as Amaresvara, Omkara Linga as well
+as Mahdakdla in the Narmada (region), Lord Visvesvara in Kasi,
+Lalitesvara in Prayaga, Triyambaka in Brahmagiri (Nasik Dis-
+trict) as well as Bhadre§vara in Kali, DradksdrameSvara' Linga
+in the place of the Union of Ganga with ocean, the Linga
+remembered as SomeSvara in Saurastra, Sarvesvara Linga
+onthe Vindhya, Sikharegvara Linga on Srigaila, Mallalanatha®
+(2) in Kanti, Simhanatha in Singala (Simnhala), so also many
+Lingas such as Viriipdksa Linga, Kofisankara, Tripurantaka,
+Bhime§a, Amaresvara, Bhoge§vara and Hatake§vara in Patala.
+These and many other Lingas of this sort were installed in all
+the three worlds by Devas for helping the entire universe.
+
+1. The list of Lizigas and their locations shows that the Lifiga is worship-
+ped in the three worlds and by great gods like Brahma, Visnu, Indra and
+others,
+
+2. This list covers most of the Jyotirlingas in India.
+
+3. G.M. (Guru Mandala edition of SkP) reads instead: kamadam malli-
+natham ‘Mallinatha who confers desired objects’.
+
+## Page 55
+
+1.1.7.36-46 51
+
+36. And thus all the three worlds became full of great
+Lingas. Similarly, gods created VirabhadramSas (portions of
+Virabhadra) for worship.
+
+37. There were twenty-eight Samskaras (consecratory rites)
+there in the process of worship of Liviga. They were mentioned
+by Sankara himself.
+
+38-41. There are eternal Sivadharmas mentioned by Rudra
+where Virabhadra, Rudra and other Gurus (preceptors) are re-
+membered. The sons of Gurus also have become famous in the
+three worlds as Gurus. Only Nandi knows factually the great-
+ness of Linga. So also lord Skanda and those others who bear
+his names.
+
+Allthe Sivadharmas have been glorified as mentioned by
+Nandi, the son of Silada. Many wonderful persons of exalted
+nature have been glorified as bearers of Lingas.}
+
+‘Linga is held above a dead body by the ancient people.
+
+42. Living with Linga and dying with Linga—these virtuous
+rites have been established by Sailada (Nandin).
+
+43-45. The religion of the Pasgupata established by Skanda
+is the most excellent one. The five-syllabled Mantra (Na-mah-
+Si-va-ya) is the purest. Then comes the Prdsadi (Omkdra)
+Mantra. The six-syllabled Mantra (Om, na-mah-Si-vd-ya) is the
+illuminator of the Pranava.?
+
+From Skanda it was acquired by the noble-souled Agastya.
+Afterwards due to the difference in the preceptors, many Agamas
+were composed.
+
+46. Of what avail is much talk? Those who utter the two
+
+1. This is not a reference to the Lingayata cult. Inscriptions from North
+Karnatak and (western) Andhra testify to the existence of a Saiva cult
+(Simmha Parisad) of Kashmira Brahmins who followed Lakuldgama. They
+worshipped Siva in the Liriga-form and wore Linga on their persons. They
+received royal grants for conducting Pdthasalas to teach Veda, Vedanta,
+Yoga. Their temples and Mathas along with educational institutes were
+taken over by Lingayatas in the 13th century. (Vide S.C. Nandimath, A Hand
+Book of Virasaivism, Dharwar 1942.) I have dealt with this problem in my
+work Saiva Philosophy which is being published by MEP (Marathi Encyclo-
+paedia of Philosophy) Council, Pune. (Translator)
+
+2. In Mantra Sastra, Omkara Bija is called Prasdda.
+
+## Page 56
+
+52 Skanda Purdya
+
+syllables Si-va everyday are Rudras themselves.! There is no
+doubt in this matter.
+
+47. Those who follow the path of good people are all
+Purantakas (Siva), They should be known as heroes of Mahes-
+vara.? They destroy the sins of men.
+
+48. Those who perform rites of devotion incidentally, as a
+consequence of something else, by chance or as an act of faith,
+attain the goal of the good.
+
+49. Listen. I shall narrate an old legend in this connection.
+Sweeping was performed formerly by a female bird in a temple
+of Siva.
+
+50. It had come (into the temple) for the sake of food. The
+Naivedya was offered by someone. When it fluttered its wings,
+the dust particles happened to be swept away.
+
+51. Asaresult of that meritorious deed, she went to the
+excellent heaven. After enjoying the heavenly pleasures, she came
+back to the fierce world once again.
+
+52. She was born as the daughter of the king of Kasi. She
+became famous by the name Sundari. Thanks to the previous
+experience, that girl of auspicious features became a great chaste
+lady.
+
+53. Early in the morning, the lady of slender limbs was
+always present at the doorway of the temple of Siva. With great
+devotion she used to sweep the premises.
+
+54. The gentle princess, Sundari, did everything herself. On
+secing her in that activity, Uddalaka, the sage, enquired:
+
+55-56. “O girl of splendid features, youare delicate in body.
+Why do you sweep yourself, O girl of bright smiles? O gentle
+lady, you have in front of you many men and women servants.
+At your bidding they will do all the sweeping work etc.”
+
+57. Onhearing those words of the sage, she laughingly
+said thus:
+
+58-60a. “The men and women who render service to Siva,
+those who are prompted by devotion to Siva, do go to the
+
+1. The importance of uttering God’s name has been emphasized all over
+
+India by Saints and Acdryas even today.
+2. Vira Mahesvarah. Is the term (name of a sect) ‘Vira-Saiva’ derived
+
+from this?
+
+## Page 57
+
+1i.7.60b—Li.8.5 53
+
+world of Siva. The sweeping must be done by one’s own hands.
+One should go to the temple on one’s own foot. Hence, sweeping
+is done by me unweariedly. I do not know anything else, except-
+ing the single act of sweeping.”’*
+
+60b-62. On hearing her words, the sage pondered: ‘Who is
+she? What has been done by her previously? By whose favour
+(did she get all these)?’ Then everything was understood by the
+sage through the eye of (the power of his) spiritual knowledge.
+
+63. Struck with wonder, he became silent. After knowing
+it, he became surprised. Thinking about the power of Siva,
+Uddalaka, the most excellent among the learned ones, attained
+the greatest enlightenment. He became calm and quiescent.
+
+CHAPTER EIGHT
+
+The Story of a Thief: Incarnation of Rama
+
+Lomasga said:
+
+1-3. O Brahmanas, once there was a great sinner.2 He was
+a thief. He was excommunicated from all religious rites. He was
+a Brahmana-slayer, a drink-addict and a thief of gold. He sought
+the company of excellent women in an illicit way. He was stupid
+and slow and always engaged in gambling along with gamblers
+and cunning fellows. Once while playing, he lost wonderfully
+(large amount). Smashed and hit by rogues and gamblers, he did
+not speak anything.
+
+4-5. Though he was harassed and tormented, he kept quiet.
+Then that great sinner was asked thus by them: “‘You have lost
+this much wealth in the game of dice. Are you going to give it
+or not? O wicked fellow, let this be told immediately and
+
+1. The fruit of rendering slightest service to Siva, even unknowingly, is
+highly efficacious. The Purana abounds in such legends.
+
+2. Lord Siva is extremely kind even to wicked robbers. The superb
+magnanimity of Siva is illustrated in this story in which a gambler-thief is
+elevated as his Gana by Siva.
+
+## Page 58
+
+34 Skanda Purdna
+
+precisely.” Then he said: ‘What has been lost by me, I shalt
+give at night.”
+
+6. Thanks to that statement, he was released by them. Those
+gamblers and rogues then went away. Then at mid-night he
+went to the temple of Siva.
+
+7. Climbing on tothe head of Sathbhu, he attempted to
+take the bell. At that time on the peak of Kailasa, Sarnbhu said
+to his servants:
+
+8. ‘What has been done by this fellow today is far superior
+to anything done by anyone on the earth. He isthe most excel-
+lent one among all my devotees, hence he is my great favourite.”
+
+9. After saying this, he commanded the Ganas beginning
+with Virabhadra to bring him (the thief-gambler). They hurriedly
+started from Kailasa, the favourite (resort) of Siva.
+
+10. The three worlds were filled with the sound of Damarus
+by all of them. On seeing them, the evil-minded thief got down
+suddenly from the top of the Lifga and took to his heels im-
+mediately.
+
+11-14. On seeing him fleeing, Virabhadra called him: “Whom
+do you fear, O stupid fellow? Maheégvara, the lord of Devas,
+has been pleased with you, as he is very liberal-minded.””
+
+After saying thus and placing him in the aerial chariot, he
+came to Kailasa. The thief was made an attendant by that noble-
+souled (lord).
+
+Hence, devotion to Siva must be preserved and cultivated by
+all embodied beings. Even animals will be worthy of being wor-
+shipped thereby. What to say of men on the earth?
+
+15-16. The followers of Tarka-Sdastra are engaged in abstract
+reasoning and arguments.! So are the followers of the Mimamsa
+School. They go on arguing and disputing among themselves.
+And there are others who deliberate on and discuss about the
+existence, nature etc. of the Soul, but never reach any unanimity,
+or reconciliation of (their) differences. They are excluded from
+the worship of Siva. Without Siva, of what significance are
+they, by whom only arguments are forwarded?
+
+17. Of what avail is much talk? All mobile and immobile
+beings, all animals too, are born bearing the Lirga.
+
+“1. Devotion to God is superior to learning. This teaching has been incul-
+cated by all Indian saints since the days of this Purana.
+
+## Page 59
+
+Li.8.18-28 55
+
+18. Just as the Linga is placed (and consecrated) in con-
+junction with the Pingf (globular solid pedestal), so also men
+are endowed with Lingas and women are Pindis.
+
+19. The entire universe consisting of the mobile and
+immobile beings is endowed with (the union of) Siva and Sakti.
+Those are foolish fellows who, out of delusion, eschew devotion
+to such Siva and worship others.
+
+20. Their Dharma is extremely insignificant, perishable and
+momentary. He who is Visnu should be known as Siva. He
+who is Siva is Visnu alone.?
+
+21. The pedestal is the form of Visnu and Mahesgvara is in
+the form of Lirga. Hence the worship of Linga, O Brahmanas, is
+excellent for everyone.
+
+22. Brahma worships a Ruby-Livga always, Indra worships
+a Linga made of gems and Candra (the Moon-god) one of pearls.
+
+23. Bhanu (the Sun-god) always worships a splendid copper
+(-coloured) Linga. Kubera worships a golden Liiga and Varuna
+a Linga red in colour.
+
+24. Yama worships a sapphire Linga, Nairrta worships a
+silver Linga, Pavana (Wind-god) always worships a saffron Liriga
+of the lord.
+
+25. Thus, all Guardians of the Quarters including Indra have
+been characterised as worshippers of Linga. So are all (persons)
+in the nether world and also Gandharvas and Kinnaras.
+
+26-27. Among Daityas, O Brahmanas, there are certain
+devotees of Visnu, the chief of whom was Prahlada.? So also
+among Raksasas, those having Vibhisana as their leader.
+So also (were) Bali, Namuci, Hiranyakasipu, Vrsaparvan, Vrsa,
+Sarnhrada and Bana.
+
+28. These and many others who were the disciples of the
+intelligent Sukra were engaged in worshipping Siva. All these
+Daityas and Danavas (were devotees of Siva).
+
+1. The identity of Siva and Visnu is repeated ad nauseam. The pedestal
+which was stated as Sakti above in v. 19, is now stated to be Visnu and the
+Linga is Siva. Thus Siva and Visnu become identical and therefore Vaisna-
+vas are advised not to express aversion to Siva.
+
+2. As Visnu and Siva are united in the Liriga and its pedestal, worship of
+Siva-Linga is automatically the worship of Visnu who is there as the pedestal.
+So the Vaignavas need not entertain any aversion to Liriga-worship.
+
+## Page 60
+
+56 Skanda Purdga
+
+29-32. All the following were Raksasas and they were al-
+ways engaged in the worship of Siva. They were: Heti, Praheti,
+Sarnyati, Vighasa, Praghasa, Vidyujjihva, Tiksnadarstra, Dhim-
+raksa of terrible valour, Mali, Sumali and the extremely terrible
+Malyavan, Vidyutkesa, Tadijjihva, Ravana of great strength, the
+invincible Kumbhakarna and Vegadarsi of great valour. These
+were great Raksasas, who were always engaged in worshipping
+Siva. After worshipping the Linga formerly, they had always
+attained Siddhi.
+
+33. A severe penance unbearable to all was performed by
+Ravana. Then Mahadeva, the lord of penance, became much
+pleased.
+
+34-35. He granted him boons very difficult to be achieved
+by all others. Wisdom with perfect knowledge was obtained by
+him from Sadasiva. He further obtained (invinicibility) in battle
+and twice the number of heads (as those of god Siva), for Maha-
+deva had only five faces, whereas Ravana had ten faces.
+
+36. Thanks to the grace of Mahesa, that powerful (Rak-
+sasa) defeated Devas, sages and manes by means of his penance
+and became superior to all.
+
+37. He was made the great king and ruler of Trikita by
+MaheSa. He occupied the greatest and most excellent position
+(seat) among Raksasas.
+
+38. It was for testing (the enduring capacity of) the sages
+that he harassed them. Violence towards the sages was indulged
+in, O Brahmanas, by Ravana who was himself an ascetic, only
+because he wanted to test them.
+
+39. Ravana who made the whole world cry and scream, be-
+came great and invincible. Thanks to the grace and favour of
+Sankara, another creation was evolved by him.
+
+40. The guardians of the worlds were conquered by that
+ascetic by means of his valour. Brahma too was subdued by him
+only through great penance.
+
+41. By becoming the nectar-rayed one, he conquered the
+Moon, O Brahmanas. Through the power of burning, the Fire-
+god was conquered and Iga (himself) was conquered by lifting
+up Kailasa (mountain).
+
+42. Indra was conquered by means of his Aisvarya (power
+and prosperity). So also Visnu, the omnipresent one. By wor-
+
+## Page 61
+
+1.j.8.43-53 357
+
+shipping and propitiating the Li7iga, all the three worlds were-.
+controlled by him.
+
+43. At that time, all the groups of Suras, with Brahma and
+Visnu as their leaders, gathered together on the top of Meru
+and began their deliberation and discussion:
+
+44-45. “We have been tormented by Ravana through his
+penance, very difficult to be performed (by others). O Devas, let
+this wonderful story be listened to. On the mountain named
+Gokarna, worship of the Linga itself was performed by that
+noble-souled (hero). What could be known only through know-
+ledge, what could be achieved only through knowledge, whatever
+great miracle was there, that which is very difficult to be surpas-
+sed by everyone—all these were done by Ravana alone.
+
+46. He had adopted the greatest vairdgya (detachment) as
+well as liberal-midedness greater even than that (vairagya). The
+feeling of mamatd (mineness) was eschewed by the noble-souled
+Ravana.
+
+47. After a period of a thousand years, that (hero) of great
+arms cut one of his own head and offered it with his own hand,
+for the sake of worshipping the Liniga.
+
+48. Ravana’s body short of one head stood in front of it in
+the vicinity. It was endowed with Yogic dharanda (steady abstrac-
+tion) and the greatest samadhi (concentration).
+
+49. Fixing his attention deeply on the Linga after about a
+kala, he cut off another head and worshipped Siva with it. Such
+(performance of) worship was never done by any sage nor by any-
+one else.
+
+50. Thus many heads were chopped off and offered by him
+in worshipping Siva. Again and again he became a_ headless
+body. Then Siva became a bestower of boons.
+
+51. ‘Formerly without being myself transformed into a
+Pindi...1O descendant of Pulastya, choose boons as you please.
+I shall grant you the same.’
+
+52-53. Then Siva of greatest auspiciousness was requested
+by Ravana: ‘If Your Lordship ate pleased, the excellent boon
+should be given to me. I do not wish to seek any other boon. If
+you have merciful favour towards me, you should give me such a
+boon whereby I (always) resort to your feet.’
+
+1. Some lines are missing in the text.
+
+## Page 62
+
+58 Skanda Purana
+
+54. Then Ravana who made the world cry and scream was
+told by Sadagiva: ‘By my favour, you will obtain everything
+mentally desired by you.’
+
+55-59. It was thus, O leading Suras, that everything was
+obtained by Ravana from Siva. Hence this Ravana should be
+subdued by you all only through great penance. This is what I
+think.”
+
+On hearing the words of Acyuta, the groups of Devas begin-
+ning with Brahma became anxious, because all of them had been
+addicted to sensual pleasures.
+
+Brahma was overpowered by sexual desire and he attempted
+sexual act with his own daughter. Indra was an adulterer.
+Candra (the Moon-god) defiled the bed of his Guru (preceptor
+Brhaspati). Yama has been avaricious and stingy. Sadagati
+(the Wind-god) has been fickle. Pavaka has been indiscriminate
+in cating anything and everything. The others among the groups
+of Devas (had similar defects). Hence, all these were incapable
+of conquering Ravana who had become very great by means of
+penance.
+
+60. Sailada was an elderly excellent Gana of great splend-
+our. He was intelligent, an expert in adopting the right course of
+action, highly powerful and very valorous.
+
+61-62. He was a favourite of Siva and was identical with
+Rudra. The noble-souled one asked all of them led by Indra,
+“Why have you all come here in great excitement? Let the whole
+thing be reported in detail.”
+
+On being asked by Nandi, all of them hurriedly said then:
+
+Devas said:
+
+63. All of us along with the sages have been conquered by
+Ravana. We have come to propitiate Siva, the lord of the lords
+of the worlds.
+
+64. Lord Nandi laughed and said to Brahma: ‘‘Where are
+you? Where is auspicious Sarnbhu? (There is a world of differ-
+ence between you two.) By means of great penance, he should
+be seen seated in the middle of the heart. He cannot be seen
+today.
+
+65. As long as the emotional attitudes are too many, the
+
+## Page 63
+
+1.1.8.66-79 59
+
+objects of senses are plentiful and there is the feeling of mine-
+ness, so long Ifa is very difficult to be attained.
+
+66. Siva in the form of the Liriga is easy of access to those
+noble-souled ones who have subdued the senses, are quiescent
+and have stabilized themselves in him. He is very difficult to be
+obtained by you all.”
+
+67. Then Brahma and other Devas as well as the learned
+sages bowed down to Nandi and said:
+
+“Why do you have the face of a monkey?! Tell us everything
+about it. Tell us about the power of the penance of Ravana.”
+
+Nandi§vara said:
+
+68-70a. Kubera had been made by the noble-souled Sankara
+the over-lord of wealth and assets. Ravana came here to see him,
+riding in his own vehicle. He was in a hurry. On seeing me, he
+said furiously: “Did Kubera come here? Was he seen by you
+here? Let this be told immediately.”
+
+70b-72. He was asked by me: ‘““What have you to do with
+Dhanada (Kubera) today?”
+
+Then Ravana of great splendour, who made the world scream,
+said: “At the outset he (Kubera) had been indifferent towards
+me. He did not care for me. Addicted to sensual pleasures, as he
+is, he has been highly arrogant. He began to teach me saying,
+‘O lord, it should not be done like this. Just as I am
+endowed with glory and splendour, just as Iam rich and strong,
+so also you do become, O fool. Do not get into delusion and
+stupidity.’
+
+73. Ihave been made a fool and a deluded person by the
+noble-souled Kubera. On being turned out by me angrily, that
+Guhyaka (i.e. Kubera) performed penance.
+
+74, Did that Kubera come, O Nandi, to your abode? Let
+that Kubera be handed over (to me). You need not hesitate in
+this matter.”’
+
+75-79. On hearing the words of Ravana, I hurriedly replied:
+“You are a Liigaka (worshipper of Linga), an exalted one. I too
+
+1. Astory to explain why Visnu incarnated in human form as Rama and
+with his army of monkeys killed Ravana, This story, as in SkP, here, has
+no basis in Valmiki Raémayara.
+
+## Page 64
+
+60 Skanda Purana
+
+am one like that. Knowing the equality between us both you are
+prattling in vain, O vicious one.”
+
+As he was told thus, he in his arrogance due to his might,
+asked me about my face in the same manner as I have been asked
+about my face by you noble-souled ones. The old story was re-
+counted by me about the benefit of the holy rite of the worship
+of Siva. “‘Sariipya (having the same form as that of the lord) was
+granted by Siva, but it was not accepted by me then. The face of
+a monkey was requested by me from Sarhbhu. It was then gran-
+ted to me kindly by Siva who is by nature compassionate.
+
+Those who are devoid of false prestige, those who are free
+from arrogance and those who have no property or possessions,
+should be known as favourites of Sarnbhu. Others are excluded
+by Siva.”
+
+80-86a. Then Ravana said to me: “On the strength of my
+penance, I had been sensible enough to request for ten heads.”
+
+At his derisive statement, Ravana who made the world scream,
+
+was cursed by me then:
+
+“When an excellent man of great penance accompanied by
+those who have faces like this (monkey faces like mine) (Comes
+to your city) keeping me at the head, he will undoubtedly kill
+you.”
+
+Thus, O Brahma, Ravana who made the world scream,
+was cursed by me. Only the Liga was worshipped by Ravana
+without the noble-souled Visnu stationed in the form of the
+pedestal, O excellent Suras. Hence, O excessively fortunate
+ones, Mahesvara, Mahadeva, the lord of Devas, in the form of
+Visnu will carry out everything. May all of you pray to Visnu
+lying within the cavity of the heart of everyone. Therefore, I
+shall be at the head of all Devas.
+
+86b. On hearing the words of Nandi, all of them became
+joyous in their minds. They came to Vaikuntha and began to
+eulogize Visnu by means of (good) words.
+
+Devas said:
+
+87. Obeisance to you, the lord, O lord of Devas, O lord of
+the universe. This entire universe consisting of mobile and
+immobile beings has you for its basis and support.
+
+## Page 65
+
+11.8.88-100 61
+
+88. This Lirga has been held by you, O Visnu, in the form
+of the Pindi (globular pedestal). In the form of Mahavisnu (the
+demons) Madhu and Kaitabha were killed by you.
+
+89. Similarly, in the form of a tortoise, the Mandara moun-
+tain was held up and supported by you (at the time of churning
+of ocean for nectar). Assuming the form of a boar, Hiranyaksa
+was killed by you.
+
+90. Hiranyakasipu, the Daitya, was killed by you by
+assuming the form of Nrhari (Man-lion). Bali, the Daitya, was
+held and bound by you in the form of Vamana (Dwarf).
+
+91. The son of Krtavirya (Sahasrarjuna) was killed by you
+after taking birth in the family of Bhrgus. Hereafter too, O great
+Visnu, protect us in the same manner.
+
+92. It behoves you to protect us instantaneously from the
+fear of Ravana.
+
+93. On being entreated thus by Devas, the lord Vasudeva,
+the sanctifier (the creator) of all living beings, who is immanent
+in the universe, said to all those Suras:
+
+94. “O Devas, let this important statement he heard. It is
+relevant to this occasion. With Sailadi (Nandin) as your head
+(leader), all of you immediately take incarnations in the form
+(bodies) of monkeys.
+
+95. Ishall become a human being enveloped by Ajfdna
+(Ignorance). I shall be born in Ayodhya in the abode of Dasga-
+ratha for the attainment of your objectives. I am having Brahma-
+vidya (the knowledge of Brahman) as my assistant.
+
+96. Brahmavidya@ herself will be born in the abode of
+Janaka.1 In fact, Ravana is (my) devotee as he is directly engag-
+ed in the meditation on Siva.
+
+97. When aman endowed with great penance desires for
+Brahmavidyda, he can be easily managed and won over by means
+of virtue.”
+
+98-100. After saying this, lord Visnu, the highly auspicious
+one (vanished).
+
+1. Valmiki Ramayana 1.1. 27-30 compares Sita to Devamay& (devamdyeva
+nirmitd) but our text claims her as an incarnation of Brahma-vidyad as a
+suitable consort to Visnu (the future Rama). The important persons in the
+Ramayana are incarnations of various gods.
+
+## Page 66
+
+62 Skanda Purana
+
+Vali was born of a part of Indra. Sugriva was the son of the
+Sun. Jambavan, the leading Rksa (bear), was born of a part of
+Brahma. Nandi, the son of Silada, who was a favourite follower
+of Siva, incarnated as the great monkey Haniman for rendering
+assistance to Visnu of unmeasured splendour.
+
+101. The monkeys beginning with Mainda were all the ex-
+cellent Suras. Thus, all Suras incarnated in a befitting manner.
+
+102. Similarly, Visnu was born as one who increased the
+delight of Kausalya. He is called Rama by learned men, be-
+cause he pleased and gratified the entire universe.
+
+103. Due to his devotion to Visnu, Sega descended on
+the earth by means of the power of his penance.
+
+104. The mighty arms of Visnu incarnated as the valorous
+(Princes) named Satrughna and Bharata well-renowned in the
+three worlds.
+
+105. She who was mentioned as Brahmavidya by the ex-
+pounders of the Vedas, incarnated as the daughter of the ruler of
+Mithila for the fulfilment of the task of Suras. She was born from
+a furrow arising from the ploughing of the field with the plough-
+share.
+
+106. Hence, she became famous as Sita. She was the Science
+of Metaphysics (personified). Since she was born in Mithila, she
+is called Maithili.
+
+107. She was born in the family of Janaka. Hence, she is
+well-known as Janakatmaja (Janak!). This Brahmavidya, the
+destroyer of sins, was formerly known as Vedavati.
+
+108-110. She was given by Janaka himself to Visnu, the
+Supreme Soul. Along with her, the Vidya (incarnated), Visnu
+the greatest among the auspicious ones, the lord of Devas, the
+lord protector of the universe, became engaged in a severe
+penance. As he was desirous of defeating Ravana for the sake of
+the fulfilment of the task of Devas, the lotus-eyed Rama stayed
+in forest (for the same purpose).
+
+1. Sita means ‘a furrow’. In Reveda IV.57.6, Sita is invoked as a presid-
+ing deity of Agriculture. In Vajasaney! Samhita X11.69-72 Sita (a furrow) is
+personified. Here, Sita is said to be ‘born’ of the furrow while ploughing. She
+is called the incarnation of Anviksiki and Brahmavidya.
+
+## Page 67
+
+1i.8.111-123 63
+
+111. Though the great incarnation of Sega, (Laksmana)
+performed an exceedingly difficult penance by means of his great
+Sakti (power), for the sake of the fulfilment of the task of
+Devas.
+
+112-115, Satrughna and Bharata too performed very great
+penance. Rama who was thus endowed with the power of
+penance and was assisted and accompanied by those groups of
+Devas, killed Ravana along with his followers within six months,
+Killed by Visnu by means of weapons, O sages of holy rites, he
+attained Sdriipya (having the same form as the god) of Siva,
+along with his kinsmen and followers. By the grace of Siva, he
+became (realized) the entire Dvaitddvaita (the essence of the
+philosophy of dualism and non-dualism).! Even the sages are
+deluded inthe matter of discrimination between dualism and
+non-dualism. Men who are engaged in worshipping Siva derive
+all those things.
+
+116. Those who continuously worship Siva in the form of
+Linga, whether they be women or sidras or candalas or other
+low-caste pcople, do attain Siva, the destroyer of all miseries.
+
+117-118. Even animals have attained the supreme lord. What
+then to say about human beings? The twice-born castes who
+have practised great penance observing the vow of celibacy and
+who have performed Yajfias for many years have attained (mere-
+ly) Svarga (Heaven).
+
+119-123. There are many Yajfias® such as Jyotistoma, Vdaja-
+peya, Atiradtra and so on. These Yajfias undoubtedly do bestow
+heavenly pleasures on those who perform them. After enjoying
+the heavenly pleasures, when their merits become exhausted,
+those sacrificers come back to the mortal world. Having descend-
+ed to the world, they are born inthe different species with their
+
+1. The Purdna-writer has respect for Dvaitddvaita philosophy. This
+school holds the reality of both Dvaita (dualism between man and God) and
+Advaita (non-dualism between them). Nimbarka (11th cent. A.D.) in his
+Com. Veddanta-Parijata-Saurahha on the Brahma Sitra has advocated this
+doctrine. But this theory is older than the Brahma Sitra itself, as we find
+such views of Audulomi, Asmarathya quoted by the author of the Brahma
+Siitra.
+
+2. VV 119-128 emphasize the Liviga-worship as superior to performance
+of sacrifices. Sacrifices lead to a temporary stay in Svarga, while the Liriga-
+worship dispels Maya and leads to Moksa.
+
+## Page 68
+
+64 Skanda Purdya
+
+intellect of the nature of the three Gunas of Sattva, Rajas and
+Tamas. Thus, many souls wander about in cycles of birth and
+death. By chance or as good luck would have it, some of them
+serve Siva.
+
+124. Instantaneous removal of Mdayd takes place in the case
+of men who are engaged in regular meditation on Siva and who
+have restrained their minds and not otherwise.
+
+125. When Maya is dispelled, the three Gunas perish. Then
+a person transcends the three Gunas and becomes liberated
+thereby.
+
+126-128. Hence, the worship of Liga should be thought of
+and pursued by all embodied beings. Siva assumes the form of
+Linga and protects all mobile and immobile beings.
+
+Formerly I have been asked by you about how Siva assumed
+the form of Linga. Everything has now been truthfully spoken
+(by me), O Brahmanas.
+
+How Siva, the great lord of the worlds, swallowed poison
+(Halahala), may be listened to, O Brahmanas. I shall recount it
+to you as it actually took place.
+
+CHAPTER NINE
+
+The Churning of the Ocean
+
+Lomasa said:
+
+1-2. On one occasion Indra, the lord of Devas, was seated
+in the middle of the assembly surrounded by the guardians of
+the worlds, Devas and Sages. He was encircled by bevies of
+celestial damsels and was honoured by Gandharvas. Songs in
+
+1, This is a favourite topicof Puradna-writers as can be seen from its
+description in Mbh, Adi. 18, VR 1.45.17-18, BhP VIII.5.11-18, BdP
+1.ii.25, MtP 249-250 to mention afew. The background of the churning
+of the ocean is different in our text. It is for the recovery of the gems of
+Indra which were sunk into the sea that Devas and Asuras agreed to churn
+the ocean. In Mbh it was god Narayana who advised god Brahma to
+churn the ocean for getting Amrta (Adi. 17.10-13).
+
+## Page 69
+
+1.1.9.3-15 65
+
+praise of his conquest were being sung by Siddhas and Vidya-
+dharas.
+
+3. At that time Brhaspati who was the scholarly preceptor
+of the king of Devas and was of exalted fortune and liberal-
+minded, came there surrounded by his disciples.
+
+4. On seeing him Devas who had been sitting there prompt-
+ly bowed down to him. Indra too had seen Vacaspati’s (Brhas-
+pati’s) arrival.
+
+5. But the vicious-minded lord did not utter a single word
+in his honour. No word of welcome, no offer of seat, no formal
+permission to Icave was accorded to him.
+
+6. Knowing that Sakra had become arrogant and evil-
+minded due to royal authority, Brhaspati became angry and he
+vanished.
+
+7. When the preceptor of Devas had departed, Suras be-
+came dejected. Yaksas, Serpents, Gandharvas and sages also be-
+came depressed in mind, O Brahmanas.
+
+8. At the end of the music recital, Indra (as it were) regain-
+ed consciousness. He asked Suras immediately, “Where has (the
+preceptor) of great penance gone?”
+
+9-10. At the very same time, Sakra, the lord of Devas, was
+informed by Narada: “The preceptor has been insulted by you.
+There is no doubt about it. O slayer of Bala, your kingdom has
+gone due to the disrespect (shown by you) to the preceptor.
+Hence, by all means, you have to plead to him for forgiveness.”
+
+11. On hearing these words of the noble-souled Narada,
+Sakra suddenly got up from his seat. Surrounded by all of them
+(Devas etc.), he hastened to the abode of his preceptor promptly
+(without any slackness).
+
+12. He bowed down to Tara at the outset and asked her,
+“Where has (our preceptor) of great penance gone?” Tara star-
+ed at Sakra and said, “I do not know.”
+
+13-15. Thereupon, Sakra became worried and returned to
+his own house. In the meantime, there appeared mysterious ill-
+omens in heaven, causing misery to everyone including the
+noble-minded Sakra himself.
+
+All the activities of Sakra were known to Bali who was statio-
+ned in the nether worlds. Surrounded by Daityas, he went from
+
+## Page 70
+
+66 Skanda Purana
+
+Patala to Amaravati. Thereupon a great fight ensued between
+Devas and Danavas.
+
+16-18. Devas were defeated by Daityas. Instantaneously
+the whole of the kingdom of Sakra, the deluded and evil-
+minded one, was conquered by them and everything (belonging
+to Sakra) was quickly carried to Patala. It was by the grace of
+Sukra that all of them became victorious. Sakra became bereft
+of glory and splendour. So he was utterly abandoned by Devas.
+The goddess (of fortune) with lotus-like eyes vanished.
+
+19. The great elephant Airavata, the horse Uccaihsravas
+and many other precious things and jewels were taken away
+immediately by Daityas of evil behaviour due to greed.
+
+20. The good ones among them fell into the ocean. Bali
+who was surprised at this, remarked to his preceptor:
+
+21. “It is mysterious that many jewels brought by us after
+defeating Devas have fallen into the ocean.”
+
+22-23. On hearing the words of Bali, Usanas (i.e. Sukra)
+teplied to him: “One can attain the heavenly kingdom only
+through performance of a hundred horse-sacrifices. There is
+no doubt about it that it will be acquired by one who is
+initiated in it. Hence, the enjoyer is also he himself. Without
+performing a horse-sacrifice, heavenly pleasures cannot at all be
+enjoyed.”
+
+24. Understanding the utterance of his preceptor, Bali be-
+came quite silent. What was proper and befitting was carried
+out through and along with Devas.
+
+25. Indra too, on attaining a miserable plight, went to
+Paramesthin (Brahma) and informed him of everything, such
+as the danger to his kingdom and other things.
+
+26-28. On hearing the words of Sakra, Paramesthi said:
+“We shall gather together all the Suras and go immediately along
+with you to Visnu, the lord of all lords, in order to propitiate
+him.”
+
+Saying ‘So be it”’ all those guardians of the worlds beginning
+with Sakra went to the shore of the Milk Ocean with Brahma
+at their head. After sitting there all of them began to eulogize
+Hari.
+
+## Page 71
+
+Li,9.29-40 67
+
+Brahma said:
+
+29-31. O lord of the universe, O lord of Devas bowed down
+to by Suras as well as Asuras, obeisance to you, O great
+Atman, of auspicious reputation, O infinite one, O immutable
+one, free from decay.
+
+You yourself are Yajfia. You are of the form of Yajfia, O
+consort of Laksmi. Hence, be the bestower of boons unto the
+Devas.
+
+By insulting his preceptor, Indra has lost (everything)
+from his kingdom along with the celestial sages. Hence redeem
+him.
+
+The Lord said:
+
+32. There is no wonder in the fact that everything perishes
+by insulting the preceptor. Those who are sinners, who are
+completely engaged in evil activities, who indulge only in sensual
+pleasures and by whom parents are censured, are undoubtedly
+godless ones.
+
+33. Immediately he has acquired the fruit,O Brahma, of
+what he has committed. Difficulty and misfortune have befallen
+all due to the act of this Sakra.
+
+34. When a person faces adverse circumstances, they say
+that, he must be friendly with all living beings in order to achieve
+all his purposes.
+
+35. For that reason, Indra, do as I suggest. For the realiza-
+tion of your purpose, alliance should be formed by you with
+Daityas.
+
+36. On being commanded by the lord, the highly intelligent
+Sakra left Amaravati and went to Sutala along with Devas.
+
+37. On seeing that Indra had come, Indrasena became
+furious. Along with his army, he was desirous of killing Indra.
+
+38. Then by means of different types of (consoling) words,
+Daityas and Bali, the most excellent one among strong persons,
+were prevented from killing him by Narada.
+
+39-40. At the instance of that same sage, Bali controlled
+(abandoned) his anger. Indra then came in along with his army.
+He was seen by Indrasena surrounded by the guardians of the
+worlds.The king of Daityas hastened to tell him laughingly:
+
+## Page 72
+
+68 Skanda Purana
+
+41. “Wherefore have ‘you come here to Sutala, O Sakra?
+Let it be mentioned.” On hearing these words, he said smilingly:
+
+42. “We are the descendants of Kasyapa. All of you are
+also so. Just as we are, so also you are. Clash and quarrel is
+meaningless.
+
+43. As fate would have it, my kingdom was seized by you
+instantaneously. So also many gems were taken away by you.
+Though brought with very great effort, they too have gone.
+
+44. Hencea learned person must deliberate and ponder.
+One gets knowledge by means of deliberation and liberation
+originates from knowledge.
+
+45. But alas! of what avail is my utterance in front of you?
+Ido not know. T have approached you along with Suras as a
+person seeking refuge.””
+
+46. On hearing these words of Sakra, the intelligent (Daitya),
+the most excellent one among knowers (learned), the most exccl-
+lent one among those who know what to say, said laughingly to
+Sakra:
+
+47. ‘For what purpose, O Devendra, you have come, 1 do
+not know.”
+
+48. On hearing thos: words, Sakra’s eyes became filled
+with tears. He did not say anything. Narada spoke to him the
+following words:
+
+49. “O Bali, don’t you know the difference between right
+and wrong activities? This is the virtue of great men. They pro-
+tect those who seek refuge in them.
+
+50. Thos2 who do not protect the one who seeks refuge, a
+Brahmana, a sick man and an old man, are (really) slaughterers of
+Brahmanas.
+
+51-52. He has come to your presence with words asking for
+refuge. He is worthy of being protected by you. There is no
+doubt in this matter.’’ On being told thus by Narada, the lord of
+Daityas himself pondered over everything with great understand-
+ing regarding what was right and what was wrong. With great
+respect, he honoured Sakra along with the guardians of the
+worlds as well as the groups of Devas.
+
+53. For the sake of credence, Puranadara performed many
+good holy observances of the Sattvika quality which created con-
+fidence in Bali.
+
+## Page 73
+
+1.1.9.54-68 69
+
+54, Thus Sakra entered into an agreement with Bali in order
+to further his selfish ends. That great lord stayed with Bali solely
+devoting himself to the (precepts in the) science of political
+economy.
+
+55. Thus Indra passed many years living in Sutala. Remem-
+bering the words of Visnu and pondering over them again and
+again, he thought of a plan.
+
+56. Once the king of Devas himself was sitting in the middle
+of the assembly (of Bali). Conversant with the right policy, he
+spoke laughingly these words to Bali:
+
+57-58. ‘Many gems and jewels, elephants etc. have dropped
+into the ocean, while you were bringing them here. They belong-
+ed to us then. They should be recovered from the ocean by you
+as well as by us, O heroic one.
+
+59. We must hurry up in exerting ourselves to recover those
+jewels from the ocean. Hence, it must be churned by you for
+the purpose of achieving the desired result.”
+
+60. Induced thus by Sakra, Bali, the slayer of Suras,
+spoke to Sakra immediately, “By whom and with what should
+the churning be done?”
+
+61-63. Then anethereal voice with the majestic rumbling
+sound of cloud said: ““O Devas, O Daityas, do churn the Ocean
+of Milk. There is no doubt about this that your strength will
+increase. Make the Mandara mountain the churning rod and
+Vasuki the requisite rope. Afterwards, O Devas and Daityas,
+join together and let the ocean be churned.”
+
+64. On hearing the words of that ethereal voice, all Suras
+exerted themselves along with Daityas.
+
+65. Those Suras and Asuras came out of Patala. They all
+came to the matchless, excellent mountain Mandara.
+
+66. Daityas were ten million in number. So also were Devas
+undoubtedly. Preparing themselves, they came to Mandara hav-
+ing golden lustre.
+
+67-68. It abounded in gems and precious stones. It was
+globular in shape. It was very big and exceedingly lustrous.
+Many gems were (lying scattered) all round. It had many trees
+such as sandal tree, Parijata, Naga, Punnaga and Campaka., It
+was full of various kinds of animals and deer, lions and tigers.
+
+## Page 74
+
+70 Skanda Purdna
+
+69. On seeing such a great mountain, all the excellent Suras
+joined their palms in reverence and said:
+
+Devas said:
+
+70. O mountain, all of us, the Suras have come here to
+submit to you. Listen to it, O great mountain, the helper of
+others.
+
+71-72. On being requested thus by Devas and Daityas then,
+the mountain Mandara came out in an embodied form and in
+that form the mountain Mandara said: ‘What for have all of
+you come to me? Let that be mentioned.”
+
+73. Then Bali said these words befitting the occasion. Indra
+too hurriedly spoke these courteous and sincere words:
+
+74. “O mountain Mandara, you cooperate with us in a
+great undertaking. O observer of holy vows, you should be the
+churning rod for the production of nectar.”
+
+75. Saying “‘So be it” and honouring their words, because
+it was for the accomplishment of the task of Devas, he spoke
+these words to Devas and Asuras and particularly to Indra:
+
+76. ‘My wings have been cut (by you) with the thunderbolt
+of hundred spikes. How is it possible for me to go for realizing
+your purpose?”
+
+77. Then all Devas and Asuras praised the mountain. They
+then uprooted that incomparable and wonderful Mandara
+mountain.
+
+78. But, though they were desirous of taking it to the Milky
+Ocean, they proved incapable of doing it. The mountain fell on
+Devas and Daityas.
+
+79. Some were crushed. Some died. Some fell into a swoon.
+Some of them began to blame and censure and some suffered
+great pain.
+
+80. Thus, Asuras, Suras and Danavas failed in their attempt.
+When they regained consciousness, they eulogized the Lord of
+the universe:
+
+81. ‘Save us, save us, O great Visnu, O lord compassionate to
+those who seek refuge. The entire world, mobile as well as im-
+mobile, is pervaded by you.”
+
+82-83. Then Hari appeared before them for the accomplish-
+
+## Page 75
+
+1.1.9.84-94 71
+
+ment of the purpose of Devas. Visnu who was seated on Garuda,
+saw them and suddenly and sportingly lifted up the excellent
+mountain and placed it on Garuda.! Then, the lord granted all
+of them protection from fear.
+
+84. Rising from there (and taking leave of) those Devas,
+he took the old mountain to the northern shore of the Ocean of
+Milk. After placing it in the waters, he went away from that
+place.
+
+85. Then all those groups of Suras arrived there along with
+Asuras, taking Vasuki with them. Then they made the agreement.
+
+86. After making Mandara the churning rod and Vasuki
+the rope, all of them, Suras and Asuras, churned the Ocean of
+Muiik. ‘
+
+87. As the Ocean of Milk was being churned, the mountain
+sank deep into Rasatala. At that very instant, the Lord of Rama,
+Visnu, became a tortoise and lifted it up. That was something
+really marvellous.
+
+88. When the mountain rotated, it was further pulled and
+pushed by Suras and Danavas. Now it rotated without any basis,
+like the understanding without a preceptor.
+
+89. Visnu, the supreme soul, then became the basic support
+of the Mandara mountain. With his four hands he gathered it
+up and churned pleasantly.
+
+90. Then all Suras and Asuras churned the Ocean of Milk
+after uniting together. Very powerful themselves, by uniting
+together, they became all the more powerful.
+
+91. The excellent mountain had adamantine strength. It
+rolled on the back, neck, thighs and the space between the knees
+of the noble-souled tortoise. Due to the friction of these two,
+submarine fire was generated.
+
+92. The Halahala poison too emerged and it was seen by
+Narada. Thereafter, the celestial sage of unmeasured splendour
+spoke these words:
+
+93-94. “The churning of the ocean should not be carried on
+by you all now. O Devas, all of you pray to Siva.? Have you
+
+1. In Mbh, Adi 18.8 it was the serpent Sesa who carried Mt. Mandara
+to the sea. Here the credit is given to Garuda, Visnu’s vehicle.
+2. Our text is a propagandist of Siva. In the Mbh it is Narayana who
+
+## Page 76
+
+72 Skanda Purdna
+
+forgotten the sacrifice of Daksa and what Virabhadra did there?
+
+Hence, let Siva be immediately remembered, O Devas.
+He is greater than the greatest; he is beyond the greatest. He
+is the embodiment of supreme bliss. He is worthy of beiag medi-
+tated upon by Yogins; he has no form. (Asa matter of fact)
+however, he is formless and unmanifest (or without diversity).”
+
+95. Devas were eager to achieve their purpose. Therefore,
+they hurriedly went on churning the ocean. All those who are
+overwhelmed by desires do not listen (to the advice of others),
+because they become irrational and stupid.
+
+96. They should not be given many pieces of advice and
+instructions. They are subject to Raga (desire) and Dvesa (hat-
+red). All of them are averse to Siva.
+
+97. With their sheer continuous exertion, they churned the
+Ocean of Milk. Due to excessive churning, the poison called
+Halahala was generated from the Ocean of Milk.?
+
+98. It was strong enough tu burn down the three worlds.
+It came up to kill the heaven-dwellers. It went up still further
+and spread to all quarters. The entire sky was pervaded by it.
+The Kalakita poison advanced to consume all the living beings.
+
+99. They observed the huge king of serpents grasped by
+their own hands. They left him there along with the mountain
+and then went (immediately) away. They fled along with Asuras.
+
+100. So also the sages beginning with Bhrgu, sages in
+hundreds (fled in all directions). It was like what happened at
+the sacrifice of Daksa.
+
+101. Earnestly urged by Bhygu, all of them went to Satya-
+loka: “This poison Kalakita will be quelled by means of various
+Vedic Sentences. O Devas, there is no doubt in this matter. It is
+true; I am speaking the truth unto you.”
+
+guides Devas and Asuras in churning the ocean. Siy. is not mentioned at all
+in this context (Mbh, Adi 18).
+
+1. VV 97-113 describe the disastrous effect of the poison Kalakita, viz.
+burning down of the entire three worlds. The author’s object is to heighten
+the greatness of Siva in drinking the poison (see the next chapter), Mbh
+
+sums it up in one line:
+pragrasal loka-raksartham brahmano
+vacanac chivah (Adi 18.42b)
+‘At the instance of god Brahma, Siva consumed it (the poison) for saving
+
+the world.’
+
+## Page 77
+
+1.1.9.102-113 73
+
+102. On hearing these words uttered by Bhrgu, all of them
+distressed by the poison Kalakita went to Satyaloka and sought
+refuge in Brahma.
+
+103. Brahma saw the blazing Kalakita with sparkling lustre.
+He found that Suras and Asuras were ignorant of their duties.
+He was about to curse them, but he was prevented by Narada.
+
+Brahma said:
+
+104. O Devas, what a wrong thing has been committed by
+you? Why has this explosive thing cropped up? It is Igvara’s
+anger. My speech cannot be otherwise.
+
+105. Thereupon, surrounded by Devas, the Vedas, the
+Upanisads and the different kinds of Agamas, he proceeded ahead
+out of fear of the Kalakita.
+
+106. Then, Devas who were worried said to to one another,
+“We are enveloped in Avidyd (nescience) and lust. How can we
+do anything to Sankara?”
+
+107, Then Devas kept Brahma at their head and hurriedly
+went to Vaikuntha, because they were afraid of Kalakita.
+
+108. Brahma and others as well as the groups of sages
+svught refuge in the great lord Visnu, the primordial Purusa, the
+mighty lord who had resorted to Vaikuntha, Madhava, Adhoksaja.
+The groups of Suras and Asuras sought refuge in lord Visnu.
+
+109. By that time, the great poison ‘Kalakiita came there.
+After burning Brahma’s world at the outset, it burned Vaikuntha.
+
+110. Visnu who dwells in the cavity of the heart of every-
+one, was burned by the fire of Kalakita also with his attendants.
+Immediately he acquired the colour of Tamala.
+
+111. Vaikuntha also became blue in colour. It was surroun-
+ded by all the worlds. Hence, all the worlds became encircled by
+the poisonous substance from the waters.
+
+112. The wonderful poison of the waters reduced to ash the
+whole of the Cosmic Egg with its eight outer coverings and along
+with Brahma.
+
+113. There was no earth, no water, no fire, no wind, and
+no ether. There was neither Ahamkara (Cosmic Ego), nor Mahat
+(the Great Principle). There was no Mulavidya. On account of
+Siva’s wrath, the entire universe became reduced to ash.
+
+## Page 78
+
+74 Skanda Purdna
+CHAPTER TEN
+
+Siva Swallows the Poison
+
+The sages said:
+
+1. Oholy Sir, you said that the Cosmic Egg including the
+mobile and immobile beings was entirely reduced to ash by the
+fire of Kalakita on account of the wrath of Rudra.
+
+2-4, But, we consider Rudra to be within the Cosmic Egg.
+Then the mobile and immobile beings with Brahma and
+Visnu as leaders were destroyed and reduced to ash through the
+wrath of Rudra. How was creation resumed and made to func-
+tion? Wherefrom did Brahma, Visnu and other Suras and Asuras
+with the Moon at their head (originate again)? Where did they
+get merged? Where were thcy reduced to ash? What happened
+after that? It behoves you to recount everything.
+
+5. By the grace of Vyisa you know everything. No one else
+knows it. Hence you understand the holy scripture full of know-
+ledge as no one elsc does.
+
+6. Asked thus by all those sages of sanctified souls, Sita
+bowed down to Vyasa and spoke these words:
+
+Lomasga said:
+
+7. When Devas beginning with Hari and Brahma, stationed
+in the middle of the Cosmic Egg, as well as the guardians of the
+worlds including Indra were enveloped by the fire of poison,
+Sarnbhu was informed by the noble-souled Herarnba (Ganesa):
+
+Heramba said:
+
+8-9. O Rudra, O Mahadeva, O Sthanu, the lord of the uni-
+verse, an obstacle very difficult to be surmounted has been creat-
+ed for them by me by way of amusement.! There are persons
+who start an enterprise, but either because of their fear or
+through the delusion of their minds, they do not worship you
+or me. The distress unto them will be very great.
+
+1, The destruction of the universe by KalakOta is a ‘diversion’ (vinoday
+to god Ganega, because people do 1.ot worship him and Siva through
+delusion.
+
+## Page 79
+
+1.i.10.10-19 75
+
+10-11. On being requested thus by the over-lord of Ganas,
+who dispels obstacles like the sun dispelling darkness, the Pinaka-
+bearing Lord with a bull for his emblem, the Lord Nilalohita
+with matted hair, the lord devoid of ailments, the lord in the
+form of Liriga, the unsullied lord without form or features,
+the sky-haired lord Siva, Sarnbhu spoke thus:
+
+Mahe§gvara said‘:
+
+12-14. O Heramba, listen to my words with great faith and
+attention. This universe consisting of the mobile and immobile
+beings is of the form of Ahamkara (Cosmic Ego). This Ahamkara
+creates, sustains and destroys. At the beginning of the universe,
+O Ganapati, Vijfapti (Intelligence, Consciousness) alone (remai-
+ned). It was devoid of Maya. It was quiescent and of the form
+of Dvaita and Advaita (duality and non-duality). It was in
+the form of intelligence alone characterized by existence and
+eternal bliss.
+
+Ganapati said:
+
+15. Ifyou are the sole Atman, characterized by supreme
+bliss, O Scorcher of foes, then there is nothing other than you.
+
+16. Then how did the different forms originate, differentiat-
+ed as Suras and Asuras? It is of variegated form observed by
+the three Devas. It is the cause of delusion.
+
+17. The cycle of worldly existence originated as different
+from Nitya (eternal) and Anitya (transient). It consists of four
+types or species of living beings endowed with many distinctive
+features etc.
+
+18. People are deluded by various doctrines and tenets of
+knowledge antagonistic to one another. Some are devoted to
+the doctrine of Karman. Some resort to their (intrinsic) qualities.
+
+19. A few are adherents of the path of knowledge but they
+are opposed to one another.
+
+O Bull-bannered Lord, thus I have been overwhelmed by
+doubts. Save me (by dispelling the doubt).
+
+1, One wonders whether this was the proper occasion for expounding
+the Dvaitadvaita philosophy when the entire universe was being burnt down
+by Kalakata.
+
+## Page 80
+
+76 Skanda Purana
+
+20. ‘Where do I and the Ganas belong to? Whence is this
+bull, O'Lord? From where are these and many others born?
+Where (do they go)?
+
+21. Whence are all these exceedingly fortunate ones made
+into Sattvikas, Rdjasas etc.?
+
+Lord Sarnbhu laughed and began to speak to Ganega:
+
+MuahesSvara said:
+
+22. Rajas, Sattva and Tamas are produced by Kalasakti
+(Power of Time). The entire universe including Devas, Asuras
+and human beings is enveloped by them.
+
+23. This (world) that is being seen is imperishable ultimately,
+but, understand that as an evolved effect it is perishable. It is
+evolved by means of all Siddhis.
+
+Lomasa said:
+
+24-25. While Sadasiva of Cosmic Form and in the form of
+the Linga was conversing with Ganesa, His Power (Sakti called
+Siva), the source of the universe of the nature of cause and effect
+was born of Sadasiva. At the same instant, the Lord in the
+form of the Linga became submerged.
+
+26. The single supreme Sakti, characterized as the Arman
+of Brahmavidya abided (there). Overwhelmed by wonder,
+Gane§a became engrossed in looking (at that form).
+
+The sages asked:
+
+27. Ifthis entire universe consisting of the mobile and immo-
+bile beings is included within Prakrti, how is it thenthat Ganesa
+was able to preserve his separate entity? ‘Let this be explained.
+
+Lomasa replied:
+
+28. Lord Ganega was directly born of Prakrti herself.
+Gancésvara has the same form as that of Siva himself.
+
+29-30. A battle ensued between Siva and that noble-souled
+one who had been Prakrta (born of Prakrti) due to ignorance.
+That battle continued without a break for a long time. -
+
+1. VV 28-38. This is another version how Ganega became elephant-headed
+and why he is called ‘the king of obstacles and difficulties.”
+
+## Page 81
+
+1.i.10.31-40 77
+
+On observing that he was invincible as long as he was riding
+an elephant, Sarnbhu hit him with his trident and toppled him
+down along with the elephant.
+
+31. Then Mahadeva the scorcher of enemies, was eulogized
+by the Supreme Power (Prakrti). The lord then said to the great
+Sakti, “O splendid lady, choose your boon.”’
+
+32-33. Then an excellent boon was chosen from Maha-
+deva: “O lord, he who was killed by you was undoubtedly my
+son. Being born of a part of Prakrti, he is deluded. Hence he
+does not know you. In order to gratify me, resuscitate this son
+of mine.”’
+
+34. Lord Rudra laughed loudly and revived the son of Maya.
+He fixed the head of an elephant to his body.
+
+35. Thus the elephant-faced lord was born by the grace of
+Sankara. Although he was the son of Maya, he was free from
+the clutches of Maya and became endowed with (spiritual) know-
+ledge.
+
+36. He was perpetually contented with the nectar of the
+knowledge of Atman. He was free from ailments. Sitting in deep
+meditation, he became very fierce and then destroyed Kala (god
+of death) of black complexion.
+
+37. He pulled out his own huge tooth for the sake of
+Yogadanda' (the mystic wand of Yogic practice) and held it in
+his hand. He was the presiding deity of the Ganas. He surpasses
+the Sabdabrahman (the Vedas or the supreme spiritual know-
+ledge expressed in words). Though accompanied by both Rddhi
+and Siddhi, he shines in his aloneness.
+
+38. The groups of Ganas and Vighnas (obstacles) and many
+others superior to these—whatever there was on the earth, he
+became the lord thereof. He was made so by Sarbhu then.
+
+39. Hence he was able to see Prakrti which has the Cosmic
+form. He remained separate and was able to realize the Linga as
+well asthe Prakrti. He saw the pure Linga naturally abiding in
+the Prakrti.
+
+40. Herammba who was equipped with perfect knowledge
+
+1. In BdP Paragurama is said to have cut down one of Ganega’s tusks
+with his axe (ILiii.41.2-4), Here it is self-extraction of the tusk by Ganesa
+himself,
+
+## Page 82
+
+78 Skanda Purana
+
+saw himself along with the Ganas as well as the three worlds
+entirely merged in the Liriga.
+
+41. Though he was endowed with perfect knowledge, he
+lost his consciousness. He regained it with very great effort. The
+lord of the Ganas bowed down his head to those two supreme
+powers.
+
+42. Then he saw there itself Brahma, Rudra, Visnu and
+SadAasiva in the form of the annihilator of the worlds.
+
+43-45. He saw some beings resembling ghosts. They were the
+LingaSaktis. He saw crores of spherical Cosmic Eggs like so
+many atoms. They were getting merged and dissolved in Mahegéa
+who was in the form of a Liziga.
+
+The Linga was inside the Prakrti and the Prakrti was within
+the Liga. The whole of the Linga was seen covered by Sakti.
+The Sakti was covered by the Liriga. Thus the two encompassed
+each other.
+
+46. The whole world consisting of the mobile and immobile
+beings stayed supported by both Sivas (i.e. Siva and Sakti). Only
+GaneSa and none else, though great, had that knowledge.
+
+47. The presiding deity of the Ganas (Lord Ganeéa), of
+great splendour, accompanied by the Ganas eulogized with great
+strength, the Lord accompanied by Sakti.
+
+GaneSa prayed:
+
+48. I bow down to the god accompanied by His Sakti
+(Power)—the Lord who is the embodiment of knowledge, who
+is kindly disposed (but) beyond the ken of knowledge and of the
+form of supreme Light, who transcends forms, is the Supreme
+Reality incarnate, who is beyond the principles (categories of
+Sankhyas), supremely auspicious, who is called Bliss undivided
+and uncontaminated by sorrow.
+
+49-50. The fire in (a ball of) iron is beyond smoke (smoke-
+less), but it appears as though filled with smoke. You who are the
+source of knowledge, appear to be within Prakrti. You who are
+present within the Prakrti by Mayd, are spoken of as manifested.
+
+You whose nature is such, O lord, create, annihilate
+and protect the universe by your Maya. On account of this
+
+1. This peculiar mutual relation between Siva and Sakti shows the influ-
+ence of Trika Saivism of Kashmir. -
+
+## Page 83
+
+1.4.10.51-62 79
+
+poison, the entire universe consisting of the mobile and immobile
+beings and accompanied by Brahma, Visnu and Indra, has been
+destroyed.
+
+51. You are lord Mahesa. You are the lord of the three
+worlds. You are the immanent soul of the mobile and immobile
+beings. The mobile and immobile beings along with the
+vestures of individual souls, have been completely burnt down.
+Please revive them quickly and make it (the world) as it was
+before.
+
+Lomasa said:
+
+52-54. On being culogized thus by Ganesa, the Lord (Siva),
+the sanctifier of all living beings, assumed the form of a Linga
+and consumed the Kalakita that arose there and caused the
+destruction of all the worlds. He made everything free from
+impurities. Since the lord was endowed with great compassion
+and considerateness, all Devas, Asuras and human beings and all
+the three worlds were instantaneously saved.
+
+Brahma, Visnu, Surendra, the Guardians of the Quarters
+along with the sages, Yaksas, Vidyadharas, Siddhas, Gandharvas
+and groups of celestial damsels—all of them got up as though
+from sleep.
+
+55. They were struck with wonder. They were agitated and
+frightened. All Devas and Asuras said in dismay:
+
+56-62. “Where is that immense Kalakita by which we had
+been compelled to flee and made almost dead along with the
+Guardians of the Quarters?”’ So said they, but Daityas remained
+silent. The Guardians of the Quarters beginning with Sakra, who
+were able to regain strength and happiness with god Brahma as
+their leader, said this after honouring Visnu, the lord of all lords:
+
+“By whom has this been caused? We do not know as we are
+deficient in intelligence.” Then Visnu laughed at Brahma and all
+those (Suras). All of them then began to meditate with great
+concentration of their minds. O Brahmanas, that dispelled base
+emotions such as lust and anger as well as other feelings by
+means of the knowledge of Reality. Then Devas and others saw
+the Liziga present in their own Atman (Soul). Keeping Visnu at
+their head, they eulogized the Lord for the attainment of the ulti-
+mate truth:
+
+## Page 84
+
+80 Skanda Purana
+
+“Yogins worship the Supreme Soul through their own souls.
+The Lirga alone is the greatest knowledge. The Lingh alone is
+the greatest penance. The Linga alone is the greatest Dharma.
+The Linga alone is the greatest goal. Hence, there is nothing at all
+which (can be called) greater than the Liviga.”
+
+63. After saying thus, Suras and Asuras along with the
+Guardians of the Quarters and sages kept Visnu whose complexion
+is dark like the Indian cinnamon, at their head. They then sought
+refuge in Sarnbhu who is worthy of being resorted to:
+
+64. “Save us, save us, O Mahadeva, O merciful lord, O
+Supreme God. It behoves you to save us as we had been saved
+before (by you).
+
+65. O Lord of Devas, your lotus-like feet possess greatness
+befitting our repeated service. They have infinite forms. We have
+resorted to them. (Save us) with the greatest mercy. Obeisance
+to you, O excellent one among Devas. Be pleased.”
+
+66. Lord Ramapati (Visnu), the sanctifier of the living be-
+ings, stood in the middle of the form of Linga along with all the
+groups of Suras and spoke thus:
+
+67-69. “You are the Lord in the form of the Liga. You
+bestow protection from fear on all the worlds. All those who
+died on account of the poison, have been saved. Hence, O Lord,
+the conqueror of Mrtyu (Death), save us, save us. O Mahakala,
+the destroyer of Tripura, obeisance to you.”
+
+On being eulogized by Visnu, Lord Maheégvara in the form
+of the Liriga appeared before them along with Amba (goddess
+Parvati). He appeared to awaken (i.e. enlighten) those Suras:
+
+70-74. “O Visnu, ye all Suras and Sages, let this be heard.
+Ordinary people think that the worldly existence is eternal, while
+it is only transitory. Thereby, they are agitated. O Devas and
+others, of what avail are the Yajfias, austerities and activitics
+connected with holy rites, if one does not perceive the (Supreme)
+Atman by means of (his individual Aman)? There is no benefit
+therefrom, whether they are performed collectively or separate-
+ly. All of you joined together and carried out a very difficult
+task, namely the churning of the ocean. T....: you did for the sake
+of getting nectar. But why was it performed after rejecting
+Mrtyufijaya and always disrespecting me? Hence all of you un-
+doubtedly felltinto the mouth of Death.
+
+## Page 85
+
+1.i.10.75-86 81.
+
+‘Lord Ganesa has been created by us for the purpose of
+achieving success in an undertaking.
+
+75. Those who do not bow down to Ganega as well as
+Durga of similar nature will be victims of distress. There is no
+doubt about this.
+
+76. All of you are sinful and stubborn. You profess to be
+learned without knowing what is right and what is wrong. You
+are deluded by mere false prestige.
+
+77-78. All of you, groups of Devas beginning with Indra,
+are devoted to the Vedas. All those beginning with Indra are
+mediocres, pleasure-seekers, praisc-mongers and useless ones. O
+consort of Saci (i.e. Indra), you do not understand yourself on
+account of delusion.
+
+79. A great effort has been made by you for getting nectar,
+O regue. You attained a kingdom by performing a hundred horse-
+sacrifices. Even that is under the control of your enemies now.
+O vicious one, you do not know that.
+
+80. O deluded one, you have been eulogized by ascetics
+through the Vedic statements (jmns). Those ascetics are fools.
+They propitiate you, because they are prompted by different
+passions,
+
+81. O Visnu, on account of your partiality you do not know
+what is good and what is otherwise. Some persons are killed by
+you. O Visnu, and some have been protected.
+
+82. You are desirous of certain things in this matter. You
+are always childish in your activities. Why talk of all the other
+Guardians of the Quarters?
+
+83. Ifa matter is pursued in a way other than what is pro-
+per, the result is bound to be in a way other than (what is expec-
+ted). You all forgot that thing whereby your efforts are crowned
+with success.
+
+84-85. It is he by whom all (of you) have been saved from
+the great fear of Kalakita today. It is he by whom you have
+been saved from a poison by which Visnu is turned blue (dark-
+complexioned), by which all of you were defeated and by which
+all the worlds have been reduced to ash. Hence, the worship of
+that noble-souled Ganega should be performed by you.
+
+86. If at the beginning of any holy rite, people do not wor-
+
+## Page 86
+
+82 Skanda Purana
+
+ship Ganadhipa (Ganesa), they will never realize their objectives
+as in your own case.”
+
+87. On hearing these words of Mahesa, Suras, Asuras,
+Kinnaras and Caranas asked Giriga about the method of worship
+in the proper manner.
+
+CHAPTER ELEVEN?!
+
+Procedure of Ganesa Worship: Manifestation of Laksmi
+
+Mahesvara said:
+
+1. In every fortnight Ganeéga should be worshipped on
+the fourth day. (But) in the bright half of the month a devotee,
+after taking bath, should worship always with white sesamum
+seeds.?
+
+2. After finishing all necessary daily routine religious duties,
+the devotee should perform the worship of Ganesa with great
+care, by means of scents, garlands, aksatas (raw unbroken rice
+
+grains) etc.
+3. At the outset, meditation on GaneSsa should be perform-
+ed in accordancewith scriptural injunctions.
+
+1, The chapter consists of two topics:
+(i) The procedure of worshipping GaneSa,
+(ii) The emergence of various “Gems” during the churning of the ocean.
+2. VV 1-18 describe the procedure of worshipping Ganesa, It may briefly
+be outlined as follows:
+(1) Special day—every fourth day in a fortnight (vv 1-2).
+(2) Matcrials of worship (v 3).
+(3) Names of GaneSa (v 5).
+(4) The five faces of Ganesa—their different complexions ctc. (vv 7-8).
+(5) Weapon: in Ganesa’s ten hands.
+(6) Three types of Ganega image for meditation:
+(A) Sattvikaqvy 11-12a).
+(B) Rajasa (vv 12b-13).
+(C) Tamasa (v 14).
+(7) Offering of twenty-one Dorva grass blades—one pair of blades per
+name of Ganesga and Modakas (sweet eatables) (vv 15 and 16).
+(8) Ten names of Ganega for worshipping as above (vv 17-18).
+
+## Page 87
+
+¥.4.11.4-15 83
+
+4. As the worshippers are of various types having Tamasa,
+Sattvika and Rdjasa traits, the names also (of Ganega) became
+many in number according to their class (characterized by a
+particular Guna).
+
+5. They are as follows: Paficavaktra (Five-faced), Ganadhya-
+ksa (Chief of the Ganas—Siva’s attendants), Dasabahu (Ten-arm-
+ed), Trilocana (Three-eyed), Kantasphatika-sankaSa (Resembling
+a shining crystal), Nilakantha (Blue-throated), Gajanana (Ele-
+phant-faced).
+
+6. I shall describe his five faces correctly.
+
+7. The middle face is fair in colour with four teeth and three
+eyes. It is beautiful with a long trunk. Inthe trunk he keeps a
+modaka (a round piece of sweetmeat).
+
+8. The other faces of Ganesa are yellow, auspicious blue,
+tawny and grey. The faces are splendid and characterized by
+good features.
+
+9-10. T shall tell you the weapons in the ten hands (of
+Ganesa). They are: noose, axe, lotus, goad, tusk, rosary, plough-
+share, pestle, varada(mudrad—gesture) (the hand _ indicating
+bestowal of boons) anda vessel containing modakas. One should
+meditate that he is holding the vessel in his hand.
+
+11-14. The meditation is of three types. In Sattvika medi-
+tation contemplate thus: (He is) Lambodara (Pot-bellied). Virit-
+paksa (of uneven eyes =three-eyed), Nivita (sacred thread worn
+like a garland). He is having a girdle. He is scated in the Yogic
+posture; the crescent-moon adorns his head.
+
+Rajasa meditation is as in the case of men. The deity has
+pure golden complexion. (He is) elephant-faced and super-natu-
+ral. He has four hands, three eyes, one tusk and huge belly.
+
+In Tamasa meditation he holds a noose and a goad (in his
+hands). The lord holds a tusk and a vessel of modakas. He is
+blue in colour.
+
+Thus there are three types of Dhyana. Thereafter, the wor-
+ship should be begun quickly by you all.
+
+15. Twenty-one Dirva grass-blades are (to be) taken. Two
+blades of grass are offered aftcr uttering one name. (Thus ten
+names are uttered and twenty blades of grass are offered.) In the
+end, all the names are uttered and one blade of grass is offered
+
+to the Lord of Ganas.
+
+## Page 88
+
+84 Skanda Purana
+
+16. Similarly twenty-one modakas should be offered. I shall
+mention the ten names intended for worshipping separately.
+
+17-18. The names are: 1. Ganddhipa (Lord of Ganas),
+2. Umaputra (Son of Uma), 3. Agha-ndgana (Destroyer of sins),
+4, Vinayaka, 5. ISaputra (Son of Lord Siva), 6. Sarva-siddhi-
+pradadyaka (Bestower of all Siddhis), 7. Ekadanta (One-tusked),
+8. Ibha-vaktra (Elephant-faced), 9. Miisaka-vahana (Mousc-
+vehicled) and 10. Kumdra-guru (The elder brother of Kumara).
+At the end of every word namastestu (Obeisance to you) should
+be added. In the case of the last, the words Kumadragurave tubh-
+yan namo’stu, ‘Obeisance to you, O Kumiaraguru’ should be
+uttered. Thus Ganesa should be worshipped with care.
+
+19-20, After speaking thus to Suras, Sadasiva, Sarnbhu,
+the highly splendid lord, eagerly embraced Visnu who abides
+in the cavity of heart, as well as Brahma, and (he) immediately
+vanished. All of them bowed down to Sarnbhu and then became
+engaged in worshipping Ganddhyaksa (GancSa).
+
+2t. After worshipping him in accordance with the injunc-
+tions, they became engaged in honouring him with various Upa-
+cGray (ways of service) and the Dirva grass blades separately.
+
+22. Ganesa who was contented and delighted (by their wor-
+ship) bestowed boons on Devas. They circumambulated him,
+bowed downto him and propitiated him.
+
+23. Asuras who possessed only Tamas Guna did not worship
+Ganesa.! The excellent Asuras were engaged _ in ridiculing Devas.
+
+24-25. Devas finished worshipping the son of Sankara and
+went to the Milk Ocean once again. Brahma, Visnu, the excel-
+lent Suras, Devas, Daityas and sages made Mandara the churning
+rod and Vasuki the churning rope. Keeping Visnu near them,
+Devas began the churning.
+
+26. ‘When the ocean was being churned, it was the Moon
+that came out at the outset,? for the purpose of realizing the
+objectives of all Devas, He was full of nectar.
+
+1. Due to their negligence in worshipping Ganesa, Asuras did not get the
+fruit (Ratnas—jewels) of their labour of churning the ocean.
+2. The following is the serial order of the ‘Gems’ that were churned out
+from the ocean:
+1. The Moon
+
+## Page 89
+
+1.i.11.27-37 85
+
+Saunaka said:
+
+27-29. Osage of holy rites, was the Moon formerly placed
+inthe ocean? By whom was he placed? It was told by you
+formerly that the excellent gems like the elephant etc. (had been
+cast into the ocean). O lord, tell me all these things briefly in the
+beginning. After understanding these, all of us shall later describe
+them.
+
+On hearing their words, Sita began his narrative:
+
+30. Candra (the Moon) is watery by nature, O Brahmanas.
+He was born as the son of Atri. He was endowed with all good
+qualities. He was born of Anasiiya from a part of Brahma.
+Durvasas was born from a part of Rudra and Dattaka (i.e.
+Datta) was born from a part of Visnu.
+
+31. Onsceing the MiJk Ocean being churned, Candra_ be-
+came delighted. On seeing the Moon, the Milk Ocean too became
+extremely attached to him.
+
+32. Since both of them liked each other, Candra entered the
+Ocean. Let this be heard, O excellent Brahmanas. In front of and
+inthe presence of Devas, Candra became filled with nectar.
+
+33. Onseeing the splendour of Candra, the Nirdjana tite
+(waving light around the face) was immediately performed by
+the groups of Devas with respect to Candra, along with the loud
+and tumu!tuous sounds of musical instruments, drums of many
+types and conchs.
+
+34. They all then bowed down to him along with Suras,
+Asuras and Danavas. Then they asked Garga about the genuine
+inherent power of Candra.1
+
+35-37. Thereupon, Garga told them, “All the Planets are
+powerful today. All the excellent Planets are in their central
+
+. Surabhi—Wish-yieiding cow and other cows
+. Kalpavrksa (Wish-yielding divine trees)
+Kaustubha, Cintamani
+Uccaibérava horse
+Airavata elephant
+Wine and intoxicants
+Laksmi
+1. This is known as ‘Candra-bala’. All Planets became favourable duc to
+this.
+
+PAAWAYI
+
+## Page 90
+
+86 Skanda Purana
+
+positions. (Therefore they are beneficial) to you. Guru
+(Jupiter) has come in conjunction with Candra (the Moon).
+
+Budha (Mercury) has also come in his contact. So also the Sun,
+
+Sukra (Venus), Sani (Saturn) and the great Planet Angaraka
+(Mats). Hence the power and influence of Candra is very excel-
+lent for the realization of your objectives. This Muhirta (auspi-
+cious time) named Gomanta’ is the bestower of victory.”
+
+38. At thisencouraging assurance of the noble-souled Garga,
+the mighty Devas began to churn the ocean vigorously and roar-
+ed (lustily in their eagerness).
+
+39. Remembering Mahega and Ganega again and again,
+those noble-souled (Devas) of firm holy rites attained double
+strength.
+
+40. During churning, Surabhi (divine cow) came out
+directly for the sake of the accomplishment of the tasks of
+Devas, from the ocean that was roaring with a rumbling sound
+on all sides.
+
+41. Tawny in colour and with quite heavy udders, the cow,
+in a contented mood, came very slowly floating ove: the waves.
+
+42. On seeing Kamadhenu (Wish-yielding Cow) coming up,
+all Suras and Asuras showered flowers on that (cow) of un-
+measured splendour.
+
+43. Various kinds of trumpets and musical instruments were
+played and drums were beaten. She was brought from the
+middle of the waters (though) surrounded by hundreds of cows.
+
+44. Among them there were cows of various colours such as.
+blue, black, tawny, partridge-coloured, smoke-coloured, dark-
+coloured, red ones, wood-apple-coloured and_ reddish-brown
+ones. Surabhi was seen accompanied by these cows.
+
+45. Sages who were delighted instantly entreated Devas and
+Asuras (to give to them) Kamadhenu which was closely sur-
+rounded by them (Devas and Asuras).
+
+46. “These cows along with Surabhi should be given to all
+Brahmayas belonging to various Gotras. There is no doubt
+about it.”
+
+47. On being requested by them, Suras and Asuras gave
+those cows to them in order to gratify Siva. Those Surabhis
+
+1. Gomanta—It may mean at the time of sunrise.
+
+## Page 91
+
+1.i.11.48-61 87
+
+(cows) were accepted by the noble-minded sages of great auspi-
+ciousness and excessive merit.
+
+48. Then Punydhavacana: (the formal religious declaration
+‘This is an auspicious day’) was performed for Suras by all those
+sages in order to enable Devas to achieve their objects and to
+cause the destruction of Asuras.
+
+49-50. All of them once again exerted themselves very well
+and churned the Milk Ocean. From the ocean that was being
+churned rose up Kalpavrksa, Parijata, Cita and Santanaka.
+They set apart those trees on one side, like the city of Gandhar-
+vas. Immediately those wise (Suras and Asuras) resumed the
+churning of the Milk Ocean powerfully in all earnestness.
+
+51. From the ocean that was being churned emerged a high-
+ly refulgent, extremely bright, most excellent gem having the
+brilliance of the Sun. It was called Kaustubha.
+
+52-53. With its brilliance, it illuminated the three worlds.
+Keeping the Cintamani (a miraculous stone) in front, they saw
+the Kaustubha brightening the worlds. All those Suras gave the
+Kaustubha to Visnu. Suras and Asuras of enhanced strength
+lustily roared again and began to churn the ocean keeping
+Cintamani in the middle.
+
+54-58. From the ocean that was being churned rose up
+Uccaihsravas, the wonderful gem of a horse, and then Airavata,
+the gem of an elephant, along with sixty-four other white ele-
+phants each with four tusksand in the rut. They set apart all
+these in the middle and churned once again. Many precious
+things then arose from the ocean that was being churned, viz. the
+wine Vijaya, Bhrngi, garlic, turnip, the poisonous and highly
+intoxicating Dhattira (Datura Alba) which causes too much
+of madness, and Puskara. All these were placed on the shore
+of the ocean without any hurry. Again those great Asuras churned
+the occan along with the excellent Suras.
+
+59-61. Asthe ocean was being churned once again, that
+
+1. Punyahavacana—When a person intends to perform an auspicious
+rite, he invites Brahmanas, honours them, requests them with palms folded:
+«May you declare the day auspicious for such and such a rite’, and the
+Brahmanas respond ‘Om, may it be auspicious.” Each of the Brahmanas is
+to repeat it with words, ‘Svasti’, “Punyaham’ and ‘rddhim’ (Apastamba Dh. S.
+1.4.13.8; cf. Baudhayana Gr. Sesa Siitra 1,10).
+
+## Page 92
+
+88 Skanda Purdna
+
+divine Laksmi,! the sole protector of the worlds, rose up from it.
+Those who are the knowers of Brahman call her Anviksikt
+(Metaphysics). Others praise her as Milavidya. Some com-
+petent persons call her Brahmavidyd. Some call her Siddhi
+(Success), Rddhi (Prosperity), Ajfia@ (Command) and Asa
+(Hope). Some Yogins call her Vaiswavi. Some exponents of
+Maya always engaged in Yogic practice call her Mayda. All
+people call her Kenasiddhantayukta (the one associated with
+Brahman—the Principle spoken of in the Kenopanisad). Those
+who are equipped with the power of knowledge call her Yogamaya.
+
+62-69. They saw Mahdalaksmi coming slowly. She was very
+fair. youthful and tender with the filaments of the lotus for her
+ornaments. She was sweetly smiling with beautiful teeth. A lady
+of slender shade, she had the fresh youthfulness as an adorn-
+ment. Her garments and ornaments were varicgated with the
+refulgence of many gems. Her lips were red like the Birnba
+(Memordica Mcnadelpha) fruits; the nose was very beautiful
+and the neck and the eyes were very splendid. She was very
+slender with fine waistline and splendid buttocks. The hips were
+large. Her lotus-like face was brilliantly illuminated by means of
+a number of gems that served the purpose of the lights in a Nira-
+Jana rite for her face. Her face was fascinating and delightful.
+She was remarkably splendid with her necklaces and anklets. An
+umbrella was gorgeously held above her head. She was being
+fanned with chowries gently shaken by the waves of Ganga. She
+was riding a white elephant and was being eulogized by great
+sages. With the ends of her hands, she held a garland of the
+flowers of heavenly trees along with jasmine flowers.
+
+On seeing her Devas were eager to look at her at close quar-
+ters. But she, Mahdlaksmi, the chaste ilady, looked at Devas,
+Danavas, Siddhas, Caranas and Serpents in the same manner as
+a mother looks (affectionately) at her children.
+
+70. Devas were glanced at by that Laksmi. So they became
+
+1. Laksmi is identified with Brahma-vidya, Anviksik!, Vaisnavi, Rddhi,
+Siddhi and also with Uma as in the Kenopanisad 25 (umarh haimavatim). She,
+being the mother-goddess looked with affectionate glance at all beings but
+married Visnu.
+
+## Page 93
+
+1.i.11.71-79 89
+
+Prosperous instantaneously and were characterized by those
+indications of attainment of the kingdom. Daityas who were not
+glanced at by Laksmi became devoid of splendour (royal glory).
+
+71-72. She glanced (lovingly) at Mukunda who was blue in
+complexion like Tamala (Xanthochymus Pictorius), whose cheeks
+and nose were very handsome, who shone brilliantly with his
+superior person and was characterized by Srivatsa and looked
+(at everyone mercifully).
+
+On seeing him, Laksmi suddenly got down from her elephant
+with the garland of forest flowers (still in her hands). With a
+broad smile, she put round the neck of the Supreme Being Visnu,
+the garland that was wreathed by Sri herself and wherein bees
+swarmed together.
+
+73. She then sat there leaning on the left side of the great
+Atman. On seeing them both, Suras and Daityas experienced a
+wonderful joy. So also Siddhas, Apsards (celestial damsels),
+Kinnaras and Caranas.
+
+74. At that union of Laksmi and Narayana, the delight of
+everycne was very great. All the worlds, all the people every-
+where were simultaneousiy happy and joyous.
+
+75. Mahavisnu was sought and wooed by Laksmi. Laksmi
+was wooed by him alone. Thus through mutual love they became
+absorbed in looking at each other.
+
+76. The sound of the various musical instruments and drums
+such as Pafahas, conchs, Mrdangas, Anakas, Gomukhas, Bheris
+and Jharjharis was very tumultuous.
+
+71-19. The songs of the musicians were immensely splendid.
+With the four types of musical instruments, viz. Tata, Vitata,
+Ghana and Susira, the groups of Gandharvas and celestial dam-
+sels propitiated the all-pervading Lord Hari in every way. Gan-
+dharvas, being proficient in the art of music delighted the lord.
+Narada, Tumburu and other Gandharvas and Yaksas then sang
+sweetly. The groups of Suras and Siddhas served thus lord Nara-
+yana who is in the form of the Supreme Atman and whose
+enlightenment was boundless, deep and profound.
+
+## Page 94
+
+90 Skanda Purana
+CHAPTER TWELVE
+
+Devas Taste the Divine Nectar
+
+Lomasa said:
+
+1. After bowing down to Janardana, the Supreme Being,
+along with Rama, the groups of Suras and Asuras once again
+churned the ocean for the sake of Nectar.
+
+2. From the ocean that was being churned, came outa
+youthful person of very great fame, well-known as Dhanvantari.?
+He was the great conqueror of Mrtyu (Death).
+
+3-4. He held in his hands a pot filled with nectar. While all
+Suras were (gladly) looking at the fascinating Lord Dhanvantari,
+Daityas wanted to attack him in a body and snatch away the pot
+(of nectar) that had been held in the hands of Dhanvantari.
+
+5. The excellent physician surrounded by a scries of waves
+was advancing slowly when he was seen by Vrsaparvan.
+
+6. The pot that was in his hand was forcibly taken by him
+(Vrsaparva). Thereupon, Asuras roared in a terrific manner.
+
+7. Seizing and taking the pot filled with nectar, the impa-
+tient Daityas came down to Patala. Then Devas became confused
+and embarrassed.
+
+8. They (Devas) who were well-prepared and ready for a
+battle, pursued them with a desire to fight. Turning towards
+Devas, Bali spoke thus:
+
+Bali said:
+
+9. O Devas, we are contented and gratified with the nectar
+only. You excellent Suras do go back quickly.
+
+10. Please go back to Trivistapa (Heaven) joyously. Of what
+avail are we to you? Formerly we entered into a friendly alliance
+
+1. This chapter describes how Asuras were cheated by Visnu by assuming
+the form of an enchantress and were deprived of their share of Amrta.
+
+2. Dhanvantari: Mbh, Adi 18.38 also states that Dhanvantari came out
+of ocean along with a pot of Amrta. He is regarded as an incarnation of
+Visnu. This divine physician Dhanvantari is different from Dhanvantari,
+the physician-king of Varanasi. He learnt 4)urveda from sage Bharadvaja
+and composed a systematic work of eight parts on Ayurveda and taught it to
+different disciples (BdP II.3, 67.1-24).
+
+## Page 95
+
+1i.12.11-20 91
+
+with you only because we wanted to realize our common objec-
+tives. Now it has been known to you. Do not have any doubt
+in it hereafter.
+
+11. Thus rebuked and repulsed by Bali, those excellent Suras
+went back to Lord Narayana along the path by which they had
+come.
+
+12. On meeting him, all the Suras whose desires were frus-
+trated, were consoled by Visnu with various kinds of words cap-
+able of pacifying them:
+
+13-14. “In this matter, do not be afraid unnecessarily. I shall
+bring back the nectar’, said Lord Visnu, the refuge of those who
+are helpless. The slayer of Madhu (Visnu) having asked all the
+Suras to stay there itself, assumed the form of a charming lady,
+Mohini, and appeared before Daityas.
+
+15. Bythat time Daityas had become highly excited and
+agitated. They spoke to one another (about this). For the sake of
+nectar, all the Daityas began arguing with one another.
+
+16-17. While this was going on, fortunately they saw a wo-
+man fascinating the minds of all living beings (who had assumed
+the form of Mohini). They were struck with wonder and with
+covetous eyes (they stared at her). Honouring her, Bali, the king
+of Daityas, said:
+
+Bali said:
+
+18. O highly fortunate lady, this nectar should be (properly)
+distributed by you, so that it can reach all. Be quick about it. Do
+as I request.
+
+19. On being requested thus, she smilingly said to Bali:
+“Women should never be trusted by a wise man.t
+
+20. The following are the inherent natural defects of wo-
+men: Falsehood, daring, deception, foolishness, excessive greed,
+uncleanliness and ruthlessness.
+
+1, These traditional verses are meant for creating disaffection about
+Samsara. Mohini (Visnu) cleverly uses them to create confidence about her
+in the gullible Asuras. The whole chapter shows how Mohini cunningly
+appeals to the noble qualities of Asuras and cheats them.
+
+## Page 96
+
+92 Skanda Purana
+
+21. Lack of genuine affection as well as mischievous cunn-
+ingness should also be known as existing in them, in fact. These
+defects should undoubtedly be known as existing (even) in one’s
+own wives.
+
+22. Just as wolves among beasts of prey, crows among birds
+and foxes among wild animals are givento killing, so also wo-
+men among human beings should always be understood by the
+wise as exceedingly mischievous and cunning.
+
+23. How can there be friendship and alliance between me
+and you all. Should this not be considered? Who are you and
+who am I?
+
+24. Hence everything should be done by you after careful
+consideration with your keen intellect. Of course, you are very
+efficient in knowing what should be done and what should not
+be done, O excellent Asuras.”
+
+Bali said:
+
+25-26. The women mentioned by you are the uncivilized
+ones of the rural area. They have no culture and they are ‘the
+favourites of the vulgar and the rustic people. But, O splendid
+lady, you are not one among those women mentioned (by you).
+Why do you talk much? Do according to our directions.
+
+After Bali had spoken, Mohini said this:
+27-29. *O lord, I shall follow your instructions whether
+they are good or bad.”
+
+Bali said:
+Today distribute the nectar among all in a befitting manner.
+
+We shall take what is given by you. It is true. I am speaking the
+truth.
+
+On being told thus, goddess Mohini who was auspicious in
+every respect, spoke to all the Asuras desirous of following the
+conventional propriety:
+
+The Lord (i.e. Mohin!) said:
+
+30-32. By a stroke of good luck, all of you have become
+blessed and achieved your desired objective, O excellent Asuras.
+
+## Page 97
+
+1.i.12.33-45 93
+
+Do observe fast today and let the preliminary consecratory rite
+of the nectar be performed. Something is yet (to be observed)
+with a desire for your welfare. Tomorrow you can have the
+Parana (ceremonial breakfast). Your desire for observances and
+worships (is commendable). For the sake of propitiating Iga, the
+Viniyoga (ceremonious disposal) rite should be performed by an
+intelligent (devotee) with a tenth part of the amount legally and
+justifiably earned by him.
+
+33. Saying ‘So be it’’, they all honoured whatever was said
+by Devamaya. Deluded and not being very proficient and ex-
+perienced, they did everything advised by Devamaya.
+
+34. Very big, fascinating, lustrous and rich mansions were
+built by the Asura, Maya.
+
+35. They sat in those abodes after taking bath and adorning
+themselves befittingly. Excited much, they placed the full pot (of
+nectar) in front of themselves.
+
+36. With very great joy, all of them kept vigil during the
+night. At dawn, they engaged themselves in taking early morning
+ablutions.
+
+37. After finishing all necessary daily routine duties, Asuras,
+the chief of whom was Bali, sat in rows in due order. They were
+eager to drink (the nectar).
+
+38-41. The following were the important ones among
+Daityas etc.: Bali, Vrsaparvan, Namuci, Sankha, Sudarhstra,
+Samhladi, Kalanemi, Vibhisana, Vatapi, Ilvala,Kumbha, Nikut-
+bha, Pracchada, Sunda, Upasunda, Nigurnbha, Sumbha, Mahisa,
+Mahisaksa, the valorous Bidalaksa, the mighty-armed Ciksura,
+Jrrnbhana, Vrsdsura, Vibahu, Bahuka, Ghora, Ghoradargana,
+Rahu and Ketu. These and many other Daityas, Danavas and
+Raksasas sat there in due order.
+
+42-43. There were rows and rows of those Daityas number-
+ing crores and crores. Now, O Brahmanas, listen to what happen-
+ed thereafter and what great things were done by that goddess in
+the matter regarding (the distribution of) the nectar.
+
+44-45. All were informed by her immediately (to be ready).
+She took up the pot. That Vigvumohini was endowed with the
+greatest splendour. The goddess appeared splendid with the pot
+Testing in her hands. The (goddess) conducive to the auspicious-
+
+## Page 98
+
+94 Skanda Purana
+
+ness of all auspicious things in the universe shone with the great-
+est lustre.
+
+46. At the very same instant, all the Suras who had halos
+around them, came to the place where those excellent Asuras
+were present.
+
+47. On seeing them, Mohini, the most excellent one among
+young women, said immediately:
+
+Mohini said:
+
+48. These (people) should be known as guests. They are
+conducive to the accomplishment of every thing virtuous. If you
+keep the promise given to me, something should be given to
+these in accordance with your capacity. You are the authority in
+this regard. Do everything now. Do not delay.
+
+49. Those who render help to others in accordance with
+their capacity are blessed ones. They should be known to be very
+pure and protectors of the worlds.
+
+50-51. Those who endeavour only for (filling in) their belly
+should be known as destined to suffer. There is no doubt about
+this. Hence, O (friends) of auspicious rites, this should be divided
+by me. You give Devas whatever you like or dislike.
+
+52. When these words were spoken by the goddess, the
+energetic and alert Asuras did so. The Asuras invited all Devas
+including Vasava.
+
+53. All of them sat, O Brahmanas, for the sake of receiving
+the nectar. While they were occupying their seats, Mohini who
+was conversant with all holy rites and virtuous acts, smilingly
+said to the Asuras these great words:
+
+Mohint said:
+
+54-55. The Vedic Text prescribes that the guests should be
+honoured at the very outset. Hence, you who are all devoted to
+the gods and the Vedas speak out immediately. So whom shall I
+give the nectar at the very outset? Indeed, let those whose leader
+is Bali, let those persons of exalted fortune say.
+
+56. Then the goddess was told by Bali. ‘‘(Do) what appeals
+to your mind. O lady of beautiful face, you are our mistress.
+There is no doubt about it.” .
+
+## Page 99
+
+1.i.12.57-68 95
+
+57-58. On being honoured thus by that Bali of pure soul, the
+goddess hurriedly took up the pot for the purpose of serving.
+
+A silk cloth shone over her thighs resembling the trunk of a
+royal elephant. She walked rather slowly on account of the (huge)
+buttocks. Her limbs were agitated and excited due to inebriation.
+With the tinkling of the golden anklets, she appeared to be coo-
+ing (like a cuckoo). Her breasts resembled pitchers. With the
+pot (of nectar) in her hand, she entered (the place where they
+were seated).
+
+59-60. Then the goddess Mohini proceeded serving the group
+of Devas directly. She showered on Devas the juice of the nectar
+again and again as though their sole diet consisted of this nectar.
+The groups of Devas, the chief among whom was Devendra, and
+the groups of Gandharvas, Yaksas and celestial damsels along
+with Guardians of the Quarters swallowed again and again the
+juice of nectar served by that great (goddess) of cosmic form.
+
+61. All Daityas, the chief among whom was Bali, O leading
+Brahmanas, continued to be seated there. They were anxious and
+afflicted with hunger. The resolute Daityas kept quiet and were
+engaged in meditation.
+
+62-63. On seeing those Daityas in such a plight after resort-
+ing to a delusion, the two leading Daityas Rahu and Ketu assum-
+ed the forms of Devas and hurriedly sat in the row of Devas for
+receiving the nectar.
+
+64-65. The exceedingly invincible Rahu was desirous of
+drinking the nectar. When this was reported to Visnu of un=
+measured splendour by the Sun and the Moon, the head of Rahu
+of deformed body was cut off. The head went up into the sky.
+The headless body dropped down on the earth. Rolling down, it
+crushed many mountains into small particles.
+
+66-68. The entire world including the mountains was reduc-
+ed to fine dust. On seeing that the entire universe consisting of
+mobile and immobile beings was smashed to fragments by her
+{ie. Mohini) through that body (of Rahu), Mahadeva stood
+above it. The abode of all Devas was at the soles of her feet. The
+affliction (7) was near her, hence the name Nivdsa' (abode)
+(obscure).
+
+1. The name Nivésa reminds one of Nevasa, a village in Ahmednagar
+District in Maharashtra where the incident is traditionally said to have taken
+
+## Page 100
+
+96 Skanda Purana
+
+69. Since her lotus-like feet had been the abode (Glaya) of
+great ones (mahatam), the enchantress of the three worlds became
+reputed as Mahdlaya.
+
+70. Ketu vanished into the sky in the form of smoke. It was
+after handing over the nectar to the Moon that he vanished thus.
+
+71. Vasudeva is the origin of the universe. He is the sup-
+reme cause of all the worlds. It was due to Visnu’s grace that
+everything took place favouring the realization of Devas’
+objectives.
+
+72. Since the fate was adverse, the enterprise of Mohini was
+conducive to the destruction of Asuras. Understand that all exer-
+tions without (favourable) fate are useless.
+
+73. The churning of the ocean was conducted by all of
+them simultaneously. But, it ended in the success of Devas, while
+Asuras failed (in their objective).
+
+74. Therefore, they were furious at the excellent Devas.
+Daityas who were deluded took up many weapons and missiles.
+When Visnu went away they began to roar.
+
+CHAPTER THIRTEEN
+The Fight between Devas and Asuras
+
+Lomasa said:
+
+1-2. Then (those Asuras) roared at the Suras. the chicf
+among whom was Indra, and whose strength and valour was
+great. They challenged them for a fight. The noble-souled son
+of Virocana got into his aerial chariot. He was accompanied by
+Daityas who were very powerful and who came in various
+(groups). With his entire army he rushed at Suras in a terrible
+way.
+
+3. They had assumed their (original real) forms. They
+
+place. There is an old temple of Mohini (Mahalasa, Oya). Archaeologically
+that is a very ancient site in Maharashtra. If the conjecture be correct, the
+author might have probably belonged to this part of the country. But vv 66-
+68 mention the name of Somanatha (Saurashtra).

@@ -1,0 +1,193 @@
+{
+  "title": "matsya-puran-1 (1)",
+  "discovered_at": "2026-07-13T16:13:10.783473+00:00",
+  "edition_count": 10,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.407382",
+      "title": "Matsya Puran Khand 1",
+      "creator": "Sharma,shri Ram",
+      "year": 1970,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wg1010",
+      "title": "2011 Or Before -Matsya Puran Vol 1 & 2",
+      "creator": "",
+      "year": 2011,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "the-two-babylons-or-the-papal-worship-proved-to-be-the-worship-of-nimrod-and-his",
+      "title": "The Two Babylons Or The Papal Worship Proved To Be The Worship Of Nimrod And His Wife Alexander Hislop",
+      "creator": "Alexander Hislop",
+      "year": 1871,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4386798209",
+      "title": "Matsya Region: A Domain of Culture with Special Reference to its Paintings",
+      "year": 2022,
+      "is_oa": true,
+      "oa_url": "http://dx.doi.org/10.21694/2379-2914.22001",
+      "authors": []
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4205935829",
+      "title": "Philosophy of some hymns of vedas and purans in relation to environmental status",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://www.allstudyjournal.com/article/648/3-4-25-224.pdf",
+      "authors": [
+        "Sudhir Kumar Rawat",
+        "Anjana Vashishtha"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.408322",
+      "title": "Matsya Puran Khand 1",
+      "creator": "Sharma,shri Ram",
+      "year": 1970,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "sanatan-pdf-1455561533881979001",
+      "title": "matsya-puran-1.pdf",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "MAQh_m-2059-prayag-mahatmya-matsya-puran-kavikulguru-kalidas-sanskrit-university-ramtek-collection",
+      "title": "M 2059 Prayag Mahatmya Matsya Puran Kavikulguru Kalidas Sanskrit University Ramtek Collection",
+      "creator": "Kavikulguru Kalidas Sanskrit University Ramtek Collection",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4386798209",
+      "title": "Matsya Region: A Domain of Culture with Special Reference to its Paintings",
+      "year": 2022,
+      "is_oa": true,
+      "oa_url": "http://dx.doi.org/10.21694/2379-2914.22001",
+      "authors": []
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4205935829",
+      "title": "Philosophy of some hymns of vedas and purans in relation to environmental status",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://www.allstudyjournal.com/article/648/3-4-25-224.pdf",
+      "authors": [
+        "Sudhir Kumar Rawat",
+        "Anjana Vashishtha"
+      ]
+    }
+  ]
+}

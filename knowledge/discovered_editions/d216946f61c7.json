@@ -1,0 +1,122 @@
+{
+  "title": "Chanakya Niti Darpan",
+  "discovered_at": "2026-07-13T12:55:05.424962+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Chanakya's Niti Darpan",
+      "authors": [
+        "Sohan Lal"
+      ],
+      "year": 2001,
+      "languages": [],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "8187877006",
+        "9788187877004"
+      ],
+      "publisher": [
+        "Gita Enterprises"
+      ],
+      "ol_key": "/works/OL7167612W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "aayurved-saar-darpan-nepali",
+      "title": "Aayurved Saar Darpan Nepali",
+      "creator": "",
+      "year": null,
+      "language": "nep",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "kvln-chanakya-niti-darpan-bhasha-tika-chanakya-sanskrit",
+      "title": "Chanakya Niti Darpan Bhasha Tika Chanakya Sanskrit And Nepali Niti Shastra Illustrated Banaras 1945 Sarva Hitaishi Company",
+      "creator": "Sarva Hitaishi Company",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "dli.ernet.317542",
+      "title": "Vruddha Chanakya Niti Darpan",
+      "creator": "",
+      "year": null,
+      "language": "guj",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1994576541",
+      "title": "Nepali Hindu Women's Thorny Path to Liberation",
+      "year": 2014,
+      "is_oa": true,
+      "oa_url": "https://www.nepjol.info/index.php/JER/article/download/10013/8171",
+      "authors": [
+        "Raj Kumar Dhungana"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4313352380",
+      "title": "Sustainable Forest Management in the Himalaya",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/bfm:978-3-031-21936-8/1?pdf=chapter%20toc",
+      "authors": [
+        "Vishwambhar Prasad Sati"
+      ]
+    }
+  ]
+}

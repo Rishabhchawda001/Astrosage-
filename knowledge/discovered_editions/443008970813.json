@@ -1,0 +1,59 @@
+{
+  "title": "2015.540437.Sushrut-Sanhita",
+  "discovered_at": "2026-07-13T12:11:00.171384+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.540437",
+      "title": "Sushrut Sanhita",
+      "creator": "Ambikadatt",
+      "year": 1954,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.540437",
+      "title": "Sushrut Sanhita",
+      "creator": "Ambikadatt",
+      "year": 1954,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

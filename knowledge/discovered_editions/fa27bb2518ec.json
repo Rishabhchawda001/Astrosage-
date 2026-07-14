@@ -1,0 +1,100 @@
+{
+  "title": "Skand puran 5",
+  "discovered_at": "2026-07-13T15:18:02.898717+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "lrdm_skand-puran-kartikmasmahatmyaum-manuscript-lucknow-1917-munshi-lal-naval-kishore",
+      "title": "Skand Puran Kartikmasmahatmyaum Manuscript Lucknow 1917 Munshi Lal Naval Kishore",
+      "creator": "Munshi Lal Naval Kishore",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "doc-20251124-wa-0000.",
+      "title": "Ramopasana Siddhanta (english version)",
+      "creator": "Saryu Das ji maharaj",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "rama-gita-prabodhika-tika-by-vishvanath-singh",
+      "title": "Skanda Purana Rama Gita Prabodhika Tika By Vishvanath Singh",
+      "creator": "Maharaj Vishwanath Singh Dev",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4396639696",
+      "title": "Ashwamedha Yagya in Puran",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://dsiij.dsvv.ac.in/index.php/dsiij/article/download/341/246",
+      "authors": [
+        "Manisha Bhardwaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4391183190",
+      "title": "Does the ancient Indian practice of Yagya reflect some critical product design attributes? A Designer\u2019s perspective",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://ijyr.dsvv.ac.in/index.php/ijyr/article/download/111/141",
+      "authors": [
+        "Abhishek Srivastava",
+        "Sonal Atreya"
+      ]
+    }
+  ]
+}

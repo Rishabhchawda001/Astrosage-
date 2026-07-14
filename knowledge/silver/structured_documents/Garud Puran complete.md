@@ -1,0 +1,4205 @@
+# Garud Puran complete
+
+**Document ID:** DOC-5764C9962E94
+**Language:** english (latin)
+**Pages:** 800
+**Class:** ocr_overlay
+**SHA256:** `5764c9962e94208a9f5f4f0e4127490dad78614c88f51f133044d4f6837be2ca`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 2
+
+CORNELL
+UNIVERSITY
+LIBRARY
+
+## Page 4
+
+Cornell University
+
+Library
+
+The original of this book is in
+the Cornell University Library.
+
+There are no known copyright restrictions in
+the United States on the use of the text.
+
+http://www.archive.org/details/cu31924023202819
+
+## Page 5
+
+THE GARUDA PURANAM.
+
+QDITED AND POBLISHED BY
+
+MANMATHA NATH DUTT (Shastri), M.A,
+
+Rector, Keshub Academy,
+
+Author of the Biglish Translations of the Ramijdnam, Mohd«
+Bharatam, Srimedbhagavatam, MahéniPodna-Tantrom,
+Harivatns'a, Agni Purénam, Mérkandéya
+Purdnam, &en Se.
+
+CALCUTTA
+
+SOCIETY FOR THE RESUSCITATION OF
+INDIAN LITERATURE,
+
+3, Forrtarocor Srreer, P. O,, SHAMBAZAR,
+
+1908,
+
+## Page 6
+
+BL
+yvas
+
+PT AX
+
+ABN AF
+
+wygntzp sy H. C. Das, xtys: PRESS,
+3, FURIAPVKWR STERT, CALCUTTA.
+
+## Page 7
+
+CONTENTS,
+
+Supyecr.
+
+Cuaprer I.—Discourse between Suta and Shaunaka and other
+Rishis in the forest of Naimisha—Suta promises to narrate
+the Garuda Puranam oe tee on
+
+CuapterR II—Sources of the Garuda Puranam—Vishau charges
+Garnda to compose the Garuda Puranam on
+
+Cuarrer I1.—Suta describes the subjects dealt with in the
+Garuda Puranam ase oe ae :
+
+Cuaprer IV.—Order of Universal creation described by
+Narayanato Rudra. we
+
+Cuarter V.—Creation of the Prajapatis, ‘The progeny ‘Of
+
+Daksha described on oe
+Cuarrer VI.—Re-incarnation of Daksha in the form of
+
+Prachetas—Origin of the different races of men, the progeny
+of Kashyapa described ... te oa oe
+Cuaprer VII.—Description of the sun-worship} etc, ag per-
+formed by the Selforigined Manu ...
+Cwapter VIIJ.—Description of the mode of “yorshipping
+Vishnu ane oo
+CuapteR IX,—1he mode of spiritual initiation oo <e
+Cuaprer X,—1 he mode of worshipping the goddess Lakshmi
+Cuaprer XI.—Descyiption of the Nava-Vyuha form of
+worship we a we we =
+Cuarrer XII.—Descrjptton of the order to be gbserved in
+the course of worship... we ave
+Cuaprer XIII.—1 he prayer Of Vishnu Panjaram . oo
+Cuaprer XIV.—A brief discourse an Yoga
+Cuaprer XV.--Enumeration af ane thousand epithets of
+* Vishny oe os on we ue
+Cuaprer XVI,—Description of the mode of meditating on
+Vishny as well as of the rjte of sun-worship ... 7
+Cuaprer XVII—Description of another form of sun-worship
+Cuaprer XVIII—Mode of worshipping the death-conquering
+deity (Mrityunjaya) ” ne on on
+
+Paee,
+
+4
+ron)
+9-10
+10—I3
+
+14-16
+
+16-21
+2I—23
+23-24
+25
+
+26
+26—30
+30—33
+33-34
+34-36
+36—47
+
+47-49
+49-50
+
+5I—53
+
+## Page 8
+
+it
+
+Supyecr.
+Carrer XJX.—The Garudi Vidya which is the cure for all
+kinds of snake-bite on oa
+Cuarter XX.—Mantra-cures (curative formulas) of snake-
+bite as narrated by S'iva = ae
+CuarTer XXI.—Mode of worshipping the Panchavaktra (ive:
+faced) manifestation of S'iva = ws os
+Cuaprer XXII.—Ihe mode of worshipping S'iva owe
+Cuarrer XXIII.—Description of another form of Siva
+
+worship te
+Cuarter XXIV.—1he worship of Ganapati
+Cuaprer XXV.—Sandal-worship (Padua puja) described ,,,
+Cuarter XXVI—fhe mode of performing the rites of
+Karanyasa (location of the energies of different divinities
+in the different limbs by a votary by dint of occult and
+psychic force) a = oo we
+Carrer XXVII.—Rites for neutralising the effects of snake
+venoms = t00 cs
+Cuarrer XXVIII—The mode of worshipping. the Gopala
+Manifestation of Vishnu oo we
+Cuarrrr XXIX.—Mantras to be ‘used in connection with. the
+worship of S’ridhara manifestation of Vishnu .,, we
+CtiapTer XXX —Elaborate description of the mode of worship-
+ping the S'ridhara manifestation of Vishnu... he
+Cwarrer XXXI,—Description of another form of Vishnu
+
+worktip a ve as
+Cuarrex XXXII—Adoration of the five fundamental prin-
+
+ciples of the universe... wn ves
+Cusvren XXXIII—Worship of the divine discus (Sudar-
+
+s'anam) of = aD a
+
+Cuaptrer XXXIV.—Hayagriva worship
+CuarTer XXXV.—The mode of worshippiig the Hayagriva
+manifestation of Vishnu ., os a
+Cuspree XXXVI—Mode of performing the rite of Gayatri
+Nyasa i co oo a
+Cwaprer XXXVII Description of the glories of Gayatri...
+
+Cusprer XXXVIII—The mode of meas the deities,
+
+Durga, etc. oo a oo on
+@warrsa XXXIX.—Description of another form of Sun-
+worship. om oe 1 - vee
+
+Pace
+53-56
+56-38
+
+58-59
+39—60
+
+60—63
+
+63—64
+6465
+
+65—66
+66-67
+67—68
+68—69
+69-72
+7275
+77-8
+
+81—82
+8286
+
+87
+
+87-89,
+89—90
+
+90—93,
+
+93-95
+
+## Page 9
+
+Supyecr. Pace.
+
+Crtarrer XL.—Maheshvara worship ... ts yw 9598
+Carrer XLI.—Enumeration of diverse incantations, Mantras
+
+(Nana Vidya) eee oe ae ae 9899
+Cuarrer XLII —Description of investing a phallic emblem
+
+with sacred thread] (S'iva-pavitrarohanam) we eee 9Q—IOR
+
+Cuarrer XLIII —Description of the rite of investing an image
+
+of Vishnu with the holy thread (Vishnu-pavitrarohanam) — 102—105
+Cuapter XLIV.—Contemplation of embodied and dis-em-
+
+bodied God us co se 105-107
+Cuapter XLV.—Characteristic marks of S’alagrama Stones ... 107—110
+Cuarrer XLVI.—Adoration of the deity presiding over home-
+
+steads (Vastu) oe on a see TIO IIE,
+Cuarrer XLVII—Essential features of a divine temple or of a
+
+palace wee wee ase ae we LIZ—LIT
+Cuarrer XLVIIL.—Installations of divine images... we 7126
+Caarrsr XLIX.—Discourse on Yoga and acts of piety ave 126130
+
+Cuarrer L.—Discourses on charities and gift-makings, etc. 4. 130—137
+Cuarrer LII.—Regulations of Prayaschittas (penitential rites) 137~142
+Caarrer LIII—Traits of conduct of men marked by the
+
+several kinds of Nidhis ove on see 142143
+Caarrer LIV.—Progeny of Priya Vrata and incidental des-
+cription of the Seven Islands of the Earth... wee TASRT GS
+
+Cuarrer LV.—Description of the Geographical situations of
+the different countries of the earth, as well as of India with
+
+its physical features ous on oy oe S146
+Cuarter LVI.—Enumeration of the names of princes of the
+continent of Plaksha, etc. me wee wee 147 TGS
+
+Cuaarrer LVII.—Cosmogeny of Hell and the nether regions... 148~149
+Cuarrer LVIII.—Pogitions and Coo of the sun and
+
+other planets ave we ow we 149 —155
+Cuarrer LIX.—Discourses ‘on Astrology, presiding deities of
+
+the different planets and constellations of stars, situations
+
+of Yoginis on the different days of the fortnight, etc... 152156.
+Cuarter LX.—Discourses on the period of influences of the
+
+different planets with that of the sun oo see 157158
+Cuarrer LXI.—Influences of the moon in her different
+
+mansions... we ae oo we 159160
+Cuarrer LXII.—Discourses on Langnamana and determina-
+
+tion of what one ought or ought not to do from the stable
+
+or mobile character of the Lagna .. on oe Wom16z
+
+## Page 10
+
+iy CONTENTS,
+
+Supyecr. Pag.
+Cuarrer LXIIL—A brief discourse on the auspicious and
+inauspicions marks on the persons of males... va 162-164
+Cuarrer LXIV.—A brief discourse on the auspicious or in-
+auspicious marks on the person of females... vas 16 4-165
+Cuarter LXV.—Auspicious marks on men and women as dis-
+closed hy the science of Samudrikam oD wee 165175,
+
+Cuarrer LXVI.—Description of the specific marks of S’ala-
+
+grama, description of Tirthas, and of sixty countries such
+
+as Prabhasa ve wee wee ++ 175-176 :
+Cuarren LXVII—The science of Pavana Vijaya (conquest
+
+of breath) and anguring bad ar evil from the direction of
+
+the breath-wind on on te we 177189
+Cuarrer LXVIII —(Agastya Samhita). Description of the
+
+origin of gems in the treatise on Ratna Pariksha (test of
+
+gems) by the -holy Agastya 180—186
+
+Cuarrer LXIX.—Tests of Pearls 186—191
+Cuarrer LXX—Tests of Ruby | 191195
+Cuarrer LXXI.—Tests of Emerald ... tn 195-198
+Cuarrar LXXII.—Tests of Sapphires a 198—200
+Cuarrer LXXIII.—Tests of Lapis Lazuli (Vaidurya} 200
+Cnarter LXXIV.—Tests of topas (Pushpa-raga)... 202—203
+Cuarrer LXXV.—Tests of Karketana on tee 203-204,
+Cuarrsr LXXVI—Tests of Bhishma-stone ... tes 204-205
+Cuartzr LXXVII —Tests of Pulaka stones we oe 206
+Cuarre#® LXXVIII.—Tests of blood-stone one on 207
+Cuarrer LXXIX.—Tests of crystals ... a ss. 207-208
+Cuarrer LXXX.—Tests of Corals ., are ae 208
+Cnarrer LXXXIL—A brief description of haly pools and
+
+sanctuaries ove ee wt see 209—212
+Cuarrer LXXXII.—Description of the sanctity of Gaya, and
+
+its early history oo ove oe wee 212215,
+
+Cuarrer LXXXIIL—Description of different rites to be per-
+
+formed at different places at Gaya and of their merits .., 245-224
+Cuarrer LXXXIV.—Ablutions in the river Phalgu, merit of
+
+making offerings of funeral cakes at Rudra. History of king
+
+Vishala oe oo oD vee 225—238
+Carrer LXXXV.—Merit of offering ‘faneral cakes at Preta-
+
+stila in Gaya - 7 . 230—233
+Cuarrer LXXXVI,—Merit of performing S' raddhas at Preta.
+
+Shila wn on ow oe wn 233937
+
+## Page 11
+
+CONTENTS. v
+
+Supject. Pace.
+Cuarrer LXXXVII.—Enumeration of the names of fourteen
+Manus and of the Devas and Saptarshis who flourished in
+
+the times of their sons ... os one see 237243
+Carter LXXXVIIL—Annals of Ruchi incidentally narrated
+
+in the discourse between Markandeya and Kraushtika —...” 243248
+Cuarter LXXXIX —Ruchi hymnises the Pitris, who in their
+
+turn grant him a boon te we sae 246-—255
+Cuaprer XC.—Marriage of Ruchi and birth of Rauchya
+
+Manu on as 255
+Cuarter XCI. —Contemplation of Hari ae ase 256-257
+Cuaprer XCII.—Contemplation of Hari and its process... 258— 260
+Cuaprer XCIII.—Laws of virtue as promulgated by the holy
+
+Yajnavalkya we wo sss 260262
+Cuapter XCIV.—Initiation with the holy thread and study
+
+of the Vedas . a wes 262-266
+Cuarter XCV —Duties of “nouse-holders aes ws 266-278
+
+Caaprer XCVI—Origin of mixed castes—the five great
+Yajnas, Sandhya-rites, duties of house-holders aud members
+
+of different castes a oo rs see 271—280
+Cuapter XCVII.—Purifications of defiled articles we 280-231
+Cuapter XCVIII.—Gift-making and Charity oe 281—281
+Cuaprer XCIX.—Mode of performing S'raddhas ... ws. 284289
+Cuarrer C.—Exorcism of Vinayakas ... -_ ss 290—291
+Carrer Cl.—Propitiation of malignant Planets ... °292—293
+CHaPreR CII.—Duties of the order of forest-dwelling hermits 204
+CHapTeR CIII.—Duties of Yatis eae oe 295
+Cuapter CIV.—Signs of sinful souls ... oe wee 295 ~— 2:16
+Cuaprer CV —Rites of atonement... ae 290—305
+Cuaprer CVL—Impurities a . 305—309
+Cuarrer CVII—A synopsis of the Dharma- Shastra by.
+
+Parashara wo we : ses 309315
+
+THE VRIHASPATI SAMHITA.
+cuarrer CVLII.—Synopsis of rules of conduct... eee BIS RIS
+
+cuapTer CLX —Advice on thrift and economy in the Nitisara 318—324
+cHaptrer CX.—Advice as to the non-rejectment of a certain
+
+good, etc. oe ove eee 324—328
+cHaprer CXI.- —~Commendable traits in kings, ete, (in the
+
+Nitisara) on ae ae see 328350
+
+## Page 12
+
+vi CONTENTS.
+
+. Sunjecr.
+7 cuarrer CXIL.—Commendable traits in servants (in the
+Nitisara) we ve
+CHAPTER CXII.— Injunctions as to the appointments of the
+honest and the erudite in the King’s service, etc.
+cuaprer CXIV.—Injunctions as to the distinction a friends
+and enemies (in the Nitisara) - . we
+cHapTerR CXV—Counsels on forswearing bad wives, etc.,
+(End of the Vrihaspati Samhita)...
+Zeuserer CXVI.—Enumeratién of the names of Vratas (vows
+and penances) commenced a
+cuaprer CXVIL.—The Ananga Trayodashi Vratam.
+cHarTer CXVIII —The Akhandya Dvadashi Vratam
+cuaprer CXIX.—Agastyargha Vratam ... ws
+cHapTer CXX.—The Rambha Tritiya Vratam aoe
+cHarrser CXXI—Ihe Chaturmasyam Vratam
+cuaprer CXXII.—The Mashopavasha Vratam_..,
+cuaprer CXXIII.—Kartika Vratas ... ve
+/ cHapTeR CXXIV.—The Shiva Ratra Vratam
+cuaprer CXXV.—The Ekadashi Vratam te
+cuarrer CXXV1—Vishvaksena Puja
+cnapTter CXXVII.—Bhaimi Ekadashi and Dvadashi
+cHAPTER CXXVIII.—Various Vratas described ... os
+cHaprer CXXIX.—The Pratipad Vratas
+
+cuaPre® CXXX.—The Shashti Vratas, Maricha Saptami
+
+Vratas oo oD = ees
+CHAPTER CXXXI Rohini Ashtami Vratas etc. ...
+CHAPTER CXXXII.—The Sadgati Vratam, etc...
+carter CXXXIII.—Ashokastami Vratas etc.
+cuarrer CXXXIV.—Maha-Kausika Mantra, -
+cHaPTER CXXXV.—The Viranavami Vratas, etc.
+cHaPTER, CXXXVI—The S'ravana Dvadashi Vratam a
+cuarTer CXXXVII.—The Damanaka Trayodashi, etc,
+
+Vratas ose oe oe
+
+cuaprer CXXXVIIL Geneology of royal princes (solar race)
+
+cuarrer CXXXIX—Gencology of the princes of ,the lunar
+race ts - ve on as
+
+cHAPTER CXL.—Description of the race of Puru ase
+
+cuarter CXLL—Descriptions of kings who came after
+Janamejaya ., we 7 oo
+
+Pace.
+
++ 331—333
+
+* 333-339
+
+339-346
+
+- 316-354
+
+359—360
+
+ves 361362
++. 362363
+
+363—365
+365—367
+367—368
+368—369
+370—372
+372374
++ 375-378
+
+378—380
+
+w+ 380-382
+s+ 383-385
+v+ 385387
+
+387—388
+388—389
+389-390
+
+390-392
+392—397
+
+397-402
+403—406
+
+406—408
+
+## Page 13
+
+CONTENTS. vii
+
+Supyecr. 7 . * Pace.
+
+cuapteR CXLII—Incarnations of Vishnu and the glory of
+nuptial fidelity described on on vee 4084
+cuapTerR CXLIIL—The Ramayanam ... see ATI 416
+carter CXLIV.—Description of the Harivamsha see 416418
+cHAPTER CXLV.—the Mahabharatam _ wee 418422
+
+THE DHANVANTARI SAMHITA.
+
+cuaprer CXLVI—Description of the Nidanam of all the
+
+diseases a wee wee $224.25,
+caaprer CXLVII—the Nidanam of Fever ae we 420—.
+carter CXLVIII.—The Nidanam of Raktapittam
+
+(Hemorrhage) wee wee see 437-439
+cuarrer CXLIX.—The Nidanam of cough we we 439442
+cuarrer CL—The Nidanam dyspnoea ws we Ab
+cuaprer CLI—The Nidanam of Hic-cough te se AAI SS
+cuapTeR CLIL—1he Nidanam of pulinonary consumption... 445—449
+CHAPrgR CLIIl.—Ihe Nidanam of Aversion to food ses day—450
+
+cHapreR CLIV.—The Nidanam of heart-disease ...
+cuarrer CLV.— the Nidanam of diseases resulting from the
+excess or abuse of wine wa 454458
+cuarrer CLVI—the Nidanam of Hemorrhoids ves 458-404
+cuapter CLVIIL—The Nidanam of Dysentery 464-5467
+cuarrer CLVIII.—The Nidanam of Stangury, ete. . 468472
+cuarrer CLIX.—!he Nidanam of diseases of ,the Urinary
+
+organs (Pramehas) ae on see 472-477
+cuaprer CLX.—The Nidanam of abscesses, etc. os. 477—485,
+cuaprer CLXI.—The Nitlanam of Asgites, etc. ... ve a85—408
+cuarrer CLXIL—The Nidananyof Chlorosis + 491-495
+cuarrer CLXIII.—The Nidanam of Erysipelas ... ss 496—499
+cHaPre: CLXIV.—The Nidanam of cutaneous affections
+
+(Kusthas) ... oes ss 499—504
+cuapres CLXV.—The Nidanam of bodily parasites ++ 504-506
+
+cHierer CLXVI.—The Nidanam of diseases of the nervous
+
+system we
+cuapran CLXVIL—The Nidanam of Vata-Raktam. -
+cuarrer CLNVIIL—The Nidanam of Mukho-roga 7
+
+cuaPrek CLXIX.—The Nidanam of diseases of the ears
+cuarrer CLXX.—The Nidanam of diseases of the nose
+cuarres CLXXI.—1he Nidanam of diseases of the eyes os
+
+## Page 14
+
+viii CONTENTS.
+
+a Sunyecr. Pace.
+cuarrer CLXXII.—he Nidanam of diseases of the head... 538—540
+cuapter CLXXIII —the Nidanam of diseases of the female
+
+reproductive organs nee ase $405 44
+cuarrer CLXXIV.—!he Nidanam of difficult labour wes 544-546
+cuaprer CLXXV.—'the Nidanam of diseases Pestle to par-
+
+turient women oe wee 546-547
+cuapter CLXXVI—~‘he Nidanam of diseases "peculiar to
+
+infant-life ... -_ ws §47—550
+cuserar CLXYXVIL—t he Nidanam of ‘Sypbilis - sss 550-554
+cuapter CLXXVIII --!he Nidanam of Variola ... wee 554-557
+carrer CLXXIX —lhe Nidanam of minor affections se 557-560
+ctapTeR CLXXX.—the Nidanam of Fistula in Ano, etc. 1 .. 561—562
+cuaprer CLXXXI—Jhe Nidanam of poisons... ses §63—572
+cHaprer CLXXXIL—1!the Nidanam of Goitre, scrofula and
+
+glandular swellings o- ae wee §72—-$75
+cuarten CLXXXIIL—Ihe Nidanam of vomiting see 575578
+cnaprer CLXXXIV.—The Nidanam of Urticaria ves §79—S8E
+cHaptenR CLXXXV.—!he Nidanam of S'ula, neuralgic
+
+pain, etc. oe oy oe os wee 581—585
+cutaprer CLXXXVI.—The Nidanam of aphonia sss §85—586
+cuapTer CXXX VII.— he Nidanam of Udavarta see 586588
+cuapter CLXXXVIIL—the Nidanam of traumatic ulcers
+
+ete. te = .. 588592
+CHAPTER CLEXXIX. — the Nidanam of S'arira Vranas (ldio-
+
+pathic ulcers) oo oa see 592593,
+cHaprer CXC —Ihe Nidanam of fractures co we 594-595
+cuapraR CXCI —Medicinal recipes of inffalible efficacies... 595606
+CHAPTER CXCII.—Medical treatment of fever? etc, ws» 606—613,
+
+cHaPTeER CXCIII —Medical treatment‘of Sinus, etc.
+
+613-619
+cuaprer CXCIV.—Medical treatment of female
+complaints... . a ve wes 619623
+
+cuaprer CXCV.—Therapeutic properties of drugs sas 623-627
+cuaprer CXCVI —Preparations of medicinal oils and Ghritas 627~629
+
+cuapter CXCVII.—Various medicinal ‘compounds disclosed
+by Hari to Hara aa fi se €29—630
+
+cuaeter CXCVIIL—Various other medicinal Recipes ase 630—632
+cuapter CXCIX.—'the same continued
+
+632 639
+cuaprer CC.—1he same continued } ae vs 639642
+
+## Page 15
+
+CONTENTS. ix
+
+Supyecr. Pace.
+CHAPTER CCl.—The same continued ... 639-642
+cuarrer CCII —The same continued .., ++ 642—644
+
+CHaprer CCIII —The same continued... + 644-645
+cHaPTEeg CCIV.—The same continued ae we 645—649
+cHaPTeR CCV.—Various other Recipes 646—618
+cHaprer CCVI.— he same continued
+
+cHaPTER CCVII.—The same continued
+cuaPTer CCVIII.—Aphrodisiacs, Love, charms, tc.
+cuapTeR CCIX.—Various other Recipes ony
+
+carrer CCX.—The same continued ae z
+cHapTER CCXI.—Medical treatment of cuts, wounds, scalds,
+
+burns, etc. are oe ++, 661—062
+cHapTeR. CCXII.—Other Medicinal Recipes w+ 662663,
+cHaPTER CCXIII.—The same; continued oD w+ 664-660
+cuapTer CCXIV.—Medical treatment of snake-bite, etc. ... 666—668
+cHaPTER. CCXV.—Various Recipes... + 668—670
+cHAPTER CCXVI.—Medical treatment of the “Giveases of
+
+cows, etc, oD - - 5 67r
+cHarrer CCXVII.—Various Recipes for the cure of sterility,
+
+virile impotency, etc. ... . we vee 671—675,
+cHarreR CCXVIIL.—Various Recipes of fumigation-com-
+
+pounds, etc, one _ oes «+ 675—676
+cuapter CCXIX.—The prophylactic charm of Vaishnava 2
+
+Kavacham wee ae or wv 677-679
+cuapter CCXX.—The Sarvarthada Mantra oy 680
+cHapTeR CCXXI.—The Vishnu-Dharma Vidya ... w+ 681—682
+cHaPTeR CCXXII.—The Garuda Vidya on v1, 682—687
+cHaPren CCXXIII.—1 he Tripura Vidya ws 687—089
+cHapTeR CCXXIV.—The Chudamani ++ 689—692
+cuarrer CCXXV.—The Pavana Vijaya we 692—693,
+cuapreR CCXXVI.—Medical treatment of the diseases of
+
+horses aon oo ED ft +» 693—607
+cuaprer CCXXVII.—Different names. of the “Ayurvedic
+
+Drugs wae oo oe v1 698—705,
+cuarTer CCXXVIIL. Rules of Grammar a ws 70670
+cHarTer CCXXIX.—Duties of Brahmanas, etc. ... we 7E2—727
+Cuarrer CCXKXX.—A Synopsis of practical pieties ws 2729
+cuartar CCXXXI—Expiatory Penances 7 ses 7130-738
+cuAeTer CCXXXII.—Dissolution of the Universe wee 238742
+cHaPreR CCXXXIII,—-Naimittika Pralaya, etc. .., ve 742743?
+
+## Page 16
+
+x + CONTENTS.
+
+Supyecr. Pace.
+
+cuapter CCXXXIV.—The Wheel of Existence (Samsara
+Chakra) oe woe oe os wes 743-746
+cuapTer CCXXXV.—The mode of Practising the Great Yoga 746—751
+cuaprer CCXXXVI—Vishnu Bhakti os ws 151-755
+cHarTen CCXXXVII.—The same continued os se 755-756
+cuaprer CCXXXVIIIL.—The contemplation of Vishnu. 787
+
+cuaPTRR CCXXXIX.—The excellence of Faithi ...
+cHapTer CCXL.—Traits of a true Vaishnava
+
+758—76t
+761-—763
+
+cuaprer CCXLI.—The hymn to Nri-Sinha 763—765,
+cuapren CCXLIL—The Jnanamritam Stotram ... ve 765-769
+carrer CCXLIII.—The hymn to Vishnu composed by the
+
+holy Markandeya os we ses 769-770
+cHapTeR CCXLIV.—The hymn to Achyuta os ae 770775,
+cuapterR CCXLV.—The knowledge of Brahma ... + TT5—780
+cuapter CCXLVI.—The knowledge of Self vs ve 780-782
+cuaprer CCXLVII.—Synopsis of the Gita oe ove 78200783
+
+cuapter CCLVIII—The eight'essentials of Yoga, etc. the,
+merit that may be acquired by hearing the nagration of
+the Garuda Puranam etc. ony ay vee 783-784
+
+## Page 17
+
+PREFACE.
+
+A few preliminary remarks on the history, scope and contents
+of the Garuda Puranam may be necessary. The Garuda
+Puranam may be safely described as a sister work to the
+Agni Puranam. Each of them treats of Pard Vidy4 and Apar&
+Vidya, secular knowledge and metaphysical truths, and par-
+takes mure of the nature of a catechism of the then’prevailing
+Brahmanism, or of what a Brdhmana was required to know at
+the time, than of the Puranm proper, at least if we may be
+admitted to look upon the Ramayana or the Mah4bhératam as
+the model of that class of literature. Superficially conforming
+to the Rules of Pancha Sandhis, etc., the Garuda Puranam,
+like its sister work, reflects but the knowledge of the
+Brdhmanical world at the time, and had its uses then as it
+has even now.
+
+Without doing violence to the antiquarian instinct,
+we must say that it is quite futile to attempt to lay
+down the precise date of the composition of the Garuda
+Puranam. Its name occurs in the Haldyudha’s Brahmana
+Sarvasvam. Chakrpani Dntta has quoted many a recipe
+from it, and the Vishnu Dharmottaram, according to
+several eminent authorities, orginally formed a portion of
+the Garuda Puranam. All these [factors emphatically
+demonstrate the fact that, the Garuda Puranam was in
+existence even before the tenth century of the Christian Era.
+On the contrary, we have reasons to believe that, hosts of
+Puranas and Upapuranas were composed in the age of Brah-
+manic renascence, which immediately followed the overthrow
+ef Buddhism in India. The Garuda Puranm, like the Agni,
+Shiva, Padma, and the like Puranas, were the exponents of
+the victorious Brahmanism, which, being inevitably divided into
+schisms, tried to invest the tutelary deity of each sect with
+
+## Page 18
+
+ii PREFACE.
+
+the attributes of supreme divinity or Brahma, and to equip its
+members with a complete code of rituals, law and other neces-
+sary informations regarding the incidents of every day life,
+subservient to, and in conformity with, the Vedas and the
+Vedic literature. Thus each schism or faction, or more
+correctly, each Puranam, the scripture of each sect of special,
+tutelary divinities, becaine a new school of law, medicine and
+metaphysics, etc., re-instating the old errors of the Vedic
+literature, as if to ignore the many advanced truths and
+principles of the later day Buddhistic science, and to confirm
+the victory of Brahmanism even in error and fallacy.
+
+The description of the incidents of the life of Buddha,
+however meagre and incidental it might be, and the
+accurrence of the name of Sushruta in the medical portion
+of the Garuda Puranam leaves not the slightest doubt that
+its author was intimately acquainted with the Buddhistic
+literature of the age, both medical and metaphysical. It is
+a settled fact of history that the Sushruta Samhita, at least
+the recension of the Sashruta Samhita by the Buddhist
+Nagarjuna, was written in the second century before the birth
+of Christ. Now, the Sushruta Samhita says that, the number
+of bones in the human body is three hundred. The Vishnu
+Smriti (Institutes of Vishnu) following the orthodox (Vedic)
+non-medical opinion- on the subject gives it as three hundred
+aud sixty-six. . .
+
+We know that Nagarjuna, the Buddhist redacter of
+the Sushruta Samhita, mentioned in his recension of the
+work that there are “three hundred bones in the human
+organism, but the followers of the Vedas say that their
+number is three hundred and sixty’? which tallies with
+the number given inthe Yajnavalkya Samhita. The Garuda
+Puranam gives the number as the three hundred and sixty two
+(Asthndm Doyodhikam Proktam Sashthyadhika S’atatrayam)
+a sort of compromise between the Vedic and the Buddhistic
+osteology, or between the dictates of conscience, imperatively
+
+## Page 19
+
+PREFACE. iti
+urging the man to state the whole truth, and the pride of
+conquest impelling him to set upa schism against truth. The
+author of the Garuda Puranam, whoever he might be, must
+have been sufficiently familiar with the works of Nagarjuna and
+other Buddhistic Medical Acharyas so as to be fully convinced
+of the truth of their statement, and attempted to make the
+Vedic number of skeletal bones as near to the trutlas possible.
+This fact serves to throw a new light upon the date of the
+composition of the Garuda Puranam. It unmistakably points
+to a period of history when the victorious Brahmanism once
+more attempted to restore the teachings of the Vedas in their
+pristine glory, and the truths of the Buddhistic science or
+metaphysics were still too potent a factor to be ignored or
+lightly dismissed—a fact which supports our contention and
+lends a plausible colour to the view we have adopted as
+regards the probable date of the composition of the Garuda.
+
+The second question, that confronts us, is the purity of the
+text, z.e., whether the Garuda Puranam, as we now possess
+it, is what it was originally written by its author; or whether
+its bulk has been considerably increased by subsequent
+additions? In the first Chapter we learn that, the Puranam
+consists of eight thousand and eight hundred verses, and the
+subjects dealt with therein are creation of the universe, Pujas,
+Holy pools and shrines, Cosmogony and Geography, Ages of
+Manus, Duties of different so¢ial orders, Gift-making, Duties
+of kings, etc., Laws, Vratas, Royal dynasties, Therapeutics
+with Etiology, Vedangas, Pralaya, Laws of Virtue, desire,
+and money, and Knowledge (of Brahma and external things).
+These then were the main themes that were originally dealt
+with in the Garuda Puranam, and we may say that this was so:
+in the light of the principle of 4dhvdya Sampravibhiga (classi-
+fication of chapters: which forms one of the cardinal rules in
+forming the plan of a Sanskrit work. We regret to say that,
+many things, having no legitimate connection with the main
+themes of this Puranam, nor having a direct bearing thereon,
+
+## Page 20
+
+iv PREFACE,
+
+have been added to it, anda large mass of original matter has
+been expunged from it so as to bring it within the compass of
+the eight thousand and eight hundred Slokas, as laid down in
+the introductory chapter. Thus we see that the Pretakhanda
+or Vishnu-dharmottara was added to it by way of an appendix,
+and the reason of these successive accretions to the text
+can be easily understood if we consider that, the Garuda
+Puranam, like the Agni, etc., although originally a compen-
+dium of the available Brahminical knowledge, and rituals, pur-
+sued and followed by the Vaishnava section of the community,
+came to gather in many tributaries from the other branches
+of Brahmanic thought and religion, as the distinction between
+the sect of Vishnu and other sects of S’iva and Sakti etc., came
+to be less marked and pronounced, and the points of differ-
+ence or antagonism between them were more rounded off.
+Thus we see many Tantrik rites and Mantras such as, the
+Tripura Vidya, Nityaklinna Vidya were introduced into the
+Garuda Puranam, one of the Scriptural Puranas of Vaishna-
+vism ; and the Preta-khanda, which we find invariably appen-
+ded to the Puranam in many of the manuscripts, does but re-
+flect the necessity of ‘subsequently adding to it a treatise on
+funeral rites, or on punishment and reward after death accor-
+ding to one’s deserts,‘only to enhance the utility of the work
+as ‘a book of reference in every day life, as the members of
+the sect began to be more bigoted and averse to reading reli-
+gious works, or Puranas dedicated to the tutelary gods of
+other sects. It requires nothing more than an average intellect
+to detect that the part under reference (Preta-Khanda) is
+manifestly an interpolation, inasmuch as the subject has been
+already dealt with in chapters on S'raddha-vidhi, Papa-
+Chinha Lakshanam and Prayaschittd, etc., and the insertion
+of a more detailed and elaborate dissertation on the subject
+under the style of Preta-Khanda is an unnecessary repetition
+and re-opening of a finished discourse (Samépta Punardtta+
+#4) which is bad both in reason and rhetoric. We have
+
+## Page 21
+
+PREFACE. v
+
+attempted to expunge all spurious portions, or passages of
+questionable authenticity from the text in the light of the
+reasons stated above, and tried to restore it to its original
+form as far as possible after the progress of so many centuries
+since it first saw the light.
+
+We may be asked the rationale of our conduct in under-
+taking the English translation of the Garuda Puranam. The
+question is natural enough, if the work is nothing but a com-
+~pendium of Brahmanic rituals and mysteries, what is the
+profit of disinterring it from beneath the oblivion which it so
+unqualifiedly deserves. Our answer is that, in addition to the
+many mystic rites and practices, which legitimately fall within
+the range of studies in spiritualism, the Garuda Puranam
+contains three Samhitas, v7z., the Agastya Samhita, the
+Brihaspati Samhita (Nitisara), and the Dhanvantari Samhita ;
+any one of which would give it a permanent value, and accord
+to it an undying fame among the works of practical Ethics or
+applied medicine. The Agastya Samhita deals with the forma-
+tion, crystallisation and distinctive traits of the different preci-
+ous jems, and enumerates the names of the countries from which
+our forefathers used to collect those minerals. The cutting,
+polishing, setting, and appraising, etc., of the several kinds of
+jems and diamond, as they were practised in ancient India,
+can not but be interesting to artists and lay men alike, and the
+scientific truths, imbtdded in the highly poetic accounts of
+their origin and formation,*shall, we doubt not, be “welcomed
+even by the present day mineralogists, if they only care to
+look through the veil and to see them in their pure and native
+nuditity. In these days of Oriental research, it is quite within
+the possibilities of every ardent enquirer to make himself
+acquainted with the terms and technicalities of the science
+of our Rishis, and we are confident that any labour he may
+bestow on the subject in connection with the Agastya Samhita
+will be remunerated a hundred-fold.
+
+The next Samhita in the Garuda Puranam is the Bribaspati
+
+## Page 22
+
+vi PREFACE.
+
+Samhita, commonly known as the Nitisara, in which we find
+observations on practical conduct and a knowledge of human
+nature, which strongly remind one of Bacon’s essays and in
+comparision with which the Samhita gains one or two points
+mote, not to speak of its excellent poetry and harmony. In
+the ftiological portion of the Dhanvantari Samhita, one is
+astonished to find that in “certain types of fever the blood
+undergoes a sort of chemical change which produces the
+morbific factors of the disease, that in hamoptisis the”
+blood comes from the spleen, {liver or the blood-vessels
+(facts unknown to the Nidanist, Madhava), that there is a kind
+of parasites that produces leprosy, and cutaneous affections in
+general,” facts which, it was but yesterday, that the science of
+the west have gained access to. The therapeutical portion of
+the Samhita contains many excellent remedies which can not
+but benefit man in the art of living a long, healthy life. It is
+almost impossible for us to give within such a small compass
+even the faintest glimpse of the splendid truths that lie scatter-
+ed through the pages of this noble Puranam ; enough if we
+conclude our remark with the saying that, it broadens the
+vision of a man into regions where systems and worlds
+are but bubbles and atoms, and enables him to consolidate his
+amity with those profound realities, which encompass “ being
+and becoming” in every :plane of existence, or at Ieast helps
+him to lift up the veil of the Nature’s workshop and to catch
+a view, however slight and momentary, of the nature and
+essence of things.
+
+CALCUTTA,
+t M. N. DUTT.
+
+The rath June, 1908.
+
+## Page 23
+
+THE
+
+GARUDA PURANAM.
+
+CHAPTER I.
+
+I SALUTE the One Supreme, without birth, decay or end,
+identical with knowledge, great, auspicious free from impuri-
+ties, without beginning, devoid of elemental body and actions,
+stationed in all creatures, Hari, freed from impurity and
+illusion and present everywhere. With mind, speech and
+actions I do always salute Hari, Rudra, Brahma, the lord of
+Ganas and the goddess Saragwati. Having’ adored and
+lauded the poet Suta, well-versed in Puranas, of a quiet
+nature, the master of all scriptures, devoted 'to Vishnu and
+-high-souled when he came to the forest of Naimisha while
+-making a pilgrimage to sacred shrines and seated on a holy
+seat was meditating on the sinless, Vishnu, the great Rishis,
+-Sounaka-and others, dwelling in the forest of Naimishi,
+
+-having:asceticism for their wealth, of quiescent souls, efful-
+gent like the sun and ever engaged in the celebration of
+. Sacrifices, said.
+
+.The Rishis.said:—O Suta, thov art informed of. every
+
+thing and therefore we ask you:— Amongst the celestials
+
+## Page 24
+
+2 GARUDA PURANAM.
+
+who is Iswara and who is worthy of adorations ? Who should
+be meditated on? Who is the creator of the universe ?_ Who
+protects it and who destroys it? From whom proceeds
+religion? Who suppresses the wicked? With what vowed
+observances is he pleased? By what yoga can he be obtained?
+What are his incarnations and what is his family? Who
+has instituted the various castes and orders and who pro-
+tects them? O Suta, O thou of great intellect, do thou
+describe unto us, all this and every thing else, the most
+excellent themes about Narayana.
+
+Suta said:—TI will describe the Garuda Purana, the
+essence of all accounts relating to Vishnu. Formerly Garuda
+described it to Kashyapa and I myself had heard it
+from Vyasa. The Lord Narayana alone is the lord of
+all the lords of the deities, the great soul and the great
+Brahma; from him proceeds birth &c. For the protection
+of the universe Vasudeva, without birth and death,
+assumes various incarnations by his body, namely that of
+Koumara and others. Having undertaken the incarnation’ of
+Koumara and lived in the celestial region the first deity Hari,
+O Brahman, practised the most difficult vow of celebacy with-
+out any break. Secondly having assumed the Boar-form the
+lord of sacrifices, for the general well-being, released and
+held up the earth sunk deep under the nether region. Thirdly
+for the creation of the Rishis, he, assuming the form of a
+Brahma Rishi, performed Sattwik (pervaded by the’quality
+of goodness) actions from which alone proceed desireless
+actions. Then for protecting righteousness, Hari, assum-
+ing the form of Nara Narayana, practised hard penances. He
+was then adored by the celestials and Asuras. His fifth incar-
+nation was Kapila, the lord of Siddhas* who expounded unto
+
+* Inspired seers. A Siddha is a semi-divine being supposed to be
+of great purity and holiness characterised by Siddhis or eight super-
+natural faculties or perfections.
+
+## Page 25
+
+GARUDA PURANAM. 3
+
+the celestials the Sankhya,* which ascertains the Tattwas or
+elementary particles which had been lost in time. In his
+sixth incarnation he was born as the son of Atri and com-
+municated jto Alarka, Pralhada and others, the knowledge of
+Anwikshiki (metaphaysics) obtained by him from Anasu
+His seventh incarnation, in the Sayambhuva Manwantara, was
+Yajna, the will-begotten child of Akuti, who performed
+sacrifices in the company of the celestials. In his eighth
+incarnation he was born as the powerful son of Nabhi from
+Merudevya. Adored of all the orders he pointed out to men
+the real road. Solicited by Rishis he assumed the body of
+Prithu as his ninth incarnation and the Brahmanas and
+other creatures were revived by him with the milk of herbs.
+When the Earth was submerged under water in the end of
+the Chakshusa Manwantara he assumed the form of a Fish
+and saved the Manu Vaivaswata by placing him on a boat.
+In his eleventh incarnation the Lord, in the shape of a tortoise,
+held on his back the mount Mandara with which the celestials
+and Asuras churned the ocean. In his twelfth incarnation as
+well as in the thirteenth in the form of a woman he stupified
+the Asuras and pleased the celestials. Assuming the form of
+a man-lion in his fourteenth incarnation he subdued the
+Daitya chief by cutting his entrails with his fierce claws.
+Assuming the form of a dwarf in his fifteenth incarnation he
+went to the Sacrifice of Bali and praying for room for his
+three feet obtained it. Beholding the kings aggrandise the
+Brahmanas in his sixteenth incarnation, he, filled with anger,
+divested the earth of the Kshatriyas for twenty one times.
+In his seventeenth incarnation he was begotton on Satyavati
+by Parasara (as Veda-Vyasa) ; and seeing the feeble intellect
+of the people he divided the Vedas. Then for accomplishing
+
+* It is a system of philosophy ascribed to Kapila, It is called
+Sankhya because it enumerates twenty-five Tattwas or principles. Ac-
+cording to this system final liberation is obtained by a true knowledge of
+these principles.
+
+## Page 26
+
+4 GARUDA PURANAM.
+
+the work of the celestials he was born as a king (Rama),
+built a bridge over the ocean and performed other feats. in
+his nineteenth and twentieth incarnations the Lord was born
+as’ Rama and Krishna and relieved the earth of her burden.
+Then at the junction of the Kali yuga, for stupefying the
+enemies of the celestials he was born as Buddha, the son of
+Jina. In the period of the eighth junction (change of cycles),
+when all the kings will be on the verge of destruction, he will
+be born as Vishnujasa’s son Kalki, the lord of the world.
+Innumerable are the incarnations of Hari, the mine of Sattwa,
+O twice-born ones. The prime Manus, the knowers of the
+Vedas, are all said to have originated from Vishnu. From
+them proceeded the work of creation. And they should be
+adored with vowed observances and other rites. This Garuda
+Purana consisting of eight thousand and eight hundred
+verses Vyasa formerly narrated to me.
+
+CHAPTER II.
+
+THE Risuis said :—Why «did Vyasa" describe to you the
+Garuda Purana? Do thou describe thus the most excellent
+theme relating to Vishnu.
+
+THE SuTA said:—In the company of the ascetics I had
+gone to the hermitage of Vadarika. There I saw Vyasa
+meditating on the great Ishwara. Having bowed unto him
+I took my seat and accosted that foremost of ascetics
+saying :—
+
+“O Vyasa, relate unto me the form of Hari from which
+has emanated the creation of the universe, Methinks, while
+thou dost meditate on the Lord, thou must be knowing it.”
+
+## Page 27
+
+GARUDA PURANAM. 5
+
+Hear, O Vipras,what he did relate on being thus ac’costed
+by me.
+
+VyYASA said :—Hear, O Suta, I will recount the Purana
+Guruda which Brahma described to me in the company of
+Narada, Daksha and others.
+
+Tue Sura said:—How did Brahma relate the sacred
+Purana Garuda, describing the true essence, unto thee whea
+united with Daksha, Narada and others.
+
+VyaSA said :—Having saluted Brahma who was residing
+in the Brahmaloka, myself, Daksha, Narada, Bhrigu and
+others said to him. ‘ Describe unto us the quintessence (of
+the sacred lore).”
+
+BRAHMA said:—O Vyasa, I will recount to you, the
+Garuda Purada, the cream of sacred learning which Vishnu
+described to me and Rudra formerly while in the company
+of other celestials.
+
+Vyasa said:—O Brahman, describe to me the Garuda
+Purana, pregnant with great significance, the essence of all,
+which Hari formerly described to Rudra while in the com-
+pany of other celestials,
+
+BRAHMA said:—With Indra and other celestials I had
+gone to the mount Kailasha. There I saw Rudra engaged in
+the meditation of the great station. Having saluted him
+I addressed him, saying:—“O Shankara, on what art thou
+meditating? Save thee, I do nov know of a greater deity. Do
+thou therefore describe unto me [the subject of thy medita-
+tion] the quintessence [of the sacred learning] who, along
+with the celestials, am anxious to listen to it.”
+
+Rupra said :—l meditate on Vishnu, the great soul, the
+Demiurgus, who gives all, who is present everywhere and
+who resides in the hearts of all creatures. O grand-father,
+my body is besmeared with ashes and my hairs have been
+clotted. All my vowed observances are intended for the
+adoration of Vishnu. I will describe him unto you, the
+essence of all, on whom I meditate. I meditate on the deity
+
+.
+
+## Page 28
+
+6 GARUDA PURANAM.
+
+Hari, Vishnu, Jishnu, who is lotus-navelled and shorn of
+a body; who is purity, the source of purity; who is the im-
+personal self and the individual soul ; who is the great Ishwara
+and unites all souls with himself. In him exist all the worlds
+and elements and into him they enter. All the gunas
+(qualities) and elements exist in that lord of elements as
+pearls are strung by athread. He has a thousand eyes, a
+thousand heads, a thousand thighs and a most beautiful
+face. He is the minutest of the minute, the firmest
+of the firm, the heaviest of the heavy and the best of
+all that is good. In the words, letters, principal and minor
+sacred lores and in the true Saman he is lauded as truth and
+the author of true deeds. He is called the ancient Purusha
+and Brahma amongst the twice-born. He is called Sankar-
+shana in destruction. I therefore adore him in whom all these
+worlds shine us the Shakula fishes in the water. He is the
+divine law, the word (Om), Brahma, the that, the existent and
+non-existent and the supreme. The celestials, the Yakshas,.
+the Rakshasas and the Pannagas. adore him. Fire is his mouth,
+the heaven is his head, the sky is his navel and the earth is his.
+feet and the sun and moon are his two eyes. I meditate on
+him. I meditate on that deity whose breaths are the wind, in
+whose belly the three worlds exist and whose arms are the
+divisions of the time. I meditate on that deity in whose
+hairs are the clouds, and in the joints of whose body are the
+four oceans. I meditate on that deity who is above time,
+who is above sacrifices, who is above the existent and non-
+existent and who is the beginning and end of the universe.
+T meditate on that deity from whose mind emanates the moon,
+from whose eyes the sun and from whose mouth the fire. I
+meditate on that deity from whose feet the earth is produced,
+from whose ears the directions and from whose head the Div
+(celestial region). I meditate on that deity from whom have
+proceeded the works of principal and minor creations, the
+various races, Manwantaras, and histories of the families.
+
+## Page 29
+
+GARUDA PURANAM, 7
+We will proceed to him, to witness the true essence, on whom
+I do meditate.!
+
+BRAHMA said:—I was thus formerly addressed by Rudra.
+Having lauded and saluted Vishnu, the dweller of the white
+island (Shweta-dwipa) we sat calmly desirous of listening to
+(the subject). From amongst us Rudra said to Vishnu, the
+great Iswara:— Describe to us the most essential of all
+essence; we salute thee.” What, O Vyasa, you have asked
+me the Lord Bhava asked Vishnu in the hearing of myself and
+other celestials.
+
+Rubra said:—O Hari, O king of gods, tell usawho is the
+god of gods; who is Iswara; who should be mé ated on;
+who should be adored; with what vowed observances, the
+great is propitiated? With what religious observances, with
+what process of self-restraint, with what form of adoration
+and with what sort of conduct is He pleased? What is his
+form? From what deity the universe has emanated and who
+protects it? What are his incarnations? In whom the
+world is dissolved? From what deity proceed the works of
+principal and minor creations, the various families and Man-
+wantaras? In whom do all these exist? Do thou describe
+all this and every thing else, O Hari-|
+
+Then Hari described to Rudra the glories of the great
+Iswara, the Yoga aad eighteen | sorts of learning.
+
+Hari said :—Hear, O.Rudra, I will describe it, along with
+Brahma and other celestials.
+
+I am the god of gods, the lord of all the worlds. I am the
+object of meditation and adoration and am lauded by the
+celestials with.panegyric verses. When I am worshipped by
+men with self-restraint, vowed observances and good conduct
+O Rudra, I grant them the most excellent stage.
+
+I am the seed of the preservation of the world and I am
+also the destroyer of the universe, O Shiva. O Hara, I am
+also the suppressor of the wicked and the protector of
+religion. With fish and other incarnations I do protect the
+
+## Page 30
+
+8 GARUDA PURANAM.
+
+earth. I am the import of the mystic formula and am en-
+gaged in adoration and meditation. I am the creator of
+heaven and!I am myself the heaven, &c. I am the knower,
+the hearer, the speaker and the object of speech. I am
+all and the deity identical with all. I am the source of
+worldly enjoyments and emancipation. I am the presents
+of meditation and adoration; I am the Mandalas, the
+Itihasas, O ‘Rudra. O Shiva, I am all the deities. O
+Shambhu, I am all the forms of knowledge. I am at one
+with Brahma, O Shiva. I am Brahma, all the regions, and
+identical with all the deities. I am the personification of
+righteous conduct and the religion of Vishnu. I am the
+Varnas (castes) and Ashramas (orders) and.I am the ancient
+religion. I am the process of regulation, that of self-restraint
+and the various vowed observances, O Rudra. Iam the sun,
+the moon, and all the auspicious things. Formerly with
+asceticism the bird Garuda had worshipped me on earth.
+Pleased ‘with him | asked him to pray for a boon ; and he too
+prayed for a boon.
+
+Garupa said :—O Hari, my mother Vinata had been made
+a slave by the Nagas. Do thou so order, that 1 may bring
+ambrosia after vanquishing the celestials, that I may release
+her from slavery and that I may be thy carrier. Do thou so
+order that I may be highly powerful, geeatly strong, omni-
+scient, the afflicter of the Nagas,.and the author of Puranas
+and Samhitas.
+
+VISHNU said:—What you have said, O Garuda, will all
+be'accomplished. You will'release your mother Vinata from
+the Nagas. Having vanquished all the deities and others
+you will bring ambrosia. You will be the highly powerful
+carrier. By my favour you will be the author of the Purana,
+describing my gloriés and forms. By your name it will be
+celebrated on earth-as Garuda. :O son of Vinata, as I am
+the God ‘of gods and Shree ‘is celebrated so the Garuda
+Purana will be celebrated amongst all the’ Puranas. As I am
+
+## Page 31
+
+GARUDA PURANAM. 9
+
+worthy of being lauded so thou shalt be. Meditating on me
+by your mind do you describe this Garuda Purana by your
+bird mouth.” Thus accosted, O Rudra, Garuda described it
+to Kashyapa. Hearing the Garuda Purana Kashyapa revived
+the burnt tree. Hearing yourself with fixed attention do
+you revive others with your learning. “The bird, Om, Um,
+Swaha”—This is the great learning of Garuda. Hear, O
+Rudra, the great Garuda Purana narrated by Garuda.
+
+—:0:—=
+
+CHAPTER III.
+
+Sura said:—Thus did Rudra hear it from Vishnu;
+Brahma from Rudra; from Brahma the ascetic Vyasa; and
+myself from Vyasa. And I relate it to you, O Shounaka, in
+the forest of Naimisha. In the assemblage of the ascetics
+have been described by me, the creation and the adoration
+of the deities, the various sacred shrines, the wealth of the
+world and the Manwantaras; the duties of the various
+Varnas (castes) and Ashramas (orders) ; the gifts, the regal
+duties, the laws, vowed observanees, families and the medical
+science with a diagnosis of diseases; the various auxilliary
+sciences, the universal dissolution ; religious profit, desire,
+worldly profit and the most excellent knowledge. The
+illusory deeds, and those beyond the range of illusion, of
+Vishnu have all been narrated in Garuda Purana. This
+Garuda is Bhagavan.* By the favour of Vasudeva he
+has been endued with great strength. Having become the
+
+* It is an epithet applied to a god or demi-god or a great ascetic,
+Literally the word means one endued with six qualities,—prosperity, ,
+might, glory, splendour, wisdom and dispassion,
+
+2 .
+
+## Page 32
+
+10 GARUDA PURANAM.
+
+cartier of Hari he is the instrument of creation &c. Having
+vanquished the celestials Garuda brought ambrosia, by which
+the appetite of the universe, lying in the belly of Hari, was
+appeased. His very sight or recollection destroys the
+serpents. Through Garuda Kashyapa revived all the burnt
+trees. Garuda is Hari. He related it unto Kashyapa. The
+auspicious Garuda Purana, when read, gives piety and all
+objects. Hear, O Shounaka, how Hari describe it unto
+Radra.
+
+CHAPTER IV.
+
+Rupra said:—O Janarddana, do thou described the
+primary and scondary creations, the families, Manwantaras
+as well as the histories of the families.
+
+Hart said :—Hear, O Rudra, I will describe the old sport
+of Vishnu, consisting of creation, preservation and destruc-
+tion, which destroys all sins.
+
+The Lord Vasudeva, void of passion, Nara-Narayana, is
+the great Soul, Para Brahma, the creator and the destroyer
+of the universe. All this exists in Him as both manifest and
+unmanifest. He exists in the form of Purusha (male-heing)
+and Kala (Time). Vishnu is both manifest and unmanifest.
+He is Purusha and Kala. Understand, his actions are like
+those of a sportive child. He is without beginning, the
+Creator; He is without end and Purusottama (the most
+exalted of male beings). From him originate the unmani-
+fest as well as the soul. From him emanate the intellect,
+mind, the Tattwas (principles) ether, air, fire, water and earth.
+O Rudra, He is the golden egg and is himself his own end.
+
+## Page 33
+
+GARUDA PURANAM. IL
+
+The Lord assumes a body for the purposes of creation.
+Having assumed the body of Brahma with four mouths,
+parvaded by the quality of Rajas (darkness) he creates the
+entire world, moveable and stationery. This entire universe
+consisting of the celestials, Asuras and human beings lies
+inside the egg. As Creator he creates the universe; as
+Vishnu he protects it; and he destroys it in the end. Hari
+himself is the destroyer. Having assumed the body of
+Brahma Hari creates the universe and as Vishnu he protects
+it. And assuming the form of Rudra the Lord destroys the
+universe at the end of a Kalpa. When Brahma was engaged
+in the work of creation, He, assuming the form of a boar,
+held up with his tusks the earth sunk under water. Hear,
+O Shankara, I will describe all in short beginning with the
+first creation of the deity.
+
+The first creation is Mahat or intellectual principle ; it is
+simply a metamorphosis of Brahma. The second creation
+is that of Zanmatras or the subtle elementary particles.
+This is known as the creation of elements. The third is
+called Vaikdrika or the creation of organs. This is the
+(Prakrita) material or elementary creation originating from
+intellect. The fourth is the primary creation—and all the
+stationery bodies are known as primary creations. The next
+is Tiryyaksrotas* whd are otherwise called Tiryyakjonya i.e.
+beasts &c. The sixth is the Urdhasrotasat which is called
+the creation of the celestials. The seventh is the creation
+of Arvakasrotast or human beings. The eighth is the creation
+of Anugrahas§ pervaded by the qualities of Sattwa (good-
+ness) and Tamas (ignorance).
+
+* Lit the stream of beings living according to nature.
+
++ Lit the stream of beings tending upwards.
+
+$f. And as these eat by swallowing down they are called
+Arvaraskotasas.
+
+§ A class of deities.
+
+## Page 34
+
+12 GARUDA PURANAM.
+
+These are the five orders of the Vaikarika (organic)
+creation. There are three orders of the elementary and
+organic creation, Koumara makes the ninth. O Rudra, there
+are four orders of creation beginning with the celestials and
+ending with the stationery creation.
+
+While engaged in the work of creation Brahma first
+procreated his mind-born sons. Then desirous of creating
+the four classes of beings, viz the celestials, Asuras, Pitris
+and human beings, all, going under the name of Amva he
+adored his own self.* As the lord of beings, although
+himself of unfettered soul, concentrated his soul, being
+desirous of creating, passion overspread him and first from
+forth his hips came out the Asuras. And then he renounced
+his person surcharged with Zama or darkness; and his dark-
+ness, on being renounced by him, O Shankara, was converted
+into Night. Having assumed another body he became desi-
+rous of creating and felt delight. Then O Hara, came out
+from the mouth of Brahmi, the celestials surcharged with the
+quality of Sattwa (goodness). On being renounced by him
+his body, surcharged with the quality of Sattwa, was
+converted into Day. Therefore it is that the Asuras are
+powerful in the night and the celestials during the day. He
+then assumed a person fraught with the quality of goodness
+and then sprang from him the ancestorse And that body, on
+being renounced by him, became Twilight remaining between
+day and night. Then having assumed a body fraught with
+the quality of Rajas (darkness) he created human beings.
+And on being renouned by him that form became moon-light
+which is termed Praksandhya.t Moonlight, Night, Day and
+Twilight are his bodies. And then he assumed another body
+fraught with the quality of darkness and thereat sprung hunger
+
+* The passage is not clear. Perhaps by the expression “adored his
+own self” the author means that Brahma was engaged in the process
+of mental retrospection.
+
++ Meaning going before twilight.
+
+«
+
+## Page 35
+
+GARUDA PURANAM. 13
+
+from him and from hunger wrath. Brahma then created
+Rakshasas exercised with hunger. [Those that said ‘ Save
+him’] are called Rakshas and those [that said ‘We shall eat
+him up] are called Yakshas from Yakshana eating. And
+from the movement (Sarpana) of his hairs sprang the
+serpents. Waxing wroth he generated some beings of
+wrathful temper. O sinless, then the Gandharvas came out
+singing. All these beings were created by him.
+
+He created goats from his mouth, the kine from his belly
+and sides ; the horses, elephants, asses and camels from his
+feet, and medicinal herbs furnished with fruts and roots from
+the hairs of his body. Fair complexloned male sheep, horses,
+mules and asses are called grdmya or household animals.
+Hear, I will describe the wild ones. [They are] the beasts
+of prey, the clovén-hoofed, elephants, monkeys, and fifthly,
+birds and sixthly, acquatic animals and seventhly, reptiles.
+From his eastern and other mouths he created the Rik and
+other Vedas. The Brahmanas originated from his mouth,
+the Kshatryas from his arms, the Vaishyas from his thighs and
+the Shudras from his feet. The region of Brahma is for the
+Brahmahas, that of Shakra for the Kshatryas, that of Marut
+(wind-god) for the Vaishyas and that Gandhatvas for the
+Shudras. Those practising the Brahmacharya injunctions
+attain the region of, Brahma. The householders, performing
+duly their duties, repair to the région of the Creator. Those,
+living in the forest, acquire the region of the seven Rishis.
+The sphere of the Yatis, going at will, is the eternal region.
+
+## Page 36
+
+CHAPTER V.
+
+—_——
+
+Hart said:—Having created the world and all orders of
+beings the Lord created his mirid-begotten sons for multi-
+plying his creation ; namely Dharma, Rudra, Manu, Sanaka,
+Sanatana, Bhrigu, Sanatkumara, Ruchi, Shuddha, Marichi,
+Atri, Angira, Pulastya, Pulaha, Kratu, Narada and the Patris
+Varhisadas.
+
+The Lotus-sprung deity, from his right thumb, created
+Daksha endued with four forms and his wife from his left
+thigh. Daksha begat on her beautiful daughters, He gave
+them away unto the sons of Brahma and conferred Sati on
+Rudra. Numberless, highly powerful sons were born unto
+Rudra. He conferred the auspicious Khyati, matchless. in
+beauty, on Bhrigu. Bhrigu begat on her Dhata and Vidhata.
+He also begat Shree who was Narayana’s wife. Hari begat
+on her himself Bala and Ukshmadi. Ayati and Niyati were
+the two daughters of the high-souled Manu. They were the
+wives of Dhata and Vidhata. They gave birth to two sons,
+Prana and Mrikandu. Markandeya was the son Mrikandu.
+Marichi’s wife Sambuti gave birth to Pournamasa. Viraja and
+Sarvaga were the two sons of that high-gouled one. Angiras
+begat on Smriti sons and daughters namely Sinivalee, Kuhu,
+Raka and Anumati. Atri begat on Anasuya sinless sons,
+Soma,.Durvasa and the yogin Dattdtreya. Pulastya begat
+on Priti Dottoli. Three sons, Karman, Arthavira and Sahishnu
+were begotten by the patriarch Pulaha on his wife Kshamia.
+Krati begat on his wife Sumati the sixty thousand Rishis of
+controlled passions by name Valakhilyas. They were all of
+the height of a thumb and effulgent like the burning sun.
+Vashistha begat on Urjja seven sons, viz, Rajo, Gatra,
+Urdhavahu, Sharana, Anagha, Sutapa, Sukra. These are the
+seven Rishis,
+
+## Page 37
+
+GARUDA PURANAM. 15
+
+Daksha conferred Swaha on the fire-god who had
+assumed a body. O Hara, from him Swaha obtained three
+highly effulgent sons viz Pavaka, Pavamana and Shuchi, all
+eaters of water. Swadha gave birth to Mena and Vaitarani.
+They were both Brahmavadinis.* Mena was married to
+Himachala (mount Himalaya).
+
+O Hara! the Lord appointed Manu Swayambhu (self-
+create) formerly sprung from Brahma’s self and resembling
+himself to rule creatures. Swayanbhuva Manu accepted
+as his wife Shatarupaa who had destroyed all her sins by
+ascetic penances. And to that person Satarupa bore
+Pryavrata and Uttanapada; and daughters named Prasuti,
+Akuti and Devahuti; of them Manu conferred Akuti on
+Ruchi, Prasuti on Daksha and Devahuti on Kardama. To
+Ruchi were born Yajnc2 and Dakshina3. Again Yajna begat
+on Dakshina twelve highly powerful sons by name Yamas.
+
+The most excellent Daksha begat twenty four daughters.
+They were Sraddha,q Lakshmi,s5 Dhriti,6 Tushti,7 Pushti,8
+Medha,g Kriya,ro Buddhi,r1 Lajja,r2 Vapu,13 Santi,14
+Riddhi,15 Kritir6. These thirteen daughters of Daksha were
+wedded by Dharma for procreating sons. Khyati,17 Sati,18
+Sambhuti,1g Smriti,20 Priti,z1 Kshama,22 Saunati,23 Ana-
+suya,24 Urjja,25 Swaha and Swadha26 [were the remaining
+ones]. The foremost of asceties Bhrigu, Bhava, Marichi,
+Angira, Pulastya, Pulaha, Kratu, Atri, Vasistha and the Pitris
+duly married all these daughters beginning with Khyati, And
+
+* Female interpreters of the divine Science.
+
+1 Having an hundred forms. 2 Sacrifice. 3 Gifts in sacrifice 4
+Veneration. 5 The goddess of wealth. 6 Patience. 7 Satisfaction.
+8 Nourishment. 9 Intelligence. 1o Act. 11 Intellect. 12 Bashful-
+ness. 13 Body. 14 Suceess. 15 Fame. 16 Righteousness. 17
+Renown. 18 Chastity. 19 Birth. 20 Memory. 21 Gratification.
+22 Forgiveness. 23 Reverence. 24 Good-natured. 25 Energy. 26
+This and the last words are uttered while offering oblations to fire.
+
+## Page 38
+
+16 GARUDA PURANAM.
+
+then Sraddha brought forth Kama,1 Chala,2 Darpa.3 Niyama4
+and Dhritis as her sons, and Tushti Santosha6 and Pushti
+Lobha.7 Medha8 brought forth Shrutag and Kriya,1o
+Dandami1, Layar2 and Vinaya13 and Buddhi,14 Bodh15 and
+Lajja, Vinaya Vapur6 and Vyavasayar7 as her sons. And
+Shanti brought forth Kshema and Riddhi, Sukham18 and
+Kirti Yagas.19 These are the offspring of Dharma.
+
+K&ma’s wife was Rati whose son was Harsha.21 Daksha
+once undertook the celebration of a horse sacrifice at which
+all his sons-in-law were invited. They all went there accom-
+panied with their wives except Rudra and Sati. But Sati
+went there uninvited and was insulted by Daksha. Having
+renounced her body she was again begotten on Mena by
+Himavan. Gouri became Shambhu’s wife whose sons were
+Vinayaka and Kumara. Rudra, the powerful master of
+Bhringi, was by nature wrathful. He destroyed Daksha’s
+sacrifice and imprecated a curse on him, saying “ You will be
+born as a man, in the family of Dhruva.”
+
+—0:—
+
+CHAER VI.
+
+Hari said:—Uttanapada begat a son on Suruchi by
+name Uttama and another on Suniti by name Dhruva who
+attained to the most exalted station, having adored
+Janarddana, the god of gods, by the favour of the ascetic.
+Dhruva’s son Shnisthi was greatly strong and highly power-
+ful. And his son was the greatly intelligent Prachinavarhi.
+
+1 Sexual desire. 2 Lakshmi. 3/Pride. 4 Restraint. 5 Nourish:
+ment. 6 Contentment. 7 Avarice. 8 Intellect. 9 Knowledge or what
+isheard. 10 Action, 11 Punishment. 12 Justice. 13 Humilation,
+14 Intellect. 15 Apprehension, 16 Body. 17 Exertion, 18 Felicity,
+1g Fame.
+
+## Page 39
+
+GARUDA PURANAM. 17
+.
+
+His son was Divanjaya whose son was Ripu. His son was
+known as the beautiful Manu Chakshusha. His son was
+Ruru whose sen was the beautiful Anga. Anga’s son was
+Vena who was an atheist and an irreligious person. Vena, the
+perpetrator of iniquities, was killed by the Rishis with Kuga.
+They then churned his thigh for a son and thereat sprang a
+son, greatly dwarfish and black. They then said “sit down,
+sit down” and he was called Nishida dwelling on the
+mount Vindhya. Then the twice-born ones suddenly
+churned his right thigh. From there sprang a son assuming
+the mental form of Vishnu, by name Prithu. By that son
+Vena repaired to the celestial region. The king milched the
+earth, for giving life to his subjects.
+
+Prithu’s son was Antarddhana whose son again was
+Havirdhina. His son Prachinavarhi became the Lord
+Paramount of the world. He espoused the daughter of the
+ocean of salt water and begat on her ten Prachinavarhis
+who were called Prachetas and were masters of the science
+of archery. They all practised the same religious austerities
+and renfained immersed in the bed of the deep for ten
+thousand years. They attained to the dignity of the
+Patriarchs ; and their wife was Marisha. Of her was born
+Daksha by the imprecation of Bhava.
+
+As before Daksha again created four classes of beings
+from his mind. Obstructed+ by Hara they did not multiply.
+The Patriarch then desired to carry on the work of creation
+‘by sexual intercourse. He-~then espoused Asikni, the
+daughter of the Patrirch Varuna. He begat on the daughter
+of Varuna a thousand sons. The end of the earth being
+described by Narada they went there to learn it and did not
+return. On their being lost Daksha created another thousand,
+named Savalakha, who also followed the foot-steps of their
+“prothers*O Hara. Worked up with anger Daksha cursed
+Narada saying “ You will obtain a birth” and he was again
+born asthe son of the ascetic Kashyapa. On his sacrifice
+
+3 .
+
+## Page 40
+
+18 GARUDA PURANAM.
+.
+
+being destroyed Daksha imprecated the terrific Maheshwara,
+saying “Having worshipped thee with necessary articles
+the twice born will leave them aside. Even in another birth,
+your hostilities will not terminate, O Shankara.”
+
+Daksha begat on Asikni sixty beautiful daughters. He
+gave away two of them unto Angiras. He conferred two on
+Krishashwa, ten on Dharma, thirteen on Kashyapa and
+twenty seven on Indu. He conferred Suprabha and
+Bhamini on Vahuputra. And O Mahadeva, he gave unto
+Aristhanemi, his four daughters viz Manorama, Bhanumati,
+Vishala and Vahuda. He conferred on Krishashwa Supraja
+and Jaya.
+
+Arundhati, Vasu, Y4mi, Lamva, Bhanu, Marutvati,
+Sangkalpa, Muhurta, Sadhya, Vishwa, these ten are known
+as the wives of Dharma. I will now describe the names of
+the wives of Kashyapa. They were Aditi, Diti, Danu, Kala,
+Anayu, Sinhika, Muni, Kadru, Pradha, Ira, Krodha, Vinata,
+Surabhi and Khaga. Vishwa gave birth to Vishwadevas
+and Sadhya to Sadhyas ; Murutvati to Marudyant and Vasu
+.to Vasus. From Bhanu were born the Bhanus and from
+Muhurtta the Muhurttas. Ghosa was born of Lamva and
+Nagavithi (milkway) was born of Yami (night). All the ob-
+jects of the world were born of Arundhati and Sankalpa
+(pious determination) was the son of Sankalpa. Apa, Dhruva,
+Soma, Dhava, Anila, Anala, Pratyusha and Prabhasa are the
+names of the Vasus.
+
+Apa’s son were Vaitundya, Srama (weariness), Sranta
+(fatigue) and Dhani. And the son of Dhruva was the great
+Kala (Time) the cherisher of the world. The son of Soma
+was Varchas (light) by whom was generated Varchaswi
+(radiance). Dhava begat on his wife Manohard Ruhina,
+Hutahavya, Shishira, Prana and Ramana. Anila’s wife was
+Shiva. Her son was Pulomya and Avijnatagati (unknowable
+motion). These were the two sons of Anila. The son of
+Agni, Kumara, was born in a clump of Sara reeds whose
+
+## Page 41
+
+GARUDA PURANAM. 19
+
+sons were Shakha, Vish4kha, Naigameya and Prishtata.
+The son of Kirtikas was known as Kartikeya. Pratyusha’s
+son was the ascetic Davala. Vishwakarm4, the celebrated
+architect of the celestials, was the son of Prabhdsa. His
+sons were Ajaikapada, Ahirvadhna, Twastri and Rudra, all
+very energetic. And the own begotten son of Twastri was
+the great ascetic Vishwarupa. There are eleven Rudras, the
+lords of the three worlds. They are Hara, Vahurupa,
+Tryamvaka, Aparajita, Vrishdkapi, Shambhu, Kapardi,
+Raivata, Mrigavyadha, Sarva, and Kapali, O great ascetic.
+Soma’s wives were twenty seven in number known as stars,
+Kashyapa begat on Aditi twelve suns. Vishnu, Shakra,
+Aryama, Dhat4, Twastha, Pusha, ‘Vivashwan, Savita, Mitra,
+Varuna, Angshuman and Bhaga—these were the twelve
+Adityas.
+
+Hiranyakashipu and Hiranyaksha were born of Diti. A
+daughter, by name Sinhika, was also born who was married
+to Viprachitti. Hiranyakashipu had four very powerful sons
+viz., Anuhlada, Hlada, the powerful Pralhada and Sanghlada.
+Of them Pralhada was devoted to Vishnu. The sons of
+Sanghlada were Sivi, Ayushman and Vashkala. Pralhadajs
+son was Virochana who begat Bali, who again had a hundred
+sons of whom Vana was the oldest, O bull-emblemed deity.
+
+All the sons of Hiranyakasha were also gifted with great
+prowess—Utkara, Shakoni,. Bhutasantapana, Mahanabha,
+Mahavahu and Kalanabha.
+
+Danu’s sons were Dwimurdha, Shankara, Ayomukha,
+Shankusira, Kapila, Samvara, Ekachakra, Mahavahu, the
+highly powerful Taraka, Swarbhanu, Vrishaparva, the great
+Asura Puloma and the mighty Viprachitti.
+
+Swarbhanu had a daughter by name Suprabha and Sar-
+mistha was the daughter of Vrishaparvan who had two other
+celebrated daughters, namely Upadanavi and Hayasira.
+Vaishwanara had two daughters named Puloma and Kalaka
+who were both married to Maricha. They gave birth to
+
+## Page 42
+
+20 * GARUDA PURANAM.
+
+.
+sixty thousand sons, the leading Danavas. Poulamas and
+
+Kala Kanjas are known as the sons of Maricha.
+
+Viprachitti begat on Sinhika Vyansha, Shalya the strong,
+Nabha the powerful, Vatapi, Namuchi, Itwala, Khasrima,
+Anjaka, Naraka, and Kalanabha.
+
+In the family of the Daitya Pralhida the Nivatakavachas
+were born. Six daughters, gifted with great energy, were
+born to Tamra, named Shuki, Syeni, Bhasi, Sugrivi, Suchi
+and Gridhrika. Shuki gave birth to parrots, owls and crows ;
+Syeni to hawks ; Bhasi to kites ; Gridhrika to vultures; Suchi
+to water-fowl ; Sugrivi to horses, camels and asses. These
+are known as the offspring of Tamra.
+
+Vinataé gave birth to two sons celebrated as Garuda and
+Aruna. The offspring of Surasi were a thousand powerful
+serpents. Kadru had also a thousand sons—many-hooded
+serpents of unmitigated prowess. The most celebrated
+amongst them were Shesha, Vasuki, Takshaka, Shanka,
+Sweta, Mahapadma, Kumvala, Ashwatara, Elapatra, Naga,
+Karkota, Dhananjaya and many other deadly and poisonous.
+serpents.
+
+Krodha gave birth to highly powerful Pishachas. Surabhi
+gave birth to kine and buffaloes. Ira gave birth to trees,
+creepers, grass &c. Khag’ gave birth to Yakshas and Raka-
+has and Muni to Apsaras. Aristha gave birth to highly
+powerful Gandharvas. mo
+
+Then were born the deities Maruts, forty nine in number,
+viz, Ekajyoti, Duryyoti, Trijyoti, Chaturjyoti, Ekashukra,
+Dwishukra, the highly powerful Trishukra, Idrik, Anyadrik,
+Sadrik, Pratisadrik, Mita, Samita, the highly powerful Sumita,
+Ritajit, Satyajit, Sushena, Senajit, Atimitra, Amitra, Dura-
+mitra, Ajila, Rita, Ritadharm4, Viharta, Varuna, Dhruva,
+Vidharana, Grihamekagana, Idriksha, Sadriksha, Etadriksha,,
+Mita, Shana, Etana, Prasadnksha, Sutra, the great ascetic
+Tadngugra, Dhvannibhasa, Vimukta, Vikshipa, Dyuti, Vasu,
+Valadrishya, Labha, Kama, Jayi, Virat, Udveshana and Guna.
+
+## Page 43
+
+GARUDA PURANAM. 20
+
+They all ride the wind. These all are the forms of Hari,
+All the kings, Danavas and the celestials adore Hari with
+mystic formulas along with the sun and other members of
+the family.
+
+CHAPTER VIL.
+
+Rubra SAID :—I will describe in brief the adoration of
+Suryya (the sun) as instituted by Shywambhuva, which is
+essential and gives enjoyment and emancipation. Listen
+to it, O Vyasa.
+
+RupRA SAID :—I will describe the adoration of the sun
+yeilding religion, desire &c.
+
+Om, salutation unto the seat of the sun. Om salutation
+unto the form of the sun. Om, Hrdm, Hrim, salutation
+unto the sun. Om saluation unto the moon. Om salutation
+‘unto Mars. Om salutation unto Mercury. Om salutatiow
+unto Jupiter. Om salutation unto Venus. Om salutation
+unto Saturn. Om salutation unto Réhu. Om salutation unto.
+Ketu. Om salutation unto the bundle of effulgence.
+
+O bull-emblemed deity, one should adore the sun and
+other planets by offering them seats, conveyances, water for
+washing feet, Arghya,. water for rinsing mouth, water for
+bathing, raiments, sacrificial threads, scents, flowers, incense,
+lamps, and salutation, by circumambulating them and per-
+forming the ceremony of Visarjjana. (the withdrawal of life).
+
+Om, Ham, salutation unto the seat of Shiva. Om, Ham,
+salutation unto the form of Shiva. Om, Hém salutation unto
+his heart. Om, Him, unto the head, Sw4h4. Om, hum, unto
+the tuft of hair, Vashat. “Om, Haim, unto the amulet, Hum.
+Om hum unto the three eyes Voushat. Om, Ham, salutation
+unto the weapons. Om, Ham, salutation unto-the immediate
+
+## Page 44
+
+22 GARUDA PURANAM.
+
+.
+born. Om, Him, salutation unto V4madeva. Om, Haim,
+salutation, unto Tatpurusha. Om, Houm, salutation unto
+Ishana. Om, Ham, salutation unto Gouri. Om, Hum, salu-
+tation unto the preceptors. Om, Ham, salutation unto Indra.
+Om, Ham, salutation unto Adhora.
+
+On, salutation unto the seat of Vasudeva. Om, salutation
+unto the form of Vasudeva. Om, Am, Om, salutation unto
+the Lord Vasudeva, Namas. Om, Am, On, salutation unto
+the Lord Sangkarshana, Namas. Om, Am, On, salutation
+unto the Lord Pradyumna Namas. Om, Am, On, saluta-
+tion unto the Lord Aniruddha Namas. Om salutation unto
+Narayana. Om salutation unto the Eternal, existent Brahma.
+Om, Hum, salutation unto Vishnu. Om, Kshoum, salutation
+unto the Lord Narasimha (man-lion). Om, Bhus, Om, salu-
+tation unto the Lord Baraha (Boar). Om, Kan, Tan, Pan,
+Sham, salutation unto the son of Vinata. Om, Jam, Khan,
+Vam, salutation unto Sudarshana. Om, Khan, tan, Pham,
+Sham, salutation unto the club. Om, Van, Lan, Man, Koham
+salutation unto the conch-shell Panchajanya. Om, Gham,
+Dham, Bham, Ham salutation untoShree. Om, Gan, Dan,
+Van, San, salutation unto Pushti (nourishment). Om, Dham,
+Sham, Vam, San salutation unto the garland of forest flowers.
+Om, Sam, Dam, Lam, salutation unto “the mystic mark
+Srivatsa. Om, Tam, Cham, Bham, Yam, salutation unto
+the (jem) Koustava. Om salutation unto the preceptors.
+Om Salutation unto Indra and other deities. Om Salutation
+unto Vishwaksena.
+
+O bull-emblemed deity, with these mantrams, seats and
+other offerings should be dedicated to Hari. Hear now of
+the adoration of the female energy of Vishnu, Saraswati.
+
+Om, Hrim, salutation unto Saraswati. Om, Ham, saluta-
+tion unto her heart. Om, Hrim, salutation unto her head.
+Om, Hum, salutation unto her hairs. Om, Ham, salutation
+unto her amulet. Om, Hrum, salutation unto her three eyes.
+Om, Hus, salutation unto the weapons.
+
+## Page 45
+
+GARUDA PURANAM. 23
+.
+
+Shradha, Hriddhi, Kala, Medha, Tushti, Prabha, Mati,
+
+these energies of Saraswati, should be adored wlth mantrams
+. beginning with Om and ending with Namas.
+
+Om salutation unto the Kshetrapalas. Om salutation unto
+the preceptors. Om salutation unto the great Guru.
+
+He should then dedicate seats and other offerings to
+Saraswati standing on a lotus. The sacred Archana
+[installation of the image] of Suryya (sun) and other deities
+should be performed with their respective mantrams.
+
+—0:—.
+
+CHAPTER VIII,
+
+Hart said:—Having bathed in the Mandapa (temple)
+built on earth one should adore Vishnu in Mandala (circular
+figure).
+
+With powders of five colours, this circular figure, Vajranabha,
+should .be drawn. O Rudra, sixteen rooms should be drawn
+there. In the fourth and fifth corners strings should be placed.
+The strings in the corner should be extended to both the other
+
+corners. A man, avell versed in all these rites, should thus’
+
+place strings in all the corners. Similarly he should deal
+with interior corners. The first should be placed in the
+centre and then at the junction of the lines in the middle.
+In all the interior parts there are eight centres. The'‘centres
+of the eastern and central figures should be connected with
+astring. O Hara, the foremost of the twice-born should
+draw the base in the interior parts. O,Shiva, connected
+with it the pericarps of the central string should be drawn.
+On two sides of the pericarps an expert should draw the
+filaments. A learned man should draw petals on their heads.
+© thou of firm vows, a worshipper, conversant with the
+
+.
+
+## Page 46
+
+24 GARUDA PURANAM.
+.
+
+knowledge of the true object, should draw figures of lotuses
+in all the centres.
+
+With the division of the first string one should draw the
+doors. With the half he should make decorations for the
+same. The pericarp should be drawn with yellow colour,
+the filaments with dark blue, the inside with violet and the
+petals with crimson. The four parts should be filled up
+with black powder, the doors with white powder and the
+five lines of the Mandala in order with crimson, yellow and
+dark-blue. Having performed Nyasa (assignment of the
+limbs he should adore Hari in the five mandalas. He
+should assign his heart to Vishnu, the middle part to Sankar-
+shana, the head to Pradyumna and the tuft of hair on the
+head to Aniruddha. His entire body should be assigned to
+Brahma and the fingers to Shridhara. Meditating “I am
+Vishnu” he should perform the Nyasa of Hari in the pericarps.
+He should perform the Nyasa of Shangkarshana in the east,
+that of Pradyumna in the south, that of Aniruddha in the
+west, that of Brahmain the north that of Shridhara, Indra
+and other deities in Rudra and other corners. Having adored
+them with scents and other articles a worshipper attains to
+the great station.*
+
+CHAPTER IX,
+
+Hart said :—Being initiated in proper time and having
+his eyes covered with a cloth a disciple should offer one
+hundred and eight oblations with the Principal mantram.
+
+* In this chapter occurs the drawing of a figure with various colours.
+Such a figure is necessary for the celebration of a religious rite. Even
+in a Hindu marriage such figures are drawn fer the solemnization of
+religious rites.
+
+## Page 47
+
+GARUDA PURANAM 25
+’
+
+O Rudra, twice the number should be offered in a Putraka
+Homa,* thrice the number in: Sadhakat and four times the
+number in Nirvanadeshika.{ A destroyer of a preceptor,
+Vishnu’s image, Brahmana and a woman deserves death at
+the hands of those who are not initiated. I will describe his
+Diksha or initiation destructive of virtue and sin.
+
+Having caused his disciples to sit outside he should make
+them concentrate their minds. O Rudra, he should consider
+them purified by the wind, burnt by the fire and again
+sprinkled with water. Uniting the sentiency with fire he
+should consign it to fire. He should meditate on Pranava,
+the instrument of all, in the sky and in the body. He should
+next unite it with Ashetrajna§ for its being the cause of the
+body. Then imagining all the Saktis or female energies of
+of the deity in the various Mandalas he should adore Hari.
+There should be four doors in order of Brahma Tirtha
+(shrine) and others. The head is the lotus; the fingers are
+the petals; the palm is the pericarp ‘and the nails are the
+filaments. Then meditating there on Hari, the sun and fire,
+he, with a controlled mind, should place it on the head of
+the disciple, for in the hand is stationed Vishnu, his own
+hand being that of Vishnu, and with its touch the entire
+collection of sins is dissipated.
+
+Having adored jthe disciple, covered his eyes with a piece
+of cloth, and placed him infront of the deity the preceptor
+should throw flowers there. He should throw, flowers where
+the head of the deity, the holder of Shranga bow, is. He
+should mention his name as well as those of his wives. In
+the case of a Shudra, an expert preceptor should mention
+the name of his master.
+
+* A Homa or offerings to fire for the acquisition of a son.
++ One intended for becoming a worshipper.
+£ One intended for attaining emancipation.
+§ The lord or the divine emanation residing in the body.
+
+4 .
+
+## Page 48
+
+CHAPTER X.
+
+Hari said:—I will describe the adoration of Shree and
+other deities in Sthandilas* for the attainment of Siddhist
+
+Om, Shrim, salutation unto the great Lakshmi.
+
+Shram, Shrim, Shrum, Shroum, Shras. He should
+gradually worship the heart, head, the tuft of hair, amulet,
+the eyes, the seat and the image. One who wishes to attain
+his desired-for objects should offer oblations to the Mandala,
+the sun, moon, Lakshmi and her limbs in one corner, Durga,
+Gana, preceptor and -Kashtrapala (Vishnu) in the-Mandal a
+having the figure of a lotus drawn inside it, four doors
+painted with dust and sixty four corners.
+
+With the mantram, “Om, Gham, tam, dham, Ham, saluta-
+tion unto the great Lakshmi” he should adore Lakshmi
+together with all the members of the family as narrated
+before.
+
+Om, Soum, salutation unto Saraswati. Om, Hrim, Soun,
+salutation unto Saraswati. Om, Hrim, say, say. O goddess of
+speech, Swaha. Om, Hrim, salutation unto Saraswati.
+
+CHAPTER XI.
+
+I wItt now describe the mode of adorning the nine
+Vyuhas as narrated unto Kashyapa. Having drawn up the
+
+* A level square ‘piece of ground prepared for a sactifice.
+
++ Supernatural powers acquired by Yoga. The word Siddhi may
+also mean “the accomplishment of the object for which a religious rite
+is undertaken.”
+
+## Page 49
+
+GARUDA PURANAM. 27
+
+vital breath through the head one should place it in the’ sky
+through the navel. Then with the mantram Ram he: should
+consume the body identical with the up-going vital air. And
+he should destroy all with the mantram Yam. With the
+mantram Lam he should overflood the entire world mobile
+and immobile. Then with the mantram Vam he should:
+meditate on ambrosia. Thereupon by dhyana (meditation)
+he should think of the four-armed deity, clad ina yellow
+raiment, in the middle of the-bubble, as well as of his bathing:
+He should next perform the three-fold mantra-nyasa*
+ceremony of the fingers and body.
+
+After the recitation of this mantram, with one composed
+of twelve letters, he should make assignment ef six limbs so
+that Hari himself might appear there. Beginning with the
+thumb of the right hand he should assign the middle finger
+to the petal. Having assigned the two Vijas in the middle
+he should assign them to the other limbs viz, heart, head, the
+crown of the head where lies the tuft of hair, mouth, eyes,
+belly, back, arms, hands, thighs and feet. Having converted
+the hand into the shape of a lotus he should place the thumb
+in the middle. And there he should meditate on the Lord
+of all, the great undecaying Principle. Then in order he
+should assign all the other mantrams to fore and other
+fingers. He should then in order make assignment of the
+head, eyes, mouth, throat, hear, navel, buttock, thighs and
+feet. Having assigned the mantrams of six limbs or parts to
+the palms he should assign others to the body. He should
+assign the five mantrams to the five fingers beginning with
+the thumb and ending with the youngest.
+
+He should assign the mantram of the eye to the hand ard
+then make assignment of other limbs. Having assiged
+heart to the heart he should assign head to the head, sikh
+(tuft of hair) to the Sikh4 and, amulet to the entir: body.
+
+* The assignment of mystic syllables to various deines.
+
+## Page 50
+
+28 GARUDA~PURANAM.
+
+Eyes ‘Should be assigned to the eyes and the weapon to the
+two hands. Having bound all the quarters with the weapon
+he should commence the rite of adoration. First of all with
+a controlled mind he should meditate on Yogapitha (the seat
+of yoga) in his heart, and in due order on religion, knowledge,
+disassociation from the world, and prosperity. He should
+assign iniquity &c. to the north-east and east. The body, free
+of all these sins, should be then converted into Pitha (seat).
+He should afterwards assign Ananta. Having meditated first,
+by means of the Vedas &c. on learning, the ‘eight quarters
+like unto eight petals of a lotus born in a tank, a white lotus
+of a hundred petals covered with filaments he should meditate
+on Mandalas ‘identical with the sun, moon and fire and then
+think of the deity on one above the other. He should then
+perform the assignment of eight energies of Keshava
+stationed’in the east and of the ninth in the pericarp.
+
+Having thus meditated on and adored the Yogapitha, he
+should invoke the lord thereof, Hari, the holder of Shranga
+bow and assign him there. He should assign heart &c to the
+lotuses of the four quarters, east &c., the eye in the middle
+and the weapon in the corners. He should assign the
+mantrams of Sangkarshana &c. to the east and other
+quarters and Vinata’s son to the eastern and western doors
+and the discus Sudarshana‘of, a thousand rays to the southern
+gate. He should assign’ Shree to the south, Lakshmi to the
+north, the club to the northern gate and the conch-shell to
+the corners.
+
+An intelligent worshipper should place the Shranga bow
+either on the right or on the left of the deity. Similarly
+conci.shell and discus should be placed on both the sides.
+Accorting to the distinction of their respective quarters all
+the guartian deities thereof should be assigned. In the same
+way the verious weapons, such as thunder-bolt &c., should
+be assigned He should meditate on Brahina upwards and
+
+## Page 51
+
+GARUDA PURANAM. 29
+
+Ananta downwards. Having meditated on and adored them
+all he should display Mudra.* ,
+
+Anjali’ (the folding of palms) is the first Mudra which
+speedily secures the favour of the deity. Vandani is the
+next when it is placed on the breast with the right hand
+raised half-way up. Urdhangustha (thumb raised up) is
+formed by the clasping of the fist of the left hand with the
+thumb of the right hand. In this the thumb of the left hand
+should be raised up. These are the three ordinary forms
+arranged according to the difference of the forms of the idols.
+
+With the intertwining of the youngest finger eight
+Mudras are formed in order. These should be formed with
+the recitation of the first eight mantrams. With the thumb
+the three sucessive fingers ending with the youngest should
+be bent. Then the two hands should be bent. This is the
+Mudra of Narasimha (man-lion).~ Having raised up the
+left hand he should whirl it. This is the Mudra approved of
+Varéha (the boar-form). Having raised up the two fists he
+should straighten the fingers of the one and then bend all
+of them. This Mudra is called Anga. Having intertwined in
+order the two fists the Mudras for the ten guardian deities of
+the quarters should be formed. The first vowel, the second,
+the last but one and the last should be in order assigned to
+Vasudeva, Bala, K4ma and Aniruddha. “Om, 7a¢sat, Hum,
+Kshroum, Bhus” are “the mantrams for Narayana, Brahma,
+Vishnu, the man-lion and “Boar forms. White, red, green,
+violet, blue, dark-blue, crimson, cloud-colour, fire-colour,
+honey-colour and twany colour are the nine names.
+
+Kan, tan, jam, pam, Sham, Garutman.
+
+Jam, Kham, ban, Sudarshana. Kham, cham, pham, Sham,
+the club.
+
+Vam, lam, man, Ksham, conch-shell. Gham, dham Vam,
+bham, Ham, Shree. Gam, jam, dam, vam, Sham, nourishment.
+
+* A mode of intertwining of the fingers during religious worship,
+
+## Page 52
+
+30 GARUDA PURANAM.
+
+Dham, Vam, the garland of the’ forest flowers. Dam,
+Sam, is for the mystic mark Srivatsa.
+
+Chham, dam, pam, Yam is for the jewel Koustava.
+
+He should then say “Iam Ananta” These are the ten
+limbs of the Lord of gods.
+
+Garuda is smoke-coloured. The club is white. Pushti
+(nourishment) is of the colour of a Sirish flower. Lakshmi is
+gold-hued. The conch-shell is effulgent like the full-moon.
+Srivatsa is of the colour of a Kunda flower. The garland is
+of five colours. Ananta is of the colour of acloud. All the
+weapons described before are of the hue of lightnings.
+
+According to the light of the science of the lotus-eyed
+deity one should offer Arghya, Padhya (water for washing
+feet) &c.
+
+CHAPTER XII.
+
+Hari said:—I will describe the order of adoration for
+achieving the success thereof.
+
+The recollection of the great soul should be made with
+the mantrams, “Om, Salutation, &c.” ‘
+
+With the mantram “ Yam, Van, Lam, Ram” the purifica-
+tion of the body should be performed.
+
+With the mantram “Om, salutation” the image of the
+four-armed deity should be made.
+
+Then the three sorts of the making of idols should be
+made. Then follows the adoration of Yoga-pitha stationed
+in the heart.
+
+On, salutation unto Ananta. Om, salutation unto religion.
+Om, salutation unto disassociation. Om salutation unto know-
+ledge. Om salutation unto prosperity. Om salutation unto sin,
+
+## Page 53
+
+GARUDA PURANAM. 31
+?
+
+Om salutation unto ignorance. Om salutation unto worldli-
+ness. Om salutation unto proverty. Om salutation unto the
+jotus. Om salutation unto the solar disc. Om salutation unto
+the lunar disc. Om salutation unto the disc of the fire. Om
+salutation unto Vimala. Om salutation unto Utkarshina. Om
+salutation unto knowledge. Om salutation unto action. Om
+salutation unto ignorance. Om salutation unto inaction. Om
+salutation unto yoga. Om salutation unto Prarhd. Om, saluta-
+tion unto Satya. Om salutation unto Ishana. Om salutation
+unto Sarvatomukh. Om salutation unto Hari’s seat with all
+its accompaniments, principal and minor. Om salutation unto
+Vasudeva. Om salutation unto the heart. Im, salutation unto
+the head. Um salutuation unto Shikha (tuft of hair on the
+head). Em, salutation unto the amulet. Oum salutation unto
+the three eyes. As, phat, salutation unto the weapon. Am,
+salutation unto Sangkarshana. Am salutation unto Pradyumna.
+As salutation unto Aniruddha. Om, As salutation unto Nara-
+yana. Om, Zatsaé salutation unto Brahma. Om, Hum, saluta-
+tion unto Vishnu. Kshroum, salutation unto his man-lion and
+boar forms. Kam, Tam, Jam, Sham, salutation unto Vinata’s
+son. Jam Khem, Vam, salutationjunto Sudarshana. Kham,
+Cham, Pham, Sham, salutation unto jthe club. Vam, Lam,
+Mam, Ksham, salutation unto the conch-shell Panchajanya.
+Gham, Dham, Bham, Ham, salutation unto Shree. Gam,
+Dam, Vam, Sham, salutation unto;Pushti. Dham, Vam, saluta-
+tion unto the garland of white flowers. Dam, Sham, saluta-
+tion unto Shrivatsa. Chham, Dam, Yam, salutation unto
+Koustava. Sham salutation unto Shringa bow. Im, saluta-
+tion unto the arrows. Cham, salutation unto the leathern
+fence. Kham, salutation unto the sword, and the lord of
+the Suras. Dham, salutation unto the giver of riches and the
+lord thereof. Ham salutation unto Ishana, the lord of learning.
+On, salutation unto the thunder-belt. Om unto dart. Om unto
+rod. Om unto sword. Om unto noose, standard, club, and
+
+trident.
+
+## Page 54
+
+32 GARUDA PURANAM.
+.
+
+Lam, salutation unto Ananta the lord of the nether region.
+Kham salutation unto Brahma, the lord of all the worlds.
+Om salutation unto the Lord Vasudeva.
+
+Om, Om, Namas; Om, Nam, Namas; Om, Mom, Namas;
+Om, Bham, Namas; Om, Gam, Namas; Om, Vam, Namas;
+Om Tem, Namas; Om Vam Namas; Om Sum, Namas; Om,
+Dem, Namas; Om, Vam, Namas; Om, Yam, Namas.
+
+Om, Om Namas; Om, Nam, Namas; Om, Mom, Namas;
+Om, Nam, Namas; Om, Ram, Namas; Om, Yam, Namas;
+Om, Nam, Namas; Om, Yam, Namas; Om salutation unto
+Narayana. Om, salutation unto Purusottama.
+
+Salutation unto thee, O thou having lotus eyes; saluta-
+tion unto thee O creator of the universe, O Subramanya;
+salutation unto thee, O great Purusha, O thou the first-
+born.
+
+In Homa rites this mantram ending with the word
+Swaha should be recited. Having duly recited this mantram
+one hundred and eight times the worshipper should offer
+Arghya and bow unto the Deity again and again. After-
+wards having worshipped the fire he should duly adore with
+his own mantram Achyuta the god of gods.
+
+Having first lighted fire, fed it and whirled it one, con-
+versant with manttams, should adore it in the Kunda with
+auspicious results. Having first meditated on all he should
+assign hi mind to the Mandala. Then with the Tattwa
+called Vasudeva: he should offer one hundred and eight
+oblations. Then with Sangkarshana and other mantrams
+he: should offer six adorations, three each time to his limbs
+as well as to the guardian deities of the quarters. Then in
+the end he should offer Purndhuti. Then he should immerse
+his own self in the great principle which is beyond the
+range of speech. Then taking his seat, making again
+Mudras he should again bow. This is the daily Homa rite;
+the occasional one requires double the rituals. [He should
+then say] “Go, go to that great region where dwells the
+
+## Page 55
+
+GARUDA PURANAM. 33
+
+deity who is devoid of passions. May all the deities repair
+to their respective quarters.”
+
+Sudarshana, Shri, Hari, Achyuta, Trivikrama (three foot-
+steps), Chaturbhuja (four-arms), Vasudeva, the sixth Pra-
+dyumma, Sangkarshana, Purusha are the nine Vywhas. Then
+comes Aniruddha and Ananta. With all these Chakras the
+gods are known and marked. And they are worshipped in
+a house along with the Rakshsas and Danavas.
+
+Om Chakraya Swaha, Om Vichakraya Swaha, Om Sucha-
+kr4ya Swaha, Om Mahachakraya Swaha, Om, the remover of
+the Asuras, Hum, phat, Om, Him of thousand flames, Hum,
+Phat.
+
+This adoration of the discus at the door of the house is
+auspicious. It gives also protection.
+
+CHAPTER XIII.
+
+Hari said :—I will now describe the most auspicious
+mantram of Vishnu called Panjara.*
+
+Salutation unto thee, O Govinda. Take up thy discus,
+Sudarshana and protect me in fhe west, O Vishnu. I have
+taken refuge with thee. ake up thy club Koumodaki, O
+lotus-navelled deity, salutation unto thee. Protect me in the
+south, O Vishnu, I have taken refuge with thee. Salutation
+unto thee, O Purusottama. Taking up thy plough-share
+Sunanda, protect me in the east, O Vishnu, I have taken
+refuge with thee. Taking up thy mace Shatana, O thou
+having lotus eyes, protect me in the north, O lord of the
+universe, I have taken refuge with thee. O Hari, taking up
+
+. * A mantram of invoking the various weapoas and embellishments of
+Vishnu to one’s help,
+
+5
+
+## Page 56
+
+34 GARUDA PURANAM.
+.
+
+thy sword, leathern fence, and other weapons, protect me,
+© destroyer of Rakshasas. 1 bow unto thee, I am under thy
+protection. Taking up thy great conch-shell Panchajanya
+and thy lotus Anudbodha, protect me, O Vishnu, O Boar,
+in the south-east. Taking up the sun, and moon as well as
+the sword Chandramasu do thou protect me in the south-west,
+O thou ofa celestial form, O man-lion. Taking up Vaijayanti*
+and Srivatsa, the ornament of thy throat do thou protect me
+in the north-west, O god, O Hayagriva. I bow unto thee.
+
+O Jan4rddana, having ridden Vinata’s son do thou protect
+me in the sky, O thou unvanquished by the Rakshas. I bow
+unto thee, O thou never defeated. Having ridden
+Vishalakshat do thou protect me in the nether region, O
+tortoise,t salutation unto thee. Salutation unto thee, O great
+fish. O truth, making thy Vahupanjaram in the hand,
+and fingers, do thou protect me,O Vishnu. Salutation unto
+thee, O Purusottama.
+
+This great Vishnu Panjara was thus described unto
+Shankara, who again described it unto Katyayani. By this
+she killed the immortal Asura Mahisha, the DAnava Raktavija
+and other thorns of the celestials. By reciting it with
+reverential faith a man always destroys his enemies.
+
+CHAPTER XIV.
+
+Hari said :—I will now describe the great Yoga which
+gives emancipation and enjoyment. The Dhyayins (yogins)
+
+* Flag or banner of Indra that was given by him to Vishnu,
+
++ Garuda, Literally it means having large eyes,
+
+These are the various forms assumed by Vishnu in his various
+incarnations,
+
+## Page 57
+
+GARUDA PURANAM. 35
+
+hold that the Lord Hari is alone to be meditated on. There-
+fore, listen to it, O great Ishana.
+
+Vishnu, the lord of all, is the destroyer of sins, without
+end and devoid of feet and body. He is Vasudeva, the lord
+of the universe and identical with Brahman, Although he
+daily assumes various bodies he is [in sooth] devoid of them
+all. He is shorn of the natural functions of the body and is
+devoid of death and decay. Stationed in the six fold objects
+he is the seer, hearer and smeller and is (at the same time)
+above the reach of organs. He is devoid of the functions of
+senses, the creator and has no name or family. The deity is
+in the mind but does not himself possess it. He is devoid of
+mental faculties, discriminative knowledge and knowledge.
+He perceives all by intellect, is stationed in it, the witness of
+all and omniscient ; (and at the same time) he is devoid of
+intellect. He is devoid of the functions of intellect, is all,
+present every where, and is in the mind of all. He is freed
+from vital airs and is devoid of their actions. But he is the
+vital principle of all creatures, of a quiescent soul and
+divorced from fear. He is shorn of Ahankara (egoism) and
+other principles and devoid of their natural actions. But, he
+is their witness, the ordainer thereof and of the form of
+great felicity. He is the witness of the various states of
+of waking, dreamless sleep and dreaming sleep and himself is
+above them all. But he is 7u+iya,* the great ordainer, of
+the form of the quarter and devoid of gunas (qualities). He
+is emancipated, enlightened, undecaying, all-pervading, all-
+auspicious and always present in self.
+
+Understanding this the men, who meditate on this great
+Isha (God), attain to his form. There is no need of ascertain-
+ing actions in this matter. O Shankara, O thou of good vows,
+
+* The fourth state of the soul in which it becomes one with Brahman
+er the Supreme spirit.
+
+## Page 58
+
+36 GARUDA PURANAM.
+
+.
+I have thus described the DhyAna. He, who always reads it
+attains to the region of Vishnu.
+
+—:0:———
+
+CHAPTER XV.
+
+_—
+
+Rupr said:—O Lord, O Janarddana, do thou describe
+unto me the Great Being by reciting whose name a man may
+cross the dreadful ocean of Samsara.*
+
+Hari said :—Reciting the thousand names of Vishnu, the
+Demiurgus, the great Brahman, the Absolute, Undecaying
+Self, a man attains to emancipation.  bull-emblemed deity,
+hear with fixed attention, I will describe this sacred and
+great object of recitation (Fafa) which destroys all sins.
+
+He is Vasudeva, the great Vishnu, VAmana (Dwarf),+
+Vasava, Vasu, effulgent like the newly risen sun, and the
+highly powerful Balabhadra. He fettered (the Asura) Bali,
+is the all-knower, the worshipful knower of the Vedas and the
+poet. He is the creator of the Vedas, of the form of the
+Vedas, worthy of being known and filled with the Vedas.
+He is the knower of the Vedangas,} the lord of the Vedas, the
+mine of strength and the saggrandiser of the strong. He is
+without changes, the lord of béons, the giver of boons, and
+
+* Commonly worldliness—but really it is the transmigatory series.
+
++ An incarnation of Vishnu in which he put down the great Asura
+Bali, who had grown excessively powerful by his rigid austerities.
+
+$ Certain classes of works regatded as auxilliary to the Vedas, and
+designated to aid in the correct pronounciation and interpretation of
+the text and the right employment of the Mantras in ceremonials. They
+are six in number, viz., (1) Stksha, the science of proper articulation
+and pronounciation ; (2) Chhandas, the science of prosody ; (3) Vya-
+arvana grammar; (4) Nirukta, elymological explanation of difficult
+Vedic words (5) Fyotish, Asteonomy ; (6) Kalpa, ritual or ceremonial.
+
+## Page 59
+
+GARUDA PURANAM. 37
+the master of Varuna. He is the slayer of heroes, the great
+hero and the great Ishwara adored of all. He is the soul,
+the great soul, the inward self and above the sky. He is lotus-
+navelled, the Padmaniddhi,* the lotus-handed and the holder
+of club. He is the Great, above the elements, the foremost
+Purusha and the Demiurgus. He is lotus-waisted, Pundarika
+wears a garland of lotuses and is beloved of all. He is fotus-
+eyed, Padmagarbha,t Parjanya (rain-god) and seated on a
+lotus. He is beyond the range of all, the great object, the
+greatest of the great lord. He is most learned of all learned
+men, holy and destroyer of sins. He is pure, manifests all,
+holy and the protector. He is devoid of thirst, Padya,t the
+Purusha and Prakriti (Nature). He is Pradhana (intellectual
+principle), the lotus, the earth, the lotus-navelled and the giver
+of desirable objects. He is the lord of all, present every
+where, the All, Omniscient, the giver of all and the great.
+He is identical with all and the entire universe, the witness
+and up-holder of all. He is the Deity who shows favour unto
+all and is stationed in the hearts of all creatures. He is the
+protector of all, is adored of all and is saluted by all the
+deities. He is at the root of the entire universe, is the des-
+troyer of all and the fire. He is the protector of all, pervades
+all and the cause of all causes. He is meditated on by all,
+the friend of all ang the holder of the various forms of the
+deities. He is the object of the Study of all, the commander
+of the celestials and is adored of the gods and Asuras. He is
+
+* One of the nine treasures of Kuvera, viz., Padma, Mahapadma.
+Sankha, Makara, Kachhapa, Mukunda, Nanda, Nila and Kharva;
+their nature is not exactly defined though some of them appear to
+be precious jems; according to the Tantrik system, they are personi-
+fied and worshipped as demi-gods attendant either upon Kuvera or
+Lakshmi, Here the term is an epithet of Vishnu.
+
++ Name of Brahma, meaning from born of a lotus. Here it is an
+epithet of Vishnu showing that he is identical with Brahma.
+
+£ Water for cleaning feet. This shows that Vishnu permeates every
+object in the world.
+
+## Page 60
+
+38 GARUDA PURANAM.
+
+always the, destroyer of the wicked and Asuras. He is the
+protector of truth, the centre of good people, the lord of
+Siddhas, is adored by them, is obtained by the Siddhas and
+the Sadhyas and the lord of their hearts.
+
+He is the refuge of the world, the auspiciousness, the
+doer of good, beautiful, humble, truthful and having truth for
+prowess. He is stationed in truth, of a true determination,
+the knower and giver of truth. He is religion, the observer
+of religious rites and a Karmin (one who practises religious -
+rites) but he is devoid of all actions. He is the ordainer of
+actions, the action itself and’ the practice of, religious rites.
+He is the lord of Shree and of men, beautiful, the lord of all,
+but himself having no master. He is the lord of the celestials,
+the master of Vrishnis, of Hiranyagarbha and of the des-
+troyer of Tripura. He is the lord of the beasts, Vasus, Indra,
+Varuna, trees, wind, fire, Yama, Kuvera, stars, medicinal herbs
+and trees. He is the master of the Nagas, of the sun, of
+Daksha, of friends and of kings. He is.the master of the
+Gandharvas, the most excellent lord of the Asuras, of the
+mountains and rivers. He is the most powerful lord of the
+celestials, of Kapiia, of creepers and of Veerudhas (spreading
+creepers). He is the master of the ascetics, the most excel-
+lent lord of the sun, moon, and of Shukra. He is the lord
+of planets, Rakshasas, the Kinnaras and, the most excellent
+master of the twice-born ones. He i is the lord of the rivers,
+oceans, lakes and goblins. He is the master of the Vetalas,
+Kushmandas, birds and beasts.
+
+He is the high-sould Mangala, Mandara, the lord of
+Mandara. He is creator of Meru and Madhava and devoid of
+mind. The great deity wears a garland and is adored by
+Mahadeva. He is of a quiescent soul, and is the illustrious
+slayer of Madhu. He is highly powerful, the great vital air and
+is lauded by Markandeya. He is identical with Maya (illusion),
+fettered by it and devoid of it. He is lauded by the ascetics
+and is their friend. He has a nose, big cheeks, big arms, big
+
+## Page 61
+
+GARUDA PURANAM. 39
+teeth and is freed from death. He has a huge mouth, a great
+soul, a great body, a great belly, big feet and a high neck.
+He is greatly respected, is high-minded, of gieat intellect, of
+great fame, of great form and the great Asura. He is Madhu,
+he is Madhava, he is Mahadeva, and he is Maheshwara. He
+is adored in sacrifices, of the form of a sacrifice and is the
+worshipped lord of the sacrifices. He is the great wind, the
+great luck and the superhuman Mahesha. He is man, Manu
+and does good unto men. He is deer, is adored by them and
+is their lord. He is the master of Mercury, Venus, Saturn,
+Rahu and Ketu. He is the good mark and is endued with it ;
+he has long lips and is handsome to look at. He is bedecked
+with various ornaments and besmeared with sandal of
+different kinds. His face is painted effulgent with various
+colours and adorned with diverse flowers. He is Rama, the
+great Iswara with his consort. He gives jewels and takes
+them away. He is with and without any boon. He is of a
+great, terrific and calm appearance. He is like unto a blue
+cloud, is pure and resembles a cloud at the end of a cycle. He
+is smoky cloud, of yellow hue, of various forms and without
+any colour. He is of a distorted figure, the giver of forms
+and is white-hued. He is of all colours, the great yogin, the
+sacrificer. He is gold-hued and is called gold. His body is
+made of gold and hg puts on a golden girdle. He is the giver
+of gold or parts of it. Hg is fond of gold and houses made
+of gold. He is beautiful and of huge wings and the creator
+of Suparna. He is Vinata’s son, the sun, the beginning, the
+the creator of beginning and auspiciousness. He is the
+cause of the intellectual principle, of the Puranas, of intellect
+and mind. He is the efficient cause of consciousness,
+egoism, elements of fire, ether, earth, egg and Prakriti
+(Nature). He is the cause of the body, eyes, ears, skin, tongue,
+vital breath, hand, foot, speech and the organ of generation.
+He is the efficient cause of Indra, Kuvera, Yama, Ishana and
+the most excellent creator of Yakshas and Rakshasas. He
+
+## Page 62
+
+40° GARUDA PURANAM.
+
+is the most excellent cause of ornaments, virtue, creatures,
+Vasus (gods of riches), of Manus and of birds. He is the
+foremost cause of the ascetics, the Yogins, the Siddhas, the
+Yakshas, the Kinnaras and Gandharvas.
+
+He is the cause of the river, male and female, the oceans
+and trees. He is the cause of Veerudhas, the worlds, the
+nether region and celestials. He is the cause of serpents,
+the auspiciousness, the beasts and of all.
+
+He is identical with the body, the organs of sense, the
+soul, the intellect, the mind, egoism, consciousness, the
+condition of waking, that of dreaming sleep, the intellectual
+principle and the great soul.
+
+He is identical with ether, water, and the great soul of
+earth and air. He is the great soul of the smell, colour,
+sound, speech and touch. He permeates, as the great soul,
+the ears, skin, tongue, nostrils, hand, foot, organ of generation.
+He permeates Indra, Brahma, Rudra, Manu, and the
+Patriarch Daksha. The great is identical with truth. He is
+identical with Isha, the great soul, the Rudra and the Yati
+conversant with the knowledge of emancipation. He is
+energetic and is the very energy itself. He is the holder of
+the leathern fence and sword and the destroyer of the Asuras.
+He is modest by nature and engaged in the well-being of
+the ascetics. Hari is of the form of a Yatin, a Yogin and is
+meditated on by the Yogins. He is Shiti* He is perfect
+knowledge, genius, time, summer, rainy season, determina-
+tion, year, the ordainer of emancipation and destroyer of
+Moha (stupifaction). He stupefies the wicked, is Mandavya
+and mare-mouthed. He is Sangvartaka (fire), the creator of
+time, Goutama, Bhrigu, Angira, Atri, Vashistha, Pulaha
+Pulastya, Kutsa, Yajnavalka, Devala, Vyasa, Pardashara,
+Sharmada, Gangeya, Hrishikesha, Vrihatshrava and Keshava.
+He is the destroyer of miseries, has beautiful ears and is
+without them. The great Narayana is the lord of Prana, of
+
+* Literally “ white or black.” It is an epithet of Shiva.
+
+## Page 63
+
+GARUDA PURANAM. . 41
+
+vital air the Apana, of Vyana, of Udana and of Samana. He
+is the ‘best master of sound, touch and colour. He is the
+master of the destruction of the world, the first-born, has a
+sword in his hand, the plough-share for his weapon, the
+discus in his hand, the Kundalas [on his ears] and the
+mystic mark Srivatsa on his breast. He is Prakriti, has the
+Koustava gem on his neck and is clad in a yellow raiment.
+He has a beautiful face, an ugly face and is without any.
+He is without end, of endless forms, has beautiful nails and
+is the handsomest of all the celestials. The lord Vishnu has
+a beautiful quiver and most resplendent arrows. He is the
+destroyer of Hiranyakashipu, the grinder of Hiranyaksha,
+the killer of Putana and Bhaskaranta. He is the grinder
+of Keshin, and Mushtika. He is the killer of the demon
+Kansa, of Chanura and Aristha. He is fond of Akrura, He
+is without wickedness, is wily and is adored by those who are
+fond of simplicity. He is the destroyer of the lordly powers,
+is himself endued with them, the sun and the Lord himself.
+He is Uddhava, Uddhava’s lord, and is being meditated on by
+Uddhava. He is the holder of discus, is fickle and is devoid
+of the moveable and immoveable properties. He is egoism,
+determination, mental faculties, the sky, earth, water, air, eye,
+ear, tongue, nose, palate, hand, foot, waist and the organ of
+generation. He is Shankara, the, giver of auspiciousness, the
+giver of endurance ; and hesforgives men. He is fond of his
+votaries and is their protector. He is endued with reveren-
+tial faith and himself increases it. He is lauded by his
+votaries, devoted to them and gives fame ; and he multiplies it.
+
+He is fame, resplendence, forgiveness, patience, reverential
+faith, compassion, the great, the gift, the giver, the agent of
+action, is fond of the celestials, is purity, is pure, the giver of
+felicity, emancipation and the object of desire. He hasa
+thousand feet. He is the thousand-headed physician who
+opens the gate of emancipation. He is the door of subjects,
+has a thousand ends and a thousand hands. He is Shukra,
+
+6 .
+
+## Page 64
+
+42 GARUDA PURANAM.
+
+has a beautiful head-gear, and a beautiful neck. He is
+Keshava, Pradyumna, Aniruddha, Hayagriva, Shukara
+(boar), Matysa (fish), Parashurama, Pralhada and Bali. He
+is daily sought by people for help, entightened, emancipated
+and the holder of forms. He is the destroyer of Khara and
+Dushana and the grinder of Ravana. He is the husband of
+Sita and the prosperous Bharata. He is the killer of the
+victor of Kumbhendra, the grinder of Kumbhakarna, the
+destroyer of the killers of men and celestials. He is the
+destroyer of the wicked Asuras and the enemy of Shamvara.
+He is the destroyer of (the demon) Naraka as well as of the
+three-headed demon. He broke down [the trees] Yamala
+and Arjuna and always helps asceticism. He plays on the
+musicat instrument and is himself the instrument. He is
+enlightened and the giver of boons. He is the substance
+and is fond of substances. He is Soura and the destroyer of
+time and is incapable of being cut. He is Agastya, Devala,
+Narada, and fond of Narada. He is Prana, Apana, Vyana
+(vital airs), the qualities of Rajas (darkness), Sattwa (good-
+ness) and Tamas (ignorance). He is beyond Tamas (ignor-
+ance). He is Udana, and Samana (vital airs). He is medicine
+and the medical man.
+
+He is perpetually and universally the same. His form is
+transparent and he is devoid of any form. He is devoid of
+the organs of vision and speech, af hands, fat, the organs of
+generation and excretion. He is devoid of great asceticism.
+He is devoid of perception, intellect, consciousness and
+vital airs, Prana, Apana, Vyana, Udana and Samana.
+
+He is devoid of the ether and fire, water and earth.
+He is devoid of sound, touch andall colours. He is devoid
+of carnal passion and other inferior appetites. He is shorn
+of grief and the power of speech. He is devoid of the
+quality of Rajas (darkness) and six-fold deviations from the
+natural state. He is devoid of sexual passion, anger, avarice,
+and pride. He is the subtlest of the subtle and the grossest of
+
+## Page 65
+
+GARUDA PURANAM. 43
+
+the gross. He is clever, leader of the strong and the agita-
+tor of all. He agitates Prakriti (nature), Mahat (intellectual
+principle), the elements, intellect, the organs of sense and
+of the objects thereof. He is the agitator of Brahma and
+Rudra. He is beyond the range of vision and hearing.
+Skin cannot touch him. He is tortoise. Tongue cannot
+perceive him. He is beyond the range of smelling and
+speech, The hands and feet cannot reach him. Hari is
+beyond the range of mental and intellectual perception and
+understanding. He is within the comprehension of the sense
+of ego and mental faculties.
+
+He holds the conch-shell in his hand, is undecaying and
+holds also the club and Shranga bow in his hands. He is
+dark-blue, the image of knowledge and the scorcher of the
+enemies. He is within the range of the knowledge of the
+ascetics; he is endued with knowledge and knows all by
+his knowledge. He is comprehended by knowledge and
+manifests the consciousness of the objects of knowledge.
+He is the soul, object of mental perception, the creator of
+the world and the destroyer of it. He is Govinda, the lord of
+kine and the giver of felicity unto the cow-herds. He is the
+protector of kine, the master of kine, Gomati and Godhara.
+He is Upendra, Nrisimha, Shouri, Janarddana, Araneya,
+Vrihatbhanu and highly effulgent. He is D&modara, the
+three-fold time, cognizant of time and devoid of time. He
+is the three-fold Sandhya (periods of conjuction), is Dwapara,
+Treta, the creator of subjects and of the foot steps. He
+is powerful and holds a rod in his hand. He holds one and
+three rods in his hand. He is the division of the Samaveda,
+its means, of the form of Saman and the chanter of Saman.
+He is conversant with Atharvan Veda and is the preceptor
+thereof. He is the Rik of the Rik Veda and is stationed
+there. He is the reader of the Yayush, the Yayurveda itself
+and is conversant with the rituals thereof. He has one foot,
+many feet, beautiful foot, a thousand feet, four feet, two feet.
+
+## Page 66
+
+44 GARUDA PURANAM.
+
+The powerful lord is like unto Smriti and Nyaya. He isa
+Sanyasin (disassociated from the world, and is the four orders
+of hermit &c viz, a Brahmacharin (student), Grihasta (house-
+holder), Vanaprasta (retired into forest) and Bhikshsu (a
+hermit living on alms). He is the four Varnas (castes) viz
+the Brahmanas, the Kshatryas, the Vaishyas and the Shudras.
+He gives good character, is endued with the same and devoid
+of a bad character. He is emancipation, is engaged in
+spiritual communion, is the encomiastic verse, the encomiast
+and the worshipper. He is worshipful, the speech, the object
+of speech and the speaker. He is the knower, the grammar,
+the word and is conversant with words.
+
+He is within the reach of words, lives in sacred shrines,
+is the sacred shrine and is conversant with the knowledge of
+all the shrines. He is resident in all the sacred shrines, is
+Sankhya, .Nirukta and the presiding deity thereof. He is
+Pranava,* the lord of Pranava and is adored with Pranava.
+He is Gayatrit and the holder of club. He lives in
+Shalagrama and is Shalagrama itself. He resides in water,
+lies in Yoga, on Sesha and Kusha. He is the earth, is the
+action, the cause and the holder of the earth. He is the
+Patriarch, and the eternal. He is the object of desire and
+tlie universal creator of desire. He is the Lord Paramount,
+the sun, the heaven, is stationed on a cay and the strength of
+the charioteer. He is rich; the giver of riches, blessed and
+engaged in the well-being of the Yadavas. He is the
+favourite of Arjuna and he is both Arjuna and Bhima. Un-
+bearable is his prowess and he is a master of all the
+
+* The sacred syllable Om, an abbreviation of the Hindu triad, vis,
+Brahma, the creative force, Vishnu, the protecting force and Shiva,
+the destructive force. These three forces or the deities presiding over
+them are represented by Om. The abbreviation is intended for the
+purpose of recitation, The prayers and sacred hymns and mantrams of
+the Hindus are all presented by Om.
+
++ The sacred verse which the Brahmanas recite. It is one of the
+
+verses of the Rik veda, embodying the worship of the sun-god.
+
+## Page 67
+
+GARUDA PURANAM. 45
+
+scriptures. He is Saraswati, the great Bhishma and the
+captor of Parijata flowers. He is the giver of ambrosia, the
+ocean of milk and the milk itself. He is the protector of
+Indra’s son and the upholder of the mount Govardhana. He
+is the destroyer of Kansa, the master of his elephant and the
+killer of the same. He is Shipidisthe* (pervaded by rays),
+cheerfulness and the destroyer of the calamities of all people.
+He is Mudra, the maker of Mudras and is devoid of all
+Mudras. He is endued with a body, is stationed in a body
+and the organizer of the body. He is the hearer, the creator
+of the ears, the object of hearing and the power of hearing.
+He is stationed in skin, is one who touches, the object and
+power of touching. He resides in the eye, is the seer of
+forms and the creator of the eye and is the object of vision.
+He resides in the tongue, has a strong taste and is the.
+organiser of taste. He resides in smell, creates smell, him-
+self smells and is the creator of the organ of smelling. He
+resides in speech, is the speaker, the object of speaking, the
+power of speech and the creator of the same. He resides
+in vital airs. He is the creator of fine arts, is the fine art
+itself and the creator of hands. He is the foot, the agent of
+going, the place of going and the power of going. He is
+the ordainer of gifts, is stationed in the organ of generation
+and is the pleasure. He is the slayer of enemies, Kartavirya,
+Datt&treya, is engaged in the well-being of Alarka and is the
+destroyer of Kartavirya. He is Kalanemi, Mahanemi, the
+cloud and the lord of clouds. He is the giver of food, of
+the form of food, the eater of food and the ordainer of
+food. Hecreates smoke and is of a smoky form. He is the
+most excellent son of Devaki. He is the delight of Devaki,
+Nanda and Rohini. He is a favourite of Vasudeva and his
+son. His smiles are both like Dundhuvi (trumpets) and
+flowers. He is fond of laughing aloud. He is the lord of
+
+* An epithet of Vishnu,
+
+## Page 68
+
+46 GARUDA PURANAM.
+
+all, decaying and undecaying. He is Achyuta (undecaying),
+the lord of truth and is fond of truth. He is the most
+beloved husband of Rukshmini. He is the favourite of
+milk women and his piety has been sung in well known
+verses. He is Vrishakapi, Yama, Guhya, Mangala, Budha,
+Rahu, Ketu, the crocodile and the union of the mouths of the
+elephants. He is the destroyer of crocodiles and the
+protector of the headmen of villages. He is the Kinnara,
+Siddha, the Prosody and easiness. He is of the universal
+form, of large eyes and the slayer of the Daityas. He is of
+endless forms, is stationed in elements, in the celestials and
+Danavas. He exists in dreamless sleep, is dreamless sleep
+itself and is the place for it. He exists in an awakened state,
+is the agent and the place thereof. He exists in the state of
+dreamless sleep, is conversant with it and is the dream itself:
+He also exists in the fourth state devoid of these three states”
+of dreamless sleep, dreaming sleep and awakening. He is
+the discriminating knowledge, is Chaitra, the sentiency and
+the creator of sentiencies. He is the lord of the worlds and
+the ordainer of the worlds. He resides in the nether region,
+the nether region itself and the destroyer of all sorts’ of
+feverish complaints. He is of the form of. great felicity and
+the propounder of various forms of faith. He is easily
+accessible, and accessible with difficulty. He is engaged in
+PrinSyama (suppression of vital, air). He is Pratyahara,*
+Dhirakat and the maker of Pratyahara. He is effulgence,
+personal grace, rays, pure and like unto crystal. He is above
+
+* It is the Yogic process of restraining the organs of senses from
+suscipitibility to outward impressions, and directing them entirely to
+mental perceptions, This is one of the means for effecting the entire
+subjugation of the senses.
+
+¥ Steady thought; retention or holding of the image or idea formed
+in the mind by contemplation,
+
+## Page 69
+
+GARUDA PURANAM. 47
+
+perception, white coloured, the all and pure. He is Vashat-
+kar,* Vashat, Voushat, Swadha, Sw4ha and inclination there-
+to. He is the agent of cooking, giving delight, eating,
+understanding and thinking. He is identical with knowledge
+and understanding. He is the Great and the Creator of all
+Creators. He is the river, Nandi,t the lord of Nandi and
+the destroyer of the trees of India. He is the holder of
+discus, the husband of Shree and the king of the Lords
+Paramount. He is the master of all the celestials and is
+the leisure. He is Pushkara,t{ the lord of Pushkara and
+the Pushkara island. He is Bharata, Janaka, Janya§
+and is devoid of all forms. He is without any form,
+without any cause, without any fear and without any
+help. O bull-emblemed deity, I have thus described
+to you the thousand names of the Lord Vishnu destruc-
+tive of all sins. By reading them a Brahmana attains
+to Vishnu-hood, a Kshatriya acquires victory, a Vaishya
+acquires riches and a Shudra is endued with reverential faith
+in Vishnu.
+— 0:
+
+CHAPTER XVI,
+
+RupraA said :—O folder of conch-shell, discus and club,
+do thou again describe the Dhyana (meditation) of the Deity,
+the Lord Vishnu, the pure, impersonal self.
+
+Hari said :—Hear, O Rudra, Hari’s dkyana, destructive
+of the tree of transmigatory series, never seen before, exten-
+ding all over and eternal. It is undecaying, present always
+
+* An exclamation used in making an oblation to a deity with the
+dative form of the deity.
+
++ The attendant of Shiva. It may also mean the character ina
+drama who introduces the prelude.
+
+Literally it means a “lotus.” It is an epithet of Krishna.
+
+§ Father.
+
+## Page 70
+
+48 GARUDA PURANAM.
+
+and every where and consists only in the thought “Iam
+Brahma.” [Meditate on him as] the root of the entire world,
+the lord of all, the Great Demiurgus, as stationed in the
+hearts of all creatures, as the great lord of all creatures.
+He is the container of all, having none to contain
+him and is the cause of all causes. He does not come
+in contact, is emancipated and is being meditated on by
+emancipated Yogins. He is without the gross body,
+the eyes, organs of vitality, the action of vital airs, the
+organs of generation and execretion, the organs of sense,
+the mind, the action of mind, intellect, mental faculties,
+egoism, the action of intellect, the vital airs, Prana, Apana
+and their actions.
+
+Hari said :—I will describe again the adoration of the
+sun which had been related formerly unto Bhrigu.
+
+Om salutation unto Khakholka.
+
+This is the principal mantram of the sun affording emanci-
+pation and objects of enjoyment.
+
+Om salutation unto God Khakholka. Om unto rays ta, ta,
+salutation unto the head. Om unto knowledge, salutation
+unto the tuft of hair on the head. Om unto him of thousand,
+ta, ta, salutation unto the amulet.
+
+Om salutation unto the master of all light. Ta, Ta, salu-
+tation unto the weapon. Om, burn, burn, burn burn, ta, ta,
+salutation. .
+
+This is the fiery mantram of the sun destructive of the
+sin.
+
+Om Adityaya, Vidmahe, Vishwabhavaya dhimahi, Tanna
+Suryye Prachodayat.
+
+The worshipper should perform the Sakalikarana rite
+with this Gayatri of the sun. He should worship Dharma
+in the east, Yama in the south, Dandanayaka and Vaivarna
+in the north, dark-blue, twany and other colours in north-east
+and north-west, the holder of thunder-bolt in the south-west
+and the earth and sky in the north-west.
+
+## Page 71
+
+GARUDA PURANAM. 49
+
+Om salutation unto the moon the lord of stars. Om
+salutation unto egoism the son of the earth. Om, salutation
+unto Budha, the son of Soma. Om salutation unto the lord
+of speech, the master of all forms 6f learning. Om
+salutation unto Bhrigu’s son, the great saint Shukra. Om
+salutatation unto Shani (Saturn) the son of the sun. Om
+salutation unto Rahu. Om salutation unto Ketu.
+
+In all the quarters beginning with the east and ending
+with the north-east all these should be adored, O bull-em-
+blemed deity.
+
+Om salutation unto Anuruka. Om salutation unto the lord
+of Pramathas.* Om salutation unto Budha. O lord! O
+thou endued with immeasurable rays! O lord of the entire
+world! O thou carried by seven horses! O thou having
+four arms! O thou, the giver of great supernatural powers !
+O thou twanty-coloured with scintillations! O auspicious
+deity, take this arghya. Salutation unto thee. Take this
+dreadful fire. Burn, burn, ta, ta, salutation.
+
+Having invoked the sun-god with this mantram he should
+make the Visarjana (life-destroying rite) with the following
+mantram. ‘
+
+Om salutation unto the sun endued with six lordly
+powers, of a thousand rays. Go happily to return again.
+
+CHAPTER XVII.
+
+Hari said :—I will describe the adoration of the sun
+formerly related unto the god of riches.t
+—
+* Shiva. + Kuvera,
+
+## Page 72
+
+50 GARUDA PURANAM.
+
+In a purified place a worshipper should draw the figure
+of a lotus with eight petals and pericarps. Then making
+Avahani mudra* he should invoke Hari there.
+
+He should place in the middle the diagram form of the
+sun and sprinkle it with water. He should place the heart of
+the deity in the quarter presided over by the fire-god. He
+should place the head in the north-east and the tuft of hair in
+the south-west. He, having his mind fixed in concentration,
+should assign Dharma to this quarter presided over by Puran-
+dara. He should place his eyes in the north-west and his
+weapon in the corner presided over by Varuna. He should
+place Soma in the north-east and Lohita in the quarter be-
+longing to Purandara. He should place Soma’s son in the
+east and Vrihaspati in the south. He should place the pre-
+ceptor of the Danavast in the south-west and Shani (Saturn)
+in the corner presided over by Varuna. He should place
+Ketu in the north-west and Rahu in the quarter presided
+over by Kuvera.
+
+In the second apartment, he should adore the twelve
+suns viz Bhaga, Suryya, Aryama, Mitra, Varuna, Savita,
+Dhata, the highly powerful Vivashwan, Twasta, Pusha, and
+Indra. The twelfth is Vishnu. In the quarters beginning
+with the east, a man, filled with ‘reverence, should adore
+Indra and other deities, Jaya, Vijaya, Jayanti, Aparajita,
+Sesha, Vasuki and other Nagas.
+
+—:
+
+* A particular kind of the arrangement of fingers made before in-
+voking a particular deity,
+
++ Shukra.
+
+## Page 73
+
+CHAPTER XVIII.
+
+Sura said :—I will describe the Archna (adoration) of
+Mritunjaya (the victor of death) narrated unto Kashyapa by
+Garuda, which gives redemption, is holy and identical with
+all the deities.
+
+First Om should be placed, then jumkara and thirdly
+Virsarga. This mantram destroys death and poverty. This
+great mantram of three letters is the lord of ambrosia. By
+reciting it people become freed from death and all sorts of
+sins. By reciting it a hundred times one reaps the fruit of
+Vedic recitations and of the celebration of sacrifices at sacred
+places. By reciting it one hundred and eight times at three
+periods of junction one defeats the Death and his enemies. :
+He should meditate on the lord of ambrosia, seated on a white
+lotus, the giver of boons, with the’promise of protection in one
+hand and jars full of nectar in two other hands. He should
+think of the goddess of ambrosia as stationed on his limb,
+sweet-speeched like ambrosia, holding the pitcher in her right
+hand and lotus in the left. He, who recites it eight thousand
+times at the three periods of junction for one full month,
+becomes freed from decrepitude, death and _ leprosy,
+defeats his enemies and gives peace unto all creatures. He
+is the [real] worshipper who knows the site [of a temple],
+the placing [of an idol], the suppression of vital airs, the
+appearance, the temple, water for washing feet, the water for
+‘rinsing mouth, the water for bathing, Arghya, Aguru, pastes,
+lamps, raiments, ornaments, edibles, drinks, drinking water,
+Matra, Mudra, recitation, meditation, gifts, oblation, the
+chanting of glories, playing on musical instruments, singing,
+dancing, Nyasa (assignment of limbs), yoga, circumambula-
+tiqn, bowing, mantrams, clarified butter, eulogy, (the life-
+destroying rite) Visarjana, the adoration with six ingredients
+emanating in order from the mouth of the great Deity.
+
+## Page 74
+
+52 GARUDA PURANAM.
+
+The Arghya, Padya, &c., should be fanned with a piece
+of cloth, and then purified with Kavacka mantrams and then
+the rite of Amriti-Karana (conversion into nectar) should be
+performed. Then Adhara Saktis* should be adored and
+Pranayama (suppression of vital airs) should be practised in
+the seat. Then the purificatory rite of Pindat should be per-
+formed. Then with Agni and other mantrams he should medi-
+tate on the self as being identical with the deity. He should
+then make assignment of hands and other limbs and after-
+wards adore the self in the form of light stationed in the lotus
+of the heart. He should then throw shining flowers on the
+idol or thetaltar. For the adoration of the door of the self the
+Adhara Saktis should be worshipped. And bringing one’s
+self near the deity he worships his family. For the adora-
+tion of six Angas (limbs) the quarters should be divided.
+Dharma and other gods, Shakra and other celestials, the
+various members of their families and their weapons, the
+cycles, and the Muhurttas (divisions of time) should be adored.
+This worship yields enjoyment and emancipation. He should
+first adore the Matrikas, Ganas, Nandiganga, Mahakala,
+Yamuna and Dehalya.
+
+Om salutation unto Bhairava, the lord of ambrosia. Evam,
+Om, Jum, Sas, salutation unto the sun. In this way adora-
+tions should be offered to Shiva, Krishna, Brahma, Gana,
+Chandika, Saraswati, Mahalakshmi and others.
+
+s
+
+—0:——
+
+* Female deities presiding over various articles,
++ Balls of food offered to the departed manes,
+
+## Page 75
+
+CHAPTER XIX.
+
+SuTA said :—I will now describe the Praneshwara* rite of
+Garuda narrated by Shiva.
+
+I shall first describe the places where a person, bitten by
+a serpent, does not survive, viz., funeral pyre, ant-hill, well, and
+the cavity of atree. The person, three lines on whose limbs,
+are hidden, does not live. [Aman dies if he is bitten] in
+the sixth day of the fort-night, when the sun is in the cons-
+tellation Cancer, when it is in the Aries, when it is with the
+asterism Mula or when it is in the Maghat or Ashleshaf
+[A man dies when he is bitten] on the sides, on the loins, on
+the throat, on the joints or the temple, ears or belly. The
+Dandin (hermit), a person holding weapons, a mendicant
+and a naked person are the emissaries of Death.§ If a person
+is bitten on the mouth, arms, neck, and on the back, he does
+not survive.
+
+Every day the sun, first of all, lords, for half a Yama,||
+over all the serpents. Then with six revolutions the six
+planets lord over them. In the night with five revolutions
+the five planets lord over them. The sun is the presiding
+star of Sesha, the moon of Phani, Mars of Takshaka, Jupiter
+of Karkotyna, Venus’ of Padma and Mahapadma, Saturn of
+Shankha, and Rahu of Kuluka and Ahi. Jupiter is the Death
+itself in both days and nights. Saturn is Death in the day and
+
++ It perhaps refers to the rite for counteracting the evit effects of the
+poison.
+
++ The ninth Nakshatra or lunar mansion containing five stars.
+
+$ The tenth lunar mansion containing five stars.
+
+§ The meaning is that if these persons are sent for calling a phy-
+sician the patient dies.
+
+|| Eighth part of a day. A watch of three hours.
+
+q If a person is bitten on Thursdays he never survives under any
+circumstances.
+
+## Page 76
+
+54 GARUDA PURANAM.
+
+the period when Rahu presides over Kuluka at the hours
+of the conjunction of two-half Yamas, it is hostile to life.
+
+A day, consisting of sixty dandas,* should be distributed
+over a human body divided into three sections. Five dandas
+should be assighed to the toe, twelve to the feet, five to the
+calf, two to the knee and one to the organ of generation. Six
+dandas should be assigned to the navel, four to the breast
+and eight to the throat. Fifteen dandas should be allotted
+to the tip of the nose and one each to the eye, ear, eye-brow,
+and temple. Then all the days, beginning with Pratipat, the
+first day of a fort night, should be allotted to all the limbs
+beginning with the head. If the moon lords over the right
+part of a man’s body he does not survive. If it lords over
+the left part of a woman’s body she dies. The benumbed
+part should be rubbed over with a hand till unconsciousness
+is not removed.
+
+The great mantram of self, pure like crystal, called Hansa,
+is to be known as one which counteracts the evil effect of
+poisoning. Its Veeja is of four sorts.
+
+Om, Kuru, Kunde Swaha.
+
+Formerly this learning was kept by Garuda for protecting
+the three worlds. Desirous of killing the serpents he assigned
+Pranavatohis mouth. An intelligent worshipper should assign
+Kuru to his throat, Kunda to the calves, and Swaha to the
+two feet. This Nyasa is called Yugaha. The serpents leave
+the house in which this mantram is written. Having
+recited it a thousand times one should place a thread on his
+ear. The serpents leave the house in which sugar, after
+reciting this mantram, is thrown. By reciting it seven lacs
+of times the celestials and Asuras obtain Siddhi.
+
+Om, Swaha unto golden lines, unto him having the form
+of a fowl.
+
+In this way two letters should written on each petal of a
+
+* One sixtieth part of day and night. Twenty four minutes.
+
+## Page 77
+
+GARUDA PURANAM. 55
+
+lotus of eighteen petals. When a person, bitten by a snake,
+is sprinkled with water with this mantram the poison
+goes out.
+
+Om, pakshi (bird) Swaha. Then the assignment of all
+fingers, beginning with the thumb and ending with the
+youngest finger, should be made in the body. Garuda
+should be assigned to the mind, mouth, heart, organ of
+generation and feet. Even in a dream the venomous serpents
+do not transgress his shadow. He, who recites this mantram
+for a lac of times, destroys the poison even by his very sight.
+On, Hrom, Hroum, Hzim, Bhirundayai Swaha.
+
+Having recited this mantram by placing his finger on the
+ear one should destroy the poison of the person bitten. He
+should then assign a, @ to the tips of the feet, e.7. to the
+calves and knees, u, #%, a az to the waist, or to the navel, and
+on to the heart. He should assign am to the mouth and as
+to the head. Hansa, when recited, meditated on and adored,
+destroys all sorts of poison. Having meditated “I am
+Garuda” he should perform the rite destructive of poison.
+Having assigned the mantram Ham to the body he should
+say “ Destroy poison, &c.” Having assigned Hansa to the
+left hand, he should close up his mouth and nostrils. This
+mantram destroys the poison affecting the skin and flesh.
+Having attracted it by the air he should remove the poison
+of the person bitten. He should next assign it to the body
+of the person bitten and meditate on the blue-throated
+deity (Shiva). When ‘the juice of the root of Pratyangira
+is drunk with rice it destroys poison. The root of the new
+Phalin is equally effective. When clarified butter is pasted
+on the head it also destroys poison. If a person drinks up
+hot ghee (clarified butter) the poison is not increased. If
+the root of Sirisha compounded in five parts with one part
+of red garlic (Grinjana) is pasted all over the body or is
+drunk it destroys poison.
+
+Hrim destroys the poison of Gonasha (a large kind of
+
+## Page 78
+
+56 GARUDA PURANAM.
+
+snake Boa). When the mantram Hrim ending with Visarga
+is meditated on it brings all under control; when it is as-
+signed to the female organ it brings a maiden under control
+and clears up the muddy water. Having recited “Garuda is
+every where” fifty-six thousand times a person becomes a
+poet, well read in Sruti and obtains a submissive wife. The
+theme of the Muni Vyasa forsooth destroys poison.
+
+CHAPTER XX.
+
+Suta said:—I will now now describe the highly secret
+mantrams narrated by Shiva. His weapons are the noose,
+the bow, the discus, the club, the dart and Pattisha. Having
+used these weapons inspired with mantrams in a battle a
+king conquers his enemies. The mantram for purifying the
+mantrans should be first written on a lotus petal. Om is the
+Brahma Vijam. Hrim is the Vishnu Vijam. These three
+Vijams should be assigned to the head of Shiva thrice in
+order.
+
+On, Hrim, Hrim. .
+
+Having taken up the dart in his hand he should whirl it in
+the sky. By seeing it all the evil stars and serpents are
+destroyed. Having held the smoky coloured bow by the
+hand a man should meditate on it in the sky. By it the
+wicked serpents, the evil stars, clouds and: Rakshasas are
+destroyed. This mantram protects the three worlds, what to
+speak of the land of mortals ?
+
+Om, jum, Sam, Hum, Phat. Eight sticks of Catechu
+wood, inspired with mantrams, should be placed on the
+ground. That will prevent the falling of thunder-bolt. The
+eight sticks should be inspired with great mantram described
+
+## Page 79
+
+GARUDA PURANAM. 57
+
+by Garuda. The ground should be dug twenty one times in
+the night. This will ward off the dangers proceeding from
+lightning, mouse, and thunder-bolt.
+
+The mantram is:—Hara, Kshara, amala, Vashat, added
+with Vindu Sadasiva.
+
+Om, Hram, salutation unto Sadashiva.
+
+He should then‘assign pinda (balls of rice) effulgent like
+Darimi flowers with the fore-finger. By seeing it the evil
+clouds, lightning and other enemies viz. the Rakshasas,
+goblins and female ghosts fly away into the ten quarters.
+
+Om, Hrim, salutation unto Ganesha. Om, Hrim, salutation
+unto the chakra of Sthambhana.
+
+Om, em, salutation unto the Damaras of the three worlds.
+
+This pinda is called Bhairava which counteracts the effect
+of poison and the evil effects of the hostile planets. It pro-
+tects the field and grinds the goblins and Rakshasas.
+
+Om, Namas. Having meditated on the thunder-bolt of
+his hand he should ward off the evil influence of wicked
+clouds and with Vajra Mudra all the ghosts, the enemies
+with poison. Om, Kshum, Namas. He should meditate on
+his left hand. It destroys all venomous creatures.
+
+Om, Hram, Namas. The very recitation of this mantram
+destroys the evil clouds and stars. Having meditated on
+death he should consume the universe with the destroying
+weapon. >
+
+Om, Kshma, Namas.
+
+Meditating on Bhairava one should remove the evil influ-
+ences of stars, goblins and poison.
+
+Om lasat, jhvaksha Swah3. This mantram destroys the
+enemies of the field vz, the evil stars, goblins, poison and
+birds. ~
+
+Om Ksham Namas. The figure of a cistern should be drawn
+with blood and then the names of planets should be written
+there.
+
+8 »
+
+## Page 80
+
+58 GARUDA PURANAM.
+
+Om, Mara, Mara, Maraya, Maraya Swaha. Om, Hum,
+Phat, Swaha.
+
+The dart should be inspired mentally with eight hundred
+mantrams. it destroys all the enemies. _
+
+With higher energies the lower ones should be suppréssed!
+Then the mantrams should be practised in Puraka* and
+should be again well inspired in Kumbhaka.t They should
+then be received with Pranava. ‘When the mantrams are thus
+properly received and used they yield fruts like servants.
+
+CHAPTER XXI.
+
+SuTa said :—I will now describes separately the adoration
+of Panchavaktra (five mouths) which yeilds enjoyment and
+emancipation.
+
+Om bhur [salutation unto] Vishnu, the first bhuta, the
+stay of all, unto him having a form, Swaha.
+
+First of all with this mantram invocation of Sadyajata
+(Shiva) should be made.
+
+Om, Ham salutation unto Sadyajata. His falas (parts)
+are eight in number viz. Siddhi, Riddhi, Dhriti, Lakshmi,
+Medha, Kanti, Swadha, Sthiti.
+
+Om, Ham, salutation unto Vamadeva. His falas are
+thirteen in number, viz, Raja, Raksha, Rati, Palya, Kanti,
+Trishna, Mati, Kriya, Kama, Buddhi, Rati, Trasani, and
+Mohini.
+
+* A Yogie posture in which the thumb is placed on the right nostcil
+and the fingers raised from the left through which the breath is inhaled.
++ The posture in which both nostrils are closed and breathing
+suspended.
+
+## Page 81
+
+GARUDA PURANAM. 59
+
+Manonmani, Aghora, Moha, Kshudha, Kala, Nidra, Mrityu,
+Maya—these are the eight dreadful Kalas.
+
+Om, Hraim, salutation unto Tatpurusha. His Ka/as are
+Nivrithi, Pratishtha, Vidya, Shanti and Kevala.
+
+Om, Hroum, salutation unto Ishana. His Aalas are Nish-
+chata, Niranjana, Shashini, Angan§, Marichi and Jvalini.
+
+CHAPTER XXII.
+
+SuTA said :—I will now describe the great adoration of
+Shiva which yeilds enjoyment and emancipation. He is of a
+quiescent soul, present every where, void and stationed in a
+room of twelve parts. His five mouths are represented by
+five short vowels and his limbs by leng vowels added with
+Vindu. His weapon is represented by Visarga. Then the
+word Shiva should be written upwards. With the sixth the
+great mantram Houm impregnated with various meanings
+should be written. With hands the after parts of the feet
+should be held and then the ends thereof should be placed
+on the head. This is the great Mudra. Then the assignment
+of hands should be made. ‘With the aséra mantram the back
+should be purified. Then beginning with the youngest finger
+and ending with the fore all the fingers should be assigned.
+
+I will now describe the adoration in the pericarp of the
+lotus of the heart. One should adore religion, knowledge,
+disassociation from the world and prosperity in the heart.
+The invocation and the installation [rites of the Deity], the
+water for washing feet and Arghya should be dedicated to
+the heart. And similarly the rinsing of the mouth, sprinks
+ling of water and adoration should be made.
+
+## Page 82
+
+60 GARUDA PURANAM.
+
+I will now describe the rites of fire worship. They
+should be written with the astra mantram. Then the coat
+of mail should be sprinkled with water. And Sakti should
+be assigned to the heart. Then he should place fire either
+in the heart or in the pit for Sakti, Having performed the
+Garbhadhana he should celebrate the other rites. Afterwards
+having assigned to the heart the freedom from all those rites
+as well as all other rites he should perform Homa for Shiva
+and all the members of his family. Then in a diagram having
+the figure of a lotus drawn inside it he should worship the
+bull-emblemed deity Shambhu.
+
+CHAPTER XXIII.
+
+Sura said:—I will describe the adoration of Shiva by
+which religious profit, desire &c. are secured. With three
+mantrams beginning with Om and ending with SwahA the
+mouth should be rinsed with water.
+
+Om, Ham, salutation into the principle of self. Hirm,
+salutation unto the principle of learning. Om, Hum, saluta~
+tion unto the principle of Shiva Swaha. The ears should be
+closed with the heart.
+
+Om, ham, yam, Swaha, are the mantrams for bathing
+with ashes and offering oblations of water. All the gods
+and all the Munis should be adored with the mantram
+“ Salutation bhoushat.”
+
+All the Pitris and all the Pitamahas (patriarchs) should be-
+adored with mantrams ending with the word Swadha.
+
+Om, Ham, salutation unto the great grand-fathers. The
+same is for the maternal grand-fathers: [The next is} Ham,
+
+## Page 83
+
+GARUDA PURANAM. 61
+
+salutation unto all the Matris. Then the vital airs should be
+suppressed. Then he should rinse his mouth with water, rub
+his body and recite the Gayatri [which is as follows].
+
+Om, Ham, Tan Maheshaya Vidmahe, Vagvishudhayz
+dhimahi Tanno Rudra Prachodayat.
+
+Then having placed near the sun he should adore him with
+Surya (sun) mantrams. [It is] Om, ham, Him, Hum, Haim,
+Houm, Has salutation unto Shiva Suryya. Om, Ham saluta~
+tion unto Kakolka, the form of the sun. Om, Hram, Hrim,
+Sas, salutation unto the sun. In the same way [the atten-
+dants of the sun] Dandina and Pingala should be remem-
+bered. Then in the south-east and other corners of the mystic
+diagram Vinata, Isha and other powers of the sun should be
+adored with great felicity. Then he should adore Padma
+with the mantram Ram, Dipta with the Sreem, Sukshma
+with rum, Jaya with rem, Bhadra with raim, Bibhuti with
+rom and Vimala with Roum. He should adore lightnings
+with Ram, in the east and other quarters, rom in the middle
+and raz on all sides. He should adore the seat of the sun,
+the form of the sun and the sun itself with the mantranr
+“Hram, Hrum, Sas.”
+
+Om and am are the mantrams for the heart of the sun
+and his head and tuft of hair. Roum is for heaven, sky and
+earth. The burning mantram Hum is for the coat of mail ;
+astram is for the initiated queen. The worshipper should
+adore all in the heart of the sun.
+
+Som is the mantran for Soma, Man for Mangala, Vam
+for Budha, Vrim for Vrihaspati, bham for Bhargava, Jum for
+Shani and ram for Rahu. With Ram one should adore Ketu
+and with Om the solar disc.
+
+Having adored the sun and rinsed his mouth with water
+he should assign all the fingers beginning with the youngest.
+
+Ham, Him is the mantram for the head, Hum for Sikha
+(tuft of hair), Haim for coat of mail, Houm for eyes and
+Hos for the weapon. Having thus placed the Sakti he
+
+## Page 84
+
+*
+62 GARUDA-PURANAM.
+
+should perform again the nyasa of bhuta-suddhi (purification
+of elements).
+
+Then making a vessel of arghya, he should sprinkle it
+with water and then adore the self as being stationed in the
+lotus, in the exterior with the mantram “ Salutation unto
+Shiva,” then Nandi and Mahakala at the gate, then Ganga,
+Yamuna, the goddess of speech, (the mystic mark) Srivatsa,
+the presiding . ‘goddess of the land, Brahma, Gana, the
+preceptor, Sakti and Ananta in the middle pericarp, Dharma
+(the god of virtues and others, in the east and other sides, the
+god of sin (Adharma) and others in the south-east pericarp,
+Yama and Jejeshtha in the middle pericarp, Roudri, Kali and
+Shivasita in the eastern pericarp of the lotus of the heart.
+Then the Valavikarini should be adored ‘with the mantram
+“Om, Houm, salutation unto Valavikarini”. The goddess of
+strength, which subdues all creatures, should be next adored.
+Then in the pitha before Shiva Manonmani should be adored.
+He should then make a seat for Shiva and his great image.
+He should invoke the spirit of Shiva within the image. He
+should then perform the rites of Sthapanam (installation of
+the image), Sannidhana, Nirodha, Sakalikarana, Mudra,
+Arghya, Padya, Achama, Abhyanga, Udvarta, Snana (bathing)
+and Nirmanchana (rubbing). Next he should offer raiments,
+unguents, flowers, incense, lamps, charu (a kind of food) water
+for rinsing mouth, delightful habitation, betel, umbralla,
+chowries, and sacred thread. He should then imagine the form
+of one God, recite his name and dedicate it tohim. With
+eulogy, bowing and [meditation in the] heart this adoration
+of Namanga (Name and limbs) should be finished. Agnisha
+should be placed in the north-west. He should then adore
+‘Indra and other deities and Chanda and dedicate to them
+offerings, saying “ Thou art the mysterious of the mysterious
+and the protector. Do thou accept this my recitation. O
+god, may I, by thy favour and on thy being present here,
+‘attain success. O god! O thou the giver of fame! do thou
+
+## Page 85
+
+GARUDA PURANAM. 63
+
+destroy all my actions, good or bad whatever I have done
+who am of the dignity of Shiva. Shiva is the giver, Shiva is
+enjoyer and Shiva is the entire universe. Shiva is‘victorious
+everywhere. I am myself Shiva. O Shiva! thou art” the
+saviour and the leader of the universe. Save thee I have no
+other lord.”
+
+I shall now describe another method of the adoration of
+Shiva. Gana, Saraswati, Nandi, Mahakala, Ganga, Yamuna,
+anéthe presiding deity of the house—all these should be assign-
+ed to the eastern gate. Then shouldjbe adored Indra and other
+deities, earth, water, fire, air, sky, smell, taste, form, sound,
+touch, speech, hand, feet, the organ of generation, ear,
+skin, tongue, nose, mind, egoism, nature,"man, anger, malice,
+learning, proper time, improper time, fate, tillusion, pure
+learning, Ishwara (creator) and Sadasiva.
+
+Having known all these as the powers of Shiva an
+emancipated person, having the true knowledge of the deity, —
+becomes himself Shiva. [He should also meditate] ‘He who
+is Shiva is Hari and Brahma.
+
+‘CHAPTER XXIV.
+
+SuTA said:—I will now describe the most excellent
+adoration of Ganas* which gives all and even heaven. The
+worshipper should adore the seats of Ganas, the images of
+Ganas and the lord of Ganas. Heart and other limbs should
+be assigned to Durga. The sandals of the preceptor, the
+seat of Durga and her image should be adored with the
+
+* Troops of inferior deities considered as Shiva’s attendants and
+under the special superintendence of Ganesha.
+
+## Page 86
+
+64 GARUDA PURANAM.
+
+mantram :—Hrim, O Durga, protect.” Then assignm ent
+should be made to the eight Saktis, called Chandikas, viz
+Rudrachanda, Prachanda, Chandogra, Chandanayika, Chanda,
+Chandavati and Chandarupa with the mantram “O Durga,
+O Durga, O protectress” Then Vajra, Khanga and other
+Mudras of Shiva should be adored ‘in the south-east. Then
+Sadasiva, the lord of goblins and the lotus seat [should be
+adored.]
+
+Em, Klim, salutation unto Sonstripura: Om, Hram, Hrim,
+Kshem, Kshaim, Strim, Skom, Rom, Sphem, Sphom, the
+lotus seat and the heart &c of Tripura.
+
+Then in the lotus pitha (altar) should be adored Brahmani,
+Maheshwari, Kouméri, Vaishnavi, Varahi, Indradevata,
+Chamunda and Chandika. Then the Bhairavas should be
+adored. Asitanga, Ruru, Chanda, Krodha, Unmattabhairava,
+Kapali, Bhishana, and Samhara, are the eight Bharavasa.
+He should meditate in his heart, in a mandala (diagram) with
+a lotus inside it and having three corners, on Rati, Priti,
+Kamadeva, the five arrows, Yogini, Valuka, Durga, Vighnaraja,
+Guru (preceptor) and Kshatrapa.
+
+By reciting this mantram for a lac of times and by offer-
+ing oblations to the fire Tripura gives Siddhi.
+
+ie,
+
+CHAPTER XXV.
+
+Sura said:—Em, Krim, Shrim, Sphem Kshoum, I adore
+the paduka (shoe), of Ananta-Sakti.
+
+Em, Hrim, Phroum, Kshoum, I adore the paduka of
+Adhar4-Sakti, salutation.
+
+—
+4 @ These are the personifications of the tercific power of Shiva,
+
+## Page 87
+
+GARUDA PURANAM. 65
+
+Om, Hum, | dore the paduka of Katagni Rudra, saluta-
+tion. Om, Hrim, Hum, I adore the paduka of Hatakeshwara,
+salutation.
+
+Om, Hrim, Shrim, | adore the seat called Ananta, having
+the earth, insular continents and the oceans on all sides,
+salutation.
+
++ Hrim, Srim, Nrivritti and other Kalas. Earth and other
+elements. Ananta and other worlds. Omkar and other
+letters. The nine syllables Hakar etc. Sadyajata and other
+Mantrams.
+
+Ham, the heart and other limbs. This is the mantram
+of Maheswara. It is identical with ‘the most consummate
+learning and is the ocean of great ambrosia.
+
+CHAPTER XXVI.
+
+SuTA said :—Thereupon Karanyasa (assignment of hands)
+and the purificatory rite should be performed. Having formed
+Padmamudra he should make the assignment of mantrams.
+
+Koum, salutation unto the youngest finger. Noum, salu-
+tation unto the nameless (ring) finger. Moum, salutation
+unto the middle finger. Toum, salutation unto Tarjani. Am,
+salutation unto Augustha. Lam salutation unto the soles of
+the hands. Vam, salutation unto the back of hands.
+
+Then Deha (body) Nyasa. Kam, salutation unto
+Manivandha. Em, Hrim, Shrim, salutation unto Karaskara.
+He should consecrate the hands with Hum Hum, effulgent like
+the great fire.
+
+Em, Hrim, Hrim, Shrim;-Hraim, Saphaim, salutation unto
+Bhagavate. Sphaim salutation unto Kuvjikayai.* Hrum,
+
+* An unmarried girl of 8 years,
+
+## Page 88
+
+66 GARUDA PURANAM.
+
+Hrim, Kroum Anganame ofgdreadful mouth. Ham, Him,
+Kilikili, Hrim, Hrim, Shrim, Em, salutation unto Bhagavate
+of the upper mouth. Sphoum, salutation unto Kuvijakayai
+of the left mouth. Hrim, Shrim, Hrim, salutation unto
+Anganame of the southern mouth. Om, Hrim, Shrim,
+salutation unto Kilikili right mouth. Om, salutation unto
+Aghoramukhi (dreadful mouthed) of the northern mouth.
+Om, Namas salutation unto the heart of Bhagavate. Kshem,
+Em, Kuvjikayai, Sirase (head) Swaha. Hrim, Krim, Hrim,
+Pram, Ang, A Na Name, Shikhayai (tuft of hair), Aghora-
+mukhi, Kavachaya, (coat of mail) Hum. Haim; Im, unto
+three eyes Voushat. Kiliki unto weapons phat.
+
+Em, Hrim, Shrim, salutation unto the mystic diagram of
+the great dart of a connected circular form. Em, Hrim,
+Shrim, salutation unto the circular orb of the air. Em,
+Hrim, Shrim salutation unto the disc of the moon. Em,
+Hrim, Shrim, salutation unto the mystic diagram of
+Mahakulavodhavali. Em, Hrim, Shrim, salutation unto the
+mystic diagram of Koula.’ Em, Hrim, Shrim, salutation unto
+the mystic diagram for the preceptor. Em, Hrim, Hrim,
+salutation unto the mystic diagram of the Saman. Em,
+Hrim, Shrim, salutation unto the diagrams of the principal
+and minor pithas of all Siddha yoginis, of all the principal
+fields and minor ones and of all their offspring.
+
+These twelve mystic diagrams should be adored in order
+of succession.
+
+CHAPTER XXVIIL.
+
+SuTa said:—-Om, O thou the skeleton of Kala and
+Vikala! O Chandini! O thou the destroyer of creatures! O
+
+## Page 89
+
+GARUDA PURANAM. 67
+
+thou the venom of serpents! O Virathanarayani! O Uma! O
+thou of burning hand! O Chanda! O Roudri! O Maheswari,
+O thou of a huge mouth, O thou of a burning mouth! O
+thou having dart-like ears! O Sukamundha! O thou the
+destroyer of all, destroy the enemies. Khakha, thou dost
+Took at all with thy entire body covered with blood. O
+goddess Manasa! Stupify all, stupify all. O goddess! thow
+art born in the heart of Rudra, thou art stationed there and
+thou dost appear in a terrific form. Protect, Protect Mam,
+Hum, Mam, Phapha, Tata, O thou wearing a girdle of beads.
+O thou destroyer of the poison of plants and enemies. O
+O Shala! O Mala! Hara, Hara, Vishoka, Ham, Ham!
+Shavari, Hum, Shavari, Prakonavishare ! Sarve ! Vinchamegha
+Mile! It is destructive of the poison of all serpents.
+
+CHAPTER XXVIII.
+
+SuTA said:—I will now describe the adoration of
+Gopala which yeilds emancipation and enjoyment. In the
+door Dhata, Vidhata, Ganga with Yamuna, the Nidhis
+Sangka and Padma, Sharanga, Sharabha and Shree should
+be adored. In the east should be adored Bhadra and
+Subhadra, in the south Chanda and Prachanda, in the west
+Vala, and Pravala and Jaya and Vijaya in the ‘north. In
+the four doors Shree, Gana, Durga and Saraswati should be
+adored.
+
+In the south-east and other corners of the field Narada,
+Siddhas, the preceptor, Nalakuvara should be adored. In the
+east the worshipper should adore Vishnu, his asceticism and
+power. Then in the middle he should adore the family of
+
+.
+
+## Page 90
+
+-68 GARUDA PURANAM.
+
+Vishnu, the Saktis, the tortoise, Ananta, earth, religion,
+knowledge and disassociation from the world. He should
+adore prosperity in the south-east and the manifest self in
+the north. He should then adore the Sattwa guna identical
+with Prakriti (nature), and Rajas identical with Moha
+(stupefaction) and Tamas, the lotus and the principle of
+egoism, learning, the great principle and the solar
+and lunar discs. Then in the east he should adore Vimala
+and other seats with the mantrams Shrim, Hrim, salutation
+unto the dearest lord of milk-men, Swaha. This is the
+mantram.
+
+In the eastern corners of the diagram of the heart he
+should adore his weapons viz Achakra, Suchakra, Vichakra,
+the discus Sudarshana, which protects the three
+worlds and destroys the Asuras. Then in the east he
+should adore the Saktis namely Rukshmini, Satyabhama,
+Sunanda, Nagnajiti, Lakshman4, Mitravrinda, Jamvavati and
+Sushita. Then in the east he should also adore his conch-
+shell, discus, club, lotus, mace, the Shranga bow, sword,
+noose, goad, the mystic mark Srivatsa, and the jewel Kous-
+tava. He should then adore his crown, garland of wild flowers,
+his Indra and other flags, Kumudas, Vishwaksena and
+Krishna along with Shree. By reciting his name and
+adoring him one attains all desired-for objects.
+
+——
+
+CHAPTER XXIX.
+
+Hart said :—I will now describe the Trailokyamohini ‘rite
+(fascinating the three worlds) of the foremost of. male beings,
+its adoration and the mantram called Shridhara which
+yeilds religious profit, desire and wives.
+
+## Page 91
+
+GARUDA PURANAM. 69
+
+Om, Hrim, Shrim, Klin, Hum, Om, Namas: O foremost
+of male-beings! O thou of an incomparable form! O thou
+the abode of the goddess of prosperity! O thou the agitator
+of the entire universe! O thou who rivest the hearts of all
+women! O thou who maddenst the three worlds! Distress
+the hearts of all beautiful women amongst the celestials and
+Asuras ; dry them up, strike them, check them, melt them
+and attract them. O thou of great auspiciousness! O thou
+of good luck! O thou the giver of all desired-for objects!
+destroy such and such person with thy discus, club or
+sword. Cut him with all thy weapons, strike him with thy
+goad, inflict him. Why dost thou wait.? Save me, save
+me, so long my Siddhi is not perfected. Hum, phat, salu-
+tation. Shrim, salutation unto the holder of Shree and the
+enchanter of the three worlds. Klim, salutation unto the
+foremost of male beings, the enchanter of the three worlds.
+
+Hum, salutation unto Vishnu, the enchanter of the three
+worlds. Om, Shrim, Hrim, Klim, salutation unto Vishnu,
+the enchanter of the three worlds.
+
+All the Trailokyamohana mantrams are capable of secu-
+ring the accomplishment of all objects. They may be medi-
+tated upon again separately and in brief.
+
+Having adored with mantrams the seat, the image, the
+six limbs, discus, club, sword, mace, conch-shell, the Shranga,
+arrow, noose, goad, Lakshmi, Garuda and Vishwaksena one
+attains to all.
+
+CHAPTER XXX.
+
+SuTA said :—I will describe in full the auspicious adora-’
+tion of Shridhara. The family of all should be looked at
+impartially by the learned.
+
+## Page 92
+
+7° GARUDA PURANAM,
+
+Om, Shrim, salutation unto the heart. Om, Shrim, unto
+the head Swaha. Om Shram, unto the tuft of hair on the
+head, Vashat. Om, Shraim unto the coat of mail, Hum. Om,
+Shroum, unto the three eyes, Voushat. Om, Shras unto the
+weapon, Phat.
+
+Having thus-shown unto self the various Mudras as
+Sangka, Chakra, Gada etc. and meditated on self known as
+Shridhara, the holder of conch-shell, discus and club a wor-
+shipper should adore the deity in the mystic diagram
+Sastika and others. He should first of all adore the seat of
+the god of gods, the holder of Shranga with the following
+mantram, O- Mahadeva. Hear them, O Shankara.
+
+Om, O presiding deity of the seat of Sridhara, come here.
+Om, salutation unto the entire family of the presiding deity
+of the seat of Achyuta.
+
+Om salutation unto Dhatri, Om salutation unto Vidhatri.
+Om salutation unto Ganga. Om salutation unto Yamuna.
+Om salutation unto the Adhara Saktis. Om salutation
+unto the tortoise. Om salutation unto Ananta. Om salu-
+tation unto the earth. Om salutation unto religion. Om
+salutation unto knowledge. Om salutation unto Vairagya
+(the spirit of disassociation from the world). Om salutation
+unto prosperity. Om salutation unto irreligion. Om saluta-
+tion unto ignorance. Om salutation unto worldliness. Om
+salutation unto poverty. Om salutation unto Skanda. Om
+salutation unto Neela. Om salutation unto the lotus. Om
+salutation unto Vimala. Om salutation unto Utkarshini. Om
+salutation unto Jnana. Om salutation unto Kriya. Om salu-
+tation unto Yogin. Om salutation unto Putra. Om saluta-
+tion unto Prarhé. Om salutation unto Satya. Om salutation
+unto Ishina. Om salutation unto Anugraha. Having wor-
+shipped them, O Rudra and invoked Hari a greatly wise
+worshipper should adore him with these mantrams destruc-
+tive of all sins.
+
+## Page 93
+
+GARUDA PURANAM. 7
+
+They are:—Om, Hrim, salutation unto Shridhara, Trailo-
+kyamohana and Vishnu.
+
+Om, salutation unto Shree. Om, shram, salutation unto
+the heart. Om, Shrim, salutation unto the head. Om,
+Shram, salutation unto Sikha (the tuft of hair on the head).
+‘Om, Shraim, salutation unto the coat of mail. Om, Shroum,
+salutation unto the three eyes. Om, Shras, salutation unto
+tthe weapon. Qm, salutation unto the conch-shell. Om,
+‘salutation unto the lotus. Om salutation unto the discus.
+‘On, salutation unto the club. Om, salutation unto the mystic
+mark Srivatsa. Qm salutation unto the jem Koustava. Om
+salutation unto the garland of {forest flowers. Om, salutation
+unto the yellow raiment. Om, salutation unto Brahma.
+‘Om, salutation unto Narada. Om, salutation unto the pre-
+-ceptors. Qm, salutation unto Indra. Om, salutation unto
+Agni. ‘Om, salutationunto Yama. Om, salutation unto Nirhita.
+‘On, salutation unto Varuna. Om, salutation unto Vayu. Om,
+salutation unto Soma. Om, salutation unto Ishana. .Om,
+salutation unto Ananta. Om, salutation unto Brahman. Om,
+salutation unto Sattwa. Om, salutation unto Rajas. Om,
+salutation unto Viswaksena.
+
+Then he should dedicate raiments, sacred thread, scents,
+flowers, incense, lamps and food and then circumambulate
+the deity. Having dedicated-them with great Mantrams
+he should recite the mantram.* Having recited it one hundred
+and eight times he should dedicate it. Then for a moment
+he should meditate on the deity stationed in his heart, pure
+like crystal, effulgent like a koti of suns, of a delightful
+countenance, gentle, adorned with shining ear-rings, crown,
+beautiful limbs and a garland of forest flowers. A learned
+worshipper should think of Shridhara in his own form as
+identical with Para Brahma. With the following hymn he
+should chant the glories of the great Ishwara.
+
+Salutation unto the deity the abode of Shree. Salutation
+unto the lord of Shree. Salutation unto Shridhara with the
+
+## Page 94
+
+72 GARUDA PURANAM.
+
+Shranga bow, unto the giver of prosperity. Salutation again
+and again unto the dearest lord of Shree of a quiescent soul,
+unto Shriman. Salutation unto the abode of Shri mountain,
+unto him who does us good. Salutation again and again unto
+the mass of spiritual well-being. Salutation again and again
+unto Shrikara. Salutation again and again unto him who is
+worthy of adoration and being taken refuge with.
+
+Having thus chanted the hymn, bowed unto him the
+worshipper should perform the Visarjana (the life-destroying
+rite) of the god of gods.
+
+O Rudra; I have thus described the adoration of the
+great Vishnu.. He, who does it with great reverential faith,
+attains to the great station. He, who reads this chapter des-
+cribing the adoration of Vishnu, has all his sins washed off,
+and attains to the exalted station of Vishnu.
+
+CHAPTER XXXI,
+
+Rubra said :—O lord, do thou again describe unto me
+the adoration of the lord of the universe by which I may
+cross over the most difficult ocean of Samsara (transmigatory
+series.)
+
+Haki said :—O bull-emblemed deity, hear, O great one,
+I will describe the adoration of the Lord Vishnu which yeilds
+the most auspicious emancipation and enjoyment.
+
+Having bathed and performed the rite of Sandhya a
+worshipper should enter the sacrificial room. Having washed
+hands and feet and rinsed his mouth particularly he should
+assign the words of the principal mantram to his hand. Hear,
+hear, O Rudra, I will describe the principal mantram of the
+deity.
+
+## Page 95
+
+GARUDA PURANAM. 73
+
+Om, Shrim, Hrim, salutation unto Shridhara Vishnu.
+
+This is the mantram of the Lord Vishnu, the king of the
+celestials. It destroys all diseases, counteracts the evil influ-
+ence of the planets, dissipates all sins and gives enjoyment
+and emancipation. A learned worshipper should then make
+the assignment of the limbs.
+
+Om, Han, salutation unto the heart. Om, Him, salutation
+unto the head, Swaha. Om, Hum, salutation unto the tuft of
+hair, Vashat. Om, Haim, salutation unto the coat of mail,
+Hum. Om, Houm, salutation unto the three eyes, Voushat.
+On, has, salutation unto the weapon, phat.
+
+I have thus described unto thee ,the mantram of the
+powerful Vishnu. Having performed Nyasa (assignment of
+mantrams) a self-controlled worshipper should make Mudras.
+He should then meditate on the great Vishnu—Hari, white
+as the moon or a Kunda flower, holding conch-shell and
+discus, bearing the mystic mark of Srivatsa and the Koustava
+jem and adorned with the garland of forest flowers—the
+great Ishwara bedecked with a jewelled necklace and a
+crown. Having meditated ’“I am Vishnu” he should perform
+the purificatory rite. With the mantrams yam, Ksham and
+Ram he should [mentally] harden and form an egg and then
+cut it with Pranava. Then, O bull-emblemed deity, thinking
+of the form as described before he should make {the worship
+of self with sacred sweet-ecented flowers. Then invoking
+spirit unto all the deities seated there he should worship
+them with mantrams. Hear them, O Mahadeva! O
+Shankara.
+
+O ye deities! come to the seat of Vishnu. On, saluta-
+tation unto the entire family of Achyuta. Om, salutation
+unto Dhatra. Om, salutation unto Vidhatra. Om, salutation
+unto the Ganges. On, salutation unto Yamuna. On, salu-
+tation unto Sankha Nidhi. Om, salutation unto the Nidhi,
+lotus. Om, salutation unto Chanda. Om, salutation unto
+Prachanda. Om, salutation unto the presiding goddess of
+
+10 .
+
+## Page 96
+
+74 GARUDA PURANAM.
+
+the gate. ‘Om, salutation unto the Adhara Sakti. Om,
+salutation unto the tortoise. Om, salutation unto Ananta.
+Om, salutation unto Shree. Om, salutation unto Dharma.
+Om, salutation unto knowledge. Om, salutation unto the
+spirit of disassociation from the world. Om, salutation unto
+religion. Om, salutation unto worldliness. Om salutation
+unto poverty. Om, salutation unto Sattwa. Om, salutation
+unto Rajas. Om, salutation unto Tamas. Om, salutation
+unto Skanda. Om, salutation unto Neela. Om, salutation
+unto the lotus. Om, salutation unto the solar disc. Om,
+salutation unto the lunar disc. Om, salutation unto the orb
+of fire. Om, salutation unto Vinata. Om, salutation unto
+Utkarshini. Om, salutation unto knowledge. Om, salutation
+unto action. Om, salutation unto disease. Om, salutation
+unto Prarha. Om, salutation unto Satya. Om, salutation
+unto Ishana. Om, salutation unto Anugraha.
+
+With these mantrams and scented flowers these deities
+should be adored. Thereupon having worshipped Vishnu,
+the author of creation and destruction and invoked his
+spirit in the mystic diagram, O Rudra, the worshipper should
+worship the great Ishwara. O Rudra, this religions rite of
+Vishnu destroys all sins. He should first of all make
+assignment of mantrams in self and the deity. He should then
+show Mudra and afterwards offer Arghya. Then he should
+bathe the deity and next offer raiments and water for rinsing
+the mouth. Next he should present scented flowers, incense,
+lights and charu. Then circumambulating the idol and recit-
+ing the name he should dedicate it to him. A worshipper
+should also adore his limbs with other mantrams. Know this
+to be the principal mantram of the deity. Hear, O three-eyed
+deity, I will now describe the other mantrams.
+
+Om, Ham, salutation unto the heart. Om, Him, salutation
+unto the head. Om, Hum, salutation unto the tuft of hair.
+Om, Haim, salutation unto the coat of mail. Om, Houm,
+salutation unto the three eyes. Om, Has, salutation unto the
+
+## Page 97
+
+GARUDA PURANAM. 75
+
+weapon. On, salutation unto Shree. Om, salutation unto
+the conch-shell. Om, salutation unto the lotus. Om, saluta-
+tion unto the discus. Om, salutation unto the club. Om,
+salutation unto the mystic mark Srivatsa. Om, salutation
+unto the jewel Koustava. Om, salutation unto the garland
+of forest flowers. Om, salutation unto the yellow raiment.
+Om, salutation unto the sword. Om, salutation unto the
+mace. Om, salutation unto the noose. Om salutation unto
+the hook. Om, salutation unto the Shringa bow. Om,
+salutation unto the arrow. Om, salutation unto Brahma.
+Om, salutation unto Narada. Om, salutation unto all the
+Siddhas. Om salutation unto Bhagavan. Om, salutation
+unto the preceptor. Om, salutation unto the great pre-
+ceptor. Om, salutation unto Indra, the king of the celes-
+tials, his carrier and entire family. Om, salutation unto
+Agni, the king of fire, his carrier and the entire family.
+Om, salutation unto Yama, the king of the dead, his
+carrier and the entire family. Om, salutation unto Nirhiti,
+the king of Rakshas, his carrier and the entire family.
+Onm, salutation unto Varuna, ‘the king of waters, his carrier
+and the entire family. Om, salutation unto Vayu, the
+king of vital airs, his carrier and the entire family. Om,
+salutation unto Ishana, the king of learning, his carrier and
+the entire family. Om, salutation unto Ananta, the king of
+serpents, his carrier and the entire family. Om, salutation
+unto Brahma, the lord of creation, his carrier and the entire
+family. Om, unto thunder-bolt, Hum, phat, salutation. Om,
+unto Sakti, hum, phat, salutation. Om, unto rod, hum, phat,
+salutation. Om unto the sword, hum, phat, salutation. Om,
+unto the noose, hum, phat, salutation. Om unto the stan-
+dard, bum, phat, salutation. Om, unto the club, hym, phat,
+salutation. Om unto the trident, hum, phat, salutation. Om,
+unto the discus, hum, phat, salutation. Om, Voum, salutation
+unto Vishwaksena.
+
+With these mantrams, O Mahadeva, his attendants and
+
+## Page 98
+
+76 GARUDA PURANAM.
+
+parapharnalia should be adored by men. Having adored the-
+great Vishnu, identical with Brahman he should chant the
+glories of the gteat undecaying Atman, with the following
+hymn.
+
+Salutation unto the powerful lord Vishnu, the god of
+gods. Salutation unto Vishnu, unto Vasudeva, the author of
+creation. “Salutation unto Grasishnu who lies at the time of
+universal dissolution. Salutation unto the lord of celestials
+and sacrifice. Salutation unto Vishnu, the lord of Munis and
+Yakshas. Salutation unto the great Jishnu, the lord of all
+gods and préseft every where. Salutation again and again)
+unto the lord of ali adored of Brahma, Rudra and Indra. °
+Salutation unto the lord of the world who encompasses the
+well-being of all {creatures, who protects all, who creates all, .
+who déstroys the wicked, who gives boons, who is of a
+quiescent soul, who’ is worthy of adoration, who is worthy of
+taking refuge with, who is manifest in his own form anid who»
+gives religious profit, worldly profit and desire.
+
+Having thus chanted his glories the worshipper should
+‘meflitate on the undecaying Brahman in his heart and should,
+thus adore Vishnu, O Shankara, with the principal mantram.
+The man, who recites this principal mantram, goes to Hari.
+O Rudra, I have thus déscribed unto thee, the most excellent
+theme of Vishnu, mysterious, highly secret and yeilding:
+eimancipatioh and enjoyment. The learned person, devoted
+to Vishnu, who reads this, listens to it or Ee) others listen
+to it, goes to the region of Vishnu.
+
+## Page 99
+
+CHAPTER XXXIL
+
+—
+
+MAHESHWARA said :—0O holder of conch-shell, discus and
+club, do "thou describe the adoration of five Tattwas* by
+knowing which discriminately a man attains to the most |
+exalted station.
+
+Hari said:—O Shankara! O thou of good vows !I will,
+describe the adoration of five Tattwas, which yeilds auspici-
+ousness and is itself auspicious, heavenly, secret, great and
+yeilds all desired-for objects. Do thou listen to this. most
+sacred subject, O Mahadeva, which destroys Kali.
+
+Vasudeva is one, undecaying, peaceful, the great soul,
+eternal, unstained. O god, by his Maya (illusive power)
+Hari exists in five forms, viz. as Vishnu who favours the |
+creation and destroys the wicked, as Vasudeva, Sangkarshana, | .
+Pradyumna and Aniruddha. In his own form Narayana.
+exists as five. O bull-emblemed deity, listen to the mantrams ,
+expressive of these five forms.
+
+. Om, am, salutation unto Vasudeva. Om, 4m, salutation
+unto Sankarshana. Om, am, salutation unto Pradyumna.
+Om, salutation unto Aniruddha. Om, salutation unto
+Narayana.
+
+I have thus related the five mantrams expressive of the |
+five deities. They are destructive of all sins and diseases
+and are holy. I will now describe the most auspicious ,
+adoration of the five Tattwas—the religious prescription
+and the mantras involved therein, O Shankara. .
+
+A worshipper should first of all bathe and then perform,
+the Sandhya rite. Then entering the temple of worship he :
+should wash his head, rinse his mouth and then sit in a.daddha
+posture. Then with the mantram “Am, -Kshroum, Ram”
+
+* Five Tantrik ingcedients worship,
+
+## Page 100
+
+78 GARUDA PURANAM.
+
+the purificatory rite of all the articles should be performed.
+Then hardening the ordinary article he should make an egg.
+And then dividing it he should meditate on the great Ishwara
+in it—Vasudeva, the lord of the universe clad in a silk
+raiment, effulgent like a’thousand suns and wearing shining
+Kundalas. Then in the lotus of the heart he should meditate
+on the great Ishwara. Then he should meditate on the
+lordly “deity Sangkarshana, his own self, Pradyumna,
+Aniruddha, Narayana and all the celestials headed by Indra,
+all originating from the god of gods. Then he should make
+assignment of two hands. Then with the mantrams for
+limbs he should perform the Anganydsa called Vyapaka, O
+Mahadeva. Listen to these mantrams, O thou of firm
+vows. Om, 4m, salutation unto the heart. Om, Im,
+salutation unto the head. Om, um, salutation "unto the tuft
+of hair. Om, Em, salutation unto the coat of mail. Om,
+Oum, salutation unto the three eyes. Om, as, salutation unto”
+the weapon, phat.
+
+On, salutation unto the entire family of Achyuta. Om,
+salutation unto Dhatri. Om salutation unto Vidhatri. Om,
+salutation unto the Adhara Sakti. Om, salutation unto the
+tortoise. Om, salutation unto Ananta. Om, salutation unto
+the earth. Om, salutation unto knowledge. Om, salutation
+unto the spirit of disassociation from the world. Om, salu-
+tation unto prosperity. Om, salutation santo irreligion. Om,
+salutation unto ignorance. Om, salutation unto poverty.
+On, salutation unto the solar disc. Om, salutation unto the
+lunar disc. Om, salutation unto the orb of fire. Om, salu-
+tation unto Vasudeva, the great Brahman, Shiva in the
+form of fire, extending allover, the presiding lord of all the
+celestials. Om, salutation unto Panchajanya. Om, salutation
+unto Sudarshana. Om, salutation unto the club. Om, salu-
+tation unto the lotus. Om, salutation unto Shree. Om,
+salutation unto Kriya (action). Om, salutation unto Pushti
+(nourishment). Om, salutation unto Sakti (energy). Om,

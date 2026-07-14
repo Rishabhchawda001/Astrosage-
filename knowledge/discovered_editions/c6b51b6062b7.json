@@ -1,0 +1,199 @@
+{
+  "title": "sby-a-research-study",
+  "discovered_at": "2026-07-13T17:00:30.094542+00:00",
+  "edition_count": 10,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp84-00581r000300800013-3",
+      "title": "CIA Reading Room cia-rdp84-00581r000300800013-3: RUSSIA AND BACK FR: ANTIBIOTIKI TO: APTECHNOYE DELO",
+      "creator": "CIA Reading Room",
+      "year": 1972,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp91-00929r000100220024-1",
+      "title": "CIA Reading Room cia-rdp91-00929r000100220024-1: FR:ANDREEVA A.B. TO:ANDREYEVA O.I.",
+      "creator": "CIA Reading Room",
+      "year": 1983,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp91-00929r000200690031-1",
+      "title": "CIA Reading Room cia-rdp91-00929r000200690031-1: FR:WEYEL A. TO:WIBORG E.",
+      "creator": "CIA Reading Room",
+      "year": 1983,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3164324796",
+      "title": "Age at onset of mental disorders worldwide: large-scale meta-analysis of\u00a0192 epidemiological studies",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41380-021-01161-7.pdf",
+      "authors": [
+        "Marco Solmi",
+        "Joaquim Radu\u00e0",
+        "Miriam Olivola"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2801676281",
+      "title": "PEMANFAATAN MEDIA SOSIAL DALAM PROSES PEMBENTUKAN OPINI PUBLIK (ANALISA WACANA TWITTER SBY)",
+      "year": 2017,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Fauzi Syarief"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp84-00581r000300800013-3",
+      "title": "CIA Reading Room cia-rdp84-00581r000300800013-3: RUSSIA AND BACK FR: ANTIBIOTIKI TO: APTECHNOYE DELO",
+      "creator": "CIA Reading Room",
+      "year": 1972,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp91-00929r000100220024-1",
+      "title": "CIA Reading Room cia-rdp91-00929r000100220024-1: FR:ANDREEVA A.B. TO:ANDREYEVA O.I.",
+      "creator": "CIA Reading Room",
+      "year": 1983,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp91-00772r000201000049-2",
+      "title": "CIA Reading Room cia-rdp91-00772r000201000049-2: A FR: KHALATNIKOV, I. M. TO: KHALETSKY, A. M.",
+      "creator": "CIA Reading Room",
+      "year": 1983,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3164324796",
+      "title": "Age at onset of mental disorders worldwide: large-scale meta-analysis of\u00a0192 epidemiological studies",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/s41380-021-01161-7.pdf",
+      "authors": [
+        "Marco Solmi",
+        "Joaquim Radu\u00e0",
+        "Miriam Olivola"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2801676281",
+      "title": "PEMANFAATAN MEDIA SOSIAL DALAM PROSES PEMBENTUKAN OPINI PUBLIK (ANALISA WACANA TWITTER SBY)",
+      "year": 2017,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Fauzi Syarief"
+      ]
+    }
+  ]
+}

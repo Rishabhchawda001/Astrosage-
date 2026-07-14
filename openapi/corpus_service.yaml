@@ -1,0 +1,18 @@
+openapi: "3.1.0"
+info:
+  title: AstroSage Corpus Service
+  version: "1.0.0"
+  description: Corpus management and statistics API
+paths:
+  /statistics:
+    get:
+      summary: Get corpus statistics
+      responses:
+        "200":
+          description: Corpus stats
+  /health:
+    get:
+      summary: System health check
+      responses:
+        "200":
+          description: Health status

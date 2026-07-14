@@ -1,0 +1,29 @@
+{
+  "title": "Siddha Rare Sadhanas (2)",
+  "discovered_at": "2026-07-13T15:14:12.618675+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2800275298",
+      "title": "Premodern Yoga Traditions and Ayurveda",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "https://journals.library.ualberta.ca/hssa/index.php/hssa/article/download/25/89",
+      "authors": [
+        "Jason Birch"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2297793823",
+      "title": "Health, well-being, and the ascetic ideal: Modern yoga in the Jain Terapanth",
+      "year": 2010,
+      "is_oa": true,
+      "oa_url": "http://hdl.handle.net/1911/62048",
+      "authors": [
+        "Andrea R. Jain"
+      ]
+    }
+  ]
+}

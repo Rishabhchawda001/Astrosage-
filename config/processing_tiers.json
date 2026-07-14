@@ -1,0 +1,45 @@
+{
+  "version": "1.0.0",
+  "description": "Language-based processing tier configuration for AstroSage Knowledge Engine",
+  "tiers": {
+    "tier1": {
+      "name": "Full Processing",
+      "description": "Complete pipeline: OCR, parsing, metadata, Knowledge Lake",
+      "languages": ["english", "hindi", "sanskrit"],
+      "scripts": ["latin", "devanagari"],
+      "processing": {
+        "ocr": true, "parsing": true, "metadata_extraction": true,
+        "knowledge_lake": true, "bronze": true, "silver": true
+      }
+    },
+    "tier2": {
+      "name": "Deferred Processing",
+      "description": "Register, preserve provenance. Skip expensive OCR/parsing.",
+      "languages": ["telugu", "kannada", "tamil", "malayalam", "gujarati", "bengali", "punjabi", "odia", "marathi"],
+      "scripts": ["telugu", "kannada", "tamil", "malayalam", "gujarati", "bengali", "gurmukhi", "odia"],
+      "processing": {
+        "ocr": false, "parsing": false, "metadata_extraction": true,
+        "knowledge_lake": false, "register_only": true
+      }
+    },
+    "tier3": {
+      "name": "Media (Deferred)",
+      "description": "Register and preserve metadata. Media pipelines in future phases.",
+      "extensions": [".mp3", ".mp4", ".avi", ".mov", ".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".zip", ".rar"],
+      "processing": {
+        "ocr": false, "parsing": false, "metadata_extraction": true,
+        "knowledge_lake": false, "register_only": true
+      }
+    }
+  },
+  "routing": {
+    "order": ["tier1", "tier2", "tier3"],
+    "detect_language_before_expensive_processing": true,
+    "fallback_tier": "tier2",
+    "unknown_language_tier": "tier2"
+  },
+  "promotion_policy": {
+    "description": "To promote a language from Tier 2 to Tier 1, update the languages array in this config. No source code changes needed.",
+    "steps": ["Add language to tier1.languages", "Remove from tier2.languages", "Update version", "Re-run incremental processing"]
+  }
+}

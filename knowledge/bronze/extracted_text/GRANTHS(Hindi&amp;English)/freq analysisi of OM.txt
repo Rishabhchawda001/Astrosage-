@@ -1,0 +1,478 @@
+IJCSNS International Journal of Computer Science and Network Security, VOL.8 No.8, August 2008 
+ 
+ 
+ 
+ 
+170 
+Manuscript received August 5, 2008.  
+Manuscript revised August 20, 2008. 
+Time-Frequency Analysis of Chanting Sanskrit Divine Sound “OM” 
+Mantra 
+Ajay Anil Gurjar and Siddharth A. Ladhake 
+  
+Sipna’s College of Engineering & Technology, Amravati University, Maharashtra, India 
+ 
+Summary 
+Our attentiveness and our concentration are pilfered from us by 
+the proceedings take place around us in the world in recent times. 
+Different challenges and impediments are faced by the people 
+work in the software industries. It is tough to handle the stress 
+some times. Therefore, to come out of the aforementioned 
+troubles, Meditation is essential for all human beings. In the 
+same way, for pschychological stress, Speech signal is uttered to 
+be a considerable indicator.  In the direction of mediating human 
+subject, ‘OM’ is a spiritual mantra, outstanding to fetch peace 
+and calm. The entire psychological pressure and worldly 
+thoughts are taken away by the chanting of OM mantra.  
+Elimination of disruption and introduction of new dynamism in 
+the body are given by the OM chanting. The consciousness could 
+be promoted through the repetition of OM mantra. Furthermore 
+this mantra transcends the restrictions of a mentality. To 
+systematically understand the meditative chant, termed the divine 
+sound ‘OM’, is the endeavor of this research work. With wavelet 
+transforms, time-frequency analysis has been carried out for the 
+divine sound OM. By this analysis we could conclude steadiness 
+in the mind is achieved by chanting OM, hence proves the mind 
+is calm and peace to the human subject. 
+Keywords:  
+Devine Sound, OM, Meditation, Speech signal, Time-Frequency 
+Analysis, DWT, Haar, Daubechies 
+1. Introduction 
+Current advancement in technology and rising workload is 
+often accompanied by stress.   As a result of a few physical 
+factors in certain occupational actions, the psychosomatic 
+complication termed psychological stress occurs. To 
+incorporate spiritual welfare in step with our substance 
+welfare, meditation provides as a way. Highly sensitive 
+expressive experienced people are more probable to be 
+satisfied and efficient in their life in recent days. It turns 
+out that simultaneously they cannot give concentration and 
+think 
+discursively. 
+Whether 
+in 
+the 
+medical 
+or 
+technological or social spheres, to develop our excellence 
+of life, human venture has sought all down the ages. 
+Promoting the quality of our mind together with our 
+material standard of living is essential to improve our 
+quality of life. 
+To deal with the increasing stress of modern standard of 
+living, Humanity is progressively turning in the direction 
+of different meditative practices. People have been 
+heading for their gawk inwards in propose to attain peace 
+of mind, since they are not capable to locate steadiness in 
+the external world. Modern psychotherapists have begun 
+to discover various therapeutic benefits of meditation 
+practices.  Meditation induces the state of relaxation and 
+the altered state of consciousness. They are particularly 
+efficient in psychotherapy. However, for inculcating a 
+more positive attitude in the direction of life at large, 
+meditation is being utilized as a personal growth device 
+over everything else recently.  
+For psychological stress, Speech signal is uttered to be a 
+considerable indicator. The speech signal expresses the 
+information enclosed in the vocal word. As with several 
+real-world signals, Speech signals are non-stationary. 
+Hence the frequency contents changes diagonally the time; 
+Fourier analysis is unconvincing [1]. Speech signal 
+processing refers to the acquisition, manipulation, storage, 
+transfer and output of human utterances by a computer. 
+The main goals are the recognition, synthesis and 
+compression of human speech [2]. Speech signals are 
+including 
+the 
+features 
+such 
+as 
+temper, 
+physical 
+characteristics and added pragmatic information. Most of 
+these characteristics are audible as well. Concerning 25% 
+of information enclosed in a clean speech signal refers the 
+speaker. Through abstract psychological procedures 
+speech production initiates the aspiration to communicate 
+and the thought that is to be communicated.  
+There are quantities of human verbal communications that 
+are effectively non-linguistic, even if speech is an oral 
+action which is greatly verbal. Tone of voice excellence, 
+prosody, rhythm and pausing are the non-verbal 
+characteristics. For a non-verbal signaling system, these 
+phenomena stand which interweave with the verbal or 
+linguistic system. In the midst of supplementary things, 
+information about the physiological and psychological 
+condition of the speaker is carried by the non-verbal 
+content of the voice. Since, undoubtedly perceptible (non-
+verbal) action typifies human beings; they are capable of 
+identifying dissimilar states [3]. Our mind is entirely 
+permitted to focus and give attention extra on sound by the 
+repetition of Mantra i.e. chanting. The additional features 
+that distract our energies for instance other thoughts, 
+sensations and interruptions are too cleaned away by the 
+repetition of mantra. As the mind clears away the mess of 
+
+
+IJCSNS International Journal of Computer Science and Network Security, VOL.8 No.8, August 2008 
+ 
+171
+unnecessary internal discourse, our senses become more 
+heightened and mind becomes sharper and perspective [4]. 
+The theory in using mantras or chanting is that the body 
+and mind begin to resonate with the frequency of the voice, 
+helping to organize thoughts and consciousness. Reciting a 
+mantra continuously "purifies the speech and 'protests the 
+mind' by maintaining a constant spiritual connection; and 
+of course it helps disperse mental chatter"[5]. If there is no 
+religious preference then the sound vibration 'OM' is a 
+universally recognized mantra .The sound of OM is also 
+called Pranava, meaning that it sustains life and runs 
+through Prana or breathes [6]. The OM is composed of 
+three letters, A, U, and M. These symbolize the 
+practitioner's impure body, speech, and mind Chanting 
+OM (AUM) will bring us to a state of purity in body mind 
+and soul [7]. The chanting of ‘OM’ mantra drives away all 
+worldly thoughts and removes distraction and infuses new 
+vigor in the body [6].  
+Modern science has to reaffirm that OM mantra chanting 
+allows our mind to focus and clear away unnecessary 
+thoughts, sensations and distractions which divert our 
+energies. In this paper, by utilizing signal processing 
+techniques OM mantra chant signal is analyzed to endorse 
+its effects on consciousness and steadiness of mind. The 
+Time-Frequency analysis is performed on the OM chant 
+signal using wavelet transforms. Our analysis results 
+confirm that the chanting of OM mantra will improve our 
+consciousness and give steadiness to mind by clearing all 
+worldly thoughts. 
+The paper is organized as follows. Section 2 introduces the 
+concepts and techniques utilized in the proposed work. 
+The steadiness analysis of OM chant signal is discussed 
+detailed in Section 3.The analysis results are given in 
+Section 4. Section 5 concludes the paper. 
+2. Concepts and Techniques Utilized in the 
+Proposed Work 
+This section gives a brief introduction of the concepts and 
+techniques utilized in the proposed work. 
+2.1 Mantra 
+Mantra is intrinsically related to sound and sound is 
+reverberating in everything in this universe [8]. A Mantra 
+is a sound repeated over and over until it integrates into 
+our consciousness - frees the mind from its constant doing, 
+and elevates us to an altered state of awareness.  In this 
+state, we can connect with our soul at its most profound 
+level, achieving a state of universal consciousness [4]. 
+Mantras have some features in common with spells, in that 
+they are a translation of the human will or desire into a 
+form of action. As symbols, sounds are seen to effect what 
+they symbolize [9]. Mantra has been called the sound-body 
+of God: It is God in the form of sound [8]. Mantra helps to 
+quieten the mind. It works because it actively chases away 
+our errant thoughts. Mantra helps to clear our mind and 
+purify our inner being. This purification is essential to 
+good meditation [12]. 
+2.2 OM Mantra  
+The basic mantra is OM or ‘Aum’, which in Hinduism is 
+known as the ‘pranava mantra,’ the source of all mantras 
+[10]. If there is no religious preference then the sound 
+vibration 'OM' is a universally recognized mantra. It is the 
+representation of the Supreme Being. The past, present and 
+the future are all included in this one sound. Meditation on 
+this sacred syllable is said to satisfy every need and leads 
+to liberation [11]. The power of chanting the OM mantra is 
+as follows: 
+• 
+The chanting of OM drives away all worldly 
+thoughts and removes distraction and infuses new 
+vigor in the body.  
+• 
+When we feel depressed, chanting OM fill us 
+with new vigor and strength. The chanting of OM 
+is a powerful tonic. When we chant OM, we feel 
+we are the pure, all pervading light and 
+consciousness.  
+• 
+Those who chant OM will have a powerful, sweet 
+voice. Whenever we take a stroll, we can chant 
+OM. The rhythmic pronunciation of OM makes 
+the mind serene and pointed, and infuses the 
+spiritual 
+qualifications 
+which 
+ensure 
+self-
+realization.  
+• 
+Those who do meditation of OM daily will get 
+tremendous power. They will have lustre in their 
+eyes and faces. 
+2.3 Time –Frequency Analysis 
+Time-frequency analysis is a body of techniques for 
+characterizing and manipulating signals whose component 
+frequencies vary in time, such as transient signals [13]. 
+Time-frequency analysis finds its roots in Fourier analysis, 
+where a signal in time can be analyzed in the frequency 
+domain as a sum of sines and cosines. For a non-stationary 
+signal such as speech, the standard Fourier Transform is 
+not useful for analyzing the signal. Information which is 
+localized in time such as spikes and high frequency bursts 
+cannot be easily detected from the Fourier Transform [14]. 
+We have used wavelet transforms for time-frequency 
+analysis in our approach. 
+ 
+
+
+IJCSNS International Journal of Computer Science and Network Security, VOL.8 No.8, August 2008 
+ 
+172 
+2.4 Discrete Wavelet Transform 
+The wavelet is a smooth and quickly vanishing oscillating 
+function with good localization both in frequency and time. 
+The Wavelet Transform (WT) is a technique for analyzing 
+signals. It was developed as an alternative to the short time 
+Fourier Transform (STFT) to overcome problems related 
+to its frequency and time resolution properties. A discrete 
+wavelet transform (DWT) is any wavelet transform for 
+which the wavelets are discretely sampled. DWT provides 
+high time resolution and low frequency resolution for high 
+frequencies and high frequency resolution and low time 
+resolution for low frequencies. In that respect it is similar 
+to the human ear which exhibits similar time-frequency 
+resolution characteristics. 
+3. Steadiness Analysis Of OM Mantra 
+Chanting 
+This section details our analysis on the OM mantra 
+chanting signal. Before some decades, Yogis and 
+meditating professional affirmed that chanting mantra 
+improves our concentration, gives peace and steadiness to 
+our mind, reduces the mental stress and clears all worldly 
+thoughts. Although, it’s required to verify importance of 
+mantra chanting systematically, no schemes have 
+demonstrated yet. In this proposed method, we have 
+confirmed the significance of OM chanting. Time-
+frequency analysis is performed on the OM mantra chant 
+signal to analyze the steadiness. Unlike Fourier, wavelets 
+can be used to analyze nonstationary, time-varying, or 
+transient signals [15] [16]. This is an important aspect, 
+since speech signals are considered to be non-stationary. 
+We have utilized Discrete Wavelet Transforms (DWT) 
+instead of Fourier transform for the Time-frequency 
+analysis. We have exploited Haar and Daubechies 
+wavelets for our analysis.  
+3.1 Haar Wavelet 
+Haar wavelet is one of the oldest and simplest wavelet. 
+Therefore, any discussion of wavelets starts with the Haar 
+wavelet. The Haar wavelet's mother wavelet function ψ(t) 
+can be described as [15] 
+ 
+and its scaling function φ(t) can be described as 
+ 
+The Haar wavelet uses a rectangular window to sample the 
+time series. The first pass over the time series uses a 
+window width of two. The window width is doubled at 
+each step until the window encompasses the entire time 
+series. Each pass over the time series generates a new time 
+series and a set of coefficients. The new time series is the 
+average of the previous time series over the sampling 
+window [21]. 
+3.2 Daubechies Wavelet 
+Daubechies wavelets are the most popular wavelets. They 
+represent the foundations of wavelet signal processing and 
+are used in numerous applications. Daubechies wavelets 
+are a family of orthogonal wavelets defining a discrete 
+wavelet transform and characterized by a maximal number 
+of vanishing moments for some given support. The 
+polynomial formed by the first N terms of the binomial 
+expansion 
+ 
+That is, the polynomial 
+ 
+Where (a)k = T(a+k)/T(a),plays an important role in the 
+construction of the compactly supported Daubechies 
+wavelets. There is a close connection between the zeros of 
+Pn(n) and the 2N filter coefficients h(n) of the Daubechies 
+wavelet D2n.   
+4. Analysis Results 
+This section details the results of our analysis. The 
+analysis results prove that the steadiness of mind is 
+attained by chanting OM. To avoid disturbances due to 
+ambient noise or other sources of sound, a professional 
+recording was preferred. Therefore, a professional 
+recording of the Divine Sound chanting OM was obtained 
+and used for further scientific investigations. Hence the 
+professionals may possibly not be affected by the stress, 
+the need to analyze their speech signal is unnecessary. 
+Though the professionals constantly practice OM chanting, 
+the steadiness remains in their mind everlastingly. On the 
+other hand, the normal people will not be having 
+steadiness initially in their mind. Although they undergo 
+“Om” chanting process, they have to perform it in an 
+appropriate manner. Subsequent to the proper practicing, 
+the mind of the stressed people reaches steadiness in a few 
+days or weeks. On account of this, it’s very imperative to 
+
+
+IJCSNS International Journal of Computer Science and Network Security, VOL.8 No.8, August 2008 
+ 
+173
+analyze the speech signal of a previously strained person. 
+The constant analysis of a person’s speech signal would 
+give us an enhanced outcome. 
+During the OM chanting practice, our mind focuses on the 
+repetition of OM chanting. Moreover, this practice helps 
+us to reach steadiness. The frequency of the chant signal 
+achieves steadiness following a continuous chanting. This 
+specifies the attainment of the steadiness in the mind of an 
+OM chanting person. This provides calm and peace to the 
+stressed mind. The mental stress of a person gets reduced 
+while 
+the 
+mind 
+reaches 
+steadiness. 
+In 
+addition, 
+concentration also improves.  
+Figure 1 represents the initial chanting of OM by a normal person.  
+ 
+Fig. 1 Initial Chanting of single OM  
+Figure 2 depicts the chanting of OM by normal person after some days of chanting. 
+ 
+           
+ 
+Fig. 2 Chanting of OM after some days     
+Figure 3 and 4 portrays the analysis using the Haar and Daubechies wavelet transform respectively 
+ 
+Fig.3 Haar Transform of OM chant signal 
+
+
+IJCSNS International Journal of Computer Science and Network Security, VOL.8 No.8, August 2008 
+ 
+174 
+ 
+Fig. 4 Daubechies (D6) Transform of OM chant signal 
+5. Conclusion 
+Our attentiveness and our concentration are pilfered by the 
+events around us. Different challenges and impediments 
+have been faced by the humans due to their occupational 
+activities. Meditation is essential for the human beings to 
+come out of the above troubles. OM is a spiritual mantra, 
+important to obtain peace and calm. The entire mental 
+pressure has been taken away by chanting OM mantra. 
+Consciousness has been improved by the repetition of OM 
+mantra. In this work, we have confirmed the significance 
+of OM chanting. The time-frequency analysis has been 
+carried out using wavelet transforms for the divine sound 
+OM. We have concluded that OM chanting affords 
+steadiness in the mind scientifically. This provides calm 
+and peace too to the stressed mind. The mental stress of a 
+person gets reduced while the mind reaches steadiness. As 
+a final point, we have confirmed scientifically the 
+accomplishments of OM chanting in reducing the stress 
+from the human mind. 
+ 
+References 
+[1] Aïcha Bouzid1, Noureddine Ellouze2,"EMD Analysis of 
+Speech Signal in Voiced Mode", 1Institute of Electronic and 
+Communication of Sfax, Sfax, Tunisie 2National School of 
+Engineers of Tunis, Tunis, Tunisie. 
+[2] "Speech signal processing" from http://en.Wikipedia.org 
+/wiki/Speech_signal_pro cessing. 
+[3] L.J.M. Rothkrantz, P.Wiggers, J.W.A. van Wees, R.J. van 
+Vark, "Voice stress analysis", Text, Speech and Dialogues, 
+ISBN 
+3-540-23049-1, 
+Lecture 
+Notes 
+in 
+Artificial 
+Intelligence 3206 pp. 449-456, Springer, Berlin-Heidelberg-
+New York, September 2004. 
+[4] "Mantra Meditation" from http://www.focalpointyoga.com 
+/mantra_meditation.htm 
+[5] Snelling, J. (1996), The Buddhist Handbook: A Complete 
+Guide to Buddhist Teaching and Practice, 
+[6] "The Meaning of Om" from http://www.omsakthi.org 
+/worship/mantra.html 
+[7] “The OM chant” from http://www.divinegold.com/meditation 
+/meditationchants.htm 
+[8] “Mantra Meditation” from http://www.meditationiseasy.Com/ 
+mCorner/techniques /Mantra_meditation.htm. 
+[9] "Mantra Its Meaning and Significance in Hindu Religious 
+Rituals" from HinduWebsite http://www.hinduwebsite.com/ 
+vedicsection/mantra.asp. 
+[10] 
+"Mantra" 
+from 
+http://www.haryana-online.com/culture 
+/mantra.htm. 
+[11] "Mantras' from http://www.spiritofangels.com/mantras.html 
+[12] R Pettinger, Benefits Of Mantra for Meditation 
+http://ezinearticles.com/?Benefits-Of-Mantra-For-
+Meditation&id=453255 
+[13] “Time-frequency analysis” from http://en.wikipedia.org 
+/wiki/Time-frequency_anal ysis. 
+[14] 
+"Time-Frequency 
+Analysis" 
+from 
+http://www.engmath 
+.dal.ca/courses/engm6610 
+/notes/node3.html. 
+[15] G. Strang and T. Nguyen, “Wavelets and Filter Banks”, 
+Wellesley-Cambridge Press, 1996. 
+[16] J. S. Walker, “Wavelets and their Scientific Applications”, 
+Chapman and Hall/CRC, 1999. 
+ 
+ 
+ Ajay Anil Gurjar   received master’s 
+degree in 2002 in Electronics Engg. from 
+Sant Gadgebaba University Amravati, 
+India. He has 13 years of teaching 
+experience He is working as Assistant 
+Professor in Department of Electronics 
+& 
+Telecommunication 
+at 
+Sipna’s 
+College of Engineering & Technology, 
+Amravati (India). His main research 
+interests 
+include 
+Speech 
+signal 
+processing, Image processing, Wavelet 
+transform and doing PhD in speech processing. He is a member 
+of IETE & ISTE. He has published 5 papers in National & 
+International Journal & Conferences on speech signal. He has 
+awarded junior research fellowship from CSIR in 1995. 
+ 
+
+
+IJCSNS International Journal of Computer Science and Network Security, VOL.8 No.8, August 2008 
+ 
+175
+Siddharth A. Ladhake received master’s 
+degree in 1990 & PhD in 2004 in 
+Electronics Engg from Sant Gadgebaba 
+University Amravati, India. He has 25 
+years of teaching experience. He is 
+working as Principal at Sipna’s College of 
+Engineering & Technology, Amravati 
+(India). Previously he was holding a post 
+of Professor from 1999 to 2005 at College 
+of Engineering Badnera. His main research interests include 
+Signal 
+processing, 
+Image 
+processing, 
+Code 
+conversion, 
+Multivalued logic etc. He is a fellow member of IETE & member 
+of ISTE ,IE & IEEE. He has published 21 papers in National & 
+International Journal & Conferences. 10 students are doing PhD 
+under his guidance. 
+ 
+ 
+ 

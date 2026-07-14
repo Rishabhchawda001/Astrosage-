@@ -1,0 +1,900 @@
+# Solar_Eclipse_Om
+
+Indian Journal of Traditional Knowledge
+Vol. 13(4), October 2014, pp. 716-724
+
+
+
+
+
+
+Vedic mythology of solar eclipse and its scientific validation
+S Santhosh Kumar1* & R Rengaiyan2
+1Department of Physics, Avvaiyar Government College for Women, Karaikal–609 602, UT of Puducherry, India;
+2Department of Physics, Aringar Anna Government Arts College, Karaikal – 609 605, UT of Puducherry, India
+*E-mail: santhosh.physics@gmail.com
+Received 21.10.13, revised 21.04.14
+Rig Veda, the oldest one among the four Vedas, pronounces the phenomenon of the Solar eclipse in a mythical language.
+During the eclipse, the eclipse induced gravity waves causes a reduction in Ozone layer concentration in the stratosphere
+which allows more cosmic radiations of different wavelengths, to the surface of the earth. The research carried out about the
+radiations received during the past eclipses and its influence on seawater reveal the scientific knowledge behind Rishi Atri’s
+dispelling of darkness by the four Rigs, given in Pancavimsa Brahmana. Hence, for the first time, the eclipse event is
+differentiated into a four stage process, as per our recent findings on the change in Oceanic pH. The influence of solar
+eclipse on living organisms, especially, the erratic behaviour of animals, birds and marine organisms to eclipse is addressed.
+This new scientific finding supports strongly the Vedic predictions of eclipse and the traditional practices of Indians
+especially Hindus, which differ from region to region.
+Keywords: Solar eclipse, Cosmic radiation, Seawater, Rig veda, Traditional practice
+IPC Int. Cl.8: G01, G05, G21, G01T, G21H 7/00, F26F 3/28, C02F, B63J 1/00
+Recent scientific explorations in Astronomy are
+wrapped up with the predictions of Rishis in the
+Indian Vedic period. India is rich in its tradition and
+culture and is known for its traditional values. India’s
+rich Vedic scripts pronounce the process of eclipse in
+the language of metaphor. Among the four Vedas
+namely Rig, Yajur, Sama and Atharva, in the oldest
+Vedic text, Rig Veda, Rishi Atri dispelled the darkness
+caused by eclipse, by chanting four mantras. Since the
+ancient Vedas are written in the language of metaphor
+the process of eclipse is connected with Lords,
+demons, etc. In the scientific view, the eclipse is a
+celestial process happening often and which helps the
+scientists to gather information regarding the
+astronomic and climatic changes, and even the
+influence of cosmic radiation on earth’s surface.
+Investigating the solar radiation changes during the
+process of eclipse will explore even the present
+understanding of eco-balance since the world is
+composed of matter and light.
+The
+animals/birds
+can
+identify
+the
+natural
+calamities/events even before its occurrence, it is
+believed so. The reasons are said to be different for
+different events, for example, humidity change before
+rain is felt by animals /birds. Similarly the death rate
+is low for animals /birds compared to humans during
+Tsunami or earthquake, which indicates the capacity
+to identify/feel the forthcoming event, i.e. they are
+getting disturbed due to the atmospheric or earth’s
+magnetic field change. In the event of eclipse also the
+erratic behaviour of such organisms are reported
+many. The marine organisms are also hide themselves
+from the exposure to Sun. All studies, past and
+present, concluded that these changes are similar to
+night time chemistry. But in Rig Veda, Rishi Atri
+pointed out that this is entirely different than the night
+time behaviour. Hence, we conceived the concept of
+radiational cause to the behavioural changes of living
+organisms during eclipse. This paper tries to answer
+the questions arise regarding the cause of behavioural
+changes of living organisms and explains how our
+scientific findings coincides with the predictions of
+Vedic Astronomy.
+
+Astronomy in Indian Veda
+Ancient India's contributions in the field of
+astronomy are well known and well documented.
+The earliest references to astronomy are found in the
+Rig Veda, dated 2000 BC-5000 BC. The ancient
+——————
+*Corresponding author
+
+
+
+## SANTHOSH KUMAR & RENGAIYAN: TRADITIONAL KNOWLEDGE OF SOLAR ECLIPSE
+
+
+
+717
+Indian astronomy emerged in 500 AD and culminated
+in
+original
+findings
+like,
+the
+calculation
+of
+occurrences of eclipses, Earth’s circumference,
+theorizing about gravity, determining the Sun as a
+star, determining the number of planets in the Solar
+System, etc. The earliest concept of a heliocentric
+model of the solar system, i.e. the Sun is at the centre
+and the Earth is orbiting it, is found in several Indian
+Vedic Sanskrit texts. For example, according to
+Aitareya Brahmana (c. 9th–8th century BC),
+"The Sun never sets nor rises", which indicates that
+the Sun is stationery (hence the Earth is moving
+around it) and Yajnavalkya (c. 9th–8th century BC)
+also recognized that the Earth is round and believed
+that the Sun is "the centre of the spheres and is much
+larger than the Earth".
+Many Indian astronomers like Aryabhata and
+Bhaskara had formulated ideas about gravity and
+gravitation in the early middle ages. The cosmological
+time cycles have been explained in the Surya
+Siddhanta. The Indian astronomer-mathematician
+Aryabhata (476–550), in his work Aryabhatiya,
+propounded a mathematical heliocentric model in
+which the Earth was taken to be spinning on its axis
+and the periods of the planets were given with respect
+to a stationary Sun. After that, Bhaskara (1114-1185)
+explained more about it and mentioning in his treatise
+Siddhanta-Shiromani, about the law of gravity, and
+different planets orbit the sun with different
+velocities. The ancient Indian astronomers had also
+recognized that stars are same as the Sun, that the Sun
+is center of the universe (solar system) and that the
+circumference of the Earth is 5,000 Yojanas. (one
+Yojana = 7.2 km), which is close to the actual figure
+obtained by the modern scientific methods (40,075
+km), which is only 10% difference.
+In the original version of the Valmiki Ramayana, a
+vivid description of a total solar eclipse is given in the
+first 15 slokas of the 23rd sarga of the Aranyakandam,
+and mentioned as Rahu is the cause, but in the
+Atharvaveda, (13.2.16-18, 28) the description of Ketu
+is found and is more suited for a comet, but Rahu is
+nowhere mentioned in the Rig, Sama and Yajurveda.
+In those days, the Full Moon and the New Moon
+were referred to as Raka and Sinivali, respectively
+(Sayana Bhasya, and Rigveda 2.33.8). The cause of
+the eclipses (in Sanskrit - grahanam) is ascribed to a
+demon, called Svarbhanu, striking the Sun with
+darkness. It invoked Rishi Atri (the human son of
+Lord Brahma, as per Veda), who repelled its darkness
+by chanting four Rik mantras (Rigveda 5.40.5-6),
+which is in harmony with our findings of four stages
+of the eclipse process in context with its radiation
+effects.
+
+Eclipse in Vedic Period
+Almost all scripted wars witnessed an eclipse,
+either solar or lunar eclipse. Few of them are, (i) The
+final battle of a 5 yr war between Alyattes II
+of Lydia and Cyaxares of the Medes, ended abruptly
+due to a total solar eclipse on May 28, 585 BC
+according
+to
+Herodotus
+(1.74)1
+(ii)
+In
+the
+Peloponnesian War between the Athenians and
+Syracusans2, a lunar eclipse was witnessed on August
+28, 413 BC. (iii) In 2159 BC, the Chinese emperor
+Chun King put to death the royal astronomer brothers
+Hsi and Ho when they failed to predict the eclipse of
+October 22, 2134 BC3 (iv) The European Emperor
+Louis was so perplexed by the five minutes of totality
+he witnessed during the eclipse of May 5, 840, and he
+died shortly thereafter. The fighting for his crown
+ended three years later which divided Europe into the
+three major areas, as we know today, France,
+Germany, and Italy4.
+The date of an eclipse referred to in the Bible is
+known for certain: "`And on that day,' says the Lord
+God, `I will make the Sun go down at noon, and
+darken the Earth in broad daylight'." (Amos 8:9)
+"That day" was June 15, 763 B C and which was
+confirmed by an Assyrian historical record known as
+the Eponym Canon. On the day of Ibrahim's death, the
+sun eclipsed and the people said that the eclipse was
+due to the death of Ibrahim (the son of the Prophet).
+But Allah's Apostle said, "The sun and the moon are
+two signs amongst the signs of Allah. They do not
+eclipse because of someone's death or life. So when
+you see them, invoke Allah and pray till the eclipse is
+clear". Similarly India’s greatest Idhikasas, namely
+Valmiki Ramayana and Mahabharatha also quoted
+the description of eclipse and the tradition and
+practice in those days.
+A solar eclipse occurred on June 15, 763 B C
+allowed Thiele to fix every other name in the
+complete Assyrian lists of rulers from 891 to 648 B C
+and he was able to double check his accuracy with the
+canon of Ptolemy (70-161 A D)5. Ptolemy provided a
+large number of solar, lunar and planetary positions
+with their dates, and over 80 of these have been
+verified by modern astronomers6. Thus the calculation
+of predated eclipse events helps to trace the old
+
+
+
+## INDIAN J TRADITIONAL KNOWLEDGE, VOL 13, NO. 4, OCTOBER 2014
+
+
+
+718
+historical events and the rulers’ period. Even though
+many more eclipse events were witnessed in early
+scripts, almost all of them are from 600 B C onwards.
+The first Chinese report of eclipse is dated around
+2134BC. It is very important to note here that the
+eclipse event is witnessed and scripted in India during
+Vedic period itself.
+Rig Veda is a very old Sanskrit language text of
+religious and historical significance in India. The
+dating of Vedas has been a matter of major
+controversy but many astronomical observations in
+the Vedic texts, suggesting that some parts of Vedas
+are between 2000 BC to 5000BC. Rishi Atri was the
+first to predict solar eclipses and calculate their
+durations; the Rig Veda and the Pancavimsa
+Brahmana witness this.
+Vedas are compilation of suktas or hymns from
+many different Rishi’s over a vast span of historical
+time
+as
+evidenced
+by
+different
+astronomical
+references there in. Vedavyasa, long time ago,
+bundled various thousands of Vedic hymns, generated
+over long periods previous to his time, into different
+groups called Rig, Yajur, and Sama etc much after
+their creation. Rig Veda, as we now know,
+1017 suktas consisting of nearly 10800 ‘Rik`s’ or
+hymns. Many of Rig Veda chapters or Mandalas are
+associated with one Rishi or his family, clearly
+suggesting a period of many generations of
+contributors to the texts. Fifth Rig Veda Mandala
+called Atri Mandala is associated with Rishi Atri.
+In this chapter, the 40th sukta and 5th Rik, Rishi Atri
+
+## describes a total solar eclipse, as follows:
+
+
+
+
+Rig Veda- HYMN XL. 5.
+
+As per the translation in English by Ralph T H
+Grifith, in the first verse, as the shadow of the moon
+starts covering a large part of the sun the red tinge of
+the solar chromosphere becomes visible and Rishi Atri
+describes this as the color of red sheep7. When the full
+solar eclipse takes effect and only the corona can be
+seen, he describes this as the color of silver sheep.
+When the shadow starts receding from the sun the
+reddish effect is again seen. Finally when the eclipse
+is completely over the sun is restored to its original
+bright luster, which Rishi Atri calls the colour of
+white sheep. The fifth stanza of the hymn says that all
+the creatures were frightened and were in a terrible
+condition during the total solar eclipse. Also he said
+that the darkness at the time of full solar eclipse is
+totally different from what the normal darkness is.
+Only birds and animals get distracted by such kind of
+darkness.
+Astronomy was quite advanced in Vedic era. The
+event of solar eclipse was described as Svarbhanu, a
+demon, had trapped the Sun and the whole earth was
+dark. Rig Veda also says that Svarbhanu was not from
+the heaven but he was from the earth. It itself explains
+two concepts: (i) Svarbhanu (Moon) is associated
+with earth, i.e. it is the natural satellite of the earth
+and (ii) it does not have its own brightness and only
+reflects the light of sun (‘bhanu’ – Sun; ‘Swarbhanu’
+– lighted by Sun). Thus Rishi Atri says the truth about
+the Moon and the solar eclipse that Swarbhanu
+(Moon) comes between the sun and the earth and
+because of that the solar eclipse takes place.
+
+Science of Solar eclipse
+The solar eclipse being a rare natural phenomenon
+gives an opportunity to investigate how the ionising
+radiations react to the material surface of the earth due
+to the fast solar radiation changes. A huge quantity of
+shorter wavelength radiations are expected to reach
+the earth’s surface during solar eclipse since the
+disturbance of the heat balance along the supersonic
+travel of the trajectory of the Moon’s shadow could
+generate eclipse-induced gravity waves8-10, which
+results a reduction in the stratosphere ozone layer
+concentration8,11-13. Several measurements of solar
+radiation were carried out since 1960; recent works of
+Zerefos et al.13,14 focussed on the study of eclipse-
+induced changes in the spectral solar irradiance at the
+earth’s surface, the effect of multiple scattering on sky
+brightness, and the wavelength dependence of the
+limb darkening effect, etc. The radiations in shorter
+wavelengths (350 nm) are generally influenced more
+by the eclipse, and at large eclipse percentages
+(>85%), it slowly decreases as the eclipse approaches
+its maximum compared to that of the longer
+wavelengths14. Hence, one can expect more shorter
+wavelength radiations during partial eclipse, which is
+less studied. The environmental effects of solar
+
+
+
+## SANTHOSH KUMAR & RENGAIYAN: TRADITIONAL KNOWLEDGE OF SOLAR ECLIPSE
+
+
+
+719
+eclipse had been mainly focussed on meteorological
+parameters, photochemistry15, boundary layer physics,
+total columnar ozone, gravity waves, and ionospheric
+parameters. Zerefos et al. pointed out a characteristic
+artificial decrease of total ozone during solar eclipse13,
+which allows more radiations to pass through.
+India had a total solar eclipse on 22 July 2009, which
+was visible over the central India, while a partial
+eclipse in southern part, and an annular eclipse on 15
+January 2010, and the study conducted on seawater
+during these events is analysed giving emphasis to
+solar radiation and Vedic concepts. The influence of
+solar eclipses on cloudiness, i.e. ‘eclipse clouds’, has
+been observed just before the beginning of the total
+solar eclipse, as reported by Hanna16 and remains
+dissipated up to the maximum eclipse period.
+Kolev et al. observed a continuous decrease in wind
+speed without any significant change in direction
+during the solar eclipse of 11 August 199917. Founda
+et al. also reported a similar effect of observations
+during the solar eclipse on 29 March 200618. As per
+our observations recorded at the study location
+Karaikal, (latitude 10o 55' N and longitude 79o 52'
+E),U T of Puducherry, India, during the past annular
+eclipse, there was a shift in wind direction 20o
+towards south (from 250o to 230o SW) but no change
+in the wind speed. This shift in wind direction may be
+mainly due to the change in pressure gradient force
+during eclipse.
+
+Experiment
+Emphasis was given on the response of seawater to
+the abrupt changes of solar radiation during eclipse.
+This work also aims at delineating the different types
+of radiations reaching the earth’s surface and the
+possible effects on seawater.
+Earlier studies on the ozone concentration reveal
+that considerable reduction in ozone concentration
+during partial eclipse and total eclipse11-13, which is
+the major phenomenon for the observation of more
+radiations of shorter wavelength on the earth. Many
+observational evidences on the formation and
+propagation of eclipse-induced gravity waves at
+different atmospheric heights were reported9,10.
+Zerefos et al. pointed out that the eclipse-induced
+cooling of the ozone layer in the stratosphere is the
+main source of gravity waves propagating both
+upwards and downwards19. Measurements of total
+column of ozone using Brever Spectrophotometers
+have revealed that there was a reduction of 30-40 DU
+total ozone on the day of eclipse, 29 March 2006, than
+the day before at Athens14. Such a reduction in surface
+O3 may be due to decreased efficiency of the
+photochemical O3 formation15.
+The seawater from Bay of Bengal, the eastern coast
+of India, with pH 8.1 (which is the average oceanic
+pH) is subjected in this study to find the influence of
+solar radiation on the pH( power of Hydrogen) of
+seawater under the exposed condition since major part
+of the earth is covered by sea. pH is a measure of the
+acidity or alkalinity of a substance and is one of the
+stable measurements in seawater. Ocean water has an
+excellent buffering system with the interaction of
+carbon dioxide and water so that it is generally always
+at a pH of 7.5 to 8.5. In this context, a three stage
+experiment is conducted: (i) Sample at exposed
+condition during solar eclipse, (ii) normal days and
+(iii)
+Sample
+at
+non-exposed
+condition.
+Simultaneously, the changes in the meteorological
+parameters are also recorded for better understanding
+of other influencing parameters. Since the said
+location had a partial eclipse on July 22, 2009, we
+were able to detect the abrupt change of solar
+radiation and its effect on sea water. The change in
+pH value is recorded accurately with a calibrated
+pH meter containing a glass electrode with
+temperature compensation controls, during the eclipse
+event and a few days prior to and after the eclipse, but
+on 15 January 2010 (annular), it was recorded well
+before the beginning of the eclipse, at 30 sec.
+resolution. The DI-PH101 model (Deep) pH meter
+with resolution ±0.01pH of operating voltage
+230VAC is used in this experiment. A two-point
+calibration procedure is followed. The electrode is
+rinsed with distilled water and placed it in the pH=7.0
+buffer solution. After showing a stabilized value it is
+adjusted to read pH of 7.0. The electrode is removed
+and rinsed it again with distilled water and then
+placed in pH=4.0 buffer solution, and adjusted to read
+pH of 4.0. Then it is placed again in the pH of
+
+## 7.0 after rinsing, and noted weather the reading is
+
+
+## 7.0. Until it shows the pH of 7.0 this procedure is
+
+repeated and thus calibrated the equipment. The
+temperature control knob is set at 25oC.
+The percentage of solar disk covered by the moon’s
+umbral shadow was calculated using a high resolution
+telescope with curved grid lines. The meteorological
+factors like air temperature and the light intensity are
+recorded continuously during the eclipse period. The
+wind speed and wind direction are recorded using
+
+
+
+## INDIAN J TRADITIONAL KNOWLEDGE, VOL 13, NO. 4, OCTOBER 2014
+
+
+
+720
+anemometer and wind wane respectively, of Cyclone
+Detection Radar Station, Karaikal.
+
+Discussion
+It is obvious to mention here that the study of
+celestial events is not only the modern scientific
+interest but from the Vedic period (2000 BC), since
+exploring the truth behind the natural events is a noble
+quality of human being in all time.
+Most of the traditional practices in India had
+originated from Vedas. Due to the difficulty in
+providing proof to the mantras/hymn in Veda, it is
+pronounced as Myth. Hence, Vedic myth became
+ancient Indian tradition.
+Water appears to act as the Earth's sensory organ
+for the cosmic cycles. Dr. Theodor Schwenk has
+investigated the subtle effects of the cosmos on water,
+and has clearly showed the variations in water
+response to changes in planetary constellation and
+also found that moving water acts as a receiver, while
+still water preserves the received information20. In his
+experiments he vibrated water at regular intervals,
+before, throughout and after a solar eclipse. The
+wheat grains that used water shaken during the eclipse
+had a stunted growth, whereas the growth was normal
+to the water shaken before and after the eclipse, and
+which
+was confirmed
+afterwards
+using
+other
+techniques.
+Lawrence Edwards had also carried out fascinating
+work on how the shape of tree and flower buds
+change their shape to the planetary alignment
+change20. For example the planet Mars influences the
+oak, Venus the birch, the cherry is influenced by the
+Sun, etc. Thus water is receptive to cosmic influence
+and conveys its information to all living organisms,
+because they are all largely composed of water.
+The experiments performed during the past two
+eclipses at the said location, Karaikal in India offered
+an interesting result of significant decrease in pH of
+seawater on the day of eclipse than normal days. On
+the day of total solar eclipse, 22 July 2009, the
+observed value of pH reveals a considerable reduction
+of 20% of the difference between the normal and
+seawater, which is plotted in Fig.1. This observed
+change in pH value raised the curiosity and interest of
+continuous assessment of this study and hence the
+experiment is repeated on the day of annular eclipse,
+15 January 2010. Even an hour before the eclipse
+event the pH value seems decreased from normal day
+value and reached its maximum reduction when the
+moon’s umbral shadow on the solar disc was 45% and
+when the eclipse percentage was maximum, the
+decrease in pH value is minimum. A second minimum
+is recorded when the solar disc was released around
+40% during the end of the eclipse event. Hence, the
+effect of solar eclipse on radiation exists even well
+before the beginning of the eclipse and the drastic
+decrease of pH value observed during partial
+maximum prolonged even after the end of the eclipse.
+It is stated in Vedas that the inauspicious period of
+eclipse actually begins about four praharas before a
+solar eclipse and three praharas before a lunar
+eclipse, (prahara being the unit of time equivalent to
+one-eighth of a day). This entire period of an eclipse
+was represented as the parvakala. Indian Hindus take
+bath both before and after this parvakala as a belief
+that which will erase the unholy shadow of Rahu and
+avoid its ill-effects. During the complete process of
+eclipse a raise in pH value between the two minima
+[Fig. 2, (iii)] is observed and hence the full process is
+divided into four stages namely, normal to first
+minimum (N1M), first minimum to central maximum
+(1MCM), Central Maximum to second minimum
+(CM2M) and second minimum to normal (2MN).
+Atri's dispelling of the darkness by the four Riks in
+four steps (Sec.3): the first part of the darkness he
+repelled
+became
+a
+reddish
+sheep
+(solar
+chromosphere), the second part he repelled became a
+
+
+Fig. 1—Comparison of solar radiation induced H+ ion activity in
+seawater during (a) normal day and (b) partial solar eclipse event
+on 22 July 2009. The reduction in pH value during eclipse is
+around 20% of the difference between the ordinary water (pH 7.5)
+and seawater (pH 8.5). The vertical dotted line is the time of
+maximum eclipse occurrence, at which the ionisation of seawater
+started due to the shorter wavelength rays reaching the earth’s
+surface.
+
+
+
+
+## SANTHOSH KUMAR & RENGAIYAN: TRADITIONAL KNOWLEDGE OF SOLAR ECLIPSE
+
+
+
+721
+silvery sheep (solar corona), the third part again
+became a reddish one, and the fourth a white sheep
+(regaining the original colour). Thus the coincidence
+of our results [Fig. 2 (iii) & (iv)] as a four stage
+process of eclipse is in excellent agreement with the
+Vedic prediction, first time in this field.
+The higher plasma frequency of the profilogram,
+i.e. the Total Ozone Concentration (TOC) in the
+ionosphere during eclipse21 [Fig.2 (i)] and the change
+in stratosphere, particularly, the O3 concentration
+during the eclipse event22 [Fig.2(ii)] are compared
+with the effect of recorded pH value of seawater23
+[Fig.2(iii)] and the Vedic predictions [Fig.2(iv)], and
+are in good agreement among each other, i.e. the
+change in ionosphere, stratosphere, seawater and
+Vedic predictions respectively (The first part (i) of
+Fig. 2 is taken from Ref. 21 and the second part (ii) if
+from Ref. 22).
+The O3 concentration is decreased or a depletion
+region is formed at the partial maximum (≈ 45% of
+eclipse) due to gravity induced waves, and at the
+eclipse maximum the O3 layer becomes wider/thicker
+than the normal level [Fig.2 (i)] in the shadow region8-
+
+## 13. Hence the penetration of short range cosmic rays
+
+are reduced to a maximum level and the reduction in
+pH value is minimum14,23, and, thus the prediction of
+Rishi Atri that a silvery sheep, (close to the normal
+emission of the Sun - corona) matches well with our
+results. At the partial maximum, i.e. around 45% of
+the eclipse both at the beginning and end of the event,
+the reduction in pH is maximum due to the formation
+of depletion region in the O3 layer, which was
+pronounced in Rig Veda as a Reddish Sheep (inner
+atmosphere of the burning globe - chromosphere)
+which is far away from the normal emission. Such
+formation of depletion region in the O3 layer allows
+more short range cosmic radiations to reach the
+surface of the earth and hence causes a maximum
+reduction in pH value of seawater.
+After an hour of the eclipse, the seawater started
+regaining its original state. This may be due to the fact
+that the influence of decrease of shorter wavelength
+radiations as the eclipse approaches its maximum
+compared to longer wavelengths. This is in
+correlation with Tzanis et al. that the solar radiation
+started to increase after the eclipse totality, while the
+surface ozone concentration started to increase about
+one hour later and returned to its ordinary behaviour
+several minutes after the end of the eclipse12. A
+decrease in light intensity (the total luminous flux
+incident on the earth’s surface per unit area) of 10,000
+Lux and a decrease in surface air temperature of 6oC
+are recorded during the annular maximum.
+Search for the scientific reason of decreasing pH
+value perceived the influence of ionising radiations
+reaching the surface of the earth during eclipse.
+
+
+Fig. 2—pH variation of seawater with respect to the stratospheric
+change and the Vedic prediction, (i) Ionospheric change during
+solar eclipse (reproduced with permission from Ref. 33),
+(ii) Stratospheric change during solar eclipse (reproduced with
+permission from Ref.34), (iii) Comparative plot of Variation of
+pH in seawater during (a) normal day and (b) annular solar eclipse
+under exposed condition on 15 January 2010 (dashed line shows
+the % of eclipse; (+) symbol for approaching eclipse maximum
+and (-) symbol for towards the end of process) (hrs refers IST),
+(iv) Pictorial representation of four stages of solar eclipse as per
+Rig Veda.
+
+
+
+
+## INDIAN J TRADITIONAL KNOWLEDGE, VOL 13, NO. 4, OCTOBER 2014
+
+
+
+722
+Zhaobing et al. observed that irradiation of drinking
+water using gamma rays reduces its pH value24.
+During the partial solar eclipse of Oct. 1995, we have
+detected huge gamma counts at the eclipse maximum
+by gamma ray spectrometric experiments with
+NaI(Tl) scintillator. By comparing our earlier
+detection and measurements with the report of
+Zhaobing et al., it is obvious that among the shorter
+waves, gamma rays influences more in the reduction
+of pH value in seawater24. These gamma rays are
+reaching the earth’s atmosphere due to the gravity
+wave induced reduction in ozone concentration, as
+explained before. The low energy gamma rays (≈ 1.24
+MeV) reaching the surface of the earth are not passing
+through matter, as such these will not penetrate deep
+into the sea, instead are absorbed by the upper layer of
+the seawater and the particles get excited25. Due to the
+close association of pH value with salinity, this
+reduction in pH value of seawater in the surface layer
+during solar eclipse causes a critical change in the
+behaviour of marine organisms that they move to
+deeper region during this period. After few hours of
+the eclipse event these organisms come to their
+normal behaviour since the seawater regains its
+original state after few hours of the end of the eclipse.
+Hence the effect of the solar eclipse started before few
+praharas of the eclipse event and lasts for few
+praharas after the end of the process, as stated in
+Vedas.
+Sudden Ionospheric disturbances (SIDs)' can be
+generally caused by either GRBs or Solar eclipse
+events. When the Earth lies in the path of the tightly
+beamed burst of energy, the atmosphere is slammed
+with massive doses of radiations and a sudden
+increase in ionisation occurs due to GRBs, while the
+obscuration of Sun by moon causes an opposite effect
+and hence a decrease in critical frequency (Total
+Electron Content) is expected. The Total Ozone
+Concentration (TOC) in the ionosphere during
+eclipse21 also showed a similar effect to that of
+pH change in seawater, that is, the higher plasma
+frequency of the profilogram [Fig. 2(i)] is in vertical
+line with the depletion regions of Ozone layer in the
+Stratosphere [Fig.2(ii)] and which also corresponds to
+the dip in pH curve [Fig.2 (iii)], which provide a link
+between ionosphere-stratosphere and biosphere. Such
+effects are now interrelated with the Vedic predictions
+of Rishi Atri, who enchanted four mantras (Riks)
+during eclipse [Fig. 2(iv)], may be to protect the
+people from the harmful radiations.
+As per NASA TP 2001-209990 report on the total
+solar eclipse of 2002 December 04, ships and boats
+offer an opportunity for considerable mobility during
+the critical moment of the eclipse, which supports our
+findings of reduction in pH. The very recent report of
+Sharma et al., states that the change in meteorological
+parameters and the photochemical ozone formation
+during eclipse are more or less similar to the
+behaviour of night time chemistry15. As a conclusion
+of our study, the darkness effect due to eclipse is not
+similar
+to
+the
+night
+time
+darkness,
+instead
+predominant short range radiations are also reaching
+the surface of the earth, particularly gamma rays.
+Studies concerning behavioural changes of animals,
+such as fishes, birds, rodents, and chimbanzees
+responded rapidly during total solar eclipse26-29. The
+studies on fresh water fishes during the 1980 solar
+eclipse in India reveals that all the studied species
+almost stopped gulping air, became sluggish, and
+sheltered to the bottom, and such changes during solar
+eclipse are related with the activities appropriate for
+sunset26. It is known that, pH can affect the ionization
+of the amino acid side chain which in turn change the
+secondary, tertiary and quaternary structure of the
+protein molecule. This will alter the active site and
+consequently its action. The change in pH of the
+medium or environment leads to alteration in the
+shape of the enzyme since each and every enzyme is
+characterized by an optimum pH, at which the
+specific enzyme functions most actively30,31. Such
+structural changes in enzyme have an effect on ionic
+binding which is necessary to drive chemical reaction.
+In biological systems an unexpected change in pH can
+have a major effect downstream. Hence, as per our
+findings, it may be viewed in the context of radiation
+and pH change during eclipse32. It was described by
+Rishi Atri also in Rig Veda that the darkness at the
+time of full solar eclipse is totally different from the
+normal darkness. Hence this new finding may probe a
+new gateway to the study of behavioural changes of
+marine organisms during eclipse, in the context of
+change in pH. Hence the traditional practices of India,
+from Vedic period to today, that is taking bath before
+and after eclipse, fasting during eclipse, covering
+food, well and drinking water, etc. are scientifically
+valid practices.
+
+Summary and conclusion
+India’s rich Vedic tradition has a powerful
+influence in the field of astronomy and the eclipse
+
+
+
+## SANTHOSH KUMAR & RENGAIYAN: TRADITIONAL KNOWLEDGE OF SOLAR ECLIPSE
+
+
+
+723
+events are well documented. Finding the truth of such
+predictions explored new findings in the context of
+eclipse causing radiation effects. During solar eclipse,
+reduction in ozone concentration is formed because of
+gravity waves due to the change in pressure gradient
+force. The ozone depression allows ionizing radiation
+in addition to non-ionizing rays in the short period of
+eclipse. These rays have a wide range of effects on
+humans and aquatic and terrestrial ecosystems.
+However the role of ionizing radiation, such as
+gamma rays, during this process is less studied. Here,
+we report that, the gamma rays are reaching the
+earth’s surface during eclipse, which reduced the
+pH of seawater when exposed to solar radiation. It is
+to be noted here that this observation is during eclipse
+partial maximum in both the event of total and
+annular eclipses, in the coastal area; where the
+seawater influences the effect of eclipse, especially on
+meteorological parameters. Our results are the first
+one reported about the influence of gamma rays
+during solar eclipse in the pH value of sea water. The
+results discussed will probe a gateway to a new
+approach of the behavioural studies of marine
+organisms in the context of pH value during eclipse
+period and may add an additional parameter in the
+geophysical studies of polar region. The minima and
+maxima obtained in the pH curve corresponds to the
+four stage process of eclipse, quoted in Vedic scripts,
+and this result may be the first scientific evidence to
+the four Riks of Rishi Atri in Rig Veda.
+
+Acknowledgement
+The permission granted by Dr. Petra K Knizova to
+reproduce the 1st part of Fig. 2 and Dr. E.
+Gerasopoulos to reproduce the second part of the Fig.
+2, is greatly acknowledged.
+
+References
+1
+Thomas D Worthen, "Herodotus's Report on Thales's
+Eclipse", Electronic Antiquity, Vol. 3.7,1997.
+2
+Thucydides, The Pheloponnesian War, translated by Rex
+Warner, (Harmondsworth), 1972.
+3
+Henkel FW, “The Chinese astronomers, Hi and Ho”,
+The Observatory, 17 (1984) 361-361.
+4
+Michael J Carlowicz & Ramon E Lopez, Storms from the
+Sun: The emerging science of space weather, Joseph Henry
+Press, 2002, 35.
+5
+Thiele R Edwin, The Mysterious Numbers of the Hebrew
+Kings: A Reconstruction of the Chronology of the Kingdoms
+of Israel and Judah, (Willam B. Eerdmans Pub. Co, Grand
+Rapids, MI), 1951, 41-42.
+6
+Goldstein R Bernard, Saving the Phenomena: The
+background to Ptolemy’s planetary theory, JHA, (1997)
+xxviii.
+7
+Griffith & Ralph T H, The Hymns of the Rigveda, 2nd edn,
+Kotagiri, Nilgiri, 1986.
+8
+Eastman John A & Stedman Donald H, Variations in the
+ambient ozone concentration during the 26 February 1979
+solar eclipse, Atmospheric Envir, 14 (1980) 731-732.
+9
+Seykora E J, Bhatnagar A, Jain RM & Streete J L, Evidence
+of atmospheric gravity waves produced during the 11 June
+1983 total solar eclipse, Nature, 313 (1985) 124-125.
+10 Singh L, Tyagi TR, Somayajulu YV, Vijayakumar PN,
+Dabas RS, Loganandham B, et al., A multi-station satellite
+radio beacon study of ionospheric variations during solar
+eclipses, J Atmos Solar-Terrestrial Physics, 51 (1989)
+271-278.
+11 Chudzynski S, Czyzewski A, Ernst K, Pietruczuk A,
+Skubiszak W, et al., Observation of ozone concentration
+during the solar eclipse, Atmos Res, 57 (2001) 43-49.
+12 Tzanis C, Varotsos C & Viras L, Impacts of the solar eclipse
+of 29 March 2006 on the surface ozone concentration, the
+solar ultraviolet radiation and the meteorological parameters
+at Athens, Greece, Atmos Chem Physics, 8 (2008) 425-430.
+13 Zerefos C S, Balis D S, Zanis P, Meleti C, Bais A F, et al.,
+Changes in surface UV solar irradiance and ozone over the
+Balkans during the eclipse of 11 August 1999, Adv Space
+Res, 27(12) (2001) 1955-1963.
+14 Kazadzis S, Bais A, Kouremeti N, Blumthaler M, Webb A,
+et al., Effects of total solar eclipse of 29 March 2006, Atmos
+Chem Physics, 7 (2007) 5775-5783.
+15 Sharma S K, Mandal T K, Arya B C, Saxena M, Shukla D K,
+et al., Effects of the solar eclipse on 15 January 2010 on the
+surface O3, NO, NO2, NH3, CO mixing ratio and the
+meteorological parameters at Thiruvanathapuram, India,
+Annales Geophysicae, 28 (2010) 1199–1205.
+16 Hanna E, Meteorological effects of the solar eclipse of
+11 August 1999, Weather, 55 (2000) 430-446.
+17 Kolev N, Tatarov B, Grogorieva V, Donev E, Simenonov P,
+et al., Aerosol lidar and in situ ozone observations of the
+planetary boundary layer over Bulgaria during the solar
+eclipse of 11 August 1999, Int J Remote Sensing, 26 (2005)
+3567-3584.
+18 Founda D, Melas D, Lykoudis S, Lisaridis I, Garasopoulos E,
+et al., The effect of the total solar eclipse of 29 March 2006
+on meteorological variables in Greece, Atmos Chem Physics,
+7 (2007) 5543-5553.
+19 Zerefos C S, Garasopoulos E, Tsagouri I, Psiloglou B E,
+Belehaki A, et al., Evidence of gravity waves into the
+atmosphere during the March 2006 total solar eclipse, Atmos
+Chem Physics, 7 (2007) 4943-4951.
+20 Lawrance Edward, The Vortex of Life, (Floris Press,
+Edinberg), 1993.
+21 Knizova P K & Mosna Z, Acoustic–Gravity Waves in the
+Ionosphere During Solar Eclipse Events, Acoustic Waves -
+From Microdevices to Helioseismology, Prof. Marco G.
+Beghi (Ed.), ISBN: 978-953-307-572-3, In Tech, 2011.
+22 Gerasopoulos E, Zerefos C S, Tsagouri I, Founda D,
+
+## Amiridis V, et al., The total solar eclipse of March 2006:
+
+overview, Atmos Chem Physics, 8 (2008) 5205–5220.
+23 Santhosh Kumar S & Rengaiyan R, Influence of solar eclipse
+on seawater, Nat Sci, 3 (2011) 69-74.
+24 Zhaobing Guo, Zheng Zheng, Chunhui Gu & Dengyong
+Tang,
+Radiation
+removals
+of
+low-concentration
+halomethanes in drinking water, J Hazardous Mat, 164(2-3)
+(2009) 900-903.
+
+
+
+## INDIAN J TRADITIONAL KNOWLEDGE, VOL 13, NO. 4, OCTOBER 2014
+
+
+
+724
+25 Tsypin S G, Kukhtevich V I & Yu A Kazansky, The
+penetration of gamma-rays through water, iron, lead and
+combination of iron and lead, J Atomic Energy, 1 (1956)
+217-220.
+26 Pandey K & Shukla J P, Behavioural studies of freshwater
+fishes during a solar eclipse, Environ Biol Fishes, 7 (1982)
+63-64.
+27 Elliott J A & Elliott G H, Observations on bird singing
+during a solar eclipse, Canadian Field-Naturalist, 88 (1974)
+213-217.
+28 Advani R, Behaviour of rodents during solar eclipse,
+J Bombay Nat Hist Soc, 78 (1981) 551-552.
+29 Branch J E & Gust D A, Effect of solar eclipse on the
+behavior of a captive group of chimpanzees (Pan
+troglodytes), Am J Primatol, 11 (1986) 367–373.
+30 Ann S McDermid, Ailsa S McKee & Philip D Marsh, Effect
+of environmental pH on enzyme activity and growth of
+Bacteroides gingivalis W50, Infection Immun, 56 (1988)
+1096-1100.
+31 Ram Kumar Tripathi, Chintamani Chaya Devi & Abburi
+Ramaiah, pH dependent interconversion of two forms of
+tyrosinase in human skin, Biochem J, 252 (1988) 481-487.
+32 Santhosh Kumar S, Why Birds/Animals Fly/Run Away to
+Solar Eclipse?, Curr Adv Environ Sci, 2 (2014) 11-14.
+

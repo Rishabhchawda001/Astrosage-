@@ -1,0 +1,120 @@
+{
+  "title": "Rig Veda Telugu",
+  "discovered_at": "2026-07-13T14:50:10.312123+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "The Indian Antiquary",
+      "authors": [
+        "James Burgess",
+        "Richard Carnac Temple",
+        "John Faithful Fleet",
+        "Royal Anthropological Institute of Great Britain and Ireland.",
+        "Stephen Meredyth Edwardes",
+        "Charles Evelyn Arbuthnot William Oldham"
+      ],
+      "year": 1893,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "TheIndianAntiquaryVolVI",
+        "indianantiquarya014355mbp",
+        "TheIndianAntiquaryVolIii",
+        "indianantiquarya014360mbp",
+        "TheIndianAntiquaryVolXXIV",
+        "indianantiquary00indigoog",
+        "indianantiquary02indigoog"
+      ],
+      "edition_count": 10,
+      "isbn": [],
+      "publisher": [
+        "Kegan Paul, Trench, Tr\u00fcbner & Co. [etc.]",
+        "Swati Publications",
+        "Education Society's Press",
+        "Education Society's Press, Byculla [etc.]",
+        "Popular Prakashan",
+        "Archaeological Survey of India",
+        "S. B. Singh, Indological Book Reprint Corp."
+      ],
+      "ol_key": "/works/OL16286082W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "tdl.49296-saivacarasangrahamu-of-tirumalanatha",
+      "title": "\u0ba8\u0bc2\u0bb2\u0bcd - Saivacarasangrahamu of Tirumalanatha",
+      "creator": "",
+      "year": null,
+      "language": "tam",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "JPEG",
+        "JPEG Thumb",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ugcnet-5.3-rig-veda-pratisakhya-prathama-patala-i",
+      "title": "UGCNET 5.3 RIG VEDA PRATISAKHYA PRATHAMA PATALA I",
+      "creator": "@pavansamskruth",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "rig-veda-trikala-sandhyavandanm",
+      "title": "Rig Veda Trikala Sandhyavandanm",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

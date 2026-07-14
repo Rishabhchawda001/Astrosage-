@@ -1,0 +1,107 @@
+{
+  "title": "nard-puran (1)",
+  "discovered_at": "2026-07-13T16:14:38.404736+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "nard-puran",
+      "title": "nard-puran",
+      "creator": "SUVRATSUT",
+      "year": 2017,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4392647497",
+      "title": "Oleuropein activates autophagy to circumvent anti-plasmodial defense",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "http://www.cell.com/article/S2589004224006849/pdf",
+      "authors": [
+        "Praveen Sharma",
+        "Nikunj Tandel",
+        "Rajinder Kumar"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2092518295",
+      "title": "Dopant Concentration Effect on NiO-Doped Sodium Metaphosphate Glasses: A Combined X-Ray Absorption Fine Structure (XAFS) and UV/VIS/NIR Spectroscopic Investigation",
+      "year": 2005,
+      "is_oa": true,
+      "oa_url": "https://www.degruyter.com/document/doi/10.1515/zna-2005-0611/pdf",
+      "authors": [
+        "Boris Brendebach",
+        "Robert Glaum",
+        "Michael Funke"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "nard-puran",
+      "title": "nard-puran",
+      "creator": "SUVRATSUT",
+      "year": 2017,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4392647497",
+      "title": "Oleuropein activates autophagy to circumvent anti-plasmodial defense",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "http://www.cell.com/article/S2589004224006849/pdf",
+      "authors": [
+        "Praveen Sharma",
+        "Nikunj Tandel",
+        "Rajinder Kumar"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2092518295",
+      "title": "Dopant Concentration Effect on NiO-Doped Sodium Metaphosphate Glasses: A Combined X-Ray Absorption Fine Structure (XAFS) and UV/VIS/NIR Spectroscopic Investigation",
+      "year": 2005,
+      "is_oa": true,
+      "oa_url": "https://www.degruyter.com/document/doi/10.1515/zna-2005-0611/pdf",
+      "authors": [
+        "Boris Brendebach",
+        "Robert Glaum",
+        "Michael Funke"
+      ]
+    }
+  ]
+}

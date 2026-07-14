@@ -1,0 +1,103 @@
+{
+  "title": "full-punjabi-geeta",
+  "discovered_at": "2026-07-13T16:04:27.528505+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "full-punjabi-geeta",
+      "title": "full-punjabi-geeta",
+      "creator": "unknown",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1415701808",
+      "title": "Exploring the lived experience of breast cancer diagnosis and treatment amongst Gujarati speaking Indian women",
+      "year": 2015,
+      "is_oa": true,
+      "oa_url": "https://diversityhealthcare.imedpub.com/exploring-the-lived-experience-of-breast-cancer-diagnosis-and-treatment-amongst-gujarati-speaking-indian-women.pdf",
+      "authors": [
+        "Geeta Patel Kerai",
+        "Diana Harcourt",
+        "Nichola Rumsey"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1636599507",
+      "title": "Being Tamil, being Hindu: Tamil migrants\u2019 negotiations of the absence of Tamil Hindu spaces in the West Midlands and South West of England",
+      "year": 2015,
+      "is_oa": true,
+      "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/0048721X.2015.1027968?needAccess=true",
+      "authors": [
+        "Demelza Jones"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "full-punjabi-geeta",
+      "title": "full-punjabi-geeta",
+      "creator": "unknown",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1415701808",
+      "title": "Exploring the lived experience of breast cancer diagnosis and treatment amongst Gujarati speaking Indian women",
+      "year": 2015,
+      "is_oa": true,
+      "oa_url": "https://diversityhealthcare.imedpub.com/exploring-the-lived-experience-of-breast-cancer-diagnosis-and-treatment-amongst-gujarati-speaking-indian-women.pdf",
+      "authors": [
+        "Geeta Patel Kerai",
+        "Diana Harcourt",
+        "Nichola Rumsey"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1636599507",
+      "title": "Being Tamil, being Hindu: Tamil migrants\u2019 negotiations of the absence of Tamil Hindu spaces in the West Midlands and South West of England",
+      "year": 2015,
+      "is_oa": true,
+      "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/0048721X.2015.1027968?needAccess=true",
+      "authors": [
+        "Demelza Jones"
+      ]
+    }
+  ]
+}

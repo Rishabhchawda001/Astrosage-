@@ -1,0 +1,57 @@
+{
+  "title": "2015.545358.Ank-Vidya",
+  "discovered_at": "2026-07-13T12:11:53.623792+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.545358",
+      "title": "Ank Vidya (jyotis)",
+      "creator": "Pandit, Gopesh Kumar",
+      "year": 1955,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.545358",
+      "title": "Ank Vidya (jyotis)",
+      "creator": "Pandit, Gopesh Kumar",
+      "year": 1955,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

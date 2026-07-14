@@ -1,0 +1,8105 @@
+# Ling Puran 2
+
+**Document ID:** DOC-82C20195B4E6
+**Language:** unknown (unknown)
+**Pages:** 242
+**Class:** scanned_image
+**SHA256:** `82c20195b4e67cf20bab34bd27c9d50df7d737897c553f1c77106a1d04adb191`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+sit Trea Aa: |
+SIH:
+
+The Uttarardha (The later half)
+
+meats era:
+Chapter 1
+The Greatness of Narayana
+RI ST:
+poreead date adesataz: |
+aeqnefa arearh aa watetfaarqi gt
+The Rsis said—
+
+O Sata, how is Sri Krsna, the god of gods,
+pleased? You kindly speak out to us in
+totality, because you are well-versed in all
+the subjects.
+
+Ga sara
+qa gst Herder Arosa Ferg: |
+arate farrsresene aera
+Sita said-
+
+O excellent Brahmanas, the same question
+was asked by Ambarisa from the great sage
+Markandeya. The reply which was given by
+the sage to him is going to be repeated by me.
+sreanty garg
+
+Tl areata creed Ferd |
+artusa yon sfa qeremedfagee: 13
+Ambarisa said—
+O great Rsi Markandeya, you are the
+
+ancient sage. You are well-versed in the
+meanings of the Puranas.
+
+aR feerrat eat seyTAA
+ates 9fe Herre Torte Gara lsu
+O immensely wise and excellent sage,
+which one of the divine dharma is the best
+for the devotees?
+Ya Sarg
+we deed Aen aT Paral: |
+ary Fa POTTY
+Sata said—
+On hearing their words, the sage
+Markandeya got up and he offered his
+
+salutation to lord Narayana with folded hands
+and then said.
+
+aes Sara
+
+FU, TT BTA YOR ARNT |
+
+eri ori ta worl aReqare
+
+wera ate aes TS
+
+Fh: Wee: AB: GATT SATE: Nt
+
+aaa aa: wd aafacta Gera
+
+aft vant sage fated varie
+Markandeya said—
+
+The reciting of the name of Narayana with
+
+devotion and singing of his praise is quite
+
+## Page 2
+
+virtuous, which bestow the merit of
+performing Agvamedha sacrifice. $ri Krsna
+happens to be lord Purusottama. It is he who
+produced Brahma and all other living beings.
+The only dharma which has been seen and
+known by me, is going to be related by me.
+
+qa Fara fag aire ara 4 fea:
+
+aa Pet PPI: WEIN
+
+SST, Ta TETAA: |
+
+sarcatd Frontman: YA: TAO
+
+fron: wret PRATT RB: IHATT TL |
+
+area She ar Tera TTT RR
+
+Tarawa aaa Aer
+
+afeadti waren Prana fe Ta Sng
+
+In earlier times, there was a Brahmana
+
+named Kausika. He was well-versed in
+Samaveda besides being devoted to Sti
+Krsna. He always recited the name of
+Narayana while seated, standing, lying on
+bed, besides while eating or drinking. He
+always recited the stories of Narayana — the
+large hearted one. After reaching the holy
+place or an excellent shrine of Visnu, he used
+to sing in praise of Visnu by means of
+exquisite songs, wherein the beating after
+regular intervals, the intonation and the
+regulated rise and fall of the sounds,
+contributed to make the songs sweet. He sang
+in different tunes pleasing to the ears in
+divine ways. He followed the path of
+devotion and subsisted solely on alms,
+voluntarily offered by the people.
+
+wad area & ger afaefesnetars
+wanes efet ferorcretet ara <et aati g3 tt
+On seeing him thus singing in praise of
+the lord, a Brahmana, known by the name of
+Padmaksa, gave him cooked rice.
+
+Linga Mahapurana
+
+apee tern gers fe aa a1
+calftrant fe ae eel treed Vf TURK I
+Kausika of great resplendence partook the
+rice with the members of his family. In great
+delight, he continued to sing in praise of lord
+Visnu.
+sTraAret A Ware: aret wre fafrta: 1
+mpreratts dire: fereat at wether a gy
+we erragai fara Bera va: |
+araferenfret: SI: ATTATCTAM: RK
+Padmaksa continued to listen to the songs,
+though he often went now and then. After the
+lapse of sometime, seven of the disciples of
+Kausika arrived there. They were born in the
+families of Brahmanas, Ksatriyas and
+Vaisyas. They were pure and excelled one
+another in wisdom and fearning and were
+devoted to Vasudeva.
+aarafiraenaret aenet: weet aI
+Reta afedt Pret strat BEART: 1 gH
+fasperet oft aa sired areaerfate
+aaa Herel A Aye Fro TAT: NCU
+darren Ret anther sitferarra: 1
+rere are rat ay rer Pret aferarai 93 1
+wpa wafers et: dai aa: |
+val Gerd Oatal oad MATT 0 It
+To them also, Padmaksa served the
+cooked rice. Always accompanied by his
+disciples, Kausika was delighted in his mind.
+Ina holy centre of Visnu, he sang in praise of
+Visnu and stayed there. There was also a
+Vaisya there known by the name of Malava,
+who too was devoted to Visnu. With a mind
+full of delight, he always offered him
+garlands and lights. His chaste wife known as
+Malavi used to clean the holy shrine and
+
+## Page 3
+
+Chapter-1
+
+plastered cowdung there. She sat besides her
+husband listening his excellent music.
+
+PRATT TIM: VATA: |
+Tae Wagar Vt TATA: 1a
+Fifty excellent Brahmanas of holy rites
+arrived from Kusasthala for listening to the
+songs in praise of Visnu.
+ener fe spratfn pifireer Hera: |
+wataenetaram: Joes aardeq TNRWw
+They were quite wise and learned, besides
+being conversant with the meanings of
+whatever they had learnt. Carrying out the
+task of the noble-souled Kausika, they
+continued to stay there listening to his songs.
+Ia ea WH @ aHET AL
+Ae TT Vas Hers TTA TATU 3
+The glory of Kausika in singing was
+spread everywhere. On learning about him,
+the king of Kalinga arrived and said to
+Kausika.
+alfrera wt: aref meade a At TA |
+ued Fae ya SMeATA SHIN VS
+“O Kausika, accompanied with your
+attendants, you sing in praise of me and let
+the people of Kugasthala listen to the same.”
+wegen alii: we ward aie frei
+a fate 8 FER ate a A aaaTN AGH
+Reds at aifa ta a aeate
+wage ¢ afeoon arftal Tika eft: 12601
+area Prafararereian RI: |
+SAR wlerea agen wre a ALTA: 1 Wort
+Sree an wa: wiles fama: |
+samira woofs eet a afea Rc
+Tet v4 cea epi aa ear
+CCRC CG ICR IC CIC UES
+
+ayaa a aia yeas A gem
+a ode ei THAT ATA AAA: Molt
+
+On hearing the words of the king, Kausika
+replied to him in an appeasing tone-“O great
+king, my tongue nor my words eulogise
+anyone other than Visnu. They do not praise
+even Indra. When this was said, his seven
+disciples, known by the names of Vasistha,
+Gautama, Hari, Sarasvata, Citramalya and
+Sisu speak to the king in the same way as
+Kausika did. The disciples from Kugasthala
+too, who were also devoted to Visnu, also
+spoke to the king~ “Our ears do not wish to
+hear the praise of anyone else except Visnu.
+We shall only hear the songs of the praise of
+Visnu and never the praise of anyone else.”
+On hearing this, the king got furious and
+|. commanded his servants— “You sing in praise
+of me to enable these Brahmanas to hear my
+praise. When it will be sung about all round,
+
+how can it be that they do not hear it?”
+
+Wa DOR FN I: Usa
+
+Presart fasret 1 ga ¢ gfe: u 3g
+
+REKeai statin fray, fis: |
+
+alftrnrena ai aca Tar JIE Ia?
+
+Weare Waa cata qa: fera: 1
+
+ofa fam: afracn frani fafeog: et: 3301
+
+When so ordered by the king, the servants
+
+sang excellent songs about the king. Those
+Brahmanas whose way was blocked, became
+sad after the song was over. On realising the
+inclination of the king, Kausika and other
+Brahmanas plugged one another’s ears with
+wooden pikes, saying— “This king has
+compelled his servants to sing, obstructing us
+as he stands by his own songs of praise.”
+Thus saying, the Brahmanas cut off the tips
+of their tongues as well with their own hands.
+
+## Page 4
+
+Tel Ts WaRS: TAMA
+arera ae fart a acted STAN BU
+FPeararatel sare sprererefor ast: |
+TAMARA ger fen acfoatafa A En s4 ii
+Re Teer Ter sen we Tara
+aired festa areaed eT 3g I
+The enraged king then usurped all their
+riches and drove them out of the kingdom.
+Thereafter, they proceeded to the north. In
+due course of time, they counted death.
+Finding their arrival, the god of death was
+bewildered as to what should be done? At
+that point of time, O king Ambarisa,
+Brahmana spoke to the chief of the Devas—
+“You comfortably accommodate Kausika and
+other Brahmanas today.
+TMs 4 fret erifa sae
+Tr 4 at afe tacafirese 3011
+Welfare to you all. In case you are
+interested in retaining your Devahood, bring
+those persons here, who adore Visnu by
+means of music.
+ep cared area YA: FA: |
+areata cen fad, wena Ta GRC I
+RAT: TAT aT FaerTAT
+‘wereteé ren: vite yeeta a qT: 3H
+The guardians of the quarters who were
+thus ordered, shouted- “O Kausika” again
+and again, some of them cried~ “O Malava”,
+“O Malava”. Others shouted— “O Padmaksa”,
+“O Padmaksa”. They approached them,
+seized them and carried them to the abode of
+Brahma by the aerial way. The Devas
+reached the world of Brahma in a moment.
+
+calftrnrterdt gear ren cit rame: |
+WE Aaa TANT APSA Yo
+
+Liga Mahapurana
+
+On seeing Kausika and others, Brahma,
+the Grandsire of the world, greeted them,
+welcoming them at the same time.
+
+ad: Blea afer |
+wen ae Ser Vara TATA: WS
+O excellent king, on seeing what Brahma
+
+did, the Devas became extremely grave and
+there was a great commotion among them.
+
+fecal swratentrard qarAar
+aplfrercarrera Waly a: SATA: WK
+foros wat vit argqearar: |
+
+wa ART ea: AcataPrarfah: u¥3
+qratival: frefayerd: wate: |
+aRrurttigetaqatget: ya: ween
+faonfaeraretdterrcac: |
+aerittasaa Sorat AeTstt: 14 II
+
+setae erecta: |
+ypahifadda fer: wie: ee tt
+aeons wea a aeasrdaa |
+Tera Fa afer Yvon
+fear fare faa sectoral oft:
+cheer weer cages ATTA: se II
+aferarease war alrerda equ: |
+
+STs TTA TET TES EATS Il
+ad faster rar eftatrert: 1y: 1
+aiftrene dite artats aa o tt
+Brahma forbade the excellent gods. He
+took Kausika and other sages and hurried
+them to the abode of Visnu, with great
+devotion to V&sudeva.. Lord Visnu was
+surrounded by the Devas. Narayana, the lord
+of the path of knowledge, was being served
+by the splendid Siddhas, who resided in the
+Svetadvipa. They were devoted to lord Visnu
+with great mental concentration and purity.
+All of them had four divine arms and
+
+## Page 5
+
+Chapter-1
+
+resembled Narayana. They possessed the
+characteristic symbols of Visnu. They were
+resplendent and devoid of sins. He was being
+served by eighty thousand great people as
+also the people like Markandeya (having two
+arms), besides Narada, Sanaka and other
+sinless souls. He was also served by different
+beings all round. The celestial damsels also
+served him. He was seated over a
+Bhadrapitha in the centre of an aerial chariot
+with a thousand doors, which extended in a
+thousand yojanas in length. It was divine,
+bright and studded with gems. It was
+spotless, pure, splendid and exquisite, made
+of diverse workmanship, Visnu glances
+benignly at them who were engaged in
+worldly activities. Kausika and _ others
+surrounded the lord at that time, who
+prostrated before the lord, eulogised him ~
+the Garuda-bannered lord Visnu. Then
+Narayana said~ “O Kausika” and then
+addressed him in appropriate order.
+
+weet Ferrers ara
+were rare FH TA, HATING tt
+
+The slogans of victory were shouted when
+this wonderful event took place. Then lord,
+the soul of the universe, said to Brahma—
+“Listen to what I am going to speak.
+
+calftrerea 38 fam: AeA: |
+feara dager St Heer rarer: wy zn
+
+The Brahmanas of Kusasthala, sought for
+the welfare of everyone. They were engaged
+in what was to be achieved by Kusasthala.
+
+venient eer arcacaefet fae: |
+SHRARATT TT: TAT SAT ATA 43 Ul
+
+They are engaged in listening to my glory
+and are equipped with the knowledge of
+reality. They are not at all devoted to any
+
+5
+
+other deity. Let them all become the Devas
+named Sadhyas.
+Feet aera wai Ute aden
+areal Ga: alfred We ATTA: YS
+vafrete mera fersiet 1a 2 ari
+ronftrarareal aang ch SATA S144 tt
+Let them live at places close to me as well
+as other sacred places forever.” After thus
+speaking, Visnu said to Kaugika- “O
+Brahmana of great intellect, together with
+your own disciples, you serve me as my
+attendants and keep company with me.”
+viet Arete ta wre ertadt af |
+a es Benen TPA AS ATTA GK IL
+fearon: star waatafrerfin: |
+area fied sored araccitat waft tn4e
+These words were spoken by Visnu to
+Malava— “O Malava, you can stay as you like
+in my world with your wife as long as the
+world lasts. Assume a divine form. Be a
+glorious lord and listen to the songs of my
+praise.”
+TNS TAM, at aT ATT: |
+warTatat year aerate Fe AT A WGC tt
+ares ger ai Pred HE TSG BMT!
+Ragan ehifampe erent n4s 1
+Then lord Visnu addressed Padmaksa—
+“Become the lord and the bestower of riches.
+Come to me in due course and visit me.
+Thereafter, you rule your kingdom.” After
+saying this, lord Visnu spoke to Brahma.
+aifraeres aR ara aA aT
+famperet a ai eile Rredte waa: ON
+Thanks to the songs of Kausika that my
+yogic slumber is over. Accompanied by his
+disciples, he eulogises me in shrines
+dedicated to me.
+
+## Page 6
+
+aan free: BU fags AeA
+
+a fersed Hon REF HITANEL
+
+a eitereifa Grea: writat 9 cient
+wa a foo Frere rs ret aera: NEI
+stages vightd Wee
+atert ta arag et: atari Br Tugs
+ued fama tad FA oferta a
+
+Treat arden ref arated USS Ange
+drarenfefatic red aad fe ar
+
+Tit wont Praet aeatferattararar NEG U
+Sarat omraiveites 7H ser TAT
+uamedrel ach steed sabfirener ARTA: NRK It
+eaecaranital aa abet a1
+
+Taya efter GAM ateaeg ra: eit
+
+He was banished from his kingdom by the
+merciless king of Kalinga. He cut off his
+tongue resolving thus that he will never
+eulogise anyone else than Visnu. He has now
+attained my world. Those who are my
+devotees and are highly renowned, plugged
+their ears with the means of pikes, resolving
+thus- “We will not hear anything other than
+the glory of Visnu.” These Brahmanas too
+have attained godhood and my proximity.
+Accompanied with his wife, Malava cleaned
+my holy places. He decorated my shrines
+with cluster of lights. He used to worship me
+always and regularly listened to my glorious
+deeds and songs. Therefore, he has attained
+my eternal massive world. Padmaksa gave
+food to the noble Kausika. Therefore, he has
+become the lord of riches and attained
+closeness to me. These were the words
+
+spoken by Visnu in the assembly, who is _
+
+worshipped by the entire world.
+aR FF ATTA HTT Te: |
+farraityorrcataterterentereme’: wee
+
+Linga Mabapurana
+
+ag defer tat fareorrconiaan
+
+TAT Bara At oopa TET gs tt
+
+qa aeantehra ant: wad: |
+
+‘aat sronfirar ger yvNtattargan: tivo
+
+werden Wtarriad: |
+
+soada: deer fete: wea: 1198 Ut
+
+At the same time, there arrived Laksmi —
+
+the consort of Visnu, slowly and smilingly.
+She was adorned with all the divine
+ornaments. She was accompanied with the
+experts of the science of music (instrumental)
+and those who were conversant with the
+fictions of lute. They were charming in the
+use of sweet words. All of them sang in
+praise of Laksmi. She was surrounded by
+thousands of crores of damsels. On seeing
+her arrival, the chiefs of the attendants, who
+were as huge as the mountains and wielded
+iron clubs like bhusundis and parighas,
+threatened and admonished Brahma and
+other Devas, besides the sages, making them
+recede to give way to her. They were
+delighted at their tasks.
+
+ad ag fe fratm: are ose at:
+afery, erty carer red rere: oz tt
+All of us ie. Markandeya and others went
+out along with Brahma and Devas. At the
+
+same moment, Tumburu, the excellent sage,
+was called.
+
+yaaa att 3 ton tae sate
+caret aaraht arrester aa 03 tt
+sri werd eet farsi arerarcar
+APART RTT TA: HY Ul
+feommreten yt: gfarit area: |
+Friedel a} a ae: AT: 194
+
+He arrived and stood near the goddess and
+the lord. Seated there with ease, he
+
+## Page 7
+
+Chapter-2
+
+exquisitely, sang and played on lute with
+delight. The excellent sage was worshipped
+by them and honoured with divine
+ornaments, studded with gems and splendid
+garlands, as also the other sages and the
+Devas.
+
+ger dyfad aid aerahrafien |
+
+ares are Gat: aera BR: 19g 11
+
+eianfada are aarmeq aa: |
+
+faarnifeatera Mar eatpeceta iio it
+
+ard fe Rake ahi eciteitaa:)
+
+wat Gave wre fry ys fata
+
+até R: aire yatraifaa: wey
+
+sierena parerel Cae HAT 8
+
+fa dfacrery fares anfercrarah: |
+
+foot afaed ¢ Pressareaiaa: dott
+
+arora da: ator BC!
+
+Jean yefasr, fergiafa a farce tt
+
+wa Aepearapereaupeg TAINS
+
+O king, the destroyer of the enemies, sage
+
+Narada saw Tumburu depart after having
+been duly honoured. On seeing the hospitable
+reception accorded to Tumburu by Visnu,
+Narada was overwhelmed with grief,
+affecting his eyes and heart. In the height of
+his grief, he started to worry and think over—
+“By what means shall I get access to Vignu in
+the presence of the goddess? Alas! It has
+been attained by Tumburu. Disgrace to me,
+the stupid fellow of confounded mind. I have
+been driven out of the presence of Visnu by
+the attendants. Where shall I go? How can I
+live? Alas! A wonderful feat has been
+achieved by Tumburu.” Thus thinking, the
+sage Nd&rada performed penance for a
+thousand years according to the divine
+reckoning. He did not even breathe a during
+that period. Reflecting on the hospitable
+
+reception to Tumburu, he meditated on Visnu
+for long. Inspite of his being quite a learned
+person, he cried aloud and said— “Disgrace
+on me.” O king, listen to what Visnu did in
+this regard?
+
+fa teqrer sae alegre Ar
+WANS AA: UR A
+
+Bd
+
+## Page 8
+
+Chapter-2
+
+fechas vara:
+Chapter 2
+Glory of Lord Visnu
+
+Heresy sary
+adt arereot Gaeret aise a1
+areas fear A TSA Ta: 18 Ul
+Markandeya said—
+Thereafter, lord Visnu - the universal
+soul, besides being Mahakala, bestowed
+
+everything on Narada, equated him with
+Tumburu.
+
+Ae Brg PTT
+ares ar A AS YA: TAA
+Thus, Narada was made the best of all the
+sages. This even is related to earlier times.
+The singing of Narayana’s songs again and
+again, is an excellent event.
+Tara fare: aeeifa arate
+earfa qf wr a aensal aired Anat
+Lord Visnu, who is adored with the
+singing of songs, bestows excellent grace,
+wisdom, lustre, satisfaction and abode as it
+happened to Kausika.
+uanemydiai a dfats weet eft |
+aera Herel farts fasta: sii
+
+## Page 9
+
+fi iar —
+
+aded famradie qeaehasi TANG U
+
+Visnu granted excellent Siddhi to
+
+Padmaksa and others. Therefore, O king, the
+following should be performed by you in the
+holy centre of Visnu, in particular, besides
+singing, dance accompanied with
+instrumental music and other festivities. O
+King, this should always be performed by
+you along with the person who are the
+devotees of Visnu.
+
+staat a ae Pied sttcoitatetteaen
+
+faaa ¢ a fer arethafodae: ei
+
+Tnqenieé ta fawprear wet qe
+
+sifreqfa a Aai a ata efron
+
+weifa fopared wearers
+
+Ur afd wer ai oa oitgeefau ci
+
+fer aarfa a a yt ae efyararne ti
+
+This must be heard. Prayer should always
+
+be offered to Visnu. A learned person who
+sings songs, dances, resorts to the narratives
+and discourses at the holy centres of Visnu
+with utmost devotion, acquires the memories
+of the previous births, wisdom, awareness of
+time and death and identity with Visnu. O
+excellent king, this is the truth. O king,
+whatever had been asked by you, has been
+narrated to you. What more shall be told by
+me to you? O most excellent one, among the
+persons, who maintain the holy rites, tell me?
+
+fa afer Se fropreei A
+fedrasera:
+
+nd
+
+Lifga Mahapurana
+
+## Page 10
+
+Lifga Mahapurana
+
+qditaisear:
+Chapter 3
+Narada achieves the Science of Music
+
+arate sara
+arbvsy Fema Sa aa aera
+Treen ASTRAY TATRTL A 8
+Ambarisa said—
+
+O sage Markandeya of enormous wisdom,
+by what means, the highly blessed saintly
+lord Narada, attained the knowledge of
+music?
+
+data cared afta safrar
+waeraaa A ud walsh Hera IH
+
+At what time did he attain proficiency
+equivalent with Tumburu? You speak out to
+
+me all this. O highly intelligent one, you are
+omniscient one.
+
+aruda sara
+
+aa warraet a areracetard
+waaare Fete ARS SMA AVTaAA: 113 1
+Markandeya said—
+
+I have heard this with the divine presence
+of Narada. The highly intellect and glorious
+Narada had himself spoken to me.
+
+area war feet afar
+Preaarn daqeqintite Seq ei
+aaa RTA TaAAETA: FTL
+seas Yara ARS Sa ETT: U4 Ht
+ont feoat rertarreaqgaraenthait
+
+The grieved Narada, having been
+reminded of the glory of Tumburu, had
+performed ¢apas for a thousand years without
+breathing. Thereafter, at the end of tapas, he
+further performed a hard tapa. Thereafter,
+Narada heard a divine and astonishing voice
+
+## Page 11
+
+Chapter-3
+
+from the sky, which was quite audible.
+
+feref afr wrens FATE It
+
+qh aa Tea wa aE AA aT A: |
+
+Ararat g mrraigftfea Baya: wou
+
+qe wih a weds afer afeeafa
+
+sepa) fasranfast aret afaai ae: ci
+
+amdata qs a a
+
+Terai: fra AAT AAA TT: 18
+
+aaretared aft rae acted: |
+
+caraferat waraa: Referareda afer got
+
+fererboerreda cardi yarn: |
+
+ad ARETE MATA FTAA TNL
+
+wires aes TAMIA ATTA |
+
+Which said~ “What for are you
+
+performing the hard ‘apas? In case, you are
+interested in the musical lore, then go to the
+mountain Manasa and meet Ulika (owl),
+who is known by the name of Jiianabandhu.
+You meet him at once. Thereafter, you will
+attain proficiency in music and singing.” O
+Narada, the best of the intelligent people, felt
+surprised on hearing the divine voice from
+the sky. Thereafter, he reached the Manasa
+lake lodged over the mountain. Reaching
+there, he found that Gandharvas, Kinnaras,
+Yaksas, Apsaras and other singers were
+seated all round. All of them were engaged in
+training in music and singing by the owl. All
+of them were delightful and were seated,
+singing in sweet tone. Finding Narada — an
+excellent singer, they welcomed him, getting
+overwhelmed with delight.
+
+feraef rar arratsfe Ferra
+fer oor fe sen wert fe fe aarti TH
+
+Ulika said— “O intelligent one, O lord,
+what brings you here? You tell me, what can
+Ido for you.”
+
+ARE Sara
+TaAAZ HSM TY Ts BAMA TN R3
+am ad wae qa yt ETT
+ardta fe a? fagarrroraitorn een
+at fatefa dee: aaa a Cae
+marten frou 84 It
+wees: AU: Wa Free: eareaseaM: |
+aifirenren cain wat 3 fen gen
+WaT PUA TIT ATS
+aareatag: anferretgaerra: 1 gent
+aed mead ta aa at Aaa aI
+aeetd wat a watt Aref steeiugen
+fainter aratrer 3 aa: |
+dfaceré wa a acef aerary fest 9st
+Roatace 3 aa aya TA: |
+anid ya carga freq Ro tl
+sah wes tat ae afer
+om Seda wer aa a Seere Fae It
+seré Dred cacerttafrerra: |
+fer phen Rereateara Hi aTeATOTA RT
+Narada said—
+
+O intelligent one, you listen to my words
+appropriately. I shall reveal all the events
+concerning me to you, the astonishing events
+which happened with me in the past. O
+intelligent one, in earlier, I went to lord
+Visnu and Laksmi. Both of them ignored me
+and called for Tumburu and listened to his
+excellent songs. Thereafter, all the gods left
+that place. Kausika and other singers kept on
+seated in the presence of lord Visnu for
+singing. I felt painful and have arrived here
+for performing the fapas. With their songs,
+they propitiated Visnu and attained the
+chieftancy of ganas with delight. Due to this,
+I became dejected. I have now arrived here to
+
+## Page 12
+
+10
+
+perform ‘apas. What ever is given by me by
+way of charity, what ever is offered by way
+of Loma and what ever is heard or learnt by
+me, all these do not merit, even the sixteenth
+fraction of the path of music associated with
+the glory of Visnu. Thus thinking over this, I
+performed a very hard penance for a
+thousand divine years for the purpose.
+Thereafter, O Ulika, I heard an aerial voice
+pertaining to you, saying— “O divine sage, in
+case, you are interested in music, you go to
+Uldka and you will known much about it.”
+On being thus urged, I have come to you.
+What shall I do? O unchanging one, I am
+your disciple. You kindly serve me.
+Traqeara
+TU ARG aad WU AA AeA
+AMTFAATTS AAAI YAH V3
+
+G&nabandhu said—
+
+“O Narada of great intellect, listen to what
+befell on me earlier. It was wonderful and
+splendid and it removed my sins.
+
+ate sa erat waTpSs: GT
+
+AAITASAT ATTA AU WH
+
+nai wleade ta qactes ata a1
+
+areal weet aera aaa aU et
+
+weal Bett fate Afeat where!
+
+Pray, tah wet Daas Sherary Ae 1
+
+ari aaah aerate a A waa
+
+ay; Tale TeMEeiSa: TE TALI
+
+ana ada fort aig Fret: |
+
+aera tte a area A zci
+
+In earlier times, there was king known by
+
+the name of Bhuvanesa, who performed a
+thousand horse sacrifices as well as ten
+thousand Vajapeya sacrifices. The king gave
+away in charity lakhs and crores of cows, gold
+
+Liga Mahapurana
+
+coins, costumes, chariots, elephants, horses
+and girls to Brahmanas. While ruling the earth,
+he stopped the praise of lord Visnu and his
+adoration in his kingdom, besides his singing
+and dancing. He declared that any one who
+praises Visnu or sing in his favour, would be
+killed by him. The great people are adored by
+the Vedas. All the women can sing my praise.
+The bards should only sing my praise.
+
+FeTTeA Heras Use A UTA
+
+Wea ta: Gee efits sf aa us
+
+wren faeyres udgstaratse: |
+
+adtaferrarare wii a et: APTN Ro
+
+are y aaa FARE AE I
+
+Frert werd Sear SVT TITLE
+
+vita aera wa faererArre: |
+
+arrrere Bf aa oreta oer BRU
+
+ada PAA wR ATTATT: |
+
+Celt Ta: TAMARA GANTT: 1133
+
+By issuing such a command, the king
+
+tuled the people. A Brahmana named
+Harimitra used to live close to the capital city
+of the king, who was a great devotee of lord
+Visnu and was free from all the conflicts. He
+went to the river banks and worshipped
+Visnu distributing sweets, payasam, ghee,
+curds and other fried sweets as naivedya.
+Then with a pleasant mind, he, offering his
+salutation to the image of Visnu, used to sing
+songs in favour of lord Visnu. His heart was
+filled with the devotion of Visnu. In this way,
+his time was well spent. Once, at the
+command of the king, the spies arrived there.
+
+cede aac Pela a aia: |
+are df yetrat 8 Ua PeTAT AL BSI
+
+They completely destroyed the paja
+material of the Brahmana, caught hold of him
+
+## Page 13
+
+Chapter-3
+
+and produced him before the king.
+am ten fete afore aga: |
+centratraras ear we erTAe ATTN a4 It
+The evil-minded king then denounced the
+
+Brahmana and confiscating his riches, drove
+him out of the kingdom.
+uf a eta retreat Rea AA: TA
+Wa: Te Fee SHrecer ARATE |
+a um adeithy Gera: aaa: |
+aus an Rant wre ag:fad: 1301
+The Mlecchas on the other hand, arrived
+there and carried away the image of lord
+Visnu. In due course of time, the king, who
+was adored in the world, met with his end.
+He was suffering from hunger and felt
+painful. Then he said to Yama.
+aye a add ta ericenta A wert
+Ten ord orci fee ot fe seftenfiy So aA 3c
+“O Yamardaja, though I have reached the
+heaven, but I always feel hungry and thirsty.
+
+What type of sins have I committed to
+deserve this? What should I do?”
+
+ay sara
+wen fe qaecnd pararres: |
+ea vit dar SARTO aS Ht
+aha ed wd areardafeg!
+WA UO Gore: QSh Tai Bal TAN ¥o it
+Yama said—
+
+You have committed a sin in relation to
+the Brahmana Harimitra and in relation to his
+worship of lord Visnu. O king, because of
+that sin, you are suffering from hunger. This
+sin was committed by you because of your
+ignorance and confusion. The grave sin had
+been committed by you against Harimitra, a
+great devotee of Visnu.
+
+il
+
+erated ad was a vata
+
+‘ironed Tear era NR I
+
+hf wire ecarta Tar!
+
+sqefea ad areas ata nit
+
+aa yohtar qe ae aeaRRTATTAT
+
+Bi: wife fer araReTS FATTER
+
+aaa aed wereard pd cra
+
+weed addin tes cate es it
+
+O king, because of that sin, all your
+
+yajfias and charities were destroyed.
+Harimitra — the Brahmana, who was engaged.
+in the singing and adoration of the lord
+Visnu, was deprived of his riches by you and
+also, you usurped all the things gifted by him
+to lord Visnu. All his belongings were looted
+by your soldiers. They committed all these
+sins at your command. O king, discarding the
+praise of Visnu, a Brahmana should not sing
+about any other person. Therefore, with the
+performing of the grave sins, your /oka as
+well as the heaven has been destroyed. Now,
+you go to the mountain cave.
+
+qaleae wae a
+
+arefaet Preect 41
+afer wr fear 8
+ered agernfrara: U4 tt
+— . en
+Tat adtsated seat cat a vfereafen xg
+Wa: ret Srey AErTaTTSea |
+You should cut your own body into pieces
+
+and satisfy your hunger by eating the same,
+as you had done earlier and by so doing, you
+should feel as if you are fallen in a grave hell.
+You have to do this till the end of the
+Manvantara. At the end of the Manvantara, in
+due course of time, you will again be reborn
+as a human on earth.”
+
+## Page 14
+
+12
+
+TMaearsa
+aaa ail fagtertaraedtacti sen
+afta fara erat tenferd: 1
+fasts va: Sar ARE Haase
+The singers said—
+
+Thus speaking, Yamaraja, vanished from
+the scene. Harimitra, on the other hand, was
+praised by the lord of the ganas, mounted a
+plane with his kins and proceeded onto the
+heaven.
+
+yatet qa afer wet oder at
+Gran: wa Pera apqeaafard: 1¥s
+The king Bhuvanesa dwelt in the
+mountain cave, consuming parts of his own
+body. He still suffered from hunger and
+thirst.
+
+ame i 7d adtraear
+SrreeTeA Sf PARA It
+farararchatta rescrthary
+Sarees wre A ASTIN I
+aaré eftftsi 3 qearies gad
+adaeiaeraa BAY A TATA
+cafaedt wfa cer frat: eon
+fe adaeamn ar ANG a
+fren wenfeen eran at tae
+aad feqata arene AAA x
+TFTA TAARLET TA APART STI
+Taras wa teat: VATA: WY I
+wa feat a ararariqarnt: |
+
+aren Ta wer a TAPER TA AATUGE It
+
+I had seen the kings, who told me
+everything. Meeting him and well
+understanding everything, I sent him to
+Harimitra. I found them having mounted over
+the plane, which was shining like the sun. By
+
+Linga Mahapurana
+
+the grace of Indradyumna, I got a long life. O
+excellent one, I could meet Harimitra only by
+his grace. With the influence of his prowess,
+my mind felt inclined towards music. O sage,
+I sat with the Kinnaras, practising the art of
+music for a period of sixty thousand years.
+My tongue was blessed and it became quite
+clear. Only then, I could learn music.
+Thereafter, in double that age, I achieved
+proficiency in music. By that time, ten
+Manvantaras had already passed and I
+became the preceptor of music. Gandharvas
+and others reached there. Kinnaras
+approached me as their preceptor. O sage of
+great penance, the musical lore cannot be
+achieved with the performing of tapas.
+
+Tears Saal Aes TATTLE |
+
+warp are 3 vfiraer ort amywon
+
+weap Wate ass AHA
+
+Therefore, you will learn music from me
+
+along with the proper hearing of notes. The
+sage who was thus addressed, bowed down to
+Ultka and sang. Hear that, O excellent sage,
+and bow down to Vasudeva.
+arehusa sara
+
+sq STS AY APTA: WGC
+
+fret dears Taher
+
+TAAL RAS ASA TATTATUGS tt
+Markandeya said—
+
+On being thus advised by Ulika, the sage
+
+Narada learnt the art of music in accordance
+with the procedure of learning. At that point
+
+of time, Ulika said— “Be devoid of shyness
+now.”
+
+Sqw Tara
+eitaga cen ht aa cTrerTayA |
+oraeR Tae caatai A AAPA Kot
+
+## Page 15
+
+Chapter-3
+
+a oa a Fei eEcire] A TAL
+
+a phat yea Fret wracorfafta: neg nt
+
+wafadonad enfearaa 4a fe
+
+Prafatrerttr 4 7 fe were gt
+
+amagedarga aedgfs: Herat
+
+wag Prteraera ok aera ae g3
+Uldka said—
+
+One should disown all shyness during the
+sexual intercourse, while singing, while
+playing the game of dice, while delivering
+discourse in the assembly, while carrying out
+the business transactions, while taking food,
+while maintaining wealth and _ while
+calculating income and expenses. One should
+never sing with a bent body, while being
+shrouded under a blanket. While singing
+undue manual gestures should not be
+displayed. The mouth should not be opened
+too wide, nor should the tongue be stretched
+out. One should not sing with uplifted hands
+or with upturned eyes. While singing, one
+should not survey one’s own body nor stare
+at another man.
+
+dees a cele fee 4 re
+ae Tan Hara Saf: FANGS
+It is not proper to clap the buttocks while
+rising up nor should there be any laughter,
+
+anger or shaking of limbs. The memory
+should not be diverted anywhere else.
+
+Aci erereTnfhT TA FETA |
+tees wert warmer aed WANES HI
+
+O sage of great intellect, in the practice of
+music, these trends are not recommended. O
+sage, beating of ¢d/a is impossible with a
+single hand.
+
+ganda ward qenda dda 1
+Ta A aacdoat Aereert HeVPTN GG
+
+13
+
+Tarra areaht a arctentt aera
+A hungry, thirsty person should not sing,
+nor should be do so in darkness. While
+practising the music, such or similar mistakes
+should not be committed by a singer.
+
+arhvsa Sarg
+wae: @ attire fatten: |
+afterraan tit feed ahaeanr gl
+Markandeya said—
+At the words so spoken by Ultka, the
+sage Narada performed practice for a
+
+thousand divine years, according to the
+method prescribed by his preceptor Ulaka.
+
+Wa: Great tihaweacnfey|
+
+farenfag toa: adeaefomifaqgc it
+
+arf a sefaercaeantit erent a1
+
+Sao Beata MATT: 18 I
+
+After that period, Narada became
+
+proficient in the expansion of songs and
+playing on vind. Then he became well-versed
+in the various divisions of the vocal sounds.
+Then Narada, the best among the Munis,
+became expert in thirty six types of the vocal
+sounds and their divisions.
+
+ad tiecdieta fear ata a1
+
+afrn ae dae: wifeeper waif Auvott
+
+All the Gandharvas and the Kinnaras, who
+
+had been associated with him, were
+extremely delighted at the singing of Narada.
+
+Tay We Wer AAT!
+
+cal ware Hoare FE aHtafernea: 92 tt
+
+eaierral Hera feared waa a1
+
+After completing his knowledge in the
+music, the Muni, then said to the music
+brothers— “You are well-versed in the art of
+music. By keeping your company, I have
+
+## Page 16
+
+4
+
+become proficient in the musical lores. O
+Acarya, the destroyer of ignorance, what
+should I do for you?”
+Tay ears
+TaN fad cary HAA TST
+areca strate Aerg |
+TA TN waa GE BATT N3
+Tented A erefirn aPracan
+The musical brothers said—
+
+O Brahmana, fourteen Manus appear in a
+day of Brahma. After his rule, all the /okas
+meet with their destruction. Then occurs the
+dissolution of the universe. My age extends
+upto that period. Upto that time, I enjoy the
+auspicious time. O best of sages, whatever is
+in your mind, you take it to be my Guru
+daksind or the fee of the preceptor.
+
+ARE Sars
+sritacrdat ese afacafanox
+wafer aseq Hera Trent wate AT
+Narada said—
+
+“O intelligent preceptor, let you meet with
+welfare. By the end of the kalpa and by the
+start of the next kalpa, you would function as
+Garuda. Till then, be pleased with me. I shall
+depart now.
+
+Arosa sara
+UAT STAT ARATE ATEN I
+aaate eeitthet arecarara titer
+TA AM T PAIRS We ATT: 9G 1
+dat fafeetfa titdeenfa are
+aa fates afare df are waaTeTEA No It
+Markandeya said—
+
+Thus speaking, Narada went to lord
+Visnu. Reaching the Svetadvipa, he sang a
+song in praise of lord Visnu, listening to
+
+Linga Mahapurana
+
+which, lord Visnu said~ “You are still not
+above Tumburu in singing. I shall tell you
+when you will be better than him (Tumburu).
+I shall tell you the time when you will be
+better than him.
+Tray warara area TaTara
+Tidaraaearensraerera BA wc tt
+sieia nfsentt agaeepeitea: |
+Faas FAA POH APA AEA I
+Having resorted to Ultka, you have
+become perfectly familiar with the topics of
+music. During the course of the twenty-eight
+cycles of the four yugas of the Vaivasvata
+Manu, I shall be born in the family of Yadus
+towards the end of Dvapara age. O sage of
+great wisdom, I shall be born as Krsna — the
+son of Devaki and Vasudeva.
+deri ai wares SRAM aaa
+det wai tires Renta aera col
+During that time, you will approach me
+and then remind me on the issue. I shall
+make you fully endowed with the art of
+music.
+data ad ta cenhrada
+RICCO SCIP MECULCC CUCL ORAS
+freraca serarategercaacetad |
+oat GA: wordy ctorareraeae: WE
+tafedaagra: Tatreonyferd: |
+wre Ftcid arate: 123
+I shall make you then equal to Tumburu
+or could be ever better than him. Till then,
+you practice and teach this art with the gods
+and the Gandharvas.” After thus speaking,
+lord Visnu disappeared from that place.
+Thereafter, the divine sage of high
+refulgence, was devoted to Vasudeva.
+Thereafter, adorned with all the ornaments,
+
+## Page 17
+
+Chapter-3
+
+being the store house of the tapas, Narada
+was engrossed in playing over his lute.
+
+whe forrsitreara adciteiaanr a: |
+
+aren areas Baa AN Cx I
+
+aed a aed dae wea enffer
+
+TRA eft aeratorareforsan: 1144
+
+With his lute resting over his shoulders, the
+
+righteous sage wandered in the entire universe,
+including the worlds of Varuna, Yama, Agni,
+Indra, Kubera, Vayu and Isa. The sage who
+was well-versed in playing on the vind,
+singing in praise of lord Visnu, visited the
+assemblies of these guardians of quarters.
+
+Tivatarei da: Weare: |
+
+were ara Hfcafercnrer rsa cg I
+
+wlerega tieral aitcrarerfereect |
+
+wen aera feet Fret tection
+
+wa apa Area Ta eh TL
+
+we a Hee: yf Grae: ee
+
+The Gandharvas worshipped Narada
+everywhere, besides the Apsards. On
+reaching the world of Brahma, he found there
+the Gandharvas— Haha and Haha, who were
+already present there and were well-versed in
+the art of vocal and instrumental music. The
+celestial Gandharvas were the bards of
+Brahma. In their presence, Narada — the
+excellent sage, sang in praise of lord Visnu
+and was exceedingly honoured by Visnu.
+
+i ory aera adeteahrare
+aR a aH MAT HY ARENT
+
+After bowing down to Brahma, the
+Grandsire of the world, Narada then
+wandered the world over as he pleases.
+
+Wa: HIea Hea Te wey a Ga: |
+SATA AACA PTAA ATP: Sot
+
+|
+
+15
+
+After the lapse of a long time, the sage
+again went to the abode of Tumburu,
+carrying his vind with him. Taking his seat
+there, he began to sing.
+
+HT TAM: VESTN: AA A ACM: |
+wiem wrarger brits Taos 8 Nl
+
+On observing the seven notes, Sadja etc.
+
+stationed there, the saintly lord departed from
+there hurriedly.
+
+Rrerarara Sereda Ta Aer: |
+ara Saw ARS AVTPA: usa
+The learned sage of the great intellect
+taught this art in different place. By doing so,
+the sage felt exhausted, with the exercise.
+
+AACR: Wa MAferenfayMee: |
+ardtgten aarary a areas: wafet 33 U1
+Though he had been an expert in the
+
+science of music, he sat staring at the
+presiding goddesses of seven notes. But they
+did not descend over the lute strings while he
+played upon them.
+
+aed tach qt wftroca Henge: 1
+
+faarraaatd q aadlt g aq Tass
+
+aR afd TTT
+
+THM WEA HN: We Tara AAT ga
+
+Thereafter, on the peak of the mountain
+
+Raivataka, the great sage bowed down to lord
+Sti Krsna and told him about what Narayana
+in the Svetadvipa had told him formerly in
+respect of the excellence of the art of music.
+On hearing this, Krsna spoke to Jambavati,
+smilingly with jealousy.
+
+ud afrat ag freee aenfate
+
+Saar aaepacat a AT SET SEN
+
+yeddt aerari ferred f ahr
+
+Ta: Pace Fol TANT ATTA SOI
+
+## Page 18
+
+16
+
+fire GATE A BA: |
+ae waters Rrarrea aenfatfa ect
+Sti Krsna said- “O gentle lady, teach this
+
+excellent sage, the art of playing on lute in
+accordance with the provision of the
+scriptures.” She replied with a smile— “As
+you say.” Then she taught Narada whatever
+was known to her. After a year, Narada
+approached Visnu once again, bowed down
+to him and stood in front of him. Sri Krsna
+then said— “You go to Satya (Satyabhama)
+and receive further training.”
+
+aaa aera wforacsr ort APA: 1
+
+car a Perfereh forary Te acet TA: es
+
+argeatreisel efaroitaed Ta: |
+
+separate area ATA: 18 00 It
+
+selsal arrarifa a cat afer a Aer
+
+Ta: AAT ASAT ARRATTATTN 8 Ul
+
+Rafircitat cer Soar efreent set APA: |
+
+Ta: CRIT: wes TAA AEA RoW
+
+Narada said— “As you say.” Then he
+
+bowed down to the lord and started singing.
+The great sage was also trained by her. After
+completion of a year, the sage went to the
+abode of Rukmini at the advice of lord
+Visnu. The excellent sage was addressed by
+the ladies and the maid servants— “Though
+you have been singing for a long time, you
+still do not understand the notes properly.”
+Then with great efforts, the sage Narada was
+somehow trained by Rukmini, the gracious
+lady for a period of three years. Thereafter,
+the sage sang before the presiding ladies of
+the svaras and attained harmonious blend
+with the strings.
+
+SR PON ATA AAAS HTT!
+afer AAP TATA 8 03 Ul
+
+Linga Mahapurana
+
+Then lord Krsna, the incomprehensible
+soul, himself called the great sage and taught
+him the excellent art of music.
+
+aeatsferrerarcre ard Praea: |
+adit aad 2afe: wforacs SATETTIg o¥ I
+Thereafter, the sage Narada, surpassed the
+sage Tumburu. The divine sage Narada,
+thereafter, danced with joy, bowing to lord
+Visnu with respect.
+sara a eat: WAM ATTA!
+WERT TAA TPTea AT APAETT NOG
+Lord Visnu then laughed and said— “O
+great sage, you have now attained the perfect
+knowledge. Having been equipped with the
+perfect knowledge pretty well, you now sing
+in my presence.”
+werd wiiad wri AH cits ata a
+fart qareon aed Teea | Bea AT ROK Ht
+ware) afreda aera Ta a: |
+FE PPR PON Ss YSTATTHA oll
+wer ort eteTeT
+Peimragea 31
+
+efron ae AT
+I ATA ATAPI
+par a qa afronfafame: |
+
+wa at aprenden: whet tito AA: 11808 11
+When thus urged by Visnu, Narada, acted
+
+accordingly. When Krsna adored Rudra — the
+leader of the worlds, the sage sang in praise
+of Siva at the behest of lord Visnu. He sang
+in association of Satya, Jambavati and
+Rukmini as well as Krsna. O excellent king,
+Narada, by this time, had become an expert
+on the seven primary notes of music.
+
+Te arcane TAT ye TT
+
+S: Tere ce she TAT
+
+## Page 19
+
+Chapter-4
+
+arn Teh Tester fe |
+
+weLO FAR ATA SATS ATTA: 118 8 Ul
+
+TR quderaTeta THs TE Ferg: Vy
+
+O leading sages, a Brahmana, who sings
+
+the glory of Vasudeva appropriately, surely
+attains the world of Visnu. One who sings in
+praise of Rudra, will be more excellent,
+otherwise, he is sure to fall in the hell. A
+person, singing in praise of any one else, will
+soon fall in the hell. One who is mentally
+devoted to Visnu, besides physically as well,
+who sings him and the one who hears his
+glory, attains him ultimately. Therefore,
+everyone is aware of his being the greatest
+lord.
+
+fet atferrerqan sa dureritacKert aT
+qittsera: ug
+
+bd
+
+17
+
+## Page 20
+
+Chapter-4
+
+aqetseqra:
+Chapter 4
+Story of the devotee of Visnu
+
+RI HF:
+dora sf a iret areaReTM: |
+orf faerha asi 3 cat gfe era
+Ris said—
+
+“O sage with excellent wisdom, what are
+the symptoms of the devotees dedicated to
+Visnu?
+
+ter ot fer HATS TTA TATE: |
+UR adaraaa ae Tateffertau
+
+You are excellent in knowing the
+
+meanings of all the scriptures. O Sita, what
+
+17
+
+does the lord, who is the protector of all the
+living beings, do for his devotees?”
+Wa sara
+sata a yet arhesa: qu APA:
+ae ae whe ase Berta I
+Sdta said—
+
+In earlier times, the king Ambarisa had
+questioned the sage Markandeya on this
+subject and the reply that was given by the
+sage to the king, is going to be repeated to
+you by me.
+
+arhvsy Sart
+Ty waar sat cat Uys
+Tare froprErd aa ana: fea: us
+Markandeya said—
+Listen, O king, the question put up to me
+by you is quite judicious. Narayana remains
+present at the abode of his devotees.
+
+fama fe ada asi a tac aya
+atcian wd fied dat wer aay
+Visnu remains present at the place
+wherever his image is lodged. One feels
+thrilled by worshipping the image of Visnu,
+besides offering prayer to him.
+
+wa: aera Grad Gerfaaa: |
+froyferarper, sitcedractary ig tt
+Wat wala at ger dort sdtvatiaa: |
+Arrearage aera erase wit
+
+The body starts shaking. One perspires
+and the tears flow from his eyes. A person
+who feels delighted at the sight of the
+devotee of Visnu or those devotees of Visnu
+who are dressed in their traditional dress
+besides their performance, he is known as
+Vaisnava. A true Vaisnava does not wear the
+costume which are absolutely necessary for
+
+## Page 21
+
+18
+
+the protection of his body.
+
+froyronaraid at ger aaparera: |
+wont eed aged ae aem ci
+
+Finding a Visnu’s devotee approaching a
+Vaisnava, if he offers his salutation to him
+while standing, then he is considered to be a
+true Vaisnava.
+
+a4 we gfe aa: 6 eh ST
+werent qoad cat APTA: ne Ht
+word aie a a aeeonal fe a:
+Teper ae farce at fe aTeAT Noll
+R: adfinied acarat dora: aya:
+
+He should be conceived in the form of a
+devotee of Visnu and one who does so, he is
+always victorious in the three worlds. One
+who after listening to the harsh words, does
+not lose his calm and the one who makes use
+of fragrance of flowers efc., taking them to
+be the grace of lord Visnu, he should be
+treated as a true Vaisnava.
+
+fasqaa yata Hata AeazA ust
+wha 4 Ret Wear!
+fasyte: a fara: afer are PRT gz
+ARPT fred aerartadt fe a:
+ase ae seers AAT AUB
+
+In the auspicious range of lord Visnu,
+whosoever performs the noble deeds,
+lovingly, he is known as a Vaisnava. A
+person, who with an  auspiciousness,
+worships the image of lord Visnu and who
+accepts food as per his own means, he would
+be known as a devotee of Visnu.
+
+froprees a aa sara fe Head!
+arr farsa WATE: 1 gyi
+
+A person who gives in charity as per his
+means and adores the other devotees of
+
+Liga Mahapurana
+
+Visnu according to his ability, he is known as
+a true Vaisnava.
+
+arte Tatred TAA A NA:
+
+wardarefa faarcat att afar arta: 1411
+
+Aes Tes FETAL HATTA: |
+
+In case, a true devotee of Visnu accepts
+
+the food with a delightful heart, the same
+food surely goes into the mouth of lord
+Visnu. Visnu happens to be a universal soul
+and is quite dear to his devotees.
+
+age Gea dod arefeferrqn ge I
+carte stared aif wforaca serra
+gen fe rad freprees Sta VM
+ger aast a re dend crafters
+sears wratfersfeat FAP PTASAALI RCH
+Tees agar Sera aopaAR: |
+
+a aa fasparted ars araf fram g¢
+seTEaSaAN fropret farerera i
+faoprEacan vara) fate
+BETSY ae THe A MA Wl
+wea ders att eererenfy at
+psteadaets aferrarefepea 28 it
+
+He, in fact, gets pleased with his own
+worship only when he finds that his devotee
+is similarly worshipped. Looking at the
+devotees dedicated to Visnu and the one who
+had burnt out his sins, even the gods are
+afraid of him. They leave him offering their
+salutation to him in their own way. Now you
+listen to an ancient event relating to the
+influence of lord Visnu. The son of Bhrgu
+was a devotee of Visnu. Meeting him, Yama
+— the god of death, got up and offered his
+salutation to him with folded hands.
+Therefore, the humans should worship the
+devotees of lord Visnu like Visnu himself.
+Such a person achieves proximity of lord
+
+## Page 22
+
+Chapter-5
+
+Visnu. There is nothing to be thought about
+it. The devotee of Visnu are a special entity
+as compared to the other devotees. A devotee
+of Siva is better than the devotee of Visnu.
+There is no other devotee in the world as
+compared to the devotee of Siva. Therefore,
+the devotees of Siva and Visnu should be
+worshipped making all the efforts for the
+achieving dharma, artha, kama and moksa.
+
+fa tage sae farspsrened a
+
+adaitseara: st
+
+Bd
+
+19
+
+## Page 23
+
+Chapter-5
+
+Waris ear:
+Chapter 5
+The story of Srimati
+
+TT BA:
+dearpiataH f arqeanrr: |
+urerare gfe frontage: AE 8 HI
+The Rsis said—
+The king Ambarisa of the Iksavaku
+dynasty was once ruling the earth. He was
+dedicated to lord Vasudeva.
+
+qarrerge ard THETA
+
+fret Tea Rae RPT aTeHAU I
+Sethe gaa cites enffrarer Heer: |
+satrer aft aad fs MAAN
+Heed a weary
+Sara TTA: Fel TH THETA SU
+
+He always followed the command of lord
+Visnu. O extremely wise Sata, we have learnt
+about him in brief. But you kindly speak out
+the relevant story to us in detail. Who is the
+
+19
+
+one in the world, who can always get himself
+relieved of the cakra of Visnu as an enemy,
+the ailments as well as the danger, always?
+You kindly speak out the story of the
+religious-minded king Ambarisa. O Sita, we
+would listen about his greatness, his
+competence and the excellent type of
+devotion. You kindly narrate the same.
+ae sara
+gaat aPenorattd wear ater: 1
+stators arerest aataraet TAG HL
+frrgicfan srat aetcerorenfira |
+aetna sertt Fred sibreraPararig
+Sita said—
+
+O excellent sages, you listen to the story
+of the religious-minded king, which relieves
+one of all his sins. The loving mother of
+Triganku was the mother of Ambarisa, who
+was quite auspicious and possessed of all the
+noble symptoms.
+
+afigreaarsé verter
+AT AEA TANVS HATA Ul
+TAR HACE TA HAHTISSTH |
+wea ade fay adtarreRAAIC I
+arden act arg errata: |
+aerate wal Teas Il
+rienfetaoi da yogeateeh ca
+erent efaat Tad Tago lt
+aeaiqanifasr waaita dan Al
+WN waradt Fea ara areata F211
+araeta aT Pret arraron aferarat
+eeraqeeenfer Teo 8 3H
+ardamra fad terqearfefiy: Fa: |
+
+She was known by the name of Padmavati.
+She was worshipped by all the gods in
+yoganidra, emerging of Kalarudra from tamas
+
+## Page 24
+
+20
+
+and the golden egg from rajas. She always
+adored lord Visnu with her speech, mind and
+body, besides her activities who lay in her
+slumber on the conch of the serpent Sega, who
+was the sources of origin of the cosmic egg,
+who was called as Kalarudra because of his
+tamas quality, who is known as the golden egg
+in view of his rajas quality and who is Visnu,
+the omnipresent lord bowed to by all the
+Devas in the Sattva quality. She worshipped
+the lord mentally, physically and verbally. She
+wreathed the garlands herself and offered
+them to the lord. She offered the fragrance etc.
+with paste, incense and other articles, scrubbed
+and smeared the ground and cooked Aavyas all
+by herself. The chaste lady continuously
+uttered the name of Narayana, Ananta etc.
+with her internal conscience. Devoted to him,
+the pure queen, worshipped Visnu for ten
+thousand years with fragrant flowers etc.
+
+Paro rerrerariy aa ara ferat star 83 Hl
+
+arated ectadtead |
+
+aa: Halface tet great aya Su gsi
+
+Be FEAT Pa AT BEI
+
+TA ARTA SHATATS TESTA: 14
+
+She also worshipped the highly blessed
+
+devotees of Visnu, devoid of all the sins, by
+giving away charitable gifts to them and by
+honouring them with jewels and riches. Once
+the blessed lady had concluded her fast on
+the Dvadasi day and was sleeping in front of
+lord Visnu, together with her husband, at that
+point of time, lord Purusottama spoke to her.
+
+feftrafe at ue aed ofe nf
+
+MT aK aa VA A dora} wa GH
+
+ardsiltt wena: canta: ata:
+
+aaeper cal ae) Hersh SATEA: 11g
+
+“O gentle lady, O lustrous one, tell me,
+
+Linga Mahapurana
+
+what boon would you seek from me?” On
+finding the lord so generous, she replied~
+“Let my son be a great Vaisnava and be an
+emperor of great refulgence, besides being
+pure and devoted to his duties.” Visnu said—
+“Be it so.”
+
+a wget wei get wat ae =A
+TATA Tel thet AGAPTATIRS
+Then he gave her a fruit. On waking up,
+she found the fruit and gave it away to her
+husband. She then narrated the dream to her
+husband and he consumed the fruit.
+Wa: Brest A Vat Ys Pefaraehy
+AYA A AA AA TARTTTN 83
+qu iast aaRifs '
+sat ger fren oat fen: aafaare A zon
+In due course of time, she gave birth to a
+son, who was destined to make the family
+flourish. He was devoted to Vasudeva. He
+maintained excellent conduct. He was richly
+endowed with good conduct and had curly
+hair resembling the wheels. At the birth of
+his son, the father performed the holy rites.
+stats sft ead cis way: |
+faretard sttaratiret serge: ue
+Afrarera wet a Ty Se A A:
+dared 3 TARE WLU
+The son was well-known in the world by
+the name of Ambarisa. After the death of his
+father, Ambarisa was crowned as the king.
+He entrusted the kingdom to his ministers
+and became a sage. He worshipped lord
+Narayana for a thousand years.
+
+eeueteneaed ylavsceta: |
+
+wget ws 3 Ul
+VWauisaehrd watamprancra 7 |
+wale Aaa WPL IE
+
+## Page 25
+
+Chapter-5
+
+stavcaed td ged Geary
+
+act resaree Tata PEA: UG II
+
+arm a frat adeitentrepa: |
+
+Wadhrafacet gear a Tes SEEM
+
+ered Yon gare FTAA!
+
+galsentea ug 3 fen carl ae 7 Anon
+
+adcithantsé wai tig GTI: |
+
+He meditated on lord Purusottama saying
+
+that he is stationed in the centre of the lotus
+of the cavity of his heart, coming there from
+the middle of the solar sphere and in his four
+arms, he held conch, discus, iron club and the
+lotus. He is as resplendent as the pure gold.
+He is identical with Brahma, Visnu and Siva.
+The lord is adored with all the ornaments and
+wears the yellow robes. The lord has a
+Srivatsa embossed over his chest. Lord Visnu
+is the universal soul and is worshipped by all
+the gods. He is adored by the worlds. He
+made Garuda resembles Airavata with
+unimaginable splendour and then rode on it.
+Seating on it, he arrived at the place of
+penance, in the guise of Indra and then spoke
+to the excellent king— “Welfare unto you. I
+am Indra. What boon shall I grant to you. I
+am the lord of the three worlds. I have come
+down to help you.”
+
+state sary
+are warafirdiers ay anfeerranfean Rc it
+wan od a Tenth es Wo ATTA
+AR ae arene TATA Sere RS
+Teds APRA FH afefacitary!
+Aa: WERT PTA CASTRATE 1130 Ul
+Ambarisa said—
+
+I did not meditate on you during the
+penance, nor do I expect anything from you.
+O Indra, you can return with comfort. My
+
+21
+
+lord is Narayana and I bow down to him.
+You can go back. O Indra, you should not do
+anything that distract my mind from Visnu.
+Thereafter, lord Visnu smiled and reverted to
+his own original form.
+
+Mya URS SATA: |
+
+reste wate erat FATA: 138
+
+taieddds eam: wid: |
+
+wes aa aqeeEa TRESTATATU RI
+
+Visnu — the universal soul, like another
+
+mountain on Garuda, held a sword, a Saniga
+bow, the iron club and the discus in his four
+arms. He was eulogised by the Devas and the
+Gandharvas around him. The delighted king
+then bowed in reverence to the Garuda-
+bannered lord.
+
+wate citer aa are sea
+
+pony ferent sera aaetaarepA a3 It
+
+weaned: Yea: WY: |
+
+aah fayfaspifae: arte: Wax I
+
+Tea AeA Ye: GTA: GT: |
+
+MAME: HUH TA CHAS: WABAN 3G
+
+anfeta: farang: cerca faa: |
+
+wat weitfer fag sa tafeier
+
+we Fa STATA US Ai TERTET TN RE
+
+arn Titrearen A cata ei AA
+
+He said~ “O Lokanatha, you are my
+
+master, Janardana, Sri Krsna, Visnu and
+Jagannatha. You are adored by all the worlds.
+You are eternal, primordial, beyond measure,
+Purusa, lord beyond comparison, all
+pervading, Visnu, Govinda, having lotus like
+eyes and have been born out of the body of
+MaheSvara. A lotus emerged out of your
+navel. You pervade in the sky. You are the
+carrier of the heart. You are the wind. You
+delight yourself in the auspicious activities.
+
+## Page 26
+
+22
+
+You are the soul who is lodged in the
+supreme soul. You are Govinda, son of
+Devaki, Jagannatha, the lotus-eyed one,
+victory to you. Be pleased with me. I take
+refuge in you. Protect me. There is no other
+go for me except you. You are my only
+refuge.”
+aa sara
+ware Traraeq: far a ate faethe ge
+aced a sere sretfa aa gaat
+abetrasé wad were firerta: 1321
+Sata said-
+
+Thereafter, lord Visnu said to Ambarisa—
+“What is the desire growing in your mind? O
+excellent one, you happen to be my devotee.
+I shall bestow everything on you. I am
+pleased with your devotion. You are my
+devotee. I love the devotion. Therefore, I
+have arrived here to bestow everything on
+you, whatever is desired by you.”
+stants sara
+
+carte werig fret 4 ade ata: |
+argent fred angst thr: 138 1
+aan wa Pa VATA ATE: |
+ae ward font da ta SATAN Not
+mreafrents yfrat pra a dent STG
+aaerrediaa atantty qa ee it
+aorarrateants treet war!
+cima vita sft A era afar usan
+Ambarisa said—
+
+“O lord of the world, O blissful one, there
+is only one idea in my mind that you being
+the great soul, the one who is dedicated to
+lord Siva, similarly, I should be devoted to
+you as my lord. O lord, I shall rule the earth
+as your Vaisnava devotee and shall please all
+the gods with the performing of yajfias,
+
+Linga Mahdpurana
+
+hhomas and adoration. I shall look after the
+Vaisnavas, destroying the enemies as well. I
+am influenced with the misdeeds in the
+world. Therefore, let my mind always remain
+devoted to you.”
+
+siterraryara
+TaHe was A EAT
+We eared asi A gel FATIH
+sehrmnfes g2¢a waite gem
+Prefrata & Araficqacatacetaan ye
+Lord Visnu said—
+
+“Things will happen as desired by you. I
+had received this Sudarsana cakra by the
+grace of Siva. It always destroys the curses
+pronounced by the Rsis, besides the ailments
+and miseries.” Thus speaking, lord Visnu
+disappeared from the scene.
+
+Wa sara
+Ta: wor Afeal Ten aay WTA
+yiaea art carrteat Te ATET ATI SG I
+ments ania wearers
+Aree Fred Fam pE HTT SE IT
+Trerarare caren faster safe: |
+aateeratien arsrtaat Awol
+mera oferat array |
+Wee efter aaah yey xe
+arat eda agetreata a1
+araqnde afer aed weet ys Ut
+area aro *yfert efranfefirear |
+A: wet Fret GafagaatsM: Wyo lt
+
+Stta said—
+
+The king then offered his salutation
+towards the direction in which lord Visnu
+had gone. Thereafter, the king getting
+extremely delighted, returned to the city of
+Ayodhya and started ruling there. He made
+
+## Page 27
+
+Chapter-5
+
+the Brahmanas and the people of other castes
+to perform their respective duties. The king
+was dedicated to lord Visnu. He, getting
+pleased, protected the Vaisnavas. He
+performed a hundred Asvamedha and a
+hundred Véajapeya sacrifices and ruled the
+earth surrounded by the oceans. Visnu was
+established in each one of the house in
+Ayodhya. The sound of the reciting of the
+Vedic hymns echoed from each one of the
+houses. The reciting of the names of the lord
+could be heard, with the performing of the
+yajias. During the time of the rule of
+Ambarisa, the land was never infertile or
+unproductive. There were no famines in the
+state. The people were free from passions,
+conflicts and jealousy.
+
+aah Herts: crear AAT
+aebdadarrer Ba HATA GS I
+stent aa fare ater
+Wes WaT SaATTT MATING TH
+The immensely illustrious Ambarisa ruled
+the earth with compassion. The said king was
+blessed with a daughter having lotus like
+eyes and who resembled yogamdya in
+beauty. She was given the name of Srimati.
+In due course of time, she attained the
+marriageable age.
+aferrrre ar: stares errata
+sates taht 3 oar FeTaRa: 43
+By about the same time, Narada and
+Parvata — the two great Rs/s, reached the
+palace of Ambarisa.
+
+arararrd ger wferaca enter
+eA He: FSA ATT GS
+At the arrival of both of them, the king
+
+Ambarisa welcomed them, adoring them at
+the same time.
+
+23
+
+rea a ra S AeA ESET
+
+wre ai Rem wrararee: PST ETT Y
+
+dhe TST HM ALATA!
+
+gfe wiyat te aaa 4g
+
+Narada, viewing the girl, who resembled
+
+like lightning in the clouds, asked the king-
+“O king, who is this girl resembling the
+divine damsels. O king, you are foremost of
+all the religious-minded people, you tell me
+
+about this girl who possesses all the
+auspicious symbols.
+uRitara
+
+feed aa fast sitadt ara area: |
+
+WAT We STATA WATUGOI
+
+egal aPrendererteoarel fest: 1
+
+ada area a aad area yen
+The king replied—
+
+“This is my daughter known as Srimati
+and has reached the marriageable age. I am in
+search for a groom for her.” Hearing the
+words of the king, Narada expressed his
+desire to have the girl. At the same time,
+Parvata also desired to possess the same girl.
+
+SMe aT Ua Ae) aA!
+were rater ar af Aaa UGs
+ada fe aen wre werd taf WY: 1
+aryl we eater whoraer warfea: G01
+ut cae eal A wefart wei aE
+apftontty Terma TOY ARS A Tag RI
+wa aude A ore qu] cea aaa
+wat Goateh aefreatr Pag ATNE
+et arat wereonty
+
+aren fete A
+aa Tat yA:
+
+MD arera eft FA ENG
+
+## Page 28
+
+24
+
+Fern ariel wag: sift
+aga femal aafaciatnest
+
+The saintly Narada, took the king in
+seclusion and said to him— “You give me this
+girl.” On the other hand, Parvata also drew
+the king in a lonely place and expressed the
+same desire as had been done by Narada.
+Then the religious-minded king, felt panicky
+and he, offering his salutation to both of
+them, said— “Both of you are desirous of
+getting my daughter, but how can I do so? O
+intellectual Narada and lord Parvata, this girl
+will accept either one of you. I shall give
+away in marriage my daughter to the one
+who is acceptable to her. Otherwise, I am
+helpless.” At these words of the king, both of
+them said— “Let it be like this. Both of us
+shall come tomorrow again.” Parvata also
+spoke similarly. Thus speaking, both the
+ascetics, who were immensely devoted to
+Visnu and were the foremost among the
+intellectuals, felt delighted.
+
+fais at aan aKa) Pra: |
+wires eatthe areas TG I
+First of all, Narada ~ the best of Rs/s then
+
+went to Visnuloka, offered his salutation to
+lord Visnu and said to him.
+
+sitrorafet WaT ART WT
+
+eta wai waeanft THEA TAA ATN EE
+wa: yees Tifa: watgrart d arr
+qgtens a fearon aPrre a Herr goll
+wadkh qafa: sitariadtal aetafa: 1
+
+wea eer faemenalt sitet arr APTA: GC 1
+aftaquaraa tits oad IYI
+
+uddtsa afi: sitareraryer STA Pater: 188 tt
+apace wraararare safe: 1
+
+sath Tents: Bt FaataTA N90
+
+Linga Muhapurana
+
+mare qureane wet eerste!
+
+FMA TIAA TACT STEAMTA: M198 tl
+
+arnfrentiy a ws va: were We festa
+
+arraté sora Berets F frag
+
+arrrraaitd Tate PS AAT
+
+eat He TTT A Aheeals Frag
+
+waa a Mfese: WeeT ATTA: |
+
+wade a afhtentt res dhe aera iox
+
+waa qe: wri SAT
+
+TRAM: Pa TaASa eal SATA Gi: 94,
+
+“O Jagannatha, O Narayana, I would like
+
+to speak out something to you in seclusion. O
+lord of the universe, you make the face of
+Parvata like a monkey. You do it like that.”
+Then lord Visnu, the universal soul,
+smilingly said to the sage— “You better speak
+out plainly.” At this, Narada said to him-
+“The king Ambarisa, who is quite graceful,
+happens to be your devotee. He has a
+daughter named Srimati with wide eyes. I
+had gone to him with a desire to marry the
+girl. Now you listen to my words. The Rsi
+known as Parvata is also your devotee. He is
+also desirous of the same girl. The king
+Ambarisa had declared that he would give
+the girl in marriage to the one who is
+accepted by her as more beautiful than the
+other. Then both of us agreed to the proposal
+of the king and I have now arrived here. I
+shall go to that place again tomorrow
+morning. O Jagannatha, you kindly do
+whatever is suitable for me and is desirable
+as well.” At the words thus spoken by
+Narada, Govinda — lord Madhusidana, spoke
+out smilingly— “I shall do as has been desired
+by you. You can now return, O charming
+one.” At these words of lord Visnu, Narada
+felt delighted. Then he, offering salutation to
+
+## Page 29
+
+Chapter-5
+
+lord Visnu, returned to Ayodhya, thinking of
+having achieved success.
+
+ma afrat afeardatsha aera: |
+WAR Heed TE WRT SIG I
+After the departure of Narada, Parvata —
+the great sage, also arrived there.
+
+ad 7 Fratem anger serra: |
+Tage seqe nfs cent Feu
+
+He also offered his salutation to lord
+Visnu and then whispered in the ears of the
+lord at a lonely place—- “O universal soul,
+kindly so make the face of Narada to look
+like a black baboon.”
+
+Tegra wraaapaie a pet a
+Tres vireo areadtaheees aici
+waa A difad aa aaa SETA F: |
+ae Ton Bara ret rat TatuN9s 1
+aigedfafad: aatraeat eaaaferitq
+weana Pia asda waa: coll
+On hearing this, lord Visnu said— “T shall
+act as per your desire. You atonce go to
+Ayodhya. It will be done as per your wish,
+but don’t disclose the talk that has transpired
+between me and yourself to Narada.” Thus
+speaking, the sage also left the place.
+Learning about the arrival of both the sages
+in Ayodhya, the king decorated the city with
+flags, banners, flowers and the fried paddy.
+asgfrereent frororrerean!
+feorieettai qftai orgs: 2g
+pear a eR Us Asa a BAT!
+feohfdaen 9a wis fafateremica
+The front doors of the houses were
+sprinkled with waters. The roads and markets
+were very well decorated after sprinkling
+water. The divine incense, fragrance and the
+gems were used in the decoration of the city
+
+25
+
+of Ayodhya.
+
+aia atired tatrreaaen trary
+queaferunrdticed igre ary c3 it
+
+The pillars were made of gems, which
+were decorated with the garlands of various
+flowers. The divine seats were also arranged.
+
+pen Teen wai aes faa ze!
+wahrordcal sttarracirarpics i
+
+After making all these arrangements, the
+king took the girl with him and entered the
+hall. She was richly adorned with all the
+ornaments. She appeared like Sri Laksmt
+with her beautiful eyes.
+
+eufimreng! wafere Para
+aft: aftgai feort stadt afirat gat cy
+
+Her waist was so slender that it could be
+measured with a single hand. Her five limbs
+were smooth and glossy. Her face was
+remarkably splendid. She was divinely
+resplendent. Such a graceful Srimati entered
+the hall surrounded by the ladies.
+
+aN a A Id: VST
+afircrarrrctaat
+RATT HAA TTS
+TT ETT: CE HI
+The royal assembly hall was richly
+decorated with charming jewels and excellent
+gems of various types. All the seats were
+decently arranged in which garlands and
+festoons were neatly tied. The elite of the
+society were present and were shining there
+with brilliance.
+
+Ba wer FE
+Deafaed wart
+
+aud wafaci after
+Tehri srr cell
+
+## Page 30
+
+26
+
+The noble son of Brahma (Narada), the
+saintly lord of the great soul and the most
+excellent of those who know Brahman, well-
+versed in the three lores, arrived there with
+Parvata.
+
+rare alee To Gaia: |
+feerarerrarerat Wen argu ce
+Finding the arrival of both of them, the
+king was extremely upset in his mind. He
+offered elegant seats to both of them, besides
+worshipping them.
+sul Qafeftal argu arafaciad
+ward wera are aPreraati cs
+Both of them were the great Siddhas,
+besides being the divine sages. Both of them
+were excellent among those who possessed
+perfect knowledge. The noble souls, who
+were excellent sages, seated themselves and
+waited for the girls.
+
+cat wird aa at stat ear
+Oat Brera wre TT BAT TAHT Il
+At the outset, the king bowed down to
+both of them and then he addressed his
+
+beautiful daughter having eyes resembling
+petals of the lotus flower.
+
+arr at 48 Te cafe ata
+we} rents of wforacs aenfeftreg tt
+
+O gentle lady, offer this garland to one of
+these two sages bowing down to him
+properly, whosoever it may be, whom you
+mentally choose your bridegroom.
+
+Wy TM Sa Ch: aga ae
+ret fecorrel Fecarerara BAA TANS VU
+Tard werart darn fern gar
+Aaron Briss ang ude aeMNga
+warped Fer ane weet TAT
+
+Lifiga Mabapuraina
+
+Tiere et fafad arraaraa eeu
+Suir ta Warten AAT
+weet are tare acd fe ot afar sy,
+On being thus urged, the bride with
+splendid eyes, took up the divine gold
+garland in her arms. She, having been
+surrounded by the ladies in attendance,
+arrived at the place where the two noble
+sages were seated. After glancing at the
+excellent sages~ Parvata and Narada, she
+found that the faces of both of them were like
+monkeys. Finding the face of Golangila
+monkey, the girl got frightened a bit and
+excited in her mind. She stood there
+trembling like a palm tree leaf during the
+storm. The king then said to her- “O dear
+one, what are you going to do? You offer the
+garland to either of the two.”
+
+arrinageea ee arent qa
+ar re fereré ett gat it aearrtusen
+aise a aeanfa aRg welt Te
+arblerardtaasrater zn
+walsrordorraetera Fry |
+dhtard faenenel TATA TCI
+Veiftarefaitd coiaretcarrr|
+ATAHOTEL 8 Ul
+frrefradiers ahreregitert
+fewrianidtd TRATES WAL!
+WSR TH GEE TAT TIR 00 II
+qd weed veri fren ary
+datifeatincred HapeHerapAt: 1208
+edd Fi erates cfr a ward a1
+unfet Feerererey tar aeerPr BTTeTSTT HR OM
+avira wa Fae Haeitfira
+ferat are usta ad fer oa afteafa
+The frightened girl said to her father—
+
+## Page 31
+
+Chapter-5
+
+“Both of them are human apes. I, no where,
+finds the excellent sages either Narada or
+Parvata. But in between them, I found a
+handsome young man, who is less than
+sixteen years of age. He is richly adorned
+with all the ornaments. He has a complexion
+of A/asi flowers. He is elegant, has large eyes
+and possesses moon like lustre. His hips and
+neck are marked with lines. His eyes are
+large and reddish. He shines brilliantly with
+two remarkable eyebrows, resembling the
+bent bow. His clear-cut threefold curly hairs
+are manifest in his umbilical region. The
+belly too is quite splendid. He is clad in
+costumes of gold colour. His nails are raised
+up and resemble gems. His hands resemble
+the lotus flowers together with the face and
+the eyes. He has a charming nose. He has a
+lotus like heart and the navel also resembles
+the same. He possesses the glorious
+splendour. Looking at me, he is smiling with
+rows of teeth shining like the kunda flowers.
+He is standing spreading his right hand
+towards me. The hair over his head are
+beautiful. It is him alone that I can see.” The
+king then spoke to her while she stood there.
+Shaking like a plantain leaf with wavering
+mind, he said- “O dear one, what are you
+going to do?”
+Wah APA: we Ag: PMG Ta: |
+frat qeaeres, Ht ole Gera o¥
+At that point of time, Narada asked~ “O
+
+girl, how many hands he is having? Tell me
+correctly.”
+
+aresd a weardicne Hen afaferan
+WS Th TATRA TT SAT ETA BAN OG
+fe orate a A fe ae fe areata
+PRT TAS Aleti S TASMATTAATL 8 Of It
+
+27
+
+wate Ve Rt SL HATTHPL |
+
+wapel Ufrae) WERT TAH got!
+
+ara fariat at ares wea farsa
+
+Ararat Tend aa aA SEA: WR oct
+
+arnt 4 an pateerrerya fara
+
+Tarpercatierd Fararara ARE: 11808
+
+date aera awd sei AA
+
+watieta rar Faararateareaeit 80 tt
+
+At this, the bride with a pure smile said—
+
+“I see a pair of arms.” Parvata then asked
+her~ “O gentle lady, what do you see over his
+chest? Tell me, what do you see in his
+hands?” The bride then spoke to him- “I find
+a garland of five-fold in form over his chest.
+I find a bow and arrow in his hands. On being
+thus replied, the excellent sages glanced at
+each other and thought- “This is a deception
+of some one. He could be the wilder of Maya
+—lord Visnu himself. How can a new comer
+make our face like this in the manner that of
+Golangila monkey?” When thus spoken by
+Narada, Parvata too began to worry thus
+mentally— “How is it that I have attained the
+form of a monkey?”
+
+ait ton sonar ag wee cet
+
+vaeui fafitg aa ad afefarter gee
+eae wel fetat zen aenehgerct
+waral arate popaTecaait i gett
+vada He Hed arenfite Herer7!
+MARSA F aA AT FALUN RR3U
+Wa: TI Sea ys: whrretsearary
+Frararara farsa carted ams UR ee
+Pahoa |
+
+dtetare Qaere HorfcrrercreH TLR A
+yfacqed ger are vet <et fe aT!
+ariat fe OT HRM A eT Sh: TA RAH
+
+## Page 32
+
+28
+
+Then the king offered his salutation to
+both Narada and Parvata and said~ “What
+type of mental confuse in both of you have
+developed? Both of you should remain seated
+peacefully in case you need the hand of the
+girl.” When so addressed by the king, both
+the sages in anger uttered— “You display this
+type of Maya and befooled both of us in any
+way. Let the girl select either of us. Don't
+delay it.” Thereafter, the girl offering her
+salutation to her presiding deity, garlanded
+the body of a/as7 complexion, adorned with
+all the ornaments, having long arms and
+developed limbs, whose eyes were extending
+upto ears, spotted appropriately. Then, she
+handed over her garland to him. Thereafter,
+the princess could not be seen by anyone.
+
+adel ae: waa feaateta farerat
+AAT TH Fae: TALI FRATTA: 18 91
+qa cee areca aA!
+
+Ate A ACTA AT AA TAT TNS
+amas frends ftrecparaterg:fadt |
+aged whet dar rad St uggs
+
+Thereafter, a huge disturbance was
+created there. “What is all that has
+happened?” Both the sages were surprised.
+On the other hand, Visnu went to Visnuloka
+with the girl.” The lord for whom Srimati had
+worshipped earlier, was achieved by her. She
+was accompanied with Visnu. Both of them
+felt painful as well as humiliated. Feeling
+painful, they also went to Visnuloka.
+
+darn oieare stadt sraref: |
+ahiatet aera Raa Ang ol
+
+At the arrival of the sages, Visnu said to
+Srimati- “Both the great sages have arrived.
+You better hide yourself.”
+
+Linga Mah4purana
+aaa TA Vat vert aA SI
+ane: wirTeATT wre TATA TU RW
+She then said— “It will be done, as desired
+by you.” Then Narada, reaching before the
+lord Visnu, said to him.
+fri fe oor a i Theres fr
+wate i Mise Sai ai ear eezit
+“You have acted pleasantly for me and
+Parvata. O Govinda, you have actually
+kidnapped the girl.
+fatter wa gan yart aera
+eae: eR fq: frera strreaqa: 1
+Ufa we Fra vat Peat
+Overpowering both of us with illusion,
+you have cheated us.” At these words of both
+
+the sages, Visnu covered his ears with his
+hands— “What have both of you uttered?
+
+errant arate aPrafaet frat
+
+warped Af: we area TAG: WB
+
+aoite wa ae Teagerre fafa
+
+woe wes ares Ha AAT I
+
+ude wan faa WearayerTa Ta
+
+Fa wa Hd aa frenef aren feaferu 2 21
+
+Is the passionate conduct appropriate for
+
+the sages?” At these words of Visnu, both
+Narada and Parvata whispered in the ears of
+Visnu-— “How could my face be turned to that
+of a monkey?” Then the lord whispered in the
+ear of Narada~ “O intelligent Rsz I had
+turned your face like a monkey and that of
+Parvata as an ape.”
+
+uddisfa cen we wereld sg Hi: 1
+TUT STATA We STH Ta: 1k WI
+
+Parvata also whispered similarly and got a
+similar reply from Visnu. Then he spoke to
+both the Rsis.
+
+## Page 33
+
+Chapter-5
+
+Bri vesai eae, aera
+
+ane: wre erate strerettecta: feta: Wee
+
+STUYSS: HSA ai Eat Metal
+
+Tagen areata we ct Prva ees
+
+arnt aera aca: da wa: |
+
+wa aT str rage APTA R go
+
+amatird fet aqateftta fer: |
+
+ai cen teted 2 soca farted fe aq
+
+expel wftrocdtacad: siferaral
+
+ptsa Serer Fey ATT STATA RST
+
+drei aqaeda ari f& paarat
+
+FRR ARTETA aera 33
+
+ait ware waa
+
+ane: Udadta Berrerarftrerrat ng ax
+
+ag wae pai od Tara
+
+Aaa ceareat TA abirafareafern gay tt
+
+I speak out truly that I had done so for your
+
+benefit. Then the religious-minded Narada
+said— ‘Who was the carrier of bow standing in
+between both of us who kidnapped the girl.”
+Hearing this, lord Visnu said to the sages—
+“There are many sages possessing the illusion,
+but I am the one with four arms and a cakra in
+may hand. In the absence of Srimati from
+there, I did not want to carry her from that
+place. This is well known to you. At these
+words of Visnu, both the sages were delighted
+in their hearts. Then offering their salutation to
+Visnu, they said— “What is your fault in this
+case? This is the wickedness of the king. The
+girl was kidnapped at his command.” Thus
+speaking, both Narada and Parvata left the
+place. Reaching before Ambarisa, they
+pronounced a curse on him— “After inviting
+both of us there, you gave away the girl to
+someone else. Therefore, you will be attacked
+by darkness.
+
+29
+
+aera aeraet 7 areata
+
+Ua WM weet F Tapert: 183 11
+
+Wa via aaa feet: wee, aor!
+
+aopfaanfad AX argul war SATAN RVI
+
+Because of this, you would not be able to
+
+recognise yourself.” Thereafter, when the
+darkness attacked the king, then the cakra of
+Visnu appeared there for the protection of the
+king.
+
+aa: daeaatit aaa wert
+
+YAMA THT STATA RCM
+
+prafefceel ore araanteer afircit
+
+etareiteniratre eran rated eas
+
+safearetta sited areerait startet 1
+
+Peropeitas Teal WAT ART SATCTA HY ¥o Ht
+
+area este Ga VATE
+
+mrearai qrettenrar are sha Tea exe
+
+ad anrenfae stasatacaaisa: |
+
+Frared ae atc a TTT ASHTAATI ASAI
+
+sata Teel Great
+
+orrater a ae feet ref FATS ATR YBN
+
+EA TAA: AAT,
+
+Fra wereay at: |
+ware war fasq:
+UA AA Fe AA NVI
+The darkness and danger of cakra
+
+frightened both the sages and getting
+frightened, both the sages took to flight.
+Finding the cakra following behind, they
+shook with danger and started running.
+Finding the cakra following them and getting
+themselves covered with the heap of darkness
+while running forward, they uttered— “Both
+of us have achieved the Siddhi of the girl. We
+have got the girl.” They were terrified with
+danger; they returned and ran on earth
+
+## Page 34
+
+30
+
+surrounded with miserable condition and the
+mountains. They had been terribly frightened
+and were crying— “Save us, O Govinda, save
+us.” They reached first Visnuloka and cried—
+“OQ Narayana, O lord of the universe, O
+Vasudeva, O Janardana, O Hrsikesga, O
+Padmanabha, O Purusottama, you are our
+lord.” Then Narayana with a Srivatsa mark
+over his chest, for the benefit of the devotees,
+gracefully stopped cakra as well as the
+darkness and said— “Ambarisa happens to be
+my devotee, besides both these Rsis. Now, I
+shall act in a way which is beneficial to the
+king as well the sages. Then lord Visnu
+summoned them both and spoke to them—
+“Both of you should listen to my words.”
+
+sefrart 4 taretesen a aA
+ae are terre Sa TAT GA: 1G I
+afattrea Yaet AQ: Ya ARM: |
+sttrregred are wat safer eTfEren: 266 HL
+Wea: TH Waa FalrAez |
+aa A cfermt argehecit ar A TATU g wor
+WASH aa wera Valse AVM: BTA: |
+wa Fi ars Tsar TF fern gc il,
+afiatst a fecar caffe are 4 Tea: |
+Wage wh AR ARTE STATA SAYS I
+The curse pronounced by the sages cannot
+be otherwise, nor can the boon granted by me
+to the king be otherwise. The cakra had been
+given by me to the king for his protection.
+The king Ambarisa shall have an elder
+grandson known by the name of Daésaratha. I
+shall be born as Rama, his eldest son. Bharata
+would be my right hand, while Satrughna
+shall be my left hand. Sesa would be born as
+Laksmana. You should come to me then.
+Now you leave the king alone and by so
+doing, the heap of darkness would
+
+Liga Mahapurana
+
+disappear.” At these words of Visnu, the
+darkness disappeared and the cakra was held
+by Visnu in his hand as before. Then lord
+Visnu removed the heap of darkness, as a
+result of which he atonce disappeared.
+
+Frat ean aeargdatrsa
+
+Rae vearapal wits SATA RKO
+
+Fria sited Saget were
+
+aT Sera HATA LGR
+
+a after seqaca wit a ATTA |
+
+area wat aerge orafteritn e420
+
+With the stopping of the cakra, it became
+
+inactive. Both the sages got themselves
+relieved. Then offering their salutation to
+Visnu, feeling miserable, they said to each
+other— “Till our death, we shall accept no
+other girl.” With this resolve, both of them
+concentrated their minds again to the yogic
+practices.
+
+satus ust at afta a afer
+
+ayeafesiaal feria: sera An 243i
+
+arittatees ata apie: |
+
+WY arerefaefcan area aes aN Aa
+
+Waa cen aad yarn area: |
+
+arn a ral fasfaere: dea a ef
+
+are: udada fat an feratier
+
+Arai fatfattda earret apa: 14K I
+
+wats art ae Fen pera So
+
+sterthres treed Arner aS Se yoll
+
+a: wesyprey aratgify Ara: |
+
+Arai fargea qoarcen teeth a rarer R4e
+
+ed Ufa wed yo Ader
+
+ard oe: Wehr fan: arya
+
+After ruling the earth for long, the king
+
+Ambarisa together with his attendants and
+kins, went to the Visnuloka. In order to
+
+## Page 35
+
+Chapter-6
+
+honour the words of the sages as well as
+Ambarisa, Visnu was born on earth as the
+son of Dasaratha. Then Bhrgu and other
+sages came to Sri Rama and spoke to him—
+“The learned people should not indulge into
+Maya. After a long-time, both Narada and
+Parvata, experienced the Maya of Visnu and
+got themselves devoted to lord Siva. Thus, I
+have beautifully narrated the greatness of
+Ambarisa and the Mayd of Visnu to all of
+you. Whosoever shall read it or listen to it or
+recite it to others, he would be relieved of the
+Maya of Visnu and reach the place of Indra.
+One who would read the auspicious stories of
+the Vedas in the morning as well as in the
+evenings, he would achieve the closeness of
+Visnu.
+
+efa stferqrergay sR sitacareari AA
+Tes eas: NG I
+
+hd
+
+31
+
+## Page 36
+
+Chapter-6
+
+UBlseaa:
+
+Chapter 6
+The story of Alaksmi
+
+Na Sa:
+arnfacd ad frondataes era: |
+wet DASA ae aT STATA 8 Ul
+audfa areaeh citetor aaa: |
+The sages said—
+
+O Lomaharsana, the Mayd of intelligent
+Visnu — the lord of the Devas, has been
+listened to. How did Jyesthd ~ the deity of
+misfortune, originated from Visnu — the lord
+of the Devas? It would be in fitness of things
+in case you narrate the story about the same.
+
+31
+
+Wa sara
+smifehtea: atrene ARPT: WYN
+srragafitg ask Titer were: |
+
+aro ae aq rater A SATA 3
+
+Bri ven cen Sei TRE!
+Sareea Fea TIA NI
+arnt a Feds aT aHCTad
+AAA: FEA TATA TATA: 14 it
+wie a4 warerd seaeiereren: |
+peaterat fret TET OTN
+FUT TT aac Vast eft aa Ar
+aa: ta ayer van faopafiae: nt
+Sata said—
+
+In order to delude the universe, the
+glorious lord Visnu, who is without
+beginning or the end and is the lord of the
+universe, created the two-fold aspects of the
+universe. Visnu created one set consisting of
+the Brahmanas, Vedas, Vedic virtues, Padma
+and Sri Laksmi. The god of the great
+refulgence made another set comprising of
+Jyestha, Alaksmi, the base of me, excluded
+from the Vedic sphere as well as the sin. It
+was after creating Alaksmi at the outset that
+Visnu created Padma. Therefore, Alaksmi is
+Jyestha (the elder). O excellent Brahmanas,
+at the outcome of nectar soon after the
+terribly potent poison, the inauspicious
+Jyestha was born. It is so heard. Thereof, $i
+Padma was born, who subsequently became
+the wife of lord Visnu.
+
+Gael am faufteraa syst an
+
+Sasi ci uhquisal ara ates fetearc
+wiles Tae REIT Ta Te APTA
+afer at Sta RT A TAL IS
+aaiern fam aaqaenta a1
+eaifteh at artes aa TaATfeATILR ott
+
+## Page 37
+
+32
+Freres put dante TAA BART: |
+Sasa fae Ger FAS ASAP TA: gett
+Wa Be ad Teal TAN BATA: |
+AA Hear A arf Hea WHATS TM
+a aftenta sepa vicars a argfe: |
+SPIT: Wal aa Ariat Ar nazi
+Taraid Fear Ares aT AT |
+wires aera gee) APTA ge
+waa area 4 caren er
+
+fe awrite fart aan ae ara gy
+wfeentt cen pa pal a wierearer
+
+A Brahmanical sage Duhsaha married the
+inauspicious Jyestha after seeing her fully
+stabilised. Accompanied with her, the
+delighted sage wandered all round the world.
+O Brahmanas, wherever there was a loud
+chanting sounds of the names of Visnu and
+Siva — the great souls, wherever there was a
+loud sound of the Vedic hymns, wherever
+there was a big column of smoke from
+sacrifices and wherever there were people with
+their limbs smeared with ashes, the deity of
+misfortune was extremely frightened. She
+used to close her ears and eyes here and there.
+On seeing Jyestha thus behaving, Duhsaha
+became confused and bewildered.
+Accompanied by her, he went to the forest. In
+the terrible forest, he performed a great
+penance. The girl Jyestha roamed from house
+to house. The pious sage, who was a leading
+yogin, devoted to the yogic practices and
+possessed perfect wisdom, once saw the noble
+sage Markandeya, arriving in the forest.
+Bowing down to the great sage, he said to
+him-“‘O great sage, my wife does not pull on
+well with me in any way. O Brahmana Muni,
+what shall I do with this wife? Where should I
+enter and where should I not?”
+
+Linga Mahapurana
+
+ares sara
+TO, Grae Uda aretha aa gE I
+aeaikgqe ta ster gcafireesa
+ATTA Fa AAT TTATTT: 1 oH
+Markandeya said—
+
+“All such places. She would enter all such
+places, which are inauspicious and full of
+disrepute, Alaksmi, (misfortune), Atula
+(unbalanced) and Jyestha (the eldest). By no
+means should she enter the places of the
+noble souls who are devoted to Visnu
+following the Vedic path, as well as the
+devotees of Rudra having dusted and
+smeared their bodies with ashes.
+
+See FETA Teeeferaraaet: |
+‘feren aa sat Fred AT Fase: HASAN YC
+ara ester qoettaret Ara
+weg Mag area SATA SH
+
+Be vata vata frame a aa AA:
+
+wa: Rramerafa aga AAT Ro lt
+Herta Herta HeTeaha HIdaq
+
+sore: aad te fervTTTa Tae
+fewrared Gt Gaga AAT AA: |
+
+fee arerifaca areata a a SAT: RAH
+aettt Att CET MTT: eTATET AT |
+dean: ypia a faced Fai area!
+ama aa tity 7 faaten: Hers y3
+
+By no means should she enter the
+precincts of parks, cowpens, wealth and the
+abodes of such delighted Brahmanas,
+Ksatriyas, Vaisyas and Sadras, who offer
+prayer to Narayana, Hrsikesa, Pundarikaksa,
+Madhava, Acyuta, Ananta, Govinda,
+Vasudeva, Janardana, Rudra, devotees of
+Rudra, or the places of tapas for Siva or
+where salutation is offered to the auspicious
+
+## Page 38
+
+Chapter-6
+
+Siva, Mahadeva, salutation to the consort of
+Umi, to the lord of gold. Salutation to you
+with golden arms, salutation to bull-bannered
+lord, Narasithha, ‘Vamana, the
+incomprehensible one, O Mahadeva.
+
+serene a earleerahayy |
+
+am feroidtata cei sf Pern Vit
+
+Lord Visnu’s discus is quite terrible with
+
+cluster of flames and which resembles a
+thousand suns, dispel people’s
+inauspiciousness forever.
+
+waren area ye afer fe ada
+
+aise STATS ATTN ATA ATU RYU
+
+sera Fed Frerairrrn: |
+
+areas aa STAT TATTA TI FE Ut
+
+Avoid the house where there is Svahakara
+
+or Vasatkara and go elsewhere. Discard from
+a distance the places where there is a loud
+chanting of the Samana hymns and where the
+people are engrossed in chanting the Vedic
+hymns and where the people are engaged in
+repeating the Samana hymns, devoted to the
+rituals of their deity and the houses where the
+worshippers of Vasudeva are present.
+
+afta ye asi ferqrat ar yey a1
+
+argeaqaifa after as faster Wu
+
+ai aa a fecar adoraferaferart
+
+Premtitatdsetsite a Ae ae ze
+
+ar een aa UTA E288 TH ETAT
+
+ABN aE TA ACA SHATA: PATNI
+
+eorag peta Aired ay faastaa
+
+Avoid the persons or the houses where the
+
+holy Agni hotra is performed, where the /iriga
+is worshipped and the places where the
+images of Vasudeva and Candika are present.
+Avoid persons who are free from all the sins
+and move away from them. Avoid the
+
+33
+devotees of Mahesvara by means of
+obligatory and conditional yajfias. O
+
+Duhsdha, go elsewhere, where along with the
+lady, you must disown these persons by
+whom the Brahma well-versed in Srutis,
+cows, preceptors, guests and devotees of
+Rudra are always worshipped.
+Gee vara
+
+afara art A aeafe qPraaa 301
+werrirsatrfat fame ye att
+Duhsaha said—
+
+O excellent sage, point out to me the
+
+places, where I can enter without fear at your
+instance.
+
+HRSA Sarg
+a atin fen arat aatsfaera: aan
+wa wat a carat a aerate nae tt
+aurded ye area fasten verafsra: |
+ata Fetal wafer THA ae BU
+fateh aa war faaa wratsra: |
+cargeachratter aa afer aarfera: 133 11
+sroetafeas arfer ter afer ye FO
+wdvasrerdy afd aaeeat fata: Wax
+porsrai a wees deara werafsra: |
+aqdra Hered 4 aif a aa S34
+frotatatdtai a agate gua: |
+wa: pooTra erata Pera GAA RE I
+WAM AT HST A ASA STAT: |
+
+Markandeya said—
+
+Getting relieved of fear and together with
+your wife, you can enter the houses, where
+the husband and wife are at logger heads and
+where the Brahmanas well-versed in the
+Vedic lores, as well as the cows, preceptors
+
+are never found present, Completely
+fearlessly, you can enter the place where
+
+## Page 39
+
+34
+
+Rudra — the lord of Devas, Mahadeva, the
+lord of the three worlds, is disposed. O dear
+one, in company with your wife, enter the
+house where there is no devotion to
+Vasudeva, Sadasiva, japams and homas are
+not performed or the ashes are not applied
+over the bodies, where Rudra is not
+worshipped on the fourteenth and eighths
+days of the dark fortnights, where the people
+do not apply bhasma. They are not devoted to
+Visnu and are associated with the evil
+women or wicked men. Together with your
+wife, you shall enter the houses of even those
+who do not repeat their salutation to Krsna,
+to Sarva, to Siva and Paramesthi.
+
+aaa wad aca warded Tare BON
+deat 4 cafes Wega a aI
+faqerifaetaie arte cnferer 3c
+
+Accompanied with your wife, you should
+enter those places where there is no loud
+sound of the chanting of the Vedic hymns,
+where the preceptors are not worshipped or
+the places where the people do not worship
+their ancestors.
+
+wal wa We afar were) ade Fire: 1
+aren area fare va rearafsrat: 13st
+
+Devoid of the fear and accompanied with
+this lady, always enter the house where there
+is always a mutual quarrel between the
+inmates during every night.
+
+fear aa afte ae aes sear
+eeubefatta a ata fern Frets: iso
+Fearlessly enter a place where there is a
+
+Jiriga that is not worshipped and men do not
+perform japa and where Rudra is not adored
+with devotion.
+
+afafa: sifirat arf qeat aerator
+
+a dfe are Ma: warded wafer ye
+
+Liga Mahapurana
+
+Accompanied with your wife, you enter
+the house where there is no preceptor and
+which is deprived of a Vaisnava or a cow.
+
+STAT WTA PATA TAMA
+sett aH Mee: AUR TATA STI
+
+You enter with delight, together with your
+wife, to a place where the people eat food
+without giving it to the children, who keep on
+watching the same.
+
+arreref Ferea aTqeaaenrs aT
+arece fatto aa Pred warfarin ¥3 1
+
+Always enter the place where the people
+do not worship Mahadeva, Vasudeva or
+perform the sacrifices in a proper manner.
+
+UTA FST SAAT: TTT!
+ae ferred Ba at aa dfaries
+
+You can delightfully enter with your wife
+at a place where the people are indulged in
+sinful activities and the cruel people having
+no co-operation among themselves. You
+should enter such a house.
+
+wermnfada adden adie
+qaye I waar ae Fred fe eet: wy
+
+Reaching those places, where the damsels
+of the houses never keep secrets and destroy
+the domestic felicity, is never worthy of
+praise. Always stay there with a delighted
+mind.
+
+wa heft gen aa Premraacent
+wags aaifea arte GATT SE I
+areata aft siesitat yey a1
+aca faster teradaenfs arise
+afecrn oye Aet aareteciaafat
+een a 4a a ace det aa at PMc
+aoe weet aa aurea warfare
+
+aie wari seed fifrctarsta axe
+
+## Page 40
+
+Chapter-6
+
+wea: oret ofa warded ware
+
+vane aye Aaa FTAA ATUIGott
+
+agai a ard wurde carta
+
+wee sree Fra sre at PVT ATG
+
+attest aftest aft aurtad aarfert
+
+Together with your wife, you can enter
+
+the place, full of thorny trees and winding
+creepers of Nispava, Brahmavrksas. In case,
+the trees like Agastya, Arka, Bandhujiva,
+Karavira in particular, Nandyavarta, Mallika,
+Kanya — the creeping plant, Drohi, Jati, the
+black plantain, Tala, Taméla, Bhallata,
+Tittidinkhanda,  Kadammba, Nyagrodha,
+Asvastha, Cita, Udumbara and Panasa (are
+there, you may enter that place). In case,
+there is a Nimba tree in any park or a house
+sheltering the crows, enter that in the
+company of your wife. If there is a Dandin7
+or a Mundini at some place, then you can
+enter it with your wife there.
+
+war arat 7e aa fara TaATPS TG IH
+
+aed cetg auried wala!
+
+FEI Breit We Vat TerS a a Sls U4 Ut
+
+Sareea aa warded wafer
+
+Pregferst a a mer ye ares AATNG XI
+
+ate on faarrare aa yof arate
+
+WARARAY ASTSTTATT NGG I
+
+asi aah A ari arn a et: aan
+
+way 3 arrend aurter Prafrgayg it
+
+Together with your wife, you enter the
+
+house where there is a single maid servant,
+three cows, five buffaloes, six horses or
+seven elephants; you enter the house with
+your wife, of the person, whose house hold
+deity is Kali Dakini of the form of a ghost or
+a ksetrapala — guardian of a centre; you can
+enter the house freely wherein the image of
+
+35
+
+Buddhist mendicant or a Buddhist anchorite
+or the statue of Buddha is found installed.
+The house of the people who do not recite the
+names of Visnu when going to bed, or taking
+up a seat or moving about in the course of
+their activities like taking food etc., would
+belong to you. Enter such houses
+accompanied with your wife.
+
+Tsar: acetate epa: |
+
+faroqufotatrtar reratat rea: 149
+
+aiftaata wer aa warded warfare!
+
+adenctincd 8 a ad frre: uycit
+
+mere SRA warded Tafa
+
+FEN Trarae: Vo: AAKVAR: 4S
+
+warmest A Aer SUCH: |
+
+FEN ST Waa: WHA WA Ua Algol
+
+af Wer: Get a ot SATE: |
+
+Tai Te Te Aa sara a BasaaNEg
+
+In the company of your wife, you enter
+
+the place where the people are engaged in
+heretic activities or the people excluded from
+the sacred rites prescribed in the Vedas,
+Smrits or the persons devoid of the devotion
+to lord Visnu, the people who denounce
+Mahadeva, atheists and knaves. You can
+enter with your wife abodes of such persons
+who do not adore the Pinadka bearing lord or
+consider him as an ordinary god. It is only
+the wicked who do not say that the Brahma,
+Visnu, Indra — the ruler of the gods, are all
+born by the grace of Rudra. Only the foolish
+people of deranged mind would say that the
+glow worm or the sun are equals. They would
+say that Brahma, Visnu and Indra are equal
+to lord Siva. Even when their houses are full
+and flourishing, enter them without fear and
+enjoy yourself with your wife.
+
+## Page 41
+
+36
+
+fort yaa ye tet aft gol: 1
+asvifa Haci Ger: wee forts: ez
+aragedtna tsi a Zena
+
+arant vibafauer tedearcateran gat
+aduegeen Fret vem: eat warfare
+aftrren: cat Heat Afra CT: WES
+Fede Joes Te Tai Tara
+uevitafatrter: dearer a efsa: Wea I
+aera 3 4 a ye Aai Tafa!
+
+You enter the abodes of such foolish
+people who consume the cooked food by
+themselves and are devoid of the welfare
+ceremonies, and remain without bath. Enter
+the houses where the ladies are devoid of
+noble habits of cleanliness of the bodies and
+others auspicious samiskdras and engage
+themselves in consuming the forbidden food.
+Enter such a house where people have dirty
+faces and are clad in dirty costumes, besides
+those whose teeth are dirty. Enter the houses
+of such people who never clean their houses
+properly, sleep during the evening and take
+food in the evening. You can enter such
+houses.
+
+ARTA Aca SAP ATA TAT ART RE
+ararefearqar: ye tai wafer
+ween a aribaida aif angen
+yerrttern ante ze tet warfare
+FETT: OTT AAA: WGC UL
+
+Enter the people’s houses who are gluttons,
+drunkards, are foolish and gamblers and enter
+into useless controversy. You can also enter
+the people’s houses who usurp the riches of
+the Brahmanas and eat the food cooked by the
+Sadras. Enter the house of the people who
+drink wine, eat meat and are engaged in
+desecrating the chastity of other’s wife.
+
+Liftga Mahapurana
+
+agree Heat ye Tat ear!
+
+advair Aga a feat TAT: e311
+
+dearai Age Aai ye Tai wanfae
+
+yet Api Bai araaprered aTivo
+
+wa ot Aer paired wena!
+
+wreact rt Wed eawStel AT ATTA: 1102 I
+
+wa apy ate ye sai warfare
+
+get fe seats Preratafeepan: wor
+
+eautefadtr a ye aat warfare
+
+asicolyd: are: wm anferer teafan3
+
+wierd pore WaT
+
+Enter the houses of the people who unite
+
+with the women during the day time, who do
+not recite scriptures on festive occasions, or
+unite with their wife during the evening time
+or in the water. You enter the houses of such
+people with your wife. You enter the house of
+a person who cohabits like the dogs or animals
+in the water. You enter the house of the
+degraded people who cohabit with a woman in
+period, or a Candali woman in a cowpen.
+What is the use of excessive talk, you enter the
+house in which the daily auspicious rites are
+not performed or are devoid of the devotion of
+Rudra; you enter the house of the people who
+cohabit with the artificial /iiga or by applying
+artificial medicines over the Jiriga. Enter the
+houses of such people.”
+
+Ua sara
+wera a af: ataBratea aa aanioxtt
+wafataagrrentaiateanrid|
+Gee cetherh ear a Saar 94
+fartereataes frittata |
+aural gage: dat eer ea STATIK I
+
+Sota said—
+
+Thus speaking, the Brahmarsi, wiping out
+
+## Page 42
+
+Chapter-6
+
+his eyes, disappeared at the same time from
+that place. Duhsaha also left to the aforesaid
+places. The excellent sage together with
+Jyestha, particularly went to the places where
+lord Visnu was denounced. This is the same
+goddess who is known by the name of
+Jyestha.
+
+qaeeMarsd Terns |
+
+area wana ae 4 weet carterwon
+
+37
+
+As a matter of chance, lord Visnu was
+present there with Laksmi, who spotted
+Alaksmi. Then, she spoke to Janardana or
+Visnu- “O lord, my husband has entered
+Patala through the snake hole leaving me as
+destitute. O lord of the universe, salutation to
+you. You kindly arrange for my daily food.”
+
+aa sara
+
+See) wrenaey: wee SATA: |
+
+aah: warrarcies Praraed aa: TA: |
+
+amifrenta t aalicper TATA ATU< I
+ferent vert at A areafe 3 afer
+wae af: we a: ferarat asia an
+Once Duhsaha said to her— “You live at
+the bank of this tank in the cottage, because I
+shall enter Patalaloka. I shall reach for a
+suitable place for dwelling of both of us and
+shall return to you.” At this, Jyestha said—
+“What shall I do here? Who will feed me
+here?” At the words thus spoken by Jyestha,
+the sage replied to her.
+fafa: qeayaa 4 arai a ze fae
+eepral carfaeraa arated FereraAP TA: 110 tt
+aan a fatriat qh: a sere
+mrad rarely, Pera S YT TA CR A
+“You never enter the houses of the ladies
+who will adore you offering incense, flowers
+and fragrance.” Thus speaking, the sage
+entered Patala through an anthill, where the
+sage lives even today at the water level. The
+inauspicious goddess Jyestha always wanders
+over the mountains, outside the villages.
+
+regret FroyearyaA |
+
+ART TERT AA: AW TMS AAS CR
+-oqaf mreit reread) fare racer a Fi wT
+
+aried rae @fe Sf THe Anca
+
+Sarraarl Sag Aa APSA: ev
+Stata said—
+
+At this, lord Janardana, lord Madhava, the
+lord of all gods, lord Madhustidana, replied.
+
+sitfaaprara
+9 vor we wigt Aerie!
+stat teat orf Pa srraraf en ct
+aRofacicas asi fai aaa fe:
+aft da nerd fata asifa arqucen
+For waren wee oft Tei at Tal
+FATT GE TEN WaretEt ATC
+a asifa fala am fase: |
+weer ta 8 er ga alfa grat cen
+asi Te oi Aaftergd aaa feu
+
+Lord Visnu said—
+
+“Such of the people who do not adore the
+sinless Rudra, Sarva, Nilalohita, Siva and
+Haimavati — the mother of the universe,
+besides my devotees, those who denounce
+Mahadeva and adore me, all their riches
+belong to you. Lord Siva, by adoring whom,
+both myself and Brahma exist, the riches of
+my foolish devotees belong to you. Such of
+the people who are envious of me, denounce
+me, are not my devotees and do not worship
+me like my devotees, belong to you. Their
+riches, the fields, crops and all the noble
+
+## Page 43
+
+38
+
+deeds done by me, belong to you. The
+digging of the tanks and wells also belong to
+you.”
+Ya sara
+Seqacal oi Uh mas TATA: CS,
+TT HaegHe TAA EA |
+reTaeaerel a ate iced GAT Fol
+faupréd dee: dacs aden
+aap: wel ear afaPafafaafgen: 1390
+a: wae sraaer festa
+AAACN cettareer ya TANS 3H
+Sita said—
+
+Thus speaking, lord Visnu, accompanied
+with Laksmi, left the place. Then lord Visnu
+meditated upon Siva, for the destruction of
+Alaksmt. Since that time, the devotees of
+Visnu, also make offerings to Alaksmi. O
+Brahmanas, the ladies should adore Alaksmi,
+making various types of offerings to her. One
+who narrates the story of Alaksmi or reads it
+or reads it out to the excellent Brahmanas, he
+is relieved of all the sins and becomes rich.
+He ultimately achieves moksa.
+
+fa stfagqrerq saan seed ar
+
+WSIS aH: 1G
+
+Rd
+
+Litga Mahapurana
+
+## Page 44
+
+38
+
+STS a:
+Chapter 7
+Praise of the twelve letters mantra
+EIA Ha:
+feorraperd sig: adeiteerentat: |
+adarfatrte: weit wert mee
+aed ara dese aftsata a SF 1
+
+Litga Mahapurana
+
+aedtard wera: qa aefreréfan
+The Rsis said—
+
+“With the reciting of which one of the
+mantras, the living beings are freed from
+their sins, achieving moksa? With the
+reciting of which one of the mantras, they
+could escape from Alaksmi? How could they
+achieve the abode of Laksmi in their living
+places?”
+
+We sara
+
+qu frame afaera were
+
+aed data: ae adeitenfeara B30
+Sata said—
+
+I shall speak out in brief for the welfare of
+the people, whatever had been spoken by
+Brahma to Vasistha on this subject.
+
+sag aa wd whores AIST
+Ratan fry Pore
+adore’ We Aare wera
+
+aren ator aren at fasrqerentpa iy tt
+array Thre WRT TESTA
+UA So TSARTAT TAIN G |
+waar fam tasacererry |
+sPasfarerate at arrertfa Sou
+ae Wi a Aa a aA arrifa a
+atta eerye a aft we aC
+
+Visnu is the lord of the Devas, is beyond
+birth, is also known as Krsna — Acyuta and is
+the remover of all the sins. He bestows
+moksa to the Brahmavadins. All of you,
+offering your salutation to him, then listen to
+my words. A learned person who performs
+the auspicious deeds, recites the names of
+Narayana while remembering his name in
+heart, by body and speech, while sleeping,
+walking, eating, standing, while awake,
+
+## Page 45
+
+Chapter-7
+
+opening the eyes, and recites the name of
+Narayana, O Brahmanas, one who repeats the
+words Namo Narayana, who remembers
+Visnu by his inner souls, makes use of
+beverages which are licked, when these
+things are sanctified with the mantras and
+takes these things by touching them, he
+surely achieves moksa.
+
+wdarfatrte: weifa a eat mer
+
+weaets Ha Wer Tet ar eFaeeT TNS
+
+ATS Font TAS TAMA: |
+
+WT aatatas R: POA TAM o Nt
+
+qe 8 aaa wt aafe Cad: |
+
+aieiten adencartin ferared a Ga: GA gg
+
+wah Qfras aa) ARTA: Perl
+
+fe cea aefinta: fr wer sehr: nea
+
+He is freed from all the evil things.
+
+Alaksmi, the wife of sage Duhsaha, about
+whom I had talked earlier, surely runs away
+on hearing the word of Narayana. O noble
+people, Laksmi, who is the loving wife of
+Visnu, Krsna or Devega, she resides in the
+body of that person, at his residence or the
+living quarters. After churning of all the
+Sastras and thinking over the topic again and
+again, the gist has emerged that one should
+always remember the name of Narayana.
+What,is the use of reciting of many mantras
+and performing of several vratas?
+
+wh anata Aa: watefenere: |
+
+Peay Hrery AA ARPT U3
+
+artca aif fater fareupeitch wait: |
+
+wearer Balas Poo ATTA: eI
+
+Tit war Goes: adaarefaress: |
+
+BUM HY STAM TTT 4 HH
+
+aedde a Trea dalasaaA a: |
+
+The mantra of Namo Narayana is the
+
+39
+
+achiever of all the success. Therefore, this
+mantra should be recited on all the occasions.
+O excellent Brahmanas, the people who
+recite these mantras achieve the place of
+Visnu, with all their kiths and kins. Listen to
+the other mantra of lord Visnu. I have
+practised myself earlier over this mantra. The
+mantra leads one to achieve the tattvas of the
+Vedas. It is quite an ancient one and
+comprises of the twelve letters. I shall speak
+out the glory of the same mantra in brief.
+
+pa EN ARTAETTRT TA HAI RE I
+
+Wats wien dente ae
+
+aati ara PRIA TA el
+
+Sea det a ara fea
+
+a frat ciae cer g:feacits yafesitra: 9c
+
+There was a great intelligent Brahmana
+
+who performed severe tapas and then he got a
+son. In due course of time, he performing all
+other samskaras of his son, also performed
+his thread ceremony as well. Then he started
+educating him, but he could not utter a single
+word from his mouth. He could not move his
+tongue while speaking. The Brahmana then
+felt extremely miserable.
+
+areata Fraatatat accra
+
+fan aes cen ara afte aerfafen gs
+
+Tarrreamna ata fatirga
+
+sarees Soe Vg: TATA: Roll
+
+The son of the Brahmana was known by
+
+the name of Aitareya. He always uttered
+Vasudeva. His father married himself
+appropriately and produced several sons from
+his second wife. Because of their high
+learning in the Vedas, they became rich.
+
+deataes a arn =: fac Megs
+SAT YM: MIA ASIST ATT: WAV Ut
+
+## Page 46
+
+40
+
+wrert: qr a aeafa a AL
+
+aa ed arta: Gat set Frrepfer: waz
+
+nara Fed sat a Hers sifay
+
+wae: 8 a rie saree SPT ARH
+
+Feeling miserable, the mother of Aitareya,
+
+feeling grief stricken, once said to her son—
+“The sons of my co-wife, because of their
+high education, have become rich getting
+well-versed in the Vedas. They are all
+respected by the Brahmanas and please their
+mother in all respects. The unfortunate
+mother ‘like me has got such a son who is
+worthless. Therefore, it is no use my living
+on earth.” At these words of his mother, the
+son went to the place of yajfa.
+
+aferene feo ¢ a Fon: afraet
+
+Tate fxd aa ae ASAT Vs
+
+At the time of his entry in the place of
+
+yajna, the Brahmanas could utter no hymns.
+All of them were confused on the arrival of
+the Brahmana named Aitareya. All the
+Brahmanas were dumbfolded after the arrival
+of Aitareya.
+
+ae aren MAT aTATafe Bila
+
+tetas 3 fan: wforoes aera GH
+
+Si aReM ag EAS TATA
+
+ae: Bara St aA oTPaAT: EH
+
+adderacens FT VSAM, AAEM: |
+
+Tea an fan serena cen fesT: uN
+
+But the moment, Aitareya uttered the
+
+word Vasudeva from his mouth, the speech
+of all the Brahmanas was released and they
+started reciting the mantras. All those
+Brahmanas then offered their salutation to
+Aitareya, adoring him at the same time. The
+yajia continued thereafter. Aitareya was then
+offered with gifts like the costumes, cereals
+
+Linga Mahapurana
+
+and was honoured appropriately. Ultimately,
+he recited the Vedas with six arigas in the
+yajfia before the Brahmanas. Thereafter,
+Brahma and other Brahmanas eulogised
+Aitareya.
+
+aad: grastfin aaa: fsa: |
+
+wa Garey a aaa fest: WRC
+
+art yaar g fae: card SETA ZI
+
+wee weft Ge Grama TAT RS
+
+Veal quad Fei Aer!
+
+wae: Toot Fret Tea STATI FoI
+
+a ata frome famed Te)
+
+SRT TTTATARY STE MATCAT: 3 Ul
+
+weifa wa ear ara areat franco
+
+fe qd caerfen area: NBR
+
+feed tart Berea: Wega Fae: W330
+
+The Siddhas and Caranas rained flowers
+
+from the sky. O Brahmanas, this is the way
+how the yajfia was concluded. Aitareya then
+returned to his place. He eulogised his
+mother and proceeded on to Visnuloka. I
+have recited the glory of the twelve-lettered
+mantra, completely. A person who recites
+this twelve-lettered mantra, he, inspite of his
+having a sinful life, achieves the divine and
+beautiful supreme place of Visnu. There is no
+doubt about it. O noble sages, one, who
+remains devoted to Visnu and is engaged in
+the devotion of lord Vasudeva, such noble
+person achieves the divine place of lord
+Visnu.
+
+fat stferrerqadt sacar gremercagi ara
+AAAS CATA: WO
+
+bd
+
+## Page 47
+
+Chapter-8
+
+aes ear:
+Chapter 8
+Eight letters mantra
+‘Ya sara
+aerendt ferater va arTefa a1
+
+BISMARAAT TA: AAT: 8 Ul
+
+qa: weend fast: waaarefaara: |
+
+aalaa: Rrarifa Ha: wateferera: 1131
+
+wen framerate for: waren: YH: |
+
+Tas BAe AA WTA ANAM
+
+meets VI WUTTETET a
+
+wen a wrafaey: ast Val: PATA: 1111
+
+ARafease aaa asifa TL
+
+wgt Vata eH CTT NG |
+
+fred a UE BF Cadaqara
+
+weta: frarifa tet egrets tl
+
+rere Bars ae ras At
+
+aeat Hata a fat werecafeh: erent
+Sita said—
+
+O excellent Brahmanas, the eight-lettered
+mantra viz. Om Namo Narayanaya and the
+twelve-lettered  mantra- Om Namo
+Bhagavate Vasudevaya are the greatest
+mantras of the great soul. O Brahmanas, the
+six-syllabled mantra~ Om Namah Sivaya
+reveals the entire meanings of all the Vedic
+passages. This mantra is the means for
+achieving all the objects. The divine five-
+syllabled mantra— Sivatraya is” extremely
+auspicious. So is the mantra known as
+Mayaskaraya (salutation with one who brings
+about excellence). The mantra of seven
+syllables- Namo Sarikaraya is the mantra of
+Rudra, the Purusa in conjunction with
+Pradhana. O excellent Brahmana, lord Visnu,
+Devas including Indra and the sages, worship
+
+41
+
+Sankara, the lord of the chiefs of the Devas
+with these mantras. They worship Siva, who
+is the source of origin of Brahma and the
+consort of Siva, the lord of the Devas (with
+these mantras). They say continuously
+Namah  Sivaya, | Namaste Satikaraya,
+Mayaskaraya, Rudraya and Sivataraya. By
+repeating these mantras, a Brahmana is
+instantaneously liberated from the sins of
+Brahmahatyé etc.
+
+qa afaefes: wel yee afer qa: |
+aniad tarred 4 Fal: witnen
+FeaetHet SF TET: TAA: |
+Ae) yea vera Phra acs it
+aga 4 eg Basal SATA: |
+featshemgea
+
+Fa: areeacareratera: 8 tt
+faarea faftihort Taw yTATT: |
+aren waa ae ta TEENS
+ASAP RAMATS ICRA: |
+TACT ETS AAT ATER TAT 8 2
+
+Formerly in the Meghavahana kalpa of
+Brahma — the great soul, in the third
+Manvantara of the Tretayuga, there was a
+powerful Brahmana named Dhundhumuka.
+The relevant kalpa is known as Meghavahana
+because Visnu, the lord of the Devas, assumed
+the form of a cloud and performed penance in
+favour of lord Mahadeva, who wore hide as
+garment. Because of his high reverence for
+Rudra, he performed penance leaving of the
+intake and expiration of even the breath. He
+was overwhelmed and dejected due to much of
+the burden. He submitted his problem to be
+blue-throated lord. The lotus-eyed lord
+performed penance and as a result of the same,
+achieved wonderful strength from Siva — the
+great soul.
+
+## Page 48
+
+42
+
+ara WA: WIge HATA: |
+CRIT GUM FT AST TUL
+ep: gree) afar ae Aiea: |
+eat a entire af: arena era ge
+In the Meghavahana ka/pa, due to the
+curse of a sage, the son of Dhundhumuka
+became wicked. Formerly, Dhundhumuka
+had been deluded by his wife. He was too
+much attracted towards her. A foetus was
+procreated by him in her womb with his mind
+drawn by lust.
+aTTIeta Ted Veta |
+sade car arate TA VATS RG I
+It was a moonless day during the day time
+in the course of Rudra muhdrta that the
+pregnant wife was enjoyed by him.
+SAR A TAS FeaeaTS WATT: |
+Bo Ged Hea fara Brera: eg
+and: fagecenfte a Gard Kae: |
+et pag fam feprah frerata gon
+foreman qa sft wart |
+afas: wre atts ware qeertueci
+yaaa gfe qeata fete
+gfet depgenisal ger qaraferrqu gen
+areas peat fattracarta a1
+ararrarara 4 di faferta fei: Non
+Her name was Visalya. With great strain,
+she gave birth to a son in Rudra muhdrta
+under the influence of Sani (saturn). He
+turned an unlucky omen towards his father
+and mother as well as himself. The excellent
+sages Mitra and Varuna said to
+Dhundhumukha in secret that he was a
+wicked son. Vasistha said— “The boy is base
+and wicked. He would be liberated from the
+sin by the sage Brhaspati. At this,
+Dhundhumukha was dejected, finding the son
+
+Linga Mahdpurana
+
+in such a plight. He himself performed the
+post-birth and other rites for him. Thereafter,
+he taught him the Vedas.
+
+aretd aera ater Gara: |
+
+PASSAT MWA TRY ATA TA: UW
+
+” O sages of holy rites, everything went on
+perfectly well and the son of Dhundhumuka
+achieved all the knowledge. His marriage
+was performed and he felt inclined to serve
+his father.
+
+arta afiater ata gar
+
+ara Gell ger casratafearrrer qu yy
+
+Waa eet fee: |
+
+cen war gatfeeaacar oii TATU
+
+O sages, in the height of his arrogance,
+
+Dhundhumuka sought for a Stdra woman
+and also enjoyed with her like his wife, by
+day and night, seated with her in the same
+seat and lying with her in the same bed. The
+base Brahmana — the son of Dhundhumukha
+of the wicked intellect, discarded the path of
+virtue ultimately.
+
+reat der cen are aa wafaqea
+aaa areita angfera festa: ues
+fea ma as quett mae
+aerate wea arg hahrea: Fra BA
+Ara a aes ete- .
+aera ea
+uraft a wea gaa:
+Pare APT FAA: EH
+Ua ane aE pei Cea TSI I
+Trad eterna a4 Saft eter Wout
+Sed af Aste coe
+eal UTE de WU ae ATA NEI
+ea WHat ta TSR!
+Wr: Gare ta See Tei YAH YASUI
+
+## Page 49
+
+Chapter-9
+
+ad peat a fatten feet greta
+spree a: ed gists TAA SnZott
+
+He consumed wine with her for the
+increase of lust in himself. But, O Brahmanas,
+for same vogue reasons, the inauspicious
+Sadra woman was killed by the sinner.
+Thereafter, his father, mother and the legal
+wife of the wicked son of Dhundhumukha,
+were killed by her brothers. O excellent sages,
+those brothers-in-law were also killed by the
+king. Thus, her and his families were
+destroyed in an instant. The son of
+Dhundhumuka wandered here and there in
+course of his sporting activities. Accidentally,
+he met with a great sage who was repeating
+the names of Siva. He atonce obtained from
+him the Pasupata mantra of lord Mahegvara.
+After attaining the five-syllabled mantra and
+the six-syllabled mantra, he repeated them a
+hundred thousand times severally. He
+performed the divine holy rites as prescribed
+in the scriptures for twelve months. During the
+course of that ka/pa, he passed away and was
+welcomed by Yama.
+
+SqyM a ae Are fra Varenag Ta: |
+ast a arn Stet aera a aferaTAT sg
+aififannred ta: Sextrea: |
+THOTT VHT SAAS TATU I
+TRNAS SEMA
+vacatfeqel qed ara arat ferarcomn 33 tt
+Taste a fei wepeafaeara: |
+ubostormrae a art wai TN ae
+we: afd wd qeradeaqarr
+
+a: adequate arate fea TAr Nga Ut
+a ofa TAH F CET OTATTT TN BG Ul
+
+-O noble sages, his mother, father,
+brothers-in-law and the fortunate wife, were
+
+43
+
+redeemed. The chaste lady kept on smiling.
+Then he mounted the aerial chariot with them
+and was eulogised by Indra and all other
+Devas. He became the chief of the Ganas and
+the favourite of Rudra. Thus, the merit is
+increased ten million times with the use of
+eight-syllabled and twelve-syllabled mantras.
+There is no doubt about this. Therefore, a
+person who continuously recites these mantra
+in accordance with the provision of the
+scriptures and in combination with the Sakti
+mantra, he achieves the greatest god. This
+excellent story has been completely narrated
+to you. A person who reads it, listens or reads
+it out to others, attains the place of Brahma.
+
+fa ftfagrerqany saem) aerer A AA
+STRANS EAA CL
+
+Rd
+
+## Page 50
+
+Chapter-9
+
+43
+
+Tals tara:
+Chapter 9
+The holy Pasupata rites
+a HA:
+Ra: qa pe feet ad oT WAAL
+FEO a cas Ya PorarfereawForn gt
+ufads a fare ateqaa a ce!
+PA AA A: WAT HA TTT ATL VI
+my ugafada: WE: WAAR |
+arqrdta areas oe alqgel fF A030
+The Rsis said—
+O Sita, the divine Pasupata rite was
+initially performed by the gods and Brahma
+
+himself. The same was also repeated by lord
+Krsna similarly, besides the degraded son of
+
+## Page 51
+
+44
+
+the Brahmana named Dhundhumuka. How
+could the people achieve moksa after
+performing the vrata? How was the worship
+of Pasupata done? You kindly repeat the
+same to us. We are quite anxious to know
+about it.
+Ue sara
+Te waehrie wera AEM: |
+Pa VARIES HERTS TA: WS
+RA VAISS SRSA |
+Rreneqarrare Tepes PTT: 14 Ht
+Fe yFrat: gar TTA
+aa HAM MPSS WA: TA GN
+aft wire pet agate: wy: |
+aqrele aren acd | Aale A: Wott
+mead Yaar AA: POI: WA: |
+TARA Fs waa Aue
+ad wag aad AEP He ATL!
+Sita said—
+
+In earlier times, the son of Brahmi, of great
+renown, was liberated from the curse of Rudra
+— the lord of Devas. He arrived here from the
+desert land. Discarding the physical body of a
+camel, at the bidding of Brahma and by the
+grace of Rudra, he went to Nandin — the son of
+Silada and bowed to him in reverence on the
+ridge of Meru mountain, the excellent sage
+destined for the discourse on the excellent
+virtue. After offering his salutation to Nandin,
+he asked him again and again, about the holy
+rites to be performed in favour of Mahesvara
+in order to please him. “How is lord Pasupati
+propitiated? It would be in fitness of things, in
+case you recount everything, relating to the
+same to us.” Thereafter, the details were
+revealed by him. Krsnadvaipayana Vyasa —
+the saintly lord, heard everything from
+Sanatkumara. J, on my part, after hearing the
+
+Linga Mah4purana
+
+story from Vyasa, relate it to you. Bowing in
+reverence to lord Mahesvara, all of you should
+listen to my words.
+
+PACHA Savy
+ape Ugpafeda: aera: & wating
+@: ube Pravda fapeia a a wer
+Sanatkumara said—
+What type of lord is Pasupati? Who is
+Pasu? With what type of bondages are they
+bound? How could they be released?
+
+stenfeeara
+
+RGA aexTbe AAT AAT Ro Ul
+
+aya: uftaicta daagrater: |
+
+asi UftcaretTar, ea: UTA: STA: UV
+
+sree erat erarfarerpcora: |
+
+ATTA BEATA TATA AT: 1183 Il
+
+ava taeda aa Afar: |
+
+PATTEM APR FTTH FATA YH
+Sailadi said~
+
+O Sanatkumara, the entire story is being
+
+repeated by me verbatim to you because you
+are the peaceful and the auspicious devotee
+of Rudra. From Brahmi to all the immobiles
+including the intelligent gods, are known as
+Pasus. They are subservient to the world.
+Because of his being their lord, Siva is
+known as Pagupati. The unchanging, all
+pervading Paramesvara, who is the creator
+and who is without beginning or end, binds
+the souls by means of his Maya. He alone is
+their saviour on being served on the path of
+the perfect knowledge. No other saviour for
+those who are bowed by the fetters of
+ignorance, is sought after or found.
+
+aye Waa Wet TAA
+
+cadfernferarcant aren fe Tea: 184 11
+
+## Page 52
+
+Chapter-9
+
+a: untitarata: frat sfttecnftra: 1
+
+Fracafa vepresrafererferarere: 11211
+
+a Ua War ea APraeaha Afar: |
+
+aifgara: arekia:acoreisa: 1 got
+
+eats wppHaata Wy: |
+
+Stent: otter: fast: wy: ect
+
+AY we TAA AAT |
+
+wa geta erga Sarai aftatfera: usu
+
+There are twenty four principles which
+
+serve as the bonds of Paramesthin. Siva
+alone, binds Pasus by means of these bonds.
+On being worshipped by the Jivas or the
+individual souls, Siva alone releases them
+from the bonds. The same lord on being
+adored, releases them from the bondages
+comprising of the ten sense organs, which
+originate from the inner mind. The lord
+release the souls from the bonds of
+tanmatras. The lord binds those who are
+influenced by the worlds pleasures by means
+of bonds constituted by the objects of senses.
+By serving Paramesvara, the souls become
+devotees, immediately. The root “bhaj’
+means service,
+
+wera qa: wher afeerets yet
+
+werteriaata Waa ASAT: oll
+
+fafirbrd: onl: arf erafa ee
+
+gen afpatts agi: aerfera: u2
+
+apace area: UE: WAAR |
+
+usr aRefteper agers araraty: Uzi
+
+Thus, the idea of the great service has
+
+been brought out by the word Bhakti or
+devotion. After binding the individual souls
+from Brahmi to the blade of grass, by means
+of threefold bonds of the form of gunas,
+MaheSvara himself causes the effect. On
+being worshipped by the Pasus, by the steady
+
+45
+means of devotion, he releases them
+instantaneously. Serving by means of words,
+mind and body is called Bhakti. It is
+competent to snap all bonds through the
+effects in view of its being the cause.
+
+adarhreqrarcarnrd rete |
+
+ama: welt yeas Rraret TOA 3 11
+earerfad a ard wer fag: 1
+ofa art eta: wrenfesrd fag: nasu
+ake wert abe: wren Beat |
+eatertaa: unter Ufone 1
+ataa: fara ude rare: |
+
+aafernferercant araresriyon set Re Ul
+
+aicela farnafa on stated!
+
+dda: Rravacta yet wdefea: 1 Voll
+
+They are aware of the following as mental
+
+service :- pondering over the attributes of
+Siva such as— “He is truthful’, “He is all
+pervasive”, etc. and the thought about his
+assumption of forms. Bold and self-
+possessed persons know that the repetition of
+Pranava etc. is the verbal service. The
+pranayama etc. are mentioned by good men
+as the physical service. Thus is the bondage
+of all embodied beings by means of the
+bonds of merit and sin. Lord Siva —
+Paramesvara, alone is the person, who release
+them. The twenty four principles
+mentioned as the activities and the attributes
+of Maya. They are known as the sensual
+objects. Through the bondage, they bind the
+individual soul. The embodied souls, who are
+tied by them, are liberated only through the
+devotion of Siva.
+
+vaca: al: aEEaeAfst MEE |
+BU Haare WaT AKITA: UCU
+By means of fivefold bonds called k/esas,
+Sankara binds the Pasgus. On being served
+
+are
+
+## Page 53
+
+46
+
+well by means of devotion, he alone is their
+redeemer.
+afraraact wi ed a frei au: |
+Seca A A FMT TCT ATA 28 |
+O foremost of the biped beings, the five
+klesas or distresses which have became
+bonds are Avidyd (ignorance), Asmita
+(egotism), Raga (lust), Dvesa (hatred) and
+Abhinivesa or clinging to the worldly affairs.
+wi Atel Heriteentina gfe aftsa: |
+sigafra geretforat Tae fra 30 Nt
+The learned people call Avidyd, that is
+
+stationed in fivefold forms, as tamas, moha,
+imahaémoha, tamisra, and andhatamisra.
+
+astaratenden: aaldareafeera
+fret Areata stars: sisters: 139 01
+O leading sages, the glorious Siva
+liberates all those jivas from avidya. There is
+no other redeemer.
+afaai a gereerai ate geafat
+Fernie eft wat OT STAT: WaT
+oe anftra gengtacitina eat
+atartitrasi a frearart feretfers: 133 1
+Those who are devoted to yogic practices,
+call Avidyd as tamas or darkness, Asmita as
+moha (delusion), Raga as lust or Mahdmoha
+(great delusion), Dvesa or hatred as Tamisra
+(darkness), Abhinivesa and Mithya-jfiana as
+Andhatémisra or binding darkness.
+waralsefaen ar AreaEfae: SA: |
+aeritentaa qider fatatecn: nas
+There are eight types of tamas and moha
+is also of eight types. The mahdmohas are ten
+in number.
+aerated agente a feararern: |
+sienfates TABS STA: 134 It
+
+Linga Mahapurana
+
+The wise people have said that 7amisra
+and Andhatamisra have eighteen
+subdivisions.
+
+afeerarer date are ATERTAPTA: |
+sretaritor Soret vite Prenfea: 136 I
+rely fay daererea S81 A aT
+Tratrartaet tah: Tafa: 139
+aetarfirrada dail 7 Ber
+
+ergy ereeey Rraey TON WRC II
+
+The relationship of lord Siva with Avidya
+cannot be one that is part or the one that is
+yet to come. Nor could it ever be due to
+hatred as he is immanent. There cannot be
+any relationship with Abhinivesa or the
+instinctive desire to remain attached to the
+worldly pleasures because the lord who is
+worthy of being resorted to, is the greatest
+Atman.
+
+Brcreprcterer dat ta selfs: |
+sracnreraa visitefereraterater: 138 Ul
+
+In all the three periods of time, Siva, who
+is beyond Avidyd, cannot have any link with
+Maya, by means of activities, be they
+efficient or inefficient.
+
+faut: ato aft 4 waea AAA: |
+carey ry aes fra feraarhert: 10 it
+
+There can be no contact with the Maya of
+Siva — the bestower of auspiciousness, in all
+the three periods of time through the
+development of actions,
+
+qagaweqes: srefrarataty: |
+a dfarat: viqateriqnra: We: seit
+Siva is the greatest being of the nature of
+enlightenment and bliss is incapable of being
+affected by pleasures and sorrows that perish
+and continue to be present in the three
+pericds of time.
+
+## Page 54
+
+Chapter-9
+
+arene: area: |
+feat aft: aye AVTeat Aa: UI
+Mahadeva — the self-born lord of wisdom
+is unafflicted by fates and the fortunes which
+are present in the three periods of time.
+
+area: ocean: areafrrrataty: |
+
+ada abrdcenttehraricenicen: 163
+The lord Siva is the slayer of the god of
+death and is unaffected by the impressions of
+rites which are present in the units of time.
+
+He is also unaffected by the impressions of
+enjoyment.
+oferta ea area: |
+DATA SW TATe AACA: NSE
+Lord Parameévara is the greatest of the
+special male gods. He is unconnected with
+
+sentient and insentient beings and is beyond
+the entire universe.
+
+wid aferacada artad fret
+Rrerafeeracda fara ser iter: xe tt
+The perfect knowledge and the excellence
+are found in the world as one excelling the
+other. The people with wisdom say that Siva
+is the most excelling and most auspicious of
+all.
+sheet apart wernt wreaforeieyt
+SI A Uae HTS TATTLE Ut
+He is the one who discourses on all the
+‘Sstras to all the Brahmanas, who emerge in
+each one of the several creations.
+
+BAAS LSA TET Yes: |
+aderta ude: preraeseatsrd: to 11
+
+He is the preceptor of all the preceptors
+who are surrounded with the limitations of
+time. He is the lord of all and beyond the
+limits of time.
+
+47
+
+srrfets dal faartentat: ae: |
+ferrien: wd: ofigge: cara: Wee
+This relationship is eternal. He is beyond
+the perfect knowledge and excellence. He is
+perfectly pure by nature.
+AHORA TUS Tat fF
+WASH VARA rato TAA: S31
+wore aracrerer Prat WAI: |
+Rravarfesreart woreanfa ak: STA: holt
+Since he has no purpose of his own, the
+real purpose of all the activities of
+Paramesvara is blessing others. Pranava is
+the word which expresses Siva, the great
+soul, The word Pranava is surprise to the lord
+Siva, Rudra and others.
+wh: waaay Tea TSTaTAAa
+at fats: FATIMA HATS A ATA MGR
+area Wass BT: TTA: Ue |
+SHR tataa aa aTATH TATUNG
+Undoubtedly, that perfection shall become
+accessible — the same perfection is obtained
+when the people repeat Pranava even when
+they repeat his names and meditate upon him
+who is expressed by the Pranava syllable.
+Because of his compassion towards all the
+great Pasupata yoga, the basic tenet of
+perfect knowledge has been mentioned
+strenuously by the lord of the Devas.
+
+a Garda aac aaa maT: |
+
+FATT RATT
+dqarqeas wepiarara i Tea fps 3
+Urry Bea Ot UT WAL
+ah orga afer seared: feet SAA UG XU
+
+## Page 55
+
+48
+
+Yajfiavalkya said~ “O Gargi, it is the
+supreme being, which the non-yogins call it
+gross, but in fact, it is eternal and a
+wonderful lord. He is the one that is not long,
+not red, having no head, has no setting.
+Therefore, he has the lasting taste, that has no
+contact, no smell, no juice, no eyes, no ears,
+no speech or mind, no brilliance, no proof or
+magnitude, no worldly happiness, no name,
+no race, no death, no age, no ailment, that is
+nectarine, that is expressed by the word Oni,
+that is immortal. He had neither a
+predecessor nor a successor, which is endless
+and non-external. It eats something. It does
+not eat anything (?). One shall know the great
+lord Pasupati by means of Pasupata yoga. It
+is by this way that there is the most excellent
+opportunity to realise the lord.
+
+peaan weld ra Yeats qararaceei
+aa shard warren are fear!
+arene: area titfarets
+
+ad ara Aaftafae
+teei ea vif waa
+
+Feary TE TEATS II
+
+Make the lamp of Omkara and seek the
+lord of the house who is subtle and who is
+stationed in the beginning and within.
+Restrain the most powerful organic wind that
+stays at the door of the body and the leader of
+the sense organs or the mind. For what
+reason do you nurture fear by means of the
+network of words? No fear is seen at all. See
+Siva, stationed in the body. Why do you
+wander amongst the network of scriptural
+texts, that is but darkness?
+
+wd wergdaten yt are faa
+area caer porns Aart VsATUGS,
+After understanding thus _ perfectly,
+
+Liga Mahapurana
+
+through the help of scholars, after splitting
+the asamarasa (where things exist in unequal
+proportions) into five, one shall resort
+fearlessness in the soul. This was mentioned
+by Siva to the sages.
+
+fa stferqrerqaat sat aya Geek a
+FARTS EATS: WS UL
+
+hd
+
+## Page 56
+
+Liga Mahapurana
+
+ears ear:
+Chapter 10
+Glory of the lord of Uma
+
+PAHAR Tas
+Wa Ua Taras APEAPTTATTA: |
+STS HEAT TIAA 8 Hl
+Sanatkumira said—
+O NandikeSvara, the great devotee of lord
+
+Siva, you again narrate the glory of lord of
+Umi to me.
+
+weafevara
+PAPA! Aaa aRATATTA: |
+afer Ae erer Tee TRA:
+Sailadi said—
+
+O Sanatkumira, I am going to narrate the
+entire glory of Mahega, Bhava, Paramesthi,
+in brief.
+
+area vekridts yeatcdn 4 wer
+
+a aegraiag wiles As vaq uy I
+fate 4 teanpeiad el 4 arta
+a orat aap ant set aad HEPA
+frat 4 Rearygarreat 3 arr
+ude: Ute arate Yaa it
+
+## Page 57
+
+Chapter-10
+
+sTeiferdas yar
+Perea Frergal Prerta: 1&1
+Siva — the lord of Uma, has no attachment
+
+with Prakrti (nature), nor with wisdom,
+egoness, mind, cifta, ear, eyes, tongue, nose,
+feet, hands, speech, the organs of production
+and Paficamahabhitas with which he is not at
+all linked. The lord of Uma is quite spotless
+by nature, beside being enlightened.
+
+Penge sft ahet afifirercaatati: |
+
+arifreahees rae Feats: 119
+
+afs aa Fras wef: Tere aI
+
+aegh wadsen sears Fabra: ic it
+
+srattifa Wy utes aay: 1
+
+Sfeenfin eth a arr a mre
+
+aegrsrige frac cafes: |
+
+ararthy Prats wer PATA WAU ott
+
+FETA Hea eA: |
+
+wend (uid f& Meat Saree get
+
+Fenparatenty arate fran |
+
+aorta databace fat: nye
+
+The people well-versed in the tattvas have
+
+conceived him as always liberated. There is
+no beginning, middle or end of Siva — the
+Paramesthi. At his command, the Prakrti of a
+person produces wisdom. At his command,
+the wisdom produces the egoism. Siva is self
+born. He is the one who resides in the inner
+souls of all. At his command, the wisdom
+generates egoism. At his command, the
+egoism generates the eleven sense organs and
+the ftanmatras. At the command of the
+intelligent Mahadeva, all the Mahabhitas
+right from Brahm to the blade of grass, take
+a definite form. At his command alone, the
+wisdom establishes everything.
+
+49
+
+siaatifa ey vitae eaza: |
+
+warratad af carats YT: 13 I
+
+Tern wreanategshrrae |
+
+Fad Saad aft wa: ag_eTAAA gs
+
+a spifa weoaren were a aA
+
+vista ta rae BAR: 84 11
+
+aed ped are arene wera
+
+MOTTA TA ATCT MITA RG I
+
+ata are a Tents Herr
+
+adaraa siqai Frames aera: 12011
+
+faek ped wel Aicaaife weraat
+
+aretedari fraeta Freitas nee
+
+sent ged weet att wera
+
+Sisters wales OA aT 8S Hl
+
+arid qed waged ret: |
+
+waar PARAS MATT Zo tt
+
+TARTAN TATA ATA |
+
+arene Aaa eT TATA MTL RE Ul
+
+The power of enhancement, riches and
+
+wealth, is bestowed by Siva alone. At the
+command of Siva, the egoism produces self
+respect in all the elements or the padarthas.
+At his command, the mind becomes
+conscious and makes a resolve. The brain
+creates consciousness in all the elements and
+things. Because of the prowess of the same
+Siva — the lord of Uma, the ears hear the
+sound, the body feel the touch. With the
+command of the same Bhava ~ Paramesthi,
+certain things are not accepted. Because of
+the rule of the same creator, the hand
+receives the things and does not move. The
+feet walk at the command of Siva but does
+not discharge the filth. At the behest of the
+supreme lord, the rectum does not work for
+excretion and not that of speech. The organ
+of generation generates at the command of
+
+## Page 58
+
+50
+
+the lord. It is due to the command of the lord
+that it causes pleasure to all the living beings.
+It is due to the command of the lord that the
+sky provides ample space to all the living
+beings.
+freer frreta 2: wronfefirrt: 1
+fafa ae eparat eehater HASAN
+It is due to the directions of lord Siva that
+the wind sustains the bodies of all the living
+beings through prana etc.
+Preeataes arched Fed!
+wieaai desta Fe: aaaefshit: 12311
+At the direction of the lord of the Devas,
+the atmospheric wind, having seven
+skandhas, carries out the worldly activities by
+means of its sub-divisions like A vaha etc.
+
+arma: tafe: wity wada 1
+HRN Fae THT SAT: 11
+
+Due to the advise of the great lord, the
+wind functions within our bodies by means
+of fivefold divisions of Nagas etc.
+
+wet aefa Sari Hel Honk
+
+Uh FT HEA SS: MFTAST WATT VB Ml
+ered aera Meat Ta
+
+SERA: TAT aera APTA TT: RE Ul
+aailaieaterty yore |
+arfereten Fe PST ATM THT TATE VOU
+
+At the behest of the lord, the fire carries
+havyas to the Devas and kavyas to the Pitrs.
+Moreover, it also carries out the cooking as
+well. The fire which is enshrined in the belly,
+digests the food taken by the living beings, at
+the behest of the lord of the universe. At his
+behest only, waters enliven the living beings.
+His command is quite powerful and cannot
+be negitivated.
+
+Litiga Mahapurana
+
+sarrafir syerht fearreta erga
+HA TE VAC VARA: YET UREN
+At the command of the lord of the Devas,
+Indra sustains all the living beings,
+comprising of mobiles and immobiles.
+Sitadi onfata: dei qari are: |
+fade: aararet cite: Tae TATUM
+Lord Visnu sustains the worlds by
+warding off the pains of those who are alive
+and of the dead from the hundreds of torture
+in hell. His orders are not to be violated.
+tartar fa Acitaanfadi fra: 1
+aenfteron 2 art atta frame ze
+At the behest of the lord, Visnu protects
+the Devas and destroys the Asuras. He is
+lodged in all the three worlds and is the
+destroyer of all the unrighteous persons.
+aon; afedcitard raat MARL!
+FTAA TET UA CATH ATTA R
+At his command, Varuna sustains the
+worlds through water. At his command, he
+submerges them. He binds Asuras by means
+of his bonds.
+qarged watet mfr data
+Perch fore reece MATERA AEA: 1133 It
+At the command of the lord, Kubera — the
+lord of riches, provides wealth to the living
+beings as per their merits.
+serra padped SIAM
+SETS PTE ACT UAT: 133
+At the behest of the eternal truthful one,
+the sun marks the time with the sunrise and
+sunset,
+
+qarateftrnant wereate a Wet: |
+HATY: HAI: PITH MATA
+
+## Page 59
+
+Chapter-10
+
+At the behest of the lord as the destroyer
+of death, the moon has the rays of nectar and
+holds all the digits which delight people and
+make the flowers to blossom and the herbs to
+flourish.
+
+anfern aaat eat afar HeTe
+ang tact: cateteorertarafire: 134 0
+
+The Adityas, Vasus, Rudras, Aévins,
+Maruts and all other Devas have been created
+at his instance.
+
+teal taedera fra: Mens aT: |
+aerafreraia fer: MAT AeA: 1 3E Nl
+
+The Gandharvas, Devas, Siddhas,
+Sadhyas, Caranas, Yaksas, Raksasas and
+Pigacas, all follow the command of the lord.
+
+WEATAATTS Fal ATTA
+seston a on: as wet wes ffi: a0
+
+The planets, stars, constellations, yajtias,
+Vedas, austerities and the sages follow his
+command,
+
+porter ren: awa fififaera: |
+TR wea ada arrears angel
+
+The manes, pjitrs, seven oceans, seven
+mountains, seven rivers, forests, lakes, all
+follow his command.
+
+wet: ret Prieta eel fearet: aa: |
+seorecnerarena Preimrres fafa: 133 0
+The different units of time like ka/as,
+kasthas, nimesas, muhartas, days and nights,
+seasons and years, fortnights and months, are
+stabilised at his command.
+: anRast '
+wade qaeia are eT yo
+tari sidan first va wT: |
+rag vada tataes etra: nee
+
+51
+
+His command is respected by the yugas
+and the manvantaras. The Para, Parardha and
+other units of time, eight types of the Devas,
+five types of lower animals and human
+beings, all function because of the command
+of Siva — the lord of wisdom.
+
+wren yar agqéerg atfrgt
+aeteitentrrourts feriereta rear it
+The living beings who are born of the
+
+fourteen types of wombs and living in the
+worlds, abide the command of Siva alone.
+
+adder city fern aren: wet: WA: |
+
+ada cela Preitraratcr: wen
+
+Ure SET ARTA IATL |
+
+were | sent sen ATA TUSSI
+
+adams walter cereeits carat
+
+ada adsl: aac aaa: sy
+
+The subjects born and stationed in the
+
+fourteen worlds obey the command of the
+lord. The nether and the upper worlds, with
+their coverings and the rest of current worlds
+surrounded by all the living beings, obey his
+command.
+
+aerator TENS Tea
+
+wants vareita: afeentt eta: xe 0
+
+weve sfaeifa ae seqfrace: |
+
+fetta frrerai aaah: west
+
+The numberless universes of the past
+functioned at his command with other living
+beings. The future universe will also carry
+out his command along with others.
+ofa atfaqrerqat seat sarafe area a
+SRS CATE: Hott
+
+oe
+
+## Page 60
+
+52
+
+WahTaRiS a:
+Chapter 11
+Superhuman qualities of Siva
+
+PACHA Farsq
+fat: freahtearaea ca confer
+menfaat te aA acHTfTN gH
+Sanatkuméra said—
+
+O lord of the ganas, besides being the great
+devotee of lord Siva, who is aware of the high
+and low, you speak out to me about the
+supernatural powers of lord Siva and Parvati.
+dfetiar sara
+
+a3 aaftrenth fart: raat!
+PRGA aig TETRA 3 I
+Nandikesvara said—
+
+O Sanatkuméara — the best of the yogins,
+best among the sons of Brahma, you listen to
+me carefully about the supernatural qualities
+of Siva and Parvati.
+
+aearen fara: sire: frat ara waitfera
+Rreaaaa weatai ake fagten: 030
+
+ed gt mea a weit fee: 1
+
+a: wy: fren aret feaatisa: frat Fre
+
+It is said that Siva — the supreme soul,
+resembles Parvati. The intellects had termed
+Siva as ISvara and Parvati as Maya. The
+Supreme Soul appears before people at times
+in the combined form of a man and a woman,
+also. known as Ardhanarisvara. The
+Brahmanas conceive Siva as Purusa and
+Parvati as Prakrti. Siva is said to be speech
+and Siva is said to be its interpretation. If
+Siva is the day, Siva is the night.
+
+ariqdeal earoit afarom ea
+aT WEN Va: Uferat wg 4
+
+Lifiga Mabapurdna
+
+If Siva is the deva of Sraddha, Siva is the
+daksina of the yajfia. Siva is sky and Siva is
+his beloved earth.
+
+BAS war eal aret teraz
+
+In case, lord Rudra is the ocean, then
+Parvati is the rising and falling waves.
+
+qa: era ta: yeonfinire eran gt
+wen eats arfaat agua |
+fropetad asian waste
+In case, Siva — the trident holder is the
+tree, then Parvati is his beloved creeper. In
+case, Siva is Visnu, Parvati is the goddess
+Laksmi.
+amnfinfeta: wht wager!
+MITA: Ta Ve: TaTeT at efaRT AH cu
+In case, Siva is Indra — the carrier of
+vajra, then Parvati is the daughter of
+Himalaya — the lord of mountains. In case,
+Siva is Agni, Parvati is Svaha — the wife of
+Agni.
+aaftatan tacafcen fice |
+ae Tar, eal TK aalefaratus
+If Siva is Yama, Parvatl is Yami — his
+consort. When Siva is Varuna, then Parvati is
+his spouse Varunani, who bestows all the
+objects.
+arigtredt arg: firar Brana
+dorehiferidts: carga: Rrar SIA gol
+In case, Siva is Vayu or the wind god,
+then Siva is the spouse of the wind god. In
+case, Balendu Siva is Yaksa, then Siva is his
+Rddhi.
+digretraraat dfeok eeaeat
+anata: fra: wie sAreat Taser gg
+In case, Candrasekhara Siva is the moon,
+then Parvati is his beloved Rohini. In case,
+
+## Page 61
+
+Chapter-11
+
+Siva is the son, then Siva is his wife Varcala.
+
+wrataeda tad era
+
+SAT wea Sa set Fat VATU
+
+Siva — the destroyer of Tripura, in case
+
+functions as Karttikeya, then Parvati
+officiates as his beloved Devasena. In case,
+Siva is Daksa, then Uma —~ his beloved is
+Prasiti.
+
+Geren Faq: wy: are frat
+fagefaritarpfa ofa a A aTET Rat
+In case, Siva is Manu, then Parvati is
+Sataripa. In case, Siva is Ruci, then Bhavant
+is Akati.
+pytmfere ta: wntafearrats: |
+aifairares: dpfrdec fret: esi
+Siva — the destroyer of the eye of Bhaga,
+when conceived as Bhrgu, then Parvati is his
+
+beloved Khyati. In case, lord Siva is Marica,
+then Parvati happens to be Sarnbhiti.
+fagtarit efi afa a AAT
+TATE rT TA: SA: MANGA STATI 4
+In case, Siva is Kavi then Parvati happens
+to be his beloved Rucira. In case,
+Gangaidhara Siva is Angiras, then Uma
+happens to be his beloved Smrti.
+Gere: wena: sia: ict fafa: 1
+qaeftaqredfa car sretftafirarn & 1
+In case, Siva — the carrier of crescent, is
+Pulastya, then Uma happens to be his wife
+Priti. In case, Tripurari is Pulaha, then
+Parvati is Daya.
+wadamgetat dafadtaan fart: 1
+Priston Mae SAT Fa: UW!
+The destroyer of the yajfia of Daksa —
+Siva, when happens to be Kratu, then Uma
+happens to be Sannati (the wife of Kratu). In
+
+53
+
+case, the three-eyed Siva is Atri, then Uma —
+his wife officiates as Anusiya.
+
+solageni Gai afte a ear
+
+age yen wd fora: gat weatuecn
+
+In case, Mahegvara Siva officiates as
+
+Vasistha, then Parvati is lady Urja. All the
+men are the forms of Siva and the ladies are
+the form of Parvati.
+
+afeererecarat 4 a a eal: wetferen: |
+pilferqerecaren a: at titel fae: es
+All those who are expressed by the words
+in masculine gender are forms of Siva and all
+the words which are expressed in feminine
+gender represent Siva.
+ad cigen: worerita faye: 1
+uaetgredt araren tifa fags: ton
+All the men and women are the
+excellencies of Siva and Uma. The learned
+people know that all the saktis of objects are
+Gauri.
+arn fadad tat aa aatreat: |
+ufota: dart aaa Tal HVAT UM
+She is the goddess of the Universe and he
+is the supreme lord of all. All objects which
+possess Sakti, are parts of MaheSvara.
+
+art wert year ada: cuftaitfera: |
+cen faperreren tearefayra: 1211
+The eight Prakrtis are the physical forms
+of the goddess. The Vikrtis or deformities are
+her Vibhitis in embodied forms.
+frepfag aa maar a age SA: |
+Sitar: ad den wal Sea TA TATA: 1133 Mt
+Tikteurfiy gator eehafr eter
+wmiftorcien ad wegen orafera: WBS
+Just as the sparks came out of the fire, so
+also the jvas (individual souls) emerge out of
+
+## Page 62
+
+54
+
+the lord. Therefore, the lord has the dual
+existence. The physical bodies of the
+physical beings are the forms of the goddess.
+All the embodied beings are stabilised as the
+parts of the lord.
+
+sre waaTEd Ata Sat AVA: |
+fashicd fayeta farrrerrargan W401
+Everything audible is of the form of Uma
+and the listener is the lord himself. Uma
+herself is the subject while Siva is the
+enjoyer of the objects.
+weed aed I Tt UETIEAT
+Sel a Ua faa aera aT: EU
+Parvati — the beloved of Siva, holds all the
+objects to be created, while fhe lord with the
+crescent moon, is the universal soul and the
+creator of the universe.
+
+Freed wared fanfa qatar
+wa faadad ta: uhravefrarafir: 1 wn
+Terearqared asad a was: 1
+Sal cata VY TAT AT ATA: RCI
+The visible objects are held by
+Bhuvanesvarit or Parvati, while
+
+Candragekhara Siva himself is the observer.
+All the juices or tastes and fragrances are the
+form of Siva. The enjoyer of the taste is Siva
+himself.
+
+Area Ta Heat Heat
+
+Hat a wa faaen Aeeal AVAL: SUI
+
+dao aeq wi a fafa vaaecm
+
+Qa: TUS WA, Val SAME INR
+
+Siva - the great goddess, carries all the
+
+subjects which are to be thought over, while
+Siva — the universal soul, is the thinker
+himself. Siva and Siva both are forms of
+something which is to be revealed, while Siva
+is the one who can well understand the same.
+
+Litga Mabapurana
+
+tarpon tot fryers WE: |
+whrarer ware yoreatfet PAA: NSU
+aa caret ferargredt weforyra: |
+sat sorifase 2a aa tibet fey: waa
+caterer paaeN STATE |
+Va aa EG Ben Sat He aT: 33H
+Uma is the form of the fire altar or a
+pedestal, while Siva is the form of Litiga. The
+Raksasas and the Devas establish the fire
+appropriately and worship him. The objects
+which are of the oral form are the vibhatis of
+Siva, while those resembling the yonf are the
+vibhatis of Siva. .
+faufa aaai tat fraxtawacert
+Ragas od ware aH: WI
+The goddess is the beloved of the slayer
+of the three cities. She is the field, while the
+lord of the slayer of Andhaka is the knower
+of the field.
+
+frat ayaa Rd aTeaT: |
+OTe: Fe aa tee AGH aa BG
+In case, the people worship other deities
+disowning the J/iiga, they will fall in the
+Raurava hell together with the king and their
+ruler.
+
+fraret a at ast Tetssaty Gy a:
+earafet GatereeracM BAT STG, TTT FE I
+
+In case, a king ceases to be a devotee of
+Siva and adores the other Devas, it is like the
+behaviour of a young woman, who discarding
+her own husband, is attracted towards her
+paramours.
+
+FN: WU: Wa WAS Fels: |
+ana qaadta ad fag aif angi
+Brahma and other Devas, the kings of
+
+great prosperity, the subjects as well as the
+sages, worship the /iiga.
+
+## Page 63
+
+Chapter-12
+
+fap was eM TAR TEM: ATA
+eattd fattasacn ferg at adtaauzcn
+After killing Ravana — the son of Brahma,
+along with his army, the Jifiga was duly
+installed on the shore of the ocean by Visnu.
+pea Tea eat ferred Ae
+TATA BE Wed AA AWAIT
+Even after committing thousands of sins
+and even after killing of hundreds of
+Brahmanas, in case, one resorts to lord Siva,
+with full devotion, he is surely liberated.
+ad fagqren cient: ad fag wlan: |
+qergeratag absearard FeLI¥e
+All the worlds are full of /iigas and are
+founded on /irigas. Therefore, one should
+worship the Jiriga, in case he is desirous of
+the eternal region.
+
+water fernadt at: Fatsfahs: fret
+asta areal facta a atari se
+
+Siva and Siva are stationed in the shapes
+of all beings. They should be worshipped by
+men for their own welfare. They should
+always be bowed to and contemplated upon.
+
+ofa stttarquergt sae freer ferqra: art
+Dart CAIESST|
+
+Bd
+
+55
+
+## Page 64
+
+Chapter-12
+
+Brees ara:
+Chapter 12
+The cosmic form of Siva
+PAAR art
+aphaiset marae WEG ASIA: |
+feawne taey That EPA I
+
+55
+
+Sanatkuméra said—
+
+O leader of the ganas and immensely
+intelligent Nandikesvara, you speak out to
+me the eight global forms of lord Siva.
+afehar sara
+
+wd 0 wafrents afearrqara: |
+farere tara aaa TaN I
+Nandikesvara said—
+
+O son ‘of Brahma, I shall now narrate to
+you the universal glory of lord Siva.
+
+sratrdegals areat ctféra: weit
+vas ata: wher: ferret GAARA: 3
+The earth, water, fire, wind, sky, sun, the
+moon and the soul are the eight forms of
+Siva.
+amigategqatien: gaa gata
+wens aa: whet tataes tra: isu
+The sky, the soul, the moon, fire, the sun,
+the water, earth and the wind are the eight
+forms of Siva, the lord of intelligence.
+
+afeatte a4 gate aerat
+afaypteaen ad tareqrifa afar: 4
+
+Therefore, when the oblation is offered to
+the sun in the form of oblations, all the gods
+are pleased with his vibhatis.
+
+area eras ae wralaentiacn: |
+cen ceardan tareden SpRTE Ta: NEU
+
+As by pouring the water at the roots of a
+tree, all the branches of the same feel satisfied,
+similarly, all the gods and their vibhatis feel
+satisfied with the adoration of Siva.
+
+wea green fil we Gator wat: |
+adtareré ard asift aPragan: 19
+
+The excellent sages worship thé solar
+
+form of the lord having twelve aspects and is
+
+## Page 65
+
+56
+
+worthy of worship and is similar to the
+Devas.
+
+STEN etl tea A enkaeraftor: |
+yseaitart Ver ethers dara wae
+
+The digit of amrta belongs to the lord in
+the form of the sun and is beneficial to the
+world as one enlivening the living beings.
+They drink it always.
+
+dgrertrcorenrer ysiesteraer: |
+ate frqeud feraté frat i
+
+The rays known as Candras belong to
+Dhiarjati in the form of the sun and cause the
+showers of snow for the growth of the
+medicinal herbs.
+
+Wacren wares wsiatdsetin: |
+af fanaa cite cerarenfeeareor got
+
+The rays known as Sukda, belonging to the
+lord in the form of the sun, create heat which
+is the cause of maturity and ripeness of plants
+as well the grains.
+
+Fearenererreres BRM: FE |
+septate wht: TATRA: Nee
+
+The rays known as Harikesa, belonging to
+the lord in the form of the sun, is the cause of
+development and nourishment of the stars.
+
+fasenigaeres fot quatre: |
+adaces taeq aerareaSh OT: 18 IH
+The Visvakarmé rays belong to the lord in
+the form of the sun that nourishes Mercury —
+Budha.
+fagera sft wa: farcorerer wafer: |
+ates weita: gaara: 12311
+
+The rays of the trident bearing lord in the
+form of the sun known as Visvavyaca, is the
+nourisher of Sukra — the Venus.
+
+Litga Mahapurana
+
+dasa tits wart sea cRafeafer: |
+eifearsy wpe AERTS: UAE
+The rays known as the Samyadvasu
+belong to the trident bearing lord in the form
+of the thousand-rayed sun, is nourisher of the
+Mars.
+
+safaahtt wart tae fre: 1
+seg a Be hhed ST AAS TOA: WG
+The Arvavasu which belongs to the
+
+Pindka bearing lord in the form of the sun,
+develops Brhaspati — Jupiter always.
+werufsta waren: Rreeaiq se
+ehtearerreres wpe fear Re I
+The Svarét rays belonging to Siva, of the
+
+form of the sun, nourish the planet Saturn
+during the day as well as the night.
+
+qaivreres caren fraieara: |
+apres: Tear UR: Genta Fara V1
+The Susumnd rays belonging to the lord —
+the consort of Uma, the source of the origin
+of the universe and solar in form, develops
+the moon always.
+dari agqerari wepfrerqarra |
+Tet STE Al: TET TTA WR
+The form named Soma, belonging to Siva
+— the preceptor of the universe, is the
+material cause of the universe.
+
+Tea Ba BT User oreo
+west waet Sacra: 12811
+The lunar form of the lord is the slayer of
+
+death and is lodged in all the embodied
+beings in the form of semen.
+
+wien wes oraferT
+aq: Arar wee AATITD:  Ro ll
+
+The body of the nature of the moon,
+
+## Page 66
+
+Chapter-12
+
+which belongs to the lord, who is the
+preceptor of the universe, is lodged in the
+minds of the living beings.
+
+aa: Sewen fen erage: |
+
+ae GTS APTA Re I
+
+The physical form of the lord Soma is the
+
+excellent one among all the bodies of the
+living beings. It is lodged in the form of a
+nectarine digit in sixteen parts.
+
+tas gon qaargaant Tal
+afa: aren wer Vata Maa: wR
+The form named Soma, which belongs to
+the divine ruler, the lord of the Devas,
+nourishes the gods and Pitrs always by means
+of immortal nectar.
+
+Tereisesrats terra sat
+arreen apTes Tarfafe area a
+The physical form of the lord named
+Soma nourishes cluster of medicinal herbs
+for the purity of the souls of all embodied
+beings This form is called Bhavani.
+mart aferas start areata
+witeertae Sara: 11 BEI
+The form of the consort Uma, in the
+nature of moon, is known as the lord of the
+
+individual souls, sacrifices and the
+austerities.
+warmatsetat a afer fag
+
+are agers visita: WA RG
+The physical form of the lunar nature
+which belongs to the lord, is known as the
+lord of waters and the medicinal herbs.
+
+tal feat We: qrertaaterr: |
+
+Tater Saar Freraaee: 1 EU
+sfacaa fea afeafeed arareas wit!
+ae fara anf aac Papelera nl Vou
+
+87
+
+The nectarine lord is beyond the grasp of
+the senses, so even of their presiding deities
+or of those who are expert in discriminating
+between sentients and insentients. When lord
+Siva of the lunar form is stationed as an
+undivided soul, the sweet Maya or Prakrti,
+which is the sole preceptor of all worlds,
+withdraws herself.
+
+aaarten Ala: set sealer
+genta tan: val: Hea: Faron ec
+FAAS A A TATE AST TAT
+Fem wrerat CAE MAST TATE VS
+The physical form of the Yajamana — the
+sacrificial priest, belonging to Siva, nourishes
+by day and night all the deities by means of
+Havya and all the Pitrs by means of Kavya.
+Then his physical form as Yajamana
+propitiates the mobile and immobile beings
+by means of showers and waters caused by
+the sacrificial offerings.
+stated a afe: zai a esr Ped ser
+spar a erdtceet isttef citar 30 tt
+The water which is within and without the
+universe and the water which is in the
+physical body of all the living beings,
+continues to be the great watery physical
+form of lord Siva.
+
+adarard aanerrare aden i
+aaron a ada cart aebarate: ae tt
+
+The nectar like water of the rivers and the
+streams and the ubiquitous water of the
+oceans constitute physical form of Siva — the
+consort of Uma.
+
+aatfert are yarMAa afar
+aif yorien ar afar TAN a
+This body enlivens and sanctifies all the
+living beings. It is lodged in the vital airs and
+
+## Page 67
+
+58
+
+is the form of moon.
+saa afe:ag wenvsrt fara: |
+mario erate: vinifera 33
+The fire lodged within and without the
+
+universe, the fire that is stationed in the body
+of the sacrifice, constitutes the physical form.
+
+withen a yi Fae fated
+fa: wrarardee ar eit gf 3x
+The physical form of the lord, which is
+extremely honoured and worshipped, is
+stationed in the bodies of the living beings
+for their welfare.
+Fer Trees tareecTET: |
+wai aefet tara wisttarets ay: 13411
+red farsi a eared fener: t
+wdtared wit: Hears 7G: 136 I
+The physical form of the lord in the nature
+of fire and identical with all the Devas, is the
+most excellent one. Its forty-nine parts are
+those who are well-versed in the Vedas. The
+lord’s physical body in the form of the
+sacrificial fire carries Havya and Kavya to
+Devas. The fire used by the Brahmanas for
+the Aomas, carries havyas to the Pitrs.
+
+cafe deureasn asia a aerfafe
+
+tae avert afe:cra PAM: ZOU
+
+aiheaa yar wet afa: adhere
+
+UTE AP THEM START ATTA: WAC A
+
+Those who are conversant with the Vedas
+
+and the related texts, speak about these and
+worship him. The wind which is within and
+without the universe and the wind which is
+lodged in the bodies of the living beings,
+constitute the powerful body of Siva. There
+are different types of winds like Prana etc.
+Naga, Karma etc. Avaha etc. These are the
+different forms of lord Igana.
+
+Linga Mahapurana
+
+Sargeitnea Far: aad waif: |
+
+aad areveri afe:ei a ferafert: 138
+wrth a erat visite tere
+wivifade qfa: deren yeaa vot
+aero yor ata ATC} HAT
+rT aah echt Farge: use tt
+Tarra eae Tate |
+
+uaa dgrtarcrta array: st
+apfaisel fracredataer eta: |
+
+Sree Tee HASTA TTS It
+
+The ether, that is within and without the
+universe, as well as that stationed in the
+bodies of the living beings, constitute the
+powerful body of lord Siva. The earthly form
+of Siva has the entire Brahman for it as the
+presiding deity. It is considered competent to
+sustain all living beings — both mobiles and
+immobiles. Learned men say that they are the
+physical bodies of the living beings — both
+mobiles and immobiles. O excellent sages,
+the five elements are evolved out of the five
+physical forms of Iga. They together with the
+sun, moon and the soul are called the eight
+cosmic forms of Siva, the intelligent lord of
+the Devas. The soul is the eighth physical
+body. It has another name of Yajamdna.
+
+waranty waste fern Ta!
+
+Sard srert wena a ata: Weel
+zara Aa: frac racer: |
+ada Rracten dette: waeta: eq
+AGRA TATRA: 1 ¥E I
+
+The Atman is stationed in the mobile and
+immobile beings. The leading sages call the
+atman as the initiated one. It is the body of
+Siva, the bestower of auspiciousness and is
+
+called yajamdana as well. All the eight bodies
+of Siva should always be worshipped with
+
+## Page 68
+
+Chapter-13
+
+devotion by the people who are desirous of
+their welfare. They are the soul causes of
+welfare.
+
+aft dara sem Rrecreqda: at
+BIGMS HATA: UAV
+
+bd
+
+59
+
+## Page 69
+
+Chapter-13
+
+Wales's ara:
+Chapter 13
+Eight bodies of Siva
+
+AHA Fart
+ists aq 4 fe, afearTqara: |
+aeqdtieres frac Tata: 18
+Sanatkumara said—
+
+O Nandikesvara — the best of the Ganas,
+you better enlighten me about Parica-
+Brahmans, which purify the holders of the
+bodies, besides bestowing the welfare.
+df sara
+
+ean a Tee Hfearrgarr: |
+srensingares ferret TATRA: UR
+NandikeSvara said—
+
+The one known as Pafica-Brahman, is the
+form of Siva. O excellent son of Brahma, I
+now speak to you about them. Siva himself is
+Pafica-Brahman.
+
+TOOT TAT ere FerasTATTH: |
+wd eeqaaa 2a: aberrant act: 1130
+
+In the form of Pafica-Brahman, Siva is the
+builder of the universe, destroyer and the
+unique protector. He is called Sarva by the
+masters of scriptural texts and their
+meanings.
+
+59
+
+fase wer TARA: |
+fare qed cet wratie: ya sn
+Vikesi is the wife of Sarva Paramesthi in
+
+the form of Visvambhara. Angaraka ~ Mars
+is their son.
+
+Wa ype Vat spraracanferey: 1
+
+Sater Aaa TART TTT: NG II
+
+wr agifamn tot Ga: Wea ARH: |
+
+aaarsHonh wach ag |
+
+seu Wrarea: era: aeatala: |
+
+PR GAIA SRST aaa: fremien
+
+wal wartal qa: Ta seed: |
+
+arerarord wat aeyrthomg ct
+
+varren aida gu sfa seta
+
+Surrer siren eae TAA 8
+
+The lord is called Bhava by the
+
+expounders of the Vedas. Uma is known as
+the spouse of Bhava, the great soul, who
+enlivens the world. Venus is their son. In the
+form of the fire, the great Pasupati is
+remembered by the learned, as the lord who
+pervades the universe comprising of the
+seven worlds, of which he is the sole
+protector. The beloved wife of Pasupati is
+Svaha in the form of fire. The six-faced lord
+is declared as their son by the learned people.
+The lord is the form of wind which pervades
+the worlds. He is the keeper of all the
+embodied beings. He is glorified as Isina by
+the learned people. The goddess of sana, the
+lord in the form of wind, the creator of the
+universe, is mentioned as Siva and their son
+is Manojava.
+
+frat tot qelewr Gaares FATA: |
+SERIO Tara aT aa: Rott
+ata wrareal att geqerd qa: 1
+Herateed Saer tes TAT: Ra
+
+## Page 70
+
+60
+
+fen aa opm coq: Ga: wha: |
+gate wrarea: waai a fargfera: gz
+Be sagen Vatshrary, yfoafee: |
+galas woe pert aware: 83
+
+qaden eye tat Gases ws: |
+arerdlaraaai wala fag: ues
+aaraat qada vere efit BA: |
+SRT Sa TT EH APA: 4
+afar feet shor qasta wie: |
+
+cormoateata pay ToT MA TT EM
+The lord in the form of the sky is the
+bestower of the desires of all living beings.
+The learned people call him as Bhima. The
+ten quarters are the abode of the goddess of
+lord Bhima in the form of sky having great
+magnanimity. The lord in the form of their
+son is called Rudra by the gods. He bestows
+prosperity to all and yields all the worldly
+pleasures and salvation. Savarcalé is the
+goddess of Rudra when the latter takes to the
+form of a sun, who is the bestower of
+devotion to his devotees. Saturn is their son.
+The lord in the form of moon is Mahadeva
+and is known as the source of origin of all the
+gentle objects. Rohini is the beloved of lord
+Mahadeva in the form of the moon. Buddha
+(Mercury) is their son.
+
+ASA Vat Faleal qa: wy: |
+Hy apa ahadterrrate ara: ott
+Lord Mahadeva in the form of Yajamana
+who offers Aavya and kavya to Deva and
+Pitrs respectively, is called Ugra. He is also
+called [sana by others.
+SEIS VAST ATA: WAN: |
+en aot qtew Aare: GAARA
+Diksa is the wife of lord Ugra when the
+latter is in the form of Yajamana and their
+
+Linga Mahapurana
+
+son is named Santana.
+mofo wity sft alaonigad
+unfsa aeyatd welcted qeyr hy: est
+The hard part of the embodied souls like
+
+kotikana etc. are the earthly body by the
+principle of lord Siva.
+Beas FT VAM ems aor
+ARTS TR TART UAT: MI Roll
+34 a avatafed adaarefara: 1
+ary: aftorad a faey ea TOM VM
+fa: oyatestan ar aed Taftreala: 1
+area: oftoreh a: AG ATARI
+gehtatfa a cer cata a era:
+SRR aera MAT 3H
+sites or cater aaferarraifeaht: |
+aapaferndt aah eater ifr Vs
+eoeaty aaaten tered aca: |
+wdypaenity wash fe aq
+Fea A Ale Aeon Arafat: |
+STAT BY ASTRA: Ta START TT: 1 REM
+The lord of the gods pervades in
+everybody. The unchanging things in the
+embodied souls in the form of solid matter,
+pertains to Bhava — the great Atman and it is
+known as such by those who know the reality
+and have mastered the Vedas. The fiery
+principle seen in the body of the embodied
+thing is known as the physical form of
+Pasupati by those who well understand the
+reality. The body during formation in the
+embodied beings is known by the learned
+people as Isa. The crevice in the body of all
+the living beings is known as the physical
+form of Bhima by those who seek and know
+facts. The glowing element in the eyes and
+other parts of the body is known as the
+physical form of Rudra by those who are
+
+## Page 71
+
+Chapter-14
+
+aware of the reality. The mind is lunar in
+form and lodged in the bodies of all the
+living beings and is known as the physical
+form of lord Mahadeva by those who are
+engaged in research. The soul which is
+named as Yajamana and which pervades in
+the bodies of all the living beings is known as
+the physical body of Ugra by those who are
+aware of the greatest Atman.
+
+afreres ar tat TEMA aH: |
+
+ara aaypara Teg ATAU Wl
+
+aeqicrad adfa wert: |
+
+SR ere ATATA SAAT NEU
+
+aan remeet Ala: el sRITT |
+
+sentry ta udeiterersh FerqT Rs
+
+The great sages believe that all the living
+
+beings born of the fourteen different species
+are not different from Siva who fs possessed
+of the eight cosmic bodies. They say that
+their bodies are identified with the seven
+bodies of Isa. The Atman is his eighth
+physical body and is present in all the living
+beings. In case, you be desirous of getting
+welfare, you should adore by all means, the
+Astamirti form of the lord, which resembles
+the entire universe.
+
+wae ade Fa: wie aeteota
+wit ae remtt forad ae: R01
+wena Pranert wad!
+
+Pred pt cite Afet wer HeahaR 3k
+aeqideers a wa fated aq
+
+Fea He ces se Hea ASFA: 132
+auaieers fate a rater: 1
+
+ard ae wad Care firh er HEAP RR
+anied gd Tere ae: |
+Palen WET TTT AI B¥ II
+
+61
+
+are ¢ caer ae aera: |
+
+aalrartani walyre Ta ANAK
+
+aed i meta: |
+
+sera faented aT RE I
+
+watrasert a Rrarceafiresa go
+
+In case, a person does some good to
+
+someone, which is beneficial to him, it would
+amount to worshipping Mahisa, with eight
+cosmic bodies. In case, a person obstructs or
+suppresses any embodied being’s enemy, it
+would amount to worshipping the eight-
+bodied Siva. In case, protection from fear and
+danger is accorded to any embodied being, it
+surely amounts to worshipping of the eight-
+armed lord. Helping all the people and
+providing them shelter in time of fear of
+misery, surely amounts to the adoration of
+Astamarti Siva. Leading sages declare that
+the help provided to any one and the
+blessings offered to all, is the biggest
+worship of the eight-armed lord. Blessing to
+the other embodied beings and providing
+protection from fear and danger, should be
+practised by you, in case, you intend to
+worship Siva.
+
+fa tage’ sae frereneqgia: ait
+WATERS CATA: 1 BAU
+
+hd
+
+## Page 72
+
+Chapter-14
+
+ages era:
+Chapter 14
+Pafica-Brahmans
+PASHAN Tara
+aa sentir A fearaea TTA |
+da: weoyerbs oferarher Maho 8
+
+61
+
+## Page 73
+
+62
+
+Sanatkumara said—
+
+O best among the Ganas known as
+Nandikesvara, you speak out to me about
+Pafica-Brahmans, who purify the embodied
+beings and also bestow welfare.
+aifesart sara
+
+frets oat oa vere a1
+aft aaracad TERA: Bar I
+Nandikesvara said—
+
+Siva indeed is the form of Parica-
+Brahmans. O excellent son of Brahmi, I shall
+now speak out to you about them.
+
+adeittadedt adete aati
+adeiha tain tamer: fra: nan
+
+In the form of Pafica-Brahmans, Siva is
+the creator of the universe, besides being its
+destroyer and the protector.
+
+ada cera AQTeareory!
+Fife areca fara: wae yA x
+
+The learned people say that Siva is the
+material as well as the factual cause of the
+three worlds, who has five forms.
+
+ayia: va fren: ca wee: TT: |
+weirs Rraey TOA: 4 I
+
+The great forms of Siva — the supreme
+soul, who is worthy of the refuge of all the
+worlds, are five in number and are known as
+Patica-Brahmans,
+
+aaa: wen afa: revert Tea: |
+ahor wefrates sree a: 1611
+
+[sana happens to be the first form of Siva
+Paramesthi also known as Ksetrajiia. In this
+form, he is the knower of the field and
+enjoyer of Prakrti which is fit to be enjoyed.
+
+Taiwan a fedtaraaeet |
+weafa: a fe fasten oearerqerftrariioit
+
+Liga Mahapurana
+
+The second physical form of the lord is
+known as Tatpurusa, which again is equal to
+Prakrti as the abode of the supreme soul.
+
+aninnen qetar a wstffedteret |
+qa: at afaicgar watewerpdazauc tt
+
+The third physical form of the lord is
+known as Aghora, which form pertains to the
+cosmic intellect. It has eight related parts
+starting with Dharma.
+
+ade amearen afar: visirhtaadt
+weg Aag Carey AF SAP TAT |
+Vamadeva is the fourth physical form of
+
+lord Siva which pervades in all the living
+beings in the form of ego.
+
+weer we: cat Afreera |
+Tera Feta Aa MATT 8 o tt
+What is called Sadyojata is the fifth
+physical form of the lord and is stationed in
+all the embodied beings in the form of mind.
+$a: Tal ta: GAS SARA: |
+AAP aH aasetafSra: WR tt
+Thus, Sadyojata is the fifth physical form
+of lord Siva which pervades in all the living
+beings as the sense organ.
+Ferrergett ta: witty wifi
+vafiitgarrencds coreafertceered: 8 UU
+
+Tatpurusa is stationed in the embodied
+beings in the form of touch — the sense organ.
+
+aerate wertaaagrcrcat eal: |
+sitar: wep BRItY orafera: gz
+Aghora, who is immensely glorified, is
+lodged in the eyes of all the embodied
+beings.
+farafearerencas areata faqa: |
+arp roa aroa gy aft BA: 1 gel
+
+## Page 74
+
+Chapter-14
+
+Vamadeva is established in the sense
+organ of tongue of the embodied beings.
+anifgareracaa Velen: Biel Fa: 1
+worst area ferme, erat era: 124
+It is stated that Sadyojata is stationed in
+the form of sense organ of smell in the
+embodied beings.
+wdeata wity wera fated: 1
+aifittgearracata qed Sear kg Ul
+Tsana is said to be stationed in the
+embodied beings as an organ of speech.
+
+unifeareracad Rerreregest gat: 1
+van fasta adfancenitorn ou
+Tatpurusa, according to the men of
+learnings, is lodged in the embodied beings
+as the organ of action or the hands.
+wdfanteor 22 aerate crater: |
+referer aar aatferctecTTA PH: RC
+Aghora, according to the people well-
+
+versed in the truth, is the form of feet or the
+organs of action.
+
+Unies area eater: |
+wdtnrenrart arty APPA: SpA gs il
+The sages say that he is stationed in the
+bodies of all the living beings as rectum.
+sree Fa: Teltsra: fra: WA:
+BA AaMEATATY MOTEL Ro tt
+All the bodies of the living beings serve
+as the organ of generation by Sadyojata,
+according to the people who are well-versed
+in the Vedic and other spiritual texts.
+Sard wir ta wearamreftery|
+SRT MLS STH TT: UE
+The sages and the Devas believe that
+TSana is the lord of all the living beings, the
+
+63
+
+subtle form of sound as well as the cause of
+firmament.
+Weecqed td cafes!
+water wrested WaT: 12
+The excellent ascetics conceive lord
+
+Tatpurusa as the subtle form of touch,
+besides being the cause of wind.
+
+waa tana aA
+wredafaet TEM srr TMAITA: 113
+Those who are well-versed in the Vedas,
+
+opine that lord Aghora, in the subtle form of
+Rapa, is the cause of fiery clement.
+
+TRAST, Wer ATA: |
+arrtaral wrestracta afer Vet
+Those who are well-known about the real
+principles are full of praise for lord
+Vamadeva being the subtle form of Rasa as
+the cause of waters.
+weed Feared TerapRAroT
+seaeari wetter wefercarek ater: 4
+All those who are aware of the real
+principles, praise the lord Sadyojata as the
+
+cause of the earth element in the subtle form
+of smell.
+
+arearencarriterarneea Fata: |
+WRAY ETAT SH WRT RG I
+The leading sages are of the view that the
+primordial lord [sana is wonderful entity in
+the form of firmament.
+wy aged ta cor ca!
+aneteioatrcarenterd BAN fag: WW
+The wise people are aware of the fact that
+the wind stands for lord Tatpurusa in view of
+his all pervading nature in the worlds.
+wentafaran CITT SEAT!
+wera Hera AqaTeNaa SA: RC I
+
+## Page 75
+
+64
+
+Those who are well-aware of the
+interpretation of the Vedic texts, speak about
+Aghora - the noble soul in the form of fire,
+who is adored by all.
+
+R . Sq amtd wa '
+
+arceataras afi WAR fag: nes
+
+In view of his all pervading nature in the
+world, the ascetics are aware that the great
+lord Vamadeva stands for the form of water,
+who pleases the mind.
+
+fadsaerh ta catered TTETHL
+aratealt at afar fag: oi
+Waa Ue TRAST |
+Rrarté afecaertreretcaeiarr: 133 Ul
+afar wa a: wera!
+Terenas 8 feral ATA TA UST
+qafeafrarcarct tarenets: fara: |
+SMa hre Fred Faia: wea: 133
+
+The people with wisdom are aware of the
+fact that lord Sadyojata has the form of earth
+as well. He is the preceptor of the universe
+besides being the sustainer of mobile and
+immobile beings. Infact, the entire universe
+of mobile and immobile beings is the form of
+Patica-Brahmans. The ascetics realise about
+the truth and about the bliss of Siva. Siva is
+also visualised in the form of five Brahmans.
+Thus, the persons seeking welfare, should
+attentively thought of Siva, who is the unique
+soul of the five principles, comparable with
+the five Brahmans.
+
+fe stfeqrergat seen’ vasernerd art
+aqdsiseaa: nesn
+
+Bd
+
+Litga Mahapurana
+
+## Page 76
+
+Litga Mahapurana
+
+WaeRs ara:
+Chapter 15
+The Glory of Siva
+
+PAH sary
+aisha Rameea waraes Her |
+adel aft yorraferret ArT tt
+Sanatkumiara said—
+O Sailadi, you are virtuous as well as
+
+omniscient. Therefore, you narrate to me
+again the glory of lord Siva.
+
+shenfeeara
+framerate: yy azn 3 71
+agfistgen wed: aifered Brrr: 1
+Sailadi said—
+
+O Sage, I shall narrate to you the glory of
+Siva, which had been narrated to me by the
+excellent ascetics variously. You listen to the
+same with a concentrated mind.
+
+aeuqafteag: acacafarieara
+i fara ara: HPacradfa a Aaa
+Some intellectuals conceive Siva as the
+form of sat as well as asat which is also
+repeated by the sages as well.
+
+yrafaate fades a sea |
+ore tH fadrrarormrafecatans
+He is also called manifest as well as
+
+unmanifest. This testifies that the lord is
+ksara (perishable) as well as aksara or
+imperishable. Since, he is all pervasive, he
+identifies himself with the perishable beings
+like jiva etc. He is also called aksara because
+he is ever existent.
+
+34d raed fe frogs 9 fered
+wat: ofacarea fra: weacafaeera 4 tt
+
+The entire manifest forms of Siva, both
+
+## Page 77
+
+Chapter-15
+
+existent and non-existent, are the forms of
+Siva. There is nothing else other than Siva.
+Since he is the lord of both of them, he is
+called Sadasatpati.
+MUMIA WE: ATA TATE
+fad neat HRraprarercararaet: aU
+The sages who are engaged in the search
+of truth speak about Siva, Mahesvara as
+perishable as well imperishable. Some people
+conceive him as beyond both of them.
+THM OTH ATE
+wa 0 aigtela Tee HR Se HONI
+In fact, perishable and imperishable are
+both the forms of Siva and nothing is beyond
+him.
+wat: wR: fata: aia: area qa:
+saad Tens Here VAT CU
+In fact, Siva is beyond perishable as well
+imperishable. Therefore, he is called
+
+MaheSvara. The intellects call him both as
+perishable as well as imperishable.
+
+waReTHSd Y Wa: Soa a Ted |
+aafseatied q aafserttrrorq si
+After a deep thought, it is revealed that
+they exist individually as well as collectively.
+Therefore, he is of the form of manifest as
+well as unmanifest.
+adfa hfrerarat: fer aeRO
+anf fagters oats ore AelaT: Roll
+Others speak about him as the greatest
+cause. The excellent sages are aware that
+Samasti as unmanifest and Vyasti as
+manifest.
+wa 8 afd iia Ta
+wah: seroma Fare fe TA AT RI
+
+Both are said to be the forms of Siva.
+
+65
+
+Their origin from any other source is not
+possible. Being the cause of both, the
+collective and individual Siva is known as
+Paramesvara.
+
+var area: watkoartearory|
+Qadadett a fra: Hhagerea: uaz
+Siva is known to be the cause of manifest
+as well as unmanifest by those who are well-
+versed in the yogic philosophy. Some people
+believe Siva to be the form of body as well as
+the soul.
+
+RATA Oe San aTSaTHRA AE: |
+
+ag faefeercantt Sars FLA: 13
+
+We: SMe HPO Yes ae!
+
+Qadafaaad wl Tea TATA: Uv
+
+Lord Siva, also known as Paramesvara, is
+
+the supreme soul and the supreme lustre. The
+intellects say that the twenty four principles
+constitute a body which speak of Purusa — the
+enjoyer by the word ksetrajfia. Both ksetra as
+well as the ksetrajfia are the form of the self-
+born deity.
+
+a fafaea frareatefa wrgaatfirn: 1
+
+ARTS SF Tee PAL RG It
+
+dhracterarnatert wy!
+
+spies TAP RE II
+
+an val fated oe ret Frere
+
+went 3 wees fracas TATA: 11911
+
+wigs wea Rare feet |
+
+frenfraraedt 4 gt: Hfageragen
+
+The learned people believe that there is
+
+nothing else in the world other than Siva.
+They call the worldly mother consisting of
+elements, sense organs, the inner organs, will
+etc. besides Pradhana as the Aparabrahma
+form. Some are of the view that Siva is the
+form of supreme Brahman, who has neither
+
+## Page 78
+
+66
+
+beginning nor end. The Parabrahman is the
+form of supreme consciousness. In reality,
+the true form of Siva ~ the self-born deity, is
+known as Brahman, which is also known as
+Sankara, the great being and there is nothing
+other than Siva. Some people believe Siva to
+be the form of Vidya as well A vidya.
+
+onan fae ctarrneeat Wea: |
+fadfa a atarecfarafa gatas
+
+The primordial lord Siva is the creator of
+the world, besides being its sustainer. The
+same lord Siva is called as Vidya as well as
+Avidya by Munisvaras.
+
+wrnmfad 3 eet eareyza: |
+vifafaen a fa RraeTTTTTTI RoI
+sarah abrcsferarrrater: |
+
+aty agety faa wifrwert gen
+area dfatadtetfaata ateta 1
+frmeated aed TePrcafretad naz
+Tienes arate ada: |
+corerereaedte fara: spfaferrera 33 tt
+aera aeeteart ate a TAA: |
+walfaefecrcantt CASTES FLA: VI
+aerreTeRea WHA FT Ve TAT!
+peeifet PIT TES TOT Gt
+were Ug BF ATahcHPATS MTT RE tt
+
+The entire world has been formed by
+means of vidyd as well as avidya by the
+unborn Siva. The best form of the universe
+comprises of confusion, vidya and prdna.
+Those who are well-versed in the auspicious
+Vedas achieve the excellent form of Siva by
+means of Jiana-yoga. Vijiiana is called the
+confusion in all the forms. The perception of
+objects of multifarious forms is called bhranti
+or confusion. The principle devoid of
+alternatives or doubts is called Parama which
+
+Liga Mahapurana
+
+is the third form of ISa. There is nothing else
+other than these three. Some people believe
+him as Vyakta, Avyakta as well as Jia,
+Paramesvara is the sustainer and the creator
+of the universe. By the word vyakta, the
+poets means the twenty three principles and
+by the word avyakta, it is meant the
+unmanifest Prakrti. They denote Purusa — the
+enjoyer of the Ganas, by the word Jia. These
+are the forms of Sankara. There is nothing
+else which is not Sankara.
+
+ofa stferqrergat sae fara are aT
+TAM SEAT MG U
+
+bid
+
+## Page 79
+
+66
+
+Liga Mahapurana
+
+aieeils ear:
+Chapter 16
+Forms of Siva
+
+TASPAR sara
+Ua nergqe atafireantiy aca: |
+agfiseen: wed: wfscenfa yatat: gu
+Sanatkuméra said—
+
+O highly intelligent Sailadi, I would like
+to listen again the various truthful forms of
+Siva.
+wenfeeara
+
+wT: va: weet Rraeatt 3 1
+aefiréger wet: wifes Atat: 1
+Sailadi said—
+I shall repeat to you the various forms of
+
+Siva as have been described by various
+ascetics variously.
+
+aaa: wephrete arene qatat: |
+sar Sfserarherrarefaaet: 113
+
+## Page 80
+
+Chapter-16
+
+Such of the learned men who have
+crossed the ocean of the Agama literatures,
+have described Siva as Ksetrajfia, Prakrti,
+Vyakta (manifest) and the soul of time.
+
+aad yes we: werd wepfa ger: 1
+frond Fett varceteficatai si
+wera: wea: uote
+eager waren fe VTE AIG HI
+
+Such learned people conceive prakrti by
+using the word ksetrajfia. The evolutes of
+Prakrti are called Vyakta or manifest. Kala or
+time is the sole cause of the transformation of
+Pradhana into the manifest Prakrti. This set
+of four constitute the four forms of Iga.
+
+fewarnt qed yard oratory
+aera fared faerarat: WATE
+
+Some preceptors speak of Siva, the
+
+Paramegvara, as having the forms of
+Hiranyagarbha, Purusa, Pradhana and
+Vyakta.
+
+fewant: qater iter ferret Fes: |
+Pore STS VI SHR TANI
+Hiranyagarbha is the maker of the
+universe, Purusa is the enjoyer; the evolutes
+of Pradhana are named Vyakta and Pradhana
+is the greatest cause.
+
+asi wae Fa: fraeraqe!
+wrerd ugaesefta aeg a fereanici
+
+This set of four constitutes the four forms
+of Siva. There is no other object different
+from the lord.
+
+frresniearett q werd Hfstat: |
+aartentatt fresreaaRacrarai 8 it
+aah PRT AeA |
+eid safest a Sah ehra: gol
+
+Some conceive Isvara as having the forms
+
+67
+
+of pinda and jati. The physical bodies of the
+mobile and immobile beings are pindas,
+while the ordinary generalities as well as the
+specific generality sattd is called ati, These
+are also the forms of the intelligent lord.
+
+fave feria phate Pred
+fecal ceri tacit fren ee
+Garerpared a fre wiefs Ser
+srearped wert fe aes WAAR I
+citer ata feria ga Afr gal
+agai fasted wore 83 II
+
+Some others mention Iga as the form of
+Virat and Hiranyagarbha. Hiranyagarbha is
+the cause of the worlds and Virat is identical
+with world. Some believe Siva in the form of
+Stitra and Avyakrta. Indeed, the Avyakrta is
+the Pradhina and that is the form of
+Paramesthi. Just as the collection of jewels is
+held together in a thread, so also, the worlds
+are held together by the lord. The form of
+wonderful exploits is known as Sitra.
+
+sivahht wt: facta: weateda
+weivatfa: waa: fra: yeas: evi
+
+Siva, the great lord, also known as
+Sarhbhu and Mahadeva, is glorified by some
+as the immanent soul. By others, he is known
+
+as the great Ifa, self-luminous and self-
+known.
+
+aderta ypc fra: eye: |
+aaarta YA TATA TEATS HAG I
+perro fra: BY: WE TAA: |
+wadtstafaared det wad Fag: WE
+Siva is also known as the one who is
+present within and as the one who controls all
+the living beings. Since he happens to be
+greater than all the living beings, he is called
+as Para (the great being). Siva, Sarhbhu,
+
+## Page 81
+
+68
+
+Sankara, Parameévara is the great soul. They
+
+are aware of his threefold forms named
+
+Prajfia, Taijasa and Visva.
+Wafers Te
+fare fecrrnerrerpareetll V9
+Wee freer sae: |
+feat: Gea: apret gla afer: WRC
+fresaen sig fefeaftrierdaa: |
+vafaoyfattarerracararrattard: 1188 U1
+
+Susupti (sleep), Svapna (dream) and Jagrat
+(wakefulness) are the three states wherein
+Prajfia etc. constitute the presiding deities. The
+two forms known as Virat and Hiranyagarbha
+are meant for the word Avyakrta. They
+constitute the fourth state of Siva, passing
+through the three states, Hiranyagarbha Purusa
+is also known as Kala. These three states are
+the causes of creation, sustenance and
+destruction of the universe. These three states
+of the lord are known as Bhava, Visnu and
+Virifica. The embodied beings devoutly
+propitiate them and achieve salvation.
+
+ares TaN Bhs a wepafer MALT: |
+coat fren a oar a cot She BRAT: RON
+
+The four forms of Paramesthin — Sarbhu
+are mentioned by the learned people, viz.
+Karty (performer), Kriya (action), Karya
+(effect) and K4rana (instrument).
+
+witaenk wat sieia wee: |
+WATT WaT ey PARTE RR I
+arate watt Rraeta 4 a4: |
+
+Doubtlessly, the following four forms
+pertain to Siva, viz. Pramatr (cogniser),
+Pramana (evidence), Prameya (the object of
+cognition) and Pramiti (the act of cognition).
+
+Sarrerrparmrrfare a eaT HAN BAU
+fracta frartsd waseta ata: |
+
+Linga Mahapurana
+
+gat smarmrefatird ari ae ii
+
+aarpd war fe age acanrfeta: 1
+
+feat: women fate, careers: STA: tl
+
+merry spar aratfor sFeenfer a1
+
+erate wanton etetfer APTA: 1A I
+
+The forms of Siva alone like the billows
+
+of the ocean are- Igvara, Avyakrta, Prana,
+Virat, Bhitas and Indriyas or sense organs.
+They call the efficient cause of the worlds by
+name of Igvara. Pradhana itself is also
+mentioned as Avyakrta by the expounders of
+the Vedas. Hiranyagarbha is called by the
+name Prana. Virat is identical with the
+worlds. The word Bhita stands for the
+Mahabhitas or elements. The Indriyas or the
+sense organs are their effects. The excellent
+sages glorify these as the forms of Siva.
+
+werent Rrareen area wat fag: 1
+Rrasreanf avant caterer: 1 3e
+wert 7 Teas atrenghyead
+vafarcrats: frat at fag: nou
+ar tenet qartaenfead|
+aerfere errant arent erates: 11 RC
+anf a aes Feged SATA
+arn faen fren afeatrete: forearrati Ws
+wim: frat dee: freon ga Bela: |
+water fra 24 wat sraferenferrq got
+wera wre Fagergesran 3e
+
+The wise people are well aware of the fact
+that the supreme soul is no other than Siva.
+The twenty five principles are recounted by
+the learned as those originating from Siva,
+which are also not different from him, like
+the series of waves are not different from
+waters. They are aware of the fact that the
+principle of Siva is greater than the twenty
+five categories. Hence, those principles are
+
+## Page 82
+
+Chapter-17
+
+not different from the gold. The principles of
+Sadasiva, ISvara etc. are born of the principle
+Siva and hence are not different from it like
+the variety of jar that is not different from the
+material mud. Maya, Avidya, Kriyasakti and
+Kriyamayi are the four which are
+undoubtedly born of Siva like the rays
+originating from the sun. In case, you intend
+to gain welfare with all the emotional
+attachments, you shall resort to lord Siva,
+who is the soul of all and who arranges
+support unto all.
+
+af stern sae rarer ear A
+Weeits cara: nett
+
+bd
+
+69
+
+## Page 83
+
+Chapter-17
+
+ares aa:
+Chapter 17
+The greatness of Siva
+
+PAPA Farsq
+Wh tose framers!
+sqoadt anfet A GfrecagreRMTTAAA: 18
+we MN Tar HAIgS: WATT!
+water a He wey: He OG TANI
+wei a tages adit Tes MET!
+Sanatkumara said—
+
+O excellent Sailadi, listening to your
+nectar like words, I do not feel satisfied. You
+continue to narrate the excellent glory of lord
+Siva further. How did Siva take to human
+form? How is Rudra glorious and having
+enormous prowess? How is Siva considered
+to be the soul of all? How should the
+auspicious Pasupata vrata be performed?
+
+69
+
+How was Siva visualised by the prominent
+gods? How was Siva pleased?
+
+vhenfeeara
+eBay: ra: TATA Ht
+Sailadi said—
+Sthanu Siva — the great cause, originated
+from the unmanifest.
+
+a adaroitta sefitaanticn: 94:1
+
+tart wert td SRA Herat
+
+cee a wenel ata Ta |
+
+wel ear tae: Gash THe TAG I
+
+He was a great sage and was superior to
+
+the universe. He was the sage who was the
+cause of all the causes. Initially, he saw
+Brahma - the first Deva, born out of his lotus
+face. By way of command, he visualised at
+him. Having been observed by Rudra — the
+lord of the gods, he was able to create
+everything.
+
+qoisroraena tarraaa @ fee
+
+ahi cast aanef dtarfeqaaraa ng it
+
+aera afedaa asa: wetata: |
+
+froin: star ad ars sero
+
+Then Virat -— the gigantic Being,
+
+established the order of the castes and the
+stages of life. The Soma juice was created by
+him for the sake of sacrifices. The sacrificial
+offerings, fire, sacrifice, lord Indra — the
+consort of Saci, carrying a thunderbolt,
+Visnu, Narayana — the glorious one and the
+entire earth comparable with Soma, were all
+originated with Soma juice.
+
+Bea 8 tat VE CET
+Werte tari AeA: WALI
+aed 4 faa Aa: |
+
+ta aps ta wt vara aETTSH
+
+## Page 84
+
+70
+
+The Devas adored Rudra reciting the
+Rudradhyaya. The lord stood surrounded by
+the Devas wearing the lustre over his face. It
+appeared as if the great lord had usurped
+their wisdom. The Devas then adored lord
+Sarikara— “Who are you, Sir?”
+
+aaa Tares GEAR: TOT: |
+ard aH Ward salt a GAA: Wott
+Lord Rudra said— “O excellent Devas, I
+
+had been the sole ancient Being. I happen to
+be the first among all the living beings.
+afaenti a cits Ara: Has
+safatte 3 aritsfa arate:
+I shall be so in the world as well. There is
+nothing beyond me, nor is there anything
+
+separate from me. O excellent Devas, there is
+nothing else.
+
+Preaistreitserret were wera: |
+feu faferaré wefta GareqN ez
+I am both perishable and non-perishable,
+besides being sinless. I am Brahma, as also
+the lord of Brahma. I am the directions as
+
+well as the intermediary directions, besides
+being Prakrti and Purusa.
+
+ReSMeEL a weld Ta: fra:
+aené adn: wintanltriied Te: 0231
+Iam Tristup, Jagati and Anustup metres
+of the prosody. I am the omnipresent truth
+and tranquil me. I am the threefold sacrificial
+fire. I am the preceptor as well as the
+preceptor-hood.
+Tike Tetaré Fret TET: |
+wate aderari afsteratata: gen
+I am the cow, the cavity. I am always
+perceptible in the impenetrable depth. I am
+the foremost and the best of all the principles.
+lam lord of waters.
+
+Liga Mahapurdina
+
+até wrarreatshé aera
+serdaté age: arradteareny: 4 I
+I am the water, lord Isa shining with
+brilliance and the sacrificial altar. I am
+Reveda, Yajurveda and Sdémaveda. 1 am the
+self-born deity.
+serene Hate den aifireai ae: 1
+sfrererquontl Heats BETTS LE I
+I am the Atharvaveda, the mantra and the
+most excellent among the Angiras. I am
+Itihasa (history), the Purana (ancient tales),
+the Kalpa or the science of rituals, as well as
+the Ka/pand or imagination.
+wen a at are etter wife ar!
+Wats adaey atoaersiterer voit
+I am perishable as well as imperishable. I
+am forgiveness, peace, forbearance, besides
+being the secret of all the Vedas. I am the
+best and without birth.
+ent a ufaa a ned ae Ta: TEI
+afer TM At: PRATER Il
+I am the auspicious place of Puskara. I
+happens to be the centre and also beyond
+
+that. I am inside as well outside. I am
+unchangeable in the form.
+
+sifted qiaré wen fare at: 1
+gfeamegreranritfsantir aes u
+I am the caste, I am darkness. I am
+
+Brahma, Visnu and Mahesvara. I am
+wisdom, ego, fanmatras and sense organs.
+ud ad 3 aa A ag AeA: |
+a va adfacrd Paton RAAT: IIo ll
+O excellent gods, one who thinks me all
+in all, he is well-known. He is aware of
+
+Brahman. He is the soul of all, besides being
+Paramesvara.
+
+## Page 85
+
+Chapter-18
+
+ai Maternal catty a1
+
+ART ae aa QATAR
+
+ed ety cata ada eats
+
+seared wrargacar arataceearg 82
+
+O excellent Devas, with the use of my
+
+brilliance, I adore the cows by means of the
+cows, the Brahmanas by means of
+Brahmanical power, longevity and offerings
+by means of longevity, truth by means of
+truth and Dharma by means of Dharma. 1
+adore all by my own brilliance. After saying
+thus, the lord disappeared.
+
+aaa Tat a SS THIOL
+
+O Sar: Tea Be eareife ATI
+
+ARMA Fat: Aig HATTA
+
+aetedaredt Sart ws Kafer MTN VT
+
+Thereafter, the Devas could not find lord
+
+Rudra, including Narayana and Indra. The
+Devas and sages then meditated upon him
+who is the great soul and the great cause.
+With their arms raised up, they praised and
+adored him.
+
+fet steer Ta rae AeA AT
+AGS ATA: 1 VO
+
+pd
+
+n
+
+## Page 86
+
+Chapter-18
+
+SBIR BATA:
+Chapter 18
+The auspicious Pasupata vrata
+al Bu:
+FU TAP Sal TETAS AA: |
+wheat en dal porn aCe
+afet aearag aerator a feet: 18H
+
+n
+
+pnt a aen qa: araanet were
+
+WT: Se BAN ATTA: TAAT: MU
+
+api wei ufrerea adari HB act
+
+fad pei sored aed aet aa 13 11
+The Devas said—
+
+Lord Rudra himself represents Brahma,
+Visnu and MaheSa. He is Skandha, Indra, all
+the fourteen Lokas, ASvini, planets, stars,
+constellations, the sky, all the ten directions,
+the goblins, the sun, the moon and the eight
+planets. He is the life, the tune of Yama or
+death as well. He is the past, present and
+future, which are created by himself. He is
+the universe as well as the truth, salutation to
+him.
+
+wart = cen it fa: caida a1
+aia i farediste ett g aa: Beans
+
+O lord, you are the beginning of the
+universe, besides being Bhdrbhuvah and
+Svah. Ultimately, you are the universal form,
+you are the highest place of the universe.
+
+adaed feheretnes a ata
+wifta ca cen Ufeeqibarcred CANG
+fad da aenfad ad crear
+
+pd arp oh TeTTTE Ta
+
+wre ai ta create aETAIE
+
+You are the complete Brahman, you are in
+two as well as in three forms. You are
+underneath, besides being the lord of the
+gods. You are tranquillity, support and
+contentment. The Aoma which is performed
+in the fire or that which has not been done,
+represents you. You are visible as well as
+invisible. You are the giver as well as the
+non-giver. You are Isvara as well as Krta
+(accomplished). You are accomplished as
+well as unaccomplished. You are surely Para
+
+## Page 87
+
+72
+
+(beyond). You are what has been bestowed as
+well as that which has not been bestowed.
+You are surely Pard as well as Apard, or in
+other words you are senior to the gods as
+well as junior to them. You are the final goal
+of the good as well as the bad people. You
+are Sankara as well.
+
+TUTTATTAT SPT
+warfare Far
+fa rerprracuta:
+fey afeegd acter
+wasrtied oral Peer CU
+We people consume the Soma juice and
+became imperishable. We people can reach
+the flame but cannot reach the gods. In
+reality, what harm can the enemies cause to
+us? Is the death a substitute for eternalship?
+This form of Siva is beneficial for the
+universe. It is divine, imperishable, subtle
+and beyond change.
+were ules a dharma
+srernta oT ore area BARAT: 18 11
+ahaa abe gata aera aa itera
+aed aeisuded Ferrans Berti gott
+It is auspicious and beautiful. It is beyond
+control as the wind is beyond the control of
+anyone. It is unchanging. It can be grasped
+by mind just as the wind is grasped by the
+gaseous things. It sportily swallows the
+gentle by gentle refulgence of its own.
+Salutation to the trident-bearing lord who
+puts a stop to everything and grabs
+everything.
+efeen tac: wat
+vee wre} ferfiser: |
+ae canta & Fred
+feral FAT: WET AA
+
+Linga Mahapurana
+
+Rratrada ae <feroraen!
+ah a chee: Trance steer: TATA: WU
+The deities are stationed in the heart, in
+the vital breath. You are the one who is
+always present in the heart of every one in
+the form of mdtras. You are beyond them.
+Your head faces north and the feet are to the
+south. You are directly linked to north. You
+are eternal Omkara.
+afar a: a ude wore cares fersfet
+sriceg at 4 Uae AeA TUM
+We Tel GIA TH Be: FTA TI
+MAA: TATA GA SH
+What is Omkara, is Pranava itself
+pervading everything. You are the Infinite
+being (Tara), the subtle being (Siksma) and
+refulgence called Vaidyuta pertaining to
+lightning, the great Brahman; you represent
+Tsana, Rudra, Mahesvara — the great Deva.
+sedgarraaa a aia: weifad: |
+wrorrate ere, Tora: Uf LaRt eT kh
+Om<kara is the one which uplifts. Pranava is
+Omkéra because it protects the vital breaths.
+ae caret serenrcrafoaret AAT: |
+wen efia rararetd AarereeraTL 8G Ut
+aera a aaSaa Ve: WATT
+aera PARA SATA Vol
+The eternal lord pervades everything.
+Hence, he is known as all pervasive. Rudra,
+the greatest cause, is infinite because neither
+Brahma nor Visnu or others could trace out
+his beginning on the end. He is the one who
+
+redeems from the ocean of the worldly
+existence and is called Tara.
+
+gat yo eta dar atefeefai
+THI: Tareas wrapateretfea: 8c
+
+## Page 88
+
+Chapter-18
+
+Lord Nilalohtia is subtle and always stays
+in the heart in the bodies. He is therefore
+called Saksma or subtle.
+
+daa cifeada sergesrrard
+PhAST Aa: WH eT YoRA Ae ANT
+He is of both blue and red colour, since
+both Pradhéna and Purusa merge in him.
+Since the semen flows from him, he is known
+as Sukla,
+
+frtcafa serenega: aftitaa |
+FMA Fa FT WTA oll
+menedefa wens a wetferetfaay
+atfgdtatsa arateqa: TRAE UR
+Since he is refulgent, he is known as
+Vaidyuta. He is supreme Brahman because of
+his gigantic nature (Brhattvat) or because he
+
+smells up (Brmhanatvat). The lord without a
+second is the fourth being. He is Paramesvara.
+
+SUR STA: FAG aa ae
+
+sua: atarafe aFat VN
+
+far: adfaart aah a7 |
+
+adhered a opranfarttezafeater ara 33 Ht
+
+ara Aaa ahi raft TALI
+
+waited th Catal He AT UWI
+
+We call him Jsana — the heavenly and
+
+lordly eye of the universe. The wise such as
+Indra and others adore Isana, on all
+occasions. The one who is the lord of lores is
+known as Isgana. What the lord views and
+causes others to see with his behest, what
+should be seen, is knowledge of the soul. The
+great lord himself makes people attain yoga.
+Lord Mahesvara ~ the lord of the Devas is
+therefore called Bhagavan.
+
+vafecitarontta at pena mea: |
+fageeaty teat areacafa citeram 24 11
+
+3
+
+It is the great lord MaheSvara who groups
+the world duly. He is the lord of the Devas,
+creates everything and resides in them
+sportily.
+
+ust fe 2a: vfemsazaat:
+yal fe ora: as 79 ata: |
+
+a Ua ea: 8 ETAT:
+werenpenfeaste afarge: 126
+
+This lord is present in all the quarters. He
+is the one who is born initially and then
+enters into the foetus. He is the Oz who is
+born or the one who will be born. O men of
+inferior sight, he stands with his faces all
+round.
+
+sara ata aeacaeeTT
+
+ad art frada ware Hara FEN VW
+He should always be adored. The
+
+unchanging lord from whom the words
+
+recede after not reaching him along with the
+mind.
+
+Tamera Aeraahy AAT: |
+a a OK Sher Terre LURE
+What the organ of speech utters
+laboriously is without grasping him.
+Irrespective of his being Para or Apara, he is
+the greatest refuge.
+adfa ara: ada agi ateretfeaq
+wa wal THEE Gee: fire: frau RsHI
+The organs of speech call him omniscient
+Nilalohita. The tawny-coloured Siva is the
+Purusa. Salutation to him.
+
+aus a Fered fag yt Hfaertt
+ert seer Sard STAR TTA: 1 Ro It
+He is the great Rudra and is the whole
+
+universe in the past, present and future, in
+many ways, here and there.
+
+## Page 89
+
+74
+
+froaag trary fecorafertar: |
+sifraraferterl SATA FAA: 138
+The lord is gold-armed or is the lord of
+
+gold. He is the consort of Uma. The bull-
+bannered lord is gold-semened.
+
+srnfifronel fargiaaanes: |
+
+were fared aise Gard SAAR
+
+wieonte =H ata SAAT
+
+Wess Yor BL TET TELM T Na
+
+TATA RETA HEA
+
+fad tg afeed atear!
+ia ‘ft eitrerai
+wifa: mead Tater asi
+The lord has odd eyes. He is the creator of
+
+the universe. The universe is his vehicle. It is
+he who created Brahma as his eternal son and
+gave him perfect knowledge revealing the
+Atman to him. Those who perceive Rudra as
+the sole Purusa after invoking and after
+eulogising him, having the form of fire, the
+excellent Deva in the middle of the heart, the
+lord stationed in the Atman and having the
+size of the tip of hair, are self-possessed and
+courageous. The everlasting tranquillity
+belongs to him and none else.
+
+Fed a adtaiag wie: |
+Tere Fafserarca Sia eeT AA AT: AKT
+The lord is greater than the greatest and
+the one who never changes. He is smaller
+than the smallest atom and is concealed in
+the cavity of the heart of the living beings.
+aepise fia werent af aa
+Treat Ted Teel TeatMeda: fRert: 36M
+He is the abode of the universe and is
+stationed in the lotus like heart. Since the
+cavity is deep within, the lord is lodged deep
+within as well as the above.
+
+Litga Mahapurana
+
+Taft ag THe waaay!
+SATA TA Fa TTT R01
+Omikara Paramesvara is of the size of the
+tip of the hair. It is in the centre of the subtle
+cavity of the heart. He is Rta — the eternal
+law, the greatest cause.
+aet wal Feed Tes Ponte!
+sedate freuertsiear 3c it
+He is the truthful Brahman. He is the
+Purusa of dark tawny colour. He is Viripaksa
+of sublimated sexuality. He is [Sana — the
+source of origin of Brahma.
+
+anftrferenta ata at atta arcten gar: 1
+2 vated Ba ate GUNS
+He is ISana presiding over the fivefold
+physical body. He is Ivara alone, who
+occupies the yoni.
+writetetrat feral
+ferstet aa ToT VAT aL
+Ton fora Sas Ae
+qentad craficar a Fs uxot
+It rests in the pranas and is termed as the /iriga
+of the mind in which live the anger, passion and
+forgiveness. Removing the desire which is root
+of the worldly attraction, one is established in
+Rudra and should concentrate on wisdom,
+Uh wed ee Mad WAT
+TACHA ATP ATCA. TALUS
+He is called Rudra by the people of
+wisdom as well as the eternal and everlasting
+Paramesvara. He is surely greater than the
+greatest or is the greatest of all.
+
+TEN wera fara
+warattaai a wean
+fater a Yeregae sz I
+
+## Page 90
+
+Chapter-18
+
+vara day antares
+
+Aen: Va aces Pranieeta: TALUS SN
+
+wana fe greed rahe
+
+Perea aTEAMTA CAT Te UTA AAs
+
+Brahma should meditate upon Visnu, the
+
+fire god, the wind god as well as Pasupati
+who produces the gods. The performer
+should purify himself with fire. He should
+purify all his limbs separately. Controlling all
+the Paficabhiitas, he shall be compressed in
+the order of their origin and qualities. At the
+outset, the m4trds shall be adored, then four,
+three and one in due order. Then the deity
+shall be meditated upon without any mdtra
+without stabilising him at the cerebrum.
+Becoming immortal thus, one should perform
+the Pagupata rite.
+
+Urea oad arent ware: |
+
+afters fattragras: ard: ns tl
+
+Now, I shall mention the Pasupata rite in
+
+brief. One shall concentrate properly with the
+sacred fire repeating the mantras from Rk,
+Yajuh and Saman.
+
+Safed: Baa: ATA: RAAT: FAH
+aerate a yereraea ae: xe I
+
+He should observe fast, remain pure after
+taking bath and wear white clothes, white
+sacred thread and white garlands. He should
+smear the white sandal paste over his body.
+
+Gentes! fier fans sferati
+Oa: TS Yea AGATA: WOU
+att fra aa: sera afgetta a1
+
+far: often ar YBleTT TEL SC
+wa freed a ag ata a
+
+war aid a eR False ada axe
+we: eae a wd a we ied a
+sant da eta 88 Acree Got
+
+75
+
+ari wm wet ari Beda a fro
+
+Brae ales AE SAAT ANG RH
+
+sree Ka
+
+Teta AEA AST: |
+aftatcnten atar
+Farrag PepAUG I
+He should perform Aoma free from
+
+Rajoguna. He should be freed from sins. The
+devotee should then repeat the mantra— “May
+the five vital airs be sanctified. Let the organs
+of speech, mind, feet etc. be purified. Let the
+ears, tongue, breath, intelligence, head,
+hands, sides, back, belly, calves, penis,
+vagina, rectum, scrotum, skin, flesh, blood,
+fat, bones, sound, touch, colour, taste, smell
+etc. Let these elements be sanctified together
+with the fat. Let, by the grace of the will of
+Siva, the cooked rice, the vital airs, mind and
+perfect knowledge, be purified.” He should
+then perform the- sacrifice with ghee,
+sacrificial twigs and caru offerings in due
+order. Thereafter, he should extinguish the
+Rudra fire and take bhasma appropriately.
+Repeating the mantra~ “Agni etc.”, the
+intelligent devotee should wipe off his limbs
+and touch them.
+
+wreannd ei ad oreferirar
+
+wero fed are ara ata an43n
+
+The Pasupata is divine and conducive to
+
+liberation from bondage. It is beneficial to
+Brahmanas as well the Ksatriyas.
+
+ararraty atari actai ¢ fasta: 1
+STATI TERA TATA ANG SH
+It is aiso beneficial to the appropriate
+Vaisyas and particularly to the ascetics. It is
+also beneficial to those who have reached the
+
+stage of Vanaprastha or the forest dwellers,
+besides the noble householders.
+
+## Page 91
+
+76
+
+fagtofattrars ger aerator
+
+aftaitentea sar eter enter 4
+
+ashi aad fan fears deqtq
+
+sero fest faery HeratHa Ta: 4G 1
+
+aifeqerd ae qed a A ae: |
+
+dead ter dhfarrerdga: nyo
+
+The salvation of Brahmacarins or the
+
+religious students has been noticed due to
+this holy rite. One can take ashes from fire of
+the Agnihotra sacrifice repeating the mantra
+of Agni etc. Then the limbs should be wiped
+out and then be touched. A Brahmana is also
+the devotee of Pagupati. A learned Brahmana,
+who smears himself with ashes, is
+undoubtedly liberated from all the sins
+including those who are called as
+Mahapatakas. The ashes are the virile
+essence of fire and a person with ashes
+becomes a virile person.
+
+Teer fat sere fae: 1
+adorafatrte: Rrerarsrareqarq ye tt
+
+A Brahmana engaged in the ablution of
+bhasma or a person lying down over them or
+a person who has conquered his sense organs,
+will be liberated from all the sins and shall
+attain identity with Siva.
+
+Teds yay TAA: |
+Ran a aderaiqeredta ays
+
+Hence, by all means, the learned man
+should purify his body with the application of
+ashes. The words "re re" should not be uttered
+nor he should be rude or impolite in speech.
+
+a wera Caet went aT are era: |
+AA Yat Te TTA ATTA Gol
+tai fared cere o ante aeerfaq
+Teen aeretate frag a a HATTER
+
+Lifga Mabapurtina
+
+Ter at fear ae ari Hr ata aI
+Frere arad ad aan neato SAUER
+The lord of the Devas does not brook it
+
+even if he be Brahma or Visnu. The lord
+said-- “O excellent-faced lady, a person who
+applies ashes is equal to my son Ganesa.
+What is repugnant to them should be
+discarded. A householder, who is devoid of
+Vedic knowledge and who does not wear the
+caste mark Tripundra, falls into the deep hell.
+All his holy rites of worship, charitable gifts
+and holy ablutions are in vain like the Aoma
+performed in the ashes.
+
+vara aderty faqeg araege:
+SIRT Waa Kiet Sa: VA WYER
+vera: tad wal fara faiga!
+
+ae dai wareref agai aferdat: nex
+erga aref abearreRaay: |
+
+we Sfifet Ss TEA: AFT UGG
+ware adel taeaqarahery|
+
+Salht Saree FORT FATT: WEE UL
+Wtatens ah at ad Taferneon
+
+Therefore, during the performing of the
+holy rites, the learned men should wear the
+caste mark Tripundra. After saying this and
+after eulogising the lord in the company of
+the Devas who has applied ashes over their
+bodies, Lord Brahma, who also applies ashes
+over his body, stopped his speech.
+Thereafter, in order to bless them, the lord of
+the individual soul, graced the place with his
+presence along with his consort and the
+ganas. Thereafter, Devas eulogised Rudra —
+the leading Deva, who was present there, the
+lord of all, the lord of the Devas, by means of
+Rudradhyayi. The bull-bannered lord glanced
+at the Devas mercifully with the intention of
+granting them the boons. The lord, who is the
+
+## Page 92
+
+Chapter-19
+
+destroyer of the enemy of the Devas, said to
+them- “I am pleased.”
+
+fa stferrerget TRAM afar Tat A
+ABERMS ATA: URL UL
+
+Rd
+
+77
+
+## Page 93
+
+Chapter-19
+
+waafagis ar:
+Chapter 19
+Method of Siva worship
+
+venfevara
+doy shear sft qe
+APSA Bar: wifrarefarrcara: 118 1
+Sailadi said—
+
+Overwhelmed with devotion, the sages
+and the Devas, delightfully offered their
+salutation to bull-bannered lord Siva and
+said.
+am aq:
+
+Trey Sa APi Gorn fesnfeth: |
+Ha TT a SI] TA MSFT
+The Devas said—
+
+O lord Sankara, you enlighten us as to
+how you should be adored by the
+Brahmanas? When should it be done and in
+what form?
+
+wetter: Porat Mees He TAT
+ara wel ta ALATA FIA CATA} It
+
+Which one of the Brahmana is entitled to
+perform your paj#? How are the Ksatriyas
+and Vaisyas entitled to worship you?
+
+Sitegrn wei aft Grsritenteri a ar
+feara sire aebreares aT AH wit
+
+How are the women, Sudras, Kundas and
+
+77
+
+Gelas entitled to worship you? You kindly
+reveal this all for the welfare of the universe.
+Ya sara
+dat aed aareites Gata Ateeitfea: |
+we Tear aren Hoses: MANTA: 4
+Wee ad waeatd wea
+tara Waa: ad fagqenferarmre
+serge UTI seme AEST
+ae td sergpeenftorqion
+Ta AS THAI
+corey GReTL CH
+Sata said—
+
+Then Sita, well understanding the
+feelings of all the sages, surrounding the blue
+circle, spoken in a magical voice. Then the
+gods and sages spotted Siva with Uma before
+them, like the lustre of crores of the rays of
+the lightning, who has eight arms. Half of his
+body was in the form of a female and his
+head was adorned with the crown of the
+matted locks of hair, He was adorned with all
+the ornaments besides the red garland. The
+red sandal was applied over his body and was
+clad in red garments. He was the creator,
+sustainer as well as the destroyer.
+
+wea Gata ott wast Year!
+ae ofan aaa rererraatras
+
+His face to the north was quite pleasant and
+was of yellow complexion in the form of
+Tatpurusa. His right side head was of Aghora
+form and of the complexion of blue collyrium.
+
+SRT SAAT ATL |
+Tera Fee TR faGawTA Roll
+wee aratared ard fraafiory!
+His northern face was of Vamadeva having
+the red complexion, with red beard having
+
+## Page 94
+
+78
+
+horrible fangs and had the lustre of coral gem
+
+with shine. In this form, his face was pleasing .
+
+the universe, besides bestower of boons.
+ofa aed ea MHafteract WATT
+qormentehtffid freratssracty|
+wets” feet vreprer STAT: 1
+siieeradt warp areaqgrry |
+went Gui ta aged a yas
+ad aftr ta waded a yaa
+eaqurdsweaqaaeagTrrrq i esl
+fara aoset ya sae afar fray
+Mert afar at poster WATTA: 184 I
+aan a altatieceai agar
+Baloo: Waa: WAR ATA RE I
+His western face was of Vamadeva which
+was graceful and of white complexion like
+the cow’s milk. His mouth known as
+Sadyojata was shining like the sun rays
+resembling the érjpundra over the forehead. It
+was adored with the garland of gems.
+Towards the east of the circle, they witnessed
+Aditya and Bhaskara on the west. Bhanu was
+witnessed towards the south and Ravi
+towards the north. All the four faces
+represented Siva’s different forms. They
+witnessed in the east of the circle, the
+expansion of Sakti, Uttara towards the south,
+Bodhini towards the west and Adhyayani
+towards the north, All these Saktis had a
+single face and four arms each. They were
+adorned with all the ornaments and were
+adored by the gods.
+
+mene afer art feral area oT
+eR arty alread RIAA VII
+They also found Brahma to his south,
+
+Visnu to his left, besides Rk, Yajuh and
+Sama.
+
+Linga Mahdpurana
+
+wr ad tated wae
+were aed TARTAR Rc 0
+They also spotted Isvara, the bestower of
+the boons, who was seated over the seat of
+Brahma.
+artiatigeé wy fra aan
+an adat Fae TE TSAI
+They found Sarvesvara seated over a seat
+who was purified from Varraégya and
+Aisvarya, besides being comfortable always.
+farrgorere’ dah gay!
+atet dtafkrareent gant freA APTN Ro
+See RRSERE Wai THETA |
+fara fargumeat ferret wera ar I Re It
+ania aforrreri fay ferafori
+agdeai agdaf tot a acfatpet az
+Lord Siva was seated over a white fully
+blown lotus and was surrounded by the
+goddesses like Dipta and others. Dipta was of
+the form of the flame of a lamp resembling
+the subtle flame of lightning. Jaya was of the
+form of the fire flame and of the complexion
+of gold: Vibhoti was of the type of coral gem.
+Vimala was of the form of lotus. Amogha
+had the shape of the karnikara flowers. The
+lightning had universal colour. Sarvatomukhi
+had four faces and four colours.
+aragrea ed qe afeaci aH!
+geenfa geqafe arta asrat ferent
+Hg denfa da aeaTes a all
+A: Farah Serer: AA: MAAMgAT TATU Ve
+They saw the planets around the lord,
+including Soma (moon), Angaraka (Mars),
+Buddha (Mercury), the most excellent among
+the planets, i.e. intelligent Brhaspati (Jupiter)
+of enormous intellect, Bhargava (Venus) —
+
+## Page 95
+
+Chapter-19
+
+the storehouse of refulgence and Manda
+(Saturn), slow in gait. Sirya — the sun, was
+Siva — the lord of the universe and Soma
+(moon) was Umi herself.
+
+Tana sent ars a TAT
+
+gta wr: ad tatarparaf att
+pasferyqe: we Gaal cade
+areqerataratentrag terete 26 1
+
+The five elements were the rest. The
+universe of the mobile and immobile beings
+was seen as identical with them. On
+visualising Siva with his consort Uma — the
+lord of Devas, the sages and the gods held
+their hands in devotion and eulogised him
+who was the bestower of boons, by means of
+pleasing and delightful words.
+
+RI HF:
+wa: fara ears HqaTa WaT!
+Agena wata faftfersra TWA Wit
+wp fara at Te ww Ta!
+Farag ah Taree AEH WPL RCI
+antes arent ar tia ea fearaTy!
+sat wai cent wat Meat arfaarenrar TH Re
+fremrga tat sterit worrerey
+Sa a aa HAN HATS TEN Fo Ml
+The Sages said—
+
+Salutation to Siva, Rudra, Kadrddra,
+Pracetas, the beautiful one, Sarva, Sipivista
+and to Rarhhase (speed). I bow in reverence
+to the lord Bhaskara (having the lustre of the
+sun), seated over a lotus, surrounded by the
+nine Saktis over a pedestal, which is highly
+pleasing, large, spotless and essentially
+powerful. I bow in reverence to Aditya,
+Bhaskara, Bhanu, Ravi and lord Divakara. I
+bow in reverence to the goddess Uma,
+Prabha, Prajfia, Sandhya, Savitri, Vistara,
+
+79
+
+Uttara, Bodhini as well as Apyayani — the
+bestower of boons. I bow to Brahma, Visnu
+and Siva.
+arnfedé a aera
+dopa HAfafeamam
+erate ta efaresereei
+aerated META TATAN RR Ui
+After worshipping the group beginning
+with Soma, in due order, by means of
+mantras in accordance with the prescribed
+procedure, I remember the lord Sadasiva,
+Sankara — the primordial deity, stationed in
+the solar disc.
+
+Foletaia ates
+array aersrarfetary
+wrested | aersRAoT
+asmfersy a cer ra az
+I remember Indra and other Devas,
+besides ISvara, Narayana and the lotus-born
+first Deva in due order from the east etc.,
+
+beneath and above. I remember the lotus and
+the thunderbolt.
+
+fagranta arses
+PaasrreTg Ta
+
+TMA WIA
+TESA RATT 33 Il
+
+Salutation to you of the saffron colour.
+Salutation to you having been adorned with
+golden ornaments and diamonds. Salutation
+to you having the eyes resembling the lotus,
+to the one holding lotus and the one who is
+the cause of Brahma, Indra and Narayana.
+
+wai a aaa
+moi cen Gata HAT
+aa 4 oreafarary, ;
+erate Hee URS
+
+## Page 96
+
+80
+
+I remember the chariot in which seven
+horses are yoked and Aniru is the charioteer.
+I remember the ganas of seven kinds in due
+order by way of the continuous flow of the
+seasons. I remember the Bélakhilyas. 1
+remember the lord who destroys the group of
+Mandeha demons.
+
+erat faerefatadrert
+|: warela ata aaa
+Seres erg Et
+wrath fered ta Sata 34H
+O lord of the Devas, after performing
+homa in the fire by means of gingelly seeds
+etc. of various kinds and after dedicating
+everything once again, I remember your disc
+stationed in the middle of the lotus of heart
+after duly discharging it with all the rituals.
+erat fara aenrseroT
+tert Garret
+wai a aed a a aT
+at oer fey ge I
+I also remember the disc. I remember the
+pure lotus like eyes which are red in colour. I
+remember the lotus hold in right hand and
+Varadamudré in the left. I remember the
+ornaments adorning the lord.
+: aah .
+faa teas a1
+era tanned fear
+Heed Tze
+I remember your divine face which looks
+terrible with curved fangs, having the lustre
+of lightning, which frightens the Daityas and
+protects the Brahmanas, and is awful for the
+Daityas,
+cate fart spfircraftraet
+aie quar
+
+Litga Mahapurana
+
+geeafa araratrart
+
+as fad porate aA ACH
+eras ort aPrpETd FTL
+aaa dared Feta a TRAINS
+pigata a ysrie-
+
+wer daa aaa pr
+
+rel caref arate Yo tl
+wa: frara tara Fara wate
+ware fared Gt wa SATAA uve tt
+
+I remember Soma, white in colour,
+Bhimija (Mars) having the colour
+resembling the fire, Buddha or Mercury, the
+son of moon possessing the golden lustre,
+Brhaspati (Jupiter) resembling the gold,
+Sukra — Venus having white complexion and
+Manda — Saturn having dark complexion. I
+remember the right hand displaying abhaya-
+mudrg and the left hand resting over the
+thigh. I remember all those planets ending
+with Saturn. I remember Mahadeva and
+Bhaskara. O lord, be pleased. I shall now
+offer arghya to you in a strong copper vase,
+filled with pure water, resembling the full
+moon in colour and having a bunch of
+fragrant flowers. Salutation to lord Siva,
+Tgvara, Kapardin, Rudra, Visnu. Salutation to
+you, O Brahman — the form of Sun.
+
+Ye sara
+a: fra wosa td dost waea: |
+We eaSAANS WSRTAT THT Sy
+wei RA ASS TA AT TA x3
+Sita said—
+
+He who worships the lord Siva with the
+help of a mystic diagram, concentrating his
+purified mind and the one who reads the
+excellent hymn in the morning, noon and in
+
+## Page 97
+
+Chapter-20
+
+the evening, he achieves identity with Siva
+without doubt.
+
+fa stage sant Racer qonfate:
+are eplafergh's ear: 1193
+
+Bd
+
+81
+
+## Page 98
+
+Chapter-20
+
+fagtsear:
+
+Chapter 20
+Sources for worship of Siva
+Ye sara
+FY Bal Hereal HUST: FATA: |
+pat a are a eatsrarori fasta: 118
+Sita said—
+
+Rudra, Mahadeva and the Grandsire, are
+lodged in a mandala and are adorable by
+Brahmanas, Ksatriyas and the Vaisyas.
+
+avani Aa yer asi Ge aI
+vata tarftrerdsfea Gorey a Gea RH
+
+The Sadras can avail of the performing of
+the worship through the priest. The ladies are
+not authorised to worship Siva. There is no
+doubt about it.
+
+aig fetes yorn dered 7a
+arora arerorel erste: 113 |
+
+The puja which is performed through the
+excellent Brahmanas, is beneficial for the -
+Sadras, The Brahmanas and the rulers should
+get the paya of Siva performed for the benefit
+of others
+
+ua dysrtad wren: wera!
+SQ WA VERTAAL INS I
+
+In this way, the worship of Siva should be
+
+got performed through the Brahmanas. Thus
+
+81
+
+speaking, lord Rudra disappeared at once
+from the scene.
+
+a tar aaa: ad Rraghera WE_eL
+whys AERA egear fereet: 40
+
+Getting overwhelmed with devotion, all
+the gods offered their salutation to lord
+Rudra.
+
+waded tar yaaa Tae: |
+qererdatrerntaedt frarefiroryng i
+aferreiqaced ara ator fir
+
+Thereafter, all the ascetics and the sages
+returned to their respective abodes in the
+same way as they had arrived. Therefore,
+lord Siva should be adored like the sun
+always for achieving dharma, riches, kama
+(fulfilling of the desires) and salvation.
+
+RU Ha:
+trety ada waa ao
+oararea Fer aes <i IMT!
+fares tages sacri feareraannici
+Far VSHIgeI erated ada: |
+waa fage Teal SaarragaTT Ns I
+aeemietqe yerararfeay |
+ai rrpaetatantt Fara LI Ro Il
+Ras wed eet ofan |
+ealferares ta Gon wei fat 19g tl
+eratreat ane site ataeet fe A: 1
+The Rsis said—
+
+O Romaharsana, you are the foremost
+among those who cherish all the scriptures. O
+omniscient one, O highly blessed disciple of
+Vyasa, now speak out the auspicious doctrine
+of fire and the sacred scripture thereof,
+recounted by Siva for the achievement of
+virtue, wealth, love and salvation. It was
+mentioned by Siva — the lord of the Devas,
+
+## Page 99
+
+82
+
+with a desire for the welfare of devotees.
+After performing an elaborate penance, the
+like of which is difficult to be fractured even
+by the Gods and Danavas, he extracted his
+doctrine from the Vedas, the six ancillary
+treatises, as well as from the system of
+philosophy i.e. Samikhaya Yoga. It extends to
+a hundred crores of verses. It is quite
+meaningful and contains behest. It is a great
+hidden secret and decries ignorance. In some
+respects, it agrees with the orthodox religion
+based on the four castes and stages of life. In
+some respects, it is antagonistic to it. There is
+a doctrine, as to how to worship the lord?
+How is the sacred ablution of yoga
+performed? We are eager to hear about it.
+Wa sara
+
+We aap Fags QA eH
+
+Wet dant Ga: dente: freind:
+
+yerd wftrata yfreter waa gat
+
+wet aaapana afer Herifeam
+
+wafart afesagrt syudg yearn ew
+Siita said—
+
+Formerly, Nandigvara — the son of Silada,
+the lord of Ganas, besides being a favourite
+of Siva, was asked thus by Sanatkumara on
+the peak of the Meru mountain. After bowing
+down to him, the foremost of the sages, put
+the same question to him. O prominent sages,
+you may now listen to the doctrine of the
+perfect knowledge narrated to Sanatkuméra
+who delighted his race.
+
+a Vfl Sas Ferd oferty
+afatrarteeted wer: wT 84 I
+Jeraed feeds yfreq
+
+This doctrine relating to Siva is the gist of
+
+what is contained in the Vedas or is defined
+by Siva himself. It is devoid of prayers and
+
+Liga Mahapurana
+
+rebuked, is capable of giving immediate
+conviction. As a result of the grace of the
+elders and preceptors, it is a divine doctrine
+which bestows emancipation without much
+efforts.
+
+WAHAT TAR
+araechyg Agta WAT Bg I
+art yorea: gibt
+agree vere fererarrart Fu gon
+Sanatkumara said—
+
+“O Sailadi, how is the worship of Siva to
+be performed for the realisation of virtue,
+love, riches and moksa? It would be quite
+appropriate for you to reveal the same to me,
+since, I have approached you with all the
+humility at my command.
+
+Wa sara
+ea wrantdt fers set GA:
+IMAC RTARTA ATA RS
+
+Sita said—
+
+On hearing the words of Sanatkumara,
+lord Narayana — the most excellent among
+eloquent ones, mentioned the opportune
+moments, occasions, necessary qualifications
+for practicing thus.
+
+venfewart
+Tet: yreanftreart witerey
+thane dar fprarereder aa 8811
+
+aA TY sat wraenha
+onfertfa a yrenataretas area 3 ott
+Sailadi said~
+I shall mention the necessary
+
+qualifications as revealed by the preceptors
+and the spiritual texts. The names of the
+Saiva preceptors or the propounders of the
+Siva doctrine is based on his gravity and not
+
+## Page 100
+
+Chapter-20
+
+otherwise. He is also called Acarya because
+he practices the doctrine himself, stabilises
+the others in the use of those doctrine, and
+collects the topics mentioned in the scriptural
+texts.
+
+wengaetacararard werent
+
+erate: Bri freer en
+
+wierd sare afreqiraeang ry
+
+fererarraenak clerarreratsrr yu 82
+
+ararcarers at aay Fares |
+
+a ger ada Gorifearaeryer 83 Il
+
+A true devotee should reach for an dcarya
+
+having the ability of being well-versed with
+the principles contained in the Vedic
+passages. He should be one lying down with
+his body smeared with ashes. He must be
+graceful and pleasing in appearance. He must
+fee! the necessity of remaining delightful
+among the people at large. He should be the
+follower of the path of Srutis and Smrtis. He
+should be one who bestows fearlessness by
+means of his learning. He should be free
+from instability and should not be too
+talkative. He should follow the code of
+conduct, besides being patient of noble
+conduct and a follower cf the Saiva tradition.
+Finding such a preceptor - a person with
+utmost devotion, he should be adored like
+Siva himself.
+
+BAA a ata TETATARA: |
+Ta: WaAsat Aa AAT WI
+The disciple should worship him in
+accordance with his faith and financial
+capacity. He should serve him physically,
+besides offering monetary gifts. He should
+continue to serve him till he is pleased.
+
+QA FEAT Ge: TMA TAT!
+TERT We: Fo eta Terra: 14H
+
+83
+
+When the highly revered sage is pleased,
+the bondages of the disciple shall be removed
+at once. The preceptor should be honoured
+and worshipped. The preceptor equates lord
+Sadasiva himself.
+
+Parrot ay Rreaamrrterata
+WITT STATA SATA: 1 REM
+The preceptor should test the Brahmana
+disciples for three years by deputing them
+
+here and there, giving them articles to enable
+them to sustain themselves.
+
+STE aheal Ara SAAT!
+
+arpercifsa aa 4 faeré a aifa at yon
+
+a ata: fraaften: Rraetarrn: 1
+
+dara aeeicen: aferegferrengym: URC
+
+adder ota Ferg: |
+
+ATH TET AIT TAH: 183 Ul
+
+sister Aidan: Tae see: Fretaet: |
+
+smth qferiacreerel TATE: 130 1
+
+sibararqquiia errcetaterat: |
+
+ara wa fesn: ad raster: 138 11
+
+weqenttar ang eraser: |
+
+wien wifaeredta ara a fae arn
+
+The excellent disciple should willingly
+
+perform even the meanest task and the base
+person shall be engaged in the loftiest ones.
+In case, they do not resent scolding on having
+been beaten, they could be treated as the
+most deserving disciples. The following
+types of Brahmanas become the deserving
+disciples. Those who are learned in the Saiva
+doctrines, those who are devoted to the holy
+rites pertaining to Siva, who are religious-
+minded and are self-restrained, those who
+follow the path of Srutis and Smrtis, who
+endure all the struggles, who are self-
+possessed and perpetually preserving mental

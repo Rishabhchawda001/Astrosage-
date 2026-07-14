@@ -1,0 +1,94 @@
+{
+  "generated_at": "2026-07-11T18:25:30Z",
+  "library": {
+    "total_files": 751,
+    "total_size_gb": 15.3,
+    "total_pages": 194577,
+    "pdfs": {
+      "total": 602,
+      "native": 293,
+      "scanned": 274,
+      "mixed": 34
+    }
+  },
+  "processing": {
+    "text_extracted": 329,
+    "pages_with_text": 86836,
+    "pages_needing_ocr": 99393
+  },
+  "quality": {
+    "average_score": 56.6,
+    "needs_ocr": 69,
+    "duplicates": 131
+  },
+  "languages": {
+    "hindi": 273,
+    "english": 243,
+    "unknown": 100,
+    "sanskrit": 97,
+    "gujarati": 6,
+    "telugu": 18,
+    "punjabi": 3,
+    "bengali": 1,
+    "malayalam": 3,
+    "tamil": 1,
+    "kannada": 6
+  },
+  "scripts": {
+    "devanagari": 99,
+    "unknown": 416,
+    "latin": 200,
+    "gujarati": 1,
+    "other": 28,
+    "telugu": 3,
+    "bengali": 1,
+    "malayalam": 3
+  },
+  "subjects": {
+    "GRANTHS(Hindi&amp;English)": 94,
+    "Biography (hindi)": 80,
+    "Purans (english)": 66,
+    "sanskrit course": 66,
+    "Puran (hindi)": 48,
+    "ayurveda english": 19,
+    "Panini": 18,
+    "Chalisa (Hindi)": 16,
+    "Famous stories": 16,
+    "Tantra mantra books": 15,
+    "Mahabharat (English)": 13,
+    "Raag mp3": 13,
+    "Puran (telugu)": 12,
+    "kannada books": 12,
+    "Ramayan (telugu)": 11,
+    "Upnishads": 11,
+    "Vemanic sashastra": 11,
+    "astrology hindi": 11,
+    "Astrology (English)": 9,
+    "Ayurveda hindi": 8
+  },
+  "metadata_completeness": {
+    "title": 99.2,
+    "author": 40.9,
+    "publisher": 0.0,
+    "language": 86.7,
+    "page_count": 80.0
+  },
+  "validation": {
+    "total": 751,
+    "with_issues": 751,
+    "by_severity": {
+      "info": 751,
+      "warning": 451
+    }
+  },
+  "semantic": {
+    "entities_found": 118,
+    "unique_terms": 122110,
+    "scriptures": 35,
+    "people": 37,
+    "concepts": 46
+  },
+  "search_baseline": {
+    "queries_tested": 15
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "scripture": "Yajurveda",
+  "date": "2026-07-14T09:16:25.324903",
+  "editions": [
+    {
+      "file": "yajurveda_gujarati_djvu.txt",
+      "publisher": "Darshan Yog",
+      "year": 2000,
+      "authority_score": 35
+    },
+    {
+      "file": "yajurveda_jayadev.txt",
+      "publisher": "Jayadev Sharma",
+      "year": 1975,
+      "authority_score": 50
+    }
+  ],
+  "families": [
+    {
+      "name": "Darshan Yog",
+      "editions": [
+        "yajurveda_gujarati_djvu.txt"
+      ]
+    },
+    {
+      "name": "Jayadev Sharma",
+      "editions": [
+        "yajurveda_jayadev.txt"
+      ]
+    }
+  ],
+  "primary_witness": "yajurveda_jayadev.txt"
+}

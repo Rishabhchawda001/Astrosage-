@@ -1,0 +1,42 @@
+{
+  "total_books": 591,
+  "processed": 591,
+  "total_paragraphs": 272495,
+  "cross_edition_refs": 28906,
+  "evidence_enrichments": 97997,
+  "confidence_increases": 79730,
+  "unknown_gaps": 828,
+  "execution_time": 25.4,
+  "index_time": 22.2,
+  "alignment": {
+    "total": 20616,
+    "by_type": {
+      "exact_cross_edition": 20616
+    }
+  },
+  "confidence": {
+    "total": 79730,
+    "mean_confidence": 0.817
+  },
+  "evidence": {
+    "total": 97997,
+    "by_source_type": {
+      "bronze_corroboration": 79451,
+      "cross_edition": 18546
+    },
+    "unique_units": 79493
+  },
+  "reconstruction": {
+    "total": 0,
+    "by_status": {}
+  },
+  "statistics": {
+    "total_books": 191,
+    "total_units": 79730,
+    "verified": 79730,
+    "recovered": 0,
+    "unknown": 0,
+    "conflicts": 0,
+    "mean_completeness": 100.0
+  }
+}

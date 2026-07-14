@@ -1,0 +1,95 @@
+{
+  "title": "Gayatri Chalisa",
+  "discovered_at": "2026-07-13T13:13:12.004146+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "best-stotra-ratnavali",
+      "title": "Best Stotra Ratnavali",
+      "creator": "raushan",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shree-gayatri-chalisa-chitrawali-pandit-shriram-sharma-acharya",
+      "title": "Shree Gayatri Chalisa Chitrawali by Pandit Shriram Sharma Acharya",
+      "creator": "Pandit Shriram Sharma Acharya",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "gayatrichalisa",
+      "title": "Gayatri Chalisa",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3128189807",
+      "title": "Stanza Type Identification using Systematization of Versification System of Hindi Poetry",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "http://thesai.org/Downloads/Volume12No1/Paper_17-Stanza_Type_Identification_using_Systematization.pdf",
+      "authors": [
+        "Milind Kumar Audichya",
+        "Jatinderkumar R. Saini"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2970915288",
+      "title": "A Dictionary of South African Indian English",
+      "year": 2013,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.58331/uctpress.37",
+      "authors": [
+        "Rajend Mesthrie"
+      ]
+    }
+  ]
+}

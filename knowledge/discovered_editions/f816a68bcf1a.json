@@ -1,0 +1,170 @@
+{
+  "title": "3374",
+  "discovered_at": "2026-07-13T12:23:45.586604+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "United States Congressional Serial Set, Issue 3374",
+      "authors": [
+        "Anonymous"
+      ],
+      "year": 2015,
+      "languages": [],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "1345122675",
+        "9781345122671"
+      ],
+      "publisher": [
+        "Arkose Press"
+      ],
+      "ol_key": "/works/OL24652325W"
+    },
+    {
+      "source": "open_library",
+      "title": "Holiday Open House (Leisure Arts #3374)",
+      "authors": [
+        "Gooseberry Patch; Leisure Arts"
+      ],
+      "year": 2003,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9781574864816",
+        "1574864815"
+      ],
+      "publisher": [
+        "Leisure Arts, Inc"
+      ],
+      "ol_key": "/works/OL9243379W"
+    },
+    {
+      "source": "open_library",
+      "title": "Chemist and Druggist [electronic Resource]; Vol. 142 = No. 3374 (7 Oct. 1944)",
+      "authors": [
+        "Ubm"
+      ],
+      "year": 2021,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9781015303218",
+        "1015303218"
+      ],
+      "publisher": [
+        "Creative Media Partners, LLC"
+      ],
+      "ol_key": "/works/OL34181902W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp78b04560a001000010074-6",
+      "title": "CIA Reading Room cia-rdp78b04560a001000010074-6: IPIR BRASS KNOB MISSIONS 3372 AND 3374 19 JANUARY 1963",
+      "creator": "CIA Reading Room",
+      "year": 1963,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "zhongwenbanphoto0000unse_y8m6",
+      "title": "Zhong wen ban P hotoshop CS6 ping mian an gao she ji shi zhan bao dian 505 ge bi bei bi ji",
+      "creator": "",
+      "year": 2014,
+      "language": "chi",
+      "formats": [
+        "ACS Encrypted PDF",
+        "Cloth Cover Detection Log",
+        "Contents",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "EPUB",
+        "Item Tile",
+        "JPEG Thumb",
+        "JSON",
+        "LCP Encrypted EPUB",
+        "LCP Encrypted PDF",
+        "Log",
+        "MARC",
+        "MARC Binary",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "PNG",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Original JP2 Tar",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "tohonorearthrefl0000macl",
+      "title": "To honor the Earth : reflections on living in harmony with nature",
+      "creator": "Maclean, Dorothy",
+      "year": 1991,
+      "language": "eng",
+      "formats": [
+        "ACS Encrypted PDF",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "EPUB",
+        "Item Tile",
+        "JPEG Thumb",
+        "JSON",
+        "LCP Encrypted EPUB",
+        "LCP Encrypted PDF",
+        "Log",
+        "MARC",
+        "MARC Binary",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "PNG",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Original JP2 Tar",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Title Page Detection Log",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

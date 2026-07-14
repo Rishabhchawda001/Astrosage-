@@ -1,0 +1,229 @@
+{
+  "title": "samved-gujarati",
+  "discovered_at": "2026-07-13T17:00:02.084367+00:00",
+  "edition_count": 10,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "S\u0101maveda-dar\u015bana",
+      "authors": [
+        "Bh\u0101\u1e47adeva"
+      ],
+      "year": 2009,
+      "languages": [
+        "guj"
+      ],
+      "ebook_access": "borrowable",
+      "public_domain": false,
+      "ia_identifiers": [
+        "samavedadarsana0000bhan"
+      ],
+      "edition_count": 1,
+      "isbn": [
+        "9788177901047",
+        "8177901044"
+      ],
+      "publisher": [
+        "Prav\u012b\u1e47a Prak\u0101\u015bana"
+      ],
+      "ol_key": "/works/OL28166723W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.304091",
+      "title": "Shri Samved Sanhita Bhag-i Purvarchik",
+      "creator": "Ghoda,motilal Ravishankar",
+      "year": 1933,
+      "language": "guj",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "GujaratiYajurvedMaharshiDayanandSaraswati",
+      "title": "Gujarati Yajurved Maharshi Dayanand Saraswati - \u0aaf\u0a9c\u0ac1\u0ab0\u0acd\u0ab5\u0ac7\u0aa6 \u0aae\u0ab9\u0ab0\u0acd\u0ab7\u0abf \u0aa6\u0aaf\u0abe\u0aa8\u0a82\u0aa6 \u0ab8\u0ab0\u0ab8\u0acd\u0ab5\u0aa4\u0ac0",
+      "creator": "Maharshi Dayanand Saraswati.",
+      "year": 2016,
+      "language": "guj",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.257610",
+      "title": "Vaman Samved.",
+      "creator": "J.b.lippincott Company New York",
+      "year": 1939,
+      "language": "guj",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2569916026",
+      "title": "A study to assess and compare the level of adherence of IMNCI guidelines among ANMs and ASHA-Sahyoginis in the IMNCI programme implemented in rural areas of Rajasthan",
+      "year": 2016,
+      "is_oa": true,
+      "oa_url": "https://ijmrr.medresearch.in/index.php/ijmrr/article/download/596/1102",
+      "authors": [
+        "Dr Ashok Yadav",
+        "Kiran Batra"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "S\u0101maveda-dar\u015bana",
+      "authors": [
+        "Bh\u0101\u1e47adeva"
+      ],
+      "year": 2009,
+      "languages": [
+        "guj"
+      ],
+      "ebook_access": "borrowable",
+      "public_domain": false,
+      "ia_identifiers": [
+        "samavedadarsana0000bhan"
+      ],
+      "edition_count": 1,
+      "isbn": [
+        "9788177901047",
+        "8177901044"
+      ],
+      "publisher": [
+        "Prav\u012b\u1e47a Prak\u0101\u015bana"
+      ],
+      "ol_key": "/works/OL28166723W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.304091",
+      "title": "Shri Samved Sanhita Bhag-i Purvarchik",
+      "creator": "Ghoda,motilal Ravishankar",
+      "year": 1933,
+      "language": "guj",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "GujaratiYajurvedMaharshiDayanandSaraswati",
+      "title": "Gujarati Yajurved Maharshi Dayanand Saraswati - \u0aaf\u0a9c\u0ac1\u0ab0\u0acd\u0ab5\u0ac7\u0aa6 \u0aae\u0ab9\u0ab0\u0acd\u0ab7\u0abf \u0aa6\u0aaf\u0abe\u0aa8\u0a82\u0aa6 \u0ab8\u0ab0\u0ab8\u0acd\u0ab5\u0aa4\u0ac0",
+      "creator": "Maharshi Dayanand Saraswati.",
+      "year": 2016,
+      "language": "guj",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.399833",
+      "title": "Shri Samved Sanhita Bhag-i Purvarchik",
+      "creator": "Ghoda,motilal Ravishankar",
+      "year": 1933,
+      "language": "guj",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2569916026",
+      "title": "A study to assess and compare the level of adherence of IMNCI guidelines among ANMs and ASHA-Sahyoginis in the IMNCI programme implemented in rural areas of Rajasthan",
+      "year": 2016,
+      "is_oa": true,
+      "oa_url": "https://ijmrr.medresearch.in/index.php/ijmrr/article/download/596/1102",
+      "authors": [
+        "Dr Ashok Yadav",
+        "Kiran Batra"
+      ]
+    }
+  ]
+}

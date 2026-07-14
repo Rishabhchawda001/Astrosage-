@@ -1,0 +1,10 @@
+{
+  "authoritative_ckus": 152261,
+  "silver_ckus": 141757,
+  "verified": 106797,
+  "missing": 45464,
+  "verification_rate": 70.1,
+  "gap_before": 97360,
+  "gap_after": 45464,
+  "gap_recovered": 51896
+}

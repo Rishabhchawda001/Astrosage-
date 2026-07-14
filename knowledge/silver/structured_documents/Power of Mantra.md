@@ -1,0 +1,422 @@
+# Power of Mantra
+
+**Document ID:** DOC-96CAA14C36AE
+**Language:** english (latin)
+**Pages:** 9
+**Class:** native_text
+**SHA256:** `96caa14c36aec5ac7ab48eec03fe2e8f7d566fbbe361c77a50e6007099d4e317`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+May, 2007
+Volume 7, No. 2
+THE POWER OF MANTRA
+Dennis Gaumond
+Introduction
+For thousands of years, in a wide range of cultural traditions, people have been using sounds in
+a variety of ways to contribute to health and well-being. There are traditional songs, chants and
+music to accompany many social activities. In some indigenous tribes, virtually every activity is
+preceded by a ceremonial chant, whether it is hunting, gathering or preparing food, going to war,
+marriage or any type of celebration. These chants help to prepare the participants mentally,
+physically and spiritually, for the coming event. In this article we will focus on one aspect of this
+common practice, the use of certain vocalized ‘power sounds’ that we will call ‘mantras.’ We will
+look at information about mantras and discuss some of the ways that they can affect human
+consciousness.
+Vibrational meaning
+What are mantras? Why do they have such strong capacity to affect us? To answer these
+questions we must first acknowledge that sound in general has a powerful effect on human
+consciousness. Some sounds, such as nails on a blackboard, are irritating, while other sounds,
+such as a gently babbling brook, sooth us. For the most part, all humans tend to react to these
+sounds similarly, although there may be some variation as to which sounds affect which people.
+Several scientists and researchers have tested the idea that sounds can be used to affect
+human health. French scientist, Dr. Alfred Tomatis (1992), has developed techniques using high
+frequency sound to treat a wide variety of medical conditions. Robert Monroe (1994) of the
+Monroe Institute has used sound to balance the hemispheres of the brain. Laurel Elizabeth Keyes
+(1979) has worked with the healing potential of the human voice. Dr. Jeffrey Thompson (2004)
+uses sonic wave forms to induce Alpha and Theta brainwaves. Dr. Robert C. Beck (1992) and
+Tom Kenyon (1994) of Acoustic Brain Research and others have investigated sound’s capacity
+to affect brain states in a variety of ways. .
+It may be useful to think of a sound as a ‘relationship of frequencies..’ Every single, solitary
+sound is a vibration with a specific frequency. Most of the sounds we hear consist of several
+sounds combined, or a collection of frequencies. It is the way that these frequencies relate to
+each other that determines the way they affect human consciousness. With noise or discordant
+sound, the frequencies have no mathematical relationship with each other. In music, the
+
+## Page 2
+
+2
+frequencies (the notes) relate to each other. They are in harmony with each other and are more
+naturally pleasing to the ear.
+A good way to understand a mantra’s power is to look at the way a chord affects us in music. A
+major chord, which is a harmonic relationship of three frequencies or notes, has a built-in
+emotional quality, an inherent way of affecting human consciousness. It makes us feel a certain
+way. A minor chord, which is a different harmonic relationship of three notes, has a completely
+different emotional quality than the major chord. It affects us completely differently.  Humans
+seem to recognize and react to these sounds in a similar way. It is built-in. We don’t know why it
+affects us this way – it just does.
+Similarly, a mantra is a collection of sounds, a relationship of frequencies. Every mantra has an
+innate ability to affect human consciousness. Said another way, each sound and each syllable
+has a natural, inherent power. Certain combinations of these sounds have a ‘vibrational
+meaning,’ a vibratory quality that relates to aspects of humanity/divinity. Repeated exposure to
+these sounds can bring about a shift in human consciousness, bringing that consciousness into
+harmony with that vibratory quality. A mantra has a built-in power to balance energy, to change
+our beliefs, to change the way we act, think and feel. We’re not sure exactly how it works - it
+just does.
+I believe that some ancient root languages, such as Hebrew and Sanskrit, and some indigenous
+languages were built upon this realization, so that the vibrational meaning of certain sounds
+contributed to the literal meaning of words. It seems likely that, back when human consciousness
+was more right-brained and intuitive, the language was developed in such a way that there was
+a truer connection between the vibrational meaning and the literal meaning of a ‘word.’ Our
+modern languages, developed during a time when human consciousness was more left-brained
+and less intuitive, seem less connected in this vibrational way.
+Some mantras evolved to become the names of deities. In other words, the sounds that
+represented a certain set of human/divine qualities were eventually assigned a divine persona,
+and the sound became the name of that persona, that deity. For example, the relationship of
+frequencies in the word kali, contains a certain power/meaning or set of characteristics. This
+set of characteristics was eventually assigned to a persona, a goddess named Kali. She is
+usually associated with the cycles of birth and death – creation and destruction. She can be
+invoked for a variety of related purposes. For example, she can be called upon to help someone
+destroy negative behavior patterns and to create positive replacements for these behaviors.
+When we use the name of a deity in a mantra, we are not just invoking the image of that deity,
+we are invoking the power inherent in the sounds that make up the name of the deity. I believe
+that, along with other powers, such as the power of intention, change is facilitated by the
+vibratory force of the sound, ‘kali.’
+These deity names and mantras are believed, in many traditions, to have power even when they
+are in the form of a thought. In other words, the name itself has been identified as carrying
+power. It appears likely that the actual sound in pronouncing the name may lend it further power,
+although the written name and a mental focus on the name are also said to carry power. If we
+broaden our standard definition of the word ‘sound,’ we can view a thought to be a type of
+sound in that it is also a vibratory expression. Some traditions believe that a thought-form is like
+an electromagnetic transmission.
+It is interesting that similar sounds are seen in the names of deities from different cultures and
+religious traditions. For example, the sound ra or ram appears in many contexts. Anyone who
+possessed the secrets of ‘ram,’ is said to possess ‘the highest expression of cosmic
+knowingness.’ The original name of Abraham was ‘Abram,’ which means ‘he who has Ram.’ This
+
+## Page 3
+
+3
+root can be seen in several names for divinity, such as Rama (India/Tibet), Ra and Ramtha
+(Egypt), and Aram (Celtic).
+In the Ancient Hebrew traditions, the name of God – Jehovah, derived from the name Yahweh
+(sometimes pronounced Yahveh). It is thought that this name originally came from a set of four
+vowel sounds, ee, ah, oo, eh.  These sounds were called the Tetragrammaton and were said to
+have great power. At a point in their history when the patriarchy/priesthood sought to control all
+direct connection to divinity, it was forbidden for the common Hebrews to use this name and
+they were told to use the word ‘Adonai’ to refer to God. It is interesting that in overtone singing
+one uses these same vowel sounds to get different harmonic overtones.
+There is no question that sound is a powerful force. It has always been associated with ‘magick’
+– the art of creating our reality with our will, with the creative power of consciousness. Two
+words associated with magic are ‘incantation’ and ‘enchantment.’ Within these words we can
+see the root ‘chant.’ By the effective use of mantras we can learn to effectively use the power
+of consciousness – to control that creative force and thus control the reality of our lives.
+Science has made some interesting observations related to the power of consciousness and
+sound and their capacity to affect material, physical change. Over the past hundred years,
+quantum physics has alluded to this power of intentionality and will (although not in connection
+with sound). Physicists now feel that the intention of the experimenter must be considered a
+factor that helps determine the outcome of the experiment. The Global Consciousness Project
+spearheaded by Dr. Roger Nelson out of Princeton University conducted experiments with
+Random Events Generators (REGs), computers that are the equivalent of automatic coin flippers.
+These experiments have demonstrated the effects of conscious intent on REGs (Nelson, 1998).
+The explorations of Dr. Masaru Emoto and others have also demonstrated this phenomenon.
+Emoto has shown that conscious intention can affect the physical form of water crystals (Emoto
+2005).
+Science has also shown relationships between sound and matter. Back in the 1800’s Ernst
+Chladni, and more recently Hans Jenny performed experiments, some of which involve sand on
+a thin sheet of metal or dust particles floating in suspension. When the vibration of sound was
+applied, the particles arranged themselves into a pattern. Jenny’s branch of science, known as
+Cymatics, has demonstrated the relationship between form and vibration, showing that vibration
+introduces order to a random collection of particles (Jenny, 1967).
+A variety of mystical traditions have much to say about the creative power of sound and its
+association with consciousness. The following quote is from the Hindu Vedas: “In the beginning
+was Brahman with whom was the Word. And the Word is Brahman.” This passage  appears to
+refer to the idea that sound, here represented by ‘Word’ or vaikhari (Sanskrit), is a major
+component of creation. How similar this quote is to the opening lines of the Gospel of John, “In
+the beginning was the Word, and the Word was with God, and the Word was God.” Again, if w e
+broaden our definition of the word ‘sound’ to mean vibration, then ancient mysticism can be seen
+to be in accord with quantum physics and string theory. These theories contend that everything
+in the universe is a manifestation of vibrating energy.
+There are several allusions in the Bible to the power of sound, including its use in bringing down
+the walls of Jericho. According to the ancient Egyptians, Thoth created the universe with the
+power of his voice. In ancient Greece, as far back as 600 BC, Pyhtagoras taught of the power
+of sound and its ability to affect us. The Hopi Indians tell of the Spider Woman who creates the
+world by singing the Song of Creation.  The Maya, the Aztec and many other indigenous cultures
+have similar creation stories. Clearly, the idea that sound is strongly linked to the creative
+process is widespread among cultures throughout history.
+
+## Page 4
+
+4
+The ancient mystics assert that we create our reality at all times. The following quote is from the
+Buddhist Dharmapada:  “We are what we think. All that we are arises with our thoughts. With our
+thoughts we make the world”.
+Sanskrit – a magic language
+We have considered the idea that all sounds have an inherent power or meaning – a built in
+capacity to affect human consciousness. We can refer to this capacity as the sound’s
+‘vibrational meaning.’ Sanskrit is one of our most ancient root languages, one that seems to have
+retained a high degree of connection between the literal meaning and the vibrational meaning of
+its words. It is sometimes referred to as a ‘science of sound.’ In fact, Sanskrit is a remarkable
+language in many ways.
+Sanskrit is said to be between 5,000 and 7,000 years old. It was developed in the Indian sub-
+continent and passed from generation to generation in oral traditions for millennia before it made
+an appearance in written form. The oldest example of written Sanskrit is thought to be the Rig
+Veda, a key Hindu text written about 1,700 BC. The grammar and phonology of this ancient
+tongue was recorded in great detail in the 5th century BC by an Indian linguist/grammarian named
+Panini.
+Sanskrit heavily influenced many of the languages that followed. It is the earliest form of Indo-
+Aryan language and has had a key influence on most modern Asian languages. It is also the
+oldest Indo-European language, heavily influencing later root languages such as Latin and Greek,
+which in turn form the basis of much of today’s European languages. For instance, this can be
+seen in the Sanskrit words for mother – matr, and father – pitr.
+Referred to as deva-bh_s_, meaning ’language of the gods,’ Sanskrit is thought by many,
+especially those from Hindu and Buddhist traditions, to be a sacred language. In the Upanishads
+it is called ni_v_sitam brahma, the very ’breath of God.’ Hindus believe that this language is
+eternal and perfect in its wording and word order. They believe that, at the beginning of every
+cycle of creation, God remembers the proper order and usage of these Vedic words and
+reintroduces them.
+Sanskrit is the language of Yoga, Ayurvedic medicine, the paths of Buddhism and of ancient
+mystical texts such as the Vedas and Tantras -. Probably more than any other language,
+Sanskrit is equipped to deal with metaphysical and spiritual subject matter. It has words for
+abstract concepts and intangible objects related to the more subtle nature of reality, affording a
+grasp of a deeper version of ‘truth’ – that is, the inner truth that is sensed intuitively rather than
+known through outer-world experiential learning or logical reasoning.  It can describe the
+subtleties of human nature and the pursuit of enlightenment.
+Ironically, even though Sanskrit is a language well equipped to deal with a wide range of human
+feelings, poetry and matters of the heart, it is also a very academic and scientific language. Many
+ancient Sanskrit texts are surprisingly complex, dealing with concepts and theories that have
+emerged recently in modern science. Ideas such as the big bang theory and atomic theory, for
+example, have counterparts in Tantric texts that go back thousands of years. They have much to
+say about many disciplines, including astronomy, astrology, cosmogenesis, cosmic evolution,
+mathematics, geometry, chemistry and physics.
+Sanskrit is considered to be a very precise and unambiguous language. The very word, Sanskrit
+means ‘language brought to formal perfection.’ NASA reporter Rick Briggs says that scientists at
+NASA, in an effort to develop a precise ‘artificial’ language suitable for the techno-computer age,
+declared that Sanskrit was the only human language that was completely unambiguous. An
+
+## Page 5
+
+5
+article in Forbes magazine stated that, as we move toward a more sophisticated technology of
+artificial intelligence, Sanskrit will increasingly become the language of the computer industry
+(Briggs, 1985; Forbes Magazine, July, 1987).
+Sanskrit’s association with mantra is well known and well documented. A study of the ancient
+Vedic and Tantric texts will reveal a wealth of information, including pronunciation and the proper
+usage of language to maximize the transformative effects of the mantras.
+There is much written on the various techniques associated with mantra and the subtleties of
+certain sounds and their inherent powers. According to these schools of thought, there are
+masculine, feminine and neutral mantras; the masculine usually end with hum, the feminine with
+svaha, and the neutral with namaha. Root or seed mantras representing different aspects of
+divinity are called bijas. Here are some examples of bijas and their meanings:
+Krim; (called the Kali Bija) is associated with power over creation and dissolution, recited
+for conquest of limitations.
+Srim is associated with the feminine energy of abundance, recited for the acquisition of
+material joys and prosperity.
+Klim is associated with procreative desire, recited for joy, bliss and pleasure.
+As mentioned, the names of the many Hindu deities are themselves mantras, so that the
+vibrational quality of the name correlates to the aspects of humanity/divinity embodied by the
+deity. (Ashley-Farrand, 1999; Padoux, 1990; Paul, 2004).
+In the modern era about- half of the world’s 6,000 languages are fading away into extinction, due
+to lack of use and the homogenizing effects of globalisation. Despite this, Sanskrit seems to be
+making a comeback. In a wider and wider variety of spiritual pursuits, it is being recognized as a
+sacred language and acknowledged as a powerful healing tool. As yoga and other Eastern
+traditions become increasingly popular and as chants and mantras are exposed to ever-
+widening audiences, it seems that Sanskrit is once again being recognized as a magic language.
+We can use this ancient gift to help raise our vibrations and to enhance our powers of attraction.
+The significance of the number 108
+Many mystical traditions deem it important for rituals to be performed a specific number of times.
+The number 108 is very significant to the practice of mantra because, in Vedic and Tantric
+traditions, a mantra is repeated 108 times. This is thought to be a special number of repetitions,
+much more powerful than 107 or 109 repetitions, for instance. In other words, mantra is
+considered to be most effective using sets of 108 repetitions. The Hindu, Buddhist, Jain, Sihk,
+Islamic and Taoist religions all use a string of prayer beads, usually called a mala, that have 108
+beads or knots. The Christian rosary also derives from these malas, with 54 beads (not counting
+the ‘tail’).
+I am often asked why this is – what is the significance of this enigmatic number? That is a
+question to which there is no quick and easy answer. I will explore several possible ways to
+shed light on the significance of this special number. Before we focus on the significance of the
+number 108, it would be useful to consider a concept called ‘sacred numbers,’ There is a school
+of thought that claims that some numbers are ‘sacred’ or significant in that they appear often in
+nature and in many different contexts throughout history, in many seemingly unrelated cultures.
+For example, the same numbers might appear in measurement systems (distances, volumes,
+weights, etc.); in geometrical relationships; angles, measurements, and geographical positions of
+
+## Page 6
+
+6
+ancient structures such as Stonehenge and the Great Pyramid; in ancient texts; in ancient
+references to magic or alchemy; in certain characteristics of our planet and solar system and
+other contexts. Sacred numbers hint at a great knowledge held by some ancient societies that
+had complex calendars and number systems. Some say that the study of sacred numbers can
+show us the divine order of the universe.
+Here are examples of some of the more well-known significant numbers. The numbers, 144,000
+and 666, appear in Revelations in the Bible. The former is said to be the number of souls who will
+be ‘saved’ on judgment day, while the latter is said to be the number of the ‘beast.’ Another
+interpretation is that 144,000 refers to mankind in its enlightened, metaphysical form while 666
+refers to mankind in its earthly, physical form. There are other significant aspects to these two
+numbers as well.
+There is a very significant cycle of time associated with a phenomenon that science calls the
+precession of the equinoxes. This cycle was referred to often by some ancient societies,
+particularly the Mayans and Sumerians. The number associated with this cycle is 25,920, which
+is the number of years required for the Earth to complete a grand orbit in the galaxy. In other
+words, our planet’s position relative to other cosmic bodies is exactly the same now as it will be
+in 25,920 years. This phenomenon is assigned great importance by some schools of thought.
+Human consciousness is thought to be greatly influenced by our position in the cosmos. This
+notion forms the basis of the practice of Astrology. When the number 25,920 is divided into the
+12 signs of the Zodiac we get 2,160, another very significant number that appears in many
+contexts. One of the more enigmatic contexts is in relation to the moon, which is 2,160 miles in
+diameter. If we divide the precessional number by 5 we get the number 5,184, which is the
+number of years in a period of time that the ancient Mayans called an ajar. They believed that
+human consciousness differs dramatically from ajar to ajar.
+There are many more of these sacred numbers that are significant for a variety of reasons,
+which are too detailed to discuss here. It is thought that these numbers hold clues to the nature
+of reality, the human condition and the metaphysical blueprint that underlies our physical
+universe. Researchers have compiled a fairly long list of them: 3, 12, 36, 60, 72, 108, 144, 216,
+252, 288, 396, 432, 576, 648, 846, 1152, 1269, 1548, 1728, 2304, 2592, 3024, 3168, 3456, 3888,
+5184, 6912, 10368, 13824, 20736, 27648, 41472, 55296, 82944, 165888, 331776. (Munck, 1997)
+Let us now look at some of the ‘sacred’ numbers that pertain specifically to 108. Two of the
+roots or factors of 108 are 9 and 12. Curiously, when you add up the digits that constitute almost
+all of the numbers listed above , they add up to nine. (Try adding them yourself.) The number nine
+is also significant in that it is the number of digits in our decimal system, not counting zero.
+Twelve may be the most significant of all numbers, and is the basis of a phenomenon sometimes
+called the ‘Law of Octaves.’ This law and others have been referred to in ancient writings and
+traditions such as Tantra, alchemy, Hermetic magic, Qabala and shamanic rituals. For some
+reason, energy often subdivides in divisions of twelve. In fact, twelve is a number that appears
+over and over in many contexts, in many cultures throughout history. Some of the more common
+contexts are: twelve months in the year, twelve signs of the Zodiac, twelve hours on a clock-
+face, twelve tribes of Israel, twelve gods in the Greek pantheon, and twelve apostles
+surrounding Jesus (who would be the thirteenth). There are far too many examples to list here.
+It is noted that if a sphere (picture a ping pong ball) had other equal sized spheres perfectly
+packed around it, each of them touching all of the spheres next to it, there would be twelve such
+spheres. The one in the center would be the thirteenth. In music, an octave contains twelve
+separate notes (both white and black keys on a piano). It is just the natural way that energy
+divides itself, in a variety of forms. Many bodies of mystical knowledge further claim that there
+
+## Page 7
+
+7
+are twelve realms or levels of reality. The one we call the physical, material realm is said to be
+the third level, the third ‘note’ in this grand octave.
+The number 108 comes up in a variety of contexts. There are 54 letters in the Sanskrit alphabet.
+Each has a masculine/feminine or shiva/shakti aspect: 54 x 2 is 108. On the sacred geometrical
+configuration know as the Sri Yantra (See Figure 1.), there are points called marmas where
+three lines intersect, and there are 54 such intersections. Each intersection also has
+masculine/feminine or shiva/shakti qualities.
+Figure 1. The Sri Yantra
+In the human body, marmas or marmastanas are energy intersections similar to charkas. There
+are said to be 108 marmas in the subtle body. Also, it is said that there are a total of 108 main
+energy lines or nadis that radiate from the heart chakra. Thus, the number 108 relates to the Sri
+Yantra as well as the human body.
+The diameter of the sun is 108 times the diameter of the Earth. In astrology, there are 12 houses
+and 9 planets. In the Krishna tradition, there were said to be 108 gopis or maidservants of
+Krishna. There are 108 forms of traditional Indian dance. In the Vedas there are 108 Upanishads
+as listed in the Muktikopanishad. There is said to be 108 Tantric texts. Ancient texts say that the
+Atman, the human soul, passes through 108 different stages on its path to enlightenment. The list
+goes on and on.
+It may be very difficult to know, in a logical way, why 108 repetitions of a mantra enhances its
+efficacy. It may in fact be impossible to explain this number’s significance in a scientific way. The
+ancient mystics certainly held it in high esteem. They would say that the number 108 is in sync
+with the rhythms of time and space. When we use 108 repetitions of a mantra we are saluting
+the order of the universe and aligning our intentions with the divine will. Said another way, we
+are harmonizing our personal vibrations with the natural vibrations of creation.
+Chanting
+Chants are mantras and devotional affirmations that have been put to music. The repetition, the
+beauty of the melody, the rhythm – they all help bring the participant into a state of trance and
+help the mantras to reverberate deep in the recesses of the mind, body and spirit long
+afterwards. When a group is chanting in unison, with unified intent, the transformative power of
+
+## Page 8
+
+8
+the vibration seems to amplify in an exponential way. Accompanied by strong clear intentions,
+chanting has great potential to assist in our quest for enlightenment, our ultimate healing. The act
+of chanting automatically regulates the breath, something that is key to many forms of meditation.
+Chanting is a powerful form of meditation that can help us invoke a deity, or enter an enhanced
+state of consciousness. The repetition stills the everyday mind, blissfully freeing the creativity of
+the unconscious mind and opening the vision of the inner eye. Many forms of sound therapy
+provide us the opportunity to entrain to the rising vibrations of the planet in these incredible times.
+Chanting affects our subtle, spiritual bodies, the functioning of our chakra system and the health
+of our physical bodies. Studies have shown that chanting mantras can lead to many physical
+benefits, such as: more coherent and harmonic brain patterns; better communication between
+left and right hemispheres of the brain; boosted immune systems; increased lymphatic circulation;
+lowered heart rate and blood pressure; increased production of melatonin, interlukin-1, and other
+hormones and endorphins; and much more. It has been shown to benefit the treatment of many
+disorders such as eating disorders, schizophrenia, hyperactivity, arthritis, Alzheimer’s disease
+and others. (Campbell, 1997)
+Amongst all the various chants, those that came from the Tantric/Vedic/Sanskrit traditions are
+probably the most systematized, the most sophisticated, and the most written about. However,
+there are chants from numerous spiritual traditions and cultures around the globe, including
+Hebrew, various African tribes, Native American traditions, Australian Aboriginal,
+Greco/Roman/Christian, Arabic/Islamic/Sufi, and chants from the far East, among others. Some
+well-known chants are; ‘Om Mani Padme Hum’ (Sanskrit/Tibetan); ‘the Mahamantra - Hare
+Krishna, Hare Rama’ (Sanskrit/Hindu); ‘Gloria, In Excelsis Deo’ (Latin/Christian); ‘Kyrie Eleison’
+(Greek/Christian), and ‘Gatay, Gatay’ (Sanskrit/Bhuddist).  (There are many excellent teachers
+and musicians who have done much to bring chanting to the west, including Jonathan Goldman,
+Robert Gass, Krishna Das, Jai Uttal, Wah, Deva Premal, and many more
+(Gass, 1999; Goldman, 2002);
+In conclusion
+Modern research into the healing potential of sound has uncovered a variety of methodologies,
+using devices old and new that include singing brass and crystal bowls, whistling Peruvian
+vessels, tuning forks and even complex computer programs. Fortunately, one of the very best
+devices for sound healing is easily available to all of us – the human voice. It has been used in
+many cultures throughout history, often in the form of chants and mantras. The act of chanting
+often leaves us feeling elated, connected and free. It sends us flying. Chanting and the use of
+the power of mantra is truly a beautiful and joyful way for us to facilitate our healing process.
+References
+Ashley-Farand, Thomas. Healing Mantras, Random House, New York 1999.
+Beck, Robert C. Applying Psychology, Critical and Creative Thinking, Prentice Hall 1992.
+Briggs, Rick. Sanskrit & Artificial Intelligence — NASA, Knowledge Representation in Sanskrit
+and Artificial Intelligence, Artificial Intelligence Magazine 1985.
+Campbell, Don. The Mozart Effect: Tapping the Power of Music to Heal the Body, Strengthen the
+Mind, and Unlock the Creative Spirit, Harper Paperbacks 2001.
+Emoto, Masaru. The Hidden Messages in Water, Atria 2005, www.masaru-emoto.net.
+Gass, Robert. Chanting, Broadway Books, New York 1999.
+
+## Page 9
+
+9
+Goldman, Jonathan. Healing Sounds: The Power of Harmonics, Healing Arts Press 2002.
+Jenny, Hans. Cymatics, A Study of Wave Phenomena, Macromedia Press 1967.
+Kenyon, Tom. Brain States, United States Publishing 1994, www.tomkenyon.com.
+Keyes, Laurel Elizabeth. Toning: The Creative Power of the Voice, DeVorss & Company 1979.
+Monroe, Robert and Russell, Ronald. Using the Whole Brain: Integrating the Right and Left Brain
+with Hemi-Sync Sound Patterns, Hampton Roads Publishing Company 1994.
+Munck, Carl. The Code, Earth/matriX, New Orleans 1997.
+Nelson, Roger.  Global Consciousness Project 1998, www.noosphere.Princeton.edu.
+Padoux, Andre. Vac: The Concept of the Word in Selected Hindu Tantras, State Univ of New
+York Press, New York 1990.
+Paul, Russill. The Yoga of Sound, New World Library, Novato, CA 2004.
+Tomatis, Dr. Alfred. The Conscious Ear: My Life of Transformation Through Listening, Hushion
+House 1992.
+Thompson, Jeffrey D. Brainwave Entrainment through Binaural Sound in Audio Antidotes II:
+Tools, Tips, and Techniques for Digital Audio,  A. K. Peters, Ltd. 2004.
+www.neuroacoustic.com.
+Dennis 
+Gaumond is a researcher,
+teacher, musician and the author of the
+books ‘Why Is Life?’, the CD/booklet,
+‘Chant Magic’, and the CD, ‘Attracting
+Abundance, Mantras for 
+Prosperity'.
+Dennis has presented workshops across
+Canada, teaching seminars on the topics
+in his book and leading ‘sound healing’
+events that include the science of mantra,
+the ancient art of overtone singing,
+chanting, shamanic drumming and crystal
+bowls.
+Contact
+ 519 763-0004,
+dgomo@golden.net
+www.whyislife.com
+TERMS OF USE
+The International Journal of Healing and Caring On Line is distributed electronically. You
+may choose to print your downloaded copy for relaxed reading.
+We encourage you to share this article with friends and colleagues.
+The International Journal of Healing and Caring – On Line
+P.O. Box 502, Medford, NJ 08055
+Phone (866) 823-4214     (609) 714-1885
+Email: center@ijhc.org   Website: http://www.ijhc.org
+Copyright © 2007 IJHC. All rights reserved.

@@ -1,0 +1,137 @@
+{
+  "dataset_version": "1.0.0",
+  "schema_version": "1.0.0",
+  "pipeline_versions": {
+    "classifier": "0.1.0",
+    "language_detector": "0.1.0",
+    "ocr_router": "0.1.0",
+    "text_extractor": "0.1.0",
+    "ocr_engine": "0.1.0",
+    "metadata_extractor": "0.1.0",
+    "chunker": "0.1.0",
+    "embedder": "0.1.0",
+    "vector_store": "0.1.0",
+    "retriever": "0.1.0",
+    "reranker": "0.1.0",
+    "grounding_engine": "0.1.0",
+    "duplicate_detector": "0.1.0",
+    "provenance_graph": "0.1.0",
+    "knowledge_registry": "0.1.0",
+    "manifest": "0.1.0"
+  },
+  "pipeline_details": {
+    "classifier": {
+      "version": "0.1.0",
+      "description": "Document type classification engine",
+      "changes": [
+        "Initial implementation: extension, magic bytes, PDF type detection"
+      ]
+    },
+    "language_detector": {
+      "version": "0.1.0",
+      "description": "Language and script detection",
+      "changes": [
+        "Initial implementation: script analysis, filename heuristics"
+      ]
+    },
+    "ocr_router": {
+      "version": "0.1.0",
+      "description": "OCR routing decision engine",
+      "changes": [
+        "Initial implementation: native/scanned/mixed PDF routing"
+      ]
+    },
+    "text_extractor": {
+      "version": "0.1.0",
+      "description": "Text extraction from PDFs (native)",
+      "changes": [
+        "Initial implementation: PyMuPDF direct extraction"
+      ]
+    },
+    "ocr_engine": {
+      "version": "0.1.0",
+      "description": "OCR processing for scanned documents",
+      "changes": [
+        "Initial implementation: PaddleOCR + Tesseract fallback"
+      ]
+    },
+    "metadata_extractor": {
+      "version": "0.1.0",
+      "description": "Document metadata extraction",
+      "changes": [
+        "Initial implementation: PDF metadata, filename parsing"
+      ]
+    },
+    "chunker": {
+      "version": "0.1.0",
+      "description": "Semantic chunking engine",
+      "changes": [
+        "Initial implementation: verse, header, paragraph, sentence splitting"
+      ]
+    },
+    "embedder": {
+      "version": "0.1.0",
+      "description": "Embedding generation (BGE-M3)",
+      "changes": [
+        "Initial implementation: dense + sparse embeddings"
+      ]
+    },
+    "vector_store": {
+      "version": "0.1.0",
+      "description": "Vector database storage (Qdrant/Chroma)",
+      "changes": [
+        "Initial implementation: Chroma embedded mode"
+      ]
+    },
+    "retriever": {
+      "version": "0.1.0",
+      "description": "Hybrid retrieval engine",
+      "changes": [
+        "Initial implementation: BM25 + Vector + RRF fusion"
+      ]
+    },
+    "reranker": {
+      "version": "0.1.0",
+      "description": "Cross-encoder reranking",
+      "changes": [
+        "Initial implementation: ms-marco-MiniLM-L-6-v2"
+      ]
+    },
+    "grounding_engine": {
+      "version": "0.1.0",
+      "description": "Answer grounding and verification",
+      "changes": [
+        "Initial implementation: sentence-level evidence checking"
+      ]
+    },
+    "duplicate_detector": {
+      "version": "0.1.0",
+      "description": "Duplicate detection (SHA256 + SimHash)",
+      "changes": [
+        "Initial implementation: exact + near-duplicate detection"
+      ]
+    },
+    "provenance_graph": {
+      "version": "0.1.0",
+      "description": "Data provenance tracking",
+      "changes": [
+        "Initial implementation: DAG-based traceability"
+      ]
+    },
+    "knowledge_registry": {
+      "version": "0.1.0",
+      "description": "Permanent ID assignment system",
+      "changes": [
+        "Initial implementation: deterministic UUID generation"
+      ]
+    },
+    "manifest": {
+      "version": "0.1.0",
+      "description": "Knowledge manifest generation",
+      "changes": [
+        "Initial implementation: CSV + Parquet export"
+      ]
+    }
+  },
+  "generated_at": "2026-07-14T11:16:52Z"
+}

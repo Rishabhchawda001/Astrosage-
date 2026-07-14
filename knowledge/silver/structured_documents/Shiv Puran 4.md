@@ -1,0 +1,5503 @@
+# Shiv Puran 4
+
+**Document ID:** DOC-BAEF3FDDA3DA
+**Language:** unknown (unknown)
+**Pages:** 553
+**Class:** scanned_image
+**SHA256:** `baef3fdda3da0aefe12992ef858d5eda16f17c29e6206a08137740284de1adb9`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+. THE |
+SIVA-PURANA
+
+PART IV
+
+MOTILAL BANARSIDASS PUBLISHERS
+PRIVATE LIMITED @ DELHI
+
+## Page 2
+
+First Edition: Detht, 1950
+Reprint: Delhi, 1974, 1978, 1983, 1988, 1992, 1995, 1998, 2002
+
+Also available at
+
+MOTILAL BANARSIDASS
+
+41 U.A Bungalow Road, Jawahar Nagar, Delhi 110007
+8 Mahalaxm: Chamber, 22 Bhulabha:r Desa: Road, Mumba: 400 026
+120 Royapettah High Road, Mylapore, Chennai 600 004
+236, 9th Main TIT Block, ayanagar, Bangalore 560 O11
+Sanas Plaza, 1302 Baji Rao Road, Pune 411 002
+8 Camac Street, Kolkata 700 017
+Ashok Rajpath, Patna 800 004
+Chowk, Varanasi 221 001
+
+UNESCO COLLECTION OF REPRESENTATIVE WORKS—Indian Series.
+This book has been accepted in the Indian Translation Senes of the UNESCO
+Collecuon of Representative Works, jorntly sponsored by the United
+Nations Educational, Snentific and Cultural Organization
+(UNESCO) and the Government of India
+
+Pnated in India
+BY JAINFINDRA PRAKASH JAIN AT SHRI JAINENDRA PRESS,
+A-45 NARAINA, PHASE-I, NEW DELHI 110 028
+AND PUBLISHED BY NARENDRA PRAKASH JAIN FOR
+MOTILAL BANARSIDASS PUBLISHERS PRIVATE LIMITED,
+BUNGALOW ROAD, DELHI 110 007
+
+## Page 3
+
+CONTENTS
+
+UMASAMHITA
+29. Primeval creation
+30. Description of creation
+31. ” ”
+32. Family of Kasyapa
+33. Description of creation
+34. Manvantaras
+35. Description of Vaivasvata
+36. Nine sons and the race of Manu
+37. Race of Manu
+38. Satyavrata to Sagara
+39. Kings of the solar race
+40. Power of the manes
+41. Seven hunters, their attainment
+42. Power of the Pitrs
+43. Mode of worshipping Vyasa
+44. Birth of Vyasa
+45. Incarnation of Mahakalika
+46. Incarnation of Mahalaksmi
+47. Dhimraksa, Canda, Munda and Raktabija
+killed
+48. Manifestation of Sarasvati
+49. Manifestation of Uma
+50. Incarnation of Sataksi
+51. Review of holy rites
+KAILASASAMHITA
+1. Discussion among Vyasa, Saunaka and others
+2. Dialogue between the God and the Goddess
+3. Way of Sannyasa
+4. Daily conduct of a Sannyasin
+5. Mystic diagram of the ascetic
+6. Nyasa in the path of renunciation
+
+1573
+1575
+1580
+1583
+1587
+1589
+1594
+1597
+1602
+1607
+1612
+1615
+1619
+1624
+1626
+1627
+1638
+1645
+
+1650
+1655
+1660
+1663
+1667
+
+1674
+1678
+1680
+1686
+1689
+1692
+
+## Page 4
+
+22.
+
+23.
+
+Worship of Siva
+
+Mental worship of Siva
+
+Mode of interpreting the Pranava
+
+Siita’s instructions
+
+Brahma Vamadeva
+
+Procedure of Sannyasa
+
+Procedure of Renunciation
+
+Pranava in the form of Siva
+
+Idol of Siva for worship
+
+Siva’s Principle
+
+Non-dualistic nature of Siva
+
+Procedure of initiating a disciple
+
+Rules of Yogapatta
+
+Rules for hair-cutting and ablution
+
+The first ten days rite on the death of an
+ascetic
+
+Rites on the eleventh day on the death of an
+ascetic
+
+Twelfth day rites for Yatis
+
+VAYAVIYASAMHITA, SECTION I
+
+CENOUVPENS
+
+Origin of the sacred lore
+Problem of the sages
+Naimisa episode
+Advent of Vayu
+Principles of Siva cult
+
+” ”
+Glory of Time
+Span of life of the Trinity
+Creation and sustenance
+Description of Creation
+
+” ”
+
+” »
+Creation of Brahm and Visnu
+Manifestation of Rudras
+Song of Prayer addressed to Siva and Siva
+Manifestation of divine Sakti
+Narrative of Creation
+
+1697
+1703
+1706
+1710
+1713
+1718
+1725
+1731
+1734
+1738
+1744
+1749
+1752
+1757
+
+1760
+
+1766
+1769
+
+1774
+1778
+1781
+1787
+1788
+1794
+1799
+1802
+1804
+186
+1810
+1812
+1817
+1821
+1822
+1825
+1827
+
+## Page 5
+
+18. Abandonment of the body by Sati
+
+19, Origin of Virabhadra
+
+20. Destruction of Daksa’s sacrifice
+
+21. Punishment of the Gods
+
+22. Destruction of Daksa’s sacrifice
+
+23. Siva’s Fury
+
+24. Siva’s sports on the Mandara mountain
+25. Goddess attains fair complexion
+
+26. Attainment of higher status by the tiger
+27. Gauri’s embellishment
+
+28. Glory of Bhasma
+
+29. Analysis of Vag-Artha
+
+30. Principle of Siva
+
+31. Instruction in perfect wisdom
+
+32. Description of excellent practice
+
+33. Rules Governing Pagupativrata
+
+34. Penance of Upamanyu
+
+35. Story of Upamanyu
+
+VAYAVIYASAMHITA, SECTION II
+
+Acquisition of sons by Srikrsna
+Glory of lord Siva
+Upamanyu’s advice to Srikrgna
+Magnificence of Gauri and Siva
+Knowledge of Pasupati principle
+Principle of Siva
+
+” ”
+Incarnations of Vyasa
+9. Siva Yogacarya
+10. Devotion to Siva
+11. Saivite knowledge
+12. Glory of the mantra of Siva
+13. ” ”
+14, ” ”
+15. Greatness of the preceptor
+16. Consecration of the disciple
+17. Rules of Saivite initiation
+18. Purification of the six paths
+
+ONAAr ON =
+
+1831
+1836
+1841
+1844
+1847
+1852
+1857
+1862
+1865
+1868
+1871
+1872
+1875
+1879
+1887
+18)1
+1899
+1904
+
+1910
+1912
+1916
+1919
+1926
+1929
+1932
+1935
+1938
+1940
+1946
+1951
+1954
+1959
+1965
+1971
+1977
+1980
+
+## Page 6
+
+Consecration of the aspirant and the greatness
+
+of the Mantra
+Special consecration
+Nitya and Naimittika rites
+
+Compulsory and optional Saiva rites
+
+Rules of worship
+Ritual of lord Siva
+Worship of Siva
+
+Worship of Siva with the ancillary rites
+
+Rite of sacrifice
+Compulsory and optional rites
+Kamya rites
+
+Hymn to lord Siva
+
+Rites for prosperity
+
+Rites for bliss hereafter
+
+Delusion of Visnu and Brahma
+” »
+
+Installation of Siva
+
+Goal of Yoga
+
+Obstacles in the path of Yoga
+
+Saivite Yoga
+
+. Journey of the Naimisa sages
+
+Instructions of Vyasa
+INDEX
+
+1985
+1988
+1991
+1995
+1999
+2001
+2007
+2013
+2014
+2021
+2024
+2027
+2034
+2047
+2054
+2056
+2059
+2065
+2070
+2075
+2081
+2086
+2089
+2095
+
+## Page 7
+
+UMASAMHITA
+CHAPTER TWENTYNINE
+( The primeval creation)
+
+Saunaka said:—
+
+I. The great narrative of the conversation of Sanatkumara
+and Vyasa has been heard by me as narrated by you. It has
+bestowed the knowledge of truth.
+
+2. NowI wish to hear about the creation of Brahma,
+the manner of its origin and the way in which you heard it
+from Vyasa.
+
+Sita said :—
+
+3. O sage, listen to the divine story that destroys all sins;
+the variegated story that is being described by me; the story
+full of meaning and well known details.
+
+4. He who teaches or hears this story repeatedly sustains
+his family and is honoured in the world of heaven.
+
+5-6. Purusa is eternal and he is of the nature of Sat and
+Asat as Pradhana and Purusa. The creator of the worlds created
+Pradhana after becoming Purusa. He created the Creator of
+all living beings devoted to Narayana. O great sage,
+understand him to be Brahma of immeasurable strength and
+prowess.
+
+7. O leading sage, obeisance to that Self-born being from
+whom the Kalpas and all beings originate.
+
+8. After bowing to that Purusa, lord Hiranyagarbha,
+I shall explain the excellent mode of creation again.
+
+9. Brahma is the creator; Visnu is the protector and
+Siva is the annihilator. Even when the time passes there is no
+other cause of that creation.
+
+10, Being self-born himself the lord, desirous of
+creating various subjects, created only the waters first. He then
+instilled virility into them.!
+
+11. The waters are called Nara (belonging to Nara).
+
+1. Manu 1, 8,
+
+## Page 8
+
+1574 Sivapurdna
+
+The waters are the progenies of Nara. Since waters had been
+his abode he is called Narayana.?
+
+12. The Egg floating in the water assumed golden
+colour. Brahma himself famous as the self-born was born
+there?
+
+13. After staying there for a year, lord Hiranyagarbha,
+dichotomised that egg and created heaven and earth.‘
+
+14. Fourteen worlds were created including those
+above and below. With the intervening space between those
+two pieces the lord created the ether.®
+
+15. He created the earth floating in the waters and
+the ten quarters in the firmament. Then he created the mind,
+the speech, love and anger and the sexual delight.
+
+16. The excessively brilliant creator created seven
+mental sons, the sages, Marici, Atri, Angiras, Pulastya,
+Pulaha, Kratu and Vasistha.®
+
+17. They have been decisively termed the seven
+Brahms in the Puranas. Brahm again created the Rudras
+arising from anger.
+
+18. He created the sage SanatkumAra too, the eldest
+of all. They are thus seven born. The Rudras were born
+afterwards.
+
+19. Sanatkumara stays with controlled brilliance. From
+them seven great families originated, all being divine and
+worshipped by the celestial sages.
+
+20. Endowed with sacred rites they were born along
+with the other Sages. The lightning, the thunderbolt, the
+red clouds and the rainbow were created.
+
+21. He created water at the outset. He created the
+Tain-bearing cloud. He created the Rks, the Yajus and
+the Samans for facilitating Yajfias.?
+
+22. With these he worshipped the gods worthy of being
+adored. This is what we had heard. He created the gods
+
++ Ibid. 1. 10.
+
+Ibid 1.9.
+
+Ibid. 1.19 14,
+
++ Ibid. 1. 13-14.
+
+Manu adds Pracetas, Bhrgu and Narada Ibid. 1. 35.
+» Manu. 33,
+
+WAG FOOD
+
+## Page 9
+
+Umdsarmhita 1575
+
+from his mouth, the manes from the chest, men through
+impregnation and the Asuras from his loins.
+
+23. Living beings high and low were born of his
+limbs as the patriarch Apava generated the creation of the
+aquatic beings.
+
+24. When the beings created did not increase he dicho-
+
+tomised his body and became man and woman.®
+
+25 With his greatness hc persuaded the universe and
+created the people. Visnu created the Virat (the cosmic being).
+Thus the Purusa Vira, was created.®
+
+26. Know that he was another Manu that began the
+age. That lord, Purusa, created all the subjects out of Vairaja.
+
+27. The creations of Visnu were not born of womb.
+They were long-lived, famous, blessed and possessed of
+progeny.
+
+28. Oexcellent sage, thus the premeval creation has
+been nairated to you on knowing which one attains his
+cherished goal.
+
+CHAPTER THIRTY
+(Description of Creation)
+
+Sita said:—
+
+1. When the subjects were created the patriarch
+Apava as Purusa acquired as his wife Sataripaé who was not
+born of womb.!°
+
+2. With his greatness Apava enveloped the heaven and
+stood virtuously. He the noble soul became Sataripa thus.
+
+3. She performed a penance for a hundred years and
+attained the Purusa of illumined penance as her husband.
+
+4. ‘The Purusa who was born is called Svayambhuva
+Manu. His age is said to be seventyone Yugas.
+
+8. Ibid. 1. 32; MP. 3. 31.
+
+g. Manu tr. 32-
+
+10. On the origin of Satariipa see LIM. under Satariipa and Viraj
+PP. 286, 359. For the mystic interpretation of the same see MP-—A study
+P.
+
+- 47+
+
+## Page 10
+
+1576 Sivapurdna
+
+5. The intelligent Satarapa bore the Vairaja Purusa
+two sons Priyavrata and Uttanapada of heroic prowess.
+
+6. The blessed lady Kamya, wife of the patriarch
+Kardama, gave birth to three sons Samrat, Saksi, and
+Avitprabhu.
+
+7. Lord Uttanapada begot sons equal to Indra. He
+begot another son Dhruva of divine nature who had the
+excellent lustre and the inner bliss.
+
+8. Dharma’s daughter, the virtuously born beautiful
+woman named Suniti was the mother of Dhruva.
+
+9. Even asachild Dhruva performed penance for three
+thousand divine years wishing for an imperishable status.
+
+10. Lord Brahma, being delighted gave him a stable
+position as his own, facing the seven sages.
+
+11-12. Two sons, Pusti and Dhanya were born of
+Dhruva. Pusti begot of Samutthd five pious sons viz Ripu,
+Ripufijaya, Vipra, Vrkala and Vrsatejas. The queen of Ripu
+gave birth to Caksusa Manu.
+
+13-16. Caksusa Manu begot Varuna of Puskarini.
+O excellent sage, from Manu of great prowess, in Nadala the
+daughter of the patriarch Vaisyajanma (?) were born ten
+sons viz Puru, Masa, Satadyumna, Tapasvin, Satyavit, Kavi,
+Agnistoma, Atiratra, Atimanyu and Suyagsas. To Puru,
+Agneyi bore six sons of great lustre viz Anga, Sumanas, Khyati,
+Srti, Angiras and Gaya. Sunitha, wife of Anga, bore him a
+son Vena.
+
+17. Due to the misbehaviour of Vena the pious sagcs
+became very furious and killed him by very hunkara."!
+
+18. Sdrasvata Sages were requested by Sunitha for the
+birth of a son. They then churned and pressed his right
+hand.
+
+19, When the hand of Vena was churned Prthu was
+born. He had a bow and a coat of mail even as he was born
+and was equal to the sun in brilliance.
+
+20. He was indeed an incarnation of Visnu, for protec-
+ting the subjects, for the maintenance of virtue and for
+punishing the wicked.
+
+11. Manu 7. 41.
+
+## Page 11
+
+Umdasarhhita 1577
+
+21. Prthu, son of Vena, the ancestor of all Kesatriyas
+protected the earth. He was the first lord of Earth, the first
+among those anointed in the Rajasiya sacrifice.
+
+22. The two efficient persons Sita and Magadha were
+born of him. O great Sage, by him the earth in the form of
+cow was milked for the common welfare.
+
+23. Performing a hundred sacrifices he as a king be-
+come the provider of livelihood to all the gods, sages and
+Raksasas and to men in particular.
+
+24. Two virtuous princes, Vivitasva and Haryaksa
+were born to Prthu. They were great heroes who had become
+very famous.
+
+25. Sikhandini gave birth to a son Pracinabarhis.
+While he roamed on the earth Kusga_ grasses had their tips
+towards the East.
+
+26. The daughter of the lord of the Ocean was duly
+married by him. The great lord, shone all the more when
+he had a wife.
+
+27. Ten sons were born to Pracinabarhis the great
+sacrificer, of his wife Samudratanaya.
+
+28. They were Pracetas by name. They had mastered
+the science of archery. Together they practised virtue and
+performed penance.
+
+29. They lay sunk in the waters of the ocean for ten
+thousand years, repeating the Japa of Rudragita and medita-
+ting on Siva.
+
+30. While they were performing penance trees grew on
+the earth. When the Earth stood unprotectea there was a
+great destruction of subjects.
+
+31. O great king, after attaining boons when they
+returned they saw the trees. They were furious and wanted
+to burn them by the power of penance.
+
+32. The Pracetasas created fire and wind from their
+mouths. The wind uprooted the trees and the fire burnt
+them.
+
+33. On seeing the destruction of trees and observing
+that only a few trees were left, the valorous king Soma
+approached them and said.
+
+## Page 12
+
+1578 Sivapuraga
+
+Soma said :—
+
+34. O Pracinabarhigsas, O kings, subdue your anger. This
+daughter of the trees, Anubhita, is a woman of fair com-
+plexion.
+
+35. O fortunate ones, she was conceived by me in my
+womb as I knew the future. Let her be your wife and make
+the race of the moon flourish.
+
+36. The patriarch Daksa will be born of her. He, the
+ancient son of Brahma, will become a creator of great
+brilliance.
+
+37. With half your brilliance, and with half my brilli-
+ance this king full of Brahma’s brilliance will make the sub-
+jects flourish.
+
+38. Then at the instance of Soma the Pracetasas
+lovingly took the fair-complexioned lady, daughter of
+trees, as their wife.
+
+39. To her, through them was born the patriarch
+Daksa. O sage, that boy of great brilliance was born of the
+moon’s parts as well. .
+
+40. After creating mentally the mobile and immobile
+beings, the bipeds and the quadrupeds, Daksa began creation
+though copulatory process.
+
+41. In accordance with the Sastric injunctions, he
+virtuously married the daughter of Virana the partriarch, the
+chaste lady Virani.
+
+42. He begot of her ten thousand sons Haryagvas. At
+the instance of Narada they became detached from the
+world.
+
+43. On hearing of it Daksa again begot of her a
+thousand sons Subalaévas.
+
+44. Thanks to the instructions of the same sage they
+too followed the footsteps of their brothers. Unattached
+and following the path of mendicants they never returned to
+their parents.
+
+45. On hearing of it he became very furious and cursed
+the sage thus—Q wretch, fond of quarrels, you will never stay
+permanently anywhere.!?
+
+12, Repeated. See Ch. 31. Verses 14-15.
+
+## Page 13
+
+Umdsathhita 1579
+
+46. Consoled by Brahma, O great sage, he afterwards
+created women endowed with qualities and in the form of
+great fames.1!9
+
+47-48. He gave ten daughters to Dharma and _ thir-
+teen to Kafyapa, two to Brahmaputra and_ two to Angiras
+and two to the learned sage Krsasva. O excellent sage, the
+remaining twentyseven daughters, named after the constella-
+tions lord Daksa gave to Soma.'4
+
+49. Asuras and others were born of the daughters of
+Daksa and had become famous. The universe was filled
+with them.
+
+50. O great brahmin, the subjects thereafter were born
+of sexual union. The creation prior to this was through
+mental concepts, visualisation and touch.
+
+Saunaka said: —
+
+51. Formerly it was said by you that Daksa was born
+of the thumb of Brahma. How then did he of great penance
+become the son of Pracetasa again ?
+
+52. O Sita, it behoves you to clear this doubt of
+mine. This is also surprising how he attained the status of
+of the father-in-law of Soma.
+
+Sita said:—
+
+53. Birth and destruction happen everyday among the
+mortals, O sage, in every Kalpa these, Daksa and others are
+born again.
+
+54. He who knows this mode of creation of Daksa of
+the mobile and immobile beings becomes endowed with pro-
+geny and longevity. After death he is honoured in the
+heavenly region.
+
+1g. The first half of this verse is repeated. See Chs. 31. 15.
+14. The Verses 47, 48 are repeated. See Ch. 31. Verses 17, 18.
+
+## Page 14
+
+1580 Sivapurdna
+CHAPTER THIRTYONE
+(Description of the Creation)
+
+Saunaka said:—
+
+1. O son of Sita, tell me quickly about the details
+of the creation of the gods, Danavas, Gandharvas, serpents
+and Raksasas. .
+
+Sita said:—
+
+2. When the creation did not multiply, the patriarch
+asked the daughter of Virana, endowed with penance, for
+the purpose of creation
+
+3. He created different people by the process of
+copulation. O intelligent one, listen to them. I shall ex-
+plain in brief.
+
+4. Uniting with her, the powerful patriarch begot of
+Virini five thousand sons.
+
+5-6. Narada, son of Brahma, had heard at the Satra
+that the creation can take place only through Kafyapa in
+the daughters of Daksa. So, on seeing the created sons, the
+sage Narada addressed them thus.
+
+7. “You do not know any direction in the world.
+Without knowing that what can you create ? You are very
+childish. Proceed only after knowing the world.”
+
+8. Thus addressed by him they all proceeded to
+know the direction by means of their power. Without being
+able to reach their end they never returned to their father’s
+house.
+
+9. On knowing that he created five hundred sons,
+Narada, the visualiser of all, spoke to them also.
+
+Narada said:—
+
+10. How can you create without knowing the extent
+of the world ? All of you are childish. What creation do
+you propose to make ?
+
+Sata said:—
+11. On hearing his words, Subalaévas, sons of Daksa,
+
+## Page 15
+
+Umésamhita 1581
+
+as did the Haryasvas formerly, started in quest of all
+directions.
+
+12. After reaching Puskara and attaining despair due
+to the endlessness of the world they do not return even now
+at the rivers from the ocean.
+
+13. Ever since, O sage, if a brother goes in quest of
+a brother he perishes. That should not be done by any
+learned man.
+
+14. Realising that his sons had perished, the patriarch
+Daksa cursed the noble sou) Narada in anger.
+
+15. “O wretch, fond of quarrels, you will never stay
+anywhere permanently. Quarrel will always occur among
+the people where you happen to be present.”
+
+16. We have heard that Daksa the patriarch was
+consoled by Brahma afterwards and that he begot of Virini
+sixty daughters.1>
+
+17. He gave ten of them to Dharma ; thirteen to
+KaSyapa; twentyseven to the moon and four to Aristanemi.
+
+18. Two to the son of Brahma, two to Angiras and
+two to the learned KréaSva. Now listen to their names.
+
+19-20. O sage, the wives of Dharma are Arundhati,
+Vasu, Yami, Lamba, Bhanu, Marutvati, Sankalpa, Muhirta,
+Sadhya and Visva. Now listen to their children. ViSsve-
+devas are the sons of Visva, and Sadhya gave birth to
+Sadh yas,
+
+21. Marutvats were born of Marutvati, Vasus were born
+of Vasu; the suns were born of Bhanu and the Muhirtajas
+were born of Muhiarta.
+
+22. Ghosa was born of Lamba; Nagavithi was born
+of Yami and Prthivivisama was born of Arundhati.
+
+23. Sankalpa of the nature of Truth was born of
+Sankalpa. Aya and others were born of Vasu. They are
+eight. O Saunaka, listen to them. °
+
+15. According to the present text Daksa had sixty daughters. Of
+these he gave 10 to Dharma, 13 to Kasyapa, 27 to Soma, 4 to Aristane-
+min 2 to Brahmaputra, 2 to Angiras and 2 KySdsva. But the assignment
+is not uniform in all the Puranas. For instance MP (5. 13-14) assigns
+15 to Kasyapa instead of 13 and omits 2 of Brahmaputra to complete the
+given number.
+
+The accomt is found also in RS. Srsti. Ch. 16.
+
+## Page 16
+
+1582 Sivapurana
+
+24. Aya, Dhruva, Soma, Dhara, Anila, Anala,
+Pratydsa and Prabhisa are the eight Vasus by name.
+
+25. Aya’s sons are Vaitanda, Srama, Santa and Muni.
+Dhruva’s son was lord Kala influencing the worlds.
+
+26. Soma’s son was lord Varcas imparting lustre to
+others. Dhara’s sons were Dravina and Hutahavyavaha.
+
+27-28. Manohara’s sons were Sasira, Prana and
+Ramana. Anila’s wife was Siva whose sons were Purojava
+and Avijnatagati. Anila had only two sons. Kumara was
+the son of Agni in the grove of Sara grass surrounded by
+glory.
+
+29. His sons were Sakha, Visakha and Naigameya.
+The son of Krttikas was called Karttikeya.'6
+
+30. Pratyiisa’s son was Devala a sage. Devala had
+two sons who too had children and who were intelligent.
+
+31-32. Brhaspati’s sister was a woman of excellence,
+well-versed in Yoga and she traversed the entire world
+maintaining celibacy. She became the wife ot Prabhasa the
+eighth of Vasus. O fortunate one, Visvakarman the patriarch
+was born of him.}7
+
+33. He was the creator of thousands of skilled arts.
+He is the architect of the gods. He was maker of all sorts
+of ornaments. He was the foremost among artisans and
+craftsmen.
+
+34. He built the aerial chariots of all gods. He is a
+great Atman whose craft is emulated and made use of by men
+too.
+
+35-36. According to another version his wife Saripa
+gave birth to crores of Rudras such as Raivata, Aja, Bhava,
+Bhima, Vama, Ugra, Vrsakapi, Ajaikapad, Ahirbudhnya,
+Bahuripa, Mahat etc. Eleven of them are important. O
+sage, listen to their names.
+
+16. Kumara Karttikeya is one of the four brothers, the other
+three being Sakha, Visakha and Naigameya. He is the son of six Krttika
+mothers and therefore named Karttikeya and Sapmatura (MP.527). The
+legend is found in all the Saiva Puranas. Prof. Agrawal gives a mystical
+
+interpretation of the episode. MP—A study PP. 68-71.
+
+17. The patriarch Vifvakarma, son of Vasu Prabhasa, was the
+craftsman of the gods and entrusted with the work of building chariots,
+ornaments, palaces ctc. MP 5. 27-28, See P. 389 note 295.
+
+## Page 17
+
+Umasarhita 1583
+
+37-38. These eleven are the Rudras, lords of the three
+worlds viz:—Ajaikapad, Ahirbudhnya, Tvastr, the powerful
+Rudrahara of many forms, Tryambaka, Aparajita, Vrsakapi,
+Sambbu, Kapardin and Raivata.!8
+
+39. Thus a hundred Rudras of immense prowess have
+been mentioned to you. Now listen to the names of
+Kafyapa’s wives, O excellent sage.
+
+CHAPTER THIRTYTWO
+
+( The family of Kasyapa)
+
+Sita said :—
+
+1-2. O brahmin, they are Aditi, Surasa, Aristela, Danu,
+Surabhi, Vinata, Ila, Tamra, Krodhavasa, Kadru and Muni.
+Now listen to the names of their sons. In the previous
+excellent Manvantara twelve excellent gods were born.
+
+3-6. They are Tusitas. During the intervening period
+of the Vaivasvata and Caksusa Manvantaras they consulted
+one another for the welfare of the worlds. After meeting
+together they spoke—‘We will enter Aditi and be born.
+This will happen for the welfare of the gods.” After con-
+ferring they were born of Aditi daughter of Daksa and
+Kasyapa son of Marici. Visnu and Indra were born again.
+
+7-9. They along with Aryaman, Dhatr, Tvastr,
+Pisan, Vivasvat, Savitr, Mitravaruna, Arhéa, Bhaga and
+Atitejas are the twelve Adityas. Those who were born before as
+Tusitas were born again as the twelve Adityas in the Caksusa
+Manvantara, O Saunaka thus the names of Aditi’s sons
+have been mentioned to yau. ,
+
+18. Sivapurana proposes to recount the names of cleven Rudras
+but actually mentions twelve names. As a matter of fact Tvasti and
+Bahurupa are identical names. Compare MP (5. 29-30) where Tvasia
+is replaced by its corresponding name Bahuripa.
+
+In regard to the uames of the eleven Rudras the Purdias are not
+unanimous,
+
+## Page 18
+
+1584 Sivapuréga
+
+10. Diptis of immeasurable splendour became the
+children of the twentyseven women of sacred rites and the
+wives of Soma.
+
+11-12. The children of Aristanemi’s wives were sixteen
+in number. “O celestial sage, the learned Kréaéva had
+many sons. Four of them are known as Devapraharana.
+O sage, in his wife Arcis, DhimrakeSa too was born.
+
+13. Two wives were Svadha and Sati of whom Svadha
+was the elder and Sati the younger. Svadha gave birth
+to the Pitrs and Sati to the Atharvangirasaveda.
+
+14, At the end of a thousand Yugas these will be born
+again. All the groups of the gods are thirtythree.
+
+15. Just as the sun rises and sets every day so also the
+groups of gods are born in every Yuga.
+
+16. We have heard that Hiranyakasipu and Hiranydksa
+were born as the sons of Diti and Kasyapa.
+
+17. Simhika their daughter Decame the wife of Vipra-
+citti. The four sons of HiranyakaSipu were famous for their
+strength and prowess.
+
+18. They are Anuhrada, MHrada, Samhrada and
+Prahlada. The youngest Prahlada wa; a devotee of Visnu.
+
+19. Piloman and Mahisa were the sons of Anuhrada
+born of Siirya. Hrada’s wife Dhamani gave birth to Vatapi
+and Ilvala.
+
+20. Sarnhrada’s wife Krti gave birth to Paficajana.
+Virocana was the son of Prahlada. Bali was born of his queen
+Devi.
+
+21-22. O great sage, Bali begot hundred sons of his
+wife Agana. He was a great devotee of Siva. He engaged
+himself in the activities of devotion to Siva. He was chari-
+tably inclined and liberal-minded. He attained meritorious
+fame and austerity. His son Bana was foremost among the
+devotees of Siva. By propititing Siva he attained the leader-
+ship of Ganas.
+
+23. The story of Bana has already been heard by you.
+In the battle Krsna was delighted with him.
+
+24-25 Hiranyaksa’s five sons were strong and learned.
+They were Kukura, Sakuni, Bhita Santapana, Mahanada
+and Kalanabha. Thus the sons of Diti have been mentioned.
+O sage, now listen to the names of the sons of Da
+
+## Page 19
+
+Umdsarhhita 1585
+
+26-28. Danu’s sons were hundred in number and were
+of severe exploits. Ayomukha, Sambara, Kapola, Vamana,
+Vaisvanara, Puloman, Vidravana, Mahasira, Svarbhanu,
+Vrsaparvan and the powerful Vipracitti—these were the sons of
+Danu begot by Kagyapa. O sage, now listen to the names of
+their sons. O sinless one, incidentally I shall mention a few
+of them.
+
+29-30. Prabha was the daughter of Svarbhanu. Saci
+was the daughter of Puloman. So also Upadanavi, Hayasira
+and Sarmistha were daughters of Vrsaparvan. Puloma and
+Pulomika were the daughters of Vaisvanara. They were
+the wives of KaSyapa son of Marici and had many heroic
+sons.
+
+31. Kagyapa, son of Marici, endowed with great penance,
+begot of them sixty thousand sons delighting the Danavas.
+
+32. Kalakhajijas, the powerful sons of Puloma, lived in
+Hiranyapura.!® They could not be killed either by the Danavas
+or by the gods.
+
+33. Vipracitti’s sons, born of Sirnhika, were later killed
+by Arjuna by the grace of Brahma.
+
+34. Due to the intermixture of Daityas and Danavas
+these sons became valorous and famous as Saimhikeyas. They
+are thirteen in number.
+
+35-36. They were the very powerful Rahu and Salya,
+Bala, Mahabala, Vatadpi, Namuci, Ilvala, Svasrpa, Ajika,
+Naraka, Kalanabha, Saramana and Sarakalpa. These in-
+creased their races.
+
+37. Many sons and grandsons were born of them increas-
+ing the race of Danu. Being innumerable they are not
+mentioned in detail.
+
+38. In the family of Sambhrada the Daiteyas
+Nivatakavacas and Maruts were born and they were purified
+by penance. .
+
+39-40. Sanmukha and others are glorified as the sons of
+Tamra. Kaki, Syeni, Bhasi, Sugrivi, Suki, Grdhrika, Aévi, and
+
+19. This city of the Paulomas and Kalakhafijas (or Kalakeyas)
+as mentioned in the Mahabharata (Vana P, CLXXIII. 13) and the
+Kathasaritsigara (XLV. 135) stood on the sea-route leading to Patala.
+Its exact locus remains still unidentified.
+
+## Page 20
+
+1586 Sioapurdna
+
+Uliki were the daughters of Tamra. Kaki gave birth to
+crows and Uliaki to owls.
+
+41. Syeni gave birth to vulturcs, Bhasi to Bhasas
+Grdhri to Grdhrakas. Suki gave birth to parrots and Sugrivi
+to auspicious birds.
+
+42. Tamra the beloved of Kasyapa gave birth to horses,
+camels and donkeys. Thus the family of Tamra has been
+described to you.
+
+43. Vinata had two sons Aruna and Garuda. The latter
+was the most excellent among birds. He was terrible by virtue
+of his activities,
+
+44-47. Surasa gave birth to a thousand serpents of
+immeasurable power. They had many hoods. They were
+powerful enough to traverse the sky, the important among
+them were the kings Scsa, Vasuki and Taksaka, Airavata,
+Mahapadma, Kambala and Aévatara. The sons of Aila were
+Padma, Karkotaka, Dhanafijaya, Mahanila, Mahakarna,
+Dhrtarastra, Balahaka, Kuhara, Puspadanta, Durmukha,
+Sumukha, Khararoman, Kharapani and many others.
+
+48. Krodhavasa gave birth to many who, were the
+fanged animals and birds both of land and water. Vara’s
+sons were animals.
+
+49. Andyusa’s sons were fifty. They were very strong.
+The chief amongst them were Bala, Vrtta, Viksara and
+Brhan.
+
+50-51. Surabhi gave birth to rabbits and buffaloes;
+Ila to trees, creepers, spreading vines and all kinds of grass ;
+Khaéa gave birth to Yaksa and Raksasas, Muni gave birth to
+the celestial damscls. Arist gave birth to serpents more ex-
+cellent than human beings in their power.
+
+52. O great sages, thus the descendants of Kasyapa
+have been explained to you. They had hundreds of sons and
+grandsons.
+
+## Page 21
+
+Omasamhita 1587
+CHAPTER THIRTYTHREE
+
+(Description of the creation)
+
+Sita said:—
+
+1-5. Such is the creation as mentioned in the Man-
+vantara, Svarocisa, O dear. Now I shall describe the creation
+as evolved by Brahman while offering oblations in the ela-
+borate Varuna sacrifice in the great Vaivasvata Manvantara.
+All the Brahmarsis born in the beginning, Pitimaha made
+his mental sons. When a great fight ensued between the
+gods and the Danavas, Diti lost all her sons. She approached
+Kaégyapa and propitiated him. The delighted KaSyapa asked
+her to choose a boon as she pleased. She chose the boon
+that she be favoured with a son of immeasurable power
+capable of slaying Indra.
+
+6. He granted her the boon of her choice. The sage
+of great penance advised her celibacy and other restraints for
+a hundred years.
+
+7. The pious fair-comlcxioned lady conceived. She
+began to observe celibacy and other restraints.
+
+8. After impregnating Diti, Kasyapa of noble sacred
+rites went away satisfied for the performance of penance.
+
+9. Indra waited for finding out a weak point in her.
+He found one such when the period of hundred years was
+short by a year.
+
+10. Due to the gravity of the event destined to
+happen, once Diti did not wash her feet. She went to sleep
+with head hanging down.
+
+1]. In the meantime Indra entered her belly with the
+thunderbolt. He cut off the foetus into seven pieces.
+
+12. While being split into seven the foetus began to
+cry in seven different tones. Indra told the foetus “Do not
+cry, Do not cry” repeatedly. He cut them again but they did
+not die.
+
+13. O sage, being felled down they told him with
+
+20. For full details of the legend see MP. Ch. 7.
+
+Maruts are so called that when Indra split the foetus of Diti they
+cried and did not stop. Then Indra ordered them not to weep, henée
+they became known as Maruts.
+
+## Page 22
+
+1588 Stvapurana
+
+palms joined in reverence. “O Indra, why do you wish to
+kill us? We are your brothers, the Maruts.”
+
+14. © brahmin sage, at the will of Siva, they eschewed
+their Daitya nature. They were accepted by Indra with due
+fraternity.
+
+15. In the name of Maruts they became gods of great
+prowess. Thus traversing the sky the fortynine Maruts be-
+came assistants of Indra.
+
+16. When they flourished, Visnu the patriarch, offered
+them kingdoms beginning with Prthu. Listen to that.
+
+17. Arista was the heroic person. Krsna the patriarch
+was ever victorious. Parjanya was the presiding deity of
+clouds. This entire universe belongs to him.
+
+18. O great sage, I have explained the creation of
+living beings to you. Listen to the division of kingdoms. I
+shall explain that duly now.
+
+19. After crowning Prthu the son of Vena in the
+emperorship, Brahma began to assign the kingdoms in due
+order.
+
+20. He crowned Soma in the kingdom of birds,
+creepers, stars, planets, sacrifices and austerities.
+
+21. He crowned Varuna in the kingdom of waters ;
+Vaisravana as the lord of kings ; Visnu as the lord of
+Aditvas and Pavaka as the lord of Vasus.
+
+22. He crowned Daksa as the lord of patriarchs,
+Indra as the lord of Maruts, and Prahlada of great strength
+as the lord of Daityas and Danavas.
+
+23. He crowned Vaivasvata Yama in the kingdom of
+Pitrs, Matrs, Vratas, Mantras and cows.
+
+24. He crowned the trident-bearing Siva, in the king-
+dom of Yaksas, Raksasas, kings, goblins and ghosts.
+
+25. He crowned Himavat as the lord of mountains,
+the ocean of rivers, the tiger of deer and Bull as the-lord
+of cows.
+
+26. He crowned the banyan tree in the kingdom of
+plants and trees. Thus the kingdom was assigned every-
+where by the lord of subjects.
+
+27. The lord of the universe, the soul of all, established
+the son of patriarch Vairaja in the kingdom in the east.
+
+## Page 23
+
+Umasamhita 1589
+
+28. Similarly, O great king, he established Sudhanvan,
+son of Kardama, the patriarch, in the kingdom in the south.
+
+29. The lord directed and assigned the unfailing noble-
+minded son of Rajas, Ketumat as the king in the kingdom
+in the west.
+
+30. He crowned the indefatigable son of Parjanya the
+patriarch, Hiranyaroman, in the kingdom in the north.
+
+31 O Saunaka, the details of Prthu the son of Vena
+have been narrated to you. This base is glorified as the
+most ancient spot of great prosperity.
+
+CHAPTER THIRTYFOUR
+(The enumeration of Manvantaras)
+
+Saunaka said:—
+1. Please describe in detail] all the Manvantaras.
+I wish to hear of all the Manus too.
+
+Sita said:—
+
+2-3. O great sage, six Manus have already been
+mentioned to you viz. Svayambhuva, Svarocisa, Uttama,
+Tamasa, Raivata and Caksusa. The present Manu is called
+Vaivasvata, O great sage.
+
+4-6. The Manus of future are Savarni, Raucya,
+Brahmasavarni, Dharmasavarni, Rudrasavarni, Devasavarni
+and Indraasvarni. All these constitute the Manus of the
+past, present and future. Thcse have been enumerated by
+me as I have heard.
+
+7. O sage, these fourteen Manvantaras extending over
+the period past, present and the future have been mentioned
+to you. A Kalpa consisting of a thousand Yugas is constituted
+by these.
+
+8. O Saunaka, listen. I shall explain the sages, their
+sons and the gods; all are famous. Listen with pleasure.
+
+9. Marici, Atri, the holy lord Angiras, Pulaha, Kratu,
+Pulastya and Vasistha—these seven are Brahma’s sons.
+
+## Page 24
+
+1590 Sivapurdna
+
+10. O sage, the seven sages are in the northern
+quarter. In the Svayambhuva Manvantara there were the
+gods named YAmas.
+
+11-12. The ten noble-souled sons of Svayambhuva
+Manu were—Agnidhra, Agnibahu, Medha, Medhatithi, Vasu,
+Jyotismat, Dhrtimat, Havya, Savana and Subhra. O great
+sage, the Indra there was Yajjia.
+
+13. Thus O dear, the first divine Manvantara has
+been mentioned to you. I shall explain the second one.
+Know as it is.
+
+14-15. In the second Svarocisa Manvantara these must
+be known as the great sages, viz-Urjastambha, Parastambha,
+Rsabha, Vasumat, Jyotismat, Dyutimat and the seventh
+Rocismat. Then the Indra was Rocana. The gods were
+known as Tusitas.
+
+16-17. O great sage, the ten noble-minded sons of
+Svarocisa Manu, all of great heroism and exploits were
+Harighna, Sukrti, Jyotis, Ayomirti, Ayasmaya, Prathita,
+Manasyu, Nabha and Sirya.
+
+18. O sage, the second Manvantara has been men-
+
+tioned by me. I shall explain the third one. Know it
+factually.
+
+19-20. Vasistha’s seven sons famous as Vasisthas and
+Hiranyagarbha’s sons of great splendour known as Urjas are
+mentioned as the sages. Uttama the Manu had ten sons,
+O great sage.
+
+21-22. They were Isa, Orjita, Orja, Madhu, Madhava
+Suci, Sukravaha, Nabhasa, Nabha and Rsabha. The
+gods were Satyavedasruta and others. O sage, the Indra
+then was Satyajit. He was the ruler of the three worlds.
+
+23. The great third Manvantara has been explained.
+O sage, listen. I shall mention the fourth Manvantara.
+
+24. The seven sages were Gargya, Prthu, Vagmin,
+Janya, Dhata, Kapinaka and the seventh Kapivat. The
+groups of gods were Satyas.
+
+25-26. The Indra there was Trisikha. O sage, listen
+to the names of Manu’s sons. The ten sons of great rites
+of the Manv Tamasa were Dyutipota, Sautapasya,
+Tapahsila, Tapana, Taporati, Akalmasa, Dhanvin, Khadgin,
+Mahat and Rsi.
+
+## Page 25
+
+Umdsarhhita 1591
+
+27, The fourth Manvantara of Tamasa Manu has
+been mentioned to you. O dear, now listen to the great
+fifth Manvantara.
+
+28-29. Devabahu, Jaya, the sage Vedasiras, Hiran-
+yaroman, Parjanya, Urdhva Bahu, Somapa—These and
+others constituted the seven sages. They were engaged in
+truth. The gods were Bhitarajasas of the nature of performing
+penance.
+
+30. Indra was named Vibhu and he was the lord of
+the three worlds. The name of the Manu was Raivata. He
+shall be known as the brother of Tamasa.
+
+31. Osage, Arjuna, Panktivindhya and others shall be
+known as his sons. They are endowed with great penance.
+They stay on the mountain Meru.
+
+32. Raucya son of Ruci the patriarch was the Manu.
+His son born of the queen Bhiti was Bhautya.
+
+33. The future Manus in this Kalpa will be seven. The
+future great sages will also be seven in each Manvantara in
+the heaven.
+
+34, Rama, Vyasa, Atreya, Diptimat, Subahufruta,
+Bharadvaja, and the lustrous Agvatthaman son of Drona
+will be seven sages in this Manvantara.
+
+35-37. Saradvat son of Gautama, Gautama, Krpa,
+Kausika, Galava, Ruru and Kafsyapa will be future seven
+sages. The future gods are three in number as mentioned by
+Svayambhu. They are the sons of the noble-souled Kasyapa
+the son of Marici. Bali the son of Virocana will become
+their Indra.
+
+38-39. O Saunaka, the future ten sons of Savarni the
+Manu will be Visanga, Avanivat, Sumanta, Dhrtimat, Vasu,
+Siri, Sura, Visnu, Raja and Sumati. Thus the eighth
+Manvantara has been mentioned. Now listen to the ninth
+Manvantara.
+
+40-42. I shall mention Daksasavarni Manu at the out-
+set. Listen. Medhatithi, Paulastya, Vasu, Kasyapa, Jyotismat,
+Bhargava, Dhrtimat, Angiras, Savana son of Vasistha, Havya
+son of Atri, and Pulaha—these seven are the sagesin the
+Rauhita Manvantara. O great sage, the groups of gods are
+three.
+
+43-44, They are the sons of the patriarch Rohita, son
+
+## Page 26
+
+1592 Sivapurdga
+
+of Daksa. These are the nine sons of great strength of the
+first Savarni— Dhrstaketu, Diptaketu, Paficahasta, Nirakrti,
+Prthufravas, Bhiridyumna, Rcika, Brhata and Gaya.
+
+45-47. In the tenth Manvantara of the second Savarni
+the following are the sages, viz. Havismat, Pulaha, Prakrti,
+Bhargava, Aya, Mukti, Atreya and the imperishable Vasistha
+along with the seven great sages viz,' Paulastya, Prayati,
+Bhamara, Kaéyapa, Angira, Anenasa, and Satya. Those
+known as Dvisimant are the groups of gods.
+
+48-49. Sambhu, Mahegvara himself is as their Indra.
+The ten sons of the Manu are Aksatvat, Uttamaujas, Bhirisena
+the powerful, Satanika, Nirdmitra, Vrsasena, Jayadratha,
+Bhiridyumna, Suvarca and Arcis.
+
+50. In the eleventh Manvantara of the third Savarni
+there are seven sages. Understand them as they are glorified
+by me.
+
+51-52. Havismat Kasyapa, Vapusmat Varuna, Atreya,
+Vasistha, Anaya, Angiras, Carudhrsya, Paulastya, Nihsvara,
+Taijasa Agni. The first seven are the sages and the last
+three groups are of gods.
+
+53-54. There are the sons of Brahma known as
+Vaidhrtas. The grandsons of Savarna and the sons of the
+third Savarni are—Sarvaga, Sugarman, Devanika, Ksemaka,
+Drdhesu, Khandaka, Darga, Kuhu and Baha, nine in all.
+
+55-57. Now know the seven sages of the fourth
+Savarni from me—Dyuti son of Vasistha, Atreya of good
+penance, Angiras an embodied form of penance, KaSyapa the
+ascetic. Paulastya the sage, Pulaha interested in penance and
+Bhargava the storehouse of penance. The groups of gods are
+known as five and they are the mental sons of Brahma.
+
+58-60. The Indra then is Rtadhaman. He is the
+happy ruler of the three worlds. In the future twelfth
+Manvantara, O, sage, the seven great sages are Dhrtimat,
+Angiras, Havyavat Paulastya, Tattvadargin Paulaha, Nirutsava
+Bhargava, Nisprapafica Atreya, Nirdeha, Kasyapa and
+Sutapa the descendant of Vasistha.
+
+61-62. The groups of gods are three in number as
+mentioned by Svayambhi. They are: Divaspati Indra, Vicitra
+and Citra. Naya, Dharmadhrta, Andhra, Sunetra, Ksatravrd-
+
+## Page 27
+
+Umésarbhit 1593
+
+dhaka, Nirbhaya, and Sutapas Drona are the sons of Raucya
+Manu.
+
+63-65. In the fourteenth Manvantara of Satya Manu
+the seven sages are Agnidhra Kasyapa, Magadha, Paulastya
+Atibahya Bhargava, Suci Angirasa, Yukta Atreya, ‘Ajita
+grandson of Vasistha, and Pulaha. They are the final seven
+sages. The gods are the holy Caksusas. Suci will become Indra.
+
+66. After getting up early in the morning the repeti-
+tion of the names of these sages of the past and future
+increases the happiness of men.
+
+67-68. O great sage, listen. The groups of gods are
+five. The sons of this Manu are—Tarangabhiru, Budhna,
+Tanigra, Anugra, Abhimanin Pravina, Visnu, Sankrandana,
+Tejasvin, and Sabala.
+
+69. The earlier Kalpa is in the authority of Bhauma,
+Thus I have explained the Manus past and future.
+
+70-71. These were mentioned to Vyasa by Sanatkumara
+of great splendour. When the thousand Yugas are complete
+they, of good penance, return to Brahmaloka when their task of
+protecting the people is over. Each Manvantara consists of
+seventy one Yugas with some period left over.
+
+72. These fourteen Manus are glorified. In each Man-
+vantara there is re-creation after annihilation.
+
+73. It is difficult to explain Manvantara even in
+hundreds of years. The Kalpa that follows a hundred thou-
+sand Kalpas is named Niséesa.
+
+74-75. There all the living beings are burnt by the sun’s
+tays. O sage, all of them enter Visnu at the end of Kalpas
+along with the Adityas. Visnu then creates all living beings.
+This happens again and again.
+
+76-77. Lord Rudra annihilates them I shall explain it
+at the end of Vaivasvata Kalpa. Thus I have mentioned all
+about the Manvantaras to you. It is a holy narrative condu-
+sive to wealth and increase of the family.
+
+## Page 28
+
+1594 Sivapurdga
+CHAPTER THIRTYFIVE
+(The description of Vaivasvata)
+
+Sata said:—
+
+1, Vivasvat was born of Daksa’s daughter and Kasyapa
+the great sage. His wife was Sarnjfia, daughter of Tvastr and
+also known as Surenuka.
+
+2. Due to the unbearable heat of her husband she in her
+prime of youth was dissatisfied.
+
+3. Being scorched and not being able to hear the brilliance
+of the lustrous sun, the fair-complexioned lady was excited and
+sorrowful.
+
+4-5. O sage, the sun begot three offsprings of her: the
+patriarch Manu Sraddhadeva, Yama and Yamuna born as
+twins.
+
+6. On seeing the brilliance of the sun as unbearable as
+the fire at the final dissolution she created Chaya of herself.
+
+7. She of illusory form told Sarnjfia : “O sweet-smiled
+auspicious lady, what shall I do for you, please tell me”.
+
+Samjia said:—
+8. ‘Welfare unto you. I go to my father’s house alone.
+Indeed you have to stay in this house without aberration.
+
+9. These two well-behaved sons and this pretty girl
+should be happily protected if you wish to please me.”
+
+Chaya said :—
+10. “O lady, I shall brook their misdeeds even as much
+
+as pulling out my hair. I shall make no complaint to you.
+O goddess, you can go away happily.”
+
+Sita said:—
+
+11. Ashamed on being addressed thus, the lady went
+to her father’s house but was rebuked by him. He urged her
+again and again to return to her husband.
+
+12. She assumed the form of a mare. Going to Northern
+Kurus she wandered among the people.
+
+13. The sun took her for Sarhjfia and begot of hera
+son the Manu Savarni.
+
+## Page 29
+
+Umdsarbhité 1595
+
+14. Though requested by Sarnjfia, Chaya did not love
+the elder children. She loved her own son more and fondled
+him always.
+
+15. The younger brother Yama could not hear that. He
+did not forgive. Ever since childhood he was furious and
+and ill-tempered due to the gravity of what was destined to
+happen later.
+
+‘16. When Yama, son of Vivasvat threatened Chaya
+she became infuriated and cursed him angrily.
+
+17. Due to excessive anger she cursed—‘‘Let your leg
+fall off”. Yama approached his father with palms joined in
+reverence and said.
+
+18-20. <I was agitated due to Chaya’s words. I am
+sorry and frightened of the curse. I had only said that a
+mother shall have impartial and equal love for all her children.
+She has lost affection for us. She nurtures only the youngest
+one. Hence I raised my foot. It behoves you to forgive me.
+O lord of gods, O foremost among the refulgent ones, I have
+been cursed by my mother. O lord of rays, let not my leg fall
+off by your grace.”
+
+The sun said:—
+
+21. O son, there shall be a great cause for this. That
+was why you too who know virtue and speak the truth had
+been infuriated.
+
+22. It isnot possible to make your mother’s words
+false. Worms will take away the flesh from your leg and go to
+the earth.
+
+23. Her words will come up true and you will also be
+saved. Have no doubt, O deer, cheer up your mind, O lord.
+
+Sita said:—
+
+24. O great sage, after saying thus to his son Yama,
+the sun angrily spoke to Chaya.
+
+The sun said : —
+
+25. O beloved wife, O evil-minded angry lady, what
+it is that you have done ? Why do you love one son more?
+You shall tell me.
+
+## Page 30
+
+1596 Sivapurdga
+
+Sita said:—
+26. On hearing the words of the sun she told him the
+truth. Scorched by him she consoled him thus.
+
+Chaya said: —
+
+27. This fierce form of yours was not pleasant to
+Samjfia. She was scorched by your excessive brilliance. She
+could not bear it. She now resides on the grassy plain in
+a forest.
+
+28. Olord of rays, she is endowed with the power of
+Yoga. She has resorted to yogic practice. She is praiseworthy.
+O lord of gods, be favourable to her by sending the message
+of your opinion.
+
+29. I shall change your form. I shall make it pleasingly
+brilliant.
+
+Sata said:—
+
+On hearing this, the sun was appeased.
+
+30. The sage Tvastr put him on the turner’s lathe and
+sharpened him further. His blazing form was slightly redu-
+ced in brilliance.
+
+31. When the form was made more pleasingly brilliant
+by Tvastr it shone splendidly. Then resorting to Yogic prac-
+tice he saw his wife Sarhjfia.
+
+32. He assumed the form of a horse and approached
+her for sexual indulgence with her who could not be overwhel-
+med by any living being due to her lustre and observance of
+restraint.
+
+33. O sage, in the course of the sexual activity she
+suspected him to be another man. Hence she received the
+semen through the mouth into the nostril.
+
+34. Thence were born the twin gods Aévins, the fore-
+most among physicians. They are known as Nasatyas and
+Dasras.
+
+35. The sun showed his pleasingly splendid form to
+them. On seeing her husband she was extremely delighted.
+
+36. The chaste lady returned to the house with her
+husband with the face beaming with pleasure. The pair
+rejoiced more than before.
+
+## Page 31
+
+Uméasamhita 1597
+
+37. This incident distressed the mind of Yama. As
+pious king he gladdened the subjects virtuously.
+
+38. Yama of great lustre attained the lordship of the
+names and the guardianship of the quarters.
+
+39. Savarni Manu became the oppatriarch. In the
+Savarnika Manvantara he will become the future Manu by
+virtue of his action.
+
+40-42. The lord is performing penance even today on the
+top of Meru?!. Their younger sister, the famous Yami, became
+the most excellent river Yamuna, the sanctifier of all the worlds.
+He is called Savarni Manu in the world. He who listens to or
+retains in memory this origin of the gods attains great fame.
+Should he suffer from any adversity he will be rid of it.
+
+CHAPTER THIRTYSIX
+
+(The description of the nine sons and the race of Manu)
+
+Sata said:—
+
+1. Nine sons all equal to him were born of Vaivasvata
+Manu. Later they became very lofty, bold and devoted to
+the virtues of Ksatriyas.
+
+2. They were Iksvaku, Sibi, Nabhaga, Dhrsta, Saryati,
+Narisyanta, Nabhaga, Kariga and Priyavrata.*?
+
+3-5. Desirous of sons, Manu the patriarch performed
+a sacrifice. O great sage, when no sons were born as a
+result of the sacrifice, the famous I]4 was born, wearing
+divine garments, bedecked in divine ornaments and with a
+
+at. See P. gro not and P. 623 note.
+
+22, There is no consensus of opinion im the Puragas about the
+names. Pargiter who collated the Puranic texts on the topic suggested
+
+the following names R&4TE, ATA, ee, qaife, afear, wey,
+xiq, avatafase and qu: SP agrees in respect of the first five but it
+substitutes. firfa, trart (feetr) and free Shy, for AraTafece and
+qa. Probably the second ATANT is identical with ATHAfecz, The
+identification of fafa and faaaa with ST JIT is doubiful.
+
+## Page 32
+
+1598 Sivapurdga
+
+divine body. Manu the chastiser addressed her as [la and
+said “Follow me”. 114 replied to him.
+
+Id said:—
+
+6. She spoke these words to the patriatch desirous of
+a son—O foremost among the eloquent, I am born of the
+parts of Mitra and Varuna.
+
+7-9. I am approaching them. I shall never be
+interested in sinful things.” After saying this, the chaste
+lady approached Mitra and Varuna and spoke with palms
+joined in reverence ‘‘O great sages, I am born in the sacri-
+fice of Manu through your parts. I have come to you.
+Please tell me. What I can do for you. O lord, create
+other sons so that your race may flourish.”
+
+Sita said:—
+
+10. When the chaste lady born in the sacrifice of
+Manu said, the sages Mitra and Varuna spoke thus respect-
+fully.
+
+Mitra and Varuna said:—
+
+11. O virtuous beautiful lady of fair complexion,
+both of us are pleased with your self-control, humility and
+truth.
+
+12. O blessed lady, you will attain our fame. You alone
+will become the son establishing the family of Manu.
+
+13. You will be famous in the three worlds as
+Sudyumna, beloved of the universe, virtuous in conduct and
+enhancer of the race of Manu.
+
+Sita said:—
+
+14. On hearing that she returned to her father’s
+presence. On the way, getting an opportunity, Budha in-
+vited her for sexual intercourse.
+
+15. King Puriravas was born of her out of the
+union with Budha. O intelligent one, this son was the
+handsome and intelligent man who later became the husband
+of Urvaigi.
+
+## Page 33
+
+Umésarhhita 1599
+
+16. After bearing the son Puriravas she became Sudyu-
+mna as a result of Siva’s grace.
+
+17. Sudyumna had three very virtuous heirs Utkala,
+Gaya and the powerful Vinatagva.
+
+18. O brahmin, O great sage, Utkala was assigned
+the country Utkala;#* Vinatasva was given the territories on
+the West and Gaya was given Gaya and the eastern
+territories.
+
+19. O dear, when Manu passed away, the earth was
+divided into ten regions.
+
+20-24. Iksvaku the eldest son got the central territory.
+At the instance of Vasistha, Sudyumna_ gave the virtuous
+territory Pratisthina™ to Puridravas. O grart sages, Sudy-
+umna had the characteristics of both man and woman. The
+Sakas were the sons of Narisyanta. Nabhaga’s son Ambarisa
+got the region Bahlaka® and so was known as Bahleya.
+Saryati had a son and a daughter. The son was known as
+Anarta and the daughter as Sukanya who later became
+the wife of Cyavana. Anarta’s son was Raibhya known also
+as Raivata.
+
+25. In the territory®* of Anarta he got the city
+Kufasthali which was extremely brilliant and was the seventh
+among seven cities.
+
+26. He had a hundred sons of whom the eldest
+and the most excellent was Kakudmin. He was brilliant,
+strong, virtuous and a protector of brahmins.
+
+27. A daughter Revati was born to Kakudmin. She
+was endowed with great beauty, She was another Laksmi.
+
+28. The king Kakudmin the lord of all went to
+
+23. It is modern Orissa.
+
+24. Here Pratisthina is Prayaga but the Puranas are not agreed
+upon its locus. Some place it on the nosth and some on the east side of
+the Ganges. Others place it on the north bank of the Yamuna.
+
+There is another Pratis{hana=Paithan in the Aurangabad District of
+the former Hyderabad State.
+
+25. Bahlaka is identical with modern Balkh in the northern part of
+Afghanistan, Sec KM Ch, XVII.
+
+26, It is identical with Gujrat and part of Malava. Its chief city
+was Kufasthali also called Dvaraka.
+
+## Page 34
+
+1600 Sivapurdna
+
+Brahméa’s region near Brahma, accompanied by his daughter
+in order to ask him about a suitable bridegroom for her.
+
+29. While dance and music was going on, he stood
+there waiting for a moment near Brahma.
+
+30. Although it was only a Muhirta in Brahma’s
+region many Yugas had passed by. But O sages, the king
+Kakudmin did not know anything about it.
+
+31. Then he bowed to Brahma the great Atman,
+humbly and with palms joined in reverence told him about
+his mission.
+
+32. On hearing his purpose the patriarch Brahma
+laughed. Addressing the great king Kakudmin, he said.
+
+Brahma said:—
+
+33. Listen, O King Kakudmin, O lord of the earth,
+son of Raibhya, to my words with attention. I shall tell
+you the truth particularly.
+
+34. All those bridegrooms you had in view have been
+killed by the efflux of time. Even their family is extinct.
+Time is the devourer of everything.
+
+35. O king, your city too has been’ destroyed by
+Punyajanas, the Raksasas. It is now the twenty-eighth
+Dvapara Yuga and the city has been rebuilt by Krsna.
+
+36. In the name of Dvaravati because it has many
+entrances, it is very beautiful. It is protected by the Bhojas,
+Vrsnis and Andhakas with Krsna as their leader.
+
+37. O king, now go there and give this daughter of
+yours to Baladeva the son of Vasudeva.
+
+Sita said:—
+
+38. Thus commanded. the king bowed to him and
+went to that city. On realising that many Yugas had elapsed
+he was surprised along with his daughter.
+
+39. Then he gave his daughter, the youthful maiden,
+Revati to Bala the brother of Krsna in conformity with the
+Sastric rituals.
+
+40. Then he, the great lord, went to the celestial
+summit of Meru and propitiated Siva observing penance,
+
+## Page 35
+
+Umdsamhita 1601
+
+The sages said:—
+
+41. Raivata stayed in Brahmé’s region for many
+Yugas. He returned to the mortal world as a young man.
+This is my great doubt.
+
+Sita said:—
+
+42. O sages, near Brahma there is no old age,
+hunger, thirst, aberration or premature death to any one.
+
+43. Therefore the king did not attain old age or
+death, nor his daughter. After consulting Brahma about
+the bridegroom he returned still a young man.
+
+44. Going to the divine city Dvaravati?? rebuilt by
+Krsna, he got his daughter married to Bala.
+
+45. Hundred sons were born to that virtuous great
+lord. Through many wives Krsna too had innumerable
+sons,
+
+46. The family of the two noble souls was very great.
+All the Ksatriyas in every quarter became delighted and
+virtuous.
+
+47. Thus the race of Saryati has been narrated to
+you. O brahmins, I shall succinctly mention the details of
+others too. Listen attentively.
+
+48. Nabhaga had a son Dhrsta. After establishing
+the Ksatriya race and performing the brahminical rites he
+attained brahminhood.
+
+49. Dhrsta’s race originally Ksatriya became brahmin
+family on the earth. Kariisa’s descendants the Kariisas were
+Ksatriyas, insubjugable in war.
+
+50. Nrga who was also a son of Manu was a liberal
+donor of riches to brahmins and of cows.
+
+51. Once due to an error in his charitable gift of a
+cow, prompted by his own sins and crooked intellect, he
+became a chameleon .and was redeemed by Srikrsna.
+
+52. An excellent son was born to him named Prayati,
+the knower of virtues. This I have heard from Vyasa and
+have now briefly mentioned to you.
+
+53. Prsadhra, a son of Manu was made the keeper of
+
+27. See P. 1229 note go.
+
+## Page 36
+
+1602 Sivapurdga
+
+cows by his preceptor. During the nights, observing the
+posture of heroes, he diligently looked after the cows.
+
+54. Once a tiger entered the cowshed to attack the
+cows. On hearing the shrieks of the cows he woke up.
+Strong that he was he seized a sword to kill it and started.
+
+55. On seeing the lord armed with a sword the frigh-
+tened tiger slipped away. Not knowing it and mistaking a
+reddish brown cow as the tiger he hit it with his sword on
+its head.
+
+56. Due to rain and gust of wind in the night he was
+deluded. Thinking. that the tiger had been killed he
+returned to his place.
+
+57. When the night dawned into day he got up and
+went there. He saw only the cow killed and not the tiger.
+He felt dejected.
+
+58. On hearing about the incident and realising that
+he had committed a sin unconsciously and not wilfully, the
+preceptor cursed him—‘“Become a Sidra, not a Ksatriya.”
+
+59. On being cursed by his preceptor, the family
+priest out of anger, Prsadhra started from there and went
+to the great forest.
+
+60. Dejected by sufferings he became detached and
+practised Yoga. He burnt himself in conflagration and
+attained the greatest goal.
+
+61. Kavi, son of Manu, was highly intelligent due to
+Siva’s blessings. Afier enjoying divine pleasures here he
+attained the rare salvation hereafter.
+
+CHAPTER THIRTYSEVEN
+(The race of Manu)
+
+Sata said:—
+
+1. Formerly Iksvaku was born as the son of Manu
+through the nose. He had a hundred sons who were liberal
+in bestowing gifts.
+
+## Page 37
+
+Umasamhita 1603
+
+2. Before them O brahmins, there were no kings in
+Aryavarta. Of them the eldest was Vikuksi. He became the
+king of Ayodhya.
+
+3-4. Listen to one of his misdeeds. He wanted to
+perform Sraddha but before performing the same he ate a
+rabbit and came to be known as Sagada. Abandoned by
+Iksvaku, he entered a forest.
+
+5. When Iksvaku passed away he was installed a king
+at the instance of Vasistha. He had fifteen sons of whom
+the chief was Sakuni.
+
+6. They all became kings and protectors of the
+northern country. Ayodha’s son was the powerful king
+Kakutstha.
+
+7. Kakutstha’s son was Arinabha. His son was
+Prthu. Prthu’s son was Vistarasva. From him was born
+Indra the lord of people.
+
+8. Indra’s son was Yuvanasva, the ruler of Sravasta.
+His son was Sravastaka who built Sravasti.28 Sravastaka’s son
+was Brhadagva.
+
+9. His son was Yuvanasva and Kuvalaéva was his
+son. Since he slew Dhundhu he became the excellent king
+Dhundhumara.
+
+10-11. Kuvalagva had hundred sons who were excellent
+archers. He was entrusted with the kingdom by his father.
+After transferring the royal glory to the son the king entered
+the forest. But Uttanka prevented him.
+
+Uttanka said:—
+
+12-14. Listen. You shall protect the earth virtuously.
+O king, only when protected by you can the earth be
+relieved of excitement and sorrow. It does not behove you
+to go to the forest. There is a Danava, proud of his strength
+near my hermitage, in the snow-covered wilderness, full of
+sea-sand. He is indestructible even’to the gods. He has a
+huge body and is very strong.
+
+15. He stays underground concealed by the sand.
+The terrible Raksasa son of the demon Madhu is Dhundhu
+by name.
+
+28. This celebrated city is situated in the modern gonda district of
+Uttara Pradesh
+
+## Page 38
+
+1604 Sivapurapa
+
+16. He stays there performing a terrible penance for
+the destruction of the worlds. At the end of every year he
+exhales terribly.
+
+17. When he exhales, the whole world including
+mountains, forests and wilderness, quakes. Blazing flames
+with pink smoke smoulder everywhere.
+
+18. Hence, O king, I cannot stay in my hermitage.
+O strong one with huge arms ward him off desiring the
+welfare of the worlds.
+
+19. Let the wordls become happy and peaceful after
+he had been killed. by you. O lord of earth, you alone can
+slay him.
+
+20. O sinless one, a great boon has been granted to
+you. Visnu will heighten your splendour by his own splendour.
+
+21. Great virtue accrues from the protection of the
+subjects. A similar opportunity is wanting in the forest. Let
+not your mind be directed that way.
+
+22. O leading king, nowhere such a virtue exists as it
+does in the protection of the subjects. This has been pursued
+by: the saintly kings of yore.
+
+23. Thus requested the saintly king entrusted his son
+Kuvalasva with the task of thwarting Dhundhu.
+
+24. “O holy lord, O excellent brahmin, I have
+already laid aside my weapons. Here is my son who will
+surely destroy Dhundhu.”
+
+25. Having said thus and instructed his son the king
+proceeded with penance. Kuvalasva accompanied by Uttanka
+went to fight with Dhundhu.
+
+26. At the approach of Uttanka and for the benefit
+of the worlds, lord Visnu entered him with his splendour.
+
+27. When the invincible Kuvalasva started there was
+a loud shout in the heaven. ‘This glorious prince will slay
+Dhundhu.”
+
+28. The gods surrounded him with garlands of flowers.
+They praised him saying “Be victorious, Be long-lived.”
+
+“29. The most excellent among the victorious, the king
+went there accompanied by his sons. He caused an ocean
+“o be dug in the midst of that vast expanse of sand.
+
+## Page 39
+
+Umasamhita 1605
+
+30. O brahminical sage, heightened in strength by
+the splendour of Visnu he became very brilliant and
+stronger.
+
+31. O brahmin, the demon Dhundhu was found out,
+concealed beneath the sand towards the western quarter as
+the sons of the king dug up the place.
+
+32. He appeared to consume all the worlds out of
+fury in the fire emerging from his mouth. Water too gushed
+out from him as from the moon-stone at the moonrise.
+
+33. The hundred sons were scorched and burnt in
+the fire. O great sage, among them only three survived.
+
+34. O leading brahmin, then the king of great splen-
+dour rushed at the very powerful Raksasa, the brahmin-
+slayer Dhundhu.
+
+35. The king quaffed off the gushing water through
+fiery arrows and quelled the fire through water.
+
+36. After killing the aquatic demon of huge body
+with his strength, the king requested Uttanka to survey his
+work.
+
+37. O great sage, Uttanka granted him boons. He
+gave him never-ending wealth and invincibility to enemies.
+
+38. He blessed him with interest in virtue, perpetual
+residence in the heaven and the imperishable world to his
+sons who were killed in the battle.
+
+39. Three of his sons survived. The eldest of them
+was Drdhaéva. Harhsasva and Kapilafva were younger
+princes.
+
+40. Haryasva was the son of Drdhasva who was the
+son of Dhundhumara. Nikumbha who was always engaged
+in sacred rites was the son of Haryagva.
+
+41. Sarhatdéva an expert in war was the son of
+Nikumbha. AksaSva and Krtafva were the sons of
+Sarnhataéva.
+
+42. He had two daughters Haimavati and Drgadvati
+honoured by the good. She was famous in the three worlds.
+Her son was Prasenajit.
+
+## Page 40
+
+1606 Sivapurina
+
+43. Prasenajit had a chaste wife Gauri.” She was cursed
+by her husband and turned into the river Bahuda.
+
+44. His great son was Yuvanaéva, the lord of the earth.
+MaAndhata famous in the three worlds was Yuvana§va’s son.
+
+45-46. Sagabindu’s daughter the chaste Caitrarathi
+was his wife. She was the eldest sister of ten thousand
+brothers. Mandhaté begot of her two sons, Purukutsa, the
+knower of sacred rites and Mucukunda the righteous.
+
+47, Purukutsa’s son was Trayyaruni. His son was
+Satyavrata.
+
+48-50. He was evil-minded. Whenever sacred mantras
+were recited he put obstacles. After the marriage was cele-
+brated he abducted the brides of others with force, out
+of lust, delusion, fun or arrogance. He abducted the
+virgins to satisfy his lust. The king Trayyaruni forsook him
+for such evil practices. Infuriated he called him a disgraceful
+wretch.
+
+51. When cast-off he asked his father where to go. The
+king asked him to stay with the outcastes.
+
+52. Cast off by his father the righteous king and pro-
+tector, the heroic Satyavrata lived with the outcastes.
+
+53. Becoming detached due to the activities of his son,
+the king Trayyadruni forsook everything and went to the forest
+in order to perform penance to propitiate Siva.
+
+54. O brahmin sage, due to that sinful misdeed Indra
+did not rain in his kingdom for twelve years.
+
+55. Visvamitra of great penance abandoned his wife
+in that land and performed extensive penance in the marshy
+foreshore of the ocean.
+
+56. His wife tied her middle son round her neck and
+offered him for sale in exchange for a hundred cows in order
+to sustain the other children.
+
+57. On seeing her offering her own son, tied round
+her neck, for sale, Satyavrata released him.
+
+58. The mighty Satyabrata sustained him just to satisfy
+Visvamitra and out of human sympathy.
+
+29. Gauri, wife of king Prasenjit or grandmother of Mandhata was
+cursed by her husband and transférmed into Bahud4 or Bahuka or Saitava-
+
+hini, a river of Eastern India. The hermitage of Safkha ard Likhita are
+said to have been situated on its bank (Mbh. XII. 23. 18-19.)
+
+## Page 41
+
+Umdsarhita 1607
+
+59. Ever since then, that son of sage Viévamitra came
+to be called Galava because he was tied round the neck. He
+too performed great penance.
+
+CHAPTER THIRTYEIGHT
+(From Satyavrata to Sagara)
+
+1. By his devotion to Visvamitra his compassionate
+nature and his vow, Satyavrata nurtured and looked after
+Visvamitra’s wife.
+
+2. O sage, he killed deer, boars and buffaloes of the
+forest and he cast off their flesh near the hermitage of
+Visvamitra.
+
+3. Invirtue ofhis being the priest and the teacher
+the sage Vasistha looked after the holy centres, cows, clans
+and the harem.
+
+4. Vasistha nursed more and more grudge against Satya-
+vrata forced by the gravity of what was destined to happen.
+
+5. Vasistha had not prevented the father from exiling
+the son from the kingdom because there was sufficient
+cause for the same.
+
+6. When the seventh step is taken (round the fire in
+the altar) the marriage becomes valid. But Satyavrata did
+not understand this secret.
+
+7. Only for the satisfaction of his father did he do
+the same thinking that the family customs should remain
+unviolated.
+
+8. When he was abandoned by his father Vasistha did
+not interfere on his behalf. The sage proclaimed that he
+would never install him in this kingdom.
+
+9-12. During the twelve years of famine and drought
+Satyavrata observed his vow. When there was no meat
+available the prince saw the wish-yielding cow of Vasistha.
+O sage, the king who observed the ten tenets®® of Dharma
+
+30. Cp. Manu. VI. ar
+afa: aur sateste atafafeafras: |
+afrear aera are Tiwary 1
+
+## Page 42
+
+1608 Sivapurina
+
+killed the cow either due to anger or greed or exhaustion or
+hunger. The meat of the same he utilised to feed Viévamitra’s
+son. On hearing of it the sage Vasistha became angry and
+said.
+
+Vasistha said
+
+13. Ifthe two iron stakes thrust by me fail I shall
+fix another cruel one.
+
+14. Your transgression is threefold. You have displea-
+sed your father, killed the cow of your preceptor and
+used things unsprinkled with holy water.
+
+15-16. He called him Triganku and ever since he is
+known as Trisanku. When Visvamitra returned he was plea-
+sed with Tri§anku for having maintained his family during
+his absence. When pressed to choose a boon the prince chose
+it.
+
+17. When there was drought for twelve years he had
+helped his family, therefore the sage anointed him in the
+kingdom of his father and officiated as priest in his coronation.
+
+18. Ever as the gods and Visistha were watching, the
+saintly lord Vigvamitra made him ascend heaven in his physi-
+cal body.
+
+19. His wife Satyaratha, hailing from the family of
+Kekayas®! bore him a son who was named Hari$candra.
+
+20. That king Harifcandra is known as Traigankava.
+He is famous as_ the performer of the Rajasitya sacrifice and
+as an Emperor.
+
+21. Harifchandra’s son Rohita was famous. Rohita’s
+son was Vrka and Bahu was born of Trka.
+
+22. Haihayas and Talajanghas removed that king.
+O brahmin, he was very virtuous.
+
+23. Bahu begot a son. Sagara was born with poison.
+Reaching the hermitage of Aurva, he was saved by Bhargava.
+24. Securing fiery missiles from Bhargava king Sagara
+
+31. Kekayas lived between the Jhelum and the-Beas and had their
+capital at Girivraja (Girijak or Jalalpur) on the Jhelum.
+
+## Page 43
+
+Umésamhita 1609
+
+conquered the earth after killing Talajanghas®® and Haihayas.®*
+
+25. He defeated Sakas,%* Bahiidakas, Paradas®® taganas**
+and Khafgas.’? He established a good religious cult and ruled
+over the earth virtuously.
+
+Saunaka Said :—
+
+26. How was he born with poison ? How did he con-
+quer the Ksatriyas ? O son of siita, please narrate this in
+detail.
+
+Sita said:—
+
+27. O. sage, listen with attention. I shall narrate
+what Vaifsampayana said on being asked by Janamejaya, son
+of P&riksita.
+
+Pariksita said :—
+28. O sage, how was the king born with poison ?
+How did he kill the kings ? Please narrate this.
+
+Vaisampayana said :—
+
+29. O dear, O lord of the subjects, the kingdom of
+Bahu who indulged in vices was captured by Haihayas and
+T4alajanghas and the Sakas.
+
+30. Five groups of Rakgsasas are mentioned, viz.—
+Yavanas,** Paradas,®® Kambojas,* Pahlavas*! and Bahiidakas.“
+
+32. These constituted one of the five clans of Haihayas, the other
+four being dtfaeta, Wr, wafer and qivesz |
+
+33. Haihayas formed a branch of the Yadavas who ruled at
+Mahismati (Mod. Mandhat4 in the Nimar District, M.P.) on the Narmada
+river.
+
+34- The original home of the Sakas was the Valleys of the Jaxartes
+and Oxus. But they had settled in India after they had conquered the
+country.
+
+35. Paradas are identical with the Parthians who lived in the
+Khorasam region.
+
+36. The Taganas or Tanganashad their headquarters at Tangana-
+pura near jyotirmatha in Garhwal (Ep. Ind. Vol. XXXI. P. 286).
+
+37. According to Al-Biruni, the Khasas were a Himalayan tribe now
+represented by the Khakkas of Kashmir.
+
+38. Yavanas are identical with the Indo-Greeks who settled in the
+northwestern part of India and adjoining lands,
+
+39. See No. 35 above.
+
+40. K&mbojas lived in the land between the Rajauri Valley in
+Kashmir and the Hindukush mountains. Some scholars locate the tribe
+near Badakhshan beyond the Hindukush,
+
+41, Pahlavas or the Pahlavis are identical with the Persians,
+
+42. Bahidakas remain unidentified.
+
+## Page 44
+
+1610 Sivapurdna
+
+31. O king, these five groups of Raksasas pursuing
+activities of exploit on behalf of the Haihayas seized the
+kingdom of Bahu and gave it to the Haihayas.
+
+32. Having lost the kingdom, Bahu went to the forest
+along with his wife. Distressed that he was he abandoned
+his life.
+
+33. One of his wives belonging to the house of Yadu
+followed him in pregnancy. Due to jealousy as a result of
+her expected son before her, the co-wife administered poison
+to her.
+
+34. She made the funeral pyre of her husband ready
+and was about to enter the fire, Aurva Bhargava mercifully
+prevented her.
+
+35. The queen stayed in his hermitage for the sake of
+her child in the womb. She served the sage, mentally remem-
+bering Siva.
+
+36. Once when the Muhirta and the Lagna were good
+when the five planets were ascendant the child was born
+along with the poison administered to the queen.
+
+37. In that auspicious Lagna, O excellent sage, the
+king Sagara, of mighty arms, was born.
+
+38. Aurva performed the postnatal rites of that prince.
+He taught him Vedas and Sastras and instructed him in the
+use of missiles.
+
+39. The blessed Sagara, earnestly learnt the lore of
+the fiery missile, in accordance with the rules of procedure,
+the missile that is unbearable even to the gods.
+
+40. The infuriated Sagaras, equipped with this mira-
+culous and other weapons and with his own natural strength,
+killed the Haihayas.
+
+41. This Sagara became foremost among the famous,
+earned fame in all the worlds and established piety on the
+earth.
+
+42. Then the Sakas, Yavanas, Kambojas and Pahlavas,
+being destroyed sought refuge in Vasistha.
+
+43. After deceitfully compelling them to enter into an
+agreement, Vasistha of great brilliance offered them freedom
+from fear and brought them to king Sagara.
+
+44. At the instance of his priest Sagara maintained
+
+## Page 45
+
+Umdsarhita 1611
+
+his vow by destroying their mode of worship and effecting
+alterations in their hair style.
+
+45. He released the Sakas after shaving off half of
+their heads. Complete tonsure was assigned to Yavanas and
+Kambojas.
+
+46. Paradas were given close hair-cut and Pahlavas
+were asked to grow beard and moustache. All of them
+were deprived of the right of the Vedic study and the use of
+Vasatkara.
+
+47. All those Ksatriyas who had been deprived of
+virtue were re-instated in piety. The entire earth was con-
+quered by him virtuously.
+
+48. Thus conquering the earth virtuously the king
+instituted a horse-sacrifice.
+
+49. O sage, the sacrificial horse was let loose, followed
+by his sixty thousand sons. It reached the shore of the
+ocean in the south-eastern region.
+
+50. It was stealthily removed by Indra, king of the
+gods, for his selfish ends near the sea-shore and taken under-
+ground.
+
+51. In order to search out the horse, king Sagara
+caused the country around dug up through his sons.
+
+52. While it was being dug near the ocean, they met
+the sage Kapila, the primordial Purusa of cosmic form.
+
+53. As he woke up from trance all but four of the
+sixty thousand sons were burnt by the fire from his eyes.
+
+54. The four who were spared were Harsaketu, Suketu,
+Dharmaratha and Pajficajana. They became the kings es-
+tablishing his line.
+
+55. Lord Visnu granted him five boons, viz. flourishing
+family, intelligence, fame, the ocean as son and wealth.
+
+56. By that virtue he attained the fatherhood of
+ocean. He regained the sacrificial horse from the ocean.
+
+57. He performed a hundred horse-sacrifices and
+became famous. He acquired wealth bestowed by Siva. He
+propitiated the deities by performing the sacred rites.
+
+## Page 46
+
+1612 Sivapurdna
+CHAPTER THIRTYNINE
+
+(Kings of the solar race)
+
+Saunaka said:—
+1. How were the heroic sons of Sagara born? By what
+means did the sixty thousand of them become valorous?
+
+Sita said:—
+
+2. Sagara had two wives. They had wiped off their
+sins by penance. When Aurva the sage was propitiated ‘by
+them he granted them a boon.
+
+3. One of them chose the boon of sixty thousand sons.
+The other chose one son who would maintain the line of
+succession in the race.
+
+4. Having received the boon of heroic sons she gave
+birth to a big gourd of seeds which were separated.
+
+5. They were put in jars of ghee and nurtured by
+nursing maidens. They became princes and enhanced the
+delight of all.
+
+6. When they were burnt by Kapila one Pajficajana
+became king.
+
+7. Paficajana begot a son Athgumat whose son was
+Dilipa. Dilipa’s son was Bhagiratha.
+
+8. It was this Bhagiratha who brought Gafiga to the
+sea and made her his daughter.
+
+9. Bhagiratha’s son was Srutasena. His son was the
+virtuous king Nabhaga.
+
+10. Ambarisa was the son of Nabhaga. Sindhudvipa
+was his son. Ayutdjit was the heir and successor to
+Sindhudvipa.
+
+11. His son was king Rtuparga, who knew the secret
+of the dice and was a friend of king Nala.
+
+12. “Rtuparna’s son was Anuparna. His son was
+Mitrasaha who was known as KalmAgapada also.
+
+13, Kalmasapada’s son was Sarvakarman. Anaranya
+was the son of Sarvakarman.
+
+14. Anaranya’s son was king Mundidruha. His sons
+were Nisadha, Rati and Khatvanga.
+
+15. Khatvanga returned from the heaven, lived for a
+
+## Page 47
+
+1613
+Muhirta and attained all the three worlds, O sinless one,
+through his intellect and truthfulness.
+
+16. Dirghabahu was his son. Raghu was his son. Aja
+was his son and Dagaratha was born of him.
+
+17. Rama was born of Dafaratha. He was very pious
+and famous, a part of Visnu and a devotee of Siva. Ravana
+was killed by him.
+
+18. His story has been described in the Puranas. It is
+famous in the Ramayana. It has not been mentioned here in
+detail.
+
+19. Ra&ma’s son Kufa was very famous. Atithi was
+born of Kuga. His son was Nisadha.
+
+20. Nala was the son of Nisadha. Nabhas was the
+son of Nala. Pundarika was the son of Nabhas. Kgsema-
+dhauvan was his successor.
+
+21. The powerful Devanika was the son of Ksema-
+dhanvan. Devdnika’s son was the king Ahinagu.
+
+22. Ahinagu’s heir was the powerful king Sahasvat.
+Virasena was his son, a scion of the family of Iksvaku.
+
+23. Virasena’s heir was Pariyatra. From him a son
+Bala was born. Sthala was his son.
+
+24. His son was the valorous Yaksa born of a part
+of the sun. His son was Aguna and from him was born
+Vidhrti.
+
+25. His son Hiranyanabha was a great preceptor of
+Yogic science. He was the disciple of the sage Jaimini and
+an expert in the spiritual science.
+
+26. It was from this great king that Kaufalya
+YAjiiavalkya studied the spiritual science of Yoga that un-
+revels the knotty mesh of the heart.
+
+27. His son was Pusyanadman. His son was Dhruva.
+Agnivarna was his son. His son was Sighra.
+
+28. His son was Marut. He became a Siddha by
+means of Yoga. This king is alive even now in a village
+Kalapa.®
+
+Umdsarhhita
+
+43. Kalpagrama is in the eastern land on the Himalayas, having
+hundreds and thousands of the hermitages of the sages. See Geo. of the
+Purauas P. 57. . .
+
+The versc suggests the probable date of SP, in the reign of
+King Marut, son of Agnivarna of the solar race.
+
+## Page 48
+
+1614 Sivapurdpa
+
+29. At the end of Kali he will revive the extinct solar
+race along with the contemporary sages.
+
+30. Prthugruta was his son. Sandhi was his son.
+Amarsana was his son and Marutvat was his son.
+
+31. Visvasa was his son. His son was Prasenajit.
+Taksaka was his son and his son was Brhadbala.
+
+32. These are the kings of Iksvaku family who had
+gone before. Now listen to the future kings of this family,
+the most excellent of those who know sacred virtue.
+
+33. Brhadbala’s son will be Brhadrana. Urukriya will
+be his son.
+
+34. His son will be Vatsavrddha. His son will be
+Prativyoman. Bhanu will be his son whose son will be
+Divarka, lord of a vast army.
+
+35. His son will be a great hero, Sahadeva. His son
+will be Brhadagva. The powerful Bhanumat will be his son.
+
+36. The powerful Pratikasva will be the son of
+Bhanumat. King Supratika will be his son.
+
+37-41. Marudeva born of an auspicious star will be
+his son; his son will be Puskara; his son Antariksa; his son
+Sutapas; his son the heroic Mitrajit; his son Brhadbhaja
+and his son Barhinadman; his son Krtafijaya; his son Ranafi-
+jaya; his son Safijaya; Sakya his son, Suddhoda_his son,
+Langala his son; his son Prasenajit; his son will be Sidraka;
+Runaka his son; Suratha his son and Sumitra his son. There-
+after the family becomes extinct.
+
+42. The family of the Iksvakus will end with Sumitra,
+the family with kings of variegated exploits, sacred rites and
+virtuous practice.
+
+43. Reaching upto Sumitra the king in the Kali age
+that auspicious race will become merged in outside families.
+It will flourish again in the Krta age.
+
+44, These are the kings in the solar race who made
+profuse monetary gifts. Those mainly mentioned belong to
+Iksvaku’s family.
+
+45. This is the auspicious creation of the sun
+Vivasvat, who is glorified as Sraddhadeva, the bestower of
+nourishment to all living beings.
+
+46. Reading and listening to this creation of Vivasvat,
+
+## Page 49
+
+Umasamhita 1615
+
+man attains Sayujya after enjoying happiness here. He will
+be blessed with progeny.
+
+CHAPTER FORTY
+
+(The power of the Manes)
+Vyasa said: —
+
+1, On hearing about the excellent solar race of
+Sraddhadeva, the sage Saunaka respectfully asked Sita.
+
+Saunaka said
+
+2. O Siita, disciple of Vyasa, of long life, obeisance be
+to you. A divine and pious story has been narrated to us.
+
+3. It has been mentioned by you that Sraddhadeva
+is the progenitor of the solar race. I have a doubt therein
+which I shall mention before you.
+
+4. How did the sun become Sraddhadeva? I wish to
+hear this. Please clear this doubt with pleasure.
+
+5. O holy lord, please mention the glory and the bene-
+fit of Sraddha rite whereby the manes are pleased and bless
+the performer with prosperity.
+
+6. I wish to hear this too, namely the creation par ex-
+cellence of the manes. O intelligent one, please mention
+this particularly. Have mercy on me.
+
+Sita said:—
+
+7-9. O Saunaka, I shall mention everything concerning
+the creation of the manes. This was narrated to the intelligent
+Markandeya by Sanatkumara. I shall mention it to you. It
+bestows the benefit of all cherished desires. Bhisma the fore-
+most of the virtuous lying on the bed of arrows was requested
+by Yudhisthira to whom he spoke thus.
+
+Yudhisthira said:—
+10. How is nourishment achieved by a man desirous
+
+of nourishment? I wish to hear this. What is it that makes a
+man free from distress?
+
+## Page 50
+
+1616 Stoapurdpa
+
+Sita said:—
+
+ll. On hearing the question of Yudhisthira, Bhigma
+the knower of Dharma spoke with pleasure even as every one
+was listening.
+
+Bhisma said: —
+
+12. O Yudhisthira, those who perform Sraddha rites
+with pleasure delight everyone through them as a result of
+the favour of the manes.
+
+13-15. Men desirous of benefits perform Sriddhas,
+keeping in view, the father, the grandfather and the great-
+grandfather in three balls of rice. O Yudhisthira, the manes
+bless the man desirous of piety with piety, desirous of progeny
+with progeny aad desirous of nourishment with nourishment.
+
+Yudhisthira said:—
+
+16: Some manes are in the heaven and some are in
+the hell. The fruit accruing to the living beings is determined
+by their activity.
+
+17. How do the Sraddhas go to the manes? How
+those in the hell can derive, the benefit ?
+
+18. I have heard that even the gods worship the
+manes. I wish to hear this. Please mention this in detail.
+
+Bhisma said:—
+
+19. O suppressor of enemies, in this context, I shall
+narrate an event as I have heard from my father who had
+left this world.
+
+20. At the time of Sraddha, the ball of rice for my
+father was kept ready by me. My father split the ground
+and requested me to offer the same into his hand.
+
+21. Thinking that it was not the procedure enjoined
+in the Kalpa texts I placed the Pinda on the Kuéa_ grass
+without further thought.
+
+22. *‘O sinless one, O most excellent of the descendants
+of Bharata, gladdened by me my father spoke in sweet words.
+
+23. O most excellent of men, I only tested you. I
+have been redeemed by you the knower of sacred rites and a
+good scholar. I have been blessed with a real heir in you.
+
+## Page 51
+
+Umasarhhita 1617
+
+24. What the king does by virtuous or authoritative
+rites, the subjects too emulate, taking them to be backed by
+precedent.
+
+25. O most excellent of the descendants of Bharata,
+listen to the eternal virtues of the Vedas. Proof of the Vedic
+rite has been shown by you.
+
+26. Being delighted I shall grant you excellent boons
+lovingly. Accept them. They are difficult to obtain in the
+three worlds.
+
+27. Death will have no hold on you as long as you
+wish to live. With your permission it may be effective again.
+
+28. What is it that you wish for ? I shall grant you
+an excellent boon. O foremost among the descendants of
+Bharata, what is in your mind ? Mention it’.
+
+29. When he had said this, I saluted him with palms
+joined in reverence and said—‘O bestower of honour, if you
+are pleased, I am content. I ask you a question. Please
+answer it.
+
+30. He said to me—*“Tell me. If you wish I shall
+grant it to you”. When I asked him again the king told me.
+
+Santanu said :—
+
+31. O dear, listen. I shall explain your question
+factually. The entire ‘Pitrkalpa” has been heard by me
+from Markandeya.
+
+32. Odear, what you ask me now I had asked the sage
+Markandeya. He, the knower of sacred rites, replied to me.
+
+33. O king listen. Once asI looked up into the sky,
+I saw a great aerial chariot coming over the mountain.
+
+34-35. I saw in the aerial chariot a great blazing mass
+of splendour as brilliant as glowing coal and very pleasing to
+the mind having nothing to excel, it. I saw a man of thy
+size of a thumb lying therein. He was very brilliant as if
+fire had been placed over fire.
+
+36. I bowed to him. With my head bent down,
+I asked the holy lord. “O holy lord, how may we know
+you ?”
+
+37. The pious soul told me “you have not that penance
+
+## Page 52
+
+1618 Sivapurdga
+
+and austerity, O sage, whereby you may know me, the son of
+Brahma. ‘
+
+38. I am Sanatkumara. What can I do for you ? The
+other sons of Brahma are younger to me.
+
+39. My seven brothers are invincible and their families
+are established. But we pursue the rites of ascetics restraining
+the Atman in the Atman.
+
+40. Even as I was born I became famous as Kumara.
+O sage, hence I am called Sanatkumara (the eternal
+bachelor ).
+
+41. Since you have piously performed penance with a
+desire for my vision I have appeared before you. Welfare be
+to you. What wish of yours shall I carry out ?”
+
+42. When he said this I told him—‘O holy lord, listen.
+Please narrate factually the original creation of the Pitrs.
+
+43. When requested thus he said to me. Listen to
+everything factually. OQ dear one, I shall explain to you the
+auspicious creation of the Pitrs truthfully.
+
+Sanatkumdra said :—
+
+44. Formerly Brahma created the gods and said to
+them, ‘Worship me’’. But they who sought benefits eschewed
+him and worshipped the Atman.
+
+45-46. They were cursed by Brahma thus. You will be
+deluded and become senseless”. Hence unable to know any
+thing and being insensible they bowed to Pitamaha and said
+“Please bless us.” Being requested thus he said to them for the
+sake of expiation.
+
+47, ‘Ask your sons. You will then attain perfect
+knowledge”. Urged thus the senseless ones asked their sons
+boldly.
+
+48-50. They were asked to perform expiatory rites.
+O sinless one, the gods were thus addressed by the sons.
+“Let the sons be approached.” The gods who had been
+cursed by Brahma told him that the sons had gone away.
+Then Brahm told the gods thus ‘O gods, listen, You are
+not Brahmavadins, the believers in Brahma’s cult.
+
+51 Hence what has been mentioned by the sons, the
+
+## Page 53
+
+Umasarhita 1619
+
+most excellent of the perfectly wise shall be followed without
+hesitation and not otherwise.
+
+52. O dwellers of heaven, let the gods and the Pitrs
+worship one another with great delight. This will confer the
+cherished desires.”
+
+53. Sanatkumara said :—O great sage, then their
+doubts were cleared. With delight they became the mutual
+bestowers of happiness at the instance of Brahma.
+
+54. Then the gods said “Since you addressed us as
+sons you will undoubtedly become Pitrs.
+
+55. In the Sraddha of the Pitrs, undoubtedly the per-
+former will propitiate Soma who being delighted and enhan-
+ced by the offering shall gladden the worlds.
+
+56-58. They will delight the ocean, the mountain and
+the forest, all consisting of the mobile and immobile beings.
+Those who desire nourishment and perform Sraddha rites
+are given nourishment by the Pitrs who are propitiated.
+Those who give three Pindas in the Sraddha mentioning the
+names and Gotras delight the Pitrs wherever they be and
+are looked after by them.
+
+59-60. Let these words be truthful. Whether gods or
+Pitrs we are father and sons successively. Thus the Pitrs who
+became sons virtuously were famous in the world as mutual
+beneficiaries.
+
+CHAPTER FORTYONE
+(The attainment of the seven hunters)
+
+Sanatkumdara said:— .
+
+1. O foremost among the performers of penance, the
+Pitrs in the heaven are seven in number. Four of them are
+embodied and three bodiless.
+
+2. The primordial groups of gods, brahmins and others
+worship them. With the power of thcir Yoga they streng-
+then and gladden Soma.
+
+## Page 54
+
+1620 Sivapurdga
+
+3-6. Hence people shall offer Sraddhas especially to the
+Yogins. A silver vessel or a vessel with silver when offered
+with Svadha, delights the Pitrs). When the sun is in the
+northern transit he shall make offerings in the fire or in its
+absence in water. He shall propitiate fire-god, Soma or Yama.
+Those wha delight the Pitrs with devotion are delighted by
+Pitrs. The Pitrs bestow nourishment, offspring, heaven, health
+and other desired objects.
+
+7. O sage, the rites of Pitrs are better than the rites
+of the gods. O brahmin sage, since you are a devotee of the
+Pitrs you shall be free from old age and death.
+
+8. Osage, the goal attained by devotion to the Pitrs
+is not attained by the practices of Yoga. O great sage, so
+devotion to the Pitrs shall be pursued with care.
+
+Markandeya said :—
+
+9. After saying thus and immediately bestowing the
+vision of perfect knowledge the lord of the gods disappeared.
+
+10. O Bhisma, listen again. Formerly, even after
+learning the code of Yoga, the brahmin sons of Bharadvaja
+were degiaded due to their evil course.
+
+11. Their names which indicate their activities are
+Vagdusta (defiled in speech), Krodhana (angry), Hirhsra
+(violent) , Pisuna(backbiter ), Kavi (poet ), Svasrsa (self-creating)
+and Pitrvartin (worshipping the pitrs)
+
+12. O dear, the sons of Kausika became the disciples
+of Garga. When their father had expired they went in exile.
+
+13. At the instance of their preceptor they looked
+after his cow and her calf. All of them were unjust in their
+actions.
+
+14. O descendant of Bharata, once in their course of
+wandering in the forest, they were oppressed by hunger.
+They had the cruel intention of injuring the cow then.
+
+15. Kavi and Svasrsa forbade them do so. But they
+could not be prevented from that act.
+
+16. The brahmin Pitrvartin who performed Sraddha
+everyday with devotion to the Pitrs spoke to them angrily.
+
+17. If it is not possible to stop this do it with the
+Pitrs in view. Perform the Sraddha, ye all cautiously.
+
+## Page 55
+
+Umdsarhhitd 1621
+
+18. If performed thus, the cow will attain picty undoub-
+tedly. By worshipping Pitrs we shall not be affected by sin.
+
+19. O descendant of Bharata, on being advised thus,
+they all sprinkled the cow with sacred water, dedicated it to
+the Pitrs and used it as their food.
+
+20. After eating the cow they said to the preceptor
+saying—“The cow is killed by a tiger. Let the calf be accepted.”
+
+21. The sage accepted the calf with great distress. The
+killers of the cow became sinful by their false reverence and
+service.
+
+22. Odear, in due course, when their term of life ex-
+pired the seven brothers passed away.
+
+23-24. They were reborn as the sons of a hunter as a
+result of their cruelty, violence, being ignoble towards the
+preceptor and their over-indulgence in fierce violence. They
+were reborn in the country of Dasarnas.4¢ They were strong,
+intelligent and experts in piety.
+
+25. They were engaged in the practice of sacred rites.
+They were free from the delusion of hunting animals. On the
+beautiful mountain Kalafijara they passed their time with
+distress.
+
+26. Recollecting the event of their death the forest-
+roamers became forbearers, free from Dvandvas and averse
+to taking gifts.
+
+27. The hunters performed auspicious rites, and holy
+deeds, disassociating themselves from the wicked. They had
+the power of the memory of the previous birth.
+
+28. Whatever sacred rites they had heard in the pre-
+ceptor’s hermitage in the previous births were retained in
+their minds. So also the goal of non-return to this world.
+
+29-30. They performed their penance, had their food
+and finally cast off their lives on that mountain. O descen-
+dant of Bharata, O king, the different places where they
+fell dead are still seen in the same manner on_ the
+mount Kalafijara.4® Thanks to their activities neither auspi-
+
+44- The Western DaSarra comprised the Eastern Malwa including
+the kingdom of Bhopal with its capital at Vidisa while the eastern
+Dasarna formed a part of Chatusgarh district in the Madhya Pradesh
+
+(B.H.D, Sec. III).
+45. See P. 1273 note 128,
+
+## Page 56
+
+1622 Sivapurdna
+
+cious nor inauspicious, they were reborn in a life neither
+auspicious nor inauspicious.
+
+31. On an island in an auspicious spot the seven be-
+came aquatic birds. They were reborn as Cakravaka birds
+in a life that is neither auspicious nor inauspicious.
+
+32. They abandoned the contact with their mates.
+They were like sages practising sacred rites, free from
+associations and Egotistic feelings. They remained calm.
+They did not accept gifts. They were free from Dvandvas.
+
+33. They were birds only in name. They were holy
+bachelors delighted in renunciation. They were birds practising
+sacred rites.
+
+34. They could remember their previous births. They
+grew old even as they were bachelors. They remained to-
+gether free from aberrations and performed good rites.
+
+35. When they were born as brahmins they acted
+falsely to their preceptor. Still in their birth as birds they
+attained knowledge as a result of the Sraddha they had
+performed.
+
+36. They had performed the Sraddha for the Pitrs
+with due rituals. They retained memory of previous noble
+birth.
+
+37. The knowledge of Brahma practised by the
+ancients or found in the preceptors’ families stands as of
+yore even today. One shall practise that knowledge there-
+fore. :
+
+38. They were of noble birth and were named
+Svatantra. Suyajfia, Sumanas, SuvakSuddha and the fifth one
+Chidradarsgaka.
+
+39. While they were practising sacred rites an auspicious
+event happened there. O great sage, please listen to that.
+
+40. The prosperous king of Nipas,“6 endowed with
+strength, and accompanied by his harem entered that forest.
+
+41. The Cakravaka Svatantra yearned much, on
+seeing the happy king endowed with the glory of the king-
+dom pass along.
+
+46. Nipa signifies a land lying at the foot of a mountain. Whether
+a pat:icular locus is meant to be conveyed by this word is not clear,
+
+## Page 57
+
+Umédsarhhitd 1623
+
+42-43. I have become weary with the observance of
+fasts and steady penance. If there is a merit accruing from
+penance or the observance of checks and restraints lei me
+become like him the abode of fortune and bliss.
+
+Markandeya said:—
+
+44. Then two of his comrades said. ‘We shall be your
+ministers, your delighters and well-wishers.”
+
+45. After saying “So be it”, the Yogic soul attained
+his goal. The two Cakravakas replied to him.
+
+46. After renouncing action by the Yogic practices
+why do you long for such a boon? Hence hear my statement.
+
+47. Odear, you will become a king in the excellent
+city of Kampilya.47 These too will be your ministers who will
+not go astray.
+
+48. The three did not speak about the kingdom to
+their four comrades. Being delighted Sumanas said again.
+
+49. When the curse is over you will attain Yoga.
+Sarvasattva, Suyajfia and Svatantra too will attain yogic powers.
+
+50. Due to their favour you will attain merit. You have
+sprinkled the cow and offered it to the Pitrs.
+
+51. We shall acquire knowledge which shall work as
+the means of Yoga for all. This statement is bold and
+spirited and is quoted as a verse.
+
+52. After attaining human life you will attain “Yoga”.
+After saying this the learned bird Sumanas became silent.
+
+Markandeya said :—
+53. Thus I have menioned their story to you. What
+more do you wish to hear?
+
+47. Kampilya was the capital of South Paiicala identical with
+modern Kampil in the Farrukhabad District to the south of the Ganges.
+
+## Page 58
+
+1624 Sivapurdna
+CHAPTER FORTYTWO
+
+(Power of the Pitrs)
+
+Bhisma said :—
+
+1. Markandeya of great intellect, O foremost among
+the devotees of the Pitrs what happened after that? O excel-
+lent sage, please tell me.
+
+Markandeya said :—
+
+2. Those seven traversers of the lake Manasa engaged in
+sacred rites and Yoga got their bodies withered up taking
+in only air and water.
+
+3. After sporting about for a long time there, like
+Indra in Nandana,‘® the king, accompanied by his wives and
+the members of his harem returned to his city.
+
+4. A son Aniha was born to him. He was highly
+virtuous. King Vaibhraja established his son in the kingdom
+and went to forest.
+
+5. Without taking in any food, breathing in only air
+he began to perform a great penance in the spot where those
+comrades were present.
+
+6. Then that forest Vibhraja shone splendidly. It
+became very famous as the bestower of Yogic Siddhi.
+
+7. It was there itself that the four birds of Yogic rites
+and the three that tell from Yoga cast off their bodies.
+
+8. They were reborn in Kampilya as _ seven noble
+souls Brahmadatta and others. All of them were free from
+sins.
+
+9. Four of them had the memory of their previous
+births but three of them were deluded. That Svatantra of
+great Yogic power was now called Brahmadatta.
+
+10. Chidradarsin and Sunctra were the masters of the
+Vedas and Vedangas. They were born as sons of brahmins
+well-versed in the Vedas. They had the memory of the
+previous births.
+
+11. Paficdla was conversant with many Kk mantras. He
+became a preceptor. Pundarika became the master of
+
+48. Itis a grove of Indra lying to the north of Meru.
+
+## Page 59
+
+Umdsarhhita 1625
+
+two Vedas. He was a Chandoga (master of prosody) and
+an Adhvaryu (priest of sacrifice).
+
+12 On seeing his son Brahmadatta free from sin, the
+king crowned him in kingdom and attained the supreme
+goal.
+
+13. Pafcala and Pundarika established their sons in
+the house and went to forest. There they attained the
+great goal.
+
+14. O descendant of Bharata, Brahmadatta’s wife
+Sannati sported with her husband with single-minded
+devotion.
+
+15. The other three Cakravaka comrades were born
+as brahmin sons in the family of a poor man, O king.
+
+16. The four sons of Chidradarsin were endowed with
+Vedic study. They were Dhrtimat Sumahitman, Tattva-
+dargin and Nirutsuka.
+
+17. They were engaged in Yogic practice. They took
+leave of one another, bowed at the lotus-like feet of Siva
+and set out.
+
+18. The enthusiasts desiring freedom from rebirth
+resort to Siva’s feet. May those feet of Siva destroy sins.
+
+19. O great sage, if any physical, mental or verbal
+sin is committed, one shall read this narrative with full
+devotion.
+
+20-22. By repeating the names of Siva, one gets rid of
+all sins soon. As soon as the name Siva, the lord of the gods,
+is uttered sins are quelled like an unbaked pot in water,
+O great sage. In proportion to the sins committed and in
+order to quell them the Japa of Siva’s names shall be per-
+formed by the faithful. In order to achieve the fruits of all
+desires too, this Japa shall be performed accordingly.
+
+23. He who reads or hears this for prosperity is
+liberated from sins and attains ,salvation. There is no
+doubt in this.
+
+## Page 60
+
+1626 Sivapuréna
+
+CHAPTER FORTYTHREE
+(The mode of worshipping Vyasa)
+
+Saunaka said:—
+
+1. O Sita having Vyasa as preceptor, please tell me
+now the mode of worshipping the preceptor. What shall be
+
+done at the end of listening to the holy book ? Please mention
+that also.
+
+Sita said:—
+
+2. After hearing the story the devotee shall worship the
+preceptor duly with devotion. Delighted in mind he shall
+make liberal gifts duly to the preceptor at the conclusion of
+the holy book.
+
+3. The intelligent devotee shall bow to the propounder
+and worship him duly. Gifts of ornaments for hands and
+ears and fine garments shall be made.
+
+4-5. After the worship of Siva he shall present to the
+preceptor a cow and its calf. He shall make a book-seat
+with gold, a Pala in weight and cover it with a good cloth.
+The manuscript of the holy book written in beautiful hand
+shall be placed on it and given to the preceptor. The in-
+telligent devotee will be liberated from worldly bondage.
+
+6. O sage, a village, an elephant ora horse or other
+things shall be given as possible to the noble preceptor who
+reads and propounds the story.
+
+7. O sage Saunaka, Purana is efficacious if it is
+listened to in accordance with the rules. I speak truth to you.
+
+8. © sage, the Purana full of the meanings of the
+Vedas, the heart of the Vedas, the meritorious holy book
+shall be listened to with devotion and in accordance with
+the rules.
+
+## Page 61
+
+Umasamhita 1627
+CHAPTER FORTYFOUR
+(The birth of Vyasa)
+
+The sages said:—
+
+1-3. O Sita of great intellect, O store-house of mercy,
+please narrate the birth of Vyasa. O holy lord, please
+satisfy our curiosity. Vyasa’s mother is known as Satyavati.
+She was married to king Santanu. How was Vyasa the great
+Yogin born of her from Pardsara? There is a great
+doubt in regard to that. It behoves you to remove that doubt.
+
+Suta said:—
+
+4. Once, while he was making his pilgrirnage,
+Paragara the yogin casually came to the auspicious and
+beautiful banks of the Yamuna.
+
+5. The righteous soul spoke to the ferryman who
+was taking his meals “Take me across the Yamuna quickly
+in your boat”.
+
+6. When the ferryman was thus urged by the sage
+he spoke to his daughter Matsyagandha :—Girl, quickly
+take this sage to the other bank in the boat.
+
+7. This sage, O fortunate girl, is born of the womb of
+Dr’yani. He is the ocean of sacred rites. He has mastered
+the for Vedas. Now he desires to cross this river.
+
+€ Thus directed by her father, Matsyagandha began
+to tale the great sage of solar splendour seated in the boat
+acros the river.
+
+9. That great Yogin whohad never been fascinated
+eves on seeing the beauty of the celestial damsels became
+ovewhelmed by lust towards her, in the circumstances.
+
+10. Desirous of clasping the beautiful daughter of the
+fiherman, the sage touched her in the right hand with his
+ught hand. .
+
+ll. The wide-eyed lass spoke to him smilingly—“O
+sage of controlled speech, why do you intend to perpetrate
+this despicable deed ?
+
+12. O most intelligent one, you are born of the beanti-
+ful family of Vasistha. O brahmin, I am the daughter of
+a Nisada. How can our union be proper ?
+
+## Page 62
+
+1628 Sivapurdna
+
+13. O excellent sage, birth as a man is very difficult to
+obtain; especially that as a brahmin. Even there the state
+of an ascetic is very rarely achieved.
+
+14, It is extremely surprising that you endowed with
+learning, good physique, speech, noble birth and good con-
+duct have become subservient to the arrows of Kama!”
+
+15. Then she thought within: “If this Yogin engages
+himself in the vicious act there is none in the world to prevent
+him due to his power of inflicting curse.”
+
+16. After thinking in the mind thus she said to the
+great sage—“O holy lord, please forbear till I take you to
+the other bank.”
+
+17. On hearing her words the king of Yogins
+Parafara left off her hand. He reached the other shore.
+
+18. Afflicted with lust the sage caught hold of the
+lass. Tremblingly the lass spoke to the merciful sage.
+
+19. “O great sage, I have foul smell and black com-
+plexion. I am the daughter of a Nisdda. You are the
+most excellent of Yogins of extremely liberal thoughts.
+
+20. The union between us is not proper as of a
+piece of worthless glass with gold. The sexual uaion of
+two persons of the same class and features may be conducive
+to bliss.”
+
+21. As the sage addressed her thus, the damse was
+instantly converted into Yojanagandha, (one whose fragrant
+odours spread to a Yojana), one of fine features and beuty.
+
+22. Afflicted by lust the sage caught hold of her
+again. On seeing him bent upon seizing her she said agin.
+
+23. ‘It is mentioned in the Vedas that sexual intercourse
+shall be indulged in at night; not during the day. Thee
+is great harm in having sexual intercourse during the day
+time. It is censured.
+
+24, Hence please wait till the night falls. Now all the
+men will see us and so shall my father who stands at the
+other bank.”
+
+25. On hearing the words uttered by her, the leading
+sage immediately created a screen of snow, thanks to the
+strength of his merit,
+
+26. When the sheet of mist spread and it looked just
+
+## Page 63
+
+Umésamhita 1629
+
+as night, the girl, afraid of submitting herself to sexual
+intercourse, spoke to the sage again.
+
+27. “OQ Yogin, your semen never fails. You may
+enjoy me and go away. O holy lord, I shall become
+pregnant, what will be my fate then?
+
+28. O intelligent sage, my virginity will be ruined,
+People will laugh at me. What will I tell my father?”
+
+Pard$ara said: —
+
+29. O maiden, O beloved girl, sport with me freely
+with loving emotion. You tell me what you desire. I shall
+fulfil it.
+
+30. By making my advances fruitful you will be known
+as Satyavati. You will deserve the respect of all Yogins
+and even the gods.
+
+Satyavati said:—
+
+31-32. If neither my father nor mother nor anyother
+person on the earth comes to know of this, if my virginity
+is not affected, O lord, if the son born of me attains won-
+derful power like you, if there be sweet odour in my body
+for ever and if there be fresh youth in me, accept mc then.
+
+Pardgara said:—
+
+33. Listen to me O beloved girl, all your desires will
+be fulfilled. A son of great fame of Visnu’s part will be
+born to you.
+
+34. Know that there is a reason that I have become
+lustful. Even on seeing the beauty of celcstial damsels my
+mind was never deluded anywhere before.
+
+35. On seeing you of fish odour 1 was enamoured.
+O lass, lines drawn by Brah na on the forehead cannot prove
+untrue. °
+
+36. O comely lady, your son will be the author of the
+Puranas, the classifier of the Vedas and renowned in the
+three worlds.
+
+37. O great sage, after saying this and enjoying the
+beautiful lass, the sage, an expert in Yoga, took his bath in the
+Yamuna and went away quickly.
+
+## Page 64
+
+1630 Sivapurdna
+
+38. She conceived and immediately gave birth in an
+island on the Yamuna*® to a son with the lustre of the sun and
+resembling Kamadeva.
+
+39. In his left hand he was holding the water pot and
+in his right he had an excellent staff. He had matted hair
+of tawny colour and shone like a mass of splendour.
+
+40. Immediately after birth the brilliant sage spoke to
+his mother “O mother, go as you please and I also go at my
+will
+
+41. O mother, whenever you have some work, whenever
+you desire in your mind, please remember me. Immediately
+I shall come to you to fulfil your desire.”
+
+42. After saying this and worshipping his mother’s feet
+the sage, a storehouse of penance, went away to perform
+penance to holy centres quelling sins.
+
+43. -She too returned to her father. The chaste lady
+was overwhelmed by her love for her son. She recollected
+his activities and described the event as her great fortune.
+
+44. As the boy was born in an island he was known
+as Dvaipayana. Since he classified the various branches of
+the Vedas he is glorified as Vedavyasa. 7
+
+45-49. Hc went to these holy centres :—Tirtharaja® at
+the outset, which bestows virtue, love, wealth and salvation,
+Naimisa,™ Kuruksetra,®? Gangadvara,®3 Avantika,® Ayodhya,®*
+Mathura,®* Dvaraka,5? Amaravati,®8 Sarasvati,®® Sindhusanga,©
+
+49. The river Yamuna is personified as the daughter of the sun by
+his wife Sarnjna.
+
+50. It isa famous place of pilgrimage on the northern bank of the
+Ganga in Uttara Pradesh. See P. 35 note 27.
+
+51. P. 76 note, P. 432 note.
+
+52° It lies south of Thanesar, not far fiom Panipat in Haryana
+province.
+
+53. P. 1082 note.
+
+54- P- 1314 note.
+
+43. Itis situated on the Sarayu river in Audh near Faizabad, U.P.
+
+56. It is situated on the right bank of the Yamuna river. Originally
+it was called Madhuvana from the demon Madhu who ruled there.
+
+57. P. 1229 note.
+
+58. Itis situated on the bank of the Krsna river in the Madras
+Presidency.
+
+59. P. 47 note. It may also refer to Mallika Sarasvatii, KRS Ch.
+1, V. 41.
+
+6v, It is the place where the Indus joins the Western Seca.
+
+## Page 65
+
+Uméasambhita 1631
+the confluence of the Ganga with the ocean,*! Kajici,*? Tryam-
+baka,** the seven holy banks of the Godavari,“ Kalafijara,
+Prabhasa,®° Badarikasrama,® Mahalaya,*? Ormmkaraksetra,®*
+Paurusottama,® Gokarna,” Bhrgukaccha,” Bhrgutunga,7?
+Puskara,”? Sriparvata and Dharatirtha He took ablutions
+duly at these places and performed penance.
+
+50-51. Wandering thus ovcr the various, holy centres
+situated in different countries, the son of Kalika rcached the
+city of Varanasi?> where Visvesvara himself and Annapirna
+the great goddes», the storehouses of mercy shine in order
+to give salvation to the devotees.
+
+52. After reaching the holy centre of Varanasi and
+visiting Manikarnika the great sage discarded the sin accu-
+mulated in crores of birth.
+
+53-57. After seeing Visvesa and other Lingas, taking
+bath in puddles, tanks, wells and lakes, after bowing to all the
+Vinayakas, after kneeling before all Gauris, aficr worshipping
+Kalaraja and Bhairava the devourer ofall sins, after strenuo-
+usly eulogising Dandanayaka and other important Ganas, after
+propitiating Adikesava and other important Keéavas, after
+repeatedly bowing to Lolarka and other important suns and
+after offering balls of rice in all the holy spots alertly, the
+meritorious soul installed the Linga Vyasesvara on secing
+
+61. The upper part of the Bay of Bengal is known as Ganga-Sagara
+for here the Ganga joins the sca.
+
+62. Identical with the modern Conjecvaram. Sce P. 1365 note.
+63. It is a sacred mount, source of the Goda river.
+
+64. The Goda rises in the Western Ghats, flows through the Deccan
+into the Bay of Bengal. SP omits to mention the seven sacred places on
+its bank.
+
+65. P. 1084 note 19; P. 1310 note 141.
+
+66. P. 1327 note.
+
+67. This peak of the Himilayas has not been identified so far.
+58. P. 1254 note.
+6y. P. 1264 note 125.
+70. P. 1083 note 12; 1285 note 133.
+
+71. P, 1262 note 116.
+
+72. P. 1081 note,
+
+73. A sacred “place near Ajmer famous for the lake Puskara
+74. P. 1254 note
+
+75. P. 266 note.
+
+## Page 66
+
+1632 Sivapuréna
+
+whom, O brahmins, man becomes a master of all lores like
+Brhaspati.
+
+58-59. Afler worshipping devoutly Vigveéa and other
+Lifgas he began to think frequently—‘‘What is that Linga
+that bestows Siddhi instantancously and worshipping whom
+the great god, we shall be able to attain all lores and by
+whose blessings I may have the power to compose the
+Puranas.
+
+60-73. There are crores of Lingas; from the midst of
+these what shall I instal, what shall I resort so ? Can it be
+Onkaranatha, or Krttivasesvara or Kedarega, or Kameéa,
+or Candrega, or Trilocana, or Kaleéa, or Vrddhakalesa, or
+Kalasesvara, or Jyesthesa, or Jambukesa, or Jaigisavyesvara, or
+Dasasvamedhesana, or Drumacandesa, or Drkkega or Garudega
+or Ganesvara, or Prasannavadanega, or Dharmesa, or
+Tarakeévara or NandikeSa or NivaseSa, or Patriéa, or Priti-
+keSvara, or Parvatesa, or Pasupati, or Hatakesvara or
+Brhaspatisvara, or Tilabhandesa or Bharabhitesvara, or
+Mahajlaksmisvara or Marutega, or Moksesa, or Ganges.., or
+NarmadeSvara, or KrsneSa, or ParameSana, or Ratnesvara, or
+Yamunefa, or Langalisa, or Vifvesvara or AvimukteSvara, or
+or Visalaksiga, or Vyaghresvara, or Varahesa, or Vidyesvara
+or Varunega, or Vidhisa, or Har'kesesvara, or Bhavanisa,
+or Kapardiga, or Kanduke‘a or AjeSvara or Visvakarmesvara,
+or VireSvara, or Nade’a, or Kapilesa, or Bhuvanesvara, or
+VAskuliga or Mahadeva, or Siddhiévara or VisvedeveSvara or
+Virabhadrega or Bhairaveévara, or Amrtega; or Satifa or
+Parvatisvara or Siddhesvara,Matangega or Bhitiévara, or Asad-
+hisa, PrakaSeSa, or Kotirudresvara, or Madalasegvara, or
+Tilaparnesvara, HiranyagarbheSa or shall it be Madhyames-
+vara?”
+
+74. Pondering thus, Vyasa, devoted to Siva with his
+mind steady in meditation, thought for a short while.
+
+75-77. “O I remember it now. I had forgotten it
+before. My desire has been realised. There is a Linga
+which is worshipped by the Siddhas. It bestows virtue, love,
+wealth and salvation. Its sight and touch purifies the mind.
+It opens the door to heaven. It is in the great holy centre,
+
+## Page 67
+
+Umasamhita 1633
+
+the holy centre of the Siddhas, in Avimukta. There is the
+great Linga Madhyamegvara by name.
+
+78. There is no other Linga at Kasi than Madhyame-
+$vara for the sight of which the gods come here on every
+festive occasion.
+
+79. Hence lord Madhyameévara shall be resorted to.
+Many brahmins have attained Siddhis by propitiating Him.
+
+80. Siva is called Madhyamegvara since he is stationed
+mainly in the centre of Kagi for bestowing happiness
+on the people.
+
+81. It is by worshipping this deity that the Gandharva
+Tumburu and the celestial sage Narada became proficient
+in the art of music.
+
+82. It is by propitiating Him that Visnu acquired the
+art of bestowing salvation; and Brahma, Visnu and Rudra
+became the creator, sustainer and the annihilator respec-
+tively.
+
+83. Kubera became the lord of wealth; Vamadeva the
+head of the devotees of Siva; the childless Khatvanga was
+blessed with children.
+
+84. The celestial damsel Candrabhéma of cuckoo-
+like sweet voice was merged into the Linga even as she was
+dancing emotionally.
+
+85. Srikara, son of the cowherdess, resorted to
+Madhyamevara and attained the chieftainship of the Ganas
+of the benevolent Siva.
+
+86. Thanks to the favour of Madhyameévara the two
+gods Sukra and Brhaspati honoured and respected by the
+Asuras and gods became the master of all lore.
+
+87. I too shall worship lord MadhyameSvara and
+attain the power to compose the Puranas immediately.
+
+88. After resolving thus the sage Vyasa, son of
+Satyavati, took his bath in the waters of the Ganga and
+performed the sacred rites and observances.
+
+89. Sometimes he took in only leaves, sometimes he
+lived on fruit and vegetable diet, sometimes on wind or
+water and sometimes he observed complete fast and performed
+the sacred rites.
+
+90. Thus by these observances of restraints the holy
+
+## Page 68
+
+1634 Sivapuriina
+
+sage worshipped Madhyamesvara thrice a day with flowers
+of various trees,
+
+91. A long time elasped thus. One day early in the
+morning the sage was returning after his bath in the waters
+of the Ganga.
+
+92. The holy sage saw lord Madhyameégvara, the
+bestower of desires of the devotees, in the midst of the
+Linga.
+
+93. His left side was adorned by Uma. He was
+wearing the hide of a tiger as his upper cloth. His body
+appeared beautiful with the surging waves of the Ganga
+amidst his matted hair.
+
+94. The moonlight of the autumnal crescent moon
+was forming bright patches in his forelocks. Bhasma was
+smeared all over his body. His body was as white as camphor
+or the Arjuna tree.
+
+95. He had assumed the form of a five-year-old boy
+with eyes extending upto his ears. His lips were as red as
+the coral. He was wearing ornaments befitting a boy.
+
+96. The lustre of his body subdued the arrogance
+of a crore Cupids. He was naked. His lotus-face was
+beaming with smiles. He was sportively singing Saman
+hymns.
+
+97-98. On seeing Siva, the lord of Uma, the shoreless
+ocean of mercy, known for his fondness of devotees and easily
+propitiated with delighted pleasing face, inaccessible even to
+the Yogins, the kinsman of the distressed and the Cit-formed
+lord, the sage sang the song of prayer with words choked
+with devotion.
+
+Vyasa said:—
+
+99. “O lord of gods, O fortunate one who are favour-
+ably disposed to the refugees, O lord inaccessible to words,
+mind and activities, and the one that are invisible even to
+the Yogins.
+
+100. O lord of Uma, the Vedas too do not realise
+‘our greatness. You alone are the creator of the universe,
+(he sustainer and the annihilator too.
+
+101. You are the first and foremost of all gods. You
+
+## Page 69
+
+Uméasarhhita 1635
+
+are the existence, knowledge and bliss. You have no name
+or family lineage. O Sadafiva you are omniscient.
+
+102. You alone are the great Brahman; the untier of
+the knot of Maya, unsullied by the three attributes as the leaf
+of the lotus unaffected by water.
+
+103. You have neither birth nor conduct of life. You
+have neither a native land nor a family. Even so you are
+the lord of the three worlds. You fulfil the desires of the
+three worlds.
+
+104. Neither Brahma nor Visnu nor the gods including
+Indra nor the leading Yogins know your reality. We worship
+you of such features.
+
+105. Everything originates trom you. You are all—the
+lord of Gauri, the slayer of the Tripuras, a boy, a youth, an
+aged man. I unite you with my heart.
+
+106. Obeisance to lord Siva, who deserves the worship
+of devotees, Obeisance to the Ancient Being; to Siva the
+great Atman,”
+
+107. After eulogising thus when the sage Vyasa
+prostrated on the ground the delighted boy spoke to him.
+
+108. O Yogin, choose your boon, whatever be in your
+mind. There is nothing which cannot be granted to you
+since I am subservient to my devotees.
+
+109. Then the delighted sage Vyasa of great penance
+stood up and replied—‘O lord what is hidden from you the
+omniscient ?”
+
+110. You are the immanent Soul and bestower of
+everything. Why does the lord force me for begging which
+is the cause of misery?
+
+111. On hearing these words of Vyasa of pious mind,
+lord Siva who had assumed the form of boy smiled “nd seit:-—
+The boy said:—
+
+112. O most excellent of those who now brakman,
+the desire you have cherished in your heart will undoubtedly
+be realised ere long.
+
+113. I the immanent lord shall station myself in your
+throat, O brahmin, and shall make you compose the Itihasa
+and the Puranas efficiently.
+
+114. The holy hymn “Abhilasastaka” (Eight Verses
+
+## Page 70
+
+1636 Stoapurdga
+
+of Desire) that you uttered now shall fulfil the desires of
+men who read or recite it in Siva’s temple thrice a day
+for a year.
+
+115. The recital of this hymn is conducive to the
+increase of learning and intellect. It is the cause of all
+riches and the bestower of virtue and salvation to men.
+
+116. Even a fool, getting up early in the morning
+taking his bath, worshipping the linga of Siva and reciting
+this hymn for a year shall attain the status of Brhaspati
+(preceptor of the gods. )
+
+117. This hymn repeatedly recited for a year in the
+presence of the Linga whether by a woman or a man,
+duly observing restraints, shall increase the intellect and
+learning.
+
+118. After saying this the boy Siva merged himself
+into the Linga. Shedding tears of love, Vyasa was overcome
+with emotions.
+
+119. Vyasa who thus secured the boon from the great
+lord Madhyamesvara composed the eighteen Puranas spor-
+tively.
+
+120-122. The eighteen Puranas Brahma, Padma.
+Vaisnava, Saiva, Bhagavata, Bhavisya, Naradiya, Markandeya,
+Agneya, Brahmavaivarta, Lainga, Varaha, Vamana Kaurma,
+Matsya, Garuda, Skanda and Brahmanda are conducive to
+fame and merit to those who listen to the glory of Siva.
+
+Sita said:—
+
+123. You have enumerated the eighteen Puranas. O
+foremost among the knowers of the Vedas please define
+them now.
+
+Vyasa said:—
+
+124. This selfsame question was put to Nandike$vara
+by Tandi the Brahminical Yogin. I shall tell you what he
+had said.
+
+Nandikesvara said:—
+
+125. O Tandi, Brahma the four-faced deity is the
+main speaker. Hence, O sage, the first Purana is called
+Brahma.
+
+## Page 71
+
+Umasathhit a 1637
+
+126. The second Purana is called Padma. It is so
+called because it mentions the greatness of the Padmakalpa.
+
+127. Another Purana composed by Parafara and en-
+lightening the details of Visnu is called Vaisnava Purana. It
+is said to be composed by Vyasa since there is no difference
+between father and son.
+
+128. Those who know the Puranas speak that purana as
+Siva Purana wherein there are many stories of Siva in its
+earlier and later forms.
+
+129. Where the stories of the goddess Durga are
+mentioned, it is said to be Bhagavata Purana as well as
+Devipurana,’*
+
+130-131. The Purana narrated by Narada is called
+Naradiya. The seventh Purana is called, O Tandi,
+Markandeya because the great sage Markandeya is the
+speaker therein. Since it is related to the fire-god, the
+Purana is called Agneya. Since it recounts future events
+the Purana is called the Bhavisya Purana.
+
+132. Since the transformation of Brahman is narrated
+the Purana is called Brahmavaivarta. Since the story of
+Linga is mentioned it is called Linga Purana.
+
+133-135. O sage, the twelfth Purana Vardha is so called
+because it contains the story of Varaha, the great Boar. In
+the Skanda Pur4na the speaker is lord Siva himself and the
+listener is Skanda. In the Vamana Purana the story of
+Vamana (the Dwarf-god) is mentioned. The Karma
+Purana contains the story of Kirma (the tortoise-god). The
+Matsya Purana is so called because it is expounded by
+Matsya. The Garuda Purana is so called because the speaker
+is Garuda himself. Since the story of the entire cosmic egg
+is mentioned, the last Purana is called Brahmanda Purana.
+Sita said :—
+
+136. This question was put by me to the intelligent
+Vyasa. From him the definitions of the Puranas were heard
+by me.
+
+137. Thus was Vyasa born of Satyavati and Paraéara.
+
+76. According to SP., the Saivite Purina Devibhagavata, and not
+
+the Visnuite Purana ‘Mahabhagavata’ belongs to the eighteen Puranas See
+Winternitz H.1.L. Vol 1 Pt. IJ PP. 466-87.
+
+## Page 72
+
+1638 Sioapurdna
+
+He composed the excellent Mahabharata and the Purana
+Sarhhitas.
+
+138. O brahmin, you shall not entertain a doubt as
+to why Satyavati had sexual intercourse with Paragara and
+Santanu.
+
+139. This wondrous birth has sufficient reasons behind
+it. Inthe story of great men the good qualities shall be
+grasped by the intelligent people.
+
+140. He who reads or listens to this great secret is rid
+of all sins and is honoured in the world of sages.
+
+CHAPTER FORTYFIVE”
+(The incarnation of Mahakdlika )
+
+The sages said :—
+
+1. The beautiful episode of Siva with various in-
+cidental anecdotes and narratives of various incarnations,
+is heard. It yields both worldly pleasures and salvation to
+men.
+
+2. O foremost among those who know Brahman, we
+wish to hear from you the beautiful story of the mother of
+the universe, the goddess.
+
+3. The first primordial Sakti of Siva the great
+Brahman, who is called Umi, is the great mother of the
+three worlds.
+
+4. Her two incarnations—Sati and Haimavati, have
+been heard, O intelligent Sita. Please mention her other in-
+carnations too.
+
+5. Which intelligent man will be reluctant to hear
+the good attributes of the glorious mother? Wise men never
+abandon them.
+
+Sita said:—
+6. You are all blessed and contented noble souls in as
+
+77. For the close similarity of the form and contents of the present
+and succeeding chapters ending with Umiasamhita compare Mar. P: the
+narrative of Durga.
+
+## Page 73
+
+Umasarhita 1639
+
+much as you inquire about the great story of Uma, the great
+mother.
+
+7. Sages consider the dust-particles of the feet of those
+who listen, narrate and inquire about it, on a par with holy
+centres. ;
+
+8. Blessed and contented are they, their parents and
+their family, whose mind is merged in the goddess, the great
+Knowledge.
+
+9. Those who do not eulogise the goddess of the gods,
+the cause of all causes are deluded by the attributes of Maya.
+They are unfortunate. There is no doubt in this.
+
+10. Those who do not worship the great goddess, the
+ocean of the juice of mercy, fall in the blind well in the form
+of the cruel worldly existence.
+
+11. Abandoning the goddess and resorting to another
+deity is as bad as abandoning the Ganga and resorting to
+water in the desert for the sake of satisfaction.
+
+12. Which excellent man will abandon her whose
+very remembrance bestows all the four aims of life without
+any strain?
+
+13. This same question was put to Medhas by the
+noble Suratha. Please listen. I shall narrate what was
+mentioned by Mcdhas.
+
+14. Formerly in the Svarocigsa Manvantara there was
+a king Viratha. Suratha his son was of great strength and
+exploit.
+
+15. He was very munificent, truthful, efficient in
+duties, a devotee of the goddess, an ocean of kindness and
+the protector of his subjects.
+
+16. While he was thus ruling over the earth, with
+the brilliance of Indra, nine other kings became desirous of
+seizing his land.
+
+17. They laid siege to his capital Kola.”* The king had
+a terrible war with them.
+
+18. That king was defeated by his powerful enemies
+in the war. His kingdom was seized and he was banished
+from his city Kola.
+
+78. Kola is identical with the modern Kolbapur in the Mahar4gtra
+State,
+
+## Page 74
+
+1640 Sivapurdna
+
+19. The king went to another city of his along with
+his ministers. There too he was defeated by his enemies
+who had a large following.
+
+20. His ministers and officers became inimical to him
+due to adverse fate. They took away all the wealth from
+the treasury.
+
+21. The king left his city pretending to go out for
+hunting. Alone he got up on a horse and went to the dense
+forest.
+
+22-23. Going about here and there, the king saw the
+hermitage of a great sage. It was shining all round with
+flower gardens. Everywhere the sound of Vedic hymns was
+heard. All the animals there were quiet and peaceful. The
+disciples and the disciples of their disciples moved here and
+there.
+
+24. O intelligent one, tigers and other ferocious and
+powerful animals did not harass the animals of less strength in
+that hermitage, thanks to the power of the leading brahmin.
+
+25. The king who was very kind and learned was wel-
+comed and honoured by the leading sage with pleasing words,
+accommodation and food and stayed there.
+
+26-27. Once the king began to think anxiously—‘Alas,
+my kingdom has been seized by my haughty enemies. I am
+unfortunate. My intellect is confounded. I have lost my
+splendour. The kingdom which had been well guarded by
+my ancestors is now enjoyed by my enemies.
+
+28. There was no king in this family as weak as I.
+What shall I do? Where shall I go? How shall I get the
+kingdom back ?
+
+29. My hereditary ministers and counsellors have left
+me. I do not know which king they serve now.
+
+30-32. I do not know what plight they are in, after
+the ruination of the kingdom. My heroic soldiers, very
+enthusiastic in the battle, slayers of enemies, now serve
+another king. Huge elephants like mountains, horses fast
+as wind have gone away. Is the traditional treasury accu-
+mulated by my ancestors well guarded or not? Thus the
+very virtuous king became much deluded.
+
+## Page 75
+
+Umdsamhita 1641
+
+33-35. In the meantime a certain Vaigya came there.
+The king asked him—“Sir, who are you? Why have you
+come here? Why do you appear to be very morose and
+dejected? Please tell me this, now.”
+
+On hearing the sweet words of the king, the leading
+Vaisya Samadhi shed tears. He spoke to the king in words
+full of humility and friendship.
+
+The Vaisya said:—
+
+36-38. “O king, I am a Vaisya Samadhi, born of a
+rich family. Out of greed for my wealth I have been
+abandoned by my wife, sons and others. I am depressed
+by my past Karman. O king, I have come here to the
+forest. I am worried about my sons, grandsons, wife,
+brothers, their sons and friends. O lord, ocean of mercy,
+I am in dark about their welfare.
+
+The king said:—
+
+39. How is it that you love, even as senseless animals
+do, those sons and others who are of evil conduct and
+covetous for wealth and by whom you have been ousted?
+
+The Vaisya said:—
+
+40. O king, words pregnant with substantial sense
+have been uttered by you. Still my mind is deluded by the
+tie of love.
+
+41. O excellent sage, the king and the Vaisya, both
+of them equally deluded then approached the sage Medhas.
+
+42. The valorous king accompanied by the chief of
+the Vaisyas bowed his head to the leading Yogin.
+
+43. With palms joined in reverence the king spoke
+to the sage:—“O holy lord, it behoves you now to dispel
+our delusion.
+
+44. Abandoned by the royal glory I have resorted to
+this dense forest. Still I am not content and happy since
+my kingdom has been taken away.
+
+45. This Vaigya has been expelled from his house by
+his people, wife and others. Still his sense of affinity and
+kinship with them does not go off.
+
+## Page 76
+
+1642 Sivapurana
+
+46. What is the reason hereof? Please say. Wise
+though we are, our minds are afflicted and agitated by
+delusion. This is great foolishness.
+
+The sage said:—
+
+47. The great Maya in the form of the eternal Sakti
+is the material cause of the universe. It is this that drags
+the minds of all and makes them deluded.
+
+48. O lord, Brahma and other gods deluded by this
+Maya do not realise the truth. What then is the story of
+men?
+
+49. That alone, Paramesvari of three attributes,
+creates the universe; she alone sustains it and she alone
+destroys it at the proper time.
+
+50. O excellent king, only he surmounts this delusion
+on whom the favourite goddess who assumes forms as she
+pleases becomes delighted.
+
+The king said:—
+
+51. O sage, who is that Goddess? Who is that great
+Maya who fascinates all? How was that goddess born? Please
+tell me.
+
+The sage said:—
+
+52-53. When the whole universe had been one great
+expanse of water,” a vast sea, when KeSava, the king of
+Yogins, resorted to Yogic slumber aad was sleeping on Sesa,
+two Asuras were born of the dirt in the ears of Visnu.
+They became notorious on the surface of the world in the
+names of Madhu and Kaitabha.
+
+54. They were terrible with huge bodies. They had
+the dazzling brilliance of the sun at the time of dissolution
+They had huge jaw bones. Their faces were hideous with
+curved fangs. They seemed to devour all the worlds.
+
+79. P. 1071 note. For details see Agrawal. MP—-A Study PP. 9.
+266, 321. We find a rock-cut image of Ekaruava at Udayagiri(c 400 A.D.)
+The idea is often repeated in the Puranas Cf. Viynu P. 1. 3,24.
+
+CHAT F AMAT TAT WTA: |
+wfierearrs: Ta Fataaatag fas: 1
+
+## Page 77
+
+Umasamhita 1643
+
+55. On seeing the lotus-seated deity in the umbilical
+lotus®® of the lord, the two Asuras®! shouted “Hey, who are
+you?” and attempted to kill him.
+
+56. On seeing the two Daityas and observing that
+Vignu was still lying in the vast milky ocean,®? Brahma
+eulogised Paramesvari.
+
+Brahma said:—
+
+57. O Mahamaya, save me, save me, O goddess
+favourably disposed to those who seek refuge in you, O mother
+of the universe, save me from these Daityas of hidcous
+features.
+
+58-59. I bow to the great Maya, the Yogic slumber,
+Uma, Sati, Kalaratri, Maharatri, Moharatri, greater than
+the greatest, the mother of the three deities, the eternal,
+the bestower of the fruits of the cherished desires of the
+devotees, the protectress of the gods and the ocean of mercy.
+
+60. It is by your power that Brahma creates the
+world, Visnu protects it and Siva destroys it at the opportune
+time.
+
+61. O Mother, you are Svaha, Svadha, Hri, the un-
+alloyed intellect, Tusti (satisfaction), Pusti nourishment),
+Santi (peace), Ksanti (forbearance), Ksudha (hunger) and
+mercy itself.
+
+62. O mother, you are the Maya of Visnu, the very
+consciousness, the great Sakti, Lajja (bashfulness) and Trsna
+( thirst) .
+
+63. You are Bhranti (Illusion). You appear in the
+form of Smrti (Memory): you stay assuming the form of
+mother. You are Laksmi in the house of those who engage
+themselves in meritorious activities.
+
+80, The idea is often repeated in the Puranas. Cp M. 168. 15.
+‘qaq Treagaa FacTAeferaiedar |
+aaah free wrencra fecraq i
+81. Sprung from the ears of Vignu while he was, asleep at the end
+ofa Kalpa, Madhu and Kaitabha were about to kill ‘Brahma but were
+killed by Visnu. Prof. Agrawal however offers a symbolical interpretation
+
+of Madhu and Kaitabha as Rajas and Tamas.
+82. See ?. 224 note.
+
+## Page 78
+
+1644 Sioapurtna
+
+64. You are Jati (Birth), Vrtti (cause of activity) and
+Vyapti (pervasiveness.) You pervade everything in the
+form of intelligence.
+
+65. O Mother, please delude these unthwartable
+Asuras. O origin of the universe, please waken Visnu the
+unborn lord.”
+
+The sage said:—
+
+66-67. O king, on being requested by Brahma for the
+destruction of Madhu and Kaitabha, the mother of the
+universe, the great Vidy4, the presiding deity of all Vidyas,
+Sakti the enchantress of the three worlds manifested herself
+as Mahakali on the twelfth Tithi of the bright half of the
+month of Phalguna.
+
+68. Then a celestial voice arose:—‘O lotus-seated one,
+do not be afraid. I shall remove the thorn after killing
+Madhu and Kaitabha in the battle.”
+
+69. After saying this and coming out of the eyes,
+mouth etc. of Visnu, the great Maya stood before Brahma
+of unmanifested birth.
+
+70. Visnu, the lord of gods stood up and saw in
+front of him the Daityas Madhu and Kaitabha.
+
+71. A battle ensued between Visnu of unequalled
+splendour and the two Daityas lasting for five thousand
+years. Then there ensued a hand-to-hand fight.
+
+72. Deluded by the powerful great Maya, the excellent
+Danava spoke to the lord Visnu—‘Ask for whatever boon
+you desire to choose.”
+
+Narayana said:—
+73. If you are pleased with me grant me this boon
+that I may kill you. I do not request for any other boon.
+
+The sage said:—
+
+74, On seeing the earth covered by a great expanse
+of ocean they spoke to KeSava:—Kill us in a spot where
+the earth is not covered with water.”
+
+75. After giving his consent the lord lifted up his
+dazzling discus, placed their heads on his loins and cut
+them off.
+
+## Page 79
+
+Umésarmhita 1645
+
+76. O king, thus I have told you about the origin
+of Kalika. O intelligent one, listen to the origin of Mahi-
+laksmi now.
+
+77. Although free from aberrations, and devoid of
+forms and features, goddess Uma manifested herself in
+different Yugas for the destruction of the distress of the
+gods, after assuming different forms and features.
+
+78. Thus I have described to you her manifestation
+in bodily form whose wish alone manifests as everything
+efficaciously. Thus she conducts her sports in that way and
+thereby gives chance to her devotees to describe her attributes.
+
+CHAPTER FORTYSIX
+(Incarnation of Mahalaksmi)
+
+The sage said:—
+
+1. There was a demon Rambha who was the crest-
+jewel of the race of Daityas. From him was born Mahisa%
+the Danava of great splendour.
+
+2. That king of Danavas defeated all the gods in
+battle and ruled over the kingdom of heaven seated on the
+throne of lord Indra.
+
+3. The defeated gods sought refuge in Brahma. With
+them Brahma went to the place where Visnu and Siva® were
+present.
+
+4. After reaching there and bowing to Siva and
+Visnu the gods narrated all their woeful tale in the proper
+order.
+
+5. O lords, we are harassed by the wicked Mahiga.
+We have been ousted from heaven after our defeat in the
+battle-field.
+
+6. We are wandering in this world of mortals with-
+
+83. According to MB. the Asura Mahisa was killed by Karttikeya.
+
+SP. mentiors his death at the hands of Candi.
+84. The word ‘Vryakapi’ in the dual form signifies Viynu and Siva.
+
+## Page 80
+
+1646 Sivapurdna
+
+out peace or happiness anywhere. O what pitiable plights
+we—Indra and others—have been led to !
+
+7-8. The sinful Asura who has offered freedom from
+fear to the partisans of the Daityas, himself performs the
+ordained task of these—viz, the sun, the moon, Varuna,
+Kubera, Yama, Indra, Agni, wind, the Gandharvas, Vidya-
+dharas and the good Caranas and others as well.
+
+9. Hence it behoves you to save us the gods who
+have sought refuge in you. O lords, please think of the
+means of killing him immediately.
+
+10. On hearing the gods, Visnu and Siva were very
+angry. Their eyes rolled through anger.
+
+ll. Then a great splendour issued forth from the
+mouths of the infuriated Visnu and Siva and from the
+bodies of other gods.
+
+12. The gods who were devoted to meditation on
+Durga saw the mass of splendour blazing in all the ten
+directions.
+
+13. That highly terrible splendour issuing forth from
+the bodies of the gods joined together and became a woman
+Mahisamardini herself.
+
+14. Her dazzlingly brilliant face constituted the
+splendour of Siva, the hairs the splendour of Yama and
+the arms the splendour of Visnu.
+
+15-18. Her breasts were formulated by the splendour
+of the moon; the waist by that of Indra; the calves and
+thighs by that of Varuna; the hips by that of the earth;
+the feet by that of Brahma; the toes by that of the
+sun; the fingers by that of Indra; the nose by that of
+Kubera; the teeth by that of the patriarch; the eyes by
+that of fire; the eyebrows by that of the dusk; the
+ears by that of the wind, her other limbs by that of other
+heaven-dwellers. Thus the goddess manifested herself on
+the lotus-seat.
+
+19. On seeing her thus formulated by the mass of
+splendour of the gods, they attained great delight.
+
+20. Observing that she had no weapons, Brahma and
+other gods decided to make her fully equipped with
+
+weapons.
+
+## Page 81
+
+Umasamhita 1647
+
+21. Then lord Siva offered her a spear; Lord Krsna
+gave her a discus; Varuna conch and noose.
+
+22-23. The fire-god gave her Sakti; the wind-god a
+bow and a quiver full of arrows; Indra the thunderbolt
+and a bell; Yama a big staff; Prajapati a garland of beads;
+Brahma a water-pot and the sun the lustrous hair.
+
+24-27, Kala gave her a sword and a shining shield,
+the milk ocean a beautiful necklace, two fresh pieces of
+cloth, the crest-jewel, car-rings, bangles, crescent-shaped
+ornaments, beautiful anklets, shoulder-pieces, a necklace and
+finger-rings. Visvakarman gave her a beautiful axe and the
+Ocean various weapons, an impenetrable armour, a beauti-
+ful garland and a lotus.
+
+28-29. Himavat gave her a lion and gems of various sorts.
+Kubera a vessel filled with winc. Sesa a Nagahara of
+wonderful workmanship, studded with various precious gems.
+
+30. Thus honoured, the goddesss with these and
+other similar objects, ornaments, weapons etc. shouted loudly
+again and again.
+
+31. The sky was filled with her terrible noise that
+echoed tremendously and made the three worlds agitated.
+
+32. The four oceans shook and rolled. The earth
+quaked. Cries of victory were shouted by *the gods harassed
+by Mahisa.
+
+33. Then the gods eulogised the great Sakti, Ambika
+in the form of Mahalaksmi with words choked with devotion.
+
+34. On seeing the world agitated, the enemies of the
+gods got up with uplifted arms and with their armies ready
+for war.
+
+35. The infuriated Mahisa rushed at the direction of
+the sound and saw the goddess who had pervaded the three
+worlds with her beautiful lustre.
+
+36. In the meantime, crores of great heroes led by
+Mahisasura came there with weapons.
+
+37-38. Ciksura, Camara, Udagra, Karala, Uddhata,
+Bagkala; Tamra, Ugrasya, Ugravirya, Bidala, Andhaka,
+Durdhara, Durmukha, Trinetra Mahahanu—these and many
+others, heroic and efficient in battle, came there.
+
+39. As they, the masters of weapons and _ missiles,
+
+## Page 82
+
+1648 Sivapurdna
+
+fought with the goddess in the battle a terribly long time
+elapsed.
+
+40. Different weapons and missiles hurled by the
+hosts of enemies were rendered futile instantaneously by the
+power of the goddess.
+
+41. Then the goddess hit and struck the hosts of
+enemies Ciksura and others with her club, arrows, spear,
+Sakti and axe.
+
+42. When his armies fell the demon Mahisa struggled
+with the hosts of soldiers that issued from the breath of the
+goddess.
+
+43. He kicked some with the hoofs, hit some with
+the horns and others with his tail and snout.
+
+44. After slaying the Ganas the chief of Asuras rushed
+at the lion of the goddess in order to kill it. Then she be-
+came wrathful.
+
+45. He of great virility thrashed the ground with his
+hoofs, uprooted a mountain with his horns, hurled it and
+shouted.
+
+46. O excellent king, heavy mountains hurled by
+him as he rushed all round fell in the battle-ground from
+the sky.
+
+47. Clouds split by his horns were shattered to pieces.
+The ocean struck at with his tail throbbed and splashed
+water beyond the shores all round.
+
+48. On seeing the demon Mahisa thns_ infuriated,
+Ambika, the protectress of the gods, became ready to kill
+him.
+
+49. She took up a noose and hurled it at him. She
+bound the Asura Mahisa. Then the demon abandoned his
+assumed guise.
+
+50. Wielding Maya, he became a lion. Soon as
+Ambika tried to cut off his head he became armed with
+a sword.
+
+51. She then struck him with the arrows, as he stood
+there with the sword and shield. He then became an
+elephant and struck at the lion with his trunk.
+
+52. The goddess cut off his hand with her sword. The
+Gemon then assumed his original form.
+
+## Page 83
+
+Umasarhhita 1649
+
+53. He then agitated three worlds including the
+mobile and immobile beings. Then, Candika of great honour
+and exploit became infuriated.
+
+54. She drank the beverage again and again. With
+eyes rolliug she laughed aloud. The haughty Asura too,
+proud of his strength and exploit, roared.
+
+55. He uprooted the mountains and hurled them at
+her. She too reduced them to powder and struck them
+with arrows.
+
+56. With her face reddened as a result of the inebria-
+tion after drinking wine, and with her scnses excited, she spoke
+in a tone as majestic as the rumbling of the clouds.
+
+The goddess said:—
+
+57. ‘QO stupid fellow, O demon of ruined intellect, why
+are you stubborn in vain ? None of the Asuras in the three
+worlds can stand before me’’.
+
+The sage said :—
+
+58. Thus saying the goddess pounced on him, stamped
+on his neck and pierced him with her fierce spear.
+
+59. Pressed with her foot and overwhelmed by her
+might the Asura seemed as good as half dead.
+
+60. Still he continued to fight. His head was cut off
+with the sword and he was felled down on the ground.
+
+61. Crying “Alas ! Alas” loudly, his followers, afraid of
+the battle fled from the scene shouting ‘‘Save us, O save us’’.
+
+62. The god Indra and others, eulogised the goddess.
+‘The Gandharvas sang songs; the celestial damsels danced.
+
+63. Oking, thus the origin of Mahalaksmi has been
+narrated to you. Now listen to the origin of Sarasvati with
+a calm mind.
+
+## Page 84
+
+1650 Sivapurdna
+CHAPTER FORTYSEVEN
+
+(Dhiimralocana, Canda, Munda and Raktabija are slain)
+
+The sage said :—
+
+1, There was a Daitya Sumbha and another equally
+powerful Nigumbha. The three worlds including mobile and
+immobile beings were attacked by the two brothers.
+
+2. The gods afflicted and harassed by them went to
+Himalaya and saluted the mother of all living beings, the
+bestower of all desires.
+
+The gods said :—
+
+3. O goddess Durga, Victory be to you. O, beloved
+of your kinsmen, be victorious. Obcisance to you, the cause
+of the protection of the three worlds.
+
+4. Obeisance to you, the bestower of salvation,
+obcisance to the great mother, the cause of the creation,
+sustenance and annihilation of the world.
+
+5. O goddess of the form of Kalika, Tara. Chinnamasta,
+Srividya, Obeisance to you.
+
+6. O goddess of the worlds, of the form of Bhairava,
+obeisance to you. Obeisance to Bagalamukhi (stork-faced).
+Obeisance, to Dhimavati.
+
+7. Obeisance to Tripurasundari, to Matangi, to Ajita
+(the unconquered ) and to Vijaya.
+
+8. Obeisance to Jaya, Mangala Vilasini, to you of
+the form of milking maid and of terrible form.
+
+9. Obeisance to you, O goddess, of the form of the
+unconquered, of permanent form, the protectress of those
+who seek refuge in you.
+
+10. Obeisance to the one knowable through Vedanta;
+obeisance to you the great soul, the heroine of infinite worlds
+of this universe.
+
+11. Eulogised thus by the gods the delighted goddess
+the bestower of boons, spoke, to the gods—‘‘Who is _ being
+eulogised by you here ?”
+
+12. Then a virgin came out of the body of the
+goddess. Even as they were winking she spoke to the
+goddess with great reverence. ‘
+
+## Page 85
+
+Umasarhhita 1651
+
+13. “O mother, this eulogy is addressed to me by
+the heaven-dwellers harassed by the powerful Daityas
+Sumbha and Nigumbha.”
+
+14. Since she emerged out of the inner vestures of
+her body she is called Kaugiki. The destroyer of the Asura
+Sumbha is being sung in that name.
+
+15. She alone is said to be UgratarikA and great
+Ugratarika. She is called Matangi after the source from
+which she manifested herself.
+
+16. She addressed the gods—‘All of you stay here
+fearlessly. I shall carry out your task without any strain.
+I am independent”’.
+
+17. After saying this, the goddess vanished. Canda and
+Munda—the attendants of Sumbha and Nisumba saw the
+goddess.
+
+18. On seeing her beautiful form pleasing to the eyes
+they were fascinated. They lost their consciousness and fell on
+the ground.
+
+19. Returning to their king they narrated the details
+to him “O king, a certain beautiful lady hitherto unseen has
+been seen by us.
+
+20. Seated on a lion, on the beautiful peak of the
+Himavat she was served by the virgins of the gods with
+palms joined in reverence.
+
+21. They massaged her feet and hands, decorated her
+tresses, and applied collyrium to her eyes.
+
+22. A certain damsel held out the mirror to her face.
+Another handed over the betel-leaf along with cloves and
+cardamom.
+
+23. Some picked up the fallen dice and stood in front
+of her. Some bedecked her body with ornaments and
+clothes.
+
+24. Her calves and thighs are like the stem of the
+plantain tree. Her nose is like that ‘of a parrot. Her arms
+are like serpents and creepers. She wears a beautiful girdle.
+The anklets round her feet are jingling.
+
+25. Pearl necklaces heave over her breasts rendered
+fragrant with the musk. Neckiaces shine round her neck.
+She was sporting about bedecked in chaplets.
+
+## Page 86
+
+1652 Sivapurdna
+
+26. She has semi-circular marks on her forehead. She
+wears ear-rings set with gems. Her plaited hair are pretty.
+The wide three eyes bedeck her face.
+
+27. She is imperishable, possessed of garlands. Bangles
+shine in her hands. There are gold rings round her
+fingers. Shining bracelets make her hands dazzle.
+
+28. She is clad in white garments. She shines in her
+lotus-pose with the marks of saffron on her forehead which
+is also bedecked with the moon.
+
+29. She has the brilliance of lightning. She wears
+precious garments. Her breasts are elevated within her
+bodice. She holds excellent weapons with her eight uplifted
+arms.
+
+30. There is no lady among the Asuras, Nagas,
+Gandharvas or Danavas in the three worlds as beautiful as
+she.
+
+31. Hence the fitness for sexual indulgence with her
+rests only in you since she is a gem among ladies and O
+lord, you are a gem among men.
+
+32. On hearing the words of Canda and Munda that
+great demon Sumbha sent a messenger Sugriva to her.
+
+33. ‘O messenger, there is a certain beautiful lady on
+the snow-capped mountain. Méentioning these words of mine
+she shall be strenuously brought here’’.
+
+34. Thus urged by him, the exccllant Danava Sugriva
+went to Himacala and spoke to the great goddess, the
+mother of the universe.
+
+The messenger said:—
+
+35. O gentle lady, the Daitya Sumbha and his brother
+Nisumbha are very strong and valorous. They are famous
+in the three worlds.
+
+36. O goddess, I am a messenger of Sumbha. I have
+come with his message to which you will listen please.
+
+37. ‘I have defeated Indra aud others in the battle
+and taken away their jewels. I enjoy the share of the gods
+offered to them in the sacrifices.
+
+38. You are a jewel among women, more precious
+than cther jewcls. Resort to me or to my younger brothet,
+exhibiting your loving emotion.
+
+## Page 87
+
+Umdsamhita 1653
+
+39. On_ hearing the message of Sumbha conveyed by
+the messenger the Mahamaya, the beloved consort of Siva,
+spoke.
+
+The goddess said:—
+
+40-41. © messenger, you speak the truth, not the lic.
+But I have taken a vow that I shall endcavour to make one
+alone as my husband who can shake off my pride, who can
+conquer me in the battle. None else.
+
+42. Hence you convey my words to Sumbha and
+Nisumbha. Let cither do whatever is proper in this matter.
+
+43. On hearing these words of the goddess the
+Asura Sugriva returned to his king and acquainted him
+with every dctail.
+
+44. On hearing the report of the messenger Sumbha
+of stern rule angrily said to Dhimrakga, the foremost of his
+generals.
+
+45-46. O Dhimraksa, there is a beautiful lady on the
+snow-capped Himalaya mountain. Go quickly and fetch her
+here. O excellent Asura, do not be afraid of this expedition.
+If she wishes to fight, you shall fight strenuously.
+
+47. Thus directed the Daitya Dhamraksa went to
+Himilaya and spoke to the goddess who was a part of Uma.
+
+48. “© lady, approach my lord. Otherwise I shall
+kill you. I am accompanicd by sixtythousand Asuras”
+
+The goddess said: —
+
+49. «O hero, you are commissioned by the king of
+Daityas. If you kill me what can I do for you ? But I
+consider it impossible to go without a fight.’’
+
+50. Thus addressed, the Danava Dhimraksa rushed
+at her but was burnt with a mere Hunkara uttered by her.
+
+51. Since then, that goddess is called Dhimavati in
+the world. When propitiated she destroys hosts of enemics
+of her devotees.
+
+52. After Dhimraksa was killed, his army was crunched
+and munched by the infuriated lion. Those who were
+spared fied away.
+
+53. On hearing that the Daitya was killed by the
+goddess, the valorous Sumbha was angry and bit his lips.
+
+## Page 88
+
+1654 Sivapurdna
+
+54. He sent the Asuras-Canda, Munda and Raktabija in
+order. The Daityas, thus ordered, went to the spot where
+Ambika was stationed.
+
+55. On seeing the goddess seated on a lion, possessed
+of Anima® and other Siddhis and dazzling the quarters with
+her brilliance, the leading Danavas said.
+
+56. “O lady, hasten to approach Sumbha and
+Nifumbha. Otherwise we shall kill you along with your
+Ganas and your lion.
+
+57. O lady, choose him as your husband. He is eu-
+logised by the guardians of the quarters and others. You
+will attain a great bliss rare to attain by the gods.”
+
+58. On hearing these words the goddess Amba smiled
+and spoke interesting and truthful words.
+
+59. Lord Siva, the great Brahman, the eternal god is
+without a second. Even the Vedas do not understand his
+reality. What then of Visnu and others?
+
+60. I am His subtle Prakrti. How can I choose
+another as my husband ? Even if she is overwhelmed by
+love does a lioness choose a jackal as her mate?
+
+61. A female elephant does not take an ass nor does
+a leopardess take a hare. O Daityas, overcome by the
+Serpent of Death you speak in vain.
+
+62. Descend to Patala% all of you. If you have the
+power, fight.’? On hearing her provocative words the Asuras
+said to one another.
+
+63. ‘We do not kill you as you are a woman. But
+if you desire for battle be ready with your lion.”
+
+64. While they spoke thus the fight ensued. The
+arrows rained in the battle, sharp arrows from either side.
+
+65. Thus fighting with them sportively the goddess
+slew the Asura along with Ganda and Munda.
+
+66. Though they had an inimical feeling these enemies
+of the gods attained in the end that world which her followers
+go to.
+
+8&5. See P. 235 note.
+86. According te the Puranic Mythology it is the seventh region
+eseending from the earth below.
+
+## Page 89
+
+Umdsarhhita 1655
+CHAPTER FORTYEIGHT
+
+(The manifestation of Sarasvati)
+
+The king said:—
+
+1-2. O holy lord, O brahmin, what did Sumbha, the
+suppressor of the gods, do on hearing that Dhimraksa,
+Canda and Raktabija were killed by the goddess? Please
+tell me this now. I desire to hear the purifying tale of the
+goddess, the cause of the universe.
+
+The sage said:—
+
+3. O king, on hearing that the leading Daityas had
+been killed, the great Asura of commendable valour ordered
+his invincible followers who were thrilled at the very mention
+of the war.
+
+4. At my behest the Daityas born of the race of
+Kalaka®’ have all assembled here with their armies and along
+with Kalakeyas,®® Mauryas,®® Daurhrdas® and others. Let
+them march on with hopes of victory.
+
+5. After ordering the demons, Sumbha and Nisumbha
+mounted on their chariots and set out. Their armies too
+followed them like swarms of moths rising up from a
+mountain definitely for their destruction.
+
+6. Mrdangas, Mardalas, Bherikaés Dindimas, Jhar-
+jharas and Anakas were sounded. The warmongers rejoiced
+in the battle-ground. Those who were afraid fled away for
+their life.
+
+7. Clad in their martial dress the soldiers came in
+their healthy spirits to the battleground. Holding various
+weapons and missiles they teased one another cach eager for
+his victory.
+
+8. Soldiers on clephants, looked at the enemy with
+
+.
+87. In respect of this House no details are available either from the
+MB. or the Purdras.
+
+88. Kalakeyas, dscendants of Kalaki wife of Kasyapa, are often
+mentioned as powerful demons in the MB, and the Puranas.
+
+89. Mauryas are the descendants of the Asura Mura who is
+generally mentioned in connection with Piagjyotisa
+
+go. Daurhrdas are the descendants of the Asura Durhgda.
+
+## Page 90
+
+1656 Sivapurdna
+
+indifference. In the company of the lord of Asuras they
+rejoiced in the battle.
+
+9. The sound arising from the guns rose up repeatedly
+making the gods tremble. A great darkness enveloped the
+sky. Even the chariot of the sun was not visible.
+
+10. Foot-soldiers set out in excessive numbers desirous
+of victory. Soldiers in chariots, on horsebacks, elephants and
+others set out joyously in crores and crores.
+
+1l. The rutting clephants like massive black mountains
+spread their trumpeting sound in the battle-field. Camels
+resembling small hills produced hoarse sounds from their
+throats.
+
+12. Neighing horses hailing from exalted lands, with
+big ornaments round their necks, expert in the knowledge of
+their gaits planted their legs on the heads of elephants and
+flew like birds.
+
+13. On seeing the army of the enemy advancing
+thus, Ambika kept her bow well-strung. She sounded her
+bell that distressed the enemy. The lion too shook his manes
+and roared.
+
+14, Seeing her bedecked in fine ornaments, holding
+weapons and stationed on the Himalaya mountain Nigumbha
+spoke words full of sentiments like a man clever in under-
+standing the emotions of beautiful women.
+
+15. “Even a petal of the Malati (Jasmine) flower
+thrown on the beautiful body of women like you may distress
+you. O goddess, how will you carry on a terrible war with
+the self-same handsome body of yours ?”
+
+16. After saying thus the great Asura became silent.
+Candika spoke to him—“O foolish Asura, why do you
+prattle in vain? Either fight or else return to Patala.**
+
+17. The heroic demon, becoming infuriated, made a
+wonderful shower of arrows on the battle-field just as masses
+of clouds shower water during rains.
+
+18. Along with his arrogant followers the demon
+fought with sharp weapons as spears, axes, iron clubs,
+
+gt. It is the lowermost of the nether regions where Vasuki reigns
+over the Nagas.
+
+## Page 91
+
+Umdsamhita 1657
+
+parighas, bows, Bhusundikas, javelins, horseshoe-edged
+arrows and great swords.
+
+19. In that war great elephants looking like black
+mountains with foreheads pierced ran here and there. The
+banners of Sumbha and Nisumbha white like flying cranes
+fluttered herc and there.
+
+20. The demons were shattered by Kalika like fishes.
+The dreadful horses were beheaded and killed in the battle.
+The other demons were devoured by the lion.
+
+21. In the battlefield streams of blood flowed. The
+dead soldiers floated. Their tresses of hair resembled the
+moss. Their upper cloths resembled the white foam.
+
+22. A great fight ensued where soldiers of equal rank
+fought with one another. The cavalrymen fought their
+counterpart; the elephant-riders with those on elephants:
+the charioteers with those on chariots and the footsoldicrs with
+footsoldiers.
+
+23. Then Nisumbha thought to himself—‘‘A terrible
+period has set in now. Even a poor man may _ become
+rich and rich man poor if the time is adverse.
+
+24. A senseless fellow may become intelligent and an
+intelligent man dull. A wicked man may be praised by the
+noble. The great and the powerful may be vanquished. The
+weak may come out victorious in the war.
+
+25. Victory or defeat come naturally at the stance of
+the lord. Neither Siva nor Brahma nor Visnu has been able
+to transgress his law.
+
+26. Heroes do not come to the battlefield for turning
+back. But how can I attain victory ina battle with this
+lady who has destroyed my entire host ?
+
+27. Indeed this lady is the ancient Prakrti, the great
+Siva come here to achieve the task of the gods and harass
+the army of the Daityas. She can never be an ordinary
+woman .
+
+28. It is inglorious to be killed by a woman or to
+kill a woman for those who desire to taste the pleasures of
+war. Still how shall we show our faces to the king of
+Asuras without fighting ?
+
+29. After thinking thus and sitting in a great chariot
+
+## Page 92
+
+1658 Sivapurdna
+
+driven by a charioteer he hastened to the spot where the
+lady consort of Siva was present; the goddess whose youth
+was sought after by the celestial damsels.
+
+30. He addressed her thus—«O goddess, of what
+avail is it if the mercenary soldiers are killed ? If you
+desire to fight, let both of us clad ‘n martial dress fight with
+each other.
+
+31. The goddess addressed K4li then—See the foolish
+ambition of the two Asuras. Time the instigator of good
+and bad actions renders the mind work in a different way
+when adversity is imminent.”
+
+32. Then Nisumbha attacked Candika as well as Kali
+with thousands of arrows. With the volleys of her arrows
+Siva split into a thousand pieces the arrows discharged by
+the Asura.
+
+33. He then lifted up his lustrous sword along with
+the shield and struck the lion on its head. With her great
+sword she split it too as the woodcutters do to a tree with
+the axe.
+
+34. When the sword was split he thrust an arrow into
+her chest. The arrow too was cut. He then hurled the
+trident which powdered it with her fist.
+
+35. Prepared to die the heroic Asura seized a mace
+and rushed at her. She reduced the mace into powder with
+the edge of her trident. The demon shattered the trident
+with another mace.
+
+36. Then she struck Nisumbha with her sharp, terrible
+serpentine poisonous arrows that were accustomed to drink
+the blood of Asuras and brought him down to the earth.
+
+37. When his younger brother of great honour and
+strength fell Sumbha was furious. The eight-armed demon
+seated himself in a chariot and came to the place where Siva
+was present.
+
+38. She blew the conch Arindama, produced unbear-
+able bow-twang; the lion shaking its manes roared. The
+whole sky reverberated with the threefold round.
+
+39. Then the mother of the universe laughed bois-
+terously making all the demons tremble with fear. The gods
+shouted cries of ‘‘Victory” when she challenged the Asuras
+in the battle.
+
+## Page 93
+
+Umdsarnhita 1659
+
+40. The king of Daityas hurled a spear of shining
+flames which was struck down by a meteor. Siva shattered
+the arrows discharged by Sumbha. He too split the arrows
+discharged by Siva into a thousand picces.
+
+41. She lifted up her trident and struck the great
+Asura. He fell down unconscious shaking heaven and earth
+along with the ocean like a mountain whose wings had been
+chopped off by Indra.*4
+
+42. Suffering the pain arising from the trident, the
+powerful demon, the suppressor of the gods, created ten
+thousand hands and struck Kali and Candika along with the
+lion, by means of his discus.
+
+43. Splitting sportively the discus hurled by him, she
+hurt and struck the Asura with the trident. ‘Thus both of
+them met their death at the lotus-hands of Siva that
+sanctify the universe and attained the great region.
+
+44. When the powerful Nisumbha, and Sumbha of
+terrible exploit were killed the Daityas cntcred Patala.*?
+
+45. Others were devoured by Kali’s lion. The remain-
+ing Asuras being excessively frightened fled in the quarters.
+
+46. The rivers with clear water flowed along their
+paths; the winds blew very gentle to the touch; the sky be-
+came clear.
+
+47. Sacrifices were revived by the gods and the sages,
+Lord Indra and the gods felt blissful again.
+
+48-49. O lord, this story of Uma is holy and meri-
+torious. It describes the destruction of the king of Daityas.
+He who regularly reads this with faith enjoys all worldly
+pleasures inaccessible even to the gods and attains the abode
+of Uma hereafter by the very grace of the goddess.
+
+50. Thus was the goddess, slayer of Sumbha born.
+She is said to be Sarasvati. O king, she has manifested
+herself as a part of Uma.
+
+g2. See P. 645 note.
+
+93- Patala is called Balisadman—the abode o! Bali, According to a
+legend God Visnu in the form of a Brahinin dwarf craved from Bali the
+boon of three steps of ground and having obtaincd it stepped over
+heaven and earth in two strides but then out of respect to Bali's devotion
+and his grandson Prahlada’s virtues, he stopped short end Jeft to him
+Pitala, the nether region. See P. 955 note 271; P. 750 note 147.
+
+## Page 94
+
+1660 Sivapurana
+CHAPTER FORTYNINE
+
+(The manifestation of Uma)
+
+The sages said:—
+
+1. O Siita, the most excellent among the omniscients
+please mention the incarnation of Uma, the goddess of all
+the worlds and the mothcr of Sarasvati.
+
+2. She is sung as the primordial Prakrti of the sup-
+reme Brahman. She_ is both possessed and devoid of forms.
+She is of the form of eternal bliss. She is Sati.
+
+Siita said:—
+
+3. O sages, listen lovingly to the great story, the per-
+fect knowledge of which alone helps man to attain the great
+goal.
+
+4. Once there was a clash between the gods and the
+Asuras. Thanks to the power of the goddess the gods became
+victorious.
+
+5. Then the gods were proud and haughty. They
+boasted—‘‘We are blessed. What can the Asuras do to
+us ?°
+
+6. Of our unbearable prowess, the Asuras are afraid.
+They have gone to Patala saying, “Run, run”.
+
+7. Then all of them proclaimed thus: “Wonderful is the
+strength, splendour and good luck of the gods that has reduced
+the race of the Daityas.
+
+8. Then a mass of splendour appeared, at the unpre-
+cedented sight of which the gods were surprised.
+
+9. Ignorant of the real glory and the intention of the
+goddess to quell their arrogance, the Asuras said with choking
+throats ‘‘What is this ? What is this ?”
+
+10. Then the lord Indra ordered the gods—‘Go ye all
+and examine it and ascertain what it is.”
+
+1]. Urged by Indra, the wind-god approached splen-
+dour and addressed it, ‘‘Who are you ?” The splendour too
+put the same question to him.
+
+12. Thus asked by the big mass of splendour the
+wind-god replied arrogantly.—“I am Vayu the vilal breath
+of the universe.”
+
+## Page 95
+
+Umésamhita © 1661
+
+13. Everything in the universe, mobile or immobile, is
+woven like warp and woof into me. I am the support of
+everything. I move the entire universe.”
+
+14, Then the great splendour said:—“If you are com-
+petent to move, O wind-god, please move this blade of grass
+T have set before you. Move it as you please.”
+
+15. Then wind-god put forth all his efforts. But the
+blade of grass did not stir from its position. Then he was
+put to shame.
+
+16. The wind-god went silently to the assembly of Indra.
+There he narrated the details of his discomfiture.
+
+17. “False is our pride that we are the lords. In fact
+we are helpless, insignificant creatures.”
+
+18. Then Indra sent all the gods. When they could
+not realise anything Indra himsclf went there.
+
+19. On seeing Indra come, the unbcarable splendour
+vanished immediately. Indra was surprised.
+
+20. Then Indra thought to himself again and again—
+“I seek refuge in him alone whose conduct is such as
+this.’?
+
+21-22. In the meantime, in order to bless them an’
+remove their arrogance, Siva, the embodied form of unde
+ceitful mercy, existence, knowledge and bliss, manifested her-
+self on the ninth day of the bright half of the month Gaitra
+when the sun was in the middle of the day.
+
+23. Shining among the mass of splendour she bright-
+ened the quarters with her brilliance. She enlightened the gods,
+saying “I alone am Brahman.”
+
+24. In her four hands she held boons, noose, goad and
+the mystic gesture of protection. She was served by the Vedas
+and looked beautiful and proud of her blooming youth.
+
+25. She wore red garments and red garlands. Red
+sandal paste was smeared over her body. She was as dazzling
+as a crore of cupids. Her lustre was that of a crore moons.
+
+26. The great Maya, in the ‘form of the immanent
+soul of all, the cosmic witness of all living beings. and the
+great Brahman, spoke.
+
+Uma said: —
+27. Neither Brahma nor Visnu_ nor Siva the slayer of
+
+## Page 96
+
+1662 Sivapurépa
+
+the Tripura demon can bluff before me. What about the
+other gods ?
+
+28. The great Brahman, the great light in the form of
+the two Pranavas, I alone am. I am all. There is none
+other beside me.
+
+29. Though devoid of form I possess forms. I consti-
+tute all principles. I am eternal and my attributes cannot
+be disputed. I am both the cause and the effect.
+
+30. Sometimes I have the form of a woman, sometimes
+of a man. Sometimes both. I am goddess assuming all
+forms.
+
+31. I am the creator, the protector and the destroyer
+of the world. I am the enchantress of the universe.
+
+32. All the Saktis—Kali, Lakgmi and Sarasvati as well
+as others are born of my parts. So also the arts originate
+from me.
+
+38. Due to my power alone the demons are con-
+quered by you. Without knowing mc of this nature you
+bluff as the lords of all.
+
+34. Just as a magician makes the wooden doll of a
+woman dance so also I the goddess make all living beings
+dance.
+
+35. Being afraid of me the wind blows, the fire-god
+burns and the guardians of the quarters carry on their duties.
+
+36. Independent that I am, I sportively bestow victory
+on the gods sometimes and on the Daityas sometimes.
+
+37. It is my form that is described in the Vedas as
+indestructible, the great abode, the one beyond Maya and
+that which is greater than the greatest.
+
+38. My form is two-fold—Saguna and Nirguna. One
+is mixed with Maya and the other is free from it.
+
+39. O gods, endowed with devotion, realise this and
+eschew your arrogance, worship me, the eternal Prakrti.
+
+40. On hearing the merciful words of the goddess, the
+gods eulogised her, with their shoulders drooping with devotion.
+
+41. O goddess of the universe, forgive us. O goddess,
+be pleased. O mother, let us not be arrogant again.
+Please be merciful.
+
+42. Since then the gods began to propitiate her as
+
+## Page 97
+
+Umdasarhhita 1663
+
+before. They eschewed their arrogance and became pure
+in mind.
+
+43. O Brahmins, thus I have narrated to you the
+menifestation of Uma. By only hearing this men attain
+the great region.
+
+CHAPTER FIFTY
+
+(The incarnation of Sataksi etc.)
+
+The sages said:—
+
+1. O intelligent one, all of us are anxious to hear
+the episode of Durga every day. Please tell us another
+wonderful tale of the goddess.
+
+2. O Sita, the most excellent of the story-tellers,
+we are not satiated even as we hear different nectarine
+stories narrated by you.
+
+Sita said:—
+
+3. The most powerful son of Ruru, famous as Durgama
+secured the four Vedas as a result of the boon granted by
+Brahma.
+
+4. Securing this strength that cannot be thwarted even
+by the gods he wrought havoc on the earth, making the
+gods tremble in heaven.
+
+5. When the Vedas were destroyed the sacred rites
+were ruined. Brahmins and the gods fell off from their
+right conduct.
+
+6. None offered charitable gifts; none performed
+penances; there was neither worship nor sacrifice. Then a
+great drought befell the carth extending to a period of a
+hundred years. .
+
+7. There was a great hue and cry in all the three
+worlds. The people felt miserable being afflicted by hunger
+and thirst.
+
+8. Rivers, oceans, tanks, wells and lakes dried. Trees
+and plants withered.
+
+## Page 98
+
+1664 Sivapurdna
+
+9. On seeing the misery of the distressed subjects the
+gods sought refuge in the Yogic Maya, MaheSvari.
+
+The gods said—
+
+10. O Mahaméyé, save all your people. Check your
+fury or the worlds will be ruined.
+
+11-12. O ocean of mercy, O supportress of the distress-
+ed, kill this demon too just as you have killed Sumbha,
+Nigumbha. Dhimraksa, Canda, Munda, Raktabija, Madhu,
+Kaitabha and Mahisa.
+
+13. Boys are guilty of offence at every step but who
+on earth brooks it except the mother ?
+
+14. When miseries afflict the gods and the brahmins
+you incarnate for the welfare of the people.
+
+15. On hearing the distress of the gods the merciful
+goddess revealed to them her form possessed of many eyes.
+
+16. The goddess with her lotus-face beaming with
+delight held in her four hands the bow, the arrows, the lotus
+and different fruits and roots.
+
+17. Onseeing her people scorched and distressed, the
+goddess was dejected. With her eyes full of mercy she cried
+for nine days and nights.
+
+18. The tears took the forms of thousands of water-
+currents released from her eyes. The worlds, the plants and
+medicinal herbs were delighted by them.
+
+19. They turned into the rivers and occans of deep
+waters. Vegetables, roots and fruits grew on the earth.
+
+20. To the lIcarned and the gods she distributed the
+fruits in her hands. To the cows she gave the tender blades of
+grass and to others the things they deserved.
+
+21. All including the gods, brahmins and men were
+satisfied. Then the goddess said—‘*What else shall I do for
+you ?”
+
+22. The gods then gathered together and said, “The
+people have becn rendered happy and satisfied. O goddess,
+be pleased and redecm the Vedas taken by Durgama.”
+
+23. After saying ‘So be it” she said. ‘Go ye all to
+your abodes. Ere long I shall give you the Vedas.”
+
+24. Then the joyous gods returned to their abodes after
+
+## Page 99
+
+Umasarhhitd 1665
+
+bowing to the goddess the cause of the universe with her
+eyes that resembled full-blown blue lotus.
+
+25., Then a great bustle arose in the three regions
+heaven, earth and sky. On hearing it the son of Ruru
+besieged the city immediately.
+
+26. Then after creating a big circle of splendour all
+round for the protection of the gods, Siva herself came out
+of it.
+
+27. A great battle ensued between the goddess and
+the Daitya. Both showered arrows in the battle, piercing the
+armour of each other.
+
+28-29. In the meantime ten beautiful forms came out
+of Kali Viz Tara, Chinnamasta, Srividya, Bhuvaneégvari,
+Bhairavi, Bagala, Dhimrd, Srimattripurasundari, Matangi and
+Mahavidya with weapons in their hands.
+
+30. Then appeared innumerable mothers of divine
+forms, wearing the digit of the moon and with a lustre
+resembling the splendour of lightning.
+
+31. Then a terrible combat ensued between the Asuras
+and the mothers. The army of the son of Ruru, consisting of
+a hundred Aksauhinis was killed in the battle.
+
+32. Then the goddess struck Durgama with the edge
+of her trident. He fell on the earth like an uprooted
+tree.
+
+33. Thus after killing him the goddcss redeemed the
+four Vedas and gave them to the gods.
+
+The gods said:—
+
+34. O Ambika, for our welfare that form of infinite
+eyes was assumed by you. Hence sages will glorify you as
+Sataksi.
+
+35. Since the worlds were sustained by you with vege-
+tables sprouting from your body, you will be famous as
+Sakambhari. .
+
+36. O Siva, since you killed the Daitya Durgama you
+will be known as Durga.
+
+37. O Yogic slumber, O Mahabala, O  bestower of
+knowledge, O the mother of the universe, Obcisance be to
+you.
+
+## Page 100
+
+1666 Stvapurdna
+
+38. Obeisance to the heroine of infinite universes
+known as the supreme goddess in the Mahavakyas as Tat-
+tvamasi.
+
+39. O Mother, we who are unaware ot your power and
+greatness, cannot adequately eulogise you who are inaccessi-
+ble through words, mind or body and whose eyes are the sun
+and the moon.
+
+40. Who else will bestow mercy on seeing us the gods
+except the great goddess Sataksi the mother ?
+
+41. Effort shall be made by you so that the three
+worlds will not be pestered continuously with obstacles and
+our enemies shall be destroyed.
+
+The gods said:—
+
+42. Just as the cows run about in excitement quickly
+on seeing their calves in distress, so also I, Sati, am excited on
+seeing you in distress and run about.
+
+43. Even a moment appears to be a Yuga if I do not
+see you since I look at you as my own children for whom I
+am ready even to lay down my life.
+
+44. No worry or anxious thought need be entertained
+by you endowed with devotion as long as I stand by you
+destroying your distress.
+
+45. Inthe manner I have killed the Daityas I shall kill
+the Asuras. You need not entertain any dovbt in this regard.
+Truth, I am speaking the truth.
+
+46-47. I shall be born of the womb in the family of
+cowherds as the daughter of YaSoda wife of Nanda, when
+Sumbha and Nigumbha will be born as Daityas. I shall kill
+the demons and become famous. Men will therefore call me
+Nandaja.
+
+48. Since I shall be taking the form of a bee and
+killing the demon Aruna, men will glorify me as Bhramari
+
+49. Again I shall take a terrible form and devour the
+Raksasas. I shall then be famous as Bhima Devi.
+
+50. Whenever there is harassment caused by the Asuras
+I shall surely incarnate and work for your welfare.
+
+51. The goddess Sataksi, Sakambhari and Durga are
+identical. In all the three the individual is the same.

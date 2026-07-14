@@ -1,0 +1,1337 @@
+# Narada_Bhakti_Sutra
+
+“Narada-Bhakti-Sutra: The Value of Devotion” by His Divine Grace A.C.
+Bhaktivedanta Swami Prabhupada.
+NOTE FROM THE PUBLISHER: This document contains the first chapter of Narada-
+Bhakti-Sutra translated and commented on by His Divine Grace A.C. Bhaktivedanta
+Swami Prabhupada. His disciples have since completed the translation and
+commentary on the total of 84 “sutras.” The complete work is available as the
+publication, Narada-Bhakti-Sutra: The Secrets of Transcendental Love, by the
+Bhaktivedanta Book Trust International, at www.Krishna.com.
+COPYRIGHT NOTICE: This is an evaluation copy of the printed version of this
+book, and is NOT FOR RESALE. This evaluation copy is intended for personal non-
+commercial use only, under the “fair use” guidelines established by
+international copyright laws. You may use this electronic file to evaluate the
+printed version of this book, for your own private use, or for short excerpts
+used in academic works, research, student papers, presentations, and the like.
+You can distribute this evaluation copy to others over the Internet, so long as
+you keep this copyright information intact. You may not reproduce more than ten
+percent (10%) of this book in any media without the express written permission
+
+## from the copyright holders. Reference any excerpts in the following way:
+
+“Excerpted from “Narada-Bhakti-Sutra” by the Bhaktivedanta Book Trust
+International, www.Krishna.com.”
+Narada-bhakti-sutra
+Chapter 1
+The Value of Devotion
+
+## SUTRA 1*
+
+
+## TEXT
+
+athato bhaktim vyakhyasyamah
+
+## SYNONYMS
+
+atha--now; atah--therefore; bhaktim--devotional service; vyakhyasyamah--we shall
+try to explain.
+
+## TRANSLATION
+
+Now, therefore, I will try to explain the process of devotional service.
+
+## PURPORT
+
+Devotional service to the Supreme Personality of Godhead is explained in the
+Bhagavad-gita, where the Lord says that a self-realized person is always in the
+transcendental state known as brahma-bhuta, which is characterized by
+joyfulness. When one is self-realized he becomes joyful. In other words, he is
+free from the material contamination of lamentation and hankering. As long as we
+are in material existence, we lament for the losses in our life and hanker for
+that which we do not have. A self-realized person is joyful because he is free
+from material lamentation and hankering.
+
+
+A self-realized person also sees all living entities equally. For him, there
+is no distinction between the higher and lower species of life. It is also
+stated that a learned man does not distinguish between a wise brahmana and a dog
+because he sees the soul within the body, not the external bodily features. Such
+a perfected, self-realized person becomes eligible to understand bhakti, or
+devotional service to the Lord.
+Bhakti is so sublime that only through bhakti can one understand the
+constitutional position of the Lord. That is clearly stated in the Bhagavad-gita
+(18.55): bhaktya mam abhijanati. "One can understand the Supreme Lord through
+devotional service, and by no other process." There are different processes of
+understanding the Absolute Truth, but if a person wants to understand the
+Supreme Lord as He is, he has to take to the process of bhakti-yoga. There are
+other mystic processes, such as karma-yoga, jnana-yoga, and dhyana-yoga, but it
+is not possible to understand the Supreme Lord, the Personality of Godhead,
+except through His devotional service. This is confirmed in the Fourth Chapter
+of the Bhagavad-gita (4.3), where we learn that Krsna spoke the Bhagavad-gita to
+Arjuna simply because he was the Lord's devotee and friend. The Bhagavad-gita
+teaches the process of bhakti-yoga, and therefore Lord Krsna explained it to
+Arjuna because he was a great devotee. As far as spiritual life is concerned,
+becoming a devotee of the Lord is the high-est perfection.
+People are generally misled by the spell of the illusory energy of material
+nature. There are innumerable living entities within the material nature, and
+only some of them are human beings. According to the Vedic literature, there are
+8,400,000 species of life. In the Padma Purana it is said that there are 900,000
+species of life in the water, 2,000,000 species of plants, 1,100,000 species of
+insects and reptiles, 1,000,000 species of birds, 3,000,000 species of beasts,
+and only 400,000 species of human beings. So the humans are the least numerous
+species of all.
+All living entities can be divided into two divisions: those that can move
+and those that are stationary, such as trees. But there are also many further
+divisions. Some species fly in the air, some live in the water, and some live on
+the ground. Among the living entities who live on the ground, only 400,000 are
+human species, and out of these 400,000 human species, many are uncivilized or
+unclean; they are not up to the standard of proper civilization. From the
+historical point of view, the Aryans are the most civilized section of human
+beings, and among the Aryans, the Indians are especially highly cultured. And
+among the Indians, the brahmanas are the most expert in knowledge of the Vedas.
+The Vedic culture is respected all over the world, and there are people
+everywhere eager to understand it. The highest perfectional stage of
+understanding Vedic culture is explained in the Bhagavad-gita, in the Fifteenth
+Chapter (15.15), where the Lord says that the purpose of all the Vedas is to
+understand Him (Lord Krsna). Fortunate are those who are attracted to the Vedic
+cultural life.
+The Hindus call themselves followers of the Vedas. Some say they follow the
+Sama Veda, and some say they follow the Rg Veda. Different people claim to
+follow different sections of the Vedas, but in fact for the most part they are
+not followers of the Vedas because they do not follow the rules and regulations
+of the Vedas. Therefore Lord Caitanya says that since the so-called followers of
+the Vedas perform all kinds of sinful activities, the number of actual followers
+of the Vedas is very small; and even among this small, exclusive number, most
+are addicted to the processes described in the Vedas' karma-kanda section, by
+which one can elevate oneself to the perfectional stage of economic development.
+The strict followers of the karma-kanda portions of the Vedas perform various
+sacrifices for worship of different demigods in order to achieve particular
+material results. Out of many millions of such worshipers, some may actually
+engage in the process of understanding the Supreme, the Absolute Truth. They are
+called jnanis. Perfection for a jnani lies in attaining the stage of brahma-
+bhuta, or self-realization. Only after self-realization is attained does the
+
+
+stage of understanding devotional service begin. The conclusion is that one can
+begin the process of devotional service, or bhakti, when one is actually self-
+realized. One who is in the bodily concept of existence cannot understand the
+process of devotional service.
+It is for this reason that the Narada-bhakti-sutra begins, "Now, therefore, I
+shall try to explain the process of devotional service." The word "therefore"
+indicates that this process of devotional service is for the self-realized soul,
+one who is already liberated. Similarly, the Vedanta-sutra begins athato brahma-
+jijnasa. The word brahma-jijnasa refers to inquiry into the Supreme Absolute
+Truth, and it is recommended for those who have been elevated from the lower
+stage of addiction to the karma-kanda portion of the Vedas to the position of
+interest in the jnana-kanda portion. Only when a person is perfectly situated in
+the realization that he is not the body but a spirit soul can he begin the
+process of bhakti, or devotional service.
+
+## SUTRA 2*
+
+
+## TEXT
+
+sa tv asmin parama-prema-rupa
+
+## SYNONYMS
+
+sa--it; tu--and; asmin--for Him (the Supreme Lord); parama--highest; prema--pure
+love; rupa--having as its form.
+
+## TRANSLATION
+
+Devotional service manifests as the most elevated, pure love for God.
+
+## PURPORT
+
+As stated before, after attaining the highest stage of self-realization, one
+becomes situated in devotional service to the Lord. The perfection of devotional
+service is to attain love of God. Love of God involves the Supreme Personality
+of Godhead, the devotee, and the process of devotional service. Self-
+realization, the brahma-bhuta stage, is the beginning of spiritual life; it is
+not the perfectional stage. If a person understands that he is not his body and
+that he has nothing to do with this material world, he becomes free from
+material entanglement. But that realization is not the perfectional stage. The
+perfectional stage begins with activity in the self-realized position, and that
+activity is based on the understanding that a living entity is eternally the
+subordinate servitor of the Supreme Lord. Otherwise, there is no meaning to
+self-realization. If one is puffed up with the idea that he is the Supreme
+Brahman, or that he has become one with Narayana, or that he has merged into the
+brahmajyoti effulgence, then he has not grasped the perfection of life. As the
+Srimad-Bhagavatam (10.2.32) states,
+ye 'nye 'ravindaksa vimukta-maninas
+tvayy asta-bhavad avisuddha-buddhayah
+aruhya krcchrena param padam tatah
+patanty adho 'nadrta-yusmad-anghrayah
+Persons who are falsely puffed up, thinking they have become liberated simply by
+understanding their constitutional position as Brahman, or spirit soul, are
+factually still contaminated. Their intelligence is impure because they have no
+understanding of the Personality of Godhead, and ultimately they fall down from
+their puffed-up position.
+
+
+According to the Bhagavatam (1.2.11) there are three levels of
+transcendentalists: the self-realized knowers of the impersonal Brahman feature
+of the Absolute Truth; the knowers of the Paramatma, the localized aspect of the
+Supreme, which is understood by the process of mystic yoga; and the bhaktas, who
+are in knowledge of the Supreme Personality of Godhead and engage in His
+devotional service. Those who understand simply that the living being is not
+matter but spirit soul and who desire to merge into the Supreme Spirit Soul are
+in the lowest transcendental position. Above them are the mystic yogis, who by
+meditation see within their hearts the four-handed Visnu form of the Paramatma,
+or Supersoul. But persons who actually associate with the Supreme Lord, Krsna,
+are the highest among all transcendentalists. In the Sixth Chapter of the
+
+## Bhagavad-gita (6.47) the Lord confirms this:
+
+yoginam api sarvesam mad-gatenantar-atmana
+sraddhavan bhajate yo mam sa me yukta-tamo matah
+"And of all yogis, the one with great faith who always abides in Me, thinks of
+Me within himself, and renders transcendental loving service to Me--he is the
+most intimately united with Me in yoga and is the highest of all. That is My
+opinion." This is the highest perfectional stage, known as prema, or love of
+God.
+In the Bhakti-rasamrta-sindhu (1.4.15-16), Srila Rupa Gosvami, a great
+authority in the devotional line, describes the different stages in coming to
+
+## the point of love of Godhead:
+
+adau sraddha tatah sadhu-sango 'tha bhajana-kriya
+tato 'nartha-nivrttih syat tato nistha rucis tatah
+athasaktis tato bhavas tatah premabhyudancati
+sadhakanam ayam premnah pradurbhave bhavet kramah
+The first requirement is that one should have sufficient faith that the only
+process for attaining love of Godhead is bhakti, devotional service to the Lord.
+Throughout the Bhagavad-gita Lord Krsna teaches that one should give up all
+other processes of self-realization and fully surrender unto Him. That is faith.
+One who has full faith in Krsna (sraddha) and surrenders unto Him is eligible
+for being raised to the level of prema, which Lord Caitanya taught as the
+highest perfectional stage of human life.
+Some persons are addicted to materially motivated religion, while others are
+addicted to economic development, sense gratification, or the idea of salvation
+from material existence. But prema, love of God, is above all these. This
+highest stage of love is above mundane religiosity, above economic development,
+above sense gratification, and above even liberation, or salvation. Thus love of
+God begins with the firm faith that one who engages in full devotional service
+has attained perfection in all these processes.
+The next stage in the process of elevation to love of God is sadhu-sanga,
+association with persons already in the highest stage of love of God. One who
+avoids such association and simply engages in mental speculation or so-called
+meditation cannot be raised to the perfectional platform. But one who associates
+with pure devotees or an elevated devotional society goes to the next stage--
+bhajana-kriya, or acceptance of the regulative principles of worshiping the
+Supreme Lord. One who associates with a pure devotee of the Lord naturally
+accepts that person as his spiritual master, and when the neophyte devotee
+accepts a pure devotee as his spiritual master, the duty of the spiritual master
+is to train the neophyte in the principles of regulated devotional service, or
+vaidhi-bhakti. At this stage the devotee's service is based on his capacity to
+serve the Lord. The expert spiritual master engages his followers in work that
+will gradually develop their consciousness of service to the Lord. Therefore the
+preliminary stage of understanding prema, love of God, is to approach a proper
+
+
+pure devotee, accept him as one's spiritual master, and execute regulated
+devotional service under his guidance.
+The next stage is called anartha-nivrtti, in which all the misgivings of
+material life are vanquished. A person gradually reaches this stage by regularly
+performing the primary principles of devotional service under the guidance of
+the spiritual master. There are many bad habits we acquire in the association of
+material contamination, chief of which are illicit sexual relationships, eating
+animal food, indulging in intoxication, and gambling. The first thing the expert
+spiritual master does when he engages his disciple in regulated devotional
+service is to instruct him to abstain from these four principles of sinful life.
+Since God is supremely pure, one cannot rise to the highest perfectional
+stage of love of God without being purified. In the Bhagavad-gita (10.12), when
+
+## Arjuna accepted Krsna as the Supreme Lord, he said, pavitram paramam bhavan:
+
+"You are the purest of the pure." The Lord is the purest, and thus anyone who
+wants to serve the Supreme Lord must also be pure. Unless a person is pure, he
+can neither understand what the Personality of Godhead is nor engage in His
+service in love, for devotional service, as stated before, begins from the point
+of self-realization, when all misgivings of materialistic life are vanquished.
+After following the regulative principles and purifying the material senses,
+one attains the stage of nistha, firm faith in the Lord. When a person has
+attained this stage, no one can deviate him from the conception of the Supreme
+Personality of Godhead. No one can persuade him that God is impersonal, without
+a form, or that any form created by imagination can be accepted as God. Those
+who espouse these more or less nonsensical conceptions of the Supreme Lord
+cannot dissuade him from firm faith in the Supreme Personality of Godhead,
+Krsna.
+In the Bhagavad-gita Lord Krsna stresses in many verses that He is the
+Supreme Personality of Godhead. But despite Lord Krsna's stressing this point,
+many so-called scholars and commentators still deny the personal conception of
+the Lord. One famous scholar wrote in his commentary on the Bhagavad-gita that
+one does not have to surrender to Lord Krsna or even accept Him as the Supreme
+Personality of Godhead, but that one should rather surrender to "the Supreme
+within Krsna." Such fools do not know what is within and what is without. They
+comment on the Bhagavad-gita according to their own whims. Such persons cannot
+be elevated to the highest stage of love of Godhead. The may be scholarly, and
+they may be elevated in other departments of knowledge, but they are not even
+neophytes in the process of attaining the highest stage of perfection, love of
+Godhead. Nistha implies that one should accept the words of Bhagavad-gita, the
+words of the Supreme Personality of Godhead, as they are, without any deviation
+or nonsensical commentary.
+If a person is fortunate enough to vanquish all misgivings caused by material
+existence and rise up to the stage of nistha, he can then rise to the stages of
+ruci (taste) and asakti (attachment for the Lord). Asakti is the beginning of
+love of Godhead. By progressing, one then advances to the stage of relishing a
+reciprocal exchange with the Lord in ecstasy (bhava). Every living entity is
+eternally related to the Supreme Lord, and this relationship may be in any one
+of many transcendental humors. At the stage called asakti, attachment, a person
+can understand his relationship with the Supreme Lord. When he understands his
+position, he begins reciprocating with the Lord. By constant reciprocation with
+the Lord, the devotee is elevated to the highest stage of love of Godhead,
+prema.
+
+## SUTRA 3*
+
+
+## TEXT
+
+amrta-svarupa ca
+
+
+
+## SYNONYMS
+
+amrta--immortality; svarupa--having as its essence; ca--and.
+
+## TRANSLATION
+
+This pure love for God is eternal.
+
+## PURPORT
+
+When a person attains to the perfectional stage of love of Godhead, he
+becomes liberated even in his present body and realizes his constitutional
+position of immortality. In the Bhagavad-gita (4.9), the Lord says,
+janma karma ca me divyam evam yo vetti tattvatah
+tyaktva deham punar janma naiti mam eti so 'rjuna
+Here the Lord says that any person who simply understands His transcendental
+activities and His appearance and disappearance in this material world becomes
+liberated, and that after quitting his present body he at once reaches His
+abode. Therefore it is to be understood that one who has attained the stage of
+love of God has perfect knowledge, and even if he may fall short of perfect
+knowledge, he has the preliminary perfection of life that a living entity can
+attain.
+To conceive of oneself as being one with the Supreme is the greatest
+misconception of self-realization, and this misconception prevents one from
+rising to the highest stage of love of God. But a person who understands his
+subordinate position can attain the highest stage of loving service to the Lord.
+Although the Lord and the living entities are qualitatively one, the living
+entities are limited, while the Lord is unlimited. This understanding, called
+amrta-svarupa, makes one eligible for being eternally situated.
+In the Srimad-Bhagavatam (10.87.30) the personified Vedas pray to the Lord,
+"O supreme eternal, if the living entities were equal with You and thus all-
+pervading and all-powerful like You, there would be no possibility of their
+being controlled by Your external energy, maya." Therefore, the living entities
+should be accepted as fragmental portions of the Supreme. This is confirmed in
+Bhagavad-gita (15.7) when the Lord says, mamaivamso jiva-loke jiva-bhutah
+sanatanah: "The living entities are My fragmental portions, eternally." As
+fragmental portions, they are qualitatively one with the Supreme, but they are
+not unlimited.
+One who is convinced that he is eternally a servitor of the Supreme Lord is
+called immortal because he has realized his constitutional position of
+immortality. Unless one can understand his position as a living entity and an
+eternal servitor of the Lord, there is no question of immortality. But one who
+accepts these facts becomes immortal. In other words, those who are under the
+misconception that the living entity and the Supreme Lord are equal in all
+respects, both qualitatively and quantitatively, are mistaken, and they are
+still bound to remain in the material world. They cannot rise to the position of
+immortality.
+Upon attaining love of God, a person immediately becomes immortal and no
+longer has to change his material body. But even if a devotee of the Lord has
+not yet reached the perfectional stage of love of Godhead, his devotional
+service is considered immortal. Any action in the stage of karma or jnana will
+be finished with the change of body, but devotional service, even if not
+executed perfectly, will continue into the next life, and the living entity will
+be allowed to make further progress.
+
+
+The constitutional position of the living entity as a fragment of the Supreme
+Lord is confirmed in the Srimad-Bhagavatam and the Upanisads. The Svetasvatara
+Upanisad (5.9) states,
+balagra-sata-bhagasya satadha kalpitasya ca
+bhago jivah sa vijneyah sa canantyaya kalpate
+"If the tip of a hair were divided into one hundred parts, and if one of those
+parts were again divided into a hundred parts, that one ten-thousandth part of
+the tip of the hair would be the dimension of the living entity." As already
+mentioned, this position of the living entity as a fragment of the Supreme Lord
+is declared in the Bhagavad-gita (15.7) to be eternal; it cannot be changed. A
+person who understands his constitutional position as a fragment of the Supreme
+Lord and engages himself in devotional service with all seriousness at once
+becomes immortal.
+
+## SUTRA 4*
+
+
+## TEXT
+
+yal labdhva puman siddho bhavaty amrto bhavati trpto bhavati
+
+## SYNONYMS
+
+yat--which; labdhva--having gained; puman--a person; siddhah--perfect; bhavati--
+becomes; amrtah--immortal; bhavati--becomes; trptah--peaceful; bhavati--becomes.
+
+## TRANSLATION
+
+Upon achieving that stage of transcendental devotional service in pure love
+of God, a person becomes perfect, immortal, and peaceful.
+
+## PURPORT
+
+The part-and-parcel living entities are entangled in the conditioned life of
+material existence. Because of their diverse activities they are wandering all
+over the universe, transmigrating from one body to another and undergoing
+various miseries. But when a fortunate living entity somehow comes in contact
+with a pure devotee of the Lord and engages in devotional service, he enters
+upon the path of perfection. If someone engages in devotional service in all
+seriousness, the Lord instructs him in two ways--through the pure devotee and
+from within--so that he can advance in devotional service. By cultivating such
+devotional service, he becomes perfect.
+Lord Krsna describes this form of complete perfection in the Bhagavad-gita
+
+## (8.15):
+
+mam upetya punar janma duhkhalayam asasvatam
+napnuvanti mahatmanah samsiddhim paramam gatah
+"The great souls who engage in My devotional service attain Me, the Supreme
+Lord, and do not come back to this miserable material life, for they have
+attained the highest perfection." Both while in the material body and after
+giving it up, a devotee attains the highest perfection in service to the Lord.
+As long as a devotee is in his material body, his probational activities in
+devotional service prepare him for being transferred to the Lord's supreme
+abode. Only those who are one hundred percent engaged in devotional service can
+achieve this perfection.
+
+
+In material, conditioned life a person always feels the full miseries caused
+by the transmigration of the soul from body to body. Before taking birth, he
+undergoes the miseries of living in the womb of his mother, and when he comes
+out he lives for a certain period and then again has to die and enter a mother's
+womb. But one who attains the highest perfection goes back to Godhead after
+leaving his present body. Once there, he doesn't have to come back to this
+material world and transmigrate from one body to another. That transfer to the
+spiritual world is the highest perfection of life. In other words, the devotee
+achieves his constitutional position of immortality and thus becomes completely
+peaceful.
+Until a person achieves this perfection, he cannot be peaceful. He may
+artificially think he is one with the Supreme, but actually he is not;
+therefore, he has no peace. Similarly, someone may aspire for one of the eight
+yogic perfections in the mystic yoga process, such as to become the smallest, to
+become the heaviest, or to acquire anything he desires, but these achievements
+are material; they are not perfection. Perfection means to regain one's original
+spiritual form and engage in the loving service of the Lord. The living entity
+is part and parcel of the Supreme Lord, and if he performs the duties of the
+part and parcel, without proudly thinking he is one in all respects with the
+Supreme Lord, he attains real perfection and becomes peaceful.
+
+## SUTRA 5*
+
+
+## TEXT
+
+yat prapya na kincid vanchati na socati na dvesti na ramate notsahi bhavati
+
+## SYNONYMS
+
+yat--which; prapya--having attained; na kincit--nothing; vanchati--hankers for;
+na socati--does not lament; na dvesti--does not hate; na ramate--does not
+rejoice; na--not; utsahi--materially enthusiastic; bhavati--becomes.
+
+## TRANSLATION
+
+A person engaged in such pure devotional service neither desires anything for
+sense gratification, nor laments for any loss, nor hates anything, nor enjoys
+anything on his personal account, nor becomes very enthusiastic in material
+activity.
+
+## PURPORT
+
+According to Srila Rupa Gosvami, there are six impediments to the discharge
+of devotional service, and also six activities favorable to progress in
+devotional service.
+The first impediment is atyahara, overeating or accumulating more wealth than
+we need. When we give free rein to the senses in an effort to enjoy to the
+highest degree, we become degraded. A devotee should therefore eat only enough
+to maintain his body and soul together; he should not allow his tongue
+unrestricted license to eat anything and everything it likes. The Bhagavad-gita
+and the great acaryas, or spiritual masters, have prescribed certain foods for
+human beings, and one who eats these foods eats in the mode of goodness. These
+foods include grains, fruits, vegetables, milk products, and sugar--and nothing
+more. A devotee does not eat extravagantly; he simply eats what he offers to the
+Supreme Lord, Krsna. He is interested in krsna-prasadam (food offered to the
+Lord) and not in satisfying his tongue. Therefore he does not desire anything
+extraordinary to eat.
+
+
+Similarly, a devotee does not wish to accumulate a large bank balance: he
+simply earns as much as he requires. This is called yavad-artha or yuktahara. In
+the material world everyone is very active in earning more and more money and in
+increasing eating and sleeping and gratifying the senses; such is the mission of
+most people's lives. But these activities should be absent from the life of a
+devotee.
+The next impediment Srila Rupa Gosvami mentions is prayasa, endeavoring very
+hard for material things. A devotee should not be very enthusiastic about
+attaining any material goal. He should not be like persons who engage in
+fruitive activities, who work very hard day and night to attain material
+rewards. All such persons have some ambition--to become a very big businessman,
+to become a great industrialist, to become a great poet or philosopher. But they
+do not know that even if their ambition is fulfilled, the result is temporary.
+As soon as the body is finished, all material achievements are also finished. No
+one takes with him anything he has achieved materially in this world. The only
+thing he can carry with him is his asset of devotional service; that alone is
+never vanquished.
+The next impediment to devotional service is prajalpa, talking of mundane
+subject matter. Many people unnecessarily talk of the daily happenings in the
+newspapers and pass the time without any profit. A devotee, however, does not
+indulge in unnecessary talks of politics or economics. Nor is a devotee very
+strict in following ritualistic rules and regulations mentioned in the Vedas.
+Becoming enamored of these rituals is the next impediment, called niyamagraha.
+Because a devotee fully engages in the supreme service of the Lord, he
+automatically fulfills all other obligations and doesn't have to execute all the
+details of Vedic rituals. As the Srimad-Bhagavatam (11.5.41) says,
+devarsi-bhutapta-nrnam pitrnam
+na kinkaro nayam rni ca rajan
+sarvatmana yah saranam saranyam
+gato mukundam parihrtya kartam
+"Every human being born in this world is immediately indebted to the demigods,
+the great sages, ordinary living entities, the family, society, and so on. But a
+person who surrenders unto the lotus feet of the Lord and engages fully in His
+service is no longer indebted to anyone. In other words, he has no obligations
+to fulfill except executing devotional service."
+Finally, a devotee should not be greedy (laulyam), nor should he mix with
+ordinary materialistic men (jana-sanga).
+These are six negatives, or "do-nots," for the devotee; therefore one who
+wants to attain the perfectional stage of love of Godhead refrains from these
+things.
+Similarly, there are six positive items for advancing in devotional service.
+First, while one should not be enthusiastic to attain material achievements, one
+should be very enthusiastic to attain the perfectional stage of devotional
+service. This enthusiasm is called utsaha. A living entity cannot stop acting.
+So when he is forbidden to become enthusiastic about material achievements, he
+should at once be encouraged to be enthusiastic about spiritual achievements.
+Enthusiasm is a symptom of the living entity; it cannot be stopped. It is just
+like a powerful engine: if you utilize it properly, it will give immense
+production. Therefore enthusiasm should be purified. Instead of employing
+enthusiasm for attaining material goals, one should be enthusiastic about
+achieving the perfectional stage of devotional service. Indeed, enthusing His
+devotees in devotional service is the purpose for which Krsna descends to this
+material world.
+The next item favorable for devotional service is niscaya, confidence. When
+one becomes disappointed in his service to the Supreme Lord, that disappointment
+must be rejected and replaced with confidence in attaining the ultimate goal,
+
+
+love of Godhead. The devotee should patiently follow the rules and regulations
+of devotional service so that the day will come when he will achieve, all of a
+sudden, all the perfection of devotional service. He should not lament for any
+loss or any reverse in his advancement in spiritual life. This patience
+(dhairya) is the third positive item for advancing in devotional service.
+Furthermore, a pure devotee is not envious, hateful, or lazy in the discharge
+of devotional service. Confident of his advancement, he continually performs his
+prescribed devotional duties. This is called tat-tat-karma-pravartana.
+The last two items are sanga-tyaga, giving up the association of nondevotees,
+and sato-vrtti, following in the footsteps of the previous acaryas. These
+practices greatly help the devotee remain fixed on the path of devotional
+service and avoid the tendency to enjoy temporary, material things. Thus the
+activities of a devotee remain always pure and without any contamination of the
+material world.
+
+## SUTRA 6*
+
+
+## TEXT
+
+yaj jnatva matto bhavati stabdho bhavaty atmaramo bhavati
+
+## SYNONYMS
+
+yat--which; jnatva--having known; mattah--intoxicated; bhavati--becomes;
+stabdhah--stunned (in ecstasy); bhavati--becomes; atma-aramah--self-content
+(because of being engaged in the service of the Lord); bhavati--becomes.
+
+## TRANSLATION
+
+One who understands perfectly the process of devotional service in love of
+Godhead becomes intoxicated in its discharge. Sometimes he becomes stunned in
+ecstasy and thus enjoys his whole self, being engaged in the service of the
+Supreme Self.
+
+## PURPORT
+
+The Srimad-Bhagavatam (1.7.10) states,
+atmaramas ca munayo nirgrantha apy urukrame
+kurvanty ahaitukim bhaktim ittham-bhuta-guno harih
+"Although those who are atmarama, self-satisfied, are liberated from all
+material contamination, they are still attracted by the pastimes of the Supreme
+Lord, and thus they engage themselves in His transcendental service." When Lord
+Caitanya explained this atmarama verse to Srila Sanatana Gosvami, He described
+sixty-one meanings, and all of them point toward the devotional service of the
+Lord.
+How one becomes intoxicated in devotional service is very nicely described in
+
+## the Srimad-Bhagavatam (11.2.40):
+
+evam-vratah sva-priya-nama-kirtya
+jatanurago druta-citta uccaih
+hasaty atho roditi rauti gayaty
+unmada-van nrtyati loka-bahyah
+"A person engaged in the devotional service of the Lord in full Krsna
+consciousness automatically becomes carried away by ecstasy when he chants and
+hears the holy name of Krsna. His heart becomes slackened while chanting the
+
+
+holy name, he becomes almost like a madman, and he does not care for any outward
+social conventions. Thus sometimes he laughs, sometimes he weeps, sometimes he
+cries out very loudly, sometimes he sings, and sometimes he dances and forgets
+himself." These are the signs of becoming intoxicated in devotional service.
+This stage, called the atmarama stage, is possible when the Lord bestows His
+mercy upon a devotee for his advanced devotional activity. It is the highest
+perfectional stage because one cannot reach it unless one has attained pure love
+of God.
+Neither formal religious rituals, economic development, sense gratification,
+nor liberation can compare with this sweet stage of perfection of love of Krsna,
+love of the Supreme Lord. The Caitanya-caritamrta (Adi-lila 7.97) describes this
+stage of ecstasy and intoxication as being far above the ecstasy of realizing
+oneself as Brahman, or the supreme spirit. Lord Caitanya says that the ecstasy
+of bhakti (love of Godhead) is so vast that it is like an ocean compared to the
+drop of pleasure derived from understanding oneself as one with Brahman. In all
+Vedic literature, the highest perfectional stage is said to be the state of
+intoxication of devotional service. It is not achieved by ordinary persons, the
+nondevotees.
+In the stage of perfection, one's heart becomes slackened and one becomes
+more and more attached to attaining the lotus feet of the Lord. Srila Rupa
+Gosvami, a great acarya in the line of devotional service, has described this
+stage as follows: "Although appearing just like a madman, a person in the
+ecstasy of devotional service is not mad in the material conception of the term;
+this ecstasy is the manifestation of the pleasure potency of the Supreme Lord."
+The Lord has various potencies, one of which is called ahladini-sakti, His
+internal pleasure potency. Only one who becomes a little conversant with this
+potency can taste such ecstasy. The Vedanta-sutra (1.1.12) states, ananda-mayo
+'bhyasat: "By nature the Lord is always joyful." This joyfulness of the Lord is
+due to His pleasure potency.
+One who becomes affected by the pleasure potency of the Supreme Lord
+manifests various symptoms of ecstasy, such as slackening of the heart,
+laughing, crying, shivering, and dancing. These symptoms are not material.
+However, exhibiting such ecstatic symptoms just to get credit from the public is
+not approved by pure devotees. Srila Bhaktisiddhanta Sarasvati Prabhupada says,
+"Persons without attainment of the highest perfectional stage of loving service
+cannot achieve any auspiciousness simply by artificially laughing, crying, or
+dancing without any spiritual understanding. Artificial movement of the body...
+must always be rejected. One should wait for the natural sequence within
+devotional service, and at that time, when one cries or dances or sings, it is
+approved. A person artificially showing symptoms of the pleasure potency creates
+many disturbances in the ordinary way of life."
+One who attains the perfectional stage of devotional service under the
+guidance of a bona fide spiritual master may preach the science of devotion as
+Lord Caitanya did. When Lord Caitanya preached, He danced and showed other
+symptoms of ecstasy. Once, in Benares, a Mayavadi sannyasi named Prakasananda
+Sarasvati objected to these activities. He said that since Lord Caitanya had
+taken sannyasa, the renounced order of life, He should not act in such an
+intoxicated way.
+The Lord explained that these symptoms of intoxication had automatically
+arisen when He had chanted the Hare Krsna mantra, and that upon seeing this His
+spiritual master had ordered Him to preach devotional service all over the
+world. While speaking with Prakasananda, Lord Caitanya quoted an important verse
+
+## from the Hari-bhakti-sudhodaya (14.36):
+
+tvat-saksat-karanahlada-visuddhabdhi-sthitasya me
+sukhani gospadayante brahmany api jagad-guro
+
+
+"My dear Lord, O master of the universe, since I have directly seen You, my
+transcendental bliss has taken the shape of a great ocean. Thus I now regard the
+happiness derived from understanding impersonal Brahman to be like the water
+contained in a calf's hoofprint."."
+In this way, one who reaches the perfectional stage of devotional service
+becomes so satisfied that he does not want anything more, and thus he always
+engages in pure devotional service.
+“Narada-Bhakti-Sutra: The Value of Devotion” by His Divine Grace A.C.
+Bhaktivedanta Swami Prabhupada.
+COPYRIGHT NOTICE: This is an evaluation copy of the printed version of this
+book, and is NOT FOR RESALE. This evaluation copy is intended for personal non-
+commercial use only, under the “fair use” guidelines established by
+international copyright laws. You may use this electronic file to evaluate the
+printed version of this book, for your own private use, or for short excerpts
+used in academic works, research, student papers, presentations, and the like.
+You can distribute this evaluation copy to others over the Internet, so long as
+you keep this copyright information intact. You may not reproduce more than ten
+percent (10%) of this book in any media without the express written permission
+
+## from the copyright holders. Reference any excerpts in the following way:
+
+“Excerpted from “Narada-Bhakti-Sutra” by the Bhaktivedanta Book Trust
+International, www.Krishna.com.”
+
+## SUTRA 7*
+
+
+## TEXT
+
+sa na kamayamana nirodha-rupatvat
+
+## SYNONYMS
+
+sa--that devotional service in pure love of God; na--not; kamayamana--like
+ordinary lust; nirodha--renunciation; rupatvat--because of having as its form.
+
+## TRANSLATION
+
+There is no question of lust in the execution of pure devotional service,
+because in it all material activities are renounced.
+
+## PURPORT
+
+In pure devotional service there is no question of sense gratification. Some
+people mistake the loving affairs between Krsna and the gopis (cowherd girls)
+for activities of ordinary sense gratification, but these affairs are not
+lustful because there is no material contamination. As Rupa Gosvami states in
+his Bhakti-rasamrta-sindhu (1.2.285),
+premaiva gopa-ramanam kama ity agamat pratham
+ity uddhavadayo 'py etam vanchanti bhagavat-priyah
+"Although the dealings of the gopis with Krsna are wrongly celebrated by many as
+lust, great sages and saintly persons like Uddhava hanker for such loving
+affairs with Krsna." Srila Krsnadasa Kaviraja, the author of Caitanya-
+caritamrta, has therefore said,
+
+
+kama, prema,--donhakara vibhinna laksana
+lauha ara hema yaiche svarupe vilaksana
+"As there is a difference between iron and gold, so there is a difference
+between material lust and Krsna's loving affairs with the gopis" (Cc. Adi
+
+## 4.164). Although such loving affairs may sometimes resemble material lust, the
+
+
+## difference is as follows:
+
+atmendriya-priti-vancha--tare bali 'kama'
+krsnendriya-priti-iccha dhare 'prema' nama
+"The desire to satisfy one's own senses is called lust, while the desire to
+satisfy the senses of Krsna is called prema, love of God" (Cc. Adi 4.165).
+The impersonalists cannot understand the principle of satisfying Krsna's
+senses because they reject the personality of Godhead. Thus they think God has
+no senses and therefore no sense satisfaction. But the devotees simply want to
+satisfy the senses of the Supreme Lord, and so they take part in the pure
+activities of love of Godhead. There is no question of lust in that category of
+pure transcendental love.
+Lust leads to fruitive activity for sense gratification. There are different
+kinds of duties for the human being, such as political obligations, performance
+of Vedic rituals, obligations for maintaining the body, and social formalities
+and conventions, but all such activities are directed toward satisfying one's
+own senses. The gopis, however, simply wanted to satisfy Krsna's senses, and
+thus they completely gave up the conventional path of social restriction, not
+caring for their relatives or the chastisement of their husbands. They gave up
+everything for the satisfaction of Krsna, showing their strong attachment to
+Krsna to be as spotless as washed white cloth.
+It is said that when conjugal affection between a lover and beloved comes to
+the point of being destroyed and yet is not destroyed, such a relationship is
+pure love, or prema. In the material world it is not possible to find this kind
+of love, for it exists only between Krsna and His intimate devotees, such as the
+gopis. The sentiment between the gopis and Krsna was so strong that it could not
+be destroyed under any circumstances. Krsna praises the gopis' pure love in the
+
+## Srimad-Bhagavatam (10.32.22):
+
+na paraye 'ham niravadya-samyujam
+sva-sadhu-krtyam vibudhayusapi vah
+ya mabhajan durjaya-geha-srnkhalah
+samvrscya tad vah pratiyatu sadhuna
+"My dear gopis, I am not able to repay My debt for your spotless service, even
+within a lifetime of Brahma. Your connection with Me is beyond reproach. You
+have worshiped Me, cutting off all domestic ties, which are difficult to break.
+Therefore please let your own glorious deeds be your compensation."
+
+## SUTRA 8*
+
+
+## TEXT
+
+nirodhas tu loka-veda-vyapara-nyasah
+
+## SYNONYMS
+
+nirodhah--renunciation; tu--moreover; loka--of social custom; veda--and of the
+revealed scripture; vyapara--of the engagements; nyasa--renunciation.
+
+
+
+## TRANSLATION
+
+Such renunciation in devotional service means to give up all kinds of social
+customs and religious rituals governed by Vedic injunction.
+
+## PURPORT
+
+In a verse in the Lalita-madhava (5.2), Srila Rupa Gosvami describes
+
+## renunciation in devotional service:
+
+rddha siddhi-vraja-vijayita satya-dharma samadhir
+brahmanando gurur api camatkarayaty eva tavat
+yavat premnam madhu-ripu-vasikara-siddhausadhinam
+gandho 'py antah-karana-sarani-panthatam na prayati
+"Activities such as mystic trance, becoming one with the Supreme, and the
+religious principles of brahminism, such as speaking the truth and tolerance,
+have their own respective attractions, but when one becomes captivated by love
+of Krsna, the Supreme Personality of Godhead, all attraction for mystic power,
+monistic pleasure, and mundane religious principles becomes insignificant."
+In other words, by discharging pure devotional service one attains the
+highest stage of love of Godhead and is freed from all other obligations, such
+as those mentioned in the karma-kanda, jnana-kanda, and yoga-kanda sections of
+the Vedas. One who engages in pure devotional service has no desire to improve
+himself--except in the service of the Lord. In such devotional service there
+cannot be any worship of the impersonal or localized features of the Supreme
+Lord. The devotee simply performs activities that satisfy the Supreme
+Personality of Godhead and thus attains pure love for the Lord.
+Only by the combined mercy of the pure devotee--the bona fide spiritual
+master--and the Supreme Lord Himself can one attain pure devotional service to
+the Lord. If someone is fortunate enough to find a pure devotee and accept him
+as his spiritual master, then this spiritual master, out of his causeless mercy,
+will impart the knowledge of pure devotional service. And it is the Lord, out of
+His causeless mercy, who sends His most confidential servitor to this world to
+instruct pure devotional service.
+By the divine grace of the spiritual master, the seed of pure devotional
+service, which is completely different from the seed of fruitive activities and
+speculative knowledge, is sown in the heart of the devotee. Then, when the
+devotee satisfies the spiritual master and Krsna, this seed of devotional
+service grows into a plant that gradually reaches up to the spiritual world. An
+ordinary plant requires shelter for growing. Similarly, the devotional plant
+grows and grows until it takes shelter in the spiritual world, without taking
+shelter on any planet in the material world. In other words, those who are
+captivated by pure devotional service have no desire to elevate themselves to
+any material planet. The highest planet in the spiritual world is Krsna-loka, or
+Goloka Vrndavana, and there the devotional plant takes shelter.
+
+## The Narada Pancaratra defines pure devotional service as follows:
+
+sarvopadhi-vinirmuktam tat-paratvena nirmalam
+hrsikena hrsikesa-sevanam bhaktir ucyate
+"Devotional service to the Supreme Lord means engagement of all the senses in
+His service. In such service there are two important features: First, one must
+be purified of all designations, and second, the senses should be engaged only
+in the service of the Supreme Lord, the master of the senses. That is pure
+devotional service."
+Everyone is now contaminated by various designations in relation to the body.
+Everyone is thinking, "I belong to such-and-such country; I belong to a certain
+
+
+society; I belong to a certain family." But when a person comes to the stage of
+pure devotional service, he knows that he does not belong to anything except the
+service of the Lord.
+The symptom of unflinching faith in pure devotional service is that one has
+overcome the many disruptive desires that impede pure devotional service, such
+as (1) the desire to worship the demigods, (2) the desire to serve someone other
+than Krsna, (3) the desire to work for sense gratification, without
+understanding one's relationship with Krsna, (4) the desire to cultivate
+impersonal knowledge and thereby forget the Supreme Lord, and (5) the desire to
+establish oneself as the Supreme, in which endeavor there is no trace of the
+bliss of devotional service. One should give up all these desires and engage
+exclusively in the loving devotional service of the Lord. Except for the service
+of the Lord, anything done is in the service of illusion, or maya.
+One should try to get out of illusion and be engaged in the factual service
+of Krsna. Service to Krsna utilizes all the senses, and when the senses are
+engaged in the service of Krsna, they become purified. There are ten senses--
+five active senses and five knowledge-acquiring senses. The active senses are
+the power of talking, the hands, the legs, the evacuating outlet, and the
+generating organ. The knowledge-acquiring senses are the eyes, the ears, the
+nose, the tongue, and the sense of touch. The mind, the center of all the
+senses, is sometimes considered the eleventh sense.
+One cannot engage in the transcendental loving service of the Lord with these
+senses in their present materially covered state. Therefore one should take up
+the process of devotional service to purify them. There are sixty-four items of
+regulative devotional service for purifying the senses, and one should
+strenuously undergo such regulative service. Then one can enter into the
+transcendental loving service of the Lord. (See Sutra 12 for a full discussion
+of these sixty-four items of devotional service.)
+
+## SUTRA 11*
+
+
+## TEXT
+
+loka-vedesu tad-anukulacaranam tad-virodhisudasinata
+
+## SYNONYMS
+
+loka--in society and politics; vedesu--and in the Vedic rituals; tat--for that;
+anukula--of what is favorable; acaranam--performance; tat--for that; virodhisu--
+for what is opposed; udasinata--indifference.
+
+## TRANSLATION
+
+Indifference toward what stands in the way of devotional service means to
+accept only those activities of social custom and Vedic injunction that are
+favorable to devotional service.
+
+## PURPORT
+
+Material existence is a life of revolt against the Supreme Personality of
+Godhead. There are many ways in which the living entities can manifest this
+spirit of revolt, such as engaging in fruitive activities, mental speculation,
+or mystic yoga to achieve material perfections. Generally, all conditioned souls
+desire to lord it over the material nature. Everyone wants to become a demilord,
+either by social or political activities or by Vedic rituals. Everyone wants to
+elevate himself to a higher status of existence or, out of frustration, become
+one with the Supreme. All these desires are different types of materialism; they
+are not favorable for devotional service.
+
+
+A pure devotee rejects demigod worship and worships only Lord Krsna or His
+Visnu expansions. Until a person is completely free of material contamination,
+he might want to worship God in hope of fulfilling material desires. But even if
+a person has material desires, if he scrupulously worships the Supreme Lord he
+will very soon become purified of all such desires. On the other hand, persons
+whose activities are dictated by material desires and who are also addicted to
+worshiping the demigods cannot become pure devotees at any stage of their lives.
+The Lord, situated within everyone's heart, fulfills the desires of the demigod-
+worshipers--but in the Bhagavad-gita the Lord says that such demigod-worshipers
+are of small intelligence (alpa-medhasah). In other words, as long as one is
+controlled by the modes of nature, one will be prone to worship the demigods for
+material purposes, but one who curbs this tendency and worships Krsna
+exclusively can rise above the modes and attain pure devotional service.
+One cannot be situated on the platform of pure devotional service, however,
+unless one is freed from all kinds of sinful reactions. To counteract various
+sinful reactions, there are prescribed duties in the ritualistic section of the
+Vedas, and those in the lower stage of life can become freed from all sinful
+reactions by strictly following the Vedic ritualistic processes. Then they can
+become situated in pure devotional service. Thus it should be understood that a
+person who is situated in pure devotional service must have in his past life
+already executed all the Vedic rituals with great determination. In other words,
+after reaching the stage of devotional service, a person does not have to
+execute any process of atonement mentioned in the ritualistic section of the
+Vedas. He is already sinless.
+
+## SUTRA 12*
+
+
+## TEXT
+
+bhavatu niscaya-dardhyad urdhvam sastra-raksanam
+
+## SYNONYMS
+
+bhavatu--let there be; niscaya--of certainty; dardhyat--the firm fixing;
+urdhvam--after; sastra--of scripture; raksanam--the observance.
+
+## TRANSLATION
+
+One must continue to follow scriptural injunctions even after one is fixed up
+in determined certainty that devotional service is the only means for reaching
+the perfection of life.
+
+## PURPORT
+
+When a person becomes firmly convinced about the importance of devotional
+service, he surrenders unto the Supreme Lord. There are six symptoms of
+surrender: (1) One should perform only those actions favorable for devotional
+service to Krsna. (2) One should give up everything unfavorable for discharging
+devotional service. (3) One should firmly believe that Krsna will protect one in
+all circumstances and that no one is a better protector than Krsna. This
+conviction should be distinct from the monistic philosophy that one is as good
+as Krsna. Rather, one should always think that Krsna, or God, is great and that
+one is always protected by Him. (4) One should have the conviction that Krsna is
+one's maintainer, and one should not take shelter of any demigod for
+maintenance. (5) One should always remember that one's activities and desires
+are not independent. In other words, the devotee should feel completely
+dependent on Krsna, and thus he should act and think as Krsna desires. (6) One
+
+
+should always think himself the poorest of the poor and feel totally dependent
+on the mercy of Krsna.
+A devotee who follows these six principles of surrender always thinks, "O
+Lord, I am Yours in every respect; I am Your eternal servant." In this way a
+pure devotee becomes cleansed. There is a nice verse in this connection in the
+
+## Srimad-Bhagavatam (11.29.34):
+
+martyo yada tyakta-samasta-karma
+niveditatma vicikirsito me
+tadamrtatvam pratipadyamano
+mayatma-bhuyaya ca kalpate vai
+"A person who gives up all fruitive activities and offers himself entirely unto
+Me, eagerly desiring to render service unto Me, achieves liberation from birth
+and death and is promoted to the status of sharing My own opulences." To be
+elevated to such a point of devotional life, one has to execute the directions
+of the scriptures. But even after becoming elevated in devotional life, one
+should not think, "Oh, I am already elevated to the highest stage; therefore I
+may violate the scriptural regulations for executing devotional service."
+Devotional service is dormant in every living being, for by nature every
+living being is part and parcel of the Supreme Lord and it is the healthy
+condition of the part to serve the whole. It is just like the situation of the
+parts of the body. The hand and the leg serve the body; similarly, as part and
+parcel of the Supreme Lord, every living entity is bound to serve the Supreme
+Lord in his healthy condition. When he is not thus engaged, he is in a diseased
+condition, but as soon as he engages all his senses in the transcendental loving
+service of the Lord, he is in his normal, healthy condition.
+The devotee should engage his senses in the Lord's service according to the
+directions of the authoritative scriptures and under the guidance of a bona fide
+spiritual master. The beginning of one's devotional training is to engage the
+ear in aural reception of the teachings of the Bhagavad-gita and the Srimad-
+Bhagavatam. There are many authoritative books of spiritual knowledge, but all
+of them are more or less supplements to the Bhagavad-gita and Srimad-Bhagavatam.
+Even the Narada-bhakti-sutra is a summary of the Bhagavad-gita and the Srimad-
+Bhagavatam. Therefore the beginning of devotional service is to hear these two
+important transcendental books of knowledge. Simply by aural reception of these
+two books from the bona fide spiritual master, one becomes enlightened about
+devotional service, which is dormant within the heart.
+Devotional service executed under the guidance of the spiritual master and
+according to scriptural injunctions is called vaidhi-bhakti, a part of sadhana-
+bhakti, or devotional service in practice. The other division of sadhana-bhakti
+is raganuga-bhakti, spontaneous devotional service.
+One who wishes to advance to the platform of raganuga-bhakti must follow the
+injunctions of the authoritative scriptures under the direction of the spiritual
+master. According to Sutra 12, even a person on a highly elevated platform of
+devotional service must execute the rules and regulations of the scripture, what
+to speak of persons who are not elevated. In other words, neophytes in
+devotional service must strictly and scrupulously follow the rules and
+regulations of the scriptures to rise to the platform of unalloyed devotional
+service.
+As mentioned above, a devotee who strictly practices regulative devotional
+service, or vaidhi-bhakti. The prime principle of vaidhi-bhakti is stated in the
+
+## Srimad-Bhagavatam (2.1.5):
+
+tasmad bharata sarvatma bhagavan isvaro harih
+srotavyah kirtitavyas ca smartavyas cecchatabhayam
+
+
+"A person serious about making progress in devotional service must always think
+of the Supreme Personality of Godhead, must always chant His glories, and must
+always hear about His activities." These are the preliminary principles of
+following the scriptural rules and regulations.
+The Srimad-Bhagavatam (11.5.2) states,
+mukha-bahuru-padebhyah purusasyasramaih saha
+catvaro jajnire varna gunair vipradayah prthak
+Every person, whatever he may be, emanates from some part of the universal form
+of the Supreme Lord, the virat-purusa. The brahmanas (intelligentsia) emanate
+from the face, the ksatriyas (warriors and administrators) emanate from the
+arms, the vaisyas (farmers and merchants) emanate from the thighs, and the
+sudras (laborers) emanate from the feet. But wherever we may be situated, we
+have some particular function to execute in the service of the Supreme Whole,
+the Personality of Godhead. If we do not, therefore, engage our particular
+propensities in the service of the Lord, then we are fallen, just like a useless
+limb amputated from the body.
+According to the Padma Purana, the sum and substance of all the regulative
+principles of the scripture is that Lord Visnu, or Krsna, should always be
+remembered and should never be forgotten. We should therefore mold our lives in
+such a way that in every activity we shall be able to remember the Supreme Lord.
+Any activity that reminds one of the Supreme Lord is a regulative principle in
+devotional service, and any activity that makes one forget the Supreme Lord is a
+forbidden activity for a devotee.
+In the Caitanya-caritamrta (Madhya 22.115-28), Lord Caitanya lists sixty-four
+regulative principles one must follow to be elevated to the highest platform of
+devotional service. And, as stressed here in Sutra 12, even after being elevated
+to the highest platform of devotional service, one must continue following the
+scriptural injunctions for devotional life. The sixty-four regulative principles
+
+## are as follows:
+
+(1) To accept a bona fide spiritual master. (2) To become initiated by the
+spiritual master. (3) To engage oneself in the service of the spiritual master.
+(4) To receive instructions from the spiritual master and inquire about
+advancing on the path of devotional service. (5) To follow in the footsteps of
+previous acaryas and follow the directions given by the spiritual master. (6) To
+give up anything for the satisfaction of Krsna, and to accept anything for the
+satisfaction of Krsna. (7) To live in a place where Krsna is present--a city
+like Vrndavana or Mathura, or a Krsna temple. (8) To minimize one's means of
+living as much as one can, while living comfortably to execute devotional
+service. (9) To observe fasting days, such as Ekadasi. (10) To worship cows,
+brahmanas, Vaisnavas, and sacred trees like the banyan.
+These ten principles of devotional service are the beginning. Additional
+principles are as follows: (11) One should avoid committing offenses against the
+holy name, the Deity, etc. (12) One should avoid associating with nondevotees.
+(13) One should not aspire to have many disciples. (14) One should not
+unnecessarily divert his attention by partially studying many books so as to
+appear very learned. For devotional service, it is sufficient to scrutinizingly
+study books like the Bhagavad-gita, the Srimad-Bhagavatam, and the Caitanya-
+caritamrta. (15) One should not be disturbed in either loss or gain. (16) One
+should not allow oneself to be overwhelmed by lamentation for any reason. (17)
+One should not blaspheme the demigods, although one should not worship them.
+Similarly, one should not criticize other scriptures, although one should not
+follow the principles therein. (18) One should not tolerate blasphemy of the
+Supreme Lord or His devotees. (19) One should not indulge in idle talks, such as
+those about relationships between men and women. (20) One should not
+unnecessarily disturb any living being, whatever he may be.
+
+
+The above-mentioned twenty items are the doorway to devotional service. And
+among them, the first three--namely, acceptance of the spiritual master,
+initiation by the spiritual master, and service to the spiritual master--are the
+most important. Then come the following items: (21) To hear about the Lord. (22)
+To chant His glories. (23) To remember Him. (24) To serve and meditate upon the
+lotus feet of the Lord and His devotees. (25) To worship Him. (26) To pray to
+Him. (27) To think of oneself as the Lord's eternal servant. (28) To become the
+Lord's friend. (29) To offer everything to the Lord. (30) To dance before the
+Deity. (31) To sing before the Deity. (32) To inform the Lord of everything
+about one's life. (33) To bow down to the Lord. (34) To offer respect to the
+spiritual master and the Supreme Lord by standing up at the appropriate time.
+(35) To follow the spiritual master or the Supreme Lord in procession. (36) To
+visit places of pilgrimage and temples of the Supreme Lord. (37) To
+circumambulate the temple. (38) To recite prayers. (39) To chant the Lord's name
+softly to oneself. (40) To chant the Lord's name loudly in congregation. (41) To
+smell incense and flowers offered to the Deity. (42) To eat the remnants of food
+offered to the Deity. (43) To regularly attend the arati offered to the Deity,
+as well as special festivals. (44) To regularly look upon the Deity. (45) To
+offer one's dearmost possessions to the Supreme Lord. (46) To meditate on the
+Lord's name, form, pastimes, etc. (47) To water the tulasi plant. (48) To serve
+the Lord's devotees. (49) To try to live in Vrndavana or Mathura. (50) To relish
+the topics of the Srimad-Bhagavatam. (51) To take all kinds of risks for Krsna.
+(52) To always expect the mercy of Krsna. (53) To observe ceremonies like
+Janmastami (the appearance day of Lord Krsna) and Rama-navami (the appearance
+day of Lord Ramacandra) with devotees. (54) To fully surrender to Krsna. (55) To
+observe special regulations like those followed during the month of Kartika
+(Oct.-Nov.). (56) To mark the body with Vaisnava tilaka (clay markings). (57) To
+mark the body with the holy names of God. (58) To accept the remnants of
+garlands that have been offered to the Supreme Lord. (59) To drink caranamrta,
+the water that has washed the lotus feet of the Deity.
+Among these fifty-nine items, five are considered so important that they are
+mentioned again separately, thus completing the sixty-four items of devotional
+service. These five are (60) associating with devotees, (61) chanting the holy
+name of the Lord, (62) hearing the Srimad-Bhagavatam, (63) residing at a place
+of pilgrimage like Mathura, and (64) worshiping the Deity with faith and
+veneration.
+
+## SUTRA 13*
+
+
+## TEXT
+
+anyatha patitya-sankaya
+
+## SYNONYMS
+
+anyatha--otherwise; patitya--of falling down; sankaya--because of anticipating
+the possibility.
+
+## TRANSLATION
+
+Otherwise there is every possibility of falling down.
+
+## PURPORT
+
+If a diseased person is being cured of the symptoms of his disease but does
+not care for the principles of healthy living, there is every possibility of a
+relapse. Similarly, the neophyte devotee serious about advancing in devotional
+service must carefully follow the principles of regulative devotional service;
+
+
+otherwise there is every possibility of his falling down. Strictly speaking, if
+a devotee ignores the regulative principles and acts according to his whims--if,
+for example, he does not eat krsna-prasadam but eats anywhere and everywhere,
+such as in restaurants--there is every possibility of his falling down. If he
+accumulates money without spending it for devotional service, there is every
+possibility of his falling down. If he applies his energy not in the service of
+the Lord but in some material activity, there is every possibility of his
+falling down. If the devotee does not engage himself always in hearing and
+chanting the topics of Krsna and His activities but instead indulges in idle
+talk, there is every chance of his falling down. If a neophyte devotee does not
+follow the orders of the spiritual master and simply officially sticks to the
+principles, or if he does not strictly follow the principles, there is every
+possibility of his falling down. To become greedy is another cause of falldown.
+And to associate with persons who are not in devotional service is the last word
+in maya's allurements for causing a devotee to fall down.
+In the Bhagavad-gita (18.5), Krsna clearly states that sacrifice, charity,
+and penance are never to be given up by a transcendentalist. If he is at all
+intelligent he must continue these three activities, even if he is highly
+elevated. A devotee is naturally very humble, and even if he is highly elevated
+he does not consider himself to be so. A practical example is found in the life
+of the author of the Caitanya-caritamrta, Krsnadasa Kaviraja Gosvami. He was a
+vastly learned scholar and a first-class devotee, yet he still referred to
+himself as the lowest of mankind, lower than the bacteria in the stool. He wrote
+that he was so sinful that no one should even utter his name, lest that person
+fall down! Of course, when a great devotee speaks this way, we should not
+believe that he is actually in the lower status of life; we should rather take
+it as evidence that out of humility a pure devotee never thinks he is elevated.
+He always thinks he is in the lowest status of spiritual life.
+As stated above, in the Bhagavad-gita Krsna states that no one should give up
+the sacrificial portion of spiritual life. And the scriptures recommend that the
+best sacrifice in this Age of Kali is to chant Hare Krsna, Hare Krsna, Krsna
+Krsna, Hare Hare. Hare Rama, Hare Rama, Rama Rama, Hare Hare. Therefore, a
+devotee's prime duty is to continue chanting this maha-mantra, even if he is
+highly elevated. Otherwise, at any stage one can fall down.
+
+## SUTRA 14*
+
+
+## TEXT
+
+loke 'pi tavad eva bhojanadi-vyaparas tv a-sarira-dharanavadhi
+
+## SYNONYMS
+
+loke--in social behavior; api--also; tavat--for that long; eva--indeed; bhojana-
+-eating; adi--and so on; vyaparah--the activity; tu--and; a-sarira-dharana-
+avadhi--for as long as one still has this body.
+
+## TRANSLATION
+
+For as long as the body lasts, one should engage minimally in social and
+political activities and in such matters as eating.
+
+## PURPORT
+
+Spiritual life begins when a person understands that he is not the body. In
+the material world, all our connections--whether social or political or in the
+field of eating, sleeping, defending, and mating--are due only to the material
+
+
+body. Unless one is completely conversant with the fact that one is not the
+body, it is not possible to become self-realized.
+In the Bhagavad-gita (18.54), Lord Krsna describes self-realization as
+
+## follows:
+
+brahma-bhutah prasannatma na socati na kanksati
+samah sarvesu bhutesu mad-bhaktim labhate param
+"Self-realization [the brahma-bhuta stage] is symptomized by joyfulness. One
+never laments for any loss, nor is one very enthusiastic when there is some
+gain. One sees everyone on an equal level through spiritual understanding. These
+qualities are preliminary to entering into pure devotional service."
+Pure devotional service is so powerful, however, that one may at once take to
+it without acquiring the previous qualification of brahma-bhuta life. A sincere
+devotee who engages in the service of the Lord automatically becomes situated in
+the brahma-bhuta stage. The devotee's duty is only to strictly follow the
+principles of regulated devotional service, as previously mentioned. Therefore a
+devotee should not be too concerned about social and political obligations,
+since all such activities belong to the body. He should similarly restrict his
+eating; this is essential to the execution of devotional service. A devotee
+cannot eat anything and everything he likes; he must eat only foods that have
+been offered to the Lord. The Lord clearly says (Bhagavad-gita 9.26) that He
+will accept a flower, a fruit, a leaf, or a little water if they are offered to
+Him with devotional love. (One should note that the Supreme Lord accepts only
+foods from the vegetable kingdom, as well as milk products. "Water" includes
+milk and its products.) The Lord is not hungry or poor, in need of our offering.
+Actually, it is to our advantage to offer Him something to eat. If the Supreme
+Lord kindly accepts our offering, then we are benefited. The Lord is full, but
+to establish the universal principle that everyone can offer something to the
+Lord, He accepts even the most meager offering--when it is presented with love.
+Even the poorest of the poor can collect a flower, a leaf, and a little water
+and offer them to the Supreme Lord.
+It is incumbent upon all devotees of Krsna to avoid eating anything that has
+not been offered to the Supreme Lord. A devotee who does not strictly follow
+this principle is sure to fall down. Similarly, one who refuses to accept
+prasadam, the remnants of food offered to Krsna, cannot become a devotee.
+In the Srimad-Bhagavatam (5.5.3) Lord Rsabhadeva states that one who is
+determined to become a pure devotee avoids associating with the general mass of
+people, who are simply engaged in the animal propensities of eating, sleeping,
+defending, and mating. The general mass of people mistake the body for the self,
+and therefore they are always busy trying to maintain the body very nicely. A
+devotee should not associate with such people. Nor should he be overly attached
+to his family members, knowing that he has been accidentally thrown together
+with his wife, children, and so on. Spiritually, no one is a wife, child,
+husband, or father of anyone else. Everyone comes into this world according to
+his past deeds and takes shelter of a father and a mother, but actually no one
+is anyone's father or mother. While a devotee must know this, that does not mean
+he should neglect his family. As a matter of duty he should maintain his family
+members without attachment and instruct them in Krsna consciousness.
+So, whether in social life or political life, or in the matter of eating,
+sleeping, mating, and defending, a devotee should avoid performing any action
+tainted by material attachment. The word used here is bhojanadi, which indicates
+the four propensities of eating, sleeping, defending, and mating. As the devotee
+does not eat anything that has not been offered to Krsna, so he does not sleep
+more than is absolutely necessary. In the lives of the great devotees Sanatana
+Gosvami and Rupa Gosvami, we see that they did not sleep more than one and a
+half hours a day, and they were reluctant even to accept that. So sleeping is
+also restricted. Naturally one who is always engaged in devotional service of
+
+
+the Lord has very little time to sleep. Sleep is a necessity of the body, not
+the spirit soul, and therefore as one advances in devotional service one's
+propensity to sleep decreases.
+Similarly, a devotee minimizes his defending propensity. A pure devotee knows
+he is under the shelter of the all-powerful Supreme Lord, and so he is not very
+anxious about defending himself. Although he should use his common sense in the
+matter of defending, he is sure that without being protected by Lord Krsna no
+one can defend himself, however expert he may be in the art of defense.
+In the same way, a devotee minimizes or eliminates sex. He does not indulge
+indiscriminately in sex, begetting offspring as the cats and dogs do. If he
+begets any children at all, he takes charge of them to elevate them to Krsna
+consciousness so that they may not have to suffer in material life again, in
+future lives. That is the duty of a devotee.
+In this material world, people in general engage in sense-gratificatory
+activities, which keep them bound up by the laws of the material modes of
+nature. Indeed, the more a person engages in such activities, the more he
+expands his life in material existence. A devotee acts differently: he knows he
+is not the body and that as long as he is in his body he will have to suffer the
+threefold material miseries. Therefore to decrease his material entanglement and
+help his advancement in spiritual life, he always minimizes his social and
+political activities and his eating, sleeping, defending, and mating.
+
+## SUTRA 15*
+
+
+## TEXT
+
+tal-laksanani vacyante nana-mata-bhedat
+
+## SYNONYMS
+
+tat--of it (devotional service); laksanani--the characteristics; vacyante--are
+enunciated; nana--various; mata--of theories; bhedat--according to the
+differences.
+
+## TRANSLATION
+
+Now the characteristics of devotional service will be described according to
+various authoritative opinions.
+
+## PURPORT
+
+In the Srimad-Bhagavatam (7.5.23), Prahlada Maharaja very clearly states what
+
+## the essential activities of devotional service are:
+
+sravanam kirtanam visnoh smaranam pada-sevanam
+arcanam vandanam dasyam sakhyam atma-nivedanam
+"Devotional service consists of (1) hearing about the Lord, (2) chanting His
+glories, (3) remembering Him, (4) serving and meditating upon His lotus feet,
+(5) worshiping Him, (6) praying to Him, (7) thinking oneself His eternal
+servant, (8) becoming His friend, and (9) surrendering everything to Him."
+One should surrender to the Lord as much as an animal purchased from the
+market surrenders to its master. Such an animal never thinks of his maintenance
+because he knows that his master will look after him. A soul totally surrendered
+to the Supreme Lord is similarly never anxious for his maintenance. Srila
+Sanatana Gosvami gives further symptoms of full surrender in his Hari-bhakti-
+
+## vilasa (11.417):
+
+
+
+anukulyasya sankalpah pratikulyasya varjanam
+raksisyatiti visvaso goptrtve varanam tatha
+atma-niksepa-karpanye sad-vidha saranagatih
+"The six divisions of surrender are: accepting those things favorable to
+devotional service, rejecting unfavorable things, the conviction that Krsna will
+give protection, accepting the Lord as one's guardian or master, full self-
+surrender, and humility." Narada will gradually explain these principles of
+devotion in the remaining sutras.
+“Narada-Bhakti-Sutra: The Value of Devotion” by His Divine Grace A.C.
+Bhaktivedanta Swami Prabhupada.
+NOTE FROM THE PUBLISHER: This document contains the first chapter of Narada-
+Bhakti-Sutra translated and commented on by His Divine Grace A.C. Bhaktivedanta
+Swami Prabhupada. His disciples have since completed the translation and
+commentary on the total of 84 “sutras.” The complete work is available as the
+publication, Narada-Bhakti-Sutra: The Secrets of Transcendental Love, by the
+Bhaktivedanta Book Trust International, at www.Krishna.com.
+COPYRIGHT NOTICE: This is an evaluation copy of the printed version of this
+book, and is NOT FOR RESALE. This evaluation copy is intended for personal non-
+commercial use only, under the “fair use” guidelines established by
+international copyright laws. You may use this electronic file to evaluate the
+printed version of this book, for your own private use, or for short excerpts
+used in academic works, research, student papers, presentations, and the like.
+You can distribute this evaluation copy to others over the Internet, so long as
+you keep this copyright information intact. You may not reproduce more than ten
+percent (10%) of this book in any media without the express written permission
+
+## from the copyright holders. Reference any excerpts in the following way:
+
+“Excerpted from “Narada-Bhakti-Sutra” by the Bhaktivedanta Book Trust
+International, www.Krishna.com.”

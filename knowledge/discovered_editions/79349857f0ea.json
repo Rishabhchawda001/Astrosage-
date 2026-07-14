@@ -1,0 +1,370 @@
+{
+  "title": "bhagavad-gita-as-it-is",
+  "discovered_at": "2026-07-13T15:53:19.439107+00:00",
+  "edition_count": 16,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Bhagavad-Gita As It Is",
+      "authors": [
+        "A. C. Bhaktivedanta Swami Srila Prabhupada"
+      ],
+      "year": 1988,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 3,
+      "isbn": [
+        "9789171494153",
+        "9780318371559",
+        "9780892133383",
+        "0892133384",
+        "9171494154",
+        "0318371553"
+      ],
+      "publisher": [
+        "Asia Book Corporation of America",
+        "Bhaktivedanta Book Trust"
+      ],
+      "ol_key": "/works/OL8622520W"
+    },
+    {
+      "source": "open_library",
+      "title": "Bhagavad-Gita As It Is",
+      "authors": [
+        "A. C. Bhaktivedanta Swami Srila Prabhupada"
+      ],
+      "year": 1920,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 6,
+      "isbn": [
+        "9780892131235",
+        "9780808100089",
+        "0808100084",
+        "0892131233",
+        "9780892133390",
+        "0892133392"
+      ],
+      "publisher": [
+        "Bhaktivedanta Book Trust",
+        "MacMillan",
+        "Falcon Press Publishing"
+      ],
+      "ol_key": "/works/OL8622543W"
+    },
+    {
+      "source": "open_library",
+      "title": "Bhagavad-Gita as it is",
+      "authors": [
+        "A. C. Bhaktivedanta Swami Srila Prabhupada"
+      ],
+      "year": 2006,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "1845990196",
+        "9781845990190"
+      ],
+      "publisher": [
+        "Intermex Publishing",
+        "Intermex Publishing Ltd"
+      ],
+      "ol_key": "/works/OL9793571W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "10002_20240716",
+      "title": "Copia, eines durch den Grafen von Melford zu Paris an den Grafen von Peth, dess Prinzen von Wallis, Gouverneur zu St. Germain, Geschriebenen Brieffs.",
+      "creator": "Melfort, John Drummond Earl of 1649-1715",
+      "year": 1701,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "JPEG",
+        "JPEG Thumb",
+        "MARC",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "TIFF",
+        "Text PDF",
+        "ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "bhagavad-gita-as-it-is-10",
+      "title": "Bhagavad Gita As It Is ( 10)",
+      "creator": "",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "Metadata",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "trivandrum-yatra",
+      "title": "Trivandrum Yatra",
+      "creator": "Chandan Yatra Das",
+      "year": 2015,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1492864642",
+      "title": "The Bhagavad Gita",
+      "year": 2007,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Eknath Easwaran"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3093382588",
+      "title": "Bhagavad-Gita As It Is",
+      "year": 1975,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "George Thompson",
+        "William Walker Atkinson",
+        "A.C. Bhaktivedanta Swami Prabhup\u0101da"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Bhagavad-Gita As It Is",
+      "authors": [
+        "A. C. Bhaktivedanta Swami Srila Prabhupada"
+      ],
+      "year": 1988,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 3,
+      "isbn": [
+        "9789171494153",
+        "9780318371559",
+        "9780892133383",
+        "0892133384",
+        "9171494154",
+        "0318371553"
+      ],
+      "publisher": [
+        "Asia Book Corporation of America",
+        "Bhaktivedanta Book Trust"
+      ],
+      "ol_key": "/works/OL8622520W"
+    },
+    {
+      "source": "open_library",
+      "title": "Bhagavad-Gita As It Is",
+      "authors": [
+        "A. C. Bhaktivedanta Swami Srila Prabhupada"
+      ],
+      "year": 1920,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 6,
+      "isbn": [
+        "9780892131235",
+        "9780808100089",
+        "0808100084",
+        "0892131233",
+        "9780892133390",
+        "0892133392"
+      ],
+      "publisher": [
+        "Bhaktivedanta Book Trust",
+        "MacMillan",
+        "Falcon Press Publishing"
+      ],
+      "ol_key": "/works/OL8622543W"
+    },
+    {
+      "source": "open_library",
+      "title": "Bhagavad-Gita as it is",
+      "authors": [
+        "A. C. Bhaktivedanta Swami Srila Prabhupada"
+      ],
+      "year": 2006,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "1845990196",
+        "9781845990190"
+      ],
+      "publisher": [
+        "Intermex Publishing",
+        "Intermex Publishing Ltd"
+      ],
+      "ol_key": "/works/OL9793571W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wfl_b10f23",
+      "title": "De volgens eed en plicht verschuldigde achting en eerbied",
+      "creator": "Decker, Cornelis Willem",
+      "year": 1785,
+      "language": "eng",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "Image Container PDF",
+        "Item Tile",
+        "JPEG",
+        "JPEG Thumb",
+        "MARC",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "TIFF",
+        "ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wsb18f23_images",
+      "title": "The morals and manners of the class room",
+      "creator": "Nairne, Charles Murray 1808-1882",
+      "year": 1858,
+      "language": "eng",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "Generic Raw Book Zip",
+        "Image Container PDF",
+        "Item Tile",
+        "JPEG",
+        "JPEG Thumb",
+        "MARC",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "TIFF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wsb12f16_images",
+      "title": "Speech of Richard Fletcher to his constituents, : delivered in Faneuil Hall, Monday, Nov. 6, 1837",
+      "creator": "Fletcher, Richard, 1788-1869",
+      "year": 1837,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "Generic Raw Book Zip",
+        "Item Tile",
+        "JPEG",
+        "JPEG Thumb",
+        "MARC",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "TIFF",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1492864642",
+      "title": "The Bhagavad Gita",
+      "year": 2007,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Eknath Easwaran"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3093382588",
+      "title": "Bhagavad-Gita As It Is",
+      "year": 1975,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "George Thompson",
+        "William Walker Atkinson",
+        "A.C. Bhaktivedanta Swami Prabhup\u0101da"
+      ]
+    }
+  ]
+}

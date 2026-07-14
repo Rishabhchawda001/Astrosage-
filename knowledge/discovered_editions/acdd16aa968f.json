@@ -1,0 +1,170 @@
+{
+  "title": "Hanuman Chalisa",
+  "discovered_at": "2026-07-13T13:15:44.265634+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Hanuman Chalisa",
+      "authors": [
+        "Shubha Vilas"
+      ],
+      "year": 2020,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 2,
+      "isbn": [
+        "9789390183470",
+        "9390183472",
+        "9789354405587",
+        "9354405584"
+      ],
+      "publisher": [
+        "Prakash Book Depot"
+      ],
+      "ol_key": "/works/OL35768865W"
+    },
+    {
+      "source": "open_library",
+      "title": "Hanuman Chalisa",
+      "authors": [
+        "Bhakti Bhav Publishings"
+      ],
+      "year": 2020,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9798666141076"
+      ],
+      "publisher": [
+        "Independently Published"
+      ],
+      "ol_key": "/works/OL30630755W"
+    },
+    {
+      "source": "open_library",
+      "title": "Hanuman Chalisa",
+      "authors": [
+        "Kankan Medhi"
+      ],
+      "year": 2014,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9781502752895",
+        "1502752891"
+      ],
+      "publisher": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "ol_key": "/works/OL41197645W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "dli.ernet.411537",
+      "title": "Satik Hanuman Chalisa Tatha Surya Prarthana",
+      "creator": "",
+      "year": null,
+      "language": "guj",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "my-hanuman-chalisa",
+      "title": "My Hanuman Chalisa",
+      "creator": "Devdutt Pattanaik",
+      "year": 2017,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "m-2497-hanumat-samhita-kavikulguru-kalidas-sanskrit-university-ramtek-collection",
+      "title": "M 2497 Hanumat Samhita Kavikulguru Kalidas Sanskrit University Ramtek Collection",
+      "creator": "Hanuman",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2296584935",
+      "title": "Hanuman Chalisa",
+      "year": 2011,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Charuvi Agrawal"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7111689668",
+      "title": "Hanuman chalisa",
+      "year": 1974,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Kapur, Banvari Lal"
+      ]
+    }
+  ]
+}

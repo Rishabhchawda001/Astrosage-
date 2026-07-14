@@ -1,0 +1,32 @@
+openapi: "3.1.0"
+info:
+  title: AstroSage Citation Service
+  version: "1.0.0"
+  description: Citation tracking and verification API
+paths:
+  /track:
+    post:
+      summary: Track a citation
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                document_id: { type: string }
+                page: { type: integer }
+                text: { type: string }
+      responses:
+        "201":
+          description: Citation tracked
+  /verify/{citation_id}:
+    get:
+      summary: Verify a citation
+      parameters:
+        - name: citation_id
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        "200":
+          description: Verification result

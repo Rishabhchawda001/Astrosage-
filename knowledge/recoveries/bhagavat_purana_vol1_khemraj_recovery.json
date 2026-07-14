@@ -1,0 +1,15 @@
+{
+  "book": "श्री_मद्भागवत_महापुराण_प्रथम_खण्ड",
+  "recovery_date": "2026-07-13T20:21:42.006527",
+  "source": "archive_org",
+  "source_item": "puran_202409",
+  "source_file": "Shrimad Bhagawat Mahapuran Vol 1 - Gita Press Gorakhpur_djvu.txt",
+  "old_chars": 2319566,
+  "new_chars": 2564749,
+  "old_devanagari_pct": 62.91375196911836,
+  "new_devanagari_pct": 79.65970732813858,
+  "old_verses": 4,
+  "new_verses": 23584,
+  "garbled_eliminated": 300002,
+  "backup": "knowledge/silver/structured_documents/श्री_मद्भागवत_महापुराण_प्रथम_खण्ड.md.corrupted_backup"
+}

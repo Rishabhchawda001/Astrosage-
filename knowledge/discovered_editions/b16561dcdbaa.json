@@ -1,0 +1,91 @@
+{
+  "title": "Gayatri Worship",
+  "discovered_at": "2026-07-13T13:13:23.068225+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "gayatri-ki-dainik-sadhana-evam-yagya-paddhati-pandit-shriram-sharma-acharya",
+      "title": "Gayatri Ki Dainik Sadhana evam Yagya Paddhati by Pandit Shriram Sharma Acharya",
+      "creator": "Pandit Shriram Sharma Acharya",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "best-stotra-ratnavali",
+      "title": "Best Stotra Ratnavali",
+      "creator": "raushan",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "EBOOKTHEEXTRAORDINARYSOURCEOFSHAKTIORDIVINEENERGY",
+      "title": "EBOOK THE EXTRAORDINARY SOURCE OF SHAKTI OR DIVINE ENERGY",
+      "creator": "",
+      "year": null,
+      "language": "English",
+      "formats": [
+        "Archive BitTorrent",
+        "Metadata",
+        "Word Document"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2526511541",
+      "title": "Christian Worship: Postcolonial Perspectives",
+      "year": 2012,
+      "is_oa": true,
+      "oa_url": "https://www.exhibit.xavier.edu/theology_faculty/64",
+      "authors": [
+        "Kristine Suna\u2010Koro"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4378575561",
+      "title": "PENGARUH ATRAKSI, AMENITAS, DAN AKSESIBILITAS TERHADAP KEPUASAN PENGUNJUNG DI CAMPING GROUND GAYATRI CITEKO",
+      "year": 2022,
+      "is_oa": true,
+      "oa_url": "https://ejournal.undiksha.ac.id/index.php/JMPP/article/download/51007/23787",
+      "authors": [
+        "Harry Wira Juliano",
+        "Hanifa Fahri",
+        "Prama Hardika"
+      ]
+    }
+  ]
+}

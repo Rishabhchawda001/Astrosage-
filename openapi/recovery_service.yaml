@@ -1,0 +1,31 @@
+openapi: "3.1.0"
+info:
+  title: AstroSage Recovery Service
+  version: "1.0.0"
+  description: Knowledge recovery operations API
+paths:
+  /recover:
+    post:
+      summary: Trigger recovery for a document
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                document_id: { type: string }
+                priority: { type: string, enum: [critical, high, medium, low] }
+      responses:
+        "202":
+          description: Recovery job created
+  /status/{job_id}:
+    get:
+      summary: Get recovery job status
+      parameters:
+        - name: job_id
+          in: path
+          required: true
+          schema: { type: string }
+      responses:
+        "200":
+          description: Job status

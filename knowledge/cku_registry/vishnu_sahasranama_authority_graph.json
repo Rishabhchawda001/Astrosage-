@@ -1,0 +1,45 @@
+{
+  "scripture": "Vishnu Sahasranama",
+  "date": "2026-07-14T09:16:25.324917",
+  "editions": [
+    {
+      "file": "VishnuSahasranama_Sankarabhashya.txt",
+      "publisher": "Shankara",
+      "year": 1900,
+      "authority_score": 80
+    },
+    {
+      "file": "VishnuSahasranama_Shukasudhi.txt",
+      "publisher": "Shuka Sudhi",
+      "year": 1850,
+      "authority_score": 70
+    },
+    {
+      "file": "VishnuSahasranama_Chinmayananda.txt",
+      "publisher": "Chinmayananda",
+      "year": 1980,
+      "authority_score": 50
+    }
+  ],
+  "families": [
+    {
+      "name": "Shankara Bhashya",
+      "editions": [
+        "VishnuSahasranama_Sankarabhashya.txt"
+      ]
+    },
+    {
+      "name": "Shuka Sudhi",
+      "editions": [
+        "VishnuSahasranama_Shukasudhi.txt"
+      ]
+    },
+    {
+      "name": "Chinmayananda",
+      "editions": [
+        "VishnuSahasranama_Chinmayananda.txt"
+      ]
+    }
+  ],
+  "primary_witness": "VishnuSahasranama_Sankarabhashya.txt"
+}

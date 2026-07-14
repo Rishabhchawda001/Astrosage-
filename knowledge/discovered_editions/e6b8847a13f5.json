@@ -1,0 +1,101 @@
+{
+  "title": "Skand puran 6",
+  "discovered_at": "2026-07-13T15:18:16.116108+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "lrdm_skand-puran-kartikmasmahatmyaum-manuscript-lucknow-1917-munshi-lal-naval-kishore",
+      "title": "Skand Puran Kartikmasmahatmyaum Manuscript Lucknow 1917 Munshi Lal Naval Kishore",
+      "creator": "Munshi Lal Naval Kishore",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "doc-20251124-wa-0000.",
+      "title": "Ramopasana Siddhanta (english version)",
+      "creator": "Saryu Das ji maharaj",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "20230416_20230416_1253",
+      "title": "\u0917\u094c\u0930\u0940\u0924\u0928\u094d\u0924\u094d\u0930\u094b\u0915\u094d\u0924 \u090f\u0935\u0902 \u0938\u094d\u0915\u0928\u094d\u0926\u092a\u0941\u0930\u093e\u0923\u094b\u0915\u094d\u0924 \u092d\u093e\u0917\u0935\u0924\u092e\u093e\u0939\u093e\u0924\u094d\u092e\u094d\u092f\u092e\u094d",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4396639696",
+      "title": "Ashwamedha Yagya in Puran",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://dsiij.dsvv.ac.in/index.php/dsiij/article/download/341/246",
+      "authors": [
+        "Manisha Bhardwaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4385892516",
+      "title": "Ganga: A subtle overview of names and glory in Sanskrit literature and the current scenario",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "http://dsiij.dsvv.ac.in/index.php/dsiij/article/download/224/238",
+      "authors": [
+        "Ambika Bhatt",
+        "Purnima Srivastava",
+        "Pavan kumar Yadav"
+      ]
+    }
+  ]
+}

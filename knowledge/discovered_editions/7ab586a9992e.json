@@ -1,0 +1,30 @@
+{
+  "title": "Santoshi Maa Chalisa",
+  "discovered_at": "2026-07-13T14:53:43.359235+00:00",
+  "edition_count": 1,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "santoshichalisa",
+      "title": "Santoshi Challis",
+      "creator": "",
+      "year": 2024,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

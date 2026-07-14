@@ -1,0 +1,8665 @@
+# Vaman Puran
+
+**Document ID:** DOC-EFCC1D4EF405
+**Language:** unknown (unknown)
+**Pages:** 610
+**Class:** scanned_image
+**SHA256:** `efcc1d4ef4057308f32662f29774370364784fcae0e6a829cca858086e343a4f`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+VAMANA PURANA
+
+SANSKRIT TEXT AND ENGLISH TRANSLATION
+WITH AN EXHAUSTIVE INTRODUCTION, NOTES AND INDEX OF VERSES
+
+F- 99
+
+## Page 2
+
+Introduction
+
+According to Manu- ‘‘Vedas are primary source of religion’ (Aa@fiact wy, verse
+2.6), the Puranas, however, are the essence of the religion of Hindu society. Puranas are
+also regarded as the chief source for the detailed explanation of the Vedas. They, therefore,
+occupy a significant place in the ancient literature of India. The Puranas have obtained the
+name of Paricalaksana because their contents generally embrace five topics namely (1)
+Primary creation or cosmogony, (2) secondary creation, (3) genealogy of gods and
+patriarchs, (4) reigns of the Manus, (5) history of the solar and lunar dynasties.
+
+The definition does not however necessarily signify that the Puranas exclusively deal
+with these topics only. On the contrary, every Purana dwells at length on one or more
+particular subjects and in some, these five primary topics occupy a very subordinate
+Position. Puranas are eighteen in numbers. The names of Mahapuranas at the last portion of
+Stimadbhagavata has been given as under-
+
+wre wat done o ve ae wes
+
+ane arradaredt eEceateT
+
+afast garded udhusd wart
+
+anné ureet ahi a genusreafiafe fawen ( streerTad 12.7.232-6)
+
+Vamana Purana is placed at serial number fourteen in the list of eighteen Puranas
+mentioned in various scriptures. But it does not mean that it is of lesser importance than the
+other Puranas. Although, it is smaller in size, yet it has all the constituents of the other
+Puranas. Also its style of treatment of the subject matter is clearer and more analytical than
+
+the style of other Puranas and Up-puranas. One of its special features is the amazing
+variations in the famous ancient stories as related in other Puranas.
+
+Its second special features is that inspite of being known as a Saiva Purana, nowhere the
+importance of Visnu has in anyway been belittled as is the case with some other Puranas. In
+Vamana Purana, both Siva and Visnu have been placed an almost equal footing. Again,
+there is not a single sloka which humiliates Visnu. Some Saiva authors have gone even to
+the extent of stating ‘‘A visit to a shine of Visnu is an insult to Siva.”’ In Vamana Purana,
+on several occasions Siva has gone to Visnu for help and has praised him whole-heartedly.
+
+The Story of Daksa yajiia and Sati -
+
+Of all related in Vamana Purana which vary significantly from the stories as related in
+other Puranas, the story of immolation of Sati attracts special attention. In Siva Purana,
+Ramayana and other Purana scriptures, we are told that Sati had gone to the yajfia
+performed by her father Daksa inspite of not being invited to the ceremony and when she
+did not find the requisite share of offering for Siva, she cursed all those who had attended
+
+## Page 3
+
+iv
+
+such a detestable function and immolated herself then and there. When Siva came to know
+of this, he sent his attendant Virbhadra to avenge her death. Virbhadra reached the venue of
+the yajfia and demolished the whole structure and put an end to the yajfia.
+
+This story has been related in Vamana Purana in a different way. In this Purana it is
+stated that on coming to know about the humiliation of Siva in the yajiia by Daksa, Sati
+immolated herself. Relating the story in Chapter IV entitled ‘‘War between Hari and
+Virbhadra’’, it is sated as under :
+
+“The daughter of Gautama, Jaya had come to Mandracal to pay a visit to Sati. Seeing
+her all alone, Sati asked her- Why her sister Vijaya Jayanti and Aparajita had not come
+along?”’
+
+Jaya replied, ‘“‘They have gone with father to the yajfia being performed by their
+maternal grand-father Daksa. I am also going there. But I considered it worthwhile to visit
+you first. Are you not going there? Is Lord Siva not going there? All Rsis along with their
+consorts have gone there. All gods have also gone there. Has our maternal grandfather not
+invited you?”’
+
+Knowing such neglect and insult of her husband, and that too by her father, Satl was
+greatly angered. She was furious and instantly fell on the ground. Immediately she breathed
+her last at that very spot. Hearing the wailing cries of Jaya, Siva came there. On such tragic
+death of Sati, Siva was very angry. Immediately, he collected a big gang of his disciples
+and sent them to the venue of the yajfia being performed by king Daksa, under the
+command of Virbhadra. He went there, fought with the soldiers of Daksa and destroyed the
+yajiia.””
+
+The Story of burning of Kamadeva -
+
+Similarly, new elements have been incorporated in the story of burning of Kamadeva.
+Traditionally, it is stated as under :
+
+The demon Dvarkasura had vanquished all the Devatas. Later, the gods came to know
+that none else but the son of Siva born of Parvati alone can kill Dvarkasura. They were
+greatly worried as Siva was a celebate. So Indra persuaded Kamadeva to go and fill the
+mind of Siva with amorous feelings and to prompt him to marry Parvati. When Kamadeva
+played his tricks on Siva, he was awfully furious and by activating his third eye, Siva
+reduced Kamadeva to ashes.
+
+However, this incident has been related in Vamana Purana as under :
+
+When Siva was destroying the yajiiasala' of King Daksa, Kamadeva shot his strong,
+passionate and lustful arrows at Siva, he was greatly distressed and in a love-lom state of
+mind he wailed for the company of Sati. When he could no longer tolerate his mental
+torture, he handed over all the three kinds of arrows to Paficalika, the son of Kuber. When
+
+1, The place where the sacrificial offerings are performed.
+
+## Page 4
+
+v
+
+Cupid was about to attach Siva again, Siva was greatly upset and ran here and there in the
+pine forest. There in the forest the wives of Rsis residing there became desirous and
+lustfully ran after Siva. In that serious situation, the Rsis cursed Siva, “May you loose your
+lifga.’’ When the linga of Siva fell apart, it stretched from heaven to the Netherlands.
+Thereupon, both Brahma and Visnu came to that place. They tried to find out the terminal
+ends of Siva’s organ but could not succeed. Thereupon, both of them prayed to Lord Siva
+for mercy. Siva was pleased by their entreaties and said, “If all the gods honour and
+worship this liiga of mine, I can accept this Linga again. Consequently Lord Visnu
+prescribed the worship of Sivalinga for the four Varnas. For this, several new scriptures
+were within advocating such practice and describing the great powers inherent in the
+Sivalinga. The first scriptures was named Saivi, second Pasupata, third Kaladaman and the
+fourth Kapalika.
+
+Siva himself is a great energy centre. He was the son of Vasistha. His disciple
+Bhardvaja was a great Pasupat. He considered ‘‘Gopayan Tapa’’ as of great merit. His
+disciple Someswar was a king. Apastambha was equally great. Kameswar was his disciple.
+Dhanada was also a great devotee whose disciple Aryodara was very powerful. He was a
+Sudra by caste, but was a great ascetic. Thus, Lord Visnu made all the four Varnas and
+persons of all Asramas great devotees of Siva.
+
+After that when Lord Siva had been roaming about in Citravana, Kamadeva again
+prepared himself for another attack on Lord Siva. This time Siva sternly and closely looked
+at him from top to toe. Consequently, he was immediately burnt to ashes. It is stated in
+other scriptures that after this, Kamadeva was declared as ‘Ananga’ or Formless and
+exercised his sway on all living beings. However, it is stated that after being burnt,
+Kamadeva got transformed into five plants namely (1) Drukam Prsta (2) Campaka (3)
+Bakula (4) Patala (5) Jatipuspa. The arrows shot by Kamadeva at Siva were transformed
+into trees of a thousand variety.
+
+In reality, passion is a mental inclination which disturbs the mental poise of man from
+time to time. Statements like ‘Being hit by its arrows’’ can be taken only as a metaphor.
+The poetic allegory of spring season as an accomplice of Kamadeva as present in Vamana
+Purana and ultimately the transformation of Kamadeva into famous fragrant flowers of this
+country have become a beautiful literary composition. Concept of Kamadeva or Cupid is a
+natural extension of the process of creation and emergence of man and this has been
+presented in Indian Puranas and foreign mythologies in different ways.
+
+Description of Geography of India -
+
+Description of the Seven Islands (Sapta Dvipa) is considered as an essential component
+of Pauranic literature. In ancient times, because of the difficulties of transportation, travel
+through the length and breadth of the whole of India was considered as a great
+accomplishment. However, the description of the then existing Saptadvipa as available in
+the scriptures of those days is not true to facts today. It is only in some respects that the
+
+## Page 5
+
+vi
+
+description of Jambidvipa agrees with the present position of Asia. Under such conditions,
+the description of various regions of India and the mountains and rivers therein as given in
+Vamana Purana is very significant. Although many of the names have since changed and
+some may even be fictious, yet the information is greatly useful for the archaeologists.
+
+Presenting a description about the mountains of India, it is stated in Vamana Purana,
+“‘Mahendra, Malaya, Satya, Suktimana, Rksa, Viridhya and Pariyatra - these seven are
+called Kulaparvatas.' In addition to these, there are other thousands of mountain ranges
+including Kolahala, Vaibhraja, Mandara, Durdharacala, Vatadhuma, Vaidyuta, Mainaka,
+Saras, Tunga, Prastha, Nagagiri and Govardhana. Also there are hundreds of other
+mountains like Ujjvamanta, Puspagiri, Arbud, Raivata, Rsyamika, Sagomanta, Citrakita,
+Krtasmar, Sri mountain, Kaukanaka etc.
+
+While giving a description of rivers, it is stated that Sarasvati, Pasyaripa, K4lindi,
+Hiranvati, Satadru, Candrika, Nila, Vitasta, Iravati, Kuha, Madhura, Hararavi, Usira,
+Dhataki, Raks4, Gomati, Dhiitapapa, Bahuya, Drsadvati, Nihsvara, Gandaki, Citra, Kausiki,
+Vadhusara, Sarayi, Salauhitya etc. are the rivers which come down from the Himalaya
+mountains. Apart from these, there are other rivers originating from the mountains as
+Parnasa, Nandini, Pavani, Mahi, Sara, Carmanvati, Lipa, Vidisa, Venumati, Citra,
+Odhavati, Ramya etc.. Pariyasa, Sona river, Mehanadi, Narmada, Sursa, Kriya, Mandakini,
+Dasa, Citrakitta, Daivika, Citrotpala, Tamasa, Kartoya, Pisacika, Pippalasrethi, Vipasa,
+Vanjulati, Satsantaja, Suktiati, Cakrini, Tridiya, Vasu and other streams come down from
+the Rksa mountains. Valguvahini, Siva, Payosni, Nirvindhya, Tapi, Sanisadhavati, Vena,
+Chaitrani, Sintbahu, Kumudvati, Topa, Reva, Mahagauri, Durgandha etc. flow down from
+Vindhyacala. Godavari, Bhimrathi, Krsna, Vaisya, Saridvati, Vigamadri, Supryopa, Kaveri,
+Dugdhoda, Nalini etc. are big rivers which originate from Salya mountain. Kritmala,
+Tabhraparni, Vanjula, Utpalavani, Suni, Sudama etc. come from Suktimana mountain. All
+these rivers are very sacred, beneficent, mother of earth and wives of seas.”’
+
+Later, there is a mention of the various regions of India and the names of races residing
+in them. In the beginning, regions at far away frontiers are described. Kusidra, Kila
+kundala, Pancdlaka, Kausika, Vrka, Saka, Barbar, Kaurava, Kalinga, Banga, Anga etc. are
+the kingdoms. In these kingdoms live various races as Marmaka, Abhira of middle
+countries, Sadhya Dhanaka, Brahmalika, Kaltopada, Aprafya, Sudra, Pallava, Sakhetaka,
+Gandhara, Yavana, Sindhu, Saubir, Bhadraka, Satadrava, Lalithya, Paravata, Samisaka,
+Kadhara, Kaikaiya, Dagana etc. these include people belonging to Ksatriya, Vaisya and
+Sidra castes. Apart from these, there are Kamboja, Darada, Bardar, Aanga Lokika, Vena,
+Tusara, Atriya, Bharadvaja, Prasthala, Daseraka, Lampaka, Ctdika, Alasa, Alibhadra which
+are all reaces of Kirat people. Kirat races one those semi-civilised races which are found it
+central India and Assam. After this is given a long list of kingdoms and kingships and
+Democratic states which are located all over India. Out of these only a few can be identified
+
+1. Mountains which are denoting various races.
+
+## Page 6
+
+vii
+
+from their present names. Still, their comparison with descriptions given in other
+contemporary books sheds sufficient light on the geographical and political conditions in
+those ancient times.
+
+Praises of Moral Conduct -
+
+After describing the religions of all races and divisions, the supreme position has been
+accorded to Moral conduct to which nobody can have any objection. Stating its importance,
+it is emphasised, ‘‘If a person is not morally correct, all yajfias, charities, austerities etc.
+performed by him are of no avail. An immoral person cannot have prosperity or peace
+either in this world or the next world. Morality is a tree whose root is Dharma; whose
+branches are wealth, whose fruits are fulfilment of desires and whose fruits are salvation. In
+this context, the Rsis have prescribed the recitation of ‘‘Mangal Stotra’’ or ‘‘Beneficial
+Hymns’”’ early morning which is very significant. That stotra refers to the sublime elements
+in our vast universe, Indian religions and nation. Every person can draw great inspiration
+from that stotra ‘‘Brahma, Visnu, MaheSa, other Devatds, Sun, Moon, Mars, Mercury,
+Jupiter, Venus, Saturn - these seven beneficient planets, Bhrgu, Vasistha, Kratu, Angira,
+Pulastya, Pulaha, Gautama, Raidhya, Marici, Cyavana and Rbhu - all these Rsis may make
+this morning of mine auspicious. Sanatkumara, Sanak Sanandana, Sanatana, Asuri, Pingala,
+seven original musical notes, seven flavours, seven musical instruments - all these may
+make this morning of mine blissful. This earth full of fragrance, this water full of flavours,
+this air full of sensation, this fire full of energy, this ether full of sound waves - all these
+five great elements may make my morning prosperous. The seven seas, seven mountains,
+seven Rsis, seven Islands and seven regions may make this morning of mine propitious.””
+
+If this stotra is deeply meditated upon, then all matter and energies of this universe get
+fully invoked. If we recite it with devotion and comprehends its meaning, then certainly we
+shall feel one with the Supreme Soul of our universe. Then we shall see none as our
+opponent or enemy. Thus, there can be no better universal prayer. We can even say that this
+stoira is an extension and expansion of whatever we pray for in the Supreme Gayatri
+Mantra.
+
+After that there is description of Indian religions. Then the Vamana Purana has offered
+several prescriptions which are worth our attention even during this age. Actions like
+aimless wandering, giving or donating to the undeserving, destruction of cattle wealth and
+abduction of women etc. do not behove a good householder. Aimless wandering decidedly
+is a blot on character; giving charity to an undeserving person is waste of wealth and
+promotes evil in social life; killing of cattle is a sin whose evil consequences have to be
+suffered in hell; abduction of women leads to degeneration of offsprings and possibility of
+birth of illegitimate children.
+
+The greatest of all sins - Ingratitude
+
+Superstitious persons consider neglect or deviations from traditional commonsality and
+prevalent customs and traditions as the greatest sin. In their opinion speaking ill of others,
+
+## Page 7
+
+viii
+
+back-biting and ingratitude etc. are not vices. But Vamana Purana says, ‘‘In this world one
+who is ungrateful, he is the most vicious person. There are modes of repentance and
+purification for killing of a cow or killing of a brahmin, but those who are ungrateful to
+their benefactors, for them there is no mode of repentance and purification. Such ungrateful
+persons spite the obligations of their friends and relations. For them there is no escape.”’
+
+In this context, a reference has come as to what are the famous products of different
+regions of the world. This discourse is useful from the point of view of general knowledge.
+Also it points to the fact that it is virtue or worth of an object or person which is valued in
+this world. Just as Lord Krsna has stated in the tenth chapter of Gita that all supreme things
+in this universe are manifestations of the splendour of God. Similarly it is stated in Vamana
+Purana :
+
+“Among gods, Lord Janardana is supreme; among mountains Sesadari is tallest; among
+weapons, SudarSana is the most effective; among birds, Garuda is the foremost; among
+snakes, Ananta Nag comes first; among natural planets, earth is the best; among rivers, the
+Ganges is the most sacred; among aquatic plants, Padama is the most beautiful; among
+pilgrimages, Kuruksetra comes first; among lakes, Manasarovar is the most sacred; among
+forests, Naridanvana is the most famous; similarly among moral prescriptions, truthfulness
+is the foremost. Among yajiias, ASvamedha yajfia is the topmost; among ascetics Rsi
+Kumabhaja is the foremost; among scriptures the Vedas are the most holy; among Puranas,
+Matsya Purana is the most popular; among moral codes, Manusmrti is the main code;
+among days that Amavasya is the most sacred on which DarSa yajfia is performed; among
+gods, it is Indra who is the head; among those who adorn energy, Sun is the supreme;
+among satellites, moon is the supreme; among the cereals, Sali Rice is the best; among
+bipeds, the Brahmin and among quadrupeds, lion and cow are the most gracious.
+
+Among flowers, it is Jati flower; among cities, it is Kaficlpuram; among women, it is
+Rambha; and among the four Asramas, Grhastha is the best. Among towns, it is Kusasthali;
+among regions, is the central region; among fruits, it is mango; among tubers, it is Kanda;
+and among diseases, constipation are more significant. Among white products, it is milk;
+among clothes, it is cotton wear; among arts, it is mathematics; among sciences, it is magic;
+among flavours, it is saltish; and among trees, it is Banyan tree which is held supreme.
+Among chaste women, it is Parvati; among cows, it is Kapila; and among rivers, it is
+Vaitarni which are more important. Just as these entities are supreme in their respective
+categories, similarly, among the sinners, the ungrateful heads the list.
+
+Undoubtedly, ungratefulness is a great infirmity and this indicates that the mental state
+of such a person is very depraved. Whoever has done us even a small favour, to remain
+grateful to him is our duty. It costs nothing. On the other hand, it encourages and inspires
+the benevolent person for more such benevolents acts in future. On the other hand an
+ungrateful person is so degraded that in return for the beneficial acts done to him, he does
+not say even a few words of thanks in return. There are even such persons who will not
+hesitate to blame, defame, damage or hit the interests of their benefactors. Thus they plug
+
+## Page 8
+
+ix
+
+the sources of such social service which can benefit many deprived and needy persons.
+Viewed in this light, ungratefulness is a great sin against individuals and society.
+
+It is surprising to see that even animals express their gratitude towards those persons
+who serve them or treat them well and are always prepared to serve their benefactors. On
+the other hand there are human beings who are expected to discriminate between desirable
+and undesirable, but they do not even say a few words of praise or do not return good for
+good. In what category should we place such persons? Surely, they shall be called the most
+degraded and shall deserve the most sever punishment at the hands of God who always
+stands for justice.
+
+Supreme Significance of Self-realisation -
+
+Puranas contain all sorts of knowledge and discourses. On the one hand, they describe
+the benefits of attaining heaven by going on pilgrimage, taking a dip in the holy rivers and
+observing fast on Ekadasi and other auspicious days, on the other hand there are statements
+which hold such rituals as of trivial importance and supreme importance has been given to
+self-realisation alone. There is a Sloka in the scriptures which states, ‘‘Dip in a sacred river
+and visiting pilgrimages is of great spiritual importance only to the people of low
+intelligence. However, for the scholars the divine forces controlling the universe represent
+the Supreme Soul. For the really learned persons, their souls alone is the manifestation of
+the Lord.””
+
+Like other Puranas, Vamana Purana is also full of such ideas as significance of
+pilgrimages, worship of idols of gods, Sivalinga and sacred lakes etc. Attainment of merit
+has been assured through these prescribed rituals. However, while analysing the true nature,
+it is stated-
+
+fa tat cacteitetat water
+tana ferrmerta safer 231
+(Vamana Purana, Chapter 43, Sloka 23)
+
+“‘One whose mind has been concentrated in his Self does not stand in need of visiting
+pilgrimages and Asramas.”’
+
+While explaining the content, the author of the Purina says, ‘‘The Self is like a river
+which passes through the pilgrimages of self-restraint. Truth is water in that river and it
+includes good conduct and tranquillity. One who takes bath in such a river, he becomes
+pure and attains great spiritual merit. From simple water alone Self does not get purified. It
+is the foremost duty of a person to attain equanimity, through self-realisation. The saints
+insist on knowing the Self. He is free from desires by knowing his Self. He alone is a
+Brahmin who is in possession of the wealth of equanimity. He does not need any other
+riches. Observance of moral conduct, sincere behaviour and gradual withdrawal from
+worldly affairs are the duties of a Brahmins.”
+
+## Page 9
+
+x
+
+It has always been stressed in the Puranas that alms should under all circumstances be
+given to a Brahmin who is of high moral character and a true ascetic. But not much need to
+be said about the moral conduct, sense of service, detachment, and the nature of day to day
+life of the priests at the places of pilgrimage. Today, nobody is prepared to support them or
+speak on their behalf. Everybody knows how they testify to the saying of Saint Tulsidasa
+that, ‘‘They mortgage the Vedas and squeeze the religion.’” Vaman Purana says, ‘‘A true
+Brahmin does not covet or crave for worldly riches. On the other hand he considers all
+living beings like his own self and observes truthful behaviour in all matters. In ancient
+times Brahmins were honoured by all and their status was even higher than the status of
+gods. It was because of the fact that their entire devotion was towards the welfare of the
+whole world and they were completely detached from worldly affairs. True Brahmins
+considered it below their dignity to live on alms. Whenever they had to accept alms on.the
+insistence of the kings, they used that wealth for the spread of knowledge, dissemination of
+education and works of public utility. Today they are always busy in extracting the
+maximum from the devotees through fair or foul means and at times even resorting to the
+most degraded methods. Truly religious and artistic Brahmins should exent their most to
+change the situation.
+
+Inspiration for avoiding sinful acts -
+
+One of the components of the Puranas is description of ‘Hell’. Other religions also
+present a pre-picture of ‘‘Hell’’ inflicting punishment to the sinners. There is a mention of
+‘hell’ in Christian scriptures and of ‘‘Dozakh’’ in Islamic scriptures. But to our knowledge
+only these names have been mentioned and there is no detailed description of these
+constructs. But there is a detailed description of twenty one categories of ‘Narakas’! in
+Puranas. There is a very impressive and effective presentation of the types of torturing
+punishments meted out to the sinners. There is no such thing in any other religion. This
+presentation is almost similar in all the Puranas. However, the differences in styles of
+presentation and the richness of language makes a lot of difference in the overall
+effectiveness of presentation. Such presentation if various torturous punishments
+corresponding to various sinful acts as given in Vamana Purana appears to be well
+ingrained in the mind of the common man. It will be pertinent to give an extract of this
+description.
+
+“‘Those who reproach the saintly persons, those who create hurdles in virtuous acts,
+those who discriminate against their friends, and colleagues, they go to hell. Those who
+impelled by greed sell their daughters to successive bidders, they are cut to pieces by the
+lords of hell. Those who torment others by their sarcastic remarks, they are pricked by the
+carnivorous kinds by their sharp beaks. Those who beak bite against good person and speak
+ill of them because of their selfish motives, their tongues are stretched out by the crows.
+Those who indulge in mean behaviour towards their benefactors, they are thrown into
+
+1. Hells.
+
+## Page 10
+
+xi
+
+ditches full of excreta. Those who serve different qualities of food to different people
+sitting in the same row and thus discriminate among equals, are tortured in hell. Those who
+resort to violence against parents, siblings and other respected persons, they are tied with
+hot chains and thrown in the most dreadful hell. Those who eat meat, molten iron is poured
+into their mouth.
+
+“Those who damage or destroy places of public utility like wells, tanks, lakes,
+community halls etc., their skin is peeled off and they are thrown in hell to suffer
+unbearable pain. Those who disfigure or defile places of public utility, their intestines are
+drawn out by crows. Those who neglect their dependents and relations and are busy in self-
+adornment and selfish pursuits, such persons are sent to a special category of hell where a
+person leads the life of a dog. Those who eyes on the trusted property of other persons, they
+are sent to a hell full of scorpions. Those who defile public sources of water are condemned
+to a hell full of filth. Those who molest innocent girls and then force for abortion, they are
+bitten by insects and ants. Those who misrepresent truth and give false evidence in a court
+of law, they fall in hell for ten thousand years.’
+
+These descriptions of hell are a clear warning to those persons who work against the
+interests of other persons and the society and also for those persons who are
+temperamentally inclined towards evil and take pleasure in harming others. It is of no use
+to discuss about the location of such hells whether they are in this world or somewhere else
+or whether they really exist or they are mythical creation of imagination. Only the idle
+persons may indulge in such discussions. We shall only like to emphasise that evil actions,
+bad behaviour and immoral conduct are sure to be adequately penalised in some form or the
+other. One can easily find persons undergoing such sufferings in this world as have been
+described above. Therefore, we must learn this lesson from such descriptions that we
+should avoid evil actions and should be convinced that we shall have to suffer the
+consequences of an actions good as well as evil. This is the law of nature. Retribution is
+sure and certain. It is another matter that the fools or depraved minds may not accept this.
+Thieves, robbers, scoundrels often hastily assert that no one can touch them. But we are
+sure that such actions never lead to happiness. Similarly, those who try to amass wealth
+through deception, fraud, corrupt practices, adulteration, bribes etc., ultimately land in
+misery. They may shamelessly boast of their successes, but there is not the slightest doubt
+that they will have to suffer the consequences of their sinful actions.
+
+Communal Harmony -
+
+As stated in the beginning, communal harmony is the most significant feature of this
+Purana. This is known as Saiva Purana and there are many stories relating to Siva and Sati
+whereas there is no mention of Rama and Krsna. However, along with Siva, Visnu has also
+been greatly adorned for which the neutrality of the author must be praised. When
+Kartikeya, the son of Siva was installed as the head of the army of Devatas, Parvati, the
+mother of Kartikeya asked him to touch the feet of Visnu and seek his blessings. Skanda
+only knew that Mahadeva is the only Lord of this Universe and hence where was the need
+
+## Page 11
+
+xii
+
+to touch the feet of anyone else. He asked his mother, ‘‘who is this Visnu whom I must
+honour in spite of my high status?’’ Then his mother replied—
+
+act frag at teeafrer we vet:
+AT: Wesenfeg Tay 7 BEAN Roll
+(Vamana Purana, Chapter 58, Sloka 10)
+
+“*T do not know much about him. However, your father had said that Lord Visnu is the
+Supreme Lord while all of us are humans.”’ In a way, Brahma, Visnu and MaheSa have been
+stated as three manifestations of the same power. Still since, Visnu is the sustainer of this
+Universe, lord Siva has accorded to him a higher status. This must be accepted as greatness
+of lord Siva.
+
+Similarly, when the Raksasas Canda and Munda came to attack Parvati, the gods asked
+her to wear her armour for the battle, Sati had said, ‘‘I do not see any need to wear the
+armour to fight against these Danavas. I do not consider them of any significance.
+“Hearing this, Lord Siva recited the Visnu Pafijar’’ to protect her. Describing the efficacy
+of ‘Visnu Paiijar’, it is stated-
+
+Wawona fas farmer: wary wareaterant fe tia:
+were gag cleft wea ferdafa amar: nse
+(Vamana Purana, Chapter 19, Sloka 44)
+
+“‘Visnu Pajijar is really very efficacious and among the most important defences for
+protection, It has been greatly praised. One who has the Lord seated in his heart, no one can
+subdue him.””
+
+When Lord Siva was accused of ‘‘Brahma Hatya’’ for destroying the fifth head of
+Brahma and his skull got stuck with the palm of Siva, he went to Lord Visnu to get rid of
+the same and implode him thus : ‘‘O Lord of all Gods, I offer my salutations to you. O rider
+of Garuda, I pay my obeisance to you. O holder of Conch, Discus and Mace, I bow before
+you in all humility you are infinite and absolute. You cannot be known through
+argumentation. You are beyond knowledge and ignorance and you are the first cause of this
+universe. O blissful supreme, you are the eternal Lord. Please accept my adoration. O Lord,
+all this universe has been created by you. O Supreme Soul of this universe, you are the Lord
+of all the worlds. O omnipotent, you are the sustainer of the entire universe. O omniscient,
+you are the Rudra born of wrath. I am bound by the three attributes, while you are
+omnipresent. Therefore, I salute you. O Lord of this Universe, all this universe belongs to
+you. Water, ether, fire, air, intellect, mind etc. are all your manifestations. I bow to you.
+You are the source of Dharma, Sacrifice, Tapa, Truth, Non-violence, Purity, Forgiveness,
+Charity, Mercy, Wealth and Celibacy. The four Vedas are your manifestations. You have
+the knowledge of the six Vedarigas, Upvedas etc. O imperishable, O holder of the Discus, I
+adore you a hundred times. O incarnation in the form of Vamana and Matsya, I take you as
+the supreme ocean of mercy. Please save me from this accusation of killing of a Brahmin.
+
+## Page 12
+
+xiii
+
+Rule out this blemish struck to myself. I am burning because of this blame. O my Lord!
+Please purify me. I beseech you again and again.””
+
+When we compare this presentation with the presentation in Siva Purana, we find a
+world of difference. In Siva Purana, when Sati did not find the offerings for Siva and saw
+Visnu and Brahma present among the assembly of guests, she condemned them and said,
+“O Visnu! Do you not know the nature of Siva? The scriptures declare him free of
+attributes. O stupid, although you had keenfully enlightened in ancient time on the occasion
+of Salva etc., yet you failed to be wiser and accepted your offerings even when you had
+noted that there are no offerings for-Siva - your Lord. O Brahma! Earlier you had been
+antagonistic to Siva because of your vanity and consequently, he had to demolish your fifth
+head. Have you forgotten all that?’
+
+Later when Virbhadra, the chief of the attendants of Lord Siva reached the venue of
+yajfia along with Nara to destroy the same, he abused and scolded Visnu very greatly and
+said, ‘“‘O Visnu! Over possessed by vanity, how have you violated your assurances towards
+Siva given by you to Rsi Dadhici. Are you powerful enough to violate the promises given
+by you to Siva? Who are you? Is there anyone else in the three worlds who can protect
+you? Were you not aware what Sati had done? Had you not heard the commands of
+Dadhici? Have you also come to this dawn yajfia of Daksa to receive the abominable
+offerings. Accept this defiled offering from me. O Visnu! I shall pierce your heart with this
+Trident of mine. I shall throw you on the ground and melt you down. I shall burn you to
+ashes.”” At the end, Virbhadra said- ‘‘O immoral Visnu, O anti-Siva wretch! Are you
+unaware of the pure eminence of Siva?’ This Visnu has been greatly humiliated in Siva
+Purana and he himself is forced to accept his meanness. When Daksa fell at the feet of
+Visnu and requested him to save the yajfia from destruction, he said, ‘‘O stupid Daksa, you
+do not discriminate between good and evil actions. This Virbhadra is the chief of the
+attendants of Siva and has come here to destroy us. Through sheer ignorance, I stayed here
+against my assurances given by me to Lord Siva and I am suffering the consequences of the
+same. O Daksa, it is beyond me to stop this destruction. By transgression of my oath, I have
+also been condemned as anti-Siva. I am suffering because of your misdeeds. An anti-Siva
+person cannot have solace even through the three ages. During this unfavourable time, such
+destruction has occurred and our end is likely to come. We may travel to any part of this
+world or even to Netherland, the weapons of Virbhadra shall overtake us. When Kala
+Bhairava had cut the fifth head of Lord Brahma with his nails on the orders of Lord Siva,
+we had not been able to do anything.
+
+Similarly invectives in various forms are common in the Saiva and Visnu Puranas
+which lead to many bitter conflicts between the two communities in ancient times. Now
+those times are over. However, many followers of the two sects still consider themselves in
+opposite camps and do not cooperate with each other in any religious or social work.
+Sectarian scriptures creating hatred among its adherents for others have a very detrimental
+effect which harms the society and the nation for hundreds of years. From this point of
+
+## Page 13
+
+xiv
+
+view, we can appreciate the harmonising tendencies of Vamana Purana. In this Purana, we
+find praises of Visnu as well as praises of Siva at several places. On the occasion of
+sanctification of Sivalinga at Daruvana, Lord Brahma himself reached there along with all
+the Rsis in the presence of Lord Siva and begging pardon for all his sins said, ‘‘O eternal,
+well-pleasing, adorned with bow, Lord Siva, we offer our salutations to you. O Saviour,
+Lord of whole Universe, all knowing, we always pay our respects to you. You are supreme
+and the foremost among gods. You reside in our hearts and we always salute you. You are
+grievously angry with the sinners - we adorn you O most powerful, you have the trident in
+your hand. At the same time you are benevolent towards the world. All praise to you.”’
+
+Similarly, it is stated at another place. ‘I do not know any other god except Siva having
+the trident in his hand. You are the Lord of this world. Brahma and all other gods exist
+under your patronage. Among all the gods, you are the only one doing or causing to be
+done great acts. All gods enjoy within your pleasure.’’
+
+It is clearly asserted in Vedas and other scriptures that in this universe, there is only one
+divine force and people call him by different names according to their own understanding.
+It is natural to have different names for God in different countries and in different
+languages. However, on account of this difference names of God, it is an indication of
+foolishness and not wisdom to quarrel among themselves or to curse or abuse the God of
+other people. Thus adherents of different sects of Hindu religion should give up such
+misconceptions.
+
+Different versions of the same story -
+
+We have several times explained this fact in the introduction to other Puranas that it is
+futile to assert the truthfulness of these stories or to prove that these stories are historically
+correct in all respects. The authors of Puranas have themselves termed them as ‘legends’
+which means ‘stories’ or ‘tales’. They have created these religious stories to educate the
+common people. they are based on the ancient folk lores. However when the illiterate or
+those who have no literary background, read them they think that every word of these
+scriptures is truthful and all the events mentioned therein are real.
+
+We wish to inform such persons once again that had their presumption been correct, the
+same story would not have been related differently in different Puranas. Even if we do not
+take into account the differences in the nature and purpose of different Puranas, there would
+not be two versions of a story in a Purana based on the same event. Even in Vamana
+Purana, the incident of Siva roaming naked in Daruvana and cursing the Rsis has been
+described differently at two places. Out of these, one appears in chapter six and the other in
+chapter forty-three. We have already stated details of the incident as described in chapter
+six. Hereunder, are given the details of the same event as given in chapter forty-three :-
+“Once Siva along with Uma had been flying through the sky. At that time, Uma saw many
+Rsis engaged in severe penances. She was moved by their plight and said to Lord Siva,
+“These Rsis residing in this Daruvana have to undergo such severe penances just to get
+
+## Page 14
+
+xv
+
+your blessings. Have pity on them. These skeleton-body Rsis have yet not been able to
+attain salvation.’’ The Lord smiled and said, ‘‘You do not yet know fully the spiritual
+aspect of the nature of true religion. All these people do not understand religion and have
+not been able to control their passions. They have not been able to free themselves from
+anger. They are all people of little intelligence.’’
+
+Parvati got very curious to know more about all this. She said ‘‘Please prove whatever
+you have said, ‘‘Siva left Parvati in the mid air and he went to Rsis down below. At that
+time, Siva was young and beautiful but naked and decorated with flowers. With a bowl in
+his hand, he went to the Asrama of Rsis for begging alms. The wives of those theistic Rsis
+came to develop a fancy for Siva and said, ‘‘Let us come and see this beggar.” They got
+some fruits and went near Siva. He very gladly accepted their offerings and said, ‘<All my
+blessings for you. I am an ascetic. May I live in your Asrama.’’ Those ladies said, ‘“‘you are
+such a beautiful ascetic. For what aims are you roaming about naked?” Siva said with a
+smile, ‘‘I cannot reveal the secrets of my pursuits. But one who can know it by himself, he
+should consider himself as a very fortunate person.’’ Those ladies said, ‘We shall do the
+same.” So saying, they got infatuated by passion and embraced Siva. When the Rsis saw
+all this, they got very angry. They picked up sticks and stones and began to hit at the linga
+of Siva. From such an attack, the linga of Siva dropped and Siva disappeared from there.’’
+
+After this, the Rsis were greatly frightened and they went to Brahma. He also rebuked
+them for their involvement in passions and sensitivity to anger. Then all of them went in the
+presence of Siva. Siva said- ‘‘your salvation lies in worshipping that very Linga.’’ Since
+then, worship of the Sivalinga still in vogue.
+
+This very story is related in Skanda Purana. But in that story, there is neither a mention
+of running away of the frightened Kamadeva nor of the curiosity of Uma on the plight of
+the meditating Rsis. In that story, it is stated that on his usual begging rounds, Siva had
+incidentally reached Daruvana and there the wives of Rsis suddenly followed him. In
+another Purana, it is stated that once there was a dispute between Brahma and Visnu as to
+who is of greater importance. At that moment, the divine Sivalinga appeared before them
+all of a sudden. It was decided that whoever could reach the end of that Sivalinga first shall
+be considered as superior. Visnu moved downwards while Brahma travelled upwards. On
+return, Brahma returned first and reported that he had reached the upper end of the Linga
+and in support of his fraudulent claim presented the Pandarus Tree as a witness. It was
+because of this vicious act that the fifth head of Brahma was cut off on the orders of Lord
+Siva and Visnu was declared as superior.
+
+When reader finds different versions of the same story in a Purana, which story should
+be accept as the true story? In the above context, the first story is related to the incident
+when Sati had immolated herself at the time of yajfia by her father Daksa and the second
+story is related to the period when after thousands of years Sati had taken birth in the house
+of Himacala and had married Siva consequent to her penances for thousands of years. In the
+first story, Siva was roaming about in utter grief on account of the tragic death of Sati. In
+
+## Page 15
+
+xvi
+
+the second story he had been moving about along with his consort on a pleasure trip and
+apprising her of the wonderful mysteries of the world. In our opinion, it is irrelevant to seek
+any historicity in any of these stories. These two different stories had perhaps been narrated
+by two different religious preachers at different places and at different times in accordance
+with their personal inclinations and for some reason both the versions got included in the
+same Purana. The writers of these Puranas had no other aim in view except to import
+religious orientation to the common man.
+
+Such different versions of a story are common in other Puranas as well. Every story has
+been narrated in different Puranas in such a way that their different versions do not
+reconcile in any manner. Why only about Puranas, even the events on several occasions as
+described in Valmiki Ramayana and Tulsi Ramayana are not the same.
+
+If we study the Purana critically, the aim of their composition can very clearly be
+comprehended. The present Puranas had not been written by one man and at one time.
+Different preachers had been adding in their own new stories from time to time to the
+already existing texts. This process had been continued by hundreds of preachers for
+hundreds of years in accordance with their peculiar time and circumstances and also their
+own inclinations. All these are religious stories and their content has been drawn from
+either the ancient folk lores or from some performed anecdotes recorded in Vedic
+scriptures. In addition to religious discourses, the writers have incorporated other material
+relating to general knowledge, sciences, arts and crafts etc. Some parts of such material
+could be still relevant and useful.
+
+Character of Bali-Vamana -
+
+This Purana has been named after the story of Raja Bali and Lord Vamana. But that
+forms only a small part of it. In Rgveda and other Vedas, it has been stated that this whole
+world is covered within three footsteps of Lord Visnu. While explaining this statement, a
+brief description has been added in Brahmana scriptures. Thereafter, the writers of Puranas
+through their poetic and literary contributions transformed the references in Brahmana
+scriptures into an impressive story. In this Purana, the description of grandeur of king Bali,
+the praise of his charities and the grand appearance of Lord Vamana, all these look like a
+great literary composition to an ordinary reader. One important feature of the story of king
+Bali is that inspite of being a demon king, he has been presented as a virtuous, well-
+restrained and charitable person. It is said that when he ascended the throne as the king of
+Svargaloka (heaven) after his victory over the gods, there was no vice or sinful act in his
+kingdom and there appeared to be a period of Satyayuga or golden age. The Kaliyuga ran
+away from the world and called on Brahma. He said to Brahma, ‘‘O Lord, king Bali had
+destroyed my natural order. Whatever I am supposed to promote has been completely
+negated by Bali and exactly the opposite is flourishing.’’
+
+Brahm said, ‘‘Bali has not only dismaulted your natural order that he has uprooted the
+natural order of the whole world. See, Indra, Marut, Varuna and others are sitting here.
+
+## Page 16
+
+xvii
+
+Everything of theirs has been snatched away by Bali. Even the sun is loosing his glamour
+on account of the sway of king Bali : ‘“Considering the spirituality, justice, truthfulness and
+valour of Raja Bali, even the goddess Laksmi of the three worlds has approached him and
+said, Previously, I was with Indra. But now you are the most powerful, so I have come to
+you. O supreme among the Danavas, accept me’’ So saying, that Laksmi with the shine of a
+moon got aligned with king Bali. Thereafter all natural, human, supernatural and divine
+powers also moved on to Raja Bali.”’
+
+Charities of king Bali have also been highly praised. When Lord Vamana was about to
+ask for charity from king Bali, the whole world trembled and the effulgence of Danavas
+appeared to wane. Thereupon king Bali asked Rsi Sukracarya, the guru of Danavas, reason
+for such happenings. after meditating ovér the mysterious events, he said, ‘‘O king Bali,
+Lord Vamana is soon coming to your yajiia to ask for charity. He will deprive you of
+everything and give it over to Indra. Therefore, do not promise to give him anything. Only
+say that I have nothing to give.”’
+
+On hearing this, king Bali said, ‘‘O Learned Brahmin, when someone begs me for
+charity, how can I say that I have nothing with me to give him and that too to one who is
+the Lord of this Universe and destroyer of all our sins. What more can be desired in this life
+then that Lord, who is invoked through so many fasts and austerities, himself comes before
+me and asks for charity from me.’’ If that Supreme Lord whose blessings are sought
+through various types of yajfias performed after acquiring such virtues as purity etc.
+presents himself in person before me and says, ‘‘Give me something, I shall consider
+myself as very fortunate. J] must have performed many virtuous deeds and undergone great
+austerities in many previous lives that the Lord is coming to me to accepts the charity
+donated by me. Nothing can be of greater significance that maturation of such virtuous
+deeds.”’
+
+“‘O my learned teacher, how can I say to my Lord who appears at my door that I have
+nothing to give him in charity. I can sacrifice even my life but I can never say that I have
+nothing to give. I feel if in the yajfia, Lord really comes himself and asks me to give
+something, then I have achieved the purpose of this sacrificial oblations. What to speak of
+other things. I can offer even my head to him in charity. Let the Lord say to me, ‘‘Give
+something’’. What else more auspicious can there be? ‘‘I do not have anything to give.’’ I
+have never said so to anyone. How can I say such unbecoming words to the eternal God
+when he himself comes to my house. Even if a calamity befalls while giving alms, a
+courageous person has to bear it. This is surely praiseworthy. There is no unhappy, poor or
+diseased person within my kingdom. There is none who may not be having gold ornaments
+or a house. All this is the result of the seeds of charity. Now if that seed of charity is to be
+placed in the divine bowl of the Supreme Lord, what shall I not be attaining in this life.
+This charity of mine shall be very very special and will please the gods as well. God
+himself is coming here to oblige me by his presence, it shows that as a consequence of this
+yajiia, he has showered his blessings on me.
+
+## Page 17
+
+xviii
+
+Raja Bali was so impatient to give charity to god that he did not want any hindrance in
+this act. But Guru Sukracdrya had been against this because he considered this as a
+conspiracy of gods. Therefore, Raja Bali said to his Guru, ‘‘Sir, when Lord comes here to
+accept charity, please do not say anything which may create obstacle in my offering of
+charity to him. Either you not be present at that time or you keep completely quiet.’’ In
+other Puranas, it has been said that Sukracarya opposed upto the end and to prevent Raja
+Bali from agreeing to give charity and when Raja Bali was about to take water in his palms
+to offer charity, Sukracdrya entered the pick of the pot to obstruct the flow of water from
+the pot to his hands. Coming to know of this, Vamana inserted a blade inside the prick
+which pierced through the eye of Sukracdrya and he became blind of his one eye for the rest
+of his life. But this incident is nowhere mentioned in Vamana Purana. This is another
+example of fanciful additions of events in the already existing stories by the writers of
+subsequent editions of these scriptures.
+
+When Vamana reached the venue of the yajfia and blessed Raja Bali, he offered his
+entire treasures on his own to Lord Vamana. In the story of Raja Harigacandra, Visva Mitra
+had to move very diplomatically to persuade Raja Harisacandra to offer his kingdom to him
+as charity. But in this case, as soon as Lord Vamana reached, Raja Bali said to the Lord,
+“O Lord, I offer to you everything that you desire from all my treasure including gold,
+diamonds, elephants, bullocks, cows, clothes, ornaments, tuskers, land etc. etc.’” However,
+Vamana asked for land measuring three footsteps. The king said, ‘‘Why are you asking
+only for such a small piece of land?’” However, when the occasion for measuring of land
+arose, Lord Vamana extended his size so much that the whole world was covered thereby.
+The entire episode, as narrated in Vamana Purana indicates that it is a story which presents
+the divine form of God through the story of Raja Bali and Lord Vamana. It is stated as
+under :-
+
+“*As soon as water flowed down from the hands of Raja Bali indicating his resolve to
+give charity, Vamana transformed himself from the dwarf form into a gigantic form and
+there appeared his divine form. Sun and moon were his two eye,s heaven was his head, both
+his feet were the earth, the toes of his feet were the demons, the fingers of his hands were
+the demons. The knees of Vamana Deva were the gods Visvedeva, his thighs were Sadhya
+gods, his organs were yajiias, his ideas were the celestial ladies, his vision was planet
+ASega, his hair were the rays of the sun, in all the pores of his skin were seated the Rsis, his
+eight portion represented the tangential directions, his ears were the four straight directions,
+his hearing power was Asvini Kumara, his nose was air, truth resided in his voice and
+Sarasvati was seated there on his tongue. In his neck was mother goddess Aditi, Vasudeva,
+resided in his back. In all his points were Maruta gods. Rudras were present in his chest.
+Oceans were his patience. In his bosom were the Vedas. In his knees was the yajfia.””
+
+This description is not of a physical human body but is of the vast universe. A similar
+description of the cosmic form of God has been detailed by Lord Krsna in chapter XI of
+Gita. It is more reasonable to accept it as a presentation from the knowledge point of view
+
+## Page 18
+
+xix
+
+rather then a presentation of a physical form. Many of such stories in the Puranas have been
+written for the benefit of the common man with a view to make them understand the basic
+elements of cosmology and religion. This is the style of ancient compositions. During those
+days, education was less popular and knowledge about sciences and arts was limited to
+some persons of higher classes only. Common people used to gather knowledge about
+tenets of religion by attending such gatherings where such stories were related. This
+practice is prevalent even today to a great extent in all parts of the country and through such
+gatherings, the uneducated sections of the society acquire knowledge about their religion
+and are able to regulate and discipline their lives to some extent.
+
+We also know that the religious preachers impelled by selfish motives considered
+religious education of the masses as of secondary importance and concentrated more on
+extracting as much money from the devotees as possible. Importance of fasting and
+pilgrimage found a prominent place and in a great measure in the Puranas and people were
+persuaded to give on such occasions as much money as they could.
+
+Vamana Purana is comparatively small and it contains selfish and useless matter to a
+lesser extent. We are confident that people will welcome this new series of the Puranas and
+adopt the useful prescription of Hindu religion so as to make their lives purposeful.
+
+aaa
+
+## Page 19
+
+CONTENTS
+
+Chapter 1
+Dialogue
+Narada
+
+Chapter 2
+
+Story of the birth of Nara and
+description of Destruction
+
+Chapter 3
+
+Dialogue between Hari and Hara
+Chapter 4
+
+War between Hari and Vérabhadra
+Chapter 5
+
+Description of Kala-form of Siva
+
+Chapter 6
+Episode of burning of Kama
+
+Chapter 7
+
+Description of battle of Prahlada
+Chapter 8
+
+Boon offering to Prahlada
+Chapter 9
+
+Description of battle of demons and
+gods
+
+Chapter 10
+
+Victory of Andhaka
+
+Chapter 11
+
+Description of Puskara Dvipa
+Chapter 12
+
+Description of fruits of Karman
+
+between Pulastya and
+
+Chapter 13
+Description of Bhuvana-kosa
+
+Chapter 14
+Description of Teachings of Religion
+
+4
+
+8
+
+13
+
+17
+
+22
+
+30
+
+35
+
+41
+
+45
+
+50
+
+58
+
+62
+
+Chapter 15
+Description of Charcter of Sukesi 73
+Chapter 16
+
+Description of Sleep of Gods &
+Austerities on Dvitiya and Kalatami 77
+
+Chapter 17
+
+Description of the birth of Mahisdsura 82
+Chapter 18
+
+Description of Greatness of Goddess 87
+Chapter 19
+
+Description of the Greatness of
+Goddess 92
+Chapter 20
+
+Killing of Mahisasura 96
+Chapter 21
+
+The story of the birth of Uma 101
+Chapter 22
+
+Glorification of Brahma-saras 106
+Chapter 23
+
+Description of Bali’s Coronation as
+the King of demons 1
+Chapter 24
+
+Vicotry of Bali on gods 112
+Chapter 25
+
+Departure of Kasyapa and gods to
+
+Ksirasagara 115
+Chapter 26
+Eulogy of Narayana by Kasyapa 116
+Chapter 27
+Grant of boon to Aditi by lord Visnu 117
+
+## Page 20
+
+Chapter 28
+Grant of boon to Aditi by lord Visnu 120
+
+Chapter 29
+Condemning and Imparting of Curse
+to Bali
+
+Chapter 30
+
+Eulogy of Vamana by Brahma
+Chapter 31
+Description of
+Vamana and Bali
+
+Chapter 32
+Markandeya eulogises Sarasvati
+
+Chapter 33
+
+Praise of Sarasvati
+
+Chapter 34
+
+Account of the forests, rivers and
+tirthas of Kuruksetra
+
+Chapter 35
+
+Account of various tirthas and forests 143
+
+Chapter 36
+Account of tirthas of Kuruksetra
+
+Chapter 37
+Account of the tirthas of Kuruksetra
+
+Chapter 38
+
+Praise of Siva by Mankanaka
+Chapter 39
+
+Praise of Ausanasa Tirtha
+
+Chapter 40
+
+Account of the Vasitha-apavaha-tirtha
+in Kuruksetra
+
+Chapter 41
+
+Account of Kuruksetra-tirthas and
+Praise of the Praci Sarasvati
+
+Chapter 42
+
+Description of Durga-tirtha and others 165
+
+121
+
+125
+
+of
+129
+
+the characters
+
+136
+
+138
+
+140
+
+147
+
+153
+
+157
+
+160
+
+163
+
+155
+
+xxii
+
+Chapter 43
+Description of Creation and Religion 167
+Chapter 44
+Eulogy of Siva by Gods 174
+Chapter 45
+Description of Sthanu linga 177
+Chapter 46
+Description of various lingas 179
+Chapter 47
+The legend of the king Vena 183
+Chapter 48
+Boon-providing to Vena 196
+Chapter 49
+
+Formation of the Caturmukha-lingas
+and Siva’s eulogy by Brahma
+
+Chapter 50
+Description of Prthidaka-tirtha
+
+Chapter 51
+Conversation
+Batuka
+
+Chapter 52
+Prayer of Gods to Himalaya for
+
+settlement of marriage of Uma with
+Siva 208
+
+198
+202
+
+between Uma and
+203
+
+Chapter 53
+
+The marriage of Parvati and Siva 213
+
+Chapter 54
+
+Birth of Ganega 218
+
+Chapter 55
+The story of Sumbha-Nisumbha and
+slaying of Canda and Munda 223
+
+Chapter 56
+Killing of Rakta-bija, Nisumbha and
+Sumbha 230
+
+## Page 21
+
+Nav sfeTargTeat TA:
+
+SATA TTL,
+
+Chapter 1
+Dialogue between Pulastya and Narada
+araut EReT At Ba ATTA
+Sa wreadi da wat wager
+Jaya (Purana etc.) should be gone over
+when first salute to Narayana, the best man
+
+among all human beings, goddess Sarasvati
+and Vyasa.
+
+acieerennferer aerfegra at adh
+reer Yes Bara RA TTT gH
+
+Lord Visnu, the husband of the goddess of
+wealth, who once disguised himself as a dwarf
+(Vamana) under conceit and thus snatched the
+three-kingdom (the heaven of deities) is
+saluted.
+
+yeni anfergt aq
+ree: UfaES Yeoh ATTA 2
+
+Once the very great scholar hermit Pulastya
+
+was seated at his hermitage. The divine hermit
+
+(Devarsi) Narada asked him the story related
+to the Vamana Purana.
+
+wet wTaaT Ter fawop wafer
+ard ot ye aT Fa BU
+O Brahmana! Please bring to notice the
+query being raised by me to as how Lord
+Visnu had held dwarf body irrespective of his
+being so mighty?
+aa a dunat year were Sere:
+frevtiga argu & derek west
+A doubt on the issue which intended
+Prahlada, the best demon devotee to Lord
+Visnu for fighting against deities, is looming
+large in my mind.
+
+eet & festa cere gfe wih
+gees fren arat ayer araforitny 1
+
+O the great Dvija! It is heard that Sati, the
+most beautiful daughter of Prajapati Daksa,
+was married to Lord Sankara.
+
+famed ar ufrasa wart aera
+ara fanart 78 fret were: g 1
+
+Fe tater ether
+
+wa 8 dered fore wdferd watsfa ton
+
+Why did that beautiful Sati abandon her life
+and was reborn as a daughter to the king
+mountain Himalaya? And she again had
+become wife of lord Mahadeva. I consider
+you duly know the facts of that episode.
+Hence, remove this doubt away from my
+mind.
+
+delat da area arrat da ar
+
+gamit fafaerit @ fafraaea 3 fismcu
+
+O the greatest saint! let me further know the
+importance of holy places and the
+magnificence of donations as well as the
+procedure for observing the number of fasts
+prevalent as contemplated in the scriptures.
+
+Ware ANT Yer UPA: |
+
+Ware aqat set ard aut Fer eu
+
+The greatest orator and chief of hermits
+Pulastya, in reply to the query so raised, began
+to explain to Narada, the great ascetic.
+
+Yes saver
+Wei ant at arnfaftacmnfer:
+waar fat Fen supa YA gol
+Pulastya said- "O great sage! listen
+attentively to Vamana Purana which I will
+
+explain from bottom to top in an orderly
+manner."
+
+We trent tet ere wea
+Bare Ter BT HerenreryUA eT gel
+
+## Page 22
+
+Vamana Purana
+
+Long long ago, goddess Haimvati (Sati)
+said to Mahesvara seated besides her on the
+mountain Mandara on the five entrance of the
+summer season.
+
+ater: watt Serer a a ® ferert FET
+am area AY Ferret are: 11 92H
+
+O the Lord of gods! Summer has entered in
+yet there is lack of a suitable house which
+could enable us to face conveniently the
+stormy wind and the scorching heat, the
+companion of summer.
+
+Wage WaT F VIET areTTTT
+
+Freraisd Galt WarstwaT: YPN Vs
+
+Having heard this very statement, lord
+Sarikara replied- "O beloved with beautiful
+teeth!" I am always homeless and a wanderer
+to the forest."
+
+SEYRET VZV FARBTATY ATTA
+Frermererrrarnt gefor ar atu es
+O Narada, Sati passed the whole summer
+
+under the shade of trees with lord Sankara in
+compliance and under adaptation to the habit
+as explained by him.
+
+Frere aya Fetaraftatsga:t
+
+waren I MTGeARTEHSHAT TART 4 I
+
+An excellent rainy season ensued just after
+the summer was over. It was naturally
+tempting to excessive attachment. All the
+directions were sunk in dark due to the dense
+grip of clouds in the sky and it resisted the
+movement of common people.
+
+4 Bl ean wrecarerqaieny
+Sharer aver Bayt wat aor wan Rg
+Afflicted by the presence of such a scenario
+
+created by that rainy season, Sati, the daughter
+of Daksa, requested Mahadeva courteously.
+
+aqara
+faenfa arat eearaaront
+apie arent wea
+
+eaiha atemerraty fara
+aretiet Serra afer: Vol
+
+O Maheésvara, the winds are blowing in full
+swing, the clouds are thundering, the lightning
+is sparking in the blue clusters of clouds and
+the peacocks are cuckooing.
+
+water are TPT TgAT
+
+wet aetna AT Aaa
+mata aaatagrenrat gar:
+
+gourtir yar GareareRt: 11 Re HI
+
+Torrents lapsed from the sky are falling on
+the earth, heron and stork are racing to and fro
+like the clouds and the trees like Kadamba,'
+Sarja,? Arjuna’ and Ketaki* are dropping their
+flowers down owing to the blowing of the
+strong wind.
+
+grata tere ae ¥ afte
+anit gar wife aerona!
+aera athirron: MART,
+waar Wer Veit
+
+As the recluse abandons the home
+irrespective of its being full of prosperity, the
+swans are leaving shelter of reservoirs
+immediately having heard the dreadful sound
+of clouds thundering.
+
+srr genht at yet
+arta avatar cafe gist
+aersfereT: Yat BART
+we fey wy Aa
+FF agte water get
+rahet BRTeTeUngagH 2 ol
+seqaam: wedta Frm:
+aren: yrengtigerereditent
+Pater attra wafer carpio 2 en
+
+1. Nauclea Cadamba (a tree with orange-coloured
+fragrant blossoms)
+
+2. Vatica Robusta,
+
+Terminalia Arjuna
+
+4. A kind of tree which is small but much branched
+and it has very fragnant flowers.
+
+y
+
+## Page 23
+
+Chapter 1
+
+3
+
+Fee eer age aT:
+
+ter aeat ygeter tet:
+weg facet: Were wT:
+
+Wh: wudtes weracifan 22H
+
+O Sambhi! look at the herd of deer running
+to and fro happily and the skylark is sparkling
+in amazement in these dark clouds. It appears
+from the increased quantum of rain that the
+warriors are walking on the trees so as to
+escape themselves from getting wet.
+
+The rivers are flowing suddenly with
+galloping steps. O Candrasekhara! what scope
+there is for surprise if the wife of a corrupt
+man loses her chastity. The sky is covered by
+the blue clouds, Sarja tree by flowers,
+Kadamba with buds, bilva with fruits, rivers
+with water and reservoirs with the lotus petals.
+
+Bag WET g-RUS EA
+aaret Gay ay F sein
+ye Fea eae
+‘after 8a went vive 31
+O Sankara! In such a strange, intolerable
+and dreadful phase of time, construct a house
+properly on this great and best mountain so
+that I could feel convenient and get rid of
+worry.
+ai Ra: gferemvite
+geen sett arerating arty
+a Aste fant gece
+ wftantqaefes: frau ewii
+watudit yatta: yy
+autstt veer wet fret:
+Rete wa aracreate-
+fétrered qarit ests 241
+Having heard those humble. words from
+Sati, lord Sankara (having tree eyes) replied-
+"O beloved! I have not sufficient wealth to
+
+construct a house. See that I have a mere
+tiger's hide on my body.
+
+O nice lady! King Cobra (the king of
+serpent) is my sacred thread. The two serpents
+ie. Padma and Pingala are my ear-rings and
+Kambala and Dhanafijaya serpents are my
+armlets (Bajiibanda).
+
+arredarand fe agut
+
+WAR Ta TAL TMT
+aAetsht terggerat:
+soi’ wats Yates: 2G
+
+The serpent Asvatara at right and Taksaka
+
+at left wrist are my two bangles (Kangana).
+
+The blue colour serpent (like Nilaiijana) is
+around my waist.
+
+Yeied sara
+fa aera pga Ferit
+sara aqaed sitrereaod sim
+wahraemaer ware erage
+ufiaafa aid creer BOTT 9
+Pulastya said- "Having heard this hard but
+true and impressive yet appearing false
+statement from Mahadeva, Sati was caught in
+the grip of fright. She bent her eyes on earth,
+filled with anger and shame owing to the
+trouble of a lack of residence and began to say
+with a long expiration.
+
+ae fe tata wgcarett afeate
+
+angel feraren B yga aera VI
+
+The goddess said- ‘‘O god of gods
+(Devadeveéa)! how will this rainy season pass
+by living painfully under the shade of a tree?
+Hence, I pray you for the construction of a
+house.””
+
+vient sare
+Brae: NIGER: Waa
+wasgart a aa Frofreatar farrgn een
+
+God Sarikara said- O goddess! you will
+pass this rainy season by placing your body
+above the clouds and this will rescue your
+body from the torrents of heavy water drops.
+
+## Page 24
+
+Vamana Purana
+
+Jad sara
+at SCRIqaTaUS yaa
+weg Tet We CATT
+aaSHETAT TOT
+sitqaeng heat fet fefan gon
+Pulastya said- "Lord Mahadeva then
+climbed upon the uprising cluster of clouds
+with Sati, the daughter of Daksa. He seated
+himself there calmly. Since then, he got
+popularity with the name in heaven as
+Jimitaketi.
+
+fa stare gerermadans aetfert
+WerSeaa: Hg
+
+## Page 25
+
+Vamana Purana
+
+Chapter 2
+
+Story of the birth of Nara and description of
+Destruction
+
+Were sata
+wafers Ta: wean Eafe
+ciearraentt Ta PTAA 8H
+
+Pulastya said- "Thus, the rainy season was
+passed by Mahadeva (trinetra) seated above
+the clouds. Then there began the pleasant
+Sarada (season), O sages!
+
+Pt :
+aaigt agi: aferern
+wan: Bret Fern arrat
+wefaarat Re HEMT:
+
+(On commencement of Sarada) the blue
+clouds abandoned the sky, the herons
+abandoned the shelter of trees and the rivers
+abandoned their banks. Lotus flowers started
+releasing fragrance and the crows left the
+shelter of their nests. The antelope stage
+(Rurumrga) shed their horns and the reservoirs
+got clean and pure water.
+
+faaraarafar a aganht
+arateat ot oat: YW:
+seafe eerate ttepentt
+eter BRNTTTAAAT BI
+
+The lotus started blossoming, pure light
+began to spread everywhere, the creepers bore
+flowers, the cows became healthy and happy
+(owing to abundant grass) and the gentlemen
+got contentment.
+
+AQ VN TF TT
+wenger wa waifal
+ani a fend fe fami ge: ad
+Seer ART ITERATE TT: 1
+The lotus in ponds, the stars in the sky, the
+water in the reservoirs, the directions and the
+
+heart of gentlemen as also the moonlight
+became all clean and holy.
+
+WH a: are Tansy
+
+eaters vers Wet wart Gt
+
+At this all-pleasing atmosphere, lord
+Sankara came down from his seat above the
+
+clouds and with Sati, he descended on the
+great Mandara mountain.
+
+at waryBsat fear: wafgrenact
+Tom saphrarcer Fe Tareas gu
+
+He then engrossed himself in coition with
+
+Sati on a plane boulder at Mandaracala
+mountain.
+
+. aa cadet ents ita a Syren
+
+ae: TaOPT APART BYTN t1
+
+When the Sarada (the season) was over and
+lord Kesgava (Visnu) awakened, Prajapati
+Daksa commenced yajjia (the offering).
+
+wave a afeaoardia gi
+
+PHVA UAT TTN 6
+
+He duly invited twelve Adityas and
+Kasyapa etc., sages along with Indra etc.,
+eminent gods and made them participants to
+the yajiia so arranged.
+
+TRA T fet ates vifaraTy
+
+weST ash a we ger a alfereaq ei
+
+aera tied a aE
+
+aa Ufed TarghraigTa TAM oll
+
+## Page 26
+
+Chapter 2
+
+SUPA Ararat: WeeIageifor
+
+ARAYA TAT ACAST RATTAN 82
+
+O Brahmins! he thus, invited Arundhati
+with great resolute Vasistha, Anusiiya with
+Atri, Dhrti with Kansika, Ahalya with
+Gautama, Amaya with Bharadvaja and Candra
+with Angira for participating in that yajiia.
+Daksa, after due invitation, nominated to that
+yajfia all hermits as members who were
+meritorious, learned and conversant with the
+Vedas and all their parts.
+
+et a a age wdansheaar Fel
+Farrar BATS RT ACTEM NTN BI
+
+He invited Dharma with his wife Ahirnsa
+
+and appointed him as gatekeeper to the
+pavilion of that yajiia.
+
+afeafirt a gerecranftory
+
+Wy a aa Wea: ARAN Bw
+
+wa aga aa fever ated yf
+
+SAT a gacanies areas eG It
+
+Daksa assigned Aristanemi to the work of
+
+collecting the required fuel (Samidha) for
+yajfia and appointed with due procedure,
+
+Bhrgu for the work of processing hymn
+(Mantra Sarhskara).
+
+And Prajapati Daksa appointed Candra with
+his wife Rohini as treasurer to that project.
+
+wmnggtedia dtfeaier warafa::
+
+aegt wet Yaa WS Tala ge 1
+
+Prajapati invited all his son-in-laws,
+daughters and their children (Dauhitras)
+except Sati and Sankara in that yajiia.
+ARG sara
+
+feared citenafert creat wea:
+
+Bay: Set afwatshe anetishe + Fafa: yon
+
+Narada said- "Why did Daksa, the
+Prajapati, not invited Mahesvara in spite of
+being his senior, superior, principal, prime
+(Adya) and treasurer?"
+
+Yee sara
+wae: Ist ats aneitsfe wrranfsesa:1
+wmureitter faterereit edtor 3 Frafaan gen
+
+Pulastya replied- "He considered him a
+native of cremation ground (Kapali) in spite of
+being his senior, superior, principal, prime and
+treasurer. Hence, he did not invite him."
+ang sarq
+
+fand ante: yerafintercte: |
+weureht erate: SO AT MRT Rea
+
+The great god Narada said- "Why and
+owing to which act, did lord Sankara, three
+
+eyed and trident holder become Kapili (native
+of cremation ground)?
+
+Yeea sara
+srysrafedt yar aartat gre
+Sharafaqitg seroMseTAAAATH 3 0 I
+
+Pulastya said- "Listen carefully to an
+ancient story being now told by me and which
+had been once told by lord Brahma, an
+intangible god and as contemplated in
+Adipurana."
+
+qa anid ad sory rae
+FEATS METATAN 2 RI
+soreinfag srararafaatstay
+Fromradare aay Beer 2H
+
+In the very distant past, this entire universe
+with its movable and immovable properties
+was only an ocean. There were nowhere any
+stars like the moon, the sun, all planets, wind
+and fire-like illuminating substances. The state
+of the then world was unknown, inaccessible
+to imagination and without presence or
+absence of anything. All mountains and trees
+were in the belly of the ocean and the entire
+universe was surrounded by darkness and in a
+pathetic condition.
+
+afare a wrenfast ateefear
+TARA Bae Sara TATA SH
+
+## Page 27
+
+Vamana Purana
+
+Lord Visnu sleeps for several thousand
+years in that oceanic stage of universe and he
+creates all worlds (lokas) under his Rajas
+formation when that prolong night is over.
+
+THE: Wyatt AeaaTFATTT:|
+
+SBT TMT TAS GATSMA VV
+
+His Rajas form was the creator of this
+universe with its movable and immovable
+properties; it was strange in look, having its
+five mouths and it was fully conversant with
+the Vedas and their parts.
+
+wirretara: ayaa:
+wera: af a serrett a ayia 2401
+Similarly, one more Purusa (man) was bom
+at that time. He was with Tamas property,
+three-eyed, trident holder, leaper (kapardi) and
+a garland of Rudraksa was around his neck.
+at maT MITAKAT YaTHATY|
+Farag Sat area serpent 26 0
+The supreme soul (Paramatma) then
+
+originated the fierce ego which gripped
+Brahma and Sankara, both the gods.
+
+aeerigat wa: Weare frarey
+
+at wane Gore: St YBISA At aan oN
+
+Sankara under the intoxication of ego said
+to Brahma- "Who are you to come to this
+place? Tell me who has created you?”
+
+fraregisergenrt weqarart St war
+
+weet Tas: BST TT aT AGETATTN VC
+
+Brahma too replied with ego- "First tell me
+who you are and who your parents are?"
+
+serait yo aati germeai afer fra
+uftaraiswarna safaris war 28 it
+wararatia fe sramarercterre
+arcraget att qefencrfenereatr 3 011
+O Narada, loved by Kali! thus, a dispute
+was arisen between lord Brahma and Sankara
+in the distant past. You yourself were also
+
+born there. You also moved to the sky (space)
+above immediately after birth. An excellent
+
+lyre was in your hands and a tremulous voice
+played on your lips.
+ad fafafia: siqaifen wert
+meeraergat St wesarat we ereitu 3 gt
+Lord Brahma (born from the lotus) then
+defeated Sarikara (the administrator of loka).
+He therefore put his head facing the ground
+like a frightened moon.
+
+waft citeudt 2a wef
+
+warranted eh Vat Para 3 2
+
+arg 3 waranty wing facitern
+
+ferarar qaaredt crearratl war 3 311
+
+The fifth mouth of Lord Brahma
+
+subsequent to the defeat he had given to
+Sankara, burning in excess fury, said- O three-
+eyed and with Tamah property Purusa! I am
+familiar to you. You are naked (Digambara),
+
+Vrsarohi (bull rider) and destroyer of this
+entire universe.
+
+Sqm: Mt: Fal aed area
+Fredgerrcatret cat erat: 11 3 stl
+
+As a reaction to that very statement, lord
+Sarikara opened his third fierce eye with the
+intention to burn into ashes Lord Brahma. He
+thus stared at his fifth mouth.
+
+wafer wyatt
+aanfin ware geshah
+ad a th eran
+et cen fagee o YN GH
+Then there had arisen five mouths (heads)
+to lord Sankara. One was of white, the other
+
+red, golden, blue and yellow colour
+respectively.
+
+aeatfin episcramntt war:
+
+tar aeayara are
+TATA AA FLAT
+
+wafer far Ay wereneitsfer gg
+
+Having seen the automatic origin of the five
+heads with sun splendour, the fifth head of
+
+## Page 28
+
+Chapter 2
+
+7
+
+Brahma said- "Bubbles naturally arise due to
+force of stream in water but void from the
+valour and meaningless?"
+
+TFT AT AT MTT ARTA
+warn ferfeod aret verarferqu 301
+Having heard such harsh words, lord
+Sankara cut that head of Brahma off by a hard
+blow of nail.
+
+ahead vigteaa wal HASTA
+Waa A wether MeTATHTARTT | CH
+The head so cut-off fell on the left palm of
+
+Lord Safikara, It was stuck there and could not
+be removed.
+
+we BETA Terons AHO
+
+BEY Fer starsat queett wigan
+
+equnfintgrangatorerftneisera: |
+
+agyat werguit enferranasta: iyo
+
+Lord Brahma in a fantasy of anger then
+created something phenomenal. It was the
+origin of a wiseman (Purusa) duly equipped
+with kavaca kundala (shield) and arrows. He
+was an archer, long armed, mighty, avyaya
+(robust), four-armed and a great bowman. His
+aura was shining like the sun.
+
+aw mes oa mM at Blea
+TarITTEH: wifes at faratafe xs gn
+He said- "O wicked Sankara! I will not kill
+you if you leave this place at once. You are an
+evildoer and who will make his hands dirty by
+killing a sinner like you?
+Sq: META FeO TeTeHT
+AURA TTT Bal TaN BN
+As a response to the statement, Rudra
+ashamed left that place immediately for
+Badrikasrama.
+TATU weet fe fer
+Treat aa quot ered Aah aA x3
+a Weal BF QB ATANTaTe ZI
+feet wees errarrerearenforantsta Aue e
+
+So call Badrikasrama is situated at great
+Himalaya where Nara-Narayana reside and
+the greatest river Sarasvati flows there.
+Having approached there and found Nara-
+Narayana, lord Sankara said- "O lord! I am
+Mahakapalika. Please give me alms."
+
+samt nigng we aeanadiq
+wed Spt Tea FE WATS GI
+The son of Dharma (Narayana) replied- "O
+
+Mahesvara! Give a blow with the trident to
+my left arm.
+
+ARO: sat faryert fatter:
+Wed ARTIS ATSATATA ATA YG Ht
+
+_ In compliance with these words, lord
+Sankara hit hard on the left arm of Narayana
+with the trident.
+
+fayenfrerrarnifret art fatty:
+
+Went TTA feet aTafrafegan viet!
+facta uct at sare eater: |
+afrerairagaggt gatar: ygtignt:i sci
+
+Three streams emanated from the points
+made by the trident at the arm of Narayana.
+One = stream accessed upward = and
+accompanied with the galaxy in the sky. The
+other fell down to the earth and was
+entertained by the great ascetic Atri. Being it
+the ray of Safikara, it gave birth to Durvasa.
+
+FART AIT weuTet a Ety cf]
+weneay: WaMagRae Yar seit
+The third stream was dropped on a dreadful
+skull (Kapala) and a baby got its birth
+therefrom. He immediately turned into a
+young-chap of dark-complexion equipped
+with a shield, bow and arrows.
+vara: wearranfer-
+Rien wale araetsat
+se genes fererenta
+eeafeatenctact aan 4 ot
+
+As the clouds thunder during rainy season,
+such was the dreadful voice of that young-
+
+## Page 29
+
+Vamana Purana
+
+chap. He was saying- "Who is to be beheaded
+by me like the fruit of Tala?"
+
+a ygisaea ad ane
+
+ai fe arrearage
+Froast at guar
+
+ener yeorTEATETAN 4 BN
+
+Lord Sankara approached the man so born
+from the arm of Sri Narayana and said- "O
+Nara! Kill this man originated by Brahma,
+harsh in tongue but glowing with the light ofa
+hundred suns simultaneously."
+
+eae: Wy M_UT
+
+ate aqeanrrd wiry
+sere ont aensarenfor
+
+gare at: 8 aft ser 4 2
+
+In compliance with the order so given, that
+warrior picked-up his bow known as Adya
+Ajagava and Tunira and decided to battle.
+
+Wa: WYSt Qysi Aeracit
+Tenet agra yd:
+wat eiseter faces 3
+
+The son originated by Brahma and the
+Sarikara-purusa so originated from the arm of
+Narayana thus, fought a fierce battle as long
+as many thousand divine years lapsed. Sri
+Sankara then approached lord Brahma and
+said-
+
+tr Rromgrenton wth
+Tergarcftraes afsa-
+wagi de feet aang sn
+
+O Pitamaha! It is really surprising that
+Nara, an excellent warrior has defeated your
+purusa as a result of giving blows with his
+great arrows spread at the time of the battle
+around the ten directions.
+
+Fen Tig set aay
+Jere warrafarres yivt
+
+waa: dese wadtat
+Fa Tea: TRA TAT GG
+
+Brahma said that Isa- "This undefeated
+(Ajita) purusa has not been born here for
+enduring defeat from others. If it is essential to
+declare one defeated, your Nara is the man
+who actually is defeated. The Purusa created
+by me is the greater warrior.
+
+seraget set Fra:
+fade wi yer facta:
+at reeda wat a fare
+faara einrera fay gn
+_ As a reaction to that statement, lord
+Sankara threw the Purusa created by Brahma
+
+in the sun's orbit and threw that Nara in the
+body of Dharmaputra Nara.
+
+ofa atarrrgant gerraradiany eretfert
+sateafererat are fgeitettseara: 1 2
+
+## Page 30
+
+Vamana Purana
+
+Chapter 3
+
+Dialogue between Hari and Hara
+
+Yeret Bara
+Aa: BAT BR: HUTeT Treat Fer
+
+Marrerrregeifsirans spear RU
+
+Pulastya said- "O Brahmins! As the
+dreadful skull (head) was stuck to the palm of
+lord Sankara, he fell in the grip of anxiety and
+gloom. It caused severe grief to him.
+
+aa: ara at ArersTETTT
+‘dean sit vere ear IH
+
+Then Brahmahatya (sin of Brahmana's
+murder) came near lord Sankara. She was of a
+complexion like a cluster of Nilanjana; her
+hair were of red colour; she was in creeping
+gesture and dreadful.
+
+ATAPTaT Bt GET UTES faeufering
+atta ranean OX Sareea Tea 31
+Having seen that dreadful figure, lord
+Sarikara asked- "O dreadful lady! Tell me who
+
+you are and for what purpose you have come
+here?"
+
+## Page 31
+
+Chapter 3
+
+eruferrmaara serra Yareom
+weeenster dare at wites facie wi
+That dreadful Brahmahaty4 replied- "O
+
+Trilocana! Accept me. I am Brahmahatya
+come to you."
+
+Saya ae TereeN factor TY
+Freerantort ex drenftaferrer 4 1
+With these words, Brahmahatyad entered
+
+into the body of Rudra who was already
+suffering from anxiety.
+
+Tererntinges val aeftarry
+
+arresat capi TATU & It
+
+Bearing so heavy a burden of Brahmahatya,
+lord Sankara returned to Badrikasrama but he
+did not see there the saints ie. Nara and
+Narayana.
+
+sagt tied ferargtarantard:)
+STH TAT Sag IST YeRTesHAT 91
+
+His pain was aggravated when he could not
+find both the saints. In the vagary of sheer
+agony and worry, he approached river
+Yamuna but her water was dried up when he
+got down for a bath.
+
+aiferdl yenaferet fritter gaa:
+AT SIGUA FA ATM CI
+Having seen Yamuna with no water, he
+went to Plaksaja (Sarasvatt) for bath but as he
+
+could enter in its water, she vanished from
+there.
+
+matsqyeRTd AeaTCa yg a
+Srrarvatraret Wear Sat BATA gt
+
+He then visited Puskararanya,
+Magadharanya and Saindhavaranya and took
+a bath frequently to the extent desired by him.
+
+wae Faftrarcodt eats aba:
+ert ta a ar at were SAGETA Yon
+
+He similarly, took a bath in Naimisaranya
+and Dharmaranya also but could not be escape
+from the tight grip of that fierce Brahmahatya.
+
+afirg alg wassatg
+quay farang eds!
+wargat arrgatst wer
+BraTa Thal aeteearstts ati eeu
+In spite of his (Sankara) being a Yogi and a
+number of pilgrimages he made, he took a dip
+in the sacred rivers, visited a number of
+
+hermitages and temples, yet he could not get-
+tid-of the evil so stuck to him.
+
+aa some Pifaoor: gt: FEET
+
+aa Te capri eenurfoT ar gz
+
+Aggrieved at the failure of all his efforts for
+regrettable, lord Sankara ultimately visited
+Kurujangala. He saw there lord Visnu (the
+rider on eagle and a discus in his hand).
+
+F EBT Yustanet ygacreere
+grrgfergel yea Bt: BHATT 831
+Having seen with his eyes Pundarikaksa
+
+(Sri Narayana) with conch, discus and mace in
+his hands, he began to pray him.
+
+a sara
+FH SAAT TRA TEST
+VGA ayes TSE A gxI!
+
+Sankara prayed- "O the king of gods! I
+salute you. O rider on Garuda! Accept my
+salute, O Vasudeva with conch, discus and
+mace in your hands! I salute you."
+
+sae frforrea smmaeata aera
+arbres Patera AAtsey Tt VU
+
+Salute to everlasting, beyond three
+properties, inaccessible to imagination, the
+creator. Salute to the former of knowledge and
+ignorance, without any support and support to
+all creatures.
+
+wigs Tresy Teg war
+
+ram Waa Aa STAT ATTN 2 I
+
+Salute to god with Rajas, immortal and
+Brahma in itself. O lord! You have created
+this entire universe with both movable and
+immovable properties.
+
+## Page 32
+
+10
+
+Vamana Purana
+
+wenfafiacitcam fampyd seern
+MATIC AETATST SATE THISEY AU out
+Salute to the resort of Sattva property, the
+god of world, the formation as Visnu,
+destroyer of sins, god of defending, most
+chivalrous and Janardana.
+
+mange org Be aera: |
+qonfirgen Sayr acdoafeanisey” Fn ge
+
+O image of Tama! I am originated from the
+anger a particle of your entity. Salute to
+omnipresent, god of gods and all meritorious.
+
+ofa a sete semagarrs: |
+arggfarantt: watt ci aatseg Tn eeu
+
+Salute to the ruler of this universe existing
+in the varied forms like the earth, water, ether,
+fire, wind, wisdom, mind and the night.
+
+eat agent: wemafeer viterarstery
+
+aan ert car mrtiigeret eat 2 ot!
+
+O god! You are religion (Dharma),
+austerity, truth, non-violence, __ purity,
+
+simplicity, forgiveness, generosity, kindness,
+wealth and celibacy in yourself.
+
+wa Ug agit dered Fat Aquet:1
+
+saael wari washer at THIS AN
+
+O god! You are the four Vedas with their
+parts (angas), you are the physician (Vaidya)
+and the best known to Vedas’ essence. You
+are Upaveda (scriptures) and everything you
+are. I salute you.
+
+sat TRAST aEHTTAT
+aaisey a area ai
+ites warcnrefirent wat &
+
+ARS Ut Byres UTTAR VI
+Salute to Acyuta, Cakrapani, frequently.
+Salute to fish-form Madhava. I consider you
+to be kind to the world. O Kegava! Absolve
+me from the bondage of evils.
+Tay are farses
+Tages aya
+
+wehsfen aeiseereniereartt
+Witte aettsfa vat ara a
+
+Destroy the evils entered into my body as a
+result of the murder of the Brahmana
+committed by me. Owing to the act performed
+deliberately, I have burnt and destroyed
+myself in the fire of anxiety. You are holy and
+hence bless me with the reward of purity. I
+salute you frequently.
+
+Yared Sart
+Bel GMT: VISTO WETS
+Ware wrararet sereearers feu 2st
+Pulastya said- "At the prayer so submitted
+by Lord Sankara, Lord Visnu suggested for
+the repentance of Brahmana's murder in
+following words-
+
+efteara
+
+TRA EM WH ard wer
+weet yet yore irq e411
+
+Hari said- "O Mahesvara! Listen to my
+suggestion effacing the dire impact of the
+
+murder of the Brahmana,; it is ear pleasing and
+enhances the noble deeds."
+
+atset uguset yous weymaaisora:|
+
+wart sae Pret areryrettfet ferege: 2g 0
+
+The holy Prayaga falling in the district of
+Pranga wherein resides an imperishable
+Purusa Yogasayi by name and has been bom
+with my own ray.
+
+eurrefaroreren fatratar afte
+fage aie ada Yum ot
+The renowned river Varana has emanated
+
+from his right foot and it is holy as also
+competent to absolve one from all evils.
+
+wereen farttare srdifiera faq
+Bt g afte cienget ayag:n ci
+
+Another renowned river Asi has emanated
+from his left foot. Both these rivers are
+considered most holy in this universe.
+
+## Page 33
+
+Chapter 3
+
+VW
+
+aneat wet g at Serenata arent:
+
+Setreanet ate adore 331
+
+The territory lying between the above-said
+rivers is the region of that Yogasayi. It is the
+greatest in the three-worlds and is a holy place
+that absolves one from all evils. No other holy
+place analogous to it has existed in ether, earth
+and the nether world.
+
+a arqyistet wrt a ya T Tae
+
+vonfer ATH quar Gam arora BT
+
+meat fe sifetsdter wera waa HAN Ot
+
+O god! There exists the renowned city of
+Varanasi. It is so sacred that the people
+indulging in worldly affairs too attain the
+position as you yourself bear.
+
+faerie wart
+
+gfratatenggarm
+Ufrard eat Frere
+erence: Bie Bey E eT: 1 3 wl
+
+The echo of Vedas recited by the great
+Brahmins is mixed with the voice of luxury
+enjoying people and thus the resultant
+blending beholds all benevolent voices
+
+altogether. The preceptors administer with
+humour the voice so heard by them.
+
+sary aifieg ageg
+Weraerarefareht sgt
+
+aat wet frerata aati
+feaeaereraT TAT 3 2
+
+The moon is confused at the movement of
+terrestrial lily when it looks at the red smeared
+feet of the women who stroll in the round
+abouts,
+
+Gaia wet gear
+wat ag oritqagi
+fearsfa yl verregqenfiy-
+alfa quenferent: 113 au
+
+The temples are built of so great a height
+that the moon finds hurdle for its movement at
+
+night and the flags on their tombs are so large
+as their unfurling through the wind strokes
+which makes the beams of sunlight in the day
+vanish.
+
+aR aeat wigan
+weirarret: sfafattaags
+areas atfafereTTER-
+wigdarta a qorarrag 3 xi
+
+The paintings on women in Varanasi when
+they spread their reflection of face on the
+walls studded with Candrakantamani fascinate
+the bees to the extent that they forget to go to
+the flowers.
+
+ufemantt wafrag
+ay data
+. —
+a ety vist yedtitergn 341
+And, O Sambhi! Only in Varanasi and not
+in any another place, the people indulging in
+the enchanting activities and the women
+gathered for swimming (Jalakridd) in the
+ponds made in every home fight mutual
+competition.
+
+7 aa afreraeatir
+ents vist Tea ASAT
+A Sacra ATA WTR
+wilt wet Gea fe Yara gg
+Besides Pasa (dice used for gambling)
+where the houses of others are free to act
+voluntarily and where no person does any
+forcible valour with the women except at the
+
+appropriate time for courtship (such is
+Varanasi).
+Trpafanisrgiat errdet Wega
+wea armel Yat aftort atari 30
+There takes place Pagagranthi in controlling
+the elephants, Danaccheda in their discharge
+
+of intoxication and Mana and Mada at the
+time of youth commenced in male elephants.
+
+## Page 34
+
+12
+
+Vamana Purana
+
+frrerater: wet weet aatfgrent AAT aT:
+ARMMseeia ma qeegiifain 3c
+
+O god! Only owls are found favouring the
+night (evils/deficiencies) nobody else does so.
+The people there are noble and if evils (not to
+set in earth) are found there, only these exist
+with the galaxy. Nowhere is misconduct found
+there except in prose (breach of rhyme).
+
+afagen facnfaad ysrraftenttr:1
+erayfaaces wai ratte gt eH
+
+O Sakara! The spotive women having
+attraction of their bhiti' are found there
+surrounded by bhujanigas” and their bodies are
+decorated with the ornament Candra like you.
+(The term Bhiti is for ‘ash’ and ‘wealth’,
+Bhujanga for 'serpent’ and ‘debauchery’ and
+Candra for 'moon' and an ornament is used
+herein).
+
+Sqerat Geet arora wer
+aad wrateciit: TeaTTET Tai ¥ ont
+
+O Suresana! In the great hermitage of
+Varanasi endowed with such salient features,
+god sun (Ravi) resides. He absolves the
+creatures from all evils.
+
+arrate walks Way aa Sera:
+
+Wa Tea YS UTTAR ¥ RII
+
+O the greatest god! You will be absolved
+from all evils when you see Kegava my own
+
+ray bom at the place known as
+Dasasvamedha.
+
+selena TEST
+qreasret fercer wore
+arama Srgeel aes at
+aero referrer ¥ 21
+The bull-rider (Vrsadhvaja) at the
+suggestion so given by the rider of Garuda
+(Visnu) travelled as fast as an eagle (Garuda)
+to Varanasi for getting release of the evil after
+duly saluting him.
+
+1. Prosperity
+2. Paramours..
+
+Treat qyat are} yeitat
+GBI a cite a cet
+arent & diely faqeare:
+7 Syd SEQUIN s3 1
+He first went to Dasasvamedha, saw god
+hola, bathed in all holy places and thus he
+absolved himself from the evil in that holiest
+city. He then walked to see lord KeSava.
+faye yigt apr wftretauarcitq
+TATTTTSM TACT aI TAT YY
+He bowed before Kegava and said- "O
+Hrsikesa! The evil of Brahmana's murder with
+your grace has now been absolved.
+34 aurei Zaye wat Vtgehe
+werut Sf a a aaa agra watt
+(Yet) O Kegava! This head is still stuck to
+
+my palm and I am unable to understand the
+reason behind it. You only can highlight it.
+
+qos sart
+WeRaaa: sear tyra arergaty
+fae arat ey ara aerenft Awe
+Pulastya said- Having heard Mahadeva,
+KeSava replied- "O Rudra! I tell you the
+reasons lying behind all this."
+aiset wari feet ge: vatereta:1
+wa didar: yoat eprardyfart: 1 win!
+The divine pond with lotus flowers
+blossomed in front of me is sacred and a very
+
+holy place. It is worshipped by the gods and
+the Gandharvas.
+
+Wiferrat def ert wit war
+
+Sree area auret afeteafen we 1
+
+O Sambhu! Take a dip in this holiest pond.
+This head shall abandon your palm just when
+you take a dip in this pond.
+
+aa: are aes a wait eq afeeafar
+
+arene ate ae aerate et
+
+With this event O Rudra! You will gain
+popularity as Kapali and this place too shall be
+popularly known as Kapalamocana.
+
+## Page 35
+
+Chapter 4
+
+Fora sara
+
+Wage: Bear yaa wea:
+
+aurea wet Sahat BANG ot
+
+Pulastya said- O sage! Mahesvara took a
+bath with the procedures mentioned in the
+Vedas in that pond when it was suggested by
+Kesava.
+
+aire def gear
+Ufteqa FeraeTRATETT
+are ayer area
+wriviaet srerareTETA 4 Rt
+As soon as dip was taken by lord Sankara
+(the killer of Tripura demon), the head stuck
+to his palm got separated and fell down. That
+holiest place then became famous as
+Kapalamocana by the grace of god.
+‘sft tarragae yoreraradany eee ATT
+ParasEAT aN
+
+13
+
+## Page 36
+
+Chapter 4
+
+Chapter 4
+War between Hari and Virabhadra
+
+Ferra Sara
+
+Ue aut dad Fah ware:
+
+ame aretrarat eater a Frafera: i gt
+
+arenferarratfer weit ferrener worafer:|
+
+aa ural gfegar eater at Fraferamien
+
+Pulastya said- O Devarsi! Lord Sankara
+became Kapali due to the above-said event.
+This was the reason why, he was ignored by
+Daksa Prajapati. In spite of Sati being
+qualified with all respects and her being his
+own daughter, she too was not invited as she
+was the wife of Kapali.
+
+Uaferant tat ae ere
+
+FA TT MSL A ATT BHI
+
+In the meantime, Jaya, the daughter of
+Gautama went to the mountain Mandara
+
+which had the five cave in order to see the
+goddess Sati.
+
+13
+
+ararrai wet eer arteryaTE Bl
+fend fase armssrardt arrafaratu wit
+Sati saw only Jaya; therefore she enquired
+
+of her as to why Vijaya, Jayanti and Aparajita
+did not come with her.
+
+Wl ten aat get Jara THT
+
+aren fanaa: Wal wa ATATATET AT It
+
+ast fear ats wat darerecaat
+
+HE TATA FE Tat TA TATA GH
+
+She replied- "They all were invited by the
+maternal grand-father (Daksa) in a yajiia
+arranged there. Hence, they have gone there
+with father Gautama and mother Ahalya. I
+have come to see curiously your zeal to visit
+there.
+
+fa a oa aa aM eat Tea:
+arafaaista aed seretitacataratan on
+
+Aren't you and Mahesvara going there? Has
+your father not invited you? or shall you go
+there?
+
+Tag eI: Ta ATTRA!
+THETA: VIPTIgS AURAL Ae: ATTN cH
+All hermits, their wives and gods have gone
+
+there too, O maternal aunt (Maus)! Saganka
+too has gone there with his wife.
+
+agéeg ety aetat 3 are:
+Frater: ceat wel fer safe oi Frafeaati eu
+
+All movable and inert organisms from the
+fourteen lokas have been invited to function
+there. Are you alone uninvited?
+
+Jered sara
+WARE: aT HITT Tait
+TRAPS TET ATAAT: It Ro tl
+Pulastya said- O Brahmins! These words
+from Jaya appeared like a thunderbolt to Sati
+and she became angry to the extent that the
+
+common people are jeered and that stroke was
+so hard that she fell down dead.
+
+## Page 37
+
+14
+
+Vamana Purana
+
+Set Bat Ge ET salereTrenah TEAM
+Yadt aft Favat aati factend a eeu
+Having seen that Sati met with casual
+death, Jaya burst into tears and began wailing.
+
+anakenafi great yeratinferetrert: |
+
+amt: fetafetreqerar SaeareTGATTT: 1 83H
+As the sound from the wailing was
+
+piercing, it awakened lord Sankara from his
+
+meditation. He came to Jaya and asked-
+
+"What is it?"
+
+ara qe tat cena area: |
+wat wey eet yoengt aferat au gan
+
+Lord Sankara saw there Sati lying on the
+ground like a creeper cut off with a sharp
+blow by an axe. Her body was as pale as a
+dead one.
+
+dat Frofat ar sat UTES VIET:
+
+feat ofan yet Frente ora Bet est
+
+Sarikara having seen this asked Jaya- "Why
+has Sati fallen on ground like a cut-off
+creeper?
+
+UT Raa: Feat aT aaTTaTT
+
+geet Wee cere aitrar: Ufa: aE yt
+
+anfernfercieng a yranfahit: yt:
+
+mrgerar fauserang Ga cei eg 11
+
+Jaya replied- "O the ruler of three-worlds!
+My maternal aunt (Sati) has fallen down dead
+owing to sheer pain she felt when she heard
+that all her sisters with their husbands, Indra
+etc., gods and Adityas etc. have been invited
+in the yajfia and gone there."
+
+Gerad Jara
+
+Teprasa oat Ue we: Brea aHh
+
+Peel wana Fae: wearin von
+
+Pulastya said- Lord Rudra became
+excessively angry on hearing this fierce
+statement from Jaya. Flames started coming
+out of the body of Sankara so annoyed.
+
+aa: Mee Maa FA
+
+wom: feet Stat aeayeTAT: 1 ke
+
+ah: ufigrererrrehereert
+
+Ta: BAGEL THE SRST ATA eH
+
+O sages ! The ganas having a mouth similar
+to that of a lion appeared from the furs of
+Sankara's body due to excessive fury.
+Virabhadra was the principal gana among
+them. He then went to the Himalaya from
+Mandara mountain in the company of all his
+ganas and Kanakhala from there where the
+yajfia was commenced by Daksa.
+
+aah moraraferat arergt water: |
+fefer wategqeerat wet FeTAT WAN Rott
+
+O sage! The mightiest Vérabhadra, the
+foremost among the Ganas, then held a trident
+and stood at the west north.
+
+wer wreretet yer ydeferore: fea
+ney freraycterel aerstergyt wert zk
+O great sages! Jaya in the state of excessive
+fury stood at the eastern-south with a mace in
+
+her hand and Sankara with a trident in his
+hand stood amid them.
+
+mftact apr tat: wenger:
+mae aarraat: faire fracaferrerqu 2 ei
+Indra etc. gods, hermits, demi-gods (Yaksa)
+
+and Gandharvas were caught in surprise when
+they saw Virabhadra in disguise of a lion.
+
+TRY TGTTS MTV faaTATy!
+BUTT erat ereaRUTRA 2311
+The gate-man Dharma then rushed towards
+Virabhadra with bows and arrows serpent like.
+wares wear vd ET TTT:
+mts sere frye aerating 211
+ane a fades tae artery
+gel met yer eiaeagarUT: 11 24 It
+The principal gana (Virabhadra) held a
+trident analogous to fire in one hand, a bow in
+another hand, an arrow in the third hand and a
+
+mace in the fourth hand and rushed to Dharma
+when he saw his sudden march.
+
+## Page 38
+
+Chapter 4
+
+15
+
+mages ger entaet wT
+ARMAB AR YI APTI ETT: 1 2 I
+GRAMMAR A: |
+areantorret eqerat WTTTN 29H
+
+Imperishable Dharmaraja confronted four
+armed Virabhadra with enhancing his eight
+arms equipped with varied weapons. He stood
+boldly with the intention to finish Virabhadra
+and held a sword, carma (shield), mace, spear,
+axe, goad, bow and arrow in his hands.
+
+TOartsht dHal Fy wet wary
+
+aad aptoireitenraan waft dae zc
+
+Virabhadra too started showering acute
+arrows on Sanatana Dharma like the clouds
+
+during the rainy season so that he could be
+killed.
+
+merited werart yreargett yt
+‘oierrannferenrgt fengenferer Farg:11 23U1
+
+O sages! Both of them with arrows and
+bows soaked in blood and looked as red as the
+flower of canker bloom (kirnsuka).
+
+wat arrattorreat
+fare: @ entertar wee
+weqisyarn pir
+B ates: wfaete BAT 3 ott
+O king of sages! Dharmaraja had to move
+
+back as he was conquered by Virabhadra and
+thus, Virabhadra got way to enter into yajjia.
+
+amare wad g dry WaT
+
+BBl Y Bea Sar Sey: ATT HAN AN
+
+O sage! The gods suddenly stood up with
+weapons in their hands when they saw that
+Virabhadra has entered into the pavilion for
+offering.
+
+aaaSEY HEMT HET AT YATHT: 1
+
+Balen graynfarn warecaresta fen 3 2H
+
+fad tas wens fearedert:!
+
+Sa: FRSA YA: VTRTRETRAAT 3 3 11
+
+Ten aerearaerg erlang feeqat:1
+‘arrest storentherratysr: 1 3 v1
+fefion Grant Isat at warTAT:
+8 wdseagey Te atrergargan:n 34 it
+
+Eight Vasus, predominant nine stars, Indra
+etc., twelve Aditya, eleven Rudra, Visvedeva,
+Sadhya-ganas, Siddha, Gandharva, Pannaga,
+Yaksa, eunuch (Kinnaras), Ghosts (Bhita),
+Birds, Cakradhara, renowned king
+Dharmakirti of  Vaivasvata dynasty,
+Bhojakirti, the chivalrous king of lunar
+dynasty, demon, devil and all people present
+there picked up weapons and rushed to kill the
+dreadful Virabhadra.
+
+ATA WaT STUTATITTY AUT: |
+afagara ai wate pritent:13 gt
+The gana Virabhadra with bow and arrows
+
+attacked them and sppedily drove them by
+throwing arrowheads.
+
+a wreratnge witgra AAR
+Tagish araeiGrae w fate aU 3011
+They all shot arrows in showers at
+
+Virabhadra. Virabhadra scattered all arrows
+by the expert use of his weapons.
+
+wt: wea wat EMIT WeTeEM
+areagor FarErTaaTTATTTN 3 C1
+The gods etc., ceased fighting as they all
+
+were badly injured by the arrows and weapons
+blown by the unique warrior Virabhadra.
+
+wat face wordt ayet Gfegrt
+Qt eat aa eel wer 3 st
+Virabhadra then entered just at the centre of
+that gigantic premise of yajfia. The hermits
+engaged in offering were giving oblations to
+the fire there.
+wat neta qpr yirgaet TorT
+sitter ett ufteasa Seq: preomegaA ¥ 01!
+The hermits ceased their performance
+
+immediately when they saw the lion-mouthed
+gana and sheltered Acyuta.
+
+## Page 39
+
+16
+
+Vamana Purana
+
+ARiAyegET HetfererarTar
+a Aeroafatieqerat Maat AAA gn
+
+Acyuta stood up with a discus in his hands
+and with words "don't be afraid" in the lips
+when he saw those hermits badly frightened
+and wailing.
+
+Waa aa: TG PTR
+Br SAAT STATA
+
+He then started shooting arrows like the
+flames powerful enough to penetrate the
+external cover of body on Virabhadra by
+giving a slight bend to his Samga bow.
+
+a re arena sate aR: wT:
+Friggfe saan aaferenges area: nw 3 nt
+
+As the beggar returns with a despair in
+mind from the atheist, the target hitting arrows
+shot by Sri Hari fell down on the ground after
+touching merely the « ody of Virabhadra.
+
+ereieentersivercrarraraiest Syra:1
+feareadiveg wearefaggar: esi
+
+Kesava intended immediately for covering
+Virabhadra by divine weapons when he saw
+the futility of arrows in their mission.
+
+APATSTYSAT MATTE: |
+SATA Ye Tea PTTL st Ht
+
+Those arrows from Vasudeva too were
+destroyed by confronting with sila, mace and
+arrows.
+
+ger fawararenttr wet faera wera:
+aR WATER UTA AEH I
+Madhava threw his mace when he saw his
+weapons destroyed by Virabhadra. However,
+Virabhadra threw it on the earth with a blow
+of his trident.
+
+at wai famett apr onget wafarraft:)
+wget U TMUIPSH TANT WTA viol
+Wadi dregs deere george:
+
+Paget B woes AeA MIETATN se 1
+gael tet Er erat a Franke
+
+avg fade aes wera: se
+Musala and Langala were thrown on the
+part of Halayudha but these weapons too were
+thrown down by Virabhadra through his
+mace. Garudadhvaja severely in furiated and
+attacked with a discus Virabhadra when he
+saw the failure of attack by mace including
+Musala and plough.
+marae werent
+qeelt dea miareg!
+Wet afeeasa Serre aah
+war ag ditay: YTEIy ott
+Virabhadra (Ganesvara) had however,
+gobbled up that discus luminating with the
+light of several hundred suns by leaving his
+Sala aside. It was done in the same way as lord
+Surendra had gobbled up the Madhu while
+disguised as a fish.
+a Frith orate
+aarenfirets farrereta |
+qafeeaer monte
+aferer Sarge Faferta 4 ei
+When the discus was gobbled up by
+Gananayaka (Virabhadra) the dark and
+beautiful eyes of Murari tumed red with
+anger. He went to Virabhadra, lifted him up at
+once, knocked him down on ground and
+started thrashing him.
+
+sagen fats qach
+
+fad sinatra fares 21
+
+Owing to the hard blows of arms and legs
+of Hari, the discus came out from the mouth
+of Virabhadra with blood when he was
+knocked down with a thud.
+
+amt Agrees aes Hera:
+
+area wate areas qatar BG 31
+
+Destroyer of demon Kaitabha, Hrsikesa
+
+then picked up the discus and left Virabhadra
+there.
+
+## Page 40
+
+Chapter 5
+
+waa peg aeeagt wey
+Wea FACMTATT aTASATAATATTN 4 11
+
+Virabhadra when liberated. by Hrsikesa
+went to Lord Sarikara and reported his defeat
+through Vasudeva.
+
+wat Sere GET were efor
+Feared aor ant watt eA ARISTA GN
+When imperishable Jatadhara Sankara saw
+Virabhadra soaked with blood and breathing
+like a serpent, he became angry.
+
+a: MUNA Sats VAT
+yatfed wer wart angen” Faferarny gu
+In furiated Lord Sankara then restored
+
+Virabhadra to the place first determined with
+his weapons.
+
+aroagrenfaya agatett ORT:
+fate seer aaTE FETT 4 ott
+Sankara, the trident holder, then passed
+necessary orders to Virabhadra and
+Bhadrakali and entered into the pavilion made
+for offering. His eyes were turnéd red with
+anger.
+way tawat Het
+fageraat faguerantttin
+waren gt fergrfet aterent
+warat ata watt fe aA NG cI
+When Mahadeva, the killer of Tripura
+demon, trident holder, destroyer entered into
+the yajiia hosted by Daksa, all hermits were
+severely frightened.
+fa steneagait yorernadary ecetteat art
+agafserra:us
+
+ord
+
+## Page 41
+
+Chapter 5 17
+
+Chapter 5
+Description of Kala-form of Siva
+Yered Saray
+wert eftggr mrererencirerTy
+TRUITT UTR HomTasmatee: FRA: 11 gu
+Hari concealed him in Kubjamra and seated
+him there and left his place at once when he
+
+saw Jatadhara' whose eyes were reddened
+with anger.
+
+aachsel ee aT Aaya BA
+AY Mat Aitader ar a ATA
+
+O sage! Eight vasus were melted on
+account of the temperature so created by the
+presence of Hara. It originated the great river
+Sita.
+
+UREN TAT BRTATAT FAATAT: |
+aarfeayiten ore SIT: AAATET PISTAN 31
+And Vrsaketana, three-eyed eleven rudras
+
+were frightened, rushed to lord Sankara and
+merged with him.
+
+faasfart a emer wedtsTereTERT:|
+Tara YNSTe ere AEA wit
+
+O great sage! Visvas, ASsvinikumaras,
+Sadhyas, wind, fire and sun picked up
+purodasa (oblation of offering) and ran away
+eating the same.
+
+aa: wa Bate agrestis
+
+SUT TA ATT ATA RAA: 1
+
+The moon with the galaxy abandoned the
+night alone, ascended and stopped at their
+
+respective places. They withheld their
+movements.
+
+BTU Ua ST: PTET
+younger sear wore: dferet BN GA
+
+O sage! Kasyapa etc., hermits started
+chanting Satarudriya, took flowers in their
+palms and stood up humbly.
+
+1. The long tresses of hair twisted on the top of the
+head. (Monier Williams Sanskrit-English Dict.)
+
+## Page 42
+
+18
+
+Vamana Purana
+
+orageRTefTa BET BK TeTHeEAT
+weet Great Faut facrens gust
+Having seen Rudra mightiest among Indra
+etc., gods, the wife of Daksa began wailing
+frequently in a pathetic condition.
+
+aa: whenfirget ETO TeTETT
+aemerteat wear farrier: 1c
+
+In furiated lord Sankara killed numerous
+gods merely by slapping them with his palm.
+
+Trementeat fayermat ya
+
+geisfrar wart Raven: werd WaT eH
+
+O sage! Some of them were killed by kicks,
+some other by blowing trident while a few
+among them were killed by the fire emanating
+eye of lord Sankara.
+
+aa: Yer et chee fafrert yogTy
+BUTE TATA WERT UBITAI Rott
+The Pis4-sun rushed with both his arms
+extended towards Mahesvara when he saw
+lord Sankara killing the gods and demons
+severely.
+aaneet arerifries fetter:
+argeat wfarorre aatclar PET RI
+Lord Sankara caught both his arms by using
+his single hand when he saw him advancing.
+
+ana mpgs viyrisyAAsts fe
+augieral Ferg: WAAR
+Sambhu gave a blow so hard that the
+
+fingers of both arms with sun started flowing
+blood stream from all the four directions.
+
+wat aia wea signed fearacy
+orrarara aad feet yaferey gem ean
+He then started rotating round the sun so
+
+tapidly as the lion rotates the young stag
+through his jaws.
+
+sifirenttaia aratgadiste fe
+spt graeme gererqaeriin gsi
+
+O Narada! The muscular joints of both
+arms were split and they fell short.
+
+verregqraatgigyrd weet:
+Aba Re TAS TTT BU NG A
+When MaheSvara saw the sun soaked in
+blood from all joints of his body, he left him
+and went somewhere else.
+
+arg yor faswagrnts facet
+Wardae arnferga: Grebe 26 1
+
+Pasa then began to laugh and exhibiting his
+teeth he frequently challenged with the words-
+"O Kapali! come! come to me for a duel.”
+
+Ta: BENT Gan Se FAT
+Uferissert ayrat: wnferen ereoitrTet Yo!
+
+Sambhu gave a boxing on his jaw so hard
+that Pisds teeth fell down on the earth.
+
+eaeeTeTET Yar vitforenfiregAAA: |
+
+ware afer Feat Aare SATA RCI
+
+Thus, Piisd fell down on the ground
+unconscious like a mountain hit hard by the
+thunderbolt. His teeth were all scattered and
+blood was oozing from mouth.
+
+sritsfir tea yaut ufert afer
+Janat eresonat Gaver 231
+When Bhaga saw Piisa soaked in blood and
+
+fallen on the ground, he stared Vrsabhadhvaja
+with fierce eyes.
+
+fate: FEE BY
+
+Frorrerarea yfa areata: tt 2 ot
+
+In furiated Sankara (killer of Tripura
+demon) then slapped at the face of Bhaga
+fiercely resulting which both his eyes fell
+down on the ground.
+
+at feaream: wa Greer WET
+
+referer Besar eaTaTTAASyT STU 2 I
+
+Adityas in the company of Marudganas and
+fires then ran away to the ten directions under
+the lead of Indra.
+
+wirenag Raq wereren feta:
+AHS AA: Te AY: MCA HAN VU
+
+## Page 43
+
+Chapter 5
+
+O sage! On the departure of the gods,
+Prahlada etc. demons bowed at the feet of
+Maheésvara and stood before him with folded
+hands.
+
+wae UaeTE Y Ig Urea
+aut ay attr wats Geqeq Vall
+Sankara then started looking with fierce
+eyes at that pavilion made for offering and all
+
+gods including the demons so as to burn them
+into ashes.
+
+wat faferfeat ahr: worggggeram
+weed Bt SBT Tat ATMA Vv
+
+Some warriors present there were hidden
+due to extreme of fear, some began to salute, a
+few among them ran away and a certain
+number of them were killed by lord Sankara.
+
+aatsrrafertriag ag wader
+FERIA TRNAS ETOH 2 4 1
+
+Lord Mahesvara then saw three fires with
+his three eyes. The fires so stared at him were
+extinct within a second.
+
+art wad agistt year feoragit:1
+gale feracrernfecfinorratedtsratn 211
+
+The yajfia too turned itself in a stage of
+divine body when the fires were extinguished
+and all rushed to the sky above with Daksina.
+Its race was a race with anxiety.
+
+Ragwatyeasrarsy sa
+
+Be UYU Bea Her ASAT: Voll
+
+EA ANAT Teva AA A:
+
+aga HR Wa: rere a SAIN ICH
+
+Mahesvara in the form of Kala (the death
+god) put immediately Pasupata arrow on the
+bow, gave tension to the string and chased
+yajfia very fast. Lord Sankara with his half-
+part (Ardharisa) was popularly known as
+Jatadhara (Siva) in the premises of the yajfia
+and by his other half-part in the sky is called
+Kalariipa.
+
+19
+
+ang sara
+arene assem: ehyphrrtat:!
+ret a ered wae SaTTgTEfa 2a
+
+Narada said- "You have addressed Sankara
+as Kalaripa while moving in the sky. Explain
+
+please, his complete feature and
+characteristics.
+Yost sara
+
+wae fagrerer afeet arerefint:
+
+Farad ghee sat cetera 3 ott
+
+Pulastya said- "O great sage! I tell you of
+the features completely of that Kalariipa and
+murderer of Tripura demon, Sankara who
+moved in the sky for all benevolence.
+
+wart a sot afrerareraisge:|
+
+Rea Ui: Gees afeat: arevsfior: 113 et
+
+Asvini and Bharani constellation with
+complete feature but a foot (pada) of Krttika
+in zodiac Aries at the region of Mars is the
+head of that Kalaripa Mahadeva.
+
+aight Tera BET
+
+ahrard qo ae after 3 IH
+
+The territory of Venus comprising three
+rays of Krttika constellation, complete Rohini
+
+and two initial feet of Mrgasira constellation
+ie. the zodiac Taurus in his mouth.
+
+mdursisteaimmeaa: drenyg faery
+faert quretrerer werent yfert 113 31
+The territory of mercury comprising the rest
+of two foot to Mrgasira, complete Ardra
+constellation and three feet of Punarvasu i.e.
+
+the zodiac Gemini is the two arms of the Sili
+residing in the sky.
+
+snfgaiva yet a anger wiget Tey
+af: aheat arr wet wefeafeA: 3 xt
+
+The territory of moon consisting of one foot
+of Punarvasu, complete Pusya and Asles&
+constellation i.e. the zodiac Cancer is the two
+collateral parts of god Sankara who ruined the
+yajfia.
+
+## Page 44
+
+20
+
+frat arrdareprtiver Fath
+qa fatderecd vfvitatn a4
+O Brahmin! The territory of sun consisting
+of complete Magha, complete Pura Phalguni
+and one foot of uttara Phalguni i.e. the zodiac
+Leo is called the heart of Lord Sankara.
+arigmaa: wifi aera freaay
+arya walategett aot fertts 13 gu
+The second territory of Mercury consisting
+of three feet of uttara Phalguni, complete
+Hasta constellation and two feet of Citra
+constellation i.e. the zodiac Virgo is the belly
+(stomach) of lord Sankara.
+Reraivfaered carta ay FIRING EOL
+fattt Yara gen afrecTEAT 3011
+The second territory of Venus consisting of
+the remaining two feet of Citra, complete
+Svati and three feet of Visakha i.e. the zodiac
+Libra is called the navel of lord Mahadeva.
+fammaterrgren ster tere Frere
+feritet qiret ofertg arererefior: 13 cu
+The second territory of Mars consisting of
+Visakha one foot, Anuradha and Jyestha
+complete i.e. the zodiac Scorpion is the penis
+(linga) of that Kalaripa Mahadeva.
+pt yaferctews Qarerdyg yi
+POPC sea weiATN 3 eu
+The territory of Jupiter consisting of the
+complete Mila constellation and complete
+Pirvasadha including one foot of uttarasadha
+i.e. the zodiac Sagittarius is the couple thigh
+of that Mahesvara.
+SiMe eal Tac Het AN
+afar wat apt AREA son
+O hermit! The territory of Saturn consisting
+of the remaining three feet of uttarasadha, the
+complete constellation Sravana and two initial
+feet of Dhanistha i.e. Capricorn is the two
+pubics of that Paramesvara Mahesvara.
+
+Vamana Purana
+
+afer wrafirer steuanerenrry
+at: wamnfeg qett ag a fagas en
+The second territory of Saturn consisting of
+first half of Dhanistha, complete Satabhis4 an
+the three feet of Purvabhadrapada i.e. the
+zodiac Aquarius are the two legs of that lord.
+
+wevergrtté g srt tact ae
+fetta taaet tre arongdtis ait
+
+The second territory of Jupiter consisting of
+one foot of Purvabhadrapada, complete
+uttarabhadrapada and Revati i.e. the zodiac
+Pisces are his two feet.
+
+WH wel aera Frat
+
+aa marathi
+fagart aergtagm:
+
+G teret arent ys
+
+The three-eyed lord hit hard the yajiia in the
+vagary of anger as Kala himself. Conceiving
+no pain feeling, the arrow shot yajiia covered
+its body with the galaxy of yajfia and settled in
+the sky.
+
+ANE Sarat
+
+Tere: alee wera Bee St wT
+
+Rai fags gfe cern ASAT: ws
+
+Narada said- "O Brahmin! You have thus,
+imparted knowledge on the twelve zodiacs.
+Kindly, now continue with explaining their
+characteristics according to their features
+(physique).
+YerRa art
+
+aed da sears Tpit Oy ATT
+
+BIG aa Maret aay TAT TNS 4H
+
+Pulastya said- O Narada! I explain now the
+features of the zodiacs. Please, listen
+attentively. I tell you all about their
+appearance, the orbits in which they move and
+where they reside.
+
+PaTMaarer aTeTeTRTEy
+We: warafia snnfeeerney 1%
+
+## Page 45
+
+Chapter 5
+
+The zodiac Aries has the feature of sheep. It
+circulates its presence in sheep, goat, wealth,
+cereals and gems etc.
+
+Fayqaerisaagaral a wast:
+Fret aeftt Geary UTai Ye Avon
+
+It moves daily on the banks of reservoirs
+covered by vegetation blossomed and
+
+throughout the earth covered with new grown
+Durvi (long lift plant).
+ge: Tauren fe at ThRenfeg
+weaearaghreg PATTY CI
+The zodiac Taurus has the features of a bull
+
+and it appears in the commune of cows. It
+resides on the lands pertaining to the farmers.
+
+aged: at wei grearerafiag:1
+
+Srorarere fest trentefafergns 3
+
+The zodiac Gemini has feature of a couple
+(man and woman in joined form). It resides at
+the cot and the seat. It holds a lyre and
+musical instruments in its hands. It circulates
+its rays on singers, dancers and craftsman.
+
+fia: stenfafic faerrafreet g1
+
+fags ara fared afgrgensseres: fare: 4 ott
+
+This dual form (couplet) zodiac is called
+Gemini. This zodiac prefers games (luxuries)
+and resides at picnic spots (vihara bhimis).
+
+wafé: Geiltor aa: weer: Watfete:|
+Rerranitgiorafafermatita a 4 eu
+
+The zodiac cancer is crab-like in feature
+and lives in the water. It moves to the fields
+full of water, the. river banks and solitary
+places.
+
+Faeeg veerwagtarceytig)
+ARN ATMUECHY TERY Jey TUG
+
+The zodiac Leo resides in mountains,
+forests, inaccessible places, caves, hunting
+places, trenches and the valleys.
+
+Sitemeter AATRST aE
+SRA VAAN TAT ACACTZ UNG Bt
+
+21
+
+The zodiac Virgo is with a lamp and Vrihi
+in its hand and seated on a boat in appearance.
+It resides in the genitals and nipples of the
+woman.
+
+geranfies yet dtearaurferenca:1
+
+WRAY THY TA ATAU SH
+
+O Narada! The zodiac Libra strolls in the
+streets and markets, appears in masculine
+
+feature with a balance in its hands, It resides
+in cities, highways and buildings.
+avariertat afirat atarareft:|
+farireratarfecreronfeg afer: 114 4
+The appearance of the zodiac Scorpion is
+Scorpion-like. It walks through the pits and
+
+termites. It resides in poison, cowdung, insects
+and stones.
+
+egg derart edz:
+anfrgerafadtt: wret merenfagny § 1
+
+The appearance of the zodiac Sagittarius is
+horse-like in pubic region. It is glowing and is
+an archer. It is known to horse riding, war-
+craft, chivalrous and expert in operation with
+weapons. It resides in elephants and chariots
+etc.
+
+pred wart aT gee AT:
+maniset adterdt sat a wate you
+
+O Brahmin! Appearance of the zodiac
+Capricorn has a deer like mouth, bull like
+shoulders and elephant-like eyes. This zodiac
+swims in rivers and resides in the ocean.
+
+frags yea: tarred sere:
+
+WAM: GH: Wea vitfisenmagy cit
+
+The zodiac Aquarius appears as a person
+soaked in water with a pitcher on its shoulder.
+It moves through casino and resides in bar
+(liquor sipping place).
+
+Areraenh arreiaifertat: |
+wat yoaRyy Samreorargn 4 etl
+
+The zodiac Pisces appears as two fishes
+joined each other. It circulates through holy
+places and the oceans, It resides in sacred
+
+## Page 46
+
+22 Vamana Purana
+
+countries, temples and in the residences of
+Brahmins.
+warn niearegea Fereat aeTgy
+
+FT HRAAMSSTHG RATATAT g ot!
+
+O great hermit! thus, I have told you the
+characteristics of Aries etc. zodiacs. Please,
+don't disclose this mystery to anybody.
+
+Wen & afr get
+
+wer fa: WATT aa
+arerrararcst fire aug gH
+
+O Devarsi! I have completely explained the
+complete episode on destruction of yajfia as
+spread by three-eyed Mahadeva. I have thus
+described this episode, most ancient, holiest,
+capable of absolving sins and showering with
+welfare as also enabling to perform noble
+deeds.
+
+fe sttermaget goreeretene eterferat ae
+Wes yn
+
+## Page 47
+
+22
+
+Vamana Purana
+
+Chapter 6
+Episode of burning of Kama
+Yorrd sara
+weal TEN aisat eat feoraPH
+Raa res rah TeaTTTTTATT gi
+
+Bt gen a Fal Tera waM
+ararendt fret efterott aay: 2H
+want tea seat ferent
+aaa w aa: ahelt qerogferrat 3
+wreretg warmer ae aaftaren
+
+yore deat gar Tara faye wenn
+
+Pulastya said- O hermit! The divine body
+Dharma born from the heart of Brahma, had
+reproduced Hari, Krsna, Nara and Narayana
+sons by virtue of consummating with his wife
+Daksayani. O divine sage! Hari and Krsna
+engrossed themselves with exercise on Yoga.
+Nara and Narayana, the greatest among all
+
+ancient sages began austerity with
+Parambrahma at the ever broad bank of the
+sacred Ganges in Badrikasrama, a place
+situated in the great Himdlaya.
+
+FANTTOMAL A HTT
+
+antec are TerL Vem: ah set Tat GH
+
+O Brahmin! Indra (the king of gods)
+became anxious when this entire universe
+consisting of active and inert organisms felt
+
+the heat (energy) on account of the penance
+made by Nara and Narayana.
+
+Ayer aa arenes yaa:
+Toreeaa: Set: Heat HRPTTTN GIN
+As Indra was aggrieved, he sent the most
+beautiful divine prostitutes (Apsaras) so as to
+entice them and impede their penance. Among
+such prostitutes, Rambha was also sent.
+
+ares Ygiagregeregy:|
+
+wt agate ae OTTO
+
+The sex-god (Kamadeva) with special
+weapon in the form of mango buds too went
+to that hermitage with his assistant spring
+(season) with a mission to deviate their
+penance.
+
+wat mrerearcuf ar tarcerca ae:
+aqalsmarns fafesitgeeresan ¢11
+
+The spring, sex-god and all divine
+prostitutes then began to spread sensuous
+feelings everywhere in  Badrikasrama
+arbitrarily.
+
+aat aad doe feager seer:
+Fron: aad Wy: viret eeaerqN gl
+
+With the entrance of spring, the Palasa tree
+having fire-like complexion started bearing
+new buds and leaves and thus decorated the
+land nearby that asrama.
+
+fafert ar arag faerd Teather
+SATA MA: THTTSRAPA Lot
+
+O hermit! It appeared there as if the spring
+lion would have come and killed the belly of
+
+## Page 48
+
+Chapter 6
+
+23
+
+autumn deer by blowing hard the nails of
+Palaga flowers.
+
+wer gareatt fifsta: <a Bera
+aie Faaga: TAT: FFA LA
+
+The spring started doing mockery through
+the buds of Kunda flowers on the precipitation
+(fog and dew caused during autumn)
+considering as he has conquered.
+
+anita foto yfiranis fatter
+men ToyaTfoT arrenrcoTAT fen VIM
+The forest having Amalatasa trees flowered
+
+and appeared analogous to the Princes with
+gold ornaments.
+
+Rareg wer tat: fegat set Yat
+ane eRTT AT YON Ta GATT 83 Ul
+The Kadamba trees behind them seemed so
+
+nice as the royal servants behind princes in a
+cheerful mood.
+
+Targa wife Yfeaat: AEATAT:|
+
+FM THAT: MATS Yaa Fa VI
+
+The forests having red Asoka suddenly
+blossomed and looked gleaming as if the
+
+soldiers of spring (king) are blood strained in
+the war for him.
+
+age: frat wr Tet a
+Yoranitgen TEAST: FESTA Be tt
+
+The herd of stags in the dense forest looked
+so happy while moving on leaps here and
+there as gentlemen are exhilarated on the
+arrival of their friends in their home.
+
+Taiifitarast TetHeY AeA:
+SHAM FATA BST AGM TTI NE
+
+The Vetasa trees with their new buds
+
+1. As the flowers of Kunda are white, it seemed the
+expression of victory by spring and irony blown
+on the autumn. It is commonly known that spring
+gets its tu when autumn is over, The author has
+here beautifully used the personification figure of
+speech by referring a joke of autumn through the
+white colour budding of Kunda flowers. This joke
+made is spring.
+
+sprouted looked so nice at the banks of the
+river as if they were saying with lofted fingers
+whether there are any trees like us at all.
+
+Taryaat tt tat fxyenfegen
+
+engtaaren var faanfaarerA 91!
+
+erate @ geacancrerit
+
+RCSA HarenryifizaT ge 11
+
+waster yar fergarrarga
+
+Featfaerern fren agian Yat e811
+
+afegencmn 4 aaa
+
+MAC TEATS ATTA Bo
+
+pRilaigqar yptrrafaferafa
+
+aeraeratt: doer aerccafarran 2 at
+
+O divine sage! A divine figure, youthful,
+slim and all bright spring Laksmi having arms
+of red Asoka, Palaga feet, hair of blue Asoka,
+mouth of full blossomed lotus, eyes of blue
+lotus, breasts of bilva fruits, teeth of full
+blossomed Kunda flower, hands of buds, lips
+of bandhujiva, nails of Sinduvara, voice of
+cuckoo, clothes of ankola, ornaments of
+peacocks, anklets of Sdrasas voice, Karadhani
+of Pragvansa, motion of intoxicated swan,
+garments (inner) of Putrajiva and furs of bees
+appeared in that Badrikasrama.
+
+aa ATAU @ET sre!
+
+ater 8 fam: daterisagATPAAT zz
+
+Narayana saw the sanctity of Agrama then
+watched all direction and lastly, saw the sex-
+god there.
+ANE saraq
+
+aIsteag! Tet aferaaitarm
+
+@ cagt wrraret Sat areraTtserT: 1 2B
+
+Narada asked- "O Brahmarsi! Who is that
+sex-god (Ananga) so seen by Jagannatha
+Narayana in Badrikasrama?"
+Jered Sara
+
+araut ada atset art Fre
+
+BW Mgt Ma aA ITA: I eI
+
+## Page 49
+
+24
+
+Vamana Purana
+
+Pulastya replied- "That sex-god (Kandarpa)
+is the son of Harsa. He is addressed as Kama.
+As he was once burnt into ashes, he is
+addressed as Ananga since then.
+
+ang sara
+fared armeatsat taeda siya!
+RT BT BRAT ETSY 24 I
+
+Narada asked- "Please, make me know why
+and for what reason lord Mahadeva had burnt
+the body of sex-god into ashes.
+
+Feared sara
+
+BET AGM TAA AT TTT!
+
+fariga caragt of farerent fretrerts 2g
+
+Pulastya replied- "O Brahmin! Lord
+Sankara began to walk to and fro in the
+indecisive state of mind subsequent to the
+death of Sati and ruination of the yajfia
+arranged by her father Daksa.
+
+wat quent apt wad: gaye:
+HURT AISA FHAATAATSATI V9 1
+The sex-god with the flower weapon had
+
+blown a weapon known as Unmada on
+Sankara when he saw him bereaved of wife.
+
+wat et: mone Sereary afsa:1
+fare wart: are aif aN eI
+Bearing the pain caused by that unmada
+
+arrow, Sankara badly intoxicated began to
+move in forests and reservoirs.
+
+areal metas aise:
+
+awd at sat aofag sa fern een
+
+O divine sage! Like an elephant hit by an
+arrow, lord Sankara began to recollect the
+moments of acquaintance with Sati but could
+not be satiated anyhow.
+
+Wa: Ue ae: aferdtrafed PN
+Frey yyy aa SET: FOTTAPTAT: 3 oN
+O hermit! In the status of sheer anxiety,
+
+Sankara fell down into Kalindi (Yamuna). The
+temperature in his body was so high that with
+
+his immersion, the water of that river boiled
+and turned into dark colour.
+
+Fer wate aaferen qarer Tt Tory
+arerequadtat ar agrarefiaray: 113 gn
+Since then Kalindi's water became as dark
+
+as Ajijana and Bhmiga and that holy river
+started flowing like the bunch of earth's hair.
+
+wat aaly Quang ateg a aay al
+
+yferg a vag arity aferitg a3
+
+weg a Tay ary a Ay
+
+frees ta yd oT weet: 3 3
+
+MaheSvara then voluntarily strolled at a
+number of holy rivers reservoirs, fountains,
+enchanting river banks, ponds, lotus grown
+forests, mountains, jungles and mountain
+peaks but could not feel a sign of relief from
+the anxiety.
+
+arot rater Sah arot feet wgT:|
+
+atat arate wat carat Waa a vt
+
+O divine sage! sometimes he would sing,
+on other moments weep and sometimes think
+
+about the slim and beautiful Sati, the daughter
+of Daksa.
+
+eave ai weafete ator ereTae Rt
+wary wae Tele at EBT Sa AAT BG
+Now he would sleep, now he would dream
+
+and on seeing Sati in dreams, he used to
+blutter in these words-
+
+Fagot fae fe ye ea aaa
+wea waar fariedt extisher wee 3 gu
+
+O cruel! Just stop O idiot! Why are you
+leaving me alone? O beloved! O enchanting
+Sati! I am burning myself in the sensual fire
+due to your separation.
+
+afa Get sepia ot ard HE Gefe
+WaMUTTETETA HATS TAM 3 1911
+
+O Sati! Are you really annoyed? O darling!
+Don't be angry. I salute you with my head
+bowing at your feet. You should gossip with
+me.
+
+## Page 50
+
+Chapter 6
+
+25
+
+SEN eae Fret ey areas HA
+
+anferqae a Bett farref arftreTean 3 ct
+
+© beloved! I ceaselessly listen to you,
+watch you, touch you, pray to you and
+embrace you. Why are you not talking with
+me?
+
+farerat ot EBT HOT eT AT HAT
+
+fata: ft aret Ay erafafrsorn 3 ent
+
+O lady! Who is so cruel as not to express
+sympathy on a wailing man? Specially, who.
+will not melt when she watches her own
+husband wailing. It is confirmed now that you
+really are cruel at heart.
+
+waahat saree ye wa agitate
+
+waar feat 3 sed aeaed AT FAN Yo
+
+O slim lady! You had earlier said that you
+will not live without me but you would not
+stand firm in your words, your statement was
+untrue.
+
+wale arrdad Uftert Yetta
+
+FUR TPT AT: APTA ore FHT gn
+
+O beautiful eyed lady! Come! Come to me.
+I am immersed in the lust ocean. Hence,
+embrace me. O darling! I depose that there is
+
+no other option except that I cool down the
+temperature.
+
+set faery acres witqary Teo
+sepa was Ges YA: AUR
+When such a wailing dream was over, he
+immediately stood up and started weeping
+loudly in the forest.
+4 if
+ates aaret quart fel
+faroae ert acer ferret
+MATE F MOT FANS Z A
+When the sex-god watched at a distance
+that lord Sankara was weeping bitterly, he
+
+took his bow soon and again shot a shaft
+called Santapa at him.
+
+PATA eat a fast
+ya: a daa aya
+— .
+RHI Goped feared Susi
+The Santapa arrow had made him more
+anxious and passionate to sex. In excess of
+appeal, he began to expirate from the mouth
+
+resulting anxiety spread over the whole world
+and the time thus passed.
+
+dante yak nett ea
+fageoranr at fat
+adh get arrgitagat
+fae: Uta west x4 HI
+zeal menttrarergst
+Uratferes ATT ATTA
+wr fat eer ot
+ued mae aeit gar
+igen aarti aett aeer
+ara Heeenfiratacnaistan we
+
+The sex-god shot Vijrmbhana weapon on
+Mahadeva resulting frequent yawning. At this
+state of body he strolled here and there and
+crossed the four directions. He thus reached in
+the world of demi-gods where he saw
+Pradhana Pajficdlika, the son of the king
+Kubera. He accessed to him and said- "O
+Nephew! You are extremely chivalrous. Do
+today as I suggest to you."
+
+Uranfere Jaret
+
+ave Ui Sear Tene
+yee salt fact:
+
+SATA ATGATAT Bini
+araisfaa & afageerre viet
+
+Pajicdlika replied- "O master! I will execute
+the assignment in spite of being tough to do
+for the gods. O master of unique powers! O
+Sambhu! please, order me. I am your loyal
+servant."
+
+## Page 51
+
+26 Vamana Purana
+oat sara aeai Fer Uyate Sara
+caret Tarat ararftaanrat aad asdaa a ara
+annie eypgfargisten galsa aretse garse afiy,
+fagoroieregtfatira ad aarreat wafer y Un
+
+ofa 7 rath vt ga ascn
+
+Mahesvara said- "My body is feeling
+aggravated sensuality on account of the
+demise of Ambika (Sati) as she was only able
+to satiate me. As I am hit hard by the
+Vijrmbhana and Unmada shafts, patience,
+coitus or pleasure has departed away from me
+causing sheer anxiety.
+
+fagent ya aa aa
+Pe TET
+art: qarenctag fe wat
+Geet werd fe aa: were ve
+"O son! Nobody other than you can hold
+the acute shafts of Vijrmbhana, Santapa and
+
+Unmiada shot by sex-god. Hence, hold these
+within yourself.”
+
+Yeres sara
+saa TITER
+aa: wdheare faery
+ai sear aera
+Feats Fe TAMING oft
+
+Pulastya said- "That demi-god had held all
+those shafts including Vijrmbhana and it
+immediately cooled down lord Sankara.
+Having been satisfied, he said-
+
+R sara
+TERA Yr Ysdafor
+
+ferent wdifsnha
+erat wat wit YATES
+
+erent citer a arerATT 4 RH
+
+Mahadeva said- O son! As you have held
+such fierce shafts within yourself, I will
+endow you with a boon worth bringing in
+honour and obeisance for you in this whole
+world.
+
+An old man, a child, young chap or a
+woman whosoever will either touch or
+worship you in the month of Caitra (March)
+
+shall immediately the intoxicated with
+sensuality.
+arate qatar waft wet
+arent aerate area
+aad eremerels fore
+
+sata & atrgarg 3 qny an
+O demi-god! They all will sing, dance, do
+merriments and play with expertise on musical
+instruments. They shall joke and laugh before
+you still bound in intoxication (Yoga).
+waa aren afaenfa yr:
+uratferam: waa: yfirearr
+WH MATRTERSY ATTA
+afeera qramasfirresi 4 it
+You will be honoured and addressed with
+my name. You will attain popularity with the
+
+name of Pajicdlikega. You shall receive the
+highest honour and could give blessings with
+my pleasure. Now depart to your destination.
+
+weet faye Waa
+aie Gerad walt
+ISNA: BTN eet
+ferrite efarorer: 114 4
+afergyua faat fafret
+eararcrefagerasat
+aferrant wmraiferat
+Ralshe fares fifteen y Gn
+
+Under compliance with the words from
+Mahesvara, that demi-god immediately went
+to see all countries. The supreme holy state at
+north to Kalafijara and south to the Himalaya
+
+## Page 52
+
+Chapter 6
+
+was the country where he finally settled down
+permanently. He became popular by the grace
+of Rudra. Lord Sankara also went to Vindhya
+mountain when he left that place.
+
+anf nett meat cast UAT
+BBr weaned Bat: MIgGTET NG tt
+
+The sex-god reached there also and stared
+at Sarikara. In order to defend him from his
+encounter, lord Sankara started running from
+there.
+
+wat areet att wefirga et:
+fae see aa aUete aah erAT 4 CH
+
+The sex-god chased them and at the end of
+such a race lord Mahadeva entered into a
+dense forest known as Daruvana. The
+household hermits used to live there with their
+wives.
+
+& ania aaa: ad get yet AeA
+aaa wane F wfratTATT NY 8
+Having seen lord Sankara there, the hermits
+
+saluted him with sheer obeisance and the lord
+asked for alms from them.
+
+Tae wifey: wd wa Teta:
+Tarssamnfar quanta afters ATTEN GoM
+All hermits kept mum and did not respond
+
+to Sankara. O Narada! lord Sankara then
+began to stool in all hermitages.
+
+a sfrg wer get enfant
+
+wairnraal Srarat: WATTLE 8
+
+a Beater a afr
+
+wranigqarg afararg fad wag 2
+
+Having seen Mahadeva enter into the
+rama all, wives of Bhargava and Atreya
+except most chaste Arundhati and Anusiya
+(their mind having dedicated to their
+husbands) became sensuous and ejaculated.
+
+aa: alfirat: wat aarenfs weet:
+aa went sararal wefergferatsaar: 11 § But
+
+The enchanted, sensuous and passionate
+women of agrama then followed lord
+Mahadeva wherever he went.
+
+27
+TeRaIsssmntor went taht at yeaa:
+appar wei aitwa ga FST gw
+
+As the (she) elephants follow the
+
+intoxicated male-elephant, the wives of
+hermits began to run after lord Mahadeva and
+contravened all the rules of the household.
+
+arg serat apr arfarigeat BA
+minfaargand fergiseradat gyfer g 41
+
+O sage! Having seen such a phenomenon,
+Bhargava and Angirasa hermits blew a curse
+that his penis (liga) fall down on the earth.
+
+Wa: woe tae fog yest ferred
+STS arr Faget Prevett feet: 116 & 1
+Mahadeva's penis then fell down on the
+
+ground and it penetrated the earth where it so
+fell. Mahesvara then vanished from there.
+
+ware Ufa fergat fatter ager
+Tanne fateny genes ettisfir Gon
+The fallen penis then penetrated the land
+
+and entered into the nether world. Its upper
+portion had penetrated the cosmos. ;
+
+aeararet yfaelt fire: ated am:
+WATS: TS STMT TTPTAT: 1 & 611
+The earth, mountains, rivers, trees and the
+
+entire world with active and inert organisms
+including the nether regions then shivered.
+
+deerqarrgsr yciferdifrare:1
+See Teed BE ats AMT ATTEN Sl
+Having seen all the worlds so shivering,
+lord Brahma went to see Ksirasagara.
+
+wa Gor edteagt wforrer a afd:
+sara &a yer: faraef gfizat fawn ott
+He bowed in salute to Hrsikesga and said-
+"O lord! O sovereign god! Why have all
+worlds (lokas) so shivered?"
+aatare efiderseorat fergt weft:
+Unfrererer aTeTat HATE TET o Vit
+Hari replied- "O Brahma! Some hermits
+have cut-off by curse the penis of Siva and it
+
+## Page 53
+
+28
+
+Vamana Purdga
+
+is the burden of that penis which even earth is
+unable to endure."
+
+Tere gars ear Sa: fray:
+
+Wa TROT VAM WANTS YA: FAM UH
+
+Lord Brahmi inspired then frequently lord
+Visnu to go and see there. He said- O lord of
+gods! Let us go there immediately.
+
+aa: frame Sat: Sayreay srereafet: 1
+
+anTagengeyt a fag wearer TAIN 311
+
+Lord Brahma and KeSava then reached the
+place where that penis (liga) had fallen.
+
+alsa Vfttig qEssea GT
+Uratet wfeererer ferararatia ferz:nio wit
+Having seen the unending length of that
+penis, lord Visnu was surprised overwhelmly.
+He rode on Garuda and entered into the nether
+world.
+
+ven gafaarsy sett wat:
+
+Farcaeggen fafert: GATT NOG UI
+
+Lord Brahma ascended and crossed all
+layers of the uppermost worlds through his
+lotus craft (Padma Vimana) yet failed to find
+
+the edge of that penis. Hence, he returned with
+sheer surprise.
+
+faapieatsa warerae eter: |
+aanfinatieard cisat 7 weg I
+
+Lord Visnu also searched for the edge of
+that penis in seven nether worlds yet he could
+not find it and ultimately came back above
+with surprise.
+
+faq: faarresint eferg Gar I
+
+parafegel year itt Fat wera: own
+
+Having failed in their efforts, both of them
+came to that penis and started praying.
+
+‘eitwenongag:
+was 8 Yet sy qe
+
+Sigraret Be wre HAH PETC
+
+Hari and Brahma prayed- "O Silapane! We
+salute you. O  Vrsabhadhvaja! O
+
+Jimitavahana! O Kavi! O Sarva! O
+Trayambaka! O Sarikara! we salute you.
+
+TRAT AUT Yanter gars!
+
+PRATT BICHAT TASTAN 9 Vl
+
+Salute to Mahesvara, = Mahesana,
+Suvarnaksa, Vrsakapi, destroyer of Daksa's
+yajfia, Kalaripa.
+
+wares wre wet TT
+
+TAR Waa AHS Ac ot
+
+O supreme lord! You are the beginning,
+middle and end of this universe. You are
+Bhagavan (enriched with six luxuries) and
+omnipresent. We salute you.
+
+Gores Sara
+a WRT Aare HI
+wae Tas area AeA ATC VU
+Pulastya said- The best orator Mahesvara
+appeared in Daruvana when the prayer was
+over and said-
+wR sara
+fared Saarret ufeyrant fragt
+Ui Wat yeast areranfrafareq ¢ 2
+Sankara said- "O couple gods! Why are you
+praying to me here when I am tired badly,
+passionate for sex and severely unwell?"
+
+wad: Farquy: wlad fer aegis ET
+Wayeat ya: sett Fa Waray c 311
+The couple gods replied- "O Sarikara! Re-
+entertain the penis collapsed on earth by the
+hermits. This is the cause for our prayer."
+RR sara
+werdafa freeman ferg ger
+memenfeeta Tae aT CS
+
+Siva said- "O couple gods! I re-entertain the
+penis once fallen only when the gods assure
+its worship; nonetheless it will be impossible
+for me.
+
+aa: Sara waartanfieater Sayre:
+Ten wad a sang fer arahaRETTN C4
+
+## Page 54
+
+Chapter 6
+
+29
+
+Lord KeSava replied- "May it be as stated."
+Lord Brahma himself entertained that yellow
+tint golden penis (liga).
+
+Teaert wraiengaud gel
+
+wrenfar dat qonht aritfafafemt anc qu
+
+The lord then authorised four varnas for the
+worship of Siva's liga (penis). The prime
+scriptures of these varnas are popular with
+numerous kinds of statements regarding the
+worship of Siva linga.
+
+one We uftearermarangad Wt
+
+Witt areragi age a aurora cin
+
+O hermit! The first sect of those Siva
+devotees’ is Saiva, the second is Pasupata, the
+third is Kalabadana and the fourth sect is
+called Kapali.
+
+fraanined wfadfaees fra: ya:
+area fred ayer Moret sft BAC
+Vasistha's son Sakti was a follower of the
+
+Saiva sect; Gopayana was one of his famous
+disciples.
+
+TAT TTT A TETTRTTET: |
+
+wee foreltsenygien eae: GATS eH
+
+Bharadvaja, a great austere hermit was the
+follower of Mahapasupata. The king of
+Somakegvara Rsabha was his disciple.
+
+ATR TATA TTT ATTNT: |
+
+aren Foret aegarer ATT wAPPTT BTN Z ott
+
+O hermit! Apastamba, an austere was an
+Acarya of Kalabadana sect. Krathesvara, a
+Vaisya, was his disciple.
+
+Reradt @ areeret fore dttary
+
+BURT SAT UA STAT YT ATA: g Bi
+
+Dhanada was a follower of the Kapéli
+(Mahavrati) sect. Karnodara, an austere man
+from Sadra varna, was his disciple.
+
+wa 8 aren PTs frat TTI
+
+BM Y ages ata Me TANS TI
+
+Having made a provision for lord Siva's
+worship for the four varnas by allocating
+
+ASramas, lord Brahma returmed to his divine
+abode.
+
+me walter raishs saeeTa TART
+
+ford faarat wen wfterer gare eau
+
+Lord Mahadeva too contracted in smaller
+size that liiga on the departure of lord
+Brahma. He established a small linga in
+Citravana and again started moving all
+around.
+
+ferred oer yet weet FYTGT:!
+
+arafeereanssat eat darafagyert: 11 es
+
+The sex-god again appeared before him and
+
+prepared for creating sensuous pain. A bow
+made up of flowers was in his hand.
+
+AAA EBT TEATAGYT BT:
+erenretenarare Ferararerconfaren 8 4 1
+
+Having seen that the sex-god again
+
+appeared for more nuisance, Mahadeva stared
+at him from head to feet with extreme anger.
+
+aretfenateraan weit gfe
+
+Wet Tal TAUCTAITA HAA F&I
+
+O Brahmin! In spite of Kamadeva having a
+strong and radiant aura, lord Siva's third eye
+had burnt him into ashes from feet to the head.
+
+weet ait eBIsat HAAG:
+Sera ay: TS AMT WHAT G91!
+The sex-god threw his bow away and it
+
+split into five pieces when he saw his feet
+burning in fire.
+
+Terity fees ageTye WET
+
+Baad: Graal Wer ec
+
+The portion at which grip is made on the
+bow was most radiant and fragrant and it
+became a scanted campaka tree when so split.
+
+Wear YATE zareteryaTy
+
+aaard deere aepet AAT BANG
+
+O hermit! The Nabhi-sthana became a tree
+of Kesararanya Bakula when so broken. It was
+
+decorated with a thunderbolt and was of a
+beautiful shape.
+
+## Page 55
+
+30
+
+ae aa yen enditfemierayiim
+WHAT AT WaT TAT TEUfAfeNPAAATH go ot
+Its koti studded with Indranila tuned into a
+rose plant swarmed by the bees.
+amrataft aan Ast war viferafineny
+WAYCUISHaSAT PgR CUTITATAATH Ro Bil
+The portion upside naha and at the grip was
+studded with the Candrakanta gem converted
+
+it into a white Juhi plant with five petaled
+flowers.
+
+a FEM aa: Seal: wr fagayfary
+
+PATER echt Tara fafeer FAN Vo BW
+
+O hermit! Upside grip and below two kotis
+studded with Vidrumamani was converted
+into a Malati plant.
+
+qaikont venfor qaitfir a are!
+
+aifegenht ta Taerattnfs a yo 311
+
+Wate unto qaieét cafe ae:
+
+weirs ganfar dye AEA: RoI
+
+O Narada! Deva of the bow originated
+
+several other beautiful and fragrant flowers.
+Kamadeva had thrown down his arrows on
+earth and all of them were converted into a
+number of fruit giving trees.
+
+garda ern carght fafaenf a
+
+RUE ASAT BATT Ro 4H
+
+With the pleasure of Sti Hara, there were
+originated numerous types of fragrant and
+tasty mangoes etc., fruits worth eating for the
+gods.
+
+Ud wen a BR: Ta way faq:
+
+quent farfgraig @ Sem TTASEAT oR I
+
+Thus, lord Siva went to the Himalaya for
+observing penance subsequent to setting
+Kamadeva into fire and maintaining balance
+in the body.
+
+wa Yu tat viT
+
+BMY Sa: WI: WANT!
+Ba: att aathg gra: gown
+
+Vamana Purana
+
+Thus, the supreme god Sambhu during the
+distant past had burnt into ashes Kamadeva
+with his bow and arrows, that great archer was
+thereafter called Ananga and worshipped first
+by other gods.
+
+fa sitarragarat dane aarmeret ara
+
+SEMTSIG I
+
+## Page 56
+
+Vamana Purana
+
+Chapter 7
+Description of battle of Prahlida
+Gores sara
+adtsag fergger gerarreait Af:
+fagedd aa: wre aad se STAIN aI
+Pulastya said- O Brahmin! The sovereign
+
+Narayana then smilingly addressed Ananga-
+"O Kandarpa! take your seat here."
+
+regent art ferererarta:|
+
+aerdiste werferat Serer HETETH Vt
+
+The sex-god was stunned with surprise
+when he saw Narayana unaffected by his
+
+efforts and O hermit! spring also fell into the
+trap of worry just then.
+
+TAMA GET ARTA a
+
+aatae WT array fe roan 3
+
+Then lord greeted the divine nymphs and
+said to the spring- "Come, spring and take a
+seat here."
+
+wat fees ware qeureary
+
+aera weganigiqatatat fata si
+
+God Narayana then smiled and took a
+bunch of flowers, put it on his thigh and thus
+originated a virgin whose parts of body were
+golden.
+
+aeaat waraut ger waiggeiy
+sat Tas: feats ar rar ean 4
+
+Kandarpa saw her and began to think- "Is
+she my darling Rati?"
+
+wea aad are Taferypfecreray
+Prac eeraTeHAT TOT It
+
+## Page 57
+
+Chapter 7
+
+31
+
+She is having eyes, brows, cross eye-lids,
+nose, upper and lower lips and appearance
+analogous to Rati. She has an attractive face.
+
+maa areafaret tat agit
+Tse: Fat Gt aarnfers dedhion
+Her pointed breasts with fleshy nipples are
+
+fascinating and mutually compact like those of
+gentlemen.
+
+Wea ay aden aferrafayfiry
+Set TT erent Teraferfargfier cu
+This beautiful virgin has the same belly
+slim, three lined, delicate and covered by furs
+(ie. like Rati).
+Morac a werent we
+
+TRE PRAT Yea ACTH TTN FH
+
+This line of furs ascending towards the
+breast side from the pubic region appears as a
+row of bees flying from the bank of a pond to
+the lotus flowers.
+
+wet wafafersiof sreren Targa)
+aittenat 4g yatta weTAN Yon
+
+Her broadened navel region covered by
+Karadhani appeared as if the mountain
+
+Mandara is covered by Vasuki serpent in
+course of churning Ksirasagara.
+
+mreetrerr ergy aT eH: |
+
+fennfa ar qerdgt vafergeaatran yet
+
+This fascinating beauty with white
+complexion analogous to the pollen grown in
+
+the lotus has ascended thighs like the stem of
+a banana tree.
+
+WPT JEyeS aT YA Tey aM
+FRUIT UreTareT HAA ATAT 8
+
+Both her knees, deep phallanges, beautiful
+legs without furs and both feet as bright as
+alaktaka are indeed fascinating.
+
+Sit dferrerarrenntaredcireary
+mrgiisat dare: feqara at BAM eat
+O hermit! When Kamadeva himself was
+fascinated and began to think so passionately
+
+then it is of no use to say anything about the
+feelings of other persons.
+
+meaisyaeit ger dfercater area
+faraerrttae User wa fat ys
+Sree Beet Fattes anfarPrenera
+‘eferafpermarenferetten greoTaT Tatu Bt
+O Narada! Spring too pondered merely on
+seeing her- "Is this the capital of Kamadeva
+itself?" Or the radiance of the moon is
+sheltered when night is over and on account of
+the fear of heat generated from the sun beams.
+yet faa sap
+weit gffta exrrnftrr: ay wre: get
+The spring stopped the nymphs and sat in
+meditation like a sage in deep thoughts.
+
+aa: @ faftrarcatarcuidiarert
+Bel Ware set fea seat Yaa: got
+sa wate areca meat
+raat qeettara dtaai areara an Ret
+O great hermit! When resolute Narayana
+saw Kamadeva etc. caught in surprise, he
+smiled and said- "O sex-god! O nymphs! O
+spring! join this virgin generated from my
+thigh, bring her to heaven and assign Indra as
+a gift from my side.
+Sqr: aes aaperdeh fea
+AAA at WET WIAA TMT Le
+They all shivered deep on these words,
+
+brought Urvasi to heaven and handed over
+that beautiful virgin to Indra.
+
+arragetd avai enismai wergt
+
+RATA AMTTTAS AERA: TEN Rol
+
+O great hermit! Kama etc. reported the
+master pertaining to the conduct of those sons
+of Dharma (i.e. Nara and Narayana) before
+Indra. He was greatly amazed at this entire
+episode.
+
+Tangy fe aft wafers som a
+
+Warey aan wet feearerg wT aN 2a
+
+## Page 58
+
+32
+
+Such a character (of Nara and Narayana)
+attained supreme fame and it spread in the
+nether world, earth and all the eight directions.
+
+Tear fret ty fecorefert ya
+afaftreretat Tat werel AT SAAN VR
+
+O hermit! A danava named Prahlada was
+enthroned long long ago when most fierce
+Hiranyakasipu was killed.
+
+aferorata ax SaareorgTe
+Targa wart art fafrrram 2311
+
+The kings, devotees to gods and Brahmins
+on the earth, used to organise yajfia as per the
+procedure prescribed in the scriptures during
+the regime of that demon-king.
+
+mraores wat end dtefarat a ada
+Spey Uy eM: Ya: YT TAT Vwi
+
+The Brahmins were engaged in penance,
+religious affairs and visits to holy places, the
+Vaisyas with animal husbandry and the
+Sidras with service to the three varnas.
+
+ange aa: ea = srt ectarifin
+Meant eat Far FRAT FATT PTT I
+
+© hermit! The four varnas thus kept
+themselves busy with their respective
+religious activities and heartily followed the
+system of their aSramas. The gods as a result
+were thus engrossed in their professions
+respectively.
+
+weg eat are atest Tere:
+sam atet oe ef dargrefare 2g 1
+Cyavana, one of great austere hermits in
+Bhargava gotra (clan), one day went for
+having a dip in Narmada at the holy place
+Akulesvara.
+Wa GBI Uelee al SQUAT
+serio sore Art: Menretfea: 1 Rou
+He first bowed "his head before Mahadeva
+and then delighted himself in the river with his
+bath. A serpent Kekaralohita caught that
+hermit when he merely stepped into the river.
+
+Vamana Purana
+
+Taras a Wa WTA VET
+
+aya yostrans Pfawsereret: 1 Be
+
+That hermit so caught (gripped) by the
+serpent summoned Hari in his mind and a
+mere chanting of the name of Pundarikaksa,
+that great serpent lost the power of poison.
+
+aerernferdtgor wats Tartery
+Fafemantey aeara Brat qeTTATT Re
+That poisonless but fierce serpent then took
+
+the hermit Cyavana into the nether region and
+then freed him from his grip.
+
+aera arty erat arta:
+
+PAE ATM: WRT: AAT 3 0 Hl
+
+Cyavana, the hermit began to live there
+duly honoured by the serpent daughters
+(Naga-kanyas) immediately when he was
+freed by the serpent. He was surrounded by
+those serpent virgins.
+
+faccafectena erat weqT
+
+aysaarh dard: wereiser caet aS tH
+
+In course of moving about voluntarily he
+entered one day into a vast city of the
+
+Danavas. He was seen by Prahlada, a king,
+getting due honour from the demons.
+
+SyGN wena: Yat aH wera:
+dyfadtefes gear wig tH
+Prahlada, the most intelligent king, duly
+honoured Cyavana, gave him a seat and asked
+
+the reason for his visit when he was
+comfortably seated there.
+
+W Blane wera wend werHeTT
+eagtarrats weer FE At ATS PATA 3 3A
+
+He replied- O king! I had come today for a
+bath in the holy-place of Akulisvara and with
+a passion to see the lord.
+
+Faaradtuister yaeanfen ae
+Sara Tet Ura GBA WaTAHT 3 HI
+
+As I was just alighting into the river, a
+serpent suddenly gripped me, took me to the
+nether world and here I could see you.
+
+## Page 59
+
+Chapter 7
+
+33
+
+Uae wl arent rere Feettat:|
+Maver enteigni w aves areata: 13411
+In response to the explanation of Cyavana,
+the great orator Prahlada said-
+Weele Jara
+sorerattt fait yfsreat anf erat
+Tardet a aft era STATEF AU 3 gH
+Prahlada said- O lord! Kindly tell me how
+
+many holy places are there on the earth, ether
+and the nether world?"
+
+wat sara
+foes Afre dhrafeat a gene
+wari agrarel Tarde fag: 301
+Cyavana said- O chivalrous king! The most
+popular holy places on earth, ether and nether
+world are Naimisa, Puskara and Caktra tirtha
+respectively.
+
+Jere sare
+gen wartaedt enna wer
+Aft Egeriisyenrenade 3c
+
+Pulastya said- O great hermit! Having heard
+this, Prahlada tempted to visit Naimisa and
+ordered the demons-
+
+weetg sara
+sfawed after: erg def fe Sf
+FRAT: Yustrenad werarerTEgAT 3 Hl
+
+Prahlada ordered- "Be ready, all of us will
+go for a bath in the holy Naimisa and see there
+Pundarikaksa putting Pitambara and who is
+called Acyuta.
+
+Yered Sara
+sae aaa wee Serena:
+appears fetqar TameNGN ¥o iI
+
+Pulastya said- "All demons made
+compliance to the order, became ready and
+then came out from that nether world."
+
+& ameter Star Sa Hela: |
+AaTAATTAT Tt ager: 11% gM
+
+Those mightiest Danavas took a bath in
+Naimisaranya with pleasure.
+
+aat fader: sterapreat & wa FI
+arated yoat geet fanciigarqs 2
+
+The demon king Prahlada then wished for
+hunting and started strolling in the forest
+adjacent to that place. He while strolling saw
+Sarasvati river which had cool and pure water.
+
+Wet Tera eget Vita
+
+Reet MOTT ATTEN YU
+
+He further saw, at a little distance, a huge
+pipala tree having vast extended branches but
+it was shot by arrows stuck there. Some
+arrows were compact at their points (heads).
+
+TARAS A ATA
+aylsget ear as wet Seba: fare est
+
+Prahlada became angry when he saw those
+nagopavita arrows having excellent shape.
+
+a tent matsquepemisret gh
+agaarerat qreraATat yy I
+He then saw two hermits engrossed deep in
+penance. They had put the hide of a black stag
+on the body and had long matted hair.
+
+wats undated eget rere
+wigan da sera a meget se 1
+
+There were kept at their sides, Sariga and
+
+Ajagava divine bows and two grand and
+undepleting arrow-holders (tarakasa).
+
+at qpiserat ser afivenferfer erra:1
+
+Wa: Ware set agut gear vio
+
+fa vest wired esi niferreT
+
+wa aa: Fa HEM: Bear At waren wc
+
+The demon king Prahlada deemed them
+pomp and egoistic and said to them- why are
+you both doing such ostentation? One side
+you are immersed in penance and put matted
+hair so long while you have kept these divine
+weapons on the other.
+
+aettare aa Set ar fara feta
+areal aft a: paticivea Te fee
+
+## Page 60
+
+34
+
+Nara then replied- "O demon king! Why are
+you so worried about our possession? If
+someone is competent to execute anything
+particular, he would have naturally the
+concerning equipment."
+
+aatare feriteredt an wiferefentte
+ate feat fers entaquanan 4 ott
+Prahlada said- When I am here, the sole
+founder of religion, what power should you
+bath have?
+ate wegareana strana wfatsien
+7 airwoaqaay TARTU get & gH
+Nara replied- "We possess supreme powers.
+Nobody can dare to battle with us (Nara and
+Narayana) in the battle-field.
+eeatet: Ha: MtaTATETE A
+aurea TATU TN BH
+Prahlada them promised- "I will defeat
+
+Nara and Narayana in battle by virtue of my
+divine powers."
+
+seagea set Tere
+fader: wre act AFA
+ferara ard syorenfergret
+eet EAE ERT 4 BI
+With this resolution, great Prahlada posted
+his army at the frontier of that forest, gave
+tension to his bow, tied the string on it and
+thus made a challenging sound by pulling and
+dropping the string.
+raat aeearerra fe ara
+WT aU qagheaarart
+trea arated: yore
+fade gerry: 14 su
+
+Nara picked up his Ajagava bow and shot
+several sharp arrows. These arrows were,
+however, cut-off by the arrows having several
+wings shot by Prahlada. All those arrows were
+thus shattered into pieces.
+
+foarte at: YaeArL
+aorta TSN
+
+Vamana Purana
+
+He: TANT TETRA
+yahs aranhafaeregarenrg 4 41
+
+Having seen the unique power of Prahlada
+and the arrows split by him, Nara gave a bend
+to his bow again and shot a number of arrows.
+
+TH TT at fefesteres
+drentqqaga fede:
+weg Toga we
+we dere Fafgraregararq 4 GI
+
+In a counter to the single arrow from Nara,
+Prahlada shot two, three when two arrows
+were shot by Nara and six arrows when five
+arrows were shot by Nara.
+
+a afiqgen frage tet
+
+eg Be afin a te
+We BA UTEL Aa WUATOT
+
+faaafe erat: AAT Gott
+
+O Brahmin! Prahlada shot eight arrows
+when seven were shot by Nara and ten arrows
+for nine arrows from him.
+
+wre aeettfor gent eer:
+ag agit amt dent:
+TaSTISH STATS ATO,
+yaagedt quai fe ary cit
+
+Prahlada shot fifteen arrows when Nara
+shot twelve arrows at him. Similarly, he shot
+seventy-two arrows when Nara shot thirty six
+arrows.
+
+wat aa arorTatea-
+
+Taree frat fee: GH
+Bafa dreamer: yar
+
+farede Arrears y eH
+
+Three hundred arrows here shot by demon
+king when Nara shot one hundred arrows. He
+again shot one thousand arrows against six
+hundred arrows from Nara’s side. Both of
+them then shot numerous arrows in order to
+defeat each other.
+
+aa: Vafateaht quyt atari
+Fal aga ast: TERA G oll
+
+## Page 61
+
+Chapter 8
+
+Nara then covered the earth, ether and
+directions through a pile of arrows blown.
+Prahlada too on his part split them all by
+shooting arrows having gold wings.
+
+arg tan arrennftrr
+
+art Frat g fearmerery
+Fe eT TEATgE A
+
+ate arreorrerargg en
+
+Both these warriors then hit fierce weapons
+and arrows at one another.
+
+arg aaa arrerafirr
+
+amt figrh g frarmeream
+TAT PRT
+
+ae arert fatageiting 2H
+
+Prahlada then took a supreme weapon in
+hand and put Brahmastra on his bow while
+Nara (Purusottama) exercised Mahesvardstra.
+Both these weapons collided with each other
+and were destroyed simultaneously.
+
+TEA Y WeHA were: wtTAEA:
+Tet MYR ATA Wee TATA G 311
+Having seen that Brahmastra failed in its
+target, Prahlada was in furiated. He picked up
+his mace and jumped down from his chariot.
+mreranfar warard Set ATTA
+BBs yer At AAA: TATE v
+
+When Narayana saw Prahlada advancing
+with his mace, he pulled back Nara and came
+in front for coupling with his attack.
+
+wat faite: ware: TATRA,
+aeparot avat Feary
+werd Guuitqarfaat
+ATTTUE ATS STEHT & & 11
+O Narada! Prahlada, the demon king with
+
+his mace then rushed towards great chivalrous
+Narayana who was with his Saniga bow.
+
+TAMU YRS WeTaTS ATT
+* PARIS: Ho
+
+ee
+
+35
+
+## Page 62
+
+Chapter 8
+
+35
+
+Chapter 8
+Boon offering to Prahlada
+qed sara
+wigutornrard eprst area:
+afar ret Aarget merasaq
+Pulastya said- The demon king gave a
+strong blow on the head of Sadhya (Narayana)
+when he saw him marching forward.
+afsrena nea cigar AR
+Janarnacat afeadfadt gfan 2
+O Narada! On account of the severe pain
+caused by such a hard blow, tears like fire-rain
+
+fell from the eyes of Narayana onto the
+ground,
+
+fet arraurenfa ar vet arenfian
+
+SATA PIT TSHPYZ FATS: BH
+
+O Brahmin! As the thunderbolt is split
+when it is fallen on the mountain peak, the
+
+mace blown on the head of Narayana was split
+into several hundred pieces.
+
+adt Frgra eetg: warera wi gat
+arene anes Square WATER wit
+
+The demon king then tured back
+immediately, rode on his chariot and took out
+an arrow from his tarakasa.
+
+ane at ae meeneciger
+
+wether arearar aed aaterrereR AeA: HG HI
+
+He then in blind fury shot a number of
+arrows having vulture wings at Narayana.
+
+ARTI Way aToTar saa
+fade ariiathifeite = arr gi
+
+Narayana cut-off those half-moon shaped
+arrows with his arrows and some other arrows
+were also shot to hit at Prahlada.
+
+aah areraot Seat et aTeTETUT it:
+anfaatat rasaiet wiftaatirert: 1109
+Then Narayana and Prahlada both exercised
+
+a number of acute and direct hitting arrows on
+each other.
+
+## Page 63
+
+36
+
+Vamana Purana
+
+watstat dfrarat Faraway
+
+feqyuit tar qa ory fect a ag ach
+
+O hermit! A crowd of gods desirous to see
+this short-term, excellent and hurried battle
+gathered in the sky.
+
+Wa: QUOT Fy UsateErt WET:
+qertrieet qyq: wert ¢ 1
+Those gods then played the trumpets
+
+making a loud noise and showered flowers on
+both the warriors.
+
+ad: Weary day Tey age
+aaaat weal Reresitfrrs TT R011
+These great warriors and archers then
+
+fought a war throwing in surprise the crowd of
+spectators in the sky who all were gods.
+
+weRagEranssaret aTgat wea feta:
+
+fever faferrater orqdat yritent:i gan
+
+Both of them shot numerous arrows and
+these covered the entire sky. All directions
+and the angles of those directions were filled
+with the stock of arrows so blown.
+
+wat ARTO TATE ETAT
+favre antitetent: werd wdergn ez
+Wel deat: PSTN Sera
+fate wad aeded a ATTN aH
+O great hermit! Narayana exercised acute
+arrows and hit hard at the sensitive spots of
+Prahlada's body while Prahlada too hit at the
+
+heart region, both arms and on the face of
+Narayana.
+
+watsendt dered: anes gfe
+
+fardear ae ageracedam exit
+
+Narayana then shot an acute half-moon
+shaped arrow and cut-off the bow held by
+Prahlada just from the portion where the fist is
+made.
+
+are safvedt UT ATT
+attired orereregeen cent FfRATSSTTN Rh It
+
+Prahlada threw immediately that bow and
+replaced it with another. He then shot a
+shower of arrows at Narayana.
+
+Ana WRT andar
+wanes @ agetor ferade yearerg: 1 eg
+
+Narayana again split those arrows and cut-
+off that bow too.
+for fod aqeereerqaamee|
+arent Fat wre Br fered eTTATN got
+O hermit! Prahlada replaced one after
+another bows but all were cut-off frequently
+by Narayana with his extreme expertise in
+archery.
+dfirem ary sere fefrsat:|
+utter arent ded adetrent Fem ee
+Prahlada, when all bows were over, picked
+up a fierce and formidable Parigha made up of
+iron in large quantum.
+
+ufeyena afte srrarara ara:
+mreerarat a ferede ATT WeTAAT Re
+He thus gave a circular move to Parigha
+
+but, in the meantime, Narayana shot an arrow
+and it was cut into parts.
+
+for 7 URS starrer east:
+Bat ory ate wfeate TERT Rott
+
+When Parigha was cut-off, Prahlada gave a
+circle to Mudgara and threw it at Narayana.
+
+aartest aerate
+fade tyre area: a fase aargian 2 ei
+O hermit! The mighty Narayana shot ten
+
+arrows and cut that Mudgara into ten pieces. It
+thus fell on the ground.
+
+UR feaa ore werner Stary
+
+siege trae a a feeds nt 2 zit
+Prahlada took Prasa and threw it at
+
+Narayana when he saw that attack by
+
+Mudgara has failed. Narayana cut it also with
+his arrows.
+
+## Page 64
+
+Chapter 8
+
+37
+
+wre fox at dea: wrfmerere fare
+at fede aera aT MEAT: 113 Bt
+Prahlada on failure of attack by Prasa, took
+
+Sakti and threw it immediately but it was also
+cut into pieces by Narayana.
+
+foay ay wey arasaaeaY:!
+
+AALS Aa ATTA ATH 2%
+
+O Narada! The demon king then took other
+supreme bows (Mahadhanusa) and showered
+arrows on Narayana when the stock of all
+other weapons was finished and could do
+nothing.
+
+at areaott at terre Sere:
+ARTAAAT FAS HCA 1 2 Ul
+Then Jagadguru and supreme austere
+
+Narayana made a blow with Naraca just at the
+heart of the demon king.
+
+a frre seredrgrartor
+Froara waiteret aerate ATA EH
+
+O Brahmin! That demon king fell down at
+the middle portion of his chariot on account of
+the severe blow at the heart region by Naraca
+(a weapon). His charioteer then immediately
+took him away.
+
+a dat fetal siren fetta: 1
+Bee aT yet ARITA: Bot
+The demon king came back to
+
+consciousness after many hours but he again
+appeared at that place for another battle. A
+strong bow this time was in his hand.
+
+warn after wyatt ATT: |
+
+Tree Seg StI: MT RATARHATET VCH
+
+Having seen him re-appeared, Narayana
+said- "O demon king! we will not fight in the
+
+morning. Go back and perform Anhika-karma
+as prescribed for the morning."
+
+Tage fadiereg metrgrantom
+
+ari Aftrarcod fara as Aatssfeeary 28H
+
+Prahlada returned, visited Naimisdranya
+and performed Anhika-karma there.
+
+wel gente 3a a weret gagy yFT
+
+wat ferred Be at Sent aftr 3 ot
+
+O hermit! Prahlada kept his mind busy
+throughout the night on a strategy to defeat
+Narayana by duly recollecting the experiences
+of the day.
+
+Ua ARTAOTat Tetqert ARE!
+
+feat adage x deat Fa a aTeTAAI 3 a
+
+O Narada! Prahlada fought for several
+thousand divine years with Narayana; still he
+could not win him over.
+
+ad atagart aft year
+rarest erat area 3 2
+
+When he could not win Narayana in spite of
+the tremendous battle with him in which he
+applied his all skill and expertise, he went to
+lord Visnu and said-
+
+farmed Saterer wet arr Vey
+fag aise wert wat areot aan 33
+
+O Mahadeva! Please tell me the reason why
+I could not win victory over Narayana till
+date?
+
+Whaarat saret
+Qiaiseh werengeeen were whet:
+meat famed tage Zargtefin a si
+
+Lord Visnu replied- "O Prahlada! the great
+chivalrous son of Dharma is beyond your
+powers and you cannot defeat him. Those
+intelligent Sadhya Devas are invincible and
+undefeatable even by all the gods.
+
+were sara
+aeret gaat Fa we area Ton
+reared Tenferarrct TTL wrferwafe | & 1
+Prahlada said- "O god! If those
+Sadhyadevas are unconquerable, what will
+
+then be of my promise? It will then prove a
+mere fallacy.
+
+Serta See set sitet age:
+areca fereit aaftey arreryireorr 3 11
+
+## Page 65
+
+38
+
+"O lord! How can a man like me live life
+when spotted as false and resolute? O Visnu! I
+will therefore, give-up my breathing before
+you."
+
+Jered sarey
+seeaqeren aert fant aa:
+fort: Srreaer wet JorTET HATTTTN 3 lt
+Pulastya said- "With these words the demon
+king Prahlada set his breathing in head, seated
+
+himself there and started chanting the hymns
+relating to everlasting Brahma."
+
+wat draafe fee: dicaratsadtaa:1
+ares Safe were aT BSA BAI
+Lord Visnu then said to Prahlada- "Go there
+
+again. Remember that you can only win them
+with devotion and not by ensuing battle."
+
+Were Sara
+wen fart Sate Acierafe gaat
+Wag rare ret feng TAs
+Prahlada said- O god of gods! O great
+resolute! I have won the three-world by virtue
+of having your pleasure with me. What to say
+about these sons of Dharma.
+
+wan fit Sake Seireaatt Yara
+
+fardise marorares yon: feaga nits xont
+
+O unborm! If that resolute is undefeated by
+any person in the three-world and I cannot
+stand before him even after so backed by your
+pleasure, tell me then, what should I do?
+Waar saver
+
+Wisé aragge ceri ferereren
+
+ert yeratafang aasrat aanf tera: gn
+
+Lord Visnu said- O great demon king!
+Narayana is nobody else but 1 myself and
+busy there on penance in order to establish
+religion above all so that it could render place
+to all. ‘
+
+Terefgeafa set TATE eal
+a es wacar TET TT TTT RI
+
+Vamana Purana
+
+Hence, O danavas! Do their worship if you
+want to win them. You can defeat them by
+your sheer devotion. Hence, serve those sons
+of Dharma.
+
+Jars sara
+sep: Waarea eas TET
+Sate TE: TANISHA BU
+Pulastya said- O hermit, Prahlada pleased
+with this, called Andhaka and ordered.
+
+were sant
+ders grata vftararrareas
+
+Targafad wed mites et mE ssi
+
+Prahlada said- "O Andhaka! Provide
+maintenance to all daityas and danavas. O
+chivalrous! I abandon and assign the state and
+all stately affairs to you.
+
+wage wag Tet Seva:
+vereisfa reismeaque wefan yy i
+In compliance with the order of Prahlada,
+Andhaka (son of Hiranyaksa) took over the
+liability of the state. Prahlada then went to
+Badrikasrama.
+Ber arent Be at a feferstae:
+parefergel yet aay ait wats wet
+He saluted with his head on their (Nara and
+Narayana) feet at Badrikasrama.
+AAAS TERIA ares ATTaTSETa: |
+farrd soriisdte arafareat wergut x9
+Narayana, the greatest genius and
+imperishable said to him- "O great demon
+
+king! Why have you shifted to salute instead
+of defeating me in battle."
+
+were Sart
+wea Ag wa ys: HRT: Yeas hr:
+4 fe arreottsaat: Haaren sas ci
+
+Prahlada replied- "O lord! Who can
+conquer you? Who is the man here greater
+than you? You yourself are Janardana,
+Narayana immortal and Pitambaradhari.
+
+## Page 66
+
+Chapter 8
+
+i 2a: qusttenred faeq: maT
+Tarra AEM: PIT: FRATT Se
+You are Pundarikaksa and Visnu with the
+Samga bow. You are imperishable,
+Maheévara and immortal Purusottama.
+
+wat dfimferata aah wtifior:1
+ware Siteareat a saat cat et aTAET:II yo
+Yogis do meditation, scholars worship,
+celibates (sndtaka) do japa of your revered
+name and yajfiikas perform yajfia.
+vanegat witeryernanfined ez: 1
+meni waferreata SETTING RU
+You are Acyuta, Hrstkesa, Cakrap4ni,
+Dharddhara, Mahamatsya, Hayagriva and the
+greatest Kacchapa (Kirma).
+favoaafy: serra gat:!
+wfeagagrentttarat Fare GU
+
+You are Sriman, killer of Hiranyaksa and
+god pig (Stkara). You yourself are the killer
+of my father god Nrsirhha.
+
+ven fratsmcTegaT:
+Renfertt fafa: wi:
+wat pugisaeraqaret
+
+sera are AAT 4 3H
+
+You are Brahma, Mahadeva, Indra, Agni,
+Yama, Varuna and you are wind. O sovereign
+god! O administrator, O Garudadhvaja! You
+are the cause of the sun, moon, the immovable
+and movable.
+
+wa yet wahferrenrgt Het Yea TEA: |
+ae Se STR aaa Teak ATAU 4 WH
+
+You are the earth, fire, sky and water. You
+are present in this whole universe in several
+
+thousand forms. O Madhava! Who will
+conquer you?
+were afe eta seas sgt
+
+aren a wereaisfar Sg aeraTseTa G4 It
+
+O Jagadguru! O Hysikesa! You can satisfy
+yourself only on the devotion made. O
+
+39
+omniscient! O everlasting! you cannot be won
+in any way and by anybody.
+wraryarat
+
+ufgetsfér & ter waar Yat
+
+ARM ATM UE TAT a Tafa 14 Gt
+
+Lord said- O great resolute! O Daitya! I am
+pleased with your prayer. O Daitya! This
+exclusive devotion has defeated me.
+
+Wats yea der gus washer
+
+quer # werent at qu afireafan yon
+
+O Daitya! The defeated man is given
+punishment but instead of receiving any
+punishment from you, it is I who will bless
+you. Ask for anything that you desire.
+
+Were Sart
+
+ara at ae Set F aguefan
+
+wy Ue oe Ag PI aH ATI CI
+
+anferes Trae aT TE FEAT: |
+
+TUT TEASER WaT Ay Vi
+
+Prahlada said- O Narayana! You are
+
+competent to bless me with what I ask for.
+Hence, O Jagannatha! May the evil committed
+on my part through body, mind and speech in
+course of fighting, all that may be absolved. I
+
+pray and ask for it. Please, bless me with this
+boon.
+
+ARTA Sara
+Te wag aerq oe a ang eee
+faite wee at i cenit TaTgTNG on
+Narayana said- O demon king! May it be as
+you wish. May your evils so committed be
+
+absolved. O demon! Ask for another thing. I
+will render it also.
+
+‘Were Sara
+a ar waa & gf: at at fae arti
+ar a Fret wafer waerTaT Gt
+Prahlada said- O Visnu! Whatever
+inspiration would get birth in my mind may
+that all be shelter to you, for worship to god
+and for meditation on you.
+
+## Page 67
+
+40
+
+ARTA Sava
+Ue afar ami aftreofa
+a goiter ugranét werearaferarcaq § 211
+Narayana said- O demon! It shall be as
+desired. O chivalrous! Ask more whatever you
+
+like. I shall bless all that without application
+of my analysis.
+
+Were sara
+adie wer cred warrarereelersil
+
+warrergarea fe wafrreg Wet WANG 31
+Prahlada said- O Adhoksaja! I have got
+everything with your grace. May my
+popularity live long with your grace.
+ATAU Saray
+Tereant aneg Prerraatsera:|
+srererrentte Herarerefareatai & v1
+Narayana said- It shall be as asked. Besides
+it, you shall be immortal, always youthful and
+invulnerable with my grace.
+
+Tree tere Seared fea:
+ot aperel wreret wfererer srferearferns & & I
+
+O lion to the demon dynasty! Go back to
+your residence and always be busy with
+religious deeds. You will not be betrayed by
+the bondage of Karma (deed) since your mind
+will be always with me.
+
+WMATA UT PITT!
+aanfraget dea qe eg § G11
+Rule ceaselessly over the demon subjects.
+
+O Daitya! Observe supreme religion as
+prescribed for your race.
+
+Jered Sara
+sey ca Were Sanat
+are tet TaTeTe Ute STG GO
+Pulastya said- When these words on
+blessing were over, Prahlada said to god- "O
+Jagadguru! Tell me, how should I regain the
+State, already abandoned?"
+
+Vamana Purana
+
+Ayers wean res et Frome
+fedater tert erat Fe WANG cI
+The lord of the universe (Visnu) said-
+
+Return to your residence and be preceptor to
+the Daityas and Danavas.
+
+aRTaaage: Waar SeTTE 1
+wforaeer fey get srr art Far g ett
+Prahlada accepted this suggestion, bowed
+
+before the lord and returned to his residence
+thereafter.
+
+qe: wafwaante eraeeat a
+
+Frafacer Tears A wedhesee ATEIN9 01
+
+O Narada! Andhaka and the Danavas
+greeted Prahlada on his return, requested to
+
+accept the throne again but he did not accept
+that offer.
+
+Tee after Target
+
+za was eas
+AACA
+
+reat wer atrfearyeee: io en
+
+The great demon king (Prahlada) thus
+abounded the state, preached to the Danavas
+the ethics, engrossed himself in unique
+KeSava and attained purity of body through
+Yoga.
+
+YU ang eae
+
+ARTaOr AST
+wafsrante fare Tee
+
+amet wt erat afsatgai 0 21
+
+O Narada! long long ago Prahlada thus
+defeated by Purusottama Narayana,
+abandoned his state voluntarily and attained
+supreme position by virtue of his mind
+exclusively concentrated on lord Narayana.
+
+pelt i iil nen
+
+Prd
+
+## Page 68
+
+Chapter 9
+
+Chapter 9
+Description of battle of demons and gods
+ANE Jara
+Sad: set UR verearTaT FA
+aafarfirar arransft taterd war
+
+Narada asked- "O hermit! Why did
+Prahlada incoronate the blind Andhaka in
+spite of his being well conversant with rules of
+everlasting Rajadharma?"
+
+Yee sara
+Teragrat qat fecwaishe stain
+aettsfirfirar deta wares fast wan 20
+
+Pulastya said- "He had regained eye-sight
+even at the time when his father Hiranyaksa
+was alive. As he was no more blind, Prahlada
+was justified in assigning to him the throne.
+
+ARG Jara
+
+TRismasfatmey feared Yaa
+
+enfef: we set TARA Tae AM
+
+Narada asked again- O great resolute! Tell
+me what was done by Andhaka after the
+incoronation and what was his behaviour with
+the gods?
+Yared sare
+
+TRashiafamt gers ferwmneretensae:|
+
+arenssTea Bayi Yoranfti Freer su
+
+mremaardt Utrera:
+
+ATC FUGA SIMS HET AG
+
+WF aren” tet Tea
+
+We Filed rar wae aise G 1
+
+Pulastya replied- Andhaka after the
+incoronation, sat in penance for the pleasure
+of three-eyed lord Mahadeva. He thus was
+bestowed with powers by the undefeated
+gods, siddha, hermits and serpents, unburnt by
+fire and undrowned in water from lord
+Mahadeva. He then held the rein of state
+under the priestmanship of Sukracarya.
+
+41
+
+Wes YET SATA AT: |
+SR Agar WaT ATTA 1
+The demon Andhaka then developed war-
+
+craft and strategy for conquering the gods. He
+thus defeated all the kings on earth.
+
+wafer etree Freiter a
+a: ad Refereat srrargaaeta cit
+
+After defeating kings, he appointed them as
+assistants to handle state affairs; he climbed in
+their company at the excellent peak of Meru
+mountain.
+
+vratste gedaan ayeier wera
+
+wareerertacat ate sear fatter ¢ it
+
+Indra too came out after assigning the
+proper defence-related instructions _ for
+Amaravati. He rode on Airavata elephant and
+set out to see that peak with the divine army.
+
+yma wart came waste: |
+orem ated es Urge Pregafe:n gots
+Other Lokapalas equipped with their
+weapons rode on their respective carriages
+(vans) and followed god Indra.
+
+Radhaste a at yeboTgTentom
+
+Ferrera aorarfrentetir:u gen
+
+The divine army consisting of elephants,
+horses, chariot etc. also set out speedily with
+Indra, the king of gods.
+
+amt greyfern: yous facie:
+
+welset cat fed wenfirreat Tor:
+
+eaferenerrensy eh ea arerTeTA RAT: 11 2M
+
+At the front of the army there were twelve
+Adityas, Trilocana (Rudraganas) at the back
+and eight Vasus, Visvedeva, Sadhya,
+ASvinikumara,  Marudganas, _demi-gods,
+Vidyadhara etc. in the middle. All began to
+march forward in their respective carriages
+(vans).
+ANE Jara
+
+eae aay areTe a WaT:
+
+Tereneentt nist wt algget FAN Va It
+
+## Page 69
+
+42
+
+Vamana Purana
+
+Narada said- O master in religion! Describe
+the names of carriages (vahanas) on which
+Rudra etc. had marched. I am curious to know
+this topic in detail.
+
+Yorea Sara
+supe aafsenty wearaia area
+
+SET AOTAA ChAT: 11 Vs
+Pulastya said- O Narada! I explain all
+
+vahanas in a series and precisely. Please,
+listen to me carefully.
+
+eaeeracierat weraat wera:
+
+Feat warafe See aT BG
+
+The ‘white coloured Gajapati (Airavata),
+excellent in speed and power is the carriage
+
+(vahana) of god Indra. It originated from the
+palm of Rudra.
+
+wreaeat itt qerauif waa:
+
+hogar ame feet TET ATTN 2 11
+
+O Narada! A buffalo called Paundraka,
+most fierce, dark in colour, a racer as mind
+
+itself, is the carriage of Dharmaraja. It
+originated from the thigh of Rudra.
+
+eaaulaciga: yarat weenie:
+
+fargant feearnft: ated aTROTET AI Bot
+
+The Sisumira called Jaladhi is the carriage
+of Varuna. It was originated from the ear-wax
+
+(soil) of Rudra. It has dark-complexion and
+has divine speed.
+
+da: maces: dered They
+aaftaenraretyat ATE TACET GU R21
+
+Narottama, having eyes like chariot wheels,
+a gigantic body as the mountain, a fierce
+figure is the carriage of Kubera. It originated
+from the feet of Ambika.
+
+Waray aT ATE AEN
+Treaty verdtat qtr: ereoT:|
+daft sheaf garoarsranht aN ee
+
+O great hermit! The carriages of eleven
+Rudras are white bulls. They originated from
+
+the ray of Gandharvas, fierce serpents and
+Saurabhi.
+
+wa aaTeeeaed Aa
+Beat rarer anferean AAATA Roll
+
+O great hermit! Half a thousand (i.e. five
+hundred) swans are the carriers of the moon's
+chariot and the horses carry the chariots of
+Adityas.
+
+Hay Taal AAT AAT: |
+
+ferret yornsat garest aenftt 2 gH
+
+Elephants are the carriages of Vasus, men
+are the carriages of demi-gods, serpents are
+
+the carriages of eunuchs (Kinnaras) and
+horses are the carriages of Asvinikumaras.
+
+argtatsa rerredt SEE: |
+Yearecey Haat werater vanes: zit
+
+O Brahmin! Stags are the carriages of fierce
+face Marudganas, parrots are the carriages of
+
+poets (Bhrgus) and Gandharvas are
+pedestrians.
+See AAA Tat ARTAAT: |
+
+we feigest gert quale: 23n
+
+The great gods glowing with brilliance thus
+marched forward for war with cheers on their
+faces, properly equipped with weapons and
+rode on their respective carriers.
+
+ANE Jara
+
+afer quatt areata erat BA
+
+Sant areata aereapTefaN 211
+
+Narada said- O hermit! You have described
+
+the carriers of gods etc. Please, describe in the
+same way the carriers used by the Daityas for
+their riding.
+Jord sara
+
+US eae aretha fein
+
+perfarentiy aaa Terenas ge Pan 24 11
+
+Pulastya said- O great Brahmin! Listen to
+the carriers used by the Danavas. I am going
+to describe them in substance.
+
+## Page 70
+
+Chapter 9
+
+43
+
+arene wh feet Gea: TeaaTfsha
+Porat: aearberrearaCaroTar TI 8G I
+
+An immaterial (alankika) chariot of
+Andhaka is operated by the dark-
+complexioned horses. It has one thousand
+spikes. (The wood is fixed between the centre
+and the radius) and it is measured as twelve
+hundred hands in size.
+
+were wah feemercaufgaret:1
+SOURMISEI: PTKATTA: YM RoM
+The pink coloured beautiful and divine
+
+chariot of Prahlada is driven by eight best
+horses of moon tint.
+
+fates a: GATE YEA
+wera gy wh feat wa: arated 2c
+The carriage of Virocana is an elephant and
+Kumbhaja has a horse while the divine chariot
+of Jambha is driven by golden coloured
+horses.
+
+vegeta yon gaia Fart:
+
+at mae fare Fyter wee
+
+The carriage of Sanku Karna is a horse, the
+carriage of Hayagriva is an elephant, Maya
+has a grand chariot and the carriage of
+Dundubhi is a giant serpent.
+
+rave frrtsyea: wgrinfire:
+
+aegat =o afert mangacrenfiaiti 3 011
+
+wea tardanhs sifigfagyeri
+
+The carriage of Sambara is a Vimana and a
+lion is the carriage of Ayahsafiku. Bala and
+Vrtra, the mighty Danavas, were ready to
+attack the divine army with mace and musala
+but without any carriage.
+
+wat THA: UaetishersiaanT: ng gt
+
+Tren agit ata: fagaufs ar
+sararetter fret yt Ya: Fae Teg BH
+anart fngd wa a Yo
+
+A fierce battle was then fought. O Narada!
+
+The entire universe was covered with yellow
+coloured dust. It was so thick that a father was
+
+unable to recognise his son and a son his
+father. O great resolute! Some soldiers began
+to blow their weapons on their own people
+and some others began to attack the opponents
+on account of being tough to recognise.
+
+anfirgat mere wataft wrer|TH 3 3 1
+Te TTS oT are Mera
+Taree aHa: verraateaorg 3st
+
+The warrior on the chariot attacked another
+chariot, the elephant with another warrior,
+elephant and horse riders marched forward to
+attack the soldiers who rode on horses. The
+pedestrians began to attack pedestrian
+soldiers. Thus, all these warriors began to
+shower blows on each other in order to defeat
+them.
+
+Tee 9 sere feTTT: |
+aay dpet aferqs targt FN ga
+rade Fat Sh pret TORT:
+vifortter wreat aterdeganferttu 3&0
+
+O hermit! As a result of such fierce battle
+between gods and demons, there flowed an
+inaccessible river in which the water was of
+blood whirls were made by broken chariots,
+tortoise-like shells of dead elephants body and
+fish heads were seen. It was swaying the
+crowd of warriors and it had merged the dust
+so raised initially when the battle was started.
+
+TRgerergat weit grea
+PenrreTra Terfareafetti 3 911
+apatarcriaiot wareartrafert
+TIRES VATATEATSATI 3 611
+ATT WATUTTETHET
+farreaghrdaitot gent wrgdstt:13 eu
+aera: Gat: Yaa warTfat
+AYE: FEIT: WA
+Ar A Alea HATTA: 11% 0 1
+
+There were a large stock of crocodiles ‘of
+sharp edge Prasa (weapon), Graha of axes,
+intestine algae, flags froth, Grdhra and Kanka
+
+## Page 71
+
+44
+
+Vamana Purana
+
+flamingo, Syena, Cakravaka, wild crow
+Kalahamsa, jackal and sages Pisaca. It was
+tough to cross by common people. The
+chivalrous warriors who intended to gain
+victory were immersed up to the knees. They
+were crossing that river through the boats
+made of broken chariots yet were busy in
+blowing sharp weapons on each other.
+
+amg a3 gaat
+weed treintsen
+wife aerer YaweT:
+fargrerqureatinat ais eu
+fragment wern-
+Tate aie a serafen
+ari faut a ferege
+Tniaerarana safes BI
+The monsters and demi-gods as also
+Pisacas were very glad to see such a fierce
+battle between the demons and gods in which
+both were meeting to destruction while it was
+dreadful to the cowards. The Pisaca and
+monsters were sipping concentrated blood and
+eating flesh with mirth. The carnivorous birds
+were busy piercing the flesh in pieces and
+
+they would reveal annoyance had any other
+bird come and interfered with their work.
+
+yata tearcvanfsereer
+were ater yf Searats
+vremcren Frade art
+Fe Vat TAU YZ
+The jackals were yelling, the warriors
+injured and fallen down were crying in pain.
+Some soldiers began to fall down wounded by
+the blows from weapons and arms again and
+gradually the entire battle-field was tumed
+into a cremation ground.
+
+aftafasar erat wat
+Fuga yas
+3 wt arg
+Bas ferret FUCA:
+
+The battle between the gods and demons
+was fought so fiercely with the yelling of
+jackals, that it appeared as if the warriors
+skilled in war-craft betted their life with
+weapon formed pasa had engaged themselves
+in gambling.
+
+ferret Wiserat
+
+@ fad afraeain
+TRS er
+
+aafaareaate weaeRGAN SI
+
+Andhaka, the son of Hiranyaksa marched
+forward by riding on a chariot driven by one
+thousand horses to fight against Indra, the
+king of gods who rode on the intoxicated
+Airavata elephant.
+
+wareerd Tfeurterad
+
+ae wihesqacranteiter: |
+were FUTTTT
+TH WAT AAA YG
+
+The demon king Prahlada rode on a chariot
+driven by eight horses, took weapons in hands
+and faced aggressive Yama on a buffalo
+boldly in the battle.
+
+fatteranft west
+
+TRA RAUTTGAS TATETT!
+arg anaes a yiatisa
+
+wat Rae G_e TPZ wot
+
+O great hermit! Virocana advanced to fight
+with Varuna in battle, Jambha marched to face
+the mighty Kubera, Sambara marched to face
+Vayu while Maya began to fight against fire-
+god.
+
+at Rattenpar Tera
+ferent eqyrawa
+TU GTRA TPT
+we Boar Terao aA: YC
+
+Hayagriva etc. other mighty Daitya and
+Danavas began to fight against fire, sun, eight
+vasus and urgesvara etc. gods,
+
+## Page 72
+
+Chapter 10
+
+arf atafeatirenan
+yaa aREPOTTEaT
+anes 3 fasta fe gaausen
+They faced each other with sharp
+challenging statements, gave extra-tension to
+their bows, shot a shower of arrows and began
+to say- "Oh! Come! Come hurriedly. Why are
+you so stopped?"
+witg diechfirareera:
+wafedtantet sein
+were waa tat a
+prea ASAT: I 0 It
+Showering arrows and making attack with
+acute weapons those people gave an extreme
+
+flow to a fierce battle river whose flow was
+analogous to that of Mandakini.
+
+gigs dry 31
+Wri ftresfargerat ait 4 gn
+O Narada! The aggressive gods and
+demons intended to cross the blood-stream
+
+which was making healthy the Pisacas and
+monsters and to win the three-worlds.
+
+arate qaifor qegaant
+waa Gem yrfagter:!
+wae ACTA OTST
+Bat Tet Ashe YT 4 Vl
+(At that time) several musical instruments
+were being played from both sides (i.e. gods
+and demons), a crowd of hermits and siddhas
+were observing that battle and the warriors
+killed in war were being brought to heaven by
+the nymphs.
+ofa starrayat yerenedane targTyg aa
+AAAISEATA UH
+***
+
+45
+
+## Page 73
+
+Chapter 10
+
+45
+
+Chapter 10
+Victory of Andhaka
+
+Fred Sarat
+aa: Wa ae dent wae
+AEA ARTA ATTA BU
+Pulastya said- On having started the fear
+
+aggravating battle for cowards, lord Indra
+began to shoot arrows from his grand bow.
+
+oreatste FEAT ATES AAT
+
+yeaa faare prerafeorarra: i 8
+
+Andhaka too reciprocated the attack on
+Indra by shooting at him numerous arrows
+having the shape of peacock wings.
+
+mrad yao: wit: waar:
+
+were eratrereryearahaii 311
+
+Both of them injured each other by
+shooting the arrows of bend nodes, wing
+shaped and most acute.
+
+Wa: HE: WTS: Hers wea ufo
+
+fade deraore & cast wesw
+
+arsrart & arate: yea: A ARE
+
+ARTETA BOs TTS BATT
+
+Aggrieved Indra then gave a circular
+motion to thunderbolt and threw it at
+Andhaka. Andhaka saw it and O Narada! he
+also attacked with arrows, weapons and arms.
+As the fire burns in ashes the trees, the
+thunderbolt had burnt them all.
+
+aalsfratrt ast egr aeraat az:
+
+aareges ware afa aga & I
+
+The mightiest Andhaka then jumped from
+the chariot down without weapon in hand and
+stood on ground when he saw thunderbolt
+rapidly approaching him.
+
+wantin we URaTARAT)
+
+wer Fass Sierras AAAI ott
+
+That thunderbolt first burnt into ashes the
+
+charioteer, horse, flag and Kibara including
+chariot and then accessed to Andhaka.
+
+## Page 74
+
+46
+
+Vamana Purana
+
+waned Sa yfratsseet TEN
+UPSTATE ST ARTS: 11 CH
+The mighty Andhaka blew his fist on
+thunderbolt knocked it down and began to yell
+with anger.
+
+a wert deere area: araader
+aad A ALF AAT DART AN ¢ tl
+Indra shot a shower of arrows at him when
+
+he saw him yelling in anger. He shattered
+them all and then rushed to Satakratu (Indra).
+
+SRI Ter He Tey ATT
+BT I Tae feraTat WaT AN Roll
+He slapped at the stomach of Airavata and
+
+hit hard at his trunk by foot. He further gave a
+sharp blow on his tusk and broke it down.
+
+ae ae Uf MURATA
+
+TARE Trae wartaat dT gH
+
+And Andhaka then hurriedly hit at the side
+of that elephant by his left fist. It was
+intolerable and the giant elephant thus fell
+down on the ground.
+
+TRAIT HAY Vey: |
+waftran aararere wferererrereraitg 82
+
+Indra jumped from Airavata when it was
+falling, took the thunderbolt in hand and
+moved hurriedly to Amaravati.
+
+WUE VSAM attach Wed
+
+wearer ders: uray ferenfefir: 231
+
+That demon-king used frequently his fist,
+legs, hands and killed a considerable part of
+
+the divine army when Indra showed his back
+to the battle.
+
+wat daeadt aug uftara fase
+AUTATSIS SYST: YNTA VI
+
+O great Brahmin! Yama then rushed toward
+Prahlada to give a sharp blow with his danda
+to which he was giving circular motion
+rapidly.
+
+marred auilitdad ware
+ferocenforat: Grarearter STAN Bs it
+
+When the chivalrous son of Hiranyakasipu
+saw the son of Rabi (Yama) marching
+forward, a shower of arrows flow from his
+bow.
+
+at arorgigagent qusaret area: |
+wreafercenn wfeara aus eirenreAT TN Re It
+Yamaraja destroyed that cluster of arrows
+through his danda and threw them with full
+might on Prahlada.
+7B arquanrera enter faa:
+Were SreM TERY TATA Rot
+Having discharged from the hand of Yama,
+that danda began luminating in flames like
+Kalagni. It appeared as if the time for
+destruction of three-world has come.
+araearararart gus eBret: Yat:
+wraraiat ga: He weretsa aes fen cit
+The Daityas began crying when they saw
+
+Kaladanda forwarding- "Alas! Prahlada is
+now killed by Yamaraja."
+
+aarenbermreod feromergatsea: |
+Stare tr dy afer feae ats geen: gett
+
+Having attracted to their cries, Andhaka
+cooled them by saying- "Don't be afraid. What
+is the existence of this meanest god till I am
+living."
+
+seaqeen aed Srna a
+WME UV GUS FAT AeA ANN Vol
+
+O Narada! He rushed with these words and
+
+caught that danda with the left hand smilingly.
+
+ATA Aal STMT ATS: |
+Set @ WeMrs Bar wah Ara|:11 2 gi
+
+Andhaka then gave it a circular motion and
+cried in anger so loud as if clouds during rainy
+season thundered.
+
+werd Tart aE eusraReTtT fe
+Aas SGEHITSATATT: 11 2 il
+
+## Page 75
+
+Chapter 10
+
+47
+
+When the commanders in Daitya and
+Danavas' army saw Prahlada defended by
+Andhaka, they cheered loud and tendered
+gratitude for him.
+
+wrred werens SET ATGTA FA
+
+Brae gat Wear arrears 23
+
+O hermit! When Yama, the son of Sirya
+saw Andhaka has gripped the Mahadanda and
+giving in circular motion; he immediately
+vanished from there assuming it intolerable
+and acute to bear.
+
+orate here weratsta HET
+RAAT AAT TAT MATT VSI
+O great hermit! When Yama so vanished,
+
+mighty Prahlada began to kill the divine army
+all around,
+
+wen: fryarcedt ager ashlerga
+
+TAT SATA ARITA AG
+
+dutdadeadt: aiefiabtinin
+
+were Tea Yat: BUTT VEU
+
+When Varuna riding on Sisumara (sansa)
+had fastened the demons with Pasa and began
+to give hard blows from his mace, Virocana
+immediately appeared there to face him. He
+gave hard blows with his tomaras, saktis,
+arrows, mudgaras, kanapa and spears on
+Varuna.
+
+aret WeaTseaer Urahara Tee
+
+afager aerery ugthent acti Von
+
+Varuna rushed at him, hit him hard with his
+mace, knocked him down and gripped his
+elephant by Pasa (strings).
+
+APTS UH AT SAR:
+
+arent a ANAT HEY GE ATEN VCH
+
+Virocana split in several pieces those pasas.
+O Narada! He caught the loin of Varuna in a
+hard grip.
+
+Tat exit @ ggrai wfeata waisera:1
+
+Wee SAAT Ue Tare SleTHATTN BVM
+
+The elephant imperishable then blew its
+teeth and knocked down Varuna on ground.
+He then crushed him with his chariot under its
+huge feet.
+
+a meant dearer yang: faferigary
+rarer arearara antit: arerarcet: 3 ott
+Having seen Varuna so crushed, the moon
+
+god rushed there and shot arrows on the
+elephant.
+
+eg: wenetiaen 3 eu
+
+The elephant suffered severe pain but was
+not afraid of crushing Varuna under its feet.
+His feet were churning Varuna's body
+barbarously.
+
+BFE set IS
+Waal re TS wath
+weg aft ae: Tayi
+TSR ACTET FHTARTATI 3 BU
+Tenacity WHT Yes
+eee aa quate
+sere faara ferttert fe
+apa G abregareq 3 an
+
+O great hermit! Chivalrous Varuna gripped
+tightly both feet of the elephant, lifted his
+head and body by taking support from his
+hands and feet, gripped the elephant's tail,
+fastened Virocana with the serpent and threw
+him along with the elephant, the chariot and
+charioteer up into the sky.
+
+fart weer fatty
+aga yf ware
+
+ag waasioeetafir
+Ye Geeta areato gw
+
+As Bhaskara once collapsed the city
+consisting of multi-storeyed _ buildings,
+apparatus, gates and palaces pertaining to
+
+## Page 76
+
+48
+
+Sukesi, the elephant thrown by Varuna fell
+with a heavy thud on the ground.
+
+at Hele: WE: WITT:
+anerafefast Pega
+aa: TaREanAT fe
+Rh g dehrragea 34
+
+Varuna then rushed to slaughter other
+Daityas with mace and Pasa in his hand.
+Daityas began to cry in pain as loud as the
+clouds thunder.
+
+Bret Baise eects att
+fatert aradart:t
+were & Rae
+THT ARTA 3G tl
+"Oh! the chivalrous Virocana is being
+thrashed by Varuna. O Prahlada! Come with
+
+Jambha, Kujambha etc. and Andhaka and
+ensure his defence.
+
+BR AE IAAT:
+equine ;
+uray ageat rea Pref
+BAT TEATS HEA: BON
+
+Oh! the warrior Varuna was thrashing
+Virocana by blows from mace after fastening
+him in Pasa so barbarously as Indra
+slaughtered the animal in horse sacrifice
+(Asvamedha).
+
+rasa yreg fafa: aaitfct
+
+weer fefsarrea:|
+araerteatia eet
+BOT Weg Safert BATMAN 3 C1
+
+Having heard the grievous call from
+Daityas, Jambha etc. prominent Daityas
+rushed so fast towards Varuna as the insects
+tush to the flames.
+
+arrrard were 2a:
+mretfaqeged feracer ure
+Tet AACUTA WaT
+SRA ASAT ATT 3 8 It
+
+Vamana Purana
+
+When Varuna saw such a composite attack
+from the Daityas, he left Virocana,
+immediately spread Pasa in its full length,
+gave a circular motion to mace and tured
+towards Jambha etc. enemies.
+
+west a urea we Freer
+art aerrprifra
+
+Wer Ft AAT Fat
+FATA Act TF FEAT ¥ oll
+
+He knocked down Jambha by fastening him
+with Pasa, Tara demon by slapping, Vrtrasura
+by kick, Kujambha and Bala demons by hard
+hit through boxing.
+
+Feafgar Saetor gear:
+
+wormafay faqeeren:|
+aalsea: weafedseytar-
+
+FUE She HOTS ¥ UU
+
+The daityas so knocked down by Varuna
+dropped down their weapons and ran away
+hither and thither. Andhaka then immediately
+appeared there to face Varuna.
+
+aaTeT TAA ST
+UR agar aos YTIT
+a wemnfaea Tet eye
+fata ter: 8 WTA HI
+
+Varuna tied that demon king in Pasa and
+blew his mace on his body. The demon
+snatched these weapons and threw them on
+Varuna.
+
+aad Water Urgt
+
+Tat a aerator
+fade arecrat Fart
+watsarent Saaet AACN YH
+
+Having seen Pasa and mace forwarding,
+Varuna (Baksayani's son) immediately entered
+into the sea. Andhaka then started killing the
+Deva army.
+
+wat GATT: GGes
+eale Va: |
+
+## Page 77
+
+Chapter 10
+
+49
+
+mrarertaterant
+wah werengeaatt: set
+
+The. fire blazed by wind then started
+burning the demon army into ashes. The
+demon architect (Visvakarma) chivalrous
+Maya then appeared before him.
+
+waren We aT
+wiles afg: wat BSH
+PRAT He MATT BTS
+PareT FTE TCTATSTN wu It
+O great hermit! When the fire god saw
+Maya forwarding with Sambara, he joined
+with the wind god, hit hard by Sakti at the
+throat of Sambara and gripped them forcibly.
+
+Were a eprarearcay ferent
+O fireat =aacgfereary
+Wa: WaeTe a wreaisft
+BUSTA TAHT WETTIG
+
+As the shield of Maya was penetrated, his
+injured body fell down on the ground on
+account of the severe blow from Sakti.
+Sambara's throat too began burning.
+
+7 ent fefiatsirtsa
+Yai tert era
+Foenfirrat fatter ada
+Tt: areft Feast vol
+
+That demon began weeping so loudly as the
+intoxicated elephant trumpets in pain when
+attacked by a lion. This was due to burning
+from fire so erupted.
+
+a yearend a rary
+dart: mafarage:1
+am: fa farang at ye
+fardt Wa: prea tt
+Having heard that piteous cry, Andhaka
+
+filled with anger said- "Aha! What is it? Who
+has defeated Maya and Sambara in battle?
+
+walsgacemer fete
+MEER Ve FATT
+
+Tag UN T WaT
+garert arefag wrt se
+
+The demon warriors then reported- "The
+fire is burning him, Rescue him immediately.
+Nobody other than you can prevent the fire in
+the battle.
+
+oe 8 teehintferg
+fervrentrerrey wet
+sera Arreafis gate
+erates fre qafeny ot
+O great hermit! As soon as the report was
+over, Andhaka picked up Parigha and rushed
+
+towards the fire ordering him to stop, stop
+now.
+
+sR qelsoreTeAT
+‘Refarcatet fe tem
+seed wat a fafaferte
+TASH: WAHATTATEN & RL
+Avyayatma fire immediately lifted that
+daitya up and then dashed down forcibly
+when it heard the challenge from Andhaka.
+By then Andhaka accessed to the fire.
+wanna gare fe
+ager ag
+arredist: aftqer weart
+Pasa a rafeas MATa 4 UI
+He gave a sharp blow on the head of fire
+with a weapon. The fire so injured, then left
+Sambara and rushed immediately towards
+Andhaka.
+aaraerd fteot eye:
+aaTe yet aerserents fet
+a mnfedtafefaseartot
+sreTeng ara TOASTER: 114 31
+
+Andhaka again hit hard with Parigha on the
+head of fire. The fire god could not tolerate
+
+## Page 78
+
+50
+
+such a sharp blow one after another; was
+badly frightened and ran away from the battle-
+field.
+
+TASTRT ATTA,
+Tara ATT
+ARASH BA Wee
+WTS PTATTOMASTT Ny 1
+Andhaka, the most chivalrous demon, then
+gave sharp blows from his arrows to the wind,
+moon, sun, Sadhya, Rudra, Asvinikumaras,
+Vasus and giant serpents. They all could not
+stand there and departed from the battle-field.
+adt fafa
+ARTS TAY PAT ATATATTAT 4
+Thus, Andhaka subjugated the entire armies
+of Indra, Rudra, Yama, Soma etc., praised by
+the danavas and then descended onto the
+earth.
+rae Aft ALATA
+PN AY WA TU A
+RBI CC HEC ILIEE
+WATT UCT PATS & 1
+He then subjugated all kings, imposed taxes
+on them, enslaved the entire movable and
+
+immovable world and lastly, entered into the
+nether world and accessed to his Asmaka city.
+
+va farenta verge
+wrerdfererenfagea:|
+werent: aftercoret
+WATT THAT: 4 9
+
+In order to render services to Andhaka, then
+great king to Danava, Gandharvas including
+nymphs, Vidyadharas and group of Siddhas
+came down to the nether world and began
+residing there.
+
+fa starrrgaat yoreadany srerenferray ATT
+BRAS: Rott
+
+Vamana Purana
+
+## Page 79
+
+50
+
+Vamana Purana
+
+Chapter 11
+Description of Puskara Dvipa
+ANG Jara
+waaam She Gag TTATT
+wale yfar qaor wareeat fase en
+Narada said- "You had explained the
+collapsed city of Sukesi from sky to the earth
+
+which was done by Sirya. Please, tell us when
+and where that incident happened?
+
+gavift a aaret agree:
+ferme cnfetat qrarerenrereareentar FEU 2H
+
+"Who was Sukesi? Who had given him that
+city and why did Bhaskara clash it down on
+the earth?
+
+Foret sara
+
+sqoparatedt yar aertat yy
+
+ae gat wen yd wera WENA BN
+
+Pulastya said- O innocent hermit! I am
+going to tell this most ancient episode as I
+heard it from lord Brahma. Please, listen to it
+carefully.
+
+anitfargrercatefeggensttter faega:1
+We Yat Gods: Garren vi
+There was a famous demon king called
+
+Vidyutkesi. He was blessed with a meritorious
+son Sukesi.
+
+Wer YER: YeHrerranfe aq
+WRT Tyee ATATTETN & U1
+Lord Siva was pleased with him and
+rendered him a mobile city in the sky and also
+made him unconquerable and invulnerable by
+the enemies.
+a ante gtr at TERT ITT
+YW Frama: arg wer eee Fert: g 0
+He began to live happily abidingly religion
+with demons on receipt of that mobile city in
+the space.
+
+W welfendstws WT SAAT: |
+Tag Sq aaUTT snferATETAPTI 911
+
+## Page 80
+
+Chapter 11
+
+51
+
+Once he visited Magadharanya and saw
+there asramas of hermits extremely devoted to
+god.
+
+edi cet apr wforaenfirarer a
+weqare maitaratparerarerg: 1c
+
+He did salute to them, seated there and said-
+
+vpfresifa saa: derdisa efe faa:
+aeeVadt 8 7 ded arrareeq eH
+Sukesi said- "I am not passing any order but
+went to make some enquiries on some points
+still not clear to me. Please, give me an
+appropriate explanation.
+
+faftaada: wt cits fageg fester:
+
+Bet Waa ey Sarat Yar yout
+
+O gréat Dvijas! What is welfare
+(benevolent) in this mortal and that immortal
+world? How does a man deserve honour
+
+among gentlemen and how can he attain to
+pleasure?
+
+Yeres sare
+vet geniererert Frere weenie:
+wrgfagye Seilseifirg cites wet a gen
+
+Pulastya said- "Those great hermits first did
+introspection and then replied on the enquiry
+so made by Sukesi.”
+
+waa Sy:
+oat SATMTTST TAP TA
+afeg Seat weg se UAT ATTA RV
+The hermits said- "O demon king! O
+warrior! We now say about the everlasting
+
+and benevolent thing in this material and that
+immaterial world. Please, listen to it.
+
+St aot: We ae se a aUTeTaT
+afer Ary WA YET WAT yy
+
+O demon! Religion is the welfare for both
+the material and metaphysical worlds. The
+man resorted to religion deserves honour
+among gentlemen and attains peace too.
+
+ferent weget: farnrecorafena:|
+
+wnfarer 3 deft arenegq agUTATAN es 11
+
+Sukesi said- "What is the characteristic of
+religion? What are the noble deeds and
+conduct inherent therein, resorting to which
+the gods etc., never feel the cruel touch of
+sorrows. Kindly describe the same.
+
+Ra Sq:
+
+Rar weal end: ear agnfze: free:
+
+erearraatard faye sft gft:u ett
+
+The hermits said- "The supreme religion of
+gods is to perform yajfia etc. deeds,
+perseverance, to acquire knowledge on Vedas
+
+and keep themselves engross in the worship of
+lord Visnu.
+
+dant aged weed gautena:!
+
+Sart ferent eeafereeTEAT 8G Il
+
+The religion of daityas is to acquire
+physical stamina, jealousy, war craft,
+
+knowledge on ethics and devotion to god
+Siva.
+
+fagrigfedt adf dmfataqaen
+
+ret Taker atta SF TAT Yet
+
+It is the religion of Siddhas that they do
+practise Yoga study on the Vedas, science on
+Brahma and a firm devotion to Visnu and
+Siva.
+
+sepe He Ferareag Aten
+
+arearat fern aftenferat enh seat gen
+
+The religion of Gandharva is to perform
+worship, to acquire knowledge on dance and
+music and undeviated devotion for goddess
+Sarasvati.
+
+faenenfiaraget farart dhe aft
+
+fart eaise varai afata an ee
+
+The religion of Vidyadharas is to acquire
+unique learning, science, strong inspiration for
+mind application and devotion for Bhavani.
+
+## Page 81
+
+52
+
+mredfaenatecd afaattt ae fer
+
+aiyred waferearat at: deyer: WM: Voll
+
+The religion of eunuchs is to acquire
+knowledge on Gandharva Vidya, strong
+devotion to god sun and expertise in all crafts.
+
+vertrntted armaretrgen
+
+ada arreanited aise tga: BA elt
+
+The religion of ancestors is to observe
+celibacy, egolessness, strong attachment with
+practice on Yoga and frequent touring world-
+wide.
+
+Ferd Wel Ua Wal A aw Tera!
+
+Fram enlafererarat ent: wear 2211
+
+O monster! The religion of hermits is to
+observe celibacy, balance food-habits, Japa,
+conscience and to acquire knowledge on
+religion regularly.
+
+arerh gered a ert aerate al
+
+NOTA TAS HEATATATTA: It 2 3 1
+
+fratzaed vitt a uiged aferegal
+
+Vigt arent Feat aisd ara: BAU VU
+
+The religion of human beings is to do
+perseverance, celibacy, donation, yajfia,
+generosity, attachment for hard labour,
+kindness, non-violence, forgiveness, control
+
+on senses, purity, benevolence and devotion
+for Visnu, Sankara, Bhaskara and the goddess.
+
+erfauet Aine aa: IgA
+agarenyieard eatse yerenferfan 241
+
+The religion of Guhyakas is to acquire
+wealth in abundance, to enjoy, to do
+perseverance, worship of god Sankara,
+egotism and cowardice.
+
+wanranferd Uren a org: |
+
+arate aftaisd Tera: BAAN
+
+The religion of monsters is to do
+intercourse with other's wife, greed for other's
+
+money, to do perseverance and worship of
+god Siva.
+
+Vamana Purana
+
+afacermnsyt vicetacacrm
+frgrenardt ert: wat enfETETAT Bot
+The religion of Pisacas is to live without
+discretion, in ignorance, impurity, falsehood
+and temptation for flesh diet.
+
+aret grevtdarearg emer tara
+Teron afer: Yoo geste AMAT gS I
+
+O monster! These are the twelve yonis.
+Pitamaha Brahma has described their twelve
+sacred and supreme position deserving
+religions.
+
+wafecerat & eat: YPaa BERETA: |
+
+aa & aa aha aA 2A
+
+Sukesi said- Again highlight the religion of
+mankind out of the twelve everlasting and
+immortal religions.
+RIA HT:
+
+squpea ayaa aafeg exoreratt
+
+2 aaa wats at gag wTAUg ot
+
+The hermits said- O monster! Listen to the
+religions of men etc. residing in the seven
+continents of this earth.
+
+ahr wars vareratferea
+
+aeitahe wet fe aiftaret BATT 3 aU
+
+This earth extended as much as fifty crore
+yojana has existed on the water as a boat on
+the river.
+
+meataht a fag gen ves
+epfttenrenrcacye ANTATATA AAAI 3 VI
+O gentleman! Lord Brahma has established
+
+a hypotenuse shaped highest mountain (the
+king of mountain) above it.
+
+a ani Foy quai wat tangieery,
+warn sheretantt qretatian TORT: 113 3
+Lord Brahma then created the holy subject
+
+thereupon and everywhere. Thus, the places
+called islands were also created.
+
+## Page 82
+
+Chapter 11
+
+wa ea ot Grrererggrahate gay
+aevel Sarat aw avers erent 3x1
+
+Jambidvipa at the middle of earth was then
+created. Its expanse is said to be about one
+lakh yojana.
+
+wat wea: erat area faut: fer:
+arearfis fagqor: wera arene: afer: 113 411
+
+There is a gigantic ocean, just double the
+measurement of the earth around the land so
+created. There exists an island called Salmali
+just double in expanse than this great ocean.
+
+wafeayrates arent acraraf:
+faq: wrenferettt fagutiser wera: 3&1
+There is an ocean containing care-juice
+
+outside that island. Its measurement is just
+double that of Salmali.
+
+Boe egos sera feo: se:
+
+wale fequeta qerdtararatfta:11 3.00
+
+The ocean containing liquor is double in
+expanse than it and its double in measurement
+is an island called KuSadvipa. The ocean
+
+containing ghee is double in measurement
+than it.
+
+yrange fag: sires: aarsirater Frere
+attsfar fagqor: stem: aR aferefra: 1g cH
+O monster! Kraufica-dvipa is double in
+
+measurement than Ghrtasagara and Dadhi
+ocean is double than it.
+
+Agata: wren: wrergenferert:|
+
+faqu: fad aa seragt eft:
+
+Ta faqon: ad weermaferT: 1330
+Sakadvipa is just double than Dadhi-sagara.
+
+Further, Ksirasagara is double than Sakadvipa
+on which Sri Hari is existed.
+
+mrarftniea: areal cay Aaft: yar:
+Sent wares wer eTfrAfarTAT: 1 ¥ ont
+
+O demon king! The expanse from
+Jambidvipa to Ksirasagara is thus measured
+to be about forty crore ninety lakh fire yojana.
+
+53
+
+wagner areraftafercd:|
+
+RSMAS ATONE TTRTET TTT QU
+
+earanisd aarra wetefe:1
+
+PATUSHAST MHTAPGAATA 2
+
+O monster! There fall then Puskara-dvipa
+and an ocean of drinking water. Puskara-dvipa
+is measured about four crore fifty two lakh
+yojana. Then there falls a sea of the same
+measurement. Its expanse about one lakh
+yojana is filled by Andakataha from four
+sides,
+
+wa drafeert aa yore: yaa fare:
+migwarreda ae super wa PreTATH 3
+wanfeg aa ak & aah ware:
+wrearay 7 teafta Green aera ¥ x
+
+Thus, these seven continents are consisting
+of separate religious and activities (deeds). O
+monster! We here with describe them. Listen
+to it carefully. O Brave, the Sandtana Purusa
+who resides in the continents falling from
+Plaksa to Saka has no provision of era (yuga).
+
+edt Saentat erat fer sated:
+
+Ber WTR Freer HATTA 4 I
+
+O chivalrous! They enjoy like gods. Their
+religion is called divine religion. It is said that
+
+there takes place Pralaya (devastation) when a
+Kalpa is over.
+
+3 ort: Gerany at dee
+
+terete ent pnt & ferries we tt
+
+The people living in Puskara-dvipa having
+a dreadful look, are resorted to the Paisacika
+
+religion. They meet to destruction when a
+Karma is over.
+
+yatereara
+feared genratt wat: wqaret:|
+geet: vierfedt ae: antag vei
+
+Sukesi said- Why have you described
+Puskara-dvipa as dreadful, impure, gross and
+meeting to destruction when a Karma is over?
+
+## Page 83
+
+54
+
+mT Sg:
+afenfireret gt aeat: aha ereoT:1
+tharerentt Og: gett Grevasusen
+The hermits said- "O monster! Raurava etc.
+
+dreadful hells have existed in that island. This
+is the reason why it looks dreadful.
+
+fararetentt defor teeter aaert:1
+ferarniin anfor at a ty RTT Ye
+
+Sukesi said- O ascetics! How many are
+those dreadful hells? How much is there
+route? How do they look like?
+
+maa Fg:
+STS TARAS WaTOt Trarat eM
+aeat tarda ten at Aalagfa: yon
+The hermits said- O demon king! Listen to
+the characteristics and expanse of all those
+
+Raurava etc. hells. They are twenty one in
+number.
+
+2 wee Seen safengrfer:!
+thet ae ee: sere: fata gn
+The first hell is called Raurava. It is two
+thousand yojana in expanse and there blazes
+fire everywhere.
+waa aftreretefeantien
+farted faqqorererreritta eae 2H
+The second hell called Maharaurava is just
+double in measurement than it. Its land is
+made up of burning copper. Fire is ignited
+every time beneath the surface.
+
+aaiste farqearerentiral Ata: Bt:
+sreenfinacay aT Ugal fer: Wey Bn
+Tamistra hell is just double in expanse than
+
+it. Andhatamistra is double than T4mistra in
+expanse. It is the fourth in the series.
+
+ag arergata vara: ufeitaa
+sofas wer WS Melt A AAG SI
+
+Vamana Purana
+
+The fifth in the series is the hell called
+Kalacakra. Apratistha is the sixth and
+Ghatiyantra is seventh in this series of hells.
+
+afarrat aracgenter fraafe:1
+
+Serra ued ERT 4 GI
+
+The eighth hell called Asi-patra forest is
+seventy two thousand yojana in expanse.
+
+Fad aagest a set Hemeater:!
+RUA: AAT HY GI
+The ninth is Taptakumbha, Kitasdlamali;
+
+the tenth, Karapatra eleventh = and
+Svanabhojana is the twelfth hell in this series.
+
+weet cteftoss aceafaeet em
+St great aT aaISaM first
+ANSBIARTA weaT aT SercUHt AMSA wil
+
+There fall thereafter Sandarhga, Lohapinda,
+Karambhasikataé, dreadful alkali river,
+Krmibhojana and the eighteenth hell is called
+Vaitarani river respectively.
+
+emsey: yitforayenitrt:
+
+aqrrrartt Faferaes asec:
+‘agieott are went art
+Sremretae AeeRT: BSAA 4 C1
+Then there fall Sonitapayabhojana,
+Ksuragradhara, Nisita, Cakraka and
+
+SarnSosana hells. These are endless hells. O
+Sukesi! Thus, description on these hells has
+been made before you.
+ofa start yormrredane Yenttraatt
+TESTE RASTA: RU
+
+## Page 84
+
+54
+
+Vamana Purana
+
+Chapter 12
+Description of fruits of Karman
+
+gaterearet
+anon awarded tester & aery)
+
+Urged fatrar: wt algect AAI gH
+
+Sukesi said- O Brahmins! Please, tell that
+how the people fall and on account of what
+kind of deeds they perform? I am curious to
+listen to it all from you.
+
+## Page 85
+
+Chapter 12
+
+a SY:
+anton aa ae ait wrerencencl
+eateries AeA SUES AN ZI
+
+The hermits said- O  Salakatarhkata
+(monster)! Listen to the deeds performed by
+the people that lead them to fall in these hells.
+
+Jadefeaiat Ae wat FM
+& yuttfrernatarteretar afi 3n
+Tehran & a wafer a
+aghanar & @ ay & froaft fxn
+
+The people doing continuous criticism of
+the Veda, gods and Dvijatis, showing
+dishonour to the practical exercise of the
+essence contemplated in the Purana and
+History, critics to their teachers, the people
+putting hurdles on yajfia and the sinners who
+resist the donor from falling into those hells.
+
+qeenhiatedenfigeatearge:
+aererrenaster gait Aetserdtfiier: 1 tt
+SUH TA UT SEIT ASAT: |
+UAT Were F feet aaferats ei
+
+The mean people who create mutual
+discrimination between friends, couple,
+siblings, devotees, father and son, priest and
+their clients as also who promise to first give
+their daughters to a man but thereafter commit
+breach of trust by solemnising their marriage
+with other men are split into two parts by saw
+(Karapatra) by the executives of Yama.
+
+TeasreRreeier eT: |
+
+TIRE: Beef: oN
+
+The people putting others in pain, theft
+scandal and usira (khasa), snatcher of wings
+
+made fans (cavara) fall in Karambhasikata
+hell.
+
+Frafarisentt yet are Sasa tye
+a fam: Goat youtengue: Giaasc
+
+The fools invited to Sraddha for Pitr but eat
+other places are split into two parts of their
+bodies by the predator birds of large bodies
+through their sharp beak.
+
+55
+
+waifor ag agai qeaniarterae
+weattaht gear qusfersa afer: <u
+The man who blows sharply on the heart of
+gentlemen by his harsh words, several birds
+with their sharp beaks sit on his body and
+peck hard white piercing the flesh therefrom.
+
+a: aft a hyet aeprerafa: |
+
+aque frerrataset area: Rot
+
+The man who behaves like an animal with
+the gentlemen, his tongue is pierced by the
+
+crows having beaks like a thunderbolt and
+sharp nails.
+
+fagagyent a asagi age:
+wafer yafauas canted wetyar: 1 VM
+The people showing disobedience to their
+parents and teachers are drowned reverse (i.e.
+legs up while head downside) in Apratistha
+hell filled with urine, night-soil, pus etc.
+
+Ranfafayay yA Tag
+
+amay ase aefiatrngg 2
+
+gergaqarata yard ae si
+
+geltqeas arent qqerrat firfeferrat: 1 ea
+
+The mean people who eat by keeping
+hungry the gods, guests, other creatures,
+slaves, beggars, child, parents and the fire get
+gigantic mountain-like body but middle like a
+narrow mouth, starve and receive only the
+contaminated blood with pus as food to
+survive.
+
+Tangequfaeri fad visa a
+
+fageitort Tarts aah F aa an est
+
+O demon king! The people who distribute
+food with partiality to the persons seated in a
+
+row for a meal, fall into the hell called
+Vidbhojana.
+
+Uenardnereay Upeenfert AT:
+arefarer gare 3 ara verter Bh II
+
+The people who do not share their food
+with a partner to any journey even while he is
+
+## Page 86
+
+Vamana Purana
+
+56
+desirous, fall into the hell called wUeaHATUMaMayTTATTSTL
+Slesmabhojana.
+
+arareorsa: wer spefeaeer aT: |
+farera fe aeretat aaa Farah 2 11
+
+O monster! The hands that touch a cow,
+Brahmin and fire at the state when impurity
+stuck to them, are forcibly thrown into the
+hot-pitcher.
+
+igure gan defeade arr!
+
+Fat Fanat afer aafasat: 1 gon
+
+The eyes that look at the sun, moon and
+constellation in the state when the body is
+anyway impure, are burnt by Yama's
+executives by putting fire in them.
+
+ferraratsa weet Saat sare frat eraT
+
+wrrat yeat gare: Wee: wet FA ge
+
+wale Frrdciiedtamentat:1
+
+farera ea a eengafcarfer: een
+
+The feet of those people are tied with the
+burning (hot) iron bar and thrown into
+Raurava hell, where they burn up to the
+thighs, who have touched a friend's wife,
+mother, elder brother, father, sister, daughter,
+teacher and the old age people.
+
+ured Heras gar yet St:
+
+Ranrakysretat: Hert TAS TAT: Io
+
+Those who eat sweet meat (payasa), Krgara
+and meat voluntarily without purpose lying
+
+there for offering it to gods, receive forcibly a
+burning rod in their mouth in the hell.
+
+yecatgoniat Sart a area:
+Frastret ger deg urarrafiegeaargn 2 eH
+at eiener: ater afgant: GA: yA
+seaty Fraara echrorer ferent: 2 211
+
+Hot iron nails are hammered frequently into
+the ears of mean people who listen to wrong
+things about their teacher, gods, Brahmins and
+the Vedas. It is done by the executives of
+Dharmaraja.
+
+anitqreria vgarn feetaata an 23u
+aa facruat wt Sea: fart yA
+anti: qiteonfiz: qiteinfarat: nae
+
+The skin of the body is decorticated by
+using sharp knives in spite of cries made by
+mean people who destroy Prapa, temple,
+garden, Brahmin's home, convent, conference,
+well, ‘pond and flower garden. All this is done
+cruelly by Yama's servants.
+
+Trareorsate a & fe Ref ara: |
+Fat Teeereafir fatrgraha aera: 1 Ve Ht
+
+The people who discharge urine and night-
+soil at the presence of a cow, Brahmin, sun
+and fire receive so severe a punishment that
+the cows will enjoy the flesh of their intestine
+by extracting it through the anus out.
+
+ator weg ufteaafe wa:
+
+aymacmteagerinteerr
+ghia dat anit a aati roman equ
+
+The man who eats alone leaving his poor
+son, servant and wife including siblings who
+starve from thrown into the hell called
+Svabhojana.
+
+wreornd & eaafet Fa aera:
+
+vata aants & aerarg ferat:n Von
+
+The people who lift up the protection cover
+from the man sheltered and a guard who
+
+watches over a prison are punished severely
+and thrown into Yantra-pida hell.
+
+aerate fe famdhanaanty wf:
+
+a tert frevai 2 gieraste a viene
+
+The sinners causing pain to Brahmins by
+nuisance committed are ground on the
+boulders and the fire sucks their bodies until
+these turn into ashes.
+
+sarerverfior: urat aeart Frrdefir
+QAM: YSRATCATET: TT BATAAN SH
+
+The people misappropriating the trust fund
+are tied with hot iron bars, are left for starving
+
+## Page 87
+
+Chapter 12
+
+57
+
+and without water to drink. Then they are
+thrown into VrScikaSana hell.
+
+uddgfart: war: wearer 2
+ afeaat germrenfergat a reac 3 oll
+The sinners doing coition on auspicious
+
+days and who do intercourse with others' wife
+have to embrace Salmali with hot nails.
+
+sorerrerma: area Seth feet:
+Rarmercat Bar a Fyre fercat seq 3 vl
+The dvijas and their teachers have to bear a
+burden of boulders who do study from
+
+preceptors but offer them a seat lower than
+their own.
+
+Wayerrgientir degen anfifin
+Bere @ ferogy get gaya 3 a
+
+The rudes discharging urine, phlegm and
+night-soil on water are thrown in Vinmitra
+hell filled with the stench night-soil and pus.
+
+sarasota afr qf ara:
+ween sarah 8 eairens anferet: 13 30
+The fools who eat themselves the food
+offered for guests on the occasion of sraddha
+
+have to eat the flesh of each other after death
+and on rebirth.
+
+aeafaqeanit arenfiateadta a1
+
+fafeygren: Tt Wert Tafagt Nw
+
+Those persons are thrown down from the
+peak of mountain who abandon the Vedas,
+fire, teacher, wife, father and mother.
+
+yaar & a aanfaeiraes hi
+RVR Fea STAT: 1 3
+
+The people who accept food offered on the
+occasions of sraddha by the person married to
+a widow, involved in coition with an
+unmarried girl and by the children so born are
+compelled to eat insects and ants.
+
+eUSTeTETATETS HY where ateroTTA
+ART AMAT WRAP Bes g
+
+The priests and their clients receiving
+Daksina from Candala and Antyajas have to
+
+be born as heavy insects living in caves in
+their re-birth.
+
+yaniengrh yeradaratasitear:
+
+faert gant 3 a Gr 3H
+
+O monster! The sneaking and bribe
+accepting rudes are thrown into the hell called
+Vrkabhaksa.
+
+wale & weet: YOM PETIT: |
+
+wen Tyfirgahe Arettereremer B13 21
+Waa fast 8 a thy faefeoreeM
+‘Wrafaefaon & a Sefeseferoreem 3 et
+qearareaytens Freeing:
+Rearfarer & aX wets Fat: uso
+
+The people committing loot of gold,
+murderer of Brahmin, drunkard, cohabiting
+with teacher's wife, snatcher of cow and the
+land, torturers to women and children, vendor
+of soma and Veda, diplomat, untidy, non-
+abiding by routine and dvijas who submit
+forged evidence have to dwell in the hell
+called Maharaurava.
+
+aprataeentir arama fer:
+meee arfaaaay Ta: w aI
+mada acted TG At: TET
+wordt fe warat afte gent FNS eH
+The above-said sinners have to live ten
+thousand years in each hell known as
+Tamistra, Andhatamistra,  Asipatravana,
+
+Ghatiyantra and Taptakumbha one after
+another in a systematic manner.
+
+& Ba vee det thareretatfeat::
+
+a ad wag: wher: Baer carer wan
+
+The people ungrateful and condemned by
+the public are thrown by turns in all dreadful
+Raurava hells, about which I have already told
+you.
+
+BAN ATT Waal VATEAT
+
+wen firtorafe stferafs:1
+BNSSAIt wat Yaytt
+
+Ben watt feranr ya: |
+
+## Page 88
+
+58
+
+Vamana Purana
+
+Hero wats eT
+Ba YAY AST WETS
+As Janardana in gods, the Himalaya in
+mountains, Sudargana in weapons, Garuda in
+birds, Anantanaga in serpents and earth in all
+beings is supreme.
+aq Wg Teg wet
+qofqaay eer:
+aay aaEgT a
+daly ager yaw 4
+As the Ganges in rivers, lotus in water born
+flowers, Siva's devotee in daityas,
+Kurujangala in regions and Prthiidaka in holy
+place is supreme.
+weg dated wat
+wag quay fe eH ae
+aay sarees fae:
+art aor enifafafenargu se 1
+As uttaramanasa in reservoirs, Nandana in
+holy forests, abode of Brahma in lokas, Satya
+property in religious deeds.
+BSA: TeX: EAT
+Wat an waytaat afta:
+atest erat:
+gfrcte aafeerragn sion
+Asvamedha in yajfia, son in things worth
+touching, Agastya in ascetics and the Veda in
+Agama scriptures.
+yet gouty ata ae
+Teaiyafincate afeargi
+Tq: Bi watt ada
+faety ayit fagig araa:nsei
+As Matsya Purana among the Puranas, code
+laid down by Svayambhi among codes,
+Manusmrti among smrtis, Amavasy4 among
+tithi and donation made on Visuvas (rotation
+of Aries and Libra) among other donations is
+greatest.
+
+ufeart a wats oh
+
+way aH aerfeReT)
+TAT TATA
+
+aay arafeahag Tate
+
+And as the sun in ascetics, moon in
+constellations, ocean in reservoirs, you in
+demon kings and Nagapaé in the pasas making
+inactive is supreme.
+
+arag yifaféuey fas
+gee ther ger yrs:
+yey ard ary aarsit
+arty TUssaftUTt JET 4 ot
+And as Sali in paddys, Brahmin in human
+beings, cow in cattle, lion in wild animal, Jatt
+in flowers, Kajficl in cities, Rambha in women
+and household in 4sramas' is supreme.
+
+grerci deat Ty
+aay aay a wereeT:!
+aefeetrat Were a WAT Gg
+WAY He: Va Bart
+aaferersitot grorereaeg
+day ge vat wa
+erulferd wraeat fe Sar IH
+As KuSasthalf in Puris, Madhyadega in all
+countries, mango in fruits, Asoka in buds and
+Pathyé in all herbs is supreme. O monster! As
+Kanda in roots, constipation in disease, milk
+
+in white things and garments in cotton is
+supreme.
+
+wer FSM af
+fearrget J wT
+wreag yer wafe are
+Tay Wet craut way gH
+wey Met aferty wat
+ateeeaa FT RATT: |
+weregea Bat aes
+BM ST Aaa AAT 4 SII
+
+## Page 89
+
+Chapter 13
+
+Expertise in mathematics, Indrajala in
+science, Kacamaci in vegetables, salt in
+essences (rasas), tala in tall things, Pampa in
+lotus reservoirs, bear in vanankasa, banyan in
+trees and Mahadeva among scholars are
+supreme. (And) O monster! As-
+
+aor aati feracger fe
+aasstri after atten
+wer qarorate sterarut-
+waa waafe g:3ey
+iy tag Fremeter
+aar aat Sarai WAT G GL
+
+uniterat wales qe:
+
+way Tray Frees
+werrtrenteg Frepfaté
+
+fade tara g quanti:
+7 frephentt grey:
+
+Wechd arprerdiseranfefir: 14 gu
+
+Parvati in chaste women, Kapila in cows,
+blue bull in bulls and Vaitarani is supreme
+among all dreadful, difficult and intolerable
+hells, the ungrateful is the most heinous sinner
+among all other sinners. The sins like the
+murder of a Brahmin and cow can be absolved
+when the regrettal prescribed is observed but
+the sin of destroying what is created by a
+friend (gentleman) cannot be absolved even if
+the regrettal observed for as many as several
+crore years (viz. ungrateful man is deed the
+most heinous miscreant and such crime is
+uncompoundable).
+
+fa starragent yerrradiane ariferarant are
+BIETNSEATT HVA
+
+59
+
+## Page 90
+
+Chapter 13
+
+59
+
+Chapter 13
+Description of Bhuvana-kosa
+gareara
+wataefeat are yencatrafeata:
+area wet ary eT: 1 gn
+
+Sukesi said- O hermits! You have described
+the gross painful location of Puskaradvipa.
+Kindly, tell us now about Jambidvipa.
+
+ad Sy:
+
+Wages tear ae Fyre
+
+wag gfereitol certian 2H
+
+The hermits replied- "Listen to the details
+about Jambiidvipa from us. That most
+extended island is divided into nine parts and
+
+it renders the man with emancipation and
+heavenly abode."
+
+we faorgat aaf aga: yddtsga:1
+
+ydafarordt auf feces 311
+
+O demon king- Ilavrta varsa has existed in
+its middle, Bhadragva varsa at the east and
+Hiranya varsa has existed at its north-east
+direction.
+
+sara efrat sheet efteferorafaren
+Ufa Squares wer: VTA ¥
+
+It is said that Kinnara varsa has existed at
+its eastern-south, Bharata varsa at south and
+Hari varsa at its southern-west direction.
+
+sito Hildd: Hergqarmanga:|
+yaguadt tat ad: faagee: BAG
+Ketumala varsa has existed at the west,
+
+Ramyaka varsa at western-north and Kuru
+
+varsa covered by kalpavrksa at its north
+direction,
+
+quar ten Tage aul: aera!
+
+serqarendarst at arta areTq & 1
+
+a tafe Qureren aa equa 7 al
+
+aati carafeet fate: Game wae: 911
+
+fawedat 4 deafea Tree: |
+
+aeerared af verght Free ct
+
+O Salakatarhkata (monster)! These nine are
+
+the holy and attractive varsa. Besides Bharata
+varsa there is no fear of death and old age as
+also yugavastha in all the eight vargas.
+Success pouring with pleasure in abundance
+and that too without efforts is achieved there.
+There is no discrimination as best, medium
+
+## Page 91
+
+60
+
+Vamana Purana
+
+and mean (or uttama, madhyama and adham)
+and reversion anyway. O monster! There are
+nine isles in this Bharata varga. All these isles
+are surrounded by oceans and mutually
+inaccessible.
+
+arrrafe: We sere WATT
+
+Sse: HerSoreaTNT maT <1
+amagia: werent Faget areoraat
+
+aa y raat su: WPTTgA: I Roll
+pares: viverra getse seo:
+
+The names given to these nine isles are-
+Indradvipa, Kaseruman, Tamravarna,
+Gabhastiman, Nagadvipa, Kataha, Sirnhala
+and Varuna. The ninth dvipa known as
+Kumara is surrounded by the sea and extended
+from south to north side.
+
+we fererer ey VE TET: BTN ga
+
+are afer ae Geena aT
+
+O warrior! Kirata live at the east, Yavana at
+the west, Andhra at south and Turuska people
+live at the northern border of this Bharata
+varsa.
+
+mreon: eater ayer: BRANT: RTH
+sergqeativand: aif: gear:
+
+Rat dorareres Uf: anrifieftera e301
+vantventonfae que unt ata at
+
+In the interior of this island, there live the
+Brahmanas, Ksatriyas, Vaisyas and Sudras.
+All of them are having purity through the
+activities like yajiia, war, commerce etc. Their
+behaviour, attainment of material and
+metaphysical success and evil as also good
+take place through these activities.
+
+WER He: Ger: YfeargarTet: VI
+
+frag uftare wart qereda:|
+
+There are seven prominent mountains in
+total in this varsa. These are- Mahendra,
+Malaya, Sahya, Sutkiman, Rksa, Vindhya and
+Pariyatra.'
+
+1. This is the western portion of the modern
+Vindhya Range, west of Bhopal, as appears from
+
+ASL MAAR YT TATA HL RG I
+frremttapfaon ven frgen: raat
+There are other mountains several lakhs in
+
+number in their codicil and these have
+extended, high, attractive and beautiful peaks.
+
+RTT SATAY WeTT TE TTRTAT  RE H
+
+araet gear tara: wea
+
+Geren arifatteren wreeiareret: 1 got
+saat: afifigel tare
+
+eG: Titaeap!S: FAST Re
+siada: Braun: yergtseasta wat: 1
+
+Here are Kolahala, Vaibhraja, Mandara,
+Durdara, Vatarhdhama, Vaidyuta, Mainaka,
+Sarasa, Turigaprastha, Nagagiri, Govardhana,
+Ujjayana, Puspagiri, Arbuda, _ Raivata,
+Rsyamika, Gomanta, Citrakita, Krtasmara,
+Sriparvata, Konkana and several hundred
+other mountains too.
+
+‘Afafter seat weremeTTaT ATTEN Ret
+a: Gere after at: were Fryer
+Here are compact districts divided into
+Aryas and Mlecchas. Listen carefully to the
+
+names of the rivers whose water is used for
+drinking purpose by them.
+
+weeadt we arferdt a ferrari 3 ott
+vragerenr stem fret He!
+
+FAUT STAT SPAT eTTet TAT VU
+aed qaarat a aga at aaa
+
+farae woset feat atfgreat a aT 22H
+wag aeitfeen ferent: ga:
+
+These rivers emanating from the great
+Himalaya are- Sarasvati, Paficariipa, K4lindi,
+Hiranavati, Satradru, Candrika, Nila, Vitasta,
+Aravati, Kuhi, Madhura, Hararavi, Usira,
+Dhatuki, Rasa, Gomati, Dhitapapa, Bahuda,
+Drsadvati, Niscira, Gandaki, Citra, Kausiki,
+Vadhiisara, Saray and Lauhity4.
+
+the rivers which rise in it. (Prof. H.H. Wilson,
+Visnu Purana Chap. Il, verses 19-20)
+
+## Page 92
+
+Chapter 13
+
+61
+
+aeapfedefat gaet frgta ana
+
+worter afett da weit a wet ae
+
+wre ava oat fafee aopAatin ee
+
+far Great war uftariaat: wyat:1
+
+The rivers emanating from Pariyatra
+mountain are- Vedasmrti, Vedasini, Vrtraghni,
+Sindhu, Parnasa, Nandini, Pavani, Mahi, Para,
+Carmanvati, Lipi, Vidisaé, Venimati, Ksipra
+and Avanti.
+
+vitor weret Sa Year fer BH
+
+wrenfert ceront a ferreper fe fre
+
+farteren & arran eaedter firgrtfereamn 2 11
+
+wansem frorersivant fear agora
+
+Te Yferrat ate fafear ay:11 Vo
+
+Qa a TST aeyenfet
+
+The rivers emanating from Rksa mountain
+are- Mahanada, Sona, Narmada, Surasa, Krpa,
+Mandakini, Dasarna, Citrakiita, Apavahika,
+Citrotpala, Tamasa, Karamoda, Pisacika,
+Pippalasroni, Vipasa, Vaiijulavati, Satsantaja,
+Suktimati, Manjistha, Krttima, Vasu and
+Balavahini.
+
+Foren watt Fiferear anit afreeract 2211
+
+aur aacut ver fering: Hast
+aren Yar wert ghar arfyren wa ze
+fereTTTEMyMA TI: WWI: YT: |
+
+The rivers having pure water and emanating
+from Vindhya mountain are- Siva, Payosni,
+Nirvindhya, Tapi, Nisadhavati, Vena,
+Vaitarani, Sinibahu, Kumudvati, Toya, Reva,
+Mahagaurl, Durgandha and Vasila.
+
+Teratt siteelt Geo Aver Utah g O11
+fart grairn aren arafita a
+geen alert Sa anftaar sere 3 eH
+Wenfe wera: aenafahrtan:1
+
+The mahanadis flowing down from the root
+of Sahya Parvata are- Godavari, Bhimarathi,
+Krsna, Vena, Sarasvati, Tungabhadra,
+Suprayoga, Vahya, Kaveri, Dugdhoda, Nalini,
+Reva, Varisend and Kalasvana.
+
+BATT ATO ayer eererrartn 3 BN
+wt da arn @ yharoraniert:
+
+The rivers coming down from Suktiman
+mountain are- Krtamala, Tamraparni, Vanjula,
+Utpalavati, Suni and Sudama.
+
+wal: JUST: AAT: TTA 3 BU
+aera are: Bat: wat: ATT:
+
+All these rivers are holy, competent to
+
+absolve evils, mothers of this universe and
+wives of the ocean.
+
+ST: USAMA gre fF TarAN 3 v1
+
+TTRTATACTM: WFLA TSTETAT
+
+neryiaar Um: frata Sepa YAN AG
+
+O monster! Apart from these prominent
+rivers, there are several small rivers also. Out
+of them some having water throughout the
+year whole a few among them flow only
+during the rainy season. The residents of north
+and madhya countries drink the water of these
+river without any reservation.
+
+Ra: HUST: fepuseras
+warraala wg afer
+gem: vent advatates
+eae ART ASTRA 3 & 1
+lar Hereyttear Sei: VISTA: |
+agra Serres ameter: AeTaaNT: 11 3.1
+AAA YT: Weetaey WSSAT: |
+apart aerate Ferqeteireegent: 113 ct
+WAKA CCT UTA ATT TAT: |
+TreteeceT Beha SPATE 3 8
+afr: aft agen war ysqenht a
+aration awa adtengenfera: 1 ¥ ol
+Sora qares ager area!
+ST: TATE: WATT SATA 1 RI
+TERRE TASaTRTRT: Wel
+THAR FRAT A STAY RM
+arret: aetartiar qurat Toren
+
+## Page 93
+
+62
+
+HAM: Hleneyoequrara: Pe HET: iw 311
+
+HVS: MTs SATITATATA: |
+
+The classes of people living in Madhyadesa
+are- Matsya, Kusatta, Kuni, Kundala, Paiicala,
+
+Kasi, Koala, Vrka, Sabara, Kaubira,
+Bhilinga, Saka and Masaka, V<Ahlika,
+Vatadhana, Ahira, Kalatoyaka, Aparanta,
+Sidra, Pallava, Khetaka, Gandhara, Yavana,
+Sindhu, Sauvira, Madraka, Satadrava,
+Lalittha, Paravata, Misaka, Mathara,
+Udakadhara, Kaikeya, Dasana, Ksatriya,
+Prativaisya are the families of Vaisya and
+Sadras; Kamboja, Darada, Barbara,
+Angalaukika, Venda, Tusara, Bahudha,
+
+Bahyatodara, Atreya, Bharadvaja, Prasthala,
+Daseraka, Lampaka, Tavaka, Rama, Sidika,
+Tangana, Aurasa, Alimadra are the castes of
+Kiratas and the castes as- Tamasa,
+Kramamarga, Suparsva, Pundraka, Kulata,
+Kuhuka, Urna, Tinipada, Kukuté, Mandavya
+and Malaviya are the residents of uttarapatha
+(Uttara Khanda).
+
+aglag Agar: erahiftafetitr:n wen
+OT WagT AIGA Arar aera haa: |
+galt: waster antag: 4
+wreifrer: yous facerenaferat:1
+TATA: MEAT STITT I
+
+The districts at east are- Anga, Banga,
+Mudgarava, Antargiri, Bahirgiri, Pravanga,
+
+Bangeya, Mamsada, Baladantika,
+Brahmottara, Pravijaya, — Bhargava,
+Kesabarbara, Pragjyotisa, Sidra, Videha,
+
+Tamralihtaka, Mala, Magadha and Gonanda.
+qusts arena eter: qeaey waa
+TAeRT BPCRTaAT FATTET ARTPTEAT: S19 11
+Tere wnfefient: amferqta wae: |
+anit: AeaAMT STA: Ma Ae it
+yferar faeavtern dent gues: wel
+Utter: efter orga ATETAT: We eI
+After: Green Sra: SfeTET ACTETTAT: |
+eafarorrer VTTETARAY PTETREREN 4 0 II
+
+Va4mana Purana
+
+O monster! The district in south are-
+Pundra, Kerala, Cauda, Kulya, Jatusa,
+Misikada, Kumarada, Mahagaka, Maharastra,
+Mahisika, Kalinga, Abhira, Naistka, Aranya,
+Sabara, Balindhya, Vindhyamauleya,
+Vaidarbha, Dandaka, Paurika, Sarika,
+Asmaka, Bhogavardhana, Vaisika, Kundala,
+
+' Andhra, Udbhid and Nalakaraka.
+
+walter arfterat guisseitene: Wel
+
+yetreres fetter area ATT & 1
+atenguint aera: grt:
+RTT: FMM: TE AAT 4 BN
+arettrer queer sree: Wel
+
+sete UaraTaTett Fee ATTET ST 4 31
+The residents of west districts are-
+
+Sirparaka, Karivana, Durga, Talikata, Pullya,
+Sasinila, Tapasa, Tamasa, Karaskara, Rami,
+
+Nasikya, Antara, Narmada, Bharakaccha,
+Maheya, Sarasvata, VAtsiya,  Surastra,
+Avantya and Arbuda.
+
+areuBlacteny Teacraiteat: Wel
+
+serot ayronias aiter: fared: BENG XI
+
+atwen: style Agu: Geert
+
+gemgrrada ager Aad: Ey 4M
+
+arpngitstas dager: |
+
+gael fergerentead sau: aT 4 GI
+
+O Sukesi! The districts located at lower
+Vindhya are- Karta, Aikalavya, Mekala,
+Utkala, Uttamarna, Dasara, _ Bhoja,
+Kirhkavara, ToSala, Kosala, Traipura, Aillika,
+Turusa, Tumbara, Vahana, Naisadha, Anipa,
+Tundikera, Vitahotra and Avanti.
+
+arareyreraeam: wdersferoreg a
+FRET ETAT: HITE: MTN Gent
+ganda Sua: YegaT:!
+frvater froma arr: erfgreniiar:i yc
+
+We shall now describe the names of
+countries situated on the mountains. These
+are- Nirahara, Harisamarga, Kupatha,
+Tangana, Khaga, Kuthapravarana, Uma,
+
+## Page 94
+
+Chapter 14
+
+Punya, Hithuka, Trigarta, Kirdta, Tomara and
+Sigiradrika.
+38 adhe fare: gfe
+at gat Grete
+wy aay a Srey
+Patchy aed fey en
+O monster! We have described in detail
+about these countries falling under the
+territory of Kumaradvipa. We shall now give
+
+a true account of the religions prevalent in
+these countries. Listen to it carefully.
+
+a ; mn
+ware PSeATT: ABN
+
+63
+
+## Page 95
+
+Chapter 14
+
+Chapter 14
+Description of Teachings of Religion
+
+Wa: Sy:
+
+afea dered art antec: ya:
+orang a ite a ter Tartan
+augt Teas aaisat urdatite:
+
+mrerorennte farfemt Mg TATE TAT 31
+
+The hermits said- O demon king! The
+religion consisting of ten parts (angas) i.e.
+non-violence, truthfulness, asatya (afraid of
+telling a lie), donation, forgiveness, control
+over senses (dama), sama, generosity, purity
+(sauca) and penance has been prescribed for
+all people. A provision of four asramas has
+been made for the Brahmanas.
+
+fami wngaerst fears adler
+arenas 1% gfe: squad: warmer 31
+Sukesi said- O austere hermits! Describe in
+
+detail the provision of four 4sramas for the
+Brahmanas. My curiosity is increasing
+manifold and I am still unsatiated.
+aa Hq:
+
+Pie: werserent yt aaa
+
+aa atisea wet a ead Prema st
+
+63
+
+The hermit said- "The celibate should live
+at the residence of the preceptor when thread
+ceremony has been duly performed. His
+religion prescribed there are being explained
+by me now. Please, listen to it carefully.
+
+rariisentagaar Fr faaned Tat
+
+ae say AdATHG
+
+We: aif dear: weniger
+
+Berga: Waele Te AAT g
+
+(This religion is) to do perseverance, serve
+the fire (i.e. participate in offering), to bathe
+daily, to go out for alms, to offer the food first
+to the preceptor and then he should take when
+allowed by him. Prepared always to act on
+instructions given by the preceptor, to develop
+love duly in the heart of the preceptor, to read
+with mind in concentration when called by the
+preceptor.
+
+wh ot weciratshy erat qian
+
+SMA at SAT BLS eat Aa: 19
+
+TETRA ERAT
+
+arrerend ast aged ewars ser CH
+
+After completion of study in one, two or all
+
+the Vedas under the guidance of the preceptor,
+he should offer daksina (fee) for teaching.
+Then, those desirous of household life should
+enter into it or resort to voluntarily
+
+Vanaprastha or reclusion with the permission
+of that preceptor.
+
+waa ar vie fast Parrarqarq
+
+UTS aya afew acgat fag
+
+watraiart seater aq
+
+Or he should determine to live with the
+
+preceptor throughout his life and observe
+Naisthika Brahmacarya till he breathes his
+last. (If so desired) he should live with the son
+of the preceptor if he is dead or with any
+disciple for the lack of his son.
+
+Wa safe get a fet: AeemEN gon
+
+THUY TTS TTT
+
+oO Salakatanikata! He should live always in
+
+## Page 96
+
+64
+
+Vamana Purana
+
+celibacy and give up ego forever. The dvija
+living under strict compliance of these rules,
+conquers the death itself.
+
+areaMNgneraT aaettereN Frere gai
+
+anion et crear fagears faethe
+
+Wea RAAT MATA FA: VIM
+
+O monster! After being liberated from
+
+there, one should solemnise marriage with a
+virgin born in a gotra/clan other than his own.
+The dvija observing courtesy should earn
+wealth through functions executed by his own
+industry and satiate duly with keen devotion
+the Pitrs, gods and guests.
+
+arated gontints Yaa:
+watt stig fire sported reer A 9311
+Sukesi said- O great resolute! You have
+described etiquette which I have understood. I
+want to listen now to its characteristics from
+you. Please, describe those characteristics.
+
+RTI Sy:
+werent Faferera atsenfinretg
+TaN TT aRTTETEH ES Frgreacit Bel
+The hermit said- O monster! Listen to the
+
+characteristics of etiquette/courtesy already
+described by us.
+
+WeeR wer anheraafiarery
+
+A MRM ARTA TEA AI UI
+
+The household should always observe
+etiquette in his life. The man without courtesy
+cannot see welfare in this material and
+metaphysical world (after death).
+
+agenauete Yara 7 yA
+waft A: AACS ATA Waa RE I
+The yajfia, donation and penance
+
+made/observed by a man_ contravening
+etiquette never become benevolent.
+
+gerard fe yeat te WEA Fat
+Bra Ae: HATA STAT FACT Rott
+
+The man without etiquette does not feel
+pleasure in the material and metaphysical
+world. One should, therefore, always
+endeavour towards observing etiquette.
+Etiquette decays the evils adhered to the
+personality.
+
+TET TART FRAT: VETANTET TAT
+soared w ate satsfrarssfau 92 tt
+O monster! We, now talk about the features
+of that etiquette. If you wish any good, then
+listen to the etiquette with concentration.
+amisea yet errea YG:
+Wee a AM: HTT ANT: |
+arat aerate: Gary
+afaat Fa a goa ee
+O Sukeéi! Its root is the religion, wealth is
+one of its branches Kama is its flower and
+emancipation is its fruit. The man who has
+taken care of such and etiquette tree, always
+enjoys pleasure (punya) in his life.
+merged wri faqaregentaarnedty
+wifes Agee ated agararcaufaerta:
+He should first recollect the images of great
+
+gods and hermits and chant the morning
+prayer as propounded by lord Mahadeva.
+
+fae age GRE ego ETAT
+WT ASA PETA WTS ATALIN 2 RI
+Sukesi said- What is the prayer propounded
+by god Sankara worth chanting at dawn
+capable to absolve all sins of the people.
+
+RT Sy: Tat Tareas Yat Fifay
+IAT Tye. USA A MATL: WHAT RU
+
+The hermit said- O demon king! Listen to
+morning pray propounded by Mahadeva. The
+man is absolved from all evils by listening to
+recollecting and reading it.
+
+wen qufiergerart
+wag: Bett gfirgat gaan
+
+## Page 97
+
+Chapter 14
+
+ee Ys: Fe TAT
+qeby ae ar Gwe RBH
+May lord Brahma, Visnu, Sankara, Sirya,
+Candrama, Mars, Mercury, Jupiter, Venus and
+Saturn bless me with a fine morning!
+
+qyafee: agus
+WR: gerea: yore: WTA:
+
+taht uifayercatt ays
+Beg ws Hr Qe Vv
+May Bhrgu, Vasistha, Kratu, Angira,
+
+Manu, Pulastya, Pulaha, Gautama, Raibhya,
+Marici, Cyavana and Rbhu hermits bless me
+with a fine morning.
+PAGAN: WAG: WT:
+Tarrisarghtaget a
+AA aT: BA Tae
+Reg aes a Gee 4H
+May Sanatkumara, Sanaka, Sanandana,
+Sanatana, Asuri, Pingala, seven voices and all
+the seven nether worlds bless me with a fine
+morning.
+PAY WaT ATTEN:
+werlageaert: Ga:
+FM: WeRS WEA TT
+aery a WH QT Ba
+May the earth with smell, water with liquid,
+wind with touch, fire with flame, ether with
+word and Mahatatva bless me with a fine
+morning.
+WaT: WA HeMTCTT
+aadat shrews we
+qrea: ae ata citer
+wea Vs HH GATT VN
+May the seven seas, seven pioneer
+mountains, seven hermits, seven supreme
+islands and the earth etc. seven worlds (lokas)
+render me with a fine morning.
+UST STOTT aT
+
+65
+
+Baer TpT SAE YoATT
+TAT Aet ATA ATTA BEI
+
+One should read, recollect or listen to this
+holiest moming prayer. O innocent! (when it
+is done) the nightmare is decayed and one
+obtains a fine morning.
+
+aa: agere fafa
+
+ed aan a faera year
+sere waar
+
+ares weleifate YAU VW
+
+He should then give thought to religion and
+wealth (essence) and go for defection with the
+name of Hari on his lips after leaving the bed.
+
+a Rertarenrafaart
+a ert 4 ages a
+gateterinitg 7S
+at wet ter aera ATTN ON
+Do not defecate on the route of the cow,
+gods (temple), Brahmana and fire, highways
+
+and roundabouts, in cowpen and facing east or
+west direction.
+
+amg viheniquretag
+
+WR 7a wforaet ava
+waived: ae ate wea
+
+feig weet garrett 3 eu
+
+He should then take soil for attaining purity
+and smear the anus thrice, left palm seven
+time, ten times on both palms and once on the
+penis. (Then it should be washed with clean
+water after due rubbing).
+
+ATTCTRRTR YTHET
+
+faera yitareromare:1
+apie fe yaa wat
+
+wren Barereferet ALOT 3 BH
+
+O monster! An enlightened man should not
+take clay from the bottom of a reservoir, mice
+burrow residual from that used by others and
+from the home side. It should be taken from
+the termite.
+
+## Page 98
+
+66 Vamana Purana
+TeyG: wraaistt faery Brahmana, beautiful white flower, fire, sandal,
+wet af dhe: sun ball and pipala.
+Taree ara hrentit- GR i
+
+Yer fredt uftgse a fag a
+
+The learned person first washes his feet
+then sit facing north or east and washes the
+mouth twice with water. He should then do
+4camana with the water without froth.
+
+aa: Wah fore: ator
+dergurdta wat: ato
+Sprigy titer a Sarees
+Heat wa atoreyh UN 3x
+He should then touch his senses and the
+head. Thereafter, he should clean hair, teeth
+
+and after a look at the mirror, then he should
+observe sardhya.
+weet fer searorenigs at
+apa ae fageary
+Wa o Feassenrt YAR
+Bet afeeetet WETS GH
+A man definitely achieves success on the
+mission duly proposed when he goes out from
+home after a complete or brief bath, obeisance
+
+offered to Pitrs and gods with water and
+things used in worship are duly touched.
+
+gat eft afeatagrst
+
+ag warat gee Yaoi
+red caftrameranf
+
+TAT HY STATO TERTRTI 3 & I
+Sent year a via
+
+wierd wearrchfareary|
+were ST AAT
+
+Tere arat Frorenfaert:11 gon
+
+One should observe his respective dharma
+(deed) after giving a touch with hand to dirva,
+curd, ghee, a pitcher full of water, cow with a
+calf, bull, gold, clay, cowdung, mark of
+svastika, aksata (rice), 14ja, honey, virgin of a
+
+ata 3 fe deg
+Tanifafs ware
+AIHA TT ARTETA 3
+a fag are
+area aera a1
+fret wate a edit
+Ug FT orerg atg Haq gen
+One should not abandon the religion (law)
+prevalent in the country, the family and gotra.
+He should earn wealth even by practising the
+professions that do not infringe upon his
+religion. One should never deliver an untrue
+statement, a sentence not permissible in
+Agama scripture and in harsh ways.
+darg asd Gai fet a
+waty arg weracrg
+Trae Tey aot
+O chivalrous! One should not do
+intercourse in the evening and at the day time.
+Coition with other's wife in all yonis, on the
+
+land without home, with a woman in her
+menstruation cycle and in the water.
+
+gaset Sar at gar MT UYATTOTY!
+a areal eer gar areaferg:i wg
+A household (grhastha) should not ge
+anywhere without purpose, not give futile
+donation, not slaughter and animal and should
+not develop close contact with women.
+
+BAUSeATAARTETATA TATA: |
+
+Ber Uae: wrote ure Aree BA eH
+
+Routine affairs are impeded on purposeless
+movements, futile donation causes loss of
+money and the man slaughtering an animal
+without any strong and rational purpose is
+stuck to evils that lead to the hell.
+
+## Page 99
+
+Chapter 14
+
+67
+
+daen airyeren aura wey)
+
+Feet a waves Gaea er 3 it
+
+The children have to bear insults inflicted
+by society when their father develops illicit
+relations with women; it increases fear of
+having hybrid born and fear of humiliation
+from the society too.
+
+Wes Weng 7 arat gigeat:!
+
+Wee Tarde UST FTA SI
+
+An enlightened man should not be
+entangled with other's money and wives as
+other's money throws into hell and other's
+wife becomes a cause for death.
+
+Jeanie wai a Hata TERT
+
+seaareght wagt drat a fash tt
+
+One should not see other's wife naked, nor
+talk to the smugglers and nor touch, converse
+
+with or even see at menstrual state any
+women.
+
+Jaret wan Bes Aeal waa
+FEN ATISTTGAT Ta TaghaTeAv AN wg II
+
+One should not sit at the same seat with his
+sister and other's wife. Similarly, he should
+not sit at the same seat with his mother and
+daughter too.
+
+Te ta a ve aT yet aT
+
+ferareaisti 3 aan uftrrmnfterti xin
+
+One should not bathe and sleep naked. One
+should not walk naked.
+
+feraiar yrearerrarsraret-
+
+ee Ta: Tafa
+aelg AaRyUTTT
+ait a frarg sag FATS cH
+
+Give up broken seat and utensil even from a
+distance. He should not do massage on tithis
+like Pratipada, SasthT and Ekadasi, not shave
+on Cathurthi, Navami and Caturdasi (Rikta)
+tithis and not eat meat on Jaya (i.e. Trtiya,
+Astami and Trayodasi) tithis.
+
+quig atfreaftastiiar
+
+agtg waft aerate
+areas 3 Pays
+
+att a gh tea a atest
+wy aia watt
+
+Beg walfor ata Hai
+
+Should not do coitus on Parma (Paficami,
+Dagami and Parnima) and should do all these
+functions on Bhadra (Dvitiya, Saptami and
+Dvadasi) tithis. Massage on Sunday and
+Tuesday, shave on Friday, meat on Saturday
+and coition with wife on Wednesday is
+prohibited. The rest of days are good for all
+other works.
+
+farang BS sett + Act
+ait fagmanafaterg aeiqy ott
+yer wa arguarg ait
+atftrrerafranierrg!
+
+Massage on Citra, Hasta and Sravana
+constellations, shave on Visakha and Abhijita
+constellation, eating of flesh on Mila,
+Mrgasiré and Bhadrapada constellation and
+coition with wife on three uttaras (i.e.
+uttaraphalguni, uttarasadha and uttarabhadra-
+pada) should be avoided.
+
+wea ael yet safer
+
+wen wetheat Tat TET gl
+aan 48s a afarompat
+
+Ta weteiaft ster
+
+O demon king! Slumbering with head
+facing uttara and west is always prohibited
+and meal should not be taken while facing
+south and the west.
+
+ferenfars anf 7S weferorqG BN
+mea aaa aera
+omit aes fe aay ga:
+
+Pradaksina (circular walking in obeisance)
+of temple, Caityataru (respectable trees),
+
+## Page 100
+
+68
+
+Vamana Purana
+
+roundabout, person more intelligent than him
+and preceptor should be made.
+
+araftar rama ot Fret
+‘Frearcat ter verre 311
+were TASTE
+WaT a aT Pre
+One should first sprinkle water on head
+while bathing. Bath at night without any
+strong reason and besides eclipse period,
+death of any near and dear ones and entrance
+
+of moon in constellation of birth should not be
+taken.
+
+Saat 1 Senfaepite afin y xu
+arafir Aarercanfirat a
+art faqeareriteten
+O demon king! One should not touch an
+anointed body, should not shake hair
+immediately after a bath and the hands and
+
+body should not be dried with a towel after
+bath.
+
+aayAAY YUMA
+Gaeta wag Freaqy 4
+seme aT ferret:
+gitaen eterna
+
+One should settle in a state where a just
+king is ruling where tolerant, just and non-
+envious people are loving and where peasants
+and medicines are available in abundance.
+
+varng det after a7
+wepirerera aaa Frey G1
+a Ag Saty ade ghegAry
+Bel Fat eusEherRayK: |
+ashe frederaargan:
+aa friiga Femara yon
+Wise people should give up a country
+where the king inflicts rigorous punishment
+
+but his position is weak, where the pubic
+always celebrate the festivities, where people
+
+are mutually envious and intend to conquer or
+put down one another.
+
+Raa: TY:
+aa aed werarat wer vefeaett: 1
+waist a agfes wafers aaqUy cit
+
+The hermits said- O brave king! We will
+describe the prohibited things as also the
+things worth eating for the religion-abiding
+people.
+
+der ww rt Perk Croenl |
+
+wee ater: vert feat: TTA AATI Y 8
+
+The food cooked in oil, ghee etc. fatty
+matters even if stale and kept for longer hours
+and the rice and milk and milk products i.e.
+curd, ghee etc. even if stale and kept for
+longer hours are eatable.
+
+wees: werent wear wer weerRETTh
+aaftacererdtt stent aprratq g ot
+
+The rabbit, porcupine, godha (goha),
+Svavidha (particular animal), fish, tortoise and
+pulses have been described by Manu as
+eatables.
+
+afore TEATS A
+Veererart & goryetearafin § gn
+qiaragnet a deat a array
+SACRAATAATONTSAT fea FCAT g BU
+Water purifies gems, pearls, coral, precious
+stones, stones and wooden pots, the straws,
+roots and medicines, the strpa-dhanya, hide of
+
+deer, ready-made garments and all clothes
+made up of tree bark.
+
+weermaeis ferret wifey
+annifaert aeront yf: warefergam § 311
+The clothes bearing stains of oil or ghee etc.
+
+are purified by hot water and by rubbing them
+with a cake of sesamum oil while clothes
+made of cotton are cleaned with ash.
+
+aTTeeeygTT TarOTTEghahEIN
+
+WF: Was ast Geta @ Berg vi

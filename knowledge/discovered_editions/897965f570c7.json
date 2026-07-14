@@ -1,0 +1,165 @@
+{
+  "title": "Sivanandalahari",
+  "discovered_at": "2026-07-13T15:14:30.598738+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "\u015aiv\u0101nandalahar\u012b",
+      "authors": [
+        "Sankaracarya."
+      ],
+      "year": 1989,
+      "languages": [
+        "hin",
+        "eng",
+        "san"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 2,
+      "isbn": [],
+      "publisher": [
+        "S\u0301ri\u0304 Daks\u0323in\u0323a\u0304mu\u0304rti Mat\u0323ha",
+        "Central Chinmaya Mission Trust"
+      ],
+      "ol_key": "/works/OL319013W"
+    },
+    {
+      "source": "open_library",
+      "title": "SivAnandalahari",
+      "authors": [
+        "Acharya Boddupalli Purushottam"
+      ],
+      "year": 1997,
+      "languages": [],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Sri Girija Prachuranalu"
+      ],
+      "ol_key": "/works/OL15869666W"
+    },
+    {
+      "source": "open_library",
+      "title": "\u015aiv\u0101nandalahar\u012b",
+      "authors": [
+        "\u0100di Shankara"
+      ],
+      "year": 1969,
+      "languages": [
+        "eng",
+        "san",
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 3,
+      "isbn": [],
+      "publisher": [
+        "Central Chinmaya Mission Trust",
+        "\u015ar\u012b Dak\u1e63i\u1e47\u0101m\u016brti Ma\u1e6dha",
+        "Educational Supplies Depot"
+      ],
+      "ol_key": "/works/OL10410706W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "12-sivanandalahari-v-6-30122025",
+      "title": "SivanandaLahari",
+      "creator": "Adi Shankara (Malayalam Translation by Maruthoor Purushothaman)",
+      "year": 2025,
+      "language": "mal",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "sri-adi-sankaracharya-krutulu",
+      "title": "Sri Adi Shankaracharya Krutulu",
+      "creator": "Sri Adi Shankaracharya",
+      "year": 1920,
+      "language": "tel",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "sivanandalaharisanskrit",
+      "title": "Sivanandalahari",
+      "creator": "",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2783639914",
+      "title": "Role of Language in Identity Formation: An Analysis of Influence of Sanskrit on Identity Formation*",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://api.taylorfrancis.com/content/chapters/edit/download?identifierName=doi&identifierValue=10.4324/9781003106807-22&type=chapterpdf",
+      "authors": [
+        "Varanasi Ramabrahmam"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2182226457",
+      "title": "A MODERN SCIENTIFIC INSIGHT OF SPHOTA VADA: IMPLICATIONS TO THE DEVELOPMENT OF SOFTWARE FOR MODELING NATURAL LANGUAGE COMPREHENSION",
+      "year": 2009,
+      "is_oa": true,
+      "oa_url": "https://philpapers.org/archive/RAMAMS.pdf",
+      "authors": [
+        "Varanasi Ramabrahmam"
+      ]
+    }
+  ]
+}

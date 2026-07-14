@@ -1,0 +1,34 @@
+{
+  "title": "BhaiBaleWaliJanamSakhi",
+  "discovered_at": "2026-07-13T12:43:47.338766+00:00",
+  "edition_count": 1,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "BhaiBaleWaliJanamSakhi",
+      "title": "Bhai Bale Wali Janam Sakhi",
+      "creator": "www.DiscoverSikhism.com",
+      "year": null,
+      "language": "Punjabi",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "title": "Laghu-yoga-vasishta-English",
+  "discovered_at": "2026-07-13T13:41:07.626608+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Translation of Yoga-V\u00e2sishta-Laghu - (the Smaller)",
+      "authors": [
+        "K. Narayanaswami Aiyar"
+      ],
+      "year": 1896,
+      "languages": [
+        "san",
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 3,
+      "isbn": [
+        "9780342854110",
+        "0342854119",
+        "9780344897863",
+        "0344897869"
+      ],
+      "publisher": [
+        "Creative Media Partners, LLC",
+        "Thompson"
+      ],
+      "ol_key": "/works/OL28485561W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.62535",
+      "title": "-a Yoga-vasishta Laghu The Smaller (1914)",
+      "creator": "Aiyar,k Narayanaswami",
+      "year": 1914,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "laghu-yoga-vasishta-english-translation-k-narayanaswami-aiyer-translator-a-4829e",
+      "title": "Laghu Yoga Vasishta English Translation K NARAYANASWAMI AIYER ( Translator) A 4829ef 71bfcc 44b 529f 8037d 04552d 3 Anna\u2019s Archive",
+      "creator": "",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Translation of Yoga-V\u00e2sishta-Laghu - (the Smaller)",
+      "authors": [
+        "K. Narayanaswami Aiyar"
+      ],
+      "year": 1896,
+      "languages": [
+        "san",
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 3,
+      "isbn": [
+        "9780342854110",
+        "0342854119",
+        "9780344897863",
+        "0344897869"
+      ],
+      "publisher": [
+        "Creative Media Partners, LLC",
+        "Thompson"
+      ],
+      "ol_key": "/works/OL28485561W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.62535",
+      "title": "-a Yoga-vasishta Laghu The Smaller (1914)",
+      "creator": "Aiyar,k Narayanaswami",
+      "year": 1914,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "laghu-yoga-vasishta-english-translation-k-narayanaswami-aiyer-translator-a-4829e",
+      "title": "Laghu Yoga Vasishta English Translation K NARAYANASWAMI AIYER ( Translator) A 4829ef 71bfcc 44b 529f 8037d 04552d 3 Anna\u2019s Archive",
+      "creator": "",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

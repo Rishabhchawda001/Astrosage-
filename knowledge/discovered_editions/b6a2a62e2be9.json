@@ -1,0 +1,74 @@
+{
+  "title": "Narad Puran 4",
+  "discovered_at": "2026-07-13T14:14:58.008943+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "narada_purana_purva_202001",
+      "title": "narada_purana_purva",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "yKlL_sri-narad-puran-diamond-pocket-books",
+      "title": "Sri Narad Puran Diamond Pocket Books",
+      "creator": "Diamond Pocket Books",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wg1011",
+      "title": "2011 Or Before -Narad Puran",
+      "creator": "",
+      "year": 2011,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

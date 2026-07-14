@@ -1,0 +1,22 @@
+{
+  "pymupdf": {
+    "total_tests": 8,
+    "successes": 8,
+    "failures": 0,
+    "success_rate": 100.0,
+    "avg_processing_time_s": 1.195,
+    "avg_headings_detected": 896.2,
+    "avg_verses_detected": 44,
+    "structure_preservation_rate": 87.5
+  },
+  "docling": {
+    "total_tests": 8,
+    "successes": 0,
+    "failures": 8,
+    "success_rate": 0.0,
+    "avg_processing_time_s": 0,
+    "avg_headings_detected": 0,
+    "avg_verses_detected": 0,
+    "structure_preservation_rate": 0
+  }
+}

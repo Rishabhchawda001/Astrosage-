@@ -1,0 +1,161 @@
+{
+  "title": "Mahabharata-VOL-11",
+  "discovered_at": "2026-07-13T13:50:05.063007+00:00",
+  "edition_count": 7,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "dli.ernet.449218",
+      "title": "The Mahabharata Of Krishna Dwaipayana Vyasa Vol Vii",
+      "creator": "Roy, Pratap Chandra",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "Those18Days_Vol_I",
+      "title": "Those 18 Days. Vol. I",
+      "creator": "K. S. Narayanacarya",
+      "year": 2007,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "mahabharata-vol-4",
+      "title": "Mahabharata VOL 4 by pratap chandras Roy",
+      "creator": "",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Characters from the Mah\u0101bh\u0101rat",
+      "authors": [
+        "Chander Kanta Suri"
+      ],
+      "year": 1992,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Books For All"
+      ],
+      "ol_key": "/works/OL38796683W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "dli.ernet.449218",
+      "title": "The Mahabharata Of Krishna Dwaipayana Vyasa Vol Vii",
+      "creator": "Roy, Pratap Chandra",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "dli.bengal.10689.12189",
+      "title": "A HISTORY OF INDIAN LITERATURE",
+      "creator": "WINTERNITZ, M",
+      "year": 1963,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "bub_gb_hssizsfP4AgC",
+      "title": "Le mahabharata po\u00e8me \u00e9pique de KrishnaDwaipayana plus commun\u00e9ment appel\u00e9 V\u00e9daVyasa, c'estadire le compilateur et l'ordonnateur des V\u00e9das traduit compl\u00e8tament pour la premi\u00e8re fois du sanscrit en francais par Hippolite Fauche Vol. 6",
+      "creator": "",
+      "year": 1866,
+      "language": "French",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Generic Raw Book Tar",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

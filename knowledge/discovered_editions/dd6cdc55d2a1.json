@@ -1,0 +1,102 @@
+{
+  "title": "panini_Mahabhashya_V",
+  "discovered_at": "2026-07-13T16:51:01.595508+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "LecturesOnPatanjalisVyakaranaMahabhashya2",
+      "title": "lectures on patanjali's vyakarana mahabhashya 2",
+      "creator": "p.s. subramanya sastry",
+      "year": null,
+      "language": [
+        "sanskrit",
+        "english"
+      ],
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "JPEG Thumb",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "LecturesOnPatanjalisVyakaranaMahabhashya3",
+      "title": "lectures on patanjali's vyakarana mahabhashya 3",
+      "creator": "p.s. subramanya sastry",
+      "year": null,
+      "language": "Malay",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "JPEG Thumb",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "18-madhaviya-dhatu-vrtti_202405",
+      "title": "Panini Vyakarana Collection",
+      "creator": "various",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2163196576",
+      "title": "Case-linking : a theory of case and verb diathesis applied to classical Sanskrit.",
+      "year": 1979,
+      "is_oa": true,
+      "oa_url": "https://dspace.mit.edu/bitstreams/8b47a41d-1f0d-411a-8a0f-addfaab40c9a/download",
+      "authors": [
+        "Nicholas Ostler"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W106615500",
+      "title": "Developments of nasals in early Indo-Aryan : anun\u0101sika and anusv\u0101ra",
+      "year": 2013,
+      "is_oa": true,
+      "oa_url": "https://repository.dl.itc.u-tokyo.ac.jp/record/27513/files/ggr033003.pdf",
+      "authors": [
+        "George Cardona"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "title": "the_vimanika_shastra",
+  "discovered_at": "2026-07-13T17:07:09.816032+00:00",
+  "edition_count": 7,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "the-vimanika-shastra",
+      "title": "The Vimanika Shastra",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "the_vimanika_shastra",
+      "title": "The Vimanika Shastra - English Translation",
+      "creator": "Bharadwaja Maharishi",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "vimanika-shaster",
+      "title": "Vimanika Shaster",
+      "creator": "Sanskrit",
+      "year": 2022,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "VimanikaShaster",
+      "title": "Vimanika Shaster",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "vimanikashastravimanajoyserg.r._32_b",
+      "title": "Vimanika Shastra ( Vimana) Joyser G. R.",
+      "creator": "Mahesha Chanda",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2767050168",
+      "title": "A Critical review on Ancient Alchemical Metal Treatment Procedures in Rasagrandhas and Brhadvimanika Shastra",
+      "year": 2017,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Nanditha Krishna",
+        "Y. V. Mohan Reddy",
+        "B. Chandra Mohan Reddy"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3216480325",
+      "title": "Ornamental Variety of Garuda and Wilmana on Padmasana Architecture at Kahyangan Jagat Temple in Bali, Indonesia",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://ojs.unud.ac.id/index.php/ijeet/article/download/58784/35754",
+      "authors": [
+        "Ngakan Ketut Acwin Dwijendra",
+        "Ida Bagus Idedhyana",
+        "Ngakan Putu Sueca"
+      ]
+    }
+  ]
+}

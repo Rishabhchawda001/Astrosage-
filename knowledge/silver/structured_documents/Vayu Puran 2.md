@@ -1,0 +1,18646 @@
+# Vayu Puran 2
+
+**Document ID:** DOC-314322BB65EE
+**Language:** english (latin)
+**Pages:** 478
+**Class:** ocr_overlay
+**SHA256:** `314322bb65ee35399262fd1a92265c6f998e388ac5933d5d5eb3db04511fedfd`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+ATT
+
+Vayu Purana
+(Part - II)
+
+usta Taeee asa:
+weraferctergenttry
+
+Chapter 65
+The observation on the birth of Bhrgu
+and others
+HT HY:
+gear urd fata g oat ges dtm
+areregaet umes wd F Mya gH
+The Sages spoke— Having heard the second
+
+pada by Sita, the wise one, Sarnsapayana
+queried regarding the third pada (section).
+
+We: HRUSfEasaaGaAgU RAAT
+
+Tita faeraend aritant waite
+
+WayMSTagA: TEVA 21
+
+The second pada has been narrated by you
+
+along with its sequel. You may now dilate upon
+in details, the third pada along with its
+preamble. This way having been addressed,
+Sita began to speak with his inner soul highly
+delighted.
+
+Wi saa
+aah gett a aitart aera
+wre Bgeatfgmt at & Frater 311
+
+Sata spoke- I shall dilate upon the third
+pada in details along with its necessary
+
+introduction. Therefore, O Brahmanas, You
+please listen and understand it completely.
+THiceearend Bint WEE: |
+faettonssqyeat @ Frat saya fatnsn
+O scholars! Now you hear about in details
+
+and in descending order, the creative activity of
+the present Vaivasvata Manu of the noble soul.
+
+agdiaanen tem: yi gi
+
+we tamigda safetireisd: wen tt
+
+fagrerctades waingrdtetem
+
+mgt: waft uff: wat: Weng
+
+Wrarfed feTeTT ATR adg TAT
+
+aed dead wt area fat
+
+The period is already calculated as being of
+
+seventy one sets of four Yugas. I shall talk of
+the Vaivasvata Sarga (creation) headed by
+Manu and ending with the future events, having
+offered obeisance to Vivasvan (the Sun-god). It
+comprises Devaganas, Sages, Danavas, Manes,
+Gandharvas and Yaksas, Raksasas, Bhataganas,
+Human beings, Animals, birds along with the
+immobile creatures.
+
+ard tartisditn: at: wees 1
+Parhyeasat yor Menssey weds:
+STARS HT SaaS TAH Ct
+
+The seven great sages who had passed away
+in the first Svayarhbhuva Manvantara earlier,
+
+## Page 2
+
+Vayu-Purana
+
+and who were the creators and initiators then,
+they are reborn in the Vaivasvata Manvantara
+after the lapse of Caksusa Manvantara.
+
+ware a ato a yrardtat wetsrarq
+MUTATE Hagaray HETATAN <1
+Owing to the curse of MaheSvara, the noble
+
+souls, Daksa as also the sages such as Bhrgu
+and others manifested themselves.
+
+Ya: WHA T SIA: TT AAT
+we afore Tata weyatl YoU
+The Saptarsis were born again as the seven
+mind-born sons of Brahma. They were adopted
+as sons by Svayarnbhii himself.
+
+A: afta: at gene aerATAN geH
+By those the propagators of the progenies,
+taking birth as such as great-souled ones, the
+creation was again revived as per earlier norm
+and in a proper order.
+aut waft ae faggarrentoray
+PASTA ETATSTTA TT 11 V2
+Of those having deeds and learnings of pure
+norm, I shall talk of their generations by brevity
+
+in the light of conformity and in the proper
+order.
+
+Aarraaycssa FETA:
+Wr: B Yfta: Gat weerrafose ugg
+This world of mobile and immobile beings,
+
+embellished with planets and stars is filled with
+beings born of their families.
+
+Uren sae Wt dyeaiswad
+
+weed dyrenfaer: ga dearer
+
+Tene Ufone: dfprearar nee
+
+Having heard this way, the sages entertained
+
+an apprehension. Overwhelmed by the doubt,
+the sages of pure holy rites honoured Sita and
+asked him for the sake of clarification of their
+doubts.
+
+aa Hd:
+
+at wena: Wager: Wa AAT:
+
+aed aafearela vat frre SAT
+
+waists: ga: Traore: WAT BQH
+
+The sages spoke- How earlier the seven
+
+Saptarsis were born as seven mental sons? How
+were they adopted as sons? O excellent one!
+Please explain this to us. Then the highly-
+splendid Sita, well-versed in Puranas began the
+auspicious narration.
+
+Ut sara
+at uetig: fergt 4 a rareyasat
+Watt Gare Gaara fret 2g tt
+Sita replied— How the great Saptarsis who
+has been great Siddhas in the Svayarhbhuva
+
+Manvantara, failed to attain the fruit of penance
+in the Vaivasvata Manvantara, I shall narrate.
+
+cenfrgmarcifag! Barared aat AT:
+SUA ST Cis THAME A Vout
+
+By the curse of Bhava (i.e. Siva), they did
+not attain the fruit of the penance. Once they
+gathered together in the Jana Loka.
+
+By: Wa adisatet saci weatta:1
+HIS TEM arent ferra seat Ve
+
+All the sages then spoke out or talked
+
+mutually in that world of the populace and
+
+talked alone in the grand sacrifice of Varuna,
+the greatly fortunate ones.
+
+ad ad wae TAT:
+focrmernat: ae aa: Seat safereafen Vet
+“All we shall take birth in the transitional
+period of Caksusa Manvantara as the progenies
+of Pitamaha (Brahma). Then it will be
+conducive to welfare.”
+varhyasat war: aad a was GI
+af A grad @ sreiteafeat wat: Zot
+Cursed — during the Svayarhbhuva
+Manvantara by Bhava (i.e. Siva), for a truthful
+
+## Page 3
+
+Chapter-65
+
+purpose, they took birth once again having gone
+to the heaven from the world of the populace
+(Jana Loka).
+
+Rarer wed aa aTeUH fare
+gent yer: YR ys wera
+maa ait oe fetafafa a: ge eH
+“In the mighty sacrifice of the Deva,
+Brahma assumed the form of Varuna and with a
+desire for progeny, he had consigned the semen
+
+into the holy fire. It was then that the sages had
+their second birth.” This is heard by us.
+
+gaia wife: Yor: Ue: Teh
+afista afer aret 3 get: Gat Vl
+Bhrgu, Angiras, Marici, Pulastya, Pulaha,
+Kratu, Atri and also Vasistha— these eight were
+the sons of Brahma.
+menses fer aa Sar: we MATA:
+ARIS w aalfor ames TATU 23H
+In his grand elaborate sacrifice, all the gods
+came along and al! the components (ancillaries)
+
+of the sacrifice and Vasatkara had assumed
+corporeal forms.
+ufdafa a arnt asf a age:
+aeaegMaHA Tema fengaa: i Bw
+The Séman mantras, thousands of Yajur
+mantras and the Rgveda embellished with Pada
+
+and Krama (Pathas), assumed form. therein
+decorated by the senses of syllables.
+
+aydes Giew sienaqtirte:|
+faa aa HA MATAUTTAATA 24 Ut
+
+And Yajurveda rich in vrttas (established
+tules or usages or laws), brilliant with Ornkara
+(Om) as its mouth was present here along with
+Suktas, Brahmanas and Mantras related to the
+objects of the sacrifice.
+
+Maes Grea: TAA: WI
+faarecanfafix: and treed: aydtswe 2&1
+
+I. V.S. Apte, p. 529, TH!
+
+And Samaveda also rich in Vedic metres
+headed by al] the musical songs to be sung at
+the outset was also present there along with
+Gandharvas, Visvavasu and others.
+
+Tadean at: Henfafatiad:1
+weafgraatiay fggritefertssraqn ze
+Brahmaveda (Atharvaveda) equipped by the
+terrific Krtya rites? was present there. But due
+
+to Pratyangirasas, it appeared to have a single
+head with two bodies.
+
+meronft ta wie PERROTT: |
+srr arent Frremrerafin 2211
+The characteristic topics, accents,
+panegyrics, etymologies, the vowel gradation,
+resting places, Vasatkara, Nigraha
+
+(suppression) and Pragraha (restraint and
+control), all these were present there.
+
+dren diftatten Set fem: wher damn
+
+SaRAY UT AMT WAT Ua TUS
+
+amg: Waa wae Seer aaa FS!
+
+fiat: SUS TeuTT ABTA gon
+
+The brilliantly shining goddess Earth, the
+
+quarters, the intermediate quarters, the Lords of
+directions, the celestial virgins, the wives of
+Devas, the mothers and Ayu- all these were
+present there in embodied form in front of the
+Lord (Brahma), who was himself performing
+the sacrifice assuming the corporeal form of
+Varuna.
+
+wrayer at apt ta: waaaqyfan
+wertatenyeren feerarea 3 Myra: 113 tH
+
+Having seen those ladies, the semen virile of
+Svayaribhii fell on the ground. It took place on
+account of the dispensation of the inevitable in
+the case of Brahmarsis. There is no doubt about
+it,
+
+en Yea qrai a qa wipe a
+TRTAR(S aa Wears frame: 3 2H
+
+2. V.S. Apte, p. 160.
+
+## Page 4
+
+Vayu-Purana
+
+Having done this way, Pitamaha then took it
+up by means of Sruks and Sruvd (sacrificial
+spoons and ladles) and performed the Homa as
+if it were clarified butter, reciting the mantras
+duly.
+
+Aa: BSAA AT WaTaAa: |
+WAAR UH ceay TATA
+TART HreaceaT eS AMT Arh AAT TAIN 3 BU
+
+Then that Prajapati began the creation of
+living beings. Due to the splendour that was
+beside, the fiery things were born; the Gunas—
+Sattva and Rajas were not pervaded by the
+Guna Tamas.
+
+agora fret arengt cafe Ferm
+ara Tay SRT | wU
+
+From the Saguna brilliance, perennially in
+the sky developed the Tamas (gloom) and from
+Tamas and the Tejas (brilliance), all the living
+beings took birth.
+
+Uer aera Set Yar ST:
+ARTMCAAMTATS TAY FATT TUF
+
+When the sons bom of Karman (action)
+were created, Brahma took up his semen virile
+in the cooking vessel of clarified butter and
+offered the oblation.
+
+US Fa afeng wig weta:)
+Sap SYST Yet: Tea S ween se
+The semen virile having been offered as
+oblation, the Maharsis (the great sages)
+appeared forth themselves, embodied with
+brilliance and having the attributes of new born
+infants.
+Bi ae apega sateen Fga: afar:
+facial opt caret fire fafasgamy
+qyeatatt gare wees & FY 01
+Once the semen virile having been offered
+as oblation into the fire, from the flame, issued
+
+out Kavi (i.e. Venus). Having seen him coming
+out splitting up the flame, Hiranyagarbha
+
+(Brahma) said— “You are Bhrgu.” This way he
+spoke out, whereby from that Bhrgu (became
+apparent).
+
+wercaeeateyt BET Teo
+mae yar dies cat wait:
+farsa qadat wa gat waTAAR CH
+Having seen Brahma that way, appeared as
+such Mahadeva and remarked- “I am desirous
+of a son and J am initiated. He is born to me, O
+lord. Hence may lord Bhrgu be my son.”
+
+waa way wea: Kayan
+Ware HCUAATE WRIA IATA
+
+ARUN PTAA U Fo YN Se
+“All right”, this way permitted by
+Svayarnbhi, Mahadeva adopted Bhrgu as his
+son. All the descendants of Bhrgu are called
+Varunas. He became a holy lord sage.
+
+fgita g aa: Yanga:
+apitaigisai dteatht wats hati ¥ on
+
+A second ladleful of semen virile fell on the
+burning coals. Aigiras was born of it with his
+limbs firmly united on fire (burning charcoals).
+From this, he is known as Angiras.
+
+aula wea at opr afeterormacia
+VWhergpataré fedtaise warfeafen we
+Having seen the generation of Angiras, Agni
+spoke to Brahma-~ “I am verily the bearer of the
+
+semen virile of you. Hence may this second son
+be mine.”
+
+wanfeaft aiswpat geo Hea:
+Tereiantt srat sft A: ATTN S I
+
+“May it be so”, this way then agreed to by
+Brahma. Hence, we have heard that all the
+descendants of Angiras are known as
+“Agneyas”.
+
+rape Fi: YR EU caanfom
+Bl wares vege sft gf ean
+
+The semen virile, when was consigned to the
+holy fire for six more times by Brahma, the
+
+## Page 5
+
+Chapter-65
+
+5
+
+creator of the universe, the six Brahmas (sons of
+Brahma) were born. This is what is our hearing.
+
+wife: serena wife: wafer
+sat afeaegat SR aR SAGs Yt
+Marici was the first one therein, born up out
+of rays. In that Kratu (sacrifice), then a son got
+
+birth and on that account (became known) as
+Kratu. ,
+
+ae att senteronea: & ate
+ata Pfgenin: gers BBS I
+“I am the third”, this is the meaning on that
+account he is called as Atri. The fourth son was
+
+born with sharp pointed hairs. Hence he became
+well known as Pulastya.
+
+Spend: ATQUTERATY Yee: BIA:
+AMAA TATA 1 It
+“Born out of larger curls’, on that account
+
+another son is known as Pulaha. He who was
+born out of the Vasu was called Vasuman.
+
+afas sft wag: shat geranfefirs
+SAT TAIT: FAT: ATT: WORTH wig
+“Vasistha”, this way is declared as such by
+the reality knowing Brahmavadins (expounders
+of Vedas). This way, these six great sages are
+the mind born sons of Brahma.
+
+aired Ceara eat afta: WaT: |
+waa Bela VST TAIT: GAT WS
+They are the propagators of the universe. By
+them, were developed these subjects or
+progenies. Hence Brahma’s sons are mentioned
+as Prajapatis.
+amt farat ara uta wetefa:
+seater seferron: Bes eteAy aT Use
+Others called Pitrs were created by these
+
+very great sages. The seven groups of sages are
+well known in the world,
+
+unten antag wa warieratsmt
+deren: there anfneta feet:
+
+SRT OT: teat: FeUTE eiTeRFeRTAT: 114 o
+They are- Maricas, Bhargavas, Angirasas,
+Paulastyas, Paulahas, Vasisthas and Atreyas.
+These groups of Pitrs are well-known in the
+world.
+
+Wl aaradena Gta F YU:
+ayes wenrerey Satferoraay Fegan 4 eu
+These three Ganas have been briefly
+mentioned before: They are Apurvas (Rare),
+
+Prakagsas (Brilliant) and — Jyotismantas
+(Illuminated ones).
+
+Fat Tet at Fat wfeerencT: |
+ATL TAT TARA STORATAP ATEN 2
+
+Their king is the lord Yama and they have
+their sins obviated by their observances. Now
+listen with utmost care to the other Prajapatis.
+
+wen: Syaa: Wa feat: YRATEM
+agya: qaresy freee terran it & 3 Ul
+Kardama, Kasyapa, Sesa, _Vikranta,
+
+Susravas, Bahuputra, Kumara, Vivasvan, along
+with Sucigravas,
+
+weaaisheatidgea waratt:|
+Seas ASAT AeA WIT 4 VII
+
+Pracetasa, Aristanemi, Bahula and many
+others are Prajesvaras many in number.
+
+ayitern areafaca: dye: Wada:
+wattaat: aera: ares ASIAN 4
+Kusoccayas and Valakhilyas took birth as
+great sages having the speed of the mind, and
+
+could circumambiate the universe. They
+happened to be Emperors.
+
+wet ererttfeat weathers: |
+Sara GPO ATTAIN 1G GH
+
+The groups of sages called Vaikhanasas,
+
+born of the sacred ashes, adhering to penance
+and Vedic studies, are honoured by Brahmanas.
+
+ativarera dreraratert wretirat
+faguarercrah fanen Sarat: 401
+
+## Page 6
+
+Vayu-Purana
+
+Sprung from the ears of his, the two
+handsome ASvins, pure ones, born of the eyes
+and are known as Aksarajas.
+
+SET: WAT Uae: siraNTETT RT
+UAT TURN A RM KAUAI SH
+The greatest ones as the lords of progenies,
+
+were born of his vessels. The sages were born
+of the hair pores in the skin and the sweat dirt.
+
+aroun fe Ga ater Frater: werdera:1
+ara 3 erat: fiat) Safar eee
+Of his tears and cry were born the terrible
+months, Nirydsas, the junctions of fortnights,
+years, days and nights and the terrible light of
+manes.
+ae dia ict Te 7
+amtatifa fag quer Uya: THAT G ON
+Raudra, they say is the Lohita (blood) and
+Lohita is known as Kanaka (gold). That verily
+
+is to be known as Maitra also, and smoke is
+remembered as animals.
+
+ashi a earerassfeet: WARAT:|
+RUA: Tera Safa feeraTTAT: 1G gil
+The rays! that were of that one, are Rudras
+
+and Adityas. The brilliant divine human beings
+were born of the burning coal and the flame.
+
+sfearret Breer Te TATRA: |
+Fa A TERA SATS § Vl
+
+Brahma, the primordial being in the world,
+became the one born of Brahman. To him, the
+bestower of all the desires, requesting a virgin,
+the sages spoke like this
+
+gen quer fragt: dmciafan
+Ba 9 aafaerha wat: Wat: eT G 3H
+
+Brahm, the eldest one of the gods, becomes
+gladdened by the Devas and these Prajesvaras
+(the Lords of progenies) shall generate all the
+progenies.
+
+1. V.S. Apte, p. 52. Sif: Ray of light flame, light.
+
+wa warat waa: ad ante qatar:
+aererafentecearacagicm: farang xn
+All are the Lords of progenies, and also all
+are the penance performers or ascetics. These
+rites will uphold these worlds with his grace.
+we Vadarra aa ait faa
+Ray aefaata: we confer & Gt
+They have developed the couples who are
+enhancers of your radiance. Among the gods,
+
+there are scholars of Vedas and all the sage
+kings are also such.
+
+aera: ad warafeyutreat:|
+arr Fal Ged a aT WH Afan gat
+All are engaged in the Vedas, having born
+out of the merits of Prajapatis. The unending
+Brahman is the Truth, and the penance of
+highest order.
+
+wd fe aata a ada waa: wit
+Fal u genta cela ATTN Il
+
+O Prabhu! All of us are your own children,
+the Brahman, the Brahmanas and all the worlds
+including the mobile and the immobile beings.
+
+mifeamfea: arat tary aefate: wel
+aurarie fears asus SMTA 21
+Beginning with Marici, the gods
+accompanied by sages said— “Having thought
+
+over for the progenies, we sought for your
+blessings.”
+
+aferag werrn fay safer: Tel
+WARM ALAA: RA ERTETATATATAT: 1G BH
+In this Yajfia, the greatly fortunate gods
+along with the sages, are born as such from the
+lineage, thoroughly honoured all over as per
+space and time.
+ag aa eto wea: wa:
+anata emtaicn: wT: neon
+By that very appearance, they may not
+established these subjects. They may be
+
+## Page 7
+
+Chapter-65
+
+stabilised from the beginning till the end of the
+Yugas.
+
+Wissdicttae: witrafraa
+
+Ue ten fatter wer yer a eT
+
+waa are: FART TERT: 9 BU
+
+Then exclaimed the preceptor of the
+
+universe, not contemplating upon any further
+thought- “O gods, it was after having
+determined like this that the subjects had been
+created by me. There is no doubt in it. These
+great sages have been born in your race.”
+
+wat gt: atte cig vs wera:
+faettonssqyeat S were ATTA: 19 BH
+Among them, | shall dilate upon of Bhrgu’s
+
+lineage, the high-souled one, the primeval
+Prajapati, in detail and in proper sequence.
+
+ca ptrenfatt sesh
+fecoaceferat: aaa fect ary ufegatu
+yeieante ueint giz arafititne a1
+
+The two spouses of Bhrgu were unrivalled,
+excellent ones, of noble descent and auspicious.
+One was the Hiranyakasipu’s daughter, famous
+by the name ‘Divya’ and other was named
+Paulomi, the fair-complexioned daughter of
+Puloman,
+
+qieataten aret defeat am
+ZaRRMarard ys aAfargd WET st
+Divya gave birth from Bhrgu to Kavya, the
+excellent one among the Vedic scholars, the
+
+preceptor of gods and demons, well-known as
+Sukra, the son of Kavi.
+
+yee Gad: Hye: aareatishe aA:
+faa weet aan arora apr
+re stat wars fast AAR: GAO G
+That Sukra was also known as Usanas and
+was remembered as Kavya by name. The
+spouse of Sukra was the mind-born daughter of
+the manes, the Soma-drinkers and was very
+reputed one. She gave birth to four sons.
+
+Seo AH BH: TATA Teta:
+Weal 7 Ua: WaT: YHA AAMT VR
+Equipped with Brdhma-teja (the ineffectual
+splendour of a Vedic scholar), he was born as
+the most excellent knowers of Brahman. In her
+verily, four sons of Sukra took birth.
+
+TABI eat weet yest a ATV
+
+3 TeISSPeTAERTT TRACT: WHAT:
+They were— Tvasta, Varitrin, Sanda and
+Amarka. They resembled the sun and equivalent
+to Brahma in their prowess.
+
+Tem: verter fagreres geafire:
+ae: gat Ba steer: eats: Wc
+Rafjana, Prthurasmi and the scholarly
+Brhadgiras were the excellent sons of Varitrin.
+They were devoted to Brahman and became the
+priests of gods.
+
+werner wrens
+Fret & od quagt aqnadiqe <i
+
+With a view to demolish the lawful domain
+of sacrifices, they approached Manu. They
+planned as such and having seen the law getting
+violated, Indra spoke to Manu.
+
+uta g ant wai wrofaents ara
+TS I Ta TETATETAAAN ¢ ol
+
+“I would rather have the sacrifice performed
+through you than through these.” Having
+listened to these words of Indra, they got out of
+that spot.
+
+fray afters ntact a ararg
+mao Utafacan | Aa: AISTHA ATTN ce
+
+On those having gone out of sight, Indra
+then having got rid of the malignant planets,
+
+released spouse Cetana, and subsequently
+followed her.
+ad safanena amare aL
+
+TAISSTARPAGET SUR: wEz(wa) FU
+gem tates dat & afar aac 2
+
+## Page 8
+
+Vayu-Purana
+
+On seeing the Yatis (the restrained recluses)
+persevering for the annihilation of Indra, he
+struck at them while they slept in the altar of the
+lord of Devas on the southern quarter or right
+side.
+
+aati Y MANTUA AT MIeTGS: Tel
+viaifor rodents wafroaretera: ic 31
+
+While they were being devoured by
+
+Salavrkas (ie. dogs, jackals or hyenas), their
+
+heads tumbled down simultaneously and
+became dates fruit.
+
+wd aefam: yat sau Feat: TT
+aera faa a yet gfeatswaq cv)
+Thus, the sons of Varitrin were killed by
+
+Indra earlier. Devayani became the daughter of
+Sukra with his wife Yajani.
+
+fafa farang ap: yistater
+apierranqerat atrerth AEra ET: 1
+fersnenty fercnat aa: Tyas 4H
+The three-headed Visvariipa happened to be
+the great son of Tvasta, born of Yasodhara,
+daughter of Virocana, the highly-famed one.
+
+Visvakarman is remembered as the younger
+twin-brother of Vigvaripa.
+
+sping yrat tar HART wlegnsserstT:|
+deat agya walarenans seaTATy: 1c &
+Of Bhrgu, the Bhrgu Devas took birth as
+
+twelve sons. Lord Kavya begot of Devi those
+sons.
+
+qert werd serra
+wy: Toe gat a spat cayuer a1)
+weagrenia gevisfiatt: yan cen
+
+They were- Bhuvana, Bhavana, Anya,
+Anyayata, Kratu, Sravas, Mardhan, Vyajana,
+Vyasrusa, Prasava, Aja, and the twelfth one
+Adhipati.
+
+Bear ya Ser: BEAT BEM ATE: |
+udienraga afed afer fayque ci
+
+These Bhrgu gods are remembered as twelve
+sacrificial Devas. Paulomi gave birth to a lordly
+son having full self-control and engrossed as
+Brahman.
+
+anfaa: diset wife wi: tor acto
+ATE: Bisa UAT WaT
+MATAR TRATES VU
+
+In the eighth month, because he was
+diseased, he was forcibly taken out of the womb
+by a treacherous act, and so his name became
+Cyavana. He became’conscious due to Pracetas.
+From the anger of Cyavana revived by Pracetas,
+Cyavana alias Pracetasa burned the man-eaters.
+
+SAAT Yat gt Yaa s arta:
+wears adit o argut apa ott
+Cyavana produced two sons with Sukanya
+
+named~ Atmavana and Dadhica. Those two
+became well honoured by the saints.
+
+Ate: Wat cetera
+eat veit mean arrerarret ATgeTN @ tH
+Sarasvata was born of Sarasvati and
+
+Dadhica. Ruci, the blessed daughter of Nahusa,
+became the wife of Atmavana.
+
+we Gahafess se fie Were:
+aitdenssditguteng drenfiraqyra: i <2
+
+And from the thighs of that one, the greatly
+famed sage Ura or Aurva took birth, having
+opened apart the thighs of his mother. Rcika
+was the son of Aurva. He was having radiance
+like that of a blazing fire.
+
+wmefaaias Ararat sre
+aphey cremate dgdorrerarereit <3
+
+Of Retka with Satyavati, Jamadagni took
+birth when the sacrificial offerings pertaining to
+Rudra and Visnu by Bhrgu were interchanged.
+
+SUATEOTERAT Se TATA
+oper THEM’ WRIT
+aeETare Te Yas freA gv
+
+## Page 9
+
+Chapter-65
+
+As the caru (sacrificial offerings) pertaining
+to Vaisnava fire was consumed, Renuka bore to
+Jamadagni, the son Rama of unmeasured
+splendour. He was an incarnation of Sakra in
+valour and had the traits both of a Brahmana
+and a Ksatriya.
+
+aidenssaigayt saefagtrey
+at Qragertin antarn wea e 4H
+
+Aurva had a hundred sons headed by
+
+Jamadagni, and those Bhargavas (descendants
+
+of Bhrgu) had thousands of sons due to mutual
+alliance,
+
+REY & sen geat artat: Bar:
+aat faatsfatoes wg: wa: ayia I
+Wao aT Ba wa Fa AAA: ee
+Among the intermediary sages, there are
+many other descendants of Bhrgu. They are
+divided into seven Gotras, viz. Vatsa, Visva,
+ASvisena, Panda, Pathya and Saunaka. These
+seven clans are also remembered as Bhargavas.
+
+STOTT sey: yer sea:
+FASS BYAT ARET: TATA:
+
+Reena Genfeagest wetsra:1 eet
+
+Now you listen about the lineage of Angiras,
+the intelligent son of Agni, in whose lineage
+took birth the Bharadvajas along with
+Gautamas. The gods chief among the Angiras
+are Tvisimants (endowed with brilliance) and
+highly prowessed ones.
+
+gen va wih arett a wa aT
+Wan a amt aan feat arateaador:
+seesiete: Ure ceafe eater ect
+Atharvan, Angiras had three spouses, viz.
+Surap4 the daughter of Marica, Svarat the
+daughter of Kardama and Pathya the daughter
+of Manu. I shall now talk of their progeny.
+
+sedong earerag stat: Beiteaet:1
+BAT USAT AST ATA AAPAATAATN ee
+
+Of Atharvan with his various wives, took
+
+9
+
+birth the collaterals (Dayadas), the propagators
+of the lineage. They took birth blessed by
+austere penance of that purified soul.
+
+geet: TSIM MAT: Y_I WT
+
+sere aed a TATA TAM Yo 01!
+
+feu: yg wart dada wa:1
+
+fafereey Te TET PARIITETAATT: I Ro Vt
+
+Brhaspati was born of Suripa and Gautama
+
+was born of Svarat. Pathya produced Avandhya,
+Vamadeva, Utathya and Usija. Dhisnu was also
+(born) of Pathya and Sarhvarta was the mind-
+born son of Atharvan. Vicitta, Ayasya and
+Saradvan were the sons of Utathya.
+
+fort chin gegatt armza:1
+fat: Ya: YAM AW TEA go VM
+Dirghatamas was the son of Usija and
+Brhaduttha was the son of Vamadeva. Dhisnu’s
+son was Sudhanvan and Rsabha was the son of
+Sudhanvan.
+
+wer: BEAT Far UA  ufeqar:1
+gemaaicart faa: AAT! go BU
+
+The Rathakaras (charioteers) are
+remembered as Gods as well as Rsis. Of
+
+Brhaspati, Bharadvaja of very great fame and
+well-known was born.
+
+afgray dadt tanfgra: ya
+geeridtara Sat BETA: Bat Row
+The sons of Sarhvarta, mind-born son of
+Anigiras, are known as Devas. You may listen to
+them. These Angiras Gods are regarded as
+junior to Brhaspati.
+aieanfara: yar: Gearai fast
+atemiqggéat af: somata a
+slams aaa Hg: Ae FT SM ou N
+The couterine sons of Angiras took birth in
+Surtipa. They are ten— Audarya, Ayu, Danu,
+Daksa, Darbha, Prana, Havisman, Havisnu,
+Kratu and Satya.
+
+## Page 10
+
+10
+
+Viayu-Purana
+
+Seer sae ameaeifaa:
+UTTER: Wteplerenr MI RTTATHTAT: 1 o & It
+
+aren fampgges eftat araereran
+TOT Want WERT sat: FETA 209
+Wl wigea: war fagar ay ws aI
+Rey & are sedis: BAT Roc
+Ayasya, Utathya, Vamadeva, Usija,
+Bharadvajas, Sarnkrtikas, Gargya, Kanva,
+Rathitaras, Mudgalas, Visnuvrddhas, Haritas,
+Vayus, Bhaksas of Bharadvajas, Arsabhas and
+Kirnbhayas-— these fifteen are to be remembered
+as belonging to the Paksa (lineage) of Angiras.
+And those sages who are the extraneous ones
+(belonging to the families outside) are
+remembered among other sages.
+Tried uftaenta aerqarrEa
+TRAN Tey ATTA Ro Vl
+I shall now talk of the lineage of Marici
+having excellent men as its scions and in whose
+race took birth the world consisting of mobile
+and immobile beings.
+
+Titferreget aftertaste
+Wa: waquida: waagefareta: u
+
+eae weraat wraT sTferat wy got
+Marici looked for waters and then meditate
+out of lust for progeny. The lord mentally
+conceived thus- “The son bom of a
+praiseworthy woman, equipped with all merits
+and having good tastes is adored”.
+
+SgHs aa: Pat sa: WAST:
+
+arg wforfgarearries: BISTATINT: 1 eat
+efimarensheat: sarafe:1
+
+Wa wits Wala aah agit casi eee
+
+Invoked as such, then all the waters were
+called. The master dwelt in their company. The
+lord procreated an unequalled son named
+Aristanemi who was a Prajapati and who was of
+well-controlled mind. Vadhauvesa begot the son
+Marica, having the splendour of the Sun.
+
+wearafe dat art gareif afer fara:
+ae adtaeentin at: AiswferMiseTaTU g 23 Ut
+Meditating upon the speech of the Suave,
+cherishing for sons, he stayed under water for a
+period of seven thousand years and thereby that
+son became Apratima (unequalled).
+amen: Bagagrat BT Te: WAI
+Waaity Way TAUTISHA TAA Vee
+Kasyapa was the knower of the sun, hence
+he was equivalent to Brahma. In all
+
+Manvantaras, he takes birth by the partial
+incarnation of Brahma.
+
+auftiratige ceo epfter: wat:
+
+aftara er age cape warfare gk tt
+
+It is said that for the sake of his daughters,
+
+the subjects were angered by Daksa. Then he
+drank Kasya. The’ word Kasya means liquor or
+wine.
+
+aararen fe fasten aes: Hypa TAA
+aye Wel oye fad: PAUATY HVAT VEN
+Hascekasas (sense of humour) deserve to be
+enunciated as Brahma’s Kasya. Kasya is
+remembered as wine by the scholars and
+Kasyapa is derived from the drinking of Kasya.
+
+eetifet AT agra are BTRTEAAL
+enfingra: Sita: APATAT AsTATN VI
+He used cruel speech. Cursed by Daksa, he
+
+became furious and thereby became Kasyapa as
+such.
+
+Weare HPT TAIT VATA
+
+THA: HYAGTS HAT: HATTA
+
+wais gerenfea: waten wearer eget
+
+On being requested by Kasyapa and urged
+
+by Brahma Paramesthin, Daksa gave his
+daughters to Kasyapa. All those maidens were
+Brahmavadins and all those were the mothers of
+the universe.
+
+geagheat gy gud at ae areumy
+MYAPTAATYS: YSRTATATTTTN
+
+## Page 11
+
+Chapter-65
+
+i
+
+eruragaurreda weaard: mA Vee
+He who knows this sacred creation of sages
+by Varuna, becomes long-lived one, pious one,
+the chaste one, and he attains to utmost bliss.
+By hearing this and retaining this in memory he
+becomes immune from all sins.
+
+TIGA: wa wat Teton
+
+fated weet uB ad were ZI
+
+frat: duatisd wildacaaer si 22011
+
+Then spoke out again all the sages to
+
+Romaharsana- “When the sixth creation of the
+subjects of Caksusa Manu had been dissolved,
+the creation of Vaivasvata Manu started, how
+did it take place?”
+
+WW sara
+
+WaT: eft afew: cat cer: waayan
+wast zal gens afanta garfor an
+sofmasat wraarsararey FI g2 at
+
+Sita replied~ “You may create the
+progenies”, this way commanded by
+Svayarnbhii lord himself, Daksa then created
+the beings~ mobile and immobile ones, on the
+arrival of Vaivasvata Manvantara.
+
+aa: Ng ang wo: we gfe:
+gusala sfasa: EaETM 22 2
+
+Then Daksa started creating progenies of
+four types, viz. Jardyujas (viviparous), Andajas
+(oviparous), Udbhijjas (germinating ones) and
+Svedajas (those generated by warm vapours or
+sweat).
+
+ae atagentin aan att eT:
+eonferdt arrarcteforeratfeasiea: 0 223 1
+
+Having performed austere penance for ten
+thousands years, he became endowed with the
+powers of Yoga (mental concentration),
+specifically by Anima (the super-human powers
+of becoming as small as an atom and one of the
+8 powers or siddhis of Siva) and others.
+
+arart sara agate ar
+Taal eee
+STATA PASTA ATTA 22 VII
+adamant gfedt afrafa genfar a
+arate yah fargayfafaen: wars 224 tt
+
+The illustrious one, divided himself into
+human beings, serpents (Nagas), Demons
+(Raksasas), Devas, Asuras along with
+Gandharvas. All of them were endowed with
+divine strength and wealth of beauty and
+radiance. They were lords equal to himself. He
+was desirous of creating other mental norm of
+progenies of various kinds.
+
+maar yea
+TAT TTR ITTETATI 2R KI
+The Rsis, Devas along with Gandharvas,
+human beings, serpents, Raksasa’s, Yaksas,
+Bhitas, goblins, birds, animals and the beasts
+were created by him.
+FaISS AAMT BRT A aT aT: aT:
+UAT ATA TEA HTATH QR Nt
+When the progenies created by mind did not
+grow and multiply along specifically, he was
+
+rebuked as such by the adorable and wise lord
+Mahadeva.
+
+ape a are fargafefaen: wer:
+afaert arerecacit SORT ATTA RCH
+And by an idea of physical union (sexual
+intercourse), he became desirous of creating the
+different subjects. He bore to himself as spouse
+Asikni, the daughter of Prajapati Virana.
+Gat Great Geet Tar eiteenfeainy
+wer gaftg Ue STEEN 2231
+She was endowed with great austerity, and
+by whom was supported the entire Universe
+consisting of the mobile and immobile beings.
+
+sargarecdiat yeitent wre fa
+eaetgedt aratafacstt draft wert 93 ott
+
+## Page 12
+
+12
+
+Vayu-Purana
+
+aunt rad aa: otto enfin
+saifinty aster: yodtsyaat wy: 23 gH
+Here are quoted these two verses about
+
+Daksa, the son of Pracetas— “When Daksa
+married Asikni, the great daughter of Virani, he
+created a million mobile wells along with those
+identifying with them. Releasing them into
+streams and hills, the powerful Daksa pursued
+them.
+
+a ger fata: sike wfaereate & ser:
+wees fatten | SATE WATT RB TH
+Having seen him, the sages said- “He will
+establish the first and second set of the
+progenies of Daksa Prajapati here.”
+wasTexMee Hat Age g A:
+afar afte aa car: wretraisaequ 23 311
+That very way after creating a million wells,
+
+Daksa Pracetasa married Asikni, daughter of
+Virani.
+
+am Grae © afwarafiritsrm
+afaerat SATA Bat: MTT: TYLM LB VI
+Then Daksa Pracetasa begot a thousand sons
+
+of unmeasured splendour from Asikni, the
+daughter of Virani.
+
+aig ae ver: a faadfagan
+afd: fradarel aet get: Gan
+Aga et AA PITTA SHAS TAA 83 4
+And having seen those greatly radiant cnes,
+desirous of ennourishing forth the progenies,
+Devarsi Narada, the son of Brahma, fond of
+dialogues, spoke out evil words to them
+resulting in himself being cursed.
+a: a a vread fan: eyerreta air:
+SAMOA ATA TAIRA ATU 23.
+The Brahmana (Narada) is sometimes called
+son of Kasyapa. Because of his mean act, the
+Brahmana sage was afraid of the curse of
+
+Daksa.
+
+a: BPATAT ET UAT STATE
+URE: BPATS CATMTTATTA: I R391
+Paramesthin was born as Kasyapa’s son.
+And again owing to the fear of the curse of
+Daksa, he was born as his mental son.
+
+aera ayareny igi aaiswadi
+a fe vhagerat are: WeafeA e3 cl
+His second birth was as the mental son of
+
+Kasyapa. He was born earlier as Narada of
+Paramesthin.
+Wa carer Yara weer ofa fae:
+frend safgrar: we farmer + Hera: 93 8
+Earlier Daksa’s sons known as Haryasvas
+
+were annihilated for the purpose of censure.
+There is no doubt about it.
+
+TET eet: BRT are SF wy:
+wats yeep aaa: wae ev oll
+Lord Daksa became infuriated and attempted
+
+to destroy him. Placing the Brahmarsis ahead,
+Daksa was implored by Paramesthin.
+adtsfirdfad oh earegq weafeat
+wat ae Wel aa Wat weafeefarn ex gu
+Then Daksa stipulated the conditions with
+
+Paramesthin~ “Let Narada be born of my
+daughter as your son”.
+
+wat eet: Yat wreferat & wee
+TST ART FH a: ORT sarees ewe
+Then Daksa offered his dear daughter to
+
+Paramesthin. From that one, Narada took birth.
+The sage became calm and ceased to be afraid.
+
+aguged fares sieeateet: GA:
+apace IG ad raiaheaq ews
+Having heard this, those Brahmanas having
+curiosity provoked once again, inquired of Siita,
+the best one among the orators, a displayer of
+the real sense of the real expressions.
+
+## Page 13
+
+Chapter-65
+
+13
+
+aaa Sy:
+aed fernfget: Yat ARS WET
+WeaTUfer gare SAT: TEAST Aww
+The sages enquired- How were the sons of
+Prajapati, the sons of Pracetasa destroyed by the
+noble-souled Narada’?
+a red oer aren fagrerdre YT
+Ware yt aed Aut aaron gw tt
+He (Siita) having listened to the truthful
+
+expressions born of true curiosity, spoke out
+these sweet words endowed with all the merits.
+
+aaa wean fererifaaa: wes)
+FaNMA Welstat ARTETA Bl PVE
+The sons of Daksa, Haryasvas, desirous of
+developing the progenies, highly valiant ones,
+came there and Narada spoke to them.
+afer aa ga a a ware yaerq
+orgenada et wear J WaT: 1 Roll
+“Childish ones, O verily”, all of you are not
+being aware of the surface of the world. What is
+inside, above and below, you do not know.
+How will you create the progenies?
+fe wai g ten: agent aa a
+afarte apet sro fe ¢ Bez
+aed asta agats (ais) fa aa arg gaa
+What is the extent of the Earth? What are the
+things deserve to be created? And without
+having known, the one fit to be created, what
+
+will you create as such, lesser or greater?
+Therein a shortcoming is discernible.
+
+8 caer yea wae: wat fer
+ard ¢ WAM Tard J WTA evel
+And those having heard the speech of
+Narada, went away to various directions, and
+having approached the aerial zone, they came
+down to a disparagement.
+
+arenfa 3 frac soit argfifira: |
+Ue aqua wey eet F TEMA Quo
+
+Wandering here and there and mixed up
+with the winds, they have not returned till date.
+Thus those great sages are roaming after
+reaching the aerial zone.
+
+Ay WY AVY ee: wate: Wa:
+fever Yara ARTETA! 4 8
+On his own sons having got perished, Daksa
+Pracetasa, once again begot a thousand sons of
+Virini.
+wat faceifaea: yacrat: Gg a
+ways seer ofa AEA BI RG RH
+These sons known as Sabalasvas' became
+desirous of increasing the progenies once again.
+And again they were made to listen to the words
+spoken by Narada as spoken earlier.
+
+wager wert wa ST Wet:
+
+amie wa gerne weTgfe: 1
+meu weet eter ate ATT TPT HG BA
+Having heard those
+Kumaras (Princes) of great radiance spoke to
+each other- “The great sage had spoken
+
+correctly, And the track of our brothers deserves
+to be followed here. There is no doubt in it.
+
+WT WAT PT YS SATS HST:
+
+asf aa arto ware: wade
+
+genta a Prada AaB SATS STAT 4 vi
+
+Having understood the extent of the Earth,
+
+we shall be able to create subjects quite easily.”
+And they too proceeded in all the quarters in the
+same maaner and even till date, have not
+returned like the streams not returning after
+falling into the oceans.
+
+aa: wale & wraT UIgeaaTt Ta:
+wera agate wer aa wars FeraTAATH RG GH
+Ever since then, a brother engaged in quest
+of a lost elder brother, gets himself lost. That,
+therefore, need not to be done deliberately.
+
+words, all those
+
+1. Having horses of diverse colours.
+
+## Page 14
+
+14
+
+Vayu-Purana
+
+Og wacway aa: Gatswatey:|
+aed aTregifet tare Tae aN RGGI
+When the Sabalasvas were perished, lord
+Daksa, the supreme being became infuriated
+and cursed Narada- “Be ruined and endure the
+pain of residing in the abode of foetus (womb)”.
+
+wen tate aby weTeTY ye feet
+ufgassyaeat aftwarta feat: gyn
+Then even on those noble-souled sons
+getting perished, Daksa begot of Vairini sixty
+daughters of great repose.
+areal wire Uae aT: wy)
+at: dong wratetart wedas neyo
+Those daughters were accepted as wives by
+Lord Kagyapa, Dharma, Soma (the Moon god),
+and likewise other great sages.’
+at fagis ana greet at ae waa:
+SPST ATA: WATT TATA 4 8
+He who knows this specific progeny of
+Daksa in entirety and in reality, becomes long-
+lived, reputed, blessed and endowed with
+progeny.
+upafpattseara:ttg 4 tt
+
+wR
+
+## Page 15
+
+14 Vayu-Purana
+in detail of the Devas, Danavas and Daityas in
+the Vaivasvata Manvantara.
+
+Wi Sart
+athe crageata Frect ¢ Frater
+sree agate eran aaa it 3
+daem a ygat a ae feat wa aI
+entacatt ayer aa eet: weer eM 3
+Sita replied— I shall now talk of the creation
+of Dharma. Listen and understand. You may
+know that Arundhati, Vasu, Yami, Larhba,
+Bhanu, Marutvati, Sarhkalpa, Muhirta, Sadhya
+and Visva, these ten daughters were offered to
+Dharma as wives by Daksa Pracetasa.
+aren yar’ og weargem at
+TET AT TATRA TATA
+Sereda: UTA XI
+Sadhya bore to Dharma twelve sons called
+Sadhyas. The greatly fortunate ones were born
+according to their wish and were partakers of
+shares in the sacrifices. Those who are
+conversant with Devas, know them to be greater
+than other Gods.
+wet & yaRgEr sat ear: were
+wa apes Tye Watts 4 Ul
+From the mouth of Brahma, got birth Jayas
+out of the desire for progeny. All of them
+Tee weufeaatseara: it having born in the form of mantras came to be
+‘ . known as such in the Manvantaras.
+Chapter 66 .
+; nap ; avis thoes geerer WaT
+The amaie-onsinnd lineage of faieha fafirfer arent: aiita ang
+fagrat da feat wat ager A eyAT:
+ed Si: artes aat f saat wan aot
+
+Rani eran a gamit da wag:
+sata faentite gfe aaeaasatu eu
+The sages spoke— You may talk of the birth
+1. One who is possessed of Bhaga or spiritual power
+
+which is of six sorts, namely, dominion, might,
+glory, splendour, wisdom and dispassion.
+
+Darga, Paurnamasa, Brhad, Rathantara, Citti,
+Vicitti, Akiti, Kati, Vijiata, Vijiiata, Manas and
+Yajiia~ these names of those Jayas are well-
+known.
+
+were F Sa: Ga: Taree Fate: 1
+warifat 3 gir: weary Tuc
+
+## Page 16
+
+Chapter-66
+
+5
+
+By the curse of Brahma, they were born
+again in the Svayarhbhuva Manvantara as Jatas.
+They were born again in the Svarocisa
+Manvantara as Tusités and Satyas in the
+Auttama Manvantara.
+
+area eat ara agar tara
+eT MAT ATT GT HAT TT SH
+
+In the Tamasa Manvantara, they were born
+as Haris and Vaikunthas in the Raivata
+Manvantara. They were reborn as Sadhyas as
+per their will in the Caksusa Manvantara.
+
+eigen wera: area FT BETA: |
+Ud EA ATER FAT: Gol
+The highly fortunate sons of Dharma, the
+
+twelve deathless Sadhyas, had been formerly
+born in the Caksusa Manvantara.
+
+Tanifeatsatsettar Far I a wea:
+qfaar are Asay erase eH
+
+In the Caksusa Manvantara, the gods of
+great radiance who happened to be in the
+Svarocisa Manvantara, they mutually called
+themselves as Tusitas and spoke to one another.
+
+fafahes ter afertar 3 gfmsgey
+gaat weMad Treaster a1
+Tat ofaereeda: seat safereafarn 22 tl
+
+When the duration of Svarocisa Manvantara
+remained but little, the Tusitas spoke out
+mutually- “We shall enter into the blessed
+Sadhyas shall born in the Manvantara. Then our
+beneficence shall come about as such.”
+
+Way 7 8 ad arent FAT:
+TeMagIa yA THAT ATTA: 1 83
+This way having spoken, all those in the
+
+Manvantara of Caksusa Manu, took birth as the
+twelve sons of Dharma, son of Svayarhbhii.
+
+AARON aa sae WAS fe
+fauttedt aenssdivar wet afta at
+Tanifaasat ware at qi Ten ge
+
+Nara and Narayana then took birth once
+again there. Vipascit who was Indra and
+likewise Satya who was Hari happened to be
+those two Tusités gods in the Svarocisa
+Manvaniara earlier.
+
+gfe y Meares area ae
+THIS TRM, woes AT aR aA 4 1
+fafreat vada gat ARTO
+waaisa fagga areat greg ART eg II
+
+When Tusitaés became Sadhyas, these names
+are announced~ Manas, Anumanta, Prana, Nara,
+the valiant Yana, Citti, Haya, Naya, Harhsa,
+Narayana, Prabhava and Vibhu. They were born
+as the twelve Sadhyas.
+
+waniyasat ud aa: tarifas ya
+ARTES qaarat Frater gon
+In the Svayarhbhuva Manvantara earlier, and
+later in the Svarocisa Manvantara, these names
+
+happened to be those of the Tusitas. Those you
+may know.
+
+WUONSUMRMEM: FHA SIA Us Ti
+ay: att wer ror: eayif afegtrerETH ec 11
+
+The names were- Prana, Apana, Udana,
+Samana, Vyana, Caksus, Srotra, Prana, Sparsa,
+Buddhi and Manas.
+
+WOTUATgeMea AA SAT Us A
+arena ys x gfearat cyenft gu ett
+Formerly only these name of the Tusitas
+were remembered— Prana, Apana, Udana,
+Samana and Vyana.
+aah aa: Wat: GRA AAT: BAT:
+att gas dy amaaretts Fett
+weeer wares TaaISwt waatfefa: 1 2 0 I
+Of Vasu, the sons were Vasus and they are
+remembered as the younger brothers of
+Sadhyas. The eight glorified Vasus are— Dhara,
+
+Dhruva, Soma, Apa, Anala, Anila, Pratyisa and
+Prabhasa.
+
+## Page 17
+
+16
+
+Vayu-Purdna
+
+are Wat giao greerae ETAT
+gery ve are aarett SHreeTeRTEAT: 1 8 RII
+Of Dhara, the sons were Dravina and
+Hutahavyavaha; likewise of Dhruva, the son
+was Bhava by name, who in the name of Kala
+became the impeller of the worlds.
+
+area marcel gear weather: 1
+Digvat at agerat fay cay fain eeu
+Soma’s sons were adorable Varcd and
+Budha who is known as a planet. Of Rohini,
+
+these two were born well-known in the triad of
+worlds.
+
+mifiatrenda waersre: Ga:
+amr WAY AaOST: WA: WRT AT 23 IN
+Dhara, Urmi and Kalila— these were the
+
+three sons of Candramas (Moon-god). Apa’s
+sons were Vaitandya, Sama and Santa.
+
+a: TAU FA We Te:
+afaya: Facey PRT SITET
+wer vray fares Saas yes eI
+Skanda and Sanatkumara were born of the
+fourth part of Tejas (fire). Of Agni, the son
+Kumara was born in the Sara grove (a kind of
+reed), Sakha, Visakha and Naigameya were his
+younger brothers.
+afrerer fren srat wea: Yat wa:
+afamanfista dt yararerer a 241
+Of Anila (Wind-god), the spouse was Siva.
+Her sons happened to be Manojava and
+Avijiiatagati.
+wees fag: ya aftr g tact:
+Bt yah Garant erererat witferot 2
+Of Pratyiisa, the son was Rsi Devala by
+name. Devala had two sons Ksamavan and
+Manisi.
+
+geen wit ave garantie
+amfeg areca frag Ron
+
+Brhaspati’s sister was a celibate and an
+
+excellent female accomplished in Yoga.
+Detached to the wordly affairs, she roamed in
+the entire world.
+
+ware g at erat TEATS ZI
+
+faaenal gaara ara: farfeamsrafa: R20
+She became the spouse of Prabhisa, the
+
+eighth of the Vasus and had a son named
+
+Visvakarma was the Prajapati of all Silpis
+(architects).
+
+a at wafrert fragt a aife:1
+quot a weet wat area TAN
+He was the architect of all the arts and crafts
+
+and carpenter of the gods. He makes and causes
+others to make ornaments:
+
+aaat a faa tact wos a:
+aguaiaitata wer ferent ferert:1 3 ol
+Of all the gods, he creates the Vimanas (the
+
+aerial cars). The human beings subsist upon his
+architectural structures and mechanical arts.
+
+faa(aytarg fear afet a feega:1
+
+HYST: HA: WT: BATT: STAT GP TETATU 3 RU
+
+Rearmaiga tenes & eet
+
+erigat: tyat ae ferret TART YATIN| VW
+
+The ten well known Visvedevas were born
+
+of Visva. Kratu, Daksa, Sravas, Satya, Kala,
+Kama, Dhuni, Kuruvan, Prabhavan and
+Rocamana were the ten as such. They are all
+known as the ten son of Dharma. They were the
+auspicious sons born of Visva.
+
+Tea I Wed aay AST: BAT:
+Ugaias qgatat att crear ree 3 311
+
+From Marutvati was born Marutvants. The
+Bhanu groups were remembered as the sons of
+Bhanu and the Muhiirtas were born of Muhirta.
+Lamba gave birth to Ghosa.
+
+decal J dat fagrdiaes wa a
+aT Seat eT Were AAAT: 3
+From Sarnkalpa was born the learned
+
+## Page 18
+
+Chapter-66
+
+Sarhkalpa. The Nagavithis consisting of three
+paths were born of Jami.
+yadifardt warerat Sra)
+We at: aaTeraT fags wT 34H
+Arundhati gave birth to all objects on the
+Earth. Thus the intellected and eternal creation
+of Dharma has been narrated.
+
+Ugalctar fren ufatir: ae yaa!
+aaa: teas gadt & rated $e 11
+I shall now talk to you about the names. of
+Muhartas and Tithis along with their presiding
+lords. O men of holy rites! Try to understand
+me while J talk of them.
+
+weroafenrmay aerafor SaraT: |
+Uget: aeaarr sercafacern 3001
+I shall mention the divisions of days and
+nights, the constellations quite briefly, all the
+
+Muhirtas and all the planets appearing during
+days and nights.
+aera F veiatiren aM
+Teifafagtn aay eg fireaa: 361
+Kalas accounting to six hundred are
+mentioned during days and nights. The
+
+manifestation of Rtus is based on the special
+movement of the Sun.
+
+ait aefaedat fatateata udg
+sfagrag arery asa: @ Frgerra: 380
+The scholars of Vedas calculate Tithis as the
+basis of festivals. They employ different
+occasions for the purpose of charitable gifts on
+behalf of the manes.
+da: aden dy: ftuesarea wa a
+aretisa ducaey areal TET R ERT: 1 ¥ ot
+Raudra, Sarva, Maitra, Pindya,
+Apya, Vaisvadeva, Brahma and Madhyahna~
+these are the divisions by name in a day.
+
+mee tae Patera
+areuey aarseeait armeanty fefara: ty ait
+
+Vasava,
+
+7
+
+UW forages Rerenfafafiian
+vignaranfagtinr aferon: waa gn
+Prajapatya, Aindra, Indra, Nirrti, Varuna,
+
+Aryamna and Bhaga~ these Muhirtas of the day
+are caused by the Sun by the shadow proper of
+a Sanku (a sine of an altitude). They are to be
+known in accordance with their magnitude by
+means of the gnomons.
+
+omreaistedeas yar fe queen:
+
+armaantt faze: woreda B39 n
+
+qrerdrercans staat agereiisa Sara:
+
+aifaaise wa BT aoa Wass
+
+Aja! (the sign Aries), Ahir-Budhnya, Pisa,
+
+Yamadevata, Agneya, Prajapatya, Brahma,
+Saumya, Aditya, Barhaspatya, Vaisnava,
+Savitra, Tvasta and Vayavya are the collection
+of Muhirtas.
+
+wautaggal: w: ware ae Us a
+
+perigee Fan afore: wearer
+
+STRSTR Feat Aaa: ATH
+
+These are the fifteen Muhirtas in order of
+
+one night. The developments of the movement
+and rising of the moon is to be known as Nalika
+or the Pada of its rise. These are the divisions of
+time remembered as Muhirtas. Their presiding
+Devatas are also mentioned.
+
+adaennt Aaa writ fateh a
+atau anf freee ¥ § 11
+
+Of all the grahas or planets, there are three
+positions ordained as such— southern, northem
+and the middle ones. One may know them as
+per descending order.
+
+aM arena wey wT
+dart efor Fieefig aarti wot
+
+The place Jaradgava is the middle, the place
+Airavata is the northern one and Vaisvanara has
+
+1. These are all astronomical terms required to be
+identified by comparison with the terminology of
+Brhat Sarnhita and other works.
+
+## Page 19
+
+18
+
+Vayu-Purana
+
+been indicated as the southern one as per factual
+presentation.
+
+ait aire aren anretfatet sat
+
+yesyerryaay atfatrat wat
+frag drt Sar sat art Sema yen
+
+The constellations~ Asvini, Kyttika and
+Yamya are known as Nagavithi (Moon’s path
+through the asterism Svati or Asvini, Bharini
+and Krttika)!. The constellations Pusya, Aslesa
+and Punarvasu become known as Airavati Vithi.
+These three Vithis are enunciated as the
+northern path.
+
+Yat Grey w oer darhit aa
+Beas Ta Tani AeteitafireeraT yeu
+
+The constellations Parvaphalguni,
+Uttaraphalguni and Magha are well known as
+Aryami vithi. The constellations Hasta, Citra
+and Svati are declared as Govithi.
+
+Wer farmasseen aif aera aya
+wang araftrat wert ant saa 4 ol
+The constellations Jyesthd, Visaékha and
+Anuradha are known as Jaradgavi Vithi. These
+three Vithis verily, constitute the middle path.
+
+yet assure & att snrdieatingferm
+set a afaer a nif wraferreen & en
+Mala, Pirvasadha, Uttarasadha- these three
+constellations are decalred as Ajavithi. And the
+constellations  Sravana, Dhanistha and
+Satabhisak are the Gargi Vithi.
+
+dart wane tadt da atta
+ayer Sherey feerer writ & eferatt gay 2
+
+The constellations Pirva Bhadrapada, Uttara
+Bhadrapadi and Revati are known as
+
+1. If the moon be glossy, thick, of even horns,
+extensive high in the sky, moving north in the Naga
+avenue, (viz. Bharant, Krttika and Svati) aspected
+by benefices and accompanied by malefic, he would
+confer great joy and happiness on humanity (Brhat
+Samhita, English Translation pp. 399-400, M.R.K.
+Bhatta edition).
+
+Vaisvanari (Vithi). These three Vithis are
+remembered by the wise ones to be in the
+southern path.
+
+wafagry a: aan aa: Sara a ech
+wal araresren Bitar se atta:
+ARTA TT STAT AAA TAT & 3H
+
+Twenty seven maidens (constellations) that
+Daksa bestowed on Soma (Moon-god) are
+glorified as Naksatras or planets well known in
+the science of astronomy. Their progenies are
+refulgent ones having indefinite splendour.
+
+arg arte eM: we PAT: |
+SGM TENT: Tate AHATAT NG SM
+Of those the surviving ones, Kasyapa
+
+married fourteen blessed daughters, all being
+the mothers of the Universe.
+
+agifaa aia: carerat Fate y 41
+They were— Aditi, Diti, Danu, Kala, Arista,
+Surasé, Surabhi, Vinata, Tamra, Krodhavasa,
+Ira, Kadru and Muni. O Dharmajfia, you may
+listen and understand their progenies.
+
+afnrasatsatat & ge Were:
+Aquat Ary A ATT aYGETATAS ATTN 4 GI
+
+The twelve Vaikuntha gods who were
+prominent in the Carisnava Manvantara that has
+passed, became Sadhyas, in the Caksusa
+Manvantara.
+
+wifmisat wider z
+arafaat alge F WACISSE: TATA Got
+
+On the arrival of the present Vaivasvata
+Manvantara, they were propitiated as such by
+Aditi. They having gathered together spoke out
+mutually.
+
+uaa wemmrafeta dara a
+aeraasat Ulerarmeehs ATTY CH
+TreaTa: Yaaraneta: Stat safereafer
+
+aga TEAM Afewaen 4 8
+
+## Page 20
+
+Chapter-66
+
+19
+
+“Having entered into this blessed Aditi
+alone, in the Vaivasvata Manvantara by means
+of our Yogic splendour, we shall become her
+sons. Then only we shall have our beneficence
+done. Those born from Aditi shall be
+remembered as Adityas”.
+
+Wage 7 8 ad awe wa:
+ERT BraMTss fara AT ATEAPTITTA: I § oI
+Having said so, all of them were born as the
+
+twelve Adityas from Kasyapa, the son of
+Marici, in the Caksusa Manvantara.
+
+wing fay wae Gata fel
+Aaraasat BierATTTATT TT g gt
+Satakratu (Indra) and Visnu took birth once
+
+again in the present Vaivasvata Manvantara as
+Nara and Narayana.
+
+Aaraf fe Fart Fertafreet
+aon wher vias fengearerranget
+
+wares ferrites erer a ETT ING UH
+Birth and death are mentioned to happen
+even to those Devas. Just as:the Sun rises and
+sets in this world, similarly there is
+manifestation and dissolution to the noble
+souls~ Prajapati, Visnu and Bhava or Siva.
+Deyatas wera: weeren
+ares FO I TET HART ATG BH
+These gods were born because they are
+attached to the great Vedic tradition as well as
+worldly objects like sound and the eightfold
+super-human powers like Animd (minuteness).
+sey feud TH: HARM: SUT TTT
+Tey HT Sat: Tay aT & ws
+The attachment to sensual objects became
+known as the cause of regeneration. Because of
+the curse of Brahma, the Jayas were born in the
+Svayarhbhuva Manvantara as Jitas.
+
+wanifad 4 gitar: aetart yA:
+aa eat Sar sreenfeors J 4
+Agora Bear safe: BINT FAR GI
+
+In the Svarocisa Manvantara, they were bom
+as Tusitas and Satyas again in the Uttama
+Manvantara. In Tamasa Manvantara, Devas
+were born as Haris, Vaikunthas in the Carisnava
+Manvantara, Sadhyas in the Caksusa
+Manvantara and Adityas in the current
+Manvantara.
+
+arnsdat a faaar aeutisst sree
+SH faeargr @ wiht ey: wag gH
+TARA aat PPE S TT: |
+
+SAA TEMS: BPATT YA: TAT: Go
+Dhata, Aryama, Mitra, Varuna, Améa,
+Bhaga, Indra, Vivasvan, Pisan, Parjanya, the
+tenth one, Tvasta and Visnu, the last but not the
+least, are remembered as the twelve Adityas, the
+sons of Kasyapa.
+
+gun ayaugararen fast
+RISATRA TTT HEAT AAT Ct
+Surabhi from Kasyapa gave birth to eleven
+Rudras. By the grace of Mahadeva and by her
+penance, she became recognised as Sati.
+ages cer at fait waeeaern
+oprmefedenpdced sat Fam 811
+Taraahig wife
+ATRT Ba ASAT QR AAAI 9 0 Ht
+The eleven Rudras were— Angaraka, Sarpa,
+Nirrti, Sadasaspati or Brhaspati, Ajaikapada,
+Ahirbudhnya, Urdhvaketu, Ivara,
+Bhuvanesvara, Mrtyu and Kapala who was
+famous. Surabhi by that great penance, gave
+birth to (all) these gods, the eleven Rudras, the
+overlords of the triads of worlds.
+
+wat geared gett % aera
+Digot aa eget APE a afer en
+Then Surabhi gave birth to two daughters—
+Rohini having the lustre of Rudra Gandhari, the
+reputed one.
+
+## Page 21
+
+20 Vayu-Purana
+Digval wR See ieafaa:1 afteatustarmmrarie eer
+FOU Saale FT AA BGA TAT aggre faguarret faa: eat:
+
+RAS BGA J FO TAIT VW
+Of Rohini were born four daughters, well-
+known in the Universe. They were~ Suripa,
+Harhsakila, Bhadra and Kamadugha.
+Kamadugha and Surip gave birth to two sons.
+eaaten Tarea ARTA SATA
+fagang werarn warat afer: Gat: 1119311
+Harhsakila gave birth to Nrpa (king) and
+
+sages and Bhadra gave birth to famous and
+blessed Gandharvas, the sons of Vajin (horse).
+
+FAA AAT: GATS WAT: |
+Set: Bon: Fagg aregT Vita:
+al Faroe TAA SAT N91
+
+The horses Uccaigravas were born then; they
+roamed about in the sky with the speed of mind.
+They were of different colours, white, red,
+tawny, deer-coloured, green, grey and also of
+the lustre of Rudra. These ones were of
+Gandharva wombs. They were the vehicles of
+the Devas.
+
+wat aa Geng amiss:
+
+gat cat sit ward: Hos AftrecMT: Nou
+erat ware afar: |
+BRAGA aA at WaT AiG |
+
+Again was born of Surabhi, the illustrious
+one Candrabhasuprabha. He was glorious and
+had the great lustre like that of the moon. He
+had a garland on and was lustrous with a big
+lump. He was born of the storehouse of nectar.
+With the permission of Surabhi, he was given to
+Mahesvara as his banner.
+
+Bea aayargar Eafe: watfeiaT:
+eager: WM: Gea fay a TATA V9
+
+This way, these sons of Kasyapa, Rudras
+
+and Adityas have been glorified. Sadhyas,
+
+Visvedevas and Vasus are remembered as the
+sons of Dharma.
+
+wea: Ser wea Tella: 9. 1
+
+Of the spouses of Aristanemi, progenies
+were sixteen and the sons of learned Bahuputra
+became known as Vidyuts. The excellent Rks
+honoured by Brahmarsis are bom of
+Pratyangirasa.
+
+pyre I katkkawecon: BAT: |
+
+W Peart wee ERE fee
+ad taro famrerattagy aT:
+waaraft tart Frtetrafreertn ¢ ott
+
+The sons of Krsasva, the celestial sage,
+became known as Devapraharanas. These ones
+at the culmination of thousands of Yugas take
+birth once again. O Brahmanas, all the thirty-
+three groups of Devas are Chandajas'. Of these
+gods, the restraint and birth is being dilated
+upon.
+
+war yer citehs ferqearerrargan
+Wi tafrarana daaha BA TAs
+Just as the sun rises and sets in this world, so
+also these groups of Devas get birth in every
+Yuga (age).
+Ua Sy:
+weary aaa fee eaferarera a
+anftreren wares afte fegar:ie 20
+The sages remarked~ How were Sadhyas,
+Vasus, Visvedevas, Rudras and Adityas famous
+by the nobility of their birth and well-known by
+their actions and powers?
+
+waiTadey fawoiter weet a Wena:
+oat qigfreort as qenfeferert ¢ 311
+ag aaremafa ay aferatatee: |
+wrarat wera aftarag ay auc wil
+Of Prajapati, Visnu and Siva (Bhava), the
+
+1. Born from Vedic chandas or mantras.
+
+## Page 22
+
+Chapter-66
+
+21
+
+great souled one, we want to know as to who
+excels whom among them? Who originates
+from whom? Who is established in whom? Who
+among them is superior, the middling and
+inferior one?
+
+veya aeat yor Ay a1
+
+atifienttenen wareur a at wer
+
+unagte a: ad oe fe Ser sere Ct
+
+Who is the most greatest among them? And
+
+among them, who is most important one by
+merits of actions, nobility of birth and by
+capacity? These you may tell us the way you
+understand in a serial order.
+
+We sara
+oa a aifeaisenat ay ae
+aemefempagront syopet Fy fered: 11
+
+Sita replied— In this context I shall talk (or
+describe) unto you the difference or distinctness
+that is remembered among them. Listen to what
+I am going to say as to difference among
+Brahma, Visnu and Rudra.
+
+Tae ah da Uifaat Ga a: BAT:
+We: SYS: WRT Set Srey Tat AT co
+The bodies of Svayambha Lord spoken of as
+
+such (exist) from time to time are proclaimed as
+Rajasa, Tamasa and Sattvika.
+Tra ag ta yreet festa:
+qurafegagrargieearyasaera: il é 2 1
+The variation among these bodies is not
+possible to illustrate, O Brahmanas! owing to
+their dependence upon the increase of merits
+and the two-fold bondage due to Anugraha
+(favouring) and Nigraha (controlling).
+yaft a Fight a qurgtefte faa:
+TOIT Wai aat ahaa ¢ 3
+O Brahmanas, according to my ability, I
+shall recount Pravrtti (activity), Nivrtti
+(desistance from activity) and the increase of
+
+the Gunas (merits) of the bodies. Listen and
+understand it.
+
+welt ¢ Use Fat areme at BAT
+taracet wredt aa ant arat Fate gon
+Brahmi is the Rajasi among them and the
+one named Kala is Tamasi among them and
+
+Sattviki and Paurusi among them you may
+know as such.
+
+Tal ¥ Hed wat weet waa: eT
+Tat daniaen ¢ asqyeta afearaitn
+UST OT AGA Srey ATTA TAA WATS
+First among them, the Rajasa body creates
+all the subjects; the Sattvika one staying in the
+ocean, blesses; and the Tamasa one swallows
+
+the subjects and overthrows them at the proper
+time.
+
+THT Fo Safa Tet Ayas Ten
+TROTeN Aer eT atfaat fafraang 2
+When god Brahma manifests himself with
+the resurgence of Rajas guna, the Sattvika body
+named Purusa vanishes.
+
+Fel Hater AAA TRARY FI
+FAST TH aat A Tat fafradang au
+When it develops the form of Kala owing to
+the development of Tamoguna, the Rajasi form
+designated as Brahma disappears.
+
+Seay Yea Aer waft A Wys1
+SAS A Aer A At wercifer Anew
+Owing to the excess of Sattva, the lord
+becomes Purusa, the body named Kala ceases to
+exist.
+mana fad we am a at a
+dered adores anigaeha!e 84
+
+In due order, the form, nomenclature and
+activity of the Lord in favouring and controlling
+those prevailing in the triad of worlds,
+disappear.
+
+Fal Tate TaN a Aal UTA
+Fal a Yea Ta A da TERR Auge
+
+When Brahma manifests himself the
+
+## Page 23
+
+22
+
+Vayu-Purana
+
+difference is declared as such. When the lord is
+Brahm, Purusa does not exist.
+
+Ua a Ye walt Tel A Fae Aen
+tar warmata fe Fat A JER Wg
+
+And when Purusa gets into being, Brahma
+does not get into being and when he exists as
+the consuming one then even he does not
+become a Purusa.
+
+Tal ART HAYA FEM T TAT TAN
+ag a wate gen a da Ye Auge
+When Bhadra may come into being again,
+Brahma does not get into being. And when
+Brahma does not exist, then the Purusa also
+fails to exist.
+ufirfdeme anifatearcafes gem
+aaemepraagnagt: PATE IS BA
+FAT PUAN ASAT
+Ward oped a ThatahayTAN go oll
+Just as a gem assumes various colours due to
+its purity, and as a result of the contact with
+other objects, the colours and sizes being in
+accordance with those.objects, so also the self-
+born assumes shapes and sizes due to the
+merits. In its singleness and separateness this is
+the example cited.
+
+Wat yet wen te: yaerearafewa
+
+Bua quia FAT YUTAMI Atl Ro kil
+sata fier da fren yfifearerr
+Wal gensaipedta Gauss I FAH 2 VI
+
+Just as the cloud having assumed a single
+form, gets established in distinctness as per
+colour, so also the self-born Lord though single
+one assumes different forms due to Gunas and
+assumes one, two or three forms. The single
+entity has the three forms of Brahma, the
+creator, annihilator and Purusa.
+
+Tarde: anferarereng weya:
+Brat a Chait da aareardt w F FAN go 3
+
+_ These three bodies are remembered as those
+of the single Svayarhbhuva. Brahmi, Paurust
+and Antakarl— these are the three bodies.
+
+aa Ot Uae Aer ay: BT a waren
+Ur are | TSS WotR | AT
+aber treat at gy aqaeadt Bat own
+
+Herein what is known as His Rajasi body is
+verily the creator of subjects. What is called the
+Tamasi form is verily the destroyer of progeny.
+And Sattvika form called Paurusa is deemed as
+the endower of grace.
+
+THEN FEMtisge wifa: Hypatiswad
+
+ard arte | AVANTE R041
+From the Rajasi incarnation of Brahma,
+
+Marici and Kasyapa were born. From the
+
+Tamasi form that causes dissolution was born
+Bhava.
+
+aiken Uhedt ar ar aeaigit fame
+eres or: Brererrag Tae ya | Fo Gt
+
+The Sattviki or Paurusi form is called Visnu.
+These three bodies of the self-born are thus
+remembered in the three worlds.
+
+ARM fe areitsaat aif ast
+Fae WaT: YET faweayTE a
+SoMSMS TATA VMSTTAT FAH Row!
+
+The supreme being Kala, assumes states for
+different functions such as creating progenies in
+the state of Brahma, supporting them in the
+status of Visnu and devouring in the guise of
+
+Rudra, the subjects who had been blessed by the
+Vaisnava form.
+
+Ue: eye: afar atta wi:
+BAA ATE Ha: HET FAT C1
+
+The Self-bor one, Kala, performs three
+activities through the three bodies. It creates,
+supports and annihilates the subjects.
+
+sam: arnftrrerang waya:|
+warmer a Uist a Aunt a A: BAT Yok
+
+## Page 24
+
+Chapter-66
+
+23
+
+This way have been declared the three forms
+of the self-born lord. They are— Prajapatya
+(belonging to Prajapati), Raudra (belonging to
+Rudra) and Vaisnava (belonging to Visnu).
+
+Wat AY: BMT ae here FTAA
+eterna: quarcencratettin: 1
+after merergta fafireraref STF: RR UL
+
+Only one body is declared in the Vedas,
+Dharmasastras and in the ancient schools of
+Sarnkhya and Yoga by the intelligent sages who
+could see both analytically and synthetically,
+the knowers of the influence of nobility, the
+observers of Reality.
+
+Tard u ward oo arg fin: wanfeael
+ge eft fet gard firwayiat:n geen
+In the matter of unity and diversity there
+happens to be the progenies of different
+opinions. The diverse opinioned ones say—
+“This is great and this not so.”
+vero aut dfaesfrang: werafery
+Sfakod wes wgfey wesc
+afer WAHT TAT TEMAERTAM BRAM
+Some declared Brahma as the cause of the
+Universe as Prajapati, some opined as Siva and
+some declared Visnu as the supreme one. Out of
+ignorance and with the mind vitiated by
+passion, attachment etc. they think like this.
+aed anet o ayt ot aratoeraer waa:
+wt I ya Bar AAs FaAT | Ves
+Considering the reality, time, space, cause
+and effects quite factually, these deities are
+declared as working for diverse purposes.
+
+wa Freft aaet walta wo frefi
+Wa sey wala werafan
+ah at aft ged amgderanfer geet
+
+He who censures one among them censures
+all. He who eulogises one, eulogises all of them.
+They declare him as Brahmavadin (propounder
+of Brahman) who understands one Purusa.
+
+wag wel arat teary faa
+aT werent agaacior craft eeu it
+
+The attitude of non-censure must always be
+adopted towards the deities by one who knows
+the Reality. It is not feasible to understand god
+(Ivara), established with supremacy or
+affluence.
+
+Waren & fren aeer aatgafs a: wT:
+
+WAST a Faro | feaereeTATE GAT eRe
+
+He fascinates ‘the subjects or progenies
+having become threefold even when he is
+
+having single soul as such, and people think
+over the difference among these three Beings.
+
+feared: Wierd: Geet wUferaTa:
+oe unftd Sf ata firaafeta:u gen
+Out of deluded mind with diverse points of
+view and curiously testing their forms, they
+
+say— “This is absolute or tangible and this is
+not”.
+
+agaritaraa: fipraiye aa
+
+Ware QU Trea BRC HI
+
+TUeriranirg aghatga:)
+
+Here THT AY TAT AAT TATU VATU
+
+These deities permeate even Y4Atudhdnas,
+
+Pisacas and human beings. The self-born stays
+unified and separate deluding the subjects by
+means of the bodies solely consisting of the
+
+Gunas. He who worships one among them,
+worships all the three.
+
+werearaa at tert aaa:
+TATA ST HEIL
+Ward a aged at Bg at aTGMEfAu RIO
+These three deities remain non-different.
+Therefore where is separateness or unity?
+Where is their number? Whence do they come
+
+and go? Who is capable of construing unity and
+diversity among them?
+
+TUS TT TAA seat A aT:
+TUTTE TESS: A THAN? AM
+
+## Page 25
+
+24
+
+Vayu-Purana
+
+Since in view of their being united with the
+Gunas they create, sustain and annihilate the
+subjects in the three units of time, the Supreme
+being is said to be one.
+
+TM o cae
+aa ates ag wreath FRAT: ee
+
+Brahmanas call that one lord, Rudra,
+Brahma, Indra, Lokapalas, the Rsis (sages),
+Danus (the Demons), and Narayana, in diverse
+ways.
+
+wegen ayat a agai da sore
+Wear FT aed wore YA: YA RSI
+
+The body that is Prajapatya and that is
+Vaisnava, recur again and again in all the
+Manvantaras and Kalpas.
+
+dag aft asset fartferquen
+
+ASAT ANA Fea YT T eA A
+
+area areata arrite Prete ees
+
+The Ksetrajiia even having ploughed', may
+
+divide or distribute this way out of grace and by
+radiance, fame, intellect, education and force,
+do take birth equal in norm to Him. You may
+know those also.
+
+TRE gauisye wiifa: HyaTiswaa
+
+AUT TGA STATE BH FETAL
+
+afar Yeats ae faeeTAT 224
+
+By Rajasi incarnation of Brahma, Marici and
+
+Kasyapa were bom. And by Tamasi, an
+incarnation Kalatma Rudra is declared as such.
+By Sattvika incarnation of Purusa, Visnu was
+then born in the sacrifice.
+
+fag arey wea Tae yT:|
+HICH Yea TAPE GR: WET HTN RAEI
+
+The bodies born of parts of Brahma occur in
+all the three units of time. And having became
+Kala again, that Rudra revokes the progenies.
+
+1 Obscure or wrong usage.
+
+Tore Ya aeurt warieaiearat:|
+en dadanieet ctenettar wat FEN VOI
+And at the end of the acon, seven-rayed
+Divakara (Sun) assumes the form of
+Samvartakaditya (the Sun of dissolution)
+burning along the three worlds.
+
+fan: mIsy Tera arecarda: |
+TE TTT AAG SUN 2
+Visnu endows the subjects or progenies with
+the grace by the contrarieties of name and form.
+In the different situations he is the cause of the
+origin of different things.
+
+aeatigenr J aT Mea TaN: Wrest ays
+
+weg fag W xe Tayasatn
+
+argat ura Sat seta: were fens eee
+
+Illustrated with the Paurusa form of Brahma
+
+which had a predominance of Sattva guna, the
+god took birth here in the first Svayarnbhuva
+Manvantara as the mental son of Akati.
+
+aa: A: Wa Ba: re Tareas
+
+gfaarat agerat wiraeaiaa: Ten 23 ot
+
+Then on the approach of the Svarocisa
+Manvantara, again that god was born of Tusita
+along with the Tusitas of Devas and passed
+away along with them.?
+
+att ait da gfiang fag: 3 4
+aprafdfrecrat ayretf eft: ga: 93 en
+
+And in the Auttama Manvantara also, he
+was known as Tusita. By Vasavartis was bom
+VaSavartin Hari again.
+
+FARIA: We: HE TATA:
+Tae anit wet Gata fen
+wratat aftr: and eftta ayer fen 23 20
+
+He was born of Satya, as Satya, along with
+
+the excellent gods Satyas. At the arrival of the
+
+2. V.S. Apte, p. 237. @ffai:! A class of subordinate
+deities said to be 12 or 36 in number.
+
+## Page 26
+
+Chapter-66
+
+25
+
+Tamasa Manvantara, Hari himself was born of
+Bharya along with the Haris.
+
+witondsat aft eftda: yA a:
+
+faquarerast 5 NTA: Fell
+HVS: T YAMA: MATT MASA 23 3
+auf argam: Gea: wel: We We
+WY ARTA: BRA: yrea SaraAS AT V3 v IL
+In the Manvantara of Carisnava!, Lord Hari
+was again born of Vaikuntha along with the
+Abhitarajasas. And on the arrival of the
+Caksusa Manvantara, lord Vaikuntha was born
+as Narayana, Dharma and Sadhya along with
+the Sadhya group of gods. He, however,
+became Narayana Sadhya in the Vaivasvata
+Manvantara.
+uitteravantgafeat days B
+fat: eiftniccienrfarer fermpeem 23 4 11
+wermrentesra eevee Wy:
+PATRAS ST: TT AAT
+wepttentiag ant: aeferar: HAT R83 GN
+From Aditi and Kasyapa, the son of Marici,
+Visnu took birth, having won over all the
+worlds by means of three big steps and handed
+them over to Indra and the gods. This way,
+these seven bodies of the lord have appeared in
+the seven past Manvantaras whereby the
+progenies got protected.
+wenfgefad ad ante aaa
+Tener & Taya faoyfagratat: wey e311
+Because at the time of his birth, all the
+worlds were permeated by Vamana (the dwarf
+
+1, afeeq - son of Dhenuka from Kirttiman as per Vayu
+Purana 28.17.
+aa aiferaanfe Sqar areca
+ae ytd arequrantexat a1
+Also Vayu Purana 100.22.
+aay ust fy ara: gala ta a1 raves A:
+a: sfaeara Aatagqi Also Vayu Purana 67.40.
+Pauranika kosa p.169.
+
+form of lord Visnu), on that account he became
+known as Visnu, derived from the root Wis
+meaning ‘to enter, to permeate.’
+
+sedqgeS aT WaT: |
+Vand a yaad a fated a antftrq eacu
+This way, the unity, diversity and the
+
+importance of Brahma and the great-souled
+Vamana, stands enunciated here.
+
+Raarnfagige sted ang Saat:
+Wet ART Fea FA FT aA TU
+were wera at a TUTTTNTTN 23. Fu
+
+The Devatas get generated of the part of
+other deities. They are then born equal to them
+in radiance, intelligence, learning and strength
+by their grace.
+
+Tafayfred singitiata an
+aacararreanes fawuirestisererarn gy ol
+
+And whatever spirited being exists endowed
+with prosperity, glory and strength, that same is
+born of a part of the radiance of Visnu.
+
+aud wadst dfateasta wat!
+atsat gaits aaa ge a
+
+Some men say that the lord alone is born
+partially. Others talk of this that the deities gets
+birth by mutual incarnation.
+
+Ua faaearaRa EBT ara gata gi
+wena fase det wastes FI
+TRTSTIERAT AAMT TATA VS RU
+
+And this way disputing those ones with one
+another, they say after seeing them. For, there is
+no difference between Manas and Cetas, hence
+they are blessed. They become Ksetrajfias.
+
+Wa wy & ager varia:
+
+A TATE SRM Ma: YAR A Vv 3M
+FEIT Tea STAT Zl
+Warity Wag aT: TET:
+
+antdt wagerarttraxite were ev vil
+
+## Page 27
+
+26
+
+Vayu-Puraina
+
+By the power of might and good intention
+(Prabhu Sakti)! and the diversity of brilliance of
+Lord, the subjects are born consisting of mobile
+and the immobile beings in all the Manvantaras.
+And at the inception of the Sarga, they stay here
+out of eulogium.
+
+wre wre F Hera BR: eek WaT:
+SRT Wea SATA Bw I
+At the end of every aeon, Rudra annihilates
+
+the progenies. Isvaras do take birth infatuating
+others by their Yogamaya.
+
+Renter were eat wen:
+Tee Grge T frat ewe
+
+They are moving along owing to their
+supremacy and the non-supreme ones are
+deluded. Therefore there is nothing proper or
+improper in things where faults spread.
+
+qarenfedt gat neren yarn:
+qareafed: preareaat Faq: MEAP exo!
+The wicked ones spread scandal about the
+living beings; those who are favourable to
+living beings are middling; those who disregard
+
+living beings are competent. There are three
+Vedas for the eloquent ones.
+
+utter at a dena era + fantar
+qoqeyarared wareredta vitfenenre
+ugh: areittfirterred 4 ferefan even
+Because it is listened firmly, because it is
+listened before, because it is rumour and
+
+because it is the worldly one, for these four
+reasons, one fails to attain the actual reality.
+
+yanaat ret: arene aft
+aaraararens Fura whem 7) eset
+Earlier they assorted and were used in
+
+different sense, and even after the lapse of time,
+it becomes not tenable owing to antipathy.
+
+1. See KAS. 1.V1.2.33, p. 166. KAS.I, p. 370. R.P.
+Kangle ed., University of Bombay.
+2, AVIA the magical power of Yoga.
+
+aert Fore A TUTRRY AY a1
+ation wget cat orfttenean a at wer
+Set: art argh: UF TaTeAAU eG 0 tt
+
+He who is a solid among solids, he who is
+the merited-one, he who is a doer of great deeds
+and he who is great due to pedigree, becomes
+reputed for these four causes by those who
+know the tradition.
+
+SMRSET GTA Raat: SPTTETET:
+sat carers veireat atat wen 84 gH
+The incompetent and the irate one realises
+the gods only partially. They recite these two
+verses in this connection towards the Lord of
+Yoga.
+are: SRM weet aT AEE:
+qateirract wre day ae: Tease gy BH
+wrentguaisse addr
+deter WH: Talagiast youFran 3 31
+The Yogesvara makes duplicates of himself
+and others in thousands by the power of his
+Yoga. He moves about among them. He attains
+to the objects taking to austere penance. He
+revokes them all again, like the sun
+withdrawing his brilliance and attributes
+(gunas).
+
+fa strange agi yore ayettamarenit
+are weafparntsema: 1 & Gi
+
+aaRK
+
+## Page 28
+
+26
+
+Vayu-Purana
+
+WaT Ta EAATSEATa:
+Chapter 67
+The description of the progenies of
+Kasyapa
+Waa Sq:
+rage aes Afirtrarerafeaa:
+WRT: AS TA VIHA VN
+
+The sages spoke— Having listened to his
+words, the sages and the ascetics of the Naimisa
+
+## Page 29
+
+Chapter-67
+
+(forest) questioned the excellent one as per
+sequence.
+
+wakes eet tar oat waits
+
+SafempErnes entero’ wetsTa:
+uaargfe a: wa farearerarrettorn 21
+
+How did the gods headed by Indra and
+Visnu and Adityas of mighty radiance took
+birth in the seven Manvantaras? O
+Romaharsana! You may dilate upon this in
+details.
+
+Tamnetal Gat feat geararfefias
+sara seat Het sar yet welsh 3
+
+This way questioned by the Bramavadins,
+then the modest Sita, the best among the
+orators, replied the way he had been questioned
+by the great sages.
+
+Wa sara
+vet S yERgEr wen Fat: wea
+Ba WAR ByAT WaT aw wt
+
+Sita spoke— From the mouth of Brahma, the
+gods were generated with a desire for progeny
+in the Manvantaras. All those were considered
+as the bodies of the Mantras.
+
+asi Uhinreg geded WAT
+
+Age: METeT TeATHLATS TG
+
+fafa gfafaer ore: afta a
+
+atte wat fa: anitfedta waa
+
+fagnfadte fagret wat & a grew g 1
+
+2a Wergaws ase wa
+
+a Ql aadtqgan sar Fara wit
+
+anifagadamfasarmatet a
+
+Wagan gf gen aardeitaai cu
+
+The twelve Manus, the twelve sons of
+
+Brahma were— Darga, Paurnamasa, Brhad,
+Rathantara, Akita the first, Akiti, Vitti, Suvitti,
+Akati, Kati, Adhista, Adhiti, Vijiati and
+Vijfiata. These are the cumulative names of
+years. Seeing them Brahma said, ‘O Jayas,
+
+27
+
+procreate the Devas and perform the Agnihotra
+Yaga after marriage.’ This way having spoken,
+Brahm there became out of sight.
+
+Tae ATT Tere WBA:
+dae 7 aalfn cere quent
+wMearatiet at eB y aig
+aafaagt FF SET AAT weTTN gol
+Then they did not welcome that word of
+Paramesthin (Brahma). They found out faults
+even in those who abide by mental, verbal and
+physical activities of a truthful nature. They saw
+
+the fruits of actions endowed with extreme
+annihilation.
+qyert: wafa a fers fraswaq
+oad creed facet cree fea: een
+They hated progeny and procreation. They
+were alert but free from egoism. They aspired
+
+for permanence. They were detached from
+worldly objects.
+
+ad at a ard a fget 3 3 afer
+
+ret aera Sat: fare iss fra get
+
+Having taken leave off of material gain,
+
+spiritual good and lust, they verily, became
+established and having resorted to manliness
+and intelligence, and having truncated radiance,
+they stood along.
+
+at a waft Frat Te YaNT zl
+Taare Ta PrecareryTAail 23 Ul
+
+And having understood the motive of those,
+Brahma became irate. Brahma addressed those
+gods who had courage lost as such.
+
+werdfite gat & weraprsfer arta
+weed ane Deparaes aT evi
+“For the sake of progeny, you are here and I
+have created you for the same and not
+
+otherwise. I have already told you to procreate
+and be victorious.
+
+TeTSTRTTG WH ATTA IAT: |
+Quorn: a ser dale ara ek tt
+
+## Page 30
+
+28
+
+Vayu-Purana
+
+Whereby having disregarded the words of
+mine, you have resorted to renunciation. You
+hate your own birth.
+
+(atu a Fat Tat Bye freregra
+THT WAAR AAA) 11 EU
+
+Hence you do not appreciate the necessity of
+progeny. Out of desire for immortality, you
+have abandoned all rites. On that account, you
+all having disregarded me, will be born seven
+times.”
+
+& We Te Sat Tae S waTaAA
+ares werea aewarcHd fevin gon
+
+On being cursed by Brahma thus, those
+Devas, the Jayas, began to propitiate him. “O
+Mahadeva! O Great Lord! Forgive us for what
+has been done by us out of ignorance”.
+
+wires ays Ten ATA yA:
+wie WeasaqRe: wi: Tanraftreréfarn ee
+Having prostrated with ingratiation, Brahma
+spoke to them again— “In the world, unallowed
+by me, who becomes capable of assuming
+independence?
+Ten Uford ad eee WA
+wrote sent yet or ate atsyTAT eet
+By me has been pervaded all. How possibly
+
+voluntarily, without me, shall living beings
+attain anything good or evil?
+
+wile aafta feted Wearted crafty
+SST TAT caret at ui wires ferret 2.0
+In this world, whatever is existent and non-
+existent, has been pervaded by me with intellect
+and soul. Who in the world may cheat me?
+Want afat ser aearetat feenftar
+wen ferenfict area acre fester tra 2 aH
+Whatever has been contemplated, decided or
+considered by the living beings, is known to me
+entirely.
+en fare wd SRT
+SPM TAT Ge DyPSTATN 2 Vl
+
+By me only, stands established all that is
+mobile as well as immobile in the Universe. By
+the reality endowed with expectation, how
+possibly could I dare to truncate all?
+
+mere fagdt 4 anifie are
+Be anivaae Bt FY warfemteman 231
+
+Since I stand exposed for the sake of
+
+creation and not otherwise, who will be free
+
+from my will without beginning the
+performance of holy rites.”
+
+utara aat tartare awaTa:|
+Hea TAS gargs HATTA VI
+Then having conversed with the gods, the
+Jayas, who accepted his punishment and who
+were dejected, Prajapati spoke to them once
+again in consolation.
+
+Teraahas Gae a: Fa: TT
+Tene faut aa Bay A: Fa
+afacsa: qateat Far wag STIATAN 24
+
+“Since after open declaration to me,
+renunciation was ordained by you earlier and
+since excessive effort, though futile, had been
+put in by you, O Devas, you future births shall
+result in ultimate happiness.
+
+aera a an afecatt GT:
+weanty Uys: wey ws wf AGM
+aaraarag Green tariganieg
+
+ASAT TAO TA Pera Tita: TAA Von
+
+O excellent gods! By the voluntary will-
+power, your birth shall take place in the six
+Manvantaras beginning with Svayarhbhuva and
+ending with Vaivasvata. O Suras, all of you will
+be moving ahead, deluded as such”. Having
+
+known them, Brahma therein recited this
+primeval verse.
+
+wait faat ged waft orgie a
+
+ay da g or a Uta g Fea
+
+a fe oH faen yer aes 2 CI
+“Those who perform holy actions such as
+
+## Page 31
+
+Chapter-67
+
+29
+
+the study of the triad of Vedas, maintenance of
+celibacy, procreation and obsequial rite,
+performance of Sraddhas, Yajiia (sacrifice) and
+Dana (charity), that very one having become
+free from sin shall always be eulogised by
+others”.
+
+a Ud yellnyeen J warararaata
+SaaS ASH ARTA TASEATI 3 8
+
+Then he having recited this verse, spoke to
+the Devas, Jayas again. “On the elapsing of the
+Vaivasvata Manvantara, you may come here
+near me.
+
+wat ga wer and fag sree wear
+Wage J Are Aare 3 011
+
+Then you all along with me may attain to an
+accomplishment of perennial norm”. Having
+addressed them like this, Brahma became out of
+sight there and then.
+
+wat Sefer sat Dear:
+
+wean arforarelsy gear areca: 11 3 8
+Then on the supreme being having
+
+disappeared, those Devas endowed with the
+
+power of Yoga and having no fear from
+
+anywhere became as such, endowed with
+
+Anima and other supernatural powers.
+
+AAG F ARTARIS ASEM Be: |
+SAT She MUTSTTAT Sree tera: 113 BA
+Thereafter their bodies turned into twelve
+lakes. They came to be proclaimed by the name
+Jaya and they resembled the oceans.
+Wa: ayes aferet a aR GT:
+aise Gt Yat safe BTeRTITAT: 1 3B
+Then, in that Sarga of Svayarnbhuva, those
+Suras (gods) were born as the sons Ruci and
+Ajita. They were twelve in number and were
+known as Ajitas.
+
+fafa grade aot aRseraeem
+MOIST: Yaar wa wgwoTaT AT: 1
+Set UA: Ba asta BEM BAAN 3 vl
+
+Vidhi, Munaya, Ksema, Nanda, Avyaya,
+Prana, Apana, Sudhama, Kratu, Sakti and
+Vyavasthita— these were the mind-born sons
+known as Ajitas.
+
+Qa ae gt: ae awl BAT
+wardgasatt yd aa: Tarte F113 4 1
+gfe ae 2 reaoen ahren: YT:
+We gira Far sad aT TA
+grat aaa: YA: Yat: eater 3 Gu
+SR FF Gat wearat SHR YT:
+
+Wa: GEM: BAT Far SAT UTA TAM Bou
+
+And they in the Yajia (sacrifice) along with
+the gods were remembered as Yajfiabhajas (the
+partakers of the fruits of Yajfias) in the
+Svayarnbhuva Manvantara earlier, and then
+again in the Svarocisa Manvantara, they were
+known by the names- Tusitas and Pranas. They
+were the Suras and partakers of Yajfias. Again
+these Tusitas were born as the auspicious sons
+of Uttama and Satya in the Uttama Manvantara.
+Then they were declared as Satyas in the
+Uttama Manvantara.
+
+SMEAR TH ATT
+
+@Y We: Wea: Ga aT gC
+
+gat 3 ama: yar aft greta GI
+
+BAT aT F Bar BHUTSTRAATS AAT 3 8
+
+They happened to be the enjoyers of
+
+sacrifices in the third Manvantara of Dvapara.
+Those twelve Devas, the Satyas, were born as
+the sons of Tamas and Harya on the arrival of
+the Tamasa Manvantara. They were known by
+the name Haris and were enjoyers of Yajfia.
+
+aae BAT Sar: wT ae
+faqrort ane & aia TT
+Aquat AF Aa: VST AAI So I
+Those Devas, the Haris, were born as the
+sons of Vaikuntha and Carisnu on the arrival of
+the Carisnava Manvantara. In the fifth
+
+Manvantara those gods were known by the
+name Vaikunthas.
+
+## Page 32
+
+30
+
+Vayu-Purana
+
+amet a Gadat aquest: wet aN
+reared Bae Yar BAT rte git
+Then again those Devas, the Vaikunthas
+were born as the twelve sons of Dharma and
+Sadhya in the Caksusa Manvantara.
+
+wae A UA: ArT: Patter eras
+sofeat wat: wt qacearrer guyz
+
+ame FPS wes Saas FI
+
+BT Teas feeat MTA TUTTA: NY BU
+aR gremssfera adarisat YA:
+
+Fal AT AAA WAT ww
+Ae: CaS TAT SRT ETSMTENT: |
+WATE HATA STITT TNTI YH
+At the end of the Caksusa Manvantara and at
+the beginning of the first Treta Yuga in the
+Vaivasvata Manvantara, these Sadhyas were
+once again born as the twelve Adityas, by
+means of their parts as the sons of Aditi and
+Kagyapa, the son of Marici. Thus those who
+were originally Jayas were born as Sadhyas in
+the Svayarnbhuva Manvantara as a result of the
+curse of Brahma. Again they were born in the
+Caksusa Manvantara and were born as Adityas
+in the present Vaivasvata Manvantara.
+a gat waeyle Sarat Saye!
+WSS: TEM Fe: Wears A Tea we
+He who with devotion study this story of the
+sevenfold birth of Devas, he does not attain to
+any obstacle or sin.
+
+See Ya: Wea HAT AAT: |
+Uftarat wea are fa ya: sights vont
+This way, the seven births of Jayas with
+
+seven pre-requisites have been narrated by me.
+What more do you desire to hear from me?
+Na Sq:
+
+ean erat @ weraforera4ry
+
+whypfigrani wei verde
+
+safa feet da fererreeeras Ansel
+The sages spoke- Of Daityas, Danavas,
+Gandharvas, Raksasas, Sarpas, Bhitas, Pisacas,
+animals, birds and plants, their birth and
+defunction, you may narrate in details.
+
+Tawa Ee Sara TATA
+fea: yaa oat apenfeft a: gee
+This way addressed, Sita replied to those
+
+excellent sages that it has been heard by us that
+of Diti two sons took birth from Kasyapa.
+ayaressenit at a waa: wast wah
+Pease aT PATS STAT 4 01
+faorafngain sod ahereary
+fern walfghrge aasstitreadafan
+facuerenferrererrcen da Bt A APTI BH
+Those two sons are remembered as the
+eldest of all the sons of Kasyapa. Kasyapa
+performed a horse-sacrifice. During that
+sacrifice, in the course of performance of
+Atiratra yajfia, on the day of Sutya, the son of
+Kasyapa came out of the womb of Diti and
+seated himself on the big seat of the Rtvik in the
+midst of the assembly-hall. The word Kasgipu
+means ‘a mat’. The seat of the chief Rrvik
+(offerer) in a sacrifice is a golden mat. By that
+action, he became known as Hiranyakasipu.
+
+ead SW:
+fewreiniata wa da werent:
+werd da dere faeatagté a: wi
+
+The sages spoke~ O My Lord! You may
+narrate in detail before us the name, origin and
+prowess of Hiranyakasipu Daitya, the great
+souled one.
+
+at sara
+areas F yeRt YM
+sefafacacnfieer trercteagttfind: 14 3
+
+Sita replied— Earlier the holy Asvamedha of
+Kasyapa was performed at the sacred Puskara.
+
+## Page 33
+
+Chapter-67
+
+31
+
+It was englamoured by Rsis, Devatas and
+Gandharvas.
+
+aeita fate srermret wenfafen
+SRARVATA SAI J VS Sg vii
+
+According to the excellent injunctions in
+sacred scriptures and for the purpose of
+discourses etc., there were five golden seats
+organised there.
+
+Raga aera ad: erate a
+eats ararcetat ATTRA 4 4
+
+Three of them were sanctified by means of
+Kuéa grass. The fourth had a bundle of Kuga
+grass and a plank over it. The four seats were
+meant for the chief Rtviks.
+
+ye assed ag age wafer
+faved wen feed feerrercontegr 4 Gt
+The fifth was an auspicious, divine and
+
+golden seat that happened to be therein for the
+Hotr. It was spread over by a divine cloth.
+
+amtdett fefedta weit ayUrEM
+am ad weet mien sada ont
+The pregnant Diti, then attained to the status
+
+of Patni (a wife). For ten thousand years, the
+foetus of hers continued.
+
+aq ma fag mgd sequen
+
+TEga ay vee fer
+
+Frag @ waiss aaiseta: wes TUG Cit
+
+STEIgAraaraee: TAG TAT
+
+a apr yrrerea areedey afer 4 ei
+
+The boy in the womb came out of the
+
+abdomen of his mother and improvised the
+golden seat that happened to be for the Hotr.
+Seated thereon, he spoke out or narrated the
+four Vedas and the fifth one, Akhyanas
+(Puranas) like Kasyapa. Having seen him, the
+sages have him that name.
+
+feweafagerenration a faga:
+fewaniisqrena fafear Tet aya
+
+Tet: at Se Set fawfers: uftre: tg ott
+Hiranyakasipu on that account became well
+known. Hiranyaksa was his younger brother and
+Sirnhika was his younger sister. She was the
+mother queen of Rahu and the spouse of
+Vipracitti.!
+favaafoadeert we aa
+yet atageront Prrert we: fer: & an
+Hiranyakasipu, the Daitya, took to austere
+penances for a hundred thousands of years
+abstaining from food and standing topsy-turvy.
+a yal Sea eed ger att gi
+vain fete: waar va TH
+anmtenfatter adgacrnfera 1g
+To that Daitya, Brahma conferred a boon
+pleased as such. Conquering all Devas and
+attaining deathlessness from all living beings, O
+leading Brahmanas! By his Yogic power he
+attained the lordship of all.
+
+erage tar: wat wag aI
+mrecdaeaaaa & deat at: 3h
+“Danavas, Asuras and Devas may be of the
+same stock and attain the greatness of Marut
+gods. May this boon be granted.”
+
+WaRMsa TEM F Tat seat afer
+wel Te aufgerearrcedeaa
+farvrefagees: yetteiia: Wate vi
+
+This way having been talked to him, Brahma
+bestowed unto him as per desire and conferred
+the divine boons. Then he verily became out of
+sight. Hiranyakasipu daitya was eulogised by
+verses of earlier days.
+
+umn fawrafingat armrsti Frat
+aed ved fest tar amerputefefirsng yn
+“The king Hiranyakasipu resorts to
+whichever direction, unto that very quarter the
+gods offered obeisance along with great sages.”
+
+1. Pauranika Kosa, p. 520.
+
+## Page 34
+
+32
+
+Vayu-Purana
+
+Tarra Sas farwaaiergfsers
+
+wesstiattae: o faapie: yo fern
+
+ery Be Faftharagear ET: BAT &
+
+O Brahmanas! The Lord of Daityas,
+
+Hiranyakasipu was of such enormous power. In
+ancient times, Visnu, in the form of Narasirnha
+(Man-Lion) killed him with his claws.
+Therefore, the claws are remembered pure.
+
+faromerga: ve ferret: Great:
+se: Verda areata ag ou
+Tern fart yrdarerea
+fecomarger ae Saehe GeMUT: ng CH
+Hiranyaksa had five heroic sons of mighty
+prowess. They were~ Utkura, Sakuni,
+Kalanabha, the valiant Mahanabha and
+
+Bhitasantapana. These sons of Hiranyaksa were
+even inaccessible to the gods.
+
+Rai grey wire area: AMT: Bas
+rd aT eeTTfoT FreATeATTERTATIN g eH
+Sons and grandsons of those were known as
+
+Vadeya Gana. A hundred, thousand of those,
+were killed in Tarakamaya' (battle).
+
+facaaiet: Gaara WeaeT:|
+yele: Vasraeggiena a
+ages eda gayafadat on
+
+The sons of Hiranyakasipu were four of
+mighty force. Prahlada was the eldest one
+among them and Anuhlada followed him.
+Sarhhrada and Hrada were the younger ones.
+You now know the sons of Hrada.
+
+ort Frgae cer geyat aay:
+wares feat fgeararguinw gn
+
+Hrada and Nisunda happened to be the two
+sons of Hrada. Sunda and Upasunda were the
+
+1. A battle of Devas and Asuras of Krtayugas. The
+abudction of Tara wife of Brhaspati by Soma form
+the basis of the battle, Sukra sided with Soma and
+Siva and Indra six with Brhaspati, Pauranika Kosa,
+p. 157.
+
+two heroic sons of Nisunda.
+weeny wertat weg searfea:
+Wea: GAYAY ASHTTTTAA V1
+
+Brahmaghna, Mahavirya and Mika became
+the successors of Hrada. Marica, the son of
+Sunda, was born of Tadaka.
+
+aisan feat asa weer aera
+went fatrecenta fart werent 3
+
+Tadaka was killed by the valiant Raghava
+(Rama) and Mika was killed by Savyasact
+(Arjuna) in Kirata (i.e. when Siva assumed the
+form of a hunter to test Arjuna).
+
+Jaa eM Ba TTT faa: KITT
+fia: Slang tai 2 uftrenifenfeargy
+waem taart & rea: Terafeam os
+
+Their descendants purified themselves by
+means of might penance. They were the
+residents of Manivarta and reached the number
+of thirty million. Not fit to be killed by gods,
+they were killed by Arjuna (Savyasaci).
+
+argegat arg: fadtaret wa a
+Bal F MAATEaY TON Bee: FANG It
+The sons of Anuhlada were Vayu and
+Sinivali. Their descendants were hundred
+thousand who constituted the group of demons
+called Halahala.
+
+faterrg were: wy TeMsseHT: BAT:
+
+Tag area wet aeact va a
+
+why seta Gar: WeTEEAa: Ng
+
+Virocana, the son of Prahlada, had five sons
+
+who were well known as Gavesthi, Kalanemi,
+Jarnbha, Baskala and Sarhbhu (the youngest
+one). They are well known as the sons of
+Prahlada. ~
+
+aamart sen tat Gaga
+
+qed Fyne fear ara: oot
+
+2. Name of a place having scions of the youngest son
+of Hiranyakasipu, killed by Arjuna.
+
+## Page 35
+
+Chapter-67
+
+33
+
+wafer: YM Ba were TagyhA:
+(FON Seer USS UA TATA: W196 1
+As per seniority and invincibility, I shall
+
+illustrate their sons. Sumbha, Nigumbha and
+Visvaksena- these were the greatly prowessed
+sons of Gavesthi. Jarhbha’s sons were Sata,
+Dundubhi, Daksa and Khanda. Those four were
+Jarnbha’s sons.
+
+fates ya gang: aereitga:!
+Wea Ya Ia HreAGaSTTIN V1
+Virodha, Manu, Vrksayu and Kugalimukha—
+
+these were the sons of Baskala. Now you hear
+about the sons of Kalanemi.
+
+varenfteda tartare
+mega St WIRY AA WAT on
+
+Brahmajit, Ksatrajit, Devantaka and
+Narantaka— these were the sons of Kalanemi.
+Now you know about the sons of Sarhbhu.
+
+ager Brace a wae WINE:
+Taree tiniss git: gat: wentfar: nc en
+Dhanuka, Hyasiloma, Nabala, Gomukha,
+Gavaksa and Gomén are the sons of Sarhbhu
+well named as such.
+fates Wag afeita: waTTATA))
+Be: Yad FH WA: WS Wa Ae VI
+Virocana’s son Bali was the valiant one. Of
+Bali, a hundred sons were born. All of them
+were kings.
+aut waa fawn: Grea:
+weaagelaey aot xfaoreaa: 1
+qornit meee: piercer 31
+Among them, the most important ones were
+four. They were highly heroic and valiant. The
+thousand-handed eldest son Bana was rich and
+
+honoured by all. The others were—
+Kumbhandbha, Gardabhaksa, Kusi and others.
+
+Vert WRT da A FY Ae: |
+ae: Yas Was wrayiise TEATS YI
+
+Sakuni and Patan were the two daughters
+of Bali. Of Bali, the sons and grandsons in
+hundreds and thousands happened to be.
+
+aferat arafereadt tit fermenter: 1
+ara Ve SieTTTETAN 6 4 1
+
+They constituted a group of demons well-
+known by name Baligana. They were heroic
+and manly. Bana whose mind was like that of
+Indra, had his capital city Lauhitya.
+
+fefafaasgar & atearara aya
+A BPA: MATT ATT TTT TAT © & It
+Diti, having sons demolished, gratified
+Kasyapa. Well-propitiated by her, the delighted
+Kasyapa asked her to choose a boon admirably.
+SIO ETAT A aT at Aas
+ay wet at werent aay:
+fefrexchia orga artterereraii cit
+She chose the boon. The holy lord granted
+her the desired boon. The son of Marici, of
+fierce splendour, asked her, “What do you
+cherish?”
+arte ayer ge watt wefereet
+eagastta smraafedterst Utne cu
+vrei ys chiara
+ae mesfvent aimenguefanc eit
+To the consort Kasyapa, son of Marici, she
+said with hands folded in reverence- “O
+adorable lord, my sons have been killed by your
+sons born of Aditi. I am longing for a son who
+could be a killer of Sakra by long standing
+
+penance’s. I shall take to austerity. Therefore, it
+behoves you to impregnate me.”
+
+TRE Beat Uta: HPTTET
+weqara renter fefe wrag:faaran got
+
+Having heard that words of her, Kasyapa,
+the highly radiant son of Marici, replied to Diti
+who was highly aggrieved.
+
+wa wag ak a Unie ater
+srafeeatt aeyst PHREATATEAII g RI
+
+## Page 36
+
+34
+
+Vayu-Purana
+
+“May it be so. Welfare unto you. May you
+become chaste. O you having riches for
+austerity, you shall give birth to a good son, a
+killer of Sakra in battlefield.
+
+yal ated cepfedte afaeafan
+a faeteaverna a safaeafan ¢ en
+
+For a full span of a hundred years, in case
+you will remain chaste, a son dignified in the
+three worlds will take birth of you.”
+
+WAQaa WERARAT THATS: |
+araferga Payert Se srTaTgAa: 1g 311
+Having said so, the highly radiant one, the
+supreme being, cohabited with her and having
+
+hugged her, the adorable sage proceeded to the
+triad of worlds.
+
+ma waft ar Sat fafa: were
+Het SATA ATTY YaTRUTTN ev
+The consort having left, that maiden Diti,
+highly exultant, went to the forest Kusala and
+took to austere penance.
+area 7 ade ufteat war g1
+AeA: YAS: WAT TUOTATAT <4 tt
+While she was performing penance, the
+thousand-eyed Indra, the foremost among the
+gods, served her by means of his rich attributes.
+af aftengt are wet yet aaa a
+waqaaraa Teanstefe fre 1
+The thousand-eyed lord then offered fire,
+fuel-wood, Kua, fruits and bulbous roots and
+anything else that was (suitable) to her.
+mates aaa
+wom: way citeay fafa utara gn
+Taare PRaTEa FefereTAT 89 1
+By the shampooing of limbs and by
+assuaging her weariness, Sakra (Indra) served
+
+her on all occasions. This way propitiated, Diti
+then addressed Sakra.
+
+fefarwarer
+sia asé Gee ae aaifor yaa
+
+safer ag F wee RAAT TANS CU
+Diti spoke- “I am pleased with you, O
+excellent one among Suras! O dear son, only
+ten more years remain; welfare unto you; you
+will then see your brother.
+wafer THe weaIsé aget BAT
+Seieatesd ya weanfa we aa anes
+Having obtained that type of son, the one
+desirous of victory, I shall fulfil my desire for
+conquest. Along with him, O son! J shall obtain
+the victory of the triad of worlds.”
+
+wayarat fafa: ye met wet feareath
+Fagaisugat Sat Gat: Frat FTE go ofl
+This way having addressed Sakra, and when
+the sun reached the mid-noon, the maiden was
+over-powered by slumber. She crouched down
+keeping her head on her knees.
+
+apr anata ya: wearing
+TEER HEAT FETA FT WUrE AM Ro el
+Having seen her as _ having attained
+defilement and having her hair spread over her
+feet, Sakra laughed and rejoiced on getting that
+opportune moment.
+
+wen: wet fag fees gia:
+sfava unfit ger mifirgy wésraq
+aafirreerten a X epferet weTTRTT: 11 Ro Bl
+
+Then Purandara (Indra) entered her exposed
+body. Having entered and having seen a
+formidable embryo of mighty virility, Indra of
+great fame pierced the important enemy in
+seven parts with his thunderbolt.
+
+frrerarrerar Taf Astor grractom
+wie Tent id Soa: GA: A
+ar Tebfels fm gH: YATATIAI 20 BU
+
+The foetus then being pierced with
+thunderbolt by Sataparvana (Indra), the bearer
+
+## Page 37
+
+Chapter-67
+
+35
+
+of thunderbolt, shrieked along dolefully or
+plaintively and terrific as such quavering
+repeatedly. “Bewail not this way” then accosted
+Sakra (Indra) to that foetus once again.
+
+domi aan gent Vas WoT TA:
+afer favegerat fefatqera yo wn
+With his thunderbolt, Indra cut off the foetus
+
+into seven pieces and split each of the pieces
+into seven pieces again. Then Diti woke up.
+
+7 etal a exer see fefartactay
+
+frorniensht mgéaricard
+
+wafedaafedt eft watseaaa You I
+
+“Tt is not to be aborted out, not to be aborted
+
+out”— this way did Diti remark. With due
+deference to the words of his mother, Indra
+jumped out of her belly. Armed with his
+
+thunderbolt, Indra spoke to Diti with palms
+joined in reverence.
+
+agradta gansta weariagion
+
+TST CERT WHRTATTATET
+
+fararnitd 8 ager eqréfan yo
+
+Unchaste as such you slept in a defiled state
+
+since the hair were spread over your feet, O
+Devi.! Then having found an opportunity, 1
+pierced the foetus that would have been the
+slayer of Sakra in battle. It behoves you to
+forgive me.”
+
+afer farmer wif fafa: weag:farm
+Aeete al STE TT ATTA Zoot
+That foetus having became fruitless, Diti
+
+became highly aggricved and_ ingratiated
+politely before the thousand-eyed one.
+
+Tameise ate & farneiiga:|
+areas fet Sater eA ARTA FoI
+
+“Tt is not your fault, if the foetus of mine had
+been rendered incapable as a result of my fault,
+
+1. Wedron: for wearfayin: a misprint, verse
+
+106, pada 2
+
+O Lord of Gods, O son of a sage of mighty
+prowess!
+
+yetae a atest Fa wai a yr sits
+fart y cag ftrennty Sat meter B aE go eu
+There is no crime in killing an enemy. On
+that account, I do not curse you, O Indra! | am
+eager to do good to you. You may do good to
+my embryo.
+wag aT yar wea wrath & fefen
+ARMA ATT TA YET:
+Trecehfet FTAT TOT AT ATI ROM
+May there be seven abodes of my sons in the
+heaven. May my seven sons abide within the
+aerial-trunks (Vataskandhas)’. May they be
+renowned as the seven Maruts, the seven sets of
+seven.
+Yfroat werent farted areath
+At gitah fageargqal staat wen eee
+May on the Earth be the first Skandha
+(region), the second one on the Sun. On the
+Moon, the third deserves to be recognised and
+the fourth should be known in the groups of
+luminaries.
+
+aay Wada wy: waftnvse
+ge F Merah SHAT: TT Be LN
+On the planets is the fifth one and the sixth
+on the Ursa Major (sphere of the Saptarsis). The
+seventh one on the Polar star (Dhruva) and
+Vataskandha is the ultimate one.
+
+APA fasta Be He WASSATT:
+AERTS TTY AA YAS  Vk3 I
+May my sons promenade among them on
+
+different occasions. May they move through
+these Vataskandhas.
+
+‘fret werreeer arena a Sew:
+ET TA GATT TAT HE TTT aw
+
+2. Pathways of wind.
+
+## Page 38
+
+36
+
+Vayu-Puraga
+
+The first Skandha extends from the Earth
+upto the clouds and it is called Avaha. May the
+first set of my sons move therin.
+
+fafteantt teva orqaioaeg 4:1
+arene faired g fittaarcat morn gay
+The second one extends from the clouds
+upto the Sun. It is called Pravaha. May the
+second set of my sons walk in the second
+Vataskandha. °
+gales gy aa: Sragaet aq A aA
+Serene Yt rgemtearcat THT: RE I
+Above the Sun (Sirya) and extending upto
+the Soma (i.e. the Moon), is the Vataskandha
+remembered as Udvaha. Let the third set of my
+sons walk through the third Vataskandha.
+
+(aged wahaagd: garg a1
+agat wa gator woreg atat feasitn gon
+And above Soma and extending upto the
+stars is the fourth Vataskandha which is called
+Suvaha. O Vibhu! May the fourth set of my
+sons walk therein.
+
+waa wateareeaeg 4:1
+wad waa: WA: TAT AAT ATT: RRS
+The fifth Skandha called Vivaha is above the
+stellar region and extending up to the planets. O
+dear boy, may the fifth set (of my sons) walk
+through the fifth Skandha.
+wed wergfeng wet ata weed:
+aay Wa Vag aa aS ag An geen
+Above the planets and extending up to the
+Seven Sages (Great Bear) is the sixth Skandha
+which is called Pardhata. May my sons who are
+in the sixth set move about within the sixth
+gana.
+
+aeniaratetgareareanregy 4:1
+anert: facet fg F Yatsu eon
+Above the Saptarsis and extending up to
+Dhruva is the seventh Vataskandha which is
+called Parivaha. May my sons stay therein.
+
+Waa MRA HTT HTT WAIST: |
+TaN BATE SF rere Teeth 2 aM
+
+May my sons move about all these from
+time to time. There let these be known by the
+name Maruts.”
+
+aaeaat gy ATTA BTaTgat wePRg:
+ape Hutte weal J yererye 22 UM
+
+Then the mother and the son named them
+Maruts through the actions performed by them.
+They separately named the seven Maruts of
+each set.
+
+Teamifteansstear: wetfereeasat:
+Ferctrsetther Met fers OTA TT ETAT 82 3 11
+Sattvajyotis, Aditya, Satyajyotis,
+Tiryagjyotis, Sajyotis, Jyotisman and another
+one constitute the first set.
+
+wee Tor: reat fated & Frater
+mafaraatsreda Gar: Sats kgs
+weafaatstaftas eftfirecasa:
+aro Ue farted acted B Frater een
+
+The first one is proclaimed as Gana. The
+second one you may know from me. The
+second set consists of Rtajit, Satyajit, Susena,
+Senajit, Satyamitra, Abhimitra and Harimitra.
+Listen and understand the third set now.
+
+aa: Get gat eat feeratser faereas1
+aria ghda gn dtmeda a
+
+antag: anferasberargeer Wo: BPA REM
+dqeda wasmgagea weg
+
+MT Utaela PUM Ta AUT Voll
+geaa ged seneured Sa:1
+aftaratigared wfegerer & AUT Rec
+(mefaceradta war Sat fagitswe: 1
+aaplanggramrernssat writers:
+
+Sear aT: TARSTAT: WAT AAA TOT LIS
+
+The following constitute the other sets— Rta,
+Satya, Dhruva, Dharté, Vidharta, Vidharaya,
+
+## Page 39
+
+Chapter-68
+
+37
+
+Dhvanta, Dhuni, Ugra, Bhima, Abhiyu,
+Saksipa. This is known as Ahvayagana, Idrk,
+Anyadrk, Yadrk, Pratikrt, Samiti, Sarhrarhbha,
+Tdrk, Purusa, Anyadrksa, Cetasa, Samita,
+Asamitadrksa, Pratidrksa, Maruti, Drasarata and
+others. Deva, Disa, Yajus, Anudrk, Sama,
+MaAnusi, Visas— these seven as seven-fold Ganas
+are famous in all the worlds.
+
+Wt ARIAS AAA: aT:
+weerrarer avat feat Sut da fen gon
+These forty-nine are the different Maruts
+with their own separate names. They have been
+enumerated by Diti and Indra.
+
+gear at g as fefaftayara z1
+arrest aed Ta Ga YAS
+farreg wag 8 Ba: Ge WAS SHATEN 3 Ul
+On hearing their names, Diti spoke to Indra~
+“May my sons take recourse to Vataskandha, O
+Sunny! May my sons promenade along with the
+Devas. May it be all well for you.”
+
+ARIAT Frat AeA: FaT:1
+sara wrafentrar wretagy AAT 83 2H
+Having heard her words of that norm, the
+thousand-eyed Purandara, spoke out having
+
+hands folded (saying) O Mother! “May it be
+so.
+waters & afeeas + aera:
+Raye WENA: HUNT Fae
+Ra: weg afer AMAT RTS STITT: HRB BI
+No doubt all this will happen the way it has
+been spoken by you. These great-souled sons
+shall incarnate as gods and will be honoured by
+the gods. Similarly, your sons will become
+
+partakers of the fruits of sacrifices along with
+Devas.”
+
+Wee Fed Sat: Ta VATAT:|
+fagaemma: we fefrgarerafeaa:n 93 xu
+
+On that account, all those Maruts should be
+known as Devas (shining ones), younger
+
+brothers of Indra and the immortal ones. All of
+them, the sons of Diti were ascetics and gods.
+
+wa at feared srear arergat atte
+amagftafed wet pratstt fated Tan gaan
+This way having taken upon a
+determination, the mother and the son of ascetic
+
+nature proceeded to the heaven exultantly.
+Sakra too went to the heaven.
+
+Treat fe ye ser supa: wea at
+aaferanrcttit aergas TargAN 23 Gt
+Whosoever reads or listens to the auspicious
+
+birth of Maruts shall attain long life and never
+meets with the fear of drought.
+
+ofa strange apis stung areritamareit
+FU MEA ATS: 11 191
+
+eke
+
+## Page 40
+
+Chapter-68
+
+37
+
+USTATEaAB TAS EAT: I
+Chapter 68
+The description of Danu’s lineage
+
+a sara
+
+om sel veeanfts eqgatiaatearc
+AETTAY SRT ATA TTT: Bt
+Sita said~ Hereafter, [ shall talk of the sons
+of Danu. You may know them. The sons of
+Danu happened to be the well known ones in
+the lineage of great demons.
+fanfafararret ort ater: |
+ae ceraela qari 3
+They were headed by Vipracitti.’ These a
+hundred (in counting) were of mighty prowess.
+
+All of them had performed good penances and
+had been endowed with boons.
+
+1. Pauranika Kosa, p. 467-468. A great demon having
+produced Rahu from Sirnhika. Born from Danu, a
+son of Kasyapa, having Atapi and Vatapi as sons.
+
+## Page 41
+
+38
+
+Vayu-Puraga
+
+PRT: WRT: ART Arar &
+Teac sREsart PIMA FAT: i
+aidan vatarerast Fated 30
+They were truthful, highly valiant ones,
+cruel, of magical feats, highly powerful, non-
+sacrificing ones and non-Brahmanical demons. I
+shall enumerate them all in accordance with
+their importance. Listen and understand.
+
+faget vegenig wen veghrr:t
+
+veal veaat wafed-hirerau wu
+
+SATSIST serene ATTA MT
+
+mofeaadta termratsfgeraa i 4 i
+
+fears gags yas: Year
+
+satafgatreda aot qeferda:n gil
+
+Ware: YET ART TEA: |
+
+dart: year a watotser wane: Won
+
+waatgdunal a quay FeTyT:1
+
+grey wes ag Ser afr cH
+
+genta Frese solani wate:
+
+afaeinn gags Wes THB TANI
+
+WaT Ta T PAA WeET:1
+
+wits qual gaitay darn go
+
+args fama: quatsa wergt:)
+
+anit fecorada prearges Prat: gen
+
+wa: vera gakrgragah
+
+SAU Yaa Yaoi Tisenfean ge
+. The chief sons of Danu were— Dvimiardha,
+Sankuvarna, Sanku, Nirdmaya, Sankukarna,
+Mahavisva, Gavesthin, Dundubhi, Ajamukha,
+
+adorable Sila, Vamanasa, Marici, Raksaka,
+Mahagargya, Angiravrta, Viksobhya, Suketu,
+
+Suvirya, Suhrada, Indrajit, Visvajit,
+Suravimardana, Ekacakra, Suvaha, the powerful
+Taraka, VaiSvanara, Puloman,  Pravina,
+
+Mahdsiras, Svarbhanu, Vrsaparvan, the mighty
+demon Mundaka, Dhrtarastra, Siirya, Candra,
+Indra, Tapina, Siksma, Nicandra, Umanabha,
+
+Mahagiri, Asiloman, Sukesa, Sada, Balaka,
+Adaga, Gaganamirdha, Kurhbhanabha,
+Mahodara, Pramodaha, Kupatha, the valiant
+Hayagriva, the mighty demons Viripaksa,
+Supatha, Aja and Hiranmaya, Satamayu,
+Sarhbara, Sarabha and Salabha. The Sun and
+Moon were the lords of Asuras formerly but
+now they are the lord of Suras.
+
+aft gar eatdst wert: wftaifiar:1
+Farmer yaularetarearn 30
+This way the sons in the lineage of Danu, as
+
+the principal ones have been illustrated. Their
+sons and grandsons are of indefinite counting.
+
+sed aU: Met saat arta A
+
+wanigg oat det wqUat: yas
+
+Bf g dengue at: yang 3 was gen
+
+This way have been illustrated Danavas
+
+(sons of Danu) and Daityas (the sons of Diti)
+who are (among them). Svarbhinu is
+remembered as Daitya (son of Diti) and
+Anubhanu is the son of Danu. And these trailing
+along in lineages are those who are the sons of
+Danu.
+
+Tara aaMISe: weraataTata
+
+Sete F The: vies ATS RGA
+
+mrefeer Teter areaga ata
+
+We Hgeeraheg A: GAT AT GAT 2 tL
+
+Ekaksa, Rsabha, Arista, Pralamba, Naraka,
+
+Indrabadhana, Kesi, Meru, Samba, Dhenuka,
+Gavesthi, Gavaksa and the heroic Talaketu-
+these were the sons of Danu but followed
+human rites and activities. So I remember.
+
+eeeradad ater ita:
+fafeerarmetrcan fasfafrgartcatn got
+In the clash of Daityas and Danavas, the
+following sons of Vipracitti born of Sirmhika,
+became terrible and valorous.
+‘Shearer sf wang weTgT:|
+VATS AAA: PTR TT Ct
+
+## Page 42
+
+Chapter-68
+
+39
+
+agin: yfada arate faatge:
+BRT: SATAY eT AAT
+They are renowned as Sairnhikeyas (the sons
+of Sirnhika). They are the fourteen formidable
+Asuras, viz. Satagiala, Balavan, Nyasa, Samba,
+Anuloma, Suci, Vatapi, Sitarnsuka, Hara,
+Kalpa, Kalanabha, Bhauma and Naraka.
+Ugeing tat} agudnada:1
+see fafeergar Sache SeraUt: uot
+Rahu is the eldest among them who is the
+
+thrasher of Sun and Moon. Thus these are the
+sons of Sirnhika invincible even to Devas.
+
+areunfisrt: UT: we Telewa A
+
+Sen aeentor Aes WOT: BPA: VM
+All of them were of terrific or atrocious
+
+lineage, the cruel ones and hostile unto the
+
+Brahmanas. There are other ten thousand
+Asuras constituting the Sairnhikeya group.
+
+fredt armen antaor aeiteran
+aubrey WT SM Yeieisa yet Yat 2
+
+By the powerful son of Jamadagni of
+Bhargava race, they were killed. Of Svarbhanu,
+the daughter was Prabha and of Puloman, the
+daughter was Saci.
+
+srerdireanta wiftet artedain
+getter arfetent da SoATTT FAUT 3
+
+_ Upadanavi was the daughter of Maya,
+Sarmistha was the daughter of Varsaparvani.
+Puloma and Kalika were both the daughters of
+Vaisvanara.
+WHET ART: YAY aT reg:
+Ye waa wifter gerTquarat 2x1
+Nahusa was the son of Prabha and Jayanta
+
+was the son of SacI. Puru was born of Sarmistha
+and Dusyanta was born of Upadanavi.
+
+Sarega Sa yeirrenters sh
+se ate g a we otters afer ea
+
+The two daughters Puloma and Kalika of
+Vaigvanara, both became the spouses of Marica.
+
+ana ragenttr ufbeiraggan:|
+agdn cass faroagranfearn 26 1
+Sixty thousand leading Danavas were the
+sons born of them. There were fourteen
+thousand other Asuras residents of Hiranyapura.
+
+Weir: arena eat: YA: |
+weet aari & Feat: Pert Vol
+The Paulomas and Kalakeyas were the
+demons (Danavas) of great power. They were
+not capable to be killed by the Devas and they
+were killed by Savyasaci i.e. Arjuna.
+wares arat & gat: wes aAreTAT:|
+raat Gefidla guar afer 2c
+aiferat awenuigy ea weet ae
+dant amar a at wa watt 2
+All the sons that were born of Maya were
+heroic and prowessed ones. They were—
+Mayavi, Dundubhi, Vrsa, Mahisa, Balika and
+Vajrakarna. A daughter Mandodari was also
+
+born to him. This verily, the creation of Daityas
+and Danavas stands illustrated.
+
+CAGE: YATE] WaT: UH AeA: |
+areedformit a fares ferrari 3 ott
+The sons of Danayusa are remembered as
+
+five of great power. They were- Ariru, Bali,
+Janma, Viraksa and Visa.
+TRU: AT PATA WETGT:|
+Fred: Hacwesy Sagaeafretn 3 VU
+Ariru’s son was a cruel great Asura named
+
+Dhundhu. It is reported that he was killed by
+Kuvalasva at the instance of Uttarika.
+
+adi: Wt nerdhif arate
+afrernant a a aut: yarem 3 an
+
+The two sons of Bali were great heroes,
+unparalleled in splendour. They were Kumbhila
+and Cakravarma who was Karna in his earlier
+birth.
+
+## Page 43
+
+40
+
+Vayu-Purana
+
+farerenfa yat gt ares aes ah
+
+fare merge: saree:
+
+SUBS ARE VA TART VeET TAT 3 31
+
+Of Viraksa were two sons, Kamaka and
+
+Varavisa. And of Varavisa, happened to be four
+sons of atrocious deeds, destroyers of Sraddhas
+and sacrifices, the killers of Brahmanas and
+animals.
+
+war SATAY gaeMAT Frater
+aR SeATEUTEga ST EAA: 3 vA
+
+The valiant sons of Dandyusa have been
+enumerated, Now understand the sons of Vrtra
+who were born of the terrible breath of Vrtra
+while engaged in battle with Indra.
+
+AN ART WIA TART: YACTAT: |
+prt aft eerie ARAFAT: SPAT |G
+They were Raksasas of mighty prowess and
+were the rulers mentally famous. They were a
+
+hundred thousand in number and are known as
+the followers of Mahendra.
+
+wa gefae: dhe enfter: garda:
+waar: we Prevafer genie: 03 «1
+All were knowers of Brahman, gentle,
+righteous and of minute-observationed frames.
+
+All were immanent in the subjects. All were
+quite religious ones.
+
+dani erent owt we wala:
+WARAAQART  WATAL 3 1
+
+Thus the creation of Daityas and Danavas
+
+has been illustrated. Pravahi produced sons at
+the sacrifice. They were excellent singers.
+
+wea: wramaa aca defiant
+pada gerard gangsta wegen
+wala wag yest ae
+
+gaa terrerat fag: aftatiar: 3 ei
+
+Sattvan, Sattvatmaka, Kalapa, Viryavan,
+Krtavirya, Brahmacarin, the seventh one
+Supandu, Pana, Taranya and the tenth one
+Sucandra. These verily, deserve to be reckoned
+
+as Devagandharvas the bards of gods, well
+known as such.
+
+gfe teergatt argans semaTe ayrdamaeTth
+AATEUABAATSEATA NG Ct
+
+eK
+
+## Page 44
+
+40
+
+Vayu-Purana
+
+NST FARST ANS EAT:
+Chapter 69
+Dynasties descending from Kasyapa
+Qe sara
+Tralee: guar wie: aftatfta:
+fares HUQ aRAM et
+gaug: yin a qantas a1
+Brrerguraccer forte fa Sraeererem 2
+aaah afeferr: whee ager:
+afer: Wasaga aneda ater:
+Bad tarsal we: uftatftars 30
+Sita remarked— The sacred Gandharvas and
+Apsarsas are glorified as the children of Muni,
+viz. Citrasena, Ugrasena, Umayu, Anagha,
+Dhrtarastra, Puloman, Stiryavarcas, Yugapat,
+Trnapat, Kali, Diti, Citraratha, the thirteenth
+Bhramisiras, the fourteenth Parjanya, the
+fifteenth Kali and the sixteenth Narada. These
+divine Gandharvas are famed as descendants of
+Muni.
+ghar: YT:
+SRT area a freST YeAAT vA
+Tara dat MT eit aut aISsarergan
+ante yereat ce fagqgurt fare yt
+afgan caro da Fat TAT WANA
+gaa a gargs yfoter gatas § 1
+qosttan Gren aT Yea YA aa
+Sm Wet da Ys SACI T Anon
+ep sare a cifras era
+Teaterce gat wear: after: cn
+
+## Page 45
+
+Chapter-69
+
+41
+
+There are their thirty-four younger sisters,
+the auspicious Apsarsas, viz. Antara, Daravatya,
+Priyamukhya, Surottama, Misrakesi, Casi,
+Vamini, Alarhbusa, Marici, Putrika, Vidyud,
+Varna, Tilottama, Adrika, Laksana, Devi,
+Rarnbhé, Manorama, Suvara, Subahu, Pirnita,
+Supratisthita, Pundarika, Sugandha, Sudanta,
+Surasé, Haima, Saradvati, Suvrtta, Kamala,
+Subhuja and Harhsapada. These were the
+worldy Apsarsas. These Gandharvas and
+Apsarsas are well known as Mauneyas
+(descendants of Muni).
+
+weratot staat wer ar: uftetfcter::
+(amet ann watat atetaranta F sq eu
+The daughters of Gandharvas had been
+
+illustrated by me. You may listen to the names
+of all those being related by me.
+
+aM eT aTat MTT TETATA
+faeradt areqet gPSt T aTAT) I got
+Suyasa was the first one of them. Gandharvi,
+
+they call as the second one. Then are Vidyavati,
+Carumukhi and Sumukhi of beautiful face.
+
+TAY TaMIGAT AETACTTAAAT: |
+waa: Yar TATA ATA A TTT Le
+Therein the sons of Suyasa were of great
+strength and prowess. Yaksas were the sons of
+
+Pracetas. You may listen to their names from
+me.
+
+aah efter after: aEERTT
+Terret J AAMT WT Wa SATAN LV
+Karbala, Harikesa, Kapila, Kaficana and
+Meghamili are declared as such constituting the
+group of Yaksas.
+
+Gaye sienteretscaca: BAM:
+arat ara & erage % Frater 93
+The four daughters of Suyasa are known as
+Apsarsas. You may know from me their names,
+as I recount them.
+
+weet MAST AAT TART
+
+eng a fayren a weenie qa ex
+Loheyi happened to be the eldest; Bharata
+was the next. Then were Krsangi and Visala
+who were unparalleled in beauty.
+
+anaismt aarronerat: oftaitfetan:1
+seafeen fargrert fart WeTETAT gy II
+From them other four groups of Yaksas
+
+were declared as such. They were procreated by
+Visala, the prowessed one and great-souled one.
+
+aia seats Gegaes fase:
+fagrerrear aero yet sia TOT Rg NL
+Loheya, Bharateya, well-known Krsangeya
+and Visaleya were the groups of Yaksas famous
+in the Purana.
+
+sergtattiaactat:|
+Saremitcaten cient crafaat at: got
+
+And by these terrific Asuras (demons),
+having highly forceful prowess, the worlds have
+been occupied, O excellent ones among the
+
+knowers of Loka and Aloka.
+Tatas ate fear WeTAT
+SeUTfeAT Hera TTT AT TERT 1 Re
+The Gandharvas called Valeyas were
+procreated by the noble-souled Vikranta. They
+were great valiant Gandharva Nayakas
+(leaders).
+
+farttarhirat wera: |
+Bei arf aaeftt aerrereTTeT: 88 tt
+They were endowed with generosity and
+prowess. They were highly valiant and heroic.
+Their names I shall talk of as per descending
+order of priority.
+
+fraget nerdhiffarant wa a
+forage: amerisa aan
+frat sfereta arat arn saat (A TN
+
+They were— Citrangada, Citravarma of great
+prowess, the greatly fortunate Citraketu and the
+greatly heroic Somadatta. There were three
+
+## Page 46
+
+42
+
+Vayu-Purana
+
+daughters also. You may listen to their names as
+being talked of by me.
+
+WaT wae ATT HAC TATA
+wer argue are wore at
+The first was Agnika; Karhbala following
+
+her; Then was Vasumati. All of them had
+unparalleled splendour.
+
+ana: We Hart TON seanfamfeer
+aa eei(on) fara Tagder: eV
+Three other important groups of the chief
+
+Gandharvas were begotten of them by Kumara.
+They were heroic ones and invincible in war.
+
+aren: anaes wa aA yA:
+whifefateotatig cits aT 23H
+They were Agneyas, Karhbaleyas and sons
+of Vasumati. This world of mobile and
+immobile beings is pervaded by these various
+groups.
+faarerag aa fara were
+Sema HEMT BOAT AT: NFS
+They were equipped with education and
+were procreated by the noble-souled Vikranta.
+They were highly fortunate ones, the lords of
+beauty, knowledge and wealth.
+aargdvictatar wrath wera)
+amas tetris goed Ty freer 241
+You may hear the names of those noble-
+
+souled Gandharvas of highly ferocious valour
+from me while I am illustrating them.
+
+fear after: gen APETERRT
+wraeega & mgt wredla wereret: 3G Il
+
+They were—  Hiranyaroman, Kapila,
+Suloman, Magadha, Candraketu, Ganga and the
+greatly valiant Goda.
+
+Tefaeragraat fart afar
+seramfate mot & ary a Yet Ven
+
+These were the first among the groups who
+were ascetics, valorous and pure enough owing
+
+to deep understanding of the Vedic lores. There
+were two daughters also of beautiful eyes.
+
+frat a qeala aerate went
+
+seanfee feererar ferereacortreat: Bett
+
+vreena farted Wee AUT:
+
+Utoateafind cites fererercrrat eatin ul 2 eu
+
+They were Siva and Sumanas. The groups
+
+Saiveya, the valorous and Saumanasa as well
+were begotten of them by the great-souled
+Visravas. They practised learning. This world is
+pervaded by these three groups of Vidyadharas.
+
+waste aren sear
+tie Tuga faeracferafwardit 3 ott
+From these were born many hundreds of
+ganas promenading within the interior of the
+sky, born in the world from the activities of the
+Vidyadharas.
+seen aa fear Were
+senfeet waar: feracrentaraterm 3 en
+Asvamukhyas (horse-faced) were procreated
+by the same valiant and the great-souled
+
+Vikranta. They were created with horse-faces.
+You may know them as Kinnaras.
+
+Wage: atferet weal WeTeet:|
+
+gauleite: qatar were attarqn 3 2
+
+sererenfere mor: ferent wer
+
+garat faghafdetel: uftatedan 331
+
+Samudra, Sena, Kalinda, Mahanetra,
+
+Mahabala, Suvarnaghosa, Sugriva, the heroic
+Mahaghosa and the others were the leading
+ones of the noble-souled Kinnaras with the
+faces of the horses. They are being glorified
+extensively by the scholars.
+
+war wget fear Tere
+Berea ACP: fee: TATA: 1 Bw
+That very way, Naramukhas (human-faced)
+Kinnaras too were procreated by the noble-
+souled Vikranta, O Sarhgapayana.
+
+## Page 47
+
+Chapter-69
+
+43
+
+Btu: gio afters dary
+
+PHAN T ASGAHATGAT 3 4 Ut
+
+faga fagana ageeney feat)
+
+Beas ferarer: SeT Ses Gare: BRETT: gg
+
+Harisena, Susena, the valiant Véarisena,
+
+Rudradatta, Indradatta, Candradruma,
+Mahadruma, Bindu and Bindusdra were the
+Kinnaras of the lunar race. Thus these excellent
+and auspicious Kinnaras have become well-
+known in the world.
+
+Feeiarreartast Esra:
+‘AS wogerae frat weTETATTN Zot
+O Brahmanas! In this world exist the
+
+hundreds of clans of these noble-souled
+Kinnaras, highly skilled in dance and music.
+
+war aalogn cigar STEEN
+CO CCR COMIC CLOUE LAT
+
+They are Yaksas, Yaksopasanta, Lauheyas
+endowed with beauty, the brilliant daughter
+Suravinda, who were honoured by the Siddhas.
+
+sures raged wT: 1
+Ueto Yaa Fat aN BH sya en
+The groups of Bhiitas had been procreated
+by the terrible Upayaketana. Of the beings, their
+names you may hear from me.
+ar qeralgiar srreryrenfaaweAT: |
+Bar: areata gre faegre:
+seanfelé wot AfinitE: BAN Ko
+The groups of Bhitas (Bhiitaganas) deserve
+to be recognised as those who haunt from
+
+within and without etc. (avesakas, nivesakas).
+They are declared as being visible in the world.
+
+faga 3@ cies feat yas:
+2 gee cetera
+SATTTATERTST FATT A APTI ei
+
+Those that are the excellent ones among
+
+Bhitas that move about in the sky deserves to
+be recognised as Bhiitandyakas i.e. the leaders
+
+of goblins or Siva (Bhitanayaka = Bhitapati) in
+the world. There is no doubt that they move
+about in the sky up to the tops of trees.
+
+eat derreal: wreor aise WaT
+FatreanPret fara agar e eH
+Thus almost all Devas and Gandharvas have
+
+been illustrated by me. The reputed ones are
+engaged in waiting upon the Devas.
+
+ARTA ATs fart yenterurgs
+
+ford w dat agqaet wea san
+
+vet a were a Trey
+
+sayatenssfarresin Taft: TEU svi
+
+sary: wal Tenia:
+
+free: adeinen Fygon trae x4
+
+Waited upon, accompanied by Gandharvas,
+
+clever musicians and experts in music and
+dance, the Devas stay in all the worlds. They
+worship Narayana who is lotus-eyed, free from
+Rajas Guna and the foremost of gods,
+Hiranyagarbha (god Brahma) who is four-faced
+and self-born, great lord Sankara who is Isana
+and the lord of Universe. Again they worship
+Adityas headed by Indra and to Rudras along
+with Vasus.
+
+Sat Ve: Bisa yeni a get ge:
+
+vagal firauka act arferefererati ¥& 11
+
+WER Tet at feeueay: wa:
+
+sree fear fate: yoaeeTT:1 vion
+
+gyasel ween after aah:
+
+SEMAaTaa ATA
+
+ren Gar anaheise aaa se
+
+Varistha!, the highly fortunate one, gave
+
+birth to eight (sons) who were adored by gods.
+
+Harhsa was the eldest and the youngest was
+another. The middle ones were Haha and Huhu.
+
+1. Eight daughters of Kasyapa and Varitha— Pauranika
+Kosa, pp. 12, 20, 23, 30, 31.393, 528 (Vayu Purana
+69.48).
+
+## Page 48
+
+44
+
+Vayu-Purana
+
+The fourth was Dhisana and then Vasiruci was
+born. The sixth one among them was Tumburu
+and thereafter Visvavasu. These divine artists
+have been illustrated as of sacred
+characteristics. Arista gave birth to eight
+daughters (named)- Anavadya, Anavasa,
+Anuvata, Madana, Priya, Aripa, Subhaga and
+Bhasi.
+
+wladt Ga a PA’ yA su
+wsaeiern fran dharedisearat amuse
+
+Manovati and Sukesé were the two
+daughters of Tumburu. The following ten
+celestial and divine Apsarsas are called
+Paficaciidas i.e. five-crested ones.
+
+Tran wes a Ufo gfsrereem
+gaan garat a ferret yeteiteafin
+weteaaeIMsPaT aa UN y ott
+They are~ Menaka, Sahajanya, Parnini,
+Puijikasthala, Ghrtasthala, Ghrtaci, Visvaci,
+Parvaci, the one well-known as Pramloca and
+Anumlocanti likewise.
+
+srfeerrene St ATAU Tt
+BU: Balraangt sayeenr|aght BAT & Bt
+
+From the thigh of Narayana having no
+provenance and death, there took birth Urvasi
+remembered as the eleventh, having faultless
+limbs in entirety.
+
+trea tren we geruit wads:
+wats gerne werdnay a: BAT 4 2
+
+Menakaé was the daughter of Mena,
+delightfully engrossed in meditating upon
+Brahman. All of them were Brahmavadins, well
+known as Mahayogins.
+
+Ton aearat GMa: yoo & agéw
+SAM: MTT TOT IT AEM Y 3
+
+The ganas (groups) of Apsarsas are well-
+
+known as fourteen. Among these fourteen
+
+groups, Ahitas is the first and Sobhayantis is
+the fourteenth,
+
+FeO AAT: SM: TARA TY: Ya:
+arrereafterean Sateen & ¥ 1
+Ahitas are the mind-born daughters of
+Brahma and Sobhayantis are Manu’s daughters.
+Vegavantis are the daughters of Arista and
+Agnisarnbhavas are the daughters of Urja.
+(gama whe ea: Qa:
+Wee ATT FATA BS: YT GU
+Born from the rays of the Sun, nicely
+illuminating are the Ayusmatyas. They deserve
+
+to be known as Kuravas or Kurus, the
+auspicious ones.
+
+UReaT: YT AM RATATAT ET:)!
+
+afta wyMeTA aya ATA: ATG GH
+
+Born from Yajiia are named Subhas,” the
+
+fires common to the character of Hymns of
+Rgveda. The groups born of water i.e. produced
+from Amrta (nectar) are remembered by the
+name Amrtas.
+
+STRAT at ATT yf way a
+fagnay wat at gett: eens Sat 401
+Born of Vayu are known as Sudas, those
+born of the Earth are known as Bhavas, The
+groups named Rucas are born of Vidyut and the
+daughters of Mrtyu are Bhairavas.
+vies ares ton: wreTgayT
+aatts: gent eafagaaftarny cu
+The group Sobhayantis have the attributes of
+Kama (Cupid). Thus the ganas have been
+spoken of as fourteen. They are formed with
+exquisitely superb beauty by the groups of
+Suras including Indra and Upendra.
+
+rem wera fect ard fae
+
+TeOnfagusra tart waren
+ATA TAT STAT STHLAAAT 4 <i
+The divine lady Tilottama is of auspicious
+features and extremely blessed. From the fire
+altar of Brahm, the celestial damsel Prabhavati,
+
+## Page 49
+
+Chapter-69
+
+45
+
+richly endowed with beauty and youth and well-
+known in the Universe, was born.
+
+adaeraqea ugdeaer dea:
+are Aearit AT YATE HATTAT & ott
+The divine damsel Vedavati by name, highly
+beautiful one, born out of the bottom surface of
+the altar of Caturvaktra (ic. the four-faced
+Brahma).
+
+wen wae seat Beater
+men Tar Saat Yow g Vi
+
+And likewise the daughter of Yama (Surya),
+endowed with puberty and beauty, named
+Hema! has the lustre similar to excellent gold
+and possessed youth and beauty.
+
+sat aguled aa waTT: |
+RaaATTa UT ST TAT TTT FG VM
+This way existed the groups of nymphs
+radiant in many thousands, the wives of Devatas
+and Rsis and their mothers as well.
+
+Prrrranigy waters: FAT:
+
+daar g area arate afett fern
+
+aravarerad Beterrear fereehan & 3
+
+All the Apsarasas are equally fragrant with
+
+the complexion of Campa. In communion with
+the consort, they are inebriated without
+imbibing wine. From the touch of those
+damsels, their pleasure increases.
+
+(wae ane Ye te: Tat TTA:
+adaera det aeda arguing wil
+In Parvata and Narada the semen of
+
+Prajapati got split up. Parvata took birth
+therefrom as also Narada.
+
+maddie da qitnseenit Ban
+
+1. Pauranika Koga, p. 553. A nymph of Indra having
+Svayarn Prabha as fixed whom Maya abducted.
+Indra killed him and offered all abodes in to
+Rksabila her (Hema).
+
+2. Michelia Champacea.
+
+Raeet (2) weer aferarcawddty ng 4
+
+Of the two, the younger one, the third
+(progeny) was known as Arundhati. The birth
+of Sirya came out of Devarukhya and from
+them of Narada and Parvata.
+
+fararang Yat graeur WEEE Zl
+welagry Wane ada A: ATG KU
+
+Of Vinata, the two sons were Varuna and
+Garuda who had thirty-six sisters. They are the
+younger ones remembered as such.
+
+Treat waif atocfees vier: 1
+wearer waitin fay afenha an gon
+
+Gayatri and the other Vedic metres, the birds
+pertaining to Suparna i.e. Garuda, and also the
+Havyavaha (bearers or vehicles of sacrificial
+
+oblations) established in all the quarters (pertain
+to Vinata).
+
+agai & UTA!
+aprafgrcat Fut Gero ware
+age arena wrerereg Frater & oti
+
+Kandi gave birth to a thousand of Nagas
+(serpents) both mobile and immobile. They
+were having many heads, the sky rovers, the
+great-souled ones. They have many names and
+learn the chief of them.
+
+Fai MEETS Weary feareret: |
+Tavita Heer AeA STEMI 8H
+tuaanenet aracraargat
+
+dee vga wales 9 ot!
+werent were qreTgacTeat
+
+HAN: YET GAT SSAA 8 2
+fereitgat efinga: arctta: ynfefiusa:1
+fargura: QoS teal ATTATTIUTEAATIN 9 211
+aftremathesy gare easT:|
+
+wale: walfeaey Treratse wafer: 19 3
+aga: GRIT a Afinfetaraa: |
+SRSA TAT AAT: GTA Fata wi
+
+## Page 50
+
+46
+
+Vayu-Purana
+
+Among them, the chief Nagas are— Sega,
+Vasuki, Taksaka, Karnira, Jarnbha, Aiijana,
+Vamana, Airavata, Mahapadma, Karhbala,
+ASvatara, Ailapatra, Sankha, Karkotaka,
+Dhanaiijaya, Mahakarna, Mahanila, Dhrtarastra,
+Balahaka, Kumara, Puspadanta, Sumukha,
+Durmukha, Silimukha, Dadhimukha, Kallya,
+Salipindaka, Bindupada, Pundarika, Naga,
+Apirana, Kapila, Ambarisa, Dhrtapada,
+Kacchapa, Prahlada, Padmacitra, Gandharva,
+Manasvika, Nahusa, Khararoma and Mani and
+many others like them. The’ sons of Kandi or
+Kadru have been illustrated by me. You may
+know of Khasi now.
+
+vam feat gat at faget yeareait
+Se vErterat yea ATTATI 4 I
+Khasa produced two sons well-known as
+
+man-eaters. The eldest was in the latter number
+and the men in the east!
+
+fachied ferent a yd aissrergaa
+
+agit ugeré faaett fearaferieg it
+
+walgeeet Tey TAT HET
+
+weit weraot qacayt TTToN
+
+wea deve o sede were
+
+watag weet a wered chateaus
+
+Toe farfract a werd werGEH
+
+weifeet Gre Ost feat Ars fertrorTi ee
+
+At first, Khasa gave birth to a very terrible
+
+son of the following description. He was
+excessively red in colour and devoid of ears. He
+was four-footed, four-armed, two-crested and
+two-gaited one. He had hair all over the limbs, a
+fat-framed one, had an elevated nose and a
+bloated belly. He had plump crest, huge ears
+and the hair of the style of Muija grass. The
+lips were like those of an elephant. He had
+longer thighs, horse like formidable jaws, red
+tongue, matted locks of hair and shaggy eyes.
+The face was huge and the nose long. He was a
+
+1. The second line of this verse seems obscure.
+
+Guhyaka. The ears were variegated in colour.
+He was extremely delighted and had a great
+face. To such an extremely terrible son, Khasa
+gave birth.
+mane fata g Ge da oa
+fayind a frog a Breet Hoe cot
+Khasa gave birth to his younger brother, a
+second son, having crest triad, feet triad, hands
+triad and having dark eyes.
+waar eftamny frremdert gon
+Bae Yay A WeAres ASTaATAI ¢ gut
+The hair raised up or erect, the moustache
+was green in colour and his body was as firm as
+a rock. He had a pigmy body, good looking
+arms, a formidable or stupendous figure, highly
+strong.
+
+aranigttaret a cred wera
+wypionedy u fahrg vreepeciarc UH
+His mouth was open up to the ears. He was a
+longer-browed one, a flat-nosed one, flat-lipped
+
+one, flat-jawed one, two-tongued one, and had
+ears of the norm of spikes.
+
+fugetagerat afeet faget wet
+
+verenf were afee ayer
+
+afadt chfenitd ar ate weaeaiic 311
+
+His eyes were red and tawny-coloured. His
+
+complexion was tawny. He had matted hair,
+huge ears and broad chest. He was devoid of
+hips and the belly was slender. She gave birth to
+the younger brother who had claws and whose
+neck was red.
+
+Wa: wean g faget aw war:
+sairranabar wiargaferdtn
+wetstafagargt wat waywATTI Cc v1
+
+Instantaneously after the birth, the two
+developed or grew as per dimensions. Their
+bodies were fit for sensual enjoyments and they
+were fully mature. With their bodies thus
+developed, they embellished their mother.
+
+## Page 51
+
+Chapter-69
+
+47
+
+sarang a: AAT Urat Aisvereia
+wrens ware gees fet: 4
+The elder one of the two was a cruel one. He
+dragged his mother on all sides and spoke out-
+“O Mother! I stand tormented by hunger. Come
+along for the purpose of eating.”
+
+aera Sratd g afea:1
+apdieaisege 4 wai at GIT
+mga ofa aret at TAA Cg
+The younger brother, then, interdicted the
+elder one and spoke to him repeatedly— “Guard
+
+this mother Khaga, our mother”. Seizing him
+with both the arms, he released his mother.
+
+Ware are J migucert: fin
+& opr fagerant avai serra coi
+During this very time, there father (sage
+Kasyapa) appeared there. Having seen them in
+hideous form, he said— “Both of you stay here”.
+
+at g a fiat opt aeanit aura
+Agta Gans wevdat TAHT Sct
+
+And those two strong ones having seen their
+sire, began to lisp, clinging to the lap of their
+mother, by means of their Maya.
+
+aorgdighrutatranangmaatal
+warned area adarssvat cata ¢ eu)
+
+Then the sage spoke out to the spouse—
+“You may reveal at the outset, how these two
+misbehaved.
+
+Tage sad ga: fieraft are
+AMV AAA TAVITA: SoM
+
+A son adopts the traits of his maternal uncle
+
+and a daughter resorts to the parental ancestors.
+
+A son adopts the same conduct of life as that of
+his mother.
+
+ment q waqufirergut weet gam
+rath viterereor ae vite: YA:
+fafirarg sor: water wanfragrs ag
+
+Of what colour may be the earth, of that
+same Varna (or colour) shall be the water to be
+sure. By the defects of the conduct of mothers
+and that very way by the merits of the conducts,
+all the progenies become distinct as such
+likewise under the exigency of repute.
+
+aersirenfefireararatetaetiaenn
+
+“Trenton fafa weneherenfert
+
+aivitentetda watrarcrenterttn e 2
+
+Among all wives, Aditi became attuned to
+religious duty or good conduct because of her
+inherent strength. She is endowed with piety,
+good conduct, enlightenment and strength,
+
+Taviten aansfter wrargitet eq: AT
+farat g Greet Aererafativatn eat
+Arista is interested in music. Danu is
+
+remembered as fond of magic and illusiveness.
+The descent lady Vinata loves aerial movement.
+
+mates vies qe: aacigeM
+IATA TT cg: HATHA TCTAT ex
+By the conduct endowed with austerity,
+Surabhi became adorned as such. Kadri is of a
+
+furious temperament and unpleasant conduct
+due to anger.
+
+wargarn: vite & augrecerory
+a a Sfa ment ategiten TaTsfat ney
+The conduct of Danayusa is pre-requisite of
+both enmity and blessing. And O Devi! The
+fortunate one! You have been considered as
+Krodhasila (of furious temperament) by me.
+
+seat wayitenfa Trae
+att andl Gan wart sere
+aarrcdta Firat enfeaaiacs a eat
+
+Owing to the observation of conduct of
+other men or owing to their actions, the children
+adopt or change their character naturally. They
+are different in their activities, intelligence,
+features, strength and forbearance. Changes
+occur due to the force of the objects conceived.
+
+## Page 52
+
+48
+
+Vayu-Purana
+
+Traramigaaran: rar:
+Urge aTaATS Grear Tura faa: gon
+The forms of the whole Universe are by the
+instinct of Rajoguna, Sattvaguna and
+Tamoguna. Your sons have followed their
+maternal uncle in their character and activities.”
+SMAgRAT Wraaaaaat AAW
+Yararge aren af was Araesaa:( 7) ecu
+This way having said Bhagavan (the
+adorable) unto Khasa, the unparalleled one, he
+summoned the sons and made them fearless by
+means of gently words.
+
+ANAT a cha TATTETAW Ae TIT
+Weal ae Ware at aat yaa
+aa erendattts araayit wane ne eu
+
+Then Khasa spoke out what had been done
+by them to her. As the mother narrated their
+activities severally, the sage who saw the truth
+gave them names according to the meaning of
+the roots.
+
+Te gag ad GIS Ba TA:
+WAIQMA TATE TARTAN Ro o lt
+
+The root yaksa is derived from “Khadana”
+
+and “Krsana” i.e. eating and dragging. Since he ,
+
+said Yaksaye i.e. I will eat, be will be a Yaksa.
+
+we gee aga: Tere a favre
+saad wang we wat we
+ASS TATARSTAN AAT TATSSTTA: It Rok
+The root raksa means “to protect”. Since he
+said “Guard my mother Khasa”, on that account
+your second son will be known by the name
+“Raksasa”.
+a aa afgerggr faara g aah: fie
+wen antares a geet UGH TAH Ro Bt
+agut aftr epr fafena: aftyra a
+Aa: wnfewrerat waTafAT TTA Qo 3A
+The Prajapati then having seen them of that
+type, having understood them as the sire of
+
+those two, and likewise having understood the
+forth coming sense pertaining to the mother of
+the two, having seen those two as hungry
+astonished as such, and having looked for,
+enjoined the food for the two as the blood and
+fat.
+
+fae at agfardt opr at art aatdah
+qaatgerterygit wate g wae gown
+The father having seen those two as hungry
+
+conferred this boon on the two- “Only at night
+can your hands feel the touch of anything.
+
+amenfaent a fearaciotiri
+We da aciaiet anaareet garq yout
+You will move about and take your food
+during the night. By day, you will be enjoying
+sleep. You will be powerful during the night
+and will be sleeping during the day time.
+Tat tard da varie
+SIRT HVAT: Yat IAAT 20 G 1
+You may guard the mother and follow the
+righteousness as such.” This way having spoken
+to the two sons, Kasyapa became out of sight.
+ma feat at ait fants ereuit
+fauedtior acai farmed wrftrfzerati goo it
+weraett wgrerct werent gureat
+Hae a eyat aaTaATATAUT 20.61
+The sire having gone, those two heroes
+instinctively cruel by instinct, began to behave
+and do what was exactly opposed, became
+eaters of whatever (available) beings and
+harassing living beings. They were highly
+powerful and highly spirited, having stupendous
+figures and invincible. They possessed the
+illusive maya power. Sometimes they would be
+visible and immediately they would vanish.
+
+at arreafion dnt fagfagt wera:
+wageteant: wecarqurafii go ett
+
+These two assume forms voluntarily or at
+will. They attain hideous form instinctively.
+
+## Page 53
+
+Chapter-69
+
+49
+
+Both of them became powerful by means of
+their diet in accordance with the forms.
+
+Zarquyisa wraith
+
+fargretiar ayers warPaferor: WEN RRO Il
+
+carinfa ferardt adaeit Freeh
+
+BAM J at Ga gal gray aA geen
+
+They used to move about at night
+
+everywhere and for their food they were
+desirous of seizing Devas, Asuras, Sages,
+Gandharvas, Kinnaras, Pisdcas, human beings,
+Pannagas (nagas), birds and beasts. They were
+given the boons by Indra of not killing.
+
+mar’ a Halter Fryer werner
+Mer A Vea RATTAN BU BVM
+Once that younger Yaksa, was wandering
+
+alone at midnight, desirous of getting some
+food. Hearing a sound, he followed it.
+
+arrange firgret gt aquvt a argut
+fagenqehiarit geet J Yereuin gaan
+
+He came across two Pigsacas~ Janu and
+Canda, both of them being crimson-chested,
+erect, curled ones, roundish-eyed ones and
+highly atrocious.
+
+aygeniaeeent yeurdl were
+ararat afedt at g avert fraferariam evn
+
+Their diet consisted of blood, flesh and fat.
+They were man-eaters and highly powerful.
+They were accompanied by their two maidens
+with a desire to do what pleased them.
+
+% ae arraitual agra wa Wa
+srentitest at aarat afemgain 924 1
+
+Though the two maidens were splendid in
+appearance, their behaviour was like that of
+their father. They were wandering for the sake
+of food in the company of their daughters.
+
+ASUPaTA Aa ATTA Teva!
+BEAT Aaa F SAT Aer TTT LRG
+Twat wise were:
+
+farnquy: wat qarrmad ga geo
+There they saw a demon, a self-assumptive-
+formed one and highly powerful. As they met
+one another accidentally, they wanted to seize
+the other and save themselves. The father told
+the daughters- “Seize this young fellow alive
+who is throbbing at every step and being him
+here quickly”.
+Stamm faye fergrd we vat
+aa: Waheed at WyEGeTaN
+Yelear gaara fagaafan eget
+Having caught this one alive, shuddering at
+every pace and having crawled on collectively,
+the two maidens caught hold of him. Having
+caught by both the hands, he was taken to the
+assembly of their father by the daughters.
+angi at ald & faye Tareq
+yeaat aisha Het a A a WAAVTAT RVI!
+To the demon caught by the hands of the
+two, the two Pisacas inquired as to who you are
+and whose son you are? And he replied them
+everything.
+wer aenifinfergne eat ait aren
+sare GUS TAT werTaMAt YAU Voit
+at gat atom wee aa Fea an ze
+His antecedents were known. After knowing
+him as the foremost of Raksasas, Aja and
+Khanda, the two Pisacas who were satisfied
+with his activity, offered him those two
+maidens, their daughters.
+
+eres farang Gert Faarez:|
+St; usa At at aapareaaAT IAT RU
+By the Paigaca mode of nuptial with the fine
+
+toothed one, the Raksasa married those girls.
+Aja and Khanda then recounted their wealth.
+
+ga Geet aa aU eT Weiien
+TARA Set AVS TST 22 3 Ml
+
+“This Brahmadhana named is my daughter,
+devoid of hair and has Brahmanas along with
+
+## Page 54
+
+50
+
+Vayu-Puraga
+
+their wealth as her staple diet”. This way did
+Khanda declare.
+
+=a aT aa aa wale
+FAAS TATA TATU AIA
+“And this Jantudhana named as such, is my
+lovely daughter beautiful in all limbs. All the
+animals are her diet and wealth”. This way did
+Aja declare. Thus both of them narrated the
+wealth.
+
+aaigtagt AT a aT SEAT MT
+THUTSENT UT HAM TET F AMR
+The daughter Jantudhana had another name
+Sarvaigakesi', The maiden devoid of hair and
+tip of the ears happened to be Brahmadhana.
+Fert vem Tact da aa
+a fagreett & fae & waar
+wat: sonferrt a gadt & Frater 22 au
+That one gave birth to a boy Brahmadhana
+and a girl Tattvala*. This way the two daughters
+
+of Pisacas gave birth to two twins. Listen and
+understand even as I narrate their progeny.
+
+Forges (7) dete aaa
+
+faephide arg amit emda an ez!
+
+Bags TATA Ba AGIA EIT
+
+wiengan aa ae ta gat a zen
+
+Heti, Praheti, Ugra, Pauruseya, Vadha,
+
+Visphirji, Vata, Apa, Vyaghra, Sarpa— these
+were Raksasas, the ten sons of Yatudhana. They
+were the followers of the Sun and they whirl
+along with him.
+
+Raye cegpeigtelea area
+uieaaig guret a wegeraTTI
+wegata: siterazetrr arate: 92 eH
+The son of Heti was Lanku and of Lanku
+were two sons- Malyavan and Sumali. Now
+
+1. One having hair on every limb.
+2. FE WEA a dere a (HRT) for FTE an
+error, verse 125, pada 2.
+
+you hear about the sons of Praheti. Praheti’s son
+was the illustrious and well-known Puloman.
+
+aagat giant face yr
+faye Gee SAAT ATT TATA
+
+The two sons of Vadha were wicked-
+conducted ones, Vighna and Samana and son of
+Vidyut also ill-conducted one, a Raksasa named
+Rumana.
+
+eapigar fares aa dt werTara:
+SIAgaT FAITE STIG STH: 11 23 01
+And Nikurhbha was the son of Sphirji who
+was ruthless Brahmaraksasa. Vata’s son was
+Viraga and Apa’s son was Jarnbuka.
+aga Fast Sat farerare:1
+SAT ST TTT: AT: WS | TATA 3 UM
+Vyaghra’s son was Nirananda, the creator of
+hurdles for all beings. Thus all those highly
+
+attacking and cruel Raksasas have been
+enumerated.
+
+alfa agar seerrfaatet
+
+aa: fir ght: Sat ger wrdse AMT 23 I
+
+Taraen: afer: oat TEATS ST
+
+AAT TERT VT: YATRUT: NB BU
+
+Yatudhanas have been mentioned. Now
+
+know about the sons of Brahmadhana. Yajfia,
+Pita, Dhuni, Ksema, Brahma, Papa, Yajiiaha,
+Svakotaka, Kali and Sarpa were the ten sons of
+Brahmadhana. The sisters of Brahmaraksasas
+were quite treacherous as such.
+
+Traut werfareisarn edatverttorn
+UaUaY Tet: yfseat TATA: 3
+They were— Raktakarna, Mahajihva, Aksaya
+and Upaharini. Brahmaraksasas were born of
+their families on the earth,
+
+VAONTRATAT WAY FATA: |
+Sea TAT: HRT BareMty FraterT 23 4 tl
+
+On the Slesmataka (Cardya Myxia) trees,
+they have their abodes normally. This way these
+
+## Page 55
+
+Chapter-69
+
+51
+
+Raksasas have been enumerated. Now know
+about Yaksas.
+a screed Tet: ret am
+at foregirrarer Tet WME TURN
+aunt ahi da wen dad wT aq
+WER wen aferacatiis: wera een
+Yaksa cherished desire for the Apsarasas
+(nymph) Paficasthila (stout in five limbs) or
+Kratusthali. Yearning for her and desirous of
+securing her, he wandered in parks of Nandana,
+Vaibhraja, Surabhi and Caitraratha. In the park
+of Nandana, he saw her seated along with
+nymphs.
+ator fered aa wen cera fer
+afta: er wt acto Fa fn eae
+He did not get to any resource of her
+acquisition despite his pondering, because he
+was tarnished by his own form, he was
+tarnished by his own corrupt acts.
+
+Wifasra anit wenger Wat:
+
+ae AT TST ETAT 23 Ul
+He thought, “All living beings are afraid and
+disgusted with me who am noxious and hurtful.
+Then how possibly shall I get this maiden of
+beautiful limbs?”
+
+aBrard aa: Bisa vitgeardt orate
+pel wi agetacke | Tea
+aa: Biscarat We at STE HTEICTAN evo
+Having thought of a plan, he hastened to put
+it into action. Having created the form of
+Vasuruci Gandharva, the Guhyaka (Yaksa) then
+caught hold of that Kratusthali from the midst
+of other Apsarsas.
+geen agefe fa sratarezraa
+Maa: Baar Ue SaaS TATA: 1 gw a
+Having recognised that one as Vasuruci, she
+followed him with emotional attachment. Even
+as he was being observed by the group of
+Apsarsas, he was embraced by her.
+
+wa Gfagan: wet ota: Ysera
+uftondrapckhe: wet get sacra ev 2
+Thereafter having senses well accomplished,
+a son of full-fledged sense-organs and height
+was born to him instantaneously. The new-borm
+was brilliant in his own glory.
+Tensetata aise frat AtssaeTET
+Fara Ste a Sia: fret ft oeqara Bn evant
+“T am a king, I am Nabhi”, he spoke like this
+to his father. The sire spoke to him, “O Sunny!
+Since you are born, there is no fear for you”.
+TRISPa wor feqafeor saa
+are a aferetior Tae WATE gw wl
+Since the son was quite suited to the mother
+in form and father in valour, Yaksa was
+
+overjoyed and due to that exultation regained
+his original form.
+
+eau witaerd Get WeTTTAT: |
+fraaron: wetter Haat tte: wafers awe tt
+The great Yaksa and Raksasas regain their
+original disposition while dying, when asleep,
+infuriated or terrorised and when overjoyed.
+MSTA MA: A Tea
+We res Yao ayat arate ewe
+Then that Guhyaka smilingly spoke to the
+Apsarasas~ “May you go to my house along
+with your son, O beautiful-waisted one! O
+comely dame!”
+Sel Wea Fa GET ea SUA
+fagren: seater: ReTTEARATIT: tl Pvt
+On seeing him who regained his original
+form suddenly after saying this, all the nymphs
+were furious, perplexed and frightened and they
+fled.
+Texter Uret araafann
+Taratercat wet at airat waa evel
+
+Kratusthali followed the Apsarsas who were
+fleeing. But the son consoled her with his
+
+## Page 56
+
+52
+
+Vayu-Purana
+
+speech. He took- her to the middle of
+Gandharvas and Apsarsas and returned.
+
+at a apr ageahe aareatat TT:
+Tat et wef sree I AgeTiTTN exe
+And having seen that generation of Yaksa,
+
+the bevy of Apsarsas spoke out to Kratusthali-
+“You are the generator of Yaksas”.
+
+SET BS YA aay wat: AAT
+
+mateifeot At Tera aa SA
+
+aftafwarat aarti =atta: wea: Fras gy ont
+
+Then, along with his son, Yaksa proceeded
+
+to his own abode named Nyagrodharohinah
+(established on the holy fig tree) where
+Guhyakas used to sleep. Therefore the
+Nyagrodha tree is always a favourite place of
+residence to the Yaksas.
+
+wal TANT Yeart fray:
+
+ages cera agmafratt Far
+
+sey a agai Tet afoTaT ay By eH
+
+Fa AT ato a WeRGeTTTAA
+
+wat: Ueat attra gq areas BAN Ay
+
+The Yaksa named Rajatanabha was the
+
+grandfather of Guhyakas. He married Bhadra,
+the excellent daughter of the Daitya Anuhrada.
+She gave birth to two sons— Manivara of good
+self-control and Manibhadra, the one having
+prowess like that of Indra. The spouses of these
+
+two brothers were sisters, the two auspicious
+daughters of Kratusthali.
+
+are quart da wat gacrit @ an
+faa aforagry garquasrtt Wea e431
+
+Their names were Punyajani and Devajani.
+To Manibhadra, Punyajani gave birth to the
+following sons of auspicious disposition.
+
+feat gts a gest at wT
+wath Uferch cea wfored TH TAT RG eI
+walgai wg a fagei sireta a
+
+Aa HC FT Vel TT FATH ky 4H
+
+taget gus a waht a aetsraT
+wfemeagrrit a fie tifergagritn gy gu
+They were— Siddhartha, Siryateja, Sumanta,
+Nandana, Kanyaka, Yavika, Manidatta, Vasu,
+Sarvanubhita, Sankha, Pingaksa, Bhiru,
+Mandarasobhi, Padma, Candraprabha,
+Meghapirna, Subhadra, Pradyota, Mahaujas,
+Dyutiman, Ketuman, Mitra, Mauli and
+Sudargana.
+went fagfagda gat: qoeset: YU:
+wR afore ae quae:
+Rat Goes Water Aa: WHAT: FAT: Ryo
+Thus there are twenty-four auspicious
+Punyajanas born to Manibhadra. They all were
+of sacred characteristics. Their sons and
+grandsons were the auspicious Yaksas and
+Punyajanas.
+feat tart yarafreesTa
+wos eral aioreafgait CYA
+
+Fa a faget ta yooh HATA eG SH
+waaul Ga w ual atet ach FET
+wad aud da alas ae SAT Ron
+TRAM aug a Yat fart airy
+qutard fecoenet Gad aeqaTea 1 2g vi
+Devajanani bore to Manivara the following
+sons— Pirnabhadra, Hemaratha, Maniman,
+Nandivardhana, Kustumburu, Pigangabha,
+Sthilakarma, Mahajaya, Sveta, _‘Vipula,
+Puspavanta, Bhayavaha, Padmavarna, Sunetra,
+Yaksa, Bala, Baka, Kumuda, Ksemaka,
+Vardhamana, Dama, Padmanabha, Varanga,
+Suvira, Vijaya, Krti, Pirnamasa, Hiranyaksa,
+Surdpa, and others.
+wat aftrarede war a een: BAT: |
+gen frame aftam: freagat: i 2g 80
+Rat Gawr Wawey Mays ASAT Vg BM
+These sons of Manivara are remembered as
+Yaksas and Guhyakas. Some are handsome and
+
+## Page 57
+
+Chapter-69
+
+53
+
+some are ugly. They are garland wearing ones
+and good looking ones. They had hundreds and
+thousands of sons and grandsons.
+
+EMAAR YaT TATA: ATRAHTTT: 1
+
+Ret aor WEARS qoaMTPAaAATH 2g wt
+
+Of Khasga, there were other sons who
+became demons (Raksasas) of self-willed
+physical transformations. Listen to and
+
+understand the important ones among them as
+they are being narrated.
+
+crenfa: get sia: gureit ayta aI
+feraghctat ferafoargt wrath efter 96.40
+aah: Yad ga: after: weras:)
+wis: Wega comes Fryar: 11 96 GH
+fafgnr: wadps ques TaN:
+magma eteey feet: u eg .ou
+They were- Lalavi, Kuthana, Bhima,
+Sumali, Madhu, Visphirjita, Vidyujjihva,
+Matanga, Dhimrita, Candrarka, Sukara,
+Budhna, Kapiloman, Prahasaka, _Kroda,
+Parasunabha, Cakraksa, Nisacara, Trisiras,
+Satadarhstra, the Raksasa Tundakesa, the Yaksa
+Akarnpana, Durmukha and Silimukha.
+gad verdad fear Torafaar:1
+Pact YF Hey TAT AAEAATE RG CI
+These great Raksasas were heroic. In the
+form of groups, they move about in all the
+
+worlds. They have the ability to move on equal
+footing with the Devas.
+
+Be SRM Slane: TOA TITHTAT!
+arate a: werent Fa area AUT 8g <
+She (Khasa) had seven other daughters.
+Hear about them, their progeny and the groups
+formed by them as per serial order.
+area seer Fan Fae after frre
+Sit a weraen ater: Wat A: BATH
+Alarhba, Utkaca, Krsn, Niryta, Kapila, Siva
+and the greatly fortunate Kesini were the seven
+sisters who were known as such.
+
+areat cenftares eat yaguer:t
+sahot cererTon ga Fafa: YT oA
+From them, the consumers of the flesh of
+men, killers, highly proud for warfare, ferocious
+and auspicious groups of demons were born.
+
+TAA ToT: AX SeReA TOTEM
+AAT TAMIA TAT DAA TOT: 11 LO
+The group of Alarnbeya was cruel as also
+
+the group Utkaceya. The groups of excellent
+Raksasas were the Karsneyas and Saiveyas.
+wae Saat are area ZI
+senfea: Warat TOprTAtAT FN ost
+The group of Raksasas called Nairrta
+comprised the progeny created by leading
+Ganesvara who was the follower of Tryarhbaka.
+
+verter aera sett aerceraT: |
+faarm: vithioat aa Face:
+Aarafrafetea ATT Garett faT 11 Yow
+
+These ferocious Yaksas and Raksasas were
+procreated by the powerful and heroic
+GaneSvaras who were equipped with valour.
+These Devaraksasas, the Nairrtas had the well-
+known Virdpaka as their leader.
+
+Tat WONT SAAMI WET
+WAT REA viet WTA: ATTN Vou
+Among those great souled ones, the
+
+pernicious ones, many hundreds mostly follow
+Sankara, the lord of the Universe.
+
+Sens BA Tera TETAAT
+
+SeMnfee Meet ASTACTATAAT: 11 YOK UH
+anfaetar meratat sett Seacerat:|
+went Baar HM WE BAT: Yvon
+SMTA AAT STOTT AAATATAT: |
+drtighegia tern: ERAT: Vet
+arena afer far: Beets fe
+
+Fem sft WareTaT sata UrefaHAT: oe
+
+By the great-souled Daitya king Kurhbha,
+
+## Page 58
+
+54
+
+Vayu-Purdna
+
+the Kapileyas, the Daityaraksasas of great
+power, huge body and exploit were procreated.
+The Yaksa Kathpana begot of Kesini, very
+powerful Yaksas and Raksasas. And Nila, the
+daughter of Kesini gave birth to many Raksasas
+of petty mentality from Alarhbeya Surasika.
+They are called Nailas. They were invincible
+and were terrific in their exploits.
+
+aha vfadt geet aa a Facile:
+
+ageteda wher tat ag A WaT Ve onl
+
+Endowed with divine and worldly power,
+
+they roam about on the entire earth. Since they
+are enormous, the detail of their creations is
+impossible to narrate.
+
+meareafa a stern fare are wereh
+Seer Cantata AAT HAT Re RU
+The same Nila had a daughter, the demoness
+(Raksasi) named Vikacd. She was naturally
+devoid of hair and possessing mediocre strength
+and exploit.
+
+wen aft fetus a wT
+sane: GU (?) art: Ty areaqyayr
+
+The same Vikaca gave birth to many terrible
+Asuras by the contact of the ugly Nairrta. Now
+listen to them in due order.
+
+Sprauctage Wert Weta: |
+
+erat ttwcle ata wrreat: an ee an
+Srreney firgrrenay argeat: sreTeRT: TU
+afimaraat Sa Wet: Youtawar:n ex
+
+Having deformity of terrific or hideous jaws,
+huge ears and bloated bellies, they are-
+Harakas, Bhisakas, Kramakas, Vainakas,
+Pisacas, Vahakas and Prasakas. These are
+Bhiimi-raksasas (earthly demons). They possess
+manly exploit though slow-witted.
+
+AGES ATT BHI: |
+sepa FA as VAT: Wa weqn
+They assume multifarious forms and roam
+about unseen by others. Those whose strength
+
+and energy are excellent and extraordinary are
+known as Khecaras!.
+
+PATA UssaTet eM: Tact aa B
+Udeatatint cites wragiise MEAT RS KI
+Those who are diminutive ones, they move
+
+in the sky to a small extent. This world is
+pervaded by these in hundreds and thousands.
+cafirmerach: Baca: exrera:1
+APSARA ATES: MARTA RS OM
+
+By all the Bhamiraksasas and
+Ksudraraksasas (petty Raksasas) of diverse
+forms and shapes, the different countries all
+round are infested.
+
+marae Bet TaTATR:
+agt fawn Sat fe ferera ayer gcc
+Briefly have been illustrated the eight
+
+mothers of the Raksasas. Hence there are eight
+well-known clans of these Raksasas.
+
+sigan Fort: tfresiaeatiegant: (2)1
+aeaRTa ETAT HeeteafereneAT: Re Ft
+
+Some of them, being the source of
+accomplishment of sacrifices, constitute the
+Bhadraka group. They are enumerated in
+hundreds and thousands, roving in the world of
+mortals.
+
+UAT AIGA AAT ATTRA: |
+STRAT ATG Cites HET SATA V8 ott
+There are several terrible Bhitas having the
+same traits as their mother Pitand. They harass
+
+children in the human world like the evil
+planets, causing dejectedness.
+
+EITTS ATTA ATE: |
+ae y fag STAT EGTA: gg all
+The Skandagrahas and the like groups, the
+Apakas, the Trasakas and the like- all these
+deserve to be recognised as Kaumaras, ill-
+disposed towards children like evil planets.
+
+1. The word Khecara refers to one who moves in the
+sky.
+
+## Page 59
+
+Chapter-69
+
+55
+
+erarefagrent mira waa a
+year & a citeaferareraar: 11 22 2H
+Reem ueleirenferenttorg
+wd moarate athe yee ee an
+There are hundreds of the groups of these
+evil Raksasas like the deceitful types of
+Skandagrahas and Bhitas named Pitanas, lakhs
+and lakhs of them roaming about in the human
+world annoying the people.
+Ba: GUAT AT ae FH she TTA:
+aan tale aa GuaAT Ti 29 vil
+There are Yaksas known as Punyajanas,
+
+there are Guhyakas, and still others called
+Devajanas.
+
+Wear a aaa Fa Tea:
+tenet Terat & a feats & aya: 28 &
+All of them are included in the category of
+Guhyakas. Then there are Raksasas known as
+Agastyas, Paulastyas and Visvamitras.
+Bano Tara a Werenreras a1
+Bat UAT WENT: HAT were eee
+The illustrious king Kubera, the overlord of
+Alaka, is the ruler of all these Yaksas and
+Raksasas that are Paulastyas and Agastyas.
+aan eB arte gon wt
+Taragragn fig: afedtst:n egiont
+Yaksas drink flesh blood and swallow flash
+of men by merely looking at them. Raksasas do
+so by entering inside the body and Pisacas just
+by all-round suppressions.
+
+warUURTa: wa tad:
+
+ERT Gera Sa: STTEHATT: 1 Vee tl
+aafinren faa: wdc: |
+gareataftatt tear axer afqener A ee eit
+
+There some beings of the following
+characteristics. They are endowed with all the
+auspicious marks and of similar fields with the
+Devas. They are refulgent and stronger ones.
+
+They are Isvaras of self-willed frameworks.
+They are not fit for conversation, are valiant
+ones, offered homage by the entire world, the
+subtle ones, the florid ones, fit for sacrifices and
+as such bestowers of boons.
+
+lant great weT: wae: BAT:
+fafa: urea teat Bag AT: waTaT Root
+All these have the same characteristics as of
+Devas and are remembered as Asuras.
+
+Gandharvas are inferior to Devas by three-
+fourths of their prowess.
+
+Terhafeta: wedi a aya:
+weregeat cement fagat: WeRTETAT:
+toda aan: frerenferqat Gan go tH
+All Guhyakas are inferior to Gandharvas by
+three-fourths. All Raksasas deserve to be
+recognised as similar in strength to Yaksas.
+
+Pigacas are three times Jess inferior in their
+glory and prosperity than Yaksas.
+
+wa SI agW wae a)
+
+aigdor Gaga FT AT AATTHRA Ro VM
+
+caged dat sharers wey
+
+wreaten: fagrermartat Fara: Zo BN
+
+This way by wealth, by form, by age, by
+
+strength, by duty, by supremacy, by intellect, by
+penance, by education and by valour, the four
+Devayonis, starting with Gandharvas and
+
+lasting with Pisacas are consecutively three-
+fourths inferior to Devas and Asuras.
+
+ai sara
+SA: TY AG Ss WAT: HTARTCTEAT: 1
+maa Sater TY BES MAT:
+Ot rat: YRS SHAT Fata Ro v1
+Sita spoke~ Therefore it may be all well for
+you, now hear the progeny of the family of
+Krodha. Krodha gave birth to twelve daughters.
+
+They happened to be the wives of Pulaha. You
+may know them by name.
+
+## Page 60
+
+56
+
+Vayu-Purana
+
+wh a ger a eftag saath
+ya a afte der fren frat ata a
+Fat te ea da Ua Ae faa: Vou H
+They were— Mrgi, Mrgamanda, Haribhadra,
+Iravati, Bhita, Kapisa, Darhstra, Nisa, Tirya,
+Sveta, Svar and Surasa, this way well-known
+as such.
+Wang efton: Yat: MEM: PeETAT
+aga: wet Fa wa: Jae AUR
+Of Mrgi, the sons were different types of
+deer, viz. Harinas, Nyarikas, Ruras and Prsatas
+as well as such other animals as hares and
+Sarabhas.
+TTT WEST Tea Aa
+HigitpaTE GETTER 2 ott
+The king of beasts was the son of
+Mrgamanda as well as such other animals as
+Gavayas (blue cows), buffaloes, camels, boars,
+rhinoceros and Gauramukhas (a kind of black
+monkey with white face).
+
+Bey Ra: YT Wengerera:!
+
+anu: faruda om: faqearee
+
+saanredisaashy street Fatt Roe
+
+Of Hari were sons Haris (lions), bears,
+
+tigers, hyenas, different varieties of monkeys,
+Kinnaras, Vyaghras, Kirnpurusas and many
+other animals. Now know about the sons of
+Travati.
+
+enuseuret & aria g sitet:
+Beat afoypea WATT 20 B11
+Bhauvana (Visvakarman) gathered two egg-
+like skulls of Sirya. Having engripped them
+with his hands, he sang the Rathantara hymn.
+
+ST WENA Ae Wa TaISHATI
+a worsted art wg lean oM
+Being generated by Saman hymn,
+instantaneously an elephant appeared. He
+presented that elephant to Iravati as her son.
+
+Sua: Yat TerTeTeTad: FAA:
+
+RATATAT: AAAI
+
+Qurareagdg: strrrradt mA: VU
+
+Being thus the son of Iravati, the elephant
+
+was called Airavata. Being the vehicle of
+Devaraja (Indra), the foremost one, that became
+the elephant Lord. It had the radiance of white
+cloud. The glorious elephant Airavata had four
+tusks.
+
+aaa aura ea:
+ager fe var attreres fae: ezH
+Since it is born of water, has a single root,
+six tusks and the lustre of gold, only this
+elephant has the strength of being a vehicle. It is
+of the Bhadra variety of the elephants.
+
+We Vaseade yritaisa arr:
+wada ugaiseg ited arerqeratu 2 231
+
+The sons of that elephant were~ Afijana,
+Supratika, Vamana and Padma. His mate was
+Abhramu.
+
+ferrets ae (q) t: AASTTAAISSYTY
+PT a ws a MAT GT: WARN evi
+
+Sveta gave birth to four swift-footed sons
+
+who became the elephants of the quarters. They
+
+belonged to the varieties such as Bhadra, Mrga,
+Manda and Samkima.
+
+datniswert ag sare wet Fl
+aa a: Uoitarg efter: w Maia yea Ml
+And even belonging to Sarkirna variety,
+Ajijana happened to be the vehicle of Yama.
+Supratika belonging to Bhadra variety is the
+vehicle of the Lord of Waters i.e. Varuna.
+
+walt weg at a feat dears a1
+WM: Pare At TRA Sar: HW Wa Ve,
+Padma of white-complexion, belonging to
+Manda variety is the vehicle of Ailavila
+(Kubera). (Vamana) that happened to be the
+dark-coloured elephant, belonging to the Mrga
+variety, is the vehicle of the Fire-god (Agni).
+
+## Page 61
+
+Chapter-69
+
+57
+
+wale a: walt weit A aeat wT:
+STATA TATE GARE YaT: 1g You
+
+He has eight sons, viz. Padma, Uttara, two
+Gajas, Varuna, Gana, Upalepana and Mesa.
+
+TEMA era TT TAN
+dearer: fagt aelat weagaT:1
+
+TARA APTAATAAT HATH 2 RCH
+Endowed with lofty spirit, they (elephants)
+take birth in that lineage having white hair and
+nails, crimson-hued and physical-franied ones. I
+shall now talk of the inebriate tusker Matangaja
+and other types of elephants in due order.
+
+afte: quite QUAM Wen:
+ait area Gat aat fra 2 Ve
+The elephant Pundarika was grey-coloured
+
+and Rathantara had a flowery colour. Their sons
+were Supratistha and Pramardana.
+Yet: Wet: eTeeraT 2 Year
+afer: wiaadla yarcarepferet WaT:11 220
+There are other types of elephants known as
+Akulika elephants which are spear-shaped,
+stout, with raised heads, having white hair and
+nails, strong and energetic.
+
+WoeRit Tea weet SATETATT
+arauit a aga: aeenfeeafora: 1 2 2 el
+Puspadanta, Brhatsaman, Saddanta,
+
+Dantapuspavan and Tamravarna were his sons
+and companion elephants.
+aaa Ure Set ra TEa A:
+FAT: YavABIST AATTSTAAPAT: RV
+Do get birth in the lineage of this one-
+elephants of beautiful appearance, having
+
+protruding lips, dark-coloured, fierce and
+capable of enduring diverse kinds of ordeal.
+
+Sea SSAA: ATA FAST ATTA: |
+arat darger qer Ateraccerait Gat 22 BU
+
+Vamadeva was as dark as collyrium.
+Vamana was born from Saman. His spouse was
+
+Angada and the two sons were Nilavan and
+Laksana.
+TUSETEAAT SATA: |
+atdar: Get dat sera fagAT TATA VSI
+These tuskers were fierce. Their necks and
+heads were awesome. Their chests were broad
+
+and they were swift-footed. If they are bound by
+men, the elephants born become deformed.
+
+Gaited eto a Bey TTI
+TET WEN Ta yefarhergATT: Ie BG
+There happens to be no elephant comparable
+to Supratika in form and beauty. He had three
+sons, viz. Prahari, Sarhpati and Prthu.
+
+upat dhieeadter: gfareaferten:
+TRA USI AM TET TABATA VE I
+The animals having longer palates and lips,
+equitably well-formed heads and stomachs, take
+
+birth as gentle ones, in his lineage of
+Matangajas.
+SRE A i aa Ue act
+
+wa wre aaante vreTgeA: Gat 2 WON
+From Ajfijana, Ajijana was born and from
+Saman, Afijandvati was born. The mother of
+these two is reputed to be the daughter of
+Ayurajas.
+Taferrafrca: feresitgrdfen: |
+Gaver: Gamat: waren ufeeger:
+WAT: Taraaga Taree TAT 2 PEI
+In his lineage were born elephants having
+highly symmetrical crests resembling bland
+clouds, good looking ones, good-physiqued
+ones, having appearance or gleam of lotuses and
+globular ones all round, bloated ones, having
+faces yellow and longer ones.
+
+ag wane: UA: fager Hye:
+fageren: gat cer TeTeahfinferita 2 Ve 0
+
+From Candramas and Saman were born
+Pingala and Kumudadyuti. From Pingala, two
+sons were Mahapadma and Urmimilin.
+
+## Page 62
+
+58
+
+Vayu-Purana
+
+aaTeeiMerrggarertawy
+ara fravarnPats wer SeiRATTN 23 ON
+The bestowers of boons, Candas (terrific
+ones) having strength spread as such, (bloated)-
+bellied ones, fond of elephant fights, such
+(elephants) you may know were born in the
+lineage of that one.
+Wea Fe Taf Hg: YT:
+parts fergera valent: wagteer: 23 en
+In the course of wars between Devas and
+Asuras, Suras used them for the purpose of
+victory. Having achieved victory, those
+
+elephants were let off by them and they went to
+different directions as mentioned before.
+
+Warraa arenataiereg ees
+agra ciamera Gears & FEIN 32
+
+The gods offered the well-trained elephants
+born in these lineages to Lomapada, the king of
+Anga and Saktakara (the author of a Sikta
+work).
+
+fart farenat a eeraEh Tow
+SLUT Sait STAAL ASAT 1 23 3
+
+Since it has two tusks it is called Dvirada;
+the word Hastin is derived from hasta (hand);
+from the word kara the word Karin is derived;
+Varanat (since it protects) it is called Varana.
+Since it has dantas it is called Dantin. It is
+called Gaja because it trumpets.
+
+Bat: Haeivararh afar:
+Wear arf tragt feat great forage
+art: aTarcenfalet Paar eae
+
+Kufijara got derived owing to the act of
+roving in groves and Naga got derived owing to
+butting against the Nagas trees or mountains.
+Since it is born of Matanga, it is called
+Matanga. Dvipa is (derived) as it continues to
+drink with two (tusks). Samaja (meaning an
+elephant) (is derived) from its having taken
+birth from Saman hymn. This is the serial order
+of etymologisation.
+
+wat franaefaft (%) ard wf
+
+area A F A sar TeyEAAT
+
+wet i NIZAM
+
+The convergeness of their tongues and their
+
+down stooping is born of the curse of Agni. The
+fact that they are unaware of their strength and
+the existence of deep-rooted testicles, both these
+are due to the curses of Svayarnbhii and Suras.
+
+daerareat: firgrearereeran: |
+SAY Bat eSATA TAT: FB U
+Elephants of varied inherent spirits are born
+of girls of Deva, Danava, Gandharva, Pisaca,
+Uraga and Raksasa tribes through their union
+with the elephants of the quarters (Diri-ndgas).
+daft wafte arated vem
+Ueatat feat Aart Tet faery: 230
+The story of Sarhbhiti (birth), Prabhiti
+(power) and the etymology of names of
+elephants whose king is Vibhavasu, should be
+known.
+
+aalfgrenren: ysTy WEAR
+PEARY WaT J ACU IS
+The forest in the east bound by the rivers
+Kausiki and Ganga and the sea belongs to
+Ajijana and the family of elephants of which he
+is the founder.
+
+Sw we faeaes agra afevt aT aI
+TATASRHENA: UTAH TET 23 VU
+North of Vindhya, south of Ganga and in
+between the land of Karusa and the source of
+Ganga is the forest of Supratika.
+amu Maes wT
+TTA Fh BAAN BVO
+
+To the west of Utkala and extending upto
+the land of Vedi is the forest of Vamana known
+as such. He is the sole Atman.
+
+am g cifgemnfaat: warts g
+auedagt stnaqudata ai 2% et
+
+## Page 63
+
+Chapter-69
+
+59
+
+To the west of Lauhitya extending
+westwards upto the sea is the forest of Yama, in
+line with the mountain as such.
+
+afafaaa aria wenger
+wergyig dale area BY
+Bhiti gave birth to Bhiitas who are the
+attendants of lord Rudra. They were flatulent,
+lean, longish, dwarfish, the pigmies and the
+equal-statured ones.
+ean Tae RTa SAT
+Taenferenig orafanrerefafisari 2s 3
+They were long-eared ones, hanging-lipped
+ones, lolling-tongued ones, longer-teated ones
+and bloated-bellied ones; single-formed ones,
+ugly-formed ones, projected-hipped ones and
+hanging-legged ones.
+
+marae ioreanes: |
+POIs Atetier Aetier citfeareurq 21
+They were denizens of lakes, oceans,
+mountains, rivers and shores. They were dark-
+complexioned ones, the white-complexioned
+ones, the azure-hued ones, white ones, red ones
+and crimson-hued ones.
+
+AES Maa TTAATOTEL
+areaprre eager 1S 4 UL
+
+Some were ferret-hued ones, the dappled-
+hued ones, the dusky-hued ones, the tawny-
+hued ones, atrocious like Raksasas and Kadriis.
+Some had dishevelled hair like the Muiija grass.
+Some had hair standing up. Some were serpents
+as the sacred thread.
+
+ferquenfaremergerEratery
+ageiaitaviiviss waitatagiiear 2% 11
+Some having eyes bulged out, hideous-eyed
+
+ones, small eyed-ones, single-eyed ones, many-
+crested ones, ugly-crested ones, one-crested
+ones and some were crestless ones.
+
+ausig faeida favre
+
+wag wfenida Hearsay voll
+
+They were fierce and hideous. Some had no
+hair. Some had plenty of it. Some were blind.
+Some had matted hair. Some were yellow.
+Some were dwarfish.
+
+atarenmierdigierratar:|
+Uaailareranitopegrcnantenfitearyn 2% ci
+
+They were denizens or servers of lakes,
+oceans, mountains and rivers. Some were one-
+eared ones, some were huge-eared ones, some
+were spiked-eared ones and some had no ears.
+
+spn afi sai '
+Re seeaT EA ATAKTATTU 2 wR Ut
+
+Some had fangs. Some had claws, Some had
+
+no teeth. Some had two tongues. Some had a
+
+single hand. Some had two hands. Some had
+three hands. Some had no hand,
+vamratgurais fmreraguecart
+TRA TFAETAAT-YATEAPACTAATL 2 & 0 I
+Some were one-footed ones, some were
+two-footed ones, some were three-footed ones
+and some were many-footed ones. Some were
+great Yogins. Some were highly dignified.
+Some were very strong. Some were of good
+penance.
+TEIN TATaATATTSTTT: |
+ahorgtigs Beaier ferarequarsranfeg:n 24 tH
+Promenading everywhere and having no
+obstruction, some were having knowledge of
+Brahman and some were of wanton forms,
+terrific ones, cruel ones, fit for sacrifices,
+beneficent ones, sacred and had
+unanimous talks.
+
+PUCKETT HU AEA
+wares Garais ferdtaier aenfertn 24 RN
+Some had the Kuga grass in their hands.
+Some had huge tongues, long ears and large
+faces. Some ate with their hands, some with
+their mouths and some with their heads. Some
+wore skulls.
+
+ones
+
+## Page 64
+
+60
+
+Vayu-Purana
+
+afeadt qarenfageenieen
+Srareardter sigs FATE AEN 34 3
+They were bow-wielding ones, the
+bludgeon-wielding ones, sword-bearing ones
+and trident-wielding ones. They were refulgent
+faced-ones, radiant-eyed ones, variegated-
+wreathed ones and varied-normed unguents
+bearing ones.
+araratafnais AgRIrGETaT
+Titer rinraitdtantearne
+ACgS Ree Pe 24 SN
+Some ate cooked food; some raw flesh.
+Some had many forms. Some had handsome
+appearance. Some roamed about at night or
+dusk. Some were terrible. Some were gentle,
+roaming about during the day. Some were night
+prowlers, who were very terrible to look at;
+some were terrible night-wanderers.
+
+Wel wwe Se BS BATT:
+Sat sraissfea gat ar wet & aera 244
+All of them had their minds devoted to lord
+Bhava (Siva), the greatest god. Neither of them
+had spouses nor sons. They were all celibates
+with sublimated sexuality.
+
+wd af aeentn serena
+We WS HRT eT: WaT: weatfdaT: 24
+These Bhiitas numbered a hundred thousand
+were great Atmayogins. They were all great-
+souled ones and were known as the sons of
+Bhiati.
+after aa Hered HevsaRt YA:
+fags fegrart auf afi au
+aaftrentrrraret ad a faferargAt: 1 24 Von
+Kapisa gave birth to Kismandi
+Kiismandi again gave birth to the couples of
+Pisacas who were tawny-coloured. Because
+they were brownish, they were called Pisacas
+and all of them were eaters of meat or flesh.
+
+and
+
+gant degen adores: |
+ATTRA TRATETTETAAL 4 CU
+
+Sixteen other twins are there and their
+lineages are existing now. By name, I shall
+declare them, the man-eaters and their lineages.
+
+wretch da aa cay TMT
+
+Wer ton da Tet TeTEAMN Wee
+aumragy att a aude geht:
+THAT THT THEA 2 oN
+
+arey arral a pUvey Hultean
+unforarar wnforarat aig: ange AAT ye gu
+fques fqust a Fryun Fryuretem
+sereraa da Weare: TaheeT TAT
+Weaet faye wor: wR SST 26 TH
+
+They are—- Chagala and Chagali, Vakra and
+Vakramukhi, Siici and Sicimukha,
+Kurhbhapatra and Kuribhi, Vajradaristra and
+Dundubhi, Upacara and Upacara, Ulikhala and
+Uldkhali, Anarka and Anarké, Kukhanda and
+Kukhandika, Panipatra and Panipatri, Parnsu
+and Parhsumati, Vitunda and Vitundi, Nipuna
+and Nipuna, Chalada and Ucchesana, Praskanda
+
+and Skandika. These ganas as sixteen clans of
+the Pisacas have been narrated.
+
+seal saa: Yr: tarereT
+fanrargtitansta BRUT: MAT: RE BH
+snigateant eras Fatisat:!
+uforeras Aquat sorte FryoMeraT 2g vt
+wigasama: Serta we
+
+seat ahaa” Hees waters VE GU
+
+The sixteen families of Kismandas are—
+
+Ajamukhas, Bakamukhas, Parins, Skandins,
+Visadas, Angarikas, Kumbhapitras,
+Prakundakas, Upacarolikhalikas, Anarkas,
+
+Kukhandikas, Panipatras, Naitundas, Umasas,
+Nipunas and Siicimukhocchesanadas. This way
+these are noble ones known as the (lineages) of
+the Kiismandas.
+
+## Page 65
+
+Chapter-69
+
+61
+
+fargrearet gy fagrer: gaat sfe TAR
+dard fagarant yaaa
+aaetat fogrertt carota Frater 2&1
+Pigacas they deserve to be known as such,
+accompanied by the collaterals who were born
+this way, odious ones, having conduct of ugly
+norms, having sons and grandsons of unending
+norms. Hence, understand the characteristics of
+Pisacas.
+waigca gare éfgut afterea
+frist: Gores fegrana SaP|T: 2G oI
+The Pisacas are shaggy all over the limbs.
+Their eyes are round. They have claws and
+
+fangs. Their limbs are crooked. They are man-
+eaters and their faces are turned down.
+Be PUMTUTRaA TATA: |
+qonfoser: freee freer: darter:
+The Pisacas called Kismandikas are
+shagless and bristlesless. Skins and _ hides
+constitute their garments. They always eat
+gingelly seeds and flesh.
+RIFE SHAT
+WaT aafterans cam: aArRaftaT n 2g BH
+Some Pigacas have curved limbs, hands and
+feet. They attains to crooked-disposition and
+deserve to be known as Vakrapisacas. They are
+crooked-gaited ones and wanton-framed ones.
+
+ATRTRUSATT BATA: |
+Fagan: firgraret fererar: Frasrat: 1129011
+Some Pigacas have hung stomachs and some
+are snorted-nosed ones.! Some are  short-
+statured ones, some are small-crested ones and
+small-armed ones. These are called Nitundaka
+Pigacas. They are sesame eaters and are fond of
+pleasing hearings.
+
+arated araren: ert:
+PUTA SATATATEAT TAT: 11 219 BU
+
+1. QPSALM: is a misprint for G°SA: in verse 270.
+
+Some are dwarfed-structured _ ones,
+vociferous, having movements of jumping
+norm. They are Anarkamarka types of Pigacas.
+They are fond of eating and living on trees.
+
+BATRA SEGMT TATA: |
+Yate vigage: firgrenr: vig an eee
+Some are erect-armed and erect-shagged
+ones, having projected abodes on tall trees.
+They release dust from their limbs being
+Parhsava Pisacas.
+erie: Weal: yaya: |
+STENT: PMTETET PARTATATAT RTA F193 Ut
+The Upaviras Pisacas are very considerate
+about their veins. Their bodies are dry. They
+have plenty of moustache. They wear bark
+garments. Cremation ground is their abode.
+
+fageren vettier Stent WRT
+Beqeeierat fara qaftogan:u owt
+
+The Ulikhala types of Pisacas have stable
+motionless eyes and long tongues with which
+they lick their lips. Their heads are as large as
+those of elephants and camels. They move
+about severally or jointly.
+
+fag: HOUTA SETA RAT
+Reng Tag: fist qergeracht Su Vout
+
+The Pisaécas known as Kumbhapatras are
+those, who eat the unobserved foods. They are
+small and yellow-complexioned with hairy
+bodies. They move about visibly and invisibly.
+
+args fagrite fyored fagrerar:1
+eROTRTALATRTT TTT ATTA: B19 G UL
+
+The Pisdcas called Nipunas enter and infest
+those persons who go alone. Their faces extends
+upto their ears. They have thick noses and
+brows hung along.
+
+Were: wen: frre: WoT A
+SRUIGraRTTOT eae: feaftewa:n
+mrerera firgrar & afraryeafer: i Qe
+
+The Pisacas called Baladas (devourers of
+
+## Page 66
+
+62
+
+Vayu-Purana
+
+children) are those, who have refuge in vacant
+apartments, are short-statured ones and resort to
+the maternity chambers. They attack people
+with their hands and feet. Their eyes are turned
+towards the earth.
+
+Yoanforargey Beara aTATA:|
+fafgrener: figraret wear Bray: R92
+The Pisitadas Pisdcas have hands and feet on
+the backside. They are shorter ones and have
+speed like that of the wind. They are meat-
+eaters and drinkers of blood.
+
+Wem sree figrerat waiter: 2081
+
+The Pisacas called Skandins are naked and
+have no fixed abode. They are circular in shape
+with long hair. There are other types of Pisdcas
+being the eaters of leaved-food. Thus sixteen
+castes of Pisicas have been well narrated.
+
+Téfanfamarg darguasyarr
+
+RT Te Ak We THTATATSPTATT: It
+
+arr waTeat arrET AN? ot
+
+On seeing these types of Pisacas, niggardly
+
+ones and in a dejected condition among his
+progeny, Brahma out of compassion granted
+them the boons of vanishing and assuming
+forms as they pleased.
+
+wat: data Waar wT
+
+Tern aft seh YETTA A Be aH
+faarenfa a aft eqerantfiean a
+aeepiraferent dentate an Ve TN
+Teenie Pepeeraaitt a1
+eRwagernsa Frinrdaateen 26 31
+waht aaisa Pai aeagarreTary
+
+fagren fatter 4 wreag Fae ew
+
+He permitted them to move about at the time
+of the two junctions (viz. dawn and dusk). I
+shall mention their abodes and way of
+
+maintaining themselves. The houses that are
+broken and are vacant having scanty populace
+(lit. men) are their abodes. And which ones are
+destroyed as such, where there is misconduct of
+people, which are not cleaned and scrubbed
+properly or not painted well. They live in the
+highways, adjoining lanes, the orchards and the
+squares, the gates and the watch-towers, the
+exit-doors and the dikes, the roads, the streams
+and the places of pilgrimage or fordable spots,
+the holy sanctuaries or trees, monasteries and
+huge highways. Pisacas occupy all such spots.
+
+weriter sare & onsite fateat: gt:
+ater: tenftent: Aref efeasATeRTM 36 4 Il
+ayierant afar
+
+Wits aghreartanseds
+
+arena frat arg firgrarent Saat: 2S GI
+
+The irreligious persons, those who violate
+the discipline of castes and stages of life and
+artisans and masons constitute the livelihood of
+these Pisdcas as ordained by Suras. These
+Pigacas will be the presiding deities where holy
+rites are performed by means of money earned
+by unjustifiable means such as breach of trust
+and theft of nectar-like articles,
+
+agnidierden frerguigaad:1
+
+qigifiggertetcmastet: 1 8c
+
+gona da araife qu: qareer
+
+ud gar: qaraetat & uses
+
+froma gen aisferafedet ec
+
+By honey, meat, cooked-rice mixed with
+
+curds, sesame powder, sura (wine) and dsava
+(spirituous liquor), incense, turmeric and
+KrSaras (balls of sesame and grain), oil, rice
+mixed with jaggery, fragrant grass, dark
+costumes and flowers are the means of
+oblations for Pigacas. At the junctions of
+
+Parvans, these things must be offered to
+Pisacas. Brahm, the lord, ordained thus.
+
+aayaiterani fife yornfory
+op aaraarenmnrasia afr eee
+
+## Page 67
+
+Chapter-69
+
+63
+
+He made the trident-bearing Girisa, the lord
+of all the beings and Pisacas. The lady Darhstra
+produced as sons Vyaghras (tigers) and Sirnhas
+(lions).
+
+feftes Garena oreaenssfaigr:
+marrenta area werent rate
+wea gfert: way arat aT TN Veo
+
+The leopards, the serpentine or elephants
+
+like, the flesh eaters are also her sons. Now you
+
+know absolutely about the progeny of Rsa. She
+had five daughters. Listen to their names.
+
+ar wat dat gar uftgar wa a
+
+STAT | faye Arar SF OPT WAT Fe AU
+Mina, Mata, Vrtta, Parivrtté and Anuvrtta
+deserve to be known as her daughters. Whose
+progenies they were, you may listen to.
+aeaeM eT: Wshaferea eat: |
+seanfate Ton at farwitel seat 28 2
+Sharks and crocodiles with a thousand teeth,
+the types of fish known as Pathina, Timi and
+
+Rohita and other extensive groups are called
+Maina groups.
+
+mewgider der wasqeeer sft
+Premier fergarcian aT SATSTAT: 11 23 BU
+Grahas (alligators) of four types deserve to
+be recognised. Anuijyesthakas, —_Niskas,
+Sigumiaras etc. were progenies of Mina.
+aa aifearafer tanh aereanftorg
+FMT rgiercererfor Sprarera aaT 1 VAI
+Vrtta procreated manifoldly the deformities
+
+of Kiarmas (tortoises) and other aquatic beings
+of many norms as well as varieties of conches.
+
+Tage foarfar sya sasreaat
+tiart faarafir wget wa aU ee4t
+Anuvrtta_ procreated the manifold
+
+deformities of frogs
+deformities of black
+Sarbiikas (snails),! etc.
+
+(Mandikas), the
+antelopes, as also
+
+1. V.S. Apte, p. 548.
+
+an fataarafar arena a
+wen pgfeenrafor uftgar Sma 38g I
+And Parivrtté procreated the varieties of
+oyster-shells (Suktis), cowries and likewise the
+conch-shells.
+
+airgeaartiin aetefatemnt a
+gee fe eee: we TET: Waffen eon
+
+The varieties of Kalakita (virulent venom)
+and the water leeches were also produced by
+her. This way the lineage of Rs consisting of
+five branches has been recognised.
+
+fretiigaarengdge (7) ayia
+Paaafaerafor an Meat waft BAe
+The vertebrates and the like in great number
+hailed from a vast lineage. The moisture-born
+ones are a part of them.
+wahatragttent sreqereat fest:
+TIEN: CHAR SYA ATT FATA VSAM
+O Brahmanas! These insects are born of the
+bodies of Svastipika. The producers are human
+beings. The insects known as USanas are born
+of dirt and sweat of men. So also the other
+insects and groups of ants moving about in
+rows.
+
+(wan fora det a yer: HeaeeT: BAT:
+wafeentararat yfareat dat 313001
+And likewise on crest and Caila (cloth) the
+lice get generated as the moisture-born ones.
+
+And those who get birth on the earth heated by
+the fire, the moon and the sun’s heat.
+
+goes: War: Hae)
+araferttforenon: Blea TATA: 11 3 o
+The creatures born of moisture, were known
+as (as progenies) of Trmamegha Prasikté, many
+groups of ants and worms of feet enclosed as
+such,
+
+vigraefaarafir aterararcenfar a
+seanigaget: Bam: UFar WOT: zo VW
+
+## Page 68
+
+64
+
+Formed out of conches and stones, having
+the conduct of nails (prickling tendencies), this
+way and the like many moisture-born terrestrial
+beings happened to be.
+
+wn enigma feet wa a
+Jar WANA SET TARTAN 3 0 311
+Likewise from waters heated by heat (of the
+Sun) and from waters and rain showers, and
+many from the bodies of beasts, these creatures
+get birth.
+Wire: froren gereen fafregirar:|
+atefear area wernt agherent: 13 o¥l
+The following small creatures are born both
+of water and of sweat— shrimps, ants, rodents,
+Tittiras and Putrikas, blue and variegated
+Alakas, small bees or white ants shags and
+many normed breadth as such.
+
+weet: BewEla wed aetafean
+RIMAIA (ABM: HTM ATTTSAT: 1 3 0 &
+Aquatic and moisture-born do get birth from
+these creatures. The worms are bom in Kasa
+
+(grass) and water, reed born ones, having many
+feet.
+
+fagen trend feo: ftatfier:1
+seanfate wel Tet: EA: BANGIN
+Sinthalas (i.e. quilled-ones), Romalas
+(Hairy) and Picchalas (Slimy) are three kinds of
+such insects. These and the like are the aquatic
+and moisture-born ones.
+afta meget SEY HATE
+farsa: wera Geta: gow
+Some creatures are born of clarified butter,
+black gram and green gram. From Bilva
+
+(Mammals), Jarnbi, Mango and Arecanut do
+take birth some creatures.
+
+Waa wera agers a
+en werent Pisa vata fen gocu
+
+Creatures are born of the dry hollows of
+trees and also of green gram, jack fruits and rice
+
+Vayu-Purdna
+
+grains when exposed for a long time.
+aenaisfa a are a fe tafe wen
+aRRgUMfart fanfeerata an 308
+
+From other things also preserved for a long
+time, creatures are born. Germs and worms are
+born of horses and other animals and even from
+poison too.
+
+age Flee quate a wren
+were Bra fam: BB PIT TOTTI 3 Roll
+
+From the cow-dung stored for many days,
+
+emerge out the worms or insects, O Brahmanas!
+
+White ants and other creatures are born of
+wood.
+
+UT gut Sra Fert Ateraferert: |
+Te Yeates: ote: werefat Tg Veu
+A variety of blue flies are born of trees in
+
+due course. The creatures Putrikds (white ants)
+are born of drying and withering things.
+
+aaifetent vifteaa aut ara Gey
+aay HT Sheen: YETTA 3 ez
+
+From Satikas, hundred-normed = Kalika
+Sarpas (the black snakes) get birth all over.
+Scorpions and moisture-born creatures are
+produced from dry cow-dung.
+
+Cinat fe afgteag area seta: wa
+meaieaay fafaen srosgelt Farge: 3 gg
+
+From kine and buffaloes (or from bulls and
+male buffaloes or bisons) get birth many worms
+and beings such as fish, are born of eggs.
+
+alftene rere war TEMA a
+aenseant a Garnfin areiteRTART STAN 3 BS
+
+Different species of leeches are born of eggs
+such as Caivirakas and Gojas and many other
+subtle creatures too.
+
+aiiapeed: Gem yearend UI
+AAAS He GSMA SETI ATET HB Ra UI
+
+From pigeons and ospreys and the like, the
+tiny ones Yikas (lice) get birth. That vary way
+
+## Page 69
+
+Chapter-69
+
+65
+
+one declared the fabulous animals like
+octopuses (Sarabhas)!and the crabs (Kulirakas).
+
+fararon ferarafor area aTaasTy)|
+wrt gy aarafergfeawramendin 3 86 1
+
+Various species of flies etc. take birth of
+eggs. These are laid generally on the leavings of
+food, water and sloughs.
+
+ayer farearator sero wa
+ova: were GPa: GATT 3 ROU
+The different types of mosquitoes and black
+bees are also born of eggs. The creatures known
+
+as nits (Putrikas and Putrabhdsakas) are
+produced from grass.
+
+Ufrsereen ret: Wrest: viata:
+wdahfearatit attieat vata fen a ret
+
+The insects Manicchedas and Vydlas are
+said to be born from foetus with no enveloping
+membrane (potajas). Those having
+transformations from Sataveri do get generation
+from the Karisas (cow-dung cakes).
+
+Vanfgrdead tr: detest TAM
+Baraafedt VT Wer: BIAS 8H
+This way and the like born from sweat in a
+succinct norm has been enunciated by me. It is
+to be remembered that these are born of their
+actions in earlier births.
+aes Faia Bra BAT STAT:
+yang ater: dfachfadhafrer: aya: 0
+Likewise there are other beings of Nairrta
+Sattvas (born of Nirrti). They were known as a
+result of change occasioned by disease
+(Upasargajah)*, purified some as sprung from
+the uterus and some known as bom of
+procreation.
+
+wrote: wa a fager quafas:!
+fag athe gar: aaferzartafinet: 1 3 een
+
+1. See SBI V.S. Apte, p. 67.
+2. VS. Apte, p. 114.
+
+Normally all Devas deserve to be (called) as
+Autpattikas. Some of the gods are the
+production of uterus and only some gods are
+born without cause.
+
+qererag aes frat aan ata a1
+US PATTY OT SATAN VW
+Tulalagha and Kola are the sons and Siva is
+the daughter of Sarama>. They became known
+as the ganas headed by Sarama.
+
+vary vaca afar afore
+Hott qureuela Yoo AYA: 3 V3 At
+
+Kadrukas are Syama (dark-hued), Sabala (of
+variegated-hued), Arjuna (white-coloured),
+Harita (green-coloured), Krsna (black-hued),
+Dhimraruna (smoke-coloured), — Tailalabus
+(cotton-hued and gourd-hued).
+
+grasa fas g wits reg
+
+autor merat Tet ArT anit arate:
+
+THAT FAT AUT: SANTA 3 YI
+
+Surasi produced a hundred serpents with
+
+nectar in their heads. Of Sarpas (snakes), the
+king is Taksaka and of snakes is Vasuki. Thus
+this group belonging to the family of
+Krodhavasa is mostly of Tamasa quality.
+
+Yeeens somentenrararetaraet
+agrancafafererearer ara FasTART 3 BU
+
+From the self-born of Pulaha, you may know
+about the progeny (lit. creation) of Tamra.
+Many well known daughters took birth from
+Tamra.
+
+Set areit cen wat geet Yat TM
+aeons arat gat g dilaatt wetacit
+
+aunt a wer a Maat Vere BE
+
+They are— Syeni, Bhasi, Krauiici, Dhrtarastri
+and Suki. Syeni was the spouse of Aruna who
+gave birth to two excellent birds of great
+strength and prowess. They were Sampati and
+Jatayu.
+
+3. @aypit - a Divine Bitch or a canine-normed lady.
+
+## Page 70
+
+66
+
+Vayu-Purdga
+
+duiremaga ante waa a
+wage & Yat: arenperaftis: 1 3 Vo
+SampAti produced a son and a daughter. Of
+Jatayi, the sons were- crows, vultures and
+Asvakarnins.
+
+carat wrectaenfa aret saat ae yea
+SAUTE a ag a aRaUeNA set (PEA) II
+
+The spouses of Garutman were— Bhasi,
+Kraufici, Suki, Dhrtarastri and Bhadra. Their
+progenies are being enumerated.
+
+yal Teed: Gargya ve uftgar
+fat GyS da act ys TEATS Ve
+fae p i ard ,
+
+Wat Gay WAT TSSHT AAT 3 BOM
+
+a g i) i U
+
+yadtaferratea dat & ciyrfererts 33 en
+
+Suki produced six well-known sons from
+Garutman, viz. the sweet-faced Trigira, Bala,
+Prstha of great valour, Trigankhanetra,
+Sumukha of good form and the powerful
+Surasa. The sons and grandsons of these
+ruthless descendants of Garuda, the great-souled
+serpent-eaters, were numbered fourteen
+
+thousand. By procreation of sons and grandsons
+their family became extensive.
+
+arent aft Sent Carats) a aed BART
+mrenfertiatact tape Twas 3 eH
+afore a ves Ueaferat Fem
+
+woleret Yeah TVPG AMSAT TN 3 8 3
+ani ugigat tra a ude
+weugargaaddtiad: Tanah: 33 yi
+Stasrenf carenf mredetteraht:
+STANGA: TYAT ANN Seles: BTHHA PET:
+And the Jands where they spread
+
+themselves, I shall dilate upon them in a serial
+order. They are— Salmalidvipa! in entirety, the
+
+1. African Archipelago pp. 29-30. Gepafarl: XV.2,
+
+mountain Devakita, the lordly mountains
+Manimén of thousand peaks, Parnamila,
+Sukesa, Satasriga, Kauraja, Paficasikhara and
+Hemakita. All these mountains were occupied
+by the noble-souled descendants of Garuda.
+They were brightened with ruby stones and they
+produced gusts of violent winds. Bhasas (the
+bird vulture), Uliikas (owls), crows and cocks
+were the sons of Bhast.
+
+TER: Heresies atten orafateT:)
+
+ait ates SARAMTTar
+
+Peacocks, Kalavirikas (sparrows), Kapotas
+
+(doves), Lavas (quails) and Tittiris (partridges)
+also were born of Bhasi. Kraufici created
+Vardhinasa birds (black birds with red legs,
+head and eyes). Syeni created Kuraras
+(ospreys), Sdrasas (cranes) and Bakas.
+
+seamreRts ashes wearer Fa Ue:
+
+gaust a ees Hees ATH 3 Bn
+
+aamarenigy fargreraistarcenthaerd
+
+Uae fees GaUtAATN 3 BCU
+
+She gave birth to other birds of prey also
+
+like these. The beautiful lady Dhrtardstri created
+Harhsas and Kalaharhsas, Cakravdkas and other
+types of aquatic birds too. These were the birds
+given birth to and their sons and grandsons were
+infinite.
+
+TESS SAAT: MrT STAT: TORT WaT:
+BU Wa BMT SA: HUACTAAT 3 BH
+The offsprings of Garuda have been
+enumerated. Listen to the progeny of Ira. Ira
+produced three daughters with lotus like eyes.
+erential garot areat wa wat
+aa dere aeeht a area Aft AM Aug rot
+They were Lata, Valli and Virudha. They
+are the mothers of all types of plants, trees and
+creepers.
+
+1987 edited by Dr. Mandana Mishra and Sampath
+Narayana Ac&rya, Rashtriya Sanskrit Sansthan,
+New Delhi.
+
+## Page 71
+
+Chapter-69
+
+67
+
+tet arenies ayergeaaar
+erguernctsatectat & corsa 3 ¥ el
+Lata produced Vanaspatis having
+flowered plants grown over the shoals. She
+herself gave birth to Vrksas or trees with
+flowers and fruits.
+
+Ba eet J Yes AFATGUTTT:|
+Sea cane AMET WATE 3 ¥ VI
+Valli creates Gulmas (bushes), grasses and
+bamboos etc. of the same species. Virudha gave
+birth to Virudhds (creepers) spreading all round.
+The description of the race is concluded here.
+
+Ut PATTY SST: MYATT: |
+at Garey Wer afte utd TU awa
+Thus the progenies of Kasyapa, static and
+dynamic ones have been enumerated. Their
+sons and grandsons are those by whom the
+Universe gets replenished.
+
+ofa Bilayer aiftdsaaat wan
+uritatisd sarent: wares wentfta:
+a et erat arate aetera feat: 3 wv
+
+This way has been enunciated the
+component of the sole single aspect of the
+creation. This is the progeny creation of Marica
+illustrated succinctly. O Brahmanas or Scholars!
+It hardly become possible to illustrate it even in
+hundreds of years.
+
+anfefchigiten q aergiten fafa: eam
+waviter | Yeantargiten Sy: BAT Isai
+
+Aditi was of righteous, pious temperament.
+Diti is remembered as strong-minded. Surabhi
+was inclined towards the performance of
+penance. Danu was of a deceitful nature.
+
+(afer wagien 4 wrereretentert
+ahagien cafeersa aagiten wy BAT)
+
+Sage Gandhasila, was normally disposed to
+mental concentration or studies, Gitasila, Arista
+and Krodhasil4 became known as Khasa.
+
+no-
+
+weit aT ag: alee afro
+N gasquesiton g carquartt Ta 3g
+Kadri was of ruthless mind. Krauficl was
+disposed towards learning. Ira had the receptive
+capacity. Danayu was interested in taking food.
+
+aresiten g farat ara & urgrenferth
+ave Sean vera Tae: 3 wot
+
+Vinaté was capable of bearing burdens.
+Tamra was habituated to use nooses and strings.
+These are the natures and temperaments of the
+mothers of the worlds.
+
+eta: yiterat Gage AAT AAU: |
+TteaMiga atarntang aac
+
+In duty, disposition, intellect, forbearance
+and in power, they had the traits of qualities
+Rajas, Sattva and Tamas. Hence they were both
+righteous and unrighteous.
+
+AGI AT: HVAT SAAT: NST: |
+
+SaeTqu Tal BaTTATTT:
+
+faye: upasta Wm: warater: 3x8
+
+As peers to mothers were born the bossom-
+
+born progeny of Kasyapa. They were— Devas,
+Asuras, Gandharvas, Yaksas, Raksasas,
+Pannagas, Pisacas, Pasus (animals), deer, birds
+and the plants or vegetations.
+
+Tera Ge wea
+TARRY WAY TATIETY ATTA: BK oN
+
+Because these were born of the daughters of
+Daksa who were human beings, hence human
+beings are the most excellent in all the
+Manvantaras.
+
+guidermiennt agar: weeny a
+AAST ATT SF THT FTA SG
+
+Human beings are the aspirants of Dharma
+(spiritual good), Artha (material gains), Kama
+(lust) and Moksa (renunciation). Therefore,
+Suras and Asuras are bor as Adhah-srotas
+(downward flow).
+
+## Page 72
+
+68
+
+Vayu-Purdna
+
+art arifagad aig WA:
+sata aya: WeerTeTAaATAN 3 4 21
+They take birth for the purpose of exigent
+tasks, in human form again and again. This way
+stands illustrated the origin of the lineage of the
+ascetics (Tapasvins).
+
+qooragan a weratearcat wT
+aarer:fagreart qauiferafarorgn 3 4 311
+arent fafert da sitet a wet
+pfasteragmt gant sernes an
+
+Wat areorat & sthrat Joe: 34 Sl
+ageaa aay sienfergarae:!
+srroaa aad ETAT 3 4 4 I
+
+This meritorious story of Gods, Demons,
+Gandharvas, Apsarasas, Yaksas, Raksasas,
+Pisacas, Suparnas (i.e. Garudas), Uragas,
+vertebrates or birds, Vyalas (pythons), the
+crested ones (peacocks), medicinal herbs all
+over, worms, insects, flying rodents, those that
+are water-offsprings, Pasus (animals) and the
+glorious Brahmanas, is conducive to longevity
+and wealth. It is meritorious and beneficial. It is
+fit to be heard of and engripped by one who is
+devoid of malice and jealousy.
+
+Ba g det Fate a: woaieni greet
+aunt fe ata yeni fri ai ta a
+vet ATH
+To this lineage by dictum, who may go
+through, in the consembly of the great-souled
+Brahmanas and Vaidyas, he may attain to the
+great benefit of progeny in amplitude, glory,
+
+wealth and an ultimate emancipation after
+death.
+
+fa staergemt arginisqagUe ayattamaranf ae
+FaafpeasEaTa: 1g 8
+
+eK
+
+## Page 73
+
+68
+
+Vayu-Purana
+
+Nate Weaaarat seas:
+Chapter 70
+
+The description of the sovereignty of
+Soma and others
+
+Wa art
+Te wag wey wyas weer
+sfafearg walg wrewrg arg aN gt
+ofafrenfiraety (2) dat yer: werafe:1
+Aa: AT Tea STATTHAN B
+
+Sita spoke- Thus when all mobile and
+immobile creations had been created and
+established by the noble-souled Kasyapa, he the
+chief Prajapati, crowned (the chiefs of them) as
+their Lords and began to assign them their
+respective domains in due order.
+
+fear creat a seraroti we: Fel
+aaMi wat da ars WRswTAqN 31
+
+In the kingdom of birds and creepers, of
+planets along with grahas (comets), of sidereals
+along with planets, of Yajfias i.e. sacrifices and
+austerities, of Brahmanas, Ksatriyas and
+Vaisyas, he consecrated Soma (the Moon).
+
+geafa g fadat aarafgrat vf
+oad da aed TSAI v1
+
+Brhaspati was crowned as the lord of all the
+descendants of Angiras by him. He made Kavya
+as the ruler over the realm of Bhrgus.
+
+anferarat yatta agar wraaq
+Waa sat aA Tea ATAATTA GH
+
+He crowned Visnu as the lord of Adityas;
+Fire-god the lord of Vasus; Daksa the lord of
+Prajapatis; and Vasava (i.e. Indra) the lord of
+Maruts (gods).
+
+earre Tar ward feferery
+ARTaU F AAT SAU FEAT & 1
+
+Of Daityas, the king he appointed was
+
+Prahlada, the son of Diti. Narayana (he
+
+## Page 74
+
+Chapter-70
+
+69
+
+appointed) as overlord of Sadhyas and the bull-
+bannered lord Siva, the king of Rudras.
+
+fasfata o Ua emaramanssfesra
+
+ai y seu WA Te daraat vf
+
+qa Tae w wart area ant
+
+He ordained Vipracitti as the king of
+
+Danavas, of waters (he ordained) Varuna (as
+king). He ordained Vaisravana (Kubera) as the
+overlord! of Yaksas, Rakgsasas and terrestrial-
+terrained ones as also of wealth.
+
+aad fqn a a ad ose
+wayatiorent faite genni ct
+To Vaivasvata Yama, he consecrated to the
+kingdom of the manes. And to Salapani (the
+trident-bearer), GiriSa (the one sleeping on the
+mountain) i.e. Siva, he consecrated as the
+overlord of all the beings and goblins (Pisacas).
+deri feneasi a ada ary
+qTRralurafaata wa ferret aan en
+Of mountains (he made) the overlord
+Himavan (Himalaya) and Sagara (ocean) as the
+(overlord) of streams. Then of Gandharvas, he
+made the overlord Citraratha.
+
+FATA Ua aa
+WTA yet Mat a AGUTETAN gol
+He made Uccaihgravas as the overlord of
+A§vas (horses); he made Sardiila (tiger) as the
+sovereign lord of deer and cows, and Govrsa
+
+(the Bull) as the overlord of the four-footed
+ones.
+
+unos wae WHS Wadi ATA
+TRI Ured dea yaar feoTA gent
+And of all the birds or vertebrates, he
+consecrated Garuda (as the overlord), the
+excellent one of the flying ones. He made
+Maruta the overload of scents and unembodied
+beings.
+
+1. fq may be UAE a misprint in verse 7, pada 2.
+
+Vera U ay aera AT
+edat efor oe arrears arafarqu ent
+Of sound, sky and power, he made Vayu the
+overlord, the foremost among the powerful
+ones. Of all the reptiles, he made Sesa as the
+overlord and of all the serpents, he made Vasuki
+as the overlord.
+aitguon wate armai aa waren
+aerint aaa a Bet afer au
+Srferarraarnt wstarefataeearLt 83 Ut
+Taksaka was made the overlord of all the
+creeping or crawling ones, serpents and reptiles,
+Of ocean and rivers, of clouds and the
+showering ones and of the distinct ones of the
+Adityas, he consecrated the overlord as
+Parjanya.
+watathront a armed ada a
+RAMS WAATaara ata an evn
+vert @ faverot yeaiat a vdory
+HOTA TATA
+afineara aren aa Pact ATTN RGN
+And likewise, he made Kamadeva as the
+overlord of all the bevies of nymphs. He made
+Sarhvatsara as the lord of Rtus (seasons),
+months and groups of seasons, fortnights,
+Vipaksas (the day of transition from one half of
+a lunar month to another), Muhartas*, Parvans,
+Kalas‘, Kasthas®, and Pramanas®, the movement
+of the  solstices, Ganita (mathematical
+calculations) and Yogas (astronomical divisions
+of time or combinations of Stars).
+
+2. MW, p. 973.
+
+3. One of 48 minutes or 2 ghatis, Brhat Samhita Pt. 1,
+p. 8 by M.R.K. Bhatta, MLBD, Delhi 1995, reprint
+edition.
+
+4. 10 Kala = | Nadika
+
+5. 10 Kastha = Kala, Ibid.
+
+6. Magnitudes, V.S. Apte, p. 366 or a measure in
+general: length; breadth.
+
+## Page 75
+
+70
+
+Vayu-Purana
+
+warnfad wa: year fafin fey
+Wd ATT Gat TH BSAA v6
+Prajapati, verily, in the eastern quarter, the
+terrestrial terrain, consecrated the well-known
+son of Rajas, Sudhaman as the overlord.
+
+vérreat (arai) fefin wen Tare: GRAAL
+Sqr verar Tart Ase gon
+In the western quarter, he crowned the great-
+
+souled Ketuman, the unerring son of Rajas, the
+king.
+
+agerorafiatet aa secant ayy
+
+afta yladt wat wag war
+
+meme for ubeaTETAN Rou
+
+To Vaivasvata Manu, he created as the
+overlord of men.' The entire earth consisting of
+seven continents along with the towns therein,
+is being ruled righteously by them in their
+respective areas.
+
+wargasat yd genom asfrifem:1
+JT sashes war X aafer Suge
+
+In the Svayarnbhuva Manvantara (aeon),
+they had been crowned by Brahma formerly.
+Only those who become Manu are consecrated
+as kings.
+
+warttadiag wer dag wien:
+wanes fared We WAT YA)
+SAAT: WS WaT HARA oll
+
+In the Manvantaras that have passed, these
+kings had ruled and passed away. Then on the
+arrival of another Manvantara, others become
+
+consecrated. All the kings, past and future, are
+proclaimed as Lords of Manvantaras.
+
+Tags fifa ytd:
+Sega fata get TT waTTATTU e tH
+
+By these excellent men, Prthu was
+
+I. Verse 18, pada 1, ATeTIeIAT has ATTA as
+
+the correction. Misprint in the printed text.
+
+consecrated in the Rajasiiya? (sacrifice). As
+ordained by the Vedas, he was created king, the
+prowessed one.
+
+UA Yatey ATAU
+WAta wet: wet aferat:n ee
+wyatt Waa Pat Tor aT:
+Wat tiratt wet weenie 23
+
+The Lord of progenies or subjects, Kasyapa,
+procreated these sons, for the purpose of the
+continuity of the progeny. Thereafter, desirous
+of his own lineage, he performed a severe
+penance. He contemplated- “May sons, the
+founders of the lineage, be born to me”.
+
+ARI VETTART HPATRT TETAAT1
+gantisst Yat varareuat weteratu Bvt
+
+Of that great-souled Kasyapa while taking to
+meditation, the incarnations of Brahma, the two
+sons afterward assumed appearance, the greatly
+prowessed ones.
+
+arananfaada argat seranfeth
+Seared ae ey HARTA RI
+
+They were Vatsara and Asita,> both being
+
+Brahmavadins. From Vatsara were born
+Nidhruva and Raibhya of great reputes.
+
+tera ben fata Agee fete
+AT FRAT Ya: AATTA 2G Il
+
+Raibhyas should be known as the
+descendants of Raibhya. Now you learn about
+
+2. Rajashya- A great sacrifice performed by a
+Universal monarch (in which tributary Princes also
+took part) at the time of by coronation as a mark of
+his undisputed sovereignty. V.S. Apte, p. 467. MW,
+p. 874.
+
+3. Paurdnika Kosa, p. 40. Vayu Purana 7.25-27, on
+Nidhruva, son of Vatsara, who was married in
+Ekaparna, daughter of Himavan— a Brahmavidi as
+Mantradrasta. He was father of Devula, the manasa-
+putra of Ekaparnd and Vatsara.
+
+Name of a son of Kasyapa. MW, p. 916.
+Asita, MW, p. 120 a descendant of Kasyapa named
+Devula Asita Devula.
+
+## Page 76
+
+Chapter-70
+
+”
+
+those of Nidhruva. Cyavana begot Sumedhas of
+Sukanya.
+
+“fgeet goa ust ore a Husa
+afaratauntat gfe: arr 291
+Nidhruva’s wife was the mother of
+Kundapayins. Of Asita and Ekaparna, took birth
+Brahmistha.
+wufagcart aa: year Fact: YaST:
+Fagen: pfteet taara: way APTN CH
+Having listened to the words of Sandilya,
+Devala became of great fame. Nidhruvas,
+Sandilyas and Raibhyas, all these three, formed
+the Kasyapa Gotra later.
+
+arya far fac wenfeaat:1
+Ugg wafteara wetearey wa: 1
+sears ae BNL HTaAT ye
+The Devas such as Vara (Indra) etc. are the
+progenies of Devala. These subjects function in
+Dvapara Yuga that occurs after eleven cycles of
+the sets of four Yugas that have passed.
+
+Tee a feaRreRa Wat aa: fae
+WARTS STAT UTag AT FAT: 3 oN
+And of Manasa, Risyanta was the son and
+
+his son was Dama. Manasa being his heir and
+successor was well known as Trnabindu.
+
+TaTAS Tas Tita days zs
+wel aan fafefaen wtonsfinsaaqn
+Wee F Tafa sat WeTeTEAT 3 eH
+In the beginning of the third Treta Yuga, he
+became the king. His daughter Idivila was
+unrivalled in her beauty. To Pulastya, that sage
+king offered his girl.
+afafifstecrat g fara: waved
+er Wee Terrence: 1 3 BH
+The sage Visravas was born of Idivila. His
+four wives became the propagators of the
+lineage of Pulastya.
+
+Teegechacararseal feta
+
+erat TaNAY @ aren & Faafo 3 3H
+Brhaspati, the preceptor of the Devas, had a
+famous daughter named Devavarnini. He
+(Visravas) married that daughter.
+
+Yotenet U areata ya uTewad: Fea
+Sordi wifes: erat ara | OA WaT av
+He married Puspotkata and Vaka, the two
+daughters of Malyavan as well as Kaikasi, the
+daughter of Malina. Now you hear about their
+progenies.
+
+Se daa wea yea taaftth
+fear fatten gentile gaa an
+TAR FT BVT STAT sey ANB 4H
+
+Devavarnini gave birth to his eldest son
+Vaisravana, endowed with divine mode of
+living and having form of a Rsi (4rsa), a well-
+known one being demoniacal as such and
+equipped with Asura (Demoniacal) strength.
+
+frag Grereart weit wey
+
+apde afta veqrnnriactertn 3 &
+Brag wag a fixe yfaviicor
+aaderraad Gag AAATAT ZU
+
+Wefaet at apt faaracet vem
+
+fant qgasadtaa qHatisatate Tarn 3 ct
+
+Having seen such a son having three feet,
+highly stupendous figure, flatulent crest, a hefty
+physique, eight-jaws, white beards, spike like
+ears, ruddy-hue, short arms, excellent arms,
+tawny-hue, highly hideous looking, conversant
+with the knowledge of transformation or
+hypnotism, and highly alert owing to the
+affluence of understanding, having a form of
+
+omnipresent norm, the father himself said—
+“This is Kubera”.
+
+qrarai feafergreaise writ seer
+gat: SMaTATaT FA a BisfyAN yeu
+The word ‘Ku’ is used to indicate contempt.
+The body is mentioned by the word Bera.
+
+Hence he is called Kubera because his body
+was deformed.
+
+## Page 77
+
+2
+
+Vayu-Purdna
+
+meaigradisued wevanesat ga
+WeTEaTU AT ATT wie faa yo It
+Since he was the progeny of Visravas and he
+appeared like Visravas, he will be known in the
+world by the name Vaisravana.
+
+eat Feisoafeyt TAT
+Tau aera a at yori wm
+fariouretqui sara eraegATA & Bit
+From Rddhi, Kubera produced the well-
+known son Nalakiibara. Kaikasi produced three
+
+sons Ravana, Kumbhakarna and Vibhisana and
+a daughter Sirpanakha.
+vena eyeita: faget cama:
+agentes wera wera: ny
+Ravana had pike-like ears and ten necks. He
+was tawny-complexioned, ruddy-haired, four-
+
+footed, twenty-armed, stupendous-figured and
+highly valiant one.
+
+arassatal ast cfenita va a
+TT Be Fa BIT T IT TUB
+By breed or birth, he was collyrium-normed,
+
+jawed-one, ruddy-necked, Rajasena like and
+was endowed with great form and strength.
+
+wmahaqery wedta wat:
+Framterent: at WaOTATAORT Awe
+He was true-intellected one, strong-bodied
+one, surrounded by demons, instinctively
+horrible and crue! and owing to his roaring, he
+became (known) as Ravana.
+
+faurafageanitea tat wa
+ages (fir) watsa watee FTAA Sy
+
+In the earlier birth, he happened to be king
+Hiranyakasipu. That Raksasa king ruled for
+thirteen cycles of four Yugas.
+
+a: Ua aedt aalormrena: dere fests
+frgaianfes denfatqearean % & ti
+
+His span of life as reckoned by Brahmanas,
+experts in counting, extended to five crores and
+
+sixty-one lakhs of years.
+wig waaeentin aut ¢ A Wau:
+Raa a a Heat HATTA wot
+For sixty lakhs of years, that Ravana created
+a wakefulness of terrific norm among Devas
+and Sages.
+argh ugha WaoraTa: era)
+We arent wrer wer: ereitfarargs ct
+In the twenty-fourth Tretéyuga, owing to the
+cessation of merits of his penance, he (Ravana)
+met Rama, the son of Dagaratha, and attained to
+doom along with his clan.
+Tea: Wet Teg: STMT
+qaencen: Tae GaN EEiiaat awe
+Mahodara, Prahasta, Mahaparhsu and Khara
+
+were the sons of Puspotkaté and Kumbhinasi
+was her daughter.
+
+fate quota fags were:
+wa Caterer Sa arena: WAaT: BAT Yo
+Trisiras, Diana, the Raksasa Vidyujjihva
+and the daughter Asalika are known as the
+progenies of Vaka.
+
+eae aren: here Tere ae
+arouse: wae SAAT STATING RH
+
+This way, these cruel-actioned ones, are ten
+Raksasa descendants of Pulastya lineage. All of
+their followers were atrocious and difficult of
+being approached by the Devas.
+
+wa cera yatta:
+
+wart a weet Wterecar Fa TATA BU
+BUTTS TATOT ATO TeTATAT
+Agere wearer y 301
+aardetaet tat vere: Weahige:
+
+Bat SF aT TTT UG BA
+
+All of them had boons obtained and were
+endowed with sons and grandsons. Aidavila
+(Kubera) whose left side was yellowish in
+colour and who was the descendant of Pulastya
+
+## Page 78
+
+Chapter-70
+
+73
+
+was the king of all these— all the Yaksas, all the
+Raksasas belonging to the family of Pulastya,
+the cruel Brahmaraksasas of Agastyas and
+Vaisvamitras, disposed to study of Vedas, the
+adherents to the performance of austerities and
+holy rites. Then, there were the other Raksasas
+called Yajiiamukhas.
+
+aga gaat aaa fear:
+Promecnoredat ara: alate: BAT ING KU
+Yatudhanas, Brahmadhanas and Vartas are
+the three groups of Raksasas, These are
+Divacaras (i.e. day-rovers as such). There are
+four groups of Nisdcaras (the night-roving
+ones) as such remembered by the poets.
+dierent tala arr: aatferearere
+BAT: Wa Fat A HAA TATA: BHAT GA
+Thus there are seven classes of Raksasas
+(including the above three and the following
+four groups)— Paulastyas, Nairrtas, Agastyas
+and Kausikas.
+
+aai et weenie care cafe
+guen: fagenta wera WET 4 ot
+
+Their natural features, | shall talk off. They
+had circular eyes. They were yellowish in
+colour. They were stupendous-figured ones and
+bloated-bellied ones.
+
+ween: Yanan SAT wa a
+orelanitarensr qaqa yean: 114 ci
+
+They were eight-jawed ones, pike-eared
+ones, and erect-haired ones. Some were having
+mouths wide and extending upto the ears. Some
+had smoke-coloured upright hair and some had
+Muiija grass like hair.
+
+weriiat: Faas BeaHeT WagaT:|
+AUTEN AA RTST TTT TATA: 114 3
+
+Some had stout heads shedding white lustre.
+Some were short-statured. Some were long-
+armed ones. Some had copper-hued faces.
+Some were long-tongued and long-lipped ones.
+Some had long eyebrows and stout noses.
+
+Feret sifecitar rattan fertioor:1
+rere ferret ag fafisenn: 1 § ot
+Some were blue-limbed ones, ruddy-necked
+ones, hideous-eyed ones and _terrific-voiced
+ones. Some were ugly-framed ones. They went
+in groups.
+wes TATA rere get:
+areunfesrn: saat: reer: feretwenftiar: 11g eu
+They were flatulent’ and projected-nosed
+ones, stone-normed bodied ones and strong
+
+ones. They had terrible kinsmen and generally
+they were cruel, indulging in painful activities.
+
+apusegeniier eratentear:|
+fafa Un TATGATT: 1G VU
+
+They were having crest jewels, chaplets or
+garlands, armlets and ear-peduncles. They were
+wearers of turbans and diadem, variegated-
+constumed ones and  omamented-ones,
+variegated wreathed-ones and unguented ones.
+
+aaa: fafgrereer yeatees & Bat:
+seraguaad werart gt: AAT
+F UMRaet Fe Tat rae fe TANG BU
+
+Some were cooked-food eaters and some
+were meat-eaters. Some were known’ as man-
+eaters. These attributes of Raksasas, common
+among them, stands illustrated by the scholars.
+The full extent of their strength is not known
+because it is effected by Maya.
+
+Yeeea YM: Yat: eS Saree eer:
+gat: frye: aula sere aferrereT gh
+anu: feat wafagearemm
+
+Asa da UPAR AERA Hg GH
+
+Pulaha’s sons were- the deer, all the fanged
+beasts of prey, Bhiittas, Pisdcas, serpents, bees,
+Hastins (elephants), Vanaras (monkeys),
+Kinnaras, Mayiras (peacocks), Kimhpurusas and
+all those others that moved all around, gone
+subservient to Maya, wrath and the like.
+
+## Page 79
+
+74
+
+Vayu-Purana
+
+ara: ageferega saa
+a wer ya: Oat at aot: Sfarer ot frre g
+Childless Kratu became known in the
+Vaivasvata Manvantara. He had neither a son
+
+nor a grandson. He remained with fully
+controlled splendour.
+
+sade weeanit gitar wera:
+We We Gaal avlasseafiaa:n gon
+I shall now talk of the lineage of Atri, the
+
+third Prajapati. His beautiful ten wives as such
+were quite faithful ladies.
+
+WW Yara & aurea Ea:
+AAT VAT A Nal A Vetel Aetal AAT G Cl
+aa Get wT Aaa A A Mae BAT
+
+WM UATE Wes TART A A STNG SI
+Bhadragva begot of Ghrtaci the Apsarasas,
+ten daughters. They were~ Bhadra, Sadra,
+Madra, Salada, Malada, Vela, Khala, these
+seven and the remaining (three) were known as
+Gocapala, Manarasa and Ratnakita, the tenth.
+
+maa yg Tal AAT WaT: |
+agrat saarere Std Bt agar 0 1
+wautge et aa uaa feat we
+maf cies farren Fa vafdatie gu
+
+The creator of the lineage of Atri was
+famous by the name of Prabhakara. He was
+their husband, He begot of Bhadra, the well-
+known son Soma (the Moon). When the sun
+was struck by Svarbhanu (Rahu) and was
+falling down towards the earth from the sky, the
+whole world got enveloped in darkness by dusk.
+At that time, it was he (the sage Atri) who
+spread light everywhere whereby he got the
+name Prabhakara.
+
+afta asfeata ite: a vafae fearat:r
+Tenders 7 ward feat we eM
+
+“May it be all well of yours”, this was
+spoken while sun was falling down and at the
+instance of the great sage, (the sun) did not fall
+on the earth.
+
+anfaaarht tanfin aera WETTT: |
+aratrrda yids wafia: (2) gn
+Atri who was the performer of great penance
+founded excellent Gotras. Among sacrifices, the
+one called Atrighana is created as such by
+Gods.
+
+WA TRPRATARA TAP
+Qe area Tee ATT TfETATAT: 119 ¥
+From them he produced ten unnamed sons
+similar in stamp to him. All the ten were
+purified by austere penance.
+
+aT Sf GT VAT STTCAT:|
+aai faerraget fast grass n
+They were the sages famous by the name
+‘Svastyareyas.’ They were masters of Vedas.
+Among them, two were of well-known repute
+and Brahmisthas of great radiance.
+
+SHAARS SBT gararereal TGA:
+adr ga wearer Terenfettn
+SaTTETA yeites Uhafirar: YAW 9g
+Dattatreya was the eldest of the two and
+Durvasas was his younger brother. The
+youngest daughter was Abala who was
+Brahmavadin (an expounder of Brahman). In
+this connection, the Ancient Lore experts
+(Pauranikas) quote this verse.
+a: UF Wea PIRATATTACTEA
+aad ag fait: Yeo: Weata wel
+Those who are conversant with Puranas say
+that Atri’s son Dattatreya has the body of
+Visnu. The noble-souled one is free from sins
+and tranquil in mind.
+
+Wea Tarad simran: waa afar
+
+Fay Teresa ToT TST:
+
+Us Jot { a: Wa: war wala cI
+There were born in the lineage of that one,
+
+the four ones well-known on the earth. They
+
+were- Syamas, Mudgalas, Balarakas and
+
+## Page 80
+
+Chapter-70 5
+
+Gavisthiras', These four as the aspects of BIT WRT HUTA HT
+
+human beings were well-known as_ highly a 5 BR 7
+
+radiant ones. a a x) ears
+Kali from Paragara produced
+
+apamranesda wads wert wa
+aR o aRaTEMfaaad WTA: 9 8 I
+From Kasyapa Narada, Parvata and
+Arundhati (were born). And from Arundhati
+that were born, you may know.
+
+ana afaerarent TTT
+SARA TERA BAMATY ARE: 1 <0 ll
+Narada offered Arundhati to Vasistha.
+
+Owing to the curse of Daksa, the brilliant
+Narada was compelled to be celibate.
+
+qu targt afer area
+SRI Ba ces ST WH Ot: TEU
+afaperrer saree & WaT: et
+
+Earlier in the war of the gods and demons,
+star-spangled one as such, the whole world was
+bedoomed by drought (Andvrsti) and Sakra was
+aggrieved along with Suras. The intelligent
+Vasistha sustained all the subjects by means of
+his penance.
+
+arated yornertteeigy were)
+ares SHrerarare sravere tea FI ¢ 2H
+
+Supplying the food, medicine, bulbous roots
+and fruits, as also the medicinal herbs, he
+resuscitated them out of pity, with the medical
+treatment.
+
+orearat afamed wifnqrreaefest:|
+AI HAAS WTP 7 11 6 3
+O Brahmanas, Vasistha produced in
+
+Arundhati Sakti. Adrsyanti bore Paragara to
+Sakti on the seashore.
+
+1. THaeat — Paurdnika Koéa, p. 156. An Atreya sage, a
+Mantrakrt and Gotrakara.
+Fes - THAT verse 78, Paurdnika Kosa, p.
+348.
+Age - An Atreyavarnga, verse 78, Pauranika Kosa,
+p. 426.
+
+Krsnadvipayana, the holy (lord). And from
+Dvaipayana, Suka, the one endowed with
+merits, took birth at the Arani’.
+
+seer a Weal wk gaa:
+qferer wa: sq: Gott es TSS 4
+an atin ta aererat sega
+
+et TeereT Vet araTSST ANS GH
+And take birth from Pivart of Suka, six
+children. They were— Bhirisravas, Prabhu,
+Sarhbhu, Krsna and Gaura (the five sons) and a
+daughter Kirtimati by name. She was a
+Yogamata of an austere vow. She was the
+mother of Brahmadatta and the wife of
+Sattvaguha.
+aT; HOTT TTT FETT oT: AAfeTeAT: |
+aan gratia aterla were:
+URTETOTABY Va: SAT HATA ¢ 11
+Svetas, Krsnas, Gauras, Syamas (azure-
+hued), Dhimras (smoke-screened), Samilikas
+(those having shapes of roots), Usmapas (the
+drinkers of heat) and Darakas (the tearing ones)
+were the eight groups of Nilas and Parasaras.
+These eight of Parasaras, the great souled ones
+were known as the Paksas (the partisans).
+ad wed Froteeaftranferrare
+afager aftsreat yareat waren
+goiter cared saat SAAC CI
+After this, you may know the progeny of
+Indrapratima. There was born Kusiti of
+Kapifijali-Ghrtaci of Vasistha, well known as
+Indrapratima.
+
+yet: Gear: He: YETTA:
+SAY: GATT TAY STATA A
+
+2. The sacrificial twig with which fire is produced by
+attrition.
+
+## Page 81
+
+76
+
+Vayu-Purana
+
+Of the daughter of Prthu was born his son
+who became known as Vasu, Upamanyu was
+his son whose descendants were these
+Upamanyus.
+
+fierexorista pfogat & ufeqat:1
+vantaradart afer are feat: i
+Wi wen fast wat Taras Ugo
+
+Of Mitravarunas, the descendants are
+considered well known as Kundins of one
+spiritual lineage. Others are well-known as
+Vasisthas. These are the eleven Gotras of
+Vasisthas.
+
+sea TANT: Yat AAT we fase:
+OR: YAeTIAT at ae: whafwaT: ng a
+
+This way, these sons of Brahma, the
+
+Manasas (mind-born ones) are well known.
+
+They were greatly fortunate brothers and their
+spiritual lineages have been established.
+
+dietermedaratitronigner!
+at yay wer wags wea
+deaten vet wat ateta waftafirs ie 2H
+
+They support the three worlds crowded by
+
+groups of Devas and Sages. There sons and
+
+grandsons are thousands and hundreds in
+
+counting. By them the entire Earth is pervaded
+
+as with the rays of the Sun.
+
+fa strange args satgrerare sefteqaAtts
+ATG AePATATSEATAT: 19 0 It
+
+eK
+
+## Page 82
+
+76
+
+Vayu-Purana
+
+Nae AAAS EAT:
+Chapter 71
+The Procedure of Sraddha for Pitrs
+Wrage aererer Grea fafeaTary:1
+Bat uftomeg: area fea gH
+
+Having heard this narration of Sita, the
+knower of Atman, the Brahmanas, subsequently
+asked him as follows.
+
+ae fattagen wart serait g am
+arettererraont gehen Serene 2 tt
+Sarnsapayana spoke- How did the second
+time was born Bhavani who was Sati earlier?
+She was Daksayani at first. How did she
+become Uma?
+Tart figararat ararara Frere
+& da fara Aer tar g aaa
+The king of mountains begot her of Mena,
+the daughter of Pitrs. Who were these Pitrs
+(manes), whose Manast (the mind-born
+daughter) was Mena?
+
+taeda det det a ant gam
+
+Teun aan dea aa MT PHATATN YI
+
+Tet da aftaer vatat wer wa
+
+yada wanes sod ae WaT GI
+
+(Who are the Pitrs) whose grandson was
+
+Mainéka and whose grand-daughters were
+Uma, Ekapama, Ekapatala and Ganga, the
+excellent among all rivers and the ancestral
+domain of all? As enunciated by me earlier, you
+may know that all (again).
+
+& UG fara abet aa a aT
+aigirants ag 3 ores a oi fate n
+Whose these Pitrs or manes are and where
+do they abide again? I am eager to hear these.
+May it be all well with you. I also want to know
+the absolute rite of obsequial performances
+(Sraddha).
+as & oye: Sat eet a fureeq a
+fare: eT: I VAT: fee: No
+The sons of whom were they called and
+whose fathers they happened to be? How did
+Pitrs or fathers take birth? Whose sons were
+they and what souled-ones they were?
+
+wait g frets & tararafe tat:
+wet & ages Ft aga
+
+## Page 83
+
+Chapter-71
+
+77
+
+wareeerenta: arg stone & fa en
+Are there other Pitaras who are deities unto
+the gods in heaven? This way, do I desire to
+learn about the excellent generation of the Pitrs
+and how the Sraddha performed by us as per
+injunctions gratifies Pitrs or manes.
+
+aed 4 qed aa fe ari a
+wait fe By ada fat aH J Hen
+
+What is considered as the reason for their
+invisibility. What type of Pitaras reside in
+heaven and what types reside in hell?
+
+afirderea frat fager fart vem
+fag: frend Ser fry fewsy AAAI Roll
+aaa srgifa taf eet teak & fo
+
+weet Pen Set ATH: Het GAH Ve
+Which Sraddhas (obsequial rites) deserve to
+be offered to Pitrs? And how do these Sraddhas
+reach Pitrs- the Sraddhas that are offered
+uttering the names of father, father’s father and
+great grand-grandfather against the three rice-
+balls (Pindas)? And how do they (Pitrs) became
+capable to offer the suit, stationed in hell?
+
+& ae feat ae art at A:
+ar aft faeait aarti fe a: ger eet
+
+Who then are the Pitaras here? And whom
+do we offer sacrificial rites? The gods even
+offer sacrificial rites to the Pitrs. This has been
+heard by us.
+
+Unfeeate & stg faattor aga
+waar & agaraprefan e311
+
+O you highly learned one! We wish to know
+this all in detail. The specific etymological
+meaning, you deserve to explain before us.
+
+watt | aa: grat qareradaeary
+ATTA TITGS UOTE AT AA ev
+Having listened to the words of the sages,
+Sita, a conceiver of the real sense (of the
+words), dilated upon in accordance with the
+questions and the desire in the minds of the
+sages.
+
+WW sara
+oe at autfirentt aang aera
+Wey Sree eet Saga gg
+Sita spoke- Here shall I dilate upon
+(regarding Sraddhas) as per intelligence and as
+
+per scriptural evidence. In every Manvantara,
+Pitaras do take birth as the sons of Devas.
+
+aaaarnt Set: PET ATG FI
+a: ard Gusdter: fart Asaty au
+abe wind 3 J ars aearfey Fare eg
+In the past and the future Manvantaras, they
+are respectively the eldest and the youngest as
+per serial order. I shall precisely recount the
+Pitaras who have gone in the earlier
+
+Manvantaras along with the gods and who exist
+at present.
+
+arg Sei Tye arg wea
+Sarge Fen aaertats Sf Gas
+TART Targa Tenet: gout
+A Sraddha rite of the human beings is what
+is offered with devotion. Brahma created gods
+who were not desiring to offer sacrifices as
+
+such. Desirous of a result, having created
+themselves they took birth once again.
+
+& Wea FeO Yet AEeAT fer
+7 fafafgaia vat cet DARA Von
+They were cursed by Brahma in this
+manner- “Having lost consciousness, you will
+
+all become devoid of sense.” They did not know
+anything. This way the people became deluded.
+
+a ye: wo: wa area eH faa
+APS Mart res aTy: Ve
+
+They again prostrated as such supplicated!
+before Pitamaha i.e. Brahma. For the grace
+endowment of people, once again the Lord
+spoke out.
+
+1, 3: Wom: wa arate a faaTaey - has aTaPT as
+an example of Parasmaipada usage for Atmenepada
+in verse 19.
+
+## Page 84
+
+78
+
+Vayu-Purana
+
+wets aed a cafirat fe a: aa:
+Yararafigesad wat aTTATERM 2 0 tt
+“Perform an expiation for the transgression
+
+which has been committed. Consult your sons
+and then you will attain enlightenment.”
+
+adet targaiga srafverafrgara: 1
+BRT Meee erfererear feat Fier: 2 gu
+Then desirous of taking recourse to
+
+expiation, Devas controlled themselves duly
+and asked their own sons mutually.
+
+Tere Frama: werergeA
+wratarnft cat area ata Guz
+They (sons) being self-controlled ones,
+conversant with real Dharma, explained to them
+the various modes of expiations— by speech,
+mind and actions.
+
+a Vargas crenin featea:1
+wa & feetisench 3 ae wirattfere:
+otart a ares a aT a: METAR BBM
+
+Pleased as such, they, the denizens of divine
+regions having consciousness regained, spoke to
+the sons— “You are our fathers, (by whom) we
+have been awakened. What boon should be
+granted- virtue, knowledge or love?”
+
+remsdtiqran 4 aarater:1
+TATA FORA FT TSA 2X
+Then to them spoke out Brahma- “You
+verily, are truth-speaking ones. Therefore, what
+
+has been told by you, shall be so and not
+otherwise.
+
+se a faatiseratife 4 ara war:
+
+farted afeeata teaiisa deat at 24H
+
+This is what is uttered by you- your own
+
+sons have been mentioned by you as your Pitrs.
+They will be your Pitrs. Let this boon be given
+to them.”
+
+Sta Seat Yat eT: WeAABA:|
+Yat: fageanrag: gard feat: TA Bg It
+
+By that very words of Brahma, Paramesthin,
+the sons (Pitrs) became fathers (of Devas) and
+real fathers (Devas) became sons.
+
+Tend fir: gar: faged ag aE
+ud oe fiqeargas free
+MIEN Ysen frprfaggan yon
+
+Hence it is declared that the sons (of Devas)
+are Pitrs and the status of Pitr-hood is
+proclaimed about them. This way having
+remembered fathers as the sons and the sons as
+fathers, once again spoke out Brahma to the
+fathers for the development of their own selves.
+
+a after fiend frat aiferatteath
+Tare amauta wet wafer TET ATC
+
+“If any one will perform Sraddha (obsequial
+tite) without worshipping Pitrs, Raksasas’ and
+Danavas shall obtain the fruit of that.
+
+grannies fret: dare
+mea Sefer FreagTstt 8 8
+
+Propitiated and developed by you all by
+means of Sraddhas, the Pitaras shall increase
+invariably the indestructible Soma.
+
+mraventaa: drt cterrarataeatin
+pret wadaed apa AgATN 3 ot
+
+Strengthened and developed by means of
+Sraddha, Soma shall develop the people and the
+entire world, along with forests and mountains
+inhabited all over by mobile and immobile
+beings.
+
+orga years & after ara:
+wer: Ufe wanda areafa feet: Tang gu
+
+Desirous of virility, whosoever (men) shall
+perform the Sraddhas, the Pitaras offer virility
+and progeny always unto them.
+
+org eq: vereaha APowsraTaa: |
+aaa ain fat: witaTTETN
+Ferareratrerta aged Ft KATRIN
+
+Those (Pitrs) to whom they (the performers
+of Sraddha) offer three balls of rice (Pindas)
+
+## Page 85
+
+Chapter-71
+
+79
+
+mentioning their names and Gotra up to great-
+grandfather, they (Pitrs) who are present
+(everywhere), strengthen and develop their
+progeny by that offering of Sraddha.”
+
+Tana Fat Vs GeO AAT
+Wada fag are 77:33 01
+This way has been declared by Brahmi, the
+Paramesthin, earlier. It is by their grace that—
+Dana (charity), Adhyayana (study) and Tapas
+(penance) fructify.
+YW: frat at a dea
+gee feat Sar Fares fer: Ya
+saat Ba Saws fees ange
+These fathers are the disseminators of
+knowledge unto you, there is no doubt in it.
+This way, these fathers are gods and gods are
+the fathers. Devas and Pitrs are reciprocally
+Pitrs.
+Cramer: sar yer fafearny:|
+Wey Aa Ya: Yel THATS AT 34 1
+Having heard these words of Sita,
+
+possessing _ self-knowledge, the sages
+questioned once again to Sita.
+
+ead Sy:
+frat 4 fagron: eferare a 7:1
+ada Samer Sarat MeN 3G
+The Sages spoke— How many are the groups
+of these Pitrs and in what time these ganas
+(groups) happened to be the Deva Pravaras (The
+
+permanent gods), the Soma augmentors of the
+Devas?
+
+QW sara
+
+Wraise ent fagertageT
+vig: Ure aed fit & geeaferqu gon
+Sate spoke—I shall talk of the most excellent
+creation of Pitaras. What Sathyu enquired
+earlier to his father Brhaspati, this is the same
+question.
+
+qeahygae adaraaen
+WF: afer wet umes farenFaa ng ci
+As Brhaspati, an expert in the import of all
+the leamings, was sitting closer, the son Sarhyu
+endowed with discipline, put this question.
+
+& Ue feat am feet: HT TAT
+BRAT: seh at faged MTT: Ug a
+
+“Who are these Pitrs? What are their names?
+How these ones were born and how did they
+attain to the status of Pitaras?
+
+warred fart we aasgerd Feat:
+fray wat ate sregyal WEATTHs oN
+
+On what account, the Pitaras are worshipped
+at the outset in every sacrifice? All the holy
+
+activities of noble souls begin with the
+performance of Sraddhas.
+
+are aratht Sanh fa a od wera
+ay award org alg a aalg ans
+
+Unto whom these obsequial rites are to be
+offered? What is the great fruit of such
+offering? In which of the holy places and sacred
+rivers does the Sraddha performance yield ever-
+lasting benefit?
+
+Sy 8 wdarctfa org seat fasta
+aay are wears fart: arqedauy 2H
+
+What are those holy centres in which the
+excellent Brahmanas perform obsequial rite to
+obtain all benefits? What is the proper time for
+Sraddha? What is the procedure to be followed?
+
+wafeanta wafer carta
+aTenguayedar aa dleret Wary 3
+
+I do desire to understand all these in details
+as per proper sequence, O adorable one.”
+
+gefatee wart ost weraft:1
+SAE STIS we WeAfaat AT ww
+Brhaspati, quite suitably questioned as such,
+being of great intellect, being the excellent one
+
+among those knowing questions, replied in a
+sequential order to all the questions.
+
+## Page 86
+
+80 Vayu-Purana
+Femhreana qaventa amit creraeis eer:
+wafrent & aa att a vita BrrenfayT AGE TROT ATAFTTI & V1
+
+farts cared weit mE Sy
+Brhaspati spoke- O dear one! | shall dilate
+upon whatever you question me modestly and
+as per judicious ardour, the deep-rooted
+questions of an excellent order.
+attoattat yferct aernfin fer
+qahraaat da casérerata avg
+a aYGea aa Tara oT
+Wea Bat TA MIM WOH AT Yell
+At the time when there exist no heaven or
+sky, no intermediary space, no earth, no stars,
+no sidereals and likewise no quarters, no sun, no
+moon, and likewise no day and no night, O
+dear, the whole Universe was enveloped by
+gloom. Brahma alone there then took to a
+penance of highest order difficult to be
+performed by others.
+
+yiganadiqga: fart sear
+wads gent waMfaet STN
+
+Sarnyu then spoke to his father once again
+who was the most excellent among the knowers
+of Brahman, who always performed holy
+ablutions in the form of rites and who was the
+most excellent of all knowers of perfect
+knowledge.
+
+aitgyt Way TETTRAT META:
+Wael Fete Feels TUS Sil
+“What sort of austerity did Prajapati, the
+Lord of all beings performed?” This way
+questioned, Brhaspati, the highly radiant one,
+spoke to him.
+weet awat gta
+ATS TARTS HTTATEAATN § o Nt
+Of all the austerities, Yukti (Yoga) austerity
+
+is the foremost. Meditating on it, the lord then
+created all the lokas by means of that Yoga.
+
+The knowledges of the past and future, the
+entire lokas and Vedas in entirety were created
+after practising Yoga by Brahma, by means of
+his Yogic concentration.
+
+Stan: Bieter ar oa faghea arent:
+& auret ofa wan samt fafa Faas 4 UH
+
+The lokas, the heaven are named Samtdnikas
+where exist the brilliant deities of the Devas
+well-known as Vairdjas.
+
+ane are ge: Wate set wy:
+Raga TE Ai Gera MATTAN 4 BN
+By mental concentration and penance
+equipped as such, quite earlier the lord Brahma
+then created the gods having taken to the
+application of Yoga of pristine order.
+anfegar sft wae mereaT: wee:
+WARTIME: THM SATAY SU
+They are well known as Adidevas. They are
+highly spirited and of great radiance. They are
+granter of all desires and worthy of being
+adored by Devas, Danavas and Manavas
+(human beings).
+
+Rat wer TaTENAT Toca AT: |
+aaa TTR GTN GG
+
+Of those are well-proclaimed the seven
+groups, adored in the triad of worlds. Three of
+them are Amurtis (non-corporeal form) and four
+are of corporeal form.
+
+serra ada orergta
+RATER UR: MTT TI Gl
+
+The three groups which have corporeal form
+are stationed above. The four Suksmamiirtis
+(having subtle forms) are stationed beneath
+them.
+
+wat Fareed ghia cage
+we adfe 3 wfereea: whereas
+
+## Page 87
+
+Chapter-71
+
+81
+
+gia dgem cert twa: Tnyon
+Thereafter, the gods, and thereafter this earth
+and this tradition of populace in this world do
+occur as such and from there ensued the
+provenance of Parjanya. By them there occurs
+the rainfall and by rainfall the generation of
+men again.
+
+sara & wend oat a arta:
+SIRS ficperencceart GATTI oH
+
+Since they develop and strengthen the moon
+and the food-grains and make them flourish by
+means of Yogic power, they called them the
+Pitrs of the lokas, the most excellent ones in the
+world.
+
+Twat: Tare: Wana: |
+aetesarter Fafarer: yiterarfetat: 114 @ 01
+
+Having agility of mind, the consumers of
+Svadhd, having equipment for all the lusts,
+devoid of greed, infatuation and fear, they are
+determined as such having immunity from grief.
+
+Wa ant vias wreat rargavar
+fee: Yuan wert ferment ray go
+These having taken leave of mental
+concentration, attained to good-looking lokas.
+They become divine ones, sacred ones, great-
+souled ones and sinless ones thereby.
+aat Praeara at Teena:
+siren Grate Wet tara 1g gil
+Then at the end of a thousand of Yugas, they
+do take birth as Brahmavadins. Having received
+the Yogic power once again, they attain
+emancipation in a bodiless state.
+
+SRT UT TETaPTaAA aT
+ayaRgeha TH aftfergeta ag 2
+
+Having given up the apparent and the
+inapparent, and by the force of Mahayoga, they
+perish in the sky like a meteor, as also like a
+lambent streak of lightning.
+
+sages Seas weraeTaey
+
+Frreatareaat ae afta: art weg 31
+
+Having taken leave of all the bodies as
+(requisites) or physical assets by the force of
+Mahayoga, they attain to namelessness like
+streams sinking within the ocean.
+
+fran yerefeaht gata Frag:
+aire feet arreefat: ng it
+Engaged everyday in holy rites and the
+worship of preceptors, Pitrs develop their Yogic
+power and satisfy all.
+
+org Stat: Ga: ate feat arene: -
+rerrate aris sciet a4 strafing 41
+
+Propitiated in Sraddha again, the Pitaras
+(manes) nourish Soma (Moon) making use of
+their Yogic power Yoga whereby the three
+worlds become revived.
+
+werregr gi Sanh athe aed: wan
+faqui fe aet art arrears: wena § G11
+Therefore, the obsequial rites (Sraddhas)
+deserve to be offered invariably with effort unto
+the Yogins. The strength of Pitrs (manes) is
+Yoga wherefrom emanates Soma.
+
+wear faurd ieteraerra
+wag ainfaaita: wales Tay gH
+To thousands of Brahmanas or as many as
+come along, one may feed. A single knower of
+Yoga gratified as such, becomes fit for all. That
+you may hear.
+TAT WEA TAA VA Tt
+aerareior Taye TAA Wea TATA G Cl
+What is taken in by a thousand invited
+Kalpitas (ordinary Brahmanas), or by a hundred
+Sndtakas (graduated Brahmanas), or by one
+Yogacarya (master of Yoga) guards one against
+mighty fears.
+
+Yeu TEA ATA
+aerniasenr shit sar fafrewang <i
+
+By a thousand of householders, by a
+hundred of forest rovers, and by a thousand of
+
+## Page 88
+
+82
+
+Vayu-Purana
+
+celibates (Brahmacarins), a solitary Yogin
+
+retains distinction.
+aufeaeat at facnat ar daitorereetsfa at
+ARE arti ee arrears waTafT: 901)
+
+An atheist or one having invidious acts, a
+person of mixed caste or even a thief, cannot
+have redemption from anything else, except by
+offering a charity unto those who have Yogic
+power. This way spoke Prajapati.
+
+fara gaht qapta ada:
+wat asa ar dat entrt siafeeafen gn
+
+The Pitrs or Pitaras of that one get satisfied
+like the husbandmen (farmers) or agriculturists
+by a timely rainfall, even if his son or grandson
+feeds a Yogic meditator.
+
+set enti dietegerntiai
+TeeSE yeerahe sTAGI0 2
+
+In the event of non-availability of meditating
+mendicants, one should feed two celibates. And
+in the event of non-availability of that one also,
+one may feed a householder not much
+engrossed in worldly affairs.
+
+afeameenares arquar: yet WaT:
+arent werent TAMA 0 3
+
+He who stand on one leg, an air-subsister
+
+one for a hundred years, he is the Dhyanayogi
+
+of the highest order. This is the ordainment of
+Brahma.
+
+fot fe faretor ata yarcitfirarg
+aera ferrari Te HATALCT: 119 ¥ 11
+
+The Siddhas do promenade on this Earth in
+the guise of Vipras (Brahmanas). On that
+account, one should welcome an in-coming
+guest with palms joined in reverence.
+
+Wteareiaas ay aera a
+saf arrertat ar ater: wan
+AaRSt AS aT THOT TITAN GI
+
+One may adore him with the materials of
+worship and feet-washing waters. He should
+offer him place of residence and food. To the
+
+land having ends as oceans, the gods
+Yogesvaras perennially promenade along by
+assuming many forms, guarding the progenies
+by way of duty.
+weeds eM fame at:
+verift weet wet Sat wa agi
+Therefore, every man should offer charity
+
+unto a Brahmana guest. I shall talk of those
+charities and their fruits.
+
+PATA THAT
+Wuetaaean aaa anol
+
+Refuge in a Yogin is far better than
+thousands of horse-sacrifices, hundreds of
+Rajasitya sacrifices and thousands of
+Pundarikas sacrifices.
+
+Se US TOT: Ses: feRoTaerTary
+werea aera Raat ws MT: WaMVcn
+The first of those seven groups of Pitrs or
+Pitaras of mighty prowess, has been recounted.
+This group exists always with the conception of
+Time.
+
+on wef seeenft walPagrorga:|
+date dat da areata UAT <I
+Henceforth, I shall talk of all the Pitrs and
+Ganas once again as also the static norm of the
+
+continuity of progenies and also their
+conception as per serial order.
+gfe strergnt ariké siigrne arenfrarcsit
+ATTA ATSEATS: 1119 QU
+kee
+
+## Page 89
+
+82
+
+Vayu-Purana
+
+user faereaferaatserra: 1
+Chapter 72
+The observation on the groups of Pitrs
+aa sara
+ae teraat Ser: eat Fagor: war:
+wean yfdreaey TTRTOTATAT:
+aut cienferrt g aitfaet Felten en
+
+## Page 90
+
+Chapter-72
+
+83
+
+Sita spoke— Seven superior most Ganas or
+groups of Pitrs endowed with intellect or
+wisdom were known as such in the Svarga
+(Heaven). Four of them are in corporeal form
+and three of those in non-corporeal norm. You
+may learn as I shall recount their creative
+activity in the world.
+
+aa gieancetat dfenda & aya:
+enighterraat 3 ta: TOT TOT Rt
+Those that were their daughters and those
+that were the daughter’s sons, those that bear
+Dharmic bodies and forms, and whose three
+ganas are of highest order, (I shall describe
+them).
+
+arent cierto dat aed eared:
+iter fararat aren aa faeha rT 3 1
+The names as well as the generation of all
+those, I shall talk of in brief. The disembodied
+groups of Pitrs, the sons of Prajapati, abide in
+the shining worlds named Virajasa.
+ania: fagron: yard 4 yaaa:
+farsrenr fast: Ser deen gfe Faget:
+we a yam: aedt aueari waitfdasu xi
+The non-corporeal normed groups of Pitrs
+(manes), were the sons verily of Prajapati. The
+excellent Brahmanas of Virajasa were well-
+
+known as Vairajas. This verily, the first group
+of Vairajas is declared as such.
+
+tai g are aan Tar aH arfe
+Ueht fenad: Yet wea Bar FAT
+Their fair-complexioned mind-born daughter
+is by name Mend, the wife of the great
+
+mountain Himavan. From her, the son Mainaka
+was born.
+
+aa: aatafier: ata!
+Waa: WAL: YOR: BATTS SHASTA G Ml
+Born as a bearer of all the medicinal herbs,
+having self as endowed with all the gems and
+the mountains, the great one happened to be his
+son Kraufica.
+
+fra: aang Farat samara vere!
+auntienant a qetartermreemuio tt
+
+The king of mountains procreated three
+daughters of Mena, viz. Apama, Ekaparna and
+the third Ekapatala.
+
+anf & wrt | sifacheat TISAI
+aetna q ween
+wad atagentin gat Gaara ct
+
+Two of them had abodes, but Apama
+performed penance for a hundred thousands
+years difficult of being performed even by
+Devas (gods) and Danavas (demons), without
+an abode. Ekaparna had a Nyagrodha tree as her
+abode and Ekapatala had trumpet flower tree as
+her abode.
+
+orertienndfa weanaulf ware
+Weerta da facereeurecm 8
+
+The diet of Ekaparna was a single leaf and
+Ekapatala diet was a single trumpet flower.
+Wor wot wee & ote & wearmg:1
+Wert aa roan at ata HATTA Qo
+On the completion of two thousands years,
+the two took food once. One of them (Aparna)
+
+remained without taking food. To her, the
+mother replied.
+
+Freaait gata mat Sea gaat
+
+Hr water Tat Sat rar garcenfeoitn eeu
+
+Safa ar wean fag cieag faye
+
+wafer aver Aare Freee antor BTU gz I
+
+The distressed mother out of affection,
+
+aggrieved her with the words~ “O daughter! Do
+not”. Since she was addressed by her mother in
+this manner, the blessed gentle lady performing
+the difficult penance became famous as “Uma”.
+“All right”, this way by name that got
+etymologised by signification being the
+auspicious one.
+
+Tag feats waRereatet WT
+Uarat ae eet araqufinifeeafan 93 1
+
+## Page 91
+
+84
+
+Vayu-Puraga
+
+This world having three virgins shall
+continue perennially. Feeling proud by the
+penance of these ones, the earth shall sustain
+itself.
+
+wa: gikren: Baiferat arracnfam:1
+Banat: GaeMe: wakes feacateat:u ge
+
+All those three endowed with the power of
+Yoga, sustain their bodies by means of their
+penance. All those Devis or Goddesses of
+highly mighty fortunes possessed steady youth.
+
+vals gaat: waidatetaa:
+amr arei after a Set a arate gait
+
+All of them were expounders of Brahman
+and all having continence observed (i.e.
+freedom from sexual intercourse). Uma was the
+
+greatest of all those, being the seniormost and
+the excellent girl of the fairest complexion.
+
+werahractitar wera
+STUART: Yat RAH RE tt
+Endowed with the strength of great Yoga,
+she presented herself to Mahadeva (as his
+spouse). Her adopted son was UsSanas, the son
+of Bhrgu.
+
+afaaetennalt ¢ ueit arat qeaem
+eat fenaer wet atrrarata ean
+act BPA A Y ates AG Faq gw
+
+Of Asita, Ekaparna happened to be the wife.
+She was chaste one and strong-vowed one. She
+was given to that Yogacarya, the wise one, by
+the Himavan. She gave birth to the menta! son
+Devala who was a great Brahmistha (engrossed
+in meditation on Brahman).
+
+ar darat puriton yatat Aenareem
+WS pater Sriworgufera ec
+And the third one that happened to be of
+
+these Kumaris, the Ekapatala, she presented
+herself to Jaigisavya, the son of Satasilaka,
+
+wente gfetadt wat garecthsin
+saa Ft WENT: Hea fara: YAU gst
+
+His sons Sankha and Likhita are
+remembered as the two sons not born of the
+womb. This way, these ones, the greatly
+fortunate ones, were the daughters of Himavan,
+the auspicious ones.
+
+eq UT Y WaT Tau faite
+araanifarratrearyercarea 2 0 tl
+
+Rudrani (Uma) was the best among them.
+She attained distinction by her merits. The
+
+mutual devotion of Uma and Sankara (was
+ideal).
+
+ved Taretaieat pig: feat Gren
+
+anat dgaeneraetrgavireort
+
+wet: Bemrgrftaegur Hera SeeTATET NR
+
+Having realised the union of those two clung
+
+on as such, the killer of Vrtra (i.e. Indra),
+became apprehensive. Havyavahana (Fire-god)
+was sent near them by Indra who was afraid of
+
+the birth of a child from them engaged in sexual
+intercourse.
+
+ort tafaet a carat BATE
+Waa We Ua we Ft Stet fared aan Va
+“OQ Fire-god! Create hindrance in the
+physical union of these two. Since you are such
+
+as having reach everywhere (lit. all the spots),
+there can not be any blame on you.”
+
+erkerpt gaan afer a ar FT
+saree TEREST YR yet fraser eau
+
+When he was told thus, Fire-god acted in the
+same way. Having left the body of Uma, the
+semen virile was released on the ground (by
+Siva).
+
+wat ofan en weishia: wig
+3 creat afg dergremn fir asi
+
+Then by the irate Devi (i.e. Uma) was cursed
+Agni, O Sarhsapayana! Owing to wrath, she
+spoke bitter words to Fire-god thus.
+
+warrafagarat tafaet gag
+prares adet worante suf 240
+
+## Page 92
+
+Chapter-72
+
+85
+
+“O Fire! On what account on my having
+remained unsatiated, you have created an
+obstacle in the physical union, a deed not
+required to be done as such. On that account
+you stand (disdained) as a wicked-minded one.
+
+aed fat wi Oy Ys FETT
+anf et oreedater F eUsAOT 2G II
+
+Since the terrific semen virile of great
+radiance of Rudra has not been retained in my
+womb, you should hold the foetus yourself.
+This verily, constitutes an imprecative
+punishment.”
+
+7B Megs ser BAVA:
+agerirorant area & fest: Rot
+
+That Fire-god having foetus developed
+within by Rudrani out of wrath of a curse,
+
+retained that foetus, for good many years, O
+Brahmanas.
+
+a TaITAssE gaat Biegay
+graraftaet % avbrrcurearongtt 3 61
+He having gone over to Ganga, spoke out-
+“O great river, may this be heard. Excessive
+distress is caused to me by the retention of the
+foetus.
+
+Rigarifint mind arr ert
+Horaerel Wel a weeta afarafan 2 et
+
+O stream! For the sake of my interest and
+welfare, you may bear this foetus. Due to my
+grace, this trouble of yours shall go mitigated”.
+
+WAKA Fal A F Uae erat
+orf area Fear TATATU 3 ot
+“All right”, this way having spoken, then
+
+that great stream became very pleased and bore
+that foetus by a radiating radiance.
+
+asta Graton vent feerarr wert
+let WHE FATS TMATTUTATT 3 att
+
+That great stream even getting aggrieved,
+owing to trouble, for an ample amount of time
+
+engaged herself in bearing that foetus.
+
+aan afer me gait fener: YA
+
+yd eraui are fet gferrorer
+
+wat argued Cermaftrarrern 3
+
+By that one, that foetus was sustained in the
+
+auspicious middle portion of Himavan. There is
+an auspicious forest of reeds having a
+variegated tree of florescence. And there, she
+released her foetus, as a fire-smouldering one.
+
+CARATS STATS HOTT: |
+SAA APTAERTST ETAT: MATTE 3 3
+Rudragni, the son of Gariga, took birth there,
+having a ruddy radiance, a peer to sun, highly
+refulgent and endowed with strength or energy
+of hundreds of suns.
+
+afererat werent Eat aTeataa
+faurrartrenyt watafafafteargarn 3 xi
+When the son of Jahnavi (ie. Ganga) of
+great fortune was born, then the sky was
+covered with aerial vehicles being, as if by
+birds.
+
+Raggy Agua AAT:
+Wye: yo a Ga: fegaronn ay
+The divine trumpets sounded forth sweet
+notes and the sky-roving Siddhas and Caranas
+showered forth rain of flowers.
+
+. aperdqeny waves a 8
+
+ent faenent: fag: faamda way aan
+The chief Gandharvas, Yaksas,
+Vidyadharas, Siddhas and all the Kinnaras, sang
+forth everywhere.
+TEMES Te Waa: |
+TATA VTA
+TATAUT BATA SRASATRAAT: 11 39
+Thousands of Mahanagas (great serpents)
+and the birds of exquisite norm, waited upon the
+greatly fortunate one or great-souled one,
+Agneya, the son of Sankara. By his influence
+were killed Daityas, Danavas and Raksasas.
+
+## Page 93
+
+86
+
+Vayu-Purana
+
+ae Tafturaiirreaanadaa:|
+oftavaranfager ast aera ci
+Even at the very outset, the son of Agni was
+observed by the wives of Satparsis, barring
+aside Arundhati who had come there for their
+ablutions.
+
+aif: @ arehiaet Ug: afega: wy:
+feared cantata agin sen
+By all those, the master Raudra, a veritable
+peer to the rising sun, was surrounded as such,
+
+holding affection as real mothers, being of
+highly individual norm, the Matrs (mothers).
+
+rcrckeaite fegyateatga:1
+TOS AGATA MT ETAT: Yo tt
+
+Simultaneously with a view to see all those
+goddesses, out of affection for them, the son of
+Jahnavi (Ganga), the illustrious one of great
+radiance, created six faces.
+
+SPRATT:
+OF Fea CATT Fatt v Ul
+The illustrious one, having eyes like the
+lotus petals, a peer to the young sun, by whom
+
+having taken birth the turbulence of lokas, was
+created by his lustre.
+
+aa aaa Heat Farnrafewra:|
+
+wahen araToEeeare: WATTS NS VU
+The groups of Danavas who could not brook
+Devas, had a purge (Skandita) when the great
+deity was born. On that account, that prowessed
+one became known as Skanda.
+
+afaariing wend afta: a yea:
+aaifeicae St CUTAN QTTSA: Nl 311
+
+Because the pristine one, the killer of
+Asuras, had been nourished by the Krttikas, he
+became famous as Kartikeya.
+
+Fee sevaterarenpeMeay
+qenrfgtrin aa wankexcarat vst
+
+On the yawing forth of that enemy of Deity,
+his Sakti* (spear) called Aparajita came out of
+
+his mouth, blazing with flames of fire.
+ated da arc faa wafer
+restate OBt fe wfarut fe wagatn syn
+Ta: Hageda waa Ya aT
+WI TA ARAM Tera WET
+
+a: Tacha Sat at Sear PATE
+
+For the sake of sport of Skanda, by Visnu,
+the powerful one, were generated two birds the
+Prabhadrakas (a peacock and a cock) from
+Garuda. A Pataka (banner) was given by Vayu
+(Wind-god). A great Vina (lute) was offered by
+Sarasvati of great intonation. Aja (goat) was
+offered by the Svayarhbhuva and a Mesa (ram)
+was presented by Sarhbhu.
+
+arenferecor farmr fire ates Frontech
+
+ARH UTgTat Agelat Frurfran won
+wareeaikeefiaga: wy:
+tres cenftehafirn: wearvar yc
+
+O Brahmanas! When the Kraujicagiri was
+felled down in his sport out of his illusive
+power, when Taraka, the excellent Asura, was
+also thoroughly torn asunder, the lordly son of
+Agni, the enemy of Daityas, the prowessed one,
+was crowned as army-in-chief by the blessed
+gods such as Upendra accompanied by Indra.
+
+qatarahreatd Weat TATA!
+Ra: THE: PASAT: WY S RH
+
+The army-in-chief of the army of gods is
+also known as Naranayaka (the leader of men).
+The chastiser of the enemies of gods, Skanda,
+became the Lord of the entire world, the
+Lording one.
+
+waatfafadidaecanr semithin
+urghafataenties feared 4 ott
+
+By all the Pramathas and varied gods,
+likewise by Bhiita-ganas and by good many
+Matrs and by the groups of Vinayakas (helped
+as such) (he became the army-in-chief).
+
+ofa strergaat aries Sargqeahreert ae
+faaafreratseara: 9 2
+
+## Page 94
+
+Chapter-73
+
+87
+
+usr frecafratiseara:
+
+Chapter 73
+
+The description of the Loka Acchoda
+and an observation on the manes
+consumed by Fire
+
+(qeenfreara)
+ater: Brae are artes Fo Gat:
+fat fefa ata taraenaata ane
+Brhaspati spoke~ The lokas named
+Somapadas wherein were there the sons of
+Marici, the manes abide in heaven and to them
+the gods recognise.
+
+aftrann eft wrat: wa warfare:
+Wet A aM orester are FEAT RHI
+Consigned to fire all of them the way they
+became known as of highly radiant form.
+Therein mind-born daughter is known as
+Acchoda.
+
+aearé a9 aiget wat sen: wafer
+aieararen aah fanrififad fafa au
+From where rose up the beautiful lake
+
+named Acchoda resorted to by the nymph
+Adrika equipped with aerial cars in the heaven.
+
+animes fray a y faferm
+Wiss 3:64 aya aratttinsn
+Amazed as such, she saw the manes
+
+formless ones and was made anguished by this,
+the Varavarni (the beautiful woman).
+
+mt opt fiat ad agarrafierm
+srrag itt Garrard: ya aaa GH
+Having seen the Pitrs, she wooed the one
+gone within the intermediary space, the one
+belonging to the Vasus, the one known as
+Anavasu, the reputed son of Ayo.
+
+Waa cafreatr wa: arTenfToM
+UAAETAT AAT AT UW AMTTET TUT B) NEN
+
+That one by that morbid movement of mind,
+
+acting wanton as such, cherishing a husband,
+then became downgraded from Yoga and
+collapsed.
+
+ar aupaigarnfa wait a feagem
+aunt FeayTeT aPATAH ott
+
+And she saw the aerial cars as small as a
+mote while falling down. Then she slipped
+down from the heaven. She saw the fallen
+manes in them.
+
+Teearafiennrsarifiaans 5 fear
+areaftegareny weit arrenfergrets it ¢ 1
+
+They were extremely minute and
+unforsaken. They were like sparks of fire
+existing on sparks of fire. “Rescue me”, this
+way she clamoured out, while falling down
+head long.
+
+recht TT YF AT AeifigensfetwatsHaq
+Wa: Meee & firfemdan firm en
+By them, she was asked not to get afraid.
+
+This way spoken, she became stable. Then by
+an ingratiating talk, she gratified the manes.
+
+age fer: eat obvaf after
+
+gbaat wadttior wate a yfafert go
+
+Spoke out those manes (Pitrs) to the girl
+
+who had gone down from supremacy owing to
+transgression— “Having supremacy brought
+down owing to personal fault, you have fallen
+down, O pure-smiled one!
+
+a: fea a anifin waite dat
+aa aentwet erqarite Saat: 11 eau
+
+The Devatds (gods) achieve the fruits of
+their actions by means of the same bodies with
+which they perform those actions.
+
+aa: woth anti
+tard Fea GU
+
+wemrenrest (Y) wet (fa)
+Wr WTS ETT AMI
+
+Instantaneously acts do fructified in the case
+of Devas. In case of human beings, they fructify
+
+## Page 95
+
+88
+
+Vayu-Purana
+
+after death. Hence you will attain the status of
+the child of Amavasau after death and will
+attain the fruit”.
+
+seen & fet: Grea y wafers
+SAAT WATE WHR AFH BB
+By such a talk (of her Pitrs), she once again
+gratified Pitrs. After meditating, they offered
+grace on her out of compassion.
+
+vaginas opr wage: TA:!
+
+ar: far: at Tada waren ext
+
+serrer Yeat ¢ gael WEI:
+
+aa Ya franieciarga: wreeate warfafan
+
+Having foreseen what is surely destined to
+
+happen, the Devas, the Soma-drinking Pitrs
+spoke to the girl “You will become the
+daughter of the noble-souled king Amavasu
+who is born on the earth in the existent state of
+a human being and thereafter attain these
+personal worlds of yours.
+
+worag afeat a gmt neertiam
+aeta Tat glee arfgerrat erareratn 96
+
+In the twenty-eighth Dvapara Yuga, you will
+happen to be the one born in the breed of a fish.
+You will be the daughter of this very king
+Améavasu and Adrika.
+
+We Farad Sfacafa
+a aets fanfigget 4 after eon
+You will generate the collateral of the sage
+
+ParaSara. That Brahmana sage shall dissect the
+single Veda into four parts.
+
+nerfrer Yat st viet: aif
+fafeadtd enti catatarefarafan gent
+faangé U Ta teeerponFay
+WE Wated Waetfearrarcenfan 9¢
+
+You alone will give birth to two sons who
+will maximise the glory of Mahabhisa'
+
+1. Pauranika Kosa, p. 408. Mahabhisa— Santanu's
+name of a previous birth. Santanu being one of the
+
+Santanu- the two sons, namely, Vicitravirya,
+the knower of Dharma, and Citrangada, the king
+endowed with merits, force and radiance.
+Having given birth to these sons, you will attain
+to your lokas (worlds).
+
+aaftramfeat a wrod sma afer
+weda Ue Gen siarat afawafan on
+Owing to transgression of the Pitrs, you will
+acquire a birth of abominable order. You will
+become the daughter of the very same king and
+Adrika.
+aa Gea ae Sftmicctararcata
+UatRal Y aaa Hat wera | AM aH
+Having become a maiden, you will again
+attain to these lokas.” This way having been
+spoken, she was bom as Satyavati, the daughter
+ofa fisherman.
+arigenrat gar Heat Yar Sra ATTA: |
+SAGAR TETTGTETA 2 2
+In the confluence of Ganga and Yamunéa,
+
+she was born of the fish Adrika. She was born
+as the daughter of Amavasu in Adrika fish.
+
+wet TaN fe HT eT Ua ae wea fe
+fara ama & eter fafa tras & wou eau
+
+Infact, she was the daughter of that king, the
+semen virile of the king. These lokas are named
+Virajas and in the heaven shine forth those
+ganas.
+
+afrarn: wares fradt react:
+ASSO TANT TATRA: NBS
+areifagreny saata mente:
+
+Ul GAT: SARA: YOST ATTA 24 I
+
+There the Pitrs became well known as
+Agnisvattas of refulgent radiance. Covetous of
+
+excellent fruits, groups of Danavas, Yaksas,
+Raksasas, Gandharvas, Kinnaras, Bhitas,
+
+sons of (Devapi Santanu and Bahlika) as per Vayu
+Purana 9.237.
+
+## Page 96
+
+Chapter-73
+
+89
+
+Sarpas and Pisacas worship them. These ones
+are declared as sons of Pulaha Prajapati.
+
+Fa UA TOM: Meer engi: YT:
+Uaat wa Bea Trak are feat 2g 11
+These three are the ganas declared as such,
+as bearers of frame of piety, the auspicious
+
+ones. Of these, the mind-born daughter is well
+known as Pivari.
+
+aitrt arract a arrarat ate a
+fear grat wer atenfaret Tea FN ROU
+
+Yogini, Yogapatni and likewise Yogamata—
+she was reputed this way. In the twenty-eighth
+Dvapara, she will exist as such.
+
+WU: YT AT TTT:
+straint weratt arrerenfestrra: 1 32
+He will born in the lineage of Paragara, the
+one named Suka, of austere penance, the
+illustrious one, the Yogin, the Mahayogin and
+Yoga will spread from him, O excellent
+Brahmanas.
+
+carererval dye fae ga wera:
+ao reat figerarat ahraratafegarn 2 ei
+He will took birth of Vyasa, from the Arani
+like the smokeless fire. In the mind-born
+daughter of the Pitrs, he will beget the
+following well-known Yogacaryas.
+por te wey vy ae afega a aL
+wen atta da ath ArraTTTAN 3 ot
+Krsna, Gaura, Prabhu, Sarnbhu and
+Bhirisruta. He will beget a daughter Kirtimati,
+the Yogini and Yogamata.
+Fea Set Ufa aySeT gl
+Wager ented Gara a3 gH
+Tertrrana eraratet afar
+sufgrafencottd eaqaateranfead: 11 8 2H
+She will be the mother of Brahmadatta and
+
+the queen of Anuha. Having produced these
+pious-souled sons, having attained to Yoga,
+
+having austerity of great Yoga (mental
+concentration) (assumed), he will attain that
+great goal from which there is no return. Like
+the rays of the sun, he will attain the status of no
+rebirth.
+
+demi fafnhat afaeats wergfi:t
+arate: frat ectufterrg 23301
+Fa WA TOAST aeaTes=al Fratera
+araeanta fete yftatt were: 113 vil
+
+The great sage will become omnipresent and
+liberated. These three Pitrs of non-corporeal
+form have the framework of piety. And four
+others you may understand, whom I shall
+illustrate, O excellent Brahmanas! O corporeal-
+normed ones! O highly radiant ones!
+
+SAAT TTY HST GA: HA: Ya:
+
+fart actieag satferifag aT | KI
+They are Kavyas, sons of Agni, Kavi born
+of Svadha. These Pitrs stationed in the
+
+Devalokas are refulgent with light, being
+radiant as such.
+
+wdarmaqay faarerraga
+Wat at wan ciate fea faegamn gen
+They are affluent with all desirable objects
+and the Brahmanas revere them. Their mind-
+
+born daughter was famous by name Gau, well-
+known in heaven.
+
+eet aaa Yow afedt fran
+Werfayred fereerat spoT aitftaeet: 113 9 tt
+Kumara bestowed an army on her. She
+became the queen, dear one of Sukra. Thirty
+one happened to be the well-known Pitrs, who
+heightened the glory of Bhrgus.
+wofarahe car: wage fafa gan:
+Wi wigta: Gar: area: we fafatiar:n acu
+Their lokas were well-known as
+Maricigarbhas (having rays within) which
+envelop thé heavens. Those sons of Angiras
+grew along with the Sadhyas.
+
+## Page 97
+
+90
+
+Vayu-Purana
+
+SUgeT: Yared g feat arene fafa
+areatrenrmnige: wraata wort: 13 en
+
+Summoned along and remembered Upahitas
+as such, they verily, were the Pitrs, radiant ones
+in heaven. Looking up to them, the Pitr groups
+of Ksatriyas, those cherishing fruits, revere
+them.
+
+Waa Wa SAM agile as Fagan
+elt ar ferred: Get a feat
+
+The mind-born daughter of these is well-
+known by name Yasoda. She was the wife of
+
+Visvamahan and the daughter-in-law of
+ViSvasarmin.
+wath at Gear WET:
+
+Bea aH Te site mre FestehAAA ny en
+The gentle lady was the mother of the
+saintly king Khatvanga, the great-souled one, in
+whose Yajfia (sacrifice) was strained forth the
+eulogium ditty by the divine great sages.
+Sea Ta EBT wfaserer ETA:
+aan fect & wate qafgars nw en
+And having observed the birth of Agni (in
+the sacrifice) of Sandilya, the great-souled one,
+was seen Dilipa, the Yajamana (a host under
+whose auspices the sacrifice is performed),
+quite concentrated as such.
+
+aad wert & eattafeitsm:)
+sree are frat: HEAT HATTA 1B
+He was of truthful rites, the great-souled
+
+one. The Pitrs named Ajyapas of Kardama, the
+Prajapati, were vanquishers of the heaven.
+
+TAMA TRG STA:
+dime ata arty faeries
+He was born of Pulaha and took birth once
+again of him. Moving about in the sky, they are
+stationed in these worlds that go about as they
+please.
+
+warayeon: arg areata wentea:
+waat wet aT facet aT fea wy Mt
+
+The groups of Vaisyas who are desirous of
+fruits, revere these in an obsequial rite
+(Sraddha). There mental daughter is Viraja by
+name, well-known as such.
+
+mares Ureat weit UT AgTET gl
+Beret ara feat afar wT se
+The chaste woman was the wife of Nahusa
+
+and the mother of Yayati. The Pitrs named
+Sukalas are the Pitrs of Vasistha, the Prajapati.
+
+fauanha ga: YRRAPTaaal
+TTT aM & Slat det aa a fefauwon
+They are the sons of Hiranyagarbha, the
+
+Sidras, and they are stationed in the worlds
+named Manasas.
+
+wet uA aan wer afat am
+er orerate erent afro yc
+Their mental daughter is Narmada, the most
+excellent one among rivers. Flowing along in
+
+Daksinapatha (southern domain), she sanctifies
+living beings.
+wort waeRae Garant:
+WRIT UTTAR YB
+She was the mother of Trasadasyu and the
+
+spouse of Purukutsa. Manu became the lord of
+Manvantara by adopting these (Pitrs).
+
+Wana seat waa wae:
+faqurengqgein waar fer oN
+
+At the inception of the Manvantara, he takes
+to obsequial rites all over as per descending
+order of Pitrs, O Brahmanas of excellent norm.
+
+wanes ator org Ba | EAM
+waar Ta: TAT aT Tara QU
+
+Therefore, the obsequial rite deserves to be
+performed with devotion with one’s own
+Dharma unto all, by silver basins or even by
+those filled with silver.
+
+ad at Gera aa stunts & fa
+ATAMSSaT Feat TASHA TUG VW
+
+## Page 98
+
+Chapter-73
+
+on
+
+Senet ath a spate TeNqETG
+faaionfa 3 seen fers: storafa TUG 3
+Having kept the Svadha in front, he gratifies
+the Pitrs. By the propitiation of Soma, Agni and
+Vaivasvata and by the performance of Homa in
+the sacrificial fire during the northern transit (of
+the sun), one shall attain the fruit of an
+Asvamedha sacrifice. Pitrs gratify him who
+propitiates Pitrs with devotion.
+fret: yfeerret were aT WA:
+Us wai a ert a reheat era y wh
+The Pitrs bestow those who are desirous of
+progeny and desirous of virility. They ennourish
+
+the progeny and offer heaven. There is no doubt
+in it.
+
+Racnratafe wat fuged fafererh
+
+Raana: faut fe wore BATTING GH
+
+As compared to the Deva-karya (rites of
+
+gods), the Pitr-karya (the obsequial rite) attains
+distinction. It is ordained that the propitiation of
+Pitrs must be given priority over that of deities.
+
+a fe arrefa: Ger faqoratt Tara:
+aren fg wines Grad areERTT Gc
+The Yogagati (the subtle activity of mental
+concentration) or the gratification of Pitrs is not
+visible through the physical eye. Only by means
+of a well-known penance are they to be seen.
+
+gra fara citer gig a
+Aer sears ster T aaa ATTN ent
+This way Pitrs, their worlds, their daughters,
+their grandsons, their sacrificial hosts and those
+who revere them have been recounted.
+
+eat wie see: |
+Wa: oa Genel Fat: Haha TAT ol
+(Out of the seven classes of Pitrs) four are in
+corporeal forms and three are in non-corporeal
+
+forms. Devas honour them and offer Sraddhas
+to them devoutly with efforts.
+
+TET: WAT: WS AARANATATAT: |
+
+fad a fanaa yfgasn: sf (or) een
+qm: Sareea fatraarya
+WATE STATE fearateaterdta Ung BN
+tray weala vere fedtaa:
+afapahrny mua: wd Wa ae aH
+aan ar: UTiT fava Tara: Tet
+farpragrerad Prater wenfir: 1 § 61
+
+All the Devas accompanied by Indra
+concentrate their minds on them. They join their
+palms in reverence and worship them with full
+devotion. Visvedevas, Sikatas, — PrSnijas,
+Srigins, Krsnas, Svetas and Ajas worship them
+duly. Desirous of benefits, the subjects
+Divakirtyas, Lekhas, Maruts,
+Brahma and other heaven-dwellers, Atri, Bhrgu,
+Angiras and all other sages, Yaksas, Nagas,
+
+Vatarasanas,
+
+Suparnas (Garudas), Kinnaras along with
+Raksasas, invariably adored the  Pitrs,
+cherishing fruits.
+
+Wada WEA: oT eR UAT:
+
+PabarTaea et wagise BEATE GM
+These great-souled ones, if duly adored and
+honoured in Sraddha, grant all desires hundred-
+fold or thousand-fold.
+
+feet Actes Sea FM
+thal arated sero fa farareet: 11 & 1
+These Pitamahas (Pitrs) do grant Moksa,
+(liberation), Yogic Power and Aisvarya
+(prosperity) after one has abandoned the three
+worlds of normal existence involving old age
+and death.
+
+matarermdard went Saat: 1
+greet Trem wereaha frame: 11g ott
+Pitamahas, the deities of subtle bodies, grant
+
+the means for emancipation, supremacy,
+complete renunciation and infiniteness.
+
+tard fafedt arrterd ferrgea
+aitgatgt ter: cretfersiromerdtit § ¢ tt
+
+## Page 99
+
+92
+
+Vayu-Purana
+
+Supremacy of Yoga is Aisvarya; and
+Aisvarya is the excellent wealth. Without the
+supremacy of Yoga and Aisvarya, how possibly
+liberation becomes tenable?
+
+amanda er THY wferait aa
+afte: wderatot drarrt: Garda G VI
+Just as for a wingless bird, the flight within
+the sky (is not) practicable, that very way the
+(Moksa) is impossible. It is super most among
+all the Dharmas (religions or duties) and pristine
+as such.
+
+fanart agent garaacat mt:
+weaaatagis washes frat: Neott
+The Pitamahas grant thousands of aerial cars
+
+stand associated with the groups of Apsarasas;
+well-known as the accomplishers of all desires.
+
+yan Ufe: wien Teaaa aI
+Fagot fe were wreTy ARIAT 9 gH
+
+The strength of intellect, memory, brain,
+kingdom and health can be attained only by the
+grace of the noble-souled Pitrs.
+
+Teradata afarngantt a
+aifeventa venta weeoha frarrat:i9 80
+Pitamahas do offer crores of gems, pearls,
+turquoise or Japis lazuli, costumes and
+thousands of horses and elephants.
+
+gaateorgen qartatatea a1
+
+fafgotorerai wargerncntt Tl
+
+Sher fart wereahet wgerort Frat: 1119 3 11
+
+Pitamahas always bestow on subjects with
+
+love, chariots equipped with swans and
+peacocks, studded ‘with pearls and turquoises,
+decorated with tinkling bells and provided with
+perpetual flowers and fruits.
+
+fe sftreryaret argues SutgTATy attegeaed aT
+
+Farereaferetttseara: 1119 3 1
+
+weR
+
+## Page 100
+
+92
+
+Vayu-Purana
+
+UST eg eae: UI
+Chapter 74
+
+The naming of the receptacles of Pitrs
+and the demarcation of the abode of
+Pitrs
+
+aeeafrwaret
+aut wad art faquit we
+Tat Tras at feqatt uEAA BU -
+Brhaspati spoke- the vessels of Pitrs should
+be made of gold, silver or copper as per
+
+(Dharma-sastra). Silver and silver-coated vessel
+is deemed to be befitting Pitrs.
+Tare an asia ag ate a
+arremerd tard fq area
+FUGA SAT AYATATTTA 2
+The sight or gifting away of silver is
+considered to be highly conducive gift for the
+Pitrs. It is beneficial for the attainment of
+infinite and everlasting heaven. By this
+bestowal to Pitrs, the virtuous sons redeem as
+such.
+an fe tan ger vasfeafaght: ym
+rarrerafifirena aferad wearer 3
+O dear one, it was in silver vessel that
+Svadha was formerly milked by Pitrs seeking to
+get Svadha. O dear one, if that is gifted, it yields
+everlasting benefit.
+ponte wife att arate an
+waite gach facerafgarearq wt
+The close propinquity of the black antelope
+hide or elephant hide, its sight as well as its
+offering is conducive to the destruction of
+demons. It increases Brahmanical splendour and
+enables Pitrs to cross (hell).
+arent Ted and aie qaafeten:1
+ae a wettest freudt art wa aan
+
+Vessels made of gold, silver or copper,
+
+## Page 350
+
+322 
+Vayu-Purana 
+Manvantara. The future Devas are said to 
+consist of five groups. 
+?ftcTT TtfgrTT^cT (^T: WTOWTI 
+WW W T*pTT:il6\3ll 
+The Devas such as Haritas, Rohitas, 
+Sumanas, Sukarmans and Suparas- these are 
+known as five Devaganas i.e. righteous- 
+actioned ones, 
+WUTr RPTOT #TT TT^r TW:I 
+3T^3TT f^gRI2J ^WT: 1166 II 
+riot dm ^t: ^t:ii6^ii 
+They are the mind-bom sons of Brahma. 
+Each of these groups consists of ten Devas. 
+Aruntija1, Havi, the wise Sahasrasan, 
+Parvatanucara, Apos, Amsu, Manojava, Urja, 
+Svaha, Svadha and Tara- these ten are known 
+as Haritas. 
+f TR£f iril^ o 11 
+t 3# TTf^HT: ^cTT:l 
+^ ^H5raf^Bt^%T:ii<?^ii 
+faCjj. RcJRtTJTT I 
+^ferRt ^ n 
+fopgj 5fR#f fq^rf: <SRT TJ<J Wl 
+Vrf ^MOTT ^rfT?tWl fqcjtelTTil^ll 
+Tapas, Jani, Bhrti, Vaca, Bandhru, Rajas, 
+Raja, Svamapada, Vyusti and Vidhi- these ten 
+constitute the Rohita group. And the thirty-three 
+Devas who have been glorified (before), viz. 
+Usita and others are to be known as Sumanas. 
+Now you may know the Sukarmans. They are- 
+Suparva, Vr$abha, Prsta, Krsi, Dyumna, 
+Vipascita, Vikrama, Krama, Nibhrta and Kanta. 
+These Devas are Sukarmans. Now you may 
+know their sons. 
+1. One of the ten gods of Haritagana,. Vayu Purana 
+100.88. 
+cwlficTwyi f^rgt ff?RT^fo:i 
+^ ciyiirwym^u 
+They are- Varsodita, Jista2, Varcasvl, 
+Dyutiman, Havi, Subha, Haviskrta, Prapti, 
+Vyaprtha and Vasama. 
+Suparas, Managanas etc.- these Devas were 
+well-declared (before). Of them, Indra deserves 
+to be recognised as Rtadhama3 of great fame. 
+TTlsfa: WROTTI 
+cRtS'STOR: hlHTrh: iRUfatl 
+The Seven Sages are- Krti the son of 
+Vasistha, Sutapas of Atri’s family, Tapomurti of 
+the Angiras race, Tapas vin of Kasyapa Gotra, 
+Taposayana of Paulastya race, Taporati4 of 
+Pulaha Gotra and the seventh one among them 
+deserves to be recognised as Tapomati of Bhrgu 
+family. 
+■q% TRpfa: fegr 3RT JHNfesqfri 
+^rfh^Ti 
+foRTf: TRTElfer 513$* TRt: ^tTT:l)<?<?ll 
+These Saptarsis are well-accomplished in the 
+Savamika Manvantara. Devavan, Upadeva, 
+Devasrestha, Viduratha, Mitravan, Mitrabindu, 
+Mitrasena, Amitraha, Mitrabahu and Sutacas- 
+these were the sons of twelfth Manu. 
+TT Wr% RoR /^RR TR:l 
+O \3 
+TJcf TrOTT: MJrbT \c\m\ H o U 
+2. Pauranika Kosa, p. 187, Vayu Purana 100.94, Jista. 
+3. Pauranika Kosa, p. 70, Rtadhaman. Rtasavarna 
+Manu (Indra of the Yuga of 12!h Manu), Vayu 
+Purana 100.95. 
+4. Taporati Pauranika Kosa, p. 193. Paulaha, fourth 
+Savarni Manu’s contemporary sage.
+
+## Page 351
+
+Chapter-100 
+323 
+In the thirteenth transformation of the aeon, 
+which deserve to be Raucya Manvantara, three 
+groups of Devas are mentioned by the 
+Svayambhuva (i.e. Brahma). 
+wwt -RFraT: Wtft % Ri 
+WCTTW: wrftJT: ^ =T2T:ll^o ^ii 
+v3 O O * 
+All those noble souls are mind-bom sons of 
+Brahma. They are- Sutramans, Sudharmans and 
+Sukarmans, the three. 
+faSViRi W: ^TTFFrr Rfew: i 
+These Ganas have been illustrated as the 
+future Somapayins i.e. Soma drinkers. The 
+deities are thirty-three in number along with the 
+performers of Yajnas. 
+They include the Ajya, Prsadajya and 
+Grahasrestha groups of Devas. You may know 
+that the thirty-three Devas are quite distinct as 
+such. 
+yywTUT: srqMjrw 3TFHjm ^pt mm\ 
+O \3 ■N 
+yfcKMIlfyWRJ ^ll^oXII 
+The Sutramans are the present Prayajyas and 
+Ajyapas. The Anuyajyas and those who partake 
+Prsadajya (eaters of ghee mixed with coagulated 
+milk) are Sukarmans. 
+swam wtHt c^t: n«£lHfn:i 
+The Upayajyas are Sudharmans. This way, 
+the Devas are declared as such. Divaspati of 
+great prowess shall become their Indra. 
+WI^TfW^TRT WT:l 
+3Tf^N ^:in?o^|| 
+fHa5RTCRITSS%3t cR^pr^Uu^oVan 
+faf^Rt HHrasr Rg-.n^o^u 
+fr^TF^T -CRT: J3T fRT* 3 
+The sons of Ruci deserve to be recognised as 
+the grandsons of Pulaha. The Seven Sages in 
+the thirteenth Manvantara will be- Dhrtiman of 
+Angiras family, Pathyavan of Paulastya race, 
+Jattvadarsin of Paulaha family, Nirutsaka of 
+Bhargava race, Nisprakampa of Atreya lineage, 
+Nirmoha of Kasyapa Gotra and Svarupa of 
+Vasistha lineage. Citrasena, Vicitra, Tapas, 
+Dharmadhrta, Bhava, Anekak§attra, Baddha, 
+Surasa, Nirbhaya and Prtha- these were the 
+sons of Raucya Manu in the thirteenth 
+Manvantara. 
+H xraf^ RRwnsRrr trT:i 
+r!drTmi TTurr* trar rmru if h %jfdbufwi 
+In the fourteenth change of aeon of Manu 
+Bhuta, the five groups of Devatas or Gods have 
+been spoken of and these they will come about. 
+^TTTTgJ cRftHTSJ tffojT RRTTTR2TTI 
+c(THT3^T2j w eic(j|crn: ^ijrmiimii 
+Caksusas, Kanisthas, Pavitras, Bhajaras and 
+Vacavrddhas- these five Ganas of Devas stand 
+well-known. 
+3iw(wgT)fir iRt: 
+c^dinifa wtnH chPgimR n 
+*rr%n: w HrjcT:ii wn 
+Know that the seven different parts are those 
+named Caksusas. They understand Brhad and 
+other Samans as the Kanisthas. The seven lokas 
+are Paritras and the Bhajiras are the 
+Saptasindhavas (seven oceans or rivers). 
+TTTt: *cuq^cH<i c(| 
+You may know the sages to be Vacavrddhas 
+of Manu Svayambhuva. All the Indras of the 
+Manvantaras deserve to be known as of similar 
+pre-requisites. 
+ctersr wm i 
+^rrRr rHrHt fprf&r wn
+
+## Page 352
+
+324 
+Vayu-Purana 
+ehi*v*u 
+Those Indras excel all the mobile and the 
+immobile living beings in the three worlds by 
+means of their radiance, austerity, intellect, 
+strength, learning and heroism. 
+^dwsnf^Tl ist Tmm 
+spqarrf^T: ^i^RTt %?T: Trarf^TTSii^mi 
+The Indras are Bhutapavadms, Hrstas, 
+Madhyasthas (neutral-normed ones or impartial 
+ones), Bhutavadins and Bhutanuvadins. The 
+three Vedas are competent in respect to 
+Pravadins. 
+3wms *T:l 
+STPfcTt flfaraijpj ^fiRTffTTOMTII 
+3Tt3R^ TRt: TgcTT:||^|| 
+Agnidhra', Kasyapa, Paulastya, Magadha, 
+Bhargava, Agnibahu1 2, Suci, Angirasa, Ojasvin 
+and Subala- these happened to be the sons of 
+Bhautya Manu. 
+TReft iftft Mil 
+TJcfit wi TRWRTlIWII 
+All these four Savama Manus are the sons of 
+Brahma. One Savarna Manu is called the son of 
+Vaivasvata. 
+ffeft tft <T TRh 
+rM*<4 c|TSsfifTAl cT 1tTof; cb^M<K1 M<5rl11 II 
+Raucya and Bhautya, these two Manus 
+belong to Paulaha and Bhargava family 
+respectively. While there is an overlordship of 
+Bhautya, the Kalpa becomes complete. 
+xt TT% TTcTT 
+TTfW^tot %T 3HtfT||^ || 
+Suta spoke- When all the Manvantaras 
+come to a close in entirety, many Yugas pass on 
+1. Agnidhra- one of ten sons of Svayambhu Manu, a 
+king of Jambudvlpa, Paur&iika Kosa, p. 12. 
+2. Pauranika Kosa, p. 11. 
+and when everything is truncated, it is called 
+Samhdra or dissolution. 
+T*c}T 3RT rT^Tl 
+MWWWT ffTTW 
+^tZT^ t: 
+oMdrcil 
+TTcP% ^tuT W^TII^II 
+Then at the culmination of the Manvantara, 
+the seven Devas of the Bhargava lineage, the 
+powerful sovereign rulers having enjoyed the 
+world triad for a period of seventeen Yugakhya 
+(cycles of four Yugas), accompanied by Manes 
+and Manus as also the Saptarsis, the Yajvanas 
+(performers of Yajnas) and even the devotees of 
+these ones, shall proceed to the Maharloka 
+having deserted the world triad. When they 
+proceed upwards (i.e. to heaven) and when the 
+Manvantara truncates, all the three worlds shall 
+happen to be without any support. 
+rTW: w-iifa yRiifa wipHi TTTft t ftsrr:i 
+swrfaf PciqTbiP bTTi^yu^ynii^r^n 
+Then the abodes of the abiding ones shall 
+become desolate, 0 Brahmanas! They shall slip 
+down having been rendered flaccid by stars, 
+constellations and planets. 
+cld'klM Odjdlrftl cd ICK^I 
+f^TTUT?xT W U3T 
+^T% T*c|TCt i TT#jTS:II^MI 
+Thereafter, when the overlords of the world 
+triad accompanied by eight Indras pass away, 
+the fourteen groups of Devas beginning with 
+Jita and others and ending with Caksusas, the 
+Devas who were very mighty and full of 
+radiance in all the Manvantaras, (shall) go to the 
+Maharloka wherein they will become the aeon 
+dwellers. 
+s3 Cs O* -v 
+dc|IAi ^ TTM rt^TII^^II
+
+## Page 353
+
+Chapter-100 
+325 
+tJ^frdh qRrMvHl W# t xJ^?TI 
+Then when the time of Sarikalana (lit. 
+collision or dissolution) arrives, those fourteen 
+groups of Devas will take leave of Maharloka 
+and shall proceed to Janaloka in corporeal form 
+(i.e. preserving their physical bodies) 
+accompanied by their followers. 
+TT^- yfcl I 
+C\ ' v3 -O * 
+?T#T HlebWI^N WTf^l 
+O- O V S3 C\ N3 
+^5 ^ )tht «h(rMdiRnr^ii 
+TTTWIT WT 
+This way, when the Devas have gone from 
+Maharloka to Janaloka, when Bhutadi (Cosmic 
+Ego) and other (prime causes of the universe) 
+remain and (even) immobiles have come to an 
+end, when the abodes of the worlds beginning 
+with Bhuh and ending with Mahah have 
+become void, when the Devas . have gone 
+upward and become united with the residents of 
+Kalpa, then having harnessed then those, later 
+on, Brahma re-establishes Devas, Sages (Rsis), 
+Pitrs (Manes) and Danavas as also the great 
+creation by a perception at the dissolution of the 
+Yuga or aeon. 
+I# gJWUHinjUbM 3RT:ll^ll 
+The people recognising Ahoratra i.e. day 
+and night tenure, understands that the day of 
+Brahma consists of a thousand cycles of four 
+Yugas and similarly the night too consists of a 
+thousand cycles of four Yugas. 
+^fafricb: Tnefcfaehl ^«IISWlfcl#S#T:l 
+The dissolution of all living beings is three¬ 
+fold- Naimittika (periodical), Prakrtika 
+(pertaining to Prakrti) and Atyantika (the 
+ultimate one). 
+it# ^fniricbww jtwt:i 
+TTfd*rn § ^RTRT ST^rT: II ^ ^ II 
+The Naimittaka dissolution is the burning 
+(of the Universe) at the end of the Kalpa and 
+complete withdrawal by god Brahma. The 
+natural dissolution of senses of living beings 
+into Prakrti is called Prakrtika type of 
+dissolution.. 
+dcT: -QWV TTRIjpT ^c|T^#5*lc|lftR:ii^'#il 
+tR;i 
+O o 
+WT: TT^TrT cT^TI I ^ m l 
+The dissolution due to dawning of spiritual 
+learning is called Atyantika type of dissolution 
+since it causes the non-provenance of the 
+sources. After dissolving all the Devas abiding 
+in the world triad at the end of his day and when 
+he feels the urge to sleep, Lord Brahma brings 
+about the annihilation of the subjects and 
+dissolves all the creation. 
+M'dl: TT# TT II 
+Then at the culmination of a thousand cycles 
+of Caturyugas and at the arrival of the 
+dissolution of the Yuga, Prajapati begins to 
+make the subjects absorb in him. 
+W ^ra^RTfflrRT^T FT VlrMlftebl'l 
+rTSTT ■sn^JFTTTTTTfw WTTfq 
+flRfaiaf SHfe# TTferoife ^1 
+Cv 
+Then sets in paucity of rains or drought for a 
+period of hundred years. And those living 
+beings on the surface of the Earth, (still left) 
+being deficient in strength become dissolved 
+and are merged into the Earth. The Sun then 
+rises up with seven rays constituting his chariot. 
+Tmferfa:l 
+www #zpnrm§ wfa:nmii 
+Having rays of unbearable norm, the
+
+## Page 354
+
+326 
+Vayu-Purana 
+adorable Sun begins to consume water through 
+his rays. Those seven rays will be green in 
+colour and of dazzling lustre. 
+WT TJc[ dH TEt: i 
+sfa gng «R M 11 
+Circumambiating the cloud or becoming 
+dense gradually, (the seven rays) spread forth 
+and the terrestrial wood, the wealth and light 
+gleams forth with water. 
+THTcTtsirr f| gSERfl 
+qi^g^rr ijRfgigciii^ii 
+On that account, the water is said to be the 
+cause of the shining of the Sun. With drought, 
+the sun neither gets torrid-normed nor get 
+bedoomed-beamed. 
+dTejg^IT qRRwRd Tfe:l 
+Nor by drought they become accumulated. 
+By water, sun gets engleamed. On that account, 
+consuming water, the sun is made to gleam 
+forth in the sky. 
+ct W ftsRSJWTt WtfcrRTI 
+TRlf: W W-rddll ^11 
+His seven rays suck up water from the 
+Maharnava (the great ocean). Rendered radiant 
+by that food, the single Sun proliferates into 
+seven Suryas (Suns). 
+Hereof wm: w 
+xjg#cfifipt Tig RiRsH'W^m^'xii 
+Then those seven rays having assumed the 
+form of seven Suns, bum the four quarters and 
+the four worlds in entirety like fires. 
+mcrafcr g grfw <&>$ grasr TfN^:i 
+v3 O 
+The fiery rays reach the upper and lower 
+(regions of the worlds). Seven Suns and the 
+blazing fire of the dissolution gleam forth 
+fiercely. 
+% giRun g 
+And these beams in many thousands, being 
+calcined by water, having encompassed the 
+aerial route (lit. sky), stay on, rendering burnt 
+the earth. 
+dd^NI ScTT^T ctgTOHI OTRTI 
+uiRriautai igggt fcTFr^i wrugii^gn 
+Being burnt by their blazing heat, the Earth 
+having terrestrial terrains, mountains, streams 
+and oceans becomes free from humidity. 
+cfanfif: gggriw ^M-dd:i 
+g fd^gg 
+The lower regions, the upper regions and the 
+vertical spots are enblocked by the solar beams 
+of various colours spreading everywhere. 
+Tj^ni wrtti 
+ijg^Mygidigirg^itf Traill WII 
+The solar fires developed as such and 
+suffused within each other appear to be a 
+solitary unit with a single flame. 
+y4HHyunyi g gtsfR&gi <t 
+gdnWddi Tig ^WII^oll 
+That fire becomes a circumambiating fire 
+(forebading) the dissolution of this universe. 
+With its brilliance, it bums all the four worlds. 
+tRT: mm 
+Rrf$rr Rr^un gRr: c&iRjwtt 
+Then gets dissolved all that is static and 
+mobile. The Earth becomes treeless, strawless 
+and appears like the back of a tortoise shell. 
+m wtfad wm 
+gcRig gof 
+The entire world exposed to a state of an 
+epidemic norm gleams forth as if like a frying 
+pan1. The sky gets smouldered having been 
+circumambiated by the rays as such. 
+I. V.S. Apte, p. 47, AmbarTsa.
+
+## Page 355
+
+Chapter-100 
+327 
+hicii^ 'mfr ^tciiIh 'R^fiFirTT^r 
+driwifn 'Mfa^MMillPd WII^II 
+All the living beings in the nether worlds 
+and in the great ocean get dissolved and attain 
+to the state of oneness with the Earth. 
+m Ulctcb^ *T:II^'SII 
+The continents (DvTpas), the mountains, the 
+sub-continents and the great oceans- all these 
+will be reduced to ashes by that Pavaka (the 
+cosmic fire), the soul of everything. 
+fwb: ^ralwrf^Tt 33FRI)^H 
+The smouldered fire consumes water from 
+everywhere, the oceans, the streams and the 
+nether worlds. Resorting to land it blazes up. 
+m: tfcnfo: upmi 
+HlcbR^trl ^TT STlT: Ac|<tertSqrT:ll^ II 
+Then, Samvartaka (submarine fire or the fire 
+of dissolution or destructive squall), having 
+overpowered, being of a horrid norm, 
+smouldered as such, consumes or encompasses 
+the worlds on all sides. 
+cIW: WldHimlWdl 
+cTRf MldHMHIHlchJiyid^dJI^^II 
+Then having perforated the ground, it dries 
+up Rasatala. After burning up the nether worlds, 
+it bums down Nagaloka (the world of serpents). 
+3TEiwjfsraf cpszrr fenri 
+'ilddTdi J^lfui 3TO?TRl<|^Tft rTII^II 
+Having burnt the land from below, from 
+overhead, it bums the sky spreading through 
+thousands, lakhs and Arbadas (trillions) of 
+Yojanas. 
+^fdafe^lWW affST: <T| 
+RiviNiw ■^TO^rrn^TRii 
+Many flames rose aloft from that 
+Samvartaka fire. Blazing fiercely the 
+Samvartaka fire consumes Gandharvas, Pisacas, 
+the great serpents and Raksasas. Everything is 
+burned to a huge globular mass (of ashes). 
+Wdidi zj -q^TSrri 
+Cl<l o 11 
+Bhurloka, Bhuvarloka, Svarloka and 
+Maharloka- all these four worlds are burned by 
+that terrific Kalagni. 
+=i||%t| ^ 'Rf-ditt fdiJ^WlPddll 
+\3 0 s3 Cv 
+c^rH 'JlufcK ?T^:i 
+3Rrm^r wi ycfiwfn^ii 
+Then all the lokas are enveloped with fire on 
+all sides horizontally as well as in elevation and 
+the entire universe is slowly permeated with 
+brilliance and shines forth like a steel ball1. 
+fifiT OTcH<h:I 
+Tfasfct %T differ ^chl: 
+Thereafter, the terrible Samvartaka clouds 
+begin to rise in the sky. They bear the shapes of 
+the tusker herds and are adorned with lightning 
+streaks. 
+Some are azure-hued like the blue lotus. 
+Some are of the semblance of white lilies, some 
+similar in norm to turquoise gems and others 
+like the sapphire stones. 
+*ETT: efcfa^fclcdhri: tr5TteTCT:||^*|| 
+And others white like the conch shell and 
+the kuncici flowers. Some having resemblance of 
+Jati (nutmeg or Jasmine flowers) and collyrium 
+sticks, some are smoke-coloured. Some of the 
+clouds are pallid-hued. 
+cHf^iwgTJifrn ht^RthPwtwti 
+«f)filfimiOTn5T^r: 11 ^ m 1 
+1. V.S. Apte, p. 188. a ball globe.
+
+## Page 356
+
+328 
+Vayu-Purana 
+Some clouds have the gleam of the colour of 
+a donkey, some having ruddy glow of the 
+lacquer dye. Others being of the hue of red 
+arsenic and some other clouds of cadaverous 
+norm (lit. pigeon-coloured). 
+Some are of the colour of Indagopas 
+(cochineal insects) and some of the clouds soar 
+high in the sky, some of the shape of land of a 
+town and some bearing semblance of elephant 
+herd. 
+*m:)i 
+n^ll 
+Some clouds are similar to mountains and 
+some clouds are like rocky regions. Some have 
+the shapes of kundas (basins) and some of the 
+shape of fish flakes. 
+■tfR'WTT yV«Rfddffcd: I 
+Some are myriad-normed and horrid- 
+formed, some rumbling like terrific tumult. 
+They fill the entire firmament at that time (of 
+dissolution). 
+WKJ ^TTT Tlf^TT 
+WT itfrnrlTTTOTTfR ^ITOcTI I ^ 11 
+Then these clouds terrific in rumblings and 
+solar-orbed, organise themselves in seven 
+groups and extinguish the fire. 
+qrret gtf fsrfqr ^ M^ycidj 
+Then those clouds release rain like a mighty 
+inundation and destroy the terrible and ominous 
+fire. 
+Tfcrtsr WSrSIsf ctTfrfa: ^ SFTrTI 
+And by waters vastly poured down or rained 
+down, the universe gets inundated. The 
+brilliance of the burning fire is suppressed by 
+the waters and the fire enters into water. 
+^rr wqr: tnwicfT:i 
+THI^rTd 'SFlrWcf 
+On fire having got extinguished within a 
+centum of years, the clouds bom of the fire 
+inundate the entire universe with huge 
+quantities of water showers. 
+yrmfo: wrtW gteurcr ^imi 
+■o v3 
+ysft arfe: Mil 
+Being guided by the self-born deity 
+(Brahma), they fill the universe with their 
+showers. Others overpower the alluvial shoals 
+with huge quantities of water. The entire Earth 
+with its continents and mountains is covered all 
+over by water. 
+rRZT ^g3TT ^ flrRcf f| llRufu^dMI 
+ferr: #1^:11^9*11 
+The entire quantity of water showered by the 
+clouds enters the ocean, 0 Brahmanas! There it 
+is consumed by Sun’s rays. 
+3Tif^r#<qRr: RrgRn 
+qq: xrrrf?r qj# 
+Consumed by the solar beam, the water gets 
+on to the clouds and drops down again on the 
+Earth whereby the oceans are replenished. 
+qnpj: #t #t:i 
+'l|4dlW faq^rlfall^N 
+Then the oceans overstep their tidings all 
+round. And the mountains get torn asunder and 
+the land gets sunk or submerged in waters. 
+mww iqfc crer. mdd:ii^9V9u 
+Then suddenly blows forth the squall of 
+terrific soul in the atmospheric region that 
+encompasses those clouds over the sky vault all 
+round. 
+dR^cblU^ srft qg WIcK'd^l 
+qu? % fq.-Tte: 3RFT 33Rtll*i9<SH
+
+## Page 357
+
+Cbapter-100 
+329 
+In that single stretch of water (.Arnava) or 
+ocean of horrid norm, all the mobile and the 
+immobile beings get perished. When a thousand 
+cycles of four Yugas pass away, it is named a 
+complete Kalpa. 
+WT:I 
+m tr C^TII 
+^ driWrl ^ferRII^II 
+Then by water the world having got 
+surrounded or covered, the experts declared that 
+as a single ocean (Ekarnava). All separate 
+entities are lost sight of. Neither the surface of 
+the land, nor the atmosphere, neither the wind in 
+the ocean nor the firmament is visible distinctly. 
+TTPKT 3TFTT 
+The terrestrial and alluvial-shoaled ones, the 
+waters snow flaked all around, spreading along, 
+move along, and attain to the state of one unit 
+named as water (all round). 
+3TFIflFlfaeS rT^T dcUfad HJTRI 
+5T5CTSI ST d^THHJI^II 
+When only water is seen moving to and fro, 
+it is termed Salila. When it stands covering the 
+whole Earth, that water is called Arnava (an 
+ocean). 
+sfmrfo kwwi 
+Tr^Rsnw 
+The word Bha becomes etymologised as 
+Vyapti (pervasion) and Dlpti (splendour). Since 
+water gleam forth and pervades all the ashes all 
+around, it is called Ambah. 
+qra *r sngf 3tt 3^1 
+rf^TssiTT t ^ #grr#r m qrT:ii^^n 
+In point of myriad norm and great velocity, 
+the root >Ur is derived. In that single ocean, 
+these waters are not quick. Hence they are 
+called Naras. 
+<ttcrt imu 
+s3 *S 
+cl^T <T ^oSTTtTRT 3T3TTW: II ^^11 
+Then at the end of thousand sets of four 
+Yugas, one day of Brahma passes off. During 
+that tenure, the entire universe becomes one 
+ocean only. And all the activities of Prajapati 
+get revived. 
+qr srafa <jr?s 
+WsraTf: ot: v^mfd- 
+When in that single ocean, the mobile and 
+immobile beings perish, then that Brahma 
+assumes form as thousand-eyed one, thousand¬ 
+footed one, thousand-crested one, pleasant- 
+minded one, thousand-footed one, thousand¬ 
+eyed one, thousand-faced one, thousand- 
+tongued one, thousand-armed one having the 
+lustre of the Sun. He is etymologised as the 
+primeval Prajapati and the Puru§a in the path of 
+Trayl (three Vedas). 
+■gcRRi TTtarr 
+3R<f IJefi: OTWTMZI 
+cv 1 o *\ 
+TO?t 
+TERUrr t cHTO: Wdldll^ll 
+He is Adityavarna (i.e. solar-complexioned 
+one), the guardian of the Universe, the 
+extraordinary one, the single one, the primeval 
+one, Turds dt (Indra), Hiranyagarbha, the 
+stupendous Purusa and goes beyond the gloom 
+of yonder norm. 
+rld4'KT$W<) 'O'fo: I 
+ffMm<5(«bf?Ti W Tift W W:ll^£ll 
+At the culmination of the Yuga tetrad when 
+everything around is inundated by water, the 
+lord becomes desirous of sleep and creates a 
+lightless night of his own.
+
+## Page 358
+
+330 
+Vayu-Purana 
+^Tf%T fft W. 
+\3 v 
+tr^RT <T TRIrBR W B#T:ll^ll 
+When Brahma sleeps a long1 with the four 
+types of creation withdrawn in the Anda 
+(Cosmic. Egg), the Seven Great Sages see that 
+great-souled Kala (god of Death). 
+tiRHtefc fecU'-dBRBT 
+HJ«en# BgTrBM: ^ 
+Bll^oll 
+Rolling along in the world by penance, 
+having obtained divine vision, they are Bhrgu 
+and others, the great-souled ones having pre¬ 
+requisites dilated upon earlier. 
+BrflNcftBkf RTcfiT^ % ft 
+WWt ^ $T wfft TTftgll^ll 
+With their divine vision only they observe 
+the seven worlds- Satya and others. They 
+visualize Brahma during the great nights of 
+Brahma. 
+Wfa: HMVBftl B<?TchM Wlftm 
+o -o 
+cKRTHT T^JrTlI^ ^ II 
+The Seven Sages observe that sleeping Kala 
+in their own nights. Since he stays beyond all 
+Kalpas, he is declared to be the first 
+Parame$thin. 
+WT B^BtfRi iR: TR:I 
+Cs ' O \3 "O 
+tTcmi'^Tflicgf -Ju^TrP^ig swracUi^n 
+In the beginning of every Kalpa, he becomes 
+the creator of all living beings time and again. 
+After withdrawing all creations within himself, 
+Prajapati (recreates them again). 
+3T2CTSRft '*#*11: Bd#J 
+rR:^T =# T# dBRUlftSl #11^X11 
+The greatly radiant one, the creator of 
+everything withdraws everything into himself 
+and thereafter lives within the single vast sheet 
+of ocean during that entire night in dark. 
+1. %ct is an error for i metrical exigency. 
+RTT Tift# RR yfd4<4: SRUPft: I 
+fR: fB^raT # wfcl RT.II^BII 
+Then on the arrival of the end of night, 
+Prajapati wakes up. He is induced (in his mind) 
+with the desire for creation once again. 
+# RRtft ft# 3<4?Tlft y^NdTl 
+rrfBTcFfftft ^ R#II^H 
+<|kk>T: BvdTdf dftn4 ^oR?T: T?cT:l 
+At the time of the Naimittika dissolution, 
+when Prajapati grows calm, in the course of 
+withdrawal effected all the living beings get 
+separated from their bodies. Then all beings 
+become burnt by the solar beams in entirety and 
+even Devarsis (gods and sages) and the noble- 
+souled Manus (are affected by it in that water of 
+flood). 
+TRra^ft wnft fa^WR’ITft B%:l 
+efiRCTcT=nRRTft SRitcfTSSSraftr 
+In that collision at the inception of the 
+Kalpa, Gandharvas, other loka beings ending 
+with Pisacas who have been unheated as such, 
+take recourse to Janaloka (the world beyond 
+Maharloka, the heaven of deified mortals). 
+ft^rrftftft Btcflft BRefonfal RRlftl 
+?TRrft spsnft f=mi<TTft r%:ii 
+# cTRIRTIlft RdcBMcft 'SRfTII^ RII 
+The living beings of the lower strata of 
+animals and those that have fallen into Naraka 
+(hell)- all those get burnt up and get absolved 
+from sins. Till such time the universe gets 
+inundated or dissolved, they abide in Janaloka. 
+opyrai <T RRCT <T 
+RT# ft TRBnft B%d(ft ^WBRooll 
+When the night of Brahma whose source of 
+origin is the Unmanifest, dawns again, then 
+ones again take provenance, the creatures in 
+entirety all around.
+
+## Page 359
+
+Chapter-100 
+331 
+jpnrt iqqgt e^: jrt: ^ra^rf^JT: I 
+fegRT feRtcqf^re^lRo^ll 
+Rsis, Manus, Devas and all the four types of 
+progenies (are alike in this respect). Those 
+Siddhas too die and their birth is being 
+enunciated. 
+ciiii 'jRTfn■Ti^V'd ‘MtihiIh?} ri11^o^h 
+The way within the solar world, the rising 
+and setting become well-known, that very way, 
+birth and death (nircdha) of beings here stands 
+observed. 
+WI 3SZFTI 
+'m Tl^fftT 'ffcTTft 
+waRT^tfq WrciifH ^ <3k*t w w:i 
+risn 5n^ran%i 
+y^ir^K rr rr ■'rftrafcr g^rfbr ^riRomi 
+The rebirth after the dissolution of all living 
+beings is termed as Sariisara. The way all the 
+beings take birth during rains, in the same 
+manner the immobile beings are bom in every 
+Kalpa or aeon. Similarly, as in successive 
+seasons the different forms of the characteristics 
+of the season appear in the same succession as 
+before, in the same manner the creation of the 
+mobile as well as immobile beings (appear) 
+before Brahma’s nights and the Pratydhara 
+(dissolution). 
+snpm ■w4,wmTfq ngwVr ^^nri r o 511 
+^flJT ^cJ^dNi tr: xrt: I 
+Cs V3 S3 
+oiM)|oih£) ^FT?TIRo\3|| 
+All the living beings exist and re-enter the 
+creator of subjects, Prajapati, the creator of 
+progenies. Brahma of great Yogic power, who 
+is the creator of all beings at the inception of 
+Kalpa and the like time and again, who is both 
+perceptible and imperceptible is Mahadeva and 
+the entire universe is his. 
+IJgT WT WcTT 
+3TnTt % TTPfur 
+cTOT lITtS^TT- 
+*^3 0^11 
+It is he by whom the waters are created to 
+begin with, the waters that proceed the surface 
+of this land along the path taken earlier. That 
+very way towards the waters of different norm, 
+they trudge along as such. 
+rltcT fa'c^URT:! 
+^RTWlfe^gT- 
+^4viTd^M9SRf^TIRo^|| 
+Just as mortal beings revolve along 
+variously (assuming different forms in this 
+world) because of their auspicious and 
+inauspicious acts, so they roll on above and 
+below owing to the (gravitational force) of Sun, 
+as transfer from one body to another is 
+inevitable. 
+^ ^TftT c^ch flnci: tTjT^TT 
+spfoftr $ whRTSj 
+rT^lftrmsJnf^ITW 
+srafcr Ttr^T:11 'R 11 
+Whosoever even Gods and Men, and even 
+others, the Lords of progenies and those that are 
+the Siddhas gone over to the heaven, these ones 
+understand as such out of exigency of repute 
+and the lawful ones, once again by recreation 
+become spirited ones. 
+•q^RTCTfriT W fg5n:ll 
+w 5Fsnfr*pfar w ^srtc$tir wi 
+After this, I shall dilate upon the Kala of 
+existing inundation or dissolution of all living 
+beings, O Brahmanas! I have already explained 
+all the Manvantaras along with Prajanisarga (the 
+creation of progenies) and the fourteen Manus.
+
+## Page 360
+
+332 
+Vayu-Purana 
+3TWT: t cR^r359%ir^ii 
+All the Manvantaras consist of a thousand 
+cycles of four Yugas. When two thousand 
+cycles of four Yugas are completed, a Kalpa is 
+called Nihsesa or in absolution. 
+cWT WIT ftcrtatfl 
+f| e^r jJIR3 3II 
+This deserves to be recognised as one day of 
+Brahma. You may learn its enumeration. 
+Nimesa is the time taken to utter a short 
+syllable. It is equal to a Matra. 
+tfRNlfyftii-tfRd c&im T>?cTT:l 
+rn: STUTTCT ^ ^T:lR ^ll 
+Fifteen such Manusaksinimesa i.e. the 
+winking of the eye of a man is called one 
+Kastha. One Lava is of 5 Ksanas and twenty 
+Kashas constitute three Lavas. 
+3HW: Trrfiichi'W T^FT:I 
+hcjiR4vi^*hi ^T:iR^mi 
+Prastha comprises of seven Udakas and 
+Sadhikas form a Lava known as such. Thirty 
+Lavas constitute one Kala and one Muhurta is 
+of thirty Kalas. 
+3(£TTT4 ehIHMi 3 ymift 42IR ^ II 
+Thirty such Muhurtas constitute one day and 
+one night or nine hundred Kalas make one day 
+and one night. 
+ftw wm cwaiwifwvH: ^htir^ii 
+And these very ones by counting deserve to 
+be recognised the way ensues the motion of Sun 
+and Moon- Fifteen Nimesas make one Kastha 
+and thirty Kasthas form one Kala. 
+RiyicchHi gffcT ^ymFT: csht 
+5 'hQici:ii’R ^dii 
+Thirty Kalas make one Muhurta and 
+according to some, Kala is a tenth part of a 
+Muhurta. Forty Kalas are termed (by others) as 
+one Muhurta. 
+■gfffe Rcnsrrfr vnfm#: ychfcqdui 
+drwi^rwrw^) rnftr wrrm Tyr??iii? u 
+HKI^cT wr fasfcKti 
+RTfR^r 132:11^011 
+Muhurtas and Lavas are thus calculated by 
+the experts in Pramanas (measures). Then by 
+the space of waters even (the time is measured). 
+Thirteen Palas of water make a Prastha 
+according to the calculation current in 
+Magadha. Four Prasthas of water constitute one 
+Nalikaghata. 
+<^d<^FT: i 
+rJ TJfdf t f§R#lc&T:IR^II 
+The bottom plate of the device is four 
+Angulas (cubits) square and there are four holes 
+in it, each of the size of a golden mas a pulse. 
+Two Nalikaghatas of water flow through those 
+holes in the period of a Muhurta. It is the same 
+both in the day and in the night. 
+*44fdklVlfc|U| u3^dN ftr3yT:l 
+3rfiie& xr^r cbHHi yfgyiudiR^^n 
+By the specific motion of the Sun, in all the 
+seasons perennially, the maximum number of 
+Kalas is six hundred and five. 
+W&R $T tTTTR W: T??T:IR^II 
+This deserves to be known as one human 
+day. The Naksatra (planetary one) day contains 
+ten more. By the Savana months, a human year 
+is calculated. 
+A human year is equal to one divine day and 
+one divine night and this is the determination of 
+the experts in Sastras. By this day, the months, 
+seasons, Ayanas and years should be 
+enumerated.
+
+## Page 361
+
+Chapter-100 
+333 
+cR?T ^1 ^JT 
+cfTFTRT WmTUTT^Trr 
+Then this knowledge having been 
+materialised, the nomenclature that becomes 
+(evident) that may be observed. Since Kala 
+constitutes the basic unit, time becomes 
+etymologised as Kala. 
+ffelT Cfit€t TT ^TT ^RTTI 
+•?TcTRt ^ WSTTfoT ^?T fejPuidlPl rill 
+ri WHTfcn d^ciwiPf tctPt 31139*11 
+And the day that have been enunciated by 
+Brahma becomes known as Kotl. It is 
+constituted by hundred lakh two hundred and 
+ninety thousand divine years. 
+ydrsj^i <j wit fgwi trui^rt^i 
+WRW5R TrwnR^ii 
+Having heard this, however, the sages 
+(attained) to highly amazing marvel. They 
+requested Suta thereafter to make their 
+knowledge (more) clearer numerically. 
+tt tow wtoi 
+S3 S3 *N 
+The Sages spoke- On the basis of human 
+calculation, we desire to hear, briefly, about the 
+magnitude of the period of dissolution 
+consisting of small words and syllables. 
+fet felf TW:I 
+^IMlP^rl^bm^ellTil WrBTgMR^Il 
+Having listened to (their dissertation), lord 
+Vayu, engaged in the well-being of the lokas, 
+having eyes of divine norm, the adorable 
+supreme overlord (Prabhu), spoke out. 
+Tict ft to! cstfe) few nlPbetii 
+?irat wire wir ^s<jttow: si^ir 3 ° 
+“The days and nights of Brahma have 
+already been declared. Now I shall dilate upon 
+at their duration based on worldly (human) 
+calculation. 
+chlilwiPl T^lPt ^dtpur -tTRTOfaT TTI 
+v3 
+TOJT ^fel: WTOTT: feral fft:ii 
+W TTTRWTTTprT TOT: I 
+BsTWlPui TJ^ WT: TOT^I TTIR^II 
+TOTOJTfenT -Misilld: WTt WTITOTOTOtg:| 
+O Brahmanas! According to human 
+calculation, four hundred and thirty-two Kotis 
+(crores) eighty lakhs nine hundred and eighty 
+thousand (4,32,89,80,000) human years 
+constitute the period of dissolution. 
+W fe ^IR3 3II 
+Wife cfafe TOTO: ^fegrrffeT:i 
+C\ O 
+IlfefeTTSSTO# vfet ^ W=TTiTf^lR3*ll 
+Seven suns then rise up. All the four types of 
+creations become merged in the great elements 
+of the worlds. The loka or world is inundated by 
+water and all the mobile and the immobile 
+beings come to a cease. 
+feTOf% ri Tt?TT ThV'lld IMIMdll 
+fefetgt TOfe <t mmss^n 
+fwifaffe irarofe fe^riR^mi 
+Having done a complete dissolution, 
+Prajapati becomes calm. Then the gloom 
+spreads everywhere and everything is 
+surrounded by nocturnal dusk because 
+everything is burnt down. The sole single ocean 
+(that remains) is then occupied by Isvara. 
+TOTOichlifer ^Tt TOddlTfeW: fet:l 
+TTfeg Trirrorraw fefrfr wnw: T?rq;i r 
+That deserves to be known as Ekarnava or 
+one ocean. Its duration is same as that of the 
+day of the lord. The period of night is as long as 
+everything is submerged in water. When that 
+recedes, it is remembered as day. 
+tottut irfferPri 
+STTOdTikHcH 3TWPTOT. TJJTT: JWt:IR3l9ll 
+Day and night, that very way, in due order 
+do exchange an inception. This existing 
+dissolution verily, stands known as of days and 
+nights.
+
+## Page 362
+
+334 
+Vayu-Purana 
+IrTtefr Ufa JlfdhPd ira#T xf\ 
+v3 
+In the world triad, all the beings whether 
+mobiles or immobiles that exist, they get 
+coalesced. On that account, the existing 
+dissolution gets into being. 
+m SRT: y^TRT <T rTFTT^T: JFSfNfa:! 
+Prajapati is called Bhuta since he exists at 
+the very outset before all the progenies and 
+creations. Everything inundates in that. On that 
+account, the final dissolution becomes known as 
+Ab h u tasarhplava. 
+^TP£FT 
+3TcftrTT d^MRlVVSI d^HFTdT: TRT:II 
+3Txm%aT^dTM^^o|| 
+The word Abhiitasamplava is also used in 
+the sense of perennial immortality and 
+deathlessness. The gone by, the existing ones 
+and likewise the future progenies are calculated 
+by the divine counting well-recognised as such 
+multiplied by another half. 
+TTOsf f|pt infif y^lRdM I 
+lidMlfoyfacfcMW 3RTTtRT:ll 
+tWRt sr^rnT: 
+The ultimate age of Brahma stands 
+illustrated as twice Parardha. This much is the 
+time of existence of Prajapati having no birth. 
+At the end of the existence of Brahma, 
+Paramesthin, there is the Pratisarga (secondary 
+creation). 
+The way, the light of the lamp becomes 
+extinguished by the velocity of the wind, that 
+very way, by Pratisarga or recreation, Brahma 
+becomes calm and quiet. 
+The principles beginning with Mahat 
+become withdrawn in the great Isvara; Mahat 
+gets coalesced into Avyakta i.e. the 
+imperceptible and then may ensue the equality 
+of all Gunas. 
+^ TrqT^TRTT WT :| 
+W^T WUsMIdl Wt: f% cidillfM cT:l 
+WAlfarU yujVI&ISizmt8UW:ll 
+This way stands illustrated by me the 
+existing dissolution (Abhiitasamplava) in brief. 
+This withdrawal by complete merging in water 
+is a Naimittika reabsorption in relation to 
+Brahma. Now what more may I repeat? He who 
+may sustain it perennially or may listen to in 
+entirety, owing to enumeration or listening, he 
+may attain utmost success.” 
+felt $T^cTI 
+CUTS^cr) 
+A Brahmana gains learning and a Ksatriya 
+may grow victorious. The Vaisya may gain 
+wealth and a Sudra may become happy. 
+didsiWii u-d-dtPwnlfdcWH 
+ViddnteJidtii^ooii 
+•k -k -k
+
+## Page 363
+
+334 
+Vayu-Purana
+
+## Page 364
+
+Chapter-101 
+335 
+Vayu spoke- Those Brahmanas having 
+extraordinary-normed demeanourers, having the 
+remnants of materials offered- as oblations, the 
+minute-observationed ones, and who maintain 
+special piety, become the residents of 
+Maharloka along with Devas. The fourteen 
+Manus who have been illustrated as the 
+propagators of fame, and who are gone by ones, 
+existing ones and those that have not yet come, 
+are bom here again and again accompanied by 
+the Sages, Devatas, Gandharvas and Raksasas. 
+TT: TTT:l 
+■O ^ O 
+^t: ^r=r: 
+lift A’m'dldi wferr:i 
+They do get provenance into the 
+jurisdictions of the Manvantaras time and again. 
+Devas, Saptar§is, Manus and Pitrs pass away 
+gradually and take refuge in Maharloka1 along 
+with the righteous Brahmanas, K§atriyas, 
+Vaisyas and Suras or Gods. 
+cwfcimuii enfe 
+O 
+They are (also) accompanied by those, who 
+observe reality or truth, who are endowed with 
+faith or devotion, who are prideless ones, who 
+are well-established in the duties of orders of 
+society and stages of life and who resides within 
+the domain of Codes of Law (Smrtis). 
+Afterwards when the period of a Manvantara 
+expires, they have their activities re-allocated. 
+s3 
+tK THcriT^WlT fait I 
+yfd'<dfa rT cb<fan^: ^rofsrfg?TT:ll^ll 
+The Sages spoke- Of what nature is that 
+world which has been spoken of as Maharloka 
+1. Fourth of his seven worlds rising one above the 
+other from the Earth being between Svar and Janas, 
+V.S. ^pte, p. 429. Mw, p. 794. Mahar + loka. 
+by you, O powerful Matarisvan (Wind-god)? 
+Within the Pratiloka (every world) many 
+(meritorious souls) will be presiding. 
+-tirade) % rTtcfiT cf?RT % fatl 
+TJtRT: rg; % 5R5J WrMXTIKH 
+How many are those worlds and how they 
+do get burnt, O Prabhu? All this you may 
+narrate before us with love or pleasure. You 
+alone know this precisely. 
+(Jcjy-rfjWd) 
+TTTcrra W ctleR rrfafa I 19 11 
+This way having been spoken by those sages 
+having disciplined souls, Vayu, the knower of 
+factional representations, uttered sweet words as 
+per veracious norm. 
+cUOTcjra 
+o 
+*nr#ci <paHifa ^fuTd'rf^r TT#f^T:i 
+Vayu replied- Fourteen spots (abodes) have 
+been illustrated by the great sages having name 
+as lokas and wherein stay the human beings 
+(Manavas, the scions of Manu). 
+TP7T <T TPdf cfl 
+wgm: W cTWT: efcdlfw?Sll^ll 
+They call seven among them as Krtas and 
+the other seven as Akrtas. The seven lokas, 
+enumerated as Bhuh etc. are the Krtas. 
+3JcgmfH <T -*txfa Hlcfcdlfd § ^tlft ^1 
+Wilder: TTT^f faf^RlTII^II 
+The seven Akrtas are the Prdkrta ones 
+(created by Prakrti). The Krtas are the spots 
+created along with their Sthdnins (persons 
+identifying themselves with them). 
+feft ywfitf ^ fas -R?: Ppmi 
+WRI%i ^TiT ^dWIufablft rTII^II 
+The Earth, the ethereal space, the divine 
+heaven and what is known as Mahah- these 
+four spots are known as Arnavakas.
+
+## Page 365
+
+336 
+Vayu-Purana 
+lfnf%chifq ^fwsw \m$ i1^11 
+These abodes are equipped with extreme- 
+normed dwellings. Those that are not equipped 
+will be mentioned (afterwards). Those that may 
+be Naimittikas, stay till the final dissolution. 
+IRWm V WHWdlfa mf&T jjl 
+^cbirdchlfH 'WtcJiIh 
+Jana, and Satya- these three abodes 
+are the Aikantikas (the isolated ones). The 
+beings stay in these owing to non-restraint. 
+czrajift 3 w 
+fearer vm: T>J?T:ll^ll 
+I shall now talk of the seven Vyakta 
+(manifest) abodes. Bhurloka is the first among 
+them and the second one is known as Bhuvah. 
+t *Tf>: ^T:l 
+3FFRJ WIT) Hleh'WM: fasn^Rtll^ll 
+Svah is the third one that deserves to be 
+recognised and Mahah is known as the fourth 
+one. Jana is the fifth loka and Tapah is 
+considered as the sixth one. 
+WTT rTfcRt ftTHld^d: tRtri 
+Satya is the seventh loka. Beyond that, there 
+is Niraloka (darkness). “Bhuh”, this way having 
+been illustrated earlier (by Brahma), thereafter it 
+became Bhurloka. 
+(fgjfafr <gcf ^tT> 3t^rf^t 
+Spfoj Wftdlrd-di ?ll^ll 
+The second time when he said “BhuvaK\ 
+thereafter became the atmospheric region. The 
+third time when he said “Svah”, heaven 
+appeared. 
+WT c^lchMcfirMild) 
+rrat ^r: ^nrii^oii 
+By these three nomenclatures, he created the 
+Brahmaloka. Hence Bhuh is remembered as 
+Parthiva Loka or terrestrial world and 
+atmospheric region is remembered as Bhuvah. 
+$ f^cT filddJdUl TirPETI 
+^dWlIyklrlJMlPdWd) 'SJrTOfa: ^11 
+Svarloka then is the heaven. This is rendered 
+certain in the Puranas. Of Bhutas, the Adhipati 
+(lord) is Agni and therefore he became known 
+as Bhutapati. 
+duwjeiwld:! 
+Vayu is the Adhipati of Bhuvah, on that 
+account, Vayu is Bhuvaspati. Of Bhavya, Surya 
+(Sun) is the Adhipati. On that account, Surya is 
+Divaspati. 
+^fdodl^ci »f@HleH'Wd'l5«ra^l 
+IdPfcj-dllycbKIUlj t $RI:IR3II 
+“Mahah”, this way spoken of, then 
+Maharloka came into being. The abode of the 
+Devas who retire from their offices is there. 
+t ^HT:i 
+■o 
+dTOT WTOW 3T5lRt dFRP5R:ll?'tfll 
+O 
+Jana is the fifth loka. People taking birth 
+there are called Janas. Since the subjects of 
+Svayambhuva Manu and others were bom 
+there, Janaloka becomes etymologised thus. 
+dT*dT: f| M<WlcdUebl^-dl:l 
+d^T dtPS yfdBfd ddT dd:ll^kll 
+And those subjects of Svayambhuva Manu 
+and the like, who have already been illustrated, 
+set out for Tapoloka when all the worlds are 
+consumed by the fire at the end of the Kalpa. 
+W%: ^T^KISTI m 
+O 
+dTOT 
+■wWTlfd cTTrii’R^n 
+Rbhu, Sanatkumara and other 
+Urdhvaretasas1 (living in perpetual celibacy) 
+having selves perpetuated by penance, stay in 
+that world. That is why that world is called 
+Tapoloka. 
+1. V.S. Apte,p. 119.
+
+## Page 366
+
+Chapter-101 
+337 
+Wtfw TT T*JcT:l 
+I'SIHIdiWd: MOTT: TET W TOTO:ll?\9ll 
+The word Satya refers to Brahma. It is 
+remembered as one having simple existence as 
+(the sole prop). Brahmaloka then is Satya and it 
+is the shining seventh world. 
+irerafarcst w TOi$rerT:i 
+W^dftyilW TOTT3J TO TOJ$:II 
+WdUejiRw: to? TOr ftcnfan:ii^<sii 
+Gandharvas, Apsarsas, Yaksas, Guhyakas 
+accompanied by Raksasas, along with all the 
+Devas are the residents of Svarloka. All Bhutas, 
+Pisacas and Nagas are residents of the Earth 
+along with men. 
+to TOTfrwrr to' 
+TOcTOsT %II 
+grror tow frorroni 
+tocTO; toi1tot:ii3oii 
+Although Maruts, Matarisvans (gods and 
+winds), Rudras, Devas and likewise the two 
+AsVins have no fixed abode and they roam 
+about in the atmosphere, they have their main 
+abode in Bhuvarloka, Adityas, Rbhus, 
+VisVedevas, Sadhyas, Pitrs and likewise the 
+sages of Ahgiras Gotra resort to Bhuvarloka 
+also. 
+TJH clmftchl ^giTOTO?fTOTlTO: I 
+TTtrfiT 9l^|ci||^|^'Mgi:||^ ^|| 
+All these Devas move about in aerial 
+chariots and reside in the constellations and 
+planets also. This way all the (worlds) bom of 
+the utterances (Bhuh, Bhuvah, Svah) of Brahma 
+have been illustrated in due order. 
+tfVcbi : I 
+ottort grot: TpnTOt 
+Bhurloka is the primary loka declared as 
+existing within Mahat. These (lokas) get 
+inception by Tanmatras. They are mutually 
+pure. 
+% otlrftdl TO fTOT:l 
+Trf&TO TOrorfTO:ii 
+f^rf top?t: toft ?^rsm5RTOgT:ii^^ii 
+Sukradyas and Caksusantas- these 
+beginning with Sukra and ending with Cak$u§a 
+(Manu) who resorted to Bhu (Earth) earlier, 
+reside in Maharloka till the end of Kalpa. This 
+way, these lokas of Brahma have been 
+illustrated. 
+TOTOTOPT TO2TOTO g TgrfT:l 
+rfRT^FTOT 
+groqT ^ttoit TOgTOr5%tr:i 
+TORT WT: TO TO t: TOl 
+ftfTOTT frTOTTTO TO cT ^TOT:II^^II 
+The seven Suns bum with their rays those 
+worlds beginning with Bhurloka and ending 
+with Maharloka. Marlci, Kasyapa, Dak§a, 
+Svayarhbhuva, Ahgiras, Bhrgu, Pulastya, 
+Pulaha, Kratu and others are the overlords of 
+progenies or subjects and they exist there along 
+with them. They are spiritless and free from 
+egoism. They are Urdhvaretasas (perpetual 
+celibates). 
+jpr: TOTOTTTOTT TOtTOT:l 
+TORTTTWt TOft •HHUl^i TO: TOT1:ii 
+TO^TRt TOgt TOTO^?Tcl:ll^'3|| 
+Rbhu, Sanatkumara and others are ascetics 
+of great detachment. These fourteen worlds are 
+the sources of the resurrection of all the 
+Manvantaras including those of the Savamas. 
+TOr toto tot ?t tttoto totsstTOti 
+cfth fTOfcd toto (?) 
+Practising Yoga, Tapa (penance) and Satya 
+(truthfulness) and having resolved within self, 
+they return to the sixth Loka (i.e. Tapoloka) 
+then at the end of the day. 
+TOFTO TOTOT cTOt ^miMllfauilHI 
+v3 v vj *V 
+TOTTOmt ^Mdlyidr^nJT:ll^<?ll
+
+## Page 367
+
+338 
+Vayu-Pura9a 
+Satya is the seventh Loka from where there 
+is no return. It stands illustrated as Brahmaloka 
+as one of pre-requisites of unassailablemorm. 
+gii'iymRuiuiin -qcfo;: 
+WSRTt ^iP^K-dR^T TgrnTll^oll 
+By the thorough measurement of Paryasa 
+(rotation), Bhurloka is known as Samitih (an 
+association)1. The Antariksa, the space between 
+the Earth and the Sun is remembered as 
+Bhuvah. 
+^F%5reTt TfvSt wnfctleft fer: ■^cT:l 
+The space between the Sun and Dhruva (the 
+Pole Star) is Svargaloka or Divaloka. The area 
+between Dhruva and Janaloka is called 
+Maharloka. 
+fegnm: w HictTOj fer ^ufir fegs:i 
+'Mdi^diRM: ^f T*n?qgn:innil 
+The Saptalokas (seven worlds) are well- 
+known. Now I shall talk of the accomplishments 
+of those worlds. All the beings of Bhurloka are 
+the food-eaters and are endowed with chyles. 
+^ -*cpf ^ ¥1 h 
+gni fefa cj^ ^rmferr: 11*311 
+fgfen itr# ?rat WFT^nuTi 
+In Bhuvarloka and in Svargaloka, all the 
+residents are Soma-drinkers and clarified butter 
+imbibers. Those who stay in the fourth Loka, 
+Maharloka, they deserves to be recognised as 
+possessing mental Siddhis of five features. All 
+their cherished ends are instantaneously 
+realised. 
+TJ% ^fe i -gf: l|JU|JM| 
+All the past, present and future Devas 
+mutually worship by means of sacrificial 
+performances. 
+1. V.S. Apte, p. 588. 
+«yMM^tRacii 3¥Ttt: fefe ^T:i 
+fewT ?TrT:( ?) 11*^ II 
+The middles ones adore the past ones and 
+the present ones adore the middle ones by 
+sacrifice. When the groups of Devas pass off, 
+all their contacts and relations cease. 
+fdfa^dlfacfeHlurr 3 ¥R¥TI 
+rmt w TTnrsft ^it ^gr fafig<TTTOii*^ii 
+Of those having jurisdiction rescinded as 
+such, the accomplishment of- these is the 
+intellectual one (Manasi). Their- series of 
+Siddhis (accomplishments) is pure and deserves 
+to be known as Manasi (mental). 
+3rET ETtengr 
+wiRh fen to dfefn sr:ii^<su 
+c\ 
+The four lokas situated lower than Janaloka 
+have been illustrated succinctly by me to you, O 
+scholars! I shall recount them again. 
+o 
+tjcTOI: *dR^MK<y:il*^ii 
+n wftot g^rnfr 
+3T3TT: hRibto ydifesssrnfo rT)imo u 
+Vayu spoke- Marlci, Kasyapa, Dak$a, 
+Vasistha, Arigiras, Bhrgu, Pulastya, Pulaha, 
+Kratu and others are generated at the outset as 
+the mind-bom sons of Brahma, ihen having 
+established their subjects or progenies, they do 
+resort to Janaloka. 
+cfiTrtf fe ^1 
+fWT Tfefe ?fe jnrof^r ¥gT *ht:i 
+ymidy) w: M^nlebR(cjiRn:im^ii 
+sRfeisssrafo cfl 
+When the worlds beginning with Bhuh and 
+ending with Mahar are pervaded by the flames 
+of Samvartaka fire at the end of the Kalpa,
+
+## Page 368
+
+Chapter-101 
+339 
+when the black fire blaze and bum, groups of 
+Devas headed by Yama and others residing in 
+Maharloka resort to Janaloka. All of them of 
+subtle bodies do become stationed therein. 
+O O Cv 
+Of these, they, being of similar capacities 
+and bearers of similar frameworks in Janaloka, 
+retire till such time the world gets inundated. 
+oprat jj T3RTT t gpJTtSe^|T^fa:l 
+stirrer ^ctbhMviPw^immi 
+When the night of Brahma, the one having 
+Unmanifest source of origin, converts into 
+dawn, they get generated like earlier norm in a 
+serial order. 
+*rftenrpRfT wra>T:i 
+All those aspirants beginning with 
+Svayambhuva and ending with Marlci do take 
+rebirth on the defunction of their predecessors. 
+tnw: chi%iac rnm-.\ 
+^ ^ r* irfsRr tr%UTWTim^ii 
+Then, the Yama groups of Devas take 
+rebirth in due order, the eldest first and the 
+younger afterwards. 
+T^cTT % ’Hkl TT^rl^l: TJjJrii: I 
+oqcftHT: fflTT: PvigT^yi Tftliq<ill 
+In the lineage of Devas, Devatas, verily, are 
+known as seven Sambhutas (generations). 
+These are bom with the Kalpa. Among them, 
+the three Sistas (still) survive. 
+t W. Ttf ^7 %tl^MpTR4d|t(l 
+STTfaRtesfetT xj ctHIrdUiJIfsqifd^d ^11^ oil 
+Ri WSJT: TRTRRTRrTI 
+dJIUill-d HIcfPR^iq <f33RTTjj|$ ^11 
+Those gods obtaining recurrence upto ten 
+times in a serial order all around, manifest the 
+evanescence of all living beings. Then those all 
+Ganas, in entirety, having seen the apparent 
+nature in ideologies and by force of the 
+inevitable future, attain mental equilibrium. 
+Having tendencies gone accomplished, all of 
+them, healthy and nice minded ones, take leave 
+off Janaloka with a calm mind and then attain 
+the Vair&jaloka. 
+gjT^T I 
+chtiHlr^e) SP^T^T^irf|^5^ri|^^|| 
+$*ld4?IHdd^ t WTRINtd-rddl 
+The ascetics endowed with perpetual norm 
+and penance and owing to their palliation of 
+Dharma for a long time, get generated in the 
+lineages of meritorious persons. They do fulfil 
+the duties of their respective positions, whether 
+they attain Devahood, Sagehood or human 
+form. 
+tTcT ^cFTtJTT: Ttf tl 
+T?T fdB^MkddHII^II 
+This way, all the Devaganas resort to the 
+Vairaja Loka after ten repetitions of births and 
+there they resort for ten Kalpas. 
+wf ^ dd: ^ iwn eliMcii ttt: i 
+Cs Cv O 
+tffilHl-* XTcJqc^MUl rTII^MI 
+v C\ C\ o 
+Then on the completion of every Kalpa in 
+the Vairajaka (Loka), they return to 
+Brahmaloka in line with the earlier order. 
+lidfRRiglH)^ 5 trT3f% THI 
+trrsr gj^sn^j^Rii^^ii 
+In this Brahmaloka, when a Kalpa of 
+Vairajaka passes away, they once again gain a 
+position that lasts for a Kalpa in Vairajaloka. 
+Trcj McridM^UI y-^dWldd ^1 
+ira oddlrlu cTTRTT mR<*fc-M^II 
+Tqrra% c^Ail
+
+## Page 369
+
+340 
+Vayu-Purana 
+This way in line with the earlier serial order, 
+they frequently go to Vairajaloka as a result of 
+their penance upto ten times and get back to 
+Brahmaloka. 
+Having head that sentence of the sages, 
+Suta, the knower of the real import of the 
+material gains of the world, well-versed in the 
+Puranas, replied in following terms accordingly. 
+TJcj ^wrr% ajcfrcflft I 
+ftsR slglcdU <T *TcTRT*lfifa: WN^II 
+This way, thousands of Devayugas have 
+passed. Along with the sages, they attain death 
+in Brahmaloka. 
+w 3cm 
+qr ^TWIRq^OT cTcR 
+3T^rri^WTw=I ehi<n*t| 3TO®TRT^T : 11 
+Tjcjip? q 
+Suta spoke- It is not possible to illustrate in 
+details this account as per serial order. Owing to 
+non-primeval norm of Kala or Time, it is 
+impossible to count everything completely. This 
+way, the apprehensions have been released by 
+me as per suitable norm. 
+cT§WT qt?raTferTT:l 
+WTT|: MJlUIji Hnrrf^WT WTrf^TT||V9o|| 
+Having heard that import of the expression, 
+the sages were over-whelmed with 
+apprehension. They then spoke to Suta, the one 
+having expert knowledge of Puranas, the pupil 
+of Vyasa and the greatly-intellect one. 
+yrMifd ydigm q-rWrcnij 
+fagfqr V&t ff| ^rwqil^ll 
+The Sages replied- About the Aharas (food- 
+takings or enjoyment source) of these beings in 
+Vairaja Loka (relating to Brahman)1, their 
+exploit, the way they stay there and their 
+support- all these you may dilate upon as per 
+veracity. 
+^fr: wnfum w ira^n 
+1. V.S.Apte, p.535. 
+Wf 3c(irJ 
+jfTW^T ^ Tri h 
+Rtgfcr ^ 3RT:iiv93h 
+Suta said- Then they all, being of extreme 
+purity-normed attitudes, attain that world and 
+stay there for ten periods of final dissolution. 
+Tfi f^RTT U^<Rl:l 
+Cv 
+All of them are of diminutive frames. They 
+are scholars, being the corporeal norms of 
+riches or density, having dissolution of the 
+existing norm. 
+UHofcMKisai: ymyfifai:i 
+■O s3 ^ 
+wfir d Pm fa chi hxjt wRr TirmfetHii^ii 
+s5 
+Sanatkumara and other Siddhas having 
+lawful activity of mental concentration, spoke 
+out on their providential repute on their 
+transformation arrived as such. 
+WddiFf tRsnfcr wwii 
+-si cT^rs^^rter Itrt: 
+ycidk^Ti: smt ^rfgwf?riiv9i9ii 
+The inclination for deserting the spot or 
+abode occurs instantaneously in mind. Then all 
+of them, having chaste intellects, talked to each 
+other and the Vairajas (those related to 
+Brahman)- “O greatly fortunate ones, having 
+taken recourse to Pranava, we shall proceed to 
+Brahmaloka. Then our beneficence will be the 
+outcome”. 
+TJcrgeRcfT cl^T -gf oJTc^|fiH:| 
+filed I cl^rSSFTR •5TTrafiJoT:lP3</II 
+Having spoken this way, all of them 
+persevering within the control of Brahman, 
+having applied their own self, do exist as 
+Yogadharmins.
+
+## Page 370
+
+Chapter-101 
+341 
+3#8T UHHUkI 7TRTT dinf&ll Wl 
+'0gl«bl*Wc|&d 
+They get coalesced the way do become 
+extinguished the lights of the lamps and adhere 
+to the Brahman wherefrom a return is rarely 
+achieved. 
+?TptIT: JJP2J 3i^flr'djq ^ dell: lid o 11 
+Having attained to that loka full of 
+meditation, they attain to joy through Brahman 
+and the state of immortality. 
+W:i 
+If*: W^TTTt Ipr hfrf|rT:lld?ll 
+Six times higher up beyond the Vairaja loka, 
+Brahmaloka is popularised as where Brahma 
+was the chaplain. 
+W Tfi uuMFuini ^s^gfnrreMTi 
+3nq^ srgroT: jnmipd 'd^prii^ii 
+All those having souls for Pranava are 
+endowed with purity, enlightenment and 
+penance. Having acquired the joy of Brahman, 
+they do strive for immorality. 
+anflraoT ftRT sifonst ngW:iid?n 
+They do not get humiliated by mutually 
+clashing duals. They are devoid of three 
+emotions. The possess overlordship equal to 
+Brahma and they become highly radiant. 
+rT {rgnlfchcbl: ^ T# 3TTW 
+They are endowed with Prabhava 
+(superiority), Vijaya (victory), Aisvarya 
+(supremacy), Sthiti (stability), Vairagya 
+(renunciation) and Darsana (vision) on par with 
+Brahma. 
+Hwtt w yfa+wi 
+rrcms^t fjgjraw *Rifwi:n 
+<sm& ^ % 3TOT3[f?fa:lldmi 
+Along with Brahma and (other) gods, at the 
+end of the penance, having selves given to 
+activity, having states awakened and seeking 
+inspiration from minds and within the 
+imperceptible, they coalesce as observers of a 
+moment or festivity when Pratisancara (a 
+counter resurrection) is imminent. 
+W33 WdH^iTOrlll4 5ll 
+Thus the godly sages partake of the Sattra 
+(the sacrificial session in the form of) Brahman. 
+The Brahmasattra is eternal, immortal, 
+resplendent and ever-existent. 
+They are Punarmarga gadis (those that do 
+not take to the path of resurrection), 
+Urdhvaretasas, the purity activated by the 
+adherence to action is discernible in Vedantas 
+(i.e. Upanisads) (the concluding portions of the 
+Vedas). 
+m sraT: w 
+o o 
+% W: lid dll 
+There, the practising ones, concentrated as 
+such, wait upon the ultimate limit. Having given 
+up the sinister-normed body, they proceeded on 
+for immortality. 
+efldTFTT fadshWl : I 
+7TRTT: KfuT%dlrMldl fa?t^l:lld<? II 
+rtmwfMt snrfcnpiT: TtpT:ii<?oii 
+Having pennons exercised, having wrath 
+restrained, uninfatuated, truth taking ones, 
+tranquil ones, having souls given abstract 
+contemplation or profound religious 
+meditation,1 complaisant and having senses 
+controlled, detached ones, pure ones, are known 
+1. V.S. Apte, p. 354, Pranihita.
+
+## Page 371
+
+342 
+Vayu-Purana 
+as Brahmasdyujyas i.e. those adhering to the co¬ 
+operation or co-ordination of Brahman. Those 
+who are endowed with lustlessness, those who 
+were staid ones, having sins obviated by 
+austerities, the undestroyed lokas became 
+known as of unmeasurable comforts for them. 
+TTTtf Suffer 
+■m m a wfcr 
+This is the divine Brahmapada, the excellent 
+one, refulgent in the firmament. After attaining 
+it along with Brahma, Devas cease to be 
+worried and sorrowful (i.e. attain Moksa). 
+WF* 3*1: 
+i^T^gr in; 
+fqrn^ wmi^n 
+The Sages spoke- Whence is this Parardha 
+(infinite or infinity)? What is called Para 
+(supreme spirit or culminating point or final 
+beatitude)1? This we want to understand, that 
+you may talk to us, O excellent man! 
+c\ 
+x) tRTST rT qR+ioni VT&r W 
+Xie&^T u 
+Suta spoke- You may hear from me the 
+definition of Parardha and the enumeration of 
+Para. One, ten, hundred and thousand are the 
+(chief) counting numbers. 
+TTg) WffpT 3 fogtT 
+Ten times thousand deserves to be known as 
+Ayala. One hundred thousand is called Niyuta 
+by intelligent men. 
+crerr 
+3T<fe d^ldi^ 3T53T eh|fd$>|d %:!!<? M! 
+Likewise an Arbuda (one hundred million)2 
+and Kofi (crore) can be calculated. An Arbuda 
+1. V.S. Apte, p. 315. 
+2. V.S. Apte, p. 55. 
+is of ten crores and an Abja (one thousand 
+millions)3 is of hundred Kofis. 
+rT f3§:ii^u 
+Those seeking inspiration from mind call a 
+thousand crores as Kharva4 (a larger number : 
+10,000,000,000). Ten times a Kharva make a 
+Nikharva5 (a billion). 
+ttpt 3 ^iuii ^r:ii 
+Wg, 13JTf: wnfMf ^1:11^^11 
+A hundred thousand crores (Kofis) is called 
+Sahku6 and a thousand times thousand crores 
+multiplied by ten as such, they, the persons 
+conversant with calculations, call as Samudra1 
+(Jaladhi). 
+Ten thousand times a thousand Kofis is 
+called Madhya. A hundred thousand times a 
+thousand Kofis is termed Anta. 
+chYdchYd^ifui ^f?r gfefoi 
+ftyit 
+A thousand crores multiplied by a crore is 
+called Parardha. Learned men call twice a 
+Parardha, a Para (great). 
+wng: W ^RM-iicjnTi 
+fofnmct tTWlfSTOW cTcf;llo || 
+^ TlrT: 
+TIRf ^ rr XRT xTll^o?|| 
+Wjt ^cT LHI^XTMi 7TcT:l 
+IJcPTfi^rnft WMlPf quMlfeffl^o ^ II 
+3. V.S. Apte, p. 37. 
+4. V.S. Apte, p. 175. 
+5. V.S.Apte, p. 286, a Billion. 
+6. V.S. Apte, p. 545, Ten Billions. 
+7. MW, p. 1166. V.S. Apte, p. 589. Samudra- a 
+number 4.
+
+## Page 372
+
+Chapter-101 
+343 
+A hundred is Paridrdha as recognised by the 
+great sages. A thousand is Paripadmaka. 
+Thereafter the other numbers (each successive 
+number is ten times the previous number) are as 
+follows- Ayuta, Niyuta, Prayuta, Arbuda, 
+Nyurbuda, Svarbuda, Kharva, Nikharva, Sanku, 
+Padma, Samudra, Madhyama, Parardha and 
+Para. This way, these eighteen are the figures in 
+counting. 
+TTdHlfd 
+jrfHFT 'CRTsf 
+These are the terms enumerated by the great 
+sages. A Parardha from the beginning of 
+creation constitutes a Kalpa of Brahma. 
+qr in* xro^sr wira: wrar ■crttii^n 
+The surviving period is also of the same 
+extent, at the end of which there is a Pratisarga. 
+Thus, Para and Parardha have been counted by 
+me by enumeration. 
+WRfPT TJT cfcf WTFT: Tit rPT: I 
+W tttT sitf: W felT W g%:ii^c>mi 
+Tit WT Tit ?TR Wl 
+WTFUidKdi 'ffcT sr^nTTS^ fearTlI 5= || 
+Whereby this one is of the highest virility or 
+prowess, highest age, highest-nomied penance, 
+highest power, highest law or duty, highest 
+education and utmost fortitude, Parabrahma, 
+Pararii Jhanam (highest Brahma and highest 
+knowledge), utmost supremacy or overlordship. 
+Beyond that is the superior Bhuta and nothing 
+remains beyond Brahma. 
+qt twt #q tit: cTrT: qr:i 
+qn it qn^rTTi19ova11 
+He is stationed in the highest position, so he 
+is beyond (greatest of) all objects. The greatest 
+Brahma has been reckoned by me and half of 
+that is Parardha. 
+UTRT rflfq 'dferajqj 
+The countable yet ever uncountable is the 
+trinity. The countable is seen by counting of 
+numbers and all numbers up to Parardha can be 
+specifically calculated. 
+3iqqrq ftrTT>rc%q (?) 
+On the visibility of Rasi, the counting 
+becomes apparent. Then the definition of 
+uncountable is sand particles that means 
+infinite. These are the five per-requisites. 
+^iMx(dB^UrH4 WT^^fdll^oll 
+By the divine-visioned gods or kings, this 
+counting can be achieved because of their 
+purity. Owing to his stability in the knowledge, 
+Brahma locates everything. 
+W rf ^rq^lWMRcH:l 
+-<2 -O 
+Having heard this, all the ascetics of the 
+Naimisaranya had their eyes brimful with tears. 
+Out of joy, their voice was choked up. 
+q ^ rr 
+9I^ihI«b^ WRiraqnsnqrc: Trotnwii 
+q|*HiJ)qT wiRt qrrqq qtaw wi 
+o 
+sbiviw ^ qiiMiui ^t^fwrfq <1^:11^311 
+(Then) all those Brahmavadins (the 
+expounders of Vedas) questioned Vayu- “0 
+adorable one, we wish to hear precisely how far 
+is Brahmaloka in so many Yojanas. 0 Supreme 
+overlord! We are eager to hear about the extent 
+of Yojana and a Krosa in factual 
+representation.” 
+rfqt TTpR 3R3TT qRT%T 
+B^TcI Hfi qsnqjqqil^'iSII 
+Having heard that talk of those, Vayu 
+(Matarisvan), the disciplined one in talking, 
+uttered pleasant words as per perception and 
+serial order.
+
+## Page 373
+
+344 
+Vayu-Puraija 
+srnreyw 
+o 
+Jra^nftr ^ fsrarf^TrPqri 
+3T^r?RT^RPTFTr t foqToEFtll^ II 
+Vayu spoke- Here I shall dilate upon this 
+much. You may hear what I am eager to dilate 
+upon. From the imperceptible, the perceptible- 
+portioned one, becomes highly prominent as 
+such, 
+#cT TT?rTi WHT ^cTlf^: 35q^| 
+^wmifaeb wmp>:iimn 
+There are ten parts of Mahat. The gross part 
+is called Bhutadi (Cosmic Ego). The magnitude 
+of Paramanu (an atom) is little more than the 
+tenth part of Bhutadi. 
+snerranrt ? 33pm 
+^riRnt ^ wrm mii^ii 
+An atom is the minuter one that can not be 
+seen by the (naked) eye. That which is 
+absolutely indivisible, that is termed as 
+Paramanu (an infinitesimal particle).1 
+wt dciimuiHi wmj wn 
+When the rays of Sun enter through the 
+window, the dust particle that becomes visible 
+as the minutest one, is termed Paramanu. It is 
+the first one among the units of measurements. 
+They call that as an atom or an infinitesimal 
+particle. 
+3TEFTT wp wrrm I 
+d'H'lUj: HHIIsMIdWdJ'iK'd 
+When there may get into being the 
+accumulation or aggregation of eight Parmanus 
+(atoms), it is called Trasarenu (an atom or mole 
+or an atom of dust which is seen moving in a 
+sun beam) or Padmarajas (pollen-dust of a 
+lotus). 
+The accumulation of Trasarenus becomes 
+known as Ratharenu2 (chariot dust). And eight 
+Ratharenus in aggregation is known as 
+Balagt'cr* by the wise ones. 
+foSTT WMT I 
+fW ^ 
+Eight Balagras make a Liksa4 and eight 
+Liksas make a Yuka (a louse). An octagon of 
+Yukds makes a Yava (a grain of barley) and they 
+call Angula (the distance between the joints in a 
+finger) as made of Yavas octagon. 
+Twelve Ahgulas make a Vitasti and 
+twentyone Afigulai-joints make a Ratni (a 
+cubit- the distance between the elbow and the 
+closed fist). 
+^ITcJTfT fdVlfd^cl Hllc^dlfa m 
+Twenty-four Ahgidas form one Hasta (a 
+measure of length about 18 inches, the distance 
+between the elbow and the tip of the middle 
+finger).5 Kisku deserves to be recognised as of 
+two Ratnis or forty-two Afigulas. 
+^cr qjTIjpfttfW: I 
+Md<JIoMjdIsqIvafafcJM SFpT: TlJcPTII^'SII 
+Ninety-six Ahgulas, those seeking 
+inspiration from mind may call as Dhanus6. 
+2. The dust whirled up by a chariot as a partic. cubic 
+measure = 8 Trasa Renus. Mw, p. 865 (Ratha 
+Renu). 
+3. V.S. Apte, p. 387. has extreme strength or force, 
+and head of an anny. MW, p. 723. 
+4. Yajnavalkya Smrti p. 362, padas 3-4 has - 
+f^TSJT cj dlR-u^kM rrfn d 11 a very minute 
+measure of weight said to be equal to four or eight 
+Trasarenus. V.S. Apte, p. 480, Manusmrti VIII. 133. 
+.5. V.S. Apte, p. 637. 
+6. A measure of length - 4 hastas, V.S.Apte,p. 267. 
+1. V.S.Apte,p. 317.
+
+## Page 374
+
+Chapter-101 
+345 
+This Dhanus is a unit for the purpose of 
+measuring Gavyuti1. 
+sbjufwyid wnft# srcniimn 
+Dhanus, Danda, Yuga and Nall- all these 
+are equal-normed by Ahgulas. Those knowing 
+counting do talk that three hundred Dhanus 
+units make a Nalva. 
+sip# I 'loyrfdMinjy^i 
+31# SR-.W^lfrl #R $r ftsfrftll^ll 
+It is taught that two thousand Dhanus units 
+make one Gavyuti and eight thousand Dhanusas 
+make one Yojana. 
+T# SOTT # #R <T W#l 
+ft# rOTII^II 
+By this Dhanus, the measurement of the 
+distance of a Yojana become completely 
+illustrated. It deserves to be known that a 
+thousand of these Dhanus make the distance of 
+a Sakra-Krosa. 
+#TCHt <T Wild 
+Of Yojanas, the counting has been done by 
+the experts in calculations. By this advance 
+Yojana measurement, you may hear of the 
+distance of Brahmaloka. 
+?TcTT# ft'dlcR:! 
+ftyilebClimH 
+Divakara (Sun) is a hundred thousand 
+Yojanas above the surface of the Earth. 
+Nisakara (Moon) is a thousand Yojanas above 
+the solar orb. 
+# ww 5 #rht ft?ncbTrai 
+q^TTUp c^rwyijfwdlchl# 11^ oil 
+A full hundred thousand Yojanas above the 
+Moon, the entire stellar zone shines. 
+1. A measure of length nearly equal to two miles or 
+one Krosa or a measure of distance equal to two 
+Krosas, V.S. Apte, p. 185. 
+Tfip? THOdldt Rjld ^T:l 
+A hundred thousand stands counted the 
+height of Meru. The distance between planets 
+above the stellar zone is twice this (height) and 
+they are one above the other. 
+'diui^iori ^r:i 
+Below all the stars and planets moves Budha 
+(Mercury). Above that moves Sukra (Venus) 
+and above that is the Lohita i.e. planet Mars. 
+# fptftsr# trull# 
+wftftugH ^uppyRyidJ^lVWl 
+W^ntnt ?Td!<# ft'*TT#ll^'tfll 
+#5# cTRTtft f#T ft# 
+ft## #) ftftn^mi 
+Above that is Brhaspati (Jupiter) and above 
+that Sanaiscara (Saturn) moves on. A hundred 
+thousand Yojanas above Saturn shines the entire 
+circle of Seven Sages (Ursa Major). A hundred 
+thousands Yojanas above the Seven Sages 
+shines Dhruva (Pole Star), son of Uttanapada. 
+He is the main pivot of all stars in the heaven. 
+He has the compact divine Vimana (aerial car) 
+made of stars. 
+ours# 
+M-cFrAg #Rlf#IT ftft #ft#II^H 
+^hit cT Rftvsfftnsrr Traftti 
+#mt ###T fftft#: 3T i pw:M^'3M 
+The elevation of the world triad has been 
+illustrated by me in Yojanas. In the course of 
+the Manvantaras, worldly Yajhas are performed 
+for Devas by the people of different castes and 
+stages of life. These Yajnas alone are called as 
+the measure of sustenance and stability of 
+Devas. 
+cb<*|c||i#:ll
+
+## Page 375
+
+346 
+Vayu-Puraiia 
+((JchyM^dl W WRII^II 
+This world triad has been illustrated. Beyond 
+this, you may know. The Maharloka is above 
+the Pole Star (Dhruvaloka) wherein those 
+denizens staying till the end of the Kalpa reside. 
+It is one crore Yojanas from Dhrava. This is the 
+determination done (by the learned men). 
+| gfeit w ^dUifSiR^ ehc-Mcnftw:)! 
+m it sr^PJT: w wraJT: *g<n:ii^ii 
+From Maharloka, Janaloka is two crores 
+Yojanas wherein do abide the Kalpavasins and 
+wherein those sons of Brahma, headed by 
+Dak§a are called as the Sadhakas or 
+accomplishes. 
+TgrHTI 
+It is remembered that Tapoloka is four 
+crores Yojanas above Janaloka. Therein, the 
+gods called Vairajas, stay. They are divested of 
+the burning of all beings. 
+slglcfacb: ^3xzfall^ll 
+Six crores Yojanas from Tapoloka is 
+Satyaloka. It is called Brahmaloka of those who 
+are devoid of death and desire. 
+vzm ■ror pit ^ 
+HebchMdilT^dHi MsHVlfaiJdlfH jTII^II 
+From there, one does not get collapsed. It is 
+remembered that the space above B?*ahmaloka 
+is a crore and fifty Niyuta (1.5 crores Yojanas). 
+l * l WdlS 44 ^TgRTt^jTrQT; 
+chldrU-M fapTT 
+^IrSRTgJTTT: 
+The upper part then of Anda (Cosmic Egg) 
+is called as beyond the range of Brahmaloka. 
+The lower part extends to four crore sixty lakh 
+five hundred thousand Yojanas. This is the half- 
+digited escalation and the difference of the 
+movement of this one, is deemed as different 
+one. Dhruvaloka and its top stands illustrated by 
+me as per hearing, mentioning the distance in 
+Yojanas. 
+or^nft’ WTRT WHcbr^mj 
+wfar uKcfc^ui: infant m gfafar.-u^mi 
+Now I shall talk of the jurisdiction 
+arrangement for those living beings who 
+deserve falling into hells due to their cruel 
+actions. 
+(w^psit Trafatssr fanfaER:ii^^u 
+^ ^fa^sr wvwwfr fafam-.i 
+3Tsr:faRT: wgfa rOn^ii 
+cm nsni 
+3rffa^rfat n 
+cm c^uui^sr 
+The following are various types of hells— 
+Raurava, Rodha, Sukara, Tala, Taptakumbha, 
+Mahajvala, Sabala, Vimocana, Krmi, 
+Krmibhaksa, Laldbhaksa, Visamsana, 
+Adhahsiras, Puyavaha, Rudhirandha, 
+Vaitarana, Krsna, Asipatravana, Agnijvala, 
+Mahdghora, Samdamsa, Svabhojana, Tamas, 
+Krsnasutra, Loha, Asija, Apratistha, Vlcyasva 
+and others. 
+rTTW TOJT: -gi wm fam fwi: l 
+% gbcfedewfal: TlrRTtf ^f^ll^oii 
+All these hells are dark and gloomy 
+established in the domain of Yama. Those 
+having done deeds of sinister norm fall into 
+these severally. 
+c\ 
+■fli tferrsn: y«lf%T:i 
+vzmft § ferr wfavi-Hfan 
+Beneath the Earth, all these Raurava and the 
+like hells have been illustrated. The false- 
+witness giving one, the false-income earning
+
+## Page 376
+
+Chapter-101 
+347 
+one, a person of ruthless grasp, an untrue 
+statement maker and a false speaking person 
+falls into the hell Raurava. 
+Tf£t ^ ^[h^TcTi ^Tl 
+A cow-slaughtering one, an aborter of 
+embryo and an incendriator of a town falls into 
+Rodha hell. A Brahmana killer, a drink-addict 
+and a gold smuggler fall into the hell Sukara. 
+cTT^ ^T3TT 
+The killer of a Ksatriya, of a Vaisya in 
+miserable circumstances or of a Brahmana as 
+well as a defiler of the bed of an elder or a 
+preceptor falls into the hell Tala. 
+WWIl4) m\ TF3W3ST *T:l 
+dwtt srraraftnrTRfT 
+He who cohabits with his own sister, he who 
+may be a Royal soldier (murderer) falls into the 
+hell Taptakumbha, A horse grocer or horse 
+seller and likewise a prison-guard fall into the 
+hell Taptaloha. 
+W W srai hffAtddl 
+A seller of a chaste women, a forsaker of a 
+devotee and one who cohabits with his daughter 
+or daughter-in-law falls into the hell Mahajvala. 
+cnss^wi^dPd *m^ii 
+STWTTtft ^ ^ 9f^rTl 
+f^Tlt WTT Trafc(T $11^011 
+A seller of the Vedas, he who spoils the 
+Vedas, those who dishonour the teachers or 
+elders and even those who belabour with 
+wounding words, a man cohabiting with one not 
+cohabitable- all these go to the hell named 
+Sabala. A thief and he, who transgresses the 
+limitations falls into the hell Vimoha. 
+^ 
+OdtflillUlfasUil TT^nit diUlMdch:!! 
+tr jrcraRtii^dii 
+He who takes to a wicked intention falls into 
+the hell Kitaloha. A antagoniser of the Devas 
+and Brahmanas, a non-adorer of elders or 
+teachers and he who distorts or disfigures the 
+gems, he attains to Krmibhaksya. 
+grwnff WPT) I 
+pr# trt:ii ^<*11 
+He who eats food keeping Brahmanl (his 
+wife), friends and daughter (starving) falls into 
+the foul-smelling hell Lalabhaksa. 
+chiuscbrll eftWK'UiJ 
+31K|l)bc(nq<|dl IT f^Vl^ll^oll 
+A reed grower, a potter, a stealer of gold 
+coins or an ornament for the neck or an 
+abductor of a Candala, a physician and he who 
+is an incendriator in the gardens falls in 
+Visamsana (hell). 
+d^dldM'dMch:| 
+tjsj qfr 
+IW^II 
+He who may be an espouse of an unchaste 
+woman, he who officiates as a priest in the 
+sacrifice on behalf of an ineligible person and 
+he who subsists by planets falls into the hell 
+Adhomukha. 
+t TTTCT r\ Fn^TT TRT T*T fcUrUHl 
+t^cjuicTrf^ fetfupyH 
+7T: <***diPi ^snf?r MNUi^chiisr rTRi 
+He who sells milk, wine, meat, lac, scented 
+fluid or juice, sesamum and similar things falls 
+into the terrific hell Puyavaha. He who ensnares 
+cocks, as also cats and hogs, as also birds, the 
+antelopes and goats, that one even go into this 
+very hell. 
+yi.ilfd^T Rlfl^cEPOTn ^ 7T:l 
+<f|tMifdchl for: Yir^ratwEraitii^'kii
+
+## Page 377
+
+348 
+Vayu-Purana 
+3FTR^t 
+wtT -qnm^sr ?mt ^ vi^jyidcb:ii^Mi 
+fgwi nf^idldi jpr^n dste rTi 
+gcJchRg- wr ^ m wiPM^yid<*:ii 
+■^lnT% Md-rtJr) lJcWlg*W)fb|UI:ll^ 5 II 
+A Brahmana who is a keeper of goats and 
+sheep (i.e. a shepherd), a buffalo-keeper, one 
+dealing with discuses and flags or carriage 
+dealer or a potter’s wheel dealer, a flag dealer, a 
+theatre-keeper or a dancer or a stage manager or 
+a drama or a stage actor, a painter or a 
+gladiator1 (Rarigopajivi) or a wrestler, a fowler 
+or a bird catcher, a rustic chaplain, he who 
+burns other men’s houses, a poison giver, a 
+Kundasi (an adulterine or a pander, a pimp or 
+one depending for livelihood on a bastard 
+(Kunda)2, a seller of Soma plant, a drunkard, a 
+meat-eater, an animal killer, an immolator or a 
+Candala3 or a dissector of buffaloes and others, 
+a deer hunter or a venison seeker, a Parvakara 
+or Parvakar!4, a Sue! (a needle worker or a 
+tailor) and one who is treacherous to an ally or 
+friend- all these sinners fall into the hell 
+Rudhirandha. This way have declared the 
+scholars. 
+^Mpe^ebM^ckyi iWT h 
+TffifcT TOT 11^1911 
+He who feeds variantly that (group) seated 
+in the same row falls in the terrific hell 
+Vidbhuja. There is no doubt in it. 
+■pTcTT^ ^TT rCTT 
+TR# Tf Milled II ^£11 
+1. SlftRffef;, I Eng. Skt. Diet., V.S. Apte, 
+p. 183. 
+2. A son born in adultery; a son of a women by a man 
+other then her husband while the husband is alive, 
+V.S. Apte, p. 152, Yajhavalkya Smrti 1.222. 
+3. V.S. Apte, p. 522. MW, p. 990. 
+4. A Brahmana who from motives of gain performs on 
+common days ceremonies which ought to be 
+performed as periodical occasions. 
+A person who is a false speaker, who is an 
+abusive-tongued one, an inauspicious one- 
+these sinners fall into a terrific hell named 
+Mutrakfrna (urine-infected one). 
+WTSTfa^RTTTt cfarnff qrr: i 
+w gfkif^cbisj %ii 
+TjJMim: n^9on 
+Those beings who are killers of crocodiles 
+and bees fall into the hell Vaitarnl. Mentally 
+deranged, persons having broken hearts, 
+persons devoid of purity and conduct or chastity 
+of conduct, wrath betakers and af'forders of 
+grief, those having been duped by cheats, ropes 
+or jugglers (Kuhakas)5 fell into the hell 
+Asipatravana. Persons killing Urabhras (rams) 
+or hunting deer, are cut, mutilated, dragged and 
+pulled in a terrible manner in that hell. 
+34pH\rc||<i| MdPd ^I 
+Those who are ostracised from the orders of 
+society or drunkards6 within the orders of 
+society, they fall into Agnijvala hell. They are 
+eaten by steel-beaked crows of dark and diverse 
+colours. 
+^l^dWIHlMlc^ ^ tRETI 
+yp; wh siPinl si$),cu!<*J|:11 ^ 11 
+Owing to the defunction of sacrificial vows 
+by discharging of semen even in dreams, one 
+may fall into Sandamsa (hell). 
+^{yyiPMdi ^ rj y^MiPidisr h 
+^ ^ ^nf^r <T «#3^ll^^ll 
+Those who are taught or commanded by 
+their sons, all those definitely go to the hell 
+Svabhojana (having feeding by dogs). 
+5. V.S. Apte, p. 156. Kuhaka, Juggler, Rogers, Cheats. 
+6. V.S. Apte, p. 361 eater, drunk.
+
+## Page 378
+
+Chapter-101 
+349 
+<*nWfirr % ?r gRcffcr ^ ftwnft^:(TiT)ii 
+•O s3 
+And those who perpetrate actions violating 
+the laws of stages of life and orders of society 
+on being roused to wrath and joy go to the hell 
+(Niraya). 
+*TK <JWJIIrHI ftot tT?RI 
+vfldlrHl ch^i^'KIItim: PJcT:ll^^ll 
+The hot-centred great hell Raurava is white 
+from outside and terrific. The extremely terrible 
+Tapah is beneath it. It is cool-centred. 
+i^nir^Moid 
+TOil: MRcb^RdT:il^\9^ll 
+You may hear and understand these being 
+described in serial order. Beneath the Earth, 
+there are seven hells illustrated as such. 
+■foci: OTMWfJi Ticf xTil^ii 
+The scions of unrighteousness or the 
+generators of unrighteousness are 
+Andhatamisraka and others. Raurava being the 
+first of them and then there is Maharaurava. 
+3TWTST: TfTCiHj: 
+^TRT: ehiH^: 
+Beneath this is another hell which is both 
+cold and scorching. This third hell is Kalasutra 
+which is known as Mahahavividhi too. 
+W*T 'PpT:i 
+The fourth hell is Apratistha and fifth one is 
+known as Avici. Lohaprstha being sixth one and 
+Avidheya is the seventh. 
+ylwi^Ud: jtItfi: yiwi=hl ^r: Tp:i 
+r:ll^o i 
+On being hideous one, Raurava becomes 
+well-known as highly terrible. Although it 
+contains water, it is remembered as one that 
+scorches. Beneath it is the hell Tapah, most 
+terrible, cold and very inferior. 
+Tnif Ihc^h: 3Ttrf>: 
+Biting serpents are said to be in the highly 
+terrible Kalasutra. In Apratistha, there is no 
+standing. There is a highly terrific whirling in it. 
+Strtft WMMUdM ^T:l 
+rWir^Treuii Ht?: grtfuri ^iiuii-cd ^r:ii^?ll 
+Avici is called highly terrific owing to 
+suppression within or compression within 
+through mechanical contrivances. More terrific 
+than that is Loha owing to the demolition of all 
+deeds. 
+Though the beings in the hell are without 
+bodies, the pain, bondage, death and disjunction 
+that they undergo in the Avidheya hell have no 
+remedial means or qualities. 
+33^ Wll PuiHIchlV’d ^ TCFIT: I 
+Having mountains overhead, all these 
+terrible hells are devoid of light. The uprise of 
+grief among them is as per reasoning of 
+unrighteousness. 
+These two lokas on the top are devoid of any 
+light whatsoever. Although they are similar to 
+other lokas, the uprise of grief among them can 
+be of terrific norm by means of fiery piles. They 
+take up bodies capable of experiencing these 
+sufferings as a result of their previous actions. 
+The intensity of suffering is common to all 
+these worlds.
+
+## Page 379
+
+350 
+Vayu-Purana
+
+## Page 380
+
+Chapter-101 
+351 
+All the sky roving ones i.e. birds deserve to 
+be reckoned as forming a thousandth part of the 
+number of aquatic living beings. 
+^T: WleifcM t qgrTl 
+traT rflfibebiy ^3^1:11^0^11 
+All the animals or beasts, the quadrupeds, 
+deserve to be reckoned as constituting a 
+thousandth part of the number of birds. 
+^omt mi 
+The bipeds (human beings) in this world 
+should be recognised as constituting a 
+thousandth part of all the quadrupeds. 
+u: <r fg^t yr:i 
+yiFScfcPRta WTT fg?RT: TTforTT: ^TMRo^ll 
+Dharmikas i.e. righteous men should be 
+known to constitute a thousandth part of the 
+entire number of bipeds. 
+■stfRt snfiJ&Bjr mu 
+«TFTt yiftfebiuii q^rn 
+^TPtr tTt%tTnsrra^ f|ll? O'*II 
+Of the righteous men, only a thousandth part 
+attains to heaven. Of those righteous men who 
+go to heaven only a thousandth part becomes 
+eligible (depending on their deeds) for final 
+emancipation (.Moksa). 
+ufdrTT: hTWlWr %l I 
+dmrr iirt yiidiuii yud<#d ftiRomi 
+Persons assuming from in heaven are equal 
+to those who are staying in the abodes of 
+torture. The degrade ones, the sinistered deeds 
+ones, the wicked-souled ones- all these fall into 
+the dark Raurava hell after death and attain to 
+cold and hot. 
+^<dld>dchl^d<£U iJlddlWR*Wlrn:l 
+srorer ffrreftTt ylu^irUcb-.n^o^ii 
+The torments attain to the spots of torture of 
+bitter norms. Their bodies become benumbed. 
+Raurava deserve to be known as having soul for 
+fiery and terrific-tasted ones. 
+rfiTT 'ERlR^gTlft #dlrHI W WJ:\ 
+Tjgrfcrr: trt: wr 3T rttui? o\9 
+The Tapa hell is having soul for clouds and 
+for frigidity and constant penance. Good and 
+pious men attaining to heaven are very rare. 
+TRPTT (?) ^><Aui 
+tpirt gTTfjft xt TTR^ll^odII 
+This way stands reckoned by counting the 
+enumeration (of hells) by the self-bom Brahma 
+himself. This counting stands enumerated, the 
+one of Brahma and the one of human beings. 
+TT^f ^HWM: TTrtf ^TcTt ‘JTIoht 
+3rST t^TT WfcfcT H)d>HW-d>U| g|| 
+The Sages spoke- Mahah, Jana, Tapah, 
+Satya, Bhuta, Bhavya and Bhava- all these 
+lokas have been illustrated by you. Now you 
+may dilate upon in details about their difference 
+and about the distance between them. 
+rfot HjfER fHT j^Uliqi^d^lMI 
+IT ch^ghfcUvS dvdhdM ?IR^o|| 
+Having listened to that expression of those 
+sages, the Urdhvaretasas (perennially continent 
+ones), Vayu, having the motive in reality 
+understood that and spoke these words. 
+cuqWcT 
+WrtllgAur mPR W x( «ll 
+Vayu spoke- The learned men see that 
+manifest through a logical deliberation; the 
+Yogins see it directly by means of Yogic power 
+and those who habitually perform holy rites 
+observe it through Pratyahara (withdrawal of 
+physical senses), meditation and penance.
+
+## Page 381
+
+352 
+Vayu-Puraija 
+mg: 4M<$MKidi: 
+eqt)dVl>cKI f^TSTT: ‘S^TT WW:!!? ^11 
+Rbhu and Sanatkumara and the like, grown 
+up ones, having preintellects, having grief 
+shaken off, the Virajas (having no gloomy ideas 
+or perplexed senses), being in such a state, are 
+the veritable Brahma, O excellent ones. 
+dwfisrryHt «ii 
+W ^ Tnf^rezr rT? <*^nil 
+The indestructible ones, endowed with 
+pleasure, adhering to Brahman, Yogins and the 
+sages Valakhilya and others- all these have 
+observed the residence of the eternal lord from 
+close quarters. That abode cannot be conceived 
+or argued about. It makes righteous men 
+contented. I too have observed it by remaining 
+close at hand. 
+ir-ftftungi 
+?IR rPT: 
+*TI 
+3<biWlfH rffwfdBPd 
+Isvara, owing to the idea of minuter atom, is 
+fit to be cognisable for those seeking inspiration 
+from mind, knowledge, renunciation, penance, 
+truth, forbearance, fortitude, perceptibility or 
+anticipatory power, self association and 
+stabilisation as such. Through these ten 
+attributes, they stay along in that Sankara. 
+f^JTr^ Trf:l 
+■o S3 N S3 N 
+^ vmt wi^wtrf^rir ys 11 
+Owing to the idea of supremacy, the Fire of 
+mental concentration (Yogagni), engaged in the 
+gracefulness of Brahma- that one having 
+assumed the framework of loka, attains to 
+association. 
+fcRcsmgg 
+dWW -SFqra WR Mraiw TRgiR^ll 
+The abode of that eternal lord is Aksara (the 
+certain one), fixed and undisturbed by worldly 
+chaos. It is the eighth (loka) which is conceived 
+by Maya (magical power) and the greatest of 
+all. 
+wtot tfFft ijcrr i 
+^ngw^R^nrrot % gfafttiR ^ ii 
+Through Maya, the eightfold Prakrti and its 
+creations are created by him. He is lord 
+Mahesvara who is the master of Maya. The 
+dissolution of Dev as is also done there (in his 
+abode). 
+fcrat ir 
+mtesrej ftgrfT 
+gHlchT^^IHIchl t ^chlrJ^IR^oll 
+In details and in serial order, you may know 
+from me, while I speak. The distance between 
+Bhurloka and Brahmaloka is illustrated as one 
+hundred and thirteen million five hundred 
+thousand Yojanas. 
+wryifagarft rn 
+awf wiydiu^ g 'wji^cbFrt t^ir^ii 
+One crore Yojanas and fifty Niyutas] is 
+known as the space of Brahmanda above 
+Brahmaloka. 
+rr&fri: srarnrej *ic*rt <rt: 
+(ftotIT IPTftwmT: M<WJpilSRTT:ll^ll 
+This, the upgoing movement, is known as 
+having an ending in mobility perennial and 
+unrecountable adhering to mutual qualities. 
+WTT: 
+MefccTd : 
+Minuter ones, having qualities for 
+procreation, known as Prakrtis exist there, 
+whose attribute is to create the Ksetrejna known 
+as Brahma. 
+SHdlia TTt STPT CRTT1UI ntWtlR ^^11 
+-O *s 
+1. V.S, Apte, p. 290.
+
+## Page 382
+
+Chapter-101 
+353 
+yi^cir^il'tiM: ftsrf?®gFzgiTf: iiq ? mi 
+The one endowed with Prakrti, the minuter 
+one, the supporting one, the eternal one, the 
+unprocreative-normed one, the abode of highest 
+order, the great atom, Aksaya (indestructible), 
+Anuhya (not fit to be borne or thought over), 
+Amurti (frame), frame-endowed one, the 
+expositioned-normed one, the obscurity-normed 
+one, the stationing as well as Anugraha 
+(gracefulness) or condignment- all these exist 
+in them. 
+wrnj$|qsR:i 
+^TrETT TJy TTWl *t: 
+Vidhi (Brahma) is not comparable to others. 
+The great Isvara is like Paramanu. He is 
+endowed with radiance and he is the exposer of 
+austerity in advance. 
+wit wImuPUhj 
+^TPT%TTJg5ra^rracTII^?V9l| 
+The golden egg that was evolved at the 
+outset as Aupasargika (a relevant adjunct) was 
+of great norm and globular from all sides. It 
+became a twain of Isvaras. 
+yrfq TTT ^ qRraanfwa5TII??<SII 
+From Isvara is the gemiination of seed. 
+Ksetrajna (individual soul) is desired as a seed. 
+Yoni, they known as Prakrti and that is 
+Narayana personified. 
+^RTif: TTTWT^T 
+Vibhu (Brahma) for the sake of creation of 
+the loka, is the very mainstay of the lokas. A 
+happy creation with physical frame constitutes 
+(the activity) of the bearer of the lokas, the 
+great-souled one. 
+MTWI<^4ld>W 3tU^|<c)Uy 5T^W:l 
+rpinte qt f^T WR ^ iRTWriR^oll 
+Beyond Brahmaloka and beneath the upper 
+crust of the Cosmic Egg- in between these two 
+is the divine spot, his abode which is made up 
+of the mind. 
+That is the abode of the embodied Isvara, the 
+highly-radiant one. The city named Siva is 
+(also) there which is the refuge is of those afraid 
+of birth. 
+TTfwnt w w? #jhht f^-rTMui: i 
+3TWRT* TT 
+It is full one hundred thousand Yojanas in 
+extent, 0 excellent Brahmanas! Within, it is as 
+extensive as the sphere of Earth. 
+Vll-ddil*^ TT^TTT ycfcMUir^cJ^III^ 3 II 
+It is illuminated by a mighty golden rampart 
+of solar radiance. It has brilliance of the mid¬ 
+day Sun suppressing the lumination of all 
+others. 
+SltsRTfif: 4THU1i4ThldlM^'MfMrl:l 
+It has four golden gates1 ornamented by 
+pearl wreaths. It is refulgent like gold being 
+engirted handsomely. 
+TTEEtTSSc&r?! yt TW f^cq- yUilldHlfddMI 
+(q m rtM q ^tt 
+That city in sky is the lovely one, divine one, 
+resounded by bells and the likes. There does not 
+prevail upon death, no heat, no decrepitude and 
+no fatigue becomes prevalent. 
+q^h y?raTi ^nm1dM^(d(?)i 
+u#nuii wi wf •dl'jHTqi f^Tt 
+No other city deserves to be compared to 
+this city. It extends to a hundred thousand 
+1. dl<=Ff: for verse 234, padas, 
+p. 548.
+
+## Page 383
+
+354 
+Vayu-Purana 
+Yojanas to the ten quarters. 
+W2I 
+#felT <*Hcbw4)ll^\9ll 
+That city is pervaded by the lustre of the 
+bull-bannered lord and so it stands (firm). By 
+the idea of mind, that land stands established as 
+made of gold. 
+gq fERWT ^rfofijePTI 
+VIK^Hcbiyilfq WT^ffwtl^ 
+3r£|)dlsSw>lft g$g ^1 
+uUqi>U| WTHT TTftRTSTri^T ^1 
+O 
+gg f^oyiin’ TRJlfq tTII^^oII 
+By sand of jewels, that city shines forth 
+abundantly. In the gardens and parks therein, 
+there are divine lotuses having light of the 
+autumnal Moon, which are similar to the rising 
+Sun, which are half white and half ruddy-hued 
+and which are golden ones. Their stalks have 
+the lustre of emerald gem and their size equal to 
+the extent of the wheels of chariots. They are 
+unparalleled-scented ones. 
+dml-yifa gift gi 
+^ebMH'RHlfUF 
+O s3 
+U^difn 
+qq: w qiqifq wlggii^^ii 
+Bearing semblance of the Bhniga-patra or 
+bees and sprouts that are golden ones, half dark 
+and half red, having softer interstices, the 
+lotuses cover up the whole place and seem to be 
+so many umbrellas. There are seven great rivers 
+there. You may know their names. 
+CRT cfTTlf cKdfufqh 
+gw *r TWTdfwgrt^ii^^^ ii 
+Vara, Varenya, Varada, Varaha, 
+VaravarninI, Varama and Varabhadra- these are 
+the fascinating rivers of excellent form. 
+ST 
+gfoi^wwrra#ET ^fTSTT:ii^*n 
+The excellent rivers are suffused with petals 
+of lotuses and lilies, having framework of 
+whirlpools and foam water known as Manidala. 
+q g dfrwi ^ qren: fudqwyn 
+q {cj^cRTSMildW f^flyiW g^Tgiiq^mi 
+Neither Brahmarsis nor Devas, nor Asuras 
+nor Manes nor others knew that immeasurable 
+city of the Isa (lord). 
+o 
+qygqft? upR: q* d<qFpjirqq:iR'>^ii 
+All those great-souled ones, concentrated in 
+mediation, nicely united or engaged, having 
+senses well-control, take to observation that city 
+of the bull-bannered one. 
+d^wfuclrl^ll 
+TWTT?: ^TO:l 
+In the centre of that excellent city of lord, 
+there is a mansion of unparalleled radiance, a 
+great one or a lofty one similar to Meru, a 
+divine one surrounded by Bhadrasrl (sandal 
+tree), a thousand-footed one, a golden one and 
+the auspicious one. That is decorated all over by 
+the gems of unparalleled nonn. 
+4lWW:l 
+cFHwrmsjg 11 ^ ^ ^ n 
+TnqrtejTlq 
+^rg :U’R ^ o II 
+It is crystalline, lunar-normed with turquoise 
+gems having radiance like that of Soma (Moon), 
+even bearing semblance of the light of fresh 
+Sun, golden ones, having refulgence like that of 
+Agni, even silvery-normed ones, shining forth 
+by sapphire-normed ones, auspicious ones, 
+stronger ones, adamantine- this way were those 
+nicely carved-out ones.
+
+## Page 384
+
+Chapter-101 
+355 
+rchHtluim«?|ctl^: Wn^lcfcKilhJtrhlR^’RlI 
+Having waters of many varieties, shining 
+ones, equipped or scented as such (Adhivasita), 
+decorated by buntings, having shine of the light 
+of Moon, having tinkling of the bells of gold or 
+iron, having a perennial festal melee, its 
+refulgence is heightened by the residential 
+abodes of Kinnaras, shining in the shape of 
+clouds of twilight. 
+The way the mountain Lord Meru shines 
+with golden peaks, in the same manner the 
+mansion shines with shining water currents all 
+round abounding in golden flowers. 
+WTI 
+Tict 
+The whole city shines with golden flags and 
+banners. Prasada~rdja (the lordly mansion) 
+shines forth with its storeys. 
+wiki T?TkT 
+^ ifar wrrRRnrfkrrT: 1 
+ftrJTT inrirwiraT: ih^hjuiispsjt:)ii 
+'ffncRT q?kMR 5rfkk^If[%fT:IRk\9ll 
+In this abode of Tryambaka (i.e, Siva), there 
+is a statue of Vasanta. LaksmI, Sri, Kirti, Sobha 
+and Sarasvatl- these female deities united as 
+such, endowed with form and scent, perennial 
+and innumerable, depending on their mutual 
+qualities, ornament among all the gems, the 
+breeding spot of transformation and grace, 
+dividing themselves into hundred crores, the 
+highly fortunate ones, the adorable ones, the 
+great-souled ones, are present there in physical 
+bodies, free from lassitude. 
+wrat w^rsfRir: 
+ferr f^T: ^kr: 
+They have thousandfold other maid-servants 
+behind them, assuming superimposed forms, 
+endowed with glory, all being lotus-eyed ones. 
+TTtffSTT: TTkk qidch)Mft:lnmi| 
+By highly fascinating emotions or ideas, 
+endowed with grace, they sport along and gloat 
+along with the Ganas, bearing gleam of 
+mountains and resembling fire. 
+cJinfnchl^N TOM 
+'O 
+11 ^ o 11 
+bikrcfrT f*cr<T3TT f^TT fWmfdchM 
+Some are hunch-backed; some are dwarfish; 
+some are having beautiful bodies; some are 
+wanton-normed ones; a few are slender like the 
+red variety of sugarcane; some are hideous and 
+terrible with flat faces; some are hanging- 
+bellied ones; some are short-armed ones; some 
+are without eyes; some are small-footed; a few 
+have the faces of the lord of beasts. 
+r^cqiyi-Hiwin 
+Some others have faces and bellies like 
+those of tusker; others are elephant-faced; a few 
+are lion-faced and tiger-faced; some have red 
+eyes; some beauties have huge breasts and 
+charming eyes. 
+3RT12J ^TRraWT: 
+Some having curls shorter and curly ones; 
+some are beautiful ones having lovely eyes and 
+some others of wanton forms; some are 
+superimposing ones. They wear different 
+costumes. 
+r:ii^xn
+
+## Page 385
+
+356 
+Vayu-Puraija 
+They are worthy of the abode of the lord. 
+They move about everywhere within the palace. 
+The ten-armed lord Mahes'vara sports therein. 
+^tt g got: gr# i 
+He lives along with Nandin and the great- 
+souled Ganas of universal forms and likewise 
+with Rudra-ganas having similar liberal¬ 
+mindedness and prowess. 
+mcteblrlJ'j|^eblV!l4l4ciylr*dH^: I 
+They bear semblance of Pavakatmaja (an 
+epithet of Kartikeya)1, having faces hideous, 
+having curved jaws of sacrificial posts norm. He 
+is being offered obeisance to by those staying in 
+the Vimanas (aerial chariots) and being adored 
+by those engaged as such. 
+■yeScUuui wtt f^wntJTtrfrr ferwi 
+•0x3x3 *S 
+R^'3II 
+He wears all-seasoned floral garland on his 
+chest and inhales their fragrance. Pie is azure- 
+hued one like the dark lotus. His eyes are 
+elongated and boldly ruddy-glowed ones. 
+4Ue|KWHJR^II 
+He is slightly terrific with hanging lips. He 
+is equipped with group of sharp jaws. His lofty 
+eyes are turned upwards. He is difficult of being 
+visioned. He is lovely and nicely-costumed one. 
+cRpn^T wf TTSErs^ fw^lR^II 
+TTF3T tfetf tW ^mrafTfflTniTl 
+■q^V4TcfRralq cRRTqfdht -iTTHII 
+faRd i r is o 11 
+He is absolutely unscathed in battles, a 
+destroyer of the enemies of gods, having 
+incorporated arms within arm. On his left side is 
+stationed the shining weapon Pattisa (a spear 
+with a sharp edge). In strength, he is highly 
+extraordinary-normed force. He has ten- 
+coloured bow, variegated one, shining 
+admirably and the twanging sound of which is 
+very terrible. 
+fgWMWTtg 
+Cx x3 ' xfl ' V 
+sHisrdr^uw gw wi gRw foWiR^ii 
+His trident have the gleam of lightning. It is 
+unfailing one and destroyer of enemies. It is 
+endowed with the excellent splendour and it 
+blazes brilliantly. 
+«rg: YTtrrcfyM: wt Ml 
+gw mw ^?Rg n 
+m fgiRmn 
+The sword of the excellent one among the 
+forceful ones shines forth extremely therein like 
+the fire flame in a sacrificial altar. It is similar to 
+a cool-rayed Moon that shines with its 
+engleamed body and radiance of Deves'a. 
+iw: Wcrr^rg tt^ri 
+'sfgr: tt: eb^^:iRV9^ 
+In front of Deva (lord) is the great golden 
+stupendous Kamandalu (water-pot). It shines 
+forth illustriously and is well-equipped with 
+water. 
+3^Ulrica 
+-q^rr f^nf^mTii 
+fefiTT rii)cb4iqdTIRV9^|| 
+qrn 
+felcfT tJi^hRihII 
+Having inserted sword in limbs, the one 
+wearing white clothes, shining with a pearl gem 
+or pearl (wreath), huge-normed one, chest 
+perforating one, four-armed one, highly 
+fortunate one, the first female doorkeeper is 
+Vijaya that stands there well-known in the 
+universe. That Devi is the foremost female 
+usher like Sri, unparalleled, a different one, 
+1. V.S. Apte, p. 334, Mic(c^|rH^ - |
+
+## Page 386
+
+Chapter-101 
+357 
+shining forth, stationed as such with folded 
+hands unto Deva. 
+treiT: ^gljnWRTT: 
+cTT: TSFerfMh ebl^*»MfrlBPd 
+Following her, there are other ladies. They 
+are endowed with the bevy of nymphs. These 
+ones with new consorts1, wait upon or adore 
+Sankara. 
+w tri«I^4i:irv9V9u 
+The Ganas or attendants of the breed of 
+Gandharvas, endowed with all the distinctive 
+marks and invigorated by the musical 
+instruments, do (eulogise) by musical notes the 
+lord of Devas. 
+3?«ivRTr h^hwi: vitrappier:i 
+T^m-tgr dlufrHiw ii 
+Highly lofty or tall, robust-chested one, 
+having complexion like that of autumnal cloud, 
+the lord of bulls, shines forth getting exultant in 
+his house. 
+WictR: UTTSHnfhddrfcjMi 
+' -O "S 
+:ll?V9^u 
+Then there is Skanda, his son, the highly 
+chivalrous one, wearing ruddy costumes, the 
+illustrious one and having eyes like the 
+excellent lotuses. He stays there with his 
+followers. 
+cTPI FTT# faviHsIST ^Tira^J 
+oyirdowm: w.ir^oii 
+He has four followers, viz. Sakha, Visakha, 
+Naigameya2 and Astavan (these are 
+incarnations of Skanda)3. They are devoid of 
+vicious indulgence, uncruel ones and engaged 
+in protection of progenies or subjects. 
+2. Ibid., p. 283 and 39. An Anucara as well as a 3rd 
+brother of fCumara. 
+3. Ibid. 
+%: TTTsf FT TljrfW: fviRsle||$H:i 
+Along with them shines forth the deity with 
+Sikhivahana (having peacock for his vehicle, 
+i.e. Skanda). He has great prowess. There, the 
+lord having faces all round sports with big 
+serpents as his toys. 
+% fCT fcray^lUli chlfHHJ ^TftFT: I 
+% tT W5RFTT f%5IT ^11 
+Those kings who are bestowers of gold unto 
+leading scholars, those Brahmanas who had 
+their own abodes and are Brahmavadins, those 
+who perform austerities in secret or esoteric 
+self-study and those who maintain themselves 
+by gleaning- all these are the counters of that 
+Devesa, well-honoured as such. 
+H^iiu^chifn sicfifo rjq: tr:i 
+ftrat ^ Viratair^ii 
+Many Manvantaras staged a come back time 
+and again. Now listen to the excellent future 
+marvel of Bhava, the lord of Devas. 
+cyiyiv^ciHJiiw^ ehrtHi'MreRfwqf:! 
+Tigers are his followers. They are golden- 
+coloured and forceful ones. They are created by 
+the lord himself and they move about as they 
+please. 
+T 
+They are like Death unto god of Death. They 
+subdue the pride of Yama. Who, verily, will 
+describe the innumerable superhuman faculties 
+and excellences (of the Lord)? 
+3Trf: ^l^dgrTOHJ 
+^dumnobuii^ ipgpT <rf%«rtawiR<iV9ii 
+After this, I shall illustrate again the 
+excellent and wonderful activities of Bhava
+
+## Page 387
+
+358 
+Vayu-Purana 
+(Siva), pursued sympathetically for the sake of 
+blessing of all the beings. You may know that. 
+$|<<§^e|UlhT 
+xismfuimiuii 4r 
+C'v "S 
+hriktsh iwrt w m feriwHii^ *n 
+■^sujm^dmy (?) wJcranpT fi^yrdi 
+m 'flcHftlWHf gpM^pj ^^1:11 
+C\ v3 
+3PFT: mmmj 
+Having manifestations or gleam like the 
+Mandara mountain, in strength of indubitable 
+physical powers, having colours of pearl 
+necklace, Kunda flower and the Moon, having 
+reverberation like the rumbling cloud lightning, 
+the bearers of the crest jewels, having costumes 
+of cloud colour, having adament marked by 
+Srlvatsa (Visnu), having hands occupied by 
+cubit-nonned tridents- these are the attributes 
+possessed by those who are a thousand living 
+beings created through Maya and fettered to 
+eight pillars in that abode of the three-eyed lord. 
+They have the excellent features of the lords of 
+the quarters. To the excellent shining columns 
+of that illustrious mansion, they are severally 
+tied by means of fiery fetters. Thus they live 
+there very happily. Then having honoured the 
+word of Vayu, the highly amazed sages, the 
+denizens of Naimisa forest, the great ascetics,, 
+replied. 
+^ci^cJhttrt tttw wri 
+c\ 
+^ ^ ^ cT ^TTrfF: fctvMlrUcbi:!! 
+“O adorable one! O you life breath of all 
+beings! 0 omnipresent Lord! Who are those 
+great beings in the forms of lions? Where are 
+they bom and of what forms are they? 
+f^lTT: ^RTTTT wfa^JMII 
+What is their guilt for which those lions 
+have been severally bound by means of 
+Vaisvanara (fiery) fetters by the lord of all 
+living beings?” 
+flgxH cu<jc(lc*<4 f I 
+Having heard that talk of those ones, Vayu 
+spoke the sentence- “Those thousand lions are 
+the embodied forms of the Furies of the lord 
+and created by the noble-souled Isvara after 
+straying away from his own body. They are 
+given the wrath-embodied forms of lions. 
+xT xT^TI I ? ^ ^ II 
+^ ^ ef^R=!r Jf 3S?r:ll? <?U!I 
+After offering peace to all living beings, 
+they had been fettered formerly by means of the 
+fiery bonds. The Kratu (sacrifice) of Daksa was 
+completely demolished sportfully by a single 
+lion that had been released from bondage at the 
+behest of IsVara after knowing that the wrath of 
+the goddess has been incurred (by him). 
+W P<tfc(°qi ^[cblcft 
+3TirtR: ^^5^:11 WII 
+At that time, the great goddess emanated out 
+as Mahakall of Mahesvarl (goddess Uma), the 
+one bearing witness to her personal actions, 
+along with all beings or Bhutas. 
+TT TJ^T : I 
+^TT tF^SrtTF^tlR^^II 
+That fury is the holy lord Vlrabhadra who 
+permanently resides in Rudra’s abode. He is of 
+incomprehensible form and is the eradicator of 
+the grief of Devi.
+
+## Page 388
+
+Chapter-101 
+359 
+yfa4yiw4^ui'| TTqr cf: •qfe^T:ll^oo|| 
+Thus, the abode, the excellent one among all 
+the secret abodes, the habitat of Indra, of no 
+comparison, has been illustrated by me to you. 
+31tf: Trt Hc^lfij % rT3T JlfdcllRR:l) 
+v*t trTcn:^ o 311 
+s3 Cs "O ' 
+MdldiNg^N ^Tl 
+^Tpcidvii^ii^o?n 
+TMcTT T^RTT vltrldfla^iudM 
+After this, I shall talk of the other residents 
+and objects of that fascinating excellent capital. 
+It is situated in the atmospheric regions. There 
+are other chief mansions, variegated with many 
+gems, abounding in buntings, affluent in all 
+cherished ends, englamoured by forests and 
+groves, silvery ones and huge ones, golden 
+ones, peers to the clouds of twilight and bearing 
+semblance of Kailasa. 
+ft: ^dWHfllRui:i 
+In those excellent palaces, the followers of 
+Bhava, the nicely-vowed ones, rejoice enjoying 
+various means of pleasures liked by them such 
+as sweet melody etc. 
+Ifrattrf^TrTT: 3M12J ^pT:l 
+There is an unceasing recital of anecdotes of 
+auspicious norm along with the chanting sounds 
+of Vedas. The notes of music, vocal and 
+instrumental, with eulogiums are heard all 
+around. 
+TTcTOTflft Cf£?t 
+United or well-knit, the (subjects) there are 
+incomparable having good many resorts or 
+sheltering spots likewise. This way and the like 
+do exist of these ones on the crest or roof of the 
+mansion (Prasada). 
+Wercif: ^T:i 
+SRWi^fl ^f?T: 
+Cs ' 
+Each of them is a thousand-plinthed 
+mansion made of gold and an auspicious one. It 
+is embellished with uncomparable jewels and 
+gems decorated all over as such. 
+dMy4n%Tfa 1130 6\\ 
+They are beautified with crystals like the 
+Moon and having gleam of the norm of 
+turquoise gems as also of the norm of rising sun 
+and by golden gems having gleam of fire. 
+STMT 
+cii<FW3: u4V<uivii3o^ii 
+Having heard this, the sages of the 
+Naimisaranya expressed loudly (their wonder). 
+The ascetics, having apprehensions created, 
+uttered these words to the Wind-god. 
+% cT ?rar TfpfRRt ^ 1 
+3mr?IW. TTMcBPTtf^ I 
+^Mluii ster stmt ?oii 
+The Sages spoke- Who are the great-souled 
+ones there, the followers or devotees of Bhava 
+(i.e. Siva)? Indeed they are thoroughly fit to be 
+counterpoised, rejoicing as such in that 
+excellent town. Having heard the words of 
+sages, Vayu replied again. 
+srarri ^cn=g 
+^rRfrrr fRrr: vfcfowr fTcHHR:ii? ?? 
+(nsznfnj^ aucMumi 
+fddf-fT: n^rHi^r: tAmt Rrncrccmr:ii 
+TOM: y^dHIMcillilKI 3RI<*HI:l) 
+Cs s3 ' 
+cfituiT TTTOT cOMT f^^RRRMRTII?^ll 
+3RM*RM TOW % T^WTII^II
+
+## Page 389
+
+360 
+Vayu-Puraija 
+'tmz ^ih-humii^^ii 
+Vayu spoke- May this be listened, O Sages! 
+The people who are docile (lit. endowed with 
+modesty), highly exalted, well-controlled, 
+equipped with heroism and lustre, having food 
+of mediocre norm or those taking food in the 
+midst of gathering, Matras or of measured out 
+looks, revelling in self, controlled in senses, 
+having dualities won over, highly courageous, 
+pleasant-tempered ones, having spite wiped off, 
+steady within the emotional candour, beings 
+free from bargaining and unperturbed by action, 
+mind and speech, having pure inner self or 
+conscience, having minds devoted for no one 
+else than lord and whosoever take refuge in 
+Mahesvara- by them is obtained the luminous 
+light of Rudra, the perennial status of 
+indestructible norm and they obtain the 
+semblance of the framework of Bhava of 
+highest order. 
+All of them are fire-faced and universal- 
+formed ones. They are Kapardine (Saivites 
+having matted hair), blue-throated ones, white¬ 
+necked ones, sharp-jawed ones and three-eyed 
+ones. 
+^iwyiRuci 
+WtTTfnfeR: 113^11 
+The crescent Moon forms their coronet. 
+They are wearers of matted locks of hair. They 
+all being ten-armed and heroic ones, the 
+scentful ones like the interior of a lotus. 
+fiHichmuii): TFTSf ^RFTt^arrFrT:ll^^ll 
+Bearing semblance of the rising Sun, all of 
+them are yellow-costumed ones, bow or trident- 
+wielders and having vehicles as white bulls. 
+O 
+^T#T: «cte[fyfa:ii3 ?3ii 
+They are endowed with Sri (glory); they are 
+Kundalins (snake-coiled ones or wearers of ear¬ 
+rings), adorned by pearl necklaces, excelling in 
+radiance even more than gods, omniscient and 
+all observing ones. 
+faiTHT slfOTSSrlTR ^Tn^fy^rTT: I 
+Being such as free from decrepitude and 
+death, having divided selves in many forms, 
+they sport along with myriad-normed emotions, 
+having obtained highly unattainable shares. 
+iwrtitii^^oii 
+They are of wanton movements, Siddhas 
+and well-awakened by other Siddhas. Thus the 
+attendants of the eleven Rudras of great souls 
+are crores and crores. 
+TjfiT: TT? -q^TrRRt T%SR:I 
+Ml4dlfsw:ll3^1l 
+Along with them, the great-souled lord of 
+Devas i.e. Mahes'vara, the beloved lover of 
+Parvatl, rejoices there fully sympathetic with his 
+devotees. 
+dWi^viHyv-miPm Pm: 
+Between those Rudras and that great-souled 
+Bhava (i.e. Siva), 1 do not observe any 
+difference. I am telling this truth to all of you. 
+m.Hl cRSTT rfrT: 11 ^ 9^11 
+tlldil^ TTP2I %cfT^drlMHI 
+^11 
+Matarisvan (i.e. Vayu) spoke this sacred one 
+(the anecdote) heard from IsVara. Then those 
+sages, all of them having radiance like that of 
+the maker of the day (i.e. Sun), having heard 
+this excellent and sacred story of Tryambaka 
+(i.e. Siva), attained to exquisite gratitude and to
+
+## Page 390
+
+Chapter-101 
+361 
+utmost glee. They honoured Vayu, the greatly 
+forceful one, and spoke to him. 
+o 
+^nfktu RtfWFT 3TWTC& rT ^JT 
+I^TWTrnt WPTOT 
+cfw wr wot ^ 
+ift tor ^ tnrr T3TtnrtR:ii??^n 
+The Sages spoke- 0 Samlrana (Vayu)! O 
+Greatly-fortunate one! O Supreme one! the 
+excellent and sacred eighth abode Aupasargika 
+(prepositional one) of Isvara and its extent has 
+been illustrated precisely to us by you. It is 
+redolent with the excellent scent of the 
+Supreme-souled one. 
+tii^iri4 
+■^T R 11^ ^ 11 
+The greatness of Mahadeva is even 
+uncognizable by the gods. Due to the greatness 
+belonging to himself, the lord of unmeasured 
+splendour has thousand Gan as. 
+W ^Uplift IHebUnvftcf rll 
+Wt r#: wr m WSSUfdMVIirHMllI 
+stm it feM 
+There is a lack of infatuation among his 
+devotees that is effected by himself in order to 
+bless them. In the abode of the lord of Devas, 
+the grandeur that assumes a cosmic form shines 
+very well. It is unparalleled and is attended by 
+Brahml and Laksmi themselves. It shines like 
+the Moon that pervades the sky with the 
+moonlight. 
+■Rflc^T pMMT ^RTT jT WWI 
+dc1T4 cleWKyaftfcld'HJI3 3 o 11 
+Of Rudras, the great-souled ones, the 
+veritable peers to Mahadeva, all that by this 
+absolution, spring out from your mouth as such. 
+snrterr (?) istr ^T:i 
+wi i 3 3 n 11 
+Without having been quaffed, of what use 
+are our excellent vows? Nothing remains as 
+uncognizable to us. O excellent one among 
+Devas! O Prana (life-breath)! You deserve to 
+answer our question precisely. 
+it iscrara tor f% wr 
+C\ C\ ^ V 
+^ drficZi d^UJlpM pcTT:ll3 3?M 
+Suta spoke- That adorable one, however, 
+spoke out- “What more may I conduct for you? 
+What is to be dilated upon by me. That I shall 
+dilate upon, O nicely-vowed ones!” 
+3TTf^TT ^rrT§HT: i%r t dfolddRi:I 
+cRJRTT ^WTTT otnviT^grdiurHd:ll^^^ll 
+3t^ctw% tift n4yiur^TT 
+fonraw qcRstit yyivJcRii^'sii 
+T3rT ^ t ccTOT 3TtrKT: fPi*°iJiyJ|Ul: ITfl 
+% faP&wrrvn irmfr^T wn$ 
+The Sages spoke- In the existing dissolution 
+of hideous norm at the time of the annihilation 
+of all beings, what will be the state of the 
+Adityas who stand by as attendants (near the 
+lord), the lions who had been the outcome of the 
+lord’s furious outburst, the Vaisvanara groups 
+of Bhutas, the tigers and other followers about 
+whom you have mentioned earlier along with 
+the groups of lions and tigers. You may tell us 
+as per factual norm. And what will be state of 
+those others, that had their accomplishments 
+achieved? Then, Vayu (MatarisVa) talked of (in 
+the following manner). 
+wm dSJTI 13 3^11 
+cT5T TT^TrTR^r cPTTTT IP: ^TcfT: I 
+C\ O o v o 
+trz® sprfasj ^rrr.-ii^^v9ii
+
+## Page 391
+
+362 
+Vayu-Purana 
+cftpg chRiH^urqmrjyg nfrawti 
+■Rfr: % ^312^1^1:11^?ill 
+This is the exquisite fact, I shall narrate it 
+before you. Please hear. Those who have gone 
+there before, the sons of Brahma, viz. Sanaka, 
+Sananda and Sanatana, the third one, Vodhu (an 
+ancient sage whom water was offered at the 
+time of tarpana), Kapila, Asuri of great refute, 
+Sage Pancasikha and others have known the 
+existence of Isvara, the unmanifest source of 
+origin. 
+rTcT: eZjfaiSRt cfc<rMH'l ^ TlrTl 
+JTFTCT yr^fWlll^^ll 
+vr jjmr v&srfn 
+fl^dlPr ?TFra^T ^rRTTI 
+^dHPRcbURIIIl^ll 
+Then when time elapses and at the exchange 
+of aeons, when even the great Bhutas (elements) 
+are destroyed and the dissolution comes to the 
+fore, then many crores of Rudras (meditate on) 
+Mahesvara with delight, adhere to eight types of 
+truth, desist from enjoying melody and other 
+objects of happiness, enter all the living beings 
+with a radiance endowed with alertness or 
+knowledge, desert the status of acquiescent or 
+of the aerial route, take leave of the status of 
+undisturbed situation of the beings out of 
+compassion or out of compassion for the beings. 
+*nn<*rrc: n"<Hiuj 
+The great-souled ones attain to Mahesvara 
+of the subtle nature of Paramanu (atom) there. 
+They ferry across the river of births and deaths 
+of great eddies and whirlpools of terrific nature. 
+pcrtui (?) m si<fiiuii)ci 
+^oEfT t iFri%rU: W ^TT ^oq-; i|R<*lRdl:ll3*3 
+Then they create (see) the omniscient 
+Brahman of the supreme norm. They are 
+accompanied by those seven Devls (goddesses) 
+who have been illustrated (before). 
+4OTT^^ci|ci||yi^c|M4|ir^-:l:ll?^'«ll 
+3TT^IT33Prft dKldki^l^lT^cliWOTl 
+And that which is the thousand of lions as 
+also of Adityas, Vais'vanara group of Bhutas, 
+the tigers and his followers (Rudraganas)- 
+having incorporated all these within self and 
+having counted the Upadravas, he (lord 
+Sankara), draws these seven lokas in entirety 
+and the five Mahabhutas. 
+feuiHI Tff -SfrE: gjf# *Tl 
+Mr ^r: iwrafe ^ wfeii^^ m 
+Associated by Vi§nu, he creates and 
+recreates (the worlds). That Rudra is of the 
+nature of Sama(veda) and likewise of 
+Yajur(veda). 
+TT inf 3TRT: 
+ijc&r % ^FraT^rrat iri%i: 11? *vs 11 
+He is warped and woofed both within and 
+without, decisively. He is the sole single lord 
+and leader, the one having no beginning or end, 
+O Brahmanas! 
+cicTCT 3PFT: RdlchfWJmT: 1 
+^ WTOTWWfhsnfrr rT2rr33rqft|l3'tf<£|| 
+c*tfuTT TRPT giw fg^RRTnrtRTI 
+3PRPH# 3PT£Rt Tfi&TPT11 $ * ^ 11 
+Then all those sages, having radiance like 
+that of the Sun, consecrated the sacred fire in 
+their own hermitage. They thereafter devoted 
+themselves to the worship of Mahes'vara by 
+action, mind and speech with a self of pure 
+intention and having assumed a form of mind of 
+none else’ norm. 
+PRTTT: ^^dq4!tRT:l 
+TTTCT 
+Engaged in vow, abstinence from food, 
+endowed with compassion for all beings, the 
+Yoga of divine unparalleled norm was acquired 
+by them having scepticism obviated.
+
+## Page 392
+
+Chapter-102 
+363 
+jput mimi wii ^toti 
+'^IHleR* ?TTW q^|c4|iWJI3^|| 
+Having adhered to with utmost devotion and 
+radiance endowed with knowledge, by them 
+was obtained Rudra Salokya perennial status, 
+indestructible as such. 
+fim: ^Tsfcr ci^Tt wfswiM<:ii 
+«rf%rcnf^TrT3gT:l 
+smsrosr *r. 
+^llUiqrii Tf WR cfT ^TT^iwril^H^II 
+He who study this eulogium talked of by 
+Vayu, equipped with penance, whether a 
+Brahmana or a Ksatriya or a Vaisya, engaged in 
+his own duties, obtains Rudra Salokya. He will 
+be a devoted one, having maladies gone. An 
+undrunkard Sudra, who verily, becomes a 
+devotee of Siva, having senses controlled, stays 
+quietly during the existing dissolution, having 
+pre-requisites unimpaired. He attains to the 
+status of Ganapati (leadership of Ganas) or even 
+a spot of all cherished ends. 
+Wit wh W$ WK&S TTT^I 
+Rc^TT I 
+flcrra crc:ii3kmi 
+A drunkard (Sudra) enjoys along with the 
+groups of beings who are drunkards. That one 
+being adored on the surface of the Earth, will be 
+a bestower of boons unto the mortals. This way, 
+the adorable Vayu spoke the dilation. 
+?o^|| 
+* * *
+
+## Page 393
+
+Chapter-102 
+363 
+U3M ^&<^lddMVlW:ll 
+Chapter 102 
+The description of Dissolution1 
+tRTIfR 
+W^T: Ryfdchlrl 3 STtit rffjLM-RTdl WTlI^II 
+Suta spoke- I shall now talk of Pratyahara 
+(dissolution of the world) at the end of Para 
+(one full day and night) of Svayambhuva, when 
+the age of Brahma comes to a close, 0 master! 
+gpSrrssznrtT fsydtfw: i 
+aJ^TfRBract oEtrR rT ^T?T:IRII 
+During the process of dissolution, the lord 
+swallows the unmanifest ones entirely and 
+clearly in exactly the same manner as he does 
+the subtle ones. 
+ft cb?UMmd<S 
+3hfWf?T TTfraft fFJR# f II 
+3RT ftPRT ili TRfWI 
+31% =F#ran rT%(^hJt wr 33^11*11 
+This activity of re-absorption of creations 
+begins even as the Kalpas have not fully 
+expired. This highly terrific period arrives at the 
+closing period of the tenure of the office of the 
+Manu called Druma towards the end of 
+Kaliyuga then. The entire creation merges and it 
+is called dissolution. 
+Wmk rfdT 
+HcSflgft rf?T m 11 
+When inundation (Sampraksala = 
+Sarhpraksalana) comes into being and 
+dissolution period arrives, there is a 
+consumption of all elements gross and subtle. 
+MSdl^chU-W faylUR’Pd TET^n 
+ulrWrftnsii 
+1. V.S. Apte, p. 360, Pratisargah.
+
+## Page 394
+
+364 
+Vayu-Purana 
+All evolutes beginning with Mahat and 
+ending with Vise§a become annihilated. This 
+culmination and Pratisamcara (re-absorption of 
+the world back into Prakrti) happen quite 
+naturally. 
+=1 fcf 
+STlrPTSIT rldl ffM: cfcHJrlll 
+Trfg& TRfrRTTW did refill dTT ^Tll\9ll 
+The waters absorbs the primary or primeval 
+merit or quality of perfume of the (element) 
+earth. Then earth devoid of smell aspires for 
+dissolution. When thus the quality of smell of 
+the earth is dissolved, the earth assumes a 
+water-logged form. 
+3TTOW 3TCET t H?5TWTI:I 
+The water then evaporates away, endowed 
+with speed and terrific explosion. And having 
+inundated the entire universe, it flows along 
+awaiting destruction. 
+srrcqftd TRJTt W ^ulfdd HlUc! TW 1 
+>3 O 
+Of waters, the prime quality (taste) gets 
+coalesced in fiery element and that water gets 
+evaporated owing to the dissolution of fluid of 
+that much quantity. 
+eftmr TTfflTtfr ^iifdqcj jrpgcRpi 
+rT gfovt ^3T: 
+Having liquids evaporated by fire or heat, 
+they attain to the framework of luminaries. On 
+water having been consumed, light becomes 
+observable all around. 
+T) 05JTPT 3TTcf^ fl^TI 
+The fire element circumambiating all 
+around, saturates that water and the universe in 
+entirety becomes illumined by lights or rays. 
+Wlit 
+WJ\ WT ITcfTlTIdjMli 
+-O "S 
+TTcfol?! cT3J tTT^II^ II 
+When luminaries spread all over, horizontal, 
+upwards and downwards, Vayu (the wind 
+element) swallows up Rupa (colour or form), 
+the luminous quality of the fire element. The 
+entire fire elements get coalesced in the cosmic 
+air, like the light of lamp in the great wind. 
+When the subtle and primary quality is 
+dissolved, the element of fire becomes bereft of 
+form and colour. Tejas then subsides which gets 
+squandered by Vayu (breeze). 
+rftjl xX c^i(Vl 
+' s3 Cs 
+drflRT WTTWT WraWR:ll^ll 
+v3 Cs s3 
+When the entire world goes lightless, the 
+element of Tejas having merged in Vayu, then 
+the element of wind resorts to its source of 
+origin. 
+gm fNta=air glggtfg W g?n 
+gigtrft wn uwt g crtii^ii 
+Overhead, below and horizontally, it quakes 
+repeatedly the ten quarters. Then Akasa (ether) 
+consumes the quality of Vayu, viz. Sparsa 
+(touch). 
+rR[T gif: f fdggRlfrnTI 
+The squall gets subside and the sky gets on 
+stationary as uncovered one i.e. open as such, 
+formless, touchless or impactless, scentless but 
+not incorporeal form. 
+rr^fwnw 
+Reverberating all by noises, the mighty one 
+that shines forth, the circular hole, the sky is 
+such as having its per-requisites as sound. 
+TT8Tram?t ftsfoi 
+it g ¥i®afui gw ggif^wl fTrii^u
+
+## Page 395
+
+Chapter-102 
+365 
+The sound-normed sky (Akasa) stays having 
+enveloped or shrouded all. Then Bhutadi (the 
+Cosmic Ego) absorbs the quality of sound 
+belonging to it. 
+3TftwMic*i«f Tpr:n^n 
+Then the Bhutas and the sense-organs get 
+merged simultaneously in Bhutadi. Bhutadi is 
+of the form of Cosmic Ego. It is said to be of 
+the quality of Tamas. 
+ft# it# srrfa ttf# 
+M^RIrMI f f#*T: #5# cSTcTTTragjtlR o || 
+The principle Mahat characterised by the 
+Cosmic intellect engulps even the mighty one 
+(Bhutadi). The Mahat principle deserves to be 
+recognised as of the form of Samkalpa 
+(conception) and Adhyavasaya (determination). 
+fapr tjct wi 
+q#T<3r#: V1^'WiTI|Wfc|fyviehT:ll?^11 
+Philosophers who illustrate over factual 
+representations call it by Intellect, Mind, Lihga 
+(the Symbol), Mahat (Great) and Aksara (the 
+Imperishable). 
+yurwiui r##l 
+^TrtT# ft# # e&T# rileh<*l#ll^?ll 
+When the Bhutas or beings becomes 
+coalesced, the equality of merits endowed with 
+Tamoguna and the cause being the instrument 
+of the Lokas, have a stay within self. 
+ft## rRTT W\ SR^Sclftsi# ^1 
+ai-TMo-n-T rd,cny m mfa i 
+SIHIdMlidc*)W*J IT# ^T ftr#IR'tfll 
+The creation becomes re-absorbed in nature; 
+neither the beginning nor the end of anything is 
+perceived; nothing is visioned. Owing to non- 
+descriptiveness, non-intelligibleness, ignorance 
+of even the learned ones, owing to existent and 
+non-existentness, the acquisition then becomes 
+not tenable. 
+ft# cFTRTTt dft## ^RTTT^##IRMI 
+Owing to the estimation of the feasibility of 
+acquisition of emotions having thought over, 
+this is being spoken. And this cause having 
+stayed as such, perennial one, endowed with 
+existent and non-existent, the uninstructed 
+tendency, the self-realising one by a cause, this 
+way the dissolution of seven Prakrtis occur to 
+be sure. 
+JlciTIlft rT^T # TTTWm 
+#^tT# #t#ll^ll 
+Then in dissolution as well as in creation, 
+they enter within themselves, whereby all this 
+enveloped as such, the Cosmic Egg gets 
+coalesced in waters. 
+wsiwgsRt Trcr^rmi 
+^ScT #fdMi ## J rtfTII?dll 
+The seven continents endowed with seven 
+oceans, the seven worlds along with seven 
+mountains are enveloped by the covering of 
+water. This water covering becomes dissolved 
+in Jyotis (fire element). 
+ms5cr<uimdirvi tt# § tkti 
+msrcr<uwi<*i¥i ^r# f mii^ii 
+The coverage that is luminous one, is 
+engulped by the wind element. And the 
+coverage of wind element is engulped by the 
+sky element. 
+3)i<*,|<>||cRXJT *T^ET Wlf## J HcTI 
+it# WTftr tti# #g?r^tiT:ii^oii 
+The element of Cosmic Ego engulps the sky 
+element. Mahat, the great per-requisite of 
+intellect absorbs Bhutadi (Cosmic Ego). 
+TTfRT 1T#SH# Tprarcj tW: WTI
+
+## Page 396
+
+366 
+Vayu-Purana 
+The Unmanifest absorbs the principle of 
+Mahat. Thereafter the Gunas attain equilibrium. 
+This annihilation and extension of creation is 
+pursued through the unmanifest Prakrti 
+stationed in Brahman. 
+WfTT^l4c6'fUlf: TTftngT SnfoTCiJ tll^ll 
+It creates and engulps the deformities at the 
+restraint of the creation. The Siddhas of well- 
+accomplished intellects have all instruments in 
+the activity of annihilation. 
+W SdWiqj 
+vwngft fan*, ^nrfr; 3^:113311 
+Having attained to velocity in the activity of 
+becoming faster in these spots, owing to 
+restraint, in dissolution do become disjoined the 
+K§etrajnas by senses again. 
+w,4Prt5^^i'w4l:ii^'!iii 
+They enunciate the Unmanifest by the term 
+K$etra and Brahman is known as K$etrajna. 
+Their union is having no beginning but is 
+caused by similarity and dissimilarity of 
+characteristics. 
+Tjrcj fsprd wrgroT:! 
+fgfnr: 
+This way, in relation to all these creations, 
+K§etrajnas deserves to be recognised, O 
+Brahmanas. Owing to knowledge of K$etras 
+quite distinct as such, a knower of Brahman 
+should be known. 
+fErtrcnfoarcra: v TJjrnii 
+$n»rr§ fmmgrag^n^ii 
+The jurisdiction and non-jurisdiction of 
+Ksetra and Ksetrajna is well-known as such. 
+Brahma deserves to be known as jurisdiction 
+and the non-jurisdiction is called Ksetra. 
+JsNnfiifeT are Traarn 
+viflqort yrfffi ggsu Tgw:ii^v9ii 
+The K§etra is occupied by K§etrajna and so 
+is said to be for his sake. Owing to the 
+amplitude of bodies, the embodied soul is 
+known as manifold. 
+sqlfa&SET ajgfePT:i 
+Unarrayed and unintermixed, these souls 
+stays as luminaries. On account of which, in 
+everybody, there is the attainment of weal and 
+woe. Therefore, the multiplicity of men, 
+deserves to be known by the experts. 
+#=T WTT:l 
+When the withdrawal of those different 
+beings sets in, that is brought about naturally 
+after the lapse of a great deal of time. 
+farf?rcPT: wi^:i 
+At that time the passion for sustenance of 
+the worlds of the Svayambhuva (Brahma) 
+recedes, along with all the denizens of 
+Brahmaloka. 
+fefTfrl rf^T TFT 
+rldfclH3lfV-)i fot rlfr^fTFTII^^11 
+Then the attachment gets resurrected in the 
+personal state of the denizens of those residing 
+at that time and they begin to see defects therein 
+of their contemporaries. 
+y-nTuuiruardyuirFFii 
+'MM^'cciqr-ntg rrat 
+Then gets into being a destroyer of self¬ 
+exposition in case of myriad-normed existence 
+of the consumer and the consumed one in those, 
+making manifest that idea or emotion. 
+^OTPTtrfT: Tpf 3 II 
+By their distinct knowledge, they have been 
+(termed) Ksetrajiias. Then the residents of
+
+## Page 397
+
+Chapter-102 
+367 
+Brahmaloka (see the multiplicity of individuals 
+but) they are beyond the cause of Prakrti. 
+Ru^-n: iHi •■ctfRp&rTq-nRiym^^ii 
+Therein verily, the dwell in the Atman alone. 
+They are quiescent and endowed with vision. 
+They are pure, free from blemish and in 
+conscious or unconscious stage. 
+^ llRftcriuil: 3l 
+(HjJuiWlRnilrMM: H$cA|*i 6i|fa*Hl^irsmi 
+It is proclaimed that they attain complete 
+absolution there itself and they do not return to 
+world since they are devoid of Gunas and the 
+sense of identity with the body. 
+3TP|kT: TEsrtrorar:i 
+far?* ch<unR) swrii^ii 
+^rer wi# 3r=nqt 3ruT: 
+rrenreftmt in -^rtt frafaft fgarmi^vsn 
+This way has been dilated upon the natural 
+recreation of Svayambhuva. In this final 
+curbing and restraint, the senses of all the 
+beings differ. This way this restraint along with 
+the instrument of all facts, the restraint of 
+factual representations, is known as Avartaka 
+(excitement of mind from the influence of 
+senses), O Brahmanas! 
+TRT 33TTcT 
+C\ 
+?tr cMi 
+pfrm3r fg§:ilr fanftihrtf6ii 
+xT rT^T ?#RT II 
+ira^rr 3=r cTc*t3 w trrd yfanfai 
+Suta spoke- Dharma and Adharma, 
+austerity, perfect knowledge or learning, the 
+auspicious, truth, falsehood, the upward flight 
+and downward descent, weal and woe, favour 
+and disfavour or agreability or non-agreability 
+or agreement and disagreement- all these are 
+mere attributes of one who has attained 
+salvation. Whatever is good and bad, auspicious 
+and inauspicious is considered as the nature of 
+Gunas of the wise who are devoid of attachment 
+to sense organs- all merits and demerits that are 
+deposited in the nature of embodied beings are 
+stabilised in Prakrti which is the source of 
+origin. 
+3RRT MN^u4 <T ^fdfydUJ 
+3^ lP ^THrorq-ift 3RT=T:ll 
+The merits and demerits of living beings 
+become patent established in Prakrti. They are 
+declared to lie unmanifested. The same merits 
+and demerits of the beings make unite this body 
+in case of variation of body. 
+Srqfepft rT Pit 
+ejRrft: ^3: «hi-u^ 3RTfa:ii^u 
+Dharma and Adharma (virtue and sin) of 
+beings are recumbent on the instinct of simple 
+merits. They become accumulated in the form 
+of the body along with the senses (Karana) of 
+beings. 
+WcfrRT: TTeffaRt 
+s3 
+tTHTT:I 
+■o 
+Jliwf =T W* 3=1 
+^rrdft: rnm^n 
+■o o 
+The merits involving those libertines well¬ 
+conscious as such go coalesced and during 
+creation and recreation in the world, the beings 
+get united as well as disunited with senses and 
+move on. 
+TTsrcrt tfurtfr 3=r 3=r i 
+wra: wrifsifgcnfwiik'sii 
+The Vrttis (proclivities) are threefold- 
+Rdjasi, Tamasl and Sattvik. These tendencies 
+having simple merits do prevail on being 
+activised by Purusa. 
+c^cUrHcb TDT: I
+
+## Page 398
+
+368 
+Vayu-Purana 
+Sattva of the divine nature is conducive to 
+attain the upper region (heaven) and Tamas is of 
+the nature of lower region (hell). The prevailer 
+of the two, in the centre is Rajas which revolves 
+about repeatedly in this world. 
+^idmurFTcKi: i 
+UcS^dHi ^Mdlim^ll 
+^(d^lMr£|4TTWr STH^RT f| tTR^rl 
+T37TTCT dd-yRd'+d: T^TT: ’PJ?TT:imV9 
+This way, within all the beings, these three 
+types of emotional attributes are the original 
+causes of the nature of Gunas in all the worlds 
+of the beings. That is not to be taken up by the 
+one well-conversant as such. The undertakings 
+ensuring ignorance are commenced or 
+undertaken by men. These three activities, 
+auspicious as such, are known as having soul 
+for sin. 
+3JdTcl4yfalrHte8T fqfeq cfSOTT rTrf.'im <£. II 
+Owing to envelopment by Tamas (gloom), a 
+being fails to understand the factual facts. 
+Owing to the observation of unreal norms, a 
+massacre (bondage) is created in three ways. 
+rT 5RCR ^JT t^rfwrf xfl 
+(i) Prakrta Bandha (a natural bondage), (ii) 
+Vaikarika Bandha (bondage of its evolutes) and 
+(iii) Daksina Bandha (a technical term in the 
+Sdmkhya System for the third bondage)- with 
+these three types of bondages, a creature turns 
+round and round here (in world). 
+^ sRT: TTtrGT WR^T: I 
+3lfqR% ^ ^ o li 
+zm wfafa ST jjiHUgift ^|qfw:l 
+WR Mdiiitii Rm4iiidii^ ^1 
+This way has been illustrated the three types 
+of bondages of the very instrument of 
+ignorance. The following are the common 
+defects (due to them)- Seeing permanence in 
+what is transcient; observation of happiness in 
+what actually is the cause of grief; recognition 
+of personalness in what does not belong to one; 
+and the appearance of purity in what is impure. 
+Those who have these mental defects have the 
+defects of knowledge through misapprehension. 
+^3*TR -Hy^igdHi 
+3i?1M rPTOt TTFT T5T: II 
+The absolvement to passion and detachment 
+or antipathy stands illustrated as knowledge. 
+Ignorance is the root of engloomment and the 
+fruit of action twain is Rajas or obscurities. The 
+body then is the offspring of actions and thus 
+there ensues mighty grief. 
+^rsrr ricr 
+ipfocfiTl' cfnfari *rTOct <T 'STll^ll 
+The sins born of ears or hearing, born of 
+eyes or vision, as also (sprung) out of skin, 
+tongue and nose are the causes of the rebirth 
+and misery. 
+«nH: qnfuT: te^:I 
+A man with a craving is said to be a Bala (an 
+ignorant person). As a result of his actions, the 
+individual soul goes round and round there only 
+like the bull yoked to the oil-pressing machine. 
+Therefore, it is being sermonised that gross 
+ignorance is the cause of all grief. To that, one 
+having considered as the sole enemy, may 
+persevere for knowledge. 
+By understanding alone, all is given up and 
+by abnegation of all, the intellect becomes 
+detached. By renunciation, one gets sanctified 
+and the vindicated one gets rid of spirit.
+
+## Page 399
+
+Chapter-102 
+369 
+3??r ^ra^nftr trt ^diT^iftumi 
+3Tfaq|W ^ ^:ll^'3ll 
+After this, I shall talk of Raga (passion) that 
+overwhelms living beings. By means of this 
+attachment, all living beings become indulgent 
+in worldly pleasures in spite of themselves. 
+FTO2J ^'<ayWUI rTOTII^dll 
+The uncherished attachment is the very woe 
+inspiring by the torment of love. By the 
+acquisition of grief, there ensues torment and 
+the reminiscence of comfort. 
+TFT: TFJcnT cfnTOT T*RPTI 
+TSncfTT% % TTFR irrfsFfrffT^II 
+TTFTT^TR jT ^ II 
+This way, it is the attachment to worldly 
+pleasures that is declared as the cause of births. 
+In all the physical worlds beginning with 
+Brahma and culminating with the immobile 
+beings, this attachment alone is the cause of 
+birth and that is the result of ignorance. 
+Therefore, one should evade the glory caused 
+by ignorance. 
+TJFh TTT5lf 1 JFT7TJT f?I2TW{ rf&cf tj| 
+cnnfeFTi%Tteft u: 
+TJF FFff % farfirf?FfaM TT ctiFUFTI 
+^ 3TRUT TT ftWT%ll\9^ll 
+If one does not accept the words of sages as 
+evidence or authority; if one has no regard for 
+good manners as practised by virtuous and 
+respectable men; if one is antipathetic towards 
+orders of society and stages of life; and if one is 
+opposed or hostile to the activity of decorous 
+behaviour- this way of action is senseless and a 
+cause of vertebrates breed. And gone within the 
+breed of vertebrates, the instrument is being 
+etymologised. 
+fgfgsn -snrHT wft xj 
+UTTOt f#CT TTfenrFF TJ%:ll^TH 
+o 
+And remaining in the vertebrates breed of 
+six varieties, there are various kinds of 
+torments. In the matter of cause and objective, 
+there is hurdle all around. 
+sftgRf f FrFcf itfdUldlfMeb T^rFTI 
+FFTTTt ^f^cTT^Tt I |V9 ^ 11 
+And all that lordless is deemed as hurdle- 
+normed. This way, this is the gloomy tendency 
+(Tamasa proclivities) of beings and the like of 
+four types. 
+TF^FTT^R f%Jrt WT TTr^^dldl 
+diclHi rf dSJT dtc) ^ TTt^c!^TTTTII'3'^|| 
+The heart has sole prop for spirit (Sattva) if 
+the Sattvic traits are evinced. Tattvas can be 
+comprehended only after viewing them in 
+accordance with reality. 
+?TWT4^4l3^ll'3mi 
+And the plurality of Sattva Guna and 
+Ksetrajnas constitutes the observation of the 
+factual object (perfect knowledge). It is said that 
+Yoga originates from perfect knowledge, 
+tti 
+<T FtST f^T FES^II^II 
+Of one bound by that one, there is bondage 
+and a release is there when immune from that. 
+When the worldly existence recedes, the 
+emancipated one gets immunity even from the 
+sex assignment. 
+ir^RT: w<^3Tcrfdgdl 
+Void of kingship, the insensate one, abides 
+in his own self and abiding in personal self, he 
+is marked by diversity and multiplicity. 
+TT rnft 3Ttr#r t TF^f^T:ll\a<SII 
+This way, this per-requisite has been 
+illustrated in brief of knowledge and Moksa
+
+## Page 400
+
+370 
+Vayu-Purana 
+(liberation). And the Moksa even is known as 
+three-moded by the realisers of reality. 
+TJcf f^rfrrf TFTR^nRT I 
+The first one is the abnegation is by 
+knowledge and the second one owing to the 
+defonction of passion whereby the liberated 
+soul attains Kaivalya] and owing to Kaivalya, 
+Niranjana2 (freedom from falsehood). 
+rRTT ^RTT 
+^icRTTtJmn^oii 
+Owing to freedom from falsehood, one 
+becomes Suddha (sanctified). In this state of 
+liberation there is no guide or leader. Owing to 
+the destruction of lust, the third cause of Moksa 
+has been illustrated. 
+wfni supifa ^TTwnii 
+wi 
+The Nimitta (liberated soul) do not 
+experience misery caused by the obstacle to the 
+worldly objects of desired melody etc. These 
+eight are the forms, caused by Prakrti in serial 
+order, that adhere to the Ksetrajnas. They are 
+called Gunas and Matras. After this, I shall talk 
+Vairagya (detachment), arising from the sight of 
+faults. 
+^ nm ^cr Rm w^nni 
+^TSTT dlMd^Hrdlld^ll 
+One should practice non-hatred and absence 
+of attachment to the five pre-requisites (objects 
+of sensual enjoyment) of both divine and human 
+nature, after seeing the flaws therein. 
+IrRPP RpW) 'Shrill 6 *11 
+1. V.S. Apte, p. 164. Beatitude or perfect isolation or 
+exclusiveness. 
+2. V.S. Apte, p. 290. 
+A devastation deserves to be done of 
+torment, love and grief. This way having 
+resorted to Vairagya, the embodied one may 
+become free from egoism. 
+fsr^g ^rWcitt ■im,^(?)n<imi 
+He should realise in his mind that (the 
+worldly existence) is ephemeral, inauspicious 
+and conducive to grief. Then with Sattvic traits, 
+he should perform pure activities. 
+dW: TTOTUIcjn^ % 
+3£RT jrarfttn: %crwspftfcr:l 
+■?r TRt^rtnfs^r cfiid'sii 
+Maturely astringent as such, he observes all 
+the causative flaws and then at the time of 
+departure (death), the heat in the body becomes 
+virulent due to conditioning causes e.g. Dosas. 
+JTTtrrotRTft #R(f% 
+VF4IBI4.rqdl d dd: 11 £ £ 11 
+O O 
+Due to chilliness, the virulently excited 
+Vayu pierces the centres of vital airs, cuts off 
+vulnerable parts of the body and rises up. 
+Tt ^cbldHT yWWMMdfWd:l 
+O. 
+?TFT ^ dP^TII^II 
+It is the breath stationed in the abodes of 
+vital airs of all living beings. By contraction, the 
+knowledge goes obscured and the actions are 
+enshrouded. 
+■*T ^Sd'cqfijgR: dntfrr: jn^:i 
+3tEifyiui^T?l<3 irfeyicu^ ddtu^oii 
+The individual soul being bereaved of the 
+supporting body, is induced by its own actions 
+committed before. It then dislodges the Pranas 
+from the eight limbs. 
+fR (ipt) ttt ^ ^rarri 
+dci Ttrohi: qR^ ^ 
+The body getting released, that one may
+
+## Page 401
+
+Chapter-102 
+371 
+become then breathless. This way deserted by 
+breath, a dead one becomes known, 
+oTEj; Wirt 4)*WHfarlWd:l 
+T33R rT# ^ ^TT ^rTT R feUcfl I % ? 11 
+The way in this world, when someone holds 
+the glow-worm in his hand and goes about here 
+and there, he too is visible in light. He who kills 
+it, though a carrier ceases to be a carrier. 
+oznwrt 
+^Te^rir fMt fkfcnk 
+By the alleviation of greed, being the third 
+one, the definition of Moksa becomes 
+illustrated. It is the observation of defects in five 
+distinctive objects of sensual pleasure such as 
+sound and others. 
+cUt^cfeRUi ^TrBnfrfcri WF& ^11^ II 
+Immunity from animosity, 11011-attachment, 
+the devastation from love and torment- these 
+are the causes of Vairdgya and of the coalescent 
+of Prakrtis. 
+'R^TRTt ^ 
+SToERHIUT^ f^TT 'ffcTRTT: Se§cRfaT:II^MI 
+Eight Prakrtis, spoken off earlier, deserve to 
+be known as per serial order, beginning with 
+Avyakta (imperceptible) and ending with Bhutas 
+(Elements). These are called the dissolution of 
+the Prakrtis. 
+guformoTi skruptu^h 
+Those who are endowed with the etiquettes 
+of stages of life and orders of society and those 
+civilized beings who are the non-antagonisers of 
+the scriptures are called Sistas. The law of 
+orders of society and stages of life is the 
+instrument in the attainment of Devasthanas 
+(i.e. heaven). 
+ygnffifi wrtPt ^=rr[T:i 
+t^fafoTOTsr % gjnTit 
+Starting with Brahma and ending with 
+Pisacas, the eight-spotted are the gods. The 
+Siddhis conducive to Aisvarya (supremacy), 
+Anima (minuteness) etc. are the causes eight in 
+number. 
+fafarTMiratartl ft ¥Kin<rU*ntl 
+srskmft wnfcrr moprfq 
+Those who stay in those abodes do not 
+experience the grief due to the obstacle to the 
+achievement of such desired objects as sweet 
+melody etc. These are the eight Prakrta forms as 
+per serial order. 
+yum'NIWchlfo $TI 
+q rlfflTimil 
+They come into contact with the Ksetrajnas. 
+They are of the nature of the (three) Gunas and 
+(five) Tanmatras. At the time of rainy season, 
+owing to dereliction, they fail to see clouds with 
+their eyes. 
+fegr fz&R ;at^Ti 
+The Siddhas, however observe the Jlva 
+(individual soul) of such a state by a divine 
+vision. The Jlva assumes all kinds of bodies 
+such as those of dogs etc. 
+sucRtsfa -qsrnsimi 
+■faf gjRtit w 11 ^ o \ 11 
+sq^TToSI# Tmnn\5-4 t wi <T efcrFTVI:ll^o9 
+Thus, he moves horizontally, upwards and 
+downwards, running along as per serial order. 
+He is called by these various synonymic 
+names- Jlva (individual soul), Prana (vital air), 
+Linga (the symbol) and Karana (cause). He is 
+the proof in both specific and inspecific 
+(worlds) having form of the same norm 
+absolutely. 
+ijcj ^ikntai ?tht| teMjf^ii^n
+
+## Page 402
+
+372 
+Vayu-Purana 
+After realising categories ending with 
+Avyakta and what is presided over by the 
+Ksetrajha, he assumes purity and gets immunity 
+owing to knowledge. 
+qg ^cT TMT cfiSTCT 
+g&g qftfWrfff '§fof%'ll?o*|| 
+This way the principle that was demolished, 
+ensues out on the observance of the reality of 
+the factual points. The cherished end, by 
+suitability, gets thoroughly driven out on the 
+body gone as defunct emancipated pertinently. 
+fogft cjRTii grfq aToror^fqnwyjii 
+The senses of the one, having knowledge 
+imperceptible, become dazed. He is 
+emancipated by the body of merits, by the Prana 
+and the like all around. 
+*ftta: ffdfrerRj^TTdrqhr: 11 <= 11 
+It does not assume another body. Just as 
+sprout never comes out when seed is burnt, in 
+the same manner, the Jivika (the living being) 
+comes out from the entire universe, having the 
+mind of the semen framework. 
+Due to Jnana (knowledge), he becomes 
+enlightened and purified of the four conditions. 
+To the Prakrti, they call as truth and the Vikdra 
+(deformity) is called the untruth. 
+The suave norm of that one is called 
+immoral odour and the suavity is called truth. 
+Satya (Brahman) is without name and form. On 
+that account, Ksetrajha is called as such 
+possessing name and form. 
+Owing to the recognition of Ksetra (the 
+body), he is called Ksetrajha. Ksetrajha is 
+known as auspicious because of the perception 
+of Ksetra. 
+^g gtar wii^°n 
+Ksetrajha becomes remembered (thus) 
+whereby is recognised by the experts of that. 
+Ksetra is seen to be without intelligence but 
+Ksetrajha is the cognisant one invariably. 
+^uu<cfi<oiiT^ci ri 
+Owing to its getting demolished and 
+activating, on account of safeguarding against 
+injury (lit. wound), on account of enjoybility 
+and objectivity, those knowing the Ksetra 
+recognise it so. 
+fcichKd^trt Ril^ll 
+All categories starting with Mahat and 
+ending with Visesa assume deformity and they 
+are characterised by Vikdra (change). Hence, 
+they are endowed with non-evanescence and 
+evanescence. 
+ta if tat rT gRg| fT:l 
+rTWl^f 
+From that very Vikdra whereby it becomes 
+evanescent and on that account, the evanescent 
+becomes known. 
+O *S 
+From the hells of the world that rescues the 
+man and owing to rescue from the grief, the 
+Ksetra is so called. 
+30drc)lfc£ star: RjcTrlimn 
+Owing to the idea of weal, woe and 
+infatuation the Bhojya or enjoyable one is so 
+called and owing to insensate norm, the object 
+is called Dharmavibhu.
+
+## Page 403
+
+Chapter-102 
+373 
+qr gfar) ^ fgaRronp tt h^ti 
+Tfr xll^xhM^UIrctW^ci ^ll^ll 
+It is called Aksara because it neither gets 
+diminished nor gets percolated. Evolutes spread 
+from it. It is not diminished. 
+Since it lies in Pur, on that account, it is 
+called Purusa. Since it is Purapratyayika (i.e. 
+the knower of the Body), it is called Puru$a. 
+tpr cfsi d^r^i^i 
+By the experts that Purusa is understood the 
+pure one, Nirahjana, glamoured one (free from 
+falsehood) and void of knowledge and 
+ignorance. 
+3Tfer qiwlfa ^5^ cfT cJTgf TTrKt TRT: f^rT: I 
+He is other than what can be called existent, 
+non-existent, bound, liberated, mobile, stable. 
+As he is devoid of any cause, he cannot be 
+specified. 
+%^n?T TT ^Tt t fjyrrl|r*lMdVW:l 
+SilcHHr^chR) TFfTTqR (?) %^nT 11 
+'WTdarfilMHM'Rj f%RRT?r PTpitll^oll 
+Owing to purity, he cannot be indicated 
+specifically and owing to his blissfulness, he is 
+of equal vision. And owing to personal 
+etymologisation, he becomes absolute in 
+reasoning. It can be imagined or inferred. Those 
+who perceive thus are not deluded. 
+T3gT ?TRn9f g^RlrUcCTJ 
+rT^T ^11?? ^11 
+When one sees the knower, the one having 
+self observer of the tranquillising objects fit to 
+be directed in visible and invisible norms, then 
+the exemplification of that becomes cogent. 
+Tic) fa?iidi: M: ^nf^t ftwfri 
+^ grnrJt ^ cug*Ji<l sftfrrai TTgriivq ? 11 
+This way having known that great Being, the 
+perfect knower attains restraint in quietude, in 
+the action and its cause and in the material 
+world’s knowledge and the like. 
+’HMyrhl fcl^rhl <TT ^Tcldl TJcRST 
+IdjiTdi q ^sr ^?r ^jeF^g qr%r:ii^^ii 
+Conjoined or disjoined of the living one or 
+the dead one, the realiser may not come to 
+vision in distinctness here all around. 
+dTTTrTTW chKOIkMI fqTT^fal 
+gjRUr ■JRHIr^^llfdyfdTI^^II 
+The causal soul controls that individual soul 
+by means of his own self. He abides in the 
+Prakrti, in its cause and his own self. 
+srftcT diwifa ctt <?t ifT:i 
+TT^T? <5T TJgJcRg- =fT ?) ^Tll^mi 
+He exists or does not exist. He is he or 
+different one. He is here or hereafter. He is 
+unified one or the distinguished one, He is 
+Ksetrajha or Purusa. 
+bdcMctMT fa-fir^ cTT cfT! 
+gjrrf TTOTZradt 'STtW cfT 'dl^TT'd cfTII 
+He is equipped with self or having no self. 
+He is sensate or insensate. He is even the doer, 
+or even undoer. He is the enjoyer one or fit to 
+be enjoyed. 
+3T^TE2t dddlTsMHKHI^I^I^dfdll^gll 
+Having realised Ksetrajha which do not get 
+back, there is no further return to world. It is 
+called the unspeakable because it cannot be 
+described as such and on account of non- 
+engulpment in the uncausable norm. 
+qrrfqf^n^r WTW TTTOT wn^n 
+It is non-thinkable owing to non-anxious- 
+normed movements and owing to non¬ 
+availability all around. After attaining that 
+principle along with the mind, he (the soul) 
+does not become attached.
+
+## Page 404
+
+374 
+Vayu-Purana 
+Rnfw ^ sfoft frc^i 
+oytid^isr^:# v wRcnrrniRi^ii 
+^Rlf^ mwr^IxiJMI-c^t ^ foUrTl 
+v» 
+TJcfr -H^K^WkI oMThMrhl cTcT: fTtll^ll 
+When the Ksetrajna is Nirguna (free from 
+Gunas), when it is pure, quiescent, unsullied, 
+exhausted, immune from weal and woe, 
+restrained one having come to appeasement, 
+devoid of ego, then there is neither Vacyatva 
+(talkable) nor Avacyatva (untalkable). These 
+two, the Samhara (dissolution) and Vistara 
+(escalation) are perceptible and imperceptible. 
+■g^rT xta w: tnfef^n 
+^ Jratfrn^oii 
+Pumsa creates and dissolves and the 
+dissolved one attains to defunction occupied by 
+Ksetrajna, all that gets resurrected once again. 
+^irr faiyd*fiyl:ii 
+3HiRw* ^TT Tp:ii^u 
+By the one started from the station of that 
+one, along with intelligence, the union effected 
+by Dharmya (lawful) and Vaidharmya 
+(unlawful) becomes assumed in form. That 
+union having no beginning is known as 
+Mahapurusajna. 
+o 
+^ f|d^r (?) dd4^m^clll 
+Till such time the tenure of Sarga (creation) 
+and Pratisarga (Samhara) persists, Prakrti 
+keeps Purusa restrained and stays. To begin 
+with, it functions with intelligence continued for 
+the sake of righteous object of men. 
+%%H<*lRdT xTI 
+3fTOR^TT ^rnc^fwil 
+This activity accompanied by Sarga 
+(creation) and Pratisarga (recreation), the chief- 
+normed activity of supremacy, becomes 
+effected by Pradhana and Tsvara. Having no 
+beginning and no end, Prakrti approaches the 
+Universe even while terrifying it with the 
+feeling of identification. 
+Thus the third creation of Prakrti 
+characterised by Hetu (cause) has been 
+illustrated. One who strictly adheres to it 
+becomes liberated as mentioned by sages. 
+srfdyjfi crfejfaST: Chlfidl Ml 
+^ ^T: f% 
+Thus the three-typed Pratisarga has been 
+illustrated by me before you in details and in 
+line with sequence. What more may I do for 
+you? 
+* * *
+
+## Page 405
+
+374 
+Vayu-Purana 
+II3W ^fa^VIddoVlRCII 
+Chapter 103 
+The description of Creation 
+3R *TcRTT Miichlf^TOI 
+tRFft tR^T: wf ^ll^ll 
+t^TRt •<R^H'r «r ^uniter tr%crmTii^ii 
+The Sages spoke- By you, a mighty legend 
+has been dilated upon of progenies or subjects 
+along with Manus and of gods along with sages, 
+of Manes, Gandharvas, Bhutas, Pisacas, Uragas 
+(Nagas), Raksasas, Daityas, Danavas, Yaksas 
+and vertebrates or birds. 
+chttTfCir 
+fgfensr gwprmi tjihtjm^-hmmii^ii 
+Their highly marvellous exploits, excellent 
+births of highest order and lawful legal
+
+## Page 406
+
+Chapter-103 
+375 
+determination have been narrated in varied- 
+normed anecdotes. 
+rirch'^^llHH^Hlch <*T^cTT f*HT| 
+V3 Cn "N 
+Being dilated upon us by you by an 
+affectionate talk, O son of Suta, it renders bliss 
+to our ears and minds for ever till the end of the 
+existing generation. 
+IJcWHISZT % W ^ I 
+TW: ^rf^rw: Wt R: 
+<3 O 
+This way having extolled that Suta, they all, 
+the great sages, having honoured him, the 
+session celebrating ones, once again questioned 
+about the commencement of the Sarga 
+(creation). 
+<$21 ^RT MSIW JT: MMrWcll 
+eRfa JlUWIUf FRmil^ll 
+-O O O 
+sttimr 
+SWlft wbm: Tlfft ^dlMlIVSIl 
+“O Suta! O highly wise one! How does 
+Sarga (creation) get into being? How the 
+creation begins again, when the bonds have 
+dissolved, when all the Gunas have attained the 
+state of equilibrium, when everything is 
+enveloped in darkness, when the groups of 
+Vikaras (created beings) have become inactive 
+and stationed in the unmanifest Atman and 
+when all the Ksetrajnas have attained Sayujya 
+(identity) with Brahman? This you may dilate 
+upon us who ask you.” 
+TTcJfrfiW: 
+•oo o "V 
+This way having been addressed, then the 
+Suta Lomaharsana started explaining or 
+discoursing once again all that assumption as 
+such. 
+3T? eft c^filbillfft m\ MMrWftl 
+MeSelry f WFTtT ft«ft*RTII,?ll 
+“I shall repeat before you the way the 
+creation shall come about. That deserves to be 
+understood as of earlier norm. That same you 
+understand from me. 
+^ d'iTRXt'd rT ^ ^TkT: I 
+trwrgraft fftcpftft ottfzt ftot 
+Having been seen and fit to be estimated, the 
+same logical point, I shall talk to you with 
+argumentation. On that account, the words 
+make a retreat having not approached along 
+with mind. 
+fetftl: FUTFTfft fftcjrfftll^ll 
+Like the imperceptible or unmanifest is 
+invisible and incomprehensible, (the objects of 
+creation too) are invisible and difficult of 
+acquisition. When the evolutes become 
+dissolved, they are seen nowhere. The Gunas 
+attain equilibrium and the created things recede. 
+TRTR MWIUll ^ TTOuftifF fft^fTI 
+srftftpff Svftftft 3ToqtTft yiffTRI F^TII^M 
+Pradhana stands on a similar footing with 
+Purusas. Dharma and Adharma go defunct in 
+the imperceptibility of breathing ones. 
+FTcIHNIcUchl spft 7TTJRF% Tlfftfed:! 
+o 
+Flft cmfa fdsfdll^ll 
+Dharma is Sattvamdtrdtmaka (having soul 
+for mere spirit) established in the spirit of Guna 
+and Adharma having soul for Tamas stays in the 
+Tamoguna. 
+Fsft&Rf WRm 
+These two Gunas are devoid of divisioning 
+when they are established in the equilibrium. In 
+all the functions of Pradhana (the principal one), 
+the activities will be backed by the intellect. 
+^qft rTFmJTRI 
+■QcT rlRftTqi-H FTWII^M
+
+## Page 407
+
+376 
+Vayu-Purana 
+With ignorance, the Ksetrajna shall abide by 
+those Gunas. This way, by pride, the Pura 
+(physical body) will be attained. 
+When it deserves to adhere both, the Ksetra 
+and the Ksetrajna, the two, begin to interact 
+mutually. They attain to unification in the 
+relationship of Bhojya (that which has to be 
+enjoyed) and Bhoktr (the enjoyer). 
+dW«$T01Me4M> TTTRt WlIrMchMI 
+*N 
+^TT^rfgfr rfSET -t^TET 
+The only refuge for them is imperceptible. 
+Having stayed in similitude, those having soul 
+for Gunas, become occupied by Ksetrajna and 
+then they attain to dissimilitude as such. 
+rTcF: 
+fsrant 
+Then the two Ksetra and Ksetrajna attains to 
+the state of perceptibility. Sattva presided over 
+by Ksetrajna will produce evolutes. 
+'xJdf^VMJUKrqebi^i 
+TrarFPRT jwr 
+Beginning with Mahal and ending in Vis'esa, 
+the twenty-four principles of the nature of 
+Gunas adhere to the Ksetrajna, Pradhana and 
+Purusa. 
+Tianr: 4t5st ■qf^n gr:i 
+In Brahmanda (Cosmic Egg), first one shall 
+happen to be the Isvara. Siva will be the lord of 
+all the beings (Bhutas), of the entire knowable 
+universe. 
+far: rwpti 
+3Tlfa^: TraHWITJfglAI Tra^lR^II 
+The overlord of all the emancipated ones, he 
+is Brahma, the one made of Brahman, the great 
+one, the primeval lord. For the grace of 
+Pradhana, his manifestation is being illustrated 
+as such. 
+^FrrarV Ttjcfh 
+Ksetra and Ksetrajna are self-bom having no 
+beginning. They are bom as the minuter ones. 
+They are known endowed with the union of no 
+beginning and are aware of the entire Ksetras. 
+srafipsfe TJrft wafft W cffr cT^TI 
+-O C\ S3 O 
+They are endowed with the idea of 
+ignorance like Masakas (mosquitoes, gnats; a 
+water leather bag)1 and the two Varas or whisks 
+for keeping away mosquito (the mosquito nets 
+met to evade or ward off mosquitoes). They are 
+stationed beginninglessly and inconceivably 
+like water and fish. 
+nq; TPf TOPltl 
+C\ Cs %3 
+The creatioji flmctions again as it had 
+functioned before. The ignorant Prakrti adheres 
+to the state of Rajas, Sattva and Tamas. 
+y^fdch'lH T^WTSfqhvT- 
+ferytNcTt ^P*ddi xX qrfcr 
+huiiciyA yfdfittSduti’.ii^mi 
+At the time of commencement, the Ksetrajna 
+human beings adhere to Rajas and the like and 
+having attained importance, they attain to 
+specification and sense-realisation. Then the 
+Gunas reach their end. 
+smfiR: uBifiwywi 
+ocm fentfoT: 
+God Brahma is of truthful conception. While 
+he was meditating on the Sat, the Gunas Rajas, 
+Sattva and Tamas though mutually dissimilar 
+became manifest as caused by the Sat (the 
+existent). 
+3TT2Rt WIc*5RT ^d^ll-W Tl%:l 
+1. V.S. Apte, p. 428, This verse is obscure.
+
+## Page 408
+
+Chapter-103 
+377 
+Ksetratajjnas (knowers of Ksetra) are ever 
+produced both at the beginning and at the end. 
+The Atmans who identify themselves, having 
+means for accomplished acts achieved, do get 
+birth. 
+TRcfT WRT Wl 
+All spirited ones assume form from the 
+Unmanifest at the outset itself, which creates 
+Suvahas, Sadhikas (spiritual aspirants) as well 
+as non-Sadhikas. 
+WFTO ^ IRwi: W:l 
+S3 
+Chl^fui ilfdMoW-q 3?qiR) TR: TH:IR^|| 
+Crawling along, all those along with the 
+context of their places adhere to acts and take 
+birth time and again. 
+srrcqRft OcrT) ? qi^Ri 
+^rn^oii 
+Dharma (law) and Adharma (unlawful 
+norm) are soul-formed Gunas. They mutually 
+give rise to each other through boons and grace. 
+Tti wm: qtfct fafermi 
+o 
+dWWrlW T^rTlI^II 
+All are similar ones at the beginning of the 
+creation. For the sake of preservation, they take 
+to modifications. The Gunas race towards him. 
+On that account, that suits him. 
+IJUTT^ qrft 3llcRyy: 
+rfRfq MfdMgl^ ^HTRRT: TT: qT:ll^ll 
+The Gunas move to all those in the vision of 
+the earlier ones and do adhere to as such and 
+adhere to all those while being generated time 
+and again. 
+d^lfcldl: TftRRT dWWdW Traqil^^ll 
+The violent and non-violent, cruel and 
+compassionate, Dharma and Adharma, covered 
+and uncovered, fostered by that one, assume 
+form, on that account that appeals that one. 
+fqqqtw qqRt q^: 
+Myriad norm among great beings, in images 
+for the sake of senses, the separation of the 
+beings- all these take place through Gunas. 
+^q qt qqr TsTlrT: qq; qrf: quwd:l 
+HHJTtsq TTg^qqil^kll 
+This way by me has been illustrated the 
+resurrection of creation succinctly. Now in 
+brief, I shall talk of the creation of Brahma. 
+aTcXJ-dlTr^lJ-U I Id W ifvIrdlr^qdlr^MI 
+qqrcqwrarr <r qtqrf q t#sr:: 113^11 
+From the unmanifest cause which is eternal 
+one and of the nature of Sat and Asat (existence 
+and non-existence) takes birth Mahesvara 
+through Pradhana and Purusa. 
+Tf qq: wfe wzfc sl^Qld:l 
+TT MdHlchM^MHdUlIrMchldll^^ll 
+With the appellation 4Brahma’, he becomes 
+the evolver. He creates the lokas (worlds) again 
+or people endowed with the merit of pride. 
+STfc&RTg M£d*dWlc^dlH xUSSTWA 
+qqqrqqq^r qqRT^qifR *TII 
+•o C\ 
+Egoism is bom of Mahat (the cosmic 
+intellect) and the Bhutas or beings from the self. 
+Bhutas and sense organs get into being 
+simultaneously from the Atman. The different 
+living beings are bom from Bhutas. This way 
+the creation assumes form. 
+fqqqrrqqq^tqt WI3qt qqmqqi 
+qqf&T qqr q^ q$c||^qq|iidiHN3 ll 
+The components of the breadth of these ones 
+(assumes form) as per intelligence or 
+understanding and learning and stands 
+illustrated before you as per earlier narration. 
+That very way may it be resolved upon.” 
+HlcbVlPd Tifefq q sqq qil
+
+## Page 409
+
+378 
+Vayu-Puraija 
+dfW^S^JSj W3T ^ST: 
+WT c^eh^M'il: yiMclPdll'Soll 
+Having heard the story of the creation, 
+stability and oblivision of the worlds, the sages, 
+the inhabitants of Naimisa(ranya) at that time, 
+having performed Avabhrtha (purification bath 
+at the end of a principal sacrifice) in the Satra 
+(sacrificial sessions) purified as such, attain to 
+sacred loka. 
+r5cF=FT ^iqTffoqfcprafq 
+TTfr^rarn^ ?n 
+The way, you all, as per ritual, offer 
+sacrifices to the gods and perform Avabhrtha 
+and thus become sanctified. At the culmination 
+of life be contented, abandon bodies, attain the 
+sacred world and activate yourself as per 
+decorum. 
+i^r Ir 'Afatan t fgT i r^n 
+^^T^TFTRTT: ^ f ^01:11*^11 
+All the residents of Naimi§a(ranya), having 
+seen and created verily, all being of sacrificial 
+session, proceeded to heaven after having bath, 
+Avabhrtha (purificatory bath). 
+cRT: Wf WI: W 
+0 Brahmana, in the same manner, even you 
+will proceed to heaven at the end of your life 
+after the performance of various kinds of 
+sacrifices like those excellent Brahmanas. 
+_____ 
+JlljKyT W: TTT^: 
+:l 
+Preamble is the first part (of this Purana), 
+being the introduction of the plot and Anusanga 
+is the introduction as well as the conclusion or 
+denouncement. 
+TjrniT 
+33^ ^JIcd^rryi^WHTch^rl TET:M*mi 
+This way, this Purana, well-recognised by 
+the world, was dilated upon by the adorable, the 
+incarnated one, Vayu himself, engaged in the 
+beneficence of the world or people. 
+ssrarora qfq^rr #wi:i 
+^nn^n 
+yujfrcj^T Tfsrral q' 
+He narrated it to the sages after going to 
+their sacrificial session in the Naimisa forest, O 
+excellent sages! Owing to the grace of those 
+ones, the story of the origin and dissolution of 
+the living beings has been learnt without any 
+doubt. After hearing and understanding this 
+principal creation and likewise the supreme 
+administrative norm, the wise one does not 
+attain to infatuation. 
+Wtf W8&: W: I 
+The Brahmana scholar who listens to or 
+narrates or teaches this ancient chronicle 
+(Itihasa) rejoices in the worlds of Indra for 
+perennial years. Having attained Sayujya 
+(identity) with Brahman along with Brahma, he 
+gets emancipated. 
+cmt c&lftqrii c&fq y^nrqi Gemini 
+wPifa^THT ^T^rimoii 
+Popularising the repute of those Prajapatis, 
+the reputed noble-souled ones as they are the 
+overlords of the land, he attains the status of 
+Brahman. 
+This Purana spoken by Krsna Dvaipayana, 
+the expounder of Brahman (Vedas) is the 
+blessed one, the fame-affording one, the sacred 
+one, and well-regarded by the Vedas.
+
+## Page 410
+
+Chapter-103 
+379 
+■q^VR^nuTt xf c&Itt W^UIMI 
+^afdi^n^iuT'i xi ^^urd^iHii 
+IT -d^Wd tuq-; W zt U^IMilldim^ll 
+He who gives publicity to the repute of the 
+Lords of Manvantaras, the Devas and Sages 
+having radiance and wealth of abundance gets 
+rid of all sins and may attain to great merit. 
+flr^fa&RTdi trafcrr xr^fon 
+ydmcqi srpTOm 
+A scholar who always narrates this on every 
+festival occasions, shakes off his sins, conquers 
+heaven and achieves strength to gain the 
+Brahmanhood. 
+He who may make it heard on an obsequial 
+rite (Sraddha) to the Brahmanas, the Pad a 
+(quarter of a verse or hemstitch) of that finally 
+passes on to Pitps which is an accomplisher of 
+all desires and an indestructible one. 
+rTWRJTT JTTOt 4^1 
+^ Tdrtrnh ygyjriimmi 
+On account of which to begin with, this 
+endless Purana is dilated upon and he who may 
+know the etymology of this is given immunity 
+from all the sins. 
+T$cf fsnr cnifa % twzit: 
+s3 O 
+ffdfprfiw wan eruk (^) gfirmme, 
+wfor TIWTlfaT ^?T:l 
+diddblfe-trsbnfai effort fgfe trt^ni 
+1^: Ttf tTt^iimaii 
+Those people of the three prime orders of 
+society who listen to this Itihasa (chronicle) and 
+make up mind for a lawful activity, they rejoice 
+in heaven for as many thousands of crores of 
+years as are the hair-pores all around in their 
+bodies. Having assumed the absorption with 
+Brahman, they abide along with the gods. 
+ycSmugi w ufor ^ qyife wi 
+WT VII*df*U TTRlftlFrimill 
+This sacred text of the ancient Purana, the 
+obviator of all sins, pure and fame endowing, 
+was offered by Brahma to Matarisvan (Vayu). 
+rPFmwfarTOT 3TPTT TTWIrenfa 
+From him, it was acquired by Us'anas and 
+from him, it was acquired by Brhaspati. 
+Thereafter Brhaspati spoke out it unto Savitr. 
+Tjrg% trr? t 3^: i 
+eifviBiq TTfsft WTWRT iTII^oii 
+Savitr passed it on to Mrtyu (Yama) and 
+Mrtyu passed it on to Indra thereafter. Indra also 
+passed it on to Vasistha who on his own part, 
+passed it on to Sarasvata. 
+^3[R11^ S>ll 
+Sarasvata passed it on to Tridhaman1 and 
+Tridhaman passed it on to Saradvata. Saradvata 
+passed it on to Trivi§ta who on his own part, 
+passed it on to Antariksa. 
+erffnt rTRrfTSTt 4 ^Tsfr 3WSUTHT ^1 
+pRZTRJnfr snt3T^ TT ^ 
+Antariksa passed it on to Var§in and he even 
+unto Trayyaruna2. Trayyaruna passed it on to 
+Dhanahjaya and he gave it to Krtahjaya. 
+^TTgi'^ry TTtsTqsri 
+uVdUTO ^FiT: Tftsft ftifcU TRlII^II 
+From Krtahjaya to Trnanjaya and he even 
+passed it on to Bharadvaja. Bharadvaja passed it 
+on to Gautama who handed it over to 
+Niryantara. 
+1. Pauranika Kosa, p. 207, Vyasa of Treta Dvapara, 
+vide Vayu Purana 103.61. 
+2. Pauranika Kosa, p. 210, son of Trivista, an lksvaku 
+who heard Vayu Purana from Varsin, Vayu Purana 
+103.62.
+
+## Page 411
+
+380 
+Vayu-Purana 
+fa&Hwr rim mzfmmu wi 
+^ TStU^fTRT ^ ^ 
+Niryantara1 passed it on to Vajasravas2. He 
+passed it on to Somasusma3 who gave it to 
+Trnabindu4. 
+^TRT TTtgra ?TtP*I 
+'HlWV^lfa mfast: 
+Trnabindu passed it on to Daksa and Daksa 
+talked it off to Sakti. From Sakti, Parasara even 
+staying in embryo, heard it. 
+MU?iUsrsng^wm^IxfTqq: vm:\ 
+From Parasara, Jatukarna and from him lord 
+Dvaipayana. From Dvaipayana, this was dilated 
+upon unto me, O excellent Brahmanas! 
+TTOT ^ I 
+mm wrf^wrn Tw^cmi^ii 
+Sarhsapayana spoke- By me then, it was 
+passed again on to my son of extraordinary 
+intellect. This way, the speech was spoken to by 
+the guru (Brhaspati) and Brahma and the like. 
+dtt^lAlfsr TRcf: *t4rftfa:i 
+gRT WV 
+Preceptors are fit to be offered obeisance 
+with efforts by those seeking inspiration from 
+mind. This tale is blessed one, repute endowing 
+one, age prolonging one, sacred one and 
+accomplisher of all the objectives. 
+■qrqsr n^nfr: 
+^rifcr mm? ^diTc|rfr<riVdii^^ii 
+wt seteri 
+mfem ^IfToq Pfe(fiR^TRTOII\9o|| 
+1. Pauranika Kosa, p. 276. 
+2. tbid.,p. 460. 
+3. Ibid., p. 203. 
+4. Ibid., p. 203. 
+It is the obviator of sins and it deserves to be 
+listened to by a legal implication by the 
+Brahmanas. This sacred story should neither be 
+mentioned to an impure person; nor a person of 
+criminal intention and nor to one who has not 
+put in at least a year’s disciplined student life; 
+nor even to a scholar having no faith; nor to one 
+having no son by any means; nor to one who 
+never pays obeisance and who is inimical. 
+3Toq^l c( 
+crft CRF5T ERRTof rT 3T 
+f^VT: yiuimgsj 
+yreft ^TsrRrfT^ 
+i^fw tn^T <TTW TtWTRI 
+Traffic mfa 
+fasnsr 3T|#t ^ zrer g^JTii^n 
+<T dc(^c| 'jrlHlf*H 
+WT Vldfed ^1 
+O 
+m ynnrr ^ 
+ttertt 
+With great mental purity, I offer obeisance 
+to Brahma, the first Mahesvara whose source of 
+origin, they say, is Unmanifest, whose body is 
+the Manifest. Kala that has gone in, whose 
+mouth is Vahni (fire), whose eyes are the Sun 
+and the Moon, whose ears are the quarters, 
+whose nose, they say, is Vayu, whose words are 
+Vedas, whose body is Antariksa, whose feet are 
+Sariraksiti (earth), whose pores are the stars, 
+whose limbs are auxiliary lores and whose 
+Vidyas (learnings) are the tail. Fie is the lord of 
+Devas and the creator of men. He is well- 
+established in all the worlds. He is Mahesvara, 
+the bestower of boons and foremost of all. 
+ff?r sfafTOTPJt :3Wf:rttk etr 
+* * *
+
+## Page 412
+
+Chapter-104 
+381 
+urn : 11 
+Chapter 104 
+The removal of the apprehension of 
+Vyasa 
+m ^ mi 
+3TgT^r punft ^fd^i-wifH xirmi 
+<^rWvr:iRii 
+The Sages headed by Saunaka and others 
+spoke- 0 Suta! O Charioteer! O Greatly 
+fortunate one! Owing to the grace of Vyasa, you 
+have narrated eighteen Puranas entirely along 
+with the connected anecdotes in the manner of 
+Upah'ama (beginning) and Upasamhara 
+(conclusion). 
+rldciyrafW z( TTFrW 
+drMMIch Slfoq- ^ aftR M^cTlfecfiqil^ II 
+You have clearly narrated Matsya Purana 
+containing fourteen thousand verses; the 
+Bhavi$ya Purana containing an equal number of 
+verses with five hundred more. 
+csfsnr 
+Markandeya of great beauty has been dilated 
+upon as of nine thousand verses and 
+Brahmavaivarta has been dilated upon as of 
+eighteen thousand verses. 
+WtrfT zl 
+m rdounyi^w^HgnTimii 
+The Brahmanda (Purana) having a counting 
+of twelve thousand and one hundred verses and 
+the divine Bhagavata consisting of eighteen 
+thousand verses (have been narrated). 
+fl^wiftl d^ldlTh TJTWT Tj^HTWTI 
+ai^dy^Ychyfcr ww grtRri^nrii^n 
+Ten thousands verses have been dilated 
+upon of the Purana named Brahma and 
+composed of (ten thousand a myriad) verses 
+(Slokas) is the Purana known as Vamana. 
+^pTqrnv9ii 
+The Adipurana containing ten thousand and 
+six hundred verses and the Anila (Vayu Purana) 
+containing twenty-three thousand verses (have 
+been narrated). 
+^Td^<TfVftTII6 II 
+Naradiya (Purana) is exemplified as of 
+twenty-three thousand verses and the Vainateya 
+i.e. Garuda (Purana) consists of ninteen 
+thousand verses. 
+W^^M^i?TriiVrf; TIM 
+H cjnf MFR TMT^TTII^II 
+The highly laborative Padma (Purana) 
+contains fifty-five thousand verses and 
+seventeen thousand normed is talked of as the 
+Kurma (Purana), the fascinating one. 
+The most marvellous Saukara (i.e. Varaha 
+Purana) consists of twenty-four thousand verses 
+and eighteen thousand normed is talked of as 
+the Skanda (Purana) of great dilation. 
+TTcPTST3#TTnft JJTlunft xTI 
+This way have been dilated upon eighteen 
+Puranas of formidable size. In these Puranas, 
+great many holy rites have been well-laid down 
+by you. 
+TlfWlt zf foTFTmt TSTfTfaT sfiJMlRuTTOI 
+oM^HI U^juii 
+Rdgins (worldly beings, lit. impassioned 
+ones), Viragos (those having no passions), Yatis 
+(recluses), Brahmacarins (celibates), Grhasthas 
+(house-holders), sylvan-dwellers (forest 
+anchorites) and specifically women and Sudras 
+have been explained by you.
+
+## Page 413
+
+382 
+Vayu-Purana 
+TF^IHT *JT tTFRaT ^11^ II 
+Similarly the rites and duties of Brahmanas, 
+K§atriyas, Vaisyas and the intermixed castes 
+have been recounted. Gariga and other great 
+rivers have been described by you. Yajnas, 
+Vratas and Tapas (sacrifices, vows and 
+penances) have been explained in those 
+Puranas. 
+3^<*fay<HiPl -q-RlSJ TRl 
+^fyyi: lip ^Hicidi^yiii^ii 
+Many-normed charities, along with Yamas 
+and Niyamas (restraints and precepts), 
+Yogadharmas of varied norm, Samkhya and 
+Bhagavata (pertaining to the holy devotee of the 
+lord) have been explained in them. 
+srfWTFft ^RTJFff tTFPtf^Rt^3TT;l 
+Bhaktimarga (path of devotion), 
+Jnanamarga (path of knowledge) and Vairdgya 
+(detachment) have been explained. The 
+procedures for the various ways of worship with 
+water and wind by those whose minds have 
+been purified by holy rites, have been 
+mentioned. 
+WfS fter <Wq xf 
+Brahma, Saiva, Vaisnava, Saura, Sakta and 
+likewise Arahata- these six systems of 
+philosophy have been dilated upon well- 
+restrained or enjoined by their individual traits. 
+TT^recT fofei wnm fqpfTOTTI 
+This much and the other redundant material, 
+all that has been illustrated in Puranas. Beyond 
+this whatever is there or deserving to be 
+understood is the excellent one. 
+^ oErrcfr cn i 
+3R ^T: TftTifnMt *RT:ii^li 
+Could it be that Vyasa or you, holy sir, are 
+hiding anything? Please remove our doubts in 
+this respect because you are a complete Purana 
+expert. 
+m scnsr 
+C\ 
+3JTJT g^nfiT 3TIHTO 
+stffpfrzraT f^RRTwr sra^u^ii 
+Suta replied- Listen, O Saunaka! I shall 
+dilate upon this question of difficult import, 
+highly confidential and divine one and unfit for 
+being dilated upon, (they) call it. 
+WTfTt SIRT: ^rcfT qhifcrrc£|' gjgIRI 
+flRPTOHT #rTf%IRo|| 
+Vyasa, son of Parasara, having composed 
+the ancient chronicle anecdote (Pauranikl- 
+hatha) created out of all the Vedas (sciences), 
+thought over in mind. 
+-yuikMctrri snft wn 
+Tffwrrnf crgfgsiT %c;ifefty?r:iR^ii 
+The duties of the orders of society and 
+stages of life have been aptly dilated upon by 
+me and the passages of emancipation of varied 
+norm have been dilated upon in co-ordination 
+with to the Vedas (Sciences). 
+fqr^T: '^fqonn 
+o o 
+The distinction between Jlva (soul), Isvara 
+(god) and Brahman (divine knowledge) has 
+been spoken off by me during the judgement of 
+an aphorism. The utmost Brahman has been 
+established as per deliberation upon the 
+propriety of Sruti i.e. the Vedic lore. 
+WT W tRTTTrm trt ^1 
+The utmost Brahman (the supersonic 
+knowledge is indestructible and the supreme 
+soul. It is the highest step for the sake of which 
+Brahmacarya (celibacy) and the like, the vow of 
+recluses and forest anchorites (persists).
+
+## Page 414
+
+Chapter-104 
+383 
+3TTcRf% l^rai?TT STRHlt xf TJSjfrgsmT | 
+3trr vmiteigi «nwriR'c;ii 
+setr ■ymlyVriiPi fwh tt?i 
+STgTflft ^ xf rRf^T ^^ItlRHIl 
+Highly-intellected ones adhere to Dharana 
+(concentration) of distinct norms. Leading sages 
+perform- Asana (posture), Pranarodha 
+(restraint of breath), Pratyahara (restraining 
+back), Dharana (concentration), Dhyana 
+(mental concentration or meditation), Samadhi 
+(trance, ecstasy), Yam a (restraint) and Niyama 
+(observance). These are the eight components 
+known as Astanga Yoga for the sake of which 
+the excellent ones among the sages move about. 
+OfllJoifiraT chf^Hlf^dl:ll?^l! 
+Those who strictly adhere to the injunctions 
+of the Vedas (Sciences), perform holy rites only 
+for the sake of Brahman. They are lustless and 
+void of morbidity. 
+$%isRTr:iR\9ii 
+For the understanding of which one, with a 
+view to scaring away the sinful action of the 
+self, the pure-vowed ones take to the abodes of 
+places of pilgrimage such as Gariga and the like. 
+rT^rgr Wt 
+flcjjw WUT eficISj 11 11 
+O CS C\ "s' 
+That Brahman is the greatest and highly pure 
+one, having no beginning and no end and free 
+from disease, perennially ubiquitous and static, 
+stationed on a peak and void of deceit. 
+It bears gleam of the working of all senses 
+and divested of the instinctive senses, 
+unimpaired in directions and time, perennially 
+of a minuter noma and indestructible. 
+b||<lM frf%Tt rT ] | ^ o 11 
+I fu ct^cj dl d flj 
+The whole Visva (universe) is super¬ 
+imposed on it like the serpent on a piece of rope 
+and hence appears so. Brahman is devoid of 
+aberrations. If properly thought over, foam, 
+ripple, bubble and wave will be found not 
+distinct at all from water. That very way is 
+Brahman thought over as such, not distinct from 
+Visva. 
+g#cT ^TTClcxj Wlfa fqw 3FT:l 
+sriiTTJSc&tefr ? xtii3?ii 
+“Entire Brahman is not the idea of myriad 
+norm”, this way do dilate upon the Nigamas 
+(scriptures). It is from Brahman that the crores 
+of Brahmandas (Cosmic Eggs) assume from as 
+such. 
+WM 
+3T tRT fWTII33ll 
+The defunction and uprise of the moving 
+ones depend upon the Unmesa (opening) and 
+Nimesa (closing) of Brahman. And the great 
+Sakti (the divine goddess of power) is stationed 
+with the support of Brahman. 
+■SI^nqTwFT^lfH ^ftl)53Tlr[ 3R?T ftll}*II 
+The universe is in it and it originates from 
+Brahman. It is Brahman itself. It is due to the 
+ignorance of Brahman that the universe 
+flourishes and by which one having been 
+understood, the universe persists to dominate. 
+STORT 'STwrt g:Ti swfwfd fH^MrTOI 
+The universe is described as unreal, 
+insentient, cause of misery7 and insubstantial. 
+The retrograde of it is an embodiment of joy of 
+the existent one.
+
+## Page 415
+
+384 
+Vayu-Purana 
+^rrafw fgwrsd wcr ^rt rjtrti 
+TR^Il^ll 
+On Jlva (soul) being alert or wakeful, it is 
+named Vis'va; that is known as Taijasa 
+(refulgent) in a dream and in the desire to sleep, 
+it is named as Prajna (intelligent one). This 
+stands known in all the situations. 
+smnnrt srErcrzrfri 
+ttleWyi TTFT rTRT STM H|tTI4-M STfSgtll^ll 
+It is the eye of the eyed ones, an ear of the 
+eared ones, the skin of the skinned ones, the 
+tongue of the tongued ones and the breadth as 
+such of the vital airs, that they understand. 
+ffipfrr rT STOTT: %STWIT ElWiHJ 
+n<wSd:ii3dli 
+The human beings become incapable of 
+knowing precisely and attaining it by means of 
+intelligence, worldly knowledge, life forces and 
+by the power of activity for ever. 
+T53TTerf|tfft cTTft ^frPTT Ml 
+3R#gf*rd «nfrr <?ii 
+Just as in a rope the snake, in an arid soil (or 
+desert) the water and azureness in the sky 
+(gleams forth), in the same way, the non¬ 
+existent universe looks glamorous wherein 
+created by ignorance. 
+UZrafevT T?wr M^lchTVIl fofflUHl 
+Like a Ghata (a trap of elephants meant or 
+assembled for martial purpose)1 truncates as 
+such, this one, the vast sky or the great Akasa 
+gets truncated. Jlva is the restricted form of the 
+all-pervading soul, restricted through the karya. 
+WRIT fvj^chlfjUMT rdP^MUIVllHdll 
+9TPTU3 fcldddH ^ftJTftTHTferf5cRTII^^II 
+The whole Brahmanda is an unprecedented 
+or unrivalled superb painting drawn on 
+1. V.S. Apte,p. 197. 
+Brahman as if on a wall by the Maya of 
+wonderful activities possessing diverse Gunas. 
+That indestructible Brahman is conclusively 
+arrived at by the doctrines of Vedas and 
+Vedantas. Brahman is beyond those who rush 
+after it. It is beyond the words of those who try 
+to explain it. 
+3T$R1?T TT foftHRII cFTTST TTT W 1#:! 
+^ ^STT^ftT 11*311 
+Beyond the indestructible, there is nothing. 
+That is the limit and that is the extreme state. 
+This way is being explained in Vedas, when 
+(they are) closely pondered over. 
+felTRTl 
+^mTrnmmqi 
+fTTfeftwfeffer %uw*<qR-i?RT rrii^mi 
+fcmzrm fezr rT^TT^RTfn^irk^n 
+TTtpRT I* 611 
+tsnrrraf^ fi# ttwtcrmr^i 
+s3 s3 O < 1 
+chdMrlUfchlVlIchMiri'JlIdMdi^imoll 
+fV'rfTsl'lTRrad^chfMchchlH^HI^I 
+ftrlsnsf <icm)cr siicmwftdwd:im^ii 
+TTyifdHKUfach ^raiw^r W TTRTI 
+^dcIH^d 3II 
+I have heard this from the Vedas with whose 
+help he became cognisable. Also that Lord 
+Krsna is that supreme Purusa. He is abiding in
+
+## Page 416
+
+Chapter-104 
+385 
+the form of Atman in that imperishable soul. 
+Stationed by the personal form, he is an 
+embodiment of joy and a frame of the 
+permeation of exquisite joy. He is having zest 
+for sportive grace, the one gone within the bevy 
+of cowherds, women and embellished with a 
+crown decorated with peacock plumes and 
+studded with shining gems. He is equipped with 
+ear-rings gleaming like the flush of flashing 
+lightning, moving in vicinity of the ears, 
+fascinating with the wagtail in the form of eye. 
+To that one lewd for the graceful sport of bevy 
+of beloved roving in every garden, the one 
+wearing yellow garment, the divine one, 
+decorated by the plaster of or unguent of sandal. 
+He fascinates the cowherdesses with the notes 
+of his flute sprinkled with the nectar oozing out 
+his lips. He is the Cidananda (i.e. the joy of the 
+subtle elements), the very crusher of the pride or 
+inebriation of Cupid. He is brimful with the 
+crorec of arts of Kama (Cupid) and transparent 
+like the crores of lunar beams. Bees and deer 
+surround him. Round his neck with three lines, 
+a diamond necklace shines with beads 
+interspersed. To control cows from straying 
+away, he runs about here and there on the high 
+banks of Yamuna in the grove of Tamala trees, 
+fascinating owing to Kadamba, Campaka, 
+Asoka and Parijata (spices plants) or coral trees. 
+That forest is reverberous owing to the 
+warblings of cuckoos, (talks) of parrots, 
+pigeon’s gharghara sound and cooings of 
+peacocks. He is fond of sporting with Radha. 
+TJcj f%F*TT% faftt 
+c^OTt ({loiRTlfrl WIIMII 
+This way in the Brahman of a subtle 
+element, Nirguna and void of distinction, 
+named Goloka, Kr§na shines along. This has 
+been heard by me. 
+TOTSft cjfo IRTTRMFd: ^:iiysu 
+Beyond He, there is nothing discernible in 
+Nigamas or Agamas (etymologies). Still the 
+Vedas say that he is beyond and greater than 
+Aksara. 
+A denizen of Goloka, the adorable one, is 
+deemed as beyond the one having no 
+percolation. Who is this always spoken by the 
+Vedas as beyond even that? 
+How the specific meanings quoted by the 
+Vedas should be understood or even the 
+interpretation of Vedas deserves to be 
+understood from beyond the jurisdiction of the 
+indeclinable? 
+fayu-ynmi Hit 
+Endowed with scepticism in the 
+interpretation of the Vedas, Vyasa, the son of 
+Satyavatl, racked his brain for longer time but 
+could not arrive at a specific realistic norm. 
+HH14JUI: JflHr ¥FT:imcil 
+Suta spoke- Even deliberating upon, the 
+sage then could not come to a conclusive 
+disposition on Veda. The Veda is Narayana in 
+corporeal form wherein become mesmerised 
+even the poets. 
+rt^Tsfb wt 
+Still he underwent great distress of the heart. 
+Then he once again thought over as to whom he 
+could go and what could he do? 
+I do not see anybody in this world who is an 
+omniscient one having knowledge of all
+
+## Page 417
+
+386 
+Vayu-Purana 
+philosophic lores. After not knowing anyone in 
+the world who could clear his doubts. 
+mt: rmr wt cPT:i 
+Having gone over to the cave of Meru, he 
+performed a great penance, wherein the waters 
+of light or electricity flashing was golden- 
+normed. 
+^ trrq cf,RTRnfw^<«n^ ? n 
+There was a vast highly gorgeous forest 
+there. Although there was blinding darkness 
+within, the rocks shed a golden brilliance 
+everywhere. 
+MRHlyu^ttfugd:l 
+^irf^hf?TdnH^ddWRMi^fir: 
+TF?t: 
+hRTciT|hiih^n 
+The forest was rendered vociferous by birds 
+warbling within groves of creepers and trees of 
+myriad norm. It was void of fatigue, torment, 
+wrath, fear of thirst and hunger. It was equipped 
+with reservoirs of many norms, decorated by 
+many-typed lotus stalks and birds hovering over 
+the shores, inlaid with golden stone slabs, 
+regaled by lotus breezes an all sides and 
+occupied by auspicious normed thoughts and 
+divested of rapacious wild beasts. It was 
+englamoured by birds fond of divine creepers 
+and sequestered as such with inebriate cuckoos, 
+hilarious pleasing parrots and pigeons. 
+eCTSRt f^n MO^iwTTIIh'SH 
+The pollen dust particles rose up and 
+rendered all the quarters fragrant. Therein even 
+was a divine cavern, highly beautiful as such. 
+<rt terdr^m fofrfoat fadiTM: i 
+WITT tcH?JfTTTR^TTRRT 
+Having entered that cave, having food 
+abstained, having heart overpowered and 
+having a seat won over, the sage having 
+absolute concentration assumed, remembered 
+all the four Vedas. 
+T^TT 'JHIIH VRql %l 
+TnfTTWRTt ^iaffJUSrTTTi^dr:ll^^ll 
+A triad of hundred years (lit. Autumns) 
+passed by while he remembered and the four 
+Vedas of pleasing philosophy got revealed to 
+him. 
+^hTdTHJTHIVH^ ^ilwyiRui:! 
+cimqi?TwAd:i 
+3TTTr(W)JAI-dc|'J|)»J |\3^ 11 
+TTftrf%: cbFd^ar tTl^Tr 4fTH<^telvell:l 
+^fid^iyrb^Ki yrralcn ^rnw: 11193 n 
+Their eyes were like the lotus petals blown 
+as such and they were bearers of matted locks 
+and diadem, having lotus like hands occupied 
+by handfuls of Kusa grass, having shoulders 
+adorned by antelope hides, having faces made 
+of sixteen Svaras intervened by Pranava (Om), 
+kavarga (letters starting with ka), cavarga and 
+the like being the source of syllables, having 
+hands of five limbs, having feet skilled 
+pavarga, comprising of pa and having left order 
+writing started from tavarga (ta> tha, da, dha, 
+na), having ending syllables dictated by 
+ravarga assumed as such. The letter Na 
+constituted their navels. The letter Ka 
+constituted their backs. The letter Ma 
+constituted their stomach. The letters Ya, Ra, La 
+and Va constituted their hair. Agniblja (the
+
+## Page 418
+
+Chapter-104 
+387 
+seed-like hymn of Agni) shone in their right 
+shoulders. The Dhara (hymn of the earth) was 
+their neck and the Bhrta shone on their 
+shoulders. 
+Their joints consisted of the semi-vowel 
+letters. They were throbbing with Vaikharl 
+speech. He view Mathura (city) marked in their 
+lotus-like hearts. 
+fbfocKT: % TFTI 
+That is the very emanation spot of Lord 
+Hari? the adorable one. The city of KasT was 
+seen by him in the middle of their eyebrows. 
+The city of Maya (Haridvara) was stationed in a 
+mystical plexus at the posterior part of the body. 
+csr^srr 6K«t>i*tei MFi stuft ?rarmv3^ n 
+He saw the city of KancI in the region of 
+their linga (generative organ); the city of Avanti 
+in the navel region; the city of Dvaraka 
+stationed on the throat spot and the city of 
+Prayaga in the region of vital breath. 
+TT^rsftr TCTI 
+■RKT 
+On their left and right flowed the two rivers 
+Gariga and Yamuna. In the centre flowed the 
+river Sarasvati in corporeal form and Gaya- 
+ksetra was on the facial region. 
+The excellent holy centre of Prabhasa was in 
+the centre of the neck and the chin. The 
+hermitage of Badari (Badrayasrama) was seen 
+in their Brahmarandhra (cerebral aperture). 
+The holy seats of Paundravardhana and 
+Nepala were seen in the eyes twain. The seat 
+named Purnagiri came to sight on the forehead. 
+rT WTNfe <*1^1 Mid «hfdft*ldHJ 
+cMT ^R^el^RTIIdoU 
+The holy Mathurapltha (the seat of Mathura) 
+was seen in the neck. The seat of KancI was 
+stationed in his hips. And the seat of Jalandhara 
+was seen on the breast spot. 
+«PTMte cB'O^'Vl sratelt HirUcfelM^.1 
+Bhrgupltha was the ear lobes and Ayodhya 
+was on the naval cavity. In the Brahmarandhra 
+was stationed the Brahmya and the holy centre 
+Saiva was stationed in the parting of hair. 
+The holy centre Sakta was situated on the tip 
+of the tongue. Vaisnava-tlrtha was in the lotus 
+of the heart. Saura (the holy place of Sun) was 
+stationed in the region of the eyes and all 
+Bauddha centres were stationed in the shadows. 
+■*ffarqf&T ehud^vi 
+cfcfed^ yfHfjU TTSITSS^IId^ll 
+SautramanI was the neck spot and 
+Pasubandha was in the chest. Vajapeya sacrifice 
+was in the waist region and Agnihotra likewise 
+on the face. 
+3T^r 
+TrST^il OTTSSS^IId^ll 
+Asvamedha was in the waist region and 
+Naramedha on the stomach. Rajasuya was 
+stationed in the crest region and Avasathya in 
+the lower lip. 
+l^HId JTTotefafidSjt:lldmi 
+yyd-^MMir^dldl 
+HtM WdifofoMM^chKchRJ 16 $ 11
+
+## Page 419
+
+388 
+Vayu-Purana 
+He saw Daksinagni on the upper lip and 
+Garhapatya (fire) within the mouth. The Havya 
+was in the two ears and varied Mantras were 
+stationed in hairpores like servants waiting upon 
+a lordly monarch. He visioned the Vedas 
+severally revered and honoured by the Puranas 
+suffused with Nyayas, Samhitas and Tantra 
+texts. He saw the Vedas who blessed the people 
+through holy rites, perfect knowledge and 
+modes of worship. 
+■gft: c^ott ?tri 
+On seeing them, the sage Krsna 
+(Dvaipayana) became highly amazed. They 
+were having divine brilliance of Brahman; they 
+were blazing like Sun of undecaying norm and 
+also like the smouldering fire of intense 
+inflammation. They had the appearance of 
+crores of Moons. 
+cfcRj; US'HlcyW d;u^HlfaHT 
+\cc\\ 
+Having offered obeisance and prostrated 
+himself, he (the sage) got up quickly like a staff, 
+while saying repeatedly- “I stands 
+accomplished in ends, I stands accomplished in 
+ends, I stands accomplished in ends. 
+3TSJ ^ WR 3TST fW RR:I 
+3TST ^ : 11C ^ 11 
+Today my birth stands successful and today 
+my mind stands successful, today my age stands 
+successful because you have come within the 
+range of my sight. 
+sFrtfesi fern i 
+Whatever there is whether worldly or non- 
+worldly, whatever is worth knowing whether 
+past, present or future is not unknown to you. 
+R cTFWI 
+TlfiT^TT^II^ ^11 
+You all are not such ones as the mere 
+instructors of the path of action. Even if you 
+show the path of action, it is only to restrict the 
+haphazard actions of those who are passionate. 
+mfJBWift sr^ cjt Mtofri 
+Tf ?Tr3gfoRTfa$Rfhl^ll 
+Your words of injunction and prohibition 
+regarding the status of Brahman and the 
+unreality of the universe are not based on 
+attachment which is unreal. They are binding as 
+the injunctions and prohibitions. 
+3wt 
+^crtrKT: WCT PRdl:ll^^ll 
+Therefore the objects such as heaven etc. 
+mentioned by yourselves have been censured by 
+you, saying that they are of a perishable nature, 
+while the truth is being explained by you, the 
+benefactors of the worlds. 
+•net ^ 
+By the distinctness of the officials as per 
+sermonisation of Jnana (i.e. knowledge) 
+guarded as such stands the entire universe by 
+those having self-named images as Sabda 
+Brahman. 
+spfat Torf: ^rr^J^rRTnri i m i 
+Therefore, I am eager to query in case you 
+are quite of a gracious norm. With regard to 
+those whose minds are filled with desires only, 
+the fruit ordained for their rites is heaven. 
+rr 3nfar:i 
+Of men having intellects dedicated to Isa 
+(the Lord) as also of the action undertaken, the 
+purity of heart and likewise the learning and 
+emancipation is subsequent to that.
+
+## Page 420
+
+Chapter-104 
+389 
+Emancipation is Brahman, this way do 
+expound some which verily, constitute the joy 
+of the truth-normed subtle element. All get 
+culminated when it is realized whatever is done 
+or left undone. 
+fa?rchl¥l 
+It is non-attached, the subtle element in the 
+sky of knowledge, the nature of wisdom 
+unobscured by Maya, lustless, immobile, pure 
+and is known as meritorious ubiquitous 
+element. 
+WSWH mUdcfaiW II 
+When the products become defunct, the 
+Brahman does not get lost, the way the Sun 
+retains its illumination by light while the whole 
+universe becomes plunged in blinding gloom. 
+^ (?) I 
+¥T Wt tffth?lfft^^ll?oo|| 
+Like that of a steel, a gem being the 
+emancipator, when by the light that one having 
+attained to the existence, yawns forth as such, 
+that very way of the soul, the knowledge 
+becomes the emancipator. 
+feyi'chUOT rrpzjftl 
+By the form of Jlvesvara and the like, and 
+also by the shape of universal norm, on the 
+defunction of that one, even the Kutastha is the 
+single entity. 
+fftnffft flrTitcr 1 #[:| 
+HSJTSfo EE clftft ffftll^ll 
+By you, this way having been decoded, that 
+verily, is that very way, there is no doubt in it. 
+Even then, there is inquisitiveness in me, solely 
+in my heart. 
+snrrsfcr ETE fch^^rl ET E ETI 
+rrgcT^ EgroiET 11^0311 
+Even then, is there anything more realistic 
+than this or not? O greatly fortunate one, please 
+expound as you are the realiser of realises. 
+EisjJcftEieTftft? EJgtft ft cgrn^dTI 
+Eft fHRTEEft SJTft UciWdlgdHJI 
+^TTET ttilsctlri itrydRunl :M^o11 
+■o c\o * 
+That which constitutes the front of Sravas 
+(hymn or wealth)1 constitutes the 
+accomplishment of the end of my birth. To 
+Vyasa, the son of Satyavatl, the innocent one, 
+talking like this, “Well done, well done”- this 
+way having eulogised, the Vedas spoke out the 
+words.” 
+ftc(T 
+wx mx EfTW fabuiikm yiflftuiwi 
+Vedas spoke- “Well-done, well-done,” O 
+greatly-learned one! You are Visnu, the soul of 
+the embodied ones. Though unborn, you obtain 
+birth and you cherish for the grace of people. 
+3RE5T ft E EEft 
+E1EET ftoPT ebdird'^Hh^lll^o^ll 
+Otherwise why should you be fettered by the 
+worldly actions? It does not affect you. You are 
+untouched for ever by the divine Maya Dev! by 
+the secrecy of your learning. 
+3EFqcEEE tr^TSTT EEET 
+TTnftfefft?T% H ftcJOTI 
+3T8fTT W ETE I ^ o <£ 11 
+You bear forth a form voluntarily and 
+voluntarily do you take it back (lit. conceal as 
+such). The object well-determined by us has 
+been well-displayed by you in Puranas, Itihasas 
+and Sutras (the ancient legends, chronicles and 
+aphoristic lores). The imperishable Brahman is 
+supreme, the cause of all causes. 
+1. V.S. Apte,p. 565,
+
+## Page 421
+
+390 
+Vayu-Purana 
+cTW55?tRt5UJ|rM^llc|r|i|l WI-^T TRI^TI 
+v3 *S. 
+TflcJSJ fw tRlt % cT(TII?o<?|| 
+3FWcT d^^-Hlfo'Jl'irl Hlefcfdtfi f^PIl 
+?IW: VKIdlft d<lrMebl:il^o|| 
+Like the smell of a flower or its taste, it is 
+the Atman of the Atman. You may realise it to 
+be ultimate form. This has been experienced by 
+us when the dissolution pertaining to Prakrti 
+took place. It is beyond the Aksara 
+(indestruction) and it is the supreme Rasa 
+(fluid) that exists. It is beyond all words of 
+expression. Since we are of the forms of words, 
+we are incapable to express it precisely. 
+eft TTtnpnft crrofr^ 
+k k k
+
+## Page 422
+
+390 
+Vayu-Purana 
+Narada spoke- O Sanatkumara! You may 
+talk to me about the tlrtha (place of pilgrimage 
+or fordable spot), a fordable spot of excellent 
+norm, a redeemer of all beings such as those 
+studying and hearing ones. 
+Chapter 105 
+The importance of Gaya 
+ch^cutJ 
+o 
+3T?T $8$ Ucia^rfM 
+Vayu spoke- After this, I shall dilate upon 
+the importance of Gaya, the excellent one, 
+having listened to which, one gets emancipated 
+of all the sins. There is no doubt in it. 
+Suta spoke- Accompanied by Sanaka and 
+others, the greatly fortunate ones, the godly 
+sage Narada questioned Sanatkumara, having 
+offered obeisance as per ritualistic norm. 
+Terra 
+ir ?rft 
+s3 Cs "s 
+<TTTcR ^NdMI TOTII^ II 
+WIR 3® 
+•o 
+^PTpimi 
+Sanatkumara spoke- I shall talk of the 
+tlrthavara punya (the excellent sacred place of 
+pilgrimage) which saves all by means of 
+(performance of) a Sraddha (an obsequial rite) 
+and other holy rites. You may hear about the 
+Gaya tlrtha (the Gaya place of pilgrimage), 
+being the excellent one among all the tlrthas in 
+the whole of the country. 
+Gayasura (the demon Gaya) performed 
+penance there when solicited by Brahma for a 
+sacrifice. On the crest of that one (Gaya) 
+Dharma hurled a stone slab, when he offered 
+(his body). 
+ere gwsgrewi 'feasjift Wi 
+WHS, II 
+Therein Brahma performed a Yaga 
+(sacrifice) and stood there the wielder of mace 
+(Gadadhara) in order to keep the demon Gaya 
+steady and immovable day and night. Assuming 
+the form of the (river) Phalgu and other sacred 
+places, Visnu stayed there along with excellent 
+Brahmanas, Devas such as Brahma. 
+4rcfchH> w ermt 
+v V 
+Having concluded the sacrifice, Brahma 
+bestowed abodes etc. unto the Brahmanas. In 
+the beginning of the Sveta Varahakalpa, he had 
+performed the sacrifice at Gaya.
+
+## Page 423
+
+Chapter-105 
+391 
+TRTRTRT W Tgmn ^ 
+fhclG 11\6 11 
+The holy centre became known by the name 
+Gaya after the demon Gaya. It is liked by 
+Brahma. Afraid of the fear of hells, the manes 
+desire sons. 
+w nmfa W: tt h wicfT srfaarffri 
+pirn w sgr rMduimoH^ sp^tii 
+vsvmft Wt w to f% * torn 
+‘To Gaya shall go which son, he shall 
+become our protector.’ Having seen the sons 
+reached Gaya, there may be a festivity of the 
+fathers. ‘Even by touching its waters with his 
+feet, what is it that he cannot offer to us?’ 
+■q^cqT oT^cf: xm 
+^JTST^T <?T 11 ? o 11 
+W 7T^5t^RTT: fcRUW-T gfauT: I 
+3T WTlft fanfopill^ll 
+Many sons deserve the performance of 
+sacrifices and if one son goes to Gaya and may 
+sacrifice with Asvamedha or may release the 
+blue bull or offers food, they (Pitrs) will realise 
+the benefit of (their) having such a son. If the 
+son abides there for three fortnights, his family 
+get sanctified upto seventh lineage. If that is not 
+possible, he may stay there for fifteen days, for 
+seven nights or three nights. 
+TTPT W STTW fcH¥<yfdl 
+fait Smss fq^TTrlRtsfq f^feril^ll 
+A sin committed within a mighty Kalpa 
+(aeon) gets obviated after reaching Gaya. One 
+may offer the rice balls (Pindas) and the like to 
+the manes. He can offer the Pindas to himself, 
+but without including gingelly seeds in that 
+case. 
+The murder of a Brahmana, liquor drinking, 
+theft and the coition with the wife of an elder or 
+a teacher- these all constitute sins bom of the 
+limbs of that one and they all become obviated 
+by an obsequial rite at Gaya. 
+ilvtl'MI MTcmfcWg ^TIWTII^II 
+One’s own son or another’s son, whenever 
+and thereafter by whichever name may offer a 
+Pinda, obsequial oblation or libation on the land 
+of Gaya, that may bring forth Brahman of 
+perennial norm. 
+^TTftr cb^faoW tpnqt 
+Having pronounced the name and fame or 
+title, the offering of libation is required as such 
+whereby and by which one and for when 
+offered, he attains to the excellent 
+emancipation. 
+SHpTR TTPpt TRTTt WII 
+<3HT: fFft ^1% rlHfisiTII^II 
+Emancipation is of four types- (i) which is 
+achieved through the knowledge of Brahman, 
+(ii) which is achieved by the performance of 
+obsequial rite at Gaya, (iii) which is achieved 
+by death in a Gogrha (cowshed) and (iv) which 
+is achieved by having an abode in Kuruksetra. 
+sT^TFPT f% 37Rf feui 
+WT W I ^ I1 
+What is to be achieved by Brahmajnana and 
+what is an abode in Kuruksetra and what use is 
+a death in Gogrha, if a son goes to (Gaya). 
+Trarot ^cSehi^M font dair^i^UT: i 
+srfsnrrer 
+? rs^oij <g^wd1i 
+^ t^rt [muscm^ii^ii 
+A skilled one may offer rice balls at Gaya at 
+all times. It should not be discarded in an 
+intercalary lunar month1, or on one’s birthday 
+]. V.S. Apte,p. 14. arfWRTI
+
+## Page 424
+
+392 
+Vayu-Purana 
+or when Jupiter and Venus are set, or when 
+Jupiter is stationed in Sirhha (the sign Leo of the 
+zodiac)1 and during the eclipse of the Sun or the 
+Moon, the obsequial rites of the dead ones 
+should be performed. 
+<T WTH $Tcfe% ^ fel%l 
+W tcflPTfe xlll 
+WJI 
+When one arrives at this great tirtha, no 
+defect of injury crops up and in case one is 
+wounded, he becomes eligible to take up the 
+activity of the performance of obsequial rite 
+afterwards. He becomes an enjoyer of 
+Brahmaloka after a single journey to Gaya and 
+by a single offer of rice balls which is otherwise 
+extremely difficult to achieve. Herein there is 
+no provision. 
+As a result of delinquency or remissness, if 
+one dies in this Ksetra (region) of Brahma and 
+others, he attains emancipation. By the 
+knowledge of Brahman, the way emancipation 
+is gained, there is no doubt in it. 
+ehlehdlfc^dHi rf fe&TT dKUliq xH 
+For the redemption of manes who died due 
+to Kikata (wormbites etc.), an expert deserves 
+to be perform (the obsequial rite) by all means. 
+To the Brahmanas, one may adore by Havya 
+and Kavya oblations or clarified butter or 
+offerings guided by the Vedas. The oblation of 
+food reaches to the deceased ancestors. By 
+these, all the gods along with the manes get 
+gratified. 
+1. V.S. Apte, p. 602. 
+iiww fesm 
+1%?TTrft fcK^T 
+Shaven head and abstinence from food in all 
+the tlrthas, viz. Visala (Ujjayim) Viraja (Jajpura 
+in Cuttack district of Orissa) and Gaya barring 
+aside Kuruksetra, is a well-ordained tradition. 
+fqfRr: ^ wftii^ii 
+A recluse need not offer Pinda (rice balls) 
+after going to Gaya. Having placed his staff at 
+Visnu-pada2 (the step of Visnu), he gets 
+emancipated along with Pitrs (manes). 
+? cfogt fefe? 81% qrni WHsfel 
+3RT: felt rUcft^l feat safer 'W^:ii 
+O S3 
+A staff-bearer incurs no sin or acquires no 
+merit even by real norm. Therefore, having 
+given up all activities, he meditates upon Vi$nu 
+as an emotional being. 
+11 ^ 611 
+One may renounce all acts but may not 
+abandon the Vedas alone and may take to head¬ 
+shaving outside the limits of the holy centre in 
+the east and also in west or south-north. 
+fe ferr dgulfaiHj 
+MSshty wn&r 
+The area of the holy place Gaya is two and a 
+half krosas (1 krosa = 5 km.), as declared by 
+Brahma. Five krosas is the area of Gayaksetra3 
+and one krosa is the measurement of 
+Gayas'lras4. 
+fife* ferfe% fef fef tl 
+srngeprt i i 3 o 11 
+In the midst of those are all the tlrthas that 
+do exist in the triad of worlds. An obsequial rite 
+2. Caranadri or ChumTra being Visnupada giri (hill) at 
+Gaya, As SIGOAAMI, p. 107, Dr. D.C. Sircar. 
+3. As SIGOAAMI, p. 285, Dr. D.C. Sircar. 
+4. Ibid.
+
+## Page 425
+
+Chapter-105 
+393 
+performer who happen to be in Gayak§etra, he 
+get freed from the indebtedness of the manes. 
+TTIR Jlfall 
+iWTt V t[^ TJ^ll? ^11 
+And he who offers Sraddha at (Gayasiras), 
+may get redeem a hundred of his lineages. By 
+one moved from the house as per destination as 
+Gaya, he attains to the rundle of riding as to 
+Svarga (heaven) for the manes at every pace. 
+^ TTESRTt W(l 
+At every step taken (by the son) in his 
+journey towards Gaya, the fruit of Asvamedha 
+is accomplished by him, there is no doubt in it. 
+Mra^Hlfil xJW ^TripT cTTI 
+LhHMHI^-Mmt fMU^LUcMMJ 1^ ^ 11 
+With Payasa (rice-milk porridge), Caru (an 
+oblation of rice, barley and pulse boiled for 
+presentation to gods and manes)1, oat-meal or 
+barley-meal, ground-flour (Pistaka) with rice 
+grains and fruits and bulbous roots and the like, 
+the offering of a Pinda in Gaya is done. 
+<JSTT cfT WTT55J ^ril^^ll 
+With emulsion of sesamum, sugar (khanda) 
+and traceable or molasses (guda) suffused with 
+ghee or with curd alone or with Urja (sap)2 3 and 
+honey (the Pinda is to be offered). 
+fttniTcR TT^RT Tsmt 
+eraser 
+Pinyaka3 (oil-cake, incense, saffron, 
+Asafetida), ghee-saturated sugar (khanda) is 
+quite indestructible for the manes. Or worship is 
+performed and any seasonal fruit is offered as 
+1. V.S. Apte, p. 204. 
+2. V.S. Apte, p. 119. 
+3. V.S. Apte, p.336. 
+food or Havi§ya food is also offered as 
+mentioned by the sages. 
+TjcJJrT: flcScHdft TTTcTfo f|l 
+^kT:ii^^ii 
+On one side are all the articles of offering 
+such as clothes and things sweetened with 
+honey. On the other side is the sacred water 
+from the holy centre Phalgu brought after 
+meditating on the lotus-like feet of Gadadhara 
+(Vr$nu). 
+ftnigreR fttrg^R 
+ftrfsr:H3'3ll 
+The procedure of the Sraddhas at Gaya is 
+this- First Pindlasana*\ Pinda-dana is done, 
+then Avanejana rite is performed (in which 
+water is ritualistically sprinkled on the Darbha 
+grass); charity is then done and finally 
+Annasamkalpa5. 
+1^rcn^:ii^<iii 
+Neither invocation to deities; nor the 
+quarter-binding; nor even the fault created by 
+vision is there during the performance of a 
+Sraddha. An obsequial rite deserves to be 
+performed at a tlrtha with due sympathy. 
+3T^raTSS^Tf%rTT: fwt ^R*nj 'Sffal 
+^ crater d-wi<icii^ q- f|u^u 
+In other places, the Pitrs if and when 
+invoked at the proper time, go there. But they 
+always stay in the holy centre. Therefore, the 
+invocation fails as such. 
+strt rrsTT 4m ftrrot%q;ii 
+By a man performing obsequial rite at a 
+tlrtha, cherishing a fruit, all the rites deserve to 
+4. A seat assumed for offering of rice balls in an 
+obsequial offering. 
+5. Ritualistic verbal utterance of one’s intention of 
+offering food.
+
+## Page 426
+
+394 
+Vayu-Purana 
+be performed having taken leave of kama, 
+krodha and lobha (lust, wrath and greed). 
+A single-mealed one, a celibate sleeping on 
+the bare ground, truth-speaking, pure one, 
+engaged in the beneficence of all beings- that 
+one attains the fruit of a tlrtha. 
+trum?: *T fetat *TT %j^rchmchKch: II 
+The staid one, chasing the tirthas, may take 
+leave of heretical tendency to begin with. A 
+Pasanda or a heretic may he be called who is a 
+wanton-willed one. 
+sfe: cfctf ejv^fcr 
+yf^rvif^T M^iugq nr <si^m<i^uu:tr^^ u 
+The way the knowers of Brahman take to the 
+Vedya (the acts fit to be known) or Vedic ritual 
+with full-concentration of mind, similarly the 
+self-possessed persons performing the holy rites 
+in the tirthas enter Brahman named Paresa (the 
+supreme lord). 
+FUSS'S) IrTToft THT tcTteqffedTI 
+(wcmtmf fernt ttkoito in 
+tirt) fir^iricCc^^eg^ri 1x 11 
+The VaitarnI named stream, well-known in 
+the world triad, descends in Gaya-ksetra for the 
+redemption of the manes. One who takes bath in 
+the Vaitaranl and bestows away cows redeems 
+his twentyone lineages. 
+<^rycRf^Hir^yv^o44choi4ir<His^r?Tu 
+fcp^ffdVfT: Traf: fefa: ^ ^RTTtllxmi 
+After going to Aksayavata (the eternal holy 
+fig tree), the devotee should gratify the 
+Brahmanas there. To the Brahmanas trained in 
+Brahman, he may adore with Havya and Kavya. 
+If they are gratified, all the Devas along with 
+the manes (also) will be gratified. 
+Wt ? ft doWlHt ^ q- fqutl 
+wfezf crrmi^ u 
+In Gaya, there is no spot where a tlrtha do 
+not exists. Proximons to all tirthas, the Gaya- 
+tlrtha then is the excellent one. 
+ifft m felt Zr&m qtl 
+WIT <3^d s^^ET: WII 
+ftf Wm fMU^qidH^II^^II 
+When the Sun stoods in the Zodiacs of Mina 
+(12th sign of the zodiac Picas), Mesa (the sign of 
+the zodiac Aries), Kanyd (the sixth sign of the 
+zodiac Virgo), Dhanus and Kumbha, if one 
+could offer Pinda at Gaya, then it is a rare 
+achievement that cannot be had anywhere else 
+in the three worlds. 
+jp'faf fe 'HIdid WSTTIg 
+Similarly when a Sraddha is performed at 
+Gaya when the Sun is in the Zodiac Makara and 
+also at the times of the eclipses of the Sun and 
+the Moon, it is a very rare opportunity, 
+inaccessible in the three worlds. 
+wm wti dT:l 
+^ d^cKl tPETT cR§ 
+By offering of a Pinda in Gaya, the fruit that 
+a man obtains, that same is not fit to be 
+described by me even in hundreds of crores of 
+aeons. 
+W W *
+
+## Page 427
+
+394 
+Vayu-Purana 
+IIrn M^ly<*>VlddMlsarW:ii 
+Chapter 106 
+The description of the Importance of 
+Gaya 
+H 
+WtTT: cJSj fcCTTrM^:l
+
+## Page 428
+
+Chapter-106 
+395 
+HWtf 33T eft 3ST ^feTTII^II 
+Narada spoke- How did Gayasura take 
+birth? What was his power and what personality 
+did he posses? By him, how was penance 
+performed and how did his body acquire 
+sanctification? 
+sr^TT 
+TRTT: Wtrfi: foWHTIRII 
+Sanatkumara replied- Brahma, the grandsire 
+of the Brahmaloka, was bom of the navel lotus 
+of Vi$nu. He created progenies at the instance 
+of Vi§nu to begin with. 
+OT'^Vlcr ^r 
+By the demoniacal norm, he created Asuras 
+and by the emotional disposition of mind, he 
+created the Devas of Suave intentions. 
+%jRTCT mti ^ w rTW^T: *p:imi 
+Gaya was an Asura of highly formidable 
+heroism. His height is remembered to be one 
+hundred and twenty-five Yojanas. 
+^tT: urg^^TH'l ^rgts^fr ^mef: 1 
+His girth was sixty Yojanas. He is known as 
+the most excellent Vai?nava (a progeny of 
+Visnu). On the excellent Kolahala mountain 
+(the Brahmayom hill in Gaya), he performed an 
+austerity of austere norm. 
+f^re^rRT f^rrrs^racTi 
+cMnwifiKn ^arr: wt trtt:h^t( 
+For good many thousand years, he became 
+insensate, being breathless one. Tormented by 
+that penance, the gods attained to great 
+exasperation. 
+tfKIHlcfi TMT %c|T: fWIWTl 
+WgTT^ WT 
+The gods went to Brahmaloka and spoke to 
+Pitamaha (Brahma)- “Safeguard us from the 
+demon Gaya, O Lord!” Brahma then replied to 
+the Devas. 
+cjcrc srpursr trtt: fiOTi 
+“We shall go to lord Sankara.” And the 
+Devas headed by Brahma went to Siva. Having 
+gone over to Kailasa, they spoke out- “Rescue 
+us, O god, from the mighty demon!” 
+trw #tti 
+#TT®flr ^ ^ fgiTRzrf^ll 
+Sin few q?gT 3T^f:ii<?n 
+To Brahma and others, replied Sambhu- 
+“We shall seek refuge in Hari, in the 
+Ksirasagara (milk ocean), O lord of all Devas! 
+He shall offer security (lit. benefices) to us.” 
+Brahma, Mahesvara and other Devas bowed to 
+Visnu and became satisfied or overjoyed. 
+dncj * 
+^bqrrr vf wrt wfauaMi 
+The Devas spoke- Om! Obeisance to Visnu, 
+the overlord, the one overpowering all the 
+shining ones, the victorious one and the 
+devourer of demons and others. 
+erfilHJT% IRRM ^nrt qrr:ii^u 
+The bearer of all, the one going beyond all 
+Yogins, the augmentor one, the one being an 
+intermediary agency, obeisance be to the 
+gleaming one, obeisance be as such. 
+o 
+Sanatkumara spoke- This way adored, 
+Vasudeva offered appearance to the Devas and 
+(said)- “What for have you come, O gods!” 
+This way questioned by Visnu, they replied.
+
+## Page 429
+
+396 
+Vayu-Puraga 
+“Protect us from the fear of demon Gaya”, 
+they spoke1 to Hari. Then Hari spoke- “May 
+Brahma and other gods go near that demon, I 
+shall follow thereafter.” 
+sfeypsfr <rrerWi =rt 
+Kesava, mounted on a Garuda, started with a 
+view to offer a boon to Gayasura. All those 
+excellent ones proceeded having occupied their 
+individual vehicles. 
+314^41gift d^ci r3<lll 
+WRMi: Tii ert wgru^n 
+Vasudeva and others spoke to him- “For 
+what purpose, this penance is being performed 
+by you, O Gayasura? We have all arrived here 
+folly satisfied. You may ask for a boon.” 
+^ <TgT: "W 
+4^cd^Tfd'«Tr 
+tvieiiemn^i 
+^Pn^jrftr tR^rtii^ii 
+afqfrsr wr vt-.i 
+o 
+?r(^r)f?nrf^^r: ^fer: w Tnrtii^ii 
+Gayasura spoke- In case you are pleased 
+with me, 0 Gods, Brahma, Visnu and 
+MahesVara, may I be ever holier than these- 
+than all the gods and Brahmanas; than all the 
+Yajnas, tlrthas and Silocaya (mountains); than 
+all the sages; than even the unchanging Siva; 
+than all the Mantras; than all the lords of Devas; 
+than all the Yogins; than all the renouncers; 
+than all the performers of holy rites; than all the 
+religious ones; than all the sacred Yatis. 
+TjfoRng rt IfcnjeRtJT 
+1. 31 is an error for 3Tg^ in verse 13 or 
+31-sHMR: i 
+^gT ST ^gT ^ frfTdt 
+“May you be sacred”. This way having 
+spoken to that demon, the gods went away to 
+heaven. Having seen and touched the demon, all 
+went to the capital of Hari. 
+3TRT ^RTT 
+^TTsf g^lrileh | ^ o 11 
+The world triad became void and the whole 
+city of Yama became void. Yama, then along 
+with Indra and others went to Brahmaloka. 
+ggTtTPgfe) ^5TT W4TTf3#fcTT:l 
+c5rit ^rsiiranfr ^ fwrgip ^11 
+The gods, obscured by Gayasura, spoke to 
+Brahma- “By you has been given the authority. 
+You may accept back that, O Pitamaha!” 
+5TpT5'#yl"Tidr iforeamt 
+rl<#ITUy: fTpTI 
+ell^cf) g^Tfot 4T 3II 
+Brahma then spoke to the Devas- “We shall 
+go to Vi$nu, the imperishable one”. And 
+Brahma and others spoke to Vi§nu- “Since the 
+Asura (demon) has been conferred a boon by 
+you, all the people have been proceeding to 
+Svarga (heaven) by a mere sight of him. The 
+world triad have become void.” Addressed thus 
+by Devas, Vasudeva spoke these words to 
+Brahma. 
+“Go and request the Asura thus, ‘Give your 
+body for the purpose of a sacrifice’.” Urged by 
+Visnu, Brahma went there accompanied by 
+Devas and saw the great Asura. 
+)|Aimm5i41^i srenuj ^i 
+fafaewrarri: 
+Having seen Brahma along with other gods, 
+Gayasura got up, adored them as per decorum 
+endowed with devotion and spoke out.
+
+## Page 430
+
+Chapter-106 
+397 
+35JTET 
+STH Tf Wm 3RI 3HT *T rTtf.l 
+«<(l«ldl5fri(5ls}$l TT=f 3IM tTOTS'SI ehl^ll 
+Gayasura spoke- “Today my birth has 
+gained its fruit. Today my penance has gone 
+fruitful, as Brahma has come to me as a guest. 
+All stands achieved by me today. 
+ild^MFldf chlcUOll^ll^ll 
+0 Yogin! O Yogangavit (i.e. conversant 
+with the ancillaries of Yoga)! O Master of the 
+entire world! 0 Sire! O Preceptor! I do 
+accomplish the work of yours for which you 
+have come.” 
+w wri 
+^nsf qr f tt rnfir yfeif&T iprtaiRdii 
+Brahma replied- All the tlrthas (places of 
+pilgrimage) seen by me while on the prowl, are 
+not as pure as your body, for the purpose of 
+sacrifice. 
+r^TT Ufaafci TIM fgtnjTOT^T: I 
+3R: trf^ ^ II 
+By you in frame, purity has been achieved 
+by the grace of Vi§nu. Therefore, 0 Asura, you 
+offer to me your pure frame for the purpose of a 
+sacrifice. 
+^ Tnsaft FiRTTI 
+fq^?T: cpTsif if c& m cfiftfa %^II3 oil 
+Gayasura replied— I stands blessed, O gods 
+of gods (Devadeves'a) that by you, (my) body is 
+being solicited as such. In case you offer a 
+sacrifice over my body, the manes in my family 
+shall be contented. 
+dfcRd cp:l 
+o 
+By you alone has been created this body (of 
+mine) and by you only, it has been rendered 
+sacred or sanctified. For the benefit of all, may 
+the sacrifice comes to an existence. 
+frfrficlT ^dchc^l W*TT:I 
+Having said so, the demon Gaya, collapsed 
+on the ground during the Svetakalpa. He 
+adhered to the south-western quarter on the 
+Kolahala mountain. 
+frdcfrcd TTrStR^rtfl' WffGI 
+tr^r <*ihi^H' fhfrn^^ii 
+Having turned the head in the north and 
+having directed the feet in the south, Brahma, 
+having requisites gathered, created the mind- 
+bom sages. 
+aiPH^uin^d ^i 
+<§gfsr wi 3^113*11 
+tTRT^Tt eUM WljJcy ^<^^11^mi 
+Sfct Tg^TTct ■pit gRftfg rll 
+^ nsrarf ^ *ni^n 
+cFTriinr-i ri 
+whirral tfm m\ ggf?rawH;i 
+^nfgnt ^ ^iw?ii3<iii 
+wcrffRpfapRj tRWtri 
+They were- Agnisarman, Amrta, Saunaka, 
+Janjali, Mrdu, Kumuthi, Vedakaundilya, Harlta, 
+Kasyapa, Krpa, Garga, Kausika, Vasistha, the 
+sage Bhargava, the indestructible one, Vrddha, 
+Parasara, Kanva, Mandavya, Srutikevala, Sveta, 
+Sutala, Damana, Suhotra, Kahka, LaukaksI of 
+huge mighty arms, Jaiglsavya, the Brahmana 
+Dadhipancamukha1, Rsabha2, Karka3, 
+1. Pauranika Kosa, p. 215, One of the Rtviks of the 
+Yajna performed by Brahma on the body of 
+Gayasura in Gaya. 
+2. Ibid., pp. 71,88. 
+3. Ibid., pp. 71,88.
+
+## Page 431
+
+398 
+Vayu-Puraga 
+Katyayana, Gobhila, the sage of great fierce 
+rites, Supalaka, Gautama, Vedasirovrata, 
+Jatamalin, Avyagra, the terrible Catuhasa, 
+Atreya, Angiras, Aupamanyu of great holy rites, 
+Gokarna, Guhavasa, Sikhandin and Umavrata. 
+TJWTW2J f^RT^T tftgrfiMFlg: I 
+MReb^lch^gJMi ■TOTWRto&ll'iSoll 
+o 
+After creating these and other lordly 
+Brahmanas, Vedha (Brahma), the grandfather of 
+the worlds, took to a sacrifice on the body of 
+Gayasura. 
+gr^qwscnfoft wrs<gg:ii'«*ii 
+^ ^ g^T: TrfdfydT:i 
+xi f^WT 3%JTT ^11*911 
+Agnis'arma1 without wasting his penance, 
+created these five fires from his mouth- 
+Dak$inagni, Garhapatya, Ahavanlya, 
+Tapovyaya and two Avasathya. 0 Devarsi! the 
+Yajnas are established on these and for the 
+honour of the Yajna, he offered daksina to the 
+Brahmanas. 
+gW hU|)jjfrj fl 
+g?r^T wwta WTwjt^n 
+Having offered the complete oblation 
+(Purnahuti) and taken the bath of Avabhrtha, 
+Brahma caused the sacrificial pole to be brought 
+along with the gods and fixed it. 
+gwn: mg: # mgwmfari ^wti 
+gRrd&ifyw gw 
+That auspicious post was fixed in the 
+Brahmasaras which is the most excellent of all 
+lakes. Embarrassed and surprised, Brahma 
+moved off and spoke to Dharmaraja. 
+wtt tj? rig ftiw ggTgWRwrggi 
+tmg fmfg rTt mv wssggnixMi 
+“In your house, there is a slab of stone. 
+1. Ibid., pp. 11-12. 
+Without promenading, bring it here at my 
+behest and fix it on the head of the Daitya ” 
+fVRHRI 
+iYFTTqt wfxmi 5 
+Having listened to it, Yama supported the 
+stone slab on the head of the demon to keep him 
+steady. The stone slab having been placed, that 
+demon moved off having stone slab 
+accompanied. 
+^[R^sg fgsw: fagri 
+^gr: ggiMiwSicggw g ^ few.-iugii 
+Then he addressed the gods headed by 
+Rudra- “O gods, you may stay unmoved on the 
+stone slab”. They said- “As you please” and 
+stayed along. 
+^gi: rRTTSft gifWTtSfT: I 
+gw^g osngjRt fgw gg: sfuifeiyiRRuji 
+ggrg mumi gw gw giss^g g gmrirtf iii 
+The Devas pressed the slab with their feet 
+and noted that the demon even then moved off. 
+Then Brahma, perturbed as such, proceeded to 
+Vi$nu who was reclining over the milk ocean. 
+Having gone prostrated and bowed down, he 
+honoured that Supreme Lord. 
+gwgrg 
+g^iusw tr) gig ggrfg gggf trfgrjj 
+gfg gif^ggi wn 
+Brahma spoke- 0 Lord of the Primordial 
+Egg! O Lord! I bow down to the lord of the 
+mobiles, the goal of persons possessing glory, 
+the granter of worldly pleasures and salvation. 
+t TT OTMII 
+ffT: cfcTII^ o f| 
+Vi§vaksena spoke to Visnu- “O Lord! To 
+you belauds Padmaja (the lotus-bom one i.e. 
+Brahma). Hari spoke- “You may bring that 
+one”. And having been urged by Visnu, he 
+brought him. To Aja (Brahma) spoke Hari- “On
+
+## Page 432
+
+Chapter-106 
+399 
+what account you have come to me”, you may 
+speak that.” 
+<$cTt 3FT y^TEn^r WgT:l 
+Brahma replied- O God of gods, when the 
+sacrifice was performed, Gayasura moved even 
+when a stone slab of the framework of the Gods 
+was placed on his head. 
+f%PTTsf f? Wt TnqcniH?ll 
+Even when the gods headed by Rudra and 
+others were stationed (over it) there, the demon 
+quaked. Now be pleased to make it steady, O 
+Madhava! 
+Sgruit 3rR gllcfcttj ^TTtTrf: I 
+ftgrrcsf unit 
+Having listened to the words of Brahma, the 
+adorable Hari pulled out a idol from his person 
+and gave it unto Brahma to stop the restless 
+quaking of the demon. 
+3?Rta Tjfir wrcfa f^rrat wit^ti 
+Having brought the idol with him, Brahma 
+adjusted it on the stone slab. Even then, the 
+(demon) was seen as mobile, so he invoked the 
+lord again. 
+3TFTHI fguiT: gjtTREt: fvRrirai 
+Mug(i<*rdnmdii 
+r^iriwi % 
+csimmi 
+Having come from the milk ocean, Vi§nu 
+himself, became stationed over the stone slab, 
+with the name of Janardana and also by the 
+appellation of Pundarlka. The primordial mace- 
+wielder himself stood there to steady the slab, 
+for stabilising (the demon). 
+fadP#S2T c£3H: 
+$rpT few: wd |cHi4i*:i 
+For stabilising (the demon Gaya), Brahma 
+divided himself into five, viz. Prapitamaha 
+(Great-grandfather), Pitamaha (Grandfather), 
+Phalgvlsa (Master of Phalgu), Kedara and 
+Kanakesvara. Brahma in the form of an 
+elephant-normed Vinayaka (i.e. Ganes'a) stood 
+there. Gayaditya, Uttararka and Daksinarka- 
+these were the three manifestations of Sun. 
+tfldlfelFFt Tfrff rt 
+^Tnfoft fawnei fuwdlimdii 
+Lak§ml stood there in the name of Slta, 
+Gaurl in the name of Marigala and Sarasvatl 
+stationed herself in three forms, viz. Gayatri, 
+Savtirl and Sandhya. 
+f^T w tyrant: i 
+(irrwt %srcnra;:ii 
+Wifd>fa:ii^H 
+Indra, Brhaspati, Pusan, the eight highly 
+strong Vasus, Vis'vedevas, the two AsVinI 
+Devas, Maruts, the leader of the universe 
+accompanied by Devas, Uragas and Gandharvas 
+stood there along with their respective Saktis 
+(powers). 
+otswt TT^rr Enrft! 'dHirtry 
+fw ?fwr WWTc(Tf?TT?m:ll^o|| 
+Since the Daitya was brought to stagnation 
+by the primordial club and Hari stood there, on 
+that account, he became famous as Adi- 
+Gadadhara. 
+TORjTt ^ir^P'4 ^fwr ^rpri 
+Wisf ifnit ^ ?i(1wh4 wii 
+Gayasura spoke to the gods- “What for have 
+I been duped as such”? For the purpose of 
+Yajna, I have offered my pure body unto 
+Brahma. Would not have I been steady at the 
+sheer instance of Visnu?
+
+## Page 433
+
+400 
+Vayu-Puraija 
+utferuiutf ttfit tfrm mn 
+usr?^arr: jrcrerr: tr^tii^ii 
+Why have I been tortured by Suras and Hari 
+with his Gada (mace)? And if I stand tortured, 
+then may all gods grow jubilant perennially.” 
+■*ret 
+Gad&dhara and others were pleased and they 
+all spoke out simultaneously to GaySsura- “You 
+may ask for a boon. We are happy”. Then 
+replied GaySsura to Devas. 
+mctRaiHKJi 1^5 g?llgwjq|^RT:ii 
+if OTT $5PTCT tll5*l| 
+“As long as the earth lasts, as long as the 
+mountains, the Moon, the Sun and the star 
+remains, may Brahma, Vi$nu and Mahesvara 
+stay on this stone slab along with all other gods. 
+Let the holy centre be named after me. 
+*rarfyR:i 
+rPT«zr «4MPi 
+May five krosas be the Gayak$etra and one 
+krosa in extent be Gayasiras. In the centre of 
+that, may all the tirthas offer beneficence to 
+men. 
+WMlfcrCfoi 3pcfT fqoi^RTrd^ntira^l 
+Having taken to the gratification by bath and 
+by the offering of pinda and the like, one may 
+obtain the fruit and becomes a Mahatma and 
+may redeem a thousand members of his lineage. 
+oTThT<^T^*si)U| %rf ^Tl 
+TT^raT: <rllc»ilc^M*<lr«c(iyHivi4i^||^V9|| 
+By imperceptible and perceptible form, you 
+all stay here perennially and may Gadadhara of 
+your own form, be the obviator of all sins in the 
+world. 
+91KS Triw* ifut W5 h 
+sr^n%) mu *r ^Primii^ii 
+May those on whose behalf the Sradclha has 
+been performed and Pindas offered, go to 
+Brahmaloka. May the sins such as the murder of 
+a Brahmana and the like of those who report to 
+this holy centre come to a cease. 
+TJfTRRTTfu ^oJRTf^T:ll 
+WUT-5 ^UTt f%rt ^TTMI^ ^ II 
+May all holy centres such as Naimi$a, 
+Pu?kara, Gariga, Prayaga and Avimuktika1 and 
+other tirthas (places of pilgrimage) come along 
+from heaven, land and atmospheric space and 
+offer beneficence unto all men, O Devas. 
+ef^eFrUI WTUTT UUt|'+4bt>Tsfcr i^rTTI 
+grfu w: n 
+What use is prolixity, 0 Gods! Unless one 
+of you Devas stand (on this stone slab), I too 
+will not be steady. This is the condition. Let it 
+be strictly observed.” 
+wpu: yi^^njcn<u; ip;i 
+U3llf&i ^ 
+Having heard the talk of Gayasura, the 
+Devas headed by Vi?nu replied- “What has 
+been said by you, all that shall happen to be 
+undoubtedly. 
+UTKtfcT UTUt ufa^l 
+? it 
+Having adored our feet, you will go to the 
+highest state.” After receiving the boon from 
+Devas, he became overjoyed and remained 
+steady. 
+fWchf c^T^T:) 
+umisr uiruwRui^?Tt' w totii 
+^ f^3TRIuhw^UcIFTII^?ll 
+uitosr mfwmifdchiw^i 
+rnhaxil 
+1. A name of Varanasi, Pauranika Kos'a, p. 35.
+
+## Page 434
+
+Chapter-106 
+401 
+■qpiclt f^TTW^TTtftr *TI 
+^elU^fe <y^H?llf<M4dlHI|\3mi 
+i '<*ra«|^ feMT shii^cmi ^tst-.ii^ii 
+When the Devas were stationed as such, Aja 
+offered unto Brahmanas1 fifty-five villages and 
+the holy centre of Gaya extending to five 
+kros'as. Having created divine buildings 
+equipped with all the paraphernalia, he offered 
+Kfimadhenu (wish-yielding divine cow), 
+Kalpavrksa and Parijata and other trees. A 
+great river of milk, many streams of ghee, 
+exudations of honey, streams of honey, lakes 
+rich in curds etc., a lake of gold, many hills of 
+cooked food etc. were given. Brahma created 
+different items of food and fruits and gave them 
+all to the Brahmanas. While giving these things, 
+Aja said- “0 leading Brahmanas, do not beg of 
+others”. 
+0gicHi<* TOit srif^wrPTi 
+SnfaFT xj Hmit KRlfdcfiHJ 
+MT WT 5fi^U|iWloVlVlN ?IH9dll 
+Having given away all these things and 
+having bowed to Adigadadhara, Brahma went 
+to Brahmaloka. The Brahmanas of Gaya 
+officiated as priests of Dharma in his sacrifice at 
+Dharmaranya and later begged him. Owing to 
+covetousness, they accepted monetary and other 
+gifts at the sacrifice of Dharma. Brahma came 
+there and cursed the Brahmanas. 
+cfedei'dl wr fto Racial fin 
+dWIfJUlfae&t TO qRlbilPr (8T) ^%TT:||\3<? 
+TOroi wigiR^i tot inmuin4dii 
+TOTTOt dlRcIgT yajdiy TOT TJ^T:ll<io|| 
+“When everything had been offered by me, 
+even then you wished for more, O Brahmanas. 
+t. V.S. Apte, p. 7, Name of unborn- Visnu, Siva or 
+Brahma. 
+Therefore, you will always be under debts. The 
+river shall flow with water only. The hills of 
+foodstuffs will turn into those of rocks. All the 
+rivers shall be flooded with water and your 
+abodes will be of mud. 
+cf^UTT q<rHl*MMfd8dlHJ 
+^ W $6iuil % ^11 
+The trees of Kamadhenu and Kalpavrksa 
+will come back to my region.” This way cursed 
+by Brahma, all those Brahmanas humbly spoke 
+to the Unborn deity. 
+tftewri TO? qt 
+“0 lord, everything that was gifted by you 
+has become infutile due to your curse. May you 
+be kind enough to assign something for our 
+livelihood”. 
+TOpTT 'sllflUIKfll MldNci <i|lRdd:l 
+ifRrrwtfg^iT «rRfui«ui<i^ii 
+Having heard these words, the Brahma 
+sympathetically spoke to the Brahmanas- “As 
+long as the Moon and the Sun shine, you will be 
+maintaining your livelihood by means of tirthas. 
+^Ttapnr: gw tort % snf^rt i 
+totrT trt ^rt: wimto 
+Those meritorious persons who perform 
+Sraddhas in Gaya will attain Brahmaloka. I will 
+also always be considered adored by those who 
+adore you.” 
+3Tra=rRT sr^ur 
+qnfaejpnrafr g UT fgw fwnidMI 
+The Jathara or abdomen of Daitya is 
+circumambiated by the righteous mountain 
+Viraja. Near Nabhikupa (the umbilical cavity), 
+the goddess Viraja stays as such. 
+m fau^iR-cb ^c^nr 
+tot ^fro^ftii 
+rfsT fillip I fc^rWifl c^HI-d^Tcf TO: 114^ II
+
+## Page 435
+
+One who offers pinda (rice-ball oblation) 
+and the like therein may redeem his 3x7=21 
+lineages. By Mahendragiri, the feet of that one 
+(demon) were rendered nicely steady. The man 
+offering pinda there (on the mountain 
+Mahendra) redeem his seven lineages.
+
+## Page 436
+
+402 
+Vayu-Purana 
+II3T8T WTfe^TcTcrRts^T: 11 
+Chapter 107 
+The description of Gay§ continued 
+eRSj W&m WRT:l 
+v3 v3 
+1% WT f% Hl$lc«i ctW 1% •tTU ^TII^II 
+Narada said- How did Sila (slab) took birth 
+when Gayasura was attacked? What is its form 
+and what is its importance? You may dilate 
+upon and tell its name. 
+Scire 
+o 
+faWHT ET SSUSt <N<JsMlUKlU|lll?ll 
+Sanatkumara replied- There happened to be 
+a person Dharma of great physical valour, the 
+one gone beyond the range of all the sciences. 
+Visvarupa was his the spouse who was highly 
+faithful to her husband. 
+wi c&2tt snfcrn wh 
+ouiiiy<*111311 
+In that one from Dharma was born a 
+daughter named Dharmavrata i.e. one having 
+vow for piety and fidelity endowed with beauty 
+and youth like LaksmI, being excellent in 
+merits. 
+cTW 3 cl W 
+\3 S3 
+SUlf erfsMWIW TTPfcRIlYII 
+\3 \3 O *S 
+Whatever merits exist in the three worlds, 
+they were present in her. Dharma searched for 
+an appropriate bridegroom for Dharmavrata in 
+all the three worlds. 
+srt M srafssr ck^^i 
+rHT: 3T5 cRlsf S$H1<KEIT cR ^TfllMI 
+s3 
+But he did not obtain a suitable match. 
+Dharma, then for a suitable match, told her- 
+“You may perform a penance for the sake of a 
+suitable match”. She said, “So be it”, and 
+proceeded to the forest. 
+3PTT *TT ^ ST mil 
+JTTII^II 
+That maiden performed a very severe 
+penance which was difficult to be performed by 
+anyone. Subsisting only on the wind, she spent 
+ten thousand Yugas in that Sveta Kalpa. 
+^TRTT: ipTt tmfeqk $m:\ 
+mfcgfsret mcrf ^ ire 11 
+Of Brahma, the mind-born son is well- 
+known as Marlci. Roaming along on the whole 
+earth, he saw that gem of a maiden. 
+wjkwnraT Ercfa ftserm 
+nfrflrrsr ^ trssiren 
+Endowed with beauty and youth and 
+established in austere penance, to her 
+questioned Marici then- “Who are you and to 
+whom you belong? You may speak. 
+^UII^H Tri ^5 
+fcHsUMl 1: 11 ^ II 
+O timid one! O you of a handsome vow! By 
+this beauty of yours, you are entrancing me. I 
+am the son of Brahma, well-known as Marici. I 
+have gone beyond the (knowledge) of the 
+Vedas.” 
+■crffENiER r trimri 
+3T? snJsRTT Rm mkm dUlPcISTII^oll 
+Having heard the words of Marici, the 
+maiden replied to that sage- “I am by name
+
+## Page 437
+
+Chapter-107 
+403 
+Dharmavrata, the daughter of Dharma. I am 
+endowed with austerity. 
+yfdsldiyf WT cHT: I 
+I am observing this austere penance for the 
+wooing of a good husband, O excellent 
+scholar!” Then Marlci spoke out with affection 
+to Dharmavrata, 
+MptgMI 
+”0 auspicious-vowed one! You will become 
+one as having vow for a husband on a mere 
+sight of mine. I am roaming day and night on 
+the earth, only with a desire to meet with a 
+chaste lady. 
+#3; 1 <S^TT Wf ? % 3R:ll^ll 
+In case, you are born as one having faith in a 
+husband, then I adhere to you and you adhere to 
+me as a suitable match. In the world, there is no 
+other maiden of you stamp and there is no 
+suitable match for you like me. 
+snfect snfaqt dWTci -ra i(smu 
+SpferTT TfT? ST$ WZW ^pRTII^II 
+O Dharmavrata! On that account, you may 
+become a lawful wife of mine now.” 
+Dharmavrata thereupon said to the sage- “You 
+may ask for it from Dharma (my father), O sage 
+of good rites.” 
+<* -o v 
+Having heard that, he went to Dharma and 
+Dharma saw the sage. Having seen the suitable 
+match, being a heap of radiance, he worshipped 
+or welcomed him with seat and material of 
+worship. 
+■stcfh gsff ^gT rt chichi crth 
+w SfRjt rr rtf M3 ^tiifdll^ll 
+“What for you have come”, this way 
+questioned, Marlci replied to Dharma- 
+“Roaming over the whole earth for a maiden, 
+your daughter, the excellent one, has been seen 
+by me. You may bestow that daughter (Kanya) 
+of yours unto me. It will be (all) welfare of 
+yours.” 
+srerfpMi unvid snf: <nri 
+spirit ■HMIdfa ^<3iwi ^fTEmil^ll 
+Having adored him with material of worship 
+and the like, Dharma spoke to him in the 
+affirmative. Having summoned Dharmavrata, 
+he offered her to Marlci. 
+STpITO ^Tl 
+He offered him (the Brahmana) wealth, 
+ornaments (lit. gems) and bestowed a boon unto 
+him. He fulfilled the promise made. The 
+Brahmana took her to his own hermitage 
+accompanied by Agnihotra (sacred fire). 
+Tg •rPtwtt tttsJ mn f^ui: firar 
+xn%n rr -m mwrT -m ^nr-.ii^ii 
+The sage sported in her company like Visnu 
+revelled with Sr! or Sarhbhu revelled with 
+Parvati and the way Aja (Brahma) revelled with 
+Sarasvatl. 
+TTfrf^T: th'H>WTsf SR TTc^r WH<T:IRo|| 
+Marlci begot of her a hundred sons who 
+were veritable peers to Vi§nu. Once Manci, for 
+the sake of fruits and flowers, went to the forest 
+and returned. 
+SfFrT: ebcjlfclfri qRlqdl^fd MPdqmmj 
+^11 
+Fatigued as such, he spoke to his spouse, the 
+faithful one- “After taking your meals, massage 
+my feet, even I lie down on the couch”. 
+snfgRTT d^Stcn W MT:l
+
+## Page 438
+
+404 
+Vayu-Purana 
+Dharmavrata said- “All right”. Having said 
+so, as that sage lay down on his bed, she took to 
+the shampooing of his feet by means of ghee 
+with eagerness. 
+snpM 5T^IR3II 
+On the sage taking to a nap, Brahma came to 
+that spot. And having seen Brahma, she was 
+placed in a dilemma- “Shall I continue to 
+massage the feet of my husband or honour the 
+Jagadguru (the preceptor of the world).” This 
+way agitated, she stood up to honour him, as he 
+was the teacher of her husband. 
+auimaifcicfi ^tctt 
+f 7TW*ri 
+She offered the material of worship and 
+washed his feet with water. Then she adored 
+him and Aja or Brahma took rest on a bed, well- 
+spread or well-furnished as such. 
+HdfwSRft UffRyl Wd^d:l 
+ytfsidwiJV^ for: ^5: Wi dT^u^n 
+In the meantime, the husband rose up from 
+his bed. Not observing Dharmavrata, the 
+Brahmana became infuriated and cursed her. 
+mot dd: f^TcdT 
+“Having deserted the shampooing of my 
+feet, you have violated my command and you 
+have gone elsewhere. On account of that crime, 
+you may assume the form of a stone slab.” 
+epfsRT w •RTlfe w TTT Wl 
+wr% WT r5|MR<£r TJ5:IR<SII 
+By the husband cursed as such, Dharmavrata 
+in full wrath spoke to Marfci- “While you were 
+sleeping, Brahma, your sire and your teacher, 
+arrived here. 
+dSWtOTdf % eKtfei WTTT: MR TtdTI 
+w g d^ diT§ ■girii’R ^ ii 
+By you deserves to be done the adoration of 
+your teacher. O sage, strictly adhering to pious 
+activities (of a wife), I carried out your duty. 
+dd: TddT dWhsilM ^ 
+Therefore, I am faultless. Still I have been 
+cursed by you. On that account, I also shower a 
+curse on you. 0 my lord, you will obtain a curse 
+from Mahadeva, there is no doubt in it.” 
+cdTdjR d dfd Ml^SdTdTdRf^l 
+drdT ?TdR sfigTTttPTfR MdTdd rpKR:ll^ ^11 
+ttIpm fwT dd: 
+dsn wt tpftfas' dd^ir ^ii 
+Having seen her husband agitated, she too 
+became distressed and went to Prajapati. 
+Having bowed to Brahma, as he was lying 
+down, she kindled the fire Garhapatya with fuel 
+and stood in its middle. There she performed a 
+penance of an austere noma. Similarly Marlci 
+who too had been cursed, performed an 
+austerity of terrible norm. 
+dfdgdTOTCdW dSITI 
+WdT ddRd 7RHT fdTd 113 311 
+By the penance of the Pativrata 
+(Dharmavrata) and that of Marici, Indra and 
+others Devas became afflicted and went to 
+(seek) refuge in Hari. 
+aftrrwyi ^:i 
+dfdgdTdlSr T$T ^Tldll^XII 
+Afflicted because of the penance, they spoke 
+out to Hari who was sleeping in the milk ocean- 
+“0 Hari! O Kes'ava! Rescue the world triad 
+from the chaste lady and the sage.” 
+cm: sptT fabujy4$M"l 
+*TMnMT:ll 
+3^sWsRT srfRW ^?raT:ii^mi
+
+## Page 439
+
+Chapter-107 
+405 
+Having listened to the words of Indra and 
+others, Visnu went up to Dharmavrata. During 
+that very time, the adorable Aja (i.e. Brahma) 
+also woke up and the Devas accompanied by 
+Kesava, spoke to Dharmavrata who was 
+established in the centre of the fire. 
+TfdsfHi 
+cSRTT c£ft 
+“O chaste lady, who has the capacity to 
+perform penance in the centre of the fire? By 
+you, the excellent one, that has been done. It is 
+awe inspiring for the entire universe. 
+3R cfT?T ^TtfWTI 
+era: 
+O Dharmajna! Choose your cherished desire 
+as boon from us”. Having heard the words of 
+Visnu and others, Dharmavrata spoke to the 
+Devas. 
+o 
+(^Tt ^ gHTWjTII^N 
+“ I am incapable of reverting back the curse 
+of my husband even with all my prowess. Let 
+the curse proclaimed by Marici unto me vanish 
+off.” 
+enfcucra: x&n *p:i 
+spfarr snfgfr TTrctro wif5aTTii3<?ii 
+Having heard the words of Dharmavrata, the 
+Devas, once again spoke to her- “O daughter of 
+Dharma, 0 one of pious rites! This curse has 
+been given to you by a great sage. 
+ftncEjf yi^prf i 
+This curse given to you is not capable of 
+being reverted by Devas and Brahmanas. 
+Therefore, you seek some other boon whereby 
+may be the steadiness of Dharma 
+(righteousness). 
+(It should be as per) the (Dharma) ordained 
+by the Vedas in the three worlds, O nice-vowed 
+one!” Having heard the words of Devas, 
+Dharmavrata spoke to the Devas. 
+«r$f: yiNMiMfad q tyrant ERTSW:I 
+W ert wf&m iiicif^yMdTmHiii'k?ii 
+“O immortal gods, if you are not capable to 
+redeem me from the curse of my husband, you 
+may confer a boon of such a type of an 
+extraordinary norm. 
+% ^rf^nfir stfto? qrgqt ^tti 
+Whereby I may become a stone slab, which 
+will be the most auspicious and the holiest in 
+the whole of the Primordial Egg. I shall be more 
+sacred than rivers, lakes, fordable spots or holy 
+places, Devas and others. 
+tnicR) ^TMawirw<*Riftii 
+qrfq fqg*| dl^ijur ^ni'S*ll 
+I shall be holier than the sages, ascetics, the 
+principal gods and others. Let all phallus¬ 
+shaped images of perceptible and imperceptible 
+norm in the triad of worlds, stay in my abode, in 
+the form of a holy spot perennially. 
+Let all the holy places in entirety and the 
+planets of principal norm, the Devas and the 
+sages stand by (on me). 
+fVIRTfekR ■RTrcTT I 
+srng; ^11*511 
+TRTsrft ^d)af w4HlylTWMLiMi 
+■qfq^fEqgint w cf^qt ^TT^ScT: ^ll>{\9ll 
+In the tlrthas, having stone slab established, 
+having bathed, having offered gratification and 
+having performed the Sraddha along with pinda 
+(offering of oblation), one goes to region of 
+Brahma and Gadadhara (Visnu). Drs'yatlrtha
+
+## Page 440
+
+406 
+Vayu-Purana 
+(Gaya) is the excellent one among all the 
+tirthas. A performance of Sraddha herein leads 
+to the emancipation of all the manes. 
+msfir cfisfr 
+fyiHRi ct 
+Viviparous (Jarayujas)1, oviparous 
+(Andajas)2, those generated by warm vapour or 
+sweat3 and those bom by germination- all of 
+them having given up body on this stone slab 
+may attain to the form of Visnu. 
+wsfin # 3?rr: iTort srafr f|i 
+cm it}ut ^ di^uwftrcigirs^ii 
+The way, on adoring Hari, all the sacrifices 
+become accomplished, in the similar manner, 
+the Sraddha (obsequial rite), gratification 
+(Tarpana) and bath become imperishable. 
+w ^ fFrrf^PTi 
+3Tf%r^xmftr % fegr: f^rf^rrsfr ehmon 
+In the body of Devas who mutter down my 
+lore and the like, without any delay, they may 
+become accomplished being the accomplished 
+ones (Siddhas). 
+ftcpit <§a«i3«mrriHi rt.-i 
+«ngrf^rr fcituiHra; R^p^imstu 
+By performing obsequial rite and the like at 
+a holy place, the thousand members of the Pitrs 
+(manes) accompanied by self, redeem and they 
+carry on to the world of Visnu by all means. 
+Tfiinsi ^t-.i 
+mtpi iTRWT: ^^RT:il 
+gun f^Krr xrimgn 
+O leading Devas, as many are the streams of 
+excellent norm headed by Gariga; the eddies 
+headed by oceans and the lakes headed by 
+Manasa, they may persist for the emancipation 
+of the men taking to obsequial rites. 
+1. Eng. Skt. Diet., V.S. Apte, p. 488. 
+2. Ibid, p, 326. 
+3. V.S. Apte, Skt. Eng. Diet, p. 633. 
+VHUut cwkl^l ^T:l 
+s3 'O 
+Tj^t (yujjfeiyim 
+May Devatas come in corporeal from and 
+may not go anywhere, the Devas. Visnu is 
+single but he alone is glorified as having three 
+physical forms Let me be eulogised by the wise 
+ones. 
+rTfcrfe^mt m ^t:i 
+Let the sages and all the groups of 
+Gandharvas stand on the stone slab along with 
+all the Devas and all the holy centres. 
+'<!TdfrfHfe sr^mri rTra%g t iwi 
+*nr rmPd ^rimmi 
+3T§RT <T ^fqrRTftT *TII 
+f^HIdiSd^UI -crf^T fflBcT ^rim^ii 
+The time upto which exists the Primordial 
+Egg (Brahmanda), till that time may continue 
+the Sila (stone slab). And whosoever mutter 
+chants and perform penance on my physical 
+body in the form of stone slab, he shall also be 
+permitted to perform Homa in the fire. May it 
+be eternal and the let the Sraddha be eternal. Let 
+the Japas, Homas and the penances, all be 
+eternal. Let the stone slab in the form of a hill or 
+mountain may persist for long.” 
+MfrlsIdlcM: SpJT ^T: TTlf: MfrlsMIHI 
+Having heard the talk of the chaste lady, the 
+Devas replied to Pativrata- “Whatever has been 
+sought by you, all that shall assume from 
+undoubtedly. 
+rT^r m<i(d'^ui wwr# ^fenr-.ii 
+On the head of Gayasura when you will 
+continue to stay, then in the form of a footprint,
+
+## Page 441
+
+Chapter-108 
+407 
+we too shall stay there steadily.” Having 
+conferred a boon on Sila this way, the gods 
+became out of sight thereon. 
+ff?r 
+l:ll^o^9ii 
+* * *
+
+## Page 442
+
+Chapter-108 
+407 
+I 11 
+Chapter 108 
+The description of Gaya (continued) 
+WR5PJR 3WT 
+S3 
+oR^r trr?irCT ^pjt qrc<? i 
+wit 'mfct ^cn?j ui^kwi ■gfwrai:ii^ii 
+Sanatkumara spoke- I shall now talk of the 
+importance of Sila (slab of rock), listen O 
+Narada. It is an endower of emancipation. 
+Devas and the excellent sages sing of the 
+importance of the slab. 
+f?WT iWT ijfwit TfTT ■^■(eWTSldmcRll 
+fclfcblHaj ^HldM % PTT% felTPTIR II 
+That Sila established as the earth is god¬ 
+framed and highly sacred. The excellent 
+Silatlrtha is well-known in the three worlds. 
+WIT: OWvk^Hle&T: Tri W:l 
+^ ?PTT Wlft ITfRTII^II 
+On touching it, all the people in the worlds 
+went to Haripura (Vaikuntha). When the triad of 
+worlds became isolated, the city of Yama also 
+became empty. 
+w $ i u nr^tjfrHj 
+arfsrant Jj^iuiiy ftnFT?imi 
+Yama, along with Indra and others, went to 
+Brahma and spoke to him about this wonderful 
+event- “0 Pitamaha, take back this staff of 
+office as well as the assignment offered to me as 
+Yama.” 
+Wfir TTcTf WI SIKWT TmT I 
+sRjTlWf srfiTWI TTt ■HMyiWdjmil 
+Brahma then spoke to Yama- “You may 
+sustain that at your home”. Spoken by Brahma, 
+Dharmaraja sustained that slab in his home. 
+wtsferi p? ^ hrfw viwhiR<*mj 
+TJ^felT hhW f?TPTT ;3TTrf?T fepTTII^II 
+Yama assumed his own duty being such as 
+command or restraint of the sinister ones. Such 
+type of Sila of huge norm became well-known 
+in the Universe. 
+wn wt wr fdbui4«ii ^4t 
+HITuI ^ W *cH*ftui)||V9|| 
+The slab having the forms and features of 
+Devas is on a par with Brahma, Visnu, lord 
+Mahes'vara and Meru, in the whole of the 
+Primordial Egg. 
+^T:l 
+3PT: ufajuM'l: iwTt 4^1^:11^11 
+Since it was held on the head of Gayasura, 
+owing to its heaviness, the happy conjunction of 
+the two Pavitras (sacred ones) is an endower of 
+emancipation for the manes. 
+^SWTtS^ftTTI 
+wn^TTPra^jT fawMi4)H$i4)feHiii,?ii 
+In the conjunction of the two sacred ones, 
+Aja (Brahma) perfumed Hayamedha (i.e. 
+Asvamedha). Having seen Visnu and others 
+who came there for enjoying their due shares, 
+(the slab requested). 
+tafeiWiw <t Pm^i 
+^rdThdl f^TPTrat 4 5^T fw^TW: f4jtTT:ll^o 
+“All of you may take upon the vow of 
+standing on the slab for the emancipation of the 
+manes.” “May it be so”, having said this way, 
+the gods headed by Visnu, stayed on the Sila 
+(slab). 
+f^MTWPJT Pctf ^ Mi^ui 4^TT: I 
+MdWdwWbJT fee: ^4nf^mTii^n
+
+## Page 443
+
+408 
+Vayu-Purana 
+In accordance to their earlier vow, Devas 
+stayed on the Sila in embodied and unembodied 
+forms either through their idols of stone or 
+footprints. 
+nmm uIwt fyiRTi 
+dWIW ftcpt #gwra;<:ll^ll 
+On the surface of the shaven head of the 
+Daitya, the way that Sila stood, on that account, 
+that became (known as) Mundaprsthadri. It is an 
+endower of Brahmaloka to the manes. 
+3TR5Tf^T: fyrrtNK: Wl^HlRnn ^TT:I 
+The Silapada (foot of the Sila) is covered by 
+Prabhasa mountain. Engleamed by the Sun, it 
+became known as Prabhasa. 
+TWTO faf^d:l 
+f?T(5ftr WTW: MchHdd:ii^n 
+Having pierced Prabhasa verily, the thumb 
+of this Sila (stone slab) emerged out. And risen 
+out of the thumb, the Isa even became known as 
+Prabhasesa. 
+ryiHi^ton u: tot rt Mim t^t) i 
+n<u4dMisidwwi tidSfFMT^ ottmi^ii 
+A part of the thumb of the Sila is known as 
+Pretasila. Owing to the offering of rice balls 
+(Pindas) to the dead on this rock, the dead man 
+becomes free from the state of a Preta (goblin). 
+wjt\ <MMC£?k:| 
+TT^Tt ^TT W 'Wldl ilMcM rfrf: II 
+A devotee may take ablution at the 
+confluence of Mahanad! and Prabhasa 
+mountain. Rama bathed there along with Devi 
+(queen Slta) and on that account, Ramatirtha 
+became known. 
+UTf&TteT HfRgJT 7TOT TOTOTt OTI 
+ttprM hh! otcstt fm 
+Rama, requested here by MahanadI- “O 
+Rama! You may take your bath herein.” Since 
+then, it became Ramatirtha, well-known in the 
+triad of worlds. 
+SPTRTTW Tm Ml 
+flrTP# feoTOT OTTjT <mdMfa^Hld)IUH 
+“Let all those evil sins committed by me in 
+my hundred and odd former births, may attain 
+to defunction, by a bath in Ramatirtha ” 
+'n^uifrr ot: ttrctt snrg gpfa otrct:i 
+<mdWf fqu^d^d fsmjjtriigi yiiiAi^n 
+Tisrrfd^T Iwr TTOT: OTtdOTT %HdHTJI:ll^ II 
+Reciting this mantra, whosoever bath, 
+perform Sraddha (obsequial rite) and offers 
+pinda in Ramatirtha, he goes to Visnuloka. “All 
+right”, having said so, stand Rama, the elder 
+brother of Bharata, along with Slta. 
+TPT 7TOT Ugldlg) %ctHHWti9><l 
+r3T OTOT MldehMIRoll 
+If a devotee repeats this hymn- “0 Rama! 0 
+Rama of lofty arms! O you a creator of 
+intrepidity for Devas! I offer obeisance unto 
+you, the lord of Devas. May my sin gets 
+obviated”. 
+M^UII^q OT: tM ^rRiWcRTI 
+il<uoiiTi*4i fqMTtil: Rujm *nj:IR ^11 
+If the devotee takes his bath repeating this 
+Mantra and perform the Sraddha along with the 
+offering of Pindas, his manes get emancipated 
+from the state of a ghost and attain the state of 
+Pitrhood. 
+OTPwrfa wTftrt Rafter oti 
+PUT RT?FT *T m'lcUcKhl-ych^lR^II 
+If a devotee repeats this hymn- “You are the 
+waters, 0 Devesa! You are the lord of 
+luminaries. Obviate my sin, spring out of mind, 
+speech, action and body, O God!” 
+*NKRH %cf 5T3PTI 
+rt rT TW HrT:IR?ll 
+Having offered obeisance to Prabhasesa 
+(lord of Prabhasa), one may go to Siva, the 
+radiant one. And having offered obeisance to 
+Sambhu, one may take to the offering unto 
+Yama or adoration of Yama.
+
+## Page 444
+
+Chapter-108 
+409 
+TFT FF FT* #FTFI?F W: fel 
+^?FT TFT TTTFFF m FIIT-tfll 
+TFT TT^T FT^TOt TT FFtFFTfqFFBm: I 
+TTRTTRTSS^Fr W fFTF FUFTF^FTII 
+(FFfTF -q^ FF ^TF TT^TR^:lRmi 
+When Rama had gone to the forest, Bharata 
+came to this mountain and performed the 
+offerings of Pinda etc. to the manes. The lord 
+(Bharata) installed the idols of Rama, Slta, 
+Lak§mana and the sages. In the sacred 
+hermitage of Bharata, the foot-print of Matahga 
+is seen by all men. It' is always surrounded by 
+highly meritorious men. 
+TsnfqF #t#tf ^fttfitf fasynmi) 
+# ^TF^r TIFfTFTTFrr fFFFIIT^II 
+It is established as the entire wealth of 
+spiritual good or law or piety owing to the 
+exemplification of the universe. At the 
+hermitage of Matahga, a Sraddha performed 
+gets redeemed all the manes. 
+mM FT: TFTTFT TFT TTfat TFT# Til 
+TFP8R WFFTF F FIFTt FF:IIT^II 
+A man who takes bath in Ramatlrtha and 
+adores Slta and bows down to Rames'vara does 
+not assume a corporeal form. 
+r^HHT FFF FF: TFTTFTTFT F*tF FI 
+#TT3tF TTSTt# F F#fF FF: T*Jcf:ll? <£ II 
+The posterior of this Sila again stands 
+circumumbiated by a Naga (a tree or a 
+mountain). Advised by Yamaraja (saying)- “Do 
+not go”, this way stands known as Naga. 
+FFFT c#T TFTFJTfF TFTrTT^Fra1tTT#IIT ^ II 
+“Yamaraja and Dharmaraja of static motives 
+have been established unto there. I offer 
+oblations for the purpose of emancipation of the 
+manes. 
+ti ?FFT?1F# #TTFFF#T^cfh 
+FFFt crirT TFTFT^n#|TT#ll^o|| 
+Two dogs of black and variegated or 
+dappled-hued colour are bom in the family of 
+Vaivasvata (i.e. of Yama). I offer oblation Bali 
+unto them so that they may become non-violent. 
+^ldlT>U|c||i|ci|<y|U|^ryTiRydl:l 
+FTFTTT FFT fttr? FFTSfFrFT11 3 *11 
+May the crows stationed in east, west, north¬ 
+west-south and south-west accept the balls of 
+rice offered by me. 
+rviHidl Ffernr I# TsnfFF: ^U^n4d:i 
+fdfaTlf^JFTFFU^ T#SJTT:ll?TII 
+On the right hand of the Sila stand 
+established the Kundaparvata. Timiraditya, 
+Isana and Bharga- these are the Mahesvaras. 
+Ff|# FTi# T^I^FTT: fqfFt^r:l 
+(FTFT9FFTTTTTSI FT#tcf5#jTT:ll3 3 N 
+Vahni, two Varunas, four Rudras, the 
+endowers of emancipation to the manes- all 
+these are adorable in the hermitage of Bharata. 
+FT^alMMN'GTT FTFcT f#f*T: TT?I 
+FF FTFTFTSS9# FT: 11 
+TFTF: «TFSTf#i FjF#<FT#rsfF F #F#II3*II 
+Along with manes, one gets emancipated of 
+all major sins and auxiliary sins therein. 0 
+Devarsi! In the hermitage of Bharata, the man 
+may take to oblation and Sraddha. That fruit is 
+not lost even after a Kalpa. 
+FFIFT FT$IF StFg FF^tFcFITfF FI 
+TT^TTFFFFTft F^F FTFTS#ll^mi 
+In Gaya, the Sraddha performed, is 
+imperishable. Still they say that the Japas, 
+Homas and penances and anything offered in 
+the hermitage of Bharata, are of infinite nature. 
+F#FTF#mT FFFTt TfF#F:l 
+^gT: T*TgT: M^dlWI: ft<pt FfTB^T (If) FTT:ll 
+In the four Yugas, there are four idols of Sun 
+in the forms. On being seen, touched and 
+adored, all those bestow emancipation on 
+manes.
+
+## Page 445
+
+410 
+Vayu-Puraiia 
+Cgf%>clfaR dKchIMT fgfiT: TR: I 
+y^KlulddidMi Hldlddl TT^gfhl 
+<TTTc& W fcTHt ^fgmfTT^T11 ? <311 
+Muktivamana and Taraka are two excellent- 
+normed deities. These deities are the boats for 
+those who are tormented within the ocean of 
+universe. Brahman is Taraka (that which 
+enables one to cross the ocean of worldly 
+existence) of all the dead and living beings. 
+RfoPT 3T ST: 
+He who sees Trivikrama and Brahma, the 
+excellent man, becomes pious and attains 
+utmost state along with the manes. 
+f?Mli|-| dWMkHsft- HSTT5«51RT^ Wt:I 
+TSTTforT: ftJTR ^113^11 
+At the left foot of the Sila, there is a giri 
+(hill) Abhyudyantaka well-established there. An 
+offerer of oblations there, carries his manes to 
+Brahmapura. 
+}rntmu<yiTT$ WWT ft: Wl 
+^TT^t f| drM ^ felrTmi^o || 
+Brahma proceeded to the outprecincts of 
+Naimi$aranya along with gods. That tlrtha is 
+called Mukhyatirtha and the gods are stationed 
+at its feet. 
+f=r*r TT^cf UpHTHHI 
+In those three padas and tlrthas, O excellent 
+Sage, whatever was the inauspicious act, that 
+same becomes defunct, O Narada. 
+dsiruNcH wr Tffer wiW:i 
+s3 
+m mm: cRncrr %sn: ^fr:ii 
+That Naimisa forest is waited upon by the 
+sacred men such as Vyasa, Suka, Paila, Kanva, 
+Vedhas, Siva and Hari. 
+rPrt -jvkurauT mm wi&ici 
+cfm^ fvidl'MI^d W ^(TlWcfiT frTfT:ll'«3ll 
+By their mere sight, a man gets rid of all 
+sins. On the right-hand side of the Sila is 
+likewise the Udyantaka1 mountain. 
+TT fl^MMl TT^THTTTI 
+tT? fIJT W TnPT:ll'tf'SII 
+That mountain was established (here) by 
+Agastya, the great souled one. Thereupon, 
+Brahma and Hara (Siva) offered austere 
+penance there. 
+mrrmm % m c&ut 
+tt^ pm truth 
+cPlt mm ^rTll^mi 
+Therein is the nice Kunda of Agastya 
+difficult of obtainment in the triad of world and 
+therein the eight sages accomplished as such, 
+having offered austerity, attained to Siva. In the 
+Kunda, having bowed down to the eight sages, 
+one may carry the manes to Brahmapura. 
+siwnrra ^-iRmRihhii 
+fVIHTOT crm^sfq- wfqcTt Wttr ^T:li 
+cnRilehl frrfT:II 
+0 Devarsi! On the Sila of UdrayadrI 
+(Udayagiri), on the left-hand side was 
+established the lordly auspicious mountain 
+Vaditrakagiri, by Agastya, the great-souled one. 
+It is always resounding by the divine vocal 
+songs having instrumental music. 
+Rtsitsitt wsKmui Tnft:i 
+TT^rrsinffT %rPr Rom Pi tt? tt^ii^ii 
+Therein, groups of Gardharvas, Vidyadharas 
+by name and bevies of nymphs sing divine 
+songs, even today. 
+WT£T TPTtei tT ^]F3Tt TTf^TtTTtT: I 
+xr^cTt hi<«?sii4) ttjM 
+iftrT^FT y^RPlI'k 6II 
+I. Pauranika Kosa, p. 60, At Gaya on the left side of 
+Sila established by Agastya, Vayu Purana 108.39, 
+43,44.
+
+## Page 446
+
+Chapter-108 
+411 
+Therein, Mohana, Sunltha, Sailuja, 
+Mohanottama, Parvata, Narada, DhyanI, 
+SahgitI, Puspadantaka, Haha, Huhu and others 
+perform musical (concerts). 
+(m fzm®t m 
+TTraf^T TOW 
+Likewise Citraratha by name, surrounded by 
+all the Gandharvas, do sing sweet songs on the 
+mountain at the time of great festivities. 
+3TrT: Tff tjcpTf ftbWM 
+snferw ift wnfsnw^imon 
+Therefore, that mountain is being waited 
+upon by gods even today perennially, O 
+Dharmajas! This is the abode of the Lord of 
+lords i.e. Hara, having ashes besmeared all over 
+the body. 
+W&n TT%Tt ^5: ^ iftrFTrfs^l 
+^tt: fwnt ttw ^rirnTii^ 
+Accompanied by Parvatl, Rudra on the 
+mountain, resounded by music, rejoices having 
+been adored. He is fit to be meditated upon 
+since he is the utmost goal of the manes. 
+TFTRJT VOuAlT % ^T^TSTT: | 
+In Gaya, the Supreme-souled one, Gopati 
+(lord of cows) or Gadadhara (exists) and the 
+Vai§navl Maya gets reduced likewise by the 
+worship of Rudra, O sage! 
+^nrr 'trwhfii 
+snfrFstt srwi: 
+On the right-hand side of the Sila is located 
+the Giri Bhasmakuta. Along with Dharmaraja, 
+therein stays Agastya along with his spouse. 
+3TWTCT ^ l?IHtafPT:i 
+cfr ^ ^ i^nrim^n 
+Hiyripj risrr wif ftnpj wfi irf^nri) 
+One who baths there near the spot of 
+Agastya and offers pindas, he goes to 
+Brahmaloka. It was from Brahma that he 
+secured the excellent boon of greatness in the 
+world, Lopamudra as spouse and the highest 
+goal (emancipation) to his forefathers. There 
+having seen Agastyesvara, one gets rid of the 
+(sin) of killing a Brahmana. 
+3TWT ^ ^ I 
+On seeing Agastya accompanied by his 
+spouse, one leads the manes to Brahmapura. By 
+Dandin, a penance was performed on Sifadri, 
+the southern mountain. 
+TlfcrdR?:l 
+c^forTT 
+^ftr^rrat qr: Tim waJ 
+^ font ir^nTTgg:im<iii 
+The Banyan tree VatesVara is stood there as 
+the great grandfather. In front of that one is 
+RukminI Kunda and to the west is Kapila 
+stream. Kapilesa (a Siva temple) is on the banks 
+of the river. On the new moon day, one should 
+take bath in Kapila, worship Kapilesa, perform 
+a Sraddha and offer charity. By this, (his) manes 
+may attain emancipation. 
+srfasrnr PiRcRi<m'disi^ch'i<qi 
+0T5T flIWd Wit WfcMI 
+There is a current of fire coming out from 
+that excellent mountain. Therein is Sarasvata 
+Kunda, created by SarasvatL 
+JTO:I 
+rT3 w ^-dJOTi 
+qrtll^oU 
+Lord Sukra stayed there along with his sons 
+Sanda, Amarka and others. O excellent sage, a 
+man who performs Sraddha and offers pinda 
+etc. in the various spots at the feet of the 
+eminent sages, enables the manes to cross (the 
+worldly ocean).
+
+## Page 447
+
+412 
+Vayu-Purana 
+Isiwun fnfo§tT:)i 
+^pjwrT T^T:ll^^ll 
+On the left-hand side of the Sila there stands 
+the hill Grdhrakuta. The great sages assuming 
+the form of cranes performed penance there and 
+became Siddhas. 
+3KTt PlfifoEfrgWg 3SP8TC: fW:l 
+3gT ^ ^.*11^11 
+Therefore, the hill became (known) as 
+Grdhrakhta i.e. this crane’s hill. The deity 
+Grdhresvara is stationed there. Having seen and 
+bowed before Grdhresvara, a man may proceed 
+to the region of Siva. 
+rlS' 1J?I' W Dude;: 
+rf3T sra*|lfr ^?TII^^II 
+Therein is a cave1 of Grdhra. A person 
+offering pindas on Grdhrakuta and in the cave, 
+becomes the sharer of Sivaloka. One who bows 
+down before the Banyan tree on Grdhrakuta, he 
+attains all his desires and goes to heaven. 
+stupid 'mtpqt^ fyrci ^gr 
+Having seen 3iva, one attains the 
+redemption from debt, redemption from sins 
+and goes unto Siva. Therein exists Sulaksetra. 
+An offerer of Pindas there, may carry manes to 
+heaven. 
+StTftMIvtr 
+cRr Enrfa fen£*r: ttstcii 
+<T 3gT fifiTWJ* 
+By Adipala mountain is occupied the 
+interior of the Sila (Silodara). Therein stays in 
+the form of an elephant, Vighnesa, the obviator 
+of obstacles. Having seen that, one gets 
+emancipation from obstacles and one may carry 
+the manes to Brahmapura. 
+1. for Vayu Purana, p. 590, verse 
+63, pada I. 
+wwll fcpJ33: 
+On the slope of Mundaprstha, there 
+happened to be a Devadaru forest. Having 
+visited the mountains Mundaprstha and 
+Aravindadri, one may get the sin obviated. The 
+offerer of Pindas in the umbilical region of 
+Gaya called Su$umna leads his manes to 
+heaven. 
+fircwn *w\\ 3 ^nfor: y^d:i 
+qfaSET niilwfr ^^1^1^:115,^11 
+On the left foot of Sila is established the 
+mountain Pretaparvata by Dharmaraja. For the 
+sinners, the hill named Pretasila (exists) as such. 
+^ ryivfPdl: 
+trT: f^THBTT: WhfsfaolvJ: d(ct^dlH,H^dll 
+The mountain was kicked off to a great 
+distance. Pretakuta was freed from sins and 
+attained sanctity by its impact with Sila. 
+faqpg rT ^ fWT:l 
+rfsf <OTllf3(cfi 3peTT II 
+Pretakunda exists therein. The gods are 
+stationed at its foot. Performing Sraddha etc. in 
+the Kunda, one shall emancipate manes from 
+the state of goblins. 
+Yawns' cr?crt f^ratfroT ^ hi 
+91l^lf<«hlRlhi T<TTT fqgf^rpru 
+^cTT yMBch^UT <*til^U|chKcbT:llV9 0|| 
+There are many of the ghosts existing 
+separately and causing hurdles to Sraddha 
+performing men who are performing Sraddha at 
+a tlrtha for the emancipation of manes. The 
+Pretas (ghosts) assume the form of archers and 
+engulp the hands (of the pilgrims). 
+rTT ^gT MIMlMmd4i:)ll^ll 
+There is a rock on Mundaprstha where
+
+## Page 448
+
+Chapter-108 
+413 
+Mahadeva stays. Having seen that, the universe 
+gets redeemed of major and auxiliary sins. 
+Trcifinftr wr v 
+y4RMd)sf?TOTcR cRRII^II 
+Gayasiras is sacred and immuned from all 
+sins. It is devoid of Pretas and the like, from 
+where is incurred a highly sacred boon. 
+'W WfT WT TFxPjt 
+XJXRt R# WIT tR: tRT||\9^|| 
+o 'vS o o 
+In the Klkata land, Gaya is the holiest 
+centre. The Rajagrha forest is also holy. The 
+sacred hermitage of Cyavana and sacred stream 
+Punahpuna are also there. 
+#nTcP:l 
+3T7 OT%T R#TII^II 
+There are other holy spots such as 
+Vaikuntha, Lohadanda, Grdhrakuta and Sonaka. 
+By performing a Sraddha here, one may carry 
+all manes to Brahmapura. 
+ft gftifegi rT#5e&#ri 
+rm MKlI^Tt T«JrT:IIV9MI 
+In the form of a Krauhca (heron), a sage 
+performed penance on the ridge of 
+Mundapr§tha. Marked by the feet of the heron, 
+it came to be known as Krauncapada. 
+TR# R5T HilcWJI R3eR ^T^l 
+cfcichfviHiiii ir grafts ^ui4)^:ii\s^ii 
+One who takes bath in the water reservoir 
+there, shall carry the entire family to heaven. An 
+offering unto crows on the rock Kakasila, is 
+conducive to redemption from indebtedness. 
+rtt# ft nmyii #m#ui:i 
+#1# RTR MI ra:fRf% RTT R#I|\9\9II 
+On the peak of Mundaprstha, two sages- 
+Lomasa and Lomaharsana performed a mighty 
+penance and thereby attained highest 
+accomplishment. 
+3TTfrTTRT uft%JI RfTR#l 
+Wield I #cPTt xl^RPII OTWdil|\3<SII 
+fRRJ#TT ^ W^RT rj TrfTSTTI 
+Slfagl TTgRT RtrggjffWRII^II 
+Rfitrnrnf rtjrt f^nr f#rrwr:i 
+TO?W?1(?) 3H«hlg-!4lll<So|| 
+^fyichl 9T^t #st fieiwiy^nj|^4)i 
+^yj|c|Ui|T rl4c|d1 | ^ yfd>dlfi#ll<^ll 
+By Lomas'a was summoned many excellent 
+streams viz. MahanadI, Saravatl, Vetravatl, 
+Candrabhaga, Sarasvatl, Kaverl, Sindhu, Ira1, 
+the excellent stream Candana2, VasisthI, 
+Sarayu, Gariga, Yamuna, GandakI, Indira3, 
+Mahavaitarani by name, Niksara that originates 
+from heaven, Alakananda, the northern river 
+called Kanaka, KausikT, Brahmada- all these 
+rivers are the obviator of sins of all. The two 
+rivers viz. Krsnavena and Carmavatl are the 
+endowers of emancipation. 
+Rift# #R#RT RTfRTRI 
+W#T RJ#T RpR^-clll 
+cTTTT Tf: IRI^T f#^: ? 
+These excellent ones among all streams 
+were summoned by Lomaharsana out of 
+temerity. By the impact of his penance (as also), 
+Narmada also was invoked by him, 0 excellent 
+sage! He who takes bath in any of these rivers 
+and offers pindas leads his Pitrs to heaven. 
+sr^ratfR wftiwiy ftpf#src| rir^:i 
+si w # *ra# ftnr# ylfd^cHJiRiid^ii 
+Having entered the Brahmayoni, a man who 
+may take exit, he attains to great Brahman 
+having been released from the intricacy of 
+breeds. 
+fR^TTRTT Mi4iftui|'| rrtr; RT;| 
+## fR3TWR^RIRII 
+W STfSR Scf W1C * 11 
+1. Pauranika Kosa, p.55, vide Vayu Purana 108.79. 
+2. Ibid., p. 163, vide Vayu Purana 108.79 and 45.97. 
+3. Ibid., p. 50 vide Vayu Purana 108.79.
+
+## Page 449
+
+414 
+Vayu-Puraija 
+A man who bathes in Niksara and Puskanni 
+(holy ponds) and take to the performance of 
+Sraddha and the like on the divine 
+Krauncapada1 as a matter of rite for day triad, 
+he carries his manes, even if they were guilty of 
+five major sins, to Brahmapura. 
+snwRfstzisraTs^n' f^fsRTii 
+iftcRT cjiwfiTST ^ ft fawjtfWll: I Id m I 
+Janardana stays in Bhasmakuta. He who 
+offers pindas in his hands whether for himself 
+or for others- if it is for one’s own self, it must 
+be without gingelly seeds with the sacred thread 
+in the Savya (hanging from the left shoulder) 
+position; and if for those who are alive, it must 
+be suffused with curds. All those (thus) become 
+as gone to Visnuloka. 
+ftpJSt H'Ul <;tiwci jjrft 'jHkJhI 
+41^V*I WT # WTTII^II 
+(Mantra) “The Pinda that has been given by 
+me in your hand, may please be given by you to 
+that person for whom I have given it to thee, O 
+Janardana. This Pinda is for the dead one, 0 
+Prabhu!” 
+Mft MIT WRIT Mdl^ll^ll 
+(Mantra) “This Pinda stands offered by me 
+in your hand, O Janardana! When I reach the 
+end of my life, it deserves to be offered to me at 
+Gayasiras. 
+TOfi mw i%MT^cri 
+Term rT MW fqgsfWniCdll 
+O Janardana! Obeisance be to you, 
+obeisance be to you, O endower of 
+emancipation to the manes! Obeisance be to 
+you, obeisance be to you, O you having 
+assumed the form of manes.” 
+TTOTOt fqfWJT mm MfMT#M:l 
+1. Pauranika Kosa, p. 138 in Gaya. 
+In Gaya, Janardana assumed the form of 
+Pitrs himself. Having seen that Pundarlkak§a 
+(lotus-eyed lord), one becomes immune from 
+debt triad. 
+MW wftoar 
+^MtofTRT MW M ftTOTt MT^ Wl^oll 
+“Obeisance be to you, O lotus-eyed one! 0 
+you immuner from debt triad! O you consort of 
+Laksml! Obeisance be to you. May you be the 
+emancipator of manes.” 
+cTPTSnj WTTrM MR^T MRT^MMI 
+fqg^T: W«PMW^nMt;5T?^M:3ril^^ll 
+Having nicely kneeled down, Bhlma bowed 
+down to Janardana. Having offered Sraddha 
+along with Pindas, he became the sharer of 
+Brahmaloka along with his brothers. He became 
+a religious one and redeemed a hundred 
+forefathers in his family. 
+fVIHP-li oUThloUTtilVMMl fW:l 
+On the Sila, the lord of Lak$mi stays in an 
+ostensible form both specific-normed and 
+unspecific-normed, along with gods. Hence the 
+Sila became endowed with Devas or gods. 
+k k k
+
+## Page 450
+
+Vayu-Puraija 
+i 
+I 
+( 
+i 
+II3T2T qcTTfe^Tc^SSETR:ll 
+Chapter 109 
+Description of importance of Gaya 
+hkc; 3cTTET 
+cqrR^wrur fswssf^i«n::i 
+cgtbWMui oqgnoJJWrtRT fw:ll^ll 
+Narada spoke- How the primeval 
+Gadadhara stayed in a manifest form? How did 
+he stay both as manifest and unmanifest?
+
+## Page 451
+
+Chapter-109 
+415 
+3KT 7RT WW R2JT I 
+^IcdM 
+How did the Gada (mace) originate and how 
+did he come to be known as Adigadadhara? 
+How the spot Gadalola happened to be an 
+eliminator of all sins? 
+HcTTST 
+■nftt -rwifti urateaisaart ^:\ 
+yi®dt sRjnft Hi^icwyrcUifw' gRWT i1 $ 11 
+Sanatkumara spoke- There was a demon 
+named Gada whose body was very adamant and 
+robust. Requested as such, he was offered the 
+bones of his body difficult to be taken leave of, 
+by Brahma. 
+sT^TTtItT -d^S^grTT d^Ti 
+HcftST <*pft: WT iRJR^imi 
+Urged by Brahma, Visvakarma created a 
+Gada (mace) of marvellous norm. He converted 
+the bone of the demon in the lathe that could 
+crush even Vajra (thunderbolt) and kept it in the 
+heaven itself. 
+m Tr^rTT TRl ^f%RTI 
+left T^ft Wdl^umimil 
+After a good amount of time, in the 
+Svayambhuva Manvantara, the demon Heti, the 
+son of Brahma, performed a penance of austere 
+norm. 
+fftarattassnoft w giw^ra?fi 
+Wii^u 
+For a hundred thousand divine years, he 
+subsisted upon wind, having face lifted up and 
+arms raised aloft (standing) on one toe thumb. 
+jJfFcR efft cRSRRII^II 
+He stood along, unperturbed, subsisting 
+upon seared leaves and breeze. Brahma and 
+others were pleased by him. He asked for boons 
+from them, the bestowers of boons. 
+cliffy sr 
+“I should become very mighty. I cannot be 
+killed by Devas, Daityas, or human beings with 
+any kind of weapons. I should not be killed by 
+the discus and the like weapons of Krsna, Isvara 
+(Siva) and others”. 
+^fdnchft^fd,4Idi sr?RTi^T:H^ii 
+“May it be so”, having said so, they 
+vanished away. Heti1 vanquished the Devas and 
+assumed the form of Indra. Brahma, Hara (Siva) 
+and other gods became terrified (of him). 
+# ft Trmt jTJTJcffjftrd 
+{dftfyRTl: ^<1:11 ^ o 11 
+They sought refuge in Hari. They told him- 
+“Kill Heti”. Hari then spoke to them- “This 
+Heti cannot be killed by gods or demons, 0 
+Suras! 
+R cRTI 
+^fffjRft flfft ftcfT TfciT dt c^rll^ll 
+You may give me a mighty missile by which 
+I may kill that Heti”. This way accosted, then 
+the Devas gave that gada (mace) to Hari. 
+^STR eft TRTOTff ftlfrdVl TRTSR: I 
+TF^TT |fdMT^d£T ftft: 
+He held that gada to begin with and 
+(thereby) by gods was named as Gadadhara. 
+Having killed Heti with his gada, he proceeded 
+to heaven along with the gods. 
+felftt RWfTRRlfftfRT£n::l|^|| 
+Having taken the gada and having propped 
+up the Sila of Gayasura, the way he stood as 
+having objective unmoved, on that account he 
+became known as Adigadadhara. 
+1. Pauranika Kosa, p. 553.
+
+## Page 452
+
+416 
+Vayu-Puraija 
+^PrF SHARPER: 11 
+T^itf ynspife: wwr qm tj^t:ii^ii 
+3IRTT PiRt^lHl 
+W&- : 11 ^m I 
+M*?l)eti: -MRIHlGhl cRjtTcii ^3?U3<fi:l 
+sdteyrSteafRras: wrM qgvcto^n\%\\\ 
+cffe&T RT Hgwfll 
+<Wlml($<«M)ui SJrfi 3Trf^T^RR:ll^ll 
+Adigadadhara is manifest in the form of 
+Silas (rocky slabs and mountains). Through 
+Mundapr$tha mountain, Prabhasa named 
+mountain, Udyanta, Gltanada, Bhasmakuta, the 
+great mountain Grdhrakuta, Pretakuta, Adipala 
+and Aravindaka, Paiicaloka, Saptaloka, 
+Vaikuntha, Lohadandaka, Krauncapada, 
+Ak$ayavata, Phalgutirtha, Madhusrava, 
+Dadhikulya, Madhukulya, the great rivers 
+Devika and VaitaranI etc., Adigadadhara 
+becomes apparent. 
+fonTt: 
+wnw Mt ^ mRpfcftiiKn 
+Wiqnt ?^FTWR RTl 
+The following are manifest-cum- 
+unmanifest- Vi§nu’s pada (footprint), 
+Rudrapada, the Brahma’s pada, the excellent 
+one of Kasyapa which is a divine pada wherein 
+two hands have issued out, the padas of 
+Pancagnis (five fires), the excellent padas of 
+Indra and Agastya, the padas of Ravi and 
+Kartikeya, Kraunca and Matariga. 
+yciifui bijifiicAiThicMHi iw:i 
+All are the chief lingas (phallus-shaped 
+images) and in all of them is stationed the 
+primeval Gadadhara, the illustrious Gadadhara, 
+in both manifest and unmanifest forms. 
+imm #=r wfawi W2TT frcWii 
+wfe^jTrTTrar ^njira^sftr 
+^dRTTi|«l WP?J RRTctfS'ffi' M41yd<l:l 
+■wraqMsr Rt^t: cru^vii RHij-ich:i 
+Rraftg'ityi: cRt€h?Tt nff^T: Rrtiu?:i 
+H^rlT RT MUsRcbii? :3tR:IR'*SII 
+|f?r€ tt^twR^ht Return 
+The primeval Gadadhara is stationed as- 
+Gayatri, Savitrl, Sandhya, Sarasvatl, Gayaditya, 
+Uttararka, Daksinarka, Naimisa, Svetarka, 
+Gananatha, the eight Vasus, the lordly sages, 
+the eleven Rudras, the other seven sages, 
+Somanatha, Siddhesa, Kapardisa, Vinayaka, 
+Narayana, MahalaksmI, Brahma, 
+Sripuru$ottama, Markandeyesa, Kotlsa, 
+Arigiresa, Pitamaha, Janardana, Marigala, the 
+excellent Pundarikaksa etc. (these are the 
+various shrines and deities in Gaya). When the 
+demon Heti was killed, Vi§nu went back to his 
+city. 
+sfipn w cjnfR) 
+%sn e$ur ft^T:ii^u 
+When the demon was rendered senseless by 
+Brahma with Rudra and others, Vedhas (the 
+creator), gone redeemed by joy, gratified the 
+primeval Gadadhara. 
+7Tc(TSR 5ygJ|d<*IHeh^M 
+TT^FTrT faRrPJUi Wf?RRI 
+^Flrf 
+hUllRtci 3R^TeT RRlft[|Rt9l| 
+Brahma spoke- I bow to Gadadhara from 
+whom Times blemishes have receded, who is 
+stationed in Gaya, whose merits are well- 
+recognised, who is gone beyond the merits, who 
+enters into a grotto, who has gone into the 
+abode of excellent mountain Gaura1 (a golden 
+1. Pauranika Kosa, p. 159, Vayu Purana 47.23.25.
+
+## Page 453
+
+Chapter-109 
+417 
+mountain in the north having Haratala tree), 
+who is adored by Ganas and who is a bestower 
+of boons. 
+srr.fsni 
+cTOTfiilrriWTII^dll 
+To one who bestows prosperity on the day, 
+who bestows prosperity on the hosts of Devas, 
+who bestows royal glory even to Bhava, whose 
+glory torments Daityas, who bestows glory in 
+Kali age, whose glory suppresses the impurities 
+of the Kali age and who bestows affluence on 
+those who seek refuge, to that Gadadhara, I 
+offer obeisance, the one having Sri adhered to. 
+cblMIc^Tct I 
+I bow unto him who is stronger than the 
+strongest, well-belauded owing to density of 
+development, marvellous in Kama, highly 
+strong one, gone over to the highly stronger 
+tradition, gone over to richness, who can be 
+approached (even) by highly stronger sinners, 
+who has his own abode and whose spiritual 
+lineage and eulogy is great. 
+<*<U|chHlfad£id 
+To one who is incorporeal, who has no sense 
+organ, who has no birth, who is decorated on 
+altar of the Sun, I offer obeisance to that 
+supreme Gadadhara, Isvara, the excellent one 
+who is eternal and who is devoid of sound and 
+face. 
+gqlfini nfcwifacifcid hr 
+fdfafVKfw ^ I 
+fadlctjcb ch^ldebKUIlfrl^i 
+Wrt ^nrrfxr ^113 ^ii 
+To one gone beyond the mind, void of 
+intellect, the excellent one, constantly one as not 
+being twained, belauded by the wise, who is 
+worshipped by learned men in the Vedantas, 
+who is Cidatmaka (pure consciousness) and 
+who is beyond the causes present in Kali, I bow 
+unto that Gadadhara. 
+■o 
+eft cfxrft^ ^ cR Wf rPT^ratrTI I ^ 11 
+Sanatkumara spoke- Along with Brahma, 
+this way was adored the primeval Gadadhara by 
+Devas. Then he spoke out- “You may choose a 
+boon” and Brahma asked for the boon. 
+fyiHiqi f^RTl 
+WWTlS5f tcRfT Wf ^ 
+“On a Sila which is god-framed one, we 
+may not stay without you. We shall stay here 
+along with you perennially when you have 
+assumed a manifest form.” 
+IfclURT f9RTT 'ST?! I 
+hi chi *11 wm 
+“May it be so”, this way said Gadadhara and 
+stationed there along with Sri (Lak$ml) for the 
+safeguard of the people and emancipation of the 
+mobile beings. The perceptible form 
+Pundarlkaksa i.e. lotus eyed one, is well-known 
+as Janardana. 
+^TT TrfdTTf^TdT WIcHll 
+■4tctPrhl ‘HT ^rf5fb£ri% rMT HR: II 
+\3 O 
+clRIWH) ^IdtlThr 
+The image that is unassessable by gods, 
+being of primeval norm and pristine one, 
+perceptible as such in the Svetakalpa, shall 
+become that very way again. It will become
+
+## Page 454
+
+418 
+Vayu-Purana 
+imperceptible in the Varahakalpa although it 
+attained to perceptibility earlier. 
+WRtfTRT TlWhi Ml T^TOTRT 
+With a view to redeem the worlds and for 
+the protection of the Devas, he will be clearly 
+manifest in Gayasiras. There is no doubt in it. 
+^ 3g?rf% w ^HI^KIIOTITI 
+4nwPd' 131911 
+Those who visit lord Adigadadhara and pray 
+to him with devotion, will become immune 
+from the diseases of leprosy etc. and will 
+proceed to the abode of Hari. 
+% w sresn rfcrmf^KWTH)i 
+SIHWPl SR rTll^dll 
+And those who regularly visit lord 
+Adigadadhara with devotion, they shall obtain 
+wealth, crops (lit. com), age or longevity of life 
+and health. 
+TTHf gT^Tht cWTII 
+sicRerr g^r: w ^T:ii3<?u 
+S3 ■O -O 
+With faith and devotion whosoever offers 
+obeisance unto Adigadadhara, he achieves 
+spouses, sons, grandsons and the like, the 
+merits, fame and comforts. Such men enjoy the 
+kingdom of Brahmapura. They will enjoy the 
+fruits of the collection of their merits. 
+4hWN' W<;Rd:l 
+By an offering of perfume, one will be rich 
+in scent, by offering of flowers, one attains 
+conjugal felicity and by the offering of sweet 
+incense, one attains acquisition of kingdom and 
+illumination through lamps. 
+$114^0311^ W fgwt ^1% t ftTcFTH^ ^|| 
+By an offering of a flag, he becomes free 
+from sins; by undertaking pilgrimage, he shall 
+be the enjoyer of Brahmaloka. He, who is a 
+perfonner of Sraddha and an offerer of 
+libations, leads his manes to Visnu(loka). 
+snggT % wi^unssf^TsnTTi 
+OsitEiftT g fwqj? TnsrarRii 
+fTrcrtsftr yryt 'dyiyissf^i<iy<di iv ? 11 
+With devotion whosoever offers homage to 
+the Adigadadhara with eulogium (stotra) and 
+adores him, he leads his manes to Madhava. 
+And Siva even, by great pleasure, gratified 
+Adigadadhara. 
+f^T 331W 
+3)^3fH-^Tr gt ffogygrfy^qf?:) 
+tf^rWrf^roT 1*311 
+Siva said- I bow to Adigadadhara who 
+though is in an imperceptible form, becomes 
+manifest in the form of Mundaprstha and the 
+like and the holy centre Phalgutirtha etc. 
+cirfhloq'^t^yi q^ui 
+To one who is stationed in perceptible and 
+imperceptible forms in the forms of Padas and 
+the phallus-shaped images of the faces, 1 bow to 
+that Adigadadhara. 
+3lodjrh<c\*il 1 
+wyt ^ 
+To one who is of unmanifest nature in the 
+form of Janardana and who is bom naturally on 
+Mundaprstha, I bow down to that same 
+Adigadadhara. 
+fyiHrui ^cRcfquyj fw ginfyfa: ^:i 
+yfag tt^t^ii^ii 
+To one who is stationed in the Sila of divine 
+features, who is adored and honoured by Devas 
+along with Suras headed by Brahma, I bow 
+down to that Gadadhara. 
+t g SgT fief: y^T wfelT WET ^1 
+srr^refr tfTc&rfw wy i [wz lyry i i^vsn
+
+## Page 455
+
+Chapter-110 
+419 
+And having seen or touched or adored which 
+one, one attains Brahmaloka, I offer my 
+obeisance in the form of Sraddha to that 
+Adigadhadhara. 
+ggrrt % cftwti 
+I bow down to the primeval Gadadhark who 
+is the sole cause of Mahat etc. that is manifest 
+and who is of the unmanifest form. 
+o 
+I'S'?!! 
+To one who is devoid of body, senses, mind, 
+intellect, life breath, pride and who is free from 
+wakeful and dreaming states, I bow down to 
+that primeval Gadadhara. 
+^JTRR*iJoqgt{j 
+O 
+And to one who is free from the eternal and 
+the non-eternal (states), who is truth, joy and of 
+an unexpendable norm, the fourth light of the 
+self, I bow to that Adigadadhara. 
+attains material gains and a lewd one attains 
+lusts and the one cherishing emancipation 
+attains emancipation. 
+CRZIT g FTOrt Tpr 
+TTjTT fqMtdhlHlfrt 
+Even a barren woman may obtain a son, 
+gone beyond the Vedas and Vedarigas (ancillary 
+lores). A king attains victory and even a Sudra 
+attains happiness. 
+tfwt grfgtt TR? WIT: hpw<£) :ii<aMI 
+One cherishing sons gets sons after adoring 
+the primeval Gadadhara. By adoration of Hari, 
+everything that is desired by the mind is 
+obtained. 
+fir si M^ipui crmrrrai jRnnifitui rut 
+Tdliy <*V IddMl^sarra': 11 ^ o 9,11 
+* * * 
+Tig ^TclT MrfyH UTrfT aiK'l<|!0T:l 
+fWt ^g: f?Rigi g 
+Sanatkumara spoke- This way eulogised by 
+Mahesa, Adigadadhara became gratified. That 
+lord stood himself on that Sila (slab) along with 
+Devas headed by Brahma and others. 
+Tdcifg g^rtg mr iim?n 
+Those who eulogise and adore Lord 
+Adigadadhara eulogise who is stationed on 
+Mundaprstha mountain, shall attain 
+Brahmaloka. 
+snM HrqgT&Tfrsgfal gT^rnggiTTi 
+cfcmMdiMyi^hni gtsrraf TTt^wiMdidimf n 
+The one eager for spiritual good obtains 
+spiritual good, the one eager for material gains
+
+## Page 456
+
+Chapter-110 
+419 
+IIm <*VlfeVMd^SS*IR:ll 
+Chapter 110 
+The importance of visit to Gaya 
+''UHfchMK 
+*\u\m\ mrs tmRkpti 
+fefcfefa: mseb<pii' urnn %j?r ipTii^ii 
+Sanatkumara spoke- O Narada, I shall talk 
+of journey or visit to Gaya. You may listen to it 
+as it is one offering emancipation. It is the 
+expiation for all the Sraddha performers and is 
+sung by Brahma of yore. 
+to ms fenro:i 
+fgSTRT ebltfSl^fcj VIMM^UIUII^ll 
+In case one is ready to go to Gaya, he should 
+duly perform Sraddha as per rituals after 
+assuming the form of a Karpati1 (a pilgrim or a 
+person maintaining himself by carrying water 
+1. V.S. Apte, p. 145.
+
+## Page 457
+
+420 
+Vayu-Puraija 
+from rivers). He should circumambulate the 
+village. 
+rRTT JTRRR « 
+Then he should go to another village and 
+partake of the remainder of the Sraddha. 
+Thereafter, he should go on foot everyday and 
+he must avoid accepting monetary gifts. 
+tf^TgTTnfrT: *?pt few: ^rfei 
+3^c*>h£wt^ u: Tf 
+He who abstains from accepting monetary 
+gifts, who is satisfied, who is controlled and 
+chaste and who is free from egoism, enjoys the 
+fruit of the tirtha (holy spot’s journey). 
+fel rT TTT^r TRSfe wioti 
+fen to cEtf% ^T: cTtfern^iiHii 
+He whose hands, feet and mind are well- 
+restrained and who possesses education, 
+perseverance and fame, achieves the fruit of the 
+pilrimage to a tirtha. 
+wwr wsfer 
+m fe wira fe£t 
+At the entrance of Gaya, towards the east, 
+there is a great stream Phalgu. Having collected 
+water there, one should have a bath at an 
+unturbid spot. 
+«rns cpcrr wferi 
+Having gratified the Devas and the like and 
+having performed Sraddha as per systematic 
+way, one should recite the Vedic passage 
+belonging to one’s own branch without the 
+material of worship and invocation. 
+sfesit; ^Tfefen fefct fcpferi 
+WW: THIrWt n 
+Having become purified on the very next 
+day, he should with all purity go to 
+Pretaparvata1. The intelligent pilgrim should 
+1. Pauranaika Kosa, p. 343. In Gaya, vide Vayu 
+Purina 110.8. 
+thereafter take bath in Brahmakunda2 and 
+perform Tarpana of Devas and others. 
+He should perform the Sraddha for those 
+who are Sapindas (having the similar Pindas i.e. 
+near kinsmen) on the Pretaparvata. The wise 
+pilgrim should face the southern direction and 
+wear the sacred thread as Prdclndvltv*. 
+wjsjfetswwr: fet mi 
+arfecriTTT fem: fe^TT:ii^on 
+fefe: feft ^ ^ 3TRTT: 
+fe fMu^y^iqrsiSuHidisfe iraifermi 
+h gfenwR w&ife ?nwrcm^ii 
+‘The fire carrying the libation or oblations 
+offered to the deceased ancestors, Soma, Yama, 
+Aryama (Sun), Agnisvattas, the Barhisads and 
+the drinkers of Soma (seated on Kusa grass) 
+may come along, the highly fortunate ones. By 
+you here have been safeguarded my manes. 
+Those kindred relations born in the family are to 
+be offered the ball of rice. For the purpose of 
+offering libation balls for them, I have come to 
+this Gaya. May all those attain to gratification 
+of perennial norm by this obsequial rite 
+(Sraddha).” 
+3TWU|)ck^l rf qiTf yiQHAIW JRIr^T: I 
+I ^11 
+Having sipped water (Acamana) and recited 
+Pancariga4, the pilgrim should perform 
+2. Ibid., p. 350, vide Vayu Purana 110.8 & 83.20. 
+3 . The wearing of sacred thread from the right 
+shoulder across the chest and passed under the left 
+arm. 
+4. Pancariga Pranama ^TT^^Tl ^ RfK'Hl 
+T?TTt V.S. Apte, p. 308 fcf ^ of 
+Kiratarjuniya 11.12 does not suit here. 
+■cb4ufchK«frM: f^fRRTyfd^R: 
+'^iRwfeRfd 1 WP7I: ^HidWI:
+
+## Page 458
+
+Chapter-110 
+421 
+Pranayama with effort, for the purpose of 
+attainment of Brahmaloka reft of Punaravrtti 
+(transmigration). 
+xi ^rr m towi 
+And after performing the obsequial rite as 
+per rituals in due order, he, should invoke and 
+adore the manes with the mantras. Then he 
+should offer rive balls. 
+cT$ 3fafal'HKl xX WHT cJTI 
+^44^ tfwr wio^g- Wnr11 ^ 11 
+^TT: fqp?%l 
+At the tirtha (holy spot) on the Pretasila etc., 
+the place must first be cleaned with 
+Pancagavya1 separately while their mantras are 
+being recited. Then the deities should be adored 
+with offerings of Caru soaked in ghee. So long 
+as the gingelly seeds are taken by the pilgrim in 
+the holy rites of the Pitrs, Asuras run away from 
+the place of holy rites like a deer gone terrified 
+by a lion. 
+During the Astakas1, Vrddhi days and on the 
+day of the demise, the obsequial rite of mother 
+should be performed separately at Gaya. On 
+other occasions, the Sraddha should be 
+performed along with that of her husband. 
+fsr^TFTt 
+MW, pp. 577-578 has five modes of devotion, 43 
+silent prayer, oblation, libations bathing idols and 
+feeding Brahman as. 
+1. cT«TT 7TFTC ^ ^ - five products of 
+the cow taken collectively- milk, curds, clarified 
+butter or ghee, urine and cowdung, V.S. Apte, p. 
+308. 
+2. The eighth day of the three months on which the 
+Pitrs are to be propitiated. 
+ww ^urmyi: 
+fw^rt TWIWM ^#rPTra^Tll^dll 
+During the Vrddhisraddha:> (an offering 
+made to the manes on prosperous occasions 
+such as the birth of a son), the Sraddha of the 
+mother should be performed first. But at Gaya 
+that of the father should be performed first. The 
+obsequial rite starts with the offerings of Padya 
+and the systematic laying of the Kusa grass with 
+the tips pointing to the south to the father etc. 
+The remaining activities of the Sraddha is to be 
+performed as ordained by Grhya(sutras). 
+sir nfiiusRf Srar ^unrm<r:i 
+<*VIWIWl4 ferfiRT fa<^c(eCT||^|| 
+The pilgrim may perform Sraddha of the 
+Sapindas from the right (southern) side having 
+spread Kusa grass once and having offered 
+sesame with water. 
+■Jj#c3TS3jrf?RT fepyjw 3FTcT:l 
+yfam^ui 
+The water libation is offered with the sacred 
+water of the Pitrs holding it in the hollow of 
+one’s palm. He may then offer the unfinished 
+pindas with a fistful of powdered fried grain. 
+The other relatives should be invoked then in 
+the Kusa grass by means of water with gingelly 
+seeds. 
+ftcR: 
+May all those Devas, sages, manes and 
+human beings, mothers and maternal 
+grandfathers and others beginning with Brahma 
+and ending with a blade of grass, be propitiated 
+by the water libation. 
+3. V.S. Apte, p. 530.
+
+## Page 459
+
+422 
+Vayu-Purana 
+For crores of the lineages of those ones, 
+abiding in seven continents upto the 
+Brahmaloka and Bhuvanaloka, may this be the 
+sesame water (as libation). 
+fan fijcflu^hr yfw-n:i 
+TTTrfT ftqp# q&J 
+Mldl^wf^Tdl xJ «HldlM^ebKd:l 
+riqi f^rrgT qqT qqf fr^'Ujyyfdjjcii^ii^^ii 
+Father (Pita), grandfather, likewise great¬ 
+grandfather, mother, grandmother, likewise 
+great-grandmother, maternal grandfather, his 
+father and his grandfather and the like- for all 
+of them, a Pinda has been offered by me. May 
+that continue for an indefinite time. 
+VHfrTdSTOFJi cfT d^l<)NirvAll 
+d^dHtd J ltd I ft! ^rdlfd TPTO^cTIRmi 
+Eight-normed in measurement and of the 
+extent of a wet myrobalan or of the extent of a 
+Sami petal, a pinda, one may offer at Gayasiras 
+and may redeem seven Gotras and a hundred 
+Kulas (lineages). 
+fudM^d: wnqfar qfqqrr ^dw«m 
+W 4faT: ^fddTMR^II 
+The seven Gotras have been enumerated as- 
+of the father, of the mother, of one’s own wife, 
+of a sister, of a daughter and likewise of the 
+father’s sisters and mother’s sisters. 
+xjdfdyifafdvia' %i 
+wni^n 
+s3 
+The hundred and one Kulas are as follows- 
+father and his twenty-four ancestors, mother 
+and her twenty ancestors, wife and her sixteen 
+ancestors, twelve ancestors of sister’s husband, 
+eleven ancestors of the son-in-law, seven 
+ancestors of the husband of the sister of one’s 
+father and eight ancestors of the husband of 
+mother’s sister. 
+q f^rat q g(M 
+q dii^ugq 
+Neither invocation nor the blockade of 
+quarters, nor the fault ensuing from vision or 
+unrighteousness, deserve to be incurred during 
+the Sraddha performance at a tirtha by the 
+skilled ones. 
+ftugi-Hd fq&gqiq gq: 
+q%TJTT rJIsHjebrM fqf£T:IR^II 
+Pindasana, Pindadana, (the seat of libation, 
+the offering of libation) and again the ritualistic 
+sprinkling with the Kusa grass, Daksina and 
+Annasamkalpa- this may be the ritual sequence 
+in Tirtha Srciddhas. 
+3Wo$<rl grlT % xj Jlld^ui q fqu^l 
+31131 dl-Hd^yg fdHtc(4:ll^oll 
+(Mantra) “In my own lineages who have 
+died and of which ones does not exist the 
+redemption (gati), I shall invoke all those, on 
+the Kusa platform by sesame waters. 
+qirfTq^f if q qfq^T q fellTTl 
+3TT3T#P2) W 
+In the family of matamaha (maternal 
+grandfather), whose movement does not 
+become possible, I shall invoke all those on the 
+surface of the Kusa with sesame water. 
+cRTcpfoqr % xj Jifaifai q fggfri 
+And in my family of kindreds (bandhu- 
+varga) who do not exist and whose movement 
+or redemption does not become possible, I shall 
+invoke all those on the surface of the Darbha 
+(Kusa) with sesame waters.” 
+^44: sqrqqRl 
+This way the pilgrim should meditate on the 
+Darbhas, repeat these mantras with the offering 
+of water libations along with gingelly seeds, 
+invoke and adore the manes and offer the 
+Pindas as per serial order.
+
+## Page 460
+
+Chapter-110 
+423 
+TJ?TT % XT R fallrtl 
+ft ffot ^IWf^ll^^H 
+“In our family, for those who died and 
+whose redemption does not exist, for the 
+emancipation of those, I offer this libation ball 
+(Pinda). 
+nidm^ q sr •nfdffqi q Mti 
+fq fttrt 
+In the family of my maternal-grandfather, 
+those who died and whose redemption do not 
+became possible, I offer this libation ball 
+(pinda) for their redemption. 
+O 
+fq fintt 511 
+I offer this libation ball {pinda) for the 
+upliftment of those persons belonging to the 
+family of our kinsmen who are dead and who 
+have no other means of emancipation. 
+SNIcK-rh % q q$ TPftfgcTT:l 
+^rm^qtJirak fq fcrni 
+Those who had their teeth ungrow and those 
+who became tortured within the foetus, for their 
+redemption, I offer this libation ball {pinda). 
+faarcfHddl i q fcq: ftftit «luigqil3<SII 
+Those who were fire burnt and others who 
+got burnt by fire and those struck by lightening 
+or by thieves, for them I offer this libation ball. 
+'dTciaxii 'tjcTT ^ q Ui^ciiiy^digr 
+^jfffsrafsfq 
+Those who got killed in forest conflagration 
+or who were killed by a lion or tiger, the jawed 
+ones or by homed ones, unto them I offer this 
+libation ball {pinda). 
+ancqmrfqqr q % <*«r: fans ^im^uxon 
+Those who died by implement on the stake 
+and those who were killed by poison and 
+weapons and those who committed suicide, 
+unto them I offer this libation ball (pinda). 
+^ ^rw gw grTT: I 
+Those who in the forest route or in the 
+forest, were killed by thirst or hunger, by 
+Bhutas (ghosts) Pretas (goblins) and Pisacas 
+(vampires), unto them I offer this libation ball 
+(pinda). 
+in&t rfi*rdifa& 0&) cKTrrqa xj $ ttcTt.-i 
+?q ftmt rrarcq^q^ir^ ^ u 
+Those who have fallen into the hells called 
+Raurava, Andhatamisra and Kalasutra, for the 
+redemption of them, I offer this pinda (libation 
+ball). 
+% qqi: i 
+s3 S3 
+fq ftrni I"* 311 
+I offer this libation ball (pinda) for the 
+salvation of those persons who have fallen into 
+the terrible hells of Asipatravana or 
+Kumbhlpaka. 
+itovTtejJ q % qqr:l 
+Those who were exposed to many tortures, 
+who went to the Pretaloka (the world of ogres), 
+for their redemption, I offer this libation ball. 
+: ^ qfaT qqfi^fiV.l 
+fq fqut ^nq^qil'kmi 
+And those who were taken to the abodes of 
+many torture by the Yama’s attendants, for their 
+redemption I offer this libation ball (pinda). 
+qn$q qqqfq qiqqrq q % fqjqr:i 
+s3 s5 s3 
+dmM^TQTrak ^q ftni ^^ro^qn^ii 
+For those who stayed in any of the hells or 
+abodes of torture, for their redemption I offer 
+this libation ball (pinda). 
+q^qrfqqqr $ q 
+f: ftftri iretail
+
+## Page 461
+
+424 
+Vayu-Purana 
+Those who attained to the breeds of animals 
+and who became snakes, reptiles, birds and 
+insects or those who imbibed the breed of 
+plants, for them I offer this libation ball (pinda). 
+1TR5T fcfcr #T #T: fmg ft 
+I offer this libation ball for those persons 
+who are transmigrating into the thousands of 
+other lives as a result of their own actions and to 
+whom the human birth as become a rarity. 
+ft# cf|jycfid(y:i 
+3tw$ht ^ ^ <rm: iw 
+For those who are stationed in heaven, 
+atmosphere and land, the manes and kindreds 
+and the like, who died as unpurified, I offer this 
+libation ball {pinda). 
+% jfcfadld*# ftctfr Wl 
+^ gfowraraj foo^i^ ^rimon 
+Those manes of mine who stay as Preta- 
+framed, all those may attain to gratification by 
+offering of libation all over. 
+^rcrcfT cir ^r^t: i 
+rfot fo# w 
+Those who may or may not have been my 
+kinsmen in this birth but who were my kinsmen 
+in the other births, unto them, the pinda is 
+offered by me as the indestructible, while they 
+stayed as such. 
+fog# gdi % w ing# v % grn:i 
+^ xTRT WRraT grTT:im^ll 
+% tt c# rrafoosT: ^ygR'foctf^dii 
+fo^T^foTRT % rT snrSRTT: ? II 
+foWT 3TTW% 5TRTWT: ^ *WI 
+fou^t W 
+Those who died in the family of my father 
+and those who died in the family of my mother, 
+those others who were the kindreds or elders or 
+teachers or fathers and fathers-in-law, those in 
+my family who had neither sons nor wives and 
+hence had been deprived of Pinda offerings, 
+those who had been defaulters in the holy rites, 
+those who were bom blind, those who had been 
+lame, those who had ugly forms, those who had 
+been prematurely bom, known ones and 
+unknown ones in my family- to all those the 
+libation ball has been offered by me. May it be 
+indestructible in reaching unto them. 
+3TT g#T fog^VMIrlT 
+gnFWdi 
+m h 11 
+ftdifor forw, g§TT 
+ggr wggtgr #1wtt.-i 
+% w wnsr 
+#r: wit foug’qg ggifant^ii 
+Those who are bom in the family of my 
+father ever since the days of god Brahma; those 
+who are born in the family of my mother; those 
+who had been my servants in both these 
+families; those attendants and dependants, 
+friends, animals, pupils, trees, birds seen or 
+unseen ones, those who had rendered help unto 
+me; and those who united with me in different 
+births- to all of them, I offer this libation ball 
+with Svadha. 
+Tlrtej ^foTfRT *11 
+With these mantras, the pilgrim should offer 
+the libation balls to the feminine gender too, 
+beginning with mother. In that case, he should 
+incorporate necessary alterations in the 
+substantives and adjectives as per the feminine 
+gender. 
+WTfo TTRTfo ## fou^Wdqj 
+mt, fot>i #d>difoiHn^ii 
+Whether in one’s own Gotra or in the other 
+man’s Gotra, the offering of libation balls, the
+
+## Page 462
+
+Chapter-111 
+425 
+performance of Sraddhas and the water 
+gratification is futile if done separately. 
+Having thrown gingelly seeds in a libation 
+vessel and having filled that with auspicious 
+water, he should perform the Parisicya rite 
+thrice for all the Pipdas as per systematisation. 
+He should then conclude the rite having bowed 
+down. 
+W W ■HUl'HlSJ iwnt ^rfTll^oll 
+Having performed the rites for the manes 
+and having sipped water, one may make to hear 
+the witnessing gods. The Devas, Brahma, Isana 
+and other likewise may become witness for me. 
+By me having reached Gaya, redemption of 
+manes has been done. 
+3rm#r5fFr whi 
+I have come to Gaya for the undertaking 
+unto manes, O Deva! O Gadadhara! You are a 
+witness thereof, O adorable one! I stand 
+absolved of the threefold debts”. 
+WlfrMUiSrt ^1 
+j)d^d*IIW rT 
+0 Narada! On all the spots, there may be the 
+offering of libation balls like this. Having 
+started from Preta mountain, one may take to 
+libation offering in all the tlrthas in due order. 
+zm ^%UTTffR#T rfll^ll 
+Then one may throw oat meals suffused 
+with water over Preta mountain by left hand as 
+well as by the right one faced as such, O 
+Devarsi. 
+(Mantra) “Whosoever, my manes, stay as 
+Pretas on the Pretaparvata, they all may get 
+gratified with oat meals suffused with gingelly 
+seeds. 
+wn qfewraFj Trefcrmsmi 
+May all the mobile and immobile beings 
+beginning with Brahma and ending with a blade 
+of grass be propitiated by means of the libation 
+offered by me.” 
+SlrlWkel fafrET: TS: ^1 
+>ld« rPPI Mi5ir«4lr^(ri -T IfT^II^ S* II 
+His manes shall be released from Pretahood, 
+O Narada! The state of a Preta will never recur 
+in his lineage because of his greatness. 
+^TRT Sldfvitfl TsSTrTT TOlfanfa WTl 
+By name has been illustrated Pretasila at 
+Gayasiras for emancipation. Adigadadhara is 
+stationed (there) in the form of the holy centre, 
+Mantra etc.
+
+## Page 463
+
+Chapter-111 
+425 
+Chapter 111 
+The Gaya Mahatmya in Uttaramanasa 
+tirtha' 
+w fafa: i 
+' O 
+1. A place, sacred one in Gaya, GDOAAMI, p. 214, 
+also the Garigaloka near Nandiksetra at the foot of 
+Haramukha peak. In Kasmlra Rajatararigin! Kosa, 
+Uttara Manasa, a sacred lake spring out of 
+Pundarika and Payoda lakes, the source of MrgyS 
+and Mrga Kanta streams, Vayu Purana 111.4, 
+Pauranika Kosa, p. 58.
+
+## Page 464
+
+426 
+Vayu-Puraija 
+Sanatkumara said- To begin with, I shall 
+mention the procedure for holy rites in the five 
+tlrthas in the Uttaramanasa. Having performed 
+Acamana rite with hands (holding) Kusa grass, 
+the pilgrim should sprinkle water over his head. 
+RRl^ ?nfcrt <$c<3T %qfatfi|UgcfiHII3ll 
+Then he should go to the Uttaramanasa and 
+may take a holy bath with the chanting of 
+following Mantra- “In Uttaramanasa lake, I am 
+taking a bath with a view to have personal 
+sanctification and for the sake of 
+accomplishment of the success of the solar 
+world and the like and for the emancipation of 
+the manes”. Having performed gratification of 
+the Devas, he should perform Sraddha with 
+pindas (libation balls) offerings. 
+W f| TRt fET HWJfrrtTRFrRI 
+^4 ^4c4«h II 
+Manasa is the lake here and from that one is 
+Uttaramanasa. Having bowed to and offered 
+obeisance to Surya (Sun), one may carry manes 
+to the Suryaloka. 
+(Mantra) “Obeisance be to the lord and 
+sustainer (Sun) who assumes the forms of the 
+Moon, Mars, Mercury, Jupiter, Venus, Saturn, 
+Rahu and Ketu ” 
+m RRT %T WlfftoT *[RcT:ll$ II 
+From Uttaramanasa, the pilgrim should 
+proceed towards Southern Manasa, duly 
+observing the rite of silence. This is called 
+Udlcltlrtha. An Udfcltlrtha (northern pilgrimage 
+place) is an afforder of emancipation. Having 
+bathed here, a man goes to heaven along with 
+his own body. 
+fm fepmi 
+RR: MfdadldJ l\911 
+In the centre is the tlrtha Kanakhala, well- 
+known in the three worlds. One taking bath 
+there, shines like gold. The man attains sanctity. 
+^•prr RRr xNr MdiiM^dMiiiii 
+In the right part of that one is the tlrtha 
+Daksinamanasa. And in Daksinamanasa, a 
+tlrtha triad stand illustrated. 
+Riven fggilq 
+fRIcdTcfilid,4ft 
+^^ifdMIMhjiJIddl'yi f^gr^ll^oll 
+Having bathed in them with a proper order, 
+one may perform Sraddha quite in a distinct 
+norm (staying) in the Daksinamanasa. “I bathe 
+here for personal purity, for the accomplishment 
+of success in the Suryaloka, for the 
+emancipation of the manes and for the sake of 
+freedom from the torture of the killing of a 
+Brahmana and the like. 
+cfiTTOTf Rti d^Rlftl 
+Rf RJTSxlft^l xf fl4ftch d€rfdJ<RII^II 
+C\ Os t N ' 1 
+0 Divakara (Sun)! I bathe here in 
+Daksinamanasa. Having bowed down and 
+adored the Sun, one may carry manes to the 
+Suryaloka. 
+Wlfk RT fRJsf fq^roit WH'Oira w 
+II 
+I bow down to the Sun-god for the purpose 
+of satiety and for redemption of the manes and 
+for the sake of sons, grandsons, wealth, 
+prosperity, the elongation of age and health”. 
+^frwi^4diyi-d4wmii 
+csmt ftw sn^T: ^ni^ii
+
+## Page 465
+
+Chapter-111 
+427 
+(After this) one may go to the Phalgutlrtha. 
+From that holy centre which is excellent among 
+all the tlrthas, emancipation gets on to the 
+performers of Sraddha of the manes, 
+gw mf^TT fw: -CRr^Tcht 
+§rf rR r^3f: II 
+Being requested by Brahma formerly, Visnu 
+became Phalguka earlier. When its dust 
+particles were consecrated in the Daksinagni, it 
+came to be known as Phalgutlrthaka. 
+gift -eraTfui o 
+rTlft I 
+All the tlrthas in the Universe come over 
+there to Phalgutlrtha with a view to take bath 
+there along with Suras. 
+tt^t 
+f| *cRsftxnr 
+Gariga is padodaka (originating from the 
+feet) of Vi$nu and Phalgu is the Adigadadhara 
+himself. He assumes the form of a liquid 
+himself On that account, it is called 
+Gangadhika (i.e. more sacred than Gariga). 
+3TgW^*TTllli TTp? g: WMWtHI 
+He who performs a thousand of thousands of 
+AsVamedhas does not attain that fruit which one 
+attains after reaching Phalgutlrtha. 
+^TT: RF3T cPfot 
+Having bathed at Phalgutlrtha, one may take 
+to the Sraddha meant for gratification and one 
+may bow to Pitamaha (Brahma). He should then 
+offer pindas in the manner that has been 
+prescribed in his own Sutra. 
+qq: fyrcna ^cTRT JJW4I #1 
+'Uglbrtldiq ?m%ll^ll 
+“Obeisance to lord Siva, Isa, the (great) 
+Purusa, to Aghoravamadeva and to Sanhbhu 
+born instantaneously”. 
+OTrRR cTTRTRrat 
+After taking bath in Phalgutlrtha'and visiting 
+lord Gad&dhara, the pilgrim shall redeem his 
+own soul, the ten earlier ones and the ten 
+subsequent generations. 
+3Tf ^ cii^ki qq: ticffluiiq 
+Having bowed to the god Gadadhara, one 
+may adore him with this chant- “Om, obeisance 
+be to Vasudeva and obeisance be to Sankarsana 
+(Balarama), to Pradyumna, to Aniruddha as also 
+to Sridhara, the consort of Sri (Vi$nu)”. 
+g^Jvlich HdfrMdHl 
+3Pjt: ^TR 
+At Pancatlrtha1, having performed an 
+ablution, a man may lead his manes to the 
+Brahmaloka. One who does not bathe the 
+Gadadhara by means of Pahcamrta nor 
+embellishes it with flowers and garments, his 
+Sraddha becomes futile. 
+TTr^WfTTC: tKRTrM 
+From the Nagakuta2 mountain to 
+Grdhrakuta, from there to Yupa and from there 
+upto Uttaramanasa- this becomes known (lit. 
+spoken) as Gayasiras and that is called 
+Phalgutlrtha (too). 
+wrsf| farfir: ^trEt fsirft g^ri 
+yPTTCRi spft 
+niMI^^RHIcEirm^Alct f| RTTcfll^XII 
+1. One of the five tirthasthanas at Gaya named Uttara 
+Manasa, Daksina manasa, Kanakhala, Phalgu tirtha 
+and Gadadharadeva mandira, vide Vayu Purana 
+111.21, Pauranika Kosa, p. 284. 
+2. Nagakuta- At Gaya is fully within Phalgu tirtha and 
+Gayasiras. A bath herein is indestructible, Vayu 
+Purana 111.23, Pauranika Kos'a, p. 237.
+
+## Page 466
+
+428 
+Vayu-Purana 
+On the first day, the performance of the rites 
+has been declared. On the second day, the 
+pilgrim should go to the Dharmaranya. At this 
+place, Dharma performed a sacrifice. By a visit 
+to this place, the attainment of Brahmaloka 
+comes off, O Narada! 
+nayciiart rnSnt 
+He who having bathed in Matangavapi 
+(Matarigasrama in Gaya)1, takes to Tarpana and 
+Sraddha (gratification and obsequial rite) and 
+bows down to Matangesa, (he attains 
+Brahmaloka). He may chant the following 
+sacred Mantra. 
+wot TRJ H’lebMIc'Ug' '*Trf?(ltJT:l 
+“Gods may bear evidence and the quarter- 
+guardians may be the witnesses of the fact that I 
+had come to this Matangavapi and the 
+redemption of the manes has been effected by 
+me . 
+Vcf ft Vgffi W ejjft writ ! 
+snf srfrgf Rt^iRV9ii 
+This way, at the well called Brahmatlrtha, 
+one may get a Sraddha performed. In the midst 
+of that Kupa (well) and Yupa (sacrificial post), 
+one gets redeemed all the manes. After bowing 
+down to Dharma and Dharmesvara, one may 
+bow down to the tree of Mahabodhi. 
+sf^fcumfvicjrrMqi 
+cEcfai flTPJTO ^11^6\\ 
+“Obeisance be to you, the Asvattha (the holy 
+fig tree) lord, having soul for Brahma, Visnu 
+and Siva. The Bodhi tree is the (tree of 
+enlightenment) for the performers and the 
+redeemer of the manes. 
+TITsT# TTrTT: I 
+1. Pauranika Kosa, p. 391 vide Vayu Purana 111.25. 
+May our kinsmen, of our lineage or of our 
+mother’s family who attained to miserable 
+condition, may attain to the state of heaven of 
+perennial norm by your sight and touch. 
+^^idW^imMir^Thls^ qgiu^u^oii 
+The debt triad have been repaid by me after 
+coming to Gaya, O lord of the trees! By your 
+grace, I am freed from the great sinister wretch 
+and the ocean of worldly existence.” 
+tRftrr 
+On the third day, the pilgrim should duly 
+take bath in Brahmasaras and perform Sraddha 
+with the offering of libation balls repeating the 
+chants as per ritual, O son! 
+TP cFTtfa 
+“I bathe in this tirtha for the freedom from 
+the debt triad”. Then in the midst of Kupa and 
+Yupa, (by performing Sraddha), one may lead 
+manes to the Brahmaloka. 
+trnt 
+This Yupa was raised by Brahma after 
+performing a Yaga (sacrifice). Having offered 
+this Sraddha at Brahmasaras, one gets redeemed 
+all the manes. 
+Having circumambulated the Yupa, one 
+gains the fruit of Vajapeya sacrifice. Having 
+bowed to Brahma, he may lead his manes to 
+Brahmaloka. 
+TfttsTf ^rmwRTif^ftniri 
+'JTrSRT ^ fqgtITT g m&m TtT:ll^mi 
+“Obeisance be to Brahma, the birthless one, 
+the one having form of the birth of the Universe 
+and the like. Obeisance be to the redeemer of 
+the devotees and the manes.”
+
+## Page 467
+
+Chapter-111 
+429
+
+## Page 468
+
+430 
+Vayu-Purana 
+of Gayasura, the Sraddha performed here is an 
+indestructible one. 
+3Trat «tThMrtilrmi fecT:ll 
+fywjeiif<iid^ui i^FT gfa»?|d^ii*^ii 
+The region below the mountain 
+Mundapr$tha too constitutes PhalgutTrtha. The 
+primeval lord Gadadhara is stationed here in 
+both visual as well as unvisual forms. The foot¬ 
+prints of Vi$nu is divine and destructive of sins 
+at its very sight. 
+tjdfcaJIMc- f^oq- 
+This Visnupada is divine, endless, 
+auspicious and imperishable. By touching and 
+worshipping it, sins are dispelled. Whatever is 
+given unto the manes becomes of inexhaustible 
+benefit. 
+■HftugcB ^rTOT^nTFRTI 
+ftwqoqq411*4II 
+By performing the Sraddha along with the 
+Pinda offerings, one leads a thousand members 
+of one’s family to the divine foot of Visnu 
+which is auspicious and infinite. 
+srng 4perr ^tt:i 
+WS5AHT f?lcN< rWl ^:II*<?N 
+SlfjIHlch <^yid 
+By performing Sraddha at Rudrapada1, a 
+man takes a hundred members of his lineage 
+along with the self to Sivapura. Similarly a 
+pilgrim performing the Sraddha etc. at the foot 
+of Brahmapada leads hundred members of his 
+family to Brahmaloka. 
+^uiip^ik; srngt ftPTWjr qipTI 
+1. Raudrapada Mahabhurata Vanaparva 82.100, p. 
+506, Pt. I Gita Press, Gorakhpura 1956 edition. 
+ddiP^Tii 
+(for vPfcl) 1 
+3TT^ ctMMilCFrf cWcTim ^11 
+At Dakjinagni-pada, a Sraddha performer 
+may lead the manes to the Brahmapura and at 
+Garhapatya-pada, a Sraddha performer may 
+gain the fruit of Vajapeya sacrifice. 
+Having performed Sraddha at Ahavaniya, 
+one gains the fruit of a horse-sacrifice. Having 
+performed Sraddha at Sabhya-pada, one may 
+gain the fruit of Jyotistoma. 
+OTarwra? ^iri 
+Having performed Sraddha at Avasthya- 
+pada2, one may lead the manes to Brahmapura 
+and having performed a Sraddha at Sakrapada, 
+one may lead the manes to Indraloka. 
+: «T^lr 14*11 
+At the feet of Agastya, a Sraddha may lead 
+one to lead the manes to Brahmapura. On 
+Kraunca and Matanga padas, a Sraddha 
+performer may lead the manes to Brahmaloka. 
+dilfrM44ll44ll 
+At Suryapada, he who perfomis Sraddha 
+leads even the perpetrators of five great sins to 
+Arkapura. At Kartikeya-pada, a Sraddha 
+performer may lead manes to Sivaloka. 
+4M(*uid>iu|c^Pj4d w4^fdJddll4 5ll 
+He who performs Sraddha at the foot of 
+Ganesa leads the Pitrs to Rudraloka. One who 
+performs Tarpana rites in the holy spot 
+Gajakarna leads his Pitrs to the resplendent 
+heaven. 
+2. The unusual words are covered by bonding thread 
+and hence exact words are not legible.
+
+## Page 469
+
+Chapter-111 
+431 
+^ ^ srngt fi(dcW3< 
+^=kt chiv^rt fanEDTt § tj^ii 
+M «nfr %E cT? Jlcblfddflll^ll 
+A Sraddha performer at the feet of other 
+deities leads the manes to Brahmapura. Among 
+all the footprints, those of Kasyapa, Visnu, 
+Rudra and the pada of Brahma are illustrated as 
+the most excellent of all. 
+3HTKT g m4 rr i 
+qrc^im^n 
+At the beginning and at the end, an 
+alternative one stands remembered. O Narada, it 
+is conducive to the welfare of the performer of 
+the Sraddha. 
+^ f^r qRSrat gft: Wi 
+sn^g 5if ftnwnimsn 
+At the divine feet of Kasyapa, sage 
+Bharadvaja performed Sraddha formerly. He 
+became leading to offer libation balls unto the 
+manes. 
+^leRHcfewft rm ^ frfcfh 
+m ■gft: ^twn^T:ii^oii 
+Two hands, one white and the other black, 
+then issued out breaking asunder the foot. On 
+seeing the two hands, the sage entertained a 
+doubt. 
+cRT: WHItR TTRTt W^5 ^ HgPjft:ll 
+chgquyq f^T ^pFT c*T cfTTlI 
+fWr W HkMHlfa fwt cJctll^ll 
+To his mother Santa questioned that great 
+sage- “O Mother, is the pinda to be offered to 
+the white hand or to the black hand, at the 
+divine foot-print of Kasyapa? You know my 
+father, (so) you speak out.” 
+VIMYdW 
+3TTTSF3T TT?W efeWira 
+VTTTgraW: foot <$0J||i| gtSRT:l|^|| 
+Santa spoke- “O (illustrious one!) O 
+Bharadvaja! O highly wise one! Offer the 
+libation ball unto krsna (the black one).” Then 
+Bharadvaja attempted to give the Pinda to the 
+black one. 
+f? Trtfhnff: I 
+^aJTT35l4t^T'M ftugchHIl^ II 
+Then invisible as such, the white one spoke 
+out- “You are my son bom from the uterus.” 
+The black one spoke out- “It is my ksetra 
+(progeny), hence you may offer libation balls to 
+me.” 
+rnTgRTw. ^ii 
+Then the Svairini (wanton woman) said that 
+the pindas are to be given both to Ksetrin (the 
+husband) and the Bijin (the procreator). 
+Bharadvaja then offered pinda to Kasyapa on 
+his (obsequial) spot. By an aerial chariot yoked 
+by a swan, both of them went to Brahmaloka. 
+tptT srng ftu^Hiiii ?fm?r:i 
+fttTT ^RST: ebiHMicttll^mi 
+Rama attempted to offer the libation balls at 
+the sacrifice at the Rudrapada. His father 
+Dasaratha came there from heaven stretching 
+his hand. 
+Hl^lfrMUg clft THTt ^ cTcT:l 
+TT4 ctfRSltSSefall^ll 
+Rama did not offer the libation ball unto the 
+hand. Then he placed the libation ball at 
+Rudrapada. To Rama, frightened on violation of 
+the edicts of scriptures, Dasaratha spoke. 
+rTTfcTtet ^HI<*Hc||Mi|IM| 
+^ ^ STt^ll^ll 
+“O son! I have been redeemed by you. I 
+shall attain Rudraloka. By an offering of 
+libation ball unto the hand, my movement to 
+heaven would have came about.
+
+## Page 470
+
+432 
+Vayu-Purana 
+fa g jm fat WlfaRU ft^rF5T3TT:l 
+fawjHl* afawifaii^ii 
+^rfan^: nfa ^faafeifafa: wi 
+sp^cfaTS'^fl' <Vk^ fa il;ii 11 ^ ^11 
+And you having reigned over the kingdom 
+for a longer span, having protected the 
+Brahmanas and subjects, having performed 
+sacrifices with gifts, will go to Visnuloka along 
+with all the people of Ayodhya as also along 
+with insects and worms.” Having said so, this 
+Das'aratha went to Rudraloka. 
+#atr 3TTf*T ftfa 
+$it% foatewt ^ r^ug^uu'aou 
+RT5#|U3 fat rfiT:ll^ll 
+At Visnupada, the excellent one, Bhisma 
+invoked his father and performed the Sraddha. 
+When he became ready to offer libation balls to 
+the Pitrs, then emerged out two hands at 
+Gayasiras of Santanu (his father). Bhisma did 
+not offer the libation balls into the hands and 
+offered them at the foot-print of Vi§nu. 
+3TT? TSfcjS: H^IHI 
+Then Santanu spoke satirised- “In the 
+interpretation of Sastras, you are adamantine. 
+May you have the vision extending to the three 
+times. At the end, may Visnu be your goal. 
+eMfay'l *T fafat rj cnUR^II 
+<5<^n wsrezf ffapifagr wrcfa^n^ii 
+As per discretion death may come about to 
+you”. Having said this way, he attained 
+emancipation. By adoring Kanakesa, Kedara, 
+Narasimha and Vamana in the northern path, 
+one may get redeemed all the manes. 
+V: fqu§R|t|T HURT § Mfall 
+Hfaifal faef '^nfal 4)^lHIH^:ll\9'iSII 
+If Pindas are offered at Gayasiras invoking 
+their name, persons (who are thus invoked, if) 
+they are stationed in a hell, proceed to heaven 
+and attain emancipation. 
+Hfal ■qu-^yifc: f?ri$RT:l 
+wfar fbrTT: 
+All over, the mountain Mundapr§tha has 
+been clearly marked by these footprints. All the 
+manes go to Brahmaloka free from diseases. 
+efarcjTfar wnf d<fen 
+P^lfaRTT urnrfaf RST ffaTrJfall 
+TehHFriufa faTRT RtpidHUl-dHRII^ H 
+The head of the demon Heti was split into 
+two and the mace {gada) was washed in this 
+tlrtha. Therefore, this tlrtha is conducive to 
+liberation. It is well-known as Gadalola. It is 
+the most excellent of all excellent tlrthas. 
+7T^TP^TT^RT^:l 
+HR gJTtfa fa^fafa$fa 1^^911 
+At Gadalola Mahatlrtha, owing to the 
+cleansing of gada of Hari, “I bathe for the sake 
+of accomplishment so that I may attain to the 
+status of an indestructible norm.” 
+SIRS STIIV94II 
+On the fifth day, the pilgrim shall take his 
+bath in the holy centre Gadalola and perform 
+the Sraddha along with the offerings of libation 
+balls. He will (thereby) carry the manes and 
+himself to Brahmaloka. 
+fafaNtffarr: Traf: ftgfa: w faRrmi^ii 
+The pilgrim shall adore the Brahmanas 
+incarnated as Brahma, He should propitiate 
+them by means of Havyas1 and Kavyas2. If they 
+1. V.S. Apte, p. 637, oblation offered to gods. 
+2. V.S. Apte, p. 140, oblation of food offered to the 
+deceased ancestors.
+
+## Page 471
+
+Chapter-112 
+433 
+are satisfied, all the deities along with the manes 
+are satisfied. 
+^ : i 
+<T Wd^HJIioll 
+A Sraddha performed at Aksayavata (a 
+Banyan tree in Prayaga and Gaya)1 with cooked 
+food will lead the pilgrim and his manes to the 
+Brahmaloka of indestructible norm. 
+ci *vci v r-_\ . Ar. l . r~~ N r* 
+In vicinity of that Banyan tree, if a single 
+Brahmana is fed with vegetables or even with 
+water, it is as fruitful as feeding a crore (of 
+Brahmanas), 
+A gift of sixteen types deserves to be 
+bestowed unto a chaplain at the Gaya tirtha. He 
+should be duly honoured and should be offered 
+clothes, scents etc. in the company of one’s 
+sons. 
+Near the ocean, in front of the Banyan tree, 
+whosoever sleeps with the slumber of Yoga 
+(mental concentration), assuming the 
+framework of a child, to that one reclining by 
+Yoga, an obeisance may be (offered). 
+xf! 
+Unto one having weapons made of Banyan 
+tree, the one obviator of all sins and to one 
+gifter of indestructible Brahman, obeisance be 
+to that Aksayavata. 
+<J^fr WffTT HTcST ?TWT^m:ll 
+xT cT% 
+In the Kali age, people are the followers of 
+Mahesvara. On that account, Gadadhara has 
+assumed the form of a phallus. I bow down to 
+that Prapitamaha. 
+srfafnrrnrr srnprt3> 
+* * * 
+1. Pauranika Kosa, p. 8.
+
+## Page 472
+
+II3W 
+:ll 
+Chapter 112 
+The description of the Yajna (sacrifice) 
+of the king Gaya 
+O 
+^ Tf^r TT3TT 
+^ ^SJRTgjgRt WIT 3ST? ^ W^ll^ll 
+Sanatkumara spoke- The king Gaya, 
+performed a sacrifice (Yajna) abounding in food 
+and gifts, wherein the counting of the heaps of 
+riches or materials is very difficult of being 
+recounted. 
+%3FOT cTT WT HOT OT>n V fefo TTTOTT:I 
+tot ii 
+Like the sand particles in the universe and 
+like the stars in the heaven, that very way by the 
+gems and gold and the like, the gifts became 
+uncountable. 
+^ grfrsjfcT hotti 
+y^'M-rPvi flsrrtfOT ^jf%rn:ii^n 
+Formerly no one has done like this and no 
+one will be doing like this in future. The 
+Brahmanas who were well-honoured and 
+adored in the different lands, praised it like this. 
+wi fspneire^pEpT cit fftirT snfcRi 
+3t$otot3J % grrimi 
+mnJTT % f?HT: TOT SOTH sTOTT^OT:! 
+WTTTfTT WRI WOT gT^nfft OT9TIIM! 
+Visnu and others who were gratified spoke
+
+## Page 473
+
+434 
+Vayu-Purana 
+to Gaya- “You may ask for a boon .” And Gaya 
+then requested them- “May those Brahmanas 
+who were cursed earlier by Brahma, become 
+sanctified. Let them be honoured in the 
+sacrifices. May this city be known as Gayapurl 
+after my name and let it be as well-known as the 
+city of god Brahma.” 
+RRRRT RT ^fcfT RTT:I 
+rr?i r^rhirri Rt R*ftn$n 
+“May it be so”, this way having conferred 
+the boon, the gods became out of sight 
+thereafter. And Gaya, having enjoyed the 
+objects of enjoyments, went to the excellent 
+Vi$nuloka. 
+rr rrt^rI ^ ^fejyiw rnf^g3n:iiv3ii 
+In the city called Visala1, there was a king 
+named Visala, issueless or sonless. He spoke to 
+the Brahmanas- “How can I beget sons etc.?” 
+Then to Visala, spoke the Brahmanas. 
+rrpr hr Rtf 
+fayne-nsfa rrt^ 
+“By the offering of the pindas at Gaya, all 
+shall happen as per your (desires) (lit. of 
+yours).” Visala offered pindas at Gayasiras and 
+begot sons. 
+3HRTSSRIT?T fRR TtK RRRRRRtoi 
+% RR ^5 fRR: Rtcf fqVlHch^ll^ II 
+Having seen three person in the sky white, 
+red and dark-complexioned, he spoke out- 
+“Who are you all?” One of them, the white one, 
+spoke to Visala. 
+1. Name of a tirtha according to Puranas : Pauranika 
+Kosa, p. 470 : Name of Sarasvat! preferred in the 
+country Gaya of King Gaya. Ibid according to 
+MahabhSrata Salya Parva, 38.20-21, p. 226. 
+srFTrff Wrii cR 'HRU 
+wrm fee g 
+^fwfcU: -Part III GPE, 1957. 
+fRRRf RRR 
+RR RRT ftRTT Trfit R^I?T RTR^RRtll^o II 
+“I, the white one, am your father who have 
+come here from Indraloka. O son, my father is 
+this red one. He had killed a Brahmana, a 
+sinister wretch. 
+SIR fading: c£BJT HiRRt RR yifddkl 
+STrMrRT^ Wl RR^ cc|fRV)d<Rd:ll^ll 
+This black one is your grandsire by whom 
+many sages had been killed. They had fallen 
+into the hell called Avici. They two got 
+emancipated by your offering ofpinda. 
+fRRR fMrimgl^R R^R RfRcTTRffRI 
+jftoiRlfafa RRlR IRRT ^RRfTRRII^II 
+O destroyer of enemies, you offered the 
+water libation saying, “I shall propitiate my 
+fathers, grandfathers and likewise the great 
+grandfathers”. 
+rtrRr rrri 
+5%: ^RT IRRT RR RRTR: WlRRRRII 
+RR rI: ft^Rlt R RtfcZJT RfewRTlI^II 
+As a result thereof and in view of your 
+above statement, we have come here 
+simultaneously, O excellent man! O son, an 
+emancipation has been effected by you. We 
+shall go to the excellent heaven. This way the 
+emancipation of highest order of the manes 
+must be effected by all sons. 
+xj ll^rq f%TT ^TUT^J 'gefo'MI 
+Having reigned for good many times and 
+having enjoyed the enjoyment difficult of 
+obtainment and having performed sacrifices 
+endowed with alms or gifts, you may go to 
+Visnupura thereafter. 
+■Qcj" HcejchI IKrfT f^cf ^Trf: I 
+^TOR: R? RfrnRTRT^gTf^R rrmi^ii 
+This way having a boon acquired, the king 
+having reigned, went to the heaven. The
+
+## Page 474
+
+Chapter-112 
+435 
+Pretaraja (goblins lord) along with Pretas 
+(goblins) attained heaven, thanks to 
+Gayasraddha. 
+Tlcf: ct>Fc^<siq)cU 
+tnr qrn=rr ^ii^ii 
+^ £R -RTTI 
+^TTc^T WSTT^SSRt ^>11^11 
+Some Preta (goblin) for the sake of 
+emancipation, spoke to a Vanij (merchant)- 
+“Please offer pinda in my name at Gayasiras for 
+the sake of my release from the state of ghost. 
+You accept all my riches. Having taken all that 
+money, you incur the expenditure of Sraddha at 
+Gaya. 
+SR^rW W?T f«i t cj-dciH^qj 
+'WWlfa iWRJFi qu^qiisMIdcIR^II^II 
+I have given you five-sixteenth part of my 
+wealth. I have mentioned my name (etc.) in the 
+proper manner ” 
+W SldTraW 
+^Tsf wfM^UlWdt c^ll^ll 
+Having gone to Gaya along with kinsmen, 
+the man offered pindas to Pretaraja at 
+Gayasiras. It was only after that, that he offered 
+the pindas to his own manes. 
+Tic* ^TOTST 8T? f^GOTT OwillRoll 
+Preta got released from the state of Preta 
+and the merchant came back to his house. Thus 
+is the holy centre of Gaya, of Sambhu, Visnu 
+and Ravi. 
+OTlftHISSJ JlPJdldli 
+tmxn: W. WI STW: 
+o 
+qftusgj e§?rqii^ii 
+The pilgrim should observe fast then at 
+Gayatri tlrtha1 stationed near the river 
+Mahanadl. Having bathed in front of Gayatri, 
+one may take to the morning worship as such. 
+Having offered Sraddha along with pinda, one 
+carries his lineage to the state of Brahmanhood. 
+^TTcerc TRTferr: wr rt: i 
+TTszn^ f^rn 
+Fmu^cJh cR: ^frj^i'i 
+After taking bath in the Samudita tlrtha in 
+front of Savitr! and performing Sandhya at the 
+midday junction, the pilgrim leads hundred 
+members of his lineage to heaven. The offering 
+of pinda then may be taken out of desire for the 
+redemption of the manes. 
+SMlwWrfldl^ ■RlrcTr ^yrfarfyi 
+www Trrar| 
+^^dloHbyiHlMI-MThfU^yj^dJR ? II 
+After taking sacred bath in the holy water 
+called At Praclsarasvati tlrtha1 as per ritual and 
+performing Sandhya at eventide, one may lead 
+manes to Visnuloka. A performer of Sandhya 
+triad becomes free from the sin of negligence of 
+performing Sandhyas in many births. 
+fcWHRMi W W1PI 
+One becomes liberated by performing 
+Sandhya on three occasions in the holy centre 
+Lelihana, in Visala tlrtha, at the ds'rama 
+(hermitage) of Bharata and in Mundaprstha 
+mountain bearing mark of foot and near 
+Gadadhara. 
+(f$T HTSS^HIjfRli filHchUlqyy *T| 
+WOT fcnig^l ^11? Ml 
+(A person who takes holy ablution and 
+offers pindas) at tlrtha in Akasagariga and in 
+those called Girikarnamukhas, leads hundred 
+members of his lineage to Brahmaloka. 
+1. Pauranika Kosa, p. 152, a tlrtha in Gaya wherein 
+“Trisandhya” offering is very important. 
+2. Pauranika Kosa, p. 340, a tlrtha in Gaya where 
+having bathed and offered Sandhya, worshipper 
+goes to Visnuloka.
+
+## Page 475
+
+436 
+Vayu-Purana 
+$cRUT wf JRlfrVf^l 
+■RTcTt qTgt ^d(Uili 
+He who takes bath in the divine river 
+VaitaranI leads his manes to heaven. A person 
+who takes bath and who gifts away kine in 
+VaitaranI, redeems his 3 x 7 = 21 lineages. 
+^ -^frET ^rUUili jj ^TT?I 
+This way, timely speaking and timely 
+speaking, once again that in VaitaranI, O 
+Narada! Twenty one lineages, they talk of, 
+(which) one may redeem, there is no doubt in it. 
+qT W IwTt qiq t#cRlfqfqT| 
+Wddlorf fqfOlt dUOTW 
+That which is named as VaitaranI, the 
+stream well-known in the world triad, that one 
+descended down in this Gayaksetra for 
+redeeming the manes. 
+d1«rtIwAq *ri 
+a^rcft ^rur w qft# wti qi:iR 11 
+By a fasting for three nights and by an 
+alliance with the tirthas, without having gifted 
+gold and kine, a man takes birth as a penury 
+stricken one. 
+^ddbc^l qf^TT xt qfR^I 
+(VHidi: wrt qq qq qq^qrii^oii 
+3TOT TlTg^nqr qr:i 
+A man who takes ablutions in Ghrtakulya, 
+Madhukulya1, Devika, MahanadI and in the 
+celebrated place of meeting of Sila, declared as 
+Madhusrava, attains the benefit of ten thousand 
+horse-sacrifices. 
+^qqr qster qn 
+ejjqnqt wq^r (qwiH)* q^fqqqii} 
+Having offered a Sraddha with libation balls 
+along with the offering of pindas, the man 
+1. A stream near Visnupada in Gaya vide Vayu Purana 
+112.30, p. 608, Pauranika K.osa, p. 395. 
+redeems a hundred generations of his lineage 
+and leads them to Visnuloka. 
+x4iH'<Wdqii 
+e&rfoftzf qqqqiut fqq^: II 
+One who offers pindas in Dasasvamedha, 
+Hamsatlrtha, Amarakantaka2, Kotitlrtha and 
+Rukmakunda leads his manes to heaven. 
+trrcw qgqjqqt q$q qi 
+efftMai qr: qqTqarr q q: 113 311 
+qqfePT SRT^IT q<qi<q:l 
+Mi^u^vi^Vivii qqq wfqr^qK<*:ii^^n 
+By taking bath in VaitaranI, Ghrtakulya, 
+Madhukulya and Kotitlrtha and visiting 
+Kotlsvara, the pilgrim becomes a rich 
+Brahmana, well-versed in all the Vedas for a 
+crore of births. Bowing to Markandeyesa and 
+Kotlsa, he shall become the redeemer of his 
+manes. 
+wrarfenqq^ qr&qr qg ?raR:i 
+TgF^T qlwi ^ gqHiqqd WII^MI 
+Formerly, in the forest called Rukmaparijata, 
+Sankara sported secretly along with Parvatl for 
+ten thousand Yugas. 
+qfH%r: tqqrgHTTsf qTfenqqq qq:i 
+ggr ?pqr qg^q- qqwir^3f^Enqq>:ii^^ii 
+Marlci went to this Parijata forest for 
+gathering fruits and flowers. Having seen, he 
+was cursed by Mahesa (Siva) whereby a 
+destroyer of comforts. 
+2. Vide verse 32, Vayu Purana 112.32, Amarakantaka 
+also called Amrakuta Arigirah, observed a ladder of 
+heaven here after Agnihotra. It is a well-known 
+field of Jalesvara of Narmada having Rudrakoti hill 
+all around. It is more important than Kuruksetra. 
+Here golden Kus'a emanate at the bank of Narmada. 
+Towards Kalihga therein is a lake or tank here, 
+Jvalasara, Pauranika Kosa, p. 26. GDOAAMI N.L. 
+ey, p. 4. It is also a part of Mikul (Mekala) hill in 
+Gondwana in the territory of N&gapura in which 
+Naramda and Sona have their sources.
+
+## Page 476
+
+Chapter-112 
+437 
+5:# fWTI 
+p: ITt^TcT 4 TwfnTte y^-dMUil^'Oll 
+“You may become aggrieved.” This way 
+frightened by that one, Marlci eulogised Siva. 
+Pleased as such, Siva (Sambhu) spoke to 
+Marfci- “You may ask for a boon of highest 
+order”. 
+'^fr+rw fvwiifi: wfr wtTii^^ii 
+“There may be freedom from or immunity 
+;om the curse of yours”, Marlci spoke to 
+Sankara. “May your immunity or emancipation 
+come about at Gaya”, this way spoken by Siva, 
+he went to Gaya. 
+dTOT dlbURji R fet: ^PJrTrTt R<T:II^II 
+Stationed on the Sila, he performed penance 
+that was difficult of performance by anyone. 
+Marlci, cursed by Isvara, attained to dark 
+complexion or form of Krsna earlier. And by 
+austere penance there, that Brahmana attained 
+to whiteness. 
+xrftfcf ^ eft pT % pg;i 
+fcpr«i wfa ^ irrapii^oii 
+Hari spoke to Marlci then- “O son! Ask for 
+a boon.” Marlci spoke to Madhava- “On your 
+getting pleased, what can become difficult of 
+attainment? 
+W T^lcRtl 
+^ fp trt;n'tj 
+“I stand immune from the curse of Hara 
+(Siva). May this Sila be sacred and may it be an 
+emancipator of the manes”. “May it be so”*- 
+having said so, he (Hari) went to heaven. 
+fpfavHT wrftuTt WW W: ^rfe-.i 
+m p ftpsrg ^rr4^€riVrp:ll^^ll 
+Having gone over to the PuskarinI (lotus 
+lake) of the denizens of heaven, a man becomes 
+pure. Whatever is offered to the manes here 
+becomes perennial. 
+WTWt fp fcTJHMui TTR^-.I 
+flpfWcR W 
+He who takes bath there, goes to heaven 
+along with his own body. He gets rid of 
+sinfulness like a snake getting rid of its slough. 
+That lotus grove, thus the sacred one, is adhered 
+to by the merit-endowed ones or merit-doing 
+ones. 
+TTTUffVlRT 4 ^5rT^Rt R^rTI 
+ifirftrrer aw % ^ ^11**11 
+A white stone slab (Sila) exits there 
+whereupon a Sraddha may become free from 
+decay. O sage! Yudhisthira went over to that 
+one for performing a Sraddha. 
+W5WT f?THTOT W xWJR 
+At that time, he was spoken by Pandu- 
+“Hand over the libation ball (pinda) unto me.” 
+Avoiding the hand, he placed the libation ball 
+on the rock. 
+fTTRrat fau3df4-{ Pit oyw^:i 
+cIT c^t TTHT <p 1^^11^6,11 
+3Te&nzgj cT Wlf W ^ 5TT6TT f| tRWiin^ll 
+By the offering of libation balls (pinda) on 
+the Sila (rock), the son of Vyasa (Pandu), 
+became pleased or overjoyed. He conferred a 
+boon on his own son- “May you rule over the 
+kingdom on the surface of the earth, void of 
+criminals absolutely. You are my saviour, O 
+son! 
+qlfSRTPT ^Wr-?R6hWT^4 TOII^dll 
+You may proceed to heaven along with your 
+body surrounded by brothers. Sanctified by a 
+mere sight, you may lead to heaven those 
+stationed in naraka (hell).”
+
+## Page 477
+
+438 
+Vayu-Puraija 
+'$^cktn wg: ■jtrtt 
+^dg-PI 91# 5l#i ^rf^fTII^^II 
+This way having spoken, Pandu attained the 
+perennial and undecaying region. A Sraddha at 
+the spot of Matariga may lead manes to the 
+Brahmaloka. 
+rffi w f^nrimon 
+Having churned the fire within the interior 
+of a Sami (tree) in the company of Visnu and 
+others, Vidhi (Brahma) secured the Tlrtha for 
+the sake of a Yajiia. It is well-known in the 
+world triad. 
+fosPJTT 
+rl <p}ot fqt^l ^RfjSiqqidim VII 
+That tlrtha named Makha1 is an emancipator 
+of manes. Having bathed and having done 
+gratification, an offerer of pindas (libation balls) 
+may attain to emancipation. 
+ftRFScpf 
+He may lead the manes to heaven after 
+bowing to Angaraka (Mars) and Is'vara (Siva) at 
+the confluence. By the offering of libation balls 
+at Gaya, one may gain the fruit of Asvamedha. 
+WTcfict WRTSj rl tTHTlf^TRI 
+ntraqiPTr w^rh: # ■Rmra^rim^ii 
+After bowing to Bhasmanatha at 
+Bhasmakuta, one may redeem the manes. 
+Having sins obviated, one may become 
+emancipated and may bathe at the confluence. 
+gfg crfwt qfawT:i 
+gfgqt fgfwgcfiqim^n 
+The sacrifice named Asvamedha was 
+performed by Vasistha, the excellent sage. From 
+sacrifice issued out Sambhu who said- UA boon 
+you may choose, O Vasistha”! 
+1. Pauranika Kosa, p. 396. Makra tTrtha. 
+■5n%% q eifamsft flier qgrsftr ^ ^rfei 
+clWc4 eJH d^rdcKell fwr:)|IVA 
+To him, spoke Vasistha- “O Siva! If you are 
+pleased with me, then it deserves you to stay 
+here, O Devesa!” “May it be so”, having said 
+so, Siva stood there. 
+fWgt ^eh'K'U^ rll 
+pnr^T q^Tssr wmx sr^Hich q^fagqim^n 
+An offerer of libation balls at 
+Dhenukaranya2 at Kamadhenupadas3, after 
+taking bath, bowing down and adoring them, 
+leads the manes to Brahmaloka. 
+cFTtfrm W4Tflfr g«3'IWflTd:l 
+mm su&rfa* mm «r^Timv9ii 
+By taking ablution and performing Sraddha 
+etc. at Kardamala, holy centre in Gayanabhi, 
+near the Mundaprstha mountain, one gets 
+absolved of all the debts of his manes. 
+qfrirat: W^Ti 
+mx mx fwr i^r f^f^rr:im<iii 
+One should worship (the deities) Phalgu, 
+Candl, Smasanaksf, Marigala and others. At 
+Gaya, by a release of a bull calf, one redeems 
+twentyone generations of his family. The gods 
+and the sages who have conquered their senses 
+are stationed here and there (in Gaya). 
+3TTST T5TER sq lysWcgfPJgTf^l-Td: I 
+35HPTT ?lcn^c5l sl^JcdT^ q^fpTRim^ll 
+Mediating upon primeval Gadadhara by the 
+offering of pindas and the like, one redeems 
+hundred generations of his lineage and leads the 
+manes to Brahmaloka. 
+wraf mm w mm:i 
+mxr vmxRm qfogrfw.-ii^oii 
+Gayagaya, Gayaditya, Gayatrl, Gadadhara, 
+2. Pauranika Kosa, p. 255. At Gaya. 
+3. Ibid., p. 100.
+
+## Page 478
+
+Chapter-112 
+439 
+Gaya and the demon Gaya- these six Gayas are 
+the bestowers of emancipation. 
+to ^T; T^rBrRT ^R:l 
+^ R to Wn ^Tf^nTII^ ^11 
+This description of Gaya, the sacred one, 
+whichever man may read out perennially and 
+which may hear about it with favour, he attains 
+to supreme state. 
+qici^l *1*IK£4H ftto: WJ^T:I 
+wto <tfs ?tfs ift 
+A merited man may even make to study the 
+anecdote of Gaya unto Brahmanas. When the 
+Gaya Sraddha is performed by one, the merit 
+then becomes earned definitely. 
+TraroT t#ttr ^ atom: Rmtoi 
+to TFar^R mrsu^ii 
+Concentrated as such, who may practise the 
+greatness of Gaya, by that one stands performed 
+Rajasuya and Asvamedha sacrifices. 
+fttor totoft mtoto 
+rTRT Tf? ftiRT r^ft: TTORW 11 ^ 11 
+He who writes this book or adores this book 
+or causes others to write it, the Goddess of 
+fortune, LaksmI, will stay delightedly in his 
+house. 
+jot f?rsf?r jwccti 
+*Nitotoftd m hw ^ toriif,mi 
+This anecdote is sacred and if this book 
+exists in a house, there is no fear of a snake, 
+fire, thief and the like there. 
+to#* <r tom w wwtii^n 
+At the time of Sraddha, he who reads out 
+this excellent Gaya mahatmya, it will be 
+considered by his manes on a par with Gaya- 
+Sraddha even if it is against strict injunctions in 
+the Sastras. 
+to toft tcto* to fsift rm ti 
+to tow to m tort u 
+O Sage, if anyone knows, listens or reads 
+this Gayakhyana (the anecdote of Gaya), all the 
+sacred places of the world triad are visited by 
+him. 
+Rmjpnft jftjfcTTO 
+wtt to "siTsar ftor 
+■O 
+TPTftRTC 6\\ 
+Suta spoke- Sanatkumara, having narrated 
+the sacred anecdote with favour unto the 
+excellent sage, went to his own hermitage 
+which was endowed with sacred forests or 
+groves, after doing farewell to his music 
+preceptor (i.e. Narada). 
+wnpRi 
+fia^rr : 11 n R * i 
+* -k -k 
+Thus ends Volume II of Vayu-Mahapurana

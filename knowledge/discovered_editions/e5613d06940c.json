@@ -1,0 +1,109 @@
+{
+  "title": "Swar vigyan",
+  "discovered_at": "2026-07-13T15:26:13.018788+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "SwarVigyan",
+      "title": "Swar Vigyan",
+      "creator": "SUVRATSUT",
+      "year": 2017,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "jyotish-mein-svara-vigyan-ka-mahatva-kedar-nath-joshi_202012",
+      "title": "Jyotish Mein Svara Vigyan Ka Mahatva Kedar Nath Joshi",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "crtt_swar-vigyan-siddha-vidya-by-dr-y-d-gaharana-hindi-swara-yoga-tantra-2007-ag",
+      "title": "Swar Vigyan Siddha Vidya By Dr Y D Gaharana Hindi Swara Yoga Tantra 2007 Agra Deep Publication",
+      "creator": "Madhav Lamichhane",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4285184806",
+      "title": "CHRONIC MASTITIS: LEADING CAUSE OF UDDER FIBROSIS AND DIFFERENT MEANS OF ITS MANAGEMENT",
+      "year": 2022,
+      "is_oa": true,
+      "oa_url": "https://agrobiologicalrecords.com/articles/8-0-13-21.pdf",
+      "authors": [
+        "Muhammad Mohsin",
+        "Sara Omer Swar",
+        "Muhammad Imran"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2994829252",
+      "title": "THERAPEUTIC EFFECT OF AMALAKI RASAYANA ON DHATU KSHAYA AND DHATU SARA IN PANDU ROGA",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.7897/2277-4343.1006124",
+      "authors": [
+        "Poonam Bharti",
+        "Ruby Rani Agarwal",
+        "Ila Tanna"
+      ]
+    }
+  ]
+}

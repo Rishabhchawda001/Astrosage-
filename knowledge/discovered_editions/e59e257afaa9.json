@@ -1,0 +1,106 @@
+{
+  "title": "brahamand (1)",
+  "discovered_at": "2026-07-13T15:56:54.421721+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "wg1004",
+      "title": "2011 Or Before -Brahamand Puran Vol 1 And 2",
+      "creator": "",
+      "year": 2011,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "BrahamandPuran1hindi_201509",
+      "title": "Brahamand Puran 1 , 2 (hindi)",
+      "creator": "",
+      "year": null,
+      "language": "English",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "BrahamandPuran1hindi",
+      "title": "Brahamand Puran 1 , 2 (hindi)",
+      "creator": "",
+      "year": null,
+      "language": "English",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2990524584",
+      "title": "Spatio-Temporal Attention Model for Foreground Detection in Cross-Scene Surveillance Videos",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://www.mdpi.com/1424-8220/19/23/5142/pdf?version=1574937721",
+      "authors": [
+        "Dong Liang",
+        "Jiaxing Pan",
+        "Han Sun"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3126213982",
+      "title": "A Study of Irrigation Performance Index and Real Cost Value of Irrigation Operations and Maintenance in Surak Irrigation Area",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://civense.ub.ac.id/index.php/civense/article/view/76/52",
+      "authors": [
+        "Tri Budi Prayogo",
+        "Sri Wahyuni",
+        "Muhammad Saqib Iqbal"
+      ]
+    }
+  ]
+}

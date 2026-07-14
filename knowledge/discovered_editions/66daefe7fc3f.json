@@ -1,0 +1,79 @@
+{
+  "title": "Kena Upanishad Gita Press Gorakhpur",
+  "discovered_at": "2026-07-13T13:35:14.329644+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "kena-upanishad-gita-press-gorakhpur_202108",
+      "title": "Kena Upanishad Gita Press Gorakhpur",
+      "creator": "Gita Press Gorakhpur",
+      "year": 2021,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ishadi-nau-upnishad-gitapress",
+      "title": "Ishadi Nau Upanishad Gita Press",
+      "creator": "Vivekavani",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "kena-upanishad-gita-press-gorakhpur",
+      "title": "Kena Upanishad Gita Press Gorakhpur",
+      "creator": "Gita Press Gorakhpur",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    }
+  ]
+}

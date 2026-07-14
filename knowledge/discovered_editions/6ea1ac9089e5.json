@@ -1,0 +1,78 @@
+{
+  "title": "\u092e\u0939\u0930\u094d\u0937\u093f \u0935\u093e\u0932\u094d\u092e\u093f\u0915\u0940",
+  "discovered_at": "2026-07-13T17:26:12.983401+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "maharshi-valmiki-rachit-ramayan-me-saundaryasrushti-ek-jhalak",
+      "title": "\u092e\u0939\u0930\u094d\u0937\u093f \u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f \u0930\u091a\u093f\u0924 \u0930\u093e\u092e\u093e\u092f\u0923 \u092e\u0947\u0902 \u0938\u094c\u0928\u094d\u0926\u0930\u094d\u092f\u0938\u0943\u0937\u094d\u091f\u093f - \u090f\u0915 \u091d\u0932\u0915",
+      "creator": "\u0905\u0930\u0941\u0902\u0927\u0924\u0940 \u0938\u0941\u0927\u093e\u0915\u0930 \u091c\u094b\u0936\u0940 \u0938\u0930\u0928\u093e\u0908\u0915",
+      "year": 2021,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.gazette.madhya.2016-03-11.108.Extraordinary",
+      "title": "Madhya Pradesh, 2016-03-11, No. 108, Extraordinary",
+      "creator": "Government of Madhya Pradesh",
+      "year": 2016,
+      "language": [
+        "eng",
+        "hin"
+      ],
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.321551",
+      "title": "\u092e\u0926\u094d\u0935\u093e\u0932\u094d\u092e\u093f\u0915\u0940 \u0930\u093e\u092e\u093e\u092f\u0923",
+      "creator": "\u092e\u0939\u0930\u094d\u0937\u093f \u0935\u093e\u0932\u094d\u092e\u093f\u0915\u0940",
+      "year": 1111,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

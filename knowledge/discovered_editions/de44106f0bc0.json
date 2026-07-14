@@ -1,0 +1,59 @@
+{
+  "title": "narayan-kwach",
+  "discovered_at": "2026-07-13T16:14:09.660761+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4205470515",
+      "title": "Structural Model of Power Grid Stabilization in the Green Hydrogen Supply Chain System\u2014Conceptual Assumptions",
+      "year": 2022,
+      "is_oa": true,
+      "oa_url": "https://www.mdpi.com/1996-1073/15/2/664/pdf?version=1642476365",
+      "authors": [
+        "Marzena Frankowska",
+        "Marta Ma\u0144kowska",
+        "Marcin Rabe"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4384567509",
+      "title": "The effect of Russian unfriendly-country list and import ban: Gravity framework test",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://www.jois.eu/files/4_1291_Krivko et al.pdf",
+      "authors": [
+        "Mikhail Krivko",
+        "Stanislava Kontsevaya",
+        "\u013dubo\u0161 Smutka"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4205470515",
+      "title": "Structural Model of Power Grid Stabilization in the Green Hydrogen Supply Chain System\u2014Conceptual Assumptions",
+      "year": 2022,
+      "is_oa": true,
+      "oa_url": "https://www.mdpi.com/1996-1073/15/2/664/pdf?version=1642476365",
+      "authors": [
+        "Marzena Frankowska",
+        "Marta Ma\u0144kowska",
+        "Marcin Rabe"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4384567509",
+      "title": "The effect of Russian unfriendly-country list and import ban: Gravity framework test",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://www.jois.eu/files/4_1291_Krivko et al.pdf",
+      "authors": [
+        "Mikhail Krivko",
+        "Stanislava Kontsevaya",
+        "\u013dubo\u0161 Smutka"
+      ]
+    }
+  ]
+}

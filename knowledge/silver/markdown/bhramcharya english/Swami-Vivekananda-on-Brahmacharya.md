@@ -1,0 +1,194 @@
+# Swami-Vivekananda-on-Brahmacharya
+
+Swami Vivekananda.
+
+## 1. Power comes to him who observes unbroken
+
+Brahmacharya for a period of twelve years. Complete
+continence gives great intellectual and spiritual power. Controlled
+desire leads to the highest results. Transform the sexual energy into
+spiritual energy. The stronger this force, the more can be done with it.
+Only a powerful current of water can do hydraulic mining.
+
+## 2. Swami Vivekananda attributed his phenomenal mental powers to
+
+a lifelong observance of brahmacharya.A few days ago, a new set
+of the Encyclopedia Britannica had been bought for the Math. Seeing
+the new shining volumes, the disciple said to Swamiji, “It is almost
+impossible to read all these books in a single lifetime.” He was
+unaware that Swamiji had already finished ten volumes and had
+begun the eleventh.Swamiji: What do you say? Ask me anything you
+like from these ten volumes, and I will answer you all.The disciple
+asked in wonder, “Have you read all these books?” Swamiji: Why
+should I ask you to question me otherwise?
+Being examined, Swamiji not only reproduced the sense, but at places
+the very language of the difficult topics selected from each volume.
+The disciple, astonished, put aside the books, saying, “This is not
+within human power!”
+Swamiji: Do you see, simply by the observance of strict
+Brahmacharya (continence) all learning can be mastered in
+a very short time — one has an unfailing memory of what
+one hears or knows but once. It is owing to this want of
+continence that everything is on the brink of ruin in our
+country.
+
+
+
+## 3. His childhood friend: Whatever you may say, I cannot bring myself to
+
+believe in these words. Who can come by that oratorical power of
+expounding philosophy which you have?
+Swamiji: You don’t know! That power may come to all. That power
+comes to him who observes unbroken Brahmacharya for a period of
+twelve years, with the sole object of realising God I have practiced
+that kind of Brahmacharya myself, and so a screen has been
+removed, as it were, from my brain. For that reason, I need not any
+more think over or prepare myself for any lectures on such a subtle
+subject as philosophy. Suppose I have to lecture tomorrow; all that I
+shall speak about will pass tonight before my eyes like so many
+pictures; and the next day I put into words during my lecture all those
+things that I saw. So you will understand now that it is not any power
+which is exclusively my own. Whoever will practice unbroken
+Brahmacharya for twelve years will surely have it. If you do so, you
+too will get it. Our Shâstras do not say that only such and such a
+person will get it and not others!
+
+## 4. The chaste brain has tremendous energy and gigantic will power.
+
+Without chastity there can be no spiritual strength.
+Continence gives wonderful control over mankind.
+The spiritual leaders of men have been very continent and this is what
+gave them power.
+
+## 5. Every boy should be trained to practice absolute Brahmacharya and
+
+then, and then alone faith and Shraddha will come. Chastity in
+thought, word and deed always and in all conditions is what is called
+
+
+Brahmacharya. Unchaste imagination is as bad as unchaste action.
+The Brahmacharin must be pure in thought, word and deed.
+
+## 6. First of all, one must completely mould one’s religious life in solitude,
+
+must be perfect in renunciation and must preserve
+Brahmacharya without a break. The Tamas has entered into you
+— what of that? Cannot the Tamas be destroyed? It can be done in
+less than no time!
+
+## 7. What we want are Western science coupled with Vedanta,
+
+Brahmacharya as the guiding motto, and also Shraddha and faith in
+one’s own self.
+
+## 8. Knowledge should be acquired in that way, otherwise by educating
+
+yourself in the tol of a Pandit you will be only a human ape all your
+life. One should live from his very boyhood with one whose character
+is like a blazing fire and should have before him a living example of
+the highest teaching. Mere reading that it is a sin to tell a lie will be of
+no use. Every boy should be trained to practice absolute
+Brahmacharya, and then, and then only, faith — Shraddha — will
+come. Otherwise, why will not one who has no Shraddha speak an
+untruth? In our country, the imparting of knowledge has always been
+through men of renunciation. Later, the Pandits, by monopolising all
+knowledge and restricting it to the tols, have only brought the country
+to the brink of ruin. India had all good prospects so long as Tyagis
+(men of renunciation) used to impart knowledge.
+
+## 9. But whatever be the order of genesis, the celibate teachers of the
+
+Shrutis and Smritis stand on an entirely different platform from the
+married ones, which is perfect chastity, Brahmacharya.
+
+
+
+## 10. Founders of all good undertakings, before they launch on their
+
+desired work, must attain to the knowledge of the Atman through
+rigorous self - discipline. Otherwise defects are bound to occur in
+their work.
+
+## 11. Our motherland requires for her well-being some of her children to
+
+become such pure-souled Brahmacharins and Brahmacharinis.
+
+## 12. Teach the boys the system of Brahmacharya.
+
+
+## 13. In order to attain to ideal Brahmacharya one has in the beginning to
+
+observe strict rules regarding chastity. For minimum 12 years, one
+should keep oneself strictly aloof from the least association with the
+opposite sex as far as possible. When spiritual aspirants are
+established in the ideal of Sannyasa and brahmacharya, they will be
+able to mix on an equal footing with worldly men without any harm.
+But in the beginning 12 years, if they do not keep themself within the
+barriers of strict rules, they will all go wrong.
+
+## 14. People here (in USA) have found a new type of man in me. Even the
+
+orthodox are at their wit’s end. And people are now looking up to me
+with an eye of reverence. Is there a greater strength than that of
+Brahmacharya — purity, my boy?
+
+## 15. Describing the Indian ideal of Brahmacharya in the student’s life,
+
+Swami Vivekananda said: “Brahmacharya should be like a burning
+fire within the veins!”
+
+## 16. The Sanskrit name for a student, Brahmacharin, is synonymous with
+
+the Sanskrit word Kamajit. (One who has full control over his
+passions.) Our goal of life is Moksha; how can that be ever attained
+without Brahmacharya or absolute continence? Hence it is imposed
+upon our boys and youth as an indispensable condition during their
+studentship. The purpose of life in the West is Bhoga, enjoyment;
+
+
+hence much attention to strict Brahmacharya is not so indispensably
+necessary with them as it is with us.
+
+## 17. Obedience to the Guru without questioning, and strict observance of
+
+Brahmacharya — this is the secret of success.
+
+## 18. In his Raja Yoga, the Swami explains that through brahmacharya sex
+
+energy is converted into a higher form of psychic energy called
+‘ojas.’(Ojas, literally meaning the ‘illuminating’ or ‘bright’ is the
+highest form of energy in the human body. In the spiritual aspirant
+who constantly practises continence and purity, other forms of energy
+are transmuted into ojas and stored in the brain, expressing as
+spiritual and intellectual power). He says, “The yogis say that part of
+the human energy which is expressed as sex energy, in sexual
+thought, when checked and controlled easily becomes changed into
+ojas, and as the Muladhara (lowest of the six centers of
+consciousness) guides these, the yogi pays particular attention to that
+centre. He tries to take up all his sexual energy and convert it into
+ojas.
+It is only the chaste man or woman who can make the ojas rise and
+store it in the brain; that is why chastity has always been considered
+the highest virtue. A man feels that if he is unchaste, spirituality goes
+away, he loses mental vigour and moral stamina. That is why in all
+the religious orders in the world which have produced spiritual giants
+you always find absolute chastity insisted upon. That is why the
+monks came into existence, giving up marriage. There must be perfect
+chastity in thought, word and deed; without it the practice of Raja
+Yoga is dangerous, and may lead to insanity. If people practise Raja
+Yoga and at the same time lead an impure life, how can they expect to
+become yogis?”
+
+
+
+## 19. Disciple: Do you think, sir, the same consummation would be reached
+
+through the way Mataji is educating her students? These students
+would soon grow up and get married and would presently shade into
+the likeness of all other women of the common run. So I think, if
+these girls might be made to adopt Brahmacharya, then only could
+they devote their lives to the cause of the country’s progress and
+attain to the high ideals preached in our sacred books.Swamiji: Yes,
+everything will come about in time. Such educated men are not yet
+born in this country, who can keep their girls unmarried without fear
+of social punishment.

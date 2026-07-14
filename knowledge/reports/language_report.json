@@ -1,0 +1,28 @@
+{
+  "total_files": 751,
+  "by_language": {
+    "hindi": 273,
+    "english": 243,
+    "unknown": 100,
+    "sanskrit": 97,
+    "gujarati": 6,
+    "telugu": 18,
+    "punjabi": 3,
+    "bengali": 1,
+    "malayalam": 3,
+    "tamil": 1,
+    "kannada": 6
+  },
+  "by_script": {
+    "devanagari": 99,
+    "unknown": 416,
+    "latin": 200,
+    "gujarati": 1,
+    "other": 28,
+    "telugu": 3,
+    "bengali": 1,
+    "malayalam": 3
+  },
+  "multilingual_count": 13,
+  "average_confidence": 0.750148905473015
+}

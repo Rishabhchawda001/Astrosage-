@@ -1,0 +1,81 @@
+{
+  "title": "Matasya Puran 2",
+  "discovered_at": "2026-07-13T14:11:02.100639+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.406594",
+      "title": "Matasya Puran Khand-2",
+      "creator": "Sharma,pt.shriram",
+      "year": 1970,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "matsya-puran-hindi",
+      "title": "\u092e\u0924\u094d\u0938\u094d\u092f \u092a\u0941\u0930\u093e\u0923, Matsya Puran",
+      "creator": "\u092d\u0935\u093f\u0924\u0935\u094d\u092f \u092e\u093f\u0936\u094d\u0930",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.313009",
+      "title": "Matasya Puran Khand-1",
+      "creator": "Sharma,pt.shriram",
+      "year": 1970,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

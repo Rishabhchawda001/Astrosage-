@@ -1,0 +1,149 @@
+{
+  "title": "Power of Mantra",
+  "discovered_at": "2026-07-13T14:36:14.079478+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Power of mantra",
+      "authors": [
+        "Lu Sheng-yen"
+      ],
+      "year": 2002,
+      "languages": [
+        "chi",
+        "eng"
+      ],
+      "ebook_access": "borrowable",
+      "public_domain": false,
+      "ia_identifiers": [
+        "powerofmantrazho0000lush"
+      ],
+      "edition_count": 3,
+      "isbn": [
+        "9573041766",
+        "9810461852",
+        "9789810461850",
+        "9789573041764"
+      ],
+      "publisher": [
+        "Lei Zang Si"
+      ],
+      "ol_key": "/works/OL12837608W"
+    },
+    {
+      "source": "open_library",
+      "title": "The Power of Mantra",
+      "authors": [
+        "Lama Zopa Rinpoche"
+      ],
+      "year": 2022,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 2,
+      "isbn": [
+        "1614297274",
+        "1614297436",
+        "9781614297437",
+        "9781614297277"
+      ],
+      "publisher": [
+        "Wisdom Publications"
+      ],
+      "ol_key": "/works/OL25293615W"
+    },
+    {
+      "source": "open_library",
+      "title": "The Hidden Power of Gayatri Mantra",
+      "authors": [
+        "Om Swami"
+      ],
+      "year": 2019,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9789388423243",
+        "9388423240"
+      ],
+      "publisher": [
+        "Black Lotus"
+      ],
+      "ol_key": "/works/OL22451749W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "what-is-devotional-meditation-and-is-it-biblical",
+      "title": "What Is Devotional Meditation, And Is It Biblical",
+      "creator": "Sixbert SANGWA",
+      "year": 2024,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "yaul-mantras-words-of-power-by-swami-sivananda-radha-ma",
+      "title": "Mantras Words Of Power By Swami Sivananda Radha Mantra Yoga Illustrated Mumbai Jaico Publishing House",
+      "creator": "Jaico Publishing House",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "pankaj-oudhia-on-cancer-drug-interactions-30123",
+      "title": "Pankaj Oudhia On Cancer Drug Interactions 30123",
+      "creator": "Pankaj Oudhia",
+      "year": 2020,
+      "language": "english-handwritten",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    }
+  ]
+}

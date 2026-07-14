@@ -1,0 +1,33 @@
+{
+  "scripture": "Samaveda",
+  "date": "2026-07-14T09:16:25.324869",
+  "editions": [
+    {
+      "file": "samaveda_samhita.txt",
+      "publisher": "Unknown",
+      "year": 1950,
+      "authority_score": 40
+    },
+    {
+      "file": "samaveda_jayadev.txt",
+      "publisher": "Jayadev Sharma",
+      "year": 1975,
+      "authority_score": 50
+    }
+  ],
+  "families": [
+    {
+      "name": "Unknown",
+      "editions": [
+        "samaveda_samhita.txt"
+      ]
+    },
+    {
+      "name": "Jayadev Sharma",
+      "editions": [
+        "samaveda_jayadev.txt"
+      ]
+    }
+  ],
+  "primary_witness": "samaveda_jayadev.txt"
+}

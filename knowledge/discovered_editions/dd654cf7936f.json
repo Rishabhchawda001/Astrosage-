@@ -1,0 +1,101 @@
+{
+  "title": "\u0905\u0925\u0930\u094d\u0935\u0935\u0947\u0926",
+  "discovered_at": "2026-07-13T17:16:05.864370+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "mandukya-upnishad",
+      "title": "\u092e\u093e\u0923\u094d\u0921\u0942\u0915\u094d\u092f \u0909\u092a\u0928\u093f\u0937\u0926\u094d Mandukya Upanishad",
+      "creator": "\u092d\u0935\u093f\u0924\u0935\u094d\u092f \u092e\u093f\u0936\u094d\u0930",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "qwud_atharvaveda-in-english-2",
+      "title": "Atharvaveda In English 2",
+      "creator": "Granth-Nidhi",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "qies_1_20240611_20240611_1112",
+      "title": "\u0905\u0925\u0930\u094d\u0935\u0935\u0947\u0926 \u0938\u092e\u094d\u092a\u0942\u0930\u094d\u0923 \u092d\u093e\u0937\u094d\u092f (\u0916\u0902\u0921 1 )",
+      "creator": "Granth-Nidhi",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7134169684",
+      "title": "\u092d\u0930\u0924\u092f \u091c\u091e\u0928 \u092a\u0930\u092a\u0930 \u092e \u0935\u0926 \u0915 \u092d\u092e\u0915",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.65403/bhairavi.vol30.022",
+      "authors": [
+        "\u0921\u0949. \u0936\u0940\u0932\u093e \u091d\u093e"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4406824025",
+      "title": "\u092e\u0928\u0935\u091c\u091e\u0928\u0915 \u0909\u092a\u091a\u0930 \u092a\u0926\u0927\u0924 \u092e \u0906\u0925\u0930\u0935\u0923 \u091a\u0915\u0924\u0938 \u0915 \u0935\u091c\u091e\u0928\u0915 \u0905\u0928\u092a\u0930\u092f\u0917",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://www.shodhpatra.org/wp-content/uploads/journal/published_paper/volume-2/issue-1/SPIJSH25101.pdf",
+      "authors": [
+        "Bhaskar Mishra",
+        "Acharya Pandit Sumit Mishra",
+        "Acharya Pooja Pandey"
+      ]
+    }
+  ]
+}

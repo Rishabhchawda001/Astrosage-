@@ -1,0 +1,106 @@
+{
+  "title": "\u0936\u093f\u0935 \u092a\u0941\u0930\u093e\u0923 (2)",
+  "discovered_at": "2026-07-13T17:37:34.335256+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "2_20210419_20210419_1808",
+      "title": "\u0936\u093f\u0935 \u092a\u0941\u0930\u093e\u0923 ( 2)",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shiv-puran-2",
+      "title": "\u0936\u093f\u0935 \u092a\u0941\u0930\u093e\u0923 \u0916\u0902\u0921-2, Shiv Puran",
+      "creator": "\u092d\u0935\u093f\u0924\u0935\u094d\u092f \u092e\u093f\u0936\u094d\u0930",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "SzWh_shiv-mahapuran-of-veda-vyas-chapter-2-second-half-with-hindi-vyakhya-illustration-gita-press",
+      "title": "Shiv Mahapuran Of Veda Vyas Chapter 2 Second Half With Hindi Vyakhya Illustration Gita Press",
+      "creator": "Gita Press",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7116105601",
+      "title": "\u0909\u0924\u0924\u0930 \u092d\u0930\u0924 \u0915 \u092a\u0930\u092e\u0916 \u0924\u0930\u0925 \u0938\u0925\u0932: \u090f\u0915 \u0905\u0927\u092f\u092f\u0928",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://www.ijfmr.com/papers/2025/6/63312.pdf",
+      "authors": [
+        "\u0921\u093e\u0945. \u092a\u094d\u0930\u0926\u0940\u092a \u0938\u093f\u0902\u0939",
+        "\u0935\u093f\u091c\u092f \u0915\u0941\u092e\u093e\u0930 \u092f\u093e\u0926\u0935"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4412139926",
+      "title": "\u092a\u0930\u0923 \u092e \u2018\u0930\u092e\u2019 \u0915 \u092e\u0939\u092e \u0915 \u0935\u0930\u0923\u0928",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://www.granthaalayahpublication.org/Arts-Journal/ShodhKosh/article/download/5703/5168",
+      "authors": [
+        "Km. Prerna Pandey",
+        "Devendra Nath Ojha",
+        "Umashankar"
+      ]
+    }
+  ]
+}

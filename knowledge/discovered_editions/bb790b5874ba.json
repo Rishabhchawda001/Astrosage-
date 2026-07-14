@@ -1,0 +1,168 @@
+{
+  "title": "Ganesh Chalisa",
+  "discovered_at": "2026-07-13T13:12:30.160925+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Sachitra Shri Ganesh Chalisa",
+      "authors": [
+        "Ram Sunder Prabhu Das"
+      ],
+      "year": 2025,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9789370892729",
+        "9370892729"
+      ],
+      "publisher": [
+        "Prakash Book Depot"
+      ],
+      "ol_key": "/works/OL45151429W"
+    },
+    {
+      "source": "open_library",
+      "title": "Shri Ganesh Chalisa, Aaarti, Stotra, Kahani Aur Mantra",
+      "authors": [
+        "Ganesh Dutt Sharma"
+      ],
+      "year": 2020,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9798643443285"
+      ],
+      "publisher": [
+        "Independently Published"
+      ],
+      "ol_key": "/works/OL30482978W"
+    },
+    {
+      "source": "open_library",
+      "title": "Shri Ganesh Charitra Ewam Chalisa",
+      "authors": [
+        "Yogiraj Shri Ramesh Ji Maharaj"
+      ],
+      "year": 2023,
+      "languages": [
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9354406963",
+        "9789354406966"
+      ],
+      "publisher": [
+        "Prakash Book Depot"
+      ],
+      "ol_key": "/works/OL36496380W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shri-ganesh-chalisa-lyrics",
+      "title": "\u0917\u0923\u0947\u0936 \u091a\u093e\u0932\u0940\u0938\u093e \u0907\u0928 \u0939\u093f\u0902\u0926\u0940 pdf | Ganesh Chalisa PDF",
+      "creator": "bhaktitak.com",
+      "year": 2025,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shri-hanuman-chalisa",
+      "title": "Shri Hanuman Chalisa in Nepali",
+      "creator": "GITAPRESS GORAKHPUR",
+      "year": null,
+      "language": [
+        "nep",
+        "Sanskrit"
+      ],
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shriganeshchalisapdf",
+      "title": "Shri Ganesh Chalisa Pdf",
+      "creator": "www.shrichalisa.com",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2042400246",
+      "title": "Educational Justice for Diversified Nepali Children",
+      "year": 2013,
+      "is_oa": true,
+      "oa_url": "https://www.nepjol.info/index.php/JER/article/download/7947/6482",
+      "authors": [
+        "Bidya Nath Koirala"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2945007737",
+      "title": "Translating Orality: Pictorial Narrative Traditions with Reference To Kaavad and Phad",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "https://dergipark.org.tr/tr/pub/cankujhss/issue/42210/508041",
+      "authors": [
+        "Divya Joshi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+openapi: "3.1.0"
+info:
+  title: AstroSage Research Service
+  version: "1.0.0"
+  description: Research discovery and technology watch API
+paths:
+  /search:
+    post:
+      summary: Search research sources
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                query: { type: string }
+                sources: { type: array, items: { type: string } }
+      responses:
+        "200":
+          description: Research results

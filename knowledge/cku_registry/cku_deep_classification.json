@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-14T06:23:02.545798",
+  "total_unresolved": 19711,
+  "classification_summary": {
+    "artifact_encoding": 317,
+    "potentially_missing": 10094,
+    "metadata_artifact": 1159,
+    "variant_reading": 3251,
+    "partial_match": 4826,
+    "unclassified": 51,
+    "artifact_too_short": 13
+  },
+  "canonical_substrings_count": 86421
+}

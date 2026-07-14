@@ -1,0 +1,103 @@
+{
+  "title": "Skand puran 15",
+  "discovered_at": "2026-07-13T15:15:55.932909+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "HridaayaleshMahatmyaInSkandaPuran4757GhaAlm21Shlf4DevanagariSkandPurana",
+      "title": "Hridaayalesh Mahatmya In Skanda Puran 4757 Gha Alm 21 Shlf 4 Devanagari Skand Purana",
+      "creator": "eGangotri",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wbPL_tulasi-stav-skand-puran-manu-03-01-521-lal-bahadur-shastri-sanskrit-university",
+      "title": "Tulasi Stav ( Skand Puran) Manu 03 01 # 521 Lal Bahadur Shastri Sanskrit University",
+      "creator": "Lal Bahadur Shastri Sanskrit University",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.406598",
+      "title": "Skand Puran Khand-i",
+      "creator": "Sharma,pt.shriram",
+      "year": 1970,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4396639696",
+      "title": "Ashwamedha Yagya in Puran",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://dsiij.dsvv.ac.in/index.php/dsiij/article/download/341/246",
+      "authors": [
+        "Manisha Bhardwaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4385892516",
+      "title": "Ganga: A subtle overview of names and glory in Sanskrit literature and the current scenario",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "http://dsiij.dsvv.ac.in/index.php/dsiij/article/download/224/238",
+      "authors": [
+        "Ambika Bhatt",
+        "Purnima Srivastava",
+        "Pavan kumar Yadav"
+      ]
+    }
+  ]
+}

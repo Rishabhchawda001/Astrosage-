@@ -1,0 +1,177 @@
+{
+  "title": "sakand-puran",
+  "discovered_at": "2026-07-13T16:59:36.068606+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "sakand-puran_202004",
+      "title": "sakand-puran",
+      "creator": "rushi",
+      "year": 2020,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "sakand-puran",
+      "title": "sakand-puran",
+      "creator": "SUVRATSUT",
+      "year": 2017,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "HindiBookSakandPuran",
+      "title": "Hindi Book Sakand Puran",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4407301884",
+      "title": "Cross-cultural Significance and Impact of the Gaura Festival: A Comparative Study between Sudurpashchim Province (Nepal) and Uttarakhand (India)",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://www.nepjol.info/index.php/jorh/article/download/75190/57629",
+      "authors": [
+        "Mukund Ballabh Kalauni"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "sakand-puran",
+      "title": "sakand-puran",
+      "creator": "SUVRATSUT",
+      "year": 2017,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "sakand-puran_202004",
+      "title": "sakand-puran",
+      "creator": "rushi",
+      "year": 2020,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "HindiBookSakandPuran",
+      "title": "Hindi Book Sakand Puran",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4407301884",
+      "title": "Cross-cultural Significance and Impact of the Gaura Festival: A Comparative Study between Sudurpashchim Province (Nepal) and Uttarakhand (India)",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://www.nepjol.info/index.php/jorh/article/download/75190/57629",
+      "authors": [
+        "Mukund Ballabh Kalauni"
+      ]
+    }
+  ]
+}

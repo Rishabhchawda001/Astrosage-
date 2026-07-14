@@ -1,0 +1,74 @@
+[
+  {
+    "local": "गीता साधक संजीवनी.md",
+    "corruption": 31301,
+    "local_chars": 4721397,
+    "external": "sadhak_sanjivini_sanskrit_hindi_djvu.txt",
+    "external_chars": 927091,
+    "match_type": "encoding_corruption",
+    "recovery_strategy": "replace_with_clean_external"
+  },
+  {
+    "local": "SadhakSanjivani.md",
+    "corruption": 6082,
+    "local_chars": 997486,
+    "external": "sadhak_sanjivini_sanskrit_hindi_djvu.txt",
+    "external_chars": 927091,
+    "match_type": "encoding_corruption",
+    "recovery_strategy": "replace_with_clean_external"
+  },
+  {
+    "local": "sadhak_sanjivini_sanskrit_hindi.md",
+    "corruption": 6082,
+    "local_chars": 997486,
+    "external": "sadhak_sanjivini_sanskrit_hindi_djvu.txt",
+    "external_chars": 927091,
+    "match_type": "encoding_corruption",
+    "recovery_strategy": "replace_with_clean_external"
+  },
+  {
+    "local": "yajurved-gujarati.md",
+    "corruption": 15617,
+    "local_chars": 2391872,
+    "external": "yajurveda_gujarati_djvu.txt",
+    "external_chars": 3595221,
+    "match_type": "encoding_corruption",
+    "recovery_strategy": "replace_with_clean_external"
+  },
+  {
+    "local": "rigveda-gujarati-mandal1.md",
+    "corruption": 16332,
+    "local_chars": 2516034,
+    "external": "rigveda_samhita_ramtek_djvu.txt",
+    "external_chars": 1330816,
+    "match_type": "different_edition",
+    "recovery_strategy": "compare_and_recover"
+  },
+  {
+    "local": "samved-gujarati.md",
+    "corruption": 10652,
+    "local_chars": 1755256,
+    "external": null,
+    "external_chars": 0,
+    "match_type": "no_external",
+    "recovery_strategy": "search_for_edition"
+  },
+  {
+    "local": "Vidur-Niti_sanskrit.md",
+    "corruption": 535,
+    "local_chars": 185832,
+    "external": "vidur_niti_chaukhambha_1997_djvu.txt",
+    "external_chars": 1393122,
+    "match_type": "unicode_corruption",
+    "recovery_strategy": "pattern_matching_and_replacement"
+  },
+  {
+    "local": "GarbhaUpanishad.md",
+    "corruption": 86,
+    "local_chars": 29165,
+    "external": "garbhopanishad_djvu.txt",
+    "external_chars": 31240,
+    "match_type": "unicode_corruption",
+    "recovery_strategy": "pattern_matching_applied"
+  }
+]

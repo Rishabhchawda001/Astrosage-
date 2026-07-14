@@ -1,0 +1,123 @@
+{
+  "title": "\u0938\u0942\u0930\u094d\u092f-\u0938\u0942\u0915\u094d\u0924-1",
+  "discovered_at": "2026-07-13T17:43:03.983657+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "20190914_20190914_1457",
+      "title": "\u0938\u0942\u0930\u094d\u092f \u0938\u0942\u0915\u094d\u0924 (\u090b\u0917\u094d\u0935\u0947\u0926)",
+      "creator": "",
+      "year": null,
+      "language": "Marathi",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "by-0_20200617",
+      "title": "\u0935\u0947\u0926\u094b\u0902 \u092e\u0947\u0902 \u092a\u0948\u0917\u0902\u092c\u0930 \u092e\u0941\u0939\u092e\u094d\u092e\u0926 \u0935\u0947\u0926\u094b\u0902 \u092e\u0947\u0902 \u0907\u0938\u094d\u0932\u093e\u092e By \u0921\u093e 0 \u090f\u092e \u090f \u0936\u094d\u0930\u0940\u0935\u093e\u0938\u094d\u0924\u0935",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4407274991",
+      "title": "\u092a\u0930\u0923 \u092e \u0906\u092f\u0930\u0935\u091c\u091e\u0928",
+      "year": 2017,
+      "is_oa": true,
+      "oa_url": "https://www.anantaajournal.com/archives/2017/vol3issue6/PartD/11-1-32-542.pdf",
+      "authors": [
+        "\u0921\u0949. \u0935\u093f\u0928\u092f \u0938\u093f\u0902\u0939\u0932"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "20190914_20190914_1457",
+      "title": "\u0938\u0942\u0930\u094d\u092f \u0938\u0942\u0915\u094d\u0924 (\u090b\u0917\u094d\u0935\u0947\u0926)",
+      "creator": "",
+      "year": null,
+      "language": "Marathi",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "by-0_20200617",
+      "title": "\u0935\u0947\u0926\u094b\u0902 \u092e\u0947\u0902 \u092a\u0948\u0917\u0902\u092c\u0930 \u092e\u0941\u0939\u092e\u094d\u092e\u0926 \u0935\u0947\u0926\u094b\u0902 \u092e\u0947\u0902 \u0907\u0938\u094d\u0932\u093e\u092e By \u0921\u093e 0 \u090f\u092e \u090f \u0936\u094d\u0930\u0940\u0935\u093e\u0938\u094d\u0924\u0935",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4407274991",
+      "title": "\u092a\u0930\u0923 \u092e \u0906\u092f\u0930\u0935\u091c\u091e\u0928",
+      "year": 2017,
+      "is_oa": true,
+      "oa_url": "https://www.anantaajournal.com/archives/2017/vol3issue6/PartD/11-1-32-542.pdf",
+      "authors": [
+        "\u0921\u0949. \u0935\u093f\u0928\u092f \u0938\u093f\u0902\u0939\u0932"
+      ]
+    }
+  ]
+}

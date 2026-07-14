@@ -1,0 +1,68 @@
+{
+  "title": "Ragachikitsa",
+  "discovered_at": "2026-07-13T14:44:33.933117+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "ragachikitsa_202204",
+      "title": "Ragachikitsa",
+      "creator": "Dr Suvarna Nalapat",
+      "year": 2008,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "grand-unification-for-world-peace-music-therapy-for-integrating-healthcare-pdf",
+      "title": "Grand Unification For World Peace ; Music THerapy For Integrating Healthcare Pdf",
+      "creator": "Dr Suvarna Nalapat",
+      "year": 2012,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "Metadata"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "RagaChikitsa",
+      "title": "\u0d28\u0d3e\u0d26\u0d32\u0d2f\u0d38\u0d3f\u0d28\u0d4d\u0d27\u0d41 \u0d30\u0d3e\u0d17\u0d1a\u0d3f\u0d15\u0d3f\u0d24\u0d4d\u0d38\u0d3e\u0d2e\u0d43\u0d24\u0d02-Dr. Suvarna Nalapat",
+      "creator": "Dr. Suvarna Nalapat",
+      "year": null,
+      "language": "mal",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

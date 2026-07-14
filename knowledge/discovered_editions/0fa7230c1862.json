@@ -1,0 +1,179 @@
+{
+  "title": "Divya_prerna_prakash",
+  "discovered_at": "2026-07-13T13:10:45.170690+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "51072DivyaPrernaPrakash",
+      "title": "51072 Divya Prerna Prakash",
+      "creator": "SUVRATSUT",
+      "year": 2017,
+      "language": "mar",
+      "formats": [
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "divyaprernaprakash_Hindi",
+      "title": "Divya Prerna Prakash",
+      "creator": "",
+      "year": null,
+      "language": "Sanskrit",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "DivyaPrernaPrakash_201706",
+      "title": "Divya Prerna Prakash - Hindi",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "51072DivyaPrernaPrakash",
+      "title": "51072 Divya Prerna Prakash",
+      "creator": "SUVRATSUT",
+      "year": 2017,
+      "language": "mar",
+      "formats": [
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "divyaprernaprakash_Hindi",
+      "title": "Divya Prerna Prakash",
+      "creator": "",
+      "year": null,
+      "language": "Sanskrit",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "DivyaPrernaPrakash_201707",
+      "title": "Divya Prerna Prakash",
+      "creator": "SUVRATSUT",
+      "year": 2017,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3216175254",
+      "title": "Evaluation of surface water quality using water quality indices (WQIs) in Lake Sukhna, Chandigarh, India",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/s13201-021-01534-x.pdf",
+      "authors": [
+        "Maansi",
+        "Rajinder Jindal",
+        "Meenu Wats"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4407898295",
+      "title": "Artificial Intelligence and Applications",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/bfm:978-981-97-8074-7/1",
+      "authors": [
+        "Yadav, Amita",
+        "Joshi, Amit M.",
+        "Ergezer, Mehmet"
+      ]
+    }
+  ]
+}

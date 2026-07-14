@@ -1,0 +1,47 @@
+{
+  "title": "104-Valmiki-Ramayan-Telugu",
+  "discovered_at": "2026-07-13T11:55:08.539063+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W460587",
+      "title": "That\u2019s what She Said: Sita in the Lives and Imaginations of Hindu Women: Choice, Ideals and the Oral Tradition.",
+      "year": 2012,
+      "is_oa": true,
+      "oa_url": "https://spectrum.library.concordia.ca/974862/1/Delaye_MA_F2012.pdf",
+      "authors": [
+        "Ashleigh Delaye"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4242260383",
+      "title": "JRA volume 5 issue 2 Cover and Front matter",
+      "year": 1871,
+      "is_oa": true,
+      "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B697CE28F9CD841ED1DD9B9C0DD16087/S0035869X00161210a.pdf/div-class-title-jra-volume-5-issue-2-cover-and-front-matter-div.pdf",
+      "authors": []
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W460587",
+      "title": "That\u2019s what She Said: Sita in the Lives and Imaginations of Hindu Women: Choice, Ideals and the Oral Tradition.",
+      "year": 2012,
+      "is_oa": true,
+      "oa_url": "https://spectrum.library.concordia.ca/974862/1/Delaye_MA_F2012.pdf",
+      "authors": [
+        "Ashleigh Delaye"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4242260383",
+      "title": "JRA volume 5 issue 2 Cover and Front matter",
+      "year": 1871,
+      "is_oa": true,
+      "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/B697CE28F9CD841ED1DD9B9C0DD16087/S0035869X00161210a.pdf/div-class-title-jra-volume-5-issue-2-cover-and-front-matter-div.pdf",
+      "authors": []
+    }
+  ]
+}

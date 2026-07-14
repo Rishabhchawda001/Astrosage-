@@ -1,0 +1,29 @@
+{
+  "external_editions_processed": 25,
+  "new_public_domain_downloads": 20,
+  "atomic_fragments_recovered": 71599,
+  "characters_recovered": 20167011,
+  "words_recovered": 2790226,
+  "verses_recovered": 0,
+  "commentary_recovered": 0,
+  "unknown_units_remaining": 0,
+  "alignments_made": 0,
+  "http_requests": 139,
+  "execution_time": 667.5,
+  "evidence": {
+    "total": 0,
+    "by_source_type": {},
+    "unique_units": 0
+  },
+  "alignment": {
+    "total": 0,
+    "by_type": {}
+  },
+  "reconstruction": {
+    "total": 0,
+    "by_status": {}
+  },
+  "statistics": {
+    "total_books": 0
+  }
+}

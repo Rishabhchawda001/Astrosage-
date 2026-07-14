@@ -1,0 +1,30 @@
+{
+  "title": "Brahma-Sphuta-Siddhanta_VOL_II",
+  "discovered_at": "2026-07-13T12:47:06.696351+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3027770854",
+      "title": "Perspectivas hist\u00f3ricas y epistemol\u00f3gicas del n\u00famero cero",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://revistas.uptc.edu.co/index.php/praxis_saber/article/download/9847/9288",
+      "authors": [
+        "Jonathan Steven Villamil",
+        "Lida Esperanza Riscanevo"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2798066738",
+      "title": "The Segregation of Real Roots of Lower Orders",
+      "year": 1939,
+      "is_oa": true,
+      "oa_url": "https://scholars.fhsu.edu/cgi/viewcontent.cgi?article=1285&context=theses",
+      "authors": [
+        "Ross Bland"
+      ]
+    }
+  ]
+}

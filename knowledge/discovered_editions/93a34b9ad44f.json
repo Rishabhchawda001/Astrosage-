@@ -1,0 +1,59 @@
+{
+  "title": "BPHS - 1 RSanthanam",
+  "discovered_at": "2026-07-13T12:41:56.531812+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2895877601",
+      "title": "Effect of exosomal miRNA on cancer biology and clinical applications",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-018-0897-7",
+      "authors": [
+        "Zhenqiang Sun",
+        "Ke Shi",
+        "Shuaixi Yang"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2802277418",
+      "title": "Dysregulation of sphingolipid metabolism contributes to bortezomib-induced neuropathic pain",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "https://rupress.org/jem/article-pdf/215/5/1301/1169206/jem_20170584.pdf",
+      "authors": [
+        "Katherine Stockstill",
+        "Timothy M. Doyle",
+        "Xisheng Yan"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2895877601",
+      "title": "Effect of exosomal miRNA on cancer biology and clinical applications",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-018-0897-7",
+      "authors": [
+        "Zhenqiang Sun",
+        "Ke Shi",
+        "Shuaixi Yang"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2802277418",
+      "title": "Dysregulation of sphingolipid metabolism contributes to bortezomib-induced neuropathic pain",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "https://rupress.org/jem/article-pdf/215/5/1301/1169206/jem_20170584.pdf",
+      "authors": [
+        "Katherine Stockstill",
+        "Timothy M. Doyle",
+        "Xisheng Yan"
+      ]
+    }
+  ]
+}

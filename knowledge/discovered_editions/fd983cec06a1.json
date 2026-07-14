@@ -1,0 +1,119 @@
+{
+  "title": "Guru Sadhana (1)",
+  "discovered_at": "2026-07-13T13:14:44.190638+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Being Guru Rinpoche",
+      "authors": [
+        "James Low"
+      ],
+      "year": 2006,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9781412084079",
+        "1412084075"
+      ],
+      "publisher": [
+        "Trafford Publishing"
+      ],
+      "ol_key": "/works/OL8431986M"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "gopala-campu-by-jiva-goswami-purva-and-uttara-campu",
+      "title": "Gopala Campu by Jiva Goswami, Purva and Uttara Campu",
+      "creator": "Srila Jiva Goswami",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Word Document",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "bdrc-W4CZ302354",
+      "title": "thugs sgrub mthing ga drag po rtsal gyi bsnyen pa'i yang yig zab don nor bu sogs",
+      "creator": "",
+      "year": null,
+      "language": "tib",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "Item Tile",
+        "MARC",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Raw BDRC Book Zip",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "bdrc-W23453",
+      "title": "a cycle of practice focussing upon the esoteric form of the guru from the byan-gter revelations of rig-'dzin rgod-kyi-ldem-'phru-can",
+      "creator": "",
+      "year": 1980,
+      "language": "tib",
+      "formats": [
+        "Archive BitTorrent",
+        "Dublin Core",
+        "MARC",
+        "Metadata",
+        "Preliminary Scandata",
+        "Raw BDRC Book Zip",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2786164777",
+      "title": "The female guru",
+      "year": 2012,
+      "is_oa": true,
+      "oa_url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9780203116258-6&type=chapterpdf",
+      "authors": [
+        "Karen Pechilis"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W434866294",
+      "title": "Seeking b\u0101uls of Bengal",
+      "year": 2002,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Jeanne Openshaw"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "title": "Notations_1",
+  "discovered_at": "2026-07-13T14:25:17.154420+00:00",
+  "edition_count": 12,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "SERIES",
+      "authors": [
+        "BOB FINNELL"
+      ],
+      "year": null,
+      "languages": [],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [],
+      "ol_key": "/works/OL11025252W"
+    },
+    {
+      "source": "open_library",
+      "title": "Januar +",
+      "authors": [
+        "Klaus Rifbjerg"
+      ],
+      "year": 2012,
+      "languages": [
+        "dan"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "8779735517",
+        "9788779735514"
+      ],
+      "publisher": [
+        "Tiderne Skifter"
+      ],
+      "ol_key": "/works/OL22735186W"
+    },
+    {
+      "source": "open_library",
+      "title": "Compositions of Saint Tyagaraja in western staff notation 1",
+      "authors": [
+        "V. K. Krishna Prasad"
+      ],
+      "year": 2009,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "CBH Publications"
+      ],
+      "ol_key": "/works/OL16284201W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp80-00809a000700150531-4",
+      "title": "CIA Reading Room cia-rdp80-00809a000700150531-4: REGULATIONS GOVERNING THE TRANSFER OF MEMBERSHIP IN TRADE UNIONS ADOPTED BY ALL-CHINA FEDERATION OF LABOR, DECEMBER 1950",
+      "creator": "CIA Reading Room",
+      "year": 1954,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "9781981919253ThephilosophyofloveTears",
+      "title": "The Philosophy of Love-Tears:Philosophical poems by Sorin Cerin",
+      "creator": "Sorin Cerin",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ERIC_ED441740",
+      "title": "ERIC ED441740: The Hermeneutic Dialogic: Finding Patterns midst the \"Aporia\" of the Artist/Researcher/Teacher.",
+      "creator": "ERIC",
+      "year": 2000,
+      "language": "english",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "A history of mathematical notations",
+      "authors": [
+        "Florian Cajori"
+      ],
+      "year": 1928,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "b29980343_0002",
+        "historyofmathema00cajo_0"
+      ],
+      "edition_count": 12,
+      "isbn": [
+        "9780875481722",
+        "9780486677668",
+        "1602066841",
+        "087548154X",
+        "9781602066847",
+        "0875481728",
+        "0486677664",
+        "9780875481548",
+        "9781602067134",
+        "1602067139",
+        "9781602067141",
+        "1602067147"
+      ],
+      "publisher": [
+        "Cosimo Classics",
+        "Open Court Publishing",
+        "Open Court Pub Co",
+        "Open Court Pub. Co.",
+        "Open Court.",
+        "The Open court publishing company",
+        "Dover Publications",
+        "Open Court"
+      ],
+      "ol_key": "/works/OL2337965W"
+    },
+    {
+      "source": "open_library",
+      "title": "SERIES",
+      "authors": [
+        "BOB FINNELL"
+      ],
+      "year": null,
+      "languages": [],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [],
+      "ol_key": "/works/OL11025252W"
+    },
+    {
+      "source": "open_library",
+      "title": "Januar +",
+      "authors": [
+        "Klaus Rifbjerg"
+      ],
+      "year": 2012,
+      "languages": [
+        "dan"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "8779735517",
+        "9788779735514"
+      ],
+      "publisher": [
+        "Tiderne Skifter"
+      ],
+      "ol_key": "/works/OL22735186W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp81m00980r001900070075-3",
+      "title": "CIA Reading Room cia-rdp81m00980r001900070075-3: ALLIANCE TO END REPRESSION, ET AL. V. ROCHFORD, ET AL. CIVIL ACTION NO. 74-C-3268",
+      "creator": "CIA Reading Room",
+      "year": 1978,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Image-Only PDF Metadata JSON",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ERIC_ED441740",
+      "title": "ERIC ED441740: The Hermeneutic Dialogic: Finding Patterns midst the \"Aporia\" of the Artist/Researcher/Teacher.",
+      "creator": "ERIC",
+      "year": 2000,
+      "language": "english",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp79r01012a001300040017-4",
+      "title": "CIA Reading Room cia-rdp79r01012a001300040017-4: SUMMARY OF ORAL CONTRIBUTIONS TO NIE-45: 'PROBABLE FREE WORLD ATTITUDES IN THE EAST- WEST CONFLICT, THROUGH MID-1954, UNDER CERTAIN ASSUMED CONDITIONS '",
+      "creator": "CIA Reading Room",
+      "year": 1953,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Image-Only PDF Metadata JSON",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

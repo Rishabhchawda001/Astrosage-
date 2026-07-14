@@ -1,0 +1,183 @@
+{
+  "title": "Shri-Yogavasishtha-3",
+  "discovered_at": "2026-07-13T15:12:49.517226+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "ShriYogavasishthaMaharamayan2Hindi",
+      "title": "Shri Yogavasishtha Maharamayan- 2 -Hindi",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ShriYogavasishtha2",
+      "title": "Yoga Vasishtha Hindi PDF Part 02",
+      "creator": "Rajanikant Chandwadkar (rasucha@gmail.com)",
+      "year": 2014,
+      "language": "Hindi",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ShriYogavasishthaMaharamayan3Hindi",
+      "title": "Shri Yogavasishtha Maharamayan- 3 -Hindi",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4412613484",
+      "title": "Concept of Disease in Yogavasishtha And it\u2019s Relevance in Modern Scenario",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://www.ijfmr.com/papers/2025/4/51496.pdf",
+      "authors": [
+        "Anil Yadav",
+        "Ram Kishore",
+        "Srvan Yadav"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shri-yogavasishtha-1",
+      "title": "Shri Yogavasishtha",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ShriYogavasishthaMaharamayan4Hindi",
+      "title": "Shri Yogavasishtha Maharamayan- 4 -Hindi",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.327119",
+      "title": "The Yogavasishtha Of Valmiki With Tatparyaprakasha (vol. - Ii)",
+      "creator": "Shastri, Vasudev Lakshaman",
+      "year": 1937,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4412613484",
+      "title": "Concept of Disease in Yogavasishtha And it\u2019s Relevance in Modern Scenario",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://www.ijfmr.com/papers/2025/4/51496.pdf",
+      "authors": [
+        "Anil Yadav",
+        "Ram Kishore",
+        "Srvan Yadav"
+      ]
+    }
+  ]
+}

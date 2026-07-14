@@ -1,0 +1,104 @@
+{
+  "title": "Strength+of+Brahmacharya",
+  "discovered_at": "2026-07-13T15:24:12.692705+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "rtbasfyttotw",
+      "title": "Mahabharata-Ramayana-Complete-Best Translations",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 Tar",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "httpsierj.injournalindex.phpierjarticleview2499",
+      "title": "RETROSPECTIVE CLINICAL SURVEY: A STUDY TO SHOW THE EFFECT OF NIDRA VIPARYAYA ON DHATU SARATA",
+      "creator": "Dr. Manisha Sharma, Dr. Iqbal Singh",
+      "year": 2022,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "hari-om-brahmcharya-sadhana-in-hindi-by-h.-h.-sri-swami-sivananda",
+      "title": "HARI OM BRAHMCHARYA SADHANA In HINDI By H. H. Sri Swami Sivananda",
+      "creator": "Chidananda",
+      "year": 2026,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2313500287",
+      "title": "GODUGDHA SHIRODHARA: A NON PHARMACOLOGICAL TREATMENT OF NIDRANASH (INSOMNIA)",
+      "year": 2013,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.7897/2277-4343.04417",
+      "authors": [
+        "Ashish Gotmare",
+        "Kiran Tawalare",
+        "kalpana Nanote"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2517860106",
+      "title": "Critical analysis of dietetics in Ayurveda",
+      "year": 2016,
+      "is_oa": true,
+      "oa_url": "https://jaims.in/index.php/jaims/article/download/20/9",
+      "authors": [
+        "Nagraj G Bhat",
+        "Vijay Negalur",
+        "Vinaya Yaji"
+      ]
+    }
+  ]
+}

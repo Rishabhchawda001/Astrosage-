@@ -1,0 +1,544 @@
+# 
+
+**Author:** 
+**Language:** unknown
+**Pages:** 6
+**Document Class:** scanned_image
+**Pipeline:** Document Intelligence v1.0
+**SHA256:** `c4398f9bcc53d0ea4d1286050053bdb59723705cbb6a7cf65765015447b2ad15`
+
+---
+
+## Page 1
+
+Brahmavaivarta Purana
+
+CONTENTS:-
+VOLUME 1:
+
+Brahma-Khandam :
+
+4. Introduction and importance of Brhmavaivarta Purana
+
+2. The position of Goloka and its descrip’ and the definition of the divinity of Sri Krsna
+3. The universe emerges out of Krsna; Narayana eulogies Krsna
+
+4, Emergence of Kanadeva, Rati and others
+
+5. Establishment of the routine of the Goloka and emergence of Radha an other cowherdesses
+6. Sri Krsna hands over Laksmi to Narayana and spouses to other god
+
+7. Creation of the Earth, mountains and oceans etc. by Brahma
+
+8. Creation of Veda, Manus etc.
+
+9. Progeny of the daughters of Daksa
+
+10. Comparison between Casts and the relations
+
+11. Asvanikumaras freed of the curse; praise of the Vaisnava Brahmanas
+12. The story of Narada
+
+413. Death of Upabarhana with the curse of Brahma and lamenting of Malavati.
+14. Visnu appears before Malavati in the form of a Brahmana boy
+
+15. The display of the might by the Brahmas
+
+46. Brahmana spells out the medical treatment
+
+17. Talk of Brahma with the Brahmana boy
+
+18. Restoring Upabarhana back to life
+
+19. Krsnakavaca, Sivakavaca and the description of Sivastavaraja
+
+he birth of Upabarhana from Kalavati the wife of cowherd
+
+21. The daily routine of the child born in the Sudra family
+
+22. The emergence of the names of the sons of Brahma
+
+23. Narada seeks permission from Brahma for performing tapas
+
+24, Discourse of Brahma on the duties of the house holder
+
+25. Narada's audience with lord Siva
+
+26. Daily routine and method of adoration
+
+27, Eatables and non-eatables for the Brahmana
+
+28. Description of the form of the Great Soul
+
+29. Question raised by Narada before Narayana in Badrikasrama
+
+30. Description of the glory of lord Krsna and his Prakrti
+
+Prakrti-Khandam :
+
+4. Description of Prakrti and paricles there of
+
+2. The birth of Krsnas Radha besides other and goddesses
+
+3. Description of the child of Virat form
+
+4. Adoration of Sarasvati and her kavaca
+
+5. Yajnavalkya offers prayer to Sarasvati
+
+6. The pronouncing of curse by Laksmi, Sarasvati and Ganga on one another
+7. The story of Kaliyuga, Measures of time and the divine dance of Krsna in Goloka
+8. The story of Prthvi
+
+9. The story of Prthvi
+
+10. The story of birth of Ganga
+
+11. The story of Ganga
+
+12. The story of Ganga
+
+413, The story of Tulasi and Vrsadhvaja
+
+14. The stories of Vedavati, Sita and Draupadi
+
+15. The story relating to the birth of Tulasi
+
+16. Marriage of Tulasi with Samkhacuda
+
+17. The proceeding of Puspadanta to Samkhacuda as a messenger
+18. The conversation between lord Siva and Samkhacuda
+
+19. The battle between Siva and Samkhacuda
+
+20. The destruction of Samkhacuda with the trident of Siva
+
+21. The defiling of the chastity of Tulasi and the glory of Salagrama
+
+## Page 2
+
+22. The method of adoration of Goddess Savitri
+
+23. The method of adoration of Goddess Savitri
+
+24. The adoration of Savitri
+
+25. Questioning of Yama by Savitri
+
+26. Yama answers Savitri's questions
+
+27. Dialogue between Savitri and Dharmaraja
+
+28. Savitri prayer for Yama
+
+29. The names of the pits of hell
+
+30. The suffering of the sinners in the hell
+
+34. Description of the hell of the sinners
+
+32. Description of the human body
+
+33. Description of the Kundas of hell
+
+34. The end of Yama's discourse
+
+35. The form of Laksmi an the method of her adoration
+36. Durvasa pronounces a curse on Indra
+
+37. The results of deeds performed
+
+38. The churning of the Ocean
+
+39, The method of adoration of Laksmi
+
+40. Birth of Svaha
+
+41, The story of the birth of Svadha
+
+42. The story of Daksina
+
+43. The story of goddess Sasthi
+
+44. The story of Mangalacandi
+
+45, The story of Manasa Devi
+
+46. The stotra of Manasa Devi
+
+47. The story of Surabhi
+
+48. The story of Narayani and Radha
+
+49, Pronouncing of curse mutually by Radha and Sudama
+50. The story of Suyajna
+
+51. Description of the sins and result there of as narrated by the Sages
+52. Conversation between Narada and
+
+53, The discourse of the Guest
+
+54. Suyajna achieves Goloka
+
+55. Worship of Radha and her Stotra
+
+56. The defining of Radha Mantra
+
+57. The genesis of the word Durga and other names
+58. The Freeing of Tara and Candrama of the Blemish
+59. Brhaspati travels to Kailasa
+
+60. Method for redemption of Tara
+
+61, The return of Tara to Brhaspati and the birth of Budha
+62. The desires of Suratha and Vaisya fulfilled
+
+63. Talk between Durga and Vaisya
+
+64. The method of adoration and sacrifice of animals
+65. The Discourse
+
+66. The Stotra of Durga
+
+67. Brahmandamohanakavaca
+
+## Page 3
+
+Ganapati-Khandam :
+
+4. Conversation between Narada and Narayana
+
+2. The curse pronounced by Parvati on the Gods
+
+3. The performing of vrata by Parvati for getting a son
+
+4. The performing of PunyakaVrata
+
+5. The glory of Punyaka Vrata
+
+6. Permission for performing Punyaka Vrata
+
+7. The procedure for performing vrata by Parvati and the stotra of Sri Krsna
+8. The birth of Ganesa
+
+9. Sight of child Ganesa
+
+10. Festivity at the Birth of Ganesa
+
+11. Conversation between Saturn and Parvati
+
+12. The severing of the head of Ganesa and its replacement by Visnu
+13. The worship of Ganesa, the Stuti and kavaca
+
+14, The birth of Karttikeya
+
+15. Conversation between Karttikeya and Nandakesvara
+16. The arrival of
+
+17. The Appointment of the Karttikeya as the Army Commander
+18. Kasyapa's curse on Siva
+
+419. Surya's stotra and kavaca
+
+20. The reasons for the joining of the elephant head on the trunk of Ganesa
+21. Indra gets back Laksmi
+
+22. The Stotra and kavaca of Laksmi
+
+23. The dwelling places of Laksmi
+
+24. The reason for Ganesa having a single tusk
+
+25, Battle between Jamadagni and Kartaviryarjuna
+
+26. Ending of the battle by Bahma
+
+27. Destruction of Jamadagni and Parasurama's resolve
+28. The Departure of Bhrgu to Brahmaloka
+
+29. The Arrival of Parasurama at Kailasa
+
+30. Siva gives away weapons to Parasurama
+
+31. The giving of Sri Krsna kavaca to Parasurama
+
+32, Stotra of adoration of the kavaca
+
+33. Bhragu's praise to Lord Krsna
+
+34, Battle with Kartavirya
+
+35. Description of Sankara kavaca
+
+36. Description of the battle between Kartavirya and Bhrgu
+37. Bhadrakali kavaca
+
+38. Laksmi kavaca
+
+39. Durgatinasini kavaca
+
+40. Bhrgu's departure for Kailasa
+
+41. The description of Kailasa
+
+42. A discussion between Parasurama and Ganapati
+
+43. The breaking of the trunk of Ganesa
+
+44, The Stotra of Ganesa
+
+45. Prayers to Durga by Parasurama
+
+46. Conversation between Ganesa and Tulasi
+
+## Page 4
+
+VOLUME 2:
+
+Srikrsna-janma-Khandam :
+
+1. The praise for Visnu and Vaisnavas
+
+2. The cowherds Viraja turns to the form of river
+
+3. Pronounce of mutual curse between Radha and Sridama
+4, Detailed description of Goloka
+
+5. Ode of Sri Krsna
+
+6. Emergence of Sri Krsna and Radha from the mass of luster
+7. Story of the birth of Krsna
+
+8. The fasting of Janmastmi and the merit of the same
+
+9. Festivities of Nanda's son
+
+10. Salvation of Putana
+
+11. Killing of Trnavarta
+
+12. Destruction of Sakatasura
+
+413. Annaprasana and names giving ceremonies of Sri Krsna
+14. Uprooting of Arjuna tree
+
+45. Marriage of Radha and Krsna
+
+16. The killing of Bakasura, Pralambasura and Kesi
+
+17. Description of Vrndavana
+
+18. Desire for redemption of a Brahmana Woman
+
+419. Killing of Kaliya and consuming of the forest fire
+
+20. The abduction of cows and calves and cowherds
+
+21. Preparation of an Indrayaga by Nanda
+
+22. Killing of Dhenukasura
+
+23. Curse to Tilottama and the sons of Bali by Brahma
+
+24. The salvation of the son of Bali in the context of consuming the tala fruits
+25. Durvasa relieved of Sudarsanacakra
+
+26. Performing of Ekadasi-vrata
+
+27. Stealing the costumes of Cowherdesses
+
+28. Proposal of Rasalila
+
+29. The salvation of sage Astavakra
+
+30, Rambha's curse on Astavakra
+
+31. Description of Mohinis stotra
+
+32, Stotra of Lord Krsna
+
+33. The curse of Mohini and shattering of the Brahma’s Pride
+34, The birth of Jahnavi
+
+34. The episode of Brahma
+
+36. Praise of Siva by lord Krsna
+
+37. Curse of the “left over" of Siva
+
+38. Shattering of the Prides of Parvati
+
+39. Shattering of the Pride of Parvati
+
+40. Tapas of Parvati
+
+41, The story of the king Anarnya
+
+42. Death of Sati
+
+43. Siva Relived of the Grief
+
+44, Marriage of Parvati
+
+45. Marriage of Siva
+
+46. Married life of Siva and Parvati
+
+47. Shattering of the Pride of Indra
+
+48. Shattering of the Pride of the Sun
+
+49. Shattering of the Pride of Agni
+
+50. Shattering of the Pride of Durvasa
+
+51. Shattering of the Pride of Dhanvantari
+
+52. Description of Rasa Performance of Radha and Madhava
+53, Rasalila of Shri Krisna
+
+54, Conversation between Sri Krisna and Radha
+
+55. The Influence of Sri Krsna
+
+56. Stotra of Laksmi
+
+57. Detachment of Laksmi
+
+58. The shattering of the pride of the Goddess Earth, Savitri, Ganga, Manasa and Radha
+59. The prayer of Indrani to her teacher at the shattering of the pride of Indra
+
+## Page 5
+
+60, Indra Relieved of the Bondage
+61. The shattering of the Pride of Indra through Bali
+62. The life story of Rama
+
+66. Removal of Radha's Grief
+
+67. Description of Yoga
+
+68. Radha’s request to Krsna
+
+69. Description of the sport of Radha and Krsna
+
+70, The plight of Akrura and departure of Krsna for Vraja
+71. The journey of Krsna
+
+72. Killing of Kamsa and release of Vasudeva and Devaki
+73. Nanda and others relieved of Grief
+
+74, Talk between Nanda and Krsna
+
+75. The imparting of worldly knowledge to Nanda
+
+76, The description of Visible Things
+
+77, The God Dreams
+
+78. Discourse to Nanda on Spiritualism
+
+79. Reason for not viewing the Eclipsed Sun
+
+80. The reason for not viewing the moon on the fourth day of the bright fortnight of Bhadrapada
+81. The Abduction of Tara
+
+82. Subsiding of Evil Dreams
+
+83. The duties of all the four Varnas and Others
+
+84, The eatables and non-eatables of the for Varnas
+
+85, The eatables and non-eatables of the for Varnas
+
+86. The story of Vrnda
+
+87. Arrival of Sanatkumara at the time of conversation between Krsna and Nanda
+88, Krsna recites Durga stotra for Nanda
+
+89. Krsna eulogises Nanda
+
+90, Description for Yugas
+
+91. Devaki and Vasudeva speak Nanda
+
+92. Radha Stotra
+
+93. Conversation between Radha and Uddhava
+
+94, Uddhava's Prayer to Radha
+
+95, Radhas Discourse to Uddhava
+
+96. Description of the movement of time by Radha
+
+‘97, Radha’s discourse to Uddhava
+
+98. Arrival of Uddhava in Mathura and meeting with Krsna
+99. Yajnopavita of Krsna and Coronation of Ganesa
+
+100. Aditi welcomes Parvati
+
+101. Yajnopavita of Balarama and Krsna
+
+102. Prosecuting of study by Krsna and Balabhadra with Sandipani
+103. Building of Dvaraka by Krsna
+
+104, Entry into Dvaraka and Crowning of Ugrasena
+
+105. Arrangement for the Marriage of Rukmini
+
+106. Marriage of Revati and Balarama
+
+407. Subjugation of Salva by Balabhadra and the stotra recited by Bhismaka
+
+## Page 6
+
+4108. Marriage of Rukmini
+
+109, Festivities of the Marriage of Krsna and Rukmini
+
+110. Conversation between Yashoda and Radha
+
+111. Conversation between Radha and Yashoda
+
+112. The stories of Prayumna and Durvasa
+
+113. Durvasa enlightened by Parvati
+
+114. Union between Usa and Aniruddha
+
+115. Bana gets ready for a war hearing the news about his Daughter
+116. The episode of Draupadi having five Spouses
+
+117. Conversation between Siva and Ganesa
+
+148. Durga dissuades Bana from the war
+
+119. Bali praises Krsna
+
+120. Bana presents his daughter to Aniruddha
+
+121, The story of Srgala
+
+122. The story of Syamantaka Gem
+
+123. Glory of Ganesa
+
+124. Prayer of Radha by Ganesa, Brahma, Siva and Ananta
+125, Rajasuya Yajna of Vasudeva
+
+126. Meeting of Radha and Krsna
+
+127. Conjugal pleasure of Radha and Krsna
+
+128. Krsna spills out the evil of Kali Age
+
+129, Submerging of Dvaraka and departure of Krsna for the eternal Abode
+130. The marriage of Nanda
+
+131. The birth of Agni and Gold
+
+132. Brief of the own story
+
+133. Characteristics features of the Purana

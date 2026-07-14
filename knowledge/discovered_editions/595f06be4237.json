@@ -1,0 +1,72 @@
+{
+  "title": "Markandey Puran",
+  "discovered_at": "2026-07-13T14:08:47.051689+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "dli.ernet.420577",
+      "title": "Prachin Kavyamala Granth-18 Premanand Krut Markandey Puran Bhag-3",
+      "creator": "",
+      "year": null,
+      "language": "guj",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wjCU_markandey-puran-of-maharshi-vyas-by-mansukh-ray-mor-guru-mandal-granth-mala-no.-",
+      "title": "Markandey Puran Of Maharshi Vyas By Mansukh Ray Mor Guru Mandal Granth Mala No. 23 Gopal Printing Works",
+      "creator": "Gopal Printing Works",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "markandey-puran-part-2-by-govind-shastri-dugwekar-1931-shri-bharat-dharma-mahamandal-varanasi",
+      "title": "Markandey Puran Part 2 By Govind Shastri Dugwekar 1931 Shri Bharat Dharma Mahamandal Varanasi",
+      "creator": "Shri Bharat Dharma Mahamandal Varanasi",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Abbyy GZ",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    }
+  ]
+}

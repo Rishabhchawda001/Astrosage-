@@ -1,0 +1,615 @@
+{
+  "total_files": 751,
+  "unique_sha256": 620,
+  "sha256_duplicate_groups": 68,
+  "sha256_duplicate_files": 131,
+  "groups": [
+    {
+      "sha256": "b3d210288ea2a002079966784610bdaa",
+      "file_count": 62,
+      "files": [
+        "knowledge/raw/source_library/Aatmbodh hindi/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Aryabhatta (English)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Astang hridyam hindi/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Astrology (English)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Ayurveda hindi/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Bhagwat Geeta as it is (Prabhupada)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Bhagwat geeta (English)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Bhagwat geeta (punjabi)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Bhramcharya/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Bhrigu samhita/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Biography (hindi)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Brahma sphutha sidhantha/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Chakras/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Chalisa (Hindi)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Chanakya niti/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Famous stories/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Geeta (Gujarati)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Guru Geeta/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Hindu rituals/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Kamasutra/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Kundalini/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Mahabharat (English)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Mahabharat (hindi)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Narayan kavach (hindi)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Panini/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Puran (hindi)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Puran (telugu)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Purans (english)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Ramayan (English)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Ramayan (hindi)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Ramayan (tamil)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Ramayan (telugu)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Ravan samhita (hindi)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Sadhak sanjivni/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Science in vedas/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Shata chakra nirupama/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Shiv geeta/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Shri yogavashisht maharamayan/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Sundar kand/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Surya suktam/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Sushruta samhita english/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Sushruta samhita hindi/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Swar vigyan/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Tantra mantra books/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Upnishads/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Ved (English)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Ved (gujrati)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Ved (hindi)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Ved (telgu)/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Vedic science/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Vemanic sashastra/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Vidur niti/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Vigyan bhairav tantra/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/Yoga/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/aatmbodh english/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/astrology hindi/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/ayurveda english/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/bhramcharya english/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/kannada books/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/narad Bhakti sutra hindi/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+        "knowledge/raw/source_library/narad bhakti sutra english/D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg"
+      ]
+    },
+    {
+      "sha256": "01c9d9b02b0fe5de8563da1ad1dd36c3",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Aryabhatta (English)/aryabhata_with_english_commentary.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/aryabhata_with_english_commentary.pdf"
+      ]
+    },
+    {
+      "sha256": "e0f860f88f9a3f98ddd1436346d27e0c",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Bhagwat/श्री_मद्भागवत_महापुराण_द्वितीय_खण्ड.pdf",
+        "knowledge/raw/source_library/Puran (hindi)/श्री_मद्भागवत_महापुराण_द्वितीय_खण्ड.pdf"
+      ]
+    },
+    {
+      "sha256": "fcc63c94b7d8137414835f623523ee24",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Bhagwat/श्री_मद्भागवत_महापुराण_प्रथम_खण्ड.pdf",
+        "knowledge/raw/source_library/Puran (hindi)/श्री_मद्भागवत_महापुराण_प्रथम_खण्ड.pdf"
+      ]
+    },
+    {
+      "sha256": "a9a77dbbea0124d2d766bab013dd2bf6",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Bhrigu samhita/bhrigu-samhita-hindi1.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/bhrigu-samhita-hindi1.pdf"
+      ]
+    },
+    {
+      "sha256": "51ddbe4f34bb0753be9869556808d824",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of _सत्यवादी_राजा_हरिश्चंद्र_की_कथा.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/_सत्यवादी_राजा_हरिश्चंद्र_की_कथा.pdf"
+      ]
+    },
+    {
+      "sha256": "04c75b8ba3c93a3a5f42e0df367974a5",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of आर्यभट्ट ( Hindi ).pdf",
+        "knowledge/raw/source_library/Biography (hindi)/आर्यभट्ट ( Hindi ).pdf"
+      ]
+    },
+    {
+      "sha256": "12e6fa1ce5ea211a2b754a5ae0e69cd7",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of आर्यभट्ट.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/आर्यभट्ट.pdf"
+      ]
+    },
+    {
+      "sha256": "29a98eaaff0e31e79c8c63147ba44bcc",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of एकलव्य.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/एकलव्य.pdf"
+      ]
+    },
+    {
+      "sha256": "22289442c45d15f003417a6423fd006b",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of कार्तिकेय.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/कार्तिकेय.pdf"
+      ]
+    },
+    {
+      "sha256": "4b4982e3db7537079f39f40fa6026e1d",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of छत्रपति शिवाजी ( Hindi ).pdf",
+        "knowledge/raw/source_library/Biography (hindi)/छत्रपति शिवाजी ( Hindi ).pdf"
+      ]
+    },
+    {
+      "sha256": "924dd7e1554b74b5ad0afd7465ae744d",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of छत्रपति शिवाजी.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/छत्रपति शिवाजी.pdf"
+      ]
+    },
+    {
+      "sha256": "d6b1f73eedd2277b8fbb6eade983b431",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of जगद्गुरु शंकराचार्य.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/जगद्गुरु शंकराचार्य.pdf"
+      ]
+    },
+    {
+      "sha256": "0a2c6d2e0283bf51b32212877d34c3ae",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of जीजाबाई.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/जीजाबाई.pdf"
+      ]
+    },
+    {
+      "sha256": "bede01627e9397742536814442cad963",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of डॉ. हेडगेवार.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/डॉ. हेडगेवार.pdf"
+      ]
+    },
+    {
+      "sha256": "96d60acb892442ad46832c3ec43a0e52",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of नेताजी सुभाषचंद्र बोस.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/नेताजी सुभाषचंद्र बोस.pdf"
+      ]
+    },
+    {
+      "sha256": "d6f67d49a52f083fa86123cb0b3dc2b2",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of पंडित_दीनदयाल_उपाध्याय.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/पंडित_दीनदयाल_उपाध्याय.pdf"
+      ]
+    },
+    {
+      "sha256": "903eab353ef82fe558580e55d1bf437b",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of भक्त प्रहलाद.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/भक्त प्रहलाद.pdf"
+      ]
+    },
+    {
+      "sha256": "03d1df861ae17eea306de195c59130b7",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of भगत सिंह.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/भगत सिंह.pdf"
+      ]
+    },
+    {
+      "sha256": "ca51e91fb17c1fcea86eec5b1e503dea",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of भगीरथ.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/भगीरथ.pdf"
+      ]
+    },
+    {
+      "sha256": "94a36bb711ee2788bf0c7dc011ab46ea",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of भास्कराचार्य ( Hindi ).pdf",
+        "knowledge/raw/source_library/Biography (hindi)/भास्कराचार्य ( Hindi ).pdf"
+      ]
+    },
+    {
+      "sha256": "fca306418e84fb9b157b503eef536c6d",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of महर्षि अगस्त्य.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/महर्षि अगस्त्य.pdf"
+      ]
+    },
+    {
+      "sha256": "c3400cf351372c895fd3376aeea2b1ea",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of महर्षि वाल्मिकी.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/महर्षि वाल्मिकी.pdf"
+      ]
+    },
+    {
+      "sha256": "e1c8573970370c1014a1afca4477aab7",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of महर्षि विश्वामित्र.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/महर्षि विश्वामित्र.pdf"
+      ]
+    },
+    {
+      "sha256": "322ee06210605fede13d4b935919cbfd",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of महर्षि वेदव्यास.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/महर्षि वेदव्यास.pdf"
+      ]
+    },
+    {
+      "sha256": "b8315baf74e3df4f0d0949904605d317",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of महात्मा विदुर.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/महात्मा विदुर.pdf"
+      ]
+    },
+    {
+      "sha256": "b2026e6c2491e9ab8eae7b55c203ed24",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of महाराणा प्रताप ( Hindi ).pdf",
+        "knowledge/raw/source_library/Biography (hindi)/महाराणा प्रताप ( Hindi ).pdf"
+      ]
+    },
+    {
+      "sha256": "1dff591adb6ce31224030e0138329a80",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of महाराणा प्रताप.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/महाराणा प्रताप.pdf"
+      ]
+    },
+    {
+      "sha256": "8749286349a4c821cb96fe91c3fdead7",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of महाराणा_प्रताप_भारत_का_विर_योद्धा.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/महाराणा_प्रताप_भारत_का_विर_योद्धा.pdf"
+      ]
+    },
+    {
+      "sha256": "57316f3fa9ab81c08a1247b74f26210b",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of महासती द्रोपदी.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/महासती द्रोपदी.pdf"
+      ]
+    },
+    {
+      "sha256": "4f87375bf272362244e8fd93fa85a9a7",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of मीरा बाई का जीवन.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/मीरा बाई का जीवन.pdf"
+      ]
+    },
+    {
+      "sha256": "c03684c571e76a6f2f8f00f7394ffc21",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of मीराबाई.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/मीराबाई.pdf"
+      ]
+    },
+    {
+      "sha256": "94fef9894392d87be87b9d5eda2eda80",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of मोक्षदायिनी गंगा.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/मोक्षदायिनी गंगा.pdf"
+      ]
+    },
+    {
+      "sha256": "ae9bf90a14915beb78f04d84fd05e22e",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of योगी_कथामृत_परमहंस_योगानंद.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/योगी_कथामृत_परमहंस_योगानंद.pdf"
+      ]
+    },
+    {
+      "sha256": "46e5b03ccc7b6b81e33da9e74327d812",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of राजा राम मोहनराय.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/राजा राम मोहनराय.pdf"
+      ]
+    },
+    {
+      "sha256": "e0a4f546a88a565c29745e5e468dc917",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of रानी लक्ष्मीबाई.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/रानी लक्ष्मीबाई.pdf"
+      ]
+    },
+    {
+      "sha256": "056b89a3470837424bcb8f560952a368",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of लव-कुश की वीरता.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/लव-कुश की वीरता.pdf"
+      ]
+    },
+    {
+      "sha256": "7ffd912a7431358a0ffb42959a623613",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of वीर अभिमन्यु.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/वीर अभिमन्यु.pdf"
+      ]
+    },
+    {
+      "sha256": "0c380d1f242794ea401ee29cea922631",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of वीर सावरकर.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/वीर सावरकर.pdf"
+      ]
+    },
+    {
+      "sha256": "e321ce2d505a4faf78ec5c78b816e597",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of श्री कृष्ण.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/श्री कृष्ण.pdf"
+      ]
+    },
+    {
+      "sha256": "c9dd6be986267c6a23d05a188e935dde",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of श्री राम.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/श्री राम.pdf"
+      ]
+    },
+    {
+      "sha256": "e2696d4dce9092627a0844a3fdefd98b",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of सती अनुसुइया की कहानी.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/सती अनुसुइया की कहानी.pdf"
+      ]
+    },
+    {
+      "sha256": "db0a4fa6fbfe682850fe30d8c5a10c21",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of सती सावित्री.pdf",
+        "knowledge/raw/source_library/Biography (hindi)/सती सावित्री.pdf"
+      ]
+    },
+    {
+      "sha256": "865c1e2ac0a599654ba00b99eb41be32",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Biography (hindi)/Copy of स्वामी विवेकानंद ( Hindi ).pdf",
+        "knowledge/raw/source_library/Biography (hindi)/स्वामी विवेकानंद ( Hindi ).pdf"
+      ]
+    },
+    {
+      "sha256": "b2a7b2e68527ab93aadff07d279724fb",
+      "file_count": 3,
+      "files": [
+        "knowledge/raw/source_library/Brahma sutra (hindi)/gita-press-vedant-darshan-brahmasutra-sanskrit-hindi.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/gita-press-vedant-darshan-brahmasutra-sanskrit-hindi.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/vedant-darshan-brahmasutra-sanskrit-hindi.pdf"
+      ]
+    },
+    {
+      "sha256": "6548f53a08657555421f4b2c2871817f",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Chalisa (Hindi)/Swar vigyan.pdf",
+        "knowledge/raw/source_library/Swar vigyan/Swar vigyan.pdf"
+      ]
+    },
+    {
+      "sha256": "a334a0cd834615a0f7fff29cb365fa01",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Durga saptsati/durga-saptashati-hindi.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/durga-saptashati-hindi.pdf"
+      ]
+    },
+    {
+      "sha256": "db8105f512d5b826be592d5031ac4982",
+      "file_count": 3,
+      "files": [
+        "knowledge/raw/source_library/Famous stories/श्री_विष्णु_सहस्र_नाम_स्तोत्रम्.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/Sri Vishnu sahasranaam satrotam.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/Sri_Vishnu_sahasranaam_satrotam_sanskrit.pdf"
+      ]
+    },
+    {
+      "sha256": "1d2a9fa2da878b1a1d21e18e76c2dc70",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/BhaiBaleWaliJanamSakhi.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/BhaiBaleWaliJanamSakhiPunjabi.pdf"
+      ]
+    },
+    {
+      "sha256": "3adadd7448cdd339f093c927a8e43f43",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/GEET SANSKRIT,GUJ Hindi &amp; ENG.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/GOPI GEET SANSKRIT,GUJ Hindi &amp; ENG.pdf"
+      ]
+    },
+    {
+      "sha256": "198d45b38745b229e210eb52e8bbe8b4",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/Hindi Book-Devi Bhagvat Puran.pdf",
+        "knowledge/raw/source_library/Puran (hindi)/Devi Bhagvat Puran.pdf"
+      ]
+    },
+    {
+      "sha256": "3e0129d4a1d7d0c657d7e34bbb40fb88",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/Narad_Bhakti_Shandilya_1p65.pdf",
+        "knowledge/raw/source_library/narad Bhakti sutra hindi/Narad and Shandilya bhakti sutra.pdf"
+      ]
+    },
+    {
+      "sha256": "8a50a9c5e06f9059d23c2420f074426e",
+      "file_count": 3,
+      "files": [
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/Raghav anulom vilom.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/Raghav-yadviyam.pdf",
+        "knowledge/raw/source_library/Odia books/raghav-yadviyam.pdf"
+      ]
+    },
+    {
+      "sha256": "c16edb41f0b738e1c4abbeccaa87bf1c",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/Science_and_Astronomy_IJTK 13(4) 716-724.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/Solar_Eclipse_Om.pdf"
+      ]
+    },
+    {
+      "sha256": "2e6dccca51040b839cf806f843bfe0bf",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/ShivaSahinta_WithHindiTika.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/Shiva_Sahinta_WithHindiTika.pdf"
+      ]
+    },
+    {
+      "sha256": "398bd14c5596902264c831da547f5578",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/Time_Frequency_Analysis_Om.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/freq analysisi of OM.pdf"
+      ]
+    },
+    {
+      "sha256": "b765257e4dcf3405beda0001d930ab07",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/bhavanbhaskar-vastu-shastra (1).pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/bhavanbhaskar-vastu-shastra.pdf"
+      ]
+    },
+    {
+      "sha256": "b4c488a138f0dabbb5123d7e55847c73",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/bmcjyY4xSXasjO68ISeW_अथर्ववेद.pdf",
+        "knowledge/raw/source_library/Ved (hindi)/अथर्ववेद.pdf"
+      ]
+    },
+    {
+      "sha256": "e4b4ea758632711424a6fa1808568010",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/bramsutr.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/bramsutrSanskrit.pdf"
+      ]
+    },
+    {
+      "sha256": "60eb9912740579e34e9cb8bdb839b12c",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/narayan-kwach.pdf",
+        "knowledge/raw/source_library/Narayan kavach (hindi)/narayan-kwach.pdf"
+      ]
+    },
+    {
+      "sha256": "0edfe08848251d5263a9d78aa7aa7136",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/sby-a-research-study.pdf",
+        "knowledge/raw/source_library/GRANTHS(Hindi&amp;English)/super brainYoga_Research-English.pdf"
+      ]
+    },
+    {
+      "sha256": "a31102df36f1652d6befa1842ea6e4c7",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Puran (hindi)/vayu-puran.pdf",
+        "knowledge/raw/source_library/Purans (english)/vayu puran by ramprashad.pdf"
+      ]
+    },
+    {
+      "sha256": "63531588fdacc61e708d9d6dc98158cd",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Puran (hindi)/ऋग्वेद.pdf",
+        "knowledge/raw/source_library/Ved (hindi)/ऋग्वेद.pdf"
+      ]
+    },
+    {
+      "sha256": "82c20195b4e67cf20bab34bd27c9d50d",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Purans (english)/Ling Puran 2.pdf",
+        "knowledge/raw/source_library/Purans (english)/Ling Puran Sans Eng 2.pdf"
+      ]
+    },
+    {
+      "sha256": "fddafa44f600b0518380bae0718a384a",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Raag mp3/DARBARI.mp3",
+        "knowledge/raw/source_library/Raag mp3/Darbari.mp3"
+      ]
+    },
+    {
+      "sha256": "c078e4ebec161186c132fa147e637c60",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Science in vedas/science-in-vedas.pdf",
+        "knowledge/raw/source_library/Vedic science/science-in-vedas.pdf"
+      ]
+    },
+    {
+      "sha256": "b3b461d6c806b2293506ad8ca1e10c9d",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/Vemanic sashastra/the_vimanika_shastra.pdf",
+        "knowledge/raw/source_library/Vemanic sashastra/vimanikaShastraEnglish.pdf"
+      ]
+    },
+    {
+      "sha256": "deefede0d7d646da3cc610f1a96135b4",
+      "file_count": 2,
+      "files": [
+        "knowledge/raw/source_library/shrihari tika (bhagwat)/2015.327535.Shrimad-Bhagwad.pdf",
+        "knowledge/raw/source_library/test_download.pdf"
+      ]
+    }
+  ]
+}

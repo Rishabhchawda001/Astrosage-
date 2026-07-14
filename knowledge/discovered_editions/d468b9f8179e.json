@@ -1,0 +1,57 @@
+{
+  "title": "\u0930\u093e\u092e\u093e\u092f\u0923 For Students",
+  "discovered_at": "2026-07-13T17:33:01.361008+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "dli.language.0580",
+      "title": "\u0930\u093e\u092e\u093e\u092f\u0923 \u0914\u0930 \u092d\u093e\u0930\u0924-\u0938\u0902\u0938\u094d\u0915\u0943\u0924\u093f",
+      "creator": "Prabodh Chandrasena",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "dli.language.0914",
+      "title": "\u0935\u093e\u0932\u094d\u092e\u0940\u0915\u093f \u0930\u093e\u092e\u093e\u092f\u0923 \u0924\u0925\u093e \u0906\u092f\u0941\u0930\u094d\u0935\u0947\u0926",
+      "creator": "Dr. Prerna Mathur",
+      "year": 2012,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

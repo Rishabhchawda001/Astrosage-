@@ -1,0 +1,14 @@
+{
+  "books_searched": 11,
+  "total_http_requests": 3708,
+  "apis_contacted": [
+    "openalex",
+    "archive_org",
+    "open_library",
+    "crossref"
+  ],
+  "editions_discovered": 2052,
+  "public_domain_found": 53,
+  "execution_time": 319.8,
+  "rate": 0.0
+}

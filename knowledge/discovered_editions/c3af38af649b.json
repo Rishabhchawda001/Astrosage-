@@ -1,0 +1,280 @@
+{
+  "title": "Kalki-Purana-english",
+  "discovered_at": "2026-07-13T13:27:11.890022+00:00",
+  "edition_count": 12,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "\u015ar\u012bkalkipur\u0101\u1e47am",
+      "authors": [
+        "Pushp\u0101 Gupt\u0101"
+      ],
+      "year": 2014,
+      "languages": [
+        "eng",
+        "san"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9788178542614",
+        "8178542617"
+      ],
+      "publisher": [
+        "Eastern Book Linkers"
+      ],
+      "ol_key": "/works/OL23281061W"
+    },
+    {
+      "source": "open_library",
+      "title": "\u015ar\u012b Kalki Pur\u0101\u1e47a",
+      "authors": [
+        "Vy\u0101sa"
+      ],
+      "year": 2006,
+      "languages": [
+        "eng",
+        "san"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Jai Nitai Press"
+      ],
+      "ol_key": "/works/OL24079053W"
+    },
+    {
+      "source": "open_library",
+      "title": "Sri Kalki Purana",
+      "authors": [
+        "Krsna Vyasadeva"
+      ],
+      "year": 2013,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "1492854603",
+        "9781492854609"
+      ],
+      "publisher": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "ol_key": "/works/OL39841842W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "hinduism-islam-telugu",
+      "title": "\u0c06 \u0c26\u0c47\u0c35\u0c41\u0c21\u0c41 \u0c0e\u0c35\u0c30\u0c41? TRUE Hinduism Islam Telugu : BRAHMA = VISHNU = ALLAH & Kalki Avatar = Prophet Muhammad \ufdfa",
+      "creator": "truepurposeoflife",
+      "year": null,
+      "language": "tel",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "muhammad-in-the-hindu-scriptures-dr-ved-prakash-upadhyay-prayag-university-1970-english",
+      "title": "Muhammad In The Hindu Scriptures",
+      "creator": "Ved Prakash Upadhyay",
+      "year": 2000,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "AlhaKhandInBhavishyaPuranaRevisedPart1",
+      "title": "Bhavishya Purana (Bhavishya Maha Purana) -Pratisarg Parv -Khand Three full translated to english",
+      "creator": "Vedvyasa(translated by Avinandan Bose)",
+      "year": 2016,
+      "language": "english",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "\u015ar\u012bkalkipur\u0101\u1e47am",
+      "authors": [
+        "Pushp\u0101 Gupt\u0101"
+      ],
+      "year": 2014,
+      "languages": [
+        "eng",
+        "san"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9788178542614",
+        "8178542617"
+      ],
+      "publisher": [
+        "Eastern Book Linkers"
+      ],
+      "ol_key": "/works/OL23281061W"
+    },
+    {
+      "source": "open_library",
+      "title": "\u015ar\u012b Kalki Pur\u0101\u1e47a",
+      "authors": [
+        "Vy\u0101sa"
+      ],
+      "year": 2006,
+      "languages": [
+        "eng",
+        "san"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Jai Nitai Press"
+      ],
+      "ol_key": "/works/OL24079053W"
+    },
+    {
+      "source": "open_library",
+      "title": "Sri Kalki Purana",
+      "authors": [
+        "Krsna Vyasadeva"
+      ],
+      "year": 2013,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "1492854603",
+        "9781492854609"
+      ],
+      "publisher": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "ol_key": "/works/OL39841842W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "hinduism-islam-telugu",
+      "title": "\u0c06 \u0c26\u0c47\u0c35\u0c41\u0c21\u0c41 \u0c0e\u0c35\u0c30\u0c41? TRUE Hinduism Islam Telugu : BRAHMA = VISHNU = ALLAH & Kalki Avatar = Prophet Muhammad \ufdfa",
+      "creator": "truepurposeoflife",
+      "year": null,
+      "language": "tel",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "the-kalki-purana-english",
+      "title": "The Kalki Purana\u2014 English",
+      "creator": "",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "muhammadinthehinduscriptures",
+      "title": "Muhammad In The Hindu Scriptures",
+      "creator": "",
+      "year": null,
+      "language": "English",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    }
+  ]
+}

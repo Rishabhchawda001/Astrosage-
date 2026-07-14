@@ -1,0 +1,109 @@
+{
+  "title": "Satyarthaprakasa",
+  "discovered_at": "2026-07-13T14:55:10.646004+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Vis\u0301vadharma kos\u0301a Satya\u0304rthapraka\u0304s\u0301a",
+      "authors": [
+        "Bhawanilal Bhartiya"
+      ],
+      "year": 1978,
+      "languages": [
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 2,
+      "isbn": [],
+      "publisher": [
+        "Pra\u0304pti stha\u0304na Vaidika Yantra\u0304laya",
+        "Pr\u0101pti sth\u0101na Vaidika Yantr\u0101laya"
+      ],
+      "ol_key": "/works/OL1071175W"
+    },
+    {
+      "source": "open_library",
+      "title": "Satya\u0304rthapraka\u0304s\u0301a",
+      "authors": [
+        "Dayananda Sarasvati Swami"
+      ],
+      "year": 1912,
+      "languages": [
+        "pan",
+        "tam",
+        "hin",
+        "dut",
+        "urd",
+        "mal"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 12,
+      "isbn": [],
+      "publisher": [
+        "A\u0304r. Nat\u0323e\u0304ca Aiyar",
+        "A\u0304rya\u0304 Pirti\u0304nidhi\u0304 Sabha\u0304",
+        "Ramala\u0304la Kapu\u0304ra Tr\u0332ast\u0323a",
+        "\u015ar\u012bmad Day\u0101nanda Saty\u0101rtha Prak\u0101\u015ba Ny\u0101sa",
+        "Ramal\u0101la Kap\u016bra T\u1e5fas\u1e6da",
+        "A\u0304ryasama\u0304ja Book Depot",
+        "\u0100r. Na\u1e6d\u0113ca Aiyar",
+        "De Vereniging",
+        "Bhagavati\u0304 Praka\u0304s\u0301ana",
+        "\u0100ryasam\u0101ja Book Depot",
+        "Sewaka Sat\u0323i\u0304ma Presa",
+        "Sewaka Sa\u1e6d\u012bma Presa"
+      ],
+      "ol_key": "/works/OL15286374W"
+    },
+    {
+      "source": "open_library",
+      "title": "Saty\u0101rthaprak\u0101\u015ba",
+      "authors": [
+        "Dayananda Sarasvati Swami"
+      ],
+      "year": 1875,
+      "languages": [
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Is\u1e6d\u0101r Press"
+      ],
+      "ol_key": "/works/OL35488883W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "VaidikaDharmaSatyarthaprakasa",
+      "title": "Vaidika Dharma Satyarthaprakasa",
+      "creator": "Dr Chirravuri Sivarama Krishna Sarma",
+      "year": 2015,
+      "language": "hin",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

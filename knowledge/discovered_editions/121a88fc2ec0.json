@@ -1,0 +1,208 @@
+{
+  "title": "varaha-puran (1)",
+  "discovered_at": "2026-07-13T17:09:07.252947+00:00",
+  "edition_count": 10,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.345352",
+      "title": "The Varaha Purana",
+      "creator": "Not Available",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "varaha_purana",
+      "title": "Varaha Purana (Sanskrit Text Only)",
+      "creator": "Sri Vyasadeva",
+      "year": 2015,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "JPEG Thumb",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "varaha-puran-gita-press",
+      "title": "\u0938\u0902\u0915\u094d\u0937\u093f\u092a\u094d\u0924 \u0936\u094d\u0930\u0940\u0935\u0930\u093e\u0939 \u092a\u0941\u0930\u093e\u0923 (\u0917\u0940\u0924\u093e\u092a\u094d\u0930\u0947\u0938)",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4205935829",
+      "title": "Philosophy of some hymns of vedas and purans in relation to environmental status",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://www.allstudyjournal.com/article/648/3-4-25-224.pdf",
+      "authors": [
+        "Sudhir Kumar Rawat",
+        "Anjana Vashishtha"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3154910387",
+      "title": "A Review on the Clinical Aspect of Guda (jaggery) in Brihatrayi and laghutrayi",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.31782/ijcrr.2021.13718",
+      "authors": [
+        "Prashant Umate",
+        "Pramod Khobragade",
+        "Harsha Thanvi"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "varaha-puran-gita-press",
+      "title": "\u0938\u0902\u0915\u094d\u0937\u093f\u092a\u094d\u0924 \u0936\u094d\u0930\u0940\u0935\u0930\u093e\u0939 \u092a\u0941\u0930\u093e\u0923 (\u0917\u0940\u0924\u093e\u092a\u094d\u0930\u0947\u0938)",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "gp1361-varaha-puran",
+      "title": "GP1361 Varaha Puran",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "18mahapuran",
+      "title": "18 Mahapuran collection (Hindi/ Sanskrit-Hindi) (pdf)",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4205935829",
+      "title": "Philosophy of some hymns of vedas and purans in relation to environmental status",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://www.allstudyjournal.com/article/648/3-4-25-224.pdf",
+      "authors": [
+        "Sudhir Kumar Rawat",
+        "Anjana Vashishtha"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3154910387",
+      "title": "A Review on the Clinical Aspect of Guda (jaggery) in Brihatrayi and laghutrayi",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.31782/ijcrr.2021.13718",
+      "authors": [
+        "Prashant Umate",
+        "Pramod Khobragade",
+        "Harsha Thanvi"
+      ]
+    }
+  ]
+}

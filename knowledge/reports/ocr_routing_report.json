@@ -1,0 +1,18 @@
+{
+  "total_documents": 751,
+  "routes": {
+    "direct_text": 304,
+    "ocr_full": 341,
+    "ocr_hybrid": 26,
+    "docx_extract": 1,
+    "unsupported": 1,
+    "metadata_only": 78
+  },
+  "ocr_engines": {
+    "none": 384,
+    "paddleocr": 367
+  },
+  "documents_needing_ocr": 367,
+  "total_pages_needing_ocr": 87730,
+  "estimated_total_time_seconds": 468503.0
+}

@@ -1,0 +1,55 @@
+{
+  "title": "research-report-on-puran (2)",
+  "discovered_at": "2026-07-13T16:56:46.703191+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3087122386",
+      "title": "Prevalence of SARS-CoV-2 infection in India",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "http://www.ijmr.org.in/articles/2020/152/1/images/IndianJMedRes_2020_152_1_48_294807_sm7.pdf",
+      "authors": [
+        "ManojV Murhekar",
+        "Tarun Bhatnagar",
+        "Sriram Selvaraju"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2137474753",
+      "title": "Hydrated metal ions in aqueous solution: How regular are their structures?",
+      "year": 2010,
+      "is_oa": true,
+      "oa_url": "https://www.degruyter.com/document/doi/10.1351/PAC-CON-09-10-22/pdf",
+      "authors": [
+        "Ingmar Persson"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3087122386",
+      "title": "Prevalence of SARS-CoV-2 infection in India",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "http://www.ijmr.org.in/articles/2020/152/1/images/IndianJMedRes_2020_152_1_48_294807_sm7.pdf",
+      "authors": [
+        "ManojV Murhekar",
+        "Tarun Bhatnagar",
+        "Sriram Selvaraju"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2137474753",
+      "title": "Hydrated metal ions in aqueous solution: How regular are their structures?",
+      "year": 2010,
+      "is_oa": true,
+      "oa_url": "https://www.degruyter.com/document/doi/10.1351/PAC-CON-09-10-22/pdf",
+      "authors": [
+        "Ingmar Persson"
+      ]
+    }
+  ]
+}

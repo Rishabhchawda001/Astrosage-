@@ -1,0 +1,59 @@
+{
+  "title": "hanuman-bahuk-gitapress",
+  "discovered_at": "2026-07-13T16:05:59.624318+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "HanumanBahukGitapress",
+      "title": "Hanuman Bahuk Gitapress Edition",
+      "creator": "Mahavir Prasad Malviya Vaidya",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "HanumanBahukGitapress",
+      "title": "Hanuman Bahuk Gitapress Edition",
+      "creator": "Mahavir Prasad Malviya Vaidya",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

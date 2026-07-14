@@ -1,0 +1,3941 @@
+# Narad Panchatatra 2
+
+**Document ID:** DOC-47C1EF64BBFE
+**Language:** english (latin)
+**Pages:** 556
+**Class:** ocr_overlay
+**SHA256:** `47c1ef64bbfe8fc6f080495087673ba525de7bd1f8653ce9bd5b14ac6cd27f85`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+Sri NARADA
+PANCARATRA
+
+of
+Sri Krsna Dvaipayana Vyasa
+
+VoLuME Two
+Third, Fourth and Fifth Ratras
+
+Translated by Bhumipati Das
+Edited by Purnaprajiia Dasa
+
+## Page 2
+
+From cover;
+
+The Narada-Pancaratra is mentioned many times in the
+writings of Srila Prabhupada. One verse, especially,
+was quoted by Srila Prabhupada innumer-- able times
+because it serves as the definition of devotional
+service. In the purport of Caitanya-caritamrta (Madhya
+19.170) Srila Prabhupada has written: Devotional
+service is defined in the Narada-Pancaratra as follows:
+sarvopadhi-vinirmuktam tat-paratvena nirmalam
+hrsikena hrsikesa- sevanam bhaktir ucyate
+
+“One should be free from all material designations and
+cleansed of all material contamination. lie should be
+restored to his pure identity, in which he engages his
+senses in the service of the proprietor of the senses.
+That is called devotional service.” This is the most
+
+famous verse from Narada-pancaratra.
+
+## Page 3
+
+Dedicated to
+
+His Divine Grace
+A. C. Bhaktivedanta Swami Prabhupada
+Sounder-acarya
+International Society for Krishna Consciousness
+
+## Page 4
+
+CONTENTS
+
+Introduction
+
+CHAPTER 1
+
+_ Parvati Inquires From Mahadeva about the Process of
+Worshiping Lord Visnu
+CHAPTER 2
+
+The Performance of Nyasa and the Chanting of Mantras While
+
+Worshiping the Lord and His Various Energies
+CHAPTER 38
+
+An Explanation of Various Nyasas and Mantras
+CHAPTER 4
+
+A Further Explanation of the Performance of
+
+Various Nyasas
+CHAPTER 5
+
+Meditation Upon Lord Krsna In His Transcendental
+abode, Vrndavana
+
+CHAPTER 6
+
+The Process of Worshiping Lord Krsna Whereby one
+Can attain Samipya-Mukti, the Liberation of Becoming
+an Eternal associate of the Lord
+
+CHAPTER 7
+Instructions on Worshiping the Lord and His associates
+CHAPTER 8
+
+Further Instructions on Worshiping the Lord and His
+Associates
+
+CHAPTER 9
+The Procedure For Performing Fire Sacrifice
+
+9
+
+21
+
+31
+
+41
+
+55
+
+63
+
+77
+
+85
+
+## Page 5
+
+CHAPTER 10
+
+Service to Lord Krsna after Diksa. Meditation
+Upon Lord Krsna
+
+CHAPTER 11
+
+The Process of Worshiping Lord Krsna at Noon.
+Meditation Upon Lord Krsna
+
+CHAPTER 12
+
+Service to Lord Krsna In the Evening
+The Worship of the Gopis
+
+CHAPTER 13
+
+Worship of Lord Krsna In His Mantra Form The
+Process of Tarpana
+
+CHAPTER 14
+The Chanting of Various Mantras and Their Results
+CHAPTER 15
+Description of Lord Krsna In Dvaraka
+
+FourtH RATRA
+
+CHAPTER 1
+
+Mahadeva Narrates One Hundred and Eight Names
+of Lord Krsna to Narada Muni
+
+CHAPTER 2
+
+The Glories of Lord Visnu, as Described In a
+Conversation Between Parvati and Lord Siva
+
+CHAPTER 3
+
+The One Thousand Names of Lord Visnu, as told
+by Lord Siva to Parvati
+
+CHAPTER 4
+Narada Muni Glorifies Lord Visnu
+
+CHAPTER 5
+The Trailokya-Mangala-Kavaca of Sri Krsna
+
+93
+
+101
+
+119
+
+129
+
+153
+
+175
+
+189
+
+199
+
+269
+
+277
+
+## Page 6
+
+CHAPTER 6
+Prayers to Lord Gopala
+CHAPTER 7
+A Description of the Gopala-kavaca
+CHAPTER 8
+The One Thousand Names of Lord Gopala
+CHAPTER 9
+The Paraphernalia Used For Worshiping the Lord
+CHAPTER 10
+Five Types of Worship
+CHAPTER 11
+Twelve Kinds of Purification Practiced by Vaisnavas
+
+Firru RATRA
+
+CHAPTER 1
+Lord Krsna’s Instructions For the Age of Kali
+CHAPTER 2
+
+The Benefits of Chanting the Twelve-Syllable
+and Eighteen-Syllable Mantras
+
+CHAPTER 3
+Methods For Meditating Upon the Lord and
+Worshiping Him
+
+CHAPTER 4
+
+Further Descriptions of Meditation and
+Worship of the Supreme Lord
+
+CHAPTER 5
+The One Thousand Holy Names of Sri Radha
+CHAPTER 6
+
+The Glories of the One Thousand Holy Names
+of Sri Radha
+
+289
+
+295
+
+301
+
+357
+
+363
+
+371
+
+379
+
+405
+
+423
+
+435
+
+447
+
+505
+
+## Page 7
+
+CHAPTER 7
+The Sri Radha-Kavaca
+CHAPTER 8
+
+An Explanation of the Méanings of Some of
+the Supreme Lord’s Holy Names
+
+CHAPTER 9
+Worship of and Meditation on Sri Radha
+CHAPTER 10
+The Practice of Mystic Yoga, or Mantra-Yoga
+CHAPTER I1
+The Glories of Mystic Yoga
+
+513
+
+523
+
+533
+
+541
+
+555
+
+## Page 8
+
+INTRODUCTION
+
+The Ndarada-pancaratra is mentioned many times in the writings
+of Srila Prabhupada. One verse, especially, was quoted by
+Srila Prabhupada innumerable times because it serves as the
+definnition of devotional service.
+
+In the purport of Caitanya-caritémrta (Madhya 19.170) Srila
+Prabhupada has written:
+
+Devotional service is defined in the Ndérada-pajcaratra as
+follows:
+
+Sarvopadhi-vinirmuktam
+tat-paratvena nirmalam
+hrstkena hrstkesa-
+sevanam bhaktir ucyate
+
+“One should be free from all material designations and cleansed
+of all material contamination. He should be restored to his
+pure identity, in which he engages his senses in the service of
+the proprietor of the senses. That is called devotional service.”
+
+This is the most famous verse from Nérada-pajicaratra. Another
+verse is quoted by Srila Prabhupada in his purport to Bhagavad-
+gita (5.31):
+
+A devotee of the Lord, always acting in Krsna consciousness,
+is automatically liberated. In the Ndrada-pajicaratra this is
+confirmed in this way:
+
+dik-kalady-anavacchinne
+krsne ceto vidhaya ca
+
+tan-mayo bhavati ksipram
+jivo brahmani yojayet
+
+## Page 9
+
+Sri NARADA-PANCARATRA
+
+“By concentrating one’s attention on the transcendental form
+of Krsna, who is all-pervading and beyond time and space, one
+becomes absorbed in thinking of Krsna and then attains the
+happy state of transcendental association with Him.”
+
+We know that in the four yugas, four different processes of self-
+realization are prescribed. This is most often explained while
+quoting the following verse from Srimad-Bhagavatam (12.3.52):
+
+kyte yad dhyayato visnum
+tretayam yajato makhaih
+
+dvapare paricaryayam
+kalau tad dhari-kirtanat
+
+TRANSLATION
+Whatever result was obtained in Satya-yuga by meditating on
+Visnu, in Treta-yuga by performing sacrifices, and in Dvapara-
+yuga by serving the Lord’s lotus feet can be obtained in Kali-
+yuga simply by chanting the Hare Krsna mahd-manitra,
+
+: PURPORT
+A similar verse is found in the Visnu Purana (6.2.17), and also
+in the Padma Purana (Uttara-khanda 72.25) and the Brhan-
+naradiya Purana (38.97):
+
+dhydyan kyte yajan yajniais
+tretayam dvapare ’rcayan
+yad apnoti tad apnoti
+kalau sankirtya kesavam
+
+“Whatever is achieved by meditation in Satya-yuga, by the
+performance of sacrifice in Treta-yuga, and by the worship of
+Lord Krsna’s lotus feet in Dvapara-yuga is obtained in the age
+of Kali simply by glorifying the name of Lord Keégava.”
+
+## Page 10
+
+INTRODUCTION
+
+Srila Jiva Gosvami has further quoted from the Brahma-vaivarta
+Purana concerning the degraded condition of people in Kali-
+yuga:
+atah kalau tapo-yoga-
+vidyd-yajnadikah kriyah
+sdnga bhavanti na krtah
+kusalair api dehibhih
+
+‘Thus in the age of Kali the practices of austerity, yoga
+meditation, Deity worship, sacrifice and so on, along with their
+various subsidiary functions, are not properly carried out, even
+by the most expert embodied souls.
+
+Srila Jiva Gosvami has also cited the Caturmdsya-mahatmya of
+the Skandg Purana concerning the necessity of chanting Hare
+Krsna in this age:
+
+tatha caivottamam loke
+tapah sri-hari-kittanam
+
+kalau yuge visesena
+visnu-prityat samacaret
+
+“In this way the most perfect penance to be executed in this
+world is the chanting of the name of Lord Sri Hari. Especially
+in the age of Kali, one can satisfy the Supreme Lord Visnu by
+performing savikirtana.”’
+
+In conclusion, massive propaganda should be made all over
+the world to induce people to chant the Hare Krsna mantra, by
+which human society can be rescued from the dangerous ocean
+of the age of Kali.
+
+In the previous age, Dvapara-yuga, the process of Deity worship
+was prescribed and this method is explained in great detail in
+the Narada-paficaratra.
+
+## Page 11
+
+Srt NARADA-PANCARATRA
+
+In his purport to Srimad-Bhagavatam (3.9.17), Srila Prabhupada
+has written:
+
+People in general are all engaged in senseless work. They are
+systematically unmindful of the real beneficial work, which is
+the devotional service of the Lord, technically called the arcana
+regulations. The arcand regulations are directly instructed by
+the Lord in the Ndarada-pancaratra and are strictly followed by
+the intelligent men, who know well that the highest perfectional
+goal of life is to reach Lord Visnu, who is the root of the tree
+called the cosmic manifestation.
+
+The purpose of any process of self-realization is to engage
+the practitioner one hundred percent so that his mind
+becomes fully ‘absorbed in transcendence, with no chance of
+engaging on the material platform. In the Dvapara-yuga, a very
+elaborate performance of Deity worship enabled the devotee
+to fully engage his mind and senses in Krsna consciousness.
+This process is not practical in Kali-yuga, however, when the
+sankirtana-yajiia is to be performed. Therefore, what we read
+in the Ndarada-pancaratra is too elaborate and technical for this
+fallen age. Still, the process of Deity worship is not neglected
+in Kali-yuga, as we see from the following purport in Srimad-
+Bhagavatam (6.3.26) where Srila Prabhupada has written:
+
+Especially in this age of Kali, savkirtana alone is sufficient. If
+the members of our temples in the different parts of the world
+simply continue sankirtana before the Deity, especially before
+$ri Caitanya Mahaprabhu, they will remain perfect. There is no
+need of any other performances. Nevertheless, to keep oneself
+clean in habits and mind, Deity worship and other regulative
+principles are required. Srila Jiva Gosvami says that although
+sankirtana is sufficient for the perfection of life, the arcana, or
+worship of the Deity in the temple, must continue in order that
+the devotees may stay clean and pure. Srila Bhaktisiddhanta
+
+## Page 12
+
+INTRODUCTION
+
+Sarasvati Thakura therefore recommended that one follow
+both processes simultaneously. We strictly follow his principle
+of performing Deity worship and sankirtana along parallel lines.
+This we should continue.
+
+Srila Prabhupada has written in his purport to Srimad-
+Bhagavatam (4.13.4):
+
+Narada Muni is always glorifying the pastimes of the Lord. In
+this verse we see that not only does he glorify the Lord, but he
+also likes to glorify the devotees of the Lord. The great-sage
+Narada’s mission is to broadcast the devotional service of the
+Lord. For this purpose he has compiled the Narada-pafcaratra,
+a directory of devotional service, so that devotees can always
+take information about how to execute devotional service and
+thus engage twenty-four hours a day in performing sacrifices
+for the pleasure of the Supreme Personality of Godhead.
+
+In the purport to Srimad-Bhagavatam (6.8.17) Srila Prabhupada
+has written:
+
+Narada Muni, who is the guide for arcana, is the author of the
+Narada-paiicaratra, which prescribes the regulative principles
+for worshiping the Deity. Everyone engaged in Deity worship,
+whetherat home or in the temple, should always seek the mercy
+of Devarsi Narada in order to avoid the thirty-two offenses while
+worshiping the Deity.
+
+Narada-pancaratra is a very important devotional literature. It is
+referred to in the following verse of Rupa Gosvami, which Srila
+Prabhupada quoted numerous times, as in this excerpt from
+the Bhagavad-gita purport (7.3):
+
+Srila Ripa Gosvami writes in his Bhakti-rasdmrta-sindhu
+(1.2.101):
+
+iit
+
+## Page 13
+
+Sruti-smyti-purandadi-
+patcaratra-vidhim ving
+
+aikantiki harer bhaktir
+utpatayaiva kalpate
+
+“Devotional service of the Lord that ignores the authorized
+Vedic literatures like the Upanisads, Puranas and Narada-
+pancaratra is simply an unnecessary disturbance in society.”
+
+It is our hope that the readers of this humble attempt at
+presenting Narada-paficaratra will gain, at the very least, some
+pleasure in hearing the glorification of Lord Krishna, as
+expressed by His pure devotee, Narada Muni.
+
+## Page 14
+
+SRI NARADA
+PANCARATRA
+
+## Page 15
+
+Third Ratra
+
+CHAPTER 1
+
+Parvati Inquires From Mahadeva about the
+Process of Worshiping Lord Visnu
+
+Text 1
+$ri-Siva uvaca
+Srau narada vaksyami
+mantra-yantra-kriyadikan
+purd vyasena ye proktah
+Sukam prati mahamate
+Mahadeva said: O Narada! I shall now describe to you the
+mantras, yantras and various rituals that Vyasadeva had imparted
+to Sukadeva, long ago. Kindly hear with attention.
+
+Texts 24
+
+pratah-kytya-vidhir yo ‘tra
+
+tatha snana-vidhir mune
+tatha pajadikam sarvath
+
+mantraksara-samudbhavam
+mantrarthas ca yatha
+
+yena jrdyate purusena hi
+pura kailasa-sikhare
+
+sukha-sevye nirantaram
+parvati mar pura bhaktya
+
+paripapraccha yat sivam
+tat tat srnu mahabaho
+
+mamaikdgra-mand mune
+
+O sage, on the peak of Mount Kailasa, Parvati repeatedly
+inquired from me with great devotion about religious duties to
+
+1
+
+## Page 16
+
+Srt NARADA-PANCARATRA * THIRD RATRA
+
+be performed in the morning, the procedure for bathing, the
+collecting of paraphernalia for worship, as well as about the
+origin and meanings of various mantras.
+
+O mighty-armed sage! Listen with undivided attention as I
+speak on these subjects, which are meant for the welfare of the
+world.
+
+Text 5
+parvaty uvaca
+deva-deva mahadeva
+Samsararnava-taraka
+vaktum arhasi devesa
+mantra-tantra-vidhim guro
+
+Parvati said: O Mahadeva! O Lord of lords! O deliverer of the
+fallen living entities from the ocean of material existence!
+O foremost spiritual master of the demigods, you alone are
+capable of revealing to me the proper understanding of mantras
+and tantras.
+
+Texts 6-8
+Srt-radhayas ca krsnasya
+tatha paja-vidhim mama
+mantrartham ca tathaé yogan
+ndadmnam astottaram satam
+
+sahasram ca tatha namnam
+prabrihi mama sémpratam
+yady asti mayi karunyam
+yady asti mayi dohadam
+tada prabrithi radhaya
+namnam astottaram Satam
+Sahasram ca tatha deva
+mantra-yantra-vidhim mama
+
+## Page 17
+
+THE Process oF WorsHIPING Lorp Visnu
+
+Olord, please describe to me in detail the process of worshiping
+Sri Sri Radha-Krsna, the meaning of various mantras, the
+procedure for practicing yoga, the one hundred and eight
+names of the Lord, and also the one thousand names of the
+Supreme Lord. If you are actually merciful to me then you will
+tell me Radha’s one hundred and eight names, as well as Her
+one thousand names, and the process of chanting mantras and
+performing tantras in relation to Her.
+
+Text 9
+$ri-mahddeva uvdca
+Srnu devi pravaksyami
+mantra-yantra-vidhim priye
+Sukam prati pura proktam
+vedavyasena dhimata
+
+Mahadeva said: O dear one, please listen now as I explain about
+mantras and tantras as it was revealed by Vyasadeva to Sukadeva,
+long ago.
+
+Text 10
+tat te ‘ham sampravaksyami
+Srnusvaika-manah priye
+yavato mantra-varnas tu
+Sri-krsnasya paratmanah
+
+O dearly beloved, kindly hear with rapt attention as I begin my
+glorification of Krsna mantras.
+
+Text 11
+wyasa uvdca
+kala tu maya narakanta-mirtih
+kala-kvanad-venu-nindda-ramyah
+Srito hrdi vydkulayams trilokim
+Sriye ‘stu gopi-jana-vallabho vah
+
+## Page 18
+
+Srt NARADA-PANCARATRA ® THIRD RATRA
+
+Vyasadeva said: May Sri Krsna—who enchants the three worlds
+by the sound of His flute, who assumes a human form, who is
+very dear to the gopis, and whose separatated energy is known
+as maya—reside within your heart.
+
+Text 12
+guru-carana-saroruha-dvayotthan
+mahita-rajah-kanakan pranamya mirdhna
+gaditam iha vivecya naradadyair
+yajana-vidhi kathayami sarigapaneh
+
+After offering obeisances to the most exalted particles of dust
+from the lotus feet of my spiritual master, I shall begin to reveal
+the process of worship of Lord Krsna, as taught by great sages,
+such as Narada.
+
+Text 13
+Sarvesu varnesu tathdsramesu
+narisu nanasu yajan makhesu
+data phalandm abhivanchitanam
+dragleva gopalaka-mantra esah
+
+j
+The Gopdla-mantra is suitable for members of all varnas and
+asramas, as well as for women, and for all those who perform
+sacrifice. It awards them their desired results.
+
+Text 14
+Srnu vatsa pravaksyami
+pijanam sarnga-dhanvanah
+yan naradaya kathitam
+brahmana padma-yonina
+
+My dear child, let me describe to you the process for worshiping
+Lord Krsna that was previously disclosed to Narada by Brahma,
+who was born on the universal lotus flower.
+
+## Page 19
+
+Tue Process oF WorsuiPING Lorp Visnu
+
+Text 15
+pratah-krty adikam vaksye
+tathd pija-vidhi suta
+jagat-kalpa-taror vatsa
+Srnusva gadato mama
+
+My dear son, please hear with attention as I describe the
+ritualistic activities that are to be performed in the morning,
+as well as the process of worshiping Lord Krsna, who is like a
+desire tree because He alone fulfills the desires of everyone.
+
+Text 16
+ntinam acyuta-kataksa-patane
+karanam bhavati bhaktir aiijasa
+tac-catustaya-phalaptaye tato
+bhaktiman adhikrio gurau harau
+
+Devotional service is the only means whereby one can easily
+attain Lord Krsna’s merciful glance. Therefore, if one desires
+to obtain the four objectives of life, one should faithfully serve
+his spiritual master and thereby become qualified to serve
+Lord Hari.
+
+Text 17
+snato nirmala-stiksma- Suddha-
+vasano dhautarighri-panyananah
+sacantah sapavitra-mudrita-karah
+Svetordhvapundroyvalah
+
+praci-dig-vadano nibaddhya-
+sudrdham padmasanam svastikam
+
+’sinah sva-guriin ganadhipam
+atho vandeta baddhanjalih
+
+First of all, one should bathe and then put on clean clothes.
+Next, one should wash his hands, legs and mouth with water
+
+## Page 20
+
+SRI NARADA-PANCARATRA ® THIRD RATRA
+
+and perform dcamana, Then, one should put a ring made of
+kuSa grass on his right hand and decorate his forehead with
+tilaka, After this, one should offer prayers to his spiritual master
+and the previous dcdryas, as well as to the demigods, with folded
+hands while sitting in the padmdsana or svastikdsana (sitting
+posture).
+
+Text 18
+tato ‘stra-mantrena visodhya pani
+tritala-dig-bandha-hutasa-salan
+vidhaya bhiitatmakam etad anigam
+visodhayec chuddha-matih kramena
+
+One should then purify his hands by chanting astraya phat and
+purify the four directions for the protection of the place of
+worship, or sacrifice. One after another, a sincere devotee of
+Lord Krsna should purify each and every limb of his body.
+
+Text 19
+ida-vaktre dhimram satata-
+gati-bijam salavakam
+Smaret pitrvam mantri sakala-
+bhuvanocchosana-karam
+
+svakam deham tena pratata-
+vapusd ‘pirya-sakalam
+
+visodhya vyamuiicet pavanam
+atha margena-khamaneh
+
+One should invoke the grey-complexioned predominating
+deity of the air, Vayu, by chanting salavakam. He should then
+inhale air through his left nostril. After filling the lungs and
+thus becoming purified, one should exhale through the right
+nostril.
+
+## Page 21
+
+Tue Process OF WorsHiPING Lorp VIsNu
+
+Text 20
+tenaiva margena vilina-marutam
+bijam vicintyarunam Gsusuksaneh
+Gpiirya deham paridahya vamato
+mujficet samiram saha bhasmana bahih
+
+Thereafter, one should meditate upon the reddish-
+complexioned deity of fire while chanting his bija-mantra. While
+inhaling through the left nostril, thus filling one’s entire body
+with air, the practitioner burns all his sins by that fire and air
+and finally exhales the ashes from out of his body through his
+right nostril.
+
+Text 21
+uparam ativa suddham
+amrtamsu-pathena vidhum
+nayatu laléta-candram
+amytah sakalarnamayim
+
+la-pa-ra-japan nipatya
+
+racayec ca tayaé sakalam
+vapur amrtaugha-vrstim
+
+atha vaktra-karadyam idam
+
+A devotee should then connect the kundalini—which is the
+reservoir of all bias, and which is situated on the top of one’s
+left nostril—with the nectarean moon, which is supposed to be
+situated on one’s forehead. In this way, one should mentally
+cleanse his entire body by showering it with nectar.
+
+Texts 22-23
+Siro-vadana-vrtta-drk-sravana-
+ghona-gandausthaka-dvayesu
+sa-Siro-mukhesu ca iti
+kramat vinyaset
+
+## Page 22
+
+Sri NARADA-PANCARATRA ® THIRD RATRA
+
+halas ca kara-pada-sandhisu
+tad agrakesv adarat
+
+Sa-parsva-yuga-prstha-nabhy
+udarakesu yadyan atha
+
+hrdaya-kaksa-kakut-kara-mitla-doh-
+pada-yugodara-vaktragatan budhah
+
+hrdaya-piirvam anena patha ‘nvaham
+nyasatu Suddha-kalevara-siddhaye
+
+Thereafter, one should perform the nyasa by touching one’s
+forehead, face, eyes, ears, nose, cheeks, lips, teeth and mouth
+with vowels. One should also perform the nydasa by touching
+with consonants the joints of one’s hands and legs, two sides,
+back, navel and abdomen. Next, an intelligent devotee should
+perform the nydsa by touching with the letters that come after
+the five sets of consonants, one’s heart, arms, palms, feet, belly
+and mouth, while chanting appropriate mantras, so that one’s
+entire body becomes purified. ;
+
+Text 24
+ity Gracayya vapur arna-satarddhakena
+sdrddha-ksapesa-savisargaka-sobhanais taih
+vinyasya kesava-purahsara-mirti-yuktath
+kirty adi-Sakti-sahitair nyasatu kramena
+
+In this way, one should perform the nydsa while touching
+forms of the Supreme Lord, such as Kesava, and energies of
+the Supreme Lord, such as Kirti, while decorating his body
+with fifty matrka-bija mantras, along with dots. This is called the
+keSava-kirti-nyasa.
+
+Thus ends the translation of the first chapter of the Third Ratra
+of Sri Narada-paiicaratra.
+
+## Page 23
+
+CHAPTER 2
+
+The Performance of Nyasa and the Chanting
+of Mantras While Worshiping the Lord and His
+Various Energies
+
+Texts 1-3
+vyasa uvaca
+atha kathaydmy arndnam miirtih
+Saktih sakal-bhuvanamayth
+heSava-kirtir ndvayana-kantir
+madhavas tatha tustih
+
+govindah pusti-yuto visnu-
+dhyti sidanas ca madhvadyah
+Santis trivikramas ca kriyd-punar
+vamano daya ‘cyutah
+Svidhara-yuta ca medha
+hrstkanathas ca harsaya yuktah
+ambujanabha-sraddha
+daémodara-samyuta punar lazja
+
+Vyasadeva said: I shall now describe how the various Vaikuntha.
+forms of the Lord are united with Their pleasure potencies, for
+the purpose of creation. The form of KeSava is associated with
+the energy known as Kirtti, Narayana with Kanti, Madhava with
+Tusti, Govinda with Pusti, Visnu with Dhrti, Madhustidana with
+Santi, Trivikrama with Kriya, Vamana with Daya, Sridhara with
+Medha, Hrsikesa with Harsa, Padmanabha with Sraddha and
+Damodara with Lajja.
+
+Texts 4-5
+laksmi savadsudeva sankarsana-
+yutd sarasvati-prokia
+
+## Page 24
+
+10
+
+Srt NARADA-PANCARATRA * THIRD RATRA
+
+pradyumnah priti-yuto ‘niruddhako
+ratir imah svaropetah
+
+cakrijaye gadidurge sarigi
+prabhaydanvitas tatha khadgi
+
+Satya Sankhi-canda halivanyau
+musaliyud-bilasinika
+
+The form of Vasudeva is combined with Laksmi, Sankarsana
+with Sarasvati, Pradyumna with Priti, Aniruddha with Rati, Cakri
+with Jaya, Gadadhara with Durga, Sagi with Prabha, Khadgi
+with Sati, Sankhi with Canda, Hali with Vani, and Musali with
+Yuddha-vilasini.
+
+Texts 6-10
+Stl vijaya past viraja
+visudnvito ‘kumsoh bhiiyah
+vinadé mukunda-yukta nandaja-
+sunande smrtis ca nandi-yuta
+
+nava-rddhir narakayuta samrddhir
+agha Suddhi-yuk harih krsno
+
+bhakti-yutah satya-yuta-buddhir
+mati-yuk ca sasvatah Saurih
+
+ksamaya siiro ramaya
+
+jandardano me ca bhiidharah
+hledini visvadi-mirti-
+
+yukta klinna vaikuntha
+purusottamas ca taha
+
+vasudha balind ca parayana
+bhyjopeta-bhiyah parayanakhya
+
+baleh stiksma ursapra-sandhye ca
+
+Savrsa prajid hamsaprabha
+varaho nisa ca vimalo ‘megha
+
+## Page 25
+
+NyAsa AND Mantras
+
+narasimha-vidyute ca pranigadita
+mitrtayo ‘lam Sakti-yutah.
+varnan uktva sérddha-candran purastat
+miirtih Saktir ne ‘vasand ratim ca
+The form of Suli is associated with Vijaya, Varuna with Viraja,
+Ankusi with Visva, Mukunda with Vinada, Nandaja with
+Sunanda, Nandi with Smrti, Nara with Vrddhi, Narakajit with
+Samrddhi, Hari with Suddhi, Sri Krsna with Bhakti, Satya
+with Buddhi, Sagvata with Mati, Sauri with Ksama , Sara with
+Rama, Janardana with Uma, Bhudhara with Kledini, Visvamarti
+with Klinna, Purusottama with Vaikuntha, Bali with Vasudha
+Parayana, Bala with Mrjopeta Parayana, Vali with Saksma,
+Vrsa with Prasandhya, Savrsa with Prajiia, Harnsa with Prabha,
+Varaha with Nisa, Vimala with Amogha, and Narasithha with
+Vidyuta. These are the names of various forms of the Lord and
+Their energies. While chanting these holy names of the Lord
+and His energies, the mantra should end with the word namah.
+For example: om kesavaya kirttai namah.
+
+Texts 11-12
+
+uktva nyasye Gdibhih
+
+Sapta-dhatiina ‘tha
+vasuda prana-bijam
+
+krodham apy atmane ‘svan
+udyat-pradyotana-Saya-
+
+rucim tapta-hemavadatam
+parsva-dvandve jaladhi-
+
+Sutayd visva-dhatrya ca
+
+justam nana-ratnollasita-
+vividhakalpam Gpita-vastram
+
+visnum vande dara-kam
+gadé-kaumudi-cakrapanim
+
+i
+
+## Page 26
+
+12
+
+Srxt NARADA-PANCARATRA * THIRD RATRA
+
+One should perform the nydsa by touching it to seven parts
+of the body, beginning with the forehead, while chanting the
+names of the above-mentioned forms of the Lord and Their
+energies, in the form of bija-mantras.
+
+One should meditate on Lord Visnu while chanting the following
+prayer: I worship Lord Visnu; whose bodily effulgence is like
+millions of rising suns; whose bodily complexion resembles
+molten gold; who is served by Laksmi and Visvadhatri, standing
+by His side; who is decorated with jeweled ornaments; who is
+dressed in yellow garments; and who holds a conch, disc, club,
+and lotus in His four hands.
+
+Text 13
+dhydtvaivam paramdaksarair yo
+vinyased dinam anu keSavadi-yuktaih
+medhayuh-smrti-dhrti-kirti-kanti-laksmi
+Saubhagyais ciram upavrmhito bhavet sah
+
+A person who properly performs these above-mentioned nydsas
+daily becomes endowed with sound intelligence, along duration
+of life, good memory, perseverence, unfading glory, opulence,
+beauty and good fortune.
+
+Text 14
+asum eva rama-purah-saram
+prabhajed yo manujo vidhim budhah
+Samupetya raman prathiyasi
+punar ante haritam brajety asau
+
+The intelligent devotee who worships Lord Visnu while chanting
+the mantras beginning with ramd-bija attains all desirable
+opulence in this life and returns to the abode of Lord Hari
+after quitting his material body.
+
+## Page 27
+
+NyAsa AND MANTRAS 13
+
+Text 15
+ity acyuti-krta-tanur vidhivattu tattva
+nydsam na-piirvam aparaksara-naty upetam
+bhityah paraya ca tad Ghvayam atmane ca
+naty antam uddharatutattvamaniin kramena
+
+By this performance of tattva-nyasa, one attains a purified body
+like that of Lord Acyuta. This ritual should first be performed
+without uttering the mantras but after it has been practiced, the
+names of the Lord should be chanted, ending with namah.
+
+Texts 16-17
+sakala-vapusi bijam
+pranam ayojya madhye
+nyasatu matim ahanrkaran
+manas ceti mantri
+
+ha-mukha-hydaya-guhyanghrisv
+atho sabda-piirvam
+
+guna-ganam atha karta
+“disthitam Srotra-pirvam
+
+vag adindriya-vargam atma-
+nilayesv Ghasa-piirrvarh ganam
+
+mirdhnyasye hrdaye sire '
+caranayor hyt-pundarikam hrdi
+
+bimbani dvisad asta-yug-dasa-
+hala-vyaptani sisryodu-rad
+
+vahninam ca yatas tu bhitta-
+vasum usyanty aksair mantravit
+
+The devotee should chant the dija-mantra while invoking the
+pranawithin his body. He should then perform the nydsa while
+meditating on his mind, intelligence, ego and heart. He should
+perform the nydsa along with the chanting of the sabda-bija-
+
+## Page 28
+
+14
+
+Set NARADA-PANCARATRA * THIRD RATRA
+
+mantra while touching his mouth, heart, anus and feet. He
+should then perform the nydsa, touching it to the three material
+modes, ears, head, face, heart, forehead, legs, and finally, to the
+lotus within the heart, the sun and moon, Agni, the aggregate
+of living entities, and the eight Vasus.
+
+Text 18
+atha paramesthi-pumamsau visva-
+nivrtti sarva-haty upanisadam
+nyased akasadi-sthana-sthanasoya-
+balavarthih salavah
+
+vasudevah sarkarsanah
+pradyumnds caniruddhakah
+
+narayanas ca kramasah
+paramesthy adibhir yutah
+
+By performing this nydsa, according to the proper rules and
+regulations, as described in the Upanisads, and by chanting the
+names of the demigods who are the controllers of the material
+nature, and adding the names of the Supreme Lord in His
+various expansions—such as Vasudeva, Sankarsna, Pradyumna,
+Aniruddha and Narayana—one attains perfection.
+
+Text 19
+tatah kopa-tattvam ksarau vindu-yuktam
+nysimham nyaset sarva-gatresu tajjhah
+hrameneti tattudtmako nydsa uktah
+sudsdn nikyd-visva-miirty adisu syat
+Thereafter, one should perform the Nrsimhadeva-nydsa,
+touching it to one’s entire body while chanting the mantra,
+ksaraum kopatattuaya. This is the procedure for performing the
+tattva-nydsa, The same procedure should be followed while
+performing the Visvamiirti-nyasa.
+
+## Page 29
+
+NYAsA AND MANTRAS 15
+
+Texts 20-21
+iti kyto ‘dhikyto bhavati dhruvam
+sakala-vaisnava-mantrajapadisu
+pavana-sam ya-va-la-tattvamanund caret
+tattvam iha japtum asau manucchaii
+
+athavakhilesu hi vidhi-mantra-
+japa-vidhisu mitla-mantratah
+Sarhyamanam amala-dhir maruto
+vidhindbhyasams caratu tattva-sankhyaya
+
+By properly following these rules and regulations, one becomes
+qualified to chant the Vaisnava mantras. While parcticing mystic
+yoga, one should restrain his breath and chant the tattva
+mantras. A devotee of Lord Krsna can also practice restraining
+his breath while chanting the tattva mantras, along with the
+mitla-mantras.
+
+Text 22
+purato japasya parato ‘pi
+vihitam atha tat-tritayamh budhaih
+sodasa ya iha cared dhinesah
+paripityate sa khalu mdasato hamsah
+
+Intelligent sages have chalked out three kinds of prescriptions
+to be followed before and after the chanting of a mantra. A
+devotee who follows these procedures while chanting his mantra
+sixteen times daily becomes a pure, swanlike Vaisnava.
+
+Text 23
+ayavariga-janmamamundnusu samyaman
+sakalesu krsnam anujapa-karmasu
+Ssahitaika-sapta-krti-varam abhyaset
+tanuydt samasta-duritapa-harina
+
+## Page 30
+
+Spt NARADA-PANCARATRA * THIRD RATRA
+
+By chanting the Krsna mantras after chanting the nydsa mantras
+sixty-four times, one becomes a controller of his senses so that
+his human birth becomes successful.
+
+Text 24
+astavimsati-sankhyam ista-phaladam
+mantram dasarnam japan
+ndyacchet pavanam susamyata-
+matis tv astau dasarnena cet
+
+abhyasyann avivaram anyam
+anubhir varnanuriipam japan
+
+kuryad recaka-pirvakarma-
+nipunah prana-prayogam narah
+
+If the practitioner is unable to retain his breath until he
+completes his chanting of the dasdrna-manira twenty-eight
+times, or at least eight times, if he is expert in performing the
+other above-mentioned rituals, he should employ the breathing
+process known as recaka.
+
+Text 25
+recayen marutam daksaya daksinah
+ptrayed vamaya madhya-nadya punah
+dharayed tritam recakadi-trayam syat
+kalad anta-vidyakhyam atracyukam
+
+In this practice, one should exhale through his right nostril
+and then inhale through his left nostril. While restraining his
+breath, he should chant his mantra sixteen, sixty-four or thirty-
+two times, depending upon his capacity. In this way, he will
+make advancement in the practice of the prandydma exercises
+known as recaka, puraka and kumbhaka.
+
+## Page 31
+
+NYASA AND Mantras
+
+Text 26
+pranayamam vidhayety atha nija-
+vapusa kalpayed yogapitham
+nyasyed Gdhara-sakti-prakrti-
+kamatha-ksamé-ksira-sindhin
+
+Svetadvipam ca ratnojjvala-mahita-
+mahaémandapam kalpavrksam
+hyd-dese ‘miSa-dvayor idvaya-vadana-
+
+hati-pariva-yugmesu bhityah
+
+After performing these exercises of pranayama, one should
+think of his body as the yogapitha, decorated with valuable gems
+and surrounded by the Ocean of Milk, Svetadvipa, elevated
+altars, and desire trees. He should then perform the nydsa by
+touching his shoulders, thighs, face, waist and sides.
+
+Text 27
+dharmady adharmadi ca pada-gatra-
+catustayam hydy atha Sesa-mantram
+siiryendu-vahnin pranavamsa-yuktan
+Gdy aksaraih sattva-rajas-tamamsih
+
+Thereafter, the devotee should perform the nydsa by touching
+his legs, his entire body and heart while aspiring for knowledge,
+renunciation and opulence. He should also perform the nydsa
+while meditating on the three material modes, the sun, and the
+moon.
+
+Text 28
+Gtmadi-trayam atma-bija-sahitam
+vyomagni-mayé-lavair
+jranatmanam athasta-diksu
+parito madhye ca saktir nava
+
+## Page 32
+
+18
+
+Sri NARADA-PANCARATRA * THIRD RATRA
+
+nyastua pitham anum ca tatra
+vidhivat tat-karnika-madhyagam
+nityananda-citi-prakasam
+amrtam savicintayen nama tat
+
+The devotee should next perform the nydsa while meditating
+on the eight directions and chanting the atmabija-mantra, and
+then while meditating on nine energies of the Lord. He should
+then sit down and meditate on Lord Krsna, who is the bestower
+of the most confidential transcendental knowledge.
+
+Text 29
+vimalotkarsani jnana kriya yogeti saktayah
+prabhvi satya tathesana ‘nugraé navami tatha
+
+The nine energies are Vimala, Utkarsani, Jnana, Kriya-yoga,
+Prabhvi, Satya, Isana, Anugra and Navami.
+
+Text 30
+evam hrdayam bhagavan visnuh
+Sarvanvitas ca bhittatma
+nentah savasudevah sarvatma
+yutam ca samyogam
+
+After placing this nydsa on the nine energies, one should chant
+the sublime mantra, namo bhagvate visnave sarvabhittatmane
+vasudevaya.
+
+Text 31
+yogavadhas ca padmam
+pitha ne-yuto natis cante
+pitha-mahamanur vyaktah
+paryapto ‘yam saparydsu
+Afterwards, one should chant the pitha mantra: sarvatma yoga
+
+padma pithatmane namah, for it is essential in the worship of
+the Lord.
+
+## Page 33
+
+NyYAsa AND MANTRAS 19
+
+Text 32
+karayor yugalam vidhaya mantrétmakam
+abhyanabhiramyamana-margat
+sakalam vidadhita mantra-varnath
+paramam jyotir anuttamam hares tat
+
+While folding one’s palms in a posture of reverence, one
+should chant his mantra with devotion and in this way, invoke
+the effulgent Lord Hari within his heart.
+
+Thus ends the translation of the second chapter of the Third
+Ratra of Sri Narada-paiicaratra
+
+## Page 34
+
+CHAPTER 3
+
+An Explanation of Various Nydsas and Mantras
+
+Text 1
+vyasa uvaca
+atha vaksye mahaémantram
+Srnusvdvahito mune
+yam labdhvd na punar gacchet
+Samsytim pamaro ‘pi hi
+Vyasadeva said: O sage, I shall now reveal the mahda-mantra to
+you. Kindly listen with attention. By receiving this mantra, even
+the most sinful person will no longer be forced to accept birth
+in this miserable material world.
+
+Text 2
+vaksye manum tribhuvana-
+prathitatma-bhavam
+aksina-punya-nicayair
+
+munibhir vimrgyam
+
+paksindra-ketu-visayam
+vasu-dharma-kéma-
+
+moksa-pradam sakala-
+karmani karma-daksam
+
+I am going to describe to you this most exalted mantra—
+which is sought after by great sages who possess a great stock
+of piety; which awards religiosity, economic development,
+sense gratification, and liberation; which awards all kinds of
+perfection; which awards devotional service to the Supreme
+Lord; and which imparts to the chanter knowledge of the
+science of self-realization.
+
+21
+
+## Page 35
+
+22
+
+Sr NARADA-PANCARATRA ® THIRD RATRA
+
+Text 3
+atiguhyam abodha-titla-rasi-jvalanam
+vaga dhipatyadam naranam
+duritapaharam visapamytyu-
+graha-rogadi-nivaranaika-hetum
+
+This understanding is very confidential and it removes the
+darkness of ignorance, destroys all sinful reactions, neutralizes
+the effects of poison, protects one from unnatural death, and is
+the only way to counteract the influence of evil planets.
+
+Text 4
+jayadan pradhane ‘abhayadam vipine
+salila-plavane sukha-taranadam
+nara-sapti-ratha-dvipa-vrddhi-karam
+suta-go-dharani-dhana-dhanya-karam
+
+This mantra awards one victory in battle; fearlessness while
+residing in the forest; and saves one from natural calamities,
+such as floods. The chanting of this mantra naturally increases
+one’s opulence—both material and spiritual. It awards one
+good children, cows, land, wealth, and food grains.
+
+Text 5
+bala-virya-Saurya-nicaya-pratibha-
+svara-varna-kanti-subhagatvakaram
+brahmanda-koti-manimadi-gunastakadam
+* kim atra bahunakhila-dam
+
+It also bestows upon the chanter strength, valour, heroism,
+ingenuity and bodily lustre like that which is possessed by
+the demigods. It also enables one to possess the eight mystic
+perfections. Indeed, it awards one all types of expertise in every
+field of activity.
+
+## Page 36
+
+EXPLANATION OF VARIOUS NyYASAS AND MANTRAS
+
+Texts 6-8
+Sarngi sotura-dantah paro
+ramaksiyuk dvitiyarnam
+Siili saurir balo balanuja-
+dvayam athaksara-catustayam
+
+Stira-turtyah sdnana dvrttah
+
+Syat sasumo ‘stamo ‘gni-sakhah
+tad-dayitaksara-yugmam tad
+
+uparigas tv evam uddharen mantram
+
+prakdsito dasaksaro manus
+tv ayam madhu-dvisah
+visesatah paddravinda-
+yugman bhakti-vardhanah
+
+The ten-syllable maha-mantra of Lord Madhusudana is: gopijana
+vallabhaya suaha. By’chanting this mantra, one’s devotion at the
+lotus feet of Lord Krsna increases immeasurably.
+
+Text 9
+narado ‘sya munir atra kirtitas
+chanda uktam rsibhir virad api
+devata-sakala-loka-mangalo
+nanda-gopa-tanayah samiritah
+
+Narada is the presiding sage of this mantra. The meter virat
+should be used while chanting it. The son of Nanda, Sri Krsna,
+who is the benefactor of all living entities, is the ultimate
+objective of chanting this mantra.
+
+Texts 10-11
+angani patica hutabhug dayita-sametais
+cakrair amusya mukha-vrtta-visiipapannaih
+trailokya-raksana-sujapy asurdntakakhya-
+parvena ceha kathitani vibhakti-yuktaih
+
+## Page 37
+
+24 Srt NARADA-PANCARATRA * THIRD RATRA
+
+hydaye natih Sirasi pavaka-priya
+savasat-sikha-hum iti varmani sthitam
+
+sa-phad astram ity uditam anga-paticakam
+sa-caturthi-vausad uditam drsor yadi
+
+Thereafter, one should perform the nydsa along with the
+chanting of appropriate mantras. While touching the heart,
+namah should be uttered. While touching the head, svaha
+should be chanted. While touching the sikhd, vasat should be
+said. While meditating on the kavaca, hum should be chanted.
+While meditating upon a weapon, the word phat should be
+chanted. While touching the eyes, the word vausat should be
+uttered. The five nydsa mantras to be chanted while touching
+the nydsa to the five limbs are, dcakraya sudha hrdayaya namah,
+vicakraya svaha Sirase svadhd, sucakraya sudhd sikhdyai vasat,
+trailokyaraksanarthaya svaha kavacaya hum and asurantaka cakraya
+svaha astraya phat.
+
+Text 12
+mantrarnair dasabhir
+upeta-candra-khandair
+anganam dasakam
+udiritam namo ‘ntam
+hre-chirsam tad anu
+Sikhdtanutra-mantram
+parsva-dvandva-sakati-
+prstha-miirddha-yuktam
+
+With each letter of this ten-letter mantra, one should touch the
+nydsa to the ten limbs of his body. For example—gon hrdayaya
+namah, pi Sirase namah, and so on.
+
+## Page 38
+
+EXPLANATION OF VARIOUS NYASAS AND MANTRAS
+
+Texts 13-15
+rakse mantrasyasya bijam ca Sakticakri
+Sakri vama-netra-pradiptah
+Ssa-pradyumno bijam etat-pradiptam
+mantrah pradyumno jagan mohano ‘yam
+
+hamso medo vakra-vrttabhy upetah
+potri netrady anvito ‘sau yugarna
+
+prokta Saktih sarva-gtrvana-vrndair
+vandasyagner vallabha kama-deyam
+
+viniyogasya mantrasya
+purusdrtha-catustaye
+
+krsnam prakrtir ity ukto
+durgadhisthatr-devata
+
+By combining the words cakri, sakri, vdma netra and Pradyumna,
+the word klim is formed. Then, by adding words such as
+hamsa, medah, vakravrtta, and potrinetra, along with svdhd, the
+worshipable four-syllable mantra is formed. This mantra is: klim
+hrm svaha and it fulfills all of one’s desires. This mantra also
+helps one to achieve the four objectives of human life. Durga is
+the predominating deity of this mantra and Krsna is the prakrti.
+
+Text 16
+gopayati sakalam idam gopayati
+param pumamsam iti gopt
+prakytes tasya jatar jana iti
+nadadikam prthivy antam
+
+The word gopi is used for the protection of all the universes and
+it is offered to the supreme enjoyer. The word jana has been
+used because all rivers and oceans, in this world and in heaven,
+have been manifested from the prakrti of this word.
+
+25
+
+## Page 39
+
+Srt NARADA-PANCARATRA © THIRD RATRA
+
+Text 17
+anayor gopi-janayoh
+Samirandd Gsrito vyaptya
+vallabha ity upadistam
+sandranandam niratijanam jyotih
+To indicate the expansion of the words gopi and jana, as well
+as for the sake of samirana, the word vallabha has been used. In
+this way, it indicates an intense, blissful, unlimited effulgence.
+
+Text 18
+suahety Gtmanam gamayamity
+atejase tasmai
+yah karya-karanesah paramatmety
+acyutaikatasya manoh
+
+The actual purpose of using the word svahd is to make all living
+entities surrender unto the lotus feet of Lord Krsna, who is one
+without a second, and who is the director of both cause and
+effect.
+
+Text 19
+athava gopi-jana iti samasta
+jagad avana-sakti-
+samudayas tasya Gnanyasya
+svdmi vallabha ity upadistah
+
+athava vraja-yuvatinam dayitaya
+juhomi man madiyam
+
+apity arpayet samastam brahmani
+sugane samasta-sampattyai
+
+Alternatively, the phrase gopijana refers to the energy that
+protects the universes, and vallabha refers to the beloved Lord
+of that energy. One should surrender everything to Lord Krsna
+by offering oneself at His lotus feet as an eternal servant. Lord
+
+## Page 40
+
+EXPLANATION OF VARIOUS NYASAS AND MANTRAS
+
+Krsna is the beloved Lord of the young cowherd damsels of
+Vraja.
+
+Text 20
+krs-Sabdah sattartho nas
+canandatmakas tatah
+krsno bhaktagha-karsanad api tad-
+varnatvdc ca mantramaya-vapusah
+
+The syllable krs means existence and the letter na means
+full of bliss. So the name, Krsna, destroys all of the devotees’
+sinful reactions. The name Krsna is nondifferent from Krsna
+Himself.
+
+Text 21
+goh-sabda-vacatvaj jianam
+tenopalabhyata iti govindah
+vettiti sabda-rasim
+govindo go-vicdranad api
+ete ‘bhikhye ‘nukramatas
+titrya-vibhaktya
+mantrat piiruam manmatha-
+bijad atha pascat
+syatam ced astddasa-
+varno manu-varyo
+guhyat guhyo vaichita-
+cintamanir esah
+
+The syllable goh means knowledge, or He who is realized by
+that knowledge, or He who knows the intention of the devotees
+when they address Him, or He who tends the cows. That Krsna
+is Govinda. I will now reveal the most confidential eighteen-
+syllable mantra. It is like a spiritual gem and it is most coveted by
+
+27
+
+## Page 41
+
+28
+
+Srt NARADA-PANCARATRA ® THIRD RATRA
+
+the devotees of the Lord. The mantra is: klim krsndya govindaya
+gopijana vallabhaya svaha.
+
+Text 22
+pitrva-pradiste muni-devate ‘sya
+chandas tu gayatram uSanti santah
+angani mantrarna-catuskair
+varmavasanani yugarnamas tram
+bijam Saktih prakrtih viniyogas
+capi pitrvavad amusya
+The predominating sage of this mantra is Narada and the
+objective of chanting it is Sri Krsna. The meter of this mantra
+
+is gayatri, and the four-letter anga-nydsa should be performed
+while chanting it. Bija and prakrti should be added as before.
+
+Text 23
+piirvatarasya manoratha kathayami
+nyasam akhila-siddhi-karam
+vyapayyatho hastayor masta-
+vahye parsve tan aruddham budhena
+
+nyGso varnis tara-yugmantarasthair
+binditstam-sauharda-krtyair vidheyah
+
+One should perform the nydsa, with the use of the tdra-bija, on
+‘all the parts of the body to achieve perfection while chanting
+this mantra.
+
+Text 24
+Sakhasu trini purvany adhi dasasu
+prthag-daksindngustha-pirvam
+vdma angustha vasdnam nyasatu
+visada-dhih srstir ukta karastha
+
+## Page 42
+
+EXPLANATION OF VARIOUS NYASAS AND MANTRAS
+
+anga-dvandva-pirea sthitir
+ubhayakare samhytir vama-pitrvo-
+
+daksarigusthantike tat trayam api
+Srjati sthity'upetam ca karyam
+
+Oneshould perform the srsti-nydsa, sthiti-nyasaand samhati-nydsa
+while chanting klim krsnaaya govinddya namahand counting with
+the fingers, beginning from the thumb of the right hand, up to
+the little finger of the left hand.
+
+Text 25
+tatah sthiti-kramad budho
+dasangakani vinyaset
+tad aniga-paticakam tatha
+vidhih samiritah kare
+
+In this way, an intelligent practitioner should perform all the
+required nydsas properly so as to achieve quick and definite
+results.
+
+Text 26
+putitair manunatha matrkarnair
+abhivinyasya sa-bindubhih puravat
+anu-sankrti-srsti-marga-bheda
+kySatavani ca mantra-varna-bhanji
+
+By performing the nydsa while pronouncing each vowel and
+consonant separately, divisions of the mantra varnas will be
+created, according to the procedures of the various nyasas.
+
+Text 27
+Samhytav anugato manu-varyah
+Srsti-vartmani bhavet pratiyatah
+uddhytih khaluh puroktavad esam
+nyasa-karma kathayamy adhunaham
+
+## Page 43
+
+30
+
+Spt NARADA-PARCARATRA * THIRD RATRA
+
+If one performs the systi-nydsa after the samhati-nydsa, these
+mantras will be revealed. Now, I shall describe to you the
+performance of nydsakriya,
+
+Thus ends the translation of the third chapter of the Third
+Ratra of Sri Narada-paricaratra.
+
+## Page 44
+
+CHAPTER 4
+
+A Further Explanation of the Performance
+of Various Nyasas
+
+Text 1
+uyasa uvaca
+mahi-salila-pavaka
+anilaviyanti garvo mahan
+punah prakrti-pirusau
+para imani tattvany atha
+
+padandhu-hrdaydsyakany adhi
+patica madhye dvayam
+
+trayam sakala-gam tato
+nyasatu tad-viparyasatah
+
+Vyasadeva said: The five separated material energies are earth,
+water, fire, air, and sky. Another group of five subtle energies
+are false ego, mahat, purusa, prakyti and Paramatma. One must
+perform the nydsa five times, placing it on the heart and mouth,
+and then two or three times on the entire body.
+
+Text 2
+guptatamo ‘yam nyasah samproktas
+tattva-dasaka-pariklptah
+haryo ‘nyesv api gopalam
+anu jhatiti phala-siddhyai
+To quickly achieve the desired result, one should follow these
+rituals pertaining to the nydsa and also perform the other nydsas
+that are recommanded for the gopdla-manira.
+
+Text 3
+Gkesad Gpadam dorbhyam
+dhruva-putitam anu-
+
+31
+
+## Page 45
+
+32
+
+Srt NARADA-PANCARATRA ® THIRD RATRA
+
+varam nyased vapurbhis
+capi pirvavad amusya
+
+miirddhany aksnah Srutyor
+ghrane mukha-hrdaya-
+Sira-janujathara-
+patsu tathaksarani
+One should perform the nydsa while chanting the appropriate
+
+mantra, touching it to one’s head, eyes, ears, nose, mouth,
+heart, knees, abdomen and legs.
+
+Text 4
+nyased vyakta srstih sthitir api munibhir
+abhihita hrdadi-mukhantika
+Samhdro ‘iighry adi-miirddhantas tritayam
+iti viracayatu srsti-pirvam
+anu-sthitim nyasah samharanto
+maskava-vaikhanasesu vihito yam
+
+According to the Vaikhanasa sages, sthiti-nydsa refers to the’
+nyasa of touching the various parts of the body from the chest
+
+to the mouth, or from the leg to the head, while chanting one’s
+
+mantra.
+
+Text 5
+sthity anto grhamedhisu srsty
+anto varninam iti prahuh
+vairagya-yuji grhasthe samharam
+kecid hur dcaryah
+Sthiti-nyasa is meant for householders and 'srsti-nyasa is meant
+for brahmacaris. Previous Gcaryashad arranged the samhdara-nyasa
+for householders who are detached from material enjoyment.
+
+## Page 46
+
+FuRTHER EXPLANATION OF VARIOUS NYASAS
+
+Text 6
+Ssahajanau vanavasini sthitim
+ca vidyarthinam srstim
+Strasi nihita madhya
+Sairaksi tarjanikanvitd
+Sirasi rahitanigustha jyesthanvita
+aparanisthikanesi ca
+
+Brahmacaris should utter the word vanavasini while performing
+the systi- nyasa and sthiti-nyasa. They should touch their head .
+with the palm of the hand with their thumb placed on the top
+of the head. In this way, one should perform these nydsas,
+
+Text 7
+mano ‘nuratjanam hari-
+caranabja-bhakti-vardhanam
+Sphiirtiye ‘thasya kirtyate
+mirti-panjaram
+Grti-graha-visadighnam
+kirti-sr-kanti-pustidam
+I shall now describe the murtiparijara-nyasa, which is pleasing to
+the mind, which awards devotional service to Lord Hari, which
+counteracts the influence of evil planets, which neutralizes the
+effects of poison, and which awards one power and wealth.
+
+Text 8
+kesavadi-yuga-satka-mirtibhir
+ddhah-pirvamihiranu montikan
+dvadasaksara-bhavaksarath suraih
+kltva-varna-rahitais ca kraman nyaset
+
+One should perform this nydsa, placing it on the twelve murtis,
+beginning with Kesava, while chanting the mantra that begins
+
+33
+
+## Page 47
+
+34 Srt NARADA-PANCARATRA * THIRD RATRA
+
+with the surya-bija. One should also chant the bija, klam, while
+performing this nydsa in relation to Lord Krsna.
+
+Text 9
+bhalodara-hrd-gabha-tipa-tale
+vdme tava-parsva-bhujanta-gale
+vama-traya-prstha-kakutsu tatha
+mitrdhany anu sat-ghagavantu manum
+
+caitanyamrta-vapur ka-koti-teja
+mitrddhvisthau vapur akhilam sa vdsudevah
+
+With each letter of the twelve-letter mantra, one should perform
+the nydsa, touching it to the forehead, abdomen, chest, lower
+part of the body, left side, fingers, throat, back, and head.
+Then, one should meditate on Vasudeva—who is supremely
+cognizant, full of ecstasy, as effulgent as millions of suns, and
+all-pervading—while knowing Him to be situated on one’s
+head.
+
+Text 10
+adhasya vimala-pathasiva siktam
+vydpnoti prakatita-mantra-varna-kilam
+Srsti-sthiti dasa-pancanga-yugmam
+nydsadi-tritaya kasya-hytsit
+
+One should consider that his entire body is being submerged
+in the crystal-clear ocean of mantras. Then, he should perform
+the nydsa three times, touching it to the mouth and chest. He
+should then repeat the srsti- nydsa and sthiti-nydsa. He should
+also perform the dasdriga-nydsa and pancanga-nydsa—twice
+each.
+
+Text 11
+vinyasya-tu grathayitud tu mudram
+bhityo disam dasakam bandhaniyam
+
+## Page 48
+
+FuRTHER EXPLANATION OF VaRious NyAsas
+
+taram hardam visva-mirtis ca sarigi
+masantam te vayumadhye sudevah
+
+sad-dvandvarno mantra-varyah sa uktah
+sdksad daram moksa-purya agamyam
+
+With the prescribed posture and mudrd, one should once again
+purify the ten directions. The foremost of twelve-syllable mantras
+is: or namo bhagavate vdsudevaya. It is just like the gateway to
+liberation.
+
+Text 12
+dhatraryama-mitrakhya varundm
+Subhaga vivasvadi-indra-yutah
+puiisahvaya-parjanyo tvasta
+visnus ca bhdnavah proktah
+
+Dhata, Aryama, Mitra, Varuna, Arnsuman, Vivasvan, Indra, Pasa,
+Ahvaya, Parjanya and Visnu are addressed as Bhanu.
+
+Text 13
+atha tu yuga-randhrarnasya
+manor nyasanam bruve
+racayatu kara-dvandve
+‘anguli-pancakesv anga paicakam
+
+tan mantra mandham vyapayyatha
+trisah pranavam sakrn
+
+manujalipayo nyasya bhityah
+padani ca sadaram
+
+The process of performing the nydsa for this twelve-syllable
+mantra is as follows: while placing it on the five fingers of each
+hand and on the five bodily limbs, one should perform the
+nyasa three times, preceding each syllable of the mantra with
+om. Finally, one should again perform the nydsa, placing it on
+the legs.
+
+35
+
+## Page 49
+
+36 Sri NARADA-PANCARATRA * THIRD RATRA
+
+Text 14
+kaca-bhuvi lalata bhrii-
+yugmantara sravanaksinor
+yugala-vadana-grivéhrn-
+nabhi-katy ubhayanghrisu
+
+nyasatu sitadhirjanv anghryor
+aksarani Sirasi dhruvam
+
+nayana-mukha-hrd-guhyanghrisu
+arpayet pada-paticakam
+
+Thereafter, a pure-hearted devotee of Lord Krsna should
+meditate on the head, forehead, the space between the
+eyebrows, ears, eyes, face, shoulders, chest, navel, waist and
+both legs. He should once again perform the pancdriga-nyasa,
+placing it on the eyes, mouth, chest, anus and legs.
+
+Text 15
+paticangani nyasodbhityo
+muny Gdin asy anyat sarvam
+tulyam pitrvenatho vaksye mudra
+badhyad manvor yah syuh
+
+The practitioner should perform the nydsa, placing it on the
+predominating sage of the mantra, as described previously. I
+shall now explain how the various mudras are formed.
+
+Text 16
+anatigustha rjavo daksa hasta-sakha
+bhaven mudra hrdaye sirsake ca
+adho ‘iigustha khalu mustih sikhayam
+kara-dvandvangulayo varmani syuh
+
+One should perform the mudra on his head and chest, spreading
+
+over them all of the fingers of his right hand, except the thumb.
+On the sikha, one should place his clenched fist, and on the
+
+## Page 50
+
+FuRTHER EXPLANATION OF VARIOUS NYASAS 37
+
+kavaca, he should perform the mudrd by touching it with the
+fingers of both hands.
+
+Text 17
+naraca-musty uddhyta-bahu-yugmam
+vyangustha-tarjany udito dhvanis tu
+visvag-visakta kathitastra-mudra
+yatraksini tarjani-madhyame tu
+
+If the clenched fists are raised with the first fingers pointing
+upwards, keeping the thumb within the fist, it is called the
+dhvani-mudra. If the first finger and the middle finger are waved
+above the eyes, it is called the astra-mudra.
+
+Text 18
+osthe vama-karangustho
+lagnas tasya kanisthika
+daksinangustha-samyukta
+tat-kanistha prasarita
+
+tarjani-madhyama ‘ndmah
+kincit savikucya calitah
+
+venu-mudreha kathita
+Suguplta preyasi hareh
+
+When one joins the thumb and little finger of both hands and
+holds them to his lips while slightly bending the other three
+fingers of both hands, it is called the venu-mudrd, which is most
+confidential and very dear to Lord Krsna.
+
+Text 19
+nocyante ‘tra prasiddhatvan
+mala-sri-vatsa-kaustubhah
+ucjate ‘cyuta-mudranam
+bhadra bilva-phalakrtih
+
+## Page 51
+
+Srt NARADA-PANCARATRA * THIRD RATRA
+
+Because the mudrds for the mark of Srivatsa and the Kaustubha
+gem are very well known, I will not describe them here. I shall
+next explain the bhadra-mudra, which resembles a bilva fruit.
+
+Text 20
+angustham vamam uddanditam itara-
+karangusthakenatha baddhva
+tasyagram pidayitvangulibhir
+api ca tam vama-hastangulibhih
+baddhva gadham hydi sthapayatu
+bimala-dhir vyaharen mara-bijam
+bilvakhya mudrikaisd sphutam iha
+kathita gopaniya vidhijnaih
+
+When the thumbs of both hands are attached and raised
+upwards, and the other fingers are cleanched as fists and placed
+on one’s chest, it is called the bilva-mudra. By this mudrd, one
+should invoke the kama-bija mantra.
+
+Text 21
+mano-vani-dehair yad iha
+ca divé-ratra-vihitam
+amatyé matyd vd tad akhilam
+asau duskrta-cayam
+imam mudram janan ksapayati
+naras tam suragana
+namanty asyadhind bhavati
+Satatam sarva-janata
+
+The best means for nullifying all sinful reactions and
+contamination from one’s life is to practice these procedures,
+throughout the day and night, with one’s body, mind and
+speech. This will enable one to defeat all kinds of opposition
+created by the demigods, as well as human beings.
+
+## Page 52
+
+FURTHER EXPLANATION OF VARIOUS NYASAS
+
+Text 22
+pranava-hydor avasane ca caturthi-
+sudarsanam tathastra-padam
+uktva phad antamamunda grathayen
+
+manum astra-mudraya haritah
+
+Beginning with the pranava, om, the word sudarsana should be
+ended in the fourth dative case and the words phat and hrdaye
+added to form the mantra: om hydaye sudarsanaya phat. This
+mantra is to be chanted along with the astra-mudra, for it will
+help one achieve pure devotional service to Lord Hari.
+
+Text 23
+iti vidhaya samasta-jagaj-
+jani-sthiti-vinasa-vidhana-visdradam
+Sruti-vidhana-karam manu-vigraham
+Ssmaratu gopa-vadhit-jana-ballabham
+
+In this way, the devotee should meditate on Lord Krsna, who
+is the goal of these mantras; the lover of the damsels of Vraja;
+and the ultimate supervisor of the creation, maintenance and
+destruction of the universe.
+
+Thus ends the translation of the fourth chapter of the Third
+Ratra of Sri Narada-pancaratra.
+
+39
+
+## Page 53
+
+CHAPTER 5
+
+Meditation Upon Lord Krsna In His
+Transcendental abode, Vrndavana
+
+Text 1
+Sri-vydsa uvdca
+atha prakata-saurabhotkalita-
+phulla-madhvika-sat-
+prastina-nava-pallava-prakara-
+namra-sakhair drumaih
+
+praphulla-nava-manjari-
+lalita-vallari-vestitaih
+
+Smarec chisiritam sivam
+ksitu-matis tu vrndavanam
+
+Vyasadeva said: A pure-hearted devotee should meditate on the
+auspicious abode of Vrndavana. The branches of the trees in
+Vrndavana bend to the ground because of being over-burdened
+by abundant fruit, fragrant flowers, and newly-grown twigs and
+leaves. The creepers in Vrndavana appear most beautiful, as if
+embracing the trees in ecstasy.
+
+Text 2
+vikdsi-sumano-rasdsvadana-
+manjulaih saticarac-
+chili-mukha mukhod-gatair
+mukharitantaram jhankytaih
+kapota-suka-sarika-
+parabhrtadibhih patribhir
+virdjitam itas tato
+bhujaga-Satru-nytyakulam
+
+41
+
+## Page 54
+
+42
+
+Sri NARADA-PANCGARATRA ® THIRD RATRA
+
+The land of Vrndavana is permeated by the sound of bumblebees
+that move from one flower to another, drinking honey. The
+land of Vrndavana is decorated with many varieties of beautiful
+birds, including doves, parrots and cuckoos, and it looks most
+enchanting because of the dancing of innumerable peacocks.
+
+Text 3
+kalinda-duhitus calal-lahani-
+viprusam vahibhir
+vinidra-sarasi-ruhodara-
+rajas cayot-pifijaraih
+
+pradipita-manobhava-
+vraja-vilasini-vdsasam
+
+vilolan aparair nisevitam
+andratam marutaih
+
+The water of the ever-flowing Yamuna enhances the enthusiasm
+of all the residents of Vrndavana, although it disturbs the
+pollen that has accumulated within the lotus flowers that stand
+in her water. The river Yamuna is constantly being served by
+the breeze that scatters the garments of the gopis.
+
+Text 4
+pravala-nava-pallavam
+marakata-cchada vajra-mau-
+htika-prasava-korakam
+kamala-raga-nand-phalam
+
+sthavistham akhila-turbhih
+satata-sevitam kamadam
+
+tad antar api kalpakanghri
+pamudancitam cintayet
+
+One should meditate on the desire trees of Vrndavana. These
+trees have newly grown twigs that appear like coral. Their leaves
+
+## Page 55
+
+MEDITATION Upon Lorp Krsna IN VRNDAVANA
+
+are the color of emeralds and thier buds appear like pearls.
+They are filled with varieties of fruit that are smeared with
+pollen. They are large, they render service in all the seasons,
+and they bestow all kinds of benedictions.
+
+Text 5
+sahema-sikhard-vaner
+udita-bhanuvad-bhasvara
+madho ‘sya kanaka-sthalim
+amrta-Sikaram varinah
+
+pradipta-mani-kuttimam
+kusumama renu-punjojjvalam
+
+Smaret punar atandrito
+vigata-sat-tanango budhah
+
+An intelligent devotee should meditate with enthusiasm and
+self-control on the glittering gold mine that is situated in that
+wonderful land. It is filled with spiritual gems. There are hills
+with golden peaks and a mine of pearls that is decorated with
+pollen.
+
+Text 6
+tad-ratna-kuttima-
+nivista-mahistha-yoga-
+pithe ‘sta-patram arunam
+kamalami vicintya
+
+udyad-virocana-saro
+ciramusya madhye
+
+Saticintayet sukha-nivistam
+atho mukundam
+
+Next, one should meditate on a red lotus flower having eight
+petals that is located at the yogapitha, which is situated within
+
+43
+
+## Page 56
+
+44 Srt NARADA-PANCARATRA * THIRD RATRA
+
+an area that is filled with various mines. One should meditate
+on Lord Krsna, the giver of liberation, who is present within
+that lotus flower at the yogapitha.
+
+Text 7
+saddama-ratna-dalitafijana-
+megha-purija-
+pratyagra-nilajalajanma-
+samdna-bhasam
+susnigdha-nila-ghana-
+huficita-kesa-jalam
+rajan-manojna-sitikantha-
+Sikhanda-cidam
+
+The color of Krsna’s curly hair is dark blue, like a host of dark
+clouds decorated with precious gems. The Lord’s hair increases
+the beauty of His head, as do the enchanting peacock feathers
+that decorate it.
+
+Text 8
+rolamba-lalita-sura-druma-stina-kiptottamsam
+Samutkaca-navotpala-harna-pitram
+lolalaka-sphurita-bhala-tala-pradiptam
+goracana tilakam ujjvala-citra-malam
+
+His two earrings, which are made from flowers of the desire
+tree, which swing to and fro, and which are decorated with lotus
+buds, look indescribably charming. His forehead is decorated
+with marks of tilaka mixed with gorocana and He wears a
+garland of forest flowers.
+
+Text 9
+apirna-sarada-gatanka-sasanka-bimba-
+kantananam kamala-patra-visala-netram
+
+## Page 57
+
+MepiTATION Upon Lorp Krsna IN VRNDAVANA 45
+
+ratna-sphurat-kanaka-kundala-rasmi-dipta-
+ganda-sthali-mukuram unnata-caru-ndsam
+
+His eyes resemble the full moon in the autumn season. They
+are as broad as lotus leaves. His cheeks and beautiful raised
+nose shine brightly because of the effulgence emanating from
+His jeweled gold earrings.
+
+Text 10
+sindtira-sundarataradharam indu-kunda-
+mandara-manda-hasita-dyuti-dipitasam
+vanya-pravala-kusuma-pracayavak|pta-
+graiveyakojjvala-manohara-kambu-kantham
+
+The moonlike face of Lord Krsna is more beautiful than
+kunkum and His enchanting smile defeats the beauty of fully
+blossomed kunda and mandara flowers. His necklaces and other
+omaments made of forest flowers have further enhanced His
+transcendental lovliness.
+
+Text 11
+matta-bhramad-bhramara-justa-vilambamana-
+santanaka-prasava-dama-pariskrtamsam
+harabalibhagana-rajita-pivaroro-
+vyoma-sthali-lalita-kaustubha-bhanumantam
+
+His garland of flowers from the desire trees, which is served by
+intoxicated bumblebees, is simply wonderful. A necklace of sun
+stones, as well as the Kaustubha gem, enhances the beauty of
+His broad chest.
+
+Text 12
+Srivatsa-laksana-sulaksitam unnatamsam
+Gjanu-pina-parivrtta-sujata-bahum
+avandhurodaram udara-gabhira-nabhi
+bhynganganani-kara-manjula-roma-rajim
+
+## Page 58
+
+46
+
+Sri NARADA-PANCARATRA * THIRD RATRA
+
+Krsna’s two arms are very strongly built and endowed with
+auspicious markings. They stretch to His knees. His abdomen
+is slightly uneven. His navel is very deep and it is decorated
+with hair that is as black as bumblebees.
+
+Text 13
+ndandé-mani-praghatitangada-kankanormi-
+graiveya-sara-kala-niipura-tunda-bandham
+duydnga-raga-paripinjaritanga-yastim
+Gpita-vastra-paridhita-nitamba-bimbam
+His entire body appears most attractive because of His jeweled
+armlets, bracelets and other ornaments, and because of His
+colorful markings. His hips appear most enchanting, encircled
+by His yellow garments.
+
+Text 14
+cariiru-janum anuvrtta-manojiajangha-
+kantonnata-prapada-nindita-kiirma-kantim
+manikya-darpana-lasan-nakha-raji-rajad-
+raktanguli-cchadana-sundara-pada-padmam
+
+His thighs are supremely charming. His knees are round. His
+reddish toes shine brightly. They reflect in mirrors that are
+decorated with diamonds and thus appear exquisitely beautiful.
+Indeed, His lotus feet are indescridably attractive.
+
+Text 15
+matsyanka-Saridava-ketu-yavabja-vajra-
+samlaksitaruna-taranghri-talabhiramam
+lavanya-sara-samudaya-vinirmitanga-
+saundarya-nirjita-mano-bhava-deha-kantim
+His lotus feet are decorated with auspicious markings, such as
+
+a fish, anchor, flag, thunderbolt and lotus. It seems that the
+creator must have collected the essence of all beautiful objects
+
+## Page 59
+
+MepitTaTion Upon LorD Krsna IN VRNDAVANA
+
+and invested it in the creation of Krsna’s body. Because of this,
+even the beauty of Cupid has been defeated by the sight of His
+body.
+
+Text 16
+asyaravinda-paripirita-venu-randhra-
+lolat-karanguli-samirita-divya-ragaih
+Sasvad-dravi-krta-vikrsta-samasta-jantu-
+santana-santatim ananta-sukhambu-rasim
+
+He has placed His enchanting flute to His lotus-like mouth and
+is playing it very sweetly while moving His reddish fingertips.
+As a result, the hearts of all living entities are being melted
+and merged into an ocean of unlimited transcendental ecstasy.
+Who would not be enchanted by the sound of Krsna’s flute?
+
+Text 17
+gobhir mukhémbuja-vilina-vilocanabhir
+tidhobhara-skhalita-manthara-manda-gabhih
+dantaya-dasta-parisista-trnankurabhir
+Glambi-valadhi-latabhir athabhivitam
+
+The cows walk slowly because their eyes are fixed on the lotus-
+like face of Krsna, as well as because of the burden of their full
+udders. Many cows have become motionless while holding a
+morsel of grass in their mouths because of the sound of Krsna’s
+flute.
+
+Text 18
+Sa-prasrava-stana-vivarsana-piirga-nirma-
+lasya-vata-ksarita-phenila-dugdha-mugdhaih
+venu-pravartita-manohara-manda-giti-
+dattocca-karna-yugalair api nartakais ca
+
+The cows stand still at the time of milking, when they shower
+an incessant stream of foamy milk. While delivering milk, they
+
+47
+
+## Page 60
+
+48
+
+SRI NARADA-PANCARATRA ® THIRD RATRA
+
+engage their ears in hearing the enchating songs emanating
+from Krsna’s flute.
+
+Text19
+pratyagra-Sriga-yuga-mastaka-samprahdra-
+samrambha-vatkhala-vilola-khuragra-pataih
+amedurair bahala-sasna-galair udagra-
+pucchais ca vatsatara-vatsatari-nikayaih
+
+Some of the cows are preparing to gore one another with their
+sharp horns, in a challanging mood, while kicking the air with
+their hooves. Some of them are licking the throats and bodies
+of their calves, while raising their tails.
+
+Text 20
+hurikara-viksubhita-digvalayair mahadbhir
+apy uksabhih prthu-kakudbhara-bhara-khinnaih
+uttambhita-sruti-puti-paripita-vamsa-
+dhvandmrtoddhrta-vikasi-visala-ghonaih
+
+Huge bulls have frightened everyone by bellowing loudly.
+They have become afflicted by the burden of the hump on
+their shoulders. After hearing the nectarean sound of Krsna’s
+flute, however, they are now standing with their ears raised in
+anticipation.
+
+Text 21
+gopaih samana-guna-sila-vayo-vilasa-
+vesais ca mircchita-kala-svara-venu-vinaih
+mandrocca-tala-patu-gana-parair bilola-
+dor-ballari-lalita-lasya-vidhana-daksaih
+All the cowherd boys of Vraja are of the same age, qualities,
+
+nature, sporting activities and mode of dressing. While hearing
+the sweet sound of Krsna’s flute, they have become very excited
+
+## Page 61
+
+MEDITATION Upon Lorp Krsna IN VRNDAVANA
+
+and are displaying extraordinary skill in the art of dramatic
+performance by means of their hands and faces.
+
+Text 22
+jatighanta-pivara-katira-tafi-nibaddha-
+vydlola-kirikini-ghatabalitair atadbhih
+mugdhais taraksu-nakha-kalpita-karna-bhisair
+avyakta-matiju-vacanaih prthukaih paritam
+
+They have tied small bells around their thighs and have put
+on earrings made with tiger’s nails. They make indistinct yet
+enchanting sounds as they roam in the forest, surrounded by
+their calves.
+
+Text 23
+atha sulalita-gopa-sundarinam
+suprthu-visista-nitamba-mantharanam
+guru-kuca- bhanguravalagna-
+trivalijrmbhita-roma-raji-bhajam
+The beautiful damsels of Vraja walk slowly because of their
+large buttocks. They bend a little forward because of the heavy
+burden of their large breasts. Three lines mark their necks.
+These descriptions add to the enchantment when one meditates
+on Vrndavana. '
+
+Text 24
+tad atimadhura-caru-venu-vadyamrta-rasa-
+pallavitangajanghri-panam
+mukula-visara-ramya-caru-romod-gama-
+samalankyta-gatra-vallarinam
+
+While hearing the sweet sound of Krsna’s flute, the twigs of the
+trees in Vrndavana become filled with nectarean juice and the
+creepers manifest thorns that resemble ornaments, making it
+appear as if they are exhibiting symptoms of ecstatic love.
+
+49
+
+## Page 62
+
+Sri NARADA-PANCARATRA ® THIRD RATRA
+
+Text 25
+tad atirucira-manda-hasa-candratapa-
+parijrmbhita-raga-variraseh
+taralatara-taraniga-ramya-viprut-prakara-
+sama-bhrama-bindu-santatanam
+
+When the shadow of the clouds, which act like a canopy, fall
+on the crystal-clear water, the vision of the waves creates an
+unprecedented beauty.
+
+Text 26
+tad atilalita-manda-cilli-cépa
+cyuta-nisiteksana-mara-vana-vrddhya
+dalita-sakala-marma-vihvalanga-
+pravisyta-duhsaha-vepatha-vyathanam
+
+Krsna’s eyes and eyebrows, which resemble a wonderful bow,
+release the arrows of Cupid. It appears that His eyes are trying
+to pacify everyone’s pangs caused by the three-fold miseries of
+material existence.
+
+Text 27
+tad atisubhagakamra-riipa-sobha
+‘myta-rasapana-vidhana-lélasinam
+pranaya-salila-piira-vahininémalasa-
+vilola-vilocandmbujanam
+The lotus-like eyes of the gopis, who have an intense desire to
+drink the necratean mellows of Sri Krsna’s exquisite beauty, are
+quickening the flow of the waves of conjugal pastimes.
+
+Text 28
+visramsat-kavari-kalapa-
+vigatotphulla-prastina-sravan-
+madhvi-lampata-caricarika-
+ghatayd samsevitanam muhuh
+
+## Page 63
+
+MEDITATION Upon Lorp Krsna IN VRNDAVANA
+
+maronmada-mada-skhalan-mrdu-
+giram Glola-katicy ucchvasan-
+
+nivi-viSlathamana-cina-
+sicayantavir nitamba-tvisam
+
+Their hair has become scattered and the flowers that had
+decorated their hair have fallen to the ground. The sweet
+aroma of these flowers is making the gopis’ minds intoxicated.
+They have been pierced by the arrows of Cupid and so they
+are speaking like madwomen. Because their waistbands have
+become loose, their buttocks are partially exposed.
+
+Text 29
+skhalita-lalita-padambhoja-mandabhighata-
+kvanita-mani-tulakoty akulasa-mukhanam
+calad adhara-kulanam kutmalotpaksmalaksi-
+dvaya-sarasi-ruhanam ullasat-kundalanam
+
+Because they are walking as if in a drunken state, their jeweled
+ornaments make a wonderful sound that helps them to express
+dramatic movements with their hands and legs. Sometimes,
+their lips begin to tremble, their blue lotus-like eyes become
+overwhelmed with emotion, and their earrrings begin to
+tremble.
+
+Text 30
+draghistha-svasana-samiranabhi-tapa-
+pramlani-bhavad arunoc ca-pallavanam
+ndanosayana-vilasat-karambujanam
+Glibhih satata-nisevitam samantat
+
+Because of the hot air coming from the gopis’ deep breathing,
+the tender twigs of the trees are drying up. Sri Krsna is
+constantly served by the lotus hands of the gopis, who always
+present various gifts to their beloved Lord.
+
+51
+
+## Page 64
+
+52
+
+Srt NARADA-PANCARATRA * THIRD RATRA
+
+Text 31
+tasam dyata-lola-nila-
+nayana-vyakosa-nilambuja-
+sragbhih samparipiritakhila-tanit
+nand-vilnodasya-padam
+
+tan mugdhdnana-pankaja
+pravigalan-madhvi-rasdsvadinim
+
+bibhranam pranamonmadaksi-
+madhukrn-malam manoharinim
+
+The gopis have made large garlands of blue lotus flowers in the
+form of their blue eyes and thus have decorated Krsna’s entire
+body. It is certainly a most pleasant sight. The nectarean words
+emanating from the lotus-like mouths of the damsels of Vraja—
+who are overwhelmed by ecstatic love—are very charming.
+
+Text 32
+gopi-gopa-pasiinam bahih
+Smared agrato ‘sya girvana-ghatam
+vittarthinim virinci-trinayana-
+Satamanyu-pitrvikam stotra-param
+Next, one should meditate on the cowherd men, women and
+animals of Vraja, who are always lavishly glorified by great
+personalities, such as Brahma, Siva and Indra. One should
+also meditate on the statements made by these exalted
+personalities.
+
+Text 33
+tad-daksinato muni-jana-nikara
+vasu-dharman adaya-param
+yogindran atha prsthe mumuksu-
+malan samadhind sanakadyan
+
+## Page 65
+
+MepITATION Upon Lorp Krsna IN VRNDAVANA
+
+Thereafter, one should meditate on the place where the sages,
+the Vasus, Dharma, and foremost of yogis are situated. One
+should also meditate on the yogapitha, where the great sages
+who desire liberation are sitting in samadhi.
+
+Text 34
+savye sakdntan atha siddha-yaksa-
+gandharva-vidyadhara-caranams ca
+sakinnaran apsarasas ca mukhyan
+hamarthino nartana-gita-vadyaih
+
+One should meditate on the Siddhas, Yaksas, Gandharvas,
+Vidyadharas and their wives, as well as prominent Kinnaras
+and Apsaras, who are all accomplished in the arts of dancing,
+singing and playing musical instruments.
+
+Texts 35-36
+Sankhendu-kunda-dhavalam sakalagamajian
+saudamino-tati-pisanga-jata-kalapam
+tat-pada-parikaja-gatam acalam ca bhaktim
+vanchantam ujjhitatardnya-samasta-sangam
+
+ndan4a-vidha-Sruti-gananvita-sapta-raga-
+grama-trayi-gata-manohara-mircchanabhih
+
+samprinayantam uditabhir amum mahatya
+Saficintayen nabhasi dhaty-sutamh munindram
+
+One should then meditate on the best of sages, the foremost
+of whom is the son of Dhatr, Narada Muni—whose complexion
+is white like a conch shell, the moon, or a kunda flower; who
+is well versed in all Vedic literature; who has matted hair that
+resembles lightning; who desires unalloyed devotional service
+at the lotus feet of Lord Krsna; who is free from all kinds of bad
+association; and who is always satisfying Lord Hari by chanting
+
+53
+
+## Page 66
+
+54
+
+Srt NARADA-PANCARATRA ® THIRD RATRA
+His glories while accompanying himself with his stringed
+instrument. :
+
+Thus ends the translation of the fifth chapter of the Third Ratra
+of Sri Narada-paticaratra.
+
+## Page 67
+
+CHAPTER 6
+
+The Process of Worshiping Lord Krsna Whereby
+one Can attain Samipya-Mukti, the Liberation of
+Becoming an Eternal associate of the Lord
+
+Text 1
+vydsa uvaca
+iti dhyatoa ‘tmanam patu-visada-
+dhir nanda-tanayam
+puro buddhyaivarghya-
+prabhrtibhir anantopahytibhih
+
+yajed bhityo bhaktya sua-vapust
+bahisthais ca vibhavair
+
+vidhanam tad briimo vayam
+atula-sannidhyadam atha
+
+Vyasadeva said: In this way, a pure-hearted practitioner of
+devotional service should meditate on the Supersoul, $ri Krsna,
+while offering various articles, such as arghya, with faith and
+devotion. One should then worship Lord Krsna, who is present
+within his heart. Now, I shall describe the process of worship by
+which one achieves sdémipya-mukti.
+
+Text 2
+Gracayya bhuvi gomayambhasa
+sthandilam nija samudra vistaram
+nyasya tatra vihitaspado ‘mbhasa
+Sankha-mantra-manuna visodhayet
+
+One should build a raised platform and smear it with cowdung.
+One should then further purify that place by chanting the
+Sankha-mantra while spreading kusa grass all around.
+
+55
+
+## Page 68
+
+Sxt NARADA-PANCARATRA ® THIRD RATRA
+
+Text 3
+tatra gandha-sumano ‘ksatany atho
+nihkseped dhydaya-mantram uccaran
+pitrayed vimala-pathasa sudhir
+aksaraih pratigataih Siro ‘ntakaih
+
+An intelligent devotee should put sandalwood paste and a
+few grains of rice that have been dried in the sun in a bowl of
+pure water and then sprinkle that water all over his body while
+chanting the hrdaya-manira.
+
+Text 4
+pitha-Sarikha-salilesu mantra
+vitvahni-vasara-nisa-krtam kramat
+mandalani casaka-sravoksarair
+arcayed vadana-piirva-dipitaih
+
+A person who is learned in that art of chanting mantras should
+then invoke the demigods, such as Agni, Indra and Candra by
+worshiping them with water kept within a conch shell.
+
+Text 5
+tatra tirtham anunabhir ahvayet
+tirtham usna-ruci-mandalat tatah
+sviya-hyt-kamalato harim tatha
+galinim ca sikhaya pradarsayet
+
+Thereafter, one should display the galiné-mudra on his chest and
+sikha while invoking all of the holy rivers by means of chanting
+mantras.
+
+Text 6
+taj-jalam nayana-mantra-viksitam
+varmana samavagunthya dor yuja
+mitla-mantra-sakalikrtam nyased
+angakais ca kalayed digo ‘stratah
+
+## Page 69
+
+Worsuipinc Lorp Krsna FOR ATTAINING SAMIPYA-MUKTI,
+
+One should gaze at a pot of water while chanting the nayana-
+mantra, cover it with both hands and perform the aviga-nydsa
+after invoking the Lord while chanting the mila-mantra. Then,
+he should protect himself in the ten directions by chanting the
+astra-mantra.
+
+Text 7
+aksatadi-yutam acyutikrtam sasprham
+japatu mantram astasah
+kincana ksipatu vardhanijale
+proksayen nija-tanum tato ‘muna
+
+Next, one should devotedly chant eight times the mantra that
+has already been purified, mix rice that has been dried in the
+sun in water and then sprinkle that water on his body.
+
+Text 8
+trih-karena manund khilam tatha
+sddhanam kusuma-candanddikam
+Sarikha-piirana-vidhih samirito
+gupta esa yajandgranir tha
+
+Before the commencement of one’s worship, one should
+establish the conch shell by filling it with water, sandalwood
+paste and flowers, while chanting the following confidential
+mantra:
+
+Text 9
+garige ca yamune caiva
+goddvari sarasvati
+narmade sindhu-kaveri jale
+‘smin sannidhim kuru
+
+O Ganga, O Yamuna, O Godavari, O Saraswati, O Narmada, O
+Sindhu, O Kaveri—please make your appearance within this
+water.
+
+57
+
+## Page 70
+
+Srt NARADA-PANCARATRA © THIRD RATRA
+
+Text 10
+esa tirtham anuh-prokto
+duritaugha-vindsanah
+kanisthangusthakau saktau
+karayor itaretaram
+
+One should chant this mantra while folding his hands so that
+the thumbs and little fingers of both hands touch each other.
+
+Text 11
+tarjani-madhyama ‘namah
+samhata “bhugna-varjitah
+mudraisa galini prokta
+Sankhasyopari calita
+By keeping the ring finger, middle finger and first finger
+together and straight, one forms the galini-mudra. One should
+display this mudré over the conch shell.
+
+Text 12
+atha mitrdhani miila-cakra-madhye
+nija-natham gana-nayakam samarcyarh
+nyasana-krama-tanuh pitha-mantrair
+jala-gandhaksata- dhiipa-puspa- dipaih
+
+Thereafter, one should worship Sri Krsna as being situated on
+his head and Ganapati as situated on the miila-cakra. Then,
+he should perform the nydsa while chanting the pitha-manta
+and offer various items, such as water, sandalwood paste, rice,
+incense, flowers, and a ghee lamp.
+
+Text 13
+prayajed atha mitla-mantra-tejo
+nija-miile hrdaye bhruvos ca madhye
+tritayam smarata smaret tad eki-krtam
+Gnanda-ghanam tadil-latabham
+
+## Page 71
+
+WorsuiPinc Lorp Krsna FoR ATTAINING SAMIPYA-MUKTI,
+
+Next, one should worship the effulgent Personality of Godhead
+by chanting the miila-mantra, while touching his head, heart
+and the space between his eyebrows. One should then meditate
+on that most blissful personality, Sri Krsna, who is as effulgent
+as lightning.
+
+Text 14
+tat-te yajniath savayavi-kytya vibhiity ady
+ankantam vinyasya yajed asana-pirvath
+bhiisantair bhityo jala-gandhadibhir arcam
+huryad bhity ady anga-vidhanavadhi mantri
+
+After placing all of the required articles, such as an dsana, in their
+respective places and purifying them by chanting appropriate
+mantras, one should worship the ingredients of worship such as
+water, sandalwood paste, ornaments, dress and bed.
+
+Text 15
+bhityo venum vadanastham
+vaksodese vanamalam
+vaksojordhvam prayajec ca
+Sri-vatsam kaustubha-ratnam
+
+One should separately worship the Lord’s flute placed upon
+His lips, the flower garland on His chest, as well as the mark of
+Srivatsa and the Kaustubha gem.
+
+Text 16
+Sti-khanda-nisyanda-vicarcitango
+milena bhaladisu citrakani
+likhyad atho patijara-mitrti-mantrair
+anamayo dipa-sikhakrtini
+One should apply sandalwood paste to the Lord’s body while
+
+chanting the miila-mantra and then mark His forehead with
+drawings while chanting the pazjara-murti-mantra. To become
+
+59
+
+## Page 72
+
+Sri NARADA-PANCARATRA ® THIRD RATRA
+
+cured of a disease, an intelligent devotee should meditate on
+Lord Narayana’s bija-mantra, which resembles the flame of a
+ghee lamp.
+
+Text 17
+puspanjalim vitanuydd atha panca-krtvo
+mitlena pada-yugale tulasi-dvayena
+madhye harari-yugalena ca mitrdhnim padma-
+dvandvena sadbhir api sarva-tanau ca sarvaih
+
+After completing this, one should offer two tulast leaves at the
+lotus feet of the Lord while chanting the mila-mantra five times.
+One should offer flowers to the Lord’s head, lotus feet and
+entire body while chanting the mula-mantra six times.
+
+Text 18
+Svetani daksa-bhage ‘pi tac-
+candana-pankilani kusumani
+raktani vdma-bhage ‘runa-
+candana-patikha-siktani
+
+One should next offer white flowers mixed with sandalwood
+paste to the right side of the Lord and red flowers mixed with
+sandalwood paste to the left side of the Lord.
+
+Text 19
+tadvac ca dhitpa-dipau samarpya
+dhinayat sudharasaih krsnam
+mukha-vasddyam dattua
+Samarcayed-gandha-puspadyaih
+
+In this way, one should worship Sri Krsna with utmost humility
+by offering Him incense, a ghee lamp, sandalwood paste,
+flowers and other paraphernalia. One should also offer to the
+Lord a mouth freshener.
+
+## Page 73
+
+WorsuiPinc Lorp Krsna For ATTAINING SAMIPYA-MuKTI,
+
+Text 20
+tambiile-nartana-gita-vadyaih
+Santosya ciirnaka-sdlalena
+brahmarpanakhya-manuné
+kuryat svdtmarpanam mantri
+
+A devotee who is expert in the science of chanting mantras
+should offer the Lord betel nuts after offering palatable food.
+One should satisfy the Lord by singing His glories and dancing
+before Him in the temple. Indeed, one should surrender
+his very self at the lotus feet of the Lord while chanting the
+brahmarpana-mantra.
+
+Text 21
+athava sankucita-dhiya
+laya-vidhi-mirti-panjardvacaruh
+yady astadasa-lipind svanta-
+padangais ca venii-piirvaih proktah
+
+Or, if one desires to worship the Lord briefly, he should
+follow the procedure for dismantling the place of worship and
+complete the worship mentally while chanting the eighteen-
+syllable mantra.
+
+Text 22
+Suprasannam atha nanda-tanujam
+bhavayan japatu mantram ananyah
+Sdnu-samsmyti yathavidhi sankhya-
+piirane svayam mano vidadhita
+One should meditate on Krsna, the son of Nanda, and chant
+
+these mantras a prescribed number of times with undivided
+attention.
+
+61
+
+## Page 74
+
+62 Sri NARADA-PANCARATRA * THIRD RATRA
+
+Text 23
+pranava-putitanm bijam
+japtua satam sahitastakam
+nija-guru-mukhad aptan
+yogan punaktu mahamatih
+
+sad amrta-cidanandatmayam
+japam ca samapayed
+
+iti japa-vidhih samyak prokto
+manu-dviayam asritah
+
+Anoble-hearted practitioner should receive these mantras from
+his spiritual master and then chant them one hundred and
+eight times. While chanting mantras to the Supreme Lord, one
+should follow the prescribed rules and regulations.
+
+Text 24
+ta imam bhajate vidhimn naro
+bhavita ‘sau dayitah Sartrinam
+Gparaka-kamalaika-mandiram
+paramante samupaiti tan-mahah
+
+A person who worships the Supreme Lord, Krsna, according to
+this procedure becomes highly respected in society, acheives an
+abundance of wealth and at the end of life, attains liberation.
+
+Thus ends the translation of the sixth chapter of the Third Ratra
+of Sri Narada-paiicaratra.
+
+## Page 75
+
+CHAPTER 7
+
+Instructions on Worshiping
+the Lord and His associates
+
+Text 1
+vydsa uvaca
+hathyate khalu mantra-varyayoh
+sddhanam sakala-siddhi-sadhanam
+yad vidhaya munayo mahiyasim
+siddhim dyur tha ndradadayah
+
+Vyasadeva said: I shall now reveal the process of attaining
+perfection by chanting two mantras. By following this procedure,
+great sages such as Narada have attained perfection in this
+world.
+
+Text 2
+vipram pradhvasta-kaéla-prabhrti-ripu-
+ghata nirmalankam garistham
+bhaktim krsnanghri-pankeruha-
+yugala-rajoraginim udvahantam
+
+vettaram veda-sastragama-vimala-
+patham sammatam satsu vidvamsam
+
+yo-bhaktyé vivitsuh pravana-
+tanu-mand desikam samsrayeta
+
+One should, with utmost devotion, take shelter of a leamed
+and exalted sage—who is completely attached to the lotus feet
+of Sri Krsna, who is a foremost brahmana, who has become
+purified by giving up service to the mind, who is charitable, who
+understands the path of devotion as presented in the Vedas,
+and who is accepted by other exalted personalities—to become
+inclined toward the devotional sevice.of Sri Krsna.
+
+63
+
+## Page 76
+
+64 Sri NARADA-PANCARATRA * THIRD RATRA
+
+Text 3
+Santosayed akutilardatar atmand tam
+svaih svair dhanais ca vapusapy anukitla-vanya
+abda-trayarh kamalanabhadhiya ‘tha dhiras
+tuste vivaksatu gurav atha mantra-diksam
+
+Aninteligent practitionershould give upall kinds of duplicity and
+serve his spiritual master for three years with his body, wealth,
+and favorable speech, considering him to be nondifferent from
+God. The spiritual master will impart manira initiation to such
+a disciple.
+
+Text 4
+prapatica-sdra-prathita ‘tra diksa
+Sarismaryate samprati-sarva-siddhaih
+rte yaya santata-japino ‘pi
+siddhi na yad dasyati mantra-pigah
+
+Initiation into Krsna mantras is the only essential objective in
+this material world by which both the teacher and student
+become benefitted. Unless one takes initiation from a bonafide
+spiritual master, no mantra can bestow perfection upon him,
+even if he chants it constantly.
+
+Text 5
+atha puro vidadhita stava sthalim
+avisamam adhi vastu balim budhah
+acala-dormita patra bhu mandapam
+masrna-vedikam Gracayet tatah
+
+One should first of all build an even platform and on the top of
+it, construct a six-foot-high altar.
+
+Text 6
+triguna-tantu-yuja kusa-mdlaya
+parivrtam prakyti-dhvaja-bhiisitam
+
+## Page 77
+
+Tue WorsHip OF THE LorD AND His ASSOCIATES
+
+mukha-catuska-payas-taru-
+toranam sita-vitdna-virdjitam ujjvalam
+
+One should then cover the altar with a white canopy that covers
+the four gates on the four sides as well. The canopy should
+be covered with kusa grass and decorated with flower garlands.
+Next, one should install four flags outside the four gates.
+
+Text 7
+vasu-trigunitanguli-pramita-
+khéta-vatayanam
+vasor vasupater atho kakubhi
+vistham asmin budhah
+
+karotu vasu-mekhalam
+vasu-gandrdha-konam prati
+
+java-sthita-gaja-dhvani-
+pratima-yoni-samlaksitam
+
+One should mark a particular spot on the altar. The size of
+that spot should be about one foot square. Then, according to
+the prescribed rules and regulations, he should arrange sitting
+places for the Vasus and the Lord of the Vasus. The place where
+the seats are arranged should be triangular.
+
+Text 8
+tato mandape gavya-
+gandha madhu-sikte
+likhen mandalam
+samyagacchadabdam
+
+Suvrtta-trayam rasi-
+pithad dhi-vithi-
+caturdhavasobhopasobha-yuktam
+
+One should decorate the mandala, or place, with ‘milk, yogurt,
+ghee, cowdung, cow urine, sandalwood paste, and honey. He
+
+## Page 78
+
+66
+
+Srt NARADA-PANCARATRA *© THIRD RATRA
+
+should then enhance the beauty of the mandala by drawing on
+it three circles, rasipitha, and four kinds of samudra.
+
+Text 9
+tato desika snana-piirvam vidhani
+vidhayatma-pijavasanan vidhijnah
+sva-vamagratah Sankham apy arghya-
+pady dcamadyani patrani sampiiritani
+
+Adevotee whois dedicated to following the rules and regulations
+should complete the rituals, which includes bathing, and then
+place, on his left side, various articles for worship, such as a
+conch shell, padya, arghya, and dcamaniya.
+
+Text 10
+vidhaydnyatah puspa-gandhaksatadyam
+kara-ksalane prsthatas capi patram
+pradipaval-dipite sarvam anyat
+svato ‘iigacara-sadhanam cédadhita
+
+On his right side, he should keep flowers, sandalwood paste,
+and rice that has been dried in the sun. At his back, he should
+keep a pot of water to wash his hands. After this, he should
+light the lamp and begin his worship.
+
+Text 11
+pithasyodag-gauravi panktir adau
+pitjyo ‘nyatrapy ambikeyah karabjaih
+pasam dandan pustya-bhiti dadhanah
+
+He should begin worshiping from the northwest corner, slowly
+moving to the northeast corner of the sanctified spot. On the
+other side of the mandala, he should worship Ganapati, who
+holds a rope, stick, and pusti in his hands, and who displays
+fearlessness.
+
+## Page 79
+
+THe WorsuHiP OF THE LorD AND His ASSOCIATES
+
+Text 12
+Gradhya “dhara-Sakty ady amara-
+caranayarapy atho madhya-bhage
+dharmadin vahni yaksah-pavana-
+Siva-gatan diksv adharmadikams ca
+madhye sesabja-tejas-tritaya-guna-
+gandnatmajan kesaranam
+madhye cakirna-vasadikam
+abhiyajatetpitha-mantrena bhityah
+
+One should worship the ddhara-sakti and various demigods,
+including Dharma, in the middle of the mandala. Adharma
+and others should be worshiped in the northeast, northwest,
+southeast and southwest corners. One should then worship
+the three qualities of material nature while chanting the pitha-
+mantra and the Gkirnavasa within the lotus.
+
+Text 13
+tatah salin madhye kamalam
+amalams tandula-varan
+api nyasyet darbhams tad
+upari ca diirvdksata-yutan
+
+nyaset pradaksinyat tad
+upari krsanor dasa kala
+ya-karadyarnddyé yajatu ca
+sugandhadibhir imah
+Thereafter, one should throw rice paddy, lotus petals, rice that
+has been dried in the sun, kusa grass and dirbd grass onto the
+mandala and circumambulate it. Next, he should offer worship
+to the ten expansions of the sanctified fire, with sandalwood
+paste and other items while chanting the proper mantra.
+
+67
+
+## Page 80
+
+Sri NARADA-PANCARATRA ® THIRD RATRA
+
+Text 14
+nyaset kumbham tatra trigunita-
+lasat-tantu-kalitam
+japams taram dhipaih
+suparimalitam jongakamayaih
+kabhddyaih kuntismistha-
+uvasitibhir varna-yugalais
+tathdnyasyabhyarcas tad anu
+kha-maner dvuddasa kalah
+
+Thereafter, one should install the water pot while chanting the
+purusa-sukta mantra three times, and kabhddyaih kuntismistha
+uvasiti once, while offering sandalwood paste and a ghee lamp.
+After completing this, one should worship the twelve expansions
+of the sun-god.
+
+Text 15
+evam sankalpyagnim adhara-ripam
+bhanum tadvat kumbha-ripam vidhijnah
+nyaset tasminn aksatadyaih samete
+kiircam svarmam ratna-varyeh pradiptam
+
+In this way, the faithful practitioner invites fire, in the form
+of ddhara, and the sun-god, in the form of the water pitcher—
+considering them to be decorated with gold and jewels, while
+chanting the kurcca-mantra, hum.
+
+Text 16
+atha kvatha-toyaih ksakaradi-varnair
+vakdravasanath samapiirayet tam
+sva-mantra-trijapavasanam payobhir
+gavam parica-gavyair jalath kevalair va
+
+One should fill the pitcher with kuathajala water while chanting
+the appropriate mantras. One should also add cow’s milk and
+
+## Page 81
+
+Tue Worship OF THE Lord AND His ASSOCIATES
+
+paticagavya to the pitcher while repeating the mantra three
+times.
+Text 17
+sakala-janasmitha su-yuga-sankhyah
+sura-gana-pirvd nyasatu tathaiva
+tad upa-kalds tah salila-sugandhah
+$a tu sumanobhis tad anu yajec ca
+
+Afterperforming the nydsasixteen times to the above-mentioned
+demigods, the devotee should next sprinkle scented water and
+begin the worship of the other demigods, who are all parts and
+parcels of the Supreme Personality of Godhead.
+
+Text 18
+udicya-kustha-kunikumambu-
+loha-sajjatasuraih
+sasitam ity udiritam hareh
+priydsta-gandhakam
+
+Udicya, kustha, kunkum, water, gold, sajjata, dsura and sasita are
+eight well known fragrant objects called astagandha. They are
+all very dear to Sri Hari.
+
+Text 19
+kvdtha-toya-paripiritodare samvilarighya
+vidhima ‘sta-gandhakam
+Soma-siirya-sikhinam prthak-kala
+seva-karma viniyojayet sudhih
+
+An intelligent devotee should place kvdthajala in the water pot
+and then add the above-mentioned eight items. Thereafter, he
+should offer it separately to the sun-god, moon-god and Agni.
+
+Text 20
+tadvad Gksarabhavas tu kadibhis
+tadibhih punar ukdrajah kalah
+
+## Page 82
+
+70
+
+Sr NARADA-PANCARATRA ® THIRD RATRA
+
+padibhir malijas tu binduja
+yadibhih sura-ganena nadajah
+One then has to worship akaraja by the letters known as
+akaradi—ukaraja by the letters known as takaradi—alipija by the
+letters known as padi—vinduja by the letters known as yadi—
+and nadaja by the demigods.
+
+Text 21
+Samavahandante susamsthapanat prak
+reas tatra tatratijapya budhena
+samabhyarcya tas tah prthak tac ca patho ‘
+rpayen mila-mantrena kumbhe yathavat
+
+The devotee should first finish the invocation and then, before
+the installation, he should chant the appropriate mantras, as
+mentioned in the Vedas. He should then fill the water pots
+
+while chanting the mula-mantras.
+
+Text 22
+Sahakéra-bodha-panasa-stavakaih
+Satamanyu-kanthi-kalitaih kalasam
+pidadhatu puspa-phala-tandulakair
+abhipirnaya ca subha-cakrikaya
+
+Thereafter, one should cover the water pots with branches of
+either a mango tree, fig tree or jackfruit tree that has at least five
+or seven leaves. On top of that, he should place fruit, flowers
+and rice that has been dried in the sun.
+
+Text 23
+abhivestayet tad anu kumbha-mukham
+nava-nirmalamsuka-yugena budhah
+samalanikrte ‘tra kusumadibhir apy
+abhivahayet parataram ca mahah
+
+## Page 83
+
+THE WorsHIP OF THE LorD AND HIs ASSOCIATES
+
+Then, the expert sadhaka should cover the water pots (including
+the branches with leaves) with pieces of new, clean cloth,
+decorate them with flowers and invoke effulgent energy into
+them.
+
+Text 24
+sakali-vidhaya kalasastham amsum
+harim astu-tattvam anu-vinyasanaih
+paripijayed gurum athavahitah
+parivara-yuktam upacdra-ganaih
+
+Then, following the prescribed rules and regulations, while
+realizing Krsna as the reservior of all transcendental qualtities,
+one should worship Him and His associates by offering all of
+the previously-mentioned ingreidents.
+
+Text 25
+dattasanam svagatam apy udirya
+tatharghya-padyacamaniyakani
+sndnam ca vasas ca vibhitsanani
+Sangaya tasmai viniyojya mantrt
+A devotee who knows the truth of these mantras should offer an
+asana to the Lord, welcome Him with prayers and then worship
+each of His limbs by offering padya, arghya, Gcamaniya, snaniya,
+adress, and ornaments.
+
+Text 26
+gatre pavitrair atha gandha-puspaih
+pirvan yajen nyasa-vidhanato ‘sya
+Srsti-sthiti suanga-yugam ca venum
+malam abhijiana-varasma-mukhyau
+mitlena carghyarcanavat prapiijya
+samarcayed avaranani bhityah
+
+va
+
+## Page 84
+
+72
+
+Srt NARADA-PANCARATRA @ THIRD RATRA
+
+One must then offer fragrant flowers to each limb of the Lord,
+just as one performs the nydsa while touching the various limbs
+of His body. Thereafter, he should offer a flower garland to the
+Lord and after that, he should worship the accociates of the
+Lord.
+
+Text 27
+diksv atha dama-sudamau
+vasuddmah kinkini ca samprtjyah
+tejo-riipas tad-vad-vahirangani
+keSaresu sumatir yajet
+
+On one side of the Lord, a devotee should worship Dama,
+Vasudama, Sudama and Kinkini. After this worship, he should
+worship the Lord’s external energy, which is located just outside
+the lotus petals.
+
+Text 28
+hutavaha-nirrti-samirana-Siva-diksu
+hydadi-varma-paryantam
+muktendu-kanta-kuvalaya-hari-nila-
+hutasa-prabhah pramadah
+
+In the northeast, northwest, southeast and southwest corners,
+one should worship the pramadas, who are effulgent like moon
+rays and who resemble blue flames.
+
+Text 29
+abhaya-vara-sphurita-karah pradhana-
+tanavo ‘nga-devatah smaryah
+rukminy ddya mahisir astau
+Sampitjayed dalesu tatah
+One should then meditate on the ariga devatds, whose hands
+
+are always ready to offer benedictions. After this, one should
+worship the eight principal queens, headed by Rukmini.
+
+## Page 85
+
+Tue Worsuip OF THE LorD AND His ASSOCIATES
+
+Text 30
+daksina-kara-dhrta-kamalavasu-
+bharita-supatra-mudritanya-karah
+rukminyakhya satya lagnajity
+Ghvaya sunanda ca
+Queens such as Rukmini, Satya, Nagnajiti and Sunanda—who
+hold a lotus flower in their right hands and a container of
+wealth in their left hands—are always to be worshiped.
+
+Text 31
+bhityas ca mitravinda sulaksanapya
+rhsaja susila ca
+tapaniya-marakatabhah susita-
+vicitrambaras tu etah
+prthu-kuca-bharalasangayo vividha-
+mala-prakara-vilasitabharanah
+
+One should also worship Mitravinda, Sulaksana, Jambavati and
+Susila—whose beauty can be compared to that of an emerald,
+who are dressed in white garments, who possess heavy breasts,
+and who are decorated with necklaces and other ornaments.
+
+Text 32
+tato yajed dalagresu
+vasudevam ca devakim
+nanda-gopam yasodam ca
+balabhadram subhadrikim
+
+/
+Thereafter, the devotee should worship Vasudeva, Devaki,
+Nanda, Yasoda, Balarama and Subhadra, who are situated on
+the tips of the lotus petals.
+
+Text 33
+gopala gopis tad-vaktre
+vilina-mita-locanah
+
+73
+
+## Page 86
+
+74
+
+Sext NARADA-PANCARATRA *© THIRD RATRA
+
+jnana-mudra-bhayakarau
+pitarau pita-pandurau
+
+One should then worship the pale-complexioned forefathers—
+who award fearlessness, and who sit in the posture known as
+jnana-mudra—while meditating upon the cowherd men and
+women as being merged within their mouths.
+
+Text 34
+divya-malambaralepa-
+bhisane matarau punah
+dharayantyau ca varadam
+payasapitpa-patrakam
+
+One should once again worship the mothers of the universe by
+offering them new cloth, flower garlands, sandalwood paste,
+sweet rice, cakes and other varieties of food.
+
+Text 35,
+aruna-syamale hara-mani-
+_kundala-mandite
+balah sankhendu-dhavalo
+musalam langalam dadhat
+
+One should separately worship Balarama—who is decorated
+with red and black necklaces, jeweled earrings, a plough, and
+a club; and whose complexion is white, like a conch shell or
+moonlight.
+
+Text 36
+haldlola-nila-vasa
+helavan eka-kundalah
+kalaya-syamala bhadra
+sutada bhadra-bhitsana
+
+## Page 87
+
+Tue WorsuiP oF THE LorD AND His ASSOCIATES 75
+
+One should then worship Bhadra and Sutada, who are dressed
+in blue garments, who wear many earrings, whose complexions
+are dark, and who are decorated with enchanting ormaments.
+
+Texts 37-38
+varabhaya-yuta pita-
+vasand riidha-yauvand
+venu-vind-vetra-yasti-
+Sarikha-Ssrigadi-panayah
+gopa gopyas ca vividha
+upayandatta-karambujah
+mandaradims ca tad-bahye
+pitjayet kalpa-padapan
+
+Thereafter, one should worship the cowherd boys and girls, who
+always bestow fearlessness and benedictions, who wear colorful
+garments, and who carry a flute, vind, stick, conch shell, and
+buffalo horn. One should then worship desire trees, such as
+the mandara.
+
+Text 39
+mandara-santanaka-parijata-kalpa-
+drumakhyan haricandanam ca
+madhye caturdiksv abhivanchitartha-
+danaika-diksanvita-namra-sakhan
+
+In and around the lotus flower, one should worship various
+desire trees, such as the mandara, sanatana, parijata, kalpadruma
+and haricandana, which are capable of awarding one’s desired
+benedictions, and are full of auspiciousness.
+
+Thus ends the translation of the seventh chapter of the Third
+Ratra of Sri Narada-paticaratra.
+
+## Page 88
+
+CHAPTER 8
+
+Further Instructions on Worshiping
+the Lord and His Associates
+
+Text 1
+‘uyasa uvaca
+hari-havya-vat-taranija-ksapatanap
+pati-vayu-soma-siva-Sesa-padmajan
+prayajet svadiksv amala-dhih svajaty
+adhisvaraheti-patra-parivara-sametan
+
+Vyasadeva said: One should next worship Hari, Agni, Taranija,
+Ksapatana, Samudra, Vayu, Candra, Siva and Sega in the four
+directions while thinking of them as being eternal servants of
+the Supreme Lord.
+
+Text 2
+hapisa-kapila-nila-syamala-sveta-dhiimah
+mala-sita-Suci-rakta varnato vasabadyah
+kara-kamala-virdjat sudyudha divya-vesa
+vividha-mani-ganogra-prasphurad-bhiisanadhyah
+
+These demigods are of various complexions, such as yellow,
+blue, black, white and grey. They are pure souls and they hold
+various weapons in their hands. They are dressed in celestial
+-garments and decorated with many jeweled ornaments.
+
+Text 3
+dambholi-sakty abhidha-danda-krpana-pasa-
+candankusarddha-gada-trisikhari-padmah
+arcya-bahnir nija-sulaksana-laksita-mauli-yuktah
+sva-suayudhabhaya-samudyata-pani-padmah
+
+Thereafter, one should worship the goddesses of heaven, who
+hold various weapons in their hands, such as the thunderolt,
+
+77
+
+## Page 89
+
+78
+
+Sri NARADA-PANCARATRA * THIRD RATRA
+
+stick, rope, anchor, bow, and club. They are always ready to
+offer benedictions and they are endowed with divine qualities.
+They are situated on the outer portion of the lotus flower.
+
+Text 4
+kanaka-rajata-toyadabhra-campa
+runahima-nila-javd-prabala-bhasah
+kramata iti rucdtta-vajra-pirrvd-
+rucira-vilepana-vastra-malya-bhiisah
+
+With complexions resembling the color of gold, silver, a dark
+cloud, snow, red and blue habiscus flowers, and coral, and
+being decorated with flower garlands and sandalwood paste,
+these demigods and goddesses appear like the thunderbolt of
+Cupid.
+
+Text 5
+hathitam dvrti-saptakam acyutarcana-
+vidhdv ati sarva-sukhavaham
+prayajed athavarga-purandarasani-
+mukhais tritayavaranam tv idam
+
+It is essential for a devotee to worship Krsna’s associates while
+worshiping Krsna. There are three kinds of associates of the
+Lord—anigas, puranddsanis and mukhas.
+
+Text 6
+hetya japitud jala-gandha-puspaih
+krsndstaketapy atha krsna-pitjam
+kurydd vudhas tani samahvayéni
+vaksydmi taradi-namo ‘ntikani
+One should worship Lord Krsna by offering Him water,
+sandalwood paste, flowers and other items. After worshiping
+the Lord, one should recite the prayer, Krsnastaka, for His
+pleasure.
+
+## Page 90
+
+INSTRUCTIONS ON WoRSHIPING THE LorD 79
+
+Texts 7-8
+Sri-kysno vdsudevas ca
+narayana-samahvayah
+devaki-nandano yadu-srestho
+vdrsneya ity api
+asurakranta-sabdante
+bharahariti saptamah
+dharma-samsthapakas cacaiva
+caturthy antah kramdad ime
+
+Each of these holy names should be chanted in the fourth
+dative case, and should be preceded by om. These names are—
+Sri Krsna, Vasudeva, Narayana, Devakinandana, Yaduérestha,
+Varsneya, Asurakrantabharahari and Dharmasansthapaka.
+
+Text 9
+ebhir evathava karya piija
+vai kamsa-vairinah
+Samsdara-sdgarottirtthe
+Sarva-kémaptaye budhaih
+
+By worshiping Krsna, the enemy of Karhsa, while chanting these
+mantras, the devotees are delivered from the ocean of material
+existence and attain seven kinds of perfection.
+
+Text 10
+Sarangdra-dyuta-dhi-lulitair
+jarjaraih samvikirnair
+guggulvadyair ghana-parimalair
+dhiipam asddya mantri
+
+dadyan nicair danujam atha
+maya-pravenatha dosna
+
+ghantam gandhaksata-
+sumanakair arcitam vadayanah
+
+## Page 91
+
+Srt NARADA-PANCARATRA © THIRD RATRA
+
+A practitioner who is expert in the science of chanting mantras
+should take fragrant incense made with gugula and offer it to
+Krsna while ringing a bell and displaying utmost devotion.
+
+Text 11
+tad uddiptam surabhi-ghrta-
+Samsikta-karpira-raktam
+dipam drstya-stuti-visada-dhih
+padma-paryantam uccaih
+
+dastua puspanjalim api
+vidhayarpayitud ca padyam
+
+$4 ca sankalpayet tad vipulam
+api tada-svarna-patre nivedyam
+
+After that, one should take a ghee lamp having camphor on
+the wicks and purify it by chanting the appropriate mantra. He
+should then offer the ghee lamp to the Lord, followed by an
+offering of flowers, padya, Gcamaniya and various kinds of food.
+
+Text 12
+surabhitarena dugdha-
+havisé susrtena sita-
+samudamsakai rucira-
+kytya vicitra-vasaih
+
+dadhi-navanita-niitana-
+sitopala-pipanika-
+
+ghrta-guda-narikela-kadali-
+phala-puspa-rasais ca
+
+One should offer to the Lord with pure devotion—milk, butter,
+
+sugar candy, yogurt, fresh cakes, jaggery, a coconut, bananas,
+honey, and other such food.
+
+## Page 92
+
+INSTRUCTIONS ON WoRSHIPING THE LorD
+
+Text 13
+astroksitam tad ari-
+mudrikaya ‘tiraksya
+vdyavyatapa-parisositam
+agni-dosma
+
+sandahya vdma-kara-
+saudhara-sabhipirnam
+
+mantramrtikrtam
+athabhimrsan prajapyet
+
+One should display the astra- mudré and sariraksana-mudra for
+one’s safety and for the purification of the food to be offered.
+One should then chant appropriate mantras for transforming
+the food into nectar.
+
+Text 14
+manum astasah surabhi-mudrikaya
+paripiirnam arcayatu gandha-puspaih
+harim arthayed atha krta-prasaraijalir
+syato ‘sya visarec ca mahah
+
+One should chant this mantra eight times after displaying the
+surabhi-mudrd. One should then fold his hands and offer prayers
+to Lord Hari while meditating upon the glittering effulgence
+emanating from His face.
+
+Text 15
+vitihotra-dayitantam uccaran
+mitla-mantram atha nihksipej jalam
+arpayet tad amytatmakam havir
+dormajasa-kusumam samuddharan
+
+The devotee should sprinkle water on the articles to be offered
+and then offer ghee and some flowers to the Lord with love and
+devotion. This should be done while chanting the mula-mantra.
+
+81
+
+## Page 93
+
+82
+
+Sri NARADA-PANCARATRA * THIRD RATRA
+
+Text 16
+nivedayami bhagavate
+jusanedam havir havih
+nivedyarpana-mantro ‘yam
+Sarvarcasu nijakhyaya
+
+While offering food to Lord Krsna one should chant one’s
+favorite name of the Lord. One should pray to the Lord that
+He kindly accept the food that was prepared in ghee.
+
+Text 17
+grasa-mudram vaéma-dosna
+vikacotpala-sannibham
+pradarsayan daksinena
+pranadindm ca darsayet
+
+One should then display with his left hand the grdsa-mudrd,
+which is like a fully blossomed lotus flower. With his right
+hand, he should display the prana-mudré while chanting prandya
+svaha.
+
+Text 18
+Sprset kanisthopakanisthike dve
+Ssdtigustha-mitrdhna prathameha mudra
+tathapara tarjani-madhyame syad
+andmika-madhyamike ca madhya
+
+This particular mudré is completed when one touches his
+thumb, little finger, and ring finger to his head. The devotee
+should also display the madhya-mudra with his first finger,
+middle finger and ring finger.
+
+Text 19
+andmiké-tarjani-madhyamah syat
+tadvac caturthi sa-kanisthikas tah
+
+## Page 94
+
+INSTRUCTIONS ON WoORSHIPING THE LORD
+
+syat paticami tadvad iti pradistah
+pranadi-mudra nija-mantra-yuktah
+
+The pranadi-mudra is displayed by touching the middle finger,
+first finger, ring ring and little finger to the thumb and chanting
+the suitable mantra.
+
+Text 20
+pranapana-vyaha-samanodanah
+kramdc caturthya yuktah
+taradhara baddha ceddhah
+krsnadhvanas tato manavah
+
+Mantras are revealed to one who chants the names of the five
+kinds of air—prana, apdma, vyana, samana and udéna—ending
+them in the fourth dative case. This chanting is favorable for
+the execution of devotional service to Lord Krsna.
+
+Text 21
+tato nivedya mudrikam
+pradhanaya karadvaye
+sprsatu anamikam nijam
+manum japan pradarsayet
+Thereafter, one should display the pradhana-mudra and chant
+the mantras by touching them with the ring finger.
+
+Text 22
+nandajo ‘mbu-manu-binda-yur-natir
+vamaparsva udaratmani ca
+ruddha-atmani-nivedyam atma-bhir-
+mam sa parsvam anilas tathé niyuk
+After doing this, one should offer water to the son of Nanda
+
+and then offer obeisances to Him. One should meditate upon
+how the Lord is accepting his offerings of food.
+
+## Page 95
+
+Sri NARADA-PANCARATRA © THIRD RATRA
+
+Text 23
+mandalam abhito mantribijankura-
+bhdjanani vinyasya
+pistamayan api dipan ghrta-
+piirnan vinasyet sudipta-sikhan
+
+A learned devotee should then meditate on the seed, leaves
+and petals of the lotus flower that is situated in the middle of
+the sacred place. He should offer sweet rice and other food, as
+well as a ghee lamp, to the sacred place.
+
+Thus ends the translation of the eighth chapter of the Third
+Ratra of Sri Narada-paticaratra.
+
+## Page 96
+
+CHAPTER 9
+
+The Procedure For Performing Fire Sacrifice
+
+Text 1
+Sri-vyasa uvaca
+atha samskrte hutavahe vimala-
+dhirabhivadya samyag abhipitjya
+harim juhuyat sitaghrta-yutena
+payah parisadhitena sitadidivina
+
+Vyasadeva said: After completing the worship of Lord Hari by
+offering Him all the aforementioned items with a pure heart,
+one should perform a fire sacrifice with pure ghee and other
+milk products.
+
+Text 2
+astottara-sahasram samapya
+homam punar balim dadyat
+vasisthadhinathebhyo naksatrebhyas
+tatas ca karanebhyah
+
+One should perform a fire sacrifice by offering one thousand
+and eight oblations into the sacrificial fire while simultaneously
+offering all of the articles once again for the worship of the
+Lord. These articles should also be offered to vasistha adhinatha
+naksatra and to the karanas.
+
+Text 3
+Sampadya pani ca-sudham samarpya
+dattvambha udvasya mukharcir asye
+naivedyam uddhytya nivedya
+visvaksenaya prthvim upalipya bhiiyah
+
+At this time, the devotee should display the sudha-mudra, and
+offer water and various kinds of food to Lord Krsna once again.
+
+85
+
+## Page 97
+
+Srt NARADA-PANCARATRA * THIRD RATRA
+
+Thereafter, he should carefully clean the sacrificial arena.
+
+Text 4
+gandiisa-danta-dhavandcamandsya-hasta-
+sithtyanulepa-mukha-vasaka-malya-bhiisah
+tambiilam apy ati nivedya suvadya-nytya-
+gitaih sudrptam abhipijayatat pur eva
+
+After completing this, one should offer water for the Lord
+to wash His hands, mouth and teeth, while reciting Vedic
+hymns. Thereafter, one should offer sandalwood paste, mouth
+freshener, a flower garland, ornaments and betel nuts. One
+should also sing and dance before the Lord.
+
+Text 5
+gandhadibhih saparivaram atharghyam asmai
+dattva vidhaya kusumdijalim addarena
+stutud pranamya Sirasé culakodakena
+atmanam arpayatu tac caranarvinde
+
+Thereafter, in the sacrificial arena, one should worship the
+Lord with devotion by offering ‘Him and His associates arghya
+and flowers. One should also offer prayers and obeisances in a
+‘mood of complete surrender.
+
+Texts 6-7
+iti pirvam prana-buddhi-
+deha-dharmadhikdaratah
+jagrat-svapna-susupty
+akhyavasthasu manasa vaca
+
+karmana hastabhyam padbhyam
+udarena sisna yat smytam
+
+yad uktam yat krtam tat sarvam
+brahmarpanam bhavatu svaha
+
+## Page 98
+
+INSTRUCTIONS ON WoRSHIPING THE LorD
+
+Indeed, one should surrender his very life, intelligence, body,
+religious principles, mind, and speech, as well as all of the
+activities that he performs with his hands, legs, and stomach,
+during wakefulness or while sleeping. Every activity that one
+performs should be done as an offering to the Lord.
+
+Text 8
+mam madiyam ca sakalam
+haraye ‘ham samarpaye
+om tat sad iti samprokto
+mantrah sudtmarpane subhah
+
+One should chant om tat satand pray: O Lord, I surrender myself
+at Your lotus feet, along with everything that I may possess.
+
+Text 9
+anusmaran kalasam acyutam
+japan sahasrakarh budho vapusy
+athoditojhitah sama citi-vinapy
+atas tad api nayet sudhatmatém
+
+One should then meditate on Krsna as being situated in the
+water pitcher that is kept in the sacrificial arena while chanting
+his mantra one thousand times. He should consider himself to
+be a nectarean object for Krsna’s enjoyment.
+
+Text 10
+dhvaja-torana-dik-kalasddi-gatam
+api mandapa-mandala-kunda-latam
+abhiyojya citim kalase kusumaih
+paripijya japet punar astasatam
+After completing the fire sacrifice, one should collect the flags,
+
+pillars, pitchers and other articles from the paja altar and then
+chant the mula-mantra eight hundred times.
+
+87
+
+## Page 99
+
+88
+
+Sri NARADA-PANCARATRA © THIRD RATRA
+
+Text 11
+atha Sisya upositah prabhate
+kyta-nityah susitambarah suvesah
+dharani-dhana-dhanya-go-bahulair
+vinayad vipra-varan hareh prasadya
+
+A disciple should rise early in the morning, take his bath, and
+then perform his daily religious duties. After completing them,
+he should dress in white cloth and decorate himself with nice
+omaments. He should then satisfy the qualified devotees of
+Lord Hari by giving them land, grains, wealth and cows.
+
+Text 12
+bhityah paritya pranipatya desikam
+tasmai parasmai purusaya dehine
+tam vitta-Sathyam parihrtya daksinam
+dattva tanum svam ca samarpayet sudhih
+
+He should then bow down to Krsna by thinking of Him as being
+present in the place of worship. An intelligent devotee should
+give sufficient daksina (remuneration) to his spiritual master
+and take complete shelter of him.
+
+Text 13
+athabhiseka-mandape
+sukhopavistam dsane
+gurur visodhayed amum
+pureva Sosanadibhih
+
+The spiritual master should purify his disciple as he is seated
+ona sanctified 4sana in the sacrificial arena, in the manner that
+was detailed earlier.
+
+Text 14
+pitha-nydsdvasénam vapusi
+vimala-dhir nyasya tasyasikaya
+
+## Page 100
+
+THE ProcepurRE FoR PERFORMING FIRE SACRIFICE
+
+mantrenabhyarcya diirvaksata-
+kusuma-yutam rocandm ke nidhdya
+
+GSirvadair dvijandm visada-
+paturavair gita-vaditra-ghosair
+
+mangalyair dnayettam kalasam
+abhivrtas tat-samipam pratitah
+
+A pure-hearted devotee has to perform the nydsa, placing it
+on his body, put diarvd grass and rice that has been dried in
+the sun on a raised altar, and then beg for the blessings of the
+brahmanas.
+
+Text 15
+tendbhilina-mani-mantra-mahausadhena
+dhamna perana paramamyta-riipa-bhaja
+Sampitrayan vapur amusya tato vitanvan
+tat-samavarnyam abhisecayatat yathavat
+
+The sincere practitioner should invite the Supreme Lord,
+Krsna—whose form is full of eternity, knowledge and bliss—by
+chanting these confidential mantras. After doing so, he should
+perform the abhiseka (bathing ceremony) of the Lord.
+
+Text 16
+ksadyaira ‘ntima-varnair adbhis ca
+parna-tanus trirvyakta-mantrantaih
+paridhrta-sitatara-vasana-dvitayo
+vacamyamah samacantah
+
+While filling the pitcher with water, one must chant the mantras,
+pronouncing each letter carefully, beginning from sa up to the
+final letter. The sddhaka should then perform dcamana once
+again, while remaining silent.
+
+89

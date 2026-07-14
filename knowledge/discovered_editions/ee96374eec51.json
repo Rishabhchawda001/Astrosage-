@@ -1,0 +1,325 @@
+{
+  "title": "devanagari-lipi",
+  "discovered_at": "2026-07-13T16:02:07.833764+00:00",
+  "edition_count": 16,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Devana\u0304gari\u0304 lipi",
+      "authors": [
+        "Varma\u0304 S\u0301ivas\u0301an\u0307kara Prasa\u0304da"
+      ],
+      "year": 1972,
+      "languages": [
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Bh\u0101galapura Vi\u015bvidy\u0101laya"
+      ],
+      "ol_key": "/works/OL6997282W"
+    },
+    {
+      "source": "open_library",
+      "title": "Devana\u0304gari\u0304 lipi",
+      "authors": [
+        "N. C. Jogalekar"
+      ],
+      "year": 1962,
+      "languages": [
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Hind\u012b S\u0101hitya Bha\u1e47\u1e0d\u0101ra"
+      ],
+      "ol_key": "/works/OL323833W"
+    },
+    {
+      "source": "open_library",
+      "title": "Devan\u0101gar\u012b lipi",
+      "authors": [
+        "\u015aiva\u015ba\u1e45kara Pras\u0101da Varm\u0101"
+      ],
+      "year": 1972,
+      "languages": [
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Bh\u0101galapura Vi\u015bvavidy\u0101laya"
+      ],
+      "ol_key": "/works/OL13478432W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "muharni_nitnem_santhiya_pothi",
+      "title": "Muharni Nitnem Santhiya Pothi - Damdami Taksaal",
+      "creator": "Dr. Varinder Singh",
+      "year": null,
+      "language": "pan",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "JPEG Thumb",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "PNG",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "gurmukhi-lipi-da-janam-te-vikas",
+      "title": "Gurmukhi Lipi Da Janam Te Vikas",
+      "creator": "G B Singh",
+      "year": 2010,
+      "language": "pan",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.444443",
+      "title": "Gurumukhi Lipi Me Hindi Sahitya",
+      "creator": "Goyal,dr.jay Bhagwan",
+      "year": 1970,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2097958419",
+      "title": "Handwritten Devanagari Lipi using Support Vector Machine",
+      "year": 2012,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5120/6220-8785",
+      "authors": [
+        "Shailendra KumarShrivastava",
+        "Pratibha Chaurasia"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3213799478",
+      "title": "Machine Learning Methods to identify Hindi Fake News within social-media",
+      "year": 2021,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Dilip Kumar Sharma",
+        "Sonal Garg"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Devana\u0304gari\u0304 lipi",
+      "authors": [
+        "Varma\u0304 S\u0301ivas\u0301an\u0307kara Prasa\u0304da"
+      ],
+      "year": 1972,
+      "languages": [
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Bh\u0101galapura Vi\u015bvidy\u0101laya"
+      ],
+      "ol_key": "/works/OL6997282W"
+    },
+    {
+      "source": "open_library",
+      "title": "Devana\u0304gari\u0304 lipi",
+      "authors": [
+        "N. C. Jogalekar"
+      ],
+      "year": 1962,
+      "languages": [
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Hind\u012b S\u0101hitya Bha\u1e47\u1e0d\u0101ra"
+      ],
+      "ol_key": "/works/OL323833W"
+    },
+    {
+      "source": "open_library",
+      "title": "Devan\u0101gar\u012b lipi",
+      "authors": [
+        "\u015aiva\u015ba\u1e45kara Pras\u0101da Varm\u0101"
+      ],
+      "year": 1972,
+      "languages": [
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Bh\u0101galapura Vi\u015bvavidy\u0101laya"
+      ],
+      "ol_key": "/works/OL13478432W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "muharni_nitnem_santhiya_pothi",
+      "title": "Muharni Nitnem Santhiya Pothi - Damdami Taksaal",
+      "creator": "Dr. Varinder Singh",
+      "year": null,
+      "language": "pan",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "JPEG Thumb",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "PNG",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "Fxcv_hindi-bhasha-aur-nagari-lipi-by-kanhaiya-singh-1978-varanasi-vishwavidyalaya-prakashan",
+      "title": "Hindi Bhasha Aur Nagari Lipi By Kanhaiya Singh 1978 Varanasi Vishwavidyalaya Prakashan",
+      "creator": "Vishwavidyalaya Prakashan",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "tnnf-licchavi-lipi-sangraha-by-shankarman-rajvanshi-nep",
+      "title": "Licchavi Lipi Sangraha By Shankarman Rajvanshi Nepali Epigraphy Illustrated Kathmandu 2021 Veer Pustakalaya",
+      "creator": "Veer Pustakalaya",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2097958419",
+      "title": "Handwritten Devanagari Lipi using Support Vector Machine",
+      "year": 2012,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5120/6220-8785",
+      "authors": [
+        "Shailendra KumarShrivastava",
+        "Pratibha Chaurasia"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3213799478",
+      "title": "Machine Learning Methods to identify Hindi Fake News within social-media",
+      "year": 2021,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Dilip Kumar Sharma",
+        "Sonal Garg"
+      ]
+    }
+  ]
+}

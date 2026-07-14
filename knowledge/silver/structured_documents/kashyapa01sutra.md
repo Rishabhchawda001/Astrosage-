@@ -1,0 +1,1304 @@
+# kashyapa01sutra
+
+**Document ID:** DOC-4FCFF1C228A3
+**Language:** english (latin)
+**Pages:** 43
+**Class:** native_text
+**SHA256:** `4fcff1c228a30e4045f40537e27e6de01c614f1a4248221e672f06905646357e`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+≈I"
+≈Ik;Xyps'iht;
+v;
+vOıjIvk°y' tN]m(
+k*m;r.OTym(
+sU]Sq;nm(
+ik˘v; leh…ytVy' c ik˘v; leihtl=,m(   
+aitleihtdoW;" kÉ kÉ c doW; aleihte   
+mNdIlI!Sy ik˘ Âp' gu@doW;í t] kÉ   
+kÉ lehno∫v; rog;" kí teW;mup£m"   
+EtNme .gvn( sv| vˇ_⁄mhR…s tÊvt"   
+su%' du"%' ih b;l;n;' dOXyte lehn;≈ym(   
+îit pO∑o mh;.;g" kXypo lokpU…jt"
+p[Xn' p[ov;c in≤%l' p[j;n;' ihtk;Myy;   
+yd•p;n' p[;ye, g….R,I S]I inWevte   
+rso invRtRte t;dOk™ i]/; c;Sy;" p[vtRte   
+m;tOpu∑‰qRmek;'xo i√tIyo g.Rpu∑ye   
+tOtIy" Stnpu∑‰q| n;y;R g.RStu pu„yit   
+t;dOKp[’tyStSm;Ì.;Rt( p[.Oit deihn"   
+v;tipˇkfSqU,;‚Stß" p[’tyí t;"   
+v;itk;" pw·ˇk;" kÉ…ct( kifníwv deihn"
+1
+
+## Page 2
+
+√N√p[’tyí;Nye smSqU,;Stq;åpre   
+arog;Stu smSqU,; v;itk;¥;" sd;tur;"   
+Et;" p[’ty" p[oˇ_; deihn;' vOıjIvk   
+Et; a;…≈Ty tÊvDo .eWj;NyupkLpyet(   
+y Et; ved tÊven n s muÁit .eWje   
+ivl©flm;]' tu j;tm;]Sy deihn"   
+.eWj' m/usipR>y;| mitm;nupkLpyet(   
+v/Rm;nSy tu ≤xxom;Rse m;se ivv/Ryet(   
+aq;mlkm;]' tu pr' iv√;• v/Ryet(   
+a=Ir; jnnI yeW;mLp=Ir;åip v; .vet(   
+du∑=Ir; p[sUt; y; /;]I v; ySy t;dOxI   
+du„p[j;t;.OxVy;…/pI…@t;y;í ye sut;"   
+v;itk;" pw·ˇk; ye c ye c Syu" kfv…jRt;"   
+StNyen ye n tOPy≤Nt pITv; pITv; ®d≤Nt c   
+ain{; in≤x ye c SyuyeR c b;l; mh;xn;"   
+aLpmU]purIW;í b;l; dI¢;¶yí ye   
+inr;my;í tnvo mO√©; ye c k≤xRt;"   
+vcR"kmR n k⁄vR≤Nt b;l; ye c }yh;t( prm(
+Ev'iv/;æHzxUn;h lehyeidit kXyp"   
+--- c mNd;…¶j#ro jn"   
+[KŒshyapa]
+k;Xyp s'iht;
+2
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 3
+
+in{;lubRÛiv<mU]" SvLpo yo dO!g;]k"   
+kLy;,m;tOkoåjI,IR gu®StNyopseivt;   
+sut" svRrs;≤xNy; Ë?vRj]u®j;iNvt"   
+a;me Jvreåits;re c k;ml;xoqp;<@uWu   
+˙{ogê;sk;seWu gudbSTyudr;mye   
+a;n;he g<@vwspeR z¥Rrockyo   
+---- he svRg[heWu c   
+n lehyedlskÉ n;hNyhin n;≤xtm(   
+n duidRnpurov;te n;s;TMy' n;itm;]y;   
+seivt;Ny•p;n;in g….R<y; y;Ny. ---   
+t;in s;TMy;in b;lSy tSm;ˇ;Nyupc;ryet(   
+dexk;l;…¶m;];,;' n c k⁄y;R√‰it£mm(   
+{Vy;,;' lehnIy;n;' iv…/íwvopde+yte   
+iv`O„y /*te dOWid p[;Ñu%I l`un;åMbun;
+a;mQy m/usipR>y;| lehyet( knk˘ ≤xxum(   
+suv,Rp[;xn' ÁºtNme/;…¶blv/Rnm(   
+a;yu„y' m©l' pu<y' vO„y' v<y| g[h;phm(   
+m;s;t( prmme/;vI Vy;…/….nR c /O„yte   
+W≤@±.m;Rsw" ≈ut/r" suv,Rp[;xn;∫vet(   
+b[;˜I m<@Ükp,IR c i]fl; …c]ko vc;
+[KŒshyapa]
+sU]Sq;nm(  1
+3
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 4
+
+xtpu„p;xt;vy*R dNtI n;gbl; i]vOt(   
+Ekìk˘ m/usipR>y;| me/;jnnm>yset(   
+kLy;,k˘ pçgVy' me?y' b[;˜I`Ot' tq;   
+sm©; i]fl; b[;˜I √π ble …c]kStq;   
+m/u sipR·rit p[;Xy' me/;yubRlvOıye   
+k⁄œ' v$;ïr; g*rI ipPpLy≤S]fl; vc;   
+sswN/vw`ORt' pKv' me/;jnnmuˇmm(   
+b[;˜I …sı;qRk;" k⁄œ' swN/v' s;·rv; vc;   
+ipPpLyíeit tw" …sı' `Ot' n;ª;å.y' SmOtm(   
+n ipx;c; n r=;'…s n y=; n c m;tr"   
+p[b;/Nte k⁄m;r' t' y" p[;XnIy;idd' `Otm(   
+%idr" pO‚Xnp,IR c SytO swN/v' ble   
+kÉvukÉit kW;y" Sy;t( p;d≤x∑o jl;!kÉ   
+a/Rp[Sq' pced] tuLy=Ir' `OtSy tu   
+`Ot' s'v/Rn' n;m leÁ' m/uyut' sd;   
+inVy;R…/vR/Rte xI`[' s'spRTy;xu gCzit   
+p©ëmUk;≈u…tj@; yuJyNte c;xu kmR…."   
+SvrsSy;!kÉ b[;˜‰; `Otp[Sq' ivp;cyet(   
+svTs;åj;gopys;m;!k;!km;vpet(   
+i]fl;'åxumtI {;=; vc; k⁄œ' hre,v"   
+[KŒshyapa]
+k;Xyp s'iht;
+4
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 5
+
+ipPplIipPplImUlcVy…c]kn;grm(   
+TvKp]b;lkoxIrcNdnoTplpµkm(   
+xt;vrI n;gbl; dNtI p;#; ip[y©ëk;   
+devd;® h·r{e √π jIvnIyí yo g,"   
+iv@©o guGguluj;Rit"   
+Ekon…v'xoå?y;y"
+--- xk⁄nI k$uitˇ_kÉ   
+SkNdWœIg[h* Dey* Vy;p•e s;…•p;itkÉ   
+pUtn; Sv;duk$ukÉ xeW;" s'sO∑doWj;"   
+bÛiv<mU]t; Sv;d* kW;ye mU]iv@±g[h"   
+twlv,Re blI tuLy; `Otv,Re mh;/n"   
+yxSvI /Umv,Re tu xuıe svRgu,oidt"   
+tSm;t( s'xo/npr; inTy' /;]I p[xSyte   
+kW;yp;nwvRmnw…vRrekì" pQy.ojnw"   
+v;jIkr,…sıwí òehw" =Ir' ivxu?yit   
+i]fl; si]k$uk; p;#; m/urs; vc;   
+kolcU,| Tvco jMBv; devd;® c peiWtm(   
+sWRpp[sOto‚Nm≈' p;tVy' =*{s'yutm(   
+Ett( StNySy du∑Sy ≈eœ' xo/nmuCyte   
+Í©verp$ol;>y;' ipPplIcU,RcU…,Rtm(   
+[KŒshyapa]
+sU]Sq;nm(  1
+5
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 6
+
+yUWpQy' ivd?y;∞ Á•p;n' c yLl`u   
+/;tk°pu„pmel; c sm©« m·rc;in c   
+jMbUTvc' sm/uk˘ =Irxo/nmuˇmm(   
+n;…@k; sgu@; …sı; ih©ëj;itsus'S’t;   
+=Ir' m;'srso m¥' =Irv/Rnmuˇmm(   
+v;jIkr,…sı' v; =Ir' =Irivv/Rnm(   
+`Ottwlopsev; c bStyí pySkr;"   
+p;#; mh*W/' d;® mUv;RmuStkvTsk;"   
+s;·rv;·r∑k$uk;" kìr;t' i]fl; vc;   
+gu@ÜcI m/uk˘ {;=; dxmUl' sdIpnm(
+r=oﬂí p$olí g," =Irivxo/n"   
+l;.t" Kv…qtSteW;' kW;y" s tu seivt"   
+=Ir' xo/yit ≤=p[' …crVy;p•mPyut   
+s=*{" kfs'sO∑e s`Ot" xeWyo.Rvet(   
+neTyekÉ Xle„m," Sq;n;t( =Ir' ih kfs'.vm(   
+msUr;" Wi∑k; muÌ;" k⁄lTq;" x;lyo `Otm(   
+gVym;j' py" k;le lv,' c;Pyn*≤∫dm(   
+a;h;riv…/®i∂∑" StNyxo/nk;≤lk"   
+guvR•òehm;'s;in idv;Sv“' c vjRyet(   
+xo/n;√; Sv.;v;√; ySy;" =Ir' ivxu„yit   
+[KŒshyapa]
+k;Xyp s'iht;
+6
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 7
+
+tSy;" =Irp[jnne p[ytet ivc=,"   
+m/ur;<y•p;n;in {v;…, lv,;in c   
+m¥;in sI/uvJy;Rin x;k˘ …sı;qRk;dOte   
+vr;hmihW;dU?v| m;'s;n;' c rso iht"   
+lxun;n;' pl;<@Ün;' sevn' xyn' su%m(   
+£o/;?v.yxok;n;m;y;s;n;' c vjRnm(   
+a---y; .vit vTs îit =Irivv/Rnm(   
+v$;dIn;' c vO=;,;' =I·rk;y;í vLklm(   
+p;Ky" kW;y" Kv…qt" =Ir' ten pun" Ítm(   
+p;Ky' gu@iv@opet' s`Ot' x;≤lm;xyet(    
+aip xu„kStnIn;' tt( =Iropjnn' prm(   
+x;≤lWi∑kd.;R,;' k⁄xguN{eTk$Sy c   
+s;·rv;vIr,e=U,;' mUl;in k⁄xk;xyo"   
+pey;in pUvRkLpen ≈eœ' =Irivv/Rnm(   
+Sv.;vn∑e xu„kÉ v; du∑e s;?vI≤=te ihtm(   
+aVy;htbl;©;yurrogo v/Rte su%m(   
+≤xxu/;}yorn;p·ˇ" xuı=IrSy l=,m(   
+s'.v≤Nt mh;rog; axuı=Irsevn;t(   
+teW;mevopx;≤NtStu xuı=IrinWev,;t(   
+tO,' k°$' tuW' xUk˘ m≤=k;©ml;∑km(   
+[KŒshyapa]
+sU]Sq;nm(  1
+7
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 8
+
+kÉxo,;RSQy;idk˘ iv¥;√j[…mTyupc;rt"   
+sh;•p;nen yd; /;]I vj[' smXnute   
+pCym;nen p;kÉn Án•Tv;• pCyte   
+apCym;n' ivÆKl•' v;yun; smudI·rtm(   
+rsen sh s'pOˇ_' y;it StNyvh;" …sr;"   
+svRßot;'…s ih S]I,;' ivvOt;in ivxeWt"   
+tt( pyo/rm;s;¥ ≤=p[' ivk⁄®te ≤S]y;"   
+Âp;…, pItvj[;y;" p[v+y;Myt ¨ˇrm(   
+ajI,RmritGl;Rinrin…mˇ' Vyq;å®…c"   
+pvR.edoå©mdRí ≤xro®g( =vqug[h"   
+kfoTKledo JvrStO„,; iv@±.edo mU]s'g[h"   
+StM." ß;ví k⁄cyo" …sr;j;len s'tt"   
+xoqxUl®j;d;hw" Stn" Sp[∑u' n xKyte   
+Stnk°lk…mTy;Û….RWjSt' ivc=,;"   
+k°lvt( ki#noå©πWu b;/m;no ih itœit   
+EW ipˇ;Tmn; xI`[' p;k˘ .ed' c gCzit   
+kf;≤∞r' Klexyit v;t;d;xu invtRte   
+x;%;≤xro….Stu yid ivm;g;R• p[p¥te   
+a’„ym;,' b;len ≤=p[' in/;Rvit Stn;t(   
+induRÁm;nmuTpI@;√j[' s=Irxo…,tm(   
+[KŒshyapa]
+k;Xyp s'iht;
+8
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 9
+
+aqv;å>yeit shs; p[Ty=' copl>yte   
+`Otp;n' p[qmt" xSyte Stnk°lkÉ   
+ßot;'…s m;dRv' òeh;¥;≤Nt vj[' c Cy;Vyte   
+indoRho mdRn' yuKTy; p;yn' c glen c   
+xIt;" sek;" p[lep;í ivrek" pQy.ojnm(   
+ß;v,' c;ivdG/Sy doWdehVype=y;   
+Sy p;$n' k⁄y;RNmOj;' iv{…/v∞ tt(   
+prv≤ıt.oK]I c pr;l;≤lttpR,;   
+prveXmrt; /;]I muCyte Stnk°lk;t(   
+dxRnIy* Stn* pIn* suj;t* s'ht* sm*   
+sukr* pyRk°l* c dOÇ; TvI=≤Nt du˙≥d"   
+tto ®j;mv;“oit k;y| tN];vc;r,m(   
+îit h Sm;h .gv;n( kXyp"   
+p·r˙Ty;mm;'s' tu in≤x ney' ctu„pqm(   
+EtCΩTv; vcStQymOiWpà‰" p[hiWRt;"   
+p[xx'sumRh;Tm;n' kXyp' lokpU…jtm(   
+îit =IroTp·ˇn;Rm;?y;y Ën…v'xittm"  19
+…v'xittmoå?y;y"   
+aq;to dNtj‚Nmkm?y;y' Vy;:y;Sy;m"  1
+[KŒshyapa]
+sU]Sq;nm(  1
+9
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 10
+
+îit h Sm;h .gv;n( kXyp"  2
+aq %lu .gvn( deihn;' j;t;n;m….v/Rm;n;n;' kitWu m;seWu dNt;'
+iniWCyNte iniWˇ_;í ikyt; k;len mUtIR.v≤Nt mUtIR.Ut;í
+kdo≤∫¥Nte k;in cwW;' pUvRÂp;…, kÉ cop{v;" kíwW;mup£m"
+ikç dNtjNm p[xStmp[xSt' c ik˘ kSm;∞ Svm©m….v/Rm;n'
+p[;,s'xy;y .vit ikyNtí dNt;" kitcwW;' i√j;" ikyt; c 
+k;len pt≤Nt pitt; v; j;yNte dNts'pds'p∞ k°dOxIit  3
+aqov;c .gv;n( kXyp" -- îh %lu nO,;' √;i]'x∂Nt;" t];∑*
+s’∆;t;" SvÂ!dNt; .v≤Nt at" xeW; i√j;"  )  y;vTSvev c
+m;seWu dNt; iniWCyNte t;vTSvh" sU≤∫¥Nte  )  y;vTSvev c
+m;seWu j;tSy st ¨≤∫¥Nte t;vTSvev c vWeRWu pitt;"
+pun®≤∫¥Nte  )  t] m?ye √;vuˇr* r;jdNts'D* .vt" t* piv]*
+tSm;ˇ;>y;' %<@º n ≈;ımhRit apip]o ih s"  )  tyo®.yt"
+p;êRyorip vSt* tyorip d'∑^e xeW;" SvÂ!; h;nVy; îit coCyNte 
+tq;å/St;t(  4
+t] k⁄m;rI,;m;xutrmLp;b;/kr' c dNtjNm suiWrTv;∂÷x;n;'
+mOduSv.;v;∞ p[’∑k;lm;b;/;bÛl' tu k⁄m;r;,;m;c=te `n-
+Tv;∂÷x;n;' iSqrSv.;v;∞  )  dNt;n;' inWekmUitRTvo∫ºdvO≤ıpt-
+npun.;RvinvO·ˇiSqitp·r=yclnptndO!dubRlt; j;itivxeW;-
+…•Wek;t( Sv.;v;Nm;t;ip]ornukr,;t( SvkmRivxeW;∞eTy;c=te 
+mhWRy" tq;åNyeåip xrIrvO≤ıÓ;sgu,doWp[;du.;Rv;"  5 
+nO,;' tu ctuq;RidWu m;seWu dNt; iniWCyNte  )  t] sdNtjNm c
+[KŒshyapa]
+k;Xyp s'iht;
+10
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 11
+
+pUvRmuˇrdNtjNm c ivrldNtjNm c hIndNtt; c a…/kdNtt;
+c kr;ldNtt; c ivv,RdNtt; c Sf⁄i$tdNtt; c;m©Ly; .vit
+)  t] x;NTyq| m;®tI…mi∑' invRpet( Sq;lIp;kmn;iht;¶e" p[;j;-
+pTy…mTyekÉ tq;åNye„vip Sv;©on;…/k.;veWu tq; t´or' 
+p[x;Myit  6
+ctuivR/' tu dNtjNm;c=te s;mu{' s'vOt' ivvOt' dNts'pidit  )  t]
+s;muÌ' =…y inTys'p;t;t( s'vOtm/Ny' m≤lœ' ivvOt' vItm-
+inTyl;lophtms'z•dNtTv;d;xudNtvwv<yRkrm;s•;b;/…mit
+7
+ctuqeR tu m;…s dNt; iniWˇ_; dubRl; .vNTy;xu=…y,í;mybÛl;í
+pçme SyNdn;í p[hiWR,í;mybsul;í Wœº p[tIp;í mlg[;ih,í
+ivv,;Rí `u,dNt;í .v≤Nt s¢me i√pu$;" Sfoi$ní r;…jmNtí
+%<@;í Â=;í ivWm;ío•t;í .v≤Nt tq;å∑me m;…s svR-
+gu,s'p•; .v≤Nt  )  pU,Rt; smt; `nt; xuKlt; ≤òG/t;
+Xl+,t; inmRlt; inr;myt; ik≤çduˇro•tt; dNtbN/n;n;' c
+smt; rˇ_t; ≤òG/t; bOh√niSqrmUlt; ceit dNts'pduCyte  )
+hInoLb,…st;…st;åp[iv.ˇ_dNtbN/nTvmp[xStmOWyo vd≤Nt  )
+tt( Sv.;v;∂NtodU%lkÉWu yCzo…,t' g.eR iniWˇ_' tdev j;tSy 
+smtoå….v/Rm;nSy £me, ---
+Ek…v'xittmoå?y;y"  
+roih,I Svy©ë¢;mUl' √π h·r{e bOhtIflrsw`ORt;/Rvt( pcet(
+pCym;neåp;m;g| c;vpet(  )  …sıen k,Rp;lImhNyh≤Nt m[=yei√-
+[KŒshyapa]
+sU]Sq;nm(  1
+11
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 12
+
+mOd(nIy;∞ a;xu v/Rte pIn; sm; c p;lI .vit  )  m/UæCz∑-
+sjRrsyvvTskìr<@;NyNt/URm' dG?v; ten .Smn; m[≤=t;' k,Rp;-
+lI' ivmOd(nIy;t( a;xu vtRte pIn; sm; c p;lI .vtIit
+t] Xlok;"   
+n;….Wg[;jpu];,;mNyeW;' v; mh;Tmn;m(   
+k,;Rn( iv?yet( su%p[ePsu·rh lokÉ pr] c   
+a;mCzπdeåTyyo Á] k⁄ve/;√opj;yte   
+a….Wk™ t] mNd;Tm; ik˘ k·r„yTyx;S]ivt(   
+kd; ve?y' kq' ve?y' k⁄] ve?y' kq' Vy/"   
+ihtoåihtoåTyy" kí t];D" ik˘ p[pTSyte   
+tSm;≤∫Wk™ suk⁄xl" k,| iv?yei√c=,"   
+≤xxohRWRp[mˇSy /mRk;m;qR…sıye   
+îit h Sm;h .gv;n( kXyp"   
+îit cU@;kr,Iyoå?y;y Ek…v'xittm"  21
+√;…v'xittmoå?y;y"
+aq;t" òeh;?y;y' Vy;:y;Sy;m"  1
+îit h Sm;h .gv;n( kXyp"  2
+òeho i√yoin®ˇ_ítuivRkLpír;crsmuTq"   
+sipRmR∆vs;:y' %gmOgjljp[.vm;Û"  3
+twl;in co≤∫de>y‚StlcUtsWRp…b.It…bLve>y"   
+Er<@;t…s≤xg[um/UkmUlkkrÔe>y"  4
+[KŒshyapa]
+k;Xyp s'iht;
+12
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 13
+
+`Ottwlvs;m∆;' pUvR" pUvoR vroåNye>y"   
+mu:y' `OteWu gVy' s'Sk;r;t( svRs;TMy;∞  5
+ivinh≤Nt ipˇminl' pIt' sipR" kf˘ n c …cnoit   
+jnyit bl;…¶me/;" xo/yit xu£˘ c yoin' c  6
+¨„,' kf;inlﬂ' Svrv,Rkr' tnuiSqrIkr,m(   
+.¶CyutsN/;n' /;tuv[,xo/n' twlm(  7
+m∆;vse ivxeW;√;tﬂe vO„ys'mte cwv
+b≤ln;' tTs;TMy;n;' p[j;bl;yu" iSqrIkr,e  8
+inTy;inTy;Tmiv/* itltwl`Ote bu/" p[yuÔIt
+Er<@x…ƒnI>y;' ß'snmNy{s;yn' n;‚St  9
+m∆;vse vsNte p[;vOiW twl' ipbeCzrid sipR"   
+sipRv;R sveRW;' svR‚SmHzryte p;tum(  10
+anup;nmu„,mudk˘ `OtSy twlSy yUW…mCz≤Nt   
+m∆/syoStu m<@÷ sveRW;' kXyp" pUvRm(  11
+xUlkf;inltO„,;ih‘;rockivbN/guLmﬂm(   
+v[,/;tumOdUkr,' dIpnmu„,odkmux≤Nt  12
+p;d;vxeW…sı' t∂oWﬂw" Ít' jl' mu:ym(
+pey' kvlg[;Á' òeh' ih tq; ivl;yyit  13
+py…s d/in m/umye tUˇ_É no„,odk˘ .vet( pQym(
+ipˇe rˇ_ß;ve g.RCyvne c g.Rd;he c  14
+aodnivleipk;>y;' rsm;'s=Ird…/yv;gU…."   
+k;Mb≤lksUpyUWw" pey;xn.+yiv’tI…."  15
+òehp[yog î∑" so?v;R/" kmR…." %l;>y©¯"   
+c=uvRdn≈o]w/;Rr,yogí s;TMyDw"  16
+ipˇ;inlp[’ty" òeh' r;]* ipbeyu®„,e c   
+[KŒshyapa]
+sU]Sq;nm(  1
+13
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 14
+
+Xle„m;…/ko idvo„,e inmRlsUyeR l`uTve c  17
+tO<mUCzoRNm;d;dIn( pUvoR l.te ivpyRye, ipbn(   
+a;n;h;®…cpvR<yuCzÀl' c smOCzte xeW"  18
+òeh;Czp;ne i]iv/; tu m;];
+ÓSv;åq m?y; mhtI tOtIy;  )
+ÓSv; idn;/eRn idnen m?y;
+jIyRTyhor;]vx;t( p[/;n;  19
+dI¢;¶yo b≤ln" òehinTy;
+¨Nm;idno /Oitiv<mU]sˇ_;"  )
+guLm;idRt;í;ihd∑; ivÂ=;
+vwsipR," p[vr;' te ipbeyu"  20
+p[mehk⁄œ;inlxo…,t;®…c-
+ivc…cRk;Sfo$ivWeWu k<@*  )
+mOd* tq;å¶* p[vd≤Nt m?y;'
+ble c m?y; axne c ye Syu"  21
+b;leWu vOıeWu su%o…cteWu
+jI,Reåits;re Jvrk;syoí  )
+yeW;' ih koœo n gu,;y ·rˇ_o
+mNd;…¶k;XyeR c knIysI Sy;t(  22
+doW;nukiWR<ynus;·r,I c
+yàopcy;R blv/RnI c  )
+Jyeœ;åq m?y; n bl' inh≤Nt
+TvNyoNyqo" òehyte su%;∞  23
+ÓSv; prIh;rsu%;åivk;r;
+vO„y;åq bLy;åPynuvtRnI c  )
+[KŒshyapa]
+k;Xyp s'iht;
+14
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 15
+
+dex' vy"k;lbl;…¶s;TMy;-
+Ny;l+ym;];' mitm;n( ivd?y;t(  24
+ipˇ;inl;Tm;åinlipˇrogI
+=;m" ≤xxuvR,Rbl;yurˇ_"  )
+me/e≤N{y;qIR ivWxS]d;hw-
+r;t;R" ipveyu`ORtmev k;le  25
+p[vOımed"kfm;'sv;t;
+n;@«’…mVy;?yinl;tRdeh;"  )
+£Àr;nukoœ;StnuvIyRk;m;-
+Stwl' ipbeyunR tu tIv[k⁄œº  26
+s'xu„kmed"kfrˇ_xu£;
+v;t;tp;?v≈mr*+yinTy;"  )
+.Ox;¶yo v;tinpI…@t;©;
+vs;' ipbeyu/ORit/;tuk;m;"  27
+dI¢;¶yo `Smr;" òehinTy;"
+Klex=m;" £Àrkoœ;inl;t;R"  )
+m∆;nmeteWu ….W‚Gvd?y;t(
+òeho .veTs;TMyto ySy yo v;  28
+Vy;y;mm¥…cNt;mwquninTy;" ≈m;?v’xdeh;"   
+òeÁ;Stq;iv/;" SyubRlk;lvyo…¶s;TMyDw"  29
+n òehyeÌ….R,I' n p[sUt;'
+n =Irp' nwv dG/;itvOı*  )
+n Xle„mipˇopht;Ntr;…¶'
+mUCz;R®…cGl;in.Ox;mtO$(su  30
+bSt* n nStí iv…/i£y;y;'
+[KŒshyapa]
+sU]Sq;nm(  1
+15
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 16
+
+z¥;| Jvre iv$(p[kope kfÉ c  )
+bOhÊvj;@‰eWu gl;myeWu
+nòehyet( òehmd;TyyeWu  31
+teW;' òeh;Czp;n;Nte v/RNte Vy;/yo .Oxm(   
+as;?yn;' v; gCz≤Nt òehp;n;….v…/Rt;"  32
+v;yorp[gu,Tv' r*+y' %rt;å`OitJvRlnh;in"   
+xu„kp[…qtpurIW' l=,m≤òG/g;]Sy  33
+/OitmORdupurIWTv' me/;pu∑‰…¶tejs;' vO≤ı"   
+k;le xrIrvO·ˇ" ≤òG/Sy vd≤Nt ≤l©;in  34
+g*rvj;@‰oTKlex;?m;n;in purIWmivpKvm(   
+a®…crip p;<@utN{e vdNTyit≤òG/≤l©;in  35
+{v…mtl`U„,p•' k;le s;TMy' bl;…¶®Gyuˇ_m(   
+Sv" òehp;n…mCzn( .uÔIt xyIt gu¢í  36
+¨„,odkopc;rI …jte≤N{y" Sy;…•v;txynSq"   
+Vy;y;mvegroWTy;gI òeh;CzpoåSv“"  37
+s'≤òÁit mOdukoœo nr≤S]r;]e, s¢r;]e,   
+òeh;Czp;nyog;∆Ivk y" £ÀrkoœStu  38
+{;=;pIlui]fl;gorst¢;Mbut®,m¥;in   
+.uKTv;åq p;ys' yo mOdukoœ"ß'Syte n;Ny"  39
+ipˇbÛletr;Lp; g[h,I .vit mOdukoiœn;' tSm;t(   
+suivreCy; mOdukoœ;" p[;y" ipˇ' Á/o.;…g  40
+tO<mUz;Rmu%xoWw" xBd√πW;©mdRjOM.;…."   
+tN{Iv;Gdehs;dw" òehD;jIyRtITy;h  41
+jI,;RjI,Rivx˚« kÉvlmu„,odk˘ ipbet( t≤ı   
+¨Ì;rSy ivxu≤ı' jnyit .ˇ_;….l;W' c  42
+[KŒshyapa]
+k;Xyp s'iht;
+16
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 17
+
+twleå…/ko ivd;h" sipRiW mUCz;R vs;su ˙Ll;s"   
+m∆in g*rvmeW;' doWwrLp; p[vO·ˇStu  43
+òeh;jI,Re tO„,; xUl' p·rkitRk; c ySy Sy;t(   
+smtItjr,k;le tSy p[CzdRn' ≈ey"  44
+¨Ì;rSy ivxu≤ı" k;'=; iSqrt; l`uTvmivW;d"   
+blv;…g≤N{ys'p∆I,Re òehe blsu%e c  45
+k,;R≤=p[,bl' SmOitkÉx*js;' vO≤ı/Oitpui∑"   
+x;≤NtSt√‰;/In;' .uKTv;ånu òehpItSy  46
+ipˇ;inl;myﬂ' bSTyU®k$IdO!Ikr' vO„ym(   
+ËjRSkr' ≈mﬂ' iv¥;t( òeh;vpI@÷ tu  47
+v,RSvrme/*j"xu£;yu/ORitbl;…¶s'vO≤ı"   
+iv<mU];inlvO·ˇ" su%en s'.ojnòeh;t(  48
+Jvrp;<@uk⁄œxoq;StO<mUz;RCz¥RrockoTKled;"   
+g[h,I≤N{yop`;tStw…mTy;n;hxUl;¥;"  49
+òeh;pc;rj;Ste rog;" Svedopp;idt; yeWu   
+vmnivrecnyog; Â=;xnt£mU];¥;"  50
+m;];k;livyuˇ_" òeh" s;TMyopc;rgu,hIn"   
+yuˇ_o Vy;pdmOCzit t‚Smn( s'xo/n' pQym(  51
+òeh√πWI =;mo mOdukoœ" òehm¥inTyí   
+a?vp[j;grS]I≈;Nt; n;Cz÷ ipbeyuSte  52
+teW;m•wivRiv/w" òehSy ivc;r,; s;TMym(   
+inidRÇ; m;s;¥w" k;l;…¶vy"p[kW;R∞  53
+gu®p;n.oJym;'swguR@d…/itlx;kduG/inyURhw"   
+n òehyet( p[mehe n k⁄œkfxoWrog;t;Rn(  54
+t∂oWﬂw{RVyw" òehw" …sıwyRq;Svmivk;rw"   
+[KŒshyapa]
+sU]Sq;nm(  1
+17
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 18
+
+òeÁ;Stq;i]/;" Syu≤S]fl;sVyoWlv,;¥w"  55
+òeihtdehSy;d* SvedmnNtrmq p[yuÔIt
+sMyiKòG/æSv•wivRxo/nmnNtr' k;yRm(  56
+îit òeh;?y;yo √;…v'xittm"  22
+]yo…v'xittmoå?y;y"   
+aq;t" Sved;?y;y' Vy;:y;Sy;m"  1
+îit h Sm;h .gv;n( kXyp"  2
+sMyiKòG/Sy .gvn( kq' Sved' p[yojyet(   
+anTyy' ….WGv;le {Vy' Svedopg' c ikm(  3
+mNd;itsMyiKSv•;n;' b;l;n;' l=,' c ikm(
+k" Sve¥o n c k" Sve¥ îTyuˇ_" p[;h kXyp"  4
+Í,u Svediv…/' ’Tò' vOıjIvk tÊvt"   
+yq; b;le p[yoˇ_Vy" p[yuˇ_í yq; iht"  5
+Stw…mTyxUlk;i#NyivbN/;n;hv;Gg[hw"   
+˙Ll;s;®CylskxIt;shnvepnw"  6
+v;tXle„mo∫v' dOÇ; pOqGv; Sved î„yte   
+v;te ≤òG/" kfÉ Â=o √yo" s;/;r,o mt"  7
+b;l;n;' ’xm?y;n;' Sved a;viSqko iht"   
+xItVy;…/xrIr;,;' b;l;n;' c ivxeWt"  8
+vOW,* ˙dy' c=umORdu v; Svedye• v;   
+xepovÕ,sN/I'Stu m?ym' xeW…m∑t"  9
+k⁄mudoTplpµ;n;' p]wr;Cz;¥ locne   
+v;ss; v;åq Xl+,en b;le Sved' p[yojyet(  10
+muˇ_;vlIcN{k;NtxIt;Mbukr.;jnw"   
+[KŒshyapa]
+k;Xyp s'iht;
+18
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 19
+
+SpOxed.I+,' ˙dy' b;lSy SvedkmR…,  11
+kpURrcU,Rm;Syen /;ryet( æSv¥t" su%m(   
+fl;Mlyuˇ_' %<@÷ v; mO√«k;' v; sxkúr;m(  12
+xItg*rviv∑M.xUl;dIn;' …nvtRne
+ti√pyRy.;ve c Sved' p[;Do invtRyet(  13
+ivW;dmUCz;RtO@±d;hipˇkop;rit.[m;"   
+Svr;©h;invwR◊LymitæSv•Sy l=,m(  14
+t≤∞ikTs;' p[yuÔIt yq; vwsipR,;' tq;   
+r;gv[,ivs'D;…." ’Cz^s;?y' tm;idxet(  15
+v;tSy;p[gu,Tv' c gu®Tv' StB/g;]t;
+mNd‚Sv•e n c Gl;inStO„,;dIn;' c iv.[m"  16
+t] Sved' p[yuÔIt ….WG.Uyo ivc;ryn(   
+blk;lvyodoW;n( pQyce∑;xniSqtI"  17
+Sved;….n≤Ndt; s*:y' mOdut; rogdehyo"   
+k;le ivsOi∑" =uˇO„,; sMyk™ æSv•Sy l=,m(  18
+ipˇ;Tm; ipˇrogI c g….R,I m/umeihn"   
+=uˇO„,;xoWroW;t;R" k;mLyud·riv=t;"  19
+k;XyRm¥ivW;t;Rí .Ox;…¶it…mrßut;"   
+.[∑.¶ivdG/;©; n Sve¥;Ste kq'cn  20
+Svr.edp[itXy;yglg[h≤xro®…j   
+mNy;k,R≤xr"xUle g*rve ê;sk;syo"  21
+k⁄≤=p;êRk$IpOœiv@±g[he mU]y+m…,   
+xu£;`;te p=v/e koœ;n;hivbN/yo"  22
+ivn;m;idRtjOM.;su hnmNy;≤xrog[he   
+a©mdeR mhÊve c vepq* v;tk<$kÉ  23
+[KŒshyapa]
+sU]Sq;nm(  1
+19
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 20
+
+xItxoq;m%LvIWu p;…,p;d;©m;®te   
+a;y;m;=epxUl;d* Sved" pQytmo nO,;m(  24
+jNmp[.Oit b;l;n;' Svedm∑iv/' ….Wk™   
+p[yuÔIt yq;k;l' rogdehVype=y;  25
+hStSved" p[dehí n;@«p[Strs'kr;"   
+¨pn;hoåvg;hí p·rWekStq;å∑m"  26
+j;tSy cturo m;s;n( hStSved' p[yojyet(   
+ap[m;dI inv;tSqo iv/Um;¶‰U„m,; xnw"  27
+invtRm;ne b;lSy s*k⁄m;yeR yq;£mm(   
+p[vtRm;ne k;i#Nye teW;' Sved' p[v/Ryet(  28
+s≤Nt c;Pypre b;l;" suk⁄m;r;" sd;su%;"   
+`Ot=Ir;≤xn" kLy; Èêr;,;' mh;Tmn;m(  29
+m?ym; m?ym;n;' c d·r{;,;' c du"≤%n;m(   
+inWekdexs;TMye c t;n( iv¥;t( pi<@to ….Wk™  30
+aivxeWe, b;/Nte sveR sv;R•r;n( gd;"   
+ivxeWStu mh;n( dO∑o d≤=,;h;r.eWje  31
+dexk;lvyom;];svR®Ggu®l;`vw"   
+Svedoåit·rˇ_o hIno v; hNy;ä;l' yq; ivWm(  32
+tSm;dve+y dex;dIn( k;i#Ny' suk⁄m;rt;m(   
+≤xxo" Sved' p[yuÔIt yxo/Ny;qR…sıye  33
+glk,R≤xromNy;k,;R≤=…cbukor…s  
+a….„yNd;t( smuCzÀne p[dehSved î„yte  34
+Er<@vOW≤xg[U,;' TvKp]w" kLks;…/tw"   
+smU]bu‘lv,w" p[deh" Sy;t( su%o„m…."  35
+xItI.Ut' tu inmORJy lepyedpr;prm(   
+[KŒshyapa]
+k;Xyp s'iht;
+20
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 21
+
+anekxStu ivD;y æSv•' Sved' invtRyet(  36
+{Vywv;Rtkfﬂwí p[deh" ≤xg[uv≤ıt"   
+aNywrip krIWwí go%r;ê;ivbStjw"  37
+v'xmuÔnl;¥wí yq;yog' yq;su%m(   
+n;@«Sved' p[yuÔIt inv;te vS]s'vOtm(  38
+¨„,;n( pul;k;n;StIyR p;ys' ’sr;id v;   
+v;ss;Nt·rte b;lm>yˇ_' x;yyet( su%m(  39
+pç;©ëlo®vUk;kúp]wv;R òeihto‚„,tw"   
+p[StrSved…mTy;Ûr.I+,p·rvitRn"  40
+p;ysw" ’xrwm;|swrodnw≤S]k#orkì"   
+¨„,w" slv,òehwrMbr;St·rtw" su%w"  41
+ik<v;tsId…/=Irs'yuˇ_ì" ip<@kì" ’tw"   
+Sq;nSvedn…mCz≤Nt s˚rSved ¨Cyte  42
+ik<v;tsId…/=Irlv,w" s;Ml…c‘,w"   
+k⁄œ;id….í sòehw®pn;h" p[xSyte  43
+%r;j;iv…b@;len√«ip…s'htr=ujw"  )
+---  44
+ctu…v|xittmoå?y;y"  
+---  p[oˇ_' …cik‚Tstm(  )
+at" pçjn;t( k≤çTs'MyKxuı' p[k;iÕtm(   
+l`u' ivxdsv;R©÷ p[s•e≤N{y…mCz⁄km(   
+su%;Mbu…sˇ_sv;R©mnu≤l¢' iv.UiWtm(   
+’tpUj;nmSk;r' mnoD;snveXmgm(   
+[KŒshyapa]
+sU]Sq;nm(  1
+21
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 22
+
+pur;,rˇ_x;lIn;' m<@pUv;| sus;…/t;m(   
+yv;gU' i]"ßut;mu„,;' dIpnIyops'S’t;m(   
+.ojye¥uˇ_lv,;' Â=;' yuˇ_;≤xto .vet(   
+.ojneWu su˙¥eWu su/*te„vpr;…kÉ   
+≤xroll;$˙d(g[Iv;vOW,e s;=xƒkÉ   
+Svedíet( pItm<@Sy sMyKxuı' tm;idxet(   
+¨Ì;rv;tkmR>y;' ivxuı;>y;' idne idne   
+in®p{vpui∑>y;' sMyKxuı' ivinidRxet(   
+su%oiWt' jI,R.ˇ_' i√tIyeåhin .ojyet(   
+yv;gU' tu tOtIyeåiˆ d¥;dSmw ivleipk;m(   
+dIpnodks'…sı;' Â=;mu„,;' sswN/v;m(   
+ctuqeR muÌm<@" Sy;dodní sus;…/t"   
+pur;,rˇ_x;lIn;' .O∑;n;' v; ’x;Tmn"   
+inStuW;,;' c muÌ;n;' m<@" Sy;duˇ_veW,"
+ÈWTfl;Ml" ktRVyo muÌm<@oåiˆ pçme   
+ÈWTòeh" ’t" Wœº s¢me c iv/Iyte   
+j;©l;n;' rs' …sı' tnuk˘ m;'sv…jRtm(   
+idneå∑meåq nvme d¥;t( òeh;Lps'S’tm(   
+dxmwk;dxe c;iˆ lv,òehs'S’t"   
+fl;Ml…sıo yuˇ_o„," xSyte rsk*dn"   
+[KŒshyapa]
+k;Xyp s'iht;
+22
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 23
+
+¨„,odk;nup;n* tu Sy;t;' v;tkf;Tmk*   
+tt ¨ˇrk;l' tu .oJys'sgR î„yte   
+EW;' m<@;ids'sgoR svRVy;…/i£yopg"   
+En' Vy….crNmoh;∂;®,;\Ll.te gd;n(   
+Jvr;mk;ml;p;<@uk,Rk⁄œgl;my;"   
+ih‘;its;rêyquk;s;¥; Vy….c;rj;"   
+xUl;itsr* xuıSy xItp;n;•sevn;t(   
+xoqodrJvr; aMl.Oxòehidv;xy;t(   
+k;'=; bu.u=; vwx¥' l`ut; iSqrt; su%m(   
+SvSqvOˇ;nuvO·ˇí sMyGjI,;R•l=,m(   
+ivW;do g*rv' tN{I Xle„msek;rit.[m;"   
+SvSqvOˇopro/í tdjI,RSy l=,m(   
+a;m' ivdG/' sXle„m rsxeW' tqwv c   
+ctuivR/mjI,| tu tSy v+y;…m l=,m(   
+yq;.uˇ_' .ved;me /UmoÌ;r* ivd;ihin  
+sXle„m…, gu®Tv' tu rsxeWe tu ˙∂^v"   
+tN{IxUl;ritGl;intOÆ@±vd;h;®…c.[m;"   
+a©mdRJvr;n;h;" sveR„vPyLpxo gd;"   
+svwRrs;?ytoT’∑w" £mxo y;Pys;?yte   
+s;?y;n;' s;/n' yˇu tNme p[vdt" Í,u   
+[KŒshyapa]
+sU]Sq;nm(  1
+23
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 24
+
+a;mSyoır,' pQy' ivdG/e p[;vOt" Svpet(   
+sXle„m…, .vet( Sved" p·rxo„yo rs;…/kÉ   
+yduˇ_' pQymxn' tdevwteWu xSyte   
+dI`Rk;l*W/;n;' tu muÌm<@" sd;…@m"   
+sòehlv,VyoW" peyo m;'srsoåip v;   
+b;lmUlkyUWo v; iht" x;LyodnStq;   
+…cik‚Tst' pçjn;n( r;Do r;jopmSy v;   
+/inn;' in/Rn;n;' v; yq;qRmupkLpyet(   
+blﬂ' doWxmn' blv,Rsu%;vhm(   
+sMyk™ s'xo/n' ’Tv; dI`Rm;yurv;“ute   
+îit h Sm;h .gv;n( kXyp"  
+îTyupkLpnIyoå?y;yítu…v|xittm"  24
+pç…v'xittmoå?y;y"
+aq;to vedn;?y;y' Vy;:y;Sy;m"  1
+îit h Sm;h .gv;n( kXyp"  2
+¨p;Sym;nmOiW…." kXyp' vOıjIvk"   
+coidto d;®v;hen vedn;qeRå>ycodyt(  3
+b;lk;n;mvcs;' iviv/; dehvedn;"   
+p[;du.URt;" kq' vw¥o j;nIy;Ll=,;qRt"  4
+îit pO∑o mh;.;g" kXypo lokvOıp"
+p[ov;c vedn;StSmw k;r,wb;Rldehj;"  5
+[KŒshyapa]
+k;Xyp s'iht;
+24
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 25
+
+.Ox' ≤xr" SpNdyit inmIlyit c=uWI
+avkÀjTyritm;nSv“í ≤xro®…j  6
+k,*R SpOxit hSt;>y;' ≤xro .[myte .Oxm(   
+arTyrock;Sv“wj;RnIy;t( k,Rvedn;m(  7
+l;l;ßv,mTyq| Stn√πW;ritVyq;"   
+pItmuiÌrit =Ir' n;s;ê;sI mu%;mye  8
+pItmuiÌrit StNy' iv∑‚M.Xle„msevnm(   
+ÈWJJvroå®…cGl;Rin" k<#vedny;åidRte  9
+l;l;ß;voå®…cGl;Rin" kpole êyquVyRq;
+mu%Sy ivvOtTv' c j;nIy;d…/…j…◊k;m(  10
+Jvr;®…cmu%ß;v; in∑ne∞ glg[he   
+k<@ÜkÉ êyqu" k<#π Jvr;®…c≤xro®j"  11
+muÛnRmyteå©;in jOM.te k;ste muÛ"
+/;]Im;lIyteåkSm;t( Stn' n;Ty….nNdit  12
+p[ß;vo„,Tvvwv<yRe ll;$Sy;itt¢t;   
+a®…c" p;dyo" xwTy' Jvre Syu" pUvRvedn;"  13
+dehvwv<yRmritmRu%Gl;inrin{t;   
+v;tkmRinvO·ˇíeTytIs;r;g[vedn;"  14
+Stn' VyudSyte r*it coˇ;ní;v.Jyte   
+¨drStB/t; xwTy' mu%Svedí xU≤ln"  15
+ain…mˇm.I+,' ySyoÌ;r" p[vtRte   
+in{;jOM.;prItSy zidStSyopj;yte  16
+in∑nTyurs;åTyu„,' ê;sStSyopj;yte   
+akSm;Nm;®toÌ;r" ’xe ih‘; p[vtRte  17
+Stn' ipbit c;Tyq| n c tO„yit roidit   
+[KŒshyapa]
+sU]Sq;nm(  1
+25
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 26
+
+xu„k*œt;luStoyePsuduRbRlStO„,y;åidRt"  18
+ivx;lStB/nyn" pvR.ed;ritKlmI   
+s'®ımU];inliv$( ≤xxur;n;hvednI  19
+akSm;dØhsnmpSm;r;y kLpte  
+p[l;p;ritvw…cÊyw®Nm;d' copl=yet(  20
+romhWoRå©hWRí mU]k;le c vedn;
+mU]’Cz^π dxTyoœ* b‚St' SpOxit p;…,n;  21
+g*rv' bıt; j;@‰mkSm;NmU]ingRm"
+p[mehe m≤=k;k;Nt' mU]' êet' `n' tq;  22
+bıpKvpurIWTv' srˇ_' v; ’x;Tmn"
+gudin„pI@n' k<@Ü÷ tod' c;xR…s l=yet(  23
+sxkúr;itmU]Tv' mU]k;le c vedn;
+p[tt' roidit =;mSt' b[Uy;dXmrIgdm(  24
+rˇ_m<@lkoTp·ˇStO„,; d;ho Jvroårit"
+Sv;duxItopx;…yTv' ivspRSy;g[vedn;"  25
+dÁNteå©;in sUCyNte .JyNte in∑nTyit   
+ivsU…ck;y;' b;l;n;' ˙id xUl' c v/Rte  26
+≤xro n /;ryit yo ….¥te jOM.te muÛ"  
+Stn' ipbit n;Tyq| g[…qt' zdRyTyip  27
+ivW;d;?m;n;®…c….ivR¥;dlsk˘ ≤xxo"
+ivsU…ck;lskyoduRD;Rne l=,*W/e  28
+dOi∑Vy;k⁄lt; todxoqxUl;≈rˇ_t;"
+su¢Sy cop≤lPyNte c=uWI c=ur;mye  29
+`WRTy©;in xyne roidtICzit mdRnm(
+xu„kk<@±våidRt' iv¥;ˇtí;{;R p[vtRte  30
+[KŒshyapa]
+k;Xyp s'iht;
+26
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 27
+
+su%;yte mO¥m;n' mO¥m;n' c xUyte
+xUn' ßvit sSyo!; m;{;Ry;' xUld;hvt(  31
+Stw…mTym®…cinR{; g;]p;<@ukt;årit"  
+rm,;xnxYy;dIn( /;]I' c √πi∑ inTyx"  32
+aò;t" ò;tÂpí ò;tí;ò;tdxRn" 
+a;mSywt;in Âp;…, iv¥;√w¥o .iv„yt"  33
+n;>y;' smNtt" xoq" êet;≤=n%v£t;
+p;<@urogeå…¶s;dí êyquí;≤=kÀ$yo"  34
+pItc=unR%mu%iv<mU]" k;ml;idRt"
+¨.y] in®Ts;ho n∑;…¶®…/rSpOh"  35
+mUCz;Rp[j;grCzidR/;]I√πW;rit.[mw"
+iv];so√πgtO„,;….ivR¥;ä;le md;Tyym(  36
+muÛmRu%enoCz™v…sit pITv; pITv; Stn' tu y"
+ßvto n;…skÉ c;Sy ll;$' c;….tPyte  37
+ßot;'Sy.I+,' SpOxit pInse =*it k;ste
+¨ro`;te tqwv Sy;…•∑nTyurs;å…/km(  38
+SvSqvOˇpro b;lo n xete tu yd; in≤x
+rˇ_…bNdu…ct;©í iv¥;ˇ' jNtuk;idtm(  39
+yd; tu l≤lt; /;]I su≤%nI svR.o…gnI
+pXyTy.I+,' du"Sv“' Svy' =Ir' p[vtRte  40
+b;lo ivSmrte c;Sy;" shs;˚;t( ptTyip
+as∆nen s'sg| y;it s'.ojn' tq;  41
+mOt;pTy;vk°,;R…." prvOı‰sih„,u…."
+am©l;in `or;…, pXyTy;crteåip c  42
+sevte ivprIt;in mOTyu' codyte ≤xxo"
+[KŒshyapa]
+sU]Sq;nm(  1
+27
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 28
+
+su¢e ≤xx* inlIyNte p≤=,o d;®,ody;"  43
+iv@;lo lÏyTyen' pr/Um' c …j`[it
+pr;vt;r,b≤l' p[e=te lÏyTyip  44
+dugRN/dehv£Tv' n;…sk;g[e mlo∫v"
+a˙¥rˇ_m;Ly;n;' m;t;pu]inWev,m(  45
+.Sm;©;rtuW;dIn;m…/roh,sevnm(
+roidTykSm;T]sit z;y;xIlivpyRy"  46
+aLp;≤xtoåitiv<mU]STviv<mU]o ivpyRye
+.iv„yt;' in…mˇ;in g[h;,;' vedn;í t;"  47
+n y" ≤xro /;ryit ≤=pNTy©;in dubRl"   
+ê;s;?m;nprIt;>y;mNtv∞opl+yte  48
+ivno¥m;no bÛ/; ivnod' n;….nNdit
+tO$(p[mIlkin{;tR" kÀjTyip kpotvt(  49
+pI@‰m;nSy Âp;…, JvrCz¥Rits;·rWu
+vw¥o dOÇŸv j;nIy;t( ’Cz^' sv| n …s?yit  50
+îTyet; iviv/;" p[oˇ_; vedn; b;ldehj;"
+p[;yo∫v;n;' rog;,;' kXypen mhiWR,;  51
+teW;' …cik‚Tst' Sv' Svmiv®ı' yq;£mm(
+dOÇ; …cik‚TstSq;ne doWtí;>yup£met(  52
+îit h Sm;h .gv;n( kXyp"   
+îit vedn;?y;y" pç…v'xittm"  25
+WÆ@±v'xittmoå?y;y"
+aq;t…íikTs;s'pdIym?y;y' Vy;:y;Sy;m"  1
+îit h Sm;h .gv;n( kXyp"  2
+[KŒshyapa]
+k;Xyp s'iht;
+28
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 29
+
+…cikTs;s'p¥qopp¥te tmup;ymnuVy;:y;Sy;m"  )  cTv;r" %lu
+p;d;…íik‚TstSyopp¥Nte  )  te yd; gu,vNt ¨pp¥Nte td; s;?yo
+Vy;…/n;RitvtRte  )  t¥q;-….Wk™ .eWjm;tur" p·rc;rk îit  3
+t] ….Wk™ sutIqoR Ny;yen;WRD;np[;¢o ivD;nv;nnekxo dO∑km;R
+ividt…sıyogo d=o d≤=," xu…crnuıtveW" svR.UteWu bN/u.Ut"
+…s≤ım;n( /m;RqRdxIR sTydy;d;n;jRvinrto devi√jgu®…sı;n;'
+pUj…yt; c;….gNt; coˇroˇrp[itp·ˇk⁄xlo gu®vOısevI Ny;y;-
+….invexI Vypgt.ylo.moh£o/;nOtoåpwxuNyoåm¥l*Ly" sumu-
+%í;VysnI ceit  4
+t] .eWjs'pt( -- su.Um* j;t' k;le coıOt' k;le coTp•m( aiv-
+k;·r a…¶toyjNtuiv<mU]jr;id….rnupht' tˇ{ogyoGy' £me, 
+iv…/vdupp;idt…mit  5
+t];turs'pt( -- s;?yrogt; sÊvblbu≤ıxrIre≤N{y/Oittejs;'
+d;!‰| ind;npUvRÂp;t˚op{vy;]opxy;nupxy;n;' yq;vd;-
+:y;n' /;}y; v; ≈∂/;nt; devi√jgu®….WG.eWjsu˙d;m….-
+nNdnm;‚StKy' ivnyp[/;nt; yqoˇ_k;·rTv' v≤xTv' ceit  6  
+t] p·rc;rks'pt( -- ivpKvkW;yt; a;roGy' x·ˇ_" .tOR.·ˇ_"
+¨pc;rDt; d;+y' x*cm( a;xuk;·rTv' svRkmRsu k*xlm(
+a`O…,Tvm( a=u{pu]Tvm√wiv?y' dmo …jt£o/;idt; sih„,ut; 
+ceit  7
+[KŒshyapa]
+sU]Sq;nm(  1
+29
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 30
+
+t] Xlok;"
+aSy p;dctu„kSy mNyNte ≈eœm;turm(
+tdq| gu,vNto ih ]y" p;d; îhe‚Pst;"  8
+neit p[j;pit" p[;h ….WÑÜl' …cik‚Tstm(
+….WGvxe i]vgoR ih …s≤ıí ….W…j iSqt;  9
+s yun·ˇ_ p[yu¤π c x;‚St c D;nc=uW;
+tSm;JD;ne sivD;ne yuˇ_" ≈eœtmo ….Wk™  10
+yd; ctu,;| p;d;n;' s'p∫vit jIvk
+td; /m;RqRyxs;' vw¥o .vit .;jnm(  11
+îit h Sm;h .gv;n( kXyp"  
+îit …cikTs;s'pdIyoå?y;y" WÆ@±v'xittm"  26
+s¢…v'xittmoå?y;y"
+aq;to rog;?y;y' Vy;:y;Sy;m"  1
+îit h Sm;h .gv;n( kXyp"  2
+Eko rogo ®j;kr,s;m;Ny;idit .;gRv" p[mit" √* rog*
+injí;gNtuíeit v;yoRivd" ]yo rog;" s;?yy;Py;s;?y; îit
+k;˚;yn" cTv;ro rog; a;gNtuv;tipˇkfj; îit ’„,o .;r√;j"
+pç rog; a;gNtuv;tipˇkfi]doWj; îit d;®v;ho r;jiWR"
+W@^og;" W@^sTv;d•p;nSyeTyOiWWŒ" s¢ rog; v;t;¥ekìk-
+i√i]doWj; îit ihr<y;=" a∑* rog; v;t;¥ekìki√i]doW;-
+gNtuin…mˇ; îit vwdeho in…m" ap·rsƒ‰ey;" smhIn;…/k-
+doW.ed;idit vOıjIvk" EvmnvSq;nmupl>y;h .gv;n( k-
+[KŒshyapa]
+k;Xyp s'iht;
+30
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 31
+
+Xypo √;vev %lu rog* injí;gNtuí t;vnekivStr;ivit  3
+hetup[’Ty…/œ;nivkLp;ytn;qRt"
+Dey; rog; asƒ‰ey;…íikTs;n;' c ivStr;t(  4
+a…/œ;n√y' teW;' xrIr' mn Ev c   
+m;ns;n;' c rog;,;' k⁄y;RCz;rIrvt( i£y;m(  5
+/;tuSqU,;TmvwWMy' t∂u"%' Vy;…/s'Dkm(
+/;tuSqU,;Tms;My' tu tTsu%' p[’ití s;  6
+aVy;htxrIr;yur….v/eRt v; kqm(
+îTyq| .eWj' p[oˇ_' ivk;r;,;' c x;Ntye  7
+inj;gNtuin…mˇ; c i√iv/; p[’tI ®j;m(
+n%dNt;…¶p;nIyv/bN/;…/devt;"  8
+x;p;….c;r;d;gNtuinRj; v;t;idhetv"
+v;tipˇkf;n;' tu dehe Sq;n;in me Í,u  9
+svRg;n;mip st;' p[;y" Sq;n' c kmR c
+a/on;>yiSqm∆;n* v;tSq;n' p[c=te  10
+ipˇSy;m;xy" Svedo rˇ_' sh lsIky;
+med" ≤xr ¨ro g[Iv; s‚N/b;RÛ" kf;≈y"  11
+˙dy' tu ivxeWe, Xle„m," Sq;nmuCyte
+a;mpKv;xy* Sq;n' ivxeW;t( ipˇv;tyo"  12
+a;gNtub;R/te pUv| pí;∂oW;n( p[p¥te
+injStu cIyte pUv| pí;√éı" p[b;/te  13
+tSm;d;gNturog;,;…m„yte injvt( i£y;
+inj;n;' pUvRÂp;…, dOÇ; s'xo/n' ihtm(  14
+˙id Xle„m;nupÆXl∑m;Xy;v' rˇ_pItkm(
+[KŒshyapa]
+sU]Sq;nm(  1
+31
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 32
+
+tdojo v/Rte jNtuSt√éı* =Iyte =ye  15
+m/ur≤òG/xIt;in l`Uin c iht;in c
+aojso v/Rn;Ny;ÛStSm;ä;l;'Stq;ååxyet(  16
+vO≤ıvR,Rbl*jo…¶me/;yu"su%k;r,m(
+v;t;ids;My' vwWMy' ivk;r;yopkLpte  17
+teW;mp·rmey;n;' ivk;r;,;' Svl=,w"
+a;iv„’ttm;n( Vy;/In( yq;SqUl;n( p[c+mhe  18
+axIitv;Ritk; rog;íTv;·r'xˇu pw·ˇk;"
+…v'xit" kfj;" p[oˇ_; v;trog;…•bo/ me  19
+p;d.['x" p;dxUl' n%.edo ivp;idk;
+p;dsui¢v;Rt%u@o v;tguLfoåinlg[h"  20
+gO/[sIipi<@ko√π∑* j;nuivXleW.edk*
+Ë®StM.o®s;d* c p;©ëLy' v;tk<$k"  21
+gud.['xo gud;itRí vOW,;=epkStq;
+xef"StM." ≈o…,.edo v'=,;n;hiv@±gd*  22
+¨d;vtoRåq k⁄BjTv' v;mnTv' i]kg[h"
+pOœg[h" p;êRxUlmudr;ve∑˙∂^v*  23
+˙Nmoho v=sStodo v=o´WoRpro/k*
+g[Iv;StM.o b;ÛxoW" k<#od(?v'so hnug[h"  24
+dNtc;l*∑.ed* c mUkTv' v;Gg[hStq;
+kW;y;Sy;SyxoW* c `[;,n;xo rx;Dt;  25
+b;…/yRmu∞w" ≈v,' k,RxUlmxBdt;
+vTmRs'kociv∑M.* it…mr' xUlm≤=Wu  26
+Vyud;so .[uVyud;sí xƒ.ed" ≤xro®j;
+Sf⁄$n' kÉx.Umeí d<@k;=e pkoåidRtm(  27
+[KŒshyapa]
+k;Xyp s'iht;
+32
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 33
+
+Ek;©k" p=v/" ≈m.[mivjO‚M.k;"  
+p[l;po vepquGl;RnI r*+y' in{;p·r=y"  28
+Xy;v;®,;v.;sTvmnvSq;nmev c
+ih‘;ê;s* ivW;dí vN?y;Tv' W;<!‰mev c  29
+p[itXy;y" xr<yí p[;/;Nyen;inl;Tmk;"
+te„vnuˇ_ÉWu c;NyeWu v;yo" Sv' ÂpmuCyte  30
+xwTy r*+y' l`uTv' c gitíeTyq kmR c
+ivxd;®,p;®„ysui¢s'kocvwrsm(  31
+xUltodkW;yTvx*iWyR%rkMpnm(   
+s;dhW*R k;XyRvtRVy;sß'sn.ednm(  32
+¨√π∑d'x.©;í xoWí;inlkmR tt(
+m/ur;Mlo„,lv,St]op£m î„yte  33
+aoW" PloWo .[mo d;ho vmqu/URmk;Mlk*
+aNtd;Rho JvroåTy*„<ymitSvedoå©d;hk"  34
+TvGd;h" xo…,tKledo m;'sKledoå©xIyR,m(
+m;'sp;kímRdlo rˇ_ivSfo$m<@le  35
+rˇ_ipˇ' c ko#;í k+y; h;·r{nIlkÉ
+k;ml; itˇ_vK]Tv' rˇ_gN/;Syt; tq;  36
+atOi¢" pUitvK]Tv' jIv;d;n' tmStOW;
+me!^p;yugl;+y;Syp;ko h;·r{mU]iv$(  37
+îit p[/;n;" ipˇ;TyR" Sv' Âp' tSy v+yte
+l;`v' tw+<ym*„<y' c v,;R" xuKl;®,;dOte  38
+vwgN?y' k$uk;MlTvmIWTòehí ipˇj;"
+d;ho„,p;kp[Svedk<@Üko#ßv;id…."  39
+iv¥;t( ipˇivk;r;t| kmwRtt( tdup£m"
+[KŒshyapa]
+sU]Sq;nm(  1
+33
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 34
+
+kW;yitˇ_m/uròehß'snxoW,;"  40
+Stw…mTy' gu®t;å©Sy in{;tN{;ittO¢y"
+mu%m;/uyRs'ß;vkfoÌ;rbl=y;"  41
+˙Ll;soåq ml;…/Ky' /mnIk<#lepk*  42
+a;m' c glg<@í viˆs;d ¨ddRk"
+êet;v.;st;©;n;' tq; mU]purIWyo"  43
+kfj;n;ms:y;n;' p[/n;" p·rk°itRt;"
+òhxwTygu®êetm;/uy| kfl=,m(  44
+Xl+,t; c;myoTpˇ* tSy km;R…, c=te
+òeh;id …crk;·rTv' bN/opcysu¢y"  45
+iv∑M.íeit t] D" kW;yk$uitˇ_kì"
+Â=o„,wí;PyupcreNm;];k;l* ivc;ryn(  46
+òehSvedopc;r* c teWu km;R…, pç c
+v;tﬂ;n;' tu sveRW;mnuv;snmuˇmm(  47
+ipˇﬂ;n;' ivrekí vmn' Xle„m`;itn;m(
+yeW;' …cik‚TstSq;nmqeR tu p·rk°itRtm(  48
+t;'Stu rog;n( p[v+y;…m n Á]wtt( sm;Pyte
+mh;gdoåq s'Ny;s Ë®StM.St Ekx"  49
+Jvrv[,;mgO/[Sy" k;ml; v;txo…,tm(
+ax;|Syip tq;ååy;mo i√iv/; Vy;/yStu te  50
+v;t;sO…Kê]xoq;Stu i]iv/;" p·rk°itRt;"
+g[h<y≤=ivk;r;í k,Rrog; mu%;my;"  51
+apSm;r;" p[itXy;y" xoW;,;' hetvo md;"
+ctuivR/;Ste inidR∑; mUCz;R KlwVy;in cwv ih  52
+tO„,;CzidRê;sk;sguLmPlIh;®…cVyq;"
+[KŒshyapa]
+k;Xyp s'iht;
+34
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 35
+
+ih‘oNm;d≤xrorog; ˙{og;" p;<@us'Dk;"  53
+Ete pçiv/;" p[oˇ_;" WÆ@±v/;nip me Í,u   
+¨d;vt;R atIs;r;" svwsp;R aq;my;"  54
+meihn;' ip@k;" k⁄œ' s¢ s¢opl=yet(
+xu£doW;" pyodoW; mU];`;todr;…, c  55
+a∑;v∑* vdNTyet;n( g[h;Stu dx k°itRt;"
+yoinVy;pT’…mmeh;n( …v'xit …v'xit' ivdu"  56
+Ete sm;st" p[oˇ_;…íikTs;Sq;nhetv"
+pUvoR∫vin…mˇen yoåpro j;yte gd"  57
+tmup{v…mTy;ÛrtIs;ro yq; Jvre
+…cik‚Tst' tqoTp·ˇ' teW;mekÉ p[c=te  58
+¨p{v;,;…mTyekÉ pUv| neTy;h kXyp"
+¨.y]wv y¥uˇ_' p;n.ojn.eWjm(  59
+x;Ntye tt( p[yuÔIt n v/eRte tq; Áu.*
+y' v; tIv[tr' pXye√‰;…/' iv√;n( Svl=,w"  60
+tmevop£met;d* …s≤ıSk;mo ….WGvr"
+yo hetu" ipˇrog;,;' rˇ_j;n;' s Ev tu  61
+xo…,t' k⁄ipt' jNtu' ÆKlXn;it bÛ….mRu%w"  62
+vwv<yRs't;p≤xro≤=rogd*bRLyd*gRN?ytm" p[vex;"   
+vwspRiv{?yup…j◊guLmrˇ_p[mehp[dr;itin{;"  63
+mNd;…¶t; ßots;' pUit.;v"
+Svr=y" Svedmd;inl;sOk™  )
+tO„,;å®…c" k⁄œivc…cRk;í
+k<@±v" sko#;" ip@k;" sk<@v"  64
+aNye c rog; iviv/; anuˇ_;-
+[KŒshyapa]
+sU]Sq;nm(  1
+35
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 36
+
+Ste„v;idt" ß'snmev pQym(  )
+vwsvRp∞;] vdnit …sı'
+rˇ_;vsek˘ c ivxoW,' c  65
+n Tvev b;lSy ivxoW,' iht'
+nwv;its'xo/nrˇ_mo=,e  )
+≤òG/w" suxItwmR/urwrd;ih….St-
+]opc;roåxnlepsecnw"  66
+îit h Sm;h .gv;n( kXyp"
+îit rog;?y;y" s¢…v'xittm"  27
+a∑;…v'xittmoå?y;y"
+aq;to l=,;?y;y' Vy;:y;Sy;m"  1
+îit h Sm;h .gv;n( kXyp"  2
+.gv\Ll=,wb;Rl; a;yu„mNto .v≤Nt kì"  
+su≤%no du"≤%n" kì" kìvwR¥o iv¥;dn;yuW"  3
+kit sÊv;in mTy;Rn;' sÊv;n;' l=,' c ikm(
+p[xSt' in≤Ndt' dehe y¥ˇˇ…/aoCyt;m(  4
+pç;vd;nvcn' ≈uTv; p[ov;c kXyp"
+’Tò' l=,ivD;n' sÊv' in≤NdtpU…jtm(  5
+îh %lu k⁄m;r;,;' vOıjIvk ≤òG/tnuXl+,t;m[; n%;
+a;…/pTy;y .v≤Nt SqUl; a;c;y;R,;' r;jImNtí dI`;Rí;yu„mt;'
+inªxu·ˇ_tuW;’tyo d·r{;,;' Â=; du"%.;…gn;' pu≤„pt; lu<#;n;'
+êet; m<@l; an;yuW;' Sf⁄i$t; aSvtN];,;' ivv,;R Vysinn;'
+smu•t; inip<@;Nt; aLp;" su%.;…gn;' ivpulwnR%wmR?yTvm;h
+[KŒshyapa]
+k;Xyp s'iht;
+36
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 37
+
+SqUl;" êet; ivWm;í p[v[;jy≤Nt  )  p;dw" pInw" sup[itiœtwÂ?vR-
+le%wr;yu„mNto /nvNtoå…/pty" Sv‚Stkl;©lkmlxƒc£-
+hygjrqp[hr,m©l;i˚tw r;j;n" t;m[w" ≤òG/w" su.g;" ¨Tk⁄$-
+kìmR?y/n;yuW" êetwr/n;" ale%w" prkmRkr;" bÛle%w ro…g,"
+suvOˇXl+,p;‚„,R…." svRgu,opp•; .v≤Nt hInp;‚„,R….rn;yuW"
+p[j;hIn;" …cip$;" p;rd;·rk;"  )  a©ëlIn%p;dwdIR`RwdIR`;RyuWo
+ÓSvwÓRSv;yuW"  )  a©ëlI….`Rn;…..;RGyvNto gU!pv;R…..oR…gn"
+SqUlpv;R….r;c;y;‹" lomx;….r/n;"  )  %rp®WtnuivWmSf⁄i$-
+tm'≤ln; p;‚„,r p[xSt;  )  ¨ˇrp;dmu•tm…srmlomk˘ p[xSyte
+ivWm' ivprIt c tSkr;,;m(  )  guLf* gU!;vLp;vlom…sr*
+p[xSyete /nn;x;yoLv,* ivpul* p·rKlex;y  ) p[jÏ; tNvI
+p[xSyte SqUl; pitpu]{Vysu%=ykrI Sten;y c  )  jÏπ c;nuäıe
+a…sre alo…mkÉ p[xSyete xu„kSqUl…sr;lomxe ivprIte
+vw/Vyky*R tu n;rI,;m(  )  j;nunI c gU!º /Nye  )  ËÂ m;'sop…ct*
+gU!…sr* Xl+,* p[xSyete  )  ‚Sfc* invORˇ;vlMb* inv[R,;blo-
+mx;vivWm* p[xSyete xu„k;vnpTy;n;' lMb* p[/;nn;x;y
+mh;Nt* p*'íLy;y aLpk* xIlvt;m(  ) k⁄k⁄Ndr* gM.Ir;v-
+lomx* p[iv.ˇ_* sm* p[xSyete lomx* p[v[Jy;yw p[d≤=,;vt*R tu
+/Ny* ivpul* dI`;RyuW;' ÆXl∑;vn;yuW;m(  )  j`nmurs; tuLy' p[x-
+Syt îTyekÉ  )  k⁄m;r;,;murStu ivx;ltr' j`n' tu k⁄m;rI,;' n tu
+m?y;y kLpte  )  vOW,* p[lMb* bOht* g*rSy ’„,* ’„,Sy g*r*
+rˇ_Sy Xy;m* Xy;mSy rˇ_* lomx* m?y* SmOt* pIn* p[xSyete
+ivprIt* d*.;RGypuSTvp[j;h;inkr* SvLp;vn;yuW;' du"%;y cwkÉ
+go%rhy;j;ivk;’tI tu su.g;n;m;yu„mt;' c ivDey*  )  p[jnn'
+mOdu dI`RmuæCz^t' bOhˇ;m[invORˇm…, mh;kox' mh;ßot" p[xSyte
+[KŒshyapa]
+sU]Sq;nm(  1
+37
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 38
+
+tnu ÓSv' l‚Mb ivkox' êetXy;vivsOt' v;m;vOˇmp[xStm(  )
+mU]mn;ivımtnukmnLpmOjuveg' p[xSyte ti√prItmitg‚N/
+svednmTyu„,' ivv,Rmin…mˇk;lmxBdmp[xSt' kNyk;n;' c
+Sf;≤ltmU]Tvmu.yov;RånpTykrm(  )  yoin" xk$;’itrpTy-
+l;.;y pIn; s*.;Gy;y lMb;åpTyv/;y m<@l; Vy….cr,;y
+¨æT=¢;ånpTyTv;y sUcImu%I d*.;RGy;y .OxivvOts'vOtxu„k;
+lMb; ivWm; iv≤l©; Klexl;.;y m?yin…b@; kNy;p[jnn;y
+¨•t; rm,Iy; m;'sl; pu]jNmne VyÔnvtI c /Ny; aitlomx;
+vw/VykrI VyÔnhIn; Tvyxse ipPlum√s;vtI Vy….c;r-
+p[v[Jy;yw  )  tqwv lomr;Jyu.yto m?ym;gt; n;it`n; p[xSyte
+vw/Vy;y;itSqUl; aitSqUl`nlom; p*'íLy;y a/oj;t; d*.;R-
+Gy;y n;….mitvOˇ; m?yTv;y  )  k⁄=I smu•t* p[xSyete lomx*
+p[v[Jy;yw …sr;l* k⁄.ojn;y inª* d;·r{‰;y sm* m?yTv;y
+d≤=,o•t* pu]jNmne v;mo•t* ivprIt*  )  ÈWdu•tmudrm≤x…q-
+lmki#nmivpul' p[xSyte d;·r{‰;y xu„km( ¨•t' .og;y
+ivx;livWm' ivWmxIl.og;y kLpte .Oxxu„kmnpTy' ≤S]y;-
+í;/St;dup…ctm…srmitivpulmv≤lkmn;yuWe m?y' n;.e®p·r-
+∑;dn;yuWe Ekv≤lk˘ /Ny' i√v≤lk˘ bu≤ıl;.;y i]v≤lk˘
+s*.;Gy;y ctuvR≤lk˘ p[j;yuWe bÛv≤lkm/Nymn;yuWe .v-
+Tyudrm(  )  n;…." gM.Ir; p[d≤=,; vOˇoTsi©nI lom…sr;-
+vtRv…jRt; p[xSyte gt;R’itrnu•t; su%du"%krI ivWme•t;-
+ån;yu„y; SvLp;’itrnpTy; ivdexSq; p[v[;jyit bOhtI
+gM.Iro•t;åå…/pTy;y  )  n;>y; p;yuVy;R:y;t"  )  p;êeR vOˇe
+m;'sle ≤òG/e alom…sre p[xSyete lom…sre p[v[;jyete  )  pOœ'
+smmup·rivx;lm…srmlomkmn;vtRk˘ p[xSyte m?ye inª-
+[KŒshyapa]
+k;Xyp s'iht;
+38
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 39
+
+m;yu„mt;' in.uR¶' du"%.;…gn;' s'≤=¢mn;yuW;' lomxmmw];-
+,;mLp;pTy;n;' c  )  lomSkN/o v…,G.;rjIvI iktvo r©jIvI
+v; xu„k;'so d·r{" t;vu.* dI`;RyuW* kd;…ct( p[v[jet;mip
+≤òG/;'s" kWRk" pIn;'s" a;!‰" ki#n;'s" xUr" ≤x…q-
+l;'soåsˇ_" ¨•t;'s" pum;n( p[xSyte .[∑;'s; kNy; ivprIte
+tÌu,h;in"  )  k=;vu•t* pOqul* pIn* suVyÔn* p[xSyete
+ivprIt;v/Ny* .Oxlomx* c n;rI,;m(  )  tq; b;Ù a;nupUVyoR-
+p…ct* gU!;ràI dI`*R j;nuSpOx* p[xSyete …sr;tt;v;yu„mt;'
+p+mvNt* p[j;vt;m( a…sr;vp[j;n;' ityRÆKsr* ’Cz^jIivn;'
+itlvNt*  )  p[v[;jyt" mxkl=,vNt* klh;y  )  m…,bN/ne
+SqUle pu's" p[xSyete tnU ≤S]y"  )  ¨.yorev itßo yv-
+p¤yoåæCz•;" p[xSyNte p[qm; /Ny; i√tIy; mu:y; tOtIy;
+p[j;yuWe sv;RíedivæCz•;" ≤òG/; Vyˇ_gM.Ir≤l≤%t; a;…/-
+pTy;y ctßo r;jWeR" pç W$( xtpu]Sy s¢ devink;y;n;mek;åip 
+cedivæCz•; Vyˇ_; su%;yopp¥te  )  ---
+S]I,;' c;itdI`;Rí;itÓSv;í in≤Ndt;"  )  kÉx.U…m" ≤òG/; lo-
+iht; inmRl; inv[R,; c p[xSyte  –  mˇgjvOW.…s'hx;-
+dURlh'sgtyoå…/pty" ‚St…mtgtyo /Ny;" cplgtyípl-
+su%du"%l;….n" ityRGgtySTv/Ny;" S%ln;í;©ivSfoi$-
+ní;p[xSt;"  )  tq; aitg*rmit’„,mitdI`RmitÓSvmit’x-
+mitSqUlmitlomxmlomxmitmO√itki#n' c xrIre„vp[xSt-
+muCyte  )  tq; b;l;n;' ®iWt®idtSv“p[j;gr£o/hWRivsg;Rd;-
+np…¤SqwyRg;M.Iy;R…, yuˇ_;in gu,;…/k;in p[xSyNt îit  6
+a] Xlok;" --
+[KŒshyapa]
+sU]Sq;nm(  1
+39
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 40
+
+yq; vK]' tq; vOˇ' yq; c=uStq; mn"
+yq; SvrStq; s;ro yq; Âp' tq; gu,;"   
+i]iv/' sÊvmui∂∑ kLy;,£o/mohjm(
+≈eœm?y;/mTv' c teW;' p[oˇ_' yq;£mm(   
+a∑ s¢ i]/; cwW;' £m;∫ºd" p[v+yte
+sÊv;n;' sÊvivD;n' ihtm*W/kLpne   
+tp"sTydy;x*cd;nxIlrt' smm(
+D;nivD;ns'p•' b[;˜' iv¥;≤∆te≤N{ym(   
+p[j;vNt' i£y;vNt' /mRxIl' jg≤Tp[ym(   
+anI„yRmx#÷ p[;D" p[;j;pTy' vdeCz⁄…cm(   
+x*cv[teJy;?yynb[˜cyRdy;prm(   
+…jtm;nmd£o/' vˇ_;r' c;Wm;idxet(   
+i]vgRinTy' iv√;'s' xUrmÆKl∑k;·r,m(
+p[;ÛrwN{' mh;.;gm…/œ;t;rmIêrm(   
+Tyˇ_dM..y£o/' p[;¢k;·r,mIêrm(
+sm' …m]e c x]* c y;My' iv¥;t( suin…ítm(   
+axu…civxu…c" xUr" xI`[£o/p[s;dv;n(
+pu<yxIlo mh;.;go v;®,o v®,ip[y"   
+Sq;nm;nprIc;r/mRk;m;qRlo….nm(
+£o/p[s;dfld' k*ber' p[;ÛÂ…jtm(   
+[KŒshyapa]
+k;Xyp s'iht;
+40
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 41
+
+Xlok;:y;neith;sD' gN/m;Ly;Mbrip[ym(
+nOˇgItoph;sD g;N/v| su.g' ivdu"   
+ye c;Nyeåip xu.; .;v;" xuı;Ste c;ip s;æÊvk;"
+Ett( kLy;,.U…yœ' xuı' sÊv…mh;∑/;   
+a;roGy' p[xmo Âp' D;nivD;nm;yRt;
+dI`Rm;yu" su%;Tyˇ_' s;m;Ny' xuıl=,m(   
+ÈêroåsUykí<@ a;TmpUjop…/ip[y"
+s;nu£ox.yo r*{o hNt; xUrStq;ååsur"   
+£ÀræCz{p[h;rI c roWe„y;RmWRsNtt"  
+vwrm;'s;xn;y;s" klh;qIR c r;=s"   
+xu…ci√@xu…c" £Àroå.I®.IRW…yt;ååivl"
+m¥m;'sip[y" x˚« pwx;co bÛ.ojn"   
+tI+,m;y;sbÛl' in{;lu' bÛvw·r,m(
+a£⁄ı.I®˘ S]w,' c s;p| inTy*œleihnm(   
+d;nxYy;Tyl˚;rp;n.ojnmwqunw"
+inTyopet' p[muidt' y;=' iv¥;t( p[.=,m(   
+ah˚ét; mh;h;r; vw·r,o iv’t;nn;"
+ivÂp; iv’t;Tm;no .UtsÊv; inx;ip[y;"   
+amiWk⁄‚Tst;h;rv;G¥Un' inTyxi˚tm(
+cl' dumeR/s' .I®˘ x;k⁄n' ivı‰noksm(   
+[KŒshyapa]
+sU]Sq;nm(  1
+41
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 42
+
+îTyet{;js' sÊv' s¢/; £o/k;·rtm(
+Vy;…m≈gu,doW' c rj Evopl=yet(   
+a;h;rmwqunpr' Sv“xIlmme/sm(
+aqwv' p;xv' iv¥;NmOj;ål˚;rv…jRtm(   
+.I®mp[Dm;¥Un' k;m£o/vx' gtm(
+ih'ßm;Tmpr' iv¥;Nm;TSy' sup[js' x#m(   
+v/bN/p·rKlexxItv;t;tp=mm(
+buı‰©hInmls' v;nSpTy' vdedOjum(   
+îTyet≤T]iv/' sÊv' t;ms' mohs'.vm(
+y∞;me?ymkLy;,' sv| t∞;ip t;msm(   
+sÊv' p[k;xk˘ iv≤ı rjí;ip p[vtRkm(
+tmo iny;mk˘ p[oˇ_mNyoNy…mqunip[ym(   
+yd; y∞;…/k˘ ySy s dehI ten .;ivt"  
+xu.;xu.;Ny;crit fl' .u¤π tq;iv/m(   
+sm;nsÊv; b;l;n;' tSm;ı;]I p[xSyte
+¨√πgiv];skrI ivprIt; n xSyte   
+n jIvNTyq jIv≤Nt ’Cz^; /;]IivpyRye
+sm;n Êv; b;l;n;' pui∑r;yubRl' su%m(   
+TvgsOÑ;'smedoåiSqm∆xu£;…, /;tv"
+aoj" sÊv' c sv| c tTs;r' tu inbo/ me   
+[KŒshyapa]
+k;Xyp s'iht;
+42
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION
+
+## Page 43
+
+Tvg[ogrihto .ogI p[s•VyÔnCz…v"
+s¥"=tp[rohí TvKs;r" sutnU®h"   
+rˇ_s;roå®,;.;s"  ---   
+sU]Sq;nSywt;v;nev .;g ¨plB/"   
+[KŒshyapa]
+sU]Sq;nm(  1
+43
+MAHARISHI UNIVERSITY OF MANAGEMENT
+VEDIC LITERATURE COLLECTION

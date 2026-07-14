@@ -1,0 +1,83 @@
+{
+  "title": "\u0915\u093e\u0930\u094d\u0924\u093f\u0915\u0947\u092f",
+  "discovered_at": "2026-07-13T17:17:20.077995+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "RudraYamaloktaShriDeviReshyamKapildevaNarayana",
+      "title": "Rudra Yamalokta Shri Devi Reshyam Kapildeva Narayana",
+      "creator": "javanesegraviton",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ganapati-kavacham",
+      "title": "\u090f\u0915\u093e\u0915\u094d\u0937\u0930 \u0917\u0923\u092a\u0924\u093f \u0915\u0935\u091a\u0902",
+      "creator": "\u0915\u093e\u0930\u094d\u0924\u093f\u0915\u0947\u092f \u0936\u0930\u094d\u092e \u092e\u0941\u0926\u093f\u0917\u094a\u0902\u0921 karthikeya sharma mudigonda",
+      "year": 2022,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "kartikeye-ack-h",
+      "title": "\u0915\u093e\u0930\u094d\u0924\u093f\u0915\u0947\u092f - \u0915\u0949\u092e\u093f\u0915 - \u0939\u093f\u0902\u0926\u0940",
+      "creator": "\u0910\u0938\u0940\u0915\u0947",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "filename": "108 Upanishad Part-2.PDF",
+  "status": "quarantined",
+  "sha256": "ab59586e0aad6be41a17cb9e619757ccdc5d75328d0524c0b7a0e1b429489918",
+  "document_id": "DOC-AB59586E0AAD",
+  "page_count": 505,
+  "pages_native": 0,
+  "pages_scanned": 0,
+  "pages_ocr": 100,
+  "pages_blank": 0,
+  "pages_failed": 405,
+  "total_chars": 159686,
+  "language": "unknown",
+  "script": "unknown",
+  "document_class": "scanned_image",
+  "quality_score": 100.0,
+  "errors": [],
+  "processing_time_sec": 0.0
+}

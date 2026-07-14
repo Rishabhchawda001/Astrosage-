@@ -1,0 +1,20 @@
+{
+  "extraction_date": "2026-07-13T20:49:18.822456",
+  "total_ckus": 38956,
+  "unique_ckus": 37254,
+  "by_type": {
+    "shloka": 34574,
+    "heading": 2680
+  },
+  "by_book": {
+    "Bhagavat Purana Part 1": 8082,
+    "Bhagavat Purana Part 2": 633,
+    "Valmiki Ramayana": 21622,
+    "Rigveda Hindi": 273,
+    "Atharvaveda": 2504,
+    "Samaveda": 835,
+    "Shiv Puran": 1223,
+    "Tukaram Gatha": 1562,
+    "Brahmasutra": 520
+  }
+}

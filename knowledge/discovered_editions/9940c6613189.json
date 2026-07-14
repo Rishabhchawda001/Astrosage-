@@ -1,0 +1,79 @@
+{
+  "title": "Kundalini eng",
+  "discovered_at": "2026-07-13T13:37:28.270444+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "uncoiling-a-concept-kundaliniintheearly-hathacorpus-ruth-westoby",
+      "title": "Uncoiling a concept: Ku\u1e47\u1e0dalin\u012b in the early Ha\u1e6dha corpus",
+      "creator": "Ruth Westoby",
+      "year": 2021,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "tibetan-tantric-psychophysics",
+      "title": "TIBETAN TANTRIC PSYCHOPHYSICS by Shelli Joye",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "yogirajadhiraj-swami-vishuddhanand-paramahansadeva-life-philosophy",
+      "title": "Yogirajadhiraj Swami VISHUDDHANAND PARAMAHANSADEVA Life & Philosophy Nand Lal Gupta",
+      "creator": "Nand Lal Gupta",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

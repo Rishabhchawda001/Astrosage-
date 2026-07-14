@@ -1,0 +1,78 @@
+{
+  "title": "Skand puran 14",
+  "discovered_at": "2026-07-13T15:15:42.299942+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "wbPL_tulasi-stav-skand-puran-manu-03-01-521-lal-bahadur-shastri-sanskrit-university",
+      "title": "Tulasi Stav ( Skand Puran) Manu 03 01 # 521 Lal Bahadur Shastri Sanskrit University",
+      "creator": "Lal Bahadur Shastri Sanskrit University",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "KRI592KailasMargArthaSkandPuranBrahmottaraKhand1872AgraSwamiMadhavanandPrakashYantralayaAgra",
+      "title": "KRI 592 Kailas Marg Artha Skand Puran Brahmottara Khand 1872 Agra Swami Madhavanand Prakash Yantralaya Agra",
+      "creator": "eGangotri",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "JPEG Thumb",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4385892516",
+      "title": "Ganga: A subtle overview of names and glory in Sanskrit literature and the current scenario",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "http://dsiij.dsvv.ac.in/index.php/dsiij/article/download/224/238",
+      "authors": [
+        "Ambika Bhatt",
+        "Purnima Srivastava",
+        "Pavan kumar Yadav"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4391183190",
+      "title": "Does the ancient Indian practice of Yagya reflect some critical product design attributes? A Designer\u2019s perspective",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://ijyr.dsvv.ac.in/index.php/ijyr/article/download/111/141",
+      "authors": [
+        "Abhishek Srivastava",
+        "Sonal Atreya"
+      ]
+    }
+  ]
+}

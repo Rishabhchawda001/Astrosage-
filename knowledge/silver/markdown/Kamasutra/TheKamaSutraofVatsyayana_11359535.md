@@ -1,0 +1,18338 @@
+# TheKamaSutraofVatsyayana_11359535
+
+
+## T HE
+
+
+## K A M A S U T R A
+
+
+## VATSYAYANA
+
+Translated from the S anscrit
+T he
+Hindoo Kam a
+Shastra Society
+
+## COMPLETE IN SEVEN PARTS
+
+with
+
+## PREFACE ,
+
+
+## IN TRODU CTION
+
+
+## AND
+
+
+## CONCLUDING REMARKS
+
+BENAREs—N EW Y ORK
+
+## PRINTED FOR THE SOCIETY OF
+
+
+## THE FRIENDS OF INDIA
+
+1 8 8 3
+- 1 9 25
+For Private Circulation Only
+
+
+
+## CONTENTS
+
+
+## T HE LIST OF ILLUSTRATION S WITH NOTES
+
+
+## PREFACE
+
+
+## INTRODUCTION
+
+
+## T HE KAMA SUTRA OP VATSYAYANA
+
+1
+1 75
+
+## PART
+
+
+## I .
+
+
+## INDE"
+
+,
+
+## AND GENERAL
+
+
+## CON SID
+
+
+## BRATION OF THE SUBJ ECT
+
+o o o o o o o o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o
+o o o o o o o o
+0
+0
+0
+0
+0
+0
+0
+0
+
+## CONCLUDING REMARKS
+
+
+## OF SE"UAL U NION
+
+
+## ABOUT
+
+
+## THE
+
+
+## A CQUISITION
+
+
+## OF A
+
+
+## WIFE
+
+
+## ABOUT A WIFE
+
+
+## ABOUT
+
+
+## THE
+
+
+## WIVES
+
+
+## OF
+
+
+## OTHER
+
+
+## PEOPLE
+
+
+## ABOUT COURTE"ANS
+
+
+## ON THE M EANS OF ATTRACTING
+
+
+## OTHERS TO ONESELF
+
+
+
+
+## T HE LIST OF ILLU ST RATIONS WIT H NOT ES
+
+When
+Each is Both
+Frontispiece
+The monolithic Temple of the K ailas has been char
+acterized
+as the most wonderful
+and interesting monu
+ment of
+architectural
+art in
+India .
+Cert ainly it is the
+most splendid of those representing B uddhist,
+B rahma ni
+cal ,
+and Jain work near Ellora ,
+a village of India in the
+State of Hyderabad
+and north -east of the city of
+Bom
+bay
+.
+This cave -temple is not
+a mere interior ch am
+ber cut in the rock .
+It is
+a model of
+a complete temple
+such
+as might h ave been erected on the plain .
+Th at is .
+a
+mping
+hill
+has been
+hewn
+away
+extern ally
+as
+well
+as internally , leaving the temple
+a solid m ass of trap
+rock
+about
+a sunken , cloistered court measuring
+27 6 by
+154
+feet .
+Though
+Moslem zealots h ave striven
+to destroy the carved ﬁgures ,
+and time
+and earthquakes
+have weathered
+and broken
+away parts here
+and there ,
+this great temple is still one of the most perfect ex amples
+of Dravidian
+architecture .
+It
+w as built by Krishna
+
+## I
+
+Rashtraku ta , King
+of M alkhed in the incredibly short
+period of twenty -three years , between
+76 0
+and
+78 3
+
+## A . D .
+
+From the Temple of Surya
+Page
+
+## I
+
+With the exception of
+Number VI the rem ainder
+of
+the reproductions
+are of stone sculptures from the T emt
+ple to
+S urya
+(the
+S un -God)
+at
+Konarak,
+a small vil
+l age on the coast of Orissa ,
+and
+1 9 miles north -east of
+the city of Puri .
+All of this temple , except the
+Jaga
+mohan or Audience H all , is in unrecoverable ruin .
+V ari
+ous suggestions
+as to why worship in it
+w as given up
+have been offered .
+One is founded in
+a n ative legend
+that the priests deserted it
+after mariners had profaned it
+by stealing
+a great lode -stone which rumor
+had set in
+the Vima na, (tower over the sanctu ary)
+,
+alleging the lode
+stone drew their vessels irresistibly toward the shore .
+Others h ave
+bl amed earthqu akes ,
+lightning , sinking of
+the foundations in the sandy soil , etc .
+A nd , there is
+a
+record in the Temple
+at Puri of
+an
+attempt by invading
+vandals to destroy it .
+It is certain that its neglect
+be
+gan in the ﬁrst half of the 17th Century when the tower ,
+which
+w as
+1 74 feet high , gave
+w ay
+.
+Its deterioration
+continued unchecked until the
+Opening of the
+20th Cen
+tury when the British Arch aeological Survey came to it .
+They drove the snakes
+away , excav ated , repl aced wh at
+they could , cleaned off the overgrowing vegetation ,
+and
+ﬁlled the
+Audience
+Hall with stones
+and sand , their
+method
+of
+preventing
+its
+threatened
+coll apse .
+I t is from the
+Audience
+H all th at the subjects of these
+reproductions come .
+Though the interior
+w as quite
+
+
+I l lu s t r a tio n s
+severe , the decoration
+of the exterior w as
+am azingly el ab
+orate .
+
+## A ll who h ave seen it h ave lavished praise on it :
+
+the noblest specimen of medieval
+a rt ;
+the most ex
+q uisite memori al of sun -worship in
+India
+and , from
+Sir James Fergusson ,
+“for its size , the most richly orna
+mented
+building—
+externally
+at
+least—in
+the
+whole
+world .
+It wrung unwilling tribute even from
+the
+Moh ammedans .
+B ut it is difﬁcult for the imagin ation to
+grasp from words the mere extent of the decoration that
+covers like
+an embroidered veil
+all of the structure that
+rem ains .
+To mention only one thing : the ext ant frieze
+work varying from
+a foot to
+a foot
+and
+a h alf broad
+amounts
+alone to nearly three thousand
+feet
+in length
+and must
+cont ain
+at least six thousand ﬁgures .
+The
+sculpture is remarkably free from th at convention alism
+which , to the Western eye , frequently m ars
+E astern
+art .
+In delicacy , power , breadth
+and
+appropriateness of treat
+ment , it represents one of the highest points ever reached
+in stone sculpture .
+It demonstrates th at there
+w as
+a
+time when the
+Hindoo
+artist worked
+from n ature ,
+as
+did their gods themselves , in the enshrining of their
+dreams in m atter .
+Much of the stone used
+w as very
+h ard
+( chlorite)
+.
+and
+has every
+appearance of having
+t e
+tained
+all its original clarity
+and strength of line .
+But .
+unfortun ately for us , m any of the ﬁgures
+are in
+a soft
+sandstone which
+has seriously suffered from the weather
+The date of the construction of this glorious
+monument to the religion that underlies
+all the religions
+of man is
+according to the Ann als of the temple itself ,
+
+## S
+
+’
+aka
+1 200
+i
+. e
+
+## A .
+
+
+## D .
+
+1 278 , under
+the
+King
+La ng
+uliya
+N arasmka Deva .
+Moreover the seal of this
+king
+
+## runs thus :
+
+"The
+lord of the earth , the tailed
+king
+N arasinka , erected
+a temple
+for the
+ray
+-garlanded god
+in the S
+’
+aka year
+Late research
+has fairly cer
+tainly set its construction between the years
+124 0
+and
+
+## 1 28 0 A .
+
+
+## D .
+
+From the
+Black Pagoda
+Page
+2 9
+The
+Jagamohan or Audience
+Hall of the Temple to
+S urya
+a t Konarak has come to be more speciﬁcally known
+as the
+Bl ack Pagoda .
+This has probably come
+about
+through some
+association of the epithet
+hala , meaning
+“black ,
+which the
+Hindoos
+apply to
+all deserted or
+desecrated religious ediﬁces .
+The term is cert ainly not
+derived from the general color of the building , for the
+stone of which it is built is light
+The n ame
+Konarak or
+Konarka
+comes from the vern acul a rized
+forms of two
+S anskrit , words
+( kona ,
+”corner ,
+and
+a rka
+“the sun
+implying
+the corner of the sun .
+i . e
+the corner of the world dedicated to the sun .
+It
+is thus to
+be surmised th at this
+locality
+had for
+ages been
+associated in men
+'s minds
+as especially blessed
+by the sun .
+and th at long before this temple
+w as built
+Konarak
+had been
+a prominent center of
+S un -worship .
+This probability is
+also supported by the legend
+of the founding of the temple .
+This legend , which is
+quite characteristic of the great imagin ation
+and
+pictur
+
+
+I l l u s t r a tio n s
+esqueness of the Hindoo mind , is ,
+according to the S amba
+Pa rana ,
+as follows .
+S amba
+(one of the heroes of the
+M ahabharat)
+, the son of
+K rishna by
+Jamba va ti, is
+en
+joying life in the heavenly home of his father .
+A hand
+some young
+man , full of spirit
+and given to the dis
+play of it , he
+has become the object of the displeasure
+of the sage ,
+N arada , who believes him
+lacking in the
+respect due
+a learned
+man .
+S O that , in spite .
+Narada
+maligns
+S amba to
+K rishna , insinu ating that
+for
+a
+son
+S amba is over -familiar with his step -mothers , the
+present wives of the god .
+Krishna , quite proof
+against
+this . disbelieves it .
+N arada does , however , soon
+after
+ﬁnd the opportunity to his revenge .
+On e ﬁne , warm
+d ay the wives
+are
+all naked bathing in
+a great tub ,
+a nd ,
+moreover , ﬂushed with wine , they
+a re rather unrestrained
+in their dousing each other with water .
+The sage lures
+S amba to the scene ; then , contriving the presence of K rish
+n a,
+accuses S amba with his pernicious beauty of having too
+exciting
+an inﬂuence on the wives .
+K rishna , presented
+with the evidence of this spectacle , in
+an instant
+anger
+curses his son with the curse of
+leprosy .
+Although
+S amba
+l ater proves his complete innocence the curse
+cannot be revoked
+and the leprosy
+t akes hold .
+Krishna
+then does the best he
+
+## can for his unfortunate boy :
+
+in
+structs him how he
+can be cured .
+S amba is to go to
+earth ,
+and by the river that runs through
+Konarah he
+is to lead the life of
+an
+ascetic
+and put himself upon
+the mercy of the one god ,
+S urya , who
+can effect his
+cure .
+For twelve years
+S amba prosecutes his devotion
+to the S u n -god .
+In
+a vision S urya then
+appears to him
+in
+all his glory .
+S amba
+has
+learned the twenty -one
+laudatory epithets of the
+ray
+-garl anded
+One .
+He
+re
+peats them without fault .
+The god
+answers his prayer .
+and m akes him whole .
+The next day ,
+S amba , bathing
+with more than usu al joy in the river , ﬁnds
+a marvellous
+image of the god to whom he is so much indebted .
+Of
+course , how the image came to be
+at the bottom of the
+river
+w as
+another point that had to be explained . Th at
+went back to
+ages before that
+age , to the time when
+S u rya
+w as m arried to S anjna ,
+a daughter of the met al
+worker
+Visvaka rma .
+But so ﬁerce
+and rough
+had the
+god seemed to her that in disgust she would not suffer
+his embraces .
+In dism ay
+at this repulse S urya consulted
+B rahma ,
+and on that divinity
+'s
+advice went to the father
+of the girl , who evidently knew his daughter
+’s likes
+and
+dislikes , to get himself made over more to the form she
+had been t aught to
+appreciate .
+Visvaka rma placed S urya
+on his lathe ,
+and worked over
+all of the god except the
+feet .
+He pared
+off
+a full eighth of the body ,
+and then
+smoothed him down properly ,
+according to the tradi
+tions of the family .
+Unwilling to scrap the divine refuse
+Vis vaka rma fashioned out of it the discus of
+Vishn u ,
+the trident of Siva , the club of K uvera , the lance of Kar
+tikeya .
+Of the great
+amount he still
+had left he made
+a likeness of S urya himself .
+Thus came the image that
+S amba recovered from the bed of the river
+and
+about
+which in gratitude he built
+a sanctu ary .
+A nd thus
+w as
+the beginning of the gre at temple
+at Konarak .
+
+
+I llus t r a tio n s
+From
+the T emple
+of Surya
+Page 69
+This is
+another life -sized group of m any in different
+sizes on this temple frankly depicting the sexu al epi
+sode .
+Though this subject
+has here perhaps
+attained
+its most h appy expression , it is the theme of m any rep
+resentat i on s on m any
+Indian temples .
+For the
+Hindoo
+mind openly faced the sexu al function
+as the reality
+it is , one of the expressions of the divine mind .
+They
+held it
+as
+a peculiarly sacred
+and godlike function in
+themselves .
+The great number of their religious l aws
+dealing with the sexu al , the place it occupies in secul ar
+literature .
+Show that its signiﬁcance
+in the life of
+man
+w as recognized by them
+at its inherent importance . A nd .
+as
+can be seen in these sculptures , they were not content
+to
+classify
+and elucidate its manifest ations in writing
+alone .
+A s though they would insure the uninitiate from
+any mistake they even illustrated the subject in stone .
+One commentator on this work has been so h ardy
+as to suggest it is
+merely
+an imagin ative depiction of
+the heavenly joys
+awaiting the faithful believer .
+B ut .
+distinctive in
+Indian
+art
+as this work is , the
+Hindoos
+were too serious
+artists
+and too bound up in the legends
+of their theology to permit us to presume that these
+sculptures were other th an illustrations of religious sub
+j ects t aken from their mythology .
+On e wonders , how
+ever , just why so much of the decorations on
+a temple
+to the sun should depict the sexu al .
+Neither the sect
+of the
+S a uras
+(which
+had its origin in
+a Persian
+in
+ﬂuence) nor th at of
+S u rya
+(the
+ancient
+Vedic divinity
+of the sun)
+has
+as
+a principal part of its mysteries those
+connected with the union of the sexes .
+There is , how
+ever .
+a sect , the S ahtas , worship of woman , which does
+emphasize the sexu al element .
+M any of the ﬁgures on
+this Audience Hall suggest
+a fusion of the sect of S urya
+with that of N aga
+(or some other sect of serpent wor
+shippers)
+as well
+as with that
+of S ahta .
+Apsaras humbling
+an Ascetic
+Page 8 9
+The subject of this group suggests the inﬂuence of
+the ideas of
+a serpent cult .
+Serpent worship is still one
+of the religions of
+India .
+It
+w as formerly very wide
+spread ,
+and inﬂuenced the decoration
+O f m any other
+monuments , especially the Buddhist stupas of S anchi
+and
+Amra va ti .
+The intim ate
+association of the serpent with
+wom an in the minds of
+all primitive peoples is not
+as
+obvious
+as its
+association with the
+li ngam
+( ph allus)
+.
+Here the substitution of the serpent for the m ale organ
+is suggested .
+This group
+appears to illustrate
+a part of B rahma nical belief
+associated with the A psaras .
+They were origin ally spirits of the clouds
+and waters .
+semi
+-divine nymphs said to h ave sprung from the churn
+in g of the ocean
+.
+I n the R i g
+- Veda there is but one A p
+sa ras , who ,
+as the wife of Ga ndharva , gave birth to the
+ﬁrst mort als
+Y ama
+and
+Y ami .
+I n the heroic
+age there
+a re m any A psaras
+and m any Gandha rvas who form p art
+of the retinue of
+I ndra , the ﬁrst
+as dancers , the second
+as musicians .
+One of the uses the gods
+had for the
+beautiful
+A psaras
+w as
+a means of humbling the over
+
+
+I l l us t r a t io n s
+xiii
+pious
+ascetic .
+S o strongly did the
+Hindoo believe in
+the
+eﬂi cacy of his ritual th at he held
+a devotee could ,
+through
+austere practices , develop supern atural powers
+th at m ade him
+a rival
+and even
+a being superior to the
+gods .
+Obviously , the gods could not have this .
+To
+humble him through the symbolism of the sexu al
+act
+w as
+both
+pertinent
+and suggestive .
+The ﬁgure
+behind the
+man
+may be
+another A psa ras who
+w as sent
+along to m ake certain the reduction of
+an especially
+oh
+durate case or it
+may have been intended to represent
+the god himself
+assisting
+at the rite .
+O r ,
+again , the
+group
+may represent two proselytes
+accompanied by
+an
+instructor
+A N aga from the T emple of Surya
+Page
+1 0 1
+The N agas were
+another of the Hindoo
+'s many races
+of
+a semi -divine ch aracter who
+had the same standing
+in relation to the universe
+as human beings themselves .
+The details of life in their world were fully described
+as known .
+Their element
+w as Water ,
+as that of the
+Y ahshas
+w as
+Earth .
+The capit al city of the
+N agas
+w as under the
+se a ,
+and
+w as called Bhoga vati,
+”the city
+of enjoyment .
+The n ame
+18 derived from
+naga mean
+ing either
+a
+sn ake
+" or
+an
+elephant ,
+and has the earlier
+connotations ,
+a
+“tree
+and
+a
+mountain
+This
+ﬁgure shows more deﬁnitely the inﬂuence of serpent wor
+ship .
+The substitution or
+confusion of the serpent
+with the
+li ngam is more obvious .
+There is
+substanti
+ation of this conjecture by the suggestion in the upper
+part of the pedestal th at the ﬁgure is st anding on the
+horned head of
+a great reptile .
+M onolithic Pillar from
+a Stupa
+Page
+1 3 1
+This stupa
+(burial mound of the
+ashes of some dis
+tinguished person) is
+at Bharahut ,
+a vill age in the sm all
+State of
+N agod .
+The excavations instigated by
+A lex
+ander Cunningh am in
+18 74 showed it to be one of the
+most important
+and h andsome in
+India .
+The mound
+itself
+w as found to be
+70 feet in diameter , between
+5 0
+and
+60 feet high ,
+a nd
+w as surmounted by
+an orn ament
+shaped like the letter T .
+About this mound
+ran
+a cir
+culat balustrade ,
+a hundred feet in diameter . the ground
+pl an of which m ade
+a gigantic swastika .
+The whole of
+this stood toward the east side of
+a paved
+and walled
+qu adrangle
+about
+3 00 feet by 3 20 feet .
+The pillar
+shown , which is
+7
+feet
+1 inch high , came
+from the
+balustrade .
+The el aborate ornament
+and large number
+of inscriptions on this stupa h ave yielded valu able infor
+mation in regard to the
+art
+and social conditions of the
+people of
+B uddhist
+India
+at that period .
+The subjects
+were taken from the
+B uddhist
+S acred
+Books , more
+es
+pecially from the
+accounts given in them of the
+life
+of the B uddha in previous births .
+The ﬁgure shown
+here (the motive is one very frequent in Hindoo
+art)
+has
+been taken for M aya , mother of the B uddha ,
+awaiting his
+
+
+I l l u s t r a tio n s
+birth under the tree S ala .
+It is much more probable that
+it
+w as intended to represent the guardian spirit of
+a
+Yakshini, the fem ales of one of their semi -divine races .
+to which the nearest
+approach in Western thought is the
+fairy
+and gnome people .
+This pillar is now in the
+Indian M useum
+at Calcutta .
+Vill agers
+had
+already
+car
+ried
+off the greater part of the stone
+and bricks
+with
+which to m ake cottages
+when the monument
+w as ﬁrst
+brought to Western notice .
+Only
+about half of the
+origin al eighty pill ars
+and
+about
+a third of the cross
+bars were recovered .
+
+## VIII .
+
+From the Temple of S urya
+Page
+1 63
+One of the groups illustrating variant positions to be
+assumed in the sexu al
+act .
+( S ee Ch apter
+6 of Part II .)
+
+
+
+## PREFACE
+
+I n the literature of all countries there will be found a certain
+n umber of
+works
+treating
+especially of love .
+Everywhere
+the subject is dealt with differently,
+and from various points
+of view.
+I n the present p ublication it is proposed to give a
+complete translation of what is considered the standard work
+'
+On love in S anscrit literature , and which is called the
+“V atsya
+yana Kam a Sutra ,
+or Aphorisms on Love , by V atsyayana .
+While
+the I ntroduction will deal with
+the
+evide nce
+con
+cerning the da te of the writing, a nd the commentaries written
+upon it
+the
+chapters following the I ntroduction will give
+a
+translation of the work itself.
+I t is, however,
+advisable
+to
+furnish here
+a brief
+analysis
+Of works of the same
+nature ,
+prepared by a uthors who lived and wrote years after V atsya
+had passed
+away, but who still considered him
+as the great
+authority,
+and
+always
+quoted
+him
+as
+the chief
+guide
+to
+Hindoo
+e rotic literature .
+Besides the tre atise of Vatsyayan a the following works on
+the same subject
+
+## are procurable in I ndia :
+
+T he R atirahasya ,
+or secrets of love .
+T he Panchasakya ,
+or
+the ﬁv e
+arrows .
+T he Smara Pradipa,
+or
+the light of love .
+T he R atimanjari ,
+or the garland of love .
+T he Rasmanjari,
+or
+the sprout of love .
+T he A nunga Ru nga , or the stage of love also called
+Kamaledhiplav a , or a boat in the ocean of love .
+The author of the
+“Secrets of Love
+(No .
+1 ) w as a poet
+named Kukkoka .
+He composed his work to please one V enu
+dutta , who was perhaps a king
+.
+When writing his Own name
+at
+the
+end of
+each chapter he calls himself
+“Siddha patiya
+pandita ,
+i. e
+a n ingenious ma n
+among learned men .
+The
+work was
+translated into Hindi years
+ago,
+and in
+this
+the
+author
+’s
+name was written
+as Koka .
+A nd
+as the same
+name
+crept into
+all the translations into other languages in I ndia ,
+the book became ge nerally known , a nd the subject was popa
+larly called Koka Shastra ,
+or doctrines
+of Koka ,
+which is
+identical with
+the K am a Shastra,
+or doctrines of love ,
+a nd
+the words Koka Shastra
+a nd Kama Shastra
+are used indis
+criminately
+.
+The
+work contains
+nearly
+eight hundred
+verses,
+and is
+divided into ten chapters, which are called Pachiv edas.
+Some
+
+## Q
+
+
+## W
+
+-
+k
+w
+
+## N
+
+
+## N
+
+
+
+xvi
+P r e f a c e
+of the things treated of in this work are n ot to be found in the
+V atsyaya na , such
+a s
+the four classes of
+women ,
+viz
+the
+Padmini, Chitrini, Shankini, a nd H astini, as a lso the enumera
+tion of the da ys and ho urs on which the women of the dif
+fe rent classes become subject to love .
+T he
+a uthor
+adds that
+he
+wrote
+these
+things from
+the Opinions of
+Gonikaputra
+a nd N andikeshw a ra , both of whom
+are mentioned by V ats
+yayan a, but
+their works
+are
+n ot
+now
+extant .
+I t is difficult
+to give
+a ny
+approximate idea
+as
+to
+the year in
+which
+the
+work was composed .
+I t is only to be presumed that it was
+written
+after that of V atsyayana ,
+a nd previous to the other
+works on this subject that are still exta nt.
+V atsyayana gives
+the
+names of ten
+authors on the subject,
+all of whose works
+he had consulted , but none of which are extant,
+a nd does not
+mention this one .
+This would tend to show that Kukkoka
+wrote
+after V atsya , otherwise V atsya would
+assuredly have
+men tioned him as an a uthor in this bra nch of literature along
+with the others .
+T he a uthor of the
+Five A rrows
+(No .
+2 in the list)
+was
+one Jyotirisha .
+He is
+called
+the chief ornament of poets ,
+the treasure of the sixty
+-four arts ,
+a nd the best teacher of the
+rules of music .
+He says
+that he composed
+the work
+after
+reflecting
+on
+the
+aphorisms of love
+as revealed by the gods ,
+a nd studying the opinions of Gonikaputra , M uladev a , Bab
+h rav ya , R amtidev a , N undikeshw ara
+and Kshemandra .
+I t is
+impossible
+to
+say whether he had perused
+all
+the works of
+these
+a uthors ,
+or had only heard about them;
+anyhow,
+none
+of them appear to be in existe nce
+now .
+This work contains
+n early
+six hundred verses,
+a nd is divided into five chapters ,
+called Sayakas or A rrows .
+T he
+author of the
+“Light of Love
+(N o. 3 )
+was the poet
+Gu nakara ,
+the
+son of Vechap ati.
+The work contains four
+hundred verses ,
+a nd gives only
+a short
+account of the doc
+trines of love , dealing more with other matters .
+“T he Garl and
+of Love
+(N o.
+4)
+is
+the work of
+the
+famous poet Jayadev a , who said
+about himself that he is
+a
+w riter on
+all subjects .
+T his treatise is, howe ver, very short,
+containing only one hundred a nd twenty
+-five verses .
+T he author of the
+“Sp rout of Love
+” (N o. 5)
+was a poet
+called Bhanudatta .
+I t
+appea rs from
+the last
+verse of
+the
+ma nuscript tha t he was a resident of the province of Tirhoot.
+and
+son of
+a B rahm an
+named Ganeshw ar, who was
+also
+a
+poe t.
+T he work, written in Sanscrit, gives the descriptions
+
+
+Pr e f a c e
+xvii
+of different classes of men
+and
+women ,
+their classes being
+m
+ade
+out from their
+age , description , conduct,
+etc .
+I t
+con
+tains
+three chapters,
+and its date is
+not known ,
+a nd cannot
+be ascertained .
+.
+“T he Stage of Love
+(N o. 6)
+was composed by the poet
+Kullianmull
+for
+the
+amuseme nt of Ladkhan ,
+the
+son of
+Ahmed Lodl , the same Ladkhan being in some places spoken
+of as Ladana M ull , and in others as Ladanaballa .
+He is sup
+posed to have been
+a rela tion or connection of the house of
+Lodi ,
+which
+reigned in Hindostan from
+
+## AD
+
+.
+1 45 0 - 1 5 2 6 .
+T he work would, therefore , have been written in the ﬁfteenth
+or sixteenth century
+.
+I t contains ten chapters,
+and has been
+tra nslated into English but only
+six copies were printed for
+private circulation .
+This is supposed to be the latest of the
+S anscrit works on
+the subject,
+a nd
+the ideas in it were
+e vi
+dently taken from p revious writings of the
+same
+nature .
+The contents of
+these
+works
+are in
+themselves
+a literary
+curiosity
+.
+The re are to be found both in S anscrit poetry and
+in the Sanscrit drama
+a certain
+amount of poetical sentiment
+a nd
+romance,
+which have ,
+in
+every country
+and in
+every
+language,
+thrown an immortal halo round the subject .
+B ut
+here it is
+treated in
+a plain, simple , matter of fact sort of
+way
+.
+M en and women are divided into classes and divisions
+in
+the same way
+that Buffon —and other writers
+on
+natural
+history ha ve classiﬁed
+and divided
+the
+animal
+world .
+A s
+Venus was represe nted by the Greeks
+to stand forth
+as
+the
+type of
+the beauty of woman , so the Hindoos describe
+the
+Padmini or Lotus -woma n
+as the type of most perfect femi
+nine
+excellence ,
+as fellows
+S he in whom the following signs and symptoms appear is
+called a Padmini.
+Her face is pleasing as the full moon ; her
+body, well clothed with flesh, is soft as the Shiras or mustard
+ﬂower, her skin is ﬁne,
+tender,
+a nd fair as the ye llow lotus ,
+ne ver dark coloured .
+Her
+eyes
+are bright
+and beautiful
+as
+the orbs of
+the fawn,
+well
+cut ,
+and w ith
+reddish corners .
+Her bosom is hard, full a nd high;
+she has a good
+neck; her
+nose is straight a nd lovely,
+and three folds or wrinkles cross
+her middle—a bout the umbilical region .
+Her yoni resembles
+the opening lotus bud,
+a nd her love seed (Kama
+salila)
+is
+perfumed like the lily that has newly burst .
+She walks with
+swan - like gait,
+and her voice is low a nd musical as the note
+of
+the Kokila bird,
+she delights in
+white
+raiments , in ﬁne
+jewels,
+and in rich dresses .
+She eats little , sleeps lightly,
+and
+
+
+xviii
+Preface
+being as respectful and religious as she is clever and courteous .
+she is
+e ver
+a nxious
+to worship
+the gods,
+a nd
+to
+enjoy
+th e
+conversa tion of Brahmans .
+S uch,
+then , is
+the Padmini or
+Lotus -wom an .
+Detailed descriptions then follow of the Chitrini or A rt
+woman ;
+the Shankhini or Conch -woman ,
+and
+the H astini
+or Elephant -woman ,
+their days of enjoyment,
+their various
+seats of passion , the ma nner in which they should be manip u
+lated a nd treated in sexual intercourse , along with the charac
+teristics of
+the men
+and women of
+the various countries in
+Hindostan .
+T he details are so numerous , a nd the subjects so
+se riously dealt with,
+and
+at such length,
+that
+neither
+time
+n or space will permit of their being given here .
+One work in the English language is somewhat similar to
+these works of the Hindoos .
+I t is called
+“Kalogynomia
+°
+or
+the Laws of Fem ale Beauty,
+being the elementa ry principles
+of
+that science , by T . Bell , M
+
+## .D
+
+with
+twenty
+-four plates ,
+a nd printed in London in
+1 8 2 1
+.
+It
+treats of Beauty, of
+Love, of Sexual I ntercourse , of
+the
+Laws
+regulating
+that
+I ntercourse , of M onogamy
+a nd Polygamy, of Prostitution .
+of I nﬁdelity,
+ending with a catalogue raison ne of the defects
+of female beaut y
+.
+Another work in English
+also
+enters into great details of
+private
+and domestic life .
+I t is called
+“T he
+Elements of
+Social Science or Physical , Sexual and N atu ral Religion , with
+a Solution of the Social Problem ,
+by a Doctor of M edicine .
+London , Edward Truelove ,
+2 5 6 , High Holborn .
+T o per
+sons interested in the above subjects this work will be found
+to contain such details as ha ve been seldom before published,
+a nd which ought to be thoroughly understood by all philan
+thropists and benefactors of society
+.
+After
+a perusal of the Hindoo w ork,
+and of
+the English
+books
+above mentioned,
+the
+reader will
+understand the
+sub
+ject ,
+at all e ven ts from
+a materialistic ,
+realistic ,
+a nd practical
+point of view .
+If
+all science is founded more or less
+on
+a
+stratum of facts ,
+there
+can be
+no harm in making known to
+ma nkind ge nerally certain matters intimately connected with
+their p rivate , domestic, a nd social life .
+A las"complete
+ignorance
+of
+them
+has
+unfortunately
+wrecked many
+a ma n
+a nd many
+a
+woman ,
+while
+a
+little
+knowledge of a subject generally ignored by the masses would
+ha ve
+enabled
+numbers of people
+to have
+understood ma ny
+things which
+they believed
+to be quite incomprehensible ,
+or
+which w ere
+not
+thought worthy of
+their consideration .
+
+
+
+## INTRODU CTION
+
+I t may be i nteresting to some persons to learn how it came
+about that Vatsyayana was ﬁrst brought to light and trans
+lated into the English language .
+It happened thus .
+While
+translating with the p undits the
+Anunga runga , or the stage
+of love ,
+reference was frequently found to be made to one
+V atsya .
+The sage V atsya was of
+this opinion ,
+or of
+that
+opinion .
+The sage V atsya said this,
+and so on .
+Naturally
+questions
+were
+asked
+who
+the sage
+was,
+and
+the pundits
+replied that V atsya was the
+author of the standard work on
+love in Sanscrit literature ,
+tha t
+no S anscrit library was com
+plete without his work,
+and
+that it was most diﬂicult n ow
+to obtain in its
+entire state .
+The
+cop y of
+the manuscript
+obtained in Bombay was defective ,
+and so the p undits wrote
+to Benares, Calcutta ,
+and Jeypoor for copies of
+the manu
+script from S anscrit libraries in those places .
+Copies having
+been obtained, they were then compared with each other, and
+with
+the
+aid of
+a Commentary called
+“Jayamangla
+”
+a
+re
+vised copy of the
+entire manuscript was prepared,
+and from
+this copy the English translation was made .
+The following
+is the certiﬁcate of the chief p undit
+“The
+accompan ying ma nuscript is corrected by me
+after
+comparing four different Copies of the work .
+I had the assis
+tance of
+a Commentary called
+‘Jayamangla
+’ for correcting
+the portion in the ﬁrst ﬁve parts, but found great difﬁculty
+in correcting the remaining portion, because , with the excep
+tion of one cop y thereof which was tolerably correct,
+all the
+other copies I had were fa r too incorrect .
+However, I
+took
+that portion
+as correct in which
+the majority of
+the copies
+a greed with each other .
+The
+Aphorisms on Love ,
+by Vatsyayana contain about
+one
+thousa nd
+two hundred
+a nd
+ﬁfty slokas
+or
+verses,
+a nd
+a re divided into parts, parts into chapters,
+and chapters into
+p aragraphs .
+The
+whole consists of seven parts ,
+thirty
+-six
+chapters,
+and sixty
+-four paragraphs .
+Hardly
+anything
+is
+known
+about
+the
+a uthor .
+His
+real
+name is supposed
+to be
+l'
+v
+'
+iallinaga
+or M rillana , Vatsyayana being his family
+name .
+A t the close of the work this is what he writes about himself
+“A fter
+reading
+and considering
+the works of Babhrav ya
+a nd other ancient a uthors,
+and thinking over the mea ning of
+the rules given by them , this treatise was composed,
+according
+
+
+xx
+I n t ro d uc tio n
+to the precepts of the Holy Writ, for the beneﬁt of the world ,
+by V atsyaya na , while leading
+the life of
+a
+religious student
+a t B ena res ,
+a nd wholly e ngaged in
+the
+contemplation of the
+Deity
+.
+T his work is not to be used merely as a n instrumen t
+for satisfying our desires .
+A person acquainted with the true
+principles of this science , who p reserves his Dharm a ( virtue
+or
+religious merit)
+,
+his A rtha
+( worldly
+wealth)
+,
+and
+his
+Kama (pleasure or sensual gratiﬁcation)
+,
+and who has regard
+to the customs of
+the people , is sure
+to obtain
+the mastery
+over his se nses .
+I n short,
+an intelligent
+and knowing per
+son , attending to Dharm a and A rtha and also to Kama , with
+out becoming the slave of his passions , will obtain success in
+everything that he may do.
+I t is impossible
+to ﬁx the
+exact date
+either of the life of
+V atsyayana or of his work.
+I t is supposed that he must have
+lived
+between
+the ﬁrst
+a nd sixth century of
+the Christian
+era ,
+on the following grounds :—He mentions that S atkarni
+Satv ahan ,
+a king of Kuntal, killed M alayev ati his wife with
+an instrument called kartari by striking her in the passion of
+love , a nd V atsya quotes this case to warn people of the danger
+arising from some old customs of striking woman when under
+the inﬂuence of
+this passion .
+N ow
+this king of Kuntal is
+believed
+to have lived
+and
+reigned during
+the first century
+
+## AD
+
+. a nd consequently Vatsya must ha ve lived after him .
+On
+the other hand , Virahamihira , in the eighteenh chapter of his
+“Brihatsanhita .
+”
+treats of the science of love ,
+a nd appears to
+ha ve
+borrowed
+largely from
+V atsyayana
+on
+the subject .
+Now Virahamihira is said to ha ve lived during the sixth cen
+tury AD
+a nd
+as Vatsya must have written his works pre
+viously, therefore
+not earlier than the ﬁrst century AD
+a nd
+not later than
+the sixth century A .D. , m ust be considered
+as
+the approximate date of his existence .
+On the text of the
+Aphorisms on Love ,
+by Vatsyayana,
+only two commentaries ha ve been found .
+One called
+“Jay
+amangla
+”
+or
+”Sutrabashya ,
+"
+and other othe r
+“Sutra v ritti.
+"
+The date of the
+“Jayamangla
+is ﬁxed between the tenth and
+thirteenth cen tury A D
+beca use w hile
+treating of the sixty
+four
+arts
+a n
+example is
+taken from
+the
+Kavyap rakasha
+.
+‘
+which was writte n
+about the tenth century A D
+.
+A gain ,
+the
+cop y of the commentary p rocured was
+evidently a tra nscript
+of
+a ma nuscript which once had
+a place in
+the library of
+a
+Chaulukyan king named Vishaladev a ,
+a fact elicited from the
+
+## following sentence at the end of it :
+
+
+
+II . F rom the T emple of S urya
+1 3 th Ce ntu ry
+A t Kona rak, Orissa
+
+
+
+## T HE KAMA SU TRA
+
+of
+
+## VAT SYAYANA
+
+
+## PART I
+
+Index ,
+and Gene ral Consideration of the Subject
+
+
+T h e
+K a m a S u t r a
+
+## PART III .
+
+About the Acquisition of a Wife
+Obse rvations
+on Betrothal
+and M arriage .
+About Creating Conﬁdence in
+the Girl .
+Cou rtship ,
+and
+the
+manifestation
+of
+the
+feelings by outward signs
+and deeds .
+On things to be done only by the M an ,
+a nd
+the acquisition of the Girl thereby .
+Also
+what is to be done by a Girl to gain over
+a M an
+and subj ect him to he r .
+On the differe nt Forms of M a rriage .
+
+## PART IV .
+
+About a Wife
+On
+the
+man ne r of living of
+a
+virtuous
+Wom an ,
+and of
+her behaviou r
+during
+the
+abse nce of he r Husband .
+On
+the conduct of the
+eldest Wife
+towards
+the othe r Wives of he r Husband
+and of
+the younger Wife towards the elder ones .
+Also on the conduct of a Vi rgin Widow
+t e - married ;
+of
+a Wife
+disliked by
+her
+Husband ; of
+the Women in
+the King
+’
+s
+Harem ;
+and of a Husband who has more
+than
+one Wife .
+
+## PART V .
+
+About
+the Wives of Other People
+4
+Chapter
+
+## I .
+
+
+## II .
+
+
+## III .
+
+
+## IV .
+
+
+## V .
+
+Chapter
+Chapter
+
+## I .
+
+
+## II .
+
+
+## III .
+
+O n the Characte ristics of M e n and Women,
+and
+. the
+reason
+why Women
+reject
+the
+Addresses of M en .
+About M en who have
+Success with Women ,
+a nd
+about Wome n
+who a re
+easily gained over.
+About
+making
+Acquaintance
+with
+the
+Woman ,
+and of
+the
+efforts
+to gain her
+ove r.
+Examinations of
+the State of
+a Woman
+'
+s
+mind .
+
+
+o f
+V a t s y a y a n a
+5
+Chapter
+
+## IV .
+
+T he Business of
+a Go-between .
+
+## V .
+
+On
+the Love of Pe rsons in
+authority with
+the Wives of othe r People .
+
+## VI .
+
+About the Women of the Royal Harem , and
+of the keeping of one
+'s ow n Wife .
+
+## PART VI .
+
+About Cour teza ns
+Chapter
+Of the Causes of
+a Cou rtezan
+resorting
+to
+M en ; of the means of A ttaching to her
+self the M an desired , and the kind of M an
+that it is desirable to be
+acquainted with .
+Of
+a Courtezan living with
+a M a n
+as his
+Wife .
+Of
+the M eans of getting M oney ;
+of
+the
+Signs of a Lover who is begin ning to be
+Weary , and of the w ay to get rid of him .
+About
+a Re -union with
+a former Lover.
+Of diffe rent kinds of Gain .
+Of Gai ns
+and Losses ,
+attendant Gains
+and
+Losses ,
+and Doubts ;
+and lastly,
+the dif
+ferent kinds of Courtezans .
+
+## PART VII .
+
+On the M eans of A ttracting Others to One
+’s Self
+Chapter
+
+## I .
+
+On
+Personal
+Adornment. subjugating
+the
+hearts of others,
+a nd of tonic medicines.
+
+## 11.
+
+Of the means of exciting Desire ,
+and of the
+ways of
+enlarging
+the Lingam .
+Miscel
+laneous Experiments
+and Receipts .
+
+
+
+## CHAPTER I .
+
+Salutation
+to Dharma , A rtha ,
+a nd Kama .
+IN the begin ning , the Lord of Beings created men and women ,
+and in the form of commandments in one hu ndred thousand
+chapters laid down
+rules for
+regulating
+their
+existence with
+regard
+to Dharma , *
+A rtha""
+and Kamaj ;
+Some of
+these
+commandments ,
+namely
+those which
+treated
+of Dharma ,
+were separately w ritten by S wayambhu M an u;
+those
+that
+rel ated to A rtha were compiled by B rihaspati;
+and those that
+referred
+to Kama were
+expou nded by N andi,
+the follower
+of M ahadeva , in one thousand chapters .
+Now
+these
+Kama Sutra
+(Aphorisms on Love)
+, written
+by N a ndi in
+one
+thousand chapters , were
+reproduced by
+S hvetaketu , the son of Uddvalaka , in
+a n
+abbreviated form in
+ﬁv e hu ndred chapters ,
+and this work w as again similarly
+t e
+produced
+in
+an
+abridged form ,
+in
+one
+hu ndred
+and
+ﬁfty
+chapters ,
+by
+Babhra vya ,
+an
+inherita nt
+of
+the
+Punchala
+(South of Delhi)
+country .
+These
+one hundred
+and ﬁfty
+chapters were
+then put
+togethe r u nder seven heads or parts
+n amed severally
+I st.
+S adharana
+(general
+topics)
+.
+zud .
+Samp rayogika
+( embraces,
+etc .)
+3 rd .
+Kanya S amp ra yuktaka (u nion of males and females)
+4 th .
+Bharyadhika rika ( on one
+’s ow n wife)
+.
+sth .
+Pa radarika ( on
+the wives
+of other people)
+.
+6 th .
+Vaisika
+(on cou rtezans)
+
+## 7th .
+
+A up amishadika ( on the arts of seduction , tonic medi
+cines ,
+T he sixth pa rt of this last work w as separately expou nded
+by D attaka
+at the request of the public women of Patalip utra
+(Pa tna)
+,
+and in the same w ay Charaya na
+explained the ﬁrst
+Dha rma is
+acquisition of religious merit ,
+and is fully described in Ch apter
+
+## 5 . Volume III , of
+
+T alboys Wheele r
+’s
+History
+of I ndia ,
+and in
+the. edicts of
+Asoka .
+T A rtha is
+acquisition of wealth
+and property , etc .
+
+## I
+
+K ama is love , pleasure
+and sensual gratiﬁcation .
+These three words
+a re ret ained throughout in their origin al ,
+as technical
+terms .
+They
+m ay
+also be deﬁned
+as virtue , wealth ,
+and pleasure , the three
+things repeatedly spoken of in the Laws of M anu .
+
+
+The Kama Sutra of Vatsyayana
+7
+part
+of it.
+T he
+remaining parts ,
+viz
+the second.
+third ,
+fourth , ﬁfth ,
+a nd seventh were
+each separately
+expounded
+by
+'
+S u varnanabha (second part)
+.
+Ghotakamukha
+( third part)
+.
+Gonardiya
+(fou rth part)
+.
+Gonikap utra (ﬁfth part)
+.
+K uchumara (seventh part)
+,
+respectively .
+Thus the work being writte n in part by different
+authors
+w as
+almost
+unobtainable ,
+and
+as the parts which were
+ex
+pounded by
+D attaka
+and
+the others
+treated only of
+the
+particular branches of the subject to which each part related,
+and moreover
+as
+the origin al work of Babhra vya w as dif
+ﬁcult
+to be mastered
+on
+account of its length , Va tsyayana,
+therefore , composed
+this work
+in
+a small volume
+as
+an
+abstract of
+the whole of
+the works of
+the
+above - named
+authors.
+
+
+
+## CHAPTER II .
+
+On the Acquisition of Dharma , A rtha and Kama
+
+## MAN
+
+the period of whose life is one hundred years , should
+practice Dharma , A rtha ,
+a nd Kama
+at different times and in
+such
+a man ner
+that
+they may harmonize
+toge ther
+and
+not
+clash in
+any w ay
+.
+He should
+acquire learni ng in his child
+hood , in his youth and middle age he should attend to A rtha
+and Kama , and in his old age he Should perform Dharma , and
+thus seek to gain M oksha , i . e . ,
+release from furthe r transmi
+g ration .
+Or ,
+on
+accou nt of the u ncertainty of life , he may
+practice
+them
+at
+times when
+they
+are
+e njoined
+to be prac
+ticed .
+But one thing is to be
+noted , he should lead the life
+of
+a
+religious student u ntil he ﬁnishes his education .
+Dharma is obedience
+to
+the command of
+the Shastra or
+Holy Writ of the Hindoos to do certain thi ngs , such
+as the
+performance
+of sacriﬁces , which
+are
+not generally done , be
+cause they do not belong to this world , and produce no visible
+eﬁect ;
+and not to do other things , such as eating meat, which
+is often done because it belongs to this world ,
+and has visible
+eﬁects.
+Dharma should be learnt from
+the Shruti (Holy Writ)
+a nd from
+those conve rsant with it .
+A rtha is the
+acquisition of
+a rts, land , gold , cattle, wealth .
+equipages ,
+and friends .
+It is , fu rther, the protection of what
+is acquired ,
+and the increase of what is protected .
+A rtha should be learnt from
+the ki ng
+’s oﬂi cers,
+and from
+merchants who m ay be ve rsed in the ways of commerce .
+Kama is the
+e njoyment of
+appropriate objects by the ﬁv e
+senses of hearing , feeling , seeing , tasting . and smelling , assisted
+b y the mind together with the soul .
+T he ingredient in this is
+a peculiar contact between the orga n of sense
+and its object,
+a nd the consciousness of pleasu re which arises from that con
+tact is called Kama .
+Kama is
+to be learn t from
+the Kama Sutra
+( aphorisms
+on love)
+and from the p ractice of citize ns .
+When
+all the three , viz
+Dharma , A rtha ,
+and Kama come
+together ,
+the forme r is better than
+the one which follows it.
+i . e . , Dharma is be tter tha n A rtha ,
+a nd A rtha is better
+than
+K ama .
+But A rtha should
+always be practiced by the king .
+for
+the livelihood
+of men is
+to be obtained from it only .
+
+
+The Kama Sutra of
+Vatsyaya na
+9
+Again , Kama being
+the occupation of public women ,
+they
+should prefer it to the other tw o,
+and these are exceptions to
+the general
+rule .
+Obj ection .
+Some learned men
+say
+that
+as Dharma is connected with
+things not belonging to this world , it is appropriately treated
+of in a book
+*
+and so also is A rtha , because it is practiced only
+by
+the
+application of p roper means ,
+and
+a knowledge of
+those mea ns
+can only be obtained by study
+a nd from books .
+But Kama being a thing which is practiced eve n by the brute
+creation , and which is to be fou nd eve rywhe re , does not want
+any work on the subject .
+A nswer .
+This is not so .
+Sexu al intercourse being a thing dependent
+on man and woman requires the
+application of proper means
+by
+them ,
+and
+those means
+a re
+to be learnt from
+the Kama
+Shastra .
+T he
+non - application of proper means , which we
+see in the brute creation , is caused by their bei ng u nrestrai ned ,
+and by
+the females
+among
+them only being ﬁt for sexu al
+i ntercou rse at certain seasons and no more , and by their inter
+course
+not being preceded by thought of any kind .
+Objection
+2
+.
+T he Lokayatikas
+’“say z—Religious ordinances should
+not
+be observed , for they bear a futu re fruit , and at the same time
+it is
+also doubtful whether
+they will bear
+any fruit
+at
+all .
+What foolish person will give away that which is in his ow n
+hands into the hands of
+another"M oreover, it is better to
+have a pigeon today than a peacock tomorrow ;
+and a copper
+coin which w e have the certainty Of obtaining , is better than
+a gold coin , the possession of which is doubtful .
+A nswer .
+It is
+not so .
+1 st .
+Holy Writ , which ordains the practice
+of Dharma , does not
+admit of
+a doubt .
+2 nd . Sacriﬁces such
+as those made for
+the destruction of
+e nemies ,
+or for the fall of
+rain ,
+are seen
+to bear fruit.
+3 rd .
+T he
+su n , moon , sta rs , pl anets
+and other heavenly
+bodie
+i
+s
+appear
+to work in tention ally
+for
+the good of
+the
+worl
+These were cert ainly m aterialists who seemed to think th at
+a bird in the
+l nnd w as worth two in the bush .
+
+
+1 0
+T h e
+K a m a S u t r a
+4 th .
+T he existence of this world is effected by the observ
+ance of the rules respecting the fou r cl asses * of men and their
+four stages of life .
+sth , We
+see that seed is thrown into the ground with the
+hope of future crops .
+Vatsyayana is therefore of Opinion that the ordinances of
+religion must be obeyed .
+Objection 3
+.
+Those who believe that destiny is the prime mover of
+all
+things say z—We should not exert ou rselves to acquire wealth ,
+for sometimes it is not
+acquired
+although we strive to get it,
+while
+at other times it comes to us of itself without any
+ex
+e rtion on our part.
+Everything is therefore in the power of
+destiny , who is the lord of gain
+and loss , of success
+and de
+feat, of pleasure
+and pai r
+Thus we
+see
+that Balif
+w as
+raised
+to the
+throne of Indra by destiny ,
+and w as
+also put
+down by
+the same power,
+and it is destiny only
+that
+can
+reinstate him .
+A nswer .
+It is not righ tt o s ay so .
+A s the acquisition of every object
+presupposes
+at all
+events some
+exertion on
+the part of man ,
+the
+application of prope r means may be said to be the cause
+of gaining all our ends ,
+and this application of proper means
+being thus necessary ( even where
+a thing is destined to hap
+pen)
+, it follows that
+a person who does
+nothing will
+enjoy
+no happiness .
+Objection 4
+.
+T hose who
+are inclined
+to think
+that A rtha is the chief
+obj ect
+to be obtained
+a rgue
+thus .
+Pleasures should
+not be
+sought
+for,
+because
+they
+are obstacles
+to
+the practice
+of
+Dharma
+and A rtha , which
+are both superior
+to them ,
+and
+.
+are also disliked by meritorious persons.
+Pleasu res also bring
+a man into distress ,
+a nd into contact with low persons ;
+they
+cause
+him
+to commit unrighteous deeds ,
+and produce
+im
+pu rity in him ;
+they m ake him
+regardless of the futu re ,
+and
+Among the Hindoos the four classes of men
+are the Brahmans or priestly
+cl ass , the K shutrya or w arlike class . the
+Vaishya or
+agricultural
+and mercantile
+class ,
+and the Shoodra or menial class .
+The four st ages of life
+are . the life of
+a religious
+student , the life of
+a householder , the life of
+a hermit .
+and the life
+of
+a S a nyasi or devotee .
+T B ali
+w as
+a demon who
+had conquered I ndra
+and gained his throne , but
+w as
+afterwards overcome by Vishnu
+at the time of his ﬁfth incarn ation .
+"
+
+
+
+## CHAPT ER III .
+
+On
+the A rts
+a nd Scie nces to be Studied .
+M AN should s tudy the Kama S utra
+a nd the
+arts
+and sciences
+subordin ate the reto , in
+addition to the study
+of the
+arts
+a nd
+sciences con tained in Dharma a nd A rtha .
+Eve n you ng m aids
+should study this Kama S utra
+along with its arts a nd scie nces
+before m arriage ,
+and
+afte r it
+they should co ntinue
+to do so
+with the consent of their husbands .
+He re some learned m en object ,
+a nd
+say
+th at fem al es ,
+not
+being
+allowed
+to study
+any science , should
+n ot study
+the
+Kama S utra .
+But Va tsyayana is of opinio n that this Objectio n does not
+hold good , for women
+al ready know
+the practice
+of K ama
+S utra ,
+and
+that practice is derived from
+the Kama Shastra ,
+i t the science of Kama itself .
+M oreove r, it is not only in this
+but in many other cases that though the p ractice of a science
+is known to all, only
+a few perso ns
+are
+acqu ainted with the
+rules a nd l aws on which the scie nce is based .
+T hus the Yad
+nikas or sacriﬁcers , though ignoran t of gramm ar , m ake use of
+appropriate words when
+addressing the different Deities ,
+and
+do
+not know how
+these words
+are framed .
+Again , persons
+do the duties
+required of them on
+auspicious days , which
+are
+ﬁxed by
+astrology ,
+though they
+are
+not
+acquainted with the
+science
+of astrology .
+I n
+a like m an ner
+riders
+of horses
+and
+elephants
+train
+these
+a nim als without knowing
+the scie nce
+of training
+a nimals , but from practice only .
+A nd similarly
+the people
+of
+the most distant p rovinces Obey
+the l aws
+of
+the kingdom from p ractice
+and because
+the re is
+a ki ng over
+them ,
+and without fu rther
+reason . *
+A nd from
+experie nce
+w e ﬁnd
+that some women , such
+a s the daughte rs
+of p rinces
+a nd their ministe rs ,
+a nd public women ,
+a re
+actually ve rsed in
+the Kama Shastra .
+A fem ale ,
+therefore , should learn
+the Kama Shastra ,
+or
+at
+l e ast
+a part
+of it , by studyi ng its p ractice from some
+con
+ﬁde ntial frie nd .
+She should study alone in private the sixty
+fou r practices
+that form
+a part
+of the Kama S hastra .
+Her
+The
+author wishes to prove th at
+a great m any things
+are done by people
+from practise
+and custom , without their being
+acqu ainted with the reason of
+things , or the l aws on which they
+a re based ,
+and this is perfectly true .
+
+
+The Kama S utra of Vatsyayana
+1 3
+teacher should be
+one of
+the following persons ,
+viz
+the
+daughter of
+a
+nu rse brought up with he r
+and
+already mar
+ried , *
+or
+a female friend who
+can be trusted in
+everything ,
+or the siste r of her mother (i. e
+her
+au nt)
+,
+or a n old female
+servant , or a fem ale beggar who may have formerly lived in
+the family,
+or her ow n Sister, who can
+always be trusted .
+T he following are the arts to be studied , together with the
+
+## Kama Sutra :
+
+1
+Singing .
+2
+Pl aying
+on musical instruments .
+3 Dancing .
+4
+. U nion
+of danci ng , Si ngi ng ,
+a nd playing instrumental
+mu31c .
+5 Writing
+and drawing .
+6 Tattooing .
+7 A rraying and
+adorning
+an idol with rice and ﬂowers.
+8 Spreading
+and
+arranging beds or couches of ﬂowers , or
+ﬂowers upon the grou nd
+9 Coloring the teeth , garments , hair ,
+n ails and bodies , i .e
+staining , dyeing , coloring and painting the same .
+I O Fixing stained glass into
+a ﬂoor .
+1 1
+T he art of m aking beds ,
+and spreading out carpets and
+cushion s for
+reclining .
+1 2 Playing
+on musical glasses ﬁlled with water .
+1 3 Storing and accumulating water in
+aqueducts . cisterns ,
+and
+reservoirs .
+1 4
+Pictu re m aking ,
+trimming ,
+and decorating .
+1 5 Stringing of rosaries ,
+necklaces , garlands ,
+and wreaths .
+1 6
+Binding of
+turbans
+and chaplets ,
+and m aki ng crests
+and
+top
+-knots
+of ﬂowers .
+1 7 Scenic
+representations .
+Stage plav ing
+.
+1 8
+A rt of m aking e ar ornaments .
+1 9
+A rt
+of preparing perfumes
+and Odors .
+2 o Proper
+disposition
+of jewels
+and
+decorations ,
+and
+adornment in dress .
+2 1
+M agic or sorcery .
+2 2 Q uickness of hand
+or m anual skill .
+2 3 Culin ary
+a rt , i . e
+cooking
+a nd cookery .
+2 4 M aking lemonades , sherbets ,
+acidulated
+drinks ,
+and
+spirituous extracts with proper ﬂavor and color .
+2 5
+T ailor
+’s work and sewing .
+The proviso of being married
+applies to
+all the teachers .
+
+
+1 4
+T h e
+K a m a S u t r a
+2 6 M aki ng pa rrots , ﬂowe rs , tufts ,
+tassels , bu nches , bosses ,
+knobs ,
+etc
+out of yarn or thread .
+2 7 Solution Of
+riddles ,
+e nigm as , covert speeches , verbal
+puzzles ,
+a nd
+enigmatical questio ns .
+2 8
+A gam e , which consisted in
+repeating ve rses ,
+a nd
+as
+on e pe rson ﬁnished ,
+another pe rson had to commence at once ,
+repeating
+another verse , begin ning with the same letter with
+which
+the l ast speaker
+’s verse
+ended , whoeve r fail ed
+to
+re
+peat, w as considered to have lost
+and to be subj ect to pay
+a
+forfeit
+or stake of some kind .
+29
+T he
+art of mimicry or imitation .
+3 0 Reading , i ncluding chanting
+and intoning .
+3 1
+S tudy of sente nces difﬁcult to pronou nce .
+It is played
+as
+a game chieﬂy by wome n
+and children ,
+and consists of
+a
+difﬁcult sentence bei ng given ,
+a nd when
+repeated quickly ,
+the words
+are often
+transposed
+or badly pronou nced .
+3 2
+Practice with sword , single stick , quarte r staff, and bow
+a nd
+arrow .
+3 3 Drawing inferences ,
+reasoning or infering
+.
+3 4 Ca rpentry ,
+or
+the work of
+a carpe nter .
+3 5
+A rchitectu re ,
+or
+the
+a rt
+of building .
+3 6 Knowledge
+about gold
+and Silver coins ,
+and jewels
+and gems .
+3 7 Chemistry and mineralogy .
+3 8 Coloring jewels , gems and beads .
+3 9
+Knowledge
+of mines
+a nd qu arries .
+4 o Gardening ; knowledge of treating the diseases of trees
+and plants , of
+nou rishing them ,
+and determi ning their
+ages .
+4 1
+A rt of cock ﬁghting , quail ﬁghting ,
+and ram ﬁghti ng .
+4 2 A rt of teaching parrots
+a nd starlings to speak .
+4 3
+A rt of applying perfum ed ointme nts to the body ,
+and
+of dressing the hair with u nguents
+and perfumes
+and braid
+i ng
+i t .
+4 4
+T he
+a rt
+of u nde rstanding writing in cyphe r
+a nd
+the
+writing
+of words in
+a peculiar w ay
+.
+4 5
+T he
+a rt of speaking by changi ng the forms of words .
+It is of various ki nds .
+Some speak by changing the begin ni ng
+a nd
+end of words , others by
+adding u nnecessary letters be
+tween
+every syllable
+Of a word ,
+and
+so on .
+4 6 K nowledge of languages and of the vern acular dialects .
+4 7
+A rt
+of m aking ﬂower ca rriages .
+4 8
+A rt of framing mystical diagrams , of addressing spells
+and charms ,
+and binding
+armlets .
+
+
+o f
+V a t s y a y a n a
+
+## I 5
+
+4 9 M en tal
+exe rcises , such
+as compl eting stanzas
+or verses
+on
+receiving
+a part Of them ;
+or supplyi ng one ,
+tw o or three
+lines whe n
+the
+remaining lines
+are given indiscrimi n ately
+from different verses ,
+so as to m ake the whole a n
+entire ve rse
+w ith
+regard
+to its m eaning ;
+or
+arrangi ng
+the words
+of
+a
+verse written i rregul arly by separating
+the vowels from
+the
+consona nts ,
+or leavi ng
+them
+out
+altogether
+or putting i nto
+verse
+or prose sentences
+represented by Signs
+or symbols .
+There
+are m any other such
+exercises .
+5 o Composing poems .
+5 1
+Knowledge of dictionaries and vocabularies .
+5 2
+Knowledge of ways of changing and disguising the ap
+p earance of pe rsons .
+5 3
+Knowledge of
+the
+art of changing
+the
+appearance of
+things , such
+as m aking cotton
+to
+appear
+as silk , coarse
+and
+common
+things to appear
+as ﬁne
+and good .
+5 4
+V arious ways of gambling .
+5 5
+A rt of obtaining possession of the property of others
+b y means
+of m a ntras
+or i ncantations .
+5 6 Skill in youthful sports .
+5 7 Knowledge of the
+rules of society ,
+and of how to pay
+r espects
+and compliments to others .
+5 8
+Knowledge of the
+art of w ar, of
+arms ,
+armies ,
+etc .
+5 9
+Knowledge of gym nastics .
+6 0
+A rt of knowing
+the character of
+a man from
+his
+features .
+6 1
+Knowledge of scanni ng or constructing verses .
+6 2
+A rithmetical
+recreations .
+6 3 M aking
+artiﬁcial ﬂowers .
+64 M aking ﬁgu res
+and im ages in clay .
+A public wom an , e ndowed with a good disposition , beauty ,
+a nd other winning qualities ,
+and
+also versed in
+the
+above
+arts , obtains the name of a Ga nika , or public wom an of high
+quality , and receives a seat of honor in an assemblage of men .
+She is , moreover,
+always
+respected by
+the king ,
+and p raised
+b y learned men ,
+a nd her favor sought for by all, she becomes
+an object of u niversal
+regard .
+T he daughter of a king , too,
+a s well
+as
+the daughter of
+a minister, being learned in
+the
+above
+a rts
+can m ake their husbands favorable to them ,
+even
+though
+these
+may
+have
+thousands of other wives besides
+themselves .
+A nd in
+the same man ner , if
+a wife becomes
+separated from her husband
+and falls into distress ,
+she
+can
+support herself
+easily ,
+even
+i n
+a foreign country
+.
+b v means
+
+
+1 6
+T he Kama S utra of Vatsyaya na
+of her knowledge
+of these
+arts .
+Even
+the bare knowledge
+of them gives
+attractiven ess to a woma n , though the practice
+of them may be only possible or otherwise
+according to the
+circumstances of
+each case .
+A man w ho is versed in
+these
+a rts , who is loqu acious
+and
+acquainted with
+the
+arts Of gal
+lantry , gains very soon the hearts of wome n ,
+even though he
+is only
+acquainted with them for
+a short time .
+
+
+
+## CHAPTER IV .
+
+The Life of a Citizen *
+HAVING thus
+acquired learning ,
+a m an , with the wealth that
+he may have gained by gift, conquest, pu rchase , deposit,
+‘f or
+inheritance from his ancestors , should become
+a householder,
+and pass the life of
+a citizen .
+H e Should take
+a house in
+a
+city, or l arge vill age ,
+or in
+the vicinity of good men ,
+or in
+a
+place which is the resort of m any pe rsons .
+T his abode should
+be Situ ated
+n ear some water,
+and divided i nto different
+com
+p artments for different pu rposes .
+It should be su rrou nded
+by
+a garden ,
+and
+also contain
+tw o
+rooms ,
+an outer
+and
+an
+in ner
+one .
+T he
+in ner
+room Should
+be occupied by
+the
+fem ales , whil e
+the outer
+room , balmy with
+rich perfumes ,
+should contain
+a bed , soft,
+agreeable
+to
+the sight, covered
+with a clean white cloth , low in the middle part, having gar
+lands
+and bu nches of ﬂowersi upon it ,
+and
+a canopy
+above
+it ,
+and tw o pillows ,
+one
+at the
+top ,
+another
+at the bottom.
+There should be also a sort of couch b esides ,
+and
+at the head
+of this a sort of stool , on which Should be pl aced the fragrant
+oin tments for the
+night,
+as well
+as ﬂowers , pots containing
+collyrium
+and other fragrant substa nces , thi ngs used for p er
+fuming the mouth ,
+and the bark of the common citron tree .
+N ear
+the couch ,
+on
+the grou nd ,
+there should be
+a pot for
+spitting ,
+a box containing orn aments,
+and
+also
+a lute hang
+ing from
+a peg made
+of the
+tooth
+of
+a n
+elephant,
+a board
+for drawing ,
+a
+pot containing perfume , some books ,
+a nd
+some garl ands
+of
+the yellow
+amaranth ﬂowers .
+N ot
+far
+from the couch ,
+a nd on the ground , there should be
+a
+round
+seat ,
+a
+toy cart ,
+and
+a board for pl aying with dice ; outside
+the outer
+room
+there should
+be cages
+of birds ,
+*
+and
+a
+separate place for spin ning , carving
+and such like div ersons .
+I n
+the garden there Should be
+a whirling swing
+and
+a
+com
+mon Swing ,
+as also a bower of creepers cove red with ﬂowe rs ,
+in which
+a
+raised parterre should be made for Sitting .
+This term would
+appear to
+apply generally to
+an inhabit ant of Hindoo
+st an .
+It is not meant only for
+a dweller in
+a city , like the L atin
+Urban us
+as
+opposed to R usticus .
+T Gift is peculiar to
+a Brahman , conquest to
+a
+K sha trya , while purchase .
+deposit ,
+and other means of
+acquiring wealth belong to the
+Vaishya .
+1
+N atural garden ﬂowers .
+Such
+as qu ails , partridges , parrots , st arlings . etc .
+
+
+1 8
+T h e
+K a m a S u t r a
+N ow
+the householder , having got up in
+the morning
+and
+performed his
+necessary duties,
+’r Should w ash his
+teeth ,
+ap
+ply
+a limited quantity
+of ointments
+and pe rfum es
+to his
+body , put some o rn amen ts
+on his person
+and collyrium
+on
+his eyelids a nd below his eyes , color his lips with
+alacktakaﬁt
+and look
+at himself in
+the glass .
+H aving
+then
+e ate n betel
+le aves , with
+other
+things
+that give fragra nce
+to the mouth ,
+he should perform
+his usu al busin ess .
+H e should bathe
+daily ,
+a noint his body with Oil
+every other day ,
+apply
+a
+l atheri ng § substance
+to his body
+every
+three
+days ,
+get his
+head (i ncluding face) shaved
+every fou r days ,
+a nd the othe r
+parts of his body
+every ﬁv e
+or ten days .”All these thi ngs
+should be done without fail ,
+a nd
+the sweat
+of the
+armpits
+should
+also be
+removed .
+M e als should be taken in the fore
+noon ,
+in
+the
+afte rnoon ,
+and
+again
+at
+night ,
+according
+to
+Charayana .
+A fter b reakfast , p arrots
+a nd other bi rds should
+be
+taught
+to Speak ,
+and
+the ﬁghting
+of cocks , qu ail s,
+and
+rams should follow .
+A limited
+time should be devoted
+to
+diversion with Pithama rdas,
+Vitas,
+and Vidushakas , ﬂ
+and
+then should be
+taken
+the midday
+A fter
+this
+the
+householder ,
+having
+pu t
+on
+his clothes
+and
+o rn aments ,
+Should ,
+during
+the
+afternoo n , converse with
+his frie nds .
+I n
+the
+eve ning
+there Should b e Singing ,
+a nd
+after
+that
+the
+householder,
+along with
+his friend , should
+await
+in
+his
+room , previously decorated
+a nd perfumed ,
+the
+arrival
+of the
+wom a n
+that m ay
+be
+attached
+to him ,
+or he
+may send
+a
+fem ale messenger for he r ,
+or go
+to her himself .
+A fter her
+a rrival
+at his house , he
+a nd his friend Should welcome her .
+and
+entertain he r with
+a loving
+and
+agreeable conve rsatio n .
+T hus end the duties of the day
+.
+T he following
+are
+the
+things
+to be done occasion ally
+as
+diversions
+or
+amusements .
+1
+Holdi ng festivals *
+in honor of different Deities .
+2 Social gatherings of both sexes .
+3 Drinking parties .
+1
+“ The calls of n ature
+always performed by the
+Hindoos the ﬁrst thing in
+the morning .
+
+## I
+
+
+## A
+
+colour m ade from
+lac .
+This would
+a ct instead of soap , which
+w as not introduced until the rule
+of the M ahomedans .
+I"Ten days
+a re
+allowed when the h air is t aken out with
+a pair of pincers .
+ﬂThese
+a re
+ch aracters generally introduced in the
+Hindoo drama ; their
+ch aracteristics will be expl ained further on .
+Noonday sleep is only
+allowed in summer . when the nights
+a re
+Short .
+These
+are very common in
+all parts of India .
+
+
+2 0
+T h e
+K a m a S u t r a
+the most beautiful , who m ay like
+the same
+things
+that
+the
+men like ,
+and who may h ave power to attract the minds of
+others ,
+are here done hom age
+to.
+Drinking Parties
+M en
+a nd women should drink in
+one
+another
+’
+s houses.
+A nd he re
+the men should cause
+the public women
+to drink ,
+and
+should
+then
+d rink
+themselves ,
+liquors
+such
+as
+the
+M adhu, A ireya , Sara ,
+and Asawa , which
+are of bitter
+a nd
+sou r
+taste ;
+also drinks concocted from
+the barks of various
+trees , wild fruits ,
+and leaves .
+Going
+to Garde ns
+or Picnics
+I n
+the fore noon , m en , havi ng dressed
+themselves , should
+go
+to gardens
+on horseback ,
+accompanied by public women
+and followed by servants .
+A nd having done
+there
+all
+the
+duties
+of the day ,
+and p assed
+the
+time in various
+agreeable
+diversions , such
+as
+the ﬁghting
+of qu ails , cocks ,
+a nd
+rams ,
+and other spectacles ,
+they should
+retu rn home in
+the
+after
+noon in
+the same m an ner, bringing with
+them bunches
+of
+ﬂowe rs ,
+etc .
+T he same
+also
+applies to bathing in
+the summer in water
+from which wicked
+or dangerous
+animals have previously
+been
+taken
+out,
+and which has been built in
+on
+all sides .
+Other Social Diversions
+Spending
+nights pl aying with dice .
+Going out on moon
+light
+nights .
+Keeping
+the festive day in honor
+of spring .
+Plucki ng the sp routs and fruits of the m angoe trees .
+Eating
+the ﬁbres
+of lotuses .
+Eating
+the
+tender
+ears of corn .
+Pic
+nicing in
+the forests when
+the
+trees get
+their
+new foliage .
+T he
+Udakakshvedika
+or sporting in
+the water .
+Decorat
+mg
+each other with the ﬂowers of some trees .
+Pel ting
+each
+other with the ﬂowe rs of the Kadamba tree . and m any other
+sports which m ay
+either be known
+to
+the whole country .
+or may be peculiar
+to particular parts of it .
+T hese
+and
+similar other
+amusements should
+always be carried
+on by
+citizens .
+T he
+above
+amusements Should be followed by
+a person
+who diverts himself
+alon e in company with
+a cou rtezan ,
+as
+w ell as by a cou rtezan who can do the same in compa ny with
+her maid servants
+or with citizens.
+
+
+o f
+V a t s y a y a n a
+2 1
+
+## A
+
+Pithamarda *
+is
+a ma n without wealth ,
+alone
+in
+the
+world , whose only prope rty consists
+of his M allikan
+L some
+lathe ring substance ,
+a nd
+a
+red cloth ,
+who comes from
+a
+good cou ntry ,
+and
+who is skilled in
+all
+the
+arts ;
+and by
+teaching
+these
+arts is
+received in
+the company of citizens,
+and in
+the
+abode
+of public women .
+A Vitai is
+a man who has
+enjoyed the pleasu res of for
+tu ne ,
+who is
+a compatriot
+of
+the citizens with whom he
+associates , who is possessed of the qu alities of a householder,
+who has his wife with him ,
+a nd who is honored in
+the
+as
+sembly
+of citizens
+and in
+the
+abodes
+of public women ,
+and
+lives
+on
+their mea ns
+a nd on
+them .
+A Vid ushaka § ( also called a Vaihasaka , i . e
+on e who p ro
+vokes l aughter)
+is
+a person only
+acquainted with some of
+the
+arts , who is
+a j ester ,
+and who is trusted by
+all .
+These persons
+are
+employed in matte rs
+of qu arrels
+and
+reconciliations between citizens
+and public women .
+This
+rema rk
+applies
+also
+to female beggars ,
+to women
+with
+their heads Shaved ,
+to
+adulterous women ,
+and
+to
+old
+public women skilled in
+all
+the various
+arts .
+T hus
+a citizen living in his town
+or village ,
+respected by
+all, should call
+on
+the persons
+of his
+ow n caste who may
+be worth knowing .
+He should converse in company
+and
+gratify his friends by his society ,
+and obliging Others by his
+assistance in various m atters , he should cause
+them
+to
+assist
+on e
+another in
+the same w ay
+.
+There
+a re some verses
+on
+this subj ect
+
+## as follows :
+
+A citizen discoursing ,
+not
+entirely in
+the Sanscrit langu
+A ccording to this description
+a Pithamarda would be
+a sort of professor
+of
+all the
+arts ,
+and
+as such received
+as the friend
+and conﬁdant of the citizens .
+T A seat in the form of the letter T .
+i The
+Vita is supposed to represent somewhat the character of the Para
+site
+of the Greek comedy .
+‘
+It is possible th at he
+w as retained
+about the per
+son
+of the wealthy
+and dissipated
+as
+a kind of private instructor ,
+as well
+as
+an entertaining companion .
+Vidushaka is evidently the buﬂ
+'
+oon
+and jester . Wilson says of him th at
+he is the humble comp anion , not the servant , of
+a prince or man of rank ,
+and
+it is
+a curious peculiarity th at he is
+always
+a Brahma n .
+He bears more
+affinity
+to S ancho Panza , perhaps , th an
+any other ch aracter in western ﬁction , imit ating
+him in his combin ation of shrewdness
+and simplicity , his fondness of good
+living
+and his love of ease .
+In the dramas of intrigue he exhibits some of the
+talents of M erc ury , but with less
+activity
+and ingenuity ,
+and occasion ally suffers
+by his interference .
+A ccording to the technical deﬁnition of his
+attributes he
+is to excite mirth by being ridiculous in person ,
+age ,
+and
+attire .
+
+
+2 2
+T he
+Kama S utra of
+Va tsyaya na
+age ,
+*
+nor wholly in
+the dialects
+of the cou n try ,
+on various
+topics in socie ty , ob tains great
+respect .
+T he wise should
+not
+resort
+to
+a society disliked by
+the public , governed by
+no
+rules ,
+a nd in te nt
+on
+the
+destruction
+of others .
+But
+a
+l ea rn ed ma n living in
+a socie ty which
+acts
+according
+to the
+wishes
+of
+the people ,
+and which has pleasure for its only
+obj ect is highly
+respected in
+this world .
+This means , it is presumed , th at the citizen should be
+acqu ainted with
+several
+l angu ages .
+The middle part of this paragraph might
+apply to the
+Nihilists
+and Fenia ns of the day , or to secret societies .
+It
+w as perh aps
+a ref
+erence to the Thugs .
+
+
+
+## CHAPT ER
+
+
+## V .
+
+A bout
+the Kinds of Women Resorted
+to by
+the Citize n
+'s ,
+a nd of Friends
+a nd M essengers .
+WHEN Kama is practiced by men of the fou r castes
+accord
+ing to the
+rules of the Holy Writ
+by lawful m a rriage)
+with virgins of their ow n caste , it then becomes
+a means of
+acquiring l awful p rogeny
+and good fame ,
+and it is
+not
+also
+opposed
+to the customs of the world .
+On
+the co ntrary the
+practice of Kama with women Of the highe r castes,
+and with
+those p reviously
+e njoyed by others ,
+even
+though
+they be of
+the same caste , is prohibited .
+But the p ractice of Kama with
+women
+of
+the lower castes , with wome n
+excommu nicated
+from
+thei r ow n caste , with public wome n ,
+and with women
+twice ma rried ,
+*
+is
+neithe r
+e njoined
+nor p rohibited .
+T he
+object of p racticing Kama with such women is pleasu re only .
+N ayika sj
+’
+therefore ,
+are
+of
+three
+ki nds ,
+Vi z
+m aids ,
+women
+twice ma rried ,
+a nd public women .
+Gonikap utra
+has
+expressed
+an Opinion
+that
+there is
+a fou rth kind of
+N ayika , viz
+a woma n who is
+resorted
+to
+on some special
+occasion
+eve n
+though
+she be previously m arried
+to
+another .
+These special occasions
+a re when
+a man
+
+## thinks thus :
+
+( a)
+This wom an
+is self
+- willed ,
+and
+has been
+pre
+v iously enjoyed by m any others besides myself .
+I may ,
+therefore , safely
+resort
+to her
+as
+to
+a
+public woman
+though
+she belongs
+to
+a higher
+caste
+than mine ,
+and
+in so doing I Shall
+not
+be violating the ordin a nces of Dharma .
+Or
+
+## thus :
+
+( b)
+This is
+a
+twice -m arried woman
+and
+has
+been
+enjoyed by othe rs before me ,
+there is ,
+there
+fore ,
+no Obj ection to my
+resorting to her .
+This term does not
+apply to
+a widow , but to
+a wom an who
+has prob
+ably left her husband ,
+and is living with some other person
+as
+a m arried wom an ,
+maritalement,
+as they
+say in France .
+1
+“ A ny wom an ﬁt to be enjoyed without sin .
+The object of the enjoyment
+of women is twofold , viz . , pleasure
+and progeny .
+A ny woman who
+can be
+enjoyed without sin for the purpose of
+accomplishing either the one or the
+other of these two objects is
+a
+N ayika .
+The fourth kind of
+N ayika which
+Vatsya
+admits further on is neither enjoyed for pleasure or for progeny ,
+but
+merely for
+accomplishing some special purpose in hand .
+The word
+Nayika
+is retained
+as
+a technical term throughout .
+
+
+24
+T h e
+K a m a S u t r a
+Or
+
+## thus :
+
+(c)
+T his wom an
+has gai ned
+the heart
+of her great
+and powerful
+husband ,
+and
+exercises
+a
+mas
+te ry ove r him , who is
+a friend
+of my
+e nemy ;
+if,
+therefore ,
+she becomes u nited with me
+she
+will cause he r husband
+to
+abandon my
+e nemy .
+Or
+
+## thus :
+
+(d)
+T his wom an will tu rn the mind of her husband .
+who is very powerful ,
+in my favor, he being
+at p rese nt disaffected towards me ,
+and intent on
+doing me some harm .
+Or
+
+## thus :
+
+( e)
+By m aking
+this wom an my friend I Shall gai n
+the object
+of some friend
+of mine ,
+or shall be
+able
+to effect
+the
+ruin of some
+e nemy ,
+or shall
+accomplish some other difﬁcult pu rpose .
+Or
+
+## thus :
+
+(f)
+By being u nited with
+this woman ,
+I shall kill
+her husband , and so obtain his vast riches which
+I covet .
+
+## Or thus :
+
+(g)
+T he union of this woman with me is not attended
+with
+any danger,
+and will b ring me wealth , of
+which , on
+account of my poverty
+and in ability
+to support myself , I
+am very much in
+need .
+
+## I
+
+shall ,
+therefore obtain
+her vast
+riches in
+this
+w ay without
+any difﬁculty .
+
+## thus :
+
+(h)
+T his woman loves me
+a rde ntly ,
+and knows
+all
+my weak points , if
+therefore ,
+
+## I
+
+am u nwilling
+to be u nited with he r,
+She will m ake my faults
+public ,
+a nd
+thus
+tarnish
+my
+character
+and
+reputation .
+Or
+She will bring some gross
+ac
+cusation
+agai nst me ,
+of which it m ay be hard
+to cl ear myself ,
+and I shall be
+ruined .
+Or pe r
+haps
+she will detach from me her husba nd who
+is powerful ,
+and
+yet u nder her control ,
+a nd
+will u nite him
+to my
+e nemy ,
+or will
+he rself
+join
+the latte r .
+Or thus
+(i)
+T he
+husband
+of
+this woman
+has violated
+the
+chastity
+of my wives ,
+I shall
+therefore
+retu rn
+that inju ry by seducing his wives .
+
+
+o f
+V a t s y a y a n a
+
+## Or thus :
+
+(j)
+By the help
+of this woman I shall kill
+a n
+e nemy
+of the king, who ha s taken shelter with her, and
+whom I
+am ordered by the king to destroy .
+
+## Or thus :
+
+(k)
+The woman whom I love is u nder the control of
+this woman .
+I shall ,
+th rough
+the i nﬂuence of
+the l atter, be
+able
+to get
+at
+the former .
+
+## Or thus :
+
+
+## (I)
+
+T his wom an will bring to me a m aid , who possesses
+wealth
+a nd beauty , but who is hard
+to get
+at ,
+and u nder the control of another .
+
+## Or l astly thus :
+
+(m)
+M y
+enemy is
+a friend
+of this wom an
+’s husband ,
+I shall
+the refore cause her join him ,
+a nd will
+thus create
+an
+enmity between her husband and
+him .
+For these and Similar other reasons the wives of other men
+may be
+resorted to, but it must be disti nctly u nderstood that
+if
+only
+allowed for special
+reasons ,
+and
+not for mere c arnal
+es1re .
+Charayana
+thinks
+that unde r
+these circumstances
+there is
+also a ﬁfth kind of of N ayika , viz
+a woman who is kept by a
+minister,
+or who
+repairs
+to him occasionally ;
+or
+a widow
+who accomplishes the purpose of
+a man with
+the person
+to
+whom
+she
+resorts .
+S uvarnanabha
+adds that
+a woman who passes the life of
+an
+ascetic
+and in
+the condition of
+a widow m ay be
+con
+sidered
+as a sixth kind of N ayika .
+Ghotakamukha says that the daughter of a public woman ,
+and
+a fem ale servant , who
+are still virgins , form
+a seventh
+kind of N ayika .
+Gonardiya puts forth his doctrine
+that
+any woman born
+of good family ,
+after
+she has come of
+age, is
+an
+eighth kind
+of N ayika .
+But these fou r latter kinds of N ayikas do not differ much
+from
+the ﬁrst four kinds
+of
+them ,
+as
+there is
+no separate
+obj ect in
+resorting
+to
+them .
+T herefore ,
+Vatsyayana is of
+opinion
+that
+there
+are only fou r kinds
+of N ayikas, i. e
+the
+maid , the twice -married woman , the public woman ,
+and the
+woman
+resorted
+to for
+a special pu rpose .
+T he following women
+are
+not
+to be
+
+## enjoyed :
+
+
+## A
+
+leper .
+
+
+2 6
+T h e
+K a m a S u t r a
+A lu n atic .
+wom a n
+tu rned
+ou t Of c aste .
+wom an
+w ho
+reveals sec rets .
+wom a n
+w ho publicly
+exp resses
+a desire
+for sexu al
+i ntercou rse .
+wom a n
+w ho is
+ex trem ely white .
+woma n w ho is
+extrem ely black .
+b ad -smelli ng wom an .
+woma n who is
+a
+nea r
+relation .
+wom an w ho is
+a fem ale frie nd .
+wom a n w ho leads the life
+of a n
+ascetic .
+A nd , l astly
+the wife
+of
+a
+relation ,
+of
+a friend ,
+of
+a
+lea rned B rahma n ,
+and
+of the king .
+T he followers
+of Babhra vya
+say
+that
+any wom an
+who
+has been
+e njoyed by ﬁv e me n is
+a ﬁt
+a nd prope r pe rson
+to
+b e
+e njoyed .
+Bu t Gonikap utra is of opinion
+that
+even whe n
+this is the case , the wives of a
+relation , of a lea rned B rahma n
+a nd of
+a king should be
+excepted .
+T he following
+are
+
+## the kind of friends :
+
+O ne
+who has pl ayed with
+you
+in
+the
+dust ,
+i . e . ,
+in
+childhood .
+On e w ho is bou nd by
+an obligation .
+O ne w ho is
+Of the same disposition
+and fond
+of
+the
+sam e
+things .
+One who is
+a fellow stude nt .
+One
+who is
+acquainted with you r secrets
+and faults .
+and whose faults and secrets a re also known to you .
+On e who is
+a child
+of you r
+nu rse .
+On e who is brought up with you .
+One who is
+a n hereditary friend .
+
+## T hese friends should possess the following qu alities :
+
+T hey Should tell the truth .
+T hey Should
+not be cha nged by
+time .
+T hey should be favorable
+to you r designs .
+T hey Should be ﬁrm .
+T hey should be free from cove tousn
+’
+ess .
+T hey Should
+not be
+ceap able of being gained ove r by
+others .
+They should
+not
+reveal you r sec rets .
+Chara ya na says that citize ns form friendships with washer
+men , barbers , cowherds , ﬂorists , d ruggists , betal -le af Selle rs ,
+tave rn keepe rs , begga rs , Pithama rdas , Vitas,
+a nd Vidushekas,
+as also with the wives of all these people .
+
+
+III . From the
+Bl ack P agoda
+1 3 th Century
+T empl e
+of S urya
+I at Konarak
+
+
+
+## PART II
+
+of
+
+## SE"UAL U NION
+
+
+
+3 2
+T h e
+K a m a S u t r a
+with a man most remote from her in size is called the lowest
+union ,
+and is of
+one kind only .
+In other words , the horse and mare , the bull and deer, form
+the high - union , while the horse
+and deer form
+the highest
+union .
+On
+the fem ale side ,
+the
+elepha nt
+and bull,
+the mare
+and hare , form low - unions, while the
+elepha nt
+and the hare
+m ake the lowest-unions .
+T here
+are then ,
+nine kinds
+of u nion
+according to dimen
+sions .
+Amongest all these , equal -unions are the best, those of
+a superlative
+degree ,
+i . e
+the
+highest
+a nd lowest ,
+are
+the
+worst, and the rest are middling, and with them the high * are
+better than the low .
+There
+are
+also
+nine kinds of union
+according to the force
+of passion
+or carnal desi re ,
+
+## as follows :
+
+
+## WOMEN .
+
+Small
+Small
+Sm all .
+M iddling .
+Sm all .
+Intense .
+Intense .
+Intense .
+Middling .
+Small .
+M iddling .
+Intense .
+Intense .
+Sm all .
+Intense .
+M iddling .
+A m an is called
+a man
+of small p assion whose desire
+at
+the time of sexual u nion is
+not great , whose semen
+i s scanty ,
+and who can not bear the warm
+embraces of the fem ale .
+T hose who differ from this temperament are called men of
+middling passion , while
+those
+of i ntense passion
+are full
+of
+desire .
+I n
+the same w ay , wome n
+are supposed
+to have
+the
+three
+degrees
+of feeling
+as speciﬁed
+above .
+Lastly ,
+according to time there a re three kinds of men
+and
+women , viz
+the short - timed ,
+the moderate - timed ,
+and
+the
+long
+- timed ,
+and of these
+as in the previous statements ,
+there
+are
+nine kinds
+of u nion .
+High - unions
+are said to be better th an
+low-ones , for in the former it is
+possible for the m ale to satisfy his own passion without injuring the female .
+while in the l atter it is
+diﬂicult for the
+fein ale to be satisﬁed by
+any means .
+
+
+of
+V a t s y a y a n a
+3 3
+But on this l ast head there is a difference of opinion
+about
+the fem ale , which should be stated .
+A uddalika says ,
+“Females do not
+emit
+as m ales do.
+T he
+m ales simply
+remove
+their desire , while
+the females , from
+their consciousness
+of desire , feel
+a certain kind
+of pleasu re ,
+which gives
+them satisfaction , but it is impossible for them
+to tell you what kind of pleasure they feel .
+T he fact from
+which
+this becomes
+eviden t is ,
+that m ales , whe n
+engaged in
+coition
+cease
+of themselves
+after
+emission ,
+and
+are satisﬁed ,
+but it
+i s
+not so with fem ales .
+This opinion is however objected to on the grou nds ,
+that
+if
+a m ale be long
+- timed ,
+the female loves him the more , but
+if he be short -timed ,
+she is dissatisﬁed with him .
+A nd
+this
+circumstance , some
+say , would prove
+that
+the female
+emits
+also .
+But
+this opinion
+does
+not hold good ,
+for if it
+takes
+a
+long
+time
+to
+allay
+a woman
+’s desire ,
+and duri ng
+this
+time
+she is
+enjoying great pleasu re , it is quite
+natu ral
+then
+that
+she Should wish for its continuation .
+A nd
+on
+this subject
+there is
+
+## a verse as follows :
+
+By u nion with me n the lust, desire , or passion of women
+is satisﬁed .
+and
+the pleasu re derived from
+the consciousness
+of it is called their satisfaction .
+”
+T he followe rs of Babhravya , however,
+say that the semen
+of women continues to fall from the begin ning of the sexual
+u nion
+to its
+end ,
+and it is
+right that it should be so , for if
+they had
+no semen
+there would be
+no
+embryo .
+T o this there is an objection .
+In the beginning of coition
+the passion of the woman is middling ,
+a nd
+she can not bea r
+the vigorous thrusts of her love r , but by degrees her passion
+increases u ntil
+she ceases to think
+about her body ,
+and then
+ﬁn ally
+she wishes to stop from further coition .
+This objection , however , does
+not hold good , for
+even in
+ordin ary
+things
+that
+revolve with great force , such
+as
+a
+potter
+’s wheel ,
+or
+a
+top , w e ﬁnd
+that
+the motion
+at ﬁrst is
+slow ,
+b ut by degrees it becomes ve ry
+rapid .
+I n
+the same
+w ay
+the passion of
+the woman having gradually increased ,
+she has
+a desire
+to discontinue coition , when
+all
+the seme n
+has fallen
+away .
+A nd there is
+a verse with
+regard to this
+as
+
+## follows :
+
+“T he fall of
+the semen
+of
+the man
+takes pl ace only
+at
+the end of coition , while the semen of the woman falls
+con
+
+
+3 4
+T h e
+K a m a S u t r a
+tinually ,
+and
+after
+the semen
+of both has
+all falle n
+away
+they wish for
+the discontinu ance of
+Lastly , Vatsya yana is of opinion
+that
+the semen
+of
+the
+fem ale , falls in
+the sam e w ay
+as
+that
+of the m ale .
+N ow some
+one may
+ask here ;
+If men
+a nd women
+are
+beings of the same kind ,
+and
+a re
+engaged in b ri nging
+about
+the same
+result, why should they have different works to do.
+Va tsya says
+that this is
+so, because
+the ways of working
+as well
+as the consciousness of pleasu re in men
+and women
+a re diffe re nt .
+T he difference in
+the ways of working , by
+which men
+are the
+actors ,
+and women
+are the persons
+acted
+upon , is owing
+to the
+natu re
+of the m ale
+and
+the female ,
+otherwise
+the
+actor would
+he sometimes
+the person
+acted
+upon ,
+and vice versa .
+A nd from this difference in the ways
+of working follows
+the
+differe nce
+in
+the consciousness of
+pleasure , for a man thinks ,
+“
+this wom an is u nited with me ,
+”
+and
+a wom an thinks ,
+
+## “I
+
+am united with this man .
+It may be said
+that if
+the ways of working in men
+and
+women
+are differe nt, why should
+not
+there be
+a
+. diffe rence ,
+even in
+the pleasure
+they feel ,
+and which is
+the
+result of
+those ways .
+But this objection is groundless , for the person
+acting and
+the person
+acted upon being of different kinds ,
+there is
+a
+reason for the difference in their ways of working ; but there
+is
+no reason for
+any difference in the pleasure
+they feel, be
+cause
+they both
+naturally de rive pleasu re from
+the
+act they
+perform s"
+On
+this
+again some may
+say
+that when different persons
+are
+engaged in doing
+the same work, w e ﬁnd
+that
+they
+ac
+complish
+the same
+end or pu rpose ; while ,
+on
+the contrary ,
+
+
+o f
+V a t s y a y a n a
+3 5
+in
+the case of men
+and women w e ﬁnd
+that
+each of
+them
+accomplishes his or her
+ow n
+end separately,
+and
+this is in
+consistent .
+B ut this is a mistake , for w e ﬁnd that sometimes
+tw o things
+are done
+at the same time ,
+as for Li stancc in
+the
+ﬁghting of rams , both the
+rams
+receive the shock at the same
+time
+on
+their heads .
+Again , in
+throwing
+one wood
+apple
+against
+another,
+and
+also in
+a ﬁght or struggle of wrestlers ,
+If it be said
+that in
+these cases
+the
+things
+employed
+a re
+of
+the same kind , it is
+answered
+that
+even in
+the case of men
+and wom en , the n atu re of the tw o persons is the same .
+A nd
+as
+the diffe rence in
+their ways of worki ng
+arises from
+the
+difference of
+thei r conformation only , it follows
+that men
+experience
+the same kind of pleasu re
+as women do.
+There is
+also a
+v erse on this subject
+
+## as follows :
+
+“M en
+a nd women being of the
+same
+n ature , feel the same
+kind of pleasu re ,
+and
+therefore
+a m an should marry such
+a
+woman
+as will love him
+ever
+afte rwards .
+T he pleasu re
+of men
+and wome n being
+thus proved
+to
+be of the same kind , it follows that in
+regard to time ,
+there
+are nine kinds of sexual intercourse , in the same w ay as there
+are
+nine kinds
+according
+to the force of passion .
+There being
+thus
+nine kinds of u nion with
+regard
+to
+dimensions ,
+force of passion ,
+and
+time ,
+respectively ,
+by
+making combinations of
+them , in numerable kinds of
+u nion
+would be produced .
+The refore in
+e ach particul ar kind of
+sexual union , men should use such means
+as they may think
+suitable for the occasion . *
+A t the ﬁrst time of sexual
+union
+the passion of the m ale
+is intense,
+and his
+time is Short , but in subseque nt u nions
+on
+the same day
+the
+reverse of
+this is
+the case .
+With
+the
+fem ale however it is
+the contrary , for
+at
+the ﬁrst
+time her
+passion is weak .
+and then he r time long , but on subsequen t
+occassions
+on
+the same day , her passion is intense
+and her
+time short,
+u ntil he r passion is satisﬁed .
+On
+the different Kinds of Love .
+M en learned in the hum anities
+are of opinion that love is
+
+## of fou r kinds , viz , :
+
+This p aragraph should be particul arly noted , for it specially
+applies to
+married men
+and their wives .
+S o m any men utterly ignore the feelings of the
+wom an ,
+and never p ay the slightest
+attention to the passion of the l atter .
+To
+underst and the subject thoroughly , it is
+absolutely necessary to study
+i t .
+and
+then
+a person will know th at ,
+as dough is prepared for
+b aki ng ,
+.
+so must
+.
+a
+woman be prepared for sexual intercourse . if she is to derive satisfaction from it
+.
+n
+,
+
+
+3 6
+T h e
+Kama S utra of V atsyaya na
+1
+Love
+a -quired by co ntinual habit .
+2
+Love
+resulting from
+the imagi n ation .
+3
+Lov e
+resul ting from belief .
+4
+L ove
+res
+‘
+a
+‘ting from the perception
+of external obj ects .
+( 1
+Love
+resul ting from the consta n t and continu al per
+forzn ance
+of som e
+act , is called love
+acquired by constant
+p
+'actice
+and habit,
+as for instance
+the love
+of sexu al inter
+ourse ,
+the love
+of hu nting ,
+the love
+of dri nki ng ,
+the love
+of gambling ,
+e tc
+etc .
+( 2)
+Love which is felt for
+things
+to which w e
+are
+not
+habitu ated ,
+a nd
+which
+proceeds
+entirely
+from
+ideas ,
+is
+c alled love
+resulting from im agin ation ,
+as for i nstance ,
+that
+love which some men
+a nd women
+and
+eu nuchs feel for the
+A up a rishtaka
+or mouth congress ,
+and
+that which
+is felt
+by
+all for such
+things
+as
+embracing , kissing ,
+etc . ,
+etc .
+( 3 )
+T he love which is mutual on both sides ,
+a nd proved
+to be
+true , whe n
+each looks upon
+the other
+as his
+or her
+very
+ow n , such is called love
+resulting from belief by
+the
+learned .
+( 4 )
+T he love
+resulting from
+the perceptio n of
+external
+objects is quite
+evident
+and well known
+to
+the world , be
+cause the pleasu re which it
+affords is superior to the pleasu re
+of the other ki nds of love , which
+exist only for its sake .
+What has been said in
+this chapter upon
+the subj ect of
+sexual
+u nion is sufﬁcie nt for the lea rned ; but for the
+ediﬁca
+tion of
+the ignorant ,
+the same will
+now
+be
+treated of
+at
+length
+a nd in detail .
+
+
+
+## CHAPT ER II .
+
+Of
+the Embrace
+THIS part of the Kama Shastra , which treats of sexu al u nion ,
+is
+also called
+Sixty - fou r .
+(Chatushshashti)
+.
+Some
+old
+authors
+say that it is called so, because it contains sixty - four
+chapters .
+Others
+are of opinion that the
+au thor of this part
+being
+a p erson
+n amed Pa nchala ,
+and the person who recited
+the p art of th e Rig Veda called D asha tap a , which contain s
+sixty - fou r
+verses ,
+being
+also
+called
+Pa nchala ,
+the
+n ame
+sixty - fou r
+h as been give n
+to
+the part
+of
+the work
+in
+honor of the Rig Vedas .
+T he followers
+of B abhra vya
+say
+on the other hand that this part contains
+eight subjects , viz
+the
+embrace , kissing , scratching with
+nails or ﬁngers , biting.
+lying down , m aki ng various sou nds , playing
+the part of
+a
+m an
+a nd
+the A uparishtaka ,
+or mouth congress .
+Each
+of
+these subj
+cts being Of
+eight kinds ,
+and
+eight multiplied by
+eight being sixty -fou r ,
+this part is
+therefore
+n amed
+”Sixty
+fou r .
+But V atsyayana
+afﬁrms
+that
+as
+this part contains
+also
+the following subjects , viz
+striking , crying ,
+the
+acts
+of a man during congress ,
+the various ki nds of congress,
+and
+other subjects ,
+the
+n ame
+”sixty -fou r
+is given
+to it only
+accidentally .
+A s,
+for instance ,
+w e
+say
+this
+tree is
+Sapra
+pa rna ,
+or seven -leaved ,
+this offe ring
+of
+rice is
+Pa ncha
+va rna ,
+or ﬁv e -colored ,
+but
+the
+tree h as
+not seven l eaves .
+neither has the rice seven colors .
+However
+the part sixty
+- fou r is
+n ow
+treated
+of,
+and
+the
+embrace , being
+the ﬁrst subj ect , will
+now
+be considered .
+N ow
+the
+embrace which indicates
+the mu tu al love
+of
+a
+man
+and wom an who have come
+together is
+of fou r kinds ,
+viz .
+T ouching .
+Piercing .
+Rubbing .
+Pressi ng .
+T he
+action
+in
+each case
+is denoted by
+the meaning
+of
+the word which stands for it .
+( 1 )
+When
+a m an u nder some pre text
+or other goes in
+fron t
+or
+alongside
+of
+a wom an
+and
+touches her body with
+his ow n , it is called the
+“
+touching
+emb race .
+
+
+3 8
+T h e
+K a m a S u t r a
+( 2)
+When
+a wom an in
+a lon ely pl ace bends down ,
+as if
+to pick
+up som ething ,
+and pie rces ,
+as it were
+a m an Sitting
+or standing , with her b reasts
+a nd
+the m an
+i n
+retu rn
+takes
+hold
+of them , it is called
+a
+piercing
+embrace .
+T he
+above tw o kinds of embrace take pl ace o nly between
+persons who do not,
+as ye t, Speak freely with
+e ach other .
+3 )
+When tw o lovers
+a re walking slowly together ,
+either
+in the da rk , or in a pl ace of public resort , or in a lo nely pl ace ,
+and
+rub
+their bodies
+against
+e ach other , it is called
+a
+rub
+bing embrace .
+( 4 )
+When on the
+above occasion one of them p resses the
+other
+’s body forcibly
+again st
+a wall
+or pillar, it is called
+a
+pressing
+emb race .
+T hese
+tw o l ast
+emb races
+a re peculiar
+to those who know
+the intentions
+of
+each other .
+A t
+the
+time
+of m eeting
+the fou r following kinds
+of
+em
+brace
+a re used ,
+v iz .
+Jata veshtitaka ,
+or the
+twining of
+a creepe r .
+V rikshadhirudhaka ,
+or climbing
+a
+tree .
+T ila T a ndulaka , or the mixtu re of sesamum seed with rice .
+Kshiraniraka ,
+or milk
+and water
+embrace .
+( 1 )
+When
+a wom an , clinging
+to
+a
+man
+as
+a creeper
+twines
+rou nd
+a tree , bends his head down to hers with
+the
+desire
+of kissing him
+and slightly m akes
+the sound
+of
+sut
+sut,
+embraces him ,
+a nd looks lovingly
+towards him ,
+it is
+called
+an
+embrace like
+the
+“
+twining of a creeper .
+( 2)
+When
+a wom an , having pl aced
+one of her feet
+on
+the foot
+of her lover ,
+a nd
+th e other
+on
+one of his
+thighs .
+p asses one of her
+a rms
+rou nd his b ack ,
+and the other on his
+shoulders , m akes Slightly
+the sou nds
+of singing
+a nd cooing .
+and wishes ,
+as it we re ,
+to climb
+up him in order
+to have
+a
+kiss . it is called
+an
+emb race like
+the
+climbing of
+a
+tree .
+These
+tw o ki nds
+of embrace take pl ace when
+the lover is
+standing .
+( 3 )
+When lovers lie on
+a bed
+and embrace
+each other so
+closely
+th at the
+a rms
+and thighs of the
+on e
+are
+e ncircled by
+the a rms
+and thighs of the othe r ,
+a nd are ,
+as it were ,
+rubbi ng
+up
+against them ,
+this is called
+a n
+emb race like
+the mixtu re
+of sesamum seed with
+rice .
+(4 )
+Whe n
+a m an
+and
+a woman
+are very much in love
+with
+each other ,
+and
+not thinking of any p ain or hu rt ,
+em
+brace
+e ach other
+as
+i f
+they we re
+e ntering in to
+each other
+'s
+bodies
+either while
+the wom an is Sitting
+on
+the lap of
+the
+
+
+
+## CHAPT ER III .
+
+O n Kissing
+It is said by some that there is
+no ﬁxed time or orde r be
+twee n
+the
+embrace ,
+the kiss ,
+and
+the pressing
+or scratchi ng
+with
+the
+nails
+or ﬁngers , but that
+all these things should be
+done gen erally before sexu al u nion
+takes place , while strik
+ing
+a nd m aki ng
+the various sou nds generally
+takes pl ace
+at
+the
+time
+of the u nion .
+Va tsyaya na , however ,
+thinks
+that
+a nything may take place
+at
+any time , for love does
+not care
+for
+time
+or order .
+On the occasion of the ﬁrst congress , kissing and the other
+things mentioned
+above Should
+be
+done moderately ,
+they
+should not be continued for
+a long time ,
+and should be done
+altern ately .
+On subsequent occasions , however,
+the
+reverse
+of all this m ay take place ,
+and moderation will
+not be meces
+sary ,
+they may continue for
+a lo ng
+time ,
+and for
+the pu r
+pose of kindling love , they m ay be all done
+at the same time .
+T he following
+are
+the places for kissing , viz
+the fore
+head
+the eyes ,
+the cheeks , the throat , the bosom ,
+the breasts ,
+the l ips ,
+and the interior of the mouth .
+M oreove r the peo
+ple of
+the Lat country kiss
+also
+the following places , viz
+the join ts of the thighs ,
+the
+arms ,
+and the
+navel .
+But Va ts
+yagana thinks that though kissi ng is practiced by these people
+in the above pl aces on
+accou nt of the intensity of th eir love ,
+1
+a
+)
+nd "
+h
+e customs of their cou ntry , it is
+not ﬁt to be practiced
+y
+a
+N ow in a case of a you ng girl there are three sorts of kisses ,
+
+## Vi z. :
+
+T he
+nominal kiss .
+T he
+throbbing kiss .
+T he
+touching kiss .
+( 1 )
+When
+a girl only
+touches
+the mouth of her lover
+with her ow n , but does
+not he rself do anything . it is called
+the
+nomi nal kiss .
+( 2)
+When
+a girl , setting
+aside her bashful ness
+a little ,
+wishes
+to touch the lip
+that is p ressed i nto her mouth ,
+a nd
+with that object moves he r lower lip , but not the upper one ,
+it is called
+the
+”
+th robbing kiss .
+( 3 )
+Whe n
+a girl touches her lover
+'s lip with her tongue ,
+
+
+T he Kama Sutra of Vatsyayana
+4 1
+and having shut her
+eyes , places her hands on
+those of her
+lover , it is called the
+”
+touching kiss .
+’
+Other
+authors describe four other ki nds of kisses , viz
+T he straight kiss .
+T he bent kiss .
+T he
+tu rned kiss .
+T he pressed kiss .
+( 1 )
+Whe n the lips of tw o lovers
+are brought into direct
+contact with
+each other , it is called
+a
+“straight kiss .
+"
+( 2)
+When the heads of tw o lovers are bent towards each
+other,
+and when so bent , kissing
+takes place , it is called
+a
+bent kiss .
+3 )
+When one of them tu rns up the face of the other by
+holding
+the head
+and chin ,
+and
+then kissing , it is called
+a
+tu rned kiss .
+( 4)
+Lastly when
+the lower lip is pressed with much
+force , it is called
+a
+”pressed kiss .
+There is also a ﬁfth kind of kiss called the
+greatly p ressed
+kiss ,
+” which is
+effected by
+taking hold of
+the lower lip be
+tween tw o ﬁngers , a nd the n after touching it with the tongue ,
+pressing it with great force with
+the lip .
+A s
+regards kissing ,
+a wager may be l aid
+as to which will
+get hold of the lips of the other ﬁrst .
+If the woman loses ,
+she should pretend to cry , should keep her lover off by shak
+ing her hands , and tu rn away from him and dispute with him
+saying ,
+”Let
+a nother wager
+be laid .
+”
+If
+she loses
+this
+a
+second
+time ,
+she Should
+appear doubly distressed ,
+a nd when
+her love r is off his guard or asleep ,
+she should get hold of his
+lower lip ,
+a nd hold it in her teeth ,
+so that it should
+not slip
+away ,
+and then
+she should l augh , m ake
+a loud
+noise , deride
+him , da nce about ,
+and say whateve r she likes in a joking w ay ,
+moving her
+eyebrows ,
+and
+rolling her
+eyes .
+Such
+are
+the
+wagers
+and qu arrels
+as far
+as kissing is concerned, bu t
+the
+same may be applied with regard to the pressing or scratching
+with
+the
+nails
+a nd ﬁngers , biting
+a nd striking .
+A ll
+these
+howeve r
+are only peculiar
+to men
+and women
+of intense
+passion .
+When
+a m an kisses
+the upper lip of
+a wom an , while
+she
+in
+return kisses h is lower lip ,
+it is called
+the
+kiss
+of
+the
+upper lip .
+When one of them takes both the lips of the othe r betwee n
+his
+or he r
+ow n , it is called
+a cl asping kiss .
+A woma n ,
+however, only
+takes
+this kind
+of kiss from
+a man who has
+
+
+4 2
+The
+Kama S utra of
+V atsyaya na
+no moustache .
+A nd
+on
+the occasion of
+this kiss , if one
+of
+them
+touches
+the
+tee th ,
+the
+tongue ,
+and
+the palate
+of
+the
+other , with his or he r tongue , it is called the
+ﬁghting of the
+tongue .
+I n
+the sam e w ay ,
+the p ressing of the tee th of the
+on e against the mouth of the other is to be practiced .
+Kissing is of four kinds , viz
+moderate , contracted , p ressed ,
+and soft,
+according to the diffe rent parts of the body which
+a re kissed , for different kinds
+of kisses
+a re
+app ropriate for
+different parts
+of the body .
+When
+a wom a n looks
+at the face of he r love r while he is
+asleep , a nd kisses it to Show her intention or desire , it is called
+a
+kiss
+that kindles love .
+When
+a wom an kisses her lover while he is
+e ngaged in
+business ,
+or while he is qu arreling with her ,
+or while he is
+looking
+at something
+else ,
+so that his mind may be
+tu rned
+away , it is called
+a
+“kiss that tu rns
+away .
+Whe n
+a lover coming home late at night kisses his beloved
+who is
+asleep on her bed in order to Show her his desire , it
+is called
+a
+”kiss
+that
+awake ns .
+O n such
+an occasion
+the
+wom an m ay p retend
+to be
+asleep
+at
+the
+time
+of he r love r
+’s
+arrival ,
+so that
+she may know his i nte ntion
+and obtai n
+re
+spect from him .
+When
+a pe rson kisses the
+reﬂection of the pe rson he loves
+in a mi rror, in water , or on a wall , it is called a
+“kiss Showing
+the intention .
+When
+a person kisses
+a child sitti ng on his lap ,
+or
+a pic
+ture , or a n image , or ﬁgu re , in the prese nce of the person be
+loved by him , it is called
+a
+transferred kiss .
+When at night at a theatre , or in an assembly of caste me n ,
+a ma n coming up to a woman kisses
+a ﬁnger of her hand if
+She be standing , or a toe of her foot if she be sitting , or when
+a woman in shampooing her lover
+’s body , places he r face on
+his thigh ( as if She were sleepy)
+so as to i nﬂame his passion ,
+i
+a
+(
+nd kisses his thigh or great toe . it is called
+a
+“demonstrative
+i ss .
+
+
+
+## CHAPT ER IV .
+
+On Pressing,
+or M arking ,
+or Scra tching with the N ails
+
+## WH EN
+
+love becomes i ntense ,
+p ressing with
+the
+n ails
+or
+scratching the body with them is practiced
+and it is done on
+the following occasions : On
+the ﬁrst visi t ;
+at
+the
+time
+of
+setting
+out on
+a jou rney ;
+on
+the
+retu rn from
+a jou rney ;
+at
+the time when
+a n
+a ngry lover is reconciled ;
+and lastly when
+the woman is intoxicated .
+But pressing with
+the
+n ails is
+not
+an usual
+thing
+except
+with those who a re intensely passion ate , i . e
+full of passion .
+It is
+employed
+together with biting , by
+those
+to whom
+the
+p ractice is
+agreeable .
+Pressing with the
+n ails is of the eight following kinds ,
+ac
+cording to the forms of the m arks which
+are p roduced , viz
+
+## I
+
+Sou nding .
+Half moon .
+A circle .
+A line .
+A tiger
+’s n ail or claw .
+A peacock
+’s foot .
+T he jump of
+a hare .
+T he leaf of
+a blue lotus .
+T he pl aces that are to be pressed with the
+nails a re
+as fol
+
+## lows :
+
+the
+arm pit,
+the throat,
+the breasts ,
+the lips ,
+the jag
+ha na ,
+or middle parts of the body ,
+and the thighs .
+But S u
+varna nabha is of opinion that when the impetuosity of pas
+sion is excessive , then the pl aces need not be conside red .
+T he qualities of good n ails
+are that they should be bright ,
+well
+set, clean ,
+e ntire , convex , soft , and glossy in appearance .
+N ails
+a re of three kinds accordi ng to their size , viz
+Small
+M iddling
+L arge
+Large nails , which give grace to the hands ,
+and attract the
+hearts of women from their appearance ,
+are possessed by the
+Benga lees .
+Small
+n ails , which
+can be used in various ways ,
+a nd
+are
+to be
+applied only with
+the obj ect
+of giving pleasu re ,
+are
+possessed by the people of the southern districts .
+0
+0
+\
+l
+ow
+n
+-
+
+## A
+
+w
+10
+
+
+4 4
+T h e
+K a m a S u t r a
+M iddling
+n ails , which con tain the properties of both the
+above kinds , belong to the people
+of the M aharashtra .
+( 1 )
+When a person p resses the chin , the b reasts , the lower
+lip ,
+or
+the jugha na
+of
+another
+so softly
+that
+no scratch
+or
+m ark is left, but only
+the hair
+on
+the body becomes
+erect
+from the touch of the
+n ails ,
+and the
+n ails themselves make
+a
+sou nd , it is called
+a
+“sou nding or pressing with the
+n ails .
+T his pressing is used in the case of a you ng girl when her
+lover shampoos her, scratches he r head ,
+and wants to trouble
+or frighten he r .
+2)
+T he cu rved m ark with the
+n ails , which is impressed
+on the n eck and the b reasts is called the
+”h alf moon .
+"
+3 )
+When the half moons are imp ressed opposite to each
+othe r, it is called
+a
+“circle .
+”
+This m ark with
+the
+n ails is
+generally m ade on the
+n avel , the small cavities about the but
+tocks ,
+and on the joints of the thigh .
+( 4 )
+A m ark in the form of
+a sm all line ,
+and which
+can
+be m ade on
+any part of the body , is called a
+“line .
+( 5 )
+T his same line , whe n it is curved,
+and made on the
+breast, is call ed
+a
+“
+tiger
+’s
+nail .
+”
+( 6)
+When
+a cu rved m ark is made on the b reast by means
+of the ﬁv e
+nails , it is called
+a
+peacock
+’s foot
+T his mark
+is m ade with the obj ect of being praised , for it requi res a great
+deal
+of skill to m ake it properly .
+( 7)
+When ﬁv e marks with
+the
+n ails
+are m ade close
+to
+one
+a nother
+near
+the
+nipple
+of the bre ast, it is called
+the
+jump of a hare .
+( 8)
+A m ark m ade
+on
+the b reast
+or
+on
+the hips in
+the
+form of a leaf of the blue lotus , is called the
+“leaf of a blue
+lotus .
+Whe n
+a person is going on
+a jou rney ,
+and makes
+a m ark
+on the thighs , or on the breast, it is called a
+“
+toke n of remem
+brance .
+On such
+an occasion
+three
+or fou r lines
+are im
+p ressed close
+to one
+another with
+the
+nails .
+Here
+ends
+the m arking with
+the
+n ails .
+M arks
+of other
+“
+kinds than
+the
+above m ay
+also be m ade with
+the
+n ails , for
+the
+a ncient authors say , that as there
+are innumerable degrees
+of skill
+amo ng me n ( the p ractice of this
+art being known to
+all)
+,
+so there
+are in numerable ways
+of making these m arks .
+A nd
+as p ressing
+or m arking with
+the
+nails is depende nt
+on
+love ,
+no one ca n say with certain ty how m any differe nt kinds
+of marks with the n ails do actu ally exist .
+T he reason of this
+is , Vatsya yana says ,
+that
+as variety is
+necessary in love , so
+
+
+o f
+V a t s y a y a n a
+4 5
+love is to be p roduced by means of variety .
+It is on this
+ac
+cou nt that cou rteza ns , who are well
+acquainted with various
+ways
+and means , become
+so desirable , for if variety is sought
+in
+all the
+arts
+and
+amusements , such
+as
+archery
+and others ,
+how much more Should it be sought after in the present case .
+T he m arks
+of the
+n ail s Should
+not be m ade
+on m arried
+women , bu t pa rticul ar kinds of m arks may be made on their
+private parts for
+the
+remembra nce
+and increase
+of love .
+T here
+are
+also som e verses
+on
+the subject ,
+
+## as follows :
+
+“T he love of a woman who sees the m arks of n ail s on the
+private parts of he r body ,
+eve n
+though they
+are
+old
+and
+al
+'most worn
+out , becomes
+again fresh
+and
+new .
+If there be
+no m arks of n ails to remind
+a person of the passages of love ,
+then love is lessened in the same w ay
+as when
+no u nion takes
+place for
+a long
+time .
+Even when
+a stranger sees
+at
+a distance
+a you ng woman
+with the marks of n ails on her breast ,
+* he is ﬁlled with love
+and
+respect for her .
+A man ,
+also , who carries the m arks of
+n ails
+and teeth on
+some parts of his body , inﬂuences the mind of a woman , even
+though it be
+ever so ﬁrm .
+In short ,
+nothing
+tends
+to in
+crease love
+so much
+as the
+effects of m arking with the
+n ails ,
+and biting .
+From this it would
+appear th at in
+ancient times the breasts of women were
+not covered ,
+and this is seen
+on the paintings of the Aj un ta
+and other caves .
+Where we ﬁnd that the breasts of even royal l adies
+and others
+are exposed .
+
+
+
+## CHAPT ER V .
+
+O n Biting ,
+a nd
+the M ea ns
+to be Employed with Rega rd
+to
+Wome n of Different Coun tries .
+
+## A LL
+
+the places
+that
+can he kissed ,
+a re
+also
+the pl aces
+th at
+can be bitten ,
+except the upper lip , the in te rio r of the mouth ,
+a nd the eyes .
+T he qu alities of good
+teeth
+are
+as follows : T hey
+shou‘d
+be
+equ al , possessed of a pleasing brightn ess , capable of being
+colored ,
+of p roper p roportions , u nbroken ,
+and with sharp
+e nds .
+T he defects of teeth on
+the othe r ha nd
+a re ,
+that they
+are
+blu nt , p rotruding from
+the gums ,
+rough , soft,
+large/ and
+loosely set .
+T he following
+are the different kinds of biting ,/
+
+## viz :
+
+T he
+hidden bite .
+T he swollen bite .
+T he point .
+T he line
+of points .
+T he coral
+a nd
+the j ewel .
+T he line of j ewels .
+T he broken cloud .
+T he biting of the boar .
+
+## ( I )
+
+T he biting which is shown only by
+the
+excessive
+redness of the skin that is bitte n , is called the
+“hidden bite .
+”
+( 2)
+When
+the skin is pressed down
+on both Sides , it is
+called
+the
+”swollen bite .
+( 3 )
+Whe n
+a sm all portion of the ski n is bitte n with tw o
+teeth only , it is called the
+point .
+( 4)
+When such small portions
+of
+the skin
+a re bitten
+with
+all the teeth , it is called the
+”lin e of poi nts .
+( 5 )
+T he biting which is done by bringing
+together
+the
+tee th
+and the lips , is called the
+”coral
+a nd the jewel .
+T he
+lip is the coral ,
+a nd the teeth the jewel .
+( 6)
+When biting is done with all the teeth , it is called the
+”li ne
+of jewels .
+( 7)
+T he biti ng which consists
+of u n equ al
+risings in
+a
+circle ,
+a nd which com es from
+the Space between
+the teeth , is
+called the
+”broke n cloud .
+T his is impressed on the b reasts .
+( 8)
+T he biting which consists
+of m any broad
+rows
+of
+
+
+8
+T h e
+K a m a S u t r a
+T he women
+of Va na vasi
+a re moderately passion ate ,
+they
+0 through every kind of enjoyment, cover their bodies ,
+and
+buse
+those who utter low , m ea n ,
+and harsh wo rds .
+T he wome n
+of A va nti hate kissing , m arki ng with
+the
+nails ,
+a nd biting , but they have
+a fondness for va rious kinds
+sexual
+u nion .
+T he women
+of M alwa like
+emb racing
+a nd kissing ,
+but
+i ot wou nding ,
+a nd they
+a re gained over by striking .
+T he wom en
+of A bhira ,
+a nd
+those
+of the cou n try
+abou t
+the I ndus
+and ﬁv e
+rive rs (i . e
+the Punjab)
+,
+are gained ove r
+by the A upa rishtaka or mouth congress .
+T he women
+of A paratika
+a re full
+of passion ,
+and m ake
+slowly the sou nd
+”Sit .
+T he women of the La t cou ntry have even more impetuou s
+desire ,
+and
+also m ake the sou nd
+Sit .
+T he wome n of the S tri Rajya ,
+a nd of Koshola (Oude)
+a re
+full of impetuous desire ,
+the i r seme n falls in la rge qu antities ,
+a nd they
+a re fond of taking medicine
+to m ake it do so.
+T he wome n
+of
+the A udhra cou ntry have
+tender bod ies ,
+they are fond of enjoymen t,
+a nd have a liking for voluptuous
+pleasu res .
+T he women
+of Ga nda
+have
+te nder bodies ,
+and speak
+sweetly .
+N ow S u varnanabha is of Opinion that that which is agree
+able
+to the
+n atu re
+of
+a particul ar person , is
+of more
+con se
+quence
+than
+that which is
+agree able
+to a whole
+n ation ,
+and
+that therefore
+the peculiarities of the cou ntry should
+not be
+observed in such cases .
+T he va rious pleasures , the d ress ,
+and
+the sports of one cou ntry
+a re in
+time borrowed by
+another ,
+a nd in such
+a case these thi ngs must be considered
+as belong
+ing origin ally to that cou ntry .
+Among the things mentioned
+above , viz
+embracing , kiss
+ing ,
+e tc
+those which i ncrease passion should be done ﬁrst ,
+a nd
+those which
+are only for
+amuseme nt
+or va riety should
+be done
+afterwards .
+T he re
+are
+also some ve rses on
+this subj ect
+
+## as follows :
+
+”When
+a m an bites
+a wom a n forcibly ,
+she should
+a ngrily
+do the sam e to him with double force .
+T hus a
+‘point
+’ should
+be re tu rned
+“ with a
+‘lin e of points ,
+’
+a nd a
+‘line of points
+’ with
+a
+‘broken cloud ,
+’
+a nd if She be
+excessively chafed ,
+she should
+at o nce b egi n
+a love qua rrel with him .
+A t such
+a
+time
+She
+should take hold of her love r by the hair ,
+a nd be nd his head
+down ,
+a nd kiss his lowe r lip ,
+a nd
+then , being intoxicated
+
+
+of
+V a t s y a y a n a
+4 9
+with love ,
+she should shu t her
+eyes
+and bite him in various
+places .
+Even by day ,
+and in
+a pl ace of public
+resort , when
+her love r Shows her
+a ny m ark that She m ay have inﬂicted on
+his body ,
+She should smil e
+at the sight of it,
+and turning her
+face
+as if
+She were going to chide him ,
+She should Show him
+with
+an
+angry look the marks
+on he r
+ow n body
+that have
+been m ade by him .
+T hus if m en
+and women
+act
+according
+to
+each other
+’s liking ,
+their love for
+each other will
+not be
+lessen ed
+even in
+one hu nd red years .
+”
+
+
+
+## CHAPT ER VI .
+
+Of the Different Ways of Lying Down ,
+a nd Various Kinds
+of Congress .
+
+## ON
+
+the occasion
+of
+a
+“high congress
+the M rigi
+(dee r
+wom an) should lie down in such a w ay as to widen her yoni ,
+while in
+a
+”low congress
+"
+the Hastini ( elepha nt -wom an)
+should lie down
+so
+as
+to contract hers .
+But in
+an
+“
+equ al
+congress
+”
+they should lie down in the n atu ral position . What
+is said
+above concerning
+the M rigi
+a nd
+the Hastini
+applies
+also to the Vadawa (m are -woma n)
+In the
+“low congress
+the women should particul arly m ake
+use
+of medicine ,
+to
+cause her desires to be satisﬁed quickly .
+T he deer -wom an has
+the following
+three ways
+of lying
+down .
+T he widely Opened position .
+T he yawning position .
+T he position of the wife of I ndra .
+( 1 )
+Whe n she lowe rs her head a nd raises her middle parts ,
+it is called the
+”widely opened position .
+A t such a time the
+man should
+apply some ungue nt ,
+so as to m ake the
+entrance
+easy .
+( 2)
+When she raises her thighs and keeps them wide apart
+and e ngages in congress , it is called the
+“yawning position .
+( 3 )
+When
+she places her thighs with her legs doubled on
+them upon her sides,
+and thus engages in congress , it is called
+the position of I ndrani,
+and
+this is learn t o nly by practice .
+T he position is
+also useful in
+the case
+of the
+“highest
+con
+gress .
+T he
+clasping position
+” is
+used in
+low congress ,
+a nd
+i n
+the
+lowest congress
+together with
+the pressing posi
+tion ,
+the
+”
+twining posi tion ,
+a nd
+the
+m are
+’s position .
+”
+When the legs of both the male a nd the female are stretched
+straight ou t ove r
+e ach other , it is called
+the
+“cl aspi ng posi
+tio n .
+It is of tw o kinds,
+the side position
+and
+the supine
+position ,
+according to the w ay in which they lie down .
+I n
+the side position the m ale should i nva riably lie on his left Side ,
+and cause the wom an to lie on he r right side ,
+a nd this
+rule is
+to be observed in lyi ng down with all kinds of women .
+
+
+T he Kama S utra of Vatsyaya na
+5 1
+When ,
+after congress has begu n in
+the cl asping position ,
+the woman presses her love r with her thighs , it is called the
+“pressing position .
+When the woman places one of her thighs across the thigh
+of her lover , it is called
+the
+“
+twining position .
+When
+the wom an forcibly holds in her yoni
+the lingam
+after it is in . it is called the
+“mare
+’s position .
+T his is learnt
+by practice only ,
+and is chieﬂy found
+among the women of
+the A ndra cou ntry .
+T he
+above
+are
+the differe nt ways of lying down , men
+tioned by B abhra vya ; S uvarnanabha , however, gives the fol
+lowing in
+addition .
+When
+the fem al e
+raises both of her
+thighs straight up ,
+it is called
+the
+“
+risi ng position .
+When
+She
+raises both of her legs ,
+and pl aces them
+on her
+lover
+’s shoulders , it is called
+the
+“yawning position .
+When
+the legs
+are contracted ,
+and thus held by the lover
+before his bosom , it is called the
+“pressed position .
+Whe n only one of her legs is stretched out, it is called the
+half -p ressed position .
+”
+When
+the woman places
+one of her legs
+on her love rs
+’
+shoulder ,
+and stretches the other out ,
+and then places the lat
+ter on his shoulder, and Stretches out the other,
+and con tinues
+to do so alternately , it is called the
+splitting of a bamboo .
+When one of her legs is pl aced on the head,
+and the other
+is stretched ou t, it is called
+the
+ﬁxing
+of a
+n ail .
+T his is
+learnt by p ractice only .
+When both
+the legs
+of
+the wom an
+are contracted
+and
+pl aced on her stomach , it is called the
+crab
+’s position .
+When the thighs are raised and placed one upon the other,
+it is called
+the
+“packed position .
+When the shanks are placed on e upon the other, it is called
+the
+"lotus -like position .
+Whe n a m an , during congress , tu rns round ,
+a nd e njoys the
+wom an without leaving her, while
+she
+embraces him
+rou nd
+the back all the time , it is called the
+“
+turning position ,
+and
+is learnt only by p ractice .
+Thus , says S uvarna nabha ,
+these different ways
+of lying
+down Sitting ,
+a nd standing Should be practiced in water , he
+cattse i t is easy to do so therein .
+But Va tsya yana is of opinion
+thz
+i
+t congress in water is improper , because it is prohibited by
+th
+
+## I
+
+religious law .
+
+
+5 2
+T h e
+K a m a S u t ra
+When
+a m an
+a nd
+a woma n support
+themselves
+on
+each
+other
+’s bodies ,
+or on
+a wall , or pillar ,
+a nd thus while stand
+ing
+e ngage in congress , it is called the
+supported congress .
+”
+When
+a man supports himself
+against
+a wall ,
+a nd
+the
+wom an , sitting on his hands joined together a nd held u nder
+n e ath her ,
+th rows her
+arms
+rou nd his
+n eck ,
+and putting her
+thighs
+alongside his waist , moves herself by her feet, which
+are
+touching the wall
+agai nst which the m an is leaning , it is
+called
+the
+suspended congress .
+When
+a wom an stands on her hands
+a nd feet like
+a qu ad
+ruped ,
+a nd her lover mou nts her like
+a bull , it is called
+the
+“congress
+of
+a
+cow
+.
+A t
+this
+time
+every
+thing
+that is
+ordinarily done on the bosom should be done on the back .
+In
+the same
+w ay
+can
+be carried
+on
+the congress of
+a
+dog , the congress of a goat , the congress of a deer , the forcible
+mou nting of a n ass, the congress of a cat, the jump of a tiger ,
+the p ressing
+of an
+elephant,
+the
+rubbing of
+a boar ,
+and the
+mou nting of a horse .
+A nd in
+all these cases the
+chra acteris
+tics of these differe nt animals should be m anifested by
+acti ng
+like them .
+When a man enjoys tw o women
+at the same time , both of
+whom love him
+equally , it is called the
+u nited congress .
+Whe n
+a man enjoys many women together, it is called the
+congress of a herd of cows .
+”
+T he following kinds of congress , viz . , sporting in water ,
+or the congress of
+an
+elephant with many female
+elephants
+which is said to take place only in the water, the congress of
+a collection of goats , the congress of a collection of dee r, take
+place in imitation of
+these
+anim als .
+I n Gramaneri m any you ng men
+enjoy
+a woman that may
+be m arried to one of them ,
+either one
+after the other ,
+or
+at
+the same time .
+Thus one of them holds her,
+another enjoys
+her ,
+a third uses her mouth ,
+a fou rth holds her middle p art.
+and in this w ay they go on
+e njoying her several parts
+alter
+n ately
+.
+T he same things can be done when several men
+are sittin g
+in company with
+one cou rtezan ,
+or when
+one cou rtezan is
+alone with ma ny me n .
+In the same w ay this ca n be done by
+the women
+of the King
+’s harem whe n
+they
+acciden tally get
+hold of a man .
+T he people in the Southern cou ntries have also a congr\3ss
+in
+the
+a nus ,
+that is called
+the
+lower co ngress .
+
+
+of
+V a ts y a y a n a
+5 3
+T hus
+end
+the various kinds
+of congress .
+T here
+are
+also
+tw o ve rses on the subj ect
+as follows .
+A n i ngenious pe rson should multiply
+the kinds cf
+con
+gress afte r the fashio n of the different kinds of beasts
+a nd of
+birds .
+For these differe nt ki nds
+of congress , performed
+ac
+cording to the usage of each cou n try,
+and the liking of
+each
+individu al , generate love , friendship ,
+a nd respect in the hearts
+of women .
+
+
+
+## CHAPT ER VII .
+
+Of the Various M odes of Striking ,
+a nd of
+the Sounds
+Appropriate
+to Them .
+S exu al i ntercou rse
+ca n be compared to a quarrel ,
+on
+accou nt
+of the contrarieties of love
+and its tendency to dispute .
+T he
+pl ace of striking with p assion is
+the body,
+and
+on the body
+the special places
+
+## are :
+
+T he shoulders .
+T he
+head .
+T he space between
+the breasts .
+T he back .
+T he jagha na ,
+or middle part of the body .
+T he sides .
+S triking is of fou r kinds ,
+viz .
+°
+Striking with the back of the hand .
+Striking with
+the ﬁnge rs
+a little contracted .
+Striking with
+the ﬁst .
+S triking with
+the open palm of the hand .
+O n
+accou nt of its causing pain , striking gives
+rise
+to the
+hissing sou nd , which is of various kinds,
+and
+to the
+eight
+ki nds of crying , viz
+T he sound Hin .
+T he
+thundering sound .
+T he cooing sou nd .
+T he weepi ng sound .
+T he sound Phut.
+T he sound Phat .
+T he sou nd Sut .
+T he sou nd Plat .
+Besides these , the re are also words having
+a meaning , such
+a s
+mother,
+”
+and
+those
+th at
+a re
+expressive of prohibition ,
+sufﬁciency , desire of liberation , pain
+or praise ,
+and to which
+m ay be
+added sounds like those of the dove , the cuckoo , the
+g reen pigeon ,
+the p arrot,
+the bee ,
+the sparrow ,
+the ﬂamingo ,
+the
+d
+f
+uck ,
+and
+the qu ail , which
+are
+all occasion ally m ade
+u se 0
+Blows with
+the ﬁst should be given
+on
+the back of
+the
+w oman , which
+She is Sitting on the lap of the m an ,
+and
+she
+
+
+5 6
+T he
+Kama S utra of Vatsyaya na
+piercing i nstrument
+on
+the cheeks ,
+and
+the pinchers
+on
+the
+breasts
+and sides m ay
+also be
+taken i nto consideration with
+the other four modes
+of Striking ,
+and
+thus give
+eight ways
+altogether.
+B ut these four ways of striking with i nstruments
+are peculiar to the people of the southern cou ntries ,
+and the
+marks caused by them a re seen on the breasts of their wome n .
+They
+are local peculiarities ,
+but Va tsyaya na is of opinion
+that the practice of them is painful , barbarous,
+and b ase ,
+and
+quite u nworthy of imitatio n .
+I n the same w ay anything that is a local peculiarity should
+not always be adopted elsewhere ,
+a nd even in the place where
+the
+practice
+is
+prevalent,
+excess of
+it should
+always
+be
+avoided .
+Instances
+of
+the dangerous
+use of
+them may be
+given
+a s follows .
+T he King of
+the
+Panchalas killed
+the
+cou rtezan M adha vasena by means of the wedge du ring
+con
+gress .
+King S hatakarni S hata vaha na of
+the K un talas
+de
+p riv ed his great Q ueen M ala ya va ti of her life by
+a p air of
+scissors ,
+a nd N arade va , whose hand w as deform ed , blinded
+a dancing girl by directing
+a piercing i nstrument in
+a wrong
+w ay
+.
+T here
+are
+also tw o verses
+on
+the subject
+
+## as follows :
+
+“About
+these
+things
+there cannot be
+either
+enumeration
+or any deﬁnite
+rule .
+Congress having once commenced , p as
+sion alone gives birth to all the acts of the parties .
+”
+Such
+passionate
+actions
+and
+amorous
+gesticulations
+or
+movements , which arise on the spu r of the moment,
+a nd dur
+ing sexu al intercou rse , cannot be deﬁned ,
+and are
+as irregular
+as dreams .
+A horse having once
+attained the ﬁfth degree of
+motion goes on with blind speed ,
+regardless of pits , ditches ,
+and posts in his w ay ;
+and in the same m an ner
+a lovi ng pair
+become blind with passion in the heat of congress,
+and go on
+with great impetuosity paying
+not the least
+regard to excess .
+For this
+reason
+one who is well
+acquain ted with the scie nce
+of love ,
+and knowing his ow n strength
+as
+also
+the
+tender
+ness , impetuosity ,
+and stre ngth of the young woman , should
+act
+accordingly .
+T he various modes of
+enjoyment
+a re
+not
+for all times or for all persons , but they should only be
+used
+at the p roper time ,
+and in the p roper cou ntries and places .
+
+
+
+## CHAPT ER VIII .
+
+About Women Acting the Part of a M an ;
+and of the
+Work of a M a n .
+
+## WHEN
+
+a woman sees
+that her lover is fatigued by constant
+congress , without having his desire satisﬁed ,
+she should , with
+his permission , lay him down
+upon his back ,
+and give him
+assistance by
+acting his part .
+She may
+also do this to satisfy
+the curiosity of her lover,
+or her ow n desire
+of novelty .
+T here
+are tw o ways of doing this ,
+the ﬁrst is when dur
+ing congress
+she
+tu rns
+rou nd ,
+and gets
+on
+the
+top
+of her
+lover, in such
+a man ner as to continue the congress , without
+obstructing the pleasu re of it ;
+and the other is when
+she
+acts
+the m an
+’s pa rt from
+the begin ning .
+A t such
+a
+time , with
+ﬂowe rs in her hair hanging loose ,
+and her smiles b roken by
+hard breathings , she should press upon her lover
+’s bosom with
+her ow n breasts ,
+and lowering her head frequently should do
+in retu rn the same actions which he used to do before ,
+retu rn
+ing his blows and chaﬂi ng him, should say ,
+"I w as laid down
+by you,
+and fatigued with hard congress , I Shall
+now there
+fore lay you down in return .
+She Should then again m ani
+fest her ow n bashfulness , her fatigue ,
+and her desire of Stop
+ping
+the congress .
+I n
+this w ay
+She should do the work of
+a man , which w e shall presently
+relate .
+Whatever is done by a man for giving pleasu re to a woman
+is called the work of
+a man .
+and is
+as follows ;
+While
+the wom an is lying
+on his bed ,
+and is
+as it were
+abstracted by his conversation , he Should loosen the knot of
+her under garments ,
+and when
+She begins
+to dispute with
+him , he should overwhelm her with kisses .
+Then when his
+lingam is erect he should touch her with his hands in various
+places ,
+and gently m anipulate various parts of the body .
+If
+the wom an is bashful ,
+and if it is the ﬁrst time that they have
+come together,
+the man should place his hands between her
+thighs , which
+she would probably keep close
+together,
+and
+if she is a very young girl , he should ﬁrst get his hands upon
+her breasts , which
+she would probably cover with her
+ow n
+hands ,
+and u nder her
+armpits
+and on her
+neck .
+If however
+she is
+a seasoned woman , he Should do whatever is
+agree
+able
+either to him
+or to her ,
+and whatever is ﬁtting for the
+
+
+5 8
+T h e
+K a m a S u t r a
+occasion .
+Afte r
+this he" should
+take hold
+of he r hair ,
+a nd
+hold her chin in his ﬁnge rs for
+the pu rpose
+of kissing her .
+On
+this , if
+She is
+a you ng girl ,
+She will become bashful
+and
+close he r
+eyes .
+A ny how he should gather from
+the
+action
+of the wom an what thi ngs would be pleasing to her during
+congress .
+H ere S u va rna nabha says that while
+a m an is doing to the
+wom an what he likes best during congress , he should
+always
+m ake
+a poin t
+of pressing
+those parts
+of her body
+on which
+she tu rns her
+eyes .
+T he signs of the enjoym ent a nd satisfaction of the wom an
+a re
+as follows ; her body
+relaxes ,
+she closes her
+eyes ,
+she puts
+aside all bashful ness ,
+and Shows i nc reased willingness to u nite
+the tw o organs as closely toge ther as possible .
+On the other
+hand ,
+the sig ns of her wa n t of
+enjoyment
+and
+of failing to
+be satisﬁed
+
+## are as follows :
+
+she Shakes her hands ,
+she does
+not
+le t the m an get up , feels dej ected , bites the man , kicks him ,
+a nd continues
+to go
+on moving
+after
+the man has ﬁnished .
+I n such cases the m an should rub the yoni of the woman with
+his hand
+a nd ﬁngers ( as the elephant rubs
+anything with hi s
+tru nk) before
+engaging in congress , u ntil it is softened ,
+and
+after that is done he should proceed to put his lingam i nto her .
+T he
+
+## acts to be done by the man are :
+
+M oving forward .
+Friction
+or chu rni ng .
+Piercing .
+Rubbing .
+Pressing .
+Giving
+a blow .
+T he blow of
+a boar .
+T he blow of
+a bull .
+T he sporting
+of
+a sparrow .
+( 1 )
+When
+the organs
+are brought together properly
+and
+directly it is called
+moving
+the organ forwa rd .
+( 2)
+When the lingam is held with the ha nd ,
+and turned
+all
+rou nd in
+the yoni , it is called
+”chu rni ng .
+( 3 )
+When
+the yoni is lowered ,
+a nd
+the uppe r part of
+it is struck with
+the lingam , it is called
+”pie rcing .
+(4 )
+When
+the same
+thing is done
+on
+the lower p art of
+the yo ni , it is call ed
+“
+rubbing .
+( 5 )
+.When
+the yoni is pressed by
+the lingam for
+a long
+time ,
+i t
+i s called
+“p ressing .
+
+
+o f
+V a t s y a y a n a
+5 9
+( 6)
+When the lingam is
+removed to some distance from
+"
+ﬁ
+e yoni ,
+a nd
+then forcibly strikes it, it is called
+”giving
+a
+ow .
+( 7)
+When only one part of the yoni is rubbed with the
+lingam , it is called the
+blow of a boar .
+( 8)
+When both sides of the yoni are rubbed in this w ay ,
+it is called the
+”blow of a bull .
+( 9)
+When the lingam is in the yoni , and is moved up and
+down frequently ,
+and without being
+taken
+out, it is called
+the
+“sporting of
+a sparrow .
+”
+T his takes place
+at the
+end of
+congress .
+When
+a wom an
+acts
+the part of
+a man ,
+she has the fol
+lowing things to do in
+addition to the
+nine given above , viz .
+T he pair
+of tongs .
+T he
+top
+.
+T he swing .
+( 1 )
+When
+the wom an
+holds
+the lingam
+in
+her yoni ,
+draws it in , presses it
+and keeps it
+thus in her for
+a long
+time , it is called
+the
+pair
+of tongs .
+( 2)
+When , whil e
+e ngaged in congress ,
+she
+tu rns
+rou nd
+like
+a wheel , it is called the
+”
+top
+.
+T his is learn t by prac
+tice only .
+( 3 )
+When ,
+on such
+an occasion ,
+the man lifts up
+the
+middle part
+of his body ,
+and
+the wom an
+turns
+round her
+middle part , it is called
+the
+“Swing .
+”
+When the woman is tired , she should place her forehead on
+that of her lover ,
+and should thus take
+rest without disturb
+ing the u nion of the organs ,
+and when the woman has rested
+herself
+the man should
+tu rn
+rou nd
+and begin
+the congress
+agai n .
+T here
+are
+also some verses
+on
+the subj ect
+
+## as follows :
+
+“T hough a wom an is reserved ,
+and keeps her feelings con
+cealed , yet when she gets on the top of a man ,
+she then shows
+all her love
+and desire .
+A man should gather from
+the
+ac
+tions of the wom an of what disposition
+she is,
+and in what
+w ay
+she likes to be
+enjoyed .
+A woman during her monthly
+courses,
+a wom an who has been l ately conﬁned ,
+and
+a fat
+woman Should
+not be m ade
+to
+act the part of
+a m an .
+
+
+
+## CHAPTER I"
+
+.
+Of the A upa ri
+'
+shtaka *
+or M outh Congress
+
+## THERE
+
+a re tw o kinds of eu nuchs ,
+those that a re disguised
+as
+m ales ,
+a nd those that
+a re disguised
+as females .
+Eu nuchs dis
+guised
+as fem ales imitate their dress , speech , gestu res ,
+tender
+ness , timidity, simplicity, softness and bashful ness ,
+T he acts
+that
+a re done on the jaghana or middle parts of wome n ,
+a re
+don e in
+the mouths
+of these
+eu nuchs ,
+a nd
+this is called A u
+p arishtaka .
+T hese eu nuchs de rive thei r im agin ative pleasu re ,
+a nd their livelihood from this kind of congress ,
+and they l ead
+the life
+of cou rtezans .
+So much concerning
+eu nuchs
+dis
+guised
+as fem ales .
+Eu nuchs disguised
+as mal es keep
+thei r desires secret,
+a nd
+when
+they wish
+to do
+a nything
+they lead
+the life
+of Sham
+pooers .
+U nde r
+the prete nce
+of shampooing ,
+an
+eunuch
+of
+this kind
+embraces
+and draws towa rds himself the thighs
+of
+the m an whom he is shampooing ,
+a nd
+afte r
+this he
+touches
+the join ts of his thighs
+a nd his jugha na or ce ntral portions of
+his body .
+T hen , if he ﬁnds the lingam of the m a n
+e rect, he
+presses it with his hands ,
+a nd chaffs him for getting i nto that
+state .
+If after this , and after knowing his intention , the m an
+does not tell the eu nuch to proceed , then the l atter does it of
+his ow n
+accord
+a nd begins the congress .
+If, howeve r , he is
+o rdered by the m an to do it ,
+then he disputes with him ,
+and
+only consents
+at last with difﬁculty .
+T he following
+eight
+things
+are
+then done by
+the
+eu nuch
+one
+after the othe r, viz .
+T he
+nominal congress .
+Biting the Sides .
+Pressing outside .
+This practice
+appears to h ave been prevalent in some p arts of India from
+a
+very
+ancient time .
+The
+S h ushru ta ,
+a work on medicine some two thousand
+years old , describes the wounding of the lingam with the teeth
+as one of the
+c auses of
+a disease treated upon in th at work .
+Traces of the practice
+a re found
+as
+far b ack
+as
+th e eighth century . for v arious kinds of the
+A up arish taka
+a re
+represented in the sculptures of many
+S haiva temples
+at
+Bh uva neshwa ra , near
+C uttack , in
+Orissa ,
+and which were built
+about th at period .
+From these
+sculptures being found in such pl aces , it would seem th at this practice
+w as
+p opul ar in th at part of the country
+at th at time .
+It does not seem to be so
+prevalent now in
+Hindust an . its pl ace perh aps is ﬁlled up by the practice of
+sodomy introduced since the M ahomedan period .
+
+
+The
+Kama S utra of Vatsyayana
+6 1
+Pressing inside .
+Kissing .
+Rubbing .
+Sucking a mangoe fruit .
+Swallowing up .
+A t the e nd of each of these , the
+eu nuch exp resses his wish
+to stop , but whe n
+one
+of them is ﬁnished ,
+the man desires
+him to do another ,
+and
+afte r that is done , then the one that
+follows it
+and
+
+## SO
+
+on .
+When ,
+holding
+the m an
+’s li ngam with
+his hand ,
+and placing it between his lips ,
+the
+eu nuch moves
+about his
+mouth , it is called
+the
+”
+nomin al congress .
+( 2)
+Whe n , covering
+the
+e nd
+of
+the lingam with
+his
+ﬁnge rs collected
+togethe r like
+the bud
+of
+a plan t
+or ﬂower,
+the eu nuch presses the sides of it with his lips , using his teeth
+also , it is called
+biting
+the sides .
+( 3 )
+Whe n , being desired
+to proceed ,
+the
+eu nuch presses
+the end of the lingam with his lips closed together ,
+and kisses
+it as if he were drawing it out, it is called the
+“outside press
+i ng
+.
+( 4 )
+Whe n , being asked to go on , he puts the lingam fur
+ther i nto his mouth ,
+and presses it with his lips
+and
+then
+takes
+it
+out ,
+it
+is called
+the
+“inside p ressing .
+( 5)
+Whe n , holding
+the lingam in his hand ,
+the
+eunuch
+kisses
+it
+as if he were kissing
+the lower lip ,
+it
+is called
+“kissing .
+( 6)
+When ,
+after kissing it, he touches it with his tongue
+everywhere ,
+and passes
+the
+tongue over
+the
+end
+of it, it is
+c alled
+”
+rubbing .
+”
+( 7)
+Whe n , in the same w ay , he puts the half of it into
+his mouth , and forcibly kisses and sucks it, this is called
+”suck
+ing
+a m angoe fruit .
+( 8)
+And l astly , with the consent of the man , the
+eu nuch
+puts
+the whol e lingam into his mouth ,
+and presses it to the
+very
+end ,
+as if he we re going
+to swallow it
+up , it is called
+Swallowing up .
+Striking , scratching ,
+a nd othe r
+things may
+also be done
+du ring this ki nd of congress .
+T he A up arishtaka is p ractised only by u nchaste
+and w a n
+ton wome n , fem ale
+attendan ts
+and serving maids, i . e
+those
+who a re
+not ma rried to any body , bu t w ho live by shampoo
+i ng
+.
+T he Acharyas (i . e
+a ncient
+a nd venerable
+authors)
+are of
+
+
+6 2
+T h e
+K a m a S u t r a
+opinion that this A uparishtaka is the work of a dog and not
+of
+a ma n , bec ause it is
+a low p ractice ,
+and opposed
+to
+the
+orders
+of the Holy Writ ,
+and because
+the man himself suf
+fe rs by b ringing his lingam in to contact with the mouths of
+eu nuchs
+a nd women .
+But Vatsya ya na says
+that
+the orde rs
+of the Holy Writ do not affect those who resort to cou rtezans ,
+and the law prohibits the p ractice of the A upa rishtaka with
+m arried women only .
+
+## A S
+
+regards
+the inju ry
+to
+the m ale ,
+that
+can be
+e asily
+remedied .
+T he people of Eastern I ndia do not resort to wome n who
+practice the A up arishtaka .
+T he people
+of A hichha tra
+resort to such wom en , but do
+nothing with
+them
+so far
+as
+the mouth is concerned .
+T he people of Saketa do with these wom en
+eve ry kind of
+mouth congress , while
+the people
+of N agara do not practice
+this , but do
+every other
+thing .
+T he peopl e
+of
+the Shurasena country ,
+on
+the southern
+bank of the Jumna do eve rything without a ny hesitation , for
+they say that women being
+n atu rally u nclea n ,
+no one
+can b e
+certain about their character , their purity , their conduct, their
+practices ,
+their
+conﬁdences ,
+or
+their speech .
+T hey
+are
+not,
+however,
+on this
+accou nt to be
+abandoned , because
+religious
+law , on the
+authority Of which they
+are
+reckoned pu re , lays
+down
+that the udder of
+a
+cow is clean
+at the
+time
+of milk
+ing ,
+though the mouth of a
+cow ,
+and
+also the mouth of her
+calf,
+are considered u nclean by the Hindoos .
+Again
+a dog is
+cle an when he seizes
+a deer in hu nting ,
+though food touched
+by
+a dog is othe rwise considered very u nclean .
+A bird is
+clean when it causes
+a fruit
+to fall from
+a
+tree by pecking
+at it , though things
+eaten by crows
+and other birds
+are
+con
+side red u nclean .
+A nd
+the mouth
+of
+a woman is clea n for
+kissing and such like things
+at the time of sexual i ntercou rse .
+Va tsya ya n a moreover
+thinks
+that in
+all
+these
+things
+con
+n ected with love ,
+everybody Should act according to the
+cus
+tom
+of his cou ntry ,
+a nd his
+ow n i nclin ation .
+T here
+are
+also the following verses on the subj ect .
+T he m ale Servan ts of some men carry on
+the mouth
+con
+gress with their m asters .
+I t is also p racticed by some citizens ,
+w ho know e ach othe r well ,
+amo ng themselves .
+Som e women
+of
+the h arem , when
+they
+a re
+amorous ,
+do
+the
+acts
+of
+the
+mouth
+on
+the yonis
+of one
+a nother ,
+a nd some m en do the
+same
+thi ng with wome n .
+T he w ay
+of doing
+this (i. e
+of
+kissing the yoni) should be known from kissing the mouth .
+
+
+
+## CHAPT ER "
+
+.
+Of the Wa y H ow
+to Begin
+a nd How to End the Congress .
+Differen t Kinds of Congress and Love Ouarrels .
+
+## IN
+
+the pleasu re - room , decorated with ﬂowers ,
+and fragrant
+with perfumes ,
+atte nded by his friends and servants , the citi
+zen should
+receive
+the wom an ,
+w ho will come bathed
+and
+dressed ,
+a nd will i nvite her to take
+refreshme nt
+and to drink
+freely .
+He should then seat her on his left side ,
+and holding
+he r hair,
+a nd touching also the e nd a nd knot of her garment,
+he Should gently
+embrace
+her with his
+right
+a rm .
+T hey
+should
+then carry
+on
+an
+amusing conve rsatio n
+on various
+subjec ts ,
+a nd may
+also
+talk suggestively
+of
+things which
+would be considered
+as coarse ,
+or
+not to be mentioned gen
+erally in society .
+They may the n sing ,
+either with or with
+out gesticulations , and play on musical instrume nt , talk about
+the arts ,
+and persuade each other to drink .
+A t l ast whe n the
+woman is overcome with love
+a nd desire ,
+the citizen should
+dismiss the people that m ay be with him , giving them ﬂowers ,
+ointments ,
+and betel leaves ,
+and then when
+the tw o are left
+alone ,
+they should p roceed
+as h as been
+al ready described in
+the p revious chapters .
+Such is
+the beginning
+of sexu al
+u nion .
+A t
+the
+e nd of
+the congress ,
+the love rs , with modesty ,
+and
+not looking
+at
+each othe r , should go separately to the washing - room .
+A fter
+this , Sitting in
+their
+ow n places ,
+they Should
+eat some betel
+leaves ,
+and
+the citizen Should
+apply with his
+ow n hand
+to
+the body of the wom an some pure sandal wood ointme nt, or
+ointmen t of some other kind .
+He should
+then
+embrace her
+with his left
+arm ,
+a nd with
+agreeable words should cause
+her
+to d rink from
+a cup held in his ow n hand ,
+or he m ay
+give her wate r to d ri nk .
+T hey
+can then
+eat sweetmeats ,
+or
+anything else ,
+according to their liki ng,
+a nd may drink fresh
+juice ,
+* soup , gruel ,
+extracts
+of meat, sherbet ,
+the juice
+of
+m a ngoe fruits , the extract of the juice of the citron tree mixed
+with sugar , or a nything that may be liked in different cou nt
+ries ,
+and known to b e Sweet, soft,
+and pu re .
+T he lovers may
+The fresh juice of the cocoa nut tree , the date tree ,
+and other kinds of
+palm trees
+a re drunk in
+India .
+It will not keep fresh very long , but ferments
+rapidly ,
+and is then distilled into liquor .
+
+
+T he
+Kama S utra of
+Vatsyayana
+6 5
+also
+sit on the terrace of
+the palace
+or house ,
+and
+enjoy the
+moonlight,
+and ca rry on
+an
+agreeable conversation .
+A t this
+time ,
+too, while
+the wom an lies in his lap , with her face
+towa rds the moon ,
+the citizen should Show her the different
+pla nets , the morni ng star , the pol a r sta r ,
+a nd the seven Rishis
+or Great Bear
+T his is the
+end of sexual u nion .
+Congress is of the followi ng ki nds ,
+
+## Viz . :
+
+Loving congress .
+Congress of subsequ e nt love .
+Congress of artiﬁcial love .
+Congress of tra nsferred love .
+Congress like that of eu nuchs .
+Deceitful congress .
+Congress of spontaneous love .
+( 1 )
+When
+a man
+and
+a wom a n , w ho have been in love
+with each other for some time , come together with great dif
+ﬁculty , or when one of the tw o re tu rns from
+a jou rney , or is
+reconciled after having been separated on
+account of a qu ar
+rel, then congress is called the
+“loving co ngress .
+It is carried
+on
+according to the liking of the lovers ,
+a nd
+as long
+as they
+choose .
+( 2 )
+When
+tw o persons come
+togethe r, while
+their love
+for
+each other is still in its i nfancy ,
+their congress
+i s call ed
+the
+”congress
+of subsequent love .
+”
+3 )
+When
+a man carries on the co ngress by exciti ng him
+self by means of the sixty - four ways , such as kissing , etc . , etc
+or when a m an a nd a wom an come together, though in reality
+they
+are both
+attached
+to different persons ,
+their congress is
+then called
+“congress of artiﬁcial love .
+A t this time
+all the
+ways
+and mea ns me n tio n ed in
+the Kama Shastra Should be
+used .
+( 4)
+When
+a ma n , from the beginning to the
+end of the
+congress
+though havi ng con nection with the wom an , thinks
+all the time that he is
+enjoyi ng
+another one whom he loves ,
+it is called the
+congress of tra nsferred love .
+5 )
+Congress between
+a man
+and
+a fem ale water carrier
+or
+a fem ale serv an t
+of
+a caste lower
+than his
+ow n ,
+. l asting
+only u ntil
+the desire is satisﬁed , is called
+congress like
+that
+of
+eu nuchs .
+H e re
+external
+touches , kisses ,
+and m anipul a
+tions
+are
+not
+to be
+employed .
+( 6)
+T he congress between
+a cou rtezan
+and
+a
+rustic ,
+and
+
+
+66
+T h e
+K a m a S u t r a
+that between citizens and the women of villages ,
+a nd border
+ing cou n tries , is called
+deceitful congress .
+( 7)
+T he congress
+that
+takes place between
+tw o perso ns
+w ho are
+attached to one
+another ,
+a nd which is don e
+accord
+ing to thei r ow n liki ng is called
+“sponta n eous congress .
+T hus
+end
+the kinds
+of co ngress .
+We shall
+now Spe ak of love quarrels .
+A wom an w ho is ve ry much in love with
+a man ca nnot
+bear to hear the n ame of her riv al m entioned , or to have
+any
+conve rsation
+regarding he r ,
+or
+to be
+addressed by her
+n ame
+through mistake .
+If such takes place ,
+a great qu arrel
+a rises ,
+and
+the wom an c ries , becomes
+angry ,
+tosses her hair
+about,
+strikes her lover, falls from her bed or seat,
+and , casting aside
+her garl ands
+a nd orn ame nts ,
+throws herself dow n
+on
+the
+g rou nd .
+A t
+this
+tim e ,
+the lover should
+attempt
+to
+reco ncile he r
+with concilia tory words ,
+and should
+take her up carefully
+and pl ace her on her bed .
+But she ,
+not replying to his ques
+tions ,
+and with inc reased
+anger , should be nd down his head
+by pulling his hair ,
+and having kicked him once ,
+twice ,
+or
+thrice on his arms , head , bosom or b ack , should the n p roce ed
+to the doo r of the
+room .
+D attaka says th at
+she should the n
+sit
+angrily
+n ea r the door
+and shed
+tea rs , but Should
+not go
+out, because
+she would be fou nd fault with for going
+away .
+A fter
+a
+tim e , when
+she
+thinks
+that
+the conciliatory words
+and actio ns of her lover have reached their utmost ,
+she should
+then emb race him , talking to him with harsh a nd reproachful
+words ,
+but
+at
+the same
+time showing
+a loving
+desire
+for
+congress .
+When the wom an is in her ow n house ,
+and has quarrelled
+with he r lover ,
+she Should go to him
+a nd Show how
+a ngry
+she is,
+and leave him .
+A fte rwards the citizen having sent the
+the Vidushaka * or the Pitham urda *
+to pacify he r ,
+she
+should
+accompa ny
+them back
+to
+the house ,
+a nd spend
+the
+night with he r lover .
+T hus end the love qu arrels .
+I n conclusion .
+
+## A
+
+man ,
+employi ng
+the sixty—
+fou r mea ns me ntio ned by
+B abhra v ya , obtains his obj ect,
+a nd
+e njoys the wom an of the
+ﬁrst quality .
+T hough he may speak well
+on other subj ects ,
+if he does not know the Sixty - fou r divisions ,
+no great respect
+The ch aracteristics of these three individu als h ave been given in Part
+1
+p age
+
+## 21 .
+
+
+
+o f
+V a t s y a y a n a
+6 7
+is paid
+to him in the
+assembly of the learned .
+A m an
+de
+void of other knowledge , but well acqu ainted with the Sixty
+fou r divisions , becomes
+a leader in
+any society
+of men
+and
+women .
+What m a n will
+not
+respect the Sixty - fou r partsJ
+‘
+considering they a re
+respected by the learned , by the cu nning,
+and by the cou rtezans .
+A s the Sixty -fou r parts are respected ,
+are charming ,
+and add to the talent of women , they are called
+by the Acha ryas dear to wome n .
+A man skilled in the Sixty
+fou r parts is looked upon with love by his ow n wife , by the
+wives of others ,
+and by courtezans .
+1
+‘
+A deﬁnition of the sixty -four parts . or divisions . is given in Chapter II .
+page 3 7 .
+
+## PART II .
+
+
+
+
+## IV
+
+. From
+the T empl e
+of S urya
+1 3 th Centu ry
+A t Konarak, Orissa
+
+
+
+## PART III
+
+
+## ABOUT THE A CQUISITION
+
+
+## OF A WIFE
+
+
+
+7 2
+T h e
+K a m a S u t r a
+"odiac , propitious stars
+and fortunate m arks
+on his body .
+Others
+agai n should
+rouse
+the j ealousy
+of the girl
+’s mother
+by telling her th at their friend has
+a chance
+of ge tting from
+some other qu arter
+even
+a better girl
+than hers .
+A girl should be taken as a wife ,
+as also given in m arriage ,
+whe n fortu ne , signs , ome ns ,
+and
+the w ordsl;
+of others
+are
+favorable , for, says Ghotakam ukha ,
+a ma n should
+not m arry
+at
+a ny
+time he likes .
+A girl w ho is
+asl eep , crying ,
+or gone
+out
+of
+the house when sought in m arriage ,
+or who is be
+trothed
+to
+another , should
+not be m arried .
+T he following
+also should be
+avoided .
+One
+One
+One
+O n e
+O ne
+O ne
+O ne
+On e
+O n e
+O n e
+One
+O ne
+On e
+On e
+O ne
+O ne
+O ne
+w ho
+who
+w ho
+who
+who
+w ho
+who
+who
+who
+who
+who
+who
+who
+who
+who
+who
+who
+is kept concealed .
+has
+an ill -sou nding
+n ame .
+has her
+nose depressed .
+has her nostril tu rned up .
+is formed like
+a m ale .
+is bent down .
+has crooked
+thighs .
+has
+a projecting forehead .
+has
+a bald head .
+does
+not like pu rity .
+has been polluted by
+another .
+is
+affected with the Gulma . *
+is disﬁgu red in
+any
+w ay
+.
+has fully
+arrived
+at puberty .
+is a friend .
+is
+a you nge r sister .
+is
+a V arshakarif j
+
+## L
+
+In the same w ay
+a girl who is called by the
+name
+of on e
+o f the twen ty -seven stars ,
+or by the
+n ame of a tree ,
+or of a
+river , is considered worthless ,
+as also a girl whose n ame ends
+in
+“
+r
+”
+or
+But some authors say that p rosperity is gained
+.
+.o nly by marrying
+that girl
+to whom
+one becomes
+attached ,
+a nd
+that
+the refore
+no other girl but
+the
+one who is loved
+should be m arried by a nyone .
+Whe n
+a girl becomes ma rriageable
+her pare nts should
+d ress her sm artly ,
+and should pl ace her whe re
+she
+can be
+
+## 1:
+
+Before
+anything is begun it is
+a custom to go early in the morning to
+a
+neighbor
+'s house ,
+a nd overhear the ﬁrst words th at
+may be spoken in his
+family ,
+and
+according
+as the words heard
+a re of good or
+bad import , so draw
+an inference
+a s to
+th e success or failure of the undert aking .
+A disease consisting of
+an y gl andul ar enl argement in
+any part of the body .
+1
+“
+A wom an , the p alms of whose h ands
+and the soles of whose feet
+a re
+alw ays perspiring .
+
+
+o f
+V a t s y a y a n a
+7 3
+easily seen by
+all .
+Every
+afternoon , having dressed her
+and
+decorated her in
+a becoming man n er,
+they should send her
+with her female companions
+to sports , sacriﬁces ,
+a nd m ar
+riage ceremonies ,
+and thus Show her to advan tage in society ,
+because
+she is
+a kind of merchandise .
+T hey should
+also
+t e
+ceiv e with kinds words
+a nd signs of friendliness those
+of an
+auspicious
+appearance who m ay come
+accompanied by
+their
+friends
+and
+rel ations
+for
+the purpose
+of m a rryi ng
+their
+daughter ,
+and
+u nder some p retext
+or
+other
+having ﬁrst
+dressed
+her becomingly , should
+then prese nt her
+to
+them .
+A fte r
+this
+they should
+await
+the pleasu re
+of fortu ne ,
+and
+with
+this
+obj ect should
+appoin t
+a future
+day
+on which
+a
+d ete rmin ation
+could
+be
+come
+to
+with
+regard
+to
+their
+daughter
+’s m arriage .
+On
+this occasion when
+the persons
+have come ,
+the p arents of the girl should
+ask them
+to bathe
+and dine ,
+and should
+say ,
+Eve rything will
+take place
+at
+the proper time ,
+and should
+not then comply with
+the
+re
+quest , but should settle the m atter l ater .
+When
+a girl is thus acquired either according to the custom
+of the coun try , or according to his ow n desire , the m an should
+m arry her in
+accordance with the precepts of the Holy Writ,
+according
+to on e
+of the fou r kinds
+of marriage .
+T hus
+e nds m arriage .
+
+## T here are also some ve rses on the subject as follows :
+
+Amusemen t in society , such
+as compl eting verses begu n
+by othe rs , m arriages ,
+and
+auspi a ous ceremonies should be
+carried on
+n either with superiors ,
+nor i nfe riors , but with ou r
+equ als .
+T hat Should be known
+as
+a high connection when
+a m an ,
+after marrying
+a girl , has to serve her
+and her
+rela
+tions
+afte rwa rds like
+a servant ,
+and such
+a con n ection is cen
+sured by the good .
+On the other hand , th at reproachable con
+nection , where
+a man ,
+together with his
+rel ations , lords it
+ove r his wife , is called
+a low con n ection by
+the wise .
+B ut
+when both
+the man
+and
+the women
+afford mutual pleasure
+to
+each other ,
+and where
+the
+rel atives
+on both sides p ay
+re
+spect to on e another, such is called a con nection in the proper
+sense of the word .
+T herefore
+a man should contract n either
+a high con n ection by which he is obliged to bow down
+afte r
+wards to his ki nsmen ,
+nor
+a low con n ection , which is
+u ni
+v e rsally
+reprehended by
+all .
+
+
+
+## CHAPTER II .
+
+Of Crea ting Conﬁdence in
+the Girl .
+FOR the ﬁrst three days
+after m arriage ,
+the girl
+and her hus
+band should Sleep on the ﬂoor,
+abstain from sexu al pleasu res ,
+a nd
+eat their food without seasoning it
+either with
+alkali or
+salt .
+For the
+next seven days they should bathe
+amidst the
+sou nds
+of
+auspicious musical i nstruments , should
+decorate
+themselves ,
+dine
+together,
+a nd pay
+attention
+to
+their
+rela
+tions
+as well
+as
+to
+those
+who m ay
+have come
+to witness
+their m arriage .
+This is
+applicable
+to persons of
+all castes .
+On
+the
+night
+of the
+tenth day
+the m an should
+begin in
+a
+lonely place with soft words ,
+and
+thus create conﬁdence in
+the girl .
+Some
+authors
+say that for the pu rpose of wi n ni ng
+her over he Should
+not speak to her for
+three days , but
+the
+followers
+of B abhra vya
+are
+of opinion
+that if
+the
+m an
+does
+not speak with her for three days ,
+the girl m ay be dis
+couraged by seeing him spiritless like
+a pillar ,
+and , becoming
+dejected ,
+She may begin to despise him
+as
+a
+eu nuch .
+Vatsy
+a yana says that the man should begin
+to win her ov er,
+and
+to create conﬁdence in her, but should
+abstain
+at ﬁrst from
+sexual pleasu res .
+Women being
+of
+a
+tender
+n ature , want
+tender begin nings ,
+and when
+they
+a re forcibly
+approached
+by men with whom
+they
+are but slightly
+acqu ainted ,
+th ey
+sometimes suddenly become haters of sexu al con nection ,
+and
+som etimes
+even haters
+of
+the m ale
+sex.
+T he m an should
+therefore
+approach
+the girl
+according
+to her liking ,
+and
+Should make
+use of
+those devices by which he may be
+able
+to
+establish
+himself more
+and more into
+her conﬁdence .
+T hese devices
+are
+
+## as follows :
+
+H e should
+embrace her ﬁrst
+of
+all in
+the w ay
+she likes
+most , because it does
+not l ast for
+a long
+time .
+H e should
+embrace her with
+the upper part of his body ,
+because
+that is
+easier
+a nd
+simpler .
+If the girl is grown up ,
+or if the man has know n her for some time , he m ay embrace
+he r by the light of a lamp , but if he is
+not well
+acqu ainted
+with he r ,
+or if
+she is
+a you ng girl , he should then
+embrace
+her in darkness .
+When
+the girl
+accepts the
+embrace ,
+the man should put a
+tambul a
+or screw
+of betel
+nu t
+and betel leaves
+in
+her
+
+
+76
+T h e
+K a m a S u t r a
+repe atedly ove r
+and
+about her body .
+By
+and by he should
+place he r in his lap ,
+and try more
+and more to gain her con
+sent ,
+a nd if
+she will
+not yield to him he should frighten her
+by saying ,
+“I shall impress m a rks
+of my
+teeth
+a nd
+n ails
+on
+you r lips
+a nd b reasts ,
+a nd
+the n m ake simil ar m arks
+on my
+ow n body , and shall tell my friends that you did them . What
+will you
+say
+then"
+In
+this
+a nd other ways ,
+as fear
+and
+conﬁdence
+are created in
+the minds
+of children ,
+so should
+the m an gain her over
+to his wishes.
+On
+the second
+and
+third
+nights ,
+after her conﬁde nce has
+increased Still more , he Should feel
+the whole
+of her body
+with his hands ,
+and kiss her
+all over ; he should
+also pl ace
+his
+hands upon
+he r
+thighs
+and if
+he succeed
+in
+this
+he
+Should
+then
+Shampoo
+the joints
+of
+her
+thighs .
+If
+She
+tries
+to p revent
+him
+doing
+this
+he
+should
+say
+to
+her,
+”What
+harm is
+the re
+in
+doing
+it"
+”
+and should persu ade
+he r
+to let him do it .
+A fte r gaining
+this point he should
+touch
+her
+private
+parts ,
+should
+loose n
+her
+girdle
+and
+the knot of her dress ,
+and
+tu rning
+up her lower garm ent
+should shampoo
+the joints of
+her
+n aked
+thighs .
+U nder
+various prete nces he should do all these things , but he should
+not
+a t that time begin
+actual congress .
+A fter this he should
+teach he r the sixty -fou r
+arts , should
+tell her how much he
+loves her,
+and describe
+to her the hopes which he formerly
+e ntertained
+regarding her .
+He Should
+also promise
+to be
+faithful to her in futu re ,
+and should dispel
+all her fears with
+respect to
+rival women ,
+and ,
+at last ,
+after having overcome
+her bashful ness , he Should begin to enjoy her in
+a w ay so
+as
+not
+to frighten her .
+So much
+about creating conﬁde nce in
+the girl ;
+and there
+are , moreover, some verses on the subject
+
+## as follows :
+
+A man acting according to the inclinations of a girl should
+try and gain her over so that she may love him and place her
+conﬁde nce in him .
+A man does
+not succeed
+either by im
+plicitly following
+the inclin ation
+of
+a girl ,
+or by wholly
+opposing her,
+and he should therefore adopt a middle cou rse .
+H e who knows how to make himself beloved by women ,
+as
+well
+as to i ncrease their honor and c reate conﬁde nce in them ,
+this m an b ecomes an obj ect of their love .
+But he , who n eg
+lects
+a girl thinking
+she is too bashful , is despised by her
+as
+a beast ignora nt of the working of the fem ale mind .
+M ore
+over ,
+a girl forcibly
+e njoyed by
+one who does
+not
+u nder
+stand
+the hearts
+of girls becomes
+ne rvous , u neasy ,
+and de
+
+
+o f
+V a tSy a y a n a
+jected ,
+a nd suddenly begins to hate the man who has taken
+adva ntage
+of her ;
+and
+then
+when her love is
+not u nder
+stood or
+returned ,
+she sinks
+i nto despondency ,
+a nd becomes
+either
+a hater
+of m ankind
+al together,
+or,
+hating her
+ow n
+man ,
+She has
+recourse to other men . *
+T heSe last few lines h ave been exempliﬁed in m any ways in many novels
+of this century .
+
+
+
+## CHAPT ER 111.
+
+O n Courtship ,
+a nd the M a nifestation of
+the Feelings by
+Outwa rd Signs
+a nd Deeds .
+A POOR m an possessed of good qu alities , a ma n born of a low
+family possessed
+of medioc re qualities ,
+a
+neighbor possessed
+of weal th ,
+and
+one u nde r the control
+of his father, mother
+or brothe rs , Should
+n ot m a rry without
+e ndeavoring to gain
+over a girl from he r childhood to love and esteem him .
+T hus
+a boy separated from his pare nts ,
+and livi ng in the house of
+his u ncle , should try
+to gai n over the daughter of his u ncle ,
+or some othe r girl ,
+eve n
+though
+she be p reviously betrothed
+to a nothe r .
+A nd this w ay of gai ning over
+a girl , says Ghot
+akam ukha ,
+is u nexception able , because Dharma
+can
+be
+ac
+complished by m eans
+of it ,
+as well
+as by
+any othe r w ay
+of
+m arriage .
+Whe n
+a boy has thus begu n
+to w oo the girl he loves , he
+should spend his
+time with her
+and
+a nd
+amuse
+her with
+various games and diversions ﬁtted for their age and acquain
+ta nceship , such as picking and collecting ﬂowers , making gar
+l ands of ﬂowe rs , playing the parts of members of a ﬁctitious
+family , cooking food , pl aying with dice , playi ng with cards,
+the gam e of odd
+and
+even ,
+the game of ﬁnding out the mid
+dle ﬁnger ,
+the game
+of
+six pebbles ,
+and such other games
+as
+may be p revale nt in
+the cou ntry ,
+and
+agreeable
+to the dis
+positio n
+of
+the girl .
+I n
+addition
+to this ,
+he should ca rry
+on various
+amusing gam es , pl ayed by seve ral pe rso ns
+to
+gether , such as hide a nd seek , playing with seeds , hiding things
+in seve ral sm all heaps of wheat a nd looki ng for them , blind
+m a n
+’s buff, gym n astic
+exe rcises ,
+and othe r games of the same
+sort in company with
+the girl , her friends
+a nd female
+at
+te ndants .
+T he
+m an should
+also Show great kind ness
+to
+a ny woman whom
+the girl
+thinks
+ﬁt
+to be
+trusted ,
+a nd
+should
+also
+m ake
+n ew
+acqu ain ta nces ,
+but
+above
+all
+he
+should
+attach
+to himself by ki ndness
+and little se rvices
+the
+daughte r
+of the girl
+’s
+nu rse , for if
+she be gai n ed ove r ,
+eve n
+though
+She comes to know
+of his desig n ,
+she does
+not c ause
+a ny obstruction ,
+bu t is some times
+even
+able
+to
+effect
+an
+u nion between him
+a nd
+the girl .
+A nd
+though
+She knows
+the true cha racter of the m a n
+She
+always talks of his m any
+
+
+8 0
+T h e
+K a m a S u t r a
+me n ts
+a nd
+rings , for these
+are the p roper occasions on which
+such
+things Should be presented .
+H e Should
+also
+teach
+the d aughter
+of the girl
+’s
+nu rse
+all
+the Sixty
+- fou r means
+of pleasu re p racticed
+by
+men ,
+a nd
+u nder
+this p retext Should
+also inform her
+of his great skill
+in
+the
+art
+of sexual
+enjoyme nt .
+A ll
+this
+tim e he Should
+wea r
+a ﬁne dress ,
+and m ake
+as good
+a n
+appeara nce
+a s pos
+sible , for you ng women love men who live with them ,
+and
+who a re h andsom e , good looking ,
+a nd well d ressed .
+A s for
+the saying
+that
+though women may fall in love ,
+they still
+m ake
+no
+effort
+themselves
+to gain over
+the object
+of
+their
+affections ,
+that is only
+a m atter
+of idle
+talk .
+N ow
+a girl
+always shows her love by outward signs
+and
+actions such
+as
+
+## the followi ng :
+
+- She
+n ever looks
+the m an
+in
+the face ,
+a nd becomes
+abashed when
+she is looked
+at by
+him ; u nder some p retext
+or other
+she shows her limbs
+to
+him ;
+She looks secre tly
+at him
+though he has gone
+away
+from her side ; hangs down her head when
+she is asked som e
+question by him ,
+a nd
+a nswe rs in indistinct words
+and
+un
+ﬁnished sentences , delights
+to be in his company for
+a long
+time , speaks
+to he r
+attendants in
+a peculiar
+tone with
+the
+hope
+of
+attracting his
+atten tion
+towards her when
+she is
+at
+a dista nce from him ,
+does
+not wish
+to go from
+the place
+whe re he is , u nder some p retext or other she m akes him look
+at
+different
+things ,
+n arrates
+to him
+tales
+and stories very
+Slowly ,
+so that she may continue conversing with him for
+a
+long
+time , kisses
+a nd
+embraces before him
+a child Sitting in
+her lap ,
+draws
+orname ntal m arks
+on
+the foreheads
+of he r
+female servan ts , performs sportive
+and graceful movements
+when her
+attenda nts speak j estingly
+to her in
+the presence
+of he r lover, conﬁdes in he r lover
+’s friends ,
+and
+respects
+and
+obeys
+them , Shows kind ness
+to his serva nts
+conve rses with
+them ,
+and
+engages
+them
+to do her work
+as
+i f she were their
+mistress ,
+a nd
+listens
+atten tively
+to
+them
+when
+they
+tell
+stories
+abou t he r love r
+to somebody
+else ,
+e n te rs his house
+when induced
+to do
+so by
+the daughter
+of her
+nu rse ,
+a nd
+by her
+assista nce m anages
+to
+‘ converse
+and play with him ,
+avoids being seen by
+he r lov e r when
+She is
+not
+dressed
+and decorated , gives him by
+th e hand
+of he r female friend
+he r
+ear orn ament ,
+ring ,
+or garl and
+of ﬂowers
+that he may
+have
+asked to see ,
+always wears
+anything
+that he may have
+p resen ted
+to he r,
+becom es
+deject ed when
+a ny othe r bride
+groom is mentioned by her pare n ts ,
+and does
+not mix with
+
+
+o f
+V a t s y a y a n a
+8 1
+those
+w ho m ay be
+of his party ,
+or who may support his
+cl aims .
+T he re
+are
+also some ve rses
+on
+the subj ect
+
+## as follows :
+
+A m an ,
+who has seen
+and perceived
+the feelings
+of
+the
+girl
+towards him ,
+and w ho has
+noticed
+the outward Signs
+and
+movem ents
+by
+which
+those
+feelings
+are
+expressed ,
+should do
+eve rythi ng in his powe r
+to
+effect
+an u nio n with
+her .
+H e should gain over
+a you ng girl by childlike sports ,
+a damsel com e of age by his skill in the
+arts ,
+a nd
+a girl that
+loves him by having
+recourse
+to persons in whom
+she
+con
+ﬁdes .
+
+
+
+## CHAPT ER IV .
+
+A bout Things to be Done Only by the M an ,
+a nd the Acqui
+sitiom of
+the Girl T hereby
+.
+A lso, What is
+to be Done
+by
+a Girl to Gain Over
+a M a n ,
+a nd Subject Him
+to H er .
+N OW when
+the girl begins
+to Show he r love by outward
+signs
+and motions ,
+as described in
+the l ast chapter,
+the love r
+should
+try
+to gain he r ove r
+en ti rely by various ways
+a nd
+means , such
+as
+
+## the following :
+
+When
+engaged with her in
+a ny game
+or sport he should
+intention ally hold her ha nd .
+He should p ractice upon her
+the va rious kinds
+of
+emb races , such
+as
+the
+touching
+em
+brace ,
+and othe rs
+al ready
+desc ribed
+in
+a precedi ng chapter
+(Part II
+Capte r
+H e should Show her a pair of hum an
+beings
+cut out of the leaf of
+a
+tree ,
+a nd such like things ,
+at
+in tervals .
+Whe n
+engaged in wate r sports ,
+h e should dive
+at a distance from he r ,
+and com e up close to he r .
+He should
+Show
+a n i ncreased liking for
+the
+n ew foliage
+of
+trees
+a nd
+such like
+things .
+He should describe
+to her
+the pangs he
+suffe rs on her accou nt .
+He should
+relate to her the beautiful
+dream
+that he has had with
+refere nce
+to othe r women .
+A t
+parties
+a nd
+assemblies
+of his caste he should
+sit
+n ear her ,
+a nd
+touch her u nder some p retence
+or other,
+and
+having
+placed
+his foot
+upo n
+he rs ,
+he should slowly
+touch
+each
+of her
+toes ,
+a nd press
+the
+e nds
+of the
+n ails ; if successful in
+this , he Should get hold
+of her foot with his ha nd
+and
+re
+peat
+the same
+thing .
+H e should
+also p ress
+a ﬁnger
+of her
+h and between his toes whe n
+She happe ns
+to be washing his
+feet ;
+and whenever he gives
+anything
+to her
+or
+takes
+a ny
+thing from her , he should Show her by his man ner and look
+how much he loves he r .
+H e should sprinkle upon he r the wa ter brought for
+ri ns
+ing his mouth ;
+a nd when
+alone with he r in
+a lonely place ,
+or in da rkn ess , he should m ake love to he r ,
+a nd
+tell he r the
+true state
+of his mind without distressing her in
+a ny w ay
+.
+When ever he sits with her
+on
+the same seat
+or bed he
+Should say to he r,
+“I have something to tell you in p rivate ,
+”
+and
+then , when
+she comes
+to hear it in
+a quiet place
+he
+should
+express his love
+to he r more by m an ne r
+a nd Signs
+than by words .
+Whe n he comes
+to know
+the state
+of he r
+
+
+8 4
+T h e
+K a m a S u t r a
+his mi nd ,
+and
+even without the consent of his parents .
+She
+should do this by such m eans as would endea r her to the said
+person ,
+as well as by frequently seeing and m eeting him .
+He r
+mother
+also should constantly cause them
+to meet by m eans
+of her fem ale friends ,
+and the daughter of her
+nu rse .
+T he
+girl herself should try to get alone with her beloved in some
+quiet place ,
+and
+at odd times should give him ﬂowers , betel
+n ut , b etel leaves
+and perfum es .
+She should
+also Show her
+skill in the practice of the
+a rts, in shampooing , in sc ratchi ng ,
+and in p ressi ng with the
+n ails .
+She should
+also talk to him
+on the subj ects he likes best,
+and discuss with him the ways
+and m ean s of gaining over
+and winning
+the
+affections
+of
+a girl .
+But old
+authors
+say that
+although the girl loves the man
+ever
+so much ,
+she should
+not offer herself ,
+or m ake the ﬁrst
+overtu res, for
+a girl who does
+this loses her dignity ,
+and is
+liable to be scorned
+and
+rej ected .
+But when the man shows
+his wish to e njoy her,
+she should be favorable
+to him ,
+and
+should show
+no change in her demeanou r when he
+emb races
+h er,
+and should
+receive
+all the m anifestations of his love
+as
+if she were ignorant of the state of his mind .
+But when he
+tries to kiss her she should oppose him ; when he begs to be
+allowed
+to have sexual intercourse with her
+she should let
+him touch her private parts only
+a nd with considerable dif
+ﬁculty ;
+and though importuned by him,
+she should not yield
+herself up to him
+as if of her ow n
+accord , but should
+resist
+his attempts to have her .
+I t is only , moreover, when
+she is
+certain
+that
+she is truly loved ,
+and
+that her lover is i ndeed
+devoted to her, and will not change his mind
+that she should
+then give herself up to him ,
+and pe rsu ade him to m arry her
+quickly .
+A fter losing her virginity
+She should tell her
+con
+ﬁdential friends
+about it .
+H e re
+end
+the
+efforts
+of a girl
+to gain over
+a m a n .
+T here
+are
+also some ve rses
+on
+the subject
+as follows : A
+girl who is much sought
+after should marry
+the man
+that
+she likes ,
+and whom
+she
+thinks would be obedient
+to her,
+a nd capable of giving her pleasu re .
+But when from the de
+sire of wealth a girl is m arried by her pare nts to a
+rich man
+without
+taking i nto consideration
+the character
+or looks of
+the bridegroom ,
+or when given
+to
+a man who has seve ral
+wives ,
+she
+never becomes
+attached to the man ,
+even
+though
+he be endowed with good qu alities , obedient to her will ,
+ac
+tive, strong ,
+and healthy ,
+and
+anxious to please her in every
+
+
+o f
+V a t s y a y a n a
+8 5
+A husband who is obedien t but yet m aste r
+of him
+self, though he be poor and
+not good looki ng , is bette r than
+on e who is common
+to m any wome n ,
+even
+though he be
+handsom e
+a nd
+attractive .
+T he wives
+of
+rich men , where
+there are m any wives ,
+are not ge nerally attached to their hus
+bands ,
+and
+are
+not conﬁdential with them ,
+and
+even though
+they possess
+all the
+extern al
+enjoyments of life , still h ave
+t e
+cou rse to othe r m en .
+A m an w ho is of a low mind , w ho h a s
+fallen from his social positio n ,
+and who is much given
+to
+travelling , does
+not deserve
+to be m arried ;
+n either does
+one
+who h as m any wives and childre n , or one who is devoted to
+sport
+a nd gambling ,
+a nd who comes
+to his wife only when
+he likes .
+Of all the lovers of a girl he only is he r true hus
+band who possesses
+the qualities
+that
+are liked by her ,
+and
+such
+a husband only e njoys
+real superiority over her, because
+he is the husband of love .
+There is
+a good deal of truth in the last few observations .
+Woman is
+a
+monogamous
+anim al .
+a nd loves but one ,
+and likes to feel herself
+alone in the
+affections of one
+man ,
+and cannot bear rivals .
+I t
+may
+also be t aken
+as
+a
+general rule th at women either m arried to , or
+kept by , rich men , love them
+for their wealth , but not for themselves .
+
+
+
+## CHAPTER V .
+
+On Certain Forms of M arriage *
+
+## WH EN
+
+a girl cannot meet he r love r frequently in p rivate ,
+she should send
+the daughter
+of her
+nu rse
+to him , it being
+u nde rstood that she has conﬁdence in her ,
+and had previously
+gained her over
+to he r i nte rests .
+On seeing
+the man ,
+the
+d aughte r of the
+nu rse Should
+in
+the cou rse
+of conversation ,
+describe
+to him
+the
+noble bi rth ,
+the good disposition ,
+the
+be au ty ,
+talen t skill , knowledge of human
+n atu re
+a nd
+affec
+tion
+of
+the gi rl in such
+a
+w ay
+as
+not
+to let him suppose
+that
+she had been sen t by
+the girl ,
+a nd Should
+thus create
+‘
+affection for the girl in
+the heart
+of the m an .
+T o the girl
+also she Should speak about the excelle nt qu alities of the m an ,
+especially
+of
+those qualities which
+she knows
+are ple asing
+to
+the girl .
+She should , moreove r , speak with disparage
+m en t of the other lovers of the girl , and talk about the avarice
+a nd indiscretion
+of their p are nts ,
+and
+the ﬁckle ness
+of their
+relations .
+She should
+also quote samples
+of m any girls
+of
+a ncie n t
+times , such
+as Sakun tala
+a nd othe rs ,
+who,
+having
+u nited
+themselves with love rs
+of their
+ow n caste
+a nd
+their
+ow n choice , were ever happy afterwards in their society .
+She
+should also tell of other girls who m arried in to great families ,
+a nd being troubled by
+rival wives became wretched
+a nd mis
+e rable ,
+and were ﬁnally
+ab andoned .
+She should fu rther
+speak of the good fortu ne , the con tinual happin ess , the chas
+tity , obedie nce ,
+and
+affection of the m an ,
+a nd if the girl gets
+amorous
+about him ,
+she Should endeavor to all ay her shame
+’r
+a nd her fear as well
+as her suspicions
+about any disaster that
+might
+result from her ma rriage .
+I n
+a word ,
+She should
+act
+the whole part of
+a female messenge r by
+telling
+the girl
+all
+about
+the m an
+’s
+affection for her,
+the pl aces he frequented;
+a nd
+the
+endeavors he m ade
+to meet her ,
+a nd by freque ntly
+repeating ,
+“It will be all right if the man will take you
+away
+forcibly
+a nd u nexpectedly .
+These forms of m arriage differ from the four kinds of m arriage men
+t i oned in Ch apter
+1
+a nd
+a re only to be m ade use of when the girl is gained
+over in the
+w ay mentioned in Ch apters III
+a nd IV .
+1
+“
+About this , see
+a story on the fat al effects of love
+at page
+1 14 of
+Ea rly
+I deas ;
+A G roup
+of Hi ndoo S tories,
+collected
+and coll ated by A naryan .
+
+## W . H .
+
+A llen 8 Co
+London ,
+1 8 8 1 .
+
+
+8 8
+T he
+Kama S utra of Vatsyayana
+b rought ﬁre from the house of a B rahman should p roceed
+as
+before .
+( 4)
+T he man should on the occasion of festivals get the
+daughter of the
+nu rse to give the girl some intoxicating
+sub
+stance ,
+and then cause her to be brought to some secu re place
+u nde r the p rete nse of some busin ess , a nd the re having e njoyed
+her before
+she
+recovers from her intoxication , should b ring
+ﬁre from
+the house of a B rahma n ,
+a nd proceed
+as before .
+5 )
+T he
+m an
+should ,
+with
+the
+con nivance
+of
+the
+daughter of the nu rse , carry off the girl from her house while
+She is asleep , a nd then , having enjoyed her before she recovers
+from her sleep , should bring ﬁre from the house of a B rah
+man ,
+a nd proceed
+as before .
+( 6)
+When
+the girl goes to
+a garden ,
+or to some village
+in the
+neighborhood ,
+the m an should , with his friends , fall
+on her gu ards ,
+and having killed
+them ,
+or frightened
+them
+away , forcibly carry her off,
+and proceed
+as before .
+There
+are verses
+on
+this subject
+as follow s z—I n
+all
+the
+forms of marriage given in this chapter of this work, the one
+that precedes is better than the one that follows it on account
+of its being more in
+accordance with
+the comm ands of
+t e
+ligion ,
+and therefore it is only whe n it is impossible to carry
+the former into practice that the latter should be
+resorted to.
+A s the fruit of
+all good m arriages is love ,
+the Ga ndharva *
+form of m arriage is respected , even though it is formed under
+u nfavorable circumstances , because it fulﬁlls the object sought
+for .
+A nother cause of the respect accorded to the Gandharva
+form of m arriage is , that it b rings forth happiness, causes less
+trouble in its performance than the other forms of m arriage ,
+and is above all the result of previous love .
+About the
+Gandharvavi vaha form of marriage , see note to page
+28 of
+Capt ain
+
+## R .
+
+
+## F .
+
+B urton
+’s
+Vickram
+a nd
+the
+V ampire
+or
+T ales
+of
+Hindu
+De vilry
+.
+Longman
+’
+s , Green
+8 Co
+London ,
+1 8 70.
+This form of matri
+mony w as recognized by the
+ancient Hindoos ,
+and is frequent in books .
+It is
+a kind of Scotch wedding—ultra C aledonian—t aking pl ace by mutu al consent
+without
+any form or ceremony .
+The Gandharvas
+are heavenly minstrels of
+I ndra
+’s court , who
+are supposed to be witnesses .
+
+## END OF PART III .
+
+
+
+
+## V
+
+. From the T empl e of S urya
+I 3 th Ce n tu ry
+A t K on a rak, Orissa
+
+
+
+## PART IV
+
+
+## ABOUT A WIEE
+
+
+
+9 2
+T h e
+K a m a S u t r a
+anywhere with he r husband she should put
+'o n her ornaments ,
+and withou t his consent She should
+not
+either give or
+accept
+i nvitatio ns ,
+or
+attend m arriages
+a nd sacriﬁces ,
+or
+Sit in
+the
+company of female friends , or visit the temples of the Gods .
+A nd if she wants to engage in
+any kind of games or spo rts ,
+she should
+not do it
+agai nst his will .
+I n the same w ay
+she
+should
+always
+sit down
+after him,
+and get up befo re him ,
+and should
+never
+awaken
+him when
+he
+is
+asleep .
+T he
+kitche n should be situ ated in
+a quiet
+a nd
+retired pl ace ,
+so as
+n ot to be accessible to strangers , and should always look clean .
+I n the event of any misconduct on the part of her husband ,
+She should
+not blame him
+excessively,
+though
+She be
+a little
+displeased .
+She Should
+not
+use
+abusive l anguage
+towards
+him , but
+rebuke him with conciliatory words , whethe r he
+be in the company of friends or alon e .
+M oreover , she should
+not be
+a
+scolld , for says Gona rdiya
+the re is
+no cause of dis
+like
+on
+the part of
+a husband
+so great
+as this cha racteristic
+in
+a wife .
+”
+Lastly
+she should
+avoid bad
+expressions , sulky
+looks , speaking
+aside , standing in the doorway ,
+a nd looking
+at passers -by , conversing in pleasu re groves , and rem aining in
+a lonely place for a long time ;
+and ﬁn ally
+she Should
+always
+keep her body , her tee th , he r hair,
+a nd
+everything belonging
+to her
+tidy , sweet,
+and clea n .
+When the wife wa nts to approach her husband in private
+her dress should consist
+of m any orn ame nts , various kinds
+of ﬂowers ,
+and
+a cloth decora ted with differen t colors ,
+and
+some sweet
+-smelling ointmen ts or u nguents .
+But he r
+every
+day dress should be composed of a thin , close - textured cloth ,
+a few orn aments and ﬂowers , and a little scent, not too much .
+She should
+also observe
+the fasts
+a nd vows of her husba nd ,
+and when
+he
+tries
+to preve nt he r
+doing
+this ,
+she should
+persuade him to let he r do it .
+A t
+appropriate
+times of the year ,
+and whe n
+they happen
+to be cheap ,
+she should buy e arth , bamboos , ﬁrewood , skins ,
+a nd i ron pots ,
+as also salt and oil .
+Fragran t substa nces ,
+v es
+sels made of the fruit of the pl ant w rightea
+antidyse nteri ca .
+or oval leaved w rightea , m edicines ,
+and other
+things which
+are
+always wanted , should be obtained when
+required
+and
+kept in
+a secret place of the house .
+T he seeds of the
+radish ,
+the potato ,
+the common beet,
+the I ndian wormwood ,
+the
+m angoe ,
+the cucumbe r ,
+the
+egg pl ant,
+the kushm anda ,
+the
+pumpkin gou rd ,
+the su rana ,
+the bignonia i ndica ,
+the sandal
+wood ,
+the p remna spinosa ,
+the garlic pl ant ,
+the onion ,
+and
+
+
+o f
+V a t s y a y a n a
+9 3
+other vegetables , should be bought
+and sown
+at the proper
+seasons .
+T he wife ,
+moreover,
+should
+not
+tell
+to strangers
+the
+amou nt of her wealth ,
+nor the secrets which her husband has
+conﬁded
+to her .
+She should su rpass
+all
+the women of her
+ow n ra nk in life in her cl everness , her appearance , her knowl
+edge
+of cookery , her pride ,
+and her man ner of serving her
+husband .
+T he
+expenditu re
+of the year should be
+regulated
+by the proﬁts .
+T he milk that remains after the meals should
+be tu rn ed into ghee or cl ariﬁed butter .
+Oil
+and sugar Should
+be prepared
+at home ; spin ning
+a nd weaving should
+also be
+done there ;
+and a store of ropes and cords ,
+a nd barks of trees
+for twisting in to
+ropes should be kept .
+She should
+also
+at
+tend
+to the pou nding
+and cleaning
+of
+rice , using its small
+g rain
+and chaff in some w ay
+or other .
+She Should p ay
+the
+salaries of the servants , look
+after the tiling of the ﬁelds , the
+keeping of the ﬂocks
+and herds , superintend
+the m aking of
+v ehicles ,
+and
+take care
+of
+the
+rams, cocks , quails , parrots ,
+starlings , cuckoos , peacocks , monkeys ,
+and deer ;
+and ﬁnally
+adjust the income
+and
+expenditure of the day
+.
+T he worn
+out clothes should be given to those servants who have done
+g ood work , in order to show
+them
+that
+their services have
+been
+appreciated , or they may be
+applied to some other use .
+T he vessels in which wine is prepared ,
+as well
+as
+those in
+w hich it is kept , should be carefully looked
+after,
+and put
+away at the proper time .
+All sales and purchases should also
+b e well
+atte nded to.
+T he friends of her husband
+she Should
+welcome by p resenting them with ﬂowers , ointment, incense ,
+b etel leaves , and betel nut .
+Her father -in -law and mother -in
+l aw
+She should treat
+as
+they deserve ,
+always
+remaining de
+p endent on their will ,
+never contradicting them , speaking to
+them in few
+a nd
+not harsh words
+not l aughing loudly in
+their presence ,
+and
+acting with
+thei r friends
+and
+e nemies
+as
+with her ow n .
+In
+addition
+to the
+above
+she Should
+not be
+vain ,
+or
+too much
+taken up with
+her
+enjoyments .
+She
+should be liberal
+towards her servants ,
+and
+reward them
+on
+“holidays
+a nd festivals ;
+and
+not give
+away
+anything without
+ﬁrst making it known
+to her husband .
+Thus ends the m anne r of living of a virtuous wom an .
+Du ring the absence of her husband on a jou rney the virtu
+lous woman should wear only he r
+auspicious ornamen ts ,
+and
+observe
+the fasts in honor
+of the Gods .
+While
+anxious
+to
+h ear
+the
+news
+of her husband ,
+she should still look
+after
+
+
+94
+The
+Kama S utra of Vatsyaya na
+her household affairs .
+She should sleep near the elder women
+of the house , a nd make herself agreeable to them .
+She should
+look
+after
+a nd keep in
+repair
+the
+things
+that
+are liked by
+her husband ,
+and continue
+the works
+that have been begu n
+by him .
+T o the
+abode
+of her
+rel ations
+she should
+not go
+except on occasions of joy
+a nd sorrow ,
+a nd then
+she should
+go in her usual travelling dress , accompanied by her husband
+’s
+se rvants ,
+a nd
+not
+remain
+there for
+a lo ng
+time .
+T he fasts
+and feasts should be observed with the consent of the
+elders
+of the house .
+T he
+resou rces Should be increased by m aking
+pu rchases a nd sales accordi ng to the p ractice of the merchants ,
+and by means
+of honest servants , superintended by herself .
+T he i ncome should be i nc reased ,
+a nd the
+expenditure dimin
+ished
+as much
+as possibl e .
+A nd when her husba nd
+retu rns
+from his jou rney ,
+she should
+receive him
+at ﬁrst in her ordi
+n ary clothes , so that he m ay know in what w ay she has lived
+du ring his
+absence ,
+and Should bring
+to him some presents ,
+as also materials for the worship of the Deity .
+T hus e nds the part
+rel ating to the behavior of a wife dur
+ing the
+absence
+of her husba nd on
+a jou rney .
+T here
+a re
+also some ve rses on
+the subject
+
+## as follows :
+
+“T he wife , whether
+she be
+a woman of
+noble family ,
+or
+a
+Vi rgi n widow *
+rem arried ,
+or
+a concubine , should lead
+a
+chaste life , devoted to her husband , a nd doi ng every thing for
+his welfa re .
+Wome n
+acting
+thus ,
+acquire Dharma , A rtha ,
+and Kama , obtain
+a high position ,
+and generally keep
+their
+husba nds devoted to them .
+This probably refers to
+a girl m arried in her infancy , or when very young
+and whose husband had died before she
+arrived
+at the
+age of puberty .
+Infant
+m arriages
+a re still the common custom of the Hindoos .
+
+
+9 6
+T h e
+K a m a S u t r a
+wicked wom an , withou t however committing herself in
+any
+w ay
+.
+If the favorite wife happe ns to qu arrel with the hus
+ba nd ,
+then
+the
+elder wife should take he r pa rt
+and give her
+false
+e ncou rageme n t,
+and
+thus cause
+the qu arrel
+to be
+in
+c reased .
+I f the re be only
+a little quarrel b etween
+the
+tw o,
+the elde r wife should do all she ca n to work it up i nto a large
+quarrel .
+But if
+after
+all this she ﬁnds that her husband still
+co ntinues
+to love his favorite wife ,
+she should
+then change
+her
+tactics ,
+and
+e ndeavor
+to bring
+about
+a conciliation be
+tween
+them , so
+as
+to
+avoid her husband
+’s displeasu re .
+T hus
+e nds the co nduct of the
+elder wife .
+T he you nger wife should regard the elder wife of her hus
+band as her mother, and should not give anything away , even
+to he r
+ow n
+relations , without her knowledge .
+She Should
+tell her everythi ng
+about herself ,
+a nd
+not
+approach her hus
+ba nd without her permission .
+Whateve r is
+told
+to he r by
+the elder wife she should not reveal to othe rs ,
+and she should
+take care of the children of the senior even more than of her
+ow n .
+When
+alone with he r husband
+she should serve him
+well , but should not tell him of the pain she suffers from the
+existence of a
+rival wife .
+She may
+also obtain secretly from
+her husband some m arks of his p articular regard for her ,
+and
+may tell him that she lives o nly for him ,
+a nd for the
+regard
+that he has for her .
+She should
+never
+reveal her love for
+h er husband ,
+nor her husba nd
+’s love for her
+to
+any person
+either in p ride or in
+anger, for a wife that
+reveals the secrets
+of he r husband is despised by him .
+A s for seeki ng to obtai n
+the
+regard of her husband , Gonardiya says , that it should al
+ways be done in private , for fear of the
+elde r wife .
+If the
+elder wife he disliked by her husband ,
+or be childless ,
+She
+should sympathize with her,
+a nd should ask he r husband to
+do the same , but should
+surpsass her in leading the life of
+a
+chaste woman .
+d
+T hus
+e nds
+the conduct of
+the you nger wife
+towards
+the
+el
+er .
+A widow in poor circumstances , or of a weak
+natu re ,
+a nd
+who
+allies herself
+again
+to
+a man , is called
+a widow
+t e
+m a rried .
+T he followers
+of B abhra vya
+say
+that
+a virgin widow
+should not ma rry a pe rson whom she may be obliged to leave
+on
+accou nt of his bad charac te r ,
+or of his bei ng destitute of
+the
+excellent qualities
+of
+a man ,
+she
+thus being obliged
+to
+have
+recou rse
+to
+anothe r pe rson .
+Gonardya is of opinion
+
+
+o f
+V a t s y a y a n a
+9 7
+that
+as the cause
+of
+a widow
+’s marrying
+again is he r desire
+for happiness ,
+a nd
+as happiness is secured by
+the possession
+of excellent qualities in he r husband , joined
+to a love of e n
+joyment , it is better therefore to secu re a person endowed with
+such qualities in
+the ﬁrst insta nce .
+Va tsyayana ,
+however ,
+thinks
+that
+a widow may m arry
+any person
+that
+she likes ,
+and that she thinks will suit her .
+A t
+the
+time
+of her m arriage
+the widow should obtain
+from her husband
+the mon ey
+to pay
+the cost
+of drinking
+parties ,
+a nd picnics with he r
+relations ,
+and of giving
+them
+a nd he r friends kindly gifts
+and p resents ;
+or
+She may do
+these things
+at he r
+ow n cost if
+she likes .
+I n
+the same w ay
+she m ay wea r
+either her husband
+’s ornaments
+or her
+ow n .
+A s to the p rese n ts
+of affection mutually
+exchanged between
+the husband
+and herself
+the re is
+no ﬁxed
+rule
+about
+them .
+If she leaves her husband
+after marriage of her ow n
+accord ,
+she should
+restore to him whatever he may have given he r,
+with the
+exception of the mutu al presents .
+If however,
+she
+is drive n
+out
+of the house by her husband
+she should
+not
+retu rn
+a nything
+to him .
+A fte r he r marriage she should live in the house of her hus
+band like one of the chief membe rs of the family , but should
+treat
+the other l adies
+of the family with kindness ,
+the
+ser
+va nts with generosity ,
+and
+all the friends of the house with
+familiarity
+a nd good
+temper .
+She should show
+that
+she is
+better
+acquainted with
+the sixty - fou r
+arts
+than
+the other
+l adies of the house ,
+and in a ny quar rels with her husband she
+should not rebuke him severely , but in p rivate do eve rything
+that he wishes ,
+and m ake
+use of
+the sixty -fou r ways
+of
+enjoyment .
+She should be obliging
+to
+the other wives of
+her husband ,
+a nd
+to their childre n
+she should give presents ,
+behave as their mistress ,
+a nd m ake orn ame nts and play - things
+for
+their
+use .
+In
+the friends
+and serva nts
+of her husband
+she should conﬁde more tha n in his other wives ,
+and ﬁnally
+she should have a liking for d rinking parties , going to picnics,
+atte nding fairs
+and festivals ,
+and for ca rrying
+out
+all kinds
+of games
+and
+amusements .
+T hus ends the conduct of a virgin widow
+re -married .
+A woman who is disliked by her husband ,
+and
+annoyed
+and distressed by his other wives , should
+associate with
+the
+wife who is liked most by he r husband ,
+and who se rves him
+more than the others ,
+and should teach her
+all the
+arts with
+which
+she is
+acquainted .
+She should act as the
+nu rse of her
+
+
+9 8
+T h e
+K a m a S u t r a
+husband
+’s children ,
+a nd having gained over his friends to her
+side , should through them m ake him acqu ainted of her devo
+tion to him .
+I n
+religious ce remo nies
+she should be
+a l eader,
+as
+also in vows
+a nd fasts ,
+and Should
+not hold too good
+an
+opinion
+of herself .
+When her husband is lying on his bed ,
+she should only go
+near him when it is
+agreeable
+to him ,
+a nd Should never rebuke him , or Show obstin acy in
+any w ay
+.
+If her husba nd happens
+to qu arrel with
+a ny
+of his other
+wives .
+she should
+reconcile them to each other ,
+a nd if he de
+sires to see
+a ny woman secretly ,
+she should m an age to bring
+about
+the meeting be tween
+them .
+She should moreover
+m ake herself
+acquainted with
+the weak poi nts
+of her hus
+band
+’s character, but
+always keep
+them secret,
+a nd
+on
+the
+whole behave herself in such a w ay
+as may lead him to look
+upon her
+as a good
+and devoted wife .
+He re
+ends the conduct of a wife disliked by her husba nd .
+T he
+above sections will Show how
+all the wome n of the
+King
+’s seraglio
+are
+to behave ,
+a nd
+therefore w e shall
+now
+spe ak separately only
+about
+the king .
+T he female atte nda nts in the ha rem (called severally Ka n
+chukiyas,
+* M ahallarikas,
+‘l
+‘
+and M ahallikasj )
+Should b ring
+ﬂowers , ointments
+and clothes from
+the Ki ng
+’s wives to the
+King ,
+a nd b e having
+received
+these
+things should give
+them
+as presents to the se rva nts , along with the thi ngs worn by him
+the previous day
+.
+I n the
+afte rnoon the Ki ng havi ng d ressed
+a nd put
+on his orname nts should interview
+the wome n
+of
+the harem , who should
+also be dressed
+and decorated with
+jewels .
+T hen having given
+to
+each
+of
+them such
+a place
+a nd such
+respect
+as m ay suit
+the occasion
+and
+as
+they may
+dese rve , he should carry
+on with
+them
+a cheerful conversa
+tion .
+A fter that he should
+see such of his wives
+as may b e
+virgin widows re
+- married ,
+a nd after them the concubines a nd
+dancing girls .
+All
+of these Should be visited in
+their
+ow n
+private
+rooms .
+Whe n
+the Ki ng
+rises from his
+noonday Sleep ,
+the wom an
+.
+whose duty it is to inform the Ki ng
+regarding the wife w ho
+A n ame given to the m aid servants of the zenana of the King in
+ancient
+times , on
+account of their
+always keeping their breasts covered with
+a cloth
+called
+ka n ch uki .
+It
+w as customary in the olden time for the m aid servants
+to cover their breasts with
+a cloth , while the Q ueens kept their breasts
+un
+covered .
+This custom is distinctly to be seen in the
+Aj un ta cave paintings .
+T The meaning of this word is
+a superior wom an , so it would seem th at
+a
+M ahallari ka must be
+a person in
+authority over the m aid servants of the h arem .
+1: This w as
+also
+appert aining to the rank of women employed in the h arem .
+In l ater times this pl ace w as given to eunuchs .
+
+
+
+## OF PART IV
+
+
+
+
+## V I .
+
+
+## A
+
+N aga from
+the
+T empl e
+of S urya
+A t
+Kona rak , Orissa
+i 3 th Cen tu ry
+
+
+
+## PART V
+
+
+## ABOUT THE WIVES OF
+
+
+## PEOPLE
+
+
+
+1 0 4
+T h e
+K a m a S u t r a
+to the wom an .
+She loves without regard to right or wrong ,
+*
+a nd does
+not try to gain over
+a man simply for the
+attain
+me nt
+of som e particul ar pu rpose .
+M oreover , when
+a man
+ﬁrst makes
+up
+to her
+she
+n atu rally shrinks from him ,
+eve n
+though
+she may be willing to u nite herself with him .
+B ut
+when the
+attempts to gain her
+are
+repeated
+and
+renewed ,
+she
+a t l ast consents .
+But with a m an ,
+eve n though he may h ave
+begu n
+to love ,
+he conquers his feelings from
+a
+regard for
+morality a nd wisdom , a nd although his thoughts are ofte n on
+the wom an , he does
+not yield ,
+even
+though
+a n
+attempt be
+m ade to gain him over .
+He sometimes m akes
+an
+attempt or
+effort to w in
+the object
+of his
+affections ,
+and havi ng failed .
+h e leaves her alone for the futu re .
+In the same w ay when
+a
+wom an is once gain ed , he often becomes indifferent
+about
+her .
+A s for the saying that
+a m an does
+not c are for what is
+e asily gained ,
+a nd only desires
+a
+thing which can not be
+oh
+t ained without diﬂiculty , it is only
+a m atter of talk .
+T he causes of
+a woman
+rejecting
+the
+addresses of
+a m an
+a re
+
+## as follows :
+
+Affection for her husband .
+Desire of l awful progeny .
+Want of opportu nity
+A nger at being
+add ressed by the man too familiarly .
+Differe nce in
+rank of life .
+Want of certainty on
+accou nt of the man being devoted
+to travelling .
+7 Thinki ng that the man may be
+attached to some othe r
+p erson .
+8 Fear
+of the m an
+’s
+not keeping his inte ntions secret .
+9
+T hi nki ng
+that
+the man is
+too devoted
+to his friends ,
+a nd has too great a
+regard for them .
+1 0
+T he
+apprehension that he is not in earnest .
+1 1
+Bashful ness on accou nt of his being an illustrious man .
+1 2 Fear
+on
+accou nt of his being powe rful ,
+or possessed
+of too impetuous passion , in
+the case
+of the deer -woman .
+1 3
+B ashful ness
+on
+accoun t of his being
+too clever .
+1 4
+T he
+thought
+of
+having
+once
+lived with
+him
+on
+friendly te rms only .
+1 5 Contempt
+of his want
+of knowledge of
+the world .
+1 6 Distrust
+of his low characte r.
+1 7 Disgust at his want of pe rception of her love for him .
+
+## G
+
+
+## U
+
+
+## I
+
+-
+li
+b
+)
+
+## N
+
+
+## H
+
+On peut tout
+attendre
+et tout supposer d
+'une femme
+amoureuse—Balz ac
+.
+
+
+of
+V a t s y a y a n a
+1 0 5
+1 8
+I n the case of an elephant - woman , the thought that he
+is a hare -man ,
+or a m an of weak passion .
+1 9 Compassion lest
+any
+thing Should befall him
+on
+ac
+count of his passion .
+2 o Despair
+at her ow n imperfections .
+2 1
+Fear of discovery .
+2 2 Disillusion
+at seeing his grey hair
+or shabby
+appear
+ance .
+2 3 Fear that he may be employed by her husband to test
+her chastity .
+24
+T he thought that he has too much regard for morality .
+Whichever of the above causes a m a n m ay detect, he should
+endeavor to remove it from the very begin ning .
+T hus ,
+the
+bashful ness
+that m ay
+arise from his greatn ess
+or his
+ability ,
+he should
+remove by Showing his great love
+and affection for
+her .
+T he difﬁculty of the want of opportu nity , or of his in
+accesibility , he Should remove by showing her some easy w ay
+of
+access .
+T he
+excessive
+respect
+entertained by
+the woman
+for him should be
+removed by maki ng himself very familiar .
+T he difﬁculties that arise from his being thought a low charac
+ter he should
+remove by showing his valor
+and his wisdom ;
+those
+that come from
+n eglect by
+extra
+
+## attention :
+
+and
+those
+that arise from fear by giving her proper e ncou ragement .
+T he following
+are
+the men who generally obtain success
+
+## with women :
+
+well versed in the science of love .
+skilled in telling stories .
+acquainted with women from their childhood .
+
+## O
+
+
+## O\
+
+
+## I
+
+Chm
+-
+h
+u
+b
+)
+
+## H
+
+\0
+
+## I O
+
+1 1
+1 2
+1 3
+
+## I 4
+
+1 5
+1 6
+M en
+M en
+M en
+M e n
+M en
+M en
+M en
+M en
+M en
+M en
+M en
+M en
+M en
+M en
+M en
+who
+who
+who
+who
+who
+w ho
+who
+who
+who
+who
+who
+who
+who
+have secu red their conﬁdence .
+send presents
+to
+them .
+talk well .
+do
+things
+that
+they like .
+have
+not loved other women previously .
+act
+as messengers .
+know
+their weak points .
+are desired by good women .
+are
+u nited with
+their fem ale friends .
+are good looking .
+have been brought up with
+them .
+are
+their
+neighbors .
+are devoted to sexual pleasures , even though
+these b e
+their
+ow n se rva nts .
+1 7
+T he lovers
+of the daughters
+of their
+nurse .
+
+
+1 0 6
+T h e
+K a m a S u t r a
+1 8 M en
+who h ave been lately m arried .
+1 9 M en
+who like picnics
+and pleasure parties .
+2 0 M en who
+are liberal .
+2 1
+M en
+who
+a re celebrated for being very strong (bull
+men)
+.
+2 2
+E n terp rising
+and brave men .
+2 3 M en who su rpass their husbands in learning and good
+looks ,
+i n good qu alities ,
+and in liberality .
+2 4 M en whose dress a nd m anner of living are m agniﬁcent .
+T h e following are the wome n who are
+
+## easily gained over :
+
+Women who stand
+at
+the door
+of their houses .
+Women who a re
+always looking out on the street .
+Wome n who
+sit conversing in
+their
+n eighbor
+’s house .
+A wom an who is
+always staring
+at you .
+A fem ale messenger .
+A woma n who looks sideways
+at yO
+u .
+A woman whose
+husband
+has
+taken
+another wife
+without
+any just cause .
+8
+A wom an who hates her husband , or who is hated by
+
+## N
+
+
+## O
+
+
+## W
+
+-
+
+## R
+
+
+## W
+
+
+## IQ
+
+
+## H
+
+9
+A wom an who has nobody to look
+after her ,
+or keep
+h er in check .
+1 0
+A woman who has
+not had
+any children .
+1 1
+A wom an whose family or caste is not well known .
+1 2
+A woman whose children
+are dead .
+1 3
+A wom an who is very fond of society .
+1 4
+A wom an
+who is
+apparently very
+affection ate with
+with her husba nd .
+1 5
+T he wife of an
+actor .
+1 6
+A widow .
+1 7
+A poor wom an .
+1 8
+A wom an fond
+of
+e njoyments .
+1 9
+T he wife of a man with m any you nger brothers .
+2 0
+A vain wom an .
+2 1
+A wom an whose husband is inferior
+to her in
+rank
+or
+abilities .
+2 2
+A woma n who is proud of her skill in the
+arts .
+2 3
+A wom an distu rbed in mind by the folly of her hus
+band .
+2 4
+A wom an w ho has been m arried in her infa ncy to a
+rich m an ,
+and
+not liki ng him when
+she grows up , desires
+a m an possessing
+a disposition ,
+talents ,
+a nd wisdom suitable
+to her ow n tastes.
+
+
+
+## CHAPTER
+
+
+## II .
+
+A bout M aking Acquaintance with
+the Woman,
+and of
+the
+Efforts to Gain Her Over
+
+## ANCIENT
+
+authors
+are of opinion
+that girls
+are
+not so
+easily
+seduced by employing female messe ngers
+as by the
+efforts of
+the man himself, but that the wives of others are more easily
+got at by the
+aid of female messengers than by the personal
+efforts of the man .
+But Vatsyaya na lays it down that when
+ever it is possible
+a man should
+always
+act himself in
+these
+matte rs ,
+and it is only when such is impracticable ,
+or im
+possible , that female messengers should be employed .
+A s for
+the saying
+that women who act
+a nd
+talk boldly
+and freely
+are
+to be w on by
+the personal
+efforts of
+the man ,
+and that
+women who do not possses those qu alities are to\be got at by
+fem ale messengers , it is only
+a m atter of talk .
+N ow when
+a man
+acts himself in
+the m atter he should
+ﬁrst of
+all m ake the
+acquaintance of the wom an he loves in
+the following manner .
+I st .
+He should arrange to be seen by the woman either on
+a
+natu ral or
+special Opportu nity .
+
+## A
+
+natural opportunity is
+when
+one of
+them goes
+to
+the house of
+the other ,
+and
+a
+special opportu nity is when
+they meet
+either
+at
+the house
+of a friend ,
+or
+a caste -fellow ,
+or
+a minister,
+or
+a physician ,
+as
+also
+on
+the occasion
+of m arriage ceremonies , sacriﬁces,
+festivals , funerals ,
+and garden parties .
+2 nd . Wheneve r they do meet ,
+the man should be careful
+to look at her in such a w ay
+as to cause the state of his mind
+to be known
+to her ;
+he should pull
+about his moustache .
+m ake
+a sou nd with his
+n ails , cause his
+ow n orn aments
+to
+tinkle , bite his lowe r lip ,
+and m ake various other signs of
+that description .
+When
+she is looking
+at him he should
+speak to his friends about her
+and other women ,
+and should
+Show to her his liberality and his appreciation of e njoyments .
+Whe n sitting by the side of a female friend he should yawn
+and twist his body , contract his eyebrows , speak very Slowly
+as if he w as weary ,
+and listen
+to her i ndifferently .
+
+## A
+
+con
+ve rsation having tw o mea nings should also be carried on with
+a child or some othe r person ,
+appare ntly having
+regard to"
+a
+third person , but
+really having
+reference
+to the woman he
+1 0 8
+
+
+T he
+Kama Sutra of Vatsyaya na
+1 0 9
+loves ,
+and in
+this w ay his love should be made manifest
+u nder the pretext of referring to others rather than to herself .
+He should make marks
+that have
+reference
+to her,
+on
+the
+earth with his nails , or with a stick ,
+a nd Should
+embrace
+and
+kiss
+a child in her presence ,
+a nd give it the mixture of betel
+nut
+and betel leaves with his tongue ,
+and press its chi n with
+his ﬁngers in
+a ca ressing w ay
+.
+All
+these
+things should be
+done
+at the proper time
+and in p roper pl aces .
+3 rd .
+T he man should fondle
+a child
+that may be sitting
+on her lap ,
+and give it somethi ng
+to play with ,
+and
+also
+take the same back
+again .
+Conve rsation with
+respect to the
+child m ay also be held with he r , and in this manner he should
+g radually become well
+acqu ainted with her ,
+and he should
+also m ake himself
+agreeable
+to her
+rel ations .
+A fterwards ,
+this
+acquaintance should be made
+a pretext for visiting he r
+house frequently ,
+and
+on such occasions he should converse
+on the subject of love in her abse nce , but within her hearing .
+A s his intim acy with her increases he should place in her
+charge some ki nd of deposit or trust ,
+and take
+away from it
+a small portion at a time ;
+or he may give her some fragrant
+substances ,
+or betel
+nuts to be kept for him by her .
+After
+this he should endeavor to m ake her well acqu ai nted with his
+ow n wife ,
+and get them
+to carry
+on conﬁde ntial conversa
+tions,
+and
+to
+sit
+together in lonely places .
+I n order
+to
+see
+her frequently he should
+a rrange so that the same goldsmith.
+the same jeweller, the same basket maker , the same dyer,
+and
+the same washerman should be employed by the two families .
+A nd he should also pay her long visits ope nly u nder the p re
+tence
+of being
+e ngaged with her on business ,
+and one busi
+ness should lead to another, so
+as to keep up the intercourse
+between them .
+Whenever she wants
+anything , or is in
+need
+of mon ey ,
+or wishes to
+acquire skill in
+one
+of the
+arts , he
+should cause her to u ndersta nd that he is willing
+and
+able to
+do a nything that she wants . to give her money ,
+or teach her
+one of the arts ,
+all these things being quite within his ability
+and power .
+I n the same w ay he should hold discussions with
+he r in company with other people ,
+and
+they Should talk of
+the doings
+a nd sayings
+of other persons ,
+and
+examine dif
+fere nt
+things like j ewellery , precious stones ,
+etc .
+O n such
+occasions he should show her ce rtain things with the values
+of which
+she may be u nacquainted ,
+and if
+she begins to dis
+pute with him about the things or their value , he Should not
+
+
+1 1 0
+The
+Kama S utra of
+Vatsyaya na
+con tradict he r , but poin t out that he
+agre es with her in every
+w ay
+.
+T hus
+end
+the ways
+of m aki ng
+the
+acqu ain tance
+of
+the
+woma n desi red .
+N ow
+afte r
+a gi rl has becom e
+acqu ai nted with
+the man
+as
+above desc ribed ,
+a nd has m anifested he r love
+to him by
+the
+va rious outwa rd Signs ,
+a nd by the motio ns of he r body ,
+the
+m an
+should m ake
+eve ry
+effort
+to gain
+her ove r .
+B u t
+as
+girls
+a re
+not
+acquain ted with sexual u nion
+they should be
+tre ated with
+the greatest delicacy ,
+a nd
+the m an
+should p ro
+ce ed with co nsiderabl e caution ,
+though in
+the case
+of othe r
+women
+accustomed to sexu al inte rcou rse this is n ot n ecessary .
+Wh en
+the i nte ntions of the girl
+are know n ,
+a nd her bashful
+n ess
+pu t
+aside ,
+the m a n should begi n
+to m ake
+u se
+of he r
+money ,
+a nd
+a n in te rchange
+of clothes ,
+ri ngs ,
+and ﬂowe rs
+should be made .
+I n this the m a n should take pa rticul ar ca re
+that the things given by him
+are h andsom e
+and valu able .
+He
+should moreove r receive from her a mix tu re of betel
+nut
+a nd
+betel leaves ,
+a nd when he is going
+to
+a pa rty he should
+a sk
+for the ﬂowe r in her hair,
+or for the ﬂowe r in her ha nd .
+If
+h e himself gives he r
+a ﬂowe r
+it should be
+a sweet - smelli ng
+on e ,
+a nd m a rked with m arks m ade by
+his
+n ails
+or
+teeth .
+With inc re asi ng
+assiduity he should dispel her fea rs ,
+and by
+degrees get he r to go with him to some lo nely pl ace ,
+a nd the re
+he Should
+emb race
+a nd kiss he r .
+A nd ﬁn ally
+at the
+time
+of
+giving he r some betel
+nu t , or of receiving the sam e from her ,
+or
+at the
+tim e of making
+a n
+exchange
+of ﬂowers , he should
+touch
+a nd press he r p rivate parts ,
+thus bri ngi ng his
+effo rts
+to
+a
+satisfactory co nclusion .
+When
+a ma n is
+e ndeavori ng
+to seduce
+one wom an ,
+he
+should not attempt to seduce a ny other at the same time .
+But
+after he ha s succeeded with
+the ﬁrst,
+a nd
+e njoyed he r for
+a
+considerable
+time , he
+can keep her
+affections by giving he r
+p resen ts that she likes ,
+a nd then comme nce m aki ng up to a n
+othe r wom a n .
+When
+a m a n sees
+the husb a nd
+of
+a wom an
+going to some pl ace
+nea r his house , he should
+not
+e njoy
+the
+wom an
+the n ,
+eve n
+though
+She m ay b e
+e asily gain ed ove r
+at
+that
+time .
+A wise m an havi ng
+a
+regard for his
+reputation
+should
+not thi nk of seduci ng
+a wom an who is
+app rehe nsive .
+timid ,
+not
+to be
+trusted , well gu arded ,
+or possessed
+of
+a
+fathe r
+- in - law
+or mothe r - in - law
+.
+
+
+1 1 2
+T h e
+K a m a S u t r a
+should try to ge t over her by means of a go-between ;
+a nd if ,
+after having disappeared for some
+time
+she
+again
+appears ,
+a nd behave s with him
+as u su al ,
+the man should
+then
+con
+side r that
+she would
+not object to be u nited with him .
+When
+a woman gives
+a ma n
+an opportu nity ,
+a nd m akes
+he r
+ow n love m a nifest
+to him , he should proceed
+to
+e njoy
+her .
+A nd
+the signs
+of
+a woman manifesting her love
+are
+
+## these :
+
+1
+She calls out to a man without being addressed by him
+in the ﬁrst instance .
+2
+She shows herself to him i n sec ret pl aces .
+3
+She speaks
+to him
+tremblingly
+and i narticulately .
+4
+She has the ﬁngers of her hand ,
+a nd the toes of her feet
+moistened with perspiration ,
+and her face blooming with
+delight .
+5
+She occupies he rself with shampooing his body
+a nd
+p ressing his head .
+6
+When shampooing him she works with one hand only ,
+a nd with
+the other
+She
+touches
+and
+embraces parts of his
+body .
+7
+She
+remai ns with both hands placed on his body mo
+tionless
+as if
+she had been surprised by something ,
+or w as
+overcome by fatigue .
+8
+She sometimes bends down her face upon his thighs .
+and when asked to shampoo them does not ma nifest any u ni
+willingness to do so .
+9
+She places
+one of her hands quite motionless
+on his
+body ,
+and even though the man should p ress it between tw o
+members of his body ,
+she does not remove it for a long time .
+1 0
+Lastly , when she has resisted all the efforts of the ma n
+to gain her over , She retu rns to him the next day to shampoo
+his body
+as before .
+When a woman neither gives encou ragement to a man , nor
+avoids him , but hides he rself
+and
+remains
+in some lonely
+place ,
+she must be got at by means of the female serva nt who
+may be
+nea r her .
+If when called by the man
+she
+acts in the
+same w ay ,
+then
+she should be gained ove r by means of
+a
+skillful go-between .
+But if
+she will have
+nothing to say to
+the man , he should consider well
+about her before he begi ns
+any fu rther attempts to gain her over .
+Thus ends the examination of the state of a woman
+’s mi nd .
+A man should ﬁrst get himself i ntroduced
+to
+a woman .
+and the n carry on
+a conversation with her .
+He should give
+
+
+o f
+V a t s y a y a n a
+1 1 3
+her hints of his love for her,
+a nd if he ﬁnds from her
+replies
+that
+she
+receives
+these hints favorably ,
+he should
+then
+set
+to work to gain her over without any fear .
+A woman who
+Shows her love by outwa rd signs to the man at his ﬁrst i nter
+view should be gained over very
+easily .
+I n the same w ay
+a
+lascivious woman , who when
+add ressed in loving words
+t e
+plies openly in words expressive of her love , Should be
+con
+sidered to have been gained over
+at that very moment . With
+regard to all wome n whether they be wise , simple ,
+or
+con
+ﬁding ,
+this
+rule is l aid down
+that those who m ake
+a n open
+manifestation of their love
+are
+easily gained over .
+
+
+
+## CHAPTER IV .
+
+A bout
+the B usiness of
+a Go-Between
+IF A woman has m anifested her love or desire eithe r by signs
+or by motio ns of the body ,
+and is
+afterwards
+rarely or never
+seen
+a ny where ,
+or if a wom an is met for the ﬁrs t time ,
+the
+m an should get a go-betwee n to approach her .
+Now
+the
+go-between ,
+having wheedled herself i n to
+the
+conﬁdence of the wom an by
+acting
+accordi ng to her disposi
+tion , should try to make her hate or despise her hsub and by
+holding
+artful conversations with her, by
+telling her
+about
+m edici nes for getti ng children , by talking to he r
+about other
+people , by
+tales of various kinds , by stories
+about the wives
+of other m e n , a nd by praising her beauty , wisdom , gen e rosity
+and good n atu re ,
+
+## a nd saying to her :
+
+It is i ndeed a pity that
+you , who are
+so excellent
+a wom an in
+every w ay , Should be
+possessed of a husband of this kind .
+Beautiful l ady , he is not
+ﬁt eve n to serve you .
+T he go-between should fu rther talk
+to the wom an
+about the weakness of the passion of her hus
+band , his jealousy , his
+roguery, his i ngratitude , his
+aversion
+to e njoyments , his dull n ess , his mea n ness ,
+and
+all the other
+faults
+that he m ay have ,
+a nd with which
+she may b e
+ac
+quainted .
+She should p articula rly harp
+upon
+that fault
+or
+failing by which
+the wife may
+appear
+to be most
+affected .
+If the wife be
+a deer - woma n ,
+a nd
+the husband
+a hare -man ,
+then
+there would be
+no fault in
+that direction , but in
+the
+event
+of his being
+a hare -man ,
+and
+she
+a mare - woma n ,
+or
+1
+el
+ep ha nt - woma n ,
+then
+this faul t should be pointed
+out
+to
+er .
+Gonikap utra is of opinion
+that when it is
+the ﬁrst
+affair
+of the wom an , or when her love has only been very secretly
+shown ,
+the man should
+then secu re
+a nd send
+to her
+a
+go
+betwee n , with whom
+She may be
+al ready
+acquain ted ,
+a nd
+in whom
+she conﬁdes .
+But to retu rn to ou r subject .
+T he go-between should tell
+the wom an
+about the obedie nce
+a nd love of the ma n ,
+a nd
+as
+her conﬁdence and
+affection i ncrease ,
+She Should then
+expl ain
+to her
+the
+thing
+to be
+accomplished in
+
+## the following w ay :
+
+“Hear this , 0 beautiful l ady ,
+that this man , born
+of a good
+family , having seen you , has gone m ad on you r accou nt . T he
+
+
+1 1 6
+T h e
+K a m a S u t ra
+w in her over by extolling and p raising his good qualities ,
+and
+by
+telling stories
+about his love for her .
+Here A uddalaka
+says
+that whe n
+a man
+or woman
+a re
+n ot pe rsonally
+ac
+quain ted with each othe r ,
+a nd have not shown each othe r a ny
+signs of affection , the employment of a go-between is useless .
+T he followers of B abhra vya on the other hand , afﬁrm that
+eve n
+though
+they
+be
+pe rson ally u nacquainted ,
+but
+have
+shown
+each other signs
+of affection
+the re is
+an occasion for
+the
+employme nt of
+a go-between .
+Gonikap utra
+asserts that
+a
+go-between should
+be
+employed , provided
+they
+are
+ac
+quainted with
+e ach other ,
+even
+though
+no signs
+of
+affection
+m ay have passed between them .
+Vatsya ya na , however , lays
+it down
+that
+even
+though
+they may
+not be person ally
+ac
+quainted with each other and may not have shown each other
+a ny signs of affection , still they
+are both capable of placing
+conﬁde nce in
+a go-between .
+N ow
+the go-between should show
+the woman
+the pres
+e nts , such as the betel
+nut and the betel leaves , the perfumes .
+the ﬂowe rs ,
+and the
+rings which the man may have give n to
+her for the sake of the woman ,
+and on these p rese nts should
+be impressed
+the marks of
+the man
+’s
+teeth ,
+and
+nails ,
+and
+othe r signs .
+On the cloth that he may se nd he Should d raw
+with saffron both his hands joined
+toge ther
+as if in
+earnest
+entreaty .
+T he
+go-between Should
+also Show
+to
+the wom an orna
+m ental ﬁgures
+of various kinds
+cut in leaves ,
+together with
+ear orname nts ,
+and chaplets made of ﬂowers containing love
+letters
+exp ressive of
+the desire of
+the man ,
+and
+she should
+cause her to send
+affectionate presents to the man in
+return .
+After they have mutually accepted each other
+’
+s prese nts , then
+a meeting Should be
+arra nged between them on the faith of
+the go-between .
+T he followers of Babhravya
+say that this meeting should
+take place
+at the
+time of going to the temple of
+a Deity,
+or
+on occasions of fairs , garden parties , theatrical
+ma rriages ,
+sacrﬁces , festivals
+and fu nerals ,
+as also
+at the time
+of going to the
+rive r to bathe , or at times of
+natu ral calami
+ties,
+‘l fea r of
+robbers or hostile i nvasions of the cou ntry .
+Gonikap utra is of opinion , however,
+that these meetings
+had better be brought about in the
+abodes of female friends .
+mendicants ,
+astrologers ,
+and
+ascetics
+.
+But Vatasyayana de
+1
+‘
+It is supposed that storms , earthqu akes , famines ,
+and pestilent diseases
+are
+here
+alluded to .
+
+
+o f
+V a t s y a y a n a
+1 1 7
+cides that that place is only w ell suited for the purpose which
+has p roper means of i ngress
+and
+egress ,
+and where
+arrange
+ments have bee n m ade to prevent
+any
+accidental occu rrence ,
+and when
+a m an who has once
+ente red
+the house ,
+can
+also
+leave it at the proper time without a ny disagreeable encounter .
+Now go -betweens or female messenge rs
+are of the follow
+ing differe nt kinds , viz
+( 1 )
+A go-be tween who takes upon herself the whole bur
+den of the business .
+( 2)
+
+## A
+
+go-betwee n who does only
+a limited part of
+the
+business .
+( 3 )
+
+## A
+
+go-between w ho is
+the beare r of a lette r only .
+( 4)
+
+## A
+
+go-b etween
+acting
+on he r ow n
+accou nt .
+( 5 )
+T he go-between of
+an i n noce nt young woman .
+( 6)
+A wife serving
+as
+a go-between .
+( 7)
+A mute
+go-between .
+( 8 )
+
+## A
+
+go-between who
+acts
+the part
+of
+the wi nd .
+( 1 )
+A woman who, having obse rved the mutual passion
+of a man
+and
+a wom an , brings
+them
+together
+and
+a rranges
+it by the power of her ow n intellect, such an one is called a go
+between
+who
+takes upon herself
+the whole bu rde n of
+the
+business .
+T his kind of go-betwee n is chieﬂy employed when
+the m an
+and
+the woman
+are
+al ready
+acquainted with
+each
+other,
+and have conversed
+together,
+and in such cases
+she is
+se nt
+not only by
+the man
+( as is
+always done in
+all other
+cases)
+but by
+the woman
+also—T he
+above
+name is
+also
+given to a go-betwee n who, pe rceiving that the man
+and the
+woman
+are suited to each other ,
+tries to bring about a u nion
+between them
+even though they be
+not acquainted with each
+other.
+( 2)
+
+## A
+
+go-between
+who, perceiving
+that some part of
+the
+affair is
+al ready done ,
+or
+that
+the
+advances
+on
+the part
+of the man
+are
+already made , completes the
+rest of the busi
+'
+ness is called a go-between who performs only a limited pa rt
+of the business .
+( 3 )
+A go-between , who Simply carries messages between
+a man
+and
+a woman who love
+each other, but who cannot
+frequen tly meet, is called th e bearer of a letter or message .
+This
+name is
+also given
+to one who is sent by
+either of
+the lovers
+to acquaint
+either the
+one
+or
+the other with
+the
+time
+a nd place of their meeting .
+( 4)
+A woman who goes herself to a man , and tells him of
+her having
+enjoyed sexual union with him in
+a dream ,
+and
+
+
+1 1 8
+T h e
+K a m a S u t r a
+expresses he r
+anger
+at his wife having
+rebuked him for call
+ing her by the n ame of her rival instead of by her ow n
+n ame .
+a nd gives him som ething bearing the m arks of he r teeth
+and
+n ails
+a nd inform s him
+that
+she knew
+she w as formerly de
+sired by him ,
+a nd
+asks him p rivately whether she or his wife
+is the better looking , such a perso n is called a woma n w ho is a
+g O -between for herself .
+N ow such
+a woma n Should be met
+and i nterviewed by
+the m a n in p rivate
+a nd secretly .
+T he
+above
+n ame is
+also give n
+to
+a wom an who having
+made an agreem ent with some other wom an to act as her go
+betwee n , gains ove r the m a n to herself , by the means of mak
+ing him pe rson ally
+acqu ain ted with he rself ,
+and thus causes
+the other wom an
+to fail .
+T he sam e
+applies to a m an who.
+acting
+as
+a go-between for
+another ,
+and having
+no p revious
+con nection with the wom an , gain s he r ove r for himself,
+and
+thus causes the failu re of the othe r m an .
+5 )
+A wom an , who has gain ed the conﬁdence of the in
+noce n t you ng wife
+of
+a ny ma n ,
+a nd who has le arned her
+sec rets without
+exercising
+a ny p ressu re
+on
+he r mind ,
+a nd
+fou nd out from her how her husband behaves to her, if this
+w om a n
+the n
+teaches he r
+the
+a rt
+of secu ring his favor ,
+a nd
+decorates he r
+so
+a s to show he r love ,
+and i nstructs her how
+a nd when to be angry , or to pretend to be so,
+a nd the n , h av
+ing herself m ade m arks
+of the
+n ails
+and
+teeth
+on
+the body
+of the wife , gets the latte r to send for her husba nd to Show
+these ma rks to him ,
+a nd thus excite him for e njoyme nt , such
+i s call ed
+the go
+-betwee n
+of
+a n in noce nt you ng wom an .
+In
+such cases
+the man should send
+replies
+to his wife
+through
+the same wom an .
+( 6)
+When
+a m a n gets his wife to gain the conﬁdence of a
+w om an whom he wa nts to enjoy ,
+and to call on her a nd talk
+to he r abou t the wisdom a nd ability of her husband , that wife
+is called a wife servi ng as a go-betwee n .
+I n this case the feel
+ings
+of the wom an with
+regard
+to the ma n should
+also b e
+m ade known through the wife .
+( 7)
+Whe n
+a m a n se nds
+a girl or
+a fem ale serva n t to a ny
+w om a n
+u nde r som e p retext
+or other ,
+and places
+a lette r in
+he r bouqu et
+of ﬂowe rs ,
+or in he r
+ea r orn ame n ts ,
+or m arks
+something about he r with his teeth or n ails , that girl or female
+se rva nt is called
+a mu te
+go-betwee n .
+I n
+this case
+the m an
+should
+expect
+a n
+a nswe r from
+the wom an
+through the same
+p e rson .
+
+
+
+## CHAPT ER V .
+
+About
+the Love of Persons in A uthority for
+the Wives of
+Other M en .
+
+## KINGS
+
+and
+their ministe rs have
+no
+access
+to the
+abodes
+of
+others ,
+and moreover
+their mode
+of living is constantly
+watched
+and observed
+a nd imitated by
+the people
+at large ,
+just
+as
+the
+anim al world , seei ng
+the
+sun
+rise ,
+get up
+after
+him,
+and when he sets in the
+evening , lie down
+again in the
+same
+w ay
+.
+Persons in
+authority should
+not
+therefore do
+any improper act in public ,
+as such are impossible from their
+position ,
+and would be dese rving
+of ce nsu re .
+But if
+they
+ﬁnd that such an act is necessary to be done , they should m ake
+use
+of the proper means
+as described in
+the following pa ra
+graphs .
+T he head man of the village ,
+the Kings
+’ ofﬁcer
+employed
+there ,
+and the man * whose business it is to glean corn ,
+can
+gain over fem ale villagers simply by
+asking them .
+It is
+on
+this
+accou nt
+that
+this cl ass
+of woman
+are called u nchaste
+wome n by voluptuaries .
+T he union of the
+above mentioned men with this class of
+wom an takes pl ace on
+the occasions of u npaid l abor,
+of ﬁll
+ing the graneries in their houses, of taking things in
+and out
+of the house , of cleaning the houses , of working in the ﬁelds,
+and of pu rchasing cotton , wool , ﬂax, hemp ,
+and thread ,
+and
+at the season of the pu rchase , sale ,
+and
+exchange of various
+other
+articles ,
+as well
+as
+at the time of doing various other
+works .
+I n
+the same w ay
+the superintendents of cow pens
+enjoy the women in the cow pens ;
+and officers , who have the
+superintendence of widows , of women who are without sup
+porters ,
+and
+of women who have left
+their husbands , have
+sexual intercourse with
+these women .
+T he intelligent
+ac
+complish
+their object by wandering
+at
+night in
+the village ,
+while villagers
+also u nite with the wives of their sons , being
+much
+alone with them .
+Lastly the superin tendents of mar
+kets have
+a great deal to do with female
+Villagers at the time
+of their m aking pu rchases in the market .
+During
+the festival of
+the
+eighth moon , i . e
+during
+the
+This is
+a phrase used for the man who does the work of everybody .
+and
+who is fed by the whole
+Vill age .
+1 2 0
+
+
+T he
+Kama S utra of
+Vatsyaya na
+1 2 1
+bright half of the month of N argashirsha
+as also during the
+moonlight festival of the month of Ka rtika ,
+and
+the spring
+festival of Chaitra ,
+the women of cities
+a nd towns gene rally
+visit
+the women of
+the King
+’s harem in
+the
+royal palace .
+These visitors go to the several
+apartments of the women of
+the harem ,
+as they
+are
+acquainted with
+them ,
+and pass
+the
+night i n conversation ,
+and
+i n prope r Sports ,
+and
+amusement,
+and go
+away in
+the morning .
+On such occasions ,
+a female
+attendant of
+the
+King ,
+(previously
+acquai nted
+with
+the
+woman whom
+the King desires)
+. should loiter
+about,
+and
+accost this woman whe n
+she sets out to go home ,
+and induce
+her to come
+and
+see the
+amusing things in
+the palace .
+Pre
+vions to these festivals
+even ,
+she should have caused it to be
+intim ated to this woman that on the occasion of this festival
+She would show her
+all
+the i nteresting
+things in
+the
+royal
+pal ace .
+Accordingly
+she should show her the bower of the
+coral creeper, the garden house with its ﬂoor inlaid with prec
+ious stones ,
+the bower of grapes ,
+the building on
+the water,
+the secret passages in the walls of the palace , the pictu res , the
+sporting
+animals ,
+the machines ,
+the birds,
+and
+the cages of
+the lions and the tigers .
+A fter this , when alone with her,
+she
+should tell her about the love of the King for her,
+and should
+describe
+to her
+the good fortune which would
+attend upon
+her u nion with the King , giving her at the time a strict promise
+of secrecy .
+If the woman does not accept the offer , she should
+conciliate and please her with handsome presents beﬁtting the
+position of the King ,
+and having
+accompanied her for some
+distance should dismiss her with great
+affection .
+2)
+Or, having made the acquaintance of the husband of
+the woman whom
+the King desires ,
+the wives
+of
+the King
+should get
+the wife
+to pay
+them
+a visit in
+the harem ,
+and
+on this occasion
+a female
+attendant of the king , having been
+sent thither, should
+act as above described .
+( 3 )
+Or,
+one of
+the King
+’s wives should get
+acquainted
+with the woman that the King desi res , by sending one of the
+fem ale attendants to her, who should , on their becoming more
+intim ate , induce her to come and see the royal abode .
+A fter
+wards when
+she has visited
+the harem ,
+and
+acquired
+con
+ﬁdence ,
+a female conﬁdant of the Ki ng , sent
+thither, should
+act
+as before described .
+( 4)
+Or, the King
+’s wife should i nvite the wom an , whom
+the Ki ng desires , to come to the royal palace . so that she might
+see
+the practice of the
+art in which the King
+’s wife m ay be
+skilled ,
+and after she has come to the harem . a female
+attend
+
+
+1 2 2
+T h e
+K a m a S u t r a
+a nt of the Ki ng , sent thithe r , should
+act
+as before desc ribed .
+5 )
+Or ,
+a female begga r , in league with the Ki ng
+’s wife ,
+should say to the wom a n desired by the King ,
+and whose hus
+band m ay have lost his weal th ,
+or m ay have some cause
+of
+
+## fear from the King :
+
+”T his wife of the King has inﬂuence ove r
+him ,
+a nd
+she is, moreover ,
+n atu rally kind -hearted , w e must
+therefore go to her in
+this m atter .
+I shall
+arra nge for you r
+e ntrance i nto the harem ,
+and
+She will do away with
+all cause
+of danger
+and fea r from
+the Ki ng .
+If the wom an
+accepts
+this offer , the fem ale beggar should take her tw o or three times
+to the ha rem ,
+and
+the King
+’s wife
+the re should give her
+a
+p romise
+of p rotection .
+A fter
+this , when
+the woma n ,
+de
+lighted with her
+reception
+and p romise of protection ,
+again
+goes to the ha rem , then
+a female
+attendant of the King , sent
+thither, should
+act
+as directed .
+6)
+Wh at has been said
+above
+regarding the wife of one
+who has som e cause of fea r from the King ,
+applies also to the
+wives of those who seek service
+u nder the King ,
+or who are
+opp ressed by the Ki ng
+’s mi nisters ,
+or who
+are poor ,
+or w ho
+a re
+not satisﬁed with
+thei r position ,
+or who
+are desirous of
+gai n i ng
+the King
+’s favor ,
+or who wish
+to become famous
+among the people ,
+or w ho are oppressed by
+the members of
+fheir ow n caste , or w ho want to i nju re thei r caste fellows, or
+w ho are spies of the King ,
+or who have
+any other obj ect to
+attai n .
+( 7)
+Lastly , if
+the woman desi red by
+the King be living
+with some person who is
+not her husband ,
+then
+the King
+should cause her to be arrested ,
+and having m ade he r a slave ,
+on
+accou n t of he r c rime , should place her in the ha rem .
+Or
+the King should cause his ambassador to quarrel with the hus
+band of the wom an desired by him , and should then imprison
+he r
+as the wife of an
+e nemy of the King ,
+and by this means
+should place her in the harem .
+T hus
+end
+the m eans
+of gaining over
+the wives
+of others
+secretly .
+T he
+above mentioned ways of gaining over the wives
+of
+othe r men
+are chieﬂy p racticed in
+the pal aces of Ki ngs .
+But.
+a King should
+n eve r
+enter the
+abode
+of another pe rson , for
+A bhira *
+the King of the Kottas w a s killed b y
+a w ashe rman
+while in the house of another,
+and in the same w ay Ja yasa na
+the King of the Kashis w as slai n by the comma ndment of his
+caval ry .
+The ex act date of the reign of these kings is not known .
+It is supposed
+to have been
+about the beginning of the Christian
+e ra .
+
+
+
+## CHAPTER VI .
+
+About the Women of the Royal Harem ;
+and of the Keeping
+of One
+’s Own Wife .
+T HE women of the
+royal harem can not see or meet any men
+on
+account of
+their being strictly gu arded ,
+neither do
+they
+have their desires satisﬁed , because their only husband is com
+mon to many wives .
+For this reason among themselves they
+give pleasure to each other in various ways as now described .
+Having dressed the daughters of their
+nu rses ,
+or their fe
+male friends , or
+their female
+atte ndants , like men ,
+they
+ac
+complish
+their object by means of bulbs ,
+roots ,
+and fruits
+having
+the form of the lingam ,
+or
+they lie down upon
+the
+statue of the male ﬁgu re , in which the lingam is visible
+and
+e rect .
+Some Kings , who are compassionate , take or apply certain
+medicines to enable them to enjoy m any wives in one
+night,
+simply for the purpose of satisfying the desire of their women ,
+though they perhaps have no desire of their ow n .
+Others e n
+joy with great affection only those wives that they particularly
+like , while others only
+take
+them ,
+according
+as
+the
+turn of
+each wife
+arrives , in due course .
+Such
+are
+the ways of
+en
+joyment prevalent in Eastern countries , and What is said about
+the means of
+enjoyment of the females is
+also
+applicable to
+the males.
+By means of their female attendants the ladies of the royal
+harem generally get men into their apartments in the disguise
+or dress of wome n .
+Their female attendants
+and the daugh
+ters of
+their
+nurses , who
+are
+acquainted W i th
+their
+secrets ,
+should
+exe rt themselves to get men to come to the harem in
+this w ay by telling them of the good fortu ne attending it , and
+by describing the facilities of entering and leaving the palace ,
+the large size of the premises , the carelessness of the se ntinels,
+and
+the irregul arities of the
+atte ndants
+about the persons of
+the royal wives .
+Bu t these women should n ever i nduce a man
+to e nter the harem by telling him falsehoods , for that would
+probably lead to his destruction .
+A s for
+the man himself he had better
+not
+e nter
+a
+royal
+harem ,
+even though it may be
+easily accessible , on
+account of
+the
+numerous disasters
+to which he may be
+exposed
+there .
+If however he wants
+to
+enter it , he should ﬁrst
+ascertain
+
+
+T he
+Kama
+Sutra of
+Vatsyaya na
+1 2 5
+whether there is an easy w ay to get out , whether it is closely
+surrounded by
+the pleasure garden, whether it has separate
+enclosures belonging to it, whether the sentinels
+are careless ,
+whether
+the King has gone
+abroad ,
+and
+then , when he is
+called by the women of the harem , he should carefully oh
+serve the localities , and enter by the w ay pointed out by them .
+If he is
+able to m anage it, he should hang
+about the harem
+every day ,
+a nd ,
+under some pretext or other, make friends
+with
+the sen tinels ,
+and show himself
+attached to the female
+attendants of
+the harem , who may have become
+acquainted
+with his design ,
+and to whom he should express his regret at
+not being
+able
+to obtain
+the object of his desire .
+Lastly he
+should cause
+the whole business of a go-between to be done
+by
+the woman w ho m ay have
+access
+to the harem ,
+a nd he
+sh
+ould be careful to be able to recognize the emissaries of the
+i ng
+.
+When
+a go-between has
+no access to the harem ,
+then the
+man should stand in some place where
+the lady, whom he
+loves ,
+and whom he is anxious to enjoy , can be seen .
+If that place is occupied by the King
+'
+s sentinels , he should
+then disguise himself
+as
+a female
+attendant of the lady who
+comes to the place . or passes by it.
+When
+she looks at him
+he should let her know his feelings by outw ard signs and ges
+tu res, and should show her pictures, things with double mean
+ings , chaplets of ﬂowers ,
+and
+rings.
+He should carefully
+mark the answer she gives, whether by word or by Sign , or by
+gestu re ,
+and should then
+try
+and get into the harem .
+If he
+is certain of her coming to some particular place . he
+should
+conceal himself there ,
+a nd at the appointed time should enter
+along with her as one of the guards.
+He may also go in and
+out , concealed in
+a folded bed, or bed covering, or with his
+body m ade invisible , * by means of
+external
+applications,
+a
+
+## receipt for one of which is as follows :
+
+T he heart of
+an ichneumon ,
+the fruit of the long gourd
+( tumbi)
+,
+and the eyes of a serpent should
+all be burnt with
+out letting out the smoke ,
+the
+ashes Should
+then be ground
+and mixed in
+equal quantities with water .
+By putting this
+mixture upon the eyes a man can go about unseen .
+Other means of invisibility
+are prescribed by
+D uyana ,
+Brahmans,
+and Jogashiras .
+The w ay to make oneself invisible ; the knowledge of the
+art of
+t ransmi
+gration , or ch anging ourselves or others into
+any shape or form by the use
+of
+ch arms
+and spells ; the power of being in two pl aces
+at once ,
+and other occult
+sciences
+are frequently referred to in
+all orient al literature .
+
+
+1 2 6
+T h e
+K a m a S u t r a
+Again the m an may
+e nter the ha rem duri ng the festival of
+the
+eighth moon in
+the month
+of Na rgashirsha ,
+a nd du ring
+the moonlight festivals whe n
+the femal e
+attendan ts
+of
+the
+harem
+are
+all busily occupied ,
+or in confusion .
+T he following pri nciples
+a re l aid down on this subject .
+T he
+e n tra nce
+of you ng me n i nto harems ,
+a nd
+their
+exit
+from them , ge nerally take pl ace when thi ngs are bei ng brought
+in to the pal ace ,
+or when things
+a re being taken
+out of it ,
+or
+when drinki ng festivals
+a re going on , or when the female at
+tendants are in
+a hu rry , or whe n the
+residence of some of the
+royal l adies is being changed , or when the King
+’s wives go to
+ga rde ns ,
+or
+to fairs ,
+or when
+they
+e nter the palace
+on
+their
+retu rn from
+them ,
+or l astly , whe n
+the Ki ng is
+abse n t
+on
+a
+long pilgrim age .
+T he wome n of the
+royal harem know each
+othe r
+’s secrets ,
+a nd having but one obj ect to attain
+they give
+assistance
+to
+each othe r .
+A you ng m an , w ho
+enj oys
+all of
+them ,
+a nd w ho is commo n to them
+all ,
+ca n continue
+enjoy
+ing his u nion with them so long as it is kept quiet,
+and is not
+know n
+ab road .
+N ow in the cou ntry of the Aparatakas the
+royal l adies
+a re
+ot well p rotected ,
+and conseque ntly m a ny you ng men
+are
+p assed into the harem by the women w ho have
+access to the
+royal palace .
+T he wives of the King of the Ahira cou ntry
+accomplish
+their objects with
+those sentinels in
+the ha rem
+who hear
+the
+n ame
+of Kshtriyas .
+T he
+royal l adies in
+the
+cou ntry
+of the Vatsagulmas c ause such men
+as
+are suitable
+to
+ente r i n to the harem
+along with
+their fem ale m essengers .
+I n the cou ntry of the Vaidarbhas the son s of the
+royal l adies
+e n te r the royal harem when they please , and e njoy the women ,
+with the
+exception
+of their ow n mothers .
+I n
+the S tri- rajya
+the wives
+of the Ki ng
+are
+enjoyed by his caste fellows
+and
+rel ations .
+I n the Ganda cou n try the
+royal wives
+are
+enjoyed
+by B rahma ns , friends , se rva n ts ,
+a nd sl aves .
+I n the S amdhava
+cou ntry , servants ,
+foster childre n ,
+a nd other persons like
+them
+enjoy the wome n of the harem .
+I n the cou ntry of the
+Haima va ta s
+adven tu rous citizens bribe the se ntinels a nd e nter
+‘
+.
+the harem .
+I n
+the cou ntry
+the Va nyas
+a nd
+the K almyas,
+Brahma ns , with the knowledge of the King ,
+e nter the h arem
+u nder the p rete nce of giving ﬂowers to the l adies ,
+a nd speak
+with
+them from behind
+a cu rtai n ,
+and from such co nve rsa
+tion u nion
+afte rwa rds takes place .
+Lastly the wome n in the
+harem of the King of the Prachyas conceal one you ng man in
+the harem for eve ry batch of nine or ten of the women .
+T hus
+act
+the wives
+of others .
+
+
+
+## OF PART V
+
+
+
+
+## PART VI
+
+
+## ABOUT COURTE"ANS
+
+
+
+
+## V II .
+
+M on olithic pill a r from
+a
+stupa
+Bharaha t ,
+S tate
+of N agod
+C i r .
+
+## 2 0 0 B . C .
+
+
+
+
+## CHAPTER 1.
+
+Of the Causes of a Courtezan Resorting to M en ; of the M eans
+of A ttaching to Herself the M an Desired;
+a nd of the Kind
+of M a n that it is Desirable to be Acquainted with .
+BY having inte rcourse with men cou rtezans obtain sexual
+pleasu re
+as well
+as
+their
+ow n m ainten ance .
+N ow when
+a
+cou rtezan
+takes up with
+a man from love ,
+the
+action is
+na
+tu ral ; but when she resorts to him for the pu rpose of getting
+money , he r
+action is
+artiﬁcial or forced .
+Even in this latter
+case , however ,
+she should conduct herself as if her love were
+i ndeed
+natural , because me n
+repose their conﬁdence
+on
+those
+women who apparently love them .
+In making known her
+love
+to the man ,
+she should show
+an
+e ntire freedom from
+avarice ,
+and for the sake of he r futu re credit
+she should
+ab
+stain from acquiring money from him by u nl awful means.
+A cou rtezan , well
+dressed
+and
+wearing
+her ornaments ,
+should sit or stand at the door of he r house ,
+and without ex
+posing herself too much , should look on the public
+road so
+as to be see n by the passers -by ,
+she being like
+an object on
+View for sale . *
+She should form frie ndships with such per
+sons as would e nable her to separate me n from other women .
+and attach them to herself, to
+‘
+repair her ow n misfortu nes, to
+acquire weal th ,
+and to protect her from being bullied , or set
+upon by persons with whom
+she may have dealings of some
+kind or another.
+These persons are
+T he guards of the town , or the police .
+T he oﬂi cers of the courts of justice .
+A strologers .
+Powerful men , or men with interest .
+Learned men .
+T eache rs of the sixty
+-fou r arts .
+Pithamardas or conﬁdants.
+Vitas or parasites .
+Vidushakas or jesters .
+Flower sellers .
+Perfumers .
+In England the lower cl asses of courtezans walk the streets ; in
+India
+and
+g
+ther pl aces in the
+East . they sit
+at the windows . or
+at the doors of their
+ouses .
+
+
+The Kama Sutra of Vatsyayana
+1 3 3
+Ve ndors of spirits .
+Washermen .
+Barbers .
+B eggars .
+A nd such other persons
+as may be fou nd
+necessary
+for
+the particular object
+to be
+acquired .
+T he following kinds of men may be taken up with, simply
+
+## for the pu rpose of getting their money :
+
+M e n of independent incom
+e .
+Young men .
+M en who are free from
+any ties .
+M en who hold places of
+authority
+u nder the King .
+M en who have secured their means of livelihood with
+out difﬁcul ty .
+M en possessed of unfailing sources of income .
+M en who consider themselves handsome .
+M en who are
+always praising themselves .
+One who is
+an
+eu nuch , but wishes
+to be
+thought
+a
+man .
+One who hates his equals .
+One who is
+naturally liberal.
+One who has i nﬂuence with
+the King
+or his minis
+ters .
+One who is always fortu nate .
+One who is proud of his wealth .
+One who disobeys the orders of his elders.
+One
+upon whom
+the members of his caste keep
+an
+eye .
+A n only
+son whose father is wealthy .
+A n
+ascetic who is internally
+troubled with desire .
+A brave man .
+A physician of
+the King .
+Previous
+acquaintances.
+On
+the other hand ,
+those who
+are possessed of
+excellen t
+qualities
+are to be
+resorted to for the sake of love
+and fame .
+Such men
+are
+
+## as follows :
+
+M en of high birth , learned, with a good knowledge of the
+world , and doing the proper things at the proper times , poets,
+good story
+telle rs ,
+eloquen t me n ,
+e n ergetic men , skilled in
+various
+arts ,
+far-seeing into
+the futu re , possessed of great
+minds, full of perseverance , of
+a ﬁrm devotion , free from
+anger , liberal ,
+affectionate to their parents ,
+and with
+a liking
+for
+all social gatherings , skilled in completing verses begu n
+
+
+1 3 4
+T h e
+K a m a S u t r a
+by others
+and in various other sports , free from
+all disease ,
+possessed of a pe rfect body , strong , and not addicted to drink
+ing , powerful in sexu al
+enjoyme nt
+sociable , Showing love
+towa rds women
+and
+attracting
+thei r hea rts
+to himself b ut
+n ot e n ti rely devoted to them , possessed of i ndepe nde nt means
+of livelihood , free from
+envy ,
+and l ast of all, free from
+sus
+picion .
+Such a re the good qu alities of a m an .
+T he wom an also should have the followi ng cha racteristics ,
+
+## Vi z . :
+
+She should be possessed
+of be au ty ,
+a nd
+ami ability , with
+auspicious body m arks .
+She Should have
+a liking for good
+qualities in othe r people ,
+as
+also
+a liking for wealth .
+She
+Should take delight in sexu al u nions
+resulting from love ,
+a nd
+should be
+of a ﬁrm mind ,
+and
+of the same class
+as the ma n
+with regard to sexual e njoyment .
+She should
+always be anxious
+to
+acquire
+and obtain
+ex
+pe rience
+a nd knowledge ,
+be free from
+avarice ,
+a nd
+always
+have a liking for social gatherings , and for the arts .
+
+## T he following are the ordin ary qualities of all women , Viz . :
+
+T o be possessed of intellige nce , good disposition ,
+and good
+m an n ers ;
+to be straightforward in behavior ,
+and to be grate
+ful ;
+to conside r well
+the futu re before doing
+anything ;
+to
+possess
+activity ,
+to be
+of consistent behavior ,
+and
+to have
+a
+knowledge of the proper times
+and pl aces for doing
+things ;
+to speak
+always without me an ness , loud l aughte r, m alignity ,
+ange r,
+ava rice , dull ness , or stupidity , to have
+a knowledge of
+the Kama Sutra , and to be skilled in all the a rts con nected with
+I t .
+T he faul ts
+of women
+are
+to be know n by
+the
+absence
+of any of the
+above m en tioned good qu alities .
+T he following kinds of men
+a re
+not ﬁt to be
+resorted to
+by cou rtezans ,
+
+## Viz . :
+
+One who is consumptive ;
+one w ho is sickly ;
+on e whose
+mouth con tains worms ;
+one whose b reath smells like hum an
+excrement ;
+one whose wife is dea r to him ;
+one who speaks.
+harshly ;
+one who is
+always suspicious ;
+on e
+w ho is
+avari
+cions ; one who is pitiless ; one w ho is a thief ; one who is self
+conceited ; one who has a liking for so rcery ; one who does not
+ca re for respect or disrespect ; one w ho ca n be gain ed over even
+by his e nemies by me a ns
+of money ;
+a nd , l astly ,
+one who is
+extremely bashful .
+A ncient
+authors
+a re
+of opinion
+that the causes of a cou r"
+tezan
+resorting
+to men
+a re love , fear , mo ney , pleasu re ,
+re
+
+
+1 3 6
+The Kama S utra of
+Vatsyaya na
+When
+a lover comes
+to he r
+abode ,
+a cou rtezan should
+give him
+a mixtu re
+of betel leaves
+and betel
+nut , garl ands
+of ﬂowe rs ,
+a nd perfumed ointme nts ,
+a nd , showing her skill
+in a rts , should
+e ntertain him with
+a long conversation .
+She
+should
+also give him some loving presents ,
+and m ake
+an
+ex
+change
+of her
+ow n
+things with his,
+a nd
+at
+the same
+time
+should Show him her skill in sexual
+enjoymen t .
+When
+a
+courtezan is thus u nited with her lover she should always de
+light him by
+affectionate gifts , by conversation ,
+a nd by
+the
+application of
+tender means
+of
+e njoyment .
+
+
+
+## CHAPT ER II .
+
+Of Living Like
+a Wife .
+
+## WHEN
+
+a courtezan is living
+as
+a wife with her love r,
+she
+Should behave like a chaste wom an ,
+a nd do everything to his
+satisfaction .
+Her duty in
+this
+respect , in short, is ,
+that
+she
+should give him pleasu re, but should
+not become
+attached to
+him ,
+though behaving
+as if
+she were
+re ally
+attached .
+N ow the following is the m an ner in which
+she is to con
+duct herself,
+so
+as to
+accomplish
+the
+above mentioned pu r
+pose .
+She should have
+a mothe r depe nden t on her, one who
+should be
+represented
+as ve ry harsh ,
+a nd who looked upon
+money
+as h er chief object in life .
+I n
+the
+eve nt of the re be
+ing
+no mother,
+then
+a n
+old
+and conﬁden tial
+nu rse should
+play
+the same
+rd le .
+T he mother
+or
+nurse ,
+on
+their part.
+should
+appear to be displeased with the lover,
+and forcibly
+take her
+away from him .
+T he woman herself should
+al
+ways Show prete nded
+a nger , dejection , fear,
+and shame
+on
+this
+account, but should
+not disobey the mother or
+nurse
+at
+any
+time .
+She should make out to the mothe r or nurse that the man
+is suffering from bad health ,
+and making
+this
+a pretext for
+going
+to
+see him ,
+she should go
+on
+that
+accou nt .
+She is .
+moreover,
+to do
+the following
+things
+for
+the pu rpose of
+gaining the m an
+’
+s favor,
+
+## Viz . :
+
+Sending her female attendant to bring the ﬂowers used by
+him on the previous day , in orde r that she may use them her
+self
+as
+a m ark of
+affection ,
+also
+aski ng for
+the mixture of
+be tel
+nut
+a nd leaves
+that have
+remained
+uneaten by him
+expressing wonder
+at his knowledge
+of sexual intercou rse ,
+and
+the several means of
+e njoyment used by him ; learning
+from him
+the sixty -four kinds of pleasure men tioned by
+B abhra vya ; continually practicing the ways of enjoyment as
+t aught by him
+and
+according to his liking ; keeping his
+se
+crets ;
+telling him her ow n desires
+and secrets ; concealing her
+anger ;
+never neglecting him on the bed when he tu rns his face
+towards her ;
+touching any parts of his body according to his
+wish ; kissing
+and embracing him when he is
+asleep ; looking
+at him with
+apparent
+anxiety when he is w rapt in
+thought,
+or
+thinking
+of some other subj ect
+tha n
+he rself ;
+showing
+
+
+1 3 8
+T h e
+K a m a S u t r a
+n either
+complete
+shamelessness ,
+nor
+excessive
+bashful ness
+when he m eets her ,
+or sees he r sta nding on the terrace of her
+house from the public
+road ; hating his en emies ; loving those
+w ho
+a re
+clear
+to him ; showing
+a liking for
+th at which he
+likes ; bei ng in high or low spirits
+according to the state
+that
+he is in himself ;
+expressing
+a cu riosity to
+see his wives ;
+not
+co ntinui ng he r
+a nge r for
+a long
+time ; suspecti ng
+even
+the
+m arks
+a nd wou nds m ade by herself with her
+n ails
+a nd teeth
+on his body to have been m ade by some other wom an ; keep
+ing her love for him u n expressed by wo rds , bu t showing it
+by deeds ,
+and Sig ns ,
+a nd hints ;
+remai ning Silent whe n he is
+asleep , i ntoxicated ,
+or sick ; bei ng ve ry
+attentive when
+he
+d escribes his good
+actio ns ,
+a nd
+reciting
+them
+afterwards
+to
+his praise
+a nd be neﬁt ; giving witty
+replies
+to him if he be
+sufﬁciently
+attached
+to her ; listeni ng to all his stories
+except
+those
+that
+rel ate
+to h er
+rivals ;
+exp ressing feelings
+of deje c
+tio n a nd sorrow if he sighs , y aw ns , or falls dow n , p ronou nc
+ing the words
+live lo ng
+when he sn eezes ; p retending to b e
+ill ,
+or
+to h ave
+the desi re
+of p regna ncy when
+she feels de
+jected ;
+abstai ning from p raisi ng
+the good qu aliti es
+of
+a ny
+body
+else ,
+a nd from censu ring
+those who possess
+the
+same
+faults
+as her
+ow n man ; weari ng
+anything
+that m ay
+have
+been give n
+to he r by him ;
+abstai ni ng from putti ng
+on he r
+orn aments ,
+and from
+taking food when he is in p ain , Sick .
+low -Spirited ,
+or suffering from misfortu ne ,
+a nd condoling
+a nd l amenting with him ove r
+the same ; wishing
+to
+accom
+pany him if he happen s to leave the cou n try himself or if he
+be ba nished from it by
+the King ;
+exp ressi ng
+a desire
+not to
+live
+after him ;
+telli ng him
+that the whole object
+a nd desire
+of her life w as
+to be u nited with him ; offeri ng previously
+p romised sac riﬁces
+to the Deity when he
+acquires wealth ,
+or
+h as some desire fulﬁlled , or when he has recove red from som e
+ill ness or dise ase ; putting on orn ame n ts every day ;
+not acting
+too freely with him ;
+reciting his
+n am e
+and
+the
+n ame
+of his
+family in her songs ; pl acing his hand
+on her loi ns , bosom
+a nd forehead ,
+a nd falling
+asl eep
+afte r feeli ng the ple asu re
+of
+his touch ; Sitti ng
+on his lap
+a nd falling
+asleep
+the re ; wish
+ing to have
+a child by him ; desiring
+not to live lo nger than
+he does ;
+abstaining from
+reveali ng his secrets to othe rs ; dis
+su ading him from vows
+and fasts by sayi ng
+le t the
+sin fall
+upon me
+keeping vows
+a nd fasts
+along with him whe n it
+is impossibl e to ch ange his mi nd on the subj ect ;
+telling him
+that vows
+a nd fasts
+are difﬁcul t to be observed ,
+eve n by her
+
+
+1 4 0
+T he Kama Sutra of Vatsyayana
+when his love is disinte rested ; when he has the same object
+in
+View
+as his beloved one ; when he is quite free from
+any
+suspicions
+on
+her
+account ;
+a nd when
+he is i ndifferent
+to
+mon ey with
+regard to her .
+Such is the ma n ner of
+a cou rtezan living with
+a m an like
+a wife ,
+and
+set forth here for the sake of guidance from the
+rules
+of D attaka .
+Wh at is
+not l aid down here should be
+p racticed
+according
+to
+the custom of
+the people ,
+and
+the
+n ature of each individual ma n .
+T here
+are
+also tw o verses on
+the subj ect
+
+## as follows :
+
+“T he extent of the love of
+“women is
+not known ,
+even to
+those who are the objects of their affection , on
+account of its
+subtlety ,
+a nd on
+accou nt of the
+avarice ,
+and
+natu ral intelli
+gence
+of woma nkind .
+“Women
+are
+hardly
+ever
+known
+in
+their
+true
+light.
+though
+they may love men ,
+or become indifferent
+towards
+them ; may give them delight, or abandon them ;
+or may
+ex
+tract from them
+all the wealth that they may possess .
+
+
+
+## CHAPT ER III .
+
+Of the M ea ns of Ge tting M oney
+.
+Of the Signs of the Cha nge
+of a Lover
+’s Feelings ,
+a nd of the Way to Get Rid of Him .
+M ON EY is got
+out of
+a lover in
+tw o ways , viz
+By n atu ral or l awful means ,
+and by
+artiﬁces .
+Old
+authors
+a re of opinion that whe n a cou rtezan
+can get as much mon ey
+as she wants from he r lover ,
+she should not m ake use of a rti
+ﬁce .
+B ut Vatsya ya na l ays dow n
+that
+though
+She m ay
+get
+some money from him by n atu ral means , yet whe n she makes
+u se of artiﬁce he gives her doubly more ,
+and the refore
+a rtiﬁce
+should be
+resorted
+to for
+the purpose
+of
+extorting mon ey
+from him
+at
+all
+events .
+N ow
+the
+a rtiﬁces to be used for getting money from
+the
+love r
+are
+
+## as follows :
+
+I st .
+T aking mon ey from him
+on differe nt occasions , for
+the purpose of pu rchasing various articles , such as orn aments,
+food ,
+drink , ﬂowers , perfumes
+and clothes ,
+a nd
+either
+not
+buying them ,
+or ge tting from him more
+than
+their cost .
+
+## 2md .
+
+Praising his intelligence to his face .
+3 rd .
+Pretending to be obliged to make gifts on occasion of
+festivals con nected with vows ,
+trees, gardens ,
+temples ,
+or
+4 th .
+Pretending
+that
+at
+the
+time
+of going
+to his house .
+her j ewels have been stolen
+either by
+the King
+’s guards ,
+or
+by
+robbers .
+5 th .
+Alleging
+that her property has been
+destroyed by
+ﬁre , by the falling of her house ,
+or by the carelessness of the
+se rv ants .
+6 th .
+Prete nding
+to have lost
+the orname nts
+of her lover
+along with he r ow n .
+7 th . Causing him to hear through other people of the ex
+penses incurred by her in coming to see him .
+8 th . Contracting debts for
+the sake
+of her lover .
+9 th . Disputi ng with her mother on
+accou nt
+of some
+ex
+On the completion of
+a vow
+a festival takes pl ace .
+Some trees such
+as
+the peepul
+and bany an trees
+are invested with sacred threads like the
+B rah
+mans ,
+and on the occasion of this ceremony
+a festival is given .
+In the same
+w ay when gardens
+a re made ,
+and t anks or temples built , then
+also festivals
+are observed .
+
+
+1 4 2
+T h e
+K a m a S u t r a
+pense incu rred by h er for the lover,
+a nd which w as
+not
+ap
+p roved of by her mother .
+1 0 th .
+N ot goi ng to parties
+and festivities in the houses of
+her frie nds for
+the wa nt
+of p resen ts
+to make
+to
+them ,
+she
+h aving previously inform ed her lover
+of the valu abl e p res
+e nts given
+to her by
+these very friends .
+1 i th .
+Not performing ce rtain festive
+rites u nder
+the p re
+te nce that
+She has
+no money to perform
+them with .
+1 2 th .
+Engaging
+a rtists to do something for her lover .
+i 3 th .
+E n tertai ning physicians
+and ministers for
+the pur
+pose of attaining some obj ect .
+i 4 th .
+Assisting friends and benefactors both on festive oc
+casions ,
+and in misfortu ne .
+i 5 th .
+Performing household
+rites .
+1 6 th .
+Having to pay the expe nses of the ceremony of m ar
+riage of the
+son
+of a female frie nd .
+1 7 th .
+H aving
+to satisfy cu rious wishes du ri ng her state
+of p regnancy .
+i 8 th .
+Pretending to be ill ,
+a nd charging her cost of treat
+ment .
+1 9 th .
+Having
+to
+remove
+the
+troubles
+of a friend .
+2 oth . Selling som e of he r orname nts , so as to give her lover
+a present .
+2 i st .
+Pretending to sell some of her orn aments , fu rnitu re .
+or cooki ng utensils to a trader, who has been
+already tutored
+how to behave in
+the m atte r .
+2 2 nd .
+Havi ng
+to buy cooking utensils of greate r value
+than those of other people , so that they might be more easily
+distinguished ,
+and
+not cha nged for others of a n i nfe rior de
+scription .
+2 3 rd . Remembering
+the former favors
+of her love r ,
+and
+causing them
+always to be spoken of by her friends
+a nd fol
+lowers .
+2 4 th .
+I nforming her lover of
+the great gai ns of other
+cou rteza ns .
+2 5 th . Desc ribing before them ,
+a nd in
+the p rese nce
+of her\
+love r , her ow n great gains , and m aking them out to be greater
+eve n
+than
+theirs ,
+though such m ay
+not have bee n
+really the
+case .
+2 6 th . Openly opposi ng he r mothe r when
+she
+e nde avors
+to pe rsu ade her
+to
+take up with me n with whom
+she had
+been form erly
+acquain ted ,
+on
+accou nt
+of the great gains to
+be got from them .
+
+
+1 4 4
+T h e
+K a m a S u t r a
+
+## 6th . Showing
+
+a disrega rd for him
+on
+all occasions.
+7 th . Censu ring me n possessed
+of
+the same faults
+as her
+love r .
+8 th .
+Exp ressing dissatisfaction
+at the ways
+and means
+of
+enjoyme nt used by him .
+9 th .
+N ot giving him her mouth to kiss .
+1 0 th . Refusi ng
+access to he r jagha n a , i . e . ,
+the part of the
+body betwee n the
+n avel
+a nd the thighs .
+1 1 th . Showing a dislike for the wou nds m ade by his n ails
+and tee th .
+1 2 th .
+N ot pressing close up
+agai nst him
+at the time when
+he embraces he r .
+1 3 th .
+Keeping her limbs withou t movement
+at
+the
+time
+of congress .
+1 4 th . Desiring him
+to
+e njoy her when he is fatigued .
+i 5 th .
+Laughing
+at his
+attachmen t to he r .
+1 6th .
+N ot
+responding to his
+emb races .
+1 7th .
+T u rning
+away from him whe n he begi ns
+to
+em
+brace he r .
+1 8 th .
+Pre tending to be sleepy .
+1 9 th . Goi ng out visiting , or i nto company , when she per
+ceiv es his desire
+to
+enjoy her du ring
+the day time .
+2 oth . M isconstruing his words .
+2 i st .
+L aughing without
+any joke ,
+or
+at the
+time
+of any
+joke m ade by him l aughing u nder some other prete nce .
+2 2 nd .
+Looking with side gla nces
+at her
+ow n
+attendan ts ,
+a nd cl apping her ha nds when he says
+anything .
+2 3 rd .
+I nterrupting him in
+the middle
+of his stories ,
+a nd
+beginning to tell other stories herself .
+24 th . Reciting his faul ts and his vices ,
+and declaring them
+to be incurable .
+2 5 th . Saying words
+to her female
+attendants calculated
+to cut the heart of her lover to the quick .
+h
+2 6 th .
+T aking care
+not
+to look
+at him when he comes to
+er .
+2 7th .
+Aski ng from him what can not be gra nted .
+2 8 th .
+A nd ,
+afte r all, ﬁn ally dismissi ng him .
+T he re
+are
+also tw o verses on
+this subject
+
+## as follows :
+
+"T he duty of a cou rteza n consists in forming con nections
+with suitable men
+after due
+a nd full consideration ,
+a nd
+at
+taching
+the pe rson with whom
+she is u nited
+to herself ;
+in
+obtaini ng wealth from the pe rson who is attached to her,
+a nd
+
+
+o f
+V a t s y a y a n a
+1 4 5
+then dismissing him
+after
+she has
+taken
+away
+all his pos
+sessions .
+“A cou rtezan leading in this manner the life of a wife is
+not
+troubled with
+too many lovers ,
+and yet obtains
+abu n
+dance of wealth .
+
+
+
+## CHAPTER IV .
+
+A bout Re -union with a Former Lover .
+
+## WHEN
+
+a cou rteza n
+abando ns her present lover
+after
+all his
+wealth
+is
+exhausted ,
+she m ay
+then conside r
+about he r
+t e
+u nion with
+a forme r love r .
+But
+she should
+retu rn
+to him
+only if he has
+acquired fresh weal th , or is still wealthy ,
+a nd
+if he is still attached to her .
+A nd if this ma n be living at the
+time with some other woman she should consider well befo re
+she acts .
+N ow such
+a m an
+can only be in one
+of the Six following
+conditions ,
+
+## Viz . :
+
+1 st .
+H e m ay have left the ﬁrst wom an of his ow n
+accord .
+a nd may
+even have left
+a nothe r wom an si nce
+then .
+2 nd .
+H e may have been d riven
+away from both women .
+3 rd .
+He may have l eft
+the
+one woman
+of his
+ow n
+ac
+cord ,
+and been driven
+away by the other .
+4 th .
+He may have left the one woma n of his ow n
+accord .
+and be living with
+a nother wom an .
+5 th .
+H e m ay have been drive n away from the one wom an .
+and left the other
+of his
+ow n
+accord .
+6 th .
+He m ay have been d rive n
+away by the one woman .
+and may be living with
+another .
+( 1 )
+N ow if
+the m an has left both wome n
+of his
+ow n
+accord , he Should not be
+resorted to, on accou nt of the ﬁckle
+ness
+of
+h is mind ,
+a nd his i ndifference
+to
+the
+excell ences of
+both
+of them .
+( 2)
+A s regards the ma n who may have been driven
+away
+from both wome n , if he has been d rive n
+away from the l ast
+one because
+the wom an could get more money from some
+othe r m an ,
+the n he should be
+resorted to, for if
+attached
+to
+the ﬁrst wom a n
+he would give he r more money
+through
+vanity
+and
+emul ation
+to spite
+the other wom an .
+But if he
+\
+has been
+d riven
+away by
+the wom an
+on
+accou nt
+of his
+poverty ,
+or stingin ess , he should
+not then be
+reso rted to .
+( 3 )
+In
+the case
+of the m an who m ay have left
+the
+one
+woman
+of his
+ow n
+accord ,
+a nd been d rive n
+away by
+the
+othe r , if he agrees to retu rn to the former and give her ple nty
+of mo ney beforeha nd ,
+then he should be
+resorted
+to.
+( 4)
+I n
+the case
+of the man who may have left
+the
+one
+
+
+1 4 8
+T h e
+K a m a S u t r a
+i st .
+T hat he w as drive n
+away u njustly a nd for no p roper
+reaso n ,
+a nd
+n ow
+that he h as go ne to a nothe r wom an ,
+eve ry
+effort must be used to b ring him back to myself .
+2 nd .
+T hat if he were once to converse with me
+again , he
+would b reak
+away from
+the othe r wom an .
+3 rd .
+T h at
+the pride
+of my present lover would be put
+down by m eans
+of the former
+one .
+4 th .
+T hat he has become wealthy , has secu red
+a higher
+position ,
+and holds
+a place of
+authority u nder the King .
+5 th .
+T hat he is separate from his wife .
+6 th .
+T hat he is
+now i ndependent .
+
+## 7th .
+
+T hat he lives
+apart from his father, or brothe r .
+8 th .
+T hat by m aking peace with him , I shall be
+able
+to
+get hold
+of
+a very
+rich man ,
+who is
+now p revented from
+coming to me by my p resent love r .
+9 th .
+T hat
+as he is
+not
+respected by his wife , I Shall
+n ow
+be
+able
+to separate him from her .
+l oth .
+T hat
+the frie nd
+of this ma n loves my
+rival ,
+w ho
+hates me cordially , I shall
+therefore by
+this me ans separate
+the friend from his mistress .
+1 1 th .
+A nd lastly ,
+I shall bring
+disc redit upon
+him by
+b ringing him back to me ,
+thus showing the ﬁckle ness of hi s
+mind .
+When
+a cou rtezan
+is
+resolved
+to
+take up
+again with
+a
+form er lover , he r Pithama rda
+and othe r servants should tell
+him that his former expulsion from
+the wom an
+’s house w as
+caused by
+the wickedness
+of her mother ;
+that
+the wom an
+loved him just
+as much
+as
+ever
+at that time , but could
+not
+help
+the occu rrence
+on
+accou nt
+of
+her
+deference
+to
+her
+mothe r
+’
+s will ;
+that she hated the u nion of her p resent lover,
+and
+disliked
+him
+excessively .
+I n
+addition
+to
+this ,
+they
+should create conﬁde nce in his mind by speaking to him of
+her former love for him ,
+a nd should
+allude
+to the m ark
+of
+that love that
+she has
+eve r
+remembered .
+This m ark
+of her
+love should be con nected with some kind
+of pleasu re
+tha t
+m ay have been p racticed by him , such
+as his w ay of kissi ng
+her , or ma n ner of having con nection with her .
+T hus
+e nd
+the ways of bringing
+about
+a
+t e -u nion with
+a
+form e r lover .
+Whe n
+a wom a n has
+to choose between
+tw o lovers ,
+one
+of whom w as form erly u nited with her , while
+the other is
+a stranger , the Acharyas (sages)
+are of opinion that the ﬁrst
+on e is p referable , because his dispositio n
+a nd character being
+
+
+o f
+V a t s y a y a n a
+1 4 9
+al ready known by p revious careful observation ,
+he
+can
+be
+easily pleased
+a nd satisﬁed ;
+but Vatsyayana
+thinks
+that
+a
+former love r , having al ready spent a great de al of his wealth .
+is n ot
+able or willing to give much mon ey
+again ,
+and is
+not
+the refore to be relied upon so much as a stranger .
+Pa rticula r
+cases m ay however ,
+arise diffe ri ng from
+this ge n eral
+rule
+on
+accou n t
+of the different
+n atu res
+of men .
+T here
+a re
+also verses
+on
+the subj ect
+
+## as follows :
+
+“Re -u nion with
+a form e r lover may be
+desirable
+so
+as
+to separate some pa rticula r wom an from some pa rticul ar
+m an ,
+or some particul ar man from some particul ar wom an .
+or to have
+a certain
+effect upon the present lover .
+When
+a m an is
+excessively
+attached
+to
+a wom an , he is
+afraid of her comi ng i nto contact with other men ; he does not
+then
+regard
+or
+notice
+her faults ;
+and
+he gives
+he r much
+wealth
+through fear
+of her leaving him .
+A cou rtezan should be
+agreeable
+to the man who is
+at
+tached to he r,
+a nd despise the man who does not care for her .
+If while
+she is living with
+one ma n ,
+a messe nger comes
+to
+he r from some other man ,
+she may
+eithe r
+refuse
+to listen
+to
+any
+n egotiations on his part , or appoint a ﬁxed time for him
+to
+Visit her, but
+she should
+not leave the man who may be
+living with he r
+and who may be
+attached
+to her .
+”
+“A wise wom an should only
+renew her con nection with
+a forme r love r if she is satisﬁed that good fortu n e , gain , love .
+a nd fri endship are likely to be the result of such a re -u nion .
+”
+
+
+
+## CHAPT ER
+
+
+## V .
+
+Of Diﬂ
+‘erent Kinds of Gain .
+
+## WH EN
+
+a courtezan is able to realize much money every day .
+by
+reason of m a ny custom ers ,
+she should
+not conﬁne he rself
+to a single love r ; u nder such ci rcumstances , she should ﬁx he r
+rate for on e night ,
+after considering the place , the season ,
+and
+the condition
+of the people ,
+also having
+regard
+to her ow n
+good qualities and good looks ,
+and
+after comparing her
+rates
+with those of other cou rtezans .
+She
+can inform her lovers .
+a nd friends , a nd acqu aintances about these cha nges .
+If, how
+ever ,
+she can obtain
+a great gai n from
+a single love r , she may
+resort to him
+alone ,
+and live with him like
+a wife .
+N ow , the Sages are of opinion , that , when
+a cou rtezan h as
+the chance of a n equal gain from tw o love rs at the sam e time ,
+a p reference Should be given to the one w ho would give he r
+the kind
+of thing which
+she wants .
+But V a tsyaya n a says
+that the preference should be give n to the one w ho gives he r
+gold , because it can not be taken back like som e other thi ngs .
+it
+can be
+easily
+received ,
+and is
+also
+the means of p rocu ring
+a nything
+that may be wished for .
+Of such
+things
+as gold ,
+silver , copper , bell m etal , iron , pots , fu rnitu re , beds , upper
+g arments , u nde r vestm ents , fragrant substances , vessels m ade
+-of gou rds , ghee ,
+oil , corn , cattle ,
+and othe r things
+of
+a like
+n atu re ,
+the ﬁrst viz . , gold , is superior to
+all the othe rs .
+When
+the same l abor is
+required
+to gai n
+a ny
+tw o lovers .
+or when
+the same kind
+of thing is
+to be
+got from
+e ach
+of
+them ,
+the choice Should be made by
+the
+advice
+of
+a frie nd ,
+or it may be made from their pe rson al qu alities ,
+or from the
+s igns
+of good
+or bad fortu ne
+that may be co n nected with
+them .
+When
+the re
+a re
+tw o lovers ,
+one
+of whom is
+attached
+to
+t he cou rteza n ,
+a nd
+the other is simply ve ry gene rous ,
+the
+S ages
+say
+that
+a p refe rence should be given
+to
+the gener
+eous love r, but Va tsyaya na is of opinio n that the on e who is
+really
+attached
+to the courteza n should be p referred , because
+he
+can be m ade to be generous ,
+even
+as
+a miser gives mo ney
+if he becomes fond
+of
+a woman , but
+a m an who is simply
+g enerous can not b e made to love with
+real
+attachm ent .
+But
+a mong those who are
+attached to her, if there is one who is
+
+
+1 5 2
+T h e
+K a m a S u t r a
+occu r
+again .
+Here howeve r,
+the choice should be guided by
+the greatness or sm all ness of the disaster .
+T he gains
+of the wealthiest
+a nd best kind
+of cou rtezans
+
+## a re to be spen t as follows :
+
+Building
+temples ,
+tanks ,
+and gardens ; givi ng
+a
+thousand
+cows to different B rahma ns ; carrying on the worship
+of the
+Gods ,
+a nd celebrating festivals in
+their honor ;
+a nd , l astly ,
+performing such vows
+as m ay be within their means .
+T he gains of other cou rtezans
+are to be spent
+
+## as follows :
+
+H aving
+a white
+d ress
+to wea r
+every
+day ;
+getting
+suf
+ﬁcie n t food
+a nd drink
+to satisfy hu nger
+and
+thirst ;
+eating
+daily
+a perfumed
+tambula , i . e
+a mixtu re
+of betel
+nut
+a nd
+betel leaves ;
+a nd wearing orn am ents gilt with gold .
+T he
+S ages say that these
+rep resent the gain s of all the middle
+and
+lower cl asses of cou rtezans , but Vatsya ya na is of opinion that
+their gain s can not be calcul ated , or ﬁxed in
+a ny w ay ,
+as these
+depend
+on
+the i nﬂuences
+of
+the place ,
+the customs
+of
+the
+people ,
+their
+ow n
+appearance ,
+and m any other things .
+When
+a cou rtezan wa nts
+to keep some particular m an
+from som e other wom an ;
+or wishes
+to get him
+away from
+some woman
+to whom he m ay be
+attached ;
+or
+to dep rive
+some wom an
+of the gains
+realized by her from him ;
+or if
+she
+thinks that
+she would
+raise her position ;
+or
+enjoy some
+great good fortu ne ; or become desi rable to all men by u niting
+herself with this man ;
+or if she wishes to get his assistance in
+ave rting some misfortu ne
+or is
+really
+attached
+to him
+and
+loves him or wishes to inju re somebody through his m eans ;
+or has
+regard
+to some forme r favor conferred upon her by
+him ;
+or wishes to be u nited with him merely from desire ;
+for
+any
+of the
+above
+reasons ,
+she should
+agree to take from
+him only
+a sm all
+sum
+of money in
+a friendly w ay
+.
+When
+a cou rtezan i n tends
+to
+abandon
+a particul ar lover ,
+a nd
+take up with
+a nother
+one ;
+or when
+She has
+reason
+to
+believe
+that her lover will shortly leave he r ,
+and
+retu rn
+to
+his wives ;
+or that having squ andered
+all his money ,
+a nd be
+come pen niless, his gu ardian , or maste r , or father would come
+and
+take him
+away ;
+or
+that her lover is
+about
+to lose his
+position , or l astly , that he is of a very ﬁckl e mind ,
+she should ,
+u nder
+any
+of these circum sta nces ,
+e ndeavou r to get
+as much
+money
+as
+She
+can from him
+as soon
+as possible .
+O n
+the other hand , when
+the cou rtezan
+thinks
+that her
+lover is
+about to
+receive valu able p resen ts ;
+or get
+a pl ace
+of
+authority from
+the King ;
+or be
+n ear
+the
+tim e
+of i nhe riting
+
+
+o f
+V a t s y a y a n a
+1 5 3
+a fortu ne
+or
+that his Ship would soon
+a rrive l aden with
+m erchandise ;
+or
+that he has la rge stocks
+of corn
+and other
+commodities ;
+or that if a nything w as done for him it would
+not be done in vain ;
+or that he is
+always true to his word ;
+then should
+she have
+regard to he r future welfare ,
+a nd live
+with
+the m an like
+a wife .
+T here
+a re
+also verses on the subject
+
+## as follows :
+
+”I n considering her presen t gains ,
+and her future welfare ,
+a cou rtezan Should
+avoid such perso ns
+a s have gained
+their
+m ean s of subsistence with very great difﬁculty ,
+as
+also those
+who have become selﬁsh
+a nd hard -hearted by becoming
+the
+favorites of Kings .
+”She Should m ake
+every
+endeavor
+to u nite herself with
+prosperous and well to do people ,
+and with those whom it is
+dangerous to
+avoid ,
+or to Slight in
+a ny w ay
+.
+Even
+at some
+cost
+to herself
+she should become
+acqu ain ted with
+en ergetic
+and liberal -minded men , who when pleased would give her
+a l arge
+sum
+of money ,
+even for very little service ,
+or for
+some sm all thing .
+”
+
+
+
+## CHAPT ER VI .
+
+Of Gains
+a n d
+Losses ;
+A ttenda nt Gains
+a nd
+Losses ;
+a nd
+Doubts; A s A lso of the Diffe re nt Kinds of Courteza ns .
+IT sometimes happens that whil e gain s
+are being sought for ,
+or
+expected
+to be
+realized , losses only
+are
+the
+result
+of Our
+efforts ;
+the causes of which losses
+
+## a re :
+
+Weakn ess
+of i ntellect .
+Excessive love .
+Excessive p ride .
+Excessive self conceit.
+Excessive simplicity .
+Excessive conﬁden ce .
+Excessive
+anger .
+Carelessness .
+Recklessness .
+I nﬂuence of evil genius .
+Accidental ci rcumstances .
+T he
+results of these loss es
+
+## are :
+
+Expense i ncu rred without
+a ny
+result .
+Destruction of futu re good fortu ne .
+Stoppage of gains about to be
+realized .
+Loss of what is al ready obtained .
+Acquisition
+of
+a sou r
+temper .
+Becoming u namiabl e to
+eve rybody .
+I nju ry
+to health .
+Loss of hair ,
+and other
+accidents .
+N ow gai n is of
+three kinds ,
+Viz . : gain of wealth , gain
+of
+religious merit,
+and gain
+of pleasu re ;
+a nd Simil arly , loss
+is of th ree ki nds ,
+Viz . : loss of wealth , loss of religious me rit,
+and loss
+of pleasu re .
+A t
+the
+time when gain s
+are sought
+for , if other gains come
+along with
+them ,
+these
+a re called
+atte ndant gains .
+When gain is
+u ncertain ,
+the doubt of its
+being
+a gain
+is called
+a simple
+doubt .
+When
+there is
+a
+doubt whether
+either
+of tw o things will happen
+or
+not , it
+is c all ed
+a mixed doubt .
+If while
+one
+thing is being done
+tw o
+results
+take pl ace ,
+it
+is called
+a combin ation of
+tw o
+results ,
+and if seve ral
+results follow from
+the same
+action .
+it is called
+a combin ation
+of
+results
+on
+every side .
+
+
+1 5 6
+T h e
+K a m a S u t r a
+T hus
+e nd
+the
+rem arks
+on gains
+and losses ,
+and
+attendant
+gains
+a nd losses .
+I n
+the
+n ext place w e come
+to doubts , which
+are
+again
+of
+three kinds ,
+Viz . : doubts
+about wealth , doubts
+about
+relig
+ious m e rit ,
+and doubts
+about pleasures .
+T he following
+are
+ex amples .
+( a)
+Whe n
+a courtezan is
+not certain how much
+a m an
+may give her, or spend upon her, this is called
+a doubt about
+wealth .
+(b)
+When
+a cou rtezan feels
+doubtful whether
+She is
+right in
+entirely
+abandoning
+a love r from whom
+she is
+u n
+able to ge t money ,
+she having taken
+all his wealth from him
+in
+the ﬁrst i nstance ,
+this doubt is called
+a doubt
+about
+re
+ligious merit .
+(c)
+When
+a cou rtezan is u n able
+to get hold
+of
+a love r
+to her liking,
+and is u ncertain whether
+she will derive
+any
+ple asure from
+a person surrou nded by his family ,
+or from
+a low person ,
+this is called
+a doubt
+about pleasu re .
+( d)
+When
+a courtezan is
+u nce rtain whether some pow
+erful
+but low principled fellow would cause loss
+to
+her
+on
+accou nt of her
+not being civil
+to him ,
+this is called
+a
+doubt
+about
+the loss
+of wealth .
+(e)
+When
+a cou rtezan feels doubtful whether
+she would
+lose
+religious merit by
+abandoning
+a man who is
+attached
+to her without giving him
+the slightest favor,
+and
+thereby
+causing him u nhappiness in
+this world
+a nd
+the
+next, *
+this
+doubt is called
+a doubt
+'
+about
+the loss
+of
+religious merit .
+(f)
+When
+a cou rtezan is u ncertain
+as
+to whether
+she
+might create disaffection by speaki ng out .
+and
+revealing her
+love .
+and
+thus
+not
+get her desire satisﬁed ,
+this is called
+a
+doubt
+about
+the loss
+of pleasu re .
+Thus
+end
+the
+rem arks
+on doubts .
+M ixed Doubts
+( a)
+T he
+i ntercou rse
+or
+con nection
+with
+a
+stra nger .
+whose
+disposition
+is u nknown ,
+a nd
+who may
+have been
+i ntroduced by
+a love r ,
+or by
+one w ho possessed
+authority ,
+may be p roductive
+either
+of gain
+or loss ,
+a nd the refore
+this
+is called
+a mixed doubt
+about the gai n
+a nd loss of wealth .
+(b)
+Whe n
+a cou rtezan
+is
+requested by
+a frie nd ,
+or
+is
+impelled by pity
+to have inte rcou rse with
+a lea rned B rah
+The souls of men who die with their desires unfulﬁlled
+are said to go to
+the world of the M anes .
+and not direct to the Supreme Spirit .
+
+
+of
+V a t s ya y a n a
+1 5 7
+man ,
+a
+religious student,
+a
+sacriﬁcer,
+a devotee ,
+or
+an
+ascetic
+who may have
+all fallen in love with her,
+and who may be
+consequently
+at the point of death , by doing this she might
+either gain
+or lose
+religious merit
+and
+therefore
+this is
+called
+a mixed doubt
+about
+the gai n
+a nd loss of
+religious
+m erit .
+(c)
+If
+a courtezan
+relies solely upon
+the
+report of other
+people (i . e
+hearsay)
+about
+a man ,
+and goes
+to him with
+out
+ascertaining he rself whethe r he possesses good qu alities
+or
+not ,
+she may
+either gain
+or lose pleasu re in proportion
+as he m ay be good
+or bad ,
+a nd
+therefore
+this is called
+a
+mixed doubt
+about
+the gain
+a nd loss
+of pleasu re .
+U ddalika has described
+the gains
+and losses on both sides
+as follows .
+( a)
+If, when living with
+a lover,
+a cou rtezan gets both
+wealth
+and pleasu re from him , it is called
+a gain
+on both
+sides.
+(b)
+When
+a courtezan . lives with
+a lover
+at her own
+ex
+pense without getting
+any proﬁt
+out
+of it ,
+and
+the lover
+even takes back from her what he m ay have formerly given
+her, it is called
+a loss
+on both sides .
+(c)
+When
+a cou rtezan is u ncert ai n whether
+a
+new
+ac
+quaintance would become
+attached
+to her,
+and , moreove r.
+if he became
+attached to her, whether he would give her any
+thing , it is called
+a doubt on both sides
+about gains .
+(d)
+When
+a cou rtezan
+is u ncertain whether
+a forme r
+e nemy , if made
+up to by her
+at her ow n
+expense , would do
+her some inju ry
+on
+account of his grudge
+against her ;
+or,
+if becoming
+attached to he r, would take
+away
+angrily from
+her
+anything that he m ay have given to her ,
+this is called
+a
+doubt on both Sides about loss .
+B abhra vya has described the gains and losses on both sides
+
+## a s follows :
+
+( a)
+When
+a courtezan
+can get money from
+a m an whom
+she may go
+to
+see ,
+and
+also money from
+a m an whom
+she
+m ay
+not go to
+see .
+this is called
+a gain
+on both sides .
+(b)
+When
+a cou rtezan has
+to incu r fu rther
+expense if
+she goes to see
+a man ,
+and yet
+ru ns the
+risk of incu rring
+a n
+irremediable loss if
+she does
+not go to see him ,
+this is called
+a loss
+on both sides .
+(c)
+When
+a cou rtezan is u ncertain , whether
+a particular
+man would give her anything on her going to see him , with
+out incu rring
+expense
+on her part ,
+or whether
+.
+on her
+ne
+
+
+1 5 8
+T h e
+K a m a S u t r a
+glecting him
+another m an would give her something ,
+this is
+called
+a doubt
+on both sides
+about gain .
+When
+a cou rtezan is u ncertain , whether,
+on going
+at her ow n
+expense
+to see
+an old
+e nemy , he would take back
+from her what he may have give n her ,
+or whether by her
+not going
+to
+see him he wou ld cause some disaster
+to fall
+upon her,
+this is called
+a doubt on both sides
+about loss .
+By combining the above , the following six kinds of mixed
+resul ts
+are produced ,
+
+## Viz . :
+
+( a)
+Gain
+on
+one side ,
+and loss
+on
+the othe r .
+(b)
+Gain on one side ,
+and doubt of gain on the other .
+(c)
+Gain on one side ,
+and doubt of loss on the othe r .
+LOSS on one side ,
+and doubt of gain on the other .
+( e)
+Doubt of gain on one side ,
+and doubt of loss on the
+other .
+(f)
+Doubt
+of loss
+on
+one side ,
+and loss
+on
+the othe r .
+A cou rtezan , having considered
+all
+the
+above
+things
+and
+taken cou nsel with he r frie nds , Should
+act
+so
+as
+to
+acquire
+gain ,
+the chances
+of great gain ,
+and
+the w arding
+off of
+any
+great disaste r .
+Religious merit
+and pleasu re should
+also be
+formed i nto separate combi n ations like those
+of wealth ,
+and
+then
+all should be combined with
+each othe r ,
+so as to form
+new combin ations .
+When
+a cou rtezan consorts with men
+She should cause
+each of
+them
+to give her money
+as well
+as pleasu re .
+A t
+pa rticular times , such as the Spring Festivals ,
+etc
+she should
+m ake he r mother
+announce
+to
+the various men ,
+that
+on
+a
+ce rtain day her daughter would
+remai n with
+the man who
+would gratify such and such a desire of h ers .
+When you ng men
+approach her with delight,
+she should
+think of what
+she may
+accomplish
+through
+them .
+T he combination of gains and losses on
+all sides
+are : gain
+on one side ,
+and loss on
+all others ; loss on one side
+and gain
+on
+all others ; gain on
+all sides, loss on
+all sides .
+A cou rtezan should
+also consider doubts
+abou t gain
+and
+doubts
+about loss with
+refere nce both
+to wealth ,
+religious“
+merit ,
+a nd pleasu re .
+T hus e nds the consideration of gain , loss ,
+atte ndant gains .
+attendant losses ,
+a nd doubts.
+T he differe nt kinds of courtezans
+
+## are :
+
+A bawd .
+A fem ale
+attendant .
+A n u nchaste wom an .
+
+
+V III . F rom the T emple of S urya
+i 3 th Ce n tu ry
+Kon arak, Orissa
+
+
+
+## PART VII
+
+
+## ON THE M EAN S OF ATTRACTING OTHERS TO ONESELF
+
+
+
+1 64
+T h e
+K a m a S u t r a
+(1)
+When
+a fem ale
+atte nda nt
+arrives
+at
+the
+age
+of pu
+be rty , he r m aster should keep her secluded ,
+and when men
+a rdently desire her
+on
+accou n t
+of her seclusion ,
+and
+on
+ac
+cou n t
+of
+the difﬁculty
+of
+approaching her , he should
+then
+bestow her ha nd
+on such
+a pe rson
+as m ay
+endow he r with
+weal th
+a nd h appiness .
+T his is
+a means of increasing
+the loveliness
+of
+a person
+in the
+eyes of others .
+I n
+the same w ay , when
+the daughter
+of
+a cou rtezan
+ar
+rives
+at
+the
+age
+of puberty ,
+the mother should get
+together
+a lot of you ng men of the same age , disposition ,
+and knowl
+edge
+as her daughte r ,
+and
+tell
+them that
+she would give her
+in m arriage to the person who would give her prese nts of
+a
+pa rticul ar kind .
+A fte r this the daughter should be kept in seclusio n
+as far
+as possible ,
+and the mothe r Should give her in marriage to the
+m a n who m ay b e ready to give her the presents agreed upo n .
+If the mothe r is u n able
+to get so much out of the man ,
+she
+should Show some
+of her ow n
+things
+as having been giv en
+to the daughter by the b ridegroom .
+Or ,
+the mothe r m ay
+allow he r daughter to be m arried
+to
+the man p rivately ,
+as if she w as ig nora nt of the whole
+affair.
+and
+then prete nding
+that it has come
+to he r knowledge ,
+she
+may give her consent to the u nion .
+T he daughter ,
+too, should m ake he rself
+attractive
+to the
+sons of wealthy citizens, u nknown to he r mother,
+and m ake
+them
+attached to her ,
+and for this pu rpose should m ee t them
+at the time of learning to sing ,
+a nd in places where music is
+played ,
+and
+at the houses of other people ,
+and
+then
+request
+her mother ,
+through
+a fem ale friend ,
+or servant ,
+to be
+al
+lowed to u nite herself to the man who is most
+agreeable
+to
+her . *
+When the daughter of a cou rtezan is thus given to a man .
+the
+ties
+of marriage should be observed for
+one year,
+and
+after that she m ay do what She likes .
+But eve n afte r the end
+of the year, whe n otherwise
+engaged , if
+she should be
+now
+.
+a nd
+then invited by her ﬁrst husba nd
+to come
+and
+see him.
+She should p ut aside her presen t gain ,
+and go to him for the
+night .
+It is
+a custom of the
+cou rtezans of
+Orient al
+countries to give their
+daughters temporarily in m arriage when they come of
+age ,
+and
+after they h ave
+received
+an education in the K ama S utra
+and other
+arts .
+Full det ails
+a re given
+of this
+at page 7 6 of
+Ea rly Ideas ;
+A Group of Hindoo stories ,
+collected
+and
+col lated by
+A na ryan . W . H . Allen 8 Co
+London ,
+1 8 8 1 .
+
+
+1 66
+The Kama Sutra of Vatsyayana
+then that pigment is said to be very pu re ,
+and wholesome for
+the
+eyes ,
+a nd se rves
+as
+a m eans
+of subjugating others to the
+person who uses it .
+T he same effect can be produced by black
+pigm en t made of
+the bones
+of h awks , vultu res ,
+and
+pea
+cocks .
+T hus e nd the ways of subjugating others to one
+’s ow n will .
+N ow
+the mea ns of i nc reasing sexual vigor
+a re
+
+## as follows :
+
+( a)
+A man obtains sexu al vigor by dri nki ng milk mixed
+with sugar,
+the
+root of the
+uchchata plant,
+the piper chaba .
+a nd liquorice .
+(b)
+Drinking milk mixed with sugar,
+and having
+the
+testicle of
+a
+ram or
+a goat boiled in it , is
+also productive of
+vigor .
+(c)
+T he drinking
+of the juice
+of the hedysarum gange
+ticum ,
+the kuili ,
+and
+the kshirika plant mixed with milk ,
+p roduces the same
+effect .
+(d)
+T he seed
+of
+the long pepper
+along with
+the seeds
+of
+the sanseviera
+roxbu rghiana ,
+and
+the hedysarum gange
+ticum pl ant ,
+all pou nded
+together ,
+and mixed with milk, is
+productive of
+a similar
+result .
+( e)
+According
+to
+a ncient
+authors , if
+a man pou nds
+the
+seeds or roots of the trapa bispinosa , the kasurika , the tu scan
+j asmine , and liquorice , togethe r with the kshirakapoli ( a kind
+of onion)
+,
+and puts the powder into milk mixed with sugar
+and ghee ,
+and havi ng boiled
+the whole mixture
+on
+a mod
+et ate ﬁre , dri nks the paste so formed , he will be able to enjoy
+innume rable women .
+(f)
+I n
+the sam e w ay , if
+a man mixes
+rice with the
+eggs
+of
+the sparrow ,
+and having boiled
+this in milk ,
+adds
+to it
+ghee a nd honey,
+and drinks as much of it as is n ecessary , this
+will p roduce the same
+effect .
+(g)
+If a m an
+takes the outer cove ring of sesamum seeds .
+a nd soaks them with the eggs of sparrows ,
+and the n , having
+boiled them in milk , mixed with sugar and ghee ,
+along with
+the fruits of the trapa bispinosa
+a nd the kasurika plant,
+and
+adding
+to it
+the ﬂou r of wheat
+a nd beans
+a nd
+then drinks
+this composition , he is said to be able to e nj oy m any women .
+(h)
+If ghee , honey , sugar
+and liquorice in
+equal qu an
+tities ,
+the juice
+of the fe nnel pla nt ,
+a nd milk
+are mixed
+to
+gether ,
+this
+nectar -like composition is said
+to be holy ,
+and
+p rovocative of sexu al vigor ,
+a p reservative of life ,
+and sweet
+to the
+taste .
+
+
+of
+V a t s ya y a n a
+1 6 7
+(i)
+T he dri nking of
+a paste composed of
+the
+asparagus
+racemosus ,
+the
+shv adaushtra pla nt,
+the
+guduchi pl ant,
+the
+long pepper ,
+and liquorice , boiled in milk , honey ,
+a nd ghee ,
+in the spring , is said to have the same
+effect
+as the
+above .
+(j)
+Boiling
+the
+asparagus
+racemosus ,
+and the
+shv adaush
+tra plant,
+along with the pou nded fruits of the premna spin
+osa in water,
+a nd drinking
+the sam e , is said
+to
+act in
+the
+sam e w ay
+.
+(k)
+Drinking boiled ghee , or cl ariﬁed butter , in the morn
+ing during the spri ng season , is said to be beneﬁcial to health
+a nd strength ,
+and
+agreeable
+to the
+taste .
+( 1)
+If the powder
+of the seed
+of the
+shv adaushtra plant
+and
+the ﬂowe r of barley
+a re mixed
+togethe r in
+equ al parts ,
+and
+a portion
+of it i . e
+tw o palas in weight , is
+eaten
+every
+morning on getting up , it has the same
+effect
+as
+the preced
+ing
+recipe .
+
+## T here are also verses on the subject as follows :
+
+”T he means *
+of producing love
+and sexu al vigor should
+be l earnt from the scie nce of medicine , from the V edas, from
+those who a re lea rned in the arts of magic , and from conﬁden
+tial
+relatives .
+No m eans should be tried which
+are doubtful
+in
+their
+effects , which
+are likely to cause inju ry to the body ,
+which involve
+the death of
+anim als ,
+and which bring us in
+contact with impure
+things .
+Such means should only be
+used
+as are holy,
+acknowledged to be good ,
+and
+approved of
+by B rahmans
+and friends .
+From the
+eg rliest times Orient al
+authors have occupied themselves
+about
+aphrodisiacs .
+The following note on the subject is t aken from p age
+29 of
+a
+transl ation of the Hindoo
+A rt of Love , otherwise the
+A n unga
+Ru nga
+alluded
+to in the Preface of this work , pages xvi
+and xvii—”Most
+Eastern treatises
+divide
+aphrodisiacs into two different kinds ;
+1 , the mech anical or n atural , such
+as
+scariﬁcation ,
+ﬂagellation etc . ,
+and ,
+2, the medicin al or
+artiﬁcial .
+To the
+former belong the
+application of insects ,
+
+## as is practised by some savage races :
+
+and
+all orientalists will remember the tale of the old B rahman , whose young
+wife insisted upon his being
+again stung by
+a wasp .
+
+
+
+## CHAPT ER II .
+
+Of the Ways of Exciting Desire ,
+and M iscellaneous Experi
+ments,
+a nd Recipes .
+
+## I F
+
+a m an is u n able to satisfy
+a Hastini,
+or
+elepha n t -wom an ,
+he should have
+recou rse
+to va rious mea ns to
+excite her p as
+sion .
+A t
+the commenceme n t he should
+rub her yoni with
+his hand
+or ﬁnge rs ,
+and
+not begin
+to have i ntercou rse with
+her u ntil
+she becomes
+excited ,
+or
+experie nces pleasu re .
+T his
+is on e w ay
+of exciting
+a wom an .
+O r,
+he may m ake
+u se
+of ce rtain
+Ap adra vyas,
+or
+thi ngs
+which
+a re pu t
+on
+or
+arou nd
+the lingam
+to supplem en t its
+le ngth
+or its
+thickn ess ,
+so
+as
+to ﬁt it
+to
+the yoni .
+In
+the
+opinion
+of B abhra vya ,
+these A padra vyas Should be m ade of
+gold , silver , copper, iron , ivory , buffalo
+’s horn , various ki nds
+of wood ,
+tin ,
+or lead ,
+a nd should be soft , cool , p rovocative
+of sexual Vigo r ,
+and well ﬁtted to serve the intended pu rpose .
+V atsya ya na , howeve r , says that they may be made
+according
+to the n atu ral liking of each i ndividu al .
+T he following
+a re
+the diffe ren t kinds of A padravyas .
+
+## ( I )
+
+”T he
+armlet
+”
+(Vala ya) should be
+of the same Size
+a s the li ngam ,
+a nd should have its outer su rface made
+rough
+with globules .
+( 2)
+“T he couple
+(S a nghati) is formed of tw o a rmlets .
+( 3 )
+T he bracelet
+(Chudaka) is made by joining three
+or more
+armlets , u ntil
+they come
+up
+to the
+required le ngth
+of the lingam .
+( 4 )
+The single bracelet
+is formed by wrapping a si ngle
+wire
+arou nd
+the lingam ,
+according
+to its dime nsions .
+5 )
+T he Ka ntuka or Jalaka is
+a tube open
+at both
+e nds ,
+w ith
+a hole
+through it , outwardly
+rough
+and studded with
+soft globules ,
+and m ade
+to ﬁt the size
+of the yoni ,
+a nd
+tied
+to the waist .
+Whe n such
+a thing ca n not be obtained ,
+then
+a tube made
+of the wood
+apple ,
+or
+tubula r stalk
+of the bottle gou rd ,
+or
+a
+reed m ade soft with oil
+a nd
+extracts of pl ants ,
+a nd tied to
+the w aist with stri ngs , m ay be m ade
+u se
+of,
+as
+also
+a
+row
+of soft pieces of wood tied together .
+T he
+above
+a re
+the
+things
+th at
+can be used in co n nection
+w ith , or in the pl ace of the li ngam .
+1 6 8
+
+
+1 7 0
+T h e
+K a m a S u t ra
+By
+rubbing it with
+oil boiled in
+the concoctions
+of
+the
+above things , the same effect W ill be p roduced , but lasting for
+Six months .
+T he
+enla rgemen t of the lingam is also
+effected by
+rubbing
+it or moistening it with oil boiled
+on
+a moderate ﬁre
+along
+with
+the seeds of
+the
+pomegranite ,
+and
+the cucumber ,
+the
+juices
+of the
+v aluka pl ant ,
+the h asti -charm a pl ant,
+and
+the
+egg
+-plan t .
+I n
+addition to the
+above , other means may be learnt from
+experienced
+a nd conﬁdential persons .
+T he miscel l aneous
+experimen ts
+and
+recipes
+are
+
+## as follows :
+
+( a)
+If a ma n mixes the powder of the milk hedge pl ant .
+and the ka ntaka plant with the
+excrement of
+a monkey
+and
+the powdered
+root
+of
+the lanjalika plant,
+and
+throws
+this
+mix tu re
+on
+a woma n ,
+she will
+not love
+anybody
+else
+after
+wards .
+(b)
+If a m an thickens the juice of the fruits of the cassia
+ﬁstula ,
+and the
+eugenia j ambol an a by mixing them with the
+powde r
+of the soma pl ant,
+the vernonia
+anthelmintica ,
+the
+eclipta prostata , a nd the lohop a -jihirka ,
+and applies this com
+position to the yoni of a wom an ,
+and the n has sexu al i nter
+cou rse with her , his love for her will be destroyed .
+(c)
+T he same
+effect is p roduced if a m an has con nection
+with
+a woman who has bathed in the bu tter -milk of a
+she
+buffalo mixed with
+the powders of
+the gopalika plant,
+the
+banu - padika plant ,
+and the yellow
+amaranth .
+(d)
+A n ointment made of the ﬂowers of the
+nauclea
+cad
+amba ,
+the hog plum ,
+and
+the
+eugenia j ambolana ,
+and used
+by
+a woman , causes he r to be disliked by her husband .
+( e)
+Garl ands m ade of the
+above ﬂowers , when worn by
+the woman , produce the same
+effect .
+(f)
+A n ointment m ade of
+the fruit of
+the asteracantha
+longifolia (kokilaksha) will con tract
+the yoni of
+a Hastini
+or elephant -woma n ,
+and this contraction lasts for one
+night .
+(g)
+A n ointme nt m ade by pounding the
+roots of the
+ne
+lumbrium speciosum , and of the blue lotus ,
+and the powder
+of
+the plant physalis ﬂexuosa mixed with ghee
+and honey,
+will
+enl arge the yoni of the M rigi or deer - woman .
+(b)
+A n ointmen t made of the fruit of the
+emblica myra
+bolans soaked in the milky juice of the milk hedge plant , of
+the soma pl ant ,
+the
+calotropis gigantea ,
+and the juice of the
+fruit of the ve rnonia anthelmintica , will m ake the hair white .
+( i)
+T he juice of the
+roots of the madayantaka plant, the
+
+
+of
+V a t s y a y a n a
+1 7 1
+yellow
+am aranth ,
+the
+anjanika plant,
+the clitoria
+te rnateea ,
+a nd the shlakshnap arni pl ant, used as a lotion , will make the
+hair grow .
+(j)
+A n ointment m ade by boiling the
+above
+roots in oil,
+and rubbed in , will m ake the hair bl ack ,
+a nd will also gradu
+ally
+restore hair
+that has fallen
+off .
+(k)
+If lac is satu rated seven
+times in
+the Sweat
+of
+the
+testicle of a white horse ,
+and applied to a
+red lip , the lip will
+become white .
+(1)
+T he color of
+the lips
+can be
+regained by means
+of
+the madayantika and other plants me ntioned above under (i)
+(m)
+A wom an , who hears
+a man pl aying on
+a
+reed pipe
+which has been dressed with
+the juices
+of
+the bahupadika
+plant,
+the tabernamontana coron aria ,
+the costus
+speciosus or
+arabicus,
+the pinus deodora ,
+the
+euphorbia
+antiquorum,
+the
+vaj ra
+and the kantaka pl ant , becomes his sl ave .
+( ii )
+If food be mixed with
+the fruit of
+the
+thorn
+apple
+(D athura) it causes intoxication .
+( 0 )
+If water be mixed with oil and the
+ashes of any ki nd
+of grass except the kusha grass , it becomes the color of milk .
+(p)
+If yellow myrabolans,
+the hog plum ,
+the
+shraw ana
+pl ant ,
+and the priyangu pl ant be
+all pou nded together ,
+and
+applied
+to i ron pots
+these pots become
+red .
+(q)
+If a l amp , trimmed with oil
+extracted from the
+shra
+wana and priyangu plants , its wick being m ade of cloth
+and
+the slough of the ski ns of sn akes , is lighted ,
+and long pieces
+of wood placed
+near it ,
+those pieces of wood will
+resemble
+so m any snakes .
+( 1 )
+Drinking the milk of
+a white
+cow who has
+a white
+calf
+at her foot is
+auspicious , p roduces fame ,
+and preserves
+life .
+
+## ( S)
+
+T he blessings of venerable B rahma ns, well propitiat
+ed , have the same
+effect .
+
+## I
+
+f
+1
+Thus have I written in
+a few words the Science of Love ,
+after
+reading
+the
+texts of
+ancient
+authors ,
+and following
+the ways of
+enjoyment mentioned in
+them .
+He
+who
+i s
+acqu ainted with
+the
+true principles of
+this
+science p ays regard to Dharma , A rtha , Kama ,
+a nd to his ow n
+experiences ,
+as well
+as to the
+teachings of others ,
+and does
+not
+act simply
+on
+the dictates
+of his
+ow n desire .
+A s for
+the
+errors in the science of love which I have mentioned in
+
+
+1 7 2
+T he
+Kama S utra of Vatsyaya na
+this work ,
+on my
+ow n
+au thority
+as
+an
+author,
+
+## I
+
+have ,
+imm ediately
+afte r men tioni ng
+them , carefully censu red
+and
+p rohibited
+them .
+A n
+act is
+n eve r looked upon with i ndulgence for the
+sim
+ple
+reason
+that it is
+authorized by
+the scie nce , because
+it
+ought to be
+rem embered th at it is the inte ntion of the science
+that the
+rules which it contains should o nly be
+acted
+upon
+in particul ar cases .
+A fter reading
+and considering the works
+of Babhra vya
+and other
+ancient
+authors ,
+and
+thinki ng over
+the m ea ning
+of
+the
+rules given by
+them ,
+the Kama S utra
+w as composed ,
+acco rding
+to the p recepts
+of Holy Writ, for
+the beneﬁt
+of the world , by Vatsyaya na , while leading
+the
+life
+of
+a
+religious student ,
+and wholly
+engaged in
+the
+con
+templation
+of
+the Deity .
+T his work is not intended to be used merely
+as an instru
+m ent for satisfyi ng
+ou r desires .
+A person ,
+acquain ted with
+the
+true pri ncipl es
+of
+this science ,
+and
+who p reserves
+his
+Dharma , A rtha,
+and Kama ,
+a nd has
+regard for the p ractices
+of the peopl e , is su re
+to obtai n
+the m astery ove r his senses .
+I n short ,
+a n intellige nt
+a nd prude nt pe rson ,
+attending
+to
+Dharma
+a nd A rtha ,
+and
+attending
+to Kama
+also , without
+becoming the slave
+of his passions , obtains success in
+every
+thing that he may u ndertake .
+
+## END OF
+
+
+## PART VII .
+
+
+
+1 74
+Concluding
+Remarks
+T here
+will be found in Pa rt VII some curious
+recipes .
+M a ny of
+them
+appear
+to be
+as primitive
+as
+the book itself,
+but in later works of the same
+nature
+these
+recipes
+a nd p re
+scrip tions
+appear
+to ha ve increased,
+both
+as
+regards quality
+and
+quantity
+.
+I n
+the
+A nu nga Ru nga
+or
+T he Stage of
+Love ,
+mentioned on page xvii of the Preface there are found
+n o less
+than
+thirty
+- three
+different subjects
+for which
+one
+hundred a nd thirty recip es a nd p rescriptions are given .
+A s
+the details may be interesting,
+these subjects
+are de
+scribed
+
+## as follows :
+
+1
+For hastening
+the paroxysm of
+the woma n .
+2
+For delaying
+the orgasm of the man .
+3
+Aphrodisiacs .
+4
+For thickening and
+enlarging the lingam , rendering it
+sound
+a nd strong , hard
+and lusty
+.
+5
+For
+narrowing
+and contracting the yoni.
+6
+For perfuming
+the
+yoni .
+7
+For
+removing
+a nd destroying
+the hair of
+the body
+.
+8
+For
+removing
+the sudden stopping of
+the monthly
+ailment .
+9
+For abating the immoderate
+appearance of the month
+ly
+ailment .
+1 0
+1 1
+1 2
+
+## I 3
+
+
+## I 4
+
+1 5
+1 6
+
+## I 7
+
+1 8
+1 9
+break
+2 0
+2 1
+2 2
+2 3
+2 4
+2 5
+2 6
+2 7
+For
+For
+For
+For
+F or
+For
+For
+For
+For
+For
+out
+For
+For
+For
+For
+For
+For
+For
+p urifying the womb .
+causing pregna ncy
+.
+preventing miscarriage
+a nd other
+accidents .
+ensuring
+easy labor
+and
+ready deliverance .
+limiting
+the
+number of childre n .
+thickening
+a nd bea utifying
+the hair .
+obtaining
+a good black color to it .
+whitening
+a nd bleaching it .
+renewing it .
+clearing
+the skin of
+the face from
+erup tions
+that
+a nd leave black spots upon it .
+removing
+the black color of
+the
+epidermis .
+e nlarging
+the breasts of w omen .
+raising
+a nd hardening pendulous breasts .
+giving
+a fragrance
+to the skin .
+removing
+the
+evil savor of perspiration .
+a nointing
+the
+body
+after
+bathing
+.
+causing
+a pleasant smell
+to the breath .
+Drugs
+and charms
+for
+the purposes of fascinating ,
+overcoming ,
+and s ubduing
+e i ther men or women .
+
+
+Concluding
+Remarks
+1 75
+2 8
+Recipes
+for
+e nabling
+a
+woman
+to
+attract
+and
+pre
+serve
+her
+husba nd
+’s flovte .
+2 9
+M agical collyriums for win ning love
+and friendship .
+3 0
+Prescriptions
+for
+reducing other persons
+to
+submis
+sion .
+3 1
+Philter pills,
+a nd other charms .
+3 2 Fascinating incense ,
+or fumigation .
+3 3
+M agical verses which have
+the power of fascination .
+Of
+the
+one hundred
+a nd
+thirty
+recipes
+given , many of
+them
+are
+absurd ,
+but
+not more perhaps
+tha n ma ny of
+the
+recip es
+a nd prescriptions in
+use in E urope
+n ot so very long
+ago.
+Love
+-philters, charms ,
+a nd herbal
+remedies have been ,
+in
+ea rly days,
+as freely used in Europe as in Asia ,
+a nd doubt
+less some people believe in them still in ma ny places .
+A nd
+now,
+one
+word
+about
+the
+author of
+the work,
+the
+good old sage V atsyayan a .
+I t is much
+to be
+regretted
+that
+nothing can be discovered about his life , his belongings,
+a nd
+his surroundings .
+A t
+the
+end of Part VII he states
+that he
+wrote the work while leading
+the life of
+a
+religious student
+(probably at Be nares)
+a nd w hile wholly engaged in the con
+templation of the Deity
+.
+He must have
+arrived at a certain
+age at that time , for throughout he gives
+us the be neﬁt of his
+experience ,
+and of his opinions ,
+and these bear the stamp of
+age rather than of youth ; indeed the work could hardly have
+been written by a young ma n .
+I n
+a beautiful verse of the V edas of the Christians it has
+been said of
+the peaceful dead ,
+tha t
+the y
+rest from
+their
+labors,
+a nd
+that their works do follow
+them .
+Y es indeed .
+the works of men of genius do follow them ,
+a nd
+remain
+as
+a lasting
+treasure .
+A nd
+though
+the re may be disputes
+and
+discussions
+about
+the immortality of
+the body
+or
+the soul,
+nobody
+can deny the immortality of genius, which
+e ver
+re
+mains as a bright a nd g uiding star to the struggling humani
+ties of succeeding
+ages .
+This work,
+then ,
+which has stood
+the
+test of centuries , has placed V atsyaya na
+among
+the im
+mortals ,
+a nd on this ,
+a nd on him,
+no better
+elegy or eulogy
+
+## can be written than the following lines :
+
+So long as lips shall kiss ,
+a nd eyes shall see,
+S o long lives this,
+and this gives life to thee .

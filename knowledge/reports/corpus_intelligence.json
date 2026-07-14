@@ -1,0 +1,373 @@
+{
+  "total_files": 751,
+  "total_size_bytes": 16452972007,
+  "by_extension": {
+    ".pdf": {
+      "count": 602,
+      "size_mb": 12736.0
+    },
+    ".mp4": {
+      "count": 66,
+      "size_mb": 2614.0
+    },
+    ".jpeg": {
+      "count": 63,
+      "size_mb": 22.5
+    },
+    ".mp3": {
+      "count": 12,
+      "size_mb": 311.0
+    },
+    ".jpg": {
+      "count": 5,
+      "size_mb": 0.7
+    },
+    ".docx": {
+      "count": 1,
+      "size_mb": 0.1
+    },
+    ".zip": {
+      "count": 1,
+      "size_mb": 6.4
+    },
+    ".png": {
+      "count": 1,
+      "size_mb": 0.0
+    }
+  },
+  "by_mime_type": {},
+  "pdf_count": 602,
+  "native_pdf_count": 293,
+  "scanned_pdf_count": 274,
+  "mixed_pdf_count": 34,
+  "unknown_pdf_count": 1,
+  "by_language": {
+    "hindi": 273,
+    "english": 243,
+    "unknown": 100,
+    "sanskrit": 97,
+    "gujarati": 6,
+    "telugu": 18,
+    "punjabi": 3,
+    "bengali": 1,
+    "malayalam": 3,
+    "tamil": 1,
+    "kannada": 6
+  },
+  "by_script": {
+    "devanagari": 99,
+    "unknown": 416,
+    "latin": 200,
+    "gujarati": 1,
+    "other": 28,
+    "telugu": 3,
+    "bengali": 1,
+    "malayalam": 3
+  },
+  "multilingual_count": 0,
+  "by_subject": {
+    "GRANTHS(Hindi&amp;English)": 94,
+    "Biography (hindi)": 80,
+    "Purans (english)": 66,
+    "sanskrit course": 66,
+    "Puran (hindi)": 48,
+    "ayurveda english": 19,
+    "Panini": 18,
+    "Chalisa (Hindi)": 16,
+    "Famous stories": 16,
+    "Tantra mantra books": 15,
+    "Mahabharat (English)": 13,
+    "Raag mp3": 13,
+    "Puran (telugu)": 12,
+    "kannada books": 12,
+    "Ramayan (telugu)": 11,
+    "Upnishads": 11,
+    "Vemanic sashastra": 11,
+    "astrology hindi": 11,
+    "Astrology (English)": 9,
+    "Ayurveda hindi": 8,
+    "Yoga": 8,
+    "Ravan samhita (hindi)": 6,
+    "Brahma sphutha sidhantha": 5,
+    "Hindu rituals": 5,
+    "Kamasutra": 5,
+    "Malayalam": 5,
+    "Shri yogavashisht maharamayan": 5,
+    "Ved (hindi)": 5,
+    "Bhavishya mallika": 4,
+    "Devnagri": 4,
+    "Kundalini": 4,
+    "Ved (English)": 4,
+    "Ved (gujrati)": 4,
+    "Ved (telgu)": 4,
+    "Astang hridyam hindi": 3,
+    "Bhagwat geeta (English)": 3,
+    "Geeta (Gujarati)": 3,
+    "Ram raksha strotra": 3,
+    "Science in vedas": 3,
+    "Sundar kand": 3,
+    "Swar vigyan": 3,
+    "Vigyan bhairav tantra": 3,
+    "bhramcharya english": 3,
+    "Aatmbodh hindi": 2,
+    "Aryabhatta (English)": 2,
+    "Bhagwat": 2,
+    "Bhagwat Geeta as it is (Prabhupada)": 2,
+    "Bhagwat geeta (punjabi)": 2,
+    "Bhaktmal": 2,
+    "Bhramcharya": 2,
+    "Bhrigu samhita": 2,
+    "Chakras": 2,
+    "Chanakya niti": 2,
+    "Guru Geeta": 2,
+    "Hanuman ashtak": 2,
+    "Mahabharat (hindi)": 2,
+    "Narayan kavach (hindi)": 2,
+    "Odia books": 2,
+    "Raag chikitsa hindi book": 2,
+    "Ramayan (English)": 2,
+    "Ramayan (hindi)": 2,
+    "Ramayan (tamil)": 2,
+    "Sadhak sanjivni": 2,
+    "Sangeet riyaz": 2,
+    "Shata chakra nirupama": 2,
+    "Shiv geeta": 2,
+    "Shrimad bhagwad geeta (English)": 2,
+    "Surya suktam": 2,
+    "Sushruta samhita english": 2,
+    "Sushruta samhita hindi": 2,
+    "Vedic science": 2,
+    "Vidur niti": 2,
+    "Vigyan bhairav tantra (English)": 2,
+    "aatmbodh english": 2,
+    "narad Bhakti sutra hindi": 2,
+    "narad bhakti sutra english": 2,
+    "Abhigyan shakuntalam": 1,
+    "Akash bhairav kalpam": 1,
+    "Ancient Indian scientist": 1,
+    "Arthshastra": 1,
+    "Baglamukhi sahstra naam": 1,
+    "Bhagwat geeta (Telugu)": 1,
+    "Bhagwat geeta (hindi)": 1,
+    "Bhagwat gita (bengali)": 1,
+    "Bhraspati sutra eng": 1,
+    "Brahma sutra (English)": 1,
+    "Brahma sutra (hindi)": 1,
+    "Chakras hindi": 1,
+    "Dhanurved samhita": 1,
+    "Durga saptsati": 1,
+    "Garg sanhita": 1,
+    "Hanuman bahuk": 1,
+    "Hanumat rahasyam": 1,
+    "Hasthrekha book": 1,
+    "Kamakhya sadhna": 1,
+    "Mayamatam": 1,
+    "Narayanneeyam (eng)": 1,
+    "Nitya karm puja": 1,
+    "Paka darpanam": 1,
+    "Raag chikitsa English book": 1,
+    "Ram raksha strotam": 1,
+    "Ramcharitra manas": 1,
+    "Ramcharitramans hindi": 1,
+    "Shabar mantra": 1,
+    "Shakta pramod tantra": 1,
+    "Shiv sarvodya (hindi)": 1,
+    "Shiv sarvodya English": 1,
+    "Shiv sutra (English)": 1,
+    "Shiv sutra (hindi)": 1,
+    "The secret of vedas": 1,
+    "Vat savitri vrat katha": 1,
+    "Vedic maths": 1,
+    "Vedic physics": 1,
+    "Vishnu shahsranama english": 1,
+    "shrihari tika (bhagwat)": 1
+  },
+  "audio_count": 12,
+  "audio_duration_seconds": 0.0,
+  "video_count": 66,
+  "video_duration_seconds": 0.0,
+  "image_count": 69,
+  "largest_books": [
+    {
+      "name": "महाभारत (Vol-1 to 12) गोरखपुर प्रेस.pdf",
+      "size_mb": 709.8,
+      "path": "Mahabharat (hindi)/महाभारत (Vol-1 to 12) गोरखपुर प्रेस.pdf"
+    },
+    {
+      "name": "Agni_Puran_of_Maharshi_Vyas_Mansukh_Ray_Mor_Guru_Mandal_Granth_Mala.pdf",
+      "size_mb": 460.8,
+      "path": "Puran (hindi)/Agni_Puran_of_Maharshi_Vyas_Mansukh_Ray_Mor_Guru_Mandal_Granth_Mala.pdf"
+    },
+    {
+      "name": "Mandukya Upanishad - Gita Press Gorakhpur.pdf",
+      "size_mb": 445.0,
+      "path": "Upnishads/Mandukya Upanishad - Gita Press Gorakhpur.pdf"
+    },
+    {
+      "name": "Gita-Sadhale.pdf",
+      "size_mb": 400.6,
+      "path": "GRANTHS(Hindi&amp;English)/Gita-Sadhale.pdf"
+    },
+    {
+      "name": "anandramayan.pdf",
+      "size_mb": 293.7,
+      "path": "GRANTHS(Hindi&amp;English)/anandramayan.pdf"
+    },
+    {
+      "name": "Katha Upanishad  - Gita Press Gorakhpur.pdf",
+      "size_mb": 253.4,
+      "path": "Upnishads/Katha Upanishad  - Gita Press Gorakhpur.pdf"
+    },
+    {
+      "name": "SHAKTA PRAMOD TANTRA.pdf",
+      "size_mb": 224.5,
+      "path": "Shakta pramod tantra/SHAKTA PRAMOD TANTRA.pdf"
+    },
+    {
+      "name": "ravan-samhita-3.pdf",
+      "size_mb": 219.6,
+      "path": "Ravan samhita (hindi)/ravan-samhita-3.pdf"
+    },
+    {
+      "name": "Kena Upanishad - Gita Press Gorakhpur.pdf",
+      "size_mb": 219.0,
+      "path": "Upnishads/Kena Upanishad - Gita Press Gorakhpur.pdf"
+    },
+    {
+      "name": "108 Upanishad Part-2.PDF",
+      "size_mb": 176.1,
+      "path": "Upnishads/108 Upanishad Part-2.PDF"
+    }
+  ],
+  "smallest_books": [
+    {
+      "name": "indian_pushpaka_vimana.jpg",
+      "size_kb": 34.9,
+      "path": "Vemanic sashastra/indian_pushpaka_vimana.jpg"
+    },
+    {
+      "name": "Types-of-ancient-vimanas7.png",
+      "size_kb": 45.9,
+      "path": "Vemanic sashastra/Types-of-ancient-vimanas7.png"
+    },
+    {
+      "name": "jagannatha-astakam_odi.pdf",
+      "size_kb": 53.9,
+      "path": "Odia books/jagannatha-astakam_odi.pdf"
+    },
+    {
+      "name": "Notations_1.pdf",
+      "size_kb": 68.6,
+      "path": "Sangeet riyaz/Notations_1.pdf"
+    },
+    {
+      "name": "श्री_विष्णु_सहस्र_नाम_स्तोत्रम्.pdf",
+      "size_kb": 70.2,
+      "path": "Famous stories/श्री_विष्णु_सहस्र_नाम_स्तोत्रम्.pdf"
+    },
+    {
+      "name": "Sri Vishnu sahasranaam satrotam.pdf",
+      "size_kb": 70.2,
+      "path": "GRANTHS(Hindi&amp;English)/Sri Vishnu sahasranaam satrotam.pdf"
+    },
+    {
+      "name": "Sri_Vishnu_sahasranaam_satrotam_sanskrit.pdf",
+      "size_kb": 70.2,
+      "path": "GRANTHS(Hindi&amp;English)/Sri_Vishnu_sahasranaam_satrotam_sanskrit.pdf"
+    },
+    {
+      "name": "Swami-Vivekananda-on-Brahmacharya.pdf",
+      "size_kb": 81.2,
+      "path": "bhramcharya english/Swami-Vivekananda-on-Brahmacharya.pdf"
+    },
+    {
+      "name": "Narada_Bhakti_Sutra.pdf",
+      "size_kb": 87.8,
+      "path": "narad bhakti sutra english/Narada_Bhakti_Sutra.pdf"
+    },
+    {
+      "name": "vimana101.jpg",
+      "size_kb": 88.4,
+      "path": "Vemanic sashastra/vimana101.jpg"
+    }
+  ],
+  "median_size": 5789915,
+  "duplicate_groups": 68,
+  "duplicate_files": 131,
+  "unique_content_items": 620,
+  "metadata_completeness": {
+    "title": 99.2,
+    "author": 40.9,
+    "publisher": 0.0,
+    "language": 86.7,
+    "page_count": 80.0
+  },
+  "missing_metadata": {
+    "publisher": 751,
+    "author": 444,
+    "page_count": 150,
+    "language": 100,
+    "title": 6
+  },
+  "authors": {
+    "A": 21,
+    "Utkarsh": 13,
+    "Roy, Pratap Chandra, 1842-1895": 12,
+    "Krishna": 7,
+    "DLI Downloader": 7,
+    "Pāṇini": 7,
+    "Bhatt, G.P. (Ed)": 6,
+    "Bhatt, G.P.  (Ed); Tagare, G.V. (Tr)": 6,
+    "Vedvyas (Gita Press Gorakhpur)": 4,
+    "RAMJI": 4,
+    "InstaPDF": 4,
+    "WINDOWS": 4,
+    "N.A.": 4,
+    "Dr. Narinder Sharma": 4,
+    "A K Upadhyay": 3,
+    "g": 3,
+    "Gita Press [Hindi]": 3,
+    "<C0CCC0E7BDC4>": 3,
+    "BKS": 3,
+    "G.V.Tagare": 3,
+    "N.A": 3,
+    "DTP": 3,
+    "Sergiy Yelanin": 2,
+    "acer": 2,
+    "Raju Seth": 2,
+    "IITR": 2,
+    "Meena Manishika": 2,
+    "SHRINIVAS KUTUMBALE": 2,
+    "Manishika": 2,
+    "Bhawan Singh Rana": 2,
+    "SUSHIL KAPOOR": 2,
+    "GK Santosh": 2,
+    "Yogananda, Paramahansa": 2,
+    "Sachin Sinhal": 2,
+    "UTKARSH": 2,
+    "admin": 2,
+    "user": 2,
+    "Dell": 2,
+    "sandy": 2,
+    "mam": 2,
+    "Amandeep": 2,
+    "Sahay Sharma, Dr. Ganga": 2,
+    "Deva, Radhakanta (Sir)": 2,
+    "GMCKS PH": 2,
+    "A K UPAGHYAY": 2,
+    "Sharma, Dr. Ganga Sahay": 2,
+    "Raja Komireddy": 2,
+    "Dharmic Scriptures Team": 2,
+    "Shastri,  J. L. (Ed)": 2,
+    "Joshi, K.L. (Ed)": 2
+  },
+  "publishers": {},
+  "titles_extracted": 745,
+  "total_pages": 194577,
+  "pages_with_text": 86836,
+  "pages_needing_ocr": 99393,
+  "corruption_risk": [],
+  "empty_files": 0,
+  "generated_at": "2026-07-11T18:22:15Z",
+  "generation_time_seconds": 82.6
+}

@@ -1,0 +1,476 @@
+=== PAGE 1 ===
+
+IJCSNS International Journal of Computer Science and Network Security, VOL.9 No.1 , January 2009 
+ 
+363
+Manuscript received  January 5, 2009 
+Manuscript revised January 20, 2009 
+Analysis Of Acoustic of “OM” Chant To Study It’s Effect on 
+Nervous System 
+Ajay Anil Gurjar , Siddharth A. Ladhake, Ajay P. Thakare 
+Prof_gurjar1928@rediffmail.com  
+Sipna’s College of Engineering & Technology, Amravati (Maharashtra), India 
+ 
+ 
+Summary 
+OM does not have a translation. Therefore, the Hindus consider 
+it as the very name of the Absolute, it is body of sound. In the 
+scriptures of ancient India, the OM is considered as the most 
+powerful of all the mantras. The others are considered aspects 
+of the OM, and the OM is the matrix of all other mantras. It has 
+been recognized that the Mantras have beneficial effects on 
+human beings and even plants. The syllable OM is quite 
+familiar to a Hindu. It occurs in every prayer. Invocation to 
+most gods begins with this syllable. OM is also pronounced as 
+AUM. The syllable OM is not specific to Indian culture. It has 
+religious significance in other religions also. Although OM is 
+not given any specific definition and is considered to be a 
+cosmic sound, a primordial sound, the totality of all sounds etc. 
+The entire psychological pressure and worldly thoughts are 
+removed by chanting OM Mantra .To systematically understand 
+the sound ‘OM’ and its effect on nervous system is the 
+endeavor of this research work. With proposed algorithm 
+analysis has been carried out for the divine sound OM. By this 
+analysis we could conclude OM is therefore serves as a brain 
+stabilizer, which is also an energy medicine for human being 
+under stress.  
+Key words: 
+OM Mantra, Pitch, Frequency Modulation, 
+Nervous system, Energy Medicine 
+1. Introduction 
+OM Mantra itself is not a mere human invention, going 
+long with particular cultures or groups. Rather, the OM 
+Mantra (or AUM Mantra) is a symbol of deep realities 
+that already exist. The levels of gross (A), subtle (U), and 
+causal (M), and the states of waking (A), dreaming (U), 
+and deep sleep (M) are definitely there, regardless of the 
+symbolism captured in the mantra when stated as AUM 
+Mantra [1][2]. It is these realities that are most useful in 
+our spiritual practices. If the OM mantra is repeated just 
+for the feeling, having no sense of meaning at all, the 
+experience can be quite pleasant, calming, and balancing 
+[2]. However, if one has a sense of the deeper meanings 
+of the mantra, and different methods of using it, then the 
+experience can be even richer and more revealing as one 
+progress in yoga meditation. By experimenting with the 
+various methods, one of them may emerge that feels most 
+personally in tune. The use of this mantra can be 
+profound. At first, it is best to use the mantra gently and 
+for short periods of time. The insights from the OM 
+mantra can be significant, and it is good to integrate the 
+insights gradually with daily life. 
+2. Om Mantra and Methods of Practice 
+ It is proposed by Swami Jnaneshvara Bharti that there 
+are many rhythms in the body and mind, both gross and 
+subtle. The sound of OM, rising and falling, at whatever 
+speed is comfortable and natural. It may be very fast, 
+several cycles per second. Or it may be slower, several 
+seconds for each cycling of OM Mantra. Or it might 
+become extremely slow; with the mmmmmm... sound 
+continuing in the mind for much longer periods, but still 
+pulsing at that slow rate. It is somewhat like one of these 
+vibrations:  
+ 
+OMmmOMmmOMmm...  
+OMmmmmOMmmmmOMmmmm...  
+OMmmmmmmmOMmmmmmmmOMmm
+m.  
+ 
+This kind of awareness of the OM mantra can be used 
+both at meditation time and during daily life. The OM 
+mantra is allowed to be somewhat of a constant 
+companion. It brings a centering, balancing quality to 
+daily life. This doe’s not mean being in a dull, lethargic 
+state. Rather, done well, it brings clarity of mind and a 
+greater ability to be in the world, and selflessly serving 
+others. This is not intended as a blocking mechanism to 
+prevent dealing with one's thought process or with the 
+challenges of life. It is not a method of escapism. 
+However, it definitely can have the effect of bringing 
+focus to the mind, which can break a pattern of disturbing 
+or distracting thoughts coming from the noisy or 
+chattering mind. In this way, one has a greater openness 
+to being aware of positive thoughts and spiritual realities 
+that are always there, different methods are proposed to 
+practice OM mantra [3].
+
+=== PAGE 2 ===
+
+IJCSNS International Journal of Computer Science and Network Security, VOL.9 No.1, January 2009 
+ 
+ 
+364
+One method: Imagine the sound of OM Mantra 
+internally, in the mind only, making no external sound. 
+Allow the mantra to flow with the breath. Repeat like 
+this:  
+ 
+Exhale: "OMmmmmmmm..."  
+Inhale: "OMmmmmmmm..."  
+Exhale: "OMmmmmmmm..."  
+Inhale: "OMmmmmmmm..."  
+Exhale: "OMmmmmmmm..."  
+Inhale: "OMmmmmmmm..."  
+        Another method: Alternatively, imagine the OM 
+mantra only on exhalation, if that feels more 
+comfortable:  
+Exhale: "OMmmmmmmm..."  
+Inhale: "      (silence)      "  
+Exhale: "OMmmmmmmm..."  
+Inhale: "      (silence)      "  
+In this practice, you come to experience the mind, breath, 
+and mantra flowing in unison. This synchronization has a 
+beautiful effect on meditation. Simply allow the OM 
+Mantra to come and go with each inhalation and 
+exhalation. Allow there to be no gap, no space, no pause 
+between inhalation and exhalation, or between exhalation 
+and inhalation. When the word OM is heard, what is the 
+concept and object that comes to mind? What is that 
+thing that goes along with that word, OM? The concept 
+that goes with OM is the one-ness or entirety of the 
+universe. The object that goes with the word OM is the 
+entire universe, as a single unit, including the gross, 
+subtle, causal planes of reality, both manifest and un-
+manifest. It means that whole, as if it was one, single 
+object. It is that infinitely huge object, which is the object 
+that goes with the word OM.  There is a feeling of 
+stretching, as if the attention had to get bigger and bigger, 
+to contain the whole, the same way as the chair has a 
+back, a seat, and legs, yet is collectively a chair. Continue 
+to repeat OM, and continue to expand, so as to allow 
+your attention to contain the whole of the object called 
+OM. In other words we can say that it becomes imbued 
+within the consciousness of the person listening or 
+sounding it i.e chanting meditation [4]. 
+ 3. Chanting Meditation 
+It means keeping a not-moving mind and perceiving the 
+sound of your own OM. Perceiving your voice means 
+perceiving your true self or nature. Then you and the 
+sound are never separate, which means that you and the 
+whole universe are never separate. Thus, to perceive our 
+true nature is to perceive universal substance. With 
+regular chanting, our sense of being centered gets 
+stronger and stronger. However, when we do chanting 
+meditation correctly, perceiving the sound of our own 
+voice and the voices all around the sound of the voice. 
+Ultimately, we learn that chanting meditation is not for 
+our personal pleasure, to give us good feeling, but to 
+make our direction clear. Our direction is to become 
+clear and enlightened, in order to save all beings from 
+suffering… What’s important is to perceive the sound 
+and become one with it, without making “I” and 
+“sound.” At the moment of true perceiving, there is no 
+thought, no separation, only perceiving sound. This is 
+the crucial point. So during chanting time, perceive your 
+own voice and the voice of others, just perceive this bell 
+or drum sound, and cut off all thinking. Then your 
+wisdom will grow, you will get enlightenment, and thus 
+save all beings. 
+4. Database 
+ Recordings of OM chanting served as a database of this 
+experiment. The recordings were made in a quite room 
+at 44.1 kHz sampling rate using a close-talk microphone. 
+All files were segmented manually. Male and female 
+speakers of age group 30 to 40 years did the entire 
+recording in evening time after a days work before 
+dinner by sitting in a padmasana position, which is best 
+position for mediation. Recording is done for about 10 
+minutes. 
+5. Technique and Concept used 
+This section gives a brief introduction of the concepts 
+and techniques utilized. The proposed algorithm is  
+1) Recording of the OM chant using a close-talk 
+sensitive microphone in the windows ‘. wav’ format. 
+2) Digitizing the analog waveforms with the help of a 
+MATLAB using a sampling rate of 44.1 KHz. 
+3) Start & end point detection to resize wave file  
+4) Segmentation of complete chant into OM samples. 
+5) Dividing each OM sample into overlapping frames to 
+determine average pitch (fo). 
+6) Frequency modulation with maximum frequency 
+deviation 2fo. 
+ 
+The configuration of the computer used for analysis was 
+a Pentium IV 2.66 GHz with 512 MB RAM running on 
+Microsoft Windows XP Media Center Edition Version 
+2002 with  
+Service Pack 2. The software used for analysis was 
+MATLAB 7.0.0 (R14b).
+
+=== PAGE 3 ===
+
+IJCSNS International Journal of Computer Science and Network Security, VOL.9 No.1, January 2009 
+ 
+ 
+365
+Since the professional studio recording was a stereo 
+recording, it was recorded as 44.1 KHz 16 bit stereo 
+audio file for duration spells of ten minutes each. In the 
+stereo recordings, the first Channel data was obtained 
+using MATLAB software and used for further analysis. 
+In this Research work, the ten-minute recording has been 
+scientifically analyzed.  
+6. Analysis Results 
+Waveforms of Frequency modulation by OM chant are 
+presented below 
+ 
+ 
+ 
+ 
+ 
+ 
+TIME(sec)
+FREQUENCY
+TIME FREQUENCY ANALYSIS OF OM MANTRA USING SPECTOGRAM
+10
+20
+30
+40
+50
+60
+70
+80
+0
+1000
+2000
+3000
+4000
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+-2
+-1
+0
+1
+2
+TIME(sec)
+AMPLITUDE
+TIME FREQUENCY ANALYSIS OF OM MANTRA USING FM
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+-1
+-0.5
+0
+0.5
+1
+TIME(sec)
+AMPLITUDE
+FREQUENCY MODULATED SIGNAL
+Fig. 1 Depicts the chanting of  “OM” by a male speaker and frequency modulated waveform.
+
+=== PAGE 4 ===
+
+IJCSNS International Journal of Computer Science and Network Security, VOL.9 No.1, January 2009 
+ 
+ 
+366
+TIME(sec)
+FREQUENCY
+TIME FREQUENCY ANALYSIS OF OM MANTRA USING SPECTOGRAM
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+55
+0
+1000
+2000
+3000
+4000
+0
+5
+10
+15
+20
+25
+30
+-4
+-2
+0
+2
+4
+TIME(sec)
+AMPLITUDE
+TIME FREQUENCY ANALYSIS OF OM MANTRA USING FM
+0
+5
+10
+15
+20
+25
+30
+-1
+-0.5
+0
+0.5
+1
+TIME(sec)
+AMPLITUDE
+FREQUENCY MODULATED SIGNAL
+Fig. 2 Depicts the chanting of  “OM” by a female speaker and frequency modulated waveform. 
+7. Conclusion 
+From above observation it is clear that in the initial part 
+of FM signal carrier swing is more which is due to initial 
+OM chanting. As we go on chanting OM mantra, the 
+mind becomes calm. When the mind becomes calm, the 
+body relaxes, and the breath becomes even soother and 
+slower. That rate of speed at which the OM mantra is 
+being repeated naturally slows down. It is not a matter of 
+forcing the mantra to slow, but rather, this slowing comes 
+quite naturally. Allow the mind to stay wide-awake and 
+alert, as the OM mantra and breath become naturally 
+slower and slower. Within minutes your mind and body 
+begin to relax, negative thoughts are dramatically swept 
+away to releasing this internal life force that heals the self 
+on a cellular level, with more energy, strength and focus. 
+The electrical activity presents throughout the body and 
+is a by-product of the activity within every living cell  
+ 
+changes. It is all due to biofeedback. This effect is shown 
+graphically by final part of OM chant, for this carrier 
+swing is less and uniform. 
+ 
+From this we could conclude that chanting OM mantra 
+results in stabilization of brain, removal of worldly 
+thoughts and increase of energy. It means that 
+concentrating on OM mantra and continuously doing it 
+slowly shifts our attention. It is reflection of the most 
+fundamental interlocking processes in our bodies…the 
+harmony we play echoes the harmonic relationships of 
+every vital system i.e. our heartbeat, our breathing, our 
+brainwaves pulsing, our neuronal firing, our cells 
+throbbing, our metabolic, enzymatic, and hormonal 
+rhythms and our behaviors in our addictions and our 
+habits. In this sense OM mantra is a brain stabilizer, by 
+practicing it one can enter deeper and deeper into the own 
+natural state, which is also an energy medicine for human 
+being under stress.
+
+=== PAGE 5 ===
+
+IJCSNS International Journal of Computer Science and Network Security, VOL.9 No.1, January 2009 
+ 
+ 
+367
+References 
+[1] “The 
+Meaning 
+of 
+Om” 
+from 
+http://www.omsakthi.org/worship/mantra.html 
+[2] “The 
+OM 
+chant” 
+from 
+http://www.divinegold.com/meditation
+/meditationchants.htm 
+[3] Om mantra & seven methods of Practice from 
+http://www.swamij.com/om-mantra.htm 
+[4]  “Mantra Meditation” from  
+ 
+http://www.meditationiseasy.Com/mC
+orner/techniques 
+Mantra_meditation.htm. 
+[5] Stigsby, B., J.C. Rodenburg, and H.B. Moth. 
+"Electroencephalographic Findings during Mantra 
+Meditation (Transcendental Meditation):A Controlled, 
+Quantitative Study of Experienced Meditators." 
+[6] John G. Proakis, Dimtris G. Manolakis, and 
+1999.Digital 
+Signal 
+Processing: 
+Principles, 
+Algorithms and Applications. Prentice-Hall of India 
+Private Limited, India 
+[7] Fast Fourier transforms - Wikipedia, the free 
+encyclopedia 
+[8] Ajay Anil Gurjar, Siddharth A. Ladhake, “Time-
+Frequency Analysis of Chanting Sanskrit Divine 
+Sound “OM” Mantra”. International Journal of 
+Computer Science & Network Security, Vol. 8 No. 8 
+pp. 170-175 (Aug-2008) 
+ 
+ 
+Ajay Anil Gurjar received master’s 
+degree   in   2002  in   Electronics   Engg. 
+from  Sant     Gadgebaba       University 
+Amravati,   India.   He  has  13  years   of 
+teaching experience. He is currently 
+working as Assistant Professor in Dept. 
+of Electronics & Telecomm at Sipna’s 
+College of Engineering &    Technology, 
+Amravati (India). His main research  
+interests include Speech   signal 
+processing; Image processing, Wavelet 
+transform and pursuing PhD in speech processing. He is a 
+member of IETE & ISTE. He has published 5 papers in 
+National & International Journal & Conferences on speech 
+signal. He has awarded junior research fellowship from CSIR in 
+1995.                                                                                                                         
+ 
+Siddharth A. Ladhake received 
+master’s degree in   1990 & PhD in 2004 
+in 
+Electronics 
+Engg 
+from 
+Sant 
+Gadgebaba University Amravati, India. 
+He has 25 years of teaching experience. 
+He is currently working as Principal at 
+Sipna’s College of Engineering & 
+Technology, 
+Amravati 
+(India). 
+Previously he was holding a post of 
+Professor from 1999 to 2005 at College 
+of Engineering Badnera. His main research interests include 
+Signal processing, Image processing, Code conversion, 
+Multivalued logic etc. He is a fellow member of IETE & 
+member of ISTE, IE & IEEE. He has published 24 papers in 
+National & International Journal & Conferences. 10 students 
+are doing PhD under his guidance.  
+ 
+ Ajay P. Thakare received master’s                           
+degree in 1996 in  Electronics Engg.   
+from 
+Sant 
+Gadgebaba 
+University 
+Amravati, India. He was an Assistant     
+Professor in Ethiopia for 3& 1/2 years 
+and worked as Section Head of   
+Communication Tech. Department in   
+the Defense  Engineering College Debre 
+Zeit, Addis Ababa Ethopia, East  Africa. 
+He  has 19 years of teaching experience 
+He is currently working as Professor in Department of 
+Electronics & Telecommunication at Sipna’s College of 
+Engineering & Technology, Amravati (India). His main 
+research interests include Signal processing; Electromagnetics, 
+Smart Antenna, Microwave Communication and pursuing PhD 
+in the area of Antenna Switching feed network. He is a member 
+of IETE & ISTE. He has published 5 papers in National & 
+International Journal & Conferences.

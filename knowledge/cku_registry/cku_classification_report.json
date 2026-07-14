@@ -1,0 +1,42 @@
+{
+  "date": "2026-07-14T06:05:22.538415",
+  "total_unresolved": 19711,
+  "classifications": {
+    "metadata_artifact": {
+      "count": 1372,
+      "action": "DISCARD - moved to artifact registry",
+      "description": "Page numbers, chapter headings, publisher info, etc."
+    },
+    "encoding_artifact": {
+      "count": 317,
+      "action": "DISCARD - moved to artifact registry",
+      "description": "Non-Devanagari characters, broken encoding"
+    },
+    "too_short_artifact": {
+      "count": 13,
+      "action": "DISCARD - moved to artifact registry",
+      "description": "Less than 30 chars, not meaningful knowledge"
+    },
+    "variant_reading": {
+      "count": 2699,
+      "action": "PRESERVE as textual variants",
+      "description": "High overlap with existing Silver content, different edition"
+    },
+    "potentially_missing": {
+      "count": 15301,
+      "action": "INVESTIGATE - may be missing canonical knowledge",
+      "description": "No overlap with existing Silver, needs evidence search"
+    },
+    "partial_match": {
+      "count": 9,
+      "action": "REVIEW - needs human verification",
+      "description": "Some overlap with Silver but not enough to classify"
+    }
+  },
+  "actions_taken": {
+    "artifacts_discarded": 1702,
+    "variants_preserved": 2699,
+    "missing_queued_for_investigation": 15301,
+    "queued_for_human_review": 9
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "Valmiki Ramayana": {
+    "editions": {
+      "Gita Press": 21307,
+      "Kalyan": 157,
+      "Ramcharitmanas": 5407
+    },
+    "total_vn": 516,
+    "canonical": 232,
+    "single": 284
+  },
+  "Rigveda": {
+    "editions": {
+      "Sayana": 5630,
+      "Ramgochind": 0,
+      "Ramtek": 189,
+      "Jayadev": 910
+    },
+    "total_vn": 116,
+    "canonical": 55,
+    "single": 61
+  },
+  "Atharvaveda": {
+    "editions": {
+      "Sayana": 2481,
+      "Sanskrit": 3250,
+      "Jayadev": 1221
+    },
+    "total_vn": 72,
+    "canonical": 32,
+    "single": 40
+  }
+}

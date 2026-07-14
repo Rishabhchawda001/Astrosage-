@@ -1,0 +1,109 @@
+{
+  "total_documents": 751,
+  "average_score": 56.6,
+  "score_distribution": {
+    "excellent_90_100": 0,
+    "good_70_89": 196,
+    "moderate_50_69": 329,
+    "poor_30_49": 226,
+    "critical_0_29": 0
+  },
+  "needs_ocr": 69,
+  "is_duplicate": 0,
+  "is_corrupted": 0,
+  "is_empty": 0,
+  "top_10": [
+    {
+      "filename": "bhagavad-gita-as-it-is.pdf",
+      "score": 74.3
+    },
+    {
+      "filename": "5_6334447321257870315.pdf",
+      "score": 74.3
+    },
+    {
+      "filename": "agni Puran 4.pdf",
+      "score": 74.3
+    },
+    {
+      "filename": "Rig Veda Telugu.pdf",
+      "score": 74.3
+    },
+    {
+      "filename": "Vividh_Chikitsa.PDF",
+      "score": 72.8
+    },
+    {
+      "filename": "Vividh_Chikitsa_no__6_.pdf",
+      "score": 72.8
+    },
+    {
+      "filename": "sadhak_sanjivini_sanskrit_hindi.pdf",
+      "score": 72.8
+    },
+    {
+      "filename": "full-punjabi-geeta.pdf",
+      "score": 72.8
+    },
+    {
+      "filename": "Divya_prerna_prakash.pdf",
+      "score": 72.8
+    },
+    {
+      "filename": "Manglacharana.pdf",
+      "score": 72.8
+    }
+  ],
+  "bottom_10": [
+    {
+      "filename": "Bhairav.mp3",
+      "score": 37.0,
+      "reason": ""
+    },
+    {
+      "filename": "Bhairavi.mp3",
+      "score": 37.0,
+      "reason": ""
+    },
+    {
+      "filename": "Bhoop.mp3",
+      "score": 37.0,
+      "reason": ""
+    },
+    {
+      "filename": "DARBARI.mp3",
+      "score": 37.0,
+      "reason": ""
+    },
+    {
+      "filename": "Darbari.mp3",
+      "score": 37.0,
+      "reason": ""
+    },
+    {
+      "filename": "Jaijaiwanti.mp3",
+      "score": 37.0,
+      "reason": ""
+    },
+    {
+      "filename": "Khamaj.mp3",
+      "score": 37.0,
+      "reason": ""
+    },
+    {
+      "filename": "Lalit.mp3",
+      "score": 37.0,
+      "reason": ""
+    },
+    {
+      "filename": "Madhuwanti.mp3",
+      "score": 37.0,
+      "reason": ""
+    },
+    {
+      "filename": "Malkauns.mp3",
+      "score": 37.0,
+      "reason": ""
+    }
+  ]
+}

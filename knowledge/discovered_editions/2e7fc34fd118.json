@@ -1,0 +1,209 @@
+{
+  "title": "bhagwat-puran (1)",
+  "discovered_at": "2026-07-13T15:53:53.845927+00:00",
+  "edition_count": 10,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "ramayan-in-nepali",
+      "title": "Ramayan In Nepali 2.4GB",
+      "creator": "Translate in nepali: \u092d\u093e\u0928\u0941\u092d\u0915\u094d\u0924 \u0906\u091a\u093e\u0930\u094d\u092f",
+      "year": null,
+      "language": "nepali",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "20220403_20220403_1545-Parmeshwarko_Adalatma_Veda_ra_Bible",
+      "title": "\u092a\u094d\u0930\u092e\u0947\u0936\u094d\u0935\u0930\u0915\u094b \u0905\u0926\u093e\u0932\u0924\u092e\u093e \u0935\u0947\u0926 \u0930 \u092c\u093e\u0907\u092c\u0932-Parmeshwarko Adalatma Veda ra Bible",
+      "creator": "\u0930\u093e\u092e\u091a\u0928\u094d\u0926\u094d\u0930 \u0922\u0915\u093e\u0932",
+      "year": null,
+      "language": "nep",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shri-vaishnavas-archiradi-marga-nepali",
+      "title": "Shri Vaishnavas Archiradi Marga Nepali",
+      "creator": "\u0936\u094d\u0930\u0940 \u0936\u094d\u0930\u0940\u0928\u093f\u0935\u093e\u0938 \u0906\u091a\u093e\u0930\u094d\u092f",
+      "year": null,
+      "language": [
+        "nep",
+        "Sanskrit"
+      ],
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2766755148",
+      "title": "Sacred Groves: Myths, Beliefs, and Biodiversity Conservation\u2014A Case Study from Western Himalaya, India",
+      "year": 2017,
+      "is_oa": true,
+      "oa_url": "http://downloads.hindawi.com/journals/ijecol/2017/3828609.pdf",
+      "authors": [
+        "Sushma Singh",
+        "Mudasir Youssouf",
+        "Zubair A. Malik"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2947680544",
+      "title": "The Chemical Composition and Nutritional Value of Chia Seeds\u2014Current State of Knowledge",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://www.mdpi.com/2072-6643/11/6/1242/pdf?version=1559290774",
+      "authors": [
+        "Bartosz Kulczy\u0144ski",
+        "Joanna Kobus\u2010Cisowska",
+        "M. Taczanowski"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ramayan-in-nepali",
+      "title": "Ramayan In Nepali 2.4GB",
+      "creator": "Translate in nepali: \u092d\u093e\u0928\u0941\u092d\u0915\u094d\u0924 \u0906\u091a\u093e\u0930\u094d\u092f",
+      "year": null,
+      "language": "nepali",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "20220403_20220403_1545-Parmeshwarko_Adalatma_Veda_ra_Bible",
+      "title": "\u092a\u094d\u0930\u092e\u0947\u0936\u094d\u0935\u0930\u0915\u094b \u0905\u0926\u093e\u0932\u0924\u092e\u093e \u0935\u0947\u0926 \u0930 \u092c\u093e\u0907\u092c\u0932-Parmeshwarko Adalatma Veda ra Bible",
+      "creator": "\u0930\u093e\u092e\u091a\u0928\u094d\u0926\u094d\u0930 \u0922\u0915\u093e\u0932",
+      "year": null,
+      "language": "nep",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shri-vaishnavas-archiradi-marga-nepali",
+      "title": "Shri Vaishnavas Archiradi Marga Nepali",
+      "creator": "\u0936\u094d\u0930\u0940 \u0936\u094d\u0930\u0940\u0928\u093f\u0935\u093e\u0938 \u0906\u091a\u093e\u0930\u094d\u092f",
+      "year": null,
+      "language": [
+        "nep",
+        "Sanskrit"
+      ],
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2766755148",
+      "title": "Sacred Groves: Myths, Beliefs, and Biodiversity Conservation\u2014A Case Study from Western Himalaya, India",
+      "year": 2017,
+      "is_oa": true,
+      "oa_url": "http://downloads.hindawi.com/journals/ijecol/2017/3828609.pdf",
+      "authors": [
+        "Sushma Singh",
+        "Mudasir Youssouf",
+        "Zubair A. Malik"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2947680544",
+      "title": "The Chemical Composition and Nutritional Value of Chia Seeds\u2014Current State of Knowledge",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://www.mdpi.com/2072-6643/11/6/1242/pdf?version=1559290774",
+      "authors": [
+        "Bartosz Kulczy\u0144ski",
+        "Joanna Kobus\u2010Cisowska",
+        "M. Taczanowski"
+      ]
+    }
+  ]
+}

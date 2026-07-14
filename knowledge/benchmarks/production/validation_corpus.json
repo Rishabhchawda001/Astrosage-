@@ -1,0 +1,271 @@
+{
+  "summary": {
+    "total_selected": 40,
+    "by_class": {
+      "hybrid": 9,
+      "mixed_content": 2,
+      "native_text": 12,
+      "ocr_overlay": 3,
+      "scanned_image": 14
+    },
+    "by_language": {
+      "telugu": 2,
+      "english": 11,
+      "hindi": 18,
+      "unknown": 4,
+      "sanskrit": 3,
+      "malayalam": 1,
+      "kannada": 1
+    },
+    "by_size": {
+      "small": 5,
+      "large": 15,
+      "medium": 19,
+      "very_large": 1
+    },
+    "total_pages": 4721,
+    "total_bytes": 323057362
+  },
+  "samples": [
+    {
+      "filename": "3-4-saama-vedamu.pdf",
+      "class": "hybrid",
+      "language": "telugu",
+      "pages": 2
+    },
+    {
+      "filename": "TheKamaSutraofVatsyayana_11359535.pdf",
+      "class": "hybrid",
+      "language": "english",
+      "pages": 220
+    },
+    {
+      "filename": "brihaspatisutrao00brharich.pdf",
+      "class": "hybrid",
+      "language": "english",
+      "pages": 100
+    },
+    {
+      "filename": "instapdf.in-karva-chauth-vrat-katha-299.pdf",
+      "class": "hybrid",
+      "language": "hindi",
+      "pages": 16
+    },
+    {
+      "filename": "kamasutraofvatsy00vatsuoft.pdf",
+      "class": "hybrid",
+      "language": "unknown",
+      "pages": 216
+    },
+    {
+      "filename": "research-report-on-puran (2).pdf",
+      "class": "hybrid",
+      "language": "hindi",
+      "pages": 67
+    },
+    {
+      "filename": "आर्यभट्ट ( Hindi ).pdf",
+      "class": "hybrid",
+      "language": "hindi",
+      "pages": 8
+    },
+    {
+      "filename": "विक्रम और बेताल.pdf",
+      "class": "hybrid",
+      "language": "hindi",
+      "pages": 8
+    },
+    {
+      "filename": "सूर्य-सूक्त-1.pdf",
+      "class": "hybrid",
+      "language": "sanskrit",
+      "pages": 16
+    },
+    {
+      "filename": "dlscrib.com-pdf-kriyodish-tantra-rare-book-dl_db8277b362f0ed55d2d0058c81c3e763.pdf",
+      "class": "mixed_content",
+      "language": "unknown",
+      "pages": 44
+    },
+    {
+      "filename": "हिन्दू_धर्म_हमारा_जन्मप्राप्त_धर्म.pdf",
+      "class": "mixed_content",
+      "language": "hindi",
+      "pages": 125
+    },
+    {
+      "filename": "17. Introduction to system of medicine Author  Department of Collegiate Education Government of Karnataka India.pdf",
+      "class": "native_text",
+      "language": "english",
+      "pages": 16
+    },
+    {
+      "filename": "231_Ramraksha_Stotram_Web.pdf",
+      "class": "native_text",
+      "language": "unknown",
+      "pages": 33
+    },
+    {
+      "filename": "CHAKRAS-ENERGY-VORTEXES-BOOK-1.pdf",
+      "class": "native_text",
+      "language": "english",
+      "pages": 54
+    },
+    {
+      "filename": "Copy of _सत्यवादी_राजा_हरिश्चंद्र_की_कथा.pdf",
+      "class": "native_text",
+      "language": "hindi",
+      "pages": 4
+    },
+    {
+      "filename": "Copy of सती अनुसुइया की कहानी.pdf",
+      "class": "native_text",
+      "language": "hindi",
+      "pages": 2
+    },
+    {
+      "filename": "DeviMahatmyam_sanskrit_text_with_malayalam_translation.pdf",
+      "class": "native_text",
+      "language": "malayalam",
+      "pages": 154
+    },
+    {
+      "filename": "Mantreswara_s__Phaladeeplka.pdf",
+      "class": "native_text",
+      "language": "english",
+      "pages": 265
+    },
+    {
+      "filename": "Nitnem in Devanagari_hindi_english.pdf",
+      "class": "native_text",
+      "language": "english",
+      "pages": 153
+    },
+    {
+      "filename": "Prakashika-10 Abhigyan Shankuntal.pdf",
+      "class": "native_text",
+      "language": "english",
+      "pages": 262
+    },
+    {
+      "filename": "VIGYAN BHAIRAV (RUDRYAMAL TANTRA KA GOOD REHASYA) Bhairav Bhairvi Samwad (Hindi Edition) (DASHORA, NANDLAL) (Z-Library).pdf",
+      "class": "native_text",
+      "language": "hindi",
+      "pages": 102
+    },
+    {
+      "filename": "bramsutrSanskrit.pdf",
+      "class": "native_text",
+      "language": "sanskrit",
+      "pages": 248
+    },
+    {
+      "filename": "unencrypted-geeta.pdf",
+      "class": "native_text",
+      "language": "hindi",
+      "pages": 256
+    },
+    {
+      "filename": "Brahmand Puran 3.pdf",
+      "class": "ocr_overlay",
+      "language": "english",
+      "pages": 248
+    },
+    {
+      "filename": "Brahmand Puran 4.pdf",
+      "class": "ocr_overlay",
+      "language": "english",
+      "pages": 278
+    },
+    {
+      "filename": "Shiva Svarodaya with Bhasha Tika by Pt. Mihira Chandra - Khemaraja_text 2.pdf",
+      "class": "ocr_overlay",
+      "language": "hindi",
+      "pages": 98
+    },
+    {
+      "filename": "107-Valmiki-Ramayan-Telugu.pdf",
+      "class": "scanned_image",
+      "language": "telugu",
+      "pages": 109
+    },
+    {
+      "filename": "Brahm Vaivart Puran 1.pdf",
+      "class": "scanned_image",
+      "language": "english",
+      "pages": 6
+    },
+    {
+      "filename": "Copy of एकलव्य.pdf",
+      "class": "scanned_image",
+      "language": "hindi",
+      "pages": 21
+    },
+    {
+      "filename": "Copy of कार्तिकेय.pdf",
+      "class": "scanned_image",
+      "language": "hindi",
+      "pages": 21
+    },
+    {
+      "filename": "Copy of वीर सावरकर.pdf",
+      "class": "scanned_image",
+      "language": "hindi",
+      "pages": 25
+    },
+    {
+      "filename": "Ragachikitsa.pdf",
+      "class": "scanned_image",
+      "language": "english",
+      "pages": 287
+    },
+    {
+      "filename": "hanumanchalisa_Marwadi_Sanskrit.pdf",
+      "class": "scanned_image",
+      "language": "sanskrit",
+      "pages": 19
+    },
+    {
+      "filename": "markende-puran (1).pdf",
+      "class": "scanned_image",
+      "language": "hindi",
+      "pages": 296
+    },
+    {
+      "filename": "panini_Mahabhashya_III.pdf",
+      "class": "scanned_image",
+      "language": "unknown",
+      "pages": 295
+    },
+    {
+      "filename": "छत्रपति शिवाजी.pdf",
+      "class": "scanned_image",
+      "language": "hindi",
+      "pages": 21
+    },
+    {
+      "filename": "नरसिंह पुराण.pdf",
+      "class": "scanned_image",
+      "language": "hindi",
+      "pages": 299
+    },
+    {
+      "filename": "महात्मा विदुर.pdf",
+      "class": "scanned_image",
+      "language": "hindi",
+      "pages": 43
+    },
+    {
+      "filename": "महाभारत For Students.pdf",
+      "class": "scanned_image",
+      "language": "hindi",
+      "pages": 36
+    },
+    {
+      "filename": "ಬೃಹಜ್ಜಾತಕ ಕನ್ನಡ.pdf",
+      "class": "scanned_image",
+      "language": "kannada",
+      "pages": 248
+    }
+  ]
+}

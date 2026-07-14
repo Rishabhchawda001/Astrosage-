@@ -1,0 +1,79695 @@
+# Rigveda Samhita Ramtek
+
+**Source:** Archive.org
+**Source File:** rigveda_samhita_ramtek_djvu.txt
+**Language:** Hindi/Sanskrit (Devanagari)
+**Devanagari Coverage:** 36.9%
+**CKUs Extracted:** 189
+**Recovery Date:** 2026-07-14T03:44:38.903756
+
+---
+
+
+
+
+This PDF you are browsing now is a digitized copy of rare books and manuscripts from the Jnanayogi Dr. 
+Shrikant Jichkar Knowledge Resource Center Library located in Kavikulaguru Kalidas Sanskrit University 
+Ramtek, Maharashtra. 
+
+
+KKSU University (I997- Present) in Ramtek, Maharashtra is an institution dedicated to the advanced learning 
+of Sanskrit. 
+
+The University Collection is offered freely to the Community of Scholars with the intent to promote Sanskrit 
+Learning. 
+
+
+Website 
+https://kksu.co.in/ 
+
+
+Digitization was executed by NMM 
+
+
+https://www.namami.gov.in/ 
+
+
+Sincerely, 
+
+
+Prof. Shrinivasa Varkhedi 
+Hon'ble Vice-Chancellor 
+
+
+Dr. Deepak Kapade 
+Librarian 
+
+
+Digital Uploaded by eGangotri Digital Preservation Trust, New Delhi 
+https://egangotri.wordpress.com/ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+oc IRR UO <] gi 
+6S2 काल पूर्ण /अपूर्ण 
+
+
+l | 3 
+| dar २१८ (।-8 nd) (MÅ) |-8 må ) (MS) 
+|| लेखक /लिपीकार नक "काहि 
+
+## Page 1
+
+
+
+Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+\ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+\ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ld TE BT ETR TE NE EN 22220 E 
+
+
+
+
+
+
+
+
+\ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+## Page 2
+
+\ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+\ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+\ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+\ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+\ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+\ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 3
+
+
+
+
+
+\ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+\ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+\ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+\ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+| | 9-44 ga मुरुत्‌ऽ भिः ।अंग्र।आ। गृहि! नृहि। 
+
+
+"> वे | १... 
+
+## Page 4
+
+sr il हि ।चहि।देवः। TRAA IFE AT KE प रः] | 
+WA |०।यभूहः।रज॑यः विडः विशे and TRL 
+
+
+STE YS TGS] 
+
+
+Kor 
+
+
+
+
+
+ES AAA: grand रिशादसयब्याश्ध्यया। | 
+
+
+frie LJ Spa He anadan प बै तान विरः | 
+Rs RAGGE आर्जसा। OT 
+
+
+७2८ २.५ ७५०१७७ s Neal eie 
+EI gå AN 
+>>: RIN. TG vp 
+
+
+
+
+
+- ` PIT 4 
+Fs eee vhs TET 97s Peper 
+a Ad ae > kai. iie di å Foun. `. 4 है शै 
+P v च. de 4 ED Dl न । Se के पे sr var pe 
+Nerf y 
+
+
++, 
+Y 
+$ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| ee A - ह, O z man क m n nee ] jeran 
+| | : r 
+। j 
+
+I ` 
+
+हे | 
+
+## Page 5
+
+
+
+
+
+
+
+
+
+प्रीगणशाजनम*श्रीगुरु्यानमःणहरि*५७ञ ग्निर्रळे पुर: वे। य 
+वकतलिजाहेतारारत्ेञ्यातमे)जम्नि'।पूर्वनि) कार्षिः र 
+| तनस द बान।आ। ३ है। वक्ष नि।अग्नि नौ। BTA जब हये 
+Mandian जे। यज्ञेज खरे। turen ज सिसः 
+za hno gA de ARAA AA ig PÅ 
+AMAM भयत) अग। IFI भेड्े।करिष्य )ते३। 
+दवत असि SAA जगता दिवेभटिवे चा ऽवसत! प्रिया बये 
+Hardan fre 'जवध्वराणोगाषा।कतस्थदीरिं 
+।स्व)रभेखःनः रय म सु₹३चा यतः पच 
+
+
+सतरः १६७४ pH te xi ध्द < 
+५ “br PR ge, re कक be geie 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eon WR 
+
+
+
+
+
+
+
+
+
+Rg भाति के ।जरते।खा'अछन्ञ रितार॑ सीमा 
+Ts ति।तवं।प>एचुती। थे MAN A ri 
+
+## Page 6
+
+HA KREM 3 94: 5 fag und) Frasen | 
+'चितथ।सुवाना।वा जिनीव रू ५३ विवाजिनीऽव बी चल उप 
+wa ॥वयोज्उ ति।इ चसु न्चतः। जयात) उय॑ अछ नं mensen 
+amaaa aR na रिवादसाधियी घताची, साधत 
+ऋतेनं।मित्रावरुणी) कै ES UE PREE UE EEEN E EAC E क | 
+rad किमी त व, दा 
+।उ्वश्विना। यञ्चैरी:। रषः दरवत्पाणी उतिङर्वद्‌ऽवा णी।श॒मःर्त 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+EG RAGA SE AGE Sree 
+7 r- ope EEE EN er नशा 
+
+
+RAR 
+
+
+Fo4o र dd Få aa परै5देससा। न रो) रा वीर या। धि या। थि 
+en ।वरनैते। गिरे) दर्जी । युवार्क व: सुता नासंत्या! za Få +) | 
+heads विरु द्र *व ते नी en या RA चित्र भानी5इ नि fast | 
+तो इमे) त्वाऽयवेः TrA aama gang धितः वि ae | 
+ऽदतः)उ 4 बकी णि।वाध् å meg जानः)उवं।अ ही Rg ड रायौ 
+यः चनम औओमोसःचुर्ष कि BIE ka देवासः) जागव) रा | 
+। दाशुषे सत) विश्ववारः ञृषऽदुरं सुवे) आगत) दणी यः।उसत्र 5 
+स्वस॑राणि) विश्वे देव] 5 MANTRAER G 375 | क 
+lke Ak ekale AKIKI जे भिः।वेजिनीबती। यू सेव EE E: ˆ 
+
+
+—— | 
+
+
+
+
+
+i 
+l 
+
+
+
+
+
+
+
+
+
+
+## Page 7
+
+
+
+
+
+| 
+
+
+
+
+
+
+खुन वोट्थिती।र्ह्डतांनोचेतेती।सुःमतीनायज्ञं।द्घे)सर॑स्वती। महः जरण 
+र॑स्वती।अ।चेतृयति|केतुना।थियःविश्वाषवि।रा ज ति१४७ सुरूपः त्वं 
+
+
+
+
+
+NIZAR Bazzani णि।-जा। ई। आश। 
+ro da res å Fare See 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+ET Ry oe र 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+पच्च -RE SEAGE E TE CAE EIIE अभवः म आयः वाओेष। वाजिने) से। 
+र ` FI ।वाजिने)वाजयामःदातेकतोइ विशव क I el | 
+यःःजञवनिभ महाय सुभ्पारःसुन्वतभस Bt NY nen | 
+agmg MAARAMA RNN on 
+
+## Page 8
+
+agario: साम सुंतास: छन योगे ओ | 
+i वृतासः राये) सःवुरेऽथ्या।ग तावो AMAAN IAs | 
+TUINEN 'सुमवसाशार्चव TIR: ta Cle E: GREE: LES A k AE LE iK) 
+_तिथेशसोमासःर r AR: Ri सः E. क | 
+रः $A SMAL शर्व सोमासः ^ | 
+IS SA 7777 
+erd 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| ताइ तिंरा ag manaia गिरः अक्षित ति।स ने व। इ मे? 7 | 
+lasta eet manad UNGEN BK 
+ESA ef ban SIGLE जा ये |: 
+तेरो चना।ट्विभ्युअंति। अस्य। ig x FYmen + कसल i 
+ह साकेठेछण्व न के तवे।षे शश मयोः अषिदासे। से।उषत्‌ | 
+| ae ras Fan m iR 
+| नामय 
+
+
+व 'सहा। चि नाई डव san 
+(Tyra नयक मति ५ गिर॑ 
+
+
+AZA RR Å 
+amidina R ञंभि 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 9
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+gør इंडेस्याकाभ्येञ जते पारःन्मयाजा गहि। द्विः) या। å 
+७ के जते गिरे.) ॥ ते: वी । सा तिं। y वःव Ro bd EE 
+MTAANI zag भर है ३ दइर अर्के मिन ज कि 
+MARIN RIU srama asy MES: 
+e : 5 Hrki PÅ AEG ELIMA: 
+अडिटरयवारंडई।वाजेषु।न:। DET जा 
+भिः Th ng भने हवामहे EEE 
+3 ELE Ut E AE AEE E अपी है Å अ श्रतिख्क्कतः। 
+Jas FET BIG GÅ 
+
+
+
+
+
+
+å } 
+र्ड 
+सः) usan 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 10
+
+
+| aenstndan FÅ PS ल्क ईनः अ ेतिऽस्क्कुतः।यः 
+
+
+
+
+
+
+
+
+
+व्वा 'य्च। क्तितीनो। इ ई। व: विश्वर्त: प रि 
+
+
+.  किशचर्षप्यीनों।वरूजों। 
+| Ei Jeamtønamåz सान FY स5 
+
+
+rase 
+
+
+
+
+
+
+
+| kaka rakaa ड्‌ । माऽ्वेवे।से यबि? से लिं। 
+
+
+| 
+A MRSC NDA nm ONISHI NE ~ न NN 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+TR MSR SFA HS: Sed ७७५००, पुकार क TET S रे GEER rd VAN ==" dog EN म डय ep ee तककः कल्ल Tr ir त अन ल 
+
+
+* ADE: 
+
+
+momi एनं रज कस FE faen च 
+ag निं bas Fs Ri A 
+
+
+## Page 11
+
+बुआ। असग इ टे।ते RS ति। स्याउ व) जहासव) जजों षाक्षटषु. ` 
+ha चोदया जिचे ge H a ARANI 
+TIRMANDI Naa ANAN 
+E GLORIEREN pk एथु।श्षव॑: हद वि शव A 
+।धे हि) सिते। Ar थे हिव ह दव द्युम्ना सह As सार्व मे 
+
+
+वाह स्य 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+v 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| हडसर थिनी 2३ बगवसो इड वर्स खति।गी नि: ्टणनं॥ चः sa 
+र उ वंयासने विनिः AEA, इहह भानि इ 
+Ke agami ति। बा गाय नि णै। व 
+
+'खााऱातकतीइ तिशीत SA ELTER व ये भिरे) यव। सा नौ ik | 
+अरुंद वभरिं।अस्पष्टाकर्त | त वाई ट। Ara ax । क्‍ 
+श्जतिथुश्कोटिकेशिना|हरीर नि बंणाकल्य:त्रा। था मन ३ द)स 
+
+## Page 12
+
+GA गिरो।3 पेऽ श्च विं। चर भाइ हि EN मान जन man | 
+णीदि।आशरुव। अत्ले। PA बस jajanan) 
+य।डोस्यीय चन।षुरुनिः घे।राकः) यथा सतेब॑ छुःसरण द)स र 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+an EEE ENE NENNE sne wears ENGE RER 
+
+og; RS Ed de टी ण्या SAR AL सू” 7E तश स iy, ro) Rd RAS 
+$ 
+Å 
+
+
+
+
+
+
+
+
+
+
+FK aai annig Mha RRRA 
+Zagramy Agaa nsatd ANG 
+na and aga mia eaaa Aaa RRA, 
+
+
+नदी one ee pon ee 
+
+
+
+
+
+
+
+## Page 13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TRMA 
+अशचिंवाअवतेर। त्वी॥इ धन तम। NHF EIJA 
+
+
+arå sadisme qui Li gå AFIHÅ) 
+FRUER | por विर।ह कि सहख सो काण, nu: 
+हू मभ बेदु। विश्वतः A अवेर ड य ञी भरं वु जु र 
+
+
+
+
+
+
+Pere Rn Pro Mnd A RN NR ad pa Na ono NS ७ C7 Ce DIOR RESINS OR TRE IORI NE ट 
+i v RS 
+
+
+ह विम्यायअवी हन) ससर +न्य चस गिर) रककम र चिन व) जान सव å 
+प तपा MARIMAA स eg FFF 
+EKA FEI WIAA भय ins 
+
+
+क्व तेअघ)युरो।भिदुःथुबीकेवि। le 
+">> me ण ama KESZ OUNL gam Mitaa YAN 
+
+
+FrnGanraus ag samen Arad 
+ऽभि hme नउ अतित) शिर्वणः।बिदु स 
+माया ना स्वे शुष्ण अरव ARAR 
+वति २१९2 ईसानेशओजसाञ्चभिः स्तोमा अन बुत। सह यस्ये। रा वये 
+
+
+## Page 14
+
+
+å ag | å agaa 
+
+
+
+
+
+
+
+er 
+
+
+== - coe == — s ५ Ører. १. ER 5 
+pet ~ I eer TI 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Te उताकासंतिजरयंसीभाज्कयज्ञशिडूनाडणीमहाहोतारोविश्यऑंवरसंजस्यार | 
+-Gaaran paga Fi 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 15
+
+
+
+
+
+
+
+
+
+
+FE we — EE PR øm OEE TS SN RNR pr rrr rN Thee nT Te RE MOS. 
+seer we - BET =P nm FE pr EET SN Me, Hs Å í Ta å 
+på तत i न >> 
+
+
+PERETI, 
+
+
+
+
+
+f 
+
+
+is Ee AG ग्निहवी as nad er हवास 
+| I) 
+
+DINNADA NAMM "जे! हि ; 
+
+ATAR AINN बत राजये चरस pine 
+
+जन्ति) स।३भ्यते+क्‌विः। गु ह्‌ $ ति YUE वाद जु रऽ औस्य: २२ ५ 
+
+च Fe NE जकः न near 
+za a ANAA ARTMA येः 3 
+
+हरि adm ata FINISAR 3 di at av 
+
+
+a 
+
+
+ह FE ET 
+
+
+
+
+
+
+
+
+
+## Page 16
+
+
+
+
+वनउ ह आ।रह।उथ।र्ये ड । सः) ने रत वो नः । 
+| midia शु गो NRPA हि > par 
+Hager eet MEHRAN 
+रितिःवावकृभयलि)व।मथुऽभंते क तन å sa. | 
+चीत ये।न «ft ge dd å nd ।हिपिः तीअ. 3 ही 
+FR दिवान! EN emaon: aaan | 
+a ii तेऽ रु छ।मनो विण थ) अम त॑स्य। Nkk युत)... .. 
+क fA AMN DASINI | 
+ARANAN CARNA Ere EEI: EEN 
+
+
+$ Hs i 
+
+
+
+
+
+र ENN j 
+Po AN ७3४: 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 17
+
+अस्मा् भस्क के बह; 7 
+
+
+' 'आहोतोरादेव्यो।कवीदति)यह asiater 
+
+
+भुवः बर्हिः सिधैः।इ हत ष्टार'ञस्िय। 
+> å उक å ३ रेवेभ्यः। हू Runa च 
+
+
+स्वाहा थक! ये द TUFIR 3 | 
+3 åå गिरे च चीत aa ये भि।या हि।यसि। 
+'भातत्वाकण्या ARARAT ति'वि भा ते। EN È pr Å 
+TR ETNFIR SEA मिना अग्निष Mp ATR 
+र्ण maaana naaman EIET: 
+FSF Gi कण्वासः ३ RATE Tick g] EEG Br: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | TTSÅR E gu 
+| Å मावा at imada 
+
+
+KACIN | 
+alanad Finden eg PREG 
+i JN åa यान्‌।इषःऽच शरैः वि भे। i327 
+| DARA नाधि निरराम सिः | y 
+| ब TÆR ते ant KA) DES जो। वृह॥ | 
+
+
+ERKI सि) सः ३मे।न्‌। अध्वरे युञ्‌) न 
+Aaa tnaa रास॑3त ते $ 44 gn 
+
+
+## Page 18
+
+
+Ga हिस सुरा ववृ SET 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+et | | A 
+
+
+Selke nuE RIRI AT सार के ये ने d 
+ng i gn os यावर TE SA 8 
+Å | लव च हि सर अस्त gå । 9 मिर्वादरुणा 
+रभ अर å aaan Eoo z aa by Fe 
+| ERREI ! $ दोह जश hk) १ 
+
+डे दाता बनाम saa दि।ऊु ही त॑। au av । 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 19
+
+
+
+
+
+
+
+
+
+
+
+
+ot Sr RES | 
+| 7 z pp दूस T $) कर 5 | 
+| IE 3T$ å q 
+
+नपे यत gen ता दत हरय षण सीमे 
+
+
+
+
+
+
+enn सूर॑श्चशस इमा as FE शनः रव 
+ee EE 
+å ches A सते) हित्वा 
+- म्राजागहि।उपाइद।सर्वनासुते।भोरशन। ढ थितःपि ना Fe keine "ल 
+का नरस सन FR कर 
+FM As KG NIKUF 
+Se EE ।सोमऽचीतञे।०) कामे, जा ए ण। गो Å pA नो 
+तिरक स्त माया यमाचे Hei è sal 3 
+oo | ] ) i å )भा$वतृः। 
+शी काने नि पथ था।इ दर वरुणा। OG जा ता वो ने छे) 
+
+
+AAT 
+
+
+> का ३ SS CR 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+på rep == TELLIER aee 
+
+
+कक 
+
+## Page 20
+
+
+
+
+
+
+ET imran 
+ct SEES 
+
+
+
+
+
+
+
+
+Spå RE IN अश्नोयुः G} वरुण) या। 
+
+Areas rap mh सरण णि 94% 
+तीयः शिजः्यभरे वाच) थ:ज मी व5 हवस FAY PI Pi 
+न सिखेकु) य: वरमा रोसं । अररुष कम्‌ å | 
+UE CRE GIES, E EN ag ध्य did GY EAR . 
+RDA के लव अहण MVA ITL FG vn AI 
+
+
+| 
+| 
+| 
+
+
+| : 
+
+
+१० 
+
+
+
+
+
+ua सदसः ÅST ते। भि येइ डस्य काम्यस निमे घो अया शिष्‌? 
+वाऋते।ना सिधथ्य॑तियल्ञ।विषः यित चन) स ची नो ।योगे। इन्वति आव्‌। 
+KANE FA भाची केणी तिः ज्वर हो वी देव बु. गछ तिनरा त्रा 
+$2 मं, जपेरयशस अथै: FAINA ou at | 
+।अध्वुरगीऽपीथाय॑।भ। हूय से।मरू तऽ नभा qa 
+Aag EEE Tike रः०॥ महःरज स॥वेडुः र्ण 
+i अर्क! FIAI सा|॥०॥ये।शु फव्रा॥ घो २३ 
+
+
+| जार्सभरि ma स ra म ॥ये!नाकंस्य'अधि।रोचने।दिवि। 
+न E nq qia 
+
+
+## Page 21
+
+
+
+
+
+तान/तिरासमुद्री अर्ण ब॥आयेःतन्व 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ye UMN ।निसमुई।ऊऋर्ज॑सा॥ on जे कि।जा। हर्वे5 आमि साम्ये aa 
+
+११ ॥७४तिपदभथमाशकेप्रथमोध्यायः)॥ "ॐ अया देः बाय स्तोम å [ 
+।आययाभअकारि।रलभ्यातेमःसे!इद्रीयःवच ना म | 
+
+AG andaman ञ्मोने Gs Å 
+FAaaJaq Mg चितश।यृन्‌रिति। स त्वश्मे वा अ) | 
+Sele i ar डं er ताआ टिव्येभि।च। 
+मेंडभि ENTER i स ARNAR Re Fo 
+| NR JAFFA) ।एकेऽर्क) सुदा 00. 0. 
+
+An taniga जास जि डर 
+
+
+IR | 
+
+
+## Page 22
+
+
+Å j र HA 
+
+
+
+
+
+
+
+
+
+
+
+å 
+
+
+
+
+
+
+
+
+aan विभिः सया॥अकारिस्त्नुझ्यांत॑म ये 
+ऱ्य 
+
+
+
+
+
+डायावऱचःयुजा AAR ।सन॑सा।हरीड्रलिं।चामी भि/यू सं' आज त ४ त | 
+| dm र२३ज्मानेत्कुऽ वे! रथ॑ nasa aaugategatan fa 
+rage मंत्राशशजुब्यव॑ शा सन वः nes त 4 से । व। मर: 
+| Få mqasdansnrANusassr ९ उलास्ये d 
+RELEE ad sån त।चयुरः'पनरि्ि।तेभ्नःरस्मानिभ्धत्तन। ` 
+0. क JUG |. g T 
+|. भरजतासरूलयांगभागदेवेवयसिय। naaa) | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 23
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Atazak Pa Hrani 
+| | Adm गायत धता! सिचस्यीअरग्दा सतये'इंड्राग्नीड। | 
+ता ke rareste ha | 
+शतं ड दाग्नीर ति।आ(ड ट्छ तांगता।महाती।सट्स्पतीइ Eda 
+er उन्सतं १अर्धओःसतुभ्मविःतेर्नःसेनलाप्टतःजर्थि'अःचेनुनी | 
+दिनो तरम TAN aars NATRE 
+å 'गकतोगजस्यासा i damia aA mgm 
+REITA ANNER भ्या E S NANE 
+
+
+
+
+
+
+
+
+
+
+## Page 24
+
+
+
+
+
+
+
+
+
+
+
+| | 
+| "३. 
+
+
+P 
+
+
+
+
+
+
+
+
+
+
+dadra युसं। भिभिश्षतं^ न हि। वो /अ रि डर Radan 
+I हनाम RERNA RA R वितारडप/ हूयेशसःचेत्ती 
+Raatan ४ "अपोगनपात/अवसे।स डितारेउ narn 
+
+saana an हुवामहे a RN बितर स्यराथसः।सवितारो 3 चक्षस! 
+| | TERM BÅT स विता।स्ते भय gaada rfa | 
+
+अग्तीपली: हर एआ/व ९ | 
+२प्यग्नेर्रअर्वसारेबॉ य विज्ञ भार॑ती GK enga ५४ 
+ÅR airg: aiman maiin छिन्‍न : पत्रा/स च तो १ | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 25
+
+
+
+
+
+
+pl ति।सू रयं॥दिकिडशुवाच्शा।आइत॑त त व विधाः विपन्य य॑: जाऽ 
+
+
+Ke 
+
+
+४ f 
+
+
+
+
+
+| Too | इराइंडाणी उप rasens ante adr | 
+3 rår ये Arendt घुता/न /भ रीम5 नि Maga 
+
+
+
+
+
+
+
+
+
+dad mad तिभ्यीतिऽभिः॥राथवेस्वी Faen 
+
+
+गा WA; a Mie må ब्अरतमटेवा।अवृंतृ। 
+
+
+enga REE चिज्या/स्त' थामा वि॥३<ं RARR 
+मे। ma a EEE हस्या 'चकमे।वि d 
+aparana anmada Dran gaat | | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 26
+
+å 
+
+
+EINAR NARAR विष्णा/परमायदं सदरा ९७ | 
+
+
+
+
+
+
+
+
+
+
+
+
+å 
+å 
+å 
+
+
+DV 
+| É pi | 
+भर A | gå 
+B £ E | 
+० $ | 
+a पं 
+
+
+
+
+
+y 
+3 RT TE 
+
+
+Hud ki थलेगविष्याभयव! पर संपदं ॥७७०गर्तीत्रा। सो मां स/आ। ग हि। 
+Matsia a Rn Rias dan rd 
+ra र rar 
+हवते।ऊवर्थे॥सह्स्ऽअश्षा।थियः।यती ve NELL 
+
+å सऽवीतयेश्ञसाना।ूतः ॥सतेन योग सत ३ थो/ सतस्व्यातिं 
+वः hs År wo wb ne NF hø se Sa सुर aa 
+
+
+तः विश्वाभिः।ङ तिश्‍भिंभाकरंनो ।न।रूररा थंस!/म रुखेत। हवा महे। इ 3 । 
+
+
+
+
+
+## Page 27
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| madrass å Et | 
+< ॥हुताडचंस्सन्दासवइंडेण'स ga 
+| MESTR: nanfa श्वानारेवा न! हवामहे? मरूतः MAARN | 
+MIRE MATR 
+$ मसल्स ; (न १जानाशअबचु। | 
+
+
+
+
+
+
+
+
+
+
+
+c 
+
+
+| 
+| 
+
+
+lat देयाध भवेतः या जिन॥अपूउस, मे से मं । अन्वीतः 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GEER md S 
+A 
+
+
+
+
+## Page 28
+
+
+
+
+
+
+
+
+ऽशतयःतविश्वेम सश्चत 
+
+
+९ अजय॑तो$ ॥मरुला/एतिथ्युष्णुःया॥ 
+
+
+
+
+
+> 43 sya | å pe 
+TAG 4 KATT STR णि।अपउ ENTEN A 
+प्र्त चित्य हिवेउ ताइ तिसः म त्यौडं ईड hp er 
+
+
+
+
+
+
+
+
+
+
+
+
+सिव दयगोभिशयव!न'्च रुवः 2 «enste amr निशा म य॑। 
+
+अध्यर्डियसो भएं चती! स्थे ना(प यः।अ सूशवा।उ प। दिये या भि वासयेः! 
+«Fylket a न्वंत/अथ्यर ॥अपभदेवीशउ पये? य च। गा यपि ति। मः 
+
+नतः अस 
+
+
+
+
+
+MMAR Ren: शृयेशआपंः EU वः भें पज।१॥ ag nen 
+MIRENA N TANNER LRA NENE  वहुत। य त? 
+IRA RNAAR RRAN इ देहत्यतःवा'ेषे।उ त।अडते॥ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 29
+
+
+
+
+
+
+
+
+§ 
+
+
+f 
+
+
+f 
+Hd 
+
+
+
+
+
+
+
+
+{a 
+24 53223 Eee 
+gr 
+नळ न 
+
+
+| पण्जर 
+
+
+
+
+
+
+
+
+
+IIS CT 
+
+
+| RAMA dadamga ९३ १नहि। ते! had 
+| नभ्मस्युगवय/चन। अमीइति। पतय॑तः/ आप NTIZA आणित 
+
+
+
+
+
+
+
+## Page 30
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+आर्थ अद्याअनअचारिषं'र सेनः सेभ्अगरमहि॥ प र्यस्वान। स्ने? आ'ग हि! तं 
+मासं दूत n साजना तोसु bes | 
+MST ante भविश्वात/'सर/स RTN १२ (FI PUFA | 
+Fa हे दस नायक नमसत्येम्मादित्यापर्य akan 
+| TUARI ये प्रथम al है।चारु।टेवस्य। 
+।सभन॒/मस्थे/अ दिँवयेश्प॒न॑। दाचःपिव रै द। इशेयं'सातरे' चक भि। 
+यस वितःईशानं!वायाँशाशस बु भाय मरुगयः विव! RI 
+
+MELAR ARAR ।रघेगभय॑+ भत्तस्यःतेःवर्यः 
+
+
+
+
+
+
+| 
+
+
+
+
+
+|; 
+
+
+
+
+
+
+
+
+'चरेतीयनाये)वातस्य।्रऽमि न तिं।अ भव १ अबु भे। राजावर्रुण यन॑ 
+Så ते।इूतऽ् स नीचीना AAA 
+
+च्चे 
+अंतः निऽ हिताः के ag garanti karta 
+
+## Page 31
+
+यपं seah Anagr धातवे 'ऋ्क।उत 
+EKNE Så विध॑।चिद/शत्त।ते। राजन! शि यञ! सहस्तीः रा | 
+RA een Est पराच? कृत! at: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+DE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40% R ।अस्म व/अमी TAY agl निडहितासउज्यानचदरश्रे'कु १, 
+| २७ RR (ईयु॥अरब्यानि।वर्रुणस्य।ब्र॒ता निविश्‍्चार्करावाचंडूमागन । 
+
+श ति॥ ९४ ॥तव!त्वार्‍याभिजत्मंण्यावंदमान* ततव/आश्यास्त/्यअमानः | 
+। gi बिड शिं!अरेक भा नः इर NF EET नः आर्थ un | 
+
+## Page 32
+
+ण ४॥वव।रव/नचे।तव।दियाँ। मत्याआडु.।तव/अय।के त॑! ।ल्टुद्‌:। आ+वि। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Rr शभीतः।सः/अर्मान/राजं!व MEN | 
+
+शनः Mur Ana रिषम दित इमेव | 
+
+AUNAREN ETR विदान der NG पारा गक क |. 
+| ते! हेड॑ वरुण! नरःऽ भिशऊवयृजञे FÅ Sag TÅRAR 
+
+
+अशुर/प्रवेनइ विप्रः Ianna Ruaa nAaR # 
+FE rd lenk ål a मध्यमंःश्रथय॥अर्थ'्ययंगआदित्या jo 
+बले'तवीअनोगसशअदिं स्यास RR NYJG चित! Rå ? Rdam 
+
+
+
+
+
+
+
+
+
+आडेवावरुप्यजतंगसिनीमसिचिविअद्यवि7मा?नःवधार्य/इत्लवे BU 
+| ळानस्यारीरथः॥माळूणानस्यामन्यवे॥ i 
+| अश्वं। 0 en भिः बर्स परि Lip | 
+| ae ane gd gas चियर | 
+
+
+
+
+
+
+## Page 33
+
+EE ES PENERE KER NT RA DR ei Ek it dB bm i ७ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+Ne जल क जल 7 "ज-++ a mm 
+å सपमा र < 
+BRED kø ab åre å å ha > Te 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| कराम हे ARAIA: Hå un IE UFIQTII VET! चिवे 
+
+| Fi arna सयः। वीना आशा येत क्षेणाष 
+
+Hadma Raak marga daging तशवे 
+यःय निर वानस वतीने श्च स्य दुहतः विरैये'अधिः 
+
+| n ag arangasaa gegen ei UTE के | 
+ga vender En Re Aage 
+
+
+## Page 34
+
+- Hasfuana ४ विश्वाहा! वः। आ दिव्य/सू१पर्था।कर भ | 
+
+
+jaana iRam ua निज रिस्यौ। oe 
+
+
+> g) 
+34 3 
+oa pr TIN ee SE ६७ ७० ७ E 
+p ir कक S E a e === 
+
+
+| 
+2७232 पसम ळे 
+
+| 
+
+| | 
+
+i 
+
+EE $ vi 
+
+Å ii 
+| 
+
+
+undre दनु :)अनांनो१न टेवंभअभिःमा तयः 
+l. " hird kbs ha Renn ge EE शक N 
+शा क कक छ लीं: EN Ganid 
+4 (यन॑।मे!मधु।आः भरत ॥ही ताउश्वा धट्से।प्रियेगदश या 
+Raddiena मिं।एता PE ul NZA! E I 
+। शू धिह वं "अद्यः व! EY ULK: वस्य. आ चके१त्व। विश्वस्य! | 
+RRIT a ane eng gun TAS AT 
+न! वि।याह्ा म्यम डत ।अर्व)अ धमानि।जी tu Ke 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+5 ला EEE TT 
+
+
+
+## Page 35
+
+
+
+
+n 3 aa Dr DE यध os 2८. A a NINE कय म EE ~ s TT 
+a me III SNORT n > > 
+ER se ८४८ 55 RT “ISS ST ७००3 ० य 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+At sr 
+
+
+| हामियेध्य।वस्त्राणिऋर्जा।पते॥०) नि ।नःहोता।वरेण्यधसदी/्या! aaas 
+OARRA IEAM ne म पन fa 
+khadi aama a रि रिशादसः बर्ण AUK 
+
+
+HENRETTE Feda | 
+भ्र | 
+रण्य 
+
+
+येभा॥ NE मन॑बशय था॥ पूर्य हित: Så 
+| 4 TILT RR RONO nagarana वगय 
+_ चिरतिशवाहूयते।हबि॥प्रिय।नः/अर्क्त। विश्य धहीता/मंड 4 व 
+
+प्रियाधस5 arr NA EN ARE 
+'सश्अगनय॑धमनामरे ॥भर्थानउभर्येवा/अरम्हतामेत्याना aa: 
+
+
+
+
+
+
+
+
+## Page 36
+
+
+
+। i ॥विश्वेंनि।अग्ने/अ ण्निऽर्भिः।इ सं? त pgang चनःथा ४ स हर i 
+f: ve EN ap oa abe | र्य वसव | 
+अश्वशर्णों।सपछान!।खुस॒ाशब॑सा/ g गाया JD Jug 
+Jaan Å NET ÅT på 
+| Må aaan a rnin सनियायर 
+
+
+
+
+
+; TENNE द्वेः NE तन्‌ न थ्‌ RUMAJA i 
+Yi oske SFT ET GT) AHAIA M | 
+
+
+चऽ भानो? सिंधे/ऊर्मा उया के/आ। स बः E ere STN 
+
+
+
+
+
+MOE i KS å ds DE i 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| RaRo 
+
+
+
+
+
+
+
+## Page 37
+
+
+| af GEN जिर्यायाशताभोरुडा्य'रशीकिं al 
+
+
+र egne! षः चे उदव TEREE 
+| ध्रने।रश्मीच/यमित 
+eE i alake T KEES IEE भि:४ २६ TET 
+
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+arsenal gg dar किं असय 
+परया पि एताकर्यस्य/चि ज॑अस्ति/शरवाय्य॑धास:वार्ज' 
+a RAAR ARAN बिभ्रॅनि अस्त EAN 
+
+
+सः pA Fun: Fa Fen 
+En Agra «Tue यकि णाव STN 
+TER म ।म हवः भ्यः नर्स नभ्‌ (यृवःभ्यःन म॑!) 
+
+
+
+
+
+आदिनेभ्यःयञांम दि वाचभ्य दिया madai emna २७ 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 38
+
+
+
+E ए थः य॑ E ER E E E तैवे "उ लूवंलःसूता| 
+आ ब नाअधिः स॒व॒न्या। 
+
+
+Sr 
+
+
+व॥०'य त! चिव! RARR सटे उलूखलक 
+
+
+वात) वि aA अर ३व0॥अथोशतिं।इट्रॉय mn EATA 
+जिगझायजीइत्यांग्यजी renne au JURA gud ते| 
+रर इवाथ सि।वर्स॑ता।ता0 नः+ भय 'वनस्यतीरति सखो न 
+
+
+| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | 
+aa gairah anin व? SER garage खम 
+Fr ee कक युकी Aa ke रण 
+; पर ह. पते बी श्वेव å fang) सहस्वः चिः रा fr «VAN 
+`, पते!राचीऽवःतव।ट्‌ंसन॥०। बो fag: eigen | 
+
+०ससंदायाधअश॑नय/बो घंव।छशारात nada | 
+travbanen नति डुणाच्यएडूरं'वा HARRAN 
+he res को रा।महि'जंभयक कु दा श्वं॥०॥ २७ NST: Es] 
+दैतय वजे वनवातः च तंग सिचन भिगत बाय: kei | 
+
+
+
+## Page 39
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| ।सहस्रौया।संऽआं शिरां nm zaiz निम्ने।नारीय ते | सभय 
+Rogate engans । न! व्यच दधेगअय'्के 
+कपोर्तः3 ३ वश 5 थिं॥ व चव 4! विव चओ हे tiv r 
+x स mal E Ee TEY KEM BETN AT UK | 
+नः ऊ FÅ see ag ras कते सं' अयेषु 
+बे योगऽयोगे। तवः: तरं वा rane वामहे ।सर्बांय ड 
+AU Ep APG dang श्रिर्णीमि4ऊ लिए man RAS T | 
+dhada rn ag e Lti ted aug वॉपिला (डुवे४ 
+
+
++ 5 
+å ; S 
+å, SØKE: i ५ ५६2८-44 Re å à ERSE E 5 Si 
+
+
+
+
+
+
+
+
+त्य 
+
+
+ग 
+K 
+E 
+कै 
+å 
+å Å 
+8 
+| 
+Å 
+
+## Page 40
+
+E: 
+| I 
+| 
+| 
+| 
+वि 
+ह? 
+j 
+| ` 
+T 
+|| 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+n VARG: I Å Le På 
+wae haaha auma: परस य 
+
+
+a 
+
+
+/ 
+I 
+
+
+; je naz ARNA IRTIR l qanan Yn तें | 7 Å | 
+
+
+र्थं दंस ना+ वान! स न्‌ स निता।स॒नये।सः'न:।अ दाख्नूआ'अशिनो AE 
+
+rem rmardadkaninstaen हिरॅण्यआवत समानभ्याबिनन! 
+
+f रय सो।असैर्यःयश मुद्रे।अखिना।ईयति॥ नि। अध्यय सुरथ 
+i E कट 
+
+
+पर 
+g 
+
+
+२७. WAEN विधिणीना। RETRAT वाँगसखीवत्विनासर \ 
+
+
+
+
+
+## Page 41
+
+
+
+RizshagdharaasmustaggRsatatmen siden | 
+| जया herad दृथ्णाइचि। इयानः ni 
+RIG H ° अक्षे नुः SIT aah asana KAT) 
+| FEG KUUE CUR अक्षम? TAR: Na TESE Ctr (Å LTTE: 
+थि निगय! नाद्‌ दड Snansdaas मिःथनीनि॥स न हिरण्य | 
+
+
+
+
+
+
+
+
+
+PR 
+
+
+0 
+
+
+क 
+
+
+PEE KIKRE SES UK abate E Ae l USAR RE k BE AE SAE 
+NARRAN IA A q उवेरि॥बृयं।रि।तेअर्भन्म g 
+PUATAI IETEN ANN ARAE ANAA थिं। जाग | 
+Ra g RRNA ALN nL WINE = = 
+EEEIEE UIE EAEN EE L es ENIE th: Hlas c AEA 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+TEA eat ANRIA 
+
+
+कवय॑धविद्युनाएअंपसभ अजोयंतामुरु्ता på å be REN 3 
+
+
+afma ERER Ramana RA NMRA 
+
+
+
+## Page 42
+
+ASENET अक” T a n ४ 
+
+
+विराआऽविवास शि^ ३ 
+sv , दिः र्षणे॥यगश्रश्साता'य aknad मि निव ससे 
+
+
+EINIR ITUNAREN तल 5७ | 
+NYE ८ 75% på 
+
+
+कतुऽया। ते॥अरेनिता।रोर॑सीइ तिह Fyen 
+
+
+य NN når AT यश पुरूरवसे। KSS 
+
+
+कव्व रः garuhaa: AN A ककी Jaaa 
+
+
+VG ment तअ N ki न 
+
+
+IAA को pk EE R pf zaling 
+
+
+
+
+
+
+
+
+
+
+
+
+
+EEEE वतेनिं।२न रं। सक्म न! पिप। 
+
+
+i 
+Radaren ananas | 
+KILL भयायाज non थिं।प्रय/आ।च। सु र K EE 
+
+IT Pirater साकार IKK मा 9 | aa F 
+अपसानवेन।देवे/ध्यावापथिवी बतः ANITRA 
+Cea CE UN 
+
+
+
+
+## Page 43
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+Ea vi ati Å २. > på dr * og Me ENE 
+3 क y od AGN 
+
+
+ns lz agnado a 
+av तिश्रवऽपअदाभ्यय sanser प्थम।आयं।आयवे।टे वा।अ हू. 
+स्याविश्यत्ति।इजअकृण्वन!म तर्य, रार्सनी। na e | 
+
+तने lugg स्वात 00४77 INF रक्ष'व |. 
+हा ता! नो कस्वा तर्नये।गवाँ। असि garria KG |. 
+
+| ARIAN NE GK sk kp ESN ॥यभरा 
+
+र उर्हयअडकार्थाधार्यसे' Ian ven चिते।ले/अग्ने 
+रपय/वायले। स्पार्ट।यल/रेकर्ण।प्रमं।वनो फिंतत्‌/आधर्य Rs 
+
+
+mm rv 
+
+
+
+
+
+| å rasmga Ragen अगने प्र्यतःटे 
+ia Fagereng enes ke S 
+व!जीवन्यानयजेते ET Razin RANA | 
+NAIIRITA IRIT annan सोम्यानां 
+Kees at EE Se tene 
+ae वताम हिमा वरूदैयमरनाआसा 
+| ट्याब च्य ef gene ब्रत्म॑णाकट्धख।राची।शा।यच्‌ | 
+IEA विदा। वा ॥उत्त।ग) ने ARNSTEIN 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 44
+
+
+
+
+
+
+
+AAC शयत CERERE CIL t प॑ तनीय NJÅ 
+
+
+
+
+
+mging iin चो यानिचुकारगप्रथुम्यानावृज्मी॥अर्हने! 
+
+de dene दज 
+
+manaha Aaa aana aA , 
+इब n दक ।अदणीत/सोसानिःर्कडुकेयृःअषि 
+
+फ तस्य॑मआ।सारयके१मुघडवा।अद्तवञ्च अस्नन यु मा 
+
+EV? Serge ॥आव!सायिनॉ7अर्मिना ug 
+
+or rd नदि विवित्तेगअ 
+
+Ji ।सहेता।वधेः 
+
+MAEA A RNN ३६ NA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 45
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'महाध्बीरं/लु विउया थं। सजी षं॥न 'अवारी RENE Å anse रू 
+NR कान ॥अपावअहस्तः अप तन्यत EARR RNI NA 
+asata heraa गक JORDA! 
+RGT er अभया वार्यान म जुष शाश De un 
+Il ke tr eg åå नीचाई 
+I UNIA QIRILAN TUTARA MIREN 
+Fiada audam aA । å | 
+ना म्ये निहित जारीर॥रुचर्स्य/निण्य/वि चराताआ å 
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+| 
+
+
+ESRI SP r 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+## Page 46
+
+
+
+
+
+
+
+
+
+
+
+
+धृन्वान्‌? 
+
+
+n: ere 
+
+
+
+
+
+क का Riaad 
+दएव दार॥मश्व्यःःवार्र^ अ भवः तते FA 
+र।टे व! एकः) अय गा।अर्ञ यय शरसा STÅ STE: 
+ससि a GAV तुन्यृव^सिश्चेधान।या।भि 
+
+ERRAI 
+
+
+
+
+
+
+
+
+
+
+STE भी FAG 
+र्ट 
+
+तअ ps ma: 
+mgawa Gahana 
+
+
+amfi 
+
+
+Me 
+
+
+का डुता अयांस।उ पं गमयतः i ami aA ति बुळूधा ति॥ TA 
+
+## Page 47
+
+
+
+| ME विदाआ तश्सस्य+रा यग या के ते। प र। आ 3 वर ले। नः॥उप) रते) 
+
+
+sner Andelen श्येनः! वसति! पता भि aa 
+
+
+स्म ana {fa स्यु få 
+ES Raigi 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+T हे रश ड्र | 
+ryg å 
+
+
+
+
+
+
+भिभअर्केःय!स्ता 6४ akrana undra | | 
+
+
+
+
+
+EICI; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
++ 
+
+
+## Page 48
+
+
+un 
+
+
+
+
+
+elfa 
+|. 29 
+
+
+
+
+
+areas RR s 
+
+
+dadoa: uggi IAR निःअंधष्टा। भवदे fhaa Qaia: 
+
+
+
+
+
+
+
+
+
+anaana aggya तता सित 
+
+
+यनाारताचारुदूतःजक्षतःचाअयेथिय:रजंसः!इंडरापारेगअर्व आट्‌, 
+gamag जश घ्र।lस,चसः।स्कव तः रा सं आव) चक्राणासः प $ 
+T 7 mam FI afori ATT: न।हिन्वानास॑:। Aa 
+Miaka kn ee TEA 
+अब भो जीरम्‌ हिना! विश्वर्त। सी ॥अ म॑न्यमा नान/ अ भि/ मन्य सा ने। नि: 
+
+
+
+
+
+| å 
+ga भिंअथमः दस्यु ton Ram अतं उचुः न! मायाभिः 
+qarin अनहव न!'युय जञ दूष भः च केइ ई नि जयो तिंया। त म॑ | 
+सःगा।अथुक्षत््‌॥ AGIA sag र॒नशआव/अस्य/अवबेर्थ तःम ध्ये 
+आना र्व्यानो॥स श्री ची ने न। मर्नसा।सं।ई INA नाहन्मना।/अर हन? | 
+Jaaa gr Må faga net 
+inngangandi: व्ण” ुअबनी an 
+NARA CNAA RNANA तिग्मेनीड्पूभेणाय EAA | 
+i 'वर्जेण।अस मत! FN ugeni BÄR ALA LAZTAN sad 
+
+
+## Page 49
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+pr : ) RE ET 726. op SNØ हलमा Te “32% कः ०7 ०९ नर EG | emne RE 
+id | ee ह 
+z Í ० i ; ; 
+j Se 
+4 
+
+
+pga dene fr 
+3 pagistaan ene mente age ले 
+LAX 
+
+सला 
+
+
+
+
+
+
+
+
+
+
+
+'सशःवन्‌। योगा गम्येकू। चित अचत श्वासं अचरः 
+
+
+
+
+
+
+यता।अधेराविद्ना/अक॒ रिव्यव८॥ ४ ४५ चिता लक्ष्यसवतं वेर्‌ 
+| a mAg ara tanaam | येः हि।यंत्र। tai FE KIEL | 
+
+
+## Page 50
+
+
+| सः) आ भिड आयंसेन्य। अर समनी धिऽ madada: aa F l 
+
+रथस मंस्यादनो। र विश्वो त बिइ-॥ वरय स्कुभासःस्कृभिता > पाई 
+
+। विशन स याथः विः) रतिं।अ खिना। Raa माने। अर्दन वि/अव्‌] २० 
++ ; 
+
+
+° 
+J ; | j 
+
+
+- 
+
+
+ME in Gant FSR का य। खुनदें। | 
+
+
+REG 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+५ 
+902४5, 
+| 
+he. 
+er 
+ts 
+Se 
+र 
+på 
+| 
+j 
+i A 
+|} > k 
+; क 
+RR Å ८:39) 
+
+
+
+
+
+
+
+
+## Page 51
+
+
+
+
+
+
+
+
+
+| | e J शन सत्या! vo राऽवरनःआत्माऽईव!वार्त। % 
+| स्‌ refgd अद्यायत॥ faen! ~ | 
+
+
+rs fy हितं AF au ES farsken Aas 
+'कदाश्योगंधवाज्िन!।शसभश्य।येन।य सं।नासया उ पःयाथः॥जा/नासत्या! 
+maiging CIETE E RUES 
+
+
+EE 
+
+
+arimia a 
+रथि! बह तं। REN OE ue CUE Uia ETIE IE SIE ERREG 
+
+
+. ata gm नये ga 'इर'अवसे | 
+
+
+दुयौमिराची(अरगत।निःवेदानी ahal SPSE GEE ii aE Tai 
+` रजसावर्तेमान aandaa R maam n 
+
+) देवःयातिथर्वनानि! पश्च्यात S AAE SAP | 
+याभ्माभ्यायज्ञतररिः odes Ra थी विश्वा | 
+$डसा।बार्थमानः॥अनिःर्द तक उनि! विश्व त हिरॅण्यःाम्य। FFAUFTQAu 
+
+
+
+
+
+क 
+
+
+| 
+ER $ 
+Ned 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+. YWstfo 
+
+## Page 52
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'भाजअस्थवारथॉसविताचिचडर्भाचळूव्णारमॉप्स je) द्धानःशविष्मर्नान्‌ 
+
+
+å 
+
+
+श्यावा। शितिइपाद/अस्म॒न/रथा R aa गं।वहँत॥ शव न! hana 
+
+
+Lå 
+
+
+Retura hash भुव॑नानि।तस्ड:॥ तिख/यांवेशस वितः देउ यऽ र ए | 
+
+
+E डत सच! Rakaan gu ae रू पर्ण अंत रिशाणि्सरयृच!ग भीरः m | 
+hs सरः+ नीथः। Aza dj २ क चिरेत? कु तमो। धा। रश्मि।अस्य'आ। 
+ववा नाहो Tera कुकुभः Gram rd ste e pl | 
+
+
+KR गअशक्षमसचितादेवशआआअगात(ह र्धतएरलादाशववें 'वायी 
+
+
+| 
+
+
+k 
+
+
+Te gn buit TEA e Lat Ee Ke EERE EIEL 
+
+
+
+
+## Page 53
+
+
+
+
+
+
+
+bool (mD ¢ | 
+| po) 
+
+
+nR | > 
+
+
+'पाणिधसचिता।विश्चेषेणिः AESi ApS e 
+वो।बार्धते।बेतिं।स्यमूमि 'रूष्णेनस्ज॑सा/यो। स ARTET 
+PKT नी थः स. $ मीय! ds dat 
+
+% NALAR kN णानशाये।ते।पंर्था)स वितरितिं। 
+
+धूव्यीस।अरेणर्वः।सः;ः क | å Ragge big 
+reisa ES ® TE Bt io fn 
+PAIR भि क्च ERN saaana | गे 
+Anaga a RaR AR a: ।एरशअवि 
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+8 
+x 
+i 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+N 
+R | 
+
+## Page 54
+
+| 
+« ` 2 
+E 3 HE: 
+न A reser rene ka 
+
+
+
+
+
+
+
+
+
+
+
+'मर्वीवाजेंजसंल॥भा ला हू iA महे। हो तौर ।विश्वऽवेदसं ॥भर/ते/सत 
+= Ana NENIE मिच/अयु 
+सा हूत।भत्नं।इंथते ॥वि aring TE 
+Kazah anaha विश असिगत्वेशति।विश्‍वाप्सं | 
+त न आरि makoa धर ति।इवश्अग्न/सुप्भ| 
+; Ru REISTE थृत्‌।ह्‌वि MOSIA AMG Å या 
+Ag ्या।नमस्विन॑१उ पर्व राज आसते भहोचामि'अग्नि। मच षर 
+hiaai अति। स्रिथ्तः ढु ने! अत रचा रो र॑सीर तिपः 
+
+
+धर्बनॉजवरूमर्ना 
+
+
+
+
+
+उरू! सर्यायाचंदिरे॥चर्वत! करण्या av म्जी।आउड anda MA 
+| danna enn erd GRE! 
+
+
+
+
+
+N 7 
+जब 
+
+
+Jå Ks AEK ग्निःवर्थयाससि॥रा यः।पूरधि।र्व याऽ व्‌ उर å 
+} 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+## Page 55
+
+
+
+
+
+
+vom तायब/अंनिःनिं/वाघवड Sur gar ॥ऊध्वे। न पा हु नि!केर 
+a å अ ADE pl 
+डव याहन) I TET HND हि। धते! अरी NN GERI 
+l dns Boer: i हि mfa | 
+क विशञ हि।अरांशाःनत gsi भ/ य अस्मः धरकू यम EA 
+simana inaa ग्निः वज्रे सुः वी ये अग्नि 
+कय भंगं॥अग्निःप्र। आवत। नावन म थि।अग्निः। 
+UTI 
+
+
+
+
+
+तं॥अग्नि्ना(तुवशयरयुराउ वर्त:उ गद वं ह वास दे ॥ 
+
+
+
+
+
+=u 8222७०. ळर 
+~. NR PLEN enn oe SE नक क ——— त कि 
+
+
+enda 
+
+
+धनयत।नवेड्या asti qariz araara Ra 
+7 e 3 Asioi । सत्ततः क्षितःयं।नसस्येतिं 
+
+
+nadgarmasmåaten ९९ मकी ऊं ववर्थ मारुतं. जनतीणएथेऽ 
+
+sn pe raus Aarin ik 
+इ भि अजायेतास्वःरभामवः॥ हः | 
+
+न।निश्यामन!/चि सममव स स्नाय! का | 
+
+र admain अध्यें। की ंत्यवशर्थ/मार् तं जमेर संस्यवृङ्‌ tn 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 56
+
+
+
+
+
+
+
+
+
+
+
+ee; > >: RE MMMM N RO 
+== 5 EE - 
+dia 5 
+Ta 
+' 5 
+> 4 
+रं 
+Å 
+
+
+aiganafa Ke aangadistdiagqAn | 
+नि menes: भ्य सन्ये ताप aner 
+gd वो as an भिया।/यार्मेयू रेजते १स्टिर। हि।जान वा 
+वर्यधमादुभनि'उर्शतवेधयत! सी अर्च? हितााब.॥डत/$रवि्ि' सून | ei 
+रशकासां।अउ्मेष/अत्युत] वा श्रा/अधिवस,'यार्तवे१ ९३ थत्य Rage 
+पुृथु।भिर/नर्पाते।अ स्रं १ an ऽ भि॥मरुतः। यत? द्‌।वृ।बल्दे। 
+aged गिरीय]अचूच्यवीतन यत टया asså 3 | 
+वते ःअर्थ्वन(आ॥ श्या लिक: चिव! एवां गत यात। शीरभें। ee ARAKS 
+
+
+ESS en 
+Le, "a $ f: हे 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 57
+
+
+
+| I 
+
+
+mi av चित! आयु व Å 
+z EN Se e Fs गे नो व 
+न Fen mg DEIRA vg 
+
+
+i 
+
+
+ee = कक - wpe = ९ 
+
+
+
+
+
+
+
+
+
+
+————i——tetnt, 
+
+
+EERSTE ENE 
+YD 
+
+
+at क 
+
+
+
+
+
+Je i DD IT EDGE NRF 
+
+
+
+
+
+९-०० 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| E R 
+
+## Page 58
+
+
+
+- पृष्च० SNK dn T målaren ॥वाश्राउईई व TERZ $i? TURA: 
+| ir न/भाता।सिश्रक्धि।यदाएवा।डू षि (अर्स vår RTF | 
+ग på क AT थिवी निउ देति(अ स्वना दरम्‌ रू ता बिश्वमा 
+पर men भा or Å $ ॥मरूतः।वीङकुग्राशिः Rur: l 
+रे धस्वती:।अनुधयात।ई अश्विड्र्याभ od वस 
+RAKA RAA ता। अभी रविवार pe Era 
+33 
+
+
+
+
+
+
+
+
+
+
+
+
+KIEK CRIE EENE SER Ri ~ ।ूर्ञन्यूःऽ ३ व 
+न सत de AMENIR AIT अर्किण ॥ अरे 
+
+
+33% ह 
+। | 
+
+
+तिद ऊसनइह्‌ ॥ AAGE maa चि।न मान ।अस्य 
+श्रभवस्ये। चलो म र तः कस्य वर्षेसा। कं याथ! के ह gn! | 
+ताआयुजा। परऽ दै/बीक उतप्रतिउस्कमे। युव्या क॑अरतत म or 
+सी।मा।मर्थेस्यामा यिनः।(पराहुभ्यत! tursnatad4anga 
+हर ct आश वि।आरशा:।य al, बजाज धि 
+RANAR: orah la ? जु। RA 
+Via यति fee eg चशभ्रोरतिरआ an 
+म. 
+gAn namh ge ॥३पोर तैं। रथेषु। 0. 
+अध्याक॑मस्थुतनिषी 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 59
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| gt 
+
+
+Tao ३ miia तिं। anma EEEREN ARPANA 
+| छ भयेतमानुबाशआ।वुधमक्क/तर्नाय/कंरु rr भडुणीमहे ये कून 
+O नंगअर्वसायथोखुराइयाकण्वाय/ बि. यृष्पाउरषितः]मरुतःमर्ये. 
+
+आय व pre Ct Remen 
+TE ENTARRA ज्य वश क: SJAWUG 
+मिड भिः! मरुतः आ।न2ऊलिऽ ss दिऽ, 
+मै बिसः; टानव?! असां मिष्यूतयः। दावः0 स षिः हिवेमरुत प रि$ | ` 
+इयु/न'रूजत। दिव ह उत? तिछब्रसणः पते? देवऽयंतः त्वा 
+
+
+
+
+
+
+
+
+
+
+
+STs 
+ed 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+रेमडपभप्येलामरूत ।सुडरार्नव१इंड प्रा उर स कसरचागखा इ व्‌ हिसह्सः। 
+न रेने हिते॥ वीयर तक mens यव 
+att Så KEUNA KENAN A $ 
+ig nude ata सः) यत्ते | 
+dina Se माम ववर haaraa अत्मणः) 
+qia agaa स्मिन्‌ ड्‌ व रणः मिच।अर्य मा। देवा: सा 
+
+## Page 60
+
+far २७ १ ते। इ त/बोचेम। विद्ये बः gå banen 
+र॒मां।च वा प्रतिउ हरय थाने रः? वि श्वा। इद? वाभाव! अश्ववत" का दे बुर यंते। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee pit ६३९३४ 
+$ XC j +å 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
++ 
+
+
+Mo JE 
+
+
+| LENEN str | 
+अभश्यवव/जनों कमर न क शबानएप्र्याभिःअर्िित।अं वूः$ | 
+शद सारच erigert ass RAGA | 
+धे।नाअस्पे। बी नातरूता।महाए घने। न/ अरे अश्ति।बज्चि ण:॥ २९५ 
+थं।रस लि'प्रउ्चेत्तसः। ० लु'चि AD azalga 
+ब।पांविं। मत रेव:। अ रिः सदे: reg: वि। å: ge | 
+भर्षां॥नर्य तिदुष्ड्ला/विरः NETIGAR: qem | 
+Raiana ERE en FYN रअ | | 
+Faragha gg सः। SAGAEN २२ URETT VE 
+
+
+## Page 61
+
+
+
+
+
+
+er | 
+|| | | | 
+| Td 
+| | 
+| d 
+
+
+RREAN ATENE vern 
+सि Feen ॥महिं। झरः।वर्रुणस्य॥भा।वः vm | 
+Ee KEU INOT E EEE EENEG r 
+ATE निऽघातोःपन उ क्तार्यी: qau = 
+
+
+| 
+4 
+
+
+aga 
+०चितरृरमानात/ बि 
+
+
+
+
+
+
+
+
+न तिर विअ बिशन ae RUTEN) „| 
+EEEE S OERE गो AI TEUGE AS IEE KEEN | 
+i ske Far सवी वाणे परः Rrduzd TAJTNA ap] I 
+तस्य!ुयाविनः'भघःशसस्याकस्थितपदाझनि/विष्ातरपुर्षि4. | 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+## Page 62
+
+
+
+
+
+।पर्बन/अव॑ंध रुणी Ihanan: 
+| “त च, हिरेण्यवादीम sann धनो नि।खऽसनी१र्‌धि। 
+| (नः सशरः नयासऽ गण्मगकऽयर्थाम्ङुण गयस्य बू ह।कदुं'विद्‌ः 
+| इअव॑सं।न ।न न वउज्वारट TN ०।चाग्थि।पूर्थि।प्र/य सिः 
+
+
+uer HATAR 
+| HIN $a je हश pr KN Ka mdr eg data | 
+चिमा बोन re RTR EG TR 
+
+
+| når ट्रियात्यथा'च l सित्र/वरुणसयथा।झुडू: चिके त ति॥ | २७ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+' | थोर विश्दे। सजो प॑स:॥ गा थडव॑ is SÅ As बस » 
+
+रः म्न ई महे? यम शुक वभ्स्यः। ts रोचत १श्रे छः टेवान।य सम 
+ऊह ॥रो।नः ।कुर्‌ति।अर्वतेगस5 गं. मया य॑ मेष्ये =+ भ्ये नारिऽ भ्यः TENG 
+रतििशियाशिनि ae dg as ५ 
+
+kr zaa Ramage madR बन भ्‌ 
+| Tass EH TL EAT व gaten त i 
+
+| ens AY Tien ॥मगने।विर्वस्वद/उप स वितरं रा 
+
+DN ANNI AMIEN GR NAT JER! | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+## Page 63
+
+
+
+
+
+
+i g vær ।अरेने। रथी/अध्वराणों gs GE rød | 
+FAA sd: FE ANGELA! Far 
+३ य RAN संज्ञीक। विउउ कहा MINNET MAN 
+| +अरत्तिथि स T SE MAES be | 
+वै दसं भुन ERR TL 
+HTI an Ver aa EN T) 
+| PLEKDE ng $ तः EN 
+å FATT ES CECS] अर ।घिश्कः बेंद से। से। हि! वा।( 
+
+
+
+
+
+
+
+
+pa se LA 
+
+
+
+
+
+
+
+
+| pie bs OAE rU LEIR EEE K EEC 
+Å याज विभा३ 
+| ge Bed Fagen 
+| २९ निव Å प्मूनथवतादेवाथी 
+
+
+$ ल aaf lade Je तर! 
+थाः; ३्वर्यृऽस्वं चितासः ap | 
+Ra Na AAN E मिच/अ यैसा।प्रातत या वी न | अ | 
+
+
+® 
+
+
+: 
+i 
+
+
+Øre 
+
+
+## Page 64
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| | - kin h ।अग्ने।दिविश्युगआ। वा विर्भाः apga | 
+
+
+ड रा मातरा'मनोन don 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+असक्र मश sadanie d a 
+Fara R NINER १खं।अग्ने।व EN panar 
+'उत/यज्नीस$अश्व रंजन मनु॑स्जाता छू तर RN nærer 
+चॅतसः॥तानरि हिवऽअश्व।यिवेणःत यः३विदातंशउग। वट्भभियभेधऽवंत'अ 
+| ध्ववेश्ञातवेरमबिस्प वल Hamaran ELN Fu 
+dn ETG 
+
+
+
+
+
+
+
+
+
+
+
+
+| dre dan: ॥गिरर॥याभिंकण्वंस्या 
+ee mMm ATAZAN IA adnar | 
+FO ganen! विस, बिलेड Aiga: 
+
+
+
+
+
+TEIT QELA e RE BS 
+
+
+## Page 65
+
+
+नुव स्‌ ng ERRAI ENNEN RNE. 
+अग्न।य EA! ऽभि शन PR set वश ता tat 
+हणे ॥जज्आाए पोर तिउषाः Mo | 
+
+
+qa 
+क्‌ हासः av eda 
+: लकी यिषंति/ययृरिः। eg ripuar बा “डक 
+
+
+Pr स्यात ह > शयानः 
+१ तिर ताप्सस्मेडतिप्यसा ॥उगान]नावामतीनार्‍यातापा . 
+
+
+
+
+
+Vere bee en, “ळे 
+
+
+=> ue आहे 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ri rn 
+
+
+Jirga खिना'रथं॥अरियों वो m ग FELG 
+
+
+## Page 66
+
+
+यायुयन्ने।इंदॅवः]दिवः daną 
+SEN डवे ed शिवाची 
+। Èi? ।अ सिंतः॥ ३४ nere तिपाराएतवे यं थी तस्यास 
+R Es त्ति annalene रत 
+AAM HIRIAN IER तिसर्या त्या।गिरा॥ | 
+BAL stener शउया/अनु।श्रिय। है. 
+PERETE A मिशाउभा।पिबतं।अखिनाउ mana 
+छत॥अविदियाभिं!ऊ AEN ३८ ५ .॥३विप्रथमाष्केद्तीयोध्यायः॥ ४ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ॐ भ्अयेवो। बर mäa RaRa 
+a S iie KUE E RULET रथेनायायातं अ 
+
+## Page 67
+
+mera TAST श्यणु ते। हब ॥ अ श्विना 
+aasan aama aa n a A 
+'गछतं॥चिःसथस्ऊि।बर्टि थि विश्‍वशवेरसा।मध्यापयजञं मिमिक्षतं॥कर्ण्यास 
+
+
+
+
+
+
+'आव॑तं।युव।अखिना।ता भिस।सस्माचअवतं श्रमः यती र ति।०४ ९ ॥ 
+idol Teigiama af 
+
+
+
+
+
+
+ne renters meene DEN 
+
+
+| 
+
+
+TAM TENNING | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Te LEUE Tre t _ 
+
+
+
+
+
+aug astssefa gaat शिना॥या निं।कण्व/अभिष्टिं। नि। |. 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 68
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+रूपस्एरेगयवानास ला पुरवत mwaha hadin 
+Firs AER ata HATER 
+== saa ie न | 
+
+a BYE ४ 
+/नासव्या।/आ।ग KX TET सड॒तिंप रू वस्कः | 
+। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 69
+
+
+
+
+
+
+:सोर्मस्य। dansa 
+gr RTR GAR! यसि 
+
+न्‌ः(उ बवि।उ NZR RANGEN कलर ता/विभाउव 
+Kiani aE A A म॑तीशविश्वः रवि IFA! 
+
+
+
+
+
+
+
+
+
+
+
+
+===" mes Ee EE AAO av 7 "725 SEDER EN य DR HEE 
+A 222220 पम्प ना > = = = ==: >> SETTES 
+
+
+४१ 
+
+
+
+
+
+
+
+
+
+
+उव्रयाप्तिगमाभ्सुरतोःड यः दे।राध॑धमघेनों १३ वार्सउ षाधउछा aa | 
+जीरा।रथां च से PR KU ude ER | 
+बाति।प्र/यमें बु/युंजते। गर्नः। दाना) artunså aan 
+$तमगनामं।ण॒णाति।द॒ुणो गआ।घ/योयांडइव। granas 
+प्तीपरयेती।दअ न प्च बताई यते।उतत/ पात॒य ति। प झविए:॥ aar 
+sn sad sne data raise 
+धआसते।बि3उह्े। वा लिनीउथवति॥ए वा।अयुक्ताप य॒ः वत सर्य स्य zas 
+य॑नात्रश्अधि॥शत्ते N भिः सुऽ ag a विध्या ति।अनिं। 
+
+
+
+
+
+
+## Page 70
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+un alene R म 
+| ४२ घोनीएुह्िता।द्विधठबाधउछवाअपी। शिथः॥उ षया भाहिगभानुना'च डर 
+.' ` जुदितदिवः/आड्वहंसी।भरिअस्म 
+
+
+
+
+
+
+
+
+
+
+
+ARTUA TERRAE 
+; स्य।हिःर्lनं ANAT चे विभ्यदाइछ सि a PR नःर्थे 
+Sem on tyr nesen ४ गउ य॑। वाज। हि वे Henk 
+च भमानुंषे'जने५तेन "आवरू! øre hl Å 
+| | दयः विश्बोन्‌र टेवानशआबह्‌। सोम॑ंऽची तय।अंत रिसाव! उषः व ॥सा 
+| STENE TN rd rsradsta garden 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+३ 
+
+## Page 71
+
+
+
+OS 
+
+
+
+
+
+| 
+riag haia te: अव$बौरारूध्ये कसे'डषाः | 
+å SN qadam 
+narda स्भि'युणीहिप्राथंसा। KDE चि्वाभड ब॑भ्य व ड 
+re 2 ee दिवशाप/न/यछता त अडक एथ छर्दिः प्र। 
+दि'गोऽम॑ती2 इषस न रस्या, दुहुता। विश्वस्येशसा। मिमि श्वास 'इव्द 
+त्रिशआ॥सं। यु ग्नेनं। विश्वत ष्‌ दि। से । वास २। q जिनीऽवति॥ ५५ 
+
+उषः रेभिः adamnan तरुण shai 
+| पीखा।से। मिनः हग स+ AMG रवर यंशाधिऽअस्ठीः। उ षध ॥ 
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+no it a 
+
+
+
+
+
+| | पावकश्वक्षेसाभुरण्येवॉजनांनएअर्सु॑ग व पव्रुण/पत्रयेसिपविश्यं।एविर | 
+|| ve: GJ ke भिशापवय॑नंशजन्मांनिसर्य/सप्त/ला। Si | १ 
+
+
+
+
+
+'माह्रिमार्णारोपगाकॉस, 
+pr 
+
+
+
+
+
+## Page 72
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+jm र कल JEG 
+
+
+
+
+
+
+
+
+
+विह दिषतेष्र्घंध ८ anA ₹ऽहूत'सग्णिये डरी भिः 
+ye Sb ard las Eine MÄRGA 
+aina raaa Rm अभि Agana 
+IRR AN gr | perdu gare NE 
+डत मर कक w चये भा | 
+
+
+en 3 VeA ee 
+MRAR ARAS ट्शव FX 
+a jor ard AmA UT ed ।खधारयः। | 
+
+
+rgan aaan TAN: SKA STALIN | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 73
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ha ad inst nanki] 
+| ERRANA Ik AZE ESIE ECI] 
+DAE ST किया en नक कानद MALAVIA 
+थिडग्वाथदोबर॥ महाले चिव/अर्जुद। निध्कुमी/ पटा NRA 
+स्यृड्ह्यांय जन्निये लेडूति Ahaa gadda 
+| eten a nadating ते। बा हो) व si ता ने: 
+
+। विश्वा निध्ङ्व्ण्या॥ विश्ता नीहि।आयॉन/ये। च। दस्यवः व हि याति 
+थय।शा स॑व/्अत्रतानभरशार्कीभव/यरजमानस्य।चे दिता। ata 
+
+
+RAMA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 74
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+येय जाक दा जता सात की $ u 
+
+
++ 
+
+
+adnaga aaa anna संतंधस्वर्वानभयुम्मभवि। 
+भु SG magdaraan ईसासह add 
+«tare aadusmenadeugsyavEa: ane | यीन | 
+RUE fs ९० गर्म दिंश।यव( उठाने MNANE वं कू | | 
+ale gg निधञजप:। STENGER HAT 
+mira स्वता Lysmenrig कत aan | i 
+
+दसे यथाल Paret | २ 
+
+
+
+
+
+
+| pi 
+å F I 
+å | | ; $ E 
+F BR 
+3 i F ie 
+i |$ x 
+FRUIT | EEE ES SE EE å है r då TARR ५००29 J 
+aa aa DEN BE aina T aaa T BR हित त्यात्या TENOR Lan 0 ER RE Gap GET ia kabel p 4 कारक T कप ५ ५0७७७ a i हे 
+YN 
+
+
+| त ae त. | 
+शोक आरेहर å uR वि.अर्दृदृ७अर्भो' मह॒त्त 'वचस्यवें «कु सीवंते इ. Ji i 
+RRAN ATLITI AERALA RRM RII A! 
+TEL E N ध्यः निरेके!प अवस्तारः इ PURE 
+| stars थुः ३ई।इतः्रण्यशक्षयतिगऽयंता॥इर्‌। नमः 
+बभायासराजे सत्यः श व्याय/ rn इंद्र कुअने। सब 
+Ponsa å Renata ९९ ANER र | 
+År १३ ।सु,3र्व// सा के।ई रते अव्ये? न। वास ह यनऽस्यद। vi 
+
+## Page 75
+
+GI भिःमसःयृतः नःयरुेवाअः्यतः 
+
+
+
+
+
+
+
+
+
+EENDEN 
+
+
+EEE EEE 
+
+
+it sd FEISS A ir 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+|! वि 
+MARENI IMUR ।हिदूर/ टू रिय। बश्॒धऊ EER भः? 
+baug kida HR BTV 
+RI Aasaam vie EEK ske UTG 
+SECA IEE UT डड i 
+चातागअर्डुतशफाबः ज्याच, 'आस्यायुर्थ्यतःर॒खी ईयर 
+Vag )ऊनरय^१इंड्‌।यत।वऽनीभ्यृयमांगयअंथ॑सा? शिन तब ka 
+_परियीनऽ ईवा दितः ॥ ९२ अपरि डु चरविःतिलिवेrशवअथः। 
+
+
+
+
+
+इथे॥ रेई:'यनरङूनशव॑थीत!च dan 
+
+
+
+
+
+EE 
+
+## Page 76
+
+
+
+|लाररजेसम भु भेंगआपअरायतएदत्र्स्यायव as asai 
+Marr: ga dr y RIASAN भञ्ज maid 
+haehaa ag युञ्यवड घेव त वजयी अभि 
+
+
+| निःओजसं॥अधन्वा न।ऊडति।ह HØEN ZARLAR 
+| En Has RAT: HENSATT 
+PgR qazan EE 
+| नाभियर्साए। 4 ट्वियायव/मानु॑कश्य धनाथई उतर य: रव डू सा 
+चैः मरु त! अमंदनशअच दोः चितश्‍्अस्य।अमऽवान'अरे! खनाल 
+
+
+Bd a Få i Å å 
+EE MG i RN IIS ESI eg Ed Å TN 2:25. se SN ty, 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+dd kile E SEE a in vis ii SAA Ku PC Si i. BEBE me EE EE SR SO 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aaas इंड ते ुचस्य॑+्य त?बु हू ri agder 
+१यद।इत! थु EREE EERE LG 
+` | på IA ee TT GE JA वि तु वे! सह! था। अर 
+शवसा) ginga तंम्श्य।पारे' रभसः) विऽ ओ यनः स्व भट तिऽ ओभ 
+बैसे! तमन जे दनि वि de Sarav skr 
+TRSKU RINNA व्र तेऽ मा न ' इथि था ^ सक्च Å 
+__ इति अमा जितरिल साहा सजन 
+g aakri dn å याम पृ थिवीइति(अचु'व्यच।न। सिंधंबः रस: अंत 
+
+## Page 77
+
+
+
+7 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e ३ 
+
+
+err 
+
+
+` ञ्यः) न।उत।रषऽ x 5दंशिमदेअस्यावु ष्यत क अन्य व/च झूवे। विश्व आचुव कू 
+
+Fasdms dra ean Arad खाभ हु तस्वे।य दो. 
+Br ढ्ग्मताय्येन। नित रंड।प्रतिगआान!जधेर्थण २४ भनि aa ea 
+
+Rarua aidaa ARRI लोन 
+
+द aag ame mg (इर इद आकि 
+
+प रयवस्यावर्सनधडूनगपर्तिश! AFL दिव।अकामउकजो न hj 
+ERårandigål rede कर कर ARIA a 
+
+र rd HASILHIT भि$भूतेआभर।मा।लाऽ यतः जरितुः! 
+
+
+
+
+
+
+
+
+७25 A T A ES | Ve NT am 
+
+
+
+
+
+## Page 78
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+कामे. नयीः। एभिः भि? सु मनौगए भिः. इं 3 भि नि:रुंचान/अ म॑ तिं।यो र | 
+शिवनी done Ga dang मिशयुवस्ट्ेबसासंगडू या। रभे म हि सं ड्‌ राया! 
+hs कह पेम बाज निधप्‌ र चरे अमिर, nie व्या पर: म॑व्या। बी २३ सुद 
+।गि3 अ रया rss Fem area ९५ ENATIGRTD तानि 
+È साभासःड्बःहस्वेवु सदू} यते॥य तरकारवे दरो. बुजाणि।अभ निशव॒ हि व्य॑ति। 
+mazanta EG यःय धा।यु थे उव घारयार agasan KA रप्र ål | 
+(ओज॑सा॥नभ्या।य वडुं ड!सख्या।परा? व ति। नि व य। न मुंचिं।नाम। सा यि 
+पूर्ण foer ग्वस्य। वूर्त नी१ले। mang 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 79
+
+
+
+
+
+Š EREN LIKE E KO CIR EEE EEEE ENG | l 0 
+
+
+रवगझयंथुना/सूश्रर्वसाड पूःजग्मुर्वगयर्टि सहस्त्रा/नवूर्नि/नरव)श् त नि। 
+चंकेणारथ्या उ ध दाअडुण के सखंग्याविथ/रःश्रर्वसं!तर्वगऊ aa 
+
+टं Hs de Gre मामाची महारास) Å 
+अरंथ ययः "दर स चिडू देव गोपाः area दिगव ॑मा2असा | 
+Tenden mags ka Å नाशी ९६ म j | 
+ न/अस्मिनामघः वना/पृत्तरसअंईंसिन Randan an 
+
+अकेरययनर्य॑शररुव व! बना कुथा।न। सो गी? नियर्सा।सं। जार त/अर्च! 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+å 
+
+
+_ाघपाजौतसतःर्षत्तिवददावतःजनंपरातः ्न्यःत्रतियम्शासेडन्वतिमइ॒क्ञा। 
+
+
+| 
+
+
+bred Rå add इंड स॒हयंनःजभि'स्कहि॥य*धुष्णुनाशवे 
+| सारा श बरळ pit på निः संजतेगअ RYGGEN 
+
+
+व्य।वचःस्वऽक्षययस्यवतः छूबत्‌!मने॥ शुह्वर श्वा।अर्स:ए। agn 
+
+
+| i । हरि भ्यागडूषृभः। रथ हसः बं। दिवः डू हु त: साने के पयः! अ 
+
+
+बूषृता र यरो।थिनदरय व!मायिनःब्रं दिन।मेट्नि। ga kremt 
+| भरा इतय fin fra TNS FT योनी JANIA 
+TS EG me sero 
+menu १७ ॥बे/भाविथ।नययी तुर्वशं यह ल तुबरेति aaa 
+
+
+| 
+
+## Page 80
+
+| | 
+| | 
+
+
+तोइ aar तागले। रॉ शर्वा णक व्येग्वने। प्व नवतिं भयः नव॑ | 
+
+
+Nuys AF शिया वअर्समाशचाअस 
+मनीषा ्सासऽपाभअय॑साससंत्‌ निमेये. उर्व वर्थेयंतिभम हित्र 
+
+
+Aigai ता माका चम GET: 
+fen उपय Mg > ॥अपा। अति 
+
+
+]धरुण हूर EGGET IAS WANN $ Ori | | 
+vm १विखा4अनुःस्झा ganen: sd NERE | 
+
+
+र 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Le 
+
+
+
+
+
+
+
+
+på EE Aas TL डाळ - 
+क OG ke pia - 
+M: ; å | 
+
+
+
+
+
+
+द TIR | 
+rg M ) 
+Afar 
+
+
+
+
+
+## Page 81
+
+
+
+
+
+
+Too mrsa 
+Xe ARRAN ९८ ग वधचिव/अस्य।व शिसा। bus भे 
+| वी।चनप्रतिं।भीमः/तुर्वि झुव/ चर णिर भय) Fv | 
+नावंसंगः।स/अर्णव4न/नयं।समुद्धियं। प्र nm: Garda: 
+भिआइंडु।सेसंस्य।पीचयें। namana RAA नस n 
+
+| tigaina धर्म था इरस्य ut वीर्येणारे 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+å का PANJU: Ranana haaa 
+AAEN EE E UDELE k EE E EREN 
+
+
+
+
+
+
+
+
+
+
+
+
+
+र I 
+
+
+
+
+
+
+
+
+## Page 82
+
+
+
+
+
+
+
+
+t 
+
+
+z लिक निमज्य! कगेति 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+।व्सियओअंसा.नेभ्यवथअध चन/श्रवश्ट्धति।लिधि मते।इंड्रा य। वज्त्र। नि: घ निध्च | 
+
+| AE ९९ ॥समहिश्रव॒स्यु/स दना नि)कृति वा नःओअसा।विः ना. ol 
+
+l ter fe कळीसर्तवे/अपगरूनवी | 
+
+नायी सनधसासःपावन!अस्त eta i अ ECSU NA a 
+
+: nt येक तमाल Ramai ति।गर्णयः। आः क्षि तं? | | 
+स॥थिभर्षि। ह॒स्तये॥।उत kaka नविश्रृत। ट्धे+आऽठुंतासः ame | | 
+
+
+
+
+
+
+
+## Page 83
+
+
+€ gås भिभतनख तेक ववःड्‌/ भूरयः २०॥एष:भापूर्यी::अवातस्याचू ` 
+
+
+k 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+ऊलयीइंड। सिचि gå ned ana å DN EN 
+
+
+
+
+
+
+ह z 
+
+
+aimada aandaa Raan: 
+
+
+3 y Fi 
+
+
+(वियद? giani nia RREA] 
+
+
+gn रावेसाजाधते 
+
+
+| i daaarna ea AARE 
+
+
+å 
+| 
+
+## Page 84
+
+Å 
+
+
+
+
+
+
+
+
+
+वरुणाधिषे।ओरजसा। ER mean सब्‌ म 
+| सुभ KAEN AR प्रास बायत Las 
+यातु वसें।भ ति। भे वं वप्रवणे।य स्य॑हु:3 ध ररा्थ 
+ra dnne GJE असवारच्या 
+॥यव!पर्वते। न सुं5 अ ति 
+agn Taft नातसंतयुभरे rot 
+5 
+
+म 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+'अव्यानायोयां då ते! द्श्ण्यय।र शआ 
+क न we + aF$ NET 
+
+| ~ विद्‌ ok i pin 
+
+'स॒वेणि।महा नाअरेण्यगवों IR Rana mN 
+
+
+यैत्‌ः(इंड्स्य। |. 
+
+
+
+
+
+
+
+५48 : 
+2747422 
+
+
+| चृ७ प्रू७ 
+AN 
+
+
+
+
+
+## Page 85
+
+
+
+
+
+
+E Ar द e Ee eae वधभामविधाआ 
+
+
+EE वी 
+
+
+
+
+
+fans EY 
+
+
+
+
+
+Fine EN UE Seg कवि 
+Hai» Ne td åt i | 
+
+| ५ नूत तसे विश्ते। E N ARAR | 
+न: टृष्‌। यसे कृव्णे ते? शमः रू ana आ। वात चो. 
+auge) SEERE 
+i raiak 
+glada aua UTA ॥यरेंण्येःसिचे ele e E e EET 
+UES SEEE TE AE कणते अध्वर ।आप्निं। विश्‍वेषा 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 86
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+IIIS EE 
+
+
+गम qitada शर स 
+
+
+२०६. 
+
+
+| डा भि! आनकः green | 
+
+
+
+
+
+
+
+
+
+
+
+
+य) आ। शै न रश्मय: वा सं/वैश्वा नरे। द्धिरे।अग्ता/बर्र नि : 
+red reg ANNY TAA 
+
+: E:N] Vader Mundt Jure ऽ वते व्ये 
+रष्य्रायः पूवः वेश्वानशये। Mh Faen 
+æraer रिचे। म्‌ Rest मां।अ Rumo! 
+kalaa g ng aR बं। दृवभर्य वी चं ये यूर la EAS 
+ei in xn i AH 
+
+
+
+
+
+
+
+## Page 87
+
+
+
+
+
+
+
+कि 
+
+
+F- 
+
+
+| वेच? वे शवा नरस हिम्ना। विश्वः र दिमभारवऽ वॉलेष/यस न ५ विभावा 
+å | K 0 ERR | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| ३ (भि आनि परुः गीथेश्रवे! सदतां वान २५॥ब 
+थ ne थस्य के तुंगसु अ अन्य हू त॑। aa festere ts 
+है व। भ्र5 शा सले। NETT a ng श्श्वाधअश्य।शार्स;धड़ भयी सः 
+ainaani ये।चु।म ना दिव चितापूर्वी॥ निशसा रिह 
+पाप्या वृ छः! विश्य तिवक, वे थाः ते नव्य सी। हू र्‌: आमा add 
+स्मत! सु pran SAEIA! UEH मार्च वासःप्र i 
+
+HRANIA RURA um MA 
+Rar maan maaga AnA न 
+
+
+## Page 88
+
+
+
+
+
+niema eare dine! dama es 
+शन! बाप मर भ non २६ ५ ।इ्तरर्कुर तिल 
+:। न। द्‌ भि। स्तोमं? मा दिना य ॥ स ची ष माय अश्रिं गवे।ओ हूं। 
+यब्रत्माशि।रातः्त॑सा॥०१ ग्रय॑ःऽ इ व।पयृं सि।भर्रा मि।आं 7 
+KE NENNE मनीवा।मूत्ना यप SÅ: 
+au णत्योड प मंस: ऽ सां मरां मि।आंगूवं। आस्ये TU मं हिँ 
+लिड भिः मनी नागर डिड भि? सूरि ब्‌ द थ ध्ये ॥०।स्तो सं से 
+नो मि) रथे! न! त fratas सिँ नाय॥ mb च। गिरवा हसे 
+
+
+gt | sg maiat ० 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+| Gog 
+| 
+
+
+| 
+| | 
+| अस्र, | 
+
+
+
+
+
+
+
+
+Gio ; 
+i prai श्र । 
+य। दिं न्वामि धिँराया। ० as इव! TIMER AN 
+ड pe ॥ वी रं।हा न: ओं कसं? वं द ध्येयं रतः श्रव EA 
+0 २७॥०॥खशात कषद? वचे! स्वच॑:3 त मं खूर्ये रण्य TIER 
+
+
+।भानःसचंनेवस यः महः पितु वषिऽ aa an 
+Fe 3 dia यान्‌। विध्यद? व्राहँ। avana pl vi | 
+| विवयः वंशी ईयः अर्के आहर खे।ऊबुरिडु परिया 
+
+## Page 89
+
+
+
+| 
+
+
+
+
+
+vår वी जेखे/उवररतिनाअस्यातेशति!सहिमार्नग्यरि!स्तडतिं | 
+| न AMS Sa) RA Ars! Raugfrenuqkisak 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+angs राट डा Im AR: KS DE SA | 
+ne avgår बेत बह VARG gs Edu नाणा: 
+re ha db दा वर्ने।सड चेताः २८ a ol Na से 
+uka सी। जय mantra! NTG तु 
+
+
+तये)या धे। तुवेणि/करि तिंक॥० भ र/ लू तु जाने: ङा वज्ञ 
+NAN R ARRANA LAA सि+्वयां। चर | 
+
+
+आस्माश्यु प्रन | | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+शः शी 
+
+
+JE å ok r 7 गातच y ær Mt, "ण 
+på i PG t Å å 
+fa ' ९ | : 3 VG 
+DEE : f f ENA 
+
+## Page 90
+
+å Å i i द र 
+få E £ $ | » S 
+(ie á ag धु | $ 
+l | | A 
+Ii i, EN s | 
+| * | 
+| | 
+i 
+
+
+vet शिं॥० भरा हि।चूव्यी रणि।तुर स्था क सो णि। न ब्य उके. यृथे भ्य zan 
+FE आयुंयो å uam Anio ea | 
+न | Eur dr az n | 
+१... | Ess ॥०।व्यद'्जर्चदाथिएएषा र्कः 
+| mA narimana senda 
+` ` बवादंडःगएवतेग्हारिओयाजन'कःडसि दीर ल्नाथि। रश त॑मास å 
+| प क नश आ।एव्‌।विश्वऽषेदाशं 'थियं। थाः ० NRN Q nolaa 
+
+ति पे प्र थमा जके च तुंथेव्या यः स माध? AROTAN 
+
+
+
+
+
+
+
+
+N 
+
+
+rir mr ean 
+
+
+
+
+
+
+
+
+y 
+
+
+उ 
+
+
+| 
+
+o श्रीगंणेशायन मः॥ॐ aa श दसानाये। त्रय आंगू।गिर्वगसे। अंशि र्‌ 
+
+| स्वरू कतऽ भि:। स्ठवते। सरिगयायाअचो मम के। AL bøk FUD 
+
+## Page 91
+
+
+oo महेन भ रक्वंभआं थूव्य दावसानाय। a पूर्वी पितर:। 
+
+fs: पदूः muada: जाम कई FINT ed | 
+
+| ब!सरमा।वनयाय।धासि॥ रुहस्पतिं! NARA = | 
+स्रियांभि बु GR भा।सः।स्कृभा। स घ। ut 
+
+| (न ge gare र 
+zand anemais rea वि? व उ वससे 
+
+Å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teger VP RNS 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+EG 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 92
+
+
+
+
+
+
+| fine अभय: ्‌३्‌। सानु। रिवः]रजं:। पुषरे। अस्त भायः : 
+॥ URR उप मकर मर तब j 
+Huus व उतत मता ही मुंड अणेसः। न्यः! वत॑ः दि. 
+MRI augas gasna केइविसऽनी3।अयास्यः।स्तवमानेमि। अदेः 
+
+HAR ऽ यमच! अ थांरयच रोर्दसीइतिं। सू, 55 
+MATURI परि! रसा विर्पिइतिबि3 रप्‌ ।युनःऽ सर्वा! युवृत्तीदर्ति। 
+भि: PSB: अकता उथाः। रुत्रांचऽ भिः। Ge sfo ar ही | 
+aE ॥सनिमि। सरय।र<अप॒स्वर्मानः। स्स्जुः। दाधार] 
+
+
+
+
+
+if 
+५ 
+i 
+
+
+। | 
+PE EG RE 
+À t रू चारोहिणीचु nan ys torai å | वाचा } SAT i 
+।अम्रर्वाः। ué: डमिः॥ पुरू! सदखा।ज {ana LY: i gen! l 
+बुसारः॥जङयाण। nyaaa Au: । बुस ad: I 
+nagaz E ga पृत्ली:]उळाती शल FU खा (धाय | 
+å 3 बृन्‌। मनीषा सनावा एव।लब। amped | 
+स्वति!द्स्) TUGRA KF मान इंड! fit शिक्ष s T 
+aada Nanga mR अवशषन बह | 2 
+
+
+
+
+
+Hi TR 
+fi 
+| के | 
+
+
+I 
+* 
+
+
+
+
+
+
+## Page 93
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+te 
+
+
+å 
+Å 
+
+i 
+
+Å 
+
+k 
+
+| 
+
+E, 3 
+s 
+
+Ri 
+
+
+I 
+
+
+| कि र caii T F 32 EE EE === me an 
+| | | , gre | 
+है. erten BD agaaa degree) 
+
+
+माया PINT: 'टथिवीइति। अमे घाः। य॒दा ह्‌! विश! rare नभी) . 
+Feed किरिणा ना ऐन! आ यवाहरीरति इंदरा विष्वता वि: आते व 
+MaR धात येन जूविहर्यतक तोइर्यबिहर्यत3कना। खमिन्नान चुर * | 
+5 ET t nee gantikan IIS) | 
+Mendes ar: nN pR यु: मतें।स ची! uA _ | 
+_|हु। यद! इंड! चोरीः। सरवी। RIU IR इर्षडक मैन उन्ना:॥ य द। DAT A 
+poa प्रावेः वि। HÅN aka रुथायाट्‌। ५ renser 
+
+
+| 
+
+
+
+
+
+
+
+## Page 94
+
+
+
+
+| | लसिका | | 
+
+
+«i | Fuad reden Meal आ।काचचाः। af FIT kran 
+TAR अमित्रान Neo STÅ set Hi: भा J$ आजा!ह्वूंते | 
+
+
+g बु:।इये।आ। md EGK JIRU 3 
+ng ga पुरुष्दुत्ताय। Søn TE: nafé nya gre å l 
+Ranau बरिंवः) R aR ARo खं ्यो। न:। ३ 2। देव) चित्रो। 
+आप: न) पी पय: sr श्र! तिं! sad AT 
+जै।नाविख धे कषरध्ये॥ अकार लिई गोतमेभिः बह्मौणि।आ5उक्ता न 
+Han stash वाजी आ।भख an vu sri) | 
+| ATRA. sh मा 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+| ; Fr få ey AER RENT: frest 
+» ९ सः इहर्स्य:]गिर्रः!सं ] FA RY kr sp कि ड़ 
+क्षणः रुद्रस्य! मयी Sr ada पावकार्सः! छ चय सया रास | 
+
+
+
+
+
+| | aaz: घारडब॑विसः॥ युर्वानः रु दा! अजरा अधोस्‌ बबु 
+
+
+## Page 95
+
+| अपिं गावः। Far sansen विद विश्व चुना नि। पा थिंदा per 
+
+; PES दिव्यानिं। मज्मना॥ RTA a मिः। ARAA FIT t 
+
+। मर्धिथिविरा!रफसे वसे Eg नरछर्यः।सा कं जि की 
+| ; => rå j. AR | 
+| | धया! दिवः।नरः।ईच्रानऽ कर्तः। कर्नयः।रि सः] anaga ER) tag - आला. 
+
+
+| भिः। anger Sn दिन्यानि घर्तयः sea stenen € 
+'चिचंतिःजञपः!मुरुव सज्टार्नवभ पर्य:छत<वंद विरथे जाऽ शु स् — 
+नामिटे।वि+नुयुति वानिनउत्से! इहंति। स्तनर्यत! अश्षितंगमाहिषार्स माधि | 
+HR ran adaga: मुगा: ee | 
+दथा/वना| यदा जा#णीषु। N ean सिटाः3ईव! नानदति।त्रश्वॅवस I 
+FETTER aa eanet: । जिन्वन उर्षतीसि:/तरहिए सिं:से 
+इल! सुऽबार्थः।राव॑सा afs मन्यवः॥ रेरसीइतिं। en वृता गण्‌ऽश्चिय्‌ः। | 
+| Trunda: net! व धुरेंबु! आभतिः। न।द्रता।विऽसयुत्‌। न! | 
+
+
+
+
+
+
+å 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+as: e | तस्को! YET: रखेंजु! जुः॥ rar: । र्‌थिऽ AIRA: as feb | | 
+| & BAA बिऽराशिनं:॥ अरारः Rum En अनंत: राय 
+
+## Page 96
+
+ad FANGET नर॑ः॥ ७॥ हिरण्ययेिः॥ A: सिं: पृय्‌ःऽरर्धः।उस्‌!नि 
+जाड Yr TI FÅR STN EFS: Is GÅR 
+“मुरु शा ल॑वउनरहयः।कबु। पावक! ad Rf रुडस्याखलु 
+aa et ras gå ववर्सीमारुवे। गण! ऋचीषिणें। ।सुश्चृत्‌।| 
+Bu gr मर्व:।शरव॑सा।जर्वानए ef गवु । ऊवी/ मरुत। यं! 
+| ninal वमिःयवानी सरवे! धना। रु सिं। आर्या gen लि वि| 
+
+
+pk RI 
+ac id P 
+ME MERIT. 
+
+
+. जिष्यति॥चर्कले।मुरुत॒ध एवउसइखर मं ता an nede gen 
+| Å res तोक! पुष्येम! तनय! ng Ree 
+tdi fate GT शिन «Fet 
+
+gare ad gagne ve धीरा! | 
+
+दे।अली रमन उपा ला! Sen दिखे । यर्जत्रा:। रतस्य वाः आजु तारु = 
+
+झर्ववापरि्िः] यीः) arv afa Fiond: TAKEN अवर ह 
+
+नीरे AAN ना TETTERE न! छज्म। 
+
+सार्द्:। न राउस॥ अर्य] न। जज्मन! faer सिंधु Øre 
+
+
+
+
+
+Å 
+
+t 
+E- 
+| 
+
+
+१ 
+
+
+re FUNNIER 555: w 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 97
+
+EEE nn anm EP 
+>. वि > ER £ å 7 p y, 4 ४८ 
+
+
+TOR 
+å 
+
+
+
+
+
+
+ADN | । वराते। जामि:। सिंशूया स्रार्ता saget रर्व्यांना]न रा जा। च्नानि) 
+६९ anger ard sagn वनी] वि! Ah ey, å 
+| af gas må न! EUR ति Fange: 
+| सर्मुननावेधाः ऋ्वऽ जातः 96 ATEN LBAN 4 
+राये: ।नचिजा ET I7!) संडच्क जाय॑ नाव्या नि यः! 7) - I 
+Et eV ga ag ar GER रा 
+| धारं सेमे råe न) रण्वः। यर्वः ना पक जवान Rare Ee 
+| बा! विशु शस्तः वाजीlना ब्रीतः। बयं रघाति। ST SA | 6 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+G an रर्थः। न। रुक्गी। चेष। GARA इव साअ दधाति । 
+y mey TIAN ह| जात:। GAP जार; के 
+नो) पर्ति। जनीना। annet वृये।वृसत्या। अस्ते न? गारव। न्ति) र 
+NE ना क्षारः ndla न बुत गावस) टार 2204 | 
+निंषाजा बुः मवे! मितः asså राजीऽरकाजजयेसेमःनासाषुः | 
+हिना सड उवद! कऽ भाधीः) होता EG इरा Fr TT 
+
+Ren अमी दिवाना घाद! यहा निउ USE 
+
+
+å åå 
+
+
+ऋतु न। dear योनों। अरी Fen gen मार Fann | 
+
+
+## Page 98
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+pe नक 
+H 
+
+
+amama aaua सा!दाधारीट | - 
+fy तस्तसै। I HALV: | GÅ: || dt पृटानिं। ULF a पाहि] 7 | 
+
+
+
+
+
+
+
+
+— 
+
+
+Ha भायुः। अगेन! K pe यः र विकेता गुर । aiin 
+naar धारा।जूरतस्य रि येष den सपतेः sner | 
+बरूनि। VEST] 
+«KER GJE S: षु अंत रिति चित्तिः! अपा दमे es | 
+Hen धीराः।संऽ माय I N faste 
+
+
+रण्युः। स्वा तु: चरथ शक्तय! विईणोद। परि। यंदा एपो। एकम विखेंयों। र Be 
+[देवम देवानो माहिरा] जावाई वकती सुचना शाव ययः देव! जीको विशी 
+विषाः ममता विरे देवश्ले नमी! नरते। ते सर्पेत त अम्टती वे । सतस्य | | 
+RT Årsta Argent  | 
+Teenagers | 
+tiaau परतिभरयीणा रळेतारेल मिथ तर | 
+KE LTTE rer gangen कतीनुषंत! ओम ये I 
+भस्य शास Jetta sett | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+## Page 99
+
+
+
+, rT r I — - SEE 
+ग | 
+
+
+
+
+
+
+
+
+| Yay p ।रमना॥ १९॥ AR: शकान्‌! उषः नाज्ञारः। gm समी चीर तिसे* 
+
+ध्द । दिवः न| ज्योति परि डात seat y ।स 
+> anse APR ऊर्वः न! गोनी वाड Gina 
+Wimp सनमध्यी निडर्खत्त:!र॒ण्व:। 
+
+
+FUNN पुजः]न! सात: रवव इ 
+राणे! वाजी।न। ब्रीतः विदा वि।तारीत! वि यत må as सडनींळाः| 
+
+
+अन्निःदेवृऽला। विशवानि । अश्याः नकि, बे! एता! ENDE 
+एभ्यः! ee तेव! दुवे! दंसः] यदम eg x 
+
+
+EMERE ANSE सन इसा सतातऽर्यननिते T &> 
+rn A, | 
+
+
+
+
+
+
+
+
+ET SETE रण्व न! नवँत। विश्‍वास) दरकि९%॥ वेन 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 100
+
+
+
+
+मे।एवी। अर्यः EG Si EGRE SLU CEIRI EVIE uE pk | 
+तिदित कर ररणा rer Ene की लू 
+स्ढांवागर्धः| चरथा। अशे [तरिवाजस्मा अंतः UG ।न्‌। विशव 
+As mf दि क्षपार्वानआम्नि Ryl TURAR: sia 
+४एता।विकिचुधाइमंनि। पाहि दवाना जन्मे। म ag ।विदान्‌ व ना 
+यापुर्वी: FF स्त Eiei दिती!खरानि$ 
+सेच छण्वन्‌।विश्वीनि सखा Åga eda 
+ARUP ता! नर॑ः पुरऽ सवर्वित RREA 
+MPIRA pg 'यावाशवा TENG GALEN १४॥ 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+doge. उपा जिन्वन! उचातीः। उचा में वतिना नियत नयना स नी व्यः स्वसाराश्या | 
+
+ev वीं।आअरुषी।अजद॒न!जित्रं।उच्ती उबसे। यावे बी निद क्वा। वितर 
+IRAIA RANNA: anah ब | å 
+इति।अहरितिं। Ra R !उस्थाना रथन धन यन! अस्या धीपि।< 
+
+
+'आंताऱ। राला नासहीय aiam adnan | å 
+रसे! द्वि।क।अ रधा न्य चिकित्वान स्टेन अस्ता छयतारि | 
+पु।अस्मे।स्वायोरेवःडुहि व्‌ १५२३ जायःतुस्यरमेा। | | 
+
+
+
+
+
+## Page 101
+
+
+| 
+
+
+| 
+| 
+taape | ai 
+
+
+
+
+
+
+
+
+Ne 
+
+
+
+
+
+(बिउभाति।नमंधवा। दायाद उतः आनुना र्धोइतिं। अग्ने वर्य अस्य! हिऽ 
+बहो ar UT igen ra: भमि! दर्श सनते।सम्‌ 
+maaka यदी न!जामिडभिः।वि। EEEE RIENI z 
+Aamann A FP H d AG! 
+Mg fraa न चाम | 
+| JATA: IAR: रर लि IV Kal ॥राजंना'चित्रो — 
+E वरुणास a my mår RAR on mia AII Í- 
+n NATA AAR RAN. oen mAN 
+।वस्याँ ess हि॥।१६ नि!का्च्या बेधर्सः। nada RIR 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+तालात ग å TTS TT किसी 
+
+
+VAN स्।रधांनः। नय 
+
+
+ARE ० A 
+
+
+नुबका एरु घगजी वसे! धा2-अंतःड mat pi 
+Ta ruan हविः वाट Gen ef द्वि आ सायकः राय (डर !वि। 
+sara विहत! TA सरमा ह कू उवे थेने डाक मा देवी! NAT 
+
+
+मझा मुहचडमि। छ eda माता er भा यले RR 
+
+## Page 102
+
+
+
+aa AAAI ARN: 
+E AE EEE न विहना छ å 
+मरा NARA परऽय) fra ENE = ANS जग्नेःविसः। 
+pe KRG IIIA 8947: सपयोन NA 
+Ke ट्येवात ताः॥आरिदः हुती 
+दाना; प्र।दद्धिया।जजिरे। य ः॥ ss गन्ेमऽर्धिवा। 
+ARNA Tiger र्‌ऽवोसे॥ सृश्ञ)नानाः॥उर्ष! ETR 
+मिऽक पलीऽवत IJA मानाय | च 
+
+
+
+
+
+ETER Fe Ann १७॥ Rug यवा युद्यानि।ले 
+।र्‌। यरा egen निउ हिता। यज्ञियांस॥ति मि£। रख ते। भ सने।स र्षा: 
+TNT TÅ व पाहि।विद्वन। शन्न वयुनांनिशितीना! dr 
+
+«tp Í | 
+
+
+=- am य 
+
+
+
+
+
+Tonie gan ae ह ण्वानासः। अमतडलाय। TEN 
+यनि।दघु-चार।असख्ि ना रिवय यदा अशीइति।अगता। अर्रण्बन 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ai a ७७७ ८. 000000 अय्या 
+
+
+
+
+
+
+
+
+| | 
+
+ar पीक्षरंति।सिधंवधनारुशः प्र।नीचीं। जगत! अरु॑षी। अजानन्‌ ॥ १६ A 
+
+## Page 103
+
+
+EE Fredag: क FRIGG, nel l 
+
+| अतिंथिःनाप्रीणानम होतोऽइ्वससाविधतःवि। तरीद।टेवध न। यम सविता 
+सत्यमन्मा कतानिऽपातिं AITAU IEIRA perena | 
+MNNG: RaT KSUR P वी। विश्व था या । उपूड 
+FLAAT ANT 
+
+
+॥पुरः:डसर॑ध शमेउसरंधन।बीरा eg या।परतिंतु हाई 
+रवा नारी ले å Fioni Adia 
+Er रकम lea, विश्‍वड 
+
+
+rear naha 
+STI SATTE सहर र्दत IRR 
+
+
+
+
+
+वाजी से *रथेवु।अर्य:। शा गं। रेवेदीश्रर्वस रधांनाः॥ ३९॥ aam । धेनबौः। वा 
+दशनः स्पशय जीभ पीपर्यंता युउत्त॑का:॥ usage भिक्षमागाऽवितिं 
+
+
+बः।समयी'ससु।-ज॥खेरवि।भुने।शुऽमृति!विश्व॑सागाधटिवि!रयः।र 
+rare ANNAA LIK 
+
+
+
+
+
+FTP NTS दु! 
+åg RÅ gina aada gaz: je TL GS 
+z PST ऽईब। बिश्व ge Rana सीति 
+ieia asa a terda 72 gd vag 
+massan imna पिदुऽङ्निस्य।रायः। दि) adina: 
+
+Fergus sete तुर्टांनिसंतमनसोह्दी चार 
+
+
+
+
+
+
+
+
+K 
+å SG 
+SR å 
+
+## Page 104
+
+
+
+
+
+
+ERE 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| ५ 
+देनी JY | 
+
+
+
+
+
+
+
+
+ii 
+f 
+
+
+I 
+
+
+Fogo केभो राय FAN र å जरधिशिबःदयऽभच। र घौनाः॥ ९३ प्‌ड भयं 
+| ६० Benner शण) यः dg 
+HAAG EE षु å Est EG ने तवः।उ व 
+व नल अनय ण] यस्वाइते।अ सि।क्षयें A 
+å 
+
+सभयृहारतिं॥जनाः। आइ, Rasa हि स्व SE A खनाल ह 
+Raai हव्या) सउज द्रा बी तये। न la PÈ 
+ORLAN ERAN ANAA या ed TRAINA 
+
+भे। KER STÅ: प्रा INNAN जरणावा[उता युव्मत। सुड 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 105
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DE 
+
+
+६७ 
+Bs र | 
+
+
+यॉचरव। आग्ने!विवास त्यना वे ee AG अवमे 
+नभ देव सेरःऽतम्‌॥हुव्याजु्ी नः Auda 
+धःडवम। त्रिये॥वों हि सानसि॥कःवे।नामिःअर्नानाअग्ने। क / राश 
+OPIT काहाक Se hue ECEE IGEL Kezek] 
+IIAG AEAT is kar NAIRÅT 
+| LT य Find zaan ते। उर्पडरतिः।मर्नस भुबंत/अ 
+Srarsdan का। मनी षा। कम यापे परि। दक्षीति! जापा के नी वा। वि।म 
+| modne RIAM स, AG एता 
+
+
+ansat TARR रन्व यज Å साये 
+NATTA vr यक्तानों अभिश 
+
+
+TT EEES SEENEN DAS 4 सय NE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 106
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+4 
+
+
+वज्रः जह Mifin चकमासुररान्वे।जला।व॑ता। वर्च॑सा व 
+
+
+Gre 
+
+
+| 
+| 
+| 
+
+
+| Å 
+
+| "५ 
+r3 
+E. 
+
+
+| 
+f 
+
+
+
+
+
+| 
+
+
+|. 
+
+
+य A 
+
+
+Feed: / 
+Fuge Rat varer सखू! de are 
+
+
+EGEE ५ 8४ कृथा। रारो म। अग्न ति का। å Sv 
+
+गी यृगर्भलेषु। भरतं f: वःवा!री paiz z ge म 
+Aidaan MAATA, NS Er भूम्नि I 
+
+## Page 107
+
+aaia arter 9 जे धांति। मन॑स यृजाति।सः।।ऋु।स tp DE 
+URAMAT AZA FOEDE DEE CEEC EENE gr 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+he SEE 
+
+
+$ 
+
+
+
+
+
+
+
+अते द्स्माजारीः॥सभन:!ळय्णा तमः nmd: 
+बसाविदा थी विं। वर्ना FGR qasiqa दविः वा्जऽग्रसवाः इषव 
+| मन्ध टव अग्नि: गामिभिः ऋतऽवा RAR erre जात राः 
+— qpr ।याहि।नो ष. E EN 
+nat SJ TT AT: ss रः) िऽचषेणे। gu 
+ग्र।नोजुमः। तंऊ इतिं। खा SE ae RE EU |... 
+
+EN रस्वव।हवामुहे॥०॥ Fe SARAAN] . 
+।०ाअवीचाम।रे ४ अग्नयो म धुंड å je Sik: A 
+
+
+
+
+
+। रजश्च विऽसोर। जहि घुनिः।वावऽइवा भ्र 
+
+
+CC-0. In: Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+## Page 108
+
+
+
+Grete वराः यसत EG भा eE KIOK TEES 
+g ARa: ar डवः! GRE Ran.) So 
+
+
+
+
+
+
+
+
+
+
+ma [१ सुनयेवि।अश्या। ganga TTi 
+ad fr धये Gag” Rama È 
+PE i यानो अग्ने बार्ज hs मतः ईरान सुहसः। | 
+TRES RPR ET रधान: Ts ककि आनि 
+Ja गक avgå अनीक! टी राजन ISA Å 
+अग्नी वरतो।उत। उषस! सः) तिग्म IN or मति २६. 
+ब।न।अग्ने।उ तिं:सिं। गा य॒ जस्य ऽ भेर्मेणि विश्वासको धी दु) बस! 
+
+
+जक à 
+nn —- 7 या Ireene <> El sep 
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+।ञञःरयि भरासन इस हँ। PEAIRT GASK! सर शा | 
+TEE दलाइ मा YR stats Reus | 
+।वाच॑ः। ग इ । लरस्व।सुस्न्‌श्युः। गिरः यः।न्‌ः। E 9 
+i सति। gere सः।जूस्माके रता ह धे। EINER 
+क्षः। वि å जनिः रतो nr Yr 
+2 å था।। सोमे।इत्‌। मरँ। बा ना 
+TEN Ceni: शशा आठा rer seie: 
+बी आमुर्त हुया।मुट्‌ः।सरमः। श्येन अटः र 
+(भतउ BT GA ANMANN RUG य 
+
+
+
+
+## Page 109
+
+
+
+Gsi ७८०३०७५ ५.५५ E a E TS OAS SIO SSS a M N EE å 
+TN i mdr TRE nnn o z. din EEE कळक FH: N en 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Tr mess mn र्याम 
+
+
+
+
+
+म ना तेवर åa nd हि।ते। शरवः हर्न र्जे जयी! 
+
+
+र Foe | 
+७० Angerer Ran gas 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+atai: maraani वुध्यी शत UCISE lg | | 
+
+
+| चे! बृ जिन! NÅ यद? ह) ये मायिन hd ऊहति । व्वा माय 
+
+
+५ ` 4 | 
+
+
+
+
+
+| 
+
+
+
+## Page 110
+
+Í 
+
+
+र ofre नि।ते। वर्जांस: थस्किरचा नवृतिं। ना या ordna 
+rå बी थी बाकी ते। AR सदी an ऽन जै ॥ | 
+रता ताव दाति।। वा। एनल अते न॒ः इंड H 
+
+उतडयेत!(०॥ ket विंषी। Rug ससा gen 
+
+
+à द! 0 «ven TREAT 
+
+
+
+
+
+
+
+
+
+EE 
+å 
+
+
+NER 
+
+
+च!तबमुन्यवें। वेपेतेरति। शियसा। महीइति॥ य न्‌। दर वृ जञि~ 
+ओज॑सा। द्त्रं।मरुवान्‌! जवधी: ० न। SME 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+i >> = I र EE 
+
+
+
+
+
+
+
+## Page 111
+
+
+Mos) aq farger og aa FÅ जायसः EEE arfe: | 
+9१९ (ज्ञायत! ०॥ यदः दुरं! तवाच! or तानि! वञ्जेश! सउ नया च| 
+| | AT få! al लिघीसतः।दिवि | ते! बद्दुधे! r 7 ton | 
+rs Rs an EEE । 
+खिल । तर्य | मन्यवें। द्र age emne RI याव? र eo | 
+ERU Luahan । दवाओनो || | 
+if: pi nen UAA मेः पिता । द्‌ ध्यड्‌।षि य॑।अ्ल॑त। तर्थि | st | | 
+
+wal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aT 
+
+
+I जस्ताणि। TH san Lår get सं! व ग्मुत। EGAk 
+
+
+
+
+
+a : dimai : i eeaeee eree z आ ~ m====—=====— === 
+
+
+
+
+
+4 
+| 
+å 
+
+## Page 112
+
+
+
+i 
+f 
+
+
+
+
+
+e मदाय वृद्धे asus E E EEE SEER EGER] 
+AKSE IRANAJ NERIA Mere de sat 
+Rase दघःयभसानायादाशसिसुन्वते रिता वरू) यव 
+FAS ईरते।आजय।छुष्णवे।धीयते।धनां'युश्कमद॒ः सृता हरीइलि।कं।हन॑श | 
+
+* सर्वान कस वा अत्वामहानरअनःस्वधाभीमधआ,। | 
+वये दाव £ re + FAT de “कम कसम कक . 
+
+San aske d 
+aquiq: UnA X gren) ` 
+
+: | तुविश र are) Ed 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ks 
+RENN 
+हः 
+ar र्‌ 
+। | 
+
+
+| 
+
+
+## Page 113
+
+
+: alinman न 
+aan 
+
+
+arama 
+ARIU RIUNITI N ENA 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+| 
+BS 
+E 
+å 
+
+
+H 
+
+
+
+
+
+
+vom यानैर घसः) मरे? मदे हि नय दू दिर यथागवा सुक Junk खया पूस) चा ता 
+| भया be हार माद्य॑स्व/ फू ters राधसि Å 
+| 9२ RAMYA E TARALA रूज्महे' अयनः अविवा भव ५ एवे NER 
+| तव॑धविश्वे व्य ति।वायी। अवः Runa भय वेर्‌ अदा शुषोलिये। नः। 
+Ilimar å ॥उयोइतिं। ण ति Nu मघग्वन(मा/अर्तथामडव/ मुद) | 
+x SR न्ताशवतःक रः आलरआर्थयां EG FG तश | 
+RAVNA वीत्रियाधअळयत॥अर्तायत!स्वग्भानव वि a allam 
+बयान इरण जु Å 
+
+
+| सस HET 7 aaia य; दीस 
+याहि/वळयाच!अनु/०॥स॥फातं।रवंणे रथ अधि।विष्यातिगारविदे॥्य पाचे 
+
+
+
+
+## Page 114
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>. ती 7 ०७५93 प i $ El 4 : < PRR ह t i 
+ERT UF Et Seed dit >>> - - क Es हू Bleed 
+s Å å - ; 
+
+भै x 
+Å $ d 
+| $ | 
+$ ; | 
+| । 
+å 
+| 
+
+
+हाए Qaida an NF Jani AN 
+ar तोध Faner में दा या हि? gade 
+| ATEARI या हि।दधिये।ग भ॑र्यो:॥उ RERNA A | 
+L सति पला आस ॥ ३.५अ्क वति। र थ मः गो । 
+i । सयग्जवीः। इड्‌ Raa ति$ थि। तइ? पु णलि। वसुना भवी यसा। 
+Eyed विचेतसः आपनः द्वी उपध्यृ तित्ति येव 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 115
+
+KERR en RRETARA ARIN 
+! ® | IE: {जे हे ET ald सुच san सिशुना/या/सप 
+å daira nR gA rI नाय सुनते? 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection | 
+
+
+$ 
+
+
+i Sia प्रथम (यष $अग्तयः en ae योगसर्ये) GA: सदिं 
+E En sier नेर आपचे ।नरु)यज्ञेअथवो प्र थसः पथ: तते) से | 
+` Pk अलः याधवेना ऊ) र. LMM MATT कान्ययसतचा। यभ | 
+an हे बह: वाभ्य FE अपत्याय/डुऽ्यते। RETTENE | 
+
+| 
+
+
+” तज्ञ 
+२4035 I > Fa 
+७७५६०७७७७७ यया 
+FEET EE TT TESE 0 यण 
+
+
+
+
+
+वा ।ययीवदतिरकारु१उकड्यः तस्थाइच(इंड/अभिःपि ले 
+| ü ४ )असाविसो सइ अ ॥आ/ डु 
+इड स चार वदसे eide ae पल | 
+da सीः "यासा पिर Ua | | 
+कचरे से ते। 'बग्नुनाणडसंईड्‌+सुतं। VA | 
+
+
+
+
+
+
+
+
+
+
+| parian nagehan an sanger 
+THAF क्जा चिं।च/श्रुवी तन / सुवा/अम R IIRA FIT | 
+E ETEC त! र्चि$त र हरीइ i kei UA से १न विःला/अनु मज्म | 
+
+
+## Page 116
+
+af सहुअवव आन akan aana Rna nN 
+tang न कृदा।मर्त।अश पथ पद कप NERT 
+amwa रर य त निरः ३्‌ ड अंग Aa हि वा) जड + भ्यः? आर लड वां 
+
+
+
+
+
+
+
+
+
+
+
+EE 
+
+
+पाए विवास ति\उ थच स! प॒त्य तेरावे इंडस tra | 
+पिजंतिगोयथाया।रंड्रेश। सर याव॑रीः। sfa RRR | 
+KA KRE KLAT ESO ID kl | 
+
+
+॥ € भ ताः शस्य ऐूरान्हृ यृ सो 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+Qaa å Fi genrene gd ea age 
+
+
+STENA Å षु वश योक बा Ga at | 
+सकत जा ES å इछ aR DENT श्रितं 
+| पक कक urene nMIVISTÅ Hu av 
+
+
+TATE ७ NHGUNTA रिग सते hi अरवतरभा सि 
+स्टणा यू आसन; FEN न?यः। एषा ANY 
+A 
+
+
+
+
+
+
+
+
+
+## Page 117
+
+
+
+
+
+
+
+
+
+
+
+
+
+ep Få AE असता सतार GH ip Kil 
+TATA ors य॥क ४ अग्नि 
+ER यजाते! श दुः spy Stien 3 पेरा न! आश्रु। 
+
+
+| 
+
+
+H र 
+§ 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+i 
+i 
+i 
+
+
+'अन्यः।स श्वच! अ स्वि।म डिया। gång NTT = J) 
+
+
+Aerma aAa विश्वे। च få) माच स E 
+å enn å > 
+
+
+AARMEN NR IEDR AARRE अर्चतः अ की 
+
+
+
+## Page 118
+
+ERA uaig afas मातरः॥गोश्मातर दयन 
+et EN fe x EILEEN तना ne Ra fasen ति 
+।निएया/अचु री यने।घुते॥ वि|यि। राञ तेस ऽमण्वासः सष्टि7 AE 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+KG 
+aa et 
+TAPE 
+HEN, JAR 
+9 08 
+TR, 
+EY 
+eg Cd TREA f 
+Å f SENS 
++ 
+H 
+
+
+
+
+
+k t AET Sb है है 
+; Pai 0८ 
+| | al 
+3 
+os 
+
+
+
+
+
+
+
+
+होमाव/ मं सते। बी निःहो चः aa aner राविष्छभर्यन। तव्‌ 
+
+
+
+
+
+
+## Page 119
+
+
+
+
+NNEÅ å RINS ERNE Amapa Ra | 
+l 
+
+
+S a z EF 
+FR OS eR er ककती dte å - AG 
+— स ल ल ल 
+
+
+
+
+
+
+
+
+nimaa भअयेग्ध्ये वोओेम्अ वरर NIE 
+
+
+FY ET त विवा ओम स//सनः F HTA SEK IGEN SE] सःपृर्षतीः। 
+
+
+å 
+
+
+| ४७% SRA aN Ke 
+
+
+ggg ATZA anmaid 
+व टवा रम | 
+कचं भा 
+
+
+यः।रघृःस्य ल वृत्वानधप्रजियतेगबाडू मिस) 
+faset Ede) ai 
+
+
+GIH Grenaa na TT 
+न सीदन अधि'ब MT Fn सयु युथ यः| चअ | 
+
+
+
+
+
+ने ig JPME ANA 
+PINARAAN: en adr सहउकूच॥हिरण्य यासर ope 
+
+
+
+## Page 120
+
+सुः्झयामअ वेय सस सेड न रिअपो सि 'क dende aR 
+
+
+
+
+
+TNI zay: UA न सोस्य रण्यानि।च्रि/मिस्ते) न नुंदे।अवर्त। तयी। 
+चन/उ त्लोयो त्‌ मायातः व्या विष अवस।वित्रःभानवः 
+
+
+ञ auge ह धर्मतः 
+कामवित्र॑स्यःतर्थय्‌ तथा मं: भि।।या। व ) रास जोदो मानाय।से (जि SENG] | 
+
+
+pl ine सकस varanda: 
+। वा।यज्ञऽवा हसः )वा१सतीनी"मरुतः XY) qi 
+स्यभ्वातिनै।अनु। विध नह ली Sy bandet, 
+
+
+å 
+
+> | 
+
+EEA 
+
+| | | | | ; 
+002 GA ८ Er Mi _ ७. cnn sce i iss: ss MN नि डत सताड ककत O AR å 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+amgang ९. १ते'अवर्धेतास्वऽ्तव सम्‌ 
+
+
+mo 
+
+
+eee ष 
+
+
+दाशूवायछताभधि॥सस्मभ्येतानिमरुतःविर्यतारायिनभधसड्वणारी | 
+
+
+समद 
+
+
+| | 
+
+
+
+## Page 121
+
+| 
+| | 
+E | तेभस्यःो कं वुः क्वे विश्वा 
+चचत्र सतः सोमैः दिवि RRR म द? DRAGEN भव FIF 
+dr: त सुवीरः २९ NAAR meg | 
+F ° onal TAFT! SRR RIAPRE 
+॥गशभानःस्य/वा।न से Raa ami 
+*॥यूयातच) सत्यःदावसः (क स हसरा afgaat EN ग का 
+i! । वियात ER I de bak ki] दना ९३ भ्रः 
+
+
+UG Sara ।अनोनता।अदिं € ma ४ 
+a NA IH?) odd र इय | 
+GAGAN सरु सः केन AINIM NANTI: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+थे 
+| 
+ti 
+i 
+d 
+å 
+| 
+| 3 
+| 
+
+i 
+
+
+
+## Page 122
+
+aåraertinneq aa विश्वुरारव ऐेझते। रू मिंग या 
+AAF: NG aaao '+नाजंचऽ शष्टयः। र | 
+
+
+
+
+
+
+
+
+
+
+| RJ 
+वाडर्‌ ITFTN AEA TARJA 
+
+
+पे) के। भा ुउ Af å बि मिक्षिरे।ति। रश्मि: Ras TET UA 
+
+
+
+
+
+i NASA NTarefanasff:l hee NAT 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection | 
+
+
+सःच पमी रजु विर । परियस्य मर्तस्य! था kalk «må | 
+A 
+
+
+
+
+
+| Fal 9 
+
+
+| | 
+| Mensa eg inge EGRA 
+
+
+anmam - ar ajani vn ad IARTA 
+um 
+
+
+
+
+
+
+
+## Page 123
+
+. INAR 
+
+
+
+
+
+
+
+
+
+fa SE 0३०० UERR चि जे! स्व ऽया न्‌पृव्या ATAA 
+Fife rane ag वाशीभमेथा।वन्रा। न। कूणवे से 'ऊेध्यो॥यषोभ्य कमर 
+
+
+| 7: BE ginari RIR FORNI 
+ध्ये ? 
+
+
+ह 
+स्वथा/गर्भस्याः॥ ९४।आ7नः भदा कसय यतु।विश्वतेः) अ 
+
+
+|! 
+| $ 
+| 
+
+
+इतासः।उ दऽ भिईभदेव॥ नय यथा सदइंब।रपे।असेन0 अर; आयुव zar 
+niaar safes यता देवानों।रातिधअभि। ने 
+
+
+Kr ung l Hi jig: NAR: anA! 
+देन en Req ål IERE] 25. 
+
+
+
+
+
+
+
+IFT सि चे। अ ie RT g 
+IRT BANER नःवात। सयः सु! 
+
+
+
+
+
+IARI 
+
+
+
+## Page 124
+
+g 0000000 प्रा eide मयः 
+। थदूअट्वना) थु व! धिष्ण्या स iqama 
+Vs AA En REE वीरता मई ler. in 
+Faq 
+
+
+$ 
+
+
+$a 
+ng ॥स्वेस्ति AUETUIS श्र वा; स्व स्ति न TAIA 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+अ 
+
+
+rv 
+Eo 
+
+
+सः aa ae । ह्यत मरुतः।गोतमः An q 
+| | न FT न Fm: र | 
+magzata से भ ति।वाघतः।न।वा था l sa 
+
+
+ug 
+
+
+| ag, Kranen age east 
+ed रतु TATISPT या वी से । विद्थेवष/जग्मयः॥ अन्न; Gqmaaau रू 
+च | ad लड आती MAIRA Folke टण वा 
+| SNIMA भि यजञ-चा;॥ र्छिरेः AN नकी तस्मिः वि र 
+Rå हे सभ्य वायुः kane Armand 
+Kl Ex ॥पृत्रासभय rn मा।नभमध्या।रिरियताआयुः।ग ENA 
+Å | gk ir प श्लो ६४० NMRA R | 
+
+ FRENGNADISB Aude दितिः निउ ॥ ९६ गस. rå Ri ०५] 
+
+| वरुण मिव नयता विदा) अयेमादेवेभसःजी के feig: dd वाय >F 
+
+
+
+
+
+
+
+
+
+## Page 125
+
+
+
+
+
+
+f 
+
+
+| 
+
+
+
+
+
+OMREGNER ee ——— Rocco अ ne steen ne > 
+4 amg क “>> Sal Re 
+
+
+
+
+
+| | 
+| 
+å 
+
+
+Frostad fs विश्‍वारा॥तेःअस्म म्ये रामीयंसनाअवम्दताध 
+pr मातारा वि'्नःव थः स, विताय शर सैः 
+FETT: z 
+
+
+Og RASARE A IAR 
+'वानःस्वस्तिःम तश ३२७ ॥ a ina शष आड वार | 
+
+
+Lanier å RAFA FEN grade साध्वी: 
+
+ki 'सेत।/ओवधी/ UA he he å भ्‌ Ss, | 
+
+नः Rahma TH, | कक रर्वसाध्वी गो 
+
+| viet मिच: रे वरुण शन भवतृ। भ md ug 
+
+KS 6 TRIERU Re ॥स्वासोमाआाचिकि नेशमनीया। ले।. l 
+Sagai a व... 
+
+
+
+
+
+
+## Page 126
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 127
+
+
+
+
+
+
+
+
+
+| | | 
+gogo fi så drag विक AE BAEN EE दाल दवा | 
+L EG Sita ik ITI RIANT वरुः | 
+T Tè am aa gn ब जिक नि | 
+| SRNT अया! पर EM 
+geir र ब fag rd नू! क |. 
+| å Na: षति pl उल ver w 
+| ॥ ge nÅ RUE मान | po 
+FG dg WAY | 
+नें।सो म। विश्वर्यः/र गना कव न RIIT: Å | 
+| 
+regn AF Ari TY aaraa g ) | 
+dus पा हि सोमत्वं, न ठुथे' भदा २० सोभ) गीः नि) > 
+EEG ER SEKR] wRr ARI नः। आ। JIN TGN STÅ A 
+| Å FER SIE pt Bs मिच. सो स) न:। भव/ सो मारर थि। ane ` 
+| Rimana dga पार ॥य/ से ra E NT 
+| तरेव! मर्यं त eta वते? क विः) रुव्य।ब। अभिः दास्ते सोस नि। पा d 
+| | he नभा २९ NET हिल T | 
+| te AE NET. Si श्य। सः TEIT ETAT पदि | 
+| | अथर भिर 47 Asaq: Tage gi RAI A 
+| | क | 
+) 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+FINAS 
+
+
+RaRa | Ne frenfas सहं॥आउय्यायमान/अन्,वाय।से। 
+
+[ E fngasamni reine) zana ति।ता।ते। Ren GIT 
+
+| (यसका रंणयसःवीरः। अवीर हाम बर/सोस यीन.) | 
+
+मः grade sn dude कर्म ण्य। ददा ति॥खद्न्दे। ३ द्यं 
+
+भय ZITA द्‌ दावाद!अ NR psi GST VATNET 
+
+## Page 128
+
+
+å अच्ा।रुजनस्य/गोया। भरे वशमा) स; xi maJ 
+
+म eg स उ श्वोः।त्वं। अ ल यः 
+md तेवथ।उस' अ IT ISEN MIAR: भवेथ) 
+
+सा।देव।सोम/शयः। भाग।सहसाःवनल्भिःयुध्य। मा! Gaal 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+नी Å EA MLE २३ ॥ए ताथऊंइ वि।या।उब सं; HÅ अ 
+mi NTGIG FAN नि3कुण्वानाशआयुधा निः व्य भ्रति 
+Å अरुवीधर्य ति।मात स्पाउवेशअचपधे भरूणाभभान व: FYN सऽ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 129
+
+
+
+
+
+
+Hin es बसेःवयु å NE 
+svar: Nar aka ank men. न 
+ASSÅ Tast नाय।सन्वेतेआधि पिच 
+
+
+
+
+
+
+
+
+
+सि!वयते। रत ऽडब।अ RE inn 
+anang ची।गा I UAIM: X hE aJRenauaRiug आर्चि: FET 
+जरि) Rage TJA 
+
+
+å 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection | 
+
+
+Ragge ad ee Reang ihag 
+à A ये।छ <।न|स्मयते। विः्भा ती। सःऽ अ यन HÅN kar 
++ूर्डर्नानां ।्विः।स्तवे इ Ramia aas ह 
+` _ अथ्यानशर्षीयाऽ अखानरयामासि।वानांन॥उर्व/ताअश्यायचा sitert 
+Figes an fastset) 
+È g jes axia ag या।वि।भा लि वि? | 
+व जरस ek अ कळ IHT i पर (य्‌ | 
+मान।वर्ण।अभि/शं i NRR मिनानो(/सली ४५ ` 
+ned Ang: २७ ॥ AF; rs lp स i 
+
+
+to 
+
+
+
+
+
+| 
+| 
+
+## Page 130
+
+
+
+| gagn त्वा ग 00000) य! 
+न चिचा।फ भर pan सिथ न।सोदेःउर्विया।वि,अश्वेतःअभिनती। देव्या 
+CERIC ति।र्‌श्मिऽभिःटवाना RAR ANNAU भस्म | 
+7 तिनीःवलि।यिन।तो aaan sa rn sa 
+विभाऽव्‌ शिरिव द/अर्मेडति।विएछ। ETTER 'वाजिनीशव ति।अश्व। 
+१ न सान ag । २६ अ द्विना! 
+अस्मत्‌ वर्ति्ञागोऽमतद्स्त्रा NHH! सनान (चो 
+gawar भ्ञा। US så an RAG | 
+| kr ।सयः भुवा।द्स्त्रा। हिरण्यवर्तनी इति हि षः rd | 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+9090 ERRAR verre NEJASNE NIARI 
+cea निहर्यते।भर्व॑ले। vg ANNAN भा।य:। अद्यवा! ड्‌ जस Aai 
+` ang व पावं'सुः श्य अग्नीषोमा) sn र å 
+
+
+
+
+
+
+॥सशप्रश्जया NEI vi ।विभअश्वदत माचेति 
+_तत!वीयीवा१येलअ वि NAAZ AIEN 
+थंधअवि mera ag uden नि दिवार amdana 
+Rar ARR LVA TAJIRI नअ IAJ 
+
+
+
+
+
+| et भ «qi दिव॥भात रिश्वाधभार/।अ ipi | 
+AUT ER श्येन? ॥अग्नीयोमा। अस्त गा।केदयानाउरे।यज्ञायं KEN 
+
+
+## Page 131
+
+
+| 
+| Es वीन कया 
+a à 
+Eai 0९९०४ > 
+
+
+
+
+
+उनि nae verre rom | 4 
+ge झा! je aa se md । 
+f विषा।सपर्यावदेवड्रीचो।म नसा/यशघतेन॥तस्य।अ्र ते। रा सवि 
+रोग्सनायामहि।राम)यछतं॥अभ्नीवोसा(सःवेद्सास्डतीशतिसः्डतीवनतीा .. 
+Meuga va नलव बोमो।अनेन। वां।यः वी (छूते हु 
+तरमे।दी GA ढह द।अगनीविभोइमानि। नयु व ह व्या जुजोषत आ। 
+॥अग्नी वो मा। gd da नः) आ। व्या यु तो ४ स्ति 
+FEE स्मेटवि।बला निमघेवं दऽ सथन ऊणु नः अस्वर 
+
+
+
+
+
+
+
+
+§ 
+å 
+i 
+
+
+i 
+f 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+H 
+|| 
+
+
+
+
+
+
+qg giin ९८२ ५ इसे स्तोसे।अह तेशञातऽवेंटसे। रथं इव।सं म हे स्स 
+
+## Page 132
+
+
+eg नीषयी भद्ठा।हि।न) प्र: सेतिःअस्य सरस दि। अग्ने? सरव्य। रिवा 
+मवयं) त व यस्मे आयम सास सा ध ति।अन वो क्षे ति।द थै ते। 
+
+गी वूताव? न। र नं आश्चो ति। अह तिः)» ve सारसं 
+
+TY ne पिये? Ge बा ह वि अद्‌ NE सं ॥ व्व? का 
+Renn ता च हि? उ चरम्‌ सि। Tren केण वा भ 
+magdam वये जी वा न वे। प्रउत रं साध 
+
+धिय॑श०॥ rangen Ende दिउयत!च।य 
+
+
+
+
+
+कउव।च तुंडप त! NAJIR के तउ बसश महा न! अ Ri 3 
+) ao NEST kp ता।अ सि शूरव्यः प्र दरा स्ता। यो ती) 
+जर तः॥ विश्वो वि हवाच।/ आ लिज्या। धी र। de विश्‍व SJ 
+dalene सि।हूरे।दिव!सन। छि इवा जुस) pi 
+नर :। अति iE २५यूर्वः) देवाभवत! रून्वतः। रथः 
+FNH IT सः अभि 'ध्यंध। त ब।आआजा नी TNT aq: | 
+SUMIRAT: Ev IKT EE ag | 
+AMARNE ag त्‌ FU AS हिला।रथे। वा 
+ता।इवमेस्ये्ड्वे।ते। रव ॥आवरड्न्वसिवनिनराधूमः नो।१॥ RNA 
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+। 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection | 
+
+
+
+
+
+
+## Page 133
+
+G-A- SE Se य्माशयता!ते!यवस GEN RE 
+= ७ Anda तावदेम्यः।रथेभ्यभ5॥ AAI REI 
+SE NR हि engang EF एषो! मने:। पु vg I 
+
+
+दवानों। असि। Aa a बसु! वसना! अ सि।वारु TT 
+
+
+सयाम! नसभन et q Anridas a IAM 
+
+
+SANI 
+
+
+
+
+
+
+
+
+
+
+
+a यतऽतमः॥ द qı bl JAIA i 
+er ANMANN ANNA अदण शवसाची eg 
+हया का maa: tap SKE वि र 
+; ANIT N बछः ६. 
+
+
+Sn, we E Th un 
+
+
+
+
+
+
+
+
+~} 
+H 
+Å 
+
+li 
+
+
+£ 
+
+
+nos ॥ इति ARs kaaa Aga haamata . 
+d ।थापृ KRETA Ruset वक अन्य 
+
+## Page 134
+
+gga भल न anaiga विऽ | 
+ _ भेञ्रीत्िग्मऽ इलया जने Hart सा ail यंति॥ ` 
+TANTR FENG FEN हे ।ए्वूभ्ञ॒ष्‌ऽसगण्वीःअनु! | 
+।द्वा।यार्थिवानासतनःप्रऽदासव विदे चु कम निय १ 
+आ।िकेतावकसःमातःजनयतास्व निहीना mings | 
+! मुहान क विः! निः! TAI न२आवि;ऽ त्य वर्धे ते मा SE | 
+MARAN dang ger RSS बिभ्यूतृः। जायमानात्‌ | 
+
+
+A s 
+MN 
+१५ GLAD > : 
+red DS Sar gi 
+७28६५५८ EST RE AE 0000029 
+
+
+
+
+
+Deer E लक न प i i 
+HRC ge Si 232: £ 
+
+
+E$. 
+x 3 है ta 96 334080 
+E ET 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 135
+
+
+
+
+| r] Ya 
+
+
+ती ची ÅR वृति ९ १ उभे तिं। az ति! ष येते३ तिन 
+Ir 
+
+
+गी व न।वाश्रायउ थी त रऽ एवैः सः। द कोणा रक्षं चति बु 
+iE CRE VEE EE RENES I 
+तने।भी सः सजन शउत शक अल /अज ते) सि सरमो SANE 
+दऽ भ्ये!वसंना'ञ हा ति।ले ये रूये। KERIS $ 
+an भिंशअलउ Ang Rage 
+NERKANIE ASF KER AG 
+
+
+
+
+
+| | तचो निओवरुणोमामईन ~ 
+| : gama p a inana Aara iR ` 
+| थानःरिवत ATR श्र || विभाहि१०॥ URIA था।स दैसाजा य॑मानः।. | 
+
+
+| संद्धकायनि/बट!अधन।विश्वी॥आप॑/च। मिच। धिवर्णी +चु। a । 
+` अग्नि। धारयन/द विशःऽदोसःपूव॑यारनिऽवि । यु व्य तो'आयोः। ZANI | 
+
+१अननयतः मनो विवस्वता चक्ष॑सा ्याअ षच! NT डळ तः अथ 
+
+ås RT विशेशआरी ।आाउ डरते संज्सानऊ नेः पृ ने भरत ET 
+प्र । ० सः माव रिश्वी।यृ इवा र॑+ यृ छिः। बरव MTA: वित्‌ 
+mirma निता रद स्या २) न कोय सौव णीग्आभेम्या इसा 
+)पाषये चे३ति। UKE समीचीइति समरे gre TT 
+
+
+
+
+
+
+
+
+A SG SA ५ 
+E a a ASTIE A E SE > 42:22 
+
+
+
+
+
+
+## Page 136
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+po ET 
+
+
+
+
+
+
+
+
+Fogo MANA naangyus गर्मेनधवर्खला/यत्तस्वाकेव मन्सःसाय नभवेरिति. 
+र & QARA लं।रसेमाणा सः एन्‌। Aga w स द॑न!रयीणा।आत aN | 
+mamangan aariaa on इ विणः5 राभडविंणसतुरस्थ) 
+Ar IE ane EEEE NEE RETE NS NEEE इ विशम दाभशासते] 
+
+। दीर्घ आयु ony naha थव) अध) अर्जन JAEN ।र्‌यि॥ VE | 
+Hm Gmng: gan 3या।च यमा श Nonna oh aE 
+खर Om i र NAT आसि NARİN TSI Å 
+सतः िश्व na Frk de er hol 
+
+बे न विश्व तः मु खरअति ना वाउड्रैव/ पा र॒य॥० स: ग सिंध इ) नावया थे 
+
+
+| 
+
+
+Ar न सया नानो 
+ganman दिर यि\ चे वे श्वानरः यतते IE टः द्विवि, पृष्टःअग्नि।पू 
+बानर स सा!पुष्टःअग्नि सः) नः? | 
+
+
+reisens घी: आ। विवेश े । 
+| दिवसः रिषः a वेश्वौनर ते बो त त(स वयस्तः 'अस्मान!रा य॑। मघ: वो 
+FA नशसचंतो॥०॥ ६ ॥जाकवेर्सेरसनवामासासे अणातिः्यतः EDGE | 
+nen q] व/अति(हुः3 गा नि।बिश्वाश्ना वा5ई सि १इः3 JANG TRAN 
+
+fang ren Låste ud FÅR 
+
+
+
+
+
+
+
+
+
+
+यः) कषी? JER संडओका$स हः दब ए थिः | 
+
+## Page 137
+
+za: al eaaa भव ia 0उ,वी॥यरये।अना तर esha डखायासः। 
+स्ति दूर agaaa R A e equal ` 
+
+
+* 
+> 
+
+
+रे भरे। डज सा 
+
+
+
+
+
+LØKE ba ir KE SEN 
+EMMIS | PC Re CCRT E >:४+% SY) A A j 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ar KG å ४७७७७ ; श्‌ x < sj ब såå EST ~ नच ad 9 
+एनानों Pa rer | ef STI] Fall “कणों of 
+
+
+
+
+
+rå 
+
+
+i > ल्क ळा ळ REKER कि 
+
+
+yene यस्दैरेतैसयइघानाः पंथास विभ्दाव॑सा।अयौरि$ इताः १ तरस NYE नर | 
+ना Biden सअ Ava rs तसः हुत ड hose क | 
+om क vers granas Aass aan खनः मिन ङे चि स्वा 
+| सत्य।संसद्वान/शअमित्रांचि/ सरनी के मियश्र वृश्या नि। लू neng gr 
+på: TEIE KAST nes खसी) ANT TE 
+वइषतिःपुङ्‌ऽ Serra or ep | 
+Eert ere ESEE ONE त? पं संधार 
+देच नर: नरे। अवसे।तं।धनाय/ सःअंधे। gaat भ्यो ति बिद्‌? °॥ 
+maataan चिद्वरसः।द्‌क्षिथे। सेऽयैभीवा। छूताडि॥स्टा की 
+
+
+
+
+
+
+$ 
+
+## Page 138
+
+
+
+
+
+
+
+
+f 
+5 
+
+
+| दिव समित धना नि। on rem an AEE: | 
+
+
+
+
+
+i 
+
+
+शि apaan रयेिशसभिऽ भूः) अउीस्त्ीः 99:83) FDA RT! | 
+
+
+3 CEIC SEREK E gd IERTI TE |. 
+
+onana REE niaaa चेतायवातरर्नी थे? S; 
+
+te mikaa ong njaaa Sr NET | 
+
+। वेक रवर्थ^ शिरस वानत सचंते) सन्यत धनो नि।०। यस्य | 
+
+Jan न nyang | 
+dl 
+
+
+
+
+
+
+
+
+
+
+| - क. 
+
+
+| 
+
+
+rm 
+
+## Page 139
+
+
+
+
+
+
+RSAC "al 
+
+
+
+
+
+= _(भिःयुंदसानः।०।न।यस्)दे वाथ देवत) न) मनो) आप चन ववेसः।अं ते। 
+| | "आ ERFARER N Ro NRL बा।सुभवऽ 
+cA धर SE SEN | ə å Me esi i à | l 2. | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+ae अयर लामी१द्युसाररायेग्सम्चःअश्वस्य। शव॑ः ऽ तवित खः र थं मं दा। A 
+- ang dy दिशुभर्तद/ need | grag Qnan a 
+ae सुर maasai a mag | | 
+| | si sengen: gaama u aRar | I 
+PARAS 2l aiaa qagan अ EG | 
+
+"वक्ता।नः।अरत।अपरि हूता^सचुयामःवाञ्ञं १०॥,९९ ATARA Sø å | nasa 
+i q किनि pr Sn BANE ER | 
+Reve eee ह॥यः।विःअंस।अल बाणेन। A GWRON = 
+ERTE E EE EKE शा य्णे।अश्ुष/ वि।अ Nk SAKAS LIKSE EIEREN | 
+
+
+|| 
+; | | थे 
+८ - r ४28] j 2. 
+} 
+s å i å है 
+| 
+| ; 
+i d 
+
+
+| i 
+| । BE तु!यर्स्य|ब्ति।वर्रु णः) यस्य सूयः यस्यं सकि व on 
+यः।अश्वा ना।यः। गरवा गाउ पतिः व शी। यः आ haug णि वे मे णि। FAM STI 
+aikanaan nge वि anaaga Renga 
+MM kat EJA अ सया का अविरत opus | 
+eee GNÅ aidas A: ge वभागा | 
+
+## Page 140
+
+| Dee guen ९२ NEMCA RNR IETEN | 
+UTY d:n डड मनीषा! अभि साचे, JAINA भुर : | å 
+
+s Pga NEST भाद NGI RA FFS 
+।ह वि? च कमस वऽ राध बाउया।इंट्रा MÅNE रूमासु दक्ष ARTE 
+| he आायाहविश्वकृमा å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+= कयाय स aa m 
+
+
+
+
+
+
+
+
+i r 
+
+
+
+
+
+Ei 
+
+
+
+
+
+EP ५३ NN RRR wa 
+Me eR SCRIP RN 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+## Page 141
+
+
+
+Toue lord नि यु दः! सःगण सरू दऽ farfar बिच माद यव साट्य स्वाह | 
+| Reg सरिर gg TA 
+
+
+
+
+
+
+
+
+च्या R 
+
+
+हनत far EG aguR ga ga PUD MAYA 
+
+
+TN OR LNR “कळ 
+nse 0 s brigaden 
+
+
+र चना॥अ 
+
+
+i | MRS ks S e EEE EN NY 
+PCA z A aa E है फसल कल Oe 
+
+
+EE कम मम 22-22: erro ऱ्या 2 == स == 
+८ === === === 5 DME E बज के n 
+- >> सवक > 
+
+
+म ===%% 
+लेनोमिओयरूणे)मामहता ५ | 
+
+
+| | 
+å 
+E 
+
+
+SARE EEUU 
+
+
+
+
+
+ILER ga q ॥ 00 
+
+## Page 142
+
+| ud RATATA | | 
+een ०॥ ९९ VET क (टोर मळ TUE सही Ei n 
+5 Fe स्तात चि यत्‌ ANTIA सः so VAUR 
+
+| sl SETH तास Ds श्यशश्रव बद्य।सघ। च Gen 
+ard ge चअ 7 
+FARIAS TINGET (वरुस्लत/वायदउन्य॑ः RINT =* 
+
+
+
+
+
+
+
+
+
+
+
+
+å 
+Å 
+
+
+| 
+
+
+
+
+
+
+KES 
+Å 
+
+È 
+på 
+
+
+
+
+
+$ 
+å 
+
+
+ramadan atgmatemåsdrasgstbuuarde | 
+FÅ qang: MS fm ardomags aa द्या! रज. ne gaman `| 
+सना इभ धर्नाना।धर्त/अव॑सा। विपन्य वस्म सपा रथ।आा। feen, | 
+Riz adima ९४ ॥योडत़िती बाह ३तिअनिंतऽकवृ सि. 
+
+
+
+## Page 143
+
+
+
+
+
+
+
+
+« मगकर्मेचउ कर्मन! इतं ति Så: कर HEGEL GT NA EN 
+
+
+अथीज gd ते/सिसासर्वथाउ बति। गा AEO ECEE CEG M | 
+Sten FR Band प्रतिभा dude andaga 
+aad JATI LAAI AJN सना ATEN | 
+
+
+Ml 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+= नस CN 
+z ETT ae Ses PE dt Is पथ 
+` TSN 
+
+
+| 
+
+
+kem saved rasene ve 7 rm 
+
+
+| विशेत अधिज-फानोअस्लपेरिळता.सउयानुनाज) त नौ An 
+ga | देवे थमं।ह्‌ वा भहे।लं।ब ANGIR हि।सः।३भ? यः कारं उ य+ म॒ न्यृ।उ 
+ang Cs oa घर्ना a ब 
+
+घः सहत३ साच॥ लाउ यी।अवैसे। सशि शी मसि।अथान ३३! हवने चारय) 
+
+०॥ ९९ ॥तवते।इंड्रियंग्परमं।यरा वेशअधो रय त। कवर्यः [पूरा इद्‌ क्ष माइ द्‌ 
+
+यच! दि वि।आन्य व! सस्य। संग्हेबिक्षिकुच्यते। सम॒ना इव के तु॥ सथा रयत! 
+
+## Page 144
+
+k wadana ma marangani Raa 
+
+ere sd dras ghia anaana aata Mg | 
+HENGER me ॥ Beans हि्ति'अस्याआयी स ह | 
+!चग्नाऱ्झातव!ऊ ॥इुमा।युगानि।कीर्तेन्य। मधरैचो।नामा बिभ॑दं।। ९० | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+उषः प्रथनादस्युशदत्यायावज्तरीर्‍यत!ह। रून श्रर्वसेर्‍ना भौ द थे तव अस्य/ दू। परर 
+क भूरि वृ श्रतं eaan Amma ।गाःअविंद्त्‌।सःअविंदत्‌।'अश्वी 
+"गस ओषधी । सश्षव।सः वनी नि॥ ९६ NARF vr Jaaa 
+शुध्यरायासुनवा मासोम यः आडदत्यी परिपंथीडरवा करर अयज्व नः। विऽभञै | 
+Gå i nadgra Ngai वर्ज्वेणाअर्बोधयभअर्हि) | 
+aAa ERR /अमदन।अची R 
+HIRSLI A AN विप रशी ब॑श्स्य।०॥ ९७ Å निवे ड्‌।नि$ स i. 
+
+
+Mak ततआनि।सीर।स्यानः।न।अवो॥ IAAL MÅKAN 
+pg se sh bs 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 
+SE 
+P Hå 
+
+## Page 145
+
+$ À PN 
+
+
+
+
+
+त OA O, 
+Á i रि 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+9 
+
+
+Heg 
+Y ý r 
+å 
+
+
+१४ 
+Hal) 
+Å 
+>. 
+og 
+på 
+y 
+4 
+Å 
+Hå 
+
+
+Ween 
+
+
+To अधुन सग are सैः सन्युदो स॑ क्य वस्त नाचे चः! जवश्च | 
+१ तायोवर्णीगअव।त्मेना। E! F S | 
+
+
+
+
+
+
+
+
+
+
+## Page 146
+
+
+
+
+
+
+
+
+
+
+
+वीत्म॑ना।भरते।केल5वेदा।अवी त्मनाभरते। फे न॑ टून i | 
+श।श््ञातः।कुयवृस्य।येवेङतिं।ह्‌ ते३ति।ते इति।श्याता'पवणे । शिफीया॥ यु |. 
+थोष।ना भि वैरस्य आयोः।्र। पूर्वी भिः। तिरते।रा ष्टि। यर Aug | 
+BAd हिन्चानाःछटउ भि भर ते/प नि।य तू! स्या। नी था। | i 
+aaah maia | 
+वृच्‌! च्‌ङता द Ta THE qra gtz रसः | 
+TEN 5 ।सगञष्‌रसतअनागाःऽे।आ। ANSÅ Es AT En pin | 7T Ng 
+DRWA | 
+
+
+ह 
+§ 
+å 
+$ 
+f 
+ह 
+
+
+| 
+
+
+मे।आररिरि व:।नः दितं ते।भटू ते।इंड्िया य॥ अ धमन्य 
+
+
+2 
+
+
+
+
+
+å 
+| 
+
+
+
+
+
+| 
+| LO | 
+अधायि। ड्षा।चाट्स्व!सहते।थर्नायमा।चः Eger तायोनें। rå शु 
+
+## Page 147
+
+याव S a EEA AEE E ES G vie l 
+Hi b धओआाडा। AT GU सघ वन्‌ राऊ! नि। सेवामा! ना पा | 
+qh भेव!सरब्जानुयाणि naz NINF झोर्मःका FTSE! FM | 
+स AUF aa FATTES व्यचा)मउरै।आ। age पिवाऽ sad | 
+YA: ९९ NFFS GEK GOTT 
+
+MERFuIAn हिरण्य sagde sa Gen 
+
+शइसीइति।अथ। श्दावोऊइति।अथिः kamina 'युव॒ते।यतिं॥चुंजा 
+
+वेति रष्ण्यापर्यप रिउदाय॑। रस (रटे/० के जले हि. एर, FEE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+ चष्धच sdra: ।परिंपम्रा seen ३ भुवैः एने खूस। क दा+च॒न। यज्ञे कय 
+अवभ।सः।त च! इ तः। वि।वो च वि॥ छ सतं. LANARAN निभर्ति नूतनः 
+NR be वाः स्ठ नी जियृ/आरो चने। दिव:॥ क त! वः शतं! क व! अनतं के 
+भता।व/आउड्र Aron २०१क्‌च/व्‌ः। सतस्य|थणेसि।कत/वर्रुण स्य/ च ET 
+Re कम यूथ rol FOGN | 
+waaina नि।चिच ॥तं। मं! व्यंति(आऽध्य डुक न।ुष्णऽजञ खु शे? ९२ | 
+mmaa परी भिः trang EEEN न! द fag? are | 
+eden ते।शावऊतोइलिनात$कतो१०,अमीइ लि।ये। garm त 
+Hinan: ।अएर्वता॥वितः Fa Egen LE CERE og 
+
+
+| 
+i 
+
+
+
+
+
+
+## Page 148
+
+| 
+i 
+
+
+
+
+
+| w y | 
+मीइवियि/पंचीउ्नणः mare नि। 
+z gaon २९ amgang aua A m Ra RNa ध ति। पथः 
+वत र॑तंश्यूती। an oaaagg RA TE | 
+घति। सिंव॑वःसत्यं' वताना स्यै।०। अग्नी तव वव/उ कथ्यं देवे ।अर्तिआय्यं॥ 
+सःनःसत्तः। मचुघब/ आ।देवाब!यश्षि। ARALAR: ar मनुचद।आ। 
+| वान/अछी विडिःःतंरः। er Aonga 
+
+
+
+
+
+
+
+
+Tion aa ॥असो।यःष था आाद्दित्यः।द्िवि।ञ्रऽवा 
+
+
+| 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+गोाति।वर्रुण।गातुः विईद। तं। ई म है ॥ विशता भतिन व्य ज्ञायचा! से 
+Tien यककतधोन। सः।देवाः ga 
+Felde स न।पद्यथ। ०॥ चितः कप må हितथदेवानाहवते ऊतये॥. 
+
+
+T 
+
+
+
+
+
+ED | ; < 
+Eben di ka Tike å dst As eens iL 
+
+
+
+
+## Page 149
+
+
+
+
+
+
+
+aone RUNDET ETR SETE tare दई 
+
+
+
+
+
+
+
+
+
+
+हे RAIAR rare तु KININ MASNI 
+ENE GENAN MAFANA AU: NON २३ ned CERNIK: 
+तये?मारै spe | å IIGS गात्‌!वसवःसऽदानदः। 
+
+
+ane! qua dan fer पिपर्तच॥तै।आा $ MENTAI ब त। 
+i Mi 
+
+
+| ९२ 
+
+
+
+
+
+
+
+
+
+
+सुध fr EN ERR EDAK EE न! पितरस प्रवाचना/उत[दे EA 
+YTTI nA $ ti ले। वाम यनद ह। क्षय तर वीं 
+HAEN RAEN क हस्पते।स दो इद न। कि गल 
+G' RA ARFFEN ° TECA क दायी काटे।नि «are: साप 
+
+
+अड्डव/ऊतयें॥० वि नः टेवी।अर्दिति Hangama चाइना ket bø PESES 
+| u २३२य्‌सः। देवानो तीए ति।रम्नभ्आ हि्यास भव॑ त! दू ययं त आ। å aai | 
+| चीुःसतिःवुडत्याताअंहोः।दित्त।या। वरिवोवितऽ त॑रा'भ संवरउय।नः।देवाः | | 
+|, AJMARA NTEM भिःस्चयमनाःाइड।इड्ियिमरु त। सः 
+` =  'रुवउभिः।भादियिः।नः।अर्दितिःवामे यंसव।सच! नः इंड तब! EmA 
+FN SR सविता।चनेः। चान an २५८ FEDA E s 
+
+
+## Page 150
+
+मः।रथः। विवि Eee ।चर्टे/लेनौआ।यात॑। saga sat 
+
+
+
+
+
+
+
+| (अथसोमस्य। पितं तश्य।यावंतइरदसुव॑नं। विश्व अ स्ति रु याव्‌ 
+e ।तावाच'अय।पा तवे।साभः।अस्क।/अरं।इंडराग्नी ३ i मनसि'युवः गि 
+
+
+| da GEN ol ० | i 
+
+
+
+
+
+ED SIR PPO o deg 
+र ; + ET * “> 
+j É > d Š 
+va t 
+t 
+å 
+१ $ 
+m dg EEO ors +=: 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 151
+
+
+
+
+| च काथेइतिं। हिग्सभ्र्य कू? ना मस॒डरग्स्रीचीना ।ङुनऽहनोइत।र्छः।सो।ड्‌ड्राग्नीइ 
+Fasader regn E MULE ATT I 
+ga यूनः खु må Raa farm dn Le सिक्तेभिः। 
+कडा rår सोस नसार्य!या तं॥यानि।डूंड्रारनीड 
+
+दानि सूया णिततदव्ण्यी नि॥या। वा प्रत्मा नि।स र्या। शिवा | 
+- ENRAIAR २६॥ य त? अर्श्र TAQAT UANSTÅ र्स, 
+-OE BIE A EEUE G hi मारिन र zf i 
+mEnE MNARA (वा।यज RA Raam ' RO 
+PCIE E EAB GUKE K E kU: aa genrene nel 
+
+
+Å agai परमयं ए यिन्योमेभ्यभम्सौ मवृभस्यामुसस्थः१। शत, पुरि] 
+
+
+यवी रतिअव मस्या थिप्यो।मथ्य मस्यां। प रसस्या।इ त।श्5:॥०।यत्‌। 
+,नि।रछ यवः (च्या।यव।पर्वतेवृ।ओषंधीवृ।अपडस्॥०।य 
+i उवरडतासूर्यस्य/मर्ध्ये दिव स्व धर्या मा ्येथिद्तिं। ० रु वां. 
+iaga Ran p असण नि॥ ०॥ २७७ nÈ) Aas» 
+मन॑सा।वस्यैः। इछ व इति जास उता! वासुम्याताच! नान्यो | 
+यवत! प्रःम॑तिःअस्ति।मत्यं।सः'वा।थियं वाज्ञऽ यं ae Ri - 
+fe दऽतरावा। विऽर्जासात EGG घायल MNN A नी 
+>वश्भ्यो इंट्रॉग्नीउर्तिं।स्तो मं जनयासि।नब्य॥' ग DAT [नाधमानाः | 
+Fav वाकी अलुश्यर्छमानाः॥इ्‌ड्राग्निऽ भ्या Te EG | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+। mangle ATETA gen ।भुञ््रव्‌। इञ $ | 
+
+## Page 152
+
+। ते।सा दयेथां।सुत A REN 
+
+
+
+
+
+
+TIRENA भरेंदु॥०॥ २९ ^ तती मेशअष। तवं रवि।तायते।प IRAE 
+| sn Fars) अबते o| Fel ol Rr 
+
+
+
+
+
+
+
+
+_ | ंछायीतिःए-चथांयः्ास्यतेअयं।स सडह विश्वः देयः सवाः कूतस्य।संउंइ ति। | 
+
+| TORRI वः)आः मोगयीपायतःइख त॑ःएसैनाअपाका/प्रोच॑ं।ममके। विचे। आप | 
+| यगसोथननास म चरितस्वी मनां।अगैकत।सविद/दा रव ॥ anaana 
+| असतवात smaa NINII A daa चमसं।अर्सरस्य।स 
+|. eten spend de वयं॥ T sat are) सवश 
+| | ER seaman सोधन्व॒ना। स भव रर चष ससे वत्त रे।सेअष्ट-येत।धी 
+| fasen aiana a aa सभव॑/निर माने स्वताः | 
+बा ३० ॥आ॥मनीषां।अं तरिक्षस्य/न्ट3 भय 
+ख़ुचाएईवाघुवं।अहवाम।विश्नना।तरण्डिलायि।पितु/अस्यास खिरे।स भव॑। वान! ` 
+
+
+
+
+
+
++ | å p j å 3 å - —- - Å PTR Te 
+CR. is AR FN CITES PRR or i i RN Gå je SMA TRN en 3 i क 
+च मा 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+## Page 153
+
+
+
+
+
+
+
+
+
+
+
+R सरूरन।दिवशरज॥सभुरा नः इंडूं)दा वेसा।नवीया न! N भिःवर्सु A q 
+| हे FE ansat NTN तिक्षेसापृत्माती।अरन्वता ne 6. 
+«ng vg Fauieknahaadaasamadgakfuddqaane | 
+अपस्यया/नरित्रीरतियुबांना Raman N an _. 
+विद्वि'सभृश्मानाइंड्र। वित्र आ।ट्विरा NoN ३९ nagimi विद्य "" ति 
+
+
+
+
+
+
+
+
+
+| नाइअपसभ लक्षच! ररत डुःवा्हा ळवण्वरू N Ee: Milce: 
+भ्यो समवय त इत वत्सर (मा R EG कुमाय aaa 
+a å मतावर्याकले दसा यसः प्रजावती।इस॥यथा।क्षयांम।सर्वः वीरया। विरा 
+
+
+
+
+
+
+
+
+न दे en refer सथा सुह nm त शत।साति'अस्मभ्यीशभ वः UG 
+
+
+ER 
+A 
+
+
+
+
+
+
+
+
+
+a FÅ få भो 6) | || 
+
+## Page 154
+
+3 ति।जवीते।नर:॥सातिं। preg TG 
+| Se ee ME l 
+अगिवना।ति।न/॥हिन्व व।सा A a RNa ata ana na ति| 
+(वाज।अस्मान/अविष्ट॥०॥३३ några ås Rives 
+ot etre ee fasfat: 
+
+
+
+
+
+
+
+
+
+
+क वाना १व्च॒संन।मंवेवेभयाभिः ` 
+य अवथः क, gog taira EN EE, IAR å 
+sun निं/पैनं। अस्व।पिन्वभ:।नरा। Bua रिंउउ्सा। न॑यस्य।सञ्म | 
+
+| Nt ere dimar तरिः भ वृ।अभ॑व दाविशवक्षणः। ° rn 
+
+
+å ES NN SE GE ØRE 0 E FN नर 76, ५ $, 
+
+
+RRR dei CT IN SSNS i RR mr 
+
+
+E+ 
+क 
+å - 
+णकर क 
+प 
+8 
+$? 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ध Fo i ISI ड्रम ESN TER merr PEPPER T EE e E | पापा 
+æ ० >> mn Nba sett EBA तय TE Po å R | perser 
+
+
+å 
+$ 
+, 
+
+## Page 155
+
+i 
+i 
+| 
+
+
+| 
+| 
+| 
+
+
+vom रेभो निऽङतं।सितं अब भ्यःउववंन ऐरयतं gdu भश कण्वौअ।सिसासं तं। 
+| आवती ५१३३ /या भि/अंत॑क।ज से मा न। आउअरणि sjef: 
+| i agan कर्कं वर्य्यो-च।निन्वंथ०)याभिंध र चेति धन सो। sadat 
+> घर्मीओम्याइवंत fann ऽय पुरुऽकृ त्स आर्वं।० भ्या uniing 
+| पणा।पराउद माँ प्राअंथामग्रोणंच शसेरर्तवेश्ङ थशाया भिः 'वर्तिको'यसिता।अ क! 
+rom yi र्त आस्दतोव सिया अर एम व गया मकता | 
+E ie ० याभि दिश्पलाथ न ह हस्म मीकि।आजी।अजिन्चत) । 
+| I Babes an Hong nån जब न दमा वृणि GA 
+Agdangan रत कु क्षी वंते। सता तारीयानिं। आवत। याभि र्सो। ` | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kemal 
+
+
+ode 
+| 
+| 
+
+
+
+
+## Page 156
+
+
+
+
+— शईसाएड्मपिपिल्थु)अनएदं।या मिं। रथ आर्वतत। Rn Radar Rami. 
+QAR Pamela से पयिषाआर्वत॥या भि विग्र प्र। भर व३ 
+atsienge orm sf aura stå ess 3 ।दिव3 दासो बरऽहसे। आरव ते॥ 
+
+| UEIF OED IEA TES EE ते।० या मिं।। वस्पर। दिः पि पानं।उपउस्त ते क लि ग्या भि? 
+| _वित्ततज नि।उवस्यथः॥या निधवि३ अंश्वेड ताप श्चिंआरद॑ते। ०) ३५ याभिः av 
+| यानि! अन्रैये।यार्मिं!।चुरा। मनेवे। गाती पर्थ)याि दारी) आजंतं स्थूर्मःररमये०)या 
+| शिवराज रस्यामज्यनीा अग्नि! अटीदिव/ चित: इर्‌ अ्ज्मनाआययाभिरीवायी 
+
+jadran nkri शिर म त्वर्थ अग in 
+अर्णसशायामिधसलुवारॅऱ॒वा/संउ्आर्वेतं! ०याभि पत्नी विः मदाय निऽ KRG 
+
+
+| 
+रि 
+E 
+
+
+
+
+
+RRR NE nc | Re, SS 02 tia rikt dm rer 
+át ` 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+om घागा।या निं।ज्रुणीधअशिक्षता। musa daa Yua 3 देयानि चो तो तीर asset 
+
+| जा ऱ्य पथा E मायावी redere nå 
+
+याभिं gnagere aiamaa प्रियं। भरथः य॒ | 
+व स र्ट भ्यः ७) MR le | 
+
+याभिः।र थो न! अव॑थःया भि! अर्वतः! ०4 या भिः कृ त्सं आरञु नेयं z विदा Å 
+
+ASK ब) सुवति? चुदृभी ठिं।आव॑तं॥ या भिः सं तिं युर: से on 
+
+खती।भ्षविवना। वाची भर रमे इति। कु ते। नू ET बाधअयूयेअव॑से।नि | 
+
+ahr gs नि/अ-कुड भि! पाव) अस्मान! fuge HE 
+
+## Page 157
+
+
+oon ॥इलिप्रथमाषकेसप्तमोध्यायः RAA श्रीकृव्णारषेणमर्क्त। R * `€ 
+
+| Tala rad ene | ; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+भासवे वानेभी-सदलोना.६ | 
+| ge । गरः केतः paua प्रथा! 
+. | dere सवायाएव,राजी ए पसे।ये।नि। अरेकू रु darAWUE 
+है क dies ष्णासर्दनानि!अ EN बेइ समानः 
+
+
+(वर्ण ef en em 
+
+न ब OR] 
+
+naV न बसा /सऽमनसा!विरुयेरति विःरपे)०अ्ेति। | 
+
+बा।विएु द et बश॥ग्ररक्षप्यो नगव! EG S as असा nH | 
+anga nasa मघोनी आऽ भोगसे।इ्याराये। | 
+
+तिदस पश्चतःभ्यःउ विया।विःच सैं।५॥ १॥ क्षत्रा MERE मही 
+
+
+ह. | र उचाञजञोशुने 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+## Page 158
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SE RE Vo RR CF ENA .. 
+ss rn nN aaa 
+
+
+a TEn ` | | 
+| « $ 
+
+
+| > । अर्थो इव खं'इसे।विऽसहृदा। ताम armaa वि 
+न syre digga शक वासाः विश्व॑स्य/ई रा ना। 3 
+
+
+34 i 3 eiere feng 2, 
+Fur zi SANER ॥सुताकाचूनाबोध myr 
+ad | 
+
+
+a anden adaa Ma 
+TAANI ATAS å ee किर्य 
+
+
+/आयल/सुभ Å | GE 
+Aman gma aN T | | = 
+ना। हा INNE RINAT: Å: Ej ESI ९९ | 
+मर्थास॥ भश्मा मिं॥ऊ ge gaar eng da GST | 
+
+
+| 
+Få 
+
+
+vi | 
+~e Å हृ VE 
+è | 
+3» + 
+
+## Page 159
+
+कि på र 
+
+
+
+
+
+
+
+७३ 5 em verses र er 
+Pa å at EE 2 —== > = sr 5 र EEG 
+å Rt ine = र न EE p “न TERS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Qoo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 160
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+l 
+
+
+
+
+
+
+
+
+
+
+
+
+
+vanda sigder org anga tat 
+mias येव[तारेक्णभभाऊर्यंमंत!सबः$ 
+
+
+| WNEIR ax TER RUTEN | 
+zadana a me रहस URRA 
+
+| IRIRAN RRL RAVITA MARR 
+IET र्‌ि 97 
+
+
+
+
+
+
+Å 
+
+
+
+
+## Page 161
+
+
+
+
+
+
+
+
+
+क ज्य ger (eg 
+å vpn पद चज L 
+
+me । व्व/आयस! उ ब्य 
+Adrere rates dear 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+असम वला हत ør 7 JTD 
+५४ 
+å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| £ यत रर तर्मसः आरषिंऽइसेः तं? Fen 
+
+## Page 162
+
+gr न ज je eee eng 
+Koe Mensen: ॥द्यावासामारमदतो! 
+
+Å SRANAN ua i a 
+
+
+पृ: वरा ud å 
+| gi प्या RRIT ŠR | 
+TE पीतता रि EE vår 
+ice । वार, AG ना व्या्नो। अ 
+है ४ 3 
+
+
+$ N ११३लाव्‌? io 
+हि Net < 
+
+
+
+
+
+
+— > GP wD सळ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+भः नीतिवु॥ञर्यामे ते। सु+ सति।रेवऽ्यञ्यया। सद्र स्य। त A EARI सुस्नूऽ 
+यन्तः) विशा आस्मा PKO NE के gäl 
+
+| यज्ञ साथ बंकुं। कु विं।अवैसे।नि। क्या म हे ANAGR | 
+
+e लिं।इव/बय।अ स्याआ। ZARR ह EE प्‌ डी खेष। 
+
+।नि।ह्ुयाम हे॥ हस्ते। वि A id ni UH 
+EG ene NTT rele gr रच नाश 
+चन मत। मः भोज न त्मनो तोका asi aagnmagdtgamn 
+aiaga å agamas Aima: eng ama . 
+
+## Page 163
+
+अमा! नः प्रिया? सुन्द: sa रिरिषः॥मा!नतोके!त Sop å NAN |. 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+tk å I å å 
+
+
+
+
+
+PA ddd क्‌ NETTER Ta एनल त्क्य då डया यालाच Tegne TTT TTR ne PONT 
+ER | å z z 
+
+
+Fox. rimara daR maa ARNA gaganda 
+Å game Å at 2 ।अकूर्‌/ रो rt 
+अश्यशति॥ भ दाहि ते।सुः सति! सुळ यद त॑ मा। 
+ट et amza पर पर iin die å 
+amag भर Ris: TEN på RIL a FRIE या NA 
+नेम अस्मे वृस्य व नः इशमरु खासि!०) & ॥ बिचोटे ard 
+| PG 2 IQA YE (अमाव कथि 
+वीइति'अत रशे! सय! आत्माज ग॑तः। FEE] | 
+नो।मर्य)न।यावाअभि।छति!वश्चाद!य चोन र aiamaa १९) 
+सूर्य॑स्य ar एतंःस्वाः! झयूःमार्या सःन 
+
+
+JARo . 
+YR स] तत सुर्यस्य) ug Ñi 
+ferd aug Haas are यदाद! अर्क हरित YI 
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+## Page 164
+
+
+
+
+
+
+! 
+g 
+$ 
+i 
+i $ 
+| ¢ Lob 
+f 
+i 
+
+
+mada ERN । पिटकानि अवद्यात्‌॥०॥ तमने, 
+
+
+
+
+
+83900 >: på ४222455... 
+Si ७६६६८५८४८७. sii कक 25525 ve 
+
+
+
+
+
+_CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+gegen amara घने लिगा यु १वुर्यन ह ge age रथि न । क च 
+TEN ik नानाम भस HETE dei farer aaay iiag: 
+५ FIRANA AIA ।अतिअअतेऽमिशनासंत्या। थउ्यु । raan 
+o anmi पारे। नि AA rime अनारंभ 
+` जातदाअबीरथेथा।अना ENE अणे।सभुदे।यव। अखिनी। ऊह थः श्र 
+खोशतःअरिओो।नावौआतस्थिः वा 5 non य आणिता हट स. 
+_ याशा त! खिता दान! हि FORGE । 
+
+
+## Page 165
+
+| azia ॥अुईं।नरा!खुबते।प जि याथ कक्षीवते! CE ते। | | 
+._॥काशीवशवशशफाते/अश्वस्थ। eva कु भाग अ सिंच ते। रां याः॥|| va 
+
+
+
+
+
+
+
+
+
+
+eo 
+$ S 
+vg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ei 
+
+
+qa तीऊ iaria Her Ån 
+शिना/अवं3नीते।उस्तनिन्‍्यथु/ सर्वर | 
+
+
+शब्ये/स्वस्ति।पर/ अवल।नास MNAI 
+| erd SARRAT रंगक्षर्य(ापं।नापायनायारयेसहर्स्माय' 3 १ 
+4 बैहे।गे। त॑ मस्य॥भुमुरुष+नासत्याउत!वर्जि। पा पु तो ड्रापिइव/च्यवाना | 
+wI Treti IRE mammaa ति Ragan — d 
+adatni] raana MIRRATA, 
+
+थे OEF Raa पर्थुं ना य/०।सन da FÅ! 
+
+
+## Page 166
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+H सि'वन्ये तन! भद व्य GR आथर्वणः वा अश्‌ | 
+mqadraqusted स नासत्यादेर यम MÅGE: | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+## Page 167
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | 
+य७ भ्र | sgua Rase AT | | 
+आ SS er ode al | 
+a A कृषप॑ माणं।अ रण ते। I va Å RY डवा अछे दिय | 
+| zenan ga यं i विदयल्हीये।य ने। ' 
+UT giak अश्वता ` | 
+
+Rhea ett vend: IGEN EL, 
+
+
+Maragan Aa ता। सूर्य सवा कायर वाति वअर्वताधाय 
+ती॥ विश देवाः न्न्य Fay: EFTA GA ना सत्या/स i 
+
+
+१०३ 
+रति!यतासर्यानं।रिवः  दासायावर्ति।भरवःवॉतायभ्अदिविना।ह N 
+
+
+i 
+
+ji 
+| | 
+ti 
+
+
+
+
+
+
+
+
+
+
+
+EEEE EOS AA LE SEGUE e मार TERTRE: KG ka 
+| NAINN Fimaana MURAR FN) नसाउ रवे $ i । 
+
+## Page 168
+
+o x Ei ol e ॥अयाले॥ परि विश MENN नसी।सुरगे भि।न सऊ हू 
+GTA भिधा दिः भिइनी।नासत्या। रथेन वि। | 
+| र नेमव made RET निमआहतं। इ | 
+| mugga IJA RuFFMHT EEG Q कत वःय | 
+| | रा नीत MK थुः पांतवे।बारिविवा॥ राय विलेन q 
+
+
+Aaaa YMA mE ! Å | 
+å सस्यागा-्चीभि यभन! न देऽ da å pa Zag: विया | 
+
+
+
+
+
+
+
+
+
+
+नर सन रयूरतिभयातं। ९ 
+
+
+
+
+
+
+
+
+-CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+NE य eee 
+
+
+
+
+
+34.6 00 pl dd dnne: LON EE %26:% 30005 246८8 GE EDLE 
+= Rs på z 
+
+
+
+
+
+
+
+
+
+## Page 169
+
+
+
+
+
+- 
+
+
+
+
+
+
+
+
+
+a Våt vente erd FETT ee रितिं॥बिभथुतं। w र 
+| str निन्य सोस इ।खुवे प्रयासा शि आश्व mrd 
+स्यापाविःस्यो/रू$ Sor सश्वी ng AITJUNIJIT 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Akan । ९५ ॥मर्थ॥सेएसस्य(भ यन RT ANE 
+aina FEAE RLEY tag चाध्यातं।नासत्या।३ यावा | 
+: Juda RA WARR RER 0 
+गछथः + "चुरा वर्तिः ER, HET 
+
+
+
+
+
+
+
+
+## Page 170
+
+
+
+
+
+
+
+थः गणे SN, स्या i 
+।अश्येनार्‌ हु।अश्रिना।हुउ a] १०४ 
+
+
+sR 
+MIAJ: pt) 
+
+
+EERS ९! AK Sal भसि «Fel yig ९ Frem ag Fang 
+
+
+| 
+å | IJIH । ALYA ।विऽर्जुते। दं सै $ शिः।न।वा। 
+| eh | ऋतानि।सुस॒घांसे नि snu स्य Nana 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+रि EE | तना न उपृथुभअश्विना। बर्न 
+घ ३३१० य (के नि | 
+Jura गमर्धूनो १०१ rer verda घे \ ऽसे लज 
+
+
+da ren å naa! ।रुशौतीं आदे 
+rer $ 
+Er Kamper å ed “आएं, अश्य।स| 
+
+
+
+
+
+sm वानिन।अप्रतिइल । अहि*ह ने। ॥एतानि। वो। 
+
+
+
+## Page 171
+
+
+
+
+-` CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Flen 
+
+
+
+
+
+| 
+| 
+| 
+Å 
+| 
+
+
+
+
+
+
+
+
+
+
+99 GTA Ga अल्ये।ओयूर्य। सदंने!रोदंस्या:!। TÅ वा+पज््रासैः। STR 
+॥ १०९।। [हद kats Se af ९४ सूसो 'अश्विना। 
+| क्षरण] Ey $ ARA AAN om KUE 
+| प्रा।अरिणी ते कुंड! । कान्यस्थे। दिव: नुपाता। RÅ | 
+RTA रब । के eg ।दृशभे 
+
+
+
+
+
+PCA lS ली द एर ए पह 7 er IORS Å 
+
+
+
+
+
+
+
+
+
+
+
+
+ae åå 
+
+
+
+## Page 172
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+शार नेषान्युयये å 
+
+
+redan aisnspraa सी! अर्सु Jå TRU 
+| मयु घा्ययथृः तर कहा dr maha १ 
+उनीतं।अशिवेन।पिचा॥आ। अक्षी 'अर्विनोअवच्‌७वी ` 
+
+
+Hurd FIK AG वश्ेशशनंशञंथाय भरे! अ छयत्‌/सा। रुकी | 
+mg सरण NN IEA 3 
+त re 'मही।वां।ऊति।अर्िना।मयह RIIA | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_ संरिणीय/॥अथायुवा।इवं।अहयवपूरट sm diam 
+rele AS rast कां।अ ee Bn 
+यव (राचीनिःविःसदाय जाया ARER GE भित स्य।येर घा ३ gi | 
+
+
+i 
+| 
+
+## Page 173
+
+| 
+| 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+r TNT a SENNA 
+
+
+
+
+
++ . 
+भु 
+F: | 
+
+
+| फन्मर qafa in पा लास्य i To 
+९०३. TERTA paa l SEE ond रे 
+
+
+
+
+
+
+
+
+ग्यलं॥सथवा/मधीभा IRAE IRIZAR RNARO 
+
+कवीइ सुः मति।आ।चके/ वा। बिश्‍वीभधि same मे "अरे 
+
+| (येना angår RATE EG MM 
+
+चुत्रीनरा।बधि में ep eat श्यावो ren í 
+i 
+
+
+X SE RSA अवन Sn ge his 
+| 
+
+
+
+
+
+
+
+
+## Page 174
+
+
+
+
+
+
+
+5 
+ET PER ESKER GREN 2) कक SRNR RS PURSE - 
+Sea EER — are > = - øre 
+
+
+
+
+
+
+
+
+
+
+
+
+
+`, 
+
+
+
+
+
+
+
+
+
+
+२७ å | j 
+sak 
+
+
+
+
+
+' ` वीजवाचन!ब्जहत। कूण्बर्तडुवणाभ्युवः भ्यांत्सुःवीर्ीसः विदथ जा। बरेम॥ Qon 
+måne FÅR स$वान?यातु।अर्वाङ्गेयः ef 
+
+
+स्यामर्नसः)जञवीयाच त्रिः बंधु रु दुब॒णा। बार्त रहा: Asipi Argal स्थेन z 
+aihn naik nadim RAA AEA: a 
+स 'वीरअस्मेरति EE E यम ना (सु: इती Gaeilge sigder 
+व STEN FT वा। प्रति'अर्वर्तिय मिंछा। आ डः! विभास/अखिना पपूरा3 
+
+
+
+## Page 175
+
+
+
+
+
+
+
+EG 
+ke 
+
+
+N 
+
+
+
+
+
+r ES VE Fear Dn or a 77022:0७००००-०८००० ०० टन न — 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+डड an pr i 
+खनका हु TARET -- ammen ऽ — “५ >> PETE 
+
+
+| i Å 
+
+
+
+
+
+| 
+
+
+| gone anmarsj gd ten Å z 
+| TATIANE बाणा।॥युव/पनु धिताय।अ पिन्च ले 
+९७ ` | GAARA RRIAT EN Pee ये 
+शृत पे देइ GK. हरन THA aja Gras | 
+Ai एग्रेसहस्थःसा,रर्षणे) ne वरा क सासुःञाताह 
+| बामहे(अविविना!ना i ॥आ।नेः मता।रखथेन।गि र।सुषाणा।स 
+Qr å a hea सा निना Tidend! gå d 
+poe Tiree IU Gi शा: ९ | 
+ge STAN बस UIRE केतु! व नि ने। | 
+
+## Page 176
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+। arsen aaan थीनिधभ तिं। मु स्य| मश्याम नि 
+
+
+
+
+
+
+
+
+| | mett | 
+
+| अधा्ि/वार्मनासाअयते।आ।दिजयःपसवदा मिधम।/प्रवियंतिफलय॑/आ।वों। | 
+| ।ररथअद्विना/अरुह्तःसं'यत्‌रमिथःयस्पूथानास।अग्मंताश्चमेगम. | 
+श्वा +अमिताशजायरव।रणि॥ युवो Nansen Aa aaaEn | 
+थ CE ब लि ती | 
+
+
+£ 
+
+
+
+
+
+
+qimadi ज यासि Fm BAS य! | 
+| fa eY: stanse इयुज'रथवा णीर्‌ | 
+FaTrFnaTaANTY: re रव्यार्यजग्मबी/र्‍याया भरणी त!जे 3 | 
+| पतीरति॥ २०्यृव नपस FG यमी aA | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+pot ळी Esp 
+
+## Page 177
+
+
+
+ह TR STEEN: 7 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| EG 
+
+| Too agind है Sk e k an Ran KL KJEKS 8 
+| ९०८ SARININ क्रणा।सं।इन्यथ/॥से ARMARRI NRA 
+| Rt विभस rause तं।कर्पमाण।पर$बति।पितुः।स्चस्यत्य 
+
+| manina शात अभी डे।अभवनाओ 
+
+क्‍ यशछउत!/स्या।वा।म पु मत मालिका भरपत!मं Sa N 
+| चम लन जुट dk ks at 
+
+| रुत रउ यश्यथ्चः। चाय (भिर 
+
+| र FIG: ps 
+
+
+
+
+
+. थयाचिः आ pba सऽ गाचा 
+
+
+oo कक PE 
+
+
+
+## Page 178
+
+re see 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+| 4 
+
+azeri चिव/च' सती अ कोल वि हो सहु व सहे। वो! सा 
+å Aal ।मन्म॑)वे चेतं।भद्य॥माआर्चत(दर्यमानध paa] T 
+EE याच? वर्षट$रूतस्य' ASINE Ad RA यु NT 
+सन: प्र।या।घो atana न ATRA RARUA 
+बामन विहान २२ nyest रूचि त हि रिरे भौज खिल 
+mimm अक्लीर लि।थु भः'यत्ती३ ति! दव॥युवे। Rens सह।रन'यृववा। 
+
+
+
+
+
+
+
+
+
+
+
+
+nar NAs ATT है Drq 
+AUG, Sia तेशभि IT सा भ्यः घेनव ग) 
+y pork ar य यही, राय यनः मिमी त॑! | 
+
+
+
+
+
+
+
+
+
+## Page 179
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+१०५ | 
+
+
+
+
+
+
+
+
+
+
+
+_ रवःरथःअ ASER UIE E EE RE ESE य न 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ds gan न सिमी ते। थे a E CAE असने। रथ/अन शब? ग॒ मिनी वतोः 
+ie IEE चाकन १ शय।ससह +मा. तन॒/ऊत्पाले/ भ न नि/क तु + सो स॒ पे: 
+RIMEN si Rza NRR aN biale 
+LURRR 77 77777 य 
+WAYI । नरे?! गोः अर्न'स्वः्मा'महिव*-चश्षतःजा मेना) 
+वश वस्त ran 387 
+> med. दा/शवाय॑।अधि इसे उ Rd, ३०९ 
+
+
+
+
+
+
+
+
+
+
+
+## Page 180
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+er g” ret ales Sen 
+E 4 Å 
+
+
+qiguan maama भाः स्नुः वरी) सू तई रयं ती सु 
+मंगळी बिन्भ॑ती देयः वीतिइह। अद्य।उ व: श्रे plait > RWI: 
+HELL Madan Armar नीं॥ ATATA 
+dar AGA ER ANA NE भिःदिवशआर्नास्‌' 
+अर्प कृथ्णो। ४ निर्शोटिवी। आव hentar unsåryd भिः 
+याति/स्‌शयु। रथेना आ बह्‌ ती) पोव्यी।वायाणि। विने der: 
+å 34 भा। चार वत्तीनां। विः भाती ना! धथ मा उ दाः वि 
+(an ३ आड़ FuFTHHANSTSTTA NT प्र। झ्गा ते। ÅST 
+RARA ud कू! पं थाया तवे। री य।अग माय ची प्रति र mau 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+E g 
+Øk gn 
+
+
+
+
+## Page 181
+
+
+
+
+
+
+
+
+
+
+स॑ना। वावःउद'ह्य लि व ड: स्तर्वान: रेभः उ बसंध विउभा ती अदय। त व! 
+
+ते) भयोचि।अस्मेइति! आरयृः। नि। Rà हिजाब पाती मत कस सके 
+विति द्दाषे।मत्याय।वायोःऽ qaaa नागड Fp दाथ, | 
+रव । अनी केय सस्य केत।टह्तीविभा . 
+et अण! चः! विउ छ।आ।नः अने 'य न म/ बिश्व F IA Å åa 
+
+
+
+
+
+
+
+
+बुर लाई OM SS Aa NRR क 
+
+
+izad 
+्राभरा महे।सती॥यथा। जो असं | 
+इ २०५, 
+
+
+
+
+
+
+
+
+
+
+हं। ग्राम अस्मिय/अनाव॒र MENER TA BTG 
+मंसा।विधे माने॥य वेश IM #च।मचु।आयेजे।पिता/त वश अश्याम।तर्व।रु रं 
+
+
+i 
+
+
+å an Eu N इबिफ्देसथमाष्ट के HENNY NESE El | | 
+सज्येचवद्यवचीयुरुवारतहिनीपुरदससाधे॥त्बेसररत्युपनामक शिवरामे 
+र्थिते॥ mayga थेच N ON nn mi: 
+
+
+## Page 182
+
+
+gn EIRP TITS mrk AA 
+
+
+
+
+
+_CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Pun kar 
+
+
+ro PNG ETT RE : EDR “रावर, BANET 
+
+
+og 
+
+
+
+
+
+
+
+
+
+
+
+Ame’ CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection | . : i 
+
+
+
+
+
+RHODES SPRY EE 
+
+
+g 
+LT ETR E EL DL ONE TR Ps 
+ES BETEL INN ENN LI SRT PRE I NN 
+
+
+| 
+| 
+
+| 
+| 
+| 
+
+
+
+## Page 183
+
+mme 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+myaman ga वष 3 यज्ञेरु 
+| दूना विरस ध्य ईव/मरू दास्या ken få! 
+सानक्ताथपुरुषा।विदनिदति।ररी।नाअत्के। stå वसोना/यर्येस्याशिया।सुर 
+
+
+विश्दे।वरिवर्युतुरटेवामाइतःत्या।मेभ्यरा 
+
+
+
+
+
+
+
+
+
+
+
+नें Fl ran 
+| पूमाउत/श्रु्त He यसी॥ 
+अत भिः। GNU वरुण! मित्र /रातिः! 
+
+
+'वोचेय'वसुःताति।अग्नेः। ९ nå Ak 
+rss gaa 
+गवो शाता।डुशऽ RUTA रथे प्रियः 
+
+
+
+
+
+i 
+
+| 
+
+| 
+
+## Page 184
+
+hi 
+bl 
+
+
+ee ds dato Tid arms ar TE NESSES शशश 
+
+
+- (९-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+på 
+
+
+ममचु।नः।परिंज्ञञावसरो।मम सुवात॑/अपा। fo artene Hazel 
+| 3 Aigai ताओ शिम कुबध्यें।प्रावृ।न| 
+चातं।अपां।कूण MAURIA ANIAR: ager पुक्ध्ये।यिर्षा:शवारों 
+
+
+= 
+AT न्य 
+7 å 
+
+
+f 
+
+
+f 
+| g 
+| | 
+i 
+
+
+| 
+t 
+
+
+U EA ५०००-८7: 5 ० >> 
+
+
+
+
+
+
+
+
+
+
+
+i 
+
+
+## Page 185
+
+
+
+
+
+| 
+vegrer हिं। मधस्यारधंः।स वो । IET:) 
+Ere | Reo a Fac सस Rusk 
+हणो।अभिः Tan AEG तिंभ्अश्णयाऽ घुकू ANRA 
+haafi ।सुतऽबमसमबरा्थतयनडंषः द्‌ सुतमा sagatiden 
+Res रा निधयाहि/या gulgrå age २ पअथास्पितीनडव 
+mIYrFAuTdi oa लैयस्य।ने ugrar थि | Go | 
+
+
+
+
+
+
+
+
+
+(शा 
+
+
+
+
+
+
+F | sl 
+
+TE UETISK Aa sag BRA Si 
+
+target ge रश्मिः ते।रेरानासं तर्षः सं जते। चूने Ra | Å 
+चो विश्वेषरिवस्पतेण्बा | 
+
+
+
+
+
+AE यामावर्स्यसरेभर 
+
+
+
+
+
+| ogsaa ग्रीवं)अणें ० गअर्य॑। गिर। सद्यः! BNI: उभयेवास | 
+.. दिरा नार्वा 0200: 4 
+a दीर्घःअंसा:स्वूरमग्यमरित। सूरं4न।अद्यी त४ EN grr MRN aria a 
+O ERRAR RNAAR ARLA -o 
+GE त be जरनुबलु aaa o 
+FERMINA N तो यतभ्अद्ये।भागं।वि$भज्ञी å नो en 
+
+## Page 186
+
+
+
+Fra 4 ।सविताटिमूना अनागसः यो चति।सयीय। एह गृहं rem 
+
+
+a तिभः KN अः ene थॉना॥सिसासंती यातना! राववंत/आाअगाव(अग्रॅ 
+| F ` _. ग्रंदवामजतेवर्रलांगभगंस्याससावरणस्य/जञाभि ER TN 
+
+
+
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+ye 
+५3४६ 
+
+
+| 
+i 
+
+
+
+
+
+
+
+
+
+
+E Rl दृध्याशयमअपस्याथाता/जर्येंगातं।द ran ४ auge sag tay 
+
+Ku वअ TF नि।तरमसा agag: 
+, विश्‍भातीगाअर्पाअन्यव!ए ne ag RYE Predrag 
+
+| ETTE THUNE: 
+
+k 
+
+
+
+
+
+
+
+
+## Page 187
+
+
+
+
+
+
+
+
+
+
+zagra: iiaj need योजना निएकौरएका।... 
+KARN TT 
+| z योषा।न।मिना ति। था मं अ er ngA 
+
+RRRA RAN RANNAR ARARE विः भाती 
+ju Us RIMAR NUMRENE RNANA: । 
+
+
+
+
+
+da अध्रसनिता ५ ` न | | Í 
+
+
+| वनता वसे jr apart nn के 
+Rae: 5 åren ned arena स त स्व २ र्मि।अचे: 
+Tom Es हर ।उषधन्‌।अद।स्‌ऽहवा Rue भरमा सु। राय॑।। मघ 
+
+
+TYNGRE ६ ॥उवाःउळंती!संग्धानेअग्ना उतः्यन!स्ये.'उर्वियायाति `. 
+
+
+igam naaa - 
+IT अमनिश।शिती ची॥स 
+
+
+kuer ger प्रअसावीव!हिःप I t Ea EOK CE bT e [० 
+
+
+REA ITU Def एतिसाथ|प्रमानती:रव/न।द्विें।मि 
+वकक कनी नता वि माळ ans ईव आवि eiaa याणिंगअय़ःसव! 
+-_ magagaan आए iE BR 
+
+
+
+
+
+
+
+
+
+
+## Page 188
+
+
+
+gå 
+
+
+Fo aani, 
+
+
+Fee २४६३. dm 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+6. 
+
+
+स्यगरा।ननिरीअरुत भा के तुं ॥ विति आयी PENT ` 
+faga ang gn ।शयुषाणा sara प्रेभमेषब्प र. i 
+
+
+fn: 
+i å 
+p 
+$ 
+på 
+pr 
+A | 
+
+
+
+
+
+
+
+
+
+KSSE ७ magangan å NÅ मिं।न (परि। Gran मिं।अरेपसा तन्वा 
+र दि Å påse Use SN तिसया d be ag SME EN 
+aa a ७ ।पये एशाती'सुः वासी: उवा k eru du 
+åte क।अपएति/अस्था/प्रतिच क्ष्य Sa किरा 
+Rams rann ge RKO aaf 
+प्रत्नःवंत/न्थंसी॥नूनं।अस्मर ति।रेवव(उछ तु! es सन म 
+नि। अवध्यमानाः पृणर्यःससेतुगरेवद(उ मघ न्यः! Aa ळी BIT है| 
+Ane nahh अश्बे' agrena ।गवोभअरुणा SN ॥वि JE 
+TAARTEN तिश्वाते।अग्नि/उ a ERR AER मचाये ३ 
+
+
+> vi . आळ 
+
+
+## Page 189
+
+
+RRS NR 
+र ED å 
+
+
+vg ) å 
+$ f 
+8. | 
+| | 
+
+
+| års अमा।सते। वह सि। रि! वाउ व॑ः देवि दार्थवे/मत्यांय/अरेताद En 
+| im rn या å तक धरम रात À 
+o ne ॥प्रावरिति।रलोप्रातः saved ENL AER NA sma 
+ginama AAMEN AENG RELY ROTINEIRA 
+सम कःंईमट्याति।यः।ा।आऽये तासात 
+| rr त्रात! इछ! EEN EN मता।रथेने अंशोः सुते 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ति | 
+
+
+स 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+huse रव डय सूती भि: DAN EDA mAg 
+
+## Page 190
+
+KALUE परप रिच/श्रवस्ववंशशतस्या धारा RAANEI fe 
+श्रित/यः।शणा सहद y aariaa pr ले | 
+
+
+RRS ba i å å c à vi ७४६ å IEA OAN ROETE S- mem E rek | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+._इवाअबिका॥ ९९ ॥आग्नि होतारं 'सये।दासतंवर्य।सूनुं्सह॑सः।चावःवेदस।िः म ४ 
+Aing Aga दज ३ ; 
+Smet na nin EA RT A REN RAA ar 
+
+
+E ह वताना वि।चिताधद शिंष्णवतां टि वि।र््योसः॥ दसिया+ वंत अरू 
+bs mgm Ad ES 
+AIR INEU अन्यः RRR ARGIRA तंस भिगत! रोकः ॥ ९०॥ 
+अमंरदाव(स्तामांन!ग्राभरेगमनीषा/सिंथो/अ ।क्षियतः भः व्यस्य, rep सहर्स।अमिमीत/ सदर 
+व/अहत:पाज।श्रव।हछमान rrp mr राव अश्वानि 
+द*आर्दे॥शत कशी वाच /असुर स्यागे ने! दिविः भर्वः te /मा। श्यावा:। 
+gadaza: मत RYRTUNEST NIR AFTE IGG av I 
+NAs ।ृतारित(ददागरथस्यारणाःसर सरस्य 
+विमदः च्युत शनःवतःगअयाच् कीवतः उ वरअश्क्षयज्ता॥ इवीतअल।रग्यति ४ 
+
+
+
+
+
+आ CEARC KI AELE E EEIEIE EE D ERETTE LEURE EIE L IRATA 
+
+
+aama Rs ran mest ref end duer ir 
+maginn nR de urii 
+
+
+
+
+
+
+
+
+## Page 191
+
+Agga anmiana nRa Ra nm 
+Rangiga RaR g aA विरु काता। दी बी न/ भवति 
+
+
+(वर RZANI RAAS तो/अुरंत/वर्ना।इव/यव/स्छिरं "नि श्स 
+
+
+
+
+
+® ` 
+= FR ES et i PORN SPR Eat, 
+
+
+- (९-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+a 
+
+
+Ye kanaa aaan ms GNA कि Å 
+8... rogaland sr से॥प।यः।पृरुणि।गा हने।त संत! नोऽ 
+FE UR स्ट रा/विव/अन्तो।नि।रिणा वि/ओज॑सा।नि। तर णि। तित करो जैसा ॥ 
+RANTAI साथी agaange तरः gd SMARY 
+anaman a Raa a aair A 
+
+
+A3 नर र्यी GUAN ९२ NR नित GF सति 
+000000 
+
+
+
+
+
+
+und नासा umia mezh Ruga स्य/केवः। = wo | 
+så स्म|अस्याहवें॥/ पी त UO adsl sd infganaa की. | 
+सत्ता भ्टगवः। भक्षेत | 
+
+
+
+
+
+Å रः | 
+ors NIVÅ भक्षं दाङ भ्टर ब॥अग्कि।र हे | | ५. ..] 
+
+
++ FÅ GE 
+f n 
+i å है | - 3455 ar ge m = | l 
+
+## Page 192
+
+
+
+2 
+
+ह f 
+
+} 
+
+$ 
+
+å 
+
+i 
+å 
+å 3 
+
+
+DER då bd ANN dn COT PR 
+g 
+
+
+
+
+
+SKO i 
+V TNE SAONA bre PRPS, I Landene 
+
+
+dág eR ma aR a AR usmafrtr दे an हाळ 
+र क Møn ती ah थिं। मालुषा 
+यां। ag ra TG STÅL RSA ma य।हव्या द्विई।आ। वर्य: खं! 
+på ।सहन्‌ऽतम। क्विन्‌; त॑म^मयसिद्व$ तोतये ।रयिःन।देनःतातवे॥श्व्मिनऽतंस! | 
+RaZ: Hall gjeve GM GE = ननन nr ड 
+_ भाव महे।सहेसा।स हस्ते उ बः वुधे पशु से ना अर मव - 
+airada Ragagna Raa a थि दोत्तासइूणो। | 
+| सरकते २ कक अर की पथ ह १ 
+महि।शविद्धन/क थि।संः क से 'अस्े॥मह resa GÅ मर्थ i 
+
+
+—— 
+| | 
+bå 
+
+
+P 
+
+
+Å 
+t 
+
+
+## Page 193
+
+
+
+
+
+- (९-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+fi 
+
+
+nen ९३ ॥अयेज्ञायत/महुँप/थरीम druer leg शिमां।अबेेअग्निः (सअ 
+
+
+N z त॑भविश्कः श्वि! स रिवः यते।र यिः ईव श्रवस्यते ॥अदव्यः।होती।नि।स टद इ पदे 
+[rede पदें! सेः साअ पिंवातयामसि।सतस्वाप्‌ था/ नर्स सा।ह॒विष्म॑ताट््‌वः 
+Aae aa ऊर्मीउ प१आ+टवि।अया कृपा AUFS AU na रशवौ।मरनने। 
+पराऽवरतदिव।मा Ree झरा 0 व MSN | 
+भंगक निकट्द/द क तं।वक्षाणअक्षऽभिं! देः वर्नेवु।दुवणिं:॥ | 
+| skin igmg ग्नि? yay UKS GA ROA aR 
+_ अग्वियसस्यअध्वरस्वाचेतति।कला।यशरयवि UK विधा।इजुर्यते। वि å 
+__तार्ि।वृस्यशे॥यतेः।छुत्‌ःश्री।अतिथि।अज्ञायत।वद्गिः ANANIRA ई 
+
+
+Å 
+| 
+| | 
+4 ? Å 
+i Å 4 है) Å 
+प f $5 i | 
+} RE . k ५ $ || 
+EG RUNA T i f N 
+3 # E H å SN 
+BE A å $ , Å 
+TÅRER EN åå å å Å 
+SMUG Sag | F 
+EGG Y र \ Ži ५2५ eb 
+å #१ $ ५ 
+Å | ४2 
+१8 , j A 
+å ` 
+Ki Å AE सष कुक pas 3 
+å AT = on (न्न 
+í ; ` 
+X ØY NI I 
+
+## Page 194
+
+
+
+स्य er j piii pakiti Age A aE रतं नि 
+Aaa pma TAUTA gAn ९९ ne 
+| विऽहोयाःअर तिः सुद्धे AMA मली Sbr de h 
+Fraye MER आङ RER ag ENN TAAR] 
+| सण्व anami जने। शेम: हित! अभि: ये पलाश अर धे वि 
+| श्वर्विशसः रमा Je । pa Sa ह दिवस्य भूते 
+| AEE SUI पिति।परियं। ति ।अरतिंवि!ए रिरे। हव्यः Ru EG 
+Gis ट्स/हेतारंर्‍यज्ञतंकर्वि[देवार्सर॒ग्बाअवसे/वसुःय १(यी:इभि!!रण्व! वरस XC 
+ugy niidi as सातये।अपाका।संते इ पिर प्र: नर्य सि।्ाअनवद्य। नयसि ॥ 
+
+
+
+
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+= === Ti EE EEE PE 5 I 333 == 
+EM nt sine emai mn - = क sent = = = नस न्य 
+
+
+
+
+
+vg PTAR a tak AR: i aq agail मो) 
+| q mrd धि।य/स्म/एव॑नासु।कास। चित 4 FAY 
+आसता दबवम 4 + तायः साजरा आना 
+ie TÄNATI RUTAR RRITAR 
+अर al refs gufehadnsd gange RNA र्ड i स्प 
+जरी 
+
+
+8 च।वरुणाय।स+प्र जज काय।सः्प्रथाअस्माक!वः/३ ३१३. 
+| शसि र ag श्वःआंयुं।प्रःस rs AE GÅR 
+ard Ua MAT IF! 
+
+| Riiaga मति।कयर्य। Rara TT ok raus as भिया 
+
+
+भिःएयाऊ Aria Ra य था।पुराअनेनाः ak je जी चिव! 
+MARRIN ९६ ॥प्रावन!वो चे यं।भ ह्यंधनायः।रयर्वानि/मन्मे रेने ति 
+TERA RANURA RRAN A A पेः।अजेत हुः; मतिं अव/सखवेद/अघ 
+| बोसः।अकः तरं।अव॑ giam aud: par 
+। वीर्योरण्य।सतं।स्‌ १वीय॥इः मन्मन Gs भि।आ। (2 वा। ए ची महि ।आ। स॒त्या Nu: 
+
+Ge Lap di VES DN Eg रिःव 
+
+
+## Page 195
+
+
+
+
+
+
+
+लिक 
+
+Kg: Å AM uA ॥स्यासा[रिषयध्यें ATI ENRI N ` 
+rare ea age नः डड रया परीणसा।याहि।प था/अने 
+हसा लुरः।याहि'अर सा॥सच॑रच।न्‌ः।पराके'आ। 
+
+
+Aa STUNT 
+
+
+
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+STN 
+
+
+ILAAN: भि।सदी।याहि'अभििः ru ५ तररूबसा एये। चि Å | 
+; bie bY दिदे(अमसे।अन्याअस्रद(रिरि | ` - 
+hå वित/अंडिःव:।रिश्क्षितं।चित/अद्विः्व॥। हि। ri GUTT NAME | 
+
+दधुः तीन व/सत्र/३::म तीनों ॥ a पाष PN: agn 
+-maamaa Are :ऽह्‌नं sie पसार त) ९७ बन 
+QANAD RAINA ARAARA TARIRAN 
+å aa jg Ra rd åg Er 
+
+
+gaiari Ram सि कें। अब ते। न। वं संग! त कुशाण गागः।नःवं्सगः।भराय।ह A mAai 
+
+
+a 
+
+
+gå: nianma g RRAN itdi E AIRA: 
+
+
+
+
+
+
+## Page 196
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TEON 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+निरहितासरा।नि+ Rana नि।अच ते। अं ते pe: Ang srasdtdiszar . 
+
+
+## Page 197
+
+सि राप कुवास azizan | 
+
+| गव रेडगभस्ताः। श चः वतिर्म।अशनाय।सं। ल दसे ऽ विच्या d 
+
+नशओज॑सा/वावंत dg Eas aal वा रुक्ष ag सि! रश्व वा विश्च 
+
+| NÄRA पटू सतेवे'अऊीासमुड। असन: रथाच व वान यतः र थाच व॥तः। | 
+
+så: sinuain el हण pus FU 
+
+NEC he rn नाभ अ 
+$ 
+
+
+
+
+
+
+
+
+| ब्सुःयं Rs आय (सुस्ता e RR 
+तक्षसु Bk GAR Ir AG (FÅ TIE EO वानिमं॥ अ. AE वि He 
+| q नि।सातये॥भिनदापुर॑।नव iiz ua | etsaanaf aa ng तिं।व me 
+
+
+| 
+
+
+|. 
+å 
+|| १... 
+f i Hå 
+j | E 
+8 
+4 f 
+RT ERR PIER EIEE T A 2 å LE N 
+
+
+Å 
+č 
+$ 
+> 
+4 
+Få 
+
+
+
+
+
+b AAI 
+
+## Page 198
+
+Saas Ltr MB EEO 
+ETG; 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+| vo FÅ dog bd ER 
+
+
+Y 
+
+
+
+
+
+
+
+at व I 
+
+
+RAIMA ARIMR 
+
+
+
+
+
+
+
+
+
+
+
+grr eds 
+निओर्जसा इंड समत; सु यज्ञमा नं। आर्य प्र आव! RJ NÅ ऊ GAY 
+Kad पवक amaian 
+
+
+Ee Enek SO KALI वाजातःओअंसा। ग्रे पिले।वा वे। अरूण: । 
+
+
+-IARTA TANIA nd TATRA . 
+
+
+
+## Page 199
+
+NTEU azaga RAAE EÅUITD dd 
+
+fa mg सनवथ हिरी ॥ ९९॥ 
+IAHI याभ सः faga ran Ts An 
+
+p as 4am geng याविश्वा।/सर्वनानि।मार्सुषा। राता नि gn gm 
+
+
+नुषा।श्द।तु्े 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i 
+å 
+S 
+
+
+Å 
+
+
+
+
+
+विश्वेष। aai regatta RAR सनिव्य ३: ए भंकू । 
+
+ha ; > a» धरे! नत भोर कर यंत आयव/स््रमिंभि4र भो 
+
+aan वाहते (मि नमस बरजश्वसातागव्यस्यानिः रूञःसक्षेतः दविः 
+
+॥यवागयता।ह।मनो। fa PN अर AE 
+naamaan Auaga: 
+
+smed mg 
+
+
+T Kl 
+| 
+
+## Page 200
+
+
+
+
+
+
+
+
+
+
+en 
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+५०९०५ ERT 
+ह. 
+
+
+RÅR भिः(स्वं ऽ साताहवीस$ भिय टह त॑वे। सथ दृष वश्मिच। Ra सि॥आ भे 
+वेधसंशनवीयसःमन्म failed बार तव 
+ARARA RNAAR AARNA ARRE ae 
+
+
+इलो।ऊता।ससत्याम।पृतन्यतः/वनुयामी Fana AUREN RANA 
+
+
+जु/सुच्वते ।अस्मित/यूति।वि। चयेम। भरें। कु ते। वाअः यं तशभरें। ina जि ये । भरें।आप 
+
+
+।वक्सनि।उषःऽ बुथः।स्व ends BR Ry AGN aidh 
+adm व्यो।३ष्‌ः व्‌ AUFA MAA भय कू। से GJ CURAE RARE- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 201
+
+
+
+
+
+
+snør चेअ हिताअंतरितिपदयं ति। रश्मि! भें: स: घा विदे।अलु इ 
+doriga A गोऽ एष॑णः॥चु।्थातते। पूर्वः था।वृ।रः वायवं गिरः; भ्यः। 
+-9 इड शिक्षन।अप।अज॥आ।एश्य।संमा न्या। दिशा। ÅR NA 
+
+| gRarfudgaåaagd end Rand NÄRIMA 
+
+eOe it atit eiee UE ihe E Naets BE E Ee d 
+
+बापें।अर्चति।ओजंसा॥इ ne andra JAN ap ००० > 
+
+
+Wepre ernest a a 
+
+
+WREJNA råsdigargå वेणा तंः (इये।हत॥हर।चत्ता 
+aged TARZ gausmå era! GÅ ua EA RALE RC 
+/ 5 |॥२१॥ उमेइतिं।पुनामिरो्सीइ ति। सतेन इहे! दहासि।सं।महीअनिंद्र॥ अभि: 
+
+
+
+
+
+
+
+
+RR 
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+(अप स्‌तुडुःऽ मतिःविश TATA २० NN avant | 
+
+
+AAG TRIIR NAIRA ARINA ERIRE २ | 
+
+
+>. 
+
+
+| vok 
+
+
+## Page 202
+
+
+९९ 
+
+
+| Krev वर्नेगमंदेतु त मंदिन वा यार å: å URMAY: 7 
+o å Fa IA ऊतय॥सभ्रीचीना/। $ 
+_ gigh SN qanagg रे हिंता।वायु।अरुणा।वायुः। 
+
+
+| | तेन्यते।दूः ask चित्रा।न न्वा ARI 
+व्‌ 
+
+
+
+
+
+i 
+| 
+
+
+RTR ae LET 
+
+
+adigan Ana gri (परि! व VANES IIE A KUE SSE णव दा बाया 
+gadina Rma वं टृ रिणा।यदा॥ EY FFIARUDEN 
+यातः मतीनां वे छने मका महार हर 'असेके।यासातिस्रःपंयारातेः।अ AS 
+gia अर्वप॥त 'तेसनायतिततक चतस! तेrसनायति॥धिार्गऽम्हशि। 
+शारि सं मुण॥सवीर क्षशनि(वहेय॥अवःमहः ड्द हि"्यायाना रा याचाह | 
+द्योः या, T Bie vut G ela UX: ERE AIE Ui i तमः (हि gs $) | 
+१३यसे॥अ्पुरुषऽ भर।अप्रतिशत/ झर।सलेः ५ शूरास 
+eR RGTR ARIRE RITARA 
+सुन्यनगडदकेसासति et da gd इंड ॥दृदाति(आध्सुवॉरायेंगर ९९ 
+
+
+| 
+
+
+
+
+
+| 
+
+
+| mmga anad वाथेति dage går पी तये। ti 
+Sn Me व तार ee न ।याहि।दावने।वा 
+
+
+
+
+
+
+## Page 203
+
+
+
+
+
+वरिवो ।वहिखा naud रं: थिं।जार।आ ।ससतीइवाप्रr्वक्षय। 
+| en aga Fe सि।वासयउषर्सःभ्य।उषसः। थं च॑यः। तभा u 
+(ुभ्योशुक्रास॑/शुच॑व/ तुर SARN 
+
+
+SE Er SE Sue LESS 
+
+
+å 
+
+tk $ 
+på 
+
+$ å 
+
+$i 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| kar duza! गाद समाचभग रहात छःवीये॥सं!विशव 
+
+i त ST a एप अश 
+
+नांगरथमःपीति'अहेसि।सुता AR TE Ruse ig त्मतीनो। विरा वव pa 
+
+| विश्वाः। ZARI g nN? gga शिरे २३ ag a iat 
+
+## Page 204
+
+
+ra eget पपा 
+DAIA am $मेतअस्ति eg PAA DUUG et St 
+
+EN हक सोम ER! på Rae an ay 
+[अयमाय आयष सै म॑देवेयू। 
+; Merg smaAga: रला उपयाहि वीत 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+लयाय भो 
+
+
+| तया dried र॑ ससूव सया ॥अध्चर्युनिंधभरमाणा: 
+i ०० आर्थ न। वृक्षे दअ ह ug: 
+
+
+
+
+
+
+
+
+## Page 205
+
+
+
+
+
+
+
+
+
+
+J तानि।वी वये। aigam adain: aiga RURAN 
+EEUE EEE EAEC E EELEE age 
+
+
+सप हदवय gr ल यमाह 
+| वृ ॥ २४॥३भे अर $सुआ।सुताःइहःअध्ययुऽभिःभरमाथाः। अयसः म | 
+| Sd एति dj भस i gR आराव॑॥युवा/य | 
+
+
+॥अवचि।अव्ययी॥अं विवायाइति।ससत/याहि। रा 
+
+
+
+
+
+
+
+
+टे अ १ ; pe Ad ¢ EE I oh vf 
+Nid a i PRR AN is 20 2७५. MEM PST CARN 
+Å Sl nin Se 2320255... ARPT ILAE 000000 RI 
+N क bd : NERALE RE LETA jd ०८६ Å 
+६ sa 
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| 
+Å 
+| 
+I 
+Å 
+
+
+
+
+
+ta, 
+
+
+
+## Page 206
+
+eg VUTGTÅ ENG मंत। वा नि आशथेअला।न rad ua पि aa | 
+
+
+i 
+Eig 
+$ EY RB 
+है ER 
+d: pi 
+vi 
+Å Ay 
+| í 
+
+
+
+
+
+
+
+
+STENENE 
+3 ad Bs med sais नाक 
+> ST Å tits Ad få d høg RNS NAT K 
+
+कः १, 
+
+
+|... Re | बन पावा/वर्दति (हाय छ ते। रह ड व्यछतेंतवि।खूडतादरशे।रीयतेतंआ | 
+ini oa ताया angna rd | 
+ON ध्केआआइडइतियं।अशख्थउपःतिशे ताजायव।अस्तिर ति।ते।संताजायवः। सा के। å 
+| mignani ते। वाया? तिं।उ व॑।द्सयं ति।धिन व:।न। अप दस्येति। | 
+
+| घेनव:॥इमे यि।ते।सु। वाये३ A angst anda gade 
+RENIA TANTAL चिदाये।अनाश व भी रा। वि द(अगिराए ओक ji 
+'सर्यस्यः adig नियंत॑३॥३ स्तयो? इ; RATEN २९ NNR | 
+| निगिराभ्यी।डुह त!नमःहे AA TA RAYA यास्वा दिछं।एङयव३ 
+
+
+
+
+
+
+
+
+
+
+pr an z पशस्ततागेभथ/एनो॥क्षत्रं, | - 
+राज्ञा धुवासतीइतिं्तःअसुती!यतेःयतेऽरस्तुताअथ'्टनोधक्षचं। | = 
+त ततला भऽ Ragam s ai Amga यसी। 
+
+gangar gs nag A d 
+
+## Page 207
+
+
+सर्दनं। अर्यम्णः वर्ुणस्य।च!अ थी दधाते रति वह दएउ क्थ्य नक fe 
+FEAT तीअ पारयवःक्षितिं।खंवर्तीआ।सचेतेशतिदि | 
+
+' , | बऽदिविभ्ञागःवांसा।द्विः टिँवि॥ऽयेतिंष्मदः त्रं्आशातेशति।आदित्यादालु,. | 
+
+| OG A ॥पत्तीइ ति॥ भित्र तयोः! वरणः!यातयतऽ सेनः (अर्येमा TANA ÅT UY | 
+
+
+| t 'ितायधवररुणाय। AR सा मं भू दु।अवप्पा नें geniene Pran 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+| 
+
+
+SD 
+
+
+
+
+
+
+
+
+| è Tsar - क क छा नममक 
+pf 
+3 ९४ | 
+
+
+~ refere aars Restad २६ RARAN Re 
+
+## Page 208
+
+
+
+N "ler 
+
+
+
+
+
+3 T 
+otg 
+å 
+o å t + 
+| H 
+i 
+ii 
+
+
+| Vee elg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PR रवा सं! मुषेरत। Rhana: नोष॑सौ। त थारजाना।रर्थःयददेसेहे। | ` 
+धरजुषरता/विश्‍वा जया ddmd pe ar ar | 
+| es तारि ह पक 
+aadatan Anaa: Å våår | 
+å शएने॥/पहिमपंतिज् सगभ atana a add |. 
+Kf आय बाड रणाय il वे(सःर्ळीकार्य edikt | FRE I 
+यृभएँ।भरोऽयोङ। तःश्रःभया'सचेसहि।सोर्मस्यती।सचेमहि।ऊवी। - 
+देवानी दयं।३ं 5 वंत मंसीमहि! से यशस अरुदेऽरि। स/नियभितवरुयः। | 
+
+
+
+
+
+
+
+
+## Page 209
+
+
+
+| 
+
+
+
+
+
+
+
+
+९४ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| दरिउओंम्‌ थ gamni: भियगश्ीतारमत्सरा"ूमेसो्मासः म राः gen | | 
+
+
+eAT KRIS MÅNE वो। मित्रा वरुणा। गे। औशिर:। सोमीः।१, 
+| vs RA å OE ek i oa 
+Ra स्य।ररिमिःरभिः॥सुतः मित्राय। वर्रुणा या पी तये।चारुसतायापीतय॥ | 
+
+
+-a 
+
+
+Å å 
+EN 
+
+
+i 
+
+
+
+## Page 210
+
+| तोवायरचेनावासरीअंशं!हेतिमअडि भिः सामं AAR: An edda a 
+
+
+E 
+Å || 
+
+
+| आवी led eng pg artanda gan gags | 
+| म्ल पा तेलार अस्य।नते दते॥ 
+GRAVEN FAY वब! ॥विशवस्य।यः।म EE मरवा टदवस! 20 
+| auka पूषन्‌ (अ लिरे। ने या RAST dg दधन Å | 
+|. | | | 
+
+
+
+
+
+
+
+
+Boos APB 
+
+
+l 
+| 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+RA g RENZA: भुवे देवसरय्याय।मयः। अस्सा ग eT रधा | 
+- २७ | त ल मं अर्वा बुधुतिरे र | 
+l | तिक hagene सीं।निः युनौरायः। हेम अ मरी 
+'भवावाजेःवाने। सररीशभिव[अस्या* 
+
+
+
+
+
+## Page 211
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+l 
+
+| ऊंडतिसनशउरपसावर्ये पूव अहेळभानररिःवान!अ 
+Taaa ge EN ar 
+MIRA RY IT i ath 
+
+
+zingga Pti SEN 
+Ri vi bedt UT. Ral रणम ia इड्रायूरति।डणीभहे।यव om faar 
+Ha AmA त ली ek Ra 
+
+
+| anaga Ring 
+
+
+
+
+
+
+
+
+
+
+
+
+rang aa 
+
+
+$] : 
+
+
+| 
+
+
+
+
+
+## Page 212
+
+
+
+hanker 
+. अध्यर्मानंधद्विंशिष।अधि। 
+
+
+शाति 
+
+
+CC-0. In Public Domain Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+श्र 
+
+
+RS की x 
+Fd र नर ; : è 
+
+IN A ७४.३ S EE a >>> 
+
+vee cee å 
+
+
+
+
+
+
+| I 
+“न ।अन्ने। एय हिरं रे @ितः देवेभ्यः रर तिथय सियेभ्यः राजभ्यः य्‌ an यतु यी।अंगि 
+ae big हे'अयेभा।कते रिं/सर्च/ए ३० धेद मे og 
+ह व!अस्मत/अभि।तानि।पीस्यौ।स ववा het तलारिव/अस्पत(पुरा'उत'ारि 
+Panna अस्माश।वद/मरुवशय k यरद 
+. दरण AET AER 
+मे।पूर्व।म FN areas då UT ds 
+gg 
+
+
+र IRURI यक्ष दनि EE VER स्प av igazg 
+NJE: bb Poser EEE dro कना१अधौरयवा/अ 
+Fs BJJ GTA क6ै/॥ये। देवासः हि A 
+
+
+
+
+
+
+
+
+
+
+
+## Page 213
+
+
+| 
+| 
+
+
+k 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ee AAE IA ९६ | 
+
+
+## Page 214
+
+
+
+
+
+| 
+
+o A) ' | 
+
+f | 
+| ° å पश A 08 : 
+
+९ 
+| H 
+| på 
+3 
+
+
+3 Durden ति देवासः GÅTT ४ ar as 
+ह क ये nå st न Ki JOE RÅR 
+। 
+
+
+
+
+
+
+
+
+
+
+ang rnea विःरतअन्ते।श तेसं वत्स रे! कर पे। मरे EA 
+
+
+| मरितिगअन्यस्याआ हि apamusmgkt | 
+
+AAZ raa amia aina शियषृ। प्रा वा; Hé 29 FAEN å 
+
+IKE bk SELER GALE BR] velde NNAIFA us agmåanr: 
+ARIMAN 
+
+
+f tg å घा ।२घृः स्यातः हताःउष 
+Fm IFA ककि aA - 
+कील के DAA GRR ego enden dang कि व न्यूज 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+## Page 215
+
+
+
+
+
+
+EEE 70H PRP 0 ळक a e e PETE 8 kn de GL VERET 
+EE 2 ; 
+
+
+
+
+
+i पहूर i | 
+
+
+N A H r- 3५2 MG Aye 
+Bs १ > £ 
+5 } : 
+åå ; ; 
+i i 
+å Å K 
+g | > | 
+
+
+Aikaa वर आर 
+
+
+Ja Red यया 
+
+
+
+
+
+| 
+PCA CRIK OAE RER aaaeaii 
+ungen Anm aE: रासा गुभायुतिःजानवएव/मावती। å म 
+RECEA SE fe ळी i sv ते अग्रुव/ | 
+
+
+| rd drit sd PURA unamay naati | 
+
+
+He > 
+
+
+sd oa mdr अली पर! ; a ai व।अस्टुवं॥अधीवास परि मात) शिहनाअ 
+
+
+] å ar SIRRINA ॥बय॥ दध दः पवःषतीरे FAA ser | 
+| + नी।सचते। gå: ors स । मू KJA - क fm VIL! 
+
+## Page 216
+
+| så Sel हे QARNINA 7 वव sagen Kne 
+KEO E IERTE E O DEEE Aa nada अलति द| 
+
+
+| | 
+
+
+NEP 
+$ 
+i 
+
+
+aghat NA es य।वनसे।र लआ लं रथाय।ना वँ ।इत।नः। र हा निसः 
+ARAIA रासि।अस्ने।अरमाके वीराव उतनः मघोनः अन व ganen av | 
+मेया च।आभिनःअरने।उक्छे एत. यायालय भया pa 
+| giano nangemaaafeareddiea 
+ERA je mm ।३प। हरते fem ern | 
+
+
+
+
+
+| सुति ओर ये।हिती ये।आ।सतः शिवासु' मात, १6ती । Å 
+
+
+El 3 
+IV 
+
+FS rhe 
+ते 
+
+
+
+
+
+
+असा बसो Vonde Sol 
+| सः ईशानासः दोव॑सा।ऊते। सूरय यते ARRERA 
+Rem eda GORA 
+
+
+
+
+
+
+
+qanana da ma FARER 
+
+
+
+
+## Page 217
+
+
+
+| य 
+ft på 
+E yo 
+I £ ® 
+| | i t 
+på AR 
+ee AT Ka ल, 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+I 
+
+
+EK 3 
+
+
+९७ . | 
+
+
+
+
+
+pe 
+
+
+
+
+
+
+
+
+Ye | meer aa era prege aay 
+
+
+| ; mas ang न।सूर्र Ahaaa ९ "सेह ; | 
+
+
+| maten (आश्रु म हिस्यभानः FRA विवर घेगअहीयद! ब KG 
+नापजुबं।नि/न यंसीयुश्अवेरासुगघावते॥ < nmaa RARR k 
+
+
+
+
+
+
+
+
+## Page 218
+
+
+
+
+
+
+
+KUE 
+
+
+
+
+
+
+
+
+
+a TEA ART AP DRAID NIRU ADARNA 
+pe ya Se AS ahanautés | 
+AR å स्पेभिःइे यते १० i od | 
+
+वयमपि अभता शद्रे'अथमा। Fe य quaai | 
+
+
+Å ईंघते/व ग॥व्वयौ॥हि भर 
+र नु ऋ तना। gas JAR RIA थाश (असने दारामानार्य[सुसंतो रल 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A * Å 
+m pp k त Å » A A | om 
+CREIR LNL Fo =e न न प्‌ nd 
+sm i की RIAA ०९५ | 
+«un am vent t $ 
+
+
+
+
+## Page 219
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+उतत तिएन्वेसि॥ते! yeui र ENES ASE vag nl 
+अस्मे å न E नसे दनव चालिगयोिरणीनः३र।यः | 
+नीर en abo dn पकी ।सुःद्योओनीरः अशे 
+duken शणः aa रथस! नः तेवत ने बे तभे असूर अग्विः वा मे सुचित! 
+Fers वि।अग्नि। शिमी वदर भि अके सांपरीज्यो वध तरो दथीनः 
+
+
+å == 
+Å | 
+
+
+कि 2 
+
+
+Are MAJE असुतःसीमाय/दराशुपें "छत? दे ते।उ पी 
+fn | 
+så > 
+
+
+
+
+
+| 
+
+
+
+
+
+5 REPRO hapa GN a i aa o a aM 
+S ४ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+## Page 220
+
+
+
+प्‌श्चानास।संजते॥रेवान/यत/क ला मज्य नी पुरु स्तृत]मती शत दिश्वर्थातवेति।धाय | = 
+
+
+नमन लविता तःबाराभानस्य। दायः श्चि पावकः ` 
+aura भि भिक्ष तिनरास बि आ। द्विः दवः देवे इ। यिय HERH 
+
+
+ममक a 4:72... 0222224232. eee 
+z; 2 å > « SEN 
+
+
+er 
+
+
+| å 
+| å 
+| Seg 
+| | 
+| AA 
+
+
+BE 
+
+१ 
+
+j 
+
+} 
+
+ji 
+
+| 
+p; 
+
+j 
+
+~ øk F | 
+
+> 
+
+ig 4 å 
+è €i j 
+MEME. 
+s Gi 
+
+pi 2 
+
+A W. 
+
+## Page 221
+
+
+A få 3 
+á ne ALTE NR j Å 
+
+
+
+
+
+
+
+` १०९३२ अनिगआवह इंद्रीविते रर धिय इय हि।सा'मति। मम अं छसु नि + वच्यते युथा नासः 
+१ (९. | an खुच/यहिं।यने।सुःअधरे॥ं RI कयता R 
+
+
+
+
+
+होतोरोरेन्याकवी। यज नोयक्षसा लिन ० ५ ear 
+
+
+gene प्रः ये।ेे 
+मही k SEIER MIARA L NMA NARAIN 
+WAIA aa सायुई रति सत Miaa हिं।आसुःमद॥ में दः 
+जि्तोप्युय्वथीर Aeg Rainer på वेषु अर्थिताऱहोचाभरुवर 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+पामानो देवान्‌!यक्षि 
+
+
+
+
+
+
+Hunt en ud दुय MARAUJUUNEAGE! va GH | 
+l 
+
+
+RE 
+
+## Page 222
+
+8 
+MSA) 
+
+G Ra 
+
+l ‘४% 
+
+
+får Yin Ne GN 
+
+
+
+
+
+bl 
+
+
+ANE! विश्व वाय å F ।गायत्रःवें वसे 
+केन स्वाही कूतानिआ।गहि।उपीहब्या नि।वीनयें॥३ इ आग है। ORE व थो। i 
+| तरह. र्से 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0 ९९ मप्र'्तय॑सी।नय॑सी'वीतिशअःव्ेवाचः। सति! सह सः खून दें। भरे षो 
+
+å å सभि सह किया नासी दव(सलिवः॥सःनार्यमानः पर > 
+Rian Rune ARAKNE TUREN 
+på /पृथिवीरति।अशे चयत/अस्य/लिवा।अज NAE AUREN SA 
+
+क्‌ mm सक्षस।अतिअ कतः नासि fag रेस ने। = 
+
+## Page 223
+
+
+k ॥ब भाग वि aime । थुवनस्य!मम्भ ah pi 
+
+ug gne $a Sugar naa । वर य। भर ते LGA 
+
+सेना? शवारू शा दिव्य।य ag usa BE Å Ad तिधा 
+
+अनस वरना! Ae CE CAE uE aAa Arahi GREIG 
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+rm er rer EE 323 ला "पुजा Te 
+REG 4 यी 3 PT ERETNA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+aue amamah adig Aham a | 
+gas É Akg po l स Fa de OSP > 
+ खादीद्येवाशुकःवणाउव/ ऊर rd jer धियं॥अग्रेःयुरुनृ। अप्रेयुछत/ भि अरंन शि 
+Fans garnet snr | va ir द 
+नधना ९२ ॥एविय्राहोताब्ुव।अस्यामाययांफरध्वी।टघोन/श्रा्विग्येशासाधियँध | 
+NGI HE dd å सतित क. o 
+dk वर्य! सरने।परिः दता अयो।उपःस्ठें। विः AIMA] ` 
+| vand धा।अधयह/यार्मिं/ईयैने॥थु Melland LEK BEG | 
+अर्थ।कित रिवेवा/मिथआके!ड्रीमर्गशनाहय्येशसा भर्मत(आवोडूः।नार॒शमीच!साझ 
+
+
+
+
+
+
+NS 32302 2 3 2227५ E A 5 sg 
+डे ३4५४७७७३७७ के 
+
+## Page 224
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+न | 
+
+
+
+
+
+
+| 
+| 
+k 
+
+
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ko de MEA EE NNN AAS SAMLE DN ब्रि 
+अने | 
+
+## Page 225
+
+å श्रिया॥ह्रिण्ययीरति।वकरीदरनि'व॒ 
+
+
+silining NRN å 
+ Aadiareaz å EAEE E | 
+Age å et 
+
+
+
+
+
+
+
+
+| 
+fara Rejse ras ईव।त्यना॥ए 
+मिय [निद 
+॥विश्‍वर्त अयर medan 
+
+
+
+
+
+
+
+
+
+
+å 
+
+
+१अविपःवतो।आ।सः।सथ्वतित्अधित्रनैदऽभिः। 
+नीधि 
+È 
+RANAN! | 
+TRAER GEG: RC 
+घः तर द | 
+
+
+| वसा किली yggin शिषः तस्मि 
+gg ape anda då ga ए७ति।न। Bai TSAR s3 
+
+
+A 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+## Page 226
+
+
+
+
+
+
+
+
+
+
+
+
+
+fiende स चतेऽ 
+| H ve ।्टणवृत्त। Ad et 
+| qag RA सा धेनःअछि दप्ऊविशशिर्वुअआआअ 2 चूस रभ॑उ ११ रजरव+ चर ति। 
+
+grå senda ag: STA AGR se are Skar 
+छतिउशतीः'भषिःस्छितं।सः दी फुगऽ अव्यः वनः र्ष सचिःउपः्मस्यानिः्चा ` 
+Sera विदशतः चिद! दिः त्य gena 
+
+
+> (म 
+नसर शिमेएटणीबे/अरनूची EEE | 39584 it anday A: 
+reader 2 
+
+
+IRAR enana d 
+| zia reg ARNAN Rå रली ।अरुषार्सःअस्य। २, | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+सुर Angas Ag FR 
+| TANA a:l gardin per nanta: 
+FG AMEN ॥ सिषासवः 
+
+## Page 227
+
+>> (वशिकाष्ठी gards l i 
+
+
+
+
+
+
+
+
+
+
+थानि।अग्ने।भुचय॑ nN: gar NAN, 
+Eh ne bc Fh 
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+वाय (अध? "शरू किवा/मर्चय॑ति।हुयेन। मंतर) सुरु!। KIARA 
+IR verte 283 pe si aagana Jiag 
+
+
+
+
+
+
+
+
+
+
+
+
+miana pa å HS जमे: TAN 
+
+
+i 
+
+
+
+
+
+
+## Page 228
+
+å 
+
+
+|| 
+
+| ei 'अस्यावात॑।अनु R ogs यां।असनों अजु। रु नये रि पवः न! 
+
+| hss re hd å a ० न 
+अरक्षतः ९७ NARA (राय आरेबंते(पति दन A ehad ॥पदे/आधड़य भर 
+qharan रो ईस्यिः/श्रव::नि/अस्ति।भी व वी तर से गे: ॥ प्रध्य:। 
+रानार्मिणी।अरीदिक/ Jah past 30 अनी | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+खर अ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_ CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+| ापरक्षोताबरसुऽरु तै विश्कवेदाः। दिवः क वा सुमा यः न वेग 
+
+## Page 229
+
+
+
+
+
+
+EE 
+
+
+
+
+
+
+
+
+
+
+
+अनिमा नः इः ऽता å ॥ ९६॥०। वः मशीयरी | 
+
+
+ARTA Tage sad CEES mi RTA 
+विभारबं॥द दा ने व। तो TI KE AFR TEU 
+Sy TENG, भरमाणस्याकारो॥नि RAJAR | 
+Tanga aA सियी magaja NAA | 
+'आविभोर २२ | 
+
+
+| 
+परर रुूवः॥केद।वन'प्रःनिगतधञदेवऽयाशास 32! Qunå } भहःप्जार्थयःतस 
+A pee w ह भ भित्र।न'्य्‌।शिम्यी।गे वृष्य aq GN 
+सुष्जीञननरअरॅजेत्तारोदसी३तिपाजेसागिरा।प्रति।क्रियंग्य क॒तेभ्नयुषा'अरवः॥ 
+TARALAR: Nest ।न।दृधिरे।सुः आयुर्व:४अर्थ॑  कर्व 
+न।गातुं'भर्यते एताश्रेते/डवय्ययस्थःवतः॥ आशवो हवन! सिनरयः। अरे 
+HE Qamman 
+OAE UE RE GUE te CO E EESE LES GAEL LE K E 
+| रुहल्शयुवाहिवः igang भु्वे!गां।न। थुरि।उरप॑ चार Riera 
+dakmain aaea थे नव १ रबर Rana | 
+
+
+
+
+
+
+| 
+
+
+ENN 
+
+
+
+
+## Page 230
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | 
+| | Samasadugadiagdrstan २० गआ।बो।सवाय केरिर्नी ।अनूषृता/मित्र। यत्र 
+| ar ie amaai aidi विस्व न्भ नो. र्‌ज्यथ 
+| | å ed ।दावति।कवि (होवा।यअति'मन्मऽसर्धनः उयाअईततेग्छथ्‌ः 
+_ वीथः'अध्दरंभ्ज IN EEEE EGA i WE UKRAS b GULIGA 
+| 
+
+
+
+
+
+
+
+
+
+जतासवंऽबाना।मनसमन्रश्यृक्तिषुष भरं तिवो mans aat गिरः! अरंव्यता। 
+azas ति।मा हिनें॥न।वां। था व। अ kmag बन देयः खेयृण 
+
+
+T maiig ए्युवं।वस्त्रांणि।पीवसा। वसाथेर दाशमंतेव। है संगी 
+अवीअतिरते।अन्दतानिविश्व।सतेन। QAR BIT तिं।ए वदश्चन। खः वि | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+; ग 
+
+## Page 231
+
+8 
+
+
+DN 
+er 
+00 
+
+
+ED 
+
+
+
+
+
+eT 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+een केतकर सुख लकि ससासायी आधि चअ नर । 
+[२ E a 'अळूयेचशअयाव(र/ते (प्रथमा पतर व, क वदा मिण smaa | 
+| Forren Basraaddrdsrfåadaunsdganega | 
+| नॉपश्यामसि।न उ पनि व्यमा नं ॥अनेबः दर्णा) वितता! वसाने परियं/ मित्रस्य वश्य 
+घाम॑।अनश्व/ज्ञाव।अनभीश/अवी।कनिंक रत GA Ferga gre 
+PGA मित्रे।धाम।वर्रुणि।रएणे व:॥आ। घे न भागते य। अब ती/बू खः भ्िये पी पयन्‌ 
+
+
+|) 
+
+
+न टा विकास नअदिंति TE au | 
+
+
+NOTERT å odd ke > द व —— vm de 
+f åg ; | ica eiaa j 3 SEES 
+05, ९ NARE å K x 4 $ 
+क... े $ 
+H E p 
+i 
+४.” å 
+
+## Page 232
+
+Å | | 
+
+
+
+
+
+$ 
+ह 
+
+
+
+
+
+
+
+
+(व जा MEWA हि।नम॑सादेरो।भव॑सा 'बदूत्यो। अर्माके।ब्त ए तनासु। 
+BRT STN RGT २३ "यजांमर TR 
+
+
+
+
+
+a 
+| 
+
+
+| 
+
+
+| उरुगानमेःऽ वितते एतस्तरर विंएनऽ र्त aa न। थी तिऽ चि: 
+| ee ee ha Mena | 
+ryg agamer ag: शा | 
+Tome RN i 
+EGE UE fo Es 2: imin UF! Qazana ति।नः RN | 
+'पक्तिद्ने(वीतायातेपर्यसः!उस्तरियांयाः॥ 30 ma å Å ng AGF: | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 233
+
+
+
+
+| nag नावन भ करमा र 
+गायः।'अभत त!विब्णुःस्तवतेवीर्येश।मृगःन।भीमः (कुचरः! गिरिः र्छाः पय Da ER तर 
+उका ; gianna E ki a | 
+
+
+|| 
+
+
+
+
+
+_ CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+| ३०९५२ AIEMMIN AAR RRNA: भिः इदे य, अस्य. 
+१ RI जीपूणोमधुना।पदानि/।अक्षीयभाणा ua fana दक $ त वीती | 
+रदः राधार सर्वनानि।विश्‍वा॥तव!अस्याप्रिये,अभि'पाथभभर्या नरः पी 
+uggs कम स्वसः हिरवं TER उत्स तावा व र्टू नि उश्मसिः 
+ग ध्येत्यन्नोगार्द। सरिंऽश्टेगातअयासं SEKUER SMIRI 
+| 2) २४ ॥०अंथसभाधि SE बराय Ui et OND få 
+aat. रा प य साथ Ramhar 
+(सुतः षाःःवा१उर्ब्यतिAया।म I aa een । | 
+सनाउ रु व्यर्थः।ताः ई बज ति।म हि'अस्य थोर्य|नि'मातरा। नयति रेतसे'थुजे#' २५ | | 
+
+
+२ 
+
+
+
+
+
+A 
+
+7 
+
+EG 34 x he 
+ILA 
+» Å $ JE å 
+J YI he 
+
+
+## Page 234
+
+
+
+
+
+
+रथाति।युञरrअवंर यर agnar चुनेद्विःतव३ वव Lo 
+मसि/।इनस्यात्रातु/अदुकस्य।मीकुर्षः/यः। पार्थिव sura विगमः धिः उरु केसि 
+उरुः गायारयमीवसे।देरति। इन as azae amha an 
+i यीअस्य।न mI lg “चन।पतर्येव/पतत्रिर:/ चूलें:४ ।साक'्नरति( | 
+१४ meg hna से धध्य ती न।अवीविपत ॥ ०हुदउ जौ er Raagi | 
+mgA शक ह वे॥ श५ n a frase: म. | 
+MALTA Em agere ra चुरा Ag | 
+वाधयः 'वेधस नर्वीय FRANIA RTTA 
+
+
+तथमाहश्रवंवधस 
+` ,अत्यथा विद।सत लर væ न म 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+A AE 4 
+wi * * 
+; 
+
+
+RR aagana inihain pe 
+ag gaai अहिर ।सरिदेःवा नएअषऽऊर्णुतिाnओआ यः विवाय 
+ङु वेरः वेधाः अनिन्दद(विःधस्तः। आये)सतस्वभगि्यञ॑मानेत्म। 
+मनद २६ «STN na Fa: उद!एतिःखये वि उषाः चंदगमहीआव्‌ अचि 
+ep पलट uana: Rian 
+वारथोछतेन।न:/मधुनाक्षत्रउ क्षतं॥अस्माकत्र hk rms RE सात 
+uad RAs SPRING TEA NT: ar å a Freng anså 
+| UG अर 
+as ope ॥ शान; mag EE R EE EERE EI 
+o i प्ज P 'धथू:(यू वं।बि१ अंतरही खव AL Fax 
+।अश्विनोभेरयर्था।युव।्‌।स्कुः। n Ri roen på 
+| (अथोइविह/क्षत्॑अरधि।धथ: gare ret ranet Å २७॥३तिदिवी 
+
+
+| INARA TT FR 
+Cx dn ९५९७) इन } | rN रमणा सिक & Jya HA है Å y 
+
+
+
+
+
+## Page 235
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iing’ 
+
+
+
+
+
+E 
+
+
+$ $ संत रुचत शास्यतोन | 
+Ya! så आ वा भि/।ऊती।क/ वो। दो 
+LARI 
+
+
+काममिण कालप तायु 
+
+
+
+
+
+
+
+
+
+FEDA र 
+ KAMAEUM 
+
+## Page 236
+
+
+
+Ttt 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Yr Å ये उवि।सवःद्धो।म्‌हीइ तिरतुये। विदथे। ana ARA दर 
+GE KA शाधि EEE eN AEn E DEE ERTAN 
+
+Fåiqsdquaarg 
+
+uinaadugserde giten ag magi चिंचये।स्छादुः। 
+
+
+| सः 'जामीरति।सयोनीर तिसः यनी més NATT FÅ! RNIN) | 
+
+
+
+
+
+
+
+
+
+
+Juan aa kentv gåen कशंधवाधसनव॑रीर द्युवः KR Fer 
+
+
+FR 
+
+
+F 
+å 
+
+## Page 237
+
+3 
+
+
+बंधक 
+
+
+
+
+
+
+
+
+
+å 
+h | | 
+Å 
+Å 
+
+
+EA ing naar तिंसुःमन्म॑नी। थे å je SS 3 द बी? 
+
+
+
+
+
+
+
+
+| व्यचॅसामाहिबीशाताझसश्रवतापिता।माता। चाच 
+ह ZIAZ gu 
+
+
+
+
+
+~ Sy या 
+
+
+
+
+
+_ (९-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+> Jå T res TE EE EG aa ii is, å Xt DEG लट Tetea gå जक जनता ण री 
+4 t न s 
+Å $ प 24 | 
+| \ | 
+
+
+
+## Page 238
+
+fan ga + aasman: 
+ağ wn a EEE .. 
+
+
+fa SEEN ब ॥स5दीवर्य/॥ त वर (अद्यासविव 'वेरेण्ये/वयंरेवर्स्य |: 
+å मर sø ae Gard न।र/थि।ध पं । व ws क्‌ 
+
+
+SNE | En ४ अत शक EPER 
+
+
+| 
+
+A 
+
+| 
+ENES 
+EE | 
+
+
+Yoko ससेत्य'महऽ कुर TNA: haiak चमसं चतुरं (कृणे।वन।तद।३ द्वि 
+ae game de een å दिवेशयज्ियांस:। भविष्यथ 
+'आग्निडूत भतिम्यत[अत्रंबीतनाअश्व करवे रथश उतार क ब। पेन क लॉयुक्शाके चाह... 
+तानिनात/अवु।बरूबी।आइमसि॥।च रूप बोस: भवः वदरअश्छत। द।रवअ थःय Hen 
+TRANS NUT MALIA NLI CENU MAT FG TÅ! 
+अंतः नि।आनजे हनाम (लयादीति नः रभ रा 
+अन्या।ना क्ते अन्ये” कन्या ना TAN ४ म्‌: alen | 
+.युबुमेभ्भश्दिना Å दिश CEEE विऽभ्या।वामेः देवान्‌ 
+at gad ।यतिये।भाग ऐसन॥ निः naked ति! शया नयश ar 
+
+
+
+
+
+
+å g ONE å 
+44 ; क j 
+क... | Xi ; 
+02000 020 Er क PAD 3 कील US å 44005. in) 
+EECa ०2232 R 7 कर 2७७ RER ER z ह + र ti < 80255 i rte आ सि 
+
+
+
+
+
+
+
+
+| 
+E E ganien दातरर डक | 
+
+## Page 239
+
+Razga पिवत सोथन्ेनाशय RAINTEN N | 
+व्हतीयायासरवने।मारयाध्येगआफा a र ति।₹ क॑।अश्रवीत(अग्वि। A 
+RAR PNTE IR भ्यः यकम अब्रवीद! शतावर्तः चमसान्‌ अप al 
+EK नाव ततमत विखूनयां।आ) रत ।आ। sg टी | 
+क/अपअभरदादिं। ag पितरे उप आवतु:॥ ५ ॥३३द२स अरा अ 
+
+
+कृणातन!दणं निवद EMERE ARR 
+| de MANATA Aa ET AMG KULE 
+
+
+
+
+
+
+
+
+
+
+
+
+७ ee TD Nene bea - MB EELE ETON: s है 22 
+BA NN NSR å KEO S -< \ ड Sa र नाक प s ; 2082. 
+€$ RN NCES लश व UNG går SN RS Me 0 ८७ (0 Sn Po E> Gg SSI ZS Sh पप्पा लन Cc SOR er शा AA 
+X ak: kr ENE RNR SS RS SRE ज PF क 4 80 ei a å >> a S R R 4७ EN 3 sis 2 
+NR RR Me spss, DRI ot NRT SRR SN i 3 å tå SFT SIENER Kr 
+
+
+IV! 
+AMZA TO समी 'यवू!भुवना।यहि A ता दा 
+
+
+vi | 
+
+i Å 
+
+3 ei 
+
+र | | GE 
+
+£ Fo ; > get € ता 
+VE 3 Y RSRK IN A PEN >> gf A 2 A nav: Se षी ` FSR ar PR) Mi 
+å ह ४ के. i BR RT 3४४३८ ५११०0 तन eats 
+
+dss 4८2452 & 
+
+
+
+
+
+
+## Page 240
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+Te de ब त. श्वानः वस्त औषध तार 
+p A A मरत tahaan | 
+f लियायोवि।अवः A तिमर नय पान GEELI GTA & amaA मे 
+os pe १३! ससुक्षाधमरु dq maaadaaa i 
+भ्ःवश्यामः विद्ये वीयोणि। ahr adren må snart 
+तिसु भअ ra विश्वः रयः पृ व्णे।।पियं।अपिएविपाथआएय:/ छा पुर. 
+अश्देन।वा तिनी! aaa ARN य) अधिः gagn 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 241
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+वानां आ क क अप ह EC 
+ge वरु म/सुःवधु।यदरवानिनः दासे हानं ।अ अकर vNIIA ` 
+Se Gs रते आसव va ANIJA GIA | 
+RIAA का।आ दा।य हे! वा।स्वरो AMIA gr el | 
+Dig:raaAaYiearg HAAS sal ve ÆR GT Å 
+
+
+
+
+
+
+
+
+
+
+kg AA IRER ATURIN ANGRA | 
+ति षः रतिया कयना गर्व, ०७९ | 
+FE 
+
+या aiie भा भ:।उत। रास्ता! q प्र॥/लेनीय ते नं।स+ egger | 
+Bets NANI NZL PEGIN JENAN छे ये? d 
+94 इत armak Aazam | 
+usa Rug | 
+
+
+
+
+
+## Page 242
+
+
+
+
+स्तसुः कृता।त ब शमितारः क्श्व्तु उत।मेधे वःपाक। E UIA 
+
+
+4) «TI नऊ? 
+
+
+
+
+
+| 
+i 
+| 
+i 
+i 
+| 
+i 
+i 
+
+
+
+
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+EY Morin å OT 7 - 
+
+
++ 
+
+
+su > 7 ETTE VETT ETER" Dee grr TE 
+> r 
+À f 
+I 
+
+
+
+
+
+
+## Page 243
+
+
+
+
+
+
+|| 
+jf 
+f 
+
+
+era anahama sa VAR TIKE पर्व ति E "हस्या आ शश a 
+7 D mean eee Gå ee मड 
+|. | Brei च/अर्वत:। has feigt: ओ ponga नि। क्यो NE 
+न्याधडरबायांशया।पात्रीणि'यूष्ण)आःसेचनानि/!उ pl म्ह viste 
+सूनाशप रि।भपति।अर्थ॥निःकर्मणे/निः add विवर्सनं। यत ३। पह हि (अ नच 
+| ee dd परत हय करिल ond 
+
+
+AN OVAA 
+3 KØ हू ६९६४ ev fr ste on RE ; 
+NIN १७३६४ $ Nee सुर | 
+y på av t र 2४ 
+ट्क b N 
+
+
+* 
+
+
+
+
+
+
+Me प्रिं॥उडं।वीते।अ E वषट्‌ कृते।तं दिवा सभ पर तिं। २२२०४ N Ra 
+zamdan adan Rena Raana परी 
+JR eneren ananas तस्या पाष्ण्यी TBA | 
+
+
+3३ 
+
+
+
+
+
+| 
+
+
+
+
+
+e ON 
+
+## Page 244
+
+paus Fy i, 
+HANida 
+
+
+adigan DA रेप gem Ran मि।च EEC ESKAE CI 
+| i यिन अ बुना णल de GÅR | 
+| तारः अस्य Ramga aan vm mers 
+| E | 
+| uaRemsgaianmia age ास्ताrअचतिः हायाछिद्ाश्गार्चाणि। सि 
+
+
+| (aR ae FG सनि ve हाम, fags 
+| a 4 
+
+
+
+
+
+
+
+
+på 
+
+
+Kea 
+
+
+
+
+
+
+
+
+
+
+
+
+og * 
+
+
+गेमिं॥हरीर निति।यूंजए अता अस्छाद(वाजी(धुरि'रासंतिस्य॥ पुरळ et 
+ज्ञी य न magna षर थि।अना[शा!। त यः वि।कृणात! क्षत्र। 
+| eg /वनवा।हवि्भान॥ ९० १यद(अ्क दः थमं MENT TAGINENATAN | t 
+
+
+* ? 0 
+yi K sø gr 3 ! 
+९ 2९ 7 $ i Å i pr 
+SR Bute og 5 3 ; फकट 
+द į J र र i FE 
+
+## Page 245
+
+i FR 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+ser DENE प å GE o 
+I a: a कै 6 400९ AEE 7s SE SY शाक 7 "तशा ååå nd a te तणाः ररपण चाटत उकारा र ver 
+å EE ` pH \ 
+ra ७ 
+
+
+परीपाव?रेयनस्ययक्षाइरिणस्य!या RaR a AR 
+dt ब ला å 
+
+CARRARA RTVA RIR सि।आदि थे।अवेन/ ARGE 
+मृतेन अ सिगसोमेन/स मयाविऽ क्त! आइ; ते। बी णिं। दिवि। बंध ना नि । बी शिते; å NE 
+दिविध धैनानि्रीणि।अपसु।बीणिं।अंतरित समुद्रे७उ तःईवामि/वररुण:(छ/त्तसि।अरे. 
+दति parhaana: मा्नेनानि&भा।दाफाना/सनितुः। 
+iz ANNAN रशना! अपत्य TAG (बान आरे gelar ९९ ॥आत्मा 
+Hind ; > रावे smed शिरनअपशय'यथिःभिग सुशगेि* 
+VG AREMANIA NENAS 
+
+
+
+
+
+|| 
+å 
+
+
+
+
+
+
+## Page 246
+
+
+
+
+
+
+
+
+
+| 
+
+
+| { 
+|| 
+| 
+
+
+qaa nA RMANA, लीव पल मकर | 
+s NA mamada parina भिरे। वी | 
+Fanton अथे क धअस्या पादाधम क री MRAR 
+
+
+Å 
+५ | 
+å Å ÅR 
+Då पु Ra E AR 
+4 » 4 E 
+# | 
+क ver PN « Å रश ५ क E 
+क गप IF) ROIS 3 S ii > Eg Ne to TR Phi : ; § क | 
+५4 å भं क (क क ४ s 4 å Skid i Bid St "पक्का त Å 
+å £ Is we EA +)” Be, 
+pute J : + ऱ्ह 
+i न RE 
+ERS OREA å 
+$ 3 $ 
+५ रै १५४ 
+| र Å 
+| I £ 
+i Å 
+pr 
+t x 
+x 
+
+
+| bi तभाव utd aidai | 
+| कनी ।नाभि।अस्य' अनु यश्चा द. ane परमं '्यद सध 
+| L IARA 
+
+
+
+
+## Page 247
+
+
+
+
+
+॥पतरामातरंच॥अद्य देवान! तुर्ट'तमः॥हि'गम्याशअ्थाआ।शास्त्रादास |. 
+
+
+si | i ४ Te 
+के Fe en | शरि en i 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+तमेओपशये Guns Å ट I 
+
+
+
+
+
+
+
+
+
+
+
+
+पदे Mari summet add metan ug 
+| आाताएत5४ंछ/अस्य/अत्।अपरय।विश्य ति सत्तः पृत्रं ।सप्त्थुम ति।रथ एक चे? एक ` 
+अश्वः वहिः ape mg magre विश्वा धुवना अधि स्ट 
+
+gårder aa hanna ma 
+| yAn | på Sn SS वं 
+
+R भंति॥ Se धअरूकू।आत्मा। GU न | 
+Ender: जानन्‌ देवाना एनी। नि! दा परे qgar Naad 
+
+
+
+
+
+
+
+
+
+## Page 248
+
+
+
+
+
+
+
+दु EF at Spr a AR Aae कहर Fem Ls 
+स्यावजि)वसानाः।३ ददे! पदाअयु साता वितर! सते भव शा ज। पी वी।अर्र मन सा से। 
+
+
+sun je TERRA दिंदणनम॑सेतः इवः व. dg pb | 
+AYR Emmuakgan भै 2 लनीप।अंवरि तिं॥अ्म मे दधद aar गो। अपश्य | 
+KE ek RIAR पिळून बिखर अर्ध्य! वरे न 
+
+| अवोग्लपयं वि।मं तय॑वे।दिव/अ end renere tn ९५ ugt Å 
+rakne ब क 
+| | | å ainan a a ति।।वस्डः॥पं चऽ वादं। पितर हा आका J 
+| अ (पूरी विणं अथ रमे (अपड वर।विभच्षया RRAPI AUM: n| 
+
+
+
+
+
+
+
+
+
+
+$ 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Yin पंरेअरे।यके।परिवर्तमाने।तस्मिन/आ)।तस्ठ:भुवेनानि।विश्वां।त स्ये। वा अ स॑।तथ्यति। 
+Ta रििभारासनाद! ve सिसो माक मयर विते नाराचो 
+gr Er aimam है वे।त घिव/आर्पिता।भ बजा नि। वि शवों ॥ सा 
+Fn SAGE KE AEG bid a देवः मा। GOE å (FAG ME 
+tarer स्ठाते रेमते।निः ANARE Te ९९ स्त्र der unHTA 
+युंसभआडू पर्यत ee NU कि देतव(अं घः कविर्यः एत्र ERE 
+
+
+
+
+
+## Page 249
+
+
+
+
+
+
+नानाति अभ av de (प्र५एना(अर्वरेण'पृदा वत्स बि 
+Na ak (अवरा । सविव! 
+दथ AIRIA अस्याआनु*वेद प्र] एना अर्वरेण॥कविःय 
+
+
+
+
+
+| | + i j 
+॥ PN || 
+
+
+
+
+
+
+
+
+
+कब दे रत! देवे। मनक ते।अधि/प्र स्मति ।ये।अ वी चः aa तपरः 4 
+I iran RAMEN ३: च।या। यात्रामा सुन क्ताम | 
+aHa ॥हा सुःपर्णी। सः्यु ।सर्वाया/समान।6 शं।परें। स स्वगा g TEINI 
+
+
+
+
+
+
+
+
+EE (असि।अन॑श्वव/अन्य।अ नि। चाक शीति। ९७ ahga 
+
+
+अस्तस्य! भागअनिं। भप! flat s खरे AUKA विश्वस्य/भुव॑न स्य गोपा. सा 
+माधधीरं।याके।अ त्रआ। विवेश॥ य स्मिन्‌ रशे! मधु अद: सुऽ पणोह। निः ed 
+
+ANARAM AEN AMA द! न उदन रदाय kyr 
+वर्रनावेर्दगयव!गायजे अधि mad aan नेर भें "नि: ssrder 
+
+
+त॥यवावा जगत! atama यारव!तव( वेर नि।अरुत थे 'आनशूः॥ ग 
+
+
+की ` कः | 
+
+
+## Page 250
+
+
+
+
+
+<- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+o Ne 
+ER: 
+W 
+A 
+P 
+की 
+{ 
+| 
+
+
+Yo (१०३ 
+[3२ 
+
+
+| fang 
+
+
+हरदास नाप रैशवीतः अतेः बू प्रजाभनि 
+
+
+Rakii mu angrende gh ARR Å em . 
+अयं।वाचःपरमं।विःओम॥ २०॥सत्तअथेजगभोधशुवॅनस्यारेत।विष्णा:। GER Rat 
+
+
+
+
+
+| | | 
+Re भिमीते।अर।अकेण।साभे।त्रे RUNA ॥बाके ने। anda | | 
+MARA NANM सि वृदिविrअस्नभायद(रथं तरे सूयो! अप खबर | 
+slås GMEUAGNRGUA! महि ९८ RELER deg 
+ARAMA DELTAR R वं)स विता/सा विए द! व। अभिर gÀ: 
+BG माड ३ रूणवती/व gs aa FS Å maren: 
+SMF GRINZI ' महते सोमया यगगोअमीमेद(अ 
+नु वत्से पिषेतं। मून RI aE गो! भा तेगे SA reisning मि 
+| vaar "BEN Must दुवा AEG I 
+Hips gards ra जिं।ओहत/अनत 
+
+
+
+
+
+
+
+## Page 251
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+na El 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+तुरः्यीतु'्जीवंरजेव! gå nen पर्याना "जैव "्ुनस्य। वर ति/स्वथानिंः।अभे तये i 
+न मय ९९ Ter निःययमान। am यराल्दापथिःभिः चरत "सः!स 
+चीःसःविर्षूची।वर्सान।आवरी व ति'भुरवनेष॒ पअंतरि 0यः रे चकारं? न। सः अस्ये दयः! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 252
+
+
+
+
+
+
+
+
+दरयो धिता an sysler चानयो 
+योनि अंतः अर्व Rag हितुः। गमे शआ अथा पिपर KSP य 
+fr daua nen dann NRATAS 
+
+
+
+
+
+udi 
+
+
+! | 
+i 
+
+
+
+
+
+_ CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+uk FAG m eee 
+९) e ME शक 
+
+
+| | 
+| 
+| 
+
+
+५) ६ # 
+
+E ENN 
+
+प्रिय j । डी 
+र SE 
+
+
+
+
+
+AL 
+
+
+## Page 253
+
+
+२९ | 
+
+
+
+
+
+EE ] Wo 
+É T EREE E EE eee: ककारा गया यया 
+(> ENKE ५ ८८४४० ७०४ ४६ tap Ferrers 
+
+
+
+
+
+
+y E 
+t 
+$ 
+
+
+f MAE | Resta भिः! मन॑सा।ते दिवः; era Rs Rag ति। विश्वतत॑:। न। Run ko 
+| २ Tanaan अश्मि/निण्य/से! नंड/मन॑सा।चरामि/्यरण्माधआश्श्र्गन!प्रथमम्ला।ध | 
+. | सतस्यीआ वाचन mensen | 
+
+RER larver adel ENEE NEN QRAN 
+
+| सच अशरे'प्रमेवेःओमिन!यस्मियूशरेवा अधि! विश्वे।निः सेः वःव (TELEN 
+| EG तम ।स्भासते॥सुयवसःअब्‌। TRÅR 
+en Saf NA ned Jo Mor År बेसवर ae डू उदक «ओः चरंती॥ 
+TR इपर्टासा चन यद nom téa 
+
+
+Ser RTS 
+४07३ Spt Ga 
+2 
+| 
+j s 
+$ e 
+
+
+3 
+
+
+mag nd era eg 
+
+
+शै a hahi à A 
+| d hangham aaa då 3 
+
+
+## Page 254
+
+
+Å 
+
+
+A 4 
+E 9 
+7 
+
+4 Å 
+| L | NF ia 
+R ? + पु sA 
+3 EN क i på 
+X | KE, 
+4३१५९४४ त å Å å i så 
+
+b आ k ØRN कि ४६८८: i; $ f पी PR ५ o 
+eee —— णा ~ = १३०५८४८०३० रन oT PR DS OE SEES RCE SR tr EEE | i Å 
+
+
+vi 
+f t 
+
+
+på 
+j 
+। 
+
+
+# Oda 
+re 
+AR 
+
+
+| Aret चनखः॥तर्तः। treer å sd dang, ARATIR 
+| 00700: (प्रश्नि झप: याया y 
+KO airen अते परवा विश्वोएक:अभि/चट्टे राची  ` 
+
+._निशभा्ें॥९कस्याइट्रे/न रूप ॥चलारिवाकू।प रिं मिता। प दा नि।ता नि ARANI 
+
+_ ममीविणयुर्ह' i rage agaaa ong थोर | [ 
+ORRAZTEN RRA रीळ तिति है 
+
+ga ०७ कृष्णे नि! यानों ng eanan RaRa nmaa | 
+
+arm LEONEU AEE A SE बी भिन ` 
+
+UE RT eE त/त स्मिन। साके। ३१ शत न। रोकः aka gaa 
+
+
+
+
+## Page 255
+
+
+
+f ° A 
+प» k Ag 
+pe 
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+F | I | Gi 40806 dd kok EG T फणफणत त i प 
+J | {| 
+Permanent विशवी।पु्यसिवारयो/शि॥यः। त्म mag: 
+._ ७३६ Rangan R Ria ERAR nahana द्वाः।ताविश्थ 
+| ला शाकः दुआ च SN दर ug | 
+
+| ETR geågaaededusdhus gaat त्यी वि ने वि। | 
+saus: g agder dn श fi i | 
+पयत सरसेतअसे जेहदीमि५ २३ "केया/शुभा।सः vies नीळा संगान्या मरते | 
+' संमिमिक्षुः कया तीलुःआनासमएत तितर sm क d 
+।क्‍ uga paaa अर Se a: । na, ul i 
+म्रनेशारीरभाम/कु Te दरमा TS RNET ३६, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | 
+t æ | 
+‘Sm í i ; 
+i | | å ५ ; | | 4 
+å di र rat | | OG 
+
+## Page 256
+
+६ i i id 
+
+
+| 
+Ei 
+
+
+| | Å 
+TORRAIN ANALRA: SEAE ads | 
+akkaa से! आडि॥आ।शासते'परतिर्येति'उक्छा'र॒म''हरीरतिवहत 
+aaan ia gama शेत्रे am nås भि एन 
+उवयुम्भहे'च'देरस्वथा।अर्न।हैग्नः बनहर्थ २४ ukens ्वथाrआसीतःयत। | 
+
+| etsende rasere keg ma विर्वेस्या शत्रों।अनै मं । पृ धई 
+KS GO GAR fa ति।भरमेहतिंसमानि्ि-रुपभापस्वेभिन्रीणि।हि।कृणवामाशावि ` | 
+'हाइंईकर्वामरुतःयव!वशाौम/व å giaa TER Jh Rahmana Ran | 
+| gem ब IRATI RUI IEAA OMARI | 
+
+| uge: ॥विशेग॥न।आर्यभान:/न ईीवि। न/जा ते या निं। के ken यु 
+
+
+€ ai 
+Å 
+A i i Bs. 
+j i Å sy 
+x e ; f td 
+i AE . 
+पर å Å 
+र i Å भ Å 
+है OS दकवा Ne Í r i 
+à å oS, på i å 
+EA SES A 4 | 
+RF PR kjær Å SJ 
+हर us tå a RS 
+
+
+
+
+
+
+
+
+
+
+
+
+$ 
+| 
+~$ 
+
+
+## Page 257
+
+
+
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+å BR Ria: eden Je FAqnansanuel | 
+oy aaa aa ले २५ ॥अमें दंत! भा।मरूतः/स्तार्म:अ त्र।यत(मे। न va 
+EE EEU R Aaaa na ड्‌ एने के 
+विमारोचमानाअनेधश्र्व (आर्ष दर्थाना॥ सेड चर्श्यमरुतःचंरर्म्वणो d 
+शेडदर्याथ'च'ूनंगक'युअत्रीमरुतःममहे वः ए/ या वन! सरवी न dar म iG 
+Aas वातयंतः।ए इत! ह रवसे! कारुः 
+mama ओरल सबवे मर तःविभ्रॉभिछ।इ॒भा।ब्र भी णि जरिता। 
+ARA? ER og मान्यस्य झारे अ या।यासी/ på 
+
+
+ag तभं i 
+Svare gd guasa ॥३वबिहितीयाएकेल्टतीयेध्याय:॥ इष्ण Qu ३७. | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+७ 
+क क 
+< Fe 
+
+
+
+
+
+
+uden ।तव२ःकेचामर सार्य परेम हरं el 
+veden asfalten SE agn REA 
+
+
+KELI av बु a ति।रुदः,अदेशा।न भखिनो। न। सडे ति।स्बे तेव सहे विः के 
+निक दर से ; 
+
+
+## Page 258
+
+| ag RRIA ar rss aA Raana ग्‌ 
+Raa auan नाव्यो Pus यतासु। n 
+ARITIMI den RIINAN A ३ विश्वः य: अजन भये, 
+वनस्य ति।रथियतीः वात्र निदीतेओवषंधिः॥ ९ ॥ न i 
+emmy ऽ मति।पि षवे /हिद्यु॥(२रवि।क्रि45₹ ती rå | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_ (6-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Year 
+
+
+
+
+
+
+
+
+## Page 259
+
+
+
+
+
+ताम derre याप सभा ।विद्‌ः RNGA /अवासं।यव्यासा पा 
+mahati aagana ahga mai तीर सरया यदि वा ॥ 
+
+
+f Bo v | 
+
+
+; 
+
+maraka ar रांधसःअखण्डुणा Ay gren ur 
+का रो MARENDE A: Mahé ॥अघाद!पूःः 
+be तामझूतः/ये।आब॑त गज तउ चाश ववसः। 4२ धिनः पाथर «anda: 
+gagn a गरथेषु व सि थस्पृध्याऽ३व। त विषाथिhआः हि ता॥अ सेचृभ्सा 
+PRIN J IRR A a बलभ नकष 
+रु रस सासं!अंज्यः।अंसेंपु।एता/प विषृ।सुरा। अथिवर्थ नपकन ard 
+
+na ॥महाव सडे! uR inas ng 
+
+jr तार आस ngs दरे, ARAR 
+REINA खने। दीरघ।३ः दातरंभअरितेः र्वे aang: NETTS aa! | 
+| | 
+i | 
+
+
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 260
+
+
+
+
+
+
+
+
+
+
+
+
+
+IP Sine X | fdo TS न्वेवया विदा 
+
+
+IN 
+
+
+'जर्नायायस्थीसुःरूते st ध्वं।तव/वः/लामिः खं 'भरु त! परें ghygaqa ।अमे ANE! 
+mama मनवे! शु छिआय्ये।सा के नर दसन: आपि ङि विरे "येना ET र 
+ngah १9 रांगणा वत न३अनेजनोसः। एभिः ये 
+तद अभि + त ०१३ NRR 'ेडू'ऊतर्थःनः।सह्‌ सरर ।हरिऽवः।शूतेऽ | 
+| SR सायः माद्र हि Soe 
+द 
+
+
+
+
+
+
+
+Fms दिवे: सः मायाः JERR, 
+यंत।पारे। मिम्कश्षाये å å य्य ma 
+
+
+| f 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+(4 ` 3 i E A १ 3६3 ८५३: प ५ z p Gih १00 dr ह त ल्मा पर TITTET NN 
+å i न $ b 
+y \ 
+
+## Page 261
+
+|! bg å z å X 
+A på FO Å Fi 
+* på ७ i t 
+r 
+j 
+गी 
+å 
+
+
+å Ua र्र AIRIA IR थो ERE dt FEN W aaku यो४ईव/विधत/रथ।ग i 
+
+| Rox wolves Aha ur ne JNA: SN न 
+
+> RAIAR ARRERA lam da mag hang पर्त | 
+दिव्म।वकर्यगयः a Amadain —- 
+सिरान ठानी ब रैतेप्सुर anmai ति। मित्र वर्रुणे। अवद्य! दयत मोत 
+
+
+अग्र दास्तान कट त MINNITI ETET बर Ria । va 
+t 4 
+
+
+då आरासवि/चिदोदाव॑स/अंताआपुः/ते। धृध्णु श 
+| र CURAE ALIE ENER YARA 
+Pga ner ga da JENA स्वाद ॥९५ NAN: यज्ञ EU इह 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 262
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+`| समना।ुनुर्वमिभषियंऽि यवः देवः याइ तिह Gu अर्त तारे याः म 
+| beger Fa यण hg आती a Gil 
+ENER RAMMEN va सःनःये/सुता! हृं 
+_शकरसुः्ीतासए वसः नआसत॥आएषां ब EE | 
+PE hud Reme om SAN qi भनक er aa G 
+'अरेण Reg Ag aasan sinn RALHS | 
+| AR: दर saag AU: duger | 
+| skada ई (वाभा HRANA ahna | — 
+å FY dan सं: तवि टिया gar ।ते षं AA NANNA | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+f ` प५्‌१४ 
+
+
+| | Remen de daten तुटत tas योद fann: 
+
+
+' तीथीन।अर्यः QARA ग्ध राणा एहॉनो/अयासो।मरु रवे आयता! 
+ganhan Tah amaina dninn श्वः ड ३शवः 
+AMIARSA ere गो मिहे ॥०॥ ९ RAR 
+
+
+a 
+
+
+
+
+
+|. 
+
+## Page 263
+
+
+
+ONE HANNS 
+TUTAONA ETG नावरः।मरु Få NN BYE TIA 
+3: ।सं'अरणि। वधीः ।नः। मात ।अयस्त।सरा सवअ तेना ध्ये 
+
+
+
+
+
+
+
+
+z ; $ 
+I SIF Ta! i 
+
+
+
+
+
+Søker | 
+spekk | | 
+
+
+
+
+
+
+
+
+
+
+
+
+Asa ons ६ 
+जन्ते इट्‌ । दिश्क रूरी विद्वाना सं/निः$ 
+
+
+
+
+
+
+
+ri a sauene कासा 
+Ka QUR aa रुतत सुने! A Mark, के त्से) 
+
+
+
+
+
+
+## Page 264
+
+Do fo OS 
+
+
+SAS] | 
+एातिं।स्तुतं। य्या winada diu aR ति।रा iraa { 
+
+gedigen EA REGJERTE riaan 
+neng अया agnae mangan savn 
+
+
+
+
+
+'नोरतिश्वः। कतव RTIRAR त॥ अन्य 
+
+
+
+
+
+A N Js A Å | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+hå 
+
+
+4 A 
+$ र 
+Y T, 
+
+
+j så] Ce एत्न 7 TETTEN AEE ETP EEE saa 
+| i ! \ T 
+
+
+
+
+
+PN peer ear ang år å चतर å 
+
+
+| दानवशाम भानवः 
+
+## Page 265
+
+
+
+
+
+
+
+ERE Ge Per 
+Re कस्य <02« «२; 
+त क 
+
+
+aana re net! ER Ya! RAS anm ली चाप पते! add daa र 
+कणी विक KEN ९० ॥प्रविं(व:/एना/ न म॑सा/अह। UR 
+fig NIAU च व्ये (अश 
+(आयात KRU: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | HIG 
+Kya pl ugg दए।त्वं। Ris 'सहीयस ।नन!म कसरुवरर्भिः 
+R e A ह k TN a सई mg gs 
+id quad वर आरे! अश्नी! यं। 
+एसाःदानव ध्या न aia ९९॥गार्यत! 
+need gm धेनवः यृ हि चिअ दूवा? आयत्‌! 
+
+
+## Page 266
+
+
+TERRI RRITORNATA] क 
+8 Ram 
+
+
+
+
+
+
+
+
+
+
+
+
+
+| संथ दणः सक दस्यनुपविशः 
+| नन््ययथा। वे अचीमःत 
+
+
+साद 
+
+
+। प्र।मेद्यु।मनों। स | 
+Fana: å mea ने (यकी ने सीर 
+Tauri ओला नि देः यं तभ naaa] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NG वा हे परिं।सर्मितो। य न | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+JG 
+
+## Page 267
+
+Å 
+HEG 
+i å 
+å gi 
+| 
+Å 
+
+
+
+
+
+यहि ४ चोहनासंया।३ ३।सग्म्यः Le हसामः 
+
+१दितःत म॑सः।विऽहूता। AUNIA 
+Ras Kata न नौ न। 
+| qa E piian 5 व चा॥ स भव: बा/श्रासतां।उराण अप uge 
+तंसयध्येगसःजोपसग इंड मटे! हट 'विद्र!ये/अनुः मर ति। बाज ४९ कहिने। शो A 
+
+
+å f 
+ON 
+
+
+४२ 
+
+
+N gan IIRA: TRN Å rd वान > 
+शा पूंड/मभ्रश्वाचः।स्ताय व! mitn ANIR Ra] 
+
+
+
+
+
+f 
+i 
+
+
+rr beeper टो 
+
+
+dm हेप MYHR 
+
+
+SE SE treat ES स्री 
+7 हे वे ARMAY: 
+
+
+UIRAA 
+
+
+
+## Page 268
+
+मैं।अस्मा कौ सअसवः/ हू seg यू: पतिः daud 
+
+
+i ततवा! ओक दीघ न! सिप्रंआाडू,णाति!अ ga 
+S सु E RN न(अवध्या/॥म हः वित! 
+
+
+INMAN डत्याः।सुश्तायदेव।०॥ ९५ भत्व RZANI daa 
+
+
+ज REIR KURERE IRS 
+
+
+za KUF ov (च'येनिः(पुरुःटूत! 
+'अग्नि। UEFA 
+
+
+सिःवस्ताः।शिषनु।त इड्‌ स 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+AH K; ll 
+hang dit FUNA FIFI Re नावी 
+
+
+UEK 
+igmg 
+दिषतः मरु før तिग्गीः॥एय:रेत्ता यच PARAMAR RRI 
+
+
+| 
+
+
+
+
+
+| 
+
+
+| 
+
+J 
+
+## Page 269
+
+
+Å 
+P| 
+å 
+
+| 
+
+
+
+
+
+
+eid NAA Aemilia pe न॑सागवरिऽयच्‌। 
+
+
+
+
+
+
+Fu 
+an 
+
+
+$: 
+
+Be 
+
+i i 
+vag 
+
+eg k å y 
+
+&:+ Å 
+
+pr k 
+
+तु” 
+
+च 
+
+र्ड 
+
+3 x 
+
+NS 
+५02 i 
+
+म. Ssl 
+
+å १५ KG 
+
+## Page 270
+
+åt: ERA ETA ५395 
+AN Å TALON MSS 
+
+\ 
+
+
+ERA 
+
+
+i: EG 
+Ss f 
+gs på 
+
+- 5 
+
+
+
+
+
+
+
+
+` ६०९०९ Dhasta दभि वामानि 
+२३ aang हयव कन, स्यूम ्यूर्‌ तिश ENST EL 
+asp sandnes ॥ ९६ MANUELT IRN ` 
+चोद tan शन र ये।पर्श्यन/भयेमर्णसचा।आयेः लय शूतो /व्ुसाना॥ 
+अच त्येगरपत(व,विः। Sød RFE ER BUG 2 
+'घश्वादाजु चित्रा साचू avadada magak 
+भअर्विरणायापूर्वभिनद!युर नाभि NAT PE AAIEN पीयो vj 
+ë S R på सणा॥ भप सीराशनास्त्रवेती*॥प्रा सस अत ve 
+तुर्व यड स्स्ति।लं्अमारं RURANA, ।न्‌रो'दुःयावाnसः'न्‌ः।दि n 
+
+
+| | 
+å 
+
+|; 
+je RP y K ERNIE 2 ao STDS Sa à "SN ७५७८७ 
+
+
+ind i पु i 200 a 
+
+
+
+
+
+
+
+
+
+
+## Page 271
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fr योक 
+
+
+arining uR PE fe ke REG AKK i i 
+
+वतते! इड वाजी सहः सा a सत्सरःटवी!से धासहभ्वानी | 
+
+: EEE E निता। edu G+ MA दास, 
+
+| eae ।सुषाय। सूय कव चक! makana] 
+
+pn Tid ed on ro ARMAAN RT 
+
+«3 UTTERN Kad: ad: R ANARON Re å | ARA 
+fiara SE FEE gan ee at å | 
+
+_ शित सियाआदित्ाय/गिरः।०॥अबु।थाश्यउ gA AF 
+
+Ge Han e AN SEN RAR JR REN aaa Ru 
+
+
+lasse 
+
+
+
+
+
+
+
+## Page 272
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- (९-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Å Yo Re X 
+
+
+
+
+## Page 273
+
+
+
+Jun जे जरितभ्ये फेज सवापे rasp mia RREN वीमिविद्यमिय JA 
+
+
+Å 
+
+
+EDES ME ay 
+
+sm ao NN आयोाः:॥न!६।२ jm IT: 
+
+` anja LAARA MIAJN aai IÀ 
+ir गयूवःस शरा! a 
+
+
+| वड 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+o जायोयाजेंषुयाजिमे 
+
+
+तेःसमाजञहि! grend ER di RERAN mA 
+| 
+mzta दू ही नाच रुः हूतः ३ ईरलुत।अ्रवस्य 4 (अर्वसा उसि 
+स्काहरीडइ तिं।दुर्षणा।आ।या हि'अवो३यि/ते।डरषणः इय भार रा सयुजः र 
+be nore हिभःभवोरू। राश zA ha 
+rÜ iN NA RNR LGF FAN 
+हरि््या।याहि।प्रःवताउ्य/मद्विकृ अय। यत. देवू या। स (नर mgu 
+EG माहि ELARI 
+सः Ds की : 'मान्यस्थ'कारो:॥विद्यार्मवरता AA १३ 
+
+
+## Page 274
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+भुम ।सयाव भयः रितः भ्यऊतीगमा नकार 7 | 
+
+
+
+
+
+
+Edom ॥उपाफे IA 
+
+
+EE E EAEE सुः शरवृरवा। प्रःखाद/पुक्त/अभि/ सित्रि 
+JA Aug 'संच्राउकर।यमंमानस्य। शो ॥लयाव य मघव 
+TYNE त MAUS TM EI न 0 RU 
+
+## Page 275
+
+RELASI UG NG 
+
+
+Frame 
+र्द T 
+bra Ahr si STEG स ran Jan S 
+
+
+| 
+RAR | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| - प*९*२ 
+
+
+
+
+
+
+
+
+
+
+
+| Ranardin मधः 
+
+
+¢ 
+
+
+$ CERI rd sis. 02 न ; PR SE वावा 
+| | : BITAR ८ 50 
+
+
+AZN हापा ।न हिभ्ेते+आपुः'सं।०।द्‌बःभि GARN | 
+म UT! ae Mk गम तक asd N 
+
+
+
+
+
+
+
+
+
+## Page 276
+
+
+
+
+vie जो।अधि।अजावग न र॒श्ये/ मा।ह m ॥आअगन/उत।आः 
+as च्विः निरिणातिधीर'भ हे लची gn 
+MARA Få gä ae UJSMAAG å क्स 
+SPIST RITA TFT UNGE वलड छ ane TRG 
+
+म n jai वि॥रजा सि।सुपय मो R ARTANA, 
+Dr Uk 
+
+
+ध्य पि्गतो।उ षस सचे थेर 
+नक्षथः।य दविः (व 4 q sk NYERE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+। 
+| 
+
+
+TG 
+råde 
+
+
+
+
+
+
+
+## Page 277
+
+
+
+
+i 
+Pe 
+
+
+REE EMA 
+eS 0 2025 
+
+
+
+
+
+
+
+
+
+
+
+i श २) | 
+
+Mindaaf: re pa RET Ut शो हिः kr gifi 
+AAT ag ed 7 as A Aar २३३ हिः रअ्या+रेव/चेका 
+धनि तित नाक वीय।दस्रागःओरिने। म | 
+रू 
+
+vr 
+
+
+ai ।माहिचा।वां देणे वोअ! अ Sk ! MARGE n 
+TRN å | DEAN ARTUZ $: g: 
+महिना म qera ME R 
+
+
+
+
+
+
+
+न बाकि. | 
+स्मरन्‌ प ३ऱव।चितियत्र!सह स्वः , ` 
+ent FER: gaagnei a ji 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 278
+
+
+Ya fi 
+
+
+
+
+
+| i | AMS ते/रुन॥ रवव सिय दे 
+ इ३/अशिनाप१२+थि सकल वि 
+
+
+| fifa 5 zn saan मेमा वे | 
+| रथ्या Amny थः reson aa EEE EEEE] 
+| ड | यक गरा er 
+UIA 
+
+| Tanga) दा वालन 
+
+
+| महू २०॥अ व Rå तोग्येगजप! GAGN HAT 
+
+
+
+
+
+ह. 
+
+
+
+
+
+
+Fey vg sa i 
+
+
+नासत्यारयिःसार्वः/स्याम॥तं 
+
+
+EOE KAINIS CE दिनानि 
+ह ईषि पतक नाकच J 
+UTRZAN: injar विती।अिताराध्तनानों ॥आ। वा? स वय्‌ | 
+पाः. वातरंहसः दिव्या NARRIN EMNER: av | 
+अवनि:नाप्रव RRA १सु विता ANT nd WT के P 
+र fe ne ankelen | 
+ARGAIA A RGR] å के रक laahaa) | 
+
+sann हे SNITT GARN ` 
+EA pe araa Na Je Sze in 
+
+år ai RMATA ANS AA KJØRE RER श्र 
+
+## Page 279
+
+
+
+7) | 
+E 
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+परिंद्याटयोने।०३९ क्‌ॐ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 d 
+bis 
+
+
+
+
+
+
+
+## Page 280
+
+IL ७ 
+
+
+agamining भे।इत।स्या ro T 
+
+IRRATIZ RN 
+यवा यरिवृस्याग्टग्यानः9॥२६) 
+> NOEN AER i 
+
+
+Å 
+vi 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARER deg ra हर FUN 
+
+
+
+
+
+EYR ETNE RÅR भे 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+EAT SARK 
+
+
+धिवि prp na NE Er ऱ्य z veger BARANA: 
+NMIUNUANNJI सयव सःउच्थोभ टाल ed 
+
+| 
+
+## Page 281
+
+
+Aa 
+
+
+tua! sign र i - u य 0.0 l ७ 
+DRAN 
+
+
+ANUN १ते/यूनाथा।मरनंस:/य।ज INR R] ver UN: 
+ल PRET ४-५ 
+राजत MD यर 
+
+
+हिऽ हिओंमः ima अथ्यतो/अपरंखुवेमउ छां IEEE EE ENE EEN] | 
+संबो।अयेः åå MAVA INARO LTN NA 
+ZiR md अकबर तर के mauaa ` 
+
+
+॥वअते।वा। कडू रा अपए सुज्ञा ता (युभा। 
+
+
+| [ | डर RIJEN Ten TEEN 
+[i en mA sg red मान्य 
+
+
+fis mes 
+
+
+in rd arena sage रष्वम vevd Å 
+
+
+| en ज रि'मानेभि. 2) aean E Ee UK वृ ति de 
+Runan mn naamaa emerging maa वय्‌? 
+कधविवेद॥ विशीत रित यत!हानाम ana तिं। व किया ऽव 
+
+
+िव्मवनसम्पारभस्यभ्रविाक्षी भी अखिनावधागि। air 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+## Page 282
+
+
+| १०१५ | wahidha पूवइबंतागर्भी शपरीर्‌ तिदिधानेरविग नित्याचा, न 
+| ४८ RAA द PNAN: maks 
+,.__नर्मखबंशतदाएरोदसीर तिलनयते।जरित्े।०अत॑प्यमा ने रतवि।अव॑ सा अवँ दीर ति अ 
+DETG EES NEC 
+
+
+
+
+
+
+या m RE ०॥ २ ॥३ वी हूलि।स 
+लाम l त! 
+
+
+।सुभगे३ 
+
+
+
+
+
+dig (०) 
+dd y ERE 
+
+
+॥हेवाव! शायद! €भाक व चित 
+
+
+DE es 
+अ 4 (7: 206 ME ROR TIE 0५५० 3 
+
+
+
+
+
+| सराय वसद इव! smug अवश्यान एच।५एश॥।/वु सी। नयामो ar 
+
+_ 'विद्ाउभेर्‌ pt 2 er Aanes (सुदाशततराय।इुपा EEGA 
+E CELTE CE ERNA EAO IEKE O EN GEEA 
+atra पिता/साता चारक्षेतो/अ re Henan aiza 
+| असुत miazgu वते दे वानी अवमे ति! अव: भि! ७॥ ३ 
+
+| Ra येमुः रास्ति विश्वानरः E EEE USE था्युवानः मतथ 
+
+
+
+
+
+
+
+
+## Page 283
+
+
+
+ryg aat da ag ad विथुरं नः रावः 
+अतिथि Tong Gas Af: PEESI: E ERE hha की 
+
+
+
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+NATIN AN hes Fi 
+मानेभयुः Az ।समंतेर तिस" अंते/स्वसारा/जामीइ! RN 39: apa a : 
+हतीर ति।सते नौडवे am =o 
+
+
+
+
+
+
+
+
+
+
+
+शिरि | 
+
+
+(बिश्व।ज वूअभिः पिले।मनीषा। आ।नः। Bre Faen pk i ` 
+l 
+
+
+
+
+
+EE 
+
+
+
+
+
+oloy arinetan KE आ fan raven 
+| ५९ 'जुशसमाने/अहन!विः AMAIR यर्य॑सि।स न॥उत।न/अहिं! 
+` vhala रितिक! शिर्ध।न। व्ष वेति सिथ ल (मन: 
+यहि ३ उत) न्‌? रलम गंतु ANALAR Sikke 
+ua हाइ ुर्षेणिऽ घाः तु दि तसरं न्‌? इ ह गम्या?॥०॥ 
+वेगाशी, mirati Riau E गिर जन्य RUG TT: 
+सत॥०॥मरुत॑॥।6ठ<ु सेना:। स्मरत! सीर (सः याट 
+नरेथा।रिशाईटस:। TEGNA TG 
+
+## Page 284
+
+ag । basseng ये 
+
+
+
+
+
+
+
+
+an tel < 4 Ö 
+
+
+कुणुध्यो यणं स्वः वस हि।सं ANART: == 
+
+R ` JMF: Er UUO EE ERIRE L Bel qı दनी namn an 
+S KA on & इ सहः EEEN na त्रित विओ 
+आर धीर faijan 
+
+
+an er 
+घेण्य 
+
+
+_ ब्राताः वा शिवा र, ठा gid 
+FE EGG å RRIA apl: p 
+AE सा।अवधी व॥यवध्भद्‌शपिते। 
+
+
+En 
+
+
+4 redi ER AR 
+
+
+
+
+
+y TRATANA INAR AAR सुध 
+? + steg anker 
+१प्र/स्वाग्मा नर Tana 
+॥हितंभअक्रीरि'चो 
+वॅतानां)अर्न।चिव!नः/म 
+
+
+
+
+
+
+
+
+
+## Page 285
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+वितोइति।म घोर ति nårdgja ak | 
+
+
+zyk ५ | 
+
+
+EA Å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+त * å 
+av 
+
+
+3 
+कट 
+
+
+I 
+
+
+
+
+
+
+
+TTT 
+
+## Page 286
+
+
+
+
+
+
+
+
+
+
+
+
+A | | / 
+इतिंपितोरति।अर। redi स्याःधयत्षयां aaan: दशाम | 
+| वश/भ३॥यह।ते।सो भ।गे। 3 EKS RRR ॥० RENAT X बी s| a 
+| RA aent ae inga sumar Er akani | 3 
+BY: aent: | धश्मादूँ॥७ nå såg (राज सि।देवः।देः NERE मिव | 
+
+
+| Mr वादस वतम 
+
+
+
+
+
+
+
+
+
+
+
+
+
+तेरह e} -o | 
+Huang ae RIIMIT ARRA ANRA RA | 
+
+
+Fa कक åren m EGEDE de je 
+
+
+
+
+
+
+
+
+| 
+
+
+agere de | 
+
+
+## Page 287
+
+
+
+
+
+
+
+
+
+
+i add rage: 
+Ri I सीदतो यमाह सा ७० ` 
+| | TR AHA यून [यक्षताीमेन। | 
+Å | का | | 
+
+
+
+
+
+rr 
+
+
+| 
+å 
+tå 
+Då 
+
+
+_भार॑ति। न ब्‌ FÅ कि॥ता-'नः'योट्यत।श्िये स SK l Rens |. 
+_ यन्रविश्वानरसेःाननेषतेषीगनः सावन उन्ले पाथः Å REA 
+| EG 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mA ETA: र४गाशअग्निमदेवानों। गाये सं 'अज्यूते) खा य SAY j | 
+NR N rat ।सुःष मतता वम र | i 
+
+## Page 288
+
+'सडराणंग्रनं at REE mme | 
+sm ae Brae वि! बड कारन उव! भः वात्य माझ 
+leke aa: न en gere: 7 | 
+| dar वमिः ते भिःय काके वायुः faia a | 
+UMJI कानरमा।ते। सय जरितार य्‌ वि। देन Ga MAR GER MTT 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+EE tr EE EN जाकर 
+४७ 786६ 3 ७७० > -- 
+å क 
+
+
+t Rox apanami izgi माट लतें। दब ते। मा/अ amn Pak 
+
+ag gaaat ९५ ॥विःघत्ाऽयानःसतः mad RA TMANG 
+
+भै AWARA 0 ie ल का 
+
+Prag R Amean anden | 
+kaag kaaga nmaa Rama की) Kule | 
+
+IVRE TAG ret ९९ grid aft ERETGIA på daa 
+
+| E or भरी AAR ae 72222 MAG र! 
+
+art: si ! i RRASA UA: 
+
+प 'सातरिश्वी। 47750 25 जपताना अ 
+
+
+i 
+Å 
+i 
+å 
+
+
+
+
+
+
+
+
+## Page 289
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SN 
+
+
+Q तिं।अस्य KEN 4 ganed न।भीम।अर क्षस। तु विष्यान/अस्य।भ्को 
+| Enara ET dd जज ओ 7 शुगाणो।न।ेवर्यःयंति। 
+'चाऱमाधदरस्परत: STR अभि] YI रे 4।3 शिरे aama ।पापाः। भर 
+उपःनीबेति। astma gende ng हस्यते? चर्यसे त पिया ॥ ९२ UG 
+Agalar नियतः परि fana RINRI NARRA a ai 
+दता।अपःऊणु व असुं NG poke qaddaqåaaaddd | 
+| å mAg उसर्योचटे अतः दहस्थर्तिःत hade dn Me å 
+aama दहस्यतिः। डव भः याथि) देवस्य. स्तुत! बी रवव, धावे गऽ मत! ९१ ९२॥ | GK ] 
+| å AN å re ढत॥ही पूर्ति धुषी EG RISTE "अलि ni 
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+yy y PKT ELSSER ० डड 
+
+
+| | 
+| : ति।आध्यती/अथोरति। Qg रात Måndag 
+| व्यय rR Again AA रिया: dang 
+
+## Page 290
+
+Astor ससन अरिक्षतनिःकेतर्वः।मनाना।नि। 
+ke चिफ RATAAN GIRE UAT 
+३ दृषा प्रतेः अख्तन्‌॥ NRN थिवी/माता। सी Janaina i 
+SAE विशदः तित ड यत्स्वे अस्याः aner 
+नावन agia य (हलवत agree 
+विश्वः रश! जशः MAZARA ANITINA ह TATE 
+ed: ganman: कद AER: AERAR 
+
+
+
+
+
+
+
+
+
+Tlr 
+GR 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+| 
+| 
+| 
+| 
+| 
+| 
+
+
+f 
+
+
+
+## Page 291
+
+| 
+
+
+i 
+i , $ 
+क FER 
+Nisan iiss th SS APRONS he PNR Re 
+
+
+
+
+
+r ALR ar 
+Í 
+f 
+
+
+f 
+
+
+rerema: ve 
+
+
+mane: तका कारि en E 
+drenere Sant ९५ ॥ऱयतिका राळ निका'सका'जघास/ते' विव 
+सोर ° 'विरसेप्ताविष्याटिंगका*विषस्ये ATANAS +म्‌र्‌ति।१ pi amad 
+
+qandon रा EK KAK GE Uk de KALL 
+Ba शिर।उ दक! CEREN K EEEE lE ।अश्सना॥नत। 
+Ringi ie ng is र्तः कुषुंसकः व द!अद्भवीत/रिरेगःतेसान क ॥ द ' 
+
+कसरत शर दिक N ९६ ॥३विहितीयभंडळं म ug 
+net NARR ee भ्यः।त्वओष ARE | 
+पाय maaga aa तवापो aR त वें ग्मनतिसतःयते॥ 
+
+
+um» vm ue Van 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 292
+
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+åå 
+PÅ | 
+
+
+
+
+
+| adanan mn दअ ad andra d द इभः 
+त 7 तवित he धर्तरि 
+विःधर्त/स उसे पुर ्या।ख।अन्तेरराज वर्णः घू ततः सं मिभ भव सि। द्मः. अन 
+लंत्अयेमासतः 47 ard Tanke ii ANY NÅ 
+gA Paiman hAm Se आसी क्री. 
+i ar TE ETE A NGE ESURU Y मार वतला ताची GE 
+ADIGE aga शि तमना त्व GR EE | 
+सिताः गही ड ER den farmer! | 
+anla hem विशति थां।राजो नं। सु वि RÅ स | 
+
+
+
+
+
+
+
+
+
+
+Ko 
+
+## Page 293
+
+
+
+
+
+
+| इल्ला त छिः मिं।नरै/लां।भ्रात्राय।दाभ्यो। ते 
+नूऽरुचं। संगयृत्रमभवश्िः्यः ते'अविषतः draugen ss dine ga 
+MRAR «hår agad: शयः शि niaaa RRA 
+galagie n ve ria RARA R x ARa A 
+तइन Ken Ragagna ia gaa 
+A - haka NG gmks RINRI NARA ad ह्न!अशिःत।रयिः।व्‌ 
+[i em श्वत i N AeIE UE तां निहाय: च किरे। Ruai ? 
+7 सान! अधरे श्विरे'वेराति देवाह RAAN डर ते॥ बेर ag k; | 
+अड STEELE natamaan dts: सृति।्व॑ग्ग रुषं 
+
+
+
+
+
+
+
+
+
+
+$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 294
+
+
+
+
+
+
+
+
+
+
+
+
+` १००५ MR Ra विव सताम व।रि य सेशशुश्षः 
+Rasende rådata 
+MAANA हसे a ।तानाचःयाहि्नेक्षि 
+aner RATIMIR gedin REEE भात ट्सोभग्नि IF 
+«Ava ane Ga gadda र RENIE KOE CIL 
+diggaa naaa सन Rauza Raam 
+ymma] स ear gin i så 
+'अरति।ने id Foy TEEI] Er (ते 
+| पनर निनय 
+
+
+TE: आम, /चेंडू'रव/सुःरुचे। हारे आयु ५४ 
+
+
+Pre pm 
+
+
+Ea + Ses: 
+ee टी 
+
+
+i$ 
+
+
+
+
+
+pi 
+8४ 
+
+å 
+fi 
+
+
+
+
+
+
+
+
+## Page 295
+
+
+Ui 
+
+
+| भिंशपथ/नापायुंमन॑सीइविंए भेरति ES हित।विश्परिं। शत EN yard 
+
+
+i 93 FANAN हि रिः शिप्र। डुधस्ताना t3 वयो AN: 
+Renn २७ naia ग पान दखान(रपिं'अर्मास। दीदिहि।आ। 
+a bid BANAR 'अस्नहुव्या मर å pl UJRA 
+
+EE ARINE 
+| SEE ganang क :राम्या!अदुसन।दी aigan 
+
+
+Kala Ria मरा gis nang 
+Ay व 
+
+
+
+
+
+
+
+
+SO 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PE GEER चवक Si gi 
+pako ar sta N ARTAR AINA AAAA 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+## Page 296
+
+
+Få As Pr रये; E COEN TIN] SELAI 
+qH १ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Pox Higher व! रिव रजा स्वन ke å REAR 
+uk RMAN: s DRA AANAND 
+'खि।इमे४उभ Hd ण्यात साति | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+TJE: KEIER AE [सुःअपत्यस्यऱा ्धि।चः।०॥ २९ ॥ सेड्‌ | 
+Far sang ei ganen vi वना नि।अरछा हबका | | 
+gig zinaa: ईन प्र namn en 
+fr $ia Iganga: ।मनेसा।हुच्य उ न! RINIA स्व।स।अन छे o 
+ganang le EAA अ न वा ERR aqaa | 
+Te मरुता राई अन्यत ड नरः ब हैं सद य मथ्य ।देव ह miah ५६ || 
+। |. 
+be 
+रीण बावे।सुःभरं वेदी ति झस्यांगघुतेनअत्त सव!सीद वाइट विशे dere | 
+I किया यमाना टेवी: Ce दा | | 
+
+
+
+
+
+
+
+## Page 297
+
+
+
+
+
+
+
+
+Rå gear gaming र २२ ॥साधाअरगॉसा 
+सनत न उलितेडति!डषसानक्ता!वृय्याशव'रणवितेर तिं द ततं å 
+Sea I AEE E EASIER EEG N धे पयस तीरनि॥देच्याहीती 
+
+
+Mi JE ISTAF GY: तैंरा।दिवान/यर्मतो। से sant | 
+antigen aged लातत दिवी।भा 
+aud naakka Emin ड वां ददार णं ग्निः aquA 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+HASS T re BY LAE 7 
+| 
+å 
+3 
+
+
+
+
+
+, en: ।वीरः।जयते $ का (वस्थती नाभि भरे 
+jn ga hå a+ ee di विमु 
+यातिआाधीमि॥विधास अक्त।नेयत पः मा नन देवेभ्य द्यः vang an | 
+gåamergdeser nu KAEA T UEa Ulik: k AE e e ` 
+zmija å $कत।ढे व भाव क्षि।ह व्य॥ 3 yag ghhg AG E 
+शा।अग्नि।अविंधिं। सु! प्रसं ek; YR RRNA: Ta ॥आ5 दे वेस LN 
+aanrå agree ्विवा'अदधुः टयः बि्ुआयोः। एवः विशत, 
+ANAPARA AEIR URNAR A RNA RRDA | 
+
+
+| १०५५ 
+
+
+| 
+| 
+
+## Page 298
+
+Es. 
+| 
+
+
+
+
+
+शं 
+& 
+
+
+
+
+
+
+
+
+
+
+
+> ame 
+
+
+
+
+
+| प्रिया gresk VRAN पदी asagi । दास्वते। दमे 
+| SÅ अस्यारण्यास (कहि seu 
+| keg ae anemya gada 
+ginan ने! वर्ण ।सः। चिरेण वङिते।रंः सग्भास! aeg NY 
+| ee २४.॥आयः वनो! व ठ पाणः नसो वि। वा FET IN hanga 
+अध्यात LES Gl ameni सभ्य॥वि।अस्छाव/भपि। TA € | 
+RJR ; uren MAE: 
+AY न Å ie ry, Å val 
+असेरतीअ'नि।संयतररवीर हेते सुः ग वाजे सु अप रवि Gutt स्स 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+## Page 299
+
+
+मश तःयाः २७९ ॥ daama l 
+लेनरमेन्य दसा केमे'वा adama amaa re वशम 
+agamia aanza Rma अर्ना चतः अराधि वे इत 
+
+
+| Rox aad agda उपरि शस ¢ बीशैंसशअभिमातिःस T a 
+
+
+
+
+
+
+
+
+
+
+
+| ग RRNA काच्या fuger AGE au er z am 
+| 7 ? LIENA Kj pe 
+
+
+giar Rad: IPINIA सारा वा: हद ह guaman 
+qi न ताशा अध्वर्यशआऽगवोध्यवः 
+
+
+MEYAR AIRRA] ररिभवयंगयया। विद्वान! X | 
+
+
+f 
+
+
+| 
+è Ko 
+å 4: i 
+| 
+
+
+pr EN 
+
+
+ees 
+Sa Jen रे 9 
+
+
+gere aar gå FME) nag ugras 
+bog कह ॥अया।ते। भग्ने। वि IANA ल्क 
+
+st सुप्जा व तेग्याययी:ामियि ग या गः ॥सपर्येम*सर्प्य ईस 
+Qata hg nga > = NARZ RIRIN 
+
+## Page 300
+
+fana ।वाजीअचवोण।सः यः सहे! बाई कानाय/अद्सववे/्य छह त/न ४ गि 
+wg उहोत/आ।ग हिमत हि।अरने। INARIA ।कुवे॥ तः sh n 
+| drm arm JARLE BE: tE A Aiah Aa DNE सक्षि। व्‌ "i 
+| ung NYE! 
+
+
+EI है र॒णिं।मा/नः।अ 
+aA ies 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 301
+
+
+
+हम ig MAUI 
+ETEINEN 
+
+
+
+
+
+| तादेवस्याम 
+
+
+
+
+
+- (0-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+al 
+E Æ » ५ J 
+» ý å š f Å E 
+
+
+ना. ` 
+
+
+
+
+
+
+
+
+
+
+
+eg MRR kaakaa RRRA 3 विभ्वं 
+Å ES वश वशामिशउश्लःभि॥अशाण्प॑ दी नि। आः ईतः दुःअन्तः।स्‌ fis 
+Pagana Qami महतः षह nae र ir यो 
+| maa ARNAR: ai Ynga de IIIA 
+आअरिं॥चारुप्रतीकाआरइ ANAE A या।द्मेंषम्आ! दोषा sagaen d 
+| म की तीची हन एभा कि कस सा ६ 
+auraen an queen | 
+aaia miana akai चेमहिकअभि सवा से। ड. = | 
+ARAN २९ N तिनदा jamn ama seende ve 
+
+
+
+
+## Page 302
+
+
+
+
+क 
+3 
+
+
+HØR 
+$ 
+
+
+
+
+
+ene ae mme ETNE ad 
+स - न“ uonane 
+
+
+ESTS 
+det 
+HETE 
+
+$, 
+i 
+
+
+Run ॥निहोता।होहसद॑ने।विदौनः gade: nuNer a सुःदर्कष॥अर्टव्यद | 
+FYRE ४:सह खः TYR GENE: ACEI KRGE RTR | | 
+Treng AT Ra Hi EUERE EARI द धि पु 
+| Både as TARR: Mag: Rugha hAngassmen sg 
+यततं nårded पिव्युटुरे।संगई डे "अने य्जस्थाहविर्षार्‍यनीया ने भष्टीदेष्णंआभा. — 
+mea हे यिश्‍पतिधरयीणा ल सुकरस्य व व॑सः मृनो वि | 
+| क्षीयते! £ सव्यादिवेःटिवे/ आ maa PEN grann Fa er ` ; 
+AIW Bee SEL norge शा है वा ने! आर जि ९ RA 
+_अ्श्ारीवाणइतनापरः वाः अयुःमवाइत रकी ॥ ९ ge 
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. in Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 303
+
+TRE | प्रथसः षितिऽईवाइक daganat इधश्रियाव्सांन आटत वा 
+
+| ५९ ganen dn 'दि्रः भादः हरमे Faste es थि. 4 
+
+| an ga ह्‌ Adm ng em चक वित्र) के आशनयद्‌। 
+
+| सुः सुव'थु वेतस ग्निः gm Anaona PET महू: भिः/अपीरिः 
+
+ga हति तमिव a ARAINA 
+थु।तिस्श्वा/व्य सा हुहंत।व्य/बै5।अन्ने।रधसा दयान आदिशतः तिघे 
+रधसा।मर्नसा।तदा/जुपेत/ मर्य! NRR IR वे: arenaer våt तन्वाथे 
+rer NAMAHREM ENAN: Fre: H a et 
+चस्यामधुःचं'धनःसाथमोहवीमि॥ २॥ वि zamn wR 
+
+
+manak omama द्डिदःदासं'यन्यमानं' अव 
+| नो ned TIR N साइन gå av |. 
+GATA eg EG TT: | 
+FR spis å IE AE EENE AA? > UG reg on 
+enn mete må rige +अप) 
+Ji 
+
+
+| 77770 या gitarer ag ia | 
+
+
+aan न्‌ FG धा॥ ३ NE स्त्त्वा | 
+Kt gan adnata Et Rk ax da 
+| Sb er IEI | 
+
+
+श्व 
+i , 
+2 
+> 
+i -79 3 
+| : R. 
+f EF 
+i ae 
+| ५ ks 
+i >>> 
+Å 228 
+. = | AG 
+på Y न 
+j] : ril 
+OE 3 j 9 अ टश के” 
+k PANN ` å å Ser 2०399 N es 
+७... e ki > we < 3 see एक i PES NERE ७६ ७०० ७०००६७०४६७ 244449 HEEN da र का टी: 
+nad oe - Hse ` re Re SAIN PST Ct CE OR RRR | डे RE St 
+- \ 
+
+## Page 304
+
+t 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+i 
+
+
+mAn QRR RJO LÉNA games å पारा . 
+das Mt ना मोदि 
+शड jagra auaa सातय क निक टत र्ण झस्याव 
+PEE ECKE te aak KAk G aada | 
+
+
+_नैधहानवस्यमाया।अपादयत/पपिः NGAN ४ ua Raad 
+
+
+vilde शसुतास/ दंत कार्ता हुत पिर 
+
+
+NE न ॥अवस्ये वः DE | 
+शक ASS प q: ad TT 4 6 
+धः ANTIRATNE क कः ।रयि। रासि! वीरः रिष 7 १ 
+
+
+Se 
+$ >>. 2५ 
+i > ; 00). 
+` Å : Po 
+$ 4 + å 7, $ E 
+गि E p ५300 ed VE MoT है न ai दिन 
+; på 
+$ Bi 
+। VE ग 
+| | - f ५ 
+द $ 5 ý 
+$ 
+A 
+
+
+| 
+
+एसि।भिजं।अस्मे३ति।शासि। राई दुमाग ॥सःमोर्षसःचेचसंद्सानाःप्र।याय काति! ` 
+
+## Page 305
+
+
+ai किस: मिट सानः दुस ।य्‌१।३ व्यव ड्‌े+असमाचःसु' डवर सु 
+
+aga EE R ngid ZAR AET, IRA: a l 
+गभः Condi ।बहि/ पुरस्य वकरलाऽॐताः। रव! इंड E: bu UEA e . 
+नुर भं दसा नः विः कैट के व। पा हि। सी में।ए इत्रः दो वशर व प्रीण। न mor | 
+sugar Gurine et 4 augi 
+
+
+
+
+
+
+
+
+
+
+
+
+
+z AVGA dia å ति lå å FET 
+a द $; स्सभ्यतत(ा टश्च स y4 मसा mangai 
+La nere ae aa igana daaa naa ` 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+TENNE i === RE ex FEE स -~ » - = me === — =- न 
+
+ह i å A å 
+; : 3 
+; A 
+
+
+i 
+te 2 teg ed t 
+
+
+rer FS innam RNA दिवि 
+द्र Rua: umag 4 य 'यधञातथए व प्रथम सनस्वान! देव Ranra 
+aradan aa DNR AAR > piia adana 
+वींयथमानोअर हृदश्यापर्वता न ९छपितानाअभरम्णातेशयः/ अंतरिक्ष ima 
+DRONLAR ARMAR धूनरयः। mgA å ma 
+-eqan manamana १९ कू।स भव ert ।्यवचो१र्‌ः | 
+È यमदार्स aE T ae ka क॥ शी वयः लिगी वाद CA EEA] 
+end. साडू घोर डत आडू । न। ए वअ स्तिदति।ए नसः Pi 
+Fiesta maa sagen N N यथरभ्ररववोदिता।य MENY: R 
+
+
+
+## Page 306
+
+| 
+
+
+) f 
+EF 
+
+
+E EE AE E E E EAE डिता।सुः शिप सुतः सेसिस्य। ० gel अश्वौसः। 
+डक ae NYE! å NY Å gn Gen RBNETT |. 
+natt सीर बी tag; Sår REIT re 34: TR d 
+सभानाचिद्! क (३३३4७ यस्मीदे!नश्सते। farse | 
+| NA AE 
+
+
+माने/बृन्दव/यः'भ चुतः FRU 
+Å. mga दर्धानान।अभ॑न्यमाना or र द्‌ pere 
+| niione ae ied Wajda ai 
+
+
+
+
+
+अन AG IDG ng श्मिधशुय भर से 
+तर IIRIMAA waqg बाहु।धां।आरो हू से । ५१ | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+६२ 
+
+
+j gd > å pe आस ववि 
+
+
+JE 
+
+
+
+
+
+| कमर managed 
+
+
+| 
+
+
+
+## Page 307
+
+ad ME AOSAN Ti ren TESE NE —— "Nr नळ 
+TET आ ४७७७७७७७७७७७७ अ ससि 
+
+५; LAG ER 
+
+Š TE 
+
+o - > > £ 
+
+å 
+
+s | i S 
+
+| 3 
+यु 
+
+
+| पिन 
+
+
+|| 
+| 
+| 
+
+
+
+
+
+वा।विवशअरमे/४थिवीर/ति।न मेवे आव विवरभरयृ पठता! rug name Í 
+। वृतः बेब बाड यः दर्जाहस्त/०॥यःसुनेतीअर्वतिग्य/पवंतीयजसत aan ° 
+Sinaia वर्षन यस्यसो मयः nnd ganda FIMA - 
+data naain वीरास दिदर्थ्मा। 
+glane n सवध जोनित्रीग्व NHTGYR GE MA भावि RAUN गडे | 
+वेद! परी TINA ९७% अ TAN स MRA 
+å पक IRA य।प्राभरत ns 
+श्यदयः।ता'अरङूणो वयभ MAGE IUIAR 
+e 
+
+
+MAILARA NTER INARI ON वि? GEATA NIM & | | 
+
+
+
+
+
+ONE E E E दं rå EEE ERA षित sr jon 
+| be de षी दवेग्यययोतीनोअहिः ERAR RIN nagu A: 
+
+NRAN दिवे देवाः अनेनन ५ ९० n IRANANA pp 
+A EEE IKINE E SENA SEAN MARIER A RR 
+
+## Page 308
+
+BA qs pst, ।दाने। वि।अब FNH x |. 
+युंतभदिवउरुधडेवी च अगे ढंगयनार्मरसहःवसु/निःहंतवे'टक्षायाचाटा 
+Fen åren उतार म 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Å !श्रृषा।य देह? ni ern IF ed 
+सार फ geek 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+gest Tears पसमद वब EECH > एड हरे ॥ सुड मेवा 
+
+| | rav ar, न/ऋतु ना।बिंटसे। वसया ८5 Ramada . 
+
+
+## Page 309
+
+६३. चूक så IZ FIN हक इक मय सररःअपस.तेराय/क।तुवर तये! FÅ 
+
+याचा dv Sa JRPA TÅ ve UNAYVARN | a 
+इसाइतिटानायीराधं mida a T UEL E व्यव, वित्र श्रवस्याधअतयून(० `: 
+
+j n l 
+
+
+
+
+
+अयद भर॑त। IMA JAN Ea कामी! यी Vi 
+स ai जुहोत रष्ण व(रुव!एवः। व LAKE BIK RK पः वृक्षि वासु 
+मधार्न'अरान्याऽवुक्षंगतसेमेत्दतभरतःवव्‌ः वाय एषः इड. अहे ति! पी ति। अस्य॥ ड 
+अर्व्वर्यव।यःटमीकेग्मघान।यः।याःउदःआरन दाव है? ३ लं। ३ रि तिव वक्ते ध | 
+
+
+
+
+
+
+
+
+
+
+
+एकण 
+
+
+र i &. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 310
+
+
+
+
+बरसे बवावं इड सोमे+आ थे यत्‌+ यव ANKOR] वन) | 
+oe AJLA j ESE ar दियत hi | 
+aghann a विः असं ug ag aR ed 
+
+
+इंडाय।अंध॑स/जुहीत et 
+ns ॥सह सर आषः अवंवतरनर॑तःसोमं/रेसे। ९३ ॥९ आह an 
+sok i97 तय PENANTA ARRE | 
+ima JUJAN qaal ugh ; EG OA 
+ड्‌ Par स्तिःपूत।भरत/ श्रुता या ट्रीय सो ।सुहोत्‌। अ ध्य यैवः क वे na | 
+saa de A A elottomana bent यार 
+
+
+
+
+
+
+
+
+-= CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हू å उन्न $ av : 
+$ A q 4% Å के Å % wer å 
+A KIRA T m Ce gp अक. song ६ बृ बु venne pron ` JET på EN परे oes PE f: SIT pa bag ear < क Led E 
+Fe र dd ent fad I Ts! री ` न å å < है VA हैं? dagi | A AHA g Le ¢ 6 [SN 24: t 
+[å vi % pA डु क * Å E ef pP Fife AR Å ¢ 
+
+
+| Golfo | uagara पय॑सा'ऊथशय nm सोमेभिः Au uden 
+| q कै 4 शहत हे åa IJAN केत qua भवस्व Rp 2 | 
+
+## Page 311
+
+| MARTRA टॅरंःनारणताय FL MUR AG JIRATU ९५९४ ॥ | 
+प्राघ/त/अस्यामह॒त/महानिं/सया।सयर्व/करंणा नि. वे विः gona 
+0 सर करे Im ek 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| जर | agna सो म॑स्य।ता। (डेड बकार सरव margen 
+å på anamagaagi थ i3: 
+ü अधाकू। आ Augen etue ak dørs f 
+NÅ ९ वः 
+Find ग्धृचि।ए्तोः।अ TONNA NFR HMKG FAE å | 
+
+
+
+
+
+
+
+
+
+
+
+
+TE i k 
+
+
+
+
+
+
+
+
+PT 
+
+
+AES ngka अरिणाव! Ramata gaki | 
+Noi लए — स/विद्नस्मपः्गाई gene 
+
+## Page 312
+
+FAGAN gm gr 
+tagma paG rar ang धॉसि।कू त्िर्मा णिःए पां+णारू 
+भ्रेन।अभिः् प्व।जुमुरिं!धुर्नि। ua paza AMRRANA 
+
+2४४ gr RANG adr regens GODER भू 
+
+
+
+
+
+
+
+
+' Yazka A anag RIAR NIINA: E 
+NYE! 
+
+
+ARATZA AN नि/अ सिने! सं: AN! | | 
+भ es CDs dur Eramet LE | 
+
+
+MN 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+á र vr RE, drain 5) T > | के Pt 
+j 5 4 : ९ 
+| ig 
+* 
+
+
+po raua uden gang भिंगपतसि/ये।जै ना। gen 
+
+EN | Ñ år få nhn ॥ पी यज्ञ ख/ ह विषा AZ 
+वरः पि बंड इ सोमे न कं मध्या भिः है यू भः अर 
+
+o qandni maaa hamia sri दुध भा am 
+
+ne ughaa रर्थः रुप णा। हरीख तिं।इुपभा णि। आ ya 
+
+O påengymd om 'साभस्यादपभर्स्या हे ष्णु हि प्रति! नो वे। न। स H स्यू 
+Å mA EE AF GUP GATENE pe -CERI न्‌ | 
+q a kugama naaa अुत्ख।दैनू:। येलु।न/ वत्से)यव॑सस्‍्य। | 
+daha ER Aga A TARA gapi A unma ६९ 
+
+
+; 
+$ 
+
+## Page 313
+
+$] 
+¢ $ i Å å भा Ar da n ह हि - 2 - . -c 
+| KG Å SE | | Å i 
+i mr eS JA d ye ९ ( å w., भने media. i å 
+| ATP å Si Ta] « ef x >. | ¢ T $ Q g å Li A z] | g ti at ke CA pr > dl ap å < 
+५ य्यक agor 
+
+
+
+
+
+१४१ व'अस्से। न ये अंगिरस्व याय 
+
+| Davee Lauqksgandé सो स्यटू हिता fanaa हक» 
+mindama akmdsmafdrant गय z KRANA 
+
+शीर्ष णि। चो।म हिना प्र तअ घम्अरृणोःप्रथमवी NOMEN 
+
+ख्णाथर्षएिरयः।रथेःस्छे रै अश्वेन।विः al रय: सिस्वते! स i 
+
+daraga sat 0000) नःरूदरप्रःबया।अभि/अवड त।आद 
+
+TIES anaana eg nr ee | 
+
+जर shee å aigamarina | 
+
+` शश्चेवीविखः वायस अरत्नादःमायर्याभ्या्यवः खसः। ९९ a RAT 
+
+
+
+
+
+
+
+
+
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Ten EE 
+
+
+qohet ge Ram ad masm at Ra Momeni 
+
+
+KN 
+
+
+
+## Page 314
+
+
+
+
+| gd सानवेन मोडू 
+
+
+sm यो रार EEEIEE E BIE Aa TE RIA REE TEELE A | 
+
+
+ert 
+
+
+tr tort Vag B } 
+A ३१३१५ तौ Å | 
+
+
+
+
+
+
+
+
+asmzdungnea 45 स्व नि wama पित्रो। सी सु ती। समा नाव! आ। 
+ahama आई पके Ge YF brå rom vi mas: गिनी) 44 gn 
+heia EINE ALTA åa Raaaugdl 
+Eg: वस्यसः नः।०॥२० una re spe s 
+ER EUR दममाददः अरित । मनुय स्वः सा सर टिः मि भृति शरद 
+keL URIE: E RTA: तीय मर्व सः हेर NY: 
+सः ns तेजे न्यः दाहे 
+'ला।अन्र। बह IRI 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 315
+
+
+
+
+
+
+
+
+
+
+
+Ss IZA! UH 
+kranai mara u | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+av DE y 
+
+PD ag E । ’ 
+
+(ल (न 
+
+a GN T ®} 
+भ 
+
+
+
+
+
+
+
+
+
+IGG Ganga ESB रितिक vsmfinemfine याहि 
+
+
+## Page 316
+
+
+LIST Vg z 
+
+
+हरिभिः 
+इडया 
+
+
+दशभिः) ina 
+HF om वलारिदवीह Angani nag: 
+
+månen ag nemes mA 
+0 råd anm शिसेः/ म दो य॥ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| zu ge gås Gea ga 
+Fame नन RAT ga NS UTNE, | 
+| $ ai ENN ०४२२ NA वषि! शस्य! अ धसः। yi | 
+k Rio garasjen add ggam saag 
+GR DE TÅ TAT RE Gr | 
+
+
+
+
+
+_ CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 317
+
+amt ya > 
+
+
+व क्या 3२४८४ ere EN GERE : त ७ पताका 
+f * त 
+® 
+3 4 wm > 
+| å 
+å 
+| 
+j 
+% 
+
+
+AQ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+| चर द्र & | 
+
+
+på 
+
+ER A 
+f > å 
+
+å 
+
+
+
+
+
+
+
+
+
+
+
+## Page 318
+
+
+ngina quad Ha daa dr KK GEER 
+
+TARRA वड नयता बिदतेएभाः agaang 
+
+| gaian ok INT) 
+
+| am १भद/परट पानेग्य॑सर्येस्य। सानो ।स सी TERES, a । 
+। 
+
+FORS TR ह्यो! बं MERE 
+
+
+aiiaj ईरः [विवरस्य उच an सा 
+ek NER] va स्य।यीयोः॥ 
+
+
+
+
+
+
+pa NARPEQA:N angst Fu sgi > AURATA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+snarahaa4a ॥अश्य मे AE 
+
+
+
+
+
+
+
+
+| à $ å बलि | Pi nar Pl fy > जॉ 
+| | Fader  शिक्षस्ती ठृभ्मे 
+
+## Page 319
+
+
+
+pa 
+
+
+vaner near aguggrid Rat 
+
+
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ARTNR 
+E E E E EDE E E KAE CRUE R am 
+
+
+
+
+
+पक्ष॑तिखागसःनःयु वा ई! नोहः सरवी।शिव/ A पाता । यः शसं ते य 
+gma Arqdd I न AU 7६६६६५६६७८ gång 
+Ante ha /ब्रृत्यण्यृतेः। dawn 
+
+
+
+
+
+
+
+
+
+
+run: wga ul 
+Sr ma spe spas 
+
+
+
+## Page 320
+
+
+
+
+
+
+
+= क्य का तिस FELE 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+GA ७२४ । वयते ' व्यड ३।१.९ सुवः व्रः राय हे'वावःयु। = 
+an ee ae YRA A abat- lls | 
+
+
+ESA MAE काकी a 
+pakaa त्यस AGM 
+NnaR uH ।हश्चुव डमा li 
+
+
+hE 
+
+
+Gasa TG sr EEUE EOE Ca | 
+
+
+gr 
+EN 
+DE 
+Å å 
+` 
+
+
+å 
+
+
+
+
+
+
+
+
+शां'अपश्य/।स बरा।शे सी यतंमा नस्व। दूतो a तब 
+
+
+adagia aaria aaan I 
+
+
+N 
+
+## Page 321
+
+E ETNE EINEN T EE RUTENE I RET ØY पर र EKRENE EP TREDELER ARAO GT rian 
+५७.७ DE PEI 4 
+
+
+
+
+
+र्ब 
+
+
+
+
+
+Jagaan ah ग्रसनस्य सद्व! D सुव 
+IRIZAR: MATL र 
+taz: gi? 
+
+धणी साती॥प्र/ति'य RARA थुभहूती द्स्यून पुर! i ।नि।वारी 
+nowa nagana AR A ask zA iy राःजिते॥ शय नि l 
+गअ पतिते att यु zira a smaa 
+अधी ल Furl से? नर्मय 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+४सेहःनःभक्षम्अनंःसहः AJA य धामअनुजीष।उश्षित/॥ डव? वययस 
+तना । re deus egnede 
+
+
+t 
+
+
+
+
+
+
+
+
+re 
+
+## Page 322
+
+EG 
+
+
+PIRIL MANT वो दश्षथन/ वी कि वे एथु å [सुभ येस एक्स स्व लप Ag 
+ad mdanat RAA हिन्वाना dj days Nede ER 
+Amaai i Raaz maama era a mig 
+
+
+reg त/सीमं।अपि 
+हारम एनं'सश्चव 
+साक विगयृथा'अभवतेः 
+
+
+naal ॥ २७ um कैडुकै पृ मैप / य व आशिरं तुवि 
+दि oe daua मेल MURARIA PA 
+Fi III E SMA 
+का å hieman pua fi INRA ITAA ji FN GY | | 
+त! साक मातः करतँना।साकं,औओमंसावृवक्षिथ्‌ A GE ERR: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+| | Å | | Hs: ' 
+
+
+Fe ९०६ Aruaia कय onada | FE | 
+| || ना Jorg iv | 
+
+| ES शतर्कत विरात्‌. बं॥ ae ngon थम हा 
+deig er pea gr peta he |. °° 
+Pte ra Bad PG VI FIRIR ATUANIN रः mene | * 
+पद द हरि KA ब/अनिता/ब्रद्नणां।शधि। AU यशश JE | 
+
+## Page 323
+
+| RÅR ahaa ARN TINE å 
+शोचा शि oy नीतिः HE FAY ad AUGE 
+saag दिवःतरषनयमन्यःमी van स्प hå i R म | 
+grad IN NACINA EEA EE 
+
+
+Å] 
+| 
+j 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+बाओअंसा।विदावए 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 324
+
+
+
+
+
+
+
+
+Aari agamane em å १वुशःतः्रतायस्‌ 
+AGNET AG såre ga 
+मर्ययोबअर्नागंसधअराक्ितवामते।सा मूक a IRRIA af UINA 
+aRar धिका साद वकः | 
+an हेयामाइःए्वःउदःतेर सुम उदःनवाच।लयाबयसुऽरवाबर्मण'पतेःस्पाहाच' 
+| RANE PR UA ।याशअरातयःअभिःसंतितेसयताnअच eh ; ह 
+EERLIK सतेन SÄRART 
+Fad मृतिऽभिशता रि बीस ह aagana anA 
+कतस agere aan de UG 
+GK LEE kadett Uke मन्‍्य॑मान/ततिघों स वि ९३स्पते। मा।प्रणकू तस्ये GE ५:। तिः 
+
+
+
+
+
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+5 प०हि०६ | सतः रव्यात gaama ia पृपस निता। धन धन ०९श्वीः इव्‌ 
+
+
+i BCT) 
+
+
+
+## Page 325
+
+
+
+
+È ण यति oi स 
+दण उदर अरू! य वअ शीर) 
+dl FUSA 
+
+
+गि ce 
+| 
+
+
+. | 
+LE 
+
+Å 
+
+! 
+
+
+HI 
+EI 
+क Ki A 99० 
+
+
+
+
+
+
+
+
+
+
+॥अभिः दिकः ATACE COIE E EUROK: तप IRA: At: kI ANS | å | 
+
+
+aaia सद दिः mdada ae adda 
+RA GTUTAUNTNGE SR na umaa QAU vand 
+'विर्णः।रिषवः।अं aN sj 2 Rh दति gaar 
+FNR SAN नेभ्य/वरिं/वशा। भर्जनवा/सारीठसास्य कवि सः सण 
+र अतर a Er mf 
+
+
+| विदे Ra वये आविः ततररूखयद/असवते थम्छ Raa य 
+| 5 
+Í 
+
+
+
+
+
+## Page 326
+
+
+
+
+
+
+
+
+
+/वरिऽशवे। 
+NERA net ३०३३१७, 
+
+
+
+
+
+
+
+
+
+NHK 
+VERK: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | Rinu DRUIM भ्य्‌ः। सिषे MAX व 2 mu: 
+मीदानार्तबनि।स सतत स्ये å Q: å rd Va ` नेमी 
+सा.उत! अरैः भन्यु नायो बेरा।णि॥4॥प्र। AAAA जता E e ukir EN TEEL 
+द!वसुःमेते वि'पर्वनंगतत! je ee EKOE UGE KUETE TE ng 
+ammarati aaa R AR a 
+meaig ah पारं।अभि।ये। RNAAR Rila o 
+seal इड राशि ॥सना।ता।का। चित/भु SUK थिः। | 
+
+## Page 327
+
+
+शरदः br 
+पवि ९ n अभिःनश्षते ear dn go नो। पर से eh Gå 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Yoko | 
+
+
+A 
+
+
+adug Ames तपाति!तव्यहुः द 
+
+
+og तिः चश्य।अरूता पुनं। ये ३ minaaa]: पकन qe 
+aYdusmadusnassnet पाना mårra 
+ean aug duaar vant चानवि त्व 40 अभो 
+JANARIA qanana 7 igi योनयः॥सः। EN! | 
+यसः दिः भृयः।वृ रः; ETNA gaa Raan ॥चाध्म/यल(वा मेभ | 
+dir: भु 7१ स!प्रथमं/मेह॒नाप्वत: बुर सततें। 
+
+
+न RAAR S an 
+JTA TARRA 
+NANREN ७९ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 328
+
+
+
+
+
+
+
+
+
+
+
+Å णि।राध्यो॥ 
+। यः अवरे। ड 
+lynet 
+
+
+amman स्या 
+Ar Us छः मे हो ऊति रष्वः 
+FAI यून श्र 
+
+
+
+
+
+
+
+
+
+
+
+
+amhgar ति। बते। वो ॥अछ (३ दाग विधाता अन्ये egge å 
+(त आशा pA SE Mø ar nadis | 
+3 शामः åsrygger | 
+
+
+er महि।क dakqanqumugas 5 vere E 
+| MAR ug fee | 
+q soner alaanga i २. a 
+दु TIETAN तःहव्यमरवे/नातिने।मा ते।अति। से ग्र। | 
+
+gig qaa å (य nuaa hugg | 
+4 वावी ध॑ति।क l iqa ruade De tett en शि SAU शध Å 
+
+
+
+
+
+
+
+
+
+## Page 329
+
+
+
+
+
+
+
+
+| 
+| 
+| 
+| 
+
+
+
+
+
+¢ < \ re PT På in भो 
+F RAA: | ५ 
+
+
+t 
+vai At चष्ट vest 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+| i ११७ ° 
+
+
+
+
+
+| १०९५७ IRRITU een ओजेसा।अनिः इवऽ Gama 'र्त वे। 5४ त रैम 
+
+pe Q दया z तैस! यसः विधप्र थ भ saa MEN kår | 
+F ^ कला ajaga anaana] सथि।देरानांसुम्तःसुःभर्ग RIR 
+| Gron ४ गसजुभइव/व सं ne GARLI ना रव! अटेवभ्यंते/अभि/ असत. 
+. सूप्रःअवीःअूवःवनवत! पवर LER EA SL भजाति/मेर्ज ug 
+वीरात्रविहिभेनायत R म नऊ थ्य धुः NN BTG N | 
+हण य manga स amaaan anA 
+Tårnes igen VA (आवि सले ita RA बा।जक्षण:।प ks | 
+
+## Page 330
+
+T Å 
+
+
+
+
+
+_ भस्मे हओःुतवदेः maaaninag A रू 
+
+
+| | 
+H NOEN 
+| ~ 
+
+
+| ik (अदी! Rae AL I = tau mii ME pr भा 
+| rene ENE Ren 3 RATIA S a GRAF st | 
+KAN ET EG मा(वरईलिधसुवत (आढिया agg: SG 
+IIAN Si था बरहा तदली थासः qi 
+अक्षा॥अंवरिनि।पश्य॑ति।र जिचा arya nagu वि 
+kk असम Øre वाः क्श्विस्य'शुवनस्य। andres धियः स 
+-iaaa nat uren लाअ ।भस्यायत(अयेम' 
+MRAR Y वरुणाप्रःनीली/ यरे क Fe 
+Gras पथाः TSR कण साथ अर्त RET 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 331
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Å ned kuene TAMAR BUTEA: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ETS gy pungen, agan आना el m 
+. 5३. ganga ene श्वासय; rer ge ar 
+| ryadagd पनः de RIRA! 
+
+
+तथन GE R E r ER S विया पका EN 
+RERA ATIAN, उग म 0 ti gl | 
+अधिराजायि/वदिवा/असूर/ये।चा मर ता॥आहात। न राख ार (वि: च her आ 
+उतापश्या॥याव्या/९ dene NR | 
+parrer rasene ge ७३ | 
+
+
+सुदाय ye page gs rd NN gegar: gaa 
+पितता रवानि वेमि वरेणः 
+
+
+ARSGRE IN चकमक AGA NIERU AA AmA ` 
+
+
+| दीघीःअ्चभिःनरानरत भिंख्राः१उ मेङ्‌ तिं भेस re ne ERHI 
+
+
+शरसुर भरगधनामदुर्ष्यन्‌।उ भा। क्षयों। भारजय॑ (या हि एवः सुड ARa वर | 
+| magen TRETE CR e Bau Rahs 
+
+## Page 332
+
+anadan: ec दसामा सर स्या 
+Jag यर! aR sagn Eg SG UNG YME 
+वस्छो॥०॥८॥३द्‌।क arkene ev reg | 
+
+
+dk. DT oati | ER f 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+2222: SME, EEA es i GEA SSG Eee ec DT et gt å मनन Ts teen rå po 
+स S varer 26202: === ss å ७५७०७२७६७८ ha “>: persere 
+० ५५५५७ ki ७७५ gi) PR g à er ag NEE EE å PEER aS n 
+: å EE 
+
+
+
+
+
+
+
+
+
+| FeR 3 दिभ्य मुंडूगयूमथायादेवः सु! pe Feuendinaddd goe | 
+७५१ | e 
+ANRIA INN RAIRA Aia 
+
+
+।आगःशुध्या्म NIERA NÄ I sA pt 5 
+mu २॥अणेराता सु nt RRRA सतव अनया, 
+FAUN राव AIR | 
+(सय वरन ab असर भी की made kE a | | 
+| | 
+| 
+
+
+
+
+
+
+
+
+> 
+
+$ आ A C 3 S ne gi 
+
+pek p em ppe m tA ३४ pe pe pt के så Por ATA dl 
+
+on १ i si èj Ao ps | है Å ar 2 pee ® gi है | | 
+
+## Page 333
+
+Ši I é | 
+
+
+Ve erd 
+så HA GT & i 
+
+
+
+
+
+
+PIP 
+
+
+| ति «Fen र बी/अध/मतः रतानि a 
+राजन भन्याःईतेन भोज अविःउश्टा/ इव चु/ भूय॑सी।उ १ ती भर qm 
+ko E ELCECAN WIR min aiaa minaaa सैति। न 
+र $a irha वरुण पा हि emana KO nydsgatsnen uz NM मवे! 
+कवेरहसूऽरेव क्तः शमि रसि अवसे (वेः दूयं 
+ज्याम T jA TE तिवत पनतः gA भिः TH ध्दं। भू 
+NKS य॑त।अपरं।च/कें।उ२/तै।चु (4४ कण वा म।अपरे ण। कि। स ने न। व स ₹। आ थेन 
+TR TET RE EET ERR LÅ TIDA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 334
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+व सीति IANI MIRE ARARAU] 
+
+
+akarana niani umaa | 
+
+
+GY 
+
+
+
+
+
+Page MAA GTA aut andha 
+
+
+
+
+
+
+
+
+reer काक gai 4068 & Er, I 
+på gd å 2 5. मुक त T i र 
+१ ९. 
+छः * på 
+
+
+ए५ट्टि ७ å is reg वाट सते. rage ARP 
+u rt god am 
+देवा mms: de aR ५ AJARANE MERR 
+= EE AES as ga NN gagn gaqnen ६६ Va 
+å कोम शपि अहेः do | 
+amagama taina ES dadaanin aA 
+A ud RÅ 
+
+
+aR IRIAN 
+Ren gd EST A RIF aralt 
+qaragani iina na nN a ANGT ७९ 
+
+
+
+
+
+f 
+
+
+
+## Page 335
+
+a हि Soone ध्या = o PIT NPS 
+CR RS 
+å == a उ å 
+द ESAS 
+å 
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+| | aalarm प्‌ रा। चिता! LAm anhaa उ जा RA 
+| Jima TELNE ARTA र सम्रानरथहे'ऊथदा(ट'गोचॉ१ 
+BE ug ये।वनुथःरश्र लक turen युवा 
+
+
+
+
+
+RAAE RIEA ई इतिं। ळाकं॥नासातमद!नाश्वमद(न उत A | 
+| a AMARÉ RT as DARA tier a | 
+| ao सवति।ल/अस्मान/अविटि।म रु लेती धपतीओे कियररजतत्ये।चिद। | - 
+ga ale eanet unga झल JUNAGA ne 
+Kte E AAEE EAE U E E ETUE EOCENE T 
+
+
+
+
+
+
+
+| 
+| 
+
+
+
+
+
+| 
+
+## Page 336
+
+f 
+i 
+
+
+सलीभिभधूर शरभ समर कहा ACE SEET RE 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+| | E 
+
+
+
+
+
+Velge MANTRE Auda ad med EJANI md mizat | 
+ER ६ aldam at dn ami. रमाया | 
+| | श Quad भिस चाः भु क asp ARE श्‌ त्र. 
+MÈRITS RENAN ATRAINDO] देवास: Gaga 
+gamak g कामीति टेट) 
+
+| EEEE TEE र्द नगम तेन।सुः gardiga ao * za : tey 
+
+| ललात aean aena sager 
+र्य ng यः डुहुवः द्वइ शतरि i | 
+Keeping lg lagrede talerett ५, 
+
+
+
+
+
+
+
+
+
+
+
+
+i 
+
+## Page 337
+
+
+
+
+
+
+
+
+
+
+RR Å uk å i à t ` Å 
+RSS i — EE EE di MEE SSSI FS ERMINE कक 
+
+
+द सया AE 
+
+
+
+
+
+| | 
+| वितमसि शपत रतप अ 
+h EE EN EEE CAE E GLA nakay B R Ad FSP 
+
+em viag manager यता? यम Ad GRMA I:A पी वृस्यवेभवाली चू 
+काग स ATAARE ARTN ९४ GE f । शनुकः 
+| स himga geat ge 
+uge Guan: NTE रभच!मा। न: भा RE: F (छत 2 | 
+REN å areas रमला वेवर RENTE APT 
+'खुशिआवहाउुहानं/धेदृं/पिषवी असक आधि यातन साय वो लिन LE 
+PENCERE EE gg dg rm ran EU E मना 
+
+
+pi 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+## Page 338
+
+
+
+
+
+
+
+
+
+कलल | ~ ररर 2 लालाला RR र ¬ 
+
+
+सीय॑द'अपः।सू्यातअ छिद्चमानया।रदातुःवीरंग्ातः सयं उ स्थ्य॥या i gaar 
+शस नाल ay IR Ga q ह BEAR सहस: AHY: भे 
+रशैंणा+सिनीवालि/ए धर के Mena MS ब्म दे हि | 
+EAR BIR ARIPA EESAN ERRANA og v 
+
+dann adadan Ri ho rom Å) 
+
+aA ३५ nm ga pene MERIANA 
+aagana दः nende uggs er nd हि मा: भरी 
+
+43 अ विशवरं/विअंर/विशअर्मीग/ चात यर निचा | 
+ला sAn TRUE ERING nueh gn अंहसः | ga 
+
+
+, Folda ७ 
+| ७७ 
+
+
+बा = 
+
+
+स्ति दिशोः अभिःईती nda GAY ET पाम/नम 
+må AGRA Sy pre Kle SIN fan 
+å gg refuge å UEC UA U E ADERE gs 
+अ।रीरवत! मनायें sara मम मट। टृ षभः सरे खो न GENE TRAN 
+Ørnen dam Raae gs AST रया; 
+हसेम्यः अस्ति वनः।नलाष^वःथता।र वसः देर्वाअधिः तेसा शेषश) च क्षमीथाः। 
+| FILEN a /मेहः। ठी FET UTRENG G fir taas 
+RAEN रुयउ रुः केभिः। विषे 
+
+nanard परि षतत nere ar 
+
+
+| i i 
+å 
+s x pi 
+3 १७३2. RS 3222 MRNAS R.A, nå å ER a 
+टू क d 
+
+
+## Page 339
+
+
+CC-0. In Public Dömain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+क यामा 
+fi PE ड r 2 
+
+
+
+
+
+
+
+|i 
+
+
+amadain agamer दयसे a a A 
+शत ल शीन RIAA IURGI ANEVAR 
+PIAGA pk ipag a RaRa mihana 
+FREN ता हर GE iningatan Azama | 
+= सह ae ९९०४ A Noni लक På 
+| वाचया” चरड्रस्य। वश्मि प रि नः। हेति क ३ 3 NE av. (इः तिही! | 
+वशअर्वस्छिर छयदंदा niaga i तनयाय ETS | नम 
+aa genene सि IPYNIENT /बी9/०॥ ९८ Ne | 
+| AE degenerert भीमाः तविषी sl aus ** 
+
+
+® 
+SN a ळे qa 
+ErP A 
+
+é å | , oi å 
+
+
+GE 
+SE Å 
+SEN 
+
+
+Se का à f " 
+
+
+
+
+
+
+| सनीषियः। rende nirman नरः भि। Ra सादिन 
+fun AFUETJUET य रवः मरु तः। FS कै TINA AT श्यः 
+j धनि hd i की gamaja agina: Ginger व्य 
+प्राः सरुतःदविप्यक्ष। annA भिः सः सन्‍्यवृ:॥ ए से। त। विश सुर्वना व व 
+
+## Page 340
+
+धिरे!मित्राय।वा/स दीआ।जीर! निव एुष॑वऽ अश्वास अनव्‌ लः रा धसस तिष्याहै।. 
+
+| en वयुन बृ FE ed aE S SEG TAAR: Arq भिः pi | 
+सह सश्य॥ओहंसास॑।नाखवर्सराणि/गंतन भ थो दाय) मरुतः. aa: Gen 
+SEM मः।ब्रलीणि।मरृतः। सः मन्य चरा नां सस वैनानि। ग॑ त न। GSE पष्य 
+
+
+å 
+
+Å 
+
+£ 
+
+å । 
+
+| i 
+
+s 3 
+
+F ; 
+
+fi j 
+å 
+i 
+Å 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+Fina dad तं।नः दात्‌ सरु तः। वा लनर såg) 
+| g $ ४! dreper BAA ERRAR AUE mene | 
+— Mrasdusansdern K ब।भगग।आ।सु: दानव) gn R REN । कि. 
+FA ver RURINTA ZAIR AURINIA 
+p ng RNANA NE डाः हतन 'वध रिति र 
+PIREN मा mads AKARE NY hr भाने 
+BRUNIA रदाभ्या ie ह प्र ean 
+OTR NINE IARR gnage IA vid deg 
+ईमहे तमद दागवाग्रथसामयसं R RA aag Rgn ७ प. 
+
+
+
+## Page 341
+
+
+
+
+
+
+न 
+
+
+AÀ (भर o) agama: wp hs Akanni 
+EEA य निःमेघभाना।अलेन।पार्म सा सुः iig: 
+
+
+
+
+
+
+वोनहुयान/महि।वरूंथ SANS प घत! टना! नरससा। णीम्‌ /सि। नि त/न। यान य॑ होर 
+न7थिइयिओववर्तव(अ वरान व EE EEKE E IEICE थ। अति अं€ै४ य INET 
+EE RREN GM 
+गाहु। २६ gn ar थीत! नायर “मेश क्षर्षा' ke 
+
+Sn RR: कू GARIA! कक आसवं! 
+[oss to al 2405 Ss 
+ARMEANA तिंउ पी ये meet: समान 'नरयमवूणति।तंय शतृ | 
+
+
+øse ga ND 
+
+ji 
+per 
+G i 
+री 
+å + KASN 
+i GER 
+| J 2 
+AN 
+
+PM SRE, E 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+EN 
+
+
+RR 
+
+## Page 342
+
+
+
+| Riain अनिष्य/घूतरनिर्नि क। 
+| °°  अपूसु/अरतिस्र/भयध्याय/नारीयरे वाय।देवी। हि AAN dram 
+Ek dk i ner ।अ्वस्यः अःमे विस्‌ 
+AR RRAIN gitter Ji 
+राव न।अनतानि।सि।आ। दम सु उ पा।यरव पे que AVGI ET Qu 
+` |स/क्षपां)न न/अपलु/अतः। PAJUN ANIRAA | 
+शुना देना सतः MAAT mA nganana mgin a ` ` 
+jada diamakan दएआहि'अस्छात/उपरर्सं।निसा्ना उच्य) ८१ 
+
+
+ofge $ l vi आपैः t Ñ र्यः à मा t 
+Pro Hråreddsmandret t o AN ar gadgeten 
+
+
+LUT øl 
+
+
+किययतोौयर्सानः॥ तस्थि्े। महिमानं) quah Qag faggi 
+d AJN tt ~ queen aina fr ४१५ 
+w MS अन अ ग TNT FANEN अपी च्य बड ते) 
+| गवते यूत राजनि 
+Ruge ae en engen EG ke my Ar EA 
+| EA fe å gh gå på HA leuei Gb tte ॥अर्नमिस्छा 
+
+
+का run ESS seen = 27 
+
+
+
+
+
+FRYSE! eg: ध्ये समः भि 
+maatau aa QLN HE el apan 
+UYATNI wi i ०७०२४ ng हिन्वा न। 
+
+भन्तः दबा बह ४८ फ्र 
+
+
+
+
+
+>. 
+
+क, 
+
+SA 
+
+hg 
+
+## Page 343
+
+
+i å 
+| ऱ्य 
+; ES 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+MAN. न्‌! sf RER नर ।पिबेएंइ/साह पड ते! ष; 
+
+हिला वेयुः redd विस Poser 
+प्रियाःडतआःसद्यावटि/ भरतः हमः आन तिः aN 
+mfa ।सुऽहबाओ। दि'गतेन।निःय RETT. NANA 
+RTRA: um orb 
+£ निस दयो निषु बिः qr तं'सोन्यसधविर्यशआर्वीभ्रादरवरे्‌ 
+GR Juda: सहः Få व्यास 
+
+रश FYR gAÅM Ha Aai or KURA 
+N he, ENG seng makrama amaa सेम्याम २ ke 
+
+
+| {| 
+fA H 
+
+| Nd 
+
+å KER å १ 
+if å å | 
+
+
+
+
+
+E 
+
+
+
+
+
+pe 
+ng 
+TG x 
+
+
+Reign ॥ मंदखाहातराव/भरीजोषे।अंध॑स/अध्व य सः पूर्णा किः | 
+
+## Page 344
+
+heinamaana mizania भिय ऊं इति 
+पूवीअडडुबे। तह! डुवे।स:।इ ता ३. k अंधददिशय/नाम।पर्थते॥अ as a 
+तेगसोभ्यं'स ५।पो बात! eu kj वय Tartus अरिपण्यनेरवीळ यरावनस्य 
+तेशभाःयूय।एष्णारविं।अभिः रद ने धरा है! ५१ अपीते! AAI पे बात! AUNG 
+उतानेश्द/अजुबत/9य। भ वअ KAKI IEN KERLE E Ce C | 
+EREE OE s riana amiin f 
+बन ब INA! Eg a वातिनीश्वे R! 
+KEE इथं जोविआ'इति नषि E Ea तिं॥विशेभिःवि 
+
+
+
+
+
+$ 
+| 
+
+
+PA 
+f 5 
+X, AN i 9 på x 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| पन ब ZARR RIRN RINENN विः vugge å 
+| दश क'सविता'सवायराशववःवेसीतद$ sønnene kan | 
+
+
+a 
+i 3 
+हि 
+
+
+GU 
+i 
+R 
+
+
+o Bam ng mr banaan aia ià m i 
+? 
+
+
+
+
+
+TERAMAN AR RNR geat | 
+
+
+| ren 
+
+## Page 345
+
+-MENANG angea र्म å ता।देव/आ। भ्रगात॥ ना नो भाद ड्य 
+क्क आमका 
+
+
+
+
+
+dt sure ANRA GIA å dg fuss ae gå qi 
+sten FM eg MG SN I T नि।विः 
+
+
+A तिव miali: स्छिंतभतिगीयु-॥विश्वेषांमकार्मः! 
+| sper जे, Ad वरय तिष्य | 
+
+
+
+
+
+
+
+
+| sl ad rasfare) राणः विश्वः सावीडः JARN वृ! गादः सछा मः 
+
+
+RENTIA dig ER am नमः: A व्यं IAT h 
+| रा sete at याव | 
+सक्तुः TR Aa GN One 
+
+
+| { 
+|} 
+
+
+ó NA, 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+KAR pre Rå Fuynqnfaasren JUMA GNATT å 
+
+
+ear 
+
+
+gi 
+4 
+
+
+å | 
+
+## Page 346
+
+vise MAIDAN Fe यःये मवौति' इर्‌ः दासाय e gang ३ यावाणाऽ 
+' ०३ VARIRA mas इवे। ३ क्षे।निधिः में ता 
+IEA å FANGET mannm इव्‌) ANG 2 4। यु भा। वे 
+आथ AR aA krna भ॑मागेर तिद वतीने िरे पती ३ दुः 
+बिदाः PAAA i pi वाजर्स शणाःवरः Anak 
+कारव प्रतिवस ए स्रा सा नावाम्‌ 
+> miqa zana q paiz yiana å Fil | 
+ARTMASINI an IIRA aT 0८१8६ अ | 
+इवरीतिः।भक्षीरेयक्षीः EMNERNE gaddien ८ | 
+
+
+
+
+
+| पादौज वनः TØR Agde GM ant | 
+iddn aa aNg Msg is | 
+हलाभइवारा gd सद्दी: क्षामः ते R 
+` | माधारैरअखिना।युषाः maosang विति! तर्त १वर्दना नि। pi 
+| व्रत्मोस्तोमं'रुत्सः दासं कक पते nag gaion vår i स 
+gnamen दिवअन ना। एथ्िया:॥ जातो विश्‍वेस्या भवन | 
+ene: + LATINAN AUZUAN angia 
+g ॥आभ्यौ ६0७३५ । BE 
+नव उस्रियीसु।सामाइूवणा।रजसः। विशमानं स कर sf 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Sal शः EEE 
+[4 
+
+
+. पनः 
+et 
+
+
+
+
+
+qagan nw ॥वायोड! 
+
+
+-Kadhaa maa magai: 
+
+
+
+
+
+## Page 347
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+वियु३< तरस न॑सा। vel 
+अन्येमअर्थि Es vi YEE aid Ferd: +) 
+विश जक म्ह NA Ras ST aT AN i rs 
+
+
+wya ganer ल få 2 kaq 
+वि/सद्‌खिणं।रथासशनिर्नि।आ/गहि। 
+Aad DNT sek KANIN NGT aiia Ruga | 
+pon अद्यः pride MYGA NN GATE 
+arrange gåen ee n 
+
+
+
+
+
+
+
+
+
+
+
+
+a स्ठृणाआसातेशति॥७ क) (अनवर हूरंधगोज्य व इति सु नासत्या 
+
+
+
+
+
+
+
+
+
+
+
+
+samde गाए arazni ऽथे ष वरः 
+vil T पैपुभाता€च SE अरिवना!रयिपपरांगर संदे 
+
+## Page 348
+
+aa 
+
+
+
+
+
+ELAME ANGARTI IRR UT FÅ 8 पं 
+MONTAREA IRRITER UENRA > 
+हरे॥आ दव a 
+på undre EAT हो पे यु म २॥एवं।पिवत।काम्य॥ १॥ RN, aqa 
+
+
+
+
+
+
+
+
+
+R nr 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ayomi RA EE व्या) . 
+
+
+
+
+
+A 
+
+
+
+
+
+ARR त pages ES विश स Å 
+Sk ett VEN RATI 
+स्व | त mia वि।मरदतांग्यततरयाशं!भुक!..] 
+le TE SÅR Å « Qt P i | त p 
+
+
+
+
+
+
+
+## Page 349
+
+
+
+E A हव्युःवाहन द्यावा) ए थिवीइ EREE ONARE EUI 
+| Ae RaM ek ॥ ९०। 
+
+
+| mim QAAR MAAZA MU RTR IARNA T Ta t 
+:मानरुदीरः/अस्त। पित्या अरुः दिशो Aa सुर संग ल। मदर naa 
+Keeva गुहाणोसुःयंगलःभड्‌ः वादीनां ते॥भा।नः।रतेनः ag 
+nen! वाता ad rare ae den 
+
+
+
+
+
+Ja qadaq शास Rakaan धअपिःर्ये।सर्वेत!/ ने: शक 9 
+
+
+द 
+
+
+! ER | 
+
+E 
+
+| j 
+i 
+y, 
+
+
+३द्‌'शिशवतंः। नः शा कु ने पुण्य Fm ns a i 
+
+
+RARAJ Na Rag २२०१ शलिहतीयमेंड के n ५ 
+eda REESEN DEC REL 
+Hua मो मा ua aat PERR 
+Eng: वीनो+्रत्साय॥विदव्‌ omga क्षः 
+
+
+
+
+
+
+
+
+कनिकदव(स नुषवशबुराणः यतित भरिताऽ ee १ च्‌।र्‌र्कृने'भवासिः्सा। 
+
+
+Å 
+
+
+## Page 350
+
+
+
+
+
+
+
+Eae angret अनु रामति॥उद्वाता S धाकुने!सामगायसि/ å Ga 
+| a 
+
+
+FUG: east TARGA A: S 7! Tag Å 
+an vg 3 स ही pos PA SNE MG 
+आह ape: वासः।अगिनिग्म य NINGER | 
+hakka ak RENE S ECE ॥शोविः। नप ल यंधमिमीने/र तीः नोः 
+| || 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ex 
+
+
+å 
+pp 
+र 
+
+
+ae सीत ao तयस्यौनीए 
+3 Re e så Frem ।संःह तै विश्वः MGE agran - í | 
+स्ट् pe IT 
+
+
+| क्क a dd या नोह 
+
+
+pg 
+Ad 
+
+
+agahan haag å AA स तिसः हिवस 
+Kerk ९४ मावः NTK अग्नि यर ण | 
+स्वायोबों।अरायतादसूनाः समीचो aan vg Asr 
+
+
+ANNAR a व op तुम ह 
+4 
+
+
+| 'पेनव।पिन्च॑माना:/सही 
+
+## Page 351
+
+| हस वदो ri PIERE gre TEE 
+aa कान “नि पी।अलुवो। OG AA यही 
+
+
+a R: 
+
+
+| | 
+नॉफरि क्षेय//स नवेग्भा: सजी २५७ बि ही ३३ नैषा ःव॑सःय्‌द। ओ 
+च SG al १७) ak 
+mer जाते तय ठ वर्य? हहत दत भाच भार सजी का निग तः विषय ते न। cij 
+कोः गृहर्‌व।डु्‌ a सि।खिअत/अपारे'ऊर्वे।अग्ट ते हौ नाः ।स।ताध्यमेमानःहेकिः 
+Aikaa Mr EN ar f 
+के ay UIB: ARIB: नि/अग्वे!विश्वानि।धनन्‍्यी। गार SA सा जै 
+
+tR 
+
+
+
+
+
+agunia! र्भूनाशअ ।देवाने(रथिरः यासि। 
+taiaha tanaga AAR RT 
+
+
+å 
+| 
+å 
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+es NES usunn भः वगापितुभचगार å kar | | | | 
+| पर AASE AGE | 
+
+
+
+
+
+
+RAAR | 
+
+
+EN OE P EER 
+
+
+(9 के. ar > wa श्छ * 
+Te rT पक å हि > १ pa ei T > pe» ov 0 
+ev I ¢ 
+
+## Page 352
+
+
+
+z विदा नशआ।नः/गहिसरंयमि। AN anar Graaff सरण्यन्‌ | 
+id क per SS अतन 
+amg aana चमरो ति र agn e ताइ मान्म; AANA 
+भावः वेदाः | ० विश्वाभि त्रेभि FAT na ta सु? मृतो IG ena e 
+| Jed हनन HITR: MRIYI सुर 
+yter यितः in Øen: ड an | 
+
+v Fe शठ y ैक Fa y AMNA 
+
+IIRA: र विश्वानराय। INTUZAT दूत N 
+अग्नये ana uka EN ME ELD) ।धिया।रथं।न (कु VU es 
+
+
+
+
+
+
+VEN ST SPE ere nee SR 
+
+
+Hå 
+{5 
+i å 
+i 
+|i 
+
+
+Er EELNE GESE इ तिभ्सःसाबोश अभव å ह व्यःवाट।अग्नि॥ 
+अमर चन हितःदु ऽदः विज्ञो 'आविथियदिभाः ad i णि। 
+। देवास अननिभ्ञनयवचि mt रुचान भानृनी।उयो art भवनाचा ert H 
+ष्य FY Jaume /सनिथ्य stenose dåd शन्मियेरातिः | 
+salak daanan स नेशे शुमा र्गा ii 
+
+
+
+
+
+अवस रहा रले årer BATIRIR केक व्य।संढे/यती ja 
+BERA å गवे pe gater NE 
+ANTAM bs m र सः 
+
+
+vei NAT! GYNT STRUFEN 
+
+
+Å | åg era Maga विशअलथ।न। वा मा सा तेये। 
+
+
+
+## Page 353
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+| raden तन्त के (सत्य | 
+४अग्निश देवा तिय KCE ALEE | | 
+शिर्ञशअशेय बःयतास। एक yio NR क दरति | 
+व्य ।कुकि विश्यति Me Å p 
+RFJ बिव ।यातिविविषदरस TITAU कष भस 
+
+| Å FAG agnet सिंह ३ EEO पाजा। doed: 
+| rene aufnars ॥प्रत्न:थी। नो दरद्विः भ्यान NI Å 
+| Arna wf UHa ot ad ar वि T l 
+| id Risani पे । मा तरिश्वी।दिवि। erd विव योमं ' हेय KG e l 
+| j 
+| i 
+
+
+
+
+
+
+Sens LE कळे 
+
+
+तिअग्नि/सु वितायानर्युसि रा चिन।यानः्इषिरं। a IR T Eh 
+न en Hk A kake t ard) | 
+विने।द भू ने सं।३ hingian चित्र वपुथायादरशीत मनु: inden 
+ERR ९९ दशाना इ IRURE RU ak dd GA गवि हि देवा 
+वा अभर्तःइवस्य विं।अर्थ। नतत (तासी 
+होत निरस मनुषः वृर व TURIANI! Rv 3 i 
+
+धि शु jamiga वितरस्‌? Es rn 
+
+
+
+
+
+Qg सः३५३रि $ न्‌।सुभ्वानि।येमानः।शा। me å 
+सर व्य in Mk ed 
+
+
+
+## Page 354
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+å PÅ 
+er 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+सितं gaigei t 
+HEG 
+
+
+
+
+
+
+
+
+
+anama शिकू देवा के 
+2 
+agai FRA घेषविभाः वा देवा då भग्न 
+BG Fd pride विरथ a भयेमारमे/आ।सु रू कि। 
+| f&n 
+
+
+PERE NCES IK TEER ELETE EUNN ECERS E IESIREA Ss | 
+._देंगावाएकसुःअपस्ययोकदिछुभा/पितेरो। मह su game åg 4 | 
+सिरितसा4 २१ ngA रि 3 NG GMINA wood 
+आदिवादेवानश्यजर्थाय/वश्षिसरवा/स RGAN A A RNA 
+जआयमते । द्विः दि! वरुण AP YU gig मर्धः मेते Qanadsana 
+galea पिति।विखः बरि।तिश वि।हीवौरे रळ! मं यजध्येशअर्छ 
+
+## Page 355
+
+| तिरर वनःयक्षवःटूषितेःयर्ीयान्‌ ३ थे।। वो गाल Fed a 
+____ शोवीर्षिःश्डितारनाशि॥द्विःवा।ना erd) æra: agn 
+| miin zaraa a aR annA 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+å 
+
+å ; 
+f 
+| 
+
+
+| Se 
+
+mn å sin व २९ prs चि y Ariadna aza | 
+
+RARR l ETT AARE E O EAEEREN gauge | 
+
+| Angani namma a a aaia mgA 
+
+| बतं तः पा!दीध्यौनाआभारंवीगमारंतीथि सजोषाः इकः eu Aa 
+
+RTIA hard R GS JON el पे 
+
+| Aten खूगयत/वीरपकर्म gagann 
+
+pen स्थते)3 ene E MASTEN 
+
+| gamet: 4 IR NRAN X mo 
+RaRa 
+
+
+4 Ra e 
+° 
+
+
+Å 
+‘i 
+Å 
+
+FÅ 
+5 
+
+
+
+## Page 356
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Rade an 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| pi था) == FET! 
+| EE दुरि dm 
+
+
+] Å 
+A 
+
+
+
+
+
+f ‘5 nå 
+KREN j å Å sid 
+
+## Page 357
+
+र NSN i 
+मै 3 
+å 
+* i 
+í | 
+å 
+
+
+| k ३३ पप्र पलल किन नाशवुथुः्षाजीः देवयवः Bugs 
+| dene Ae a A AEE A AEG 
+aminer SS ri avataren 
+Aang gag गर्भ ag aandaa 
+वाअन्ददएङंइ तितर AP TANEET सभर मेन हा थ 
+_ जातवेदा ।मितधसध् कविर नाक्षत्रः ब maiaa a gr 
+ge aA स+ शीष 'सन्नि। वातिकानां पः 
+måtene २४ nerga aid यास विश तनति | 
+| | मीधुतगवत!पदेवेशतव!रव,स/म्नरक्षति/अमम्युछच/आ्योनि अग्नि घतते अहा 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+Te | न।दृथऽप्रंगानं उ रावे षृ शान ।दीद्यांनय थ रि? सच्च पावक/युनेधयुन यम तेरा नव्य | 
+कधी lade Ara 
+mA च्यत UJAR aki तःसंग््थांग्यहथद्ोतःव बरवः 
+अर्थिग्नाभोदुथिथा।ाभिय।अग्वि भे ञ्य^मात रिश्वा'आम्डूतः म | 
+उदाअस्तेमीतरसंडइघा।ना केश चःअग्नि er org ve nalinga 
+मावरिश्वा।युहो/संतोहव्यःवाह।सेरडरथे ॥ ० na na pair A नाः।रेवद्रीवी। 
+| नत UÅ * ९० emne am def धभरेती/अरन यो छुत। चीं॥ आरोः 
+शो RIIAI MIIIRN ANG ADAIN RRR 5 
+
+
+
+
+
+
+## Page 358
+
+
+
+
+2 RANN 
+
+
+| हिना। पृ थिव्या। व EAEE AT OE AE KIE TEKE Aa ९१ 
+
+
+fg de yy 
+E å [2 nl 
+pen ल ' 
+
+
+Riyman dd mr ard तिसः | 
+ अजरेरति।अभ्क्तेडति। रक्षकः एरुःगायस्यधे: नह वावि | 
+aafad td Agde adyneigansqane man RANER 
+| नो॥ २६ ॥ सतस्य।वा'के शिनो।योग्याभिः। q kg quart | 
+zaa Tainena guna: 772 यंतारोकाःउषः 
+
+
+तिर यावर वयतत कि बस 
+
+
+सडू व Au 
+
+
+| बिग्यावी/अनु।भासिपूक//अपनयद! 
+øv een ha 
+
+
+.उरेकायाअंतरिततेम ar (वायेरिचनेसंतिदेशः 
+
+
+। 
+
+
+| ओयेनिरे रथ्यः अग्ते'अश्वाः॥ oasen नानाःरथं व विः 
+
+
+å FIK है d ES 
+N j I 
+
+
+
+
+
+NNN ट्र i 
+TAY al i % 
+RR, AEE å à क 
+
+## Page 359
+
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+2 
+P 
+É 
+t 
+En 
+Ip 
+
+nf 
+
+i 
+
+
+ह 
+
+
+IRN 
+
+
+Fase  प्लीश्‍वतमायृवातवीयःवादेयाव!शततःर्रथं mar भादय॑र है मितेश | 
+ea तयि em या PATIRTI RA 
+| | | 
+
+
+gA dar partane aent | 
+परोध्यायःसमाघ्नः। श्रीकष्णापेणमरतु* ig ॥ ७ ॥ ७५ ७४. 
+| RNET NAIJIRIA तत्सवे्िम्य्ता देवअसीद बरसे शर ५ तेलाइक्षेनलाइक्े 
+दभेछितितरबंधवावःयूरवेहर्तेनदातव्येएववरेतिपुस्तके५ ® NTEN Ve AIN å | 
+तामसंककरेश्रावणभुकु नवस्या मंद्वासरेत हिनीपुस्तदंसमातंगसाथयरोपकारार्थच ५. 
+'क्रेसरश्लुपनामदरामचंदाममशिवरामेनाडिएितेंज बगमाननश्रसंनष ९७ n) 
+
+
+
+
+
+§ | 
+i 
+
+
+| 
+
+
+len २७ ॥ ॥ TARANAN | 
+
+
+4 
+
+## Page 360
+
+| 
+I 
+| 
+| 
+| 
+på 
+{| 
+0 | 
+på 
+åå 
+i å 
+Å 
+j 
+| 
+; f 
+
+
+en, å 
+Pe å * 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+९3. 
+
+
+
+
+
+ma 
+SN 
+
+
+ses 4९ 
+ETE 
+
+
+RT PCPS, 
+
+
+2280222 
+३2९१५६ MA EEE 7 
+
+
+9 KAF 
+
+## Page 361
+
+o i å 
+5 å 
+Å 
+
+
+Pu 
+
+
+È 
+
+
+8 y ) > द | त : £ 
+का क PG 
+' å GEN AR Å NN Å GK 5 ' Fe 
+
+
+FETE 
+~ 
+
+
+
+
+
+| CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection | OR Å 
+
+
+
+
+
+
+
+
+
+
+
+
+anus रिऽसिता।पितरासं+वरेवेरति।प्रiस तिप्दीर्घ'आर्युःत्रः थ N Sl 
+galiza देवीआ। तस्स ख आ PSB 
+परिएका।च रति।व ते निगो 0. टतश्सुग्यमां।भर्वत्ीधपर्विं।विक्रिवा वर थि। 
+गोता पाता Rey सिया Ct नर E 
+- हइमयंती।असर्यस्तंभुग्य ANA R qaray एका 
+A S ` jE के asigni TE सने ष 
+or stimare: ९ nyag Aas 
+बः विदा।आनु विष महा LE ALEGE GENUE U KALKI IN AKA EXE 
+
+
+श्रीगणेशायनमध हरि इहिओंभग भ्र Game कक a वरा! 
+
+
+
+
+## Page 362
+
+
+
+
+
+
+६; he 
+j 4 
+p. d EN 
+; GE] A 
+X å I å PE 
+| 3 > १ र क्ट H 
++ Fa 3 > 
+fr PG i$ 5 z रि k हु Å | 2५४] 
+DE Mo I A å शः AR X है : अ 
+HR 32. 20 på I २.) ý A å = Ai ` ¢ 4 å « g>: r $ ‘¢ 
+bi FARES NR ७4355 Ca Re sr Setså (ERS NIRS ५५5४४ ESS SN SE 92355. SEP i ७७0255... ग र pen ek ES 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+add "यण 
+
+
+ATT ते Aae नदति (कता STR TA ar Gode sat 
+
+
+
+
+
+
+
+
+agada थिः पूवर ae 7 वितरां श्च तेविः हतेः 
+g जु piir हि।ब्रता।य RAJ ॥०॥९ुयः ये 
+
+रश्मय॑धसुग्यासागदे ल BT GET सहः देवाच! शी 
+
+## Page 363
+
+sagene gå सुःकेत उषसंःरेवदर्ड पुः।इ तोड 
+ECRANE ETA De ua neser 
+bk :दू्विणा'इह! IARAINN 
+रखानब्रवृन्वानः अञ हर! ii 
+
+
+qan anag 
+q KETS ut: 
+| søken 
+| सी FG 
+RIAA नाया 
+देवः यवःवनस्यते'भर्घं ना। दे थेन 
+MARANAN EINA LET श्र 
+De ne डव! यखामहवासीर्मगावउदाखय खावन 
+Janana dg ds yet aa धो । यज्ञ: वहिसि। यु सुःवासाभप | 
+
+
+ad bd ३-८ ert å | Te un isla 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 364
+
+
+
+
+
+
+
+
+
+
+f 
+
+
+$ | 
+
+
+
+
+
+
+
+
+
+
+
+तमआशअगादरसमपे aag ति।जा य॑ माने AJN De उन तप आणा 
+ANMAN angi सः Fann: 
+
+erd kr hå क ॥३ गयावे।व/नरदिवशय तः Fag 
+ma वक्तेव सः।स्वरेवः त ्ठिः वां संधप्रजा वदः Adr 
+
+Hum IT. fars सः Ms qaa. IUEN WNA 
+ee ugay: 
+
+TESA सुं गुं सा 
+
+
+भसः NYT huker, | 
+
+a fanaat का på | 
+
+RILAT NIR नी FAT: N Riang 
+sånt fors वरवे? रिष्या संदू हमेभ्वार्लऽवे 
+
+
+
+
+
+
+
+
+
+## Page 365
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mia MZN 
+anatara 
+
+
+Å 
+| 
+Pi at å 
+| V 
+क N X på Å ¢ & 
+PR NE OR SER 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | । A T ngia ard fre up ge ar 
+| Å Fa व विन म पा ॥ ४ ist 
+^ azhag aaia, rdp herad varmt 
+
+
+## Page 366
+
+
+
+
+
+and ri nid i » ATA de 'यवहूरे।सच/हुर'अर्भ 
+
+
+वशाअधिहुशं/बव क्षिय/अर्थ। एव/सुः naken RATER 
+— vha sårt ed un 07 nd mnd at G 
+
+| asy gr GJESS ft :$ र 
+| - आ।एनोनयव! थराएवेत.'देवेन्यंधमथितं री ५ uden Ge 
+| टेवेग्यं/हव्यःवाहन afarer orata LENARTA 
+
+
+
+
+
+
+f 
+
+
+| 
+
+
+Å | 
+
+
+| 
+
+
+
+
+
+
+L ang TEE 
+Eo o o o शय H 
+
+
+| डॉ र TG FA Te SE í ` rå झर 3 | 
+aiad थते।सं। ANNA, अग्ने।हेरत पकता | 
+
+BRENNA NANA zana IRR भरने! धने (सभ्य 
+RUEGA ATARI ARTA न mas | 
+aars rand rear वे घसे aR 
+
+
+
+
+
+
+## Page 367
+
+
+
+
+- (९-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+a erat 
+
+
+
+
+
+Å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KEN MÄT RARR NRANIRAR gre gere 
+। 4 i ve la vs FIA 8 (अर्म॑र्व्य'सह्‌:ः 
+| våt ८ कअग्नियहेताखुर5 हुतः. ध्वरस्याविश्तषे णिः।सःवेटृ। यस आयुष व कू ANTA 
+| TOLE TEE GI IIA Raa RT NA RIE ket 
+| å aana erat ad सने रुव सर्ह॑सः्यातः UT 
+Enaga वरः Im AA R aE RRENA ‹' 
+| 8 uren विश्वा।अ भिग्युज ug RTR ag RAAR N 
+
+
+प्रयोसि।वा दतो ENIR dan ता! 
+| म्न ।अने।रिश्वानिःवार्या/बाजेवु सविषे Å 
+
+
+| 
+| 
+{ 
+{| 
+Få ४ 
+
+
+
+## Page 368
+
+
+
+
+
+
+
+
+! t I Ren Rlsmadaå गी sinte 
+
+Pa TE am dam पातं मुत 
+| FFR छ टोग्यज्ञ Å pl हपता तो a KEM RA 
+| नाभअर्पराऽ निता वाज सातमाध मराव अर्चीति'उक्ळिनभनीथरविदभजरितार॥ . 
+अग्नी रअ Ble Azda सरजी ॥साकाए ` 
+| Tenc agimi ति!थीतरयः। सवस्य aaga 
+वीइ i TRENT डव ARAT 
+| RIJANA ÜRN N ९२ INRIA å | 
+उअ चअ सेयम टेवेभिआ।सःनःप्यजिंछःबरहि।आ।सट्तसतः AGNE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+vont सीरत रसेस वंतेऊत यह विषतः'ं इ डते।तोस शिव्येत। अवसे 
+
+१ aiana: दव ता/मधंधसंथनः/दार्मी णि। बी क्ये 
+
+oe gamada बशवस|।दिवि/पितिःग्य॑:अ एःसु।आ॥ दी åt 
+
+FET ।अश्याधीविः मरोन arna थते।हेतार।बिशपति। वि श१३त।. 
+
+## Page 369
+
+
+PARALI RYE तमः शे। न: ar NESS ENST var 
+
+PURWA वो कः Gar ARIGI IATA: aag . 
+
+vu १३ dzaaan aR Rma R | 
+REPATI TIAAMA कैश: raina अश्रेव/अय मि।ते। 
+
+i få l सुषखशरतःवः I वुभ्यांचेतते/सहुखः॥ RARUA aug: Ea | y 
+
+
+
+
+
+
+
+
+
+| 
+|! 
+f 
+Bf 
+F E 
+
+
+भध्येआप्याई ऊव्वये।यमत्र॥ डवतो ते उ षसा'वाअयंतीर Ra R वा त॑स्य। पथ्याथि अछ 
+_यदासी/अंजंतवि।पूर्व्य।ह्‌ विःः ।आएेधुराऽरव'तस्छतुःडुशेण "भियः चतन्यंवरुणःस्‌ 
+, वेरु सुमन अर्रन/यद/शोविषासद्स GTA ANRT 
+ginas: RRITA GRR | kn उ पःसद्च।यलिडिन। 
+RANAR IIAN IMAAN ARNIR LIRA TER ब. . 
+यंतिऊ तर्य वि।वाजञाः। लं दहस स्िणरथि'नः भद्देधिणं बज सत्यंभस्नावर्थया | 
+इ ।दव्कितोइतिकविःक निमा दिव रासः Huaneng: ` | 
+eder कलर TIZEN ९४ RAN सा/पृथुना।शे। थ्या 
+anken दिवधरक्ष्सअमीवा garn दहतः र्भ णि।सया अग्ने" आहंर गस्य 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain. Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+| 
+| 
+
+## Page 370
+
+| Ta fna 
+| $ “~ | 
+
+
+
+
+
+RARAGA: È 
+ee for 
+
+
+KANN म्यस्य 
+
+
+ह र 
+
+
+
+
+
+i 
+| PÅ Se १० स्थोनास ra NNT 
+; mer फर f ? aS RE 70 70 tan Å øl ही 
+JÅ å 
+§ 
+FÅ | 
+
+
+mann å ae gsn ngin onaya: 
+| ar på अरे agga AY बंत.अजनमीवस्य छू... 
+| ARAA. TFGHIFGR: IG SMET: 
+|; INGA en IATA å ort AA MIST 
+| ताथे। व हा सh।मयतथे।स हसः न) मा। निरे^अप दे फॉलि/।आ। इथि! श 
+UPANG TUG på STAT FANGEN ad र्ण) 
+AR: sJAU GE GT ANIEUGs इध्म मान peng धर्न।सं। 
+आकः मि अजयत ses att: ua गैबि3केशः। शवानिरनिक! पार ag | 
+| न्तिः य qa देवान यर्था/अर्थज-। QUL Lan) यादि E 
+
+
+
+
+
+
+
+
+
+| 
+| 
+
+
+
+## Page 371
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| | Fortet 
+
+
+| g 
+8४) å | z 
+है s 
+
+
+ATN za ve यासी ak पत 
+घेरा Rag Aa 
+var mg म नली | 
+
+
+å å 
+| 
+
+
+आवश्वेद/विकियान॥एवश्अनेने।ह॒विया। duger नीर्णिं। 
+| MEINAR: उव EN på; भ de et 
+नः येवयजभानायाशाययो did te ent 
+
+| | anal n SANK AIE OERE E OAE GESS 
+| et Se Å सवर किल या i 
+'बाशअध्वरोदेवः दीति॥ ९७ NAG! TEE Esi ae 
+
+रव साधुधपुरुःदर्हहि/स्षितर्यधजनानाग 22 बश्अरांदी॥वपोर 
+| मममित्रानरतथ शसं! अररुषः resa: 
+'साचएविति तितर गभजरराभशयास/रथ्मेन भते रऊमानधतेनभ्तुटी ह 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|| | 
+
+## Page 372
+
+ES j 
+å Å व 
+fi FAN 
+} 
+|] 
+, RETR A, Fs f y 7 
+
+
+|| 
+
+
+EE 
+
+
+GAGE! GE UGLE (SK RIRANNA ESN 
+कल॑ कृधि g aka ae gras दुबला 
+सुः we sh रसादिषु har अकळ er NE z : 
+
+få å UFUFANJEG! टेर ती NAU य/वनने/मधानि॥प्रा 
+mai र्न 3 adgs aral 
+तशसःतेजीयसा।म तः(डता शिका सुः 
+वो याम ते+सुःर्तुत EE EKU 
+पव:(मर्नोस (स आ्यह देवःताति य वि 
+
+
+qalana न 'ुमां।धियों वात्‌ःसेयायःदेवी।उ दरदो vadet 
+
+
+
+
+
+
+
+
+
+
+
+हि।लेर तिं।१धिरे!अनी का (मरने देव 
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+i y 
+$ vi 
+| 
+| 
+Å 
+| 
+
+
+## Page 373
+
+
+| | अ | 
+war ERRAR RAN क म j 
+vm | vange ee ९९ arig 
+| KLE FAE EGG ERR LE SSG KG KER KKK KER श्तु KISS 
+सशआअध्यरावावशाना॥अग्नबीति!वालिना।जीसधः रखा TER 
+विखःऊं इनिवि/तन्व॑सरेवम्वाता/तानिं/।न:।पहिपगिर!।।अमपयुछन 0 अग्वेभूरी ma 
+
+| भावःवेरः देवीस धाः क। असृतेस्या atra मायिना såg / सेर ति 
+Es aggid nia a RaT: FS बतास 
+वश्व सःर्‌ब$ह।सनयः। विश्वः वें दा: व षेद विश्वा 
+
+
+i | gå me चात - Ci Iii 
+TËRA URTI aaret षतरवरुथा'भगं यः वसक शव? 
+
+
+a 
+$ 
+है| 
+
+
+(५. UNRRA 
+
+
+- P DST TT PETR i ETTER 
+t 4 TE å > Å $ ngr 
+a å På i डे >: 
+
+
+ie 
+Å 
+A 
+met x aan hakk a a a E A ASA, sent 
+ह न >ःञञञअमनननननननननननल्ञःअ-ःःःःःन----ःःानन्न्->->आा कल >> —— 
+$ 
+| 
+
+
+| j 
+|. a 
+= å 4 | 
+Å R | f 
+
+
+RYTTER २७ ngira म्भनतेपृःये ferga am: क्‌ न 
+[E oe नान åg साम्ये RER 
+
+ranun वीववे'श्रेध नये हि! pg Å . 
+maanani सं ध्यसे' यजः र अविताभव/तरु Ab | 
+
+## Page 374
+
+अलिगे SE GE 
+
+
+g 
+£ 
+F 
+i 
+i 
+
+
+| र्त्तोकास अरने।मे दस/ छू क agm 
+
+
+अ 
+सु TERS TURNSER EI ते प्रवेग 
+
+
+gende rm नि 
+आयसः अग्निधय दभ इड्‌१सुतंश्ट्थेश्मठरे! Ta TUR NAR 
+
+
+Sardar pg 
+
+
+| 
+E 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+EN 9 at 
+— === gr renn Sos कि 
+
+
+
+
+
+| KEAR] 
+
+
+e 
+
+
+j हर त वि भ ~ ।विदान'सनो N met EA भसः 
+| ड्‌ 
+
+
+| वा(ओष॑धीषु/अपःसुःआ।यस चुण्येन॑/अंतररिक्तंपुरुआपततंथ। ले पे । सभा दे pa 
+| 
+
+## Page 375
+
+
+| RARR LATA RIRA ते! आप पृरीध्यास/ ओः Quyqa | 
+| प्या AATA sd Nona NARRAN 
+
+å rem NE MUR SR) | 
+अट्घेअम्तोजातः काई तारिवताअ/नि।टेरःश्ववाःटेवण्वीतः 
+Kg ae sel nd 
+shdlardatagstå mag प्रियं।भ मं रु हि देवः वातं दि वेट अवश्य 
+अर्नाना'आसदेत्वह्ीरनि'ला।ट्‌ थेवं Vi Å MEAN 
+
+
+
+
+
+
+
+
+Go 
+
+
+TaS ie 
+€ ६9 | ७१ oe Å dr! å ATO! pn arp pt.) 
+
+
+
+
+
+
+
+ad भापयायॉ सरस्वत्यो ऐेवव/अर्ने। RAR naa १अने)स हतचा 
+भ i | 
+vr 'सानःअध्यरं! TE TENNE 
+
+
+
+
+
+KEETE] ।दाभु्ष।र थिंवीरः वव din an अ q: 
+fa NARRIB RADIAN पूथि व्या/उ ते ay EU 
+| 
+| 
+
+
+
+
+
+
+देवाय आहवे !क्षोषआ/िनिः तिर 
+
+
+
+## Page 376
+
+ARNAR AARNA RIN: पुरुः चे ड्‌ नमः; नि।अरेने। 
+
+
+| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+NÅ Rus AM सि।अ छा Eli TELE प्ण्याजयेग्या:एशे उने। 
+
+
+| sm TINUIMEE q en ॥अग्ने। विश्वेभिः अ Fase: TA: G | 
+
+
+AG KN a DEE ds a शकाश TS i AI a A i 
+4 EN TER. SNE 
+ye Å ar fet PAA ATT ic Fe Nor i 
+ch T ò FE J tel KUE 08 9 ag OE de! (Eolie i 
+
+
+ce 
+
+
+प्त जे 
+हि 
+
+
+
+
+
+कक ५६2२ लाता नर्ण का EEE नाय 
+å Ei id å 
+z è 
+द क 
+
+
+| 
+
+
+| प०३्‌०९ il ।सृ।दाभृ षः रोणे (सुतः वत beta frasa 
+
+| fei åg निर्य खसोइ्‌ तिं।सहसःसातः वेद/स धपरुटी नि।महर्यमानऊती २ २९॥ 
+
+## Page 377
+
+
+लर ।अग्नि।नि। चाय्यशह विषोतःअनुःसत्य स्वः विद स्‌ः दाष देवं रथिरं ' वसृ 
+
+Hud gg ERS हेत शाक से'हवामहे PRERE ett 
+0ङ्ट्श्यतिमचुषःदे små sat un 
+
+जनिभिः र ELON EE AC AN X WUC AE RK: IK: KLK Akak 
+
+| po RENTA fag बुवा id ग्न्य थृभेः भसे et 
+
+aganaga Aिशदःवेदस।ध वेयः पर्वतान्‌ /आाभ्याः द | 
+
+भरतें। ARETA: RIA ईमहे NAE ERNER a e 
+
+
+
+
+
+
+a Få 
+| य å 
+
+
+
+
+
+
+
+
+ee gd este ar STR अवतर 
+Rada 
+
+श्न a de Å 7 pk dk pr qA: : 
+अस्मिनाम॥ जिःमि। ae å भावे! ह शकी i 
+अकता सथाथिशआवत! इव! dear FRF: 
+Ra रव स्साना।मे@।म दंत daa: रोट्सीइतिपिर्तंस्यःवा TENT] 
+VINNARNA TLR विर्षमेतघुताच्या देवान (लिगाति/सुम्नायु॥ R 
+Amaai sa (धितश्‍्वनि/ अग्नी वाकेम तेग gd य मे देः nt 
+
+देषॉसि/त्रेम॥सं*रध्यभान ।अध्यरे'अग्नि।ष वकः FEMA EEG $ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+## Page 378
+
+
+
+ye पार्मा।अमंत्येथएूतरनिं ३आंटूतः Lizaan टू॥ २८ ॥ते/सरवाध।यतः må r 
+jg ere noo tee nr 
+å | att EECA (साधन ॥ियावक्े।वरेण्य/ 
+FE... | Aae अ es: ta क्षस्य ऊतिः 
+i såg २९ UN ।अष्‌ः्तुरस en FF: व 'संपंथते॥ 
+FARRAR तिति Bahaar aria 
+gen ep ee E FI ००. 
+
+
+pe ARRA NANE: 
+
+
+दरया शाता वसो॥परोळा अजन क z \ 
+USG हि!वुशाळाशे'आइतेतिर SHEA rene 3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nad gn NAS e Va ae अम 0 
+
+
+i AR ॥अग्ते।छुती te TT GERNER 
+
+
+
+## Page 379
+
+न्रा nn FÅ भम रवि सका å 
+fars ep ig GEATA | 
+fanaa ॥किटिव/आवनरिंदा/ग = dit 
+
+
+AE तान ल "एकया र्य d 
+
+
+me (IG! 
+द्ामथंत/नरः pk र 
+नरनयत/सुर Ear ३२ र LFB OANRET 
+
+
+
+
+
+
+
+
+- 
+Lal 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+7. 
+
+
+
+
+
+
+
+
+
+
+
+MT Rim hpa बाक मर aahi aA 
+
+mere Rar graden ag काह द 
+
+k hå HARMRET EG काय [सार तस्व वनोदः शाद 
+
+
+## Page 380
+
+ma सिपआन। ३६/यर्ममा ने। वर्य/ था: रू RREAN ARZUN 
+KE gaard karret | 
+
+| जावा।अरेचथा//वंआनन/अग्ने!आ।सी ६, ER jade UTE ~ak = 
+
+च्य आर (नराशंस॑धभवतियव/विः vit या | 
+
+GATA स ~ Gea a 
+
+roret årer तर थिवीकऽ नभं ससारः 
+
+| चीयुमॉसम्लातंगझभि'सं भते TRR NIRA RANA IN RS TAR | [ १९ | 
+
+
+
+
+
+
+
+
+
+x 
+{ iD 
+$ Løk 
+
+
+= ०. a RPN Ee ETE ng 
+
+
+
+
+
+ऊथ॑नि॥नानि।भिषतिरुर TR टिवे'यव!अर्सर: | 
+
+» याःप्रथसमाः श्त्या विश्वतः वअत्मप्कूशिकासआ। 
+
+न्याय de नाच RADAR Red गी d 
+
+| db पान नद तेद वदधला हि सी *श्गरतिळती. 
+MIAMIS "उं, gå Ree dens | 
+
+| Rem ar add dama “चन EGNA z 
+
+o imga Rda ENARA | 
+
+१ संग्श्धनिश्आ्ना॥ईंइश्युर amaka Reef . . 
+
+है 2007 # ले MG धबाधबाधिकामर्थवृ/ई।या।ति। दुष AA Om RT Faren utg: 
+
+
+
+## Page 381
+
+
+
+
+
+
+
+_ CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| meter Bastard aa anag 
+
+
+
+
+
+gå 
+| 
+
+
+{| 
+å i i 
+
+
+| bre gade Herand 
+| इृतिअफारे रेक IRÉ MITIA EGAN 
+| piss यएवृासाज्ूचशजहिमतीचःअचूचभपराच विश्‍वास. 
+| beets "अहधकार a 
+
+
+| इंडतसुः तिः घृताची ol RURI. 
+
+
+
+
+
+
+
+
+
+egg A LR KAPASEN SEDA aa 
+
+
+sl ड haa सागर EE र न KG l 
+
+
+k 4 
+| 
+| 
+
+
+
+## Page 382
+
++i 
+
+
+
+
+
+पुरुःडतंग्वरसंती a vest 
+TG > haarfrusastaft 
+
+
+
+
+
+
+
+
+
+E 
++ 
+* 
+
+
+rn vi magn gga Am 
+हेइति/वर्समतीशतिवसुः SEGRE a अ 
+क्षावः धिच न र दरशन TE 
+Rås egen टू(अ TTS MA कयते | 
+| स्विते Arad ad rh ष 
+| अगा pe नका unten as हत TONG SÅ 
+ससत Hana 
+
+
+mun: 
+
+
+
+
+
+
+
+
+
+
+
+|; x 
+_महिना/यत/आशअर्गादह oe ØSE 
+| eee gadina dikana 
+
+
+stenen सदा अ LAMA! 
+
+
+## Page 383
+
+
+prp EA RA A: gam मायुः; 
+vrede ३० धोक arr åå 
+
+
+
+
+
+å val 
+
+|| 
+
+BS 
+
+4 ¢ 
+UMIA 
+ff 
+
+T 
+
+
+
+
+
+£5 « i 
+Å å å it 
+T Å | | 
+på है. På है: > कि 
+क... å ५ 32223 33. Å FIRSTS E SSRN A dd SAE 0h ` 23. å se dt hd CP MMR RN ION I NYE be FRR RENN EEE aa 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+| | EE ET रकतसर याण 
+|= rsp TG sr Å हि आप्कीवतगसळ AS TET 
+FU TA RAIRA धवाज्ञिः ffs तरिवित्रश्‍नेत NAA! महीर पओ 
+
+इ धवला परत न कम a SE भर! 
+Ea ।निते देष्णस्वीम ges 
+
+
+## Page 384
+
+
+
+
+
+
+
+वसून ३ सं'का ममे å ।अश्वेः। वेदः RTR GAGN 
+यवम ति akpi is यावा का ।अऊनआ।नः।योचा।द्‌ईहि।गिः 
+vom åser ad 4 EA ASA TE 
+र सपनी विनर” नः agia ti बर्ज: सातो॥ 
+
+
+भणे 
+$o 
+bE 
+#9 
+Hi 
+å ga . Ult 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ps 
+नच्यीयुदाविद्दानाचतस्थादीधिति सपर्यनगपिता/्यच(ुहिव- से कै 
+खा स शानम्येन। मन॑ सा। द थन्वे॥ न। वान्व: रि कथं । कसका रा 
+सुनितु।निः धानं य हि ma GA FAAR n 
+ऊधः धि ENGEN रेज॑ सानः! महः।बतरान्‌ आ रवस्य GS TEN 
+ETE, Rom RER ५अश्वस्य।य सः। अमि! 
+त्री जस चंद।स्ट्रधानं। सहि ज्योति AKAN नि अजानन iina: 
+उततआयन/उव स परति गबो।अनवृद्‌। oak år सतीतअभि! धीराः 
+RAIN MARZANAA MENTIRA E 
+
+
+i 
+; 
+i 
+å 
+
+## Page 385
+
+
+
+
+
+
+vg 
+: Å 
+å % = Se 
+
+SRR k A GE 
+
+Ess. Å + ^ Gp 
+
+å याळ ENE हि DRS PTR A A RR a de ८३७... PERIE vt mi O 3, MS SEE EOC 
+PE NN RRR SRS mn ER SIRENS MS EOIN ae x ma- 
+X : 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+TE I EEE å ~ — 7 år BEDR भुक ताय ना 
+j errata d Fn ESN mas" ide å y पच्य ? q आ 5 a) त्यार 5 No å 
+AI a ” ~ . ह. £ a S ` å Me > på 
+» | al 
+` B | 
+| A 
+s Å 
+x || 
+| 
+
+
+| चृ०&० । यऽनानन्‌ःइ देरता।न म॑सा।आ। दिवे ५ ॥ विदत!यदिगसरमारुग्णं'अड Re 
+Tag ब जयया वचनी 
+BASTA RAY AR GE AUT Amis १स॒राने/मर्यः। 
+gé agana maga aada HLOR ` 
+विश्वाविद'अनिमाहंति/शुष्णें।प्र/ न agere avtar 
+
+| en qanana kat ok oes PRATA यात रट, 
+RJA sak on न/अधिसास rue: वृश्यभाना/अमदन/ 
+ae त्वस्य रेतस ७-० Or ll pa 
+MGANA ६ ॥ RAMANIRA RLN usann ९४ 
+
+
+
+
+
+
+## Page 386
+
+
+
+
+
+
+
+
+| 
+
+
+ अरमतारंडअर्केः ahs nadarang R ANA 
+aga Som लि Hage per haa ara 
+| à See UE e EA Lie Gil å वि 
+ard em: 0 ची: विश्वां दयात विषीअनुत्ताम हिंग 
+| श्य शिमि।शत्तीमआरड्तघिनिःयुर्यंति। genser व।आ।अगन्त। सू 
+
+gaa R पि।गोण:॥।महिं'से JyEIE दि विहाचरआतः इ(स र्विः å 
+| भ्य/चरथं! सं aar dus क å dø IRANIT pr अब n 
+IQAINN: /दसूना:। पर ॥अरूअत/विश्वग्चं दाम थे पूना नामक दि! 
+TA SS उ Sa ली 
+
+
+| 
+
+N 
+
+4 
+
+| 
+
+È 
+
+. 
+
+NE 
+
+$ Å |. a 
+
+3 ५ की. 
+or to PRN NR 5 4 SS 2 E EEEE AE DUDES ESSN E AE VO ATA se ja 
+
+
+
+
+
+
+
+
+
+
+
+## Page 387
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| | $ l NE Å भे गना जु» å प AF 
+par araia hadaa मिं।परि।यव[ते/म हिमा 
+| २६ इ. md ovine sh नुतानो।गिरा।विश्वःओयुः। दुषभः।वय्‌ःऽ 
+° चाशगावंअंगिरखद/नर्मसा/स पर्येचे। न Sen pi Qeu SERRI 
+बूडूत्हा।अ el rek ४: पा मिहं/पवका।प्रस्तैवा। | 
+| kr menes ren tukquagstg 
+र Ms ror Razz å RÅ Sunset 
+mange: न सतेन र। च! विश्व! अटेणोतः a $ | 
+re nå सानी FAR Å høre redd nå aug: EF 
+frasa! विशु -्य।द्रीइ ति. ३ ह'साद्यश्।गोन्आशिरर'सं थि नई 
+
+
+
+
+
+
+
+
+
+Shreetqa 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+५ drag Å å på Å ०५०४ 0 PG 
+SG read da.) ४ण्व त) j d 
+y शि S ` SOE 
+s Í E zi EX pr 
+
+## Page 388
+
+$ TNS WR Fh FN Ri 
+mmr feen are 2 rol el VV SEs क = - rm a SAEN zT है 
+dd ®) ! ५ ; ४5 TE X nå è £ p : i y j i 
+p श्र å Sv 2 | 
+है १९ 7 Å > G å 
+
+
+
+
+
+
+
+| øk pe म।ते'म दायदः कता।सारुते न।णि न।सऽवा:।र डे? दुपवेशआ।ट्‌पर्घ्‌॥ 
+या roret ia ae चअ मततम ATEN 
+रुंडनिंगसः ko sh a n | 
+| दन्त न्धना मस देव पिवी. 
+a > हरि!अशख/यस।सरण्युर arenaen 
+IIA ना नःरवञ।अरून/सर्त वे'आज्ी॥श्‌ i 
+
+
+då 
+FEE TAME अदर यराः नम॑ सादर इंड इहं derre र 
+i ued Tama då aker 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+महिमान।ममाते2 dus zen | 
+रूणि।अतानिदिवाशन।मिनंति।विखे॥दा था Rad स | 
+
+
+
+
+
+EG 
+
+a 
+5 
+
+$ } ER 
+
+## Page 389
+
+| 28 
+i gr 
+I p ~ 
+å है शि... 
+3 ITA 
+
+त, 
+
+र 
+
+AAI 
+
+zi 
+
+å EENS 
+EE ET ISES R BAERS TEREA E pl PAER EO V AT ER RR हक 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+| å Man हणाल TITTET एर पराता 
+
+
+
+
+
+
+
+
+EL akanan हिऽ aaam Ra सिम न! या वे: इं दूत वसः 
+Er a andre As 
+| rå नयवरहाद्यावेष्िथिवीडति'आ वुः ये कारुः धांयाः॥ Lo NA 
+us आर्क यनुवतते प्र 
+
+
+
+
+
+
+RAEAN ENAERE ZINNIA प्रिय! 
+Qalada aaa RaRa हि; ह Amau på 
+ya egna व शत्यां R A a R 
+वाळूने भिव qava LEST तसाद ia end 
+aANT NNR ANITRA तेआ पूर्वी! अस्य कलवा ”स्वाहा RENET 
+
+
+
+## Page 390
+
+
+
+
+
+१६ | 
+
+
+
+
+
+
+` ) >“. » 
+& ? Ne 
+Ja न Ay pe Re 6% 
+
+
+Ra 
+
+
+सि ELE EEA तिं प्रिया In JAARQYAZ (अभि redda 
+गभीर पुरत) सिं E ae aor क ARA me आइ ai 
+RECITE å १ ९९ गश्र।वर्ववाना। वाती ति।उषःर्छाव/अश्वेड्वे ती hå 
+न: aneia amaka men miet sagen | 
+sagde Nea ger शका ज | 
+ea se «gran dt VERA red 
+made (अयासिः AULIE MATTE 
+हाणे Se dd en vanene EG ननि 
+est re MG at: (औहवीति॥रम॑ धो मि। व | 
+
+
+
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+tasa | म्यायाशतंःवरी उषसुहूते।एवेः niger da era FRERE Ki : 
+९७ h ९२०३द्‌पअरमाद/अरदद(व AN अपहन्‌, ष रिः न aaah 
+। MRENA RAAI ARNAN Fek ai IRA 
+ås area maser på: तद्वन्‌. | 
+REMANEN RUNNA epi see 
+g på ua g ges aarm garn: + KE oe I 
+राव/अनंसा।र gag aore der syma gg ma kal 
+
+## Page 391
+
+` शेइविश्ुणवाम।व थाहूराव!अनसा/ Na ।पीथ्यानाऽईव/योषा'सथी . A 
+cht as INIRA URAR] RANTE षित ह. २५ | 
+
+
+
+
+
+am me RE PV क्र २६४ namas = मम ता 7 ०238: : एप PETR: क z TETEN 
+
+
+
+
+
+३+जतः॥अपीदि/ ।प्रःसवधसर्ग/वक्त+आ।कादुणे। gaia ai र ध्ये 
+व्यवीस अर्भके । की कर ke ।३षर्थतीः।सुःरा 
+वाशीभे॥उब!३:ऊर्मि।शम्यी:/हंतु!आप ये करा णिः सुं दत।माम्मई ऽ कतीगवि एनसा अयो! ` 
+spämmin १४ våg (पूछ भिद/आ/अविर (दा ÅGE gag nR | 
+qaaa: रेया दरा्सीरतिडमेइति(मखस्स | 
+
+a वृषस्य व्रति ee नइंडाशितीनाअसि/खर्वुप्रीणाब्शि, | 
+| geat वकि उनीतिःव्यायिनामशिनातःवनीतिश | 
+अहविः इरा ल ।अङ्शातराम्याण iama 
+«UH UAGM EEE LAN LE Ble EU INE ER ETEEN Å 
+
+
+
+
+
+kv Å J m i * ; f 
+ARES N A i y 7 x å å å e 
+SE REE k Dha od Si ua “आ 2:23 Bd ONENESS, in ES Fee RNR HOPES rE ६०3५2: 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+T p 
+åg 
+b Å 
+
+$ 
+
+
+mse GRE T TETT TESE, 
+
+
+den Aggama gagè omga las 
+ae विर्यवरमाधञारे MAAT sg ME ९५॥अ१महा निवन यति।अस्य। 
+। Hdg manet नर Ke ERE 
+| गोजरा युधा ईम ड्गा।व रिव वकार।देवेभ्य सिः Tann ॥विवर्वतः सदने। ; 
+
+## Page 392
+
+` अश्यावा निदि क्छ धिके वयःशेति॥सत्राऽस म ल i 
+po अप बदिवी/ससान/य/ पथिवी।थां ७ ते miz IRAIA '॥ससानअ | 
+— are सान ।ससान!परुः भोजसं।गो a aR गं। ससान/ हुली। 
+| HND EO LINIA DEIANEIRA AANA | 
+gnaga aaraa AnA ha ९७ | 
+
+
+~ ३ 
+tese र थळे ae sr Å है 3 
+PN स गोली, पर SP « A E LENGA | 
+ad Å Å * है > ह ४ x ५ År 
+x ma v 
+basgi x 
+
+
+४१.६ 
+
+
+na Y ogon 
+
+
+sse >> -— mmm ००.०... == : ee -- पा 
+
+
+In | , 
+# 
+Å 4 4 
+
+
+I 
+
+
+avd rv RAGNA य्‌? अच पिच सिअ भिः 
+
+| असिति खारे 'र॒रिमाते माय फिश रायासी तिहर 
+gem ga uge Tårer पम iA 
+
+Hege तपूथपाउताई/अवब दृषभ/सधापवः/यसेता।अश्व विश च।...: 
+
+E E A TE e विज EX जज चुन जि TUEA 
+
+| ऱ्य nye grå रंड'अिगति्धन, amag Rs] 
+
+
+
+
+
+
+
+
+
+## Page 393
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+admona amhra व ये नि! अ HEMNE १७ UA 
+IAÑ आडते ME EEE Ve ।अस्व/पाहि॥अस्मिन/यते!बहि 
+.पिंआनिःसयाइधिय इमंटरेइड सतीम ते) gangg tn mer 
+T ARE Brente Ea ae Fi 
+
+
+EE i 
+på हु 
+
+
+å pe 
+PES "å 
+९ 4 > 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+== i : | = कनक 55: 
+I 
+3 
+
+rå |! 
+i 
+
+$ i 
+
+## Page 394
+
+
+å å į 
+
+å $ I 
+
+
+| RAR HE NARR agenda mging 
+
+
+[| Ss नबर ea 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+स Ái मु: ALAARA qa akarak 
+र्षि RESTA SIST NE: UMATES 
+
+
+ma 7 
+er sk sk $ EAk ENE KURIE E E 
+
+
+NTAN 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 395
+
+
+
+
+
+
+
+
+
+| 
+
+
+| खर्या IRGA ग्नेभवा! Ek Ark KLE PERI z 
+| haa EM क ! ॥०॥ ९८ ngm$ad god तिसाते Za | 
+KATRTA KIA på ngs. 
+
+
+
+
+
+
+
+
+
+
+en Pau Paves x 
+IRATNI NAN: I: ARRIT gA 
+saamaan pers greet धिया ERE E: 
+| gås Te 
+
+
+
+
+
+
+
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 396
+
+
+
+
+
+
+
+सः इंडेसोमौसःप्रथमा सान 
+
+
+न्वीयान/महान/अमंत्र/ टन ने विःरी उ ये 
+
+
+'पूर्न्यानइंड सोमा रज व्न्य | 
+Ti 
+
+
+
+
+
+
+
+
+
+
+| Er Dn मास/ह है: अश्वशअमंदन/महाचउप्र/वद्पे।वीयोयसंप्आर्च | 
+।रवृभभकायच ईभ्यः ।वाजप्दा/अस्य।गार्व। प्रजा यंते। राक्षिणा:।अस्यायूव११४ ९९6 
+
+
+
+
+
+
+maa engang gina gamgaadiaa kiada: 
+re शड 
+
+Arr ng ARNA: 
+Gregg A 
+
+
+| LAA g: अंशु 
+_ तंग्मरंतश अंश ति।हस्तिनःयरितरे 
+Qanta pet «ng 
+
+
+
+
+
+
+
+
+
+## Page 397
+
+
+
+NÅ 
+UDE ` 
+> | 
+
+यतिं।व 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Dömain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+क हक्क आस EEE ENERSEN “> “<<< << ERE ENES 
+; pp 6: 
+
+
+
+
+
+AG र्क: | å | t 
+A । | Å pr TSAA + q 5 | शह ! Ti sr 
+ven. सनाद यवःते/मा दन देमश्चि'स्मभ्य।तवपह्‌ + ri nl | 
+| पच danja mg g ni mette 
+
+
+GE pek 
+`` _ gonada guan २० वाहवा 
+
+[ वाव anaidia Fann | 
+रंड।क्ृष्यं ते वाधतें॥ना ar agn Aas के तो। विशाभि। गी४ भिः।ई से 4 
+
+
+| HENGE धार्भःभिः ल qazana organ | 
+र्‌ य (इतर å NÅN ve = d 
+
+## Page 398
+
+हम्‌ द ऋवेाशविशतःकती॥। इडा रत्रायाह LENS i 3 
+| भ/-च॥ टील ामिलमातिष। श विरम नके वयु rn सी 2 | 
+
+
+।एतनाऽसत्यी० YI 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 
+
+
+
+
+
+si | pek $ 
+मं।शातऋतो Arahina शतक तोइतिशतर कती ये 
+नेप च$ सी) र।ता नि। वेज टृणे॥भ गन्‌ इट्‌ र व: gaa छ्न 
+EL स्‍त र॥उत! ते । शक goea उबर्त-/नः! TRA 
+| IpI AG! ।ठीकः।यः। GST GÅ | 
+NRZI AZG FA IAJ सनु वा।अलतान। वाः | 
+भरे ज्ञि हा 
+
+
+
+
+
+
+
+
+ap GN Å ra णि।कुबीन्‌ FET ås 
+aN3AITSISÅ FI BÅT य | 
+F3 ।ते! (वर्धमाना मनः वाता ag | 
+य।रोर॑सी इत 
+
+
+å 
+
+
+दशक में थार 
+
+## Page 399
+
+
+
+त/धा॥३ मा 
+।धर्मणि। मच्णनि?सी। बभ द्यां द्थांना:।उता क्षत्रा 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ER काळ EEE un ळय Dre V 
+ng De ऱ्य > लि rd Nor PSB EE de EA et iS 92 a Rs ८४३६ A 
+> > i पे Saa ४23 नत $ > ` Pl GA 
+
+
+Yoğ साज न। से। सा चौ भि रे! ये म॒ःउ वीड fda: तिस इ, | 
+| | 
+
+
+ar तिस Fit धायं SE र ।आऽति छत! प. 
+वसानः च्‌ an n cap ।रु्छः।असरस्य।ना खाज विश्व 5 
+
+
+
+
+
+
+अर ता नि। ते AAF TATT इमाः NIA 
+N ।संति।दूर्वीः॥ रि IA AAF AE जाना] REG 
+2 Iban नीर्णि।राजाना। विर्‌ ER नि। भव 
+
+
+दॉसि॥अप श्य/अर्जास man udF gata आपि वाक 
+न्यातवाइव।काअस्याार्व RMATA: मिः।अ सि रे। स 
+
+
+
+
+
+गोः 
+
+
+a P, द 
+f IGEA eu o 
+
+
+ØST å 
+
+
+## Page 400
+
+
+å ef TERTA o ANTA ज 
+
+
+वितः। न किँ मे? हिरिण्य यीं सालात जां स्त ती।रोई stå | 
+pS इवा Ta 
+हः। यदे! देवी! स्वृस्ति aRt: 'स्थार्ते॥ गोषा जिं हृ magta 
+चश्युति। IHA oR NAA EZM व्यमा, 
+maki Å et तष्ट mm विद see ट 
+Hamad anke Raet पूजार्थ माना विजा 
+ARTS स्य मीनी) याव hh pa अहम ड्यं। 
+ær ga Ta va TE ge ।यम्‌$ सरास 
+हाया? जये पर्त द्‌।आ। हि।अस्ख दू जाता er 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+STG aspa aadatan । नि! मायिनं ममिरे! EGSTRA! | Å | | 
+
+
+
+
+
+
+š å 
+EE 
+EN 
+Fa 
+2:72) 
+Gå 
+
+
+
+
+
+| य००२ Kansaalegt gas ta eiga ये। त 
+aan AMARAT गो 'योथा-॥ई ड:। प्रथा इत [मा हिनः gasa 
+j जाणि सरि दे सना वान ॥ सरबा। हू। बे! स रिव IAAT R | 
+; MAATA: MIAP ANAA इ ३2 टु शऽ ERT Ye Hi 
+
+
+th l på i $ तंउस्रियांमा। यऽ i q : d 
+TIA गो log les] 
+
+
+At 
+
+## Page 401
+
+र बिऽञानन्रे।आरे। अमी [इमा FRI AAN ETE LE 
+Fs कर तमाचा चित (भ्‌ शस 2) | | 
+उवत॥०॥ २६ NN ॥ ge तीः योभ्यायः HATAN | 
+
+
+| l र) «| र Adel! ७२९ क्ष eF H 
+१ | aa, क sr 
+{| 
+
+
+
+
+
+
+
+
+
+
+
+(२२७ | 
+
+
+$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| हरिठओंमूश viden ENN AR qan: band 
+res दि यात पिं।इड भर।नः। gral IQR NIRIEN 
+र खबान। विश्यने॥३ maga madaanan rer जर | 
+विथ'जगरेएुवासोमाडंडू वरे ण्यंववं geer वः॥ ९ ॥गि हे RIGAR 
+POAR E EEIE E atm get विने आहिता पी 
+ål सिवत ब नःह।इमाः वस्ततः गिर य E ECE 
+ब ऽवतं त्‌।यसे॥०५ २॥०॥अः HEAR यी sek Rerin ट्विःवः॥ ri 
+Hegra ua enga ag rama EM I वाह 
+jamak daR तिः ।एय/स्ते में १६१5 हन्‌५३ के I 
+
+
+kur i 
+
+## Page 402
+
+| 37 ८ क * Ty } 6» S ¢} श vil Se DUC 
+
+
+| + 
++ Å 
+FG 
+p Le ND 
+> i ag 
+Pere: NES SSS : ..... OE SA eg i & Å 
+3 कि VE र J ae Le “५७ i, Pia NS ideii å 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. मऽयो उरे (रहे ति. रावंसः पति हुं gen ३ स a, | 
+sg Se करव ga pi | 
+१वृसाइति(मा'आरे'्अरमवावि/मय दहरः मिया अ LR, ह | 
+: > TN qaga daia के शिना॥ धूत a तः सक 
+SF (अ ४ ५५ ponni pi E g Tigr 
+य़ावेशभिः।सृत कृवि FT: 
+i न त रतये dg ।हवासहे१ड = | 
+... gaaman वातकुतार na x 
+- Akau n ता नेय AE सुम्ने महे्डमे३' 
+
+
+R 
+SAMERNA १ 
+
+
+## Page 403
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+## Page 404
+
+aaia aaaea fr छतत म्म इ व इ द ओक 
+et न san एवः रुर ठति! हु दि॥ लांस त तीये gå du इ चास है 
+अवृस्यरवःnक्षामा। या ka एष वेध क दवा अल श्र दि 
+या! स खाया विजन R Aga वा हम हुव ते॥ आ। IR 
+3 ide ।आ।अर्य आः शि पी नह यी MIRIA 
+में; त दाः उडी हव go n: s 
+[भिः mr दर्थ/ज हूं।हि। AAA: pp ati 
+agma तमहरीइरतिं।स ER se ASSAM था gt 
+— adiis q ।सखी। सरब्यः। णन EK AUGE i a 
+gaani मघः aak taan PRAT RY Rs di Te EAA 
+
+
+
+
+
+
+3 
+
+
+
+
+
+
+
+
+_ CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+Me 
+
+
+
+
+
+F » 
+: > z a å S 
+á 5 å ET end Rr ee) SÅ 
+ENN चकमक र ~ pda र ल 
+
+
+pr TS 
+
+
+
+
+
+| 
+
+## Page 405
+
+i 
+
+
+
+
+
+१ è , è Yi 
+av अभ्तस्य/शिक्षा॥आ। ला दुरृंतं/दर॑य/युन्ानामअवी कू दार gR 
+| दिताटिवधसंजेति(आताधसःसॅसशासःठषनर्स्य/सूरााइंड/पे ini 
+Erw pem RO AEH: RÅR das 
+॥७ ॥अये। तःसोभं per AN mér रि use 
+ane dm rå य चयः॥विदान(वचिकिलान!। 
+शशवाय ann reg 2१ ng AER AT 
+Va रि ae AGA: द नः fen 
+भातिरो चनह रि आश्र ह रितं यत्ते å 
+
+
+qmq रई 
+dia Fees oat agma gR: aai gå ga mer ran 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 406
+
+
+
+
+ENMANE ARAFAT TAR FAA JR Gå 
+å lt की मल जन हल +००: a 
+| क्क कर रपट ह RAAE स “ऋतु पुष्य सिमाः 
+| इवातसु्यीप यवसेन ह आल्या तुभ Arge 
+| dhara MINZA फ अक VIAR! इंड सेर पारणे! UFSJUEENG: 
+TENE हि/स्वर्यद्राउतरथासः बढ़ा नः। डीसा रूरतुत/भ rm 
+
+
+
+
+
+
+
+
+
+
+
+
+mad area Ci RUTE TN 
+REMANTE: शुवनस्य।रा स्स RIN LRIA LANAN 
+
+
+| 
+å 
+| 
+å 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ax 
+
+
+तमः॥ aq राजः. उ अस्य K nF pi) र aaa | 
+
+
+सतक मलुल नमन नल ततर_त्तलम नल a न न्‍्+ 5 RR an 
+
+
+ver 
+
+
+का 43000... DE 36:66... ये 
+
+## Page 407
+
+a å D, 
+; | | eo 
+१ i i ५ 
+or 
+
+
+RA mur dee gannan R ड दथिव्या 
+| शे मुह ुरुंपगभीराझयुर्पा(आथेउग्राविशश्‍्यः = 
+ga सभप्र रे विसृता रु dam True å des 
+नामाताविश्ुताला/या१ते ते। हिन्वातितं. pe ISR ।षभ्‌/वातेवे। ` 
+॥ ९७ मरु लान(हुड्‌। डुषभःर णाय againd 
+मध । असिः दि naqta ग॑णः।भरुदः भ 
+UZAR नाइ Jeg | 
+AFIRI RIR TNR aR Agham `| 
+MA EAE Eei a å ie (ुम्य'ंओज॥ये।बा।आहिः हले/मघः २७ | 
+
+
+
+
+
+
+
+
+
+
+
+RRRA गे इसे येला! 0) | 
+रा ME AITZA वः्अरि।द्व्यि। शासाइ4॥ Prr i Å 
+sn Trier rug केम २६ |सद्य।ह।जा त। ट षभः कु नी ने! प्रभु |. || 
+`. _ आवताअधसः।सुतस्यगसाथोः।पिय्‌। तिःकामंश्यथांते'रसंशआशिरः।प्रथर्ग्साभ्य, : | 
+__ स्याग्यवामर्यथाःततरओ सवका sida | 
+तापरिंयो पा।अनिती। Ag kes. डय्‌ pr 
+garran ।'अभिसामेअथः॥्रः्यवयेवतभ चरतः TER | | 
+
+| {J SE naa anz यथावरा'तन्वॉच्क्राएय 
+
+द्रि IA OE E ECEE CUE 
+
+
+: ; 
+| f : od > 
+Å i Å > 
+E å | Fi Er å 
+AE | ड 
+५७५ på i Anii K = i t: = "ह = 
+
+
+
+
+
+
+## Page 408
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+| en इरत्यसिनविखीभआ।ळूर्यभसोम/याधकाम'अर्वन!येसुःकवे, rhe 
+| p sint ae: ANY ह re मे 
+| | हसा क Qaam ngaing: 
+MARYA ॥न/आवों। वःआनशिंशरो चीं Èg उवोन्‌॥ भगे me | 
+यः मृतीना।पितेईव/चारु॥सुः्‌ bregner Rega 
+नवाल सुःनिशनियुर्वान्‌। ør णी an ESA et Å 
+वावाज॥०॥ २३१३१ स्वाहायिवे द ians NFFHIYEA 
+gum hire oa (अने आअस्या eig ननका ERU; 
+QAT ata mn aged ENER 
+
+
+| 
+| 
+°| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 409
+
+
+
+
+
+
+A कदी 
+
+
+
+
+
+iğ: agga kaa RiR 
+å == शत भर श = एवृरु यायो: 
+FIQU ०॥:९४ ॥चर्षणिऽ थतम थऽ्वानं (इंडं॥गिर व्हती अधि।अचूषत॥ 
+थानं पुरुःटूतंशसुड सि भिं+अम॑ये।ज डि frå कद्व 
+किनरे इ उपयेतिविश्वत/॥बाञ्ञग्सनि पऽ भिद दथ अपूरतुरो था 
+NF पोस ,5िद१आ+करे'वसो:जरिता।वनस्यतेअनेहसःस्चृर्ी। ` ` 
+३ईःढुवस्यति॥रिवर्वतःस रनभा हिवि्िये।सताःसहे'चभिमातिःहने।स्तेहि। 
+aomi वि।उक्। Qt अचेत? सः बार्थ:।सं। 
+Masan GAAR GEN: दि nd EUGEN शि pe | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-= CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 410
+
+pr 
+; 
+
+
+
+
+
+
+
+नि॥ ९५ går थि! गिरड त॒भ्ये।स चा på somre ul 
+ter må नस्य।स खें। वसार तिज रिद वाइ (मरुखः(ह३। 
+MR Må 'अरविबसुत nadigsåldua nya आतवा 
+संति।कवर्यः।सुः यासः वावशानः इह पा।सोस।सरुदः ls 
+g ब ope EN LRARIALA 
+'यॉमरूत/आपि/एय अ ag agadan A भिं।सा के। IG aa | 
+eigd åR मुथा ॥३द्‌। अ चुभ्ओसा'सुतं'रावानो।षः 
+Sa AIARA ।नि।यछ/तनन्‍्बें॥सः/जा।/म मचा | 
+
+
+
+
+
+प०द्‌०३्‌ खै ag यावनी aid 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i QUITI gåva Ev १६ “>, 
+| fedre pine før १३ ई GREKA AN रे man t 
+gene चुधतुम्ये।हव्या क, AST TquqngQUATTQNER 
+
+## Page 411
+
+IUJ ro का RIRI 
+MÄRTA dren å रुध हतार ॥प्रतय वता 
+AUT AQ EHYITYS qarn: MIRIC HECAT ९७ nad pt n, | 
+न।पुरुख A EIEE E SAEK द ख EEE EIERE GIE URIE 
+
+ADARNA ARENI sense STAR TEN 
+ATATUA TRIST: विबाडवःरा श्वर! विदान 
+
+
+
+
+
+
+cy 
+| 
+Å å 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+"å EEE 
+NG FEL En 
+dei å å * 
+
+
+| KAKEN armada ur acre ad डेय दिवे सहद iaga? 
+
+
+| FA 
+| भै N 
+| ; ० ५ " s 2. . 
+; Å SR ng ning SSRN AES 22 EE RER EE NN 
+
+å T 
+
+K 
+
+. 
+f 
+; 
+
+
+au k वेगरुःचीगाविश्‍वासिंभःयव!अर्वहदासुःदास'आशियायत! = 
+
+| ar: ente ds ng JAR HRA 
+
+
+## Page 412
+
+FILIRA कतिका सोला he de) bh 
+AA 
+
+
+t r TE 
+å g 
+J 
+SE 
+
+
+IURA ARA भ ९९ naiaz ता/रथेन।वामी। २ व: आप्वहवे(सूआवी | 
+hess ss कम malma स mi 
+AARAA GARN RNANA aina | 
+Amaan Rara A ord dater ESTE 
+Eikrem TFS ER RENTER 
+
+
+
+
+
+
+
+
+
+| AN quazaren Hazard 
+| ør 3, न्वात।अरछ॥परी।याहि/मघःर INM mA भातः उभय 
+| RAA nd: HURA स्य LANI ae 
+
+
+å te कि NR न्स 
+NT Em eee साना 
+SESS ERE ra TN >> 
+
+
+Fam et ३4 र है à ` 7 ; $ ह G de f yea ` i Å 
+
+
+| माअस्तेपुंडभ'याहि'कल्याणी।जाया सुरण Bue शिवत gamh 
+refer aa gnr Un विश्वा | ve 
+रते आय स्य! gal erd en va RT 5 द्विप रि 
+
+
+sne danne RT TIA 
+
+
+mera AR RENAR R: मक aud 
+
+
+
+
+
+## Page 413
+
+
+
+
+ee «कक 
+
+
+e) शष 
+
+
+TA रह al 7 NIGEL Ye 
+थमे रिल मे हड Ea स्यारक्षति'्रत्म(रट भारता. 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+कि "९7५ FT mre eee pre TTT TT ETT च - - ~ zaz SS SEES 3 SOS 
+vi ® 
+F ५ f 
+| 
+på 
+3 
+
+
+vag ahaaa aA aR å ।सुःरावेस॥ हिते णवे तितकीकदे 
+२९ घु।गाव॑।नाआःशिर 'न/तपंति।घर्म ।आआनश थर प्रः RAAN: र ka 
+यान:॥ससर्परी+अम॑तिं।वार्धभाना। डरव!(मिसाय'लमदग्निग्टत्ता/आसूर्येस्याडहिता(तत 
+
+Rd ru ag ५ससरपरीमअभरङ्ःदे र i 
+
+
+va श्योनव्योः ॥हधॉना।/यो।मे पल (दूडु॥स्छिरो/यावो/सव. 
+mis IK LETE न mad; Ges 
+
+
+7 ने मेनि) RTIA: TRIIR LRAD RANA QRR | 
+st FRIBERG थेहिःस्व्ट्ने। 
+Gi ARNIONE AANTEEL EERTE २ 
+
+
+| 
+
+
+mairan ameoa Rma nai 
+primm तीर कात aug Brenden q 
+al dage aag P RAIET ARTTI 
+one नँतभस्यति॥नासार्यकस्य/वेकिते/नासःळोधंनयेते'पर्य' 
+
+## Page 414
+
+| TA TÅ AREA TN स कशान agai 
+å E T EE EIKE अर ass sår nan M 
+£ Mu स din Ede NIELS as Fe kis Eike de ugma 
+शिक uge MT 
+R; + 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| म gg arter ph er da सीर रथ 2 
+
+
+| ३० i an ।सर्ववरीजयूत॑ःवरीरोट्सी३ mfl 
+| 2 
+
+
+
+
+
+
+
+
+
+HAM: 
+
+MUR ge mans: RNA 
+ami paa न ng gs TN ee 
+Ranan dinna aiaa ।संविद्ानेश विस: वि 
+| ean NJ रेअंतेर पर तसु ष्उ्त 
+शायुवतीइति।भवंवीर 2 बुवाविरति/मि am भ।से। 
+विविक्तमहः द्वानवती तिन'्यथेतेइतिं।एञं दवं! नि रद AR | 
+/विण्षातंगसर्नापूराणअधि(एमिआराव! महपित।जनिवभशामितत!नःदेवास यत ३० 
+
+
+
+## Page 415
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| i Gi यशी मीर |. | 
+
+| dg खर pan on aiam p ri if | 
+'व्यःयाणिःसदिता।सुः जिह।/ uk म सदिति BDA) | 
+_अभ्ेआलएअस्मन्याआ।शुव।सव्वातिं।सुरुव!सुः NOTRA: दिव व्र i 
+
+| NITIK वः भाय KU Ge UK 
+
+दर्रयाशमरुत संतमदिवशमयीभसतःजाता अया ॥सरखतीशणवन/यत्षिय | 
+
+EG पिया राती, Hauan विर्ष्ण।रतामांसः रुटट्साभको॥भर्गस्यशट्व/कारिण "१ 
+
+निर्ग्मबशउरुः ng तियुवृतर्यम du ar 
+
+` दिथित्यसान ENN सी rr AIEE RUES | 
+
+bm २६॥नासत्या/मे/पि बंधुःरऊा ANA: | 
+
+
+
+
+
+
+
+
+i 
+| 
+| 
+
+
+
+## Page 416
+
+88 
+
+
+
+
+
+_ CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+| [गज F, EA i | 
+å भः sg KE BREE OS Et ike (KE vi 
+| Tg | Hart s m bies å gaia सुः «GN | 
+Fa | हात ATEN ATR अनपत्यानितो। 
+| gn इतः GET TRITT न नता 
+
+
+
+
+
+
+salen ag IMRAY: पकमत an 
+as li aa या।मर्देतः। आच विके qi 
+मरत र्भ ARR GUL at ask IA RN: A 
+भगःमे/अरने a दा नं युरुःक्षो-।स्व रच हव्या।से। 
+| Ra REG NG श्र gem लिवा en | 
+विशा(सुःमनाहीरिहि।वः॥२७।ए वर्स। ।यतिःऊव।महवविमते।अक्षरं'र ३१ 
+
+
+
+
+
+
+
+l 
+
+
+Ņ\ Å 
+Re MD En eT 7 på 
+f 
+I 
+
+
+å 
+f 
+| 
+
+
+
+## Page 417
+
+
+
+
+ECEE 
+| NAG बु/अंधरिति 
+es vs ARV शसित्रस्यालाव 
+या य यय 
+
+agantada /आएयवेशअंत/स वि: ; % 
+
+è वि uR a 279 
+7:77: å 
++ क्या षि रते ENARA 
+
+
+
+
+
+tai 
+på 
+
+
+
+
+
+
+
+
+
+
+ET DE ic 
+
+
+CC-0.In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+इका।०। pe 
+
+
+m. 
+
+Seu 
+ली चील ०भओ! 
+
+
+## Page 418
+
+| pen q 
+
+Dr ५ य्य 
+
+
+
+
+
+
+
+
+S MLLE aoan उष्‌ pe JE TERKA 
+यश है IQA: INN ३९ uzada रके 
+
+
+lig a 
+| क्ण तिः x ० | 
+} ह 
+Bhi PRN kr Onn शा I sss oN VEPRE CN 2302000. 
+
+
+आ; स ॥ TU) 
+gaa AUG: नाध निःनमेतर्छिःवोरसः। पट ON 
+== MAE He es UFO 
+ZAR ००००00 
+auf नीका REEN RE VARA TG åå 
+ya: (आदित्यानॉ'अद्दे।चारर'नाम' "आर्पविव(अस्मे/अरमंता देवी. 
+बुजेतीधपरिसी।अटूंजनशत्रीसंधःस्छा 
+
+४राट्‌१थतःर्वरी शाःतिश्चे धतिः pua rema 
+| वःसदितःवा्योशि। दिवेः दिवेशआसु वावि? पिम्यारदृग्रयः SAGE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 419
+
+
+
+
+aia 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+तीयीध्यायःसमाप्तः॥ ७ ५ ar | 
+
+
+2 
+å Å 
+å $ 
+
+
+len NER ed ni 2524 à 
+५ मत 3 33 
+
+
+
+
+
+यिने/नाधीराख तादेगानाँप्रथ॒मा।भ्र वा णिं।नरो इसी | | 
+"daa TARLA | 
+
+
+igang MAURIY 
+
+## Page 420
+
+
+
+Fi 
+
+
+
+
+
+f j | t - 
+
+
+gs 
+N 
+NA 
+
+
+P i. 4 
+å Mi r i > 
+५७ दर 7 
+¢ 
+
+
+
+
+
+{| 
+
+
+
+
+
+«fela भिक्षंत/स वितु/सवा A gasamgsam Anu res र्‌ 
+lea faa! ह सः।०सतुःदेवः। ११५प्र/से/विविक्वान!अविदव!म 
+Riga Lar: ee द्धि Renika RA Ra 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 421
+
+
+
+
+ANLAR NR NEA रशा द | 
+PAET van eee त्रि, 
+चालि, नमस्यतीभजा ^ वावताना#।सहः' वरति! वि 
+
+
+ते।वरपूषि।अ छवि वस्मिशोई: रि EA en #यूतानः/अ ध्वुरे। म 
+zma Ranga वि/इशेताशयर्जना॥।या। ते! लिड्ा।म å 
+
+
+niga वेदथ o ॥ 
+
+
+| 
+
+
+
+
+
+ठ EN frasa केनः get TATE ART 
+
+
+मेधा/अर्ने देवेष यते र्वीरतया। ह विश्वीय?अरवसे। यम त्राव/अ। सा ट्य! "3 
+Saanaa namana aaa PA 
+førre 5वेर्धवसाइविराखासुःमतिं।विश्वस्तन्यो॥ २ ॥ धनुःप्रलस्ये pan na 
+GRRR EMN AA IRPA: i 
+TRAugsqa Tamara RART RARAN RNANA 
+रमत/वि/पणे/मनीषा/युवे/अर्व/ व रुम आयावे'अवोडू सुय थि गा! 
+RGT aaret ARAME (हवेंते हुसा। 
+काम dragen ।न।दुड उख अ तिर GA TEA 
+व।मृधःवाना्नेषु॥७॥ ३ preo Ar re MLE REG GL Ul 
+| एहथातर्पार्था Persen Af 
+
+
+
+
+
+
+
+
+& 
+
+
+
+
+
+
+
+
+## Page 422
+
+
+
+
+
+
+
+
+
+| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+ड A e ATS Ul TAN { vite तता तल त 
+| | Yoox mwaa amaka jr arakan ।आप॑। चिल/अस्यरोईसीउतिं। a 
+
+
+o 
+
+
+Harde A 
+kar 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HB, 
+
+
+
+## Page 423
+
+
+
+
+तिrरण्यानाःसरव्या शिवानि 'सथ्या।म मासानि नात्युवासुः 
+
+व्य दो UIA ma ap nom Radar 
+
+maaadaaa nna t ERR ANNAR: 
+ARIRAN: aaaf Y तिभ्स्चः१अश्विनागमधृसुवःर् 
+
+मः ar sd små gUne ng Riga Ra GARAGE 
+
+| UR NAJAT: mar Fagan: nd noden 4 
+
+| apr ENN yr ar paras स्तृ 
+
+'ब/ते।आदिय/शिक्ततरि नकन agaian EA 
+
+| | तधनटूरावाअनसीवास'दर्ञया/मदतधसित व/वररिंमव/आ।/एश्िव्यक्‍/आदिय ३४ 
+
+| 
+
+
+
+
+
+
+
+
+
+
+Ed 
+
+
+
+
+
+T FS på SOLER OTE ter de 
+सव॑ वतं पः क्षयतः वयं Aetat सालसाः areas 
+नश्अत्ननिश्तवेधा:॥०0महाकाआद्त्यिः/नगंसा ITAA LIINA ay vr t 
+पर माप शाम हन वेक वमर 
+। तभअकःद्वस्यतसान सिग AGIA RU ARTE FIDEL 
+'प्रथाअभिःश्रवे: pe ruan adian | 
+| aan मिनट vangqadagasdeauztarustamgnden | 
+Nå W, मह मनस बेप TEREE BE W O ECUK Akata | 
+| 
+| 
+
+
+
+
+## Page 424
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+तिवरतिनतिःवर्षसःसोथन्द MIA 
+
+
+Nana 
+fixaa PERU t ETEN Raa मायेन हरीइृति।मर्नसा/निःअवक्षत तैन हि: 
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+` 
+
+
+## Page 425
+
+
+प०छ०४ ANTLR श॥इंडस्यासरव्यं'सभव॑।/सं/आनश॒गम anana R 
+| Buan ।अकतःेःआ ई ९र्‌।विषठकमीथिगसुःरूतःसुः्कखयामडेणप्याथःसःर 
+| क a इतिं।व ANT ipana aea ia स-न ee 
+| R aiaiai ag kada निधसे३ ३ å gå hem 
+
+Ren rang aa मघः बेन! दाशुप। णहे/ सी धवन भि/सह। rer भि 
+å fergene RIARI LARRA नरसू same 
+स्वरा णि/ये सिरे।म्रता।देवानोभम नुंबः' वध मे भिः ay Gr funn 
+
+
+NGT EN INA: तेभिः R आय RIR s ÅST 
+KSS inf aan der vr il * 
+
+
+` 'चराणी।देविध्यवतिःपपुरंः RRRA रश र /अम॑त्यो।वि।भा å: 
+var क nianu Riog E: gne ये॥उय॑॥ । 
+
+
+| gs ER स्व्म्के pr må I 
+FAE E नी वा यार | 
+अनंतीसुः भर्गा!सुःद्‌ंसी आ नावर दिवः पृपथेःआतवूथियाःाअछावः देवी उषसेविः 
+någe gaa agam km &(ग्र/रो चुना। रु रु चे र 
+हे ag वअ: अब ane 'रेवर्ती (रो सी Ti 
+7 सं।बिभावी।वामे।एथि। डर on na 
+महीडतिशिद्‌सीइले'आविदेरा/मही(मिवस्य/वरुणस्य'माया। चंदा: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+काकाच्या 
+७७२००७ sis 4 
+
+
+बज क प TT m ATTENTATET TETT 
+
+
+
+## Page 426
+
+
+
+
+
+ER A ति यॉ!भ्रमयमन्थैमा gard grava त्यदइंशदरु 
+
+
+| dra gr ge SE 
+
+
+engang å 
+
+
+® 
+
+
+
+
+
+
+
+
+T men H 
+Í s y | omatt ve 
+Å तमंश्अवसेश्तीहवीति/सम्जोकोंइंडावरुणा।मरु चर | वश 
+ड | kat MAR EP dr 
+शरणे/भर्वृतुअरमान/होत्री।भारंती।एशिंणानिः/ gånger argon निं। विश्व: 
+| इर राति दाति हरे तस स्यत। आनामिशओ ive 
+amaan ९ वृषभ! WIRA: KHAN स्यतिं। KONG a 
+GRL उम > क 
+ie) aged ee ना'संत्च'पर्यति॥सः यश | Å | 
+
+
+
+
+
+
+
+
+
+i 
+) 
+} 
+| | 
+$ 
+Í i 
+Fi श्र 
+$ i Ut al 
+I o अल 
+CR SE 
+
+## Page 427
+
+på 
+ti 
+{5 
+
+
+Å SE JAnAA! y qaita ९०५ | 
+| S tg न | E Ea andet W] å 
+| उ सधा annan क au 
+संतस्य योनि आर सट्गसोभ।अस्पभ्य हि Gå Fray KETUK ने मी वाः।ह व: कूर्‌ 
+å grender हैमानशासोम/सधास्छआप्असददायआ/. | 
+| MG NRGY S eb 
+tagaan ana Raamaa Aan R | 
+_ तरयासी त 4 'सक्तर॒धा। ९९ १इलिदतीयमंडल ५ sig अ | 
+waa RaRa RaRa aR तयैग्यत्ञतःमेष्‌। 
+
+
+is 
+|, a 
+E 
+| i 
+हि, Å 
+så opt 
+s$ HE å 
+y / 
+KE 2. 
+है i Seal 
+je क... Å i : 
+Y } Le MR 
+åå क. ह र, Ga or 9. REE STONY PRR PRAN do ६. 
+fk. - RN Peo Rn REG ár PE SEO NE 2. : sii ३3४७ Bo CRN y 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mr 
+
+
+
+
+
+
+## Page 428
+
+
+
+
+RNS AC i ski ba kn YR 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Se å त त तलका jess धु 
+7 7 9 ù ny 
+. 
+
+R 
+
+
+| 
+
+
+
+
+
+aust जनत! अशचेतसंगसग्नातर वर्रुणे'झग्य'आ। 
+डे. ARENE TECEN ॥सतःवानिं!आडियं।चपेणि! एते! 
+| नस greener am AG TIA रथ्यीऽ३व।रत्या।अर्म 
+
+
+
+
+
+
+| qaot | आदेव आटव जनत! चेतसं! 
+
+
+
+
+
+्यंद्रम।रं अन्नम यदवधि NAER ARN JINR EN 
+
+। शुकम स्स रकि स्य विहाय! देवस्य रेः 
+RARR AAAA RANAR rl | 
+। ताज्या बमधभव/ऊती।ने ker sag suste नः।वरुणे।र 
+
+aten ÅR på Er ९५ ॥अस्यःओ g Ag RINA 
+qimia जां घृत।न/त लं/अध्याया/ साही ऐकस्ये/मेहर्नापर वा ये नो ३७ 
+
+
+स्थाता/परमा।स HEN rear ten fa (अर्न॥अनंते अं त रिति।परिंः hans 
+eek ra विश इवाअभि/वशि/सपभ्भहि ता।हिरैण्य 
+TAS जिव्वःगरेहिवएअश्‍वःवपुरष्यंशविभारवारसद रय ।पिवुमरतीऑड्वासंग्सत।स। 
+
+## Page 429
+
+ra ठम सुंप:/या वें घु।पातं। म॒त्या। रहान naana angia mda 
+धविः i, /न्‌/आग्नि/नयतु/प्रःतान चअ raas NESTEN 
+धिया।यव/विशें।अरूवा।अ RE abre ९३ साता 4 
+AR: CE ।योनो१ओवषादेअचीषो? AUF TIN 
+दा नी ट्‌ विस्वा Rene hrs 
+हेशयुवा।दपुष्यःविभाश्वा।स थिः ननयंत।र्‌ Jagaan 
+
+
+
+
+
+
+
+
+आ. 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Så 
+
+
+€ 
+
+
+
+
+
+mar en KN एत्तका 
+कळ द. 
+i å Så 
+Å å 
+Å 
+
+
+Å 
+å 
+
+
+l Jazo? P E EEE ECE rose ESRA 
+
+
+i 
+
+
+nå RNA भित॑।वि/वो JIANG G NA: 
+
+## Page 430
+
+इयम सा नसभन गामे 
+va ud र ह EN 
+मचह/प्रथमं।ना मं थे agama: 
+FTNA Y aaret ýe, थित रोचव/दोउवरटे 
+व्या/उषसःभासुरअर्यभआसूर Jigga ANA vega n | 
+वाजात नाः! वि'अरव(आवःरवररधारयेतः्युः tere | 
+दससत and ee i वो तय शे चानं अगो ar | | 
+
+
+
+
+
+
+| 
+
+तरं।विश्वभरसं।यलषिएं/ थ चिगऊ ध॑शजठणहरनःग वॉग्अ वनः तंय å SEELI 
+
+| अरिंति।य जियानो।विश्‍्वेवो।अतिंथि। मानुषाण अग्निः देवानोiअ द्वच 
+nami १५ iya azana दरः न 
+
+
+
+
+
+
+
+aafaa azian aq 
+
+
+
+
+
+
+तरतूरतिंपुतारद/स वस्‍्व/मन्ये/सर्न सा 
+ie nat 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+ia EA शातानमा MINNIS SES P = की कब 
+
+## Page 431
+
+pi pT TETTE j raven तम ENE ; हु य 
+~ j p ध 
+| | 
+र FE 
+i ij B: E 
+| $ eg $ 
+3 å 
+
+
+
+
+
+| mäe | arena å अप्रःरुष्य॥इ्डास्वान!एक्असुरा प्रजा: वन! EN Ru T Io 
+Ek satan ९६ erigert drap वा तस्वीर | 
+anang सानसी sigar 
+शिवंदमंड्‌' अतिथि दःररतएओ देवः guga a धुरो maa IG 
+चायला क Bleier eE ।ह॒विश्यांवि/अर्श:/न! वाद 
+men a दाइवां E EE ETIE KE ECAN E 
+झुणवंते/यतेः ga ND ll RULA di 'वरत/अधःयोः। 
+| र कु ।र्राथशत्रीतारवअसव होता 
+MIREKA विधतः घास ९७ ॥दितति(अवित्ति'चिनवत?विविहान्‌रडे ३९ 
+| Í 
+
+
+ee 
+| ES क. 
+
+
+$ 
+१ 
+tå 
+
+
+चएर॑व!वीता।डू तिना/व/म्तोच/शाये।च'न/सुःअपत्वाय। ब्त 
+| as 'अदव्या॥निऽयारयतः G R DURLAR AL एताच टूम IA 
+कार ॥लं/अग्ने/वाधनें।सुःमर्नी ga nag g विसर लभर पाशमा ना 
+dangin åg senare ERE ERA 
+AE BoB A a å ugras rer मा दुःउपसं/्स हि 
+नबी di वेवर नुत दिवःयृचाः रसभभवेम/अदिरुमेस uradi 
+i 
+
+
+
+
+
+nge nA arte syam Riz sand 
+RA gay: ud naghari 72027 0505५ 
+टेक निमाधमंतः॥ शुचते/अग्निं।वरुधं ते इंद ऊ EEG UG 
+
+Å 
+
+## Page 432
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+Ea. rar: । यतन निसत्मतिउ अ/्मतोना॥विद वेदी अकु न! पे | वि 
+ह)...” se en pork तवना FN 
+| आग्निपुरुषासःचंडटेन चता याड चर ॥०अर्वाचामाकवर्वे ता (सु वरव/छ ते! IV! 
+९९॥आवराजानं!भध्वरस्यःहड tal | 
+4 सुध मनाच 
+भये वयते क fauda: JAANAM: IT 
+भआः re Sy Pa वति सनिम्‌. me 
+pHAVEIuÅ Rad: Evie et Jern 
+ENIRAR MUERA LUREN NENANA NEN 
+
+
+
+
+
+
+37५? KN 
+
+
+
+
+
+| I å नशआर्गः।कथा।मित्रार्य JANAR NRAN २९१कतधि 
+| hs à epaiak स म्द यर त REAS 
+på र IT grann gare sne ME sm 
+
+
+EAT å CIE Sa यामरुतोग्सता क म्ड्ह्ते? amo 
+
+
+gegen Ranas Aka e GE वाता En 
+Hånd anm FÅNE menne mn TT 
+
+
+BEN गसतेने।अर्टि/विःअसब/मिए sidan u 
+
+
+| था å 
+र य age uden R AAA ARET 
+
+
+## Page 433
+
+
+yha 
+
+
+| Aae ar हल्ल दमाचा आवतन APNA TAUG, 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+. वेशुःसतिंग्धो å केक 'जरतां।इये।गी 
+
+
+
+
+
+
+
+
+p amio bri dreg nd i. 
+KASTER gsfaagu man YEN Pr heard on 
+Te ann ad AN “सु mahaa 
+Mb Sa ie मी अग्न/अके/इमान/स्प॒दा। 
+मः ee amaga HRTAN Ra: रा NRA 
+| ot घः+नीथा निं।अ्ने।निण्या/ववासि। निःवर्चना। ga ne बं मतिऽ 
+
+
+मि के २३ ॥ anaa fa RUMIT इमेंन॥ | 
+दअ दरम द ITENI LAMAN 
+YA pee frue imaan ug | 
+
+
+ककः we, डक 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 434
+
+
+
+
+
+
+
+gende Ole तम/भर्वा Jed dra 
+| अघःशंस/यथअं तिं।अग्ने। mer थिंगआ।द KEE EIE i वि प्रति।आ/ ते 
+निःक्षमित्रान/ओवतातविस्म:हेते।य४न।अरी sr många . 
+Re alment SM 
+| gan भिंग मिमामुणीहिरचूचश २३ साते म्ञानीशि/ सःसति।्यावि ad 
+VA: धित aug ६२९ 3० run 
+र्‌ games GT GJEN Freng j 
+| maa AA G: MERARI ZRA fen 
+
+
+
+
+
+
+
+NENNE 
+
+
+
+
+
+i 
+å 
+| 
++ २ SR "AR a, 
+i NR at KEENE! OR SA A i > på i K 
+BENE alos RS NE å bt LAT Ne 3 KE EAN Fa EEE ४ BR Å j y 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+` क्रश E E RA om चरेत 
+Va 
+
+
+
+
+
+
+
+
+| 
+
+
+## Page 435
+
+
+megane 
+
+
+
+
+
+
+
+
+सकनक मस का e e E ARDA NE, Ws — — TTT 
+s - E स =====3===3= === = ——— 
+
+
+
+
+
+
+
+
+
+
+| 4 
+tr dra क gay situ ste सुःअरेक। w 
+ERLIEN samga तस्यत्ाता।भवसि/त 4:70 22] | 
+| smyge ra कान ५. धगे।तमाव/अबु रश 
+
+| शशया NSR RECEN सुःकतो। ry | 
+
+| यः।स; शेवी:अर्त दासः! अदक्षा! अश्जमिष्ठाः। वेषाय A sagde | 4 
+ET senn ag Austre वा नजभा यशस्यः | 
+| a EE s E TLS i E 5 वि सिम रे स्यमानंस्टशाय | 
+Kaen aAa aagana Å | 
+IDET Tap: म ू 'अधदरित क्ष रर g i z ह विच्यवधाप्सलत | | | 
+
+
+Ca र 
+ss दी के. ८: 
+टी. gen å Be 3 < 
+> ven ya 7 me å Å 
+ANT $ \ gt % $ $ €, Da * 
+` at GATE 0». s ETG 
+प $ i tå y f 3 र. $ pP y 
+
+
+3 रत I 
+A 
+
+
+
+
+## Page 436
+
+
+
+st 
+
+
+i 
+fl 
+få 
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f 
+i 
+
+
+
+
+
+vek ar sami ae avd किन smart IR amna a y | i 
+_ तावक्षथेनडः नो ua 
+'मत्यायाखधारवाचशयाकाया 
+
+
+EN 
+
+
+
+
+
+
+
+| ke sh å fa: fi दी | 
+
+## Page 437
+
+fr RMANA: KEN QU | ; 
+
+
+| z gn annaka Ron नॉ 
+| Soran å दं मे अग्नेय? 
+| मिंनते/युरुं।भारं।न/म ug Resa ÅGE GE NIR ni 
+
+
+
+
+
+f 
+Ed 
+
+
+| 
+| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+gas तेइत/चाएवासमना/समानं।अभि/।कर्वायनतीथीति।अरया गससस्यमव्अधिःचा 
+KA | 
+
+
+मी कट 
+
+
+
+
+
+|| 
+|| 
+
+
+seer ध्वा्योव सा: किं'मे'अस्य/यहा ed 'उर्प निधि 
+कवद ति॥य - A णो।अय।वा dagane रि तिरी 
+area! लामा यद A adanan rv KE UR 
+iggy AG aanraak 
+gnag: S us GARNAR २ AR 
+ने न ।अ°शसीम्ातःवेद्‌ः AGENTEN विशवे ` 
+RAGA BAA औट REN कव!ह।रलवि।सः। वोचः 
+वेद विकिलान यहा 
+
+
+कमयो वयुना क दाह'वामअछीयनेमारंघरक नवाज १क दा ने देवीयअसरतस्यःय åk 
+
+## Page 438
+
+& रमवर्णन।ततनव/३' ॥अनिरेणीव त mad दक 'अरयास अ 
+थ्‌ A B वि/अनायूथासंधअ ge ANAA QANA 
+
+वेसो+अ्नी कें।दमें।आ। २ रोच॥रु agata igala: ay TEG aang KAL 
+atanan naar QA: me तायजीयान॥लं॥हिै। विश्।अभि'अ 
+
+
+
+
+
+
+सिं।मन्माप्रविधसं॥वित/तिर सिःसनी की! रहे] Usa eg 9343: 
+विद्र्थेवृ। शः mnsine ताव teke 
+यतरा।मुःज णिंयराति नीधुवा मि वादेवः राण NIQIHTAR EN 
+TE MI NHKGTNHA GAGA ANNEN 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+नः वरस यदरन।अस्व रे यदे Aa dè ४५ | 
+
+
+SETTE ET TTS REESE aaa शा : 
+| | ० : शम 
+` y Å 
+$ § Å \ g 
+I $ 
+¢ $ z * 
+
+
+Lol 
+| | 
+El 
+
+
+oo उराणभाषशित्म mn ।शति)होरता अग्निस द।स aama aA 
+
+
+E e | वा भ १अम्ने | 
+OT aaret aja segdamaasrefen ४ a अडते अणर्सुमअवीड l 
+| | Me रस्यसतः नियंणश्य/चारूगान्यदतेवि।तभसा'व रत! न।ध्व्स्मार्नः। | 
+
+ai ४आ।धुरिविंधु:।न/यरव। सादे नितो।अवारिन/मात रप्ितरा/चु। A 
+| Bonhama: amanda Negl re 
+HAN reagerer k EE TEREE] = AEN 
+gean EF ialt ed ER तरा रोहितास/स aai 7 p 
+अंच॥अरुषास।३प॑ण/सजु:मुज्ला।आ/देवःता EEA ETNE UNEN 
+
+
+
+## Page 439
+
+
+
+
+i 
+på I 
+
+
+| pean अस्ने'अर्चयचरंति॥ येय संभनाइुबसनास अर्थ /तुविःखसर्सः/भा 
+रुते।न। ना रिब्रीस्‌ः ads dn Eger ard 
+अग्नि।म map डः चसश्यं ryster ser थमः धा 
+å नाभि होताय ४:अधे वृ ेअ्यः यअ वानः।भ्द वः दिःररु चुः बने बचि éi 
+SER sø Auka sak वस्‍्य॑।चे तने ॥अधा।हि। बाकि | 
+| aang iaraa Na å कि 
+रर ZRNA दूत वि वस्व॑ विश्वी।यः। af आभि॥आनेनचुः के 
+CEET RE CE REE U Ape ME ।विङितासंनि\सेदिरे॥रथ्बे। 
+पावकः Neergaard me Så 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+तेसं १३ aiutani Anas बा।अधरा 
+
+
+४४ 
+
+
+
+
+
+| | 
+पसून ५ Fuad 
+
+
+
+
+
+ji 2 
+i 
+f 
+$ 
+
+
+i 
+
+
+
+
+## Page 440
+
+
+
+33 å 
+Me ssh E dhe a alana 
+
+
+
+
+
+तं।स*बैद किव अट drasse | 
+Rara: दि र ME 
+
+
+snare TSAR Gaga, 
+
+
+सेः दिकउराण॥विरुख्तर।टिव/आपरोपना तिष्य ते? रसर Langen | 
+| giagia ngaadang Raqamni Rura 
+Aigangquma 
+
+
+
+
+
+
+
+
+
+
+Taa rp a ES e वि. 
+winaa Vag mene ean में।॥हुवृशयव (अन्त सु वु गा व्‌. 
+
+
+तशे i वेस सेवः र तन लयते 
+
+
+
+
+
+
+
+
+RARAN nAIRE AARIIN ४५ | 
+
+
+al en ed dae ामर " ।३३:।अए नरभ दिवान/ सत यते रमे) si | 
+
+| PO ERGER GNR TING 
+ie] ADA giaa NAV ददाथुः।हव्य विःनिभये।ईपुर्ष्यंकाएंथते "वे।राया लेप युर 
+बीयें।ससःवों नर | धाझस्मेरवि*राय/द्विग्टिवासं*परेद! 
+
+## Page 441
+
+yaiz aR a nanmanna | 
+| må PARAN NAABER RAUA RUA ee 5 
+HENG: gre E SAA TREGE Å | 
+उत 
+
+
+Ridia AR | bål ag 
+| तिति: | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+anyagminta ear AT पःवक्ताम ET . 
+
+
+
+
+
+
+
+
+Ji NERS CR E AET RRR 
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+å | 
+य०8०५ so! 000000 gene जॉषग अब रं॥ह थे 
+। ५४६ må å | 
+| | pe 
+
+
+
+
+
+## Page 442
+
+
+॥अस्माके ARTUR maken ट्क 
+
+
+
+
+
+
+
+ते।डः$ दभैः। र थेःभरमान।अश्चोदविश्वतः) Je TETT 
+ब KJE nd 
+
+
+वाळे अथ हि! असते ऋते। मद स्‍्वै। इक्ष॑स्यासाथो:॥ २ थी-।ऋत NE 
+
+
+aarde maik daana 
+
+
+WATST + AmA भिः युव ।अनने। दाशेम 7 | 
+बःने।खनयंति रः वसा EFN सदन इदा। जि HE 
+रचि वाज क्तो।ाश्रिये।रक्सशन। रोचते उपाके ते AIRIAN: 
+
+
+
+
+
+
+
+
+
+
+
+l रंण्यंधववाते।रु कम्रथनारो उत/ स्व था * व्‌ ॥झ dans mager a 
+| i dr re मत/सकव/धशिशान/सस्या/ Ter T ay Ki 
+
+
+
+
+
+
+
+
+सा।न//ना भि।सदेने।स rd ९० गभईंति।अरने। सह aent उपाके। A 
+
+
+र चते'सर्यस्यगरुगाव (र्यी FEHR GRÅ ER । आ।रूपे अन्न) 
+
+सारि जमे मनी क रला drafte NET | 
+देवेवतव(नःराखाशुःमहरारभन्मगतवत/अजनेका me चाः।वतउक्डा।मा 
+
+## Page 443
+
+K तेररा्ध्यानि। सदए लिइ विंश वीर! qn mAA njaman 
+भरभ विः्हाया mm दुरयः देवः KVAPJUIRM 
+शः नसुःवाव!अन्ने/अवी॥ताअन्नेःवरथर्म।दे वयतः देवमती? अशत) मं दर Går | 
+
+
+
+
+
+
+
+
+| 
+
+
+russ 
+
+
+
+
+
+
+
+
+
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+å "पु A 334 म ge i 3 «32 22223 pt et 
+= nn डे EE केक 3 FA 
+
+
+
+
+
+| ऽ 
+
+
+मातते'सररायःस देरव? रिषास'यछ॥तोकायवे नं याय! शशयो IR गश | 
+
+
+| av 
+
+
+| på TAAA GARANA 
+
+
+## Page 444
+
+
+
+
+
+
+
+
+Taos युततोआ।विशसंति!धीमि/द्सूनसं। एह:पंतिं।असरं TARR AAR ' ` 
+
+
+Bigan niaaa A सब न्त कणर च 
+_ समसादभेशअभि'अस्त हे AGR 
+
+
+विश्वाइः; भतिंयद! निः पा nma 0000000 MR सच 
+
+
+जातःवे१/पिकिलान!/ए पोपय Mk 
+
+
+शश्रमाण/मह स्य कक घानशमतिदोर्षाडषसायुष्येन(रथिस 
+
+
+ARRA pt s SE हक ति AARAA RNAAR ARN 
+
+
+तिर विधते।यवि। NMI क। म योय। स्व पा Re yema, A 
+Ayn pp GYTER ut | 
+RUPIN AGRATZ एनंस/अभी केक वोदद्वानो उत।म ४७ | 
+
+
+
+
+
+UELUT TIKER उत/यज चः॥ए दो ३ eg ajIasiesnak: 
+Fumsatiqnang:u ९१ NANAI भय! अस्यत? Rand ångr 
+Adinani gea gasae nanang द 
+rede दृश SEEL Son ॥अनुब्रते।वररुण:/ ये ae 
+fefasnde gangar चरत MA eee 
+भूय च डीधस्वरॉरवि RA gan fra! 
+nä HALDAR डावर nag रश्मयः सूरयस्य/च ऱ्या | 
+
+ner Gå go 
+
+
+
+
+
+
+
+
+## Page 445
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_ CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rake) थे, HOTTER Kop 
+AT 4 28” भनी et Nr ® 
+
+
+
+
+## Page 446
+
+
+
+| rd T R 
+
+
+| 
+| 
+| 
+$ 
+
+
+| | 
+q ya कर्याग्यातिस्विधयाक'!टट दिवरढुँ भ।।सेः संत पा ति।ना के ॥ eng | | 
+वज | 
+
+
+| Få 
+Goder 
+Ve 
+
+
+Ej 
+panna ERE ST ENKEN 2 
+
+
+madaraanan भिः आयास था उरुऽगा था रथेन। मंग्य्‌ 
+dayarnåedug dage KARNINA र वमिः भि चेकितानः = 
+- बहूँवीअरूणीयज्योतिषा।आ।अगाठ/मही। दिचा।रदमिऽभिः।चेकिताना॥प्रऽ वो 
+ताक वी EN E SAKS तवरया 
+HF ved ge RE kl 
+द्येथा०॥ ९४ NT Faner नधम र बनी RGF vå FAR 
+Anla विशि।अध्यरंया ति! अग्नि। रथीः; Jana: ang | 
+३ यृतिः। क्‌ वि।अखियहुव्यानिअकमीवाशद धैव। रलानि।दाश ष याय खुअये। ४८ | 
+रन्‌ KUTT 4 citi क्लच) का hl Ja GTI UJ Tune 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 447
+
+
+
+
+Få पुरारेवर्वाते सगर घ्यते युओमाचेमित्रःटरभनःअस्यछावीरार्ररवतधअगनेम 
+E MG An t ogå UR HÅ dia pk dd PA ] Å 
+सुजय ते। दिवे? हि वे॥नो भंद। यद। साह रि AMSTTITE Tel 
+RAIAT रं॥उत।ल॥यूज ता। ET ।ङसारावा लाहऽदेव्याद॥ व्यता 
+।आ।द्‌ El एब: बां। देवो।आभिना।ऊमारःसा हदे ende आयुश अख। = | 
+साम॑कः॥वे।युवं। दे गे। भञ्विना(कृ मारं NE 27770, जा 
+O ॥९६॥आसलया“ासध, URAMI ठस्य) हर॑यः।उ्‌।स्‌ः॥ त स 
+ EUTTIGEV BE TUG Eg विरटणान अवो ER 
+¬ AG Herfra ।सबने।मं द Gu पोळने उश 
+
+
+
+
+
+
+
+
+१ 
+
+
+og 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+Rat वेथाशसिकिवंषीजसर्यायामन्म॥कृविधनानिण्येनिदर्थानासा धन! दषा। यवा] 
+
+oe सेकाडिः ve er AREI er AA gm pew (चिकत 
+
+| ४१ agg upie ॥खंः। यूद! वे कं महिंज्योतिं। रर जे! 
+
+| च हाव सरोज धा वमासि! न ।य$ भ्यः दकार नऽ 
+
+| Sma इं इ! अनिे।कऋजीषी।३भे विओ षत्री।रो द सीट्रति महि? 
+तामत Fase KER चि।(अमि।यः। विश्की।भवं ना। ब खव ६।७॥ 
+विश्वानि/शक्रः नयीणि। विद्वान अपः रिरेच) स RA भि) ति कमि जश्मीनं। 
+RAAE 5 भिः।ब्रजागोः शि तिव l NTEN | 
+PETELE pe -ik bt sista ते! वज्ज थिवी! से: चेता 9 
+
+
+## Page 448
+
+
+
+
+
+KE ENNIO RA i eee 
+
+
+aRar Ana maage: i 
+या थूरीगोचारुमने! 
+
+र विः। गृशानःअ खोड विं) छ; मनः ma रु साता। म FANS rd ॥ 
+इतिः मिय इ षथःधुम्नः $a वि? TAUG U: अतब | 
+male ANE te send Beda 
+
+
+ET 
+
+
+ENIR सतःचितरहु।नारी। ६८ 4 सिकृव्सेयग्सःर थं। TFT - 
+QAZAN den ananas NTE Ruaan — 
+
+anaupata नि।व है? 7४४ पि å हहा | 
+| TY NANG व्येन सूर व 'र हंताव/अ भी (त्व Agia | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+H 
+
+
+å 
+aa, वौसे'सनिशवने।वे रथिना यार्थ > så dyna EMAILA ATJE i 
+| ज्यो IRMA तिर ।सूरे। ड पा्के। ते. å pk gaa MAAAR ह 
+| av ER BANA हृ dual उ थाः सिंहः नाभीसः।आयृधानि! (fan «å pe 
+का मा! वसुः dugnad है। ने। nad ben 
+सः उके! ओरक।न'रण्वा'सुहृी+ इव पृष्टिः ९९ vågaanddigsed | 
+gma 3 anadh nymi na गध्ये'विदःमृक्षः्वाते। | 
+भरर तिर्या हेऽ denn Re ने: पता तिरके स्थि वि ३२०३२८ युडूके। 
+
+sr JRR सतिः थवाति'अ धराय een CH l 
+Fuafamaneqasaigdaduegsradaiuenaqnsdfl दव | 
+| ह. ग i w 
+
+
+«९ 
+
+
+Pe 
+è 
+
+## Page 449
+
+
+
+
+
+
+è 
+° से 
+
+
+8.१ 
+i 
+
+
+å KRA 
+-RS . R 
+pi fo Kr å 
+$ 
+j 
+K | 
+; 
+
+
+manm रुः ÅR: २ विश्दथस्याः एभिः भिः स्वायुः NT 
+शर्ईशच/पू 4): रव mg र्य ग इसे. हयव नर थे ॥ | 
+
+| दु! वदस्य थानः सरव्या! विशये sr TOT FG 
+
+| 2३ इगचु। खान ३ Fana ने PIANINA को रि/े' हरि व: भें | 
+fasen थ्यः! सदाः साः as verge क्च मं ह 7० 7° | 
+Maaa garaga सिंदून!अहिंनातग्रसानान!! 
+
+vad ATIATI RAN KG Gu gene an 
+तःसुःम्बः र्वे तासः। आ दच! धन्‍वानि।स रयंते। आपः। पिन! AR शरवसा ब 
+
+
+PEERS RN “52: TI CE EE er 
+
+
+- (९-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+I TE TE gg SS TEN NEE - ER z e r TEN SKE Bashin noii A 
+
+
+
+
+
+
+## Page 450
+
+००५ | NA: auelu वधीत gram åeea NAVN 
+| ज्ञ | on re pir ge an निता। मे pe de pl 
+anghang दैङ्अन यः GÅ सदसय सभ्यः एक 
+sa Mae a त न हर विश्वें।म दें ति।रा तिं! > 
+ve ॥। २९ ॥सत्रा। år य । विश्वे साम हा समर हृतम दिछा॥स्‌ 
+नातअनवः वसेः पति! व सूनां दे विश्वा अधिथाः EL कषी PN भेज 
+यमानः अमे विश्वाश अधिथाः उ. कष्टी रति)? वेते।आऽ वयानं AE 
+i अह ad RUAME ž ह अमा Haydgsasfud 
+(या दुत्र।सबिता/।उत/ वाजो दा तो। मं था it bi ORNADA «९ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | NYUINAE! il । एक अयः वा में। भ्रति! ये। Da 
+i ; ta i व ।न यैच?उत' न्न! अये उतः त्र रथ व यूधा।या ।य॒ 
+ह TERGA ro ors 
+जयत !स दिर ण्यास शिया सधःवाग्यः। हरवू एथ : 
+pe Runas विःभक्ता' paaa किचि दमि माद कि. वये 
+सुगम नितगयः।भुज न॥य iiaei HSE å verge 
+| > भेजा लियंतो्वे।अलियेत ळू 3 viagsandissh anias gu 
+Amaza थी 3 त।सता तार! मधःवां nan AAA gal 
+åra aami ev Haga A FE ARARA 
+
+
+$ 
+| HÅ 2 
+H k 
+SER å | | 
+tH, ह क्य tf [न ४ på 
+| i BG र BS Ao 
+nE ` GN : f° Få 
+i ज x द १ å 
+åt > प eR UR AR | OG 
+e< i SSK ar ~ ied 3. RL ८ i AS À ý FOES ४ 3:35 i SEE AES T ii 5 
+
+
+
+
+
+
+
+## Page 451
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vader ven FMA AMAN होता॥ 23 nä FEE EKLE daarin 
+- ko जये 23 नि! यं तेल निः दोअ सितः ऊ ति आय वयास! å kes दर eati o 
+>: बोधि।ट रशान आपिशभथिःरव्याता'मडिता'सोभ्या ANRA 
+णां। कतई कुंड ति। लोकं! mag ae अवि ता।बो थि।स TE 
+
+पड खव qru दिrओ।ते१ चरमः सः बा भिम ४! 
+त: मघः वा यदे।हु।इ जारी णि।एक॑अभ्ृती ARE प्रिय जारे. 
+करे Ts uer k wre rs अ I A å 
+en UN IRAIA /श्रव। मा दिने! |. 
+PA Hen a NARNIA बुः Rangga RTA ANININ ॥ ८१ 
+
+
+१) STA 
+
+
+EEA 
+
+
+
+
+
+
+
+
+वीष; देडधमा मातर असूथा'यर्सवेकरितिक'॥नाआह अनः निः 
+
+० ha निधगम नि! बहू निं। अर mg died 
+åa इख पराः य॒तीम्मावरं/ अअ वष/ ung TIE E KiE EKN 
+alanga MARA AR gaha ate कता 
+MANUREN JANIRIGI ARGA AM ANAA: EG 
+Fa Se sugd माता निस उ y i 
+
+## Page 452
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+manami 
+अलेलाएभ वेवी: NAGLA RANNU छ! कि इ द' भन ति। कृ आः 
+अवहित aS ET RRNA 
+
+
+> न्क we ये "मक 
+
+
+TAY रेईसीरविअयुणावे!जायेमानः २५ १एता।। 
+
+
+pb ee i i ES O 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+i प्रमहता)वथे चंच घन्वाय्अरू यतः कदन जनाला! रोऽ 
+ga ak kl पा टोली ला मर्मवचेव(इंड/स कसर, 
+तषममंद/ उन/ते/भ पः्वन(विःअंसनिः BGN fàs 
+vin यस वन्छ दार 
+gaiiiean aR roaga नाहि KAREN 
+अमी ताति NARA AT ART इ bk Uk ष्याः तरं विक 
+BRUG ROR /अच्क व दायकः hs वः्वरंतकःते हेतः 
+यतानि शिरा ताणि Gr SV EEE 
+सहि योअर्महीयगाना'अथक्षेस्यिन-'मर्ध आभार UNN 
+
+
+
+
+
+
+## Page 453
+
+
+
+
+
+
+
+
+; i På de £ ? è Å 
+j 4 f 2 (4! på å 
+
+
+iRNR ARRA ANRA: हवांसयङभाशगभहाण्उमेशतिःरे 
+._दसीइतिडुडग्सच।निः एवे हब ठेणते।इ॒व४३यें॥अवाअरु मं ता निन्र > | 
+| hiag aaan nagi विषय त। अ 
+ECT sa gnii दशल रव EUEN 
+o maaaninag annaia NA: ईडा d 
+{ pr ke tg 34 ।वर्षेतानाग्षभिग्ादुग्जनयेशन. | 
+l HITA IINAJTE A Vs "ge Se 6. 
+i. Run bk ९ ॥लं।सहीं।अव Fat: Na | | 
+
+_ मयःनमंसा, agamana ian anna 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAA 
+
+
+
+
+## Page 454
+
+
+
+i i 
+H 
+f 
+
+
+MRO , SITAN. VESTS TRAN 
+i 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+पृ०००६ झाँमच्यखाधआविन्वव(ययतीधसंतःसा॥यन्यानिअज्याचाअपणकू दुषाणानाअर्थोक > 
+| ५ खयाटगसुपलीशपूर्वी/उव शर यु दुवंतयचान!/अरूजव( विसि पुन परे: 
+` _स्छिवाःअहणवः्वहधानाःसीराःइड ख वितवे। arena भिः यृ अयुग भर राते। 
+| fasaanaekeannma: > as ।अर्यत?अरि'शाः ददानः निः दतरइरर्‌ः छिः 
+tatara i uglen qansaaasneag वेक्रोसिकयथाःयथा। 
+दृष्य्यानि।रवः यता।अपांसि/शा मे ने! न EE E EE EEN 
+ja IRAR EAT rd Ea vasse mana: 
+Gå Magan 9 ER भिया तुः अछ चीन अवसे/रा Nana 
+aq धविःरज्ीरसंन्यस/अली न वानी de re RRJET 
+
+
+
+
+
+
+
+OREX CEPEK शौन ।सया।वयं'अर्ययआजि जयेमउशबं 
+ee igam FNH FT ugga! स्वथारवआपाधड 2 मे BRA RUA af 
+से।अंधसा/मभद्श PAU Få arr å कन! वक ETR 
+ANANA AMARA id 
+
+
+Manya 
+बर्‌षाणः'तविषीःवःउ य्रश्भस्मन्यं GE हत। रायः ua स्यः 
+gagis au गो नो १ शिक्षानरः संऽ३ः au AR: 
+amaaa Rugaas a uret goengan | 
+
+
+
+
+## Page 455
+
+
+
+i | § 
+39 åå र ` i 
+4 $i $ * > 
+ANA i$ t E i 
+> al , | A 
+>" व्हा i र ; s 
+RE, PREG T å å j Ess ; al 
+KE ål ji SS Ge aa å Du : bisia $ FR ९४४१. 
+iis 2० न ME ON KN ono कक ५452 ed TS ie NEDRE Ge ek Fi Le i S 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+AYGggERÅFåu ३ "गिरिशना/यमरवातेवा ` 
+कर सनादाशएवासहसेत्ातः på ॥आ३दवो!वततस्ठ विरेन।थीसः ड्राई 
+4 बु/अश्ि।न/शध॑सभआउमरीवाम गी o 
+
+
+t 
+
+
+e 
+
+
+0 
+SE] 
+
+
+r दिये an RENEA erd ma 
+
+
+
+
+
+SN EE oS 
+
+
+x da a år sy Na i : $ d, Ole 
+å 6) VAGT! | ०) ३४ i | 
+
+
+| vag WRIA serte INTET Gi 
+
+
+वानः कसत iaa IRAUN panie ği 
+ZEAR on ANDIFA RINA INA MAARN 
+anradh RARR AN सू।वस्य इह्‌ शाण 
+
+## Page 456
+
+निषदे सुम क सयक विथन सहा VG | 
+NA. ॥५ट्विशआ।पू Ramanan पुरी षा द्॥ me 
+pb दवा MURAR राश र zf 
+aaay ngagada nAdA aa nd 
+Re narr iangan ५ 
+
+
+
+
+
+
+| t होता न त्यद्‌ d: EEG BL KE N 4 
+R ल AS E a १ 
+
+_ भावेरस्यारव्णगसिसाते, शाय: ्नुवतेम्भरोय॥ यहा यद VS, | 
+NAARAAN RALIN ANUA: भिः ipes AAN 
+Reader nag aangkas 
+उतपातय a are. TE | 
+
+
+faTastarga रतिंगशवावरची इंड सत्य) संःराट गु 
+
+
+
+
+
+
+gere er ग्धि।रायः। सक्षीय।ते।अ 
+र व्यस्य॥ ou È gaia दव्य मृष्यत! च। व dat IRAAN 
+| GRNT aR . 
+
+
+== 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+प३०६ YR दमी व॑साथविभवएरतं॥ड्वी। 
+ei TER: pas ERE EREU n 'परुथ्णी उप 
+
+
+Ome Ed p 2 TERRE HØLE SLEDER ETEN SE Vær वराला > ed rm msme mem rm ren "लिफ 
+५५५. sds त Er TT Er TST तअ H 7 i ; 
+
+
+
+
+## Page 457
+
+
+
+
+
+
+
+
+
+
+
+
+
+| agn भाक वातमःजाय॑मान/मह/्वा 
+: AREZ pr negar EN ।द्याअभॅन!रेजयव!त्रासूर्म॥ 
+AARNA RATAA LNA: pga 
+mAAR bacon हानि 
+नु यद्‌ शरः Er कावा å | 
+UNG ॥०सत्यावुविःचेभ्णाविशश्‍वाप्रतधेन qi fut 
+धंहु।खतरुपप्मन।भियाना/त्रासि धव।ल वैसा! व कत अर गह 
+
+
+
+
+
+
+
+
+
+
+| d 
+fi 
+| ताः रतिं देवी?अवऽ gaa स्वसारश अतव nagnanasa 
+
+
+समतिः AARRE RARAN चिदिते। के वे(ऊती हू थे। JA RINT ir 
+
+
+gs FÅR दियी अंश्ुधमद्य॑/न/सिंधुं+आ।ला/शर्मी।शद्ामान स्ग। लिः 
+8 STAR på aena haa ओर से aR lia fan 
+IR नि।सत्रा/सड्रे।सहाँ सि।॥अस्मभ्ये। ह तासुःहना नि।रंपिल/है। व 
+agya लेस्याअर्माद दर GIRARE चित्रायडपासाहि/वा 
+i ब/अस्मभ्ये विश giamh gg वन्‌! बी थि।गेए दाः॥०॥ <॥ 
+AA IREEN अ बाध।अतिसोम।ङ थः EINEN 
+ost gare श rat gl RE माद TENT 
+
+
+
+
+
+
+
+## Page 458
+
+
+
+
+
+
+“डू € 
+T \ À j- 
+Gu (0९. ३7 gle SRE 
+FOR है gn SS हर På 
+IN S KINS S Hy 
+ND wes SAR 83 
+Bo 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+art Mame am Jå eg 
+| gman YR aug arsen Ear adja aiaz 
+RAAZ TEE RE CEGE CE e aka At Eeka ने! Sal 
+ब।कथा।क SEN IFE Sande सर ।जुओो ष॥ कृथा। क व! 
+RAET sg gar ahaaa ९ UNA TAG सख्या 
+सरिदिऽभ्यः।कदा।युःते। 'ग्र/न्ृवम॥ शिये सु: «ix ERAMA NR | 
+| 4 Aym IG «VIT grå aud egen aAa | 
+aroma parer aitan १अज्ञी aq nur Rue | 
+råd grat eu ane aaret बधिरातत रे avl ५६ 
+
+
+
+
+
+
+
+
+nm gg REE PE 
+
+
+i 
+
+
+Å 
+4 | Sa 
+pn PER wm wb pr sv + A bøn 
+ANT ON BD ot 
+j) Co GY FR i ® 
+
+
+नः क वमान! AMMURA RR ENR A NG SA भत | 
+kål rer andre nA ng iaa TA d 
+बां।तुरायागऊंर तिं।य युगासतायी णु थ्वी३ ति।बडुलेइ विंग PN | 
+
+## Page 459
+
+विग्यरमे३तिछुहावेरति००॥ १० umga andagi AAN 
+gaiaz rr सिथा नज नासः 
+न aske सुरतः ३ सृतयः चासः यामन्‌! MARNA 
+ITANA ap or zA डे के! ९९ दासः तृन्क। 
+Eau मिथ यद्या 'उभयासः'अग्मन्‌रनर तोकस्य auga: 
+AUG agere aaa maaadaaa 
+| | 
+
+
+f 
+TE 
+
+
+§ 
+
+
+nt i D aa in ai 
+
+
+.. CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+९५७ 
+
+
+em meo ===> न DENS 
+कु हह co ; 
+
+
+ji 
+å 
+
+
+| part बुध्या/आवशबानेमेंपूंदियते/अभीकेणआव/इदह kid mar 
+
+
+INDIRAR सो म॑धवि।प्‌ GMA खोकना | 
+| Sadari ९३ n& onda as rd la 
+
+
+_ Handakaqå gaard en हावरा नरव Fre | 
+
+
+रेचीवएटीनाः दक्षा mann rade Eden aa 
+
+
+RRIARI sen विधाना/प्रतिगमनायोशउचरथानि।ह RA AARE 
+
+aadi aan area G naga 
+
+
+## Page 460
+
+| तयः aan वली'अछ gun आ।निः Mitraga: REN 
+
+RUNA Fu कीतयअक्‌नि वेश्य गन 0 सा भूः iA आत 
+sit ५५ 
+
+
+-| \ LAN 00. 
+Å LINN कहे rep een ak ØP, Ma TP, 
+«MN | a c है | å hø LEE ७२ / 4 र H 
+\ v N EG 4 
+
+
+- | 
+å 
+
+
+- "थि 3 रामि 'ेध॑नव(अ्यणएनं ले नेः दद ०॥ ९२ ॥क्‌१अदय न्ये वरकाः डा 
+| siaii रा से!वायोयः्सेः दे, अग्नो'सृतःसोमः.े है | 
+कः पपया क: 0) 
+Agnia Naana देवानो aaan | | 
+KEE Eas E E EEIE अग्नि सृतर्यी EURIE UCET EKSE 
+auaMorfanntanndjaara पणयात! सर्यीडवः anaing — 
+| namang nes mrama तिन वि।ब है वे! न (९ स्ना उरु 
+viner NÅ GE EE NYT 
+यशअस्य/सीमी॥ VG STE RTR GRS EL = 
+
+
+HÅ 
+fi 
+
+
+
+
+
+i 
+ji 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+RRR RR Jind fd lids disc ds bE 
+
+
+र 
+
+
+| Q लर ६ du से आपि।नासरवारन!मामि IŞ; as जञ वदया i 
+
+
+
+## Page 461
+
+
+
+
+amu RE: GREN NIKIL ANINA RIE 
+č (ननं।वि/स खंये। युक्त येके वळ: यूत इ ग्य FN RANA! pl 
+
+3 anad ACE AnG ध्येसाचाः मवात संत हते ॥१४॥ 
+हंग्मनुशअ भबं।सूर्यः चा अरं geat arr en विर आर कत्सं 
+
+4 FRY ERUTT au måndag 
+
+| "अह NF GS eki न बाहर 
+AMNI $aqdu वोबेरस्य।शतःवमे egna: anser 
+AUAA MUNGA E AREA RRR RaR ng ५८ 
+
+
+
+
+
+
+
+
+
+inner E क E भा" a EPS 
+
+
+यला।अच ऋथा।यव' aqa ga धहव्ये। भ ar बरस एं।भर्रवश्यदिं! वि अवध 
+aman kl ee a न 
+दिदे'श्थेनः। अ A nr यराउवर्त/ शा कुल मं इ। मर्द सोमम्‌ 
+इ र वःवो च्‌ दिवः।अमृष््ीद!उवउव॑रादरआःदायग आरद न 
+रदरसोमंग्स वाब ब्र विगश्च्ञदाहरअरीतीः महे 
+_ स्पासूराणअमूरः। ९५ TIGARA vr Hakna amA 
+argon झरा 4 न aud A 
+Pa भ्व मीक र पिशअजहातअर्तीःउतष्ा 
+तावएअतरदश्र्ुवानःधवशयदःयेनःअस्नीततअध'योा।विध्यदःय das: 
+
+
+
+
+
+_ CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+कम n nn —— å ssns ” - ——— - - —— 3 — त ` व तताः - 
+$f | 
+$ 
+fi 
+| 
+
+
+
+## Page 462
+
+| eat इरे घि। सू नव?यद?असेशअरं ह RIR ऊद! भरती ag pot 
+
+
+
+
+
+
+
+
+
+
+
+aaqa ikana Aan RR N nA GARDA 
+- हु सा जगा naa वे रि AINA लो र्गो 
+
+
+Sr आशपिव्यानोमघः वाने अं घः आध्र ans hb ४१ åduad 
+
+z Ah pm is an au ९६ ॥ला/यूजा।त व ते RE 
+and ANGIS GÅ RAREN ARRA हिअरिणाव!सप्तासि 
+haamana २३ 'एवानिंश्ला IAZA बक 
+
+र सम इति॥अधि वें आनग DNG 
+धावि/अह॑न[रंईअर्दह व! है ag TR NE रर 
+
+
+RRRA अरूणा अप्रःरास्ताभाअरबाधेथोअसणते/निवाचनाल 
+
+| eta DE E ei: e E e EA सी म!क वे 
+nasmarzåå sakens RJ Gaga ९७ गभा 
+| J NERAN gM NRR sAr हिरः RASE | 
+| ITÀ gi UNG त्यऽराधा।ओ! माति 
+
++] नः सेदः गये सुः TAN ap /सुखानेें: 
+| मदति! सं'हग्वीरेः। adgangen en stag ETE में 
+
+FRINN mata 3 erd I ü 
+
+
+| ~ नायावो।पृरुसहर्तरो।शवी।नि। SN 
+
+
+
+
+
+
+
+
+
+
+
+## Page 463
+
+
+
+
+
+
+| 
+| | 
+
+
+
+
+
+RENE | LRT EE SEE ISERIES 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+अ टक 
+$ å 
+
+
+| Ti 
+če 
+
+
+di aa य!कंपअरिँशाः ईड्‌ सखू 
+
+
+arrange विग्र हव॑मानं गर्णते उ प्स rea 
+TAR REST: हलाल ५मधः्व वाई टू/वि भीः 
+
+
+ये।नै।स्याम। ETG TU त भेजा नास बहलेड दिवस्य! श य! आऽ EAN 
+
+
+3 
+
+
+| दावनें।युर: Renge ॥ न किरट ल हम Fi NMA ENE IZN! | 
+
+
+बेकिंग यथातवं॥सत्राति!भ कुरड्या दिश्या! चका व। ३ रत! सत्रा'्मेही 
+FaRugan विश्‍वेम्चन/रव!अना चा RaR: RRIJA FM 
+
+
+| leid it ag ae कक बि 
+
+
+चाभघायतःदि वरस्य ps स AERAR UA 
+
+## Page 464
+
+
+
+॥ग्ल्‍र/आवः/शर्ची मिः।ए तर (कि mAAR 
+
+
+दुः नरसःवन yaaan TEKER विरः छ ततशयर वध 
+न å रे (इंड/ च के ie pga gr NTE व dk Fuad 
+
+
+विवरघ दु हिवरे! स॒ हान! सहीयमांनां १३ षरे हू इस RATE "अर्पउवा/अर्न 
+
+
+O RAREN पल नि'्यद?सी विरथा ५ २० गए, 
+
+
+Farr कये पसु ERU विः षा शआ । स सारी सी प त "डत! 
+
+सिंधु snu qru परि स्छाः। हं ड्‌ maa gal 
+
+gig TIR, zt aaddag bagen EN सा 
+"JADE 
+
+
++ 
+
+
+कालितर'इुदतरत परवचा दरभधि।अव'अह aia ed 
+
+
+दर्वि न॑ ug हेखाथिःशसाअवधीः॥अधि।षे ARAS IN ag उवा. 
+
+
+lg 
+
+VER 
+
+088 ® 
+ES 
+Å vr A 
+20420 
+
+PES. EA N 
+
+
+BS RS RTE å K 
+
+
+
+
+
+
+## Page 465
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+s 
+
+
+Ros 
+RE 
+Hå È 
+$ 
+A 
+NETT E 
+ji 
+fh 
+| 
+Då 
+y. 
+
+
+
+
+
+| | ME | 4 L eo oa ह ; | तात्या! | | 
+pat | संयु परेतः तुउ च्छे आ/असतके ताता | 
+| ह amaaa y पतिः jk टग विरावरअपारयचेगऊता å 
+i gima anmada RP re | 
+
+
+$ 
+
+
+smaa आयास रथोः FE पार Raven | 
+
+sam ago po NERE TAA ते सुम्नेअश्‍वे॥राते अ, 
+दस चेर मयी नां शृ रो। å MAA दिवे दासाय! दाखव ॥ २७. असवा 
+वयद्‌।द्‌भीवंये'सह (बिंशते।ह थे:०दासाना डेड माययोगसःघ' ह 
+AAGE समानः ह बतः यः ता। वि aars | 
+नानव AE snaqaruaasmeqa | 
+ARNG URIQ अयेसाभ वा से NIRA वामदे, ६६ | 
+
+
+Pinte ps ती UMN भुवढ्ृ/ऊती/सराप्ई धः।सरवी १कया। हा | 
+Guge दारा AR Rena YRnE का विवर आः 
+Hagn gaard daa Runde Rig As Eng 
+fiansmaauI$agå बतः YU मि च बे eu g: FAR 
+EE डक के अभि ua प्से।यव/ते AY 
+वसं प्या णि! द्ध न्वरे सेर ति।अ थी auga हर | 
+मधः E: k SEE DEIS HERE वत्स Anaan 
+| सु र विव!मं हसे! क्सन हरस्ते रा ते चन रा agdas मर 
+mera रिव्यतभाअस्मान झवत! ते राते TE RS 
+
+## Page 466
+
+
+
+
+
+
+EN $ 
+RO $ s ; 
+Koh à Ai ण ; è केडर र sk f ही i dda | 
+SE > eat Ls BE LYE NP i SHIITES RR Sa + MNT PRN, de 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+Vogo MNA श्वां। अभि ए यः।। २५ अस्माच!३्‌हे। दु RIMAR ağu agun 
+[| दि शिते अस्मान! अ हि Z nad RANGI यसा आसमान Gan: 
+| Re fås aaaea र्‌ धि।जजा ने! आस्ताः इव Ra anané " 
+ह ..; HAs FAM EREM LAIEN थुध मे शप्यु:। या... å 
+का aigat aina EU CREEK] nag ug TE 
+
+råd smakiaaaRQGg तिए मि:। समि वितरघ श 
+| ord å AA rn /अ तये॥द्‌ Ru Gan 
+से! rdp QT TE त च 
+ला/भ्रभि/नोनुम /॥अस्मान३अंस्मान(इ व!उवशअव/स/नः/चित्राभिं/अड्टि बा ६२ | 
+| | | 
+
+
+
+
+
+
+
+
+
+
+
+
+EEE ल 
+
+
+
+## Page 467
+
+EN, på på हू, : स t 7. 
+E गो” ie STANS 
+
+
+az As भिंशाअना थ हामि।आधा हि २३१ hs यामो३्‌ Å सुततवाः वं त/सर्खा | 
+ह unger daud ri idn: EY | 
+aal? त wana RA aaa ai | 
+वेगः॥०॥७ माके दबाया de I EA | 
+7पृर॑/द! सीं+अभिःस्त्यै॥ ae nai IRHAT स/यांनि।च क | 
+NES ar nor 'वेर्‌ ति।स्तोमरवाहसआएवृ'थाः'वी 
+| Tears anmaim man हे५अवी-चीन:! 
+श वरया द a a gieda 
+ainmeii आ।वर्तेय।हरी Ana Ng 
+
+
+Ve Ayr RIST GASS! ५4 न ने ८ Kj 08 
+ay MORE ४६५”, PAE 0 A å Get Å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+f- vat | व्यती नो तयु सताने डे। å 
+FR 
+
+
+|. Fame ससा! कर TEN 
+SE EE यतेस ! 
+
+
+
+
+
+
+
+
+
+## Page 468
+
+re i EET re यमाला 
+
+
+vga eg El AE 
+
+
+am qi AAR VER ॥ QA: a på fs JAM Gin gauTNAU 
+ae å TAG EN : 
+
+
+बु।शो भेतेशतिं॥ सा था 
+शे यृत्ञसि घाः ३०% गरविद्तीयाशकेपक्रोध्यायःसमाप्त/॥ ॥ ७ ग७॥ 
+
+
+am डुऽषरे'अ भे डे 
+
+
+i 
+Li ५ ; å क 
+
+
+
+
+
+
+
+à Tr are परैः सय: आपर्सः PRETU 
+danada परिः बिद्दी बिषणी। भि enda 
+ख्याआयन/चीरौस;ए९ं'अवैहनए सत्ता गे/पुने। iE BEURE 
+
+ए युषीःरवभ्नरणा।एयीना॥ते 
+
+
+
+
+
+
+
+
+
+
+UTQU 
+
+
+
+
+
+वूसा।अभरन/भार्स+अस्या:। 
+anaaga 
+नर) 
+
+## Page 469
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+"डर åå anda स हस्ते? om व यं।ग बी/आ। 
+RINA PA AV udi TEER Å MR MUAR 
+Rs दाः असि! LARAN EL EGGE au Fs at HNL 
+
+
+
+
+
+
+
+
+
+
+20.6 % 7:20 EOE SIAE ANAT TO न रकाना m क 
+er AG er SNS, EE EEE हि 
+Rd Lå OE tes 20), POE" AS 
+E 93 कर्त Te y 
+
+
+> å : 9 ; Å i = sed SR 
+h `: > ; Å 
+7 } j E ४ ; a ; 
+१५ { > - È Å å 
+Å i à KG S 
+
+
+Anna ina raa RA AAT येनु। Få 
+
+
+Se है /222 - क 
+kr En SAG ae gar ध्या S tS 
+DE PRE i Ee 
+
+
+
+
+
+
+
+
+
+Eak Ey 
+
+## Page 470
+
+£ 
+ya 
+
+Rå 
+A 
+
+
+E ` EENE GAER Sea | 
+` Agaa रक त oe कम kma | E 
+AFART |. 
+कून? 
+
+
+
+
+
+
+
+
+
+
+
+
+gog 0 | agn STR: edu aat यमसान r a 
+६७% RIJAL ENEN सरस ॥आतिथ्यारणी - å 
+x 
+
+। | : radias RAA RARA ALAALA 
+Ramdas A Ra aa aaam | 
+Gerard g aaraa: 
+अभि।ऋल्ौमर्नसा/री ज्यीना rart टेबनॉअभबूत/सुर कमी हटैस्य। कुडु झा भ बरी. 
+सस्याकिऽभ्यौशयेहरी रति येय उबथाममरेतःर्‌ दीया भ सु re 
+zazione: 
+dyaan RARA gaa a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 471
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+भ REEE डन? अछ इसे ।य तो र खः येयाउ कयात रहब 
+3 ] तायो अस taan अन्मेनधवासः र' 
+| तष्सतः भयस भरः mgg से वे! मद ange ugs वीर AA ५ |. 
+GNIAR ARRATIA QUMA JIR R ERANA 
+HADIR ANMA: mae manual 
+TANG: यद्य QA, qn nå nl rad 
+सर्वनाम vore ar rad FTSE Frat 
+
+
+
+
+
+
+
+
+आ।कपीतय/अभिःपिलेशअ ड्रॉप मा।अ रत्न वसे ZUMIN ३ NMA! 
+_ शवसा यातन उपस यसं नमंसा'हुयमांनध/सूऑजोयंस।सूरयः'यस्यच/स्ठ म 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 472
+
+
+SN 
+_ द्ररासमआ'अगदेर स ZIMIE FYRER 
+
+
+दधि जता के 
+
+
+| Yooo vu यात्ारल+5् था TERG us l ure? PE kG t 
+| ६५ 
+
+
+LAAR nag NENNEN pre था mn 
+3 ranerne que rer स भ कः पतेय wia 
+
+
+
+
+
+
+
+
+
+| MRR apr fr aan Gas ती थे 
+
+
+laden सर्वः ये! tang NINI य: म्बधनरेः 
+"याया 
+तेअय्रेडया/सभवः'मंरसा nimaa R anA 'ग॒वोलिं।नाअप॑ अः 
+gr araman ` 
+Fen aars AUTEN ४ ०३्‌ह।उ षयातः्व्वसःनषात्‌ः। ६५ । 
+
+
+
+
+
+Å | | Å ४९ X 
+
+
+
+
+
+
+:पेयो।गर्मनु एूं उभर (३: 
+be तस्यपीतिः।सुः 
+
+
+AGR Å Fan i ble drag: ki I | 
+उभय सिवः रससगएवःरास'्यकायन'र, | 
+(तर? विशव ध्व संव मर्टायापातासथेवभ न म्यस्य ` | 
+
+## Page 473
+
+Mad pe ना।ब्याप्भकती चिमसे दिवः niang: 
+Rs Å ESU dike यवृ वाऽ २ å egg नो वित भिःपि ले 
+तती श्र! वामाससर्वनं RARUA Rjg: ।सर्वश्वीरं।आ। तलना T' 
+
+
+सयंनवारसदः।माअवं। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yom & 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+ex $ EaD 
+
+
+damang पिव/हुरिअ ख/माध्येदिनं। सर्व केवळ ते] सा सु 
+
+
+ar लर्येमिंतसरचीनाया २ 
+KG अक्का नः:ईव्‌ इनर दिवि निःसेते।रलग्यात'वावसः/नपात्‌ः सो न्व 
+
+
+mataanan यतरद सवन रलः पे यअ रेयु Es TET ह 
+नालसे तहस Rs a que nag 
+
+रथः बि चकष र!वतेतेर्जैः। मह दते! वः द i नंःदयोसभव ३ 
+diaa yee GA Se सः/१ रिध्यर्याधतान्‌ डं रतिः चु। 
+Amaj Heenan क आ 
+रह प्रवा चूने दे: me i anahama 
+
+## Page 474
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fh hanana panaman ar å 
+
+
+: NARTA ILEA: 
+| धं las ृ्तनासु दुस्तरः गसः रायः Å 
+
+
+i नागद 
+
+
+Å z 
+så 
+Å i 
+$ 
+He 
+li ७७७ + SON 
+
+
+A NAARAITA तु एन STRANDA | una Ni 
+
+
+शुष वः तमरआआन॥रथिं।सभव/त क्षत/आ। व 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+di ३ बयं।निध चर्मणश यो अ 
+diga maske redd RÅ त på bd st 
+
+## Page 475
+
+que un an 
+
+
+qian nguri tandi 
+EN बर्णाभ्य/परि।विद्ोस।विशवा। न og 
+
+
+
+
+
+SE 
+
+
+a gnom GE NT सघ तये ९० tl | 
+AFANA 
+
+
+KAL 
+gå andra SEENE, RAT ETT SAN ARA 
+
+
+
+
+
+| Mäos FE grua aatrnugagå redan 
+| > ६७ 
+
+
+
+
+
+
+अन्या न ÄTA: gpa ८ बउपानथवाजाभओ AL TNR 
+याता याथिः भिर टे वः याने! यथा यसे AFR FEIN थि घे।रण्वा 9 सुः दि 
+agaga vr बुग्य॒ज्ञागजुर्शसःअद्य।एतः A Ragna 
+
+
+$ सुतासः।हरयुंतःशूर्ण। कले! यार्यं त्‌।वीताः।विशउ दायं देवः हिवं'य थाव! ` 
+
+
+प असव जरासा युक्षेरति'सचार्दर 
+
+nude शा चवः रथाश ह्‌ हट प्राथयाजिन सः नि 
+NZEA FERIE था garr Agia बमस 
+mina as g Aug oe ।सदाएसामेम्अदिद्ने॥ ९ ॥ 
+
+
+
+
+
+
+## Page 476
+
+
+
+
+
+
+बः अवे feer seres चितयः यवे समभये। खूर यः EAN 
+| Aa ee EE EE EE 
+
+
+
+
+
+रम्यम g Ea DEE सां घनं ee spå 
+
+रुनिऽशिध्यानं।दे तका तिदद थुः! विश्वः रु शिं स 
+| विष्ये वः भृयङ व्यभ da नरे ngadinan 
+| विश: $ म MANZ: andet यु।न। 
+
+
+ra Sr | 
+
+
+
+
+
+
+
+
+
+© CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| साइवोसमेंव:येअव॑धायूयइंडः/च/सर्ख सम थी मि STR निता।मे पर साती! | 
+
+
+Qas (ख यछ चा विश सजी 
+
+
+ge 
+
+
+
+
+
+
+
+
+panhia ajai कोश ति'क्षितयः। भरेंघु५नी चाएअ 
+सुरिनाश्येने।श्रेव॑।च।अछ।पथृगमत/च/यूथं। R १उते।स्म/आ सु। 
+रिष्यन!निविवेतिर्रे णिडभिरथांनो॥ स्त्र rv dts 
+
+## Page 477
+
+BN ena AUFS Raa parma ना 
+du बुर Agge KA HAUJANA 
+धन्य 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eH के t 
+
+
+
+
+
+
+
+
+
+॥मोउषसं/सूदयलत/अतिं।विश्वी निएुएउ्तीनि/पर्ष 
+हुः वके भितओः क eres NJE वा्स्वटुष्णःयपूर + भ्य॑ध दी दिऽ 
+xe eg चावरुणा/ ततु RAAR ह as 
+39 E TÅ aR aam भि 
+UZR et la /मरुतोनार्म। भरे ॥ 
+a डबे TERE] दउभये।३।६ 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 478
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gå उपः वर्य ।ट्‌विः kua bad 
+
+
+O 
+po 
+o 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+कविदर्था। निः ARJA zal AE KAKAL | | 
+gan 
+aug 
+र्णुरे | 
+As र 
+mangra gainan aa R | 
+dy SG 
+ruger dang Ge ह दक्र pipik i 
+
+
+
+
+
+
+
+
+
+
+
+
+& 
+
+
+## Page 479
+
+
+| 
+| sen ANNE ÅT 
+A anha rm १२ ख क स ag 
+थिव्या/उत्त/चकिराम!छ 8 
+
+
+| 
+| 
+
+
+| 
+
+
+
+
+
+
+tH | 
+न 
+
+ga 
+
+EEEo NTE 
+
+
+i 
+p5 
+Sa 
+$i 
+g: 
+E 
+Så 
+| 7 
+Br 
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 480
+
+
+
+LE 
+
+
+3 t gg! ३५१% (SS EA 3 
+2 å kler Syr रका E ENE ELR ETE OE ENNEN DE 
+fii POR Så FS "SARIS SRR 56 2 
+~mm m o g RT ER 
+
+
+र nn ee z RI, 
+हरक ने ०५०७०७२. neon 
+
+
+Yeo अश्वं१ट्धिश्काब्णः ai gm अश्वस्य वानिरः।सुरभिःनः र 3 
+R 
+
+
+आयूषितारिषत। ANJAR LAR ARVUR RGIA | 
+EERE UE KAKE ARREA Gea TA Re कव्या: स्तवा/भरि 
+
+hl SE aE © Stia SA SAS KUE, d 
+LOO EEE ऊर्मे/साजनद/उ AN TECE T र | = मे 
+अर्लवातिपःगर्टिनं॥रयेनस्य रब! प्रतेव/अंक åra res काः सह ऊजा! | 
+
+
+Freia Ag ba PJ aage सदस <i 
+
+
+EEE CERE c ९४ RIT EA sagen 
+
+
+gs en Haaren M 
+NRE सानेश्अस्मताउ तःप | 
+
+
+sn 
+
+renere: हय | be 
+agamer ende dd 
+
+Edam mast anagasfriqug gaud 
+
+
+Så pa कल 
+भावेति पत t anana 
+
+
+| as å > (डक 0 aa RAMA लि।ओअ॥०। 
+
+## Page 481
+
+aenga प ss UTG: द्‌रयवंसाः द i 
+। vea यसा।मही।गोः। ९५ ARRIEN iRam z 
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+~ पह ग. 345 
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+i 
+
+
+Få! (अव॑से/पृब्यीयाप 
+GAGN åR 
+GUY 
+
+
+
+
+
+
+
+
+
+
+## Page 482
+
+
+
+| 
+
+| vege अन्रावरुणा aard: fr ट॒स्मा।परिंः्त क्म्यायां t 
+
+> र zadn aard आ 
+|. | डू डातप्तिराशडवे। JAH! ॥अवसे।वातः 
+
+| र Aga: चय व॑ 'सोसअस्छुमउंड शिरः (वरूणे।मि/म नी बाधा 
+हतर नी IAMAI डविणेग्डळ्मांचा॥उप TA nes 
+वस्र" रघ्वीऽरवाश्रवंसकषषिश्षमाशा॥अश्ब्यर्यनारथ्यस्यरुषः न्यस्य रायः 
+era Vr de की ati l 
+भा हंता/बहतीमिं:/ऊती।इ दे प्यातं/वरुषावाजःसातो यत! दिव? नरो | 
+प्रःकीळीच तस्य वांस्यामासनितार'आजेः॥ ९६ "मर्म/हिता/रा्ट/ RTR: ७० | 
+
+
+| 
+i 
+SN 
+å 
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 483
+
+
+
+
+
+
+AMAR ahi क नृते वरुणस्य देव राजा थि! के पर म n 
+NEM ma S a रयव॥०अहू।/इडःशवरुणः KE 
+हिःलाउ वीइ ति।गमीरेरतिरमेसीइति।सूमे केर 
+
+स ऐरय्‌।रोद॑सी३ ne च० अहं सप ओ GIN: 
+
+
+
+
+
+
+
+
+
+
+
+NI शोऽ र ३/विश्वा।शु वन नि। 
+रय दिविस 
+
+
+
+
+
+
+
+
+
+
+
+
+
+| på EE s बा ह/उक्छा नसीर 
+पारेरति।बिइः।ते।विश्वा।सु नोविततस्यै व कप यय दिया लोड 
+
+
+७३%. 
+FE 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 484
+
+| य्‌२ लू ७ 
+
+
+minima Rmi सि maral से/सप्त'सर्षयधदीः 
+
+«dels mdr ua ug TSR gimis uns N 
+RARA s ERRIETAN: भिःएअथी राजाने। बेस दस्युं।अ स्या। दृ 
+= या ससस म्म यन वो? dm ip, धे 
+gilaan वान विश्वाहा' पे å EN ॥ ९८ ककम 
+यलि रह क क्स्य = श AN 
+
+Ee UUE ER: Ahi बह वाचा१ऊ३ तकु वसः कऽ 
+य ड क (आर्श RUR MREMA R RIANA: 
+रै JRZ NRAN रि सक्मायो॥दिवः।अए्तादिव्यासुगयर्ण ata Å 
+
+
+
+
+
+
+
+
+
+n 
+
+
+AUT: aan कया।न+आ।अदिदिनःगसथः aaup 
+धअभी र्दा ।नःऊंसीगउरुप्वो।रथःय rns Å 
+AAAA वो/मध्याश्माध्यी ण्या Nl 
+स RERA RENTEA TEIRRA AGRA 
+karen र हतमना í 
+RARU EAR FÅ Kya: PERR वाडिक॥ २९४० ष्रयु< 
+'अख्विना/सः drue miugrana jugi S Mo 
+| Si MRITA ae वः सी hs nada | 
+स्र मणा रातः हेव्यःङतये व्वा।सृतः sil SÅ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 485
+
+
+_ CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+oð 
+
+
+N&R 
+
+
+
+
+
+
+
+
+ahad 
+FUNIA NRIZA 
+Qanı AG, mm 
+
+
+
+
+
+
+Ringenes QT NTG: naar s 
+
+X mA: IGEN N NVRRENNGJUTGIGUG 
+RY रिरत्मारदिविशअजस्यः्सा taanga a 
+g | यमुः वि लेगडवःवा ad सत र्ते? सः वसः रिऽ 
+
+
+नाश्‍ता 
+
+
+अः Dr आपरिगर्वख/न'धृके तनय sider 
+sner gap KIN UEC E UE E Eie k ERAK GI 
+
+
+TE å et LY Te) 0) SX ९ TID र 
+
+
+oma ed 
+
+
+## Page 486
+
+
+
+
+
+VERSET NONNER TT EEIN IRIENN E EAEEREN rer > र्र्‌"... 
+EE कक -- ० कि... - - - -LL 
+
+
+| | | सन ३६) | 
+
+
+
+
+
+
+
+मृयते विविना१हेसास 
+ARERR A De 
+
+
+Ta 
+e R र T Ahaa 
+येगर दर 
+
+
+पर्ले विधते मेनोयक्षआयःयाते दिवः 
+
+
+क्ति अमके भणि 
+
+
+ain केन arna gen 
+u ६-२ 
+
+
+used, na z 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 487
+
+
+॥इंडटवायरवि।अधि | 
+थू स स 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+स्पेन/इयूप्पार्मसा। ई iiag य ar a | 
+k बन ५३३ प्थ्यानें/अस्त, वार | 
+
+
+| gen द्रिणारथेन SAS å याचअरोस्तीः।नि Å 
+aiir | 
+Serge naafana bs | 
+
+
+यीतये१२२।वायो ल fin vn Ragnar सामःयीतये! 
+die निय १३३४४ च।वा एकास नोरयीतिअ्हथयुवायहिर्‍्ये FEE fe 
+आप॑धन/सभ्यकू "वाया ३ । चथ ष्थिणासः 
+
+
+
+
+
+
+
+
+
+
+ह नःवाहसाइः ~ QSA १३॥ PANT 
+
+
+
+
+
+
+
+
+
+
+## Page 488
+
+
+
+
+sata) OE 
+
+
+K UAN SKIE G 
+ar FNA शिजत LANT 
+
+
+kok ANAJ u . 
+कमक तआध्यातंसोसेःवीतये"याशवो?सेतिवर्‌२ gå जी | 
+
+
+te नमी ng 
+
+
+FN 
+आवर व्‌ताः RA! 
+सिर T शरा Å 
+Å men रा भेज 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+कक कु 
+
+
+
+
+
+
+
+
+X 
+En vn r cose N 
+
+
+
+
+
+
+
+
+## Page 489
+
+
+म 
+
+
+el He HDT MF 
+TN rea BEBE ee 
+
+
+
+
+
+
+
+
+
+० ह तिः लिया! हू: $ ne 
+मही ret ten CEREA] तेय/रयीणांगसम रत 
+अतिसजन्यानि।वि NFI सियस; daa: 
+då per हि Barane 
+hanian å agemadtarag re उत må | 
+fr Aase स्यापअवेस्यवे यय aienea ।तेष्ञे' 8 
+| दिदेव Rada KAM Sa 'मंरसानाड्वण्वसरतिरवणा वस ` 
+Fadma Tan 2 FYN x ARAE kJ शत! ई न | 
+AFTER AIG ॥अदिश्' धियः gis l 
+ASTUA २७ हयास्यः समा त 
+
+
+panira २३ Naa ष 
+
+
+
+
+
+|| 
+|| 
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 490
+
+
+
+er 
+
+
+
+
+
+§ 
+$ 
+A j 
+å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22) 
+rh 
+Be 45 
+
+
+
+
+
+
+
+
+## Page 491
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+मान 
+5 > Eien ER 
+20520 00% 
+å Sy $ ak 3 G f 
+gag 
+
+
+Å हरें.ओंबरदई ति संवापुरुःतमोपुरस्ताचज्योर्तिःतमेसःवयनंग्नवःअस्थाव॥ 
+सी तानः त सयनम te 
+e 
+` ` pda ER रिवत्‌ छेष! | o 
+EE eiA सा ae T Ey ; 
+fare Ro शुभ प्‌ GESE: 
+
+
+AEG TA l 
+बय MER ESA ar gra da haa edu AN 
+Riigi i 
+Fa ST विञ्थानो। 
+
+
+
+
+
+RRR माती: राठ EA 
+ही. È परणय/ससंतु/अलुध्यमाना र है > कन aadaki ` 
+
+## Page 492
+
+qaaa aad यः बं॥९॥६। नौ! | = 
+kake की /नावि!शायने। सऽरशीनुयीमीतो ˆ 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हर Må År AEN NER BU Vy 
+।सरवा।अनुत/भखिनौःछपा:॥ "OA 
+
+
+add re AE KG lt (ERE AAAA E EGGE | 
+| APG GIVE NEY Sr DÅ å 
+| FRANIA RRR Eg Nam स गो 2उ AANA । 
+| | Å LUUUIGFAN समानी 'अमीतःवणी vyd "च bY 
+
+## Page 493
+
+
+t F FEN age ॥ बिभाती।प्रा/वेती। यछत 
+
+| स्माखादेवी मना बन अतिऽबुच्यमाना sa य IMF: 3 
+| र्‌ end: ar 7 यास्यास LG GS [ER I 
+
+
+
+
+
+$ 
+
+
+
+
+
+
+
+
+प aS 'नशिनौःछत/मातागवौ/असि।उत2पृ:वर्स fee स ब. | 
+| Ragga an प्रति।भद्रा।अहसतागबासगीधनारँस : 
+finena eA e NSTST sn ginn enman . 
+` gaden 3२, प्रिय BEE SUE 
+` भशाववारेवस्वै।सबित: Rag OG 
+| aag TAQAB वअ यानधरेन Raada A: 
+| Fot [कपि od OT 'आश्टणनउरु 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 494
+
+
+
+ad रेब:।ह.णुते। रच) प | Å 
+EE atii REG ES EKE E: SE CA ga 
+
+
+È £? ETN kp di 
+¢ ` NF È ý å Š FS gm nm ae ri = 
+ना ERA RE re SSE AEE 
+RF, ३52३८ INN i < A 
+
+
+AE EE 2 TA Es ल 
+>> LEE N 3 cs ne Hae Fr 
+Gaile MRSS DASE f npr CR 
+
+dT cil Seen de 
+
+7 GN So B ENE 
+
+el x pe EIST * 
+
+ह P 
+
+
+
+
+
+` 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+sn bell > nn Ge a e 6480020400 2202052008 02.20 AA 
+
+
+- कक ne br VA bodies meson bes (मा 40: क sits 
+> Assi ei >“ “डा हक a 4५88७ za अ? 
+शै 
+
+
+
+## Page 495
+
+I a ३०° cadan नि चाकँ शत्‌बुतानिदयः। Raet बा | 
+Shadraka wa ee ee) FEN 
+
+| ` ARINIR AANRAAI रिः इनो गति, 
+Fo K ENR DE CASAN IE REGIS नो।ड ges ang EEE 
+Å FLG BERE ang ITANA LREN + 
+MARATA RR A nan x Rg AA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 न 3 Så दात TG FANGEIMEFIG ERIKU REE ऽभि: 
+| % ganer agenda रेवः।सविता।बं Fe 
+Å MEET TÅ IG! AN dem due जे x 
+
+
+
+
+
+
+
+
+PINT, Po oe 
+B NBN SARIN ba VETA घड 
+E LESEDI ह कट SEG BEER i OA 
+de $ Er 6 ES ee 2:22 
+
+
+
+## Page 496
+
+
+
+
+
+å 
+
+
+dad ane = FR दा | Å 3 
+द्‌ a >. ककती, quad JENTE जने। STN 3 | 
+
+
+
+
+
+
+
+
+१पुरुषस्वता। देवेष? LARINI च+ नः अन।सुवता द nanm 
+भःमियासवितुशदेयस्यातव!य adatna haarama 8 
+__आएसुश्अंयुरिःव षदः दिविःसुवे DARALE TARRA भ्य तेभ्यः a 
+ean UMAM MERETE a 
+a gera åR के 'विमअहन/सविवरि वस Ai >: 
+
+A de व गि।आदित्ये।अन/अरिविशशमेयसव॥ RNF 
+_ ब।आतावसव+क/वरूता। न/संहीयस/वरुण/ मित्र 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PES OS ET या = EEE 
+re z Tog स्लट 5 22025 å MTT sa VE > Å VEN 
+ap है >. EA pe s क शव. 
+fa S $ य 
+
+
+
+
+
+
+
+
+## Page 497
+
+
+
+
+रति।अदिते। 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+| अरोक २'अचेरःवरिकिभ्याति देवतयेभ्यामा निपृध्या AAA न वि।यवउ छान! 
+ag gt दाः इ इ 
+
+ki RE ES KENNER E UE EE 
+_ लिः्पातउंकसानस्ता।क्र ते/अ RR àm णःवेतिर्पंथो।इकः पतिः ` 
+सुब्नि!गात/आ niž ME वब/कर ति।सुस्त वा ना।शास। GUY ; | 
+GR er ANAR RINDAL AAA 
+| NG pewna mo AYATTIIEY Ta E 4 FÅ ARMIJ AN | 
+eo TCE CEEE EE: चरणे।सनिः RADE O An ` 
+अन॥ १ न हि'मित्रस्ववररेणर्य/थशसिं।अरसि सिः an Raa ७३ 
+रेन देन्ययितिनिषतदेजस्तो तो डपितानध दूर ^ ge 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 498
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हैः. 
+| $ A | 
+
+
+
+
+
+
+
+RO Nh 
+So eaaa ARa teamene SNC IE SR be 
+arr vi ee Bbi v esie TO >: 
+
+
+: | an FNS AN o få ; | a । | | 
+| vad भ mand re nFF DAMIER A 
+[` på | बा ee aa auat? नुभराधसाआ'य Gå å 
+l HAN “नस age EMAII ल क | 
+य दरसी।व रिख a उमिन्वने'रुवत!द/उक्षा/पूप्रथानेभि एवः 
+देवेभिः बल TATAAS बु/उक्षमणिर Anra: बॅ 
+
+
+drar FEN FIARAI यंत्र भि। अके FAGEN 
+हज y wk å 'अन्नान।उ वरति भी रे? mv 
+
+
+ee TEU. å EEEN FN रे 
+
+
+
+
+
+
+
+
+
+
+
+## Page 499
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t 
+| 
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+zen 
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+tv a 
+
+
+
+## Page 500
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+skitai कक una | o 
+mamaaa nainn ANRA 
+inghang aAA ` 
+।सः नः कुडा ति/इ A UE तैस्वा पते! 
+mhhin STUCI: eo | 
+å a aia ARAA mf १मर्चःमवशन/भवताअंतरिक्षेक ` 
+| ह RAT Ru giga 
+gia agn! gu et aT EEN नासीरो 
+
+pg AN चत ॥तेने!इमा।उ Fauna 'सुश्भ र i 
+
+
+| ५५ ४५८ Måren ag 
+E Seas fare 
+
+å DE साधथयते Ahaa 
+हितेर्वारवःयामसि॥ गा अश 
+
+
+
+
+
+
+
+## Page 501
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+å 
+dl 4 
+
+
+5 a E EE E E EE BE A sende 
+Eoo | Ame नु'यछतुगसानःयर्यस्वती' ड्‌ उ नराएउ रेसम शने 
+
+(वा कचता लने dama at | 
+season समासते ९ AG RAG GA MATEO 
+oR i न H 
+
+
+Dennen PREK 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 502
+
+
+
+
+
+managed GÅ बमीवागोरः।एतवरचत्वारिंश्यंगाजर्यध 
+mea ad UFUMFE pie RA 
+
+
+| | NF nn daa MENTE NRA 
+
+
+
+
+
+५ PR SK NG åt / AN 
+eda Te á ri i P FS PNR 
+i nere EET ENE NLP TRE A VANER 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+, न?रंई एडस एकेप्यजानः्बेनाद?एके 
+
+
+K A गर | Braga stua ug gEAR mz 
+कन्याशशवप्वदवी रते उंडति'भंजि'अंशाना DELA ard 
+
+
+
+
+
+## Page 503
+
+
+
+
+
+
+
+धयोतनिःसतक्कः।एताःअर षे 
+EemMANRYQA! ch ॥थाराधअभि'चाकरी 
+| | on ९०॥सम्यकू'खवेतिःसरे ov prima 
+| TE P AEE ANT å Farona सि 
+und Får AETUIA artig 
+
+
+at | 
+नास/अग्नि॥घ तस्य/धारो।सं5र ध॑/न सं त/ता/ पाण हयेतिभ्सातः 
+तिंगगव्याआलिअस्मा ve 
+
+
+जोश ।अभि।वतः FEAT TANG 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 504
+
+
+केस दिणातियसम्दमं'्यशे दवतन स्यार wnd 
+च्‌ Fa i ना अनर्‌ IRATA MANNA K e 
+ZRP श्या क ९९ GIRATA UNN 
+Guerra sa नवय दस य mad 
+auga MHANE FTBUNT AGR NARRA निः 
+म्रातगअस्छावेसंउडडस्य'रराव अद! मह्यः 
+अमा विणयदारीणयास्यःरशानोअरजीयरितिको Si शचि ner 
+j Sa al ae feron त ARRAIA द a 
+
+aana ANA INRI GNA Te RET 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{ w 
+å नितीन. 
+ET A ER i 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+SE at 2 NNDS ØRE :/% ar VERT उ ree II 
+| i 5056 हे ; 
+$ : 
+
+
+| 
+
+
+.  . उदे zanan eR Aag तथ हितेषु 
+ऱ्य så pe ल वतनि'सासाट्‌'यजीयासेअग्निः 
+
+## Page 505
+
+
+
+
+
+
+| हताहत यान्‌/उयरस्छेग्सादुः्युरमो डर uy RUGER: 
+
+
+guarder gg नो उते।मध्ये।इुडः॥ ९२ ungan! 
+| T arfi psa eiman Ahaaa An 
+है. | ad gatumsd pa 7 å 
+GER på LETUEIHUAEI ॥विश्वान! र EN YNGRE GER 
+
+
+Farao nasa samia सथ१ईडेन्यः।वपृष्येः। anså 
+
+
+| arien mugg बाळ ARAA ८७ | 
+| i Ee 
+
+
+Ss ne 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Faq giagia 
+
+
+k nanih सु a i RQ SAR तंभ Ra NUN नो।उरु,अते. 
+
+
+द्र थभा चुःस।मा सुर से अ धवि 
+
+
+
+
+
+
+## Page 506
+
+
+द a अर्व pare sped TENIEN 
+ble ह ae mar an दिबिःईवरुक्मे/डरुः 
+
+
+
+
+
+«aims 
+
+| age TR ar सक 
+। ; nagka अ 
+नालम ne 
+KER are GNATT AGA 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+MO Å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+el 
+W 
+
+
+
+
+
+
+
+
+## Page 507
+
+
+
+
+
+
+
+MATILAL RRN Raagi 
+pi AA 
+igma gereh दिलाने बुसो। राजन व. ae 
+
+
+| 
+| | | W ae | JG न। पुरू। शोर्भमाने ।न। 
+
+
+
+
+
+
+
+
+
+madagi airat ९४ "यु 
+
+
+9 gud 
+AD Se मअ RR 
+
+
+नः Ke gane 
+Mugg 
+TARNA JENNAN 
+
+
+
+
+
+
+
+JR ह च i 
+
+
+
+
+
+
+
+
+
+
+
+## Page 508
+
+OVAR UNAR वै/ सा या।सह ते! वाः री हिसि म 
+
+
+
+
+
+
+
+
+
+
+
+
+ उतास्वानासंधटिवि।सेलेप्शरेने तिग्मश्‍आयुधाभरक्षसे! 
+
+या Rengit नी म पासा EEES 
+| कुम्ञपामअतश्षं। daa mod FåuesadusrganarYqua 
+दिरीवै। दभः वर्धानः संजा ug ee | 
+भवोवनःवर्दिक्ते।म नवेश i 'भनेवे'शर्म्यसत। ९५ «Spa 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 509
+
+
+
+
+
+
+
+
+वे! 
+के VARNA EN न ॥हुणीयमान/अप॥हि।म_ 
+
+
+ERARA 
+
+
+= akma quad ke लह MMS av 
+
+
+SEER ngam ANAT यद विभ भें 
+Frye INR ST ।न। meg काडत समन लाह | 
+| (श्रियामरुतेभमर्जयंत रु्ईग्यवाते न म।चारु।जियं॥ पर FA! BYA 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+EEA br dba I ken के. smerny अ en ग्य्ध्घ्यघ्ष्घ्फ्छपड्ड 
+
+
+हा al arne ea IRTA 
+i 
+
+
+må यस्खश्चो ताधू्ीङम्नि यज्ञीय | 
+
+
+| adan hadaa fa akan | 
+| dd eie का नाका चर अस्ति) WEARI 5 
+Aud सः यसन RUA ne re | "6 
+यः।ह्‌ विधु ध्य॑भानाः॥वृथं। RU aian A agaaa 
+ता १६ । य: नआ! अभिर एनः! यरो ACTE A o E भ घःशेसे। दयात्‌ अहिः ` 
+
+
+## Page 510
+
+Rena ae QARR RAA å uer |. 
+RA HAAA UTG DIRA A A से।रयीणा।रेश्धस ra |... 
+agenda RART FRE: av R IE 
+EMAR YNIFR ANS कदा सतःचिव? यावयास RA ७०. 
+
+
+
+
+
+
+
+
+
+
+
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wech कृता वसोर ल यदि तवी! RASE | 
+
+| वा PREG ÅL | 
+ _ स्तिनाथभरश्रयारियवः मा NAFTAN RIIGA! 
+spreder sa MENING FG GA 
+
+ते 'वडुयानः परीट व्र ९७॥ मानसि रर aat 
+गर्तेय/लया।वाज वातः यतेः जि यास न ånd हूय EEEE GERI 
+Ey TOLE e RE LLN TEURS ॥र*गाहेपत्याभस रव: टि £} 
+खबर bs Jade धर DE प 
+।अख्ति॥निहेतार।विश्वग्विरे। हि थि छे/स he वेयं।बनते।वायों ug 
+
+
+## Page 511
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kåvikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+pe gima: negar Raa STRAMT IR: 
+Eur vange NR Gg NN ष RIADA 
+rc sik GE ATURAN AN ZEINA 
+3 हि९्चात यस्व/वये!रुण्बानयत्‌ EKUA ERTEAN E दे वाच!सः/अरत/ पा. 
+å meme यनि vm re | 
+ArAnA करसे meme हभरमाके | 
+
+भ्मु ho me gaai aaraa m 
+TG FFVT LEUE EE E R RT ALE: देर सि क! न/ न] EREGI (ii A 
+eeo STEK ARNAI ITANRAN £ 
+
+
+
+
+## Page 512
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i 
+४ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+kat Ed AES > DS å TU id +-- ००००० AS PG ५.७... "८४८ 
+
+
+{छि ल अन्त हड Sora ye å: ) 
+
+
+nadmiar म्यम हदी तात वेट यत्र भरमार पे हि 
+अमतः त्ञऱ्यांगयस्मे।ल'स कवे माव वेरः कं ति। दे अग्ने SUNN ने ॥अ 
+| नभसः वुविणदीरः गोवी तंरविग्न राते'स्व(सत॥ ९९ ॥ ia a RI ` 
+Ane i A REAG L RUK alae OIE AE A ` 
+KAT Sr re MIE रवेः र थे pet fe EU LETER ka LO KO | 
+gaua साते QATARI A ANITZA p 
+aiy व ar 2७ ॥ BG RRL å श्वि।सतस्य।मा वरा० 
+यां।उब सह सहे॥वातस्यय å dame ane uzAqademn |... 
+
+
+## Page 513
+
+k MS N नए ANNA Do 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+aaiim nasa nr यू 4स्वाहै।अग्वये। व 
+तो pp ve ENE: हे २९ NPA RGT: dra 
+Frigaard pre dg सताड TT 
+E PERE gamme APA Ae SEE AAi: E 
+PTE DST Lon LER I KALLE ELF दा ति। QR: IAEN M 
+सीताले आते rad LAANINEN 
+med nizad Rina ईना जिवे 
+
+
+।विश्यते!हव्य॑श्वाट।तभ्ये। ट्रय ते२॥ AR "रती IQI 
+8 2h अस ae GO दीव Roe Nt 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 514
+
+
+
+
+
+
+
+
+
+
+
+cg 
+
+
+
+
+
+
+
+
+
+
+
+
+iis aan ne EEE. “00-00 Fp A rts ra Á > 
+
+
+स ीणीच आसा er बा si 
+oe pg TR UR र 
+a i ean 
+
+वीना करक ट्स्वते aN कात TITA 
+Di: Ti ळी, naa voks x mamm 
+। aner ed तर्क MZZ AN : | 
+ने/चिवट्रेओसत्रेणयावकभयत! वनस्पतीचा प्र/स्म्। ANAIA 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+## Page 515
+
+i OER 
+
+
+
+
+
+
+
+< यस्य वे वणे स्वेदं AG E Add AANEEN RUER २९॥ | 
+
+_ [थि।मव्यःषूरूऽ द द हानि REAL ` 
+
+8 ee aardmannen Raga | 
+| TRAA pp pi mn o 
+
+
+
+
+
+
+megaman आक क र 
+mg gram जिम EGGE] 
+
+
+3 i TE E KAKE Gs ke! न ETR 
+
+
+EN २५ ॥ क ER de 
+IRTA hedre agg ARANA i Å रव्य 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 516
+
+
+
+
+
+“$ To Vai Session SOS ERT 
+| ` उल्म ADEN 
+
+
+Hi 
+Rag निसे@रे। रुह दः केतु he | | 
+५ gag व 'अग्ने। मतवते IR å Jaap | 
+AANI व १भृग्‌।विश्वः द बो तें। gagad giga naar 
+
+z Ramah थिः शुरण rear | 
+वानः lederen åa Renter anga tas å | 
+lanaa: जरु लपि Ea शिति षि।सा। | 
+Å | Gar TN FNS Ja mg इश्थानं। य विछदा।देः ULA KAL | | JG 
+
+
+ek NIE IGG I YI ये ऽ 
+EEN स्सुम्वृभ्य सु: AT को ला 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 SAE, G ` SÅ Hi + 
+me iis Els FSR 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+क 7 
+
+
+## Page 517
+
+
+
+
+
+pae Pigs fangede २६ ५ s तिदतीयाश्केअष्मोध्य 
+| | qaman a strammere nyre भरश्माताहोनंतुअइवेब_त रवीश 
+८६ स्यवादिवेप्रसीदवरनेशवर०तैला zè लेजलाडलेड्झेशिथिलबंचनातशमरवहरतेनदा | 
+तब्येशवंवरतिपृरह्क | १२३९४४ वित्रभालसंव सरे भाडपटवद्यअभावा | 
+स्वोभायुवासरेतहिनी पुरतकंसमाधं । खार्थपरोफक्ाराथियेंग म ne 
+
+
+
+
+
+
+
+
+
+शै 
+på 
+
+
+
+
+
+CC-0. In Public Domain.Kåvikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+य S LE 
+TT कलाक 
+
+
+Ye e i F 
+
+- a - 
+
+. No 
+
+hese kr) 
+Sas 
+
+
+
+
+
+
+
+
+| त CEO. In Public Domain Kavikulguru Kalidas Sanskrit University Ramtek Collection , ॥ 
+
+
+## Page 518
+
+
+RE 9 
+२६५ ee ME 
+
+
+i 
+Å 
+å 
+Få 
+å 
+å 
+
+3 ES 
+
+i! 
+$ 
+
+KI 
+{ 
+$ 
+£ Ki 
+$ k 
+E 
+
+
+£ 
+Y 
+
+
+
+
+
+| - _ (९-0. In Public Domain.Kåvikulguru Kalidas Sanskrit University Ramtek Collection | VE 
+
+
+og EE EEE ENE 
+
+
+sg 
+
+
+श्रागणि शध्यनमः॥२ Mee स paianta Aiamaa a) | 
+गावक्षिजानुषकू। जजिभतेनादाखेतःसर्यस्याचुत्तःबर्टिषःसायुतासंभ-चरतिययासावाना | 
+azal yagana aA राणि Ji | 
+(gaian सा पुर agilig aa अन्ने पम 
+
+| 4 सुम्यकू AGA मिन यवाई।अरै।चित ÅÅ 
+
+'आर्वाइवध्धर्म ततिः युथा'तव ञहेअभ ततिभिः मिजस्ये। व! परशा 
+EJ pe SAS) ida अग्त।भभि।नररयिं।सहसव !'आ। भर 
+
+## Page 519
+
+aa यदस PIJL NAA gg Jun 
+
+| EG alke गा।प्रानभराया।परीणसा। Aa 
+
+S EA ES E Et E AN de स्पामुंदनालिरनि।असर्य। जा जरुह वे। का णा। 
+
+
+TEE AOR गयी gr व वर्या ये सेमेंगि: म सर्य नर मधानिं। pa È 
+KARL Å farga gA 'शुफि भनरं दिवःचिवाये FÅ 
+Å: nd arrearia ये ति। x ANA g सानम u 
+
+
+Ja afa Jagga: WRR ide Sa तरीष 
+य कवा साराला र नयर 
+
+
+ANUARA NRIN paawa e 
+|| जनस्य a, na kr Ria AAAA AART 
+
+
+gyo 
+aq. 
+
+
+
+
+
+CC-0. In Public Domain.Kåvikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+le 
+
+
+
+
+
+पृ०चु०९ so 
+
+
+Fi 
+ej IA NS! 
+न्न 
+
+
+
+
+
+
+
+
+
+## Page 520
+
+
+tag l MEI 
+EV सभवतःहयःवाहनः जधिंसणानाःरुर्णते! 
+FG Fe FYN HÅ 
+FT TO आ॥पृणति। aime याचा जागर ak Se > 
+nasa ) समजा za स SEG 
+UNGT ।यृत्तियीय!ऊृत्स्य) ड FYYAAGNn 
+FYUIP gd ESIE ENBE vap BER भारा 
+ला सा। ae कया र 
+१उचृथेस्यो पा 99 
+वंधनास/के।पायवं/सनिषत/यु प्म ते। केश था Aa 
+सनः/वर्च॑सेभसंतियरपा।/स खाये) A ER] नि। शिवार्स भरे न॑. aka ल 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PÅ NRÅ TIP MaKge AA 
+
+
+सभपाति ष्य FSF FYN 
+।सेइचीभ RANA ER 
+
+
+027 
+
+
+mdå ag वासःनः रा सवीय 
+न यालपाजलानार न जनि 
+
+
+नृ I ज अजस क 
+Mayd: 
+वम ett 
+
+
+
+## Page 521
+
+Eie 
+भए 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ara 
+maada EA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kåvikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Fata ag RES | | 
+स्य्‌। å | 
+
+
+## Page 522
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+२ ८593 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| १०१०१ Baiada जि adana a gaa | 
+
+GE hall sigd ER ME स सन ET | 
+| गरायन ERI Ra RARE शाके।परमाविष्झो A 
+
+Ey सणी नरम न IGEN 
+
+2 ER nine सास! sug È w pi 
+
+f be g] 3 
+
+
+| पमा ag नजने å | 
+HE ETE VEN nå 
+k शट पळ गी र 3 > PRE fe Å 
+Mu mq ENN PIALA NIA Aa | 
+aa 
+
+
+| A 
+
+## Page 523
+
+| डर AARAA EG ISS BIG EE ee va EU 
+|| d | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|| 
+å i 
+JG 
+
+
+डु Er had | 
+
+
+Renaa: AJRA 
+
+
+।मपान/सरंग 
+Da मगा POR ~ सूरय सि | | 
+Ai ve AN SA 
+| 
+
+
+
+## Page 524
+
+JARA | न | 
+द T RARA Akf ai स्की To 
+
+
+
+
+
+
+
+
+
+o | जस्य कसार a म | 
+å | वि > स्येते च! तिर क agha aa av" i 
+| JER Yo यात १) VEN ru 
+MER ken | सयाच pr Net: | 
+| k NGIA «å T A 
+
+
+
+
+
+
+कक hs 
+४७५०५५० CRS Ne RN 
+33 vcd 2१ ७१६ ५ अह... å 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+®" f= Sr; 
+>. BG 
+PP $ ve 
+
+
+|/च०च०३० पमषक मिशा जाय JG 
+ie! ; 
+
+
+| | neu eee GT FUJI स्ती न क 
+ह... RIA Frå tas PANAT fanger | 
+2. नुऽववः` JE as HYEN अन्यते BEE SE 
+
+
+-७ ya ज काज 
+
+
+JE वाउ ji ae ME TURAT अनिमिष लि |. 
+
+
+
+## Page 525
+
+“aps oi e 
+
+
+z BAJI anug AR: HESA hk 
+OMA qay भप्रि RGT > NE ना विवि वाज नेट र 
+नशद aza: भुवःसाभस्मंनावायु Jada 
+
+
+PNG SEAN IUA ag 
+न्यैसरयि। तीन 0 गीः:विग श्रुवा een QARA र्य i 
+
+
+
+
+
+å nn पहल ay, “व्य "० n į ; 
+द्नीए्थणतशडी. | 
+
+
+minda radius ATEN GÅ 
+eng: ko ES adaa: हयाम था पतच ।सहसाःवेन!दिवेः 
+ने।राथ्र्तायास र सःकतो!गामिःस्यामसधःमार्दः वीरिः स्या मास चः मा दे। 
+MN a निधीमहि å धीमहि! TARANA 
+Jaa Flann सा सर्पिः$ मासते! च्वा। 
+RAURA aan Jagd ER ver ५ 
+amaA 3 AITAN se ms EGG सदः ससर 
+an ९२॥ प्र वि्वृःसासेन' अ (पावक AY 
+en) Am क Aa fa AZ RAR Adnan Gå 
+PATH AGRA तमः चिकिलिदःर्मनसे' ला देवः मवी सं॥उतेये। 
+|| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 526
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+Tar ।अर्ने) चिकि सिस्य! इट वर्च।स SA 
+पद सट: ११ IGINA GNAI K द ANY 
+Å f RRENA 3 a 
+i लन र्थि ok aa त्व S AB दा ता। वा ing au ह 
+3 HA: GHANA GA FAREN GR: 
+'चर्षणिभ्जभिऽमाति। Rq हक कक s 
+
+q सी 
+
+
+; paang BEN, IARAA a 9:34 Mau शिव pen 
+उरूष्य। 
+
+
+FIG PU FGG A ADS gg Et 
+gi | 
+
+## Page 527
+
+AS | TRENT 
+
+
+| ifi 
+e ih 
+Kun i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NY IG gd å an ak दीदिःव!!सम्ना्य!नन! Ses 
+१९७9! वः gård mrs TEEI Tui 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+maa REA यो हे बिल देवास Moran रे निंद) उत? सुद 
+
+ANA GRR: Ea ee a å 
+
+## Page 528
+
+
+GU sten अधि A Se ।अभ्नियमर्तणञ\विशन? अग्नि Er a: 
+
+| FES [अधम क å सः तभं) VET 
+ददाति 
+
+
+यथान 
+«Aga på 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sie z Ct ETE TRE zR —- 
+
+3 नक Ci ci ; = 
+
+ME ka re SVN Eee j ट ल्‍ SS RR pms z 
+; Sr ia ed A ४ a tA Er 
+
+
+| z | IRRA बा 
+| Sis ।ख त्‌!वाजी उत! लिव घ जच 
+| er Aara न a arapi 
+
+
+SER Ruska नावारर व।सु*क 
+TIRAT: यदिवा जिद MRNA ANANA an 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 529
+
+
+
+
+
+Ei 
+
+
+gen 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| Tas eo Rh स्वमदशयोटवा चा जावीत वह वी नि। å d 
+
+
+| EE vg GA JE TV E EL ! i 
+| ER तुंचिःज्ञात EDEN re अर mf ma मोत NE 
+
+
+ZT सि ARIE | ef så j Be) 
+
+
+
+
+
+च सणूथीमृह्दि चो FAE 
+_ दातय हातारोत्वा। रण मानाय।सचंने।आ। m Ran ॥ 
+रथानःसहस्न णि!पृष्य॒सिःदेवा i i ५० JA å 
+छम) ०।स्चुणीव। बृहिः आऽसदे! जा! Så FRATAR नी।मिच:।सी द्लु। वरूण Ra 
+I Poon RENA ति vn UE E BEEE EIGA 
+
+
+hi 
+
+
+
+
+
+
+
+
+
+
+## Page 530
+
+
+
+EAS R EO IRAE GK] TULARAN 9: raua el 
+चायक्ता। syde Re q Aa A | 
+
+
+gr 
+# 
+
+
+tl c ५७१ | i 5०० RAA js] 
+wam t. | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 5 fi 
+| | | 
+| TAN स्रं दुर्दताजल्वासरमिं। तु दर्दद। नधा, असा t 
+i | ।उक्ष ९ यस्य] दाना सा EN jam ग्नीर्‌। | 
+| | ।सुःवीय' ्ञ।चारय्‌ः RARAGA A * Rud: 
+I AARAM si सड यावि न ! 
+i a KER 3] न ळी T ।घुता १ अुम्‌तस्य। राज़ सि। हवः 
+| B BIE सथ HR 'आधि नि | 
+| 7 तच TARMAN त JLAM 
+ga £ Å म de चर 
+| | ad MITT Eph ai हु ME XY 
+| तदेवा न यक्षि सुश अवर! ं। हि! ह्यः वाद्‌) असि? आ maada 
+
+## Page 531
+
+t | | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ला == का asked Å SR EGG 
+
+
+| 
+i 
+Å 
+d 
+
+
+Yeye 
+SRN 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+श 
+
+
+भ्यवि।ज घरे। कणी वाडव्य वाहने >: Mamada Ragam 
+आर: जिला डे teen E an 
+यवा FLÅ मं दसा नं? भा म qg 
+दत्त वः! ज भि थच ९ जपः य द्र अरव. सेः R 
+an SE 
+$ rater } $ 
+aA aki FN SFGH ANS तिक गत्ति IF E नीर स्ता 
+
+## Page 532
+
+हः A नु EAA KAFY JR FA देवाः अः l 
+| Et a तीधपृरः सती: भ्याड ।एसश।करि I 
+RNAF frame APR सा के JR 9 Fy sat वि IA ॥७॥ , 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | 
+ud gedigen amaga सरत्या अप 
+
+RUES IOE tal ।ची।शतानिजी।साक॑,। aga a 
+
+रॉसिसुतं।पिब् तड्‌ ञः हः Er at [माग 
+
+Maaza रन दवा ड यी 
+ARAN Pre år 
+
+शवे वन्वान REE] यथाथ CERI ke 
+
+वचक) जदह:ःस्येस्याकृत्सायाझून्यताव SÅ ।याचैवे। जे क रित्य क अना 
+
+Tag væ ण! बक 9:02) 
+
+
+
+
+
+र्‌ $ zi ॥पिथु जाया! 
+भसामाजस्य ।नर्वसवास wo « “पक i 
+
+
+A 
+2 
+> 
+78 
+Re 
+rd 
+; 20 
+på 
+4 : 
+
+## Page 533
+
+H E 
+H Es 
+j A 
+22 
+FARR FS I TIE. 
+
+
+
+
+
+CC-0. In Public Domain.Kåvikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+EE 
+
+
+] : 
+
+
+| 
+
+
+|| | 
+| ampa 
+'ए्कभयुध 
+
+
+भशि Eis 
+mik ळत p सस्ये | 
+mah AR, Ai ra QAN EEEN | | 
+
+
+
+
+
+
+
+
+मरभशशमा र कुत । नु। न! GRÅ FIN OoOo 
+MYR याचति बन छा oe तावि | 
+JERN re Å q बिः 40] 
+MARDAN कुण व दधघान न rad ष्या क डड! 
+| AY णाःमुषस!यातेशाविद्या नव्य म्‌) वस्त्राःर: Å 
+mann å पः जश्च) ५॥ )वीरः। NE: pte 
+gif नाठे दभ्याय रायाचा सिल सेमि च्छा : 
+भग ESS dus अच Ja EAG] NG MG: | 
+| आय पड रस कक MERARI re 
+
+
+दश ज्वास:] ज BENEI Ian å 
+
+## Page 534
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I 
+
+
+
+## Page 535
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+maaana haag A ष ४ विट्‌ता। भविस) श | 
+mar वं।सर्वश्सन गस्ठिरं। मन | चकूषे। ना x 
+ARNT ante ad TN | 
+णो।पर५यताले। HUM es fest å [a 
+aaqa pa प A av ॥ ०७४ तु eds | å 
+FV IHEGT | BY ger d 
+å p इ सु म्द faz KARIKO am aga . 
+BREAN ES च्लेय मनचे! शान इछन किन [| 
+
+
+
+
+
+
+## Page 536
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+CP | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ka क कव 22८2: 
+i 
+
+
+. १०३०१ 
+| ॥९॥ 
+
+
+
+
+
+अस्य सना जतः हिभजरनव!उभेरति अस्ये da 
+
+प !से'अज गाव जभित। जन UG S ।वि्युताःभय वेः | 
+
+अस्य! र MIRREN 
+
+
+## Page 537
+
+| F Ra =å qas यत आनयन KA AIPA GE NR 
+a EG कन्यय चख 
+
+FME: 
+
+
+
+
+
+
+
+
+MEANA म्य 
+
+
+Sa 2 2050-70 र. ज्य 
+oe ST 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+क CR EO 
+gd ST STEELERS NS EREER STE ET 
+
+
+"अस्या apan ERA E 
+
+
+दर्दतभसहसत्रा उरणःचयस्याप्रःयंता जनीन wia: 
+'अरताग ।रुशमासमञ NARTA: 
+नो HRR दरितक्यायाः ओ साराची)परिःतवम्पार्‍या ऊण भवय 
+
+## Page 538
+
+
+
+azaria ung RYAN SER BEN, ERE ven 
+
+
+> 
+
+
+
+
+
+
+
+
+RR SN 
+
+
+PD ae 22७३ Saar 
+em mg 
+a ST 
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TF PRAT शे। रुश मेष जगत घ Gnas 
+
+
+
+
+
+vr 
+24 |. 
+
+## Page 539
+
+d |i | 
+, å EKS 
+$ ER FT 4 
+REEN A C få i ५०५१४ de ५०५७ ८2% 423 Re 
+NIRS OSPR PRT MORE | SNS RP, ANY >>>” 
+अ 0... 
+"त १... | ai 
+Å 
+HE: 
+Vi i 
+ý sÀ 
+११ 
+| 
+
+
+अयस्मयभनंएईइवि। दौमाविष्नीौ॥०४॥४ डेयरर्थायःष्रऽवते। कृणा ति। ये अथि 
+gear येत) gta पश्‍वः वि ने वि। गा पाम अरिष्ट याति। प्रथः 
+
+
+MMA Ser EUT fi re belt Ass व! 
+Şi नावि चतच तासहसेईस 
+शदे ER WARIA 
+
+
+ER frr Å 
+
+Ea nan जमन वध जन वृध ai 
+KUYA EG EEY GRR की! BR GRÅ N 
+है म Å 
+
+
+THI ग्रा mengd अरयाभ å 
+गशषिताः तेत दस्कन १९ प्रात, ।करणानि।बोच्‌। नी v | 
+JUMIA कृभ्यत।विःभरोऽशदसीइनिउभेइनि।ज E ERE अपन मन k TE a T 
+
+
+
+
+
+
+
+
+
+
+i 
+
+
+
+
+
+
+## Page 540
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+o चु०चृ० ९ 
+
+
+
+
+
+## Page 541
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| जा म ER EEK amga 
+
+१° ितापारीमार्‍याभजरुन्णामःचिलं)यन! grima | 
+
+| अर॑मय॒ः FFU IMT 5 ग्रे।अयाते। A grad TOMIKA, 
+nu कसाब mnd FM AT FTP aa 
+
+
+~ s 
+Y ems” 
+Pls itd 
+
+
+RMG स्यु ति! न å Te 3 
+SE amenat चषि री SIAN NEIGE KRIE E Hi त्‌ | 
+प RNAI RETARA JAIM A FRI ad | | 
+| i ana y SR Aug | 
+Raamaa नेता a वे। मती।जरूत। मार ति।नि। अह/आअ रन व॒वं थि। og 
+
+
+$ å 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 542
+
+
+
+
+
+
+
+
+dv 
+Å 
+“ल 
+y fi 
+७ n Hol 
+HX a 
+0 
+8. ` 
+va 
+
+
+
+
+
+
+
+
+aaa निषै। जेदि।ओ। ped auaa aa | 
+ag अर्ण Jagen म्णागमहा ववि YUAN : 
+ARAINN GAA! नात्वउत्सांनायर | 
+FYeuddquyda ARANT | in 
+ATA N हुतः निभ भूर 
+RRAS १] मुन्य मानने जात अरमा दी जन्ये! शेस Ge! 
+FA TEIT ARARAT KER qan] IT 
+माच इज नि मथा ऱ्य अस्याकच भि di अम 
+न विदव)रवाअस्य।म a सुःसत्रजःभता!मर्दस्यायुर्सत्सेतातर्मसि म्ये! 
+GI RT FAM eid RA Di GRAC BERI 
+
+
+
+
+
+
+
+A 
+
+
+
+
+
+
+
+
+
+## Page 543
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 544
+
+
+
+qanda | I 
+2 s 
+
+
+
+
+
+l चु०१०९. भधसुत Ed ganing PUNIA aiga 
+"॥११॥ p ष Asa is है भा 
+z3 FY 49 न्वावन्नास ÉN पा 
+ae MA JD Si FAY 2 Ao «DÅ 
+मत 2 S] i देवीरति।३: संभभिय 
+कद नि MA i तारंड या गात HÅ 
+
+
+युवती वि RE] a :\ aF 
+ज्ञात! CET ASH 2 S 
+हत! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ls mene a 
+å 
+
+
+
+
+
+
+
+
+
+
+
+
+> ग्य 
+
+
+## Page 545
+
+
+e penn भनविद्ले।दोषा) व | 
+| | ge FR IR वा! RG sem याद | | 
+[i 870): 8 EINA: JTaanmuzaIaMsRyeean ९९११ 
+
+
+
+
+
+
+रर TRER å PENE å 
+= (णद ji fed » 
+५१४ 
+IEN 
+fo)! 
+
+
+|. Map ARNa gangan ee HES 
+
+ह... भ (खान दिय सान अके manet | 
+| Vi सरव ।वसपञ्ञभित्र। सिन UVIRA AGARA e 
+| å WEA: JUN z iai हस्ता CBee 
+Å dl rå set FÅ उर्वराहायुध्यन! श व | å 
+
+| Jigga; MARIAAN å Kr याता re 
+
+| निज ण डिक नह भी KN FOU १॥पृषू | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 546
+
+
+
+
+
+
+ashma म नमअमृ्क्षसःनः एनी वसवानुःरयि। QA 
+Ea इंडाउंलि:मिंग R JAn RERA 
+a उत ना S AARIA 
+
+
+
+
+
+
+
+
+मधस्यीदा 
+| å NE 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+r पृ०च०२ रराणा 
+
+
+
+
+
+it 
+
+
+| | TT 
+
+
+Fa med å lå ard निः्नु/सखे।० मारुतः अंश्व स्या शो 
+णांगकर्वाःमघासः॥विर हली वान'दर्दानभजा ।नाआर्च 
+
+
+| Jonaz ग्म नाःमझा।रायुःसऽ EA i) गो 
+TAUN er FUN स ma y | 
+भोर्चन। धर HINE AA anaa on ताअमे 
+
+
+
+## Page 547
+
+| ud $ ।उशेः yi | | 
+| Ta 
+| he gade råde RS å ततनुष्टिः-. 
+| 4 å 
+
+
+(मुधःवायःकूवःसरवःय मात रॉय LE SAR भा 
+| I प्वार Ages Renate, 
+र EL E ATRA: न।असुन्ववा।स å MAAL बा।इव।अम॒या।हू 
+
+
+
+
+
+
+
+
+
+
+
+
+
+X 
+
+
+
+
+
+P 
+07५०0 ४००५० RÅ | 
+| लिका TE 
+
+
+mylang anelsen Argus वि 
+
+
+ZANA: EN nr ओ Fr 
+
+
+
+
+
+
+
+
+
+he 894 [| 
+वि ERARE IE E| FU F (आ।प राजन NY: 
+| È Grd कुचव[सायताज ENE t ।मृघऽवा।गो de A 
+| JAR अनु र॑त्ताप्रवेषनी उतरी गर्‍्यीसानतासतःभि tet een य वे 
+
+## Page 548
+
+।अग्धउप्‌+ मो केतु अर्यः तस्मे रेभ पी on q 
+giaa ४॥ यःते! क renne eda: वा 
+Yr: PENE 44 TANU यतावा।पंच।सिलीनो। 
+
+
+FAAR E! RAAB 
+ERETTA raan: 
+
+
+
+
+
+
+
+
+asus 
+| fed हिम YAYO 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+bei Å dame ५४५२ "=== - was = åå z z er g z ii 
+"रसावहा भान शज TT का EEE m 
+
+
+
+
+
+
+
+
+
+
+| 
+
+| 
+
+Yogo | NVA मर्यीअमि३येवौ aa 
+
+$$. 'तवरन!दुबहन्‌$तमृजर्नासःङुक्ते$ 
+
+## Page 549
+
+
+Fyr: å FA EN 
+कापराच्या विष्ठावा 
+
+थः।वस्‌नाचिकेतव!दा 
+
+
+
+
+
+सयात gasa ग शवसपुंते॥ | | ५॥ 
+
+
+ar अस्पाकारंद। | 
+Handy ETA! <= ko 
+en १ट्धी महि! दिवि।रता NgnFEuen . 
+नसग Jana: 
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+IAT 93 vu 
+। चिवनु।उुग्धं' अंशमा तेrदबइति। हरिश य शर] शिग्रेशति। रहता से। मं न। पर्व तस्य। पुढे, 
+
+
+
+
+
+
+
+
+
+
+राजनाअवेतःनाडिन्व न शी + $ HAIR IK KALT 
+rens Frang रे EN Em 
+
+
+
+
+
+
+
+## Page 550
+
+
+
+
+
+
+
+Aag KAY MARDA EEN MYN 
+ganahan Aae MARMA! maigi: 
+
+
+hy 
+Å ` 
+e 
+si 
+Ee 
+
+} 
+
+y $ 
+
+RO | 
+
+i 
+
+3 f 
+
+| रति ° 
+
+
+a EE NN 
+| 
+
+
+
+
+
+
+
+B i 
+| 
+
+
+| 
+
+याव्‌ हरिभ्यास न ole रिमा ag *कने।रषो।वजिन भरे था 
+य KA AN वा AaB Fagidaa dg! de Aadaqhal 
+| 
+| 
+
+
+
+## Page 551
+
+
+
+
+
+
+
+
+
+
+
+nangagat ७ vår MEE AIA AEGA 
+å अर्म॑भा:।उर्ष चि नायमरंडरीयासुनवामारीती nå gs TR gg Ar 
+'बंहिमयक्तःय्रावा'सुतऽसीममजराति/य्ावोणःय Ho 
+KURIER UEN ELGEN: KEREGI Ej re Å 
+SUF Hagene 4 44 INF यिन As 
+वि।गाश्सरवाय। आस खने | उप बता क्षिति।क्षितती/सुः Tage 
+er NAG 38 ।सेय॑वीरविसेश्यती।सेजयाति! प्रिय ks 'प्रियः।ॐ पर 
+EIKUN GAl ureta OEIS a å BRIR Ma anaE | 
+
+
+| | Å 
+
+X i pl Å ye 
+
+> Xe A | 
+
+dr 3 ; M 
+
+ळे, ` $ “ad 
+
+== EE å i RL Dre TA ARARE NENEN OG OORS is ५२३४ ST ह pr Å Ev i 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+| | Yen | इतिशतशकना।अर्ध सर मास श्याम हयाय वाई deg शवि 
+| TR | ।दीघेश्च॒वः Bol på RES Pei Så क | 
+| | RANT LITEN; ken 
+
+
+Gs i 
+
+
+
+## Page 552
+
+bers ST UMANN गक TAN र 
+।यृयृ।अर्ङूपारस्य। El på = 
+mep 3 el हि SKE आल रिन | | 
+
+
+वु मोरू 7 
+बोगिरीअरेपीरवाका्यावचं kl न नालि धतिः 
+RAGANA MIRAR: Y JÅ पते।पिव्‌। र्षन्‌ दपतभ 
+
+
+भि graset arealer अये। सुंत ० रप। ला। रुप णेइवे। व लिन नि 
+EAEE EA ECI amean AEA NEEE RA Moie FER dg 
+हीर माध्य न र ngA ANGER 
+: av ग्धः qg gu > जो kE ENIE: i IE HE b ke (iE 
+ना तन्वि भह [णाह aaiae 
+RENGINIAI Meade ।मा/इह।अव॒त वरुण: व्‌ 
+AD हा ।यय॒जानःसपूर्यन्‌कीरीणा दिवान्‌ धरि RA 
+MARRANA IARLA N LIR 
+अशैक्कवब९ गा कमला वां।मित्रावरणो। ऋतःयन्‌। दिवः या महः पार्थिवस्यःवादे 
+।सद॑सि'वासीथा। as वा पशेगस / ना वा मौन ते। ० सु बैतृ ने म॑> भिः वायेगदधते +सु 
+
+
+सभी नुर मसानिध्यदास ९:] J frames Ferie, 
+
+
+आ ककर्श... जे 
+कश... > RRR 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+I क ७७-३2 >> 
+>>> >> $ 
+Te t 
+
+
+ETT NTT EIT e arer anr 
+
+
+Ge Joar 
+$४ 
+
+
+
+
+
+
+
+
+
+## Page 553
+
+
+
+
+
+== 
+EET ES 
+
+
+H 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| a Aena nhn AAM स्यापत्म॑ न/रथ्य॑स्ा पृष्टो 
+तावा।दिव याम्माप्राअंधोंसिशवा यज्यवे भरध्यानासणभदियःक 
+वान॑।अग्विशप॒या। भगे ट्थे।विश्वऽ्स जा em जम SJAM: 
+बुधर्यिं।युक्तःज॑श्वे। ae AAE BKE अवस दचीत। थीः सु रे AQAA 
+ती ।थे)व्‌गए वम मरूत Far १३॥अब्‌ः यायं 'रथः्यु जै रू णृ ध्यच्रादेवाचि 
+नितारोअर्के द्मा Maadh मि 
+EN EREEREER IELA adas Mag सान 
+
+
+ESA । रोणी ययु सम 
+भन वा er bane फणुमघन्यासभ्जावी:चिषणा 3 Rafa JJA 
+iagh Aaaa पर्व ता/ सं तु! स्वःएत वःय) बरस वा न। ची राय 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 554
+
+
+
+
+कट NERE AE? 
+
+
+ee: EF 3 Fer 
+
+
+
+
+
+EP 
+
+
+ya 
+un TEN SR क MARE: तल ao 
+
+
+
+
+
+
+
+
+
+rrr 
+POSEN TERI A te EN pr rane 
+
+
+ES: bz 
+हक 
+| 
+
+
+| 
+i 
+
+
+på 
+
+
+f 
+
+
+
+
+
+
+
+
+## Page 555
+
+
+
+
+
+
+
+
+arena dg वन शंसीनर्य। भिक ष्ण: sen सस्यस्य 
+तः नपीवे।अप।सुः क्ति एणीतिः जञन्निगएतशिन!शषेमशा लि केश 5 
+| å QUEEN याजवामाकवारायेशचि कितुषाभगांयाआापैः जे 
+तान जवसाची T A । स श्वः वेशाः 907 दीनि nd गन्‌ 
+vu YR mer सीआपम्यरभना शुभ्रा agam 
+
+चितानामदतायाच एवा बज साव 3 JAH: mA 
+योनि adi इश्नेभआरटेव्यानिपार्थियानि न| wa J 
+(सु या Faen dr चेद्रश्‍जग्रागउद वर्थ तो'अभिःसता/ अण चंदेःपैदे 
+GK EI DER APG E andet 
+5 BR RTR Rysa un URMANA so सच एच AU | 
+
+
+| 
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+MAARI 
+
+
+O 
+
+
+rer एच 
+
+
+
+
+
+
+
+
+S 
+På 
+
+
+
+## Page 556
+
+Hoa, 
+
+
+३७ 
+
+
+Leren am आ. — 33. . चाळक 
+
+
+| ng > Et ENA न å gen je जर 
+)शु 
+
+
+anesini 
+
+
+ri Få श्य Fu Fa शृणोत) अद ते; पंथाः! 
+
+
+| सुः 
+| ये१देव$हितंश्यद्‌?ञ GET 
+
+
+HÅ | å 
+| || 
+
+
+i 
+
+
+adiski ।न्ववसःमरू वैः अऽ उक्तो।मा। नु/अहि:जु ध्यैभरिंषे। gar 
+दूर उपमा चिन।च'ग्रःमयि।पृशृःमसे। देवीस य 
+
+ज्ञ 
+
+resa धशसा।जशाश्सानु सुः पे 
+
+म्या अनि।नुशइळाथूथ जानासि 
+
+बा रणाव॥उ a RMI ना अशिऽऽण्वीना!च ५ भु थ 
+
+dgani ES MENAAM (थे ती। भी 3 
+
+
+
+
+
+FAI EPANTATLG Gs VÅV 
+Så IRAAGI NETA 
+
+
+## Page 557
+
+
+i | og å 
+| 
+
+
+RESI DONNE घनेनास/नः।व A नि। भय ता। हितानि) aA 
+
+देय vg uy er ३२ नेम 'नेधि।या निं mote" ER 
+
+Fa må यु हिते।यत!अस्तिसा देवाना।स:मत्या/य पिया ना द्य भग 
+
+Aagedal धर्नानों/ केश क्ला। AI 993 
+चानगजम, 
+
+अतः त्राअवाम। कूलानि) ना ते द्व EES umad en न्‌ 
+
+कः चन) आप! उप सवृ हिःत्र थमे TG GÅ २ सा T 
+
+i री A neu GUJET $} wo न नव ai 
+
+१य्चगाना। जरब भसः y Ote RAL 
+fs au ikke दा ।खु$भ ने ihe ।विशसमीण)ङूणृ हि) वित्तं 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+ag NANN मरुत्वत: अप्रति; रतस्य! yt I de 
+
+## Page 558
+
+
+
+
+
+
+
+
+
+
+
+
+
+'नाउवाअश्यानकार्ममराय 
+
+
+| | 
+{ | 
+
+
+१०३० jihadi gu akam: IEE GEIN वुदुचाना ना EEN BANI 
+| 99 å pa ie aga . 
+
+
+दि: qs 
+| FAN कामाच कर ते! सिखिदा न NPE 
+
+घु सु हि।य। सुरण eien जस्य ष मुसा 
+धन मिदव जरस slips raag eataa: 
+| वषी) सरस्वत Ji का।द्शस्य T qag 
+GMIM akama a PA Fe på M ap 3 
+N EN HET HATIY mag ८/मभभासः स्व ति!रतनय di 
+रु इक पा 
+
+
+o Yy Ef 
+f % 
+hi 
+
+
+वायवयस्वाय js 
+बाशामा 
+
+
+
+
+
+
+
+
+
+
+## Page 559
+
+
+
+
+
+
+
+
+
+
+
+माखवस्तिउपास्ुहि।पर्षतःअश्वानाजयारसःप्राएषःरता 
+Sark दपर ags ay ft 
+R maNga नि बाचे NVE RR | 
+
+
+'मंभपृथिवी।अत en 
+
+
+
+
+
+
+
+
+
+भे तीनसभधावित्रभमयः! Fo safi es 
+या ANER (अम; व 
+
+
+RYE pii A 
+
+
+
+
+
+
+
+
+i 
+| 
+| 
+! 
+å 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+NTT TNT TETT र ===>>> gem vr हि 
+
+
+## Page 560
+
+EET ह TT 5 ~ लावताना = meee ee — पा — 
+| 
+| 
+| 
+
+
+ता। ह :वचामसुन्हस्ता। भरे: 
+
+अ INT Å Yå! 
+न अस्य शिन a Arsi स्विपेः यु मताचा 
+
+।या।शमिवारीएसुश्हस्वी।भ Gi मगिरि$र्ठाच' 
+
+
+ang KG anna । ag DIETE 
+TARO Iak राध Re ean ध 
+
+
+'भुवा। प्रनीवी!गमेमाआनुःरायि वीरस्‌? ज! b>: £ | 
+RA å नि aust 'घिनव।पर्युसा। त ग्या ba गड) प्या! 4 
+
+
+| ii 
+| an य eten gegen ON 
+
+
+3 pi 
+
+
+
+
+
+| ।पूयेऽ थां। Eg 
+
+
+
+
+
+
+TT TEST AE Erp EON ANETTE EE aa ANE 020 कक... ु 
+9 छा 7 7 a aa कलाल कपा कदा करये mr eg - x så MTT TE 7 EA 
+
+
+
+
+
+
+
+
+
+
+## Page 561
+
+
+wi 
+
+erme 
+may Tina म्धोधमर्राबाद,हनी। ऋत 5 सा 
+er AA y शयत्त।न।विष्रां। बघा।य त॑ | 
+
+
+।क्तर्यन स 
+PES मयः 3a Ta 
+
+
+| हा र 
+
+i सः 
+
+ga (जाणि! पुसा Eint t Bisi jinis 
+
+g FS १अदिशिगयाराधसाचोद्वारा)मतीनो!या।वाअस्याड्रवि! 
+
+| उनात्मुनोओआ।ना a FG वि TIN १।चावऽचृद्‌ः। pi | 
+वामः ये जागिर:जरितु।स:खुति। चा विश्विंग ता मरुत SAn imi 
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+तिस 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 562
+
+
+
+
+
+त्रे च्च मा 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a EE se == Er as 3:55 
+RR Tyme 420 E SI 
+
+
+
+
+
+i KILTA 
+डिवः!टहूतः परता तार ती।अ जता ग॑ वा य सं। ह वे देवी। EF Me शन i 
+वाचउशावीश्रणात आवे! ya RA साहू" 
+øk NÅR: ELN म) अघर्णसिः। वः 
+
+ESEURI नभश्नाग ।त्रिथा re E g ERLER 
+आयाः विपन्यवः) रास्पिरासेः म सारात्‌ ःइ॑ब्या 
+
+
+
+
+
+
+
+
+## Page 563
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+नावास गरत PGFATNFLA EEEIEE K 
+IAS må gaia Sn म चिद ्रती-ची नं! ढा 
+रशाजाथाजयत|अन यासे। ब सेः BAG: स्यायाःस्वः।विऽरोचमानभक्‌ 
+व; | ga नाटथाय नान सुकतो! प्र p Ei MA 
+A डबिभसचते (सवाचा चावाचाअरि्ःगातगस राचा सह:'नरिग्रःसर 
+
+
+दबोदिनः ANE मह्न ANRT AA सभाजचिनोरः TA STAT) Av KR बु 
+
+
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+datt) | 
+
+## Page 564
+
+
+
+| ५००२ E ।रषौशिश भम ark: ag ma wa 
+67 err en 
+
+
+'वचणामषायतिासंःज्ञ ah l अरग यृयाकिन।चितऽ | ; | 
+| JER Ja aeaa R ve å | 
+दृकाउच्यते ससे छोययांदचिरेसिभयां सा जाम रसम सी। उरु. 
+TRA BAOG सतव लान verd 
+
+
+लिभा।नारिष्यलिसर्वन यिनि ताज नाह i i R] 
+
+
+Jan ।विद्यंतोषृतःबंध॑नी! स red बन विद gry gaan 
+) 
+
+
+EAIA GT ह faa विवा | i श्ये 
+[A क्य Akasa । मायिनः सं) जन्य$ अन्ये च्व 
+| Ruge । नी नीज jan: जन å । Š ig 
+| 9 fn ag मानस्य वि सा यसा यात्री... | 
+IR 3 ARR E aa डुाणमअधिए्तिःनःखं | 
+` amme ।सामीनिग्यंियाज्ञागा( 
+रत) अयसो मम आाह।य | 
+
+
+विदा EF: बिः स्य॒ नअ Ianga: a af | 
+sa sat शोम्नजीभार 
+
+
+NE Ge Gå 
+५ > å den 
+ho UR DEN 
+
+
+
+
+
+4 
+Go ESS å 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+## Page 565
+
+
+
+
+
+
+EREE TAE CE दुर॑।मा सै EEE व:जावरि या बु भवि। 
+E Amad त गवा मावा जानती गा दा घर्न्व ned 
+> स्ट्णाःडवासु*मिता यह इनो "अस्मि उवशाय।पर्ने तस्य! ग भः å 
+i Henry तः हा NW 27 l siy 
+| | g a x uz: i टक ना सि å स्म 
+| IVs grims at van le) } 
+a] OAAR EA dn His å 
+नग "lo rd बालक pa am ` 
+
+
+बणिक्‌) द्‌ कृ) जपः पुरी षं। 
+अच हरस्वयनः। अडिज Sad ।मास्‌ ho गवा करता यती! सर 
+
+
+i Ye Ya 
+9 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+अरविंद विश्वानिसर्‍या!अंर्गिरा FARVER! iai ना 'साथत! T | 
+M ० स सान वता उत्स: झा jente रे TR विदित! 
+
+
+## Page 566
+
+
+mas eng ।सतऽअश्वः। ग्याथ।र्घुः 
+| oe ।अछे।यु 3 E 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+या।स्थामादिवश्गौषा। अया) «lig 
+ang वो वहा Mgs gån 
+
+
+mang: Jå | 
+
+'जव नीर ! 
+वि प्रऽएता वि ण 
+
+IP FE ASMANE! पूषा 
+
+
+विऽमुच।न। ओऽ 
+भश न 
+Ekuiti 
+
+
+
+
+
+
+Å 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 567
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IE En Fu d 
+बेबाक aadA DNNN नाव। अने र आशण्वती म आपै क 3 
+
+
+Fis 
+Fs 
+
+
++ 
+
+
+und hd 
+
+
+NÅ) [oe 
+E 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 568
+
+
+
+
+
+
+
+
+
+१०-३०२, जावसणा।जरिति।स्वरितिंस्वे en EEGI EKI 
+WARN eh रतये उता नम Få उ: ०. Doe 
+| 
+
+
+E 'कभवनउय gaa 
+नो शथे आ।शमदे। ma सदा रह्स्पतेभ शा 
+
+
+
+
+
+सं en Faq 
+Er सुवा 
+
+
+
+
+
+
+
+
+
+॥ थ्यी वरण मित्री अय मा। उत्थ) मप तासभर सुभ्यातेथे 
+
+
+
+
+
+
+
+
+
+
+
+ts 
+madan diaa SÅ 
+
+
+
+
+
+
+## Page 569
+
+
+
+
+
+Å 
+E 
+
+
+a 
+
+
+
+
+
+me så स्थिःवास अमत 
+$ al 
+| थका जर 
+
+
+पत ब॥आ॥विविश।मध्ये। दिवस नि र पृश्चि+अजश्मावि।बकम)रनंस 4 
+
+
+HR a चर धातय नात 
+
+
+Me कक पा 
+
+` | वनताथियःञसेे।अपासि å चोर * VERE nm 
+
+så ऱ्य तिच खुण | 
+EEEE Kalt AE S R G LEE Paas lie ke IES D ये॥ ९॥क प्रिया Ean Tt 
+
+
+न RINY! 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+न अभक! श । अशक जगम व। उरुव्यचा अदिति. | 
+| g ENE धप eT A gA PaA | Fa 
+| å amagut Ei IF: GEL i का å 
+
+
+बोधयंतीर्‍जाःविवांसंती[थुवतिभमनी ` ` 
+
+
+
+## Page 570
+
+
+
+
+SLA EE 
+Fg 
+20४. 
+
+E 
+
+शि. 
+
+ne 
+72) Tog 
+i 
+
+
+लु।व्येव देवी यः चेश्व जन| नो २७॥ ॥इतिचेव॒ थीष्टके द्वितीयोध्यायः ॥ ९ ०१ 
+
+
+| 
+
+i} 
+
+$ ; 
+j 
+
+| | 
+
+Å द 
+
+
+ti ek ft i फा वाता ti 
+i | f 927 
+$ ii 
+B र: 
+
+
+
+
+
+
+
+
+9049 Radna AES ie VA lidd gon विरि 
+
+
+ÅR 
+
+
+
+
+## Page 571
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MAMARA EA आर on 
+
+रा जबडे en BA Sa बरन जआचारँनि 26 Nags FG Å 
+
+आनि शला यषः UNE å MED LEG elg Gå å 
+
+अस्यारीति!प्‌ र! तिअनीके mg ।अस्य'्वर्षेससचा। COCE u GEGT 
+II 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+स्लोदचांति। s, तंय।विशे।स fr 'अनीकः। लि।।चार। वसा न वरुण å | 
+जरि नात Å RE or ERA Å av Bj FJERN 
+sm an चार Ap Madia सा RRA 
+MEGA IBARA ASA Få ~ सब 
+
+WRNI HERE RANAMA युत्या वाग ap 
+
+
+## Page 572
+
+
+
+
+
+
+
+
+
+| 
+| 
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+।सवान।ञनवी।सविता। | 
+तौरायशस्थाम।पर्नयभवा 
+
+dagis Se å 
+व।सरस्ः 
+
+
+
+
+
+वरूयीन सिं धयः) ३षयंतः।अः न 
+Hren IN 483 der AMARI QAJ! र 
+यदवः पुं थि्यो$अव॑स। मुदे LEUE शबः द्वस्ये।ने तु bt 
+zae GÅ Dager बिव 
+
+Ra 
+
+
+E ft icp AR! पति I ६० 
+BRUG 'मना मे दे) छे अग्नोसुतस्यीयी' der å 
+eE ETE AS K AEE E hite al धर्म ण +अ घर! NYRE AFAN 
+
+
+
+
+
+
+
+## Page 573
+
+
+
+। वस्ते उरन डर Ragi ee 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ga: 
+
+
+
+
+
+i 
+
+
+
+
+
+
+
+
+i 
+
+
+i 
+र 
+| 
+
+
+TEMS di dt E EEE EC 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+तये) ar MANGT 7 ee 
+
+## Page 574
+
+ARAR SK aios 
+
+
+
+
+
+
+
+
+
+
+
+$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. १०३०२ Rag ज्ञान यावंगमिःआ) RR साम॑पीतयाअयेसे।म॑। चदहततिसृतः/अर्मत्रे। 
+EK again q småen दानय) विसु वसर a 
+! — y प | aiis maag ANII EG ताः 
+| ड'यावायवें।सामौसः på Éa sprak em å विश्व॑भिः 
+EE z उपसासम्मःआ। 
+RINA | MARM थ्‌ मळ स vips 
+dt 
+
+
+ansat: भ श्य्‌ Å pike IN | | | 
+[पृथि T Hene स i SIE EEES ii g Å 
+| स यस्व mand: qui | Å 
+ads दवा: झवत वसा रत यो बस्तान KRIM! ad 
+
+
+
+
+
+| विवाय Ode as जि ae Ak 
+
+## Page 575
+
+
+
+I IK भ्श्व। d ।दद्ला ताजा नेवा।सा गुरू म्‌ rs श्य gdi 
+teia Wiat Rr भि जदि न Ånd यलि ul | 
+angel gg dd 
+
+
+å ka भमरुतो।अध।मह। 4 E 
+2 it 'चाधष्णःयावि हा Em: मीन मल बसु | 
+IA DOAN भ्यभदिवे!अचे। मरु वऽभ्य।। ४१ ओ। रुक्मे! श 
+
+
+RU टीम अरू ल Ñs RNF 
+Va ।दिवशये। डृधंनं। पा जिया यि RAMIN a EERE 
+nm ।मारेत। उव! ासःसयःशंवसं कस्स उना सम ते। सपान 
+
+
+
+
+
+i; 
+d 
+% 
+Es ; 83 
+PE yN TINNA AG kes 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+पे MRRP: RUAIRI 
+
+
+
+
+
+
+MAAR An: 
+nu 
+
+
+
+
+
+
+## Page 576
+
+
+
+
+
+
+
+aagana inn पणा वसत! ni प 
+daau ami na 3 नाम मिभयसोाविःस्तार 
+så eggene अथोषाराववा र ~ if 
+GIRA IAR न Fa ANE 
+
+
+
+
+
+å 
+
+
+
+
+
+å qs: याष 
+
+
+gazi Se ! j | 
+
+i ma å DE शा किन एक ket ee dm meer å 
+ott सप्त! ४ण्का(शराता। ह्न Vig 
+
+| ig नि।रापा अभ्य मुभे)३०॥कमवेर'जाने।एपो।क/वा। पुर।सुस्नेक ` 
+
+| 
+
+| 
+
+
+| > 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 577
+
+
+
+
+
+
+
+
+
+
+
+A 
+
+
+| 
+
+SALIAR लास्यः।आ।एलान।रभें ष) तस्थु पः! क शुश्चा व। कु था। य यः कसेः 
+
+य 7007 
+
+Fifa सदे? नरः 'अरेपसधइमान। प कि 
+
+yaaga gA खादिय) श्राया रथे ष । घन से) 5 भा 
+
+HEV दये मरतः जीरुदामबभदुष्टी) था प्युन stqneen små 
+
+(दानव: शबे।दिवशकीश अजर्ज॑चयवु ।विपर्ज सेसी ERW) 
+
+| उनि तेड्शयंशतन्‌दानाः।सिचवःक्षोर्दसार जः भासखुभ थे न वु यथा।स्यनाः 
+
+| अवाम र्व अध्वनः sn वि।य न वर्ने ते आयातस्‌ Raam 
+नर्सिाव।अमास।उत।मा।अवौस्था ता पराउव रः मब रसा अनित भा। कुभौ। FÅ 
+
+| manga Åra रि DUR ।पुरीषिणी।अस्मेरनि!इत।सुम्ने | 
+
+
+Ad 
+
+
+परात eo -ys 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+## Page 578
+
+
+
+
+
+
+
+
+
+09 अरतावुभतावशशधीरंथौनो!खेषे।गणे।मा रै वे। न सीनो। जजै। AA Gå å 
+Ef + 3 (वृगएचं जा ते वा ने। JH TOG Sr Ed ; 
+| Mangana MNA KS) यामेन।मरु नेः। जैसी वाकाये न 
+ह | pe ।बीजीव हेअर जस्मभ्यत त्‌! घच ना थत! वृ। मारा 
+| ख्वश्जौयासी भ॑ग। जति बया म।निद। तिरि स्व॒स्ति भि हिला अवय अरातीः रु 
+| Gasa gs स्यामी मरुवस (सुदेव! स मह। असति! सुश्वीरः। नरः 
+र्‌ qua de !स्यामी G Ss AMNA ARAN 
+i 
+
+
+उवास न। अन! दुयाशिरा। ग्टूणी हि'कामि न; ९३३ | å 
+। मारू चाय्‌।स्वः aud | ५ 
+
+
+
+
+
+
+namga: g on द्विः। 
+शुऽयन्पंनेयम्नऽ अयसे! मरि anaia A ।तविषा 3844 IA 3 
+
+
+hee 
+
+
+i pe s St ur क, 2 
+REDE FE ST PP rer 
+j ee o a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 579
+
+
+
+
+
+
+
+agg परि ज्रयः pe dr Sa Rik ll 
+'रिंजयःविधतःमंहसः) $ दियवः वार्ति षःमर्‌ तः जवः dugg 
+| z GI ph मागरभसीःउच३ ARNA 
+जहानि।शिक्षस/वि।अंतर्रिसे।वि।र EGG भिया जथे नार्वनई! 
+EN मुरू तशनाअर्दारिष्यथातद। वीर्य 4: मरतः महिःत्व agha 
+| ज॑ने। ए्वाशनशयामे'अगयीतऽशाचिषः अनश्वे दी) य्‌ ag तनागिरि। 
+0१४ अनी नि। शर्धः BRANA समोर्षथयावध्ताकूपना! wae 
+
+aI ARANE: pk अनुनेषथ)सु५गे।नासः। Tiy EN 
+न्यति।नाजचति।नाव्यथते।नारिष्यतिना अस्या राय उप दस्पेति। Fa NÅ 
+राजांना वा/सुरुदथ।नियुवत/ थाम नि्॑॥ यथा नर यै मर्ण१ न। gadd 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Å 
+
+
+
+
+
+
+## Page 580
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| | 
+Ge, नंतिउत्सीयवारनासं अस्वरन å aa RNa 
+२५ magada योना भवति।प्रयतः*्यनभवत्बंतीपर्थ्याभजेतरिस््या प्रस 
+| | चर्ववाश्ीरशदानवशयवरमरुतेशसःभरस HET RUI भ दथ। 
+a KESE KEk UH NEIRA खत ।पारं।अ 
+| 
+
+| 
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+| 
+
+## Page 581
+
+
+| 
+'थ॥९५॥ NÅ पत$सु'रादयवर्क्षसु।रुक्मा। मरुतः। रथ | 
+| Me ugh) सिया रि qog | A 
+EN vk SIF EUIUIYA FE NR! ।स।जच्य 
+| विषेतायत! ।घाषे।विश्तंत थ EN Ven Sill 
+
+
+ससभरायशस्याम।स्थ्य॑। वर्यस्वत।।न।अ NG å EG 
+WA मरुतः से 'यूयरयि'मरुवःस्पाईऽवीरं।यूयं RÄTT | 
+| 
+ii N 
+
+
+i 
+EE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+मे विभ्रं।यूये। afinada Raa 
+A EN तदनस तानन Diaza a | 
+। तर॑सा।शत।हिमौः।१६॥ घ्‌ Ei JAN 
+
+
+: RGY: ३िरे) रकम्‌ JAR ] $ | i 
+[।अदीरथा स्वय दा चथ्वे। FF ie ie 39 
+| निधय Jk mmh qr: ganh JG 
+
+l I भवर! $ इय्‌ oii 
+| शषेण्यी ब॒ मरतः महेश ने (देर E वल्या त 
+| å KOG वाट EAS FRA KK SJÅ याद हिं। व यथा पुर 
+घिणानावे। दरा/उचेदस्य ते ।०।१७॥ यव/जश्वनि! भ्‌ः ऽस ए थे År 
+
+
+
+
+
+## Page 582
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+gr जाकर 302 TVETER res फाड पाता 
+| 
+j 
+
+
+त्कः NASR SSRN GLEE wf PMN Sd ý 
+| | . t 
+
+$ 
+
+Å 
+
+
+| TI MARTIAL AARNA ANR: सवू RYG 
+| rer ad aiaa अविध्व मरुतुगग छथः उति जः | 
+| IG थन्‌) परि।० यतः षू apa aaan 
+a + विश्व॑स्य! त aya DEC) dte: धमा।वधि 
+DAA is जस्प।स रब स्थ। गानुन्‌} ० दाल मजा 
+aaah: S णानाभजुषध्वानः हदाति) यज्ञ ड | 
+४९०० अम्य शरभ. UNI GVE KG BORTE EUR bk LG) GA 
+| RES ECEE EEEE E e शाए शस। थे। ने। ने द्ध FEE EN ; 
+tua IS faset । कुथिवी।परा+हता।म देती।एलि।अज 
+RIM REI नावः मरू तं। शि SER इवा भीमश्थुःनिःये।रिण 
+
+
+पि TATE 
+
+
+
+
+
+
+
+
+
+## Page 583
+
+
+kå d 
+
+
+I ra Iren «NUT Jo $ युन्ध्ये am La Use: 
+
+
+à अंसा।रुथौ। गा वः ना: gåe aR nanana ए षो सता N 
+nen JKAN GL: तमसे मेवा e E A UE $ an IRAAGI 
+diapit Aaa giga व पा EFA बे।उ तो GIANT 
+रुषः Ee GR ma योनि ver तं red व! प्रात 
+'सथेषु।चोदत।रथें च) मा व Ed 'आ।य Arp ER | 
+शांनि!बि at ee ।रद्सी। तंवः) शची GIN पन स्व TG 
+वे।यर्मिन/स॒ः TA सु: भगा सदीयते। GM मरु व$स। ug | 
+सभइंशु बतः AAN अप y तायौगेतन washa 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SaR AR] s aar så ed 
+eger ह नभरव मं ते निषगिण॑/सुःअश्वा ।स्थ।सुःर थौ। GR मातर/सःआा सर घी 
+
+
+$ f | 
+Fa 
+
+
+i 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 584
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+पर्यथ। एथिवी। पूश्निः मान रः भे।य व! उ ग्रा / पृर्ष॑ Sud EGEAS] 
+a andagi 2 माः i eee sn I 
+
+
+| G (सरे र्भः शसः मे हि ना थी: va FIKK mAh 
+N sada स्वेषःसदरा!अनवभनःराचसः 
+
+
+
+
+
+
+
+
+
+
+
+
+
+refere: 
+q made जायुधा।र वाचि श्रीम 
+Fama ज 
+
+
+
+
+
+
+ar Ge gu कव यःयुवांनः 
+
+
+
+
+
+
+## Page 585
+
+i 
+
+
+
+
+
+} 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i MI 
+gagaan वाक na नव्य॑सीनो।यि।आशर्स | 
+: ज्वाःअमंशवत!वहते!उत aa AR: pirer FE | 
+`. मायिनौदा निवारं। मयःथ ताभमहिःता व दस्व।विश्रःतुविशराथसः बुना आ। बा यू 
+E TE E ANE o EE a E AAS ने तिअय।य/ जुमि/मरुत स aaga 
+GS år युवानशयूये। QA Å ननि 
+fraa यूत यअ।स वः अश्वयभरुतः।सुःवीर।अरा ईव। रत अचरमाः ; | 
+| qıs FU AAR eia, $निशभपुृर्तें। पुजा:।उप3 मा Røer ats aa 
+mama teiaa NNA: 
+dzada ag ev MA Al | 
+RIALP वा तो न! हि। सि स ली चिरे! 
+
+
+Fag Te MAR 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 586
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WPa 
+Pal 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+f A FE Sad पर्वतान दाशुषे वसा नि। वः वना। जिहते? याम॑नः। 
+w t 
+
+
+ऽजाचांसे। सनृ = | | 
+कीनभमुत नामी nagn | 
+
+
+FAG FAG AR EE CRNE मरुतः दद! 
+(angs faste $u prada adadan aaka 
+॥ळतानूञचर्विःममघोसभनजम्रंतानर FKA गिर 
+
+
+## Page 587
+
+
+
+
+
+
+!जनयथायसना ee an 
+
+
+aat आ 
+
+
+पृण्चु०३ 
+
+
+
+
+
+
+
+
+| | | KAk: B ।३्‌।२३्‌ किरणी नरिजयाप्र GA ।शुविताय। FYR 
+
+
+TR ।से$मावी 
+'जिगातन/वृ युन elegi dn RERI GA य 
+
+
+rrr stasen rinine DANN 
+ERA य 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 588
+
+
+भावस्पटाअकन!सुविताय दा वने।अच दिवे। पा पृ थि! उरतं! le | 
+isnende अर्ण ने /जमादाए वं। शियसा। न जुति।नो/नापूणी/्ष 
+Regn $ ० ८ an ।अत्‌ःम्‌ हे! पद AAA Ed 
+ad लने Fi sn t i ळी वश स्थना 
+
+गव! श्रियसे चेत IRIRI वि। महत्तो।उचू!' FIA मुर GÅ) 
+ड्‌ 
+वात! 
+Ån ।अकनिछासः।उस्‌ऽभिद्‌ः। 
+
+
+इ व श्रःश्वाप्रश्य था भाउता य ayia INT 
+मावर RquaÅFusnansr 
+
+
+स्यच मानिने ह लीज तञ 
+I पृ 
+
+
+3 E p 
+
+
+
+
+
+
+
+
+एवाउमयायथौविदु ER Jaag 
+उपसंधयतृना।आजअज अव॒शदिव्यं। की rad RE FA 
+Får विरहः ससःवि)वयत।कृते।न है 
+
+तासतामी चरथ्यं।आ।ये। तस्थ॒। ए 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RA तीन daga 
+AIEEE iLE Ea 
+
+## Page 589
+
+रवा ग्र।भरे।वी नय ERA ro | 
+aYgFyaaaat Ag = 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AANA क Na RART बिगाय दिय। चित | | 
+å जतास्वना व यव! की ळर त: वर त! आपः+ इव। समय SEN ! KAR | 
+सः दिरण्य।अभि।स्वृधाधिः ah ना 
+
+
+
+
+
+
+
+
+
+
+
+
+वन! ये बास॑।अव॑निश्वास/ रः av gig ane Aa 
+UNG: भसुःदिना मरुतशभ्ययवउतशतेमे। मरुत/ मध्यमे। बा। य द/ वा। अव मे। सु ऽभे 
+Rem IEI I ARARNAR विषय TAG G 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+## Page 590
+
+
+
+—— paeme: ००००० emigrere emne 
+
+
+
+
+
+
+
+
+
+
+व/!मरुत/विश्व/वेद्स/ दिव।वहेउदःव॑रात?अधि।रखुःभिःते।मंदसानाभघन॑यःरिशादसःवामे। 
+varmgang asså arsen 
+।शिंधपावकेशिं BYA ।आयुःनिगवैश्वानर।भ्र१दियां कनमनर Ee 
+» | अष्ठ+तमाःचे। एकः एकः ञ्ञायय!परमस्यां ag 'वअभ्वी॥च।जभीशंवाक 
+| MIT एंड) सर्द2मसा/यमं।जघने वे द। एवं। वि। सक्या नि) नरा UTE z 
+i मय ।परावीरासःइूनन।मयीसमभद्र मानयः जअसिःत पं यर्थाजर्स थ। i 
+चशं।उतागदौ शातः le. harald dgy: 
+adam jaAa T ध (एन या।जा ना तिस 
+Raai TSR duger AAA 3 
+aan ayaa a ति स्यावाय। वर्त नि ि। रॉहि ता। पुरु! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_ थिमत॒शविभायादीधःय॑शसायः मे घेरना शनोवेदवःझत्विययथादर्दव!वरंत: उव में हनां। २७॥ ॥| ` 
+क टीव्हीने आशभरभिगपिरवेतः| रमत TSE aAA कारा Fr 
+| बु!आदिविरुक्म युवा।सःमारुतः गणः तेष्र॑थयअनेचचय शमृभ्याया जम 
+"मा a EE E 
+faa यागेरू नियु॥ *४॥ते। न परदे ने। RINGE: स न य kat | 
+
+## Page 591
+
+våre gaa ka वि।रथी व उतोमे। वच वावर निं। सुतः aa | 
+
+
+
+
+
+I A A 
+
+g 2 yi 
+| | 
+e: 
+
+
+ema aes Ratahi ag aa | 
+
+
+तरले आर्पिःहिता भुवया सर्यस्य। यत्रविः्स i Aaaa gaT 
+qaaa ME Gaag ALATAN नी agag: Aa | 
+नथः।स्वसेरस्य।थेनोः अञ। वोग एक परनिभाञवव वाताया C ama 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+॥ पृ०चु 5३॥। 
+
+## Page 592
+
+KN 
+
+
+
+
+
+
+
+
+
+
+
+
+| वरुणा।मर्ह भिभवर्थयंते ओषधी fed वेगा ANIRAA जीरुदा pp A 
+| 3 DoT > Rig RA सरं 
+। त्ये ae MG ५व।यचेषारक्षेमाणो।नमस्ेताधनःदश्ञा अधि। गे | 
+eO | रु णरळोस'अंतरिति३७।अ्क विऽदस्वासम्ङते परः| åra इनि 
+å | Ea ना/क्षते।अर्टणीयमाना।सहर्न aR a EG | 
+i } 
+
+ES ql | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ad EN RFE era ANTAS तो निः Gan 
+नेमी मध्वुशअ्धि' ge हिर॑ण्य:रूपेउ षस॑: विःउेडठी। भ यःऽ 
+
+र थ। वरुण।मिज। NÅ शा हत ज दितिं। दि i dra 
+E दानूरविसदान/अछिंद।शमीजुव नृस्या गे। EAL न मित्रा वरुणी। जवि A 
+= o साँसनगनिगीवोसस्वामु॥३७॥ -॥ इतिवतंथी शक परेसृती MENAN ॥ 
+
+
+
+
+
+
+
+
+
+
+## Page 593
+
+
+
+
+
+
+
+
+ngon . 
+
+
+
+
+
+
+
+
+Regent. 
+) दविःसुशरां । यवनस्य रामुथःमिनोवरुणाविदचे।सुःऽ | | 
+| ।विचृरेति।तन्य पाया पुल रेत | 
+
+of Fon RENS urin qi | Går | 
+IRRA ANE RA RaRa | 
+। गसाम मतः ईरते।रृथी य॒ञेते। मरु ~ to 
+RAMAK AAA Ra amma | 
+aig मितरावरुणा हे Fuad ene 
+
+
+'मायया। KR दि IRMINA ति | Ko । 
+wama lt आपत्य RAAS EDEYE ; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wer 
+
+## Page 594
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+i 
+ti i 
+
+
+
+
+
+॥प०च३०४)॥ रिशादसे।ऋ-चा।मिच/हवामंहे। Nanan a aaam aaa 
+यता असने dl på AM bs wt UA! गे Å NA 
+
+ned प्रियस्यशर्मणि।अहिंसानस्या/सब्िरि। य॒वाभ्यों। EIEE EASE 
+
+यत! हये मघानो।|खिवुणा।जास्पूर्थसे। आन। मिच्वासुदी कि ति वर्ण । ३१ सथः 
+ARa NAA ts He ANGRER दि ARIRAN 
+सातय)कते।राये।खस्तय।उछ यामि,यजञवा देवःसंते रु नी कम ।साम।नाहस्तिऽभिः 
+जापरनिशधावतानरा।बि्ती। अचनानसं॥ २श य चिकेत स सुऽकरत Ea maada ` 
+| Er बन रा gn ता 
+
+
+
+
+
+
+
+
+
+Dn SEE ची men je -+i 
+Fe EGEN AR A 
+* Š Eg 
+2 
+
+
+
+
+
+
+
+
+
+
+## Page 595
+
+
+
+
+
+Kang as ऽजने'वा। इयानः अवसे su p | 
+SRRY! नावानान(जानिादावनामित्रा अ ie. i 
+
+
+| 
+ù | 
+| i | 
+N 
+
+
+| गाले'वनेत।मितरस्था शिप्रः तर्वतः सु*मतिशअ्ञस्ति। विधत/ व ये। मित्॒स्य। अरय सि।स्याम सत्र 
+ENC WT i or ah pa ae Aga 
+
+
+
+
+
+
+
+
+
+
+
+ei “७५ semen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 596
+
+
+
+| मामघिनः परि।रवयतं।मोइतिं ak aest a MANAA Fie ।आ।विकिता न)सु 
+
+ह RART Ned णायाजर ig तप्रगंस।महे।ता।है। GN 
+3 å IFE GJYT न IE- GIER C DRIE k ।म। घाथि!दर्शनं।वा!वा।ए | 
+reden Be ERA RE eE ARAE Vag | 
+dear DE ता।नि।वेतुनाजनावा॥। Es AGN GY 
+
+| Ai र रि amnad 
+
+सा नल : Js | 
+
+
+| INIZAN | 
+Så वे आदित्या।यज्ञेत RUGAT ey boeh क्षवे।आशायेरनिं। शी as ट्र 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Amen | 
+
+
+॥१०च० ४ | ण्ये NE ।यतीये।चर्षणीनी१यंत।स॒म्ने।रिशादसा। AZA! 
+
+OA (WRR: रिया, R x a वस्त आ en था! 
+
+i ससुःदानेव a इरः NÅ Ronqaashaag: 
+| IMJA! mA ।गायत। वर्टणायाविणा शिरा FG 
+ne Faen å त MAAZIMIO: g! FAME | 
+शस्रातता१नःश a E ME 
+
+YU sång å इति।र ४: IE TIK res Er 
+
+ngga s mae ET 3 EN Nga जी Mara ` 
+WINGE AFG FÅ NG f 
+
+dakad pja. संस्थ) वषभासगतिसुणा थि बर्णानी।रेनः: घा na 
+
+
+। ia प्रात; HÅ Are damas रुजस्याराये।मित्रावरुणा |... 5 
+को på ही या GASS EJ | 
+ARANA A, Baqamyq MELISA चिवाहि) 
+reg FR de तावा! सम्यक) जद दा णा। garn ॥. 
+बयेते।रुद्रास्यामापाते।न/ रु पाय त नायी । स्पून तनलिंगमा 
+| व'कता[यक्षापुत्षेमा तन्ति मारे पसामा! dan ८॥जआञ।म्‌ः गे 
+rn रसा aar णा।उवमे।चारे ae szamana 
+i 
+| 
+
+## Page 597
+
+
+
+१... 
+
+
+बश नाविष्यतं।थि र गिभ ब ९।॥ओ।भिवर्रणे 
+På sqA Na! से 
+
+
+णः ` 
+
+
+| 
+
+
+> FESS PASSO TN 
+rere 
+
+
+| क चे चन वरेण च! EEG rt | | 
+| Agde . | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+= | 
+॥ YoFoqi Sk ooh sa 27272 अभि BE ARAIA 
+E १४... जागतारहात्यापुरः N ASEE Ee GERAS A 
+
+m Eiaa Q EKA UG GAGN BERAREN ENA 
+
+
+सरते kremen तवि।नरासुन्ननो नेतसाधर्मीय द/वी। अरेपस। 
+
+
+आरनाअरण्य ति।उम्रबो। के न हट हि ।सेश्तनि। यदश्वो।देसःऽभि। 7 
+थ 
+
+## Page 598
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i. | ड 33 दमय Toone mds aaay ति। | 
+å पृ E eS fà Aaga बा! gaa ode | 
+नआ वुछयतः्मा।मा साचिन AAAA । ५ ॥ | 
+| Å 
+| mrsa sa ed जेल्विना। जय दिव ag haamana d 
+za EERS DINGA en नाज ... 
+
+## Page 599
+
+तथः जने)कःवो'नदीनोस चाके।याथः काह गछथः के) अर्छयजञाथेरति।रथाकस्व्ह्ा.।. ^ | 
+EEN JAAA वारं। चित /हि।उद3 JANI NT जिन्व॑थ mA । A 
+| Mesa GE उम बन Ihas ILANI SÅ A 
+। जका ३३। वध्वः १% EA MNGR से: २ Å 
+TAR न GI वाजिनीशवसकःव।जअध।उरूणो!ओआ Nil ol 
+
+RAAI sawa १वाजिनीवरुइनिवाजिनीःव सजा रव ren 
+
+
+
+
+
+
+सावामधभय 
+
+
+- 'अश्विना पुरु वित'अखभ्यःतिरः आयथःमर्खेषुआ। शं 
+अस्त ।जीचीना।विःवेतसाविऽधिःश््ेनाऽईवादी यते।अ 
+
+
+CC-0.In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+an 
+शातने हक हि चिता i 
+
+
+| ENGE pi NMA नानो AG Ja 
+थु॥आ। ये! वो। रूयी। रथे।ति कापुस वरि! वो! अरुषाःवयः घु णा ~ 
+$ 3 
+
+
+
+
+
+
+| प०३०४॥ श्रय वं।इमंहवबसीऽउवि) anda देवि) सु) वे। पु ९8॥ प्रतिप्रिय्त मे।रथ दणके 
+
+
+p N maA MRA gå asså 
+l : MAL Ra हास t å an Å sp टी का | 
+MANN xie अश्विनागर्छती Jå वर्तनीइतिहि. an वीं 
+वखइतिवाजिनी ।सुख्ुभ;।वा।वुष एस! रथया + 
+
+| q EN q NITI JAAT: u 
+fn नेअख्वि ना।नि। इयाविनं।०0१५॥ आ। वा NE 33 स 
+AEG NIYGR ga E araba GURSES enga GÅ नास॑या। मा। वि 
+वेनत।तिर/चित/अर्य३यापरि।वर्ति/या त। अदा भ्या। ५अ न्य | FAR | | 
+वी अवस्थे अग्दिना।यु्/णतोउयाभूयथ!०॥अश्चाउवा॥रुशवऽपशुः आञ्‌ ५७ 
+
+
+## Page 600
+
+
+
+
+
+
+
+
+
+
+
+
+
+å | FS AO 
+ee GS 
+का. त RRND A ONIRA 
+
+“i ९५ 
+
+
+
+
+
+Ed 
+
+
+
+
+
+
+ae ltaqiyead पाद्‌ | 
+
+
+
+
+
+PINAR RENA 
+'अमसि।उषसोा। अनी क॑ 
+सिना 
+$पिले।अव॑सा।आ 
+rd rasdan 
+
+
+
+
+
+
+
+
+
+
+
+## Page 601
+
+
+
+
+
+
+
+
+
+
+east sen 
+onie same FANT याते। 
+i PH नुमे अश्भिना।उ GNZ 
+kJ Iag NAs fan goan । 
+Raha नाना IMAA 
+ना|आतवानाइदे। dyr MRNA Base यक : 
+YA उमींवहता!०॥ ९७॥॥ प्रावभयावानाश्रथमा।| यज थे VING | 
+यल अधिन नम लि कप ndama araa 
+mára gN he Tr GE a 
+| श्वेकू।मथु व घृतः रत्रु। पदत बलि (वर्तते।वी। मं 
+
+
+` समशखिनोरबेसासतेनन nil तगोलधोराना .] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+नहि] A Fk 2 2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 602
+
+
+
+
+
+47% ज Ra maet ea EE 
+> rigg 
+de: 
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+॥च०३०8॥ | तरहा।जैनोज लिःया थ।दु४इता नि विश्वा। थ।दायिद् । ना से या> Ad eien 
+OM Ered egen srdauadraggdatent Å 
+| सो3ईव। Tag mme अशिनाहरिण wis aja ने | 
+वाजिनीवसइतिवाजिनीःवस। जुवैथा। यस = let तवव बीसा ` 
+हवीत! नायमानाःइ याचा) TR व/जवुसाइलननाआजगछ तो अश्विना। | 
+| नि) ९९॥ धे A न स्तः 
+पाम चेत! यायावरषयासप्तः amgin 
+EA था spd किण ।शेऽरँश oe एकता गा ए so a 
+र युथावनीयथास JE To नमा सह Raym EM 
+सान!शशायानम कुमारधलञाधिभातरिनिःऐवाजीवधअसतः जीव जीवाः अधि॥ ००॥ 
+
+
+काञ्च शते 
+
+
+ta 'जयावोदयाउवंःराये।दिवित्मती। == तनः अवोध यःससः श्रेबसि।वाय्य।सः 
+ARRA T सुःनीथे।शो चव5रथे।बिजछ मद हित दिवृशसावि। 
+
+
+annada å तदिव ae 
+निह यममेघे y नि! T दा तनी » छ प 
+| er d mal Aag festar pk 
+
+
+| z EES MEN hin sg AIRRA मं 8 | n कर 
+al Jena सुर तान] na å ` å EN X 
+; Series si की > Eta a ay 4 
+| अवयाता चषा q ama MIRR ANRA: ४ । | 
+वृरि। उछ यीय यमान्तक कतरी अरणः सी फिमानी 
+
+
+
+
+
+## Page 603
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+Bd på SES Lak DD TM LE Ed OA NE ५:४६ br SE ~ कर z === ERE 
+å < POENT ५२३६ 
+
+
+"तस्पपथान जे तिसाधलेज नवाब नारी मिनाति 
+
+
+N90F00 2ngsåletamsqådn श्र तिं। विप्रांस। मतिःलिं। मरते! एवा। सने। दर्श ता। dn: s ma 
+p S BENS, तिजंग्रादर्वःस्था [दहती विश्वःरून्व]! उवा: ज्या पल अप sur 
+| ।युचानाअश्नेथेती।रयिं'ज प्र आय) GY AUG gwg 
+ÅRE रा harem एसी मलिक चृ hs ok a av Yn 
+।नातन्व/विदाना। उध्वी३३वासनावी या शय। नः अस्या अ अपी दे पं) बाघ माना। तस सि।उ की; 
+| च्‌ SR NA आ गा वोग वीची।दुदिता)दिवः FAN re | 
+णि विऽईष्दुती। बुना AGA RÅ 
+झड 
+
+
+Rd per pa हनः VEN द n sereni oo 
+ag è NN | | 
+ठ र्ता TES I "da ।उषसं aa यस्या प्रः | | vi ; | 
+
+
+Å 
+
+
+å 
+५ 
+है 
+BE, 
+PRN + $ j 
+५७०२५ PT 
+Ri 
+v x 
+£ 
+z 
+शी 
+244 
+
+
+daga an Gå por Raagmaa 
+
+RRI Ea म KO GEA UM NA ren | 
+
+
+## Page 604
+
+| - रा पज परि रयसे।उत। मि्रमभृवसि।देय। धर्म gaa gare) ' 
+
+aN ARNAN विश्वी भुव॑ नं।वि। रा जसि द 
+॥२९।वद्‌स विते दणी महे वया रेवस्याची 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ar DES Ep Hd २०००-५ cL EE transer rd nn > (77 ......... 
+ts iii új हिकः "७७22 03:32 Eee 2 
+००८७८ y 7 द ४ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+॥। व०-द०३॥ He ३ सविना काहा न्रा van 
+
+><  चासुवातिसबिता॥%७॥जध्यवदातवर्सोगी४निभआनि/खु RS न मं सा जा निया! 
+द KRII जीरादानुभरेतदधातिजञोषंधीपगभीविदानाहंतित!टंतिरश 
+| AANA enri भं a a व ENINING > न l 
+ह... दळ SES! I$ याजनिः = gag anA हा 
+ve सिंह Ta gaai ngaia | 
+
+उत! va ninama थर [ 
+ons वी।नन्नभी ति!यस्यवते। TR FT मे भरी ति। FE | 
+
+
+rå गसःनः पर्जन्या Ridge INE Ale BE AG ES GU 
+Fa 3 Ut A ES रकन ॥७७॥ 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 605
+
+
+
+
+
+| 
+3 भपितानशअनि/कंट!स्तनयो गर्मी आधा aa परिदीयारयॅनादृति!सु, 
+mari उक GraugaA NN MEAN 
+å å kb en sg 
+हंसिदृ७कुत॑/ प्र eg Å ma EY /वर्ष। 
+पृ 
+
+
+
+
+
+
+
+
+
+
+
+gaya AAMIIN al å SG 
+MOARA ER am | 
+कुभि प्रायावाजानाह, 
+
+
+| याद and | 
+| us maya ji o 
+al == har RON PENERE L 
+
+
+sl 
+RE > 
+AE 
+f PA 
+र f Ke: 
+é i शय 
+र ५४ 
+á 4 å f ४ sl 
+क u i Sd 
+४3२. 3 र < PI 
+EN DN EM) ५ >. ¢ Å 
+SN ER rn Se RST SS nr Pa 3 sD RS ps i É Å) E RERE VERE AT 
+
+
+
+
+
+
+
+
+## Page 606
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+i ।१७३०४॥ dasgyd न सकती वरुण: अपःस anså नी 
+| 3 | चीन॑बारोवर्रूण न णि लक नरभ es | 
+| चा दुषिमविएनति।स।उनतिूमिषृथिवी।उतभ्धीयुदा। दग्धृ) वरुणव et | 
+| a तापर्वतासः। न Ferret | 
+Kigh mandy m TEESE क भे | 
+uret Å Maar VEE 34 år व ।न। 
+
+। vgs: /अवर्नय/समुद्रे। न कि MEMAN 
+
+| र।वाविश।वानित्योवरुण।अरंण।वा।यव! सी। 
+
+Kaada 
+जैस्वामावर॒ण।प्रिया 
+
+
+då 
+
+
+26 gen धयापृर्तनासादुखवराश्या।वाजे पा श्रवाय्य!| kmita णी गर भे 
+
+
+| gr amazas armay FÅ ny ii 
+\ यो दऽ ks त।०५ईडा ग्नी y पशा रि 
+तमा।वाइ्थ॑तों। steg ।अदभा अईैचाचिदएपरः EG अंशा! gi वे 
+då एवा इंड ॥हव्या aat न। पूर्त अ ङि भिः नषु अवे! रर्‌ 
+EG TEA EG | a २४ दः duaan _॥ भवः मुदे। मन यं ये! वि | 
+$ Asanada gs qe FÅ FAA 
+eg EGE mag IJIRA iani f 
+ARMAN व॥ मर व न। ध्य | इना बी वत्‌ 
+ANRIA Gs IMIG ANIN 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+घास agag Rae ।वि।स्य म IRIA A 
+TERIER ये अवंथःउभा।वाजे व।म्‌ TRURI | 
+
+## Page 607
+
+
+
+Hå स तथ।न। ganen चुनी नासः E मे। gran निभ उरू! 
+मःधसमान मास Hug व्या सैर द?य दा जर्यक्तात्मनौ। स्वात अधि रहुः life 
+_िर्घसःविभ्मंहसःज्ञि ।नऽनियस्नःन us aad न Raga 
+सष paa aera Akk चः।स्याःः + द्रि. 
+as å कू i अणः NET व: महिमा! दथः शवसः।खेषं।शर्वः।' ` 
+(भवत! एवृयामेर द; स्थार्तारःि। सि शिस्थनातानउरष्यतामिंद शश | 
+: कोस: न! अनरयःते।रुड्रास।सः मं खा। ज सयः यथा। तु विः Sas वाएकयार्मर ` 
+DIRAJ थे।स श। पार थिव येषा। game सिजन Mt 
+डेः म मरुतः mi आइतन। श्र तह वं। जरिव।एवया मेरू) विष्णा 4 मह + सऽमन्य 
+म युभे।वन्‌।स वररथ्यः। न! दंसना अप डिषोसिःसनुतरिति। गेत यत यृद्चियाः र 
+
+
+aper saag 
+
+
+KUGLE de ES यया मेरू त! येस musna Aeg 4 र. 
+
+
+वसःस्या ALNIN FEEL GR अग्ने! धथ मः म्‌ VEN |, 
+Ñ व्‌ za al यासा IIN AAM ERE वि सस 
+I दः। यजीयान।इळःपरे,रवयन्‌। सा bs, 
+सभम्‌ हैः रा झ्य å quad AT दशै ते+ हः 
+les FA! व aad Aaqa se naia | 
+| खो! वर्ध aad: मा वचाम नो। ले। चर ता? 
+anga माता।स देइल mynai स भियः। Be 
+।नि!ससादृभ्यजीयानः ina जा! कि बोर उप saus 
+sjaa Fee aka देवः येव) से 'विशः। अनय ।दीथ्धीनः दि 
+
+
+Va ahili जार वोस अद्मन्‌ | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 608
+
+
+
+
+
+
+ह ४-५." ss st å rate gs aa BE BS ५242 च षः 
+
+
+NE ra यज्ञाइलिपरिवेश > 
+
+
+। १००४ ang हता।शेचनेनोणशश्वतीनो। atana anA तिं; इज . 
+
+| त।पाव्ं। राज ने। अ अजने णा GESKEI Ar gata | 
+IG Es nese kn su FN TA सः।बामा। r3 भञंसी 
+ARRAI ATA भि अंग से sugar AAR सह से: गी. 
+
+।३३9॥ जाते) नृग्र यो। स+ मू ।आ!यःवतेथीरोदसीइति।विभासाऽश्रव$ | 
+
+SØR वस्यः तरुः ब hi १स्थविरेभि।अः डव EIEE å 
+
+तिकार्य।वनेया — 
+
+
+eooo (पहल 
+
+
+RY 3 
+ल्क राज 'ते' जश्या ga न बा | 
+
+
+IA FG! 
+चतरा जनि! सेइति॥ nen गशतिचतु gaman ॥ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 609
+
+
+
+
+
+
+१7९०४०५0९0 ETE NED 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+शक de Ørnen as 545 
+LAR अ 
+A 
+r VAGT 
+
+
+
+
+
+
+ENN कर कप नह 
+ae rikpi 
+så Br 
+non . 
+i £ MR? 
+Jor KN 
+Ry 
+> TANT 
+| ५४ 
+
+
+
+
+
+« 
+MANS .. ES 
+
+
+## Page 610
+
+
+safna 
+
+
+$) 
+
+
+en 
+
+
+
+
+
+
+våt २ ख दिसे न+्द दा यहा अग्ने य Qu 
+वसोइूतिःपुष्टि।नःपुव्यसि॥ो।R.स्स'दर्षणयः। य | 
+nen adm वि।अदुक ५ रत्न; तू दिशः चर्षणिः सः | 
+quad हरय दुरे थते गखंदूवहीस्यः। माच ब अनः सुम्नःयुः। | ` 
+JHuauayaan Re ।धिया। मर्व दादा मते॥ऊती।| 
+। दुहतः दिवः। RURAR malan सश्श था।यः। ar क 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Männa संधषृष्य तिः क्षय य'अ गन हा त* 
+
+## Page 611
+
+| बं॥ १ गवेषभते। धूम सण्व ति।दि वि।सन/ शु ऋः) आई ते तः 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+ERT 
+४२ 
+
+
+
+
+
+
+
+उ dn M 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+) ड पापाय क। रो चसे १अ थ॑। ह? वि क्ष। ड्य अ सि। Aa y 
+| शा rene å कव HUI 
+Jo हे oa अत्य न। हाः विरद 
+Hen चिव अता, अग्ने) पशः न! य व॑से गया हे AUF | 
+टुश्च नि) वि छ स:।9१अ7ने होला) र ।बविद्यो सऽ से थ श SY 
+
+
+HAARLA ARR RIRA RANNA 
+
+
+MARAR सिति। दिवः नून! T सि।हु*इ ता। ते 
+
+## Page 612
+
+स i AR Å 
+| | 
+
+
+
+
+
+Å då Ån, I व्या € E SA e Å I 
+UE | ३ JE 
+| 
+
+
+।उयो सिन pa de dri at कक 
+
+
+A व अशवा नगय मसानः/आसा $: भा नः) परशुः।न? 
+ददिः! न! शव य॒ ति।द रु? थ क्षं दसः ह 3 
+
+
+नर चि रीतितेर्मःअयं सः ना धारा॥ चि अरविधयःअक्तोभवे 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Fa सतउ mam] 
+
+
+५ TN on REE nnn rn mn RN k—Ä——— नक ee ——mdø armeer ar DE ETNE "EE 
+
+
+
+
+
+
+
+
+भि?) दान भे) चा मी भिः स i वा राय अ गन ये। द्‌ | 
+TN nid मतन gamas शि सूरः j 
+DARDAN भीमा। य व! ९ तिं। RAN AR RA: 
+
+य।न/अयं।अक्तोध कु चिन्‌! र णब? य स तिः वनेऽ मा: तिग्मं चि! एम मे 
+
+
+इव। प्रतिं धा तअ सि 
+
+
+me SSE 
+
+
+
+## Page 613
+
+Qao 
+
+
+a pa agTHs ञं हाः ३ काच are शे तिषा! 
+| sengene +आसूषशयः। दिवान; न 
+| चः यः दिवा।न्हन? द्वि। नश्य kata av MT 
+| चीव) यूना दशषुणान! यः भ्रमं सापरत्म॑नाभ्यन्‌२अा। स (तवस | 
+| नसवर सुप बय ER UR 
+aa: 
+
+
+
+
+
+
+
+
+enda रुतॉ।ततर्स स ga | 
+_ ब रभसानधअोतः ४१ यथा होतः/मनंषभदेवस्ती ता। यश ug 
+नोडति'सहसयजञासिगएवानअद्य'ससना)समानान!इदान अग्ने 
+
+
+åå 
+F 
+Eg 
+ME 
+HÅ 
+GE | 
+|| || 
+| 
+|| || 
+|! 
+$i 
+å å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+उ्तभयक्षि|देवा क) सन! ra यंदारुवे चः र 
+dunaufaasangaansrnd: | 
+
+## Page 614
+
+दाशद्यावंधनायस्य पन ये ति, आम्रे! भा सं सि।व स्ते। रूये:। न? शुक विशयः इ 
+नोतिअअर पावक! अश्वस्य चि वः oasen Ra | 
+ME R (क aug Are 
+oi राजाउड्व।से 4 आढक से पि।अं तरितिंग निई सिसि,! pas TYR | i 
+| ds तुयोम)यः,ते आ दिरा ती 
+
+
+अलंधनाडु तंधपत॑त/प रिश त pram सर्यनभानुमतरभिःअर्केभअग्न 
+e 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ततंश।रोरसीरनिं। बि।भासा५ चितः यतरप alfa शो चियां पत्म॑न st 
+É का रि काम | 
+सावत ये (ति।राध॑सा। क$ त मा: सु) तः! अगेन) अ र 
+नि: स्वस्ति वे चि। रा यः।प थि3 धिः यचि अंड ता! सू रउ भ्यः! एणते? रा सि। सुर 
+|. लड Rimngsåa:n | ६ A A खद t anaha ani 
+as pa a amq राणि।पृरुठ at | 
+KU नि dr हाता aua cn GER यां. 
+enes इ व दिश्वा। भु दना नि।य स्मिन्‌ से। सो गानि।द विरे। पावकेण्ले। yy | 
+
+
+
+
+
+## Page 615
+
+
+== 
+
+
+
+
+
+
+
+
+
+
+
+
+20432 3७20 aon FAE 
+LR IR E 0 rs 
+Ar sr å 
+
+
+क 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+चिक्षःभःरिवसीदआस.कलास्थी: झभवः।वारयौणो॥ अतः! AA | 
+| पण ag खसन 
+लिका सित्रभमहः! पलक raden ae UTAN 
+| पिज्ञातपसा|त्षस्वा my ngA W ås धा।यश ड़: अर्क m u NR A | 
+सहस रदादाव)सःमत्यपू mana many रर नोश्वब॑सावि।नाति 
+पल ig Aa: TX ANANTA! मे हसा) स हे स्वान/५य | 
+TARY RERI द? भि? स वस IMAR: ड पिंसन्म॑॥अश्याम॑ E 
+ERHAN RNR थिर थिव gem NÅ 
+
+
+
+
+
+
+
+
+
+## Page 616
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+AE 
+| 
+i 
+| 
+
+
+Oanada ng ANAURA तिए/७ unadanneanFGA 
+| A ia iian arten FA Dr Magda A 
+
+O ARNm maaa A TAR nA 
+E E t e E Eak पृ णिः इथू क) अग्नि अचुः्या तिश | 
+au Aigara: Ee a भाभोसः रचे, कायय चरंति!' वकि f 
+ga [सः द्याय ARANNA ता t रुर्मंत*भये तेग करास i 
+| EA A ne P 23 anga Fa 
+भातिध्यातयमान/ अधि।सालुं। un guard Ava 
+
+
+
+
+
+
+## Page 617
+
+
+
+o y sp 
+
+
+rakne is ide eee 
+
+
+Me पि पकन sagi 
+
+भीसधर्यते।वनांनिधआ।भानुना पा af शिच VIA 
+तवं थसः! बाथस्य'अषभया। RÅ: TG Cr 
+१ चिञ दिच,चितयेतेभ्भस्से३ Rena Aa 3 aker Sh 
+खृरुऽदीरे? शुहेंतं। चंड वं डा नि ग णते। यृ दश्वभ ४ । ai बधअरतिं ह 
+थि शवे श्वान रे? तेः आणजातंम्ाग्निभक्‌ बिं। से ३ र a से नानो 
+सन/आ।पा्ेअनय तादेवा॥ नानि। य ज्ञानास टून रयीणा।म होभओ३ हा वे। 
+अभि।से'नदंत बे श्वानरं।र थ्य अ ध्वराणों। aadik तु।जनय तर रे 
+
+
+ED १००४७ AEE सा 
+
+
+
+
+
+
+I १-५ >> RE 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+१४ 
+
+
+
+
+
+
+
+
+aaam ans वी र खिया लेन | 
+डु TG Å Vir NAL CIN यभा 
+
+
+
+
+## Page 618
+
+
+
+
+शो, नारेवाशअभिःसं/नवबं Aah नि अ रू तर स्कु यन्द 
+
+
+| रबिन नर) त वीता नि। wg ने।अग्ने।न 
+आ।रंपषेश्य २२ manage DAGLIG 'वथुर्नेध | 
+स्यं।विश्मिता निः चश सा! सानूनि! दिव्‌ अ म स्याके तुनातस्य 
+
+
+ee OR साग्ञथि jo दारू रइस सः बिखर: 
+Fasting कर्तुम वेश्वानरः वि। द्विः रचनाक विः 
+
+
+
+
+
+
+EE ETG 
+
+
+>... घना en यू mess 
+m ØP BY IE EG 
+eg © Ye | te 
+
+
+z uA NA तः) सतः वा व॑ 4१ अ रू णा A 
+| व।धिवणेइ तिंशअच 
+nAg: 
+
+
+उ व सर्छ स ग्मियँ ५आ।हूत/अ ana RaRa वे श्वानरं'मातरि 
+
+
+ii i या ada मे i i ii me iii ie ke 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+_ 
+| 
+
+
+Sabani Ao a 
+
+
+V fen 
+
+
+## Page 619
+
+
+
+
+
+
+
+
+
+ee EE ad 
+
+
+— क्र्म क RRR 
+OE TR ERR = mer => FETE ला न्य - == A sær ~ 
+id iai ia st TTT ee N 
+
+$ Í | 
+
+i | 
+
+
+
+
+
+| Yao 
+V 
+
+
+
+
+
+| FER -kag (न।परः बूर ति।अर्यरेण। ARL लेतें'स ५ वि। 
+' आनाति।ओदुंतसःव ass ear बन स्य? गेशपाः। | 
+' अवः च पर अन्येन! यद्य अये)होता भर थमः प AFR 
+
+
+
+
+
+
+
+
+भनेक 
+
+
+l सश। य शे य॑गे। थ्या maseda neg: 
+
+vem he संश gim निदश्च) चनि न र el . 
+यारय्‌) आना सिसि चअ *छुडवी य)ञयेस। दाति D 
+FA KA घिअर्द्ेथि।त 
+$ सर्छ) सूरीयशर क्षभचभनः।र्‌ः इ Fu 
+
+## Page 620
+
+AMIAZA RNA jaani 
+
+yaaa Ed ALAAN le 
+मासि न! आ हेते da stanga बये ति।सं आरे। अ ENN 
+
+
+
+
+
+
+
+
+
+Å INTET पा i 
+Pabe तारी! 
+
+
+
+
+
+
+
+
+
+
+Ve 
+
+
+i EEE MoM IE बन ऋ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 621
+
+
+
+arini pana Ne alanda 
+A surat li यें। क+म न॑: विंछे पत य॑ त३ स अते 
+sø नस सबके ताः) एव क ते। अभि। वि्य लि।सा थु वि मे? क, 
+
+
+
+
+
+Sak १) | 
+ब MK. 
+
+
+aag: RQ 
+
+
+| चर्सबिण्‌ देयो ति दयेशआऽ हिंतं aan Hk क थीः 
+रर त!व स्वा निदि. ऊं श N विश्वीटेवा।अन मस्यन। ANN 
+
+
+å 
+3 
+f 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+À | य०चर 
+ET 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 622
+
+
+
+
+।प्रऽय्‌ RANN ग्नि? श्वरे) 
+
+
+ora veto ग अध्वरा क्रतिभ्मातःवेदा 
+
+
+TT IFS सः हि।सः। दिभाऽ va abe 
+[सः SNAR अ ग्नि$ जिः स नुषः इधानः 
+Éi नन gång मतय॑पर्व ने णीया FIT 
+| jas Ape FTSE NARAR A AR 
+Re shaman stanga प्रो । मा य॑सा न:।उ ब्‌ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+रेड भासा क्ष्ण$अंध्दाअधीवडू चिद त 
+
+
+
+
+
+
+
+
+
+
+er pe )र्‌ थिम थ बर 
+A n RAF वीर्ये नि) VAN से 
+_ अनोनभडु मभ्य झे।चन।था।अरनेाउ बा न! ये।त।आ सा न भुङ्ते vn 
+STA semen +सातो॥ a 
+ned १०० १२॥यअस्व। होतः र्‌ MAY: 
+घ।मरूतों।न'प्र:य॑स्तिफआ।सः। सिचाब रुणा। नासस्या 
+
+| तिब 
+
+
+mn सेड्‌ स Fr ana: 
+Pirana 
+
+## Page 623
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sk EÈ 
+EMEA aada 
+I 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+adna स्छिउ्वो संगरवेश्‍यानरभअवतु'ऊतये'नधअमंत्यभअवतुःउतये 3 | 
+
+
+मऊम्यीया लिर। शो चि | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+शक 
+to 
+
+## Page 624
+
+È: 
+
+
+Qağa 
+ee 
+
+
+
+
+
+
+
+
+
+
+| Qaf i t anta parran थ्ये वे पि्ः। अं Mni | 
+
+४ br 4 je ७ ति नमे FAR सुपारः विभा au | 
+
+| sr ada å Si pass dn EK 
+
+| तिंस्सु$भ्रय सं।पं å | ने) टभ्यतरनम सा। बहिं। अग्ने /अया A å 
+
+| घुतःवंती सुडड कि) AAi GELA i aa aiL ihis । 
+a 
+
+
+ae 
+रहन 
+
+
+Ed 
+i — 
+
+
+| 
+f 
+SN 
+Å 
+|. | 
+
+
+BE 
+
+
+Å 
+å 
+| 
+
+
+
+## Page 625
+
+
+
+
+makaan JP अनीक) हेप्लः दे वे मिं+अग्ने! आग्निऽ भि इथा नः 
+| रायभ सूनोरऱतिंगसरसःःववसाना अति i u | | 
+Qag naté Ag aan eit सीड Aer | 
+
+
+vvs 
+
+
+सईसधसतड ब हू रातः सह्ये न। रो वि त ता नभय शिईन्‌तवेरतिसुभ्जपाके L 
+aandaa naima g ARAE TRA i 
+सयानिं 'मासु वाभ्यजञ्येगते सिंछाश्य स्यी अर तिभबनेऽ राटू) तो ३१ अध्यन( न। रथ 
+| aars मथ पण कल | 
+TEN ma 
+
+aanpas R mnnn थिं। यज्े सस्या पुन | 
+| ingen i å TE त | 
+AREMA यायुशअलि। घन्कराट्‌ सःन देन निर्दाया:विश्वेधिः | 
+
+
+
+
+
+
+|} 
+| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+मार नन नअ हँ NR. 
+
+
+३९ | च 
+
+
+ref ga Rug मी न 
+
+
+
+
+
+LÅ 
+
+
+i है det 4 BES २ å På ह 
+$ ¢ rull | å पे 
+
+## Page 626
+
+| ७. ie} KÌ > 
+
+
+Tala en निंधऱयानभावेवि राय: चिभ्यासिड छु ना:।०॥ १४ त्वतः नरा 
+| am n अग्ने बि।य॑ ति) बनिन) E e AEE AIGRE E चर Si 
+
+5° | द्वः दुछिय र्‌ ऽ्येः।री Guan न:।आ।हि/रत्ने!रुषे।परिज्माःइ व? | 
+areas dun मिः) न) छ ट्‌तः सतस्य असि सत्ता।वा मस्य 
+
+Å देव। गरें: स: स ठह पतिः शवसा हं तिगू Han sd 
+क य) ख पर चेतस तऽ जात? शया) Ashe नश्चा STN 
+सनोइतिं्सहसः गी!३ थि:।उ ३8 $ य्‌ज्ेः) सर्तेः) Rs am 
+श्वं।समदेवा।प्रतिं।वा।अरअग्ने। से चान्ये यत्वं ते। व सः 
+
+
+१ 
+VP vi 
+IT Å 
+8 å Å 
+
+\ ६ शि 
+
+
+I : a क 
+i TIN i 
+| IR 
+
+
+शे श्रवृरग/सुः वीर अग्ने। सूनोडूतिं।स हस पु य्यसें। mgran] 
+| पवक rahaga matraza 
+EN र्रा Raines भिक UNAN 
+
+
+4 Rå Og Q y om y FU Hi aai ॥ 
+| स ki सर धविवा)ना ना हिशअर्ने। अवसे। Å 
+ladaa uatan आब) सी pi ततं भशर Fh 
+| waldi Qna Anaha से ति। रा वंस/सं3 च सिह चयः 
+
+
+a ९८॥अग्बाभ्यः मर्त्यः FAN qavat निऽभिः दसु) समर 
+
+
+| 
+| 
+
+
+है 
+|| 
+
+
+
+## Page 627
+
+i 
+| 
+$ 
+å 
+5 
+3७234 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+। Tayo 
+
+
+es i AGARRA भतम al 
+र्‌ व थि 
+
+
+PU BRIGA] २१०१९६ NFFP l: 
+
+| i ad बंधसनुषा।क वः 
+FFI सं॥मिच)न। ये i र्ग å | 
+
+hinds Pe चिष॥स KS fan e 
+
+zanata ng pe ॥ स्‌ः! द्‌ क्षस्व)अरकभ रु घर EN 5 
+
+PALEES IK aj FULFUFENT (सह magma 
+
+यावी त+ह्राय।स3 प्रथं।भरव३वजा य। KE O धू ता ने। वः 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 628
+
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+i 
+f å 
+|| | 
+|| | 
+| | 
+i | 
+। | 
+å 
+
+
+sata होती रें मचंवण्सुश अध्वरं विभ न' यसः व॑चसं+ gem: 
+ngasar RARAN वया gaala चितय॑या। रूपा। en 
+नररु वेइवर्स।न?भानु ननद देन्‌? न।या मन! रत॑द A र 
+छूणे।न। स दवाणः। अमरः ९७ १ अग्नि अग्नि! व सेऽइथो।इवस्यत्‌ 
+ý el HARA +4 IAs NARA वास ता देव 
+)वर्नते। हि वाये DER q नधडुवः सं त 8 
+TR चि पाव क वृर अुथ्य रे! क्र Hu विर हे सो रं 
+
+र/अडु किसने E मे दसं१ला। दूत अग्ने। अन्त लॉ 
+
+
+
+
+
+de तक: 
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+## Page 629
+
+
+i 
+f 
+f 
+å å | 
+RRR NN RRR म Sis bret ED to PE काका ~+ BER -H ७४६४७ er 
+प i 
+| 
+| 
+
+
+i 
+a ५८०६-५०-३७ - 25.3. E RPT E 
+min å 5 m 
+
+
+
+
+
+
+
+
+| ल «IN व्यश्वाहंटथिरे।णयु।ई उ्ये दे वासं ३) सं Je MR: ia | | 
+श्यति।न मंसानि।सेटिरे दिऽ रू बच! अग्वे'ड भर्या SA amg RaT | 
+
+
+
+
+
+._चिय॥९<॥से।अग्ने।पासि FE TEES क guf få i 
+
+
+९ 
+
+
+amam wa oo oue wi 
+
+
+| 
+| 
+
+
+| 
+| 
+
+
+i 
+
+
+
+
+## Page 630
+
+
+
+
+
+| अस्मनईववाअभि।ए ओवा. | याय uran daten 
+| का aid दा॥देवानोंउत/यशमत्यों नो| 
+| a बा॥अग्ने/यव/अद्य।विशअ ध्वरस्यहोत रि 
+RE FRASYIDFUEIÅN 
+av छाया त que Aug: Fe MEN | 
+| ug z अध्येगअव E DE e EEE GIE EEEE A UGI नि! | | 
+९६ भअ pr Ao अट 000. ra । JARNAL नि! | 
+FAA gade यज्ञ 'नय/य्जमानाय/साचु मे ऊंट ÅDT 
+
+
+हे $ 
+रळ लिका ऐेणतवार्वसातरेम 
+‘a SR Å "E Fo ESTES Picci ४ vi 
+ICU NINE HAN ANUS 
+ER EE 
+
+
+त रं ९.५ 
+va i x A ANG 
+
+
+
+
+
+
+RR 
+
+
+| 
+| 
+
+
+Fre NERE FRPS 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+Se 44 I m | 
+e ASS 4 
+
+## Page 631
+
+tå 
+ke 
+
+
+" | 
+
+hai g kender | 
+Å 
+
+i 
+
+
+
+
+
+
+| थवेऽ ववाआग्नियं अति! E 
+~ amaaan aS er | i 
+| ee Ragde । सारद ह+पतेभ्मना नो। अग्ने।अ ARTE इ थे 
+
+| 5 nes Rqumåsaen से तु" तिग्मे pipe SIE EUS À pi (७ 
+लेअग्ने।य ज्ञानों हो ता। विश्वेषों। हितःण दे Rangen सब 2) 
+TAUG: be SEE OARRA AM 
+TUTTA दसक an 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SPÅ Aarm: re Ranas ug 
+| नं॥ईजे।यजेपु व्यूक्षियुं। लें इमा/वायों।पुरु।दिव४दसाय।सल्वते/्म रत्वाजाहि। 
+
+
+## Page 632
+
+
+
+
+
+
+
+
+
+
+
+! sal 
+
+य।्शुषे१२३० लं ।हूतः2 अ स॑ ये: आ वरदे य+ न नें उण्य न! भ स्वसुः 
+: A र्यः Rt वये ते å 
+तर Fe श) संऽदया'उत।कदुसुः दान वः॥विश्वे'मु षव? की नः t 
+ह Magea व़ि।आसा/विडुरअर्ल्नर था R AC ESA en | y 
+अग्नें।आ Rda gnaga IAA ला, सत्सि! ak 
+| å २२ rima AR भिं गिर यू सेन।वर्ध या म सि।दुरव/ शोक 
+ब विरस दशना अ बभविवा सशि॥्‌स्यश्अग्ने।सः+ 
+।स्वा।अग्नेभयृ हे mes ।नि५अरमेथता सू ङ्गः विश्वं 
+
+
+
+
+
+
+
+
+| 
+4 
+å 
+र 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| RY 
+
+
+
+
+
+" तंभुला 
+
+
+TS | क gaming ordna 
+
+## Page 633
+
+
+
+sinana hA दन्तं मनः्तय | 
+mane ।अ वाणि। ते।आ EN इस॑राशगिरःगएनि:बर्धासे।| 
+tiama बचा चे।मने/द न saina Nalga) 
+| सेशन R Eg minaz ANAA: कार | 
+akma सगा S: हपृरुऽचेतंनः दिवःऽ दास 
+
+वा।रथि।दारीयरम R GNI 
+
+
+aM 
+RA ARA 
+नस रांतभअस्त्हतः॥ au सः भ त्नुउव वश TÅ VMS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Å 
+i 
+
+
+I 
+| | SP. | 
+
+
+
+
+
+
+
+
+
+इयता वरत! तते थः भाचुना प्रव सरवाय! अग्नेय स्ते। भं! य॒ झं? स 
+व्य न हनक aa मार्लुपा।यु गा। सी दं व हे ता 
+विः कत टूतः)च।्व्यऽवार्हन2वा।रा आना? Rsgan वसो ३ 
+यु FOU ३ति॥ व स्वी ते।अ ग्ने। से र TERE] 'सत्योय॥ 
+| hamar सम्टतस्यं॥ शभक ERR a, 
+Eam: मा KST ग्ने। साऊ. ताः 
+
+## Page 634
+
+विश्वॉआयु॥ तरत ललकी nagai: a: MARA 
+| तिग्मेन शो चिया।या स॑ ता विश्व नि।अ घिणें॥अग्निशन बनते) थिं॥ 
+
+
+
+
+
+
+
+
+
+
+oN BEI A a FE Earn sci ee 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Få रॉ रयिं।आ। भ रजा च$चे द:। दि$ बेणे तज्ञ RIT च 
+guan TRE स: आरतःवेद)अथभ्यतः॥ naa ] 
+वे॥ २६) यनः आग्ने।३?ड श व॑शआशम Aigar aR an सर | 
+नगपारि'अं्हसः॥ सवं तदेव जि हूय? प रिं) या धस्व॒/डुःकू तं ० मरत) 
+| Lg १ भर त३ यांआयस3अथेः। ago RERNA 
+रेण्य्वसुंभअण्नि।रुचाणिभजंयनतःड्‌विणश्युः विषन्ययांग 
+ककः लयम ता विडदिक्कतान॥ 
+सीर्दच्‌। श AK: ka ७७७ अखन JH 
+
+
+
+
+## Page 635
+
+
+
+Timas: k dain ads me ay sea 
+१ शिरे?) ड य) खर याऽ EU | 
+
+
+RR पोत EEN न TE ; ; है आओ 
+FTSE EEE kr En ri ENDE ber > {°F 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+y 
+
+En Q Å र S UA bn 
+
+EF % ATS Ft र hu) 2 Y १ vår pe क a S 
+ør sb Sd NE Vai है ची... 
+
+i ¢ , v TU MAR a nl INE 
+
+
+ana CoS 'बीतर्ये उ व? अरने। भार VER 
+asstemasg au शो च'वि'भाहिनअञर्‌॥ 28 ५ JN pan 
+डेवं।मर्नः।डुवस्‍्य तश अग्निम Amaaan R RUR . | 
+E E हर स्तथनमंसा।आ' विवासे OCAK SURA AEE C | 
+
+
+H 
+il 
+5 
+प क 
+RRS is MANES OG ts i NS Ser 
+
+
+| सिषवेरतेग्भवं तृ? उक्षणः स बभास बा?! उत आग्नि।दे वासः ` 
+P kokt थते? रु ह्न tirahan nerdene हरम | 
+AGA on ` गइ ति वतुर्थोशके घं च मोध्यायः समाः छ ` | 
+यदशरपरभ्रषंमाचाहीनंस्यड्वेतयवत्सर्वेक्षम्यतांदेग्रसीर्‌परसेशवर। ७७ ५६ | 
+
+
+& 
+
+४ 
+el 
+ल E 4 
+og 
+
+
+
+## Page 636
+
+E 
+TR rA j | | 
+०५ हुल + 6 3 LER Ji 
+
+w3 ~ } € स | d IN 3 2 
+
+på र. vrah FEE 
+
+tii Ki H 
+j i Å a BE 
+
+t å 
+sad à j Bae ai 
+
+
+
+
+
+i 
+| 
+| 
+
+
+A f 
+ae > <- ~: d > j क्य en m 2 » = ` F ५०७७७ ER 
+å f ra ५6७७५ |) TNT RETTENE TIT SE ००-०० RES > अ oe ER 
+EN i - * 4 /ढ TPA 
+if ; DER 
+, å ५ | 8 i 
+| | | Å | ह; 
+|| j l Å Å Å है 
+
+HÅ र ; k 
+z > 
+
+
+og o | | J 
+usa ^ आधि यपा ES Ad 
+Faaa mR arD RRA | 
+SEN ।तरुतशयःविप्रववान! रुष भययथम तीना 4य/ गे। चर भि तू see o 
+हरय कट्‌) चिचान+अचि)्ेधिभ्वाज्ञाचयणय्‌।पाहि।मनभ्थामं. | 
+
+
+| 
+
+
+å 
+
+
+तु।तवाशश्ुधिः बर्थस्व'उ तती चि आविः।सर्ये, रू हिग्वीपिहि् ` | 
+
+## Page 637
+
+| | NIIIN ANMA FRENAR E 
+
+
+i R ® | {54 
+-4 , 
+| | 
+
+
+| ad द यं त। + में ते क ईतिंगमत्सरासः। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+पित/प्रश्सहं "ये i पाई हा विद 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 638
+
+
+
+
+
+; सरोअ्ञडि। रिं। गांड से तें।जु द्ञा/अ यु तं? स द॑सःव रि।स्वा व ४ ९ ४ त 
+ge ARZU frasa TF AIM AdYR HÅN 
+
+
+zeka Ragamana बन वि अमै नसे येनं 
+ः Rå ug सजी aa | prenan aANT 
+
+
+TARA | Ci भी 
+«डर i må ve तं/नर्दीनों।प हि स्खि लं।अ रू सम 
+
+
+सुड १एवशता१वि श्वा। च३:$ वो 
+en! ampia mA *अ वसे? वडत्यात सःन! वो 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IRTENA दोगा अरु म अंगि रश्वान्‌ प्रा h 
+
+
+र उप) शा! स च्‌ ह वरं इस्त भायः अथा र्य! | 
+| सारतर से af pa A ।सततस्यंभअयीस्‌ 
+i | 
+
+
+Ruge s दिवाधरक।तवस।द विरे3भ राय। अर रे ब य तर निजी हि. 
+ği iaie ne 2 RANN Aaaa nara NT 
+
+
+चशहिता।अनम॒ब/ भियसो। स्वस्य मन्ये!॥अ हिय व! एंड" अभि।अो 
+
+
+
+## Page 639
+
+रॉसि।थावन' | t 
+
+
+
+
+
+
+
+
+
+Ka ELIK Ee TA EA व ni प था प्रश आटे यः) नी ची। अप सः। |. 
+डे FARGER RUMASA 
+
+
+९५३ | 
+
+
+
+
+
+$ 
+ie 
+| 
+®» | 
+Bi 
+é 
+
+
+
+
+
+f Å å it ht Paps an å id a ३ nå न "के 
+| % “oss रे y T P € © 
+
+
+ks i IS 
+क्यो.) a okasi 
+१९ ७ ५ 
+år 
+
+csi 
+
+
+यःश्रवसे/उवषेःच'राये'थे TE 4 sadiaan masai 
+री at गा १ नडे ड्‌ अयावा ज। दे ब$ हि तेस ने स/०॥ ३६ 
+थि RR FRAGA हूतः ड & | 
+Bus भि वधे? डव भे च Rng 
+
+
+Jaama gmn सजीषीनदु ह॒वररें शृ चय 
+
+## Page 640
+
+
+
+
+
+
+
+
+
+
+
+
+
+| $ गआययोयभअस्ति aana Aa 
+सचान 
+
+
+-- eske nese न A >> क 
+`Y है: ४ y teg - gp = TP 
+
+
+'स्थँगउंजखर्स्यतबसंभतरवीय*अरभस्य/र अशतर।बभुवशततानंती ` 
+
+
+
+
+
+
+
+| घलं'स रव्य'अस्त,' GE KUN वर्द दड भिः। SANT SANE 
+MYE FATALT बे dang स्य विशा , 
+b NAE Pr Sl पिच a क$ 
+ता।त न॑ये?सः। वञ्ी। fad साय अभत सभ RIAR 
+
+
+Aatamia अति।भ।सरबे॥स छू ग्नन।| 
+
+
+सभरावंसा।उ ताराया। na ।वीर्थे ग) = तमः) ओका:॥सः। यश न। मुहे। 
+AY FÅ ऋतरसुसंतुःनासाशवु सुरिभ्व॒ Å च॥ रुणकू। रोबर 
+
+
+न >> & .-.॥--५४७-) 
+
+
+CC-0. In Public Domain.Kåvikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+a । ५ 
+ii 
+
+
+## Page 641
+
+
+f 
+| 
+
+ही 
+
+x 
+
+3 i 
+
+| 
+
+i 
+| 
+En DN | 
+| ° wp ba ØRE 
+
+"e ERY ad 
+| TY FE 
+
+BD | 
+
+
+"अवा उ यसः सान्या |. 
+hdd 
+SÅ | बॅन मालु बीणा। ९ व ७ 
+ही नांतअभबद?स ह्‌ऽ वॉयस! है नु य दर अद मयः दस्यून? रक कुछी: अ ब . 
+नन।स्वि द्‌! अस्ति) स तरसवुः 
+ene तरतः तुर 
+
+
+
+
+
+
+
+
+
+
+
+
+Bei, i NE ५ å --~ — येका ee >>> 7 EE 
+s EEE pe पल rites z 
+a= है भर > ` ERE 
+
+
+शः 5 a IS eee Nis... ~... ONS ss ०2 > 
+
+
+
+
+## Page 642
+
+
+
+
+
+है च झाप्णे।इंड्धघृरा।ज्योतनाय। जा य था य/लु।चि तशउ तइ आवता) ख ्ञंसा।परन्यसा+्च || 
+ENEMA RAGUNI NRR rosmarin र) पर 
+nr ३।हे तिः। रख नि। थ क्षि, आचा चि। न) भी माँ 
+शे re यय z ५॥/आ।सर 
+| : fs: sama R AA RREN 
+
+'सरसःयस्य'नु॥चितरअटेवः å LA 
+
+
+
+
+
+
+
+
+
+
+re 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IRURA RATA geng Enn å अशि 
+aai åk å थ अनु RKE a, ES वा! भ द॑ने? 
+| विश्वे।क वि$ कदीनो।करंशयच्चीव ब१। वा धितो RQA MIAN? 
+एिणानशअन।या od तदश्ले/ओज॑अभेत्यो। जिहते।ई ढ) दे 
+2 कच! ठू लोर वि।अरुं तय त ते'आर्ति। उर) न RJA 
+Mon mm ad 
+? J |) मर ळे ही IFT RIAN 
+डं/एव/पिविणा। सात haranak: भनेन å 
+
+
+
+
+
+
+
+## Page 643
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+zp 
+
+
+ad nat सद्य Naana aana ha | 
+UT sa से + मिमी हिःश्ष वां सि। यूथाऽईव।पदवः पू 
+TIZ सश बरूत ओग त? बः इड | 
+ङ + अस्य! शा के दूद्‌ व बेर दइ kat 
+HH चाधअनवदया/अरिष्य 4) कवः जे तः ध Bad ee x प: 
+
+RANG sjana: eai ARA å थ्यांधरा शी. o 
+| । सचिवः या देसाना 9 sl TR न आभर चर य्य, Uo o 
+QUE ६ | 
+
+
+l Yao 
+
+
+
+
+
+
+Ssg TUE 
+
+
+å 
+f 
+
+
+
+
+
+ST 
+
+
+
+
+
+
+
+## Page 644
+
+
+
+
+
+॥ | 
+I 
+
+
+। ति! सद? डतनावाट्‌) अमे श्र इंड तं anm | 
+
+तय स्य'सातोभसीम हिं। pe dri 
+
+र। ३ यंण। दाः ES AEG 4 rat गयेन mgdan | 
+बरूर? ऊ वि मे: तग्ता मी न! भ जमीन / जाते neger 
+
+| TRIST सरातर अधरात्‌? आपु रस्तो लृआ।विश्वर्तः'ञच NE GI | 
+
+वीडू इंड द्यम्नास्वःव. RRRA Taa Riz zaman 
+
+AEAEE E E A ESETET EE EAS शी 
+रंग्हंवग भन 9! जे य सिन? स हिचि त? मन्य॑मानं!एभ्थ IRS 
+
+विज्चासा डने वसेचूकी SPES भिः 
+
+
+
+
+
+
+
+
+
+
+
+
+
+que 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+SEES कळ = ~ = z aen se ee BAR: nes =- ng ED न न 
+र > —— ~ प 5 I ee En - > तुना e R 
+
+## Page 645
+
+
+
+T | यायेष॑।असिमि उर Rena Ft $सातो।ह॒वामहे।तनये।गेए * | 
+| | कोसा aig akiai obser i ZRN) 
+EERE EE र।राया।म डि ane सःन 
+mn sangere RF Tar FAE 
+हसः भ रं।उ वेराउ सो। दसर 0-9 nauagrdt G | | 
+नइ इ'स चा।असु S INAUA aata If 
+
+Send विश्युना/स चान vag: न ना तवसःत 
+maate इं ड ठ Terna नः सोम्यस्य 
+| 
+
+
+y 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CD 
++ ल TG AN SSE 
+
+
+साप्यवः/प॒रांटर्लु।आ्त/जावै।अपडून! पणय॑धइंडु४अर्ज। द्‌ दाऽ ओणये। कू 
+Nhe तो a स्यथामाया: पि व्वन।/अरिरेचीव!विं 
+FJNQUAVUTEIRY FIFE लधन स्यशयस?यतनेा दिं 
+उरूI सरसः तक्‌ शकु aå स्थ।साती | ९ ^ प्श्ये 
+
+IRR HANTER RNA बे! मथायन प्र /आवृ त? 
+: ret संतं एण कू राया।सं। २ mia Ran वि, पि्रोःअहिमाय 
+NE SLY Ra THUN FER GEA त दर रे क्ण: 
+3 मथ्ये)स जिशवने) दूष दाश षे। ट्‌ ॥ सः गक सु द दौ माय ट्‌ चाऽ ओ 
+
+
+
+
+## Page 646
+
+
+
+ad 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+fo mener nu 
+KALLER N 
+
+
+FOG Wagan हर TIA iv LIKET 7 
+PE ३३्व/रतीव चःऽ बुजी। वहतः डे) स थे 
+| ।न ये डू पूर व रत ते। एन यज्ञे सस्य व/ प्र रा 
+
+urter El R$ सास शिक्षचत्व। हथ ड ER! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+काब्याययरा! नवः ETG: nt 
+TAFARI जन र ers | | 
+AJ FE स, न्वन?द्‌भी इथा5*४ लि! पकी 
+
+
+po j2 १६ xU) | "å ad | GC 
+å» Da 
+
+
+## Page 647
+
+
+p Á Y Š मागऊं इति'ल्यायुरू$ तमंस्यःकारो* हव्य mR 
+CES E A मदयते ERKI 
+ERAN CICAK य सः ईड्‌ ५ यस्य। द्वि#अतिंभ्स डः र | 
+यस्य॑ रिरिचे'म हिउत्बं सः३व्‌? तम अ वयनं त तन्व द? सयेण वयुन 
+व चसार। कू दा।ते'म तो! असतस्य!यास इयं तः नमि नं तिस्य था ३ 
+z धता/चकार। सथकु ।श्वि वइं डक STÅ च र ति।का सुंभविक्क"क१। 
+यज्ञ) aiia य।कभअकेभइंड।कृतम/सथहोतांध CAL RAR 
+TRGVTUFNRUMGAJTE ELERNA MEZA! 
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+q 
+
+
+०च७ नसंनासधउताक्षवमस्यपुरुष्टत! योधिभ शुष 
+
+
+६३ 
+
+
+
+
+
+म (३ ॥त। रछ त।अव॑रसभपरां | 
+।थि।प्रव्नाःते ड ३+ शव्या आसु येमुः/अचोमसि/वीर/भत्र erte | 
+au १ यां रक्षः वि।तस्ठे।म हिम. å | 
+नंःअभिःतवासातिच्वनञतरव'भल्लेनप्वुज्येनासख्या, वज्येणचुव्णाऱ ति) 
+र आयः सा।चुद्स्वृ१सः। यु e CEET Ke यः श के I 
+Keren 
+de न I bi रुव/रूच IRAR pS TE 
+व्ण/अग्चि रे Rara å SAY oe | 
+
+
+
+
+
+
+
+
+2 पर्वतान च "मे ऊं ING 
+
+## Page 648
+
+
+
+
+
+
+
+
+
+zmar इ तिघज्यज्यो। ज रितार/अ भि/अ व चिके ५ श्रुधि।ह 
+आडू. वतः या न: न) त्वा३वांनर आन्यः? अत) द? अस्ति च मे »आ। | 
+NR ATRAN FEAT सहसः यमते-ये!अण्निः | 
+E य eaa aars | 
+
+
+
+
+
+
+
+
+
+F 
+
+
+
+
+
+जरःशरतारु*्गेवु'उत NJS 
+उरवःव हिँछाते भि:।न!।इंड।अधभि। व क्षि। वा URA | 
+हः चर्षेणी सांगडे सशी ऽभि। आधि /अर्येआशि॥यपर्त्यंता डय! 
+म्‌) रु््वऽशन?स nargain] 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+था 
+
+
+
+
+
+
+MAI | | 
+
+
+EA 
+
+## Page 649
+
+
+
+Dåp 
+BG 
+
+
+Å 3 ELE EEEE 
+
+
+
+
+
+
+
+| | 
+वे।थित २ नवग्वाः सृ विधां स? 'अभि' art 
+' वतेऽर्ा,अद्रोघऽवाच COENE UGA] स पे या RANJE 
+Taag R ARRIRA RR तेगआभर) | 
+(ट्रिव्वशमादय क रवारः! अा' å 
+Ren श्र) रिव ह A 
+ERWIN LY UÅ ' एख FAE स्तारथेः FINT SAN Å ध्यु 
+स्वःचम्यीश तु विः जास ह रमाम EN TEA 
+
+
+
+
+
+
+MAARING ARENAER meg ता।विशर्‌ छि न्‌। तं an घिया। 
+
+ग॑स्या।रा विछ अख पलः वच! व रिः वे स यथ्यें स ये: व शे देर अनि3सा नस 
+Ferie विश्वांनि।अति डुःइग हानिभआ।नर्नाय डू शेशयार्थिवानि।दि 
+। दीपय) अंत रिका. त व) रुय न! विश्वः | 
+शोचय! क्षा/अप:।-च१ भुव।अन स्य। पार्थिव स्य) जर्गत 
+hk RA श्वः सुनु, से ; 
+ग0क।सेऽय तूं डू न! सव स्तिं। राजु eg FYR 
+नि।आयों णि। दुत्ा। क २४ बज्निव/सुः्व काना षाणि॥सःन नियु 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 650
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+१२३३अया।ह।व्यं मायया. वद॒धाने। मन उऊ वा। स्व AITETUNG ` 
+
+
+।ताने?अ्र ६ ` 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 55 
+i 
+
+
+
+
+
+Ta Aigas pa विश्वश्वौरा धिशआ। ग हिः रय >योर्‌तिं प्र: यज्यो ४ न / या/अर रे, 
+GR Få Jeep | Ne aes geag aA 
+
+Gla utakt Ce AE 38 Er ud a | 
+वनः ह रन्यो बिन्दवः वञ्च बा होः. इ डू। या सिंधय व! वा। दि थस्‌ श्वि 
+| Takeda da र ay न्यत! 
+ar NI 
+
+
+quarfa: a anaiga auga 3 
+तारं।ऊ ANG FWANHT STK STAN å 4 
+mN «| 
+
+
+## Page 651
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हृ Aai इयतासरना।ह ९ भ्या a annaa 
+
+
+
+
+
+z i के '३:४०३ EP 
+
+
+| सरसरी वरको सह यद?ववा 
+नावव/बिविश्य॒/इंड्रायायः। न धकरिविक ++ कमि | 
+| i याज नं।यरथा/असंद॥३७० भरना णि। हि।च कूषे। | 
+Marnardal gards sn pi | 
+| een sfun MARN x artn | 
+क > फे ae Tr 
+माय सास: qarn YRT ANA Na पेड 
+i SENAERA से रंड'यम्वा Årer सरवायः'सं्यथास NoN 
+
+
+Ti dar Fel स्त ale | o ge DR तिफणाला मर 
+
+
+
+
+
+
+
+
+
+
+## Page 652
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+E. (रद तरमे/असेति।नशभराय।नश्सुरिइंड+अ aN स, d 
+i å | eee arasdldyedaranktusdarmhang `! 
+ae Hauk रसात L oa a | 
+
+ERN NNR RAEN RERNE 
+
+eRT e EE दिऽ aule mr 
+MF नरागकारुउ धायाग वाजी/सक्तत4 बिदयें। रा ति। 
+
+| men VIET MATER UT स्याः॥डूः så 
+JEFATMUYK SA शा पका usa JE WITH 
+
+
+
+
+
+## Page 653
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+|| 
+| | 
+| 
+६ | | 
+| 
+||: 
+|| 
+|| 
+
+
+
+
+
+
+
+
+
+
+
+i 
+ET स क. are 22. 
+
+
+
+
+
+कां rakga digat वत्सानो।न/तंतर्यः डूशदाम॑ नव तः र 
+St ab UIST GIFTEN 
+वासा FN HUC E UE BK IE म 
+
+य erang द) दआ पन! anI 
+Aiya तंश्दाशआभिःसुर्क,तिऽ निं/वा यंत: आ a 
+सिः ।अश्वोशनभ्यं'्मरंति)दारद॑^ न! AAGE 
+
+## Page 654
+
+DRRR JANIE: व याल स्तोमेभिः क्ऊे:। 
+चशाश्यमाना।न!वीळवे। भभेते। AES ERE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+मर er rere Por eee o लनात्मक लहरहरु 
+क et कारणा å. me 
+i Å 
+
+
+
+
+
+
+
+
+
+
+वाय/अज्यागईडस्प/गिरय।चिव/सचाभग्ग भीरे।चिवाभ LUIS KAE DR 
+कग चान Et USE (GER 
+NIS kurie ik: LE ER ALIAS pa LEUD ASLAG 
+AAR gard ga Ua ep TT अरणेय। पाहि।रि १५९ 
+NET ARARIM या परमा! TNT u PARRA 
+mi åg geat nGquefrsuat REIJN 
+
+१श्यृथ।मिथती2अर्विण्यन्‌'आभि स्व यचा CULEN 
+akaagana aaa सीगारंड*जासय 
+
+
+
+
+
+
+
+
+## Page 655
+
+
+
+
+
+
+
+
+
+
+
+8] 
+hf 
+i 
+i # कक > 2 DENE ढे २ ७७७७७ 
+H 
+
+
+
+
+
+
+
+
+
+
+
+
+
+उतभयेगअजासयःअ Å Smaa sJu age å 
+| निश यरा चः > å EEEL तरु षिभ्यः 
+HR Arun aa Ed | 
+इंडीन 
+l EN, का 
+जन 
+
+
+योश 
+।यदि।वितंतसेवेइति। अधा 
+
+
+उत/भकवरूता॥अस्माकास!ये!हऽ्वंमास 
+
+
+
+
+
+| 
+88 í à 
+ær 2 E 4 4 E 
+AN 25 TJ EG £ 
+
+## Page 656
+
+Rr á > टॅ = pE- s टॅ 
+SERN S $ S D र $ 427 GEN EE + ' RAA Å do 
+NR RE 020०4, /::5% 52 NNSA AEA PESENE TRAE SESS. शि EI BEG ar å ee > A REE SFR å > es Ce RS ai 
+3 R bes 2s 5 Si 5 — RE मज “>>>... >> m > s z ad 5 E sÀ RPA ER 
+"उत्तय ल्फ > E OO I E EE Si mem — == = 
+| 
+| 
+
+
+
+
+
+S 
+५ श्र त 
+A | 
+के à > pg y SEA 
+PN क PE aD SER FURR BE WAIT 
+VE या pas EENEN 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+rå SRS त senter, SR ed क PENT ; ES 9 SE == SR 
+} निव्याञवस्वोर å o 
+
+
+
+
+
+
+
+Jegor 3 | | 
+
+
+4 år EIEL | 
+ar अनेक IT Ei mnd Sk ध॑धसंग्अजा/समचउस। 
+
+
+te - 
+
+
+
+
+
+
+## Page 657
+
+
+
+
+
+
+
+
+
+
+
+
+R ER dandani 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| ।रश धिनि थ तीअ Ee E रतव३वाजाःउ ततते/इं डू/ Ne ET 
+| न Ti स्यात शाम्य 
+| ३सातो'उथे'मअवःषा एलो बानी हृता SAMER 
+Hangama; zagaa 
+
+
+PU 
+ध्यनतंग्क बिं।चोट्यू+अर्द/ सा वो/ले कु व्साय। by | 
+समं्णः/परा।आहनशअतिथिःग्वाय/इंस्येग्क्रिय्य Å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 658
+
+wrt es sense २. OP RENN S TL Ne so ar र 
+sansi ER PERERA नि = ease ल > न न - 
+
+
+å pa ।सुच्चं/आव॑ध्यु ध्येतो हृवस दयं ग्रवेव सेस 
+वेशज्ञिण्वेइं ga तोरितितृतो खं) त तछ क्छे हूँ हा | 
+तवाता।सहस्ामहररषअवानिरियसस रहन | 
+| क 55९० केक are 3 
+ZIRANA AIARRA RRN TE 
+'अहाचन/तव/्रू रिऽ maka heng सुमी Na यय 
+
+
+
+
+
+3 hagas BAUNTI IERNI NIDATA: 
+uaar हिन rnd aA ।अस्त/श्रेष्ठंधघने। ३ 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+| पर च्चे Q 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 659
+
+प्र Rar 6 
+
+
+vihad त RAEE 
+स्थाचकारगरणांधयायेगनिडसटि!किंतिःअस्य'यरागविविडे कि Ea 
+सव/भस्या५नहि/बु)ते?्स हिसनः।स मस्य/न/म धूप वच। TIIRA Hz 
+AVFENYRUIÅAMNTTITA us RECREAN na 
+IRAAN AA kans REAR 
+
+
+IE Gal ve gta RR NY: | 
+| en å an याहन रज मिषा | 
+अवरःद्त१२३॥ UPRENE AN युरुःूताश्रवस्था, å 
+
+
+| 
+
+
+ma a EN On 
+
+
+
+
+
+
+
+
+
+
+
+
+PES ND EM GRAS to NNM 
+
+
+ताणाला विनया = 
+स्यूर्‌ सुः ad केन. NN i हाणा॥सः। 
+Sb य्‌?रचीवंवः नाय दिन शह्यायश्म्नेश्रथिनःवि | 
+firmas pk ERUR KS Ne ददात 
+| zizu २३॥अआ।गाव॑।अग्मन/उत भर अक्रि 
+Hig vg लारी खर र RISSET 
+य्‌; galga? ax. INIA Kasa 
+ear JENS redet ।नि।दधाति! 
+Fund na वि।सस्वरा ना आशा, जा aa थिंप आर 
+
+
+
+
+
+
+
+
+## Page 660
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+| Å Hearst? ५ | | 
+FE ` मारता का स | 
+
+
+
+
+
+
+enerett NTN ना संस्कृ तऽ ते। उप य॑ तिशतामअभिगडः 
+
+।अभय।सश्य।ताः non सवेस्य।विशवरतिभ्य menara 
+pÅ इंडें।मे।अछानूर गा sana भक्षः इमाधयाधयाव०।३ 
+
+)रचरहूदामनसा।चिचरइड यूया गावृशमेद्यथ'केरच्षिवत्अश्रीरः | 
+
+EEE Se | 
+
+ना शसु चती भस a | 
+
+नं।आस। ul | 
+
+
+å र 7 
+| AG kaaga २५ १इचिचतुर्थाशकेष घो ध्याय॥ an 
+| | ANGRI ५ | 
+
+
+| Ve 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 661
+
+
+
+hk SE ENE 9 वावान 
+हस्तः ण IRANIANE 
+smak रथेऽ स)? ॥का।र्‌इस यः! गभस्त्यो स्छू र अश w 
+aan a aug mA 
+man वा च्‌? वसा न +अत्क। सुर भि हृ कस्य न) दतो इ लि।डू Rud 
+grue nl raangan z ळय पृक्ति।प अते।स ITERA 
+Y i IF koma Matos ।उक्डा)नो संतः! देव सऽतमाः।न। ते'अरःचा | 
+RSA विस्तः बा बचे।रोद्‌ सीड्‌ तिं।स हिड ो॥उा।ता।सू रिणाति! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ERN 4 > À p : X 
+er NE HN E NEN E ESE A 5 A: 0 Bt CEE S E ER RES CE 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+देजानःयूसेऽ CEEE i S aae ONL ad da RAY 
+RA Rasta AG 
+KRF लि निदस्यूच ॥ ९ १ भूय इव! वर्‌ थे। वीयीय।९ के अ मुः दथ 
+बस निर रचे।द्विः इ पू थिआा:अ ध।इतरअस्व/परतिं रे देसी ३ 
+unde TANGSTAD किं भिना ति। | 
+RRRA: ang स्‌? विस्या निउ वियारसुः कुथा EUR 
+ HRAANAGTQA ARM: maren ॥नि'पर्वता4 अथ 
+६४ सेइ! ARE MARINAER रो सि।स ले FAT 
+
+
+## Page 662
+
+
+e 
+
+
+| 
+JE | 
+Å | 
+Bi 
+j 
+
+
+amdan स्लि।इं डे देको नम येंधज्याया न ARAARA 
+स end Hue इळूं'अरु-नःपर्वेत स्य राजा तू 
+. भ्वृधअर्गने।चदे णी ना akt TARE ।उषसे २॥ आभूयएक T d 
+विःपंते'रयीणा आह्‌ RIAA कृ हीः वि'सोके। सऽ ते| . | 
+Re से Fe | 
+È! aat E daa पर्व तासः। वर्ना नि। वि ax no 
+EREI E नशआ'से॥ ले सत्भिःस् द 
+
+
+KG JARIN M 
+| Rwmania an a RaR nn 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HÅ TE as ng i dm बोनी ar nÅI 
+| | $ :$दासायासुन्दते re PNTA ERRAN. 
+_| दच म दृते) रथाय) थ*आलिछ/तु A IRRD हि। प्र ARA] 
+_ साउपासडिकामाचं! च + वय +चृषे/णिऽभ्यः। ur Age 
+: reg राय।तवसें ।तुराय॥ लिन annan 
+au मह।बीराय/तव रा तुरा पे , 
+
+
+## Page 663
+
+मा स।स्3 रथश धमात री FUTURE må je 
+PBiymauasondåkradsf: de ले | mary, 
+As दा नेत स! ब ड्ित an få: «ang IGEN RSL 
+
+
+i 
+è 
+
+
+७२ ` | 
+
+
+
+
+
+Gama: NE रः४हा।स रिवं$ भिसरिवश्य av AE Fe भिक दिः 
+I | RA AIER तीत q Sj दऽभिः चशे | 
+d Gaia डव भ शिती dun kar । भ्या हिस सै 
+O mamaq n अषर ई: दक्षिण तः SES Si i 
+ अर्मप३%स/्अर्थ।टिवेः दिवे/वि विषृ४अभः रव्य Vraa MATER I 
+agaga ND te 
+% वृ FINRHRBH EET EE L FELAN ५ À / 
+å inasaka EET TET kalle tiss KUR anska: f 
+
+
+n 
+; 
+| “A 
+; | y 
+| j 
+Me Ag 
+
+
+Ry ७२४ 
+
+
+| 
+| 
+| 
+[+ 
+KA 
+SA 
+Be 
+सर 
+0 
+
+
+$ 
+| 
+है | 
+
+## Page 664
+
+$ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+या ६0600 02038 पपा TTS Gae iii 
+
+
+8 | | 
+van amaian sun RR BENN 
+| ७३१ Taruhan सः घिसेभि/अश्के/आ' दुइ ae GT 
+TA Tamga । न्‌ू द+अ कं वा नि4ऊ ती। सरवी र M 
+| याश्वऽसातातयत्‌ः GTA aug तः नेमऽ घिताणतऽ AU 
+न qie EAEE ES E ENERE EE IR ML 
+| 22 MLER टिवि।स्था मः पाये गे स्ते मा ५ 4से IR AR: | 
+गिर गूड पुरव på TRAA Qu ।मुनीषा:॥युरा'ठूनाचास्त्त, 4 | 
+aring då PERU हू तयः षर JET 
+
+
+| 
+
+
+ii 
+
+
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ZA ४७७७ ~ oe ne er 
+ETE TNA a Pe TR NE == है i 
+r f å शि /) 
+p 5 $ å 
+Å å 
+| > i . s | 
+
+## Page 665
+
+Å 
+Å 
+
+
+| | TATE: gaah Ra: RR AF hs | 
+å a ee तय ना वाणी: lg q. 
+धे 3 ती॥/यदिस्तातार॑धवा तं।यव! स हणं तिं।गिवेण सर्दा, त तत्थ सेमे +अ 
+_समे्एवसरदिविचोऽईर मासाभि भि स: ईंड्रे। निअया चि+सो स॑: अनिर 
+O miannan सवा'व रुधुः।ह बना नि!य सेः॥ असमे रत दरम हि 
+mi ससस Rripa papap ipapa र A ब्लू 
+चोइंडूः दिश्वशयुअविता,ड्धः'च। ६ ॥कदा'सुयन!र्यंऑसयाणि/ अत्य कू 
+rer FFR NRK धिय॑ कर्‌ 
+
+
+| 
+| 
+| 
+> 
+H M 
+EH pr 
+ti A 
+R ` | F. 
+
+n x » ` है $ is 
+
+Roof Få $ ४४४ gi का f, + डे LE 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+3 | 
+¥ 
+
+
+| ifra | 
+ve सि/वाज॑3 सना: के Å Eaaadaqas O SETEN EES 4 a 
+| ७३. Simaa nima an N LRR IR RT | 
+| Mzn रिज्रे। Ragua करूण वः LATURA धियं।न। निऽयृतेः। 
+| Jaga गोउ घा।ह व॑ना निखा: ॥ सः गोमघा! अ रिजे'अश्वःचं डा) 
+बाओंऽश्रवसः।अधि। घे हि। शक्तः ARRET: करडुयाँ। FEEL YTES | 
+EF जेम्स रु चरुर च्या।ततआ। सूनं? रुननं,अन्यर्था' चित? श्वरं।यत।| 
+| हा ps fa येनो? ओ शिरसा न? | 
+saen । दिश्राजिन्वग ७ १ स चम रासः तरव विश्वऽअन्या:। सचा ।रायः।अ| 
+
+## Page 666
+
+
+
+SARIN Er Da AER, e E २०7०-००-०२>-००- 
+
+
+TTD न RP 
+~ pS en stamtreet ---- टा 
+
+
+
+
+
+
+
+
+
+
+
+
+७ A 
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+येगपार्थिवासः॥सूचा। बाजन) मभर वि pma वे्थारयंयाः सर्य 
+| Joe NRS ीर्याय॥स्यूस३ भे ये अ 
+Fara दजे तिपि चऽ थेंध ते। स भी ची।ऊ तय॑; डृष्णया किस्य नि 
+| Ek N नसि घव उक्डः श्या रु व्यच सं। गिर आ। विर्‌ | 
+sug Egge ga RD i 
+मधअनाीनो) एकं विश्वस्य श ब॑नस्यरा Rg bad ho 20 | 
+NIH नि।शय॑ं। अर्यः अ सःय था)्य 2 दा व॑ साच रा नः युगेष्युगे।व सा) 
+पह Je उम्र उ यत्ता AEA त | 
+
+
+Å 
+f 
+Å 
+| 
+§ f 
+|! 
+
+## Page 667
+
+
+
+pi 
+
+
+| 
+
+
+| 
+A 337»: ७४५ 5 | 
+ey or rose nam ge 
+
+
+ha 
+
+
+CĊ-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+न SS GARDER स्य IE: EE EEG 35 i 
+vas: EN a pm nn नम >> 53 z 
+am FEN ए å nere t 
+
+
+TT (aa RENAA ad मार्ट/ते।अ दभप्रेइ AQ et 
+| ken ae ole IRNAN i सये पृपीयावःद्य क्ष 
+| | बद्‌ स्य) सोम्यस्वरातीभआऽ सस्राणासे। रावसाने'अछ SIH र॒थ्यांस।ञज | 
+| क ghada Rg च चित! नु बायो अम्दते। व।द्‌स्वेतव रिं छः 
+।अस्य। दक्षिणो यतिभ ^ म घो नातु विूरमिःतसयया।ब॒ Fausa 
+
+
+
+
+
+
+
+
+irman नि।दयसे। दि। ad नई जस ठ विरसा इड : 
+| Så निःबर्थता। हुड: म हां टु ह निश्च अ स्स त्या। आ+ता। Bun | 
+तूतुझानः॥ ९ १अपात!ड्तः।उ तऊ ३ विशन: RARA NATSA डू उ | 
+
+
+
+
+
+
+
+DP PT ०००४० नट जज 
+
+
+
+## Page 668
+
+हूतिं।पन्‍्यसी घीति।देव्य en कसकलारति न «Page h | 
+वसवः स्यःकृणा घोषां वई स्यशतन्यति।द्रुवाण^ाआ्यं RI हूतिः बर्या 
+aap hi aaret nån घिया। पर म॒ या LEETE EE] | 
+AAMAR त्ने I गिर द्‌ घिरे।से।अ स्मिन! RNa थः के q 
+
+Fn Fulamaauzan सोम रड बर्याच! अत्गिरर उकडा चामन्म॥वर्धेअ रह 
+नवर्या शवर साद॥एवधशांगस | 
+सांमि।व रुधाने/रा इता Få IG बसेकि, दूने? आ। श्बासेस!२| 
+| grå बु ९०१ संडूस्य कवे: दिव्यस्य ak विर; AARIA AA ATN: 
+
+
+
+
+
+
+
+
+* > Å TM 
+i ib REE 2 RP 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+TI नु. तरस्यासचनस्मोटेवःरर्पः वस्वाग्दणवे।गोउजथाः।अयं उ्यनधपर्सिज KER 
+bu me 5 aieh वि।वरूस्य/सालॉपणीच/वर्चर ` 
+| निधन भि।यो घल/इं ई mA FG AUNG ama ANTE 
+
+इइ ३ड्‌॥३्‌म।केदेःअद कपल! चित?अ डाक चिअन्यनःउष धचकार/अय॑।रो 
+
+| चयव/अरुच॑।रुचान4अयं।बासयल।वि।सतेने। पूव ।अयेईयतेगसतयुकू ¦ | 
+ETETA स दा।नाभिना) Få rs mene र॒ण्णनेथग्ट्णते/ प्र राज नड्‌ ` 
+daaag MIRNA RIRA अविषा।ब नो निःगायअर्वत। चूत! | 
+सचसे। RARR ॥इंड्रपिबतुभ्यी रूस।मदाय/अवौस्वाहरीइ॒ति।वि।मुच। सखा Le 
+
+| | | [. 
+
+
+
+
+
+
+
+
+## Page 669
+
+
+
+
+
+
+
+
+
+
+याउ ता प्रभया यागणे)अआ नि3 सचा अथय सञाय। गरुणते। व य॑ था: ॥ अस्यं॥पे qaa | 
+` सानः टू'मदांय! कलें अपिबश 43२ शिन्‌ से।ऊ ३ लि।ते। गए व॑ः 'नरं/आप॑धअ å 
+È ii AEE ASE EE E O भे। आ। खा व है तु 
+3 quarkern ansvaundenår åå ae AR FRA pk RAN | 
+
+makra manai å pk सोमःपे यं५उयं ब्र त्मा णि।३६ 
+. णव! वा थि ehana इड्‌! दि वि।पार्ये। य तरस थ॑ कू ai 
+GV Oo ET EE O E EREE SE E NEE SIE IAK | 
+शिवेः भरु भि: ९२।अहेङमानःउ पया हि यज्ञतभ्यंपवंताइंदवसुतास9. | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 670
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+- पयाय Sa 2:25... र्य Ea ० > er === 2०००-५2 
+ta “dd x ~ pa SiR al र कक X ISEN i Saa ३ -n 
+Te oI ide: Tar Treen ताणा Freer, I Pn FO dæ å 
+
+ड न है ee permie i ppg टी rA 
+
+
+EERE ee 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| al | limitar ARER: है आय शिया यानांभया।वे।काकृ त! 
+ETR mamatahina ब॑सि।म ua re | 
+na ते। AEE EE RE एकः डू श षभः विश्व रूपः. E रव्या 
+MARN सेम॥एते। पिब।ह रिऽवः। EA IK EY IE REUE I र्बि।यः।ते? 
+अन्तं रू स सोभः असतात इंड TEN +य श्रे यान! चि कि N रथा य) ए. 
+।तिति बेः'उ याया हि। किन विश ।स बिगी? आबुयाश्च॥ हदः = 
+Raina tna R raanda anam 
+o स्वकतेवरअरेमांचाअवाषतनास,प्राविश्त॥ ९३ naken frå vn 
+
+
+| 
+
+
+| शनि बिइषे। ed pr नप्र तिः 
+| एतंनासोभ भि! सोसञ्यातं मं गअमे ते नि सजी पियोई सुते हे भय 
+| ।सुतेभिः। åå भिधसो में Rus हू षैथ वे द विश्व॑स्य भे धिर ध्युष त! तेऽ 
+la A mårra अं धसः'आध्वरयी इ ति अ! सर ऋतं कुवि | 
+
+## Page 671
+
+raven naea द्‌ ९३ स्थ द|. मे 
+
+vr AMY gnai aR iaga haug ती. yod 
+vaadini ae ०यस्य।शाशअले/अश्म॑ नम मदे दुर og 
+अवः अस्ूञः।०)यस्य।सं दानः ।भाधोनंट्‌धिवे अ :॥ ०) ९५० शे 
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e ke RE RE ———Ä—Ä—— ao aail 
+| | 
+Yao हक sant ss dan ang Agar तमः सोभः 
+| ve स्तिस्वथोऽ यतेशमद्‌श। यःदग्मः।लुविः दमत शयःदाभा। मतीनां १० 
+| g: । न शाव॑सा। तुरः न? स्वाभिः ॐ तिऽ ta. i A 
+चेवं सः। प ति ड दिश्वऽ स ह? नर सं हिंद विश्वः च॑षे णि यं वर्धय ति। 
+इक गिरध प ति तुर स्व॑ राधसः०तं इद द) अस्य शेदसीड्‌ तिम्टेवीडति। श 
+षसयरयतः। ९६॥त ag bat गा porn igana 
+Ares तय नयत ह ति।सःस्ितः॥अविंदते! मिच नवीयान 
+भयाने वेभ्यः व स्य।अचेव२ससःदानःर्तोलाभिः। धोतरीभिः उरुष्या | > 
+| A, | 
+
+
+
+
+
+TT Se aa Sa å EEE 
+
+
+
+
+
+| gonna Joe a nara md वासस. 
+| कस द्‌धानः ना सस ह? बच: उ nagah वि।आव रिया TN 
+
+## Page 672
+
+व बर लिना अरी SA 
+BYR TSR snare aa दि एंड PRAT 
+| सन देह रि$वः। सा वि वेन म दि आपि द्‌ दुद! म ऽ चकि 
+'अयररश्रःचो इन।ला। अडा :॥ ९७ N MARNI भ) नः। ररीथा?) मा। ते। 
+| वल सरः Ranga दर निः; सिध अने वृ RGF प्रो 
+| इहाअइईणवमाउदाअन्त्राणि५इन)स्तनयन?इय ति इडाया सि। अश्यानि। 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+go nude दिवः कास्था यामा? खा/अदासाचशआ)/ट्भन? मघोनः ध्यं 
+| ७९_ Adunni इड a सभहि।अस्याराज॥ स उता 
+å AnA x STEERER IRN IN ॥अस्य।म दे'युरू। KL 
+| | vitne AGIGI DISS UIE EUER मं ते। अस्मि। से। 2 
+वि्रिथे।पि बध्ये॥ ० वागत यं add ॥धीना।अ 
+fanen ९८ के a» AA MIURA | 
+AARALIN मनसायीरे वं।वि।अ सम वे है ब। यु य बंच! विं sl 
+मंशनःअरहि/शर/ हाई न जा मिं।अज मि। म घः व व! अभि serve 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+— ====""nn"%"2"2>=>— >> Sis FPO CEN 
+
+
+
+
+
+
+
+
+| 
+arms MARNITRI ATANA हि।चग आर स्म। नः = t 
+
+## Page 673
+
+umama RaRa रि ARa Aren 
+Å BANDY Rmania gmaaen 
+Razina anaamka: | 
+अवह तुमआते। वन a agag षन ऊर्मय म ट्त: 
+dm तुभ्यं डव भि। रतान ब्भ रंति! दुष भायः से। मं ॥ ९ e ॥इर्बाअ 
+
+। दिवः वभः इथि या) दवा। सिंधूचा रुष भः श्तियानां una gaz 
+ बभायीपायासखाडरस g a anaha mmga: 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| Yao 
+
+
+ETER ai < 
+भ på प 
+Ej 
+है pR 
+
+
+
+
+
+इंदेंणायुज्ञापपणिअस्त भायव! अयं स्वस्थाधितु अ निड Huna! 
+वस्य।माया॥अर्य।अकूणोद/उ बस स GS NTG रू ये अद धात) 
+snau Fh नि: धातु i EFE GEK] åg RART 
+| ॥अयं। या शनी TG TY 9794 
+SRECU EIUN EU त Er EU ETE $ 
+२०॥य क यवःपराउवत सुड र क ug 
+का gasser gan fed! 
+Furre dagar उत।प्रशंस्त्रयः।न/भ स्य/क्षी य॑ ते ऊतयः 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 674
+
+
+
+
+
+
+
+
+| LARTE लि तह दर IIAN २९॥ न्य रि 
+A pre । दषः क्ण धि)उ कऽ $ NFS PU NT 
+ng rigg is RT PALE 
+॥यश्य। विश्वानि।हस्तैयो/ऊजः/ वस नि।नि। बयार ।एतनाऽस 
+«SER छा नि। चितः en नोरा मसाया/अनान 
+ANA लासा ंडगवानाना) ie ho] 
+४०२ NRY AMIRNING URIN 
+
+
+| po ना नमप्ऽसेतिःसहीपलं 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Co 
+
+
+
+
+
+
+
+
+
+
+
+SAN 
+
+
+å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 675
+
+hå धअर्वेत्र॒धवारमानाइंड्राश्रवाय्या नू्‌॥बया।जे घर! हितं नं 
+अऊ इति।वीर्‌। शि वेणः सहा र ३. धने! हिते॥भरें। वितत साक्ष: । 
+अभिनऽहनभक्षअवः NG xe नः | 
+Urda STARS षि निष्ठाइति। हितं! थ नें ॥ २३॥ ०। 
+
+Wasgar ति से। षके तुः॥य णता ताआसिथ।ओ 
+du दिव सरी सः ख्यः डं IREN च/वज्चग थं स्तयो. रक्ष 
+यावः व ससद्दी शाः अभिः स्ट E ES ES !सखांय। की 
+नें।ब्रत्म॑वाहअत मं छुवे॥स हि। दिश निपा FE 
+
+
+HEDER gn Å i a EE 
+
+
+eden KERRI RV NEUF चियृदऽ pepak ga 
+
+भिः अश्दिऽ भिः! mas थिःगोऽ पते। द ब तदम्वः गायृ+सुते+सःवां। 
+परु: ता यासरलने ।शंभयत( गवें। न। शा कि नें ॥ न घर वस नि/यमते। दा से) 
+वाअस्य।योऽमंत a यदरसी!उप)ः्र व॑द! Må विव संस्य। प्र। हि/ अज 
+REE उहणयर्भ ते] त्ाचीभिः अपन) भऊँ इलि। ला) दा 
+AKAI शतः्कताशआभि।प्रानोलुवुधगि uý 2 Én 
+
+TO हक Red Rude Ta URI 
+Ino तासन गाव 2 वृत्सगाव न! पे ने व. पु रू 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+em 
+
+
+
+
+
+l 
+3 ; | 
+| O ER 
+
+
+
+
+
+
+
+
+
+
+## Page 676
+
+
+
+
+।विऽवोचि॥वाजेभिःया FN i 
+ein en अंतंमः।अस्मादारा' 4 
+mane TÅRAR RIRA स 
+
+
+
+
+
+
+
+FAM R Fn रसश HER! Ta 
+॥ LEINTZ JE T iN 
+
+
+
+
+
+
+
+
+AT TRA वान:अ 83 GURY 
+
+
+
+
+
+
+
+
+
+
+वम्णासतः 
+
+
+ON TUG FU ड्‌ He j Ragua 
+
+
+र टू 
+
+
+hon CENL anang 
+
+
+(चार श्वृभ्यदण्वा।यंच। तीना/यू म्नेशआ।भ रा सचा। वि खा dn å 
+| | 
+
+
+
+## Page 677
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+$ia 
+
+
+Å 
+SIRAMAN ii agami aag Ra 
+
+
+TR ASLE Nb 
+दास पतिं। न रः खां! का ve URINIGER an 
+| såre से। किएसचा। 
+
+
+| mune FFU stå fen Fra Me | | 
+| )भवसमवऽस' नः, 5 थे NGU NULPNSL 
+maa KA हि से सचीषम/अर्माक बाधि।अविता।म हाए VA 
+सर ia 
+
+
+हिल रभस mme NÅGA 
+वेषु।हूमहे। विश्वस PALARI | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ETTERVERN TT तः 
+
+
+EEE 
+
+## Page 678
+
+å } 
+
+
+
+
+
+
+S dd | | d 
+
+
+५५७५ यत्वा! दुक्षोशमघऽ वच क सेग्कत!चरृष्ण्येषअस्मभ्यातय 
+ih ९ हिस सचि नरतः ar TELER E ECUR Gis 
+O aaan nR चवय LE 
+auraen Et 
+| A MAR TARAA २८॥०द्‌बे/भय) इंड नाये।अवयु थि।| ` ^ ' | 
+| दशत रसाय सव तिग्मऽसूदनःभयतरसारासम तन्वः ७ 
+“| गत तन्वते।प्रियात्वामे।विलूण॥अधेश्म'्य छ।तन्वे।तने! च/छ दि।अ विस यवय॑। 
+_ देषःयतएूंड।सग।अर्वतः/योद्यीसमहाऽधनेभअसमने"अध्वेनिr्डजिने A ब्भ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Amate स्वनःगसिंधूनर anamma a 
+rhe Säsi ja i क. क 
+| षमा å ताअय। ÅLUF री आय।र सं: वा न छ त।अ ये ७ af 
+| TR se: NG: red STYRET Rae : | 
+Taikaa समा uge renta वि। न॒व॒तिं। नवे। चहदे 
+Rens पीनिगठ त/इयर्ति।वाच/अये। मनी यं। छा ती अन्ी गरि An 
+
+
+हक |) 
+A 
+BIT 9 
+
+## Page 679
+
+si i 
+ER (४. 
+E 
+7 "जा, 
+ci Ei 
+27 
+FA 
+7 HER. 
+7 तड Re 
+hz JG 
+p k | 
+bi H 
+“a 
+e i 
+MG 
+डु र; 
+ø SA 
+A 
+SM 
+E A 
+SH 
+oe 
+र f 
+ह 
+Ra 
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+'अर्याषटउव:/अमिमीताधी न JARA 
+| aaraa Renai RIER स॥अयेयी RER Å 
+| | | 
+
+
+
+
+
+$ 
+A > id ER PERN ७७७७७७००७० 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+## Page 680
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pu 
+
+
+| य।विर दवि वऽरतीकंशअर्णष्शकऽसञ्चनो 
+वञ्चन सं/सेसंभराधारसरूअतरिशं॥अय। aes व, 
+
+
+॥अयं* 
+
+Al pro or ED इःटाप्राशऽअरेगवसूसागमाब्मंद्निभ्स 
+वनोलाड्यस्तरयिऽश्ठानशरयिंभ्ञस्मासः। nAngA 
+URARI वस्य/अछ 4 भ RNR अतिऽपारयः। नः भः rRNA 
+gas fang marks FOG STR 
+| गा rd के FIERE egen dg A 
+॥ BE) a आग ड fen te | 
+
+ardar ये aiar BEG 
+
+
+
+
+
+
+## Page 681
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EE AG SG ska REAGE br enig, 
+dan ३९५ तारं टे अवितारे इडे ENN ERE he 
+चुरुवडूताड Bagn ॥मघडयाधाता इंड ःगडंडूगसःतामा sat Ji 
+fra म्ही कः भवतु! विश्वः वेश E E A बं।अभ॑ये।रूण तु। स>वीर्ये 
+
+
+
+
+
+क भ्यव।उयरइतरमघम्वा विश्वह एअवे 
+ anmdszans Rister Adra ॥ ३५७५६ 
+NT XS 
+
+
+
+## Page 682
+
+UNEIA PNRA LAs नेनीयमांनःभएथमानः हट 
+
+
+I S res 
+अलप 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+| वेश्च 
+
+
+
+
+
+~ 
+scsi ERS BESETTE डाका Viton ts 
+ere se EE e मनी 
+अच j PT 
+
+
+ये अ OEE ATT ERA ज्ञ 
+५ 
+$ 
+; 
+| 
+“B 
+$ 
+E 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 683
+
+
+
+
+Rat इंडे।मलुव्याव/परा।पूर्वेषी/स स्या/हणत्ति/बिब्ते 
+कामे FANN gA; >T दलः 
+EGET लस माया 
+KER GRY FET 
+AMEQTAANE faa 
+STA तिलिय।आ।अगन्ध/देगःउबशस ती। 
+स्यते।परचि ङि त्सगाउइो इत्या EVER 
+azalari nu? un Ei aR mg 
+Tais FELE GEL an iv EU! nAi 
+
+
+! 
+| 
+| 
+| 
+
+
+'उभर्य॑स्याराओं। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+कोड पाव PE, Si । 6 
+
+
+
+
+
+
+
+
+
+
+
+n, oiar an eris ai 
+, ` 
+
+
+
+## Page 684
+
+
+
+
+
+ENE EAE EEE DSS ene: ग्वस्येगराथ शो. 
+ब्रं? भीष्स।र्‌रोध्ञश्वान। < क र 
+नाट्य 
+
+
+| k mest 
+
+
+ESSEN sRinaRqsamasaaquananar 
+गाः।अर्थर्व: भ्यः/अ्श्वथःपायवें।अदावथ म हिंग धः। विश्व 
+
+
+
+
+
+
+
+
+a कऽ अंगः हिन्याआश्मचःसरवाप्रःतरंकाः सुई ITEA 
+| सि अय॑स्व/आउस्ज ताते? e Er 
+Fas daanan ।सह॥अ पा+ओज्सा नै RNN: 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Fn: भो | 
+
+
+
+
+
+
+
+
+
+gg RANN "i | å 
+
+
+न SES j 
+u RA po 
+
+
+6 B 
+
+
+
+## Page 685
+
+rue seg Å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ride विषा रथ यज॥ईंडस्प/वज्ये/ मरु ता।अनी के at 
+nerver ga Å 
+चरतिरिग्याग्टभायगठ पौश्वासय/शथिवी।उ ता धो JE MNIFA 
+Ar ताज kua भे'सः्अएइ देया टेेः हरत दवीयः अप 
+Runza au रू ओजधनशआ'धाथनिःस्तनि हि'इःऽ ३ ` 
+MAMIA ve न l ngaa र l 
+er हयमा काई म बावरी n | 
+ARRAGA Q ट <; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ver tet: 
+
+
+| 
+
+
+| samda aa mpå से। पे भ। वेये। अम तो IGE GENERERE NA 8 
+
+## Page 686
+
+Ji 48 सिन पॉतिासंगहिन।अयअस्मः्यगदा शैमा हयः Ei auii gala gay g 
+
+
+
+
+
+
+
+
+EEE UN रि अग्नाअञजर॑ महान विः 
+
+
+|i B निगसाडीदिहि। je यज॑सि।य pa | 
+
+| D > 2 असे Nag आप: 
+
+| यभयनी! तस्यपि 2 साय = s Ii 
+
+| ra nn de ।पु्रो। भाच जाब 'पिरमतम 
+
+EG an! ।अरुषगद पी।आ।श्यावा अरुष i 
+णट्वारानिष/ाणभ्रवश्वानेसेरचान/यवि वाज ।शुकेदीदिङिष्युभ्भदरषा 
+
+| कादीदिहि। alinae yA MFR e हिल भि 'यविद्ठ। 
+
+
+
+
+
+
+
+
+
+८ क य ME mo "०-० > ss 55: ६७... 
+
+CR sR Re Fe AE TE pen r: कि क सेर पाल बटन म्या ve A 3 RE ris ai > TIA 
+SE Ea TE A A SC "ये ee. ८ ae ene ER > डे dg Ap SV 
+
+Ti se v ~> ee > $ E -. AR] 
+j" क D SR » at 4 
+
+an: E: : कः ६ 
+
+र Å > 2 ek] 
+
+å i $ Er ` > | 
+
+Ce « > आळी 
+
+. N a2”. < 
+
+## Page 687
+
+
+
+
+
+
+
+
+: 
+
+
+
+
+
+AR i 
+| क 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 688
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+å di शिंश Era शते हिमाः स्तक भ्यः य) + दद॑ति, नः चित्र या। वसा र ति।रा | 
+
+| | TY FETT ले अग्नभ््थीःजशि!विर्‌७'गां'वचिश्ठत नः पर्षि ता कं। तन॑ये) 
+
+i | T ALN: adgas हि्ळासि FAR A यानि।द्रों सिचः 
+
+i | १२० आसखायुधसब syk aa नव्य॑सा वर्ना सज gaas wam 
+
+0 । श्थीयामासेताय।स्वऽभौनवे। युः वक्षतशयामुर्ळीके। मरु ततुराणंHया।सुम्नेः | 
+हे | a I RENNA नअ a i se RÅ! i | o 
+| aaa JAN णऽऱवामी अनण) म $भोजसं'विष्छ।न।स्तः 3 ~ 
+| mA GJ Guan eg यर्था ता।स।सह ... | 
+Å aa 4 Aam एछो/ व hv EKG ` 
+
+| मा!पूषन्‌।उपड वशे शिषे वने मफिऽकेणे। आघण जपा शर्य ।अरातय 039 IM 
+
+
+EEE प 
+
+
+AT 
+| i 
+
+
+काकंबीरॉ eee नर धसा।उत्ता Teria izl 
+वाशआएदथें red क्‌।अस्वासरय'अछिइस्य। E CEED, i | 
+AALT $ RIRIA f EN za भरिया।अभि। 
+
+## Page 689
+
+| | gm KA तिमअस्छृश्सचवा।द्‌व 
+aar mimada gnaga annaa 
+ae å ।यूलियमरर्तः। र्वः शर्वःन्य नस रुचाय ञः 
+कंवाभमिं।अजजा यवे पु did । सता अन्यन 5 
+| ad JÅ नयेसीभिःगीऽथिः gal 
+| saal वरुण TG E BIS L विश 
+| ee 
+
+
+
+
+
+CC-0. In Public Domain.Kåvikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 690
+
+
+
+
+
+
+येनेनरनासत्येपयध्यचूर्ति | ड 
+
+
+odden यर Bidda Fl मात | 
+ek प्र] वाय।अछढुहती।मनीषा। छु ह॒ते३ er | 
+Fess यीः यप यसा नः कृविशकविःरयसासिभयञ्चाइनिजः्यञ्यासः 
+।वर्षभङटयत AAJN & anm 
+MIAMI inne वे! जर्गत 
+
+
+
+
+
+
+
+
+
+Yao TAR Russen 
+
+
+
+
+
+pe नामन॑साभयुनान ०४ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 691
+
+ING Å १॥शी:१भि | 
+qadamgina Aaa ee da मा 
+| need शरण स5 मोर्षाश दु 5 = शर्म YYAIÅ:s PUPPE Ber 
+`! स्यीकमिन। Sa Rena Y सरास ås | 
+ना KEN $भा E VU EN ANSA ras et ` 
+ee Auaga da de पलक sunn | 
+
+
+
+
+
+DER 
+hs. DAEs oe + 
+F ९०९९ as 
+De EE 
+
+
+
+
+
+
+
+
+
+
+दिनएैयुर्थयौरु ड' अते Ferga ष कृरिन।र्‌धिता स॑) ९५ 
+आ।युवान pr ।यृ्तियास. GEA गत) ग UTAH Far t Å 
+ NquTAn IPA do AE de E 
+ap ta Rir ss jam विषय रजी सि 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. | चिम्मभध्वार्थिशानित्रिःचिनविरष्छ)ः'म ET ITANITI 
+lammene नीज Ga चुध्यं।अवउभिमजेकेशतव' पर्व तेशनत।स 
+ता। चरम आातर वदर ओ gt i 'राति Ga) J! 
+
+
+
+## Page 692
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- E E N Nti Akak Jer RATE MY TV | | 
+ENE ve Fn an tS भके Lan Kr ` r | R cA 
+TRAA Aiaia कदा अयेमणं)सुःशे जातुन ( 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+. gogor EE तार gs går ALANNA ARKET ak 
+
+ग मयार der वेत agaa ।असिःजिद् ५5१ घावापृ थिवीर क्षवे 
+
+JA VER nr शार्‌ण।सुसुम्नुइ रःक्रथःवरिव re 
+da Gen HAL 'आ।नुभरुदनसस्‍्यसून वे धन ne diada ल 
+EU भ महसि। वा। Ks STP दवान! मि मय ag 
+
+
+| 
+
+## Page 693
+
+
+
+आशी 'पूषा।अभ्यधश्य ES ne PER] | 
+Å Nao fe दी२४गर्वण से। अय दसः ARANAN श्रवचाइ व्‌ ह्‌ 
+Ai ne तश्वार्जान/उपौ मद । एणानः ओोमा आशाच 
+
+
+| 
+| 
+d ये) Mn YU fa Jamas MIARA स्थासु || 4 pr sy 
+| Å maa सविनात्रार्यमाण pe ah IFA जगम्यात्‌? यः Sar | EN 
+
+
+he A 
+
+
+anadh as i Ra ha णि एच! लं। रन aaan 
+= न) ज ध्वेरे१वु हृद्याः स्यो 'अहाले।सद इन? राते त वे स्या। अग्ने? iis gsh Eng 
+ह mamanin घीभिःयुवं'अंग। A EIE GSE] aga RNA 
+*दुः! सा १९१ ते।न।रायः युश्मे भि Jana भश्रता नश्यते ५ पृ रु EN) 
+एक DWM नलाः KEN bk ती।स+ | 
+af) म्‌ तु) वा BE e Ra LE वा भविश्चाता ह याना Kule | 
+ine ।स्यश्टेवशस बिता। भर्ग न अपान sag दानुप्‌ द्वि al 
+ags धोः १पृथषिवी।स मुंडे उत न: aR angs मः] र 
+YUAN Es । दवाः a वानाक्षस्तुताभमेवाश कु वि रास्ता अंसु). 
+व।नपोतः।ममतेस्प धीभिः भरतऽवाजञागञ्भिम अरयेति। अर्कै ऽ प्नोश्ष कु वा संत वस व १ अथ 
+
+
+r: र्र 
+
+
+To aam: 
+rusen 
+
+
+Å 
+į 
+Å 
+å 
+
+
+í 
+
+
+ज-७ > PV MG AAEE EO EI सप. ADAE LEE: 
+
+
+Nr REDET D nn कन Dev 
+
+
+
+## Page 694
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| aRRsard De lar kg १०३ npn ।महिं।मिजये। mvh Å 
+MAG ENGE तं।अनीक।रु का गव। ann वि।जयी ता विद यू; 
+AGE Sure GS नत Hem AIRA व, मि चप्यं 
+MARE. kn: ql RAGI RA eg SÅR a 
+
+'णासुभ्मातानअर्जेम FÅ sd NÅ naa थःय पावका न 
+मसवाइपैतीन्‌।अर्दन्या नाम हनराञणसुःवसनेरु ag sal 
+
+q Faen तिंडुव४शय योचे Å 
+ज्रातश्वस व; मुळ चम विश्वे। FRA अप joi स्म 
+
+| ॥९१॥ मा।न/ द का RIA 
+
+
+INGA Fi) | 
+HRU: 
+t रीरचकयन्॒ज्[श०। SE dash AL 
+
+
+| jegang यै ) जन्प+कत।सुजे म। मातत? क्‌ मोवसवःयवाच 
+
+
+| ker 
+
+
+| 
+
+| घ्।पिश्व॑स्यारिग्थ्तय॑थ।विश्वसदेया en at ad: uaaa 
+mahaa aMn maA R नम ere fe ne 
+Raa lk Gria AE SEAS E GBL ज्याच AA HÅ 
+
+N aa ।आनमे१सहः TARA व वसः निरतिः 
+
+सिरि fig: $इसानरयतिभ्सूः ak न्निः Aflaq GPU: 
+aan १२॥ त) नमई जान VIN ahata å 
+ga aug श ae ञी gen KN S देवाः भार 
+
+EC ERRIREN et aag मानःभिये ज्ञ न gg: 
+'बंदाअपी यादुजिनारिय RAA ARN g aas Gs) 
+
+| वाण oe ।कं।सखिश्लनाय वावस॒/्म पणि सदिस रंग 
+
+
+ध्य RISITI 
+
+## Page 695
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aeda FÅ anda भ्ये।शेपा/अ मा।अर्पि। å थॉ।जग få 
+| न्य विश्वा: थय दि l Ah ३ MEI oe rige 
+|मन्याल। यजिनानाउताशामीनि डी de तिभ्याजस्य 
+| हा।भतिवागयःमरुतममन्येते।नः eie æra aan 
+AT संत FG: डिसी अभि।व daa ।किं'जंगासाज्ल ण सामागाप दि) जग) 
+DATE ATR Ana Egan ges erd 
+aaao mnang १ अबत) मा!वर्यूचासः 
+स॑ अवक मा।पितर॑ग देय$ IBARA SE AGRI | 
+रते।वर्थाक्रत! वसुपति/ व GR RM ४४ रडेधने| 
+छं। अव॑सा।ज)ग Ag रंश्वती!सि शभिः पिन्वमान आ Aus å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 696
+
+
+
+
+
+
+विश्वेष्वा सज्ममंतन्ट णुलामेशुमंहक €दंबहिनिरषॉदत, | 
+| 
+
+
+Å | ie सहिता Ruger ÅR 
+3 } भश्यू व तु} जर. qi $म्‌८ काशन चि 3 
+= ne IIA ली SA ड An | 
+मान भित्र:जर्यमा AET युषे वा न।इुमे। न। मजरा 
+'किलानादेव्याननावि TEIR AAR? IINR 
+| धजिदा/उतावा।यसं॑त्रा।आशस ali ander 
+ECES = | pe RIJA MMN 
+qASAY og mi: म के भ्वभ्ज्मा' मदिन। अ Me 
+MRT pe A aaga 
+FE s ।हंवौसु:हवा। Ga Ke भजन 
+
+
+ये E | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 697
+
+
+
+
+
+
+
+
+
+
+
+
+
+vir Å d a 0 3 T 
+vr rg 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== — अर MNCS MIE 
+os ADEN EG da ET EEE TT RET 
+dri “36%: ESPN 
+ig 33274 ý ORG Z 
+
+
+
+## Page 698
+
+draget भणी 
+
+
+miake उक्तेन महयानर्मसाआविवासे/झरिमिचान 
+| JIRA Wg लोन e&,uJÅ! aaan 
+न'अयुन् हि।जभि me रे 
+
+
+| PEAREN N 
+| Rq X M 
+| PE avd ; णीया KES x 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+५००४ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+कूण] हि।वीमये॥ sen | 
+ञ्‌ ER | 
+
+
+eng EIN SEAS UA] 
+= 
+
+
+## Page 699
+
+
+
+
+
+
+
+सुन्न! 
+| mme! 
+
+
+
+
+
+
+a si k 
+fa 
+oor 
+re 
+
+
+
+
+
+
+हि 
+
+
+
+
+
+
+
+
+बर्वतपूष्णाधच्कानारिष्येतानाकी — 
+युन Fins ek जपा 
+ea Bk ARAS E Es E त५४ पूषा वा 
+मानस्थेसुच्बवश्जस्माक खब॒येी व 
+
+
+पोकळ 
+
+dhad Da RIH 
+EES भालिण १ नजा teh 
+PIN ।से।सचावहे'रथी/ ज्ञतस्ये नः नक्‌ 
+'मदरश्शयश्स Re vat रा्जशिआधुणीा व शशिशञ मःअशभ्वार्ध 
+वंतःःधीवतभसरव पूणण च जजःअश्वे।उ प।स्ताषाम१या निर्न स्वरस यः जारः उ- यते 
+
+
+= सृहिभय क ) saha l 
+शनभजवी पचते नारतिजस्यास्थत र 
+
+## Page 700
+
+
+J EEEE EIEEE IFE: UNID | 
+ga: ad गोर्‌ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GUM H AN å 
+
+
+gle 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 701
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kåvikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+। नन नियोदेवे।य हतृ विभ्रेतः१२९॥य7 एन आर दिटेशति/ करन: 
+नातेनोदेव बा å pre (र! da नर सर्ख्यीपसतः तावन याध] 
+ayaza "अद परुष जवि सरः चक) हिरण्यय।निएरयवारकितसग gaa 
+ELSE RSS a E E EE E गा एच च] 
+
+यि।सीखथः।ग नजि rm स्वस्ति म $ 
+
+ल KEN वृ य)श्र्व्याय।स्चु 
+
+
+veger LAGRET 'जारमशुणातु'न्भाती इंडस्प सरव मम) आ आजा सै पूष 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 702
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+aganaga Ba i LAs HA 
+स्तर EEY mia ahaa जन RNGA: 
+RRMA A 'वङ्गयमहरी FF Ester AG Aaa 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+faa श्तस्द gade च। आ | 
+Ru ई स्वस्तय) चता Ai अन्यतायमताचाजन्यता ER tI 
+Wak HAR rn Targ च LTE 
+Arnar GY BJJ SG | 
+FE: NN p देवः enig gyal | 
+'अेन रिषेः वरेतिश्ताभिःया Fass Igi Å & 
+ES TES kA EREE ELC RERO | 
+
+
+
+
+
+
+
+## Page 703
+
+
+
+
+
+j 
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+कान नात gigan A Ef 
+ERRE वर्‌ hada दु बद्‌। 
+१आसमानःवाश्जेनिचा।स्ञा 
+
+
+व॑राश्युव। यभो | 
+
+
+ee 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+## Page 704
+
+
+
+
+
+७/अनयवाएरिवं/मुहीम आप / ee 'पूथा!जमनंच!स an ga ७ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ma कि ihanaa पीईवे मिसप्ती ऽब भादे. vei krear 
+सा एहवजिर्णावय) वाह वाम है! य dreg q das ER 
+>i न 'ेबिणा।न देवाभसथग चनाउडा खीर लिक जस्ये 
+Sani: श्वॉनिशयुयु जान ईयुते एव समाने!आ रथ ९५२ 
+।अपादाशय PU FME जक UR FE EG av 
+
+
+
+
+
+
+निशवापदरानि।अकमीय ३ mm Ri Ea age au 
+
+
+FE नमाज ER EUG UA बा ३. SG 
+
+
+en 
+हि meuYyYAR dogg pe | 
+uama | 
+ais a 
+
+
+जोन TK भाथ ZAA: 
+TENRA RIFT विश्वानिः।गी। भिः tt ते। "एम 
+
+
+## Page 705
+
+
+INNT 
+TA 
+
+
+
+
+
+
+
+
+è 
+रळ ne mer rene ener ण SES ILE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i as gg SI £ 
+
+
+
+
+
+
+
+
+श्षथ॑तवुजाउतासनालि। वाजी इंड य क चीइति adr सप यी दा इर्‌ ज्ये तौ। बस 
+
+## Page 706
+
+थेर । सहः; तसा से magam वा।याधिष्ट। अभि। ग Ear EY 
+। ज शने क दिश GITAR चित्राः जञ पे गा अ 
+EAN $भिः। 
+AR 
+
+
+| mr जञ ना! ड यातत न IPY 
+EA सह ) 
+gamgin पामा 
+
+
+år | उनी र्य nn 
+फत नाम E 
+M 
+eda 
+
+
+इतः ले बन 
+सति।सु ग्न} 
+
+
+me 
+| sm nat: 
+ser FÅR STN EM नि ~ 2१ यसेः आऽवि 
+
+
+: EF वे।तारभिभःआगवं रार 
+) 
+idigi urfetrestked. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 707
+
+
+
+
+
+
+
+
+
+
+
+
+
+र्न a | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ईस्पमर्सधुग्ना यै। सुप्तरां।ज mandah थि ४ 
+
+Lå me कभा बासमती md उभारा re! de 
+
+ee ag GT ; 
+I 
+
+
+।सख्याय। sad EAA नि an ' | 
+mamangan नि आ गत पि सोम्य बु aw o 
+UIA VG PARIHA 9 जाऽ JU uq! | 
+
+at Dre MERANI da å RA | 
+
+Å EE KI वृतः सद ति तीति qani on 
+
+सरस्वति।देः क दः निबर्दय।भ्र/ज। विश्व॑स्य/ 4 संयस्व मा यिन 4 न सिति | 
+FA AGE JEPIEN च ति) रनः देवीसर॑स्वती)या 
+
+
+A बल थी AEE फा ।यगलादे Me निन इनाम 
+
+
+स्याना नः 
+adadin यु हर INARI Å 
+र यं ) ME 3 ma RMA: GRAM | 
+ar AY FE गये He ने: ज़िया। apa maladh 
+
+| ERE: प्‌ brs र स्वती। निद्‌ q EA 
+'अचस्ाः स्तः ayha MAs जाह. HUNAN मि 
+'मौोजासाचे .अन्याधअपुर्सीअ प SANT जे 'हद्तीविःभ्वने।कुवा। | 
+.. उपःर्ुयाविकितषास सतीन | तिनि षि!वस्येःमा।अपस्फरीःप | 5 
+
+## Page 708
+
+| AN Y$IGT de gen > MEIRA णिऊरंणानि।गन्मु) ३ ॥ 
+
+
+` तूर्ये॥३७॥त्वं RARAN 9) SER ENIG 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+. (०-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection | | 
+
+
+नत -= CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+© CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection | 
+
+
+
+
+
+
+
+
+Ti å akt प 
+'सच्च/उस्राविः 
+
+
+
+
+
+Id Rue Salk ps डवा 
+ज्य|्जंतोदाययूषत परेर romer 
+
+
+
+
+
+
+
+
+
+## Page 709
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Å egga ना।ताशवलाइति!द्श्ना 4 
+Reima oe ती. 
+
+
+pr 4 mn चित्रःराती॥१॥ ता ज्याविः så दातात 
+R sG Aa A Naga gaa gn 
+
+
+STM jasiri Nyaring 
+a IDFA 08 reg ae TE mere नउद्थः 
+
+| PHR pe शाय चर स्याता) न 
+पतमान घीडतिययनानरश्सत्तीशर्मा र 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 710
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+चोरथ्यायात। नश्च Agyon MEAT: se Sy | 
+Fagan नियत रादसइति å ediad med å 
+| | इया चत EFE E RGN me ar iM 
+| Q på Ea 8 pa aa स्य! 
+
+
+| भतन॑याय। वुर्ति।यऽसेता।। 
+Tsar Syed miang तोअपि Å ep | 
+gamn Rufggas Ea) ft वे 
+FET IA गुण ते।चिञुराती इति न्ञिःराती॥ ३ चया Jen 
+थ! दूतः न।स्ता Mt नाआधयगज 
+
+
+मञस्यामन्मन्‌?अरमि।गंतं'रव॑नाया जरे गुणा ना।य av Gri 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 711
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ma aalan ar 
+en dn युय्‌ जल 
+ना।गर्तःमनावउराण क यमनासेस्या! हवीमन?जायि।श्रियि।ड्‌दि तास्‌ m | 
+
+
+
+
+
+| रुः भृजा। शततिं मायाभिः मायिना। शतं! em ahy 
+
+HAAR नो॥*अयथुवं/ 2 Sauna शुभा पृष्ठि हथः Fn 
+
+| eg iN fore DE rs प 
+
+| Aa Ten घन दो Å ल गप 
+डाषिधःााअनवाथधूर्वडपर! IS Mı Ped taf: FANT zh 0 
+
+Gå VÅR Gs तिः TAA बो।अर्दी Asr ना उ सा मे। 
+
+
+| 
+
+## Page 712
+
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+z 
+
+
+## Page 713
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+नि।पर॑यस्यारध्वीशि/सुमी के शत पेरु कक याप 
+
+- ARIPI 
+चूदशोवशासभअभिःसा am नासत्यासह 
+RA «pA BU 
+
+
+सा।रक्षीसिापुरू 
+å स JUG: af 
+भन! १) zË a 
+
+
+88) मचा मुर 
+विशवश्ल। ळू 
+
+
+RA 
+
+
+ससार 
+
+
+Fe 
+
+
+
+
+
+
+
+
+
+å 
+i 
+| 
+
+
+## Page 714
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+१] md $ 
+| | Hun Ek 
+n | चाइ चिस्चा भानस 
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 715
+
+
+maaga: hatasi वहसि जपं) gan pen 
+
+
+KA FEM दशता चूना ५॥एवास्यानदूहिता पतन ना) 
+गरिति।या।भाननो।रुश॑वा।राम्यी P E 
+
+
+ES 
+ma NIA 
+FRAPNJIU TAY: 
+
+
+
+
+
+
+
+
+
+
+
+
+Jaaman maa थतरल अय/इद/हि।वर्भविर्धति। रले। अस्त qadat 
+KEER दानि या Tenne 
+re freske बिभिदुः जेल णाऱ्चास 
+JARRI URAN RER 
+
+
+गाज 
+| gta Rå गायेभ्जधिधे 
+
+
+
+
+
+
+
+
+
+
+
+
+
+sfinks td ros TESIS EEA EE EEE  I tno men pet 
+> 
+
+
+
+
+
+## Page 716
+
+
+
+
+
+
+
+
+भल KE da AS LE BA 
+प म्निम धःयि) ज नयंगनाशा n ERIE AEE UER ei 
+TG जवान FÅ ब मुथय। रु उस्ययामी ET ka भी UR 
+
+
+
+
+
+
+
+
+
+
+
+
+`) Setet ar 
+
+JU 9) त। ट्स उर्त्रा 
+
+केअधार्माएंबारादसी। जम तऽस।वस्थो।नरिकःअनेनःवःः 
+NMA ATARAR AA गंजनवसभजनभी श॒मरजे5 व वि 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+å 7a 73 Eg भनर्यती/वि।ता॥ 
+EG ।तमःउम्यंथा wets) ।उषृसःमृत्यी य।मघानीःवीर 
+EEA a IJH 
+
+
+dr ५ 
+
+
+
+## Page 717
+
+gagi ai दे! ae दी न । पृक्तिः Xi fnamn => 
+'वानाये रिति बुसान ATA FANENE | ge 
+gar sr Erna AAF VESRASTMNHTG 
+
+
+क Far यास j 
+mg aaRS | 
+
+
+ole ge Ge 
+हि।अवेधनः॥७॥ व पे लात व! चिकिखेते 
+
+
+yir for 
+
+
+
+
+
+
+
+
+
+TT. EE Ga SD 
+Må शे 3 "T Ws 
+
+
+| | नाय्य॑यतीनतरुला : तीकिबागोपतनेये | 
+| | UYeYen २ keg ।याति।सा घन/गनु)अस्ति। 
+
+
+
+
+
+
+
+
+
+मरुत कवा edge स्ट l | | 
+
+qà ES EGEN Ute ger ang are | 3 
+TREN å SE IT न तीम Fa qong å 
+
+चःच्यवस*जुदभ नार पल ॥भुनयन।!वीराधभ्राज व जन्या न A på 
+
+YA: रथस! मारुतं! Kerra जी ER ES Å | 
+gg चयः मनीषाअगिरयंशनःआपःउञ्ाश स्यु न å | 
+
+
+
+
+## Page 718
+
+
+
+
+
+
+
+
+
+
+
+
+Vans Auf m RYAN: | 
+| नाअसंगा।बाकुइमिं fe manet E LES ka व यान wt A 
+| लोग मनावर चाावुरूथ्यासुदानरतिसुःदाचाझा | 
+LOG EIE EE! AM MARAIS EA ngn 
+
+
+
+
+
+
+
+
+GE 
+
+
+
+
+
+
+aada Ås वायन मृदिऽखा। श्वा नार्‍या! ilak A 
+yanga AR ja 
+
+
+घरि HAT सन NYE Si 7] pali aN H: 
+JR aan! सा A - 
+er JIA रतिसाचीउपमातः४ च्या 
+
+
+"न उन विलय नाने! यो थासिना'आयोः ता।विि। 
+> भय: प्‌ ति।नाशष्ये ग; 
+
+
+
+
+
+
+
+
+
+
+## Page 719
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sm 
+MAUS 
+
+
+९७४८3७८” 
+sy" 
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+so mm w कळे. कक 
+
+
+e 
+
+
+## Page 720
+
+
+EEE 36 NTE 
+or a EE 
+EG 
+
+
+शश, 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+UYeGa 
+USN 
+
+
+नादवार संभओञहसानामती जयेजश्सावः adagan: 
+स्तार्सभ नि कावकाव पे जल जात कन नामास्य 
+क्या'नकिःदिविभि।य॒नथः ene FRE अभि i 
+म JA aun सूरान!चरनिष्य।रष्णाय 
+
+a goy 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 721
+
+
+
+
+
+
+
+
+
+
+yaala स age Fs | 
+374 NEA mer GÅ मंहें। आ ms 
+
+
+sha gi £ मचा REISA: 
+
+
+डाव da IE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+अ सः NS a gamat aAa 
+! 
+
+
+यी. 
+सि त aiad ज्ञनान्‌॥११॥यभ्यु व AG AT 
+Å Ti an च्यः वसुःमंता पुर GT piana enaA ` 
+
+
+Fa iaag aR गा पाप सत्र RR] 
+
+## Page 722
+
+= ॥प्ट्त॑नास! नना सपमा Eu 
+Ton an Gera देवा इदो शर्घ/अजपगनाना वा। 
+_ डुइता।तरेमाधासंर्याज FÅ Fe वायव साया ऽर्थः ` 
+तिहि ना! 5 वन [की विःभाति जजर्‌। ना शाचि M 
+
+
+व$पो) इमं) सुतः ।मये''_्चयुऽत्रता थः।जभ्वर्‌।दे Is 
+| रिया लिपीलय वरुणा! मव तमस्य क्षण gen दु 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+| N&u 
+
+
+## Page 723
+
+
+॥१०प०॥ 
+
+
+'आपाम'धोसे | 
+
+
+
+
+
+
+
+
+
+
+ES CIEE IS] भ परिसित्तं। ET नाज रहिषि।मा/ 
+| Bryr क पया R Aya a या 
+ECEE RIES । नम FAA FE mm UT 
+नारा! शी पष्यति 
+'त्तामीस:गीयमानासः: अक 3: 
+må mazda ennå Fu नि मत्तीनों। 
+शस्यमानासः।उक्थे pvp तला FEE 
+
+are AT GYsn fe zg As 
+iaaa aaa anaa ag aR 
+Jens Fe बाव व घा ना/ज AART 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 724
+
+
+EN 2A 
+å eg se अ 
+
+
+Le , ७ A s a a ; Å i 
+| - ठपन्रसौणिश ce 
+| | 
+
+
+
+
+
+
+व्हता जपतो सती दावि dagar faga कलशः 
+F विच्छति AE N 
+us 
+
+
+
+
+
+
+
+
+मि।उभा।जिग्य 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| MARU gJNRATE 
+
+## Page 725
+
+
+| RER बनाए नेक Ei PREA å 
+| agua qasqa रि ।'अभिऽ ब 
+ATAG चरने agga वाप 
+
+
+
+
+
+
+
+
+
+
+
+
+RE FARGET 
+| ME le तदत प्या Å piss 4 | 
+
+जअस्य्चुवनस्यप्रोदसीइनि। ; व FU Jg:sJeT TN 
+Åsa org redd rd vern aR gangs: 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+GY ANT NALuTSARATNHFJ : t 
+'मद्पतीइतिमदऽपती' मदान आ। 
+
+
+
+
+
+
+
+Sn 
+अरावाना 
+
+
+
+
+
+
+
+
+## Page 726
+
+
+em aoas pit: aiiai रः RE 
+
+
+| 
+
+
+| Å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Neyon जायत! थ मणः परिंयुवो Ja asg नना वोष्टथिवीइतिं 
+nn x मःत amann qas सीः रतिः 
+| ig अॉलेपुर (हित तिर तिनमा IKS सना aiena 
+
+
+| gs m 
+| Bad Eo EN s थी: 
+
+
+SEEGE RIEA steg 
+eg NES वि pre सासर्‌राणिइनिसंःरराणे 
+शेद्सीउति। विश्वः बा सनिं'वाज।रयिं। जुस्पडति। सरना ॥ ९७॥। न हिरण्ये 
+या'वाकूइति।ज्ञयं स्त! Es ॥पाणीडसति। आभिः HE o 
+Le ।विऽचमणिद्नस्यवय)संवित।सवीमनि) श्छ स्यामः | 
+aaah ende. ARTNA g anar ON 
+
+
+उद्धष्येदेबःसेबिता 
+
+
+
+
+
+
+## Page 727
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ge Å || 
+सि'भसं नः'अदब्येभिःसवि pRa IRRA ANR 3 ii 
+ii, e i iarna लि तादा | 
+sm Mag STA TY - HANS दाय सर्वा 
+| m SEVGI EIE U TE TET RY या।सविता)सुःप्रतीकी। 
+S R न av ag स।केव!चिच्‌'अभ्ववाम!आ 
+सवित/वार्माई EFs E ।सावी/वामस्थ।हि।क्षयस्वादेव। 
+भ्‌ रि स भाजे; पाखी ।१५॥इदशिमा।मदि। तव! वा मदिःत्यूर्वे! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 728
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+।चर्केथ।यवं।सर्या विविदथु/युव॑। Ri GET 
+मानासयेथ उतर FRIGG 
+समस $ हि आधःशयरिऽस्ठी। दथः 
+
+
+CC-0. In Public Domain. Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+AA 
+
+
+
+
+
+
+
+
+
+Vail दजा जनाची I + सजा से साज AG 
+
+
+
+
+
+## Page 729
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 'णि।इंग्रासेमा।प Å अनः Error PR 
+
+| RAAM सजा AS a शासामा।यव।अंगासरूुत 
+
+| र्‍युःसाचचे्ुत्यारराथे FIG e A यी 
+I $ RELY: Pest ap IRAs MANA URIE 
+f Hå > न्‌ r ELGIRA K] SUN ! यत 
+
+## Page 730
+
+
+| NHI VE Tags UYAIN RÅR 3 
+
+A मा वर्सा SK न । मृहःत्रजान'गाऽभचः। 
+
+
+
+
+
+
+
+
+
+
+
+fasTAUIET es TH ऐै७॥ सा में क 
+Ku nie rd 'अराअश्यवंत! _मे।स न्नार दचानाश du 
+
+
+
+
+
+
+
+
+tett 
+। | | 
+| | 
+I desse पेशसा मारु वि। resten pris BR 
+A k ua Aski ANTA T imaam संवासामारड्यायुवाए 
+| एन 
+
+
+नन निघून भिषूजा > ।यव।नःअरि eN i 
+HS senn 
+ASUNA र 
+FERD ald TYPE Fan 
+मृहिमा।पिपर्तु। धन्वं ना।गाश । थननाततीबा।सःमर्द्‌ ma | 
+| ur RERNE MAT इवाआशनी, . 
+
+
+å sår QRAM ar 
+| आच रतीइत्याऽ नाऽइवयावा।मावा५रवापय।बिभ्रतो। 
+
+
+| 
+£ 
+f 
+i 
+i 
+
+## Page 731
+
+i 
+f 
+i 
+| 
+Å 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TAMMI WA ।व्स्फिरंतीरतेविः 
+वितानस्य इगि तकि भिस 
+va he १षचनिः्न्ञजयतिःच्रः्सतः॥९ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 732
+
+
+यिन gti 
+चाकाम इसारथि ek MARM नार पश्रवाता. अत्ति। 
+शमयगसीओ नरचाषोचकण्वे ke I ।सद।वाजयंचः। EO It i 
+MYR N गावचा जनपःव्ययंतर्थःवा eg 
+Areas याशा कप गायची मने 
+ELSE EEE ERS AEI AE REET लीश 
+Hs या IFE जाओ MNA: सि 
+
+
+।अनिह Tag sa AY el शसु 
+. रभ्षामाकिरनेअघदोसर्ररात 
+
+
+
+
+
+
+
+
+
+
+दंत ta ge utse BPA Ses 
+
+
+यंसत्राउजीते।प घास ।नः।अश्माभवृवा न पं सन IA qia l 
+यछ named Ar जि तसः 
+साजा दयाअहिडवामी गे १ “लत om तिपरिया RER 
+3 x 
+
+
+
+
+
+
+
+
+
+यु ऑन ।पातु।विश्वः।आलऽ अक्ता।या। 
+
+
+t 
+
+: kg 
+| यया द granas fem x | 
+al AR or थाप खामा।अमी eh 4 
+
+FNs भाराः नाक $ णः 
+
+
+
+## Page 733
+
+सामय on ET varen rad 
+Kiz Gdi पी ।अन देवा | 423 3 JIQ: Iga 
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYoYal 
+non 
+
+
+Riana सेवै धूर्व वरम मम'अंचेरं१०३॥ मरे 
+JA STGG न अञ्चि अ 
+
+
+Rare जनयत्‌ ga Rat å 
+वननि।करण्वन।स पति azaan Aa श्रः रन 
+am z R नामात 34 आसन वाजँशधने।अ ञ्यः 
+'अन्निऽभ्यमवरनिमसुः्वीरासमशाशुनंतः्युःम्तशयवनरासंऽ वाम दाः 
+| न अग्न!थियारयि।सुऽवीर॑!सृ+ अ म्म याया गना बात RE 
+न॥२७॥उपोयो। तिवत RE ansvar ध्‌ ता ची।उ पा रवो एन 
+रञ्मैतिमवूसुःय॒ः pr गात ह!जरोतीयथर्भिभतपंऽभिः 
+खरंचातयखाअमी वंज यते! लिलि दादी विपाक 
+| od ENR R गरड! स्याभवि्याता अना भेजिरे,अनीक।मर्तीगनर पि 
+
+
+
+
+
+
+
+## Page 734
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ti ngon 
+
+
+l 
+i 
+gf 
+
+
+
+
+
+
+
+
+
+
+vag Are ERA अदेवी+अभि!सेचुमायाःया 
+qaja शास्त २७॥माशरेने' अगशानि।स दा म। न णे। मा। re 'अवीरता। 
+Agm ghg pågår 
+Is न्मनाशेषंसावरचानापारिन !अग्नारखसगअ: सुडपि 
+न (पुतना mere अग्नी | 
+
+## Page 735
+
+
+
+pa ar EIE y YNIFETSTMINE 
+
+Aspée EnA परे TNS 
+
+q: RJE MAN नशस इतेः ईे।विष्माय | 
+PE AA aRåmaHisn आयाम 
+
+
+दर कभा [वशि Ss रसर K 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+292 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 736
+
+
+
+| ॥चु७ oi 
+nen 
+
+
+भीणियचाभानः ही gel rd तंयामा।न।अंस्थे। भा। न gne 
+; iE | ke त He sp aR उि्रवाशशाधिले SN) 
+| || IRGIEL RRNA 
+
+Roggi QEN: ee तय वसात 
+आर १वि।दासीत्‌रमानः अग्नेऽ वयस सच ए वा SN ati k al la NEN 
+as FOR सह्सगनशंतासनमर्त त अंशासुःअनीक रिवानं 
+'मंतायगआः राव adinga ne, Jed 
+z सित विन es ।आवृह!रुरतं सहा IST 
+र IgA चित | 
+
+| ee पातालः) संदोान:)॥२०७॥इलतिपंचमाश्ट कः 3 
+
+
+
+
+
+
+
+
+
+
+
+hs; 
+
+
+
+
+
+
+सनस । अग्ना ज याशि दर, त वने। FÅ 
+grad सारार्मिश भंग त तन स्थामराश महिला ri I FEE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 737
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PENNE : 
+
+
+
+
+
+
+
+
+
+
+y; 
+44 
+हि 
+Ki 
+y 
+P 
+å 
+Fa 
+EN 
+३०७ 
+4 ER 
+s 
+å 
+
+
+१ 
+
+
+
+
+
+
+
+## Page 738
+
+
+
+
+
+
+| APG Fu GF Gåsn edge ERST] 
+|! 3 nia Has दंसीइमि।स यश वारीमनु धव। जिम नैना! संइथि से। जज राय॑। 
+| इतामंदेम।संपर्यवेधमरमाणा न मर नर्मया। बहिः mom 
+i å part T LILNA: aia: NR gý. ` 
+| | श्रयुभरथभ्यदेवःतांना AR RUG 
+å ROEN] । sje 3 थी $ 
+|i | men 'मार्वषप।कारुइति।म्‌ bet zng are ha 
+Å f 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 739
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+५४०७४ आभारतीभारती भिः GT SR aa Id: | FRE 
+
+fa EGAN Få ss dg kas å 
+| बान JE 3 व gg TK Ce 
+AO C TAN IRIKS N [f 
+
+
+auci ERIRE नि; aag 
+Ara? असनि ES GEAR त द Å ak vat 
+SPP अति यनुद rer var rd tl a AG 
+॥अखि।उनय स्वतिनर्व$ जातरंय!रष्ण:। Å 'अमराभइथाना/अजी चा 
+EYA: एति dren aa अर्भित्‌ 
+घ'्यताअन्नीसेनअर्रकअभे।सनीऽइवासषा'प्रःसितिःब्ने!णति'यवे।न।दसमःजुद 
+| विवेलि तोड्या यातव as अन्निभजसे। न।मजयंचानरं en 7 | 
+
+
+
+
+
+
+
+
+
+
+
+९२१ 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 740
+
+
+
+
+) 
+
+
+
+
+
+
+
+स्य!यातीदीदर्य'शाचिगआःठतस्यःदर्ष्ण। ३ सः से च्क वा सऽ जनी 
+| कायल रुका: नारोचैंस।उपांकि। TA aag ma Raga 
+| GA m$TAAMT: and zarada Aa 
+
+
+` जदं RATT STEN | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SA 8 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 741
+
+
+
+हओःतिरभिः न>अन्त।जर्भिते)मदंऽ भिऽ श्त पू: भि जार्यदी नि। नि पाहि। याक्ष वा सि। 
+Aagaard गिरः व यानिं। न वती।उरुष्या। naa es ह्सः 
+| | स्स! स म FANA द्‌ क निव नाल डा m 
+aitis amg A: LAAU RA: 
+% manna भ॑गा। br केचासस्वत्तसावंतेम! विश्वा q 
+: नस क YR RA RÅ चअग्नेयीसुऽपतं। यः। 
+'ममार्नषा।जनधि।अतः। विश्वीनि।विन नो। जियो निस | ्एसे+अग्नि। don 
+रचयतः यविंश्ठ जनि मातुशसे।य:वर्ना/ययतें। EREI 
+
+
+जि ERILE REN GEI ESE 
+jp मसीत 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BF, 
+
+
+e 
+FEDRE ७७१ SA 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+me- f Å HEG ri 
+
+
+
+
+
+
+## Page 742
+
+
+je 
+BEGGE! 
+पनसनिचा 
+
+
+
+
+
+
+
+
+
+
+
+IR Se NE 
+
+
+PNY h 3 Aq मर्तेषा अभि 
+` ११२)  न॑सशस्वामाजायश ससा S uat 
+t aagana NR हि जाथि å o 
+
+
+
+
+
+Eee 
+
+
+
+
+
+त॑भनि थाचिस मान अर्य दूर/सदखभसरदा लेइनिसुःम | | 
+
+
+
+
+
+As; यसे! या 
+mam ar Ta da की yR 
+Fars ।दिजर॑णस्यारेक्णीमनि्यस्यरायशपर्सयःस्यामानाशः 
+
+पथति ।यर्भायाञर॑णः। ` 
+ET > EG Es Gal å | 
+
+
+यशा i नरा eg fr | 
+nq 
+
+
+
+## Page 743
+
+afa aam aang 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| 
+| gane rad asap teser Aga संरयिस्पृहयाप्य हर 
+` || नोमननेसोमेगादिदीक्षपितंसुिलसवतेभे नि ्योगने GJETT 
+
+
+१३ ह 
+tt ae 
+
+
+Hø / 
+
+
+
+
+
+८१५०१ ts Fr rN 
+ssi a by SUS 
+NE ३७७०४ f 
+i 
+og | 
+å på 
+$ t 
+è 
+
+
+3 | 
+| A वुद्धान/र्बरेण।खच/ नि 'जायन/असिर्क्त TEN ind 
+r i Ede FURNmMYNTFLIAATYETÅF स्रिया 
+= वीरमति Aa 
+| MAYEN EK) १वावृशानाः स चताचुर्नय EE TIRANI 
+8 ER उपसा केः > H R ne असुर्येव ERIGE मा 
+gR गिर मय IEEE na pg नर्यन! å 
+
+## Page 744
+
+QANMAN: - ।पासि!संधःतवोभृवनाजनय॑न्‌ 
+'अभिकनाजप॑याय ददशा र aaf Sn | 
+qa imag Ers ERE बार! goka व | 
+ni AE le Pt म (युवृखावैश्वासर।महि।न। शर्म। यछा 
+| 
+
+
+
+
+
+_॥चृ०च०३॥ pe एजग्ना वर्स Na mAN क अंशअसंरस्याप्रशैस्ति। पुंसः कुष्टीनो। 
+
+| Vagn gm सदस्य इवान Sp bE | 
+FRA शराय शिर्दस्याम पुरं: र्रस्ये,गीभि जा विवास। जरेन। बता नि पू 
+
+å EEIEIEE AS e ek रमणी UTAN GIN ay ज्ञान! 
+
+: sha an MRN चकार/अपरान/जय॑ज्यून।य जपाची 
+
+| चारा सम शी ने såpe l vr पाज åra 
+
+aardig Ra RRRA षःय 
+
+
+ARAR na Rg GARA 3 agg: 
+| Fn | Er स्था।आ।जग्िि/स सादा पिया pm 
+A 
+
+
+
+
+
+
+नि।वेश्वानरः।उचऽईतारहयैस्या मा समृदाव? अर्वराद!आ।परंस्माधा/आ)॥ 
+
+
+झि 
+
+
+Cai 
+
+
+
+
+
+वशधआपयियागाशा भा व ।चिवासस्सानं। अभिअभ्व|नावाजिना हिषे! नम॑ TÅ: i 
+
+
+दत्त न ee rele दे। भित ORIEK: o lE पथ्यौध मुंड 
+hahana rman र Mos हन Å 
+
+## Page 745
+
+
+
+
+
+
+
+।युज्ञ]स5चिंते।हि।बर्दि। भी णी ते। ४नाहिवा।आभावरी। 
+red मिति वियर सय E F za iama ।वि$चते 
+॥यु।एषा।विशो) जञथायि।विश्पर्विःदुरोण १मद्‌०मर्थु$ वची ४ कश्त3 वो STU! 
+
+कस Fan ARANAN En rug nan 
+
+
+
+
+
+3 
+| 
+i 
+Pep 
+
+
+| 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ama त्ता/यर्ज॑ति। शव बारी tage लिर्नि:।विश्वी आअतिरंत! मं Le LASS रनः 
+f T आवर । आये धय न्‌? ऋतस्य युः | 
+ee (ईशानासनाइतिसइस:। Faren यृ ऽयः भृघर्यवशभ्य। आमद 
+
+
+
+
+
+| NY9Ge | 
+aP | 
+
+
+
+
+
+
+| j 
+{ 
+
+
+## Page 746
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+१००३घे। राजास न मु:5भिःयस्यप्रसी द आरद! Gad मर॑।ह ये भिं।ई ॐ 
+mf अवसा råde Frears बुध 
+७ भुणिःवि।भाःअङुरि्यक सान ens पविःओर्षधीभिःवृवक्षे। कयाः 
+PPAR R सुक स PREAUN DIKET : | 
+'वारायः्वता स्यासाधाःध्रः ie RIG TUR FUEL ann 
+|रहन्‌।भानञभि।यः पूरु। हा छ युवानः द्यः अतिथिः शुशान।अर्स नाइत। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 747
+
+
+
+
+
+
+
+å 
+
+
+el शत: साभसं ZÄIT: 
+98 FE ÅR: 
+
+
+E 
+HASRA AA: 
+VESE कविरर्तमः पावकः anasinin ean ME न्य af 
+lagenes RREA NA | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+सःक तंभ्यः gta पणीनो।पुनानअंकेपरु मो ज॑से। न? देश तौ। में ड) विशी An त्रि) 
+त्‌मं En राम्या ।कविआर्दितिःविवर्सानशसुःसंसव!मितमअर्तिथिभशिवः| 
+चिनि MSN Sa "आविवेश 333 ERGER] i 
+I ET } m ज्ञात5व राशसुष्स I mga 
+gs mye dun | 
+
+विश्वानिःला।अग्वासेउउचा नः वरसि क्ठ। 
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+## Page 748
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| मनः ।जचिःअन्मौनि) देवः जाविविदा नत व! दूत 
+Å 
+
+
+| 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas. Sanskrit University Ramtek Collection 
+
+
+EEE >... का कक 
+
+
+## Page 749
+
+
+वि आाउडर्वनानिभ्रारीभर्व gn. नैकिपस्तुतविता अग आभ्विष रणा ` 
+
+
+
+
+
+
+
+४९७॥ | 
+
+
+इ्क्‍्सोतभ्यामच ENE TA REIG] a | d | 
+
+
+
+
+
+
+| z gda S 
+
+
+NF od PAULA 
+EY Aae, ।जर्‌स्क०॥१२२उषःनःजारः पृथा 
+'अश्यिव।दर्वि JA क शार्शवानभरवाहरिशश॒विंगआभातिभासाधिय। ` १ 
+न्वानभउशालीभअजीग्रितिर्स्स नावस्तो । उषसे अरोचि। लाना उश 
+दिव्या 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 750
+
+
+
+
+
+
+
+| ७१प००) हि ।द्वऽ्येर्ी। अधि यृति।दविण।भिक्॑माणायसः सरश शुऽप्रवीके। ह$ 
+“१६ माल कणों E सनष Gå वच ँ | 
+
+
+जॉ 
+
+: आदिति म यश त कि बोरे? मंड! Sr आवती 
+पिशा नईळते। अध्यरेष॑)सशरि। क्षयाः वा नमवत! रयीणो।करतेदऽद्नःयः यादिवान॥ ` 
+UUAA र AE NEA e नेता भा किये भि क.) 
+jmf ताप्भथमभसदा इडा ईळते ज विषुः सद 
+: भय जाओ अर भवृंतिविःचि 
+'अक्ताशभाजिकितुश वसनि। अ याम्‌ कट र्‌ 
+| ।अभिशश्तिःपावा।०। an अग्निगविश्व॑स्य। 
+
+GF अथादिवाभद्‌ः 
+
+
+अश्निरौरोडृहतो 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 751
+
+
+
+
+
+aid Jørg मा द ये तो» मे ये टि विः aq: थेहि थ ७४५ अगं 
+नमसा। यविष्ठ! यथ टी दार्यीसेउ tu en Så ar x 
+
+| afrig आदि ipaa HJARNA, KASE ता ag 
+SAGT AAN रा।सः FE JG AT TA! [सम 
+ह naai नः। मधो नैः वर्क णः उत्‌ मित्रः ज म | 
+Ken HAT 9७ ५ ज Ai 
+Eo oo vek । भृर्‌ षूः q गया बू हि षि) मी णा नः। PAT 
+| 
+
+
+
+
+
+ये।मृती नां! वानः आरोट्सीर  sTYTTe AT 
+ud: Po aa EG BRER lo PE kar Ga KOR GK टका लात ` 
+यत्‌! ने! भृ वना। Au नजा पाः z Fj रात 
+
+pe अ Gen en बिंद MJUKE n सउ GIGA वेंट्से। दे वा di ar 
+
+
+Få पौतःस्वृ०। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+RIMITA ९६] 
+
+
+
+
+
+wa रः 
+
+## Page 752
+
+‘lS HES 
+REA .) 
+i ER 
+| का 
+मक ६ Å र 3 
+å g ह > 
+ti E 4 £ 
+IRS 
++ FN 
+« 
+ii | 
+{ å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+दे बह Asfy ! 
+ऽद 
+TER वः Vs ef 
+
+
+
+
+
+
+चेर | 
+- 
+
+
+
+
+
+त'अस्मान+ Tu - 
+aana: 
+
+
+
+
+
+
+## Page 753
+
+
+
+
+
+
+Se 
+< 
+
+
+Mt are 
+
+
+मर्गमचादातावार्यलंत्ञचचावीरः्वतयर्शःद्वःचसविताभ गदि चाद्‌रति)वार्थ अग्नी, 
+रक्ताने असः ग्रति)स्म्‌ देवारिष॑तःत at भदहाअधीमदीन/आर्यज्ती।अर्ना | 
+Teri agaang] TIT घयन्‌ Ref अबा aent 
+| z ERa EREKE EREET अन सः अधर सल 
+
+| | तसः यो जवे।अरुषावविश्वऽ्भा्ञसासम्ददवदस VE TEN | 
+| राध॑शजर्नानो छवअस्याशा वि अस्ठान। आश्म॒ 
+ER ।दिविऽस्पुर्शसाओः 
+
+
+तिगले।दिनानः ER 
+SÅNT यर्ममानाय/सुकता 
+
+
+| तंदिरेनधाजञसि 
+
+
+| 2442542 ss ७. nn å et > 5 å å då FR så í ù 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+um 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 754
+
+
+
+
+
+
+
+
+
+M Joa ] E” | 4 RIESTER, संवासरय॑पय तारं ।यामघऽ्वा I 
+
+
+eu जुर्नानोर्षवीन! द्यत al dt FU NE IC] res 
+TENG निदेश यछीनुः अ UR; 
+सा।विदुः age BLAN $ ES यारा 
+ददतिअश्मामचाकमिंनाशर "er 4: anne 
+| vn ऽदः पूणी नसव ae ।सिंचध्व।उ पी वी। | 
+गदेव भ as aa वक्गिदेवा$अऊण्वत।रर्थाति।/ 
+FÅ salg re usausjidnr ki pai å 
+Fa Ag adr gGlgaeaaTuarmagr 
+DAMARA NAIA AAA se ij 
+
+
+
+
+
+
+
+
+
+gene 
+
+
+
+
+
+
+
+
+| 
+
+
+aat asset rå स्वाविश्वां(वा यीणि। सतयन 
+
+
+EURE G RUNGE OE ACOE EE दिवा 
+fe MFMA 
+
+
+
+
+
+## Page 755
+
+
+
+
+
+
+
+
+
+
+
+
+
+| दिवायादार्शंत:स्थामा मरन र r 
+JE aa EAI नाज ख नाल गा दया | 
+faset NIGEL FA > VS synet mag 
+
+
+| अमर 9 
+STE ERE bests य जास | 
+
+
+.._नाइमार्माइनिला।पस्यधानास 
+
+| | ar En स्यामे! णी जूना नावा सु! 
+B इ i 
+å टॅ R GÅ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+च ss 
+। ऊह आशनः गस! | 
+
+## Page 756
+
+अरुणातासुभ्याराशा eden sot) 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+n ततता त लातत ल - ५2४20 aa ETE TETS 
++ på i नूह र 
+
+
+i 
+) 
+
+
+ll YeYen 
+
+
+kvel 
+
+
+f 
+Å 
+iy 
+EI 
+fi 
+AN 
+Pi; 
+Å i 
+S 
+H 
+A 
+k 
+ja 
+Saf 
+SP] 
+Es 
+Hy 
+5 
+i f 
+pl å 
+क 
+i 
+i 
+R, 
+ह0 7, 
+Ad 63 
+33 aion 
+
+
+
+
+## Page 757
+
+
+
+ai नो।अरुणायअरशस्तीमा म राजा दर्श ।यक्च॑शासीव!रयाम på å 
+| दाशि hå panara adaa 
+qadama ASNA संभजा।य।अन॑यदास 
+FAEN TAG Au जजगयायचा नचे! दिंतिस्िवर्थनभ अर चे 
+RLE TL मक्ता जञविव्यकारयिवीपर्त्यमानाधपभकेविनअश 
+på å JÅ fast ३ pa; TAAA जा SEN 
+
+
+
+
+
+
+
+'इंड।सःवकौन!अमिनरानि/अरंधयता मानष। ren गरदन si 
+Tatt यथा: BA {Rak क्षि।आवश इेश्षिफ निश्रेषि ता स aa IRAY 
+
+
+
+
+
+।नि!अस्वरि 
+
+
+EIES > चाय वियत अवस्था वेको जनां 
+टस्मुभनास 
+
+
+न![नि[शिशातिबर्हिभ शरस 
+
+
+z ~ 
+
+
+mangi gAs ag र॒ णानाः TÅ सुर्या 
+
+कुल AE ja 7 ae käik 
+सहा Iga Q विदेश aromaer TE (TÅ ME 
+| च्सं gå za SS nd क मि TAG 
+Rae खुटि:र्वरा र्सअआ E ATNA 
+
+er TOT: AG: å 
+i इद |) MES Oi क जड़ः निनो. 
+| dur ७ अप थे। द as TAR TL 
+Kr ai agn | OE TER Ad मा | 
+
+opna! जा Så WTI 
+ARTA PNRA म sat भोज ना। 3 
+AEGEE AGI भेदस्य। चिव! र 
+
+## Page 758
+
+
+
+
+
+
+
+E 
+i 
+
+
+Sa 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+as Wre ४ 
+Af 
+EN 
+ASA 
+at 
+
+
+aa maser Å ne) 
+
+
+SRA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TEEN TET रका याद 
+ecm PYTTEN EKTET. GE f TR; 
+“Tres 
+BSS 
+
+
+oP 
+
+
+
+## Page 759
+
+
+
+
+Å PLN र Sater 
+E T E E TT TT 3 
+
+
+
+
+
+'यः। AM PRAT EE EIEL रूं डू Waday 
+aA: qu पा चि Aand vi ER) 
+MAAT einar rar टू सु: HÅ यंग सु+ चक्षय 
+PH rate व॑कं {चिः न थमः Ta IEA psi रंभे 
+Wet sd अमे दु: वाडया EE Ads i a 
+| न लास्येन जाः हो रे थां। व ma | 
+जेंडर चांउ वास संग प pt | 
+
+
+3 सजा TH dre dt का Garten ATA 
+fag Judr 
+
+
+| भक्ता सप्ताइव nad mataga fA AG ह 
+
+
+
+
+
+
+
+
+
+så 
+ER 
+A 
+pr 
+
+
+
+
+
+
+
+
+| Ans के Fs UAA ता gynnygn As 999 
+'नाभीमनए किन 44 PN यः शश्वतः शुष BEESTE 
+
+
+| न T JEU GANG TÅ are Gadgs ad ARF 
+
+## Page 760
+
+y my raiak उ शि पमान ar ad प året । 
+
+
+
+
+
+
+
+
+
+
+
+
+| | E वानि!अस्ेपञअरंथयआर्जनेयाथाशिर्थच!त्वा युर । 
+र | पणा nad Es pe dre aigi 
+3 GE] KEL WAUFIJs år S रू EERI EERS य*वीतो Å 
+र elt: JG EEA TGI HR YYIQ Ge 
+Breen ।तानिनवी यस gaa PETUGFÅLG | 
+.. . magman RRIARI IAEN गा नोनि! 
+
+
+gare | | 
+
+
+
+
+
+
+
+
+È åt 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+तबहव्यायादाशुंष।सु५दास। sog eds am gadd aan ee 
+pi Enah a a N ES IG KRAE यस्वा नः 
+। ।तवीधिया सर था l 
+Gem ।सखयःनिःवुर्य न थि ग्वा ee | 
+
+## Page 761
+
+|! हे यःचिवण्नातेमघुःवय'जभिं ee 3 å 
+d a भि।विषर्णीन। AAU LAMER द॒ णीघ।यंज्या य॑ e 
+ममिनरो। ड; तम)वभ्ये अस्म व। दर्द॑तः। मघानि ते Pe få ; 
+vahyi जन णा न ER श््रस्तर्वमान्उची। नः जा. , 2 
+z DALE i जन मिमीहि gaenen nayang युमपौतः | 
+दितीयाच्याय।। ॥श्रीकष्णार्वणमस्तृ॥ ॥ ॥गजञाननयर्शन्‌॥ ॥ ॥१०॥ ` 
+
+
+
+
+
+
+| nYe4en 
+98 
+ESU 
+
+
+
+
+
+
+
+
+
+
+
+Í 
+
+
+å 
+
+
+| 
+
+
+
+
+
+ds ar 
+
+
+
+
+
+
+
+
+
+natang Anadira 
+TE En ve :!सि 
+
+## Page 762
+
+II | 
+
+
+
+
+
+AU माहे, जा आयमा त EG 
+å INT Å INTsit न izut यृ} AT न Te 
+ete EGG म। यः सेनोऽ नी । अ च नऽ नभस | 
+
+
+— duiae dTa TE नष :} भ 
+_ | चदु। सरन यम यु चारी आः Pangi दाद 
+
+
++ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+ERR 
+
+
+
+
+
+
+
+
+
+
+
+ard an R ga TAR 
+Raaz MEN १यते)र्‌ द्‌१ भिः मदा न 
+
+## Page 763
+
+| संकर SAKEN T adman GM 2 FT: स्या 
+A ka latai ts eH: $ t 5 | q ir 0 
+3 PP rare RMA: जरिवारर (तेर जाउ गाने) चे ॐ 
+0370000) XT: T सः! ER MT Å GA då 
+
+
+uan a RUA 
+fen! Pr जनु yi NIT ia waaau ` 
+å oe अय 
+
+
+R qa PA वो धी। नः | 
+की TIDA ज 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+से! मऊ मादः विद थे ku 
+Hum Ta NET उ TEN जब GEU न EEES बा 
+Lá 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 764
+
+
+अपः) कुरि ÅR as छि वा: अ sr aagana 
+उनि विश्व न ॥ re order 
+fasal TEUGE 4 fa Fm 
+| UR: | st y ES za: PITTI ना 
+शस धतव । विधास्य जतः । मा। TÅ 
+i ae nn STAR AE द EST उसे वे! न। 
+2 माने)रजॉसि।सिन हि बृ नं! रावसा जथ Sd 
+लिति | 
+र ped PE: Ka NARA N भथा ` 
+TATA चु ET aT डः 
+HAH: s Tue हिना। तरू ता वे व तु NT सा! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+at nende GA TNT S gå: giam a | 
+
+
+
+
+
+
+
+
+
+
+
+लेरित्रेअ्तुशक्तियुर्यपात J h 
+सि बह 2 ॥ विनु सोमँ! र id 
+
+
+## Page 765
+
+
+उ उश्या टं FÅ स: 
+। मध5 वृन्‌। वार्च यो 
+z ae मा IQUA MJA | 
+fi विर्य J BGEA KE AR 
+f gA geeli सु+ a | 
+
+gå ) 00) 2 ला प्‌ 
+ZRA | 
+
+
+er ZAN सतना कर 
+ag Ea 
+
+
+वथ ची बवा रड! (लन å a | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DE åg सरमया) शिवा नि ६. xd get णि) 
+क Rr ; 
+
+
+| {faix FE: 
+
+q 2] q å på > 
+rn gr sara 
+पि yigadi mging Road 9 nagi 
+| qi का va Ed: å nt 
+
+
+
+
+
+
+
+## Page 766
+
+A Ka प्या 4 sukk xs sy 
+p fh på må i i 
+SERERE ri 
+
+
+
+
+
+
+
+ARRIT HRI å स | made i | 
+मर्द» सोमे: न aan AAR 
+po णी । योनि्इद् ॥अकोरितमा | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+å भू व्या: नर प भ्व 
+ग्व अल तव 
+
+
+बाण: हु रिऽ जश्च! EE ! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fart agn सर्ज धेना भसः के ¿ži जोटवर्वी 
+
+
+
+
+
+
+
+
+
+## Page 767
+
+
+
+
+
+
+
+
+मा। ते। मे ने «de åå विचारीत fug:s 7 en I yga a 5 
+
+
+
+
+
+DEER JA EEEREN i ATAA PRE 
+| å मरंगे।व dang adig AGE री खाउन 
+| रातिः? अखुग्ज दि ACEEA HÅR इ्‌ति। युम्नें। अ ed 
+
+
+~ ——— 
+
+
+त्या | पूर्चि प्रतेमं | मति faa Aaaa इ gar In 
+
+
+| न HEES s वि्‌ PE Ki 
+ne 
+
+
+
+
+
+
+
+
+
+
+
+"अशवा rags नेत इयान EEL ag: 5 हना KU TA 
+
+जज सूजाः) स॒ुमुंया मा वार्नाडा < bord st JANTI 
+
+- अन्रद्याण:। AY s fr TÅ aN aagana å 
+
+NT på टण EG aa 3924 इडन मावू fy नीथे। 
+
+सर म पुलासं:।य व! IG 5 वा at EEE Få ei ko 
+
+हवेते।चकार।ता।रूणवैतू नू जुन्यानया वैध ५3 सुवे KE 
+क ने)आवाहु:। 
+
+
+## Page 768
+
+
+। वर्ति-। ट ब समान AEE JE 
+| pe TEILE ammat: ed. IF नयशयेः 
+radar सथ्युतानिया उक रसर Da | 
+२ क AE i a न: aig बाब 
+।२॥९०म दू दै नरं। ने मऽ जिवा हन्‌ ते । ये यीः। युन यु: वा: 
+| बुयंपौत 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+ज्योत गवसत चुकाने am MÅR जे) भूजलात AG: ten क्म्‌ | 
+F Ale E TEF ke di! EC) नपन | 
+| 2 på gza uwa Ea $a a तज, sie 
+feide: 
+3 ड eit zZ åt नः) यृ खि 
+| ने Ñ ना Aa दकि - T A बाल हु) आम, då Ç 
+
+
+
+
+
+
+
+
+
+
+
+
+li indin sAJI 
+på SG ER अजय Me अम 
+
+यवु युक्ताः fast ल्‌! विडहवेचामिर्वीः orma, इव i 
+| SIs श्व! ह वं। ते vag मटिमाविआान टू बेला AE राव 
+RIMA TRARA FE 
+9 MAR बाज PE tg UT SE å 
+| 34 महे! erat ord aa ad sa 
+TG 
+
+
+Taizo N es । दुनि नासं fÈ! 
+ker Var हा A Ram SR md aa 
+3 AZANIA: COES, 
+
+मध kar | àd z ` सुजा ap 
+agat da NG बँ. वुःस्व'खः 
+
+## Page 769
+
+यान: ब्रह्मं = jh 3 dr कवि जाण अंवी-चीनः] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+wl på dt Å gå | yi č! i 
+इत ] इंट असि प्रज्मं वाउश्वेब EN BU) 
+
+
+| Sy å दन वसी på sf धनय अय णा 
+Ë ह A adea हति नली 
+_ थमे मचवोन्मिनमरोरायोराधैसषवदददैन यो तोत्र paa 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+पमेटियनयनोननिनमगे०/ यो अचैतोबरुट तिमा i ड 
+genet गाते वि स्य रज qii ZAH - 
+Firen JA EEG KURE उप 
+2 få Sp gATVAGTE T den 8 2776 : Å 
+j 2: | E ai | 
+
+## Page 770
+
+PT मं! वर्थ (सू. erme dam va 
+
+
+
+
+
+
+
+
+
+
+å! 
+ar 
+qi EE श्व 
+ig: aiaga das Fo 
+|... GE EE EUGEN t - 
+ह: Ce दवना PRI GIH AT PS भा नः। निदे? Å Å 
+| Få वे अर्यभ रह Raada eter da sj हा. 
+| > सि? यऊ प्रथः इरः ऽ NAATA qian JU युना pr å = 
+
+
+he TATARA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+७७४०४ 
+
+
+gaat 
+
+
+
+## Page 771
+
+adinan निखधाबवरी सहः मम्नो तरति।ई दरिदंसीए नि। त। ला मरुल॑ती। प || 
+Ap TENE ERANA वा | 
+ved CELEXA! ।शभृहिऽ TAN R प्रासुमंति। कण 4) पूर्वी I 
+चर! n AMIRA vår GE जन तस 
+
+
+| 
+
+
+
+
+
+
+
+
+a nedetid pe HATET ar ma sv 
+याथ sendt rer ga चनः ओर अखत!नि। र | 
+ta नआ नि i RIAAN ar T । 
+
+TR GRS å a: RE 
+tz: t er | 
+
+ÆR NRAN टी गश्यृत्‌। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+F: 
+HN: ° 
+i Pi å 
+PAS fr å -e 
+å * v $ 
+> 3 S NR प 
+
+## Page 772
+
+
+
+
+
+
+
+
+
+॥ष०चे०३॥ वरूनाचाचिव[नमर्थिषतागिरसचःनिव!यःसहसांणाशतादर्यच[नकिदि. lb 
+nag Q Sa å Eici ss JIA ।ताशमीरा।सवं 
+
+
+
+
+
+
+
+
+
+
+i ki र्न rem 
+As य शमि 
+Daga a 
+
+
+
+
+
+
+
+
+qaaa a वानरस 
+beh sas Nei 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 773
+
+
+
+
+
+
+
+
+
+क्षंतामहे राया आवजी डवा dt वर्स? 
+ad fager ug ar baaie pa Re ala 
+RIMS ॥१८॥ गर्मये। वा । अ 
+dit उत्‌ स fA ER 
+RALAN Q Rage sata da Fs 
+
+
+
+
+
+
+
+
+| dad 'सवृष्ञयावि 
+यावत भएता लू याखाताराइल! 
+
+
+
+
+
+
+| 
+| 
+| 
+
+
+
+
+
+
+| d | रासी साइ ह i 2 sm 
+वअन्यवामघःवनानाआाप्याचव मिवा सु 
+gira जव परनन 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+## Page 774
+
+
+
+iaiia | | 
+ha NN 'मास्रिथतासामिन/द |. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+TS sf ate ८ k” 
+६ Cy rA 
+A ५7७७४ ९ है? 2 
+य १ 
+psp 
+
+
+
+
+
+
+
+En 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 775
+
+
+
+
+॥०प ०३ 
+DEN 
+
+
+dradd वर्स नार घेयरयिः नशा फाम 5वृद्भ्तभ्योमाऽवंतदष्ण।यृवे? 
+पार्यृ।दिवि।अभिःत्वा। शर नोनुम जान नं।अस्य र्गत स्वदेश 
+INAR ARA ARAUAN ।नाज्ञातभनाजनिष्यते।अश्कृर्य 
+: चि मदाना क न्याय क 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!मघःवनासनात! sår चाहव्यं/परा।बुदस्वाम घःवन!अ 
+Bed नवस थि भवीदधनसखीना इंड करुन आ। भर/पिता पु å 
+
+र न मनि जीवा जयाति मृहि!मानमअ्ञांतीः। j 
+maqana क 
+
+
+]शिक्षानः!अस्मिवापुरुःडूत्तार्‍या | 
+ne evas Hå /घिय: जिन्वा pe SG 
+ESN ee दूराद/ अवितवे।वर्सिष्ठ दूरावइड।अन यनाआ 
+
+
+तस्मा कंबोच्यविदानंहाधुने | 
+
+
+
+
+
+
+
+
+## Page 776
+
+
+
+
+
+
+
+
+
+
+म 
+NAR 
+aaan ! 
+
+
+
+
+
+
+
+
+
+
+
+Fa Rat 
+
+
+सुतेन तिरः वेशेत।अनि पाते उभ) पाशेऽचम्न स्म।वायतस्य।सामांतः सुता दा इ अणति 
+नु।केसिंघु।एभिमतवार।१शेद। एभि।जघान।०१दाशऽराि। सुन्दास त्राव 
+EREE सार 'नरःब्रर्लणावःपिवणी। जक्ष अव्ययंiन।किलंरिषाथ 
+| कला gmin hg अर्दथाताच HEEE य।इत।तष्णाऽ्जः 
+द थिता men (ठुतासं।वर्सिष्ठस्यार्ुव॒तः३ंड:अश्नीले।उरुं। त 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 777
+
+
+
+
+
+
+
+
+$भ्यभञअकूणातापुटति कोव २३॥द्‌डा इवा इद गाऽअजनासगजासूना परि छि ` | 
+NYTT: काश ANIRAI m एताये arsen विश i oa 0 
+JAAP SFqudagi AG ।चृऽजाः आयात Pasop ut AFG 
+TJA EFA HÅN! विद Rissa यातिः 
+।समउस्यऽऱव।मृहिमा।गभीरःवारतस्यऽइवाप्रऽज्ञवःन' आन्य Fav: 
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+| 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+povas rn 
+
+
+| अनिनंततपरिधि 
+
+
+॥पन्पै०३)) adria तिहतःनिण्याृदं यस्याशर्वेतेनसद्सऽवव्हेषअभिःस) चरंतियमभनीातते।पूरि 
+na på 'असरसं Et å amagi AR å 5 नि हानी! मि वावरुणा। 
+
+
+p पु BEG E 
+११२20 वित तड å 
+å 29 
+å "ह... . 3, 
+DE S EEI 
+
+## Page 778
+
+क कॅ Ke 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| dr RUG SANTA ATT duk ne dd > ) 
+द्यनाविश्वेदेवाःपुर्छेरावा'अददंतास ES तःउभर्यस्य!प्रऽविद्ःनसः 
+उन।वा।सऽदानः।०वयिष्यन।अ 
+Madrid: (सिसिच वुभ्समान्‌।त 
+, 'ुमवसिंकठउक्थःभरतीसा्मऽ स बिभतिःग्ा 
+vage ET आव गढा लि। मु छठ: 
+अस्मव[सरचं FÅ E GT 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+वर्सिष्ठः। २४१) शुका। एव! देवी। म नी षा। | 
+
+
+
+
+
+
+
+
+
+
+## Page 779
+
+
+Bets, 
+eR 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 रेकषा।पिन्येता पृथ्वी य AEE EMIRE EJ 
+निरय ल EU 
+
+
+| धञनिभ्रास्ठात! eee j 
+a 
+
+
+Tag F ge 'अस्याशप्रावाभाव/नाआते वि तिभारा पृथिवी नाक, 
+regret Ra) pe यदि is | 
+- वाचे शः 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sm पार्थः नदीनो। वरुणः उग्र: सहसः FEN राष्ट्र 
+
+## Page 780
+
+
+इति साविझाअयाीकणाताशे 
+
+Aa तायत EENAA वानभञञणि॥हव्येः्जवानर्मः! 
+
+aa Bragd य ER 
+
+Å र नाभा ।अस्थ। sp उतानभएध नधी % ål 
+रांयायंता शर्त ।अर्य/तप॑नि। शच संगना en ना aimag gafi 
+
+
+TARIRAN TA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| 
+
+
+aiina nangan a R aA ETEEN | 
+ae) 
+
+
+द्वि ।जनित्रंश्रण्वतिःजाच॑म अर्थ ed ven 
+
+
+i 
+
+
+
+
+
+
+
+
+
+## Page 781
+
+
+
+
+
+
+
+
+
+ला — ८ | E 
+
+
+ngega shaha anaa aha सामास उेषतास्ाव।ङस्मरनिरर्मति र 
+nen | यवतानभरोसनारातिऔ्साचधवर्सनिवर्सतीनिभसुःशरणन'असत। तशा सुग्दवधविर्‌धा 
+4 qa नुः ag aaqa aanas mmg तासो FATTA पृथिवी 
+| å परशिपासनःनं/अर्न।तद।उवडाति रो दसीरति|मिदहा ता। अनुकः 
+| मरुतयासहासः है खाम बर fya aaa 
+gan नू।स्याम्‌।मृरचा।उपऽ on । qada ४“ 
+इंटरावर्रणा।रासःइव्या।श।इंदासामा|सुवित्तायाशोया। शान T 
+É ilsi | erre vr शंसं।अखाशान re नळ य 
+शा।नःसत्यस्यीस्‌$यर्मस्यीशसमशानः AFG MYTE! å ठ 
+र्‌ दीन उक्तीभव्तासधामि शरद र्र इविशिनु/जद्रिशानर देवानोहुदवानिस 90 
+
+
+
+
+
+
+
+
+| 
+| 
+
+
+
+
+
+f 3 y 
+
+
+
+
+
+gatan अग्निः ्यात्तिः$'जनीकः ऽस्तु hfna raahaa 
+ता।सऽक्नानिसंचाशीनःइचिरः। अभि'वादःवात। श मेः ्यार्वापथिवीर्‌। Å ह 
+å Sn an stat gre यानि ० PIER 
+ia Ydre Ona NAG EKG ss दिव।अख! श। आदित्य 
+वरुण: सश सभ शान रदः संद्रेमिनर्ळा बः शंनः च्वर्छी। TIIRA 
+वाशानसामतभवत्ता ANS रनमाण ईडत ae | 
+नः सर RAAN ANAS: अस्ताचे टि शान सर : 
+| ITAI ma चरतः न्दिशं ता maga | 
+
+## Page 782
+
+| ह्न äga aa wagi RF gu 
+| 
+| 
+
+
+| 
+| 
+f 
+| 
+$ 
+| 
+f 
+१ 
+| 
+| 
+
+
+yag 
+
+
+
+
+
+
+
+हरुतःसुऽअकोः शमः विष्ण शोत पूणान अस्व शेन: भवित्रे। शं! 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+aaee a आादिल्यास्ट्रावलेना . | 
+
+
+
+
+
+
+
+
+
+
+
+added 
+
+
+gegen) वायु।शे।न/देवशसविता वा Åm ण ४ शे। नःसृत उषसः वि. 
+
+## Page 783
+
+0 विश्वश्देवाशभ व वे) 
+
+
+Bgy [प्र 3ताभ्म॑तिश।नः। किज्रेस्यापति। जसत शा sj VL 
+।सर्रखत्ती।सह। घीनिशअख श fee । शा उतिशविशसाचच शे। न । दिव्या i 
+्थिवा। शो Biska AKIA dg a kaiku गाब्रमशे छा 
+go alizua भरवत EIER CKE IGES 
+अखु। शा नः age: magsama Ail ARNIE IAAT: 
+| क्वेनभवंवुदेवऽगोषा। ०अृषंतो इद ब्रह्म To नवीया। vegg नः 
+
+पार्थिवासः। गाऽञा ता।उत्त या यृज्ञियासः या दिवानायज्ञि याशयत्तियानो। मनोय ८. › | 
+चाः ञ्मृता^।अव्तऽश्ा।ते'नः। रासेवा।उरुऽगाय'अय)०। ३०१ NATN) FANN | 
+इनि पंचमा षटकदे दतीयाध्यायः्समाप्त। ॥ श्रीकृष्णार्षणमस्य॥ %॥| ।॥8$०॥ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+å भाजलैएवसर्दनाव। उत्तस्वावि। रश्मि्निंग ससज Å गाधवि। सानु न एुथि वी। संख। 
+
+
+
+
+
+
+
+ES å प मा।वा।मित्रा यार क्वीन कः 
+ma gazga fhaa: Ja दी न ण्य स्या 
+= AT IT a देवः ॥जार्थभान ref: 
+
+
+
+## Page 784
+
+
+
+
+
+
+
+994 र fe: प्रियासरथा शूरा | 
+Faina E le le वन, अस्य छ. E 
+स्थावर्य/च। नम खिनेः स्व AG धाम॑ ना विष Et! Er aaja vr 
+AAAA mea साकाथ जशा एतत्त सन्नथी H 
+api सुऽ्दु्घाशसुऽभारा ।अभि।खनौ पर्यंसा। पीष्यौ ना:उत्ताय। न:मरुतण मे दू. 
+न॑।जवूतृ!मान/परिर्गव!अक्ष॑रा। चरंती। अवीद घना य 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+नाधधियौतोकाचायाजि 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| Å a मुसपातःसु* ९ | 
+
+
+## Page 785
+
+3 i | 
+nYeGeRN द kb en Ed Sk नावीरभगीधिय* SA l 
+BR | ।वामीराति चिअखी अयवःमरुतःशलीक। एत।अछी R 
+
+GER गाठ) अबःऽभिः उत्तीर जाया गणताव भाड्या tr Fa ed 
+
+| | i: JAg agare 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qaa: क KAN 
+एृणध्यं।यूय। सष उसु थः as FSR IA MAAA AS, 
+चत पिवध्वावि।नुधराधांसि।म॒तिर a “वं उवाचि थ।दि।मघःवनःदेष्ण 
+
+
+
+
+
+Fausa sm ni ना fen $| 
+be सेना Aa ।सासाधुमअस्ताएथि।चर: EE 
+average दाशुष विच 
+
+## Page 786
+
+विवेष हरिःअश्वधीभिःववृन्माच ते। युज्यांसि उती कंदन AMEN nen 
+
+
+
+
+
+
+
+
+aa paa: aat * हिणय dina विंयामशिश्रेत्‌। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RN si सखेन कव्या ANR qda: उना Fo migs 
+ARE AEE LEIR ASIE ata E ANG EENG UIK I शर | 
+FTA hady g as Ua वेशे।यं। कु ण वें त। GIAE RBE था 
+KG ।सवित्तरितिस्तवप्याआराय FK kli es Ha TYRA 4 
+AT: ogam चनः RA मार्न॑पिभि/वि।य रतला पुरूऽ वसुः दर्धाति।उन इ 
+anser ogs gs Ag gs 
+R SR HÅN न|सुवान/अपि। खत ना AG GU 
+शव वसव TT सन: स्तामो TAR चन थाच! विश्वेनि Ta पायर 
+fen of सनादेवस्थासविव amg ge वरु 
+चार्स TAM ret +अभि।य)मिथः ।राति। दिवः 
+
+
+
+
+
+
+
+
+
+## Page 787
+
+Å 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+ngogo रानिःसाचः एथिव्या।अदि।बुध्यं।उतानः श णा व वरूंवी। एकैच चु tagg जन त वा! 
+ORAN Fag सीटर लादेवस्येसवित ge saka मगज Jai 
+
+
+la भववावाजिन JE salet गसुऽ्ञ 
+ह FA AMARAI Pq: ब TAT 
+प्रा/अमता।कशत$लसाभअस्य। अन च्वातुघ्ाशयातथृथिऽ | 
+eee स्व (अत aftafa: moaia 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| mengde agn 
+
+
+
+
+
+
+
+
+
+प CR 2 Se A ir E PI A A 
+
+## Page 788
+
+i ` 
+
+
+
+
+
+
+
+
+
+
+rer श्थ्यांज्वपथा।नश्ता हो danna TAG GM | 
+
+` | एषाः निदि वानी वडिश अ må Ji d 
+पूषा। A AAAI य! भया अ । र | 
+
+(जक ks 'कृणुध्वाश्रातीदूर PGA EA se EE 
+
+
+£ Le 
+er N 
+TAS 
+_ 
+a 53 
+
+
+मा! रिन ।संततिद्वाः तान्‌! अध्येरे। wagina 
+
+k मार dar बह णं रर अधि आ। ति 
+| चिष्ण]एषा। IHFA REN 'यज्ञियाना।न at ।मृत्यांनां 
+असिन्वनाघातीराथ अविभ्दस्यासद्संाससीमहि A चादवेभचारोदसीरवि अभि 
+
+
+gaas p aqla RE ny काब Aaaah 
+Kerner er Gr शबि सन 
+
+LE på $भगे।मित्र/तदानुभव ।च्‌। Men NEA 
+
+Raq EN वायचा यनि येपे तेइ तिनिः युवेती भग।। चास इत 
+
+auge TEA rs RE] MIA अचि I सवति 
+
+| न।सस्योरायःमरिश्एता अस्तिअये। a भने्तस्यी मित्रशराजानः अर्यमा अपः | 
+
+
+| RÅ 
+
+Wl soy dd 
+Ne å 
+
+
+## Page 789
+
+3 ल्क Å 
+
+Å å 
+
+
+fi 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+॥पन्पं०४) RAY: वी।जदिति।जनवीते।न/ अहे ःआति।पूर्वनाअरिंडाचअस्यादबस्या 
+nen y: न SG ease 3 
+
+
+
+
+
+
+आदे; 
+
+
+
+
+
+
+यो atA ru ता वानोयरूणीजि त्रो आणते, fre BARN] 
+
+
+rama 
+sr 5 i 
+
+
+
+
+
+; 
+i 
+| 
+{ 
+$ 
+
+
+
+
+
+
+
+## Page 790
+
+
+
+
+
+
+
+
+
+
+| अपीलः 
+
+वि Se मिलाया हावा Me | 
+
+Bn": På pe पच RE स्ववती यद!रातिऽसाच।चरास न | 
+quaFqa ag E rR aN दद JIN आत 'अभ्नि। ग्रातःईदे -d 
+भिवावरुणा!भात Taaha S यब्र णः पतिं प्रातरिति।सेमे। उतः रुदरे! पे गे म॑ | 
+तुः जित।भगं TE ESI KAE Gik Gik E O Gi मालक रुबि 
+Å Ee CIE भर्ग।भक्ि।इत्ति आह भग प्रनेत्तरितिप्रस्नेतत भगस यंप्रा धन भगी इमे। थि| 
+यु उता'जवदर्दतानःभ गी E NG ak गा भि/ अन्वें। भग प्र KUS K asd: qan | i 
+दानीभगरवंतभस्पासा उत।भःपिवे[उतामध्यीअन्हाउता उतरता p घर वृनLस्रयस्मवृय।द 3 
+वाना|सुःमंतरी। स्याम/ भंग एवा नगःवान। अर देवा तेन वयं। भग भ्वंत। स्थामा ते ल।भ गे! va) | 
+
+
+डाय 
+
+
+—— oo 
+
+
+
+
+
+| 
+'सर्वीइताजाहवीनि/स ge त्ता 
+वाशु Jå Fe ने।व्‌ः aA 
+सी:गाःमंती!न४षसभवीरः 
+
+॥.॥प्राजलाणभ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 791
+
+
+
+
+
+ga यं एषस॑ःन मंत!दधिका वाः 
+य aaa a 
+
+
+
+
+
+
+Priano 
+
+
+A 
+
+
+
+
+
+
+या।अरमंति। वे; a 'यूदा।वीर Fs uals A 
+a: => ।सुऽधित्तःदमे्ञाःस शादी IRIRA जर/अुप- 
+
+
+| FLG ATARA नजन qi ।सदवो!उषः म d 
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| | gR 
+॥प०प०७॥ zegan aiaa कोमधविःवःझर्यस्यार्‍्नोत!उरषारयि aan 
+RN अर a दिवःयेतअर्चनाथार्वा नम इनिभपूथिवीडतिरषध्याथपॉ ज़ 
+STATE å BAA ह ।नाशाखीश्र। यूर एतृ हे नासि! उद्य 
+| व्यसःश्‍मंनसः घत aa । ।साउउघ्वीशाचीधिं दय Ereg 
+sm गास ।न)मातरे।विऽ्हना क fa: 
+कक! mana ऽतांवा!म्‌र्धःके तसाच हे FIK = s 
+दुर्घाभडुरंना:) ar as 
+| विश्चाआदशस्यालयावय।सहसाउवनाओ SE Ea | Mongo 
+AIRAA अख्विनाउपसे। जग्निसंऽ | 
+.णःपचिआदित्यान'्यावां aan स्व? रितिखधदधि:का।ईइ मि। 
+
+
+| 
+
+
+f 
+| å 
+
+## Page 792
+
+| ह 
+
+
+| 
+
+
+dr 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 793
+
+
+|; 
+
+
+उवईरांणाभयुत्।इपः भयंत उऊ देवी। वर्टि पं सादयंत/ अश्विनावित्रासुऽ हवा हि 
+_ 'वाणाबुदुधान र क. gaë å धव्र॑णस्थावज्ैति।विश्वी अस्म 
+बसा सपा आह ।प्रथमःयाजी' अ क ऽञानन्‌।सऽविदाः 
+geni 2} ऽभि $भिमअ॥न्‌।दधिऽकाः।थः अरे ० 
+अबुएतवेउरवि ऋण नी ना देय ge angam ' | 
+D देवश्यातस विता।सु्ख्लें) अतरिध्तःप्राधवहमान (हल > af GN 
+चाभःसवनप्वाथसाउताऊस्यावाडडति। ag ।दिवःअं | 
+..._हानूनोसंधअस्यामंदिमाष FOR IRAYA: | 
+NR ea 'आ। कु MAs aaga Ng MANA 
+i रिसदे।नइमा॥गिर/सवितारो लुड्निद्। VPS gs NATTA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sakt ५३ 
+
+
+
+
+
+EG j< 
+pr 
+; 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+SN 
+
+EG 
+på 
+
+N 
+९ 
+| ); 
+
+## Page 794
+
+å 
+
+y 
+
+
+
+
+
+
+
+
+
+H FITE: | 
+
+
+॥प१०पघ०७। जरगइनिदरयायु।०३०इमागरुद्रा योश्यिरुधन्वनागिर सिम द 'खुधाःने। 
+AGN व्हायास वेथरे।तिग्मऽआय॒था YAN ज़ Å 
+|  ननिभसावरज्यिनादिअस्या'चे च PUEI IE STERN STG 
+aniaya उस च > चेरति परिसा ठणकत ।न!सरसत्रातासुः 
+पि aga NAAR mandat गा! ।दाभमाति) 
+॥टीळितस्यंजानभज! ह जसे VU बी प्रथमा देव 
+सत aaga 000 भतं å | 
+Af आपभमधमतडतम GIANT HTG आशुर GENK å Å 
+दिवऽय pag aama Kl दिवानो।अपि | 
+ES ME 'मामिनति। सिंधुःन्यभहव्याधुत MEST ॥५॥ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 795
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+उभि।आतताने।माभ्यै।इंट/ अरंदत। गावी A ते। सिंघवृ/ JAG 
+यागाःमादर्यच्वा जरमइलि। LAGA: जा चचक 
+वर्षय वृकः मअमिभ्व॒भस्पामाविऽभ्व!विशऽभिःशवंसाश 
+वृतुभवाजःसांवो। ३>णप्यूना!तरवम!दत्राते वाहि ARANNIRA ji 
+E EERTE निला ARA मिडी FJ 
+
+
+
+
+
+Fa ॥०१३७) कै क्षण॥ qaaa 
+नायाताविश्वधरथीने | 
+FE! अस्मानाड | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 IRANIANA ARAM WIAA NAAA Oon 
+| Has सतत AA UG AAR matiu: Fagan | T | 
+
+
+## Page 796
+
+
+EF AVS ram य।पावकाशण या सो राजो। न स | 
+fan 
+
+
+
+
+
+
+
+
+herme NGNANIP!: 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+IGG [यासी जमिधप्रधवेंछ॒आ०ा३६॥ज॥।मो।मित्रावरणाह ह। रक्षत कु छा 
+rere जा वीर | दथे।मामो'पधन। वद्वत्र 
+वे 
+
+
+यत/विश्लाम॑नापरुषि। वर्दन! अब sr काच ea pr re | 
+ET KE Ol pe ERE SE JEG SE टेक 
+
+
+E E CE C थयागघ्रः FAT Å E अवलगउ दब उवत्ती । अनु द का / वायाः ता । 
+
+qim SE la n !भवंतासंवा॥नुद्य। अशिमिराभभवृद्ा। 
+
+av ।अव॑सा। न re AF म HAAAT Et रासः। 
+gagn णाः १माद्येत्ताभित्र।अ मा 
+
+दी भवनस्याशापापिबंतासामाअवस न जया आदि?! bek 
+
+ere in AJEN? Men 
+
+
+FANT 
+
+
+ss FF. ०2200“. कलक क-न 
+g ; E 
+3 RNS > 
+: x Wok 
+at 840532 
+
+
+
+
+
+## Page 797
+
+
+
+
+
+| मित्रस्ननोवरुणो ` gnda Sr 
+
+
+स्यामायूम ददा सवःमसेऽासनेंमामिवावरेणा।सनेतः भें मा या वाश थवी 
+मम ]कार्यीतनेयायाणोपा:) ER ।अन्यऽाते। ML | 
+FE क apr PEEN सावत KRAN PNAN 
+. मराबाभनचविश्वादेवा।सःमनस षत) १९५० aa gga = 
+Sad कुवयःगुणेतु^पृरःमृरीइतिं श विदेय | 
+
+$A ARMNI apaa A: S get 
+ME नाज Va FA rav RIE FEI Sik w 
+Ag N S त्ते यदश्असंत'्अस्कु MGN जानी है GIN 
+
+
+NIR S Kjeft शो T Eel A 
+प्रक 3पहे। बस्त MEE EIA referent. an på अज्ञ . 
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+tl 
+
+
+॥प०पं० Ol रासःतेगसरेमा।स्यामापिताईकप॒जानअति न/ सु षख! Et Fu शग्मया संभ्स दो ति! सीम | 
+
+nen R ER पा उतो बरीन ३७।अनी वेष्टा। वात पता बिना , qi | 
+
+| पा आविर शियः एधि!नभयचशञञन्‌। mn stad | 
+
+3 HARE TI IYE निसासपस्तनरायासारंमयात gi a aa 
+
+| सातम! इेरस्य!रायसि कि) अरमान! दुछ न॒श्युस।०त्व! g मल्टी eg GE Griki 
+
+## Page 798
+
+oe वियानि।अन् 
+
+
+RRINE स्त mpå ।श्वा।सं 9a स्‌ 
+| oe gaai k ।च/चरविश्य/चाप son A 
+aat FE: ke 3 SAE Aiak EA Oir S J | 
+å सिप्रा्ठे3 Fs नारीःया:तल्पूः ।याः nN 
+fig स्वापया संसि२७२ tr sant selen IRTA pe JF ngn 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+
+## Page 799
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+निकी रिग विजन 
+आ ; A! t 
+
+
+po sonnan ns sitio ३५०७७३ 
+ARTI NC EEA rr p og 
+
+
+gere | 
+शा | 
+
+
+hade mi ARINA 
+mqz याव नानुराग यतरा j 
+ना ak Så णभसुःनिक्काः!3ता सवयं[तन्वशुंभंमानाभ शच EN व्या 
+
+
+
+
+
+
+
+
+
+| Å: 4 Ka tike liin ro or bi | 
+नः FYN पा वकाश असे Fem मरेत्‌ः रवा द्यः! GUI 39s na . 
+RY ah स्याना अंतोरा आर्ययेभय्माना प्रा Et म 
+
+
+
+
+
+
+
+
+
+
+## Page 800
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+NRI SL ट्या! रायु॥ kai S G 
+a | $ 9 FAU pe सम AT गत 
+
+
+| GA Je गन्‌) मः पयःऽ धा देशास्यते। नः 
+शक å ee न्यावा अर 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+बसव nr adaga सनीची रा्तिं।मरुतः 
+| गुणान ht i तदषण अस्ति भसः प तर nagia 
+| å EE io fanen i EA GREG 6 
+å area glade salsa qs उषण तमाॉसि gaar 
+| a Ruma anaa aAa गो प श्वाव। दष्छ स्थ्य। N, ॥४।। 
+
+## Page 801
+
+
+
+
+
+
+
+
+
+NA 
+gu 
+AE 
+> 
+Å 4 
+LNR 
+3 i 
+kv ; å 
+w ; 
+s ; à i 
+g% PSN oe भ्र È 
+Ba T EPEN Ta SN NRE 
+ste dans 
+å På € 
+y § 
+i क 
+i 
+
+
+FAT NS मित्रो अग्विगप ओोषेचीदे निनोजुषत)शामेन्स्पाममरुताझ ge 
+
+
+,नास्पोर्हाभजंतनावसव्यायवारे! gg क 
+| बजा जाप धीक्षविक्षाअ्ध समान मरतःरुट्रियासःनातारः भूत पूत॑ना स! ज॒ 
+aaa उकक्‍था नि|यावशशस्पते।परा। बिद! म॒रुव3 AA पुर्तनास।साः 
+रुचरनि'रव!सनिंतावार्जअवीअरेमडति fanen शी अर जन नं। य गजस रे 
+तीभअषःयिन।स$लितयेतरेम' अध स्वैतओ के ज नि। वगस्या मे।०१२६॥। मभ्यं नर ।नोमीमा 
+GIR EEI! oe शवसा मरतिथारेज de DS ननि Li 
+LA amaA RAAJAN यजेमानस्य! स्मा | 
+अयाविद rm EN याणाशनाएताव॑च।अन्य।मरुतयथाइमे।| 
+aR a kip SFs विदानाः समान! अंशी | 
+| ps पुरुषता'करामामा | 
+
+
+
+
+
+
+
+
+
+
+
+## Page 802
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RHEA TIETMEYER 
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+ETT EE ————— me >> we पेश 
+mere ५ A ह्रः 
+a Tr ह ८ करर 
+
+
+å 
+Å 
+
+
+
+
+## Page 803
+
+
+
+
+
+
+
+
+
+
+
+_ ॥प०पे०8॥ Jaafari amasa AMARA लि? वनि दुताविव(अत्र मरु तैः।२६ 
+| १४० ARJEN कडी... 'सुमतिःनिशय जत्रा/ प्रावाजेनि/तिरतपृष्य 
+| | प EUL OE CUE aG aq ।द्द तानः जमुतस्य।्रऽओ थो | 
+ARMLARI ii नि।आरतुवास/मरुत॥विश्वे।$ती।अ ane a ] | 
+iti tanahe द he JA åa) याय arni i FAN | 
+भन ता fed डरति।महिःखा।न गाण ।निऽञतेमअवंशातः' SSE 3 | | 
+R ठ)भीमासःवविऽभन्यव्रः ee ना ami HM 2 
+| | sm GN न्यः दधात नु NGU JA FE न/सुरखुति। न । गते। 
+ष्मो 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+वि। GEER: pogs भटी ये गि Cr | ` 
+जूर्वी सदुरिभ सहस्त्रीर्‍युव्याःउतसंःराट उत हंति। इज! प्रात त! FEE: 
+
+## Page 804
+
+
+
+Lj | 
+må 7 > ° å des ii 2 a 
+w Å री 
+À y ; Å å ol å 
+ë ) | 
+
+
+Ke 
+i: 
+t 
+sg 3 
+F v 
+nen | 
+A 
+A 
+y 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ywa अवसाईनिप्रिय 5 
+
+
+॥वान(आरुरस्यासीऱ्हषंगविवासा कुविद! नंसते। मरुत पन॑ ने amaai लि å | 
+शायवाजआाविअवीतत! ए ने ई मे डि तराणा नासा मानिस aN j | 
+| JARRA GJE जारातानि PAMEN kt tU EN NY Ei Li GI 
+कर Ss जव ण।मित्रौअर्यस om Eul 
+मीयछता०ईजान/ gAn a aR agaaga | 
+daada Raa AGS पृरिऽर्मसंते ESU अयाम to | 
+Ga वलाका "तिब nA igam Ped 
+av RIMANI ४॥नवीयसी। दया या ekk 4।भे 
+
+कस re मा। वः।रुव्या। मरुवः 
+हि HÅKAN GBA तन आपणह धसर्देताअबित। चनः स्पा 
+
+
+
+
+
+
+## Page 805
+
+vom, 
+
+
+
+
+
+eT कका 0 rr कम 
+
+
+
+
+
+$ 
+
+
+
+
+
+_ CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+क —=— ease ads Emir 
+०० oo ed EE z ~ 
+ne Pr Ao a = ~ 
+
+
+
+
+
+
+
+
+
+।पण्यं०४॥ foji दा agaia: F तुम साम्य Nene SA । मादयाथ्वे २९ | 
+99) सस्वरिलिं।चिच!दि। तन्वः स जाद सा्सः। TTJA 
+स्वाशर्चभजभितः era araa मदत: यः नः मर्‌ 
+
+
+त Grade वन सानि।वसवःजि INMA L 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 806
+
+
+
+
+
+E ना FREE? विम 
+जुड नाच, ती रिशादसः रदऽमे YTE STA! नह तःमा | 
+S AE KaL LE KAKAR LIKS EA PERESS ह्‌! वः! स्वःतवसःकर्वयःस | 
+यल च! य॒ज्ञ मरुत्तः! जा दुण॥ज्यवकंयमामदेसुगंधिंपश्टिवर्धन। उरा 
+
+कॅमिववंधनानरव्यार्यस्ीयमारतांत] ३०॥ इतिपंचचमारके ° 
+धा ॥-्रीकृष्णार्षणमस्। ॥ ॥ ॥ ग्जीशमचंञ्पणमस्वृ। ॥ "१°" | 
+
+
+MST 
+त्तिiसः।चचचीष्ट। स 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gai 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 807
+
+
+r 
+
+
+जर्वअर्नागागउवड्यन[मित्रायीवरुणायासच्ये यादवचा अदिते। 
+Fs t 
+।रुजिना'च। पश्यन!अर्यक्तासत्ताी, + 
+
+
+eT हें की 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| apanga 
+कि 
+å SJ AU t स्था || Ii | 
+Eoo | Af H aibi: पका men = naan i ।सेभ्थशय् 56 . श्‌ | 
+O थाईवार्जनिंमानि/चष्टीजतावा। पृक्षार्सममथुश्म ANER आक RY: e ह. | 
+| यर आदिदाशअरध्व॑नः A तिना Eye NAAR चारं जन्त 
+> भिः 'वरसूणःहिःसं मी JTE दुरोणि। शम्मार्सःपुत्राः 
+| Zeg Hn रॉसःअचेत्तसं'वित!चिसयं aa 
+o समब्चेतसाव på ।चिरः चिद्यः सुऽपथा नृ यति॥३॥ RAA fv JA 
+.. Eerste MR NEA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 808
+
+
+
+
+Ak 
+
+
+= ape -a EE 
+w क मे 
+
+
+
+
+
+
+
+
+
+ees 
+लद ५. 
+
+
+
+
+
+
+
+
+pm 
+MØTE, 
+
+
+ne espen 
+TAKE यम रद 
+ह 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+५७३ 
+3 
+
+
+
+
+
+
+
+
+
+
+## Page 809
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pe see akan 5 दास तस्मिंना आते! 
+hadna mg RaR रास EN /यंजसारिप काम चित्त) 
+(सप इभिः ॥ ३ ण्तु।उरुं।सुददां । 
+
+
+| दषणोा। Farr ed 
+am एषो!अपीसनास विला Rima 
+MRS यः जर्हणासुःमति आःयजाति।वा nn (रा | 
+ma grass ak IE SA Oe LE EGEE AGUR EG | 
+सर En sr बा पधा वरु gard | 
+है, de देवरो एतिःसर्य।तसन्वा ut ped !सवनानि। | 
+दिता मा ।सयभिजावरुणो। ऋत$ ननन ९268 | 
+BR गि FA HANG RRA QAIMAR: NAT i KG | 
+
+
+
+
+
+
+
+
+
+
+
+
+sAN 
+
+
+; | 
+
+
+
+
+
+
+
+
+
+## Page 810
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Å 
+$ 
+
+3 
+= 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ua på FFU ÅGsaN स्पर्श i 
+små à ag g ad: er दा efas ae | 
+ane शुष्मः RA FET! 
+
+
+masaa 
+jomaa aang ते।अभे 
+mAAR 
+
+
+## Page 811
+
+
+Hi 
+१ 
+f 
+i 
+| 
+i 
+
+
+
+
+
+जाना लनो RA : 
+।सचत्तेःअनताजनाना)न'वा ।नि५ å 
+
+
+å an SEES १ नि EN वो!मिचावरुणा। सऽ å vek IR | 
+| FF AMT er RE श्र 
+पुरव जर्निम å Peer द्या | alaa सु$ 4 
+g CS t I पुर t ani शो रै 
+धने ws MS FA VEN नसह Jai शर्थ 
+
+
+इयंरेंबप्ररोहितियुवभ्यौयज्षषुमित्राबरुणाबकारि! विश्वोनिदुगीपिएतंतिरोनेयूर्यैपातः 
+
+
+4238 
+5 HÅ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+## Page 812
+
+
+
+II IPS TAA AA 
+
+
+
+
+
+
+ma f ar 
+क 
+
+
+3 í : 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| १०६०४ gêgaman ana Rm 
+w ता 
+
+
+5 त्रासीयो म भया जस Es र 
+
+
+स्तवानाः med 
+
+NR! | 
+
+।मामित्र aq FATIN RUA! | 
+FY FAM 
+
+
+| veg Ne kl ककती n i दर 
+å ea ASS FE सपथ निस ong FM gAGN I 
+
+
+
+## Page 813
+
+भै qadamining स्थावर na NA: 
+| संउअविन्यकूत्मॉसिभप्रअसविता।जनानो 'महाव/ narm NER aa ANIA 
+E | YKAFIJEVARTAT rom ऽन्त्राज्ञमागेउषसीउय$ 
+
+å Ml समा qagan] ek Beef 
+'चाम।दिवः समः उरचष्तागउ एति 'जाज॑मान॥ नुन 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+ar” गमिओगरुणे जये मानसम नेतोकायवरियोयधत। Pride) Agay 
+
+
+बःसताशअयेन'ऊर्थीनि।कृण ed $ espen aa गाव अर स्पिन ना देय 
+
+## Page 814
+
+“a nad pe (उत्तर ak ka KE Rt OE 
+å मदुदीः Sees ना 
+
+
+
+
+
+
+
+
+
+
+
+
+
+व|॥रजस॥एायिय्या। AF 
+राजास कक gma 
+
+
+NAA a ZA उव! 
+प यज er 
+el 
+
+
+
+
+
+
+| aa Mquanaindadar {Re रय त | ER fn 
+F k ~ णा dg mø RA | 
+GE FAA eangIA $ ! | 
+Fe po मद'भारिवाजिगल ताहि सरन तय यान तापकरा | 
+å धियो Ragin तिय सूरउरिले। 
+
+
+
+
+
+
+
+$ | eg 
+på A 5 56१ SÅ Å å 
+EG 
+
+
+_ CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+## Page 815
+
+
+
+एधस्तोभोबरणभित्र JJA 4 ऋननायनेयामि | शविष्टधियोलिण्‌ लऽ 
+
+
+
+
+
+
+
+
+
+
+
+NaN & R 
+|) q | 
+पा 8 i å 
+
+m F 
+
+$ N: 
+| 
+
+
+Fj SA fl ह LRS 
+१०पं०$ erd EEE EAE N AE घावी चायतीपीपर्यनाअह।चाता भ्रिपाशे॥ aaf 
+
+
+तिदुअयेर्देधरिपव) मर्यीयाचसतस्व)मित्रावरुणा। KIE EEk AIE IERE इता।त 
+å ki GE AGA नित तिन JUMANA 
+AARAA nn Bd गएता Ur der bekker विस 
+Fama å Jg ahd SEA आयाम Fen ।सिःपा। hr Sr UKE | 
+mn जि md साथयंते।थियेशयतअध।सरे! उः भभिवःजयेसा सुवाति 
+| HENGE ær 4 it 
+जागा Fe 8 7 k 
+$ त्या ! 
+RAEE i भरा 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 816
+
+
+
+
+
+
+
+
+
+
+
+
+o` cn u a we 
+
+
+| E 
+
+ALT: र ~ 3 
+
+j ह ८१ vi å 
+å TLS et IK Ns ri å 
+4 så 
+
+
+
+
+
+
+
+
+
+
+
+
+ERN, ga re WURR 
+masanda न । अयमा Gatas 
+
+
+| | - UFUFTQ ag i वी) FAKTUM NIma 
+| ERMAR ATRA MNN: TAI अन्तः PGAGHBIE 
+faren जज उ as ha शीतेबयृ। दिवः ति का छु 
+q ति।देवःएतशःवि a Fa MR सम på 
+
+| le ना Få | A PAIBA 
+
+AIA td जीने greit ÅSE | 
+
+| 
+
+
+शाम Jan ed Gu मिवः चयात्‌ स 
+
+## Page 817
+
+तुमीई्याः दुजी आयाते मिजरावरुणा जुषाणे जाग तिमर १5॥ प्रतति। वो रथे 
+| | पात॑सोमेहताइथा ri 
+
+
+> > w 
+
+A 
+१ F E, 
+Bi ४ ZR 
+Å W NBs 
+iE 4 
+; 80%: र 
+å 2 Pre $ nè ng 
+
+å Ep 
+
+
+ns 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+च०५०५ सुपतीइतिच पती जरध्याहविषयतामनसा!यंतियनायःचो hage ।अर्जींग/अ छी 
+
+## Page 818
+
+४५ न å Hr QAFAN दर अटल सः 
+i Raa साम ।उथसः पुरस्ताच वित El Fa यचा 
+
+
+| 
+| 
+å 
+i 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+विनासः हिता स्तोमे) सिस कि।नासत्याी विवक्का E SAO AE या ik १थ्याँनि ४ जः Ar 
+$ 
+
+
+RAJANA जा नायुवारद'रवयवावो पा 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 819
+
+
+
+
+
+
+
+
+
+
+
+
+
+| ms ०2५ pe AG के प्रा È li 
+TGN [ARN चेस$यु। sm RAN ` 
+३ eda JE = भी AMG | 
+| भञ्ज च नभश्च 
+
+
+। तो के। समयि) ते eb : 
+an 
+
+
+घः स्यः वा पू गत्वी! सरे नि ARa: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+णायः å nga 
+PARMAN वो।अंधो syr अस्थः SS tråd | 
+iq 2 
+
+
+'यात।अवीका ज श्नेतारव्ये'मान॑पीष /विज्ञाए Fn romaner: E l 
+Fedre RPR ae aiamaad, ` | 
+Jangi याराया मचः देयो ph रथे भ भि hr 
+ah ahejmxgAga å > थच | 
+GÅR NHANMMYENA qia 
+
+
+
+## Page 820
+
+feingi रथ मन जवा शस 
+å | a Ps Ne EN NES EN 
+
+ENNS मा da य मति JUG de 
+मा 
+
+
+å | EG un ब्रियधसनू॥ ४8] उता खता वोजुरते FAN HA थवानाय ig 
+
+
+på 
+A 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+छाया | js NG å HA 
+En 3 
+
+
+å 
+
+
+: | i i 
+१०१०५ HNGRF Ye) sa KE AGRA MERREN 
+४६ mes pr ki मि 
+
+v 
+
+
+a 
+
+
+aidara ना DA adr ug | 
+
+S : med लम. हट ; qau: 
+å ने far se अभि१हयानमरषो ZT । 
+
+## Page 821
+
+4 या Peres ।युक्तेः शिप ग याक M ०८ ० 
+GE यामाअश्विना। जती कव शस Aagi ` | 
+å wiy Nets यत्‌ 
+
+वयः गातभ्यः ह।स्यःया।राथ्‌र। य १युञ्चानःपृरि$ 5 
+
+
+| 
+
+
+a TROT AJN REA Arnar TA år नौनिजरितंच 
+
+
+a Sade int} 
+o 'चसविउंटोपमाजशिना वदत यते!जशिदानरांगाराडवाविःयुत! 
+
+
+णाजस्माकअयासर्वना! 
+TAF mg ad må नोस eie, 
+द्रप | 
+
+
+EG pan Ts I 
+रा JAJA ARANI $ ॥ | 
+जान आवन वने and तिः र 9 
+
+
+FG 
+$ phant NFT ॥िपंति। | goy FAA 
+à आकार नह नदी DET rie 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 822
+
+
+
+
+
+
+
+
+
+JAVA EELIS Kik g kN । MG 
+å Fa 
+
+
+नश aT | 
+r CAERE 20 Sbs Eeke Lks AAI ii 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+निपेर्बेङहशथुः TF « | - aarin 4 |: | | 
+
+
+YoGey madangan Rasima arhan aA 
+EE SEIN S E E IEAS NN kN f EGNE EEIE EN 
+| FUN: eg RAR Fs å egg ha: 
+मेश श अथात sem rer GNU + . ` 
+l बहल , राञ FÅ! सीथा।नु॥आयो। रथ 3 | 
+FIRE FG समश agg a आअखिनी! 
+gå FRG नःपती। pe AR घरभवरसःमान!उस्नश्य 
+MANGT TIRNAR AURA Ne 3 
+
+
+DR steng UIA! ।०॥९८॥ ओ 
+
+
+AEA oe या SSE BTG स्पारैया। ६ 
+इमंमेगीपाद मे विनागीरिमासुदर क्तिरंषणा उषिथा , (मात्रा Agagi aita प | 3 
+
+
+SRP EERE ET 
+
+
+o अर्जभानुलेषितादेवो अभेत | AARRETTA 
+
+
+hart आन Sp På dras van नासटारथेना यवेः Ra gon af 
+'समामः gA व्य nun salong ai 
+quad Reg : RIRA A 
+षस NR ae राका वदिन सया 
+चआञ्रानिगा'यातःअधरवएर॑का पोरअन्येनाराया।०॥१९॥ थलेमे | 
+
+## Page 823
+
+Sa så EE पुराःना) m reisa aq 
+PE Fn RAMAGA MINT FAI 
+चासुरा eps 
+tu क पक भउ पा द्या।व्‌ वसः PULS 
+आ å कुऽपांणी।से। अग्मतामत्सराणि मा न॥मर्थिट आ। गते। 
+a भापश्यानोनासलापुर्ताराश्िनायातभधुरादुदैक्तात! भाषि शत; चेत न्येन राया युपीत; 
+
+
+Meet 23: ४०४२३६॥ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+nailing 
+
+
+१३ 
+$ 
+| 
+
+rå 
+Pi 
+
+
+Joyo विष्टयःउस्त्राहवंते!जश्यिनाअये वोओ as 
+
+
+रतिशचीश्वर/विशेविशारिगछ थ। 
+४८. युवाचितारदथाभारजना नरा चोट rase 
+
+
+ne maggio] ˆ | 
+षती Me ग्यापर्यावूषणाजे न i 
+må 
+
+
+अर्श्वसःयवोउप।राशषः यरः 
+नरा! पा Br 
+
+
+vi स्म र्य अधाहायेत् 
+ee 77४ 
+| (नः एउतासेनारावसा! उत) 
+
+## Page 824
+
+| दिवान आवःरिविःजाममर E प्वानामरिमान।आअंगा ता på 
+| et ann MIAA 
+
+
+र मशअपासुबि Ñ re | dig å 
+र्ष IRRI MA | । 
+ed ga अकसर Komm 
+
+
+निश्नतानिजःएण sagen | 
+नानेमचिएमा्ग्। | 
+
+
+may pf 
+RE PE ++ 
+
+
+| våg | SAR z a Ge क 
+
+
+।रायःईशे)वरनो कषिता å | 
+ELGE E SEA JAMEN A NIRANIAANIY anfa 
+शभ्गाविशवःपिशोस्थेनाद र FÅ आसव्यासऱ्ये महीध 
+gama रह ELGI ।गायःउष शतन IN 
+IE र ITUM FA GEN -F dei । RI निष्क ven 
+
+
+नि यानि।जमताविश्वर जन्येविश्वानर/ सविता दे 
+च ee H å मजा) 
+MAIR 
+
+
+a भिम्‌ 
+S स पवर Aa Lb oe 
+.. इञहानिबहलामिजासन!याप्राचीनीउवःरंतासयंस्थायतापरि जार रवा जान्वरती। 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+gr 
+
+## Page 825
+
+
+
+
+
+
+
+| न पुनय॑ती E EELEE माद आसनतः वांनध कब य goia 
+
+
+An Aa MEET त wh GRE) | 
+a मे na ag भिश्यादमानाभ प्रति! 
+जाले HE ना + Jy: nagia: is MTI 
+
+
+भआनेप्रयथमा।जरख। NANUN: 
+
+
+° ma उपाइतिं न्न, 
+ता en 
+
+
+aug: 0९ IFT 
+UT pi 
+॥उषा४ अर शि। रश्मि 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+459 
+- ५ EA é è F 
+R E AE 
+१ ९७५ ४ “रत 
+i 
+
+## Page 826
+
+
+
+sendt de ne हेष आ क Adda 
+
+
+
+
+
+
+
+
+
+'भानुः भा देवि्रऽतिरंतीनः दर्थतीविश्वःवारे) | 
+Ms re च ee am vo L o 
+gaama a akg अ ARERR Fil 
+जयंगविश्रयेते।उषःअवीया।हृहना। सावार feng विस आणि P 
+रवास: भति।विास/मतिःवि: RENN ह मोना विलय A 
+डुभऱता अपा देवी] AAAY: उष å ती।अजीजनन। 
+१5 युत अभि अपा चीनाल मग अंगात! ut få म manAR) FE JRR सी po 
+मातीस SMÅ! Sr NERE) मचा be Jaga de 
+अस्मराकासःमघःवनिःव had ne aldni | -पे१ पाके 
+| gaia a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.3 
+
+
+
+
+
+KS प $ X iA 
+५ et EY: ; र g | 
+R x 42524 Å ea 
+Ag « रे ४०१२७ SB ii RRR PIN BTS FP E EA, 
+Je 20002 20 SE JAN FAN Sk Le Å he PLA SAE WAP ART 
+i A 3 2%५ 20050 0४) 75६६ EA PR ATE PN Š $ id Je 0 
+7 SP AAA क 20 22200 EVENE SAARTS MRSS å EDLA ee 
+
+## Page 827
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ER Fasffrn$ aa विसरा 
+
+
+maren द्व min काभउषसः)यत्ततासात 
+de: æi san 
+; = a 2 HIR: za ४तमारुःर Å 
+
+
+रोघ असमर्भ्याराख्या 
+र Ede A दिये । स्वाः 
+;उक्च्ती। नःयनये।थि ae n J 
+
+
+HR 
+sår GU få HA नर अती 
+eee 
+
+
+LITA Å 
+णा।प्र।अधिकितव। रुथीयत्ते।अभिं।०॥०२७०॥ इतिप येमाध्यायः9 ॥ ॥९॥ 
+। खोनतीमोनेती्नुषालवोर ga भरा gg mn pl क 
+
+
+` मतिपुडाते[अदर्शिओाःयती।उ छंतीप्दुहिना(टिवभ अपारतिगमहिव्ययति'प्शेसाते 
+EAE KONE पचसि ajaga aa qa ! | 
+
+
+वसा तवीरव उप ध विश्व VÅR गमे महि AA RAS BEGE 
+å gR निर RYRM Raa magi CER 
+Z EER AERAR EE Ea FN 
+न तव/बित्राराधआभर! EE य EG 
+नंीतवाराख॑मनर्नामहेश्र भय JA ag 
+ug 
+
+
+; डौ maa -चोदयिवीभघानंसनताःवती उषा på 
+sa ma mage उ्युष्ञति। यःवृनष्य तति 
+3 माद नास्य EDGE अन्यभउच्येता वा। मद नो रंद चरी 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas. Sanskrit University Ramtek Collection 
+
+
+## Page 828
+
+
+; 
+
+
+ne9n 
+
+
+ngogo å un FAÅGA gaa RRRadugin 
+
+
+
+
+
+ठर पवकः NETTET 22% .) ७003 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Qana EE सं 
+द्चशजनी जप रानि। CEE EENS EG MAGT Re SAGE 
+z 'मायिन॑।जपिंन्वते। Må va» pet anga 
+i स्याकार बरुण म | 
+SG på daa क्षेमेणा। | 
+le ia FRY | 
+सिमा ख्यायवार्पं Aag m å 
+FAFO TEL नान FROM! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 829
+
+
+
+
+
+
+
+
+
+Sra qrsa aaan a शत ARa कू। नरा। | 
+| ANA ळा रीत AUF युगा [दिसरजाउतावायवाओआ ४१॥ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| ।मार्दक।इंडावरुणा।नि।यछ ता अ: på शुवरुणा'भरेःभरे।पुराधा। 
+सा'यतवा।ट्वेतेष॒भयीजयीस्पृ र कयन JE på 
+रुणममित्र/अर्यमा gqASJA स्‌ः sjå RA 
+| न देव्‌ जुम सविव engang fen TAFT me 
+| 
+| 
+
+
+
+
+
+
+
+
+
+T EEN, Ca aLi UE S Es AaLi aLa: EEs EZAR s KEEA aa 
+
+## Page 830
+
+qhia (झृतरर्ध्वजे ib sameiet Egri | 28 
+dang Al तरीमइडटावरुणा NIGEL AAN: : 
+इक्षताइंड्रविरुणा।दिविधाषधओआ॥। hå Å AINAANI 
+।अवंसा (र ताया मवद EREC k IGE AE वन्वंता त्रास्‌ $ 
+आवने। हवीमनि।सदा।दसरनाअभवत FURE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+MURYA! 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas. Sanskrit University Ramtek Collection 
+
+
+| ॥प०च०६) वरुणे भि matiman aAA ggibadaa: Yu q ke 
+
+| ) ५२१ gu प RAYA SA RIJA Å 
+
+. RornatadahassraasshestfRaggadentåa छि EY), 
+
+शरामानमखेश्ईलाज यज्यवः द्रावरुणा।ना युयुधृधस॒त्या नः JER, Ri 
+
+उष॑ऽस्तततिःद्वाःएषा\ञ्भ वन LE यृत्ताय तस set 
+वुरुणे।जशिक्षवात्रवियं ।नमसावपर्शिनधियार्‍ी IG 
+
+S EEE ENEE च्ुवानिीज्ञन्य/अनिरक्षत/स AR 
+
+FN FIF sg Fom शर्मीयरछुता०४५४आ।वों। राजा नी 
+
+२।व री! हव्येनिंगइंदावुर णा। न मंछभि Ads at T restaurert 
+
+KIA TAG TS रदद इ-व तिभ्यीगयोसच$भि। अरञ्छऽभि।सिगीथः 
+
+
+AFR TEN geur iruk rer apr kaken देयस्य कै 4 
+
+
+
+## Page 831
+
+per aat 
+
+
+SN 
+ज्या ENE कस्का ५५ 
+7 SATS FNS y 
+
+
+i रिनःरेळ वर शस्य। इज्यामररे नः rot इलिं।किके!कूतान: KOKES t 
+ks TAR अते। नए वा भा न भ स्पा भिभ A: 
+
+
+उभा वसमत इमा 'जादिव्यः अनव 
+
+
+frå आवरण अङ्‌ er AJRA 
+वी नष अरस पासी. मंपरीत i 
+
+
+SEL på (चा 
+q णाय qas ala 
+
+
+वरांच।श्वाविषुच/जापं। चिस।हि! R य॑शासः।स ge: q 
+
+
+DEE ie ताधिरिति ।ङुष्ी जन्य यतिमः । बाण ATA 
+pe TERE AERAR यश te सो।वो।नर्मखान।आश्वव 
+
+
+व | by Soy Nis Mg AL un jg det to sds: | åå 
+
+
+k 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+a 29:52 ns लमाण RE mss ae 
+
+
+T S i rå w Å | ; DNF 
+| ऑ P RoT lN प्रायसे केतनेदेतूनुंज्ञामा aAA TRATATA ' | 
+
+
+
+
+## Page 832
+
+
+
+
+
+
+
+| og Å वैंस।वा।रविष्या ना जरसै वाइवासगसुविताय भर्यसान8०॥»ब EAE RARR å 
+PA faer nd Rag EE Fed! हिताचे पथ: 
+d aiganha Fa gazia वानिकिं'मार्‌व्याअ 
+नभजुंषिताकदा मुळीक! क vi KES J T 
+STEEN Å वे चा am FPYFJAMEN आयी g A 
+णह कि कयी णाज्यछं।यद!स्तातारं।मिघाससि।स कना Lu å 
+दृऽदभ।स्वाः्यु+अ बत्ता अनिधन a राडयाअवीदुग्यानिपित््यापुज्ञानॅन a 
+अवीयाश्वग्र।च्‌ ES तीन सान 
+समसस्‍्व। दाः amga gau = iez] | 
+aa IYA! चनाडवाज 3याताअर। दास NAREN ||. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+ददि 
+RER 937 FKV) मिच जिद 
+वियग) नशस र दय! यथव ग्राणः सरगम OVN 
+पशुभन। KS यवत aagana fi ARGIEI सीइचतिं x ~ 
+GREAT gad arken gt ; 
+` उवाचमेःवर्रुणःन्ञेधिरायाविःस घानामो अध्चया' विद्वान! : (५४४ | 
+| | 
+
+
+
+
+
+
+
+
+## Page 833
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MARAYA MER द्या पि an HPA 
+राभषट्‌3 विधानाभण ण॥चंके। एतं।दिवि। ERA 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+eden भवासि 
+
+
+j 
+; ! 
+
+
+
+
+
+
+
+
+
+
+
+## Page 834
+
+
+
+
+
+
+
+
+
+JnR: aAa iz] Ei am 
+Aam NGATA gi ET UEL EN IIE E A e T MGE 
+येस्वामावर्रणाजनांगा/अजल gas कु aonga था र्शु ध्यु वी वर्र णा। 
+'या्रिद्य।मतिं।वसिष्ठ। मी SVein or MESTE 
+Fonda år sn TA अगेन अनीरकवररणस्या मंसि।स 
+| tdi dj । मा।वरष/इशरयानिनीयाव! आ।य 
+BE हावावर NT नाचोभायव!सस य! मच्य'जधियचपोस्नुःभिं 
+न प्रई ईश्वयावं दैः gin På FRI 26 ।जाजथातःनःर्षि। 
+चकारासुश्जपॉभमे हन स्तातारं।वि Je यातासा धावें:सन 
+।याचाउषसः का्यानिचो।सर्या TARANIN अरुर्क। घुरा। वित/ 
+| | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hd >] | å 
+
+
+X 
+
+Å 
+
+i 
+
+| f | 
+
+"FE 
+H 
+
+yf 
+
+
+
+## Page 835
+
+सब 
+
+
+| 
+| 
+| 
+| 
+
+
+माना amga स शराजगम।! ग्टदंत्ते।य [आपिभनि्यं वरूण 
+NWFUFUU वामा मसत थश्षिनयुज्ञेमायींचा 
+
+
+ra 
+
+
+वरू थंघवा eg स किति i an 
+अ Pil A Jgn o ek प 
+VHE TÅ HSE GNYSY GU टी. 
+
+
+| ES ler KE सम घ्रतिर्भश्‍पाजगमाशुचे < 
+।जविद्व्‌।जरिचारं। शयत Kazia देओञनेजभिराहे मनु 
+चरांमसिअचित्ती'यच्‌! तव घर्म्ययोषिम।मा।नः।तस्मांत। एनेस | 
+
+
+Å ANG 
+
+
+र Hø IR: 
+ळू. å ist å £ क्र.” 
+ssid irda i PPO IRIS 
+
+
+_ CC:0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+yn 
+
+
+aqin ति।आनं॑दाशविं|सि।मं।शु चिःपा तुवा sara 
+
+
+| | å शानासगये।द्‌ चते T på sn 
+
+
+| 
+? 
+
+
+
+## Page 836
+
+| | ar नश्रमैसोभिक्षैमाणारलाम्‌स तिभिः! «radar स्यम gaga AAI 
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+| 
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TARGA TG ये! मरा agn पेय Å | 
+वंजधीवायानिःयुतंशस श्वत सवा FARFAR ISR f 
+
+
+| 
+
+| 
+
+| 
+
+| kd TIIRA नाथ Å ।वि। 
+
+| de Fan शिन sE 
+a 
+
+## Page 837
+
+
+
+a 
+n 
+g 
+
+
+
+
+
+
+
+दिव सखुः।ऽना EE | 
+AM FEAR यूइति) NT: rn सर्च । 
+ATYNT JEET IE ER 
+
+
+न ea अर सूइभिः। वीरम पुतंनासासच्यु अर्वच: 
+IS mon इवान ति$भिमवसिछाः। वामःयेतभस 
+कुचे Froan FRÅ SF, ।रुचासंभपुरादेवाःञनवद्या 
+i JANN | 
+
+
+
+
+
+
+| 
+
+
+de 
+
+å 
+
+l ven i 
+| 
+
+N 
+
+y | ` 
+
+å | | 
+
+
+
+
+
+
+
+
+
+## Page 838
+
+
+
+
+
+
+ki 
+
+
+i al Ven ev ars 
+* । 5 hss) rd 
+
+
+MIRAFRA चितायाजवासय लाइन सं।संर्यण।उ शंच्ोदूता। न। | 
+यागापामास RE l चूर्वीनि IRAY: तिः Få 7 | 
+pe å gadur fi p Ke al PT | 
+uggan sAN 3 ås ।तर्छः yr | 
+रसुऽञअप॒त्यानि।चङ्गणयाव॑चा सरः त्त नव या व॑त्। ओ a यानत नर न 
+सादी den ren A Ta ताज sakik FT 
+बर्दिधआाइदे।नि5 युचाना।निःयुत:स्पार्हःवीरा ३ Louk याद 
+अर्वाकार दाहि।वा। भं3 भत्ता ध्वम जुयी'ज थं'मीणानावि FIG 
+Fara arsen सहस्र इं देवा यू डति। विश्वक 
+जनिम थातं।स5विदनोनि:अर्वीकू। पाते। नरा। प्रति$ KARA on 
+
+
+$ 
+Pr 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+ut i | 
+vr 
+(4 
+
+
+A v 
+
+
+## Page 839
+
+
+चनषेध hale l jg agga 'सदस्र। तानि5यू्त | विश्व३वारउपाइ तिं। ते 
+Dee i म आओ भा । द्व्‌) दिया एर्वऽष्‌ भासा PFG GITT 
+ह IFF FA EN धञपग्रिय nai så 
+संधशचीभिप्ाायानिंधयासिदार्श्वा YES å यागति।इस्टयेदु | 
+
+
+å Fu Gs NAA JJ नि।|वीरं।ग : sa aa 
+नास dar वि नासभशजयेः नवर क नाग dk 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rn riaa TÅ STA FERAUT kE irs AN 
+
+
+
+
+
+- .... aAa ॥ 
+| 
+
+
+विसस्य चचेभउपाइति! हयव विदथ E GRUE G UC Lakos Et he LERS ge 
+Po च भाशा जारकृवृतःनरःति।गीःऽनिमविभ्रःत् 7 | 
+
+
+— yaği ERARI सुजा सजा i व्ष 
+(रन मसी यरे त मा Fir 
+ताय E IE A | 
+
+
+gne अनेन ॥९५॥ å 
+| इमो सम मऽस॒चिं।उ a OE EEA 
+
+
+
+
+
+
+## Page 840
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'सीमनसाय।यातानाजियांहि 
+नाये'अस्मानर UVA भिशव रत्तीय।वाजि AIA 
+
+
+LUNT भसा।संऽडश्वः। आ ŻAR ल | 
+qi ean an । युवोभस चा अभि) JET 
+IRRIA gen engen वा आस्य! म न्मनः। | 
+
+
+
+## Page 841
+
+FYR 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| वाजोहवीमि।या।वाज। स्य।उशते। eta नसी इ में ।शवसाना।हि। s 
+$T RMA ENRAMA यवसस्य। R RNR el 
+AA gras ra taa | 
+
+
+
+
+
+E KUERE REIG] याइ नीइति iski pi वपाः | 
+| | 
+
+
+å Ne Tin Miri 
+end Ne gå Se 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+की जल सकी जी की कक 
+
+
+
+
+
+rever एच णात 
+
+
+
+## Page 842
+
+मानो € TAK al 
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+AG 
+Å 
+
+
+॥पन्पे०्६' 
+
+
+
+
+
+द्वा eta 
+
+
+वनता गि ना! 
+oY 
+
+
+; 3 जवस्यय। ता 
+i ।विपन्य वः 
+ग्नीड़। साजा।गत। अस्मे 
+sJA FG यदवा! अश्ष्वःच त 
+ mEuR adsense zasd 
+o- mmja aam aaa तो इव  दु:६ स 
+डःविद्दासरक्षस्विनी ज्मा गार नोक gel pa Ea य 
+
+
+al आरंएणोधू्ति; mgm Ao 
+
+
+faste JE ÄI तरितस्य zdita 
+mgA gaada a 
+"अग्नानमः रट मर व आ! pIE: !। 
+।ड्स्याविप्रांस से बा | 
+ER mg ॥१9७॥॥ ३२ 
+
+## Page 843
+
+Ta ea ERMAR 
+ग्नीइतिं। तरमा EFTA 
+सल्चिभ्वंतासपूर्यवः| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+अक... 
+
+
+गजी TALIG Sr: 
+ERI ` मधर्वंतःईभ्यभदध 
+विसा स्यानभसर॑ EGG i 
+
+
+AnA AA leker agada 
+ang जानम्‌ Eh Aaah FÅ 
+
+(ne rd ng si SER 
+
+| (जा JA RT son ge! 
+
+LEEGI गायिषावरच अस नदीनोगसरस्वतीइनमहय।सु N - 
+
+
+
+
+## Page 844
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DER 
+
+
+ja 
+
+Bl 
+
+r SA 
+
+som 
+
+TAR 
+
+kg y 
+
+ye q A 
+
+Ed 
+
+| > 
+tg 
+
+Lan 
+
+y 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+## Page 845
+
+
+
+
+
+उन PSN Ry | 
+Ki 
+
+
+ee | 
+AP 
+Å | 
+
+
+E E> 
+
+
+EN 
+pas 
+
+bo 
+
+= 
+
+7 
+
+nna iin i r, 
+
+
+
+
+
+
+
+
+
+
+
+rag 
+
+
+ga FR: vs AR चूर ; 
+EEIE EI नागम डइव! भद ङणवच!स 
+en 'चेतति।वा मिनीउव ती। शुणाना/अम paaa वानार्‍चाचसिधः `` 
+निञ्येतः यज चु ।सु'दानबण्सरख ते। हवाम वासर । 
+
+= मे ते घू तः यु ते / ने के चु वित बः Np (स्तन! 
+
+।विश्विऽद्शसः। भश्च मरि ्रऽ नां।इची। २७॥ यज दिव नऽ स दे ने एथिव्या नर॑ः 
+T EEES IKE Kik Uns aliak ks नाडा an 
+FUN HR Af ड हृ स्परतिन यहे ma PUTE | म 
+
+## Page 846
+
+जनागाभयनन॒भदाता। पराशवतंमविताऽइव तऽद MER: å I 
+शेव जळण प E BERRAR D | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Å AY 
+
+
+
+
+
+
+
+Sy 
+EE 
+
+
+are 
+
+
+EE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 847
+
+२900५००५०८ ERT TNF AETA RYE: ae Fe PS PG 
+
+
+राम 
+HLR 
+
+Pl 
+
+m ET 
+fs 
+
+
+
+
+
+
+
+
+
+
+3 på है 
+z % 
+sner nn RENTENE 
+> am am es A. 
+Ee > 
+£: - 
+E 
+3. . 
+Eae 
+HES 
+
+
+
+
+
+
+
+
+बुक तस्यारजासः जा नःयानिसद्चु घ्र छः रट्स्पत्ति?विशवऽवांरभयः। A | 
+| रायःसुःवीर्थस्याता दाच A annii: 
+नरके SIRA AH EN । चासः जुम्द्तासःघृ जाः। शिक adya 
+es FEUI Jarai ragna 
+Fed सट ITF दय वतस घःस्कीन भैत ना रूप FÅ! 
+enn Afar शर्चिशतऽ aanta हिरेण्य5 वाशी Poa 
+उ ऽआंवृशः। वस्वः JRR PTs क रि्चा।देवीड्‌ 
+are faa ae वृ E B महिऽला। दक्षाय्यीय।दक्षत। सूखा 
+| NTS णि।सुशतरासःगा धा।इय। वा। त्रल्न णे पते! स॒ः ढ क्ति य. 
+ARRATERA ER aN दिच्यस्थे।ईशाथइ तिंउन्च पार्थिवस्य .. 
+
+
+
+## Page 848
+
+अपिष्टथियोतिणत पुरे चीशेकमोल्ण अस्तमगेबन षुमरतं 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+å så p 
+4 
+8 
+
+F 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 849
+
+
+
+
+
+T y पुतना न न्न z प राणा RR hd x 7१९११२९४१८ ४ Sale 
+Po ३24 | Å VA odd < (i नं RS ५५०७ ७४०४ 2४७७५ - Absit स 
+$ s ; E ? i F > 
+
+
+~ 
+
+
+Ei i 
+
+
+ett Ul) adei: 
+
+
+Ne | RAAR Annan RNAI 
+| स्‌।द्धिषि'यऽद्विंतवारुतञं नि 
+
+| WMJ NNS लाहा Gi end सापपाथ 
+माते माता! सामान वा चाजाए: rare उर अधा े्य वः 
+33 RE घयांभमंहतेः मानान/साधामावान। AF: 
+Fa त : qanat ref शान 'सीअवसे' 
+i Ege zı ES le NN FIF # तञ 
+
+छ! मायाः। आशव. IMARAT R 
+| 2 DIARIA msn GE SEA hd 
+
+
+
+
+
+
+
+
+
+22% 56204: 2236 % 62% 5300 et 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 850
+
+
+
+få 
+
+'तिाविद्नास्मसीदति।एुथिआभविष्णाद तिंदेव।खोपरमस्यं HAGE ENG 
+| यमानशनाजातादे FRA a ना R i Å | 
+ål Deo भी रुभिव्या!उरावतीइक्षीराऽवनी। घेन॒भवीइविधिनऽ 
+SSE ER की pe 4 ES ke यन्य शरादसीइत्तिदिः 
+TM पृथिवी! z ॥म॒यूरेवे gå चकथःइति 
+
+कंज्ञन FJALAR LIL 'मायाशजन्नथ।नरा। 
+ganay RR इत i 9904 ere 
+
+
+ko | nae: es å रानइया मनी 
+à IR $कमा।त व कू Sil वास्तामी विदर्थेवृ।विष्छिदति। la GLE] 
+
+
+'वस्यावस्वंभना२३॥॥पर gripe eneren 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| g 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+।पीतिंइच।अस्य!वक्षि he WIA 
+
+
+
+
+
+
+
+## Page 851
+
+
+
+SEN 
+
+
+
+
+
+॥प०च०द går KG a अंश जुट त॑ना रुषभाय पः; | 
+
+
+aeiia ra n ani ri यि्तेबसेकीर्येचियय पोतः | 
+
+
+ड/वर्षदाताविक्ाइलिं। आसः जामि।तत|मिमषसाशिपिःविष्टा हव्ये ga d 
+EG र RAIA य गाया sagaen | 
+'संचाचा।मर्नसा।य एता नी आऽविवांसातःलंविछिइति।सुः्मिगविश्वरञन्या | 
+Skga यावुःमतिं। दा: कि स्य र| अश्वेत वर्य य 
+
+ई 'णृथिवी।एष ket 'चकमा शततः rd TRE Ki TFF 
+लिभर स a शूथिवी ien dd 
+PEA QAAR NRI शिव सु5ज a च।त/अद्य।शिपिडविष्ट। a 
+å genene ak RE aagana R शम 3 
+
+
+| शय 
+Raae वाभायनाववसाशिषफेविाजस्मिमावपाअस्मता | 
+वका न EFP dn ui ngon | 
+
+
+RAIN च॑। प्र।युदास्यातिंड अम्राभयाग एच! rale Ikie AKARE K Ae ie À 
+`! भीजाषंचीनोसचःजावः'टुषभगशे द ओर्षंधीनो "याभ्य l 
+
+
+स्याज्गंत गम gA ASN लर aq ट 
+i | स्लरी ।खवश्भरवति। ति mAAR 
+| | विदुः वर्यः प्रत्तिशुः margaid सत नकाय नविश्वोनिु | 
+
+चूना नि।त रढु॥ तिस्नग्या व॑। 39 न मतरथकार्शंसःछपऽशेवनासममर्ध्दुः | 
+A EAGER E EAE EEK E न्याय स्वराज ER a अर्तृरंतवूः | 
+अज्ञाषव! qs FP रष्टर्यसंत अस्म fiata ausnqdsegsna - 
+सःरेततःऽचा॥ बभनी नी स नतजासानर्गवःवस्ठषच'तेतमा। | 
+-Agaras men NYÅ+ Ka आागायवादिव/ पृत्रा य।मी कुर्ष! स (ने: युयपावः | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection - 
+
+
+## Page 852
+
+
+
+
+
+
+
+
+
+
+
+
+RRN Q 
+| ॥ पंथ्रप०9 
+
+
+
+
+
+
+
+
+
+
+
+Bev यर्म/जषंधी ना! गव! ठु णाति अर्यत।पर्जन्यपुरुषी णी EG 
+आस्याह्विमजुदो मर्धम वडतमेइळाीनः सेः यत्ते करव॥०णसं वेत्सरं। शशया 
+Taan sr भवाचपर्जन्य॑$सिच्वितों। ग्र। "झवु 
+| BAS | Fon श्'सरसीइति।शयनिं।ग MG 
+| «ni MPIANA शनम 
+
+
+' कुष्याऽवंतः मादि जाऽ गचाया।जरखली क; म्य 
+KEEGI TÅ aN aa aaia दा 
+aug ad stygg BERE ae रितिन।वा बी यल। 
+
+शिक्षमाणशसर्वी। rued 
+
+
+MAA T szą) 
+Fats aa यतसुः्वा्ः नारि अपू$सु॥३४ MAZA: 
+
+
+
+
+
+
+
+
+— ste > ft 
+
+
+## Page 853
+
+
+
+
+
+
+
+
+
+
+
+दह 
+
+
+| अमःमांयुगएवपप्‌श्चिएकधहरिनेध एक समस नामोबरिजतगविशरुपा/पुरु/आ वा चे। | 
+
+
+
+
+
+
+
+
+grat hi णासंभअति3राने। NYE 
+
+| जहा ह डूबीणब्‌*व!भाह्मशा Fs en Få 
+| कृण्वतः पृरिवृत्सरी ज BRATTERE JER 
+
+[zas GENK नर नाप्रामिनेतिएंते।सेकत्सरे।भारपि आ5गंत्ता 
+H ; = på LUFT AGNFLA 
+eg । ददतः श नानिसहख$सावे। तिर्‌ ते। जाय ७: 
+| ajad maas Urda नि।ओष 
+Så FAA gen ass tå सभि।अर्घ। तप) ययरवु 
+
+
+Teama aaa a घर च॑क्षसे देव धच जनाब कि NR 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+ngu | 
+
+## Page 854
+
+
+
+Py DY, 
+
+
+
+
+
+000 
+/ 
+a 
+
+
+ai | KE AER: Er 
+
+
+Huang प 
+
+
+
+
+
+T ai sed af: स्थ | 
+
+
+
+
+
+
+
+
+
+स्यथौ।न। जतैभयर्न एक उ 
+
+
+lag amga बुत अं तभञ्चनारंभृणि। तम॑सि। प्र 
+सामावर्चर्यंवंदिव da un 
+
+
+
+
+
+: 
+
+
+| हणाउतातक्षतीसर्यपर्यंतेन्यगय 
+| भिः युयंभ्ञश्मद्न्मःभिञतपूः। 
+å aS muža dag 
+४हिनोशिमिधयौर्मा) 
+CORBE ALAA i प 
+
+## Page 855
+
+EAR कदाचित्त। अभिडरार्सति रय man em 
+
+ras नि/आपं5इ व का शिना से 5 गे नीता॥ å 
+वृ क्ता।ये। पाक्‌; शंसं। वि$ 
+
+
+
+
+
+
+En विध्य 
+Å syd 
+ar भृतिः के eiga ] 
+
+
+
+
+
+
+fo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 856
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+स(देवग आसीमोघ्‌। याद्वा ना जपि अञ्ने। किं i ENE 
+OT तानि FR 'अय/मरीयायदि।/यातुः्घानं।ज दि 
+'सेतपीपुरेषस्याअधौस saa ॥वियूयाशयभधमा मे थे। anda 
+
+
+3 
+
+
+
+
+
+
+
+
+
+- CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+## Page 857
+
+
+
+når avden दै स 
+
+
+
+
+
+
+Ar EG za sanaaa * 
+qani: enn 
+
+
+| 
+å 
+Í 
+
+
+dg aqismaaqggtr Raa R aar RØRRa : 
+WAAR नास्तयःरचादना एतानिसः KE Je | 
+१६२ प्र;भसःअजखु!त तिर्धपुथिवी)अधः अस्त! 
+WWA दे चाभयः दिवादि कतत । चानक्तास5 जाने! चिकत pt ' 
+gr AI Bi NYE: amet NFT .७ 
+न्‌ l ना + | 
+| på RRE ESSE सिती। a 4 
+
+
+
+
+
+
+i 
+
+
+१ पृन्पृं9।आद्‌ं0७ायःमा।जयाशुंग्यावं चान इतिंजादे यः वारक्षा। शि स्मि ति। आही 
+An वाताहत महतावधेनीविश्वस्यार्जती ज धमः पदी या a aaa a 
+; vg lad IN नना नदन ।अवीसा।पदीष्ट'यारयांणःचत।रक्षसंःउप्‌ 
+ब pe a ।सेविनट्टन्‌)वृयेःये। FA 
+Thu वा।रि पं रहिन अरम ॥अश्यार्न। ji रात 
+| उन क थि।भोक्तावाअर्थपाक्ताच/अधुरा मशीन भि हि'रक्षसं। 
+Ita ।पृतृयृति।श्वभ्यनिवःइः RER dia भ्याशिशीने 
+कि भ्यगव्ध। रन सुजंत। (शुर HAs på पया दू नो। जभ: 
+| रार ॥हेविःऽभ्‌ की. कट Edet (GLE SKE af 
+यने पात्ाइयाभिंदब!सतः।एति। रक्षसः ताक 
+| 
+| 
+
+
+
+
+
+## Page 858
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+veta ma स्प इन स्तोना षण सता सुने सु उक्था यर 
+å आम; क+यालुं।सु प्ी्यां उतारऽयातेइष दाइवा् मुणारश्तइंदर मा ASAE 
+'अजभिगनुर्भ्यातुःमा व॑तो।अपीउछतु। मिथुनाश्या।कि मी दिनाएथिवी। AE 
+'चाव।अंच्स:। rn च्यात! pe "क्ल ang भाने।उता।खि 
+| यी माय नांगविःग्रीवासः मर रदेवाअश्दंसुशमातिह शन। री उ तः वरतं 
+PR RGT daa daang]: 
+KRAAI TEMAJ अन्य Riaad: EE के स्लिणे। रब ग 
+UNA वनन FG 34 nA 
+Img T 
+
+
+dad 
+
+med a$ । अदा auf 
+i A * | 
+mA din faat ५ ।जनानाउया मस्च।यु 
+
+
+## Page 859
+
+
+महे।चन।सोअड्डव जना शुल्कायादेयो। ने। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection - 
+
+
+
+
+
+
+
+
+
+## Page 860
+
+
+
+॥चन्चे० | i ना तोयावज्िःवध नाशताय॑। शतुः घुमा aaar 
+pen | ; AT ZAA en era jan राधस å 
+
+JF HKA TE GF MALRA अलेर्षि(यष्मराखनः्क चः 
+hart IIAM I. Folk चे" वृवाचु। यःपृरःद्रशया 
+| या sl å यया rå TAFT 
+
+
+हसलिण॑।अश्वांस af | भम्‌ः nad mIRE AA 
+Tgm ni pr TÅ sæ Å 
+॥११॥ यदू! वदवस एनं 
+
+याशातः g 
+
+
+ज वार्तस्यापूर्णि ना वह ला कु चे, 
+क Va IK निव अ BAR जराव 
+भाद सेऽर्थाता।सं ऽधिगमृघऽवाथुरुऽ वसुः विऽईतं्युन्‌रि mn ven 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 861
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reisa hagu अर॑णा:$इबा नानि k SEK aE EA !अम 
+Rafa अनाशवंधअुन नम्वर TRUT 
+
+| age लागवडी FAAR Ea [अस्माकी 
+
+सरव jaggu tanas र | आव 
+
+
+[उव ।मघानो जसा जवूवाआ घेति, व श्नि! fen 
+
+सी जप थी को net Ka बासयतशाइला नर FER! 
+| : ।'अथीम्ममजघायादिविमड्द्सःशेचनाद!अधिञयाग्वः re 
+mang लाल रॅडयप्सोमदिस्फरतंग!जा राश 
+rå Aga mme ना वाजय मालारसामस्यागस्क्यास दा 
+चन अहागिरा/शणि।रूगानासवने वा जु कु घी कई शॉनि।न। याचिषत १३२ 
+
+
+
+
+
+
+
+
+
+
+## Page 862
+
+
+
+
+| 
+| 
+| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| ५ हि | DE 
+
+
+
+
+
+
+
+
+॥ STONE 7 RRC in कळवळला i S T टान EDDIE EET 
+BORE de १ 7 i ? EGGENE क = 5 oe ge est oat reim mes eo 
+£ PRETAN N p aa g = = 3 ees 
+
+
+
+
+
+
+
+ ॥प०प७७॥ मदेन इषिते। मद्‌ उच 
+
+| veg i p> पुर डवे ren 
+| TAR Gu जा। याहि। I 
+TFasfqasmen Ne Ki 
+` जहर ब 2१ केशि HS ४ mg S भः 
+"रः ! = मं सभविवध 
+
+å fog स Ei कन्न en ks 
+3 षे ऑयमपएकेः जास्चा दस. 394: iag: A: Ti 
+स a गृमच!दवं'न!प रिवनेति।सःपरं a qà Sp 
+| र्नाीचर/अधे। हिता।यव एंड्राथव्य 
+
+
+
+
+
+
+
+
+
+## Page 863
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+८८ 
+
+
+
+
+
+
+
+
+
+भा 
+
+
+
+
+
+।ममखा।सरे। उवर) 
+
+
+HK 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 864
+
+
+
+
+
+| समा मध्ये दिने। दिवः ÅR शर्वरे। व सेठ ति। आ। खैमाताभ रत्सच। खु हि 
+ERSE Ei च्चासःमृधानोनिंदितःअश्वःयःपथी।परभुः्याभमघ 
+मेध्यः्जततिथि॥९५॥जा।य चल्ज श्वनि। येन॑ च्‌ऽ वतः अव्वयौ।/अ हें रथे। LENI 
+तावामस्या वसुनः चिके तति! AN MEIIGNAN PEN ee IFE FE 
+चाहिरण्ययाएय:।पिश्यांनिअभि। असच सो भ॑गा।जा5 सेगस्यीखनक्षः रथ 
+घोऊायागिभअ saa am haud 
+उक्षणंशद्श।मख् SINATRIA: न ee | Å 
+
+'द्रशो जननः २ अवऽरंबंमा णःअप्श्वची।नारी। Gram 
+कं age sj सासि ति at सिः 
+
+द्र! 
+
+
+
+
+
+
+
+
+
+
+बररिम तिरः भि धूतःसुतः अश्च अव्यः वारे परि5* पूल) 
+
+
+å 
+१ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+sn ES 
+(reteset vena 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 865
+
+
+
+
+
+
+
+| ११०प०७। -जश्व।नानिर्तनरीषुतेतिभ्यवय थागाभिः rå जकमी sida ला अस्मिन धऽ 
+gr Re एवासाम$पामएकः इदः Garnier pes PRÅY: क 
+3 AF enst Sk FKA चस जञपःस्पुण्वेतासु: रद १७॥जाभिःमत AAR | 
+मशानाजानमगयेते! झभिःत्सरॉता घेचः A! 
+agana काशीस AG ua da Å : 
+पअसि/।पृरुनि:रछाशक्षीरे।मध्यत/आरशीर्तद्क्षा। मदि शत्य 
+EA स॒तासं^श काः आऽ शिरं।या चंते॥ ३४ ताचा जिर रोका 
+सोमी अ्जीणीहि रिरे क ERNA anaing सःःनास | 
+तिमता स्ताना।स्याव!त्ाः वतः मधान।्रवररतिहरिः्वः श्र ak | 
+FFO चनाशस्यमानेभअगोंशआरियआ0चिकेतानागायत।गीयमांनमाभ्माईडापीयुद्य > Eu `. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+| 
+
+
+nA 
+५ 
+
+ii | 
+Å $f 4 / 
+å Å å A | 
+i, A, र; 
+¢ x 
+
+å å ~ | 
+
+k: ५ SA 
+p j + 5 
+
+i Si tat हे ४५३४० २२2 न्य ) 2 2322 234 ७७ 3 hii i 3 A Pg sd DEA 
+
+## Page 866
+
+
+mre im mm v 
+A uaa AR EL EA का aia य ५७७७४ 5 CE अ s š R ५५४ ana aai j ४८७४६ ES GATE ७4002 o 2. आए 
+र ह SG Aaa AMEN i 
+åa 
+~ \ 
+
+p * 
+
+$ | ; * ? 3 
+
+री 
+
+4 i Å 
+
+/] 
+
+7 
+
+
+Amrdan RaRa naa | वयमा | 
+कर्ण्या ।ज्रचे।न/घाई।अन्यच।/आ।पपनाव॑ स Ekia, = F 
+
+स्ताम। बिके Juda JANNA य ed जारचि। स 
+AIMERA sen पभ युवध्मानि lg 835 
+
+मं।साये। करत । आरे स्न ञ्ज ॥मार्साता0२७०वि सादि'ञ॒स्य्‌।वी 
+हे ee तिका जात (तासियाक NE nag $ 
+| maan सा Ma Targa 
+Ajad aR A pa, lE धगे।में ते) पन्थेभपन्याइनासाताराभाथे 
+लयाय नान da ता वहत भचारा asus 
+AF Å Ra आ।रराहरीर नि/ भर ल्लश्य मा शग्मा। व क्षतृ/स Fristad 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 867
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+t Í ` ह å F | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+Ye PS någe सोमांगञा। MR senn मां।आ। था ans] pe eR 
+
+
+१६७ ahami खृत्तः। च।या (मुहराधसनुम्णायाइंद्र कारिणाऱधंतः। 
+Qan gl IF क्या बाल वानि।सःट्धिर।शवसि॥२७॥एवः इत! एप जि 
+fjas i 'सुनाल जगत. बण [त्‌ त IFF! न !युरू। ES 
+
+
+इूतभमरानामहीभिं।शर्ची निभ AT bt AFR YU 
+
+## Page 868
+
+z ।मघार्न।एषः। एतानि) चकारइंद। विश्वा यअ ene दावा! f 
+Eaa ue kk व/वितायेअर्वतियइन / वस स भहि। वे डा २३॥ 
+| ता!विप्रंणअर्वचईमि a Is aa शता ee qati 3 
+až AJN As मड NY: 9959 श्रः d 
+ante ।गात्तावानिनं।य॥। ऋते। बित। गा। E kaki A k ॥७॥ l 
+
+
+
+
+
+
+HET 
+
+
+| 
+
+
+
+
+
+ज apr Faren fasen मे ध्ये्म तिथि! gas 
+AAN PEE, अ वारिंअयु्तादर्दत/अश्ट( पर] 
+
+सायेरति।पयठर्थीमाकीइति।रण॑स्पानध्या म॒निःखुनाय मर्मंहे॥९७॥ यि 
+
+'सिनंनमह्वीन'रंट्रागा5मेत mAn CERERI arma | 
+
+aandag Hu वये। मा। El aa GS aR | 
+sfam p agaga m तारय प्रु | 
+
+mMAFH FR: RECERCA FJUYA! Po 
+fat: Sang D pl ।अस्वामहिमा। रण) set 
+EEG ध्वेरारंडी सेई के वनिनः हवामहे इड थ्‌ 
+
+
+| Sen Fs तातये।इ दे 
+,न॑स्पसातये॥र्स्ाइड। म E A पप्रथव!शवभररस्स्याअराचयतत! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 869
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 र 
+
+
+H 
+Å 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+o aariaa 
+
+
+| 9090) AITARI RR: 
+| av) सं'अखरनारुद्राभग्ण्ण AN GÅ GTV जुडे 
+वावि Haasa 
+
+
+AVA EN यव॑।अन।स्तु 
+
+- $ re pe UEL EAS eng Ya 
+
+
+## Page 870
+
+AE NA षत चड रष्णितेःशवः।सथ्। समस्य आर तन 
+Nrgs FK KNR नःय त! ला।रयि ens EE 
+सिर्सासन।शग्घिस्तामायापत्य)शण्पि।नशअस्यायव! हे आवियाधिर्याइर!. 
+| eh eds Joe å परंशभाआवंधस्व:नराक वन 
+FA DR गणी! FAG: सामा नीं! भगुणतभ्ञीसं 
+aggid aha कः हे gueta 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gi सैई-चीनास कभ । | 
+राजवारा. l मंदे!सुतस्या विष्णं वि |. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| इंरसुन्व॒तगकचर्षरति। खुबत/आ।गमउवार्पडति य! मधु मय्‌; तमाशगिरभस्तामांसम 
+
+
+
+
+
+
+
+
+
+| Ruan gene asfaqaaasåd राका | 
+
+## Page 871
+
+` । वयसरयीःऽइव। dt ARNAN KIR EMEY ZICE 
+RJARIIJ IZL JALERAN gana 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| = FA Fan HEGE AKG BEER re | Ta qia 
+चिगसभलनभमघश्वन) इद गिवृणः विनशन? शृण धि।हव निड! बह्तीभ्य१ डने? थ 
+चिऽभ्यःअस्फुरःनिः माथिनःनिःपर्यतस्य। गाभआञ्ञनिःञ 
+Vig Job N उरवि।सर्य॥ निभसी मं।इंद्रिय me Aasia रिक्षात! gaa: IA 
+
+सच्‌ ए MARIE Kan FRA पाकेऽस्थामा। णम 
+enga दिविःधावमान।रेहिर्त भि।पाकऽस्यामा'सुऽ्घ॒राकृ 
+
+
+® 
+
+
+
+
+
+
+
+
+
+
+
+
+å på 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| "६९ 
+
+
+## Page 872
+
+
+f 
+| | उ वोभ्यरमियोगईदुसम बुष a 
+
+
+
+
+
+| geo स्यभ्माजर्यीताराय åa harv KJE lars 
+
+
+नाल भ्यंश्जात्मापित ER FE: ।सुरीयंइल। रो हिंतस्प।१ 
+: TAMARA JÁRN य च्‌! द्‌। भा कू। जा पां का उ कु कर डू 
+ERRE Akin EAk Shs SOELS KS a पना [rd 
+|शमि!श्यार्वके, कपे. र दसा द्यस'स चाकण्वा स ता! बऽ निः स्तोमं ऽ वाहसः ENES] 
+FØR आा'गहि!यर्थागारःज्ञपा।कृते।दु्ष्यन्ए जायलाच ES ; a 
+| क gaal Mo IRINE: br द्याय i 
+
+दास CEES im 
+
+
+सा nga gda | | A 
+| ERKL ix | Re ed EEG AIET SEG | 
+merana a चंतायविश्येची य Å ।आन॑ंद।उप$खुतिं।प्रीमावर्शीरू 09 ` 
+
+
+å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+k 
+
+
+
+
+## Page 873
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+selge l 
+र्णः अभिऽच n eak Ea ekee å FG FY e CaL दानः 
+ARAARA Yuen 
+
+
+| 
+
+| 
+
+| ण।थेनवः क पिबोजश्वी।र२थी। सुरू 
+रेवा गो$मांचाइव/इंट्रात]स खाश्वात्र$ भाजा! परसा जस aama 
+
+| न्द नाअवःयाने. आ।गहि!पिवेसाम)वर्शनोमयमिभ्घमान मघल 
+
+ÅS Fo RE e E EtG E-S ie ले।से में इंड पिषांसति 
+SEEN fond आज लगाना IIRA 
+
+Hud EE 
+
+
+EE st Få सिते। स्य ना 
+errea Rena ay | 
+
+
+| ng NA an तिनमउ क्तिए भि man 
+
+
+
+
+
+
+
+
+
+
+## Page 874
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ae 
+pa ie हरीरतिएंट्रोअपरस वृक्षत॒/ MINL 
+
+
+
+
+
+å 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+Pro j PT =] T ~ कशुन NTE १५७१५. कर फुण्रपइ ea EE काळ å godt ७ ३ be 
+छकरा कग RTP Egner का 7 कए PRR per Rt Å å ESN s ५ 
+Jed 4 à f 
+Re ji Å i z 
+४ ¢ å TR X 
+Å « हर 59 
+; i K 
+
+
+ngen महे।यज्यायापुरु।वर्सो।सशशक्राशिक्ष। पृरुऽ तम जिया सयाद चन 
+१9 Wa: on zq! AS मिल ags 
+ke E AAA Hår वण ! år q 
+FAHY बसाइ gne पर्यागावं। य॒रवसँ। ` 
+| Fa आवया rTFG HET HYGGE MYGG 
+å å ma: qaaa कुरुंगस्ये।दि a J 
+| å MA यस्याति ae घाञअमन्यदि।चीशिशसाता नि काण्वस्य॑ वान्नि 
+
+## Page 875
+
+' | नव्रियऽमेचे। मिद्य।मिशषष्टिसदर्सा अचौ A sa saag 
+NRK eg वोमि।अभिःयिले।मरर AA 
+ie ॥ इत्तिपंच मा शके सञ्चमा ध्याय:॥ आओ रृष्णार्ष 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ngon | 
+
+
+ve 
+Mts 
+bs 
+| `| 
+
+
+
+
+
+| १३० ३ू शस्‌ इहऽ ईव! यदासती। अरुणअप्सुभजर्शिख्बितयवि। भा नुं। विश्वर्धा ज 
+| TG FAEN सुती जण aaa Taraa 9 ` 
+WANAJUA NONIN ER भयर्थाश्ा 
+| SAD न॥ईतय NSE UN ECUK ESR 
+| ।वामऽसार्तमागडूषर्थता। दभः पतीइ तिं। गं सौ रा। दा फन ar 
+| ud आबा च Map बाज नेत met yan ee fa bg] 
+स्तामीउर्प। इवत! दय। श्येने भिं।जाशइनिं: यात मअश्चिना तिः 
+परष । द्विः विश्वानि राचना॥जीना अस्ना परिऽदी्यथः।उ त। नः MAN 
+gan es aquam A aana: Ms iye 
+सुःवीरसृःरथोर्‌यि॥ वो छू। अश्वः N वृ mgA 
+
+
+## Page 876
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+IR 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection - 
+
+
+
+
+
+
+
+
+
+
+n994s meer rasket Ro JA i: Je Ma E qafi 
+_ )७१९॥ वाजिनीःवस्शमघर्वतवईभ्यः-चासःभर्थ छर्दिनय årgang l 
+maia शतो मान्य AU उ अरम HAAA 
+
+agim aaa a A maA 
+वतसर णर SNE LJ a GNR å | 
+तामनीषिणनवाघलऽभिमअुश्विना।-ा 7 TA es Rea aI 
+UG सुन वा हुवृते। अश्विना।जरमा का = Ege 
+तमः य॒वार्थ्यी मघा स ना।यशदावा।मर्धन ।इविं।आ5 Ra: Fl 
+| ns वं जम्विना 7 मवाजिनीवसूइसिंवाजिनीऽवसपश्व।वाका 
+
+
+| 
+| 
+
+
+
+
+
+
+## Page 877
+
+
+f 
+hei 
+ji 
+
+
+| faar) AEE बर्षथः। र aa स्यगवि्चिवासमुद्र। मदित धनरा/णयुव्‌ ।कण्वी 
+Eis ।जरपिऽरित्तायाहम्ये।ऽरश्ववरउतीः दशा rn nmmAdfas 
+Aaa RE e Sha दु बाय था 
+| EUR EE GE K E AS k SA KIKE शि आर ।अश्चिना॥५॥य उती 
+aalay AA LRE 
+
+_ तिरषणवसःजर्तभवा aa a d: 
+
+
+Eear lE: AE Ten हि ण्य 
+ah faorez न नन्या प हू जिताए 
+तैउपाडूमो] ag HAULA kane Ta पूर्वी: जश्न तो] 
+Adami 
+
+
+
+
+
+
+
+NAT syr ERU 
+तेन॑नोबाजिनो बस्‌ 
+
+
+
+
+
+amga 
+i | 
+
+
+। 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+
+
+## Page 878
+
+
+
+EE Taaa, 
+अस रयाय 
+ks वार 
+Fa 
+
+
+| 
+
+
+थ॑शा।गर्वे।वर्रुत। पीर्वरीभइ MEJNA RAIN EFN GE: ugu | 
+
+
+i 
+|: 9 0 गौ ॥ 
+Å ») Å \ 
+ig 
+å 
+
+
+gadaa ` | 
+
+
+xi 
+S 
+Je 
+
+
+e eo E ३.7६ ०५४८५ ५६७३ 00. म 
+
+
+nggen ØM gås åa dem sm gta på ।वर्यगवदूंतु पर्णिन वाय 
+ADEN राजन DE tsa mganga FIF STM बाधते! 
+| ANG Jama standen sn यू वे! रण जा २६ 
+FAR वषण वेस तान पे क्ते।इपषा।रयि। ता। भे yaa | 
+madi in वेक १शतोउट्टौनोद | 
+TARAM AANRAAI: रताजथ5पंदाभरतानिध 
+UDE AJ RA: ee ॥एना।पथागाताथेनासइमे ये GE PÅ 
+fe JA नाईल सरि MEA त्तर नात्य fer | 
+| 
+| 
+
+
+
+
+
+
+
+सा पर्जन्यः GS ।स्तामि:। ud मा 
+
+## Page 879
+
+यवाभरंता वद्य: BG SES TE यतअर्श्नतार्तामें।य्‌ ॥२॥ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+seen tn चुच॒ताआय॑ थं! सं। अस्व मुन्यवे। विश॑। विश्वांध न मंता रु टयः å is 
+PU यदस्य 
+मइवाशेदेसीरति॥९।वि)चिव!दुत्रस्यदाच॑चः वजे णा शह्तः E णा। शि 
+'दृष्णि्नारमाः जभि।प्राना नु म॒। विषा। । यीतर्यः। जगनि ag TRY 
+\गहासचीमउचत्मना भ यत शा ~ धीतयः! कण्वां-्तस्य॑ चिक पी 
+नेशीम हि।र्‌यिं। m iaai साअ g: 
+चा os rs य।ञज्ञनि॥१०।अ्‌ह्‌। ga मरन्मेना। गिः 
+भामि।कुष्वःवत्‌ यनद श्ष्मइस्‌। दचे।य!ला इड ना सुस्त बुत यः। 
+याचा वुखइः। ru वर्धस्व! सःस्वृत:यता अस्या म न्युः'अर्ध्व नी ANE! 
+mim FAU katik जेरयच!निसव्णारूरा चर्णसि'वज्र'जघंयाद्‌ 
+
+
+A 
+| 
+| 
+3 
+; | tar 3 
+I uge ` f 
+70 चि I 
+i 2 
+å | 
+a p 
+नि Er på VI 
+
+PR RA EA . 
+
+9 de टी शर 
+
+Sf: Sar ऱ्य a Cd Ar ERS! ४29 
+24६45: RIN 72925 E E R 
+
+
+
+## Page 880
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+EREET dr ETE E O RA EN å मड फलाका OG OTE 
+Mn, OG 3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+॥पन्पं०<।। स्येचि। दषा ean । इडर जर्जसा। ना Fa क्षाणि maea ह 
+१७9२ |विव्यवचाशमयः॥३१॥अ न 'अपःख सुऽ यमाना तानि 
+| dqa Qag an भुस ।समीचीइनिंसंऽईची।सऽ 
+ak å 3 सकन gag: 
+ममाइचाउग्रा FSF ea इटापश्नय:घतावुहताजाञारार (एना! 
+Erfaren åa ps sms गर्मी जर्चकिर ग? परिधी इव 
+य।१२॥ खाइ व! शवसः da कण्वाउक्‍्थेना FJquAUGAREdIua 
+रसइंडर। मऽनीतिसउता मः शस्तिम अद्रिव यज्ञ। वितंतसार्य्य। जान BECA 
+मृही।र्‌ष। परंन दषि।गोऽर्मतीउत। घ्रऽ ञ।खु$वीयशउ त! YANG 
+यवाइंड।नाइंषीवु।आजर्न ke sd GN तलिये। 
+
+
+“जय 
+
+
+स्रः 
+
+
+
+
+
+
+
+
+
+
+## Page 881
+
+
+
+
+
+
+
+
+पाक*चैक्षसं।यया[ंड्र। म्र्ड्यांशिगन्‌ 0३3) य यग लविषी मर 
+
+
+H 
+
+i 
+/ 
+
+3 
+
+
+क नाझपारःजञर्जसा तेलाह विद्य॑ती/ विश उप बुवते! AAN 
+EG भिमउप्‌ऽद्धरे।गिरीणा। सं E 'चानदीनोंधियाविभजजाय 
+UAAIGYLIIASF स्वास! 
+
+
+aa TJAHARAAI य कसर र्‌ः mand RMA 
+सभरंट्ातामर्ति। विश्व वर्ध लि यों स्व उत्ताइति। शाविक् हे प्ण्ये। an 
+eagan मतिउताज््ण्या वयात 
+Ts Tal जतक्ष्माजीवसा अभि।कण्वॉ। जनेषताजापँ। न। 
+| घःव तो।यतीम इंद्र व्ननउवती। मतिगइड उक्था सुद्र वासिं 
+
+
+श्येति।यर्त S RRA 
+
+
+å | | f 
+H 
+| 
+१ 
+| 
+} 
+| 
+Å 
+Å 
+$ 
+| 
+i 
+
+NR 
+
+
+| 
+
+## Page 882
+
+| 
+å = 
+i 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+५३ | | 
+
+
+
+
+
+ha PAARL EEA us ANERIAN: Fi gagina 
+| १७४॥ aii Ni El ga à PINAZA Fe 
+सार्व: नराउत्तारंगाशायणाडनति।मत्त्वाचि hg शान E å 
+qha rase साम पा Hine 
+
+
+
+
+
+
+
+
+
+
+
+
+
+atamam FK UFAUIFINAs 
+'यःभशनाव 3 ESS थिथीमधोगघःतस्य।पिष्य॒ Je 
+KEERI h bi नी नि्ध।णीत!मर्यः इंड सनिव्युभर्उनंयो झवी 
+त्वाधुरुःखुत्त। 5स्चुता।ह्रीडति।सामःप Fn ua VEE d 
+FER aaqlenmetann न सहस््रादशी | 
+जोन ददुभपूज्ञायासाग्नीडवा AIRE RERNI ANIJ AIRRA ॥४॥ | 
+| 
+
+
+å 
+
+
+amaaan ag मर्रु तः विश अर्धारत!वि पर्वते | i 
+चु।राजथायवाअंग चवि षीऽयृवुःया मा शुभ i र uraaq * 
+उच ।वायुऽभिः। PATH: का कम तर, ध चिर चि 
+मर EG maaa hone यासी याति यायुऽभिशनियत्‌!यार्माय। 
+
+## Page 883
+
+FAR GE dqaFs å णे। महे। शष्पा थेमिरे॥१८॥ ea पडळ, E 
+उतयीयुआन्‌। n arem TAMAANIT! 
+Kl aq यार्मेभिः। ता ।अधिस्नुनौ।दिवः सज भ सा 
+
+
+ang TA Tear मिस gd: बाप | 
+च्या | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RAAN EEE त्‌। ह वं॥नी 
+| MESTE ES aa GAAR व: दिवश सुम्न्‌ऽ 
+
+
+
+
+
+
+
+
+कं pr EI + 
+
+EE > ER 820302. 8 राज कक > EL z Dr - TS 7 
+E RE E E EE E SE SOE EA A TET E E ESRA क * ७02०0... ka 02272 आर. 
+
+Å ene ``: 7 मतिश TMS SENKET ET mm vamos 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+i PRR i PS 
+
+
+` गृयेहिछासुशानवी। 
+
+
+NY Feen जा।दु।नःउ प Fare रुग उच्यु्ञणःदेभीउत kS तसः मर्दे।आआन रयि! Aas 
+MNS Tg: zgi यस यी मरुतः दिवे अधि 
+
+## Page 884
+
+| ।मंदघाइंडःमिभएवाचतनचित!एषा।सुम्नाभिक्षतामर्त्याजदा 
+याना, भि न वशे शीति ध्यम le fe få एती 
+GE: pa तं।उत्ताउदतिस्वा IF रि 
+AT: नाची rd å PA daga 
+स्याचीम हि।उमाःउडति वः सब्दानबः LÄR een aq न! काण्व 
+FAM ENG TFF: tasa ENEI ITIR i 
+PRIMARE IRANA ERSE Taara aag 
+ERAGI मंहत्ती।अपःशय। quis! PE: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+£ GRE eden Aal 
+gl oe ea 
+Pr E S- 
+` 
+
+
+
+
+
+
+
+
+
+— 
+
+## Page 885
+
+
+
+p= 
+
+
+MILIJA इड्‌ दन$ द्यी YA: 
+वेश शिप्री।शीर्च KS en | EE al 
+उशनायच्‌।वराऽवर्तः र Aalen en वकद द! भिया।आ 
+8 णिऽनिमदेरवासःउरयी ka C Li ie एषा! 
+ती/रथेंभश्टि pi तिरिहित ed Gå 
+ऽवति।यृय॒।नि$ नरका SU HET i 
+e Me नाईके fa area पी joj यत्‌ ड अ Fl 
+GU gå ER TM t 
+४स्तुष।हिर॑ण्य5 वा शी भि en hs 
+
+
+कनूनंकधाप्रेभे 
+
+
+
+
+
+| UG uegafareåiqås aa gar kc kie KLAE o G ie ALAE ARYA j 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+४इवायथवभमिरीणार्‍या Til 
+
+
+स्ऱ्यीस।वजत्री vel 
+
+
+> $ RR 2 
+i å अ å l ko- a 7n DSS 
+meme यी NSA R IRON 
+
+
+
+
+
+
+
+
+
+
+
+## Page 886
+
+
+
+| pe तेभानृश्चिवितं स्थिगे ; 
+ajen page anda | | 
+ngage) 'तायाववत्याचत्रः आना चिसानि। Frå | नासा म नाप्यते 
+NIE) | ; चितानि न बीन [वदंता अंतरिक्षणापर्तत चातर | 
+d ।जग्नि feit पूठ्य।छ LTE 390 et ren 2६७॥ 37 anfa TA 
+तिनिं/अश्विना। गर्॑ त।युवं दा हिरण्यव नीति हिर॑ण्यं le dd 
+साम्य।मधाजा। aS यातते।अखिना। रथेंन। रूय$खचा।भज्ञीदतिं | 
+
+
+gen, वीइतिं। गेमीरऽच्तसा।जायातोनकेघः smerten 
+As 
+
+
+stør अश्विना। rd Kva सुतं।आ।न NÅR 
+q Rr) smarte STAN JAN स्या GA 
+mn tel Teaser ।सारमंऽचीतंय।स्वा 
+
+
+Rs FAN थद्वाचि्।रि।वा। GAR मुर ! 
+| andaa 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teater 2-७० - 
+
+
+## Page 887
+
+
+
+
+
+
+
+
+
+maamaai Amma उपीइमो'स5स्तु ति।म मी दिव विचा रो च: 
+zage नः गेतास्वःविद्ाथीभभवंप्सःभ्रचेनसारतासे भि स्वन 
+'किजन्यापरिा'ज्ञासंताञस्मत! 
+
+
+gag Ho 
+गी5भिभवृत्स।अवीरचत।ओआ। वो। वि MERIT TÅ | 
+नाजश्िा।इत्र॑हन$ तमा। तानः भर सं। मय5चु वा जायच? वां। या पंणा। रथ 
+अर्तिश्न चवाजिनी वस्तिं 
+
+
+याजिनीऽवस्शविश्वांनिःअश्विना।यृवौध्'धी 
+
+
+ANSÅ ASUS AS ऽनिर्निज्ञा Men get | 
+वामथुःमताव य ।क विश पुरु3मु EAL उरुपस डा तैपुरु$ 
+वस्समनोतरां।रयीणो'साममे!श्विनो। मि a | 
+rmana ।जश्विना। TATE MENTIRA 
+
+
+Sl; 
+
+
+
+
+
+ek pe 
+ESN AN 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+rar senn varer generere 
+
+
+लक्ापराबति gg Amni अता लए निर्णिताय्येनामोतनखिना।.._| | 
+
+
+
+
+
+
+## Page 888
+
+
+
+
+
+
+
+
+
+
+
+
+
+॥च०प*८॥ बत मा। नी नक nn r Paa व॒त्स जवी द॑ 
+99१ ।यचासस्मासह्‌ ed Bi aT लाया As 
+| 'जश्विनायकंतयुवयभवासम्नायातुस्वृवचावसुभयाला दाचे नेभपुतीइतिं 
+नुप वं'रिशादसाउमेनस्तारमी उरुः सू ऊत नः सुश्रियः चरा।इमा। द्‌ स न 
+
+यायाचा दिश्वाभिःउ saga ang GET _. | 
+णो AR As KAH FR FT Pans å FE आनग ` | 
+न्यूर्ति धीतिऽ sg rava mn LG å i 
+| dyst आव लाता भिं। नः अवती नरा॥ | 
+menn भिः नरा नुस दस्युः mA रू ल्य। चने GITT STØY 
+
+
+| याभिं!वशं दश बजे र्‍या 
+| snerqd nar Anal सुऽ द क्तय गिरः वर्धे तुः मश्चिना। 
+
+
+Neh 
+
+
+
+
+
+| treng 
+
+
+| moyga et RA आविशसे ति।यहा परः ES 
+स्य पत्म मिःजञवीक नीरे RENIA! FÅ FA ज्र 
+स'ग्राञसेमेभयड वोरव 3 छर्दिधयुयु तं।या।अरांचय/यत/अंनरिक्षे। यत! 
+a चमा dd es वा ANA 
+
+
+
+
+
+'नाविम्रांसवप्रिःमैमश्रभणवारवा कार्य ताजयावा।घर्म:। अश्विन 
+मिनापरिसिज्यत्े। यसाम मः मा GÅ EAN वाजिनी रि 
+
+
+
+## Page 889
+
+
+
+
+
+
+| ।चिकेन थभयवध्ञपऽसृभ्थच।वनस्पंतो।य चाओषधीव।वरुशद्सया' रू 
+
+| Aad gr sage FU EF 
+ya: ig GAAR र: Y AR TSV: 
+* | ål KV Et चिकेत वामया जा सा में। ke pale समें। घर्मा 
+
+
+Qot å क 
+‘ee GE 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+| O aardig 
+
+
+॥प०पु००। qaad imma घुःवंतनि) aaa GAR 
+3० नभभनःचच्यवीरतायचे FO UG IR aR E a GEAN bez aagi 
+णीमिभजखिनागयतावो। कृक्षीवॉनउतायदे। विश्व EAk A E ELAY E 
+त॑माभ ad एथीं। यवा diaaa g aaa a aa 
+॥%५॥यातडर्देःयो उता न परः| पा। भरत Uk KIR उत न॒ kaer hå 
+यतनयायायानेयव।इंदेणै।सःर an myaqagadal 
+
+ås FY MEAT EN] ल aug Fet Fs 
+
+| शचातिष्ठ॑थः यचा जया जान्विनीअरंदुवयावार्जभसातयायता GA न 
+रज सह । तति STR usTÅ (जतला वना NFI 
+वां।हिता।इमासामांस/अधि।वुर्व शे। यंदी इम। FRA जर्थीय व! नास ne | 
+
+
+Kr 
+eo 
+at 
+I 
+K 9९४ 
+Å Ard 
+å "ह 
+
+## Page 890
+
+På PAS: 
+i RS 
+y EEN 
+SER ४ ४0006 i मड NIES m 
+js w 
+र; 
+i 
+} 
+
+
+| 
+i 
+H 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+oe 
+
+
+
+
+
+कु 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 891
+
+ELSA Tmien 'तिनौनूनाविऽमदायी भःचे स उर्दि वत्साय यछते। 
+१३२० भात्स। दि लि घा देव्या साके। वा ची आहं 'जञश्विनोंगवि'आवः। दे Arm 
+åa hes KE FERR ya 'प्रादिवि! रन ते। मदिः भ्र। å 
+जसउदहेप्त।आनु पकू। भ्रमरा! तश्यवाउषःगयासिं।मान 
+AIF आह TÅ अश्विनेध रथ; वर्ति ras यत्‌! 
+7 अंशच गावः! नादः emne qaad प्र।देयुउ्य॑त॑ग 
+| dmg सेाध्रानर$स Fin nasty तसा 
+. वचनं|घधीमि/अखिलना।पितु:येोना नि$सीर्दथ।य सुम्न 
+
+NALS: झनि।यद।वा।अदः शेचने।दिवः। यत्तया! 
+| samer endr aan यव वा। यज्ञ मर्मवासंमिमि å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+ene > av 3480: re SAMEN des ove > ee क = >>> == “>>. य्य रका खाज्या 
+
+
+Daga. | * 
+geGol groaseaffasetaig दानामा व इति अश्विनो) आशुः हेष॑ंसा।त्या ना 
+i Maen | SAE Fs NM SMAA: माल आप्य 
+| azi प्राथज्ञाभझसरे!संतिसरयःतायततस्यीजध्वर hs ससार 
+
+
+
+## Page 892
+
+PREKU E GER kE मथु यवे। 'यवप्राक।स्कःवूँ 
+मिनी व pleki ga m jarahat (अन॑विल॒र्व å ङ्‌ नर्थ 
+।अच!वा।स्वृ Rs य ०३७ खे अग्न। त्‌ऽ पाभ जसि 
+| q "आ मर्खैप' जाखी mo AISA T ल 
+अग्ने'अर्रती!जंतिबिच!संत'जह यसं मर्तस्या रिया । ना उपी वे mas 
+
+| मंत क्रायोतनखिना | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+f 
+
+
+।मायागतायव!अंनरिक्षे daga AA NERA a ri 
+| Fi Nb a reiret ay gre maa Å 
+
+| 
+| 
+
+
+f 
+
+
+
+
+
+विप्रै विप्रास न वसि दे वे। मर्तीस2उ त॑ ॥हवामरे जाते! वत्स 
+
+## Page 893
+
+MAINE रमात।यिव।सचऊर्ठा चीज या।गिरा। परऽ 
+स5्य्उ.।असिविश/विश्वॉ/अन। प्र:भु। सम वऽ hen 4 
+| INRA bs हे।वाजेष।चित्र$ ITS 
+अभ्रा सना भचास किस्वा/चा saga 
+Jå नंग।आ।यजस्व।छ।।इतिपंचमाण केज मोध्यायः। | 
+
+
+
+
+
+5 
+
+
+Ros %3% 6.9 37 3 
+
+gs TREERE AREN ५ 
+केळ RON 
+7 - 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+बी 5 ले! शिनाम।म anta सा | 
+
+
+VEN | Ai 
+
+
+
+
+
+
+
+
+
+
+
+E _CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection Te å 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 894
+
+GIS der 
+
+
+Sr य इंदर साम; वी विष्टेति यिन! | 
+यावे gr त्‌! Å Aa रवभ प्क वियातस्य 
+
+
+
+
+
+
+
+
+
+
+
+ngn 
+
+
+PENG 
+bd 
+
+
+
+
+
+
+
+
+
+lagala ty å å hå 
+E 
+स नाथ दिः | 
+er me आग | 
+rn निर्जगसोने।ओषनि।|अरिनि | m 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 895
+
+
+
+
+
+ot råte पयत | 
+
+
+ल्या 
+Fo आय 
+
+
+EN ec 
+मे।रटे।विक्ठवि!यः मि 
+न उभिः यतया! शक 
+
+उभिः।यत्‌!वाएअसि सुन्वतः दृध 
+
+
+
+
+
+कनां | 9984! 
+nr satan 
+
+
+।ते।ऋत्वियऽवतीची 
+TN भि य ge प्र 
+
+
+
+
+
+NG 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 896
+
+22 तः == z = EE मं 
+5 दक NE nom === 
+
+
+2:92: ७४-23 == oN ee ar i “ये 
+
+
+मरीरेस्मभ्रगीतम/ पूर्वीरुतप्ररौसतय:॥ | N 
+
+
+
+
+
+
+
+
+जमानस्य BS gm गायत ।रण्यसि।सं।ई ॥देवेः å ।अवेसे इ 
+भणी i Ik Star: he 5० 
+
+
+कप ve विर ge | 
+द हतर EN Fora net) ` 
+मा। हवनः मि भिन ।स3ओजसे॥न!य्‌।डि 
+।न्‌\अतरि गमा KUA ERR ओ. 
+।यवइट्‌! तना अ t ADE [हरी 
+
+
+namiz) गवेसा।वेज्ििन! 
+र यया! ला 
+
+
+।प्रा।विऽच्‌ः 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 897
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+श्वाधुवनानि! dere Biter पयि 
+
+va [अधारय:!०॥ रसा! ते। इंड! सूर 
+'जामि! = (Reg 
+AE [यर ds galt 
+k rer 
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+## Page 898
+
+
+
+
+
+
+
+
+
+
+> 
+pran ब ANS RRR ES 3 - 
+NS ss 
+
+
+
+
+
+| 
+mat | 
+
+
+| सना 
+ag 
+
+
+
+
+
+2 ! pr 
+a । धरति, 
+रान अस्य! å AROG ससुत 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 899
+
+
+
+भः dy å amt ANS tArm Radir tafa mta | 
+k J EE ) न्नी el ANATA i nii 
+
+| बि [नर (अया| 
+_धियाय-उच्य ieee पि । यः।उच्यते। पुत | 
+vi ब मिन ।श्रुताबिषःऽचि Fe gs | 
+
+गा गेतारा। यहा नमन ८ हू or br | 
+मिञ! वाह! यज्ञ! इत्‌।हि! त्‌ A Rå 
+
+
+सुधारय। NTN ब त्वने।हवे।ता।स्ट्रे। उल्‌ ऽ३त। हु वे। + 
+RANNT FASE उभि:!नः! गहि।आ! तु! ग है। प। तु ET TEN 
+
+
+
+
+
+
+टि , साव 
+तस्था २ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 900
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rot तन यी यथा अ बति (यत! 2 W, 
+EG l 
+en (वि i Za m Ji | 
+भिऽऊतिऽभिः॥ Re ESN किया हा 
+SE aa [गिर सदाउद थे॥० Gr Eg suter ATA 
+पा FIJAN oe जनाव zN Bi स 
+यिन 
+
+
+
+
+
+io (वि nl ner M | 
+सोध NIA ANGST 
+
+
+भा iA | 
+
+
+५ OS SSE .... i å i 
+Resale 0 TG Mladic ह | had Lt 
+
+
+URALT 
+
+
+
+
+## Page 901
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+्यमदिनऽतेमे।यं ।ईमहि। ते ।ईंमहे। पुरुडखु ने यङ्ग ene As भिः नि! 
+पि M i Ra - ISR! Bakte NET 
+
+
+Fagan z Ei म (अ 
+| ka hå नल, ; मादा युज mA | 
+Ps me A 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+लिन! षणा ह्री Rang | | 
+
+
+POTTS ATNA 4 ; तः | 
+
+
+
+
+
+
+
+
+
+
+## Page 902
+
+
+
+rss: | 
+
+
+| net å FEN 
+Um 
+
+NÆRHET 
+
+s TEN pe 
+
+
+pe 
+
+
+
+
+
+
+
+
+
+
+
+tatiga. 
+rms ATAUR 
+
+
+EG: dyd | 
+Få UA 
+FE | 
+
+
+ग्‌ 
+NAA 
+AR ।बि।अवर्तयत्‌। चक्राण र | 
+pA Su | 
+å aid HAFAI णनि गिरः 
+
+
+ar taal 
+
+
+
+
+
+
+
+
+
+## Page 903
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+प g OR le 
+
+
+E ! नुह शहा सुतीः। स व | | 
+A f en AU ukes | Eier pi 
+
+
+me ण Ar TET pre ० हलक — === ===. &£&“ “म EE ee = 
+य Teme å å ie på ~ ERT >>. P ESN म Ct) Ug Sn ऱ्य enn eese ne -- 
+i OR कशि कता mv नळ med - - - ७ >> र. - तर ०८ 
+FEN T i 9५ $ र å 
+
+
+He 
+
+
+
+
+
+
+
+
+
+
+## Page 904
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+T MEA म १३८ हि।स्तामऽचर्धन असि उन्न E: 
+AABAA K करि हरी ! | 
+
+पाणी अपा!केनेन!नसचे(ारः रद्‌ UR JA a जय 
+भाय नमक avd आ5 स 
+
+
+Us JAS 
+l så [तदिष 
+
+
+
+
+
+
+
+
+(आ।विवासत 
+| 
+
+
+
+
+
+
+आ 
+
+
+
+
+
+
+
+
+
+
+## Page 905
+
+
+
+
+
+
+
+
+
+
+
+| fen आन pen 
+
+
+
+
+
+Edta सि॥१3 ya! 
+
+
+o] WAA बति! ga FY IHT 
+g Es जन (व re AN 
+dren EEA 
+।मारुत॥त्व। 
+Je TAG 
+
+
+| natt 
+'नाक्षिय।मिज्र/गणानि।वरूण:। (लो राः महति 
+TART: Er Er 
+
+
+[अजा HE | 
+
+
+f 
+igda WINS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 906
+
+
+
+kl 
+५ 78 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+नि! नास्या 
+दत्त, 3 
+NE NES उसा र KEKI 
+
+
+= 'ति।ज E D 
+
+
+
+
+
+qa राने चर्षणीनोइगरस्ात।नय्यागी af pee 
+
+
+
+
+
+
+
+
+
+
+## Page 907
+
+
+
+AA t 
+MED GARE KR GU 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+भिः ता गाळत 4 
+
+
+FHAs ed 
+
+
+
+
+
+
+
+
+
+
+
+
+
+खुल्ति (नाव पुरुक verken ERE pusi 
+
+
+| चु।गादुऽ Au (Fry २३॥अमा aR 
+l FELG Eos "ञञा। त्वा A लत titat 
+| णिनि | EE त्या! वय a sila a ge 
+
+
+nat Fa: At: शि 
+| नि भि pa sd INTI I FYR 
+gi Cee मान्‌।तः Lå fann y | 
+' VES जनी t 3 
+
+## Page 908
+
+| ude Å ARME Nin: जिच्चते॥ 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+l ETR 
+Sk GURIEN 
+IRITARE 
+
+
+थ्‌ 
+
+
+
+
+
+
+
+
+
+
+ईशान san (हत्नाणि।दच्रुःहना/जहि। på ।ते। 
+| tek यानाय मयात इ 
+M a यसे॥य Fd ng pe 
+य्यं।।नि। अस्मिन (KG र रा = 
+MENER MN i taza, 
+| AS | aT TS 
+2g 
+| व हिरक पथ म å SE Helten 
+| तत्युक॑समिताभगोवरुणो मिनी 
+
+
+
+
+
+
+
+
+'अंकुवा t: : | 
+
+
+
+
+## Page 909
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 FR | 
+$; f fF ४ ES | 
+ME, | 
+$ PAYS १ | 
+सांब i i å 
+£ G A 
+på र 
+E, 
+
+
+
+
+
+gadaa R भे RAIA [are भर्मदाआ।गहि। RE, 
+
+| ।पुरुः जासत ह! 
+
+| al न: 7, 
+पान! 4 
+
+
+JAREN SF ( 
+he bs (नः! ut । | 
+
+## Page 910
+
+ELK) NI I 
+yat र अग्नि Bs 
+
+
+या Mi 
+
+AFT: AR 
+
+SE नन दय दबाव अषा t 
+नति za ॥२६॥युयो 
+
+रु (अस्मदा आर्त्यास/उत अभति जिस gaa 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+## Page 911
+
+
+KV G 
+Bs: 
+
+Es”. N 
+
+i; 
+
+å च «Y क 
+ke 
+
+AA 
+
+
+
+
+
+
+| ARRA: faga भिया ne GR RAA 
+
+
+NTN 
+FATET GU Fi PRE 
+
+= यु ना हाल तम थाम EG (Gi 
+
+यु।चावसव:॥ SN VA FE ATT वक 
+
+ST I at. Ami 
+
+sets TAN G jes MAAIY A:I R tt 
+
+gar t 
+
+
+| a 
+त व MEG TAA rn द्वि! 
+
+
+3 
+
+
+
+
+
+
+
+
+
+
+
+## Page 912
+
+
+
+
+
+HA) 
+
+
+att ATEN erd ETE | 
+जिच en ratt! सात ॥ये। चित्त! GE 3 
+
+
+H n x å er FY 
+
+(सुर 
+
+E a FURE मगा! स RRRS SKE अ 
+म्‌ थ bs 
+
+
+PE 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+(खुऽअध्यरः।२९।वस्य! ATEI (रह å | 
+
+
+
+
+
+
+
+
+
+सात la 
+a” I, १ 
+रना बा a i 
+
+¢ $ 
+
+है e 
+
+y å f 
+i £ 
+
+हे hf 
+
+## Page 913
+
+
+td å 
+
+$ A 
+| i 
+
+bi 
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+
+
+ai 
+BK- 
+| 
+AS 
+Hi 
+i 
+
+
+AG ज्‌ ard (नस्य! म्निऽनेमेयरां [नाती महर | न 4 NAF i 
+| | | ER AU (स्य pA ; Si IRA 
+3 मि ण HET 
+
+
+
+
+
+
+
+
+
+
+
+[AAR 
+
+
+
+
+
+## Page 914
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ags लिना SY: 
+EN Ps (संति(सा 
+| 
+
+
+र FI D EG i साध न | 
+sH RERA सा | 
+
+sf ता EGG: सनिता/हुत|३8 
+
+(IRIRI बाय 
+
+
+॥हुव्या(बा/वेबिषत(दि 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+अब Rap (जप 
+इभिः 
+
+
+## Page 915
+
+
+Sb [राति 
+Ut AR 
+
+
+En ITERA 
+stan TET 
+कु en a [अस्यामर्त्य((ेश्या!इव(सः!धीभि: | 
+
+
+(33 ØSE RA MI 
+| RE टो BASS ti 8: er di 
+AAT FRIGG U EIGN 
+
+
+RAEAN TRR TG ST er ar दधिरे दु 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 916
+
+
+
+
+
+
+
+
+-CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| अब॑स्थिरातैनुहि 
+
+
+। पथ: enste Rq बु rar tår re madga 
+[$° [RR reer ।₹त्‌(बाजेभिःजिःयु 'महताधना AN का ret 
+FA PANME शय [सुभगा (अध्वर wt aa | 
+यि veda | : EE कर पर E कवक 
+ले! å रा नहि र ते।अरति।नि३ 
+ma 
+
+
+तरुणाय [रा अग्न 
+स | [य 
+
+
+* hå NA R 
+रा > ARAIA TRA नि>निज हव्यानि हेर, 
+
+
+
+
+
+
+I PPR 
+
+
+
+
+
+## Page 917
+
+
+
+
+å 
+
+
+| 
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NE 
+arr Gs ET याती sj 
+
+
+ai 
+
+
+3 आ ul Å ELG å हि र्व En | sih i ना म मो नन य| 
+redet a Br ल बालम felg RAAN 
+
+
+å 5 + ` d के य. s > | 
+ei + ka Å ENE « Ẹ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+EE NYA Ve 32058 ५ LINON A C MENENS S CEON i 
+Poe j 
+
+
+
+
+
+
+
+
+## Page 918
+
+
+
+
+
+
+To Fletter ruger mr! Fran 
+नो।उषसो।भ सि प्रिय: gr etg ranet त! आ!अगन्म! | 
+BGN sf aradenn naa 
+।यःउप्‌ःक्षितः IAT: नु स IR 
+
+
+Ei 
+Rart eta यो, | 
+
+
+जान कात Teis यत्र!मान॑पाच।अनै/व॒य ते व: व 
+
+
+FER SN TARA एथ्य(अरांत! मे! IN i 
+| वधूनाँ॥मंहिष्ठ।अर्य:। सत; paret. यो gs Te | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Deon ।श्यावः्रःच्चेत।भुवृत!षसु ।दियाना।पतिः॥३७।।अन। 
+गुत!मा। मयतम बान मा! ० र NERE 
+
+
+
+
+
+
+
+
+ON 
+
+
+
+
+## Page 919
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cp rettast adaga Vg |... 
+ve egga खारय यव! >] Fior AE cde | 
+I: ह a MRITA Aa (९४((अमा, 
+. 'या!व:मरुतःया ने।उत्ब्तरा/ छहव॥ यत्रो नर। दे श्विते। त॒नूघ। आत 
+
+
+SES 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+| 94 
+
+
+
+
+
+MEN | 
+
+
+## Page 920
+
+
+NN NPR | re å EE URED 
+
+
+
+
+
+
+Airaa श्रिया नरः! TRAN बा५अम3बेत 
+नल लव ॥गोभिभ बाणा ह [सो णी 
+
+` तासरबाणुजा महत नः! वऽ दृषत्‌ऽअजेयः। 
+at ERENS व्या[रषःप्रया es य EKS 
+आश्येनास॑।न।प| गथा थ ।न्‌ våg mane Se 9 
+
+
+am EEG ag! (3 ke 
+GENA en Ru [वे:(अनीकेष 
+(येषो(अण!मासःभ्रथःनामातेष (रागवता एक! इत) पुजे(वयन 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i तू nga T Teras 
+५ हि न Ge SJE at YR 
+बाजसा s; सन्या EAA नशत it 
+
+
+(रत!अस 
+| MA Fa (ह IRATI TAT 
+(यान 
+
+
+## Page 921
+
+
+का अभि!से! Ram 
+t met TI EAS 
+Bc SE ee eee TS 
+
+
+
+
+
+
+
+
+TAERA $ राणो।न'तचः 
+नजम AG ३ l 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+गायाग! $ 
+
+
+
+
+
+
+
+
+
+
+
+
+5 4 3 È 2 RR, 
+
+## Page 922
+
+ep a Å RR) PES aa o PRESTR 9 8 A 
+en RR RR ER. i 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+mA रनर 
+
+
+| 
+å | . 
+i 5: STOM 
+
+
+Ee ACENG Eu lks | | 
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+तत्‌।एषा।रा। 
+पु/य:।व्‌ 
+
+
+सांब 
+
+
+n 
+
+
+
+
+
+
+
+
+
+## Page 923
+
+
+
+
+
+
+
+
+
+
+
+
+Baer as ga रिहते।क कमेः मिथः।मर्त। वित व z 
+ru | RE (आ य TS सरा हि।बः।आचिऽ 
+
+
+बि।मरुतः। मासतस्य/न aama gen ने 
+MAMA: sa ।यानि/सिध/अवंध! [असि 
+
+
+| SMS Ea RRNA 
+vik KEN J र q MIJAT चश यी E 
+कनात न्यत झम! TY Ta ।आठंरस्य!नः। 
+
+
+A) 'पुनरिति॥४०। १॥ इतिषययाछकपरेभ्रथमाध्यायः॥ NNT 
+
+
+vier 
+Å LA 
+BA 
+Ne 
+८2४४३) 
+få 
+Is 
+Po 
+Tt 
+| 5 अ 
+id ? 
+` 
+
+
+
+
+
+क्र 
+
+
+er] 
+
+
+
+## Page 924
+
+| र श्ञो॥व॒ये!ऊेरति तो !अधू्यीस्थूर!न रत्य de 
+«Bn कर्मत।ऊतये।सः।नुः।युवउयः चक्राम! | 
+i + ® सानसि IMT TR aa PEYTON | 
+res Ti AM Ja बेब मास ES 
+
+
+न vare 
+TN ii age चोदत 
+सा! 
+
+
+ao feen: eee त (बये! 
+
+
+» 
+7 emnene rende ne tn यी Ce 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+Weu 
+
+
+| E QA 
+
+
+k 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 925
+
+
+
+
+
+
+
+
+
+कि रळ. 
+
+et et Selge EG så परीणसः! hk श्र Å | 
+minerer A समस्मिन। नवः 
+gs 5i ag ररर! पूरा। nå us AIR: | 
+
+O _सुषासखायःईदे।अत ets च seriene ` | 
+STR AUST IE स बया ।गन्यौअगश्योस्तादऽभ्यः। मधः २ Da wo | 
+` RRIA BØSE नसीम FO 
+ARE ag त! म! HU nl |. साक | 
+age ॐ 
+
+
+हद प्ानशधिय॥अस्नादेव्य4 अना।ल 
+
+
+MR हा 
+DEE s 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ane या) COUE IA EUGI ARE GSCI frk 
+राइणोषि।नदन।स!ऊहसि!आत्‌। TA GAS gå (मा 
+तै।अमासजुरयथा।मूरास। FT RNA GET सच! सुते ॥ ३॥मा 
+ते।गोरदत्र नि/अराम।राधधस: १ दमात! गृहाम हि। ह sn Gass 
+हनि! मार्न! आऽदमे॥ E या।घ!इत। इयं क 
+
+सात व्‌ å Esch TRUTT - nd 9. 
+
+
+
+
+## Page 926
+
+
+
+
+
+
+
+
+TARA ARR ITARTE | 
+| त ३॥ओइति।त्य।अङ्के(आ? रथा अद सेवेय AMGEN 
+
+
+
+
+
+PRE 
+253 ६९ BT, 
+228 १... E 3. KE KE 
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+यवु aina Ta | | 
+$ 
+
+
+
+
+
+
+RIAT HAN Å 
+देवा।नम:3भिः ।अबीदीना!काअवसे। करामहे! गतोरा। 
+
+går! रथय ऱ्यने।ईनी!अन्यतावो। लस 
+RAIMH: FAA IRIN बंधुर:। 
+
+
+AMT: t घाट 
+
+
+
+
+
+सोब | 
+१५. | 
+
+
+## Page 927
+
+
+ARENT GE 
+er पतीइति!उरखिना। ब्र। लुवीमाहि।उपौन 
+
+
+i aq TEA AK ॥येभि 0 ।मुहे।क्षत्जायाजि 
+नवथ Get ab EGI नरा! 440. auon 
+AA NAGA (2797 4: NER NTE TET आनक 
+
+पय tr रतिटृषण्णऽ बस दना SKAL OK Ce ea 
+याभिः। अङ्गि युयार्भिः (få dk tt åk ।बृक्ष।दः जा! 
+
+
+गलीभिषज्यतीयव|आ तर ६ यद! अध्रिःशाव er TU 
+| || अगी $ भि;।विपन्यबं rer Fs 
+
+
+नन FETARE भरत मा निरा।याभि)।कि 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+JR ci Ns or A RI TG 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+league नो । इटा। चिद|अ्हनो। ती। अखिना बे टैमान। उप । जे 
+Ka नम: ति PG महे।।तो। रल।हिषा। तो। उधसि।शुभः। प लादे of 
+
+## Page 928
+
+इतिरुडःवतेनी मा! a aia ae BE 
+।रुट्री।अति।रब्यव्‌॥ जी (सु प्रातरिति!रथेनाअश्िनायवा]सक्ष 
+शीइति॥$वे।पिताः ॥७॥मनःउजवसा! हणा! मड g | 
+AIRERA aa ।अस्भेरति।अ 
+
+
+| PFA Tf: यासि बाय GK en ` 3 
+हिर॑ण्य saangsaPhgs सुद! अधिकार E S १ | 
+
+
+ES 
+R 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+।आयाने। वाजिनीवसूरतिंवाजिनीऽब !विश्वो(याभानि। SFT! ee n 
+d oser at TAN RRN Has ie ue £ 
+| AEE AR राता ।रथाना!येषा।आ. 
+ऋग्मिय एकः चानिःग्रमे AN Fi ENE 
+
+
+9 AATA SHU 'खुऽद्युर्तगणऽश्रि OE | 
+Aal: ट्व्या। aipe ten tt vad Taper | pg फश | 
+बदतर] GIR aT EN ।हव्य्‌ ऽवहन अग्नि!) | ` | 
+
+
+(फुवेहितार।चर्षणीना। ते अय। a रु णे ते। RI AGNE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 929
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+——— 2220 000 kr er TE 
+
+
+
+
+
+
+
+
+चः | ज सय झपा सय JO 
+नश्यबःयज्ञस्य!साधन।गिरा उपरति gr 
+
+
+
+
+
+
+
+
+
+
+
+
+Å ETR अ | 
+गिरःःतम!यज्ञास! AG Es (य:! | o NITA 
+PESAR] EA TN: ०४४४ ।तविषीऽयब।स i 
+
+
+रयिरा ग्राअवनः Å aat NAAS GITAR 
+
+SOS Å a मनुष/बिशि॥विश्वाइत जग्निःप्रतिरक्षासि 
+
+see ANNET रा रपत ।नि!मायिनःतषुषा स 
+हद 
+
+
+।न!तस्यी मायया बन रिका ईराीत। मर्त्यः! erat 
+
+
+
+## Page 930
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+z दृह 
+
+
+
+
+
+
+
+
+।विऽअेः्बःत्वा'वस्‌ऽ विर seg: RARA A 
+Kaen PÅ Ir Mn, 
+।जातऽवेहस NEA ENG | 
+ब ता यज्लिय॑ HENTA ENER ga दूर ED (पु 
+।छहडऽ्वतेनि!बिऽहायस॥ं वत कच म श्चुः 
+हद 
+
+
+sd ; net! न्‌ A वरिऽभि।आएईति!मतः। 
+Å | EV मं'नातऽ बेरे अन Fn 
+| A एति!नेमसा।हुविंती।आभि।विधेम 7 ag 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+ve N Ranet ef Hs ES NETIA ta $हायसे।स्तोमें 
+
+
+व ॥ 595 SG > GN 5 ८ === 
+
+
+
+## Page 931
+
+
+
+
+å SERIE NAG: 
+
+| ` Au ar Meet resa aama न्नश 
+| आआनि।नाजुषा।अ ने।नि।ससि। खीनःबार्या!पुरु!वेख।रा 
+| angsten अजा वतः ee GITT 
+
+
+qA an ।राति!यविष्ठ। TENT SA: TRHA 
+| VA det budd ald (यशा: (असामा! 
+RATT NERA SAT fs er AT FET 8 Rar शिषा 
+
+
+| | | Pol AF भर ; 
+
+
+भ र्तषि।ऊइतिंत।व! adman Arae 
+
+en en ॥मेधेः I ARALAN चित्र 
+AE: ga RUTKA! 
+
+[स्ववस!नवआ।भर!!नाति।सव्ये(न!द्शिण हस्त! वर 
+
+
+
+
+
+
+
+
+
+
+
+Å art 
+
+
+
+
+
+
+। णा मि।अद्रिऽब। आस्म'कामंअरित (आमना [एण॥विश्वांनि। विश्व मे 
+
+
+MOR Å SRR. EE FESR RE FRR LS ROSIE TRC re noi te LSS ET iss Ab E VIME > & 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 932
+
+
+lamma ARARA AA ।बसारति 
+Pike EG (Go Ile (Ui ASAK EL ren हारा nii. 
+
+
+RR AGNE EDIE 
+
+
+साब | 
+wi 
+
+
+z W i हरिऽब।गोऽरंधि। १७ आत्वा गोभिः ऽइबाङ्गनागी?; | 
+
+
+
+
+
+
+
+
+| bare ।हि।अश्सि!ति।अप॑ रिश्ते दतोरति।शवेधाअम का राति vr 
+सर्षार्‍ञादषरवामहाः मह! महे! चऽ तम।रा सात मधु ऽबन्‌। 
+ovnen Gas IATA MNA श्व | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+å avadra! ॥नहि।अंगा न er ४: Í 
+aaga tS देर्‌) य।शिचत। rea 
+मधर राथ॑सा'चोद्याति। महिऽत्वना॥ उपोइति। हरांणा। पाल इस EAA 
+
+
+HI UFÅERNIKFAT aent anga eee vu 
+नदिः रायान।एबऽथ (ना भटना १9।आ। FART ह ।मद्न्छवर।सिं 
+
+
+
+## Page 933
+
+
+
+
+।अध्ययोइतिंअंधैसः। एब। हि।बीरः।स्तयेते । सराऽश्व॑घः। इं gi 
+कि त INGA! å imania EIA 
+| TG EE धन्य तेरा NE (न 
+, [य pene 
+LUMANARI Te afai aanren 
+una ne RTN (साहि apara 
+यमें॥ आर्य pe ।वि[रासपरथे (एव! qa ष्म न 
+Raa च्रणीना॥ वेथ्थहि!निःऽ babs हरत! परि+ हमभ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+कथा 5 क BUR EIK PEN SEVIS IIR NI CID TT DEN EE उ ८०6... या "४४4 
+८४१० PPA va à ESA Å 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+ह ÅTTER Si er सः END बा।आ | 
+सनिःभ्यं/आअरबह reg Sir बलिना 
+चच 
+
+
+
+## Page 934
+
+i मित्रावरुणा(सउरा SAKT AREA! 2 
+| Me द भाक 
+
+
+
+
+
+
+
+
+
+
+
+
+परिप दोऽइय।नवाूद।अबभआ। RÀ ème सन 
+
+
+fn SUGES iek i FAST sak | 
+
+
+
+
+
+
+
+fa SÅ 
+
+
+
+
+
+
+garde gåen arr UNIT (खासी 
+Tasdar FESTA IA 
+
+
+a (बलधगोग्मती।अरच। लिए 
+
+
+क्षिण बिऽअंश्वानो एतासोभिनःर्र। हि मे 
+n RASAN (यजञसोषएतर्ग्द २० | 
+
+
+टछातईनान!कह्या!क 
+इछत तन क LAE 
+
+
+Å 
+å 
+
+
+## Page 935
+
+
+ST at å 8 Å à ॥// à 
+— mm mm me vert ध्ध्य्ध्मभ्भ्ज्स्श्स्म्श्ल् E UE A ETE T ioe 734 r 
+224 r rå है 
+
+
+
+
+
+
+| 
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+arenaen IG Ei FAG ae 
+as तता dd ae पर्यायी मः | 
+
+
+
+
+
+TAN meg er SEN ।र्त्याः। Fa 
+टि omar ati हहत Rapa JAMAL T 
+amA गज RANAN! RASANA! 
+SPASA Grete. nen Rang 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 936
+
+
+
+
+
+
+
+
+
+शिति ENE TRA 
+re NRI dt 
+Bs EL दड २२। Ess pA 
+
+
+।नि। षयः 
+Å bader z 
+णी qen aa | em | ae वरुण थत्य स EG | 
+hs तदान l qapa l 
+aus साति।कर्यस्याप्वित॥ ere faser nat साब | 
+åå TISEI IRAETA IE .२१ | 
+
+
+
+
+
+FAM 
+NR fest 
+
+
+
+
+
+।यःरश्मिनी! दिविः।भं MA am SV 
+APA खुक्र/ सेठ TT 
+
+
+॥(मित्रस्याज्ञूत!(बर्रणस्य! रथ जद | 
+| पा र म दु | 
+«NF: an स्य 7 Gai 
+
+NA भ॑त:॥ रश हि। पृल्वः। जुष 
+न्‌ आ nd | le ह्‌ बि 
+
+
+स्यारावन ae NANA | बस्तोः। EN AG 3 
+ors FN या pr FS 
+ep BPIAN geeta 
+बाहर वृता।विग्रा! न विषया। palits Lil 
+ता) बारी ALNG थी ऊवे।सधउ KATE 
+
+
+
+## Page 937
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+yr Rydde EH SS ange | 
+. २० RT हक iN सर (देथणा!रषण्व णी am ` | 
+FE हवामहे! मिलान ।इष्‌ः। ITET | Å 
+erat aan ar । कतः नरा॥उपै सामान get: 
+| | य।्चराणाविदाअधिना।ज!मन्येथा। हृषण्ब्सरतिदषणएःयस युवी R | 
+। gina ARa arn TR | 
+| XART i ॥उर्प याता आनी mega सांब | 
+| हमधःबानो'सुःवी saN [मे।अस्याभतीव्याइईनासत्याशत॥रे. २२ | 
+| वा रेवेभिअद्।स-चर्ष:3तमा॥वयहिो। ह वामहे! seede दन | 
+| | et पर आने न EG BRER त्‌।वे) श्रवत नन 
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 938
+
+
+GMA UNA! कता नरा।उतो शति।भे।अस्य पर fl 
+PN: तट FU! ene: AT rs मिधाअहःः अहः 
+
+
+इप मत्या शिस्षवय|वो।यृत्ञेमि।अआऽ dad ॥सर्पर्य 
+
+यका CEE AEN Rra | 
+
+ताभ यूरत्यस्मग्यू॥अस्म (स यसत तः Asr 
+FEAR FA TONY) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+बुडुहा$रव\यज्ञ।ॐहथुगेगिरा।२८॥ 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+er | Ppi ताभि an मह ।अर्णये iy FG KS EG | 
+
+## Page 939
+
+| २२ Hainan qs annen ARAA | 
+ना।श्वेत या।घिया। 3्यावाना॥ यु श्च॥ह I! ag 
+
+
+आदाने ks अस्माके(सर्वनी(आ। 
+| न anden ig RPR å | अजन) अब आफ | 
+amtet FU gen! 
+
+
+URTER वर्स्वामहः!धथुःपक्षसा!रथे॥या(हि।. 
+द । a ARTTIRAN RLE 
+
+
+
+
+
+
+
+
+RER 
+
+
+
+
+
+
+
+
+
+| सावायोइति रान अचि a fans Toe I Le En ET 
+
+If ae ang EE agn ft ere | 
+जापशृ।गासि एधिवीकनस्मतीनउषसान' fritt TERI 
+वि FA As RAGA SIE ARAI A: 
+Gina तत RSA ETG UG EAA Gs 
+
+
+CEDIES JA पायुउ fr eg IK 
+न; HTT: सजी पंस॥ऋ चा।गिरा। मरुतः रेकी सद॑ने ष्‌ 
+स्थी महि॥३३॥अभि।बियामरुत।या वस्या हृया मित्रा जय यन।आ। बहिं। र| 
+
+
+| 
+
+
+
+
+
+
+
+
+## Page 940
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+RX 
+
+
+| सचरति 
+| बोय हुः 
+
+
+
+
+
+ETR! 
+
+
+
+
+
+
+
+| र 3! 
+Falk: 
+
+
+।अर॑शि अन्यॉऽइब॥उताऊरति।स्यगब्‌।सबिता।छुऽ मनीतय्‌ 
+
+
+: 
+
+## Page 941
+
+
+
+शास 
+
+
+fre RAR 
+Fs HA AE 
+
+
+guy! RAS q 
+guden 
+
+
+(अशिना पषनोमादीनयाथिया। 
+उह गणे॥ वि। 
+चित अतितः 
+
+
+EKSIGI 
+
+
+० ९५६० | 
+*जर्यमा!निजभवरुणः।सः्रातियः!ये!: Ñ 
+KN Faengs सण NETTET आशरः ls TG 
+
+NA: AA je SD 
+
+
+NET: सर Ti 
+RIA NIRI SLN 
+
+
+(वबम! बाजः्सातये णेत: 
+।साक्‌ ke ति AGIA AT! s े 
+(उपख्खुतीना।न।ते ENGEN 
+य भय 
+
+
+य अ वित 
+
+
+Ragnars रू, 
+
+
+४ Ne 
+
+
+नःरेवासः।अडुह।अ SE 
+
+
+
+## Page 942
+
+या ATR GRETE 
+RATTAT ge Fra ATA AAN 
+
+
+a A Agi AT S T Ya मड er TERRE म PUR 25 ce 
+å F å § (Ne Ş 
+\ 
+
+
+माआयात!मरुतः।| 
+6 re Age | 
+gagang zaag | 
+
+
+LESAN 
+
+
+aT NITER सनः fa be 
+
+
+7 ff: 
+५5४४३ 
+r EN K 
+५ 28 
+| 7 
+
+
+FFR an व कप दस तुम Gam सांब | 
+
+
+EEE oer oo 
+
+
+er 
+på 
+
+
+। प्रसक्षयं Aron Garrard gt 
+
+
+22 
+
+
+| प्रग्नुताभिजीयत धरम णुस्पयरिष्टतवैएथले \ 
+
+
+KRES ES VEN AN GE 220 28 bed & i 
+2 ke — rn ee eng ri pr 
+
+
+
+## Page 943
+
+।रेया घिया। er a 
+
+
+2 ged 2 
+
+
+IRENE 
+
+
+td । 
+sand adis पार अधिन fra पत थि छ व॑। age) | 
+| 
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| 
+
+
+i 
+| 
+
+
+Ta 
+
+
+२३ 
+
+
+EA 
+4 9 
+E j å 
+l f, på 
+a 4 
+par f 
+
+
+E 
+Y% 
+
+
+å 8 $ 
+
+Lå | 
+
+## Page 944
+
+
+Å g AAST 
+MNT 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+waaa rear RER I 
+| z ।थ्रेम।वि।द्सवृषि॥ वयतत! बः! डि मां 
+
+| ram सर ठा मध्यं å ॥वामाधथ्थांम resa 
+
+TAYAAN SHG (आ।हणीमेह।पत्न।न AL: | 
+
+| वतीन ce | 
+
+ऽसाचः।अग्तर्य्‌ 
+
+
+ता OG GLER ANTA NB GR 
+
+बर्हि sso ts au i o 
+
+i $छताः।ति! नभ गोपा NATA (Are 
+(सर्वया।विशा॥यर्था/बरॉ ति। दि वा।तथा। इत|अस व ।त व! एवां नकिं RAA 
+
+| | ERA TET 
+
+
+
+
+
+
+
+## Page 945
+
+--< jp ~ ——————— ea me 
+xa RS ES oi FER ls hen Ea åa GE 
+
+
+मेकओबिभतिंद 
+
+
+Tana मत्यै! सक्तानां (सप्ताऋछ्य॑।सप्त|द्यम्तानिं। एवा सप्तोइतिं। 
+MoE LELENE कु an AF k. rett 
+गाए [आस va Daaa: भे नाशीक fratre | 
+] ve (Få mons sog ITS नक जिघते॥ तिरपे! न. 
+।जठोषभेषजः। पथा est ea एप: वि 
+
+- रातिः धीना णिए Bs गायः वि।क्मे। यत्र ट्वार्स मर 
+
+434 reg aguan शब! det VE el 
+रिविसेऽराजा।सर्षिरासवीह तिंसर्षि आसती कि महि सामान्य 
+
+
+भेकेबिभाविहस्त 
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+i 
+å 
+| 
+vg 
+
+
+R& 
+
+
+
+
+
+
+
+
+## Page 946
+
+
+alte रोच यन॥३६॥नहि।व/अश्ति।अर्सक: देवास; न RES: |. 
+ass Heg Gen Ye! ae | 
+grat rear FN gn TIRT T å 
+
+
+Hauan: amaA दूर ने वास्‌ 
+| dan gare ar E må अश्वाय। परत 
+INTRANT Dai Le प i qramma a: 
+
+
+TIAR ira Ta! a (ते!शकः!अं 
+Flt lg STA STAN: IJITA: Cici 
+
+
+
+
+
+
+
+|| 
+| 
+Å 
+
+
+| 
+f 
+
+
+Pres rr aura आशाते रति।न।ता!बाजेंष 
+
+agar न RE g afia !ज॒थुंश्यतः। ml EN 
+
+त कुमारिणा।विम्व!आयु॥ विधत ॥उभा।हिर्ण्य$ पेशसा अणी त्रा! 
+ड्‌ phiana 
+
+
+तर्ईख्इतिहेत !के!सं।ऊधःरोमश।हुतः। TAY 
+तस र्वः!! पट नआ बल T dar HA NA |. 
+
+
+ENGE NITIR: Tyt AAA 
+
+
+WEC GIGI 
+
+
+
+
+
+
+## Page 947
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+जिया।एअस्यं।घजाब्व॑ती। गुहे असंश्वेती|दिवे*हिंवे इडा! घेचुऽ मती।उहे।या। 
+| IWATA धा RUTAIA er 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pågå * 
+
+
+er ब॑ःटेवरय|मनंसा।आदित्यानो।अनेहश्व।यर्था।न:सिनश्रतसर्य मा।बरु णः।संति( 
+> så LET: gra KOELE CICE GISK k उभरियामि 
+_ ऑनाशेच्रउसा चंस॥मश्का देव: IMER RIRAN दवा 
+
+| नोयः इदमः र्जा ।्यक्षतिःअभि। त्‌! अरयज्वनः। धवत्‌ ना थे: 
+
+| नारिष्यसि।न sang JR bolt ।२.द्वानोयइन्मनायजमान्यक्षि 3 
+FÅR मनना Gi ; नाज यो पतन पीपल bal | 
+नयाल स myra तअसेत।अत्र(सुःबीर्योउतत्यत्‌आस$ सष अ 
+ti CIE URGERE Ata दितीयोध्याय समाक्षः। Anri. न 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 948
+
+
+
+
+
+
+
+
+
+
+
+
+>> vm i ~ 
+| rigg sent स्थागाथया॥मर्रें। नि UTNE i 
+
+
+AER 
+
+
+EPer 
+
+
+AT Gs aa dett ae पति! 
+अर सार पो rs 
+
+
+[वर्षण ga rn pe दर व॒षत!द्णशि।न। 
+दर N& beg FAN 
+HARUNA ` ।सृते।उक्थे। वा! TUVA 
+पौखधा।ओआंग हि।वियं।घ।ते।अपि। A ATA EG! EEA की 
+मःपाउतानः! पित रावत अश्विन | AN SIA 
+
+
+Fa aa ks APER ।स।रभेमहि। बव 
+
+
+
+
+
+FR, 
+> N i å Ya & 
+da AERE अं 4 å ५ ESN 
+å Gade 
+ØRER REAR RRENO Je 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+## Page 949
+
+
+
+
+
+i 3 
+i Å Å i 
+N T 
+å q ० Qf o 
+
+
+ae 
+
+
+
+
+
+VM. Ise 
+
+
+mf $करखे।ऊतये॥साधै)हुण्वेते।अवैसे ॥२॥यः संःस्थे चिव! शुत5 के 
+
+
+Jaa EMAER NARAS ITARIRI RAMT | 
+
+
+PA! ni HAV MTU KLUGE ht ।सभि!गा 
+anså MR एत नास श्रय: जित अरे ईशो ने । ओज॑सा। न कि 
+SEI नालि Gara वृक्तानारात!इति।३। m ZAAR 
+
+
+| Spre FUN EN FRASA ता TINIRA या | 
+
+
+3 gal तापन्याइतापन्यःओ। दिल शेतास 
+
+
+दरपिबं।सुतानो।षिबीख3थेमवानो।उत।य स स।अय इद्‌! यः तब४ 
+।उष्‌ऽ 
+
+
+अति इहि! धन्यः ART! å IH! ER 
+qwa हि पिन ik nere) TEIST इ FU 
+| å ।व्वायछतु।मे! गिरेः E RIM ng काअध्ययेशिति।आ।लु शि 
+
+
+
+
+
+
+
+
+## Page 950
+
+
+
+[सोपीवीराय।शिमिणे( NANTF SR 
+
+
+
+
+
+at 
+
+
+ws भुव॥हिमेन।अविध्यव। TJENT k नि. बरे।अर्पा 
+ल ee ne SYNLIG 
+
+
+| देयम गायत 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+ARA ide, गो उपह धा मलाई अरा इराक SÅ 
+
+
+I SST St ion 
+
+
+
+
+
+सांब | 
+अदत veg AFTEN RTRA SSANG BTSKTN 2E 
+
+
+| 
+| 
+| 
+
+
+
+
+
+re 
+oe 
+
+
+SÅ 
+
+## Page 951
+
+l 
+| 
+
+
+अन्येलापरुइ॒तप्रियमेधस्वुवाररी ARTA: | sg 
+जेनेमि!५हरीइति।हिर॑ण्य:फेश्या।वे*ब््डो | अभि! परय॑।हिते॥ ९५१६ कये । ४१ ला (सु तर व 
+eta हु क ःवर्हिष:पधिजस्याप्ररस्रवंणेथ! kp । 
+'खरेतिला। मड Frere gd gate sr !गम्‌ः। 
+adr संबध कण्वेभिभधडारतिं।ओ। ta Ai 
+
+
+
+
+
+
+
+
+
+pes 
+
+
+sø RÅR Aa gN rå fu En 
+unga EE EA सची !वम्त्री( 
+
+
+
+
+
+RR 
+
+
+i. 7. 
+iia Ss 
+GR 
+
+
+3 सब्यः।स्‌ Gs gd ANNAB EIRAN साब j 
+
+
+FEL बूएउमित्‌ आरितः 9 यः ent नरतः! ATR 
+
+
+| 
+oma raan RN a D p बा | 
+SANLA Fi | 
+< 4 | < u al ed i 
+Å z 
+væn vere Å f 
+
+
+
+## Page 952
+
+MERETE E REE D छो 
+
+
+
+
+
+
+
+
+
+
+
+Aana gamag GARN dat शाकिन कम 
+Ra ai नकत JAINA RIN AS नस समानः 
+a रि | वारण (greet N नि मु क 
+
+
+
+
+
+
+
+
+
+
+
+
+मः महान्‌ाच FANA FRUIT श्चुतः 
+
+
+तःयरि।सेठ।मधः 9 EK a पा (दषा! 
+AAA rat 
+
+
+Få orig ne! fr: 
+| artet gr तिे।अआभीश॑बः 
+| nette TAK ÅT jo कतोषा! सोता ।सुनोवृ (ते! 
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+## Page 953
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mauza नरीर्य!आतभ्ये स्थात अब 
+|चीत माशि ENN å ølen rote Pre TN 
+|, लुमाबहेठ'वारपस्था हरयः रथयज तिर बित अयीसबना निह हन!अन्ये 
+
+
+| घो याशतक्रतिाइतिरातः्क्रतो kn अद्य!अतम (सोमं! A 
+| क तसवेना। संत शःतमा माय quda ॥९।न्‌हि!स तर निति a 
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+स्त्राअन्यस्थारण्य॑ति।य दी pe ard TANG !चित!घा!तत! 8 
+RNA NJÅ gne QAT ia सण सथ | 
+FENG ॥एव इक धू 8४: उ 
+
+
+।अधः।पश्यस्यामा!डप्‌ रुन ar ३० | 
+
+
+## Page 954
+
+
+१ 
+
+
+att 
+
+
+| me दोन Aramara gE rd 
+lgyan यय। Raana an 
+वा/वर्रनरह!सोमी।घोषेंण। य छत! णाअत्र। GAR एप ।उरा न धूनते। हक Le] 
+आत्या (कण्या इसन स! हेते याजेऽसातये।॥ rime ter EN 
+
+ds mæduense naa र my ses FAA Net) 
+'याहि।महेउ मंते। सरहसर् ssgnasmenåratag: kalte 
+Ed NUUG br ANNAR! | 
+आ।परि स्वाहा! शोम॑स्यपीतयी(३५।५उर्पशख्ुति! RAGER NNN 
+
+
+A g 
+
+
+GE 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+| च-घः 
+
+
+kn 
+
+
+
+
+
+
+
+
+आसान på ara ATRN ।याहि।पर्षतेक्य ।समुड्स्यीअधि। yy: "| t 
+J । ग्यानि!अश्चासह स AER रा he a 
+
+
+तानिचानाआयतारडी चदे बः a nære ।अश्ये पथ ॥ 
+
+## Page 955
+
+यास्ज्ञाभवातरंहसःअरुषास a naa HA 
+
+
+
+
+
+रात्रि 
+
+EKG च। तिं! वनस्य मध्याआ।१३आनिना ईंट्रेण। बरणेन। वि | 
+। ना रित्ये।रु दैः! TG ST प ॥सःजापषसे। उषसां एज FE | 
+| चतेअश्चि 'विश्चाभिः। धीभिः र वाजिना दिवा शधिव्याअडिऽभि।स॒चाऽ साब | 
+| भुवा नविशः देवे जिऽभिमएकाहशेः। इह अतउभि/ मुरुतेउ erat: २१ 
+
+
+
+
+
+| 
+
+
+| o årene tn sete i सर्यना। अव।गछत्‌।नआ। र 
+| gaten 0 न्य narr Kar राजू, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+की 
+'येथानारओाहारिडवाउईव पतभ वन इद! सुते|महिषाःर्‌ब। 
+- वि, म TALAN en stram 
+arsen Gikt A Gi (जाच गळते! naag rens 
+(न्‌ धा श्विना र्यत (चम तुत ANTE NETTER 
+| toget farens RE aana 
+9 हरे PIRATAT ARRATERA 
+
+
+
+
+
+
+
+SE y Ñ Å $ ५205 
+
+## Page 956
+
+Fu gi &:86:222822.25::::2..::..०.६..:-००--००-- o ~ dR er å EAEE 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+š maddau aaia जिन्च ते।धिय॑ रि A AHI 
+| uE SE SEKIER enst sag 
+द्‌ ते यमन यान, Ta मर! ता! अशविना!तिरःऽअन्हय | 
+| ØSE HE स्चुती। उप ॥।रश्मीनऽ{ब!यकुते गजी | 
+कारयानिायडत!*अवस्यु चो अहि FLEST: OO 
+Rora ना यात हतस्य तस I सोह 
+॥०॥३७॥अविता।अधि।सुन्दत; हक . साव | 
+इतिंरातःक्रतो॥ये।ते। Ars धरियन(विश्वा:/सेहान (धनी (उसा 
+
+
+Ks ` ज्ञाय तमश्विनाैव 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ITERAR ASALIA oe 'स्ोतारे!मधः्यन।अय! | så 
+ps ki Mire RA er n! ता!टथिय्या। ०॥ | | 
+निव em आति! ञः ity अ ।मह।छथि १० 
+श्या her एरी rauterg! Å alk AmE 
+
+## Page 957
+
+या 
+आ विथ। प्‌ (सुन्द $ 
+
+हिस्स नस हनम FE हानभउस्र/ EAA: 
+ITEE 9 VITE TETT राम सि। ० सःस्थायानो। FLAG 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+® 
+
+
+Barret वई शिषि। नक्षत्राय वा अब सि।न आविथ ० | 
+न lol md Pugne 
+
+
+
+
+
+
+
+ggu 
+ARR AYLA भिधनरंगा भाजपे i 
+तिथः i [आगते नुर rant 
+
+## Page 958
+
+
+
+| Fm «am चति IRA १।२०।१ आतर 
+बसर an) re 
+| वा!अके।अते 
+
+
+
+
+
+
+
+
+
+
+
+
+me 
+
+
+
+
+
+(अ 
+
+
+
+
+
+
+
+॥याम्या गायत्रअस्च्यते॥२१॥ रया RPR Sher 
+ग्निः EG नक्।नःउभेरतिहि।बि HAR ।नभता। 
+8 sva at सीवा | bd SAN | 
+ISYA lesa giga FX UA 
+
+
+AR KG MER 
+Rats ER me PERU RAN दूत game 
+च) 
+
+
+द्र उयथा। 
+र सा।अग्नि/चित्रिणकर्मणा।! 
+
+
+
+
+
+
+
+## Page 959
+
+
+
+
+
+
+
+
+
+
+
+
+
+याभम IRRA 
+Ja ai PTAR २शअर्नि त येरे! 
+
+
+
+
+
+| 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ggas vi KG ei तिब | | 
+ed av wema | 
+
+
+।अङ्गवते निरा [आ KAER 34 ग्या सब T R 
+
+
+
+
+
+
+
+
+
+mg: 
+
+
+38 
+
+
+niagara våg 
+
+
+## Page 960
+
+
+aaan z aa wa FR! ETNE 
+स्वः एक ENN Ar (जीप fe तेवःणा शश ३ 
+तिथुवं।सन।सहंता।दा संध।रचिं॥ 
+
+
+Fans Ek sos gr art ar gate t 
+यसानअग्निःद्वेच।सं3 प 'येज्ञियास।आ।॥सः। मरा NG RAT 
+।यः।अग्नि FG 2 | 
+
+Ao रन ।जिऽपर्य'म्‌ चातः देर्यृह ने! ते मं । अग्नि! र Ik 
+Graa faut IRAUN. सका KITA 
+
+våt | 
+
+
+
+
+
+
+
+senare Raet 
+
+
+|. संब | 
+३४ | 
+
+
+महिं।अग्नि/वर्ना3इब/ वाती इत ०! ब्याह ।अथ इंद(डूत!युजामहे।रा 
+
+
+विडारणा नरे !!स:न:। न 
+
+
+श्ति।यजस! tåre sara ert 
+
+
+va ENIRE ANI or ग्निश्भ्या हर ताया स JA i 
+l 
+
+
+ati aA TALNA . 
+
+een नीहि त तो करत कड तना 
+।एरछ्यमाना।सरिवःयते।स। चीते। न्रा!*!अभि!अर्चानभाक 
+
+Å कुवीइति एच्यमांना!सरिव ळा मी a 
+
+
+
+
+## Page 961
+
+
+
+
+ata l Greske | AAMI AART Hee | 
+Fara grå ओज ।रासस्थ!देशय॥बय(तत[अस्यासं/ अप ll 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+र य दागनीइति। जना इमे! बिए ्वयेतेतना। यिरा। अस्थाके 
+| न taa va न्यत (व्‌ न lat ब ना HEER 
+zasada: नि. vr ape उ हीनाः af घेब।यान] 
+। घाद! असचता।१ FR ते! इ ३+ मातथ्‌ IE RNN 
+ERR vaere G TA LAT 
+ve ह gatas साझा 
+सिय भेदति! वत्ती ag Nå ar fratas सत्यास 
+सिय *ओहते(आडा। ~ AfA नः बुवेती आर्ष: ५एवे।इंशग्निः 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Aaaa 
+
+
+वयंश्यानुपतेयो TALT 
+
+
+चित्‌ऽवत्‌।नवीयभमेचाद्‌ऽ वत Naaa anaana 
+ren | S aS ये।यर॑णाय pr ER i) 
+madra: गः dagen AFO PR 
+
+## Page 962
+
+| EE fy उप As HAAR au å मध्यम eter 
+ark GEM ETIG Jag LUS Å IA ag | 
+तिर NER कक मार refer sa SG HF 
+
+m aeh 
+येदीनामानि!यः 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NESI माोना।थ:।उ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+į 
+
+
+| 
+
+
+
+
+
+
+ref: || 
+
+
+
+
+## Page 963
+
+
+
+
+
+
+
+aa 
+
+
+t 
+
+
+NE fane RT योः रब पृथ्य ति!० 
+
+
+
+
+
+
+
+
+
+na 
+
+
+
+
+
+à गार salmar उश्वश्चिता। fs | 
+må IAN ren VAR FRON है (आउ | 
+न या 
+
+सुद्‌ graza FA 
+
+| ee माको IFE å यस्य।श्वेता!विऽचशषणातिस्रः हमी अधिः 
+
+षिन l i NAs तीक न | PAN जत | 
+अन॑च के।छष्णादा अनु । बृता।स af 
+
+åren !द्योएअधारयत D जस्त sara AUT गाणी 
+
+
+4 
+| 
+RS ~ 
+ki, 
+i 
+टही 
+ØDE 
+ER 
+
+## Page 964
+
+Fe å 
+2700१ 
+eng 
+द Gis 
+e a A ¢ 
+se 2-3 TG === न 
+3 
+| 
+í 
+f 
+
+
+| | | 
+. अमिमीतावरिमाणं।एथिव्या omga 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+az विश्बीाइवता | 
+रूणस्थाव्रतानि एव na a नमस्याघीर। अमर तस्य NG EN 
+निउ्वरूथ।वियेस व पाते। न: घाव! उपउस्थे (इमा थिय मा. | 
+
+## Page 965
+
+RIEC IE de रक्ष।बरुण।स।रि qa दि felg उइ्ता।तरेंमासुअत | 
+: Jo ad रु हेम यो। ग्रावाणअभ्विनाधॉनिः! Ja | 
+ऽचीतये।०। अनि (अश्विना i व IR सब vent | 
+ataud på EG) 
+विजातंउवेरन ae ।सुञ्खुति।आरोकाः3 > 'घाइत 
+
+
+aar आये यथाहु EA ET `| 
+
+
+3 
+PF 
+पर y 
+å sg 
+Md Re ... 
+” 4 59 | Pa 
+००-० er å ab FN ५2222 शिमला,” 
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 966
+
+
+ERE m ra au pesi aiana aama 
+| 39 RANAN त्ये rg EXA year 
+
+
+
+
+
+
+
+
+
+
+sta lad NREN ~ नय ।जतऽवेदसः। 
+
+
+HAUG 
+FANART 
+
+
+
+
+
+Ss Jaaa 
+da न 
+
+
+॥१३०।उ क्षर अनाय। बशाऽअंनाय।साम5 पृ Braa 
+
+
+
+
+
+
+
+
+
+
+
+
+RRS NR ee £ 
+
+
+k hs (वि er स्य NRL 
+रयि।रेहि।सहस्निणं॥अस्ने। वीर: ॥३९॥ AR FT s8A 
+san ल उत ent å 
+
+
+USETT 
+
+
+## Page 967
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+NETT घी।बफंदाअगि।न/बायति॥ पु gren 
+
+
+| ae A aANT Pan | है | 
+'मॅरितिउताजरनातबा तत GRUA : ‘a ARARA साब 
+सोने बिधत! अशनये ३9 
+
+
+
+
+
+
+
+
+
+
+
+
+एत।त्वानमंसावयहोतेः। वरेण्यक्रतोइतिवरेंव्यऽक्रतो॥अम्नोसमित्‌ऽ भि।ईमहे। 
+उतात्वागयःवत! REAR अर्न। 
+
+
+l 
+॥शोफ अन्न! 
+
+
+स्थे।गाब:ऽश्व)आराता। is gs fara धथ करने 
+parta Sek Ei Ke da z aa 
+der ! तन्वाना। भरनाअध्वर (व्हि होतारं! ईडते ३२ 
+
+
+qN 
+fF 3° 
+
+
+_„__|याशारे!पावकऽोचिष। तमिः मुडेभि।ईमहे। समत्व अगला विभाग SK SKK 
+
+
+> ES र På » e 2 r 
+AED GENE LSE i i uk क PETANTE 5 an De s 
+
+
+
+
+
+
+
+## Page 968
+
+॥गआाऊडुंत: अग्नि fn REN (नश्रृणबल।हवें। ते। 
+"्वतीजातःवेदसे असेना प्रते विशाराजाने।अ | 
+EGEREN ERR आबेपसामयीनावाजिनोहितास | 
+सिन! वाज़यामसि।२३। भ्रम tl नारक्षीसि॥ dus be 
+| Tamada इधते! मन घत! अमिरळ hd | | 
+ARALAR दि FAN Å NAN sÅY 
+
+is महे प्वन्याचाशताता अ TURG uren ` 
+| E herren विश्वा नुःचक्षस॥ त ह स्यामाडः3गहां॥३७४॥ अग्नि भंड Es | 
+
+
+
+
+
+
+उ 
+
+
+हितस्‌ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| IRAETA 
+
+
+
+
+
+
+
+
+TOs SR Dä क अडक ea e aio SACS एप" 
+द (क GPT — 
+
+
+
+## Page 969
+
+i $ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+(नारश्मिः aat सिजिप्नसेतव॒ते!सहर/ईमहे।रातर। यता न ३६ 
+|| 
+
+
+NARF! Ruset tn 
+RE ॥अग्नारते! अ का TE 
+$उक्ता । rer ।रघे।हआ3वाहू।उपजुने Nera ।साद्या 
+
+
+IRISA uek di रीहि3ये॥अ्न। क्र Vgs | 
+
+
+र मम ढत ।यूतु। ह्यत अ सव! न्‌ः।३६॥ 
+HY A vade होतारे य अनि केष STE 
+आवतिमीकेलः श्रयत. 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+rere D KEA -arrena 
+LE, Leas 
+PE SE 
+FÅ A ३ 7 
+h I « 
+i SR hå र 
+शशि K 
+|: Ek 
+å § 
+på |. 
+
+## Page 970
+
+j 
+
+
+
+
+
+TR ` श्रिय ज्ञ षाणवर्जेगिर७तमाशमाहआनि/आनु षक/ (अरे et 
+३९ | धानमा विकलेन अनबन होतार 
+| पे ğı jum केत! al PAA 
+ER n RREPA TANTAN RNEER 
+arga SN pe कऽ शोचियं।अस्मिन! 
+
+
+hE RIA शेाचिषां॥० यः! अग्नि तन्व Fi नकी [oa 
+सपि DE मा हकका तिसा ह. 
+अयअपारेतासि!जिन्वति॥उत्‌।अग्ने)श वय EN) ।भुक्रा र, तःईर्‌ते॥तव।जयो ३९ | 
+
+
+E | Aaa 
+4 f 
+$ i श aT på 
+
+
+GT JERN ८०१५०४ 
+LER 
+
+
+| 
+
+
+AE ॥ईशिषे।वार्यस्याहि राध्रस्य। FAN चतिः॥ स्तोता।स्या।तः Å r 
+।खोअग्नेमनीषिणेः। खो हिन्वति।चित्तिःभिः NAAR å! 
+
+
+
+
+
+
+
+
+
+aar ररेभ॑त कीर ee ev ॥१९॥ अग्नि: सुचि 
+$ tt mganga धीतयः i 
+गिर बधेत hind i 
+
+
+(सख्य (नयत Gees = 
+| st ode Dr re Fen णाम Tug ।वसुऽपत्ति। HAT 
+
+
+
+## Page 971
+
+| NER ॥अग्नाधूत तायाते(सभुटा isz) 
+| वासि as ॥गिरंभवाश्रास। ईरते॥४०॥युवान! बिशप ति।कि।विश्वः अद पुरु: | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+म 
+| 
+Janet | 
+
+
+
+
+
+
+
+रिता। खत सत्या।शधी Ro T 
+| gear ।ड्‌ःऽइतेक्मप्‌ | 
+| कबे॥मान/आयुशवसाइतिं।तिरा।४१॥आ। धाय। अग्नि इ धते। खुण ति।| 
+aima यी सरद ब TH ett ।शरत।श्थु:।रव| 
+| 3 ONRAT TRA. aller ॥१आबुरे।ृत्रशहा। रदे! जी 
+agga सकय We ग्र 
+
+| 
+
+
+
+
+
+
+
+| 
+नायोधिषदा।यनते।शजुर Å As 
+| 
+
+
+| | § 
+i | E 
+र å 
+
+
+|| 
+
+
+## Page 972
+
+
+
+
+
+shu त्‌!वीळयांसिबीऴ।तत्‌॥यत्‌। mensa he SY 
+: | 
+
+
+
+
+
+
+
+
+
+
+
+i EA 
+
+3 | ARNA Bose ARR | 
+| | सु — AE NAR ३ gg सातये।नाये। प्‌ तिधूर्वय॥रूज्या | 
+; | मते! परि। द्विष! अरे त) राक aan मी द त्‌ pk । जिय | 
+EER च उबेतः। Asa न FAE Gu RAR EE 
+| galgen tes tufs rea eg Ra ÅRÅSEN 
+| रुजाआःरारिणीय are FP ta RT man 
+| वाईमहिएयःते।रेवान। १| मुंध चेये॥ तस्ये नचे आ) भर । ४४॥ इमे 
+| 
+
+
+on कप 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+Se OG dan ra 
+TALT म 
+
+
+ER gn सत सर्वाय S सामिनः। वच्छ यत ।यथा।पश॥उत। त्या, 
+वयु णीसेतें।ऋ AE हयामहे॥यत्‌।खखयाःरम हर 
+praksisen E IECUR REO RE 
+गन्वास।अभन्महि। गोउराः।र्त्‌। र ३। बोधि। T भे।ना।जि 
+चेस: पते॥ उश्म सि। (त्वा! सधःस्थ्र आ ४५ य गालाची 
+
+
+
+
+
+
+
+## Page 973
+
+
+
+
+"नर्कि।येहण्पते।युधि।अभि।त्वा हम En IT 
+हि।मरे॥ मा।त्वामूराः। Aa ee A 
+"+ ॥१ह। ता'गोऽर्षरीणसागमरे।मेर्‌तृ।राधसि॥सरः गोरः। यथा।पिख्ञाया. ४१ 
+
+
+| 
+| 
+
+
+H A 
+er SØTE II TE TITER MR Fr "P p 
+ONE RNR Sr i 
+. 
+
+
+
+
+
+
+
+
+
+
+
+Ts entre कमक pes ee a naamaa mesa aa 
+
+
+ERA सचोसुते 
+
+
+
+
+
+
+| वृज्रःहा।पराऽवति।सना। magin: सेसत्ःसप|बोचत॥४६॥अपिबत/ कुडडुव। 
+| सते इंद सहस्र बाहे॥ द ॥सत्य।तदा हुब रो। ये EA अन्हव 
+| र ।ुवेणेशामि॥त्रणि। ब: मेन नो । रद? वाजस्य he म॑तः। mega | 
+भुरणा OKRE थे॥ भय क क a måle 
+गे sted य HETE ॥मा(तद! 
+'करंर!मळया[टभाचिव।हि।ताःबंत छत! गण्या add baki Te t 
+| JA! Y TERAK” 37 | 
+।मामूर। भूरिवृ॥ विमय ens gta TAN 
+
+
+थरिंबरळूळ्यासिन 
+
+
+
+## Page 974
+
+
+
+
+
+
+
+
+
+se « 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+aq: 
+R 
+
+
+
+
+
+ESEA 
+
+
+
+
+
+Ga dd oa SR cu å — 
+ee På NE Sr 
+S < i > MN PTS fi 
+हू $ 7 > 
+8 - ? ७, 
+
+
+
+
+
+
+
+ard aksen मा सख्य हन आबि! मा युन स्य gem 2 
+|| . 
+
+
+Pre Eb tr Ge Sega क नु। मया अभिंधित/। सर्वो। स 
+
+## Page 975
+
+जहा।कणाअस्मदाईपते॥एवारें।ह N असिन्वन! आवय घी इव! नि 
+ee Emha qasdiga ही ब्ल 
+भ्य ३ दर्शि थि विश्वा अ प।दिषः। प रि। बाच महि ' मथः वसे स्याही | 
+' सत्‌! आ YARN ru परॉउभते॥चा बसु: | 
+us यस्यं ते।विज्यू हिव Rraci वेर॑ति।०"वसेस्पर्हेतिरा भर, 
+
+
+॥४९॥ ` ॥ इतिषषाटकषरेत्‌तीयो GRY: ETEN  ॥श्रीकृष्ठापेणमर्त॥ ॥ 
+
+
+å Å , ५ रर , | 
+j 3 NN द å p र få 
+
+
+
+
+
+| Í 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+und इंड रान (मिह. | vi: सान। त ETEN Et | 
+!सर्चा(वै।आ! हल KEXEI 
+
+
+AMT FAE उमः य।आट्रिः। 
+
+
+क 
+
+
+ARRAN: 
+AUERIN RAA 
+
+
+
+
+
+
+## Page 976
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| हरिः३ओं॥ल्वाश्वेत pr elg ae त त et | 
+सिस्थात:हरीण[॥लाएहि am an : 
+fonua! ह (महिमा वाति fT | 
+
+एति! कारवः! र i ।यं।अयुमा/ पित्र eg 
+md | है A बत!सुःवी्यी आदित्य तः net På आयू 
+
+
+षड VGS VG +a 
+>>> >>> क GENREN कक VEVEN 
+~~ a 
+eg A E E 
+- कुछ 
++ j 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+& TÅ I 
+
+
+| | SER FEN! 
+
+
+
+
+
+
+
+
+## Page 977
+
+
+
+
+
+
+
+
+
+me Hedgren डलर विश्वः र्य ।वाजेय (अशि 
+MURIA: mar mere Å AGE !मोउ म॑ति'ब्नि॥ TEN 
+| ga शा सुर माच 3याएत। रथःय! ।यरिवस्यमहाः मह van 
+(रर्थसपअंत।विरामि। सत्रा। दशस्य।न:। मधवन्‌! काचित न धिया 
+AMATERE श्रवयतऽसंखा।बिश्वा। इद 'सः बिट्‌ जनिम! श्खूतः। 
+åa हवृते fråga æra garn 
+पुरुवसुः।पुरःऽस्थाता। Ie rea हास त्‌!अभि per | 
+| गायायिरा।महा।विउचेंतसं। रड! Rig ।यथा॥३रिररि| 
+
+
+start र age gg | | 
+नो।ससह्वो से ॥&पऽ्थत त नाअवति!अ्था!मह | 
+
+नालाय ten Mia | 
+नुषोमरुतो।श्यश्ससि। सागिरा। -= | 
+entana: FR Fs 
+
+
+HUES AAI अय | 
+e ० H tapana ITAI da क्र सहो 
+
+
+AITA प्यौ।४॥आ।सःएतु। यग ईवत (अदेवः 
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+mr | तीजाएद्रे'यथा।विता वश'अश्चयःएथुःश्रन॑सि!कानीते re ae z 
+o ४४ | ११षषि।सहस्ा xy सन।उष्योनो।विशतिं। श॒ता। स श्यावीनां। 
+ता।रशोजिउअरुषीणा eat areis MIL ऋषव 5 dar 
+| p Ta ap vg हसू अवस (कानीतस्या सु! 
+
+## Page 978
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+arenaer ददः RR है RETIA ME (6८८0 NIMFI | 
+प त 
+Sar EN, ।अश्वैभिः ही NST FARS सोव | 
+मस॒त्‌ऽ भिः RMANA RLS TIER VE | 
+as डा —— | ळू | 
+ss ।चित्रदाबने॥अरङगेःअसे! rage qi 
+AUAI RA UTIA AINETTA RA K उस्नाः॥!अ ह 
+तै।रम्‌:ऽ इषित! इपित!।ग्र।अज्म | तवे। रवात चा रय no. | 
+अस्या ना! ATNA ति!य ratt 
+
+
+ES तासि बलध at तन 
+3 शत आददे॥ ने Id TAA ER 
+Je sittet dagen nere rom 
+
+
+वरो।अख्य॥अधिर्रुक्मा।वि। नीयते॥ ae सहि।ब। महतो । अब | En TEGE 
+
+
+
+
+
+kaana a न \ 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+## Page 979
+
+
+
+LN कि io 
+RET TE < 
+— 
+
+
+| 
+aud snrantrsgadyar अघन हस EAERI 
+tuia 
+
+
+क mad 
+ko an an ननामहे!भ YUMA त 
+
+
+'विश्वऽवेद्सः। वभ 
+
+
+
+
+
+।न!यतन्‌।' 
+जीव! Hamza ॥मर्नोंगनि AS ZAAN RANI: Ham | 
+| STE Fs गा! LAUU उत!अबसि!०३॥ oi 
+
+Me ba aq ang साथ 
+
+
+र्स्या। अहेतेन! ४ नाते vera डसद! अभि ARR ४५ | 
+| 
+
+
+| 
+
+
+å | 
+å 
+$ 
+
+
+A 
+m स£पधेः।आरित्यास 2o ode स्मसि!यध्येतः3 rai 
+GUINEA: qda aS AHAI ee ।च।३२ व्यच्‌ 
+री gg माता! la ie ad चरुणस्याचा 9 ग्रत!टेवा: राग! 
+Hs ॥जिःधातायत(बरूर अस्मासाबि।यतन। ०४ 
+ARMANA ARNAS रब | स्पराः | सुउती थे। | 
+मु निष सुने RES roi | 
+
+
+
+## Page 980
+
+areas YA STR TA STÅ kai 
+EATARRA ETAD यचो दसी यदे! 
+
+
+BAUG 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+i qq 
+
+
+४६ 
+
+
+
+
+
+
+
+
+ofra aa विभए बरि थ (प्रा! Ba RU 
+।घ।ठणवति।स्रनीयो। डृहित:। दिये।। धिते 'डु:5 र्व | 
+rd am ल स mirna Naad द्विताय च! 
+
+| gaS गा al Sa | 
+| EEG a uke नाम।चाअभम EE 
+
+
+AAZ kine RS ER JEG भा | 
+वमस Ed Gs वरि RaT, a i दिवा:।उत्त म | 
+Rag RT |सं*चर ति। 'चात्र। ति।भवांसि। ७६ | 
+
+
+
+
+
+
+
+
+## Page 981
+
+
+
+
+
+
+
+
+वेभ्याता!ह यादा त 'सख्यज्पाण å sya iag |. 
+sert REIRI Pa- RAN 
+| pie bee) FÅR tai 
+
+| SE 'पीतमइरोइति।पिताऽश्व साम। AA शीं Qi 
+TURAE AN सो म। N AAT 
+Rama ed Fate nt चरि 
+मा।स्रामोत।यवयत]१ बः ११॥ साना व ह IST 
+ey हि।वर्स्यसःन्‌। अथ हि।ते।मर्‌! आ। सोम । मन्ये रेवान्‌ इब । त्र। चर | 
+
+
+4) l | 
+
+
+De 
+
+
+
+
+
+ga 
+| | 
+
+
+å 
+å 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+gt tr bein JE KOLA DER nd 
+
+
+
+
+
+
+| मा 
+
+
+## Page 982
+
+
+aada 
+
+
+| Bonera dt 
+
+
+FR 
+SG FSS (अलुउ कनरता ng ea 
+
+
+
+
+
+TRAFF पय्‌ । वया बऽ arsen 
+
+
+ganiga] KRT! A IS mål REE 
+TUTUTI RRA TNA aae Bae | 
+PRS en JRR निमअस्सन्‌।तमिषीची।अ 
+
+
+
+
+
+
+
+
+
+
+gemaa (अरमानअरुहत विहा ला Fen | 
+| य (इडभपितर वडसा पीत अमेर्त्यनमत्यीना E | 
+| विधिम Fare GA STAUR - सेउ 
+बिरान गंअन दावा आ (आ।तत॑थ/तरमे।ते। इंरो शति। हबिषा। विधे 
+
+FPU: es शाईशतामा।उत/म्षत्यिये 
+manat Jam | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 983
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+जळे एथ्रिणाते।मनंसासृतरयामक्षीमहि पिज्यस्यःश्यारायधासो | 
+(तारी Kai md (बासराणि।साम।राजन! 
+REE) | 
+
+
+
+
+
+
+tgs: 
+kaas लआ ऽबसाः।सनःरराइति।उतिः 
+Gs TR पश्ातात्‌।उत !वा।पुरर्तोत्‌ ४ १३४ ॥अथवालरिबल्ये 
+थु्स्यम॒पनेयोरयीणा | 
+
+
+
+
+
+
+
+
+TRENDEN JE 
+
+
+## Page 984
+
+
+. अभिः inn Å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Riar 
+श्याशि ver a se $ S 
+॥ R sva ge NR RUNGEN 
+
+
+| | pr ep इदि fe 
+सरणि eng सण Rei 
+| ड Fats: ANER LAMAAN रय er | 
+
+
+å AGN de NS | संब | 
+नव ee ab NAAR! सिन weal ४८ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 985
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+Raad श्वावज्रिन्‌ाअन्‌तःन।सिचताक्षरति। ३ धीतयः यदह! 
+नायकायायज्ञायत व! एथिव्या।अधि।अते H तावि मते उः 
+5; + ।हरयःम।ते।आउारवःबाता 5 इ! शः सक्षिणं॥! यभिः। 
+q E 4३3७8 33 ।एताइतः त! शमे! ३।सम्न 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 986
+
+
+
+
+sm ST! aey अतिथि! पध it 
+48 ger SK स्यबि!यर्था!पृक्थे। रऽ! यथा! शि Es 
+FANSAT m 
+
+Fo RAR gd TG सहस्रॅणज्शव। मंहते ॥ रा तर र्यः 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+» अस्या रररा:इंडस्यासडरषसरी4गिरिनासुज्यामघवतासापिन्वते यत) 
+| å Sine naar åa इंदंव ।'अभिमिय।अमे दिवन आपन! en || 
+| सबने! म।आ।यसाइति। डुघा3 रय। उप राशषे॥अनेहस पृ ह व॑मा ने। ऊतये मध्य, 
+| धील ॥अपतायुसोइति! हवमानास रंटवः! उस्त्रं ए M 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RRRA ग्यान अत्यः!न।नोशले।'याते | 
+GERE ps Ho lakto . _ 
+FRAMUM INT बा ål ke ।इुड्‌। | | 
+Kr ।आगहि॥र्‌धिरा a 3 at | n] 
+
+
+-etna TA पैन vara रथिय्या \धिदा Art) येते 
+
+
+E | | unit . वभाकण्वेमथब्‌ 
+
+
+।नि।दस्यु। मनुष mas Area art inst 3 Sjal neadan 
+सोरतिं पस | रत mene OT बज णभ | 
+RE es sedan m शयीअसिंसास/अड्वि व) मयि। गा 
+
+
+## Page 987
+
+(क! यथा सनो/स!ऽबरणो।सोम्‌! Sed (सते॥नीपऽअति 
+र saa सपो पार्षद्वाणः भक्क॑ष्व 
+स त्‌ शर्याने।जि aaf z4 ऋषिः।त्वाऽ 
+
+
+nere ner RENTA 
+I ea qila 
+
+
+ARDO 
+
+
+
+
+
+maaan reka Reg R A E! 
+
+
+a 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+
+
+
+
+
+
+
+
+
+| दानम पर॥स कि ना विमिमान renal 
+| AARAU ME विय।विद्य! T afata 
+| याम ताक अत ह जन ya ।सःरायः। 
+
+
+पोष अस्तृते॥ते!त्वा! बय! e EEEE UUE NOE GE GELLA कदा उन। 
+स्त्री तथ ar MERELINE aR सिल 
+ता एली माव. md Ñ vik 3 
+INAKUJA ARRI ITAI जनिष्ट NG 
+
+[याजि (दास रोवधिउपाभअरि॥ तिरः।चित्‌! पर्बीरवि। 
+
+
+
+
+
+
+
+## Page 988
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+
+
+I 
+
+
+
+
+
+
+gatan रप Grå ent | 
+aa आ ae इक ।सृते यथा जिते। एसि 
+sn माद्यस!सचा। renten रइ Gat TET यर्भा। 
+
+
+
+
+
+शिभादरए जा नसि॥यः। उक्था er 
+
+## Page 989
+
+east FEB IA: 
+$भिः॥यस्स् a A gm Me तोशतिशत 
+घोठरवा गोज्डु न ESS 
+
+
+
+
+
+भ्रवस्यवचागंसननभपिता! महान।उम्र। ईशान - 
+Age 
+
+
+CEERI 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| 
+ho 
+(i 
+pi 
+f i 
+
+3 ऋँवी॥५ 
+
+
+| a -pha ए 
+क 5२५५५ [SCS E 
+i Rn SETENE ee as = —— 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 990
+
+
+
+
+| | | FÅ IAI नाय bes) 
+
+| च्चः | हव।अर्यामदाउथ di उबा।पुरुज्बसु। गो ञ्च्य ITRTG ITUN मेह है 
+
+५१ सागइन्वतिपयसज्य bs Rate nD gane . | 
+।युछसि)उभेरत्ति।नि।पासि।म 'आरित्य!हुबन ir sk 
+
+
+
+
+
+
+
+
+| स्यो अमु त।शिवि॥यस्म। ug ।शिक्षोति | 
+जे॥अस्माकीगिरउत MENS, कणत SE | | 
+मन्यो पूव्यीज हम i (ऋतस्य हती अनूषत लात मेघा | 
+
+
+पतसः Ed अधचुतास।क्षोणीशतिं।स। ऊतिः aug 
+कास!शुचय:!सं/गोः आर «+ Kake hela 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+न सागो पूनितिऽतंमे! मधः बन anså रदान शयः इमहे ` 
+यभआयकुत्स Er भंवद्धान lige ef! Å 
+ETA [आनः > Å 
+
+न्विरि।मरनेष।आ ये। अगी व तिई दब विश्वा 
+
+## Page 991
+
+
+
+
+
+
+ME 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ni, agna न Set: NATT I Len सामस्थ! तुप 
+hah Sal a fas तिम roms डार 
+fa s IRT ।स्चापि sal IA AA vas 
+
+
+बीणिं।हथि।अउजासु।आ भगे॥प/सु/तिर/ शी भि भकती पुन॒ते।| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+रनुषकयःतिएसाधिष्ः। अवसि ते!स्यास भरेषते॥ बय्‌ हितत्रौभिःउत देवद्ग 
+
+$ (ससस (मनामहे!'अहे ÆR qi aH ar gr यानि! 
+han त्व! Ble Ren अग्रे! मथीनो॥ 
+gaia इंड्राबीयीगी:उमिः!ग्रणे aim ia ह 
+aatia as haga en, १ 'सुतेष।मर 
+| naq ors अमर (यथा FATTER LT NIMF: (विशे. 
+l ।उप१व्‌ः वसवः रदा अबंसे!न. मन & 
+
+## Page 992
+
+तहं झि RE 
+
+
+Ra FRE EEE a EEE i | 
+i 
+
+
+Redda er i Tht 
+र देवास! 
+
+
+E E en 
+FET 4980 NE 494 
+
+
+aeaaea aaier तै। माधी ने 
+SG ud बिसः पघूःमाद्यधदुधे 5 np a उहन।आनिप 
+på engen ACIR RS E JUR naifi 
+
+qala गि! ससःवयास qN लाधली 3 ‘es read - 
+मलान भइन उर्प!जर्वसे /इषे४बय॑। ते 
+
+| सम भिः श लसा शतक्रतो तोला रा 
+
+4 (नि'तोशय्‌ ४२७० इल इंईस्यावीयी aa 
+
+TT NT RENT ISF Jelsa ar न। 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+"नश =P SETTE PS 
+
+
+
+
+
+
+## Page 993
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+= pe AT IBN 
+(टक राध॑ं।अद॒शिअरैय arsen ar eat मत्याचातणक्र 
+| णीऽवतीनो n ad दासाँने!उतति af: | pb l अनीयुत।पूतः $ | 
+
+
+` गिचते।मन्हादिवान|तसभुशाशत विणून रात शरन शरत। चर्म णि मल तानिं। श 
+| नि! बल्बने'खकागअरबीणा'चतेः शत॥सुःदवाःस्थ काण्बायनाः वर्यः å 
+मिदिं।श्रव॑॥श्यावी।अनिःध्युसवा GA FA संउन शं Kgl 
+। व: सहस्र! दस्यवे । रक नित्याच।रा यःाञुभहत। बाते मे) गर्द भानो TR | | 
+| ar ifsstsnusratanrart यूथ्यों NAG 3704 :! gagn | अ. | 
+
+
+
+
+
+Me x ve तध | क p p nee - / ९३३५ = sed se Nr पणी? पट पपप) प्न oo O PRR EV he तरली». 
+
+
+, p e e रय क क न ० pean pr EPRS mn EEE KER E BE 
+| 
+F FÅ 
+E ` F] 
+å F 
+k i 
+क i 
+j 
+å å på 
+
+
+
+
+
+| 
+H 
+| 
+f 
+
+## Page 994
+
+
+
+H 
+
+
+
+
+
+
+
+
+
+
+| Saos rad मी Rat: AER ko | 
+RAN Sk दिवा।ऋतुना। पू sg Eki mor mane -: 
+||स) नासत्याइाचीभिःरूर्‌ rad Vo र्वात्रर्य। एकाद्ड़ासः | 
+
+ai ना ugum सामाज का - 
+| टर्रिनीरतिदी र त ।वनाय्य!तद!जश्चिना छृतं वो।टृष॒भः।श्विः। TR: i: 
+Bannag gain N aaea 
+
+
+
+
+
+
+
+
+
+T 
+
+
+
+
+
+Í 
+} 
+| 
+
+
+[art på AHU EA (FONR सत्या।उर्प। यातं।पिब॑त rå 
+tege ar 
+
+
+f 
+f 
+i 
+
+
+I 
+
+## Page 995
+
+
+
+J. 
+I 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+om ed बेल्स 'यज्ञ।श्म।वहति।यअनूचान: जाह्मणःयुक्तः 
+। ५४ |का।खिता! 
+Ba ion RHA हे ही ।उषास 
+
+
+
+
+
+
+
+
+
+(सवॅना ea gaw på ikek 
+।आर्थं neni महिमान आइातयासिसतुः। रजसः पारे! 
+
+
+
+
+
+
+|| 
+| अध्वनः ययोः area ओहते? सदय na इंदावरुणा हरास्यौ योम 
+हस ref तानि। दाग्ास। अवते सुभ! पेती १ तिं। य वो! अरव्धेः 
+पा इभि॥घतञ्युष।से म्यां। जी र/दो नव सप्त। खसार। सने 
+जी [हुः सणा।धुतऽश्वु तशता भिभधत्तयर्ञमानायाशिक्षत॥३४॥ ` | 
+अबोचासामहते। a FA 'महिमानाइद्रियास्मानासाह |... 
+अवशा re sad Rs भिभसापेनि! अवत! श्ु FER t ai ang  . 
+मनीषा!बाच å अते!|अरत्ताअये।यानि।स्थाना नि री 
+ताधीराभयज्ञातन्वांना!त सा।अभिएघुश्यं।इदाबरुणा।सोमन॒सं।अरृ्त! | 
+
+## Page 996
+
+
+
+ER 
+
+
+
+
+
+== ag om SM ans a ४ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| ae ud अध्वरे॥ EA ad घृ तर $a ईमहे अग्नि 
+
+
+z ae EIE fer MEL | 
+SR fsd विमि कामुक afasi 
+
+
+a 
+
+
+| 
+| अजस बीतयी॥ 'सुड्धिताआ।बसाइति।य॒ड्टि 
+मि। हितः त्व/ शव! सम्प्रथां।अखि।अ ग्ने।जातः TER telt 
+
+
+
+
+
+## Page 997
+
+
+Å 
+
+
+दीदिश्व।आ।विवासति म रोच नह 5 t 
+ait er En या डक मस s कया AS 
+अग्नयधायथा।लचिता हू, 3 
+
+।यः चा & AN ald ००४८ | नीय ने 
+
+
+
+
+
+
+
+
+
+
+।माएउरघऽदोसायारीरथः।।अस्रेंधत्‌ऽभिः। fr Ge PES 
+aan रकया नाहि ता ता ह 3 
+TATRA! qaaa परि दाद 
+UMINI नः। अवाला एत हि ART Pas 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+Mad ENTS EA ad 
+å me li sed as kl 
+
+
+
+
+
+
+
+
+
+{ 
+
+
+yr रायवपोर्षीयजनंभानेध्षाधच! हल शाह girdiga | 
+Fur AGIS ३ अग्ने।आ। ।होतार। | 
+
+## Page 998
+
+e E a: AGIR NET: | 
+
+
+
+
+
+
+
+
+| 
+
+
+पप 
+
+
+RE 
+
+
+पि।नक्षामंहे। हृ थे ॥३३॥अ तः जे! EET क स्याल च 
+
+
+
+
+
+
+
+
+
+
+
+
+नः। उपऽमाते!वृरुऽस्म्रृह सुः बः उतरा॥ेनीबंसाम!त॑नास।रा थतः! 
+| å ॥सः।्वीनवर्ध।त्रय॑सा।शचीवसोाइतिराचीःवसाजि/ 
+। मं mi भन Dg one t 
+SEA Ås RENAA AGAn E EKER 
+। घष।जेमोस EE 8) हातरित इति [थि।वबंखीन-बायी। तजनो 
+garage लास!त्या! Ko Az En RRA: साव 
+
+
+छत (आवाइवारेवे।राजसि३३४४सप्ता होर ते! इत्‌। tass 
+
+
+Sa 
+
+
+aaret RA पांप्र।अरनातिषठाजर्नावे।अ 
+
+aas ग्नि!ब्‌!अधिऽ (डन A णन NAUA मानय E 
+Agent हतर बण EEE ae ।सचेते TEN 
+किन! इषण्यर्य।न्‌पुरुऽरूप(आ।म्र! वा जौ ने रिच उरतयें॥अग्नीजरित* 
+
+## Page 999
+
+Faq व रक्षस॥अओ्रेषि:वान। यु हः पैत्ति। महान्‌! ve द्वि | 
+KIERUN ARA पर ed AAT Ati 
+यातः यादुउ MAA As गव्यूति!अनिरो! Af 
+
+| dg aa TÅ TASTET AUG FG at 
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+El 
+| 
+3 
+
+
+i 
+
+
+Å 
+
+
+| 
+
+
+| 
+| 
+
+
+j 
+
+
+
+
+
+
+
+
+साम॑$पीतये।थिया।शर्विद्यधआ।ज मत ते। हि। खाज दृषभ ते ।ओर्जसे। 
+Asaia M pi > å हसाम 
+उपसा तहस स(विग्य0हि।ल। हुरिउ य: 
+नर सस Uaa Trami TIA मचवन। तेथी। इत/अझ 
+. सवारंदीकलीपर्धा।वर्शधासनेमीवार्ज। तला | 
+
+## Page 1000
+
+| ERENER ME En ae ॥भर्ग(न। हि। | 
+t. aq RUIEN SAT सव 
+P ।॥असि।उब्सः। देव। हिरण्यर्य॥ नर्किःहि।रानॉपरिउमर्थिषत त्वेशति!यतवशया ५७ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ब्र/यामि।तब!आ Fag पकचश गानी ये॥उदावुद्दथ | 
+स्वामचवनागोरण्याउवाररअज्वे३र'र्ये॥तवापुरू('सहसत्रीणिराता(नाऱचे 
+नाण ।संहसे॥ आपु Fagen E EREZA गा A ।अर्बसे॥ 
+| ।बा। इद्‌ ते! APNQANERUG MÅ 
+Mo MARRANA ANUARA ss Å 
+To [यरिमिश्रणयंतारय॥वसुरयर्तःवर्सःपर्ति = 
+È j; a ER SI 'सनामहेन।अरायासभन!जल्हवेभ।यत। å 
+ताना ररास 
+
+
+
+
+
+GARA HAAR उग्र यु युज्मारतनास। 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+## Page 1001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+हि अरण का तिं।अर्स स्ये nd går RARE tatarer 
+RT ane ad नजन ।छधि। भर्ध बन भा 
+radar तिः भिम वि(दविषन(व!मर्चः! IRUARTETA 
+
+
+
+
+
+
+anaaga naani 
+| सऽबस। हुवामरे॥ इट: रस्म उते। छत्रः परःऽ MAAL सा नश 
+| रिषत चरमे।सः। मध्यमं! सः। चञ्चा पातु।नः। पुरा ३८ tn Fag] 
+साअधरात।उच्तरप्व। वरः रंदे। नि। पा (विश्वर्त- था रे भस्म Rí 
+
+
+riis are प्रे yen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1002
+
+
+
+
+
+
+
+
+विश्वी (चे! नभ ज्ञ रितुना tn वा नक्ते(चारप्षिषः! y भंगी! 
+SLAG Ang sg भिश्लः। कें एभा ब रति तपणा 
+शतकतार लिशतःऋतो।नि/या। SN STA आस्से 
+खि arters status एं्स्यामाहिनावर्यभचधीत सा. 
+नभुद्ञानरं्ट स्यारा तयैनाअयू जग असमन Bier raet 
+इवे अति।मावरघे।विश्वा। आतानि।ओजेसा।#॥। अर्दितेन चित! अ 
+ता।जीरमदाचम सिसास ति। घर याच ak दतत! तरव! यीर्याणि। कूरिष्यत्तः(७ 
+जाया हुणरयाम a इंद अ लाि'्वरधेना। येमि। शविष्ठ! nasa 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ag | z त (चित! चषत!(मन:] eC ni | | 
+| साम: स पर्यतः नमः भिर भातिः SG LINTE मः शबा | 
+| amgang NAIEN FS tot selt 
+| ते'३द्‌!बीयी देवो जले A ESNE थिश्व॑स्यागीर पति GT Gar 
+तदासि उप स दबरर्तातये यत्‌ ह सिद 'ओजैसा 
+(भासमनाउश्व। k ket HENIE e मार्वृषा युगा॥षिदे। तव्‌ 
+|तन'अ'चं एकतः! उत्‌ त शवे ।उत्‌।व्या।उत्‌! तवी वॉ मारग 
+तेभ्हरि$ गाभरारिवहथुं। मघ बने! त व शर्म णे ! ४! आह etaten 
+
+
+
+
+## Page 1003
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ag: Fu SR आर ATARAR gA sy Aalen 
+। सत्य इत्‌ वे af तह ये AAR IA अ ARR gaa av: 
+| ।सुन्य॒त ०४9 स पूज्य RATIA: Fs AA 
+| यस्ये द्वारामर्नुशपितारिवेजपिय नन Rana म सदासी | 
+ss grener STA; उक्या।अह्न'चारेस्या!सःविह्राकअंगिर उभ्या HE 
+| Mit AAAA NANNA Å 
+[| = afeinaraaa die REST! | 
+I TA FE | 
+l 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+; t ८ 
+
+
+
+
+
+
+
+
+
+
+rd 
+
+
+
+
+
+
+## Page 1004
+
+
+
+
+
+
+
+I 
+पष: गोजस्यादावन इंद विश्वॉनि!वीर्याछतानि!कत्वीने!च॥यं(अकी अध्य्‌ 
+eg || ह ॥४२यत्‌! पो च॑ग्जन्ययाविर॥३दरे्याषो१अर क्षत naud 
+| बर्ह णीविप।अर्यः भान॑स्यासःक्षयःाइय!ऊहति वि! nqa 
+| चा नि पो स्याव! आवः'चकस्यवर्तनि॥अस्य। i E 
+| ३।जीवसे॥ यवेन पश्वः अददे तत्‌!द्‌घानागअबस्यवःयुभार्भि। दष 
+पितर नस्यासासरुत्वंतः ह VARER ।धाम्ने रऽ RIA 
+Ess MZA nam 
+TG Å EST Fen भ Få AEE 
+यःरॉसंतेसुव 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tii ERASMI 
+
+
+. 9 MENS ध्य था it 
+
+
+{।४३। 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection | 
+। - : 
+
+
+## Page 1005
+
+
+
+
+
+
+
+Rien (आउघोाष॑नाचर्ष णीनो॥आ — | 
+ki net aR य वि! 5 Ga fa | 
+| य!ॐइतिं।त्वा।दिवा।सत्‌'्यथन अस्मा | 
+di Dan भः य AQ te TAn | 
+ति॥कस्यास्वितासर्वने रषा। JERN TSAR 
+
+
+ERA यत सा 
+
+
+यरिंग्रभागपागुदहन्येग्वाहूयसेनभिः! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ev få Sartor RIINA ga 7 TUG igan 
+| ६९ के ler IR aua 
+FÅ भायि Egi Kyi med या।अधि। प्रिय॥ जा! 
+
+sh ॥ताअद्याराधस!महे wada om 
+
+
+
+
+
+
+
+
+
+## Page 1006
+
+नाकाचा Aase UA 
+ARAR ANN a RRT Ås मि। सदो।उ 
+gm I भजसे रड सोमं तअ 
+RAEN ITE AANER गणीपे 3२ 
+
+
+
+
+
+
+l 
+iden 
+। महान्‌ ।उभ्रः 
+
+
+
+
+
+
+b, $ य 
+VERENPIGT 0000 Ammen) amore URRY DP DMN SUR ९५००० 2० 
+
+
+TYNT FR bd] 
+nafta defekte) 
+
+
+नहत न तपिबीसृतःबँतः। ला बये। घय॑खतग हु वा: 
+
+Å Foss नये हल LAS NITET: vaN | 
+
+auraa Aaa: aA e ne ता ECNI ] 
+
+नाराज! हिरण्य्‌ऽ pr TAK! RANAR: नो me | 
+
+siå aga Aeg हिर॑ण्य आ।रदे। नर्पातिः। $: ऽ गर्हस्य।मे। स 
+E ag अकेत।३9॥ तरः ३भिः।वः।विदुव्‌ऽ 
+
+| då अत्तर्ये! हहत] गायत [सुतः से! (अध्वरे! KEN नका pe | 
+
+| डुआवरेते?न।स्थिरनर। Fs Ta यमआ्द्या सर 
+
+
+see | 
+
+
+
+
+
+NT - 
+
+## Page 1007
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+; > t 
+
+
+Fe 
+i 
+ee å H 
+i 
+
+
+
+
+
+
+
+
+
+
+
+|| 
+
+
+Í 
+
+
+
+
+
+
+
+
+
+
+## Page 1008
+
+
+ARTAR pe 
+be (पुरुउसंगतवसीउतारद! 
+
+
+A तारे कव्या प्यभ हा pi NAA: 
+।हरिःअम्धः शत! करता ३ दकल । यथात्‌! यव! 
+
+
+| 
+
+
+ES 
+
+
+
+
+
+
+
+
+
+
+Å iy श।चिलाश्रूर।चुणा।वय।तत। ते! ua भरामसि!युञ।उक्थं 
+e | : VEV KEM sq ना 
+AT: WR AGA तअ वये! | 
+| 
+
+
+Ten eaaa अद्यासमना( खत 
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Maia gA $ ।चित।अस्य!वारणः उन 3 
+E +षात।सः। इम्‌।नस्ततोमं। ET bass TR TRAN 
+| AUKA RAA! gaa त7३डस्य!असि!पोरय। केनोरतिं।नाक्‌। 
+Siang सेन ।परिं।ह तरह कल) TS 
+| स्य vår (कते! इतर अस्तताई R: SMIAT 
+हेः ट३।उत।कर्ला।पणीनेअभि ॥ बयाधावे। आई q 
+ruget सः 
+
+## Page 1009
+
+हि।लेइलिलवि: कि 
+
+
+
+
+
+Haug Aqua 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+at 
+
+
+नभभरामसि।पूवर। 
+
+
+
+
+
+EE 
+PE 
+KE VEG 
+s (क) 
+X ae 
+27%. 
+9 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+च NA 
+(गाव: ann 
+
+## Page 1010
+
+
+
+॥मिन्र।नः|अतिं।अह | सोव | 
+वरुणः पर्यबत।अर्य मा॥आ दित्या Rs | तो RR ध्र | 
+
+
+PRPS NECN ES ji ‘EP NNN OA at A 
+
+
+Aanmaning AR 
+
+
+STRÅ Bakte ar अभि 
+
+
+आर त्यास NG Me Ruga len ५९९! हक 
+र थे! UG ad | qatı av 
+AIJAI Ran KE तऽ ए्नसमा! नं। सेतु। 
+
+
+RERA NTE id 
+X दृणन्कान प्रि velar ।इत।हि।श्रततवशी॥मा। न । मून्चा! 
+Ma 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tæret ua peka 
+| adle Si Air i ANLA 
+॥नाकिःतोदर्स्य(नः। रिघत।अनेह + ने उरु AA 
+
+
+
+
+
+
+
+pr 
+AAR | 
+
+## Page 1011
+
+
+
+या जि 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+
+
+
+
+
+
+ig | सनो आदिलायन्युमीचति। 
+At Russ धि कायीजीवसे।ये। सतीनो LNR 
+& Jma - Aal AAN FBTOT NAT at 
+i ee er t ह KATE AT ER fan 
+UTG STA FRÅ ut घ राग्वंद! हि। व: सुउरा ऊतिउ Mage 
+kg ज्महे॥राज्येत!हि। TE प्रतिऽयेते।वित!एनसःदेवा। 
+rea बुंधा 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1012
+
+
+
+
+
+
+
+NIA Rt ।अदिते!न।असाके'अस्तितव! 
+ध्यास१अतिःरकरी! यूय!असाभ्ये। बूड ता।मा।नःहेति।दिवखतऽओ रित्या 
+॥पुरा!नु!जरस!बेधीत॥वि fra la am Fs हितं 
+
+
+QARATA: Meen ॥इतिषछाक्कष gA NEN 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+: 
+
+
+अरे तयो सुम्नाय यास च सः 
+इंद्रा राविडासतःपंते be stag कत ऽव विश्व॑या! 
+FE Fe tn ३स्वना।य पम हः! Faq: 
+
+
+saliq GET: FAA! शस ॥एवेनच। 
+| EEG रथानो॥अभिषठये!सदाउ हैथे। मह Ei T 
+
+
+AES ऊतये॥ १४ परः3माज ऋचीषम इ उम्र सं 5 
+| ee meg je रम å 
+सत ति।इरो। ष्टीना दूत ॥न।यस्वेतै। राबसान।सरव्य।आने शो मर 
+
+
+
+
+
+
+न 
+
+
+
+## Page 1013
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wienn Katt age Ån 
+Ru pak jeg RAVN ऽभिः गण aa 
+| दवी डला चावला å Å boa FÅ 
+
+ALFA विवस IRA EG IJA! | 
+= ।जआवसे॥३२। (रग ।३%े। यन ॥देवः 
+बीति।मनामहे॥ ad ली ।सोमस्या ET! | | 
+तय किता हर रति क स्याखूने मा लि | 
+ar NERA sr RAT STAN 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+क 
+
+## Page 1014
+
+
+
+सऽपेश॑सः।षट्‌।अः्धौन)आतिधिऽमि।इ्‌टेते।वधूऽ मैत ।सच्चौ TEGE 
+FJuamey! aan agaga अरुषी Jug IF 
+ung ee निनित्स ।चन।मर्य।अअद्य। 
+CELE A GNL ag: AUFs आयी उध्या।आ। 
+विव्वसति।नढं।च।॥ओरद॑तीनो न॒द।योयुवतीना॥ Trane ना 
+च्यसि।ताऽअस्य।सूर्‌दाहसः fat BAY 
+
+| = त्रिषाआ।रोचने।दिवताअभि। भागे gat i a 
+
+
+
+
+
+PREF 
+* 
+टप्प्या JESSE 
+
+
+
+
+
+च। सत्यस्यसत्‌3प॑ति॥अ। हर॑य स से जिरे।अरुषी। 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+
+
+
+सोब | 
+६५. 
+
+
+
+
+
+चः षः अभिसेउनवमिंहे॥एाहंदायागाव॑आउरिर। ie de वासी 
+
+
+
+
+
+A 
+Ex 
+
+## Page 1015
+
+ar vå 
+pf: 
+RE, 
+E 
+Mo 
+| tua 
+FF 
+| | 
+I 
+| 
+j पु 
+५5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+६६ TPFURTANIAIFA! ।गृहो इच गन्वहि॥मध्वःयीत्वा। 
+Å Ea ।सप्तास अत झु चैत [न्रियउमेधासःअर्चत॥अ 
+A 
+
+
+(दुक नारमत aam नापि (सि 
+खनत॥पिगा।परि।चुनिरकरते। 
+
+
+Fara Pa FÅ En STR ANNA REIN! 
+
+
+
+
+
+
+
+
+(अभि।अनूषत।ब॒त्से। सं शिश्वरी:5 शव (सु देवशअसि।बरुण। यरयी ते। ६६ | 
+
+
+## Page 1016
+
+
+_स॒प्तासिधेवााअजुइक्षरेति।काकररम्यीसुषिराउईव//य z | 
+कापा का F GEN 4 mia van 
+> La | श भ॑वि ॥भिनव! 
+
+द्न। TAAN REMAN AAA 
+
+QA EN ।विभग्क वै॥आ। लु। सु FEE 
+
+
+िशु। हिरण्यये।अध। gha वार mi 
+थे = g दावने॥०प्रियर 
+AERAN as Jaa (आशात॥9॥यवराजा।चर्ष णीनो।ए्यात 
+
+
+is > . JaA ANRE 
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection - 
+
+
+
+
+
+_ नकिइकभेणानशु् 
+
+
+: भधिज्यभाविश्वोसातेरुता!श्‍तेलाना!ज्ये भय: ृत्रऽ हाणे n 
+pitika k e eoe eetikaks पति 
+
+3.2. Fiat ve य चूका सरा घेए३्‌३+न'यत्तेः वि 
+i iang yate aqar ! 
+HØRTE ATT ER 
+Dag: वाया तेजते गाते भद + 5 SNE 
+ARARAT gard gi र॑सीरति॥८॥जा!पय्ाथ।मं 
+||| दिन टषया।टषन।विश्वी। रबि! शवसा! अस्मानाअवसघऽवनगो 
+
+
+## Page 1017
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+å t 
+> ' ३.५ De 
+: 
+
+
+
+
+
+raden उरतिश्भिवानासी!अर्देब।आपतारषादीर्चा 
+
+
+ay 
+
+
+
+
+
+
+
+
+
+
+ngae (इंदाद्ानाये|[सक्षणि।य:।गा 
+ह्‌ 
+
+
+
+## Page 1018
+
+VIAK; (व्‌ 
+NFI EG GEN NAT! 
+म 
+
+
+RAR 
+gZ 
+
+
+
+
+
+राधसे 
+
+महसि 
+
+et 
+HRIFGUFGÅ AA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+वान Le NATT 
+TALK 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ला 
+
+
+साद 
+
+
+
+
+
+
+
+
+
+## Page 1019
+
+
+आये सर्त्येश(एतैःग्वाचिता य एतशा!युयीर्जताहरीराती है 7 i 
+GP 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FS गृभायाअुरप्युगदितसं।गुभायाअस्मस्युतासखायन 
+Tog gauzis ReRe RART 
+Maaa RN: Maias em Fure एकात! 
+दारै !वृत्सान।पराऽददः।कर्याऽशृत्यौ सधः वो! शोरज्रेव्य + बत्सं!नः।भेरभ्य 
+
+'अनयतसज़ाखूरिः।नाथार्तने ३९९ 8 मह: भित GRNT 
+a !उताद्रिष:भर्ल्येस्या[नहि!मन्युधपोरुषेयईऱो(हि।व:)ियःजाता त्वा | 
+इवाआअसिक्षपाडवान (सः! Pa PÅ देवेभिः RA न पावाभ KAN 
+Ref विश्धऽ वारे ॥न। ते अग्न[अरातयःमंह्वौ यु बता राय, ये जा यैसे । 
+
+
+
+
+
+
+
+
+
+## Page 1020
+
+| 
+
+
+राचा सीय! विध्रामिधऽसाते।अःने। दिनोषिधनोयासभत | 
+|| शेतां ११ धसे Laget ia naaman ० 
+MAA en LTE å 5जाध्योसरतीयाअग्नोमाकिं 
+देवस्याराति।अदेबनयुया aq ननवरे उप AR 
+नपातामाहिंनस्य॥स av नरिदऽभ्येशाअछ।नः Se RET: 
+KET Gå तंभअर्छ ag ARMY IE GE FAA ऊतये ॥१२ 
+'जातः्वेद्से।द्षनाय।वार्याणा da MAILARA Sent 
+
+
+
+
+
+EMAR ARAMADAN अग्नि भर्य ति।अध्ध रे । अस्नि। 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+«fås | 
+
+
+Å 
+
+
+
+
+
+\ 
+
+
+साब 
+
+
+५° 
+
+
+| 
+| 
+l 
+
+
+
+
+
+
+
+
+
+## Page 1021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+मं।अग्गि।अवीति।अग्नि।लित्रीय (साधेसे॥ EN FENG 
+åa arte Ra >~ तनू$पा॥ 
+| in + vok निषअग्निरयि।यृरुऽ मे! 
+| तन्रअमि(सऽदीतयोछरदि।अग्मि। åt योत न्‌ z णी स 
+bn ene ।अबिताऽ रो | 
+॥॥९३॥हविधहणुध्याज॥ र: nag बनते!पनरि्ति। | 
+झासने॥नि am aa व।होती।मनो।अधि।॥ SEN 
+anaana Meter referat af et 
+
+
+सोव | 
+
+
+जामि।अतीतवे)चज्ञः वय्‌ःऽ चn॥अरुहत!यनं (दवद विय न्‌ 
+
+å Aar HSE Sa agn द ब्य १४॥३' 
+
+!यत्‌!म॒हत्‌। अश्ववत्‌! योजन agana REG 
+
+å सुजतः[तीयीसिधो TAY 
+ut 
+
+
+
+
+
+
+
+
+
+
+## Page 1022
+
+
+
+
+
+
+
+
+HUT 
+
+
+
+
+
+
+
+
+
+PE 
+Å EG 
+Ed te 
+
+
+ant INER ve Rq I seng TE 
+जर्णिएति न अज़ते॥सिंचे ति।नमंसो।(अ en : 
+
+
+केपिज्मानं UAN आरे ILALA NAS 
+सिंक्त।पृर्करे। ~ nls pos an बजय वत।अबतेमहीर 
+
+
+
+
+
+
+
+
+va 
+BASN 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+En EN आप्या [Ce 
+
+
+3 H 
+
+## Page 1023
+
+j. है i 
+$ Få 
+$54 
+å $ + 
+Si ME i i RRR L å EE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+युधरयएप्फदा।उभा कर्णा।हिरण्यया।आ।सुते।सिचताश्रिियँ रोर 
+ed ATIAEINA mg 
+नैन 
+
+
+
+
+
+
+
+
+
+
+
+।उपखके। ब स॑त ठूष्वते\धरुणे। Reg Span 
+मः xa FUN yea å p Saa ir 
+सप्त। राश्मिऽनिः। भित्रा i Tei ।तव्‌ोओद रस्य 
+'भिषज़े।णप्राहयतस्थानिःधान्यपरि। थां। निद्या अत्नत suse 
+gas amaan ahaaa IRALA: 
+।बिक।जवीयसा!रबेन।|आ। याते! AAEN ॥०॥उर्पस्तणीत!अ 
+såg 
+
+
+{ 
+i 
+| 
+
+## Page 1024
+
+| 
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+NA UA 
+ERAN TT 
+
+
+
+
+
+
+
+
+
+ग (५ कुह।स्थ। करी जग थु।कुह खिना। बे 
+
+
+न iE 
+
+
+
+
+
+FRÅN 
+en श्व 
+
+
+हना रियत 
+
+
+a (गछतंण सासहः 
+
+
+
+
+
+
+
+
+## Page 1025
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+साब | 
+१७७ .४॥ 
+
+
+ss 
+
+
+
+
+
+
+
+
+
+
+
+
+यार्ने ऋतः वेरी अन (किंचाके सबाइसपरश्मानः 
+RENN EE AN EG å mornas 
+TOLIR तिंथिं। बाजः ये तंग पु रु RANAR ENLIA | | 
+| sørge RA dak idiali ५ आस, स 
+ARRA भि॥आयन्योंस/जा[तः IUAIR ता विउ वः 
+
+
+
+
+
+Ea RAI ks IST duren | शाय 
+
+
+JE UIT se hss ER 
+
+
+
+
+
+z नत! छतः हव नं।इअ्ये॥ २९ ॥ स$ बाधः NST (भि l Ngy 
+
+
+ह्व्येभिः। डेळंते॥ जु झनासःयतःस् दः emer ia 
+
+तआ म सातार fans aaar NFT! 3 
+माच fener उततर a ॥ सए द्यमने | म्निनीङ्हत 
+giyani anakaa र amigar MHEMA 
+
+
+## Page 1026
+
+adilainada ana araga 2 neu गोपूर्वनः णि. 
+avart FN "AIR JQR VUANTE RINAS 
+Bi asken UA EFS भो योनः षे सदर 
+
+
+
+
+
+
+
+
+dings å 'अभिः/प्रय। वर्श॑न व्यँ।न। a h E EAN ÅRA 
+
+
+
+
+
+| | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+TRATI å Jet ANI ls खोरे आशा बा वि स्था: | 
+
+
+| 
+
+
+७ = क PM लापता = 
+oo ooo प यमन मप = === ts पः To 
+EE per terre EE == न्य ES र TE 
+
+
+— ऊमिशनाना वोआवधीच)न मते। sarah dg व।कू ४ य॑॥अरमें: 
+å आ २८८ भकु विवस) EMTA NA वर्धिषः रयिं रू 
+
+
+9 ds ganang Nå 
+; Sagna ana ped ad aana RENE naq 
+Å 'अस्मितान!अब। विश्व।हि।ते।पुरा।वयं>अ 'विलु।यर्था। सभ 
+
+
+
+
+
+जबल ३५ न है।आपःा अ रदः रार: चा विंछा?आस्ति'्मर्ये। aug 
+
+## Page 1027
+
+PET died ESEA RTAINN: 
+RILADI वो! वि तेरशाश्रल!विश्‍वावार्यो'दूधि/त्वं,ह्‌/यत!यविक्ये/ 
+सहसः ENN ANGA वायति सृ वः! अयभ्अ निः सह uk 
+बाज YR dl å Ude 
+RRA जिया ने दीयः।य सअ शिर २४ १ तस्भेःदून अभिः थे TT 
+RLA Aad na ju ÅA k स्विव[अस्यासे न॑या। 
+ras चक्षसः।पणिस्तरामहे।मा।नः देवानो विशोः ्र्नातीः 
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fagana ag RA hen ma सुमत्य ब्य ष रिऽ हे वस अंहतिः. 
+
+
+
+
+
+
+
+
+
+कठ उरु! ९. धि।मा। sg वरू भारः हदभ्य था। सेः 
+| gs egga ak 
+/अर्ज्जैबव। न स॒स्विन:। रा मी।अर्ड/3 मख स्या वा । तं) घ। 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Hå 
+pe 
+FA 
+
+## Page 1028
+
+Se 
+på 5 
+aN 
+~ h! f 
+
+
+i > SG i 
+$ 
+hå 
+
+
+Too >, å , 
+
+
+p> 
+
+
+तानाइनउ हा 'अखिदय! Renta र्व ऱ्या ET ENESE Al Q 
+I 
+
+
+EE Ob ET SN I Å å EN EE EST ORS NE I RS Eie ताल 
+
+
+
+
+
+f 
+| 
+| 
+| 
+
+
+
+
+
+नरेश २६ ड्माचामायिसोडूवे रड) सनं 'ओरज॑सा। सुखं वनः 
+
+
+
+
+
+॥अयई दै मरु daaa daaa aý 
+द धयान, rc FEIET ER EAT EJA HTG | 
+अयं नवे रडे! स्क मरु बंता जितं ॥३ दे ण। सोम पी तये॥ मरू वंत सजी 
+
+feng वेऽ रक्षिन रड गीः; भिः) हवामहे ४ उ परत्लेन। सन्स ना। | 
+मरुत्वे तं। RUER on २७ NHFA od da Haga | 
+
+
+
+## Page 1029
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+{ 
+
+
+
+
+
+| 
+| 
+i 
+| 
+| 
+| 
+j 
+
+
+
+
+
+मासम PUFRUE RAR पिवत मरुत; स॑खा। सर ते। ७३ 
+स्पशो स्यपीत | 
+` अन्ग॑वारोदैसीभे | | 
+
+
+
+
+
+
+
+
+
+AGa fratas उस तिच्च॑न।ओज॑ सा सह? पीली शि ग्रे ३ 
+få "अपः wänanga Eno कक्ष माणेभ्अ स्ये NERIA या 
+हा RUNAR: déi iiie: sapaan 'घ॒न्दें। मसे 
+
+
+ACAI AITE रि TOIR ee के | ` 
+
+
+
+## Page 1030
+
+ईशा वसी'अञ्रवीयाओर्णः वाभ।अही एक वे ॥ å से त। निःः सुर ॥ से 
+
+
+बया। प्रति पा।अपि व वश्सा के। स स्थ।काषका॥अभिगप: 
+C agag चुर साच सि QIN! 
+RHIM GF SNAUE da सःआतते॥ garira सहरू 
+
+
+$ 
+
+
+RR 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ANA ANNARRA aang भ्यीउवी इंद ASAN GA 
+
+
+3 
+‘ह 
+SG 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1031
+
+
+_ SAT 
+
+
+ey Arkna (यूज Vad स्तोळ; भ्य।आभर।नहु3 भ्य ना रिःन्यः!अ । 
+o संवेगसबच्यग्जावशशभरस्लिर्गरता।ओलानिते/रूंता।वर्पिष्यानि।यरीण सा 
+` द्याबीकअधारय:॥विश्वा an Mehra re ia dyd 
+रातम्‌ हिवानरक्षीरः यारकशओद्‌नो वराह! इंड एमृथ॥ तुतः ECA तासा: 
+
+मय ध न! साधः रः Rwan på ARNAR] 
+RIDEG agarda; सई सहर Use UIS । 
+जन er UG saft गा? क pa अअन} k FU 3 
+aR natt mange TNT तिआ।भररल्ल हिन्द A A 
+JARITE METIR दार उता। नाअन्यः/ववतत/ शुब। वा घ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| नकी रडी निऽकतेवे'्नारा अभय रि$ दास वे | विश्व रु णे ति।प रये ति ३९१सः ay 
+adini NRA ARA निद चिकी यते॥ कव इत्‌! पूर्णउद रे तुर 
+'अश्ञििधतः। again fa stan RER 
+HIT TGI PR GA वो।इत/य IG EN ÅT हिरण्यःय 
+| åg mignani (आए Re Rha anama 
+URGAN Es aRarafhaqer Ad MARIANA A: 
+त/बिश्क ARIIN रत! सो स॑(सरविधविग्रध कायेनझभि'ऊर्णाति! 
+| ; कन्य IEEE EN अप le SN समा | 
+
+
+
+
+
+ae GIN /४ गये: अन्य ॥उरु'यूता/असि'वरूथं।वं।चि ची प्त 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+
+
+
+
+## Page 1032
+
+PE RR EET nøtt BERE > jo == Coo aa m n ep र 
+5. | H ; "Psp 
+ar å å 
+ENY g < 3 
+Lå te | 
+å P 
+| g) 5 f 
+
+å E È i Å 
+
+Å | | 
+R भौ. H ५ 
+
+i it pe 
+
+Brå HÅ 4 
+på å . 
+
+
+f å । रसे दि बाआ। पृथिव्याः सजी पिनूभयावी।अय स्वाचिव रेषे du 
+` | यंति चसःअश्चीगछाचइवट्‌ड व?।रातिंग वृ रुभ्यृःत व्यत कार्स १ ३३.॥ 
+| बिददयवरषूर्य नं उतारा शत य डे रयत? ब्र! मारय यारीत।आतीर्णि॥ 
+स शेवः नः रळ IN] $ कतुः aqaa से। भा रो ल्टुदे॥मा। 
+TUAIR ar KA NR (हो ke zit 
+I 
+
+
+
+
+
+
+
+
+
+अब TA EA र्ना छुए$स ली क्षें॥राज॑न0ऊ TER DEEE] | 
+IR sån ३४ ॥मृहिअन्याज कअकर सता FER at y 
+GT RTA vy 
+
+
+
+
+
+
+
+
+
+«=> ow WO me == 
+
+
+
+
+## Page 1033
+
+
+
+
+Få नेईद्मण्य 
+
+
+तये॥०॥ fag चोर॑नः।रन्वा नस्यं eR På BRL 
+Rue nat ES So उ4५॥पूरस्तील NRN 
+
+FÅ ह AMRA YR नः रथो रू धि।उ यऽ स।वाञऽयु। श्र DECISE) 
+भू।वास5य रथ सः करते! किं इय रिं। अस्मान! सु। थे. Em i 
+
+på Edet: nT Eo «Få 
+सी पधा NESE Riam; T ४2) नय य, k 
+रीयनाम)यत्िययदा।कर/तव/उश्मसि॥आव/उतू। कु व 
+इपव/वाअमुता/अमटी aged KS la 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+आ 
+
+## Page 1034
+
+TA ये । 20000, ea ae णल 
+र bk = 
+
+
+
+
+
+भ्रातर्मैशूधियाबेसुजगम्यात्‌। ga reisa | 
+
+
+ga रास्ते।०७३६ ०४७ कालरा 
+Tf anaf: Rhaf singadigan a उभिभानहि/ वास 
+md ।द्त्सैतं॥ थीसं)न।गा वारयते ॥ ० च्चा नेव स्व: स्य 
+alsa A a ba धात्र/स्तेोयव।उप।गा सिय द।श्रवव। सा मी गीय 
+
+
+GR | 
+Ea 
+| + p 
+
+
+
+
+
+
+
+
+
+
+
+
+
+VoYo 
+$ | S 
+
+
+
+
+
+
+
+
+
+
+आनजेभर*मां नं॥झभि/राधसाजुयुरलज३०4०द्लिणिनाअभि'सव्येन प्र! छूः सभा Å - 
+Ser STE HE AMETS SOK KO रति।लनौ नो॥अ oe पाने 
+g a 
+
+
+j K. 
+
+## Page 1035
+
+4 
+4 
+
+
+
+
+
+at RA gare må af 
+AMARRA द्रा।व रो चस श भरते १३८०५ 3 
+
+
+ie 
+
+
+
+
+
+| 
+
+
+
+
+
+=== ERE SEE NPR - | 
+
+
+
+
+
+
+
+श्री: Risan प्रा: वर्त बो वतन ag ) हुन्‌! मध्य: प्रतिं। भर 
+मंणि।० Gad mør BIE E द क्‌।यथा। जी चिषे। इषा। मुंदस्वाआव! 
+SAA ।वृराय।मन्यवे। giaz Freng teen | 
+_हिनिउक्यानिच। ट्ूयसे।उपःमे।रोचने। E gnu gan 
+maand के RAINES Ida FDL EL Suk] 
+'उविसवस्यीगोउमतः freak यः ३ ३ पमसे बी जा। सी मं: 
+EBV EEG (ike US TEGL] मर कड, FNH व 
+agiz? E MEERE ER RARA Zioak aa 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1036
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+DEE ud ERTER ===> तत an के 
+
+
+qy नाडवाअर्व।महवा[तव!आरणीमहे/वर्‍यंगडष्णा अस्पर्भयेफतय॥ते'न सवभय स | 
+
+
+(99 
+
+
+
+
+
+| पणत अन 
+
+
+दा »दधासंधच।प्रःचेतसः EGER विव्यिता।युरु।नी थिः अच पन) पुष थ्‌ pa al 
+| ।२२्ब्‌:॥वास।नः। अस्त! अ ये सन! याम वरुष्णाशस्यंगवास। हि'आःरणीस nag o ma 
+
+
+स्य हि। बृ; aa की नासः रिशादसः न DS FANA NAG 
+agaa Rahiim वो दुधा यह. महे ॥अ range 
+TAMLAMA AIVARA NNE सुदान, +] 
+dike मान्या॥मालुः गभे) भरामहे ॥०) अथे. त FF) 
+"अतिथि स्तुषमिञऽ ईव प्रियं अग्निर ENET क रिऽ ईव) प्र: Pad 
+
+
+gear 
+
+
+en å 
+७६.० a foes 3 
+IRTP he å 0३ ES i NP SRT EE NP PPT esr mme 
+
+
+दिनानि gayaa दशर्य नुन्‌ पहि Jen 
+
+
+| å RE EEE ECE gade से :साधुईमिं:। j; 
+| TOPE सर वी beannagan | 
+
+## Page 1037
+
+
+
+
+
+
+t 
+
+
+| hå rang USAF A नया. av र्ततिएवरोया देवामन्य 
+
+
+| Ju दाशेम Ežo i gåen | थ्‌ तरस्य सहस SKEE Kal डति QN så नर्म: en | 
+जधी त्वाहिनून करं OG le IRE E Ne AG वानःडविणसः।गिर:॥कस्वप्च 
+årttmaafadagafaésudvms ना aa aatinaa | 
+
+
+
+
+
+
+Sår यृनामध्वै सेमस्यापीतर्येरूमे en तो मॅरअश्विना रमे मे शएणुवे।ह UEL 
+qhipha 'हवते'वाजिनीवस्ट्रतिवानि 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+
+
+
+93 
+
+
+नीरवेररश०॥ रयत aged 
+
+
+
+
+
+BLA: O 
+
+
+Por | 
+
+
+ard da: प्रियनैधान्नदूषन ॥मधुमतमशिनाबिसीदतसुमत्‌ 
+
+
+322 22053 EE ह 03207: 7076 १५ 2, ETE E E E ३ कक २२०2 E E T E EEEE एकार पए NETT TRETTEN TEEN एरु 
+
+
+## Page 1038
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+कृष्यौस्यरक बुत नरा छदः ये ते! अदा भय विप्रौ य्‌। स्तः वते। नरा॥०॥७॥ TJA 
+Fu ut इच्था।रक्तवत अश्चिना॥ ० TET र्ये nRa: ड 
+FII RUNAIR mi bad कत adi 
+म र बर्जा मयः ईश 
+mada AG UNNER: ।हवृते EA । रव्या 
+मच॑ते क था ूने !यो। विऽ मे ना=)उय।स्त GE येद्द्थुयव nen 
+TRA पर: अना Ag EN द्र प å RG IN L 9 | 
+नः्साकऋजीषिणाः ।ह वामहे यस्य।स्वार्दि छसु मृतिःवितुः | 
+युथा॥० ४ ऋतेन देवे दत sn कत स्ये muá | ७८ _ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+~ ईश - enero = - === ७०४७७७०७७७ 
+
+
+ससाद्‌म हि।चित?इतन्यृलः० ne ब झम्नी बां st 5 विं।नासे के। 
+du IGEN: ता 3 
+
+E å SE ॥सीदते/ वाद साना म खडु रोणे 
+निःयानंविर्दसाचर्यः॥०॥ता दब तिंथया ते हिबः।अुष्टी यु से। दिष्टि 
+ल पि व त॑। सो में। 5 gaama AIG Gs Å दिवः गे वे शो så | 
+रिंशं॥०।अश्वेभिःच्ृ षित ऽ धिः॥ हल 3वरतनीशुभ 
+पतीइति। ०। Sk य. दिप्रीस sa NOIGPIÅ Pi frasen 
+हअ गत्‌ ॥ ९० A संवृ: दस्म श तिः सहे? बसे! ।मदाने।अं SR अभिःवस्सेय। | 
+
+## Page 1039
+
+
+
+ee पात॑सीभेद्ताइधा।७ भहा TINET ` 
+
+
+
+
+
+
+
+
+
+
+sl sus AR RRR NUN AEN S oe E å LLENE AVE E IST PAA AE y 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+, “पालकाला we = - NE एणा पफ ØKET 
+क्क, ह, g SSS T 
+ne - 
+
+
+
+
+
+
+
+
+Teo A nl C चा : डं रे | 
+dn prege år gs: a ।तविंषीभिः। जाः ann FY 
+NG as hdanssåd at शतिने।सु हरि bande त नला बंता य र 
+उयः'रर॑ते।३े ३! वी कव: यत! द्त्सिसि।स्कव॒तेरमाः ते! वसे aa । तज मिना ति 
+Qana saaqe SE | 
+कर ज पुळी 2 माःअजींजन Jag I 
+EKOE EE E CERESO E lit e DUERI UEL NIECE 
+o aagana aR "झस्माके'बोधि।उ-वर्थस्य।चोदिता।मे 
+| Raada gagas त॑मेणयेन।ज्योतिंः। 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1040
+
+
+maa LEE 
+3 
+
+
+
+
+
+
+
+
+agaarafredeadamufusdeagaaassds)n अब 
+टा।अथ ३ डेड ge याः ke 
+grannana$astennqusansganåangepAtquadet 
+
+
+
+
+
+
+श्र ts Ter aenqnst dradd da रह न॑।उज्ोअय॑ 
+
+
+JARAN RAAMI NAA RNA RAN] k JAUN: ईन 
+anaandaa aaam श्यत? UA वंगआामारसु पक्क ऐेरय!. 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+fargar Tar वेणा॥अभिप्रभराधषताकुषचऽसनृध | 
+स्वर रिविस्वः|य भायै थाः अए्शयीमधऽवन?क्वः हयाय ततापथिती्, | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1041
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+च३क व वु विः छू म्व श्यी GIFT SÅ म हे.पुजस्व।दाव॑सः IREN T 
+
+
+2० NRA AMA प छु. | 
+| घ्हागपरमडज्याभस-्दीयसः दं) दाता प्र थ मः! राच सो जसि Fe 
+E A विवशः get gamas यनत यी याते! 
+
+
+-m e un ee a 
+
+
+y ? 
+88 
+ग. iden pi 
+$ made 2000 हि So 329 80 ER Ve lp ar: torm ii 
+å = ॥ ४ ४ 
+
+
+| GR .  _ धआनायलकरंभिणेमपूर्पवतजु जिनमें 
+
+
+
+
+
+
+
+
+
+## Page 1042
+
+
+बंकंइतिंला।दून/भ्रसुर/प्रउ्चैतसं। राध॑। भा गे ३ E EEU यही +ईवा हे Ravn 
+nag GN VAN Å GEA सो मं।अपिं। हे | 
+अविद्वशअस्ते' जर अबत SE का चुन पे सम क ! 
+Trefkårqunktå चा कचात्‌ ३्‌ सम्म भर सु वेग पि बा ० आ। चच।ा। 
+चिकित्साम/अधिं।चन।वा।न। हम सि॥ राचेउ रब बन केऽ ईइ दय इंटर ड 
+TRER 77220 बाकूविव!नशवस्येसकरवशकु विदच्‌ 
+Aganaga हनी EEEE EEA 
+Ataa imagi dga Na 
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+| 
+| 
+
+
+
+
+
+
+
+
+Pe RRR क Sg K - pt $ 
+” mn da Sr DE esi rd e ps mi SIDA mld dar å र; ba 
+5८८ ——— ag x itch Sake र .: ga 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+काज लाच 
+| | | 
+| | RR Amra | 
+Yaga aiana haa ataandaa ERAN रे! अने | 
+| ८१ en pre रात नोइतिनः कत अयात इडा विःइूलीअ इणः सूर्यः 
+आव अधस नविशः सद ।चातः ‡तु?मं हिंश्चः चर्षणीनां . 
+
+
+
+
+
+
+## Page 1043
+
+
+
+| व्वचअ९४बया 
+_ युरुःडवेनेवरुःस्क्ततेगगाथा न्य।सर्नऽश्चृते र्‌ः agana H 
+5 वाज्ौना। न तु: स RA NFR NSTÅ aar ` 
+agede हिणं Set ॥यर्वःआरिरः॥०अर्चतारंडरसिमस्याा ` 
+यीतये॥तता!रव!टि।अस्याव ने॥ ९५ Ard वाम न al ऱ्या 
+सा॥दिश्वा।अभि/भुव॑ना/भुवृत/यं।ऊंडतिं। बे: स चा3स NGINEM: ८१ | 
+
+
+तम्धभिया S । | 
+
+
+
+
+
+
+S d 
+0332 INR EF ka ATEN ४ 
+ka P, X 
+र £ 
+¥ 
+{4 
+i 
+
+
+| Å R 
+
+
+
+
+
+Ly 
+
+
+dimataq aadi सोसऽपंअन॑यऽच्यृ तं så | 
+अवार्यः कतु । शिक्षेः इ य दच नीप भ ।तभषायी ध 
+Fard: GAZZ! NRR वॉजयथा॥ Dr FE AAAT ॥ ९६. 
+यामि/थीऽव॑सःथि कजव Ak see म AER सब्‌ लिव 
+वये रतिं।वा। गा तु के तोड nasa गार्व।न/यव॑ से३'आ॥उक्यु। र 
+BARR ad नाअनुऽकामा!रातङतोइतिंद्रातःकतो 
+नमावाउनन/आउगा 7 वसावा वसः अउन! कार्सऽकातयः॥नं। 
+ARATRI न। इवन।सनिशचया।सं धारया ड वि 'न्वा॥धिया। 
+
+
+
+
+
+
+
+
+## Page 1044
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+K t 
+
+
+mer कचल 2000 आ 22080 चश न बाय बजा EEE > EE 
+
+
+| भिकदुकेषुचितेनंयेमासोयजञमेलत। Fig आलो विराजलिष्ुदेवः+। 
+
+
+ego ` हिरा vo ॥ यःते) न्‌ नं।गा त Anaging adaa Su 
+
+fa Sh Rå RR a यो 
+` ARARA समधि स त्तधसत्यासामरपाविर्श्बासप्ट . 
+
+mynt य स ईने।सु तशव र।स्तासं 8/ नः minde कारवँः॥य 
+
+समिन! विश्वा) अथि श्रियशरप्पतिसप)संःसर इरा ते ली u%eilo 
+
+| å au विव्य क$ स हिना। दूषय! TARNA 
+
+
+
+
+
+
+
+È anda duse: rar भ्यःइ दबः 
+
+
+mima Rugas ge अरोग INA Å स्य! थाम्ने ॥आर हिः ER ea | 
+गला निद्रालिरिच्यते Lo. | | 
+
+
+
+## Page 1045
+
+ug ३ j f 
+
+
+
+
+
+P न॒।सोमेजरंड।भर्व anA npag ९९ a IRARRQVR RS . ...र्‍ 
+चुशत्वा।न RAN चिररः॥अरे१गमा सृ) ते। व यं।रव। हि।अ सि। वी GJIT रः AK: A 
+` > via agaa Ang संघा विश्वेंधि॥ थायिगथा रुः भि।ओ å i 
+i AES MA १मोरूलिं(सु।भ्रुत्मा UIL धभुवेधबाआाना। पतेगम 
+gardam arans ट्विट pe ag maawa 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+मोवनेम।त व/ल या इ तू । यि ।स्वृ्ः॥स्य/अस्मार्क'त 
+ES pl सीया or y 
+aa IRUNA JA ल रो BAN 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| i 
+|| 
+
+री) 
+Ky. 
+
+
+| प० Yo बयः नवृतिंपृर्। बिभेर्‌। था उसा हि र NG नई | 
+
+
+ER 
+
+## Page 1046
+
+
+
+धसरवी।अश्व वगः Haas मद/उरूपौ रापइव। रो ह ते ।यच! अच्च! कव | 
+Vs pt NILEN FA DITT TGS 
+
+Fi सरे तिम म न्‍्यसे॥5 नो लि। नद! स॒त्ये।इल! से व॥ २९ १ यसो मीसमय्‌ 
+IUO: Ta t BRUNE तं।इंड।वाज्नयाम an 
+।रायीहंतवे॥सः इब) TANE सय PaRI स 
+Rang रद की। सस्य: गिरा यञ न। सेऽ श त। सऽ ख लर्न ष 
+A से! शुद्चःअर्टतःइः ३) चित! नःसुऽ गे क थि) ग्टयानः इंड शिवेः 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+से! च'सथऽवन।वद्रो। २२ ॥ यस्यःतेश्सु बिन साऽ दिरा न। चिने तिस्वऽ राज्यँ |. 
+
+
+> aa NRBR HUANG अं तिः स्कू म॑।टे वीर hc aydan 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+masdan RANI रव्या "रोहिणी UTEN 
+MEG KOS ØKE SEak arei 
+| | ॥अ7वऊंड्‌विसि।थिशव्रः। व वतःक्‌ ges vi स्शजु॥ 
+
+## Page 1047
+
+Å Gin eng हू व त॑से। ae वेणी नौ॥आ। थुवे/राथ॑सेप्महे॥ 
+या Ga च/ण्व्य्या।परूं ना मन/ पर रक्त aan * सो मे।आ।अ भव: 
+| नाःड्द!अस्त। न्‌ रुर QA रिः भासृति। ENG ATT 
+
+
+
+
+
+
+
+
+RRR ५.५... 3. TR 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+
+
+
+
+
+«rå 
+ii 
+Å 
+< ३ | 
+| 
+A 
+Å 
+\ 
+d 
+å 
+3 
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1048
+
+
+
+
+
+
+
+
+9 dt dt 
+Ed x me ap 87: , > la 
+
+
+
+
+
+
+
+
+एत्यासधमायाहरीरिरेप्पकेया।बीक्हामभिप्रयौहिल . 
+
+
+योन! ऊ त्या! nmi दसे। र॒व च क या Ra भ्य भ र । कस्य ड खो 
+तेष्सयी'नियला न! डयन! TANZ TRU RAMAR २९ vener 
+दिं। मे दसा arms sad दाशुवें॥ पत्नी वं तरता ५३ सेशे 
+FA ve 0अयो।ज ग्मिं। निउ चं पृण टाः हेरा) KE zar 
+å meg सो! मौधयु तो ४३ मे। PÅ है 
+å | भावसोर तिंबिभार Å FE dan हु॥ AN NIVÅ! am | 
+miara aang ana annan a | 
+'दातकतोइ निशतल5ऋतो॥स्ते हउ भ्येः।ूं 'डू)स्युछुय।भड्ंइ TENT ८२ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1049
+
+
+
+
+ —Z————TTZ—00 0 - 
+tene ee, कक > 
+RR TE E a aa 
+2 AP 35 NES S 5 I 
+
+
+Å . यद्ट्िमुअ्यासिनः ` 
+azis मे रासकतोइतिंशातऽकतो।०।सः। नभविशवूनिश्ज' भ र। सुदिता नि शत 
+ट Agaga तऽवतः। हवास EG | 
+ranon हिताय: रूज रुच3 T Aliina तु NRAN 
+Rt सिं॥५ ३ E KELCES थिइ aq 
+। २७ ॥गोगधयति।सरुतॉ' श्न माता से waan |, 
+स्या देवाः उप Bigan विश्वे धार nord seen 
+ये॥अरस्ते naar gan et नि।अस्य। es FAT 
+
+बवि।सिचः।अर्यभा।त dra ee ans fanen 
+
+
+TRAA nA  उरोन्स्य 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+शम्यसामस्यपी तय 
+
+
+Gog इडः स नस्य गोऽ म॑ तः) वातः हेताऽशव'सत्स ति॥ २८ गकव/भलिय त। सूरयः 
+| ex - धर वार धः oi Km NHK TUG aHan NE 
+E .. ms då erter पा थिवा नि।प पर्थ न) tam ur : 
+E EN ॥ त्या नचु।यूलऽ R सः द्ववः सरु तथडुवे॥० ARN JIA TE 
+
+Mz ।तस्‍्तभु। सरु सङ्क वे ग्यास arms FME शड ३०) 
+be NTT T tdn umag यिवेण. वा 
+| EGE a HEN कका २) अ वासरू! ke 
+
+## Page 1050
+
+अस्य इंड विश्वास्‌ हिल केर समसया Qasni 
+
+
+
+
+
+
+
+
+
+
+
+
+
+है 
+| ५ 
+
+
+PES EEE ळर an i >> i ET स्स्स tene > 
+सुल्क ==> ष RR Tdi ५ म म T 
+
+nn ० NE deita rk Gen AGE TF PG भर 
+
+Prot US Se ९२४ कु VS 5 Te 9994000092 प 
+
+
+MGE 
+RR EN ene Å 
+
+
+नोन्बिट्रस्तयोभ 
+
+
+i 
+
+METTE हाइवैतीनों। ARR EKLE FURRE KO SKJE akasa 
+| सपयेति॥ स यी यँस्य। गभ रा यः रू धि DE नवीयसी'णि. 
+i मूइ५अर्नीननवशाविक्विदऽर नसं) विय।अल्नो। तस्य"पिष्यृषी FO AG 
+इतिस्तवास।यं। गिरड उक्डा निव दूफपुरूरणअस्य स्यासिसासंतः 
+धचामहे॥० ES कडेन साम्ना इह डे ng इध्वार्स। apgumA:: 
+शमस सु॥३्‌ मा Rs oa COREN 
+e धारयार च AIMN RIRE: TG AR दाश षे 
+हा BEE ना णि GER फडः वाजं सिसास/सि॥ ३३ NARNIAN 
+
+
+{ 
+
+
+
+
+
+## Page 1051
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+< 
+
+
+IN 
+2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1052
+
+
+
+भ्य तशंयसिथेवः $ पा राः। आऽ विद्ध 
+स।साच सऽ हिता) थिरीणो॥ ra सदेवः न। स + re भुर 
+E ladd स्य! eb 
+stud Ji PRATI मिरेके AEE FR 
+«n YS नासे ham Faen T ) वा) स स्वच? 
+| grad DE बभ चर्षणी ananas EN eat 
+zydai इति॥प्र।वर्वता।अन वे त। प्र।या वंधग्र। भू: 
+
+
+| वरत याच इडर क्यामरा रोगा कणा 
+
+
+NY 
+
+
+senge rd br RN ROSES 
+
+
+
+
+
+i 
+| 
+! 
+| 
+
+| 
+
+
+डी dra he (मजा न दिश्वी। naked ull 
+i N manz ।सि।दिविवेस।गी!$ A: नसःऽभि TA ke fa NET | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+स्या! श्वसथोताई प॑माणाः। Rasa aTTURILRs 
+'सरव्याते/अस्त ॥पृर्तनाजयासि॥त्रिभप्टिगत्या।सरु 
+FENIE IIR AIA shamma uam 
+याव्यात रनाहविर्यागवियेस॥तिग्मआ्युधे'मरू तभ EEG 
+
+## Page 1053
+
+7 aeut गा NERETI MII केण।ता नअ | 
+विच॥मरेगउग्रायातवस 5 सि रय! विव5 साय प ३३: ॥ णि EN 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+RE 554 ties Wt Wiles å seaside: as 
+
+
+RURAS T DRL 2730 
+
+
+
+
+
+vage kitana हि'सन्‍्वें।क थि तंग वेदं दश ३३ ugras मनी षो। 
+| n> साधित RUE AVM NÅ 
+वएविविद्वि।यव/ते।इंड।सुमष तस्त, हिप्सु5२कतति। न मे सा विना 
+0 घाम रित्त।मारुवण्यमश्ृवयावारथों ७। ar deen d 
+O  छष्ण१द्काऽभि। सहसः ५ अत्‌? pe: AN Mer d 
+१... अनस KEE ag ण।-वरंतं।उ पः ६. (चच भंशूः मत्याः॥न भः! | | 
+| तृस्छि$वा MIJAM JAA ANTR: अंद 
+EE प्र ली उप ARARA INERTIA LAAM: 
+
+
+€93 
+
+
+DEE RDS 
+FYRE Ks 5 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1054
+
+
+
+me Set oer DETIAN a HACE OS कक ७४८७ 
+eei mere rem remem एक OEE EAE PEE ne eee Ty ae 
+masi दर ड an प Pie reder snr MT 
+EE LEE 2722 ===> 
+
+5 अ aa a essa Ms. sn Ne FOR 
+fl k ET 30३ जज कर BET ROR: na प्या de EG EE db A AEE I å 
+d rdp OE Tr RS SE ESN DEPOT TN S oe ९. - =-= 
+
+å 
+७ 
+
+
+REAA ०९ 
+
+
+i 
+
+| Je 
+
+8 aff हे॥ ३७४५ ७। सः १ आर्यसा नअ sag ed ह. 
+
+क RAFA तिअचे!भिंदः विश॒ मतऽभ्ययुवनिभ्यःरणी | 
+2०) अध तिऽसानं 'ओअयबञ्ज्ेणःव्विन EENET KURE Sasho hs iie | 
+
+TA amuja उत!अविंदू'०॥दपभाचवेणीनायनध कजा, ` å 
+EN age X Sy स्तना नान अप अज़ञयः/दास$ 
+
+शल 
+
+
+
+
+
+न 
+
+
+? SSA ४222४ 
+E PES SRS NR ४,» 0१४ ००७, a y 2: > 
+T EEE ii dr AE es ATELE 6 DEA 
+EPLE र AA eS pe 435. 
+EEE %5 WM = RAAN 
+Poker ge 2 
+KE 
+
+
+å wagamama: सश्मस्युभय।अद्दौउइवा रे वाचू NA pe 
+i ॥अपॉसि) कता!सडचःहाम्र IA IFNL NO TF sg A! ; — 
+
+## Page 1055
+
+|... engen अवितासयर वा ने अधि: वृक्तासःवार्जस्यभश्रव å 
+3 | dre GR rol en 5 | 
+
+
+
+
+
+E 
+
+TE 
+AE PE 
+SÅ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+== om ae 
+vev" TOENE AA e मर काराला क 
+VAN ET i a $ ARS 
+
+
+Rr कगरा | "पश ABRs 735 VED RRR NGL SER d 
+
+
+ पृ०ष० MaN १।सचचयअञ्ञानःह्य्यं य्‌ म ९) 
+
+
+
+
+
+TT E ia e T aa A aE SA 
+
+
+
+
+
+
+## Page 1056
+
+
+
+
+न। OR र्‍या] STI भ्यः॥स्ते 
+
+H = Sk Ef] तिन धवे) खं" अश्यॉ 
+
+गा।भागे।ऊव्य॑यं।य स उ-बति।त स्पिन! ते। मा 
+` t | 
+
+
+| > ।अ बुत अनुउ स्वाय अर्देवश्यु:॥ सवे। सः। एवे सुः 
+
+तभयेहिःवे। ततः कअ नी AKA ul 
+agn wn सि। रो चने ÅSA समड॒स्याअधिविश्चिंगय ai ha 
+RNIN IMIR GAR SIGT NE ॥ ३६ ॥ सन) से। सेंबु। सो स पा! 
+
+
+46क्रासिपरा वतियरेजीयतिद प्रहन्‌ ६ 
+
+
+E cec 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1057
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+n 
+
+
+MATITE २ 
+
+
+: पृते। मा स्यस्व ।रार्थस। सूनताऽ व॒ता।इंड/राया।प t omma 
+थ्‌ nåes ले ३ व! न्‌। आव्यं NET 3 
+_ इंड्रासचो सुत्तेशनिसद'पीतयमर्वगरुधिःजरित्रामथशवन!अर्वभमरवः ना | 
+वा। देवा स! आवत! न।मस्यांस। अऽ वः४ विश्वा! मता नि। वा य॑सा। अ भि३ ३ I 
+edu meg )न रस नक IPA बुः चारा 
+genuan ॥उत्तउ अर ।ओ जिंछ। त व सें। र Rn १ 
+सिरे भा सः! आ स्व॒ रन्‌! इंड सो म॑ स्य। यीत यस्व: 3 पति! य त! डे) दू थे 
+इते अतः हि।ओ Han स।ऊलिड भिन सि।न मे तिः च क्षसा) से षं । (चि 
+
+
+RE TR | 
+
+
+
+
+
+
+
+
+t+ 
+
+
+
+
+
+ver > RR 
+
+PN र 27, 
+a 35205 क, RENE SEN ASA प 
+Deg > 
+
+## Page 1058
+
+
+
+EE - PE SE शक य rs EP I å 
+> å ENO PNR RNR SIRS d Yr on" ETT >> 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+ET errr RRS बा पा ro TET NTN sa Fr 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qq अधिड्रवरां॥ gsdaquanaseuaradaudus श दऽ rn 
+PG Ride म घडवा Å सचा। दू था नं अर प्र तिड स्कु तं? दा वा सि॥ 
+
+
+Å णी: भि ज च। य सियंधव वर्त त? राये? न!। वि श्वी। स. ऽ थ था! 
+
+
+चू gasni gk nA विव) ए ना! वि।ओज॑सा। दा वि TN | 
+
+
+rase ne विश्वानि।भुवनानि। व Ra दांव रेजे ते २ तर 
+Aziana आसन डावर श/चिच्रापातु।अपः। ना व ज्वि न। ड5 
+इ ता। अति। gran ०) विश्वः RAAEN रा जन) ae N 
+शतियदे ष शाटक पछो ध्यायः समाप्तः » ओरष्णापेण्यसस्त्त) ७ ॥ 
+
+
+| 
+| 
+| 
+Få 
+
+## Page 1059
+
+
+
+
+
+
+
+
+ले।इंड/अ मिड ८:। अ सि।त्व। यः) चि इव5 कैसी । विश्व देव महान्‌! 
+KE न्‌।ज्यालिबा।स्व। भ FE वः) दवाः।ते Faen 
+
+मिरे/आ।इड्ान/ग थि। त्रि य स वाऽ जिव अगे स्यः) शिरि न। AA: 
+Tyg या यत ।उभेञ्त्तिय्‌ TEIGA 
+
+
+
+
+
+
+
+
+
+
+
+Vera gqausu mifano y: si ANE ar 
+qaaa ९ ॥अर्ध NF UH हि 
+pa agaaga unne qa Fusa “वुवा 
+
+
+
+
+
+
+
+
+| तभ हिशाश्चेतीना 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+Å EEG आदेश 
+
+
+७ ३ंडौय। सामगायन! विधा M Duguk रुते।विषःऽ पितें। पृ न स्य॒वें ॥ I 
+
+
+Ke SG er: RES 
+
+## Page 1060
+
+---__7--_--__-. 
+
+
+लि Se y J IRL RN SEN og 
+== === केन EE PNP NE IR NS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+टी å हट र 
+५ ह 
+
+
+
+
+
+er 
+
+
+MG |स/चितःउर ऽयः देगें ति।हरीइ तिइ्‌पिरि स्य्याथया)रो।रथे उरु ग्यु 
+| ९० An% उ LEI य: ड्‌ टू) आ। भ र! आज NFN] ma Ei be 
+o 3 ते।विउ चर बेण्ये अआ। ugani; ।चिता।वृसाइति।व्वं'साता। | 
+| Daaa कृतो।बयविथ अर्थते. qiga TEE EEES 
+
+o हुतवाजड्यंताउया Trand Ty KURT GÅ | 
+E+ | a IR BEC :॥ सभडइंड।स्ता sAEM FLG 
+| (स्व Fm " MURR EEEO IEN 
+तिविथसः तव श्रवॉसि।उषउ मो निउ मडल amiaza 
+| हे 
+
+
+
+
+
+
+
+
+
+## Page 1061
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ue न्द्र स्यत २ 
+
+
+
+
+
+Si विश्वौ दइ उ॑स्य। मक्षत वरू निश्साते।न न॑माने।ओर्ज॑सा। प्रति भा गं। न। दी | 
+aadi रातिं।वसु5ढो उप।स्त,हि।०सथअस्य/कार्म/ विधत! न! रो सति | 
+हर dama MAURA तिक काभि'विर्शवागप्तासि/स्परथः!अदा इ... 
+FR drikke, RARU area mgg) 
+
+o शायौशति।शिश।नासात ERRARE ERREEI paat do 
+t X ती।वः/अज र घऽहे तार sau शृेतारणहेताररथि$ Å 
+E ९ स EK: aaisa nisana 
+तुं/समानइंट्/अव से।हवाभ हे'्वर्सवान।वसुऽञुवं॥ ३ naana | 
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1062
+
+
+
+
+
+
+
+
+
+
+« ytet a rn Gaarde ; 
+i oN इदे ahang वी यीणि॥द धां मि।तिमर्धुन/भक्ष। अन्न दि = | 
+| «TY Hna A EENEN Vel YTE! 
+|... शि।प्रारतस्तोमोभरवावाजबयंते।इंड्रोय। सत्यश्य gene ua ger 
+सतिनिमंशऊंरतिलशआहाकः दमी कनि यासयिस | 
+ig स ।िश्वा। जा ता नि। श नि+आ स्मि. ङ्का । सतस्य मा। ड दि; 
+adm gåen वेनाः अरु ह्य! सतस्य 
+3 enig nd ah व्टदे!आ।अ्रति।अवी च द/ अधिक 
+
+
+
+
+
+भ्र्ततुसमैनेषुप्रयाच्मा e | 
+
+
+aata: जा मघः बना इंडसुन्वतेगपारांबतंगयवापुरूःस र. 
+& । वरु EU IRIM N fråga y qma: घर्थकू/ ना NZ? | 
+> /अवाषरीव॥नि|सी दुन स्वस मे णि वजये ई अपी पतत्‌ स Tas FR 
+यमान/लायसी।क्षतर ताप रं दिवस, ऽ पर्ण! गलायेसास बृज्यिणि।आाअ भर 
+Lagata रिति।शयते।उड्गा।वञ्चे 4ऊ भि:सुतः/भरति।अर्मे।संध्यर्त/पुरः पंख. 
+fak ere Hadia Ran नि।रा दवाना लिए mimma 
+i f z NARR RANAR È Andaka 
+।विश्वऽस्स्सा। पतर (वदू ति) सा। न संद इष ऊन! इ हाना थेच । वाङ अस्मान्‌ 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Bresser ansees ree DIN TE न ड़ 
+GE adr: नट 3 a 
+
+
+armada 
+
+
+
+
+
+## Page 1063
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+as ता।आ।ए्‌त॥०।द्यो H कं।वर्जा या विऽस्क भे हनौ व। at | 
+ye धाम: मे yt tu nat azaua qA | 
+| NFU f; PIEM aR Aam हुव्यऽ daa AR å 
+प्रुचश्लसा।नरा।रा नई gade बाइ तानसा साक | 
+| aa Auna MATIRTA ZINI उन्रीषी। | 
+ER AER EEA iI ~ पक in a NF: re 
+
+| ध।सं3सलेःउरुव्यत। NTS rn sg du सि त्राय। प्रः र्यम्श। सच 
+-aama Maaa modada शर्जः्सु।गाय त्‌॥ Eva ९२ 
+
+
+Dikti 
+
+
+ARN 
+
+
+
+
+
+
+
+
+EURENA र्क अं "तिरुणां ॥ते। यामो नि।अ रू ता सत्या ना अ दै ज्या 
+अर अ Fastnet MORRA pi 
+as am लिद्व्यानिं।वीतय॥रातिं।य द! वा'अरशस।ह्‌ nag 
+
+| सूर तिंवातिनीऽदसचाची À AsfaT तं।नरा।ग्टण्ा ना।ज मत अग्निना॥ 
+maai anian ति।या ard भि:॥अंतरि तिं।यविर्चे उपरि a 
+maaja p aqa ea Gag Bys भि रमिचेःप्रतिडूच्या 
+
+FE AG yi aan चिसोमगोऽ आशिरं o ॥ बट मदा 
+
+
+च'असि।सूयवटामदित्य।सदानअसि।सहःते।सतः।म हिसा। प नस्यते।अद्धा दें 
+
+
+
+
+## Page 1064
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+| ३ मह!नाअ सि।बट्‌। सयः श्रव॑सा। मसान म सिसता देव महान! असि। मड़ा दे | 
+कय | 
+Ro an व!प्रतिंअद्‌क्िआऽयती AERAR: | | 
+ean युः।नि [अन्याः अर्के'आभित।विविश्रे।ङ्ह्वःहतर्डो!. | 
+| भवैनिवाशंतरितियवैमानःहुरितः जा विवेदा माता। Et AS gå 
+'स्वसौ|पादित्यानोअम्द त॑स्य।ना लि! | अनु? हो त ENST 
+st rase ऽवि ३०2 ।उदऽङ्रयं AV fer gas as A 
+anger oa री!आऽडयषी।यो+अा+मा/अङ्क्।मव्यः र्त्त ॥ < । ९५ | 
+
+
+
+
+
+
+
+
+
+satah | 
+
+
+| 
+
+| ree EAE EKEKO E i Ue k UAE BEN लि या। स ददियान/ अग्ने। 
+
+ष्‌ agal चिकित। विभानो. Fani ।आ।ब३।०॥चो द्सिन। Eo IE | A 
+
+R: बाजउसातये॥ओ व * यु बद! sjel WAAI PA! आडवे जिन IG 4 a 
+
+3वासस॥इुवे।वात॑खर्न। क विपर्यय) सः पाक LE s C KA: RE e H | 
+
+था।भग/स्यऽ ३ ३। ri rafia qizi शबर (परत Hung 
+RESA अयं 3 ma: ana & उडव) 
+रवंत।अय।विश्वाधक्षभि।थ्यिय।अ] a 3 da l 
+
+मतए'विश्वेंषां।ह॒ह। कप हि देशी बंद धे सअ Ruaa aan ९०॥शीरी 
+
+
+
+
+
+
+
+
+
+
+
+## Page 1065
+
+
+
+
+
+
+
+
+
+
+AN 
+
+
+
+
+
+hota Ys Di 4५3 Si NG: BANAK 54 5 r २५५३ A A DE dt &. r VE ` T å ER A 
+så ERE TE 0 तकर तकर Se AE ५ 5६ FAN ड ` i i EA 
+MARES ग EE ONAIR OS RRR RN y 3 हि PT NET så å ESN 3, ००.५ å å र 0 is 
+
+g ` BRIT Re E Å 90% OD sta RN RES SEN? I vi MK SRST SRS EEE VEE ५ Fag sekk A क N IE PES A किड EE PE oid ia 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+क. 200002 mer tia nr NEDE ७ क ती ली आकडाही, S EEA S जुग 
+
+
+छक्र 5 TENT EE j ~ —_ TENT 
+da f EELA 2B ar he I ET NE EE a A int NARS hiss >. FEE NSPS sh Er ३-०७ ær 
+ig BARE EN Se SU ET GJEN AG pr TETT NETT a 7 PA र्‌ 
+
+
+miaa | 
+| 
+
+
+AETAT Å GE GE > .्ी 
+
+
+= = 
+
+
+
+
+
+
+
+## Page 1066
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yogo Tags MARAA: Erk ae ete n ERAN EEIE 
+| ey pda ar få दे सिरातीमद ea ut 5 
+TÅ स्छिरनू॥यस्य॑ थां ह aÑ poe | 
+
+
+Aaqa anana लिए frau रहें: 
+ZVIR EHN RIA k sR! Uhr aig 
+a! य्य १ कूबि'द्वासः! शिरः! हव्यऽ्वा् IIAIR a 
+må Usage Le TRA 
+fa RER भरा मि।ति॥यल/अग्न/का Fa NE 
+sara | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1067
+
+SÅ 
+
+å ॥ 
+
+e ad JH 
+| 
+
+> å 
+
+å 
+
+
+| GL EE MR नहला यम साहस | 
+
+Taaha anaa aaa 00 
+
+ENRE fren pa nimga स्मिनब्जतानिभएट्छ॥उयोङहिः | 
+
+Saimaa iaa ani कऽरासःभग्निःह्वानाअछ।, ˆ | 
+
+fF am FT थिदी।वि'वङ्त। ba Aer Oa 
+
+(चुळ ed SSS र ऽहव।व्मना। -% 
+| 
+
+
+
+
+
+थे हभाय।राये।निरनी वू सि।भर्ते। यः। Å dame IT. 
+Eresi nag aanak re Å 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+„r —_ san he man m : 
+== === == rr EE I ee 
+
+## Page 1068
+
+sr === ===" ; ‘se ES 
+जा 3 
+K 
+
+k $ 
+i 
+i | 
+Så i 
+så E 
+i 
+
+| 
+
+
+Togo || शिविर EAN रुवसोइलिंवरुटव सो। वि श्वा! वा मा नि am | 
+GE hha FÅ e होती मड अनी) मधो? नापाचा। प्रथमा G r | 
+
+| lE EE eE URE E यी: भिः।रथ्य। सुऽ द्‌ क si Å | 
+X žgan aana | 
+pon maaa: E «gs उका सका | 
+g $ ATII I t 3) Sø 
+
+Sr ed NG क्रिया कर 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+qaand ang af प्र क | | 
+maaien ९४ "उदईला।यः'चिःहिताःवि्ति। ९५ | 
+
+
+å 
+| 
+
+
+
+
+
+| via aoaie aia मेय॑।धिया। बाज । a o g 
+
+## Page 1069
+
+GERCO IREK 3 आग्निः।युरुऽ प रास्त एष यस्‌ 
+| ee ee TH भि चिव! | 
+I$KfuFafa ली३्‌ 2ै।इूद्या य। रावः ह्य सऽ अध्वरः आ आग्भ्या 
+ent सो ug स तो आहय 2 
+| ॥ ९८ NERVE HTA EGAN सरदि छ या। यव॑स्वा सोस! था याड ठ 
+दाया पार्तवे। रुतः ॥रक्षःऽह। विश्वऽ चषि: आभि'योनि। भ्य हतं ॥डुथास्‌- | 
+| RIE Je hidden > 
+
+
+
+
+
+७७ LES) cn ne 
+rie ve år å क. 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+अशा यय डिड Ri tenner व कक व 
+TENNE Po Rn = Et DE | IHRE te 
+रुपः j ze कना चान फर 
+
+
+
+
+
+
+
+नाँ।अ नि।अर्ग। महा ना दिवाना।वी R eanan anu | 
+r Sariman amanaia खेड ति।नः। आाउचास॥ ३ | 
+INAH (इ हिता॥ वारे ३र्वता त ना थेह 
+Br (आय vor p need EE RE UE CTET sei 
+ain fasene tig Å ni ee nafnst er | 
+य्‌। य ते चे अस्य। ३ तडे ड2। मरे ब। आ। वि शवी। 
+anda क्रं TEN चमे हते I २ स t Ay per } 
+
+
+ATAMI ARA het प. eg | 
+
+
+
+
+
+
+
+
+
+## Page 1070
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EN p EN grr eC EN : 
+EE p SR IHS SNEEN ESE ON 
+Oa == = 
+
+
+
+
+
+
+gadaa Rigas सर्थुधारी! सृतस्थावेघर्स॥ — I 
+UTIERUGEF gjen स dauam si fa aaar | 
+द्येक I GY Ei VA भ। घरुण:। Rg RAAF i 
+EJN ९८ ५आपिकदतःडुवाभह Fe TEL अगर 
+A सिरत naaaj सिंगने चा, 
+| कऽङज डे सहे॥त A KEREI 
+
+
+| BUT | | 
+PR GLT TS साउत आत्मा IGEN FN ९९ NOYA 7 | 
+
+
+
+
+
+
+
+
+
+S 
+: å 
+RS. 
+è Tord 
+
+## Page 1071
+
+i l i eg 
+i 8 
+| i 
+nt | ek i BN f ; 
+तक ve mrs ØM Cr Rs ooe UN SS oe $ 
+si DE RE Le, RR 
+iR Sa is Sore HE यन्य २ = 3 Gerner स te 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+LR EE 
+- z क्क ETE 
+SEN त द nr DRENERES ss + हु å å Å 
+EE FT ETT 6208 ps se f RTC ERTER, 9 
+SA Ni LR क nsi 
+
+
+
+
+
+'यणी वी:5 ईव!दीयति॥अभि।डेण्यौ amainar वः विया कू त।अ तिरा सि। 
+धा Ede grenda वियन्युडभिः। यवं मानः Tag! fine) 
+
+वाजो यार जय ते ॥ ए ब:। विश्वी नि।व! यो।शरे।यनऽड्व'सलैः थिः॥ परव॑सानः। सिसा ` 
+स द Moron वग्वनं। ao ng) k 
+
+RIR E O RE तः।अयः देवः वि'गाहूले? va! et 
+बि'धावति'तिर्‌ः! id th ad få GE | 
+| Raa तिरः। रजञासि।अस्ट॑तः॥ प॒ व॑सा नः। सऽ aae बः प्रद्धेन॑। अन्म ना।देवः। 
+
+
+
+
+
+
+
+
+
+
+nt nse et पंथ EEUE a a छा 
+
+
+DAS KN 
+
+## Page 1072
+
+2 T+ mme rm 25 or 
+
+Å 
+
+i 
+
+Å 
+
+Hå 
+
+å 
+
+i 
+
+tj 
+
+Í 
+
+
+
+
+
+
+
+
+
+इक: यारया[यवतेरतः॥२९॥ org ।सोम।ओे वि।च पर्वंसा न। aadu | 
+E | akan at ति।स नै।र श विश्‍वाचा सेम सो भे गा॥९१ सर्न!र सरउ 
+tR दुभ ष सो मम थ॑।ज हि।०। प बिततारः। पु नी तन॑ "सो में! इं द॑ अ। पा ते वे ॥५ ref 
+å 'ज्याभज्ञासर्वाकलवी। त वझ Anana २० ज्याकूयञ्य सस्था ०} 
+meg चाचणी a RENIEC CAITE KEA KORAC 
+RR rr + व यज्ञे अवीदुध न्‌।पव॑मान।विऽ ger । रयि। न्‌ 
+PIAR Ardia shaman ०४ २३॥ सउ डू विश्वतः प॒तिः 
+Fara Autoria daana नयात्‌! यर्व॑भानःसंगे३ तति 
+
+
+{ 
+Í 
+
+
+
+
+
+
+
+
+
+É are 
+
+
+
+## Page 1073
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+È ARANE RRNA: A ARIJE: gä: ।अानःअनर्यः SO | 
+
+
+
+
+
+
+
+
+
+
+
+
+पन्च  शिवानथअवेति/अंत र्सिणशशैजतःेऊेन्य।वव॑ंसानमरयिःविगराञ्तिःद्यु3मा 
+
+| २८ AÑ: hist ।ओज सा॥ब rn चीन ओजसा।य वसा न। rase ug 
+
+ह बु टेयःसयते॥उ त!आते। मिर्तेङर्व! द s वी हिरण्ययीयर्वमानेनासुउ 
+
+| ekan २४ re ar ।महीइतिपव॑मान। श्खण्य 
+
+| ika Ei GENRA चश्संसा होत देव्या gur eks 
+
+| भार॑ती।ष ब॑मानस्य/स ।सही॥उसे। न यज्ञ TECI 
+
+l GF Yanina रोअयेऽम।गोचा!पृ रः; यावानं'मा।इवे Vo ERU | 
+| मानः।श्रजाऽयंतिः।वनेस्यरतियवृ सान! स åren MANIRE ev I 
+
+
+amimi hR RRi पर्वा न स्याआ ग त वायुः हस्प 
+K; ine Uan å mai पवसव रिव य (अ 
+
+(बारे व।अस्प३ युः॥ अभि।त्ये। म॒यें। ide ति।इंईः/इति।क्ष उन | 
+अवतः! hod nå सु वाच! अव ए विचे।आ॥ सभि! वाउ त श्ष 4: अ ज॑। | 
+इसासः।इ दवः be TUE aa tåetaquardisear | 
+निन! मुज ति।योर्षणः दशा बने। की यत'अलिशअवि॥ २६ १ते। गे भिद सण | 
+।मसाय।डेवःवीतये॥ aoai वाय।था र॑या।इंडाय।प व ते।सु त d 
+पय 'यद्त/अस्यपी पर्यव॥अत्मा।यज्ञस्व रंत्या।ररवान! पवते। रूतशप्रत्ने/नि। | 
+| | 
+
+
+Í र Å 
+\ i > 
+a de i n 0. 
+s Å 28 
+r Š ee 
+oF 3). ठु 7 
+
+## Page 1074
+
+EIN SSE NR ae EA ENE 4८६६७०३ ८६४७३७० id al ot ENSS A Eg š Å P) 
+nike EE Ey ह$ र क क 27: lea 2.0: a E E 
+se oo RN tg) en स पना PS EE म Sr MRI PENNE 
+द må FR ss mm EØS 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+TT 
+
+
+
+
+
+ATT क ——————— == 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+we | पाति।कार्थंगएवपुनानःइं डैंथुं)म दे 'सदि्ठ।वी तयें॥सुदी। aan Menas | 
+oe Naijiria ads ag ना:अस्य/येर्सन ५त्र।धार॑। | 
+area duse ama Raag a | 
+MINALAR å ० 7770 
+
+
+| 
+
+
+
+
+
+## Page 1075
+
+
+
+
+I NE | A | Å ४ 
+
+GR म्णा व सानः।अ vase ie सति! ववमा न! भू ana विदाः Y Uoo 
+e  . p adaa ।शण्ब तिंवे वर्स! २८ NA र रिप्रिय।ह रव ih li A 
+§ ganagana ती सः। वाय! पि '्साकं।मदेन।गछति॥रण' | 
+| RGT Ås rm na koma AiR fame | 
+
+
+wo 
+
+
+
+
+
+Edt 
+å f i 
+fl å “| 
+T a हे Fe 
+EA SENG UR å JE , 
+छक्का 0 —F—Zo me ; व ne EE NORA 2 å Så å ; BE 
+y f a DN ; १ et 0 FER år E EA, AOE sks 02222. 
+$ ` hi ५ | 
+j {i 
+/ 3 
+
+
+| ama भिः अस्मभ्योरों दसी इति। र॒थिं ।मध्वः।वाअंस्य। सातर्येमश्वव॑वरहनि।ं। ति 
+
+| CORN EOE IEE IE IEE EEE faren | 
+
+I 'पनानासं/च5३5सर्द/शछतः वायु अ खि न/॥ ते! न था व सुः वी ये ३ डस्य। | 
+rd नानः स ॥ शत स्वया निंःआउ aina म॑ rene 
+faq: x gå स। धीतयः) जचविमाः। अमा ट्यृ३ द्वे भ्य वा! मदाया के; ng 
+जाने'अति'सेव्यःसंशगाभितयासयास सि॥ ३० यु नानगकुरूरेबू।आ।व | 
+शि RR Raai अव्यता/मयथान:आ।यपक्खानधजहि।| | 
+विश्वा दिवन उंदेरूति' य।आ।विश॥दुशिं।दिवः।प Raud | 
+
+
+Nn a à 4 हे Er DER E 
+“i EEE RS 2g lt 
+ER reg mr & ६-३... 7 
+
+
+
+
+
+er 2 irer en EN E | Å 
+
+## Page 1076
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+हु 
+på 
+SG 
+Er 
+; 
+
+ग 
+B; 
+i 
+
+
+९१०७ 
+
+
+
+
+
+g 
+h 
+3 
+8 
+|)...” 
+i 
+| 
+Å 
+S 
+` 
+ü 
+vr 
+S 
+“le 
+eg 
+SA 
+A 
+NF 
+Ji 
+Jb 
+På 
+6 
+på 
+NG 
+Pa 
+
+## Page 1077
+
+ko 
+M 
+Ve 
+| et 
+Fy 
+i 
+å 
+pe 
+(SA 
+a 
+i A 
+lj 
+HER 
+nA 
+8 
+i 
+
+
+| च०य० 8 nba 'अर्थिं॥सह॑। न सो म। एतऽ स; याः॥ हः चक्च॑सं । दा। वयं इंडू वी तं । सवः 
+
+
+। सक्षीस रि।श्रऽञा। इं ३९ ॥ परि प्रिया! he IE 
+
+
+a: ॥सुवानःया Aasta १४४ क्षयाय । पन्यसे जनाय सड हेवी. 
+
+
+तीव चर्निछ्ञयासःरू्नमातरशर्चिःञातःजातेजतिअरो-चयव म 
+न मुदी ERR ।सघ्तधीतिऽभि। हित।नर्य।अपिनत/अडुस 
+mig sg IZMA NAKARARAAN टर घुः ॥ 
+
+gadan ३० ॥ आभिःव द्रि àon यरय ति।बा र 
+विशदेवी। आतर्षयद्व॥ अव।करल्ये। नः।वृम।त 
+
+
+| 
+ii 
+HÅ 
+} 
+i 
+डक ee mm 
+i 
+b 
+
+
+'पुना न जे पुन :॥ सच! aA न वीय से।सुऽउ क्ता यी साधय! पथा मल्यभवव! 
+Hagn प वं मान। स हि श्र ब! गो। अश्व रा से! वी रऽ व॑ त) स न 
+
+
+ret ee gå 23 ua सः! र थ/3 इवा Aa anA 
+
+## Page 1078
+
+N nA igana ma न्वा नासः। रथाःऽ ३व। द्‌ थान्विरे। ग भ॑ 
+2भर्शसः का हि णॉउरव॥ राजीन? ना प्रर स्ति$ नि: सेर सः AA 
+अं ज्ञप युः नाचता चात Aino रि सवाना सः इंदेवश मरय ब 
+हरा! यिरा॥ सुताः अर्ना या जायानासंः। Rasen ag. 
+97 
+
+
+बर्सः। भगं सरां वि।तन्वते) ३४ १७ वी हारा मतीन त्राः 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+सि।सो म!योर्ध्या?ता नषि ९०० | 
+
+
+
+
+
+
+
+
+
+
+
+
+| प*्व» NAAR tingani आ यव॑ः) संऽ ईचीनास:।आ सते? a 
+| ०२ तारः सह जामयः वद्‌! एकस्यापि यतः ॥ नाभौ) ना भि? न आा। द | 
+
+
+| 2 च श चित सै) स चा॥ anadi हे १ आभि! far | | 
+
+४ . दिवशयद॑ं। ads निः। सु patina Ae aa d 
+pr 34! अब स्से। गा य्‌ त? नरः! q मानाय)३ं दवे १ ल्यु भिगद्वेवा न्‌ ३र्यक्ष ते॥ | å 
+
+| ` अधि।ते।मर्थुना।वर्य4अर्थवोण्णप aan graan 
+
+| - giwang ला नामाच (अवते॥ शा।राज़ दा ओष « 
+
+|. चीन्यः॥ अश्र वें । द॒ स्वऽतंवसे। अ रूणाय। ट्विऽ स्ट रो ॥ से मा य। य 
+
+
+
+
+
+
+
+
+
+
+
+## Page 1079
+
+
+
+त 30८0 rE Fe 2.33: 
+f 
+i 
+fb 
+§ 
+3 
+
+
+
+
+
+Pi 
+på A? 
+है 8 TE > 
+i ; baa "7 9 O 
+किक ळक... बज ES ee 
+
+
+|| थं'अ चव हस्च॑ऽ च्युते us भिः gå सो मपु नी त न मर्धों१आा। था. 
+ECEE DECORE स॑सा।इत)उर्ष सी दूत! द्‌ न्ना३ त अ भि। श्रीणीतन॥ 
+इंड! डू alkener E al EG 
+us geren डर य।से। म!यात॑वे। सदाय। पर सि-च्य से मन:5 
+। विचः मर्ने सःय तिं पर्वमा नसू ऽवीयै। रथि।सोम। रिरी हि? नः इं दो इ ` 
+| तिर्‌ ण।नु।यृज्ञा॥ 3७ nar कु ने॥ 
+इं डोय।म थुम त३ तमाः आभि। विभा बा m 
+ihanda Aaz च्युत! शे ति। सरन! AAR AAN | 
+
+
+F 
+
+
+$ K: 
+है på 
+A $ ग. 
+
+Å 
+
+RE. 
+५ > er EER ५0४ 
+CR Se ; ae 22000. 
+aa za ai - hå ir å 
+
+
+g ~ opel 3 å 
+på å > “याक. ma 
+का: > este 
+
+
+
+## Page 1080
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+ENDE 5 EEE å कु के — 
+oo Å Tedder å च रक E ८ 2 ला FEE TR मूड oi 
+TE SER ललकार å VAN FT T e 
+
+१) i 
+
+tå Å 
+
+Å få 
+
+[i T 
+
+på Hi 
+
+i 
+
+
+
+
+
+ego | सोरम: गोरी इति) अथि. श्चितः॥ दिवः।ना भा विऽ चक्षणः आर्यः वारे स॒ | 
+| २०२. ही य॒ते सोम॑ः! या 5 ऋ तुँ। कु विः। यः? सेम कृ स रोवु। आ। अंत रि तिं। 
+E iaJ Hd I Mamai ae १ य बाइ ई:।३ व्य्‌ ति। A 
+E . FET विश } जिन्व॑ न! का वा! म॒ धुः श्छ तं निर्त्य स्तो चः। च| - ` 
+| 'नस्पर्तिशथीना'भ्ंतरितिं।सबःऽङुर्घः। Raa मानुषा!यू गा usa | 
+` धिया। दिवः। य दा। सो tu हिन्यानः। अबे ति॥ वे. स्पा im | 
+[आव वमानाार्या।र थि सर HI Su aid GA | 
+JAN २९ ॥ इतिबज्ञाके सप्त मोध्यायः सभाञ्नः। छ ) SN १२ | 
+
+
+
+
+
+
+
+ji 
+E 
+
+## Page 1081
+
+å |! 
+
+
+
+
+
+å 75 Ms a 2 $ Å ù 
+2 WW सस S >> re mai gå ene 0 Å ETD SSR 
+NG याही क र === eee = a nn अदा 
+an ort 2222 EGG en NEE 2-2 TR >>> Lr >>> > >>> 2... mene yee mm se an, - —— penest 
+7 हरण परी शि x ee = कक याय E E - = HR - 
+$ ; Sn 5 क ea A 
+på SE EERS 
+
+
+| र | 4 
+| 8 र ringen नः अर्ष ति। agal SNIN få $ आदि ål पायो ° TELET निःऽ्ङ््त॥ å | 
+ainiaan ammang aias Aani ms | 
+सातये!सामी।सर्खःपाससः॥शय्गना/ zadana ret १. .॥ 
+den adenina gafa सह्‌ खिर्णो र॒थिं।प व॑तो।आ! ‘od 
+> सुकै नदना देव:॥ ९ ॥अत्यीगाहियानाशन देक AER | 
+| ; देवाः अच ark dar NA 
+
+
+
+
+
+® 
+e 
+
+
+
+
+
+= akman विवारआव्यआदाव कज मु 
+E | FAM ॥ द धन्विरेग॒भॅस्त्या सुंदर य। मत्सर पव॑मान! क निक a 
+adiaka Rman a NA सीद्‌ | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ana ngn भसिंधॉ. मय होत कुर Garda |` 
+SER NANA ole 4 :।अयृस्यरवः। य्‌ farg 
+सृं॥आदा। क्र स्प|शुश्चि्णध रसें। Ra Ranana R भि:! वसा| 
+
+uA: क्का मिड (मया li ug | ` 
+
+## Page 1082
+
+
+जा॥नप्ती भिः यः।दि व रवतः रम्न! म॒ मजे''य॒या। गा! कृण्वान ननि? — 
+
+॥ ३ १आतिश्रिती। वि रश्व पि masma aa | 
+
+ngA akanan mnanaa | 
+रि।द्ब्या निम सुँ रात! विश्वो निःसेम। पार्थिवा। व सूनिपया हि'्मस्सऽ युः) १० 
+
+
+aS 
+
+
+re एषः। धि या'्याति।अण्व्या चरर? रथे भि! आश3 भि? (ग छ॑ नं ई स्य। निः 
+ghen guga i ed ir आसता å 
+Radar anmadan h ति। भूर्णयः एषः रे. 
+थिदे'धुवव! शिद्ीति।यूथ्य।दुप॥ दुम्णा। द्धा नः/ओ संसा॥ एषः रुक्मिऽ्िः 
+aama नि अव 5 iaf सिं धूनो।भव॑न्‌॥ए यश व ng 
+र यिऽवा नाज ति॥आवं।तादैषु। ग त मजं ति। मर्ज्यीउ पी डे 
+॥अउ IJONHÅHTFNTFIET (han 
+ugma apah «॥्र/ते।सोतारः रसी मर्टाय/घृ्थुये 
+
+
+। 
+i 
+i 
+po 
+f 
+Í 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+| | 
+
+
+
+
+
+
+
+
+
+
+
+
+KE TE ब्धा 
+DE a> 32 Kang 4 
+is SIRI Sh so se 
+
+## Page 1083
+
+i १9 4 $ EG 
+
+å 
+
+
+o 
+
+
+T से aRvedangesasen Me 
+
+"२ 2 सम्पिभ/अने पते।अ पू+ TT SR 6 EEE REN EEE GE | 
+
+nyare Rmin वित्रे!अ बे ति। कर्त्या! स धःर्डी आ (असदल पा 
+wakidai सामा अरूक्षत॥महे।भर्रायाका रिर्ण:॥पुनानःरूय 
+
+अव्यये! विश्वाश अनर्वन्‌ अभि! AN २४) न। गायु। इति॥दिव)।न। साथ fraj 
+
+| ghna mar que: t auh पविनाअवेति ti सो म। वियः३ aia g 
+
+| दानः सन्ध बार विज Å uran dn | 
+
+| na: nmaa imanam थि ९०४ 
+
+
+då 
+
+
+
+
+
+
+| Å 
+T i 
+j | i $ 
+å | 
+S $ 
+| 
+i ER i 
+EEE ERE REE प प पम a sid dics ER 9 AE EH 
+— > GEER ms PES = नि a व WEES 200८202780: 
+च | 
+* 
+q 
+
+
+| दाऽ रेरे दसे सासभअक्षरनगअतिःऊर्मिःसत्सरमर्द से स॑: प विजेत, 
+å pe TARRA EN farer trer RIAN EG 
+| २0000 uATFMRINF | 
+magda STA NA ग्रा GEIT GEA JEMEN 
+gutar Ira når a Ghana ata स 
+
+## Page 1084
+
+afin aizean agentai क्ष रा da anm 
+सद्शाचारुभसतायपीतयें ॥ ७ ng (सवा नः भि Rsr प॒वित्रे।सो 
+
+
+
+
+
+
+
+
+
+| ।अश्षारिति।म paima सिः विम ल कू Runfensn 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+हिल TEGENE EEE 
+f f IEEE z SE oo लल 
+A प EE a a Fr: es तकी — be EE की Ss Soe 
+
+
+| 
+
+
+| FoYo ee द१बे।स्‌ऽ मर्षः KDE MA “काळ विश्वौ | 
+
+| ९०८ MENA EMi norge सतिं r ridha a $ 
+
+न | negar Maa मेराति।सयय:बाजे भिः nra: | 
+| Tuva स्त IG: A RDZA ne! RARR! EERE oa | 
+
+
+
+
+
+पार्थियाबर्सुम्ततरनः पुनानः आ भर)(युव। REE पती ति स्व: 3 पती। 
+
+
+km 
+
+
+Et सम KRIEGI 3पंती॥ईशाना।पिय्य॒ते।धिय:॥ रु Tg aam | 
+यस्तन Jia ne Ruaarr MARZANNA वात på | po 
+या दभ स्वअर्धिरेत॑सिगसुसोमवव्सर्यभातर।कुवितरङ्षष्यतीम्यःना २.८ | 
+
+
+| 
+Í PSR gunn 
+
+
+## Page 1085
+
+
+J 
+
+
+
+
+
+
+
+nd | Ei 
+
+
+pg er 0 नन 332 
+& e EN ESSE > == A 
+å 0१४५७७ Farge in — ——= - 
+न आल २ अवस 
+वै UN 
+l pi 
+ii | 
+f p 
+j | 
+| x । 
+i Ei 
+| 
+
+
+
+
+
+FunHansetanarggsj | FEA ninh विक्ष/अप3 तस्डय॑!। भिय से। आ। | 
+हिच बृ॥य व॑भान। विदा रयि॥ नवाच åra se निः नवय ug, 
+Ragane nma बिः देः वी तये? अरयः बारे भि अर्षृति। स हन्‌ । दि 
+
+
+
+
+
+a 
+
+
+ANRA: smake el 
+aa EA स्पृधः सः हि।स्म। Raman, ति इनिना सु 
+ह्र ब वश चितसय ना ाप भत बिः 
+मि अवे! कह्‌ त्‌! यः सघरददऽभ्यः वं रमि व सता त् भ्य: आ। भ pA राजः 
+
+इवसुऽब्॒त।थिरःसो (जा वेविजान अकुत अस 
+क इस्तः मुन्यमांन ग HER EER सीदूति)कीळ मस्वः magg: q 
+
+
+
+
+## Page 1086
+
+
+
+
+
+
+$ 
+
+d 
+
+| ES. 
+å 
+
+
+. 
+IT ee MMSE i iid KERNEN 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+V ; 
+
+
+
+
+
+शा SETE ee 
+या WW 
+
+
+
+
+
+
+
+
+
+Roa 
+
+
+Ramonda Rg AA ९० ania er data 
+bod कक araor शयन nd | 
+aBn रत: रदवस थ३ ANRA ह | 
+UART वि चि।वार्या।व बंसानास/ आ ततान यः) 
+rens nar at याल danske EE Å 
+guaqsadiz त सेड दि RFEA ANNTA AEA 
+।अवी वनानोकाछो!या जिन अऊतसतःप्र' ससा म ९९ vg | 
+Akamara na जिन सरे: सटुश्ञा। अ हे षत ए ले। वा तो $ 
+
+
+## Page 1087
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Í giae A ।ईव। न सा रुथा॥एते!घता।विषःड लित।सो मो स 
+
+...._रथिंडआशिरशविषाविआनश्रुयधि हअक 
+
+| kp ene विप्र यंत॑। वि।आ नत्र; naga 
+इर तन्वानं।उ द३ तमे ' आ तत्रः बर्त आातात१उत।इ दे?उच्तमा 
+
+ल! सेस्।य णिऽभ्य:। उरा! वस Te नि।धारयः।त्‌ तं त ते अविकद्‌॥ ९२१सोसाः। 
+
+असशी आववः मर्धो: सद॑स्य! था रैया। अभि? विश्बौनि'काव्या॥ TG ENN 
+
+म ।नवी य अकम रुचेभ्ञनेत। रू | प बसा मरअ भअदा 
+
+घ ॥ २ थि? प्रज्ञा 5 on mianga 
+
+
+| 
+
+
+| 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+| | 
+
+
+$ oe 
+3 Gå hal र X 
+‘TIS A crs på र; 
+LEDER AGENTER I REEL I SEE क 
+
+## Page 1088
+
+
+
+
+
+
+| F paa पल S y DE SE sp का णाक EM २४३२३ 
+ae FEE ar ee EG Ra = २००००७७ sn pe à 
+ह nes 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pk 
+
+है 
+
+28 i 
+I Si ` 
+Ri 
+
+
+| | 
+| प०य० Alagaan anA सिः धां नः इंट्रियं Eur tass 
+माचेति वन सिस शद 
+| . मरना डेड इजाणि।अत्रति ॥अघानी म घ न॑ चाच ९३१ सोमौसः ERIRE 
+परयसा ना समइ देव) श्रीणाना? ज प३सः। मुंजे त। असि? गा बं।अ प agm 
+पवत यती!॥पुनानाः।इंडी दात) पाषवूमानाथन्देसि'सास!ंडोयापातेवेगनर 
+| नि यतः वि।नी यसे? खं। सोसा ४ भारदन:। प व॑ स्व। च वेशि स हे १ स स्नि। यः अः q 
+da ad au ed imn में प | 
+RRRA Ju वि पादकः अडत शुति। पा व कर 5 चयते? १०७ | 
+
+
+h 
+was 
+
+
+it 
+
+
+i J 
+
+## Page 1089
+
+$ | 
+$i 
+ii 
+
+
+
+
+
+_ स्म क तस्वी मध्व॑मःदेदऽ जवी. ऊधरंसऽहा॥ ९४ nium देवेभ्धः | 
+'वीतयाह्रे)मरुतःन्यंध वा यवे र ANNA | हिला निकनिकदव — 
+Då SVR षक वि।यानों।अ थि! प्रिय: ड च४ | 
+रा देव३दी त॑ मः? aat ENDEN दान्‌यृनानः।याति। | | 
+'साआसते॥अरुषशज्ञन यंन! frå dr tint hen 
+Fa aa aa nå dn निः स दें॥ ९५) 
+| वं कक्षं त! naan स्जं।अ टिते। अछिं॥ दि सः अण्व्या।धिये॥ते।गा वः। OG 
+aangaande धारे आलितं॥इंडीधतो रॉआ।दिवधतोवेधा।मेधर्याअत्य 
+
+
+
+
+
+| 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+| पश्प० seder दारके | 
+` ९७८ | विवस्व तः पततिंबाच।अ शलहा ।सामर्यः। ह्‌ ÅRS ति।अ दिए भिः 
+दुयतीमूरर+वश्षसंगते'खा।हिनंति'विथसः? पव॑मानः णिराऽ्खधे रोर विडय 
+FAN ९६ २ TIRRAN रेतः यवित्ञे'धिं तोतराति॥पुनान चन! 
+RTR: agaa RaR सिच्यते॥प Ra amdan: 
+a arada । द्विः सूी। दष ge E ranerne: 
+| Reza वरव॑सानः। हिरण्य्‌ऽयुi३्‌ डः सचाउ MAT द | 
+| o Rodaan a दशप वित्रे मत्सरः मर्ह ए वयकी असिस्यद्दशअवरिसि? १०८ | 
+
+
+f | 
+
+å 
+4 
+H 
+
+
+
+## Page 1090
+
+
+
+
+
+
+
+
+
+
+
+Smid -E T oie ars - ~= `- 
+a RE renee 70302 
+
+
+> 
+g 
+
+
+- शुबा।हरिगपुनानःइंडुधरेडआ ve n arna: Ar anandan 
+Anadan विभ्या व aan विच्रे अक्षर ते) aR RAN et 
+nmam विदा a aragna nand asgi 
+amiada paza NE ।मासिऽ भिंधयत॥आभि।डोप्णीनि! arafa 
+एयः/रूथअरोचयत।पर्वमा नः। fa: Fn विश्वी। था मा नि। विश्वः RAN; 
+रकीभ्जसाभ्यःसोमः व॒ना नः! अर्षति å वंःअवी/अधघनो सउह्ा॥ ९८ शग ऱ्य! 
+
+o mbag Jah सा॥देवा वा चीन सं ते स सिं। रत वि। | 
+| दिधर्सः णतं tea: गिरा? Melamin: Fear ie 
+
+
+
+
+
+Ni på 
+a 
+i 
+pA 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+## Page 1091
+
+
+हाम कलसक TITRES ——- voss TNS æren 
+FA z EAR å x n 
+
+
+
+
+
+0 | | | | 
+o | 
+ie नायाय॑।प्रभुव सोरतिंभ भुउय सो ४ व थी स मुड Rs RPE 
+१०९ (यसो म।थारया॥ ETE Rogar श्रन्‌ AST ANRU RA 
+| | DEG Jau åre gender ret Gåre दिव्य! प्‌ वस्व! anda 
+asidin भर!। ९९ NTI धारेः अस्या ggo 32 sover 
+IDA: mrs ३३4 हियानः Ea qaan ad 
+डर्य॥ञआ।न: राय सत्य वी रः बंतेशवृरु dida सम! था avd 
+अतिथार॑यागपवंसानः!अशिस्यदत भभि।द्गोणीनि।'मआऽस ALWAR 3 
+_ तमेरहसिहिनंति आडि निम।ईदेपति डय! पीते?समोतीम्मदऽतर्म।सो ९०९ | 
+
+
+| 
+jj 
+| 
+| 
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+बिः्यते:सोमवृष्य | भवाबानेस्मसंगथे। 
+
+
+
+
+
+_आष्योयस्य सेते 
+
+
+E ॥रँडयावज्विण चार दाधॉयामत्सरं!। 20 NA मासःसुःआध्यः।पवंमाना Et | — | 
+SJT eva aR त॑न॑१दिवःएुथिव्या/अधि।भ वेद दइतिंम्छम्नः्वर्धनभा | 
+| नवोवाजौनो?परतिः।तुम्यं। बाती आभिः reg header | a 
+
+## Page 1092
+
+।मर्!॥० एत॒न्ये। गा वः छते र्यः बम्वोर्‌ ति इडे ana 'अधि/साने [ 
+Å YUE EGE शुवनस्य पृतवय॥ Fa उल्वेडण्मसि॥२९॥ ` 3 
+सोमासः न PADANE: य कर utad 
+
+
+
+
+
+
+
+Ge 
+
+
+| 
+
+
+
+
+
+थ!ये! बंणः।र्‌ fan en पीतयें॥आव! BT 
+MAWA Ve ॥अवत्य। ना गो मिं:। अज्य ते॥ उ भेः MARI 
+
+
+ee 
+Ff 
+
+
+| 
+| 
+| 
+
+
+|| 
+| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+5757255575) )) NNN is 
+
+
+
+
+
+| वक्ष gåva छ॒गः। न्तस अर्ष कषि॥ सी दन्‌ सत स्वायोनि/आ Es | J 
+, १९० त/योषाज्ञारंडईव। ध्रिय। जगे य! आ मिं।य थी। दिनं असर्‌ तिं। घे हि यू मतयर 
+| | [Sadie मरते १) २२ ग ञृसोमौसःविप्‌ःऽिर्तः) 
+तस्याधा S बतास वएसुतत: iana रा नर 
+aza रते।गावः। भिमं ति!धेन naf: i 
+
+## Page 1093
+
+दि 
+
+
+
+
+
+
+
+
+सोमा अर्थेति।विष्णवे॥तिरशवा 
+rasana Nse aa US मातरशामम्ेज्य ते le 
+वेम sf रायः/समुद्रान/च॒तुर।अस्मभ्य सोम (विश्वत।आ।पवसव/सह R:n 
+
+
+Å 
+
+
+
+
+
+
+
+
+
+| ke : | 
+है 
+
+
+| ne | 
+nx nmaa mimaa "E न्यानः! मुषेति॥रुअल्‌ट्‌ atam | 
+| pina ar a$orana WET मं।अपेति। NE कर्षः भि | | 
+_ तासन्चार्तिसोसॅअर्डिशभि ुटंतिचाक्मॅना।पर्यंमासुवव[त्रितस्थासर्ज्येधसर्वव श॑. | 
+डोयामत्सरः॥सं'खूये4अज्यते/ररि॥ अभि Aaaama | 
+रभाचाळीप्रियड्तम!हूविः! सं।एनं/अर्जुता ध इमा:।गि रेःअर्य ति। mjd: 3 नु ] 
+TA: dan anae ॥आ।नःप व स्व धा रेया। प व॑म्ान 78 दूशुभयया। | 
+ज्यातिं।विदार्सि।नु॥३ दाद तिं।स मुईं:ईरबय। य व॑स/विश्व5ए लय॥ राय ध तो न 
+ओज॑ सा0 लयां।वीरेणं।वी रु वः/अभि|स्याम! aan KACICE D 
+
+
+f 
+
+
+E E dee dd 2233 
+AR EE >> न Á & 
+> 0000 
+
+
+
+
+
+
+## Page 1094
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+हि 
+E 
+f 
+
+
+Ean. mahiga ahan वाऽ साः सर्षिःञ्जताविदानःआर्युधा॥' गी: 
+
+
+| lir मर वासया म शि Ardian hetene 
+ns | धर्मणः परते! यूनान स्यत भुः्व सोः an TFT q | 
+वि चम्वोः तः कार्धांना याजी ) up manana EG åren fanyd 
+
+
+| सवादवः वी! अति।अभि।को्ामशुः श्च | nanain पि।पूर्व्यापर्वमान॥वि/' | 
+
+
+पद कलेन वाट म मान सतय भिः। मुमा नः।गभ॑स्योः॥ प | 
+वता वारे अव्ययेश तई) van विश्वो।दाशुववे।व h म॑:। ट्व्यानिपार्थिवा॥प व॑. | 
+ताकात रिश्याआ RE GST Maren degree | १११ न 
+
+
+Å 
+
+
+8 
+i : i 
+% DA 
+र", y I dr शी 
+AEE BRR 2९ ४ å Å 
+misser es == === स == < sb 33302: ४ \ 
+a oases SSRIS = न eee म कं 
+FP: «~ A ~ e m EREE = = å — Deine 5 Fm टा 
+hå Èi, 
+å (शी 
+Lå 
+f hss, 
+$? Vig 
+श Y 
+i 
+ï; A 
+
+
+| | पते २६ NR सतः! पीतये हुवा! MÅ ahasan Asgat fa ।देवऽयुः॥ | 
+सधथयवित्रेविश्च md yiana Aaaa | 
+गीरोचना।द्वि!यवसान३ विधा वतिभरक्षः5रा। वा अव्यय सः। वितस्या अ थिं। 
+सान॑वि।पव॑मानः।अ रो चयद/जा fm: भिं: सूर्थीसंह्‌।सः। कुवः दर्षारनः। वृ. ` 
+| dared eens HASS क | 
+
+## Page 1095
+
+द्वे डया 29 EGGE pgfan अव्यः) 
+
+
+वरेभि।जषति।गखन)वार्न सद स्ति j vu: 3 
+EE EM वत या थी मे 
+
+
+
+
+
+
+
+।एत।व्य१हू रिन द्चाम झुज्य ते अप स्यु 
+
+
+| WEN, 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+age | ।एवः।स्यः मा नुषीयु/आ। रे न 
+| å er TENT EE E E KURE | 
+| MR INCA Fogy Må lå Rand सि HF ने) यो चि/अभि। IN 
+mas आशवः EE BERAU k मान bok 
+
+यात : | 
+å वसन a j | aa वि$वशक्षोणः Fart लव स 
+
+
+पविचे।आ। लि 
+nRa: यदित bgp MAST TET AIMA 
+~ र सी रति भवी gan AARAA ।संऽड्चीना; 
+
+
+
+
+
+
+
+
+
+## Page 1096
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>“ 
+
+
+Eaa 
+
+
+EEE > 
+
+
+DÅ >) गे > Å ५ s ६ på AE ९ j $ $ è MOKAER MENE OR ý ; i 
+FRR तना E E GL AE 
+र y क १५५७१५ Eag द Å f 
+
+
+rand å rn haa २९ ॥पृना नः। ऽक 
+en nad विष थी तिः निश आ।ये नि 
+णः।रुडुल! गम दाइ दवा men | 
+विस्म भ्यसो! म। विश्व अ बसश सिण विश्वा! सोसःप वम्‌ 
+graf å दोउ तिआ। भरा बिद सह स्रिणी इ षः सन्‌ 3 नानः 
+
+uran सुऽवीर्ये\न रित य नानः देर्‌ ति।आ।भर्‌' 
++न स ड दोर्‌ ति) नः ३० त्रये? या दः चे? 
+गयः चेषा! आयास॑शअच मधाचे तैः। कुष्णो। आष बचें सविन स्य। मना | 
+
+
+
+
+
+
+## Page 1097
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+धन।विक्कासीदृति/गर्छन/जार। नये | Å 
+
+
+å 
+\ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E rf :, | f 
+k, lif क Hasan adi स्यू AJAN शवे रुः ऽ डवा खन!पर्वसान Å 
+
+a Å स्याशुषिः | danse eo BEN 
+NÅ dugsaanardsamardsaaganengaRsanemaden | 
+| | लिवा द्मः) बया a ve 
+due रस५उ॑व) विश्यं नरे चना।दिवः!।ञ नयन? 
+।स्ह्यीवसानःगाम परह RNAAR न ३ वेभ्यः! 
+
+
+
+
+
+क it 
+
+
+## Page 1098
+
+
+
+
+
+
+
+
+| | | 
+EG | | 
+जनव/ अभि।विश्वौनि।वारयो।अ भि।देवा स तऽ au सास qaaa ans 
+न सोम।वीरऽ बं अव वत वामध्वव/सुतशापर्वस्व' छह ती UK a ३२१ 
+| अ 
+| विश्वः! RET TOE ICE SEAL इंडउंडायापीतयें ।पुनान/या ति। 
+सोस गीः; भिय रिड कू तः विशंस्यामे ads वरवे मान दिदाः। 
+TER सोम्‌ orda ed ॥इंईुःअत्य॑। न) वा न 
+बाक निक तियविचें।आ।।य अकष aardigs g: यर्वस्वावार्ज! सातये! ` [ 
+jen णत दुधे) सोर्स रास्व सुऽवी ये ॥ ५३ मे इतिबचा्क्रेअशमेध्यायूज | 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+| 
+| 
+
+
+
+
+
+
+
+
+
+y | विस गंबिंडुमांचाणियद्पादाक्षराणिच॥न्यूनानिच तिरिक्तानिक्षमखपर भेश्वर. ) 
+[| VRLO Aa स्वरनाम भाइपट्शुश्ल अ म्यी से म्यवासरेत दिनी FAKTA १! 
+|ेस्करइस्यृपना मक शिवरामेन लिखिते स्वार्थे यरेगपकाशर्थ-च ७. ५७. | 
+
+
+## Page 1099
+
+
+N 
+
+
+\ 
+. | 
+| 
+i 
+- | 
+| i 
+| 
+| 
+| 
+i 
+` | 
+
+
+EAD 
+
+
+i 
+| 
+
+
+Å 
+i 
+f 
+
+
+
+
+
+i 
+å PÅ 
+å 
+२ | 
+De | 
+K: h | hi 
+> | | 
+i 
+शशश 
+र 
+E å 
+READ A ija X 2 k å 4 
+BRS "å HEG ee di 
+20000 evs PRE TN 
+AN å हि 
+Å 
+
+
+
+## Page 1100
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+_CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+NTN TENESTER 
+
+
+॥पृ०२० NSK रायनमंपा Su JENTA Fr तने। pike enl 
+å न।अयास्य॑॥मत्ती। धिया हि सामे apse: याव 
+| _विमाजयोदेवे Haagen एति। परविचिआशसाम|यावि।विश्चैर्षी णि .स 
+Ni वाजःय चक्ाणः-वारु'अध्य्‌रं वुर्दि्ी म जा।विवासति॥सःनःभगीया 
+` अवे।विप्रःवीर।सदाऽर चे av मिव ed SYK 
+युऽवित्‌।गावुविवऽतेभः॥ niaaa 25 ke 
+वेक्षाः्टेवऽवीतथ॥ ÅR gaa यीतयेशसःन (अबी भाइले TEA 
+| nes tam NEUFFIN JÅ गामे | 
+
+
+दा Hui Ti ea | E: Sai ARAR वाजी। । 
+L. MAR gan निभ्स या pE EuENN त ते, ॥९॥ 
+
+
+n AES 
+
+
+
+
+
+च छुऽवीर्य॥श्ाअसन्नन देय a 
+E तासभइदव/ te ध्वत्तीवायु ~ en स vii 
+
+
+idae भजनूचतhसयो KG ययापीत॒धविःचक्षेस) pe 
+वःधर्यस्वत AES EN TEA bl ति।कर्म/नि/। जा पा वता से हस्थ॒। गम 
+
+
+Ufa मृथि र्ग! 3 SAKE IT नया प्र:य ता।श 
+Fe: रार an NEs दीम Nå Ete ददाथ 
+मत्रा मदक FAG Å नते FY 
+
+
+## Page 1101
+
+
+A drm Aae क 
+NAT IRQ: TR खसाः 
+स्य।जायवै॥स्वृयाकूविःविऽथृतं विप्ायार zaa यो मसे 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+TNT कण 
+
+
+
+
+
+Ce 
+
+
+
+
+
+Ne iS 
+
+
+| | | 
+Vee ९ शिसाश तुथ रयीणा वार्जेचा ऽड्य॥ ran suime 
+to सीस यः faq: oh Sn HAs på 
+i अत्तंमदेषशतापरारुरुक्षाण॥ जर्त वा रथि।जनि। रा gami तिसुःकेती 
+FU FANTES इज) साधारणश जोर | 
+
+
+।द्न्वानःरंद्रिये/ज्यायेमहिऽसे san अभिडिःक व वि; 
+Raua 'अयध्याधददूत्ती/इष:।तयौ। प्‌ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1102
+
+
+å 
+स es FATT 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Aeg कस = SUGEN नाग. 5i wima 
+
+f | ren IEY RIA: qı 
+
+= aiia न्‌] वल AEA नोनी | 
+| वताराचयमारुच॑॥६७उत साईरतासिंचाभरपर्मवडवास्वनवाणस्याची va | 
+
+
+
+
+
+HÅ 
+| pr 
+H OD 
+i A 
+| ५०2 0) 0200 52029 07222 
+DS GA si ‘RIN 
+
+
+
+
+
+ih 
+å Ge | 
+Ss SRP RNR ७१ 9 कक 
+0200000432: ५८ WINNS PORE 
+
+
+
+## Page 1103
+
+
+
+
+
+DIOR PIPING ne fade NR RE HI 
+PSA a T 
+
+
+| ; अपयखमणिन्तमपदि rar ant अर्कस्म Sal sne) | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1104
+
+
+
+
+
+
+
+
+
+
+
+SEG seiere Aaga Å ॥यच! जन्याएपिसानवि॥अ 4 
+क ne 7 Ad 
+aamin RR सा पाते थक जच वी | 
+le PE a a Riia पादितः पीयूज उ तऽ | 
+इंड्रायावज्िणा! उ RECAE kon म वि 4 
+TAI मूरति कि Jagas Al भुण A 7 
+था dagana ; 
+
+
+
+
+
+
+
+
+
+
+
+s | विश्चक्षण ne X a 
+Mans स smag | 3 
+
+MWA av YTE A गय S 9 | 
+
+वथऽस्ना RAA नि शु zazi a 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+द t 
+
+
+VERTENE ET" ST ” — ce NS, 
+7 ले 2230040 pak areni ROT SPRETT 
+
+
+
+
+
+Wa VISNES 
+
+
+
+## Page 1105
+
+4: cede 7 g हाण Er SN 7 i å X र 3४७४४ ३७ are -r तरच 7 रू : 
+$ Å å 
+i . Å 
+fri 
+I 
+
+
+'॥पन्सन९॥ vis KA AA नोय अस्मान) ma gå ने: इ दे इतिं उतिः सर 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Og नापवस्व।मुंहयचरंयि॥०॥उत्‌तःृष्प्रासः अ få | 
+
+| IJRA: pp af pa agn थने।हिते। स्न न 
+
+å Ames ES q INST LI नः pi द"च्यास्जायतत्यापृत्तन्य 
+
+| *चृति।मृदूःच्यु enk på å Sp tonene 
+
+| 'अजनु।॥ युत्ता शुकादु ULUM AANRAAI पड शकू 
+
+i | GERE Y न । आ।दिवे\ज॒यं।विश्वनि पुनानः सुः a 
+i IF सामगदव TLEN | । मदेः वऽवींतयि। वा जोन ज a F Oog 
+|: ER Se Fa eg anAÅsAÅ dame: BYR 
+| चा FAA GE ति।आातं।अ च॑सः नि बूर्दि का पके | 
+| | द्‌१उन। नः।गेऽवि Eis ine स्वसाम'अं E AIC OEN d | 
+| | लि।न/मीर्यतते।हं ति।श ह, Er स्व।सहस्र$जित्‌॥१२। परिसाम b+ . 
+
+## Page 1106
+
+| RUMAA å विः:क्षन/रक्षासि द्वः युः यतत! वा råe | | 
+| /अपस्यका सदस्य Se या बय a र्‌ं! | 
+I | 'अन्पषताम.ज्यसासामासातया त्वे å ENGL Er Q å 
+3 | hr म IFE ME 'जसश्वते ।द्विःन यति! गजके 5 , 
+| वा्जासहासरणे।जपि।भियाणिकाव्याविश्वो। वक्षोण जि i ak | 
+a a T MAMASI: = adaa वेसी सीद 3 
+| चिस T दिव+वेंस। 3 SE ।पुनानः।रः =i जाने | 
+| दा तसः मुदी! धावति चारी सुत्तस्याअंचंस। न खरा विद] वर्सनों। म | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+ETR NTT as ss) EN 
+p SN FN = 
+Å ae NTT TNT ———— 
+9 på क — EE ST —— 
+Å i र < 
+* 
+
+
+tge ġo सैस्यदेवी जवेसः ध्यया रस जा] Fase 
+k | त्रिंशते।तना।सहस्राणि'चाद ल wuya bins rr 
+| Ae रण्य A AM FARTA जा भर! पवेख। असऽन्यः अ द må 
+a Saa ।साम्‌। पव॑जञानःविश्वानि।दुः5 रता। 
+कवि ।सीदानि बाहू (ण मान! Fun मानः ञगभूय्‌ः। मेदा बाण 
+A अभि!इचाञासि॥१६॥भागायनेणा गायत, q 225 
+TY UT JG EN FEST å जया रति 'सहस्र RAA वा 
+| Å AE ANNEN पवमानः असिस्यदल कलश अभिः था | 
+E | z आइविशन। san NE ।पवृस्व।विज्च lu क | 
+| | 'जआ।भर॥१७॥जया।वीती। AR 2 ।ते।इदिइतिं। Faq ॥३॥ | 
+
+
+
+
+
+
+
+
+I > । नवृती नवेपरे।सधःइ्या$ थिया दिव॑४दासायाशंबेरं। ज थे। er 
+ARRIA MAN गाऽमे वरदो ३| याकर ताच रव्या तरव य 
+
+
+| 
+49 vage Å दते: सरिविःर्सशाआरणी म॑ 
+
+44: भिः 2 EE | an de å 
+शा w ।वीरऽवची pr lå ।साम्‌!विश्वनः रन परात, द्‌ लय 
+
+
+
+## Page 1107
+
+
+
+
+
+
+
+
+
+मजि 
+सिंधःमावरासं 'अख्यत।सा३ &ण।उत्त। वायुना|सुत्त। एत्ति। 
+रा स्या Sø Ferd पूष्णापवस्वामर्धःमानाचा 
+
+
+चरुण। Vane न TY: 
+वे११९॥ दनी वि त ना mn शाम, 
+
+
+Tonga ang बाण l 
+TIAA क यत का मवुर्विःऽवित। सवा उप 
+
+
+५32 pr pt 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | | | 
+॥पन्स०३॥ LÅG te KNE spyr, egen AIRY gaut d 
+un | saa RIAA] a 
+å dess JF aen FÅ जनतादिव NAAR FAG! 8 
+AR aars भा तारसभ मर्द राजन अयस्न/वि। - 
+ikai iaa ।विभ्शञ्ञति। JNN: ।विश्।स्वगुशे। i 
+
+
+## Page 1108
+
+aa od me ITYV SS ETT कर ञ्जु å 
+
+AA eu Es ता ! प्र साः असि२९॥ स्य 
+
+STAY भब (प्व ।न।धेयऽभि। सीदन्‌ श्येनः ने थानि'जासः पव्‌ | 
+
+
+म 
+
+
+| å ।दुजायीहंतवे। sh ned) | 
+ANNAA R रः।त्वाऽउतास वीः Faen qa ven ` | 
+
+
+au y to pk 5 
+
+
+| 
+
+
+
+
+
+
+| KSS भसामाअंतषो at जपःच्ञ न! पवेत! मचे? ्पेसामेः peker wi 
+स्य।निःऽ ह त॥ AgI RA मरा rs नासहि। मग्स्थ रास 
+aent यश å vene शनी चून उतरा Gin aa Å 
+
+
+pe मान मरवस्य तः on FANA 
+
+
+।अप हिरव नृ हि।जस्य।ते। 5 | 
+l म n 
+विश्वानि on 
+
+
+
+
+
+
+HAH LAYG 2 यात्‌।भीमा आ 
+T Az: være ARA q तिर पति | 
+det GRAN पुरु सुऽगाचाकांयं na JE EXE] 
+Uq aqiq GAN tgs तिं। AR ज्या t 
+Hy मेदी य! STAGE Hud अयन ।नायानिभआ। जः 
+
+
+| 
+
+
+## Page 1109
+
+
+“९4-45. 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+| å «He! 
+en 
+
+
+
+
+
+छः कणावर का 
+dad डे d ¢ fe 
+HIM 
+i 
+
+
+| सदला Adare qatiga ।स्वदैति।गावे कन | 
+
+
+| 
+
+
+
+
+
+
+
+UV जा च PN ATR AL याम aqs | 
+Mien 37 S 'ताभि ua क 0. 
+TG TK स्वाद त्र रमि ।उनुच्य्‌ fe ae TA | 
+
+aqq al å 
+Si । HEr AS Fair: FENG के 5: os A 
+पा मानम असति करत्‌! व निगदा IM FY! हसन 
+
+
+Ms | 
+på ee] DER EY IR EGG å 
+
+
+
+
+
+
+## Page 1110
+
+
+
+॥६. k 
+
+
+ANY रगाय से 
+मार्नगरजस कवि दाम YFa st गिरा a र 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ER स मान सुतःन्दऽभिः्सामः वाजे farer 
+Faq क सयति AALLS Njå थुंजञत्तिभयावंवे। i 
+
+
+।चीत्तिःनिःतंसा तार: नःस्पुस'ञा ga EIGE) ng 
+ven. å avd अर्थन्‌! श्र A 
+nià Radara दुहंताजञा ख चाभदेवेभ्यंभमर्थ॥२७॥ 
+।जास्जत्‌मर्चुमतऽतम्‌ दिवश्च वः aiga E 
+
+
+isi ।सन दो FIG flere 
+ना।प व 
+El शी ajat gr ESE p 
+
+
+} 
+sg 
+BØE: 
+र $ EN 
+; å 
+k J I g 
+i i å bo 
+ERR 25: P ० >या 
+sted ROR RRNA £ EE, Br य. 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+
+## Page 1111
+
+
+
+
+
+pi 
+| | 
+\ब०स+१। जप/अप्निय॑ पारयन्ता य्‌ भ्यः | 
+/ 0३ | स ent ug 'प्राते।दिय pi å मा वना कवे माहि i Å | 
+JAg Rainig iin 2 dvd 
+
+
+~ मानथभन्तते॥क विगसाम॑गपवित्राआा दा! दत्‌ स्तान्ि। 
+__\वसासहस्िणार्यिसामय यः स्या जीना 
+
+
+| यामृत्स ॥/चुमपीआ।नि।सीद सि!सु तभइंद्रय। 
+AMANTA pe ऽमा चायव।त/अरुअ्ाजाश व। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+agaaa E å ET ERE ISTA | 
+aminen सुनामी Å ke AA 2. गा. ° 
+
+## Page 1112
+
+gaila ag धार्रया।य Bs RANGA var | 
+
+
+| 
+j å 
+
+
+| पनञयुंक्त।सरेगएतंशं। पवमान mm etg å 
+शास्र जय॒त्तायातचिा इंदु इट इति।ुवनापरिर्त' वायचे सुत! | 
+a ।वारेश।सिचृत॥३९॥प तानाः १ Å ED pl hoe 
+Bisaa AR a ।रथिं। गा $ armada | 
+Å: ITIR N EG z IE i अश्विन Tana 2०० 
+| क सतस्य घारया।वा तेअक्षरन/स॒ता शानि er 
+सामासः। दधिः आशिर Fa आति र मा Jana 
+NAR 
+
+
+
+
+
+
+
+
+| å SM FRA मुजि आय EL 
+| Sera marg वस्पाहिरण्ये et AG 
+'आ।भर। RAAN RIA RAJTAS 
+
+
+Ms 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+
+
+
+Et I sa 
+
+
+आ ५३३४ 0086९ ५३ mm - 7 see OSTEN ए परुः 
+का dete painaa मु 
+| 
+
+
+## Page 1113
+
+
+
+
+
+१३ 
+t F 
+i 
+
+
+geo Fr संति। An निभविप्रोमजवस्यवैभ रष कूनिक्रवर अर्पति॥२३॥ 
+
+Å må | णाची भि å र गम co 
+
+MJIN Nga ति। मदः यायु आरशेह्‌।चर्मणा।प enn 
+
+AA FYIFFKMÖÉEMTIGR ER IR 
+
+य्‌ऽयु।जनन। पर्वमा MARAA न 
+
+।काव्या॥३७॥ पवमानास्‌ (आशव SRG ELT 
+
+ना॥दिवृशप रिजन MAA 
+
+EEEE A RIR 
+
+
+AÅ पा Å REA 3 hs | 
+FAA erd ना विश्वा ॥८॥ | 
+
+
+Få 
+
+| 
+i 
+38} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1114
+
+
+
+'गॅउतईतमाज' 
+
+
+| 
+
+
+ih 
+
+
+
+
+
+
+
+
+| EER man gsm रषा रेंबारषब्रतः Mn 
+
+
+
+
+
+
+
+
+Du ED] Ei IFA! Kansas | 
+adham प की | de चार क्षताभावाजि gg 
+INNAR AAM Mi aki 
+
+स्थाभप नारि FAY UNN 
+
+
+
+
+
+| वापर्वतो।आ्षा।अंतरिश्या।पर्वेमा नस्य। विश्व5 विय। भातास år | 
+| र्यस्यडडवा ना रश्मय॑भके ते Regy Eg ० Å o 
+gan नसा be ष्य सि।पर्चंमानावि$धमेणि। अक्रान देवे | 
+[ स ryf: नं/व्रियशकवीनो।मती।खर ज व्‌ अभ्य स्थीः$ 
+a menfa पवित्रे'आदिवऽ ज a Raana 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+## Page 1115
+
+
+
+
+
+
+
+
+| Fei “oer सर्च यृवित्रे। आ। मदै।यःद्वऽवीतमः क 
+| IR रू AG pb 
+| नभव ती अर्जास, णा de MER EGG RE 
+
+इटस्यायाहिनिःळताथुतानवाजिःभियुत:॥३०॥भाहि. नाना दवः 
+।'ॐ। समद्र, आश ESES ARANA mnia न | 
+S । अग्मन्‌ 'आआपरिन KER ।जस्म्यः t 
+'अंसा'पाहि!न। शमीवीरुङचच।मिमातिषव गि EA lars OSE 
+mage mR man raa | 
+
+
+agl बचे तस:»श।ाजनिवना/जन व त। - As ude Å A 
+maaana a 'मचमचऽतम ære m ven | 
+
+
+. ug 
+Å 
+i l Å 
+i die 4 
+५४ sig di 
+Å je 
+DE के ad 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1116
+
+
+
+
+
+
+
+
+
+Fl Hele åren =a ESG] ee A ÄI झा 
+| MATR nedi इच्यासाइ NFR: pen gongdt 
+5भरणणसं। वा eden भरवस्युव।पृनानःरं सजर्‌ gaa 
+punann नाति i på sa again 
+n : 
+ar सीन ऽनाशिरम हिन्वा नः हित्तऽ 
+
+
+pene Alqi कण्वतिविचसेभसाता। जति 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+याजी! अङ्ग यथाः सच 
+EADS se ॥४१॥इसिसच्मा टॅ न प्यः) 
+
+aq जाम HENIN 4 | | 
+
+वेमानोरुचाउरूचादेवःदिविभ्यः परि विश्वावर! ।आविश/जापवमा | 
+
+७७००० ४ | | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+## Page 1117
+
+
+
+
+
+
+lp fs 
+/ 8 
+Es ED, j 
+N 
+
+
+
+
+
+
+
+
+
+
+
+
+| : 
+
+gpa PY GA डू हि देवेभ्यः।दु व॑ः उषे? 9a संयतं दषा! दि! जसि। भाबना | i l 
+Men, ताखाहवामुह imag ma gagi अदनान जाखी å 
+> ति।साईदाइतिआगहि।१॥थतताअजव$ भिगप३5 aAa pi | 
+REE a नासी उ या ता मृहे।स॒ å 
+
+
+चक्षय ay so rest ENN 
+kr जि T4 fr gga neon > 
+यासर स Hi ione mg Nang: | 
+स्चु FAA PMR !हरि | 
+akk वजिषेवाद्याःना।नः। SEE AA HO 
+तः: अस्म य यान गादु$वित्‌! जाके लशा ज NRN | ॥९०४ | 
+| | å 
+| 
+| 
+
+
+
+
+
+
+| 
+
+
+Ea 
+| 
+j 
+
+## Page 1118
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+मरे जुति ।संभयय | ` id 
+न्‌।मुनो!अर्थिभ्ञंत स्क्षिण।या ते Å 
+MK तिशत्तः्विने' गा व व 'मगैसि यो जा नस i | 
+
+॥ जुः रूपनाव से भरःसुखान यह ia Te दुमचू8त॑मंमजत, | 
+ARMA रवत द l GEIR) bag याकायवें।वर॑णाया / 
+रुवउभ्यंभसा er कदापी ताका FT 
+
+
+Å å 
+विश्वत्ते tomy OE IEU L CURU यृणाऽव॑त्ति।्ये। | på 
+| a E य Sik E Gs ति।नु। उ हटिं।दिव:। प | । 
+qismastÅ ag mig anaRauonauaqas | 
+अखिना।हिन्वान/ ma RE Rur GPL वय FÅ हिन्चा ना से 
+
+
+येसोमोसःपए्वलियेअनीवलिरनिरे 
+
+
+dk Era 
+ल 
+
+
+
+
+
+
+
+
+## Page 1119
+
+
+| 
+| 
+| 
+| 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| उ मृय्‌ः$ AN ha पा TR | 
+| mi आ। en FG UG ig NG चुत ANg, 
+
+
+| ger gg 
+स Ans en यऱतिगपवमानाचामैनी 
+
+JAN सामा Fra ne ene जसि।विश्वतेश 
+qag: ।पर्वस्व।अन य॑न। दर्ष॑ Part Heen 
+सरिवःभन्यभर्उतं dte र्य दिनः SAME: पविः 
+ड 
+
+
+भिः॥\७॥ नऽ रिणष। साम्‌! 
+| dk ft या IKA FELE så ।अक्षिं 
+
+
+_॥पृ०स० | सच्तेय je ng ua oe दीत | | 
+FES 
+
+## Page 1120
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+॥९९॥ | 
+
+
+
+
+
+BR 
+
+
+
+
+
+r 
+
+
+Rara maamaa amaaa Ei वस्व॑तः मुज 
+Fame सव जय्ये जीरा अधि Fv यच! अज्पसे। वने प व॑ मा न स्या 
+aaa बसी IRANA NENA Ef 
+AUA pe ANINA aa ah aqi im 
+| नाघेनवअग्मंचारोतस्थाथा नि ma sara 
+H यवागार्निं।वासयिष्य॑ (अस्य ।सस््य।वयं।इय॑क्ष॑ंतः ताऽ यु 
+
+
+
+
+
+
+## Page 1121
+
+
+
+
+
+
+
+
+sg mugg MN EA मुभ å Al 
+AT प्या पय 
+| VF! TA! 3 
+भ्र्रिःदार्भ्य IRA! PBS «aa कर ञ्जा je am बा 
+
+
+।सुप्ता।त॒नूना। 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+i 
+
+
+॥पृ०सग। Bam rd gone sata म | 
+
+
+NN | प MULIH! न ।पय॑सोनः। 
+| «udi मरा5गयं॥३०॥ अग्ने। पर्चस्व। सु5 
+| यी द॑ तृरयिमर्चिवाष पर्व मान sad gn जत va 
+
+
+।वुश्वृऽ्द्‌शै तः सः मु नान/ जाय नि: त्रय॑ र्वा सा भ I; 
+| i मान FR कं।ज्याति।जजीज्ञ न व। ऊष्णा।तमंसि/ न 
+| मानस्य त हरे EEN aagi TAFT: ig | 
+॥प११॥पर्तमानभरथिः | 
+
+
+शिभ्न शीउतनम। हरिचं द्र। म॒रु 
+il Agen Ana स्सा si IK ug चि Be AA युवानः। A 
+See grass JNR EONI MRR ॥९०७ | 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1122
+
+
+
+
+
+
+
+
+
+
+
+Arles uns वृतः यस्य॑ते।ुस्नःवेद। प यैः 
+पवमान EE ER न! मुळ! ११२२ ससाम्‌ RY: 
+Es ओ FU पवस्व! संट्यतःरैथि ISIE G N Eii 
+F ganada ta AR de gå fr ञमि आ 
+क रि. मैती सरव gg नहिन्वान अ MATAN 
+ga या।हरिः।वा EEG rs å Rur un 
+गा।वि। वा TH NJUTT naq 
+K साम।सद॒स्िण। पर्व माना सं: FN ETE 
+या पूर्च्य 
+
+
+KS HST: नद FER hø 
+पनृसे। आयची उस यंग पवमानाम चन निशा 
+
+
+| 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+| | 
+॥प०स०॥ aTi: नः जजःअश्वः पूषा याम॑निभ्याम म नि। जा। 
+॥९५॥ ॥९४॥ सा सा म अय पा i 
+å ताना पुन श्रुचि।० चाचः जंचुः। क्‌ न Fuki E: As 
+- ES चाथा FU (माडा पादि 
+कदत! परि! सोम्राते। रः ।कुल शे सुतःश्यनः न।लु-क्तः पञ 
+॥९५पवस्वासासासद्यन! यामर्धमतरतम*अ garadi 
+kr FÅ una RAMI AAN qiy i 
+
+## Page 1123
+
+दि Til साम।गछसिद सू'रतावे।सु:वीरय। aq 
+।ञजुभिञ्ख्तः 'पूवि अ | गाडा इचत: वार ऱ्या ।१६२।य्‌त्‌। 
+AUNETF ATA! (मो।इरू। पव मा 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+गा 
+da 
+
+
+
+
+
+
+
+
+
+
+
+अत क NN å ag Ms eres 
+yr i A À 
+
+
+qarana च॑र्थ|णि:यः na 
+ee ध्या Ta 
+\ EF! ERREA a F i क R 43 
+
+
+SERQ l f घार्म+निज 
+KA ql: 
+
+
+
+
+
+## Page 1124
+
+
+sd 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+få TET 
+दले JIRA माद्व3 ज्ञवा पुने 
+
+
+।निय!टवादेव।साभयगपुवमा नी। जधिऽए AJ स्स! 
+वसथ Tak: मातरिश्वँना! वावभानीशय faser 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+FR FATRIFMFNFNY ॥९ 3 | 
+
+
+DAMA वदःचृनी हि।मा। प्रष्या यस्व! GI 
+भ्यु।उस AMETI प ।पनिजञरतभ्युर्वानंःआङूतिऽ ङ्भ, 
+विरतः नमः] जला Tavasnaqqieq) | | 
+
+
+8 
+5 pe 
+र्क 
+og 
+
+
+
+
+
+
+
+## Page 1125
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Man lagha स्य ie FÅ i gaada: 
+त | पारिख उ j: sA जि अनि र 
+
+MERIA स्वादले।ह 3 रः षृविञ। पृरिऽ य न। उस जज 
+१: नि! शी णिदथता द्व्‌ MAL EG म्या।संयतीर तिंसे *य सी 
+| qae rd सा।मुहीइते'अ पार इ सि। रज॑सीश! 
+सिचिःचेविंदव) ञ्‌ सं! पाज! जा।ददे।सः मानरा। 
+
+
+a:i SEN op सून le GU 4 TÅ ar 
+
+
+।सतस्यीग भत निहित RTF ह। सेता थथर्म। वि।जञज्ञतुः 
+
+
+MARN) मत 7 Ahna ahga ।१०॥ वदेवं! अ 
+
+
+
+
+
+
+
+
+ड ER AET E EATE z EEREN LANS Sa 
+å ५७५ pie AR ne nd ES Org hts 3. gå aS EE 
+AE MON leke Vs en FE 8 EN अल्प 
+gr * 
+
+## Page 1126
+
+F a 
+क Pi 4 
+PAER शक pa po p - ~ 3 -i çi 
+
+E 
+
+? 
+
+2 4 
+
+3 = 
+
+
+data are ॥१९॥ FEE KR EE TAR anga! 
+AJIA JA: Ada GT झवि त t nd | 
+PNG त्वो। स्‌, अवि minga sf fås 
+ed Ki IJARA ATS Ta वा न 
+IRJA 7 ag å पामि सुना mang 
+| gs विं।वाचा।रयिषाद्‌ RE DES Å 
+KE: ne ।पुना शेप मद aasa E 
+| भि (अनशा 23 en Ra विदत चन ।सेप्मु।पु 
+f x ! | 
+। देवाश चत। रयि ARANT KK: il चट | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| Aa 
+t | H उश्या $ ag 
+मु $: EE ES TET E 
+F EE MTAA ud GTA = } 
+Ri SE dalene dn 
+jer कान्य 
+
+## Page 1127
+
+
+
+।सऽयतः AN Fa Rr 
+शा Fa ज़ 
+
+
+
+
+
+
+HaHa 
+Hu 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1128
+
+
+ज्ञ जकमी सि å dia i Saa 
+
+
+नि 3 
+wq 
+Et! निजान Fi न्यत्‌ Å 
+H re N3९ 
+Fal 
+
+
+EE: करत तंतु। स॒ते। परि। 
+
+
+
+
+
+
+
+
+॥९७॥ 
+
+
+
+
+
+
+
+
+
+
+
+å 
+
+un ।ना इंद्री त। यरता प॒युत्‌। था मे कि) चुनासिं पे5इ वा GER 
+| च्युतां।म mg ep TREE I 
+इतिवा: साम्‌निछता STÅ AR Bik ESE U E MAES U ASEE 2 
+था Mtg sg वीय। i FY: दिव री | 
+चोनः प्रश्‍स्छिता: वय: रत एतेस मानास+ $डरवाभाययुः 
+Å dg øres RNA | 
+
+
+JER q रिशा 
+ण्‌ so, EIKEN कि age Å | 
+JER: KANG 
+
+
+
+
+
+
+## Page 1129
+
+
+
+| 
+| 
+
+
+3 $ 
+I I 
+| 
+t 
+
+
+sSNA जार अन्या दुर्चनानि 
+MaA अभतस्याचा भेत्ता 
+
+
+देषेथ्मोयाइभियो प्रायेतेन:* 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+EE ; क n PETENTE ġe ENF TENEN: 
+
+
+
+
+
+
+3 
+i y क 
+fa 
+Lå र så 
+hå 
+i 
+
+
+
+
+
+॥पन्स०॥ तेज़ि छाःजञप: संर dradd EE IE ETG 
+| गै४६॥ 9 Peet HENG YA ड्त्तिञ कणाचे 
+i सता आयाइलूरा nar TRV सास» ग्‌ न्य je! FA 
+
+
+
+
+
+
+HA | 
+
+## Page 1130
+
+प्रामध्यमायामाद षृ! Fu GT 
+
+
+| Za हितिः र्भ in AN ene el 
+
+
+नन शाला gd dalen vart an डु tn Ja. 
+चि!भरुताःश्‍वास्वन peng Ay så ei जगी | 
+| av वुभन EEE CUE BLANU l 
+किचिश्षणनजा ये निसामस: AA 'सीदति।शुव्यथीवकू। भव ति।नि3निकू। uten | 
+
+
+7 
+i 4 
+Jå) 
+PN 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1131
+
+णाय! धथातामघकियते।स कर्मऽमि a Ri JE ब्वीसय। 
+| र an मम धा Mb EUs z स 
+| ऽवित्‌। ।वि$ षृ. ते। Fra वन a वारम्‌) अष इं दस्य उदो. 
+इ NF Få UG sh 
+
+
+på 
+
+| रिति २४ सी maA EES 
+| 
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E SR AAR अह रि; नि ARGE, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+पट fa जाग्वि।हरिगजो पृशेकणृते! न Xj 
+
+।निःनिञ। प। हे छिहा5ई वा FT Jag: fen 
+
+ETE, विशन Er त तौरूण॑ति।नि3नि 
+
+## Page 1132
+
+UP 
+
+
+
+
+
+
+
+
+
+ig gangga mariaa 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+|" ॥प्‌ृ०स०॥ 
+
+
+
+
+
+må ane qg a अते! परी मणि।परिथुक्षे।सर्रसः HEG 
+
+तिह जा! r भारत s 
+
+याश्री णता थियावरीमःनि साई! Gi Te YA il 
+
+सोरःअर्दितेःउपःस्थैजा।जिगौ दा उप जयति al TN च्य।पर।य 
+
+gaga ह lt 9 रिण न 4 ESU 
+दवशओआ। इतति णाचा | | 
+
+br Si yms SE TAEI TAR | 
+
+
+
+
+
+
+
+
+गा ञभि!सुहस्त्रःनीतिः। ।य्र्‌'ऽय म्‌ | | 
+z 'लषं रपा सथ di TÄS SE Rå | 
+ERMA dagga NAMAA ॥९७॥ | 
+
+
+
+## Page 1133
+
+
+
+
+Å 
+
+
+
+
+
+| 
+| 
+| 
+
+
+
+
+
+
+१ 
+
+
+guyon ' भिसि 'अधित। व्यःसुभ्पणीः 
+
+
+
+
+
+
+
+
+
+न! : at Å «NsYq in Få Rq) 
+| IFI! Fara drit 
+
+| इस्चृतर्स्याकर्ति;चिव!परिःन्रि हा दू चि।बदयः ol Hel 
+FTV YAN KG HEN Å FRF नरेगसभ्नीळाभिः। दशः 
+
+
+å IRMA ALAMA NTI T सूनि। FRE å 
+| y ARA 
+
+
+a Aa जु ज वसे 
+ja ga: raii E डय 
+
+
+284 वाने। प sanda या। पवले।सोर्म i 
+E aai PR Ai ya ie biya नि। सार डनीय 
+
+
+
+## Page 1134
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+MaRa n FAT: 'कर्ैनासं/ऊंसे मुली ध्ये anza qa rs X ret We 
+nen på) ME KI Qa ५ a 
+
+
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+च्याः चरुणम HEN Elk 'अंतउश्तितःईसस्थाव 
+धभभविखस्व ins Euy Vier ।वु।पृवृस्त परि पार्थि 
+वोरर्मःस्तात्राशिर्थ्त Susa विसर )माध्नःनिःभा 
+क।वसुनसदनऽस्प्‌ पिशं EA ad सीमहि।आ!लु! ने धइंदी 
+qasdga स्व नान gap IRA: zee; 
+रेवची दवम म्‌ ननः गहि॥२८॥स्क। दस स्य धमं 
+Fagan JAAM नीस रत यमत्र नसम dreg 
+
+
+Fi ARATTA į 
+asy Eh ।सदने! GAP ना भा कुः 
+EGN चारु 
+
+
+
+
+
+
+
+
+
+
+
+## Page 1135
+
+
+
+
+
+
+
+
+
+
+
+
+EG रभे।सस्यस्याना ब॑।स5 def 
+Fy Fahy qi X धाम ren or AN Pr 
+अस्य बन मर मसु H å gR Ån जिता gi! 
+t Ea । 
+चार।अवैनि।से।ज विका नम्‌ på उसण 
+डः 
+
+
+matt HEEN Ja द (अजतान। 
+TIA रर USNR No 
+
+
+
+
+
+
+
+
+
+
+
+
+ARRAIA 
+पितु dk gI 
+Fra 
+
+
+
+
+
+
+
+
+
+
+
+
+स्यै। मंत ei å नुक्षास। बधिरा 
+dagers पवित्रा याची पुन ना क ।मुनी pe 
+
+## Page 1136
+
+
+
+
+
+
+६.प्पायसुभस्वरने 
+
+
+
+
+
+| 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+UTEN | 
+
+
+Spee 
+
+
+eg) | 
+
+
+
+
+
+fasan Fe ageage 
+
+
+सभपवि निन SE 
+ता 
+FAE लभआशताअ 
+
+
+Faq Es 
+| शमन नातः अवी।चकऋदत!/वंनी 
+ठय ते 
+
+राग मर 
+
+
+RAUMA 
+
+
+
+## Page 1137
+
+PA EE røre 
+
+
+på 
+
+जव:।दिवे:अर ति। जम 
+मं मोठाली ai 
+g:i å 
+TRAN 
+मधष EI तिर. 
+
+
+SG 
+MAA å agr Amnura 
+
+
+re 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+aaf 
+रान 
+
+
+नः सु दान॑व 
+daiga = नी 
+IFs 377 kli 
+
+AGRA FÅ E PIT 
+
+
+U 
+
+
+qsa A 
+
+
+_ | नमकुविऽभिन म॒दिनऽ स म।स्वदस्व। ई 
+
+
+नोभ पुश्य 
+t 
+
+
+यंवावाज्ञी।अरुप। 
+
+## Page 1138
+
+
+
+सः 
+3 विममहि ki; 
+
+
+TARAN tagg 
+
+
+ET men 
+नी दा Sprer 
+
+
+सलि et 
+ør a I र 
+gåten 
+
+
+iad Rä (अर्व 
+गी न n 
+जा वती।चत॑स। ना 
+
+
+t Ed Fn वामी! 
+9947 
+
+
+SPS Gaal, 
+
+
+तिपिरंव जरी, 
+
+
+थारे। ४ 
+satt ¦ 
+
+
+ae धय alt वि य॒ त्‌।सिसास 
+
+
+४) n | f 
+au 8 
+RIRAN जी K 
+
+
+WIRA 
+nen JEG, Ek 
+
+
+å 
+
+## Page 1139
+
+
+
+a 
+ततः] 
+YAN 
+FAIRY 
+
+
+å चीने 
+मि तायते श मा ES एस्तिय:वर्षाभुपमानेता 
+Ferge lu Ra Aga gå at 
+
+
+
+
+
+
+
+र ॥९७॥ | 
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+tga amaha anak aa GÅ a maa 
+lett SERATA SLETTE AER ra पवन नल 
+| å qy å अ भय; दर्था ति। पत्रः 
+amad rag Å | t 
+मानगकारशाओआ।हरण्य res राज त्ति। 
+Aga मतिभिः चरन॑ःऽ य य गी 
+A SÅR यायाम Rea चारीपिन्वँमा ना fs 
+परि MAT! il आच ।जूभि। paa 20) 
+RAA दया दा त॑ वे। AAN] l 
+
+
+
+
+
+
+
+
+## Page 1140
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PSN RT 
+
+
+
+
+
+
+
+
+
+
+
+P 
+
+
+गे 
+
+
+
+
+
+
+
+
+ARG za Mrs 
+ard hk a र्‌ 229 व = 
+है य 
+
+
+
+
+
+
+
+
+
+## Page 1141
+
+
+
+
+
+
+
+
+
+
+
+
+
+A सर रथ गे ई हि यु! TÅ Si ।अपृस्यृः 
+NF निः र स्याम्‌ aaga: kj 
+YAPA: स mama तः] 
+ER S रच IRA MGE ली EGG ap 
+सा।मंती नो।अस मे €ः PANT SEM स केशी TETT IT ET 
+षृभः। के नि दुव/स ५ई danse aus FyqdssGendfa 
+nug gaa शेभर्धः NLA AA i EBE N पु५; तर: अभि 
+| TE G FY घुनः शचः वाला । जप नि पर्यसा र a adag | 
+
+
+RF EEI | 
+
+
+sd 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Aaqanvardqman ॥श्त्रीकृष्णापण मस्त ॥शुभभवलु॥ vas 
+
+
+| 
+
+
+Ugo Fo २।|ये।दि वः प रि। श्येनः मथायवएइ षित विरः।रजःसः म mng EIE antar 
+nag नोंगअख॑गम Wa सःउप॑रास इंदवः महे। वाजं Fes 
+| in da 'ई श्ेण्यांस gaama PRE REE Ek ERE अयं।न्‌। विदान 
+9999 वन प्यू त dr al i याति पर A ल | 
+
+## Page 1142
+
+IgA अभि। IMIA R HARFA: 
+रुणमहुरुकू। यतः जसांबि।भिनु।च्ञने ष यजिः त्य Eeg FAG 
+ananas NF Tam दन! जपः व॒सांनःओभि?गाः यवि 
+on Risa up AN TJ FEUERS वे रं दा य।से। Tay 
+! 
+
+
+ts UFF EEH FER à 
+या र अशवा er Fr यन bo अं ngi 
+
+
+द्‌ £ 
+
+
+> 
+
+
+eee Pontes ०... 3... ee 
+oT 
+
+
+| Å 
+Å ~ 
+| å 
+| | 
+Y 
+| 
+
+
+ard end ean nimio 
+MARA ri नि fr AUF Garang IRLAN 
+यादेवा निरी IRN EG TEN JJ om 'सामायर्वमानः 
+i E FEAR ng न हि! शा अं AMRNI 
+GUS] PEIEE IE ESEA S न: चैन्वं व इ डव EI EK UFRS 
+चुहर यः वि) नशन्‌? नः नयः ञर्यःनशेव।सनिषंस। F ED 
+3 ER åa gian ये ha aaa aa RA, 
+व $A giga alu ARIJ: Rt अरि। हि।स ५३ 
+
+
+Fr 
+
+
+नान्य स्याम अरात्या क FA ने+दृष्णा सं. जरी वता न! अभि सामी 
+men ।दु+ 
+
+
+RE नाभा परमः यः आः ददे GN रुरु ङ सा 
+
+
+
+
+## Page 1143
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+z | EE | 
+| | 
+॥१०स०३॥ Ag mak युभत्वा।बस ति! गे कलि 
+
+
+naa | एवाताश्‍दोरतिसिःासुभ्येशसारस वु Egan अनिः निर्य निरदं।प 
+| SORAA ag yaaa । बद 8॥ समस्य lg ES 
+
+
+
+
+
+
+
+
+
+
+स जवे द्वान।ह्‌ये Rg: FERR TEE CIEN E tA 
+FRATA वा चिन अध्या एअभिअर्नषनाजझ sKå AN V2RYs 
+muam ATA i साताम स्य! 
+कक्षा/पंवता FR नभश्वर्वसासुः मे ग ag 
+
+| Hå ट्‌ वा 3 न मवःतमुं[नरःस 
+5४, age दश 'क्षिप॑ 3s i ग्रः SAGAT 
+
+EE E AE e Eea AiR aL LEO ETALE अप$ से) ९. nav 
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+## Page 1144
+
+
+is J JA l T m r 
+| घः। स) वो प दे in TIR ås ॥ 
+
+
+सा साने! क़ि ।र्‌ दरनिभ। ञे समहः | 
+IYY hy JAg IANT समद! परा। सि चृ म। इचा | | 
+MAJUA A 
+
+
+छी (जाए सभद्ट्स्पावमरुतःवायज x 
+; Greit सानू MJAMAA 7a यू 
+QAM ।अरदिति ERA LLR] å å अंत q 
+8 qnr TAR RETTE N AAS | 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+| ^ पृ०स०३॥ 
+| na 
+
+
+
+
+
+zagnani Ranai नतित ष åa aem | 
+
+रिं।एबि।मा दिन अखन मुछ अभि वा मं! अर्षसि ञः En s 
+
+।घुन।वसांन षरि 'नि+निजे। पर ॥पिना। म्‌ दिषस्यं। ण तमा å } 
+fe 
+
+
+rEÅ द थे। स्व गांधउता अस रच। सी भ्रा 4: नि ने 
+bd पक Wgn 
+
+gagugi Ma (अनिल BANAU aha भ्येः। qa भि 
+
+## Page 1145
+
+
+Maug: खसा Ra इंदाइनि।एय। उ स्व! सविता ये। नव्यसि) नव च्वुते भे 
+छ जाप। सचत ०॥ षृवित।ते।वि$तत।ब्र्यृणः। पते! $भुभगार्नाणि) परिएषि। 
+
+
+aa AEG म्‌ ।इववहतःतत।स'जाशवु।ने 
+चौपचिःतैल दिवः पंदे शा चतः अस्यातं र RBG ज्यति Ja 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ryg agam विने। ge म स ni 
+ESPEN द्वि Magam 
+था प॑तिशसुरुव३ AM: aa kes OPEL med 
+
+
+
+## Page 1146
+
+
+
+
+
+शर्वः दिव: रं आधि लिए ति। चेतसा। अरूरु च्‌ वराज्य aA sem nl | 
+भभ 
+
+
+R | | 
+
+dre 
+
+då ।वरि!यासिभ्ञ थरं रथः! वाग! आ१ जरू हः।सह | 
+
+344 IJEFueh ल दिवमादन A SN TIAMAN 
+
+कृषि।नअय।वरिव:स्वृस्तिःम ।गणीहि। देसी म ब An 
+
+नानि।अमत्यैयदिश्वा na Us då: अभि 
+
+यइ सिसक्ति।उष To E ne Sn de sn FA 
+चर्या उपेःवसुभाओविःथु यृवृते। Gå FEAR TRY p Q 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+जन्नत ण कन = = चा NENNE =s === म - ===>" = - त | २ ६५५१४७ क 
+} d 
+i på 
+
+
+NYeHerh ष:स्यःसोर्मः पुरवते! Sy å ने ag: gig KR EAR) 
+| noen Fay: fw क्‌ न GE 2 5: 
+
+
+
+
+
+
+
+
+## Page 1147
+
+
+AAA aga पनं।जयग पवतारुख्यधरसभवित्रभकविभकार्य 
+agsu य।सा म। सःसुतः। प रि।ख व जप जमी वा। वदरं सा सुदं. 
+मा र mea यावि करा oer ve 7 
+मा au दिवानोअसि।हि।ब्रिय/ मर) ज हि।श da mazg 
+2 Jadian Rata इंदीइनिपवृूसे। URLAN STENE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+de सि: उततम pt बुगमनीपिण॑धराजोने। अस्य! भवनस्य 
+| KEN नीथम शते; भारम EERTECO E ने। sd मधी जर्यना नी 
+|. अभि TYR TÅ च गाल कथ साम। मी कृ।क Ra N ॥ ९॥ 
+
+
+
+
+
+
+
+
+| 
+* T 
+SNe ROE xe 
+य _ वट rønne. > er Sr EE 
+Ey 
+
+
+iaaah समयाः BLISS ज्यर्मानभअर्च्यंभनासानेसि: इंईस्पासामा म्‌ ठ 
+Revet सा PUTTER av AGE fan 
+amaga ।मर्धमाच)अज दन्ये॥३०॥जत्ये। छुज नि। कू EG 
+3 Rana adinan SETE EE EE E | 
+(दिरासइंदेवप३॑मान:।अनि।अ पे Kl gne ea syn 
+. निश्जस्थापरिसविईशन।इदेइति।जयम।तवया घनेःचने। ETAT 
+भ व UREI EF ARa KA MED मनानि N 
+RIRI ZRU नः चर्शसभदिव-नाकामर्धःजिक्ञाभञस 
+
+
+
+## Page 1148
+
+g ÆR gem CBE 
+or MÅ ऽस्था।ञ्चप समु जा} SIG LIG 
+een SSE तर EES El KEYES TECE R ja 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Na 
+
+
+
+
+
+द्य याय grann 
+Fis जक ee ह बस 
+| $ $ भदेवा ।याति। केक, 
+
+ur ha नह जला nt 
+
+
+॥ 90904 aiea anahama a नाकी अरठ! | 
+mg a जे ngog AA Men 
+EF 
+
+
+| Amatya punt आशा ange मदा 
+
+
+
+## Page 1149
+
+नाश्च्ामसुभपूप्णीभमधुभ्मंत EG ॥मदिनुऽमासः।प =z 9 KEN å 
+
+
+आशवः अरक्षत! ररथ्यास।यथा। रथकू घेन: ES dr 
+
+
+id Jagjag ad बू ECE n स्वृःवित कोशी | 
+SANT ४ KE Fagna यायचो t 
+: e Agap घी:स वश दिया ARN प्यारी रं pe ni 3 
+र त्‌ा Iy Ks ke KE DD Ka) Uk Re Gera | 
+gay RIZA an ELE TEA t ug 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+विश्वस्याभु्व॑ नस्य।राजसि।॥ ९: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1150
+
+
+
+
+
+
+
+
+
+
+
+Mans ji रा सरसा पवमानः जव्ययो 
+RRR ।स्तन यन अविक दच +‘ 
+RARER RAINA 
+| Hang सुभद' 
+यम रस १०१ अभि बज F! 
+'णभहरिसमितरस्यासर्दनेषासी 
+
+
+a aga 
+SEE å | 
+Eths ik वृते। मृ E UE KEGN 
+NÅ म दिन्‌ मं of EE 
+
+
+KED सिं IF a 
+
+
+
+
+
+
+
+
+
+
+
+yha a, ME 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+## Page 1151
+
+
+॥ प०स०३॥ नो पवमान 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+å Ad ge da 
+
+WE । अदय gaiga; FY) ।ससार।प 
+S iaa aa अशि उसि 
+| FYR G EFS sm ने॥स्वं। ज्ञानः नभसा अनि। जि 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+es My gA अस्‌ JE 
+सभ्यता ९७ å सीव।इद्‌ः। ईसया क 
+
+
++ तेःसखा।सख्य।न।ग्रiनिना 
+EEIEIE EIGE निरस §वि।सामगक SM ua gen gane 
+
+
+
+
+
+
+
+
+
+## Page 1152
+
+damas ab 
+शव क्षणः गं ।च$चुरीवाएउषर्सश्विःक्ा णा।सि पक UVUIKN 
+
+
+
+
+
+
+
+
+
+
+mA anda मनीषि in) BRIT qi Å 
+F. NIANA Na सळ IF तअ | 
+
+
+TENEN STRI VIATA NT y 
+pg HFUFYUP न हन | Tin l 
+दन मिमयतः स हु RR ISI र [सुव 
+MIRAIA x IMG KR Sv TFT qha i 
+।अनु विप्रीस4 अमदन जुवस्ववं। वो।सःप ० “क RA! Fra 
+gés EE मिंणाहरिनवंते! - 
+
+
+सजा नेम | ENE HSE ag 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+वा पले।अस्वप्रिवरा|आ।पिवासति।स/ अस्य) विशेम हि 'यठति।यः अुस्य। 
+अतः Benq 
+
+
+; मड "५ 
+ginagad ष। अक म/ सा मे। मे å | 
+Jad a सिअ 2 रषी वम IE 
+
+
+gandang dha 
+
+
+PEERI ESEAS 
+
+
+## Page 1153
+
+
+
+
+
+adı s IPA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+॥ पृ०स०३॥। OG ।कु विततस्य mAn gna 
+चासपर्थानियज्येवागाधळू nå १निन।हयेतःकुवि। भ नकी 
+वःधारामजभिः शियः हरि नव्‌ ने।अ वाता ad ap ।मुज ति।परि गे भि) आदु) तूर 
+फ्‌ ma Di mamadan na AnA 
+KG kilt नाचे ENE (pas अ वृ) ववइभाः पृ 
+y a pak SSN MLA तिन वनानीति अवमान RN चिर 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1154
+
+
+
+
+
+
+
+
+
+। sd eig ।ञ्ञग्णवृ। चुभ्यीडमा। विश्वा धुवंनानि। 
+IRUTAN gd म RAN iada mo I 
+अनूषताशिश।रिहति।मतय॑। Eat alv t रास Aer GU तन्वान TE å Gr 
+
+
+ART jr अंक ळक 'जनीनोउपीयाति।निपर्तराजासिंधूना।पबृते।पति 
+
+
+
+
+
+
+
+
+
+| 
+| 
+
+
+| 
+
+
+वातिः क मिरा सुसर प्रि काना नुनय॑नप+ वसप 
+विधा पा renn gd eda a 
+k ४ rikke Aker (ईजपवगान।अभि। अपेसि/स्येन mR Å 3 i vel 
+SDS CHIE AIE CORA k Ege BLE Fed | १८॥सत।स्वसार | ञृभि।मावरः। amna 
+AERA ahy धरे।दियनुःन लल नसा भुर्व park 
+
+
+| 
+
+
+
+
+
+Rage 
+
+
+
+
+
+agami n nnana मात 
+
+## Page 1155
+
+सम मानाडुषसाता।वि।भावसि।सःनःपृवृस्। IG TURUY 
+
+
+9499 RRI RA हरय UAITI 
+å R patika skok Ab ytte कारा मास खत द्म वन हा. 
+पूवा अपः सानः महिष/वि।गाहने/ राज प्‌ विचः रथ se णी RRIAZ 
+
+
+H 
+I 
+i 
+$ 
+EE 
+å 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+namn Fat अस्मभ्यायाचताव|सगजओज को हरि ai मभमरे 
+| | Feed, PREG नर चदे. pe åR gsd Hå 
+e | ना REI षत म GT 2 
+TG बनाय ।मृही।न।धारो'अ odd ARANAN å 
+| E sn Å ki gi a MIAMIN R ata VEKK] = 
+तह ।अणीवेःयातिःऽरंथ sg nn असे निस्कुंनभदिव 
+
+
+## Page 1156
+
+व्यव 978 ।परितरिःधाृ। नानि नुत) गिरायदि। स 
+
+| SEGS ।अनिं/अग्दा नि।मेष्य। पुना op FI: ka ng ma a 
+. सज्यसाजासुवानःसोमकूर ।सीदुसि!षरवस्व।सोमकतेःवित्‌!न्‌॥३: ॥अर्यः धाव. ven | 
+
+
+Nogo | शर्वभब्हत॥१९)सः न सन्ता (रश्व: आय eo 
+JARA 
+
+
+
+
+
+१४ 
+4 
+
+
+hå å 
+
+
+मधौत्रियाजुदि।विश्वानि।रक्षस ।इाइविं एै।० २8 unga Andua h व. 
+फन्‌ कै EIE FG AA NGJGA et åt तिमि GN पर्व. 
+en NE ti पिता दिवा ZTR q 
+MIF Ey MAN MPJ CANN Ra नि | 
+ME: Smal T RERE मं थः NAT NJF g 
+दखःसा/शतःसाभ Rat त बाजी ज्रठ व एंते।से pan | 
+
+
+YA TE 
+
+
+स 
+MINNAN वा श्र वासि। पविनेनि (११ माना असन बस्य 
+| >, STF हि!स्मापुरुःडूत dat) 
+Ki Mi an fn nor qa Mr ।सामेः पूरिते सर्ग नसु, 
+ba (ETG EG FB अभि। शररु।न। स लाए पा जा। 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+अयसे नर रू भ्यसुन्वे 
+
+
+vaser flg gå । UR वि वएस्तन येती! अजेः inte 
+FA राइ ig मासुः refuge 
+दानोरतिज्ञीर$दानो। शि शती i क atog 
+
+## Page 1157
+
+।यो।चकषे।ते।यृरृबे।र उ 
+mağı HEN FF em ननन 
+TE: यानात aus AAF या PE 
+Å ।य।भृहा। क A E anno Re ES ee 
+Få (कला मार IA नि।आ। 
+ee पेन EEN RIGI fn 
+am NMFs EKEN er सुवास॑।अनि।कृल शानाजस यना शु भी श 
+
+
+| | ततानुतेवरुणस्पद्रतानि®कीरं तवसो मधान AR AR किये Lu j A | å 8 
+
+
+| ei ।०॥२४१प्रोइति।स्यःवृ Qanu RINZE 
+
+
+| मान अशारिस मारयसे पी Fjsmquanqu 
+| hd FAU TIM ।अव्‌सुष्ट्सञः वृर्‌ 
+| sage ED ह्‌ ता 
+साप em 
+q | सायना i r 
+amuniki 
+।उव। adi ती. 
+नामध्काजंशः! पवते ररियायी वन्वन अर्बोव। अ | i 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+vo EE TT 
+båe Må ¢ RE 3 Ko 
+
+
+| ।४० Her 
+| ten 
+
+
+
+
+
+## Page 1158
+
+
+Janda 
+
+
+
+
+
+
+
+देवविशा यासे।म।चुनःहा। पवः NR ।पुरु ऽन दस्य।रायः 
+२09 हि्वा ने । जनिता। रो धन FÅ 
+
+
+i IE gi 
+णयना वसीनःवरुण gar वाचि 
+नजेवा।प॒वृख।सनिता।धार्ना नि। तिग्म आयुधे किः Daga 
+NE O aa CONA यानि। रुण्वनासमीचीनेरतिसंः जरस 
+
+या 
+
+
+å 
+
+
+NSAMYNNE: । 
+SPENT TG 
+उग्रामभसर्वन्वीरधसर्टोब 
+rn 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+paataan ne Tn 
+| JARIGA akp es 5 ard न टा कका 
+
+
+इति! मदथ! 
+
+
+इच कवेःमान्‌। अमेन 
+
+## Page 1159
+
+ggn q 
+
+
+वय॑।धा।०॥२७० इतिसघमाए 
+
+
+
+
+
+
+
+
+soap Saver Fang du 
+
+Mai 3 “ot EG a 
+
+MZA REE ANG Riks BROS GS Eb al bad 
+Diada [रु 
+
+
+| सर्त PER 
+pa NIRI RN Aeh me । R 
+
+
+'घिलुग्ववानर्थसे kran पथ/रु पद्दिप्रा चंधये। दें 
+| EG बालव क वा 
+
+MRNA | ARR 
+।हरिंपअंशगपृर्वियें। ved RAT. ।आर्पत! 
+
+
+
+
+
+
+
+
+
+
+
+
+थामा 
+
+
+a paes प 
+IE HS 
+।रिरीहि॥ 
+र < | 
+
+| 
+
+## Page 1160
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+UK 
+
+
+।घर्निप्रचादुः्डूता पवृस्वा इंदोरी | 
+केन्वीयाच्यायश्माचशा भ. 
+
+
+A R E. MASE NES 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1161
+
+
+४). 
+
+Ao 
+
+Le DOA 
+
+el 
+
+५ 
+
+कल 
+Rh 
+RR 
+: 
+FA 
+PEN 
+ERE 
+BE 
+692. 
+
+क 
+
+Hel 
+2 
+7 
+fs 
+EG 
+GE 
+REE 
+Cr 
+१९४.) 
+KO 
+
+| 
+Å 
+| | 
+
+
+
+
+
+i 
+
+
+
+
+
+
+i 
+
+## Page 1162
+
+å 
+A 
+å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ पृ०श्म०७। 
+gu अ 
+
+
+ag 
+
+
+
+
+
+mea kl de तशा ।असरयापवितीनामादर्थान कू 
+
+
+FAA 3 Fr AK AA ~ se 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1163
+
+
+
+
+
+
+
+निन पृच्‌ धीरः तवेश्ये'सो वनन दिवा 
+na 
+
+
+
+
+
+
+
+
+
+d अधि।सांनों। met MIA: 
+z EE e EE eee ETENE an E 
+el संईतीभ ३ 
+
+
+laajana aR इव पशु: मं नि ता। 
+यानभसामगपुनान कलेशान! अयासीत सो a aN महिष NAN 
+! 
+
+
+3 åå नृ। ससारः दशा धीर॑स्य! भद्‌ जाः 
+ri ror nn elg Ee 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1164
+
+
+| neu | 
+
+
+
+
+
+प्रातमेशूवियानेसतज्ञेगभ्यात! 
+
+
+कुलशीउलियोभिशउत/ भ। 
+
+
+'अवःनिभमर्यभन जा ।नि5क्वायन्‌ाास्‌। 
+ras न PK ke AN 
+
+
+Sahag årest de PAY 
+
+
+
+
+
+
+
+re ।नानिकेधसगर्नेगदवेनिय पृवमाः वशानेः 
+रशी An z राया उपा मास! s 
+NR 
+
+
+चुनान LR ह | NARNAIN | | 
+
+
+
+
+
+
+
+
+स्थिन्‌'वाजिनिरशव! शुभः सूरे निशा vene 9 जी IN 
+ga पृशुःवर्चनायाम R:Fog त GF å 
+
+IFE गा) EG] EN प्का 
+Ta FINNA Na उेषभ्यरशः।म ay | 
+| nn SG मरिक FEN श्िय। वेसे। 
+
+
+
+
+
+
+## Page 1165
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+. स्वय॑र्लिबाचमरितिबनावें | ` | 
+
+
+| ॥पृ०स०७॥ GRAS नाभ लभा TÅ शकी जाअभि आर्ष अश्व गो 
+| Syk Mr gsaela anai [सोमा ra | 
+nen कूनिक तिहरि।जा।सुजयमा नभसी दन! यृन॑स्य। GST पु ना न| TIRANA: 
+जगाम अर्तः सती जनयवु।खथा Felt PTE BEER 
+An R sitar iYragamnadmå) . 
+ar rå mek 9 FIFA aJIINUFÅ GIER tal Ai 
+Frya अं शु।दुहं ति। उच Rr Faruk 
+चर्ण स न ME midgai निता DA! 
+पव! सोभंगाय।सुःवीर्यस्य। IGJENN ५॥य से TAKLE 
+
+
+JARIR NIGA GAR SALEN VERT / जा से संभवू i na 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1166
+
+
+
+
+
+
+
+रभसानि दने)संशअस्यन्हरि हरयः रुनति अश्वः हेयेओअनिःशितनर्मठनिभशा!तित्र 
+Tide स रवां a ती E युदय; AIRRA 
+oT a} ERGER RI स्यापूनान) 
+
+
+Å 
+
+
+GEREGEER EEIN EBU तये। डहते। न वाउशं लि। हि मड waaa 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+i 
+3 
+Ja 
+
+
+त्योनी Gi u Bea MY Å 
+थिया: जनिता! å | ।सूर्यस्य। GN ना।उच। विष्णा ७२३ र å 
+ES वी।कर्वीना। करषिशवि cb en xp mAs f A 
+
+सवि så ha aN dr नासिं घुग गिर सोरम | 
+
+मानः मनीषाः GARA पर्श्यन। वजनी उम।अब॑ रा णि। आतिश तिवुषुभम गा बी जी... | 
+
+| ननासः मुद्रः वृदऽसु। वन्वन अवत सहसःरेताभशभि।वा. PTE | 
+aa 
+
+
+
+
+
+
+## Page 1167
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+॥ प०स०४। अशो डमी श्र: गाः Cape EN i 
+धनी गाति।सः 
+
+
+
+
+
+
+
+
+a ANN कृ लशौरेवः वति:इंड यासे म॑२ 
+
+भशैयासहर्खः घारग शनः वी नए देन वा जी। न। स चिं। से 38 
+दिव!जायुमानेः सुजान RE दुहान अ भर्वेनस्याश 
+| INNE T उचा नची 
+
+pes | RE 4 ga FYN å N 
+
+ia चा EURER नि RAI से। । 
+
+मि a थ्‌! MURT Fi på IPY A 
+
+PUE Kahi då FKØRNTPUTYJEATGA | 
+
+ऽभि कर्त NPR AA भसन ट्क... | 
+
+मतिऽभिःपुना न) असेमेयावाजीतरेविइवजरीवी 
+
+
+गपृयृ।नादुग्ध जञ vat | 
+
+
+
+## Page 1168
+
+
+
+
+
+| 
+| 
+
+
+ARNI 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CA 
+
+
+Cs UHR Lis 
+
+
+
+
+
+
+
+
+
+क 
+$ 
+Å 
+
+
+
+
+
+
+
+## Page 1169
+
+
+
+
+भव 
+
+व. भ pa री a 
+है Til $ $ 
+
+å ma AMAT if i Ei 
+
+
+
+
+
+
+
+
+REE NEA a विदशदक्माआायुधानि। वि ALAT ब माम संघ 
+भा मि बक्ति मय INYA i MRANATA 
+
+
+
+
+
+
+
+
+
+
+नांना दर्धापशव। यूथा। परि की शै। ज थे दल sm > be qi 
+पृ Ca भक निंकदव!परि। वा कीन! चृम्वी। जा विशा पूः 
+T RARER TAN जस्य। घाराग १६ ती/अरुप्रचे। GNÅ] å | 
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+TESE TE 
+
+
+
+## Page 1170
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+॥प्रृ०स०8४ उशान्‌।भा। विवेश।साम।कृण्व्न!सामुन्यंः विप। दित!के दन्‌ hei no 
+| ॥३७।॥ EY साच यो'माजार शभिगी नः डस < BYU . 
+ERIGE) विरु en i ये शव यु ति।से! १ थ॑ 
+gs = 8 ina न sg! WJ ea वाकू) 
+मना EF me | निरे 
+न ४ b ale xo år साजिश 
+RI 4 i è ai न जा et दिव! > 4 l सा 
+IRER TOE KERA: भर ref न meg qida: 
+
+
+hk TF | ugi | | 
+| a 
+
+
+
+
+
+
+
+
+é 
+
+
+
+
+
+
+
+
+
+
+Jå gå 
+
+
+
+
+
+## Page 1171
+
+
+hafi ende न ng 
+प po ar लीप er rE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EGRET EC KER made) एनिरिमनम्राइंसास।त्पलमन्यं।अछ।ज. | 
+व[अस्तौदर्षः्गणाम आ ha paAPAHUJUUNNN | 
+Å) El] m R nae A 
+
+R ।वाजी।पृवृते। मो; धा ०5 ALIAT i 
+Riddu नू! FJ ua यामध्या! | 
+
+i EN hg KEA E धाला सर्ज अणण R AGTAMAR | A 
+पिया देव पूचंना[इंदग्ध *था।वर्साक।द | 
+| ५ UG ।अभिक नि द व! गा। नद ।वृथिवी।उतया।रईस्य | | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+) पृ*स०४। चाचयुभआरळण्या आजे।पः जे तयैद। अपेवि। वा IKa er ed in pa | 
+
+## Page 1172
+
+
+
+NAS 
+
+
+दिर्ग्मदायाउदसाभस्थनगर्य न! व 
+REGN UF Ran KE एरो'पवख।!परिवो सि।कण्व न] MNA z | 
+$वृदी।श्‌$ग | 
+
+
+WAR a a R RARI घूनाउमा न! GITT 
+
+
+प्र RR ea Å डी 3 pr NTT pep r 
+
+
+हे 
+
+
+| 
+
+
+'मर्छःमंन। अंशु। पव॑मा न) से।तनि। एषि ण्व न इंद्र यासा परिः शि च्य मौनः å 
+te el EET 
+
+
+दरवा निवित्‌! भधि।स्नुना' ध सानो म Hide OE ag 
+tI 
+
+
+VEGI gar Ee VEEGA Qik म। अय॑_न।कर।हरिं।आ।स जानः मर्यः देवा | 
+g ay या ag XY ye sri सह au | 
+[| डा 
+
+
+aaan: मुरा maaana 
+धआंजो।एते।शक्ा सै IR pi TIP याता पि Èn २७॥ ए वा न; हूं 
+
+
+i 
+
+
+Raise नम॑भजणीः बमसो भ्यै।काम्ये। बहते। EK FEL 
+उम्र! av 'मर्नूसःविन॑त/वाकू एयई॑स्व।वा। घर्मणि। ली अर्नाकेआवे anga? 
+g aami gassen åR har 
+amagana Aana aaa माहि पृ Rogn 
+ऽयक्षीधराम।देवानो।उत।म द AY gene Ee k id i) 
+; से।साविं'अरईस्म।वायाःअभि।वीति।अरषसःनःसहस्रा'डुइनीः 
+
+यावज ॥१५॥द्‌ब्‌ः भ्ये नः परि: ainia Aud 
+
+## Page 1173
+
+सुग्म॒तिंधविश्वश्यौरा/ही वरिधनारिविःय EEE ER bi ब बादेवः 
+
+
+9 र (RNR de | 
+
+
++र्डा नरो दैसीति।वृनानः आश्व नकु द्‌ःरष$ पिय युभाननसिह।ना।भीमे 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+AG 
+
+
+ee 
+
+
+
+
+
+NARU एनाः कवयः A 
+
+
+
+
+
+
+
+
+NETT 
+
+
+॥ पृ०स०8। ज न पिम र भवस avdeling 
+।आ।पृनृस्व्‌। पृरः।एता 
+जूत th नानि। धीर॑। पितु। ना पे हमर मयृता नगआवृवस्व 
+क ny घ्याभाता niaga Skram अषि ha 
+g dd नि FG: m KAKA पृ 
+PIARA, रह पृ TE qa बार मृतिः 
+JAA å EAN qdim 
+
+
+। 
+Dasi sa iis pie यामी, शायर 
+
+
+गसो 
+नाथसे में। विभाग CBE AEK Med, IANA | 
+
+
+
+## Page 1174
+
+
+
+
+
+Sh TE 
+
+
+
+
+
+å Pa onegan aaf का वखापूयमांनभस्वृत्तिरं्री आ विशा बुहती। 
+। वाजुन यी पुररधि।जा।जा रवि) वि न मैभबुनानाअसदत(चे | 
+: par gs KG संगसुःह nd नानः 
+| घावी F त्राशररदसीरतिवि।सः। जीव्‌ रि e alk ग्य I उती Å 
+TR n FIAT: सब तवन tJ: 0. 
+
+षा आवीय्‌।०स्वः ।गामअर्दिउष्णान्‌। DE [ 
+न भ्रःजाअभु्वनस्याराज 'हर्षा(पृविनेअंधि। सातो। अह्‌ वसाम a दु 
+साम॑भम। id av भणी RNN ता aq 
+
+
+| NEST I dre i 
+ma न मक्ति।भिवावर णा। 
+चूय॒मांनः म Rao देवा न! मे वपथ वासामाकसभपव, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SA ला cata E? 
+
+
+
+
+
+
+
+
+
+## Page 1175
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+रजिनस्थे।हंचा।जपीअर्मीबो।बाध॑मान।रुचै। चा अंभिः श्री नए प यै। पर्य सा। ज भि।गे। 
+
+
+॥प*स०४। 
+TATE वृय।सरवौयः मभ्य पृवस्वय ० चास 
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+| घ å यापवमानेः रयि चान) रि य टाव्‌सोम चव धार या।अ 
+| सिंध॑।नानिग्नाअभि।वा जीजा नान ।से। 
+ae ॥९९॥ एबभस्य ते पृते!र्‌रासाम ag ति।न वे: 
+| 
+
+
+
+
+
+4 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1176
+
+
+
+
+
+
+
+
+
+मथर qimang i निम 
+नानः तिर सि।दुहितु। दधौनभवसौ नश द स Hit ai याति 
+चू! dg q सा AQ IRNI मामन ञुषऽसु 
+
+
+गणन: अभि 
+Jhan aM nn | 
+
+
+ह 
+
+og ) ५ iif 
+/ > ., 
+
+के 344 E ENEON å ५ ARARE 
+
+
+हमान? ऊतःवी।रेव।न। यें तास न्मी जनि) वायृवीची। 
+Marr पूयमीनयअृभि। AANSIT 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'बर्त्रासःवसना अवेअभि। Yang: ql ESE ज भर्वविषन दि 
+
+## Page 1177
+
+| ना अवीन्‌] रथि भेदे वासी मृ fen I Ea FEAA de 
+यमानः 
+
+
+KER EDI dy ञी भी जवे ANJA 
+| omme JH a 
+
+
+A भ नोवे ने से 
+AINT MITUR वाय्यस्य FÅ 
+SÅ ETTE रणायाम e: È 
+
+
+वः ea er å 4 च 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LAT nd FAU! t 
+
+
+; hin meg el au घ्या Se 
+pl 9: : URS 
+वतेम मु नीषी। सोम Aa ia Randa 
+
+
+
+
+
+
+
+
+
+
+## Page 1178
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+तुलया इंद रिह ति।मद्दिषा। अरद्व्पा षदे 874 
+
+| RVs haft भिः rj TARE ph !वृय। वृर मानेन | 
+
+Er area gg gåserd मे। राये yen 
+
+भेर्णसाचचिःयुग्नाविभवःसहाप 2३४ IIIA JURI: 
+
+RART अक्षा Rf TARA जय मे ol a 
+FN | å eo o a 
+JE vg IRS i 
+
+
+9 i gn RA एति द उसि u 
+
+| स pe नः विवासा tą 
+| | TAULE: ma 
+
+| i inil ği त नुंचि।वरेंणायमदेवाने( 
+| : UIA NFF TSAR Raimin YVER 
+
+
+
+
+
+f 
+} 
+y 
+UNN 
+HA 
+
+
+
+
+
+
+
+
+
+## Page 1179
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bk 
+| gire O n 
+
+
+रंग्रौयसामयातने ०२१ 
+
+
+harang ag En: तिष्रीमाजवीरनीरंदेभजनिष्ट/रो बी टिका चीड. 
+निगिरिः सा! असत्रंधन! ger dr सि Sar ons 
+a लास॑॥+ि:3शि व।सोमा। पविये। अश इनार JAJA 
+3 RA Hit l अ Å Jaan सर्‌ 
+GS Sa बह, रनवे) पास्यथ का 
+
+% ~ 2४४४२ RT मद युं।अधे क्षिया। परिकवे। वी गा E GIENE य 
+Hay waga gem | 
+
+KAN NER ser घनान md ugaquAd उपति eo 
+Rada € KGIRI ARZ fe RANN | 8 
+wet feka न. 
+
+
+E SPE BE | 
+a å å > 
+$ VER + i ; vg - å å 
+` +०+ ७7. MOSS à Å I टू Å Å, ॥ i 
+४ EO अं या ती | २-0 
+E X 2 po टे £ på F 
+- $ Å ही RS í रं 
+
+
+## Page 1180
+
+
+
+
+
+
+
+
+
+
+
+
+jo on र ~~ 
+
+
+
+
+
+CC-0. Im Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+BREE? 
+
+
+
+
+
+
+
+
+| | # RIRANNA ` 
+
+
+भ पृ०स० Gi | यभधसभम्‌ 
+FN 
+
+
+— RR A निक FE JG गावे [se 
+
+
+TT 
+
+
+ETT EET 
+
+
+` ५०४४200923... कायाचा 
+> कड) pr DEL 
+à १४१०५१५५४४ 
+Fi 
+= AG 
+
+## Page 1181
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TIERRA KE Så भास।सेददि।मृही। अपन बिशगाहेने। 
+Ry på सरिनःतंम वसः आस ।सीद्सि॥ ra 
+[मातर NNÅ 
+
+
+J 
+å Ki gn Rima pan ग 
+4 am पर REMON! 
+नि 
+
+
+aa å å damgandaeenn | 
+na FA RAK GE taas KEE RURE S Nl नमपि १ 
+NR | 
+
+दुष्य सलपी ao 
+नामहि।लुना॥२८॥ TEAM प 
+
+
+
+
+
+
+
+
+
+AMN 
+
+
+।तमीसि। 
+anau ॥९॥ 
+
+
+ae Rss pryd 
+
+
+## Page 1182
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+३ पुर निंनी'यः अं चैसः। सुवायमादयित्ववें। अप॑ श्वा Ayer ea 
+
+Taghain वाव HEN Fil Eh i 
+
+Jo and Slug be re भसा 
+gagaran देवासं/अअुब॒न! 
+
+
+TR A EEOC CAIRE छे 
+Ruge få RAAME NJAN. Vedk mi i 
+
+
+Amain PSN MAN, ET eu चनान 
+Do natn 
+å JM 94 FFR SN वयः 
+
+
+ओनिइ भर janani 
+dadota Ata RLS PAARA NIAN 
+बानाभअजरेपसे/सुशआाध्यंभखः 
+
+
+RånugandsflfaRalanu अर्थि 
+
+
+## Page 1183
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+o यृन्सन५ 
+
+
+fo निरबं।अस्पभ्यो अभितः।से\अखरनव सुः विद एते। पूयाभ वि व A से मासः। दधिः आ शि 
+
+
+उसना anadi र ng लात 
+वागा gagaan NGI FG FG PYM FI JFUIH 
+aan नाथा षंणो।वृरः ना यानिआ$सदंस tegen y = 
+
+## Page 1184
+
+
+
+zR: Rakaa aa 'घागनायानि आस [अधि 
+a महीना दिने 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iT | 
+ल्त IRMI ge SPÅR Y 
+en Aad पनसाः Ta 
+
+
+
+
+
+
+anA: AIR 
+re । श्रिया ञय। ध ३: 
+
+
+नि RİNA RA 
+mrdfandqug ॥१॥ 
+
+
+गोपि तायव!अस्यामृता सः 
+
+
+
+
+
+
+टू REER AG Se आधा 
+i नरवर 
+å i $ 
+Bi 
+< 
+
+
+åå 
+
+## Page 1185
+
+| व 
+E 
+å 
+
+f å 
+r Ba 
+å 
+
+
+
+
+
+नै।यव॥ छे॥ योईमि ति गर्भा pass 
+
+
+
+
+
+
+
+
+p hn ml कू विम्‌ हिं अ ध्वेरे।पुरः3स्प्‌, 
+'समीचीनेरनिंसःरचीनि।अभि a कलस्य भातरा।तन्वानाथ य॒से। YTE 
+= शु EMMY र RuULIURIG ANA 
+| meg घंसे।से।मांय।व तेभविं।न। भर मे नि। 
+
+| कि अजया गाभि।अेजान/अर्पति ।चुनानः। काश 
+'मृथुऽश्च तअयये LIESGT ET LE ved सु ती नवि 
+अदाभ्यः सामं बना ET PE हरिः परि av ।खृथाम३रेण।या हि।सःरथं। 
+नाग 9RAYA: om गपरिसप्ति।नावाजः यु Y आनरि/ 
+| द्र Pi घावृति॥&॥ सराय जनिसीरवापूनानायीमायायताशि he qR 
+Ee 9 å EIEE e नामा द थि सुजते गृ युः सा धन देर्‌ जये मर अभि।िउशविसे। 
+
+
+
+
+
+
+sg Mg p 4 र | | Då 
+å RTT क NR i å Åre Ga 52052 vit 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+## Page 1186
+
+
+
+
+
+
+
+
+
+aa ५०० 
+
+
+_॥ पस०३॥ पनास दशुःसाधैने।य था री त नि नायीवरुणायाशंःवंमःजुस्मभ्यौतयाय 
+er हर i gb नाधि वर्णाअभि।वासया मास न्‌ मरना दैति 
+| द्वः च भजा कास ke TIPALA IA [जारसस 
+Hao RH å युग धि।न॥»॥ ते।यृ॥स खा यम IA 
+आ URs age JA PAY 
+Mg परिशरुव 3 AMILT i 
+
+A9u84: ng APFQGAN HEN ।गाषर्द 
+YLE med गत Waa nn EINAR ते 
+असत्‌ आजअदेव।क। पिन! जविण।स का ना।ड दो: वा षे अप हूये॥ ० ॥ पं: å | 
+द्वंणार्‍येताहरय श्रुद्दी। ज्ञातास॑+रे दब R जय भरा य/ सा नूसिशइईडाय। पृ. va 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1187
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+अखेरिदरोमेरण्य Rajna 
+ते।सुत [सोमे EELS 3 ।यथा।विदे। aA ।१+णीत।सा न सिं।वर्ज ranet 
+
+
+
+
+
+
+
+
+
+ईभिवाप्राधलासामाजाग्टवि।ण घः मंत gg जा भरा ख विदं द या रबे णे। मे दे। 
+विश्वः शत सरखेःया मा प॒थि) रुत्‌ दि! चक्षणः ९॥ अरम ee देवे 
+
+
+
+
+
+
+
+
+
+
+
+KIMA p कनिका यार दोडति/धाराभिभओ 
+| UG :माचासामानः सद: k EEDE RE Gi JIJIA 
+EE a 5 OCEN GIRL धावृवारयि।वृष्टिःधाव। रीति आप 
+
+पुना 
+
+
+
+
+
+
+
+## Page 1188
+
+
+
+ज्यः FURU वात) पर्व मा KAFE | 
+०.०५ ती) 
+
+$ se eT: त्‌ || 
+वय RRAN: स्तातः gadt aqai यापव शसम ||| ` | | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+; t 
+
+
+
+
+
+ETE VE 
+(३86४ म त्त TRO == at JR DNG EE ERE kne 5 
+Re x 
+
+
+Er i "रंजन ण > R ETT 
+| PEER RER er ETE TRER FR 
+sos PTE JE वह Br 4१८८ 
+
+
+| 
+॥ vegen घार।जस सत रेन॑ न! पृ विच्े। परि।ए ि। विश्वत ९९॥। हित तसतं सामः यः 
+wa pe aRqAYUFUF igam fn F 
+| Rs unde IRA vanen sjette 
+पहन से देवः म दनः केत वि$ चु णेः is ।साम।धार 
+. PMAN mainin RA रण्यय Ba 
+l दिव्यामधीप्रियाज्रलासधःस्योआाजसंदताआःपू på {i I 
+| | MRAN: deg मा que an 
+d TERETANE सोरमभमीद़ान। ERAM IMIRAA TIRAMA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+E मं? कृषिः भिव सगभी garna: å 
+an AER NEA ३५ | 
+
+## Page 1189
+
+
+
+
+
+
+Å 
+
+
+PÅ 
+
+
+
+
+
+
+
+
+| ah Argen br per Rag na | 
+
+
+ratt gat KG SIS ETE ROE मळ FY याजन INIRA RAVNE 
+es नि ॥ PATJA विरः ज a नावास 
+मनी KNE E थिः T ME REEE EE A वये।सिर्थः। न) 
+| सा।अशोः पयसा!म R न Rist gegm 
+TERENE ERE E NIK sage met snek 
+Feng ne १म२।स॒ भुर fag Ragg 
+रास: स्वःविरर a समूद पवमाने पिलाना E ELEKEA ETS 
+॥वरुणस्थाथर्मण्याभ न्यान कते! वीर 
+ef FIFA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 2५4४ 
+
+
+
+
+
+
+## Page 1190
+
+
+
+
+
+
+II LAANE शुणभरा 
+।मरुलने।सु वेभस॒रुख॑*घार/ अति å i 
+
+
+
+
+
+RDNA - ~ n EE 
+I ‘a क.” 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+E t - 
+
+
+
+
+
+
+॥ प्ृ०स०५॥ | ति।तेईमिि। म॒मे Rma नान EEX tur FER rur g 
+nB ।जपभवसांनपरिगोरनिः) दन! वने ब अव्य त। व व जहं। सी म।रर ण। सुरच्य ।इं 
+{ | इवि।दियेःदिवे। पृ रू REED Lae YR: GE | 
+'हानक्तापतासामाता दिव सरयार्याबृशोडनिर्उथाने घुप्णातपंताजति!स्स्थाय्रवश् 
+| bo ज्युमांनभसुभ्हस्स! समृ चा Rur FAGEN 
+| | Fama ATT वार। पव॑ सा ने aka” AJARAN ARA 
+
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1191
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+पृवूमानानिळळेतागाविभ्ना न अर्षसिपवस्वप्वानःसात ये।अथि। विश्वाः 
+लगन कल त्रधब दिन्या व। सा AN 
+
+AE AIEA | FERS EE AT 
+J på naaien ag No 
+
+
+sataan भणोबसोन: पारे, १). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+धळूण्यान)नानिनिजंपरध्ापूर्वस्वामर्धे 
+
+
+साकमिः तन येन।ज्यो तिभ मंदं w वीर oy ae] 
+å यृक्ःव॑मः।मः FE ISIE E G ! 
+
+
+मशन मःइदररय।सो य ऊनवित्‌ऽः 
+
+में। जस्य।पीता।स्सश्षदे सास र्कत In FK NUT id pa ग।एतरा 
+
+## Page 1192
+
+| RTR मानि।यमनउर्तमधअगमनःलवाय। NY sog 
+a å rene देवानां EN sariin på Sy नासि 5 t 
+ह थ्‌ valg धजव्यभवारभि पवल मदिचःत मः उेमिभञुषो 
+| २जवभलश्मनमविमगा। जर्रूनत। जा मंस। ER on 
+
+
+í t i द i ; 4 4 
+ev å. l ह चा HAS KAL Å få य्‌; > $ वि 
+
+
+
+
+
+
+
+
+
+
+|] गे अशय 
+SETE iTA 
+i १ bes 40% ad ल ha l RA å 
+
+
+(0-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+| ae 
+
+
+
+
+
+
+
+
+॥ परृ०स«०५॥। Baan वृश्युशवि।को शं।मध्यमे।यव। जा। बच्यख सु श eo | | 
+॥७७॥ जाविश्र्याविधयशिदिव ran hagY reiia 
+
+as Å y SYN pl भं ठय विश्वा aq ta wa UM रस 
+
+पंत नचा निया।सम | सः भि fa 
+
+z z ।वसूना।ययरायो! आशनेता।यःइळाचा। a MARNA j! 
+a | A मृणा ad on ESF 
+
+
+
+
+
+
+
+
+
+## Page 1193
+
+
+
+
+
+
+
+
+
+Å ! सामा resa gs af: भे Ap IRA 
+Å हि सोम था ने। आ। gan po å 
+VIT IG चूम ॥ १६॥प i TANGEN 
+EG म।सुनस्ये पियाशकले। दक्ष य। विशथे।च। देवा । एव अमतय) मृहे। सयां यस ] शुक न अं 
+
+
+
+
+
+neu 
+
+
+
+
+
+
+
+
+
+
+
+
+E ae वी यूषः। पवस्व सोम हवा ।पिचा। देवाचा विश्वा अधि) rd gg 
+5 på genus: Å K ae TER 
+थ्‌ aq स्व।साम्‌। ध्नी धार) FE FÅ MT Pk 
+
+
+
+
+
+
+
+ले | 
+
+aan | 
+a न 
+
+ki: RIA वनद V E RE RUE RADY AC UE ke LETEA 
+
+साम्‌।क ते।दशोय। GIA DEE KE EUR TERIEN 3 
+
+
+
+## Page 1194
+
+या e R वारेगरस।मदांय।पृति।सा]| ` 
+RAO ग्य! t a 
+nie (कवि E pre 
+
+
+परदुरदु। पृ विष्ट! चा Gu 
+iR I A 
+Eie tE Eert dule die UIRAE सुभ % NAAR GREN 
+निरगपविच।विवार'अव्यास। वाजी! असारिति Gea मृजानःगोभि। श्री 
+mnanaa aa श नर्विमयेमान।अउभि।सृत।असंजियाजी।तिरःपृ 
+$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+5 t 
+
+
+or RD ER ike ED sei Er Ed A ON 
+RSE: $ p 2 id RH 
+
+
+
+
+
+
+
+
+
+
+
+n 9०स०५॥ Reamhar ayida ad 
+
+nn 7 sg 5 नह ISA we कक p 
+
+Å RARAN पति भा १सातय। परि EN Ola क्ष णिं: हि व Er 
+Fe च पु 
+
+## Page 1195
+
+
+
+णः्यामन्‌ःईयसे। AGRI E मं।मदोमसि।मुहे। समुर्यः राज्याचा as 4 
+UNNAR ma (Ms 
+
+
+
+
+
+gömma anA EX म sad चारण स 
+वामेःनऊीसनिस्वदर्व्आविभेभि) हिए्रवसा। व॒ å ANGA er 
+ER pinne 594 ल Tog मानास 'आप्यै।वसःरुई: 
+पअञमि।अुनू पता NU NIRIANA Å: be hi dk AO | 
+। हिवः मृहे।वाजाय/श्रवसे/थिमी दधु an सीम ANA 
+
+
+
+
+
+gd म å X Et | 
+må चा R | ad TULA 
+
+
+z > 
+० See 8058: A : È GN 
+pi NNN NN NNR nS 
+
+
+FRÅ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+नासी माशन ३३ अयो।रुूपा। auk | 
+डू bee ve तु ।जरुकःाहरिं ire as 
+sats थि ल aan R से।मा तःमिं। म जे यसि , 
+ÅR | हर कै JEF ऽगनिः 
+ns, på å क IF | | k ASS ark q 
+
+
+i 
+
+## Page 1196
+
+TIM 
+H 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Å ८ 
+मकर Tr å 2 x 
+w F. 
+Ke TIE k 
+D E i 
+y E+ रे. z t Å EN 
+pr 44५ Å p ¥ RR AA 
+ESTEEN KE > Mr å Pee SC 26% TARET EEN i र 
+Bra nen EY Nh CEN å {SRR 
+SJ dn eg ह 52335 EE EE क...) 
+PCO EY I : å 
+EE VERNET TET re ~ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ene । देम दर्शतःरथः।जगा न पक्थानि पे स्मे। जे नाय पः agd 
+
+
+## Page 1197
+
+| CE DREN GS O ge विन हे feer 
+
+नो।वक्षौरिष्ट।रुतानिषक 
+
+जा ह ser Ria p ii 
+
+बली दधानः 
+
+तःबाकेनासत्ये as in 
+GA | 
+
+ett å स र 
+
+
+i 
+i 
+i 
+i 
+
+
+a 
+
+
+
+
+
+
+
+
+व Ry $ स å तिसन ragnarna hag er | 
+वनरा सोम Ea मा बन at KE SEN Å | 
+JR PS mamar lal ERINA. 
+aai g ASS fa ।अनु?का में। ३ | 
+बला काथय ज्योति que वीका य NE 
+
+
+| , 5०७ RE på eni | न ar | HEAR) er RESTER | 
+EG Kr Add Na GO AKG ALL OL | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+: t å 
+
+
+
+
+
+
+
+
+
+## Page 1198
+
+॥ पृ०स०५॥ Gem Å 2 
+| ॥७७॥ अुस्था 
+
+
+(किं।चुन।जामृमृता ०।२०॥ मं ॥ अग्रे(दृरन! पसा | 
+FE ve RAJINI at शिशु वि 
+at तख्ानिअग्राभसःन्चावभगर्भे 
+'पारान , 
+
+
+Qm जि vi नौरुशवा/सअं गं/जा। नानवगवि 
+bi p He NF ENE br hl Å 
+je क (uke FA FRAM । 
+na yia Ai 
+; AEE | Aaaa तस्याकेतारुश 
+| Rd YT । पेशनानि) सनाभिः | å 
+
+
+विक) रु परमं। TEN तान | 
+k die पेट: od Ra Ngah om | 
+ल ine FA मेवा प्रतिएि gd अन्यःसूपा। असि 
+nd FEIE KIN ARICA रवि रथं t बु।रुशनपर्नें RIESI या 
+GM: å mat दिय डर ०हिँते।रान्‌ नयति देवा ना भा। हि। go: | 
+प BES पी aiia eiio See ki ये! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1199
+
+
+
+
+
+
+
+
+
+
+
+Å 3 
+å 
+
+
+Å 
+
+
+før. EP pr 
+
+
+द 
+$ å 
+3 
+
+
+
+
+
+4 
+Cage 
+
+
+
+
+
+a ATJE ; ते हेवासःअधरानसमकदे, 
+zayen z å am å 2 en बिम बहार अ ८ | 
+
+पुणा चुः ar VAINA a gs Hi भकुत्पयावि।यव। पू पृ ५ मनसाः : FE 
+
+स्प नेम सा क JARURI dempende Å 
+
+
+
+
+
+
+
+
+
+
+## Page 1200
+
+
+
+x bill å av AN IT: å Ea) AA RA ।सुमा न।स/आ। यू मुख न)वः E rå on 
+` FØLG Å fonr tE EEU Re liei faigs | | 
+mandag रिह पिदृऽ यानी घुः्मत्‌अये।संःरभानमविभा हि ७०॥३नभरागन्‌ - | | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+॥ पृ०स०५॥ |: 
+१४८ 
+
+
+RA सेबी: दक्षांयाससुमाना|जदरशि।विकिय। R Ra nmana 
+a Si नूच ns साज न्‌।यापी।ुहेत षु गी 
+
+
+
+
+
+
+
+KG यस्य'खभायनदिवः RATRI ME माने जागा 4 
+TANAPA T: RA । अणिः ना (सर ११७ 
+
+
+aim amq maA på å «ge Se लें 
+।भामांस å AR HAR चे।स्वृनाभन्‌। | deres 
+
+## Page 1201
+
+SRI! TE IE UUR A: je 
+
+
+सःदरशान BT må 4 TR मवि 
+
+
+१. विगजरतिशभाति।विश्था/स Fl | qaia R: | 
+अघिःसुभ्तुर्कमसुः्व नरम भमर ~ tn ॥ ३१ i (यं se |n Qu 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rhah] 
+
+
+
+
+
+लसन वरजः E सज 
+
+
+
+
+## Page 1202
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+amda | I 
+
+3 Sar Tel au ना।थ | 
+| ARTI ~ 
+Å म्‌ ing | IRA faq d 
+| EN Na या da सी 
+| PV ITGEULIGAN नस | 
+| gral MER str anda KE 
+| SEL > (अ ! | 
+
+युछन॥%२४ए: på SA EN (सति; 4 
+
+
+fi 
+
+
+रक्षाण Tide ९.) | | | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+E t : 
+
+
+f H BE 
+s R RR 
+ee od EE 
+armeer 
+
+
+pe 
+
+## Page 1203
+
+च्य 
+
+
+ASF EN >. EE ८ यश 8००२ ">> TEA FE NE उत्यटकक 7 >> aa == 
+
+
+EE दधिरापराणाक्ताथेनीर Å usle नी 
+
+
+
+
+
+a Fi 
+
+TÅ samde q ay Aa न 
+
+Kill Sk feat | 
+
+IJINER da mAs 
+= aR iaai y EE 
+
+AIF Sø la अरुषी FIF RUG BLE AG (DE SEG 
+Aria ai E EUS EEG EE EEE E स 
+
+कवय चेत क्ष तासा!ए क आ år An IR! | 
+विःसर्गे।धरुणष।त NARAT nås 395 
+चिः ह।नृःजथम्‌ःमा तस जुनि ॥३३॥३इविसत्तमाडकेपंचमोथ्याया 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| SKADE ES afua = ।ए थते।सुरिवा। जभ्य विः यः AN | 
+3 ehri ananas नि mgg जन ae q 
+| FANG ED aoma agad हि; ऊुत el SÆ Tel 
+Fn: Rgs विश्वः å gyd RA यस्मिन्‌) भना यी पि जग्ने। ५ 
+
+## Page 1204
+
+श्रय NB न्वा तिः EN HAT SH la अछार घूःप्वा। जिगाति। 
+ATA E PAETE AERE E K: rea | 
+Arie da: NÅ 
+S$ GTA GAGA Gi तसः बाजे नाजश्वा। ससि: वेत eg 
+Affana så Van आ ऊणु अ dn sg 
+qM ER ps g tjian तलव TAU EET aa 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+maaana À | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+## Page 1205
+
+
+
+
+
+
+
+
+
+
+
+
+
+| i) Qoan a 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+vikna 
+
+
+| ययातेमती अन भोगमानर्‌ ५३) 
+
+
+॥ Yo tll ॥ $a FAK Ge विश्वः आयुः जे 'अमथीज्ञादेव!सर्चे महि'त वेद 
+Uyon | ERS] IRMA: sr miya न ha (जू 
+å Ráma maag वा जाडे जिन ॥'झरिनि आपि अग्नि 
+|जावेरे'स दैइवएसरबाये अ वे! जर्नीड डतः स पर दिवि। शक यु न॒त। सर्य स्व / सि भाग जू 
+Fyns eu नायसिग दमे आविस्ता रत: वो।स २ रो हित $अश्व। चुरु 
+न på चाळ इभिः चामो अस्ता NRA aa: 'मर४याग। प्रले।कलि जे! I 
+स्वी NLP आ नी TFF Eie Area FY YA 
+| दिवादेवाना कितो पार्क कृण वृत अभ्रः चेवाभयथी अयज्ञ: क्वुनि देव दे वान। एव 
+2 gma bk ra ता।उन।शा पराश भव JIS RRID AAJF थाम्‌ 
+magaga Aangaan aama 
+
+
+
+## Page 1206
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| iayo AIRRA, 
+
+
+'अनसि:।०दिव ।चित्‌!अंतांन।उ पृःमान्‌।उ आनंद जपो! उ पऽरेछे। म। q 934 Mai 
+| भ ESN दब ATV जरावीः कन च sing rare 
+| ki t YARANMA: 'अुध्वेरे।द्‌ थिरे। 
+AFG TEN IF JH Se Se EEGI 2 IRAM | 
+T pSr ।जभयृःपिभा$ zadı ag FEF RIAR AJAX 
+
+
+
+
+
+
+
+
+## Page 1207
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+E Ae यो पाः शु De E eE K EEEN E 
+amgaang gA gga ke AY 
+| य॒न्‌ऽभि भि Rad दधिषे) खः) Agua Sam | 
+så GAGA dama a på SANTA que पर स्यसचस्यमानेः 
+ज्रोमउपऽस्थेr्जामि)अुवाणः। आयृचावि।वेवि।सः।पित्याणि, आयुधानि) BART 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+i S 
+
+
+Tan å rage 
+
+
+une 9 
+
+
+Ernst NPE 
+
+
+
+
+
+
+## Page 1208
+
+
+
+
+
+
+
+
+
+
+
+
+
+EFF mL auga måde: Fra 
+må EAGPpETA गे नॉआ*च का ण pe rat 
+augnn हि)रछ। मय व वाशनः जे नमह PIRG: 
+॥शिवः pe ।सस्येमा चयचु।इह 'न।उशती INJA 
+क्षयांय!मिन्बंथाआप॑ जन pk GF श न: देवीः अभिष्य" आपे भव तर पी गे। 
+| meer त्‌ १नु ईशानाः FA चर्षृणीनो१ अपः याचामि। येचः 
+hon i ओइ जि वास जस्या बजर र चिव * णी व जग MA | 
+A ।नपरति आ।दचीव वेणा: आधा शमि) प्र तरे। न Ji (सखी! सुरच्ये। | 
+।एसतसऽलच्मायत? विरूपा! भर्वाति) नृ हः पृचासं। अर्यरस्य। वीरा द्वि] an ` å 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Å 
+अ. ह. 
+
+
+| र Raa ऽत्ति कृतः अर तांस१एतत! ए क॑स्याबिवःत्यजैस मस 
+'निलिगमनःपमर्नसिप्वायि'अस्भे ।पृति।सन्वेआविविश्याःनोयदपुरा। चर 
+RIR GE RAN वदेव अनत E अबल shan: 
+।आमि।ततानी।गर्ती gingen maig PIA 
+रूपःनकिम अस्य T दना/अस्याएथिवीउतायो 
+
+
+
+
+
+## Page 1209
+
+
+
+
+
+
+FEN CENE MFK NÅ इत[मिचस्या 
+
+
+
+
+
+«fr चु। आहने ब NT कार्म आ! जग न | 
+
+निमिष शेवया uk Get NR FE वारथ्याशिवाचेका ` | 
+
+RUE दिवायोस्प र ह R | 
+å bea 
+
+
+
+
+
+निम जस्मेःजर्हऽिःद्शस्यृःसर्यस्य IG | 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+ETT Li 
+Bg, ./ 
+
+
+l पृ © å Q ul E 
+
+
+TENT 
+
+
+
+
+
+
+## Page 1210
+
+| | nD 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+x M 9 
+
+
+डभइुत!मिमीयाव। दिया। एथि वुलन hws विद्या | ५ | 
+जर्नामिजाघाता।गछान। उन त॑रा/युगा ॥रुणेउनाजमभि।उपीबृः 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yn pl AEE sgy aon “hn Fi 
+siae aaas o ।निःगछीत्‌) कार्मः मता।बु 5 एत व र॒ पा मि। त. «At 
+| m विदन [स्‌ r FAI bm Ad dr | 
+| RY FK oa be hsr Le JAH भेंगे। व ि। एत ।बृतृ।ज।से'य्‌मृ।न्‌ 
+
+## Page 1211
+
+
+बिम वदा | अन्पा/किली SKAAR BJA 
+
+
+Fenai gaa Ramia goe जा 
+DEA :] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+इणां $भड्‌॥८॥ सणी दष्णे ag सा।दिवशषर्यी | 
+GÅ er AARNA | य॒ reir Q 
+
+
+
+
+
+
+
+
+À य aa de 
+3 X z « 
+
+
+
+
+
+
+
+## Page 1212
+
+
+
+नमनम्‌ ष्टस्य म थ्यो अर्थिति। नि। धावु! | 
+नुःन्ना तानः JSFGFAA å 980! wh Få Ag | 
+FE ANG AF FF अ प्िं HAIN . 
+जासे ABF gh kalet GRES ki Ek EEK ` 
+vesener ER egene de rd på qog 
+FFJugraGn KJE वा।य मानक AF FANA 
+pa ERE NEGAS EAE भगर तदी y Tan EG 
+
+
+Go å | i 
+*अपस्य मुखप असुरं वे मृतीये ra sy fet i o 
+: Å agM tang Kok OR सथ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_ » :  सिः्मानाअमःवानाभषति।यूना|यव/अजएया/स EUERE IE fiib E 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1213
+
+
+
+
+
+Ya osdl 
+
+
+| grenden 'भागेगन्‌ ak बी ता व an A 
+}i 4३ 
+
+
+ags I ARTE ले। E Uk LAEL saa: 
+Mardi REM ९० घावा ह IN GYYT på !अभिःश्रा 
+भवत सत्यःवानचा देवेशय ला म nae णवन्‌ सीर्दन्‌। दे å ENN 
+nå AE bd DI KA JYHUF आणा याच | 
+कध मुंडन हाताीनि 200 UNE aq 
+रन इति बि a mer KEUR pg Ren 
+
+
+IVY a 
+ske vu hga तः थांबा | 
+LAUN pt ad me मीसि।अर्यन।म et A पी | 
+FBRRANITESAU अस्यभअवि!्रवंपव रुम कः वि।ये दमि चितै neu 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| जरुधामो अग्नेसदेनेस'चस्थुपुथ्वारथेम मृतेस्यद्रविल elska rea २ | 
+
+
+राणः वाना श्लोक न। यावा जपि! नास अस्ति १३॥ मंत जत अुरुयस्पा ना म॑। org ` 
+| सजनी ज च था Å 43 Y add वाह विद्थे। भाद i 
+विवर तस दने। धारयंति सस्ये मासि! अक नL परिधावनि' उरत्‌ अजै 
+।यस्मिन्‌।देवाशमन्मनिभ्संःचरंतिः अपी चीनः वृयं'्ञ्स्य।वि चमित्र! नञ जदि| 
+
+## Page 1214
+
+Aaaah aig: JEMAN] e १ स । वअ पूय नमः+ भिः 
+> al sia WATY hA TJA ne व 
+k gar gane GTA Š mi | 
+AE de a माज ru 
+'अनेअशराह।चनु&पदी अने। एमि।बने नी GRA 
+EN 3 SKA nå EN seer NNR 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+F 
+Ti र 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+॥प०स«६) Et pamana An ARARE SA MÅ gata 
+Be ॥ K Hus अवीवर्नन/कते।उन विं RAAY ki FIAL haa | | 
+TGI RUG NÅ Brad adganfrjoheaassaamag ` | 
+| JET Bs NYA ITM युम। राजा ने। हू स्यभ्युमः न्‌ गाव प्रथम Ar +न्‌ Gå 
+चाग तिः न पै भर्व वे? रे नियम पूर्वी पितर: TUE geat å A 
+
+'स्वाभमार्तेळी कय मे।अंगिर A ki स्प $भिभवेद थाने नातक ता 
+
+बड़ थे iq RAN घया GE PA YEE आहि सी 
+ऽभि Is संविदानः आल्याम कना Tarn TA Å 
+- _ _.विषाभादयस्वा Å Eu NE er saata 
+y nA 'य॑।पिता।ते। अस्मि न! यूसे।ब Ak eE MES UEG AY 
+
+
+
+
+
+
+
+
+## Page 1215
+
+
+
+
+ad rate IA * Resa sa | 
+
+| नके AU Ga LS LAGS EN LER यो नाम हितमा इहि। प | 
+पिं इ ।गउभा।रा न (सधया दयो pk FG 
+Raudt: en ।प्रम।विशओम kai YI = e 
+y a | 
+
+
+PH का 
+
+
+faux सर्षृत।अरतः ञं ५ 
+अवातिति A न नो ज 3१ 
+å AE वा यमभ 
+
+| dg 3 À Ttek तरि i 
+Eks FA PN Ra HFNI C 
+FU स्पास्ति। नव på रे GUYNIFT 
+
+
+TG जनान्‌ RYANA AN | | 
+
+
+7 PÅ x 
+EA 
+BE 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+- meee > राका Saba SOGN 
+
+
+भुद्त्नवेतिषेत २! 
+
+
+gaa mdi aug 
+79 aia å erd: 
+| bl १प्रामीवसयमायामर्थमतःतमारा 
+| कषिऽभ्यःपू व्‌ऽनेभ्भः इचे भय lå MART UA के 
+उच एक इल दहन । जि खप गाय जी । ऊं दे सि। adian गता g 
+garana AE भसाम्योर्स: असी ये! ३ यः| 
+AIAI IG AA t IT 
+
+## Page 1216
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TK यमाये। से। मे 
+दूनः अरेऽकरः यं 
+
+
+
+
+
+aS 
+आ। FAA, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1217
+
+
+
+
+
+
+
+
+
+Raega | 
+| यी पूर्वी सः! उषु सः iqi ge eie ape uq EE 5 | 
+| j aa! er 93 
+
+A ia sad GT नप रड! जा: गे मे: छा pt Bl NE 
+
+
+3 $ 
+“अ २ f på 0५३४४ Ao pp: ह av GR hits व. १०0) 5 ९ K * ERT EA 
+$ A pl ae O OEREN RIT FR CENT 2354 कक PR SE AANA å ORR Ne PN SE MERRIE BIBER» SENAY FE NO 
+M EES Senin NE mn one RCE IE FE 06S PTA) DT Ta TE 5 n Å urne र ३ 7० र ए = CR 
+K p प च Nr MR PTY 
+
+
+PERAJE करोम। 
+
+
+ली ।उेतीजवीर्क। musen gs am bund 
+MAMANA ANA Eng IAE tAn k i | 
+qyi ब्रियेष ते।आ। गर्म थे TE EREE RN JT NG 
+
+se må दक्षिण ajada F 
+FU :।०आसीनास अरुणी उप 
+
+
+i aR: FE sA 
+बे qad å T NY भिन यृमशस्‌ःरशणःहे' 
+
+
+उशानउशाव्‌३$ जा au FAUY pre हद ग्‌ 
+EU 8 ar Å 
+ASARAS NRZI 
+
+
+
+
+
+
+
+
+
+
+
+## Page 1218
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+di ge 
+o Bua gåaas 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+## Page 1219
+
+
+
+
+
+
+
+
+Ta Adunan *य । सवे थे i KS 
+Raam Jule पितर UTIRAR NA साने 
+ayana å 7 जान: वे oa होन JEG 
+iq Dya जो RAYN: 
+PETNAR AAM ९९॥ मा।एने।अगने नि! 
+
+
+
+
+
+
+
+
+gamet जसन्वीति/ टना नोरी hs 
+
+आत्मा'्याचाग ऊ व थिवी। ब। थ शि HJT: 
+
+JAA: nag 
+
+ने! अर्चि आ वाःत चै जो नै 
+
+Fag ds YA £ EN (आते 
+
+| नः उप l 7 लमी 
+gafa 
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1220
+
+
+| | å आभ्नेयाहि T 
+| ॥ चश्सश्ध्य रथो व भौनां।ण सहसे १येंदेपृरें व्य t as! iqa BANICA 
+| UA | Maa fe 3T RoR PIGER 3 वी 
+
+प्रश्यवानि रथस ananas å जला Nr 
+
+
+| 
+।स्व्‌$रां दज सु 
+मजी i 
+
+
+i mAai Triang | 
+. नीपोहिणनोवापिनःन्यं। शुंवे।यदा।करेसि जातःवेरे yr SIKUE E 
+
+
+द 
+
+
+अन bi TU TIK HU 
+
+
+ER højere Ve Lpi मिम Amio 
+! । मेदसा NT IRALL] l MILAR GE 
+| परिःजंखयोने।रम SAANG दिवाना उजासाम्यानी | 
+
+
+EA å i “i +5 Age ; 3 
+RR कक Vg ———————--— et IR ST alm sr mm tas ; sr की EE 
+
+
+UYeHFoa 
+HAS |! 
+
+
+I a 
+pezi 
+7 ७ Å 
+"अ. 
+Fa 8 t- ; 
+है लि AS 
+i र ep 
+INOA 
+| E क्ट 
+क ह 
+है 
+है + 
+दच. 7 2 
+s | is N nt, Å 
+
+## Page 1221
+
+Å 
+oe S वा 
+है ५ È I và 
+ड | l x 
+É {3 S 
+ts 
+r | P pe : 
+í | ; 
+र SE 
+o >` 
+Å xd 4 
+
+
+
+
+
+
+
+
+
+
+
+Renkaan माद्यृते। क यः जरे sf: 
+क pe TERUS ii ॥ जो Jen 
+
+
+me me 
+
+
+हि।उशंतेःसं। i क 
+vr 
+
+
+'युम दाली मि u | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1222
+
+
+
+
+
+P 
+ERT ee | 
+” Sete arr SOE . 
+
+
+
+
+
+
+
+
+LER! सप्र 
+
+
+
+
+
+Ler i ME षीः 
+AG jo pe 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+
+
+
+
+
+
+Sju dan: ad iE 
+me सती ae 
+
+
+la aug à 308 | T । 
+पट SA दबा Ja ae 998 
+NFYR तमा क TR TAM मा।सहा खुंघत॥२७॥१९ ॥ ९१ 
+
+
+यस्तेरष्स मत्त आर) 
+
+
+
+
+
+द्रधीय आय gaten 
+
+## Page 1223
+
+
+
+थौतयः N ! वानोत असते 
+IEE, रान AUFA ऐता ०३७ 
+
+
+द 
+på am FA pe p 
+मि i AITAU अथ हा Taks । 
+९९4९९ 
+bs i: I बय रन 
+gi अर्परभम गा i [हवो 
+
+
+| i UNJ: 7 । Fa AFR DIT 
+Fr da 
+J URAL nt हेतृ। अग्रीउन 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+A 
+
+
+> र 
+
+
+I 
+
+| 
+
+N 
+E 
+
+
+kaai माजी द्राचोयजा 
+
+
+3 
+o É 
+४३३. 
+रथ 
+y. 
+jg 
+; ps 
+5 
+ड å $ y F 
+हे Rs 
+vg MNP Ag fs: 
+
+## Page 1224
+
+ES ak E. 
+
+
+X BEIGE अभ 
+ae AMY GET रि 
+KE Å PEN dar रण Fa (एक 
+
+
+ग a å | 
+
+
+वृ।नारि(अभि। नीयः ले के। गूतः ओ सु ए त TRA षे | | 
+वती श IAI 
+å ली 
+
+
+पाते निः 
+
+
+vb FAG 
+विस Å 
+
+
+yqa a JAM 
+en o f, क ~y å 
+AY 
+
+अयू à G r 
+
+» ` : 
+
+
+NAN श्डी। रविसप्त अहरा 
+
+
+aR rna ARNA ni ea HEV 
+
+KUN YGGJ er MIJL MAF åå fen at त प 
+| 3 SE TSG MTP य त। नि प | 
+PNG AUIUGN åren नेनि $ वतने यश ren 
+।उच्‌ऽञा TATYNIANATFE IYNFAYF I SNF निब 
+fi Eup qYAU sn निश्व॒ (ये पु न: इंद्र गा धदे हि। भी | 
+निजामहे।प । न aa क > Sk å) J तिर 
+| जत।न/आभा।नि$ (नि! 3 ना | 
+| pk एज (नि। सयाम आर्थिवातयुमे उ arts । aadi | 
+tn | 
+
+
+ऐप ddmd ng ल gå dan gader AG | 
+
+
+## Page 1225
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Ye Go ७॥ 
+
+
+å | Nel 
+
+
+
+
+
+
+
+
+
+fart magai ती घान 
+. Mamaa nA på 
+
+
+wo 
+
+
+
+
+
+
+å ऽ भरीत यस्य घर्मन!स्वःएनी समुतान khmm aa 
+rn वर fanat saN ae सी | 
+विः जभ दी चान जु पनाह व्या। मा. ERIE 
+नसभन FT Eu Å aa Gag गा व / एति। अग्नि 
+याः बारशी$मं मं ७ ञ्य सु स हो दु be EEN जायं(अ 
+KF आर्य Weel सर TA किः आव ef JA 
+नग कृष्णःश्वेतः जरुषः। याम अस्य अक्षे कर MUREN — 
+RÅ मनिता।जजा NERPATI 7 SNAIL ARAN an a. 
+
+
+
+
+
+
+
+
+
+
+SAAANA ER 
+
+## Page 1226
+
+sf nen ।स्तीर्णी 
+
+
+
+
+
+y 
+
+
+'वाजनिःकरदेनारषःयसे ग AM वि 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Hå Mn 7 क$ ra विर्वश्षस और iÑ j 
+
+
+ANN 
+
+
+[काइ भंनि।अर्श्वःरापस 
+MAT संता मळू 
+
+
+सिं Pål $ SYN ENG miaf Eh HEGE 
+l ।रमि।सहसा$ FU जमल्या वं आ। सावये। ० यज्ञे NAMA 
+
+| भ जाते på IMARA NQ का न्या। । विवृ स्वे तः। ०१ 
+| Ep ईछते। अ met 'अध्यरें'लें। व 
+
+
+
+
+
+
+Ee KER GAE A 
+
+
+## Page 1227
+
+
+
+
+
+
+en å वि oe qay 
+कार्म्या।० l याशु 
+ठ l agi शिर मरा न 
+
+
+
+
+
+au JE FY M 
+Fe 
+
+
+epee भित्र न।शशरूयृते।अरषीण। वा! यः। ययाः 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection | 
+
+
+
+
+
+
+ug ११९१ 
+
+
+
+
+
+7 
+GI . - 
+gu 
+
+PE [Å 3. Do 
+
+
+
+
+
+
+
+
+
+
+## Page 1228
+
+
+
+
+
+
+
+
+
+
+
+
+
+११ gur वि मिभजा। मुदे नुम्ण स्य! दू तु जि नी kr ke GII lp 
+; इंवाप्रिये।युजान l JA = व्‌ s4 स्थेर्वा।प॒था] | 
+am Fit marg AURA R । जयाः REG AN 
+| A a E GEIE SE Eke BORES D ग्मे ती।उ शनां। पु छते। dn 
+FLAMI mA 'ञग्म बुगपरा का हा । aa PFG MINER! 
+— कसाअस्माकबक्मी उन वे तव/खा।याबाम ANI NAREN न 
+| å maag: ga 'अभनिषभल तस्वाजमित्रःटना यर्थः 
+
+m 
+
+naqa 
+
+
+
+
+
+TITIR RESA AT ka A ते। वि! 
+
+
+$ 
+5 
+
+
+| dadada måser नावा inang सःञ्जाक्षणि 
+| rag यव!ह'शुणस्पा Ana AMARAI R 
+
+
+
+
+
+
+
+
+
+| ZJN अभिशष्य IgA: Ja mA fr sgi NM få h 
+हि EGNA Rådu gear an i सूनों। ने। व जिउयः 
+अहरताथवाअपदी।वर्थव। क्षाभ श ghy प्रःद्शिणिव! 
+
+
+## Page 1229
+
+
+अंवे।नि।शिश्वथालथमा।रिषृण्ये।वस वान। कसु सन।उत। चा यस्व) ए एल 
+-वाराय Rs dipana यजामहे! इद्र वजन द लि णे। ह 
+
+,. dead erd 
+
+i wama IRR EEEk e RES RA FIJI 
+त्यना vaiet 
+
+
+चिओ पिन्ट शूरसोमे 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+4 d gips 8 
+> इ्‌। and gu sei: ha A 'जनेषाआशमह | 
+
+
+gA: EEE IAN कापीणे।शर्रावज्ञिःचे tiay | 
+
+
+PRE RS कह. हत र 
+वि क्क ल rs 2 or 
+
+
+TERTIT 
+
+
+
+
+
+
+
+
+igege haaraa as भिंशआतिषति।मघः वास न्वत इद्र वा ज॑स्पा दी थे; 
+
+
+
+
+
+
+
+NEAR | वसाई Rage ।यूथ्या।स्वास-वा। FMS GER GE 
+है. तेजे) वेवि) सुः oh AKA चू नाति); याव a IE En 
+| मघ्रःवांचःपृरुसह mainh aa ARN वर थे! शः स्ताम ते! 
+
+
+
+
+## Page 1230
+
+
+
+
+Å GK रु: चर्म वे वि याहि! भोजने za 
+FE कुर ARa कक को fei नाल भा 
+भ्‌ ARAARA LUTA ARs en ER ES TR 
+$मंतीचुम्ररति तागसह å YD ren 
+s4 SY: ea GEN ee ! 
+ee phie sah है. 
+aaia aR . . . 4 लुसख्यादिवानि 6 
+
+
+| seng ar याःविना।समीचीइतिसेईची।नि अमथ 
+aromatisk चवि विदे वाम रुप त। से {आः नि पने योना 
+नदे वामन! जावहवात!रति मधः म वर मे।पराऽ जयेन मर्थ मत पृः y 
+Ei ब यो। g Ja naian Hanahana द 
+
+
+
+
+
+
+
+
+
+
+
+
+। जं धूस।०ररणनर गा व न!यरवसि।विवच्तसि। द्द दिऽ स्पर्शः। 
+स्ते farga neu ।कामा ।इमे।म मै। ० विधति किव l 
+उन व्रता नि। से IE LE O ना मि। पा क्यो। अधे VASS PIG GK JED 
+č EV å ल åk शत marka नमसा! 
+rep र as डोक BERS $ भिगनिशःङामासः'वि। ३ 
+uzam aqa aja md der 
+
+
+
+
+
+
+४९१७ पशु।नः सो म। रक्ष 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+mun , n EEE EEE RT er" गजप्राणाय 
+
+## Page 1231
+
+MINTE $ माशाला =P TRETTEN र SED oo श $ ९१४७५६ २८४39 % ५४: है? 8 p 
+` ` 
+~ J पश 
+£ पी 
+4 
+Å 
+२ 
+y 
+
+
+१५१० स°७॥ सि।चुरु।तआविः स्ते।जगंव/संःआहईं णापि) R विश्वासं sea SE 
+| ॥६३॥ जम किये! re waada magsiraan 
+| | वक्षस ० सः i AT AG ना रहि/ GAR as चर ० E KAEA EE UKUTA 
+El नरु sr Pe EERE te CES KIE ESA युध्य 
+EE वि सिअ ।४।सःवुरः मदे ELI तमि agaaga 
+Roq ya yaaan g naa R aaga 
+गप्र।जंध। snu च। JAANA NE 
+
+N $ 77 Ten वर INERI her पूजा, | 
+aAA आसवः १चिकेत। विद! स॒$ Jun 
+
+hgj मसी esta nen | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+wen — wa + 'भ 
+
+
+| 
+
+
+८८ i dd 
+E 7 
+६0 på 
+l 
+
+
+I 
+
+
+
+## Page 1232
+
+| | 
+haa ने।विन्नौणा।च। जाधव aea E SLEE A Siia MNA [सः sæ 
+| pi व pis FG: ९ माणायाभुषति\ शुचा Iy qJ वास - 
+Fu da NEAR IH AU इन! बाजी प de MA z 
+दूजातविरथार्‍यःअदभ्यभप्याते! अज्ञाः BIE ia 
+। सरवो।सनःना।अनृपऽ अतः ञ कड पूषा) RFE MRAN bd Į: 
+ZAIN FÅR १९९७१३ RE PFA VAE k E: E GKE मान 
+| e TR å tk रजिनइयंतीआय। य rast 
+यॉसंःनरयानि। अदेवः pe naamaa भं। पचा नि। वी जे gd: 
+AU E] di दायःइतिं।अ्रवीनि! sand त्वानायदाजवः 
+
+FAE: ।आद।रंत हामे। रषभा। प्र) NARA aan घजासा 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+५) ४ 2 20020 EERSTE VEERE ERA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1233
+
+
+
+
+
+| विश्व सत मघाचा नमे! आसनः मिनामि। वा दव/ क्षेमें। जा से तो जानें å reinen 
+दः, रौ areal वारयेते।नापर्वतास।बत!अहं।मन॒स्ये। मनात! कृथः 
+भयाने! हा ह a तक नताय IRAAN 
+
+
+॥ १० स ७.३) | 
+| नाबाङऽ श्च दे शरवे।पर्य॑माचा नच वा निनि३॥सर्खायं अथि my po 
+
+
+ESN 
+
+
+युज खादिता aeia a! pe रः 
+| ल Ti लभल स्वर सः Åm Ås Han å | 
+
+
+वाश इन्‌? अरयः अभितः सा आयना कियत! जा सर 
+।जनानों। जहं।युवृःज दै उरु | अव रिविअती 
+अवः साताररछात। AMU अर्य MJINI NRA 
+TARIR IIRI G पाव/से सु जा नि. खी सिशय:। जत दृष णे। पूत न्या 
+
+
+
+
+
+
+
+
+VEKTE 
+
+
+अन्यस्योबत्वस्हिती मिमायृकयोभः थानिरपेचनस्थे 
+
+
+Raa ९७४यस्यी जञ नक्ता ae आन RIMARRA 
+Eey anaha i ।यभरीव दी ने।य वामर कमता ज 
+na रिऽप्रीता।पर्न्य॑सावार्यणृ।स दा व घूध भव ति। य FG 
+E PIAA पृ्ताअगार! GFIL जति। शी ष्णी र्ने ANA kindas 
+firu ama AnA o JaAYNAGINVINÅ 
+तस्थे i वशि सत्तवीरासअधरात।उत्‌!आथेन्‌। A FE 
+अजग्गिरन। त। नं $भवेः। आगन। बार सानु) र | 
+à धी amet Pon |e 
+सः वक्षा GIH iay Aqa ताचीरानि | 
+अवो दीवे'नासनह। भच रुहती। GRE AF grand l 
+
+
+
+## Page 1234
+
+E a TEN 3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 * - 5 
+3 x E 
+per Å 4 P 
+वथ न ट बक + र 
+
+
+
+
+
+
+
+i 
+å 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+yer unne: —JJJ ETT OA TEA O N ETT ss अ EE oe 
+å EDIT वृह z TENT NETTET 0... : स - 
+क ह på $ ३१% 
+
+
+| | I YoGe 9 
+
+
+NEGU 
+
+
+
+## Page 1235
+
+avd gun 
+, जिमी 
+
+
+Å 
+Į 
+Å 
+
+
+
+
+
+
+
+
+
+
+
+
+danna ga Adra da अर्धम अजय मे। देव सबिन | 
+Fa gua लू सर्पिः अन्नः aaan (आरात 
+Fa me å ननांनो'स थः शि श धिनानः नवीयान? एसी। भा गा 
+
+| 
+
+
+EEC IDE AER जापति य? अस्य।वि। 
+G aa पैर PANAY ज gan QAJ an | 
+NR क्षयं।इसएना। पर GYGA SI did Å 
+åg Use sr on q 3 आपनाना पर घूःअर्ट अ Ee | 
+BANJAR ज EE ar 
+
+
+उपरा।उत।आायन्/त्रय॑।तपूंति। पृथिवीमनूपा डा हि कं।वहत भ पुरी षे।सा ते। जीवा 
+AEE TES GATA STÅR Ån रिव BYN 
+
+
+EN 
+
+
+_ ए्ड॑तेवसासम पादुःजस्थानिःनिर्जभनासु-यृंते RaRa | | 
+
+
+म्म्‌ इव्‌! अदे! Guam saga ।उव!साभः nag 
+पुन अस्ते जगायावासःरोरुववादषभःतिग्मःश्टॅगभवंषोन! तराव रिम न 
+KÅRE RE मन शपाशे HÅT + मःषुणा ie miði 
+ER दयी न(सुन्वृ ANARA बेसि। जं। एपी। पे नि।ति। रपभा न! TRA 
+झे) यत।मधः वन कूयमानः देस।मे।जरिवः आ विकिधि! BEG शाप नयः 
+हुति ळापाशभसिहाध्रययं ER काबरा AR Ka KAienn 
+navne TIMAR RI MAA 
+
+## Page 1236
+
+
+
+
+
+
+
+A म्या। यू: ए व। हि। मो। ते ति।दिव। चित मे! डुद्वेम उ वे$ 
+राधस is lie ap pads कस 
+
+
+वथ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+TERS SER यातच सण - m == sinne spre स्च्स्च्स्स्स्स्स्प् AKG SERE per 
+काका नक ताहारा रा P 22 2524 2. aa a सिग m x z z ia हिर å i FEE aus NE 
+ig ` + r 3-2) TN र वश 30% » > Ra N 
+på å å 
+« I » 2 å iE $ 
+{ » 
+3 | ` 7 = 
+- 
+
+
+
+
+
+
+
+
+
+
+
+॥च०स०॥ Få कर्म å ii SAMI डा देवा ! FAM मंद्सान RAHIRA T 
+_ ॥ ६२९८३] qla चा. TAUT ANRE NNT (आयनानि सुध्दा द्धतः व! 
+| क्षणसयत्रारुपीट।अ ने नेता दह तिरः षर लार RANAN 
+वएरटंनाविवाकरते।रघयानि।वर्यव! व त्स। शुभ OEE AUE EN 
+DALTA Ga q aeran 994 aama å | | 
+
+## Page 1237
+
+| नएतवातेभ्यःगाधाः अ तवय ei TET 
+spm GATA Ag | 
+
+FR TRUR 
+
+
+SE स्वयं। व 
+5 भामा गरिन न इंड 
+
+
+l 
+नावा।य। नि।ज था (रब ITF TAN 
+ENTF ANAN 
+
+
+a पु ।होर्वा।रुणा। ERE CECI ERI 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1238
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AEREN mA स्थ॑शयधअसंव/ससःबान( के E 
+
+
+- akan दर EE BLEI LF ae ELSE D A पी मा। मनी पा जा। ला 
+TYsH AT 5 FEE नाक ne रसाकवान ।नाअगेनो. ® 
+नृभनोससेउस$गाय्‌। भु, ज FAIFUHFAFIÅ GT: ३रय।सरःअ्थीन। 
+
+RN TARAA 
+
+
+
+
+
+
+
+
+
+
+
+## Page 1239
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HENT शव BT 
++ वर, ।सृमितेइविसुः मयी EA 
+वनवत सुवाससा नवी मिथून आ।मध्य)अरेमे!अ 
+
+FR FGs म।जा।एगरियाधजमि कर्ता नये पोस्ये। EE 
+- å tran यृतेते!स Si 5४०१० Å 
+| भद्रया मता चो द्योसि॥ avga ला ज ।अछमर्नसभनात्रःयुत्ति 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b jatan 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 1240
+
+
+hen 
+
+
+[शाक्या , 
+
+
+
+
+
+सानी एसिना नावरायाती ` ` 
+
+
+॥ पृ०स०७॥ महँ।मित्रस्यैवरुण॑स्थाघासिं।पथुः 
+
+
+फू ™ TITT TTS" ===>" P मर == EET na > “NT 
+i t br å ४५ EG K p या य > Å br å 
+४: / 
+
+
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dagai ang aiamaad 
+रुणभसु'पण कय n 
+
+
+op 
+
+
+
+
+
+## Page 1241
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sidan शं al 'बह अहण qa हला | 
+वः! अपः ३त।स मृ ॐ अपो। न पति। है विषा यूज ध्वे। सः। वः व! संस से 
+hayi GTUJ FA gquå dir pb l ऱ्य Koder He | 
+vjarn पनी प ant AGF UR 
+
+
+GAR rat Ke ANAD पराउहिय ATS A 
+ed E याया ठा 
+सास peice षृ RES uYuga ESA PSN a 
+EN SME ERATE] F VIES De 
+
+
+।यृभवृःमक्षाःअभिः 
+| meer मे तउ भगर fi garn aet vater 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1242
+
+
+
+
+रेषीजापैभरेवृनी:श्रणुता mar मत्सर रे RIET महित] त Ai g za 
+| सोने भू मो कर GENE मि Mq JE | oe er 
+ERETGIES GIRE IRCE वन स्व प लीं। अप धस मी ne न्‌ 
+(मा niaaa sk gd 
+
+} रे JÅ: RIE minne चाराय ag 
+i सरस्वती वत vi वर्य | 
+| नीम Gs विदानाः दय ।सामं।सुःसुतभरतीमआर्साः satan 
+| जीवऽ धन्याः अभ्वयैवृःसा द बम Fufuq! ष नना ।सेऽबिदानासः 
+एमा। जा जमनम्‌? जाप) TNT अध्य Jagga 
+इंड्रायासाग।अरभन।उशनिवृ।स॒ःशक टिवृश्यज्या॥ २७७ आ।नुगदेया ना AIRA A 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+भूतनाअस्म 
+rain sne age 
+
+
+र्या 
+"0800 a te 
+
+
+i Å y ; ४ i 
+४ å ड 
+3 i Å 
+, :% i 
+
+
+## Page 1243
+
+प ~ ५ | 
+å ६ 7 
+å š $ vå 
+
+i 
+Sg 
+ह| 
+
+
+bm 
+
+
+ETTERVERN j 
+
+
+
+
+
+
+
+
+
+
+
+Lå 
+H 
+t 
+f 
+
+
+। पू><स०७॥ Sadat 
+
+
+
+
+
+am (वय/सुःस खा य॑।भवेम। व्रत ode Ba E KALEEN RENE 
+uari णोममन्यावाजततस्यापथानमसाञाविवासत!उतारवनीक Tafa ean दसम नस्‌ | 
+Å 'ज्ञगन्पाताअ ngi ।अरस॑रुप्र।अंशाभनीर्थे।न।ट्रमे।उ पी! यु वि।उम नि FAYE 
+4 reneste ris सविता) 
+| nn ed जनन्या NK GTYN JAMAL MAT: 
+E उवसो$ट्व'सा।यत्‌।३। Be år MG redan 
+d उप ad HAIAN ug amataina: a 
+mafana Aa Nam णाभमकिं।स्वित/वना कर a ` 
+GÅ GT ।निशवतक्ष BR रान नो GE 
+KUA उती जही नि।पूर्वन्‍४उ ष भजरंत।न।एतावं वद्क ना।परअन्यव'जस्ति। उक्षासः घा 
+
+
+
+
+
+## Page 1244
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+अ] 
+LN 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Auaha doganan, सरथ न।हरिर्तः। य næ 
+i लियुथ्वी!मिदे।ना वा BIE D yra à Pa नः जग्निः चं i 
+AGE ee ga gs थी तास 
+
+
+
+
+
+
+
+
+
+
+
+## Page 1245
+
+
+
+
+
+
+
+
+
+gan थन्‌! पूर्वश पित्रोः अनिद? शम्या २ जे गा र। Ga annan z alagi = 
+| आ दत्तावाजी।पर। कृष्णा सशि RANT: 
+झ्रासा स्मे न घियसा न रान्‌।अभि। सु'प्रभसी दवः 
+
+
+ý F 
+ae ५ 
+zi 
+
+
+अस्पाकाइंळ उभ जुमीषतिःयत!सोम्य हले ng दिव्य] 
+$$ 
+
+
+
+
+
+
+निशिचना।वि।पार्थिवानि।रम॑सा/पुरु। खत ये। प्वा। ।अध्वृरान्दरउ पने स 
+वन्वेतु। वस्व॒नान(अराधर्सः।व NAMI UNA Fugquaa 7 | 
+।जपिःरयंति। må वह ति।बग्नु IG FA पृसः इत्‌।भ ३ वहतुः प रिऽ कवे | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+AG 3 lw उमदे a 
+£ A A> आक” 
+
+
+
+
+
+
+
+## Page 1246
+
+pe ; eng? Fr Lod 
+
+
+€ + Aw 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+randen  दगेविदीअडहित्वीचर्‍यक्षतेनाय्मेगि असे दिष्ट. आभ, | | 
+
+
+॥ प०स०७) | T Tap 4 å! me und grensa वहतं।न|धि नव! मा वाय 
+MEG eng: 'जभि!वाणस्यासत्तः IJA ary u 
+| td र ISR Se ज्ञरा|वा।य do हे 
+F चृत्‌) मर्ध ॥ २९७ ॥ निः घी यमान्‌ dn जू ऽस। ०) अले वः 
+feet सी SEE] —— pe ni awiza 
+arna sg Am जानी व! जम॑ मन इमा. जहा आरि 
+वध घयता मातुतर्डधघं। जाई एना आयज रिमा। युवी नं। अहेँळ न\ वस । सुः स 
+|| बृस्ूव। एतानि) भद्रा) के लश। म श्रवण) ददैतः मघा नि। दान इनः Jn || 
+HAT FGG YAN वा से मः दिःयं। विभेर्मि॥ २०४ * इतिसततमाह्ट कप 
+
+
+| तमच्या मःस मातः a NT TFARE I अ थि ॥ शत्रीसोवशीयार्षणमस्तु क क्ष el ॥९० 
+
+
+| E | ईमोतपं सभिमः सपीरिबपरीचः२ . 
+
+
+Soll नामाच अनन महिसत तरण दामो कः 
+द:ऽशासु। जा जगा त/इति।घाषे।अआसी व! णनि। वा धुते। अम॑ति/ न ग्ते ता नस वे: ना वि वी यते 
+ACE NS RR: ie Ea ERAN E med FF EG MIO 
+ARTIG HTH वाघ GILES मा दिक सायास सहः 
+pe ग्री AMEIR: RAJIN TA अधि पच्माउपूमं॥ . || 
+Ta aA zaa हहि।पितःतेअसि/वंदितायत/ नोउतावानसी . 
+ARJ MANTENTA नाज कनाडा बिन WE 
+*#ग्रावे पाः mop FA mm RNg T: ४इव भी AG RR 
+i भम्‌ TIN NAT मेथ!नाजिहीळे!एवा! EN fn 
+TENKE ke त्रत अषा NTEU VI IFM 
+
+
+ET ० 
+
+
+
+
+
+
+## Page 1247
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+I YeGocll 
+
+
+| ॥9०॥ 
+
+
+272 å MN st da PASAN DERNEDE 
+Ais अं. 93 
+i 
+5 $ 
+FT 
+LE 
+
+
+| Sr t a MIRRATA, då 
+|| 
+
+
+
+
+
+| 
+
+
+
+
+
+
+din 
+pe 
+
+
+धिनानाथित/विंद॑ते। मर्रितारी अश्व 
+
+
+WN 
+न्याजाया परि मराति! अस्य! aAA 
+anmha: भग 
+
+
+ag SRATI PARNA ad Å $कृवीजारिणी! रव३षस भो।एवि। 
+
+
+
+
+
+
+
+## Page 1248
+
+
+
+
+
+
+
+qaaa iA 
+aaam वि 
+
+
+न 
+
+
+
+
+
+च पुछसांनःजिप्या निरति।तन्वी शर: an अक्षार्स।अस्यावि। AA का मप्र तिःदी å 
+क्ता = AHA AL Gata j; ना/वाप revy टं 
+S3s9YT 
+ENES se hier kg ie Mr de Ra 
+T ! स्पुराताज वारि så वत। | 
+Fag så जाया तप्यते!किततस्थाहीना he Få 
+
+
+
+
+
+| 
+| 
+| 
+| 
+| 
+| 
+
+
+
+
+
+
+
+
+ee अगम ECEE EEEN ee दही i 
+
+
+ताबथाएतायव!आाधदीध्यानादविपाणि aadA l | 
+
+
+T ESAE a BASEA नक्ता एति७॥स्त्रियोइद्ाय!वितर्व[ततापाझन्येषो!शायो! | 
+gaam REKEN नासाने अं डः लःपृयादायुःबुःसेनाऽनीः 
+हतः गुणर्थारा नस्यम्‌ ER SIG Kop IE FE TY 
+
+## Page 1249
+
+
+
+fv ।तर्वजाया/तव भे।वि।चष्ट स विता।अय। अये। निराकरण! ad 7 eg e 
+
+
+sged EE JIT राति HAIFA 
+ma 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| å HE å IAN RFRA i 
+| EE अय Eee m å Sn ia EG | 
+R q dan णाऽ je अज Jå GAnFQS%NG  . 
+mase पुथिवीडति।अनाँगसमरीइतिचायिता सुवितार्यामातरा। उषा å h 
+
+
+
+
+
+| 
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+neger ER å न उसा। नामिव Aae NM 
+9 9N | उछत आरि भन्यादु' Rea Naken (ससत a ug भरती avg Å 
+
+## Page 1250
+
+; चड ।अघश््रवृसेवि।उछ्ठत।०७६४ञ्ञमुमीवा।३ + E p nyg 'अश्नयगमि, 
+'हवोज्यातिंषा इहव/अशुश्वाता। अश्विनो। दूतु मिरथा ० अछे। न। भथास बिन बरे ण्ये। र | 
+DARE ma न्निन्री।धिषणों।उपाजुवे। ७ पिप॑त। मा। व ते! रत स्व प्र वा चैने। 
+| pr ॥अर्म Ru ZETE AAIR jol Fi हि” 
+त्रीभणि।य्राया।येग।म)नःसाधे। जादि नो तयी amga 
+f सचान वदेव साद nn Joe 7 यु. 
+Ås r ! 9) KG E k-ta Ls Eka b Li o ie 
+Ags PA Eg TY EMERARA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ब्योभवंताअसय]सेःडत्यागविश्वीनादवाअवसा! 
+इति।यदिवा ल saii AGYA 
+तप 
+
+
+
+
+
+## Page 1251
+
+
+
+
+
+
+
+| 
+| | 
+| 
+ster | 
+NPEs YEN ना भय EN Ao 
+| सामा ८५३बसानक्ता।बुहतीइतिसपिशुसाद्य णमि 
+पुमा APA red रिल गचनः 
+थिवीजा प्र: ek diat ह दा निः ऋतिः न रशत 
+Raada त्‌ काक aama = a | 
+वते स्वःवत!ज्योति॥ अडक न शी महि। जारवा वर्दन] 
+
+
+दि pa pr ESENE ake daah l 
+| | 5: gaius AE pe td åa Af | 
+mf st Wigi jaganana ` 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+n Jogo 4॥ qahra åg reisa dage जपो। पेरो जीव ्षन्ये ह 
+; Na देवःअग्य स्वो K EO EG EEA pe ed तव/सुःसनि वसि 
+å | FG Åqa नीव यं गन GF nie ped NA 
+| शअणेततनाय-द। वा देवी। दातन। AUFs वतय शभ ॥३०५म्‌हन 
+
+
+magm य्न VE: वीर; ह मिर 
+AANA fu me Rs Fy स्याम 
+å स्यद्विवाशतासि मय 
+KE balle fol 
+
+
+å 
+hEN 
+
+
+| 
+
+
+GÅR 
+
+
+## Page 1252
+
+
+JaÅagsammarden आता विश्वत।धायो। ३।यते। तव ने न! gr | 
+न्यव[निविशते। यत! ए Åra ps EAEE ULES pA ERN 
+वासंते।यवएतशे उताअ्यनी भार्मे 
+
+
+TÅ: rad 
+पाडा BGN din aman vade नानि Å | 
+stas दुः स्य | 
+'सिज़ताअहेळयन!उवरचरीसि! का yard Sk Aa 
+gå पावर चुत तिव आपं FA पतु} मुर ।हवीव Å | 
+saajaa शि।भद्रं। जीवन जरणं! मच Le an 
+
+
+| त।अन मीवा।अनो गसः।उत3 GF AN GF: sa Å 
+af gå an विश्वैत।खा! वि चक्षण। भा AD | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+er 
+
+
+
+
+
+
+नक ह 
+
+
+इ -~ - - >5355355-५५ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1253
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Å LJTNGIPK LY 
+
+## Page 1254
+
+
+
+oR 
+Ja rede 
+
+
+E z q 00 
+
+
+
+
+
+
+at (यश EU rå 
+
+ga i चित! n EK ENTE TM REN GR 
+ag नु सया | an | त. युवोइताआडूगभिष 
+
+aagal: vant aag: BARAR पवि 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+
+
+
+| EEE ETE ker IE EH: Gatåaruda Ai बेला $ *ग्रभे।य टर 
+8 Å: nen Rag Raga Gata रिनी जया श्रुते। न 
+| Sang: 
+
+
+
+
+
+क हविष mon दना से | 
+हेवाहवास i Pahaa भपिन्वत।थिर va ar 
+
+
+## Page 1255
+
+
+FAFPA नि | 
+
+
+å Di 
+ji र RRL ८0/02/0002 SG 
+i 
+4H 
+
+
+| | or | 
+TAU आररोहताड्हतः।पार्जसभपरिवृयाजीवाभशरति।पथ्येमासर्थायस्वाते। विश्व! EE | 
+INW ment: AA den GP रति km a r) नाभि | l 
+| | mag MAGI चेसी MAG अह्की' श। भा ने सिमा कण Jamy तञ | 
+नाशाञर्सतादुराणेनवासूर्य LNR gen EN ayaa aan hag | 
+ALAE EKLARE min Haagen Å 
+
+ag कमा GEN यर।/ GAIE OEN GIEC E ने'अरोवा। य: न।शभिछु | 
+
+| PFU daJun em TEA GÅR Å 
+
+HUA लड सात aan: år RY pe ति।दरिचवे FR a 
+
+g सद॑ने१विई दि) गाऽअंणीसं रयिं द श्ववा य्यै।स्थाने। जयेत! शक्र! i 
+
+Jå 39 aa TAS agd MIKLA उड यु | की. || 
+
+
+===" EE 25 >> En 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1256
+
+
+॥ पुन्संदर्दा, | | सर्वनिष परवान 
+noen सुवा! EEE 
+
+
+डि RR å 
+य॒ वृ।सुः er å 
+
+
+i 
+
+
+
+
+
+। 
+imanan 
+
+
+RR थक 
+«4 
+
+
+>. Z हि 
+x 9 TF ERS | 
+NS på å kø 
+5 2 $ SNR INF dan 
+५०5 ०३३ ७०७३६ ५०४७४ A i “oN FeSO य 
+g Ed EA EEAS, 
+
+
+| मगै।नान्‌ उभ्यं। हव्यै।म यु भुवै॥९ ८७ न ने राजानी। ngan 
+हृाअश्वोवि।दइने। नवि यय जिना र्ननी zà 
+AS | l 
+
+
+
+
+
+
+
+
+
+
+a me A I a 
+
+
+
+
+
+
+## Page 1257
+
+
+
+
+Si : यसा! रथ य। वा। जरे 
+ये ig JETERLI] 
+et anda etat de 
+
+
+
+
+
+
+
+
+
+
+aq TERR] 
+a q त्‌।ररतिकाः खय्‌ renta शचीभिः ख वाभ्ञखमुः 
+Et PH अक, मन्च OT 
+
+
+
+
+
+
+
+
+mN TE भ्तनय्‌। १७७४ र थ।यातंके Hi 
+चुरा । अ TR: 
+श्ता:ऽ वस्ताम वह्मानं'धिया। शा ME व 
+
+
+
+
+
+
+BERNE Clad Ga ही £ smeder = 
+
+
+
+
+
+3 
+4 
+Er 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 1258
+
+
+
+
+पन्सन्या Få जमिगपेव करवः HÉ उष तु: कः! 
+msn नायायां। कुणुते। सथःस्थं' आ 
+
+
+pa madi a TT i l बु ar gta 
+
+mA zATJE युवा l 
+
+Jus Lg दाय T उती Ku z a 
+u 
+
+
+al नो शा 
+
+
+ज्यु।ययुवा जशथ्विना। वर YI 
+
+
+
+
+
+
+
+
+
+
+
+
+सरूये आसता यचा: oe add वाहू vga | 
+qà Agi gaah Aaa नये ते। जश्वि 
+भजा यः स्पाजञनिष्टायाषपावत नकभवि। जी Fear 
+| टस ।/अचाआअरस्'रीयं ने। निवनाः h A en a 
+नत! i le । अच।भ्रऽसितिःदीधियुःन. 
+रु वाम्‌।पितऽ्यः थ 'मये'पर्तिः भ्यःजनंयः।यृ रिऽस्व जे ॥ ven 
+झातता पड तिसु।प्र।वाचत।अ॒वा'ट्। य च'युबृसाः Ari a 
+| ताला å a AT ma Eeg pm 
+अगन सुःमुनिभवाजिनीवस्र: są र 
+sile: Fa गाषा।मिथुना। शुभ: तीरति। Aa a N दुर्यान! 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+sen mrd Å 
+
+## Page 1259
+
+
+
+YuJGNISYTE! कस्य स्ना अवथ ग ज l 
+
+
+
+
+
+
+
+gen EN | 
+nt bee SE 
+QIY F सा $ T ANRI Å | 
+EE नर शि उशा Rear E EEEE NEIE 
+
+
+T 
+HÅ 
+
+
+< Re RE og NANNA < 7 
+EN Re tt S x ee Sd i tn A R 
+= i — EE Er OUR SR ERIC? 32 
+i ——— — - 
+
+
+
+
+
+
+
+
+
+
+
+तामैदसा नामनेषोट शेण5ओआ। | | Ho 
+| | 
+
+
+MoHo T 
+
+
+A Mamaqit वीर) व स्यवाळुतातीथीासुभश्रपाने शुभ १ वी इवि रखा 
+i) u 
+
+
+रीच थरका अपी दुःमतिहुत। क खिन TG FAN ht å क्षाटस्त्रा 
+मड इति।शुभः।पतीई! rR तु: विप्रस्य्‌।वा। 
+त । ३ ह ॥ २० ॥से भा ने। ETF: JIA 
+NTG TI विद्थ्य सु व कि ek उसे 
+
+## Page 1260
+
+युनीानासत्या अचि तिष्ठ RETRAITE R EIk राः 
+थः यञ्चेरीiवरा। कीरे FIJI rene på 
+een वाचूवःटकादर्मूनसावित्रेस्पावार्‍यवास 7 
+BY:I0IYY २९७ अस्ताःइव।सु। aud fen 
+नउद्वाप्राभरास्ता kje FEM ALT AF GF AEA 
+
+
+Tai atå 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+y 
+h 
+
+
+| 
+| 
+
+
+
+
+
+
+Å 
+Ef 
+
+
+
+
+
+## Page 1261
+
+
+
+
+काण धय्‌।जरिन्‌ः। जारं रंद eh 
+। वृस ना। निऽ NAE E बय मघदियाँया शरर। किमंग खा। मपःव ना भे 
+sen शि हि।मा।शि शयंतवाप्टणामि।अप॑स्वती। मम। घी जस्त शक 
+४ EN अनः मनषि FE E 
+| ना Å णते? यः। हविष्मान नाजस नव नास ख्य। व्‌ (चुने; 
+'नास्पृद्राबठुल।य:।अ Ge Bratsuon nyde ME 
+| Jaa ERTE aapi जे॥ रूम य स्मि नवन 
+
+TG मूघ$वाः। कामे अस्मेर 'जारात।चित।सन। भयत 
+
+
+SYKT नेन अरेमरति GE GATA स॑ दंड कु थि। 
+
+
+| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection s 
+
+
+अं. RES 22022 20 Pt 
+
+२. अ NT ER 
+
+$ 
+
+j 
+
+BB s 
+
+4 
+| Å 
+| ३ 
+| te 
+Å 
+
+
+स्या शाय ५ अता अनवा रात राच TÅ EEE 
+
+
+
+
+
+NS i 
+
+
+® | 
+
+## Page 1262
+
+ag sine rd 
+nm En 
+
+
+
+
+
+॥प०स ० <? RÅ FAREN ये। GJL सवास gå @ 
+
+॥७७७१ सपभरइंद्रानाअर्द।दासाने|मघ* a नियंसत(निसु त) माव Le 
+| usa: जयातिभ्कग्यतऽवऽी।विःविनाति ऊ ध्ये पयत 
+mamang HATE TET RMN 
+
+| जननि नु।विश्वा।वयारा ज॑ऽभिःध्रथमाभथ्‌ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FKH AFG YEE ज ति AA रमा भरवू 
+
+rir 3 ति। टृष्‌भ स्य शुष्मिर्ण।वर्यः। न! रुस ki IEE IESE: 
+
+EG MA जद "चखःसदपराएवा FNH शरवसा! दर्विद्यत AST 
+जा मो Pqs वर्ग 
+
+
+Tage au जि बुर्दिषि। aa काम कृपानों अस्तु)तेगविषु$; . 
+t 
+
+
+
+
+
+
+
+
+
+## Page 1263
+
+
+
+e 0:75 
+
+नर्यत/न। शकच।नापुराण:मघःचनानएतानू त॑नः७ २४७ 
+Rz Pk परि जायता नो! धेना जवु+ वाकँशत्‌। दषो।थ स्य अ ह! 
+शक्रभस dan faa y हंते।एतन्यूत आप; trea | 
+मत्‌।संशजक्षरन्‌।सामांस ।दद'वर्धेति।वित्रांशम हं। आस्मृभसरदने? ` 
+यवन! कुटिः दिव्यनदाचना। दृषा नकु पवयतएर नः सगआशयः।ङर्यऽपल्ीम | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ego अ॒ङूँणा च इसा अपःसः।सुन्वतेभघःवा'जीरः द नेवे ee Made | - 
+den auga जायना परशा FA MFR FAT सउ pr UDE OE 
+å 'अरुपसनान विंधस्व॑/न। शुकः शुची त।सवः षं नि।७२५॥ ० sy 
+IANG: paza | क जत नि (सदा सि।ऊपा 
+å मून mdg सुः ।सुःयमाइरीइवि।वु।मिम्य KATE Gr fe KI 
+से।ग = AT ay SEAR E EAE K IE म। ते। पु 
+
+
+Amiz gtz चाई RT GLE Iks ae FE Ks TM 
+
+घ भृ Kl Pen 9बहुंतुषएवाप Ks 
+
+| FA giram EST | | 
+
+| ENG EG åå नि।आ।हि।शंसिषं।सु३ van | 
+| 
+
+
+
+
+
+
+
+## Page 1264
+
+
+
+
+å z 7 rnana '* 
+
+
+
+
+
+| शिरा टिप्सा सिन॑ 'स्वे।ईशिये।सःअस्मि न। जा।सस्सि/ बारीचे, 
+तवोपाचांणि।धर्मणा३१९७७ एथ क्‌ भ। जाय न र थ॒मा वासकर ता 
+ng at ie Fe E RS व ज्ञा।रूहाई मो ।एयति। नि अविशत्‌) 
+AT gZ: hast BIG ज्ञा DANES 
+fi वि पुर । यज वय॒नासि!भा fein UA मानान।अधा | | 
+z å कर्ता rare Binh fryd ae | 
+| थतिःवष्ण।पीसा।मदे' उक्थानि शंसनि'इमे। बिभर्ि) g FA ARA | 
+। र जासि'मृघः्वनशफ आरु न जस्मिन सा Fa जाव्या सुत इटी 
+| पवय TIARI] मज । जन्निःअस्मत्‌।ड्विती य॑। | 
+_ )र्रिनानिंदाः तुवीयी पस चुः्मना जञेसररषांनः स नु 'जरवेःयऽञ्चाधी। | | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+è e 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+` Å 
+
+
+
+
+
+४ छापा EGEN SET NVE 6५% 
+——— आओ - — mm Sm e 
+i ळे 
+
+
+## Page 1265
+
+
+
+
+
+
+
+
+
+hoe ८ 
+-॥७९॥ 
+
+
+SA 
+
+
+
+
+
+
+ne ०॥ ... 
+
+
+| त्रिय: sag sparepengene 
+
+
+ti * * 
+LE ° 
+Te AH, 
+
+ae P Š prr r 
+७ २ i sp mn 
+
+F a. 
+
+
+| å नरा gs 
+
+
+| ; अयादश्योम दवासस्मार्ग शीषे मासे दंपरतकं ता = 7 
+Ra स्िरतेखार्थपरोपकारार्थ च्‌ ॥४॥ श्री कुष्ण] ४श्रीसा व 
+
+
+|. अश्ेयाबीएबिवोटविम॒देवोधत्तरयिमस्मेसवीरें। > 
+
+
+
+
+
+
+त eee pet Kim Ude गु 
+
+## Page 1266
+
+यव।बिन्नाति।उ्सयत॑।आशजगंथ समुंड वा। AA ज तनुः क्षाः 
+
+
+Rgs RINA De सि।तस्छिभवासा अप महिषा।अवर्ध_ 
+
+
+majanga TAi pA TAÅR var अेमन्‌।सयः जता 
+
+
+
+
+
+
+
+अधि आम WIRA ता आ eng 
+i de jer | t 
+घा mane ।उर्बिया।वि।अद्ये वे। Fs खजा GA EPIN 
+
+
+||. आेदेली शामा यमान: 6 Aes | 
+
+
+
+
+
+
+
+
+
+
+
+penn fange Å ।जुनथंत्‌। अरवा अठ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| स्यमाने ० उ 
+
+न/विश्वा।व ग न IGAN ONA ; 
+ENAR AMANN ०४२७ है a ua मे 
+
+## Page 1267
+
+
+इ्रतिसप्रमाएकेअध्ट मे ध्यायःसमान्त॥ ४ शके ९३३७ भनेदनामस व 
+
+
+Fi : 
+SR i ia dn ARCS vær NS N BERETTA Sd Es 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+| 
+
+
+ger FAT MU | ipen पक ख ae 
+अप्सरा De वाणी । an F: E नस्यागर्भभगवी. . 
+
+
+
+
+
+
+
+YA = आ। rå et IA | 
+
+
+CRE CIE FuHa वा 6 
+
+
+
+
+
+$ i h 
+
+
+3 
+
+
+uge 
+
+
+å hdd tahan ४ FR 
+० कन sama 
+rase PEN Jå Ne 5 
+
+
+
+
+
+
+
+
+
+## Page 1268
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+NS EAEL T rRNA å - क 
+er 200 553: 53277 E TETRA $ CR EE अळा. NE TE ES rs GE ag ० 
+SRNR PD NA NA 5 > मह cee bd i a E P En AE 
+Ru) : SIG ei ५ महज 
+PE eg i ; 
+ie जि & 24 
+हि 23 
+3 pr ev På ER 
+3 र: 
+Eo TE 
+cA 
+
+
+| श्रीगणेशाय न मः॥३०॥ åra FETG भे slqarstsarat 
+
+
+FS 
+
+
+A 
+A हि; 
+F 
+PG 
+Ea ५५ ७-३८ चवळ IREN REIRET NEEDS DEE NET MSN NSR nnn GENER के 
+a Pz डक = 
+
+
+Lå 
+९१७५१५५५५८ sat penn 
+
+
+रम विधेन mala 
+
+
+
+
+## Page 1269
+
+
+
+
+
+
+
+
+
+
+।सीदद(अपां।उ प5 रे ॥द्धिः।यःयाथि।सः।ते।वयांसि।यंताव्‌ 
+ते।व नपा: 9।पृशृं।न।नषं। प दे agaaga f 
+Aah Azo diig ARR ART] 
+टॅ iO याशसःरोऽईधः।जातःम 
+।भवतिरोचनस्य॥०। TH; भिःधां pl 
+।अङण्वनाअरतिं।पावक। हव्यः NER 
+। घ+२र।अयंतं महा विषः? सू UT giv 
+नुट्रहोतौरमुश्ती* < i. 
+
+
+øk 
+
+
+
+
+
+
+KAR Se a 
+कळ ; ०-१ 
+RECN Re 4.2. «> 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1270
+
+
+
+
+
+
+AT 
+
+
+3 » ; 
+
+
+ध्रावयुनानि।चैत॑सा। ह्थिया:॥त।आय4३॥ राचर्य॑त। पावकं rat 
+-होवाराइपिरे।याजेध्॥ द्यावा।य।आगि।इथिवीशति।लनिश/।आ | -B 
+पः तवष्टा। गवः य।सहःऽभिः॥ इकेन्यं।ब्रथसं।मातरिश्वा। हि वा।। ।९॥ > 
+
+
+ED 
+
+
+PES NT पिर 
+— aijai niga OAE ECKE 
+
+
+
+
+
+pe = 7 र TITRES NVE या क्क EEE EEE j; REGER 5 SO SJ pA pr कस्त did य कयात td 
+EE MR कि Jå RS Få rE nn 3६ PR ANT rab > ह. ~ ~ लाज N Å 
+{ Kid ig ; क टि... El BR 45०७७ oe me ER TT co da H cd TT ARNASA E i == 
+EO ॥ å dte cals 5: Pn ERLA å ge एवाप = 
+
+
+AEE EN Pst 
+sea 3 Tag WOT BEG ENE — 
+
+
+
+
+
+| 
+
+
+वि्ी।दसनाशविऽधर्मया।अयंत्े य 
+
+
+
+
+
+
+
+
+## Page 1271
+
+
+
+सरण्यः वन्‌ऽसरद्‌। वायव न।सोमाः॥ प्र।निद्ुया। भरते। वेष 
+
+
+
+
+
+4 
+
+
+ri $ * 3 आर A on e GN 
+i 08 ` Å y Ha $i BFI "vw 
+9 å x2 सु : 
+
+
+Q 
+
+
+| aag aihama gasnie te: w | 
+
+यजे gir र iy धा:।प्रादिवृःयन! यद्रासंः से! व्‌ | 
+
+Fina TRANGT (स्त वसुऽयवैः। वसुःयते।वसरं नो | 
+GE 
+
+
+)सःयामेनअगने। खुब ते। व 
+विहि! en hs | y ॥चिच।दबंणे।र दाः॥ 
+
+
+PE å 4 Ka å 
+सेवि।उग्रअभिसातिऽ खद्‌! aaa TT! विश्रऽवीरं। 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+| न 
+
+
+हे FE E as PRS LO | || 
+| E faire हिरि श्मश्रे) aaa ४९ nR 
+are स्थुम्यन्‌। वरिऽवीतःयोनो।सी टृद/अंत शिति ॥अतः। सु A 
+धते नुनअस्य।अञरांसः।टभा। 
+ARTAR धूमासः।अग्न य॑ पावका TÅ FATTE 
+
+
+
+
+
+
+
+## Page 1272
+
+è 
+3 * 
+i 
+
+
+
+
+
+
+मुःआयुधं।सुउअवसं|सुस्नी थं। चल: समुदं'थरुणे।रयीणो॥ वी 
+errai RE EEEE EY 
+
+
+
+
+
+
+
+
+
+
+
+TAT giire aninha dass वी treg: 
+CNI isna ॥ग्रास्योसकर्थीतिं/सुःमे थां। दहस्पर्तिंसति:/अ SAA | 
+| यः।आगिरसःनमंसा/उपः5 adle वरनींवा नः। मर्म ET anggi ara: 
+ररंति।सुःमतीःइयानाः॥ददिऽस्टरा।मनसा।व्‌-्यसानाः।७१य UD या 
+li ARIANE डहं तो क्षयाअर्सम।म नाना NANEN iz A 
+बीइति।शणीता।०४ GS rd एन 
+साजयामि।रागवेत:॥मों। तर EL | 
+| मि।भीजनअह इई रोब ।अर्थर्वण TATA) (AM | 
+
+
+| 
+
+
+i 
+$. 
+g 
+
+3 
+
+
+
+
+
+
+
+
+> 
+
+
+## Page 1273
+
+
+Så sagaen a Å चे/मा त॒रिश्वनि॥ | 
+= seg mg a 
+gradene Å ad aS mdr ब्यय 
+
+
+
+
+
+
+
+
+
+
+
+
+
+T gåen enda हिरथ्ययं॥ यू र। are arne 
+
+IA METRO RRR ARZEN! va | 
+eiaa aa Daaa सोम ३ त्‌! भा gaama क | 
+
+| 3 (नम E Teen रिषाथने॥ « åt लान शाोश्‍वंसत दाउद! 
+FRENG DARIA STRN RANN gd ESKE zI 
+Sg WN | >. ' | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+sd 
+
+
+
+
+
+व दन/भन॑सस्यु। नमस्चिनअभि इद्‌ एव एव /असि। व: व ट अभि 
+EEG en वषि हि खरे mf 
+ZA रावैवः।आनिंदाभह्‌।युं सऽ भ्यः।अतिथिऽ बह घेरा इ ITS 
+gågata YNNE हे। अह हेऽ 
+| prod dei KER eUi itke 
+v er ATI IGEN AFG हय) भ्रात इरन्‌ 
+EE FU Ps ‘a गो lee A:R ap । 
+। कृणाति At EESE ie K lesk EENI बड ै। बद्व अं 
+
+
+
+## Page 1274
+
+
+
+
+å SN नका og 
+
+
+
+
+
+
+
+आदिद्यानों।बर्सूनो ufred न।मिनासि! धार ॥ ते मा । भू 
+| å we er ॥ ६॥अह'रां। णवे 
+FEESTE के ण ELA ERGUER jadma DÅ: 
+| daa nen विश्वस्मिन्‌! भरे।मो (धूः।ई रामदेव NL 
+| चत्वा बम्मतर्ः।अह।हरीइति।र om Rs TR NTE FE 
+वसे।दुव्यु^आ।ददे।अहअ nd VT ENAA 
+g rå on yr Rs सिवा आह! श्य/श्रथिता।व कच्या 
+क्‍ mäinen Ansa EFE RGF 
+
+
+
+
+
+
+
+
+3 å 
+HL nb की | | 
+||. 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+| 
+
+
+
+
+
+sii J; 
+RE ES Fis | 
+
+
+2 | 
+
+
+> 
+i 
+
+
+
+## Page 1275
+
+Yo $ ` 
+
+
+| ¬ ka जसन 
+
+
+ar | R had सुरकतु युथ add arb cmH 
+| 
+
+
+uxu 
+
+
+N 
+% 
+y 
+
+
+ease na ua oa 
+
+
+————— SHEDS NS 
+
+
+` अभेरं यजैमानस्य*१ 
+
+
+GET देयेति दरे एहुनये।न।प्रिया'मऽ वे अरे g धय 
+Je बना रन करके मरन 
+| RIE ७ ॥अहे।स॥यशनव॑*बारले। ह देऽ ॑थं। से। रचा | 
+k ver ts 'प्रथयंतीआतेषदू इरे'परे/रजसःरेचना/अदेरं! 
+झह र्य॑स्य,परि/यामिआशःभिः।भ7एतद्रीभिं॥वर्हमान।भोजेसा॥यव!मासाव मनु | | 
+
+
+
+
+
+ह 
+5 7 रर त्कर्णात्‌ 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1276
+
+
+
+
+
+
+
+
+
+
+Ko å 
+| 
+
+
+f 
+
+
+mponina: 
+
+
+å 
+
+
+priami हं/नि।अन्ये। सहंसा।सहै:। saahaan ५ 
+
+
+
+
+
+
+
+
+
+| FURER RAT Tee शुथिय्या१सीरा अधि/अहं er W tgu | | d 
+
+
+RER: TIMAR NG EM SE tn. — ER ER t जि Ap r3 i धर क RÅ 
+कर be III ARNE vss. ee Rep heise ene y ७० aba ma dbs 20५०४ अये, 
+(यशच ककत ENGE NNN VE å a erste dr —T— oboe: “व अ श्‌ PRR 
+- - >+ ae av nm वि EE ४०७9५ “nurs 23252 ae ES -— een 
+sii hia in tt SERON put NN 0 Hitt Collies Si i A) DET TEEN ETA CHASER Fe pene =. 2 Te न. sase. 
+
+
+BAA- | 
+
+
+mERGB TRUE Alna: 3 gemasmaYfiggendad . 
+nahea RaRa योलेन।मघऽवा।सत्यऽर था॥।० x Rana 
+*बघञमि।तुरास'स्वः्यदाःरणेति। च imma nA | 
+याविश्कृलुवें॥३ंट्रस्य।य स्य।सुऽमं खं। सहम श्व म्णो“वारोदेसीइति।सपर्यक्ग। | 
+IR रट सर्या/नर्यइन!स्तुतभचर्र m वते? चरे॥विश्वासु यूवा | 
+
+## Page 1277
+
+
+SAY RAF me ba सुदर सकता नर र वेणी l १ 
+
+AREA AE A ANETARET] |. | 
+
+
+ME e 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+‘ | ~ 
+
+
+- === TT 
+
+
+
+
+
+| 
+
+
+| SPE | d 
+'जर्वरांसपों etg dr तं।इू।बर्॑णा। महान्‌! बुर ARa LAA | 
+k र Janaa rA च/ मव विश्वः IFI देण्या | 
+maaadaaa uR Pa iE r AEn ATE raster d 
+व!एता।सबनादू तुसा) gamana anam RARA ARA f 
+ARa ar naaa 
+HÅR AINA सचना ३।ते+सुम्नस्य।मन॑स।पथाश्थुवन!मदे। 
+सतस्य सोम्यस्व।अंथ॑सः। २॥मद/तद.उल्बंर्छ बिरं।सव/आ सीत्‌/येने'आऽविषटि I 
+Å | nya शि|थ।अप ॥विश्व//अप ज्यव/ बड॒ुधा। त!अ मे जात वेदन: RITEN ।।५३। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ez rn === 
+_ smn rn rer णा Co RP ` 
+
+## Page 1278
+
+कळ == ०4० ववशय Se जन e: 
+
+
+कसा तसा दयया इुथा।परिऽ अप्यत बे। sån 3 ft 
+G ता ।विश्वौः।संऽइथःदेव्‌ऽयानी:।िछोस।खा।बञ्धा आ ii 
+Taag Akg na aR Ra a Ra aa 
+AGF ta t EE E E AERE re AELE GELEE G 
+
+? Jizan तस्यै मि तुन्वबडूधा।निः विटाः Riaan zaai mo 
+. शिहिमजु।द्वृश्युमयज्ञः्कीम/अरं5 कल त म॑सि। से षि।अः ke 30 
+
+दिवऽयानान।वहे।ृय्या नि।सु5 मन॒स्य मोन: ९७ aai स्यात! अथी ए || 
+
+_ |तरथीः ३वाअभ्वोन्भनु जा) अवृरीवु रिति॥तरमौद/भिया।वरुण।हरा आय गो र। | 
+
+
+
+
+
+
+
+
+
+
+
+$ A 
+JE 55 
+å å है 
+t dr OG ण < på 
+a y Adis 4 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+À 
+
+
+z ममलम oe 
+ts EIO EDLAS ++ Ur ना DE mr आना 
+i kai 28 >: si UNE eck ">> ८2 >> 
+
+
+
+
+
+
+
+
+
+
+goe | [re ।अविने।ज्यायां१कुमःते।आयु।अअरं/यद?अर्ने)यथा।युक्तञातऽवेद्‌:। न। keg 
+
+## Page 1279
+
+१६. f] de Fr SHE | 
+| | चूक्िवंकान/ऊर्ज RAR RUN षतः च!अपो पुरुंषे,चाओवंथीना असन | | 
+| hands RUNAPA ARANIR ERN ji. वि 
+gagaman: वससत रता? ऽदिवा॥चर्तस्र | 
+nag ngA बागा स्तन nd SE HARAN 
+| aa mnd jer på ramedusnanadfnsrå aN | 
+यजीयान/विशेद्िवा।मरुव।मा।मुन॑वि।/अ्०अर/अखिना।आध्वेय वत्या ६ 
+
+
+f 
+$ 
+
+
+
+
+
+
+
+
+
+AR tere टू ——— røe tn nna an ma — EE RDP = == २ न 
+a sør ५५५५0७१ शोच्या नन ०-७ क» ०७ a == 
+
+
+| देशदेधियेहः्ययाहुः। amangan शीणिद्राताओसहस्नो+। hår तिरस्पृणन्यू न 
+| उइवःसवुतिसा।आऽडे तिः वायं ।यःहोतौ! किति BYFEST Ke | . 
+ES AG søkk un UA SL विरे SL 
+NE vik ed तं^अण्नि।विह्ानश्यसे।न।कव्यया किये. 
+चंयाम॑।नि5९ ता सप्तः तु । om aa वे re 
+; TANINAR सवाचा NAAN RU jona TMUF: 
+z ।आ/अगाव।य सरये! विहान! हष। चिङ्ि्वान्‌॥ ® RR | 
+र ॥अरोधि हतानि; सदा।यजीयाव/अभि।त्रयी gren Rue ai अ 
+जञामहे'यजियोनाहंतादेवानईळ)सहे।इेड्याचआड्येन)साध्वी अकःदेवडवीति. `, al 
+ERE TORETE upata l दून ; वताम ५००१५ PA ः É 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+på at हु wi 
+
+## Page 1280
+
+
+
+
+
+
+aa 
+
+
+
+
+
+at nt 04 EN ON id 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+« || गोजौता$उतमैयशियौस:। रभिबीन: ५ Anad 
+| 
+
+
+voor १ /नअद्यायत्स्य।जिङ!अविदाय खात्या स।आयुंशभागभयात(सुरभिःवस्तानःश्च। > 
+den ४ दोअकृगरे वह fa: au “os प्रथमं।मसीय।येन।असुराद ` 
+| _अनिदेवा।असोम॥ऊजेःअदगाइत।यतियासःपंचे।ज नाश स मे। हो वे। मु 
+wanian gn ९३ nijam = | 
+> | हल ररक्ष! धिया।कृ तान अनुल्वण श्वयत/मोसवा उमः. १ 
+शाना Nr aes hi agaang anA | 
+amaia a aaa Anaao | 
+Th GALE oj पधा वाकय ágeis ej U gtk s utiy DER e | 
+
+
+
+
+
+sp 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1281
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+meet ED an HØR DRAR TN EE ER EN 
+टपणा moore ss 
+ay ruined 
+
+
+युभाअचाजहामाये।असंब! भरोवाः रिवाच्‌!वयउ व! तेरे स! अ भि। वा जौ न्‌!। 
+_मायाभवेद/अपसोक्षपः dan: Ei खातां देव: पानो ås त॑मा॥ शित 
+- तारून परध सुम्भायसं।येनं ड्श्वातएतेदामश्रत्मणः। यति॥ सवद 
+FAE शिरी त।वा ची भि याभिः अर तय ते क्ष॑थ॥ विद्वांसे पदा। यु 
+
+नन सं:अमु तऽ व्रानञुः।ग भेयोषां।अदेधः। व त्से।आ से नि। 
+येच मनेसाउत। agama: SR Frat: ar fre 
+A aaan ARANY u JA कीविगमथःवन(सहिःला! 
+ते वा। भीतेर ति।रो Aa INRIA AAR) 
+
+
+~ å Er 
+SØR 
+NE 
+pe 5८ AN 
+pA SEG में 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 1282
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+वाभा | ien 4 
+
+
+| ण i 
+
+
+॥ माया।इत। सा।ते।यानि!युद्धा वोजा Bu EN न 
+
+AKAN Ge हिमनं।समस्य/अरमत! पूर्वी सप॑यः/अंत| 
+आपु:॥ Fa आणि चासाकं।अज॑नय था; IR TAGER 
+
+` वभर na hl ॥बं।अंग।तानि।बिशा नि। 
+
+
+वय!चकर्थ॥ले। eg केव छा नि।या नि।आ 
+amaya aen FT galt | बना मात व्यं | 
+IZAIRE: HNT Mn | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+urt 
+
+
+
+
+## Page 1283
+
+
+
+i 
+fg. 
+
+y å 
+
+Hå 
+
+क्र Å 
+
+१ på 
+oo >> je > mme me EEE स्ट 5344 one 
+TSN SSSR व ीवगययव्ययेम की a RT 
+
+
+
+
+
+
+
+
+| w gehia PRESI ०३) |. 
+TE GLE प्रिय म nah adig हव<उक्छात अवा रि 
+| ॥९९॥३्‌रे।वदर पृरा चगल हवयेता। वयःऽ थे॥उ त! GETTY 
+Milne eng gn aS ENGER JER! 
+नॉयूत।अनय ke ANTAMAN तिं।यव/अस्य। प्रियं।प्रिया॥ से 
+शत ज रोदेसीइ तिभ शणातस्आउत) महीपं Vea शतः र 
+चिंदाता।पुरुधा ar ।सः द ।किअतिन॥ 
+_ Manquskorigesnifgsan यशयेनापृष्ट स्यै।इु हैं॥य ANA 
+`| विऽ।अवरोपररस्याः REA FFI AGUÍN A GIFTE 
+
+
+
+
+
+
+
+
+
+AG) 3 
+
+
+
+
+
+
+क EE 
+RE, 
+ESR 
+
+## Page 1284
+
+an 
+å y 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+Å ł 
+
+
+
+
+
+
+
+
+0 मोघोवर्सा स्पा हाउताजेता।इत्तादा ता॥आ।एनि! द्दे! 
+णि IIA RIAS 
+
+
+SmI: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-= ; TRTI wg हू 
+så 
+2 TUY 
+
+
+93 तिं।ति।एक/ठुतीयेंन।ज्योतिषा।सं। विद्ञसव।से Pharma 
+vom aan त्यंधाठ राम। दे 
+E e ae t I E EIEE Cie dha små nina 
+aAa अनिनासुः वेनी सु वितःस्तामो gaan Amaga riaa 
+भा।अना स॒यास॒बित ke faa: I पत्म महिम्नः श्वा kata 
+३ शिरे। देवाश देवेश अदधुः । age यानि भा 
+णा IK IG MEG ee LE rer AG OLE gaa, 
+MAAA Anaa विश्वो) थ वेनानि ये भिरे। nan ता 
+
+## Page 1285
+
+
+
+
+
+
+. 
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+| 
+
+
+
+
+
+
+
+
+o ने।बुदूनां।युवा ने।सं ते पलितः/सगार en | 
+९_।। _दममारशःत्यः संभा न्‌॥ ९६७ दाक्भना।शाकमञ्जरुणः।सुऽपर्ष्णः 
+ _ 'आध्यःमुहःशरैशसनादअनीळयायव(विकेवसव्याइवरत न| 
+
+
+` AANA pa RU SM ॥क्ियर्माणस्यास 
+
+दिवा:॥युआ। व, anarima | 
+
+जारां दिश mer । पीली।सोमंश्य।द्विः। | 
+h 
+
+
+१यृथात्ञधमृत। TRAA ९७ ३ इदं ते। एकप स 
+
+
+“® 
+
+
+## Page 1286
+
+
+वि... o a 
+è 
+
+
+por © 
+CM T 
+~ a 
+छः ; 
+À CE, 
+e) i Veg 
+[Å 5 Bog, gå 
+É; AE 
+A IS, 
+2 कक å 
+EA P OJ क्ला. ” 0 
+
+
+
+
+
+| । | | | | pe gi ७ Me GA i | | | 
+
+gen १ परुषाप्रध्ला/अलं१ट्टियों। सूनव।जंसुर। खःविदै।जा।अस्छापयंत। तीयेन! 
+$ \। २० ।। | pimai aat Raagmaa imaan 
+| MA MENRE चिया: स्वस्तिऽभिः।अतिं इः गानि। = | 
+ETR क्छ? म हि; बा।आ।अवरेब।अद था तआ! ge ॥ माघ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maas ४१० Sir Jo 
+ganganna bu मेन पिलू) चभ 
+Aakre gen नः।षितरः। मन; दो तु शि ४) 
+| ह. FÅR, : | 
+
+
+## Page 1287
+
+
+तें।च्रशीसहि॥। भरने: 
+
+
+४ क्ष 
+
+
+§ 3 
+Vi 
+” Å 
+
+
+
+
+
+
+
+
+
+
+
+
+BEE 
+ब NDO मक PEER के RRB re res र - सा gb 
+ES KASSA AG TREGE a aar की à re z > 
+bey 5 EP NOR DOVES ts 4 Ku GLE Bt a etic ttn HS te NOS किक: ५२5८ PH Wi i yá 
+
+
+
+
+
+
+
+
+
+d 
+
+
+TEE EAEE IEEE E TECIE IREE ER DEEE ATE CEEE Et 
+TOATE E Ce CERBE ETE MEE CIEE तेयाम gere 
+
+
+adaa R a Ra aaa agaga 
+
+
+A 
+
+
+'पःदिवांगाभयव(ते।समृडे'अणेव ० यद।ते?मरीचीःश्रऽर्तः। ०५ २० भयत ते 
+ismer ०यवाते।सर्य/यत!उपसं। ५ य वःते? N हतम | 
+
+## Page 1288
+
+zaai रवतत aiarra 
+| 3 on ag UUE DE e rUe Eo इव क व से वा। रथ॑स्थ॥ 
+अच च्यवान।उद?तवीति।अर्थ परः तर g från a a 
+
+
+
+
+
+| 
+| 
+& 
+£ 
+l 
+$ 
+
+
+हे 
+| 
+| 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+ड å ł å 
+
+
+Sr eee == 
+Hy s À 
+* 
+d 4 Rt 
+| 
+
+
+å 
+gi 
+र | 
+S ~ 
+$ 
+kA 
+g> 
+H 
+Hå 
+
+
+उभियाआ।ताए दम. 
+
+
+| | -।।१०| | 
+
+## Page 1289
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DA 
+big 
+
+
+pragai यज्ञादाइंडासामिन॥मा।अंनरिति।रछनअशेत्तय;॥ ` २]. 
+
+
+| 
+Ki 
+Pr 
+
+
+
+
+
+
+E 5 
+कि % १ 
+
+## Page 1290
+
+i EA 
+
+
+
+
+
+
+
+
+
+
+
+Toe nr राये।निधिः मदे(ल/अन्न।कराम हे GJEN MA सि।ता। नः विश्‍वानिज am | 
+ag | भसु? नअभिल'सर्यभपोस्येभभवेस'ची:)न/ मि गिरय।न) अज्ञान !०) | 
+E z nAg mAn aaa o 
+
+
+
+
+
+
+
+
+
+
+
+pA Ri, Dr r å | 
+(सा तिरनःआयुशर्रंधिनः।सर्यस्य।सं रि छू तेन। वो तन्वीवि्धय | | mal d 
+na peggene IE gana R ४ 
+PIRIN कक एन HRZ onde uge: ।नः।असु। GE 
+| agy i चि) देवी (युन अंत रिक्ञ। (पुन F: :।तन्वं।द्‌ दाद | | RU ५ 
+
+
+
+
+
+Å 
+i ; D 
+
+
+325A i आळे. 
+
+
+
+
+
+
+
+
+
+
+## Page 1291
+
+
+
+
+
+
+
+eB १, 
+
+
+å 
+
+
+"पुनरिति।धूषा।प €ध्यों।या। स्वस्तिदा seder LARTA 
+F 4 ता।अप।य वरप* चोः एथिवि/ क्षमा।र फ मे। इति सु e ६ 
+| नाआसमतशअव।हकेरति'अव।ज्रिका ee remake 
+एकके नसाइडाईरयागां।अनडाहीयः।आअवंहव(उच्णीनर्याण्याअर्न| 
+PE #०३४आ।जन। सेषः सं हो एक अनल. vår innra: 
+| नर्मधाअसंमाति।निःतोशनले बं।निः यायिन रथे Raana 
+ति।य/अनाौदे/सदिषान: इवाज तिः तस्छे। प वीरवानउताअय॑बी रवा' 
+वाग्यस्यी बू श्वाकु:।उप॑ ब्रते। रिवान/ मरायी।ए थति ॥ट्वि्यृव। पंचक 
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+rar En SRE i Af ids Ns å er pen A ता ंतततल MORSE RS ARTEN ना 
+ee का se र EEE EDR oe 2 > ; == क in ie —]—v—CC—Fre" 
+
+
+| | | | 
+ven ` यः रत्ा।असमातिष।रथःोछेवभया रया NRE RA 
+IRA elg auga aaga manaa 
+| नाअशः ये 2॥२४ अअये)माताआयपि ता सयेश्जीवातुआ'अगसत३द्‌ 
+av E पैणसुरबधोरतिसःबंधो वा nag 
+तिधरुणायाकं।एवदापार।ते।म नं।जी वा ते बे।न। रु व्येवे।अ थोड विष्जरि 
+एश्तातये॥यथा।इूयं।इथिवी। सदी दा धार इमान वनस्पती ३० 
+o 'अआहावेवशवतातरसुःं आ Hogana aA | 
+å arg सूर्य नीची नं'अश्या इहे'न्य कू 'भवतृ।ते।रपः।आये।ह्तः। vr | | 
+
+
+
+
+
+## Page 1292
+
+
+
+
+
+
+
+
+pit 
+
+
+
+
+
+
+
+
+
+मलान GEER n = > 
+: eee -—— ~ g - saca 
+HÅ 
+
+i | + 
+
+
+उ : | 
+
+| भर्गश्वाद! भयं! सगव तेऽ ATAS चेवजःअये'रिवऽ्अभिम 
+
+| wes र AN hdd ।शच्यो|अंतः।आजी॥को 
+
+MARRA TAER EIT ITIN R AERAR > जा 
+
+सः इत दानाय दभ्याय) वन्वन? Raae 
+णः गते वचःऽतमः क्षों दन hj इतः३ॐति।सिंचते? मनः ना यध 
+
+| नेडा तिग्मे रिषः वाच्यां वृनुथः। Må Fama GN | 
+aaaea å gem aa mye Ag सीट 
+
+| T नपांताअङ्विना। डूवे'वा ॥वीत।रेभ्यसेआ। यते भेभ्ञन्ने उव | 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1293
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+के | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+यन्ञअ०$ | ENNTHARJA तःथरूभप्रथिंष्ठय स्य। वीर: के damas | 
+na gdgatsrsheangadaameghara 
+| याइ हिव।आःअचुऽ रत gata २६४ मध्या!य oe å 
+।भीके कामं कृण्वाने! पितरि।युव॒ु्यां। मनान रेतः अह दू। 
+
+
+ü AASER श्मया।रे G3 भ ग्घान!। JAG: y 
+यन्‌।ग्र ठो देवा॥वा स्तोश पतिं अतः पाने! aaa anaal 
+
+
+-मक्ष्कना EN 
+
+
+जिताभासरंवापद्धान[द्सिणापराउ दकून। तानु से। ए U DE na 
+Eg नावड; गजी på? Sa SPENNET सीदवरऊयेः) स | 
+
+
+(अथु अदशिणासःअखुता।३ु्न्‌॥ २७४० नवीयः 
+संसत Ta तृरए्य॒न्‌॥०। NÅ apani fasgangdd | 
+
+
+दरपक सिरःराणः॥ वर्सा) वसुःः्वा(कारवंः नेह विश्व 
+IRENE वाइ दे! वम्जस्यापरिः सदहान/अग्मन। पुरु स 
+
+
+` शुवियत्तेरेक्ण आर््तसबयिधायोःपयैउस्जियोयाः | 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 1294
+
+
+NED IBN opr acre २००००” ~ ° 
+
+
+- दियता vikle शु कू तस्यायोनो॥पिता।यद!सो ह ह 
+
+
+$ 
+Å 
+
+
+3å 
+
+ARI 
+
+$ 
+UG der 
+š 
+
+| A 
+tt 
+
+
+रन किने spe आज | समद! जायरा िव/अपीद्णः | vea | 
+
+
+
+
+
+
+
+
+
+
+
+नामोत 
+
+
+| चन E खेदे बिभिक्न॥वि।झुष्ठास्य। से JG orange प्रजाते LE .। | 
+ven स्वध्यहा।यवभर्गधह।नाम।इतायस्यादिवा।रवं।ब्षये।तिः ख Agh 
+e | र OSS E G 
+| | दतला ।३३।२्‌तेयेभ्यजव्ये। मद दत; बरदिवे।ररा 
+णा।मं हर ति।हितः॑यसा। ep aa fa २८ अस्तुतः राजां दि | 
+NIRTI ANA रावि स्वः सेतुः। सः) कुकषीवंतं Raga as | 
+ने redsel JHNFAITGs SNE EN बंधुः वेतरणः।यष्टासबः siR ' 
+TIGER NIH AAR A S भि /अर्यमण वर्र्थेश ve 
+
+
+
+
+
+## Page 1295
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+; 
+
+
+fe å 
+
+
+Faen Rag 
+मा।अश्यावी घ्र।अहं।त ३५ था। कृ ENE gan 
+| dd: Sk aij अह पक उजा4सवेस्य।ह॒दं। REN 
+
+
+
+
+
+इह ना॥अध/आसु।मंड।अरधि। विभाः वोधञव।स्यति। द्विः वर्तनिः | 
+नेवाटू॥ॐध्वोयत/श्रेणिः नाशि दय! geat वि ।भाता॥२९।। 
+
+| Å गध गाव ॥उपःमातिकनायाः अही श्वांत S Ranana ` 
+fn सुःडविणनः!त्वायाटूअआश्‍वः m 'बदपे।रन्टतानि॥अधील। 
+३३।१/६।अस्मान!सहः। राये; पते। वज्यर NETERA 
+
+
+mange | |. 
+
+
+ae E E Då erme på 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+## Page 1296
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+अभिरें॥अथ!। annie 'जी।स रेत! स रण्यु का रवें। जञ रण्य बिश्रः मे ४ 
+fè एको IIWAN REN ।झु/अस्य। 
+OG si agaia NRE वि+। 
+'चाआसि/अवृस ngaua दि।सुश्व्या शक matens 
+_भर्मर्वाच॥विखत्र।यस्मिन/आ।गिर॥सः EA नी yng nanata 
+वे॥स।ग्रगान/अत 3 भि:द्वः्वांच। शति।सुर व धे. न ME $उच्तेः॥ व्‌ 
+Has भि? आ/ हि।चून।वि। अध्वा! एति पयस ते 
+ngg Hr ।ऊतय।सऽ NANNAN TATIN 45 
+रख नता असूरा-॥ ३०० रतिअशमाशदेयथसोव्याय शभ 
+
+
+वी...” हाक... य inn. Å 
+2 a 
+
+
+| 
+म्या वतन क्षिशया।संःभेक्ताः iiaiai manina | 
+TATRA elg gd ॥ये।उ STÅR! 
+त tajga EKETE CAA E ETET : 
+१ IINR! “वना सः ga wg PRE R 
+E र्य SRR pi यः तेत्‌? गंभीर वसग Sp 
+Eo र ९३ IG ENG Ka J | 
+Ma 
+
+
+
+
+## Page 1297
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+अजगोनवमखिनें। अवोदेयेष्य+त 
+
+
+r RU निः)स्जुंत्‌।वाधतः।० सहसे sg je ee smaa ai rh. 
+MEN || CECEN Mn å १९५ EGG ENG 
+I "चनादिवःः सांप minnar सिणा। वि। सिंध: सवा वप्रथे। 
+उत।दासापरिः विस्म हदी ama rl gå 
+nag सा । याम; नीः भा।रियत्‌! मनु: सूर्वैण'अस्यायतमाना एादत्ि 
+mun ear laderen ed arrene sne wh au 
+Tak AN I प्रीतास/ज निम। aaan: 
+
+
+feies slag dren विश्वा।हि। व नमस्या ।९६॥ | 
+
+
+० FER AR RSNA RAA | 
+AR Grenaa न vad! å भ्यो।माता। मधुंउमदापिन्ते। पयी 
+| ERRIRE ARN बहाँ:॥उक्ड5 क दव शरान्‌? सुःअर्भ | 
+INRA मद! मयाद नतसव विध |. 
+i हव्वा. hn: तः त्वं आनक्ष योतिःऽ रथा अहि मायाः। | 
+| ve aangaan ये।स्‌ऽ बः हे ERU 
+MAFAI GATE AGR वर | 
+TAN HRS Ad RAFA, 
+
+
+=o 
+
+
+x 2५९७०६ DA 
+Nr NR Ko . 
+i 4 Vy z. >. ? 
+N Me $ Og E Me KR = SNPA 
+3.२५: ऑन र्य OPNE å SEN å 
+SRI Le स Nede PÅ 
+
+
+v Se SB E SU oR ae 203 
+
+
+
+## Page 1298
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FS सन ae 
+YT ७ कर EE A = mem av EEE 
+
+
+
+
+
+k 
+देती दनोषथाविरद देवासः! भनृष्‌:।यृत्तिस्ठन॥कःव aa शः | 
+
+
+
+
+
+
+
+
+| jp EA EA EN )खस्तये॥ये 
+TU Åsen भनसा åra हो हैं) få ; 
+यतवा।सुगा।नः RÅ YYNR ये ae JE मध 
+
+
+
+
+
+
+
+
+
+
+
+श्वस्य IST गतः चा मंतव॥ति। नः। ११ dar तात।श्नं 
+
+NHI नाक त।स्चृस्तये॥ भरे।३्‌ ड SJÅ म ह रस 
+हे ir deh भृगं थि 
+GNIG ma पटक NATER NAT TS y3 
+
+
+| ७३] 
+| | 
+
+
+
+
+
+## Page 1299
+
+
+
+
+
+
+तिंगदेबी।ना 
+> हत्वाlइवेम 
+amga mg, न 
+वातय विश्वाअनाङूतिं 
+
+
+निवना weiden R म।स्यस्तयें ॥ ४॥ | 
+पोचत! ऊतयीचायंध्वे नः डुः५एवायाअभिग्दु din 
+तः देवाअवसे। स्वस्तये॥अयोअभी 
+AWARS डिदत्रांअघऽयत(आरे। 
+श ।दर्षः)अस्म दृरयुयातन्‌ ९ रनः रामा य त।सस्तया॥अ रिष्ट ।सः। 
+मर्त! विश्व एथते। ५ य,आद्तासःन च नीतिशभिंशअतिविश्वा 
+Qama Ae साता।मरुतः k: TRI ua 
+रथ इर! सानसिंअरिष्यंतोआ।रुहेम।स्वरते॥्वस्ति।नः | 
+
+
+अप्रज्ञाभिजोयसेंधमेणुर्स्परि (८) वहया से बधवाज सा तीय. ० 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+i 
+
+
+å de OA LE E e NS O OEN OREA AESC. A IONA ied 
+
+
+
+
+
+
+Yoa pi 
+ine 
+
+
+
+
+
+
+
+## Page 1300
+
+
+
+
+न G न॥।स्वस्तिः।इद!दि।प्रऽ पथे। श्रे ती।अभि।या 
+
+ERU IST reg ति।अरणि)नि qa EE KEEU CEN 
+
+देवः me jer EEIE in IRER ad) 
+IRA: 
+
+| ds Ol ।सुः मंता ना न्यून] => i 
+
+
+*साखस्ति।अरसु।दुमने। FAR KS dr | 
+
+
+
+
+
+
+
+
+$ 
+I 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+
+
+
+
+
+
+
+
+## Page 1301
+
+
+
+
+
+
+
+atam Ranana 
+
+
+
+
+
+
+EOE ekan AET A (a ale Ie aL AEE Ee Uar EALS e Saa |` 
+| ग > qs पत Warn eo hima |. 
+| nagy अश्विना।कथा।कविःतुकिऽरवां 
+
+MERA RRG ति; भि अजः एकं ed Ji I 
+भि।अ ह Fy वमाना ATA 
+
+
+ना। द dp सप्ति॥ AS sv | 7 
+> SEGIRA GN ६ ॥ति।न्‌ paat Sanketh 
+IKT याजिनः मितः ईवः॥ सह्खः सा॥मेधसति)ऽ रव ।्मन। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1302
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+P 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+भरोबायुरधयुज 
+
+
+| प०आ« ३. AN gets GE स्तोमे KÅRET र्ते [a 
+N ९९॥। IE ole ag NE Asa En मिस 
+लाग । अपे बन्य न! पर्वता न/अग्नि।ऊत यै। कशाबुअर्त | 
+
+सधः रछै।आ। रूट्‌ हाम खती।सरयु से| | 
+Sans: EN AAGAM afmaak | 
+z agas ur pE sH aa T न/उत माता रवर fean od 
+तुनः AA aent Fe Sen TE EG | 
+0रण्व/शासं।शदामानस्य पात नः ७ ४० भद्रु दाणी? मरु ør 
+
+
+रण्वः st तुम ka 
+
+
+
+
+
+
+
+
+
+
+## Page 1303
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+श्र fazu भिः En Teig सेसहि॥ yr | | 
+ड ड Skt SJU पवत qime 
+व।भेनु\कुवित रश अधिःरथे!व हा थ। ARAT IRA 
+
+
+ENGE anara 
+मिऽखे।अरितिः। e PIRETA | 
+he A दतः बि र वा| 
+
+
+रेतासि।पिलः सिंच fag | 
+TA परीयस) चा i 
+
+
+.पेहिय्राबाइथियी+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1304
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+————r=— or === स्म कक वाडया === == === 
+= 
+== === SON] TE > Pusse 
+
+
+एपा पूते gatie । ईशा नासे\नरे AS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tao AAs m विष:॥९३/कवि/तुकिरवोन! सतःसाथ gen 
+RIR भि/अचमतिः नि चा विष) अवीप य तरय य॑ दिव्या नि। जन्म 
+
+
+## Page 1305
+
+
+Hon f 
+å nen rm rn 
+आदियाविष्णुः। मरु त:।सःकुह व? Nås AR AI 
+
+'नीइति।रजःहसेस।सतवीरतिसवः पंती। भिथः।हिन्वाना।वन्वा। संऽओ 
+HAR re å सा।सोमः) शृतःश्चीः। भृ दिसाने। हर यंत्र ॥ ते 
+| है।मद्ठा।महतां सताम इयमिी सताता सतः पाया प्‌ | 
+Trå चिरी यसः तेनरा संता सह्यासुभ्रेच्यास्वःज्नर अंतरे ae 
+
+
+
+
+
+EE 
+å i 
+
+
+$ 
+का ।एथिदी IRN: क: sg $a vr हे | 
+| क दिवा! स्तव ते।सनुंषाय! ae fn Men माश स 
+A SiN, ! थामे।यर्मणा।रो उते। g उभेइतिं। 
+इति।नाथंसीर तिं।डृतो ॥ ९ uante sanie Ave तोय 
+हाना जतःनी: सवारत! साग्रश्रुवाणा।वरुणाय।दाशृचे i रा 
+EG YRaqån kawarnfysaguaassqnaa 
+f UTGA भिलीतnआषः) आच कअ जंसाग्यसेभ्ननिलीतन्चि 
+| ARANA रिःसिता। पित्तरा। पूजा 4 री2 ति जार्वरी सतस्य योनय 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+| शयतः! RRN ean add cb y 
+यमह क १: NyA वायूड! 
+
+
+## Page 1306
+
+Seal aay È mar Ran 
+ERN KEUC (Eck k E DE TER AREA खर्तये॥ | 
+k हर इन: खाद सयम Are! FRISK. | 5. 
+| ugs चस्यतीन्‌? इ थिवी।पबतान+अप| gr 
+FÅR > द gada: Aigai NN "मा 
+'यभर्म्य'अर्हटसः| td IMIA श्रिऽमृत्यामअजिन्व। na | 
+
+
+क्क 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+श 
+
+
+å i msn n oN 
+ट > क 
+
+
+
+
+
+
+; * Jo RE 
+
+
+## Page 1307
+
+
+H मनोयेजेञ जमती ताता.) | 
+T wgl विःमदार्य HEY. Hen याव धूप | | 
+I 
+
+
+
+
+
+FAT sm दभति आ in 
+
+EE aa सरखती।सह! AlN: å À z 
+
+पीभि।यरश्थ्या।०रातिःसाच॑।अफिसाज:। Bo hp 
+
+र डक EKAGU Rege Frue dan 
+
+| TN NE Ra dreng 
+l i ॥ये।कढ प्‌ ITAA: वेद Raiana ! 
+NTN वर्रणः प्रशिद्षा ये (सूर्य स्याज्योनिंपः) | 
+
+तेनौरासे ताभरू गायमययूयेपे) 
+
+
+b 
+A 
+a EN 
+
+
+so 
+To 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+
+
+
+
+
+
+
+
+## Page 1308
+
+
+
+ed ET विषयः) र | 
+I अमृता श्वः दसाम TR Ld र :h : | i 
+र "यसत दषणःसतु।यज्ञियाथड्‌ बाश उषण? ह विःः केतं ।!२२१॥ | 
+
+
+tk + 
+
+
+
+
+
+
+
+
+
+
+
+
+
+विक सा R É X 
+3 i i — i Pe FAA कक dd 
+la SO RRP ७०0५७0४? Raa aY 
+
+
+
+
+
+
+
+पोमौ।इष॑गा।वार्जः सा तये। पर ES TE EURI | | 
+धदेवृःयज्यया।ता। न!) बाम sa थविभयृंसत्‌ः। rn it | 
+å साप TAST दर्या द्यावो Se न|. 
+आ नि।यज्ञिया#अतरिश। Ey आप Å 
+| Ski G 9334: nya: Req: सभर्बः। rå | | 
+
+[an tema RR aam: थी: प्र। Ai नि भर 
+
+
+
+
+
+
+
+
+
+
+Rs 
+v 
+
+## Page 1309
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yor £ E ERE CENEL ९३ ॥ Eig: 
+
+TEN f Gita IRA 
+IERT) Daar T rg IT NST: $ नरकात पी सरी | | 
+RE de ae ˆ | 
+Ko VER नडे RAEN अप mm ET. 
+| ४ an aa aksje AGA मीता 
+
+
+! 
+।शूनुत।दसु॥०॥ ९४ AS पियास k 
+
+
+Ene Aid ai वेनोरास तामुरुगायमव्ययूयपौ») 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1310
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+litt krana सतरभमाता। हर ती।ओ विं दृः EN 
+_ sg NE Fana सच सते daua NT | 
+9 अला स्व याभ प्रथभं। नहस SEPARA 
+Aan ।अदमनूऽमयीनि।न हना, विऽअख््यन $. 
+कनिंकेद्दे?गा a जोत तता साजे चे(भगायव अ pot | 
+
+å परएकया।गाभगुरा/ ER ee हि तमसिज्ोतिं: I 
+| न उसी आ)अक;।वि)हि। तिरर आवरित्यावः॥ दिः र ya 3 
+| आदूँ/अपाचीनि।बीणि।सा कं उठ घे+अ रू तृत र क. NR 
+
+
+
+
+
+
+## Page 1311
+
+
+
+
+
+
+
+
+
+
+I 
+i 
+
+
+
+
+
+A 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Joe 
+
+
+
+
+## Page 1312
+
+
+
+|! He स्तनय॑न इ चोः व ळं । र शिरं RUTEN 
+UqIFå! अ आई न उ TVR TT 
+
+
+- GANGA AR: «IM HTG 
+॥विथनःसेःअरर्दरि vridd NEVE! pp | 
+A ed me नासेः। | 
+| es Nå! FEI 
+| इवः सब्धत म तिऽभिः।शिवाभिं ndg! | 
+egati साती। भरें>भरे/अल।मदेयातिष्णु "यदा på 
+
+
+
+
+
+DS 
+र| se प 
+$ 
+ha 
+eg 
+
+५७५९५ | pg 
+
+
+व ne 
+
+
+
+
+
+
+
+he - ता ~ me a me NA Ga » 4 go PRP RE AE ne 
+
+
+अईनहिमरिणासत्तसिं भून्मे सीबारथिसीम्राबैर्सनः। | 
+
+
+स्पावीडर्षणाबुडरयंत। | 
+FY: 
+
+
+$. ia 
+å i 
+Å 
+| | 
+|; 
+J 
+
+## Page 1313
+
+| 
+Å 
+Å i 
+| 
+| 
+
+
+aanak iam 'अरुक्षवउ व तैरा णि। स भे॥ 
+नाना बताया oe 
+
+
+
+
+
+
+
+
+
+नाणाः।वावैदतः ! 
+fri भाल 
+
+
+ETT NES LAT 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1314
+
+
+
+sl तः ६८८ वातारण एल एका का 5449345 22:20 2.22. 02:25 ne «<======= Pr GALE EEEE RE 
+Å Kis å TEEN TI Er" SEES anna — 
+i | 2 र का.” 
+ड - ७ क $ j ;, x 
+å ® 
+Š å 
+Å p * | 
+Å 
+| 
+
+
+| range een व्योंअंनवचद्यःरुण[ ४ 
+Wa g DEHE g १ Å 
+| T a Sud अवे "ऊथे।य pA दिः भ्यु आऽद्र षाय 
+
+
+Tvunget Rinsi Et 
+NG गा स्याः ड्राईव) वि ज्यो्‌ , 
+__ तरिसावउडःशी a ii ye ai å 
+
+
+ES TGS 
+अभ्मेई in त) आ। Auen: Å 
+Aaga: av रामल UTGANG am | 
+
+
+२ 
+em KANES विष्टभआद्‌ं I | 
+निः धीन/भकुणातउ सिर्यागो॥ १७ ब TET तिं।अमता isje TAT 
+
+
+
+
+
+nest ormer) 
+ळा क आ एव ` 
+५ -? 
+
+
+ment स््रीणों।सईने।यही।थ Anin Aa agms j | 
+यां।पर्व॑त स्व त्मना। आम व॥अश्वी।अपिः ag gt व्रि maaan 
+hr RÅ GI RINNAN NNE A : 
+SÅ dus dele स्व १२ तिं स्वसः गनि सः। ण वि 
+वाये।तरमासिवुहुस्पतिःगे्वयृयः। वरस्य निः।मृज्ञा नंन! 
+Wm: em å Amam ban ना।सञ रुपय त! व खैः गाः 
+ENAJ es IRMI त्य 
+Hesten a पितर द्या अपिरन॥ राच्या) 
+
+
+## Page 1315
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+t | ` 
+१४ f 
+$i शी | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| य ०० NMA Aeg रस्पतिंधभिनदाअडि। ददागाशर दं।अ के मे। न सः 
+गार! रया कीक Ts NAN ang, AR å fana ob 
+
+
+
+
+
+
+
+NFT da ॥ ९८ ॥ भद्राः! अग्ने/ व gs अश्व 
+
+
+Tass Nang 
+
+
+
+
+
+
+## Page 1316
+
+म 
+PE 00 Å vr: पी 
+| S 3 । डावया वीपृश्रथे 
+जत सर्प. ५ आसुतिः (य्‌ i aaah भित्रसेः deal 
+FER नवाय. स: रेवत शोचा स गिर; सुयरव/सभवाजं'दर्वीसःइहाश्र må 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+—— ——" +-- 
+
+
+
+
+
+
+
+
+के अश्व alanerne £ 
+| vn यो पर्वत्यावस्टने, | 
+leda ad. 4 Rue 
+॥॥९९दीर्धग्ततुभ शहरा झय/झ्निभसहख स्प. र्या: 
+है मानु यत्‌ सु।नहः भिः मुउ्य मानः सुः AIia | 
+Aggama वेद URMI REMETY RUT 
+
+
+oe œ ë «a g NID a 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 1317
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+j री i Å 
+Di 
+r . 
+
+i 
+Å 
+
+
+Toe २७5 मिंट सिणा वत्‌ ae (से सित्रेभिधरच्यसे। दे वय तू भि:॥ देवा 
+)।२७)। Qazana वेद्‌ः। महिमा oe कर ककी 
+Tamda aan इथे Gen ताउईव)पूर्न।अबि, 
+PIT Raton: बिः ।सपृर्यन॥सुवाण:।अस्य।संउ र थे y a` 
+Fav वीन अव धत्राथत।चित/ शा श्वेत! अग्निः वधि श्वस्य | 
+
+। ३४ भि जिया य।सुतसों मवद भि स मैनं! चि व/अ HAPIN 
+RM a ॥चितरञयभ्ञग्निःवधिऽअश्च 
+EVT RIR ईड: न मेसा।उषः वाक्य सः नः ANA nen 
+
+
+
+
+
+
+
+
+
+
+
+
+
+~ 
+
+
+
+## Page 1318
+
+
+
+
+-e un VER: 
+
+
+
+
+
+Aas 
+
+
+
+
+
+
+
+
+
+
+Rt सी न/अज नि।तिछ्त। र्थतः वा धिऽ बकन २८०३०१ श व स्व! इ 3: på Kr 
+लि FA av avgang: somrene da I ra 3 
+an PJ LER PICCE KEERT N निः 
+
+
+
+
+
+
+अशे वे सतस्य पथा] å: R Reni AN 
+| म! S ।ूत्याय।ह्‌ वितः मनुष्यासः/अग्नि॥ ` oe | 
+& AVA GEazadalu eg SS Feher 
+
+
+
+
+
+
+
+
+
+
+
+TARNA me झता।मनंसा।देव्‌।य त्‌ 
+aukande 0 क ०8०८-8८ 
+
+
+nå 
+
+
+
+## Page 1319
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+
+
+
+
+
+
+
+NN दारश्महिना/महव३भिशदेवं(रथोरथश्यः ॥९९४देवीइलि।ट्वः | 
+REN ed इ्तिंसु र A Sel È उरात! ai 
+| | सीटु्लभगेर तिसः गेपः ut ac tam 
+| निअ रितिः उपःस्छे॥ युर MRAMA AL ARa 
+Muaeirdnaffuazå Vi Jodl ba JG 
+Teddiman 7. 
+Trent punkt नउ तरनी यशषि।इन्णिः$ट्‌ः। H 
+
+j Si ननक । निऽयूय।द्वानां। पार्थ उ यी वसि विद्यण्स्वदाति।देः | 
+इति।ह्वं मे॥का अग्न वह aksen NRS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MR å खान MS Se Rs Se LEG 2 
+५ कक द SR E S EAEI O AS mm 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1320
+
+
+
+| | ध्यादादेकअध्लाभादर्य तो a 
+Riran a EE EE E ENTS REEI 
+Abe t pi दर्धाना।/यत/ए यों श्रेष्ठ ता 
+| er प (आविस न waters 
+
+o 3 व्ञानते। क as 
+
+å Rat NARATAS. या [लआ 
+
+| अद्र ऽना।लो+स्तेभाअभि।सं।न्‌दते॥उत्‌।सः म . . 
+
+FANT द न Ragai ` ` 
+Månen verk aq i 
+GY aAaPAYTT mang MARR: 
+
+
+| ninata, सानि 
+À | Ana! गबर सुभरुतस्थ' | l 
+
+
+Š 
+
+
+
+
+
+
+
+
+
+
+
+
+"अदे श्टणा ति।न हि; 
+
+
+k A AM 
+नद NNN A 
+
+
+
+
+
+
+
+
+
+
+
+## Page 1321
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+$ कण दंत AGA RI समाः og 2 JJ: sp 4 i | | Ee å 
+RER FNS PN दरु ॥ त ai i pe > रथा | 
+
+सलाम संऽयजेतोसरवोयधाअव्‌ काह dg वेद्याभिः ओ 
+0000000 यी 
+पिदुऽस निः। हि! एव अरा हितः et साः reat 
+le 
+
+
+rand जेनाय स चो, ख। पोष।आ: 
+'मात्रों। वि।मिमी ते (ऊंइतिं। व: ॥ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1322
+
+
+
+
+
+amanan ng gama दे ति (सा तऽ विय्यों (य 
+२२ 4इतिअश्सा छके हितीयोथ्यायः॥ 
+
+
+है ] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EATE PONE ANT ENER A = - 
+
+
+लेत-सदैजायत 
+
+
+कय, ruge नी यास! विपन्यया उक यमेव : 
+asaigar Ranna: aranan dg 
+(असंतःस वशअजाय त॥देवा । पथे EK OE UKE 'अज्ञायत। 
+Aas शप रि॥ st ae wamian 
+
+aaaeei भयरिं)अदिंतिः॥हि/अर्जनिर्प्दर्श| 
+।इह्ता hs ।॥अभ्टतऽब थवः पयतः | 
+x ATR लासुः सर Kalus ताच, ms तांगड्बाती न | 
+(आयत्त।यवादिवाशयतंय/यभा।भुव॑ना नि।अ पिन्वत। HEJ आयू 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1323
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Neo vm rå arr ।अदितेः यिभ्तोताःतन्वंशपरि।देवा sal 
+३५. सप्तनिगपरामातोई।आस्यव/सत्तः शिःपुतेः/आरदितिःउपाभ् रि? io 
+जाथे AEG dimain WARNA E | 
+egge अभिमान EEE CEEA चिव,अचे'मातार्‍यव!दी 
+o रोद्धनंत(बनिछापडुटभनिःसंसाापूचानीचित(रके'यूरुदा ब्‌ थु: ताड 
+Kven ATA यंदेनाध्या ay पिलात।उव।अर तु!गनो TET 
+E ETLE ESTEE S] ताया RARI NARR सा ढा दूका 
+
+यासह सं।आसन/दपिये।अधिवना।आ।वरुथा bit nRa 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1324
+
+
+
+
+
+
+
+
+
+२ 
+
+
+nå 
+i 
+
+
+आ।नासंत्या ।सरव्यायं।वशिवसाय्यां इं डथारय्‌ः। सहस्रो'अङ्विनो'खरा | | 
+।मुघानि॥मेर्दमानभसताद! अथि भःजाये। ar इंड इषिरेभिः) 
+
+नश en STE arms egene मिहं। पर/स मना :। 3 
+
+सि॥३।सःनीमाना।चितरखसयः। नि।अर्से।अ व। अ हने ड उषसं? य 
+
+
+
+
+
+
+$ ER RAQRA १ सर्षये।विऽभा यं भत्व 
+stan qru A तानि।पाप्रिये। वि। 
+an ईजा नः३ ड्‌ दधिषे। ग भस्त्तो॥अः artene Mn अञ्चो 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+१ | | 
+
+
+'अर्न॥ ANS थिः sider nå gne 
+
+
+
+
+
+
+
+
+
+## Page 1325
+
+
+| Ro चयनिनंध-वकर्थ॥व कं 'यच/अस्याअप३ HENG def र | | 
+| ३९ PRITURA Gå KRG गे घु।जद था। ओ प॑ थी 
+
+
+अश्वात/र्याय/इतियवशबर्दंति।ओज॑स/जातंउतामन्ये।ए नं । मन्येः।इ या य। 
+i afa Ranana वे द्‌॥ बयंधसुशपर्णा/उषासेडुईडीप्रि.. | 
+यतमे था।स पयमनाथंमाना:॥अप। ध्वो gik af $a aa | 
+KERK सवडच VI AME ELE थ Seb vad Qo . 
+रो टॅस्यो:॥अरवेतः बा । ये ।रयिःमं aaan ga | 
+IEE 2॥हवंधलपं।असुर/न क्षताद्या श्रवस्यता। मनसा। Aaa क्षा॥च््लाणां। ३९ | 
+
+
+
+
+
+
+
+| 
+
+
+
+
+
+M Epia Na वा रेमिः।रूण a A:n दसमु नीम | | 
+| 2 atan ai Ranganna A | | 
+_ smaaQiysa वयनं ताअ भिः ये।ऊ वी गे।$ då AMMAR स्वी | 
+द खर्चा मही! agantada namdan | 
+ध्वनन त।ट्मये ते उ तन्यून्‌ स्यं gs gå an wia | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+...._नरयीपरुषझुगायव/ रनर तसय राषाट ओढू ver 2 नामो नि/अप्रा:॥ 
+प Junaku WAAT ल Rig ते वे। क र॑वे!वद॥ ७ um 
+i गव आपः महिमानं) उद्‌उ तसे? कारुः वोचाति।स दूने।विवर्वै तः सप्तर 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 1326
+
+५४५७४ pr ve å $ oe a i i पी एः As anin n i DE en 
+E को 9 v = på AS 
+E A s 
+Z g 
+
+
+ng veden 
+| daa 7 रात आरन Fu || ` 
+i ३ må vi घोरतियव[बाजांचाआभि।अर्डवः त्वं॥ भूम्या: आधि प्रवर्ता! 
+
+
+
+
+
+
+
+
+
+
+| उन प्रः बतोंइन॑क्षसि॥ ३्मेश्मे१गेरे। यने 
+| TE HINT 
+| | Fm sanset ALLES Får faa 
+
+
+valged TER: 
+अधि सुर 
+
+
+PIANTE ARMAN 
+| द्व्य स्य।स्वःयेरासः। विःरक्षिन:॥ ७ namar SG 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+Jomo इंड्भरु त॑।रोईसीर विअषनत्तन/उमे रति।यथा।न/अ हे नीइविं।स चाः भुवौ। स 
+> OR mes dagas मिदो॥त व! ऊंडातिं श्र de 
+
+
+ans IT TN 
+Å र SE] å | 
+
+
+
+
+
+
+
+## Page 1327
+
+
+NES 
+
+यतगअद्॒िधसेतत्तरिं।विदद।हि।अर्य।अनिर *ेविपे स्व] म ह। राये Raga 
+
+ते।यवा/अर्वतः॥ तद इद हि। स्य ॥विवेः अपश यथा पुरामर्नवे गाव! 
+ve $ Ii कोक निर्नि. 
+
+K MUCKE LERSE OT गुरः तकाय विः? (अमंति।आ। 
+
+
+र्य सदे वीर (सु. चाडे LA Ñ yi IRIRA 
+IRRA भ्वर्ना। चिता dn bes भोग RARA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+spas S 
+SIN RES PT 
+
+
+अय॑सः सावाणःवाचा।दिविता।दि विद्म ता॥ नर्रः 
+
+diag: नवं तिं।सो में ATEARI RAA. 
+Ke R UZERE L से च॑नाय। कं tR, 
+RE: ffen ।नर्‌।सुःअर्थस/अभ्वन।ये। यासुनुथ! सोमॅ'अडू 
+mai दिव्या य॑धाम्नें। वसुःवसु। वः।पा egge ९३३] 
+ब्वज्युबभना वाचा मुष्‌) वर्सा ह विष्य त न।यज्ञा। विश्सा यु व: ॥सुः मार॑ तं ना जे. 
+rer 'अरंसें।गरण।अस्ता थि।ए पां।न। reduser ARNE 
+
+
+डुहुते।काम्यीम yi 
+
+
+
+## Page 1328
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection — 
+
+
+तिरः Ayaat e | | 
+
+
+saag वित! अर्चा पितुरू वः त॑र भ्यः। < negian संशसो . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ तामुःमारुंतानावूर्वी आतिशय ॥दिवःपुचा सः!रतानायेतिरे'आदित्यास तो. 
+अक ॥नावडयुप्रायाटिवभ'थिव्या4नायहेणा!त्मना(रिरिजे।जावानासू्य | 
+स्वत/नावीराधपन स्यव॑धरिशाइसभन। an] 
+| 'विशुर्य तिं।न।मदी/श्रथयेतिं।विश्वः una: HÅPAR 
+स्वत ।नासचाच!आ।यतायूये' कस अ: नार्‌ दिम! EAR 
+TR SAP ना र्यः यंस रिस पवास न भऽ सिंतासः। 
+परिःभुषः। amaaa Teapa उर्या सह संआवरणस्यावस्स 
+दा नास वसवः!राध्यरय muaRakyaqagmannza: 
+
+
+## Page 1329
+
+
+» (4 
+r 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+तेहियतेषुप्ञ्ञियोसङ 
+
+
+AURAR EAER AN मानुषः दर रा व रेवद? सः। ययः।द्थते। सुःवीरे। सः | 
+| देवा अपिगोप्पीथे Jun टलेमानास्वी।वोर rane) 
+Fre Ku वरे? चकानाः॥ ९९ ॥ विभ सः न। मन्म॑: भिशसुः 
+
+
+। देव्‌ऽअर्व्यकन यसे सुर्अभसः॥ राजान: नाचिचा 20777 i 
+
+
+
+
+
+
+
+
+
+
+
+
+| सद vedk rd की 3 वातास:।न|स्वग्यमं3 सह | 
+NKAVYNYS artan Aig नी वर्यः सुः mun सते! nett 
+स्‌ः "क Tasteri के डि dl रिश्रोकिणंः॥ वर्मेणऽवंतः Å 
+| मिमी बंच। पिदृणों।न।शंसांधसृरप्त hore ABA: 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 1330
+
+på 
+på 
+या 
+| 
+| 
+3 | 
+i 4 
+| * 
+
+
+Mn en o 
+
+
+
+
+
+|| 
+
+0 
+SF 
+
+DON 
+
+nT 
+
+UH 
+
+Ei 
+
+t 
+
+H 
+
+N | 
+
+
+
+
+
+
+
+
+
+
+
+
+AS 
+
+
+
+
+## Page 1331
+
+
+
+TS 
+vm RIN NPR 
+
+
+थ्यः प्राश्व तः।न।येजनानि ।म सिरे।सुःभागान्‌! नः दवाः) रूणुव। सुरत्ना न 9 
+TAR JUTEF TIAN ०गात।सनाव! हिवु।रलः वैयौनि।संति। ३५ | 
+
+
+
+
+
+
+
+
+
+
+
+ad ltd 0 
+TER 
+a Nå ६० 
+
+Fi 
+
+
+| DD SE NG dadig ag unha 
+"तर विविःभ्टते। सं भरेतेश addere rene | 
+FOG Rå GY qs Gesine 
+| सिरम भिस भरेतिउसानः ह स्ता।नर्मसा'अ्धिविशष॥प्रासातुभभःत 
+RR ahr F9 नरकूमार।नावीरुषेः। सर्द उ: ससेन? TE TT 
+TURR (रिप) उ पः स्छा अत रिति तद! सतं teen | 
+जायमानः मा तरी।य भे? अति" न। हे et | Q केताआ्निश 
+S गाविशचेंता सः चेता यः।अरेमेत्अन्व) AA निभा. kg: Ly 
+
+
+ET 
+
+
+PE SEE 
+ER Se Kl ere $ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection _ 
+
+
+KAKA 
+
+
+३६ 
+
+## Page 1332
+
+
+
+
+
+
+= च 
+तटी EE EET 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tek JARA are Rat RAR dun तः आसि। 
+
+किं।देवेश। यत्त एन चकर्थ ae जे SRAN 
+A EKSE AC E TE EE S ECC विषूचः 
+जब Frere भिः रशना भि सभी ता य च सदे? भजः बसु भि;। 
+सुः भीतः) WASA YS भिः वृ र्धा न E अग्निः सत्ति बाज भरे।द 
+apn क ररी रति'वि।चरत!सऽ 
+
+
+| प्र धि अग्ने! अब्सः।सेऽइदाअस्तामदा।. ` 
+| अग्निः महीइति। दीर ।आ। वि वे श/आग्नि: एके चादयतर समर KO 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1333
+
+
+
+
+
+
+
+
+
+Po 
+
+
+res 
+
+
+ik aanza Aga OG near: व्याज रेतः कणत्काा 
+यृ।अग्निशअवड भ्ये। 
+gg रु aiana ana मे थे। रः | 
+ad anal सम्‌ ग्नि।दादरड ange meet | 
+KN Sa Raima Rn Ramga | 
+बताई सप॑यः। वि) हुयुंते।अग्नि।न रेथ या म॑नि। बा धि ततास॑: ॥अग्निं। | 
+NAF: 3यरि।या तियो nyte 
+Kl 
+
+
+ड] यः) °) far ताः ग्निः 
+ग्नेमथब्धति aromaer T agafa 
+
+
+ak 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1334
+
+
+
+
+ज्ेमहिद्रविणना पजस्य॥ ` 
+
+
+अवो चाम! सुः सि, शने!) अवाम रितारो यविछ ०१ ९८।य:।ड्‌मा। 
+पिश्वाशसु बनानि/अुर्द, व! सविः होता निभ सींद ar feen su सं । आए हि i 
+इछ्मानःप्रथ मः छ वरअ ब॑रप्न आ विवे डि। शि | 
+
+na Ait ] 
+
+
+| naa Hau 
+i an i A SE t दचलत EN IGRA 
+FRAGA विश्व तः:पा U + भ्यी। र्भति। || 
+
+
+| KREK ananas Ft रकमा ०)मनापषिण4मनसा। 
+AHA ततव! AN ude yes ret 
+
+
+किंस्थिदनंक Saar Ava 
+
+
+
+
+
+
+
+
+
+
+
+
+
+å aq: va मा0 विशः Hå वशउत। हुमा ५ शिक्ष। सरिदैभ्यः। ह्‌ विवि. 
+स्वथाःवःस्वयंप्थञस्वतन्यादूयान:॥ विशः के मं नहु विषो? वृ ड़ धान यं य अस्व) 
+क Qa q रयंवाअन्ये।अभित॑।जनौ सह अर्सा कं! सघ 5 he ने 
+VARIRA: NR al वा AT बेम सः। नः। ed 
+tiag Amam 
+reg RAAR TAMAMININ ANNEN इ MAR: al 
+पृथियी flere EE sn aan: i 
+å |ता।पर॒मा।उत। संःहकू सैषों।इश निं। से हूवा। स ति।यचं।सन्शशपीय॥ VIPI 
+
+
+| 
+| 
+
+
+
+## Page 1335
+
+
+
+
+
+
+
+
+
+
+हट 
+टू 
+4 
+NE å 
+å 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+ae I Sa म 
+å ) 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1336
+
+
+892 
+re 
+Eroa 
+दल 
+
+
+
+
+
+
+तशवे अधि! एअ का न्‌! 
+måla इक AAMA vag 
+vage उक्डःदार्सःचरंति॥ ९७ ॥यशते।मन्योइूतिं 
+
+
+i 
+ý 
+f 
+
+
+pe GANRAN EN जया भ्युजञा।सह' ते 
+।सद्सा। सह॑रवता। मन्युः रड सन्यःए्वध्आसरद्यः मन्यः हे (वरूण: जातः. 
+gd रळ ते।मालुबीगया/ नमम तर्यंसासः Arp 
+'एहि।मन्यो इति।तव संत न(तर्पसाध्युज़ा। GARA Jaaa 
+द स्युऽ स्‌ चाविश्‍व वसना भर! बं न: त्ये Rafa 
+ner gaar भिमा लिए TEUR चया: सड रिः। azn ve 
+| å पूतना सु! हिएअभागश ARNT इतः अ स्मि।तवं। कवो। तवि_ 
+| EE HATIRASI FE EET 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+O 
+o 
+
+
+T आई:॥यःनमपिता जनिता /यगविभ्याता/थार्मानिविद gin RaR 
+
+
+
+## Page 1337
+
+
+
+
+
+
+
+
+` प०३१० 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| बुरुदेयौय।मा। उन '३्‌ हि अये तेअ स्मि।उ ये! मा।आ। रहि 'अयी Fed TA 
+श्वः LAR NELA L ENNE RAN] 
+| rad å इक्षिणतःभवामे अधी र्‌चाणिप्नृथनाय! भ 
+ad haragi यमी । उप अ TJ पिबा ब्‌ ९ <८ | 
+amaA frg स्थाौआपर अं त।हवैमाणास;फुपिता।।म रु च:॥विग्म+ 
+| Sam धस manigat KAAS | 
+'ब/मन्वारवि।लिपित्‌। az से TER Å Kabe] EN 
+रविजस्वा वेद ओज: निमानः।वि।म्रथ:, न द्र्व॥सर्दर्च। मन्यो 
+|| | 
+
+
+
+
+
+
+
+
+Ragde 
+
+
+aja ।आएररुभ्े E ELEYE EEKE RE UE ATE वह ना। अ सि। मन्ये 
+FRE SANE aU BKG UEG UC TEA diti कू। kh En 
+EKE VIE NE AERE KOER GIK eE E CAE समा के के 
+नाति भयत मस ।णीमसि॥०आऽबृभूथभ ` 
+
+## Page 1338
+
+आई दयासाराय सई RIITA 
+नशमन्यार ARRA RA q Egia ki 
+उभयंसंऽआङतं असभ्य iakma aga rima] 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection | 
+
+
+७0७७ ki Š WS 
+i 
+iy 
+
+
+ऽमा तिअस्मेइ विरुजन्‌? runer | 
+
+
+३९ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| F KORNE EIN kE ER २९॥ सस्थेनाउ्थनिता रू भिः युगा | 
+उरसभितायोअसतेन'आ रित्या/ NAS सै में न) i 
+
+TREN IRA Frau ANRA ep र) N y 
+
+सो drar Fasnagaår R NRN थिं।सो में। | 
+| चाहे aingna ) अभा nu IHUSNBAs विधा नेः।यु पितः) 
+Eau क्षितः ग्रागो।इस Fb तिछशि।नःतेशअश््ातिःपा. 
+| ua As पिवति) तत, आप्यायसे यृ नरि भया ihan! 
+
+| Waem aatan mH) M% ARN २० १रेभी।आसी व! अनु'देयी। नाश ५० 
+
+
+## Page 1339
+
+
+
+
+
+
+
+
+
+
+$ as 
+3 NAS 
+
+
+== HE |] sets = en Å FFT 
+नी EEG EN MN i vi cia AD MGE 2०2 rien Be आय 00000 N AREE TERS 
+; è 
+
+
+= सौ।नि:ओचेनी ata इ दरबार्स! गा थया। ए ति।प रिहतं चि | 
+२ आः।इषः ÉN वश्च भमः! अभि: अंजन १ दो भू मिं। कोरा आसी 
+
+
+
+
+
+
+d आसी ती दयोः आसी त!३त R: र फी। अ 
+२९॥ स कू सामाभ्या अ भिः 000 
+AIK 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1340
+
+
+
+
+Fei आन अत्तर आध्हतभाअन: vaar रूया।आ पभो रे हू व्‌ णः : 
+ती। पृ तिभ शूयीयाब RR NAMRA व कश पथ िबके 
+undre Guan LEKE rei st RISE 
+rigida ansaaanrnaa प ३ पितरो । अरणी 
+£ कनत । पतीइति! वरे ये! ची एवच वा 
+imani | spa २२ PÅ ARU: a । सूर्य! te 
+| må qi aagtnaarsgraqn " å 
+G *१मिचायावर्रुण्णाया॥ Rna केस REG $} er ४९ जा 
+
+
+
+
+
+
+
+
+
+
+बंःअपरंत्चरतःभायया। एतो।शिशूटतिं।कीर्देती।परि।या ta खरे" विश्या l 
+ds FÅ raaa विःदर्धत!सायते। aR Aasa Å 
+nasal तुःउपसा।एचि।क में भागे ने भ्य॑। वि। रृधा वि।आः 
+'चुंद्रमां। तिरतेःदीयी आर्य एज हिस्स र्व 
+AFIRMAR RAREN EYGUIANT 
+।अतंगप सिं।व ती।हि।एप। विश्व: A हक be rE 
+द वेभ्भागःभतचु वातस्य वि @१०। Fara तिविश्वः वसे! t 
+` + ।खसुज्न।अन्क्ष रा समः 
+
+Si SN {| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1341
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+कळ i erre ज्या रमना am el ठ 
+ज्मः en म्य SEG लालन genes 24470 07 ०० eee 
+ff 
+| 
+| 
+i 
+i 
+
+## Page 1342
+
+
+
+| Fete 
+
+
+है. ४२ तर्कया! ये नि सरवोयः। ये ति। न: बरे? येस! अ येभा। सी भ गः। नः) नि नी या दे ६ 
+
+
+से।आः्पूर्य Grafen Garder eta ad 
+| अर्व भरात! स विता। सुर शै बस तस्व। यानी (सु: रू तस्वा ले के + रिंश 
+ह!पत्यो।दुधासि। भाइुतः।/मुंचामि। न जरसु से सु: बढ अमुञ्च करे य थ | 
+za य मदन सः युत्रा/सुश्भगाअसंत्ति॥ av FU MU रश न्य a FU 
+
+RT å en ग्र्बुट्‌ तां! रथे गान! TS ET Å य थाश आस 
+ata दर्शी आएब दा anz भिय) प्रःजया। ULTA तो! अस्ति 
+VEI TE TT STE पस्यो।तुन्योसं'्सुञस्वाअथा जिओ रे 
+
+
+DÅ 
+
+
+PB MN NPN ORFS 
+
+
+Qadima: z थः नीस्छसहे नं! भवति! Sali AAEE ने॥््थते। 
+स्या) जातय: याति मध्यत ie 'अत्यश्न्येधावाभ 
+मश्वस ds । रू व्वी।आ।जाया। ag | du पति।अश्री रा। ते 
+| To AE ३ ती।पाययो।अमृया॥पतिं: agder sta 
+Ns ० Rahana salar रेति 
+के RRAGA um mR व An 
+पीदतिप्टूंषंती इति देरचंती॥ gr भिः; गं +अति। Å IE dyd त 
+
+
+[सु SEE याव धूर्‌ मां। संश E EEE ET TE 
+
+
+
+
+
+
+
+
+
+
+= | | 
+i Å 
+i} i 
+i | | 
+i | 
+| | | 
+
+## Page 1343
+
+% 
+केळ ga i YS LRA x Ad BEE A A हि i 
+j a NE aa 5422246022 dha s डक pe se PER 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ह २२ | br स न) ए्सत्‌१अ øk Si Sitte be और | 
+
+
+
+
+
+
+
+
+R 
+i 
+i 
+hå 
+i 
+i 
+
+
+
+
+
+
+
+| share faqmeawqn FULGER IVEGJNTTE aa विवः 
+
+
+nen वास॑ ने। विशदा सं नो अथो इ ति। अधिः विक तँ ने र्यायाः पु नया 
+| इरानमा । सुद थाति॥ २६ ॥ 3307 मि तासी भगःया ! 
+हस्तं मयां।पत्या ज र तः ARA थो। अस भग॑ धञज ये मा। स Aa 
+anaal gg måsveng देवासो एवन्‌? शिवः 
+
+ad nag l arianna pRa: 
+aq IE E UE E LEEU A Pe. पर वलन | 
+
+
+Sor, VDO BANEN MG we NÆRE 
+
+
+§ 
+
+
+## Page 1344
+
+i 
+
+; > 
+§ 
+
+5 
+
+
+सूयो! वृहतुना।सह॥चुन रिति प लि; aan अग्ने MAAT E 
+Ku Jakeh qai अशग्निःअदाव! आयु बा।सह। वचे amn res s| 
+
+| | z aan यः।पतिंशजीयाति।दा र द॑दात सोमश भथ म:। वि वि: || ` 
+| गं ध्वे विबिदे?उ ततं रः॥ व्युवी य॑। अग्निः! ते? य तिशतुरीय॑ः TE: | 
+EAT २७ ॥ साम॑:(द्‌ दूतः aat gå दु द्‌ दर अग्नये ४ 
+रयि।चु वृजान? च। अदा त। अग्निः। मव्ये'अथो इ तिर्मा इ ह।|| 
+
+| ए व। सत्‌? मा। वि। यो हं। वि श्वा युः! वि अन्यतेबकी के तो । पु | 
+
+_ नह भि:।मोर्दमानो। Riyman प्रः जो ज नय तु। LY 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+l 
+l 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 1345
+
+
+
+
+as FEHR VAERE EE es ee 3 
+RSE हि ir: K DEN er ee ? + > SNe NR Me है 
+> र - 308 } je EA $ 
+~ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+र॒साय। संन har Sy मगा गग किक 
+विश०॥अघोरः-चश्क: उञ्ची। एधि शिवाषशुः भ्यः सु$ स 
+E rast rammen डमी aq | 
+gs है TET GT थे हि। GÅ KN टि 
+१ स राशी जय शृरे। भव्‌। सं रा सीं। श्वश्चो। भव्‌ ननो द्‌ रिसेः, 
+å YLE राशीं Få: ,खृ॥ से।अं मे सु। श 
+यानि।नो ॥ सं। मुत्‌ रि TN सं! था ता।स ॐ ड्‌ 
+
+
+
+
+
+
+MARAA देवं अमं तृ/यत्र/अम॑दव(दुणार्कषि 
+येःपुष्टेपु)म तः सरवा। विश्व॑स्मा नी” उततर प्रा RE ard en 
+कंपेभअतिव्ययिः॥नोरति अहीामाविंदरसि EEREN EE T jer 
+।ु बार्क पिः। चकार! हरितः मूग: यस्मीइरस्वसि रवर कुर्डली झ्य 
+(पृष्टिः मतएदसु।२) शुक विय इंद भिरि 
+अस्य।मंभिव as glade तष्टानि सेक पिः बिर 
+DURIA RQQ AUU RAR ANN I us 
+
+Gs pek Sår da KUBER c belte SGK UT Krf Us Ask प्रतिंः च्यवी 
+
+
+
+
+
+
+
+## Page 1346
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection | 
+
+
+तिअशमा बास en (| 
+EA . | 
+nen ug z MARAMAA ७ ॥ sp २४ | 
+
+
+
+
+
+
+
+
+
+
+
+
+._|सासक्छि।उतःयेमीयसी। नउ वें code Aart nati T 
+
+RARA NER मे।शिर। मे। दई व) gao किं'सुबाहोर gng 
+E Ami इतिश्थुःस्ता। इथुस्म घने RLN NAN 
+'अमीषि।ठ्वाकपि।०अवीरॉइव।मो)अये। बारारु०अभि। म न्‍्य तेत? अह्‌ 
+FR ।मरुतडर्सरवा)० सं हो च॑ सम! ga नारी सर्म ने। . 
+AUST ।गछ तिधा सतस्यावी रि इंड पच्नी। महीयते! ०॥ an | 
+'श्ासुना Ryg: d97974n KA Nr | 
+Ranai दुरे ?। सते॥य स्यू दं 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1347
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| विः । | वे !गछति ० रुर्षाकपायिरियाति उषु चे।आ तऊ: 
+Angiangi AAs ea 
+Ademak ति। ङि तिंगइ॒त/अहं/आधि पी Jug दडला en 
+nn तिग्सः ग सः gå त va 
+ERE NE NAg ३ ॥न। सः len के 
+अंतरास सडत! इय स्य शे म॒ चो निः से २ षः विश ते।७ 
+न a वहुवि दत असि।सूना)न व! च॒ रु tl | 
+स्य! अनेधआएचिंते।०अय।ए मि। विः चा कराव! विः विन्य व दा. 
+
+
+
+
+
+
+
+
+
+
+
+
+२ किः TSE, ! 0: Ld 
+
+PERIE I 003 7] Å | Ae z S Te NER MONI ee Å Za 
+
+= शकाश >> &. = eens FYE see sn re mene री 
+
+acini im ६ाणोणति गणी EI __ PRP € 
+
+
+CC-0. In Public Domain: Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+## Page 1348
+
+
+
+
+
+
+
+
+
+
+
+
+
+på pe | y i 
+SR E S k å X » På 
+क else = Å > न ee के - / 
+"RR माल I EEE LE IIR GRT S क i चा ० यय Nate BRR याया Eo 25 J 
+4 hd Pee ep RSS tr Å SER EE Seg 7 BE २२०४ TP zi SN कानी Seva på i 
+< SEE i Me ee EST 
+
+
+"EE Ep dan meer rs a > Saa aaae कसा EEE 
+ones == => उ or ans 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yo थें॥पिबोमिपक सु चंनअभिःथीरेंआचा कु दा ।०१यन्व्‌। चभ्य व av 
+| ४६ FAR चा।वियोअंना॥ने दीयस दषा कृपे!अरत) भा।इ ह? हउ 
+
+घी ०१वुनशआणदू हि।्या कुवे।सु तावे य्व ऽनेन 
+Titas ग वन ई 
+
+
+
+
+
+
+## Page 1349
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+।पृथायुर्नः०यतःउदंच।ठपाकये? 
+एपुल्वयः रूर! INST योष॑नः।०)प ह ।नासभानवी'सा 
+REGNAVA ड्‌ भ। थश्ये।अश्दत'यस्याउ टरें। आम य तू ५ 
+॥४भरक्ष:5 रुनोवाजिन)आ। Graf Aasta वा में ॥ हि 
+शा न/अग्निय के चुर usagt Vsåe ० अर्विचा या तुः था 
+
+
+FA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| sakgaknagad, | 
+| ग ; p | | 
+| y | 3 
+
+
+सनाते ।संऽडूडः १आ।निद्द्या।सूरऽदेवा नरभ स्य कव्य्‌ऽअद्‌ः ) 
+
+
+
+
+
+
+
+## Page 1350
+
+
+
+
+
+
+
+
+
+थत्वा आसन] उभा! ह स्रः | | 
+अर्वरं।पर।च॥उत।/अ्रंत (राजब(/जं भें से। धो हि।अ भि। या तु: d 
+wag: ep amanan NIG 4 
+
+
+
+
+
+2 सार्भि।विध्यतदये।यावुःधानानर्रती que भ/अति।भंग्पि।एवो॥ 
+अनल वादा Kassandra | 
+ke भी ।ऊव्यःअत्‌।कव्ष्णिः विचि AFTN eu 
+(इृदानी'पद्य॑सिजा तः्वेद!।विछ्ठ तं।अस्ने'उत। वा। च EA Med, | 
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | x लिलता raiak pu यृ 
+| रनभा सहिः gr वअ STETG LET 
+
+वह चानः आमऽअ दे श्विकीः। तं।अरटू तु।ए नी ३६ प्र। He | 
+gagari भातिः रभसः स IR u Lq 
+
+
+
+## Page 1351
+
+RE REE 
+| | 
+a 
+
+
+
+
+
+
+
+
+
+
+
+Ke AG 
+
+| | मेत रतिंग्रश्‍चेत॥हिखरकस सि)अभिश्दोर चाने। भा। वा । द भ न 
+तेऽ ær Aud Fettet भपरिपत्रय।विशु'त स्य।नीणि। प्र 
+TARA ydet णी हि।जेथा। सू व यातुउ्था 
+
+
+
+
+
+
+
+| 
+श्व éN pt सिंतिं'ते। एव) सतं।य/अ ग्ने। अर्दुते ना हे ति 
+vr बा।स्कू मे VEE he ANER NAG 
+ण्नेःचश्‌ः ध्र र RNL MENINA सिशया तुः वा न ।अथवे६ 
+EVAN चस म्यूवत PM Se अग्ने अद f 
+ganga aq दश) नञयंतररे भा मन्योः मन॑सः र॒याधजा 
+z ar qa था sma परी > aimag था 
+अनु REGNET naa सूर देवा न्‌, णी हि। 
+er R å R र 
+
+
+
+
+
+
+
+
+
+i 
+ti 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 1352
+
+
+end सयनम भ gaman Hiag anma 
+
+
+अभिःशोश्ुचान॥परा/अद्य/देयाथदुजिनं २ शुण वु/घृत्यकू।ए्‌ | 
+
+
+
+
+
+8 
+| Woo 
+
+
+
+
+
+
+
+
+
+
+
+> 
+t 
+
+
+DL SEE Å 
+
+
+१ पर्थाः यं नु'ठुष्ा:/वाचार रत नंग्वारवः स छ तु/ मर मेन पिश्व॑स्य। एवु। प 
+Aag था न $ भयः पोर विषा। से अरे य! 
+या तुः धानः यhअध्यायायभर तिमक्षीरं+अम्ने? ने पादी रसा 
+आरथि दृश्य संवत्सरीणं पयः।उ स्तियायाः सस्य ess यादः धान: 
+ह चक्ल॥पीयूष। अग्न।यतमः:। तिळ सावरत अत्यं पिष 
+व।गवां।या लुः थानो: बंद उग' इ श्य ता भ्ञदिं स नन८ 
+es तु! परा!भाग pied ता ला | 
+' हूण सिभ्यालुः nanam andang anag] ४८ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1353
+
+
+
+ag मूरण्यरकुव्यऽअर्द।माते। हत्याः वसत नबा न 
+ANT वरले 'प॒श्वा त/ड त' रक्ष) पृ अभ ।अज़रांस 
+magnani gania < ॥ पश्चात पर 
+
+
+tt hime 'परि*पाहि' राजन सरदे et a ४ 
+त्व्‌ न:॥ य रि। त्वा आने) यू (विश्र।/स | 
+ER ren veg at Makt भे शरू ति | 
+Wizz गमेन वो 5३ PIT सति fang 
+सन भिथ्नाधद्ह्‌भया तुःथाना? मी दि नासं ला।शिरा मिग हि। 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+ÄN 
+
+
+
+
+
+st sm टकळी ES mr यय ERE ren TETTE ER 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1354
+
+
+
+
+
+
+
+
+दब्घं।विध्) स OE I SE हर॑ व्रणी हि। विश्व य तिम याच 
+| ea or । ९ ॥ह्‌ विधया न बिदर 
+Fm तं।जु ए। अग्नो ॥ तर्य भ में णे। भुव॑नाय! दे वाश धर्मणे चे, स्व 
+de MIRAE K AIEK LA MAN AAJN MNA 
+यो > halde N 
+
+s 3 4 । येः) भा 
+
+श enga इमो।आउतलो नौ रो LAERE RA 3 A 
+ERETTE CN EEE E CE EERE EIEE 
+
+
+Jed a A 
+
+
+गंव/य व खातं।आग्नि।अरूणे द।जा तः वेंदा यवा जा तः वे १5) भर्व AIA 
+
+!अति4अस्ने।सह। रो चुने ना तं। ला।अ हे मभमृतिऽभिः। गीः; भिड व 
+शियअभवःरोदासिय़ाः ॥ ९० ॥सूथो वः भव/ते। न च! अ ग्निभसृत॑ः। 
+| meer (त'याशिर्याना rr 
+URIN TRUER धयध मम हिना।सेई on 
+ने विभाऽर्वा EG $A देवाः हु वि। विश्ते।आ। अस्‌ 
+नूउ या॥ सुचवा के TYNT तअ /नि। आवे। LA S अभनयत 
+दिवाभसः एयो१य्‌ सअ भवदव! तनूः पात धोः वे द। त षृ थि वी। से) भा प:॥ 
+
+
+
+
+
+॥तर्मिन/ भ्र॒ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+slep तेम! 
+
+
+ही ललन अत पर वका gd म 
+JATA: garua NINE Sm | 
+अजीजन ट्‌! RUNER ।अरूष्य न ते था भुवे! कें।। | 
+समओषथीःपृचति। विश्य RN ९९ ॥यदा।इत हनं)अरद्‌ घुस ये 
+चिधदिविदेवा।/सर्योआदितेय॥यदा।च रिव्यू इति। मियुनो।अ भूत । Ù 
+
+## Page 1355
+
+rd क n aa Jemen å 
+
+
+
+
+
+बानर ॐ वुंश्अ द्रो कण्व नन आ्यः। त MAF 3भाती/अ पी 
+
+
+
+
+
+
+
+
+
+agaang adicada इ PTs असं | 
+वियाइहंसबैश्वानरं विश्वह दी + वोसे। मं जे + मक्नि। डवे, me 
+RIPARIMI TIA चि।उ ता अ व amka arg 
+gA aiamaa gnan 
+द।विश्वो।एज॑व।सं/एवि।यव?अंत्र। पिततरे नातरी a ९० गे 
+पमी-चीडतिंसं5ई-ची। विश qpa ते।ग्रीषेत।जासं।म न॑सा। ARREN 
+Az विश्वी।भुव॑नानि)तः spt छन्‌) तरिः ग्याजमानशय 
+ERGEL पररः! E IE तर नो विवे aA 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Faa Nha Rma a Ea anaE 0 || 
+
+
+
+
+
+
+
+
+
+
+
+
+ही aaminin कार्द naaa a 
+
+
+| ति।रर्यासभक ।उवसः। कति ॐ डति स्वित?आयः॥ NIT स्म 
+प्रमपितर/यृदा सिपछामि।व। कवयः विद्यने। के ॥ या बः सा चर उप सैः 
+aadh aradan मात रिः emgan apa 
+
+यनए/आ्राद्षण: हो वुअर्बर।निः सी Fi nede Ei 
+
+## Page 1356
+
+MaRan IA Raamaa el 
+Ka: sAm RE नः मृ हिऽ वा quad gg 
+mamila यात रे थ्याउ इव वका ॥अतिर्छते' अप 
+
+
+f 
+
+
+
+
+
+magmai सि।लिप्या।मघा न॥ parte ease 
+vi måte Fig: E CIETE BEL ना 
+DREG बेगड या निरज निशितः सो ३ अ पः Fane 
+रस्य।यु ज्ञातः यअश्षेणऽव Ren भिय विच्च कू? ar र शि 
+| वीउत्त।द्यो॥आवो तः्मन्‍्य॒ 46 97% र भमीश्धु निदिमीऽ बा र 
+२? सशी बी॥सो मे: रानि सा/वर्नानि। NAAR IAA 
+दे सु: ९४॥ maena aAa 
+सो म॑अश्ारि inaamag agaga 
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| 
+ii 
+Hå 
+| 
+Å 
+(3 
+Lå 
+Få 
+| 
+
+£ 
+
+å URORT EEE ihn री पडतायत 
+p क हि पज ØSE १00३ ४०३६ केशन wr on Dee 
+
+{ 
+| 
+T 
+$i 
+
+
+
+## Page 1357
+
+Q | 
+
+
+“>> 
+
+
+3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+a नाल PS 
+å 4 gr एः — - पाणल ण कणकण ee i 
+; å } s LGG gta sa 
+
+
+
+
+
+
+
+
+
+
+
+
+छुरुभाति स्छिराणि॥ज्ञघानाडये स्वः धिति बना बा रु रोज पृ र अर द| 
+an सिर्धुन॥बिभेदी गिरि।न वे र द न कुं भे।आा। गाय हे fane य्‌ 
+ei åR kn add मे लगाव नी नानि | 
+AFK TANJA नाजनां। भिन ति। मित्रे भभ। ये। मि चे। प्र।अर ये म॑ 
+गडः; हवा भरा संउ गिर भर) वररुणे। मिस सिं। निः अभि जवृशवुधं । | 
+णंभ्ञरुथं। SL :।द्विः। n FEEN Å त 
+
+| Ay पर्वेता ना ॥ घ्‌ ड ३ द। मे थि राणा इ dag 
+TOREN य )र।दृचःभ्ऊरद्‌ः भ्य अं वर्श/तिव/भग्समृडर q 
+
+
+
+
+
+
+
+## Page 1358
+
+
+Se 
+
+
+| थासेः त्र) वात॑स्य थं सः उमः! अंत वर आसिच्य ऽ भ्यः र्‌ रचे सितिऽभ्ये॥। — 
+रोदा च त्या2उष सः! न त्वा Aer hk da pi 
+ध्य। द्वि/आ।रू NANA mrd मित्रानेशअसु।अहमा 
+
+दव! वर्नानि,अनु“ओवंधी अ redan an 
+EN KOES AT S E tua ama mg 
+भघस्य्ययरभिन दः र क्ष॑।आः ई पद । मित्र: EE न matt 
+
+जाउ पृकू अभूया रयतेचा er अली ततस््र!म | 
+
+TRAMER ॥अंघे नअ सितराशसमंसा। सचतां सु+ tan | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+RER TREE, 
+
+
+## Page 1359
+
+
+
+
+
+
+याणा णा शा लत ====70ERR ETT नाच SACS 
+
+
+hte >. अ. 
+
+
+
+
+
+
+
+
+
+
+
+rte 
+SE - 
+
+
+चिथामयस्लोरयेसाए० ले siR शुनहुवेभः्ययोन मिंगरमस्मि०। २प्येतमुयमूतयिस 
+
+
+
+
+
+'अनिःस्यृरि Gu madmag णि।म॑ रन! nd 
+रार मोग NARAR हू. तिं। ति रु। विश्वी aagana; 
+k डू! Janet ननी ५ 
+NAZ अक्षःसह Nn nt 
+
+'अतिछत।द वाऽ अंयु यु TER RRAN apang मव्ये।उ ले। | 
+
+(ईद न/यव/अन्नेनअतिःराहविकष्तावान/अस्य!म हिसाअ | 
+लेधज्योयौन।चपपर्रुष॥पा दः अस्य विश्वासा नि। qaaa, 3 
+Aranana रुष पाद्‌ अस्य।इट। अनवत! घन रित्ति। त्त) <३ | 
+
+
+
+
+
+
+
+
+
+
+
+## Page 1360
+
+
+
+fen Faen नेशवि।अभि/।नरमावशविररा ट।असा य त्‌ (वे: 
+।अषिएुरुषधासःनातः अति अरिच्यत! वश्या सर भूमिं अ थार तिं। पृ २:९७ 
+वरपृर्ुपेण। हु विरवा। देवाः यशं? अत॑न्व त॥ बसंत अस्व।आासी र | 
+AER åra EA near पुर्रुष nd gagn 
+भयंत साध्याः सबंय॥-चये॥ तरमा॑वशय साव। सवे इतः से कहते । पय 
+UKER CE E वा यर्व्यान।आ रण्या: क्या म्याभचार्‍ये ॥०॥ सर्चध re | 
+पेसिरे॥७ दोंसि।मतिरे।त वस्यः वभ्रज्ञायत ५ तरमा वअ 
+थृत्‌।ये।के+च।उभयादतः॥गार्वः ह।ज तिरे तरमातः तस्मा व (जा ता: 
+
+
+नभ्मो्या(सेय डव 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+i eR iE 
+ह ह 
+
+
+| | . चअ ० 
+
+
+|S 
+| d YX 
+| 
+| 
+HEL: 
+| 
+
+
+
+
+
+| 
+| 
+| 
+
+
+
+
+
+## Page 1361
+
+
+
+
+
+
+
+
+
+
+
+| 
+| | 
+| 
+
+
+
+
+
+'जनावय ९८ ॥ यव(पुरु यं।वि।अर्दधुध क तिथा। वि।अक स्ययय/सुरव। ARA 
+कि चाह ASS AS तर lurere dir 
+AL एाजन्याडू तङः et 'अस्य।य त बेश्यः प्‌ दऽ QI 
+amami मनस जातः वसोः स्यैअनायतभयुरवादःर ईः ।३।/ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+य्य Gasser था MNRE ALA 
+Ra anma R ३ ध्य बिःसप्त।संः इ? कनद | 
+TI FUJEN वश्ये न्य अयमं तादेवा तानि, 
+
+| | 
+
+
+EEE HE लकब 44H 
+| 
+| 
+$ 
+å 
+Å 
+; 
+
+
+## Page 1362
+
+
+पूर्वे साच्या AG 
+mirFGqge: 
+
+
+
+
+
+
+
+
+TF AMERA कष å भानच 
+ae nes UTTAR Å 
+
+
+टचोत्‌ऽश्ची NITTI वने।भि Vag drsdqus si 
+गेन्‍्य।नाअ ति। मन्य ते। विवा उश) TAIA å gula ऽ विर॥सुःदक्षः 
+कवचाः शसि।सुः शब्‌ At nagad 
+
+
+
+
+
+
+
+
+
+
+MALA deg ।३वध्था वा।च। या निं। यू थिवी हृति Tasta: 
+न/अग्ने।त व।येनि।सलि काया; प्दे।घृतर > on जा तता 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+AT E KUE UE LE DES O tE eE RIDE EEIE EEC NÅ 
+
+
+| 
+UT 
+
+
+
+
+
+
+
+
+## Page 1363
+
+
+
+
+af 
+
+4 
+स्याही नो tag क ogå klagde सुःसश्व।सरिविः य॒ ते सः 
+IN. TRA: LE 
+
+
+RY 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| पअ विकिवेःउवसाउशव/एतयःअरेपर्सः!सूर्यस्यःरय।रश्मर्य स वशि यः ृर्यरयऽ 
+Oo ३ व) बिः, fu A न्‌ es Me 
+
+| MUIRAN अन्य) आस्ये॥ २७७ १तं।ओपष॑धी॥दपिरे।गर्भी | | 
+पथिये।तं।आप।अग्नि।आज न यंत।मात रः) इद? स सा ने। वनि य च्यू। बी | 
+भंत BR KE EGEKET ४ Ranai] 
+डे ge AJ: ॥आतेयतंते!रथ्य यथा) Pu 
+ramad ndan थाः någe dens dd अग्नि 
+refs pi minia अभें।ह्‌ वि वि।आ। स मान'इवरसं १३ त 
+
+
+
+
+
+
+
+
+i m sernst ag mene tre >>> x å å he 
+===> = a उप == eee 
+
+
+Oo 'महेडणतानाअल्याख, Dut Wi ab तार भरत! azy 
+s Hnqakasddndefrng सितते।ह विष्व मनयः दुः SE ESATA 
+
+
+## Page 1364
+
+
+hag ragian विः. au सस्य हो Ra 
+
+
+
+
+
+KVINT यज॑ शि। अध्वरिः gizmag ARRA 
+R rA R $ MS zmagi 
+
+
+
+
+
+
+
+चिदे!वर्थन!। या सु। चाकन mhang ३श्ततिं। 
+SE: १ mdr Å al nå आडी a 
+ठक भर्ता ps की को ba ND 
+
+
+maaria: ` अपेवपसेउडातीसुयाती: ७ 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| पन्ञे | 
+
+
+
+
+
+
+
+
+
+
+
+
+घाय।वेधसे।रुदा।मतिं।अनये। चारं।अग्नयें॥ अ आ l विशआस्ये ते! FR 
+os Å PR कप e TH hn 8: er Bi 
+
+av बसु LAN a । विश्यति विचा।हो तरं! अको अ Ri 
+
+विभाश्यसु॥शो चन? शष्कासु।हरिणीवु।म थे रत: रुवा। के EEEN Grene | 
+
+
+## Page 1365
+
+ENIRI यो।उ भ ये। अ दू. Di (अग्नि विद थ॑स्य। सा 
+
+a यह।उप सः A R सं।अरुष स्यानिसलते | INRA: 
+vag क zaa 
+
+| 
+
+
+
+
+
+
+
+AUAA 
+
+
+
+
+
+
+
+Siden 
+
+
+।नीथा। 
+KIRA > 
+
+
+di 
+|| 
+| 
+| 
+|| 
+K 
+A 
+| 
+"६ | 
+७753 
+
+
+
+
+
+EELA 
+E E sen ङि सनस हि सिति 
+
+
+ar ge a वर्रणः RR 
+प्रि/अथोइति।भग।/सबिता।पूत३ दक्ष सजा रुद्रेण। ययिना) ये ति।सि थवः 
+ES रेभ भि प रिऽ UTEN विरेरुव | 
+
+## Page 1366
+
+| न NAAN ATIE ZIRA pi श्यः 
+स्वन a mra EENS: म 
+Rynsrdarnt amn å FRI 
+Qrara gaa maA AN के ni शक 
+चअ हे रिन अस्य ररम तरद क Rana 
+
+
+
+
+
+
+
+
+
+यसःानीसस्य्‌। 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+per EGET ramse 
+ee 
+
+
+
+
+
+|| Aokin: तेहि सायो एथिमी १५७ 
+
+
+gahan दिवः Nad ९ सतन अनाधितःत में। व: | 
+KSSE Sa 'पझयवध्वीरायानर्मसा RRIA ran स्यान्‌? ए वया | 
+
+| | ॥दियशसिंस सि।स्वः यदा निकस5 भितः ह्र जरया शअभंरं त।वि।श््र्व 
+RES T er aRar Neta pe Å 
+
+## Page 1367
+
+Tuana vernede aa sanigan fa: & 
+
+
+QRR AE ET वन्य करना कि i l 
+
+
+
+
+
+$ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Re >a नि॥सूथोमासा।वि>चरंता' दि विशक्षि ` 
+| | ELKEN IEG ETETE keD नः guget RAA देग्यःआपो 
+
+
+
+
+
+| | 
+| 
+
+
+
+
+
+
+
+
+
+
+
+वि” Cds RN शा Vår ig SE PA EE NES ANGE MER SEN x LSS å ५४4४ Å | å ह 
+
+## Page 1368
+
+s $ I I 22232 i 2 pe ka BE) 
+> i FAR 
+% . j 
+i | $ 
+A $ vr 
+| Er 
+E 
+
+
+| नपांत/अव ता aga amaa nandaan aA 
+* ae | वागन hh गीः5भिः क्लिक wF 
+RA rs kjerner ga ata > 
+वर पवग त NN कि BRAN pe | oa 
+ङ्‌ en दरवि$ चशण:। पाथ सुःमेक स्वःथिंति।वर्नचःवति॥२<॥महिद्यावा्दये = | 
+तितउ इति।नारीरतित्यईर चिनारोदसीइतिसरनशतेर्भिभनभपा | 
+Dh Np वा व å 6 
+
+
+Renata alen REE OCE ERE Raad 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1369
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+NE ' R 
+
+
+RR AS les le ES TYHN 
+RE qaas sSTAUKRET: नुणो।स्तुत५मरुत॑भपूंष णः १ भर्गः सच नान 
+से॥अरपा। इूवण्वरहड़रतिरवणइवयसयोमासा सर्दनाय।सः थन्यांपसचा यत! 
+m या धबुज्षेयुम्बुश्यः,२६॥उतः नः देवो ज दिविनाr्युशःपतीर्‌ ति। 
+मऽभिःनित्रावः ES Bruns JASTANINANEDU 
+।देयारसःरथःपर्ति। भगः पसव en nere | 
+Å 
+
+
+( स्ता धअश्विना i få 
+A ERREN सश म विथतःसद्शआतेरह्रीर्‌ er 
+श्य्‌ । वाजिना डुरतरयस्यीसाम। र RIARI UNELE NA: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1370
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+थरी e 
+
+
+3 
+t Å 
+
+
+| € प/सवित्तरिति ।सभच॒। स्नुपे) मघोनो स हो इति anida थिःनि। एषा! चपेणीः । | 
+चुके रजिम।नायायुवे॥/आ।एयृ) द्यावाथिवीडति*्थातं! gere SS fag . 
+Hin dugetasteu क) nad neihi 
+
+
+
+
+
+
+
+qig: Randama gem eaaa 
+
+
+
+## Page 1371
+
+R सोद mds arhan malg aami Lin aN 
+'निग्नअश्य्यभ्तषाऽड्य्‌ 
+
+
+
+
+
+
+
+
+md 
+
+
+चं।/अर्सुरि। मधर्वव सुधयेजुकाय।पंचीराता TERS IFE विःश्राविं YU 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+} wa å 
+y 
+
+
+w 
+
+
+| (अर्नप$ duaqdi साशा IÀ किर de 
+| Pfa E Aa arja ४ पतत १ परवान रामे | 
+
+
+W — ~~ oe हि MG SEO be art ha NERE M NA sn i JET sk ia et EN EN i: AEE तल | sn ei ~ 
+è 
+
+
+< EO. KEN 504 पिता ~ i; 3 
+PREG SEKR KUNST 
+
+
+- ES Seem —— ब ssn mss 
+i. क = भल्ली > = ७७ eS = 9 ae z ए rere 
+
+
+
+
+
+
+
+
+
+
+
+## Page 1372
+
+
+
+
+
+
+
+
+
+
+
+|; 
+i) 
+~= mmm ee 
+
+
+
+
+
+
+
+
+
+FRAR en uaqRRkyasraqurRe mea 
+
+
+दः दिद्ष्ठमायृवः॥ श्ट N भ्ठ ते।व्‌दंतु।श्र। or GANGA rd p l 
+Ka 4 
+
+
+TARIAREN सा के ede 
+å वि!र रिंते भि!आ समि 
+uvel 
+
+
+० एते!दद्‌ं ति! masda हरः वर अभि) 
+ना 7757 RA "कळ 
+
+
+
+
+
+
+
+
+SAM AG नि ऊंरबयेते।अधि। TI i 
+auaaHduzqn pe 
+
+
+
+
+
+## Page 1373
+
+
+
+
+
+"Eg 
+फोशंतःअविदन/अना/ मर्थ।स5 å 
+
+
+
+
+
+ARa 
+
+
+LE 
+
+
+'आःपोाष यतः एथिवी।उयालदिड भिं सुऽ्षृण्णः ।वाचो अक तु/उर्थ) थे वि।आ 
+
+रूथ्याइप्राधअनतियुन्यकू। नि।य॑ तिछेप॑रस्य/नि४ ७ त। पुर। रेत: धिरे 
+
+aq dn eek तःस: आर्यमु।साक।युपत्तायदवणः॥६ 
+
+bn STYRT TE दिव ve i ag तांडव रद 
+योज 
+
+
+
+
+
+
+
+
+
+
+Tarada न्य ट्‌शऽयोङ्गे्यः। ANETMA to tri ली 
+
+
+नर्य ।द्या्थुरःर्यायुकामवह gne यः।द्न्‌(ऽयंचासः) आदा | 
+
+
+ME 
+
+
+ud TRA ÅKER far Å) 
+
+
+
+
+
+
+## Page 1374
+
+ar gå å 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+धश्यतें॥दचा। वश अं द।नाकिरM रिषाथ न) इळाश्वयः। सदत) सउ ना आ शिति भार 
+å महसा नरवर वाणः! अजुषध्येअध्यर॥३०॥ ढुदिलाः 
+RRRA JI आश्म! आ ईथिताःअ प्सा 3 
+(अमविष्णवःसुःपीच vi RAMRAM भुवा। ९ iq: पितरयुगेः | 
+f È म॑कामासः।स सःन यूनले॥ शशुञुयोसः। ह्‌ रिः साच damen 
+rd omgå: के कक ९४ 0 Handa: rd Gå गमनः पः 
+ROUVAT भिः यसः Nasra ज १ am ala | 
+घर्शतगासुते अध्वरे'अधिवार्चाअकताभा/क्रीळयःनांमातराृदंत ग विस मं. 
+R GgJT Fran naana: २३९१३तिक्सन्चतर्थाथ्यायश ७ & ` 
+
+
+| 
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1375
+
+
+
+
+
+
+
+
+
+
+
+
+H 
+| 
+Í 
+i 
+f 
+i 
+f 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3०म॥हये।आये। स न॑सा। निछ थे रे। वचांसि ol uqqåguandrasf: 
+å नु दतासः।ए ते। मर्यः कुर्‌न्‌?परर तरेःचन।अह॑ब)किं।ए ता/वा चा। दूःण व्‌। 
+TANA Pavas ANER JEA RITER: 
+mads ga JE ved 
+तान। रे है:॥अवीरे/कतों। वि।द्‌ y लेले! न।उ रान! SN o | 
+- agg a RR err ål 
+ea DKP TG FARTEN AT cE uq 
+न।उत। सम मे।अ्यये। रण ररत केयं भ 
+
+
+Gag tos 
+
+
+Po I 
+Eg 
+RR ON + चळ >. E an AN क मस 3 A, VAOR s धर 0 0. 
+$ क 2... 27८२६ ROSE SST, 0४ veg 827 l एर PERS 
+
+## Page 1376
+
+Pr EO SE EA A ककत ० Cd A RRR ६७६६६६४६६७. 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+are rene ९ या।सुऽ भूर्णिः।श्रेणिः। KER SG be 2 
+| नी।चुरण्युः॥ताः १अरुणयःन योगा NAL 994: 
+॥ dirt ।आसताग्ना उता कब नान्या स्वः्यूताः॥महे! 
+FARMIT कर) त्यायादेवा॥सर्चा यव! आसुन 
+Agne haih m ke ee CEEE Ex i 
+MARIJANIG स्थदा: नअ mer 
+Agg भि:न। दडे ताआत य॑ न त्‌ ve Paper: 
+मकीळर्यधददेदगना:॥ विः्युव।नाया पतती। दवि AR 
+
+
+का ६९ 
+
+
+
+
+
+
+
+
+
+
+
+
+निपज निशोइतिभपःःनर्यःसुः्नांतः Aaa å :॥ २० 
+
+## Page 1377
+
+
+RAIM पीथ्याय। हि! दधा AAR वृ रुरवः मेश ओ स्वा 
+
+FÅR mn FUN: REG 
+
+Matnaggragsanetadaa: qan 
+
+RAIMA ADARIA ERR q दी दय व॥ 
+
+Qa तिर चन Tam: शिवायें॥ज। ततः चेहिनव्‌।य्‌ 
+यरा 
+
+
+tg EN ar FU as sed: AN 
+'अनादुद/प्राश्वतषरमो।ग तेवै उद ति॥अर्थं binde निः ANT FI 
+
+
+
+
+
+
+
+
+m 
+मह 
+VE 
+É pa 
+fe, 
+| 5 
+ब r x 3 ह है... $ £ 
+5 pS # 5 55052 
+AMG 
+
+
+< ५ 2 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+; | | 
+
+## Page 1378
+
+| प०आ० . (अधुन क मा AS मात्त्यारका 
+OS | Sane ऊंरतिक्षय/नावेस्थ्रेणा नि।सरयानि। संति।सा छा दु काणा। |, 
+
+
+
+
+
+॥ | 
+| 
+| 
+{ 
+
+
+
+
+
+
+
+a N CREE UCA EEEE N GEE REELI i 
+
+R ra DAREA aR riman Fi वाणा।चुराभि॥ | 
+\अत सार TRAIN ।बू्सि HUI pe l 
+løn få oa i Vs me NER इतादयः || 
+| mL यथा एल तरभर्व सि। खः बथु तमा ते। देवान ह विर्षा। 
+| ana MAAA R AURAR Kar 
+
+
+
+
+
+
+
+
+Ea 
+
+
+
+
+
+
+
+
+
+
+
+
+RAGNI PISt हुये ते। स दं"छु ते! न/ यः 5 | 
+
+MRTE से) गिरे:।हरि।हि।योनिज भि।ये। सं अस्व॑रन हिन्द त॑ 
+हरीइतिं।दिव्ये।यर्था/सर्द।आ।यं'पुण्ण लिं।हुरिंः थिः। नः धेन व॑ इंद्राय इषं | 
+
+## Page 1379
+
+हरिः वंत अर्चतगसः। अस्य।वज्य॑ हरितः। यः lise paias | 
+
+
+
+
+
+७४६७४६७ SEIERE 9४0 ` 435 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+DE 
+
+
+
+
+
+
+
+| पन्न तव विश्‍वॉउक्ध्यॅ'असांमि'राथ] ह रि ला थते ५ ॥तावज्वियी RA 
+l: व्य RY वह तैं:। हय॑ता।ह री इलि पृ eda ANE 
+å å भहरयभ देधन्विरि "अर का मा य।र॒र॑यध टच निरे। Sui 
+FIVE य४हरीइलि/तुरा॥अ RA FUEL M UNIAN! ह 
+ES SN वमद्यारु umanqvAÅangks 
+madian SIGIR aa ssanmaRkqa Ufa 
+
+शृवाशइबभ्यस्य।ह्‌ इति। विपेततुः NTV हहर विध्वि 
+[वातरप्यदप्कृते^चुम॒से'म वट ~ yr vita अंधसः ta 
+अंग frr दा 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1380
+
+
+
+
+i 
+| 
+| 
+a 
+
+
+TEI कदा å 5 3 
+VNR NER RR 2 ASA Lm 20 == ex md ne eg ETE j SEE कं ७७७ Å å 2 
+7 i mm mnemonic nena ners = — 
+~ n -—- - युश ORM eden a Sa 
+
+
+PRN SSR, ar > v - pm SON Brig: oi 
+$ å 
+
+
+gamaggdaaratisduaasfetauagzang 
+Rafa य न Fa de t! x 
+
+| nå name g ARS वा। न HODER 2 चु। 
+
+यं५प्रा पर्यं।अ सुर हुय॑ ते। गोआ वि A een smaue | 
+तेव्रभ्युर्ञ अनौनां। रथ gå Gets anama "१ 
+
+स्याम्ध्य/ह्यच! यज्ञ स må zals Manata g iag 
+
+
+तान्मे इद्‌! सर्वनं)के deg सोमें।म धः मे ते। इडू। स्‌ 
+चा! टषच्‌! अररे? आ ड वस्व ७ ॥या /ओष॑थी! पूर्वा जा ताथदे वे A: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+है. 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 1381
+
+
+
+
+
+
+
+
+
+य्‌ा 
+
+
+गं।युरा॥ मनें +य ब ऋणों।अहं। दास! धार्मानि। स॒प्त।चु रा ते। अ | 
+ta FESTA! Fa DAG, F kge pkai d 
+त॥ओष॑धीःश्र नि N ke ERIRE REO री अश्वाःइवा जि l 
+
+
+NE र्धः। पाह “हाती मातर तवा वः देवीग उची 
+$ सून TASTET HETT QAAR hh 
+| rn वस तिक ता॥ गोऽभा जं इद कि ahaaa 
+थवुरुष॥ द॥यचीआ बंधी: संऽअग्मताराजांनः। स मिली3 इव॥ वि 
+।सःउन्यते।भिषकू रक्षः sad TURT वती ras 
+
+
+
+
+
+
+
+
+å 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+TE RTS STE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1382
+
+
+
+
+
+
+
+
+
+
+
+
+
+यावय श्मः! यत। चाषेण? कि क्दीविना/ सा कं वातंस्य/भारज्यी सार्क) सदय! सि 
+| हाकंया॥आन्या। वः! अन्यो? अव GPRS NET 
+Bs विदानाः३द्‌। senge Fana फ लि "नी शया: अकू रामआयुष्या 
+क Grong हस्पतिः प्र सूता) तानः मे काह ARIE i 
+maaar अथोइति। य॒मस्य/पडीदाव स 
+(NEA: Ei चवाद॥/अवब3पतेती/अव दब! है Se anga 
+यें। भी व॑ /अदन वा महे। न'सः।९व्या लिरपुरु षया ar kn 
+| है: व्रत विं च क्षणाः॥ ता सा। लं।असि।उ तऽ त मा । अर का माय) na 
+
+
+दे॥० विश angis dealer åa nd 
+
+i SLAG dl SE hs 
+a amanan] इक भयायच।ूरेपरागगवाधास| 
+ert (हि और +ओष॑थयः सं व द ते!सो में न।सह्‌ राज्ञा Fen å 
+
+SEE gur EE | 
+Agent सत्य:॥ उप स्तिः जर्त! सः/अ समा के? GNATT 
+adan n TÅ त Tlf aan l 
+Annman ag makan दो 5 चवे। 
+
+
+६ 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+## Page 1383
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 ARTIRIN: ये z n 
+नभप्रतिं।मां।आ/व ।दूर्थासि।ते। ऽस आसन! 
+AN sahat ET AE fa 
+नवेव । द्विः दुस? मधूः मान्‌? आबि वेदआ नः डू स^ चुप मतेः 
+på Zi हि'अधिऽरथं। ॥मिसीद होच सतुः था। पक 
+य्‌$ आये। हू विषा।स पर्य ॥आ हि वेण देवे गस वि ति3 सी रच! देवर 
+VEIRA RNING R तंरस्मा त(अर्थर! स बुडे आपः E ; 
+
+
+निऽरेताभअविछ नयताः डब Jarian देवश आ पिनातऽईषि ताभ्‌ 
+
+gu ९९ ॥यस्‌!दे वऽ haa नये।पूर:४ रितः हो भरा य॑ छुतः। रूप 
+i दे हि द नी amiga NF अयछ दभ्या 
+दिवः अ पिः श दा, वामः अग्ने।आ छि वेणः। मनुष्यः से 5ई थे ॥विश्‍वेभि sa 
+gangs gras ag ।सर्बय/ गीः भिः यनभ्वो।अ 
+
+TE त। विश्वे NT आ नवन i 
+an तामि ।नृदतिः नवले ३ तआ | 
+aga IRUR: ननित हि॥एतान KA 
+
+
+
+
+
+
+
+
+
+
+
+$ 
+REN 
+
+
+
+## Page 1384
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| न तव्यो aana anaana fen वे Ji AN 
+
+
+Å JÅ 
+, i -D 
+| 
+
+A 
+
+SE 
+| 
+| 
+
+i å 
+
+A 
+
+I 
+
+* Wr > PS 
+pr Py Aa EG 
+Pa od ५७५5५ अ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ne No 
+
+
+नने'न॒यतिं।सुद्स्ती।से। प्रतयः ganni Seal sat 
+६७ + 
+
+## Page 1385
+
+
+
+नर्अपिओ रा नं। दि बिदेवेवु। पे हि॥आग्नें।बा यत qadagan 
+बो।अप रक्षों सि।से NAMN समुदात? हुतः IRIAN 
+र Medi ARRIRA रि।चि। त । 
+
+NFR Sad । रासः विःईष्ठो।तश्ञ?वञ नम्वर. अे पिन्चत 0 स:।हि। 
+चुता।विः्यता।बे dre यान सासरा रह बा।आ।ससा द्‌" सभ सः N 
+नशाले । माया RENSET ha 
+
+
+MAN IRS साता! यरि सर्च? सनिष्यन॥/अन वी।य वा गा तऽइरस्य।वे | l ६३ | 
+
+
+
+
+
+| h » 
+i A 
+र i 
+n DREG da a कसां दत्त p GAR se de हतर 7 vida mad कृ e — me j G क झा थे onde x 
+| * Wis t 
+i || 
+HÅ 
+{$ 
+HI 
+i å 
+Lå 
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+न्‌, श्नः देवान्‌+अ भि। वरषँसा। qang 'अवनी।गोष।अवो।आ।सु 
+| nå paapaa aA RRN RAAE: 
+ईरले।घृव।वारिविया।॥ सः द्रे भिय अञ स्तऽ वारः सभ्वा। हिली। गये 
+द्य] जा।भगाठ? ब॒ननस्यमन्याभिथुनावियज्रीतिविः वज्री a 
+दरमुषायनसः।इद। दास GEIT दीप EVA: 
+
+
+## Page 1386
+
+
+
+
+
+
+
+$ de 
+
+
+
+
+
+
+
+
+HHT! शय गविषा। वराड 
+अय्या। हन्निविंदन॥ ९४॥ स. (उ हणणे) सा नशा) सा| 
+ak रे några AG AAGE 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+T राण्य मालामा TOTEN 56 
+
+
+|| 
+{| 
+|| 
+| 
+
+
+
+
+
+
+
+
+
+
+| | Ta Ta 
+। | Ke 
+
+
+
+
+
+
+## Page 1387
+
+
+
+
+
+ER चादस्यूः्हलसःआभिनर्यन। यवले sd विद 
+क हे स्मर ab utan aži! । नका ug! 
+_ | दर्स्युनशसभब्राधतम शव साने मिं। अस्य!कुत्सायाशष्णाडूपरणापरा!अदा 
+| Atle JANGTH SG AY anga FN 
+द्याश्य नन निस्य दर्भः वे ng धन।भायी es $ 
+
+। 
+
+
+
+
+
+म तुऽ रा अवे दितभिभीत+अररुभयः च वुःऽ VA fr: 
+EA AZ: ngatqauFand 
+बे! गी।पु रंधद या न! अनि। वरा RANDA RIAULT 
+
+
+
+
+
+aNs AnA REIES 
+
+
+aaga Aang Jau ।र्यानः। कूर ति।स्व॒ स्तिंभ्ञरेमे?०॥ ९९४ 
+Fraga endarngara gangar 
+| i dam सर्वश्तांति 
+
+FETT mga aan A पक 
+
+` ` यंसगपीतिआननो। जान: पद MAILARA 
+mangaan ऽभूषिम। पाक्‌ ERIC 
+| m 
+
+T 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1388
+
+
+
+
+
+सु मना: अस्त. Nuga 
+EG EK धितानिश्सेः दधः रा uga 
+
+
+
+
+
+| 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+| qo To 
+
+
+६ 
+
+
+| $ ma 'आयुषः/यज्ञःमनुभप्रम॑ति नु पिता।हि। के। aiiu 
+देय अग्निः गुहे ,सरित्ा मेधिर कु विभयृज्ञःच+ हत वि | 
+Mi nLusidanon ९६.॥नावःयुहा चरम रूरिडुः: SÅNN se | 
+| 
+
+
+
+
+
+
+
+विसवसदिव३हे< AmA a R qaaa ss 
+Fee i दाचा "ag दअ o 
+
+
+_ सवः E सि।सजुत्त/युयो त्‌॥ सः å SK l 
+पायुभईड्य०)ऊीयावःयबसापीवेधक्षत्तन "याभ सर्द REN 
+अरे.॥तरूपएवासरन्वःझस्ताभेषजं॥ळ०कवुःपार्वा!जरिता। दारवता ६ 
+
+
+## Page 1389
+
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+| 
+| 
+
+
+रुचिक्रोसजिमुषरस aa 
+
+
+
+
+
+li ai. Agar i १ ० चित्रः 
+AJIA दि शिसे ति/स्पृथः। नर णिःप्रा। अचार निंघया। रम्या 
+पश्व/आ।गोःद दूव लि।परि। NN Fin ९७ NAJAN मनसः 
+aala उ ध्वे। ब॒₹ सः nok men Maugan 
+मुंद्ा।कण घं।वियः/आ। तनु घ्वं। नावं। आरिवःप nza i 
+Nm ES and MAS स fram 0 
+ध्यं।कते।यानो। वपत! डृढ्।बीजें ॥ गिरा।ब्‌। श्व हि? सऽभं रा/अरस॑ व Io 
+azaga h maa ए्येजंति।कर्वर्य FER nn | 
+j | 
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1390
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+धीरा देवेषु bake आउह्ावान/कृणातन/ सं। व रत्राधद्‌ था सन । सिं 
+दै।अवब॒तें।उद्धिण। वये।सुःसेके॥अन॑षः dur assnardrerdd Gå 
+Tagine वे।अक्षितं॥ ३० १ प्रीणीव।अश्वान्‌!हितत।अया थ। 
+स्तिः याहे रथका कययर HATA अश्म चभ्असञऽ 
+MMI pa ५॥भ्रम ER कासम वृ।चूशपान भव में।सी व्य थ्वे। 
+HENTA ug (अ AE BAE DIE चमसग | 
+€ स) चेव थियं gaga देवी। य॒ जव यसय] इ ह्‌॥७। 
+GÅVER डो: उपः raua अचमन मर्यीभिः॥य 
+
+måla gd raserer पथेसामूरीगी 
+
+
+
+
+
+G य. 
+: EN ETTE ER ENE sien EEE 
+pa) - 
+
+
+
+
+
+
+
+
+नद्य इयर ४० 
+sans ईमान ।अंतःयो ३३वे।चरति।द$ञानिः॥ वन्‌स्पति। बने I | 
+TATTIS EN Gam ननः उत्से॥ कृष्व AVSLÅ 
+a धातन)चोदर्यताखुद्‌्तगवाजःसातये॥ निषि ne 
+IF: ।सऽबार्धः सार तये) ven mars Ph 
+E IEAA A MYK KAYA Ias भे 
+
+## Page 1391
+
+
+z ॥उद्वशस्मवार्त:। व हू लि।वा TY TEN वसह स्र 
+TÅ NTG ET नगडी? भरी कृत वि।अचे व! इं इ सेनाम 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| प०आ० vorte तः वज्वो डूंडू) आभिः हासत uadenanags amfa 
+| Maga ।यवृय्‌। व्‌ ध।उ दड AA IRAAN Sera) 
+
+
+R 
+
+
+
+
+
+
+
+लि॥ प्र। मु चू३ भारः) श्र nTØMAUG Hangar 
+
+
+
+
+
+
+AUG 
+म्र् धः re $ 
+
+
+
+
+
+
+## Page 1392
+
+हर | जे Pere भवेत वेतः म 
+| SIT AG RIMAR RM 
+| 5 ME हक n? 
+
+
+| 
+f 
+{f स ०००५६७५५९७ 
+
+
+i 
+— nn tn + EEE 
+
+
+
+
+
+
+
+& sør 
+
+
+इड उ वाआवतापरतिअध्यांनो अरंहत! पद्यां भिक कु व मावि/ श्ुन॑। 
+बी å रत! कृपरदी। व रचायों। Fe 
+हवें।अर्नाय। गा ।पस्यत्ञा नः व दसी Hd MESEN भस्यी 
+
+
+| 
+| 
+
+
+Ve TANIERA UZA वरू! 
+
+
+l 
+| 
+| 
+| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+सच नि।अ कु दूः नपछ न AREP 
+
+
+
+
+
+ar न 
+
+## Page 1393
+
+| स्मानिः a Felt ASN 
+gas वेशअहन/ अस्य विहा न्‌।उ NAJIR अची redan 
+
+
+DLR EE PROD HE + > 
+emir i RE 
+
+I 
+
+$ 
+
+
+Rala ahgs ete ॥येनज़िंगायात्रातःवंव! a ERI 
+sgam yamamami EG. 
+
+
+ARTEN ऽविद्य॑तआनटपी VITAL 
+SS bb ra bn» ivi män 
+
+
+ARES ss 
+v भो. 
+श्र RE ed 3232223 न 
+r 
+5 aS CE ... t SE 2 RUC 
+
+
+
+
+
+
+
+
+
+f 
+
+
+
+
+
+i 
+| 
+| 
+| 
+| 
+
+
+i 3 
+5. € 
+ड 
+
+## Page 1394
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+å विश्‍वंस्याजग तः कर 5 आस च्य ॥बषायताआजििर्बंण्यारि 
+
+
+HE RAI ! on N ९९ NAFRA FAZIT IAU 
+| एकरी: nå en ee सिषः। एकः वीर 
+å Haus: दसा EEEE EIK आनि3 सिवेण'जिष्णना। 
+
+
+FT U ञ्च्य १ववइदॅणभ्यृता। da स हृव्य 
+
+| रम न।रुष्णा। TE T सेतेः।सः। AEA) NF ETEN 
+| गरड गणे नी। संसु ENN ATTEST AYN 
+Ramamani दी या रथेंन। रक्षः+ हा अमिता 
+
+
+
+
+
+$बार्धमानशप्रु संन न से नाः भ्र ण यु था। अ य॑ व १अ समा के। र yu 
+तारथानो॥बऊू*विज्ञाय/स्ऊविरश/ प्र: वीरःसहस्वान/वामी। सहेमान:। 
+उग. अभिः्वीरः।अ भिः ME | दरयति gif 
+चश भिदं गोऽवि द वऽ्च ऽ बाजु येत अभ्रः ग्ण व ओज॑सा मंस 
+nag वीरय धे ३ंड्र।स खा यःअनु। सं। र॒भू ध्व॑ं॥ २२ ॥अभिोचार्णि 
+$a MEATH चीर: जाल FAYE Rs वनः एतृनावा 
+re A a En UT ह 
+वरपर यःसेनानो। अभिः भंज ती नो mA 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+## Page 1395
+
+
+
+[M 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aå iiia यरुंणस्य। रासः) aa ah 
+n adani zaniha: Rai येवा त! आर्छाद/ उ 
+याम घुऽवन आर्य धानिःउ दस त॑नो मास का नों। मना सि॥उ ae 
+[मिनां(वा जिना नि।उ व रथ नमत्र सः 
+
+| ध्यजेर्य अस्मा कया रवव ता: झयंतू4अस्माकची रः। उद 
+
+
+DUR ERREN] ब।चित्ततिः 
+
+
+vide 
+
+
+
+
+
+यॅती। झू 
+
+इह आणि शि निनहत वसो NZA 
+
+LOJN MAREN MERRNIN 
+रधेनामिस्तभेसासऱयत 
+
+
+| 
+| 
+
+## Page 1396
+
+
+
+
+
+
+
+
+
+
+da 
+
+
+
+
+
+| 
+f 
+i 
+i 
+
+
+थ॥ २३३ जरसा विसो म॑। पुरु न्याह से उर्षी या हि! दसं 
+MU विशभ्र॑ं3वी EANA nary! 
+| ga पिब इुह्‌। हेऽ निः/सुतस्य| म ठरं। एण खव UA AEA 
+'अर्डयःइंडू। qian छा वादशा EN qudd 
+यर्मि। सव्या। as $ पस तस्य 
+मिशा ॥शाआ। गुणा न!॥ऊती। शा ची5 UA ही 
+NE avse 
+
+
+dt GY at ॥अनीलिःभि:ते। हरि अश्व।स्‌ ऽ 
+
+
+
+
+
+
+
+
+
+JG सु भय 
+
+
+$ 
+
+
+|| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+## Page 1397
+
+
+
+KE 
+
+
+१ सवाः प्र MANİDAR चार GET. 
+
+
+å Ny i za A Se a Ne 6 à Bob CRN >... 
+2 5० >> 5 5255 UE tT oi छ EEEE ITEN EAEL NL  ढछ 
+ir å - — == 
+
+
+
+
+
+
+
+
+
+॥ मनी स!॥मे हिंचो।ऊ- तिं?वि$ लिरे।द था ना:। तार hi | 
+
+मिशा २४ १उयीब्रत्माणि।ह्‌ रिव ह रि भ्यो।सो मस्य) या दि। पी 
+इ डया यने समंमाण।आनट देवान! असि)अध्यरस्यी | 
+
+sanne va ५ सर्‌ सुतेऽरंणे ' सृघऽवाने। qs 
+
+
+VEG काल मस्याः gi ger 
+उर्ष्णा! Hj Å शसि IN å YS anga i se 
+
+
+याः नवं।च। स्व ती 4 दे वेभ mg ॥अयः!सही! 
+HET: aaga कवाड 'याभल दुचूःदूर्य चक ७२ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+går gegen 
+
+
+## Page 1398
+
+
+
+
+
+| थू तावि दिश्वऽ जयः वन्व पच्या बीरेण्य। ऊर 2 सुः चा Fang 
+
+तअ चिभेर्ना युर हूते हआ देय त/दुजं। aAA av 
+
+| । राकः पुर्यनाः। अ भिः ०३ २६ ४ कुद व्‌ rad ae 
+सार । 
+
+
+pk ike greu an 
+AHMA s कती analki 
+
+
+य अरपीयोः।इंडे। या då adaa TEREE ET 
+pA ken नाग tt Ja: & ० 
+| oe mA quaDdu, akdamar स्वता 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1399
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| प*्अ० ah hen शिधरिणीं: वानु॥२६४ प्र/अस्ते व! सच्च5 मजा स 
+. ३६ १ तत mme _ IIA > TEKH 
+| «ta रीसराः। JUR Jeu gne UN 
+
+
+
+
+
+
+
+हिसच।वुनेन। अन्च।न।अञ्रत्मा य sum i pe 
+
+रा Ei å उसास यू vie ere 4 
+Haas: 9 seneaeran ` 
+| kodede वाय य | 
+ARAZ YA तज यत्‌ ट्स्यूः अथृ्च।श्र।०। 
+
+
+NP på | 
+A 
+9 å 
+å À 
+| | 
+i 
+
+
+
+
+
+
+
+
+
+
+## Page 1400
+
+
+
+
+१ क्स$वृत्सं॥ २७॥ Dr वेअएमा शकेषचमो ध्यायः समाः 9. ॥ Qu 
+
+
+
+
+
+\३म्‌यडमोऽऊेडति। चून । तवः CCEE EEUE i: ELE EGUE KAKES IU 
+aaan iinn AAAA Eam 
+daagaduradsgagdyg KE nsaan 
+| me का 
+GF यानाद सा केः युज्ञा 3डवायक्षा। पृरवा 5२ वे। 
+HF Are ur यसा र्यांना 
+Iq:) NET उराः 
+CAG EER SIETEN शध करणाऽइव। ` 
+
+
+
+
+
+न 
+
+
+GR SE ; DE SE og k 
+TÅ SNG RR FN vi ae A å ARS; FR TREC ३३८३. å $ k 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+gare YA er SZJ eina / गाम्ड ।पूषृयो। शिया ताभि चाऽ 
+ह. ग या de SA mye | 
+०६ amarigi ॥ षाग र $ ar नेतोचोऽई 
+केलुफरीडतिपफेरीकागउदन्यजाडवजिमना मदेरूडू तिताः मेभ्मरायु। 
+aalangan a um सराय क्ष यः व/अर्थेपृशतरवेरी | 
+थः dd सा जाल पजा JP | 
+
+## Page 1401
+
+A gg apatan aaam 
+
+। 
+
+
+ए्रीर तिफारिवाअरे।पतराः ईवभ्वचरा। चं छ निर्निकू। मर्नःः 
+
+
+
+
+
+| 
+
+
+आ्यनन्यामभ्मग्सीइ तिंगबुहताऽ aiig anasa 
+धात रते arena vegar RNA 
+
+
+g- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| nada ॥आरंगरा५ईव) मर्थ।आ ई रयेथेर विं। सा रघा कर | 
+mr 7 
+| | नसे TH FAT ! in ANG! ang stam | | 
+
+
+। ERNI वने दे।आउ सि स्विदा ना। क्षा से 
+t d 
+| x as अअ श्वि नीः का मअ? २ दा |, 
+
+
+33 वृसः्ञव'सचेथेइतिंगशध्यामास्ता é; 
+4 
+घोनं। एवा विश्वमीवं/ मस ana 
+
+
+
+## Page 1402
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+EE EE EE san EEE ग SSS TT => 
+z ye यि डिश NSA GbE ; 
+i SN कर 
+
+i 
+
+€ 
+A 
+Å 
+
+g 
+
+% 
+
+í 
+
+
+VA दत्ताआ्अगावएरूपंथां/दक्षिणाया EE TE 
+ON ARRENA TRLN RAN RTE अ रू तूर लं भा. 
+Aas सोस, निर +आयुः। द्‌ PA 
+
+यान) कव आर शन्‌ eh > ग | 
+
+HA MAZ: IRA था र। वा यु। अ्ृक। RV » 
+
+M गत bc विष De NA! | 
+
+तला ie ons NR AGP KAN ए ति। र हि 
+
+MERANA नीअय्ीएति॥तर्व/मल्ये छः पर्ति। सर नानी यः. 
+
+
+
+
+
+
+
+
+## Page 1403
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'भथमः ।आऽविवाय॥ pA! pva Al I 
+९ - 3 त न ng शस॥स Gael å नी | 
+EERE RE D EGRE थ॑॥ AG TAG ET | 
+इृद्ाति।दर्लिणा। Agar nærmer ed 
+वृनते।यः नः! आत्मा! इलिया।व में। के ण॒ते।विः ARN 
+
+
+जामुन SAAI As Tik ii | 
+EE! विश (भुवन Si पा vaaia lh | 
+एश्य/दराविमोजा4जिरयुगसुरनिं।येनि।अय्र भोजो गे 
+
+
+
+
+
+| | 
+å | te | 
+| | | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 1404
+
+
+
+
+
+
+
+
+
+
+
+
+
+७८ PA ता मऽ यति भोजायी'अञ्च।से। RAR आश) भो जा य। आस्ते। 
+
+SAYS he agents इन! वेशमी परिंऽ र्ते! i 
+alaanga NAA] 
+दक्षिणायाभमोजादेचासःअवेता ga aaa 
+जेता॥४॥कि। an माजा ARR så 
+GIJN काआ हिति NYRE तक्म्याआसीत!केथोरसायान 
+_ | अतरः पयसि स्या dr इषिता पेरामि।मृह इछत पणयः 
+
+
+PA ग्यु gr Agassi 
+
+
+
+
+
+
+
+
+| | M Are pAn | 
+| Ep ॥अविउस्क देश भियर्सा। तव्‌। जमाव em 
+| तर प्यॉसि॥कीहड ERTURAN EG EG | 
+| रःपराकात॥आाचेगर्छात! तए न) द था FY (यो 
+पतिः न भवाति॥ ० दन्‍्यें।दर्भतू+स:।०अर्सरं।पशुका त4ना ते। 
+| हसकर णा।यृणयः। यय ngatak 
+| सर न raina सः भगे। पे da TA 
+| IHLE NU Get ति। तिग्मा॥ ५॥ 
+| 'असेन्या'्वः। nag a Å Frk LEN as BØR GRÅ LG LS 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+## Page 1405
+
+
+
+
+
+
+मब उश्र्‍या!न'रुकाव॥अर्य।नि$ 
+pan ऽभि।निः राति ğı सर 2 
+` rik ।वद्‌।अर्ळ के।आ। न गे थ॥ आइ हद ग म न। s| 
+ARAN stend NRAKA aiam | 
+अथ॑।ण्तत!वर्चधपृणय॑ः।वर्मनू।इृत एव! च। ले।स Bs 
+MREMA AMANU चा।रूण वे । मा (प्‌ pe तग 
+E नअहंगेद!भ्ाळःलं'नोडतिस्वरूः त्वांड व्र. 
+रसः।चाघोरा॥गोःकामाःमे/अछदयन!य बशआयाअपी अर्तः। | \७ e 
+
+
+घः वःशश्तृवे। 
+'सरमे!अ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I 
+
+
+| 
+ZATI NEUF: पलक बरी य ताम Hag h 
+ngam तिः।याः।अ चिंदृते! निः rmn 
+
+| 2 ४६ GATER TAM: Se किल्बिषे, अङ पारः 
+८७७) भा de WALIRA यःऽ JAAM z 
+
+न प्रथमः) LG MIIR 
+
+## Page 1406
+
+।अयछद।/अर््दगीयमा न ATA वर MAFA 
+।हेता।हरचः RA ANNANN A; 
+RRT AAU Teng ga अवो बच ने 
+
+
+l 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+| ०अ० तथ] | ERRE kee IESIRE ai | 
+ei Fung मेन्स यि: AN ene | 
+
+| LEN KONE Å re + 
+
+। शसः | 
+
+Se म ॥सैसिंनानीवा सुई) नः देवा पनःवे!रे | 
+
+
+
+
+
+
+
+
+
+
+| | dk Sa an Seg 2 
+| 'पु्नः।हदुआपुनः5दा योज gs NAN कस देवेः। निः 
+| थिव्या^भस्कायशउरुः गाये।उय/आस ते ॥७ ॥ sd CERERE co- 
+| { 
+st ५ ७8004 SGD KES DDE ५७७७६ ४ re 
+? 
+
+## Page 1407
+
+
+
+
+
+
+
+
+
+
+
+
+'उशेणिदेवशदेवान/यज्ञ सि!मातर्वेदः॥आ।च।वह। RJ स ह्‌) चिकि खाच 
+Få po ag rik R 
+STE HIVER! सुऽ निड मन्मा नि'धीभिःउतय॒ज्ञ। संन? देवः 
+बाः ङथहि? अध्वरं) आश वुद्वानः ईड्यः वेद्य? च आया हि! अगते 
+agda Sane होतास टु FE 
+Rag Pe ब paid FRAGT 
+RAUSTSTA fn Fe aka raua Rd 
+विश्रयंत्रो।पर्तिःभ्य४न/जर्नय रा, भ॑माना॥ देवी हारः। रुह वी वि 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FAA: rer agaga वला < १आशसुस्वयंतीइति। 
+
+
+
+
+
+## Page 1408
+
+
+
+
+Ka | इतिं ० dagen 
+ज्या Fi Eaki कवर हत ags aA | 
+| | miga ARI वोदयंता। विदथेचणका रूड्‌ तिव 
+| चीन।ज्योलिं; प्रउ दि at ॥आ।नः।य झें। भा | 
+I 7 gel Ro pa ।चेवर्यती॥तिखः देवीः बृ mz स्यो 
+
+| | «Da Skin किन dra 
+
+| बीति era बना afarer ra 
+
+
+Rna smed Aaa तिं।। शा मिता। दे व: अग्नि må 
+g यु'हथ।स met NAG STA हिसि 
+अभवत! गरमा ॥ रऽ दिशश तस्या वि।स्वाहा कृतं 
+
+
+
+
+
+
+
+
+य्य १) सेति।चुणा। 
+| dan 
+
+
+E EAGER तस्व KEE NERE द BENK 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+हविः।अद्‌त। दे वा है nimaa aaan 
+ET! sr riaa nån 
+
+
+SA लड ता /रवेणा सहा तिं। Far विव्या 
+
+
+ata MÅ RATAA | 
+
+
+ह दिना सदवरेमडू हय सि।विदा य५उप5 अव॑रूत। त्मन्या) सं m | 
+
+
+
+
+
+## Page 1409
+
+
+Ts" eter ==— CD DJ 00000000 
+
+
+FA भे z} हतो भेणे पस्य 
+
+
+` चच DANAU ईः कि रू त्येओझस्यांचे द।सः Rense 
+गा tan et ajda muldyr महत! खी 
+डं ।अवि$इतः॥ 'अमिना वाअधि २१४ get rd TT. ॥यृरू'णि।बित। 
+नितु तान।र a lni ।य^धरुष्सत्यऽताता॥३ ईः द्विः श्रतिऽ 
+re थिव्याऽ) विश्व।।वेर्‌।स वना।रं Gi "g å RASAI 
+जवने तस NI, भा तर, भनेन।र्क भी या नू ५ २० ॥ व 
+ण।हि। TAST DS ST अद्‌वस्य। ATTER मायाः॥ वि। ठ 3 
+| इति'अत्र धुयता।अधृथ।अथ/अभवषे/ मघथ्वच। NRAN __ २ 
+| 
+
+
+| 
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+| ov Ef eg ALNA: em 
+
+R वानाथुन:।य तय न्धिः EERE UE CORUE SIGD: 
+
+ONAREN MIKATE AIA ihi [स्वि me IRINN 
+आरष:।म ig: NET धूत्/अ हिना ।ज च॒सानान। 
+AE पावि! मात FFF Å 
+
+- Kafe विक्ता॥सप्रीचीमसिंधं।उद्य तीःईव।आयन! सनात 
+
+STU आरिवः। Vs भित+आसा "अस्त sm Bana निअस्भिइति। 
+YET ताग डड पूवी) anså बिय॑प्रतिः का मं।सु तस्यीप्रालःः 
+
+
+i 
+| 
+
+
+i kne ge gr ri 
+
+## Page 1410
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+EEE i nes 
+EN" TENESTE =P 
+
+
+
+
+
+
+
+
+
+
+
+
+| qaladan aR En FIKCIE व 
+p’ ke pi ep ag ।सोमउपेयाय।या हि॥ दूय 
+ar NE वंद)ये थि:।या सिं।ह पड adman रिंखता। व 
+am नत न्वं) स्यो यस्च॥अस्मार्भिः!डूंडू)स रिवःमिः/ 
+| gm andam anaana Rd FT 
+
+
+3 MAA va RENIN 
+Rasia या हि।प्रियं।अ Ag å el 
+Feda aq कत्या।रण्या। चकर्थ १सः।तेगषु ae | 
+
+
+
+
+
+
+
+
+Fa 
+
+
+
+
+
+praten amia Tae EREE kE A EEIE atenha 
+sunarapdåtafdands RNAm व: दिर ağı 
+वे दअ भिःह यतिदिवा:॥वि। vek ri br 4 
+यसःडष भादयति॥अस्माकीते।सध॑ द तमा नि।ह॒मा। JR EA 
+
+## Page 1411
+
+| vred nada पूर्व्यो णि। प्र। å GIN SANE 
+fars FME NTE: FONT JO TN नि। 
+सासीदागण5पते।श णेकष। US LESTIE k FÅ FA AUNAN 
+
+। कित चृनआरे। म॒ हा।अरके'मघः वनः चि तअर्चभअभिः रव्या! 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+eS ib YS 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+ प०अ० नः । मघः वन/नाथमाना च? सखें। बे थि। सुः प ते। स रवी नो EG | 
+ev | E TRAJ NAAR मम असम वे add 
+
+वाएथिबीइति।सः चेत सा। विश्वेभिधदेवे/जर्नशु क्रं। आव ता ।यव/रैद। | 
+| rampe ।पीत्वीसोमं स्य।क तुउ मान? अवर्थेत॥ ते। अर 
+
+
+
+
+
+
+
+
+
+
+विष्णुम्‌ हिमा नँओजंसाअंथं।इधन्वाच/म्छनः विः र जाते देवेभिः 
+| | i å: I गर्द arä भि।दतं।सघन्वान। ak] पा ) वरेंण्यः ॥ eaa Xi 
+
+
+## Page 1412
+
+
+
+
+
+
+
+
+
+
+
+LARN ak bd pe mgA विदे" | | 
+| विश्व HST å ॥सदात्मनाअर्वर्वनाउखण माहिमाने इड्रयंअजा च | 
+|| | o 
+शानशएवावि'अवाधवास्प॒व॑धप्राअपरयत/वी रा अनिययोस्वेनर्णीअर्द, 
+
+
+
+
+
+
+
+
+
+
+अदअडिअरसः स्य armor saga | 
+gmaim विंवीमअषत्यत/वरींयः था वी ए Glas 
+FEG ॥अवाज भरद। gfyquasfisnqd ELEN andaba 
+दा्थर्य॥ 3 ४१३ स्याअीतविंषीभ्यः कि विन सघायत*अरह्य 
+[न्य नय Rundene ` 
+| साः गरेता | ) 34 मारनि।कर्वी। FRE de MANE 
+Raguin ULU EGE EA K UKRE IN 
+
+
+| 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Yao 
+
+
+
+
+
+
+
+
+
+
+
+## Page 1413
+
+Ef Ky gear सोम॑त्य वया। ie 
+| 2 AE AFTA TJA AMJIA FRI 
+| वून Alessi सर्य भिः सरव्या नि। वोचत ३ ड धुनि 
+
+
+agafà Ra a s वनसा ES NGRG आ 
+
+
+OF a TRECE 
+pare GE या।गाध।अद्य॥ ९५ NUAN ATI 
+घाणा अवेषन! EFE Hasan KE १विश्वशदेष्टा या fars । 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aaga na Reme Y 
+
+
+
+
+
+भयाः 
+
+
+
+
+
+
+
+Sk वृत्ति सुऽषेर्गः। GAS 
+ay Masan en ia y 
+र मा nes TI si पद अति नाता Er 
+
+
+
+
+
+।तोपाकेनाम as, ।अ Randen 
+
+
+CAERE 
+
+## Page 1414
+
+ma ngegia कव å ऽभि 
+
+
+UTG 
+षटेऽ विं दान! च चतुरः। क ल्यं छ दासि! च। द उ स 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Sets धवि।हि।जान ति।वङ्गय।तासां।नि। १। कवं य+! 
+
+
+q है 
+Y pA Ruaza NIAY! FE भते।हादंदा॥ VEN 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EE SAK yt ।सेनीषा शङ्कः amina ana 
+QAN Ei mad RUST नी 
+RIENIIRI AIMI पियते!सुत स्य।सहस्रधा।यृ चऽ TATA 
+का यावीरथिवी३ तिता bi री मृंहिमार्नः 
+
+## Page 1415
+
+स्त्र यावव!ग्रत्य विः स्ति तं।तारवेती।वाङे। कः खर गश! वे 
+ड 0000 
+
+
+AG सं दा r 
+
+
+y £ 
+हाकि कायदे स्विदस्याः र | 
+
+
+| वि।रथ॑स्थाधूर्सु/य NTE: दाय।वि। asia! OE < i , 4 
+
+
+
+
+
+
+दा।यमः।भर्॑ति 
+
+
+ee ९७ URAN तरुंणस्य+वसर्थlन।यः 
+ataf naana 
+
+
+EENES ERIGE 
+न१अण्तिः हु।मामे'थायि।दनशअपऽ म सशयः वनायु व 
+'यस्मनादता॥अभिः सुअर 2 नधना्रेथंमान:।य व॑से, 
+१ते।ब्‌।विं।नाडुइस दं देवज सः इ EN ।प्रृउव पंत en Guan 
+eneren ret a 
+यसानस्य|/अमनरथ तकात रि ferga snarast 
+धयधनासलन।ब्रितं।नदं त।प्र/शिष daggYuanga PK 
+
+
+
+
+
+
+> 
+
+
+
+
+
+RRR EP RY RIPEN 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 1416
+
+Add. 
+
+
+8; me RA aE ललास्तोभा garde roet dia gd: GU रथोजाः 
+
+ARTET नच vagig नरअग्निभद्दाद तेवा 
+
+॥म्‌३॥ ९८ ॥ वा aldre ai Sp मातः दस 
+
+ठे, चितप्यशडवतावरं/सते)सहिनः तंभाय'धन्तना।इवः्अ बिष्यते।श्या 
+
+नम सर सरि वसुःस्तवे।सहस^ सूनर? मुः भि॥सित्रा्सःच। 
+
+'सुश्थिताभसत*्यवँभद्याव)नाखुग्ते न अनिस तिमानुषानऊजेनपात! 
+SINR EA SE fe å 
+
+|; om ।३प्‌$स्ततासः श्वय? अवचन तान व! पा हि। चा 
+
+रीन/बषट्।वर्षदूडरतिऊध्वो स।अ न सन न मन स।०॥ AS 
+
+T स्यूध्यीसीअनक्षर। | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ev BO NA MENES ERE E z == ne ie a 
+
+
+
+
+
+
+
+
+ते।इंडियाय।पिव। नाय ह वेश्दाविछ।पिचराये।ासे। aandaa 
+ताई बा Raganas Ramiai | 
+'सुतर्य।स्वस्तिःदाःसर्नसा।माद्‌ अजन नःरिव Al rm BT! 
+चादिव्यशसाम॑+३ंडाममच।य/रूय Aia 
+
+## Page 1417
+
+aagi सिं।शा rs namaa | 
+hi भ्यां।परि3सिक्त।अध:॥ग ।आशसु ते स्य॑।प्र5 | 
+ERIR N am andana ogs na: 
+i; RANTAAN गद nao ॥विःअरयेगदंडरातत | 
+न | न्यमैस्मिरापेचे kagten . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ENE £ 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+De å f $ s ma 
+s 22५७६१४४८१ p : . P % p NAN RENNE J क कड AE E E US, NG 
+५ न gå ०224 Et KANE Å 33 Ine Š NESSET NE el EB 25532 6:50: है READ TOES S25 
+PPI EOS NEIRA RA, NOE N LS EPLENE ee SR X PRR SESE ७ R >> a or eh 22: a ei, si me 3 223: 
+सिक ४ ७ ५६७. oss ET FRR RRS 224233 प S peer s, EE PR — ~ 
+RET E 3 7 a A 
+
+
+TEEN 5 
+eo 
+
+
+Vofo 
+er 
+
+
+
+
+
+
+
+
+
+## Page 1418
+
+
+
+
+
+Raiu ज॑! स्छिराग ईव यन्व॑न:।'अभिःर्माती अस्म कू. वरुनः 
+| सहऽ भिप्रञर्निऽ न्द तृन्व वर्धस्व इदं’ ह विभमथः वन तु ST 
+VARNAM A सूः सध न। तु भ्यो पद्ध ओ 
+pb ket a ता।इमा।हु वी I 
+
+दविद्वाप-चताउता/सोमं॥प्रय॑खंत/प्रति।ह ta वास यासं वु 
+यञृंमानस्य!कार्माःश्र। सुः सिं। सिं धोऽ Ei 
+पट nd GT दाप र ४; IE 
+
+
+दामेव भिदशच॥२९॥न वेक ङति।देवाभक् ut गळ << 
+
+| 
+
+i 
+
+|| 
+——— IS === = m — — पपा 
+TON an Å 
+
+
+| agadus ger gaard 
+| नाविदने॥यशआ प्राय चकम्ा नाय।पिलःअन्न॑गवा वश स न 
+के hen १श्छिरा।मन॑।कूणुते।से वते id मट El 
+Rad ør IG ar ति।अन्नः का मा य। उ 
+SAMAR a) å EE FRUIT 
+थं॥न।ससरवायः।न। सचा व नावि 
+ENANTA Er Ga 
+ugras ना थमा rang बच iaa पर्येता पं था॥९ 
+
+
+
+
+
+
+ii x 23 
+
+. a NN | 
+
+å å 
+
+ह 4 Er så 
+
+र á | å पकड. MAE MG eS i 
+
+
+
+## Page 1419
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+तैंते। रथ्याड इबाचका।अन्यः IT inak a 
+
+ड AY IA dy sneha | 
+HUNT: MENEG | 
+
+8 'फा्।आ शित्त।ह: faga aN R Saky 
+f PEGAS ELE COSR Kaea MAE E 
+a चावप 
+3 | | | Raet oy Sa सर पवन पी पति हो n 
+e ING HUE NAV ARTEA 
+| | | | Ned SEG ANA S so Sk 
+| a रि 
+98 EA am fi 
+è i IRTIS, EE er 
+ANARA: MD S azn 
+; NE Nå (हव्या 
+
+प गीती नातक न्‌॥तं।ला।हवंत।भ ्याः॥२४ तं 
+Rg i 
+
+
+ह$५ति।अदग्यिनरोचिष।३ 
+ehm fe नाति 
+अ. me Mr 
+
+
+
+
+
+
+Roo 
+
+
+
+
+
+
+
+## Page 1420
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WaN 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ñ! aym 
+
+
+As UIA SG 
+
+
+हक T 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1421
+
+
+
+
+
+
+
+
+
+
+EE EIA oa 
+
+
+
+
+
+
+
+
+
+
+EET RES TN ISEN EE rr 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+Ve, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| | कृ विदसाम॑स्य। अपां। इति वाता/ऽ इव Jaraman: aga j 
+
+## Page 1422
+
+
+XY पदरा ति लोक N A de 
+Tage HOPE børs वभि उपत्‌+वृभे। 
+
+I ETY ॥ नहि।े।रोईसी 2 तिल ह fen 
+
+ना।थुवृ।अभि।इसों। श्वी Hélia 
+
+।३ट१वाइद) GIN ON oe 
+
+fiol क nore Å कफ | 
+
+
+en TAFIRI ०) ग ह यासि 
+वः IRAAN FONR ॥शलिआए्माष्ट AR 
+
+
+
+
+
+
+
+
+
+
+Å å 
+PEF 
+EE o 
+FEF 
+न 
+
+
+
+
+
+है °. x 
+> pz EE aooaa Ape iv pan 
+øv 
+
+
+
+
+
+
+
+
+
+
+
+हरिः २0त्तव। इव)आस | भुवनिष ATIA A; । जः a षऽ \ 
+
+## Page 1423
+
+, lære जान नाहि तन्‌! अनर। यं।विश्वे। म nen 
+शवसा en VG दासा मस भाहि ee EI 
+ser Eee ते। नव॑त। भरर्भता grr 
+
+| SE ल ।एते। विः) भरवते उमा! स milt ar 
+
+
+GH EN ।सु। penn यो etat 
+से।मदेमदे।जचुऽम Est ॥ en ALIAT 
+
+
+IFN मा्वा।दभन। या वः ANAS: एवा: वया वय शाश 
+
+
+sg 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+P 
+i 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1424
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sro युधेन्यौनि। eget वि) आधा EL PE 
+तर ह ।शचुषिय्य।पृरुऽवर्पसं। KN ATA ATETA | 
+ओपदर्षते शवसा अल" दमस मानोनि।भरि।नि। तद दा! 
+दा जिन आविंधथ!अवेसा ॥आ।मातरा 'स्थापयेसे।तिग | 
+0 नो पृरुशि j इमा दृहदऽदिविः।विवत्ति। इ: राया 
+धियः EUNA pi 7 शति AUNT ATER 
+
+MAZAN 
+
+शवसा at ।२॥ हिरण्य्‌ऽग्भः। संअवृतेताअये | ji pe k 
+
+दुस्य विशौ अरणो यपश्व॥ | 
+
+
+ei 
+MG 
+
+
+
+
+
+
+
+
+én 3 ors tp gr PS psp mer 
+— Serre uses 7 eT सास पाक काम खाक WEF PANTO RESET REP Kana 9 Frere å 
+fag så 
+p ý 
+K 
+å bE a 
+
+
+å 
+
+## Page 1425
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+
+
+-vdana a य्या उत/इ भां। करमे। टेवा य॑ aat । 
+Š; य वाः) 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 da छ$दाशयश्य विश्वेड EMAAR दि 3 
+यस्यछा्याअरूतेयस्यासयु ५० यः) भाधतः। नि3 भषतः सिऽ त्वक 
+EG ENUE EE Uee हिः यरद चतु पद:। ०) य 
+
+
+॥हस3 व तभ्‌ NY डर goa 
+
+
+भा | 
+| १ | 
+a afi ह ke årer Honan | 
+
+याक ।भरवसा)वश्चभानेर तिअभि/श्क्षेता।म्नसा/रेमंभा ने | 
+
+
+
+
+
+
+## Page 1426
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+i FEE å tsk) 
+
+
+| ; 3 
+ug 
+
+Eg 
+
+39 
+
+E 
+
+d 
+
+
+
+
+
+
+
+
+
+
+
+pms 
+
+
+सं 
+
+
+odio Aaga or विश्भातिं।००आप ।हुभ्य॒ द१Wु हेती: दिश 
+| ९३ > maaja aim see EJTAN 
+| i ) 
+
+
+
+
+
+
+
+
+
+:)० FARGING ना।परि:अप॑रयद/ दर्शद्धानाः 
+
+## Page 1427
+
+
+agá agina aah nese mand 
+ज बताये Ganga वा) दिव सत्य$र्घभी। चज न। य) ३।अ 
+en कप्रजापतेन लदितान्यन्यो विश्वालातानि , 
+
+
+रळ — 2 - 
+
+
+रब सका Jerrad ndin 
+EEKi नाचिनेःमहस arie अविथिअटष्ि' N en 
+
+
+
+
+
+
+
+
+á | Å 
+3 | i ! MN Lå | 
+थ RE IR EEE ००७४ i ns LO HPV - sere ` f ad 0 se Hengende van -a 
+
+r EGG #5 fr ee 
+
+n D 
+
+Ff 
+
+¢ § 
+
+§। 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1428
+
+
+
+
+
+
+| पु ।शसते।रुधं।विश्वाःधायसंभ अग्नि bans ।सुः वी जुषाणाः 
+Page मे! वचः विश्वा निवि द्वा चवय SKI 
+
+KRAIN TE ta kli te LENEE IERE us gäng 
+
+hå ।यासाचि।यृरिऽ IRAR: IR ददात सर से। मम हृस्व0सुउ वी 
+Å mon Augen रय 'आनंटू। ag वि | 
+अतिः faen भिनत आव छ || 
+AK CR EN gne EN garana 
+ang NAE ke त्वा स्नोभेभि^न्४र्गवःवि।रुरु 
+| Fe हिते || 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I eg विश्वऽ्थायसं।येसः प्रियें।य अंमा नाय।सुकतोइ्‌ 
+अन्ने छुतः रचु॑ं)नि/सतानिदीय॑ब/ यति यः परिहिय न! सुक के 
+RAJAA Ry त॑/कृष्वाना।/अयजंतता मानुष! 
+
+! 
+
+## Page 1429
+
+
+
+| 
+
+meniaga aig: FR जंत भध्यरेण चि। 
+छाअहुत y PA /अग्ने। Sau ginora 
+hésita GS Tass GT EN ; 
+नरम k TEGER: खे i | 
+a 
+| शापस्पोपयत्ञेजञानिषुऽ ada í| a | 
+
+
+
+
+
+AE MEAE 
+Ri, å ål £ vy a keg VG å PN, 
+SN NEN IRS å jai diaa Fe SUVA IN ER: bes sins Csi i RE 
+tn 28 252522 SAD ii id E65 ET 36८4449242: १2१2224242 I i ha की a 3 EET EG Utd i TT 5 REESE Ress ESTE 
+-m = $ जला काप FE शण 0 ० 0 0” ~ TF RN तका 3 STØ N 
+
+
+ऋश्तस्यसानानशि 
+
+
+वस्यसानो।अधि।विष Rana समा ने। ये नि'अभि'अचूत। ब्रा समां 
+ने।पूर्व/अभि।वावदानाभलिश्व॑ न। व त्सर्यमा तर्र।सऽनींळा:॥ k Sil 
+mR i gagamaning 
+
+घो हि।ग्सच॥सतेनायंतः आधे वरक 
+
+
+ENARA 3: 
+
+Qi øra त हर åa य ॥ 
+| शज! nR RIHI 
+bd चत 
+
+| र्थेगंधुबीअधिनावेञस्थाल. || 
+
+
+EE == mr PN 
+
+
+
+
+
+
+
+
+
+## Page 1430
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+EE ~~ - टकटक ण्या z eraan eee n CAINS ETER 
+— REE 5 eta le anne te Es Å i PÅ MG ४९ WR ‘brn Bi BRD, 
+306435 7 m=====<=—=—========== F ततत SR ee हज 
+
+
+
+
+
+पतत सेक erre ren — 
+
+
+sia सुरनिंर्शेकंस्वेर0 ungarere 
+
+
+झ० | यानि०मामासनत/भियाणिंगदझथसमुदं।अभि/यत/ जिर्गा ति।परयंन! Si 
+५ ¦ चसंसाकियध॑मन/बचकानथरुतीयें।चके।र nen री $i ॥ 
+` giaa Na aas s to g 
+MARERA sije dr शव वः न्‌ | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1431
+
+
+
+
+
+0.0... E न >>> 
+3 प वर तक a 3-3 & 
+>... 3 = 
+A 
+EE 
+
+
+
+
+
+
+
+
+
+
+
+
+म॑ः। वरुण:। ते। अबे परिऽआवंत। राष्ट्रं) तव) जवातिम्आाऽयन्‌ विः 
+याः] EG] ECEN EEE l 
+aa sd Fa RTRT ENRE] 
+Kate TS अरः कात्रा उरु! अंत र्क्षि। हवा व gn are 
+FG Ek eie feat काला RAIET 
+वरुण keg | छाना TATTA. 
+
+
+TRITATA! eV seg 
+angis ae मर्देती:॥ताः। RTARTA: 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+Ma E 
+
+
+| चः आः Rat ।अपं ते!अधविष्ठ न ॥ बी ल यस झाडू; pr 
+FAG arie ॥अनुउस्कभी अब च 
+
+
+; imenipa Fs IRR 
+
+## Page 1432
+
+im IE] हाची Ee [आधिना 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+रवेः अह) भित्रा 
+उव पूषणं भगे॥अह 
+
+
+ह l 
+ee [सं 
+å थमा! य्ियानां॥ता'भा।रेवाः। FARGE: EE 
+3स्थात्रों।हरिआउवेशर्यती॥ भया। सः अन्अत्ति। यः। दिऽपश 
+
+
+
+
+
+
+
+
+
+
+pA रक... A 
+
+
+
+
+
+घाणिति।यः। Seng अमृतवः) सा)ते। 
+।ते।वृदाभि य ॥अह।एवाखय। Em KE 
+
+## Page 1433
+
+य।कामय।त5त।उय। हणो भि। åg Fl ESN मेधा 
+ह।रेरायं भ 
+
+नोय।सऽ स्व FT EG ve | ia na | Ha 
+Furdal -।अपूऽ TEST BE EE 
+भुवना।अर्द।विश्वा।उत। अस) था। वेषाणा उपै। सा शा मि। ARITI | 
+ळडूवा प्रा वम्रिआउरभंमाणा।भुर्वना नि। uatne ard dagar 
+
+
+प्रोदिवापरएनाएंशिव्ये५ 
+
+
+
+
+
+
+
+
+
+
+
+
+EEE ST JE ge ००: ae a 
+Eee काक सल — —— 5७2 FR क्क 
+>>> Ye Nee GER ई z ETE Sr ee 
+
+
+Pest ae 
+
+
+
+
+
+
+
+
+श्यानता वयाचा kn EEE ED PE FA PPR क å! 
+m å I 
+
+
+» 3 
+ne ST FP ED 
+ney १494040500 555 
+नेव अं ७ ७७७ ३ न 
+ee a कर AN: ei ७: 
+"आळ 3 ९ 24: 
+pe 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+## Page 1434
+
+
+
+
+
+
+
+
+
+
+| 
+| 
+जाब कप] pI 
+
+
+बृभहव्‌॥१२। न तं। अंह GET देवासः अष्टा भसे॥ aN Ea: तआ 
+A 4607: åa m iR dA | 
+| ININA ER FIARATA 
+onay: Fre ।निषणि Ek GAA यू 
+sa ren नीत AT im | 
+
+
+| ।च्रिघः।॥३्र।मृरुवेऽ na 
+|खुरतये।अति। ba ण्णः विरः अत्‌ न ।ड५5 वो 
+राजनः।चर्षणीनां। दिन असमय उती) नाश YS TÅ 
+
+
+| | प०अ० 
+KA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1435
+
+
+
+4 ga ययास NYE! me uny IZN ।रात्री।वि।अख्मवआऽयती 
+परुऽनां (अक्षर न glis NITI EIAN: 
+
+
+
+
+
+
+
+नी EEG RA EKLE ke | ; 
+ही ।हासते।तर्मः। सा! नः। 
+endar EG a4: tn 
+
+
+
+
+
+
+
+2 (नि। Be 
+
+
+AE: te क्षर es ।नि। 
+यवथ।टुक्य्‌। FAE ॥अथी। TE तरा।भव्‌॥उप। मा। 
+Ad jag ng ; 
+
+
+-m un Sm 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+era | डुटितः दिव शि लोभे। न। जिस्युप॥३४॥ भम्‌ 
+È Tyre वयाला इंधांनाः वन्वे पृषेभ।मत्य नरम तां। ऽ 
+der 
+
+
+
+
+
+
+अझेण।ष्टतना ht ।भम।देवाः Ñ 
+।इं<वंतः।मरुत॑:।विछ:।ओआलि:॥ मर्भाशेतेरिल GE ve 
+kn atdaygat हा EE Bm rat 
+
+## Page 1436
+
+
+| लमा Rgp RA हरा वनुधत! ke AN! 
+| art ॥भत्य। 
+
+खा )भा। aa कुतमव/चनाओर।बिखे। दवासः।आध वो 
+
+
+
+
+
+(देवी NTIÅNE TN FNA विश देः fen 
+रासा मा ननू भा म ae Kea 
+AELTIE: परिपाह। and) 
+
+ea न प्रबृधा। asranurenud 
+
+
+aa ।पतिभटेवी चरा TATAR " chaa) 
+ja «td दिवाः।पातु। यृज्ञभान।निऽअथोत्‌॥उरेऽव्यचाःन्‌ः। 
+अस्मिन 
+
+
+ERTIES: NTA: 
+खिअश्व।|झुकय।इंदमा।नः। रिर्षि:।मा।पेर।हा EER 
+
+
+
+
+
+
+
+mn 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+तो बंद दागनिःभ्यो।अवे। बाधामहे तान वसव: रुदाः आदित्याः उप्‌ 
+
+## Page 1437
+
+ATT STE STG TH STA 
+
+
+
+
+
+
+
+
+je ।तदानी। न।आसीवरजेः। नीड्रतिवि३ओम rA 
+
+कि।आसीद। गहन शभीरं॥न 
+auge Fav saman 
+त।अवातं।खथया।तत।एक। तेस्मात। ह! gere कि चुन । आस | 
+Tre aHan apen FS तं।सठिछ।सर्वीआः।इद। Fi 
+PATR हित ARAMANI ENANAR AATE 
+
+
+
+
+
+
+J 
+
+
+
+
+
+
+
+
+
+
+
+
+कोनधावेरकररप्रबोचूत, 
+
+
+कार्मभतव!अग्रा सं अवर्तत अधि मन॑सः रेत थमं यव !आसीव||सतः। 
+(असंति।निः।अविरन Eser भनीषा॥ तिरञ्वीनं:।वि$ 
+aR AEN व आर सद अपार Er Fi ; 
+
+सन! आसन FU! IJs BELA 
+; satang TE de) RRT TA सर्जनेना | 
+ERI जह IER ड i यटि Eig H यदि 
+वा।न॥थः।अस्यअरधि$अश्षः। प्रमे) किऽओभन्‌।सः।अंश।वेट। श वेट्‌ ॥१ ७ 
+यः यश dg तत: एकं ऽश qs क मो Sms Yn 
+
+
+यदिबान 
+
+## Page 1438
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+TP SPR Tv ss 
+
+
+i क | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1439
+
+ति।पितर॑/यि।आ ययु: प्र वय इति।आसते।तते॥ प्रमोद! एनें। 
+aa कैणनि एरमान!वि। AR RARI 
+
+ति। सर्द सामीनि चक्रे: त्सराणि ओवविका।जञासीव परः 
+'तिऽमाकि।निऽदानं ME ह sje ।कृः।आसीव) 
+आसीत'चउंगठिउक्थाथत देवा: देव AU । विश्वे ॥अे 
+ची।अभवत।सःथृर्वा\उिहया।सविता।स।बृषव्‌ः अदली 
+
+
+sgal वां $ 
+pi iit क विना दब [आ 
+
+
+| 
+
+
+| 
+J 
+
+
+
+
+
+at RAYA qa rga a: ga अते माते ज्ञाते पै 
+
+
+व्र ।मन॑सा।चक्ष॑सा।तान्‌ Ja! 
+स्तोभा E कः "आदत AT KENT 
+अआ ठेनिरे।रथ्यः। नारीन ॥९८॥अपा प्रा h 
+(नट्स (अपे उदि 
+
+
+LE न्‌ 
+
+read | कृविवा अरा! यरवः मंत. 
+न (अनुः । एषा! कृ थाहि। भोज 
+
+ये नमः शक्ति ।नजस्मु:। Gen अतिन 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1440
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+१९९१६६ 
+
+
+> A så B 
+58 र 2222 र >. र द SP, 322 si REDENT , i > 
+>>>“ > a e अर क p z PETE Pre 
+
+
+Å == = de ~ ie fe ~ + 3 पे j 
+Treat a er = na = ~ P Rå tres "य rå EET RT PR Ea NS ०2७७ — ~ de RE 
+
+
+
+
+
+no DE erte Caper 
+
+
+| Rør i pm arver ER RT PM ssa 
+
+
+| | न्येवईदसर्यायुबिष्रोअभ्यायेतोषषेणंवान्येतः। 
+
+
+त।श्रवः। विविदे संऽ गमे$।०॥ ir Pa ॥ 
+ऽपिषाना! pA EE मद पुर | 
+उभा इंट आवथुः)काथ्येः। ANANTA 
+
+परंखती।सा। मधःवन्‌।अभिह्क॥०॥ १९. ud चो: गूः 
+
+
+जाना HA PS ) AS STEG STR सम्ने: 
+af vat af मिच्रावरुणा। धारयव! Eg] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1441
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+बतलता। EET TATARA a, | Boef! 
+PAR TAARAT वां।अभि।प्रिर्य खान Teu | 
+इई: तभानास्पवाभजयोभिकरनीकोभेवत fara anemi and ng eg पतेयः स्याम 
+
+
+| 
+
+
+
+
+
+hd वस्पेवयसमतोयत्तियीनानपिभो-सोमनसेस्योम। ससु भामारवना Ar आराशिदेष सा नु लत पो तू. 
+sro st | 
+Tana ger Rat def oa aaret penere OG 
+laagun: ai RYE TE न्‌। नाएतावेता।एन॑सा।अतः 
+KURE TEN å SEN NE Fie त्रोनिशतानहँति। व] | 
+
+
+ee Pie C rd था 
+
+
+साता।अदितिः।किचेतसा K ITI ER? 
+
+## Page 1442
+
+
+TEIGE AE SE BEE] ST. FY: 
+ASEA: TF E TET: 
+सः॥२०॥ NAZIAN IRES रात a 
+
+
+å Å 
+
+N E 
+a 
+
+; 
+
+å 
+
+| 
+
+| 
+
+K 
+
+; RS | 
+
+मसल नव अरी rn ~ 
+
+
+iTi 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+| २०९  |नर्भेता।भ्रन्यकेषीउणाकाः। अधि! gegen penn 
+E अह (अशत ह जवि जाप 7. 
+sd नशंताने å ।अकषिशः 
+
+वधी यः।नः इंट । निधासाति।या ति। रातिः) ददिः! वेसु थ:। मे; हरू 
+
+
+अत IFs E (जएद्दीति।अधःऽपर त JENS å eat: 
+
+
+## Page 1443
+
+
+I vor $ anif Basen deras Fe शधि दित 
+
+
+
+
+
+
+
+
+
+
+
+| 
+स BAG अव lade GU HEST 
+at as 98 रभामहे॥ KAT ATA 
+
+
+
+
+
+दर प्री ee [on 24] aar रोदैसीइवि ऽष 
+ऽव॥मदात ्वामही अपर चुषेणीना has 
+दा।आनित्री ।अजीजन दे अर्व [डः5हनायुतः। याचा RI 
+
+
+l0 अवै | टा [अभि I मिः l | 
+दे a क्र है fsi USE ERE ie 
+राधा नासती सच ही 
+
+
+Rasted aa दि्वव३॥ दवोथाःऽ ३व। ततेव: वि 
+
+
+tg ऽता असभ्यं Ex et 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+## Page 1444
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+वेन पदा अज: व्या! भशन नभसि! 
+से सन बा ॥ बे अते | 
+
+
+AB Ke IT ] Gs पिबते। ok; | 
+mr gg 
+FaR ।अचाकेश। तरभे।अच्हथ। GAV 
+
+
+नर्व $ 
+न TIA TARIAREN: एक विता 
+
+
+
+
+
+।तिष्ठसि॥यकृमार्‌।ध।अवैर्तयः।र। 
+
+
+
+
+
+
+
+
+
+
+
+अ स तः मय कृ: कृमारं। अजन 
+«I er ere IGH ॥ हमी ज्य EN | | 
+य्‌ न्‌ र्य पृ यथा Å a 
+
+
+जायत पुरस्तात! VMs da: Ei A 3अयनकते। 
+स्य Eg HALIA ESE ga ।न्‌ 
+
+## Page 1445
+
+on wre a a 
+i l ] | I 
+Muru साकी ।विशंगा।वेसेते a ॥ वातस्य 
+
+
+| 
+
+
+
+
+
+
+
+
+
+सम. eire pr 
+i 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+| अस्मव्‌!एवृ इः ऽमतिः।०॥ीर्ध। हि अकश थथा। शाति ELICA EENI 
+| थी ih 
+
+
+ETT 
+~- eT 
+
+
+JR 
+
+
+gE: 
+
+
+
+
+
+å |] 
+
+
+
+
+
+
+
+
+
+
+
+## Page 1446
+
+
+
+नु | धाति gfi यव।देवार्स ।अविक्षत। ।उव्‌ऽमरिताः å | 
+
+
+: आ sd åå å | SA जाक अल 
+श्व er aan हित; bs år ol 
+
+| 
+
+अप्सरा गंधर्वाणा 
+I tz ।मृगाणा। चरणे Es 
+
+
+वि aus styrar 
+सम 'कुनंनमाकेशी Erlend 
+
+
+
+
+
+
+
+na "उनेर dd Re वाः।उ त! नयथावृनरित्तिभउत' आयः च 
+(कुंषादेवाधदेवांधजीवर्ययापनारिति/ द) enn ea 
+आ।प रावत दश तेम्भन्यशआ।वात्‌! पे रा अन्य वातु। य चर पः 
+em pun बज विश्वाना वाक्य En zi 
+EGE E से ॐ EER: Ae CEE नि अथो आहि 
+as Ang enansamen, ।यश्यसुवा सि।ते॥जा ये तो। 
+हदवा चायता! रु ताँ. यण चाय तो विशवा। भूता नि यथा।अये। 
+Paadaam: 
+
+
+है 
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 1447
+
+KAR डं ३ ति। से षुजीः। आप आमीवः nån 
+
+
+20 
+५ aor l 
+SR BE 7 Fhe 
+Don aia men pars m oreren SAF R Pr 
+
+
+
+
+
+KEN å NE ; Ri > ; 5 व म ai sad a l idi PAT så à ; m pe NG ७६ 
+gå * : P ९१ i s £ 4 så 
+
+
+3 Ayhan । भे Yue ane दाऽ शारवा ॒ 
+A मळ, nå ea S ka I RA R ee LR 
+afan ax naD LAR A > de न्वा नाः? वि द दि २: 
+In यतद रास्यनउ बस रिशनशआपः कु व्सीय।मन्म॑न/अव्य/ च। 
+
+यः।अवा ज रु ML स्व शवं चय! शिरी न) उ तर आज २ ड खा 
+
+. |चिबःमधु।त्रिये॥अवर्ष य!वनिन। अस्य रंसंसा' वरो att 
+तऽजतया।गिर०वि। सूर्यः भ्ये असच) रथ दिव विदत! दासा 
+अतिमानं आर्य gA agam fyken 
+
+
+$ यानः स जिश्व॑नाधअना कष्टानि, धुषित। विम ES Ka! 
+
+बार बान aR वयवसथ रेणा 
+
+TÅRN आशण सर विरुक्मता॥ आर्युदे सेनः aha Riema 
+
+asla अते ईश्य। वञत्री SPAT श्वः 
+हावएदुषावअन॥एता!त्या/तेश्वुत्या t 
+
+or msrgaversh sanden AA 
+
+या विभिन्नं ras amag ENRE: UR | 
+
+ततांव/सबिता।ब्योति।उच/अयान/अर्म॑ सत्र) तस्यपूषा। FIN | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 1448
+
+ver SS EE नाका 
+ना ण NW | asar eia DE 
+SE S ANETE ०७-३३ चकताब 
+
+
+
+
+
+` _तयोषुष्ःयगमेनोजसनाः। देवरैब्सवितासलर्थर 
+ad samt विश्वा उ॑नानिगोषाम्रनु aqaa mR , | | 
+
+
+MRNA nanaii K 3 
+
+AS i a 
+।सं अरे! धर्नानो॥ विश्वऽ द orn TR 3 
+
+| aa नीच आयनातवाअनुअअवेव'रंडररदाणआसो'पारीस. = 
+
+यस्य।पृरिउधीनर आप्यत विश्वऽवसृ। अमित वः sma ae 
+
+गंधव रज॑सः) विः मा नः॥०। [nal न्यान थिय! १ QT 
+
+सस्निं'अविंद्त! चरण नदी अदृणा दएइ र अदमःजजजानो 
+
+
+यश्चैधासलमुतयंनबिद्ध 
+
+
+९०३६. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1449
+
+
+प्राआसा/गंधर् व! 
+ग्नें।तवीश्वव॥ 
+
+
+
+
+
+Aada क्ष।परिं।भा ना व/ अहीना ॥९७॥ 
+
+
+a CEGIN] तिंविभाइवसे॥'३ 
+3 Sa सतय भाव FINAL 
+
+व बॉ: चो hel दा 
+
+वरन उपाअव सि! 
+
+
+ub ‘$, 
+A egen | 
+BDR भि!।मं स्वाधीतिइभिं fød fed 'सादधु॥ रू ` 
+पेस/चित्र:ऊंतयथवाम४र्जा ता: रज्यन्‌/अग्न प्र थ यख चुः भिः! 
+स्भेरति/राय अमर्त्य /सःदूर्शीतस्यी वपषः विरा सि) एूण क्षिसा न 
+
+
+
+
+
+
+
+
+
+
+
+
+
+EE yra 
+
+
+
+
+
+
+pms न IMT AG 
+
+
+
+
+
+
+## Page 1450
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+"मर DERRI सि।सानसिं।रयि सतःवान Raai 
+९०९ RK 
+
+
+
+
+
+
+| gaa ah 
+सिं।कले॥इ छुतोरं/आ' Rustad सर्येत।राध॑सभमहशरातिं।वाम स्य | 
+
+
+सप्र्थः वभा गिरा।दिव्ये।मा च वा।शयुगा ॥ २६ nere 
+AQIE TIYGF.) न सू$मनाः)भव॥प्र। नय) विरा पते'धन्‌$दाः i 
+gaura ॥प्रान/यछ त।अय मा। प्र। fn x र्ति दिश शप्र | 
+FIRE deg : ag ॥ सोभोराजानंअर्वसे/ओग्नि'गीःरमिघ | 
+eres aaga qarta: लॉस | 
+SKARE! RET मस azia, vil नॉः 
+
+
+aiaga aa rea ard ripe Ve 
+
+
+
+
+
+वितारीचाबाजिनं॥ आग्निऽ haga a nia व्तातयोराये = . | 
+दानाय चोदय २९॥अर्य'अग्वेजरिता खेर ranere an i 
+
+
+
+
+
+
+
+नोइति।न हि।अन्य ठ! अ स्तिआ्य। भड हि। शर्म! IKM तेग 
+रे लाप दि re गोते पिचुःयृतः। सानव। ५ 
+CULEG ETLE] jod Add be 2 धिर्थःषृरः। च्‌ 
+र्‌ Mei ll नां१३त) डे इतिपरिंदुणक्षि। ब्सव'बहो। अग्ने 
+उ ल बस्यश्वधाऽवःउ ता खित्द्याः उरवो मव [ति/मा।ले।टे ति।तवियी। | 
+JJPAMYAJAsFd निःवतः]यासिबप्सव! पृथक ।एथि।प्रगर्धि f 
+
+
+k 2345945. FS Å ह. एक Nh $ 
+badd a 3८335 2:44 TR 826 
+REE i À sai 
+
+
+## Page 1451
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+EE å गकु EEE कस्य जय 
+GE La bi men 
+
+
+SETTENE a पतच पनाकलनप7 हः =e 
+
+
+वातोज्ञनवातिशीचिय 
+
+
+| Gosto भिनांगयदाते। ० वर्ताऽइव/्अश्च वपसि! प्र। रू भ ति) आस्य्‌। यः) 
+| Å TUR द निःयाने बहवः रथास याहू इति।यद' ANA 
+| ९ Rara E fanart निहता खत? ri 
+| 32 rn :)उच्‌। °वे चस्व। ATR aYmANSNIN 
+AGARARA इब चि$अर्यन सभ्‌ इस्य॑ dn 
+अन्ये TAG RRAIN ARAIAN 
+यनि। हवो रोह S व! grr EN årer GJE ANETT: 
+BAN ३०॥ रत्तिअशुमाशके सत्तमो ध्यायः GATEN श्रीकृष्णाप॑ण॥ ७ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| qaaa aag n aa यार्तवेके कीबंतेभ्य दि! 
+
+
+
+
+
+यंअलंत॥र कये थिन विगस्यते'अत्ि यवि आरं ॥नरादेसि 
+R PHRES ii iaaa dreies egna AR 
+
+## Page 1452
+
+Erna sau QA aa dg ag Ge ति। अरिव 
+
+
+yAn Rannair त्रिः हसाय iaa! 
+manage तिदांयूउईव। मं हिँछा। विश्‍वंगवेदसा॥सं!अरमेरत 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+|च न रि तिर्थ ना ठेणूथःनव त्ये? Ramana जिनोअरेणचंश 
+
+
+70 आयनः सर्दनेएथी। समं ने। पर पथ: न शोध युवी भू agam | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+`` | षतं 'नराउत्सी।न पच ९॥ अय) हि) तेअ म॑ मअ न 
+
+। ES ngat: बा er TIC ug IFHT 
+Haugnan$ad रदान? मरे सम नाक Aang IAN 
+| AIA वंसंगः/अवादी घेव! अदी gng 
+wad श्येनस्व/पत्र/आ।अभ॑दल/श तर På अत्य वृते नि 
+यतिश्येन/चार।अर॒क gasser माने ध॑सः 
+एना।कय।वि।तारि।आओ भर से| श्नाजागाराबेधुता द ti 
+kign gaama 
+
+
+वयो विताय; 
+u 
+= 
+
+## Page 1453
+
+EEE PRI EP ENNEA P शक aR ee adr ke PRE rN OTP SSA 
+RR Sr rm Å FRP på ane frest cate en > aa aa T 
+
+
+
+
+
+
+
+
+R Mmg २ ॥ inana RA पिं। वी रुषो व 
+| क Å 3 åg बिंद्े।प्ति॥उत्तान:पर्णे 
+F हस्ति ।मे। प रां। i सो | | 
+ENRAMA ।उत$ऽे रा।इ तउ वर तरा 
+
+| ale se rd enat ` En ना मार भ्णामिं।नोइविं 
+
+
+अश्मिनारमते्ने॥प वःयराःवतंसःत्मी। लसन | | 
+
+
+
+
+
+
+
+
+
+Sk IE ggg: IRER 
+त्त gi अ: are GE ATEN ETTE 
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+RANET OG sg ९०७ 
+
+
+ar | हीयसा॥मां।अचोआहिमने/ वत्सगी 3इंव। था वलु। प था।वाःइ वा घाव 
+
+
+
+## Page 1454
+
+| 
+å HÅ 
+
+
+
+
+
+
+
+
+
+En ३ गअर॑ण्यानि।अर॑ण्यानि।असी।या। प्रःश्वा न व्यंसि।कुथा। या 
+मोन. टृख्सि।न'खा।भीःऽइंव।विंद्ती गढ़षः रवा ECEE EEE 
+अवंत्तिविद्विङः"आघाटिभिःऽ द्‌ व। धा वयन्‌? अ ुण्यातिमम य | 
+तागा श्व A NINI इमः ILAAN NLA OT 
+साय।श क टीमडडू दसरे ति॥गा। अं २।१ फू आइये EGET 
+पघंधअयभ्रयधीदा। व सं च! अरण्यान्या। MAA सवाई I 
+
+
+वै॥नाविःअरण्यानिशहं ति।अन्य/ चा इूव/ न! अभिः गछंति॥स्वादोः 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+लस्यःजम्ध्याया यथाकाम नि! पद्च तेजनं सुरभिबडुऽअन्नो 
+ङ्विश्व NIGER IR रण्यानिं ERT non | 
+| मायमन्यवें।अहन/यदा। रतन यवि वे आथः॥३भे 
+| ae: onda å ते।शुप्मांवे। "हित झाडू | | 
+| Er ॥अन वद्य TGN श्ववृस्य॒ता।मनसा। टून GET 
+इदान र) टुगते?गोऽ al T “a पा | 
+| EN IRAT ति। वो के। 
+
+
+
+## Page 1455
+
+
+
+
+
+
+
+
+
+
+
+aR JENAR 
+q Akt ES । चे? BAR TI 
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nE ET EE REE Ee AES iek A S ahit KE चशदाशु 
+तक सवाल LTA Anr ` 
+se मघव भशम्या भिनःवरुणः नमायी! | 
+खः न।द्स्स।ट्य से? विऽभक्तो u eu gandna 
+E सवा Gs TR वाज आनः भर!रःवितेभ्यस्यं'चाक fa 
+å ।तर्ना।सनरु ker ) डड जर IA: 
+सिंअरः सब णे।नासो में गज ये RA ।बिहान(संबीण 4 
+> PRAI कानः।ते स्याम ये।रणय तद २ एना।उत।तुभ्यो || ve | 
+
+
+} 
+ST OC en सेण्‌ GA \ | 
+
+## Page 1456
+
+«TÅ! Test सृ Eu Hi 
+
+
+
+
+
+
+
+
+
+
+
+NER mugg की TORN ERE ANNEN NAP 
+pm क काची Vie Oster 
+
+
+a gnr res 
+
+
+=== EE 
+| 
+
+nE 
+| | 
+I 
+E 
+
+
+sig er Anmain iT सि।टोः। नऽ यगुणा | 
+
+
+å र av | 
+nn å चि भवभ्सः क FETE TRIANA ETTE 
+| zii: चारापर्थ्याउुतास्तव वेन्यस्य अर्के आय! | 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+चयो नि।छुतऽ वंतं। अस्चीऊ मिं न) निम्ने? ड यृत्‌।वक्कांः। èa) 
+
+## Page 1457
+
+| ककन AmA TA 
+| बंऽइव'अथृश्षवरृनि'संतरिश ज दीव aam å au 
+यन्रासमुद/ Sau वि।ओ न॑त/ अप न पे त। स वि ता। तस्व बे द॥| 
+र्त भूरा अत ms भिंत।रअं४अत॑!द्यार्वा åg eg 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+यज्र्यापदेःअन्यतःअभवव!यजंत्रंअअमंत्येस्याभुर्वन स्य S sqi 
+TA imapas na AA NAG न | 
+| २१० AMPJA वाअ खा ना वाश्रा: इव) gt सुउ मनांधडु होना 
+l aksene negre दिवः सु वित्ता।विश्वर AT 
+
+| हिरण्यः स्ति यथा।ला। सः ञुदवेश्वा जोअस्मिन 
+
+T वात्वाअर्चेच/अ दभानःसोभस्यः रव! GTA STRI 
+END ॥संग्शड्शचिदे!सं। द IFA न/आदियेश 
+| en NE नः)जा।ग हि॥शेमतीसः।लं! २३० 
+
+
+
+
+
+
+रमंय्मिदञनोजुञ्गाणऽपागेहि 
+
+
+
+
+
+L क्री कायाट्वास naa nad Rat 
+र गणे on नदे या am बह/नशप्रियः अ वानस्सुकीकार्यभ्रियः | | 
+f ker oe MEN नर å de स्‌ | 
+यः आग्नि मह थनई 
+
+Gu न ज्ञ)गर्विशिर।प्रआववश्न कस y 
+SEa gagn gg Usa ad | 
+
+## Page 1458
+
+इयाअग्निधस र्ध्यते)श्रद् या हुये ने। Ru pes EN pe 
+झा।आ।वेदयाम सि॥ प्रिय श्रद्ठ।ट ar प्रिय TR FEAT 
+
+
+
+
+
+
+
+
+
+
+
+
+l 
+
+
+
+
+
+BRE CO i o aa 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+haa "å Ev al घि।यथोदिवाधअर्स रेपा श्वर एम | 
+> PIRMAJA EIREANN: ei 
+SIR mangs l ugam मद AMARNA r3; | । 
+
+| | 2 दते।बर्सु॥श्रदाग्रात। हयाम रेतश्च मध्यंदिने यरशि॥श्रेड्ों। | " 
+È SE र स् ९ अदासःइंआा।महाने। 
+
+
+
+
+
+
+## Page 1459
+
+
+
+
+'असिआमित्रः खादःअड an नायेस्याहून्येतेगसररवा]नाजीर्यवेगव) 
+tamaaa ainas EE EUES LE ड 
+य रातमा मःपाशअभय्‌ःकुरः॥वि।र शेः वि। सरथः RIRE | FARS 
+
+
+
+
+
+
+
+TAS AREE ECER LE Ukk E REAG] 
+| pr UTPÅ ति। 
+
+
+Pe * 
+Dd Da 
+
+
+
+
+
+
+
+
+
+
+
+
+ग KE यृधतसेः अपद दिषतः। भनेः ।अषजिर्ञ्यांसतः। Ti | | 
+
+
+AMUN किलर qigin ९० FRÅN अपसा येड! 
+STÅ 'आस्ते॥भेमानार्सःसुःवीर्य AUTARA VER: | 
+NF AuNSTRTM इदि reg REI हा। वि। JÅ 
+अवरिक्ष।अतिर॥5 वस्या अरतग्ना/ओ ER सः नोषं GT 
+क।बिभ वि।बाह्वा॥ araa ओअसा 4 death Re) 
+
+
+Å i 
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 1460
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+विश्वा।ना तानि।ओज॑ सा॥ सः sat भरकः! आञ्ज भ वर ९१ १सो म॑ å 
+रकेभ्यः।प॒यते।छुतं।रके॥ड पा आस ते॥ येभ्य मधु प्र$ था वै ति। ता UE: 
+नि KATANA है Bj I । त प॑सा।ये। ER g 
+| w REg TA RARA सर 
+थेवा [रान ॥दिवः पूवी सृतः सार्षः। सतः is 
+
+
+
+
+
+सक - eo ee eS 
+
+
+| धि Paia RIHI OI FE नीथाः! कवयः! ये।गोपा | 
+fela uardlinadaugarqes sausen ९२॥ a 
+SLAE IE så HAR TB i t ENGE E cahi i ९९५ ` 
+
+
+
+
+
+
+
+
+aannam सि gau9MAFÅiqÅ mei 
+Temes å! 
+
+
+
+
+
+Gå र तेन छ।पृरः जर!)। 3 ani: w ।मड्रः्धाणि 
+
+## Page 1461
+
+
+| की माहूताधरंडेस्यादावंवः)संवी यद ट्या राव परि। इमे? गो अने 
+| 5 aya agga IE तश्र वक इभाच आ! द्ध 
+NINAR Lr alke RE À अ 
+
+l gmagana IMIN करांमहे।से न॑या hi 
+
+
+PA ' 
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+må ER भुम अर थिर! गोल 
+RÅ Rag यप x के Ven EG | 
+| Så N kiana AT MENE प्रे 
+| Laik sj au Ed पर ९४ ngm 
+ETER Ek dra +य) विश्व) च) दे बो: सस अ, तनव 
+Jod स चीक चका सः 
+
+FER: सा anai दहला दः वा 98 
+
+भ्र 
+
+
+राच/यवशआयचः देवाः देकः ले मारयसे) २२३ | 
+
+
+
+
+
+is de sd 
+AETERNE ARELES GN 
+नयनशाीभिः०५ ९७ a र are न॑: वरिंसा त्‌ 
+
+
+
+
+
+## Page 1462
+
+
+
+
+
+
+
+anm: १यस्य।ते?हरः शा तं। सवा च। अहै ति॥ 
+पादिनः दिद्यर्त redene; TE । दे वयस बितhच श नउ व? 
+
+इवच क्लभधावा।द्‌ arq aa च्छ ना घे हि। च शये? च्छ विः 
+re Ey ।स।३्‌।३्‌ द्‌ वि I R R A RN ९६ 
+YRA सये! अगात.उव?स्य'मामक भर्ग अह galgen 
+
+
+TÄRNA ॥अहे। केव अहे? सूयो! हमा | 
+Rad Mee gyfa उफआररेद) । 
+RAT शलावंय प्तिपस्े sn å | 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+ERE —— 
+ही र - > 
+“A 
+ya 
+
+
+
+
+
+
+
+
+
+
+
+
+
+पणन ममापृ्राथदा ह न! भथोरति।मे इ हिता।विऽराटू१उत+अरं'आस्मि। 
+Rav ved gasaan ह विषा। ऊ MaA N 
+
+
+cme १अशचपृ्या। किरु भत | 
+प लशप्रीजयंतीअभिः रवर ॥आअ5 क्ं। अन्या सो वचें। रर्थ। अरे 
+| रशवम ब MALRIEA स्वर YTE 
+अस्या दीबस्य।विगराजो नि।मनेस्य) च॥ ९७ ॥ n 
+
+## Page 1463
+
+gariai nEaN सु पड मा।ला।यमंमानास 
+. अऱ्यानिरीरमनातुभ्यंइमेप्सुतास॥तुभ्यासुताशदुभ्यंछंडतासोला 
+
+
+
+
+
+
+
+
+। सा गि रे?।श्वाच्याआ। इयं aud साम तस : 
+हाचा।इहापादिसीस।यशउ दाता।मन॑सा।सोमं।अस्मे। तट FRA 
+सना नि॥नागा धर डत स्य।प रा। द दा लि।प्र: रास्त इ द। Spon 
+ति।अलुपस्‍्पष्। नवति em न Fru 
+Raag ahå द था ति/ब छोर rasen 
+
+यित गव्यंत]वाजयंताहवामरे।दा।रप गं EN ।३इतिं्ञाऽ थसं 
+सुः सतो'नवायो।ययं। इं द। चा। थुन वेभ । १४ भसु चा ज 
+Få नाया।क।अज्ञा तय ध्मा त।उत्त राजेश य स्मात्‌ णा हि मगार यदि 
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+९९४ 
+
+
+
+
+
+
+
+
+
+
+
+## Page 1464
+
+
+> === 
+maler" me >> 3 sr कित 5 À 
+
+
+
+
+
+
+
+
+
+१ ॥अंमीवा।यश ते! य भइ: ऽना ये नि। आ राये) sat + 
+
+
+SUE ko सरी जातयः ते। जिघों स ति। से। इत थे ना ia | 
+s i ap इरति विगत Haniza पती) दाये॥ये 
+ad रमत] आरे हिं ॥०१य]त्वाभ्यातापति' दूवामार?।२्सा। नि$ 
+प k 
+
+
+H 
+
+
+EEO 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+अस्सी ऽआं।०।यः। mamam M थिला। निऽष्यं ते॥०॥२७॥ 
+o 'असीभ्याते)नासिंकाभ्या। फणोभ्यो।ङबुंको देशअधि्य sjur: 
+
+
+faiga ।निध कयऽअद्अनीनताबभ्यः तेः ति'पतय/ | 
+
+
+
+
+
+a 
+
+
+
+
+
+## Page 1465
+
+
+
+
+
+
+
+
+
+
+
+| पृ०आ० मश्तिष्कादाजि याः ha JA ॥ग्रीवा भे ।उष्णि RR 
+
+, | २९६ दय à S taSs ॥० शा १) Fei Å 
+
+TT gear adr दिऽभ्यः 
+
+| ganimda iha णिः भ्याश्य दाभ्या यश्य शरोणिऽ | 
+
+भ्या'भासंदात Fo almaga aima तो मःभ्यःते!न 
+MANR MAAA डुरे।५अंगा तर अंगा द। riss 
+म्नधजाते। यर्वणिःपवे णि॥ ० २९ hud मजस तेआ | 
+काम परः चर परः नि शेम च ध्व| बड धो जी वे तः। स न॑ः | ai 
+
+
+
+
+
+
+
+
+
+
+
+
+
+in EN ND NE EET GI LER SEE 
+
+
+
+
+
+
+
+
+
+
+
+
+।बर॑रुणते/भड़ं GÅ ति। टर्शिणे॥ En IG z 
+$ å Ar ae ur रिमाज्ञार्थ | 
+
+## Page 1466
+
+वरस्वपतःञ ग्निः विश्वानि।अर्प द ता निअ. | 
+ESCUETO G ak EKTE TAa baiia UE चेता न । | 
+EEA h LS O I e a k Bekk TeK E 
+ARAR gR Uag २० भदेवा।कृपोर्त।। | 
+तःयदःइखन्‌ टतः निः आड मगाम॑॥ तरमें।अ भूम | 
+
+ds $A Est ) ना! चदुःऽ पदे॥ किवः के å 
+अनेषा यासेनामचा kr UMER 
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+. प*अर Kane å SSE FunRaFnRsug 
+
+
+ETE विसपक्षिणी नध दणचु॥हेतिभयासि्ण नाद 
+
+
+
+
+
+
+
+भ्यः]चुःअस्त) भा) नः) Ai वह।कूपो तः॥य त!उ९ 
+
+
+
+
+
+å | र तत्या aaa Nange: ve | 
+| F हिंत।र१६९ तव! त यी ARRAMAT 
+| +नुदताभ AIZIR RIRAN avse FE 
+
+## Page 1467
+
+
+
+
+
+
+
+
+
+
+
+
+सः मानानो।सः पत्नौ नां।वि३सस हिगुं ma 
+तति 
+
+
+aagal मेयृदी nu? अभिःस्सि ता॥ अत्न ए वा वः 
+yl न्यास तआसा व!ज्ययाशवा चः पते? चि। | 
+मनव बुद च भिउक्ष्‌/अ है।आअग्भ। 
+विश्वर ॥आ।बः।चित्त।आवशबु ता आ। वः।अह्‌। सऽ i 
+Fen केसे? वृ आरः दयी अह्‌? कयास नतम बु | 
+| TARNE IU MIL मेड कोइ व उदका व मे डे || 
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+AMN guregana enguanar 
+
+
+गर्वा॥अहं'अ स्मिसपत्ञऽहा इंडमरवाअरिंशमअश्षेत u 
+
+
+ता SÅ श्वा। हि खान्‌ जी ग्।यृनात्‌। यतिष्ठ २३" सवना, २९७ 
+
+
+23.5: 
+PG 
+
+
+
+
+
+
+
+
+
+## Page 1468
+
+{ | 
+Å ५ 
+| 
+| 
+
+
+$ काः ।उर्कातऽरवं॥ av å ah Į ! {| 
+F ९९८ नजा ug RÅ SER क 
+
+हे रि Gi STARR सुरानका स 
+RD ATI So ।स। यज्ञतइ हवो धिमआग हिः FG! 
+'अयवमृधृःवान म Ra यरा जः रुणस्याधर्मोणा दुह्‌ 
+स्पते"अलुऽमत्याः। ॐ इ ति।वार्सणि॥त वहं अद्य'मधऽ वनउ 
+Ge तो।थावंः वि नरि तिकितिधातिरक रूर REECE OER: 
+PIIA करे।चु री /अ पिं।स्ते भ। च।इ म।पथमः सू रिः।उद रू 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| 
+
+Ki 
+
+2 P 
+ii 
+å ar I > e re 
+pa IMSE arv Ai fr Ss VERKEN 2५ i 
+
+
+| ते।सानेनाय 'आ।अरग॑मं।दो। प्रतिं। विश्वा कमर fen द्मे॥ 
+पर spar । सृदिभा ने रथस्य र कका अस्या 
+घोष:॥द्विउस्थ॒कू।या ति।अरुणा Pei इतिएतिइथि 
+आ।रेणे।अस्य॑न/सं'प्राईरते।अलु।वा तस्याविउस्ज: आ ए ने। | i 
+| å ।सम॑नंशन।योषा॥ ता मि/सब्युकृ/स* रथ Raad अस्य 
+विश्वस्याभुव॑नस्याशञओ॥अंत रिश्ते imainan 
+दाते क वसत! चन।अह R aaga maah 
+Ramnagar Ns 
+
+
+
+## Page 1469
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+STETTIN EOT IOPE DOELE EET ias 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+प०अ० qia anara Aun RnR 
+Re दिवा।वियेम॥२६॥ er INRANGE FAINA 
+धा।रिशो तो ॥पी वस्व ती GER +जवृसायाष दई 
+
+i ३ स्ट्‌ 3 १याः। स ऽरूयाः। विऽ रया: ए कर RNN ल्य 
+enig 
+
+
+
+## Page 1470
+
+zemaia शि 
+ws सोय विश्यौ।रूपा 
+bi रती MÅ Rami anien 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TE Ragamana तीधउ थी नः।गो 
+
+
+ताक्मस्मभ्यपर्यला पिन्च नाना 
+
+
+
+
+
+\ 
+
+
+i eeen T T 
+र 3 I 
+
+
+३२।आअङ रित्यं क नासावा सुदेमभ > used 
+व? पि बते? areiagsngua Ko astansaRlzduards | 
+| पया FEM QIAN A 
+हाइइवसुरग्टत। वाजःसातंमं।बभमय! दिवश थ aaa 
+NAPUNE ARA YLT 
+हा॥०उदःतमवे dr धनउ जि Fe विश्वः भाट 
+| नम MSN FRINN तें ॥०।ये न॑। है 
+
+
+
+
+
+
+## Page 1471
+
+TARGA विभालंज्यो तियास्य१४गणेरे चने दिध; 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+Fn नि, आड an विश्वः कसे था! विश्व been २८॥ 
+
+
+
+
+
+jore DELE VE å हल लल ~ 3 
+oS ————— z ===" “ण 
+BT X maz r र + SES स 
+ME -- á 3 
+कै ती $ 
+
+
+"vw då hadena सिन 
+
+
+9 सरव å Nb akt EF pve सोमिनः ITUNES! 
+
+yi NZ hag gang fn Neu | «da 
+mää ye Sura ed ॥ २९ ov | 
+
+tu ped | 
+
+| 2) चिलः रतः) च वंदे रसः 
+
+era Reg asia Burner सवमः ।सयतेयति। | | 
+
+वेनि।सुएमातता॥ ३० गजा।वा*अहार्व। arena | Ja | 
+
+
+à i 3२ य på कर 2 क 
+
+
+
+
+
+
+
+
+| ३ चाचि दि शः खास दा वांछं तु/मा।ल वा राष्ट्र थिं। DANTE! 
+| ete var ie say: “डे FIT! 
+भरवते Kaen भअदी धरता ध्रुव भर वेणा 
+
+विधां।त वारस इति me. su ål | 
+
+## Page 1472
+
+RIMI थिवी। वासः IKEA ETTNG SET: 
+sinus Gasa PEER um EG | ५ 
+
+कळ ताक्रवधक्र 
+
+
+
+
+
+
+भार्म।रुशा मसि॥ Me ESTUE 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+| Yao 
+९२९ 
+
+
+
+
+
+
+
+
+
+
+
+| nag गअभिग्वत न॑ rik 
+| : EERIE] ee ayenunmu: 
+| अर्रवयः। अभिः इतन्यत। तःश भिःय नः!इ्रस्यति॥अभि!त्या 
+सविता झा rs RA दृह अभिः विश्व भर्ता | | 
+33 च यथाअस सि असप र्मः कूं अ कवु R 
+Amua २वि5सस हिशआयथां, < pk a] 
+
+
+॥३२भप्नर/व/यावाण/ सविता ड ॥ 
+| | व।सुनुव॥/यावाणर ones ॥उस्त्राः।| 
+| | मिराज निञनेल्य-च।च | 
+
+
+
+
+
+## Page 1473
+
+
+
+
+
+
+
+
+
+
+
+
++ 
+Les | TE RT IR IRN RR ue MT TUT TIER EE मम bier ni A AE A RR 
+
+
+IRAIA | 
+
+
+Sanimi पेरेवृ।आ। मही यं ते!स ओ बं स दष्ण द 
+| चतम रष्ण्येण या वांशयसबिता नुव २ यज॑माना य/सुन्वृते॥ २३) 
+ate vlk t C E ka मे ना। झा में। ये। विश्व यायसः 
+ने! थेले!ना|मातत धार वें smatasmardatn | 
+
+
+
+
+
+
+
+
+
+
+afargdAuG 
+
+
+धृ नी य ते॥ रथ न! था अर भिड़े तः। ag 
+सचिव! 
+
+
+TAIETE NRI व।अ ARNA 
+| ।दव।नी ut टेरी ३४ Grnt 
+
+
+
+
+
+
+
+
+
+
+## Page 1474
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+व्वडतेभतेनअस्माच बुद 
+
+
+
+
+
+IIRA nere IRAAN 
+
+
+रस्यामायया।€ | 
+
+
+
+
+
+
+
+
+| येनदरोहृविषोकृ ल्यभेवयुम्त्ु RRT 
+
+
+RA 
+
+
+: ४५ A 
+
+
+
+
+
+Joe myndene चितः।ससुडेशअंवरिति) कवयः med 98 | 
+
+
+
+
+
+Sg EG dr तळ yo oe ~ >याला एरर 3 तम्‌ 
+
+
+ग व याकाळ 
+
+
+
+
+
+: अपस्यगेपामनिपयथ भानुभायपरवपथि gåen सविषचीर्बसोन hrdia 
+
+
+## Page 1475
+
+
+| 
+
+
+चीनो।पद।इचेति। DE Ak tor vid Sad Fa 
+gan अंतरितिं॥ या Ag ving तस्याषदे। 
+i nonsen EIRATA 
+TARN LIMANNA RES i ed IMAR 
+et म॥रंडेस्य३र वाशति आर मो हु वा ren 
+la q लेडी र — | 
+era BÅT 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+रज्यो विंवा'अपः वता न॥ सह्ऽसाः रा लसा Rat 
+ते।य॒वति।म।चार्या॥ ३६ n3a FG NES! FINT VIG 
+यरि!श्रा तज JAR STN FRE ae ERIA - 
+i L pe सराअर्ध्वनःविडर्मध्येगप ला आसते! | 
+(कुळ याः) न।ज्ञाञऽपेतिं। तरं तं नं । मन्‍्ये।ऊर्थ नि 
+
+।यृन्ये।त व्‌? सतं! न यःामाध्यदिन स्य। स नस्य 
+Equi af Ri ॥३७ १ प्र। सस हि HS रऽ. 
+aa TÅ येः तेग्युःइहारातिःअसु॥ईड'म। भर!दक्षिणि| 
+
+
+
+
+
+## Page 1476
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+mus RET अ REE ERE GENERERE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| ke 5 TFIA 
+malman सि। रे व dannsa 
+E रा १वि। शर्चून ताहि।वि/ र्सु 
+इं।श त्रं।अभि/व) मं! ओज। जाय था; डय भ। चर्येण) नो॥अ 
+लुकमन निनय Vige तिलक, 
+| å ।स5 E च! ना मं) आजा है ete घूः ह्‌ दि 
+| ar ५चृ।विश्यो॥ रथ: रे+आभञ भार) व सिः) 
+न्‌एते'भ विगहि aama मरी | 
+RITR AIIIN RANIA SINRA | 
+
+
+| धातुयुतो TE वितुश्यविष्णे| Se | 
+
+
+| Yo3To 
+OR 
+
+
+| 
+
+
+cN 
+
+## Page 1477
+
+
+
+ør 
+
+
+
+
+
+RR | न arasa Ad. y | 7 å है 
+
+
+| R कन प सी हेब योर J 
+NILU स्यातन argi vary RAUT 
+mpa ara स्न मृतिं edt Eol 
+नाय भरावा बत/प्र3याओे) ० ga ag 
+EEUE RE: तुद hå ATJéaq 
+>> nen ४० भअ पंरय) वा।स my Anaia ma 
+FuRLsKANnFTTY Rh रशाणधप्र/आय स्व प्र ञे यापु 
+केका १०दीर्ध्याना।स्यायाशतच्‌ड्‌ jernet मानो॥उपासो। 
+
+
+| enden 
+
+
+
+
+
+
+
+
+
+
+
+| 
+i 
+| 
+| 
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Page 1478
+
+
+
+
+
+
+
+
+
+Ce १98230 RR Nn 
+न्न co ERR MO 
+a gr रि कनल EEEE ज ४ 
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+५ g 
+
+
+उरता m 
+i 
+— DEPT समाम ~ - = Se uten eneae काका 55-55 re sn san 
+STE Je कावा 
+
+
+| 
+
+
+
+
+
+
+
+
+
+
+
+
+i 
+प्रनोगस्वप्रनयी | | | | 
+
+
+En | rape यूचृञका मे अहं यमे । अदू थां ' ओ षंथीवृ + आर्‌? 
+' २३४ < TTRI अर्जा /अज IGEN SER 
+
+
+Aagaard gana ४१ gaj कर 
+
+## Page 1479
+
+
+थि पि चातु आ शि चद प्रनाऽप॑तिः धाता।ग SE 
+
+| XO 
+
+| k रा थत | 
+regna: ।भासि।सूर्तदे ७३ NARF 
+
+
+रामर जिग 
+EEE म्ण॥रुःब्आ धर्षे। वरुण स्य॥न 
+
+
+
+
+
+
+
+
+९०२४ 
+
+
+
+
+
+
+
+
+A NER यमन tas 
+EEE ST 
+44 i व E उनके किक ek Rd SP då का Å भू टक | 
+$ 4) DNG नः NE FRO sne he NEIDIO BURFI ENAME EEA ARER iy TNR BERAE A 8 A 
+i 
+| fi 
+
+
+
+
+
+
+
+
+
+
+
+तेषो!झमा चन'नअध्वःसु'बारणेयु Raana 
+सः) अदितेः। पराजी बसें! म यो य ज्यो ति।यदंतितअ्ञ श्वं 2४३ ० 
+AE NJF चाऽ भु।मयः भु न; रु दे MANE ता 
+तबन तिना तवन स 
+
+
+## Page 1480
+
+N BHT DIARRA RN Gs धि। हि त 
+_वतंगनगदेहिजीवसें॥ ७४ nen en त | 
+'नोगसःनमपृथेत। जाति दिव यः) परस्या पराः व त तिरः धन्य) 
+
+
+RT såg रा डे रोचिषा ग्रे 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EEE" SST 
+म्मम अक en Em z ना न्य RISB 
+७७७७० क ee z ørn mm == e is 
+
+
+poet 
+आ वट्ट 5 RE > NN 
+
+
+ATR २ ! 
+
+
+## Page 1481
+
+
+स्य।पारे।रअंसःशथकःअग्निशआजायृत॥०॥ ex थप्र)चनंभ्मा त 
+TYPE नोतावानिन०० अस्या “> RA ग 
+मी कस मही।इय age लिंधयाधरुचं।जा तर वेद सः दि वश AM 
+ऽवाईनीः॥ता “म सेइन्चदु। ४६४आ।अय गोरा दशन 
+So म meat 
+
+
+; अत की विकार AY A 
+
+
+
+
+
+
+
+
+
+
+o 32७० DRI PRP IEE EEDIT LI DIT GTE यमाचे 
+
+
+n 
+
+
+
+
+
+gar me 
+
+
+
+
+
+rå 
+2 ZEN >. 
+
+
+यत) तवोशत्य॑ञायतत त॑ः सम्‌ दोऽ अणवः areith 
+Tona आएणिविद्धहिश्व॑स्यमिष तो वरी! 
+थातार्यथा पूर्वर्मकल्ययन्‌॥दि 00: सवी, ४९) 
+
+
+Rumana ganm SEK Und Skid १ 
+| नतां) देवाः भागं यर्थ! ANANTA सुमन HÅ 
+'सःईतिभससा aa ond Å ह।लिसे।टपो॥समाना। से i 
+HV वः समानेन) वह वियु हो भि। ससा मीव आऽ ति। समा 
+
+
+
+
+## Page 1482
+
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+sR “मन AAAA IMEA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+s 
+
+i Ph 
+
+å ahy i SA 
+Ar 
+
+
+
+
+
+EEE å SSS i tr Fe 
+| r > r = == 
+f RS ETTE =y == E EERE 
+or i e aaeanoa anusan de? RR DE N a 
+AE ER dt i I pr LAIR me 
+प्र 
+
+
+PEIRCE ROI mm 
+oe 
+
+
+
+
+
+Ss; 
+
+## Page 1483
+
+
+
+Ss 
+
+
+ne SIR 
+
+
+mainaa नं जू र्त बूम नेययर्थाश्व।स; ऽ संह da 
+een मे et -अष्मोध्यायःसमाश्तः॥ VÅSTT 
+र्‌रापस्त क दृष्टाताइड लिस्वितंमया॥यदिसुद्ध मशड 
+
+
+Å दामने नविद्यते स्यार्थ प शेषका राथ द॥राके ९७ Ra तिना 
+
+
+म संवत्सरे श्रावणवद्यरकाट्श्यो मंद वासरे तद्दिनीधू स्तक समाध 
+स्करद्युवनाभक दिव रामेनलि शित ag गजाननभ्रसन्‌॥ 
+
+
+
+
+
+
+
+
+MRE Bas >> AN RR f EN ५2235 
+Sina maia in dd IR BRS 4 TEN i å et कद. GE ad - 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+TETT —— ee ——— ——— ET 
+PTE —-——— ep 
+Gis ED GERE RS ल < j 7 
+
+
+E 
+SS 
+k: No 
+Ee 
+E « 
+E ja Å ; 
+Ve “र पय Ta: 3 
+ET ~ 
+
+
+| 
+
+
+## Page 1484
+
+
+
+
+
+
+
+
+| CC-O0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+[OrderDescription] 
+
+
+,CREATED=27.08.I9 I0:29 
+,TRANSFERRED=20]9/08/27 at ]2:59:07 
+
+
+,PAGES=8]2 
+,TYPE=STD 
+१.५ १॥॥१--७()()() | 546 
+
+
+„Book Name=M-788-TRIGVED SANHITA 
+
+
+QRDER TEXT= 
+[PAGELIST] 
+FILEI=0000000I.TIF 
+FILE2=00000002.TIF 
+FILE3=00000003.TIF 
+FILEA=00000004.TIF 
+FILES=00000005.TIF 
+,FILE6=00000006.TIF 
+FILE/=00000007.TIF 
+FILES=00000008.TIF 
+FILE9=00000009.TIF 
+FILEIO=000000I0.TIF 
+FILEII=000000II.TIF 
+FILEI2=000000I2.TIF 
+FILEI3=000000I3.TIF 
+FILEIA=000000I4.TIF 
+FILELS=000000I5.TIF 
+FILEI6=000000I6.TIF 
+FILEI/=000000I7.TIF 
+FILEIS=000000I8.TIF 
+FILEI9=000000I9.TIF 
+FILE20=00000020.TIF 
+FILE2I=0000002]I.TIF 
+FILE22=00000022.TIF 
+FILE23=00000023.TIF 
+
+## Page 1485
+
+FILE24=00000024.TIF 
+FILE25=00000025.TIF 
+FILE26=00000026.TIF 
+FILE2/7=00000027.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE28=00000028.TIF 
+
+FILE29=00000029.TIF 
+FILE30=00000030.TIF 
+FILE3I=0000003I.TIF 
+FILE32=00000032.TIF 
+FILE33=00000033.TIF 
+FILE34=00000034.TIF 
+FILE35S=00000035.TIF 
+FILE36=00000036.TIF 
+FILE3/=00000037.TIF 
+FILE38=00000038.TIF 
+FILE39=00000039.TIF 
+FILEA0=00000040.TIF 
+FILEAI=0000004I.TIF 
+FILEA2=00000042.TIF 
+FILEA3=00000043.TIF 
+,FILE44=00000044.TIF 
+,FILE45=00000045.TIF 
+,FILE46=00000046.TIF 
+FILE47=00000047.TIF 
+,FILE48=00000048.TIF 
+,FILE49=00000049.TIF 
+,FILE50=00000050.TIF 
+FILES I=0000005Il.TIF 
+FILES2=00000052.TIF 
+FILES3=00000053.TIF 
+FILES4=00000054.TIF 
+FILESS=00000055.TIF 
+FILES6=00000056.TIF 
+FILES7=00000057.TIF 
+FILES8=00000058.TIF 
+FILES9=00000059.TIF 
+,FILE60=00000060.TIF 
+FILE6I=0000006I.TIF 
+FILE62=00000062.TIF 
+FILE63=00000063.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 1486
+
+
+FILE64=00000064.TIF 
+
+,FILE65=00000065.TIF 
+,FILE66=00000066.TIF 
+,FILE67=00000067.TIF 
+,FILE68=00000068.TIF 
+,FILE69=00000069.TIF 
+,FILE70=00000070.TIF 
+४ 37 | -000000/ I.TIF 
+FILE72=00000072.TIF 
+FILE/3=00000073.TIF 
+FILE/4=00000074.TIF 
+FILE75=00000075.TIF 
+FILE76=00000076.TIF 
+FILE77=00000077.TIF 
+FILE/8=00000078.TIF 
+FILE79=00000079.TIF 
+FILESO=00000080.TIF 
+FILESI=0000008]I.TIF 
+FILES2=00000082.TIF 
+FILES3=00000083.TIF 
+FILESA=00000084.TIF 
+FILESS=00000085.TIF 
+FILES6=00000086.TIF 
+FILES /=00000087.TIF 
+FILESS=00000088.TIF 
+FILES9=00000089.TIF 
+FILE90=00000090.TIF 
+FILESI=0000009I.TIF 
+FILE92=00000092.TIF 
+FILE93=00000093.TIF 
+FILE94=00000094.TIF 
+FILE9S=00000095.TIF 
+FILE96=00000096.TIF 
+FILE97=00000097.TIF 
+FILE98=00000098.TIF 
+FILE99=00000099.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE IO0=00000I00.TIF 
+
+FILEIOI=00000I0Il.TIF 
+FILEIO2=00000I02.TIF 
+FILEIO3=00000I03.TIF 
+FILEIO4=00000I04.TIF 
+FILEIO5S=00000]05.TIF 
+
+## Page 1487
+
+FILEIO6=00000]06.TIF 
+FILEIO/=00000I07.TIF 
+FILE | 06-00000 06. [77 
+FILE | 09-00 (009. [77 
+FILEII0O=00000II0.TIF 
+FILEIII=00000III.TIF 
+४ |] | 2-00000॥ | 2. [][7 
+FILE I | 3-0)0)(000(0)] | 3. [[[7 
+FILE I [4-0)()(0(00()] 4.TTF 
+FILE I 5=00000 I5.TIF 
+FILE I 6=00000 6.TIF 
+FILEII/=00000II7.TIF 
+FILEIIS=00000II8.TIF 
+FILEII9=00000II9.TIF 
+FILEI20=00000I20.TIF 
+FILEI2I=00000I2I.TIF 
+FILEI22=00000I22.TIF 
+FILEI23=00000I23.TIF 
+४ || 24-00 | 24. [77 
+FILEI25=00000]25.TIF 
+FILEI26=00000I26.TIF 
+FILEI2/=00000I27.TIF 
+FILEI28=00000I28.TIF 
+FILEI29=00000I29.TIF 
+FILEI30=00000I30.TIF 
+४ ५] 3 | -(0()000(0) 3 | . []7 
+४ |] 3 2-00000] 32. [][7 
+४ |] 3 3-0)0)000(0)| 33 .[[[7 
+४ || 34-00 | 34. [7[7 
+FILE 35=0000035.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILEI36=00000I36.TIF 
+FILEI3/=00000I37.TIF 
+FILEI38=00000I38.TIF 
+FILEI39=00000I39.TIF 
+FILEI4A0=00000I40.TIF 
+FILEIAI=00000I4I.TIF 
+FILEIA2=00000I42.TIF 
+FILE | 43-00 | 43 . [][7 
+FILE | 44-0)0)00(000) | 44. [][7 
+FILE [45-000000435 .]]7 
+था.र]406-00(0)0)(0)]46.]॥]" 
+FILEIA/=00000I47.TIF 
+FILE | 46-00 | 46. [77 
+FILE | 49-00 | 49. [][7 
+FILE | 50-00000 50.TIF 
+
+## Page 1488
+
+FILEISI=00000]5Il.TIF 
+FILEIS2=00000]52.TIF 
+FILEIS3=00000]53.TIF 
+FILELS4=00000]54.TIF 
+FILELS5S=00000]55.TIF 
+FILEIS6=00000]56.TIF 
+FILELS7=00000I57.TIF 
+FILELS8=00000]58.TIF 
+FILELS9=00000]59.TIF 
+FILEI60=00000I60.TIF 
+FILEI6I=00000]6Il.TIF 
+FILEI62=00000]62.TIF 
+FILEI63=00000]63.TIF 
+FILEI64=00000]64.TIF 
+FILEI65S=00000]65.TIF 
+„FILE 66=00000 66. TIF 
+FILEI67=00000]67.TIF 
+FILEI68=00000]68.TIF 
+FILEI69=00000]69.TIF 
+FILEI7/0=00000I70.TIF 
+FILEI7I=00000I7I.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILEI72=00000I72.TIF 
+
+FILEI73=00000I73.TIF 
+FILEI74=00000I74.TIF 
+FILEI75=00000I75.TIF 
+FILEI76=00000I76.TIF 
+FILEI7/=00000I77.TIF 
+FILEI78=00000I78.TIF 
+FILEI79=00000I79.TIF 
+FILEIS0O=00000I80.TIF 
+FILEISI=00000I8I.TIF 
+FILEIS2=00000I82.TIF 
+FILEIS3=00000I83.TIF 
+FILEI8S4A=00000I84.TIF 
+FILEI8S5=00000]85.TIF 
+FILEI8S6=00000]86.TIF 
+FILEIS/=00000I87.TIF 
+FILEISS=00000I88.TIF 
+FILEIS9=00000I89.TIF 
+FILEI90=00000I90.TIF 
+FILEI9I=00000I9I.TIF 
+FILEI92=00000I92.TIF 
+FILEI93=00000I93.TIF 
+FILEI94=00000I94.TIF 
+
+## Page 1489
+
+FILEI95=00000I95.TIF 
+FILEI96=00000]96.TIF 
+FILEI9/=00000I97.TIF 
+FILEI98=00000I98.TIF 
+FILEI99=00000I99.TIF 
+,FILE200=00000200.TIF 
+FILE20I=0000020Il.TIF 
+FILE202=00000202.TIF 
+,FILE203=00000203.TIF 
+,FILE204=00000204.TIF 
+FILE205=00000205.TIF 
+,FILE206=00000206.TIF 
+FILE207=00000207.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE208=00000208.TIF 
+FILE209=00000209.TIF 
+४ 32 | 0-000002 | 0. [77 
+४ ॥7/>2] [-000002 I I.TTF 
+४ />2] 2-000002| 2. [77 
+४ 7७2] 3-000002 | 3. [][7 
+४ 2 | 45-()0)(000() 2 4. [][7 
+FILE2I5=000002]5.TIF 
+FILE2I6=000002]6.TIF 
+FILE2I7=000002I7.TIF 
+४ 32 | 6-000002 | 6. [7 
+४ 2 | 9-000002 | 9. [][7 
+FILE220=00000220.TIF 
+FILE22=0000022].TIF 
+FILE222=00000222.TIF 
+FILE223=00000223.TIF 
+FILE224=00000224.TIF 
+FILE225=00000225.TIF 
+FILE226=00000226.TIF 
+FILE22/7=00000227.TIF 
+FILE228=00000228.TIF 
+FILE229=00000229.TIF 
+FILE230=00000230.TIF 
+४ ५23 | -(0000023 I. TTF 
+FILE232=00000232.TIF 
+FILE233=00000233.TIF 
+FILE234=00000234.TIF 
+FILE235=00000235.TIF 
+FILE236=00000236.TIF 
+FILE23/7=00000237.TIF 
+FILE238=00000238.TIF 
+FILE239=00000239.TIF 
+
+## Page 1490
+
+,FILE240=00000240.TIF 
+FILE24I=0000024]I.TIF 
+FILE242=00000242.TIF 
+FILE243=00000243.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE244=00000244.TIF 
+
+,FILE245=00000245.TIF 
+,FILE246=00000246.TIF 
+FILE247=00000247.TTF 
+FILE248=00000248.TIF 
+FILE249=00000249.TIF 
+,FILE250=00000250.TIF 
+,FILE25=0000025.TIF 
+FILE252=00000252.TIF 
+FILE253=00000253.TIF 
+FILE254=00000254.TIF 
+FILE255=00000255.TIF 
+FILE256=00000256.TIF 
+FILE257=00000257.TIF 
+FILE258=00000258.TIF 
+FILE259=00000259.TIF 
+,FILE260=00000260.TIF 
+,FILE26=0000026.TIF 
+FILE262=00000262.TIF 
+FILE263=00000263.TIF 
+,FILE264=00000264.TIF 
+,FILE265=00000265.TIF 
+,FILE266=00000266.TIF 
+,FILE267=00000267.TIF 
+,FILE268=00000268.TIF 
+,FILE269=00000269.TIF 
+FILE270=00000270.TIF 
+FILE27I=0000027I.TIF 
+FILE272=00000272.TTF 
+FILE273=00000273.TTF 
+FILE274=00000274.TTF 
+,FILE275=00000275.TIF 
+,FILE276=00000276.TIF 
+FILE277=00000277.TIF 
+FILE278=00000278.TIF 
+FILE279=00000279.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 1491
+
+
+FILE280=00000280.TIF 
+
+FILE28=0000028 I.TTIF 
+FILE282=00000282.TIF 
+FILE283=00000283.TIF 
+FILE284=00000284.TIF 
+FILE285=00000285.TIF 
+FILE286=00000286.TIF 
+FILE287=00000287.TITF 
+FILE288=00000288.TIF 
+FILE289=00000289.TIF 
+FILE290=00000290.TIF 
+FILE29I=0000029].TIF 
+FILE292=00000292.TIF 
+FILE293=00000293.TIF 
+FILE294=00000294.TIF 
+FILE295=00000295.TIF 
+FILE296=00000296.TIF 
+FILE29/7=00000297.TIF 
+FILE298=00000298.TIF 
+FILE299=00000299.TIF 
+,FILE300=00000300.TIF 
+FILE30I=0000030l.TIF 
+FILE302=00000302.TIF 
+FILE303=00000303.TIF 
+FILE304=00000304.TIF 
+,FILE305=00000305.TIF 
+,FILE306=00000306.TIF 
+,FILE307=00000307.TITF 
+,FILE308=00000308.TIF 
+,FILE309=00000309.TIF 
+४ 33 | 0-000003 | 0. []7 
+४ 33] [-(000003 | .TTF 
+४ 33 | 2-00003 | 2. [][7 
+४ 33 | 3-0)0)0(00(0)3 | 3. [[[7 
+४ 33 | 45-()()(0(00()3 | 4. [][7 
+„FILE3 | 5-(0000003 I5.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE36=000003 6.TIF 
+४ 33 | /-000003 | / व] 
+४ 33 | 6-000003 | 6. [][7 
+४ 33 | 9-0)0)003 | 9. TIF 
+FILE320=00000320.TIF 
+४ 7332 | -(000003 2 I..TTF 
+FILE322=00000322.TIF 
+
+## Page 1492
+
+FILE323=00000323.TIF 
+FILE324=00000324.TIF 
+FILE325=00000325.TIF 
+FILE326=00000326.TIF 
+FILE32/=00000327.TIF 
+FILE328=00000328.TIF 
+FILE329=00000329.TIF 
+FILE330=00000330.TIF 
+४ 333 | -()()(000()3 3 I. TTIF 
+FILE332=00000332.TIF 
+FILE333=00000333.TIF 
+FILE334=00000334.TIF 
+FILE335=00000335.TIF 
+FILE336=00000336.TIF 
+FILE33/=00000337.TIF 
+FILE338=00000338.TIF 
+FILE339=00000339.TIF 
+FILE340=00000340.TIF 
+४ 334 | -()()00034 | . [][7 
+FILE342=00000342.TTF 
+FILE343=00000343.TIF 
+FILE344=00000344.TIF 
+,FILE345=00000345.TIF 
+,FILE346=00000346.TIF 
+FILE347=00000347.TTF 
+FILE348=00000348.TIF 
+FILE349=00000349.TIF 
+,FILE350=00000350.TIF 
+FILE3SI=0000035I.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE352=00000352.TIF 
+
+,FILE353=00000353.TIF 
+,FILE354=00000354.TIF 
+,FILE355=00000355.TIF 
+,FILE356=00000356.TIF 
+,FILE357=00000357.TIF 
+,FILE358=00000358.TIF 
+FILE3S9=00000359.TIF 
+,FILE360=00000360.TIF 
+FILE36I=0000036Il.TIF 
+FILE362=00000362.TIF 
+FILE363=00000363.TIF 
+,FILE364=00000364.TIF 
+,FILE365=00000365.TIF 
+,FILE366=00000366.TIF 
+
+## Page 1493
+
+,FILE367=00000367.TIF 
+,FILE368=00000368.TIF 
+FILE369=00000369.TIF 
+FILE370=00000370.TIF 
+FILE37=0000037 I..TTF 
+FILE372=00000372.TIF 
+FILE373=00000373.TIF 
+FILE374=00000374.TIF 
+FILE375=00000375.TIF 
+FILE376=00000376.TIF 
+FILE37/7=00000377.TIF 
+FILE378=00000378.TIF 
+FILE379=00000379.TIF 
+FILE380=00000380.TIF 
+FILE3SI=0000038]I.TIF 
+FILE382=00000382.TIF 
+FILE383=00000383.TIF 
+FILE384=00000384.TIF 
+FILE385=00000385.TIF 
+FILE386=00000386.TIF 
+FILE3S/=00000387.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE388=00000388.TIF 
+,FILE389=00000389.TIF 
+,FILE390=00000390.TIF 
+४ 339 | -(0()00039 | .[]7 
+FILE392=00000392.TIF 
+FILE393=00000393.TIF 
+FILE394=00000394.TIF 
+FILE395=00000395.TIF 
+FILE396=00000396.TIF 
+FILE397=00000397.TIF 
+FILE398=00000398.TIF 
+FILE399=00000399.TIF 
+,FILEA00=00000400.TIF 
+,FILEA0I=0000040l.TIF 
+,FILE402=00000402.TTF 
+,FILE403=00000403.TITF 
+,FILE404=00000404.TTF 
+,FILE405=00000405.TIF 
+,FILE406=00000406.TIF 
+,FILE407=00000407.TTF 
+,FILE408=00000408.TITF 
+,FILE409=00000409.TTF 
+४ 34 | 0-000004 | 0. [][7 
+४ ॥/4] [00004 | | . []7 
+
+## Page 1494
+
+४ 34 | 2-000004 | 2. []7 
+४ 34 | 3-0)0)00(00()4 | 3. [][7 
+४ 34 | 45-()0)(0(00()4 | 4. []7 
+४7 ॥34 | 5-0000004 I5.TIF 
+४7 ॥324 | 6-0000004 |6.]7 
+५74] /<-000004 | / 7 
+४ 34 | 6-000004 | 6. [7[7 
+गयी 34 | 9-0000004 | 9. [][7 
+,FILE420=00000420.TTF 
+,FILE42=0000042 I..TTIF 
+FILE422=00000422.TTF 
+FILEA23=00000423.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE424=00000424.TIF 
+
+,FILE425=00000425.TIF 
+,FILE426=00000426.TIF 
+FILE427=00000427.TTF 
+FILEA28=00000428.TIF 
+,FILE429=00000429.TTF 
+,FILE430=00000430. TIF 
+„FILE43 | -()()(000()43 I..TIF 
+FILEA32=00000432.TIF 
+FILEA33=00000433.TIF 
+,FILE434=00000434.TTF 
+,FILE435=00000435.TIF 
+,FILE436=00000436.TIF 
+FILE437=00000437.TTF 
+FILEA38=00000438.TIF 
+FILEA39=00000439.TIF 
+,FILEA40=00000440.TIF 
+४ 44 | -()()(000()44 | . []7 
+FILE442=00000442.TTF 
+,FILE443=00000443.TTF 
+FILE444=00000444.TTF 
+,FILE445=00000445.TIF 
+,FILE446=00000446.TIF 
+FILE447=00000447.TITF 
+,FILE448=00000448.TIF 
+,FILE449=00000449.TTF 
+,FILE450=00000450.TIF 
+,FILE45=0000045 I.TIF 
+,FILE452=00000452.TIF 
+,FILE453=00000453.TIF 
+,FILE454=00000454.TIF 
+,FILE455=00000455.TIF 
+
+## Page 1495
+
+,FILE456=00000456.TIF 
+,FILE457=00000457.TIF 
+,FILE458=00000458.TIF 
+,FILE459=00000459.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE460=00000460.TIF 
+
+,FILE46=0000046.TIF 
+,FILE462=00000462.TIF 
+,FILE463=00000463.TIF 
+,FILE464=00000464.TIF 
+,FILE465=00000465.TIF 
+,FILE466=00000466.TIF 
+,FILE467=00000467.TIF 
+,FILE468=00000468.TIF 
+,FILE469=00000469.TIF 
+FILE470=00000470.TIF 
+FILEA7I=0000047I.TIF 
+FILE472=00000472.TTF 
+FILE473=00000473.TTF 
+FILE474=00000474.TTF 
+,FILE475=00000475.TIF 
+,FILE476=00000476.TIF 
+FILE477=00000477.TITF 
+FILE478=00000478.TIF 
+,FILE479=00000479.TTF 
+,FILE480=00000480. TIF 
+४ 346 | -0000046 I.TTIF 
+FILEA82=00000482.TIF 
+FILEA83=00000483.TIF 
+,FILE484=00000484.TTF 
+,FILE485=00000485.TIF 
+,FILE486=00000486.TIF 
+FILE487=00000487.TITF 
+,FILE488=00000488.TIF 
+FILEA89=00000489.TIF 
+,FILE490=00000490. TIF 
+४ 349 | -(0()000()49 | . []7 
+,FILE492=00000492.TTF 
+,FILE493=00000493.TITF 
+,FILE494=00000494.TTF 
+,FILE495=00000495.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+## Page 1496
+
+
+FILE496=00000496.TIF 
+FILE497=00000497.TTF 
+FILEA98=00000498.TIF 
+FILEA99=00000499.TIF 
+,FILE500=00000500.TIF 
+FILES0I=0000050l.TIF 
+,FILE502=00000502..TIF 
+,FILE503=00000503.TIF 
+,FILE504=00000504.TIF 
+,FILE505=00000505.TIF 
+,FILE506=00000506.TIF 
+,FILE507=00000507.TIF 
+,FILE508=00000508.TIF 
+,FILE509=00000509.TIF 
+FILES | 0-0000035 0.TIF 
+FILESII=000005II.TIF 
+FILES I2=000005]2.TIF 
+,FILE5 3=000005 3.TIF 
+„FILES 4=0000054.TIF 
+„FILES | 5-00000035 I5.TIF 
+FILES | 60-00000035 I6.TIF 
+FILES I7=000005I7.TIF 
+FILES I8=000005]8.TIF 
+FILES I9=000005]9.TIF 
+FILES20=00000520.TIF 
+,FILE52=0000032 I..TIF 
+FILES22=00000522.TIF 
+FILES23=00000523.TIF 
+FILES24=00000524.TIF 
+FILES25=00000525.TIF 
+FILES26=00000526.TIF 
+FILES27=00000527.TIF 
+FILES28=00000528.TIF 
+FILES29=00000529.TIF 
+,FILE530=00000530.TIF 
+,FILE53=0000053 .TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILES32=00000532.TIF 
+
+FILES33=00000533.TIF 
+FILES34=00000534.TIF 
+FILES35=00000535.TIF 
+FILES36=00000536.TIF 
+FILES37=00000537.TIF 
+FILES38=00000538.TIF 
+
+## Page 1497
+
+FILES39=00000539.TIF 
+,FILE540=00000540.TIF 
+,FILE54=0000054 I.TIF 
+FILES42=00000542.TIF 
+FILES43=00000543.TIF 
+FILES44=00000544.TIF 
+FILES45=00000545.TIF 
+FILES46=00000546.TIF 
+FILES47=00000547.TIF 
+FILES48=00000548.TIF 
+FILES49=00000549.TIF 
+FILESS0=00000550.TIF 
+FILESSI=0000055Il.TIF 
+FILESS2=00000552.TIF 
+FILESS3=00000553.TIF 
+FILESS4=00000554.TIF 
+FILESS5S=00000555.TIF 
+FILESS6=00000556.TIF 
+FILESS7=00000557.TIF 
+FILESS8=00000558.TIF 
+FILESS9=00000559.TIF 
+,FILE560=00000560.TIF 
+FILES6I=0000056l.TIF 
+FILES62=00000562.TIF 
+FILES63=00000563.TIF 
+,FILE564=00000564.TIF 
+,FILE565=00000565.TIF 
+,FILE566=00000566.TIF 
+,FILE567=00000567.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE568=00000568.TIF 
+FILES69=00000569.TIF 
+FILES70=00000570.TIF 
+FILES7I=0000057I.TIF 
+FILES72=00000572.TIF 
+FILES73=00000573.TIF 
+FILES74=00000574.TIF 
+FILES75=00000575.TIF 
+FILES76=00000576.TIF 
+FILES77=00000577.TIF 
+FILES78=00000578.TIF 
+FILES 79=00000579.TIF 
+FILES80=00000580.TIF 
+FILES8I=0000058I.TIF 
+FILES82=00000582.TIF 
+FILES83=00000583.TIF 
+
+## Page 1498
+
+FILES84=00000584.TIF 
+FILES85=00000585.TIF 
+FILES86=00000586.TIF 
+FILES87=00000587.TIF 
+FILES88=00000588.TIF 
+FILES8S9=00000589.TIF 
+FILES90=00000590.TIF 
+FILES9I=0000059I.TIF 
+FILES92=00000592.TIF 
+FILES93=00000593.TIF 
+FILES94=00000594.TIF 
+FILES95=00000595.TIF 
+FILES96=00000596.TIF 
+FILES97=00000597.TIF 
+FILES98=00000598.TIF 
+FILES99=00000599.TIF 
+,FILE600=00000600.TIF 
+FILE60I=0000060l.TIF 
+,FILE602=00000602.TIF 
+,FILE603=00000603.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE604=00000604.TIF 
+
+,FILE605=00000605.TIF 
+,FILE606=00000606.TIF 
+,FILE607=00000607.TIF 
+,FILE608=00000608.TIF 
+,FILE609=00000609.TIF 
+FILE6I0=000006I0.TIF 
+FILE6I=000006II.TIF 
+FILE6I2=000006]2.TIF 
+FILE6L3=000006]3.TIF 
+FILE6I4=000006]4.TIF 
+FILE6L5=000006]5.TIF 
+FILE6L6=000006]6.TIF 
+FILE6L7=000006I7.TIF 
+FILE6I8=000006]8.TIF 
+FILE6I9=000006]9.TIF 
+,FILE620=00000620.TIF 
+,FILE62=0000062 I..TIF 
+,FILE622=00000622.TIF 
+,FILE623=00000623.TIF 
+,FILE624=00000624.TIF 
+,FILE625=00000625.TIF 
+,FILE626=00000626.TIF 
+,FILE627=00000627.TIF 
+
+## Page 1499
+
+,FILE628=00000628.TIF 
+,FILE629=00000629.TIF 
+,FILE630=00000630.TIF 
+,FILE63=0000063 I..TIF 
+FILE632=00000632.TIF 
+,FILE633=00000633.TIF 
+,FILE634=00000634.TIF 
+,FILE635=00000635.TIF 
+,FILE636=00000636.TIF 
+,FILE637=00000637.TIF 
+,FILE638=00000638.TIF 
+FILE639=00000639.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE640=00000640.TIF 
+
+,FILE64=0000064 I..TIF 
+,FILE642=00000642.TIF 
+,FILE643=00000643.TIF 
+,FILE644=00000644.TIF 
+,FILE645=00000645.TIF 
+,FILE646=00000646.TIF 
+,FILE647=00000647.TIF 
+,FILE648=00000648.TIF 
+,FILE649=00000649.TIF 
+,FILE650=00000650.TIF 
+,FILE65=0000065 I..TIF 
+FILE6S2=00000652.TIF 
+,FILE653=00000653.TIF 
+,FILE654=00000654.TIF 
+,FILE655=00000655.TIF 
+,FILE656=00000656.TIF 
+,FILE657=00000657.TIF 
+,FILE658=00000658.TIF 
+,FILE659=00000659.TIF 
+,FILE660=00000660.TIF 
+FILE66I=0000066l.TIF 
+,FILE662=00000662..TIF 
+,FILE663=00000663.TIF 
+,FILE664=00000664.TIF 
+,FILE665=00000665.TIF 
+,FILE666=00000666.TIF 
+,FILE667=00000667.TIF 
+,FILE668=00000668.TIF 
+,FILE669=00000669.TIF 
+,FILE670=00000670.TIF 
+,FILE67=0000067 I..TIF 
+
+## Page 1500
+
+,FILE672=00000672.TIF 
+,FILE673=00000673.TIF 
+,FILE674=00000674.TIF 
+,FILE675=00000675.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE676=00000676.TIF 
+,FILE677=00000677.TIF 
+,FILE678=00000678.TIF 
+,FILE679=00000679.TIF 
+,FILE680=00000680.TIF 
+,FILE68=0000068 I..TIF 
+,FILE682=00000682.TIF 
+,FILE683=00000683.TIF 
+,FILE684=00000684.TIF 
+,FILE685=00000685.TIF 
+,FILE686=00000686.TIF 
+,FILE687=00000687.TIF 
+,FILE688=00000688.TIF 
+,.FILE689=00000689.TIF 
+,FILE690=00000690.TIF 
+FILE69I=0000069].TIF 
+FILE692=00000692.TIF 
+FILE693=00000693.TIF 
+,FILE694=00000694.TIF 
+FILE695=00000695.TIF 
+,.FILE696=00000696.TIF 
+,FILE697=00000697.TIF 
+,FILE698=00000698.TIF 
+,FILE699=00000699.TIF 
+,FILE700=00000700.TIF 
+FILE/0I=0000070l.TIF 
+FILE/02=00000702.TIF 
+FILE/03=00000703.TIF 
+FILE /04=00000704.TIF 
+FILE705=00000705.TIF 
+,FILE706=00000706.TIF 
+FILE707=00000707.TTF 
+FILE/08=00000708.TIF 
+FILE709=00000709.TIF 
+FILE/I0=000007I0.TIF 
+FILE/II=000007II.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+## Page 1501
+
+FILE7I2=000007I2.TIF 
+
+४ 37 | 3-0000000()/ | 3. [][7 
+४ 37 [4-00000/ 4.TTF 
+FILE7I5=000007]5.TIF 
+FILE7 I6=000007]6.TIF 
+FILE/I7=000007I7.TIF 
+FILE/I8=000007I8.TIF 
+FILE/I9=000007I9.TIF 
+FILE/20=00000720.TIF 
+FILE/2I=0000072I.TIF 
+FILE/22=00000722.TIF 
+FILE/23=00000723.TIF 
+FILE/24=00000724.TIF 
+FILE725=00000725.TIF 
+FILE726=00000726.TIF 
+FILE727=00000727.TIF 
+FILE/28=00000728.TIF 
+FILE/29=00000729.TIF 
+FILE/30=00000730.TIF 
+FILE/3I=0000073I.TIF 
+FILE/32=00000732.TIF 
+FILE/33=00000733.TIF 
+FILE/34=00000734.TIF 
+FILE735=00000735.TIF 
+FILE736=00000736.TIF 
+FILE/3/7=00000737.TIF 
+FILE/38=00000738.TIF 
+FILE739=00000739.TIF 
+FILE/40=00000740.TIF 
+FILE/4I=0000074I.TIF 
+FILE742=00000742.TTF 
+FILE/43=00000743.TIF 
+FILE/44=00000744.TIF 
+FILE745=00000745.TIF 
+FILE746=00000746.TIF 
+FILE/4/7=00000747.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE 748=00000748.TIF 
+
+FILE/49=00000749.TIF 
+FILE750=00000750.TIF 
+FILE7SI=0000075Il.TIF 
+FILE752=00000752.TIF 
+FILE753=00000753.TIF 
+,FILE754=00000754.TIF 
+
+## Page 1502
+
+,FILE755=00000755.TIF 
+,FILE756=00000756.TIF 
+,FILE757=00000757.TIF 
+,FILE758=00000758.TIF 
+FILE 759=00000759.TIF 
+,FILE760=00000760.TIF 
+FILE76I=0000076]l.TIF 
+FILE762=00000762.TIF 
+FILE763=00000763.TIF 
+FILE764=00000764.TIF 
+,FILE765=00000765.TIF 
+,FILE766=00000766.TIF 
+,FILE767=00000767.TIF 
+,FILE768=00000768.TIF 
+FILE 769=00000769.TIF 
+FILE770=00000770.TIF 
+FILE/7I=0000077I.TIF 
+FILE/72=00000772.TIF 
+FILE/73=00000773.TIF 
+FILE774=00000774.TTF 
+,FILE775=00000775.TIF 
+,FILE776=00000776.TIF 
+FILE777=00000777.TIF 
+FILE778=00000778.TIF 
+FILE779=00000779.TIF 
+FILE/80=00000780.TIF 
+FILE/8I=0000078].TIF 
+FILE/82=00000782.TIF 
+FILE/83=00000783.TIF 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+FILE784=00000784.TIF 
+
+,FILE785=00000785.TIF 
+,FILE786=00000786.TIF 
+FILE787=00000787.TITF 
+FILE/88=00000788.TIF 
+FILE789=00000789.TIF 
+FILE790=00000790.TIF 
+FILE/9I=0000079].TIF 
+FILE/92=00000792.TIF 
+FILE793=00000793.TIF 
+FILE/94=00000794.TIF 
+FILE795=00000795.TIF 
+FILE 796=00000796.TIF 
+FILE797=00000797.TIF 
+FILE798=00000798.TIF 
+
+## Page 1503
+
+FILE799=00000799.TIF 
+,FILE800=00000800. TIF 
+,FILESOI=0000080l.TIF 
+FILES02=00000802.TIF 
+FILES03=00000803.TIF 
+FILES04=00000804.TIF 
+,FILE805=00000805.TIF 
+,FILE806=00000806.TIF 
+FILE807=00000807.TITF 
+,FILE808=00000808.TIF 
+,FILE809=00000809.TIF 
+४ ५6 | 0-000006 | 0. [77 
+„FILES [-000006 I I.TTF 
+४ ५6 | 2-000006 | 2. [77 
+
+
+9 
+
+
+CC-0. In Public Domain.Kavikulguru Kalidas Sanskrit University Ramtek Collection 
+
+
+
+
+## Page 1504

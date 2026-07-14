@@ -1,0 +1,179 @@
+{
+  "title": "garuda1 (1)",
+  "discovered_at": "2026-07-13T16:04:44.747712+00:00",
+  "edition_count": 7,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Garuda Puran",
+      "authors": [
+        "Jaipal Datta"
+      ],
+      "year": 2012,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "1468069551",
+        "9781468069556"
+      ],
+      "publisher": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "ol_key": "/works/OL39871371W"
+    },
+    {
+      "source": "open_library",
+      "title": "Padma-Purama, Part 7",
+      "authors": [
+        "N.A. Deshpande"
+      ],
+      "year": 1970,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 3,
+      "isbn": [
+        "8120804554",
+        "9788120806634",
+        "9788120807419",
+        "8120807413",
+        "8120805836",
+        "8120804354",
+        "9788120807013",
+        "8120801962",
+        "8120807685",
+        "9780895817785",
+        "9788120805835",
+        "8120807014",
+        "9788120803060",
+        "0895817772",
+        "9788120807686",
+        "0895817780",
+        "9780895817778",
+        "9788120801967",
+        "8120802713",
+        "812080306X",
+        "9788120804555",
+        "9788120802711",
+        "8120806638"
+      ],
+      "publisher": [
+        "Motilal Banarsidass,India",
+        "South Asia Books",
+        "Motilal Banarsidass]",
+        "Motilal Banarsidass Pub"
+      ],
+      "ol_key": "/works/OL10224894W"
+    },
+    {
+      "source": "open_library",
+      "title": "Das Gilgamesch-Epos in der Weltliteratur",
+      "authors": [
+        "Peter Christian Albrecht Jensen"
+      ],
+      "year": 1906,
+      "languages": [
+        "ger"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "dasgilgameschepo01jensuoft",
+        "dasgilgameschepo02jens",
+        "dasgilgameschep00jensgoog",
+        "dasgilgameschep01jensgoog"
+      ],
+      "edition_count": 4,
+      "isbn": [],
+      "publisher": [
+        "Adolf Ebel",
+        "Karl J. Tr\u00fcbner"
+      ],
+      "ol_key": "/works/OL6930740W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "garuda1_202112",
+      "title": "\u0917\u0930\u0941\u0921 \u092a\u0941\u0930\u093e\u0923",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "garuda1",
+      "title": "garuda1",
+      "creator": "Sri Garud",
+      "year": 2016,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3198250783",
+      "title": "Pemenuhan Kebutuhan Aktivitas Pada Lansia Dengan Rheumatoid Arthritis (RA) Di UPT Pelayanan Lanjut Usia Binjai",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "http://ejurnalmalahayati.ac.id/index.php/MAHESA/article/download/5048/pdf",
+      "authors": [
+        "Natasya Sianipar",
+        "Resmi Pangaribuan",
+        "Jemaulana Tarigan"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3155210784",
+      "title": "Gurda Motif in Batik Arrangement",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://iiste.org/Journals/index.php/ADS/article/download/55765/57600",
+      "authors": [
+        "Aan Sudarwanto",
+        "Rochana Sri",
+        "Dharsono ."
+      ]
+    }
+  ]
+}

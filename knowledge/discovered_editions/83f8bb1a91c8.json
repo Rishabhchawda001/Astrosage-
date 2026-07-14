@@ -1,0 +1,229 @@
+{
+  "title": "Gita-Sadhale",
+  "discovered_at": "2026-07-13T13:14:27.848133+00:00",
+  "edition_count": 12,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "wg016",
+      "title": "1938 -Shrimad Bhagavad Gita With 11 Commentaries Vol 3",
+      "creator": "Shastri Gajanana Shambu Sadhale",
+      "year": 1938,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ksej_bhagvat-giitaa-bhaag-1-sadhale-s.-j.-shambhu",
+      "title": "Bhagvat Giitaa Bhaag 1 Sadhale S. J. Shambhu",
+      "creator": "Granth-Nidhi",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "Gita-SgsSadhaleWith11MajorAnd3MinorCommentaries",
+      "title": "Gita- SGS Sadhale with 11 major and 3 minor commentaries.",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2751452613",
+      "title": "Importance of Plants as depicted in Puranas",
+      "year": 2017,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.16943/ijhs/2017/v52i3/49157",
+      "authors": [
+        "Dhananjay Vaudeo Dwivedi"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4413308712",
+      "title": "Regenerative Organic Agriculture: A Pathway to Ecosystem Restoration and Sustainable Agricultural Development",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://library.acadlore.com/OF/2025/11/3/OF_11.03_02.pdf",
+      "authors": [
+        "Yashaswini Sharma"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "\u015ar\u012bmadbhagavadg\u012bt\u0101",
+      "authors": [
+        "Gaj\u0101nana \u015aambhu S\u0101dhale",
+        "Sankaracarya."
+      ],
+      "year": 1985,
+      "languages": [
+        "san"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Parimala Pablikes\u0301ansa"
+      ],
+      "ol_key": "/works/OL22992564W"
+    },
+    {
+      "source": "open_library",
+      "title": "\u015ar\u012bmadbhagavadg\u012bt\u0101",
+      "authors": [
+        "\u0100nandagiri",
+        "Gaj\u0101nana \u015aambhu S\u0101dhale"
+      ],
+      "year": 1938,
+      "languages": [
+        "san",
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Gujar\u0101t\u012b Prin\u1e6di\u1e45ga Presa"
+      ],
+      "ol_key": "/works/OL33349438W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "bhagavad-gita-with-11-commentaries-3-volumes-combined-gajanana-shambhu-sadhale-1935-gpp",
+      "title": "Bhagavad Gita With 11 Commentaries 3 Volumes Combined Gajanana Shambhu Sadhale 1935",
+      "creator": "Gajanan Shambhu Sadhale",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wg016",
+      "title": "1938 -Shrimad Bhagavad Gita With 11 Commentaries Vol 3",
+      "creator": "Shastri Gajanana Shambu Sadhale",
+      "year": 1938,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "Gita-SgsSadhaleWith11MajorAnd3MinorCommentaries",
+      "title": "Gita- SGS Sadhale with 11 major and 3 minor commentaries.",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2751452613",
+      "title": "Importance of Plants as depicted in Puranas",
+      "year": 2017,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.16943/ijhs/2017/v52i3/49157",
+      "authors": [
+        "Dhananjay Vaudeo Dwivedi"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4413308712",
+      "title": "Regenerative Organic Agriculture: A Pathway to Ecosystem Restoration and Sustainable Agricultural Development",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://library.acadlore.com/OF/2025/11/3/OF_11.03_02.pdf",
+      "authors": [
+        "Yashaswini Sharma"
+      ]
+    }
+  ]
+}

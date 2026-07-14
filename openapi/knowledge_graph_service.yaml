@@ -1,0 +1,20 @@
+openapi: "3.1.0"
+info:
+  title: AstroSage Knowledge Graph Service
+  version: "1.0.0"
+  description: Knowledge graph queries API
+paths:
+  /query:
+    post:
+      summary: Query knowledge graph
+      requestBody:
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                entity: { type: string }
+                depth: { type: integer, default: 2 }
+      responses:
+        "200":
+          description: Graph query results

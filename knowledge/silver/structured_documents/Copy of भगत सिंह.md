@@ -1,0 +1,1047 @@
+# Copy of भगत सिंह
+
+**Document ID:** DOC-03D1DF861AE1
+**Language:** unknown (unknown)
+**Pages:** 25
+**Class:** scanned_image
+**SHA256:** `03d1df861ae17eea306de195c59130b7ce75fbd7f6ae5d224565d87a423efe6e`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 2
+
+wd fae
+
+Wek YF eel dia a8 El APY Hl Wee Seq) ogy faa sh AI
+
+Tas Papen | Sah a as ws aS ata san a A
+aed Bia BU a Tila A ae qe we WA sel Sal ST
+
+Bhat SRT =
+eu a cel We aiea aM aed 1A So GI Ber Te ed ST
+
+2 Sa A Tel | Th Sa I HS eS ea
+
+Teas Gale Fe WH Ara Pra a Ui Sa Ca | Se ea
+fe ae ea Fo aeae ale tie ay cer ar) faa wl
+
+array es |
+
+“Fa a Az
+
+Te el 2" Se eT |
+
+“afea faa, # ga ad 7 ea aK aah syste |"
+
+at 4 ae
+
+Tel Sat fear) Seat sie aa tet Tt
+
+AH SoH We ae favara Bere Tel MM foe ed A tac Sree Te
+
+EM | Sa Tea
+
+arate Weal A Si Ta areata A |
+
+ae aS
+
+a fae om, fer ae A ae al Sara
+
+fam Sarge CSte orSt ai ares guitar aferers @ fea
+
+ial
+
+39 GAs H Uses Ua HT arserg fat 8 a a ar
+Tia at | wer th gee foreplay arene feng fete an, sel ved
+
+9 | faaradt at wioet at | fer fae ar afta aerett 2a
+
+## Page 3
+
+é on Te
+
+Wes WAM & fee was a) Ste aR a ae SHI A
+at HOUR Al stent fea wad fe a a
+Geigier areal al wifes wed F1 fee fae ot wa
+HTH | SH ST Be we stata fae sin taut fae A aT
+Hiei Fl ana A aces & fom we A Bieter 4 azar
+as feat an eer fae, stsita fee sie want fae oa aT
+aa Wear 4 eer Wa fea a |
+
+oa fel sa ae at saifa at Ser Hf he get at eer ae
+SSNS Fl Se Ss He fers AMT e-eees T| TH ST a
+apa fae at ast 28 fear, 1907 aT gon | Ge Heer
+fren fae an fear a Ta a Se a TT
+aH UaR & fw eased as S SUT aed SI A
+Spe Pe Ta aT | HPT See Te Fae | TST See TTS
+Heht THR FI
+at a fat
+oearah wrt fae a Al a ord | Sr ER FST
+a) Fa ci Sth At F Hel AL Jae Peg UH eH FEM
+Ts BAM sik Wa VieE seat SAT |
+an sre apifrant ofa wr: af a ardt sree ter pet a
+Freradt Bl SAM Be Ta Ga Tea oT foe a Tee AT As Ser
+
+## Page 4
+
+wig far 7
+
+as fea Sri | sae Ofer Saree Bors Sara Hr SPA
+FO, Sh Tel Al HE 7 HE Sea Gea Fa Te 7
+eufau fared i a yl wlan al Save ae ved at
+Tal, TMT Sik Seer HS SA ea A Fae sa a
+SAH Sl FEA SAT A Gal SIAM SIN agIET A 1 sa NTT
+Sa SH ACS AN Ee Yt ATT aT AT | Te Pate aT a
+fasra core pre at
+
+ama fae watt qeenen Ho adt fa va) aaa a a
+Tee-ferale 4 SAR Tet Sha FT| AST aN A Sl eT aa
+Ted SUT Tel Ht F | Spat evalas Fes Sl GT AT STH
+feral & Gas ater fa teens 41 se Bead se Ea
+Wed F, a Sa Bach A | STS ASI Sa Ss AetH WT
+fae al Hel We SRL Gel Tard Y An Sai ate aTa ER
+Teale F | Se eae At Fed Tt ara Sik Peas
+Gad fae een a fe oS wiles Hh We Aa Aaya aaa |
+
+ia fae sat Bet aA eteq aT fea aa | ST
+Geant Sawa: Ss Tet eee 41 Weta, Beil an des
+SST ret TT HT Sth TA |
+
+Tah an ad He wh fee ate Taras 1 | Pas es ea
+
+rel at faenrd st, sad Hoes Treat wa Pe F aa S fey
+ae We sa) “ae HA AEA @, FT AIS ART ST
+ay 2" — aren Ferenc Ye |
+
+“oe Fa died ¢'— 01a fae a oar fe
+
+## Page 5
+
+8 on Te
+
+“qa? ae eat ot Ger seq 2?" sae ee ara fereneri
++ her |
+
+we se sii an m+ fa
+el, So Met Al Welch laa FT STA © , Wd He 7 ae fea
+
+FARE, Sa S OT A feet GA I Aa AR aA
+apt fae H aera erat Fe |
+Bit Gl Fea
+
+ona fae bara 91 Sa8 watt fee AT aI A ee a
+aa 9 te fen on tear 8 fiat age ct prea six
+cren ot, gates can fie sel STA VS 1 ier A Pte) EA
+ae at Sel eet SH Te St Aa SI SH Set ST ET
+Get ara asiid Te sa sit G fee BU a oe Stee fae aA
+74 | Te fae Sl Seat Sea STA Usa He reat ie Surfea
+a fae TIS hl Hay heal Be Ul Usd ah we cas a
+fae fea H We Se Hed—“aeH aa Tet) 4 wa as
+Zeal tal Airs sl seTeRs Stas carey sil alt args A SrSeM
+Fo stiat S seen com, fare He A ara Sit Get STA TE
+Ta |" se se aed  fecga we wes] Hl aay, eit wa
+Heed Sa Set | Ha A A Se a AST AS fe
+aal, St TAT ga yer are ef
+
+aa ted fae Set Han 4 vee 4, ca SS art wea
+A oe teal— “as SA TTA eM ST Ted ET?”
+Yeh Wek 4 aem—aem sue fear “Slee GAA Sl Ta
+
+## Page 6
+
+ae
+
+Zz
+
+ee
+
+ous A Hall “Hus
+
+TH say
+
+i
+
+{ eM” aa
+
+> al
+
+hal |
+
+Te A Hel fh TST ETT
+
+TH oet eT | ST UT
+
+au
+
+roel
+
+ale Fed FS) WHA
+
+2 ee di wel ae 2 ae
+
+a alae
+
+eM Wz Shthat a fea
+
+13 Ges eT"
+
+I Te TS 4 at we
+
+én ail
+ae
+
+a THe
+aft |
+
+hl 7a HSM Alaa Walled
+
+fae Rem Wo eM ae TA
+
+He A aT WAAR a
+
+CHA sb AePY A a} ST wr ae eit ah) at a
+
+Ser
+
+i at Tes
+
+4 Gard ae PF
+
+wd We teas | Sa
+
+THORS Sh Ee
+
+Fa Wa TAIT a
+
+ait sei TE |
+
+44 Sa al Baia & fe
+
+uted a8 a
+
+y
+
+Ta fe 4 Sal Walser fh
+
+ary
+
+[aT 4 aU fall Sah
+
+ae 4
+
+area wen tT we # feu cer =
+
+a a | eae
+
+Aen,
+
+FU Tee Ss FS AT
+
+T ated Gee A a aa
+
+al Wel Fel HPT Aled 4 | Saher
+
+yay
+
+we fae Uae ae aera A
+
+al Ogle Al aT TST
+
+anid fae a WH Weds Tet
+
+Sah Poa at War cra et
+
+-
+ih
+
+a a del ved-farae 4
+
+TSE 4 WE | gale Sa
+
+ard fate lee A oer & fer we ferers fryer fava feed
+
+a ft 4A frase a oa aa
+
+afer FF sa ate a en ears | Se al aa Aw vet
+Ge ven 2”, Pare 3 en fees fe a eT
+
+## Page 7
+
+wa fae
+
+SY SOE By Bee Pea SHH
+
+afearn ve frat a Ter seed Ere aT | SAE, ST
+
+an fod 4 Se aed ares teh He etd A ford Sire 4
+
+Se Ha wat faet—150 4 foe 681 ae wate et om,
+
+waite 3 Aust @ shen yo aed 8) Se aes Ses ay
+
+Taste Al ail
+
+Ta Ra M1, STH STH A Ve a ah
+
+=, “Wel Sisi F150 7S 6s ate et fet) ag BA & fore 50
+
+atm El ATA
+
+aa €| SS We 8 ys Hs Gen A ST
+
+al al |" gan areth wid fe A S44 Hl fel A steal ah
+
+ae Hoa eG Rt ares Toasts FT aN fea |
+wife ant fart
+
+ES
+
+3 der, 1979 a fea | arya & olerareren arr A aera
+
+We Wa Wad Sel AM, Fea a Ge Soca
+
+qa ea] q 3
+
+yi | wa sea et Gaert sear set) fates
+
+Sita 4 ateataren am 8 watsa wae We itera soe aK
+
+ara as aH Mfrs sent Te | STS H fore sel apapHT
+
+PERCH Al thle Tea Fal | ares ae -TSa SEST Sa
+
+qea-forat sik ate aed efter §— site Hirai at ifort a
+
+UST SRT
+
+Wee SA | Fel SA Tae hl ASIA Be TE | SS
+
+Yea Her Wt Sl ota fee a fea A ands sie ly het
+
+Tal | stferara
+
+al am & 3a 4a 3 ay fava S&T a oo
+
+fepaq |
+
+wa Tae Sl So Se Oe ae TS eT ih Se ASAT A ST
+
+## Page 8
+
+wig far 1
+
+TN ERAT CPM | GAL fer Fe eT aE SA WE AY Ae eile | Sah
+Wl a AM Saw We Sad Te SN HTH Sz Std Se Fafa Sl ss
+
+a0 fa Geet at aaa re fe SS se ada
+weqeazer 4 Vea | sel dard fers H yeterd @ ara a
+feat ae So Seas aM OMT Set Wa | eT SST
+arate He tet faeet a a fear, a) wea aa
+Ta Te ot si fee a ie A | ea ST ie
+ea Sra Stal Bet aes F ysi—"qa sad aa aH Het A?
+Tnsit Get fu dss Tat Ha F GEN ae ea Ta I”
+oat Hl aed ele Al steer fren Bu wa fate A eI—"“ae
+Sal | Te Sa ae -aesT eZ, Paes SST A ae Se
+21 33 wos wt"
+
+fre SSP Oh oe A Se tS eT
+Serht Sahl YS BHT |
+
+aft ora aferataren am Hi waifaa ee at, ae ween Freee
+af | feat & ore Ae Wea eT | Se a SB Pet A I
+als Ted ot sal aT sit 1S aa A atte Airest St aera
+ON Sei TI 24 Me foam sets We He a
+aR-AK ste 4) STH TE Wen sik se a Tera a ae fH
+Sa Al AM A Haya wes Sal afew |
+
+ae ore oT, rel area tredhey sey eH Ser iy street a
+ToS Tel ol | SO AR A Ss CR Se Be
+
+## Page 9
+
+12 on Te
+
+SMA #1 Sal) SA HAY Se Y Ua el AAT Asa
+et Wet TE | Tat Han A Wa He a vd a wsa fae =
+fares cee fee fe Seiael-Gore A ent AVA Syl Hl
+Get FH AGT | SA Ss Sa SY Haat Ae ae HT at |
+
+ona fae 4 as fea oF fear at et aan fen
+Sat aqafa Hit | fer fie saa wen siftardt a, gate
+Se SH Ya Sl Ges Saha S ct | ya Tae 4 Set ws feat
+ate wea atraiert A as TAI
+
+a feat oer 8 area ea i fees Wh IR Se aA
+
+Yel AT Aes Force eA TCH Th SHA GAR Seth HT A STM |
+Salat BH waeeit Sea Gets afew | Passi Seal a ata
+Sel Sal Sieu— sa We Al APS Se HF FAP SAT HS TE
+4 | qe fae 4 Fa SIS Bs ae Sa fer |
+4 dae waret da vara 41 saifere wa ste F are Sia
+Teg Gal Al et Ter a ae Bo sme feat ae faesth
+aeal al det aes | ee SRS fase cea] a) uafaa Heh
+SrA Cet Ae ed AI
+Weel het
+
+2 1922 Fane A een fret & SR as ees Fi
+Teh Fee Peper | Sat Fas aS STS APT 22 Gers Paes
+al Uh WaT Tl are aera SAT sr ca St | SHS veel Salt ae
+@ eas FI ae A Ta A ee et
+
+## Page 10
+
+wig far 13
+
+Tei Ta aici S aed Sel ee A SS Sa a SY
+fee SaaS state Al tem fea ara | Sa Bas Fe STE
+eat A Yt aR GB Be Te AM
+
+alan std fae ah) ae stele Se art A tet Pen
+Gla SS GAT 15 ae | ea 22 Sa
+seq fase neerat aialert Sl Car Al Ha S? STH ew
+Heat 4 ret a eer ati aa seer sass fast 3 ath
+he AMM aa See I | TR Sa el APA Saal Feral aa
+Te? Ta we H faa 4 sifeen sik spaeary anatert ho Wht
+amd Te Bl AC Bl BA Al ea A AT aga 74 | FA ss
+fava Fura fe Ser at SeTet SI a
+Sree ara wares wile St
+
+anya fe 4 Bees, Sze sik SY SH Hilal Hl Ser
+hl Ten Sera feet | a Tat Satie Sas a A ed, St
+edt seen Sach 4 A GS Te fee ag A Ze cada wre
+cal Gl Gab 31 Fae fae SH Asa Hi Hila Ht se ASA
+apt Geo St Se | Ser aT srsnet @ faa wEA a fase aa Fi
+ad @ Aral A seh fre wa se Sas VET aew— tar
+
+drat ord fae 9 gan at arfad Hear sae at FEAT |
+
+S04 Serr Sa ved & fea ae fae Fee les
+Fy att a TTY | 34 lew al cet cst Ft ald Held
+Sued 3 ars fart on | wala Se ae ae ae eer eT TA
+
+## Page 11
+
+14 aT ar
+
+fered a Tae 1 etaers aie Werle wT sree SAT ITE
+at | Sas FH Wart ssa Te Sn SS Se Herat
+Ye) wel ae Pera
+
+fea Fi aera 4 dent Sl Ss VERT aT A, SA ae a FT
+Gre 4 Sin we at ae faa I Ufa HOH SAS AA Tet
+ila S at 8 aa aed 81 ae saa Tet or Sede aq TTI
+
+ales 4 aya fae FS areal A at fra | We eer
+eT Fara”, Ge Se Sie! ata Gee A wl Ura
+al YA Bl AAS td Gal a Fe VPaeTaMT Al at faa —' Fe
+Sh) Hae el Ua Hayes aT 2"
+‘ordt wal att &
+oma fae 3 aT sept ac Gers F aes Tse a
+difaa sei var pila & art 4 a fae alter seat else
+ald, Sat St Wa WET Bed A, HAM Sele A eae
+an & fae seq al Geil ne | es Hifi wr gra a
+SH Ta fae el Set sie sepite fear! Ser sa oa
+Tal SATS AIS | SSH WR GS Sl Wh Vd SSE
+aera yeal at | oF Fan SH are WR sila Bee I STAT
+ar | ira fees ae ed et az et |
+
+wee wed fale Ft cet Ba a Fe eat I Stet at fee BA
+
+## Page 12
+
+wig far 15
+
+ret er eet safes | Sah fer wee eet Tae Hi aE a TSH
+an oR Prey fem we fer Fafa Ser |
+
+ae fea cat Pehe ST Tel 1; Peed Sih Sat Ta salto
+Va a Se gerard fae a A ee ws sik ore ae
+Suh We Sh a HAS Ga Tee eat Bl Gal Ae AeT y
+fa a Hel SI
+
+St FS wd fae 3 oe ye fern oo forse aa He
+ae Sle hl Seed ANA Al Faca few SAT ET S| A
+Tae Wea Al Se Tel S| HE ass HT A aT at
+Yaa we vias ae fern an) Fa ee at erie afer 2 ar
+ail Uidat At at | Taqan, 4 ere ge st gira a ar ta F
+An oy wl Far ah fers ae A alee ST tere”
+
+we fos AAI WEA Wt | veel Se He fea aH
+TATE sant Tel saa ate fear ale A a we HT
+Tag wea faa H are Fwd | se sere Chee Ga
+Dard’ Haier Bowe ane fra Wi aw Gel Se Te
+pica H STH yest isa fae | atfast ara:
+ST aM aeel ea @, fared fee ei SS GR FO a fe
+aeraad ee a 74 |
+
+aug ane fae aa foan Sed Pa A | Ss TT
+ya al flees Bars ert | Stahl atet Sei fest sea aoe ai a
+
+## Page 13
+
+16 on Te
+
+AN A Sebl Wa AAS Al BL Ses Wen fA TTT a
+wilt Ware A
+
+at H sf pra fae Seer aei aa) Sat fea stearett cet 4
+THe TT Fl APS feral Wg TS Hl Aa i fete Fart
+eat feaan fe a wa anes att fear) sare aa
+Feel bl als Yl Saad M-TH Ale WPS Ae | ere,
+Se Ses aT fat a, 1a fae SH ita ar et atest aT
+be] Sean ateenrt 6M Hh SR ae Hilal Al Ta
+Te Fea AI
+
++
+
+wed fae 4 sc He Fa et ae Tea HST
+ted eq Al Pevera feet | Sais Tia & eat Al fea Ht Step
+WY SM Be BE Ua VAS Se Se Hh AT HT PS
+ey & vbr at oft Get 1 vay fara | Sa ae wae THE
+Te Ta | SeAe So AT HY CM See Tel SIN ae AS
+are eam | few er A Ser pt sent a an A ae gaa
+cata of SN Sa A Sa Say Ff ey HHT S, Fe TT Sa
+a ind fae ah ut capers ata 2
+
+Ss
+
+HEL Fl Ad Ae Val Sen fh Sas Bes aes TF
+4 sare ea Hl Wee CTS, a Sa aa He Hl Prega a
+ane amt at feat | Fa wa fae HT Sa ae 17 SH aT aT
+aaee sel 9, safe freean vel fara a ah |
+
+eae Hea I iT aren ars aa “aera fate Sa A
+
+## Page 14
+
+wig far 7
+
+Gel 2 Gara = Hepa Sea aM Bel sah AT Far Ag
+oe GR AT |
+Froant ait fies
+
+rd Toe 4 Scale A Hl AS Waleed SI | SAT SecA
+af fa Sra aa aga Ber 4s Ta S ae BA A Aer
+PUA Hl WR AS A | SAI ATA ASSIA HE AAT AT
+aie fae sae aaa TT |
+
+Sel ah shifdeer! hl aes, Fa Ae Saha AP A sa
+al Saat Al shifd sl Ue wert ype awe fear) Sat die uz
+‘Fass ea Sa! Al Sea Ua Gepis Hl WAR AA
+aie dren et aera earn anfe an fey sear arse
+Sees OU hl SST eh fey Bll HEN St AT!
+
+ae di fea & die, g4 Sea Hl virard fafa Se A
+chs SA SUT | Biden aw aT fest GANS Yas AMT, 2a
+Tet eh SPH Fl Wee Heyy] si an) “Aaa ATA
+Wo Gees, Sisal Hh Pa st GST Ht Hews aa
+Gaz SN A Sse, Ses Penetd | a Se Sera ahr lee,
+
+Te Foren aet aa Uo wicca H fast ore a ae
+G-Tech eI aca fe sa SN Ha A area Sq | | a
+fai a fae ST Ss -as Beare SA Se TTS
+aa | Se Ales F ssi A aon sere: cena fae
+
+## Page 15
+
+qa wh ay
+
+arg al fame WS | a Tae AY Sera
+
+1 EPR eH AT aT HST PT
+
+= =
+Te ted er |
+
+ep Tot a
+
+a STE A We oa a Sa oR Pee
+
+aa waftran crit a stent ther faa
+
+To TSR St Se Se PRAT Set
+
+= ="
+Sa aa fran & fa
+
+a
+
+ah cet As At Bae
+
+1a aa att 4 fae 4a 2 aay a a
+Wa Wai fae 1 sitar S feet ae We aia OA
+yaa fat 1 ain Sa Pe SM yfera ora Preaa ar A Tas
+
+=
+
++:
+
+BN AN | Te A a ag 2a
+
+ay
+
+aon Met & tad ar
+
+ana
+
+“ft
+
+ak thé Ge 8 a arent de ay fez
+a fae at var zai sen fe 8 Fi
+
+T!
+Fry fet eS
+
+he fe-ya faeet Saati
+
+1 We Uh BT Wl Uh aA
+
+fam fea a) Sea Re can
+
+Sah yey als
+
+= ei] | afer =r eh
+
+ay Ta Seen Utes salle
+
+al Al By #1 SAleaw Sera WT
+
+Tae
+
+Cor + *
+oh) FTG chsh el 4ed
+
+a a) Gat pifrareal H pA Tee
+
+ol Tal CI oh Tere Ylers
+
+4 0d Tae Hl e-ae AT
+
+care
+
+a| a se aren age o ted a
+
+2iz wet S Sent te wa
+
+oad 4 faq wa fae a ae Ae
+
+Teed vel art wat |
+
+El eM | Ufeta STA Tle
+
+a a ws ties 3 ae
+
+foal TH 60 Ba ETS FI
+
+SAT Gt Ft WF
+
+a fae ai fear Peat oT wee 1 ett AST
+
+Warseant Be] Hebel on? Fad rd fae a ia aos Sareea
+
+## Page 16
+
+wig far 19
+
+ee 6 ee ea wea ar ae) a a carers ae
+Sree | STAT STATA Te ata Ps Peer feet Tey |
+
+ale Sane Hl sala 8 ana fee arlene serset Ba
+ed al 39 Sl Sal Stisaal at aeertt ves Fi 60 Sse Sa
+sal aoe & ead ay yeitea Fo wear v2 1 geiifera Sara a
+sata Th SS Tid Tel a easy Tea Set feat Sh
+Te Bel Sa (SMTA) Fel Bs | Wd Tae 4 Sa
+a Tae Fea ik a B SAA FS TT |
+
+4 Wait eat SR aS Pret so are 41 fee ei +
+anor 20, Taz gerd sik all H ars Bh ga ars wat B
+Sah WE FST Wa Hi Ged AN SH TI Gas 41 ae as
+aafere aA dal 41 ik qa cere Teall orl ett sera Tae
+at ara aed 4, Sa a aga St es Sn as aT
+fara aed Ff |
+
+GR feat a ape Sao Foes a eee F | Pe Te ST SR
+ors fear sila H far vik GHS Ca 1 3 aa crea A
+Shild Shl Sal Hea Ted 3 1 Set feat SSM SATA se stance’
+Teh see) A aes certo eee fora ik Sa BIA SH fora
+ae ferent A | Te area FT ae a ae HT eT
+weet a Soa eet & fe ws Pasar Prearen| sad ea
+fae 4 ae satlcraifell al oftey ea eu cra fern |
+
+=
+
+## Page 17
+
+20 and Tae
+
+qeet Sy a fash araiae Hl Ge fear aT a, asi
+Hele HWE G1 Ta | SRA Se RSH a Hae Tea BIR
+amd fae fret ee fea | Ba a Aad A ya | ay, fe
+a? ma fae A GS art ae Sat ae ae ai ain
+micah Si we aaa 4 witel ga & ale wa fas fir
+put AL Tel Sle |
+
+aac
+
+facet A we Gar SiH Geert Ae al Ta Tae A
+Ta ST TWA | We Wea aa Et ee Se aaa ain aq
+wa-gat 4 fhe ard | wlfcaieel & sera aie Ht el ae
+We | Sa We ae ela ae | ra Paes A at at Fear a
+an far } area aed Ste aca fore fore fH ofa Sd VES
+1 ah | Sa oh a Taal Ue aR 4, saa Te a
+aT |
+
+a fell “ferent gars aa" are wep siren cer aT
+TSR ATA Sera “Tea Gaal Wada Ga" ee Pea
+Tar | Gers facie Sel UNG F Wands Hl RATT ET FS a
+Al S274 ATI
+
+Wa Be ay SH Wha Sal @, sae freRe F sie
+lech sl, ssi Al ua A wess H few ty ares
+Tal et Sete a | faq St SS et Ban Se eT a a
+
+## Page 18
+
+2
+
+Ted 9? wd Te ao SA Shes & foe Hera TA | SSP
+
+ay all 3
+
+eThATAR Fea Tay ate fara) wa Pe aS
+act mila Screg TS S aa sar A Shes foray
+eter B4 1928 F stele A wep BA] weed Se | we AT
+
+pay
+atl
+
+TH WA Os Es | Ta HA HT Sees ae Pia
+ay fa WR Bl otal Bl feet Be Teh Fada sie Farstert
+
+a Gerd %
+
+#9
+
+Soa We Yt Gee] Ada AeT T
+
+ayy
+
+fee BY A Ua a ST Sey Sea Varela ZT
+
+ard
+
+a at fear aay
+
+ada sat 4 ae aa fea fe ea
+
+Srp
+
+WT
+
+Sa Sa A AAT A CTE Tea Ta Sa set TH
+
+ae ere ch fate aa Aa ee GST “ATTA a AT” 4
+
+38 ORS hl ASM feat a SAN APT A Sa aera F ar
+fora | sae Fal & SSpT Serre Cen crstgas | ters STA A
+
+at HSH & fam UN ass Aer aE | eifoaicat A Ge
+Ba Al AT ael ae fea olor Sah Be Hl Ta ANT
+
+Gd it) Sa Waa Gale AH Ue Gers quiets 5
+erébarst mr eest & fear yfera 4 enfeal & aril at ches
+
+|
+
+Te &t fea | Sa iF
+
+a a | fag Aen AS aK
+
+Aah
+
+mat art et a
+
+facet vel ge) da ua yer aiste
+
+TSteh AA a
+
+Tea Ol, SR SM Ae] A SAA Te TST
+
+## Page 19
+
+22 on Te
+
+al Bld Ul adi YW Ver THA | Bee SNE Ale evi | eSATA
+ae 9 ain a ei SR | St HEL ER AS OTe
+74 | Wek El Ah HET He erat a PAT EU
+
+Ste tard h sre wife wt states ets ee | Sh
+ras teen fe a open St at Ate ar seer ST ae wate
+on Stell | fare erdt—ars ar atest fear en) Seg wae A
+fa ae wate ait eeraett We Pre Gel | oT Fae SIR ISTE SI
+Fe AT io Tey Fee a Gate hi Trett oe S ain aay Hiferar
+Sad SSF St Ft as Peer A ee wl | Se STE
+Aged 4 Fe WS aa Te AT
+
+fea ute 8 dt wa net dag) wane A aed =
+Tale Gas Tera |
+
+fafa fer a ar) 34 2a ah) Sled Gfera ard A arez
+FPG Sik STi Alek SEER We aR BT) SET A
+seh Us 4 geil fran seid fae Se tsrpe wed A Saeed
+Weta At TS A HS St Ale Gastees Taip Vest, Tae A
+arr fei 4 ares ell Sen et HR Pra fe 4 A oa
+Uk ett SPT St | TSA SSA A eT STIS SBT SIT VT Are
+aa 3 yer fear a, seal ert A wee aie fa we sie aied
+Fer PR ALTA Ta Fae IN Wanye ast Fae S Te ae
+qiera 3 Sr Sra fearen | a crt racer Sh wep cits H ya Ta
+an set 8 qa rea am
+
+## Page 20
+
+wig far
+
+23
+
+Ged = a a FI wer on sez A ther te ain glee
+
+aT
+Dat UPS AL CT |
+
+14 Teel SS SA ae Ge fa wee
+
+gat fea cree =
+
+aul asa & far
+
+FW fran a—“arn
+
+€
+
+an qt qed
+
+Hid Al ace a fra wa) Blea AT 2
+Tarn & Tae Sore He Wee Al Wee
+Sarsaaral Wareaa Sar" Br APT eet areal Fo sifena ar) gefera
+
+a1”
+
+euch oe al
+
+7 “TSS
+
+Hal al Ae Tal ae Ty
+
+hl Seal A fares) ATH
+
+T hl fee fear
+
+Tih Sse Hh EAH Wes fer Ci
+Ba | Hla SoS Ula Baa SH Bea A AM aS IT | WSs
+
+“ft
+
+a fae, crys aie Sagraz 4 AAT et
+
+raz a aq fea
+
+apa Tae 4 wee Paes
+
+Fa Hl A TA
+
+al ain Pat We Sz We
+
+al, el areit, sit wa
+
+Fltaert wradhay
+
+SR Ae Ta
+
+Sh Ms A AI
+
+al det at iz
+
+wits fe a aan (rd fe)
+
+Ma St Veit St Fea
+
+a
+
+a feed Hy ane fara
+
+1t
+
+1 a a a oa ep a St
+He We AR Ba BI A
+
+en 4 Tet PAT A
+
+ass Teh Usa ar tg at aa
+
+4274 | ted eer firegfee are afar yfera i anil S sa
+
+Tel on ferg a ai wae Spat Stat FB ger aa TTF
+
+ae fre |
+
+## Page 21
+
+24 on Te
+
+Wh TH het
+ufera sre fae sie enpe al gee dt tet fed Se vars 4
+
+Wal | BS ate AA AEH Ba WA |
+
+ate 1929 8 Hee Steet oo afeae fect Fa a
+aeM GH BI Hea Aiereiies ata f ana a ty
+Sepa UI A aed Ai, faqs ss a Hh fed Hl THAR
+Tea St GMa at | aie orteeh se a ath ae Sc a
+qT Av Fass Alea Al STAM ash Sed AT Sele ia
+@ Sor sik a ht are a ard | “Tepe GaNrereT Fara
+eal” 4 4 We wl aise al te al fares fa
+
+fide ated at gen ach awifrant aa frat fay
+oe tht Saal Al Olea 3 aga Gard “feqers Farrar
+yards Sar" 4 aa fear fee sta Vet ara sand Aet EP Sl
+et | HiHa hl AST A Ee Pay Ald SE SH
+TOR HLS Sew | Wana Sa A Sera BT PAY Seay
+hl SAM TH Tes ah fea Se Sl Me S HIT HET Ze
+ae ar caer ‘ta ana fee aie Gehval aT Ss
+feretl HS al as Peal | SA Si Hl Sel SER chara
+ate 3 ay hart sik Fea EM ar ates fen | Seah far
+8 1 ay Sard 1 hl aia Al
+
+a 1929 Hl 8 atte al athe Ar @ Silas aed Sey ai
+
+## Page 22
+
+wig far 25
+
+hl ST) TH SRL a | are HT arta] aI Be
+WAR EM 3 a fate areeett Fs Geqa fH 74 | Gee
+qe Fae A eA | AT SE UH GE] ST
+fr ORT 4 aos Passe hr STAT He SA aes
+hl GMA al fea 1 sich Sal aad SN A ue aa fing siz
+TeeR PaCRe Cal, SUR AeA Te TaT ay Mt ART Teh
+
+ae Al Ht sears] Gare eh) aeeil ar aya set ef | ay
+Ta | APT SUL-SeN UP | Hes TT See Se Te A i ae
+
+Saleh ane | aa aH evel Hl Te | ere G1 hood fe
+TA Wats ST aM A Gen St ste Gp HT PT ST
+Te ft) aetect ar ate ‘ceifa ara x2" Hae SB afr ter aT
+Yeas aeit 4 Bees We Wes WE | Gel Hae wa fae
+3 aekyex cw i age 81 Sh eel H fede of saa
+Str fers We te Ts faq Sri silica 4 are frei
+stat aa Fo ba 7a aa a te ae aa aR os
+Sala al Biel ae sags, PG! saifteH Tal Al SUT Pepa I
+SOT STA Tl TST AM | SA SAT A AS fave Hr a atria
+feat ‘wifsee’ SI a ae A aa Tar fates ATaER
+Ht TAT |
+
+39 Al Hh AE ACHR Al CEN el SA hae HAT Ta A
+
+Sy Yodel Wa) Hea 4 get & san faerie een aa
+farn fer PaaS AM ESR TA SAP ST Saad | HERAT A
+
+## Page 23
+
+26 on Te
+
+SH aa Bae GEST BR ge PHT Tes | hes al Tes HH Taz
+Shild Se a aR Ta PA ae Fea a | SR A
+fase FRCu CPR Peal Sl AE Weda-ha wb A 4G yias
+@| 7a fae Sik Sah Se el SER Se as CT TT |
+
+We] ar ana
+
+alvaad & fees sealer 4 aaaig eps ge | SA Pes sir
+ata Hae Sa 8 Shas caer Tal Paar Sra a Se aT
+aisr wel fread a1 Se Bl We A Garey arn a) wad Fae
+an se ale a adi sears aed & Fearn ast a
+faraa fear) a fate el ae deep fagara en fe ee Hie
+Enh Cia Sed Gen fee sts Terese Seal HT aT TEs |
+it Hise ser Ut ae) qa meee A pet fee ae saat
+iT Th faa OT | ae areal F se ar feat eg
+ard Ga 9 Stag el Carn | Se Peal at et aT ars
+} 64 4 fq SEH INN SIM fea | Sah Be Ta fae a 32
+fea cen srrert feat
+
+al
+
+wed fae sik Sth Beara wh fares APSA YR EST
+
+a yeah = ad fara al ar are ain ean aterert 4
+Uae Fl Tet TST WEN Tee S| Serer Hh HAL A foray at
+ales al Wee al Aiea Aal Teva et) apa sal eee Si-seT
+‘
+
+Hoare Aa Se | a‘ Salat STE Te" AT A ae
+Mt YS SHH Be BW Hered F vast rd A
+
+## Page 24
+
+wig far 27
+
+wd fae AQ aeehyat ed 4 a feal— “aie wet Ga eh
+qt sah fal sTarst Tes Sl SIRER SM WE S| SHA Te aT
+PRAT aa BART Stel RST ah BEM A AAT Ae AT) BAS al
+fafa FR HST TA a S| Sa Al UNG Blea Wa
+SMI Bleu, ats SA Sk Taaea Sl Ga |” Seal A BS
+PA FT Sea Sl Vet WHR A oe fea san aT fash
+ERI Sa erfsret B1 7E |
+
+aa 8 sere 1 frota at fears ra fee, qaea 2k
+TPS Sl He eT Ger G1 es a ase Tas
+ACT Sit Sa HT UP Bet, GA Bel Sin Ga Tet TH HT
+hel he El UST YA 7 |
+
+anya fae Al Aral at ard areil at) Sa we wax Heit ail
+ST HOSA Wes I St | GSR HS Fa ais ah
+Tea Had ae srqerey fara se on fee sera fae at Bret
+a) Sel | Sesh SS Sh Ted GAM A FA Se al
+
+fora faq aul gael eerc te | ater a ae esa fea
+B24 AT GA 1931 Bl SA AM Sl PST S ST eT) Sah
+qitarsrl am Al sta le ae at argue ei stag | set a
+oh SA cial RT we fae, Paes SR were I fra ara
+Sts fea ys ster 23 aS al Hiatt eS SA ae |
+
+Talat & fea 4a at sala wanes Pata 41 a wera
+aa te | HT OR Vee A act, SH ald Sl tia Se Cael
+cpl | TR We Wa Sal fe Gees hl Veet A Sl SPT, Sah
+
+## Page 25
+
+z
+
+28 oT
+
+ae we fae el ae aa A wenye ar aa atieat Sie
+
+Te HT Hh el Wl Wes | Hie Tes HT Sa SA
+THe] Say AT Te HY Sret fera | | a Ha sal a! Year BW
+a Were AT se oo We Tears wa a ak
+Taal Gl Stee Fie Al ART SSA |
+3a fea Set Ff feet 4 srs Ss grey wel era | ast we
+ata 5 stg 1 gat fea sa ah & chan & im ae 7 aa
+eu fe oe mist oe veel dt cea fear tran @, saa fred &
+BMT aga Ta BY S waeps Aah fat G ora, Se srs SI
+TE | Hel SSI MT Sd Sl Sa Hl Pe A TM Bays
+ait tat H Se Lae VL Ves et Sa Mele a ra HT eT
+Tar M1 Set weet Hl Pare Hi acai et ars Tet ai) Sa
+rent Al areal Hh fem ee set cit viewer Set aT Te
+Tid |
+vada & Hara A charges erst sr aera G4 are
+
+4 SRT Hl See A srerafe ste | a fae alee
+erent eel va ta aie a a) are, oh ava fe aT ae
+SU Fa C3 Hh FH HEF AM, ST, AHI Sarg
+al eld Wea say walled At val S| StH ales, seas
+FMI PA BS hl oo an wee Saad Gel H fw
+
+HSH Ser
+
+eles

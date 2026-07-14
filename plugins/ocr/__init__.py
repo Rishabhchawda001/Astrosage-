@@ -1,0 +1,1 @@
+"""AstroSage ocr plugins."""

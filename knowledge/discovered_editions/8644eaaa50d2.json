@@ -1,0 +1,29 @@
+{
+  "title": "\u0921\u0949. \u0939\u0947\u0921\u0917\u0947\u0935\u093e\u0930",
+  "discovered_at": "2026-07-13T17:20:58.754774+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4206761489",
+      "title": "Keshav Shatakam : Ek Samikshatmak Addhyayan / \u0915\u0936\u0935\u0936\u0924\u0915\u092e: \u090f\u0915 \u0938\u092e\u0915\u0937\u0924\u092e\u0915 \u0905\u0927\u092f\u092f\u0928",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://haridrajournal.com/ssah/index.php/1/article/download/50/44/45",
+      "authors": [
+        "\u0906\u092f\u0936\u093e \u0938\u093f\u0926\u094d\u0926\u0940\u0915\u093e"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4206761489",
+      "title": "Keshav Shatakam : Ek Samikshatmak Addhyayan / \u0915\u0936\u0935\u0936\u0924\u0915\u092e: \u090f\u0915 \u0938\u092e\u0915\u0937\u0924\u092e\u0915 \u0905\u0927\u092f\u092f\u0928",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://haridrajournal.com/ssah/index.php/1/article/download/50/44/45",
+      "authors": [
+        "\u0906\u092f\u0936\u093e \u0938\u093f\u0926\u094d\u0926\u0940\u0915\u093e"
+      ]
+    }
+  ]
+}

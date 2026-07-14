@@ -1,0 +1,104 @@
+{
+  "title": "\u0928\u093e\u0930\u0926 \u092a\u0941\u0930\u093e\u0923",
+  "discovered_at": "2026-07-13T17:21:54.444618+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "narada-puran-gita-press",
+      "title": "\u0938\u0902\u0915\u094d\u0937\u093f\u092a\u094d\u0924 \u0928\u093e\u0930\u0926 \u092a\u0941\u0930\u093e\u0923, \u0915\u0947\u0935\u0932 \u0939\u093f\u0928\u094d\u0926\u0940 - \u0917\u0940\u0924\u093e\u092a\u094d\u0930\u0947\u0938",
+      "creator": "Gita Press",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "naradpuran",
+      "title": "Narad Puran",
+      "creator": "",
+      "year": null,
+      "language": "Sanskrit",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "geeta-sangrah",
+      "title": "\u0917\u0940\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u0939, Geeta Sangrah",
+      "creator": "\u092d\u0935\u093f\u0924\u0935\u094d\u092f \u092e\u093f\u0936\u094d\u0930",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7124562087",
+      "title": "\u092d\u0915\u0924-\u0926\u0930\u0936\u0928 \u092e \u092c\u0930\u0939\u092e \u0915 \u0938\u0935\u0930\u092a: \u090f\u0915 \u0936\u0938\u0924\u0930\u092f \u090f\u0935 \u0924\u0924\u0924\u0935\u0915 \u0905\u0927\u092f\u092f\u0928",
+      "year": 2026,
+      "is_oa": true,
+      "oa_url": "https://www.anantaajournal.com/archives/2026/vol12issue1/PartB/12-1-13-743.pdf",
+      "authors": [
+        "\u0930\u0940\u0924\u0942 ."
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7166588203",
+      "title": "\u092e\u0928\u0935 \u0905\u0927\u0915\u0930 \u0930 \u0907\u0924\u0939\u0938-\u092a\u0930\u0923\u0915 \u092e\u0928\u0935\u092f \u092e\u0932\u092f\u0939\u0930",
+      "year": 2026,
+      "is_oa": true,
+      "oa_url": "https://www.nepjol.info/index.php/sambahak/article/download/96280/72827",
+      "authors": [
+        "Aindevi Sharma"
+      ]
+    }
+  ]
+}

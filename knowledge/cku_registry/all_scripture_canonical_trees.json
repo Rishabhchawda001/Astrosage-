@@ -1,0 +1,292 @@
+[
+  {
+    "scripture": "Sadhak Sanjivani",
+    "editions": 2,
+    "total_ckus": 1439,
+    "unique_ckus": 1435,
+    "verse_numbers": 96,
+    "canonical_verses": 81,
+    "edition_specific": 15,
+    "canonical_pct": 84.4
+  },
+  {
+    "scripture": "Valmiki Ramayana",
+    "editions": 4,
+    "total_ckus": 26871,
+    "unique_ckus": 26871,
+    "verse_numbers": 516,
+    "canonical_verses": 232,
+    "edition_specific": 284,
+    "canonical_pct": 45.0
+  },
+  {
+    "scripture": "Rigveda",
+    "editions": 4,
+    "total_ckus": 5827,
+    "unique_ckus": 5827,
+    "verse_numbers": 109,
+    "canonical_verses": 43,
+    "edition_specific": 66,
+    "canonical_pct": 39.4
+  },
+  {
+    "scripture": "Bhagavat Purana",
+    "editions": 5,
+    "total_ckus": 35064,
+    "unique_ckus": 35056,
+    "verse_numbers": 416,
+    "canonical_verses": 163,
+    "edition_specific": 253,
+    "canonical_pct": 39.2
+  },
+  {
+    "scripture": "Atharvaveda",
+    "editions": 2,
+    "total_ckus": 5731,
+    "unique_ckus": 5731,
+    "verse_numbers": 61,
+    "canonical_verses": 23,
+    "edition_specific": 38,
+    "canonical_pct": 37.7
+  },
+  {
+    "scripture": "Tukaram Gatha",
+    "editions": 2,
+    "total_ckus": 1578,
+    "unique_ckus": 1578,
+    "verse_numbers": 27,
+    "canonical_verses": 6,
+    "edition_specific": 21,
+    "canonical_pct": 22.2
+  },
+  {
+    "scripture": "Vishnu Sahasranama",
+    "editions": 2,
+    "total_ckus": 1286,
+    "unique_ckus": 1286,
+    "verse_numbers": 523,
+    "canonical_verses": 115,
+    "edition_specific": 408,
+    "canonical_pct": 22.0
+  },
+  {
+    "scripture": "Brahma Puran",
+    "editions": 2,
+    "total_ckus": 5728,
+    "unique_ckus": 5728,
+    "verse_numbers": 276,
+    "canonical_verses": 2,
+    "edition_specific": 274,
+    "canonical_pct": 0.7
+  },
+  {
+    "scripture": "Vidur Niti",
+    "editions": 3,
+    "total_ckus": 835,
+    "unique_ckus": 835,
+    "verse_numbers": 143,
+    "canonical_verses": 1,
+    "edition_specific": 142,
+    "canonical_pct": 0.7
+  },
+  {
+    "scripture": "Shiv Purana",
+    "editions": 1,
+    "total_ckus": 491,
+    "unique_ckus": 491,
+    "verse_numbers": 184,
+    "canonical_verses": 0,
+    "edition_specific": 184,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Harivansh Puran",
+    "editions": 1,
+    "total_ckus": 11870,
+    "unique_ckus": 11870,
+    "verse_numbers": 220,
+    "canonical_verses": 0,
+    "edition_specific": 220,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Naradiya Puran",
+    "editions": 1,
+    "total_ckus": 9763,
+    "unique_ckus": 9763,
+    "verse_numbers": 736,
+    "canonical_verses": 0,
+    "edition_specific": 736,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Kurma Puran",
+    "editions": 1,
+    "total_ckus": 6189,
+    "unique_ckus": 6189,
+    "verse_numbers": 347,
+    "canonical_verses": 0,
+    "edition_specific": 347,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Vishnu Puran",
+    "editions": 1,
+    "total_ckus": 6369,
+    "unique_ckus": 6369,
+    "verse_numbers": 170,
+    "canonical_verses": 0,
+    "edition_specific": 170,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Linga Puran",
+    "editions": 1,
+    "total_ckus": 1760,
+    "unique_ckus": 1760,
+    "verse_numbers": 181,
+    "canonical_verses": 0,
+    "edition_specific": 181,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Matsya Puran",
+    "editions": 1,
+    "total_ckus": 859,
+    "unique_ckus": 859,
+    "verse_numbers": 307,
+    "canonical_verses": 0,
+    "edition_specific": 307,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Agni Puran",
+    "editions": 1,
+    "total_ckus": 778,
+    "unique_ckus": 778,
+    "verse_numbers": 395,
+    "canonical_verses": 0,
+    "edition_specific": 395,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Padma Puran",
+    "editions": 1,
+    "total_ckus": 411,
+    "unique_ckus": 411,
+    "verse_numbers": 239,
+    "canonical_verses": 0,
+    "edition_specific": 239,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Skanda Puran",
+    "editions": 2,
+    "total_ckus": 841,
+    "unique_ckus": 841,
+    "verse_numbers": 55,
+    "canonical_verses": 0,
+    "edition_specific": 55,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Brahma Vaivarta Puran",
+    "editions": 1,
+    "total_ckus": 442,
+    "unique_ckus": 442,
+    "verse_numbers": 83,
+    "canonical_verses": 0,
+    "edition_specific": 83,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Garuda Puran",
+    "editions": 1,
+    "total_ckus": 2,
+    "unique_ckus": 2,
+    "verse_numbers": 2,
+    "canonical_verses": 0,
+    "edition_specific": 2,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Varaha Puran",
+    "editions": 1,
+    "total_ckus": 1,
+    "unique_ckus": 1,
+    "verse_numbers": 1,
+    "canonical_verses": 0,
+    "edition_specific": 1,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Vaman Puran",
+    "editions": 1,
+    "total_ckus": 247,
+    "unique_ckus": 247,
+    "verse_numbers": 99,
+    "canonical_verses": 0,
+    "edition_specific": 99,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Yogavasishtha",
+    "editions": 1,
+    "total_ckus": 14483,
+    "unique_ckus": 14483,
+    "verse_numbers": 150,
+    "canonical_verses": 0,
+    "edition_specific": 150,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Brahma Sutras",
+    "editions": 1,
+    "total_ckus": 1,
+    "unique_ckus": 1,
+    "verse_numbers": 1,
+    "canonical_verses": 0,
+    "edition_specific": 1,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Devi Bhagwat",
+    "editions": 1,
+    "total_ckus": 7554,
+    "unique_ckus": 7554,
+    "verse_numbers": 352,
+    "canonical_verses": 0,
+    "edition_specific": 352,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Durga Saptashati",
+    "editions": 1,
+    "total_ckus": 1814,
+    "unique_ckus": 1814,
+    "verse_numbers": 140,
+    "canonical_verses": 0,
+    "edition_specific": 140,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Samaveda",
+    "editions": 1,
+    "total_ckus": 820,
+    "unique_ckus": 820,
+    "verse_numbers": 75,
+    "canonical_verses": 0,
+    "edition_specific": 75,
+    "canonical_pct": 0.0
+  },
+  {
+    "scripture": "Yajurveda",
+    "editions": 1,
+    "total_ckus": 1839,
+    "unique_ckus": 1839,
+    "verse_numbers": 125,
+    "canonical_verses": 0,
+    "edition_specific": 125,
+    "canonical_pct": 0.0
+  }
+]

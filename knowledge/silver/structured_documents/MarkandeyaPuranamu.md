@@ -1,0 +1,2917 @@
+# MarkandeyaPuranamu
+
+**Document ID:** DOC-8F87D4B48A63
+**Language:** unknown (unknown)
+**Pages:** 356
+**Class:** scanned_image
+**SHA256:** `8f87d4b48a63456d0b2f284c27ff8e391fe7dce0a2efdc826f6a841ce06efe7b`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+oo
+
+wards 90°98
+
+DT) o@ avo 209 h0-
+
+## Page 2
+
+EAA AAA AAAI) 3
+Sor) O%Coo S
+XO? 9 Moo é
+~ ( SSSeSg539)
+a sees sosine & Sarpreoy e
+58 bi G
+: ~ €
+TE
+
+Bribe :
+POSN SLNYTS wo aN),
+805), jera[S Mogredho, (d80 1882)
+Teno a0! Aso, aA
+
+ANNIE AY MYNE
+
+ae:
+
+€
+é
+Si
+<
+é
+SI
+S
+<
+
+## Page 3
+
+Do OP DS
+
+anh S OE
+
+(SO arene Sho
+
+BSS adde Ersssw
+Sirersote. .
+8d SHySho Sersx
+
+sg AT sw Ho Siwrsmos we
+
+aod BSrwbo Jord
+
+bod*d) 89 MBed BSyo
+
+dors dhismo Sorssn
+DeagwrSmmos SAS {OF soe
+
+AOS CHDSHyOewre Tessm Sihyo
+Sa ST Spiro
+
+SB Bad SHS
+
+Hols BF Vdvgo Somssse
+
+od, ddainsy. ora CAPS SOStine
+B Sdtigte Sead © (¥en ott
+
+B Sdwgo serps 3 oie
+
+Biocrwsed Bos
+
+ros HiocdrweNsny Iii Faro
+MToss Hiso Foro
+
+Heros woh, Sh Tadd Gnge
+
+SOF Sizomen
+
+[Diryss, SSysma
+
+Pri Sime
+
+THSS Siaxoo
+
+SHOTS tos
+SUSSUioTe wxbesods Séjxom
+ASSom ndoSinddn aio. yo
+
+Ayirte AGIAS Sty wmea-aIgTm 8 i8ive
+
+we Dorsme
+
+al
+
+Oe
+1l
+18
+24
+33
+85
+41
+
+438
+46
+50
+54
+61
+83
+67
+vt)
+Th
+12
+18
+80
+81
+84
+
+85
+88
+87
+87
+$8
+8)
+82
+93
+
+## Page 4
+
+(Fs AmhoFax SANrH
+
+ws ASMNH SASS) Seg Soan-FO8oO Sere seo eo
+
+Peg Tvs
+
+Sopstyn Bamaw Sh Ssoo
+AySW SAbossoas Sips
+
+SPSS Sooo
+Ss 8 °°
+et sm
+
+woody oacswx Forse
+wob,d ragsn Sho
+Body, SHLEdwo Sows sin
+
+sm Saints VOHPNH AS Ar Nerv si
+
+SS'gS B¥xio
+edsr men
+APA S5ysoen
+Sasso
+
+MyMhgom Bay wdRrioen
+
+[orgs Axe
+
+Merw. GOS,., Show sors xo
+
+BrES SS Sd
+
+an SOsres 9 ©
+Syd DASeaxs
+ire Sor SomoS
+
+Be Botrrare Sao
+
+DSS
+
+Sr Shoo SoKSC goa
+
+Bp gso died) 8
+wor S65
+Syd Sra
+
+& £ywd ars BP arr[zh co
+dostans ei coth Seo
+
+ByMwSD So
+DS cod Sti
+
+sd
+
+sonrdes Dd Evan]
+
+Qo
+96
+97
+99
+
+100
+
+113
+
+11)
+
+114
+
+116
+
+119
+
+120
+
+124
+
+125
+
+129
+
+180
+
+132
+
+132
+
+134
+
+138
+
+142
+145
+148
+149
+151
+156
+157
+157
+163
+169
+171
+172
+174
+
+## Page 5
+
+7
+
+POSSE aS KO AgStom Sho
+So Sg Sse
+
+S0gwmyO
+
+SSS
+
+Dorsys 35 so
+
+Sxogs So xe
+
+So Seay dD Sox
+
+weston Sibs
+
+SOdHk NoStag cha Sea SSorang a SHrGao dash tr dhe
+
+gS*d hh roms gore
+
+Deo xerox Sdowo
+
+& SH DS goss sm
+
+& ce WSeods sos owoler moo
+
+a ch Sx Hosros 5A a nur nie “
+
+wsh 0 LSgo88 Soi cooler tes
+
+er) Hos d So
+
+BS thins siSxo
+
+TKS HHH Tosesoh morse
+
+THA HSgosS io
+
+TAA HNcost Ms ono arden
+SyBSrTg Soo
+
+Qxrsgogo $y B08 So
+
+Dssgs HS goss ss ono cr ceo
+
+SS igor sso
+
+howtaH% 3 othom Sox B0%o
+
+HsrdpHs Sos
+
+HoH Dhowe bs
+
+ass hd gos Ssnd onolereaes
+
+rat-9 arSd
+
+owe asd md
+dg sso. om
+
+&
+
+Do
+178
+181
+184
+184
+184
+186
+185
+185
+190
+198
+197
+199
+216
+216
+221
+222
+226
+228
+228
+231
+
+234
+287
+238
+242
+243
+248
+257
+258
+258
+259
+
+## Page 6
+
+His asd io wh
+5g Neos h xo
+RISES Sows x
+Tg S088 Xo
+Svs DMS gosS sos cmopmmeher
+
+Bssgwd HNeosS IMXch Sotsr so-5 088 Som,
+
+Sok SISOS wosss Spargao
+Borthg Di Sars the
+
+Passos SHS
+
+BOs Lo¥sw
+
+LKBHSH HSS ero Kaho
+THN SHS
+
+SSyolgHoa Fas
+
+DH_MWO FHF
+
+RIS Sarath
+
+DAFMMAH Qs SOs
+HerHSD SHS
+
+VdEBO WAS
+
+wbdhH% BOD Kgcboss msm Awe
+SSoSinta ATOD MSH ches iniiss Skye
+DBTOD Shs (Ser sxo
+
+2d5.% BND (Six onsa
+Broa Spe 08 a0
+
+DSS SOS
+
+Bm Shs
+
+Qrwsos siaoorss Meh
+BOVHS rhs Bao
+Sosa
+
+beatNabs Loe
+
+CoN cin en-tiperguors nen
+FoSSH3 DSi
+
+~%
+
+ET)
+260
+261
+261
+266
+270)
+271
+278
+274
+278
+282
+283
+288
+284.
+285
+287
+288
+204
+299
+288
+295
+298
+298
+
+$02
+305
+807
+
+813
+319
+
+334
+836
+
+346
+337
+
+## Page 7
+
+So 808d <5) 0 60 S09
+
+## Page 8
+
+(2) TBO BE UMA as
+
+me 6) 0 & ho D) 0 es Soo
+WOO - OH OIPF GI
+
+wu er dy Se (eB sio| 35 DGHO
+
+sr Soh OPENS SSrorx
+
+[SHMSeGar Nyhnows arto
+
+be Sard SSabo KS¥ou
+
+Err Ory _ os Nol HEro 1
+
+S5SS SSon Sreromero |
+
+Mr eromoShbo HS*srw So 1
+
+SWOSHYZT* Sera Ho
+
+sods shod sw adiwbo |
+
+SSonto Yosbo anSz2erho 1
+
+Sod Gimbal S SobSSer 5
+
+Soars wo ardcdu
+
+£
+
+## Page 9
+
+12 Sr by 08d Sores
+
+eu 8 SS % Saindinsro 1 S¥ghon Srgoro i
+Sead SirceSe0 1 Bar gooss Soches —
+wise Ke sobtro 188) 6D) Sy srs wo \
+SH FOS Sods 1 Saya wo |
+DoSayS HSradhso 1 Sgroshe Dogo.
+SHI arcs Aaro NoSTgNow sor .
+USS Hero Sa swdsasd Somwo |
+
+o Sey (SOS¥ Paromea Iegso 1
+SMD BwseGo sed SSSr soon
+
+Tu SrHoDoc HAPS OSS iG WHST Sy wr
+Srdersososmodsser Kr SoS Sexy Sa '
+Gin ESehss FOSS [SH WOGaH oan
+PAP oMPHSOS SS ASHD Gy erare S354 du
+
+hy) agdse [P9Soms, MHedas anol
+aBomes Sway tomad, 38 mires Se
+
+DomsHor wAascmos Bary Soman fd,
+
+@) Tardis BHDdoixsso wysab sx
+
+a0ms NOS Th (sPahoaras gars [Nosonre
+
+" Spd, oF ah Doesom "ax Sos Srip Soss
+
+Sar Sshom Chéerons :
+
+## Page 10
+
+SE Coso |
+
+Gros Sasoss sos wh xomde 808 8 Pf y
+Dito Koy sos 8) 5 Ds SSS pocsom
+G0 acho Sor OHA Tarh NossySomes
+Sdsrosom 29 wrsry sSecens [rans
+ShoG IS Hinde as Dachs JoTSor%
+KSonrh wero Sdoms mracmdom ays,
+as aoacwo ch SoTPmH Ssomr SSzsrosoms
+wasomi SOrosom aaierh Sean
+chaomos €o Ase diharsomoh dt) %
+ares TSesoms wis Secmm s%8 args
+spestxna 8hgod s 3 Yosrohs errs sow
+b) DH PSSonr SosHAs Hsont FHSSo¥
+Cero NOTH Nx Msorr DO sssSodTeh sn
+M08 DSiS SL) So¥dhoma Kewrrer a ¥o
+SPahs sostswdo wrod.“ & mmdgoNr: Nos
+DWH PISomh LOTMA SScomah Mw
+Soar IO SoG Honan, wD HsxoyS Sd)
+No¥dhomean Nearhihsa, awsorra os 80%
+— Babs8 ” NOS.
+
+## Page 11
+
+14 SS odd Horeasso
+
+B Foaraks asswona.” & eS Sac |
+@ Nu¥chomea dsp "2 S°Sh,
+
+aw aacin th Bi pibay ch." “8, SMOsyVoNs
+QHHOHS IT Smoms srSHS HS O5S
+wasn GER 65 2 (CaS settorer 3) 85 Gs
+(Ssas wont tot So Somos  srWer add 2
+e@ oP sino Ch FoSoosra, Tro SMooc7ra tines
+Sotnsow ay sso sasd MKS Bu0
+Sohne Oe aM ? &SProsHS S [|B 5BzG) Hen
+Sonim wittre yHodiogh dasa
+Soar, Somnds AS ddr Sow 8 SPothom
+TSeaea? ar Afchomen rH 2h) wT Sox
+chimem TTaseas 6” a S* Bx.
+
+| wsrHom AN Boras witswd—
+“ &Rascbactr: af Potatoes rd, oda
+SND BMWOY stad ASBAS DX abo
+mon (Stow, So, csc 2 M08 ays
+Dichomor YH BSypihary. esr ” ADs.
+
+List SST ODS Sp J odawodard B dN
+HistxwD omewod (St) oB% “aoa !
+
+## Page 12
+
+[Ko Sr we 5 he 15
+
+3) TyNmhstsorsos S80 Hraome AoA.
+onsye NXos Sky Ko¥dhome AXSodko
+Sm SONS SQyeo. wo BS) Soc ” wd
+§* Sx,
+arb, Sr oD abode 29“ & B svd
+0d 15 So¥ddsnen &S* 8 BS yew "OSm.
+BN Espa) s“ GHGs abd
+TSmcms SSH G8 ON Haw Bos
+[SS ESH 2 \SSS8 eonch/he% 5 Somos
+Seas Gos HSS 2 nomdnt PIS ros
+Ho chow dharosins & SEsws Bos &y
+Air Fea Ecwos SHE TaD 2 Hstore
+Bl Hocioy [TPS DY Keo Dass Soar) 8 Sen
+SE yB Woeow SSeadd 2” wd wdAm.
+SPS, oGdind Bxptoary to _—"* & B MO
+MMdworar: TH onsypth SP sroxwm won
+HNYS. HO WMkedkNd SOS dinky ddso
+DOSE HSeS MSH ewiobo. USGS Msrabors
+DorrSso, OS Sx, WN Smw, Hioax» om
+Ter Sho Kod. Ed oss wHHTS Send
+
+## Page 13
+
+18 Sr 5x .08ah ores soo
+
+Diho. TOS ASrHSoma KOK BW.vm,
+TO SoSiosH Be wehioio wd dH won
+BOdioseno ASH "OD SPS odctoe Baym.
+
+UB SrHes 8 da BF \Sgsmsrod_* LP 81
+Spd, odds 1 a [S*ems AY) mb ?
+TSS Hag TSgsoe ahem By 2 xioxg
+TEpine SOS HSIso Horchow Tea som
+BSypxp 2’ wd §* 3x.
+
+Sood Bxpibay th.“ 8 1
+etary TOS sod srS*skm wodaw B8A
+Hola arwdosH SoS ssw Bem. 8 Sma
+Sots Yow, ates, MWVS8, BIH, Hwa,
+DSS Todor GSAv gen Ny Sos Aatowods,
+wwsod Shabsosoed Sys Te sosstswan
+Baolcoe spgod Rosas.“ & Sworn
+Sa SySgso Datoissy Axsost ha ag Saran
+Ady” HOD GSRD. |
+
+Booz Bo\S Srhe Toh 99
+“b wbshencro 1 LE" Irs, chew, Syvs,
+ObSS Posorsd SO) Home NyS gsm Sarto "
+SD By.
+
+## Page 14
+
+ae ar SANoS
+
+“ety
+
+3] SPS) 0B souks & 3
+SP gi a
+
+es Srden Somrcthen DO woe: Saeed
+
+Shc BLS cdorswods. 7“
+
+0b BSol coos TSH ar-H__“* Hs
+USBdeSS SB.
+
+e Sree aocth DO— “ & Fjorws Se
+ror: LS" ANow Groves sbss*swOO Angros
+BchNoS* @ Gab Woes Nosmy” ws.
+
+TUS WEtSoO BLS TSpSmen Somrcoe
+DO Kare Seas SabswBo8 Seer sas dary
+HOSS. V0ehS™® Ky eax 680 _* Sa Grog
+OD Briros Sabio wd "ON Pay.
+
+wsroos Goat 20." 8 Sos:
+DD) SrorewN SSomsH DMshyome Kowss
+HQ)S dH SOLS SSomho MHonss "0 Bd
+PoarsrSonoy Sonode.
+
+WSIS Happ Bao mons eotes
+BOHN SNowA FjowTsoom, mocirs soz!
+SrwSomow, Roreasdal SHS DOspend, Were
+Shoe BOLD Arorgs siiwo Ssom Baw
+
+## Page 15
+
+18 \S 6 Se Py 5 ho
+
+wSy erdrodch SFeFomsH 2) Son wy
+omss ([xSr Ls Arsoms FyomSon%
+SSoms MrwHyod SH SeSomen Th¥YSomed
+7PSom Bdintho Bm. v9 7x STs sows seen
+7PD, sy Noemen7Pa, NS\orsomen7rn, Sy Hosen
+TD SoSomss BS M\Sonh mr Som
+arSom Aoi 268 (HeHNS HoGm. —
+
+OB MPMjSiwo Aroreih) Bheo oss
+BES GSA WHIO WNSrSoms ochmBs $2)
+8 dhsyF dm ard SSgersao OA.“ & washed : |
+8 08S SStwSoc Vrms Hobs SoATSnw
+Sweos Seed 72°? od aod. & had:
+Dw Shy ArNahehy os SaySadso S*epeowy.
+DD TS Son Eiawm No Sasso Sh
+
+MH)O, MHS HY Sdvotwsow Yoo ” wd
+TSO ondym.
+
+08H PF SOQ-“ SodHowr: wes
+Soa shady span *” wd [ar8oBs.
+
+— B0SH Hod selon _“ dH HS
+ST Somds SAcine SSjSomenod Senge a0
+
+## Page 16
+
+Sry 0d oressso 19
+
+BSH SSS SSN MMA HS Ode
+Srsswxs Soh SeSmmomos PoBss *D
+Er SSomMsHH wand.
+
+od F Hy NOI So¥sosd os
+S& Osim wd) hodaro wisos (S*ewd
+Dodds 5S US NoNS)Smmean xmom os
+Dod, SB ass SosSySos  ATyomerdy
+RRSP ABMib v Sxahahor atoroebxy woes
+Poss Cinfoma areas Stax KOA wos
+SEoms AMMMHOS wsmoch DSBtwh FHSS
+SSord resomod* PS, wears So¥SAS SAB.
+BE weatw Iers SS KI)xwSoaxo ven
+Dossmom §osNdN DID SASoHehH ‘Show
+PS’ DLDBD) [areata SSO ahsyIsS J ws
+Smt S08 Ned SSH &* cht. emo DhSodws
+e0 of xpoen od naw. ) (om Dodhoe nares
+BdSaomo Sos Se M esac Go F RWS chor [Rares
+thot oe VID Brcaomn BA WosMIO D
+ad K8yHsSomss SSyod SLosmenihoGm.
+Doyo ToSPomwsy od) 808 Koy PY mss
+
+## Page 17
+
+20 [So Sr we S he
+
+Shospwhis hoersSaiosoG ssExseorcoes
+BHMHoBr. cgdwo (SOx w Socios Feo
+Storsroswents, Ban [egoresaro armiboda
+SaBS Sethow AH ochow Sthjos ww
+SXMSY od &Hiho Bm.
+
+BIS Perwern w0G Hodm wy
+we FMoSsostsnd we Sed hosoch SHwosm
+2 Soo §S8SSed AO BE) Sgssro8 Bam
+
+) 3
+Swoon BIAS TA Foss vw war 6&
+ho om 5 VIDA SHHIBE Doththo Br.
+
+Bosh w SAHO @ SLM So GSS Trew
+TX) SMoarD SabS, S00“ wciing: Sa
+Doar 1 Hxmy Fol ANS SrrwHedosa. hx»
+DehNoas SIs Oo YN) aso BNBsDy 7D
+5° Ox,
+
+a3 Sroen OS abst 90.“ & Shera:
+dot shibvigar ss Sod Ser ththar &. om
+ASewH 2 BH shisy HYgxoe Neyo
+SSea ado 7 BAWonsd "OD §* Ox.
+
+## Page 18
+
+SrSyz 0G sporessso 21
+es Swe Xroe AN deo Bi pts) 92—
+7° 8 Sndsmonar: Sr Sy SOS So BSprbary oo
+Debio. Broom Agach OH SNE MWSy¥,
+MoemmHoondo ont Qi hoo Now. wor “agaras
+Six Serbo 3) Hos 88d. Soxvo so
+Solhochot SabSto KOA Sasgahweow
+Boao wso8Do,
+
+aSarth Ghose srirad sr sod
+GS WWI SWysirTsam Showa soso
+BN SrssoshQ) sr So BS." wcirg, DSy¥
+SN 1 Ss DoS esSeSoms Swrorboarr Aers
+DOS DS GK om YU SEED TH Brsavgan
+ROANS, U DSSnT At HMO Sse cds
+ANSd., Vo TISssn dsiwih Poss Hae
+SH owHN 0 a_FasosH SOyd. Tk 0080
+USOTTH, cSswt agds TS 80
+SyRod Ahosa, NY SKymANo SSA Dosa.
+TH FSS amDsy SOsrosso PNS%, onaig
+Sons "2 S*SH.
+
+## Page 19
+
+22 [SS Sr we S
+
+BHA PS esmow sir Sol ddo9 SHSros x
+onihy em eoA¥800 Hino Nagy aro
+8 Sherer: ov d anedina Asdyosorrr
+DoS* 25,0 SSS “Ss Beryx "0
+Baym.
+
+Dx SOLS Bow PSexoowao-“* So !
+Dd Dx DHiwoH TSairesys ciosarro,
+Sher Sovses SOchomH Now. de sir. H
+eneomen Bo S48 ato swr BFWD Bly
+CMD. Grn wHyso Siem 648, VES sirasgo
+ao SOS Son wd) aged BSG cosy A.
+ex Bando 8&8 F8ssom ShomS He 55g
+Brows SSddw qdoo Emswsow dren so
+NOOSSN BiyodcwsyS. mS SS y8Sxwx
+cadHo SSH onthys SHyMMTH, wWorhSox
+Sor FS Snowe ondceroan ") By Lo.
+
+0S Sr Fo 4 S*a00 samo sh
+So¥ oes WGN FHowm. ety Shas
+ar Sod SRO SmoSmowy, BSo\ cos% SS ¥h
+Soh wd SSO DAH. wv sro do Bosses
+
+## Page 20
+
+Sr8y_ 0B sorea xo 23
+
+SECrSmmms SSO (SSghao D) SSeswsH Boy
+SoS RoNBD GNBH) BAOM i. Woo ise
+ir SOLS owdyS PSomsos Habs." & Sods
+Asn ¥ACSasomNo Btd FiSTISSDSHTD
+Bao osm cMscaras oom BD”? 0 BS Srv
+sor Sold SHe809." Bot Doss Sigs Sway,
+Msrockoes eNmie SBoon choo thé. Hoe
+Sossomwss 8 dds0d HSH Hey.
+0&3 Swd8xo Sodsrsoow ow AI) Nos. SoSi
+shoo &8y Samy 6 03 SMNNON TIAmD HOS
+DHSS "OD USOT.
+
+wd BsyrsS ydos sastswd dd.“ 5S
+HE? SSoero: dod Bobs DoSesoosimsw
+Bios "0 BL) Sodod Bw.
+
+Sod 3 SBen iyo NSMoNcwsy a. dx)
+exyoHS% H Sodio Sey s7syO Shy
+nS Adit BN BNO Dogg Sgsso
+SSH Sonos vw.
+
+## Page 21
+
+24
+
+BOW GO HHO SHosaoo
+
+BOO Sd Sz oGaioch Bs DSsorv Dodg
+SUgS SdH BP HXserr Sssgobsiw Pato
+thi) Sho OH pabsswad Sos Rod.“ & Saxo
+[ITO : SrocBawO Sissin Sway
+T Sof chines sos Ad PMAsmosrs
+SSH SOB. Tad wT So¥adsnom BS)
+SOVss "OD SSH,
+
+2 200 SoD B85 (SF) Soh SHzsBPeo
+DD Se MSs BS yaya :
+wore : @ westind : HSASoekth_.
+vu DFS gsse Sesotho DT ewe GDF Se (Sctoe i
+as Borg BrP 2 Keross" SAN sau
+Se HBV eos Sosmhy w, PQs OHy® Hsu
+eOSa Ersbmross igo wdsmSxypao
+Hissar, Man Sbsros SSH SKXome eo
+| Ser marge ey co OXD abs choc,
+
+## Page 22
+
+4] S75, 00d SHoreaisn 25
+
+Sy SOS PSrwo DaTahys ChB " |
+(oe) WS
+SOaSomrSaror ah Sosa coAcwnn
+299) BS: nd diowy d. e3 DS Sore a
+wu So STy HOF) TH LOMPV) Psa
+war War rsh) TEs $08 Seu
+
+es BS)ad wy &. e3 DS Sora oe 58
+Sk rrosinxsoch Srersyx ewSsSoMrr sho
+DOD Ar SSwomwsoe PS) NOrssos mB.
+[>] © (a)
+Bssn SP SHS 88, STEP Y So SAotwdow,
+
+28 (SF : [SHAS omesoewH & Se
+ODD SHeasnwo Biptoay So Is x : .
+
+“8, Bond Sebi mpgs Soh Were
+9H (Sot SrhrAdh SSom sdiihosim
+BSohe Baio (B8H2 Som Serot
+Soms podvdaemh. wochSox O09 | SoSH
+[Dsry sregar § Foe NBodd. i) [BEY HS Son
+oDolO Sxom ar PNomayr DBT o¥
+Aco S52 smsoc, Goss nso rch voce
+rth wey mp ASwen we BSSochoeae
+
+## Page 23
+
+26 (SO Se re 5 Mo
+
+(SS0Bd. 8) 383 & THIS AHS S Saom x Lox
+Sr SswSot MobASyoms Sze, Hod, Seo
+Nar AHenrr #lyod wx whoa OH. FOBD
+[SS sitios Babods dirXsasoc wAy
+Rodsss (Ss won 3) Dm. e3 S°Ocaxms
+[SAS wanes" J Se Yond.
+
+38 (SF: HOTsoH Ny, BOS Sow as»
+| thary sho Axx :
+
+& & DO so 1 neorsio gh OES SSH
+3p th wongo8ay Proshocbhom whens
+SAroiws sodho Shins Ads. Sos
+DHA S HOySteh ISK Mgehioy, (Axw
+a tm omhoGh. wx 5 & oy
+2590S" Kod PosHod* BoNabto Ix
+pS HOssHOs* chStwh arsed
+Sih. da IS Msn wd*oemas* Bos
+hie Sh SiG S GSyHos* ass dab
+Son Sthyh. WS or dohAPGsmoons av
+come wdS*nod norxnth ab¥8 SExwsm
+oy Sydnee damon Bxod arm.
+
+## Page 24
+
+SB) 08h Soreasia 2
+
+oS (S¥) : SHPOSHO hy Boss aSy
+Sany So DDS :
+
+2 BQO sods [HcdwAswwsor 0
+Fyo[coeim wrar orageso srdowbwbodm, DI
+Do Heh HPOYyo(aT WISssnm HOsodsSO
+[SOSard MOY \O[HO SAH SO) crx SSeor
+Srnod wa Nssd Hossoassa eo) BsO
+Mab. HSTos Posse Sd, doh Foo
+wasesnm HahyHoO SF jo Hd ds re onise
+Sods rn She omseNoosso mdodm.
+SOF och crags ond) Scionds SAS
+Shia BSP adx.
+
+208 ar) DT eM | Heo." HSFyols NSS
+Sx BOMdsO Bx onsen, SI6O Spa,
+BLO PASH” oH Fay.
+
+esraa s6¥olcheh oo.“ DTD Ss
+Sow TH Ssnrrd, Fboaw TeSsorMes. 2S Jo
+Sern Kah aim,” 2 Boyd.
+
+## Page 25
+
+28 [SS Sr we 5 So
+
+DP eWjH wv Srook OO" ih9_
+PJP 1 T RHeN NSoo SoHods. T BHI
+Maingond) Sonora” wO Baym.
+
+SOY yoleoe IS PHgm, HAG, Ae
+Sv GHO FHZO BowBeowHwo SO) Sdxwosds slo
+AG. Od88 a8 Toth Sen SH, Srv Bo
+Steven SS BH. ATM OH Soy SS Savy
+RxigSoosso HOFVOSD dove. TOFS %
+OSTpoo Smwdow ong sss IS porgy sow
+Wy DAT DHS H sped). De oe eho
+BSSmwm SHI GATS 8HyO HSS Sosw
+SOM mss SSH onde sons latf-ver) one
+NONNSNA) MHOBD. we6¥)o/ Ha DT dd | Hei
+Maoihowh ar AYANSen wont Me are
+MjMSH SW Spos S0y8. ove DTC |
+Mi hth“ A¥eAsheoro: Dio S¥soam
+SSgini Bipows S2)5. mS bow srdtysy
+Soc MHS Headers” wd Pssow
+ons) a.
+
+## Page 26
+
+Srp odd sporeasio 29
+
+Be Thinih A¥gaSIa Od Fabs Go
+S7P ATG Ho How SobNod.** Soe S04 Sox sw
+Soc (ash NSjoms ASsrosHsa eng} Davart
+Soa Ssoa SS CTSOES oss syd
+Th SeVinsse Tapa” wo Bayh vrs
+ands avarodha TSS Poss ces insocs
+wermoss sj80 SrPo8 SoS sos s DSOd ows ”
+ed sen Boy.
+
+SBo Sronda @ Sa.“ di. SPero: 28
+Bo(Q mwAOS AAdhimei As\Joas ” Sd
+abaAm.
+
+2 0 Aran ide MO ner UNprhsy OQ
+“BB Od1 oyjosis Ao hee Bow
+Sen Serossy wre Dchees WSErsoa
+(DSersrasa FOS vinythNd ATed Sse
+Sixw amd) smadin 8 Bowes wv Xyrdsae
+SoG QSHowbm SS chavras oNoos sw,
+Gihy Shih Hk TITS KO sHihysra Ado
+thom.
+
+## Page 27
+
+30 (SS Se Te S Se
+
+BASSoMT Sossrorsw sdANHsmdye ws
+FjolhN Kasrwmeh srawnoo SOM zp, x5
+FVOCGO Ts sos wAy NON O Saws Boho
+bh 58 SAY dads Yr Bcsos wxsrwD
+NTS SSH SMD HONHD) eA) SON, 8 io
+Ecos SabSyor woam.
+
+B BIO FSS rsrsss MDdaig
+NOWON ao saa BF) 0( cee FSIS HS).
+“Sener: dO Sr dbasrds oSods mos
+ath omSgS YS derSxn avo No
+Se ” en Bam.
+
+8 xroom woo" ectTrg BSS 5
+Harwe GTGNS hy SMoBs. TSS OSX
+Be. WS car FSiwrh SHPSSHy Hh orosddows
+Sods" SO Tayo.
+
+cntno Asyr DN—"“& Pomme: dH
+ASSH 2 OM cho 85,65 Sanka: od
+aA. ontwo TS* Sr dxpovon SOF oc eh
+Be SS 5s ON, UD whi 8 56 5 BQ)
+SawmHd AKT Shey shoe.
+
+## Page 28
+
+SrS, odd ore 31
+
+e908 & u 0X) OGD OSes Sore 8 Dee
+Vetch [SS gEsvcdgy a. e9ceds é Bdolareen,
+DTDs Feo SO\5. 3) res 65 Bo¥e oon
+SOF VOLO ard b oar: AD ATedn G2
+Sos Tah Sov “SS gsrOF ol cosn’a [Sarga@a
+TPoBSH. HH SAS PSa ATepHoe Tos
+Lin chPD BHT ” VO MArwd (pSS0d, ws
+Fyo ss S*88 SIMooddy-" DTS Dx
+SS a BF OCD SATS gS Axa Oe) ovesg an)
+Ny Aos Bobsons ” Bd) Sy MemProDad.
+
+BNET  wSFyo(coa DTG Hd eH
+— pragsSots NOS cragainm srdombsSenesn
+was SSomem owdy SK UL UiosH Sad ”
+ad KGa Aiyrs Bw swd Od wwsSodsn
+To Ax.
+
+@ OO Mood ad Seo BSytos) 02—
+
+“ SoNolar e8 OF aos AAcdhomm 5)
+thay aio ”” DX Xo.
+
+## Page 29
+
+32 (SB Sw Ty S Sw
+
+SFO SH HSrirshoane Neh 58
+SDA HA Gowh Hoss SmoosH sp 6 oro Sows
+DO Mbogm swoA Bososssne Bd SSomm
+Ecotho Gs.
+
+Ste SSomm 88S" Boxee
+Sat 24 IS wLumedo SHH. woso IS
+eB FDinnomNo shgamr) onsS Somenkhy
+DTC ad, HH SSF \ol coaS agS Eryens exo
+So Swsawr Boss. Dergaoiaoes aS 8xh3 3 S
+SBF) 0/ a ose aETGD rare) SSsonora
+DP goHOsS SE)." & Or ce 1 ND SrA.
+(pssrg aDAND KScsmNoar say. wrasse,
+SPrHomNH Hwy, SOSH, Mdchs PIwse
+smoth awibodd. TH Hoh Arash a8
+SrGjEN. Vomow Nk Ordos. wT shgas
+SPOFOLHD WAS MS soar wmhodwad. SXp
+ADANSypth Mods Shy. SHS es SrSomnso
+5D aS orsoms mochpwrs ” chd Hod.
+
+EU MSagtnow dressed 09 S*Ssh0
+Sr sear 1 ND [wsrgwooms ends
+
+## Page 30
+
+5] SrSyoddh sporeasso 33
+
+WSS Kens Smy YHoOSD, srw OH GN
+Sr some Lochs "ahd Sree 35 sSooN BOX.
+oor (5° 5 So wT ox Ng TH oD SHH ay, ax
+Or somnors arog as 500 ND Bossa boo wo
+SH Goss Bd.
+
+SIG DFedo Soo HOPSSo0d WSoto
+
+COP AS sory 8h AT eh he SLirssow
+PO) ardsory Mwtbodrey Ares wdso dew
+Dh, ehh Ko esGn cits Painsoay
+rd Vos ah Naha HaMimoSm. BD | US aooep
+wo 8S ox omibodmh. Sessa ABA Sth
+Moar. SAOST™\eno GSHIA6. Brdodhoe
+GBS Sevag [SEIS wroibho dh. a AS aor
+Ersochoc ser soen spend 27%) BSoiwra
+OSFen [oxy N5y DNS.
+
+[osry ee Sree dd GSolareo Bow
+BEDS Sexo sobs Paynnsgy—§"* & Sox
+ro: did sedbeak ondho IMcdhsmooed
+
+## Page 31
+
+84 [So Sr Ty SS
+
+SanEHoO Sar S*¥snos swx Sat
+Thay. Be emSwi wiryenshoow cttood sw
+Mo SK. hwo Shordswor SSO do de
+Srsxmor Mocs” wD 4D 8x.
+
+SAUPSsMowm ASO erst DT eho So
+[os Geo Qe0sHd.
+
+P6D (Hwy a-y— “$8, Somerar: boos
+S*sxmogy Schow wPdosathwhsyreo. wen
+$08 int TASNerSimoh 08 SxXDerch
+thar} &. Sar t DT eD Heh HSFo( 9 PGo
+hoausSner edt ‘NI serv yocsh’ eS Dew
+Pobdomyt. “Bry ASpS* wBAS AN abso
+MBON onsipe SKQOrS SP Ged. 000 Spel ‘aio Sen
+Sot OS SxmgoxS Ay seks hogsah ”
+e9D) Bay.
+
+8 (Hwy, ISgsoom a DTMe iv Hen DD
+eNom MoS 2560 28h wlonSsnom x
+HI [Hwy CL Babrr [psry Bs oS"
+Sra GHyHpwads. Ammen ASS THON ares
+SHE” ON Baym.
+
+## Page 32
+
+SS, oGah sporeasioo 35
+
+ew Sroe BHO 2D Msthos hx
+oA“ & SPeror: soe Amo sev 2
+9D) Sd (SS Sao $989 SPochi 2 aosahen FD
+KO\swowoe AtMO NNHIMHxd 2 sO KO jsonoc
+aSHod &D A% SIS MOs Bx Shino wxE
+Dorhad 2 53) NB yMDIHDOd Stn seve 2
+SOS Hinge HFy sH Shs 2 Hear saoox
+Sh [STS Ok FAowb 2 oar Aichomeo
+So¥ chimor &8)Sods 4" OD S* Bie.
+
+gs Oichxoomn  xsMeo dd" & BMH
+prtsind 1 SSBAS [S¥m Per ASO. a0
+hosomn Asya Gods, 0 So¥dhomm®
+Ad\Ko ‘Sold Hirwho NomdSsn’ wr ane
+Stix Noch, TNO Bay Sawo (Sarr axa ”
+2D cowed BX pow sohsw Arm.
+
+Boe KSvrdoo Now Sdoo
+
+“Speewrosmsot Bonsia Sbbsoms od
+[sbi wih a Msbietoms. wom As
+
+## Page 33
+
+88 [8 8 kp we S x
+
+Dwonsmor SANS Woah iyo Sod
+‘Hh GBH, SIN Boo FIzdbH HArwreh
+Koch, 8 Hsrwmsso THEE SSS Sor lors
+WeNaww Zovod An) KswNom adsabsx
+Bond AaSgchiiasm mosvo wSsose
+“Soho, Ss ASxwrr SokHyxsz abr Sossy
+‘Sine Sorergisnm 2s MUHIS wibarodros
+ApromsH SH) SOSoithosms SHd2800
+NosoGh, Fold MSHA AmrgddAS ah Meas
+OM BD SoM Asm Woh amend Fay
+
+«FB SSSH) Sr DY Madhoxos Jaa
+NSO DS geo NHgvoo SOSH SQ. MHS ir
+SrVartnd Hesborhas SAS TAS "dD Bd.
+
+SoS BLS SrHok Narweh BoFayvyy
+QD SESE SDg cmmod So/4S* BAS _
+* 8 Sod 1 Sh wScadysosod Sara sso
+DSson SHgdoo Shomyi. & ASeody din wes.
+‘SyPaoomyya. rho SISiyswsH meso
+“PSwoas SHghooed wd Bowe. dso FO
+
+## Page 34
+
+KrF 0Gd Soreasio 87
+
+Sotho, WISHod nosHor a0. sors
+96% din SM SSNS) SSFoms VIS Sorg
+chinen BASINS. ATShTWO chew wrwHa S
+Homrord Hmomoexy hw oehm. svg Both &
+Sos Ho ho akyersy wr rd Oris
+Keansto. wx aX PSa ds Somes xymomxXs
+Ms, Teor Bsome So% arse Some
+S08GN” wD Sajw.
+
+Hsrwa Sraeo dN BSF Sy BE) Sy sax
+
+Poh" Hiro 1 NG ON) SSswoKod cmos
+a'Ss chino MOANA” wD [58 o8m.
+x
+omosy Maprtoch ont) —. “ Soh t
+
+Sh UPoganysnsom iryends HS dxye
+SSomd SOs ym Mrs) Shomed wSxwr%
+j ee
+SPaG oho
+wa [ardgo sxs* Sis SSyr 3s O8VSO
+
+NOnsO es7Pwdes So SOgSAeh jodharSsen
+ON BXypdcesyd. TodSo= Boss aiyrood
+(BHD TOSS. Ur o= St wy soNoc Box,
+
+## Page 35
+
+38 [SB Swe S
+
+Adis 8, BadSoodsS. ar Doc MS Swe x
+SOzen BOOT, SOIT, ows HS) %,
+ou08g so BST ons, sw, chemso eoxd crs
+Sos [SB Lmsoges (Nsw) OHSIGT FS,
+wothios Sabot ays T0860, TH wiry
+TO THsondsy. > COS 2 Gast os axys*
+BOD Hos) A. Bx SSomanr so 88 Secor ”
+Dy) Baye.
+
+Ero IWYIZAD HSrwGS Boo
+¥5zm ard" Toba t eacsxen Ghevo eihyo
+thih 2 dene By Bk Srochm 2 Srd)N5)SoNoed
+AMMO ASPorhx 2 Aino ReoSthmw 2 sD 6.) oto
+Som Hxy Spe F605 Sony sox ede
+
+Bim 2 so 8FP08 ijow BHH?” eo
+(S82 odm.
+
+SoG Sroaa AV SosHyxg, one asy
+whary so“ & SoS 1 Dmx. Sodio exo
+SSB Sx ASSEN SPotie, UAH. NH BOc
+Seo BSpihay& : ¥8SxSom BA wm Bas?
+BOOrAY [SS Porbmom. ¥ BF orAy Now shoo
+
+## Page 36
+
+indy oBdh spores so 39
+
+Bx Sossom 25 sino wih. wv Sats ho
+Sin or cod BimothSiwo Edw Fiox
+Som VoSHis Tehosadwm. womsos 15x
+weg gam, BE“ Ne smeondA 3) SPochihotoe.
+S5;005 KowO8O, OS wsso  eaiosrdga,
+ens soem SeoSOws8 opiwwaom saurow.
+S§osmm Bdwwss soos choses. ady¥
+wise Udarss osx Hod. FSoysnow
+AS pI Od), PSST Sow Paya 6Ed irdsw
+Keroro, Sharsinn srertharsin, wssgso
+Sen srO8), onsiso Pdowsrsso, BSxmom,
+Addoxm, El Simo Srhoiwre Terods
+Som SAS mgeasd wwSdowbh, ssreyow
+HSaPorxosoc dhindtrden easy AS Xmoonn
+Scosoorw SaNoh wrssioe Kors She,
+KSen Bodom udiog swe Shod Ariwih arsgo
+ B&Swomh08 AHO achat eres wd
+rie VSS SSVRS Grcoewd Sabosss
+or SSFome Bob Aasrnsl*Heow. Hargsy om
+THIS di TSS sworhad wsrwmossy
+speagS*S Sox SDMOD Hom. ASxw Tons
+
+## Page 37
+
+40 [SB Sp ve S My
+
+SESS Then, Sen, S8z 00 BoSorwsad ads
+Ghee ahd dinda x80xwNots OSS SA sown
+QHFID HTP Srvoma S300, srwhos
+BOM omSHhor wSomwhwH Davg eo 38 Sol Gow
+Joss Sow TH AS SGzoisad SISswsw
+Heo,
+
+sy den Sons ar68 HlsPS nosjenos
+(DSO% BasHoas sySgxmem Sore BTS)
+exyrsinh 5 dio rsa Bsrsusom
+Somoer ToS wears Boh Deg sSe swoon
+nds SeSmomiwoor Pothsee, So ArXgxwnom
+Biprc, Arhawow mMbocharth, Nose
+Srpar th TVPASSS HH MHoy. 8 HOSS
+BothhSo Grasome MAH, v08ab ddayh
+KOADI%>. UNO PACKS CHT), Aer
+SO, MSypSeasroen as AM srwhoH Sab
+shox pSoibwosa. wen sods aor SSSsmsom
+zor SUT MBoBihows  dhivdrser.
+madhod 7S FiSsxon POdcw, do xwvo
+HESS S Lord Dwroroem.
+
+## Page 38
+
+6] Sr, ooh 290° 9 S00 Al
+
+ripen Se Sromer mio whsdoo
+(ao ford ang rd & BHDHochM. sdeag
+TeSys Bose ne Saimasods Sos, Bod
+Bx Sear ds Ne Ome eve. SPocs doth,
+
+20S) BD M2608) Bye
+
+§, So[d1 Kyhd Sy Became (niryd Ndyos
+HdS SS%S) O [Yesm SS pebmym Ova.
+ § 08 Sodrxm sos § K8yoms PHoeh
+(S8802 Audech SrvomsS Boto haowm,
+Sos SoxmsH Now SBw, 8S 0h SOX
+SH Srosaossurrm ch0d, D SkxwAax
+Sod TPoxrxnss BOs abs HTaP-vehn) Sa (Fx
+Sa7r GSaLS Noryzessoen BS) che, S™Q) as
+sos WIyxo, BoleSen apena. BY DoS nsw
+5D OSh UMrrmososm, aorhy Bim KIsh
+TO sry Sas LIPS smooch ar gnodcino cx.
+wargchShih Toto rowHas, SO Meovd
+Say Seiaswous MP nonachibocha,
+
+## Page 39
+
+42 [SS Se we 5S SH
+
+MASMo ASds Sosor )85r05
+Bi BW AyoTeSByow SoomTe i Ih Fa¥0
+PHSSOUSHAT ar dTsso Pocstsym,
+or XS) S58% SSO srindbows Saeco
+PSomoem Badh¥ SKSoHO M8) FSomesS
+Sr&msH Dok wd Dosorwhe SF adyss
+Shs Bl KadhNardso SdH SBI
+Antes srdochod ad.“ wars 1 GSA Sow
+Sao ON Si Soms ndsdNa” cha Mrdgy
+Pom. vw rgyaroc AHirch Useroty.
+Sodsos Pixs Soo vedi 08 Shétsoy
+bm BSohs Eatow.
+
+Bev Hinge SOSo( OB BAS 08 Se
+as, SUyswond Shr YagdSomer adiord
+SoS Sosnsm my BVT0d Hosraboi ssid
+Noms SSomind awoioihomi, SHS Sx
+SomsmS  Ayrarsbie — Sesoss0
+BSj8d” CBO.
+
+## Page 40
+
+Sr57.0Gch ores soo | 43
+
+e3 S400 BSF ODO DOSEFSywd ary.
+CL ERT a DD GS) ows Sosagom
+Poh 2 * G69 GAA.
+
+D> Gore’ Korodiove HoswSaoo
+
+OBO wr KirHaS BoFHy¥s, catmod
+BS pia &o—" b. Sh 1 wx or #33 SNH
+Snote ASSasyiws oF Sas Gorws mdB0.
+eiye ends eho Bod sdarod 8 OSs
+Ecos WrSos so Bod. Trek HH shor
+Fits Str Usorcer ys maowbeosa.
+gerymmdds Sotsoxass sy@osrod sv
+SiS Sox8d. YSTS%wsods wHod Mss
+nto, AX) nat, THOS Soysmd ow Y Faw
+PHOAS PSorm Woe srw Noss yo Soon
+msomsdoded se IMSsorr sasswo Sms
+Dowoasm OS ASpHwsth dhadSemod sv
+SSwSh BWHA Tah. w ANeHwshe vedo
+SSmom ard. dhmsewern 1 Sh cb drsxom
+atwodds or Schos Siw SOSmmoh HHO
+
+## Page 41
+
+“ue [So Sr we 5 hy
+
+TaSSO. Ne Soho, MSer SSS 5 Keno
+psa TAH. TB AHS%, wos. Th
+ragsok ardombnaes SERSLOSS Derg Som
+DBO. ONS chadiormise B80. ctx
+Fommsch Siyswm Jd) MOA BSstow
+To HSHOVMMO (Sersods orm. soy
+BsoSMwom S*oarsmh. wensod Sy oar
+SOSH YsoNH SMSO Nddyews CSerdodo 2”
+SiO WER.
+
+*
+
+8 SrHoh chibirSea ger Bi pehary oH.
+“8 was dD Lys ar Ssomen HTT nd md
+D8 Ko onde Mose Smtr a sys Boss
+MP Sgchot ArsHtAaygswo AOA coind BPS sco
+mbPowwNoS Sh TH wasySgsnom astosy
+Hous mrawrdss om sasyso NS Sos
+DONS. U TS aswds Om SOFSS)SSo Homo
+Soh SONS. cno¥ & S*hxmer StodNa, dH
+SeVMSHSH HHBSH FHS Ssngr omy
+Akdrsow SS ois” eH Bm.
+
+## Page 42
+
+SPS, oBad xoreaxio 45
+
+mer Ss SrhHes Dd.“ dhihdrderg:
+Gbhob Sxmomh SdXam Shab <esspo
+wMSIUNSST BS Sonss "O S*3x,
+
+eas swranwoss GAS NSSSov@o
+
+HodStmen Spica 6" & we: asso
+Hasrsmnv ro ShSISS SHyeo. grat
+Siasom “SSrrah wergds Pah 5
+b&SO” ON BSS dws. onFiHos Aesborw
+SS AST SMD Aotow Hee soOato, so Sars oh
+58200 ondmom Sam SOAoibo dxmlam
+Bios owed. wy osm dohre, ox
+Nl Smo Howrey, ovtwfo$ sod Mesxoen
+Korn Sed shows Homes. Neovrssoow gro
+TH weSdwoswdS st wsso, . eeSS wes
+awSeMh Scorers omHIowe,
+
+ay sro cany 5)80 aso Pg dtor Des PASO
+
+oy
+
+ST)08 TAS OS OS Soy Tao
+
+## Page 43
+
+(SS SP Te 5
+
+“wd Biypddinsys, sod mB Kore v8 Bow
+SD wpseyd, Nesihaw Toho svg
+MDDS. APS Sos whothsrs Pao Heaps
+7PO SP Ssw7rd ChSHSS pt vw Soswh Sos
+S6H 3 ErS*ESwS0S WHHD0D MHAOS wD
+cor SSSss SHSDoede,
+
+Tu 80038 doy SOKGAe BOBS a
+wees), Be Deagar a s Saree Sosy Su
+
+OD Bind dios d. weomsoss [Ir ZwSe,
+Minds tom Brorsmmoh scare wd
+LOSXM Boos VHFAD MAYS: WD wos
+Doma SBS. dow¥o SS 2 ar HS
+Son ar rs SmHdowmdwa SO wossHyH
+Bocas cHIKore S*xSoxssnow
+vmrhodawmy ce. Bsimow, bho, sd
+Hauser, Sr FSHO wodorhar ch gis
+
+Mab eno Sod 8% b¥nwkih wPoosachys.
+SES, Tekwos, Toss Fo, Wy Irshows,
+DBTBA wos Sox san “HED O, 85S
+
+## Page 44
+
+Sr, odd woreasso 47
+
+SESkmsoms TSo Shih vosmwod s*abath
+motos. SE xb¥ Sow SacAdomrth how,
+S¥Sno0s, SO Ansow akin BH. [wg
+AdHowws ¥ 3 Nexo Sea Bdhos wd Ios Tea
+doioart  arphbS dio SH NTSomss
+otem. so § Bow Bswrth woe wh
+SS8omms Mothe. archamom dohorwbsr thm,
+moti, wobarysm wh Soysosocd
+Sen, NSea, Horo Sodomrss 58 ax
+— ptetbocet. gochos Gru armas Sows
+SSr¥\Sgo Hodchou OO BS pdcsyd.
+
+eseoSo8r08 SoYosos Sorter
+S8otdmD. dire S$) Be) SHen, Dagndesoen,
+SSz8onwe, Powers Agha, srodde,
+Coargsarchen, Sab arene Sr so Porth Sx
+yh egons cotwsoSsrsn chadgena ard Fou
+or S*% 8S OSD Army. SA chor
+Sos Kx aware, Sho Pose Tosre,
+Hox dDTH ands Swe BON  Or¥ 3m
+Brdhih, md SAsod Monch mGosncoss.
+
+## Page 45
+
+48 (5 8 Se we S he
+
+SHOES SKyiwih HeyHN cnraes Satin
+TO SOStas HGS Home. Dy sraom
+BrNshehywcm, Bos the HIcbsrch, ws
+Posoroc S§onsrs8 St Sols rh, port
+Sin Pohdosrh vss SossySsoe ar
+NOSSO oxy oddhom mF ohsdomhmh” wp
+Chsosenen Bh8.
+
+es Srecen DN oer omecad—" & chan
+Sosterm: Se NISawm SMHINS Hiyo
+TH Dab adyswo BHibsyo* axySoosa”
+RA) (58) ODD.
+
+wWodsom chxsSostoen.“ & oa: inytdeo
+a Swann Bi TS THD, end Hos e955
+Sto Srv, JO So hod wesw Fao
+Sons ar cha 7rd Sob Dew. ONLESS, Med
+B5e Endo Lom Mowre PHISH
+Dp. Sho Psy Mar PBS Herds.
+cos be SS irsxo SS ct sam seni,
+ond Ho assossom art) b.8cOart Baby S,
+
+## Page 46
+
+7] Sry 08h soresso 49
+
+Masoss SMA. onSeho (Serie Tosa ss
+HS, Hiwd. Joss SSeio Skerborare
+5°43 ee, neririses Bairensres 4s
+HHS Sewchos. BSc Wego SoADow
+Fores) S8ad Dow. OS) % ToAdorw re
+des, Sod SH, SPHAGDS Senses.
+Sross PoAdobrh Axa Hem. ager
+Sohbowart Nea¥, BO Antomw SBoow
+Hes. d8a MoAdowarsh sy S&S
+Dom. SPN CSwrbodsah os ooyas
+98 Dawood wrgsibom” wd By>—
+“Soe: where Bato Heogar sano a8
+SrMcahoe and DT poo Hpswom, argo
+Ripsmor wmsdowiboms.
+wu MaPSoSSo chemo SorPSoSSo Sowpo
+BGSHVS Gos Gawas Hposn
+
+GA Bind chi hm Gras oF dors
+Mowe, D™ Hergsyas wy Scysowocd
+Sorgsnrr hosrd. NY SOSMooh ony are
+SK, Seossorr Shy” en Toss Bato
+088,
+
+## Page 47
+
+0 [S Sv we 5 SD
+
+es SrhHom NOS XwNocs} aren IO
+“8, mar 1 DS Seosrorw ons shochaw. dp
+HOSS Anda Srh TS SKnthode. Oow
+MoS SGy\h PODON ArH Mpom7Pmsy d ”
+2D [arSombiboas.
+
+rien 2o\5 Sra re d0—" & 808
+SF Serr w boswibod Sty WO HSxh
+foros S'Seasy Ghd 2 Ni ah hagsin Hottow
+Sos XSF AorthywoxyS*  BxyHoasa” wa
+SRD.
+
+206 BosvGigy Tera Wersgso Sedoyto
+
+Bosh Aiypibayo—““h Mderyse craho
+Osa z Dspdog : dS way Heagsrds Sooxd,
+Shgjom Acwoism, HAHSGemmowm, Gwe
+Sosswom ef \FaSHa KOA Achadawo
+[ST0m Ethoses hybsxm som¥ se)
+SY O. ewS omifyo osorcs ” ed BS ptho srr
+ons chad 8g craven rersssosdy)—_
+
+## Page 48
+
+Sr, 0Gch wore Bl
+
+“masar 1 DS agi oo, SHS oo
+Xmen ansNomes SW shooss PHONES OD
+Ba)6. dtyo “we ds OLOy as rsa
+Edwosios SISmMmh argson SOS” was.
+
+es SPHos orep__“ SSoues SHMSSy ores
+[Bore 3 Dm mosh NSOSxo exsDow
+soem xo Ng Nowak wDAVows ores 83 so
+re. ‘¥en’ OD SONS pt Shomart oe
+WO DHSS. SY S8dKra NADdow&w, Sd
+Shite D8S* srw Bx onisy do Mocha ° oH
+Bay.
+
+eg Sroos chabPGigorer Aipiday hh
+“oars dx) BS r¥ soon chad nd. SO
+WITS gxoen Basre SrShosrory, Deas
+TSgmoom Adwars Keiwhasniny vis
+DOSS SS. [Hiryd AchwosndS F5yxoH
+ASH SH OWKOw. NH BS SoSxwe Sew
+oho § sore Sods " wd Baye.
+
+## Page 49
+
+52 (SS Sp re NS Xp
+
+8 Srhos oer C02 BS pray oh _
+“Styne 1 0D BOS PSexoeao TH srsyx
+Od, Ss NOSSoSoms) TH" & OE so 3a ©
+Sho, Shoss ” wd aT Ben shar) w. da
+Or ASsor Shthyihoamr Tx sr Sao Seu
+Da SHFdowo TH ankswods. “| Sero
+Poss oa’ wd), “amhs winsd:”
+OQ) Bxyndciowyd. THEI bow Sv Sey)
+5S ox 38 ato BMbeo Sx on ify 600 20 BS x
+oH) (BOS. Batorbary H " OD BBym.
+
+w Sroe gore 2" ow: 4x8
+so ar DY sss sx, d SemSosrhy Sost
+Ss Woks. Wi 4 rSesmox adowo
+
+' hii srw 88 Dose” ed Bo) overx Sed
+NH SHH SH. VoawTtine Dxyw
+gS soss BSD 385. |
+
+850 HE Kuss ordsa Ey x Sy
+S*S DFE Gi AGT: [Eom Bo He
+ardohow aNyodad” wD Sosayvz Baym,
+
+## Page 50
+
+SoS, 0G Moreaiseo 53
+
+a Sroom 8¥52 ON Sod*aod_
+* Oxro, DOSO Fy ay) ary swam B80.
+SOy8D. NSod mB hodhen Shi) si OSS ysis
+Kosh. Syith, Adsih adders ‘wsyso
+SSS’ wd SSS Bs yprosyd. HH BOWS wy
+sme Sod ‘NomeSsin’ wm Sam Sar wsao.
+‘Dl wig § argyaird” wd Bh dsyb. Sh
+DXos so $9 PossodsahyS. WS we So §
+Sr O tats Bip ” wd S* 3m.
+
+we Srod sxirteeo  Bxypebary eo—
+“6, S0(h1 DS Si BS SPs SAmoxy
+bh to § Keamow SoDirswSs. OH Ayr
+(Psi 940, TS GPs dros,
+why KOSir HFA, SKSrays daocsors
+ochiw Bd somcemthom SHO Peo dawosd
+Brn ivr so SSoohon sn 6d Poca ” 999
+Bays.
+
+“ SOS 1 ArKSrskas, sw 8
+SrSiaw Biyso" Vd aoAns.
+
+## Page 51
+
+5A [So Sp ve 5 My
+
+es Srhen Maret DO _** Sod t Boe
+SEAS [SY Se aw SAA wow, %
+Baws Sh. TNO BS pibaryh " Ams».
+
+DBS Sard doo
+
+“Ss ar oss osm soc R852 DO Sid Sereascon
+SEDs lMrryzent Foc, wHith “Sr Se awy
+S)So PSo wd dea TSS ON Bdywd
+SoKy en SIDE Spogasy SHySoS KS Kx
+SoFNBMH. WINS Wes ase Sons
+Ko mds Koh. Gh IS FS T SOND Son
+$588 spSeany Sasoxo wrsdoxs EEA
+WD BNMHO H SH G Ssweriow DoD Nosh
+BcdwiboGh. elrsyentd Stxxses wa
+S*Sim NorG mogh Se mSorwmboas.
+wSonsisyess Va F Oh weowmoBm.
+
+Qimos7y afr Y [ersrzench Cressy
+sows Bigs) aS DXsrosmh ary moa
+Areron Pog Sod —"'h, Seymsed: Ix
+
+## Page 52
+
+Sr5p.oddh Sores so 5d
+
+BSrIios MHwY) SYsrosw arQsd Soden
+Simos wNorrow Srisan Sx 0d
+PADIS) D. APB wAcw0d$ Shy OD
+HD BLSIH. Taha T sreasinea Thm ”
+en Bo).
+
+3 Sraoen DO [erameg 3 SoH 8s B¥s
+Biwe 82 FSH —* ODS “DOSOOSS ” 9)
+[argouie.
+
+es ENsr0s 8m Avrersxnom wdod
+POKOA—“ wing 1 Si mANSH wSFe0dd
+mien BwoGd. womssySS by saad
+DQION SeorhoFas Ss O/B O SBO T gods
+BHO Sky. HSS [SESo, DSS sey
+BOSB Si "OO BR) SOHO.
+
+es dicdin 5H Bd) Coss Toss
+KyPSjSesoe Qe SorswHa SHOSssry SS
+Si Mat Do Arwyod Bw AY gonoels
+achaAs  AejthoG, DAssfoms worse
+GFYSoSod MMosPTmoN sos [Way
+
+## Page 53
+
+56 [So Se we 5
+
+Dmhen, Wits AOA So 5 so BS OLOSO Xoo
+Lob. BS 8 Korssa, KaKSonm hy
+Smet Srdsow Goch 7 3 HBSS wendod
+RUBY Nychswrr F Vi riyiod Sradyows
+BH SrYoms SYgowodls BKyrsoas.
+
+Y) Sind sso wy Seesyyys S*Xoms
+Srowss sstswan Mwosd WwHAd wv so
+cow Sot wer SUS Bowod. woes
+S08 wv xod cos arns D8 rSsehibodm
+THot TH Th) KOA SS PSswok eam.
+em eiibe" ars men SSS DSHS Sroagyy
+Soak Stoned SoSSO KS ch, Sadgm.
+
+Seow Srodhge sis Poesy
+Sheaods S*iko KOA“ es seoibsy Sm)
+SOS Sd) STH SrO* woh TPS sy 2d
+Proms” ckd Tish Bom.
+
+SS 5S MOO SHS Mody HH
+BOdse. MH [NH Shy SOM Sd) asrvs
+5 gc smd NH yO Troe ” wo
+
+## Page 54
+
+8] STSY.OGH sorersio 57
+
+sod SOS TSrSsswn Gh Bo oh.
+eg SrHeo DN" wdirg: Sh AM Bao~om.
+§ Schomsrvo & § BSSNe onewsos Axsst
+B 5% Sgonods ArwSD Hisodo. Srs*s
+Scot woud TH BSSgso Kent. Sw
+2 SSg so AMO HAWN ° 2) Awson—_
+
+“$8, SossrSiperan: Sh HS*arsy ab
+Sou S85 § KOA cmodNa Srd* sah
+BSI Hrs”” cD SOSH. SB SKo TSoswe
+Sywaoro 2
+
+SOSSorv Mare wt oS shoe KBB,
+Sriwoso wos cho VoHSSxory Mods. vod
+Sos GXSo% dr Kwa SIT dH. sss
+mmo SKynssT ah, Shien Pood adm,
+U SiocbinNocd wr, Dib, ery gta, BSo
+[WS GSSm Hose VE Nod Sa Se rdswi
+$8S8S WYONG WA cnsHosos mv
+SrwwHn AHSooswHr Yor wl Swwixa Hog
+
+## Page 55
+
+58 [SO Se re S
+
+OSHS Bl) So Ke THs B)—
+** ep aio 1 8% Sa Se Tiswmh HIOod S*S Xp
+om Bar esodse ” 2d 5°38.
+
+08 [HTySAsSFa BS SrHok a0
+edards GD STH (Sshea Sar Siwawe
+SO BooBwowHnd GkFoK sea Ted rss
+cmDosSSG sm. T'BHO Sg, [pst BOSS OS*
+BOYS GS WMO, GS Krad ard shit
+SoSkw 08 Mart swsome sped wossH
+Sw, S00“ wring, OSdrdin: HH Osos
+BOOBNHY T KysromsH NO\8D. Sr Kyzo
+ent, Totem Nao sono. TYeaxo OS),
+Cho BS Ko2sSd ” OD ASchmds* S* 3m.
+
+. BS Sron esircds D2“ es, 1 S*¥0
+eon Qos PO SSgomsH Mods BD STFA g 2500
+Sm. Go SaSow SH BXxwdw. dxoes
+Sa SiH srw Sssmoohh  arvds. 4
+TeomehH SabNS Nrtdgto astowomode.
+Sossios Er Siowow Foye Slorswenyd.
+
+## Page 56
+
+SrSy 08d Horeasin 59
+
+NS Shebod SrO* Kahin wmsme Bains,
+DOO MyHoG J Th OH eh ah¥ywSoseaa
+BS [pB80BSH” GD Bay.
+
+eB Srhe AN HB Siocbhow anos His
+Ss HS SO BeniHg SrS*eSah MroSevo
+wre Nerrta, Srdogeo aomods Bows I
+Hih shyMwodga. Nirah wiwo wy Mons
+FAHD BXwSom SS BABSD Hod SH S oe
+SyScoSwosos wgdod “Sh Ha Ssse
+BO Se Taw Srsooses Nossa Kowa
+Bdowhry " Ghd MOSH. ose Tmt Gres
+dies Sosseo sora D_Swoddax DOS sory
+BD POSS SH VB Histo wotSrasy
+Spaod [Sys ANsowm (SsSeo Sxdr, Ss
+o Bo OSY Asswarr VB Ssoomh FR.
+
+&3 Sxoaoxmnoc [Osrt3 AG Shen Woes cond
+eiirdhs wis dSxoarr PA8—" wary :
+hx S*¥swom aw SaNBOS shHSOD. dH
+Sions HSomo 2vySao S*oxodasa” 9D
+
+## Page 57
+
+60 [So Se we SX
+
+Bard, aires esirds 29 wsod xn od—
+
+“(mary DH & Ereend Bisons hom a
+cLoe SoaKo’n (peg ae EN “arf gtoen maar
+Hk TH Qos Sensevo ” s6oeen onkieSon
+SB” 8d SOx. w KSoma aD) SSS SAXON
+& add. Some NoShoBH. Tesoro SH
+EPS 5 COS 2 HOSS artsy saowd Bnwna IN
+Er 53 chow emrra Nora NSesomoenen
+29H DOMMiDO BM.
+
+Be IMsorwy CosPosn sdAS HMO
+weStrds doch (osry Boj ch Srssosw,
+DH SEEc Orssnsm, SY gee droge
+RT ang ond. eSsPorg so C0 BNZODOS
+smocs ewNer ch KBySB sonwmodg7r w5arch
+= SDorgtpio2e OSM MOA VLYmswSH SO)
+eserchio ar) Brérod Brismachos vs
+Dowmmosr KBySwNocsay, GH WHT sso
+wOd ndhowoxsd, S BDeoga FoBxwd. GHD
+ETOmnd, Shim ard oxdsardd crores
+
+“8 Bosd— deo Srorgwsa heusind ° SO
+Bayo ss
+
+## Page 58
+
+61
+
+ST [BcsooN HOS
+
+wD BSS BWM wdodsiwmm rod_* 5g
+HE Siero 1 HVIH Netra S Sw Sao
+SBS BS Soros” SO SSH.
+
+Shem BxpihyD—" Boo: Hsas
+Sond SE Sab hHtiwd Anse ose xa
+Hxirwen SD) GohsH Bird Babe arx
+Srosnm aS ARossoVs sd Moos. aswreo
+SH Gath VF SerSMSHSL SerVaSg sow
+N8S* KMOA SSoiwkh EawboBh. soowsr
+He Corr SerSswaws, Kewss Bo Mao
+Md srerchihods.
+
+ST Pde Minkrd SrercS xcs
+SN Hairtso arD—_“ewdirg: MVoswHm Nady,
+mhorbihiny &. woddon r SSomsH Axo so
+Saris. OB Soss% 2S? reso Say
+SADMSSGH” GN Ardod IX Srahd axs
+
+## Page 59
+
+62 [6 8 Sr re 5 Sw
+
+MOSS WrsswmNo 2Y Sosn goo Bossy
+SHA Moss sw Bcint 8 Boo aww
+Mosh. VA arn MaHArteo—_“ Wadrg 1
+condi Hoycheh, (FH, TMI ert Hess
+rxk Bab” wd wd* 20d chXiesom
+TH Bond, SHTS SHBdwe Ch sao
+Sgehyr CBP7P ENS 5 So Bombo Bx.
+
+SoS Toxmss NSXoS*¥swom asOox
+ater SySODogae oer soya chor. ws
+Hirwie SF GMs FS“ Hold
+soya ahgm. OY Som ASoar Tre39 sox
+SerosHonnd ” OH odrasds SToamen gs*98.
+
+Biron ST Td\gt Dd“ wairaga
+DO areoror s "WErors o 3)S0 arso” wd,
+“wargod S580 SySo" VON) BxXyndawsyé.
+SS Nh wagerssnsh Ssrosoh. Arx
+SPS sw NnOOHOD SSomsM arse” aD
+“aad.
+
+Gsron ID mos Straws Oswwod
+8a\5—
+
+## Page 60
+
+020) 8 PENS © Dowd
+
+« escirrg | wase san : S Sdorg 1 oer SD
+so Sx eras a PT S*x8 ogdve
+Sos [See Moshe. wocsdos Obes
+ard sojn Stoibh. has Bswcow
+moe Senroe. 8 arsan Sse efoos oep
+cmodd, Tagsni Sido smo ado
+Shee mers Poche ” wd spo Ando
+rh B20.
+
+B Sra S Cdegto DO Shdrdto Bxyy
+dor SMoGm. 8 Savchsmsoc KO seis Sd
+“§, Hino NH SH Goh westswasss Bey
+eSNO GLYonoHso. GWA srt Tso
+S805NO Swogouo. Vere soos smsoc wy sao
+$O)0HO SSom SdwihoBs. wht Arn
+sir oho Sxoohons asd woe Sosdredeh,
+
+## Page 61
+
+64 [5 8 Sw we S Me
+
+8 SossHtxwWND Fanon Adora r&vo
+Dowson Nord 5 9 SOND Heron wmMAorh
+mods ” a9 Baw.
+
+es Sree S Sdwgeh_“ & SMdsoNT :
+Bort e Swede 326 Swr 3( Fonons 2
+A
+TEM cools wags So wssSons :
+BX SORKA "” GD SS.
+
+S DWN Brow ASadstxoo 29
+“2, Orestes sp Sesoxsesots AsasHos
+shistdassw sdAd. @ cgsod Axssox
+wisdom So8MSS Fomor wiHhth radix
+SSMS Tex wothSmor, YOSads
+ono, te Oke yas men wothNeawo
+Shoymih SHINS. TA rdw wirch Ko
+TO OSES Sih Ara ew Smows how
+Br&oN Hos Mss cgswots Say6.
+Sdsin VIS SossySinean abAh. HSH
+Bow wsadhsn KOA Serobs So ara tons,
+VHS odSore I) Sov saw BL SMwowHno
+
+## Page 62
+
+9] Sry 0Gdh 3) Ores x09 65
+
+orang sco a AchwoGh. Bseo wagers
+Shade SE nysrwsyO SSHSL) BS. & Hx
+Ghiosoc Podersd mits wiyos
+co8d. 8 Shen DN aywewys sroderseoos*
+ed od onopr: DG BS8oS* Kp@ Sore
+SUeSWSH BP) ST Bdwo wYanossw,
+ew snd bo addin Nando” wd Bdy
+
+Sohoun.
+
+Sven SergSesswse Be) SH aw
+ea Foood was ASxvar OS maw B03.
+a3 S008 Bdolrcho 8[Irs om Bow o8s.
+Oss ASSonrr BTsowm Ediibay Bao
+[oom Sa Boome ard“ Gksoroi Ih
+OPT PHD Hens. MH Mods Se.
+eserdoss Shy UYonod db Soin Tosrot,
+oth Moth” wn HO8m. .
+
+Bw xroe OO Bita—“ewding: FH
+UHH SosrHash, SH BaoayH, 065 wy,
+Srrvergarh wosss da SSMS. dx ASRS)
+
+## Page 63
+
+66 [So Sr te 5 Sw
+
+SD Spek GIten ass Sessa,
+wma Spain or Ssors xr Neo Som Tt
+mwowss°HS, Soatnng om Brads ano. Dhair ahi
+0% song ox BP SHH SH ”* 99 [arGon8,
+
+w Srood SH Sat MD SoS aod
+“ Soir Bssera 1 hows 59. Har chxwom
+BAS. hw bho Stow rdhomh cass
+SH Hearht. v chgshobssor dv Boss
+anh Ursa T Sy aS sSSntkSeno
+Boe. TORE MATHS Sido odisa
+
+toh” GO BL) Gssom Tdsvodss cing
+sss Sonovds.
+
+BSSeo OESorerd S I S&H, sroermreoeh
+Bator TESS Bl) cigsese (Ashods.
+a sro rdshe 9 83% aye Kors SH
+SiH wcoSswem Fbod GXtoiss auvkw
+S&H SOs. Gis co dHS sa)s osisest
+CinSsink Edinth Tiga Boss avoroed
+Sings Aone Sm sod ws Nhoxsnxey
+ADHD S08.
+
+## Page 64
+
+oTos -odah Or E98 67
+
+seonays OSiveo srebmsoadm Assen
+potion SH EdwO Bhs 8s. rk
+Axso0m SHMoTHid Ton SH Fdwd a0.
+eg Hx dhamsoc Sw Baio Drosorr Soe
+Aciothodm. 8 Sd Sdosawwhoed Adsmoss
+anerssre METAS Hod. wai aro
+SriviwBod GSSom $9 w PhS) Sih Seo
+TO WSdhod SrHyos BH Tx rSgadrsaieo
+4H @S% Wows BOBRO SASHA. SSE
+cote SSom dod TAME Hisito830 Bo
+ms Sr0d HED Biro ard SHgrs Ass
+0S* cntned BS pibar h—
+
+0 A BOB, arore CAPSS
+YO SS Od
+
+“$, Akio 1B SArKsws HisHtod, rdivo
+Worms BKyd. Y OSwEES dh Sioa
+
+## Page 65
+
+68 (So ke S
+
+wssa. o. arsnachocs WSOFedesm Ke
+Mm. 2. Theodore ANS SHxwa Cibym,
+3. Pos gar Saiwsocs SEG Noss Sarwom,
+e. [Sem Sonsos X Sows Mmgom Kanroy.
+A. BPySdhimsoms No wSosoemen 3
+BH, a. Sooms WAeodsS srviea ayy
+Ogcenenm, nomdiairNomm, WSo Dargsossen
+xSP) reso Sanrom. 2, Sopxnow (8)
+SOBIA FASeNosS Searom. or. Womnmosy
+Qdsody way, N¥eSomworm Seosdiom.
+onxyh (Bhiitod, odtho @oms AN8od
+hos d. SraHs mw Sdoto Mossy wy,
+Varco S800 Mods choos s Bt) Odo Sox
+802th. Oye ShHaous srdiven SES garrvh
+
+3 8. SSapor ¥ SSo%s Seshengd Bahoora
+aris 8” ed Byrd AXSen SoSH e9
+TEHo WS chtses BH. Assad ok
+
+ost soxsesoom’ Esstegy Xm Bawa
+NES SBy%.
+
+## Page 66
+
+sry 1-0dab orca xo 69
+
+Asha wT&mor Soxr8od DBT HS
+KUSH YSMowsHn ne S*ysmor
+pomrr SSarDorhihoBm. srwHws dH ow
+{Bad G[Yomod wagNossen wihs dors ”
+Od KEHSHY Saw.
+
+@3 Sy>ée0 S_Sdeogeh 29 SoS*X xx
+So Bw.
+
+BONS cho SPSS esfoosoes 263
+
+B Sd geho AO arse oS (SES org
+Sx so0.8 HoNHo wAsSsmeo ax Se
+[ScwN aL ¥sdsoss Dan Soparyoow Bd)
+anti, tomo Tah wdS Asmar
+§ row Both ISch OAabioen Kora
+DNorwhoBX. ss Of somw Krew HOSS Saoen
+KGB, Se OSsorr avesswoh dawidxy
+S ODHsN ard Se Ector __“h masosa
+dh Hors wi How. § Sash. ar wh
+58) So GSysrew Toshondia Smhy MID Bore.
+
+## Page 67
+
+70 [5 B Mr Te 5 oo
+
+Am SrRHsr. omsiow SHPSxo Acdor am
+mr. dX Nay V(Fonods SOSMMSH. 8
+BEN [Foods JOSxom Mos sehyms\ a sing
+SPahong °” 08 SOS,
+
+a Sroa EF Kdwge DO ASasswa
+BLS TE gor SomHa ASchows Sw sand
+areomen nensa—" eding: Sndod* Fair:
+Shy SrHots ArNmmh Aouad. wv da
+SEEDS VdHstOdy. HY ost meg.
+Nw) TRsKo SHIH, dors Ney onesie
+ASH Thosso” GON acho Fy.
+
+3 SroHos BEd ch axsosxm sod—
+*) Sisto charvsioen, Sx Nod*x xox
+TOSSA, HS SSOLS Some ody sty
+Sobs3” wh Bayo.
+
+ST Cdwgeh w SAN sok OO ssHtSosabo
+ar08 ends) 5)Sio—
+
+## Page 68
+
+U
+
+BIDS 2a } “a § Soo
+aaa) Beeb DysSwd 1 Sw S¥o srsogoxmrd
+SbaP ON m9 AdhKo ar Has aio Kenronewe
+soiey, SUgHro SogSSockots di Sodrowaie
+Bos mare Susoch 95 5g 0 Bd NMohSimwo
+dorhy,, 3s ¥( MHDS Booosass om
+i SsSn08* Somsenodiory win nsrossie”
+wd S*3m.
+
+eg Snows SH Gane __ b. masosm
+hH SIH 6S SSgmmomm SMPHomed OSs
+coSes soma rats) RN Sdoxpihotox».
+AS ring Siero HO SOASaAO A Os
+ocean SBothm ” ON BH)x.
+
+S SHwHgeh shetSosss*od J Bw Bawd
+SS FOOD TWosrr—“ wa: Ney Su so
+Dogs Searain Oe Psy Nir Sarou wd Soor
+
+HaesS* THD SorgSHochocss SLosibocain”
+wn Bd) Sonosm.
+
+## Page 69
+
+12 : (5 6 Sere 5 mh
+
+B Doge IS wads $Q) KO Soe
+QHirwHoH IS NOS By IrSray Serd
+AYswom Moh SSehpomm womsfdorbes
+Gaya wont HO Noss Sse Tagomm X68
+SPonmws om "” GH SoFHy¥H Baym.
+
+S SHorgeowa Sbror arsag gum, Se
+[Bao sited wd ersnd 20 Nod* hsv
+Boas SoS GowS WFyw ard Rison
+Boknrsz ootwed Bxycoary to —
+
+SHODTA 06
+
+“3, Sold: PoewPosmsoc mood Se oes ove
+Kot. 8 wer Sassnor chadinm choix Bd
+Bao, Hos NagwmNorG chodh. smaess
+Sy. Ohio Koh, OSh TaASinom, vw
+TYsmoh B69 wY Yard DSge SOL¥ so
+exdon dome S*8 rasosiees" MrB 8H
+
+orb Bren Mase Sword Bho with Sossorb
+woGm,
+
+## Page 70
+
+10] Sry 00s Shorea so 13
+
+onewo Mog7r ward TAS *SXomod HY eS OH
+Bm wo ao MArven mse SO) wravosirs
+55° By sow ae UTS Aiiowor aborts
+esr sand S880 BOadMowhSimo wr
+S8mnih SH Sihyihodd. S dSxor wer
+Sexe sdAS iyo Hirwen ard *yxowm0d .
+TKESSaSH Sieyor ch¥eSHe ard IS
+pos? onmod SOS%—
+
+“8, SSS) Soro Eavtes ErT* Smosh
+BH Sy wsymo sSacesyyd. oo Srd*y
+son 3x85" Ry rsowm Act whodet 8S)
+Sons 6" GARD.
+
+8 TK Folds DSchows Sossxmo
+‘o% AS" & Soh 1 Tso ar dy ss oeh
+and seers rag hh i 58h ohare Sow.
+wedi SIeroea MOWmy dH, SSodamgsrsonAe.
+wmsos wOd* Aywrmoedwo Hons wa
+Amsns* Byrsedd osgiw wxss 6S
+
+## Page 71
+
+u [So Se re S hy
+
+Mod. cosO By swrsosow So SSOD Sook
+ChHeHoNGM. cS Dy srswhos asrs*sxy
+SH Be) Sihyhod. GIO Aram Pdadgo
+Sr [aPeadine Amiy” ada ass W¥CS HeH-
+* 8, OB S5S) Soro THM aHnolTsry
+coNhe Kot. LrwaNos 8 Normm addse
+Kom. TO Bi Goth Messmnd 2%, Dabo
+hota ered. e9 Gothrberswen bo By drag
+cho Kosd AwWoES wH Per SoS Km
+“RevtdiXyO. ho SIoSos WSTswk Kod
+[SHgSTTm Uchmowa Ahad Nass
+SISO. boo LS SWSwKomNo weds SH
+Di THE ewsehBH” wd Joh BSyvs air
+Sn aiphayo_ “& Sod1 ov way ow
+wATos SOS th. WINE. oMdSeSAS Smoheo
+08 Be S08 dNgdin SH. dhIO AS Meso
+Om. BSpay so Ansxo—
+
+eg Ores Seb a Sarre Poss 3 Fa
+Sas Swedish) PAW NosrSomnw Sty
+(phy) Ble MMos Soares 08
+
+## Page 72
+
+SS, odds OPEN in
+
+ei aiwSS SH. v rein 68, Soghsine
+Kareem coSdoK WoNXoch. wosBExSomhe
+Deyn Sowsorhs. w hes ss, wy ssina
+Sos Gorbibod7r UG TAmth Sodtrssmmhady
+wich Sdosmwss Say. ©6 rag oe and
+HiocrY eins TAwo@wss |E°D VSO wy
+Soars Tasos SBP. G Boy Hrss
+
+mst SYSS SDSS SOM adh. wPOdoa
+SHsorth orai se BR.
+
+Se Abo LrssasHw wAs Araw
+Soe SAS SOcSMOrS* SrBh. KXouinys
+inS* Kes adh SR. wv HE" SrBs
+rE datyow shah, wd vw Shs
+Soc POYSHS sad. Oyo sedsoe
+LoS? SSrdwwm Saeade ISSA. woe IO)
+aribibosrr wpaT ocho Awrbibs, Sag
+Sis YiaBh. Ge hind owss Oy
+HoBw. @ SNe aH KwNedrweth mas
+DBMS Megind BA 28 PHS HON Hodson
+
+## Page 73
+
+16 (So ke re S
+
+wm Gao Tah. why Boossay ¥
+Ds Hossohs srwmyod Omborbesy ag
+SSom arBa. GS Se rasosha ard Ans
+SYMoKOS onmed Ardowhibods—“ wes,
+COP Hwe arasviee Teh. Adgodea IH
+NeHG cod. oS, DNaTgso, NoSSe, Kwa
+Nomiweod aSD0 cahochm. git Gods
+SoX gxyo% Sdydnowin” ON Erdos
+sary TroBw.
+
+HSodinheothiv MSSHAHS cod cto,
+2 Sgmorord —"“b. SHd1 dH Rowow
+PSH Pomibayy 2 bh ohxsmi dowossoax
+BSSG) Hwwas dosnorah” wo vss
+Sioa FRyo.
+
+(Biron hyhdosswrr shyschomse
+SOS Ks SACK Y SSs OKOB Shosso -
+AothKo. BOs BS* 35 Satie BS)5H9
+. Sowe aw.” 7
+
+## Page 74
+
+SPS, 0Gdh Hoes cf
+
+eos Bos a NOQSy MOS Sm Bdah
+SOy%. Hao cor MGswrr Bo\Sd__“ Ss SSg
+h S0)Si BONA Tie mAShibs)d. sed
+SeSSSSOS AT GSGm KoSigore wrir 3,
+Ss Do wos. SSotoes Sosseosow
+Uy DHSS SAdwNyd. seh Par sasw
+wEmth BDHSN) onto Hod. art dar
+Borsisodm wEvard sberosd*_‘ dh) oso
+Srbeth DaPsraindhih "ON Bayh. pay
+Shih APSSOPSSOS Oy owefyom sx
+Say%. Sx) sumronmh Arrsrd ard Sta
+Sam TPososd "* wd Fam.
+
+HowsO dhw BOS Bors ArHep ore
+SoSiet DD SoHo phd BX)HA%—_
+« e9%mg, Moweroa t Ox amd Scere odo
+(OO Bp Sam. Smy ¥(S2 Sd 8s HSodinte
+SH gomt ” YA Bay.
+
+es Speen MeIvred AD sto Sod *oBr,
+
+## Page 75
+
+18
+
+SIWOVYH HodSocor4Fo CSD)
+
+Dwsedoo Bddoodo
+Dowed Sra SSTo DT CSW eax NOSSe
+werk, Homma SHyoo shown Sova Sox
+shrovmh HXodirwess andy Darsieso BV,
+
+ATehm, Homédsen, HoddHocko SS
+Darin 8 IS wYmrsose BHE. og
+won mesh ard‘ esr: sero :
+Ds*es BOSS. omol§ Bh wT a wsoxs
+BIS. bo SAS GF ODS. ways dF
+cor swepeNnchod Omhrna AOA Hossam”
+@D Bh) SS VHMosH BR.
+
+| HSodimvyt SS PSs sowosw
+BHHD HSodiny goo S8y_ Seay chodmar sary
+Bh SK whosos SSkPS 2d Sx
+QSOS AMMND), SSocireeost Sins asoi
+
+Ea aRH. Voto KSedirkhee Toss
+
+## Page 76
+
+| Sr&poGad Hoesen 79
+
+EAA Gms gx Sos8d Sox-Sosrr
+PHY EHH yBM Gh. TA Sys wy sHm
+Bosomwsrs srdd* ond.
+
+oS VNocrehet yY ovostsxosd
+SS PSsS* wraPosSd) SOSo how oors
+SSsory S20%y.800 adAS 5 SSrSshos aha
+Bayh. SOSoithe Mo SoS Rod 780 wbde
+fo) ; :
+BoNb. Rsocir%MHeeh PS eS Sopoerravod
+[Saod TSPosachihodm,
+
+ontn S*osSrosi abAS Dayo rss
+PEDO Sixth PYSHM woes omos oso
+CHO Armes rosh wxsrsodh ”
+ON VFGIHO Hiren sb.
+
+B SrHos wXeSH wo MPG0N IS
+Hirwo srs ysoSH Sodod msoairsed
+Sood SS SMroIrwi Mesh Bdyod ox
+ONPHeSH opty. Mwodirweet SS yg
+dost Toh ciors SIeromomor Mocs
+
+## Page 77
+
+80 (5 5 Se Te S Sw
+
+ToGm, ome Persroxw adAs 28036 ang
+Seerth Hiodrwess  omrsgers aro NS\Aod
+Ph PO ssa sor SUSSomso v3.
+
+aowTeonss HS. Scored
+
+gewoar Sod Sosmmsm soorons IT oHsH
+Kurboth NORD, 8 HArwONvs sO ~ So08
+SHeSa¥io Acer ws ST SSoess
+Tob. SedISsorw Mersrowh, ywHStow
+wx hse ADAG. TED SH eSSyxo aor
+THM SH SSxwowH aS. 2 sbg eo TOS seh
+WOH, th Bows. v8 Maron rity [SE
+Som anSobarihen SVX. ys sso. TWO
+men Bos SJorGZomom, CSSocs Soswom
+Vara Nsw SHgaod so Cbd Nnsnd—
+
+“easing 1 wo Boosods SO goon BS\SONNA”
+wD S*Bm.
+
+eros Maire ro ota arn
+* rao LOO: ne TENSDA SHS dapyd
+
+## Page 78
+
+ny SPS 0des Sorex 81
+
+Sxorr S Syd Snr Teassroxoen Bctiy ho.
+TWIG SMor esses roe Xo Acotosy,
+
+Gre hem, arneco, TS VDA gxo ex 3
+9 SS Xoo Gis SSOXGh, FY HQoses wxeachsw
+Sarerg ir Sawe SOA NEN HogNsm,
+coarrespor solo SemrSome SSA chog
+SO. WHesods ¥ HHeoscNS BOS show
+SO. oer DTS Ho v0 Ope Sdoy tho ef
+od. soakesomn LEI SH peso ¥ Ho
+BK Slrgdwodnds.
+
+RTECS wedi) SS Wave Googe
+“ as, 228, AcdRwoik; Nod, AAs, Sroin
+Bars Nor F¥obknos, Bods smog SB.
+PeSH solteo, Pega e303 HOdared. Scho
+
+## Page 79
+
+82 \s S Sr we 5 sho
+
+[SOON NKowrs dooshS. genxoy
+mers dXetds somosde. F(Majox esonox
+KOA doth. PNdhwo wagss Samoan
+Sobchiw de. wa, SS. S85, vam,
+NrSySgsmom GH ATS Keomem wonox
+KB. Qoldchsmor somowdoare  somgsom
+BrISMooH Btheows. srxmoxwts doth xox
+ovepnd) S'*xomsos geootkss ayo Froas,
+oomss Bh L808H. Sod*Xsmode yHyvo
+‘wdboth KIB. Ms bh TS mow Sud
+Sowsasha, nso hashowsesh Kany. shoossaes
+we Ssrd Kchesomen ‘KOA S€orhy. Fh
+SEswsocs So¥ Fyfsome TiBosSSH. 2
+Sy-Sph HOTS) & HosNSH. Sorgen SK
+Dassmsom NakwothNero S8Oow whos
+$3%. BSorite srs yswwow werd SrSsow
+Seow KeaKsn wm ard*sxoNom Fabneh
+hacrrraoses SA Goth SrSxwen xoowwih
+Pothwbhorsy.
+
+## Page 80
+
+SrSy.otd sporessin 83.
+
+Hoi (Seok SPosAahNSmh. Srcogen
+ONG Sow Srdochoe No sox bom
+Sossos wer Saom mdowrrda.
+
+choc Sos SéT ons wdn, Fehon
+Ho SOosS WoSSH SDs OH ISxww
+cree NK \ EIN [Swox BEODMHOGSS. oe} %
+SoA ara (Sesco SoS *Kxwk Toe MSswow
+mer (Sao an SoS sh swk Moewboe
+8m. WO WN) ascthajachod Sossomthom
+DGLoS war Sew ceSxyoS* Soows& woth
+Sto BonxNGm. arp DASXoN SowSorh over
+gir SOsMeoc NIexomomom Poco, S83
+dio Yom SOaroSEd over (Nae Tot hea
+SSgomo wINaren speagoms rocibochm.
+055, HOProNsn dato rer | Hansao JSoms
+OMX PA Xr Srochihotom *? ed SD Bay
+
+sO Sra os WOW,.cho conewon (58) 0%,
+any o—-
+
+## Page 81
+
+84
+
+26 wise Soy 0239
+
+“8, 8D 1 Ds wads BdyGd, A SS sy Yew
+LPO SyPHSS 89. KS, ws Srycmow
+Sw SOchAareKohss ” wP wat, & wdRm,
+
+8 Srbhos sbcrot Onin BOS SoAk_
+“ DF 1 GO 1 TTS gechys Chacencth, ok es
+Vargan SENam oh vo M6 soc crag
+eth UWIOSSAS SIgxeen. ond | Bron 3 cave 8
+rerassmb Kod. marsgaos Ck women
+rthih E Soh S¥gcaow, wer S8g soi Froid
+BrHON POorhes YYorta doossd. Sy, xo
+os, ecenen mMrckih Shgo S¥gxou. oad
+egsin, dex) 8, Scie, erica
+BIrAdw Iw Sho Sogswen. S6I* exo,
+Bya, Acers, tx BxXesxoen, (Sos ALY
+Coser BATS) B. (LB Lom shy choi Ses yy xo
+
+## Page 82
+
+Sry oath shorestien 86
+
+XoX HyAirocds. She Pa. aL svg
+Snen Edward SINT Hx. asNahsxo aor
+S808 so Beadesom roses,
+
+Sr NYT PAHS WH We LOgererahs Scesen
+wd Biypddhsyd. axrchSsm wows 293g 6
+HOSTS BK Bote wiry WS griow
+Shigih AWvechmmsewn Lawwosxvsy.
+
+Sou NSgo Some snare 8 sarcar wSeors S5n
+
+es DS soorry ems ONSarth NOS xwx
+~ Poche *7 ON Baym,
+
+[Pdiry WE 8 O52 S002
+
+BOA chores cmd BS AA —“ (HaAgercers
+ASS chs Vers Lio MOHOY euirdis
+doit [oirywSexwih Kee Daseaesuo
+Ao hossSh. Premedhso, way ssrice,
+ary Sco, ORS) So, Me orhinGMod MHdorha
+GD) Soysme. car MSxor Amgeredsowhan
+
+## Page 83
+
+86 (SS Xe Te 8 Sw
+
+Mt Khoo NH) VMweIr0d Ayan Pesioy
+Sr oSSBH. Kysrap (8 sate Axa Bore xx
+[Sar Farin SoshSx. Bows O SOY
+sxom WosNsm.
+
+Ky Sear 90 SO) Ooo
+
+My srar absse Snmesmen :—  Aasrsy,
+SEPSho SxgUrrd, ahVSSysy sss
+OA, Meher SosNyS Ko SSgSHMI Jaros
+ALTSLSH. 88 YH Stgsnod sixvw
+eso 5(&, Ose SS g sen Bdoibosssr,
+Syhgos, w\hor, nocharom, Ax ox,
+wotsors, @How, Hod Brn woririha
+Bator HIynows (wir sAud Sousa
+ASST Leas BHT mas ¥ $2 188) dK
+YOewary Son eS) IN xD Boo rhosNBm.,
+Sodaheiine BawmboaxsSr. Kyrie aa
+GPAT Tse BD H SW som soho choad
+DSm. SS Doss (ArcSSxorw) DB Axo
+udorioonsB%, *s yee
+
+## Page 84
+
+8%
+
+Povpe rors) Soy $9909
+
+Braman SH ows Hakgo AysSywed
+pik Msrwies w5Aon BHWAT HK Fars)
+ers SSzXDe SHSoHSSm. Hoeag Sarg sek
+Biot, SKxdy% Batorh, Tochor x<eotho,
+(wary WS gaso, BOOSTS hen, we*soxoen,
+[EromrySs, arse, miei, sie
+(dnd er sieae ) on VIZBWOS HH eaw8on
+NvsorTr SSysSmom SsHih soSmoyH wdStoo
+sae SH g Sneo,
+
+8 oT FH} Hoo
+
+Sar Veo | Ans Sargds wo De. Ans
+Sopons, SSQNONSEMS AD, ABoBowa
+MIT oxo 27 Mo Hoss (msrywUgso asvoahe
+SimBorG PK sw Siow, Ider gsm
+SBowiin Actor wazS*WSk  Baiordor
+Sam.
+
+## Page 85
+
+38
+
+ne KESNOTOI a HOOnmnOnn Sy Srv)
+
+ns, Fs, waron, er cose, Wosrih
+sSSonxdm. wNyFo¥gsnm, NTS \eogsnw,
+SoS hsm KOA Aossam, Ss AS Sor SY
+Soom, BenwsS AD (SHB SrSajeh NOW8om hog
+SSH, car S8gsmen GNSosNwr6N over sow
+hosNSm ” ON Bo.
+
+| SO Sran AN Yoty.ch omdwo [Sey ois
+tary to —** epsirg Ky srar (veo SSO,
+wd OGisnow, IS So Wainsy TAS 5%
+Sma Aateiokydyth ishyeo PavAs
+SSemosd2 oesnn srssxmso2 aro
+DY Sor BSHoos ” wd S* Sm,
+
+— BS SrHoh Hares ano Ai pwsy S—
+“Sire 1 Sony 1 ysis So Hom Shox
+
+. MosHSe., DL AAShen, ASSeo, Morden, Mux
+eran, (Si Seeman, Ske, SOxher, Kyrie
+
+## Page 86
+
+12] SrSy och BDOrea doo 89
+
+PHGSASD. SS SaHwrHaS VH SSeNos
+Kos wrssnd Sst. Asxosoed way
+S*sima 0obHS) A. anh, Syh%, ep ep
+BSwwm Msgs, Posse war, ar
+iy Osman. FyoNsor, wr iir Sse, Sx
+Som, TOS Hier. Pichie, Arison
+Sone, ayes sed, Tre sesg Sosy S53 e7.
+Sr0d, ISO xn Lae.
+
+com seni SSivod AosS8aoad SNsen,
+BokSaOO H MSSHen, raseon anxher,
+TOASTOON iwihsgen ards Ratorbocds.
+or assorr A, Bhs, @OQSSSvo SSH .
+oh% SoS*h mo Sanaa. PHX sdroae ss
+BWSySmom SSOS eo todd cSuwxs
+So Siomws Womhos Sodahiwss. wy
+SBMS OH,
+
+BGO. POTS SoBe OSSo0
+DSSS) Sor 1 Nyse (SOASMoSoc [Arse
+Sososoc, srr rd *ssapsows wane
+
+## Page 87
+
+90 [5 6 Sr wg 5 So
+
+DAdbo Snowmen. Ads SI Sr omaay, ex’
+SODND) DROBSS. car Voxmnoc Gd yds
+ASSO
+
+Tu wy. ddgo SEA ds SOoRD acing ad |
+SABTY Sos Bs 5) Sogo Petals Seder
+~ areaan Q —t
+86 som MNosso DSc & DHoo SNo1
+&° Sorc Tyo OBS Ke Doss |
+S508H SB SossH Spee 1
+a8 § 6 Per xgo eactooorO* 9 SSS i
+SSoBm SOQe Sev § SwSg0es
+wr sivgo WOKS OS HB SHBHOD OH
+eds KSsiows HSyesyo SANSoSu
+
+o O
+
+wD Bxyddindys. SoswXswim deo
+TrOVT'S SR, & SS snr RTS SPH od
+aa ecwdyoo SMS Sy: [SE Sir Sirdar
+foe)
+Eira Sos Darow ST) Bsr SSSySu
+
+CD Bb) SoSTSSMVEd nh Ode Sagrsawm
+Ft) ary whaparco 8H)HI TS SToom
+
+## Page 88
+
+Sr8z0Gds oreo aL
+
+md) SKyTIaMed SoySSoms Ardyod
+ir 5* 9 ct Soo WMNTSH PAHS sos! Hol S som
+mhossBrd. Nr Ss S chi wood hry o Grd 9x
+paini 82) Both Srmbsnosim Siomaa
+mig B08 HSS yoomen A Aysromsh
+
+rise. sod Sosots BSdom Kos Bary
+hod wrdoSSBH. (405 Ga Tys hoses) Ayer
+Bgimsoc Bary, AXeASSoH Hd
+ey Soi DQSSD. BATSLSHIS SXyos 680,
+Sroys ono aSmm, Sheds chimsmm,
+Say woos RP xos MeN ondeHSm. Ky sare dabows
+gin, oados onodibomnm, PDE NSA,
+rgmom VoS8ErwS onieNGh. ond wons
+5g 6 SSetird sow onseNSm. Sears 2558
+eye) SSegrd sow omiesBm.
+
+S Astor Grdsmoh vx) so Dds
+Dango NysrH Noahs Lh, G wsadsom
+Aaschso ANS BIgSSHd Shp. Budyo
+
+## Page 89
+
+92 (8 6 Sr Tg S So
+
+Kym Dosrang 5 SLoHGs SD) Seusy BID SPo¥
+SH DeoiwhosNS\. v9 Nabchaios SOS wa
+Wed OM dod s) STSSSH. FO we
+Frese Shrrdh, 088 dod Sy HD Mods
+Rio PHwiod&, HHtaHha Sod hss
+SPomeoe.
+
+838 wxy som BOs Ky Sods
+Hie 08h Ady. PSswa AKyMrisH Soom.
+Kyra Hegswom wm SHS OM Hm. wes
+Say Tro Some ao.
+
+Ayo BOOSAD Bdg wore
+@
+NES 82IBSS2900
+
+[=8 yer NS pmAdio, 8 do SFmAcw, AH
+3 & BhHddh arth MSSreows Foye Adio
+SSH, [SBASiwSom Sotadgysme Sado
+DSgsw, PSSoyde J d SF. HOPI
+Oa mee Q
+S500 NT gS do SFsmen, BSN ANT’ oxonoch
+
+## Page 90
+
+SrByoGch sorersio
+
+Sam vod, Dare Potwsoch Baio arbars sane
+BSéor woth ody, akth sveoxto
+TPodSHeh Serwd DISHyw 08 [YOS HOS
+Ediwooco swSeasroc Ande (Sssos srs
+[PS Sw Ecko th Hossy5sm wsoS Shoe
+SHZaY [THomd chowrdsrr AasIm.
+
+Ss MSSwry BS AVeANHamw, 21 Ax¥
+Sen, Sy HO Trochess.
+
+Bs irs [Echo VSD Shotha Sav
+SB. Hhotheo GSbso SG See oohSm.,
+Soéo ss, wddo Gdso Arasa eos
+S8m. esr BHosxnmsds (HIS) Seiioe
+ZomowsSm.
+
+(7 5 OO moo
+
+ANO§ Sod ws Sos OG Soe Shoda.
+in BIH EStoth SMB asahsy coho.
+& UBM F Sawed J Spedwod deasnem.
+
+## Page 91
+
+94 [So SP re S Sw
+
+Ho GHMHTN Sis sagnowsonay
+$5 SPO R¥Sonomedcts Bi pte, Gs
+SSzvi cd Bdwous 3, HSSSa oy
+SrS's SwSot BS ArixwowH SAS SOSmoy
+Poss agSY Soro OhSIDSH. Ui
+AMaNoe FY aryNsw EaowWepe Sens ag
+anwod &8s H8NomMoud Sy ES e sso SP O8x
+wir, xS0Mo%08 S86 ABPomHodsS Ax
+eso Poadrh, Hosaswoswsoc Ard
+Siow TOS Satmovds SHIRES Arshocvos
+mgsraw, Norsy MDS HPSIPIWA Sr Sxnn
+SPoasrHmd, ASoxX) xo hs Amd dsdy
+Som Sio UcLSASTS chodcin Somrse
+BY ShomhrHnw Hhdod Sy Hiroe. .wweny
+PS SAYS Tess Grddos Shs sodlocsHo
+BS, whgo Hoxmood ais Sow mds re,
+5 58 NosS Hoxnook ends ar doa Noss
+erie. wagedsorr whoo Ge Bax
+
+Sommho sow. sHdssowH Bodsea
+Bows x.
+
+## Page 92
+
+SPS 0dah porcarin (96
+
+qa PSL EPS tory Te chao Sod Bons
+
+Sipwmdstm HTS yswo RabSsi. (Ne Jo
+
+chow Sry esiraress, sa, Ado Bw Sor
+
+ahah, Sire SdrNsmh Tosh, Irdp
+
+Sols [Wwsrea Toxo, Ske &Sorchey peas
+So xned DPSdycogwros,
+
+Sol Sxoea Sebsra Se xsoen, [PS Swss
+asco Sains SVEN) Sard Sen S 58s
+Tommsocos codes) so OAS Pod, adz
+NES SND, [Weiroos NOAS Sshabse, ond
+[Pom FaosAS Tormed Bah Tso,
+
+AST MS EAS Seo, GrAc, srsirxs
+Asrthw, TYiwm Saddam, Avs Wann
+ari, Serr, Ge, 10989 HCH, weoth, SSaLw,
+Mri, Disrm, SHdHth, SP awew, Srls
+
+ie) i)
+nos § Koweh, BSgnoda), No TSO zo0| Seok
+SASTH.
+
+## Page 93
+
+96
+
+ee NAH | Sess BNDardo
+
+[SS WHH, SA, VoNirhe, worrsyss,
+Goss ATwHSrdSTos HdSreH, SSHVA,
+SOQ Sosse Kosch, ASS Smo Korth,
+Hows Meh (esr SopGchoswr enswHomH ryan)
+wh) P¥mh (esr AsT Os moe sar co)
+sn 5 S*sr, aM ¥ Teh, esac Soasrh,
+Sox, Sort, Sarg wtyart, sKes%
+VdySarth, BSgson Aotare, mee Sv ax
+hos Raha, AS Same, voy, Ova Jo
+driv Casa, S6y Swe, Saseds Bo
+Darwexo woorsarc, dw [PSAs Feas Sas
+om. Sas DOS? oto Sxpom BenwD Ha cares
+ord wiryemod Nod OWNS, (PFASomsH
+TIasMsom Mo SeaswAato 5* Sand,
+\Psss Soh, (PYaSomss POsesinsoess,
+[PIASswsoeih SoM ren sory. & Soat
+KX B25 dhfo Hse wx SrSdo Sos
+
+## Page 94
+
+13] SS, 08d Hore 97
+
+KeSind Hoes. wosSosS poedswwwom
+gi So AcWONNS were Nab Moses
+be Aso Osea 5 Soh Odbdows
+48m. (Fg Sooahomws SO)S (oP) 3%3 cn 80
+md, cse7rd, EPASO, HS SdySaelo
+APs) Horo Karon. HY SE SoFoB Shorey xo
+Kot HEWO [HEE SH AMePwhHswwwn o/h
+[rose BOS Ghto HSHen NosdoBsy. 8
+¥ 88 SASevO SS, Sas, Sarto SHON
+43%. Weno BOS 2 GO Ssen SoS hod exon
+YrSemmen THomos wbSedoihiborses.
+
+(FS ANswn8o HOSS) wT OS2©9
+ore tere) ETH 29909
+[PYawsw wine Bose wNgsmm Sos
+Sihym. 5 p.67r°8 rng sen, ad, BogoA
+BoSowsD oowswry WO, SOMOGSra, wag
+chsorr 7PN, SNgao dD Sav0ns wrbso8 ma
+
+## Page 95
+
+98 [So Se Te S
+
+BHT aS Sovsoarrd sa$od. SdH Hrs
+[SAYSomheh, Sree, SABH From Ko
+Bose MidrAossda, VD soy Kxow, 8,
+Sd, 25, AaKe esocdajen, 28, Wes
+Bodom son ra Hors. HbOSxSne,
+Doren, anoso sven Xo BX, Shonds
+BH, Hogisxo whan soos. SSdos
+Ecos ch, S8S°A, sod, SNond, avs,
+SHoHMe, wxvdee Bosomrmy, s§*6,
+S08, 08), sires Bwtior Assos
+Uribihosn Tabor. ws w05 Hadsswod*n
+| Fen, cirdod BQyS Tam Sasa. 55
+ddthar [Fs aSrmsom Sader ay, 350)
+[Sar sins SADSD, (PEs s LHS BS)
+SAOSH 03 S*erS ASTSxo QOS mdse Asso
+Nod SHr7r dhaadarr [FS ee esSA0SSSxx,
+
+rs admasods sans, SOB Ss
+Somwom Magow a) WSPadh, choses,
+$oS. Dotxoxsn. mxhdio. esve8. sxx. ween.
+
+## Page 96
+
+eos, awn Bosom Sergsspen, arg 8S Sor
+
+SS, oGch BOP Caso
+
+SosPBODS SoS smos* WES Heo KOA [FS
+seh tay 35S0\ 58%. 8 25% 2 HSS 3
+
+BORA\S Dee Sosdod
+
+onary seni,
+a 9
+
+wdinde Adio TSorothoenes.
+
+“$, Hiro: Voor t
+
+> id \* 5 baal)
+
+| thay a xs ”
+
+a.
+
+2.
+
+PP Ssdo choc SNergH sox
+DA dD aLOL NOS) Sow
+
+. SSchahor Bars sown .
+» WABDO FDIS Som
+. SosMahoch DF eS goed
+
+Adddoes Derarcoenm
+S Sdochoc SOsSsor, ad oxerso
+
+. A Do ahocs WHOS Sevrd, SHSOat
+
+Sag wy sah ay
+
+## Page 97
+
+100 (5 6 Sr Te 5 200
+
+&. SAMdhoeh QorSoms, AHS HS mow
+
+no, S¥Mdhos NFo Psdesow Bo Lom
+
+AD. APSeAHON Ho Darg ar acto
+
+2. MeSIdhoh SSeSSS HOSS momhy
+
+23, (SArSeahorh gy DOH NOBS) Ors showy,
+end, HFos, SHAS, was g gS.
+
+ov, THYIchoe vdogsnd sy8d sroas
+TH), NS) HoOerP SOS ows ro &) 59
+SPochehe,
+
+ax, Ssrarss (9%) Shows [Pam Bos
+$ oH NSO rHomen KOA SSemmnomad
+Kenirom. SOs oars 3I°O Sochors
+\PISoae Ecing shoms sho.
+
+BsogSdyeo BdSrtosa Og | SSo000
+6, By ae SE Stas Sess
+2, Kirdahots Sosy Sw
+
+## Page 98
+
+MrT y Gd syoreasia 101
+
+. MMS Hod 23. OSs S00
+
+B/S Mod T° Sg xo
+
+WASemsSoch GrrH iw
+
+. MAgM cot SoS hx
+
+we Bidhodh Hires xn
+Sopahoct HogoA°s sro
+
+. Qajchoc SPE Mg Soo
+
+$5 8. B05, SoS ed
+. AES Hoch HS Dos, 003005, BSg oe
+
+a Sawoc 2 BSS ¢ Soo
+on
+
+. 0 Scahoch FSs°098, Nowdy 1s
+- MQ SH FFerSSw
+
+- AT Hacvods BDF Ors Bo
+
+- WAPOA choc | Sgose so
+
+. Bg choc aS greg ss
+
+. rocbocs wo Again
+
+sporgare choc § 8ctp
+& Sag chos MIsVSSo
+
+## Page 99
+
+102 [So Sr Te S oho
+
+20. (¥Seaxmnow Sedar 8
+
+20. SRA dhoe SHH Sen
+
+29. SABH com SSdaon Ds gen
+
+23. ¥SPAochoe 2 Bsa
+
+28. Sores Sao SHB
+
+24. GET Shor Pr ogDed Tag
+
+2%. GXBdhom Sosy Say Qcdin
+
+22, even SES tosocs ara Pirn
+Say Bctoo
+
+or. SSBohos whe mms sah
+Yenror.
+
+Sad 5 Schharth Cho Srctto Soenen ae
+S00 88, 7d, SEfomea Awsoo ESA HOM
+Bamthossam.
+
+Si DSSor 98g BOTS Leer Faso
+wth shit Somes 08 Ardsomem ws
+Somen Wocheoe.
+
+## Page 100
+
+103
+
+Aygo esdcHSONN Gd) Sa2e0
+
+im SrawssSosy G S55 § KOAdHO BNO
+pyomom Mos Mos. vwrsirHa
+cindy aso ONDsPrHOswWIoOM Brhm. semnsodarch
+Act weageSginen Sora onde. wan
+N80thHad, mYe 5s so SBorhi, estan Neots
+Buh, SHS GPSNoSmh) SG chogssm.
+Sti, WSS, Tibi, Irsswk, Sse,
+Sows) Sx, Borgen KOA ows smNocom,
+SOLmsomhi% momo Mow, Nysrm [858
+Sova SPocheh. S5zewNo Nyse SSH No
+mrossomsios Suyth rfom TamrNonam
+8S a8 OAS chadirTh S5zcpowmh, Goss
+BND DBgs d BSS S 50mm, Sond now
+a2 pty osow BSQrASSSm. shr SN xox
+AUKOS BriboskS%. Som Sowows

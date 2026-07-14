@@ -1,0 +1,226 @@
+{
+  "title": "Chakras",
+  "discovered_at": "2026-07-13T12:54:47.610551+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Chakras for beginners",
+      "authors": [
+        "David Pond"
+      ],
+      "year": 1999,
+      "languages": [
+        "eng",
+        "spa"
+      ],
+      "ebook_access": "borrowable",
+      "public_domain": false,
+      "ia_identifiers": [
+        "chakrasparaprinc00pond",
+        "chakrasforbeginn00pond"
+      ],
+      "edition_count": 4,
+      "isbn": [
+        "9781567185379",
+        "9781567185362",
+        "1567185371",
+        "9780738715919",
+        "1567185363",
+        "0738715913"
+      ],
+      "publisher": [
+        "Llewellyn Publications",
+        "Llewellyn Espa\u00f1ol"
+      ],
+      "ol_key": "/works/OL5617315W"
+    },
+    {
+      "source": "open_library",
+      "title": "The chakra handbook",
+      "authors": [
+        "Shalila Sharamon",
+        "B. Baginsky"
+      ],
+      "year": 1991,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "borrowable",
+      "public_domain": false,
+      "ia_identifiers": [
+        "chakrahandbookfr0000shar"
+      ],
+      "edition_count": 2,
+      "isbn": [
+        "094152485X",
+        "9780941524858"
+      ],
+      "publisher": [
+        "Lotus Light",
+        "Lotus Press"
+      ],
+      "ol_key": "/works/OL8676131W"
+    },
+    {
+      "source": "open_library",
+      "title": "Wheels of life",
+      "authors": [
+        "Anodea Judith"
+      ],
+      "year": 1987,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "printdisabled",
+      "public_domain": false,
+      "ia_identifiers": [
+        "wheelsoflifeuser00judi"
+      ],
+      "edition_count": 4,
+      "isbn": [
+        "0875423213",
+        "9780875423210",
+        "1574532030",
+        "0875423205",
+        "9780875423203",
+        "9781574532036"
+      ],
+      "publisher": [
+        "Audio Literature",
+        "Llewellyn Publications"
+      ],
+      "ol_key": "/works/OL3244799W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "earthmedicinehea0000cric",
+      "title": "Earth medicine and healing stones : practices for health, wealth & longevity",
+      "creator": "Crichton, Carollanne",
+      "year": 2006,
+      "language": "eng",
+      "formats": [
+        "ACS Encrypted PDF",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "EPUB",
+        "Item Tile",
+        "JPEG Thumb",
+        "JSON",
+        "LCP Encrypted EPUB",
+        "LCP Encrypted PDF",
+        "Log",
+        "MARC",
+        "MARC Binary",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "PNG",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Original JP2 Tar",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Title Page Detection Log",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "longwalkstoryofw0000cast_h4b8",
+      "title": "The long walk : a story of war and the life that follows",
+      "creator": "Castner, Brian",
+      "year": 2013,
+      "language": "eng",
+      "formats": [
+        "ACS Encrypted PDF",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "EPUB",
+        "Item Tile",
+        "JPEG Thumb",
+        "JSON",
+        "LCP Encrypted EPUB",
+        "LCP Encrypted PDF",
+        "Log",
+        "MARC",
+        "MARC Binary",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "PNG",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Original JP2 Tar",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Title Page Detection Log",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "yoursevenenergyc0000prop",
+      "title": "Your seven energy centers : a holistic approach to physical, emotional, and spiritual vitality",
+      "creator": "Prophet, Elizabeth Clare",
+      "year": 2000,
+      "language": "eng",
+      "formats": [
+        "ACS Encrypted PDF",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "EPUB",
+        "Item Tile",
+        "JPEG Thumb",
+        "JSON",
+        "LCP Encrypted EPUB",
+        "LCP Encrypted PDF",
+        "Log",
+        "MARC",
+        "MARC Binary",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "PNG",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Original JP2 Tar",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Title Page Detection Log",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1969943317",
+      "title": "THE PHYSIOLOGICAL FOUNDATION OF YOGA CHAKRA EXPRESSION",
+      "year": 2009,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1111/j.1467-9744.2009.01035.x",
+      "authors": [
+        "Richard W. Maxwell"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2886157871",
+      "title": "The Geometry of Emotions: Using Chakra Acupuncture and 5-Phase Theory to Describe Personality Archetypes for Clinical Use",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/6106753",
+      "authors": [
+        "Christopher R. Chase"
+      ]
+    }
+  ]
+}

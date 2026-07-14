@@ -1,0 +1,622 @@
+# GOPI GEET SANSKRIT,GUJ Hindi &amp; ENG
+
+
+॥ गोपी गीत ॥
+गोय ऊचुः
+जय
+त तेऽधकं जमना जः यत इिदरा शवद  ह ।
+द
+यत #यतां  द$ु तावका %&व
+य धृतासव%&वां )वचवते ॥१॥
+ગોપીઓ કહઃ
+િવજયવાન છે િવમાં થું, જનિમયા તમે તે થક જ;
+સતત ઈદરાવાસ છે અહ", #ુખદ %ે&ઠ છે સવ(થી જ.
+પણ નથી અમો નેજર #ુખ, િ+ય અમે તમો નેજ શોિધયે.
+િ+ય તમે લઈ +ાણ /ાં ગયા? 0્રકટ થાવ સૌ, હાથ જો4ડયે.
+
+भावाथ.:- हे )/यतम यारे! तु0हारे जम के कारण वैकु3ठ आ द लोको से भी
+अधक 9ज क: म हमा बढ गयी है, तभी तो सौदय. और माधुय. क: देवी ल?मी जी
+
+## %वग. छोड़कर यहाँ क: सेवा के Cलये
+
+न&य
+नरतर यहाँ
+
+## नवास करने लगी हD। हे
+
+
+## )/यतम! देखो तु0हारF गोपीयाँ िजहोने तु0हारे चरणH मI हF अपने /ाण सम)प.त
+
+
+## कर रखे हD, वन-वन मे भटककर तु0हI ढूँढ़ रहF हD। (१)
+
+
+The gopis said: O beloved, your birth in the land of Vraja has
+made it exceedingly glorious, and thus Indira, the goddess of
+fortune, always resides here. It is only for your sake that we, Your
+devoted servants, maintain our lives. We have been searching
+everywhere for You, so please show Yourself to us.
+
+
+## शरदुदाशये साधुजातस&सरCसजोदरीमुषा #शा ।सुरतनाथ
+
+
+## तेऽशुNकदाCसका वरद
+
+
+## नOनतो नेह Pकं वधः ॥२॥
+
+
+શરદ ઋ7ુના સરવર ઉ9યા, સરસ પ:થી 4દ;ય <&ટથી,
+
+## ઉર હ=યા તમે, એ નથી વધ? +?ુ, અમે બધી Aુ< દાિસકા.
+
+
+
+## भावाथ.:- हे हमारे /ेम पूRरत Sदय के %वामी! हम तु0हारे Tबना मोल क: दासी हD,
+
+
+## तुम शरद ऋतु के सुदर जलाशय मI से चाँदनी क: छटा के सौदय. को चुराने वाले
+
+
+## नेH से हमI घायल कर चुके हो। हे )/य! अ%H से ह&या करना हF वध होता है, Wया
+
+
+## इन नेH से मारना हमारा वध करना नहFं है। (२)
+
+
+O master of our hearts, we are your priceless servants. O beloved,
+fulfiller of all our desires, Is it not slaughter on your part to strike
+us with the rays of your divine eyes which are more beautiful
+than the petals of a beautiful lotus in the clear autumn lake ?
+
+
+## )वषजलाययाXYयालरा$साXवष.माZताXवैXयुतानलात्।
+
+
+## वृषमया&मजाX)ववतोभया #षभ ते वयं र\$ता मुहुः ॥३॥
+
+
+
+## િવષય વા4રથી ને અઘા#ુર, પવન Dૃ&ટ ને વીજ આગથી,
+
+
+## અ#ુર ;યોમ ને Dૃષલ બેય થી, બGુય રHIયા હ +ભો! તમે.
+
+
+
+## भावाथ.:- हे पुZष Cशरोम^ण! यमुना जी के )वषैले जल से होने वालF मृ&यु, अज़गर
+
+के `प मI खाने वाला अधासुर, इa क: बषा., आकाशीय TबजलF, आँधी `प
+Tणावत., दावानल अिbन, वृषभासुर और Yयोमासुर आ द से अलग-अलग समय
+
+## पर सब /कार भयH से तुमने बार-बार हमारF र$ा क: है। (३)
+
+
+O Mighty One! from the destruction through the poisonous water
+of Yamuna [by the demon Agha in the guise of a Kaliya snake],
+from deluging rain and raging storms, from lightning and from
+demons Vrishabh and Vyom, time and again, you have protected
+us from various types of fears..
+
+न खलु गो)पकानदनो भवान^खलदे हनामतरा&म#क् । )वखनसाथ.तो
+)ववगुतये सख उदे
+यवासा&वतां कुले ॥४॥
+
+#ુત નથી યશોદા તણા તમે, સકળ #ૃ&ટના +ાણનાથ છો;
+
+## જગત રIવા LM +ાથ(તા, યNુOુલે તમે જમ છે ધયP
+
+
+
+## भावाथ.:- हे हमारे परम-सखा! तुम केवल यशोदा के पु हF नहFं हो, तुम तो सम%त
+
+शरFर धाRरयH के Sदय मI अतया.मी `प से रहने वाले सा$ी हो। हे सखा! 9fमा जी
+
+## क: /ाथ.ना से )वव क: र$ा करने के Cलये तुम यदुवंश मI /कट हुए हो। (४)
+
+
+You are not just the son of Yashoda. but you are inherent witness
+in all embodied beings. O eternal companion! In response to the
+prayer of Brahma, the creator of the universe, you have
+reincarnated among the yadu's to protect the world.
+
+)वरचताभयं वृिhणधुय. ते चरणमीयुषां संसृतेभ.यात् । करसरोZहं कात
+कामदं CशरCस धे ह नः ीकरiहम् ॥५॥
+
+
+## ભવ ભયQ ભયા( લોકને સદા, અભય આપતો હાથ આપનો.
+
+
+## કમળહાથ તે %ી કર Rહ, અમ િશર Sુકો કામ કાપતો.
+
+
+
+## भावाथ.:- हे यदुवंश Cशरोम^ण! तुम अपने /ेCमयH क: अCभलाषा को पूण. करने मI
+
+
+## सबसे आगे रहते हो, जो लोग जम-मृ&यु `प संसार के चWकर से डरकर तु0हारे
+
+चरणH क: शरण iहण करते हD, उहे तु0हारे करकमल अपनी छत्र छाया मI लेकर
+
+## अभय कर देते हD। सबक: लालसा-अCभलाषा को पूण. करने वाला वहF करकमल
+
+
+
+
+## िजससे तुमने ल?मी जी का हाथ पकड़ा है। हे )/य! वहF करकमल हमारे Cसर पर
+
+रख दो। (५)
+
+O the fulfiller of all desires! Whoever takes refuge in your lotus
+feet from the torments of samsara (materialistic world), they
+become fearless by your protection. O our beloved, the bestower
+of all boons, do lay your hands on our head.
+
+जजना
+त.हवीर यो)षतां
+नजजन%मयlवंसनि%मत ।
+
+## भज सखे भवि&कंकरFः %म नो जलZहाननं चाZ दश.य ॥६॥
+
+
+
+## જજનો તણાં ક&ટ કાપતાં, TUમત થક સદા ગવ( ગાળતાં.
+
+
+## ચરણસેિવકા સૌ ખર અમે, વદનપ:Wું દાન દો તમે.
+
+
+
+## भावाथ.:- हे वीर Cशरोम^ण यामसुदर! तुम तो सभी 9जवाCसयH के दुखH को दूर
+
+
+## करने वाले हो, तु0हारF मद-मद मु%कान क: एक झलक हF तु0हारे /ेमीजनH के
+
+
+## सारे मान मद को चूर-चूर कर देने के Cलये पया.त है। हे यारे सखा! हम से `ठो
+
+
+## मत, /ेम करो, हम तो तु0हारF दासी हD, तु0हारे चरणH मI
+
+
+## नछावर हD, हम अबलाओं
+
+को अपना वह परम सुदर साँवला मुखकमल  दखलाओ। (६)
+
+O Destroyer of the miseries of the inhabitants of Vraja! Your mere
+smile is enough to shatter false pride of your love ones. O our
+beloved companion, graciously accept us, your servants. We are
+fully surrendered at your lotus feet. Show your most beautiful
+lotus like face to us.
+
+/णतदे हनां पापकश.नं तृणचरानुगं ी
+नकेतनम् । फ^णफणा)प.तं ते
+पदांबुजं कृणु कुचेषु नः कृिध Sqछयम् ॥७॥
+
+
+## +ણતલોકનાં પાપ ટાળ7ું, વનમહ" જ7ું %ીતXું ઘર,
+
+
+## ફHણફણા પર Sૂ[ુ \ તમે, ચરણ િવના એક હ વર!
+
+
+## અમ ઉર+દ શે Sૂકો હવે, ]દય તાપ ક શાંત સૌ બને.
+
+
+भावाथ.:- तु0हारे चरणकमल शरणागत /ाणीयH के सारे पापH को नhट कर देते हD,
+
+## ल?मीजी सौदय. और माधुय. क: खान हD, वह िजन चरणH को अपनी गोद मI
+
+रखकर
+
+## नहारा करती हD, वह कोमल चरण बछड़H के पीछे-पीछे चल रहे हD, उहF
+
+
+## चरणH को तुमने काCलयानाग के शीश पर धारण Pकया था, तु0हारF )वरह क:
+
+
+## वेदना से Sदय संतत हो रहा है, तुमसे Cमलन क: कामना हमI सता रहF है। हे
+
+
+## )/यतम! तुम उन शीतलता /दान करने वाले चरणH को हमारे जलते हुए
+
+व$:%थल पर रखकर हमारे Sदय क: आिbन को शात कर दो। (७)
+
+Your lotus-feet destroy the sins of those who submit to you - the
+lotus feet that follow the foot steps of grazing cows, and which
+are coveted by the goddess of Fortune, and which gracefully
+danced on the hood of Kaliya Snake. O Lord, please put your lotus
+feet on our chest(heart) to soothe our burning desire and rid us of
+the sorrows lurking in our hearts.
+
+मधुरया गरा वNगुवाWयया बुधमनोsया पुhकरे$ण । )वधकरFRरमा वीर
+मुfयतीरधरसीधुनाऽऽयायय%व नः ॥८॥
+
+મ^ુરવાણીથી મોહ પામતાં, _ુધજનોય હ પ:લોચન!
+
+## મ^ુરવાણીથી મોહ પામતી, બGુ +ભો, અમે ગોપીકા વન.
+
++ણયની #ુધા પાવ +ેમથી, ]દય દાન દો #ૃ&ટના ધન!
+
+भावाथ.:- हे कमलनयन! तु0हारF वाणी Pकतनी मधुर है, तु0हारा एक-एक शuद
+
+## हमारे Cलये अमृत से बढ़कर मधुर हD, बड़े-बड़े )वXवान तु0हारF वाणी से मो हत
+
+होकर अपना सव.%व
+
+## नछावर कर देते हD। उसी वाणी का रसा%वादन करके तु0हारF
+
+आsाकाRरणी हम दासी मो हत हो रहFं है। हे दानवीर! अब तुम अपना  दYय अमृत
+
+## से भी मधुर अधर-रस )पलाकर हमI जीवन दान दो। (८)
+
+
+O Lotus-eyed One! Your speech is so sweet. Every single word,
+every little sound, every single letter is very charming. Even the
+most wise and learned get engrossed in it and sacrifice everything
+for it. After tasting the nectar of the sound of your voice, your
+faithful Gopis are falling in love. Now give us the gift of life with
+the divine nectar from your lips..
+
+तव कथामृतं ततजीवनं क)वCभरFvडतं कNमषापहम् । वणमwगलं
+
+## ीमदाततं भु)व गृणित ते भूRरदा जनाः ॥९॥
+
+
+મ^ુ કથા#ુધા ત`ત aવને, પરમશાંિતને આપનાર છે.
+કિવથક ઘણી છે ગવાયેલી, િવપદ પાપથી તારનાર છે.
+#ુખદ ચાbુ ને cૂઢ છે ઘણી, %વણથી સદા %ેય આપતી.
+તવ કથા#ુધા પાન \ કર, પરમદાન તે િવને કર.
+
+भावाथ.:- हे हमारे %वामी! तु0हारF कथा अमृत %व`प हD, जो )वरह से पीvड़त लोगH
+के Cलये तो वह जीवन को शीतलता /दान करने वालF हD, sानीयH, महा&माओं,
+
+## भWत क)वयH ने तु0हारF लFलाओं का गुणगान Pकया है, जो सारे पाप-ताप को
+
+
+## Cमटाने वालF है। िजसके सुनने मा से परम-मंगल एवं परम-कNयाण का दान देने
+
+
+## वालF है, तु0हारF लFला-कथा परम-सुदर, परम-मधुर और कभी न समात होने
+
+
+## वालF हD, जो तु0हारF लFला का गान करते हD, वह लोग वा%तव मI म&यु-लोक मI
+
+
+## सबसे बड़े दानी हD। (९)
+
+
+The nectar of Your words and the descriptions of Your activities
+are the life and soul of those suffering in this material world.
+These narrations, transmitted by learned sages, eradicate one’s
+sinful reactions and bestow good fortune upon whoever hears
+them. By mere listening to them removes all sins and sufferings
+and bestows the supreme bliss and welfare as well. Certainly,
+those who spread the message of Godhead are most munificent.
+
+/हCसतं )/य /ेमवी$णं )वहरणं च ते lयानमwगलम् ।
+
+## रहCस सं)वदो या S द%पृशः कुहक नो मनः $ोभयित  ह ॥१०॥
+
+
+પરમ હાUય ને <&ટપાત ને, 7ુજ િવહાર સૌ eયાન મંગલ
+#ુખદ શfદ એ કાંત કાળના, ]દય Uપશ(તા નંદનંદન!
+Uમરણથી જ તે Nુઃખ આપતાં, કપટિમg હ, એકલા થતાં.
+
+
+## भावाथ.:- हे हमारे यारे! एक  दन वह था, तु0हारF /ेम हँसी और चतवन तथा
+
+तु0हारF )वCभन /कार क: z:ड़ाओं का lयान करके हम आनद मI मbन हो जाया
+करतीं थी। हे हमारे कपटF Cम! उन सब का lयान करना भी मंगलदायक है, उसके
+
+## बाद तुमने एकात मI Sदय%पश{  ठठोCलयाँ क: और /ेम क: बातI क:, अब वह सब
+
+बातI याद आकर हमारे मन को $ुuध कर रहF हD। (१०)
+
+Your smiles, Your sweet, loving glances, the intimate pastimes
+and confidential talks we enjoyed with You—all these are
+auspicious to meditate upon, and they touch our hearts. But at
+the same time, O deceiver, they very much agitate our minds.
+
+
+
+चलCस यXजाqचारयपशून् नCलनसुदरं नाथ ते पदम् ।
+Cशलतृणाwकुरैः सीदती
+त नः कCललतां मनः कात गqछ
+त ॥११॥
+
+પAુ લઈ તમે hવ ચારવા, જ થક વને ગાય પાળવા,
+કમળથીય છે પાય કોમળા, િનરખતાં ખર થાય છે ;યથા.
+તણખલાં વળ ક&ટ આપશે, સહન Nુઃખ એ શi કર થશે?
+ક4ઠન ?ૂિમનો Uપશ( શi થશે? ક4ઠન ?ૂિમનો Uપશ( શi થશે?
+
+
+## भावाथ.:- हमारे यारे %वामी! तु0हारे चरण कमल से भी कोमल और सुदर हD, जब
+
+
+## तुम गौओं को चराने के Cलये 9ज से
+
+
+## नकलते हो तब यह सोचकर Pक तु0हारे युगल
+
+चरण कंकड़,
+तनके, घास, और काँटे चुभने से कhट पाते हHगे तो हमारा मन बहुत
+वेचैन हो जाता है। (११)
+
+O beloved master, your feet are more tender and beautiful than a
+Lotus. When you take the cows for grazing, our hearts become
+restless at the very thought of your feet being pricked by the
+spiked husks of grain and the rough grass and plants. It is indeed
+painful for us.
+
+
+## दनपRर$ये नीलकुतलैव.नZहाननं Tब|दावृतम् ।
+
+घनरज%वलं दश.यमुहुम.नCस नः %मरं वीर यqछCस ॥१२॥
+
+4દન 0ૂરો થતાં ગૌ લઈ ફરો, મ^ુરકશ હ, Hચjને હરો;
+રજ છવાયેલી પ:શા Sુખે, િનરHખયે અમે <kય તે સમે,
+]દયમાં થતો +ેમ તે સમે, િમલન માગતાં વીર હ અમે.
+
+भावाथ.:- हे हमारे वीर )/यतम!  दन ढलने पर जब तुम वन से घर लौटते हो तो हम
+
+## देखतीं हD, Pक तु0हारे मुखकमल पर नीलF-नीलF अलकI लटक रहFं है और गौओं के
+
+
+## खुर से उड़-उड़कर घनी धूल पड़ी हुई है। तुम अपना वह मनोहारF सौदय. हमI
+
+
+## दखाकर हमारे Sदय को /ेम-पूRरत करके Cमलन क: कामना उ&पन करते हो।
+
+(१२)
+At the end of the day, when you return from the forest, we see
+your beautiful lotus face covered with dark curly locks and
+covered with dust. Our beloved, when You repeatedly show us
+Your lotus face, You arouse lusty desires in our minds.
+
+/णतकामदं प~जाच.तं धर^णम3डनं lयेयमाप द । चरणपwकजं शंतमं
+च ते रमण नः %तनेhवप.याधहन् ॥१३॥
+
+સતત સેવતાં 4દ;ય ભlતની, સકલ કામના 0ૂણ( \ કર.
+ચરણ પ:h 0ૂmય તે ખર, ?ૂષણ ?ૂિમના ક&ટને હર.
+
+## ચરણ તે તમે +ેમથી સદા, ઉર પર Sૂકો તાપ ક ટળે.
+
+
+
+## भावाथ.:- हे )/यतम! तुम हF हमारे सारे दुखH को Cमटाने वाले हो, तु0हारे
+
+
+## चरणकमल शरणागत भWतH क: सम%त अCभलाषाओं को पूण. करने वालF हD, इन
+
+चरणH के lयान करने मा से सभी uयाधायI शात हो जाती हD। हे यारे! तुम अपने
+
+## उन परम-कNयाण %व`प चरणकमल हमारे व$:%थल पर रखकर हमारे Sदय क:
+
+
+## Yयथा को शात कर दो। (१३)
+
+
+Your lotus feet, which are worshiped by Lord Brahma, fulfill the
+desires of all who bow down to them. They are the jewels of this
+universe, In times of difficulty, they are appropriate object of
+meditation, by which all sufferings are removed. O the resident of
+Kunj ! Please put your pious lotus feet on our chest (heart) to
+bless and give peace to confer supreme beatitude and peace to
+us.
+
+सुरतवध.नं शोकनाशनं %वRरतवेणुना सुhठु चुि0बतम् ।
+इतरराग)व%मारणं नृणां )वतर वीर न%तेऽधरामृतम् ॥१४॥
+
+િમલન આશને \ વધારતી, Uવ4રત વેXુથી છે nુમાયલી
+
+## ઈતર રાગ સૌ ને?ૂલાવતી, IHણક Uવાદથી Uવગ( આપતી,
+
+પરમ પાવ તે oૂબ +ેમથી, +ણયની #ુધા lલેષ કાપતી.
+
+
+## भावाथ.:- हे वीर Cशरोम^ण! आपका अधरामृत तु0हारे %मरण को बढ़ाने वाला है,
+
+सभी शोक-सताप को नhट करने वाला है, यह बाँसुरF तु0हारे होठH से चुि0बत
+होकर तु0हारा गुणगान करने लगती है। िजहोने इस अधरामृत को एक बार भी पी
+
+## Cलया तो उन लोगH को अय Pकसी से आसिWतयH का %मरण नहFं रहता है, तुम
+
+
+## अपना वहF अधरामृत हम सभी को )वतRरत कर दो। (१४)
+
+
+O our hero, Fill us with your enchanting music which drop like
+ambrosia from the flute kissed by your lips and the pitch, which
+heightens our spiritual ecstasy, dispel our sorrows and make us
+oblivious to every other allurement. Your sweet music is divinely
+intoxicating.
+
+अट
+त य•वानिfन काननं ु टयु.गायते &वामपयताम् ।
+
+## कु टलकुतलं ीमुखं च ते जड उदF$तां प?मकृ€ृशाम् ॥१५॥
+
+
+વનમહ" તમે hવ તે સમે, ુગસમી Iણો દસતી ખર;
+વદન કશથી ુlત દખતાં, 4દન 0ૂરો થતાં શાંિત શી મળે,
+પણ થ7ું સદા Hચjમાં ફર, Sુરખ પાપણો \હણે કર.
+
+
+## भावाथ.:- हे हमारे यारे!  दन के समय तुम वन मI )वहार करने चले जाते हो, तब
+
+
+## तु0हI देखे Tबना हमारे Cलये एक $ण भी एक युग के समान हो जाता है, और तुम
+
+संlया के समय लौटते हो तथा घुंघरालF अलकावलF से युWत तु0हारे सुदर
+
+## मुखार)वद को हम देखती हD, उस समय हमारF पलकH का गरना हमारे Cलये
+
+अ&यत कhटकारF होता है, तब ऎसा महसूस होता है Pक इन पलकH को बनाने
+वाला )वधाता मूख. है। (१५)
+
+O our beloved, during the day, when you go off to the forest,
+every moment (without seeing you) passes like a yug (age). When
+you return in the evening and we eagerly look upon your most
+beautiful face framed with curly locks, our pleasure is hindered by
+our eyelids. At that time, we feel that the creator of eyelids made
+it without reason.
+
+प
+तसुतावय|ातृबाधवान
+त)वलwOय तेऽ&यqयुतागताः ।
+ग
+
+## त)वद%तवोXगीतमो हताः Pकतव यो)षतः क%&यजेिनCश ॥१६॥
+
+
+પિત તa તa બં^ુ pાતને, Uવજનો સૌ અમે આિવયાં અહ"
+મ^ુરગાનથી મોહ પામતાં, ઘર તa અમે આિવયાં અહ"
+7ુજ િવના ત\ કોણ નારને, મ^ુર રાતમાં +ેમસારને?
+
+भावाथ.:- हे हमारे यारे यामसुदर! हम अपने प
+त, पु, सभी भाई-बधु और
+कुल पRरवार को &यागकर उनक: इqछा और आsाओं का उNलंघन करके तु0हारे
+
+## पास आयी हD। हम तु0हारF हर चाल को जानती हD, हर संकेत को समझती हD और
+
+
+
+
+## तु0हारे मधुर गान से मो हत होकर यहाँ आयी हD। हे कपटF! इस/कार राT को
+
+आयी हुई युव
+
+## तयH को तु0हारे अलावा और कौन छोड़ सकता है। (१६)
+
+
+Dear Achyuta, You know very well why we have come here. We
+have disobeyed and disowned our own relatives, husband, son,
+brother and our family just to have a glimpse of You. Who, but a
+cheater like You, would abandon young women like us, who come
+to see You in the middle of the night, captured by the melodious
+music of Your flute?
+
+रहCस सं)वदं Sqछयोदयं /हCसताननं /ेमवी$णम् । बृहदुरः यो वी?य
+धाम ते मुहुर
+त%पृहा मुfयते मनः ॥१७॥
+
+
+## +ણયવાતથી +ેમ થાય છે, વદનના TUમતે +ાણ હાય છે.
+
+
+## નયન %ી તણાં ધામ Aું મહા, ઉર િનહાળતાં શાંિત થાય છે.
+
+મ^ુર qપ તે યાદ આવતાં, િમલન ચાq આ Hચj rહાય છે.
+
+भावाथ.:- हे यारे! एकात मI तुम Cमलन क: इqछा और /ेमभाव जगाने वालF बातI
+
+## Pकया करते थे, हँसी-मजाक करके हमI छेड़ते थे, तुम /ेम भरF चतवन से हमारF
+
+ओर देखकर मु%करा देते थे। तु0हारा )वशाल व$:%थल, िजस पर ल?मीजी
+न&य
+
+
+## नवास करती हD। हे )/य! तब से अब तक
+
+
+## नरतर हमारF लालसा बढ़ती हF जा रहF
+
+है और हमारा मन तु0हारे /
+
+## त अ&यधक आसWत होता जा रहा है। (१७)
+
+
+Our minds are repeatedly bewildered as we think of the intimate
+conversations we had with You in secret, feel the rise of lust in
+our hearts and remember Your smiling face, Your loving glances
+and Your broad chest, the resting place of the goddess of fortune.
+Thus we experience the most severe hankering for You.
+
+जवनौकसां YयिWतरwग ते वृिजनह‚यलं )ववमwगलम् । &यज
+मनाक् च न%&व&%पृहा&मनां %वजनSaुजां यिनषूदनम् ॥१८॥
+
+
+## સકળ િવ ને જજનો તણી, િવપદ ટાળવા જTમયા તમે,
+
+USૃિત નથી રહ એ િવચારની, હsુય cુ`ત તો કાંરtા તમે?
++ણય+ાણની કu દવા કરો, િનજજનો તણાં દરદને હરો.
+
+
+## भावाथ.:- हे यारे! तु0हारF यह अCभYयिWत 9ज-वनवाCसयH के स0पूण. दुख-ताप
+
+को नhट करने वालF और )वव का पूण. मंगल करने के Cलये है। हमारा Sदय
+तु0हारे /
+त लालसा से भर रहा है, कुछ ऎसी औषध /दान करो जो तु0हारे
+
+## भWतजनH के Sदय-रोग को सदा-सदा के Cलये Cमटा दे। (१८)
+
+O beloved, Your all-auspicious manifestation is for the removal of
+sorrows of residents of Vraja and for the well being of the entire
+universe. Our heart and mind long for your heavenly association.
+Please bless us with some remedy that will put an end to the pain
+in our heart.
+
+
+## य&ते सुजातचरणा0बुZहं %तनेष भीताः शनैः )/य दधीम ह कक. शेषु ।
+
+
+## तेनाटवीमटCस तXYयथते न Pकंि%वत् कूपा. दCभ|.म
+
+त धीभ.वदायुषां नः
+॥१९॥
+
+છે કોમળાં કમળથી ચરણો તમારાં, fહતા કઠોર ]દયે Sુ4કયે અમારાં;
+તેવાં લઈ ચરણ આ વનમાં ફરો છો, રાતે ખર ]દય શોક થક ભરો છો;
+કાંટા અને સખત કંકર કuક વાગે, એવા િવચાર કરતાં અિતNુઃખ hગે.
+અ`ુv અમે ]દય હ +?ુa તમોને, તો શીw દશ(ન હવે િ+ય દો અમોને.
+
+भावाथ.:- हे ीकृhण! तु0हारे चरण कमल से भी कोमल हD, उहे हम अपने कठोर
+
+## %तनH पर भी डरते-डरते बहुत धीरे से रखती हD, िजससे आपके कोमल चरणH मI
+
+
+## कहFं चोट न लग जाये, उहFं चरणH से तुम राT के समय घोर जंगल मI
+
+छपे हुए
+
+## भटक रहे हो, Wया कंकण, प&थर, काँटे आ द क: चोट लगने से आपके चरणH मे
+
+
+## पीड़ा नहFं होती? हमI तो इसक: कNपना मा से हF अचेत होती जा रहF हD। हे यारे
+
+
+## यामसुदर! हे हमारे /ाणनाथ! हमारा जीवन तु0हारे Cलये है, हम तु0हारे Cलये हF
+
+
+## जी रहFं है, हम Cसफ. तु0हारF हF हD। (१९)
+
+
+O dearly beloved! As your feet are more tender than a lotus, we
+use utmost caution while putting them on our chest(heart). With
+same tender feet you wander in the deep forest bare feet. The
+mere thought of you treading with those tender feet on the
+thorny, stony paths in the forest give us pain and we loose our
+wits. O Lord, our existence is only for you.  We are only living for
+you. We are only yours!!
+
+इ
+त ीम•ागवत महापुराणे पारमहं%यां सं हतायां दशम%कधे पूवा.धƒ
+रासz:डायां गोपीगीतं नामैकTंशोऽlयायः ॥
+
+
+## ॥ %ી યોગેર Oૃત ગોપીગીત સમા`ત ॥
+
+
+## बसतीदेवी ीवNलभ Yयास के
+
+जय ी कृhणा ।।
+
+## Download link for mp4 VIDEO of this gopi geet:
+
+http://santoshvyas.webs.com/apps/videos/videos/show/17
+600739-gopi-geet-m4v-gopi-geet-in-gujarati-ashit-hema-
+desai-
+
+

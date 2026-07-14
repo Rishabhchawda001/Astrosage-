@@ -1,0 +1,4468 @@
+# Narayaneeyam Bhagavata Condensed Of Meppathur Narayana Bhattatiri Traslated By Swami Tapasyananda - Sri Ramakrishna Math, Madras
+
+**Document ID:** DOC-E8F809D05783
+**Language:** unknown (unknown)
+**Pages:** 416
+**Class:** scanned_image
+**SHA256:** `e8f809d057833b36aa449e17660b46b6789674f805cf436189d740e6c870ae7b`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+DP
+WwW
+fal
+Y
+pes
+
+## Page 2
+
+In the thousand thirty-six exquisite
+Sanskrit verses comprising this poetical
+hymn known as the Narayanecyam,
+Narayana Bhattatiri, a versatile scholar,
+philosopher, poet and devotee of the
+16th century, gives a masterly summary
+of the subject matter dealt with in the
+eighteen thousand verses of the famous
+Bhakti Text, the Bhagavata Purana.
+
+A close study of this work will help
+one gain an insight into the authentic
+Bhakti traditions of India in a short
+compass. Besides being a comprehensive
+Bhakti Text, the book is noted for the
+fascinating way in which it portrays the
+life and achievements of Sri Krishna,
+the unique Incarnation.
+
+Among the devotees of the Krishna
+cult, the Text of the Narayaneeyant is
+looked upon as sacred, having the power
+of a Mantra like the Devimahatmya and
+similar Texts, and is studied daily as a
+part of their devotional practices. The
+belief is that as the author Bhattatiri
+attained to ‘longevity, health and
+happiness’ through its composition, so
+will a person reading it with faith and
+devotion attain to these highly coveted
+values, and have the grace and protection
+of the Lord in all difficult situations of
+life.
+
+The Sanskrit Text, a lucid English
+translation, adequate Notes on doctrinal
+points, and an elaborate Introduction
+giving an account of the author, a critical
+estimate of the contents of the Text and
+an exposition of the philosophy of Bhakti,
+and Appendices giving very interesting
+anecdotes about the  devotee-poet
+Narayana Bhattatiri and the temple of
+Guruvayoor—form the important features
+of the book.
+
+## Page 5
+
+i ss
+
+NARAYANEEYAM |
+
+BHAGAVATA CONDENSED
+
+BY |
+MEPPATHUR NARAYANA BHATTATIRI H
+
+TRANSLATED
+BY
+
+SWAMI TAPASYANANDA
+
+## Page 6
+
+uolished by
+© The President
+SRI RAMAKRISHNA MATH
+
+11, Ramakrishna Math Road,
+Madras-600 004.
+
+Third Impression
+| 3C, 10 - 1982
+
+## Page 7
+
+PREFACE
+
+The present edition of the Narayaneeyam aims at giving a lucid
+and readable translation of this great Sanskrit Text to the English
+reading public interested in Indian devotional literature. While
+the translation is ‘free,’ it is never unfaithful to the original. It
+is based on the edition of the Text by two very competent Sanskrit
+scholars, Sri P.S. Anantanarayana Sastri and Sri Vatakumkur
+Raja Raja Varma, published in Malayalam script with a com-
+mentary.
+
+The details given in the Introduction and Appendices con-
+cerning the life and works of the author Narayana Bhattatiri
+and the anecdotes about him and the temple of Guruvayoor
+have been gathered from several Malayalam periodicals, chiefly
+from the writings of Profs. K. Kunhunni Raja, C.G. Nair,
+M.G.S. Narayanan, P. C. Vasudevan Elayath, V. S. Sarma and
+K. Vasudevan Moozad. Though none can vouch for the historical
+accuracy of much of these materials, they are in a sense of greater
+interest than the dry details of history, as they give us a deep
+insight into the versatility of the great mind we are contacting
+through this poetical hymn.
+
+The notes are strictly confined to doctrinal points, and much
+of the Introduction, especially the section on the Bhagavata, is
+meant to supplement these. As the Narayaneeyam is a condensa-
+tion of the Bhagavata Purana, a grasp of the specific Bhakti doctrine
+of the Bhagavata is very essential for the proper understanding of
+the Narayanceyam, especially of the Krishna episode forming its core.
+The reader is therefore advised to make a close study of the Intro-
+duction.
+
+The use of hyphens in the Text is meant to facilitate reading
+and has no significance beyond that.
+
+It is hoped that this translation of the WVarayaneeyam into a
+world language like English will attract the attention of a wide
+public to this great Text and through it, to the great Bhakti tradi-
+
+tion of India.
+Sri Ramakrishna Math, Madras. PUBLISHER.
+March, 1976.
+
+## Page 9
+
+Canto
+Ne
+
+2
+a
+dy
+
+ep ernaa
+
+S
+
+We
+12.
+13.
+4;
+18,
+16.
+WZ,
+18.
+1),
+20.
+
+CONTENTS
+
+IntRopuction
+
+Prelude
+
+Grory oF THE Lorp
+
+ForMru AsPECT OF THE LorD
+Suppuiant DEVOTEE 30
+PROGRESS OF THE SPIRITUAL AsPIRANT
+
+Creation and Dissolution
+
+Cosmic EvoLuTion
+
+Cosmos As ForM oF THE Lorp
+
+BrauMA CoMMANDED TO CREATE
+
+Dawn oF CREATION
+
+BRAHMA IN HIS CREATIVE ROLE 30
+DIVERSIFICATION OF CREATION
+
+Accounts of Incarnations and Devotees
+
+PRELUDE TO THE First INCARNATION
+IncarNaTION As Cosmic Boar
+DesTRucTION OF HIRANYAKSHA
+INCARNATION AS KAPILA
+
+MessAcr oF KAPILA 00 =
+Nara-NARAYANA AND DAKSHA-YAJNA
+Story or DuruvA
+
+Story or PrirHu 0°
+
+Srory OF THE PRACHETAS .- oD
+Srory or RisHABHA DEVA .. on
+
+v
+
+Page
+
+Ix to XLIV
+
+a0 12
+
+20
+23
+27
+31
+34
+
+37
+
+30 43)
+6p C7)
+65 53
+ae 57
+De 60
+26 64
+Sc 66
+
+## Page 10
+
+vi
+
+CONTENTS
+Canto Page
+q 21. Worsuip In DIFFERENT CONTINENTS es bio 68
+i 22. Story or AyAMILA a aa A 72
+23. Srory or CHITRAKETU 06 te G6 75
+24, Story oF PRAHLADA 35 36 5D 79
+25. INcARNATION As Man-Lion .. od oc 83
+26. LiseraTION OF THE ELEPHANT-KING és He 86
+27. CHURNING THE OCEAN For NECTAR oe 30 90
+28. GrrTs oF THE OCEAN ob 55 do 93
+29. INCARNATION AS MonInNr.. at 20 96
+30. INCARNATION As VAMANA  .. os oe 99
+31. Vamana Biessinc Baur ae as an 103
+32. INCARNATION As Fis 06 as go. CNS
+33. Story or AMBARISHA 00 3 so OS
+34, INCARNATION As RAMA 30 20 oo = NM
+35. INCARNATION As RaMA—(contd.) a8 oo LSS
+36. INCARNATION AS PARASURAMA = oo WIG)
+Sri Krishna the Perfect Incarnation
+37. PRELUDE To Sri KRisHNA-INCARNATION ao UH
+38. Brrtu or Sri KrisHNa 60 oo oo WF
+39. Story or YOGAMAYA 50 60 pee 30)
+40. SALVATION oF PUTANA 20 BG oo | NG
+41. CREMATION oF PUTANA oo 36 co (NGS
+42. DeEsTRUCTION OF THE CarT-WHEEL AsuURA oo GB
+43. DESTRUCTION OF TRINAVARTA 20 oo (Meal
+44. Naminc Ceremony ° Bie oo KS
+45. CurttpHoop Pranks or KRISHNA 56 so EG
+46. REVELATION OF THE Cosmic Form 00 oo NER)
+47. Bounp To THE Mortar oe oo NG
+48. Revease or NALA-Kusara AND MANIGRIVA oo NGS)
+49. TREK TO VRINDAVANA 156
+
+50. Catr-Demon AND Stork-Demon 158
+
+## Page 11
+
+CONTENTS a
+
+- Canto Page
+| 51. DesTRUCTION OF AGHASURA .. er cy MGI
+| 52. Kipnappinc OF CALVEs bo a oo NSE
+! 53. DesTRUCTION OF DHENUKASURA ab ee 167,
+54, Menace or Kariya 3 ers ae 169)
+55. Dance upon Katya ae a ee LT
+56. BesrowAt or Grace ON KALiyaA a0 aon La
+s 57. DersTRUCTION OF PRALAMBASURA 55 ee 10}
+58. Rescuer From Witp Fire... 06 oo Wks
+59. Catt or THE FLUTE 08 28 oo, G2
+60. Rospinc Goris oF THEIR Roses Ao oo Wa
+61. Bressinc THE Wives oF BRAHMANAS go ae 86
+62. Brocxinc Sacririce To INDRA 90 Ba. shh)
+63. Lretinc GovARDHANA 20 Bon NOB
+64. Crowninc As GovINDA oo oe ce OS
+65. Cominc or Goris ror Rasa-Lita 20 peALOd
+‘66. Rasa-Lita 08 50 2° Pree 200)
+67. Lorp DisAPPEARS AND REAPPEARS ue S202)
+68. Re-Union wiTH Gopikas -- bo ae 20
+69. Rasa Dance -- co So e200)
+70. SALVATION OF SUDARSANA -- ae 5. DI)
+7]. Krisuna Becomes Kesava -- 6° Sige 2218}
+72. Axrura’s Mission TO GoxuLa ep go DIG
+73. JOURNEY TO MATHURA oo a6 oe eal)
+74. Entry 1nTo MATHURA bo 30 Bae All
+75. SALVATION OF KAMSsA 225,
+76. MEssAGE TO GOPIKAS 230
+ie JARASANDHA’S InvasION be a6 Se ONE:
+78. PRAYER OF RUKMINI ac on 2G)
+79. MarriAcE OF RUKMINI a o oo Kl)
+80. Lure or SYAMANTAKA op 56 2043
+81]. SALVATION oF NARAKASURA ao co BHT
+82. Conquest oF BANASURA 251
+254
+
+83, SALVATION OF PAUNDRAKA
+
+## Page 12
+
+viii
+
+CONTENTS
+Canto Page
+84. PircrimAce TO SAMANTAPANCHAKA 9 ae 257
+85. Rayasuya SacrIFICE ye NS ee 2260,
+86. KuruksHerra War a5 oid -» 264
+87. Kucueta Episope ou Go =a 269)
+88. Restoration or THE DEAD CHILpREN .. oe 1212)
+Devotion as the Synthesis of Yogas
+89. Uniqueness or Visinu Conception 30 sa US
+90. Au Scriptures Pont To THEE ae ao he)
+91. Buacavata-DHarMa Be bo Be 2h
+92. Rote or Buaxti In Kaui Yuca o6 B58 eaY/
+93. Wispom From Lirr’s EXPERIENCES Ss Eyres 29 2)
+94. Ittummnation THRoucH Buaxtr ee po 2ASls)
+i 95. Supremacy oF THE Patu or Devotion oo SU
+96. Devotion as a Sevr-Surrictent DiscreLine ao OLS)
+| 97. Mysrery or Divine Maya .. 36 a5 S08)
+| 98. IN PRatse or THE IMPERSONAL ABSOLUTE oo lB
+| $9. In Praise or THE Divine Person bo oo MY
+| 100. THE Biessep Vision go 68 eo 22,
+| Notes Be Ee err SLi:
+| Appenpix I
+| The Temple of Guruvayoor 65 so. aN
+| Appenpix II
+Anecdotes about the Author 90 co ae
+Appenpix III
+References to Bhagavata sa on Bald)
+
+Appenpix 1V
+Rig-Vedic References oa O06 oo Re
+
+## Page 13
+
+INTRODUCTION
+I
+
+The Author —
+
+Tue Narayaneeyamis a text that takes a high placein Sanskrit
+literature both as a poem and as a devotional hymn. This
+double role is responsible for the great popularity it has
+attained wherever it has come to be known. As its author was
+a poet-devotee hailing from Kerala, and as it was traditionally
+connected with the great Krishna Temple at Guruvayoor in
+that State, its popularity was, till the beginning of this century,
+confined mostly to that part of the country; but since then it
+has come to be known all over South India, and editions of it
+with translation and comments in different languages have
+appeared. Itis only a question of time before it gains recogni-
+tion in all the Sanskrit-knowing world on a par with great
+hymns like the Chandi, the Saundaryalahari, the Sivanandalahari
+etc., on the one hand, and with the great Kavyas of poets
+like Kalidasa on the other.
+
+The author of this great Text, Meppathur Narayana
+Bhattatiri, was a Nampudiri Brahmana of Kerala, whose date.
+‘of birth, according tothe latest view expressed by Dr. Kunhunni
+Raja, Professor of Sanskrit in the Madras University, is 1560
+A.D. The site of his home, Meppathur Ilam, situated on the
+“Forthern side of the Bharata river about two miles away front
+the great temple of Tirunavay in Ponnani Taluq of Kerala,
+can still be identified, although the family became extinct long
+ago. Ascan be gathered from his grammatical work the Prakriya-
+sarvasva, his father was Matridatta “devoted to Dharma and
+an adept in Bhatta Mimamsa (Vedic ritualistic philosophy
+according to Kumarila Bhatta) and other Tantras (ritualistic
+lore).’ Bhattatiri studied these Sastras from his own father,
+while he studied the Veda from one Madhavacharya and
+Logic from one Damodararya. The identities of these two
+cannot now be ascertained. Grammar, of which he had
+special mastery, was taught to him by one Achyutarya, who
+js identified as Trikandiyur Achyuta Pisharady, a celebrated
+grammarian of those times. Tradition has it that Bhattatirt
+jn his early days was both a prodigy and a profligate. While
+
+## Page 14
+
+3 NARAYANEEYAM
+the former is a fact, the latter is only a popular ascrip-
+tion to dramatize his later devotional developments. By about
+sixteen, the prodigy is said to have mastered all learning. He
+is also said to have been leading a morally indifferent li
+from which he was shaken and put on right lines by the
+reprimand of his grammarian teacher Achyuta Pishara
+whom he seems to have admired and respected very much.
+A few years after, Achyuta Pisharady fell’a victim to paralysis.
+Bhattatiri attended on his great master and, according to
+tradition, he took upon himself the ailment of his teacher
+and became a paralytic himself. He asked himself to be
+carried to the temple of Guruvayoor where he could take
+shelter at the feet of Lord Krishna and get His divine inter-
+vention. As his malady continued, he sent a messenger to
+the great devotee-poet of Kerala, Thunchath Ezhuthatchan,
+| for advice. He got the reply that he should ‘start with the
+j fish’. Bhattatiri was quick to understand the implication of
+the reply—viz. that he should compose a hymn in praise of
+the Lord, giving an account of all His Leelavataras (Incar-
+nations), beginning with the Incarnation as Fish. So sitting
+in the precincts of the temple of Guruvayoor, he started
+composing the WNarayaneeyam, a marvellous epitome of the
+Bhagavata Purana in 1036 verses, dealing with the Lord’s
+principal Incarnations and portraying His manifold excellences
+and creative activity.1 As stated in the hymn itself, he
+completed it on 27th November 1587 (Vrischikam 28th of the
+year 763 of Kollam Era), the hundredth day after he began’
+composing. At the end of it, he had complete reccvery. He
+completed the Warayaneeyam in his 27th year and according to
+certain traditions, lived up to the unusual age of 106. Bhatta-
+tiri’s is thus one more instance, among several others, of how a
+. great man’s sufferings can result in much good to the world;
+for, had it not been for his crippling ailment, he might not
+have given to the world this wonderful devotional poem that
+has gone to enrich the life of several generations of devotees.
+The main facts of his life in relation to the Narayanceyam
+are clear from these traditions, but the date of his demise is
+disputed. Beyond a statement in the temple traditions of
+Aranmula, written two hundred years after the event, there
+is no evidence for the view that he lived up to the unusual age
+of 106. So the best thing, as Professor K. Kunhunni Raja
+
+1¥or an account of the temple of Guruvayoor and for several anecdotes
+sonnet ae with Bhattatiri’s life there, reference may be made to Appendices
+an -
+
+## Page 15
+
+|
+|
+|
+
+ANTRODUCTION xi
+
+holds, is to leave the question open with 1655 as the latest
+date. It is certain that he was alive in 1624, as he is known
+to have attended at the death-bed of his Master Achyuta
+Pisharady that year. Bhattatiri began his work on grammar
+the Prakriya-saroasva in 1617 (at the mature age of fifty seven)
+according to internal evidence from the work. When exactly
+he started his Mimamsa work called the Mana-meyodaya
+(Proofs and Categories) is not, however, known. It might
+be later than his grammar work. Though he intended, as
+stated in the work, to write on both the topics dealt with
+in the book, he could complete only its first part on Mana
+(Proofs) but could not take up the second part on Meya
+(Categories). It was completed in about 1655 by another
+scholar named Narayana. No satisfactory reason can be
+given for this except that Bhattatiri must have died several
+years before this date (1655), leaving the Manameyodaya
+incomplete. That his devotional preoccupation must have
+alienated him from concern with Mimamsa, looks a very
+far-fetched assumption as an explanation, seeing that after
+writing his chief devotional work, the Narayaneeyam, at the
+age of twenty seven (in 1587), he had interest enough in
+secylar studies to produce works on Mimamsa, Grammar
+and even Panegyrics up to his fifty seventh year at least (i.e.
+1617, the date of his commencing the Prakriya-sarvasva). So,
+it_is best to assume that Bhattatiri_passed away several
+
+_years before 1655.
+
+Though Bhattatiri is today famous for his Marayaneeyam,
+a devotional work, his achievements in the field of scholarship
+and his fame among his contemporaries, both within Kerala
+and outside, had a much broader basis. The various chieftains
+of Kerala vied with one another in extending their patronage
+to this erudite poet. Outstanding among them were the
+Zamorin Manavikrama, Godavarma Raja of Vatakumkur,
+Veera-Kerala Varma Raja of Cochin (1600-1614), and Raja
+Devanarayana of Ambalapuzha (1566-1623). To all of them
+he had offered poems of felicitation called Prasastis (Pane-
+gytics), for which he must have received honour and rich
+presents. After he wrote his grammatical work Prakriya-
+sarvasva, his fame spread outside Kerala also. The noted gram-
+marian, Bhattoji Dikshita, the author of the Siddhanta Kaumudi,
+is said to have actually started on a journey to Kerala to meet
+him, but had to give up the idea, as the news of Bhattatiri’s
+passing away reached him. Bhattatiri had correspondence
+with some of the leading grammarians of the Chola country
+
+## Page 16
+
+|
+{
+|
+
+|
+|
+|
+
+xii NARAYANEEYAM
+like Someswara Dikshita and Yajna-narayana Dikshita, of
+whom the latter was a minister of the king of Tanjavur
+(fom 1614 to 1633) and was the author of the well-known
+work the Sahitya-ratnakara. Bhattatiri was ir
+
+nvited to Tanjavur
+but could not go for reasons of health. He had also a very
+
+large number of eminent disciples in Kerala who themselves
+became authors of literary and technical works afterwards.
+He seems to have commanded the deepest respect of them all
+for his lofty devotion and all-round learning. One of them,
+Narayana Pandita, describes him as one with supreme mastery
+of Purva-mimamsa and Uttara-mimamsa (Vedanta). Another
+scholar-disciple named Chandrasekhara calls him ‘a peer of
+sages like Suka and Narada in devotion to the Supreme Being,
+an encyclopaedic scholar, and a divinely gifted author of
+great works like the Prakriya-sarvasva.’ So Bhattatiri lived a
+long life, rich in devotion, rich in literary creation, rich in
+honours, and rich in admirers and disciples.
+
+si
+Works
+
+He is the author of many works, numbering about forty,
+major and minor. They can be classified into the following
+groups: (1) Sastric or technical works (2) Prabandhas or
+narratives (3) Prasastis or panegyrics (4) Stotras or devotional
+hymns.
+
+Among his Sastric works, the best known are on
+grammar. These include three books (1) the Prakriya-sarvasva
+(2) the Apaniniya-pramana and (3) the Dhatu-Kavya. The
+first of these, the Prakriya-sarvasva, is a work similar to the
+Siddhanta-Kaumudi, but it was written a little earlier or
+independently of it, and is considered a more lucid and
+clearer exposition than the latter. It gives an exposition
+of Panini’s Sutras. But Bhattatiri was a liberalist in his
+views and maintained that in ascertaining the grammatical
+correctness of words, Panini, Katyayana and Patanjali were
+not the sole authorities, and that Kasika-Kara, Bhoja, Murari
+and great literary men like Bhavabhuti also should be
+considered as authoritative. He has pursued the subject in
+his smaller book, the Apaniniya-pramana, and sought to justify
+many words and forms foreign to Panini, on the basis of
+
+usage. His third grammatical work the Dhatu-Kavya gives,
+
+## Page 17
+
+EE
+
+ANTRODUCTION xiii
+
+in the form of a poem on Sri Krishna’s life, the illustration
+of the Dhatus or grammatical roots in Sanskrit. A difficult
+subject is herein made easy for the Sanskrit student to commit
+to memory.
+
+: The other technical subject he dealt with was Purva-
+mimamsa. His work on this subject, called the Mana-meyodaya,
+deals with the epistemology (Mana) and the categories (Meya)
+of the Bhatta school of Mimamsa. ‘Though, as stated in the
+text itself, he wanted to write on both the Mana and the Meya
+sections of the book, he could complete only the former.
+The second section was completed by another Narayanasuri
+in 1655, most probably because Bhattatiri had died some
+years earlier, leaving the work incomplete.
+
+Among his non-technical works, are first his Prabandhas
+or narrative writings, which constitute the majority of his
+writings. These are compositionsin Sanskrit, often in Champu
+style (a style in which prose and poctry are mingled), on
+episodes from the Ramayana, the Mahabharata and the Bhaga-
+vata, which provided the text (Sahitya) for temple artistes
+like Chakiars to give their discourses and expositions. About
+thirty or more works of this kind, many of them short, are
+mentioned, and have been in use among Chakiars. The
+expositions of the Chakiars were meant for the instruction
+of the masses in ethical and devotional matters. Through
+these writings, Bhattatiri has contributed much to the religious
+education of the common man in his part of the country.
+
+Another class of his writings is called the Prasastis or pane-
+gyrics. All scholars and poets had to depend on kings and
+aristocrats in those days. ‘Till printing and general educa-
+tion came into vogue, and a general reading public came into
+existence, kings and aristocrats were the only paying patrons
+everywhere. So Bhattatiri also had_ to devote his Muse
+occasionally for the gratification of kings, in spite of his ex-
+pressed views against itin the Narayanceyam(c. 99, v. 3). There
+are four such Prasastis which he produced at different times
+in praise of his royal patrons—Veera-Kerala Varma of
+Cochin, Godavarma of Vatakumkur, the Zamorin Mana-
+vikrama of Kozhikode, and Deva-Narayana of Ambalapuzha.
+
+But his most noteworthy contribution, which has gained
+him immortality, is to Sanskrit hymnology. He has three
+such writings—the Sree-pada-saptati on the Divine Mother;
+the Guruvayupura-stolra, short poem on Krishna, and above
+
+all the Narayaneeyam, his magnum opus.
+
+## Page 18
+
+xiv NARAYANEEYAM
+
+cok
+The Narayaneeyam
+
+The WNarayaneeyam is undoubtedly the major work of
+Bhattatiri, for which he is remembered today by scholars as
+well as devotees. The work is known by this particular
+name for two reasons—one, that it deals with the glories of
+Narayana, the Supreme Being who is the resting place
+(Ayanam) of all Jivas (Naras), and the other, that it is the
+composition by the poet Narayana. It is a work consisting of
+1036 verses in various Sanskrit metres, divided into one
+hundred cantos of approximately ten verses each, every canto
+ending with a prayer to the Lord to cure the poet of his
+crippling ailment. It is a unique work in the Sanskrit
+language in so far as it combines in itself three distinct
+features: (a) It is a literary masterpiece, a great poetical
+work (Kavya), comparable to the compositions of any of the
+classical Sanskrit poets. (b) It is a hymn of rare devotional
+fervour having several distinctive features shared by no other
+hymn. (c) It is an exposition of Vedanta with a dominance
+of devotional teachings. Short remarks on these three
+aspects of the text are given below:
+
+(1) As A Kavya: The Narayaneeyam has all the features
+ofa Kavya ora greatpoem. A Kavya must have an ultimate
+objective in view, some great didactic purpose as a rule, for
+ennobling the life of man. It must have a unified theme, an
+elevated suhject matter suited for the achievement of this
+objective, put in a form that is as attractive as it is instructive.
+It must have in it sufficient scope for the expression of a
+variety of human sentiments, emotional experiences and
+beauties of Nature, and these have to be depicted artistically
+with a sense of proportion and propriety. It must necessarily
+be a piece of literary artistry. An adequate vocabulary,
+felicity and force of expression, suggestiveness, mcdulation of
+style according to the theme or situation, use of words that
+echo the sense, abundance of figures of speech and stylistic
+devices like Anuprasa, Yamaka etc., command of various
+metres suited to the sentiments dealt with—these are some
+of the elements of literary craftsmanship that constitute a
+truly great Kavya. From all these points of view the Naraya-
+neeyam will be found satisfactory by any literary critic. Its
+purpose is the salvation of man, the most significant of alt
+Purusharthas (values of life), and its theme, the whole subject
+
+## Page 19
+
+INTRODUCTION xv
+
+matter of the Bhagavata Purana. The master sentiment it
+depicts is Bhakti or God-love. There were literary critics
+who would not recognize devotion as a fitting sentiment for a
+Kavya, but a great authority on poetics like Jagannatha
+Pandita has accorded it a place among the valid poetic senti-
+ments. While dealing with Bhakti, Bhattatiri has brought
+within the ambit of his poesy all the well-recognized human
+sentiments like the heroic, the erotic, the terrible, the sublime,
+the pathetic etc. His theme, the Bhagavata, especially the life
+of Sri Krishna, which forms fifty-two of the one hundred
+cantos of the JNarayaneeyam, gives adequate scope for the
+expression of all such sentiments.
+
+Among these, the sentiment of pity, however, has a
+subtle but dominating place in the work even as Bhakti itself.
+The pathetic sentiment permeating the work is not the product
+of mere poetic imagination but born of the ‘lived experience”
+of the poet. Generally a poet conveys emotional experiences
+through ‘imaginary identification ’ with his theme or charac-
+ters. But here, in respect of the sentiment of ‘pity’, the
+author himself, his predicament in life, is the source ofit. A
+talented young man, crippled by disease into an absolutely
+helpless state, takes refuge at the feet of the Lord as a suppliant.
+He bemoans his fate for a time in the verses of the first three
+cantos, surcharged as much with pathetic griefas with suppliant
+devotion. And then he feels that there is no use of wasting
+his time in bewailing his lot, and that it will be more useful
+to occupy himself entirely with the narration of the majesty,
+power, love and other excellences of the Lord in His creative
+activity and in His Leelavataras (Incarnations). But in the
+course of his narration he reverts, at the end of every canto,
+to his tragic predicament and ends with a prayer for relief.
+There are critics of the Warayaneeyam who consider this recurring
+reference to the poet’s tragic situation at the end of every
+canto as a defect in the work. This criticism is made from
+the standpoint of the Bhakti doctrine, that in the highest
+type of devotion, there is no place for petitioning the Lord
+for favours. Whatever this might be from the Bhakti stand-
+point, it is little realized by such critics that itis this pathetic
+background that enhances the human worth of the work,
+and makes it not only a great hymn but a great poem as well.
+In fact the sense of pathos percolates, whether visibly or
+invisibly, through the verses of this text, and mixing with its
+evident devotional sentiment, generates the emotional blend
+which gives the Narayaneeyam its peculiar charm.
+
+## Page 20
+
+xvi NARAYANEEYAM
+
+A master of the Sanskrit language, especially of its gram-
+mar, as Bhattatiri was, his literary artistry and felicity of
+expression are evident all through the work. Words follow
+thoughts with a naturalness that fills the reader with a sense
+of their adequacy and appropriateness. His descriptions of
+nature, seasons, landscape etc., which must necessarily find
+a place in a Sanskrit Kavya, are brief and simple, but for that
+reason most effective and enchantingly poetic compared to
+the spun out, highly ornate and artificial descriptions in many
+a celebrated Sanskrit poetical work (Cf. c. 49, 58 & 63).
+Bhattatiri is noted for his capacity to expound his theme
+with brevity, beauty and effectiveness. In epitomizing and
+in taking a rapid survey of events, he has his own unrivallec
+technique, but for which he could not have compressed the
+matter dealt with in the Bhagavata in eighteen thousand
+verses into a work of one thousand and thirty six stanzas of
+exquisite beauty. While many of the episodes described in
+it like the life of Sri Krishna provide excellent themes for a
+poetic work—and the author has concentrated on them—
+there are several others which, by their very nature, are dull
+and prosaic, and would have remained so in lesser hands.
+Among such topics may he mentioned accounts of creation,
+genealogies, descriptions of continents, rapid surveys of events
+and philosophical disquisitions. Even in handling such
+themes not eminently suited for poetry, Bhattatiri has given
+his composition a poetic effect by the beauty of his diction,
+by the proper choice of metres, and by the sublimity and the
+devotional fervour he infuses into the exposition. The most
+conspicuous example of this aspect of his literary artistry is to
+be found in the last nine cantos dealing with abstract philo-
+sophical doctrines, which cannot be poetic in themselves,
+whatever else they may be. But in Bhattatiri’s hand the
+profundity of their wisdom becomes enriched by the graces
+of literary beauty, the magnificence of the Sanskrit metres
+he employs, and the intensity of feeling he imparts to his
+verses.
+
+His mastery of literary artistry expresses itself in the most
+striking manner when he employs the device of making
+the sound echo the sense. In this he is very muchassisted by the
+great wealth of metres that Sanskrit poetics provides and the
+liberality and appropriateness with which he has employed
+them for producing rhetorical and poetic effect. Outstanding
+examples of this are his descriptions of the Nrisimha (Man-
+lion) Incarnation (c. 25), and of the Rasa-Lila in the
+
+## Page 21
+
+INTRODUCTION saith
+Krishna, episode (c. 69). In the former the rugged and
+resounding expressions, together with the stirring metres
+employed, invoke the picture of the mysterious and the
+tremendous even by their sheer sound effect, while in the
+description of Rasa-Lila the musical word-combinations
+together with the rhythmic metres employed waft one up
+to the summits of devotion through a highly sublimated
+eroticism. The Kaliya episode (c. 56) is another striking
+example, and verses of the Narayaneeyam depicting it have
+become the theme for dance recitals by talented artistes.
+Considered in this way, most of the cantos have their own
+specific literary excellence.
+
+Bhattatiri’s mastery of poetic devices for creating sound
+effects through Anuprasa, Yamaka etc., and his capacity to
+make effective use of figures of speech, euphemisms, puns,
+witticisms etc., though evident all over, are prominently
+displayed in four cantos (70, 71, 78, 79). But he uses these
+devices sparingly and with great restraint, probably realizing
+that a hymn like the one he was composing should prove
+its effectiveness more through fervour and effortless poetic
+grace than through highly artificial embellishments of literary
+artistry. Regarding metres, however, he has made full use
+of their abundant supply provided in Sanskrit poetics,
+having employed eighteen out of twenty metres in active
+use among poets. The quick change from one attractive
+metre to another at the end of groups of ten verses has
+helped immensly in warding off tediousness, in giving a sense
+of freshness, and in enhancing the poetic effects of narratives
+and descriptions. The depicition of the Sri Krishna In-
+carnation, especially the portion dealt with in the cantos
+thirty seven to seventy six, constitutes the most artistic core
+of the work, and the reader is led to feel sometimes that
+this abridged restatement of the Narayaneeyam is not in any
+way inferior to the Bhagavata itself in its poetic effect and
+
+jonal impact.
+Beas: ie Hymn: Among the Sanskrit hymns the
+Narayaneeyam is unique in many Tespects. It is perhaps
+the longest hymn in Sanskrit. While many Sanskrit hymns
+are highly poetical, none of them shares all the features of
+a Kavya as the Narayaneeyam does. Beyond praising the
+excellences of the Lord, describing His form and making
+stray references to His love of devotees and bestowal of grace
+on them, they generally contain no unified theme, whereas
+the Narayaneeyam has an elaborate theme, consisting of the
+
+## Page 22
+
+xvili NARAYANEEYAM
+whole subject matter of the Bhagavata Purana as mentioned
+already. The Bhagavata itself is in the form of conversations
+between several sages and disciples, wherein are set forth
+descriptions of cosmic processes, the history of world systems,
+the doings of saintly kings, the works and excellences of various
+Divine Incarnations etc. interspersed everywhere with great
+devotional hymns and expositions of the Vedantic and devo-
+tional doctrines. The subject matter of this extensive literature
+of eighteen thousand verses is epitomized and re-cast in the
+Narayaneeyam into one thousand thirty-six verses, wrought
+into a hymn of praise, wherein almost every verse is directly
+addressed to the Lord as a fervent prayer and as an exposi-
+tion of His divine glory and excellences. It is very doubtful
+whether any other poet in Sanskrit has accomplished so
+stupendous a task. The devotional excellence of the work
+and its intimate relationship with the Bhagavata Purana have
+won for it in many parts of India a place among the daily
+Parayanagranthas (texts for daily ceremonial reading) like
+the Gita, the Devimahatmya and others.
+
+To what extent is the devotion of the author consistent
+with the Bhagavata doctrine of Bhakti? The question arises
+because at the end of every canto of ten verses, there is a
+prayer for the cure of the author’s physical ailment, and thus
+it may seem to militate against the idea that a devotee of
+the highest order never asks for any favour of the Lord, but
+is simply satisfied with serving Him with body, mind and
+soul. In considering this question, it has to be remembered
+that according to the Gita, devotees are of four kinds—the
+distressed, the enquirers, those seeking fulfilment of an object
+and the men of knowledge (Jnani). All these are reckoned
+as noble, but the Jnani is the devotee par excellence. Bhattatiri
+was a devotee of the first kind to start with, one in utter
+distress caused by his incurable disease. But he shows in
+the course of the work, in verse after verse, that his only
+object in praying for relief from pain, was that he might
+afterwards devote all his mental energies without any distrac-
+tion to the practice of whole-hearted devotion to the Lord
+(c. 40 v. 10; c. 92 v. 7; c. 93 v.9 & 10; c. 97 v. 10 etc.).
+In fact his disease marks the point of his conversion, and on
+this he touchingly remarks in verse 8 canto 93 that his body
+with its incurable ailment was the greatest of his teachers,
+because it was responsible for driving him to seck shelter in
+the Lord. At the end of canto after canto he pleads with the
+Lord to make him a devotee mad with Divine love, going
+
+## Page 23
+
+INTRODUCTION ote
+about the world like Suka and Narada preaching the message
+of Bhakti (c. 4, v. 8). The ring of passionate God-love rises
+above the tragic situation of the poet in the verses of the
+Narayaneeyam everywhere, and when one reads in verse 6
+canto 74, of the poet bemoaning his fate for not being in the
+crowds that greeted Krishna as he walked along the high
+road of Mathura, carrying in his hand at least a few fruits
+and betel to present to the Lord, no reader can help being
+thrilled by the intensity of the poet’s devotional exuberance.
+It is a fitting reward to the poet-devotee’s service of the Lord
+through this great hymn of praise that he was blessed at the
+end with the vision of the Lord described in the thrilling
+language of a devotional lyric in the concluding canto of the
+work.
+
+(3) Tue PuitosopuicaL Ourtoox or NaRAYANEEYAM:
+It is not only the narratives of the Bhagavata that are summa-
+rised in the Narayaneeyam but also its philosophical and
+devotional teachings. The teachings of the Bhagavata on
+these subjects are scattered wide over the text in its various
+dialogues and hymns of praise with which that great work
+abounds. The teachings given by Kapila to his mother
+Devahuti and by Sri Krishna to Uddhava in Book HI and XI
+respectively of the Bhagavata constitute the most important
+philosophical dissertations in that work. The essential
+points are selectively gleaned out of all these and put in
+magnificent verses in the first four and the last eight cantos
+of the NVarayaneeyam wherein philosophy has been transformed
+into poetry by Bhattatiri’s genius. :
+
+Though by up-bringing Bhattatiri was a Bhatta-mimam-
+saka (follower of Vedic ritualistic philosophy), he shows him-
+self to be an ardent Vaishnava in his theology and an Advyaitin
+in his philosophy. Lord Vishnu (who is identical with
+Krishna) is depicted, as in the Bhagavata, to be not a concep-
+tion of God but the very God, of whom all other Deities are
+expressions. This is elaborately argued in cantos 89 and 90.
+But in his metaphysics he goes all the way with Sankara’s
+‘Advaitism and upholds the doctrine of the Impersonal Absolute
+(Nirvisesha Brahman), from whom the individual soul is non-
+different. This unity with the Impersonal Absolute, according
+to the strict Advaita doctrine, is attained only through the
+sublation of the world, the individual self and Iswara, whose
+common substratum is the Absolute. Devotion to Ged
+js valucd in this doctrine only as a base camp to be abandoned
+as early as possible. Its function is purification of the mind,
+
+## Page 24
+
+|
+|
+
+xX NARAYANEEYAM
+
+and once that is achieved, the Jnana discipline of philosophical
+reilection for dissolving duality is to be adopted.
+
+Devotional philosophy, however, recognizes Bhakti not
+merely as a means but as the end also. Not dissolution in
+Brahman, but service of the Supreme Personal-Impersonal
+Being in various forms of loving relationship—of servant and
+master, child and parent, friend and companion, or wife and
+husband—is the goal of devotion. Whether such a way of
+life is compatible with the pure monistic philosophy is doubtful;
+but there have been great saintly thinkers like Madhusudana
+Saraswati who have found no incompatibility in such reconci-
+jiation. Madhusudana maintains that while the Dvaita
+that precedes awakening into the truth of Non-c ality is
+born of ignorance, the duality that is assumed after this awaken-
+ing for purposes of devotion, is sweeter than pure Adyaita
+consciousness. That it is sweeter is acceptable to devotional
+schools but that their doctrine is a mere ascription or make-
+believe will he disputed by them.
+
+Bhattatiri’s position on this question seems to be some-
+what ambiguous. While in many places he expounds the
+idealistic Non-dualism of Kevaladvaita in a thorough-going
+fashion (c.94; 95, 98 etc.) he is convinced of its uselessness
+as far as he is concerned (c.94 v.6), and he is not prepared
+to call the God of love as only an appearance and devotional
+relations as mere ascriptions. He admits in many places that
+Bhakti is the only practicable way of spiritual practice and
+that it is a self-sufficient discipline (c.94 v.6-10). All other
+paths are difficult to practise, or too distant in their results, or
+they endanger man’s spiritual life by bogging him in pure
+ritualism or intellectualism (c.94 v.10; ¢.96 v.6). The
+body and the sense of ego stand as insuperable obstacles in the
+path of Jnana. Bhakti, on the other hand, is sweet, natural,
+introduces the new energy of Suddhasattva in overcoming
+the pull of the Gunas of Prakriti, and above all opens the
+way for the operation of Divine grace, by which alone Non-
+dual Consciousness can be gained (c.96 v.6 & 7).
+
+But he does not give any conclusive answer to the question
+whether Bhakti is only a means or is also an end in itself.
+He is prepared to admit that Bhakti is equal to Mukti (Colt,
+v.11) but does not seem to go all the way with the Bhagavata
+which states, with reference to Sri Krishna’s services to the
+Pandavas, that Bhakti is superior to Mukti and that the Lord
+hestows Mukti to many but Bhakti only to a blessed few
+(Bh. 5.6.18). Bhaktas of the highest order do not seek mergence
+
+## Page 25
+
+INTRODUCTION XXL
+
+in Brahman, which is called Brahmananda; they prefer to los
+themselves in eternal service of the Personal-Impersonal
+God of love and the Bhajanananda accompanying it.
+Bhakti of this type which looks upon itself as the highest
+end, and not merely as a secondary means, can be supported
+only on the basis of the philosophical position of Achint
+bhedabheda. Achintya-bhedabheda differs from Keval
+dvaita in two essential respects: (1) According to it Reality
+is both Personal (Saguna) and Impersonal (Nirguna). Funda-
+mentally it is Personal, but it has an Impersonal aspect too.
+The personal Bhagavan reveals this aspect of His, viz. the
+Impersonal Brahman, to those who prefer bodiless dissolution
+in it. But His fundamental nature as Ananda (Bliss) is
+realized only through maintaining personal relationship with
+Him, and this is a higher consummation than Mukti. There-
+fore in this way, of thought either Bhakti as eternal service of
+the Lord or Mukti as mergence in His Impersonal nature,
+becomes available according to the aspirant’s bent of mind.
+(2) Reality is simultaneously non-dual (Abheda) and multiple
+(Bheda). Multiplicity is the projections of the Shakti (Power)
+of the Non-dual Reality, the Bhagavan. Shakti and its
+possessor or Shaktimat are inseparably one (non-dual), just
+as fire and its burning power are one. Yet they are different
+also, just as the burning power of the fire can be distinguished
+from fire. In this conception of relationship, the non-duality of
+the Supreme Being is secured in spite of His projection as
+the many through His Shakti. Also as the projection is of
+the Shakti, the Bhagavan is not affected in any manner. It
+js the inconceivable uniqueness (Achintyata) of the Bhagavan,
+that unlike relative causes of the world, He can be the many
+through His Shakti but yet be unchanged and unaffected in
+the least by it. Change or manifestation here is real unlike
+in Kevaladvaita, though it does not affect the Bhagavan.
+Consequently bondage and salvation are real, and the Bha-
+gavan too is real and can never be sublated, as in Keyal-
+advaita. : .
+Reading between the lines of the Narayaneeyam, one is
+likely to feel that Bhattatiri’s heart is more for Bhakti as
+eternal service than for the Moksha of dissolution in Brahman.
+But what exactly his final metaphysical position is, it is difficult
+to pin-point, because in the last nine cantos of the work he
+seems to approve of all forms of monism and theism known to
+Indian thinkers. It looks, however, that the traditional hold
+of the Sankara School of Kevaladvaita was very strong on his
+
+## Page 26
+
+xxii NARAYANEEYAM
+
+intellect, in spite of his perception of its inadequacy and
+impracticality as far as he and most spiritual aspirants are
+concerned. He, therefore, makes frequent excursions into
+the intellectualism of this school, but immediately after,
+finding its bleak precipices too inhospitable for himself and
+allied spirits, withdraws into the warm and secure mansions
+of Bhakti, the adoring love and service of the Divine Person,
+and loses himself in the ecstatic joy of it (see cantos 96 and 97).
+Abandoning the idealistic Advaitism of Kevaladvaita, he
+then expounds the realistic Advaitism of Achintya-Bhedabheda
+(without however mentioning this name or awareness of it),
+in which non-difference and difference, thé Impersonal and
+the Personal have an equal place. In canto 7, verse 9 he
+puts into the mouth of Brahma the Creator, the prayer for
+an understanding of the real nature of the Lord as Dvaita-
+advaita, that is, as one who harmonises in Himself both unity
+and multiplicity. No such question as positing apparency
+for multiplicity is raised here. He also speaks of the Divine
+form, of which he hada vision, and which he describes vividly
+in the last canto, as the wavy surface of the Ocean of Satchida-
+nanda (c.1 v.4; c.99 v.10). The wave-ocean continuum isavery
+familiar example employed in Bhedabheda as the illustra-
+tion of the Non-dual Satchidananda manifesting as the many
+in a real sense without any diminution of Its integrity and
+spiritual excellence. In canto 99, verse 9 he makes prostrations
+to the Deity, the Being who manifests Himself as the Becoming
+(the world of the many) by an insignificant part of Himself
+and transcends it by three-fourths of Himself. Unaffected
+in the least by His real manifestation as the world, He remains
+as the infinite and uncontaminated Spirit.
+
+In the Kevaladvaita of Sankara all these manifestations
+of Divine creative activity and Iswara Himself are Mithya,
+appearances only, which means they never have been really
+existent. They are only appearances conjured up through
+ignorance. But in the WNarayaneeyam it is nowhere said
+that God is also sublatable like the ego and the universe.
+The ‘1’ gets merged in the Universal Spirit and not vice
+versa. This is clearly expressed in a well-known verse thus:
+“When differences are effaced, it is I that become merged as
+a part of Thine and not Thou that dost become merged in
+me. The wave is of the ocean, and not the ocean of the wave.’
+
+Bhattatiri seems to uphold only such a realistic Advaita,
+in which, even if bodilessness and mergence in the Supreme
+Spirit form the ideal, there is no such idea as sublating the
+
+## Page 27
+
+4NTRODUCTION xxili
+Bhagavan. It is by the Bhagavan’s grace alone that non-
+dual consciousness is got. The devotee merges in His being
+by His grace and not sublates Him. The * 1’ disappears in
+Him, and He alone is left and not vice versa. Devotional
+Advaitismn has necessarily got to be realistic and not solipsistic.
+The full metaphysical implication of accepting Bhakti as the
+fifth Purushartha, superior even to Mukti, which forms the
+unique feature of the Bhagavata, is articulated only hesitatingly
+in the Narayaneeyam, in spite of the author’s leaning towards
+it.
+
+Iv
+The Bhagavata: A Perspective of Its Contents
+
+Since the WNarayanceyam is a condensed version of the
+Bhagavata, an understanding of the former will be helped by
+a general consideration of the Bhagavata and its subject
+matter. The Bhagavata, which received its present textual
+shape between the 6th and the 8th century A.D. according to
+the latest pronouncements of modern scholarship, is considered
+one of the eighteen Mahapuranas, and is today the most
+widely accepted religious literature of its kind. A Maha-
+purana is expected to deal with the following ten topics
+according to the Bhagavataitself (12.7. 9-10): (1) Sarga or
+Primary Creation: It is the evolution of undifferentiated
+Prakriti (Nature or Root Matter) into the twenty-four cate-
+gories ending with gross material elements (cf. canto 6 and
+note 7). (2) Visarga or Secondary Creation: This consists
+in the latent tendencies of creatures becoming manifest, as
+when trees come out of seeds. As a result, all embodied
+beings, sentient and insentient, get formed by the combina-
+tion of the categories evolved out of Prakriti, through the
+creative activity of Brahma (cf. cantos 7 to 10 and notes
+6 and 8). (3) Vritti or Means of Sustenance: It is the des-
+cription of the system by which the more evolved beings are
+ordained to subsist on less evolved species as prompted by
+Nature and set forth in scriptures. Sometimes the subject of
+Sthana or Residence for creatures js also brought under this
+subject. In elaboration of it, descriptions are given of the
+various regions of the earth with their diverse physical features,
+inhabitants and forms of worship, as also of heavenly and
+nether regions providing abode for various kinds of super-
+
+## Page 28
+
+i
+
+XxiV NARAYANEEYAM
+
+human beings. (4) Raksha or Protection: It includes the
+accounts of all the Incarnations of the Lord in various species
+of beings, wherein His sportive deeds for the establishment of
+spirituality and the salvation of devotees are described besides
+his bestowal of unconditioned grace even on unworthy men.
+For this reason, this subject includes also what is called Poshana
+or rejuvenation of spiritually dead persons through uncondi-
+tioned grace. (5) Manvantara or Epoch of Manus consists
+in the description of the combined activities of Manus, Devas,
+sons of Manus, Indra, Rishis and highly evolved souls for
+the promotion of life and the well-being of all creatures.
+(6) Vamsa or Genealogy gives descriptive lists and achieve-
+ments of great royal and priestly lines descended from Brahma.
+(7) Vamsanucharita or Dynastic History deals with rule of
+distinguished kings and their dynasties that served the cause
+of devotion to God and well-being of the Universe. (8)
+Samstha or Dissolution is the description of the three kinds
+of dissolution of the manifested universe into finer condition
+brought about by the influence of Time, Karma, and Gunas.
+These dissolutions or Pralayas are: the total dissolution of the
+manifested universe (Prakrita-pralaya), partial destruction
+due to some special cause (Naimittika-pralaya), and daily dis-
+solution in sleep (Nitya-pralaya). The salvation of man, which
+implies the dissolution (Pralaya) of all his gross and subtle
+bodies, also comes within this topic. It is called Atyantika-
+pralaya (cf. note 6). (9) Hetu or Purpose is the discussion
+of the root cause and significance of all creative activity. It is
+Jiva (individual soul), the product of Avidya (ignorance)
+and its ensuing effects of desire and Karma. All creative
+activity is to confer on Jivas the fruits of their Karmas and
+ultimately redeem them from ignorance and rebirth. So
+subjects like the nature of the Jiva, the ways of his redemption,
+the purpose of creation etc. will come under this topic. (10)
+Apasraya or Ultimate Support: This is God who is the
+ultimate Being and the Support of all relative supports.
+In Him and by His will all the above-mentioned events and
+processes of the relative world take place. It is to bring man
+to an adequate conception of His excellences and generate
+in him devotion to the Lord, that all other themes mentioned
+before are discussed in the Puranas. There will be found
+scattered all over the Puranas considerable matter relating
+to history, geography, astronomy, natural sciences, sociology
+etc. as understood in ancient days. The object of such.
+accounts is not to teach these subjects as such like modern
+
+## Page 29
+
+|
+|
+|
+]
+‘
+|
+|
+
+INTRODUCTION xxv
+text books on them, but to engender in us a feeling that all
+functioning of Nature and of human and divine agencies is
+to proclaim the glory of the Supreme Being and thus generate
+in us a sense of His omnipotence, omniscience and redeeming
+love. So all the accounts given in the Puranas, including the
+apparently non-devotional topics, converge on this great theme
+of Apasraya, the Supreme Being who is the ultimate support
+of everything.
+
+While much of the Vedanta philosophy finds its place in
+the Puranas, it is mostly its devotional aspect, with highly
+personalised conceptions of the Deity, that is highlighted in
+all of them. Generally they are based on any one of the
+three cults—the cult of Siva, the cult of Vishnu, and the cult
+of the Divine Mother. The cult Deity is exalted as the
+Supreme Personal-Impersonal Being of the Vedanta. He is
+vivified into a very tangible reality with a plethora of des-
+criptive details about Him—His form, decorations, weapons,
+associates, heavenly abode, its denizens and the like. Through
+evocative hymns and through vivid and poetic narratives
+concerning His cosmic activities and the workings of His
+redemptive grace, the cult Deity and His Incarnations are
+made more graphic and real to a votary than any historical
+personalities of the past who are nothing but shadowy figures
+of bygone ages. He is apprehended through the pages of
+the Puranas as the eternally living spiritual Person with whom
+one can commune and whose grace one can pray for and
+obtain.
+
+The Bhagavata for its part js a Vaishnava text and as
+such exalts Maha-Vishnu as the Supreme Being (cf. canto
+89 and 90 of the Narayaneeyam). While it deals elaborately
+with all the topics common to Puranic literature cited earlier,
+it concerns itself specifically with some themes of Vaishnava
+theology like the various kinds of Divine manifestations—
+the three Gunavataras known as Brahmz, Vishnu and Mahes-
+wara, the four Vyuhavataras known as Vasudeva, Sankar-
+shana, Pradyumna and Aniruddha and the score of
+Leelavataras or sportive divine Descentsamong men and other
+species of beings, of which the Incarnation as Sri Krishna
+dominates its narrative. Of the eighteen thousand verses
+of the Bhagavata, about fifty per cent deals either directly or
+indirectly with the Krishna-Incarnation. And even the
+remaining portions of the Bhagavata, devoted to the other
+Incarnations and to otherthemes appropriate to it as a Purana,
+are all posited as a preparation for the great event of Krishna’s
+
+## Page 30
+
+xxvi NARAYANEEYAM
+
+advent. The life history of Krishna, embodying in it His
+dealings with various devotees in different forms of loving
+relationship, His destruction. of wicked Asuras and kings, His
+instructions to devotees, and His revelation of divine powers
+and attributes, are elaborately treated and offered to mankind
+as matter for study and contemplation for the attainment of
+devotion and salvation.
+
+The dominating importance of Krishna is so great that
+there are sects of Vaishnavism which hold that the Bhagavata
+depicts Krishna as the Deity and Mahavishnu as an emanation
+of His. This idea, rather difficult to substantiate, is
+maintained on the strength of the Bhagavata verse: “ While
+all the other manifestations mentioned before are only aspects
+and parts of the Purusha, Krishna is Bhagavan Himself.”
+Though one may not agree with the above-mentioned sec-
+tarian interpretation, it has to be granted that in Krishna
+all the Bhagas or divine majesties that enter into the concept
+of the Bhagavan (cf. c.1, v. 10) were fully represented and
+therefore he is unique among Incarnations. This uniquencss
+of Krishna, the acceptance of His divine perfection, is to be
+understood and accepted fully, if the special doctrine of
+devotion centring on Him is to be understood in the proper
+light.
+
+Many of these Bhagavata narratives are condensed in
+the Narayaneeyam, expressing fully their devotional fervour
+and implication, while Krishna’s life is given an claborate and
+highly poetical treatment. On reading these, an individual
+brought up in the prevailing traditions of history and natural
+studies, is likely to feel puzzled how these. Puranic accounts
+are to be accepted and accommodated in his intellectual
+melieu. Are they historical? Are they at the level of fiction ?
+Are they compatible with science? These are some of the
+questions that would agitate a modern mind.
+
+The answer is that the Pauranika narratives are to be
+yalued for the spiritual stimulations they give and are not to
+be approached as history or science, though much of both of
+these may be involved in them. History in itself consists of
+events, and events are fleeting like a line on water. Events,
+however, become enduring and worthy of being called history,
+to the extent they make an impact on the human conscious-
+mess. Most of these events are soon forgotten and remain
+only in records. Some, however, remain in the memory of
+peoples as a remembered tradition stimulating their thought
+and action. Apart from this, mere events have no worth, no
+
+## Page 31
+
+|
+|
+|
+|
+
+“NTROPUCTION xxvii
+
+reality, no existential! value. They are pure abstractions.
+Now if an impact and experience of a more enduring type
+could be made on the psyche of man from a dimension different
+from that of space-time events, or even if the stimulation of
+space-time events gets mixed up with many such psychic
+factors and produce a tradition that is sufficient to inspire
+and activise man in pursuit of the highest object of life—then
+such experiences and traditions must be accepted as having
+a much greater existerttial value than what could be extracted
+from them by research in terms of so-called historical facts.
+To call such tradition by familiar names like myths or fables
+jn the sense that they are mere fanciful accounts or concoctions,
+js to entirely forget that these Pauranika traditions are of
+existential value, whatever their origin, and have become
+psychic realities in the consciousness of great communities.
+Even when the so-called historical facts and _ personalities
+endure in the consciousness of man as a living force, as in the
+case of historical Divine Incarnations, it happens only by their
+first ceasing to be three-dimensional events, and then coming
+to be accepted by the human consciousness as psychic realities
+transcending their space-time relationship. _Had it not been
+for this acceptance, they would have been like mere lines on
+water or bubbles in the midmost ocean—mere facts of the
+past, not realities enduring through to the present.
+
+To trace the origins of these traditions to some clever
+human brains, sitting together and concocting them, would
+be as foolish as saying that the Himalayas, the Ganges or the
+Indian Ocean have been formed by spade work by some groups
+of men. Even as these latter were wrought by the creative
+Cosmic Mind working through the internal forces functioning
+within physical Nature—for they have taken meaningful
+shapes that have enabled the growth of life, communities and
+civilisations—the Cult Deities and the devotional narratives
+and traditions about them are psychic expressions of the
+supreme Spiritual Reality in human consciousness. They
+are to be evaluated as neither history, nor geography, nor
+science, though considerable elements of all these may be
+involved in them. To interpret all Purana as factual (in the
+sense of events in space-time), as some Indian fundamentalists
+
+1The wo
+only in a limited sense
+
+> js used here and in other parts of the Introduction
+does not convey all the implications of the existential-
+ist philosophy. The anything that is of concern to human conscious-
+ist philosophy. Tia certian impact on it must be conceded a greater reality
+Bee ie purely ‘unconcerned and abstract entities of merely logical and
+py it
+
+antiquarian import.
+
+an
+
+## Page 32
+
+eed om
+
+4]
+
+Pai NARAYANEEYAM
+
+do, is as much an injustice to them as the attitude of some
+moderns who equate them with stories and fables. They
+belong to a supra-historical order, and their worth is existential
+as enduring psychic verities in human consciousness. Their
+purpose, too, is not the teaching of history, or geography, or
+science, but converting these and all other available informa-
+tion on the universe, creation, plants, animals, human societies,
+philosophies, achievements of royal dynasties, lives of saints
+and holy personages, divine beings recognised as Incarnations,
+and all other kinds of traditions into one integrated literature
+of high psychic potentiality, capable of stimu ating in man a
+keen sense of an omniscient, omnipotent, an all-loving
+Spiritual Reality, who is loving, lovable and responsive, who
+can be communed with, prayed to and visualised in various
+forms of spiritual glory. It is in this, their cumulative devotional
+effect on the mind, and not in the investigation of their
+individual statements or in a critique of their methodology
+that one should seek their relevance. To do otherwise will
+be only like the conduct of one going into the mango grove to
+count its leaves in place of eating its fruits. It is therefore
+mentioned, that of the ten subjects dealt with in the Puranas,
+all the nine lead to the tenth—Apasraya or God. This
+outlook of the Puranas in general is voiced forth in 12.3.14-15
+of the Bhagavata as follows: “J have narrated all these
+accounts of great men of ancient days, all of whom are dead
+and gone, leaving behind only their reputation for good
+deeds, only with a view to createin you renunciation and
+spiritual enlightenment. All the descriptive details given
+here should not be taken as literal or as factual history, (they
+being shaped and meant for the above-mentioned purpose).
+Let one who aspires to have devotion to Krishna be always
+hearing the recitals of His ¢lorv. capable of eradicating all
+evil tendencies.” Viewed in this light, the Puranas in general,
+and the Bhagavata in particular, have succeeded more than
+any other kind of literature in making God a reality to man
+through their vivid and realistic descriptions and narratives.
+
+## Page 33
+
+\V
+
+The Bhagavata: Its Teachings on the Theory
+and Practice of Bhakti
+
+For the study of the WNarayaneeyam, it will be of
+considerable help to know something about the theory and
+practice of Bhakti as expounded in the Bhagavata, which
+forms the source book of this Text. In fact, without a grasp
+of the Bhagavata philosophy of devotion, many narratives
+in the Narayaneeyam like the life of Krishna will even he
+misunderstood. A brief exposition of that philosophy is
+therefore attempted below.
+
+The term Bhakti comes from the root Bhaj. ‘ To adore,’
+“to love’ and ‘to keep companionship with’ are a few of
+the religiously significant meanings out of akout two dozen
+meanings of varying import attached to this root. From these
+is derived the current meaning of the term Bhakti as adoration
+and loving service of the Supreme Being. As the term is
+commonly used to indicate all the stages of development of
+devotion, it will be advantageous to distinguish these stages.
+At the lowest rung is conventional religion (Sadharana
+Bhakti), which means mere conformity with the accepted
+peliefs and observances of a religious community as a matter
+of routine, without any inner spiritual urge or dynamism.
+It may sometimes take the shape of a blind and conservative
+formalism, or even of a religiously oriented and intolerent
+groupism of a fanatical nature. These hardly deserve the
+name of Bhakti. The next stage is Sraddha (Faith), when the
+truths of relgion like God, soul, the hereafter etc., are taken
+very seriously and the need for some set of practices to intensify
+‘one’s spiritual perception is felt. Generally it is a calamity
+in life (as in the case of the author of the Narayanceyam) or
+‘contact with a really holy man that brings about this con-
+version. The Bhagavata everywhere extols holy company
+as the one unfailing factor in gencrating and augmenting
+the devotional sentiment in man. Says the Bhagavata:
+Tn close association with holy men, one hears the sweet
+and inspiring accounts of My works and excellences. Soon
+does a man imbibing them develop in succession Sraddha
+(Faith), Rati (Attachment) and Bhakti (Love)” (Bh. 3.25.25).
+A man with Sraddha persistently seeks holy company, as it
+js the only source of nourishment for his infant faith. He
+also seeks a spiritual teacher and practises disciplines pre-
+
+## Page 34
+
+3888 NARAYANEEYAM
+
+scribed by him for the development of his devotional life,
+The details of these devotional disciplines are given in the
+last part of this article. At this stage, called Sraddha, it is
+only by devotional disciplines that love of God and attraction
+for Him can be stimulated. In their absence, the mind
+relapses to one’s worldly pre-occupations. But with continued
+practice, the aspirant begins to feel a blissful feeling in com-
+munion with God. When this stage is reached, he does not
+depend much or mainly on external stimulations given by
+the practice of disciplines, even though he might be practising
+them. The mind develops a natural proneness to God because
+of the inward joy His contemplation gives. This stage of
+-the mind feeling a natural joy in God and continuous attraction
+for Him is called Rati. Now Rati may take an impersonal
+form—what may be called Jnana-oriented or intellectual love
+of God—if He is looked upon as the Impersonal Absolute,
+and the goal of spiritual striving is then conceived as the
+mergence of one’s self in that Absolute. Or, according to the
+temperament of the aspirant, and the nature of the Sadhana,
+it may take the form of intense personal love of the all-perfect
+Divine Person. To distinguish these two developments at the
+high levels of devotion, the former leading to Sayujya or
+mergence in the Absolute may be indicated by the common
+name Bhakti, and the latter by the term Priti. Or if both are
+to be known by the common name Bhakti, the former may be
+distinguished by the expressionJnana-bhakti (devotion admixed
+with knowledge or intellectual love) and the latter by Priti-
+bhakti (devotion characterised by delight in the service of the
+Divine Person). The experience of Priti is possible only for
+an aspirant who looks upon the Supreme Being as the Divine
+Person, the Bhagavan}, .of whom the Impersonal Absolute
+is an aspect. In other words the Bhagavan is both the
+Absolute and the Divine Person. The Bhagavan is identified
+with Vishnu or Krishna in the Bhagavata. In the Pritt
+discipline He is looked upon in any of the forms of loving
+personal relationship as master, child, friend, husband or
+the beloved.
+
+But such forms of loving relationship are to be clearly
+distinguished from the purely dualistic attitude of separate-
+
+__ ©The word Bhagavan implies that He possesses the six Bhagas or majesties—
+Aisvarya (omnipotence), Vv irya_ (potency of goodness), Yasas (sanctifying excel-
+enees), Sri (beauty and attractiveness of form and spirit), Jnana ,omniscience)
+
+and Vairagya (non-attachment in all cosmic activits
+Text, c.I., v. 10. mic activities). See the Narayanceyam®
+
+## Page 35
+
+lene Ce
+
+INTRODUCTION Xxxi
+ness. Separateness by itself can only create distance and is
+antagonistic to pure love. Pure love is based on the sense of
+the object of love being one’s ‘ own”; and this is possible only
+when there isa sense of unity of substance in spite of apparent
+distinction. The point may he illustrated by comparing the
+relationship cxisting between a king and an officer of his,
+with the one between the same king and his son, the heir-
+apparent. The former is a purely external relationship.
+It is based upon the apprehension of the king’s power only.
+Tt ceases to subsist when the king loses his power. For,
+basically he is a stranger, and the relationship with him
+depends mainly on considerations of obtaining advantages
+such as wealth, position etc., if he is pleased. The relation-
+ship of the prince with his father, the king, on the other hand,
+stands on quite a different footing. The relationship is
+inherent and cannot be broken by any extraneous circumstance.
+Though there is a sense of distinction, it is cemented by an
+inseparable sense of unity expressing itself as a feeling of
+“belongingness’ or an attitude of being one’s ‘own.’ As a
+consequence, thesense of intimacy overcomes the awareness of
+the power and the majesty of the object of love. It also results
+in spontancous service of that object, without expectation of
+any extraneous reward, the pure delight of such service being
+the only reward, if any at all. Priti is this delight in service
+of God as one’s beloved, wherein the sense of Divine power
+and majesty is counterpoised by that of the Lord’s lovableness
+and by the intimacy of His relationship with the devotee.
+
+It is held by some schools of Vaishnavism that it is only to
+one who is established in this relationship of Priti, personal
+relationship expressing itself as the pure delight of service,
+that Krishna reveals His Ananda. (Blissful) nature in its
+fullness. In the intellectual love leading to Sayujya or
+oneness, distinguished here from Priti by the expression
+Bhakti, the Lord is revealed mainly as Being-Consciousness
+and only very hazily as Bliss for want of the channel of com-
+munication consisting in personal relationship. It is in this
+sense that the Bhagavata speaks of Bhakti (meaning, of the
+Priti variety) as superior to Mukti and that Bhaktas of the
+highest order do not care for Mukti in the sense of mergence
+in Him but only for love expressing itself as delight in His
+service, involving them in the Leela (sportive expressions)
+of the Divine Person in His redemptive role or in His transcen-
+dental abode of Vaikuntha. To such devotees steeped in
+personal love of Him, the Lord even subordinates Himself.
+
+## Page 36
+
+xxxil NARAYANEEYAM
+
+Says the Lord in this connection: “O Sage! It is as if
+I am not free, subject as I am to my devotees. Being
+fond of my devotees, my heart is under their sway. I do not
+value myself or even Sri who is ever associated with Me. as
+I do these holy men who have accepted Me as their supreme
+goal. How can I abandon these men who have sought
+refuge in Me, abandoning their wives, children, relatives,
+houses, wealth and even life itself? The holy men who have
+deep-rooted love for Me and are benevolent to all beings,
+win Me over as a faithful wife does a dutiful husband. Having
+attained to life’s fulfilment by My service, they do not care
+for the four forms of Mukti (liberation) like Salokya and the
+rest, which are in their reach through their service of Me.
+How little then would they care for the perishable attainments
+of the world? Holy men are verily My heart, and I am
+verily the heart of holy men. They do not know of anything
+but Me, and I, of anything but them” (Bh. 9.4.63-68).
+
+Thus the Bhagavata presents to us two ideal forms of
+Bhakti—Jnana-bhakti or intellectual love with mergence in
+the Absolute as the goal, and Prema-bhakti (Priti) with
+Divine service as its consummaticn. In the former type of
+love, Bhakti is a means, the end being Moksha (freedom
+from embodiment), while in the latter, Bhakti is both the
+means and the end. For this reason Bhakti of the Priti type
+is described as the fifth Purushartha, in distinction from
+Moksha considered generally as the fourth and the supreme
+value of life (Parama-purushartha). The Bhagavata is unique
+for its special stress on Priti-bhakti and the illustration and
+exposition of it through the life and actions of the Divine
+Incarnation Sri Krishna and His associates.
+
+In a tone somewhat different from the definitions of
+Bhakti by the theoreticians of its doctrines like Narada and
+Sandilya, the Bhagavata gives its own description of it.
+Comprehending all ramifications of Bhakti, there is the follow-
+ing description of it in Bh. 3.25.32-33 ‘When all the
+energies of man, including those of the organs of knowledge
+and action, get concentrated as a unified mental mode directed
+to the Supreme Being, spontaneous like an instinct and
+devoid of any extraneous motives, the resulting state of mind
+is called Bhakti. It is superior to Mukti. Like fire it burns
+up the soul’s sheath of ignorance.”
+
+Such a definition of Bhakti includes in it both these
+forms of higher devotion, the Jnana-bhakti ending in mergence
+in the Absolute and Priti-bhakti consisting in loving service.
+
+## Page 37
+
+inn ate
+
+INTRODUCTION saat
+Its implications are, however, still more wide and diversified.
+Since it is a ‘ mental mode,’ concentrating all energies on the
+Bhagavan, the nature of the urge that directs it ceases to be
+of importance; only it must be directed to the Lord, it must
+be spontaneous, and it must be an ultimate end in itself.
+The frontiers of devotion as conceived by the Bhagavata, be-
+come enlarged. For instance it finds a place for a new type of
+devotional expression described as ‘communion through
+confrontation’ (Vidvesha-bhakti). Mortal dread of an
+enemy and the emotions of fear and anger arising therefrom
+are capable of focusing the mind on that person as forcefully
+as love on a beloved person. This form of communion is
+possible, however, only for certain Titanic souls and not for
+every one. Instances of this are Asuras like Hiranyaksha,
+Hiranyakasipu, Ravana etc., described in the Bhagavata as
+also in the Narayaneeyam (c. 12 & 24). In whatever way a
+man approaches God, in the self-same way does He respond to
+him. These Titanic souls who looked upon Him as a dreaded
+enemy and spent all their time in fear of Him and in a spirit
+of confrontation with Him, had their minds always focused
+on Him in complete absorption. This absorption purified
+their minds and brought about their salvation through death
+at His hands. So the Bhagavala lays down the dictum:
+“ The worm imprisoned in a cavity and guarded by the beetle
+lives in constant dread of it, and by such identification through
+fear, gets the lorm of the beetle. Even so, by constantly
+thinking of Krishna as their dreaded enemy, they (the enemies
+of Krishna) became washed of all their sins and attained to
+Him” (Bh. 7.1.23-28). Only, as their attitude was one of
+enemity and confrontation, the Lord approached them in a
+corresponding way and met them with weapons in mortal
+combat. : .
+Although the idea of communion by confrontation has
+no practical application in life, it is important to grasp the
+principle involved in it, as it helps one understand the Bhagavata
+idea that any passion of the human spirit, when directed to
+God, is responded to by Him in a corresponding way, and
+that in spite of its contrary appearance, it as the potency
+of Bhakti and purifies and uplifts the aspirant concerned.
+This theory is applied to all the other powerful passions of
+the human mind, including sex love. The apparent illicit
+love of the Gopikas for Krishna and His amorous dalliances
+with them are depicted in all detail as the central episode in
+Erishna’s life hoth in the Bhagavata ancl the Narayanceyam
+
+## Page 38
+
+XXxxiv NARAYANEEYAM
+
+(cf. c. 65-69), to illustrate this great theory of the devotional
+school. The central point to remember about this depiction
+is that Krishna, according to the Bhagavata, is Bhagavan
+Swayam (the very God presenting Himself as man), and that
+the Gopikas in being powerfully attracted to Him, maybe
+at first by His ravishing beauty, had their minds fixed in
+complete absorption only in God. As a medicine taken,
+with or without the knowledge of its potency, has its inevitable
+effect on a man, so also absorption of the mind in Krishna,
+God manifested as man, had its sanctifying effect on the
+Gopikas, who were raised by the power of their love for
+Krishna from Kamukis (sexually infatuated females) to
+Premikas (devotees established in the Priti type of Divine
+love). Krishna’s dealings with them might look like those
+of a lover with his beloved, matching with the attitude of the
+Gopikas, but their import is God-love of the highest order.
+As it is put effectively in the Narayaneeyam: ‘‘ ‘The prompting
+of cupid became a blessing to these women in so far as it
+brought in them the intensity of attachment to Thee and the
+consequent detachment from all worldly concerns. Attach-
+ment between the sexes is spontaneous, being an instinctive
+urge, while devotion to God, the means for salvation, may
+result from great striving or may not. But Oh! what a
+blessing, what a rare good fortune that in these women both
+these haye coincided (as their passionate attachment was
+fixed on Thee, the Supreme Purusha incarnated as Krishna,
+on whom all spiritual aspirants also fix their minds)!”
+(c. 59.10).
+
+As for the ethical propriety of Krishna’s relationship
+with the Gopikas, the question is considered redundant by de-
+votecs on different grounds. Some take the depiction of Gopi-
+Krishna relationship as only allegorical for portraying the
+passionate longing of the soul for the Supreme Spirit. Others
+contend that the Gopikas met Krishna not in a physical
+sense, but in the state of Bhava (spiritual absorption). The
+Bhagavata itself takes the relationship as factual and maintains
+that no human standard of morality comes into the picture.
+Questioned on this point by Raja Parikshit, the sage Suka
+says as follows: “ Divine personages are found to over-ride
+the rules of Dharma (ethics) and do actions of a seemingly
+shocking nature. But just as no impurity affects fire which
+consumes everything, nothing causes blemish to such persons
+of immense potency. But lesser men should not imitate them
+in these respects even mentally. If they do so foolishly, they
+
+## Page 39
+
+yaneeyam, as it su
+
+INTRODUCTION =
+
+will perish, as one will do if one drinks poison following the
+example of Rudra. The instructions of goldly persons are
+valid; so are some of their actions too. A wise man will
+follow only such of their actions as are consistent with their
+words. It is admitted that for enlightened men without
+the ego sense, there is no selfish gain to be attained by their
+actions nor any loss by abstinence from them, and that they
+are above good and evil. How can these affect the supreme
+Lord Krishna who is the master of all beings—gods, men,
+animals and the rest? By devotion to His holy feet the great
+sages derive their Yogic power and thus they become iree
+from the bondage of all actions. How can any bondage or
+sin accrue to the Universal Being who has assumed a body
+out of His own will, and by devotion to whom even these
+great sages derive their spiritual excellence? He who per-
+meates all beings, including the Gopikas and their husbands,
+and directs the mind and senses of every one—even He out
+of sportive intention has assumed a body as Krishna. For
+bestowing His blessings on all beings He has assumed a body,
+and He sports with that body in ways that interest and attract
+men to Him. By Krishna’s mystic power the inhabitants
+of Vraja found their women in their homes all the time, and
+had no occasion to be displeased with Krishna, He who,
+with faith in Krishna in his heart (i.e, regards Him as the
+Supreme Being) hears, reads and narrates these amorous
+dalliances of His with the Soo pa ne man will
+tain deep devotion to the Lord, and wi soon overcome
+Re the ea heart disease of mankind’! (Bh. 10.33.30-40).
+* Personal love taking the form of a particular mental
+mode is called a Bhava. The Bhava of the Gopikas is called
+Madhura, one of sweetness, which includes the attitudes of
+both the wife towards a husband and of the beloved towards
+a lover. This form is taken to be the acme of cease love
+by all Bhakti scriptures like the Bhagavata and the Nara-
+psumes in itself the ae (Bha ay
+é y he other forms of love (Bhavas
+different mde Oe ptars and illustrated in the Bhaga-
+vata, are Santa, Dasya, Sakhya, and Nae Santa eu
+the peaceful Bhava is that of the philosopher fully conscious o
+
+pede ete
+FT his i as a suggest! I
+
+Rauislie) tO, Pe areAt people with ‘a sex story but to cradicate sexuality
+Bhagavala is not to delight PEST the Biagavala has symbolism as the ultimate
+itself, So while accepting er Gexeribing the illicit love of the Gopi the great
+meaing: yeally describing the purest and most powerful form of God-love,
+
+ive hint to show that the purport of the
+
+## Page 40
+
+Seyi NARAYANEEYAM
+
+Divine majesty and excellences, and in its fullest development
+it ends in Sayujya or mergence in the Impersonal aspect of
+Brahman. Here Bhakti is accepted as a means for attaining
+an end, which is Moksha. So it does not come under the Priti
+type. For, in Priti, devotion is both the means and the end,
+
+All the other Bhavas mentioned above come within
+Priti, as they are based on personal relationship. The Dasya
+is the attitude of looking upon God as one’s master. It may
+also be considered as including the filial Bhava or the attitude
+of a child to a parent. The Sakhya attitude consists in
+looking on God as one’s dear friend, while that of Vatsalya
+is to regard Him as one’s child. The Madhura or conjugal
+attitude, already described, is the combination of the intimacy
+and the intensity of all these forms of relationship and marks
+the acme of personal love. The life of Krishna and his
+relationship with the various devotees associated with Him
+illustrate all these aspects of personal love. But Madhura
+Bhava (amorous love) as expressed in the illicit relationship
+of the Gopikas with Krishna on the one hand,} and in the
+married love of His consorts like Rukmini on the other, is
+elaborated in the Bhagavata and the Narayaneeyam with
+special emphasis on account of its uniqueness and its compre-
+hensiveness as an expression of the Priti form of Bhakti.
+
+In all these forms of Priti, it is not that there is no compre-
+hension of the Bhagavan’s majesty as in Santa Bhava, but
+it is outweighed, and any sense of distance separating Him
+from the devotee is overcome, by the vivid feeling that He is
+“one’s own”, one’s nearest and dearest. The awareness of
+Divine majesty does not in the least inhibit the expression of
+intimacy between the Lord and the devotee in this form of
+loving relationship. The Lord permits the devotec to appear
+
+1 The relationship of illicit love is introduced overlooking all ethical norms
+because it embodies the strongest form of affection, in which all consideration of
+prestige, returns, security and even self-prescrvation are given up by a woman
+who goes away with her lover out of genuine and overpowering love. Love of
+God and surrender to Him should attain to this kind of uninhibited intensity
+and renunciation of sclf-centredness, giving away everything to Him and asking
+for nothing from Him. The love of the wife falls short of this perfection, as her
+status is protected by law and social conventions and she has assvra
+and security. So the Gopikas of Vrindavana, who were in illicit love with Kruhoa,
+are held forth as the highest embodiment of spiritual love, the consorts of Krishna
+coming only next to them. In reading about these human expressions of love,
+it should always be remembered that the Bhagavata is not at all narvating an
+absorbing love story. For the Bhagavata has stated in its very second verse that
+what it discusses is the Dharma of the all-renoumeing Parsee Care that
+abandoned the life of falsity and all the animal passions of the heart. Vicwed
+in this context the spiritual import of these narratives wil] Become evident.
+
+nces of support
+
+## Page 41
+
+INTRODUCTION xxxvii
+greater, and he looks smaller, subjecting Himself to the
+devotee’s attitude. So the Lord says in the Bhagavata: “I
+am subordinate to my devotees, and am therefore in a sense
+without freedom. Being extremely fond of my devotees of
+exalted mind, my heart is under their control.” (Bh. 9.4.63)
+It is because of the transcendent excellence of this kind of
+devotion that Suka says in the Bhagavata that the Lord gives
+Mukti liberally, but Bhakti very seldom (Bh. 5.6. 18).
+
+_ The following few verses from the Bhagavata on the
+uniqueness and spiritual authenticity and adequacy of these
+forms of personal relationship will be found revealing. “‘ By
+Bhava (feeling) alone the Gopikas and even unintelligent
+creatures like cows, deer, elephant, serpent etc., attained to
+spiritual consummation in Me. They never learnt the Vedas,
+they never served any teacher, they practised no austerity,
+but by mere association with Me, they attained to Me”
+(Bh. 11.12.7-8). “ Lust, anger, fear, affection, friendship,
+sense of oneness, whichever sentiment man entertains towards
+Hari, he will attain to Him through that”? (Bh. 10.29. 15).
+“Even as by Bhakti (pure devotion to God), so also through
+lust, animosity, fear. personal attachment etc.. many have
+attained to Him, having overcome the evil effect of these
+dark passions on account of their minds being concentrated
+on the Lord. The Gopikas through Kama (lust), Kamsa
+through fear, Sisupala through enmity, the Vrishnis through
+clannishness, the Pandavas through friendly affection and
+sages through devotion (Bhakti)—attained to Him (dH Holl
+30). “Through the constant focusing of their thought on
+Thee, Thy antagonists attained to the same spiritual goal
+as the sages who were adepts in the control of the vital forces,
+mind, senses etc. and in meditation on Thee. To Thee, we
+(the repositories of Vedic wisdom), and the women of Vrinda-
+
+-vana who longed for the embrace of Thy charming arms,
+care of equal worth” (10.87.22). “Hundreds of women
+
+‘attained to Me, the Supreme Brahman, though not knowing
+My real nature, through their love of Me as a paramour in
+whom they took delight’” (11.12.13). “By the strength of
+their attachment to Me, they (the Gopikas) became oblivious
+‘of their individuality and the whole objective world, and like the
+mind of the contemplative in Samadhi and the river merged
+in the ocean, overcame all distinction created by name and
+form” (Bh. 11.12.12). The idea is again expressed in a
+clinching fashion in the words of Uddhava, the great statesman-
+
+## Page 42
+
+XXXVill NARAYANEEYAM
+
+devotee of Krishna. Referring to the love of the Gopikas,
+he exclaims, “ How low are these women, belonging, as they
+do, to a forest tribe given to adulterous sex relationships!
+But how deep-rooted is their devotion to Krishna, the Supreme
+Being! As a potent medicine swallowed (with or without
+knowledge of its efficacy) invariably cures a patient, so the
+Lord brings about the spiritual regeneration of a person
+whose mind settles on Him, however unwittingly (Bh. 10.
+47.59).
+
+The descriptions of the relationship between Krishna
+and His devotees, because of its personal nature, will resemble
+very much the portrayal of human love, the most noteworthy
+feature being the highly erotic poetry employed. But it has
+always to be remembered that their import is purely spiritual
+in so faras: (1) The object of affection here is the Supreme
+Being Himself, and hence what looks like worldly love is only
+God-love in reality. (2) Such affection gradually eradicates
+all evil and sublimates all lower instincts. And with this
+attainment the devotee rises to a level of experience in which
+the awareness of Divine majesty is felt vividly without being
+an inhibitive influence on the intimate and loving persoral
+relationship. As it is put in the Bhagavata: “ Just as fire
+removes the stain found in gold owing to contact with other
+metals, so Vishnu by His presence, removes all evil tendencies
+in the hearts of persons devoted to Him” (12.3.47). Hence
+jt is maintained in the Bhagavata that the reverential study
+of the description of the amorous dalliances of Krishna with
+the Gopikas will cure one of Kama (sexuality), the universal
+heart disease of man. (3) This form of Bhakti is to be sharply
+distinguished from worldly love in so far as it is free from any
+touch of self-seeking. To gain or achieve something for one’s
+own advantage is always the motive force behind worldly
+love. It is also dominated by possessiveness and jealousy,
+and it runs the risk of total cessation when the expected advan-
+tages are not realised. Priti-bhakti, in spite of its formal
+resemblance to worldly love, is just the reverse of it in these
+respects. There is in it no expectation of any return, no
+adverse reaction, and no possibility of abatement under any
+circumstance. It takes the form of service of the Divine
+Person with one’s entire being, which is in itself the highest
+delight eyen when experiences ordinarily considered painful
+are involved in it. Such joy of service is called Bhajanananda,
+
+and the Bhagavata states in innumerable yplaces that the :
+
+|
+|
+
+## Page 43
+
+INTRODUCTION
+
+devotees who are established in it reject even Brahmanand
+or the bliss of Mukti as of lesser value. Says the Bhagavata:
+
+The bliss that can be had by contemplating on Thee ard
+hearing the recital of Thy glories by Thy devotees cannot he
+had even by dwelling in the impersonal infinite Being
+(Brahman), who is the Self of all, not to speak then of heavenly
+uoy wl ich are threatened by the sword of Time” (4.9.10).
+Bhakti thus becomes an end in itself, besides being the means
+also. Hence, it is said that the Bhagavata has added Bhakti
+as the fifth Purushartha (value of life), to the four usually
+accepted values of Dharma (morality), Artha (wealth),
+Kama (pleasure) and Moksha (liberation).
+
+Till now the discussion has been about Bhakti in its
+highest form—as Sadhya (accomplished) or as Nirguna
+(transcending the Gunas of Prakriti). But what is important
+from the practical point of view is the disciplines that lead
+to it. These come under Sraddha, the first stage of Bhakti
+referred to earlier. This is also known by the name of
+Sadhana-bhakti (disciplinary devotion). It has heen pointed
+out that the distinctive characteristic of this stage is that,
+while in the higher stages of Rati and Bhakti, devotion has
+become an automatic and in-built sentiment requ ring no
+external stimulation, in this earlier stage it has to be roused
+up and sustained by deliberately cultivated disciplines or
+Sadhanas. Hence their supreme importance for the man
+trying to build up the spiritual life. These disciplines of
+Bhakti, as stated in the Bhagavala, are also collectively called
+Bhagavata Dharma. They have been stated in the Bhagavata
+as follows: “For aspirants who are not learned in the
+Vedas and other scriptures, the Lord has given the Bhagavata
+Dharma as an easy way of attaining to Him. A person
+following this path never sustains any spiritual fall. Even
+if he runs with eyes closed, he will not slip and topple down.
+Whatever a devotee does with body, mind, senses, intellect
+and spirit—not only scripture-ordained duties but all duties. |
+natural to him—let him consecrate all to Narayana by making
+them an offering unto Him” (11.2.34-36). And further, speak-
+ing more specifically about the disciplines, it is said (in Bh,
+7,5.93-24) “Sravanam (hearing narratives of the glorious deeds
+and excellences of Vishnu), Kirtanam (chanting His name
+and reciting hymns in His praise), Smaranam (remembering
+Him continuously), Padasevanam (serving Him), Archanam
+(worshipping Him), Vandanam (paying obeisance to Him)
+
+## Page 44
+
+xl NARAYANEEYAM
+
+Dasyam (practising the role of a servant of His), Sakhyam
+(looking upon Himas anintimate friend) and Atmanivedanam
+(surrendering onself totally to Him)—these are the nine forms
+of devotional discipline which man has to practise in a spirit
+of dedication to Vishnu.” The practice of these nine specific
+devotional disciplines has to he preceded and accompanied
+by the discharge of one’s duties in dedication to the Lord.
+Only then can the mind be comparatively freed from its
+demoniacal tendencies (Asuri Sampat), standing as the most
+formidable obstruction on the spiritual path. Practice of
+ethical excellences has to precede and accompany spiritual
+practice. So also faith (Sraddha) must be intense and deep-
+rooted; it must manifest as a longing for God. Without
+these pre-requisites man will make only a show of the specific
+disciplines mentioned. Their practice will not be effective.
+It is only in holy company that faith and longing for God
+germinate and take root in the mind of man, and so the first
+of these disciplines Sravanam (hearing) refers primarily to
+the listening to the words of holy men on God and His excel-
+lences and on spiritual life in general. Secondarily, it means
+also listening to the Bhagavata and such other Bhakti scriptures
+as also reverential study of them. Kirtanam is collective
+singing of God’s glories and excellences, where too the pious
+company is the most decisive factor. Smaranam is remem-
+brance. For the successful practice of this, an aspirant should
+take initiation from a Guru-and repeat the Mantra given to
+him with concentration and faith, and also practise meditation
+on the Deity. It is only when one’s sub-conscious mind is
+powerfully influenced by such practice, that one can remember
+the Lord even when there are not the external stimulations
+in the shape of ‘hearing’ and ‘hymning.’ Continuous
+repetition of the Divine name even when engaged in external
+work helps Smarana. In fact success in Smarana is the
+indication that devotion is progressing from Sraddha towards
+Rati (the state of loving attachment). Continuous remem-
+brance is possible only when one feels joy in such remem-
+brance. Padaseva is the service of all beings with the
+vision that this whole universe is His manifestation. It is
+stated in the Vedanta texts that of His four Padas (aspects),
+one Pada is manifested as this world of Becoming (the universe)
+while the other three are transcendental. So, the service
+of the manifested Pada of the Lord is Padaseva. It can also
+mean the service of holy men, in whom the Lord dwells in a
+
+|
+|
+|
+|
+|
+|
+|
+
+## Page 45
+
+INTRODUCTION xii
+special sense. Archana is service of Him in images. It
+includes all forms of devotional rituals, worship, festivals,
+pilgrimages etc., undertaken with faith and solemnity born
+out of a sense of the real presence of the Lord. Vandanam
+is not merely making prostrations before the images of the
+Deity and before holy men, but behaving respectfully towards
+all beings with the fecling that God resides in every one of
+them. It expresses itself in true humility, service of all, and
+absence of vanity and egotism.
+
+The next three, Dasya, Sakhya, and Atmanivedana are
+the mental attitudes which have been described earlier as
+Bhavas in the discussion on Priti-bhakti. They can be
+successfully practised only at the advanced stage when God-
+love has taken an intense personal form. But as the principle
+in all Sadhanas is to make the end itself the means, one may
+adopt an appropriate attitude, preferably that of Dasya,
+towards the Lord, even when one is at the stage of preparatory
+disciplines. It will help in re-educating and recasting our
+worldly ego-sense. Our ordinary sense of identity with our
+worldly situation, namely, our estimation of ourselves as men
+of such and such nationality, related to such and such persons
+jn such and such ways, occupying such and sucltpon are in
+life etc., should be replaced by a sense of our bel longing
+to the Lord as His servant or child. When one’s esoscense
+is transformed in this way, devotion becomes an in-buil eS
+sentiment. Sakhya or friendly attitude mae the sha8e °
+growing intimacy jn which inhibitions anne rom t ae seuss
+of God’s being the creator and the seat of in nite power, are
+
+ver by that sense of intimacy which enables one to
+Stl i y of the devotional attitudes (Bhavas)
+Becomietestablslied i d lier. All these disciplines
+upto Madhura mentioned carler. 4 : e Ph
+plete surrender of one’s possessions, actions,
+finally la See seers untoHim. That is Atmanivedana
+pa eee cilcai os which the most noted exemplars are the
+copie gf Needy are practice of this nine-limbed
+
+Sere ee radually takes the form of Rati or inward
+cisanane, cee Serie state, even without any external
+attachment ba ae begins to dwell on Him with delight and
+Serato ri ite of distractions arising from sufferings
+sacri WET Ee lest maturity, Rati becomes Bhakti
+and worries. | My e i cafetelh aed to Sayujya or liberation
+cither of the Santa nee or of the Priti type, which ends in.
+of mergence in the Deity, =
+
+## Page 46
+
+li NARAYANEEYAM
+
+eternal adoration and loving service of the Divine Person.
+Bhakti, it is held by the Bhagavata, brings along with its
+efflorescence all the three spiritual excellences, namely,
+spontancous love of God, renunciation (Virakti) and knowl-
+edge of the unity of existence (Jnana) in the heart of the
+devotee, just as a morsel of food simultaneously gives delight,
+appeasement of hunger and physical strength (Bh. 11.2.42).
+Thus Bhakti is a super-value, which is attended by all other
+spiritual values.
+One in whom Bhakti has become a perfected experience
+is called a Bhagavatottama. The stages of evolution of the
+devotional experience ending in that of the Bhagavatottama
+are thus described in the Bhagavata: ‘‘ The perfect Bhaga-
+vata or devotee of the Lord (Bhagavatottama) is one who
+sees the glory of the Bhagavan, the inmost Self, reflected in all
+beings and all beings as dwelling in Him, their inmost Self.
+A mediocre Bhagavata is one who entertains an attitude of
+adoring love towards God, of friendliness to His devotees, of
+kindliness and sympathy to common people, and of indiffer-
+ence to one’s enemies and bad people. And he is the inferior
+type of Bhagavata who performs worship of God in images
+with faith and devotion, but is totally indifferent to devotees
+of God and other beings (on account of his incapacity to see
+the Divinity dwelling in all beings). (Bh. 11, 2, 45-47).
+Again speaking of the very wide range and varying stages
+of devotional experience, the Bhagavata states: “ The
+practice of Bhakti takes many forms, because of the differences
+in people’s thought and attitude, arising from their mental
+constitution, the nature of the dominant Guna of Prakriti in
+them, and the tradition to which they belong. The man
+dominated by Tamas conceives Me, at the prompting of his
+own cruel and excitable nature, as a being entirely separate
+from himself (i.e. as a tribal Deity or a polytheistic God), to
+be propitiated from motives of vengeance, pride, envy, and
+such other low propensities. The man of Rajasic nature
+worships Me as an extrancous being in the images and the
+like for the fulfilment of worldly desires like those for wealth,
+fame, and the rest. The man of Sattvika nature is one
+who, though still maintaining the attitude of separation from
+Me, worships Me for liberation from the bondage of Karma
+(ie. Moksha) by performing all his duties as an offering
+unto Me, as laid down in the scriptures.
+
+## Page 47
+
+INTRODUCTION xiii
+
+“Tn contrast to all the above (all of which are based on
+Gunas of Prakriti), the highest form of Bhakti, which transcends
+the three Gunasof Prakriti (Nirguna-Bhakti) hasno extraneous
+motives, and is based on the inseparable intimacy of the Jiva
+with the Lord. Its characteristic consists in the continuous
+and unobstructed flow of the mind, like the waters of the
+Ganges, towards Me residing in the hearts of all, by the mere
+remembrance of My excellences. Such devotees do not
+accept, even when offered, any of the four forms of liberation
+(Moksha)—Salokya (living in My sphere), Samipya (living
+close to Me) Sarupya (having a form similar to Mine) and
+Sayujya (being one with Me). The only thing they want is
+opportunity to do loving service to Me (without expectation
+of any reward from it). Such is the greatness and glory of
+this supreme expression of Bhakti. By means of it the Jiva
+overcomes the hold of the three Gunas of Prakriti and becomes
+fit for the Divine State”? (Bh. 3.29, 7-14).
+
+Continuing the topic, the Bhagavata describes the means
+by which this state of mind is attained.“ The mind attains
+to such a state by adopting the following disciplines: The
+duties of life have to be performed with detachment and as
+an offering to the Divine. Ritualistic worship promoting
+devotion and not inflicting pain on creatures, has to be obser-
+ved. My imagesinstalled in holy places should be worshipped,
+seen, touched, and glorified by hymns and praises capable
+of stimulating devotion. My presence in all beings should
+be recognised. The mind should be disciplined to have no
+attachment to worldly objects... oll abide in all beings as
+their innermost soul. Without recognizing this, mere worship
+of Me in images is only a semblance of worship. If one dis-
+regards Me present in all as their soul and lord, and offers
+worship to images, such worship is as inefiective as sacrificial
+
+oh yadein ashes. A man should, however, worship Me
+offering Belong with the discharge of his duties towards others
+ay aS pearly realises My presence in himself and in all
+unt) ne “Holy men should be honoured, men in distress
+a be shown sympathy and help, and equals should be
+d with friendship and courtesy. Control of the senses
+nike, ind should be practised. Scriptures skould be
+pnd ue ai devotional hymns and praises sung. Holy
+ee should be sought. Siaieh omeranes and an
+istic frame of mind should be cultivated. A man
+ac we h the attainment of God-love as the sole object
+a oe urd follows the disciplines mentioned above, will
+
+## Page 48
+
+NARAYANEEYAM
+
+lute purity of mind, as a result of which he will
+
+at capacity to constantly remember Me with delight
+
+sorbed in Me. As the fragrance mingled with the
+
+1utomatically reaches the organ of smell, the mind freed
+
+_ worldliness by the disciplines of devotion, learns to
+
+ortlessly to the Supreme Being” (Bh. 3.29, 15-27
+‘idged).
+
+TRANSLATOR
+
+## Page 49
+
+NARAYANEEYAM
+
+CANTO 1
+THE GLORY OF THE LORD
+
+Tae aad sTeeaafeeat
+
+fried frogad frarcager fraterared |
+aE VENA TRS TTT TAATT
+
+TMAH AAR. ST APA TATA Ut 1 Ut
+
+1. In the temple of Guruvayoor there shines, in truth
+and in reality, what appears at first to be a mere image but
+on contemplation reveals itself to be the condensed essence
+of Consciousness-Bliss—the veritable Brahman Supreme—
+who is the ultimate end of all human endeavours, to whom
+there is none comparable, who is ever beyond the limitations
+of time and space, who is eternally free, and whose nature
+the numerous texts of the Vedas seek to reveal. Fortunate,
+indeed, is mankind (that such a manifestation of Divinity
+exists in its midst as the image of Sri Krishna) !*
+
+ud qoraeqaiy Gert eee Faaq
+qear arat faa at wsifa aa Wa: aada EeaA
+fearon TeTaAT TATA: U1 2 1
+
+2, But alas! What a pity that in spite ofthe easy
+availability of this rarest of blessings, men, prompted by
+their base nature, overlook it and pursue worldly objects with
+all the powers of their body, mind or intellect! But we,
+devotees, however, shall, with unswerving devotion, serve the
+Lord of Guruvayoor, Sri Krishna, the soul of all beings, for
+the total eradication of all our woes (physical and spiritual) .
+
+aa mag corenafeadt frie Gt aa
+aiataaes satel age: ae ATTATETT |
+
+## Page 50
+
+2 NARAYANEEYAM: CANTO |
+
+a erotica rege faariitatret
+afead at taRT aiorfrrat que fag TN 3
+
+3. Sage Vyasa has repeatedly stated that Thy form is
+constituted of Suddha-sattva (pure Sattva) without any
+admixture of Rajas and Tamas. Because of this absolute
+purity, Thy form gives an unobstracted revelation of its
+underlying essence of Consciousness-Bliss, and therefore
+enlightened men delight to contemplate on this, Thy Divine
+formful manifestation, which is easy to grasp and which is all
+sweetness to those who think or hear about it.?
+
+frat fragt freaf-renratigret
+fideo fraeaaterat |
+arporded Ay faredt AaATg-AIaIAT
+wea fromoeed aHe aft Tae FAT M4
+
+4, © Infinite Being! Thy Suddha-sattva form is like
+the wavy surface of the pure Ocean of Brahman, who is
+unperturbed, ever-full, constituted of inexhaustible Bliss and
+supremely attractive as the repository of countless pearls of
+liberated ones absorbed in it. Embracing, as Thy Form does,
+the whole of that Ocean, why should not Thou be termed
+Nishkala (Indivisible Whole i.e. Complete Incarnation) while
+all other manifestations are but Kalas (partial revelations) of
+that Ocean.®
+
+facatoristt freer, ye afcrar-aterment
+aaaeta stat Tete-cafaaersht jeassheaTe |
+a a de aarfe wafenfararays aa ST 15 1
+5. QOBirthless One! Though by nature beyond activity,
+Thou, at the beginning of a new cycle of creation, dost activate
+spontaneously by a glance, Thy Prakriti (Power) which abides
+in Thee latent without in any way affecting Thee, as if it
+
+‘were a non-existent entity. O Lord of Vaikuntha, assuming
+the pure Sattva aspect of Thy Prakriti (Power), which, because
+
+## Page 51
+
+THE GLORY OF THE LORD 3
+
+ofits purity, does not in the least hide Thy glories and majesties,
+Thou hast manifested Thyself as this Divine Form.
+
+at TaTaaTafeanera-aata font
+waa Gaara Wigraraaey |
+
+wet rasa Sar - Pea a eaea a eA:
+fasacifaasiat aGIGTeT ARITA 1 6 1
+
+6. O Lord of Guruvayoor, I meditate continuously on
+Thy Form, which surpasses fresh rain clouds and blue lotuses
+in its dark splendour, which embodies in itself the essence of
+all that is beautiful, which is, as it were, a holy Descent mani-
+fested before the eyes of all virtuous men as the reward for
+their good deeds, which is the playground of all the unrestricted
+graces, charms and majesty of goddess Lakshmi, and which
+generates an abundance of intense Bliss in the hearts of people
+meditating on it.
+
+aoer § gfeetser agaeuaearae ATT
+fad qareifac-atia wat danerfaony |
+at Assia. wet ar neeefae aay Bama
+a: sta Creat cereegarnfag? Wer 7 1
+7. O Supreme Being! Once YT thought that Thy
+creative activity is a tragic sport, as it inflicts various forms of
+suffering on embodied beings (Jivas) involved in the cycle of
+births and deaths (Samsara), but now Ido not think so. For,
+if there were no creation and therefore no embodied beings
+(Jivas), who would have been there to revel in the ocean of
+
+unparalleled joy derived from the experience of seeing this
+Form of Thine replete with Consciousness and of hearing
+
+descriptions of Thy glory?
+aunt afard aaa Gece
+cata arararet facia Teas aat aa 71
+aa freaooent freafranes: oie gt
+a ¢ mae gaAtol TA-APAAISTT M8 1
+
+## Page 52
+
+4 NARAYANEEYAM: CANTO |
+
+8. Manifesting ever before Thy devotees, Thou grantest,
+unsought, all the fulfilments of human life besides the bliss of
+final liberation. O Lord! when such a unique Parijata Tree
+as bounteous and accessible as ‘Thou art, is available for them,
+alas, the vast body of desire-prompted men long for the trivial
+blessings of the Kalpaka-Vriksha (Wish-Yielding Tree) of
+Indra’s heaven (which can yield only sense enjoyments, and
+that only if votaries specifically pray for them to the accompani-
+ment of elaborate rituals).
+
+HVAT BAAS salt GY Ie earcraecd fazrar-
+wantdast safe Ta cara |
+weegreata sfrserat Aaa: eHlaanar-
+Sea FATT WAG STT TAT AT TART 9
+
+9, OlLord! Thou art indeed unique and incomparable
+in Thy greatness. Other deities grant the desires of their
+votaries when they are pleased with them. But Thou art
+unique in granting Thyself (i.e. identity with Thyself) to Thy
+devotees. Other deities rule over the world (as being external
+to it) by virtue of the power they are invested with; but Thy
+miastery over all rests on Thy being the inner controller of
+the essence of all beings (including these deities). All
+fortunate Jivas seek delight in the inexhaustible mine of joy
+that Thou art, But as for Thyself, Thou art ever self-satisfied
+(having none besides Thee as equal or greater).
+
+tat asaudivactataat feradsieatt
+ada Fg farwaft sat fregéarites |
+aes war attfacfaaie + rari & qevatat
+TEMA BLE Wrarweq-qeaTAsg 1 10 |
+
+10. Lord, Thou who art the resident of the temple of
+Guruvayoor and the destroyer of Mura! Thy Aiswarya
+(Lordliness) consists in being the controller of all gods beginning
+from Sankara; Thy Virya (Prowess), in possessing the potency
+to contain all forces that are destructive of the good of the
+worlds; Thy Yasas (Fame), in providing material pure and
+holy enough even for all-renouncing sages to sing about; Thy
+
+ie.
+
+## Page 53
+
+THE FORMFUL ASPECT OF THE LORD »
+
+Sri (Beauty-cum-auspici i i
+
+luspiciousness), in becoming the very abode
+ohne soudess Sri; Thy Jnana (wisdom), in being the all-
+an ine and Thy Vairagya (renunciation), in being non-
+at ached (in respect of all Thy creative activity). The term
+Bhagayet (which means one possessing the above-mentioned
+
+ae ee See ie os :
+
+a aoe ivine majesties) is therefore primarily applicable
+
+CANTO 2
+THE FORMFUL ASPECT OF THE LORD
+
+qaeatahate-qea tres ata oTeTTS
+FAG OAAAaeaacaet FMAMGET |
+TOS AAR UAVS HTT IASG
+wage arene aera AT MN 1M
+1. I adore the Form of the Lord with head crowned
+with a diadem that rivals the sun in its brilliance; with fore-
+head whose beauty is enhanced by the upright sandal paste
+mark; with eyes brimming with mercy; with face lit up by
+a benevolent smile; with nose well-proportioned and attrac-
+tive; with ears adorned with fish-marked pendants that add
+lustre to the cheeks by their reflection; with neck wearing the
+Juminous jewel Kausthubha; and with chest resplendent with
+a variety of decorations like the floral wreath, lines of pearl
+necklaces and the auspicious mark called Srivatsa.
+
+Here EAHA ETT ATL
+it ATG ATH ALTA AA ALA TEI U
+ae farerguegfarat aie aalfafesey 1 2 1
+
+9, I take refuge in Thy ineffable Form glowing, as it
+does, with ornaments like Keyura (epaulets), Angada and
+Kankana (bracelets) and finger-rings of precious jewels; with
+four sacred arms holding in them the mace, the conch, the
+discus and the lotus; with waist wrapped in yellow silk fastened
+
+4,
+
+## Page 54
+
+6 NARAYANEEYAM: CANTO 2
+
+by a golden waist band; and with feet that resemble exquisite
+lotuses and remove the woes of devotees.
+
+qamiaaagete ated ated CICRIC
+
+aired aiietireararatsht mt Agdeatafe |
+areata Seat wera
+
+Sarat Wat 7 Fer saa gomfa fact frat 3
+
+3. O All-pervading Being! Who is there in all the
+universe that will not be entranced by this Thy surprisingly
+wonderful Form, which is superior in excellences to all objects
+considered great in the three worlds; which is more charming
+than the most charming of entities; whose splendour outshines
+every form of brilliance; and whose sweetness and beauty
+
+would put to shame all other objects that are noted for such
+qualities.
+
+TMS Ta agRiarer doer
+a eat conta facet aed eradicate |
+TTT aa HeereaG fat agers
+SARAAHAT- SATIS -AOT- SATA ATA tN 4 1
+4. Lakshmi, (Thy Consort), well-known as the embodi-
+ment of all prosperity and auspiciousness, having obtained a
+place in Thy being, has become engrossed with the sweetness
+residing in it, and has consequently no inclination to remain
+with her own votaries. Alas! O unchanging One! It is
+indeed a pity that this firmness of her attachment to the beauty
+
+that suffuses Thy form (for which reason she abandons her
+devotees) has won for her the stigma of being a ‘ fickle goddess.”
+
+wees MaMa edad Ioafest
+wferasett cH agar sexta 1
+
+a aera ggattsateen fe AT SAT
+eaeagt aafa feata sfaareca-caret tt 5 1
+
+5. O Lord! I shall state another reason to show that
+Goddess Lakshmi is unsteady in abiding with others (including
+
+te So os.
+
+## Page 55
+
+THE FORMFUL ASPECT OF THE LORD 7
+
+her own devotees) only because of her enslavement to Thy
+beauty. For wherever there are Thy devotees immersed in
+the joy of meditating on Thee and of singing Thy excellences,
+she is certainly seen to stay with them always, listening attenti-
+vely to the accounts of her dear Lord sung about or narrated
+by them.4
+
+Ua arate gar -freaeaerealed
+
+aed Paar Adee aaa |
+
+aa: sad aft werd Carreras
+
+arfaerate aaasafaataaqesten: 11 6 1
+
+6. This Form of Thine, which consists of pure Bliss-
+
+Consciousness and which showersthe sweet nectar of fascinating
+beauty everywhere, captivates the minds of all who devotedly
+hear the recital of accounts of Thy deeds and excellences,
+inebriates them with Bliss, excites horripilation all over their
+limbs, and bathes their bodies with the cool streams of tears
+welling up from ecstasy of joy.
+
+uaqacar fe aaafafedt at: @ atta
+
+SAAT AAT ATTA |
+
+airada eres ate ag Taraiferar
+
+ufefasrta fraged-oeat CAacew I 7 1
+
+7. It is for these reasons, O Consort of Lakshmi, that
+the path of Bhakti (devotion) has been extolled by great sages
+as superior to the other two paths of Karma and Jnana. For
+
+Bhakti, which consists in the feeling of unbounded love for the
+Pure Beauty that Thou art, is natural to man and is therefore
+
+attainable effortlessly by all.
+fran fraaereriaet aq Beat
+Taga qafareainteet FA: |
+
+aaareaafaed ade eqraat Aaa 118 i
+
+## Page 56
+
+8 NARAYANEEYAM: CANTO 2
+
+8. The path of Karma, which consists in performing the
+scripture-ordained duties unmotivated by any selfish desires,
+can become fruitful only at a very distant date. The path
+of Jnana, according to which an aspirant has to seek the
+knowledge of Brahman taught in the Upanishads, is very
+difficult for the mind to pursue because of the abstract and
+subtle nature of the Truth taught. Therefore, O Universal
+Being, Bhakti which consists of love for Thee, is always the
+sweetest and the noblest of the paths.
+
+ae wiewsqa-gtaca-aia fe aaa |
+froveqt gaa It Ta ayaeerat GA
+fariage fafara agfe: frei araraé 19 1
+
+9. By the performance of the very difficult disciplines
+of Karma, some attain to the purity of mind required for
+following the path of Jnana or Bhakti. Why then follow such
+a laborious and indirect path as that of Karma at all (when
+one can as well start with Bhakti directly)? (But as far as
+the path of Jnana is concerned, this direct approach is not
+possible); for those who attempt to do so and strive hard to
+attain to Thy Impersonal aspect known as Brahman, depend-
+ing solely on logical reasoning, take limitless time to reach
+perfection (2.¢. do not reach it at all), as they lack that mental
+refinement and purity (born of the discipline of Karma)
+
+aang Taga feisty cad
+fread faresata-cadiaaeaa-eaeact |
+wa: fafentt saat frat dang ® cage
+SHMis Lesa FITL ATTA N10 11
+
+10. Devotion to Thee, on the othe;
+among the spiritual paths in that it best
+enment directly, without any of the aforesaid difficulties,
+by submerging one in the flood of delight generated by hearing
+and remembering Thy deeds and excellences, O Lord of
+Gurayayoor! | May I soon attain that tenderness of heart
+produced by intense love for Thy feet!
+
+r hand, stands unique
+‘Ows purity and enlight-
+
+## Page 57
+
+CANTO 3
+THE SUPPLIANT DEVOTEE
+
+geal ata sreweteeet fraferen:
+
+AGH STF ae HaMAT THAT: |
+
+aedl 3 ware ag Ted TUTE
+
+ae ara Fea aafera-aatfrefearsy Ut 1M
+
+1. © Bestower of Boons! I consider them as really
+blessed who repeat Thy Names until they are submerged in
+the ocean of bliss, whose minds unceasingly meditate on Thy
+Form, whose speech is ever occupied with the narration of
+Thy deeds and excellences, and who, though always moving
+
+about without any fixed habitation, feel all their wants ful-
+filled by being immersed in the joy that Thou art.
+
+qafrosd aed Ta ACTA
+
+saaraad fad waft aa facot ge <aTy |
+
+acareats-eraa Tafae-
+
+aé ard art agaa faaceafe fast 0 2 1
+
+2. © All-pervading Being! Bestow Thy grace on me
+who find that my mind, owing to the affliction of disease, feels
+no taste even for the intense joy of Thy service. If Thou art
+‘gracious to me ( and removest the distractions of this painful
+disease), I shall seek oblivion in some uninhabitated corner
+
+of the country and spend my time ever immersed in the joy
+of contemplating on Thee and of repeating Thy countless
+
+names and attributes.
+aa a sat aq faint 4 fe vet aqat
+
+eae srarnacet a feat |
+ah x caoferateraty aTerhrcted
+
+rage Het: FATT AAT fazad 3 ul
+
+## Page 58
+
+10 NARAYANEEYAM: CANTO 3
+
+3. If Thou art propitious, what is it that man cannot
+attain to! How trifling it is for Thy grace to eradicate all my
+ailments! Numerous are Thy devotees who have approached
+Thee without any desires and have been blessed with freedom
+
+from their worldly woes, as also with the blissful state of libe-
+ration.
+
+grister war aft ay yer
+HATTA TART ALTAR: |
+aeeite eat aaathefraia-aefaq-
+MAMTaT ATCT: PATEL 4 I
+4. Great sages like Narada, having overcome all their
+early handicaps through contemplation on Thee and becoming:
+established in the Truth of the subtle Atman, are moving
+about everywhere in complete freedom, ever immersed in the
+
+unabating and indivisible flow of Bliss-Consciousness that the
+Non-dual Brahman is. What other state is there superior to
+
+this!
+waquics: Sha wag aa da saat
+aaraeaet FT ag gfe aaa
+qa AMeneeta + aad drat
+wafrear Taper aaa 11 5 1
+
+5. May my devotion to Thee become perfect! I have
+not got the slightest doubt that it will remove all my sufferings.
+For, if it does not, the utterances of Vyasa, of Thyself and
+of the Vedas too will, indeed, be no better than the casual
+words of street urchins!
+
+ferret Fafaoaheara-serat |
+Grad tard faro-cfeatsterhire
+erected feat fra: TTATATTT 11 6 1
+
+6. Devotion ito Thee is suffused with sweetness even at
+the beginning of its practice owing to the influence of Thy
+
+## Page 59
+
+THE SUPPLIANT DEVOTEE Ws
+
+sweet attributes on it. With its progress, it removes all one’s
+woes; and in its maturity, it awakens one from the sleep of
+ignorance and bestows the supreme Bliss of Non-dual Cons-
+sciousness. What else is there to seek for!
+
+fags Fea Be Ig A
+aaa Huts as geraferat |
+
+WaeHaAs TATA J TWagGea-
+great aot sraqoafa & aTeafet 7 UN
+
+7. O Lord! Remove my affliction so that my feet may
+find delight in going on pilgrimage to Thy temples, my hands
+in worshipping Thee, my eyes in viewing Thy image, my
+organ of smell in breathing the fragrance of the Tulasi leaves
+offered at Thy feet, and my ears in hearing narrations of Thy
+charming deeds and excellences!
+
+symfaenfrrenaiod arate
+
+wad aed rege faqetsferd |
+
+Beare afacagestafraet
+
+gar faerate germiisraterary Ml 8 Ul
+
+8. In my mind that is extremely agitated by worries
+and disease, may the vision of Thy entrancing Form of pure
+Bliss-Consciousness arise, so that, with thrills all over my body
+and tears flowing in profusion owing to that marvellous
+experience, I may become completely oblivious to my endless
+woes.
+
+aagigda aft ag qaraistt gfaat
+wad aisé ae feat a fairey |
+mea ATCA THATS FATAL
+nagar afefa ge AT Haan 9 Ul
+
+r ; Jinds (Guruvayoor) !
+9. © Lord of the Abode of Win
+
+Even men who are indifferent to Thee are seen to lead a happy
+life. But I, a devotee of Thine, am undergoing various
+sufferings Why this anomaly, © Bestower of Boons! Won’t
+
+## Page 60
+
+12 NARAYANEEYAM: CANTO 4
+
+this tarnish Thy reputation? Therefore, O Slayer of Kamsa,
+eradicate my disease and enable me to be the best of Thy
+devotees!
+
+feganinfieds fe wer aragfeat-
+
+a@ Magea sfecfafaant-sofaa: |
+
+3X Feet We ate aa Aware feaary
+
+qarate aad afrafafrtar facaag tl 10
+
+10. O Bestower of Boons! Of what avail is mere talk?
+
+Until Thy grace descends on me, I shall, in place of bemoaning
+«my fate, spend my days before this image, Thy manifested
+Form, devoting my time to prostrating before Thee, singing
+
+‘Thy praise, and performing Thy service to the best of my
+ability.
+
+CANTO 4
+THE PROGRESS OF THE SPIRITUAL ASPIRANT
+
+HAM AT HOI Tad Held Wagaiad ar 1
+eqsensefqe-anTaaat PeMssY Ta TeSAIATy win
+
+1. May I be endowed with that much of health as is
+needed for Thy adoration. Soon shall I then win Thy grace
+by undergoing the well-known eight-limbed discipline of Yoga.
+
+Farad -eectlafaaa-ewatfataaster fsa: |
+Hus CHM! Yalad TSAI ar wary: 11 2 1
+2. After attaining to purit
+
+y of being th: 4
+vance of disciplines of self-c '§ through the obser
+
+ontrol like strj i
+(Brahmacharya) etc. as also rules of right eentict like dail
+yes (Sacha) etc., a shall practise the various comfortable
+ani : ics ly sitting postures like Padmasana for meditation on
+
+## Page 61
+
+THE PROGRESS OF THE SPIRITUAL ASPIRANT 13
+
+Ted aad smrarg-afaary fier: |
+Staaten fararearrg-cassea® WAANGAT: 8 Ul
+
+3. Constantly revolving in mind the sacred syllable
+Om, and regulating the operation of Prana through control
+of breath, I, having attained to purity of being through these
+disciplines, shall withdraw the senses from their objects as a
+preparatory discipline for the practice of meditation on Thee.
+
+aege agfe t sacaat area frst ageie:
+oa APRA -eer Wace AT: Ml 4 UN
+4, Engaged in Thy contemplation, I shall, with great
+effort, fix my mind on the hazily perceived Form of Thine,
+
+until the mind is filled with the sentiment of devotion and
+attains to utmost softness.
+
+farqerara-taget Bapefat anon |
+aan aafe faeqarae earatifren-eaarsat: 1 5
+5. Devoting myself to meditation, I, Thy devotee, shall,
+
+by long practice, be able to get an easy mental perception of
+Thy Form of beauty with all its parts vivid and clear.
+
+earrat THe Brae ATT eT |
+AAS RASTATAR FASTA STATA Ul 6 Ul
+
+6. Toone who meditates thus on Thy formful aspect and
+becomes captivated by the increasingly wie eet ae ae
+sweetness, there shines in due course Abs persone. tat ue
+Consciousness, vai of eae ead objects). 2
+(that is not base:
+
+aareaarefinit feafa caceaifrata faratas |
+Fee earrowies rere tal
+
+i i blished in
+f the Universe! Being estal
+Bis eae ite state of immediate experience of Thee,
+Tonal neneret my mind slips down from that experience,
+s )
+
+## Page 62
+
+14 NARAYANEEYAM: CANTO 4
+
+resort again to Dharana (the fixing of the mind) and other
+processes of concentration.
+
+AAA fA SA-TAT MATA HeTM AAT: |
+Gmamge- Aled Ta: Hal THAealfeag tl 8
+
+8. May I, being established through spiritual practice
+in the perpetual mart of Joy that Thy Brahmic Consciousness
+is, be granted the unique blessing of moving about, like Suka
+and Narada, as an enlightened and liberated devotee of
+Thine!®
+
+aerfatasat J a: Grisel Aterefra: AT aT |
+ATARI VST RATST YGHATAT TA: 9
+
+9. If, after mastering Samadhi, an aspirant, whether
+he wants immediate or gradual liberation, can in either case
+progress to his goal through several spiritual planes by slowly
+raising his vital energy, brought under control by Yogic
+practice, through the six centres along the Sushumna nerve
+channel.
+
+foeragatt dastaat Stadt caf 7% free: |
+Seale HIM F FIaeaaAAT HUifaag 11 10 Ul
+
+10. One who is desireless abandons his subtle body also
+at death and is dissolved into Thy Being. But one who
+entertains desires for the higher spiritual realms, passes out
+with his subtle body through the Brahma-randhra (orifice of
+Brahman) in the crown of the head.
+
+HAART ASAT RAA-GoT FT aaa: |
+sifact Ware Watt Heard Baveraaea Wh 11 Ul
+
+ll. A devotee of the latter type is led by the deities
+presiding over Fire, Daytime, Bright Fortnight and Northern
+Solar Migration to the plane of the Sun, and after he has
+enjoyed the facilities afforded in each realm, is next led to the
+sphere of Dhruva. :
+
+## Page 63
+
+THE PROGRESS OF THE SPIRITUAL ASPIRANT 15
+
+anfeadist aguwe gar Awaar-cedtorose a |
+Sat WagTTa-eAaI Fae: TeHa: Gea AT 1 12 1
+
+12. After having attained to Mahar-loka from the
+Dhruva-loka and stayed there for long, he (along with its
+other inhabitants) moves to the plane of Brahma (Brahma-loka)
+when he begins to feel the all-consuming heat coming out of
+the mouth of Sesha at the approach of cosmic dissolution
+(occurring at the close of Brahma’s day). Or he may reach
+there even earlier than the approach of cosmic dissolution.®
+
+TA AT Tea Taste aT THIET Of AHA |
+Sram ay Fast qead dfahra qrevsATAT Nl 13:11
+
+13. While residing in Brahma-loka or Vaikuntha (the
+heaven of Vishnu) he attains to liberation from embodied
+existence when all the manifested realms are dissolved at the
+close of Brahma’s day (Brahma-pralaya). Or he may, by
+exercise of his own will, pierce the cosmic sphere and attain
+liberation even earlier.
+
+Ter ot fafe-ret-arelshte-atsteere teeters: |
+aaareraaar fret set aft  TeMAad feat 14
+
+14. O All-pervading Lord! The seven coverings of the
+cosmic sphere—earth, water, fire, air, ether, cosmic intelli-
+gence and primordial nature — Thy devotee transcends by
+realising his identity with each of them until Thy State,
+unobstructed by any barrier, is open to him.
+
+aferarfenta- atest aang faegia twat TT |
+asa MATA FAST AOA The ATL I 15 1
+
+d of the Universe! For one who goes to higher
+ethers CEE of Light described above, there is no
+downfall. © Lord of Guruvayoor! O Embodiment of Pure
+Consciousness! Protect me, Thy devotee, who is loudly
+
+extolling Thy excellences.
+
+## Page 64
+
+CANTO 5
+COSMIC EVOLUTION
+
+arploumntae + fafaawad sTeaTed-rert
+Herat yraraeairsal ara Say
+
+al yepa aargd 4 aaryared a ura: feafa-
+eaqaneca-Ahregar: fe TASTHTTAAT U1
+
+1. Inthe beginning, when it was Brahma-pralaya, there
+was nothing in existence, cither gross or subtle. For Maya,
+Thy cosmic creative power, with its active phase neutralised
+by the relapse of the three Gunas into equipoise, had gone
+into the state of latency in Thee. Neither death nor death-
+lessness, neither day time nor night existed. Only Thou,
+the One without a second, remained as supreme Bliss-Con-
+sciousness.®
+
+ale: FH TOA Saftaer fat a ara ferwt
+faedtoretarate cafe car frstrarareg: |
+ai aa aarcracaaea Wi: Tact fesoat
+
+at Aa fa WATER Yat AAT AAA: 12 1
+
+2. Then, Time, Karma (effects of action of Jivas),
+Prakriti (Nature) and Jivas (souls)—in fact all entities of the
+nature of effects—had attained dissolution in Thee, whilst
+Thou didst sport in the Bliss of Pure Consciousness in Thy
+state of cosmic slumber. The above entities cannot be said
+to have been naught at that time; they had become only latent
+in Thy cosmic power. Otherwise, if they had perished and
+become non-entities like sky-flowers, how could their re-
+emergence (in the new creative cycle) be possible?
+
+ud 4 farodare-farardtat frgerirat
+
+frat cafe qay.faryadtrara ara ear |
+Wad: ag seas-aeess carats =
+sigta amg faarer faeqeren: aerafaera 1 3
+
+## Page 65
+
+COSMIG EVOLUTION 17
+
+3. At the end of two Parardhas, when Thou didst
+express Thy Creative will by Thy look, Thy cosmic power
+Maya stirred herself into activity for the creation of the three
+worlds. Out of Maya emerged Time, Totality of impressions
+of the Karma of Jivas (Adrishta), and Disposition (Swabhava).
+These acted as aids to the Gunas of Thy Maya (Prakriti) in
+their diversification as the manifested universe.
+
+araratatentsnaccagar aretha ata wart
+Ueeai afafaraat fafaferara sitaisht tarze: |
+arotfe-stcattaaisa Waa aatfadt 7 cat
+Aa aT ag sfadra-ayTaise AITAT tN 4 I
+
+4. Itis Thou alone that art extolled in the Vedas as the
+Witness when Thou abidest by the side of Maya without
+entering into it. When Thou art reflected in the diversities
+of adjuncts (Upadhis) provided by Maya, that reflection is
+called Jiva (individual soul). The Jiva has thus no indepen-
+dent existence. Again, Maya, Thy Cosmic Power, manifested
+as the energies of Time and the rest, and directed by Thee,
+projects the category of Intelligence, which is also called
+Mahat.?
+
+ware Pagoreratstet  Aely AcaTaTA: cat
+shastert ag fafaser-wefrgeta-frorres: |
+aster afanerataa-rentes Fer aera
+are fageraistaage faoorl WaT 15 11
+
+5. Although a product of Prakriti with, its constituent
+Gunas of Sattva, Rajasand Tamas. the Mahatis predominated
+by Sattva, the pure aspect of Prakriti, and is capable of gener-
+ating only a vague “J-sense’ without any particularity of
+species, individuality, status etc. O Lord! By Thy will,
+out of this Mahat was evolved the category of Ahamkara,
+(Egoity), which has all the Gunas manifest but with
+Tamas predominating and having therefore the capacity to
+generate the particularised 2 I-sense that makes one aware of
+one’s distinct individuality, species, status, relationships etc.
+
+## Page 66
+
+18 NARAYANEEYAM: CANTO 5
+
+ais = fagrrard fafaaar-ararea aah eat
+qaedsre-aaafafa ATA A IATA |
+Sarfaa-mrfrdisae feat-araa area eat
+qetrarearfaaard fag-fafa-irer ears Ul 6 1
+
+6. The category of Ahamkara.(Egoity), by virtue of the
+triune Gunas constituting it, became divided into three—the
+Vaikarika, Taijasa, and Tamasa forms of Ahamkara. Out
+of the first of these, namely, Vaikarika, which is predominated
+by Sattva, the deities presiding over the ten organs (Indriyas)
+were created, These gods are—Dik, Vayu, Aditya, Varuna
+and Aswini Devas, being the deities presiding over the five
+organs of knowledge viz. hearing, touch, sight, taste and smell
+respectively; Agni, Indra, Upendra, Mitra and Prajapati,
+being the deities presiding over the five organs of action viz.
+vocal organ, hands, feet, anus and generative organ respecti-
+vely; and Chandra (moon), Brahma, Rudra and Kshetrajna
+(Indwelling Spirit), being the deities presiding over the
+mind, intellect, ego (Ahamkara) and mind stuff (Chitta)
+respectively.
+
+TAAL fal Ta wT Traia Carga |
+HARTA SAT RATATAT CTA
+ROMA THR HUTT Teciosht Rasa U7 MN
+
+7. O Lord! By Thy power, the same Vaikarika, the
+product of the Sattva aspect of Ahamkara, generated that
+well-known entity called the internal organ (Antahkarana)
+with its four modes described as mind (Manas), intellect
+(Buddhi), ego sense (Ahamkara) and mind-stuff (Chitta).
+Taijasa, the product of the Rajasa aspect of Ahamkara,
+produced the ten organs, five of knowledge and five of action,
+and out of the Tamasa aspect originated sound (Sabda) the
+subtle essence (Tanmatra) of Akasa (Sky). ae
+
+qeqana Ta: Tats at erat gat aad
+TEATGETAA ASIST + TE Ge st wei ETT |
+
+Badin :
+
+## Page 67
+
+COSMIG EVOLUTION 19
+
+Ua Ales Gays aeaT-aea-ani fiat
+qaarafa ata wat STRATA U8 A
+
+8. O Lord! From the subtle essence of Sabda (Sound)
+came the element Skv. From the element Sky, came the subtle
+essence of Sparsa(Touch), and from it, the element Air Marut).
+From the element Air arose the subtle essence of Form (Rupa),
+and from it, the element of Fire (Tejas). From the element
+of Fire came the subtle essence of Taste (Rasa), and from it
+the element Water (Jala). From the element Water came
+the subtle essence of Smell, and from it the element Earth
+(Prithvi). Thus out of the Tamasa aspect of Ahamkara,
+Thou didst bring into existence all the elements, each of them
+manifesting its own special quality and also inheriting the
+qualities of the preceding elements and transmitting them all
+to the succeeding one.
+
+US ATTRA FATT STAT FAS
+
+at tg-daas-fafatafaat taectha-eree |
+
+a arfaa-ghrafragreacaraga aa
+aaeerafa-gaa TT FEAT SCANS STMT: 119 11
+
+9. Even though all the elements, sense organs, and their
+presiding deities had come into existence, they were disparate
+and so unable to produce the Cosmic Whole. Therefore, the
+deities praised Thee by various hymns and sought Thy help,
+whereupon Thou didst enter into these categories and activate
+them and combine them into the Hiranyagarbha, the Golden
+Egg, containing all the worlds in potentiality.
+
+aud aq ay Gagreafwostrad aaa FAT:
+fafreaearagerareet fatisteary |
+
+area: PIS IC Clu CAREC CIC USELE
+
+frataisfa weGUfat a At AT aaiaard | 10 U
+
+ic E bsisted in the already
+the Cosmic Egg had sul ¢
+ioe a W aters for a thousand years, Thou didst Brea
+it open and shape it into the fourteen spheres whereny Tuo
+teh Pranifestest) Whysclts ims Loye COSD Gees Or.
+
+## Page 68
+
+20 NARAYANEEYAM: CANTO 6
+
+with countless hands, legs and heads. O Lord of Guruvayoor,
+who didst thus manifest the categories! Deign to rid me of
+all my ailments!
+
+CANTO 6
+
+COSMOS AS FORM OF THE LORD
+UF AGEN ATATA TAT
+Tater da Tate aafea |
+Trateaearafa ta Laas &
+Tenet FT AelIo-AHATAT | 1 1
+
+1. O Lord of Wondrous Form! Of Thee who hast
+manifested as the fourteen spheres, Patala is the lower surface
+of Thy feet; Rasatala, the upper surface; and Mahatala, the
+
+ankles.
+FSA THATSAA Fe FATT
+feats farsa z 1
+SIS THATS aha
+aera aaeaeTs AAMT 1 2
+
+__ 2. Thy shins is Talatala; knees, Sutala; the buttocks,
+Vitala and Atala; the hip, the Bhuloka (earth) ; the navel, the
+
+Brahmaloka; and the chest, the Svarloka constituting the
+heaven of Indra.
+
+Wat Hats Ta A ETI,
+cid ICA TTA AT
+Ud Sata Sea
+caraitagagt TAT TAT 11 8 11
+
+3. O All-inclusive Being! Thy neck j 2 men
+Maharloka; Thy face, of Janaloka; Thy feeders colcka g
+
+## Page 69
+
+COSMOS AS FORM OF THE LORD 21
+
+and Thy head, of Satyaloka. Salutation to Thee, who art
+embodied as the whole universe, including some other entities
+(to be mentiond hereafter) !
+
+merererrediat fare.
+wraife Fara FaTeTa FATA:
+seorfata TORTS zl SRT TE
+centr ufafearet afar a AF 4
+4. O Lord! Thou who art the source of the universe!
+The Vedas are Thy Brahma-randhra (psychic orifice) on the
+crown of the head; the clouds are Thy lock of hair; Thy
+
+eyebrows are the abode of Brahma; Thy eye-lashes are night
+and day; and Thy eyes form the sun (and the moon).
+
+fararafaracaar Fo erera ter:
+aut featstagre ta arfaa ¢ |
+Baay a wa-aaTTST
+ARTA SATA SET 5 I
+5. O Lord! A glance of Thy eye constitutes creation;
+Thy ears are the quarters; Thy two nasal orifices are the pair
+
+of Asvinis; Thy two lips are greed and modesty; Thy teeth
+are the stars; and Thy molars form Death the leveller.
+
+rat faeraetad fad aAtet
+faeat ae aaa THATElAe: |
+faareneatl Faeaha-
+Jat AT: KIAHM Ta TARA: 1 6 UI
+so Yost ites ee Da ee
+ee Ce ene are the Siddhas and other
+
+i 5 he gods;
+ivi istes: Thy mouth is fire; Thy arms are the gods;
+patie "fees of righteousness) is Thy breasts.
+
+ges et BE 8A AAT
+IFAT TUTE GA AGATA |
+
+## Page 70
+
+99 NARAYANEEYAM: CANTO 6
+
+afrageitael Tat F Weed
+are: sarafacet aT a FA 7.
+7. Lord! Adharma (unrighteousness) is Thy back,
+the moon is Thy mind; undifferentiated Nature (Avyakta) is
+Thy heart-lotus; the ocean is Thy abdomen; the two Sandhyas
+
+are Thy garment; Prajapati is Thy generative organ; and god
+Mitra forms Thy testicles.
+
+MANA PTT: TMT
+RGIS TAT F BT: |
+famfeatitad teatestaTg-
+TGA BUTT FT 1 8
+
+8. O Merciful One! The back ot Thy waist forms the
+animal world; Thy foot nails constitute the species of animals
+like elephants, camels, horses etc; Thy movement is Time;
+and Thy face, arms, thighs, and feet are the sources of the four
+Varnas of Brahmanas and others.
+
+aerate saat Peart
+at aegemnsitagents ater: |
+ASA ANAT UT
+Safad ageaataAa 19 1
+
+9. O Wielder of the discus!
+cycle of births and deaths)
+constituted of the host of gi
+
+x This Samsara ‘(repetitive
+is Thy activity; Thy prowess is
+si reat Asuras; Thy bones are the
+mountain ranges; Thy blood vessels are the river systems; and
+
+the trees are Thy hair. May thi i i ibable
+Form of Thine shine within pa ieee pe sesescria
+
+THAAMTAY ATT: |
+TTATHAG fH F
+arareafar Aaiseg fret Say I 10 1
+
+## Page 71
+
+BRAHMA COMMANDED TO CREATE 23
+
+10. This Cosmic Form of Thine is fit to i
+upon by embodied beings who are subject to ice
+they approach the end of their subjection to Karma ie, begin
+to aspire earnestly for liberation. (Or alternatively: This
+Cosmic Form of Thine is fit to be meditated upon towards
+the close of their worship and other devotional duties by
+persons who practise such disciplines). O Purity Embodied!
+O Lord of Guruvayoor! To Thee, the indwelling spirit of
+ae esas Form, my salutations! May my ailments be eradi-
+cated!
+
+CANTO 7
+BRAHMA COMMANDED TO CREATE
+
+ud a ageaeasTEST STA: IA
+
+wees ag aastefet oats oat cay I
+
+a daft fewami-afaorster-starert
+
+Asyq wheat faarefare-ararfagerea: 1
+
+1. OLord! Thou, who hadst thus become the universe
+of fourteen planes, didst manifest Thyself again as Brahma in
+Satyaloka, the loftiest and the subtlest of all the planes.
+Brahma, renowned as Hiranyagarbha (Cosmic Golden Egg)
+and as the Collective Soul of the worlds, was prompted by
+the upsurge of Rajas (passion) to engage himself in multitu-
+dinous creation.
+
+aid farafaetadeet: TRAAI: ea7
+ated acarara frufard fargeederary |
+aad & oat Ta at aaa fg aeraeT
+arnaa-aeara: Aagat FATUATT U2 I
+2, Brahma, contemplating within himself with a heart
+set on creation, was very much disconcerted when on his own
+
+ive in his mind the scheme of the world
+i ue bine "0 Lord of all creation! Thou didst
+
+## Page 72
+
+24 NARAYANEEYAM: CANTO 7
+
+then prompt him to perform austerities, exhorting him in a
+sweet disembodied voice, ‘ Engage yourself in Tapas.’
+
+Alsat aimaad Gatfafa Teg STAVES
+feaedter fracadtfacaat TAATATIAT |
+feed aHAaATAATTA Tt ATT
+
+ead cigaarafe caret FHOMRIGAAT Ut 3 1
+
+3. ‘Whois it that addresses me thus when the whole
+of existence is engulfed in Waters?’ thinking thus, he looked
+around but could find none. But understanding the meaning
+of the words, he worshipped Thee for a thousand divine years
+through concentration, and Thou wert then pleased to reveal
+to him Thy unique abode known as Vaikuntha.
+
+arar aa walle ay aged wid wget afe:
+Rape fag aere-Gar AAT Ft TAT:
+Aaa 4 IA TA Sa T HTATA
+
+ad & ay farted farsa dgreeg fw 4
+
+4, Transeending the fourteen planes, beyond the
+pale of Maya’s influence, and out of bounds to mental modes
+like sorrow, anger, infatuation, fear and the like, shines Thy
+Abode of Vaikuntha, constituted of the splendour of the
+supreme light of Consciousness, wherein there is the
+constant flow of saturated Brahmic Bliss.
+
+afer We age eteaf-eataracratast
+ATATTT-Lorat rare UAT: t
+afmroreraenfsataarer steata feoar saT-
+Stet OTH PHRATATAS ARIST TAT 11-5
+5. It is resplendent with towered residences inhabited
+by heavenly beings with four hands, whose bodies have the
+
+brilliant deep blue hue of Indraneela gems hi d the
+lustre of whose diamond-studded See eh eee the
+
+quarters. It is by virtue of deep devotion to Thee that they
+have attained to this rare privilege of residence in this
+
+## Page 73
+
+BRAHMA COMMANDED 10 CERATE 2%
+
+Abode of Thine. Victory to ‘TI sR WA Htoceh in
+affected by any sin! ry to Thy Abode of Vaikuntha un
+
+aT east faa ATCA Tea
+
+frarra-ganacaar frentfaararac |
+
+ACTA RTCA: cay we
+
+afeay faererite-feonfarat aq & 9¢ 2fa F116 11
+
+6. Grant unto me the blessing of residence in that Abode
+
+of Thine abounding with unique excellences, wherein is seen
+Lakshmi, (Thy consort and Mother of the universe, praised in
+the scripture as the goddess of beauty, wealth and good fortune)
+—Lakshmi who is surrounded by numerous divine female
+attendants, whose form is tender like a creeper but stuns all
+by its charming and explosive beauty which lights up all the
+
+quarters like a streak of lightning, and whose sole delight
+consists in serving Thy lotus-feet and enjoying their fragrance.
+
+aaa sfaaine frome warerearfad
+wea fe-rafen de eH ACTH |
+fasaut aa eadere fafeead ft wg A 7H
+7. In Thy Abode of Vaikuntha thus revealed, Brahma
+saw Thee, the source of all creation, seated on a throne of
+diamonds, shining amidst the prilliance like that of a thousand
+suns emanating from Thy diadem, bracelets and other decora-
+tions, and revealing the auspicious mark of Srivatsa on Thy
+
+‘d crimson by the lustre of the jewel Kausthubha
+Sons ae rae May this form of Thine be revealed
+
+to me!
+BAAS TSAR TSR AAT AH FAT
+AAA ATH RELTT TATA ITY |
+BRA SHt TIAA fal AETASATAAT tt 8
+
+## Page 74
+
+26 NARAYANEEYAM: CANTO 7
+
+8. With a brilliant and expansive halo illumining the
+quarters with its sombre radiance resembling that of fresh rain
+clouds and of blue lotuses; with a calm face beaming with an
+attractive smile constantly playing on it; and with four arms
+holding the shining conch, mace, discus and lotus,—Thy
+form did give great joy to Brahma. May it eradicate my
+ailments also!
+
+TAT MYT AN: BAS YKAAT AMA S
+ealaraaal fafa: star sarees |
+aaa watt aa fart art carseat
+atlad- Waar AT AT 9 1
+
+9. Overwhelmed with astonishment at that sight, the
+Lotus-born One (Brahma) fell at Thy feet, full of the joy and
+satisfaction of having attained to the fulfilment of his existence..
+He said “O Lord! Thou knowest already the object I have
+in mind. Vouchsafe unto me a true understanding of Thy
+mysterious nature in which duality and non-duality exist in
+
+harmony.’ To that Supreme Being, revealed to Brahma, my
+adoration!
+
+ae A farane t gets aA CITT
+
+alaet wiser 4 wifafatedensit aoe |
+RST FIX salen fact afeaeye: eat
+Tel t He: T WaqeoraMeRAATH UI 10
+
+10. Touching with Thy own hands the hands of Brahma
+who had prostrated himself in all humility at Thy crimson-
+tinged feet, Thou didst declare, ‘ You will have knowledge of
+My true nature. By engaging yourself in creation you will
+not be stained by attachments.’ Gladdening the heart of
+Brahma by these words, Thou didst become immanent in his
+mind in order to direct him in the work of creation. Thou,
+
+O Lord, who art of such mighty powers! Deign to amelio-
+rate my sufferings.
+
+## Page 75
+
+CANTO 8
+THE DAWN OF CREATION
+
+Ud Tad WHATAATT
+areal wet eaTfaA seasAT |
+FRM FARA Cares Feary
+gfe aH aTeTTATATA Ul 11
+1. Thusat the close of Brahma-Pralaya (total dissolution)
+and the beginning of the new cycle of creation that is now
+prevailing, a new Brahma, having come into being on the
+first day of the cycle, obtained the knowledge of the Vedas
+from Thyself and began the work of creation in consonance
+with what had prevailed in the previous Kalpa (cosmic
+period).®
+
+dist agitaee fara
+arahaarer writaget fare |
+farareral cafe fercster at aye:
+afafarrea-wewset Ulaq tt 2
+
+2. This Brahma has already spent several days and
+nights of his life, each day consisting of a thousand Chatur-
+yugas and each night too of an equally long period. During
+his night when Brahma falls into sleep, he along with all his
+creation becomes latent in Thee. This night of Brahma is
+called Naimittika-pralaya (i.e. dissolution caused by Brahma’s
+
+sleep).
+
+qemrent FRAT AGT
+
+gic aaeagient & wacrarald |
+WRATTRCTTTT F aga F
+
+gears TAIT ET aarfa gfse: 1 3 0
+
+f his, Brahma, by
+3. Thus at the dawn of every day of his, i
+
+; ork of creation, just as we mortals
+Thy grace, commences the w oe of react ee
+
+begin our work at dawn.
+
+## Page 76
+
+98 NARAYANEEYAM: CANTO 8
+
+those eternal souls who existed even before Brahma-kaipa (like
+Markandeya and others) also arise like people from sleep with
+the full consciousness of their past.
+
+FaMSeATA CAAA ET-
+
+ta qadafsae fe adasat |
+
+warauhaatrargy FIT TAT
+
+Tafeaa F AAAS Hl 4
+
+4, TheBrahma ruling over the present cycle, having spent
+fifty divine years, which represent the first half of his span of
+life, has just entered into the second half of it. O Lord! I
+am now narrating Thy sportive activities that took place
+during the previous night of Brahma and the beginning of his
+first day in the second half of his life.
+
+fearaarise aasaita:
+
+guftiameata afafeet
+
+Sfra a caseet aAty-
+
+CCS COME CCM CEs: aT nay
+
+5. At the end of his day the Lotus-born Brahma, desiring
+
+to sleep, got merged in Thee. The whole cosmos too was
+absorbed in Thy abdomen. Only the Causal Waters remained.
+
+aaa ae oferafae ae
+
+TSRAT Yaa EH TG |
+
+ATASATaT-MALT ST:
+
+eaaTiaT-TMa ETAT Mt 6 tt
+
+6. When the whole univers
+Waters, Thou, who art of the n
+Ciousness, didst rest, wrapt in
+bed of Adisesha, wha is but an
+
+TITER AT THAT ATA
+sarea-corfeerar freret 1
+
+‘€ was reduced to the Causal
+ature of saturated Bliss-Cons-
+Yogic slumber, on the serpent-
+‘other manifestation of Thyself.
+
+|
+
+## Page 77
+
+THE DAWN OF CREATION 29
+
+wat sed sheqel
+aaa wafaw-statarear 7 11
+
+7. At the start of the Pralaya, Thou, in whom all
+energies had become latent along with all the Jivas, didst
+enter into sleep, ordering the power called Time to awaken
+Thee at the end of the Pralaya.
+
+agar 3 agard
+
+vata wat greta
+arorerattcn: TTATGST
+
+siataad cat fae frre v8 tl
+
+8. O Master of all the worlds! Thou, the One without
+asecond, having slept for a period of a thousand Chaturyugas,
+wert awakened by the power of Time, which was the first
+entity to wake up at the end of the Pralaya.
+
+fag a of corey
+faster starafaary THAT |
+aeta qenTenaay fasted:-
+featg fray cara efeq 1 9 11
+
+9. O Thou Slumberer in the Waters! Waking up,
+Thou didst see all the worlds to have gone into dissolution.
+But as they were all only residing in Thee in a state of latency,
+Thou didst now cast Thy glance on them all collectively in one
+
+sweep.
+
+aaecadtarats arfirceert-
+gafad frat faorraTy |
+dared FROTIATA Ut 10 Ut
+
+! Then there came out of Thy navel a lotus
+syeeleh ea aes containing in itself all the previously
+existent entities in their potential form.
+
+## Page 78
+
+30 NARAYANEEYAM: CANTO 8
+
+AAARE-FSAS
+FOI TAT TESA |
+afefredt ofa: e_xata:
+Sates ASAT MW 11 1
+11. Originating from Thy navel and rising above the
+
+flood of Causal Waters, this lotus bud completely dispersed
+the surrounding darkness by its brilliance.
+
+apcord frat falas
+afery wagatiga Tae |
+a Taser fafrafraeita
+eqagalhas-Aeaea: i 12 0
+
+12. In that full-blown and wondrous lotus, supported by
+
+Thy prowess, there arose the creator Brahma, known as the
+Lotus-born with the Vedas self-manifested in him.
+
+HAT TA AS TTT
+catrca-gearfta-asrath:
+HATTA AA CeTRAAaT
+
+free arateaare fast 1 18 1
+
+*
+
+13. O Vishnu, the Supreme Being manifested in the
+temple of Guruvayoor for blessing devotees! In this age
+known as Padma-Kalpa Thou didst thus originate the Lotus-
+born Brahma. O Thou of incomprehensible greatness!
+Deign to rid me of my ailments!
+
+## Page 79
+
+Se
+
+CANTO 9
+
+BRAHMA IN HIS CREATIVE ROLE
+feam: a aHeraeda fe aPrTEtes
+ac feafec-argarated-fremeraad |
+adarmragqeend sfafeat fagaraa-
+wyaeTAg fawaaveeceagary U1
+
+1. Then Brahma, the Lotus-born, though seated in
+Thy navel-lotus, found it impossible to discover the source of
+that lotus anywhere in the vast ocean of Causal Waters.
+Intensely curious to find out the source, he looked around
+turning his head, whereupon he became endowed with four
+faces and with eight eyes beautiful like lotus petals.
+
+faster aga Ta TTF THAT |
+Huy HAalat Hele fee SE
+gafafearrgy arate Frere | 2 1
+
+2. Seeing only that solitary lotus tossing and quivering
+in the vast ocean of Causal Waters but not Thee who wert
+the support of it, he thought, © Who, indeed, am I seated here
+alone in this lotus? And from where has this lotus originated ?”
+
+anger fe qaee: Peale Fret TNA
+fafa oH paras: T AG TeCHresT |
+waraafaean qAaeeary Teel
+eadaatrnted TF FOAL EET Ul 3 Ul
+
+. € This lotus must have some place of origin’, thinking
+thus, - desea through the stem-hole of the lotus with
+the help of his supernatural power and knowledge. Though
+endowed with great capacities and intelligence, he was never-
+
+theless unable to perceive Thy most attractive Form.
+
+## Page 80
+
+32 NARAYANEEYAM: CANTO 9
+
+aa: THe oat fae ATA
+Tae Mea fate Fa escars |
+fra sAelat Gatrsor cH:
+AAaaSATAT WAAGASHTAEl Ul 4 -
+
+4, Searching through alli the orifices of the lotus stem
+for a hundred years, he was not able to see anything as the
+base of the lotus. So he gave up the search and sat calmly
+in the lotus, and with one-pointed concentration, resorted to
+absorption in deep Samadhi, solely desirous of Thy grace.
+
+aed oie tear ir-aeatieoerg-
+sata-faretad: & ae oars: |
+apeamand ta fe eTaTgaT
+
+caave Teqsedl Sera U5 1
+
+5. Practising undisturbed Samadhi for a hundred years
+and with his understanding thus deepened by a new awakening,
+the Lotus-born Brahma to his great delight saw with his inner
+eye a hitherto unseen wonder—Thy Divine Form resting on
+the serpent-bed of Adisesha.
+
+agetafa wat wresrae eferery 6
+
+6. I meditate on what was revealed to the Lotus-born
+Brahma—Thy Divine Form shining with a diadem and other
+decorations on the head; with a pearl necklace, bracelets and
+Keyura (bracelets for upper arm) ; with the neatly worn yellow
+cloth held in its place by a waist-band studded with precious
+stones; and with a blue complexion resembling that of the
+Kalaya flower.
+
+saratataa-arqcara It
+Bt 9a sa aT Taahe fara eat: 1
+
+## Page 81
+
+BRAHMA IN HIS CREATIVE ROLE 33
+
+geod fray Y waatafaat arr
+fate ghenatne-eaqoefent fe ATE U7 UN
+
+7. ‘Hail! Hail! unto Thee whose wondrous glory the
+Vedas have declared, who is the bestower of all that is auspi-
+cious and the remover of all ills! It is my rare good fortune
+that Thou hast revealed Thy Form to me. Now deign to
+confer on me the intelligence and the capacity required for
+creating the worlds!’ May the Lord possessed of countless
+excellences as described by Brahma, offer protection to me!
+
+BACT MATA VASAT ATT
+
+TEI HgTe Fe TTA yt fae
+wacafacneadt afa a wfeareaere-
+wart firearaar gfertad Saaz M8 I
+
+8. ‘O Brahma! May you be endowed with the power
+of creating the three worlds to faultless perfection! Even
+
+after receiving this blessing of Mine, engage yourself in inward
+concentration (Tapas). May you also have intense devotion
+to Me, which is the sure means for the achievement of every-
+thing!’ With these words Thou didst delight Brahma by
+granting him far more favours than what he had prayed for.
+
+ad waa: F Ae feat
+
+aaa a alae afaas 7 qatar \
+gaen fro afer vata Tee AAT
+waaae- faster: qaqa ard 1 9 UW
+
+9. Practising inward concentration for a hundred divine
+years, he gained more of spiritual and mental powers. Next,
+seeing the Lotus in the Waters swaying in the breeze, he
+consumed all the Waters and the winds, thanks to Thy power
+manifesting in him.
+
+aaa HAT FA: axfast aaa a:
+gare art ATT TTA AT |
+
+## Page 82
+
+34 NARAYANEEYAM: CANTO 10
+
+TaTHTTe FRACTAL
+aang, ofeafe at qecatfirat-tea: 1 10
+
+10. By Thy grace, he then engaged himself in the creation
+of various species of beings, after having first fashioned the
+Lotus itself into the various spheres of the universe. O Lord
+of Guruvayoor! O Thou of abounding grace! Give me
+protection with a glance of Thine over-flowing with mercy.
+
+CANTO 10
+DIVERSIFICATION OF CREATION
+
+ag afatasisa Wacraral-
+Saas fre saad |
+eared qeerarta gar farwat
+oritigeatraertt eayaryq M1
+
+1. O Lord of Vaikuntha! The Lotus-born Brahma,
+puissant through Thy blessing, began to create many embodied
+beings such as vegetation, birds, animals, men, gods etc.
+
+farcorrer-ferata-onr-faataitfa-
+Taafatata tafsat T Psat |
+Ra astra fayet 2
+
+2. He created five modes of ignorance—false appre-
+hhension, self-centredness, attachment, anger, and fear.
+Stricken with sorrow for having originated these five modes
+of Tamas (ignorance), he made atonement for it by contem-
+plating on Thy lotus-feet.
+
+Wa: at arate 4 UAHA |
+
+## Page 83
+
+DIVERSIFICATION OF CREATION 35
+
+at gfeenuin g da frasaara-
+Raerenfeearar HET ATATT 1 8
+
+3. Then he created four mind-born offspring—the
+sages Sanaka, Sananda, Sanatana, and Sanatkumara.
+On being ordered by him to procreate, these sages refused
+to do so, as their minds were already immersed in devotion
+to Thee.
+
+aad satrafad sfererratser
+sreadisatt Jet WaCHAT: |
+aratfat & He oarft a at fata
+ural ede fine Fa a GATAT II 4
+
+4, As Brahma tried to suppress his anger at the dis-
+obedience of his offspring, Rudra, an aspect of Thine, emerged
+from the middle of his eyebrows. He is called Rudra,
+because at his very birth he cried aloud to Brahma, asking to
+be provided with a name and a habitation for himself,
+
+valeareraaa + fafrret
+
+a faara afar afrarea ear |
+araraadt A Fath WANA:
+
+me TfaCaATs A ATA TA U5 Ul
+
+5. Brahma, impelled by Thee, gave eleven names and
+eleven forms to Rudra (thus giving to the one Rudra eleven
+aspects). He gave to each one of these a wife and a habita-
+tion and requested them to procreate.
+
+arpa -yarar aaa: |
+HT AT SOT: Got ATT STO
+carase tf Heath ATAT 1 6 It
+
+6. The three worlds were soon full of the fierce-looking
+progeny of Rudra, which filled Brahma with alarm. There-
+
+## Page 84
+
+36 NARAYANEEYAM: CANTO 10
+
+upon Brahma, prompted by Thee, ordered Rudra to stop
+procreating, and betake himself to austerity for the good of
+the world.
+
+aera aicfaner ToPacha-
+ATER: AIGA: HE: THEA: |
+semana yar afecscett
+SARA WTA HASSETT: 7
+7. From several parts of the body of Brahma, engrossed
+in creation, were born the sages, Marichi, Atri, Angiras,
+
+Kratu, Pulaha, Pulastya, Bhrigu, Vasishtha and Daksha, as
+also Thy much esteemed devotee Bhagavan Narada.
+
+anifamratigsras tet 7
+
+anit faa fafixerstagetsyd |
+aes: AAAS ATT
+weal face TAT fagary | 8 Ml
+
+8. Next he created Dharma Deva and Kardama Praja-
+pati. On creating Vani, he was himself overcome by a lustful
+sentiment towards her, whereupon he was rescued from this
+dark passion by his own offspring like Sanaka, Daksha and
+others, who were endowed with the necessary insight to do so
+by Thee!
+
+aaa gunfaaerafa wafer:
+Had AAT SAGAS |
+gag ag fafa a wiafa-
+
+HAGA Targa TT | 9 1
+
+9. He, the four-faced Brahma, himself gave out and
+taught the Vedas, the Puranas, and all other branches of
+knowledge to his progeny mentioned above. But still finding
+that his creative work was not progressing well, he again
+resorted to Thee for help.
+
+## Page 85
+
+PRELUDE TO THE FIRST INCARNATION 37
+
+STG Beast fest
+ATAU TELATA |
+areata aguas fade
+aifars areagte freer GA 1 10
+
+2 10. Knowing from Thee the proper means for the multi-
+plication of created beings, Brahma divided himself into male
+and female—Manu Swayambhuva and his wife Satarupa.
+May Thou, O Govinda, who by means of them did multiply
+the species of man, deign to rid me of my ailments!
+
+CANTO 11
+
+PRELUDE TO THE FIRST INCARNATION
+aay a ofaeart
+
+aarfa faeat: aaraTated |
+
+waghasin fagronts
+
+safat aredafeater 1
+
+1. O Lord of Guruvayoor! As creation progressed and
+creatures multiplied, the group of four divine sages consisting
+of Sanaka and the rest went one day to the sphere of
+Vaikuntha in order to pay their respects to Thee.
+
+aaladdaaarrarea-
+aaa faeces |
+aaa & vat frac
+AAPA: AGKAT HEAT: 2
+2. Crossing several enclosures,
+
+Abode, unmatched by any other sphere because ofits entranc-
+ing Garden of Spiritual Freedom (Naisreyasa-Kananam)
+
+and its numerous lakes and glittering mansions.
+
+the sages entered Thy
+
+## Page 86
+
+38 NARAYANEEYAM: CANTO I]
+wachaeert wad fafaery
+great saat fasratsarerary |
+ast a fad Tear Ft:
+aa WaT FAT 3 Ul
+
+3. But two gate-keepers, by name Jaya and Vijaya,
+intercepted these sages who were entering Thy Abode to see
+Thee. Thereupon anger flashed in the minds of the sages.
+O Lord! Everything takes place as Thou willest!
+
+agponlargfaaraset
+
+Heat Jat eaatt WIAA |
+
+afa wait Haarerat at
+efrenfortsteafa TaGEMTy 4
+
+4, ‘You cruel ones whose conduct is unbecoming of
+the denizens of Vaikuntha! May you both be embodied as.
+
+Asuras (demoniac beings).’ Cursed thus by the great sages,
+these servants of Thine prostrated themselves before them,
+praying that they might not lose their devotion to the Lord
+(even in their Asura bodies).
+
+qatar Aaa:
+Rea SEM aes |
+aipactentrdt-arealg-
+CASA APRA 5
+5. Knowing what had happened, Thou, O Lord, didst
+come to the entrance of Thy Abode, accompanied by Lakshmi
+and Thy attendant Garuda, Thy hand resting on his
+
+shoulders. The sages were delighted by Thy most attractive
+form.
+
+sere tir: eadt Fata
+
+araaaaat sat Tt A
+
+## Page 87
+
+PRELUDE TO THE FIRST INCARNATION 39
+waafareardst wT: Ul 6
+
+6. Pacifying the sages who began singing Thy praise,
+Thou didst tell Thy two attendants under curse, who had no
+protector other than Thyself, to come back to Thee again,
+after having spent three births as Asuras communing with
+Thee through confrontation.?
+
+aeayeaTas FRAT aT
+gatetrafadt fact 211
+PATA GATS HEAT
+wat at ore warfaareat Wt 7
+7. Thereafter Thy attendants took birth as great Asuras
+through Diti and her husband Kasyapa. Since the act of
+procreation took place at the prohibited hour of evening
+
+Sandhya (sun-set hour), the twins became cruel destroyers of
+the worlds, as if they were two new Yamas (gods of death).
+
+facaya: afarg: fos:
+
+ot faxomret aft setter: |
+sal wareaaTeT
+
+ear reat famaraarat tl 8 1
+
+8. They became notorious as Hiranyakasipu and
+Hiranyaksha. Obsessed by their inherent tendencies, they
+engaged themselves in cruel oppression of the worlds that
+have Thee as their master.
+
+SNe CUATA ATILAT
+
+wns eTaatarata |
+waft ent afes frase
+aa Talafadtad Tatars M9 Wt
+
+9. Of these two, the great Asura Hiranyaksha ranged
+the worlds, thirsting for battle. Not finding anywhere an
+
+## Page 88
+
+40 NARAYANEEYAM: CANTO 12
+
+enemy worthy of his steel, he submerged Thy dear earth in
+Cosmic Waters and strutted about mace in hand, roaring in
+overweaning pride.
+
+Tat TM Tet HART
+
+fT TATA TATE |
+
+waCheM: FT SMT
+
+frefeer Ur AeaTHAT M10 1
+
+10. On learning from God Varuna that Thou wert a
+match for him, he roamed in search of Thee. O Lord of
+Guruvayoor, O Thou ocean of mercy whom Bhakti (devotion)
+alone can reveal! May Thou be pleased to ameliorate my
+ailments!
+
+CANTO 12
+INCARNATION AS COSMIC BOAR
+
+AFAR AGA STATA ST
+Beat AeA aioe HATA |
+Ted fasta: Ae TAP 1
+
+1. The Manu Swayambhuva, who was engaged in
+creation, saw the earth being submerged in the Waters, when
+it was not the time for it. So, accompanied by sages like
+Marichi, he went to Satyaloka in supplication to Brahma
+who resided there with his heart full of joy and peace derived
+from the practice of devotion to Thee.
+
+ase Sot: Osta Hera fara
+
+Sa AUST FHT TST |
+qeany aaah Aga aE
+TAs Tt Wag apa tt 2
+
+## Page 89
+
+INCARNATION AS COSMIC BOAR 41
+
+2. ‘Alas! The earth has been submerged in Waters
+while I am engaged in multiplying living beings. O Lotus-
+born One! Show a new habitation for them” Hearing these
+words of Manu, Brahma, O Lord, began to contemplate on
+Thee (for a solution of the difficulty).
+
+@ ao fat send waft gee
+aqarft asafe wat fad aif |
+eet aaefagrs avi adlser
+ARTgeT wa: alee i 3 i
+
+3. ‘O Great One! I had at the very beginning drunk
+up the Causal Waters. But nevertheless the earth is sinking.
+What am I to do now?’ From the nasal orifice of Brahma
+who, speaking thus, took refuge at Thy feet, there emerged
+Thyself in the form of an infant Boar.
+
+FPOATAAL RATT: TRS
+qaisa efaraea: TATA |
+ae wafsagiien wang
+faetreai fafirong ae qafy: e  4 u
+4, Ofthe size of a thumb at the time of emergence, Thou
+didst soon grow to the size of an elephant. Seeing Thee thus
+
+growing up to the region of the clouds, Brahma, along with his
+offspring, looked on Thee with wonder.
+
+alser-afarcaatent fafeeterat +
+
+arargerd fry waafaes AT
+eed fafartafa atafe tears:
+aa waa fee safer STAIR U5
+5. ‘Who is this that has come out of my nose as a Boar?
+Can it be that Being of inconceivable greatness Emselfi
+Can it be another play of the Lord’s mysterious power (Maya) ?
+
+While Brahma was revolving thus in his mind, Thou didst
+grow into the size of a mountain and burst into terrific roars
+
+again and again.
+
+## Page 90
+
+42 NARAYANEEYAM: CANTO 12
+
+a fragranced TATRTIEAT:
+aaheaaral Frat PTAA |
+aiaeiona: TI Ya
+ena fageate-caraeeeay MN 6
+6. Hearing Thy roar, the sages occuping the planes of
+Janaloka, Tapoloka, and Satyaloka began to sing Thy glory.
+
+Pleased with their hymns of praise, Thou, with Thy mighty
+body, didst enter into the Waters.
+
+eam aha fata
+
+Mifeerea awa ATS S-ATATT: |
+Tindtise: aiepeent
+
+Bigg Gitq fafr-aaater aqNTU
+
+7. With Thy erect and bluish hairs twitching, with the
+tail lifted up, with the fierce snout pointed downwards and
+with eyes rolling as if to comfort the hymning Rishis, Thou
+didst plunge into the Waters with a terrific speed that scattered
+the clouds.
+
+arafametiage TAMAATST |
+afd WITILAT TATASCAT-
+aera THAA ATA MI 8
+
+8. The Waters were filled with agitated alligators,
+whirling whales and turbulent waves, as Thou didst enter
+them in search of Thy beloved earth with tremendous roars
+that shook the denizens of the nether worlds (Rasatala).
+
+FEAST AAEIHT LATA
+Hata afeta nefatetaat ax |
+aaa Faia
+SASH AGATA: AGHA U1 9 11
+
+## Page 91
+
+DESTRUCTION OF HIRANYAKSHA 43.
+
+9. O Lord! Seeing the earth concealed by the wicked
+Asura in the region of Rasatala, Thou, the simulated Boar,
+didst lift her up with Thy tusks, treating with disdain the
+resistance of Asuras who were but like worms to Thee.
+
+AYRAT Il VATA THA-
+ReeHuatsa garfrnttaaer |
+RTA few RTT
+AsTaTeAGAAT Ts WMT 10 1
+10. O Lord, who didst sportively assume the form of a
+Boar! Thou who, with Thy gigantic kody, didst rise from
+the forbidding waters of the rough ocean, holding the earth
+
+on thy tusk as if it were the root of a tiny grass that Thou
+hadst dug up—may Thou deign to save me from my ailments!
+
+CANTO 13
+DESTRUCTION OF HIRANYAKSHA
+
+fewarel Tagate WaeaAT TIT
+aed atad cafe fromearatcfac |
+wage Teal HTETEM AAA:
+ASA aeaq agoafe farawa FA 1 1
+1. Then the sage Narada, who was a devotee of Thine
+and often engaged himself in diplomatic missions in fulfilment
+of Thy purposes, approached the Asura Hiranyaksha then
+wandering about in search of Thee in the Cosmic Waters
+which hardly reached his knees, and spoke to him in subtle
+language, extolling the Asura’s own strength and denigrating
+Thine.
+
+a mrarat fasagela wactat agrctt
+saat ace acd fafirafate aarfaafad: |
+
+## Page 92
+
+}
+|
+i
+|
+|
+|
+|
+
+44 NARAYANEEYAM: CANTO 13
+
+aaq aarat aarerfate @ afar aferarat
+wart TEATTGA eT eHTT | 2 Ul
+
+2, ‘Alas! Alas! How is it that the deceitful Vishnu
+is allowed to get away with the earth, your property, O mighty
+one!’ Thus addressed by Narada, the Asura cried, ‘ Where
+js this Vishnu? Where is he?’ Following the direction
+given by the sage, he approached Thee, even as Thou wert
+rising up from the Waters with the earth.
+
+Fel areas BT aft Fat TAT
+gertiacad fafagaraara wad |
+Taare TeAAeGSAT Fafaat 3 ul
+
+3, Disregarding for a moment the Asura who was ridicu-
+
+ling Thee with the words, ‘O! This is but a wild animal! ’
+
+and also hurling abuses at Thee, Thou, who didst see the
+earth trembling in fear on Thy tusk, didst take her from there
+and settle her firmly in the ocean, and then get ready for
+
+battle.
+
+marae at carafe fe qeltraaTat
+
+fagadia Freq TeReCA TCL AAT |
+
+quar fret Fat FIA
+
+farereat: areata: TaAfafe aTaT STAT 4
+
+4, As the Asura was armed with a mace, Thou too
+didst flourish a mighty mace and give him battle, which was
+but a sport to Thee. As the clang of clashing maces reverbe-
+rated in the sky and as the hosts of Devas gathered eager to
+
+see the duel, Brahma cried aloud to Thee, praying that the
+‘Asura be killed before nightfall.
+
+narae deaeta ay Tara fefrrat
+marae qa atfefa titararass a:
+
+Baers sqqetrerat
+HeIah Heal HAs ATTY BRAT 115 1
+
+## Page 93
+
+DESTRUCTION OF HIRANYAKSHA 45
+
+5. Wonderful to relate, in that combat the Asura’s stroke
+suddenly knocked down Thy mace to the ground. There-
+upon with a smile on Thy face, Thou didst invoke Thy discus
+(Sudarsana), famous as the destroyer of the race of Asuras,
+and Thou didst look magnificent when that discus made its
+appearance in Thy hand.
+
+Tet: Yo sresfrrete st fagafs
+afateraaaq aeifor-aaTECTe |
+THRE FEAT T ay faqeeat aaa
+Teas Waals fe qT: 1 6
+
+6. Thereafter the Asura, resembling the god of death
+in his mood of anger, struck at Thee with a trident (Sula),
+which was cut to bits by Thee with the discus. The Asura
+then hit Thee with his fist, and also adopted various tricks of
+illusory warfare against Thee, in whom illusion has no place.
+
+wasqasatc-canrea-fares ferret
+
+aat aaah fare era |
+Tforfaraiftergtaty-<frerargt
+earrareyeat Taree farcaet: 7
+
+7. The illusions created by the Asura were all dispersed
+by a modicum of the power of Thy divine discus. Then the
+Asura, raving with anger, attacked Thee with punches of his
+heavy fists, whereupon Thou didst deliver a powerful blow
+with Thy toe at the base of his car.
+
+Hee: Sse TA TCTTATA LAAT
+
+Tegel TeHTeTTECaH: BTAcElet: |
+
+aar argera-aHaNe fares
+
+apiear: ararta: epi aeetergy | 8
+
+Thy feet, the monstrous Asura
+ee ut vr his mouth, while all the
+destruction. With
+
+8. Struck Rowenuly)
+fell down with blood gushing © n
+Rishis sang hymns in praise of Thee for his
+
+## Page 94
+
+46 NARAYANEEYAM: CANTO 13
+
+hearts brimming with joy, they sang in praise of Thee, who
+art the embodiment of Yajna.
+
+afaael Caeafe serra yt
+aagiartiseat arft Fat Wet EST |
+wet freatat F TMTET HT A AAET
+
+fart aa art ATE THeMs|ITTT: 19
+
+9. ‘OSupremeBeing! OBoon-giver! Thy skin stands
+for Chandas (Vedic metre); Thy hairs, for Kusa grass; Thy
+eyes, for the ghee pot used in sacrifice; Thy four legs, for the
+four sacrificing priests; Thy face, for the ladle used in offering ;
+Thy tongue, for the Soma pot; Thy stomach, for the vessel for
+keeping the ingredients for offering; Thy ears, for the Chamasa
+vessel for keeping sacrificial remnants; Thy semen, for Soma
+juice; and Thy neck, for the subsidiary rites called Upasat.
+(Thou art verily the embodiment of holy Yajna).’
+
+SI CHIE GEC EG LICCE ELE
+nae yal fascia 4 fara |
+eafrord ararcd: garalaerd waft
+frereat Ot & aaeaft aaTeaI 1 10 1
+
+10. © Lord manifest in the temple of Guruvayoor!
+Delighted with the hymns of the sages, Thou, who wert
+impressive with Thy all-comprehending form and taintless
+glory, didst retire into Thy Abode of Vaikuntha, revelling in
+Thy innate Bliss. May Thou be pleased to eradicate my
+ailments!
+
+## Page 95
+
+CANTO 14
+INCARNATION AS KAPILA
+
+TARGA Maa:
+
+TAG: TSPATTATST SEAT |
+forcast
+
+afed o waa ge frat it 1
+
+1. Manu Swayambhuva, the offspring of Brahma, spent
+his allotted period (Manvantara) in peace, free from all
+adversities, and contemplating on Tliee and recounting
+Thy glories.
+
+geororraa-eaataaT |
+: a ts
+wraeca-agd TAT: fast 2
+2. During the rule of Swayambhuva, the Prajapati
+Kardama, who was born of the shadow of Brahma, worshipped.
+Thee, the supremely beautiful, for ten thousand years out of
+
+his keen interest in multiplying the species as instructed by
+Brahma.
+
+Teste He H
+froaahfe-marTrTsTy |
+efadieofaarat frat a
+aTUaRRt HH FAA 1 8
+
+3. OAll-pervading One! With a complexion attractive
+like a blue cloud, with the face lit up by a smile, and with a
+hand twirling a lotus, Thou didst manifest Thyself before
+Kardama, riding on Thy eagle vehicle, Garuda.
+
+IA FVATIAA TH
+aagtt efaat aan gH: |
+
+## Page 96
+
+48 NARAYANEEYAM: CANTO 14
+
+afte 4 ad tata WATT
+
+canta aragres friatsy: 4
+
+4, Before departing from the vision of Kardama, who
+
+was praising Thee thrilled with devotion, Thou didst bless
+him that he would have (Devahuti) the daughter of Manu
+Swayambhuva as his wife, that nine daughters would be born
+of her to him, that Thou Thyself wouldst also be born to him
+
+as his tenth issue under the name Kapila, and that he would
+finally attain union with Thyself.
+
+a Aa: TeSTAT Afesar
+GUAT GAT Sage |
+waatfea-areata fare:
+FAM HAA-ATTT ATTA Wh 5
+5. Advised by the Rishi Narada at Thy bidding, Manu
+Swayambhuva, with his wife Satarupa and virtuous daughter
+
+Devahuti, approached Prajapati Kardama who was awaiting
+their arrival.
+
+agireat + eager
+TRATES HAAS |
+wacda-fracisht Teat
+FEYTITAT TAY TATA 11 6 1
+
+6. Having obtained from the Manu that jewel of a
+woman Devahuti as his wife, Kardama, though delighting
+solely in Thy worship, became none the less very loving towards
+Devahuti because of her devoted service of him.
+
+UGC CI GEILE Li
+gfaararrad at fears |
+afageaege TaTcaT
+BE BaTAG AagQaAT 7
+
+## Page 97
+
+INCARNATION AS KAPILA 49
+
+7. With the powers obtained through Thy worship,
+Kardama created for the satisfaction of his love-lorn wife, a
+Vimana (vehicle floating in the air) full of handsome female
+attendants, and himself assuming a new attractive body,
+traversed through the heavens to the gardens of the gods where
+he sported with Devahuti for a long time.
+
+aTatAy eaatey ast
+
+TT PAT: GAIT TLTSTT: |
+
+FAIA AIST BTaAT-
+
+fered asrigat eraredta ui 8 1
+
+8. Spending a hundred years thus and obtaining nine
+handsome daughters as offspring, Kardama wanted to retire
+to the forest to take up the ascetic life, but yielding to the
+wishes of his wife, continued to stay with her at home, eagerly
+awaiting Thy birth as their son.
+
+frsmafire wafadar-
+facarataa 24 agar |
+afreRaraTaT TATA
+
+wafaeay ToMeAaTafaeEy | 9 1
+
+9. Instructed by her husband, Devahuti engaged herself
+in devout worship of Thee, and Thou wert gracious enough
+to be born as her son Kapila in order to teach mankind the
+means for the attainment of the Supreme Spirit.
+
+aaa wet Tart
+
+Haaea-TITSATY TAT
+
+afro argatatr
+
+cated @ ofeafe at aeterg It 10 1
+
+10. © Lord manifest in Guruvayoor! Thou who wert
+
+born as Kapila, and who tau: ht Thy mother the quintessence
+of philosophy and religion after Thy happy father Kardama
+had departed to the forests—may Thou deign to save me from
+my ailments!
+
+## Page 98
+
+CANTO 15
+THE MESSAGE OF KAPILA
+
+MAAS FAT TTA AT HT
+aRMEgTEs winaTey ahr |
+HeaGIAS AT Alara AAT
+afrsaatefa df age vara: 11
+
+1, The mind that is attached to sense objects, the
+products of the Gunas of Prakriti, is the cause of bondage to the
+Spirit. If unattached, the same mind becomes the means of
+attaining Immortality. The practice of devotion to God
+attenuates attachment to sense objects. Devotion to God,
+generated by association with holy men, is the one thing to
+be attained in human life. Thus didst Thou teach Devahuti
+in Thy human descent as Kapila.
+
+wafe gata earl Ger: Tata: |
+fa fafaafaantt yeaciset sacar
+afredaiet & Faget ATTA: 2
+
+9. Prakriti (Primordial Nature), Mahattattwa (the
+Great Element), Ahamkara (I-sense), the five Tanmatras
+(Particles), the five Bhutas (Elements), Antahkarana (Mind
+and its various modes), the ten Indriyas (Organs, five of
+knowledge and five of action), and Purusha (Spirit)—these
+are the twenty-five categories. When the Purusha realizes
+the distinctiveness of these categories, he is liberated from the
+pondage of Prakriti (Nature). Thus didst Thou teach
+Devahuti in Thy human descent as Kapila.’
+
+gehreya asset Tats
+afe g daft Tet Te ATCT |
+Hagyortaearsrat: TTT
+
+afredgted a taget ATT: 13 11
+
+## Page 99
+
+THE MESSAGE OF KAPILA 51
+
+3. The Purusha (Spirit), by his association with Prakriti
+(Nature), is not contaminated to the extent of losing his
+inherent spiritual quality, for then he would have become
+matter (Prakriti) and possessed of its attributes. On the
+other hand it is seen that by devotion to Me and reflection on
+the nature of Truth, the Purusha is released from the hold of
+Prakriti. Thus didst Thou teach Devahuti in Thy human
+descent as Kapila.
+
+fara frerrd-eaaea et
+wecanfied feerqamareny |
+efagiearar ava
+afroagiea @ tage erat: 1 4
+
+4, Having purified the mind through the control of the
+senses and having gained proficiency in sitting in the meditative
+posture, one should constantly meditate on My Divine Form
+as seated on the back of Garuda, as having bright bluish
+complexion like that of the Tamala tree, and as bearing divine
+decorations and weapons. Thus didst Thou teach Devahuti
+in Thy human descent as Kapila.
+
+Hy PTT eae: AAT
+
+Hf gufqa-reafaasate: |
+wafa Teaafen: at fe geatfasrat
+afroagielt @ tagger wat: M5
+
+5. By long practice of devotional disciplines like * hearing”
+and ‘hymning’ on My attributes, excellences and sportive
+activities, the devotee attains to the state of Para-bhakti
+(supreme devotion) in which the mind always flows naturally,
+without any external stimulation and in spite of all obstacles,
+towards Me in a continuous sree as the water ofthe Ganga
+
+the ocean. By such devotion one overcomes
+ae the Bie of Hie oral deaths). Thus didst Thou
+teach Devahuti in Thy human descent as Kapila.
+
+Wee agefeat-afaaa: gerd
+sfaherrayry Aire ATOTR |
+
+## Page 100
+
+52 NARAYANEEYAM: CANTO 15
+
+fafa fe Teaat aaa wea:
+atrengiea a fag amet: 6
+
+6. Alas! men spend their life in acquiring wealth by
+unfair and cruel exploitation for the support of their own
+families and in subservience to women’s charms and love of
+children. Being devoid of devotion to Me, their worldly
+attachment and evil ways lead them to hell. Thus didst
+Thou teach Devahuti in Thy human descent as Kapila.
+
+Jatasocfaal SraatetiscraTos
+seater: eatery area |
+Sate aa gears areas
+
+aftedgea a tage amt: 7 1
+
+7. Repeatedly entering the womb of woman for re-birth,
+the Jiva passes through severe trials. Though he retains
+the memory of the past in the womb, it is erased during the
+travails of birth. He then passes through the various impedi-
+ments of infancy and childhood, and when he enters the stage
+of youth, he is once again overcome by the infatuations of
+sense life. Thus didst Thou teach Devahuti in Thy human
+descent as Kapila.
+
+fagaorrarsit afar at race:
+aa facafa aie aferdita |
+
+ufa fafeqnart art gaara
+afiodgita ct tage area: 8 i
+
+8. A virtuous householder, making sacrificial offerings
+to Pitris and Devas, goes along the Southern Path of Smoke
+(to heavenly regions), and after having enjoyed the fruits of
+his good actions, comes back to human life. Those who do
+actions without self-centred desires, but merely as offerings
+unto Me, pass out of life along the Northern Path of Light
+leading to liberation. Thus didst Thou teach Devahuti in
+Thy human descent as Kapila.1

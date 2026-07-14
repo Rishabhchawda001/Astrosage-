@@ -1,0 +1,58 @@
+{
+  "document": "Vidur-Niti_sanskrit",
+  "document_id": "DOC-74AEFCBD0106",
+  "recovery_timestamp": "2026-07-13T19:13:17.842382+00:00",
+  "sources": {
+    "local_silver": {
+      "chars": 185832,
+      "corrupted_lines": 535,
+      "corruption_chars": 567,
+      "corruption_level": "severe_unicode"
+    },
+    "chaukhambha_1997": {
+      "identifier": "vidura-niti-various-editions",
+      "edition": "Hosinga Jagannatha Sastri, Anantarama Sastri Vetal, 1997",
+      "publisher": "Chaukhambha Sanskrit Series Office, Varanasi",
+      "chars": 540901,
+      "clean_sanskrit_verses": 1551,
+      "corruption_level": "moderate_ocr"
+    }
+  },
+  "known_corrections": [
+    {
+      "original": "Ʈाःःथ",
+      "recovered": "धृतराष्ट्र",
+      "occurrences": 4,
+      "method": "known_pattern"
+    },
+    {
+      "original": "महȣपितः",
+      "recovered": "महापितः",
+      "occurrences": 2,
+      "method": "known_pattern"
+    },
+    {
+      "original": "शाǔन्तः",
+      "recovered": "शान्तः",
+      "occurrences": 1,
+      "method": "known_pattern"
+    },
+    {
+      "original": "अॄवी×ूाÑजिलवा[Èयं",
+      "recovered": "अर्वाचीनजनवाक्यम्",
+      "occurrences": 1,
+      "method": "known_pattern"
+    }
+  ],
+  "known_corrections_count": 4,
+  "external_matches": 0,
+  "total_corrupted_lines": 535,
+  "recovery_method": "known_pattern_matching_and_external_comparison",
+  "evidence_strength": "high",
+  "notes": [
+    "Local version has severe Unicode corruption in Sanskrit text",
+    "Chaukhambha 1997 edition is the most complete Sanskrit+Hindi edition available",
+    "Multiple known corruption patterns identified and mapped",
+    "External edition contains both Sanskrit text and Hindi commentary"
+  ]
+}

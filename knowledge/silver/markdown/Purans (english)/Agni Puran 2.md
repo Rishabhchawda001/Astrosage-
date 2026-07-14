@@ -1,0 +1,20970 @@
+# Agni Puran 2
+
+
+## ANCIENT INDIAN
+
+
+## TRADITION & MYTHOLOGY
+
+
+## TRANSLATED BY
+
+
+## A BOARD OF SCHOLARS
+
+
+## EDITED BY
+
+Professor J. L. SHASTRI
+VoLUME 28
+
+
+
+## ANCIENT INDIAN TRADITION AND
+
+
+## MYTHOLOGY S E RI E S
+
+
+## VOLUMES
+
+
+## SIVA PURA\A 1-4
+
+LINGA PURAJ.':lA 5-6
+
+## BHAGAVATA
+
+
+## PURAN.A 7-11
+
+
+## GARUJ;>A PURAN.A 12-14
+
+
+## NARADA PURA\A 15-19
+
+
+## KORMA PURA]A 20-21
+
+
+## BRAHMAN.J;>A PURA\A 22-26
+
+AGNI PURAJ.':lA 27-28
+VOLUMES UNDEJl
+
+## PREPARATION
+
+
+## AGNI
+
+
+## BHAVI^YA
+
+
+## BRAHMA
+
+
+## BRAHMA VAIV ARTA
+
+
+## DEVIBHAGAVATA
+
+
+## KALIKA
+
+
+## MARKAN.J;>EYA
+
+
+## MATSYA
+
+
+## PADMA
+
+
+## SKANDA
+
+
+## VA MANA
+
+
+## VARAHA
+
+
+## VAYU
+
+
+## VI_N.U
+
+
+
+
+## THE
+
+
+## AGNIPURANA
+
+•
+
+## PART II
+
+
+## TRANSLATED AND ANNOTATED BY
+
+
+## N. GANGADHARAN
+
+
+## M O T ILA L BANAR SIDASS
+
+
+## • DELHI
+
+
+## U N E S C O
+
+•
+
+## PARIS
+
+
+
+
+## C MOTILAL BANARSIDASS
+
+Head Office: Bungalow Road, Delhi 110 007
+Branches: Chowk, Varanasi 221 001
+Ashok Rajpath, Patna 800 004
+6 Appar Swamy Koil Street, Mylapore,
+Madras 600 004
+
+## UNESCO COLLECTION OF REPRESI!NJ'ATIVE WORKS--
+
+Indian Series
+This book has been accepted in the Indian Translation
+Series of the Unesco Collection of Representative
+books jointly sponsored by the United Natiom
+Educational, Scientific and Cultural Organization
+(UNESCO) and the Government of India.
+All rights reserved. No part of this book may be reproduced
+in any form or by any means, without the written permission
+of the publisher.
+First Edition: Delhi, 1985
+
+## ISBN: 0-89581-818-3
+
+Printed in lndia by Shantilal Jain, at Shri Jainendra Press,
+A-45 Naraina , Phase I, New Delhi 110 028 and published by
+Narendra Prakash Jain for Motilal Banarsidass, Delhi 110 007.
+
+
+
+## PUBLISHER'S NOTE
+
+The Purest gems lie hidden in the bottom of the ocean or in the
+depth of rocks. One has to dive into the ocean or delve into the
+rocks to find them out. Similarly, truth lies concealed in the
+language which with the passage of time has become obsolete.
+Man has to learn that language before he discovers that truth.
+But he has neither the means nor the leisure to embark on
+that course. We have, therefore, planned to help him acquire
+knowledge by an easier course. We have started the series of
+Ancient Indian Tradition and Mythology in English Translation.
+Our goal is to universalize knowledge through the most popular
+international medium of expression. The publication of the
+Puriil).as in English Translation is a step towards that goal.
+
+
+
+## PREFACE
+
+The present volume contains the Agni PuriiT)a Part II (Chapters
+101 to 251) in English Translation. This is the twenty-eighth
+Volwne in the series on Ancient Indian Tradition and Mythology.
+The project of the Series was envisaged and planned in 1970
+by Lala Sundar Laljain of Messrs Motilal Banarsidass. Hitherto
+twentyseven volumes of the Series (comprising English trans­
+lation of Siva, Linga,Bhiigavata, Garur/.a, Niirada, Kurma, BrahmiiT)r/.a
+and Agni Part 1 ) have been published and released for sale.
+This Pura:Q.a, like most of the other Purii:Q.as, is of encyclo­
+paedic character. Like the first part, this part of the Agni Pura:Q.a
+contains topics of diverse nature. Nevertheless, there is unity
+under diversity. For example, Chapters 101-106 which open this
+part deal with the subject of architecture in relation to temple­
+edifice, house-building and town-planning. Chs. 1 07-108 des­
+cribe Svayambhuva creation and the Cosmographical account
+of the Universe. Chs. 109-1 1 6 deal with the sacred places of
+pilgrimage on the Ganges and Narmada as well as on the Srisaila
+mountain. Among the holy places, Vara:Q.asi, Pu}kara, Kuru­
+k}etra, Riijagrha, Prayiiga and Gayii figure prominently. Ch.ll7
+describes the mode of performing ancestral rites at these places.
+Chs. 1 1 8 to 120 are devoted to the description of Continents with
+special reference to Bhiirata, the sub-continent of Jambiidvipa.
+Chs. 121 to 149 relate to astrology and astronomy in relation to
+war. They also outline a nwnber of stratagems and tantric rites
+for running administration and gaining victory in
+war.
+From the study of these and other chapters on polity it appears
+that the statesman of the Agnipurii:Q.a is in favour of Imperial
+power to be vested in the Sovereign who is ambitious for world
+conquest. The ambitious monarch is asked to seek success from
+all quarters, specially from super powers such as Kubjikii, Cii­
+mu:Q.Qii, Aghorii and Varadii, these
+being the various forms of
+goddess Siva, the consort of Lord Siva.
+From these topics the Agnipurii:Q.a proceeds to the description
+of Manvantaras (giving names of Manus, sages, Indra for each
+
+
+viii
+Preface
+cycle of Manu), A§ramas (stages of life), Samskaras (purifica­
+tory rites) from birth to death (150-1 67). Chs. 168 to 174 re­
+late to atonements for various offences and expiations for sins.
+Chs. 1 75 to 207 describe religious vows-obligatory and occa­
+sional, some of which are not found in the Smrtigranthas. Chs.
+208-213 dwell upon gifts and corporeal austerities (Vratas)of
+pious nature. Ch. 214 describes the system of veins in the body and
+their functions. Chs 1 5-16 recount the mode of reciting Gayatri
+and its greatness. Ch. 21 7 contains Vasi11tha's prayer to lord
+Siva. Chs. 218 to 237 constitute discourse ofPu11kara to Vasi11tha
+on the king's coronation, appointment of assistants and the code
+of their conduct, fortification, kings' duties, policy, code of law,
+military expedition, omens presaging victory or defeat in war,
+six expedients, rites preceding the march of the army and a hymn
+to Lakŉ for success. Chs. 238 to 242 include Rima's discourse
+to Lak11mŊ on the eve of batde in Lanka, on the duties of the
+monarch, six expedients and four ways of policy and a harangue
+on king's statesmanship.
+From these topics the Agnipura:Qa proceeds to some miscella­
+neous topics such as the description of physiognomy of men and
+women (Chs. 243-244), royal fan, bow and sword (245), testing
+of gems (246), site for building (247), worship of Viŋ:QU (248),
+science of archery and the method of using a noose (249-251 ) .
+This wide range of subjects is most interesting and informative.
+The treatment of each topic comprising one or more chapters
+is lucid and unitary in expression and thought.
+
+## ACKNOWLEDGEMENT OF OBLIGATIONS
+
+It is our pleasant duty to put on record our sincere thanks
+to Dr. R.N. Dandekar and the UNESCO authorities for their
+kind encouragement and valuable help which render this work
+more useful than it would otherwise have been. We are extre­
+mely grateful to Dr. Gangadharan of Sanskrit
+Department,
+University of Madras, for his lucid translation of the text and
+exegetical notes. We are grateful to Dr. K. V. Sharma for trans­
+lating Chapter 1 22 on Pancanga: the Almanac and writing notes
+thereon. We also thank those persons who have offered sugges-
+tions for improving the work.
+
+## -EDITOR
+
+
+
+
+## CONTENTS
+
+
+## PART II
+
+
+## PREFACE
+
+vii
+
+## ABBREVIATIONS
+
+xv
+
+## CHAPTERS
+
+1 01 . Mode of consecration of a temple
+307
+
+## 1 02. Mode of consecrating the flag staff
+
+308
+
+## 1 03. Mode of repair of old or broken lizigas
+
+3 1 1
+
+## 104. General characteristics of a divine edifice
+
+3 1 3
+
+## 105. Mode ofworship of the presiding deity of a place
+
+3 1 6
+
+## 1 06. Vastu relating to Cities
+
+320
+
+## 107. The creation of Svayambhuva Manu
+
+322
+
+## I 08.
+
+Cosmographical account
+323
+
+## 1 09. The greatness of sacred spots
+
+326
+
+## 1 10. The greatness of Ganga
+
+328
+Ill.
+The Greatness of Prayaga
+329
+1 1 2. The greatness of VaraŮasi
+330
+1 1 3. The greatness of Narmada
+331
+
+## 1 14. The greatness of Gaya
+
+332
+1 1 5. Mode of making a pilgrimage to Gaya
+335
+
+## 1 16.
+
+Mode of making a pilgrimage to Gaya
+341
+
+## 1 17.
+
+Mode of performing the ancestral rites
+345
+
+## 1 18. The Country of Bhiirata
+
+350
+1 1 9. Description of different continents
+351
+
+## 1 20. The extent of the universe
+
+353
+1 2 1 .
+The Science ofJyoti}a (Astronomy and Astrology)
+356
+
+## 1 22. Paiiciiriga: The Almanac
+
+364
+
+## 123. Svarodaya cakra, Sanicakra, Kiirmacakra, Rahu-
+
+cakra
+370
+
+## 124. Essence of astrology as described in the Victory
+
+in battles
+372
+
+## 1 25. Different circles which get success in battle
+
+375
+
+## 1 26. Combinations of good and bad asterisms
+
+380
+
+## 1 27. The auspicious and inauspicious periods of the day
+
+based on certain combinations
+383
+
+
+
+## X
+
+Contents
+
+## 128. The Kotacakra-a drawing to forecast results
+
+385
+
+## 129.
+
+Guide-lines for storing and selling grains
+386
+
+## 130.
+
+Different spheres marked by astorisms indicating
+victory in battle
+387
+1 3 1 .
+Ghiitaka cakra, Naracakra, Jayacakra indicating
+failure or success in battle
+388
+
+## 1 32. Seviicakra and the indication of accrual of benefits
+
+390
+133
+Different traits in infants and combinations indi-
+eating success in battle
+392
+
+## 1 34.
+
+Sacred formula for the conquest of three worlds
+396
+
+## 1 35. Formula for success in battle
+
+397
+
+## 136. The diagram of asterisms indicating the period for
+
+undertaking a journey
+400
+
+## 137. The formula known as Mahiimiiri
+
+401
+
+## 138. The six accessory acts relating to all mantras
+
+403
+
+## 1 39. The names of sixty years ofHindu cycle and the good
+
+or bad results accruing from them
+404
+
+## 140. Description of herbs used in charms
+
+405
+
+## 141 .
+
+Description of herbs used in char'Ills, medicines
+407
+
+## 142. Description of medicinal incantations
+
+409
+
+## 143. Mode of worship of Goddess Kubjikii
+
+411
+
+## 144.
+
+Mode of worship of Goddess Kubjikii
+413
+
+## 145. Different Kinds of mantras and the rites of locating
+
+them.
+416
+
+## 146. Names of different Goddesses
+
+420
+
+## 147.
+
+Mode of worshipping the goddess Tvaritii and others
+423
+
+## 148.
+
+Mode of worship for success in the battle
+425
+
+## 149.
+
+Mode of performing Lak[a and Kotihoma
+425
+
+## 1 50.
+
+Names of different Manus, different sages and others
+during their period
+427
+1 5 1 . Duties laid down for different castes
+429
+
+## 1 52. Duties of a householder
+
+43 1
+
+## 153. Duties of a student
+
+432
+
+## 154.
+
+Rules of marriage
+434
+
+## 155.
+
+The Code of Conduct
+436
+
+## 156. Purification of things
+
+439
+
+## 1 57. Pollution and Purification
+
+440
+
+## 1 58.
+
+Kinds of pollution
+444
+
+## 159.
+
+The merits of libation and the performance of
+good deeds
+450
+
+
+Contents
+
+## XI
+
+
+## 1 60. Duties of a brahmin leading life in the forest
+
+452
+
+## 161 .
+
+Duties of an ascetic
+452
+
+## 162.
+
+Code of laws
+455
+
+## 1 63. Mode of performing a sraddha
+
+457
+
+## 164. Propitiatory rite for the planets
+
+461
+
+## 165. Code of Conduct
+
+463
+
+## 166. Duties of different castes
+
+465
+
+## 167. Propitiatory rite for the planets
+
+467
+
+## 168. Kinds of major sins
+
+471
+
+## 1 69. Atonements for various offences
+
+474
+
+## 1 70. Expiations for association with major sinners
+
+478
+1 71 . Description of certain subtle expiations
+482
+
+## 1 72. The hymn which destroys sins
+
+483
+
+## 1 73. Different expiations for different sins
+
+485
+
+## 1 74. Expiations for discontinuing the worship of gods
+
+490
+
+## 1 75. Rules and regulations relating to the Vows
+
+492
+
+## 176. Vows observed on the first lunar day
+
+497
+
+## 177. Vows observed on the second lunar day
+
+498
+
+## 178. Vows observed on the third lunar day
+
+500
+
+## 1 79. Vows observed on the fourth lunar day
+
+503
+
+## 180. Vows observed on the fifth lunar day
+
+504
+
+## 181 .
+
+Vows observed on the sixth lunar day
+504
+
+## 1 82. Vows observed on the seventh lunar day
+
+504
+
+## 1 83. Vows observed on the eighth lunar day
+
+505
+
+## 1 84. Vows observed on the eighth lunar day
+
+507
+
+## 1 85.
+
+Vows observed on the ninth lunar day
+509
+
+## 186. Vows observed on the tenth lunar day
+
+510
+
+## 1 87. Vows observed on the eleventh lunar day
+
+51 1
+
+## 1 88. Vows observed on the twelfth lunar day
+
+512
+
+## 1 89. Rules of observing SravŌadvadasi vrata
+
+513
+
+## 190. Mode of practising AkhaQ.r;ladvadaSi vrata
+
+514
+
+## 191 .
+
+Mode of practising vows on the thirteenth lunar day 515
+
+## 192.
+
+Vows to be observed on the fourteenth lunar day
+5 1 6
+
+## 193.
+
+Description of Sivaratrivrata
+5 1 7
+
+## 194. Details relating to the vows of Asoka PiirQ.ima
+
+518
+
+## 1 95. Vows relating to the weak-days
+
+519
+
+## 196. Vows relating to different asterisms
+
+520
+
+## 197. Vows performed on certain days
+
+522
+
+## 198. Vows performed in different months
+
+523
+
+## 199.
+
+Vows relating to different seasons
+524
+
+
+xii
+Contents
+
+## 200.
+
+Vow of giving a gift of a lamp
+525
+
+## 201.
+
+Mode of Worshipping Vi[:Q.u in a figure of nine
+527
+Compartments
+
+## 202.
+
+Different flowers used in worship
+528
+
+## 203.
+
+The nature of hell
+530
+
+## 204.
+
+Mode of practising the vow of fasting for stipulated
+months
+533
+
+## 205.
+
+Mode of performing the Blu[mapaficakavrata
+534
+
+## 206.
+
+Mode of offering water of libation to the Venerable
+sage : Agastya
+535
+
+## 207.
+
+Mode of performing Kaumuda vrata
+537
+
+## 208.
+
+Rules and regulations relating to vows and gifts in
+general
+538
+
+## 209.
+
+Rules relating to gifts
+539
+
+## 210.
+
+Sixteen great gifts
+544
+
+## 211.
+
+Different kinds of gifts
+546
+
+## 21 2.
+
+Gifts granting the desired fruits
+552
+
+## 213. Mode of making a gift of the earth and its benefits
+
+555
+
+## 214.
+
+The system of veins in the body and their benefits
+556
+
+## 215.
+
+Mode of reciting Gayatri and its greatness
+559
+2 1 6.
+Instructions relating to Gayatri
+563
+2 1 7.
+Vasi[tha's hymn to lord Siva
+564
+
+## 218.
+
+Mode of performing the Coronation of a king
+566
+
+## 219. Sacred syllables for the coronation
+
+569
+
+## 220.
+
+Accomplishment of assistance to the king
+573
+
+## 221 . Code of Conduct for the servants
+
+575
+
+## 222.
+
+Construction of forts
+576
+
+## 223.
+
+Duties of a king
+579
+
+## 224. Duties of a king in the harem
+
+581
+
+## 225. Duties of a King
+
+584
+
+## 226.
+
+Means of Conciliation
+587
+
+## 227. Code of Criminal laws
+
+588
+
+## 228.
+
+Instructions relating to military expedition
+594
+
+## 229.
+
+Significance of dreams
+595
+
+## 230.
+
+Inauspicious auguries
+597
+
+## 231 . Good and bad augures known from the sounds of
+
+animals and birds
+598
+
+## 232.
+
+Omens known from birds
+600
+
+## 233.
+
+Propitious periods for undertaking an expedition
+604
+
+## 234.
+
+Six expedients used by the King
+606
+
+
+Contents
+xiii
+
+## 235.
+
+Daily duties of a king
+608
+
+## 236 .
+
+Rites preceding the march of a king
+609
+
+## 237.
+
+A hymn to Lakᆆmi for success
+615
+
+## 238.
+
+Ethics narrated by Rama
+617
+
+## 239.
+
+Duties of a King
+618
+
+## 240.
+
+Six expedients used by a king
+622
+
+## 241.
+
+Four ways of policy : Conciliation etc.
+624
+
+## 242.
+
+Statesmanship for a king
+629
+
+## 243.
+
+Physiognomy of men and their indications
+635
+
+## 244.
+
+Characteristic features of women
+637
+
+## 245.
+
+Characteristics of the royal fan, bow and sword
+638
+
+## 246.
+
+Testing of gems
+640
+
+## 247.
+
+Characteristics of a Site for building
+642
+
+## 248.
+
+Benefit of worshipping lord Vigm with flowers and
+leaves
+644
+
+## 249.
+
+Science of archery
+645
+
+## 250.
+
+Science of archery
+647
+
+## 251.
+
+Method of using a noose
+649
+
+
+
+## ABBREVIATIONS
+
+Common and self-evident
+abbreviations
+such
+as Ch (s) ­
+Chapter(s), p--page,
+pp-pages, V-Verse, VV-Verses,
+Ftn-footnote, Hist. Ind. Philo-History of Indian Philosophy
+are not included in this list.
+
+## ABORI
+
+
+## AGP
+
+
+## AIHT
+
+
+## AITM
+
+
+## AP
+
+Arch.S.Rep.
+
+## AV
+
+Bd. P.
+
+## BG
+
+Bh. P.
+Br.
+
+## BS. P.
+
+
+## BV. P.
+
+cc.
+cvs
+
+## DB
+
+De or
+
+## GDAMI.
+
+Dh. S.
+
+## ERE
+
+
+## GP
+
+Annals of the Bhandarkar Oriental Research Institute,
+Poona
+S. M. Ali's The Geography of PuriiT)IJS, PPH, New
+Delhi, 1973
+Ancient Indian Historical Tradition, F. E. Pargiter,
+Motilal Banarsidass (MLBD) , Delhi.
+Ancient Indian Tradition and Mythology Series MLBD,
+Delhi.
+Agni PuriiT)a, Guru Mandai Edition (GM), Cal­
+cutta, 1957
+Archaeological Survey Report
+Atharva Veda, Svadhyaya Mandai, Aundh
+BrahmiiT)t/.a PuriiT)a, ( MLBD) , Delhi 1973
+Bhagauadgitii
+Bhilgauata PuriiT)a, Bhagavat Vidyapeeth, Ahmeda­
+bad
+BriihmaT)a (preceded by name such as Satapatha
+Bhaui,ya PuriiT)a, Vishnu Shastri Bapat, Wai.
+Brahma Vaivarta PuriiT)a, GM, 1955-57
+Caturvarga CintiimaT)i by Hemadri
+CaraT)a Vy uha Siitra bySaunaka; Com. by Mahidasa
+Devi Bhiigavata, GM, 1960-61
+The
+Geographical Dictionary of Ancient and
+Media­
+eval India, N. L. De, Orienta Reprint, Delhi, 1971
+Dharma Siltra (preceded by the author's
+name
+such as Gautama)
+Encyclopaedia of Religion and Ethics-Hastings.
+Garut/.a PuriiT)a Ed. R. S.
+Bhattacharya Chow­
+khamba, V aranasi, 1964
+
+
+xvi
+
+## GS
+
+
+## HD
+
+lA
+
+## IHQ
+
+
+## JP
+
+
+## KA
+
+
+## KP
+
+
+## LP
+
+Manu .
+Mbh.
+MkP
+
+## MN
+
+MtP.
+
+## MW
+
+
+## NP.
+
+
+## PCK
+
+Pd. P.
+
+## PE
+
+PR or
+
+## PRHRC
+
+ěv
+Sat. Br.
+SC or SMC
+
+## SEP
+
+AbbreviatirmJ
+Grhya Siltra
+(preceded by the name of the author
+such as Apastamba)
+HiJtory of Dharma SiiJtra, P. V. Kane, G. 0. S.
+The Indian Antiquary.
+The Indian HiJtorical Quarterly
+Puriir;za Uournal of the Kashiraj Trust) Varanasi
+Kautilya ArthasiiJtra
+K ilrma PuriiTJa, Venkatesvara Press
+Edt. Bom­
+bay, also Kashiraj Trust Edt., Varanasi 1971
+Linga Puriir;za, GM, 1960; also MLBD, Delhi, 1981
+ManUJmrti
+Mahiibhiirata, Gita Press, Gorakhpur, VS 2014
+Miirkar;zrjeya Puriir;za
+Mahiibhiirata Niimiinukramar;zi, Gita Press Gorakh­
+pur, VS 2016
+Matsya Puriir;za, G M, 1954
+Monier WilliamJ Sk. EngliJh Dictionary MLBD,
+Delhi, 1976
+Niiradiya or Niirada
+PuriiTJO,
+Venkatesvar Press,
+Bombay
+Bhiiratavar1iya Priicina Caritrakosa,
+Siddheshwar
+Shastri, Poona, 1968
+Padma PuriiTJO, GM, 1957-59
+Puranic Encyclopaedia, V. Mani, English, MLBD,
+Delhi,
+1975
+Puranic RecordJ on Hindu RiteJ and CUJtomJ
+R. C. Hazra, Calcutta, 1948
+Sg-Veda, Svadhyaya Mandai, Aundh
+Satapatha Briihmar;za
+Smrti Candrikii-Devanna Bhaga
+Studies in Epics and Puriir;zaJ, A.D. Pusalkar Bhara­
+tiya Vidya Bhavan (BVB), Bombay
+
+
+
+## CHAPTER ONE HUNDRED AND ONE
+
+Mode of consecration of a temple
+
+## The Lord said :
+
+
+## 1-5. I shall describe the mode of consecrating a temple.
+
+By that itself it would become permeated by the divine force.
+Mter the angular projection is completed, the preceptor should
+locate a pitcher made of gold or other metals at the middle
+of the eastern altar. It should be filled with the paiicagavya (five
+things got from a cow) , honey and milk. Five kinds of gems
+should be placed under (the pitcher) . (The pitcher) should be
+adorned with garland and cloth. It should be besmeared
+with fragrance. It should be decorated with fragrant flowers.
+The temple should be decorated with tender leaves of trees like
+mango etc. After having finished the accomplishing rite in his
+body, the preceptor should gather (his soul energy) with the
+breath drawn in. The preceptor should then convey to (lord)
+Sambhu (Siva) by his command with the exhalation of breath
+after the soul had been conceived as different from all the (other)
+souls with (the recitation of) its own mantra.
+
+## 6.
+
+Mter having gathered the same from the twelve-petalled,
+that one shining like a spark of fire, the beatific states should be
+located in the pitcher as laid down in the tantras.
+
+## 7.
+
+The image, its qualities, the beatific states, the letters
+upto kĎa and their lords and the collection of fundamental
+principles should be located.
+
+## 8.
+
+The ten niir/is (tubular organs of the body), ten vital
+winds and the thirteen sense-organs as well as their presiding
+deities (should be located) after having united the syllable om
+with their names.
+
+## 9.
+
+(The two fundamental principles of) illusion and univer­
+sal space which stand in
+relationship of cause and effect
+towards each other, the gods of learning who direct the pervad-
+
+
+'308
+Agni PuriiTJ.a
+ing (lord) Sambhu
+(Siva) (should also be located therein)
+with the (recitation of) mantras.
+10-12. After having located the accessories, the preceptor
+should prevent (the deity) from going away by showing the
+rodhamudrii (posture made with the fingers denoting restraint ) .
+Otherwise an image o f the god (should be' made) of gold or
+-other metals and it should be purified as before with the five
+things got from a cow etc. After having placed the pitcher on
+the bed and contemplating (lord) Rudra, the consort of Uma,
+(the lord) should be located in that (image) as the pervasive
+(lord ) . Oblation, sprinkling, touching and
+repetition
+(of
+mantras) (should be done) for accomplishing (lord's) stay therein
+permanently.
+
+## 1 3.
+
+After having completed thus the announcement of
+invocation in its three divisions, the preceptor should place the
+image in the pitcher.
+
+## CHAPTER ONE HUNDRED AND TWO
+
+Mode of consecrating the flagstaff
+
+## The Lord said :
+
+
+## 1 . 0 Skanda ! I shall describe (the mode of)
+
+consecra­
+tion of the pinnacle, the banner and the flag-staff relating to a
+temple as laid down.
+
+## 2.
+
+Either it should be half the depth of the tank or of the
+whole edifice. The banner-staff should be made of wood in the
+case of (a temple) built of brick and of stone in the case of that
+built of stone.
+
+## 3.
+
+In the case of a temple ofVi!?Q.U, the pitcher should have
+the mark of a disc and be proportionate to the image of the deity.
+If it is with a trident it is known as agracula (the tip of the top
+portion) .
+
+## 4.
+
+If the (mark of a ) linga is found on the top it is called
+fia.f ula (the banner-staff of Siva) . This kind (of flagstaff) is
+
+
+
+## 102.5-1 7
+
+309
+also found to be described in saivite texts a.s having the bijap uraka
+(of the shape of common citron)
+
+## 5.
+
+The coloured banner should be made to reach down to
+the half of the plinth (of the temple) , or to commensurate with
+its entire length, or of the same length with its rod, according to
+the option (of the consecrator) .
+
+## 6-7.
+
+That banner is known as the mahiidhvaja (great banner)
+which flaps around the platform of the edifice. The rod measur­
+ing fourteen, nine or six cubits in length should be known as the
+excellent etc. by learned men. A flagstaff made of a bamboo
+or of wood etc. yields all desires.
+
+## 8.
+
+A flagstaff breaking down in the middle at the time of
+planting the same augurs evil to the sovereign of the country
+or to the consecrator.
+
+## 9.
+
+It should be remedied by (the repetition of) the bahu­
+rupamantra. Then the guardian deities of the door should be
+worshipped and appeasement with the mantras (should be done) .
+10-12. Mter having placed the flagstaff, it should be
+bathed with (the repetition of) the mantra of the weapon. Mter
+having sprinkled the flagstaff (with water) with (the repetition
+of) the same mantra, the preceptor should then bathe (it) with
+herbal waters and make the divine edifice. After having smeared
+(the rod) with juice and laid on the bed as before, the location
+(of the mantras) (is done) in the flagstaff as in the case of the
+linga. But one should not locate the energies of knowledge and
+action. There is no need to use the fourth case (of inflection)
+indicating speciality. There is also no need for constructing an
+altar.
+13-14.
+Then the principle of artha (sense) , the second prin­
+ciple of knowledge and the faces (of Siva) such as Sadyojata
+etc. and the principle of Siva (should be located) in the flag­
+staff. Lord Siva, the indivisible, whose attendants have been
+located should be worshipped. Then oblations should be made
+with the vedic mantras for the sake of the presence of the flag­
+staff and ending with (the word) phal for every part of the flag­
+staff. The flagstaff is also consecrated in a different way.
+1 5-1 7. All about this has been described in the mode of
+
+
+310
+Agni PuriiTJ.a
+the astrayiiga. After the temple has been made, the bedstead anc\
+the quadrangle having been decorated at the (decided) place,
+and the three fundamental principles have been located therein,
+the oblations etc. should be offered and then (lord) Siva should
+be worshipped as before.
+1 8-22.
+After having meditated on (lord) Siva as the repo­
+sitory of all the principles, the all-pervasive god should be located
+{therein) . The (gods) Ananta (serpent chief) and K;Harudra
+(a form of lord Siva) should be considered as lying at the lotus
+feet, the (lords) Kuᆇma:t;1c;la and Hataka at the platform at the
+top of the plinth and the guardian deities along with the nether
+worlds, hells, other worlds and the hundred Rudras representing
+the cosmic egg having been contemplated should be considered
+at the plinth. Then (the preceptor) should contemplate the
+picture of a man on the cloth with a lion on the left along with the
+forty such as principles of water, lustre, and wind, that which is
+known as enclosing all things, the eight resultant of the intellectᆸ
+the eight kinds of yoga, and the three qualities ending with des­
+truction. The four (principles of) learning etc. (should be consi­
+dered) as located in the cornice of the temple.
+
+## 23. The (principle of) illusion along with (lord) Rudra
+
+(are located) in the neck, the learning in the threshold, the:·
+mystic circle, the master along with the lord of learning in the.
+(ornamental) pot above.
+
+## 24.
+
+It should be conceived as the matted hair and the cres­
+cent (on the top) as the trident (of the lord) . The three energies
+(should be located) in the flagstaff and should be looked upon
+(as permeated) with the sound.
+25-26.
+(The preceptor) should also conceive that the energy
+(known as) kuT)tf,ali is present in the banner. Thus (the different
+gods) should be conceived as present in that abode. After having
+lifted the linga along with its pedestal or with the earth (lying
+at its bottom) with (the recitation of) the mantras, it should be
+placed in its seat namely the lotus of energy after having placed
+the gems etc.
+
+## 27. After the banner staff has thus been fixed, the person
+
+for whom the rite is performed gets the desired fruits after cir-
+
+
+
+## 102.28-30-103. 1-5
+
+31 1
+cumambulating the edifice along with his relatives and friends.
+
+## 28. After having contemplated (the mantra) piisupata, along
+
+with the presiding deities of the mantras, the preceptor should
+invoke the presiding deities possessing the weapons for the sake
+of protection.
+
+## 29.
+
+After having made oblation for the removal of
+.defects of deficiency etc. and making offerings to the quarters,
+fees should be paid to the preceptor. The yajamiina (the person
+for whom the rite is done) would go to the heavens.
+
+## 30.
+
+Such a person would enjoy comforts for so many thou­
+sandyugas as the number of atoms in the structures of the image,
+linga and the altar.
+
+## CHAPTER ONE HUNDRED AND THREE
+
+Mode of repair of old or broken lingas
+
+## The Lord said :
+
+
+## 1-2.
+
+I shall describe the repairing of the lingas which have
+become old etc. as laid down. That one which is devoid of the
+characteristics, or broken or whose outlines have become blunt
+or that which is struck ·by lightning or cracked or broken or
+mutilated or damaged in any other way should be installed on
+its pedestal as also its bull.
+
+## 3-5.
+
+The lingas which have been shaken (from their position)
+or which . have become unsteady or which have
+been
+slantingly fixed or which lean towards a particular direction or
+those which have been fixed exactly at the centre (of the temple)
+should be re-installed (in their places) if they are devoid of any
+cracks or if they have been washed by floods of river water etc.
+A linga of Siva duly reinstalled at a different place as laid down
+should not be removed whether it has been perfectly fixed or
+improperly fixed.
+
+
+312
+Agni PuriiT)a
+
+## 6.
+
+A linga should be established by (offering) a hundred
+(oblations) and be removed by (offering) a thousand (oblations) .
+If the linga is worshipped, it would set right even the old ones.
+7;
+After having erected a sacrificial shed either in the south­
+ern part or in the north-eastern part of the ground and an arch
+on the door on the western side and completed the worship of
+the guardian deities, worship with the mantras (is done) on the
+(sacrificial) ground.
+
+## 8-10. Mter having appeased with the mantras and worshipp­
+
+ed the presiding deities of the ground as before and made
+offerings for the quarters outside, the preceptor should sip waters
+(thrice) . After having fed the brahmins, (lord) Sambhu (Siva)
+should then be informed, "0 (lord) Sambhu ! This linga is
+defective and is to be removed. 0 (lord) Siva graciously take
+thy seat in myself for a while if it pleases you". Mter having
+submitted to the lord thus one should offer oblation of appease­
+ment.
+1 1-12.
+(The preceptor) (should offer) one hundred and
+eight oblations with honey, clarified butter, milk, and durvii
+(a kind of grass) . Mter having established the linga, it should
+be worshipped on the ground then. (The Siva mantras for the
+worship are (as follows) : "Om, to the all-pervading etc." "Om,
+obeisance to the lord of the heart, the pervading." The anga
+mantras (those for assigning on the different parts of the body)
+are "Om obeisance to the pervading lord, to the head." etc.
+Then the principle abiding therein should be addressed with the
+mantras of the weapon.
+13-17.
+(Then the preceptor should say as follows) : "Which­
+ever good spirit that is lodged in this linga may go to its place of
+liking after leaving this linga by the command of (lord) Siva.
+(Lord) Bhava (Siva) being attended to by the learning and the
+presiding deities of learning would remain here." Then having
+made thousand oblations for each one of the (three) parts with
+the piiSupata mantra, sprinkled waters of appeasement and
+touched with the kula, (the preceptor) should repeat (the man­
+tras) . After having offered the arghya (waters for washing) in
+the reverse order to the (fundamental) principles and to the
+presiding deities of the principles, the preceptor should bid fare­
+well to the presiding deities of the eight manifestations (of lord
+Siva) located in the linga and the pedestal by binding them with
+
+
+
+## 103.18-22--104.1-3
+
+313
+a golden noose placed on the shoulders of the bull and leading
+them with the repetition of the mantras of (lord) Siva and should
+put it in the waters. Then the preceptor should offer hundred
+oblations in order to confer prosperity.
+1 8-22. One hundred oblations each (should be offered) to
+satisfy the presiding deities of the quarters and for the purifica­
+tion of the sacrificial ground. Mter having laid protection for
+that building with the (repetition of the mantra of) piisupata wea­
+pon, the preceptor should establish another linga therein as laid
+down. (Lingas) established by demons, sages, brahmins belong­
+ing to the clan of renowned sages and those well-versed in the
+Tantras (class of literature dealing with magic and mystic formu­
+lations for the worship of different deities) should not be removed
+even as laid down, even though they may be old or broken.
+This is the procedure to be followed for replacing an old edifice.
+Mter having located the collection of mantras on the sword ano­
+ther edifice should be made. If (the edifice is) made less spacious
+it is said to confer death (on the consecrator) and if made too­
+spacious it would cause loss of wealth. Whether the same mate­
+rials (are used) or better materials it should be done well to be·
+of the same measure as before.
+
+## CHAPTER ONE HUNDRED AND FOUR
+
+General characteristic of a divine edifice
+
+## The Lord said :
+
+
+## I.
+
+One who has peacock on the banner ! I shall describe
+you the general characteristics of a divine edifice. In a ground
+divided into four parts, the breadth of the walls should comprise
+a part.
+
+## 2.
+
+The adytum should be one-seventh of this. The pedes­
+tal (should be) a quarter of its extent. The pedestal should
+occupy the central part of the ground divided into five parts.
+
+## 3. The aperture and the wall should be one part each. Two.
+
+adytums in two parts is medium. One adytum in two parts is.
+excellent.
+
+
+314
+Agni Purii1)a
+
+## 4-6.
+
+According to some the vault of the adytum should
+occupy three such parts and the walls the rest. In the case of a
+plot divided into six parts the walls (should comprise) one such
+part. The breadth of the adytum (should be) one part and that
+of the pedestal two parts. The height of the temple (should be)
+double or greater than twice (the breadth) by a quarter or in
+certain cases triple (that of the breadth) . Sometimes it would
+be half the breadth or one-third of( the entire area of) the ground.
+
+## 7.
+
+The (inner) circumference (of the vault would be) a
+quarter less than the area of the temple. The outer circumference
+(would be) a third of it. Small chariots should be got ready at
+the centre.
+
+## 8-9. Lords
+
+Camul).<;la,
+Bhairava and Natyesa (different
+.forms of Lord Siva) should be placed in them. Images of eight
+-or four deities should be made outside to surround (the main
+temple) and they should occupy half the space of the temple.
+They may or may not be within the temples. The (images of)
+.Adityas (the 1 2 suns, progeny of Aditi and Kasyapa) should
+be placed at the east. The (images of) Skanda and Agni (should
+be placed) in the north-west.
+
+## 10. In this way, images of Yama (lord of death) and other
+
+deities should be placed in the respective directions over which
+they preside. After having divided the pinnacle into four parts,
+the region of the vault (should be made to comprise) two such
+parts.
+1 1-13. The top platform of (god of) fire should be in the
+third part. The flat cushion (should be placed above
+that)
+with a cornice. The five (classes of temples) are vairaja, pĤ­
+paka, kailasa, ma1)ika and trivi?tapa (characterised by structures
+of different shapes) built over the top platform. The first (am6ng
+the above) is a square, the second one a rectangle, (the third one)
+circular, the next one oval and the fifth one is octagonal. Each
+one of these is divided into nine (thereby) giving rise to forty­
+five divisions.
+14-15. The temples belonging to the vairaja class are-the
+.first one meru, mandara the second one, vimana, bhadra, sarvato­
+bhadra, caruka, nandika, nandivardhana and srivatsa.
+16-1 7.
+The nine temples belonging to the pĤpaka (class)
+are valabhi, grharaja, siilagrha, mandira, visiila, brahmamandira,
+bhavana, prabhava and sibikavesma. The circular shaped temples-
+
+
+
+## 104. 18-3 1
+
+315
+,valaya, dundubhi, padma, mahiipadma, varddhani, Ujt;liÛa, sankha,
+kala!a and khavrkÛa belong to the kailiisa class.
+1 8-2 1 . The nine-gaja, vrÛabha, hamsa, garutmiin, rkÛaniiyaka,
+bhuÛar;za, bhudhara, srijaya and Prthividhara are oval-shaped and
+belong to (the class called) mar;zika. Vajra, cakra, svastika, vajra­
+svastika, citra, avastika-khatfga, gada, srikar;ztha and vijaya are the
+names of those which belong to triviÛtapa (class) .
+
+## 22.
+
+These are the names given to the towns of Latas etc.
+The top portion should be half the height of the neck and propor.;.
+tionately broad.
+
+## 23. After having made the top platform into ten parts,
+
+the breadth of the shoulder portion (should be made to comprise)
+five parts. The neck portion should be made (to comprise)
+three parts, and the pracar;ztfaka (? ) should be four such parts.
+
+## 24.
+
+The doors should be made so as to face the cardinal
+,points and never on the intermediate points. The pedestal
+should extend to two corners (of the temple) and to the middle
+part of the adytum.
+
+## 25. Sometimes (the pedestals) extend upto the fifth part of
+
+the adytum from the posterior edge thereof, their height being
+double of their length. A different type (of construction) is
+described now.
+26-30.
+Four doors should be made so as to measure ten fin­
+gers less than one hundred and sixty fingers known as the uttama
+(excellent ones) . Three (doors) would be of the madhyama
+(middle) order and three (doors) of the kaniyasa (inferior ones) .
+The breadth (would be) equal to half the height or height grea­
+ter than (the breadth) by a third part. The height may be four
+or eight or ten fingers more. The breadth may be a fourth (part)
+·Of the height. There should be ornamental indents on the thres­
+hold. It has been stated that the breadth of all of them (should
+be) half the breadth (of the doors) . The door with two, five,
+seven or nine ornamental indents confers the desired . (fruit) .
+Two warders should be carved in the doorframe to occupy
+a
+quarter part of the latter below the lower (ornamental) branch.
+The ends of the (ornamental) branches should be decorated with
+(the images) of the fairy twins.
+
+## 31 .
+
+(In a temple) if the post has been encroached (the
+.consecrator) would be a slave and if the tree has been impeded
+
+
+3 1 6
+Agni PuriiT)a
+in its growth it would confer poverty, if it has encroached on a.
+well at the gate it portends fear and if it protrudes over the
+ground (it augurs) loss of wealth.
+
+## 32.
+
+If it has encroached a thoroughfare it would get capti-·
+vity (for the consecrator) . One would get poverty if the temple
+had been built to make the hall (in front) as narrow. If it obs­
+tructs the va'T)a (? ) it will make one deformed.
+33-34.
+If a mortar causes an obstruction it would give po­
+verty. If a stone-block causes obstruction it would cause enmity.
+If it is shadowed (by some other building) it gives poverty.
+There will not be defects of obstruction (in the following cases)
+-by felling a tree, uprooting (of stone) or by leaving interven­
+ing space equal to twice that of the original compound.
+
+## CHAPTER ONE HUNDRED AND FIVE
+
+Mode of worship of the presiding deity of a place
+
+## The Lord said :
+
+I . The presiding deity of the ground should be worshipped
+in (a mystic diagram) of eightyone squares for the prosperity
+of a city, village, fort, house or temple and their definite accom­
+plishment.
+
+## 2-4.
+
+I shall narrate the names of the ten occult nerves
+which face the east. (They are) siintii, ya!ovati, kiintii, visiiliiҬ
+priiT)avahini, sati, vasumati, nandii, subhadrii and manoramii. (The
+following occult nerves) are remembered in the north in twelve
+of the eighty-one squares-hariT)i, suprabhii, lakfmi, vibh uti, vimalii,.
+priyii, jayii, jviilii and visokii.
+
+## 5.
+
+(Gods) Isa and others should be worshipped in the eight
+directions. (Gods)
+isa, Dhanafijaya, Sakra (Indra) , Arka.
+(Sun), Satya (truth) , Bhrsa
+(strong)
+and Vyoma (sky)
+(should be worshipped) in the east.
+
+## 6.
+
+(Gods) Havyavaha (fire), Piiᆇan, Vitatha, (untruth) ,
+Bhauma (Mars) , Krtfmta (god of death) , Gandharva (a semi­
+divine being), Bhrnga and Mrga (should be worshipped) in
+the south.
+
+
+
+## 105.7-17
+
+317
+
+## 7.
+
+The Pitrs, the door-keepers,
+Sugriva,
+Puᆇpadantaᆶ
+Varuᆌa, Daitya (demon) , Seᆇa (the serpent-god) , and yakᆇman
+(consumption) (should be worshipped) always in the west.
+
+## 8. The diseases, the serpent-chief, Bhallata, fortune, Aditi,
+
+and Diti should occur: six half squares. (God) Brahma should
+be worshipped in the nine squares (at the centre) .
+
+## 9-10.
+
+(God) known as AYA (should be worshipped) in the
+two north-eastern squares of
+Brahma.
+(God) known as
+Apavatsa (should be located) in the six squares below that
+between the central points.
+(God) Savita should occupy
+two squares in between those of Marici and Fire-god. (God)
+Savitri should occupy two places below that and (God) Vivas­
+van six places below that.
+
+## 11.
+
+{One should worship) (the gods) , Viᆇᆌu, Indra, Jaya
+and the moon in the squares belonging to Pitrs and (lord)
+Brahma. (The god) Mitra should be worshipped in the six squa­
+res in between those of (gods) Brahma and Varuᆌa.
+
+## 12.
+
+The attendant of (god) Rudra (should be worshipped)
+always in the ten (squares) in between those of the diseases and
+(god) Brahma. (The disease) yakrman (consumption) (should
+be worshipped) in the two squares below that and dhariidhara
+in the six squares on the north.
+
+## 13.
+
+(The demonesses and demons) Caraki, Skandavikata
+Vidari, Piitana, Jambha, Papa and Pili-piccha should be wor­
+shipped outside in the directions of north-east etc.
+
+## 1 4.
+
+There should be eightyone divisions of squares (in the
+case of a site relating to) a house. The same should be one hund­
+red divisions (if it relates to) a (temple) pavilion. As before,
+the gods should be worshipped. (Lord) Brahma (should be
+worshipped) in the sixteen squares (at the centre) .
+1 5-16.
+(The gods) Marici, Vivasvat, Mitra and Prthvi­
+dhara should be (worshipped) in ten squares in the (four) direc­
+tions. Diti, isani, Mrga, Mukhya, Pitrs, Papa (spirit of sin),
+yakᆷman (consumption) and fire-god should be (worshipped)
+in one and a half square each in the (eight) directions north­
+east etc.
+
+## 1 7. 0 Guha (Kumara, son of Lord Siva and Parvati) !
+
+I shall briefly describe the measures (of different forms of
+temples) in order. It should measure twentyeight cubits in
+length and twentyeight cubits in breadth.
+
+
+'31 8
+Agni PuriiT)a
+
+## 1 8.
+
+The entire circumference would measure twenty-two
+cubits. The width of the wall would measure nine. The above
+measures would hold good in the case of pavilions known as
+siviisraya, siviikhya, rudra-hina and sadobhaya.
+
+## 1 9.
+
+(The pavilions of) the Savitra class would measure
+eighteen cubits in length and fifteen in breadth, and the width
+of the walls would be made equal to a thirtieth part of the above.
+
+## 20. The height of the walls above the plinth would measure
+
+thrice the width thereof. The ground elevation of manifold
+kinds depending on the passages should be in a same line with the
+foot of the wall.
+
+## 2 1 . In the Bhadra (type of temples) there should be passages
+
+(on all sides) except at the front. There should be a passage at
+the entrance. The Sri jaya (class) would be devoid of the hinder
+(passage) . If there are no passages on the sides it is Bhadra
+class.
+
+## 22. The passage (should be) as wide as the adytum or
+
+half of it. The supplementary passage (should be) half (that) of
+the (main) passage and should link one, two or three chambers.
+
+## 23. I shall describe the common features of the temples
+
+which would confer all the desires (on the consecrator) . (It
+should have) one, two, three, four or eight rooms in order.
+
+## 24.
+
+In a temple having one room the southern part should
+face the north. If there are two, one of them should have its
+western part facing the east. If there are four rooms there should
+be one room each as stated above facing the north and east res­
+pectively.
+
+## 25. If it faces the west it is known as Siva, the east (it is
+
+known as) Yamasuryaka, the east and north (it is known
+as)
+Da\}c;la, and the east and south (it is) known as Vata.
+
+## 26.
+
+If it .faces the west and north it is called Bali. That
+which is (known as) the TrisUla will get destruction of wealth.
+A house devoid of its eastern wing will be Sukᆇetra which con­
+fers prosperity.
+
+## 27.
+
+One devoid of southern rooms is (known as) Suli.
+That are having three rooms confers excessive prosperity. The
+building without any room on the west destroys the progeny
+-of the consecrator) and also creates many enemies.
+28-29.
+I shall describe the eight chambers commencing with
+the east (known as) dhvaja etc. The washing and fragrance
+
+
+
+## 1 05.30-38
+
+319
+chambers as well as the kitchen (should be) on the south-east.
+The parlour and bed chambers (should be) in the south.
+(The
+chamber) for bows and weapons (should be) at the south-west.
+(The chamber) for costly articles (should be) at the west.
+(Room) for articles of perfume (should be) at the north-west.
+
+## 30.
+
+(The chamber) for wealth and cattle should be made in
+the north. The excellent place for initiation (should be) on the
+north-east. The building (should be made) according to (a
+standard)
+measured with the consecrator's hand
+and co­
+extensive with the pedestal.
+
+## 3 1 . The cubit measures should be tripled and then divided
+
+by eight. Then the remainder should (be the measure) of the
+dhvaja etc. upto the end of vayasa.
+
+## 32. A building (raised on) the second, third, fourth, sixth,
+
+seventh and the eighth (parts of the ground) as well as in the
+middle and end will be ruinous.
+
+## 33. Hence, the divine edifice built on the ninth part is deemed
+
+to be auspicious. The pavilion built at the cenJ:re thereof having
+a breadth equal to or twice the breadth (of the edifice) is com­
+mendable.
+34-38. Eight rooms each should be built on the east, west,
+north and south. The effects of these from east onwards are
+respectively (described) . Fear, association with woman, victory,
+prosperity, fame, righteousness, strife and poverty are the eight
+effects of the door on the east. The eight effects of the door on
+the south are conflagration, unhappiness, annihilation of friends,
+loss of property, death, (gain of) wealth, becoming a sculptor
+and (birth of) children. Long life, banishment, grains, wealth,
+peace, destruction of wealth, emaciation, enjoyment, progeny
+are the effects of the door on the west. Illness, intoxication
+affliction, prominence, wealth, longevity,
+intelligence
+and
+honour are the effects of the door on the north.
+
+
+:320
+Agni Purii1Ja
+
+## CHAPTER ONE HUNDRED AND SIX
+
+Viistu relating to Cities
+
+## The Lord said :
+
+
+## 1. I shall describe the viistu (worship of the presiding deity)
+
+relating to a city for the prosperity of the kingdom. Land mea­
+surmg eight miles or half of it or a quarter of it should be set
+apart.
+
+## 2. After having worshipped the presiding deity of the city,
+
+enclosure should be made ready in the thirty squares of lord lsa
+(Siva) and others. The eastern gate (should be) on that of
+(lord) Sun.
+
+## 3. The southern (gate) should be (raised) on (the squares)
+
+<>f the gandharvas (semi divine beings) while the western one
+(should be raised) on that of (lord) Varm).a. The northern gate
+(should be) made on that of (lord) Soma. The low-roofed
+chambers should be made extensive.
+
+## 4.
+
+The doors should be six (cubits wide) so that the ele­
+phants and other (animals) could easily pass through. A city
+should never be founded (on grounds) far away from one an­
+<>ther, or of shape of the crescent moon or hypotenuse (of the
+plot) broken.
+
+## 5.
+
+(A city of the shape) of the face of a vajrasiici (diamond
+needle) or having two or three easy ways is not favourable. The
+frontage of a city resembling (the shape of) a bow or vajraniiga
+is beneficiary.
+
+## 6.
+
+After having
+worshipped (the gods) ViᆇI).u,
+Siva,
+Sun and others and bowing down, the
+founder
+(of a
+city) should make the offerings. The goldsmiths and blacksmiths
+should be provided for at the south-eastern quarter of the city.
+
+## 7. The houses of professional dancers and
+
+courtesans
+(should be located) in the southern quarter. (The houses) of
+actors, potters and fishermen (should be located) in the south­
+western quarter.
+
+## 8.
+
+(Space) should be (set apart for) war-chariots, weapons
+and swords in the western quarter (of a city) . Distillers ofliquor
+and those engaged in the service (of the state) (should be located)
+in the north-western quarter.
+
+
+
+## 106.9-1 9
+
+32 1
+
+## 9.
+
+Brahmins, ascetics and holymen (should be provided
+for) in the northern quarter. Those who sell fruits and other
+.articles and merchant community in general should be located
+in the north-eastern quarter.
+
+## 10. The commanders of army (should be given quarters)
+
+in the eastern quarter. Different regiments of the army (should
+be provided) in the south-eastern quarter. The officers who
+.attend upon the ladies (should have their residence) in the
+southern quarter. Royal camps should be located in the south­
+western part.
+
+## 1 1 .
+
+The chief ministers, treasurers and architects (should
+be located)
+in the western direction.
+Men of judiciary
+belonging to the clan of brahmins and eminent men (should be
+located) in the northern part.
+
+## 12. The military men (should be located) in the southern
+
+part, the tradesmen and sildras (fourth class of men) in the wes­
+tern part. The physicians (should be provided with quarters)
+in all directions and horses and army should be placed in all
+quarters.
+
+## 1 3 . The movable class of lingas (should be placed) in the
+
+east and the cremation ground in the south. Cattle-sheds (should
+be located) in the western part and farmers in the northern part.
+
+## 1 4.
+
+Foreigners should be located in the angular points.
+This should be observed even in small villages. Those who see
+(the goddess) Lakᆇmi and Kubera at (each side of) the eastern
+gate-way (of the city) obtain prosperity.
+
+## 15. The temples of gods (should be established) in the west­
+
+ern part facing the east. (The divine edifices should) face to­
+wards the west and north respectively in the east and the south.
+16-1 7. The temples of gods Brahma, isa
+(Siva)
+and
+ViᆇI}U (should be built in the city) for the protection of the city.
+A city, a village, a fortress or a house not having a (guardian)
+deity will be swallowed by the goblins etc. and becomes infect­
+ed by diseases. The cities protected by deities confer victory,
+enjoyment and emancipation.
+
+## 18. The treasure-house should be in the east, the kitchen in
+
+the south-east, the bed-chaml::ier in the south and the arsenal
+on the west.
+
+## 1 9.
+
+The dining (chamber) (should be) in the western part,
+
+
+322
+Agni PurlbJ,a
+the granary in the north-west, store-house in the north and the
+chamber for the deities in the north-east.
+20-23. The palaces may have four chambers or three or
+two or one. In the case of palaces having four chambers there
+are two hundred and fiftyfive subdivisions based on the terraces
+in front of the buildings, whereas those having three chambers
+(will have) four (sub-?ivisions) and those having two chambers
+(will have) five (sub-divisions) and those having one chamber
+(will have) four. The terraces should number twentyeight
+both in a house and city or they should be four, seven, fiftyfive,
+six, twenty-eight or eight only.
+
+## CHAPTER ONE HUNDRED AND SEVEN
+
+The creation of Sviiyambhuva Manu
+
+## Fire-god said :
+
+
+## 1-3. I shall describe the different worlds, the earth and the
+
+continents. King Priyavrata had ten sons Agnidhra, Agni­
+bahu, Vapuᆆman, Dyutiman, Medha, Medhatithi, Bhavya,
+Savana, Jyotiᆆman, and Satya. The father gave them seven
+continents as follows: He gave Jambudvipa to Agnidhra and
+Plakᆆa to Medhatithi.
+
+## 4.
+
+He gave (the continent of) Salmala to Vapuᆆman,
+(continent) Kusa to Jyotiᆆman, continent ofKraufi.ca to Dyuti­
+man and (continent of) Saka to Bhavya.
+
+## 5. He gave Puᆆkara to Savana. What Jambudvipa was
+
+given to Agnidhra by his father (was divided by him and given
+to his sons) . He gave (the country) called Hima to Nabhi.
+
+## 6.
+
+(He gave) Hemakuta to Kimpuruᆆa, Naiᆆadha to Hari­
+varᆆa, central Meru to Ilavrta, Nilacala (Nila mountains) to
+Ramya.
+
+## 7.
+
+(He gave) Svetavarᆆa to Hira:r;tvat, Kuru to Kuru,
+Bhadrasva to Bhadrasva, western (countries ) to Ketumala.
+
+## 8.
+
+The king having established the sons of Priyavrata (in
+the regions) ofMeru, went to the forest. After having performed
+penance, he reached god Hari.
+
+
+
+## 107.9-1 8- 108. 1
+
+323
+
+## 9. 0 Foremost among beings I the eight countries Kim­
+
+puruᆇa and others by nature abound in happiness and felicity
+and have natural perfection.
+
+## 10. There is no fear of old age or death,
+
+(adherence
+or
+non-observance of) moral obligations relating to yuga periods,
+or lower or middle class of beings in (the country) ofHima.
+
+## 1 1 . :B..ᆇabha was born to Nii.bhi through Meru. Bharata
+
+was born to :B..ᆇabha. After having entrusted the kingdom to his
+son, :B..ᆇabha resorted to Sii.lagrama and attained Hari.
+
+## 12. The country was called
+
+Bhii.rata after the name
+Bharata. Sumati was born to Bharata. Bharata resorted to
+Sii.lagrii.ma (to worship) Hari after entrusting his kingdom (to
+his son ) .
+
+## 1 3.
+
+He became a yogin (on practising yoga) . I shall des­
+cribe his life later at the time of narration of yoga. From Sumati,
+Tejas (was born ) . Indradyumna was born from him.
+14-15. ParameHhi was born from him and Pratihii.ra was
+born then. Pratihartii. (was born) from Pratihii.ra and then
+Bhuva, Udgitha and Prastii.ra from Pratihartii.. Vibhu was the
+son of Prastara. Then (was born) Prthu and Nakta. Gaya
+was the son of Nakta.
+
+## 16. Nara was the son of Gaya. Then Virat was his son.
+
+Mahavirya was the son ( ofVirat) . Dhiman was born to him.
+
+## 1 7.
+
+Mahiinta was his son. Manasya was his (Mahanta's)
+son. (Then ) Tvaᆇta (was born to him) . Viraja (was born)
+to Tvaᆇta. Raja was his son.
+
+## 18. Satyajit (was born) to Raja. 0 Sage ! one hundred
+
+sons were born to him. They were the lights of the universe.
+The (country of) Bharata was well-developed by them. The
+creation of the Svayambhuva (Manu) was remembered (so far)
+relating to Krta and Treta (yugas) .
+
+## CHAPTER ONE HUNDRED AND EIGHT
+
+Cosmographical account
+
+## Fire-god said :
+
+I . The seven continents are Jambii, Plakᆇa,
+Salmaliᆵ
+Kusa, Krauiica, Saka and Puᆇkara.
+
+
+324
+Agni Purii'f)ll
+
+## 2. These continents are surrounded
+
+by
+seven oceans
+namely, Lavai;ta (salt) , Ikᆇu (sugarcane juice), Sura (nectar) ,
+Sarpiᆇ (clarified butter) , Dadhi (curd) , Dugdha (milk) and
+Jala (water) of even proportions.
+
+## 3. The Jambiidvipa (continent of Jambii) is situated at
+
+the centre of continents. The Men.i mountain which is the
+kind of sixteen mountains towers majestically extending to eighty­
+four (yojanas) .
+
+## 4.
+
+The mountain rises to thirtytwo thousand (yojanas)
+.above (the earth) and spreads to sixteen thousand (yojanas)
+under the earth. Its peaks are in the shape of a pericarp of a
+lotus.
+
+## 5. Himavan, Hemakiita and Niᆇadha are in the southern
+
+part. Nila, Sveta and Srngi are the var?aparvatas (boundary
+mountains) in the northern part.
+
+## 6. Two of the above (mountains) extend to two lakhs
+
+(yojanas)at their middle, while the others are ten thousand (yoja­
+nas) less. Their altitude is two thousandyojanas and they have
+an equal breadth at the base.
+
+## 7. 0 Twice-born one ! Bharata is the first
+
+mountain.
+Kimpuruᆇa is known as the next one. Harivarᆇa is the next one
+to the south of Meru.
+
+## 8.
+
+Ramyaka, Hirai;tyaka and U ttara Kuru are in the north
+just as the Bharata (in the south) .
+
+## 9. 0 Excellent sage ! Each one of them is nine thousand
+
+(yojanas) in their extent. Ilavrta is at the middle. Meru rises
+up from the centre with its golden peak.
+
+## 1 0.
+
+0 Fortunate one ! Ilavrta spreads to nine thousand
+(yojanas) all around Meru. There are four mountains here.
+
+## 1 1 .
+
+They are beams of support for the Meru, each one
+extending to one lakh (yojanas) . (Among these) the Mandara
+(mountain) is in the east and the Gandhamadana is in the south.
+12-13. The Vipula (mountain) is in the west and the
+Supar8va (mountain) is in the north. The Kadamba, Jambii,
+Pippala and Vata are the trees in these extending to eleven hund­
+red (yojanas) (serving as) their banners. Jambiidvipa gets its
+.appellation on account of the Jambii fruit of the size of an ele­
+phant.
+
+## 14. The waters of the river Jambii deposit the golden ores.
+
+
+
+
+## 1 08. 15-27
+
+325
+The Suparsva (mountain lies) on the east of Meru and the
+Ketumala (mountain) on the west.
+
+## 15. The forest of Caitraratha (lies) on the east, Gandha­
+
+madana on the south, Vaibhraja ·on the west and Nandana on
+the north. (I shall describe) the lakes herein.
+
+## 16.
+
+IThey are) Arm.1oda, Mahabhadra, Sitoda, Manasa,
+Sitambha, Cakra and Muiija. The mountains known as Kesara­
+cala1 are in the east.
+1 7-18. The mountains (called)
+Trikiita 2
+(group)
+lie
+on the south. The Sikhivasa3 (group) (lie) on the west. The
+Sarikhakiita4 (group) lie on the north. The abode of lord
+Brahma is on the Meru (mountain) extending to fourteen thou­
+sand yojanas above. (The abodes) of Indra and other guardian
+deities are around the abode of Brahma.
+
+## 19. The river Sita, after falling from the feet of (lord)
+
+ViᆇI).U, washes the lunar region and falls from heavens on the
+east (on the Bhadrasva mountain) . It falls from Bhadrasva on
+the hills below successively and reaches the ocean.
+20-2 1 . Similarly, (the river) Alakananda flows in
+Bha;,
+rata through the south and reaches the ocean after dividing
+itself into seven branches.
+(The river) Cakᆇu reaches the ocean on the west. So also
+(the river) Bhadra (passes through) the U ttara Kuru (country)
+and reaches the northern ocean. (The mountains) Malyavat
+and Gandhamadana extend upto the Nila and Niᆇadha (moun­
+tains in the north and south respectively) .
+22-27. The Meru (mountain) lies in between them in the
+shape of a lotus. (The countries) Bharata, Ketumala, Bhadrasva,
+and Kurus situated outside these boundary mountains are the
+petals of this lotus of the world. The two boundary mountains
+Jathara and Devakiita extend upto the Nila and Niᆇadha moun­
+tains on the north and south. The Gandhamadana and Kailasa
+I . They are Sitiimbha, Kumuda, Kurari,
+Miilyaviin and Vaikailka.
+See Vi.P. II.ii.26.
+
+## 2. They are Trikuta, Sisira, Patanga, Rucaka and Niȫiida. See Vi. P.
+
+
+## 1I.ii.27.
+
+
+## 3.
+
+They are Sikhiviisa, Vaic.Iurya, Kapila, Gandhamiidana and Jii­
+rudhi. See Vi.P. JI.ii.28.
+
+## 4.
+
+They are Sailkhakiita, ].tÜabha, Hamsa, Niiga and Kiilaii.jara.
+See
+ib. 29.
+
+
+326
+Agni PuraT)a
+(mountains) spreading in the east and west to eighty yojanas
+lie in the ocean. The two boundary mountains Niᆇadha and
+Pariyatra are situated on the west as in the east. (Similarly),
+the boundary mountains Jathara and others (are situated)
+around Meru in four directions.
+
+## 28. 0
+
+Excellent sage ! Abodes of (goddess) Lakᆇmilᆲ
+(lords) Viᆇ:r;tu, Agni and Siirya and other gods are situated in the
+caves in the mountains Kesara and others.
+29-30. They are the abodes of gods on the earth. Sin­
+ners do not go there. Lord Viᆇ:r;tu resides in Bhadrasva
+as
+Hayagriva, in Ketumala as Varaha, in Bharata in the form of
+Kiirma (tortoise) and in Kurus in the form of Matsya (fish) .
+Lord Hari is worshipped everywhere in his universal form.
+
+## 31. In the eight countries Kimpuruᆳa and others, there is.
+
+no (misery such as) hunger, fear, grief and others. The twenty­
+four thousand inhabitants live without diseases .
+
+## 32.
+
+There is no imaginary division of time such as the Krta
+(yuga) etc., the division ofworlds, waters and clouds. There are
+seven principal mountains in each one of these countries.
+
+## 33.
+
+Hundreds of rivers rise from them giving rise to sacred
+waters. I shall describe the sacred spots situated in Bharata.
+
+## CHAPTER ONE HUNDRED AND NINE
+
+The greatness of sacred spots
+
+## Fire-god said :
+
+
+## 1-4. I shall describe the greatness of all sacred spots which
+
+confer enjoyment and emancipation. One, whose hands, feet
+and mind are well-disciplined and one who possesses learning,
+austerity and penance, reaps the fruits of pilgrimage. One who
+has restrained from accepting alms, one who eats less, one who
+has conquered his senses, one who is devoid of sins, such a person
+on pilgrimage would get the fruits of all sacrificial rites. One
+would be born as poor, if he has not fasted three nights, had not
+gone on pilgrimage and had not given gold and cows as gift.
+Whatever fruit is got by doing sacrificial rites will be gained
+by going on pilgrimage.
+
+
+
+## 109.5-1 8
+
+32 7
+
+## 5. 0
+
+Brahmin ! Puᆆkara is the excellent sacred spot.
+One should dwell there atleast for three nights. There are
+thousand crores of sacred places in Puᆇkara.
+
+## 6.
+
+Lord
+Brahma
+resides here along with celestials.
+The sages who desire for everything and the celestials have had
+perfection here after bathing and worshipping the ancestors
+and celestials.
+
+## 7. They attain the fruits of performing Asvamedha rite
+
+and reach Brahmaloka. One who gifts food in (the month
+of) Karttika, gets free from sins and reaches Brahmaloka.
+
+## 8.
+
+It is difficult to go to Puᆆkara and the austerity at Puᆆkara
+is still more difficult. It is difficult to give gift at Puᆆkara and
+it is still more difficult to stay at Puᆇkara.
+
+## 9. One elevates hundreds of manes by staying therein, by
+
+repetition (of divine names) and by doing ancestoral rites. The
+path to Jambii also lies therein, as also the sacred spot of Tal,.l«;iu­
+likasrama.
+10-1 1 . The Kal,.lviisrama, Kotitirtha, (river) Narmada,
+Arbuda, Carmal,.lvati, Sindhu,
+Somanatha,
+Prabhasa, con­
+fluence of (river) Sarasvati at the ocean, the ocean, Pil,.l«;liiraka,
+Dvaraka and Gomati yield all fruits.
+12-13. The Bhiimitirtha, Brahmatmiga and the (land of)
+five rivers, the king of mountains, Devika, the destroyer of sins,
+the meritorious Vinasana, Nagodbheda, the destroyer of sins
+the Kumarakoti are spoken as bestowers of all benefits.
+
+## 14. Whoever always says, "I will go to Kurukᆆetra and live,
+
+therein", becomes free of sin and goes to heaven.
+
+## 1 5.
+
+The gods ViᆆI,.lU and others dwell there. (One who)
+lives therein reaches lord ViᆇI,.lu. One who bathes in the river
+Sarasvati and Sannihata reaches the region ofBrahma.
+
+## 16. Even the dust particles at Kurukᆇetra confer excellent
+
+position. The Dharmatirtha, Suvarl,.la and Haridvara are excel­
+lent places.
+
+## 1 7. The sacred places Kanakhala and Bhadrakarl,.lahrada
+
+are meritorious. The confluence of the rivers Ganges
+and
+Sarasvati and the Brahmavarta destroy sins.
+
+## 1 8.
+
+The Bhrgutunga, Kubjamra and the place of origin of
+Ganges destroy sins. Viiral,.lasi is an excellent sacred spot.
+Avimukta is unsurpassed.
+
+
+328
+Agni Purii1Ja
+
+## 1 9.
+
+The sacred Kapalamocana and Prayaga, the excellent
+sacred spot, the confluence of Gomati and Ganga and (the
+river) Ganga throughout do not confer hell.
+
+## 20. The sacred Rajagrha is meritorious. Salagrama removes
+
+sins. Vatda, the sacred Vamana and the confluence of
+Kalika are excellent places.
+
+## 2 1 . Lauhitya,
+
+(river) Karatoya, SoQa, ᆣᆇabha (hills)
+are excellent places. Sriparvata, Kolbagiri, Sahyadri and
+Malayagiri (are sacred) .
+
+## 22.
+
+The rivers Godavari, Tungabhadra, Kaveri, Tapi,
+PayoᆇQi and Reva are the bestowers (of fruits) . The DaQt;iaka
+forest is excellent.
+
+## 23. Kalaiijara, Muiijavata, Siirparaka, (river J Mandakini,
+
+Citrakiita and Srngaverapura are excellent spots.
+
+## 24. Avanti is an excellent place. Ayodhya destroys one's
+
+sins. Naimiᆆa is an excellent place which yields enjoyment and
+liberation.
+
+## CHAPTER ONE HUNDRED AND TEN
+
+The greatness oJGaftgii
+
+## Fire-god said :
+
+I . I shall describe the greatness of (river) Ganga. She
+should be worshipped. She yields enjoyment and liberation.
+The countries through which she flows are holy and excellent.
+
+## 2. The (river) Ganges is the succour for the beings who
+
+resort to it always. The (river) Ganges duly worshipped, suc­
+cours the two lines of ancestors.
+
+## 3. The drinking of the waters of Ganges (confers the merits
+
+of performance of) thousands of CandrayaQa.
+One who
+worships the Ganges for a month gets the fruits of all sacrificial
+rites.
+
+## 4.
+
+The goddess (Ganges) destroys all sins and confers (ac­
+cess to) heavens. One continues to stay in heavens as long
+as (his) bones remain in the (waters of the) Ganges.
+
+## 5. Blind people and others attain equal status with the
+
+
+
+
+## 1 10.6-1 1 1 . 1 2
+
+329
+celestials by worshipping her. The carrying of the earth dug up
+from the beds of Ganges destroys one's sins just as the Sun.
+
+## 6.
+
+(The river) purifies hundreds and thousands of holy
+men who look at it, touch it, drink (its waters) and repeat (the
+word) Ganges.
+
+## CHAPTER ONE HUNDRED AND ELEVEN
+
+The Greatness of Prayiiga
+
+## Fire-god said :
+
+I . I shall describe the greatness of Prayiiga, the excellent
+place, which confers enjoyment and emancipation. 0 Excel­
+lent sages ! the gods Brahmii , Viᆇt;tu and others stay at Prayiiga.
+
+## 2.
+
+So also the rivers, oceans, siddhas (accomplished persons) ,
+gandharvas (semi-divine beings) (stay there) . There are three
+fire-pits and the Ganges (flows) in the middle.
+
+## 3.
+
+(The river Yamuna) , the daughter of Sun, renowned
+in the three worlds flows there with force having all sacred spots
+before her.
+
+## 4.
+
+(The land) in between (the rivers) Ganges and Yamuna
+is known to be the thigh of(goddess) earth. The sages knew that
+Pra yiiga is the generative organ situated in the thigh.
+
+## 5. Prayiiga and Pratiᆇthiina are the woollen blanket and the
+
+mule. The holy place ofBhogavati is the platform for the god of
+creation (Brahmii) .
+q-7. The scriptures and sacrificial rites are endowed with
+forms at Prayiiga. By singing in praise of this sacred place, or by
+the repetition of (lord's) names or by touching the earth here
+(one) gets free from all sins. Charity, ancestral rites and recita­
+tion (of names of the god) done at Prayiiga, the place of con­
+fluence (of the two rivers) , has undecaying merits.
+
+## 8.
+
+0 Twice-born ! One who has resolved to die at Prayiiga
+at the end (ofhis term oflife) should not change his mind on the
+authority of scriptures or on the words of the people.
+
+## 9-12. Ten thousand and six crores of sacred places are pre­
+
+sent only here. Hence Prayiiga is the foremost (place) . The
+
+
+330
+Agni PuraiJ.a
+Bhogavati, sacred spot of Vasuki (serpent chief) and the flight
+of swans are present here. One reaps the fruits of making a cha­
+rity of a crores of cows by bathing at Prayaga three days in the
+month of miigha (February-March) . The learned have declared
+thus. It is easy to have access to Ganges all along its course,
+but very difficult at the (following) three places-Gangadvara
+(HaridYara) , Prayaga and the confluence of Ganges with the
+ocean. One goes to heaven by giving alms here and one will
+become a monarch here itself.
+1 3-14.
+One who dies at the root of the banyan tree and the
+confluence goes to the abode oflord ViᆇI}.u. The sacred sands
+on which Urvasi (a nymph) had sported, the Sandhyavata, the
+Kotitirtha, the Asvamedha, the pure Manasa, and Vasaraka are
+all excellent places.
+
+## CHAPTER ONE HUNDRED AND TWELVE
+
+The greatness of ViiriiTj.asi
+
+## Fire-god said :
+
+
+## 1 .
+
+(Lord) Mahesvara (Siva) said to Gauri (consort of
+Siva) that Varal}.asi is the sacred place. It confers enjoyment
+and emancipation on those who reside there and recite (the
+name of god) Hari (ViᆇI}.U) .
+
+## Rudra (Siva) said :
+
+
+## 2.
+
+"The sacred place, 0 Gauri, has never been forsaken
+(by me) and hence it is called Avimukta1• The repetition (of
+god's names) , the performance of penance and giving alms at
+Avimukta indeed (yields) undiminishing benefits.
+
+## 3-5. After rubbing away dust from the feet with a stone,
+
+one should stay at Kasi (Varal}.asi) . He should never forsake it.
+The eight holy spots -Hariscandra, Amratakdvara, Japyesvara,
+Sriparvata, Mahalaya, Bhrgu, Cal}.<;lesvara and Kedara, remain
+concealed at Avimuktaka (Varal}.asi) . Avimuktaka is the most
+sacred place among all sacred places.
+
+## 6.
+
+It extends to two yojanas in the east and half a yojana m
+
+## 1 . Avimukta is one of the names of Viira)J.asi.
+
+
+
+1 1 2.7-1 1 3. 1 -6
+331
+the opposite direction. The (two) rivers VaraQ.a and Asi (flow)
+and VaraQ.asi lies between the two.
+
+## 7.
+
+Bathing, muttering (of divine names) , oblations (to
+gods) , (one's) death, worship of gods, ancestral rites, alms­
+giving and stay and whatsoever done here is capable of confer­
+ring enjoyment and emancipation.
+
+## CHAPTER ONE HUNDRED AND THIRTEEN
+
+The greatness of Narmada
+
+## Fire-god said :
+
+l .
+I shall describe the greatness of Narmada which
+yields great pleasure. The water of the Ganges purifies the
+bather at once. The water of the river Narmada (purifies)
+at the mere sight of it.
+
+## 2-3. It extends (in length) to one hundredyojana and two
+
+yojanas in breadth. There are sixty thousand holy places and
+sixty crores on the hills on either side at AmarakaQ.taka. (The
+place of) confluence with Kaveri is meritorious. Listen to me.
+I shall describe about Sriparvata.
+
+## 4-5.
+
+(Goddess) Gauri in the guise of (goddess) Sri (Lakᆇmi)
+did penance here. Lord Hari told her, who was doing pen­
+ance, that she would attain salvation, and that hill will be known
+after her name as Sriparvata. Hundred yojanas all along (the
+hill) would become greatly meritorious. Charity, penance,
+chants and ceremony done here all
+yield
+undiminishing
+merits.
+
+## 6. Death at this place
+
+(conveys one)
+to the world
+of Siva. This excellent sacred place yields everything. Lord
+.Siva sports here with his consort. (The demon) HiraQ.yakasipu
+performed penance here and became mighty. The sages
+attained perfection here.
+
+
+332
+Agni Pura1J.ll.
+
+## CHAPTER ONE HUNDRED AND FOURTEEN
+
+The greatness cif Gaya
+
+## The Fire-god said :
+
+
+## 1-2. I shall describe the greatness of Gaya. It is the most
+
+excellent among the sacred places. The demon Gaya practised
+penance. Being tormented by the heat of his penance, the celes-·
+tials (approached lord) ViᆇI).U who was lying in the milky
+ocean and told him "Kindly protect us from the demon Gaya."
+(Lord) Hari (ViᆇQu) said yes. He met the demon and asked
+him to request for a boon.
+
+## 3-4.
+
+The demon requested that he would be the holiest of
+all places. Lord ViᆇI).U granted his request. Having seen that
+the demon (was on the earth) and the earth had become deserted
+without Lord ViᆇI).u, the celestials, Brahma and others in the
+heaven met lord Hari (ViᆇI).u) and said, "0
+(lord) Hari
+t
+The earth has become deserted."
+
+## 5. On seeing the demon's presence, lord Hari
+
+(ViᆇI_lu)
+asked (lord) Brahma, "You go to the demon along with the
+celestials and request for his body for the purpose of a sacrifice. "
+
+## 6. After having heard that, Brahma went to the demon.
+
+
+## Gaya along with the celestials and said to him as follows :
+
+"I am your guest. I request you (to give me your) pure body
+for (the sake of being offered in) a sacrifice."
+
+## 7. The demon Gaya granted the request. He fell down.
+
+(Lord Brahma )did the sacrifice on the skull. As it was moving,
+(lord ViᆇI).u) asked lord Brahma to offer the final oblation.
+
+## 8-9.
+
+Even as the final oblation was being offered, the demon
+moved.
+Hence
+lord
+Brahma asked Lord ViᆇI).U. Lord
+ViᆇI).U then called Dharma (the god of virtue) and said, "0
+celestials ! you all ᆴupport this divine stone. The club-wielding­
+form of mine along with the gods will be present on this slab."
+10-1 1 . Having heard that, lord Dharma supported that
+excellent divine slab. Marici, the son of Brahmamarried Dharma
+vrata, the daughter of Dharma and Dharmavati. She was devot­
+ed to doing penance. (They two spent happily) just as (lord)
+Hari sported with (goddess) Sri (Lakᆇmi) and (lord) Sambhu
+(Siva) with (goddess) Gauri (Parvati) .
+
+## 12.
+
+(Once) he returned from the forest with kusa (grass}
+
+
+1 1 4-1 3-25
+333
+and flowers and was very tired. After taking food he said to
+Dharmavrata, "Massage my feet."
+
+## 13. The dear wife accordingly was massaging the feet of the
+
+sage who was taking rest. In the meanwhile, as the sage fell into
+a nap, lord Brahma came there.
+
+## 14. Dharmavrata began to think, "Shall I worship lord
+
+Brahma ? Or shall I continue to massage the feet (of my lord) ?
+Brahma who is the lord of my lord should be worshipped."
+1 5-1 7. After thinking (for some time) she began to worship
+lord Brahma with all the honours. Marici (woke up and)
+saw her (doing service to Brahma) . As she was not doing as di­
+rected he cursed her angrily, ''You will become a stone". Dhar­
+mavrata also said to him, "After having stopped massaging your
+feet, I had worshipped (Brahma) your lord. As you have cursed
+me, a faultless person, you will be cursed by (lord) Sankara
+(Siva)". Dharmavrata bore the curse singly and resorted to
+fire-god.
+
+## 18.
+
+She performed penance for a long period. Then Vigm
+and other celestials appeared in front of her and asked her to
+request for a boon.
+19-22.
+Dharmavrata said to the celestials, "0 Gods let
+my curse come to an end. The celestials said, "The curse given
+by Marici will not be otherwise. You will become a sacred stone
+bearing the marks of the foot-prints of lord (ViᆇI).U) . You will
+be endowed with the essence of the gods, 0 Devavrata (Dhar­
+mavrata) ! You will be representing the forms of all celestials,
+You will be meritorious for making the demon motionless".
+Devavrata said, "If you are pleased with me, may Brahma,
+ViᆇI).u, Rudra, Gauri, Lakᆇrp.i and other gods stay in me ever."
+The fire-god said, "Having heard the words of Devavrata,
+the celestials said in affirmative and repaired to the heavens."
+
+## 23. That divine stone slab of the demon was supported by
+
+(lord) Dharma. The demon began to move with the stone slab
+on which (the gods) Rudra and others remained.
+
+## 24. The demon was still moving along with celestials.
+
+Then lord Hari (ViᆇI).U) , who was reclining in the milky ocean,
+was requested by celestials and he gave his form of wielding
+a mace.
+
+## 25.
+
+(He said) "You all may go. I shall myself go there with
+the form known to
+all celestials." There lord Gadadhara
+
+
+334
+Agni PuriitJa
+manifested (in the form of) manifest, unmanifest and both mani
+fest and unmanifest.
+26-30.
+(Lord) Adigadadhara was himself present in order
+to make (the stone slab) steady. There was a demon named
+Gada. He was killed by lord Vigm. Visvakarma
+(the celes­
+tial architect) made a mace from the bones (of that demon) .
+(Lord) Gadadhara killed Heti and other demons with that first
+mace duly. Hence, he is known as Adigadadhara. When lord
+Adigadadhara was manifest in the divine stone slab and the
+demon remained steady, then lord Brahma offered the final
+oblation. The demon Gaya asked
+celestials
+"Why I was
+deceived ? By the more command of lord ViᆇJ).U I would have
+remained steady. Because you have tormented me you should
+give me a boon".
+
+## The celestials said:
+
+3 1-32.
+"Since you have been made steady by us, this will
+become a holy place of the lords Viᆇᆹ;t.u, Sambhu (Siva) and
+Brahma. (It would become) more renowned than all other
+sacred places. It would confer the region of Brahma on the
+(departed) ancestors". Having spoken thus, the gods and god­
+desses remained there. All the sacred places also were present
+there.
+33-35.
+After having performed the sacrifice, Brahma gave
+fees to the priests. The sacred place of Gaya (extends to)
+five krosas (ten miles) . Fiftyfive villages were endowed with (the
+following) : Golden hills flowing with rivers, milk and honey,
+reservoirs of curd, clarified butter, plenty of hills of food, kiima­
+dhenu (the celestial cow), kalpataru (the celestial tree) and abodes
+made of gold and silver. Let the brahmins here do not seek
+alms. The lord gave all these things after having spoken very
+little.
+36-37.
+(The brahmins)
+at Gaya were cursed by lord
+B!·ahma when they on account of their greed received gifts of
+money and other things of the righteous sacrifice "You will be
+deprived of learning. You will be greedy. The rivers will be
+bereft of milk and other things. The mountains will become mere
+rocks."
+38-40.
+The brahmins said to (lord) Brahma, "Everything
+has been lost on account of the curse. Kindly be gracions to us
+
+
+
+## 1 14.41-1 15. 1 -9
+
+335
+for the sake of our livelihood". He replied to the Brahmins, "You
+will be dependent on (the pilgrims to) the sacred place as long
+as the moon and sun (exist) . The people who come to Gaya
+and worship you by offering gifts of food, wealth etc. and ances­
+tral rights shall elevate hundreds of their families to heaven from
+hell and excellent position after heaven."
+
+## 41 .
+
+Gaya also performed a sacrifice offering plenty of food
+and profuse fees. The place has b een named as Gaya after him.
+The Par;u;lavas worshipped lord Viᆇ:Q. u.
+
+## CHAPTER ONE HUNDRED FIFTEEN
+
+Mode of making a pilgrimage to Gayii
+
+## Fire-god said :
+
+
+## 1 -7.
+
+When he has decided to go to Gaya after having duly
+performed the ancestral rite, he should wear ochre robes and do
+circumambulation of the village. He should control his mind
+and should not seek alms as-he proceeds on the journey everyday.
+As soon as he has started from his house to go to Gaya, he
+secures for his ancestors the steps to ascend to heaven at each one
+of his steps. What is that to be done by acquiring knowledge about
+the brahman (the absolute) ? What is the benefit of dying at a
+cowshed ? What is the use of stay at Kurukᆇetra ? If the son
+goes to Gaya, the ancestors celebrate it on seeing that the son
+has reached Gaya. (They would think) , will they (the sons)
+offer us waters atleast by touching with their feet ? The knowledge
+about brahman, the ancestral rite at Gaya, the death at the cow­
+shed and stay at Kurukᆇetra are the four ways of attaining libe­
+ration. The ancestors who are afraid of hell desire that their
+sons who go to Gaya would be their s aviours. Tonsure and
+fasting is a general rule (to be adhered) at all the sacred places.
+
+## 8. There is no restriction about time at Gaya. The obla­
+
+tions may be offered always. One who stays there for three
+fortnights purifies seven generations.
+
+## 9.
+
+In the f¥taka ceremony and in the vrddhi rite at Gaya
+on the day of death, separate rite is performed for the mother at
+Gaya. But it is performed along with the husband at other places •.
+
+
+336
+Agni Purii1)a
+
+## 10. So also with the rites for the nine relatives such as the
+
+father etc. and for the twelve relatives. One should bathe in the
+sacred water of Uttaramanasa on the first day.
+
+## 1 1 . One should bathe in the sacred U ttaramanasa for the
+
+sake of increase of longevity and good health, for the destruction
+of all sins and for liberation.
+
+## 12.
+
+By satisfying
+gods and ancestors with offerings,
+the doer of ancestral rite is deemed to have offered them the
+balls (of rice) "I am satisfying gods remaining in heaven, sky
+and earth."
+13-16. One should
+satisfy
+beings in
+heaven, sky and
+earth, and father and mother (with the words) , "I
+make
+these offerings of balls (of rice) for (my) father, grandfather,
+greatgrandfather, mother, (paternal) grandmother, (paternal)
+great-grandfather, (maternal) grandfather, (maternal) great­
+grandfather and (maternal) great great grandfather and others
+for their uplift. "Our salutations to the Sun-god who is of the
+forms of (the planets) Moon, Mars, Mercury, Jupiter, Venus,
+Saturn, Rahu and Ketu. Whoever bathes in the Uttaramanasa
+elevates his entire family.
+1 7- 1 8.
+After having saluted Sun (god) one should go to
+the Dakᆇil).amanasa without speaking (any word) . (One should
+contemplate as follows) : "I bathe in the Dakᆇinamanasa for the
+satisfaction of (my) ancestors. I have come to Gaya. May all
+my ancestors
+ascend
+heaven."
+Mter having performed
+ancestral rite and offered balls (of rice) , one should utter as
+
+## follows after worshipping Sun (god) :
+
+
+## 19. "Om,
+
+salutation to
+Sun
+(god) , lord
+(of
+the
+universe. 0 Supreme god ! get me the cherished end. Graci­
+ously grant enjoyment and emancipation to all my ancestors.
+20-2 1 . May the most propitious Fire-god, the conveyor
+of oblations, Soma, Yama, Aryama, and groups of manes­
+Agniᆇvatta}), Barhiᆇada}), Ajyapa}) come here. My ancestors
+such as mother, (maternal) grandfather and others were
+protected here by all of you.
+22-24.
+I am the person to offer them balls (of rice) .
+I have come to this Gaya (Kᆆetra) . The sacred place named
+Kanakhala, renowned in three worlds and being worshipped
+by celestials, sages and gaT)as, lies to the north of Mul).c;ia-
+
+
+1 1 5.25-36
+337
+prᆇtha (the place where tonsure is done) . It is being guarded
+always by the licking great serpents that give pleasure to accom­
+plished persons and frighten sinners. The mortals on earth
+go to heavens and sport there by bathing there (in the waters of
+Kanakhala) .
+
+## 25. Then one should go to Phalgutirtha situated on the
+
+Mahiinadi after having visited Uttaramiinasa, Niiga, Janiir­
+dana, sacred well and banyan tree.
+
+## 26.
+
+This is spoken as the Gayiisira. It is also called
+Phalgutirtha. The Mur.}(;iaprᆇtha, Naga hill and other places
+are the most excellent among outstanding.
+
+## 27. The water on the earth is veritable Kiimadhenu which
+
+yields prosperity and heaven. The Phalgutirtha causes delight
+to the eyes. No other place is like the Phalgu (tirtha) .
+
+## 28.
+
+The man who bathes in the Phalgutirtha and
+worships lord Gadiidhara (ViᆇI).U) is deemed to have achieved
+all things got by the doers of good deeds.
+
+## 29. The
+
+sacred
+places on earth,
+commencing with
+oceans and ending with tanks go to Phalgutirtha once every­
+day.
+
+## 30. Whoever bathes reverentially at the Phalgutirtha, the
+
+foremost among tirthas, causes forefathers to reach the region
+of Brahmii and the own self to get enjoyment and emanci­
+pation.
+31 -33.
+One who performs the ancestral rite here should
+bathe, offer balls (of rice)
+and worship
+(lord) Brahmii.
+In this Kaliyuga, all regions (of the universe) are presided
+over by (lord) Mahesvara (Siva) . But (lord)
+Gadiidhara
+(Viᆇl).u) is the presiding deity here. (Lord) Brahmii (remains
+here) in the form of a ling a. (One should say), "I make obei­
+sance to (lords) (Mahesvara) Siva, Gadiidhara (ViᆇI).U) , Bala,
+Kiima {god of love) , Aniruddha (a form of ViᆇI).U) and Niirii­
+yal).a. I also make obeisance to Brahmii, Viᆇl).u, Nrsirilha and
+Variiha (forms of ViᆇIJ.u) and others." Then one elevates hund­
+reds of his family after worshipping (lord) Gadiidhara.
+
+## 34.
+
+Then one should go to Dharmiiral).ya on the second
+day, bathe in Matailgaviipi · at the excellent Matangiisrama,
+do the ancestral rite and offer balls (of rice) .
+35-36. One should utter the following (words) , after wor­
+s);lipping gods Matai:tgesa and Siddhesa: "Let the gods and
+
+
+338
+Agni PuriiTJa
+guardian deities be the witness (to the fact) that I had come here
+and performed rites at this Mataiiga for the liberation of my
+fore-fathers. Bathing, offerring waters of liberation, performance
+of ancestral rite and other acts (should be performed)
+at
+Brahmatirtha and the sacred well.
+
+## 37. The performance of ancestral rite between the well and
+
+the sacrificial post lifts hundreds of fore-fathers. The righteous
+person who salutes the Mahabodhi tree gets the region of heaven.
+38-39.
+On the third day, having control over the senses,
+one should bathe in the Brahmasaras, with the words, "I bathe
+in the sacred Brahmasaras for the favour
+of lord Brahma
+and convey forefathers to the region of Brahma served by the
+brahmarᆇis and gar:tas. The doer of ancestral rite should offer
+waters of libation, offer balls (of rice) and sprinkle (water
+over his body) . One who wants to have Vajapeya (rite) should
+circumambulate the brahmay apa (post) .
+
+## 40.
+
+One sage offers water at the root of the mango tree hold­
+ing a pitcher and krda in his hand. The mango trees are watered
+and the forefathers are satisfied. One act is well known as yield­
+ing two fruits.
+41-42.
+By making obeisance to lord Brahma one elevates
+hundreds of generations. On the fourth day, after having bathed
+in the Phalgutirtha and offering tarpa1Ja to gods, one should
+do the ancestral rite together with (the offering of) balls (of
+rice) at the Gay:iSiras. The extent of sacred Gaya is five krosas
+(ten miles) and the extent of Gayasira is one krosa (two miles) .
+
+## 43. By offering balls (of rice) there, one elevates hund­
+
+reds of generations. The great lord Mahadeva (Siva) has
+placed his foot at the Mur:t9aprᆇtha.
+
+## 44.
+
+The Gayasira is said to be the sanctuary at Mur:t9a­
+prᆇtha. The Gayasira itself has been made the hermitage at
+Phalgutirtha.
+45-48.
+The nectar flows therein. Whatever is offered there
+to the forefathers never decreases. After having bathed
+at
+Dasasvamedha
+and
+worshipped
+lord Brahma,
+whoever
+touches the Rudrapada (the foot mark of lord Rudra) will
+not be born again. Having offered the ball of rice of the mea­
+sure of a Jami leaf at Gayasira, those who are in the hell go to
+heaven and those who are in heaven attain liberation. The offer
+
+
+
+## 1 15.49-62
+
+339
+of ball (of rice) (is made) along with payasa, (sweet porridge)
+flour made into a paste, gruel, rice and wheat and mixed with
+sesamum. By offering the ball (of rice) at Rudrapada, one ele­
+vates hundreds of generations.
+
+## 49.
+
+Similarly, one who offers the ball (of rice) at the ances­
+tral rite at Vigmpada gets released from debts (due to
+ancestors) . One will elevate hundreds of fore-fathers as also
+his own self.
+50-53.
+So also, one who does the ancestral rite at the Brahma­
+pada (the place where the footmarks of Brahma are situated)
+conveys the forefathers to the region of Brahma. Similarly, (the
+performance of) ancestral rite at the dakfiT)agnipada, giirhapatya­
+pada and the iihavaniyapada1 confers the fruits of (performance
+of a) sacrificial rite. One who does the ancestral rite to iivasthya2
+(fire) , (gods) moon, sun, gaT)a, (sage) Agastya and Karttikeya
+elevate the family. Mter having saluted the chariot of Sun,
+one should make obeisance to Karl}.aditya.Mter having worshipp­
+ed the foot of (lord) Kanakesa, one should make obeisance
+to Gayakedara. (By such acts) one gets freed from all sins
+and conveys his fore-fathers to the region of Brahma.
+54-55.
+Prince Visala at Visala became father of children by
+offering balls (of rice) at Gayasiras. He asked the brahmins,
+"How can I have children ?" The brahmins told Visala,
+"All things will be got by offering balls (of rice) at Gaya."
+56-59. Then Visala also offered balls (of rice) to the fore­
+fathers at Gayasiras. Having seen white and red (coloured)
+souls in the sky, he asked them, "Who are you ?". One among
+them, the white person, said to Visala, "1, the white person,
+am your father now going to the region of Indra on account of
+(your) good deeds. 0
+son ! the red coloured
+(person) is
+my father and the black coloured is my grand-father. We had
+reached hell and we are liberated by you. Because you have
+offered balls (of rice) we are going to the region of Brahma".
+Mter saying thus they went away. Visala got progeny, ruled
+the kingdom and (finally) reached lord Hari (VitI}.u) .
+60-62.
+The foremost among the pretas said to the merchant
+for his liberation, "Good fruits are enjoyed by all pretas, who.
+
+## 1 . The places associated with the fires of the household.
+
+
+## 2.
+
+A household fire.
+
+
+340
+Agni PurOrja
+are tormented by sufferings. Once, a pitcher together with food
+.and water was given on a SravaQadvadasi day at noon. That has
+been sustaining (us ever since) . You go to Gaya with money and
+<>ffer us balls (of rice)". The merchant went to Gaya with
+money and offered balls (of rice) .
+63-64. The foremost among the pretas was led to the. region
+of (lord) Hari (ViᆆQu) along with the other pretas. (One libe­
+rates) his own self, his forefathers and those who have died on the
+paternal and maternal side, as also those related to the preceptor,
+the father-in-law and other relatives, by the offer of balls (of
+rice) at Gayasiras.
+65-67.
+(One should utter the following words) : "Those
+who have been deprived of the offer of balls for their sake, those
+who do not have a wife or children, those for whom the rites
+could not . be done, those who were blind, lame or of deformed
+limbs, those who were born prematurely and other known and
+unknown (relatives) in my family, for their sake, I have offered
+the ball (ofrice ) . Let it remain undecaying. Those fore-fathers
+of mine who remain in the form of a preta, let all of them be pleas­
+ed for ever by the offer of the ball (of rice)".
+
+## 68. All those who desire to elevate the family should offer
+
+balls (of rice) to all. So also one desirous of (elevating his own
+·self) and getting imperishable place should offer (ball of rice).
+69-70.
+The wise man should bathe at Gadalola with
+the (repetition of) mantras. 0 lord Janardana ! I bathe in
+this sacred Gadaprakᆇalana at the extremely sacred Gadalola
+in order to appease
+sufferings due to mundane existence.
+Obeisance to the Akfayavata (banyan) tree, which yields un­
+decaying heaven.
+
+## 7 1 . One should do the ancestral rite at the spot of the banyan
+
+tree and feed brahmins for (securing) undecaying position
+<>f forefathers and for the destruction of all sins.
+
+## 72.
+
+If one brahmin has been fed, crores (of brahmins)
+would become fed. What more to say ? If many are fed, the offer­
+ings done to the fore-fathers become undecaying.
+
+## 73. The fathers of those who offer food at Gaya become
+
+virtually the putrir.ta (i.e. having sons) . Mter having saluted the
+
+## 1 . The word putra means-one
+
+who saves parents from
+the hell
+called put.
+
+
+
+## 1 15.74-1 1 6.6
+
+341
+banyan tree and the lord of the banyan tree, one should worship
+the great grand-father.
+
+## 74. One would attain imperishable position and elevate
+
+hundreds of his family members. The pilgrimage made to Gaya
+always (bears) fruit whether it is done in the proper way or not.
+
+## CHAPTER ONE HUNDRED AND SIXTEEN
+
+Mode of making a pilgrimage to Gaya
+
+## The Fire-god said :
+
+I . One should do
+sandhya
+(twilight worship)
+after
+bathing in (the river)
+Mahanadi with (the recitation of)
+gayatri (mantra) . The ancestral rite and offer of balls (of rice)
+in the morning preceded by (the recitation of) gayatri (man­
+tra) yields undiminishing (fruits) .
+
+## 2 . Having bathed in the noon (as the sun remains up)
+
+and having worshipped with songs and (playing of) musical
+instruments, the (evening) twilight worship is done there itself
+in front of the sun and the offer of balls (of rice) is made.
+
+## 3.
+
+(Similarly) one should (offer) at the place of Agastya.
+One, who has come out after having entered the yonidvara (the
+fissure in the hill) , does not enter the yoni (the womb} again and
+will be liberated from the cycles of birth and death.
+
+## 4.
+
+(He) should then pay obeisance to Bali (a demon king)
+at Kakasila and (lord) Kumara (Subrahmal).ya) .Then one
+should offer balls (of rice) at Svargadvara, Somakul).(ia and
+Vayutirtha.
+
+## 5. Then (he) should offer balls (of rice) at Akasaganga
+
+and Kapila. After having paid obeisance to Siva, the lord of
+Kapila, one should offer balls (of rice) at Rukmikul).(ia.
+
+## 6. After having worshipped (lord) KotiSa at Kotitirtha,
+
+one (should offer balls of rice) at Amoghapada. Then the balls
+(of rice) should be offered at Gadalola, Vanaraka and Gopra­
+cara.
+
+
+342
+Agni PuraT)a
+
+## 7. After the worship of the cow, one who does the ancestral
+
+rite and offers balls (of rice) at (the river) Vaitarixft, elevates
+twentyone generations. Then one should offer balls (of rice)
+at Krauficapada.
+8-1 1 .
+(The pilgrim) should then offer balls (of rice) at
+Visala and Niscira on the third day. One who bathes in the
+ᆰQamokᆆa and Papamokᆆa and with the sacred ash at the Bhas­
+makuQc.la gets free from sin. One should then worship
+lord
+Janardana (uttering as follows) : "I have placed this ball (of
+rice) on your hand. 0 Janardana ! When I die let this remain
+without decay." (Lord) Janardana
+himself (remains)
+at
+Gaya in the form of forefathers. Having worshipped that
+lotus-eyed lord one gets liberated from three debts. After having
+worshipped (lord) MarkaQc;leyesvara, one should worship (lord)
+Grdhre8vara.
+
+## 12. Then the balls (of rice) should be offered to (lord)
+
+Mahesa at the Miilakᆆetra at Dhii.ra. Balls (of rice) should be
+offered at Grdhrakiita, Grdhravata and Dhautapada.
+
+## 1 3.
+
+(The pilgrim) should then offer balls (of rice) at the
+PuᆆkariQi, Kardamala and Ramatirtha. One should make obei­
+sance to (lord) Prabhii.sesa and offer piT)f/.a (balls of rice) at
+Pretasila.
+
+## 14.
+
+(The following words should be recited on these occa­
+sions) : "May all (my) fore-fathers and relatives who are still
+in the form of pretas (the dead people still in the state of a spirit)
+in the heavens, sky or earth get released from that state by my
+offer of piT)f/,as."
+
+## 15. One who offers piTJ4a at the following three places­
+
+Pretasila, the sacred Gayasiras and PretakuQc.la at Prabhii.sa,
+liberates his family.
+
+## 16.
+
+(The pilgrim) should pay obeisance to (lord) Vasiᆍ­
+thesa and offer piT)f/,a in front of that (deity) . He should then
+offer PiTJ¢a at Gayii.nabhi, SuᆆumQii and Mahii.koti.
+
+## 1 7. (PiT)f/.a should be offered) in front of(lord Gadadhara),
+
+at MuQc.lapntha and in the presence of the goddess. The MuQc;la­
+pntha together with the guardian deities should be worshipped
+first.
+
+
+l l 6. 18-32
+343
+
+## 18. By doing such worship, one will not have fear and the
+
+effects of disease and poison will be destroyed. One who worships
+(lord) Bral:una conveys his family to the region of Braluna.
+
+## 19. One who worships Subhadra (sister of lord Knl).a),
+
+Balabhadra (brother of lord Knl).a) and Puruᆆottama (here
+refers to lord KrᆆI).a) , gets all his desires fulfilled, elevates his
+family and attains heaven.
+
+## 20.
+
+One should pay obeisance to (lord) Hnikesa and offer
+pirpf.a in front of that (deity) . Having worshipped (lord) Ma­
+dhava, one becomes honoured by the celestials.
+
+## 2 1 . One who worships (the goddesses) Mahalakᆆmi, Gauri,
+
+Mangala and Sarasvati elevates his fore-fathers and enjoys all
+pleasures in heaven and becomes a learned man (in his next
+birth) .
+22-24. One who worships the twelve Adityas (suns) , Fire­
+god, Revanta and Indra, gets free from diseases etc. and attains
+heaven. One who worships Kapardi, Vinayaka and (lord)
+Karttikeya (Subralunal).ya nourished the six Krttikas) gets his
+desire accomplished without any impediment. One would get
+everything by worshipping the eight mysterious lingas-Soma­
+niitha,
+Kalesa, Kedara, Prapitamaha, Siddhesvara, Rudresa,
+Ramesa and Brahmakesvara.
+
+## 25. By worshipping (lords) Narayal).a, Varaha and Nara­
+
+sirhha one would get prosperity. By worshipping (lords) Braluna,
+ViᆆI).u, Mahesa and .Tripuraghna (destroyer of Tripura) one
+would get all things.
+
+## 26.
+
+He who worships Sita, Rama, Garuc.la and Vamana
+gets all the desired things and conveys his forefathers to the
+region of Braluna.
+
+## 27. By worshipping lord Adigadadhara in the company of
+
+celestials, one gets free from three debts1 and redeems the
+entire family.
+
+## 28.
+
+The stone slab is of the form of celestials and it is
+hence meritorious. There is no place in Gaya where there is no
+sacred spot.
+29-32. That person in whose name a PiTJ.¢a is offered, is con­
+veyed to (the region of) Bral:una eternally. After having paid
+obeisance to PhalgviSa, Phalgucal).c.ii and Angarakesvara, one
+should perform the ancestral rite at the place of Matanga and
+
+## 1.
+
+They are due to the sages, gods and manes.
+
+
+344
+Agni Purar;a
+Bharatasrama. So also one should offer food at Hamsatirtha,
+Kotitirtha and Pa1p;lusila. There, at the Agnidhara, and at
+Madhusravas, pir;r/a should be offered. One should offer pir;r/a
+at the forest of Dhenuka and worship the cow at Dhenupada.
+One who offers pir;r/a in the Sarasvati (river) redeems all the fore­
+fathers.
+
+## 33. After having worshipped the evening twilight, one
+
+should pay obeisance to (goddess) Sarasvati. The brahmins
+proficient in the Vedas and Vedangas should do the three twilight
+worships.
+
+## 34. After having done circumambulation of Gaya and
+
+having worshipped the brahmins at Gaya, offer of food or any­
+thing else becomes undecaying.
+35-42. The lord Adigadadhara should be glorified and
+prayed to as follows: "I pray to the conferer of yoga, (lord)
+Gadadhara, the resident of Gaya, who redeems the fore-fathers
+for the sake of dharma (righteousness) , artha (prosperity) kama
+(pleasure) and mokҪa (redemption) . I salute that true brahman,
+who is devoid of a body, organs, mind, intellect, life-force and ego
+who is always pure, and who is endowed with intellect. I always
+salute the lord who is bliss, without a second form, who is wor­
+shipped by the celestials and demons, and who is surrounded by
+gods and goddesses. I pay obeisance to the destroyer of the
+sinful propensities of the Kali period, the person wearing the
+garland of wild flowers, the protector of all the worlds, the one
+bent on the redemption of the family, the one divided himself
+into the manifest and unmanifest. I worship that destroyer of
+frightful sins and one who remains as the permanent essence. 0
+lord ! Gadadhara ! I have come to Gaya in order to do the
+ancestral rite. You be the witness for me here today. Let me be
+free from three kinds of debts. May the gods Braluna, isana and
+others be the witness for me. I have come to Gaya and have
+redeemed my forefathers. Whoever reads (about) the greatness
+of Gaya at the time of (doing) the ancestral rite, attains the
+region of Brahma. The ancestral rite done to the forefathers
+becomes undecaying and it confers the region of Brahma.
+
+
+1 1 7.1-12
+345
+
+## CHAPTER ONE HUNDRED AND SEVENTEEN
+
+Mode of performing the ancestral rites
+
+## Fire-god said :
+
+
+## 1 -5. I shall describe (the mode of performing) sraddha
+
+(ancestral rite) as described by sage Katyayana to the sages.
+One should do sriiddha at Gaya especially on the saftkriinti1
+etc. or on the day of the new moon or on days after the fourth
+day. After having reached there, one should invite (any one of
+the following for the sraddha) : the mendicants, pious householders
+one who has completed his studies, learned brahmins, those who
+are faultless, those who strictly observe the propriety of conduct.
+Persons afflicted by white leprosy or leprosy should not be invit­
+ed. So also people who are present uninvited should not be
+entertained. They should have bathed, be pure and have self­
+control. They should face the east while doing divine acts.
+The three fore-fathers (father, grand-father and great grand­
+father) should separately be invoked. So also the fore-fathers on
+the maternal side (to whom one is entitled to offer) should be
+invoked.
+
+## 6. The performer of the !riiddha should observe continence
+
+that day. (He should be) gentle, calm, not hasty, true and not
+intoxicated. (He should) not stir out. (He should) not read the
+scriptures and practice silenceᆱ
+
+## 7. Kind enquiries should be made of the chief among those
+
+seated. Even number of darbha should be spread for the fore­
+fathers. The (appropriate) deity should be invoked.
+
+## 8.
+
+One should ask, "Shall I invoke Visvedevas ?"
+(He
+should be replied) , "you invoke". After having invoked
+Visvedevas, and having spread barley, one should repeat the
+
+## following :
+
+
+## 9.
+
+0 Visvedevas ! You hear this. I invoke the fore-fathers.
+Having asked thus and being permitted to invoke, one should
+invoke them (saying) "You be pleased."
+10-12. After having spread the sesamum, one should invoke
+the fore-fathers with the repetition of (the mantra) , "Fore-fathers"
+One should sprinkle on the kusa with the mantra sam no devi.
+I . The day on which the sun enters a new sign of the zodiac.
+
+
+346
+Agni Purdr)a
+After having scattered the grains of barley with the (repeti­
+tion of the mantra) "You are the barley grains", the sesamum
+(is scattered) (with the repetition of the mantra) "You are the
+sesamum.
+You are permeated with the
+essence of Soma.
+Graciously gratify the souls of forefathers. Salutations." Flowers
+should be offered with (the mantra "sriSca te" in a golden or silver
+vessel or a wooden (vessel) or sword or vessel made of a leaf.
+The circumambulation is done clockwise in
+the case of
+celestials and anticlockwise in the case of fore-fathers, wearing
+the pavitra (made of darbha) on the hand, one for each one
+(of the f ore-fathers) .
+
+## 13.
+
+(Then he should recite the following mantra) : "May
+the celestial waters together with the waters of the earth and sky
+and the golden sacrificial waters confer blessing on you." (Then
+the waters of respectful offering should be offered to the Visve­
+devas with the mantra ) : "0 Visvedevas ! Here are the offerings
+for each one of you". (Similarly, offerings should be made to the
+forefathers saying) "Here is the offering for you, 0 Forefathers !
+
+## 1 4.
+
+Similarly, offerings should be made (to the grand­
+fathers) with (the mantra) "Obeisance to the grand-fathers."
+The sacrificial vessel is lowered with (the repetition of the mantra)
+"You are the seats of my forefathers."
+
+## 15. Then perfumes, flowers, incense sticks, lamps, shawls
+
+and food with clarified butter should be raised up (by the per­
+former of ancestral rite) . (The brahmins should then be asked)
+"Shall I offer them in the sacrifice ?"
+
+## 16. Being permitted (by the brahmins) to do so, those things
+
+should be offered to the fire in the case of those who maintain
+fire and on the hands of forefathers in the case of those who
+do not maintain fire with the repetition of the following
+mantra and (wearing) thepavitra (made of darbha worn on the
+finger) .
+
+## 1 7.
+
+The first oblation is (made with the mantra) : "Obei­
+sance to the Fire-god, the conveyor of offerings." The subse­
+quent (mantras) are to Soma, to forefathers, to the god of
+death and Arigiras.
+
+## 18. The remnants of oblations should be collected in the
+
+food vessel. "0 Nectar ! this earth is your receptacle, the sky
+is the covering. The brahmin is your mouth. I am casting in that
+mouth permeated with the nectar." After having repeated (the
+
+
+1 1 7. 1 9-3 1
+347
+mantra) "This Viᆆr.tu", the thumb of the brahmin is placed in
+the food.
+
+## 19. The sesamum should be scattered with (the mantra)
+
+"Removed", and the food should be given. After saying, "Be
+pleased", the gtiyatri and other mantras should be repeated.
+
+## 20.
+
+"Obeisance to the gods, the forefathers, great yogins,
+Svadhii. and Svii.hii. always."
+
+## 2 1 . After having known that they are satisfied, the food
+
+must be scattered and water should be given to each one of them.
+After repeating the gtiyatri (mantra) as before, (the mantra)
+"honey, honey" should be repeated.
+22-23. They should be asked, "Are you all satisfied ?".
+They should say, "We are satisfied.' Being permitted by them
+the residual food should be gathered together and water should
+be sprinkled by the side of the place where food was eaten. Three
+pir;,¢as should be placed on kusa, after they have done the ticamana
+(rinsing of the mouth) .
+
+## 24. After the rinsing of the mouth, water, flowers and un­
+
+broken rice should be offered. The water given may be undimi­
+
+## nishing. Then (the forefathers) should be requested (as follows) :
+
+25-3 1 . "May the forefathers be gracious : May our progeny
+prosper always. May the donors enjoy prosperity. So also (may)
+the Vedas and progeny (prosper) . May our earnestness never
+fail. May we have plenty to give. May our food get profuse.
+May we get (enough) guests. May there be (plenty) seeking
+alms. May we not seek alms from anybody. The stems of kuJa
+over which the (term) svadhii. (obeisance) has been repeated
+are then gathered along with the pavitras and (permission) should
+be asked to say obeisance (to forefathers) . After having been
+permitted, (the following mantra) should be recited: "Obeisance
+to the fathers (includes the brothers and cousin of the father)
+grandfathers and great-grand fathers. Obeisance." As one is
+repeating this, water should be sprinkled from the raised pot and
+fees should be paid according to one's means. In the ceremonies
+related to the gods and forefathers one should say : "May the
+Visve devas be pleased". They should be bid adieu (with the
+mantra) "Vii.je vii.je". Then one should accompany the brahmins
+(with the repetition) of (the mantra) "ii.mii.vii.jasya," do circum­
+ambulation of them and enter the house. One should do this on
+the new moon day every month.
+
+
+348
+Agni Purii1Jll
+
+## 32.
+
+I shall describe (the mode of doing) ekoddi6ta (rite done
+for an individual only) . The friiddha rite is done as before. One
+pavitra, argha and one pirp/.a are offered.
+33-34.
+In this rite, there is no invocation and the offering
+is not made in the fire. The Visvedevas are not (invited) here.
+At the (time of) query about satisfaction (one should ask) "May
+it be relished". The brahmin should say, "well relished". They
+should be asked to be seated and be pleased with the offering.
+They (should say), "We are pleased". The remaining (part of
+the ceremony) should be done as before.
+35-37. I shall describe (the mode of performing) the sapirp/.i­
+kara'f)a (a rite in honour of the dead person done on the 1 2th day
+after death or at the end of one year) . (It is done) at the end of
+a year or in the middle. Three vessels should be kept for the fore­
+fathers and one vessel for the dead person. The four (vessels)
+should be provided with the sesamum and flowers along with the
+pavitra. Having filled them with scented water, sprinkle the
+vessel of the dead person with the mantra "ye samana". The
+offering of the pi'f.l¢a should be (done) as- before. By this rite
+(the soul of) the dead person attains the position of fathers.
+38-49.
+I shall describe (the mode of doing) the sriiddha
+rite which confers prosperity. Everything is done as before. One
+should repeat (the mantras) except the mantra of the father and
+(do) circumambulation in the forenoon. The materials (re­
+quired are) good kufa, and barley grains instead of sesamum in
+this rite. The query about satisfaction is "Is it well done".
+The brahmin should say, "well done".
+The pi'f)r/.as should be
+composed of curd, broken rice and the jujube. One should ask,
+"Shall I invoke the ancestors who are fit to receive niindi
+(rite)". They should be requested to be satisfied with the offer­
+ings. The manes (who are) the niindimukhas, I shall describe.
+One should ask the clan of manes, the niindimukhas to be pleased.
+The niindimukhas are-father, grand-father, great-grandfather,
+maternal grandfather, maternal great grand-father and maternal
+great great grand-father. (In this ceremony) the term svadhii
+should not be added. Even number of brahmins should be fed.
+I shall describe the country herbs which would satisfy the manes.
+They would get satisfied with the roots and fruits of the forest
+for a month, with the fish for two months,fwith the ominous bird
+for three months, with the deer for four (months) , with the goat
+
+
+1 1 7.50-58
+349
+for five or six, with the tortoise for seven or eight, with the boar
+for nine (months) , with the meat of the ram, (meat) of the
+buffalo and the spotted antelope for ten months, with the milk
+of a cow and payasa (sweat gruel) for one year. They would
+be satisfied for twelve years with the meat of a sacrificial goat.
+The meat of a rhinoceros, the kalaJaka (a kind of vegetable) ,
+(meat) of a red goat, honey and sea crabs offered in the rainy
+season and sriiddha (done) in the (aster ism) of maghii (tenth in
+the cycle) (yields) undiminishing benefits. The brahmins who
+study the Vedas, who do agnihotra, who study their own branch
+of Vedas, those who are learned in the six ancillary texts (of the
+Vedas) , one who worships the Naciketa fire thrice a day, the three
+madhu (rks of the ]J.gveda) , those who read the dharmadro7J.a, one
+who knows the trisupacya (silkta) and the jye6thasiiman are those
+spoken as the panktipiivanas (the purifiers of an assembly) .
+50-53. I shall describe the mode of performing fruit-bearing
+(rites) . (The sriiddha ·done) on the first lunar day confers plenty
+ofwealth, on the second day (gets) beautiful wives, on the fourth
+day the fulfilment of heartfelt desires, on the fifth day (confers)
+progeny, on the sixth day (makes the doer) thrive well, on the
+seventh day (increases) agricultural prospects, on the eighth day
+(confers) material prosperity, on the ninth day mules, on the
+tenth day plenty of cows, on the eleventh day off-springs, on the
+twelfth day wealth and grains, on the thirteenth day (ensures)
+excellent position among one's kinsmen. The iraddha of those
+dead by means of weapons (should be done) on the fourteenth.
+It is said that one gets all (desires fulfilled by doing sriiddha )
+on the new moon day.
+54-58.
+"The seven hunters (who resided) in DasarJ}.a,
+the deer (which dwelt) upon the mountain Kalafijara, the
+cakraviika (a species of water birds) in the Saradvipa, the hamsas
+(ganders) in the Manasa lake were born at Kurukᆆetra as
+brahmins well-versed in the Vedas. They had gone a long way.
+May you excel them." When this verse is read at the (time of)
+5riiddha etc., the sriiddha gets completed and it yields the region of
+Brahma. A son may perform sriiddha of his grandfather even
+as his father is alive, or of the grandfather when the great grand­
+father is living, or of the great grandfather when the great great
+grandfather is living. So also (iriiddha is done) for the mother,
+maternal grandfather etc. Whoever reads the 5riiddhakalpa (that
+
+
+350
+relating to performance of sriiddha) gets the fruits of performing a
+sriiddha.
+59-63.
+A sriiddha performed at a sacred place, or on the days
+of the commencement of the yuga or Manu period gets undimini­
+shing fruits. Similarly, ( sraddha done) on the ninth day of bright
+fortnight in {the month of) Asvayuk (October-November) ,
+on the twelfth day in Karttika (November-December), on third
+day in Magha and Bhadrapada (February-March and Septem­
+ber-October) , on the new moon day in Phalguna
+(March­
+April), on the eleventh day in Pauᆆa (January-February) , on the
+tenth day in Aᆆac;lha (July-August), on the seventh day in the
+month of Magha (February-March) , on the eighth day of dark
+fortnight in Sraval).a (August-September), on the full moon day
+in Aᆆac;lha (July-August) and on the full moon days in Karttika,
+Phalguna and JyeHha (June-July) (confer manifold benefits) .
+The days of commencement of the Svayambhuva Manu periods
+are also of undiminishing benefits. p.aya, Prayaga, (river)
+Ganga, Kurukᆆetra, (river) Narmada, Sriparvata, Prabhasa,
+Salagrama, Varal).asi and river Godavari (are sacred places) .
+Sriiddha (done) at those places and also at the Puruᆆottama
+(k`etra) (Puri) (yields manifold fruits) .
+
+## CHAPTER ONE HUNDRED AND EIGHTEEN
+
+The country of Bhiirata
+
+## Fire-god said :
+
+
+## 1 . That country which (lies) to the north of ocean and south
+
+-of Himadri (Himalaya) is known as the Bharatavarᆆa ex­
+tending to nine thousand (yojanas) .
+
+## 2-4. This is a land of religious rites. It gives accomplish­
+
+ment of action in getting redemption. Mahendra, Malaya,
+Sahya, Suktimat, Hemaparvata, Vindhya and Pariyatra are the
+seven principal mountains here. Indradvi pa, Kaseru, Tamra­
+varl).a, Gabhastiman, Nagadvipa, Saumya, Gandharva, Varul)..a
+and Bharata are the nine territories here surrounded by the ocean.
+
+
+
+## 1 18.5-1 1 9.7
+
+351
+
+## 5-8. The continent extends to one thousand yojanas from
+
+north to south. There are nine divisions of the Bharata lying
+around the
+central part. The kirii.tas (hunting tribes) (are)
+in the east. The yavanas (the foreigners) (are in the west) . The
+brahmins and others devoted to the Vedas and smrtis (code books)
+(are) in the central part. The rivers rise from the Pariyatra
+(mountains) . Narmada and other (rivers) flow from the Vindhya.
+(The rivers) Tapi , Payog1ika, Godavari, Bhimarathi and
+KnQ.aveQ.i and others flow from the Sahya (mountains) . (The
+rivers) Krtamala and others flow from the Malaya (mountains) .
+(The rivers) Trisama and others originate from the Mahendra
+(mountain) . (The rivers) Kumiira and others rise from Sukti­
+mat (mountain) . (The river) Candrabhaga rises from the
+Himalaya (mountains) . The countries Kuru and Paficala and
+the Madhyadesa are situated in the western part.
+
+## CHAPTER ONE HUNDRED AND NINETEEN
+
+Description of different continents
+
+## Fire-god said :
+
+
+## 1 . The Jambiidvipa extends to a lakh of yojanas. It is sur­
+
+rounded by the Kl?i roda (ocean) measuring one lakh yojanas.
+
+## 2. The Plakl?advipa is surrounded by the Kl?ara ocean.
+
+The seven sons of Medhiitithi are the rulers of Plakl?advipa.
+
+## 3.
+
+They are Santabhaya, Sisira, Sukhodaya, Ananda, Siva,
+Kl?ema and Dhruva after whom the countries are named.
+
+## 4.
+
+Gomedha, Candra, Narada, Dundubhi, Somaka, Su­
+mana and Vaibhraja are the boundary mountains. The inhabi­
+tants are good.
+
+## 5. There are seven principal rivers here. The inhabitants
+
+from Plakl?a to Saka live for five thousand years and they adhere
+to righteous way of life adhering to the institutions of caste and
+stages of life.
+
+## 6-7. Aryakas, Kurus, Vivimsas and Bhiivins are respectively
+
+the brahmins and others (k1atriyas, vai.fyas and sudras) here. They
+worship (lord) Soma (moon) . Its extent is two lakhs yojanas
+
+
+352
+Agni Puril1Ja
+and it is surrounded by the ocean of ikҫurasa of equal measure.
+The Salmala (dvipԐ) is twice that. The seven sons of Vapumat
+were the rulers of Salmala.
+
+## 8-12. Sveta, Harita, Jlmiita, Lohita, Vaidyuta, Manasa
+
+and Suprabha are their names and the countries were known by
+their names. This twice bigger continent is surrounded by the
+Suroda (ocean) of equal measure. The seven (boundary moun­
+tains) are Kumuda, Anala, Balahaka, Dro:Qa, Kailka, Mahia
+and Kakudmat. The brahmins and other (three castes) are
+Kapila, Aru:Qa, Pi ta and Kn:Qa (respectively) . They worship
+(the lord) in the form of Vayu (wind god) . This is surrounded
+by Suroda. Udbhida, Dhenumat, Dvairatha, Lambana, Dhairya,
+Kapila and Prabhakara, (the sons) ofJyotimat were the rulers
+of Kusa (dvipa) . Dadhimukhya1 and others are the brahmins
+and others. They worship (the lord) in the form of Brahma.
+
+## 1 3. Vidruma, Hemasaila, Dyutimat, Pupavat, Kusesaya,
+
+Harisaila and Mandara are the boundary mountains.
+14-16. This is surrounded by the Ghrtoda ocean as well
+as the Krauficadvipa. The sons of Dyutimat were the rulers of
+Krauiica and the countries (ruled by them) were named after
+them. They are seven-Kusala, Manonuga, U :Qa, Pradhana,
+Andhakaraka, Muni and Dundubhi. (The names of) the seven
+mountains here are Krauiica, Vamana, Andhakaraka, Devavrt,
+Pu:Q«;larika and Dundubhi. Each one of them is twice as big
+as the other.
+1 7-19. The mountains in the respective continents are also
+twice as the corresponding one in the others. The brahmins and
+others (three castes) are Pukara, Pukala, Dhanya and Tiya
+and (they) worship Hari. The Krauiicadvipa is surrounded by
+Dadhima:QQ.odaka (ocean) and the Sakadvipa. The sons of
+Havya and the rulers of Sakadvipa were Jalada, Kumara,
+Suktimara, Ma:Qivaka, Kusottara, Modak i and Druma. The
+countries were known by their names.
+20-2 1 . Udaya, Jaladhara, Raivata, Syama,
+Kodraka,
+Ambikeya and the beautiful Kesari are the seven (boundary)
+mountains. The brahmins and others are Maga, Magadha,
+Manas a and Mandaga. They worship (the lord) in the form of
+the Sun. The Saka dvipa is surrounded by the Kirabdhi.
+
+## 1 . These are Daminal;l., Su/mi0al;l., Snehal;l. and Mandehal;l..
+
+
+
+1 1 9.22-120.5
+353
+22-24.
+It is also surrounded by Pukara
+(dvipa) . (The
+ruler ofPukara) , Savana had two sons-Mahavita and Dhataki.
+They ruled over two countries known by their name. There is
+one boundary mountain called Manasa at the centre in the shape
+of a bracelet. It extends to one thousand yojanas and is of equal
+height. (The people here) live for ten thousand years. (Lord)
+Braluna is worshipped here by celestials. This continent is
+surrounded by the Svadudaka ocean of equal measure.
+25-26.
+The waters of the ocean neither decrease nor in­
+crease. 0 Sage ! At the moon-rise or moon-set and at the
+white and dark fortnights, an increase or decrease of waters by
+five hundred and ten angulas (equal to one finger-breadth) is
+seen in the oceans.
+27-28. The Svadudaka is of many good qualities. The land
+is golden and is devoid ofliving beings. The peak (called) Loka­
+loka extends to a lakh ofyojanas. It is engulfed in darkness in the
+form of the pan of the egg-shaped (universe) . This land found
+with this pan of the egg-shaped (universe) extends to fifty crores.
+
+## CHAPTER ONE HUNDRED AND TWENTY
+
+The extent of the universe
+
+## The Fire-god said :
+
+
+## 1 . The extent of the earth is believed to be seventy-thousand
+
+(yojanas) . Its height is ten thousand. The nether worlds (extend)
+to one thousand each.
+
+## 2-3.
+
+The seven nether worlds are Atala, Vitala, Nitala,
+Gabhastimat, Mahatala, Sutala and
+Patala. The demons
+dwell in those pleasant lands which are respectively coloured
+black, yellow, red, white, stony and golden.
+
+## 4. Lord Vig:m in the tiimasa (darkness)
+
+form as Sea
+(the serpent) lies under the nether worlds. He, the Ananta
+(infinite) on account of his infinite (good) qualities, (lies there)
+supporting the earth with his head.
+
+## 5. There are many hells under the earth. A vairr;ava (devo·
+
+
+
+354
+Agni Puriit)a
+tee oflord Vil).u) should not fall therein. The extent upto which
+the earth is illuminated by the sun is known as the sky.
+
+## 6. 0 Vasitha ! The region of the sun is at (a distance of)
+
+one lakh (yojanas) from the earth, the region of the Moon at one
+lakh (yojanas) from the Sun, and the region of the stars at one
+lakh (yojanas) from the moon.
+
+## 7-8.
+
+(Planet) Mercury is at two lakhs (yojanas) from the
+region ofthe stars. (Planet) Venus (is) at two lakhs from Mer­
+cury. (Planet) Mars (is) at two lakhs from Venus. (Planet)
+Jupiter (is) at two lakhs from Mars. (Planet) Saturn (is) at
+two lakhs from Jupiter. (The region of) the seven sages (ursa
+Major) (is) at one lakh from Saturn, the polestar (is) at one
+lakh from the sages (Ursa Major) and is at the apex of the three
+worlds.
+
+## 9.
+
+The Maharloka (lies) at a crore (yojanas) from the pole­
+star, where those who have seen a full cycle of time reside. The
+Jana (loka) , wherein dwell (the sages) Sanaka and others,
+(lies) at two crores (of yojanas) from that.
+1 0-1 1 . The Tapo (loka) (is) at eight crores fromJana (loka)
+where Vairajas (a class of celestial beings) are the presiding
+deities. The Satyaloka is at ninetysix crores from the Tapo
+(loka) . It is known as the Brahmaloka where dwell celestials
+who do not die. The region fit for one to move on foot is the
+Bhiiloka (the earth) . The region of Bhuvarloka is said to be
+between (the earth and) the Sun.
+
+## 12. The Svargaloka lies between the Sun and the pole-star
+
+in the fourteen lakhs (yojanas of space) . These regions cover as an
+exterior shell of the universe.
+
+## 1 3. They are again covered by ten-fold layers of elements
+
+water, fire, wind and ether.
+
+## 14. 0 Great sage ! Each one of the ten latter regions lie
+
+enfolded in one another and thus form an exterior cover of the
+primary thing.
+
+## 15. 0 sage ! One does not have any knowledge about the
+
+limit of that infinite. That nature has been the source of every­
+thing else.
+
+## 16. This kind of innumerable eggs had come into being
+
+there. The pumiin (brahman) exists in a potent state in the univer­
+sal nature just
+as the fire in the wood and oil in the sesamum.
+
+
+
+## 120. 1 7-32
+
+355
+1 7-19.
+This puman lies embedded in the nature as a conscious
+onlooker and knower. 0 \Viseman ! The nature and the brah­
+man are held together by the force of ViI).u, the form of the
+essential virtues of all beings. That is the cause for their separate
+existence as well as union. 0 Great sage ! That is the cause for
+the agitation at the time of creation (of beings) . It is similar to
+the wind sustaining hundreds of water particles after its contact
+with water.
+
+## 20. The celestial beings and others are born through the
+
+concerted action of the nature and the effect of the force of
+ViŵI).u acted upon by the force of the former.
+2 1 -29. ViŵI).u is identical with brahman itself from whom
+this entire universe (has come into being) . The chariots of the
+Sun are nine
+(occupying) thousand yojanas. 0 Excellent
+sages ! The axis is double that (measure) . The axle of its wheel
+is one and half crores and seven lakhs (yojanas) . The wheel is
+fixed there. It has three naves1, five spokes2, six circumferences3,
+two movements4 consisting in the cycle of period. 0 Great
+intellectual ! The second axis of the Sun's chariot is twentytwo
+thousand seven hundred and fifty (yojanas) . The measurement of
+the two axles is equal to its yoke. The shorter axis and its yoke
+rest on the polestar. 0 Best disciplined ! The seven metres
+gayatri5 and others are its horses.
+Sun's rise and setting are his
+being perceived and not being perceived. 0 Vasiŵtha ! The
+regions from the earth to those where the polestar remains
+get lost at the time of deluge. The region where the polestar is
+stationed to the north of Ursa major is the excellent shining
+third place of (lord) ViI).U in heaven. This is the excellent
+place of ascetics who have become free from impurities.
+
+## 30.
+
+The river Ganga which purifies one by mere remem­
+brance flows from there. It is to be known that the porpoise shape
+of the planets in the sky is that of lord ViI).u.
+31-32. The polestar is situated at its tail. It revolves (on
+its non axis) and causes the planets to go round. That chariot
+
+## 1 . Forenoon, midday and afternoon.
+
+
+## 2.
+
+Parivatsara etc.
+
+## 3. The seasons.
+
+
+## 4. Northern and southern.
+
+
+## 5. giiyatTi, brhati, uroik, jagati, friJup, anu11up and palikti.
+
+
+
+356
+Agni Purib)a
+of the Sun is ridden by different celestials, Jfdiryas (sons of
+Aditi) , sages, gandharvas (semi-divine beings) , apsaras (semi­
+divine beings) , griimat;ti (semi-divine beings) , serpents and de­
+mons. Lord sun is the cause of snow, heat and rain.
+33-36.
+He is the manifestation of lord Vigm of the form
+of IJ.gveda and other ( vedas) and is the cause of good and evil.
+The chariot of moon has ,three wheels drawn by ten horses yoked
+to its left and right and of the colour of jasmine. Thirtysix
+thousand three hundred and thirty-three celestials drink (the
+phases of) the moon. The manes (drink) one phase. One
+(phase) (is lost) being associated with the rays of the new moon.
+The chariot of the son of the Moon Mercury is composed of
+the fiery and windy material. Mercury moves on drawn by its
+eight horses.
+37-41 .
+The chariot of Venus (has got) eight horses, as also
+the chariots of Mars, Jupiter and Saturn (drawn) by horses.
+The chariot of Rahu (ascending node of the Moon) (has) eight
+horses. The chariot of Ketu (descending node of the Moon)
+(has) eight horses. 0 Brahmin ! From this body of (lord)
+Vi:Q.u this lotus-shaped earth with the mountains etc. has
+originated. (Lord) Hari (Vigm) is the galaxy, worlds, rivers,
+mountains, oceans and forest. Whatever exists or ceases to exist
+is (lord) Vigm, known through true knowledge about (lord),
+Vi:Q.u. There is nothing beyond the purview of knowledge.
+Knowledge is the supreme place, the (lord) Vi:Q.u. One has to
+do that act by which that true and infinite knowledge, namely,
+(lord) Vi:Q.u, may be attai..P-;.c:l..Whoever reads (the section on )
+cosmogony would attaiP :.,.appiness.
+
+## CHAPTER ONE HUNDRED AND TWENTY ONE
+
+The science of Jyotifa (Astronomy and Astrology)
+
+## Fire-god said :
+
+
+## 1 . I shall describe the science of astrology which gives dis­
+
+crimination of good and bad events. It is the quintessence of
+four lakhs (of treatises) . By knowing this (science) one becomes
+.omniscient.
+
+
+12 1 .2-1 0
+357
+
+## 2. The marriage of girls should not be done when there is
+
+`arja6taka1 or dvidviidasa2 as well as in triko1Ja3• In other cases as
+well as in samasaptaka, there will be happiness.
+
+## 3. If there is friendship between the lords of the second and
+
+twelfth (houses) or the trines or there is single lordship, then there
+will be prosperity in the married life even if there be hostility.
+
+## 4. Even in such a condition the union may be made, but
+
+not in sixth-eighth (6arja6taka) condition. (If the marriage is
+done) when Jupiter or Venus has set, the bridegroom and bride
+would die.
+
+## 5. A marriage is not commendable when the Sun is in the
+
+house of Jupiter or Jupiter is in the house of the Sun.
+
+## 6.
+
+The marriage should be postponed by three fortnights
+or by four months respectively when there is transit (of a planet
+from one house to another) or retrograde motion (of a planet) .
+A vow or marriage should not be done when there is . retrograde
+motion or transit of Jupiter.
+
+## 7.
+
+(Marriages done) in (the months of) Caitra (April­
+May), Paua (January-February) on the riktii days (fourth,
+ninth and the fourteenth day of a fortnight) or when (lord)
+Hari (Vigm) is asleep, or on Tuesdays and Sundays or on the
+new moon day would bring forth unfavourable result. But the
+twilight (time) is auspicious.
+
+## 8. A marriage is said to be commendable in the asterisms
+
+rohiT)i, uttarii, mula, sviiti, hasta and revati (when the Sun is) in
+Libra or Gemini.
+
+## 9.
+
+One should avoid a viddhark`a4 in celebrating a marriage,
+piercing the ears, vow, rite to determine the sex of a child before
+its birth, the first feeding of the child, and the tonsure.
+
+## 10. The rite to determine the sex of the child before its
+
+birth should be done in (the asterism) sravaT)a, mula and pâya,
+on Sundays, Tuesdays and Jupiter and in (the signs of) Aqua­
+rius, Leo and Pisces.
+
+## 1 . The sixth and eighth; counting from the ascendant in the horoscope
+
+of the proposed life partners the ascendant in the other person's horoscope gives
+sixth or eighth.
+
+## 2.
+
+The second and twelfth; counting as before which gets the second or
+twelfth.
+
+## 3.
+
+The trine, Leo, Taurus, Virgo, Sagittarius, Libra and Aquarious are
+the trines for the planets sun etc.
+
+## 4. Certain asterisms said to be opposed to certain other asterisms.
+
+
+
+358
+Agni PuriiT)a
+I I . The discharge of a debt (should be done) in (the aster­
+isms) hasta, mula, mrga (Sir`a) and revati and on Wednesday and
+Friday. The (rite of) chewing of betal leaf should be done on
+Sunday, Monday, Thursday and Friday and in (the asterism)
+mula.
+
+## 12. The first feeding (of a child) (should be done) on a
+
+Friday or Thursday or in (the asterism) mrga (Sir`a) in (the sign
+of) Pisces, in the five asterisms (beginning with hasta (citra and
+svati) and in the three asterisms beginning with krttika (rohiTJ.i
+and mrgafir`a) .
+
+## 13. New fruits and food should be eaten in (the asterisms
+
+of) afvini or revati, puva, hasta, jye`tha, rohit'}i, fravar.za and asvini.
+
+## 14.
+
+Medicine should be administered in (the asterisms of)
+svati, saumya (name of the five stars in orion's head ) , the three
+p ilrvas ( Purvaphiilguni, p ilrvabhiidrapada and p ilrvŦ¥a¢ha, magha,
+yiimya (bharaTJ.i) and the three (beginning with) srava1Ja which are
+auspicious.
+15-20.
+One should bathe first after becoming free from ill­
+ness on Tuesday or Sunday or Saturn. One should write eight
+times the syllable 'hrim' and the name (of the enemy) in the
+middle and the (names of the eight) vasus as well as the l sy liable)
+hrim in the (eight) angular points on a Tuesday and wear it in
+his cloth on the neck with the gorocanii (pigment got from the
+cow) and saffron. It is certain that one's enemies get sub­
+jugated by this mantra. Srim hrim is the protective (mantra) when
+the (mantras) srim and hrim are written on the bhurja leaf as stated
+above in the eight (points) together with gorocanii and saffron
+and covered by turmeric. (Similar writing) on a stone slab
+kept buried under the soil with its face downwards nullifies them.
+Om hum salt is the mantra. This mantra written on a bhilrja leaf
+along with gorocanii and saffron wards off death. The first, fifth
+and ninth houses confer satisfaction and second, sixth and
+twelfth confer general welfare.
+21-23. The third, seventh and eleventh cause acquisition;
+fourth, eighth and twelfth cause enmity. (The twelve houses
+Mea etc. denote) respectively the body, wealth, brothers,
+friendship, progeny, enmity, wife, death, righteousness, activity,
+income and expenditure. One should speak about the nine
+
+
+12 1 .24-33
+359
+tiiriibala1 (as follows) : the janma (birth) , sampat (prosperity) ,
+vipat (misfortune), k{ema (welfare) , pratyari (enmity) , siidhaka
+(seeker or accomplisher) , nidhana (death) , mitra (friend) and
+paramamitra (close friend) .
+
+## 24. The first shave (of a child) is commended on Sunday,
+
+Monday, Wednesday, Thursday and Friday in the six months
+commencing with Miigha (February-March) .
+25-26. The kaTQavedha (piercing of the ear) (should be done)
+on Wednesday and Thursday in the (asterisms of) pâya, sravaT)a
+and citra. The commencement of study in the fifth year (should
+be done) after worshipping (lord) Hari (Vigm) and (goddesses)
+Vai.J.i (goddess of speech) and Sri (Lakmi, goddess of wealth) ,
+avoiding the sixth, first and the fifteenth, the riktii days (fourth,
+ninth and fourteenth days) and Tuesday. The tying up of the
+girdle is auspicious
+(if done) in the six months commencing
+with Miigha.
+27-3 1 . The tonsure and other (rites) are not commended
+in (the asterisms) sraVaT)a etc. The investiture of a brahmin
+(boy) performed when the Jupiter or Venus has set and the
+Moon is waning brings forth death or stupidity. The rite mark­
+ing conclusion of the study should be done on an auspicious day,
+in the asterism suitable for shaving, at an auspicious place on
+the rising constellations in a good house. The imparting of the
+science of archery in the asterisms a§vini, maghii, citrii, sviiti, yiimya
+(bharaTJi) , uttarii, punarvasu and pԑya is commendable. One who
+desires to live should not wear new clothes in the asterisms
+bharaT)i, iirdrii, maghii, iisleŤ·ii, krttikii and uttaraphiilguni. (Wearing
+of new) clothes on Wednesday, Thursday and Friday is not
+objectionable at (the time of) marriage (and other festive occa­
+sions) .
+
+## 32.
+
+Wearing of gems like conch-shell and coral is commen­
+dable in (the asterisms of) revati, asvini, dhani{!hii, and the five
+commencing with hasta.
+
+## 33. Anything bought in (the asterisms of) bharaT)i, sarpa
+
+(a particular constellation), dhani{thii, the three purva (purva-
+
+## 1 . Counting from the birth asterism to the asterism of that day that
+
+number should be divided by nine, the remainder indicates the tiirabala as
+shown above.
+
+
+360
+Agni PuriiT)a
+phiilguni, purvabhiidrapada and purvŦ¥iir/ha) and viiruT)a (Satabhiiak)
+causes adversity. Also its sale causes adversity.
+
+## 34. Anything bought in (the asterisms of) a.Svini, sviiti,
+
+citra, revati and satabh¥ak and on Sunday causes profit. If any­
+thing is sold (on the days ruled by these asterisms) causes adver­
+sity.
+
+## 35.
+
+An employer should not be attended upon in (the
+asterisms of bharaTJi, the three purvas (see verse 33 above) , iirdrii,
+ii.Slefii, maghii, sviiti, krttikii, jyeithii and visiikhii.
+
+## 36. Money is deposited or articles are given or taken back
+
+in (the asterisms of) uttara, sravaT)a and siikra (jyeitha) . The
+coronation of a king should be done (in these asterisms) .
+
+## 37. Entering a house (for the first time) is auspicious in
+
+the months other than Caitra (April-May) , Jyeitha (June-July) ,
+Bhiidra (pada)
+(September-October) , Asvina (October-Novem­
+ber) , PaUfa (January-February) and Miigha (February-March) .
+
+## 38. The commencement (of the construction) of a house in
+
+(the asterisms of) asvini, rohiT)i, mula, the three uttaras (uttara­
+phalguni, uttarabhiidrapada, and uttariiiiit/ha) , mrgasirfa, sviiti, hasta
+and anuriidhii is commendable.
+39-40.
+Sundays and Tuesdays should be avoided for (the
+excavation of) a tank or (the construction of) a palace. So
+also the building of a house should be avoided when Jupiter is
+in Leo or in (the conjunction of) Jupiter and Sun or in an inter­
+calary month or when Venus is in the transit ascension or des­
+cension or has set. (It would cause) burning by fire, fear, disease,
+affliction from the sovereign or loss of wealth.
+
+## 4 1 . Hay should b e gathered in the five (asterisms of JravaT)a
+
+etc. ) . One should enter the (new) house in the asterisms of
+dhaniilhii, uttarii and viiruT)a (Satabhifak) .
+
+## 42.
+
+The second, third, fifth, seventh and thirteenth days
+(of a fortnight are commendable) for the construction of a boat.
+A sovereign should be seen in (the asterisms of) hasta, revati and
+a.Svini.
+
+## 43. Pilgrimage undertaken in (the asterisms of) the three
+
+uttara (uttarii$iit/ha, uttaraphiilguni, and uttarabhiidrapada) , dhaniilhii,
+iirdrii, krttikii, saumya (mrga.Sirfa) , visiikhii, iisleiii and asvini accom­
+plishes prosperity.
+44-4 7.
+One should not graze the cows in the three (aster­
+isms of) uttarii, rohiT)i or on siniviili caturdasi (day prior to new
+
+
+1 2 1 .48-54
+361
+moon) or in (the asterisms of ) srava1J.a, hasta, citra and vai61J.avi
+(Srava1J.a) . One should not enter (the cow-pen) in (the asterisms
+of) anita (svati) , uttara, rohiTJ.i, mrga (Sir6a) , punarvasa, srava1J.a
+and hasta. One should do agriculture in (the asterisms of) punar­
+vasu, uttara, svati, Bhaga (purvaphalguni), mula, Indra (purva̽ arjha)
+and varu1J.a (Satabhi6ak) or on Thursday or Friday or Monday
+or Sunday or in (the zodiacal signs of) Taurus, Virgo and
+Gemini.
+48-51 .
+One who desires fortune should sow seeds except
+that of the mandara (coral) on the second, third, fifth, seventh,.
+tenth and thirteenth (days of the fortnight) and in (the asterisms
+of) revati, rohiTJ.i, Indra (purva6Mha) , Agni (krttika) , hasta, maitra
+(anuradhii) and uttara. Harvest of grains should be done in (the
+asterisms of) revati, hasta, mula, frava1J.a. Bhaga (purva-phalguni) ,
+maitra (anuradha) , pitrdaiva (magha) and saumya (mrgafir6a) .
+One should take them into the house at the time of the rise of
+(the aster ism) mrgasir6a or in (the asterisms of) hasta, citra,
+Aditi (punarvasu) , svati, revati or in the three stars (commencing
+with) srava1J.a or in a fixed sign or on Thursdays, Fridays and
+Wednesdays or in (the asterisms of) yamya (bhara1J.i) Aditi (punar­
+vasu) , magha, jye6tha and uttara.
+
+## 52.
+
+(The following mantras) written on a leaf and placed
+amidst the heap of grains in (the asterisms of) the three p urvas
+(purva6arjha, purvaphalguni and purvabhadrapada) ,visakha, dhani6thii
+and varu1J.a (Satabhi;ak) increases the grains "Om, (salutation)
+to the bestower of wealth and the lord of all wealth. Give me
+wealth. Oblations. 0 goddess Ila
+(LakliJmi)
+! One who
+makes the world thrive ! The desire incarnate ! Grant me
+wealth in the new year ! Oblations.
+
+## 53.
+
+Wisemen know that grains should be taken out in the
+(above) six a.sterisms. Tanks, gardens and (images of) gods
+should be consecrated when the Sun is in the Cancer. (Lord)
+Cakrapat;ti (the wielder of the disc) (ViliJt;tu) should always be
+laid down when the Sun is in the (sign of) Gemini and it is the
+twelfth day after the new moon.
+
+## 54.
+
+When the Sun is in the (sign of) Leo and in Libra and
+the two twelfth days after tl>e new-moon, the first is the day of
+getting up of (lord) Indra and l the second one) is the waking
+up of (lord) Hari.
+
+
+362
+Agni Purdr)a
+55-57.
+Similarly, (the goddess) Durga is made to get up
+when the Sun enters (the sign of) Virgo. When a bhadriitithi
+(the second, seventh and twelfth days of a lunar fortnight) occurs
+on a Tuesday, Sunday or Saturday and is marked by three fourth
+of a constellation that (combination) is known as tripu6kara.
+All ceremonies should be done when the moon and star are pure.
+
+## 58. One has to forecast prosperity for those in whose (chart) ,
+
+the Moon is situated in the sixth, seventh, tenth or eleventh
+house from the ascendant.
+59-60.
+The second, fifth and ninth in the bright fortnight
+brings good. The asterisms are (known to be) friendly, extremely
+friendly, accomplisher of riches and welfare etc. (The one known
+as friendly) causes death by its ascendancy. That which is
+calamitous (causes) destruction of wealth. One should know
+that which is pratyari .(enemy) (causes) death. One gets death
+in that which is (known as) destruction.
+
+## 6 1 . The period from the eighth day of the dark (fortnight)
+
+till the eighth day of the bright (fortnight) , the moon is known
+to be waning and is known to be full thereafter.
+
+## 62.
+
+It is known to be mahiijyai`!hi if the Sun is in (the signs
+of) Taurus or Gemini and Jupiter is in (the asterisms of) mrga­
+Jir̾ a or jye`!hii and the full moon (occurs) on a Thursday.
+
+## 63.
+
+It is also called mahiijyai`!hi when Jupiter and Moon
+are in (the asterism of) jye`thii and the Sun is in (the asterism of)
+rohit;zi on the full moon day in the month ofjye`!hii (June-July) .
+
+## 64. The banner of (lord) Indra fastened to the support
+
+should be hoisted in (the asterism of) sviiti. It should be lowered
+down after a week in (the asterism of) asvini and in the sign of
+Leo.
+
+## 65. When the Sun is eclipsed by Rahu (the ascending node)
+
+any gift is deemed to be gold, all the brahmins are equal to
+(lord) Brahma and all the waters are equal to Ganga.
+
+## 66. 0 Brahmins ! The entry of the Sun in the different signs
+
+is kno\\<n by the names of dhviink`i, mahodari, ghorii, mandii, mandii­
+kini and riijasi.
+
+## 67. If the Sun passes (from one sign to the other) in the
+
+karaT)as (divisions of a day) biilava, kaulava and taitila, then the
+people would be happy.
+
+## 68. People would suffer from poverty and harassment by
+
+
+
+
+## 12 1.69-79
+
+363
+the sovereign if (the Sun) enters (the astral combinations known
+as) gara, vava, var;ik, vifti, kintughna and sakuna.
+
+## 69.
+
+If the Sun makes a transit in lying position in calUf­
+pada, vifti or viir;ijya (karar;as1 or divisions of the day ) , it would
+cause famine or war between sovereigns or quarrel among hus­
+bands and wives.
+
+## 70.
+
+If (the Sun) stays in one's birth-star it would cause
+disease or mental anguish, while (its presence) in the asterisms
+of krttikii and rohir;i would cause misery for nine nights and three
+nights respectively.
+7 1-76.
+It is said that the transit in (the asterism of) mrga­
+sira (causes misery) for five nights, in iirdrii (causes) death, and
+in punarvasu or PUfya (causes) (misery) for seven nights. Its
+entry in (the asterism of) iiS/efii (causes misery) for nine nights,
+in maghii (causes misery) until one's death, in parvaphiilguni
+(causes misery) for two months and in uttarii (causes misery)
+for fifteen (days) . While the sun is in (the asterism of) hasta,
+the ( asterisms) citra, sviiti and visiikhii would bring misery for
+a fortnight, two months and twenty days respectively. Its transit
+in (the asterisms of) anuriidhii,jyefthii, mula andpurv/ifiirf.ha (would
+.cause misery) for ten days, a fortnight, no relief (from misery)
+or fifteen days respectively. (The Sun's transit) in (the asterisms
+of) uttarii, sravar;a, dhanif!ii and satabhifak (would cause misery)
+for twenty days, two months, fifteen days or ten days respecti­
+vely. There will not be .relief (from misery) if it enters (the
+asterism) bhiidrapada.
+(The Sun's transit) in (the asterisms of)
+uttar a, revati and asvini would (cause misery) for fifteen days or
+ten days or a single day respectively.
+
+## 77. Its transit in (the asterism) bharaT)i causes danger to
+
+life and it becomes auspicious by doing oblations with the giiyatri
+(mantra) . Making a gift of a cow with five kinds of grains, sesa­
+mum, clarified butter to a brahmin compensates (the evil in­
+.fluences) .
+78-79. The periods of influence of the Sun, Moon, Mars,
+Mercury, Saturn, Jupiter, Rahu and Venus are six, fifteen,
+eight, seventeen, ten, nineteen, twelve and twentyone years
+respectively.
+
+## 1 . These are different kararzas or eleven divisions of the day.
+
+
+
+364
+Agni Purd{la
+
+## CHAPTER ONE HUNDRED AND TWENTYTWO
+
+Pancanga : The Almanac*
+
+## God Agni said:
+
+I a.
+Time is (reckoned by) the accumulated number of
+years, (months etc., from the epoch up to the point of time under
+consideration ) . I shall set forth the calculation involved in reckon­
+ing time.
+I b. The accumulated (i.e. elapsed) 'number of years (up to
+the required point of time) is to be multiplied by 1 2 (arka) and
+the (number of months elapsed in the current year from) Citra
+is to be added to the product) 1
+
+## 2a. The sum obtained is doubled and placed at two places.
+
+To one is added 4 (veda) and to the other 865 (pancang6Jta) .
+(The latter figure is to be divided by 60 and the quotient added
+to the first, while the remainder is kept as the second figure) .
+The resultant is to be called 'gur;.a'. 2
+*General : Panciinga or the five aspects of reckoning time for each day, com­
+puted and recorded in Hindu almanacs are : (i) Viira (day of the week), (ii)
+Tithi (lunar day}, (iii) Nak$atra (the Constellation through which the moon
+moves) , (iv} Toga (Sum of the longitudes of the Sun and the Moon) , and (v}
+Kararza (half-tithi) . All these reckonings have religious and ritualistic signi­
+ficances.
+The verses in this chapter are all of a highly cryptic nature and, like philo­
+sophical aphorisms, imply much more than what is actually expressed, and
+can be correctly understood only with suitable explanations. While the implied
+information is given brackets in the translation, an example is worked out in
+the Notes illustrating the working, step by step.
+
+## 1 . Any
+
+epoch or starting point in time
+might be adopted, like,
+for
+instance the Kalpa or the beginning of creation, the Caturyuga, Kaliyuga etc.
+or any of the eras like the Saka.
+Let the point of time taken for consideration, for which the Pallciinga is
+required be Saka 10 (elapsed) , in the month of Vaisiikha, 1 st tithi of the bright
+fortnight.
+Multiplying by 1 2, the elapsed years,
+Adding the 1 month, MeŶa, elapsed,
+Total months elapsed from epoch
+
+## 2.
+
+Multiplying the months from epoch by 2
+
+## and plactng them in two places :
+
+Adding 4 and 865
+Dividing the second figure by 60 and
+adding to the first
+l O X 1 2
+= 1 20
+.
+= 1 2 1
+(i.e. 1 2 1 X 2 = 242)
+242
+242
+4
+865
+246
+l l 07
+264
+27
+
+
+l22.2b-5
+365
+
+## 2b.
+
+(The gu1)fl) is placed at three places (one below the
+other, in the serpentine fashion, each being written one step to the
+right of the preceding one ) . The 'middle' is multiplied by 8
+(vasu) and the product again multiplied by 4 (veda ) . (The
+columns are to be added up. ) and again written as 'upper'ᆭ
+'middle' and 'lower'.l
+
+## 3. Subtract 398 (aĎta-randhra-agni) from the lower and 87
+
+(saika-rasii;taka) from the 'middle'. Divide (the 'middle' and
+the 'lower' ) by 60 and add the quotients to the preceding, (keep­
+ing the remainders in their places) . 2
+
+## 4a.
+
+Viira-tithi correction. The first (i.e. 'upper) ' when divided
+by 7 will give the week-day constant for tithi. (The quotient is
+to be rejected as of no more use. ) The resultant is to be used as
+the Vara-correction for tithi-na¢ikiis'. 3
+
+## 4b-5.
+
+NakĎatra-Yoga constants. The 'guTJ-a' derived above
+is to be multiplied by 2, and 3 subtracted from the second figure.
+GuT)a is set down before the result (in the serpentine fashion) .
+30 (kha-riima) is set down below the last figure, and 6, 12 and 8
+(rasa-arka-̿
+ta) , respectively, below the three figures, (and the
+columns added up and elevated by dividing by 60) . Divide the
+first figure by 28 and place it below the 'correction for tithi' (ob­
+tained in verse 4a) . (add and take the result as a second 'upper' ) .ᆮ
+I . Placing the gu(la) in three places
+
+## in the serpentine fashion :
+
+264
+27
+264
+27
+264
+27
+Multiplying the 'middle' by 8 (i.e. 2 1 1 2-216) and again by 4
+
+## 864), and setting it down in the above scheme :
+
+264
+27
+8448
+864
+264
+Adding the columns, the new 'upper', 'middle'
+(upper)
+(middle)
+(lower)
+(i.e. 8448-
+27
+
+## and 'lower' are :
+
+264
+8475
+l l 28
+27 (27 is
+rejected)
+
+## 2. Subtracting 398 and 87
+
+87
+398
+264
+8388·
+730
+Elevating by 60
+404
+0
+1 0
+
+## 3 . Dividing the 'upper' by 7 for week-days and rejecting the quotient,
+
+we get the vdra-correction for tithi as 3-0- 10.
+
+## 4.
+
+Multiplying the 'gut!a' (264-27 ) by 2 (i.e. 528-54 and subtracting 3
+Setting down the 'gut a' below
+Adding 30 to the last figure
+Adding 6-1 2-8 to the expression
+528
+5 1
+264
+6
+1 2
+27
+30
+8
+
+
+366
+Agni Purii1)a
+
+## 6-8a. The 'gul).a' is halved, 3 subtracted (from its second
+
+figure) and the whole expression multiplied by 2 . The first figure
+here is multiplied by 1 1 (rudra) ; the second figure is increased
+by 1 and divided by 39, the quotient being subtracted from the
+first figure and the remainder kept in its place. The resultant is
+termed madhya. Subtract 22 from the first figure and divide it
+by 60 ; the remainder is deductive; the quotient is added to the
+(second) 'upper' (of verses 4b-5) . The first figure is divided by
+27 and the remainder set down in its place. The resultant expres­
+sion is the constant for the correction of naf0atra and yoga.1
+8b-9a.
+Nakᆇatra. For the calculation of tithi, there is a
+monthly constant, being 2 pi1J¢as (i.e. whole units) and 32 TJii¢i­
+kiis (which has to be added to the tithi correction contained in
+verses 4a) . Similarly, for the nak6atra, there is a monthly constant,
+being 2 nak6atras and 1 1 niitf,ikiis, (which, when added to the
+nak6atra correction of verse 8a, will give the elapsed nak{atra and
+the niitf,ikiis gone in the current nak{atra. ) 2
+Adding the whole
+534
+327
+65
+Elevating by 60
+539
+28
+5
+Dividing the first figure by 28 and rejecting
+the quotient
+35
+28
+5
+Adding the correction for tithi, i.e. the second
+·•upper'
+5
+0
+1 0
+Adding
+40
+28
+1 5
+
+## 1 . The gurza (264-27 ) is halved ( 1 32-1 4 ) , 3 subtracted from the second
+
+figure ( 132- 1 1 ) and multiplied by 2 (i.e. 264-22 ) . The first figure is multi­
+plied by 1 1 (i.e. 2904) ; to the second figure 1 is added (i.e. 23 ) and divided
+by 39 and the remainder (i.e. 23 ) is retained. This is termed the new 'middle'.
+Subtracting 22 from the first figure (i.e. 2882-23 ) and elevating by 60, we
+get 48-2-23.
+Applying this
+48
+2
+23
+to the new second 'upper'
+40
+28
+1 5
+we have
+88
+30
+38
+Dividing by 27 and ignoring the quotient,
+
+## the correction for nakjatra andyoga :
+
+7
+30
+38
+
+## 2 .
+
+Adding the tithi-constant (2-32-00) to the viira-tithi correction (5-0-10),
+we have 7-32- 1 0, being the viiriidi (week, day etc.) correction for the point of
+time taken for consideration. For the nakjatra of that point of time, add the
+.nakjatra constant (2- 1 1 -00) to the nakjatra correction (got in verses 6-8a) , i.e.
+7-30-38,
+and we have the nakŷatra as 9-41 -38. In other words, at the point of
+time taken, nine nakjatras have passed by, and in the current l Oth nakjatra,
+magha, it is 41 niitfikiis and 38 viniiljikiis.
+
+
+
+## 122.9b-1 7a
+
+367
+9b-10.
+Weekday and commencing point of Tithi. Add the tithi­
+correction above (to the viiriidi-tithi correction got in verse 4a),
+placing the tithi nwnber below the viira number. Divide by 7
+(if viira plus tithi exceeds 7 ) ; the remainder will give the elapsed
+week-day counted from Sunday, and the niit}ikiis gone in the next
+day at the point of the commencement of the relevant tithi)
+In the case of tithis after adding the complete units (Pivt}akas) ,
+the sum should be divided by 14 (if the sum exceeds 14, and the
+remainder taken as the tithi. ) 1
+I l-14a.
+True-Tithi
+correction. The correction, in niit}ikiis,
+for the fourteen tithis would be, in order, minus, plus, plus, minus,
+(minus and so on) . Whi e the correction for the 14th tithi is
+zero), the correction for the thirteenth and the first is 5 (vinii­
+rjikiis) (each, minus and plus, respectively), that for the 1 2th
+and the 2nd, I 0 ( viniit}ikiis) , that for the 1 1 th and 3rd, I 5 ( vinii­
+rjikiis) , that for the I Oth and 4th, 1 9 ( viniit}ikiis) , that for the 9th
+and 5th, 22 (vinarjikiis) , that for the 8th and the 6th, 24 (vinii­
+rjikiis) , and that for the 7th, 25 (viniit}ikiis) . These khavt}akas
+(correction-bits) are to be applied appropriately to the pivt/.akas
+(full units) . 2
+14b-17 a.
+Vikiilii correction. In the case of (the three), Karka­
+taka, (Sirpha and Kanya), divide the riifis, respectively, by 6
+(rtu ) , 4 (veda) and 3 ( traya) ; in the case of Tula, (Vrscika and
+Dhanus) , divide, respectively, in the reverse, i.e. by 3, 4 and 6;
+in the case of Makara, (Kumbha and Mina), respectively, by
+3, 4 and 6 ; and in the case of Meᆇa, (ᆣᆇabha and Mithuna) ,
+divide, respectively, in the reverse, i.e. by 6, 4 and 3. The cor­
+rection, in vikaliis, which is positive in the case of the three, Meᆇa
+etc., are 50 (kha-iiu) , 40 (kha-yuga) and 12 (mitra) ; in the case
+1 . Adding the tithi constant (2-32-00 ) to the viira-tithi correction (5-0-10) .
+we get 7-32-10 for the week,day, which means that 7 days have elapsed as /
+cmmted from Sunday, and at the point of time in consideration, i.e. Sukla­
+pratipad in Vaisakha, it is Sunday at 32 niit/ikiis and 10 viniiljikiis (Mean) .
+
+## 2 . The niit/ikii corrections enunciated are:
+
+Tithi
+Niit!ikii corr.
+14
+0
+1 3
+- 5
+1 2
+- 10
+1 1
+- 1 5
+1 0
+- 19
+9
+- 22
+8
+- 24
+Tithi
+1
+2
+3
+4
+5
+6
+7
+Niit!ikii corr•
++ 5
++ 10
++ 1 5
++ 19
++ 22
++ 24
++ 25
+
+
+368
+Agni PurdT)a
+of the three, Karkataka etc., it is in the reverse order, (i.e. 1 2,
+40 and 50, but positive) ; in the case of the three, Tula etc., (it
+is 50, 40 and 1 2 ) , negative; (and, in the case of the three, Makara
+etc., it is 12, 40 and 50, negative) .1
+1 7b-1 9a. Application of the vikala correction. The vikalii cor­
+rection is to be applied to the tithi multiplied by 4. Multiply
+their eleven vikaliis by the difference in liptiis (i.e. kaliis) bet­
+ween the elapsed and to-elapse portions of the tithi and divide
+by 60. If the elapsed portion is less thanfthe portion to-elapse,
+treat the correction as positive even if it be negative and or posi­
+tive, retain it as positive; while, in the case of the portion to­
+elapse being greater, the reverse is the case (i.e. the correction is
+to be taken as negative both if it is negative or positive) .
+1 9b-2 1 a. Further correction to the Tithi. Double (?Treble)
+(the nii¢ikiis of) the tithi and subtract from it one-sixth of (the
+product) . Apply to it the tithi-nii¢ikiis obtained for the sun in
+the reverse order, and subtract the result from 60; the true
+nil¢ is of the tithi would be obtained. If not subtractible, add 60
+and subtract; if more than 60, reduce it by 60 and subtract.2
+21 b-22. Toga. The tithi is associated with the constellation
+The tithi multiplied by 4 and a third ( of the tithi) added to it.
+Apply to it the negative correction. ( By dividing it by 2 7, the
+yoga elapsed and the niirtikiis in the currentyoga are obtained.)
+True tithi has be to be used as the means for calculating theyoga.3
+
+## 23a.
+
+The yoga is, indeed, got also by adding (the longitudes
+
+## 1 . The vikiilii corrections enunciated are:
+
+Month
+Divisor
+Corr.
+Month
+Divisor
+Corr.
+Karkaȧaka
+6
++ 12''
+Makara
+6
+- 1 2"
+Sirhha
+4
++ 40"
+Kumbha
+4
+- 40"
+Kanya
+3
++ 50"
+Mina
+3
+- 50"
+Tula
+3
++ 50"
+Mea
+3
+- 50"
+Vrscika
+4
++ 40"
+Rsabha
+4
+- 40"
+Dhanus
+6
++ 1 2"
+Mithuna
+6
+- 1 2"
+2. For the third tithi correction, multiply the tithi-niit/.ikiis, 32-10 (of veiSes
+9b- 1 0 ) by 3 (i.e. 96-30 ), and deduct a sixth thereof (i.e. 1 6-5) , resulting in
+80-25. Adding to this the tithi -niit/.ikiis (32-10 ), we get 1 1 2-35. The correction
+for one tithi (viz. 5 niitf.ikiis, of verse 1 1-14a) being applied negatively, we get
+107-35. Dividing it by 60, the true niit/.ikiis in the current tithi is got at 47-35.
+
+## 3. rogas form variable divisions of time during which the joint motion
+
+of the Sun and the Moon in longitude is 1 3 ° 20' or 800 kaliis. In a cycle there
+are 27 yngas, some of them being considered as auspicious and others inauspi­
+cious. Their significances are taken due note of in deciding upon the times
+
+## for rituals and domestic ceremonies. The 27 yogas are :
+
+
+
+
+## 122.23b-24c
+
+369
+of) the sun and the moon (in kaliis and dividing by 800) .1
+23b-24a. K arar;,a. (The number of) the Whi reduced by
+1 and multiplied by 2, and the product divided by 7, gives the
+karar;,a of day-time. The t.iihi-number multiplied by 2 and the
+product reduced by 1 and divided by 6 (krta) gives the karar;,a
+of the night.2
+24b-c. The karar;,a of the end (i.e. seeond half) of the 14th
+tithi of the dark fortnight is called Sakuni; (that of the first half
+of the full moon day is called Catu!llpada; that of the end (i.e.
+second half of the full moon day) is called Ahi ( Niiga) ; and that
+of the beginning (i.e. first half) of the prathamii (of the bright
+fortnight) is called Kimstughna.
+
+## 1 . Viøkambha
+
+
+## 10. Gat;1!Ja
+
+
+## 19. Parigha
+
+
+## 2.
+
+Priti
+
+## 1 1 . Vrddhi
+
+
+## 20.
+
+Siva
+
+## 3.
+
+Ayuømii.n
+
+## 12. Dhruva
+
+
+## 2 1 . Siddha
+
+
+## 4.
+
+Saubhii.gya
+
+## 13. Vyii.ghii.ta
+
+
+## 22. · sii.dhya
+
+
+## 5.
+
+Sobhana
+
+## 14.
+
+Harat;1a
+
+## 23.
+
+Subha
+
+## 6.
+
+Atigat;l!Ja
+
+## 15. Vajra
+
+
+## 24.
+
+Sukra
+
+## 7.
+
+Sukarmii.
+
+## 1 6.
+
+Siddhi
+
+## 25. Brahma
+
+
+## 8.
+
+Dhrti
+
+## 1 7.
+
+Vyatipii.ta
+
+## 26.
+
+Indra
+
+## 9.
+
+Siila
+
+## 18. Variyan
+
+
+## 27.
+
+Vaidhrti
+Multiplying the true tithi (viz. 47-35 of verses 1 9-20) by 4 (i.e. 190-20 )
+and adding a third of the tithi (viz. 1 5-52 ) , we get 206-12. Dividing by 27
+(which is the total number ofyogas in a cycle) and rejecting the quotient, we
+have 7- 1 2. i.e. 7 yogas up to Sukarmii. have gone by and, in the current 8th yoga,
+Dhrti, 1 2 niitj.ikiis too are over.
+
+## L
+
+In the alternative method of calculating the yoga, the-longitudes of
+the Sun and the Moon are added and the sum divided by 800 (which is the
+said sum in terms of six kalas). The quotient will give the number of the yogas
+elapsed and the remainder the niit/.ikiis etc. elapsed in the current ;•oga.
+
+## 2 . The Kara11a is a measure of time extending over half a tithi, having
+
+astrological significance. They carry eleven names, being: (1 ) Bava, (2 )
+Balava, (3 ) Kaulava, (4} Taitila, (5 ) Gara., (6) Vat;1ija, (7 ) ViHi, (8 ) SakUili,
+(9) Catupada, (10} Nii.ga and (1 1 } Kiihstughna. A cycle consists of 60
+karaO (during the 30 tithis or 60 half-tithis}. The last four kara(las occur only
+once and occupy the four half-tithis from the second half of the 14th of the dark
+fortnight to the first halfofthefl st titili of the bright fortnight, and, so, are called
+sthira or 'fixed' karQZQS, while the other seven kara11as occupy the remaining 56
+half-tithis, by repeating themselves eight times, and, so, are called cala or 'moving'
+karaO.
+CORRECTIONS TO THE PRINTED TEXT (SV Edn ) .
+Verse
+For
+Read
+3b
+fffECƺcfl
+c:r)
+7b
+-+rsct
+-lLƹ
+I Oa WTU!l'if
+ƸT CIT'U!l'<r
+14b
+fƻ
+fƼ
+fa-fƽf'sr
+fefƾf'sr ( ? fƿ)
+fa-fբfu:r
+fafǀ;;;r
+1 9a
+22a
+22b
+m&'f+r
+23b '!ifef'am
+24c
+--«) fǁ
+
+
+370
+Agni Purli:q.a
+
+## CHAPTER ONE HUNDRED AND TWENTYTHREE
+
+Description of the Svarodayacakra, Sanicakra, Kurmacakra
+and Riihucakra
+
+## The Fire-God said :
+
+
+## 1 . I shall describe the (svarodayacakra) in order to know the
+
+victory and welfare in a military expedition. The vowels a, i,
+u, e and o (should be written) in order (in the different squares)
+and then the days (tithis) nandii and others (should be written
+below) in order.
+
+## 2.
+
+(The names of) the planets Mars, Sun, Mercury, Moon,
+Jupiter and Venus (are marked) on the right-hand side and
+Mars, Sun and Saturn on the other side in the letters 'ka' to
+'ha'.
+
+## 3-7. The time between the rising of the Sun to its rising on
+
+the next day should be multiplied by thirty-nine and then divid­
+ed by twelve, and the quotient should be divided by nine and
+three respectively, the quotient being the time of predominance
+of the vowels or the principles they represent from day to day.
+The tithi on which the predominance takes place, brings death
+(to the organiser of any expedition) .
+Three sphura7J.as (throbs) make up one ucchviisa (breath) .
+Three ucchviisas make up onᆯ pala (a measure of time ) . Sixty
+palas constitute one liptii. Sixty liptiis (make up) a day.
+The five (vowels are known to be) child, boy, youth, old
+and death in their half-rising state. It is said to be rising and
+setting when it is in the eleventh place and together with the
+fifth (place) brings death and reverses .
+(Thus-far the Svarodayacakra)
+
+## 8.
+
+In the Sanicakra (the diagram of Saturn) the rise of the
+planets is taken into account in a fortnight. There will be fifteen
+squares herein. Therein the place of Saturn indicates death.
+(Thus ends the Sanicakra)
+
+## 9.
+
+(The Kurmacakra) is in the shape of a tortoise. (The
+result is known) from the position of Saturn in the asterisms
+beginning with maghii and ending with krttikii.
+(Thus ends the K urmacakra)
+10-I 1 . In the Riihucakra, one should write seven (squares)
+above and seven below. On the full-moon day, Rahu travels
+
+
+
+## 123.1 2-25
+
+371
+from the south-east by the north-west to the south-west occupy­
+ing the north-west on the new-moon day. The letter 'ra' should
+be written in the southern part and the letter 'ha' in the north­
+west. The letters 'ka' etc. (are marked) on the first lunar day
+and other (days) and the letter 'sa' in the north-west.
+1 2-20.
+When it happens to be in the face of Rahu it brings
+reverses. On the full-moon day and in the south-east it is vi6#.
+It is karali in the east and on the third day. It is (known as)
+ghora in the south and on the seventh day. It is (known as)
+saumya in the north-east and on the tenth day.
+One should
+avoid travel towards the north-west on the fourteenth day,
+towards the west on the fourth day, towards the south on the
+eighth day of the bright fortnight, and on the eleventh day. The
+(names of the) fifteen muhurtas (a period of fortyeight minutes)
+are Raudra, Sveta, Maitra, Sarabhata, Savitra, Virocana, Jayadeva,
+Abhijit, Riiva7Ja, Vijaya, Nandin, VaruT}a, Yama, Saumya and Bhava.
+One should do violent deeds in the Raudra, ceremonial bathing
+in the Sveta, the marriage of one's daughter etc., in the Maitra,
+auspicious deeds in the Siirabhata, establishing in the Siivitra,
+deeds relating to the monarch in the Virocana, victorious deeds
+in the Jayadeva, battles in the RiivaT}a, agriculture and commerce
+in the Vijaya, wearing the turban in Nandin, the digging of tanks
+in the Varu7Ja, acts of destruction in the Yama and good acts in
+the Saumya.
+21 -22.
+Theyogas (a division of time) are known to be indi­
+cating good or bad from their names. Riihu (ascending node)
+(travels) from the east to north-west and thence to the south.
+From the south (it goes) to the north-east, and from the north­
+west to the west, then to the south-east, then to the north for
+three (gha#kas) . Then after four ghatikas it affects the (point of)
+concurrence.
+(Thus ends the Riihucakra)
+23-24.
+The (following) excellent herbs (should be) worn
+for victory carp#, indriiTJi, viiriihi, musali, girikarf}.ikii, balii, atibalii,
+k6iri, mallikii, yuthikii, svetiirka, satavari and gur/ilcf.
+
+## 25 .
+
+One should tie up the tuft of hair with (the repetition
+of) the mantra, "Om, salutations to (lord) Bhairava (a form of
+Siva), the wielder of a sword and axe in his hands ; 'Om, hrum',.
+(salutation) to the destroyer of obstacles, (' 'Om, hrum, phal'',
+for success. With the same mantra, mark on the forehead, colly­
+rium to the eyes and scented fumes should be applied.
+
+
+372
+Agni PuriiT)a
+26-32.
+Listen to me. (I shall describe) the different kinds
+of unguents for bathing and drinking and powdered drugs.
+A mark on the forehead composed of sub hag a, mana̼ Sila (arsenic)
+tala, shellac and the milk of taruT)i (gives) conquest (over one's
+enemy) . VifT)Ukranta, sarpakŤ·i, sahadeva and roc ana made into a
+paste with the milk of goat and worn on the forehead gains
+success (over one's enemy) . Priyangu, saffron, kuftha, mohani
+and tagara worn along with clarified butter subjugates (the
+enemy) . Rocana, red sandal, nisa, manal,lSila, tala, priyangu and
+mustard (made into a paste and worn) also yields the same result.
+Mohini, harita, kanta, sahadevi and sikha made into a paste in the
+juice of pomegranate and worn on the forehead as a mark sub­
+jugates (all) . Even the celestials including Indra are subjugated.
+Then what about the poor mortals? Manjiftha, red sandal, katu­
+kanda and vilasini together with punamava as a paste subjugates
+even the Sun (god ) . Sandal, nagap"fpa, manjiftha, tagara, vaca,
+lodhra, priyangu and raj ani mixed with oil of masi controls others.
+
+## CHAPTER ONE HUNDRED AND TWENTYFOUR
+
+The essence of astrology as described in the science of victory in battles
+
+## Fire-God said :
+
+
+## 1. I shall describe the essence of astrology as propounded
+
+in the (science) ofvictory in battles, without the employment of
+mantra and herbs and as narrated by Isvara (Lord Siva) to Uma.
+
+## The Goddess said :
+
+
+## 2. Explain to me the strategy by which the demons were
+
+conquered by celestials. So also (explain to me) the knowledge
+relating to success in battles which give discrimination about
+good and bad.
+
+## The Lord said :
+
+
+## 3.
+
+Energy comprising fifteen letters was born by the desire
+-of the chief god. The movable and immovable were born then.
+·One finds one's desire fulfilled by the worship (of the energy) .
+
+
+
+## 124.4-13
+
+373
+
+## 4. I shall explain the base of the mantra which is produced
+
+from five mantras. Those mantras remain in all the mantras in
+their beginning and end.
+
+## 5-6. They are the mantras of IJ,k, Yajus, Saman, and Atharva
+
+vedas in order. The mantras of lords Brahma, ViᆠJ).u, Rudra, I sa
+(Siva), Indra and others who are (known as) Saptasikha devas
+are these five mantras. 'a, i, u, e, o' (are) the parts. The funda­
+mental (mantra) is stated to be Brahma.
+
+## 7. Just as the fire in the wood which has not developed
+
+fully is not seen, the energy of lord Siva remaining in the body
+is not seen.
+
+## 8. The energy adorned with the syllable of 'Om' is first born.
+
+0 Great lady ! the hindu (dot) (was) then (born) together
+with the letter 'e'.
+
+## 9. The letter 'u' which is the soul of the sound was born
+
+then. It produces the sound remaining in the heart. Then the
+letter 'i' of the shape of a crescent, which gives knowledge about
+the path of release, (was born ) .
+
+## 1 0.
+
+The letter 'a' which i s the supreme one giving enjoy­
+ment and emancipation, was born manifest. The letter 'a' is
+under the power of control of the lord. It is remembered as the
+part of cessation of activity.
+l l-12. The fragrance, the mystical letter 'na', priir.ta (life
+breath) , i¢11 (a tubular vessel in the body) and the energy known
+as fixed rest in this. The letter 'i' is known as the stable part.
+The essence, the apiina (one of the five life-winds) in the body),
+piitgalii (a tubular vessel in the body), the energy (known as)
+krilrii and the mystical letter 'i' remain united inside. The letter
+'u' is the knowledge part. The form which is the characteristic
+of fire, the mystic letter 'ra', the samiina (one of the five life­
+winds in the body), the giindhiiri (one of the tubular verse in the
+body), and the energy damani (rest therein) .
+
+## 1 3 . The letter 'e' is the tranquil part. The sense of touch
+
+which is the characteristic of the wind, the udiina (one of the
+five life-winds in the body), the calli (one of the tubular organs
+of the body) and the energy (called) kriyii (rest therein) . The
+syllable 'om' is that beyond the tranquil part. The sound which
+is the characteristic of the sky and the vyiina (one of the five life­
+winds in the body) (rest therein) .
+
+
+374
+Agni PurliT)a
+
+## 14. The (above-mentioned) are the five kinds of letters.
+
+The (planets) Mars, Mercury, Jupiter, Venus and Saturn res­
+pectively (preside over) the letters 'a' etc. The letters 'ka'
+and others are placed below these.
+
+## 15. Everything relating to the movable and immovable
+
+(objects of the world) is known through these. I shall describe
+the knowledge-base. The praT)ava (syllable 'om' ) is stated to be
+(lord) Siva.
+
+## 16.
+
+(When we say) Uma, it denotes (lord) Siva along with
+(his consort) Uma. Uma is the energy (of Siva) This energy
+remains (in three forms) as Varna, Jyeᆠtha and Raudri. (It
+remains in the three forms of) Brahma, Viᆠᆨu and Rudra duly.
+Creation etc. are the three qualities (associated with them) .
+1 7-18. Three n#is (tubular vessels in the body) which are
+gem-like (are also present) . (The praT)ava) is moreover gross
+and subtle
+(which are respectively) highest and lowest. One
+should contemplate (on) that (praT)ava)day and night as white­
+coloured, as showering the excellent ambrosia and flooding the
+soul. 0 Goddess ! One would become unaging and attains the
+qualities of lord Siva.
+
+## 19. The limbs (ofthe body) (are assigned) in (the fingers)
+
+beginning with the thumb and the eye at the centre. Then one
+should worship (lord) Mrtyufijaya (Siva, conqueror of earth)
+and become victorious in the battles.
+
+## 20. The sound is void and without any support. The
+
+spar§ a (consonants ka to rna) should be touched bending hori­
+zontally. The form is stated to be having upward motion and
+rests under the water.
+
+## 2 1 . The fragrance remains detached from all places. The
+
+principal part is at the centre. The bulbous root, which is of the
+form of (lord) Siva remains at the base of the navel.
+
+## 22. The formation with energy houses the moon, sun and
+
+(lord) Hari (Viᆠᆨu) . It is endowed with the ten winds and the
+five primary elements.
+
+## 23.
+
+(That bulbous root) which is the soul of lord Siva
+is of the shape of the destructive fire that is shining. That is the
+life of the entire world of living beings of the immovables and
+movables. When that one having the fire as its soul is lost, I
+consider that it is dead.
+
+
+
+## 1 25. 1 - 1 0
+
+
+## CHAPTER ONE HUNDRED AND TWENTYFIVE
+
+Different circles which get success in battle
+
+## The Lord said :
+
+375
+
+## 1 . "Om hrim (Goddess) Kar:t:tamotani ! Manifest in differ­
+
+ent forms ! Possessor of many teeth ! hrilm phat om hal}.. Om
+devour devour. Cut cut. Suck suck. Hrilm phat salutation".
+When this mantra is repeated by persons angrily and with red
+eyes, it would bring about the death or the downfall (of his
+enemy) or stupefy (his mental calibre) .
+
+## 2. The great incantation of (Goddess) Kar:t:tamotini is the
+
+protector of all castes. I shall describe the rise of five
+principles which rests on the svarodaya (science of sound) .
+
+## 3 . The wind moves in the space between the navel and the
+
+heat. One should repeat this at the time of battle etc. It
+would pierce the ears and eyes (of the enemy) .
+
+## 4.
+
+The accomplisher should be bent on repetition (of
+mantras) and oblation (to fire) . When the wind (moves) from
+the heart (downwards) to the anus and (upwards) to the throat,
+the acts of bringing fever on the enemies or causing their death
+(should be undertaken) .
+
+## 5 . When the wind blows through the larynx with the essence,
+
+(the votary) should do rites conferring peace and prosperity.
+When (the wind flowing) from the eyebrows to the nostrils
+(known as) gandha (smell) (is present) one should practise the
+divine paralysing or drawal.
+
+## 6.
+
+There is no doubt that one would be able to paralyse
+by making the mind absorbed in the smell. The votary sho1,1ld
+perform the (acts of) paralysing and wedging.
+
+## 7.
+
+(To accomplish this he) should worship (the divinities)
+Ca:t:t9a, Gha:t:tQ.a, Karali, Sumukhi, Durmukhi, Revati, Prathama
+and Ghora in the wind-circle.
+
+## 8-10. The goddesses who accomplish the charm remain
+
+well-established in lustre. They (are) Saumya, Bhiᆠa:t:ti, Jaya,
+Vijaya,
+Ajita, Aparajita,
+· Mahakoti and Raudri. (These
+goddesses who possess) dry bodies take away life. (The
+goddesses) dwelling in the essence are Viriipakᆠi, Para, Divya,
+Akasamatrs, Samhari, Damᆠtrala and Suᆆkarevati.
+
+
+376
+Agni Pura7J.a
+1 1-12. Pipllika, PuHihara, Mahapuᆋtipravardhana, Bhadra­
+kali, Subhadra, Bhadrabhima, Subhadrika, Sthira, (Niᆆthura,
+Divya, Niᆆkampa and Gadini) (are the goddesses staying in the
+circle of smell. These thirty-two mothers reside in the circles
+at the rate of eight in each.
+
+## 1 3.
+
+There is only one Sun and only one Moon (in the
+world) . Each one of these goddesses preside over each one of the
+sacred places on the earth.
+
+## 14. The one (universal) life force remains divided through
+
+(different) circles among created beings. It remains in tenfold
+forms on account of division into left and right.
+
+## 15.
+
+Out of the skull (cup) of the universe (they) drink the
+supreme nectar, the mystical drops, encircled by the apparel
+of principles.
+16-18. Listen to those five groups of letters which give vic­
+tory in battle. (The letters) , a, a, ka, ca, ta, ta, pa, ya and sa
+are said to be the first group; i, i , kha, cha, tha, tha, pha, ra,
+and ᆆa (form) the second group ; u, ii, ga, ja, <;l.a, da, ba, Ia and
+sa (form) the third group, e, ai, gha, jha, <;l.ha, dha, bha, va and
+ha form the fourth group and o, au, am, al;l, Iia, fia, :Q.a, na and
+rna form the fifth group.
+19-20. These fortyfive letters (indicate) the prosperity of
+men. (These letters in each group) are respectively) known as
+the child, boy, youth, old, death, affliction to one's self, emacia­
+tion, indifference and destroyer. The (asterism) krttikii, the
+first day of a fortnight and (the planet) Mars are known as bene­
+ficial to one's self.
+2 1 -22. The sixth day (of a fortnight) and (the asterism)
+maghii (occurring) on a Tuesday and the eleventh day (of a fort­
+night) and (the aster ism) iirdrii (occurring) on a Tuesday (cause)
+affliction. (The asterism) maghii and the second day (of a fort­
+night) occurring on Tuesday (yields) gain. (The asterism)
+iirdrii and the seventh day on a Wednesday bring loss. The aste­
+risms bharaTJ,i and sravaTJ,a on a Tuesday (are) also of the same type.
+A Thursday marked by (the asterism) pilrvaphiilguna and third
+day is profitable.
+
+## 23. A Thursday (marked) by (the asterism) dhani6thii
+
+and iirdrii on the eighth day, and the same day (ruled) by (the
+asterism) iiSle6ii on the thirteenth day causes death. A Friday
+
+
+
+## 1 25.24-35
+
+377
+(marked) by (the asterism) piirvabhiidrapada on the fourth day
+(also yields the same) .
+
+## 24. A Friday ruled by (the asterism) purva6a¢ha and the
+
+ninth day as also by (the asterism) bharaTJ.i and the fourteenth
+day causes affliction.
+
+## 25. The fifth day and the (asterism) krttika occurring on a
+
+Saturday is said to be prosperous. The tenth day together with
+the (asterism) aSle6a in conjunction with Saturday would be
+causing affliction.
+26-27. The conjunction of (asterism) magha, Saturday
+and full moon is held as fatal. First to the ninth have (the direc­
+tions) east, north, south-east, south-west, south, north-west,
+moon and Brahma as the aspects. If they have aspects
+together with the signs (artificial division of the ecliptic) as well
+as the planets that would confer perfection.
+
+## 28. The four constellations me6a to kumbha cause victory if
+
+full and death if otherwise. It is to be duly calculated, the absence
+of Sun etc. as well as whether they are full.
+
+## 29. The Sun has no influence in the case of war. The Moon
+
+influences to appease defeat.
+One should know that Mars
+causes riot. Mercury (influences) to realise desire. Jupiter
+influences to get success.
+30-3 1 . Venus influences to get mental happiness. Saturn
+would influence to get defeat in battle. In the piitgalacakra, the
+asterisms in which the Sun moves should be arranged (in the
+shape of a human figure) , at the face, eyes, forehead, head,
+hands, thighs and feet. If the three stars at the foot (are
+identical with the natal star of the person concerned) (it
+indicates ) death. (It indicates) loss of prosperity if on the sides.
+
+## 32.
+
+(If the three asterisms) on the face (are identical with
+the natal star) (it indicates) affliction. If that on the head (is
+identical) (it indicates) failure of the task undertaken, and that
+on the head (indicates) fruitfulness. (I shall) describe the Rahu­
+cakra now.
+33-35. It goes from the east to the south-west, from the south­
+west to the north, from the north to the south-east, from the
+south-east to the west, from the west to the north-east, from the
+north-east to the south, from the south to the north-west and
+then again to the north, during (the period of) four (ghatikas
+
+
+378
+Agni PuriiT)a
+every day) . 0 dear ! I shall now tell you about the lunar
+phases which act as the above said Rahu and about different
+directions south-east to north-east and from the full-moon etc.
+to which a journey should be held inauspicious during their
+respective continuance. (An expedition commenced) at the
+back of Rahu brings success in battle, (while that undertaken)
+at its front brings death.
+
+## 36. Till the eighth day of the dark fortnight, the east aspect­
+
+ed by Rahu would cause fright.
+(Similarly) Rahu acts in
+the north-east, south-east, north-west and south-west (on the
+same day) .
+3 7-38. If the constellations Aries etc. are in the directions east
+etc., and when the Sun is (present) there it causes death, The
+third day in the dark fortnight, the seventh day, the tenth day,
+the fourteenth day in the bright (fortnight) ; fourth day, the ele­
+venth day and the fifteenth day vi6ti (a kind of adverse period)
+in the south-east and north-west.
+39-42.
+(The letters) a, ka, ca, ta, ta, pa, ya and sa are the
+(five) groups (of letters) (standing for) the planets Sun etc.
+The vulture, owl, hawk, a small owl, owl (kau.fika) , crane, pea­
+cock and the water-fowl are known to be birds (in the dia­
+gram) . At first the mystic syllable should be accomplished by
+means of oblation. Then it is known as expansion when it is
+ucciita (a kind of charm which drives away one's enemy) . Then
+the application (of the mystic syllable) accomplishes
+(the
+desired results) in bringing another under one's control, in fever
+and in attraction. The syllable 'salutations' should be used in
+acts of bliss and peace-making, the syllable vau6at in (rites for)
+nourishment and in controlling etc. (The syllable) hum (is
+used) for (causing) death, breaking amity (between two per­
+sons ) , while (the syllable) phat (is used) for driving away one's
+enemies. (The syllable) vťat (is used) in (connection with)
+progeny and bringing splendour etc. Thus there are six kinds
+of mystic syllables.
+43-45.
+I shall now describe the medicinal plants which
+provide good protection. Mahiikiili, car.u/i, viiriihi, iSvari, sudarsanii
+and indriil')i when worn on the body protect. Balli, atibalii, bhiru,
+musali, sahadevi, jiiti, mallikii, yilthi, giirur/.i, bhrngariija and cakra-
+
+
+
+## 125.46-50
+
+379
+rupii are great herbs which confer victory when worn (on the body) .
+46-48.
+0 Greatest Goddess ! if these are gathered during
+an eclipse they confer good. Making an elephant endowed with
+all characteristics out of earth, one's enemy should be benumbed
+by doing the rite at its foot. Mter having gathered earth from
+an ant-hill (the rite should be done) at the summit of a moun­
+tain or at (a place having) a single tree or at a place struck by
+lightning. Then (the previously invoked) two divine mothers
+should be attached. Om ! obeisance to Mahiibhairava ! to the
+Fierce form with deformed tooth ! to the Yellow-eyed ! to the
+Bearer of trident and sword ! Vauiat. 0 Goddess ! One should
+worship the mud and benumb multitudinous weapons (of the
+enemy) .
+49-50.
+I shall describe rites relating to fire which ensures
+victory in battle etc. The votary should remain nude, have
+the tuft untied, face the south and offer human flesh, blood and
+poison mixed with chaff of grain, pieces of bone as oblations to
+fire kindled with logs of wood at the cremation ground in the
+night uttering the name of the enemy one hundred and eight
+times. "Om
+obeisance to Goddess Kaumari ! (You) dally,
+(You) coax ! 0 Ghal)tadevi ! (You) kill this person at once.
+Obeisance to you 0 Goddess of knowledge ! Oblations." By
+oblations made with this formula the enemy gets fettered.
+Om ! One having a hardy frame !
+One having a fierce
+mouth ! One possessing a tawny complexion ! One having a
+dreadful face ! One possessing erect hairs ! One having great
+strength ! One possessing a red face ! One having the lightning
+as the tongue ! Most fierce ! Possessing large teeth ! Having
+dreadful form ! One who strikes very firmly
+(at the battle) !
+One
+who
+built the bridge to the city of Lanka ! The
+carrier of the mountain ! One who moves about in the ethereal
+space ! You come 0 lord ! Possessor of great strength ! Vali­
+ant ! The Bhairava makes known (his presence) . 0
+Great
+Raudra (fierce) you come ! You encircle this person with
+the long tail, pierce and trample him. Hrilm phat. 0 Goddess !
+(oblation should be made) one hundred and thirty-eight times
+(with the above) . Hanumat (monkey-faced god) accomplishes
+all acts. The enemies get routed on seeing Hanumat in the
+picture.
+
+
+380
+Agni Purii1Ja
+
+## CHAPTER ONE HUNDRED AND TWENTYSIX
+
+Combinations of good and bad asterisms
+
+## The Lord said :
+
+
+## 1 -2. I shall describe combinations of asterisms deter­
+
+mining good and bad. One should count the asterism in
+which the Sun is present and assign three (asterisms) from that
+at the head (ofhuman figure drawn) , one at the face, two in the
+place of the eyes, four at the hands and feet, five at the heart,
+the genital organ and the knee. Then one should determine one's
+longevity etc. (based on that) .
+
+## 3. The presence of the natal star on the head or at the face
+
+indicates acquisition of kingdom. (Its location) on the eyes
+(indicates) fortune and lustre. (Its location) at the heart (indi­
+cates) acquisition of wealth.
+
+## 4.
+
+(Its presence) on the arms (indicates) that one would
+be a thief. (Its presence) on one of the feet (indicates) death or
+(the natal would be) a wanderer.
+
+## 5.
+
+(Commencing with the asterism in which the Sun is
+stationed, the respective names of the days associated should be
+written on eight pitchers leaving the pitcher for the Sun as
+empty) . The pitcher of the Sun exerts malignant influence and
+the pitchers in the east and other directions benevolent influence.
+I shall describe the (method known as) PhaTJi Rahu, which indi­
+cates success or failure (in battle) .
+
+## 6-10. Twenty-eight circles should be drawn, intersected
+
+by four lines. The asterisms should be arranged therein in rows
+of three. The asterism occupied by Rahu (the ascending node)
+should be deemed as the head of the serpent. Commencing with
+that, the twenty-seven asterisms are arranged in successive order.
+The presence of seven asterisms at the face (of the serpent)
+(indicates) that one will die in the battle. The presence of
+seven asterisms at the shoulders as well as the middle part (of the
+body) (portends) complete rout. Their presence at the belly
+foretells honour and success for the native. Their presence about
+the waist indicates success over rivals in the battle. One would
+get fame if (the asterisms) are situated on the tail. The asterisms
+aspected by Rahu indicate death. I shall describe you a differ­
+ent (combination) known as the strength of the Sun and Rahu.
+
+
+
+## 126. 1 1-26
+
+381
+1 1 -12. Sun, Venus, Mercury, Moon, Saturn,
+Jupiter,
+Mars and Rahu respectively preside over one-sixteenth part of
+a day. One who (sets out) after the expiry of (the periods of)
+Saturn, Sun and Rahu, conquers battalions of army, and a mar­
+ching force and wins in gambling.
+1 3-15.
+(The asterisms) RohiQi and the three Uttaras
+(U ttaraphalguni, U ttaraᆇa<;lha and U ttaraproᆇtapada) and the
+Mrgasirᆇa are the five fixed ( asterisms) . (The asterisms)
+Asvini, Revati, Svati, Dhaniᆇtha and the Satabhiᆇak are the
+five movable ( asterisms) . One should undertake journeys in
+these (aster isms) . Anuradha, Hasta, Mula, Mrgasirᆇa) , Puᆇya
+and Punarvasu are (commended) for all acts. JyeHhii, Citra,
+Visakha, the three Pii.rvas (Pii.rvaphalguni, Pii.rvaᆇa<;lha and
+Pii.rvaproHapada) , Krttika, BharaQi, Magha, Ardra and Asleᆇa
+are evil.
+
+## 16.
+
+(All acts) at fixed places (should be done under the
+influence) of fixed asterisms. Movable asterisms are excellent
+for journeys. One should do (acts) in mild (asterisms) for con­
+ferring prosperity and frightful (deeds) in malignant ( asterisms) .
+I 7-2 1 . An evil (act) should be done (under the influence)
+of an evil asterism. I shall now describe (the aster isms known to)
+have their faces downwards etc. (The asterisms) Krttika,
+BharaQi, Asleᆇa, Visakha, Maghii, Mii.la, the three Pii.rvas
+(Pii.rvaᆇa<;lha, Pii.rvaphalguni and Pii.rvaproᆇtapada)
+(are
+known to be) downward-faced. One should do such acts (which
+require) keeping one's face downwards. (Digging) of wells and
+tanks, acts relating to imparting knowledge and preparation of
+medicine, the launching of a boat, installation of a prince and
+pitching (of a royal camp) etc. (should be performed) in these
+(asterisms) . (The nine (asterisms) Revati, Asvini, Citra, Hasta,
+Svati, Punarvasu, Anuradha, Mrga (siqa), JyeHha are known
+as having their faces lateral. One should perform coronation
+of kings, construction of stables for elephants and horses, laying
+of garden houses, building of palaces, walls, doorways, fixing
+of flagstaff and banner etc. under these (aster isms) .
+22-26.
+The twelfth day falling on a Sunday, the eleventh
+day on a Monday, the tenth day on a Tuesday, the third day on
+a Wednesday, the sixth day on a Thursday, the second day on a
+Friday, and the seventh day on a Saturday are inauspicious.
+
+
+382
+Agni PuriiT)a
+I shall now describe the (combination known as) tripu6kara.
+The second, twelfth, seventh and the third day with the Sunday,
+Tuesday and Saturday, these six (are known to be tripâkara.
+(The asterisms) Visakha, Krttika, the two Uttaras, Punarvasu
+and the Piirvabhadrapada, these six (are known to be) tripu6­
+kara. Any profit, loss, victory, disease, birth of a son, loss, some­
+thing which has slipped and that which has strayed, all these
+get multiplied thrice (during the tripu6kara period) .
+27-28.
+The seven (asterisms) Asvini, Bhara1,1i, Asleᆇa,
+Puᆻ?ya, Svati, Visakha and Srava1,1a are known (to be having)
+firm look. They have their look in ten directions. The jour­
+ney undertaken to a far off place at an auspicious moment (is
+followed by a safe) return journey.
+29-31 .
+The five asterisms-the two Aᆻ?ii.<;l.has (Piirvii.ᆻ?ii.<;l.ha
+and U ttarii.ᆻ?ii.<;l.ha), Revati, Citra and Punarvasu (are) squint­
+eyed. The person undertaking a journey under these asterisms
+(has a safe) return. Krttika, Rohi1,1i, Saumya (the five stars on
+the orion's head) , Phalguni, Magha, Miila, Jyeᆻ?tha, Anuradha,
+Dhaniᆻ?tha, Satabhiᆇak and Piirvabhadrapada are known as
+blunted. One who undertakes journey under these asterisms
+would again return home.
+
+## 32. Anything lost (on days ruled by the asterisms) Hasta,
+
+U ttarabhadra (pada) , Ardra and Aᆻ?a<;l.ha cannot be recovered
+and a battle commenced in these asterisms) would not continue.
+33-36.
+I shall again describe the gaTJ¢iinta (the first fourth
+of an asterism preceded by a node of asterisms) in the midst of
+asterisms as such. The four niir]is (one nii¢i equals 24 minutes)
+of the (asterism) Revati and the four (niir]is) of Asvini
+( are known as gaT)t/as) . One has to avoid with great care those
+yiimas (three hours) (in undertaking a journey etc) . The four
+ghatikiis (one ghatikii equals 24 minutes) forming last part of
+Asleᆻ?a and the first part of Magha are called the second ga1)¢a.
+Listen to me ! 0 Bhairavi ! The third (ga7J¢a) is between the
+asterisms of Jyeᆻ?tha and Miila, and that is of the form extre­
+mely malignant for three hours. One should not do auspicious
+acts in these, if he wants to live. At the time of birth of a
+.child in these periods the parents would die.
+
+
+
+## 127.1-9
+
+383
+
+## CHAPTER ONE HUNDRED AND TWENTYSEVEN
+
+The auspicious and inauspicious periods of the day based on certain
+combinations
+
+## The Lord said :
+
+
+## 1 . The three ghatikiis (one ghatikii is equal to 24 minutes)
+
+(from the commencement) of vi6kambha
+(an inauspicious
+period) , the five ghatikiis of Silla (an adverse period) , the six
+(ghatikiis) respectively in the garpJa and atigatzr/.a (types of impedi­
+ments) and the nine (ghatikiis) in the vyiighiita and vajra (a kind
+of adverse period) should be avoided.
+
+## 2.
+
+One should avoid all undertakings when the whole day
+is ruled by both parigha and vyatipiita
+(obstacles) and the
+undertaking of any journey or commencing a battle on the day
+ruled by vaidhrta (obstacle) .
+
+## 3 . 0 Goddess ! I shall describe the good or bad (effects
+
+of the positions of planets) in the constellations of Me6 a and others.
+The Moon and Venus occupying the first house confer good
+when they leave (the same ) .
+
+## 4 . One has to forecast loss of property, absence of gain and
+
+reverses
+in the battle if the Mars, Sun, Saturn and Rahu
+(occupy) the second house.
+
+## 5-6. The second (house) occupied by the Moon, Mercury
+
+Venus and Jupiter confers good. Just as the Sun, Saturn, Mars
+and Venus in the third (house) confer good so also all the planets.
+Mercury, Moon and Riihu yield benefits. Mercury and Venus
+in the fourth (house) are beneficial. All other planets are
+ommous.
+
+## 7. Just like Jupiter in the fifth, the presence of Venus,
+
+Mercury and Moon yield the desired gains. The Sun is auspi­
+cious in the sixth (place) .
+
+## 8 . 0 Goddess ! The planets Moon, Saturn, Mars and
+
+Mercury confer good (if they remain) in the sixth (place) from
+the native sign. One should avoid Jupiter and Venus in the
+sixth (house) .
+
+## 9.
+
+The Sun, Saturn, Mars and Riihu in the seventh (house)
+(indicate) misery and Jupiter, Venus and Mercury (in the
+seventh house) indicate happiness. The Mars and Venus are
+
+
+384
+Agni PuriiT)a
+auspicious in the eighth (house) .
+
+## 1 0 . All other planets (in the eighth house) (indicate)
+
+evil propensities. The Mars and Venus in the ninth (house)
+are auspicious. The other (planets) (in the ninth)
+(exercise)
+evil influences. The Venus and Sun in the tenth (house) confer
+gains.
+
+## 1 1 . The Saturn, J\ilars, Rahu, Moon and Mercury bring
+
+good. All planets are good in the eleventh (house) . One should
+avoid Jupiter in the tenth (house) .
+
+## 12. The Mercury and Venus in the twelfth (are beneficial) .
+
+One should avoid all other planets in the twelfth. The twelve
+zodiacal signs exercise influence over the whole day (in order) .
+I will describe them (now) .
+1 3-14.
+(It takes) four nii¢is for the Sun to traverse the (zo­
+diacal signs) . Pisces, Aries, Taurus and Gemini, six na¢is (to
+traverse) Cancer, Leo, Virgo and Libra and five nii¢is (to traverse)
+Scorpio, Sagittarius, Capricorn and Aquarius. The (Zodiacal
+signs) Aries and others are respectively movable, fixed and of
+dual nature.
+
+## 15. The Cancer, Capricorn, Libra and Aries are movable.
+
+One should do all acts involving movement and permanent
+victory, both good and bad.
+
+## 16. The Taurus, Leo, Acquarius and Scorpio are the fixed
+
+signs and all acts of fixed nature (should be done in them) .
+(A person going away under their influence) will not return
+quickly. (One who) falls sick (under their influence) will not
+get cured.
+
+## 1 7.
+
+The Gemini, Virgo, Pisces and Sagittarius are of dual
+nature. These dual-natured lsigns) are always auspicious for
+all acts.
+
+## 18.
+
+One would get increase, victory and gains in sojourn,
+trade, battle, marriage and royal audience. One would get
+victory in battle.
+
+## 19.
+
+(The asterisms) Asvini (consisting of) three stars is
+of the form of a horse. If it rains in this ( asterism), it would rain
+for a night. If it rains in the asterism presided over by Yama
+(god of death) (BharaJ).i) it would rain for a fortnight.
+
+
+
+## 1 28. 1 - 1 0
+
+385
+
+## CHAPTER ONE HUNDRED AND TWENTYEIGHT
+
+The kotacakra-a drawing to forecast results
+
+## The Lord said :
+
+
+## 1 . I shall describe kotacakra. One should draw a square.
+
+One should draw another square inside that (square) and again
+another square inside the second.
+
+## 2. The zodiacal signs Aries etc. (should be assigned) to
+
+the directions east etc.
+(in the three squares) which are the
+symbols of the three niir/is (tubular organs in the body) . The
+(asterism) Krttika (is located) in the east and the (asterism)
+Asle¸a in the south-east.
+
+## 3.
+
+(Asterism) Bharal}.i should be placed in the south.
+Visakha should be assigned in the south-west. (Asterism) Anu­
+radha (should be located) in the west and Sraval}.a in the north­
+west.
+
+## 4.
+
+(Asterism) Dhani¸tha should be located in the north
+and Revati in the north-east. These eight asterisms are located
+in the outer niir/i carefully.
+
+## 5. The asterisms Rohil}.i, Pu¸ya, (Piirva) Phalguni, Svati,
+
+Jye¸tha, Abhijit, Satatara and Asvini (are located) in the middle
+square in order.
+
+## 6.
+
+I shall describe the niir/,i at the middle of the drawing.
+In that inner square, the (asterism) Mrga (sir¸a) (is located)
+at the east, and Punarvasu at the south-east.
+
+## 7-8. The Uttaraphalguni (is placed) in the south. (The
+
+asterism) Citra (is located) in the south-west. Having placed
+Miila in the west, the U ttara¸aQ.ha in the north-west, the Piirva­
+bhadrapada in the north and Revati in the north-east, the central
+square should be thus made to contain the eight asterisms.
+
+## 9.
+
+(The asterisms) Ardra, Hasta, the four A¸a«;;.hal and the
+three Uttara2 should be placed inside the central square as four
+pillars.
+
+## 10. Fortifications should be made thus. A belligerent com­
+
+ing from outside from the direction of lord (planet) (that
+presides over the day) and the asterisms (representing that
+I . The Piirvaȩiic}.ha and Uttariiùiic}.ha.
+
+## 2. The Uttaraphiilgwli, UttariiȪiic}.ha and Uttaraproùtapada.
+
+
+
+386
+Agni PurliTJ.a
+quarter) is sure to get the benefits.
+
+## 1 1 .
+
+If the planets and asterisms at the innermost square
+are good, it is known that those remaining in the inner
+square would b e victorious and defeat for that person coming
+(from outside) .
+12-13. One should enter the fort when the conducive aster­
+ism (rules) and one should come out under the influence of
+conducive asterism. One should know if the battle commen­
+ced when the planets Venus, Mercury and Mars leave their
+respective asterism one would face defeat. If the battle com­
+menced when the asterism held auspicious for entering the castle
+was ruling, then that fort would be captured. One need not get
+surprised.
+
+## CHAPTER ONE HUNDRED AND TWENTYNINE
+
+Guidelines for storing and selling grains
+
+## The Lord said :
+
+
+## 1 -2. I shall describe the quantity of food-grains to be
+
+gathered when there may be fall of meteors, earthquake, hurri­
+cane, eclipse, entry of foreign matter and conflagration in
+different
+directions
+in different months
+(of the
+year) .
+If these occur in the (month of) Caitra (April-May) , the orna­
+ments etc. gathered (would become) four-fold (worth) in (the
+course of) six months.
+
+## 3. All things collected in the (month of) VaiSakha (May­
+
+June) would become six-fold (worth) in eight months. In the
+same way, the grains such as barley and wheat (stocked) in the
+(months of) Jye¸tha (June-July) and A¸ࢫu;lha (July-August)
+(would fetch more ) .
+
+## 4.
+
+(Similarly) one would get (increased returns) in the
+month of Margasir¸a (December-January) from ghee, oil etc.
+purchased in (the month of) Sraval).a (August-September) ,
+apparels and grains in Asvina (October-November) and grains
+(purchased) in Karttika (November-December) .
+
+
+
+## 1 29.5-1 30. 1 -1 2
+
+387
+
+## 5.
+
+(One would get) profit by the purchase of saffron and
+perfumes in Pu:[lya (January-February) , food grains in Magha
+(February-March) and perfumes in Phalguna (March-April ) .
+Thus the arghakiiTJ¢a (section on storing and selling of grains
+and goods) has been described.
+
+## CHAPTER ONE HUNDRED AND THIRTY
+
+Different spheres marked by asterisms indicating victory in battle etc.
+
+## The Lord said :
+
+
+## 1 -2. 0 Good-natured Goddess ! I shall describe the four
+
+kinds of spheres (to find) one's victory. (The asterisms) Krttika,
+Magha, Puࢪya, Piirva (phalguni) , Visakha, BharaJ).i and Piirva­
+bhadrapada belong to the sphere of fire. I shall describe its
+characteristic.
+
+## 3-9. If the wind blows, holes (are noticed) in the disc of the
+
+Sun and Moon, earthquakes (occur) , hurricanes (strike) , (there
+be) the eclipses of Sun and Moon, smoky flames, conflagra­
+tion in
+(different) quarters, and comets are sighted and
+(there be) blood-like red showers, heat wave> and fall of meteo­
+rites (under these asterisms), (there would follow) epidemics of
+eye diseases and hiarrhoea. The fire would rage. The cows would
+yield reduced (quantity of) milk. The trees (would bear) lesser
+(quantity) of flowers and fruits. The food grains would get
+destroyed. One should foresee little rain. The four castes of
+people would be harassed. The entire humanity would suffer
+hunger. The inhabitants of (the regions of) Sindhu, Yamuna,
+Gurjara, Bhoja, Vahlika, Jalandhara, Kasmira and the Uttara­
+patha as well as these countries would be destroyed when these
+portents are noticed. (The asterisms) Hasta, Citra, Magha,
+Svati, Mrga (sir:[la) or Punarvasu, Uttaraphalguni and Asvini
+arc spoken as comprising the sphere of wind.
+10-12. The people would become bereft of virtues.
+All
+would lament in despair. (The countries) Dahala, Kamariipa,
+Kalinga, Kosala, Ayodhya, Avanti, KoilkaJ).a and Andhra would
+
+
+388
+Agni PuraT)a
+get destroyed. (The asterisms) Asle!lla, Mula, Purva!lla«;lha,
+Revati, Bhadrapada and Uttara (form the regions where)
+water reigns supreme. If something unusual takes place under
+their influence, it should be spoken as resultant of their respective
+influences.
+1 3-14.
+Cows would have plenty of milk and trees would
+abound with flowers and fruits. There would be good health.
+The earth would abound with grains. The grains would be highly
+valuable. The kingdom would be prosperous. There would
+be grave battles among kings.
+15-19.
+(The asterisms) Jye!i!tha, Rohil}.i, Anuradha, Dha­
+ni!iltha, Uttara!ila«;lha and Abhijit witnessing any unusual com­
+motion are said to be related to celestial (region) . The subjects
+would be jubiliant being free from all diseases. Kings would
+conclude treaties and the kingdom would be prosperous. The
+eclipses are known to be of two kinds-by the head or by the
+tail of Rahu. If the Sun or Moon and ascending node of Moon
+are in the same sign, it is known to be eclipse by the head. If it
+is thejamitra (the seventh sign of Zodiac) it is said to be by
+the tail. When the Moon stays at the fifteenth asterism from the
+one occupied by the Sun and if the lunar day begins and ends in
+between two sunrises, one should indicate the lunar eclipse.
+
+## CHAPTER ONE HUNDRED AND THIRTYONE
+
+Diagrams known as Ghatakacakra, Naracakra and Jayacakra
+indicating failure or success in battle etc.
+
+## The lord said :
+
+
+## 1 -3. The vowels commencing with 'a' should be written in
+
+a circular form commencing from the east.
+One should write
+such circles for the months Caitra (April-May) and the other
+months. The vowels should be considered as representing the
+lunar days first to thirteenth. lf the (names of) lunar days
+-of first, full moon, thirteenth, fourteenth, eighth, eleventh and
+:Seventh in the circle of Caitra happened to be touched, one
+
+
+1 3 1 .4-15
+389
+should know about one's victory or gains. One should know that
+it augurs well if odd numbers (of vowels are present) . It is said
+that it augurs bad if even numbers (of vowels are present) .
+
+## 4-5.
+
+When the name of a person is pronounced at the time
+of commencement of the battle, if one's name begins with a long
+vowel, he will always have victory even in dreadful battles. If
+the name of the warrior (commences with) short vowel, he would
+die without any prevention.
+
+## 6.
+
+If the first letter is long and the middle letter is also
+long (both indicate) death. If two letters at the middle are
+first (among the letters) , it would end in the death (of the
+person) without any doubt.
+
+## 7.
+
+If there are vowels at the beginning and the end, one
+should know (impending) death (if the vowels are) short and
+victory (if the vowels are) long.
+
+## 8.
+
+
+## I
+
+shall describe Naracakra (the figure of a man)
+consisting of asterisms. A human figure is drawn first and
+the asterisms are arranged (in order) .
+9-l l . Three aster isms are placed at the head (of the figure)
+one at its face, two at the eyes, four on the arms and two at the
+ears. Five asterisms (are placed) at the heart and six asterisms
+at the feet. The asterism for one's name should be found out and
+be placed at the centre of the drawing, at the eyes, head, right­
+ear, right-hand, feet, heart, neck, left hand, secret organ and
+feet (of the human figure) .
+
+## 12. One should know that fatality is certain at that
+
+asterism occupied by the Sun, Saturn,
+Mars or R.ahu (the
+ascending node) .
+
+## 13.
+
+I shall (now) describe the Jayacakra (the circle of
+victory) . One should draw letters a to ha. One should
+draw thirteen lines (on a plane) and six lines obliquely.
+14-15. The quarters, planets, sages, Sun, priest and the
+lunar days are placed (in the chambers above) in order. Stupe­
+faction, remembrance,
+scriptures, asterisms etc. and the
+letters a, ka, ¢a, ma etc. (are written) below them. The Sun and
+other planets when placed in seven places, the planets are power­
+ful at the end of the name. (The planets) Sun, Saturn and Mars
+(are) for victory and the planet Mercury for truce.
+
+
+390
+Agni PuriiT)a
+16-1 8. Twelve lines are drawn, six on the right and six on the
+left. Fourteen, twentyseven, two, one, fifteen, six, four, three
+and seventeen are known as weak points for wealth. The letters
+a, ka, !a and pa should be located below. After having assigned
+letters one by one the rest should be located as follows : the
+figure made up of letters comprising the name should be divided
+by eight.
+1 9-20. The quotient if identical with the number represent­
+ed by a crow (fourteen) would signify the diagram a strong
+one, while the same equal to the numbers represented by an ass,
+bull, elephant, lion, horse and camel would signify greater suc­
+cess respectively than the preceding one.
+
+## CHAPTER ONE HUNDRED AND THIRTYTWO
+
+Description of Seuiicakra and the indication of accrual of bene fits
+
+## The Lord said :
+
+I . I shall describe the Seuiicakra that indicates the gain or
+loss from the father, mother, brother, husband or wife.
+
+## 2. One should know from that from whom one would get
+
+benefits. One should draw six vertical lines and eight different
+lines obliquely.
+
+## 3-4. Then there would be thirty-five chambers. The letters
+
+should be written in these (chambers) . The five vowels are drawn
+and afterwards one should discard the three (consonants known
+as) hinariga (diminutive) and write letters ka to ha in groups
+of siddha, siidhya, susiddha, ari and mrtyu.
+
+## 5.
+
+Names (which begin with letters) falling under (the
+chambers) ari and mrHyu should be avoided in all acts by one's
+efforts.
+
+## 6-7. (The letter) falling in the first place (should be deemed)
+
+as yielding good. The second place would be a supporter and
+the third one would confer materials. The fourth one causes
+one's own destruction, while the fifth one gives death. The
+chambers occupied by friendly, servile and related letters would
+indicate acquisition of wealth.
+
+
+
+## 1 32.8-20
+
+391
+
+## 8. All the
+
+letters
+respectively
+occupying the siddha,
+siidhya and susiddha always yield fruits and the two ari and mrryu,
+should be rejected in all undertakings.
+
+## 9.
+
+The vowels a, i, u, e and o are known as included in the
+term akiiriinta as told now. Now I shall describe the different
+species of beings for which the different groups of letters stand
+for.
+1 0- 1 1 . The
+celestials occupy letters falling under the
+group of letter 'a', the demons occupy letters of 'ka' group,
+the serpents letters of 'ca' group and the gandharvas (a kind
+of semi-divine beings)
+letters of 'ta' group. The sages are
+stated to be in letters of 'ta' group, the demons are known to
+be in letters of
+'pa' group, the goblins in letters of )Ia'
+group and the men in letters of ' sa' group.
+12- 1 3.
+Demons are stronger than celestials, serpents than
+demons, gandharvas than serpents and sages than gandharvas.
+Demons are stronger than sages, goblins than demons and
+men than goblins. One (under the influence) of a stronger
+species should avoid (contact with one of) the weaker.
+14- 1 8.
+Listen
+again
+duly
+(to the narration)
+about
+Tiiriicakra which indicates friendship. As before it is calculated
+from the star and the first letter of the name of a person.
+The nine stars which should duly be ascertained from the natal
+star of a person are-janma, sampat, vipat, k6ema, praryari, dha­
+nadii, {ť!hi, nidhana, mitra and paramitra. The star known as the
+janma is inauspicious. The star (known as)
+sampat yields ex­
+tremely great result. The star (known as) vipat makes (one's
+attempts) futile. The star (known as) k{ema is favourable for all
+undertakings and praryari destroys one's wealth. The star
+(known as) dhanadii gets the benefit of kingdom etc., and the
+nidhana makes all attempts futile. The effect of the star (known
+as )mitra is friendship and that of paramitra is conferring benefits.
+
+## 19. 0 dear, the number of syllables which are the nume­
+
+rical equivalents of vowels in the names of two persons (to
+be related in any way), should be counted and added and (the
+total) be divided by twenty. The remainder indicates the result.
+
+## 20. One should find the debt and credit between the two
+
+names from the debt being indicated by lesser number of
+
+
+392
+Agni PuraT)a
+syllables and the credit by greater number of syllables.
+
+## 2 1 . Friendship (would grow between two persons) whose
+
+names stand in relationship of credit and indifference in the
+case of relationship of debt. This is said to be the Beuacakra
+which indicates benefits or the contrary.
+
+## 22.
+
+(There would be) friendliness (between those born
+under the constellations) of Aries and Gemini as also between
+those of Gemini and Leo. There would be great amity (between
+the born under the constellations) of Libra and Leo as also bet­
+ween Sagittarius and Acquarius.
+23-25. One should not accept the service of a person if
+his natal sign and that of the other person are in (relation­
+ship of) friendship. There is friendship between the following
+Taurus and Cancer, Cancer and Acquarius, Virgo and Scorpion,
+Capricorn and Scorpion, Pisces and Capricorn when they are
+respectively the third and eleventh signs. The constellations
+Libra and Aries would be in great friendship, Taurus and Scor­
+pion would be in great enmity. There would be friendship bet­
+ween Gemini and Sagittarius, Cancer and Capricorn, Capri­
+corn and Acquarius as also Virgo and Pisces.
+
+## CHAPTER ONE HUNDRED AND THIRTYTHREE
+
+Different traits in infants and combinations indicating success in
+battle
+'
+
+## The Lord said :
+
+
+## 1 -5. I shall describe the character (of an infant) from the
+
+nature of planets presiding over nativity. One would
+be
+born not extremely tall, neither lean nor stout, possess even loins,
+of a reddish yellow complexion, having reddish eyes and would
+be possessing good qualities and brave in the house of the Sun.
+One who was born in the house of the Moon would have good
+fortune and be of mild disposition. One who was born in the
+house of Mars would be flatulent and greedy. A person born in
+the house of Mercury would be intelligent, fortunate and res­
+pectable. A person born in the house of Jupiter would be ex-
+
+
+
+## 1 33.6-14
+
+393
+tremely irascible and fortunate. One born when the Venus
+was rising would be charitable, enjoy comforts and fortune.
+A person born in the house of Saturn would be intelligent, for­
+tunate and respectable. One born in a good-natured lagna (the
+rising point at the east at the time of one's birth) would be good­
+natured and one (born) in cruel-natured lagna would be cruel­
+natured.
+6-I l .
+0 Gauri ! I shall describe the effect of the presence
+(of the planets) in the sign of one's nativity according to one's
+name. The presence of Sun in such a position would get the
+native elephants, horses, wealth, grains, wide sovereignty and
+recovery of lost wealth. The period of Moon would get (the
+native) a damsel of celestial beauty. In (the period of) Mars
+one acquires land and happiness. One (gets) land, grains and
+wealth in (that of) Mercury. One (gets) elephant, horse etc.
+and wealth in (that of) Jupiter. In (that of) Venus one (is
+blessed with) plenty of food and drink and wealth. One is afflict­
+ed with diseases etc. in (that of) Saturn. (One is blessed with)
+good services with unguents etc. and good trade if Rahu (as­
+cending node of the Moon) is seen (in the nativity) even if the
+name of person contained odd number of letters or if it be in the
+flow of left nil¢i. Similarly, the presence of Saturn, Mars
+and Rahu (in the left niit/.i) would make the native victorious in
+the battle. The presence of the Sun in the flow of the right natf,i
+would augur loss in trade. A person would certainly be victo­
+rious in battle if his name contains even (number of letters) .
+One should know victory in battle if the movement is down­
+wards and death if the movement is upwards. Om hum om hram
+om sphem break down the weapons. Om break to pieces. Om
+rout all enemies. Om hrum om hral;. phal.
+12-14.
+One should place (the above) mantra (on his body)
+repeating seven times and should meditate on his self as lord
+Bhairava, auspicious, possessing four or ten or twenty hands,
+wielding in the hands a spike, a club, a sword, raised kattari,
+devouring the army of others and having his back on his own
+forces. One should repeat this one hundred and eight times in
+front of the army of enemies. By the repetition of this and
+the sound of small drum the enemy force would run away
+abandoning their weapons.
+
+
+394
+Agni PuriiT)a
+15-24. Listen ! I shall again describe another applica­
+tion that breaks the army of others. After having collected the
+charcoal from the cremation ground and the excrements of owl
+and crow one should draw the image of Bhairava on a cloth.
+The name of the enemy together with the letters are to be
+written at nine places such as the head, face, forehead, heart,
+genital organ, feet, back and between arms. (The image)
+should be broken down at the time of battle with the
+repetition of the above sacred syllable.
+I shall describe Tiirkvacakra for the sake of victory and
+which is (known as) trimukhiik{ara (three-faced syllable) . Throw
+away. Om oblations. Tiirk¸ya is destroyer of enemies, disease
+and poison. It also sets right one possessed by an evil spirit or
+afflicted by diseases or grief-stricken. One would accomplish
+results proportional to his actions through the bird (Tiirk¸ya) .
+All poisons such as those due to a plant, movable beings and
+spiders and artificial poison get destroyed by the look of an
+accomplisher. One should again contemplate on the great
+Tiirk¸ya having two wings and of the form of a man, having two
+arms and a curved beak, supporting an elephant and tortoise
+and coming in the middle of the sky having innumerable ser­
+pents at its feet. One would see the enemies being swallowed,
+eaten, hit and struck by the beak in the battle, some crushed by
+the feet, some crushed by being struck by the wings and some
+running away in ten directions. One who contemplates on
+Tiirk¸ya would be invincible in the three worlds.
+25-26.
+I shall describe the work to be done to accomplish
+the sanctity of the bunch of peacock's feathers. Om hrum bird !
+Cast away ! Om hum saf.t ! The most valiant and of great
+strength ! Devour all forces (of the enemy) . Om trample down.
+Om break to pieces. Om melt away. Om hum kha/.t om ! Bhairava
+may accept oblations. One should repeat this at the (time
+of) lunar eclipse and the bunch of peacock's feathers should
+be sanctified and waved in front of the army. Just as the one
+riding the lion would do the herds of deer, one would rout (the
+army of enemies) by the sound and contemplation on the
+elephant and lion.
+27-33.
+I shall describe the invocation with the sacred syl­
+lable (which would rout the enemy force) from a distance by its
+
+
+
+## 1 33.34-4 1
+
+395
+sound. Porridge should be offered to the divine mothers, espe­
+cially to Kalaratri . One should invoke (the goddess) from a
+distance with the flowers miilati and ciimari together with the ashes
+fro m the cremation ground and the roots of cotton (plant) .
+Om ahe he Mahendri ! Break ! hi om discard ! Devour the enemy !
+lili kili om hum phat ! By this breaking sacred syllable (bhanga­
+vic!Jiii) repeated from a distance the enemy would be destroyed.
+A mark on the forehead made up of apariijitii and dhattii.ra
+(should be made use of) together (with the mantra) . Om kili
+kili vikili icchiikili ! (Goddess) Uma ! Destroyer of goblins !
+Sankhini (woman fairy) ! Wielder of a club ! Ferocious !
+Mahdvari (Great goddess)
+! Projecting meteors from the
+mouth ! Emitting fires from the mouth ! Possessing ears like the
+conch ! ·Possessing emaciated thighs ! One who vomits (Alam­
+bu¸a) ! Take away ! Om dug up all wicked persons. Om ! 0
+Goddess ! whoever looks at me (you) stupefy them. Om ! the
+terrible (goddess) remaining in the heart of Rudra (Siva) !
+By your gracious disposition protect me then. Oblations. After
+having drawn the divine mothers surrounded by all their forms
+outside, the (above) sacred syllable, which accomplishes all
+desires, should be written on a betel leaf. It was worn by
+(gods) Brahma, Rudra, Indra and Vi¸J).u on the hand before.
+The celestials were adorned with this protective potent of (god­
+desses) Narasimhi, Bhairavi, all goddesses of the form of Sakti,
+(goddess) Trailokyamohini and Gauri at the time of great
+battle between
+celestials and demons.
+0 auspicious one ! It is known as the protective amulet
+in which the letters consisting of the name (of the wearer)
+sanctified by the principle sacred syllable on the petals of a
+lotus (shaped diagram) and duly worshipped with the accesso­
+nes.
+34-41 .
+I shall describe mrtyuiijaya (conquering death) .
+The name surrounded by kaliis (syllables) should b e in the
+midst of sacred syllable and preceded by the letter sa. The
+letter ja coupled with the dot and the syllable om, containing the
+letter dha at the middle and with the letter va together with the
+sanctified Moon at the middle that routs all the wicked (should
+be placed) . Otherwise one should write the name and the object
+on the petals. The syllable om should be written on the petal
+
+
+396
+Agni PuriiQa
+on the east, one's right and north. The syllable hum (should
+be written) on the south-east etc. and the (other) syllables on
+the sixteen petals. (The consonants) ka etc. (should be written)
+in the thirtyfour petals. One should write this sacred syllable of
+conquering death outside on a bhurja leaf together with rocanii
+(yellow pigment) , saffron, camphor and sandal. It should be
+enclosed with a white thread, covered by bee-wax and worship­
+ped on a pitcher. By wearing this amulet one gets cured of his
+diseases and his enemies would perish. I shall explain the sacred
+syllable known as Bhelakhi that wards off separation and death.
+Am Vatala (windy) ! Vitala (located in the lower region !
+Cat-faced ! Daughter of Indra ! Born through the agency of
+wind god ! Obstruct. Come. Hiijii in me,
+Viiha iryiidi duiJ,kha
+niryakaQthoccairmuhurtiinvayii aha miimyasmaham upiidi om Bhelakhi !
+Om ! oblations. (Similarly) the sacred syllable of Navadurga
+repeated seven times if worn on one's mouth paralyses the mouth
+(of the enemy) . Om hum phat oblations. One undefeated in
+a
+battle with a word if held after repetition for seven times.
+
+## CHAPTER ONE HUNDRED AND THIRTY-FOUR
+
+Sacred formula for the conquest of three worlds
+
+## The Lord said :
+
+
+## 1 -3. I shall describe (the formula) that conquers three
+
+worlds and crushes all (other) amulets. Om hum kfum hrum om
+obeisance. 0 Goddess ! Possessing (frightful) teeth ! Possess­
+ing fierce face ! One having a very fierce form ! Hili, hili
+r
+Possessing red eyes ! Kili, kili ! Possessing great sound ! kulu
+om ! Possessing a tongue resembling the lightning ! kulu om !
+One having no flesh ! kata kata ! Wearing the ornament of
+gonasa (a kind of gem) ! Cili cili ! One who wears the garland
+of dead bodies ! Drive away. Om ! One having a terrible form !
+One who is clad in raw hide ! (You) gape ! Om ! Dance 0
+goddess wielding
+the creeper-like sword ! One whose side
+glances have been hot with anger. One having the third eye !
+One whose body has been besmeared with marrow and fat !
+
+
+
+## 135 . 1
+
+397
+Kaha kaha om. Laugh. Be angry. Om. One possessing the colour
+of a blue cloud ! One who has made the garland of cloud as the
+ornament ! Shine ! Om. One having the body strewn by the
+sound of the bell ! Om ! One who rides the lion ! One of light­
+red complexion ! Om hriim hrim hrum. One of terrible form !
+Hrum hrim klim om hrim hrum om. Attract. Shake. Om he ha/.l
+khau. One who wields the club ! Hum k!um k!iim. One who has
+the form of wrath ! Inflame. Om. Terribly frightening one f
+Break. Om. One having a big body !
+Cut. Om. One having
+a dreadful form ! Burrow. The mother of great goblins ! One
+who wards off all the wicked ! Victorious one ! Om. Victorious
+one ! Om. One who conquers the three worlds ! Hum phal
+oblations. One should propitiate the goddess of blue comp­
+lexion, remaining ondead bodies and possessing twenty arms for
+(gaining) victory. After having located on the five parts of the
+body, red flowers should be offered (to the goddess) . There
+would be routing of the (enemy) forces in the battle by the
+repetition of the formula (known as) conquering three worlds.
+Om. (Obeisance) to (the god of) manifold forms. Paralyse.
+Om. Stupefy. Om. Scatter away all enemies. Om. Attract
+(lord) Brahma. Attract (lord) Vi:gm. Attract (lord) Mahe­
+svara (Siva) . Om. Make (the god) Indra tremble. Om. Make
+the mountains move. Om. Dry up seven oceans. Om. Cut
+through. Cut through. Obeisance to (the god) of manifold
+forms. One should then meditate
+(while pronouncing this
+formula) that the enemy is present in an image of a serpent
+made up of earth.
+
+## CHAPTER ONE HUNDRED AND THIRTYFIVE
+
+Formula for success in battle
+
+## The lord said :
+
+
+## 1 . I shall describe the garland of words of the formula that
+
+gives victory in the battle. Om hrim (Goddess) Camur.J.(;I.a (hav­
+ing a terrific form) ! One who dwells in the cremation ground t
+One who holds in hand the club with a skull at the top !
+
+
+398
+Agni Purdr)a
+One who is riding the terrific dead body (or the body in the form
+ofuniverse at the time of deluge) ! One who is surrounded
+by the great vehicle in the form of the decaying universe !
+The dark night at the destruction of universe ! One who is
+surrounded by the great attendant gods ! Goddess with a great
+mouth ! Possessing several hands ! (One who holds) the bell,
+the little drum and the small bell ! One who has a terrific lau­
+ghter ! Kiti kiti om hum phat. One who makes (the world) dark
+by her fierce teeth ! One who makes many kinds of sounds !
+One who is clad in the hide of an elephant ! One who is bes­
+meared with flesh ! One whose terrific tongue is licking ! The
+great demoness ! One having the terrible teeth ! One who has
+frightening roar of laughter ! One who has the splendour of
+shining lightning ! Move. Move. Om. One who has the eyes
+like the Cakora1 (bird) ! Citi. Cili. Om. One who has a lustrous
+tol).gue ! Om bhim. One who has a frown on the face ! One
+who frightens
+by
+uttering the syllable hum ! One who
+wears the moon on the crown on her matted hair surrounded by
+the garland of skulls ! One who has the terrific laughter ! Kili
+kiti om hrum. One who makes (the world) dark by her frighten­
+ing teeth ! One who destroys all obstacles ! (Y ourh) accomp­
+lish this act. Om. Do it quickly. Om phat om subjugate with
+( your) mace. Enter. Om Dance. Dance .Shake. Om. Make (the
+enemies) move. Om. One who is fond of blood, flesh and
+intoxicating drink ! Kill. Om trample. Om cut. Om kill. Om chase
+Om make the strong body (of the enemy) fall down.
+Om.
+Enter into the beings of three worlds whether wicked or not
+wicked, taken possession or not. Om dance. Om extol. One who
+has sunken eyes ! One having erect hairs ! One having the
+face of an owl ! One who holds skull (in the hand) ! Om.
+One who wears a garland of skulls ! Burn. Om. Cook. Cook.
+Om. Seize. Om. Enter into the middle of the circle (of the ene­
+mies) . Om. Why do you delay ? Overwhelm (them) with the
+strength of (lords) Brahma, Vigtu and Rudra and the strength
+of sages. Om Kiti kiti om khiti khiti viti viti om. One who dis­
+plays an ugly form ! One whose body is enveloped by a black
+serpent ! One who subjugates all planets ! One who has a long
+lip ! One whose nose rests on the frowning eyes ! One who is
+
+## 1 . A fabulous bird supposed to live on the ambrosia of the Moon.
+
+
+
+
+## 1 35.2-6
+
+399
+having a frightful face ! One having tawny matted hair
+!
+Brahmi ! Break. One whose mouth emits flames ! Yell. Om.
+Make (the enemies) fall down. Om. One having red eyes
+!
+Roll the earth. Make (them) fall. Om. Catch hold of the head.
+Close the eye. Om. Catch hold of the arms and feet. Split open
+the posture (of the hands) . Om phat om. Pierce open. Om. Cut
+with the trident. Om kill with the mace. Om strike with the
+stick. Om. Cut with the disc. Om. Break with the spear. Stake
+with the teeth. Om. Pierce with the middle finger. Om. Seize
+with the goad. Om. Release. Release the possessive spirits like
+the :Oakini and Skanda and also the fevers occurring every day,
+second day , third day and fourth day (and the diseases of) the
+head and eyes. Om. Cook. Om. Destroy. Om. Make them fall
+to the ground. Om. Brahmii:Q.i !1 Come. Om (goddess) Mahe­
+svari ! Come. Om Kaumari ! Come. Om Vai¸J).avi ! Come.
+Om Varahi ! Come. Om Aindri ! Come. Om. Camui).Q.ii. Come.
+Om Revati ! Come. Om. Akiisarevati. Come. Om. One who
+moves like the snow. Come. Om. One who has slain (the de­
+mon) Ruru ! One who annihilated the demons ! One who
+goes in heaven !
+Bind. Bind with the noose. Pierce with
+the goad. Stand for the moment. Om enter the circle (of
+enemies) ! Om. Seize. Bind the face. Om. Bind the eyes, arms
+and
+feet. Bind the malefic planets.
+Om. Bind directions.
+Charm the cardinal points, the space below and all places. Om.
+Subjugate all with ashes or water or earth or mustard. Om.
+Make them fall. Om. (goddess) Camui).Q.ii ! Kili kili lim vicce
+hum phat oblations. This is known as the garland of words that
+accomplishes all acts.
+
+## 2-6.
+
+One gets victory in battle always by oblations, repeti­
+tions and reading of this formula. One has to contemplate (on
+the goddess) as having twenty-eight hands holding the sword,
+club, mace, stick, bow, arrow, clenched fist, hammer, conch,
+sword, banner, club, disc, axe, little drum, mirror, spear, dart,
+plough, mace, nose, an iron club, large drum, par:zava (a kind of
+musical instrument) , conferring pose, clenched fist, threatening
+posture, killing the (demon in the form of a) buffalo in the pairs
+of hands. By making oblations one would conquer the enemies.
+
+## 1 . From BrahrnfuJ.i to CamUJ].Q.ii. are the eight divine mothers.
+
+
+
+400
+Agni Purii1)a
+The (above) oblations should be done with three sweet
+things (honey sugar and clarified butter) . This incantation
+should not be disclosed to everyone.
+
+## CHAPTER ONE HUNDRED AND THIRTYSIX
+
+The diagram of asterisms indicating the period for undertaking a
+journtry
+
+## The Lord said :
+
+
+## 1 -6. I shall describe the diagram indicating good or bad
+
+results in journey undertaken. A diagram consisting of three
+columns should be drawn and (the asterisms) Asvini etc. should
+be represented therein (by their first letters) . (The asterisms)
+Asvini, Ardra, Piirva (phalguni) , Uttaraphalguni, Hasta, JyeƲ­
+tha, Miila, Varul}.a (SatabhiƲak) and Ajaikapat (Piirvabhadra­
+pada) consist of
+first column.
+(The asterisms)
+Yamya
+(Bharal}.i) , Mrgasira, PuƲya, Bhagya (Piirvaphalguni) , Citra,
+Maitra (Anuradha) , Apya (Piirva¸ac;lha) , Vasava (Jye¸tha)
+and Ahirbudhnya (Uttarabhadrapada)
+(are located in the
+second column) . (The asterisms) Krttika, Rohil}.i, Ahi.b. (AsleƲa)
+Citra, Svati, Visakha, Sraval}.a and Revati are located in the
+third (column) . One should know the good or bad results from
+the asterisms associated with three columns. This is known
+as the diagram of phar.ziSvara (lord of serpents ) divided into
+three columns. The presence in Sun, Mars, Saturn and Rahu
+(the ascending node) indicate bad luck and the rest good luck.
+The position is the same, such as the country or village, the
+brothers and wife indicate good. The twentyseven asterisms
+should be known as (represented by letters) a, bha, kr, ro,
+mr, ii, pu, pu, ii, ma, pu, u, ha, ci, svii, vi, a, jye, mil, pa, u, sra, dha,
+fa, pu, u and re.
+
+
+
+## 137. 1-7
+
+401
+
+## CHAPTER ONE HUNDRED AND THIRTYSEVEN
+
+Description of the formula known as Mahamiiri
+
+## The Lord said :
+
+I . I shall describe the formula known as Mahamari (that
+which brings death) that routs the enemies. Om hrim Maha­
+mari ! One having red eyes ! One having black complexion !
+0 One who commands the god of death ! One who destroys
+all beings ! Kill such and such a person. Kill. Om burn, hum.
+Om cook, cook. Om pierce, pierce. Om kill, kill. Om annihilate,
+annihilate. Om one who charms all good (beings) ! One who
+grants all desires ! Hum phat oblations. Om Mari ! Obeisance
+to the heart. Om Mahamiiri ! Oblations to the head. Om Dread­
+ful night (at the time of deluge) ! Vaâat to the tuft. Om
+possessing black complexion ! Khab to the armour hum.
+Om
+one having starry eyes ! One having the tongue-like lightning !
+One who frightens all beings ! Protect, protect in all my under­
+takings. Hriim. To the three-eyed VQiat. Om Mahamari ! One
+who controls all beings ! Mahakali ! To the weapons hum
+phat. 0 Great goddess ! This is the rite of location to be per­
+formed by the votary.
+
+## 2-3.
+
+After having collected from the dead body, the cloth
+of the shape of a square of three cubit's length, one should draw
+(the image of the goddess) of black complexion, having three
+faces and four hands, (and draw) on the cloth with different
+colours, (the weapons) bow, spear, scissor, staff with skull at its
+top and the eastern face having black colour.
+
+## 4-6.
+
+By the fall of the sight (of this face) it would devour
+the man in front. The second (face) on the south (is) red­
+red-tongued, frightening, licking, dreadful and frightful with pro­
+truded lips through which a row of horrid teeth are visible. A
+look at this (face ) is sure to devour the horses etc. (of the enemies) .
+The third face of the goddess is of white colour and is the des­
+troyer of the elephant etc. The western face (of the goddess)
+should be propitiated with incense, flower, honey and clarified
+butter etc.
+
+## 7.
+
+By the remembrance of this sacred syllable the diseases
+of the eye, head and others (limbs) get destroyed. The yakias
+
+
+402
+Agni PurarJa
+(semi-divine beings) and demons come under one's control.
+The enemies get destroyed.
+
+## 8. There is no doubt that by oblation made with the twigs
+
+of margosa tree mixed with the blood of a she-goat, the angry
+votary would kill (his enemies) .
+
+## 9 . If the oblation is done for seven days in front of the army
+
+of the enemy, the army would b(! afflicted with diseases and the
+enemies get routed.
+
+## I O.
+
+In whose name eight thousand oblations are made with
+(the same) twigs, he would die even if protected by Brahma.
+
+## I I .
+
+(If oblations are made) for three days with the twig3 of
+unmatta (a kind of plant) with blood and poison for thousand
+times, the enemy would get destroyed together with his army.
+
+## 12. One would rout the enemy by doing oblations of black
+
+mustard and salt for three days. The oblations made with the
+addition of the blood of an ass would make the enemy fly away.
+
+## 13. The oblation made with the addition of the blood of a
+
+crow would cause
+annihilation of the enemy. Whatever
+(the votary) does as he wished for the destruction (of the enemy)
+(should be completed with an oblation performed with the same
+material) .
+14-18.
+Then at the time of battle the votary should
+ride an elephant accompanied by a couple of girls, his body
+having been sanctified by sacred syllables. He should then charm
+the musical instruments like the conch etc. at some distance
+(from the enemy) and should cut (the enemy forces) at the
+battle-field holding the cloth containing the figure of Maha.­
+maya. He should show that great cloth against the army of the
+enemy. The girls should be fed therein and the lump (of food ? )
+should be carried round. The votary should then think that the
+army has become immobile like a stone, crest-fallen, broken and
+confused. This paralysing (formula) has been uttered by me.
+It should not be disclosed to everyone. The cloth described
+above (may also have the outlines of) Durga, Bhairavi, Kubjika,
+(different forms of the
+consort
+of Siva), Rudra
+and
+Narasirhha (man-lion) manifestation of Vi¸I).U) besides those of
+(Maha.) maya that conquers the three worlds.
+
+
+
+## 1 38. 1 -l l
+
+403
+
+## CHAPTER ONE HUNDRED AND THIRTYEIGHT
+
+The six accessory acts relating to all mantras
+
+## The Lord said :
+
+l -5.
+
+## I
+
+shall describe six acts
+(to be used) in all
+sacred syllables. Listen (to me) . The sadhya (to be accomp­
+lished)should be written first being followed by the sacred syl­
+lable. This is known as the pallava (bud) and should be used in
+all incantations. First the sacred syllable (is written), then the
+sadhya and then the sacred syllable. This is known as the yoga
+(combination) . This should be employed for the utsadana (ex­
+tinction) of one's race. The sacred syllable is written first and the
+sadhya is added at the middle and again the sacred syllable
+at the end. This tradition is (known as) the rodhaka (that which
+arrests) and should be employed in stambhana (stupefying the
+faculties of the enemy ) . The sadhya should be added at the
+bottom and top, left, right and middle. This is known as the
+samputa (casket) and should be employed in va!ya (subjugation)
+and akar{a (attraction) .
+
+## 6 . When the letters composing any particular sacred syllable
+
+are of the category of sadhyaJletters , that sacred syllable is known
+to be the first class. It is capable of attracting and subjugating
+(another person) .
+
+## 7. Two of the letters constituting the sacred syllable are
+
+written first and one sadhya letter afterwards. This is known to
+be the vidarbha and should be made use of in attraction and sub­
+jugation.
+8-1 0.
+The acts of akar6aT)a etc. as also (in subduing) high
+fever should be performed only in the spring. The term svaha
+(oblations) is auspicious in attraction and subjugation. The
+term namaskiira (obeisance) should be employed for peace and
+prosperity. The term va6al (should be made use of) for good
+health and in acts of attraction and subjugation. (The term)
+phat would be (used) for creating dissension, causing death and
+to break an auspicious one. The term va{al gives accomplish­
+ment in gains and initiation in sacred syllables.
+I I . You are Yama (god of death) . You are the sovereign
+over the dead (Yamaraja) . You are of the form of time. You.
+
+
+404
+Agni Puriir;,a
+are the reign of righteousness. You quickly make dead this enemy
+offered by me.
+
+## 12. The priest, who is the destroyer of the enemy, should
+
+say with pleased mind, "0 Votary ! Be calm ! I shall kill
+(him) with (all my) efforts."
+1 3-14.
+This gets accomplished after worshipping the god
+of, death in white lotus and making oblations contemplating
+himself as Bhairava and Kulesvari (as remaining) at the centre.
+(The votary) would know in the night the result (of the incan­
+tation) on himself and the person (concerned) . One would
+become the killer of his enemy by propitiating the (goddess)
+Durga with the formula "0 (goddess) Durga ! Durga ! You
+are the guardian !" One should kill the enemy by the
+repetition of letters "ha, sa, k6a, rna, la, va, ra andya" sacred to
+(the goddess) Bhairavi.
+
+## CHAPTER ONE HUNDRED AND THIRTYNINE
+
+The names of sixry years of Hindu cycle and the good or bad
+results from them
+
+## The lord said :
+
+
+## 1 . Listen ! I shall describe the names of sixty years
+
+and the good or bad results from them. Sacrificial rites (would
+be done) in Prabhava. The people would be comfortable in
+Vibhava.
+
+## 2.
+
+All grains (grow well) in Sukla. (People) rejoice m
+Pramoda (Pramodiit) . There would be increase (of <>.rticles of
+<:omforts) in Prajiipati (Prajotpatti) . (The year) Angirii (Angi­
+rasa) would increase comforts.
+
+## 3.
+
+The people (population) increase in Srimukha. Thou­
+ghts flourish well in Bhiiva (Bhava) . (In the year) Tuva the life
+-essence gets filled up. Dhiitii makes the herbs sprout well.
+
+## 4.
+
+Isvara (gives) welfare and health. Bahudiina gives pros­
+perity. In Pramiithi (there would be) moderate rains. There
+would be plenty of grains in Vikrama.
+
+## 5.
+
+Vr`a (Vi,fu) makes all things thrive. Citrabhiinu sees many
+
+
+
+## 139.6-1 40. 1-3
+
+405
+wonderful events.
+Svarbhiinu
+(gives) prosperity and health.
+The clouds are favourable in TiiraT)a.
+
+## 6.
+
+(There would be) abundance of rains in Piirthiva. Jaya
+(Vijaya) (indicates) excessive rains. Sarvajit (indicates) good
+showers. Sarvadhiitri gives prosperity.
+
+## 7.
+
+Virodhi destroys
+clouds. ( Vikrti)
+causes panic. Men
+become chivalrous in Khara. The people rejoice in Nandana.
+
+## 8-9.
+
+Vijaya kills enemies.
+(Jaya)
+annihilates enemies
+and diseases. People suffer from fever in Manmatha. People
+become wicked in the cruel Durmukha. There will not be pros­
+perity in Hemalamba. 0 great goddess ! the year Vilamba gives
+prosperity.
+
+## 10.
+
+Vikiiri
+causes the wrath of enemies. 0 Victorious
+one ! (The year) Sarvadii (Siirvari) gives
+comforts to all.
+Water inundates (the earth) in Plava. 0 Good-natured one !
+The people do auspicious things in Subhakrt1•
+I I . The people (become) cruel in Riikfasa. In Anala (N ala)
+(there would be plenty of) different kinds of grains. (There
+would be) good showers in Ping ala and destruction of wealth in
+Kalayukti.
+
+## 12. All things are accomplished in Siddhiirtha (Siddhiirthi).
+
+Dreadful events take place in Raudra (Raudri) . (There would be)
+moderate rains in Durmati. Dundubhi causes welfare and (plenty
+of) grains.
+
+## 13. It rains well in Rudhirodgiiri. Raktiikia and Krodhana
+
+(give) victory. ln Kiaya (Akiaya) people get reduced to poverty.
+These are the sixty years.
+
+## CHAPTER ONE HUNDRED AND FORTY
+
+Description of herbs used in charms
+
+## The Lord said :
+
+l -3.
+I shall describe
+(drugs ) used in charms. These
+should be written in eight squares. They are bhrngariija, saha-
+
+## 1 .
+
+The text then omits the names of 12 years and continues from
+Rak!asa, the 49th year.
+
+
+406
+Agni Puriir)a
+devi, mayii.raJikha, putraiijiva, krtaiijali, adhabpupii, rudantikii,
+kumiiri, rudrajatii, viroukriintii, white arka, lajjiilukii, mohalatii, black
+dhattii.ra, goraka, karkati, meaJrngi and snuhi.
+
+## 4-5.
+
+The symbolical numbers of herbs are rtvijab (priests)
+(16), vahnayab (fires) (3) , niigiib (elephants) (8) , pakᆊau (wings)
+(2) , muni (sage) (3 ) , Manu (14 ) , Siva ( I I ) , vasavab (vasus)
+(8) dik (directions) ( I 0), rasiib (tastes) (6) , vediib ( 4), grahiib
+(planets) (9 ) , rtavab (seasons) (6) , Ravi (Sun) ( 1 2 ) , Candra­
+miib (Moon) ( 1 ) and tithayab (phases of the Moon) ( 1 5 ) . The
+first four (of the
+above-said herbs)
+should be
+used to
+fumigate (the body of the votary) or in the burning sticks.
+
+## 6.
+
+Collyrium should be made out of the third (in the list) .
+Bathing should be done with the fourth. The unguent of four
+kinds should be made with the bhrngariija and the one following
+it (in the list) .
+
+## 7-8.
+
+(The herbs represented symbolically by) muni in the
+list should be used in unguent for the right side, by yuga for the
+left side, by bhujaga for the foot and iivara for the head. Fumiga­
+tion of the centre should be done with arka (12) and Jaii (I ) ,
+i n all acts. A body besmeared with these would be worshipped
+even by the celestials.
+
+## 9.
+
+Incense sticks made of the sixteenth (herb in the list)
+should be burnt and taken round the house. (The herbs stand­
+ing as) the fourth should be used in the collyrium and those
+(standing as) the fifth should be used in bathing.
+
+## 10.
+
+(The herbs denoted by the number) eleven should be
+used for eating and fifteen for drinking. A mark on the forehead
+with (the herbs denoted by the numbers) rtvik (16), veda (4) ,
+rtu (6) , nayana (2 ) captivates the world.
+
+## 1 1 . A lady being besmeared with (the herbs denoted by)
+
+sii.rya (12) , tridaJa ( 1 3 ) , paka (2 ) and Jaila (7) gets captivated.
+Women get captivated by besmearing their genital organ with
+(herbs denoted by) candra (1 ) , Indra (l ) , phaT)i (8) and rudra ( I I ).
+
+## 12. A pill made of (herbs denoted by) tithi ( 1 5 ) , dik
+
+(8) , yuga (4), and biiT)a (5) can subjugate. This pill should be
+given in eatables, food and drink as a charm.
+
+## 13.
+
+(The herbs denoted by) rtvik (16), graha (9 ) , ak# (2)
+and Jaila (7) if had on the face (are effective) in paralysing
+weapons. One can remain in waters by besmearing limbs
+
+
+
+## 140. 14-141 . 1-5
+
+407
+with (the herbs denoted by) saila (7) Indra ( I ) , veda ( 4) and
+randhra (9).
+
+## 14. A pill of (the herbs denoted by) boT)a (5) , ak!i (2 ) ,
+
+manu ( 1 4 ) and rudra ( 1 1 ) removes hunger and thirst. A miser­
+able woman would be made happy by besmearing with (herbs
+denoted by) tri (3) , !Ot/afa (16) , dik (8) and boT)a (5) .
+
+## 15. One would (be able to) play with serpents by besmear­
+
+ing with (herbs denoted by) lri (3 ) , dafa (10), ak1i (2 ) , dik (8)
+and netra (2 ) . A woman delivers a child comfortably by an
+application of the unguent of (the herbs represented by) tri
+(3), dasa (10), ak,i (2 ) , iSa (1 1 ) and bhujaga (8) .
+
+## 16. One is sure to win in dice (by wearing) a cloth bes­
+
+meared with (the herbs represented by) sapta (7 ) , dik (8) , muni
+(3 ) and randhra (9) . Male child (would be born) by besmearing
+the penis with (the herbs denoted by) tri (3 ) , dafa (10), ak1a
+(2 ) , abdhi (7) and muni (3 ) before coition.
+
+## 1 7.
+
+A pill made (ofthe herbs represented by) graha (9 ),
+abdhi (7 ) , sarpya (8) , tri (3 ) and dasa (10) would be able to
+charm. The efficacy of the herbs in the sixteen places has been
+explained.
+
+## CHAPTER ONE HUNDRED AND FORTYONE
+
+Description of herbs used in charms, medicines etc.
+
+## The Lord said :
+
+I . I shall describe the effect of the herbs arranged in 36
+squares which were used by lords Brahmii, Rudra and Indra
+and which if used make men immortals.
+
+## 2-5. (They are )-haritaki, ak1i, dhatri, marica, pippali, silpha,
+
+vahni, SuTJ./hi, pippali, gu¢ilci, vaca, nimba, vasaka, satamilli, sain­
+dhava, sindhu-varaka, kaTJ.takilri, gok,uraka, bilva, paunamava, bala,
+eraT)t/.amuTJ.¢i, rucaka, bhrnga, k!ilra, parpata, dhanyaka, jiraka,
+satapu,pi, javonika, vitf.anga, khadira, krtamala, haridra,
+and
+siddhartha located in the 36 squares.
+
+
+408
+Agni PuriiT)a
+
+## 6-10. The herbs duly counted from one and placed in all
+
+squares are highly efficacious in curing ailments, making
+(men) immortal and cure wrinkles and baldness. Their crushed
+powder compounded and treated with mercury and used as an
+electuary with pieces of jaggery, honey or ghee or as an astrin­
+gent or through the medium of ghee or oil taken by all would
+save their lives. One can take half a karfa1 or one karfa or half
+a pala2 or one pala and may live for 300 years although he may
+be pursuing an indisciplined way of life. There is no other com­
+bination more (efficacious) than this remedy reviving the dead.
+l l . One gets free from all diseases by the combination of
+the first nine (herbs) . One gets free from aches by (the use of)
+second, third and fourth (herbs) .
+
+## 12. So also (one gets free from all diseases by the use of)
+
+six herbs from first to sixth as well as ninth.
+
+## 1 3.
+
+One gets free from wind (affecting the body) by (the
+use of herbs) one to eight and from biles by agni (third)
+bhiiskara (twelfth) , twenty-sixth and twenty-seventh.
+
+## 14. One gets cured of (deranged) phlegm by (the use of
+
+herbs) biiT)a (fifth) , rtu (sixth) , saila (seventh) vasu (eighth)
+and tithi (fifteenth) . (Herbs denoted by) veda (four) , agni
+(three) , biiT)a (five) and six would be (efficacious) against
+(diseases caused by) charm.
+
+## 15. One would get freed from (all a fRictions due to)
+
+planets and being possessed (by goblins) by (the due use of
+herbs denoted by) one, two, three, six, seven, eight, nine and
+eleven.
+
+## 16.
+
+There is no doubt that (they would also be cured by
+herbs denoted) by thirty-two, fifteen and twelve. This knowl­
+edge relating to thirty-six places should not be imparted to
+everyone.
+
+## 1. One kar1a is equal to 16 mii1as where mii!a stands for the weight of a
+
+kind of grain.
+
+## 2. One pala is equal to 4 kar1as.
+
+
+
+
+## 142. 1 - 1 0a
+
+409
+
+## CHAPTER ONE HUNDRED AND FORTYTWO
+
+Description of medicinal incantations
+
+## The Lord said :
+
+
+## 1 -2.
+
+I shall describe the medicinal incantations and dia­
+grams which yield all (desires) . The number of letters
+composing the name of a thief should be doubled (and added
+to ) the number of its syllables multiplied by four. (The total
+thus obtained) should be divided by (the number of letters in)
+the name (of a person) and ifthere be any remainder (he should
+be reckoned as) a thief. I shall describe (the process of reckon­
+ing) the birth (of a child) . If there are odd numbers of letters
+in the question (put to the soothsayer) , it indicates that the child
+in the womb would be a male.
+
+## 3-4.
+
+(The child would be born) blind in the left eye if the
+letters in the name are even and in the right eye if the letters are
+odd. The number of letters composing the names of both the'
+male and female should be multiplied by the number of their·
+syllables and divided by four. (The quotient) , if even, (would
+indicate the birth of) a female child and if odd, a male child.
+If there is no remainder, (it indicates) the death of the woman.
+
+## 5. If there is no remainder in the former, (it indicates)
+
+the death of the husband first. In hoary science one should take
+the subtle akfara in all divisions.
+
+## 6-7.
+
+I shall describe the diagram of Saturn. One should
+avoid the aspect of that (Saturn) (at all times) . (The Saturn
+in) its house has one hundred and fourteen (units) aspect at the
+seventh. It has one-fourth its aspect in the first, second, eighth
+and twelfth (places) . One should avoid them. The lord of the
+day governs one eighth part of a day. The others govern half a
+yiima (three hours) .
+8-lOa. One should avoid the period of Saturn during
+the battle. I shall describe the rule of Rahu (the ascending
+node) on a day. It (lies) always at the east on Sunday, at south­
+east on Saturday, at the south on Thursday, at the north-west
+on Friday, at the south-east on Tuesday, and at the north on
+Wednesday, while the PhatJiriihu lies enclosing at the north­
+east, south-east, south-west and north-west and kills one who
+sets on a journey against it.
+
+
+410
+Agni Purii1Ja
+
+## 10b.-13. I shall describe the position of Rahu on different
+
+days of a month. Rahu kills the enemy facing it on the
+full moon day at the south-east and on new moon day at the
+north-west. Rahu will 1ie facing on the days represented by (the
+letters) ka toja and, in the south on (the days of) sa to da, in
+the east on (the days of) dha to ma and in the north on (the days
+of) ya to ha and one should avoid those associated with Mars
+in the bright tfortnight) . Three lines towards the east and three
+lines towards the south (should be written) and then one should
+write from Silryarii!i onwards in the main division. (If battle is
+made) in the riiSi aspected by Rahu there will be defeat and
+victory if otherwise.
+14-1 8a.
+I shall describe the viftiriihu. Eight lines should be
+drawn. The Rahu, the great, moves with the vij# (hell) from
+the north-east to the south, south to the north-west, from the
+north-west to the east, from the east to the west, from the south­
+west to the north, from the north to the south-east and then to
+the west and from the west to the north-east. The Rahu kills
+the enemies on the third day (of a lunar month) in the north­
+east, on the seventh day in the south and so also in the dark and
+bright fortnights in the north-west. (One has to propitiate) ,
+Indra and others, Bhairava and others, brahmin and others and
+planets numbering eight in each class in the east and other
+(directions) and the viita-:Jogini (the presiding goddess) in (the
+directions) south and others. One should kill the enemy in that
+direction in which the wind blows.
+18b-19.
+I shall describe (the rite) that strengthens one.
+(The herb known as) sarapunkhikii if worn on the neck, arm etc.
+on (a day ruled by the asterism) Puᆆya would prevent the
+(enemy's weapon) striking at the neck. Apariijitii and Pii!hii,
+the two (herbs) in the same manner would ward off the sword.
+(The following is the mantra to be used) :-Om. Obeisance.
+Goddess Vajrasrnkhala ! Kill. Kill. Om. Devour. Devour.
+Om. Eat. Am. EQ.. Drink the blood with the skull 0 Red­
+eyed one ! One having the red cloth ! One having the body
+besmeared with ashes ! One wielding the weapon of mace !
+One who is covered by the action of the mace ! Close, close the
+eastern direction. Om. Close, close the southern direction. Om,
+Close, close the western direction. Om. Close, close the northern
+
+
+
+## 143. 1-6
+
+41 1
+direction. Bind, bind the serpents. Bind, bind the wives of the
+serpents. Om. Bind, bind the demons. Om. Bind, bind the
+Yakᆆas, demons and goblins.
+Om. Guard, guard (me) from
+the dead, goblins and Gandharvas, whoever troubles me. Om.
+Guard, guard above. Om. Guard, guard below. Om. Bind, bind
+the knife. Om. Burn. One of great strength ! Ghati ghatoi : Om
+Moli moli saliivali. Fiery mace ! One who strikes with the mace !
+Him phal hrim hrilm Jrim phal hrim hal;. philm p'Mm phail. From all
+planets, from all diseases from all wicked afflictions, hrim from all
+things guard, guard me. One should employ this in all acts
+such as those relating to the planets, fevers and goblins.
+
+## CHAPTER ONE HUNDRED AND FORTYTHREE
+
+Mode of worship of Goddess Kubjikii
+
+## The Lord said :
+
+
+## 1 . I shall describe the mode of worship of (goddess) Kub­
+
+jika that accomplishes all comforts. (It is only by such worship)
+the celestials had conquered the demons together with their
+weapons and kingdom.
+
+## 2-3. One should locate the miiyiibija (the secret basic mantra
+
+of the goddess) at the secret organ and the six (syllables) of the
+weapons on the hand. (One should say) Kali, Kali (and touch)
+the heart and Duᆆtacar.u;lalika (vicious CaJ;lc;lalika) (and touch)
+the head. "Hrim sphcm ha sa kha ka cha ¢a syllable om Bhairava"
+(is the mantra to be said to touch) the tuft. Bhelaki ( for ) the
+kavaca (armour) and Diiti and RaktacaJ;lc;lika (for) the eyes.
+
+## 4-5.
+
+(Then one should say) guhya Kubjika (and touch)
+the weapon. One should worship (goddess Kubjika) in the
+lotus at the centre and the seat at the south-east, the head at the
+north-east, the tuft at the south-west, the armour at the west, the
+eyes at the centre and the weapons in all directions of the
+circle in the thirty-two petals. The principal mantra (for the
+goddess Kubjika is) ha, sa, k?a, ma, la, na, va, vҧa¢."
+
+## 6.
+
+(The eight goddesses) BrahmaJ;li, Mahesi, Kaumari,
+
+
+412
+Agni PuriiTJ,a
+VaiᆆQavi, Varahi, Mahendri, CamuQQ.a and CaQQ.ika (should
+be worshipped) in the directions east onwards.
+
+## 7-8.
+
+One has to (locate and) worship (the subtle letters)
+ra, va, la, ka, sa, and ha at the (petals at the) north-east, east,.
+
+## south-east, south, south-west and west. A garland of flowers:
+
+and the five mountains such as UQ.Q.iyana, Jalandhara, Piirl)agiri
+and Kamariipa should be worshipped at the north-west, north-­
+east, south-east and south-west and (goddess) Kubjika at the
+centre.
+
+## 9-10. The five Vimalas such as Anadivimala, Sarvajiia-­
+
+vimala, Prasiddhavimala, Saxhyogavimala and Samayavimala
+(should be worshipped at the tips (of the petals) at the north­
+west, north-east, south-west, south-east and north.
+1 1 -14.
+KhinkhiQi, $aᆆtha, Sopama, Susthira and Ratna-­
+sundari (should be worshipped) in the north-east corner for
+(the worship of) Kubjika. The eight Adinathas-Mitra, OQ.iSa,
+$aᆆthi, Vaqa etc. (constituting) the jewels of heaven (should_
+be worshipped) in the south-east, west and north-west and the
+kavacaratna (the excellent mantras serving as armour) in the west.
+(The syllable) 'brum' (should be worshipped) in the north-west,
+north-east and south-east together with the five basic letters.
+The five gems (the divine mothers)
+(should be located and
+worshipped) at the south and south-east. Among these, the three,
+Jyeᆆtha, Raudri and Antika are very old. They and other god­
+desses and others (should be worshipped) with the five pra7Javas
+(syllable om) . The worship is of two kinds-twentyseven and_
+twentyeight.
+15-1 7. Then (the god) GaQapati (lord of the attendant
+gods on Siva and son of the latter) of the form of pra7Java and a.
+boy should be worshipped duly with (the mantra om em gum.
+Gai_lapati should be worshipped in a square diagram on the
+south. The Vatuka (form of Gai_lapati) (should be worshipped)
+on the left. The sixteen preceptors-niithas ( tantrik preceptors)
+and eighteen niithas should be worshipped in the north-west
+and other (directions) . Then the gods Brahma and others
+(should be worshipped) around in the six angular points. At the
+centre the nine gods (should be worshipped) . This is always.
+the mode of worship of (goddesses) Kubjika, Kulata etc.
+
+
+
+## 144. 1-12
+
+4 1 3
+
+## CHAPTER ONE HUNDRED AND FORTYFOUR
+
+Mode of worship of goddess Kubjika
+
+## The Lord said :
+
+
+## 1 . I shall describe the worship of glorious Kubjika wh()
+
+grants righteousness, wealth and victory. One should worship
+her together with her attendants with the basic mantra : Om aim
+hraum $rim khaim hrem ha, sa, k!a, ma, la, va, ra, ya, ilm Goddess !
+Mother ! Hram hrim k!rim, kiaum kiilm krim Kubjika ! Hrim om
+na, iia, na, T)a, rna Aghoramukhi ! Vam chram chim kili kili kiraum
+vicce khyom srim krom om hrom aim Vajrakubjini ! Strim Trailokya­
+kaqiᆨi (One who subjugates the three worlds) ! Hrim Kamailga­
+dravᆩi (one who melts away the god of love) ! Hrim strim
+Mahakᆆobhakariᆨi (the great agitator) ! Aim hrim k!raum aim
+hrim srim phem kiaum obeisance. 0 Goddess ! K?aum Kubjika !
+hrim kraim na, iia, T)a, na, ma Aghoramukhi ! Chram cham vicce om
+kili kili.
+
+## 2-4a.
+
+After locating the mantras on the hand and the body,
+one should perform the worship of twilight (addressed to the
+goddesses) Varna, Jyeᆺ?tha and Raudri. (The following is the
+mantra )-May we know you as KulavagiSi. Let me contemplate
+on (the goddess) Mahakali. May (goddess) Kauli impel us t()
+the same. There are five mantras such as praT)ava etc. (The
+votary should say) "I am worshipping the sandals." The name
+(should be) at the middle, ending with (the term) obeisance
+with eighteen bija (letters) . Then (the name of the goddess)
+in the sixth (declensional) case with (the term) 'obeisance' and
+the end. I shall describe all of them to be known.
+4b-12. Kaulisanatha, Sukala, Kubjika from the birth,
+Srikaᆨthanatha, Kaulesa, Gagananandanatha, Catuladevi, Mai­
+triSi, Karali, Tiirᆨanathaka, Ataladevi, Sricandradevi are their
+names. (These should be invoked) as stupefying the attendants
+of Siva and the sandals should be worshipped. Then the sandal
+endowed with gems that excel the bliss in the world should be
+worshipped. Brahmajiiana, Kamala and Parama together with
+Vidya (should also be worshipped) . I shall describe the three­
+fold purifications of vit!Ja (knowledge) , Devi (goddess) and guru
+(preceptor) . By means of the !Ot/ilnyiisa (six ways of touching
+
+
+4 1 4
+Agni Puriir)a
+the body with mystical letters) the following deities should be
+located in the body-Gagana, Catuli, Atma, Padmananda,
+MaQi, Kala, Kamala, MaQikyakaQtha, Gagana, Kumuda,
+Sri, Padma, Bhairava, Ananda, Deva, Kamala, Siva, Bhava,
+KnQa, the nine and then sixteen siddhas-Candrapaiira, Gulma,
+Subha, Kama, Atimuktaka, Viraktaka,
+Prayoga,
+Kusala,
+Devabhoga,
+Visvedeva,
+Khac;lgadeva, Rudra, Asidhanya,
+Mudrasphota, V arhsapiira and Bhoja.
+1 3-14.
+After having put flowers on the circle, the circles
+(of the deities) should be worshipped. Then one should worship
+Ananᆪa, Mahananta, sandals of Siva, mahiivyiipti (the great
+pervading force) , the void circle consisting of five principles,
+sandals of SrikaQthanatha and Sankara and Ananta.
+
+## 15. One should worship within the circle Sadasiva, Piilgala,
+
+Bhrgvananda, Nathaka, Railgiilananda and Sarhvarta.
+1 6-18.
+Srimahakala, Pinaki, Mahendraka, KhaQ.ga, Bhu­
+jailga, BaQa, Aghasi, Sabdaka, Vasa, Ajiiariipa and Nanda­
+riipa should be worshipped in the south-west after making the
+offering (victim) (with the following mantra)-Hrom kham kham
+h ilril saum (obeisance) to (god) Vatuka. Aru aru (you) accept,
+accept argha (water offered as token of respect) , flower, incense,
+lamp, perfumes and bali (offering) . Obeisance to you. Om
+.hriim hrim hrilrh kҨem (obeisance) to the guardian of the ground.
+(You) descend, descend. One bearing the great grown matted
+hair ! One having a face shining with the flames in the three
+eyes ! (You) come. Come. Accept, accept worship with
+perfumes, flowers and bali (offering) . Khal;t., khal;t., om kal;t., om
+lal;t. om oblations to the lord of great t/.iimara (uproar) . The
+trikuta (the three groups) should be worshipped with (the
+-syllables) hrim hrilm hiim srim and the offering of the remnant of
+.bali in the left, right and middle. The sandals of Nisanatha
+(are worshipped) in the south, Tandrinatha on the right and
+Kalanala in the front.
+19-24. The mountains Uc;lc;liyaQa, Jalandhara, PiirQa and
+Kamariipa and the five gems Gagananandadeva, Svargananda,
+Paramanandadeva, the sandals of Satyananda and Nagananda
+(should be worshipped) in the north. One should worship the
+six-the sandal of Suranatha (lndra) , Srisamayakotisa, Vidya­
+.kotisvara, Kopsa, Bindukotisa and SiddhakotiSvara in the north-
+
+
+
+## 1 44.25-37
+
+4 1 5
+east. The siddhacatu!ka (four siddhas)-Amarisesvara, Cakri­
+sanatha, Kurailgesa, Vrtresa and Candranathaka should be
+worshipped in the south-east with perfumes etc. The Vimala­
+paiicaka (five Vimalas )-Anadivimala, Sarvajfiavimala, Yogi;.
+savimala, Siddha (vimala) and Samaya (vimala) (should be
+worshipped) in the south.
+
+## 25. One should worship the four gods
+
+Kandarpanatha
+and others, all the female energies already described and the
+sandals of (goddess) Kubjika.
+
+## 26.
+
+(The votary) should always worship the thousand-eyed
+and blemishless (god) Viᆆ:Qu and (god) Siva with the mantra
+of nine syllables or five pra7Java (mantras ) .
+27-37.
+Brahma and other gods (should be worshipped}
+from the east to the north-east. (The goddesses) Brahma:Qi,
+Mahe8vari, Kaumari, Vaiᆆ:Qavi, Varahi, Indra:Qi, Camu:Q<;la
+and Mahalakᆆmi should be worshipped from the east to the
+north-east. (The goddesses) :Oakini, Raki:Qi,
+Kakini, Sakini
+and Yakini should be worshipped in the six directions ( commenc­
+ing) from the north-west. The goddess composed of thirty­
+two letters should be worshipped with five pra7Javas or syllable
+hrim. She should be contemplated upon as of dark complexion
+like the petals of blue lotus, having six faces, of six kinds, as
+eighteen kinds of cicchakti (faculties of the mind ) , possessing
+twelve arms, seated comfortably on the throne, remaining on
+the lotus of absolute dead (of primordial matter) , and shining
+with the splendour of multitudes of kulas. She should also be
+contemplated as having Karkotaka (one of the eight princi­
+pal cobras) as the girdle, Takᆆaka (a cobra) above, Vasuki (a
+cobra) as a garland on the neck, Kulika (a cobra) on the ears,
+the tortoise as the ear-stud, (the serpents) Padma and Maha­
+padma forming the eye-brows, and having skull, a serpent,
+rosary, a club with a skull at the top, a conch and a look in her
+left (hand) and a trident, a mirror, a sword, a garland of gems,
+dart and a bow in the right (hand) . The upper front face of the
+goddess (should be contemplated) as having a white complexion
+and elevated, the eastern face pale, the southern one angry, the
+western face of black colour, and the northern one of the colour
+of snow and jasmine. Moreover, Brahma (should be imagined
+to be) as remaining at the foot, Viᆆ:Qu at the buttocks, Rudra at
+
+
+416
+Agni Purii1Ja
+the heart, lsvara at the neck, Sadasiva at the forehead, Siva as
+remaining above her. Kubjika should thus be contemplated as
+whirling in all acts of worship.
+
+## CHAPTER ONE HUNDRED AND FORTYFIVE
+
+Different kinds of mantras and the rites of locating them
+
+## The Lord said :
+
+I . I shall describe different kinds of mantras preceded by
+;orf,hiinyiisa (the six ways of touching the body with the mantras) .
+There are three kinds of ;orf,hiinyiisa-the siikta, Siimbhava and
+yiimala devoted to the goddess, lord Siva and both) .
+
+## 2-3.
+
+In the siimbhava (rite) , the six terms would have six­
+teen knots. The three kinds of knowables are related to the
+nyiisa of this kind. It connotes the principles. The fourth (nyiisa)
+is of the vanamiilii of twelve slokas (letters) . The fifth (nyiisa) (is
+known as) the Ratnapaiiciitmii (comprising the five gems) and the
+sixth one is said to be the Naviitmii (comprising nine) .
+4-1 7. In the case of siikta ( nyiisa) , (the first one is) Malini
+( nyiisa) the second one (is) trividyii, the next one (third is the
+nyiisa of) the eight aghoris. The fourth one (is on) the twelve parts
+(of the body) . The fifth one is (of) six parts. (The sixth one) is
+of the astracatJrf,ikii of the form of . sakti (goddess) . Krim hraum
+klirh .Srirh kriim phat (are the mantras in the above) three, known
+as the fourth accomplishing everything. The miilini would be
+from na to pha. The niidini is known to be the tuft. The agrasani
+would be on the head. (The letter) sa (should be) like a garland
+around the head. (The letter) ta (representing) peace be (on)
+the head. (Goddess) Camul).<;la (be) on the three eyes. (The
+letter) rf,ha (denoting) pleasing look (should be) on the two eyes.
+(The goddess) Guhyasaktini (should be) on the nostrils. (The
+letter) na (standing for) (goddess) Narayal).i (should be) on the
+two ears. (The letter) ta that stupefied (should be) on the right
+ear. (The letter) ja (representing) wisdom (should) remain
+on the left ear. (Goddess) Vajril).i is known to be on the face.
+(The letter) ka (representing) (the goddess) Karali (of horrible
+
+
+
+## 1 45.4- 1 7
+
+41 7
+features) (should be on) the right tooth. (The letter) kha (re­
+presenting) (the goddess) Kapalini (bedecked with human
+skulls) (should be on) the left shoulder. (The letter) ga (re­
+presenting the goddess) Siva be (on) the upper tooth. (The
+letter) gha (representing the goddess) Ghora (should be on the
+left tooth. (The letter) u (denoting the goddess) Sikha has her
+place on the tooth. (The letter) i (representing the goddess)
+Maya is represented by the tongue.
+(The letter) a should
+be
+(located)
+as (the goddess)
+Nagesvari in the words.
+(The letter) va (representing the goddess) Sikhivahini (having
+peacock as the vehicle) (is located) in the throat.
+(The letter)
+bha (representing the goddess) BhifatJi (frightening) (is located)
+on the right shoulder. The letter ma (representing the goddess)
+Vayuvega (swift as the wind)
+(should be located) on the left
+(shoulder) . (The letter) ¢a (denoting) Niima (should be loca­
+ted) in the right arm. (The letter) ¢ha (representing the goddess)
+Vinayaka (remover of obstacles) on the left arm. (The letter)
+pa (denoting) PiirJ).ima (the full moon) (be located) on the two
+hands. The syllable om etc. should be (located) on the ring
+fingers. (The letter) am (be represented by) Darsani (one who
+exhibits) on the finger of the left (hand) . (The letter) al.z be
+(located) on the hand (representing) Safijivani (the vitalising
+force) . (The letter) ta (be located on) the skull (representing)
+Kapalini (the goddess wearing garland of skulls) . (The letter)
+ta (representing) Dipani (the goddess who illuminates) (be
+located) on the staff of the spear. (The letter) ca (representing)
+Jayanti (the goddess who is victorious) be (located) on the tri­
+dent. (The letter) ya is remembered to be Sadhani (one who
+accomplishes) (as representing) the process of growth. (The
+letter) sa known to be Parama (the Supreme goddess) be (lo­
+cated) in the soul. (The letter) ha remembered to be (repre­
+senting) Ambika (the mother goddess) be (located) in the vital
+principle of life. (The letter) cha (representing) Sarira (the
+goddess with a visible body) (be located) on the right breast.
+(The letter) na (representing) Piitana (the demoness) (be
+located) on the left breast. (The letter) za (be looked upon as
+_permeating) the breast milk. (The letter) a (representing) the
+crushing Lambodari (the big-bellied goddess) (be located) in
+the belly. (The letter) kᆫa representing Sarhharika (the goddess
+of destruction) may be (located) on the navel. Mahakali (the
+
+
+418
+Agni Purd7Ja
+most ferocious goddess) (be located) at the buttocks. (The
+letter) sa representing) Kusumamala (the goddess wearing
+garland of flowers) (be located) in the arms. (The letter) fa
+(representing) Sukradevika (the goddess of fertility (be located)
+in the semen. (The letter) ta (representing) Tara may be
+(located) on the two thighs. (The letter) da (signifying) Jnana
+(the goddess of know ledge) (be located) on the right knee.
+(The letter) au (representing) u Kriyasakti (the energy of acti­
+vity) rna y be (located) in the left (knee) . The letter ro ( deno­
+ting) Gayatri (the personification of the mantra of that name)
+be located in the groins. (The letter) o (representing goddess)
+Savitri (be located) on the left groin. (The letter) do (repre­
+senting) (goddess) Dohini (be located) on the right (groin) .
+18-31 .
+(The letter) pha (representing the goddess) Phet­
+kari (should be located) at the left foot. I shall describe the rite
+relating) to the Malini-mantra of nine parts. (It is as follows) .
+(The letter) a (denoting the god) SrikaJ}.tha be (located) on the
+tuft. (The letter) ii (representing the god) Ananta be (located)
+on the face. (The letter) i (standing for the god) Siikᆆma be
+(located) on the right eye. (The letter) i (signifying the lord)
+Trimiirti (of three forms) (be located) at the left (eye ) . (The
+letter) u (representing) Amarisa
+(the lord
+of celestials)
+(be located) at the right ear. (The letter ) il representing
+Ardharhsaka 1 (one who has assumed half of the divine form)
+(be located) at the other ear (left ear) . (The letter) r (denoting)
+Bhavabhiiti (the lord of ensuing fortune) (be located) at the
+tip of the nose. (The letter) r (denoting) TithiSa (the lord of
+the day) (be located) on the left nostril. (The letter) 1 (repre­
+senting) SthaJ}.u (of the form of a pillar) should be (located)
+at the right cheek. (The letter) i (signifying lord) Hara (should
+be located) at the left cheek. (The letter) o (standing for)
+Katisa (be located) at the rows of teeth. (The letter) ai ( re­
+presenting) Bhiitisa (the lord of fortunes) (should be located)
+at the upper (row of) teeth. (The letter) o (denoting) Sadyo­
+jata (one of the five forms of Siva) (should be located) on the
+lower lip. (The letter) au (standing for) Anugrahi Sa (one who
+confers blessing) (should be located) at the upper lips. (The
+
+## 1.
+
+This may denote one half of either the combined form of Siva and
+Vi,l).u or that of Siva and his consort.
+
+
+
+## 145.4- 1 7
+
+419
+letter) am (denoting ) Kriira (the cruel one) be (located) at
+the back of the neck.
+(The letter) a/J. (signifying) Mahasena
+(the lord of huge army)
+(be located) in the tongue.
+(The
+letters) ka, kha, ga, gha, na, ca, cha, ja, jha, na, ta, tha, ¢a, ¢ha, øa,
+ta, tha, da, dha, na, pa, pha, ba, bha, ma, ya, ra, la, va, fa, fa, sa, ha
+and kia respectively denoting KrodhiSa (lord of wrath) , Car:).(;l.iSa
+(consort of Car;lQi ) , Paficantaka (the destroyer of the five
+elements) , Sikhi (tufted) , Ekapada (onefooted) ,
+Kiirmaka
+(manifest as the tortoise) , Ekanetra (one-eyed) , Caturvaktra
+(having four faces) , Rajasa (possessing the quality of rajas­
+passion) Sarvakamada (one who confers all desires) , So­
+meSa (lord of moon) , Dakᆆa (Able) , Lailgali (wielder of
+the
+plough) , Daruka
+(lord of woods) , Ardhajalesvara
+(lord of half the watery
+region) , Umakanta
+(consort
+of Uma (Parvati) ) . A.ᆆaQhi (holding a kind of wood) , Dar;1Qi
+(holding a stick), Bhida (one who breaks) , Mi..11a (of the form
+of the fish), Meᆆa (of the form of the ram), Lohita (of red com­
+plexion) , Sikhi (tufted) , Galar;1Qa (? ) ,DviraJ;lQaka ( ?) Mahakala
+(the great god of darkness at the time of deluge) , Var;1isa (the
+god of speech) , Bhujailgesa (the lord of serpents) , Pinaki (the
+wielder of the bow piniika) , KhaQgesa (the lord of the sword),
+Baka, Sveta (Siva's manifestation as the sage) , Bhrgu (a sage) ,
+Nakulisa (a manifestation of Siva) and Samvarta (lord of
+destruction) (may be re:;pectively) (located) on the right shoul­
+der, arms, elbow, right wrist, fingers, left shoulder, arms, elbowᆬ
+wrist, fingers, buttocks, right thigh, right knee, leg from the
+ankle to the knee, fingers, buttocks, left thigh, left knee, left leg
+from the ankle to the knee, toes, right belly, left belly, the back
+bone, navel, heart, memory, blood, flesh, one's own self (soul) ,
+bones,
+marrow, semen, life force and sheaths (of human
+organism) . One would get all things by the worship of the energy
+of Rudra with the syllable hrim.
+
+
+420
+Agni Purii7Ja
+
+## CHAPTER ONE HUNDRED AND FORTYSIX
+
+Names of different goddesses
+
+## The lord said :
+
+
+## 1 . I shall describe the three parts (of mantras) relating to
+
+(the gods) Brahma, Vigm and Mahesvara. Om obeisance to
+the lord Rudra. Obeisance. Obeisance to Camur;u;l.a. Obei­
+sance to the (divine) mothers in the ethereal region who accom­
+plish all the desired materials, who have unobstructed move­
+ment everywhere, who transform their forms, who are engaged
+in doing all deeds of sattva, vasikaraT)a, utsiidana and unm illana
+(pacification, attraction, destruction and eradication) . The secret
+(mantra) of all the divine mothers, the most accomplished one
+which nullifies the incantations of others and accomplishes the
+supreme (thing) ! (The following) one hundred and twenty­
+
+## one (terms) are in the section of Brahma. They are as follows :
+
+Om obeisance. Camur;u;la (a terrific form of Durga) ! Brah­
+mal).i (consort of Brahma) ! Aghora (not terrific) ! Amogha
+(infallible)
+! Varada (conferer of boons) ! Vicca (one who
+shines) ! Oblations. Om obeisance. 0 Camul).<;ia ! Mahe­
+svari (consort of Lord Siva) ! Aghora ! Amogha ! Varada
+!
+Vicca
+! Oblations. Om obeisance. 0
+Camul).<;ia ! (one
+having a maiden-form) ! Aghora ! Amogha ! V arada ! Vicca !
+Oblations. Om obeisance. 0 Camul).<;ia ! Vaiᆆl).avi (relating
+to ViᆆQu) ! Aghora ! Amogha ! Varada ! Vicca ! Oblations.
+Om obeisance. 0 Camul).<;ia ! Varahi (the sakti ofViᆆl).u in the
+form of the boar) ! Aghora ! Amogha ! Varada ! Vicca
+!
+Oblations.
+Om obeisance. 0 Camul).<;ia !
+Indral).i
+(the
+consort of lndra) ! Aghora ! Amogha ! Varada ! Vicca ! Ob­
+lations. Om obeisance. 0
+Camul).<;ia ! CaQ<;ii ! (name of
+Durga) ! Aghora ! Amogha ! Varada ! Vicca ! Oblations.
+Om obeisance. 0 Camul).<;ia ! lsani (related to the lsana form
+ofSiva) ! Aghora ! Amogha ! Varada ) ! Vicca ! Oblations.
+
+## 2. The second part relating to Viᆆl).U has equal number of
+
+terms (as
+follows) . Om obeisance. 0 Camul).c.ia ! One who
+has erect hairs (on the head ) ! One who has
+flames on her
+head ! One whose tongue is like lightning ! One whose eyes
+are sparkling like stars ! One who has tawny b rows ! One
+who has uneven teeth ! The Angry one ! Om, One who is fond
+
+
+
+## 146.3-21
+
+42 1
+offlesh, blood, wine and spirituous liquor ! (You). laugh, laugh.
+Om dance, dance. Om yawn, yawn. Om bind, bind, Om to all
+those thousands of sorceres who change the form of three
+worlds by their incantations ! Om thrash, thrash. Om ciri ciri.
+Om hiri hiri. Om bhiri bhiri. One who frightens and frightens.
+One who whirls round and whirls round. One who makes
+(something else) melt and melt. One who agitates and agitates.
+One who kills and kills. One who revives and revives. Heri
+heri geri geri gheri gheri om muri muri om obeisance to the mothers.
+Obeisance. Obeisance. Vicca. (There are) thirtyone terms for
+Sambhu (Siva) and the syllables (are) one hundred and seventy­
+one.
+3-21 .
+One should repeat trikharpJ,i
+(mantra)
+(mantra of
+three parts) (with the syllables) he and ghaum preceded and
+followed by the five praT)avas ( omkiiras) and worship. The sacred
+secret mantra he ghaum of (the goddess) Kubjika should be added
+in between the terms. It should be in the middle of the three
+akuliidi, the three kuliidi, the three madhyama and the piT)fja at the
+foot. It must have one and a half vowels and praT)ava etc. (at
+the) tuft of Siva. Om k?raum obeisance to Sikhabhairava. Skhim
+Skhim Skhem the three letters with the by a (basic) mantra) . Hriim
+hrim hraim without the bya, the three waters and the supreme
+thritytwo letters. The letters k?a, ka are the akula (mantras)
+according to the order of Kula. (The goddesses of energy are)
+Sasini (goddess in the moon) , Bhanavi (the energy in the sun ) ,
+Pavani (the purifier) , Siva, Gandhari (whose essence i s the
+letter) T)a, Pi:t;1<;lakᆆi (of round eyes) , Capal.a (fickle-minded) ,
+Gajajihvika (tongue like that of an elephant) . (The letter)
+ma represents (the goddesses) Mrl?a (untruth) and Bhayasara
+(the essence of fear) . (The letter) pha (represents) (goddesses)
+Madhyama (the middle one ) , Ajara (without aging) . (The
+letter) na represents (goddesses) Kumari (maiden) , Kalaratri
+(dreadful night at the time of deluge) . (The letters) da and dha
+respectively represent (goddesses) SaDkata ( diffiiculty) and
+Kiilikii (of dark complexion) . (The letter) pha (represents) Siva
+(consort of Siva), T)a-Bhavaghora (the frightening god of the
+cycle of existence) , jha-Bibhatsa (disgusting one ) ,ta-Vidyuta
+(the goddess in the form of the lightning) , jha-Visvambhara
+(the sustainer of the universe) . (The letter) rJ,ha (is the repre­
+sentation) of Sa.rilsini (the goddess of doubt) , Jvalamala (gar-
+
+
+422
+Agni Pura7:za
+land of flames) , Karali (ugliness) , Durjaya (invin cible) , Rang i
+(sportive) , Vii.ma (beautiful) , Jyeᆆthii. (the eldest) and Raudri
+(terrible) . (The letter) kha (represents) Kali (the goddess of
+time) , ka-Kulalambi (goddess regulating succession of events) ,
+da-Anuloma (of descending order) and Pir.t<;lini (regulating the
+three primordial forces ) , a-Vedini (of the form of pain), i -
+Santimii.rti (of the form of peace) and Kalakula (embodying the
+arts) , r-Kha<;lgini (the sword-wielding goddess) , u-Balita
+(strong) , !-kula (belonging to the kula class) , l-Subhaga
+(fortunate) , Vedana
+(pains) ,
+r-Karali (dreadful) , am­
+Madhyama (middle one) and afl-Apetaraya (unimpetuous) .
+These goddesses of energy should be duly worshipped on the
+altar. Skham skhim skhaum obeisance to the great Bhairava. (The
+(goddesses) Akᆆod ya ( uncrushable), Akᆆakarr.ti (eyes reaching
+up to the ear), Rakᆆasi
+( demoness) , Kᆆapar_1akᆆaya (indes­
+tructible) , Pingakᆇi (having tawny coloured eyes) , Akᆆaya
+( undecaying) , Kᆆema (of the form of welfare) , and Brahmii.r.ti
+(energy relating to Brahma) are the eight
+(belonging to the
+group of Brahmar.ti) . (The goddesses) Ila (representing the
+earth) , rilavati (sportive) , Nila (blue-coloured) , Lanka, Lailke­
+svari, Lalasa (extreme desire) , Vimala (spotless) constitute the
+group of Mahesvari (relating to Siva ) . (The goddesses) Huta­
+sana (fire) , Visalii.kᆆi (large-eyed) , Hrii.nkari (of the form of
+syllable hrum) V a<;lavii.mukhi (having volkanic fires in the mouth)
+Hahii.rava (having wailing sound) , Krii.ra (cruel) , Krodha
+(angry), Bala (graceful) and Kharanana (having the face of
+an ass) had their originfrom the body of (the goddess)Kaumari
+(virginity) . (They are) accomplishers of all things when wor­
+shipped. (The goddesses) Sarvajiia (omniscient) , Tarala (tre­
+mulous) , Tara (shining) , ᆣgveda (the goddess of the ᆣgveda) ,
+Hayanana (horse-faced) , Sara (essence) , Sarasvayaihgrahii.
+(one who herself absorbs the essence) and Sasvati (eternal one)
+(had their origin) in the family of (goddess) Vaiᆆr_1avi (rela­
+ting to Viᆆr.tu) . (The goddesses) Talujihva (of the form ofa
+crocodile) , Raktii.kᆆi (red-eyed) , Vidyujjihva (lightning like
+tongue) , Karankir_li (having the skull) , Meghanada (sounding
+like the cloud) , Pracar_1<;logra (terribly ferocious) , Kalakarr.ti
+(representing misfortune) and Kalipriya (fond of strife) were
+born of the family of (the goddess) Varahi (relating to the boar
+form) . They should be worshipped by those who seek victory.
+
+
+
+## 147.1-2
+
+423
+(The goddesses) Campa, Campavati, Pracampa, Jvalitanana
+(having flaming face) , PiSaci (of the form of a demoness) ,
+Picuvaktra and Lolupa (ardently longing) are born of (the
+goddess) Aindri (relating to Indra) . (The goddesses) Pavani,
+Yacani, Vamani, Damani, Binduvela, Brhatkukᆆi, Vidyutanana
+Visvariipi:r,li born in the family of goddess CamuJ,l<;la should be
+worshipped in the circle of victory. (The goddesses)
+Yama­
+jihva
+(frightening tongue) , Jayanti (victorious) , Durjaya
+(unconquerable) , Yamantika (one who subdues the god of
+death) , Bi<;lali (a female cat), Revati, Jaya (victorious) and
+Vijaya (victorious) were born in the class of (goddess) Maha­
+lakᆆmi. Thus the eight (goddesses) in the eight groups of (god­
+desses) have been explained.
+
+## CHAPTER ONE HUNDRED AND FORTYSEVEN
+
+Mode of worshipping the goddess Tvaritii and others
+
+## The Lord said :
+
+l -2. Om Guhyakubjika (Goddess Kubjika of secret powers) !
+Hum phat. You destroy and destroy all my miseries and also
+whatever incantations of the form of yantra (written on a plate),
+mantra (repetition of some syllables) , tantra (use of mystic sylla­
+bles) and cilr{la (powders) done or made to do by some one, or
+being done, or would be done or would be made to do. 0
+One possessing frightening teeth ! Hraim hrim hum oblations to
+Guhyakubjika. Braum om khe vom obeisance to Guhyakubjika.
+Brim. One who subjugates all people ! One who attracts the
+people ! Om kherh khyarii. One who attracts all people be the
+stupefier of the people. Om khyaum. One who paralyses all
+people ! aim kham khriim. Agitator. Aim the basic syllable
+comprising the three principles, that which is excellent in the
+kula (system) . The five-syllabled mantra. Pham srim k?im srim
+hrim k?em 0 Jacchii ! k?e k?e hrilm phat hrim obeisance. Om
+hriim k?e Vacca k?e k?o hrim phat. Thus the tvaritii mantras are
+of nine kinds. They must be known and they confer victory if
+propitiated.
+
+
+424
+Agni Pura'f)a
+
+## 3. The seat should be (offered) with (the mantra) hraum
+
+to the lioness. (The mantra) hrim kfe is said to be the heart.
+Vaccha ! Oblations to the head. This (mantra) of Tvarita is
+remembered in the tuft.
+
+## 4. Kferh hrim vaUfal be (the mantra) for the tuft. Kferh hum
+
+would be for the armour. Hrum vaUfal (be) for the three eyes
+ending with hrim and phat.
+
+## 5.
+
+(The names of) the nine (goddesses of) energy (are)
+Hriril.kari, Khecari, CaJ}.I;ia, Chedani, KᆆobhaJ}.i, Kriya, Kᆆema­
+kfui, Hriril.kari and Phatkari.
+
+## 6-8.
+
+Now, I shall describe the envoys (companions) of the
+goddess Tvarita), to be worshipped in the directions east and
+others. Hrim Nala ! possessing thick lips and who moves in the
+sky. Hrim Khecara (one whose region of movement is the sky) !
+Embodied as glowing flames ! Burn, kha khe cha che. Frighten­
+ing like the dead body ! Ca che 0 CaJ}.I;ia (fierce) ! Chedani
+(one who breaks) ! Karali (dreadful) ! kha khe che khe. One
+whose physical constituents are (the letters) kha, ra and ha.
+Hrim k?e va k?e 0 Kapila (tawny-coloured) ! Ha kfe hrum kum
+Jejovati (resplendant) ! Raudri (one in rage) ! 0 Mother !
+Hrim uhe ve phe phe Vakra (crooked one) ! Vari phe pu# pu#
+ghore (frightening one) ! Hrilm phal Brahmavetali ! Middle
+one ! I shall again describe the secret mantras and principles
+relating to (the goddess) Tvarita. Hraim hram haf:z are said to
+be (located) at the heart. Harum and ha are remembered to be
+(for) the head. Pham sparkle sparkle (is for) the tuft. Vara
+ila hram hum krom kfilm !rim is said (to be for) the eye. Kfaum
+(is) for the weapon. Or (the mantras) phat hum khe vacche ůef:z
+hrim k?em hum phal (is said) then. 0 Hum for the head must
+be in the middle. Khe at the beginning. 0 Sadasiva (ever
+benevolent one ) . Va (for) l!af:z, che (for) Manonmani, ma and
+k§e (for) the Garul;la, hraum for Madhava, ůerh (for) Brahma,
+hum (for) Aditya. The (mantra) phal hraum is always remembered
+as cruel.
+
+
+
+## 148. 1 - 1 49. 1
+
+
+## CHAPTER ONE HUNDRED AND FORTYEIGHT
+
+Mode of worship for success in the battle
+
+## The Lord said :
+
+425
+
+## 1 -7.
+
+Om if,e kha khyam. Obeisance to Sun, the victorious in
+the battle, hram, hrim, hrum, hrem, hrom, hrab. These are the six
+mantras for the Sun, who confers success in the battle. Om ham
+kham oblations to Khakholka. Sphilm hrilm hum krilm Jrim hom
+krem. The eight attributes prabhilta (plenty) , vimala (spotless) ,
+sara (essence) , aradhya (to be worshipped) , parama (supreme) ,
+sukha (happiness) , dharmajfiana (knowledge of righteousness)
+and vairiigya (firm resolve) should be worshipped. Then the
+seats anantasana (having ananta, the serpent as the seat) , simha­
+sana (the lion seat ) , padmasana (lotus seat) (should be worshipp­
+ed) . Then the peri carps N (of the mystic diagram) consisting
+of the spheres of sun, moon and fire such as Dipta (luminous) ,
+Siikᆇma (subtle), Jaya (victorious) , Bhadra
+!
+(conferring
+safety), Vibhati (fortune) , Vimala (spotless) , Amogha (infal­
+lible) , Vidyuta (lightning) and Sarvatomukhi (having face
+every side), the ninth one, should be worshipped. Then one
+should worship (the qualities) sattva, rajas and tamas, prakrti
+(the source of the material world) and puҥa (the soul) , one's
+soul, one's inner soul and the supreme soul. All the endowed with
+the bindu and miiyanila. One should worship U ᆇa (dawn) , Prabha
+(lustre) , Sandhya (twilight) , Sayam (evening) , Maya (myste­
+rious) , Bala (strong) , Bindu (dot) and endowed with Vigm.
+The eight attendant-gods at the entrance such as Siirya, CaQ.c;la,
+praca1.1c;la and others should be worshipped with perfumes etc.
+One would be victorious in the battle etc. by the worship, medi­
+tation and oblation.
+
+## CHAPTER ONE HUNDRED AND FORTYNINE
+
+Mode of performing lak?a and ko#homa
+
+## The Lord said :
+
+I . A homa (oblation) performed after having practised the
+
+
+426
+Agni PuriiTJQ.
+priit;iiyiima (control of breath) hundred times and purifying with
+the rite of krcchra, confers victory in battle, gets kingdom and
+destroys obstacles.
+.
+
+## 2-5. After having repeated giiyatri (mantra) (remaining)
+
+in the water, one should perform priit;iiyiima sixteen times. Ob­
+lation of havis (clarified butter) should be made into fire in
+the forenoon. One should eat only that which has been procured
+. after begging or eat only fruits and roots. One should take only
+single morsel of food such as milk or flour or ghee. 0 Parvati !
+as soon as the (rite of a) lakh of oblations concludes, one should
+give cows, clothes and gold as fees. (The oblation should be
+done) by fifteen brahmins in the case of all disasters that befall.
+There is no disaster in the world that does not get warded off by
+this oblation.
+
+## 6-10. There is no such benevolent (rite) that could excel
+
+this (rite) . A king, whosoever, arranges to do the rite of koti­
+homa (making a crore oblations) as before (employing) the brah­
+mins, his enemies cannot face him in battle any time. There
+cannot also be any disease in his country that would kill him.
+(By its virtue) excessive rainfall, deficient rainfall, mice,crickets,
+parrots demons and others get controlled. So also the ene­
+mies (get controlled) in the battle. One should employ twenty
+or a hundred or a thousand brahmins for the performance of
+ko#homa. One would get fortunes as much as one desired.
+A brahmin or a king or a tradesman, whoever may perform the
+kotihoma, would get whatever was desired by him. (Moreover)
+he would go to heaven with his mortal frame.
+
+## 1 1 .15. By the performance of this homa with the giiyatri
+
+(mantra) , or the mantras of planets, or those used in the (rite
+known as) kuҦii1J¢a or those addressed to the Fire God or the
+gods of directions east, west, north-west, south and south­
+east or the mantras relating to (lord) Vigm or the goddesses or
+Sambhu (Siva) or Sun, one would get lesser benefits (if it is
+done) for ten thousand times. One who does homa a lakh
+times would be able to get rid of all distress. The all-yielding
+kotihoma (is done) for the destruction of all aflictions. The
+following materials should be used for
+oblations-barley,
+paddy, sesamum, milk, ghee, kusa, prasiitikii (a variety of rice) ,
+petals of lotus, usira (the fragrant root of a plant) and bilva.
+In the kotihoma the fire-pit should measure eight cubits. Half
+
+
+
+## 1 50.1-1 5
+
+427
+its measure is laid down in the oblation for a lakh times. Thus
+the mode of performance of oblation ten thousand lakh and
+crore times have been explained.
+
+## CHAPTER ONE HUNDRED AND FIFTY
+
+.Names of different Manus, different sages and others during their periods
+
+## The Fire-god said :
+
+
+## 1 -5. I shall describe the Manu periods. Svayambhuva is
+
+(the name of) the first Manu. Agnidhra and others (were)
+his sons. The celestials (were) known as Yama1• Indra (was a
+performer of) hundred sacrifices. In the period of (the second
+Manu) Svarociᆆa, the seven sages (were) Aurva and others.
+Indra (was) Vipascit. Paravatas and Tuᆆitas (were) the celes­
+tials. Urja, Stambha and others (were) the brahmins. Caitra,
+Kimpuruᆆa and others (were) the sons. The third Manu (was)
+Uttama. Indra (was) Susanti. Sudhama and others born in
+the family of Vasiᆆtha (were) the seven sages. Aja and others
+(were) their sons. Tamasa Manu was the fourth. Svarupa and
+others (were) the celestials. Sikhi2, Jyotirddhama and others
+(were) the sages and Navakhyati and others his sons.
+
+## 6.
+
+In the (period of the fifth · Manu) Raivata, Vitatha3
+{was) the Indra, Amitabhas were the
+celestials, Hira:r;tya4-
+roma and others were the sages and Balabandha and others
+were his sons.
+
+## 7. In the (period of the sixth Manu ) , Cakᆇuᆆa, Manojava
+
+{was) the Indra. Svati and others (were) the celestials, Sume­
+dha and others (were) the sages and Puru and others (were)
+the sons.
+
+## 8-15. Sraddhadeva,
+
+son
+of Vivasvan
+(Sun)
+(was)
+the next Manu. Adityas, Vasus and Rudras (were) the celes­
+tials. Purandara {was) the Indra. Vasiᆇt}Ia, Kasyapa, Atri,
+
+## 1.
+
+For their different names see Vi.P. I, vii. 7-21 and III. i-ii.
+
+## 2.
+
+Vi.P. III. i. 17 reads Sibi.
+
+## 3.
+
+Vi.P. III.i. 20 reads Vibhu.
+
+## 4.
+
+Vi.P. III.i. 23 reads Balabandhu.
+
+
+428
+Agni Purilt)a
+Jamadagni, Gautama, Visvamitra and Bharadvaja (were)
+the seven sages. Ikᆆvaku and others (were his sons) . Lord ViglU
+was manifest with a part (of his energy in each one of these
+periods) . He was born as Manasa in the (period of) Svayam­
+bhuva and Ajita in the next one (that of Svarociᆆa) . Then (he
+was born as) Satya, Hari, Devavara, Vaikul).tha and Vamana
+(in the respective Manu periods which followed) . The eighth
+Manu would be born as the son ofSiirya and Chaya. As he would
+be a cognate ofhis predecessor, this eighth Manu to come (would
+be known as) Savarl).i. Sutapa and others (would be) the clans
+of celestials. Diptiman Draul).i (Asvatthama) and others (would
+be) the sages. Bali (would be) the Indra. Viraja and others
+(would be) the sons. The ninth (Manu would be) Dakᆆasa­
+varl).i. Para and others (would be) the celestials. Adbhuta
+(would be) the Indra. Savana and others (would be) the sages.
+Dhrtaketu and others (would be) (his) sons. The next (Manu
+would be) Brahmasavarl).i. Sukha and others
+(would be)
+celestials. Santi (would be) their Indra. Haviᆆya and others
+(would be) the sages. Sukᆆetra and others (would be) the
+sons of that (Manu) .
+16-19.
+(The eleventh Manu would be) Dharmasavafl).i.
+Vihanga and others (would be) the celestials then. The Indra
+(would be Vn;a)1• Ni8cara2 and others (would be) the sages.
+The sons of Manu (would be) Sarvatraga and others. Rudra
+Savarl).i would be (the twelfth) Manu. ᆣtadhama (would be)
+the Indra and Harita and others (would be) the celestials.
+Tapas and others (would be) the seven sages. Devavan and
+others (would be) the sons. The thirteenth Manu (would be)
+Raucya. Sutramal).a and others
+(would be) the celestials.
+Divaspati (would be) their Indra who routs the demons etc.
+Nirmoha and others (would be) the seven sages. Citrasena and
+others (would be) the sons.
+20-22.
+The fourteenth Manu (wou ld be) Bhautya. Suci
+would be the Indra. Cakᆇuᆆa and others (would be) the celes­
+tials. Agnibahu and others (would be) the sages. Uru and
+others (would be) the sons of Bhautya, the fourteenth Manu.
+The seven sages (would descend) to the world from the heavens
+
+## 1 . Cf. Vi.P. III. ii.29.
+
+
+## 2.
+
+Vi.P. III.ii.30 reads Nissvara.
+
+
+
+## 1 50.23-151 . 1
+
+429
+and propagate the Vedas. Then (the respective) celestials would
+partake the oblations of sacrifices and the earth would be
+protected by the sons (of Manus) . 0 Brahmin ! Fourteen
+Manus (will reign) in the course of a day of·Brahrna.
+
+## 23. Lord Hari (Vigm) , who preceded the Manus, divided
+
+the Veda at the end of the dvapara1 (yuga) . The first Veda had
+four parts consisting of a lakh (of verses) .
+24-26. The Tajurveda originally a single work was divided
+into four. The sage (arranged) the office of an adhvaryu2 priest
+(to be done) with the Tajurveda) , the hotra3 with the ]J.ks, the
+audgatra' with the Samans and brahmatva6 (relating to omissions
+and antedotes) with the Atharvan. Paila, the disciple of Vyasa
+and proficient in the ]J.gveda imparted the first (Veda) to Indra­
+pramiti and the samhita (part) to Baᆆkala. He also (divided)
+that samhita into four parts and gave it to Bauddhya and others.
+27-30. The great man of intellect VaiSampayana, the dis­
+ciple ofVyasa, divided the tree of Tajurveda into seven branches.
+The KaJ}.vas, Vajasaneyas and others are known to be
+(the
+branches founded)
+by Yajftavalkya and others. Jaimini, the
+disciple ofVyasa, divided the tree of Samaveda into branches and
+Sumantu and Sukarma received one part of the samhita. Sukarma
+had received one thousand samhita text. Sumantu, the disciple
+of Vyasa, divided the tree of Atharvaveda. He imparted it to
+thousands of Paippalada, his disciples. Siita made the PuraT)a­
+samhita by the grace of Vyasa.
+
+## CHAPTER ONE HUNDRED AND FIFTYONE
+
+Description of duties laid down for different castes
+
+## The Fire-god said :
+
+I . Puᆆkara narrated to Parasurama the duties which the
+l . The third among the four yuga periods of time, equal to 8,64,00()
+years of men.
+
+## 2.
+
+The priest of the T4jurveda who attends to the needs of the sacrifice.
+
+## 3.
+
+The priest of the /j.gveda who does the oblation.
+
+## 4.
+
+The priest of the Sibnaveda who sings the saman melodies.
+
+## 5.
+
+The priest of the Atlzarvaveda.
+
+
+430
+Agni Purii1)tl
+Manus practiced and had enjoyment and emancipation as des­
+cribed by lord Vᆤa to him.
+
+## Pu?kara said :
+
+
+## 2. I shall describe the laws of conduct relating to the castes,
+
+stages of life etc. spoken by the Manus and others, that would
+give all (benefits) and please (lord) Vasudeva (name of ViᆆI).U
+in his manifestation as Knl).a) and others.
+
+## 3-9. 0 Excellent one among Bhrgus ! abstaining from
+
+killing, truthfulness, compassion, kindness towards all beings,
+visiting sacred places, munificence, celibacy, not jealous, doing
+service to god, brahmins, preceptors and others, listening to all
+laws of conduct, worship of the manes, veneration towards the
+king, sustained interest in good scriptures, mercy, forbearance
+and theism are the general good and bad conduct for all castes
+and stages of life. The duties of a brahmin should be pointed
+out as performing religious rites, officiating
+as priests
+at
+the
+sacrifices, munificence,
+imparting vedic
+knowledge,
+accepting gifts and engaging in the study.
+The duties of a
+k?atriya (warrior class) and the vai.fya (tradesman) are said to
+be munificence, engaging in the study and perform sacrificial
+rites as laid down. Protection and suppression of the wicked
+are special (duties enjoined) on a k?atriya. Agriculture, protec­
+ting the cows and trade are spoken to be (the duties) of a vai.fya.
+(The duties) of a sildra (the fourth class of men) (are) to serve
+the brahmins or (to practise) handicrafts.
+
+## 1 0.
+
+Since the binding of the girdle of the mufija grass (at
+the time of investiture of the sacred thread) , the brahmins
+and others (are supposed to) take a second birth. One's caste is
+decided from that of the mother in the natural order of castes.
+
+## 1 1 . Contrary to the natural order the son of a brahmin
+
+woman through a sildra (is known as) CaTJt/iila, from a k?atriya
+(as) s ilta and from a vai.fya (as ) devala.
+
+## 12. A son born to a k?atriya woman and a sildra contrary to
+
+the natural order would be (known as) pukkasa. Similarly (a
+son born to a k?atriya woman) and a vai.fya would be miigadha
+and from a s ildra as iiyogava.
+
+## 13. There are thousands of pratilomas (born to higher caste
+
+woman and lower caste man) among the vai.fyas from the order
+contrary to natural one. Therefore a marriage (should be done)
+
+
+1 5 1 . 14-152.1-5
+43 1
+only between (members of) the same class and (should not be)
+with (members of) either the higher or the lower class.
+
+## 14. The killing of those condemned to death by law and
+
+living by means of women are laid down as the duty of a carp/ala.
+(The duty) of a vaidehaka is said to be their protection.
+15-18.
+To be a charioteer (is the duty) of the sii.tas, and
+hunting (is the duty) of the pukkasas. (The duty) of the maga­
+dhas is singing panegyrics. (The duty) of an ayogava is said to­
+be the profession of an actor and living by handicrafts. It is
+laid down that a caT)r/ala should live outside the village, wear
+the clothes of the dead and should not be touched by others.
+One, who belongs to any one of the other community, discards
+his life for the sake of a brahmin or a cow or a woman or child
+in distress, gets accomplished. The mixed castes should be known
+from the work done by the father or mother.
+
+## CHAPTER ONE HUNDRED AND FIFTYTWO
+
+Duties of a householder
+
+## PUikara said :
+
+
+## 1 . A brahmin should live following the code of conduct laid
+
+down for him or those of the k?atriya or vai.fya or sii.dra. But he
+should never live by doing such acts exclusively (laid down)
+for a sii.dra.
+
+## 2. A brahmin may engage himself in agriculture, trade,
+
+keeping cows and usury. But he should abstain from taking milk,
+jaggery, salt and meat and using red-dye.
+
+## 3.
+
+One gets purified from the sin accruing from ploughing
+the earth and cutting the plants and killing insects and ants by
+doing a sacrifice. The cultivator (gets free from the sin) by
+worshipping the god .
+
+## 4.
+
+A virtuous man (should yoke ) eight bullocks, one who­
+lives by any means six bullocks, wicked men four bullocks and
+those who have transgressed rightful living two bullocks.
+
+## 5.
+
+One should live by picking grains in the field and on alms
+got without solicitation. (One may live) on alms got by solici-
+
+
+432
+Agni Puriir.Ja
+tation or got without solicitation a second time. Otherwise (one
+may live) by truth and false (i.e., trade) . But (one should never
+{live) on servitude.
+
+## CHAPTER ONE HUNDRED AND FIFTYTHREE
+
+Duties of a Student
+
+## PĤkara said :
+
+
+## 1 -6. Listen ! I shall describe the righteous (way of living
+
+for those in (different) stages (of life), which yields enjoy­
+ment and emancipation. The mensus flow for women lasts for
+sixteen nights. Among these the first three are censured. One
+who desires for a male ᆥhild should cohabit on even (nights) .
+When the conception is explicitly known, the rite favouring con­
+ception is prescribed. The rite to be performed with the inten­
+tion to get a male child is done even before the embryo (in the
+womb)
+begins to move. The (rite of)
+parting of the hair
+(should be done) in the sixth or eighth (month) . The asterism
+relating to the name should be such that it confers a child (good)
+and is auspicious. (The rite known as) the jiitakarma (per­
+formed soon after the birth of a child) should be done by wise
+men before the separation of the umbilical cord. The rite of
+naming the child should be done after the period of pollution
+is over. The name of the child of a brahmin is said to end with
+(the word) sarmii, of the warrior class to end with (the word)
+varmii, of the tradesmen and sildra with (the words) gupta and
+diisa respectively. (After the birth of a child) the child should
+be brought to the father (of the child by the other) with (the
+words) "This is your son".
+
+## 7-10. The tonsure ceremony (is laid down) according to
+
+one's family (custom) . Upanayana (the rite of investiture of
+sacred thread) should be done in the eighth year from that of the
+conception or in the eighth year of the child for a brahmin.
+(The same is to be done) in the eleventh year from that of preg­
+nancy for the warrior class and in the twelfth year from that of
+
+
+
+## 153.1 1-1 7
+
+433
+pregnancy for a tradesman. It should never be done after the
+sixteenth year (for any one). The mauiijya (the girdle to be worn
+after the above rite) is known to be (made) of muiija (grass)
+or bark. The hides of deer, tiger or goat (should be worn) by
+those in the student life. The sticks are said to be from the parr;a
+(paliisa) , pippala (fig) and bilva tree. They should be (long
+enough to reach) upto the hair, forehead and face respecti­
+vely (for the three classes) . All the sticks should be having the
+barks and should not be having bends or be burnt ones.
+1 1-12. The sacred thread (should be made of) cotton, silk
+or wool respectively (for the three classes) . The three classes
+are indicated by the (repetition of the word) bhavati (address
+to the housewife) at the beginning, middle or end while begging
+food. One should seek food first at such a place where one would
+be certain about getting food. The above rites are performed
+without (the repetition of) mantra in the case of female children.
+But the marriage (should be done) with (the repetition of)
+mantra.
+
+## 1 3. After investiture of the sacred thread, the preceptor
+
+should instruct his pupil first with cleanliness and then with
+codes of conduct, the worship of fire and the worship of
+twilight.
+
+## 14. Eating facing the eastern direction is conducive to
+
+(one's) longevity, the southern direction brings fame. Eating
+facing the western direction gives wealth. Eating facing the
+northern direction gets rightful living.
+
+## 15. Offering to fire should be made in the morning and in
+
+the evening. (One should) not (offer) impure things or with
+separated hands. One should abstain from (drinking) intoxi­
+cants, (eating) flesh, singing and dancing with men.
+
+## 16.
+
+(One should also eschew) violence, spreading scandal
+about others and especially speaking unpleasant words.
+(The
+student) , whose stick (and other things) get damaged, should
+throw them in water and have another.
+
+## I 7.
+
+(He) should learn the scripture (from the preceptor) ,
+pay fees to the preceptor and perform the bathing (ceremony
+marking the completion of one's study) . But the nai?tika
+brahmaciiri (one who has taken a vow of life-long abstinence)
+should remain with the preceptor till his (own) death.
+
+
+434
+Agni PuriiT)a
+
+## CHAPTER ONE HUNDRED AND FIFTYFOUR
+
+Rules of Marriage
+
+## PUikara said :
+
+
+## 1 .
+
+The brahmin should marry four wives, the warrior class
+three wives, the tradesmen two wives as they desire. The last
+class should marry only one wife.
+
+## 2-3.
+
+All the righteous acts should not be done in the com­
+pany of women not belonging to one's own community. One
+should marry only from his own community. (At the time of
+marriage) the warrior class should hold the arrow, the trades­
+men should bear the toad and then the last community the
+fringe of a garment. A girl should be given (in marriage) only
+once. One who abducts such a girl deserves the same punish­
+ment as for a thief.
+
+## 4-7. No atonement is laid down for one who sells his children.
+
+Marriage is said to consist of four kinds of acts such as kanyiidiina
+(giving the girl as a gift) , saciyiiga (rite relating to the wife of
+Indra) , marriage and caturthikii (the fourth one ) . Women are
+allowed to have another husband in the following five adversi­
+ties-if (the first husband is) lost, dead, has become an ascetic,
+impotent or fallen morally. If (the husband) is dead, (she)
+should be given to the brother (of the deceased) . In the absence
+(of a brother) (she should be given) as one wished. The three
+purvas (purvii,
+purviifii¢hii,
+purvaproftapadi) , iigneya (krttikii) ,
+viiyavya (sviiti) , the three uttariis (uttarii, uttariifiir/.hii, uttariiprofta­
+padi) and rohiTJi are the asterisms always commended for copu­
+lation.
+8-1 1 . 0 Bhargava (Parasurama) ! One should not choose
+(the bride) from the same gotra or born in the line of same sage.
+(One may choose) from (descendants of) more than seven
+(generations) on the paternal side and more than five (genera­
+tions) on the maternal side. Having invited a person endowed
+with good conduct and belonging to a good family and giving a
+girl as a gift is known as briihma (type of marriage) . The lustre
+due to the offering of a girl as a gift always elevates
+men.
+Then the marriage accompanied by the offer of the gift
+of a pair of cows is spoken to be the lirfa (variety of marriage) .
+The offer made to one after solicitation (is known to be) priijii-
+
+
+
+## 1 54. 1 2-19
+
+435
+patya (variety of marriage) for the purpose of righteousness. It is
+iisura (type of marriage in which the girl is offered) along with
+the purchase money. (It is considered as) the lowest. The
+marriage by mutual consent (is known as) gandharva. (Marri­
+age) by abduction after a battle (is known as) rak?asa (variety
+of marriage) . (It is known as) the paisaca (variety) if the girl
+is married after deceiving her.
+
+## 12. An image of Indral).i (wife of Indra) should be made
+
+with potter's earth on the marriage day. She (that image)
+should be worshipped at a pond and (then) the bride should
+be taken inside the house accompanied by music.
+1 3-14. The marriage should not be done when lord Ke8ava
+(Vi!?I).U) sleeps1 and also in (the months of) PaĤa (December­
+January) and Caitra (April-May) , on Tuesday and on the days
+of rikta2 and vi?ti. 3 (The marriage should also) never (be done)
+when Venus and Jupiter are not to be visible and the Moon has
+been eclipsed. (So also it should not be done) in asterisms ruled
+by (the planets Sun, Saturn and Mars and days afflicted by
+vyatipata.4
+
+## 15. The asterisms (suitable) for (the performance of) a
+
+marriage (are) Mrgasir?a, Magha, Svati, Hasta, Rohi7)i, the three
+Uttaras (Uttara, Uttara?a¢ha and Uttarapro?tapadi), Mula, Anuradha
+and Revati.
+1 6-19. The ascendant and the arnsa (subdivision of the
+stellar house) relating to a mortal are auspicious. (The planets)
+Sun, Saturn and Mercury in the third, sixth, tenth, eleventh
+and eighth (houses) are commendable. Mars in the eighth (is)
+not (commendable) . All the other planets are commendable in
+the seventh, twelfth and eighth (houses) . Even among them,
+Venus in the sixth from the sixth house is not commendable.
+(Just as the worship of Indral).i is done) in the asterism on ᆦhe
+marriage day, the caturthika (the rite on the fourth day of the
+marriage) should also be done in the asterism of the marriage.
+The marriage should not be performed if four planets are in the
+
+## 1 . The four month period commencing with the eleventh day of the
+
+bright half of the month of AȨfu;lha (June-July) .
+
+## 2 . The fourth, ninth and fourteenth days of a lunar fortnight.
+
+
+## 3.
+
+An adverse period.
+
+## 4. The day of the new Moon occurring on a Sunday and when the
+
+Moon is in a particular asterism.
+
+
+436
+Agni PuraT}a
+same house. One should cohabit his wife only on days other
+than the parva (days)
+(the eighth and fourteenth days as well
+as the full-moon and newmoon days) . When a truthful ( girl)
+is given in marriage (there would be) pleasure always.
+
+## CHAPTER ONE HUNDRED AND FIFTYFIVE
+
+The code of conduct
+
+## Pu?kara said :
+
+
+## 1-12. Mter getting up in the briihma muhurta (about 48
+
+minutes prior to sunrise) , one should contemplate on the gods
+Vis:t:lu and others. One should pass both urine and stools facing
+the north during the day time, facing the south during the night
+and as in the day during the two twilight periods. One should
+not do on the roads, water, streets and on the grassy surface.
+After having purified oneself with earth, one should sip water three
+times and then cleanse the teeth. Bathing is said to be six kinds
+such as daily, casual, performed with some desire, part of a puri­
+ficatory rite, removing the bodily dirt and at the time of
+·obsequies. The religious act done without bathing yields no
+result. Hence one should bathe in the morning. Among the
+waters of a sacred place, a river, a tank, flowing water, water
+present in the well and water drawn (from the well) , the preced­
+ing one is more meritorious than the succeeding one in order.
+The waters of (the river) Ganges are always meritorious. Mter
+having cleansed the impurities (on the body), one should remain
+submerged in (the waters of) the tank. Mter having touched
+waters one
+should
+sprinkle
+them
+(on his body) three
+times with the (repetition of the mantra) hira1J.YaVaTT)a1, then with
+(the mantra )sanno devi2, three times with iipo hi ?thaa, and then with
+idam apa'. Then one should remain in the water of the tank and
+mutter (sacred syllables) (remaining) in the water. One should
+
+## 1 . RV. 5.87. 1 a.
+
+
+## 2.
+
+Srisilkta. 7V. 10.9.4a.
+
+## 3. 7V. 10.9.1 a.
+
+
+## 4.
+
+
+## 7v. 1 .23.22a.
+
+
+
+
+## 155. 1 3-20
+
+437
+either recite the aghamariar.ta1 hymn or the drupadil2 or yunjate
+mana3 or the puTUiasakta4• The gilyatri (mantra) should be recited
+especially. Bhilvavrtta is the deity, AghamarᆆaJ).a is
+the sage
+and anuitubh is the metre for the aghamariar.ta hymn. Lord Hari
+(ViᆗJ).U) is remembered to be Bhavavrtta. After squeezing the
+garment (one should) offer (respectful) waters of oblation to
+the gods and manes. One should offer waters of homage with
+the palms with the recitation of the purUiasilkta. Then one should
+offer oblation to fire and make gifts befitting one's capacity.
+13-14.
+Then one should worship lord (Siva) for the sake
+of one's prosperity. One's seat, bed, vehicle, wife, children and
+water-vessel are pure for one's self. (But they) are not pure for
+others. Even preceptors should leave way for pregnant women
+afflicted by the weight.
+
+## 15. One should not look at the rising or setting Sun or in
+
+the waters. One should not look at naked woman. One should
+not peep into the well and look at a dog, or drinking house and
+a sinner.
+
+## 16.
+
+One should not tread on cotton, bones, ashes and that
+which is despised. (One should not enter) the apartments of
+women or treasury. One should not go as an emissary of another
+person.
+
+## 1 7.
+
+One should not board an uneven boat, or (climb) a
+tree or a mountain. One should then be interested in sciences
+relating to acquisition of wealth.
+
+## 18. One who tramples on clod of earth, one who cuts the
+
+grass and one who eats the nail would perish. One should not
+desire to raise sounds with the mouth. One should not stir out in
+the night without a lamp.
+
+## 19. One should not enter a house not having a door. One
+
+should not change the colour of the face. One should not inter­
+rupt in the midst of a conversation. One should not wear other's
+garments.
+
+## 20. One should always say good. One should never utter
+
+that which does not please others. Seat made of palMa (wood)
+is prohibited. One should move in the shade of gods etc.
+
+## 1 . .{lV. 10. 190.
+
+
+## 2. AV. 6. 1 15.3a.
+
+
+## 3. .{lV. 5.81 . 1 a.
+
+4 •
+.{lV. 10.90.
+
+
+438
+Agni PuraT)Il
+
+## 21 .
+
+One should not go in between revered people. One
+should not look at the broken (and falling) asterism. One should
+not utter the name of another river (while standing) in one river.
+One should not gargle with two hands.
+
+## 22. One should not cross the river without propitiating the
+
+forefathers and gods. One should not throw impurities like feces
+in the waters. One should not bathe remaining naked.
+
+## 23. Then one should worship lord Isvara (Siva) for the
+
+sake of welfare and prosperity, One should not remove one's
+garland oneself. One should avoid the dust of an ass and other
+animals.
+
+## 24.
+
+One should not ridicule mean (people) . One should
+not go (with them) and live with them. One should not also
+reside at a place devoid of a physician, a king and a river, a
+place ruled by other races, women and many men.
+
+## 25.
+
+One should not converse with women in their monthly
+menstrual courses or otherwise fallen. One should contemplate
+· on lord Kesava (ViᆆI}U) (if happened to converse with the above) ᆧ
+One should not laugh, yawn and sneeze without covering the
+mouth.
+
+## 26.
+
+A wiseman should avoid
+disrespect shown to his
+master and his own self. One should guard the words of one's
+self and his master. One should not yield to (the dictates of)
+his organs. One should not control the natural impulses of the
+body.
+
+## 27. 0 Bhargava ! One should not ignore a disease like
+
+an insignificant enemy. One should always sip waters (for
+purification) whenever one goes in the street. One should not
+carry water and fire.
+
+## 28.
+
+One should not utter hum to a good and venerable
+person. One should not tread over one foot with the other. One
+should not speak something unpleasant to someone either in his
+presence or his absence.
+
+## 29.
+
+One should refrain from abusing the scriptures, king,
+sages and gods. One should not envy women and one should
+avoid having faith in them.
+
+## 30.
+
+One should hear righteous things, have devotion to
+gods and adhere to righteous path. One should worship
+Soma (moon) as well as gods and brahmins in the natal
+star.
+
+
+
+## 155.3 1-156.1-9
+
+439
+
+## 3 1 . One should avoid bathing with the application of oil
+
+on the sixth, eighth and fourteenth (days of the fortnight) .
+(One should pass) urine and stools far away from the house.
+One should not have enmity with great men.
+
+## CHAPTER ONE HUNDRED AND FIFTYSIX
+
+Purification of things
+
+## Pu?kara said :
+
+
+## 1 -2. I shall describe the (mode of) purification of things.
+
+Earthen vessel made impure by contact with urine or feces would
+become pure by heating again. A copper and gold vessel simi­
+larly made impure (may be made pure) by melting or the copper
+one by water or acid. (The vessels made) of bell-metal and
+copper (may be purified) with acid. (Those made) of pearls
+(get purified) by washing.
+
+## 3-5.
+
+Lotuses, vessels made of iron,
+vegetables, ropes,
+roots, fruits and cane (could be made pure by washing) . The
+sacrificial vessels (are made pure) by sprinkling (water) with
+hand at the sacrificial work. Those made of oily things (such as
+wax) could be purified with hot water being sprinkled in the
+house. Muddy water may be purified by straining it through a
+cloth, or by sprinkling on many cloth. Wooden (things) get
+purified that moment (by sprinkling with water) .
+
+## 6-7. Liquid materials which have become solidified (would
+
+become pure) by sprinkling or by leaping up. A bed, seat,
+vehicle, winnowing basket and cart would become purified by
+sprinkling (water) , as also in the case of straw and fuel. (Things
+made) of the horn and tusk (may be purified) by a paste of
+white mustard.
+
+## 8.
+
+A vessel (containing) flesh (may be purified) with cow's
+tail. Bones have to be (purified) as in the case of horns. Molasses
+of jaggery and solution of salt (may be purified) by drying.
+
+## 9.
+
+Safflower, flowers, wool and cotton (may be puri­
+fied) in the same manner. The flowing water of a river is pure.
+So also the water that remains spreads out.
+
+
+440
+Agni Puriir.za
+1 0- 1 5 .
+A cow is pure except in its mouth. The mouths of
+a horse and goat are impure. The mouths of women, calves
+of cows, birds and of dogs (are pure) . While hunting a dog
+dripping water from its mouth is always pure. One should sip
+(water thrice for purification) after eating, sneezing, sleeping,
+drinking (water) , having had a dip in the water, walking on the
+street and having changed the dress worn. The cat is pure be­
+cause it moves (here and there) . A women in her menstrual
+courses (becomes pure) after bathing on the fourth day. She
+becomes eligible (to take part)
+in rites relating to gods and
+manes. (In impurity) due to the apiina (one of the airs in the
+body) five parts ofmud (should be used), fifteen parts in purifi­
+cation after urine and seventeen parts in impurity due to feces.
+One should apply one part of mud to the penis and three times
+two parts (of mud) on both
+hands. For the brahmaciirins
+(students) , the foresters and ascetics (it is laid) as four times.
+Silken cloth (are purified) with sriphala ( emblic myrabolan) ,
+white cloth with white mustard. It is said that the hairs of ani­
+mals would be purified by sprinkling water. Flowers, fruits etc.
+would get purified by sprinkling water.
+
+## CHAPTER ONE HUNDRED AND FIFTYSEVEN
+
+Pollution and Purification
+
+## Pu?kara said :
+
+I . I shall describe purification after death and after the
+birth (of a child) . The pollution due to the death of a sapiTJ¢a1
+is prescribed for ten days.
+
+## 2-7. 0
+
+Excellent among
+Bhrgus
+(descendants
+of
+Bhrgu) ! So also purification (from pollution) is after birth in
+the case of brahmins, after twelve days for the warrior class,
+after fifteen days for the tradesmen, and after a month for
+sildra (fourth class) . If the dead belongs to the higher class,
+the pollution for the servant (of the lower class) would be as for
+
+## 1 . A kinsman connected by offering the funeral rice-ball to the manes
+
+of certain relatives.
+
+
+
+## 157.8- 1 6
+
+441
+the master. A brahmin or a person of the warrior class who had
+his birth through the warrior, tradesman or sildra gets purified
+after six or three or one day in order. 0 ParaJuriima ! if born
+of a tradesman and sildra purification would be after six or three
+nights (respectively) and if born of a sildra and tradesman
+purification would be) after six (nights) . (If one's child dies)
+before the formation of teeth, one become pure at once, (if it
+dies) before tonsure, (the parent) has pollution for a night, if
+before the vratabandha (vow relating to investiture of thread)
+pollution lasts for three nights, and ten nights if afterwards. If
+a sildra dies at less than three years of age, the purification should
+be after five days. If aged more than three, purification would
+be after twelve days, if aged six years, the purification would
+be after a month.
+
+## 8-9.
+
+If a female (child) (dies) before tonsure, the puri­
+fication would be after a night. Similarly, the relatives of
+female children dying after tonsure get purified in three days.
+No pollution is laid down for the parental side if (a female dies
+after marriage. If a woman delivers a child in her parent's
+house, the relatives get purified after a night.
+1 0-14. A woman after childbirth gets purified after ten days)
+and not otherwise. There is no doubt that if a married girl dies
+in her father's house, the relatives get purified after three nights.
+If two pollutions take place and the second one is equal or infe­
+rior to the first one, the pollution ends with the first one, and
+ends with the second one if the second is not equal. These are
+the words of Dharmaraja1• One who lives abroad happening to
+hear (the news about) the death of his kinsmen would be impure
+only for the remaining part of the ten days (of impurity) . (If
+it is known) after ten days, impurity would last for three days.
+Then if one year had elapsed, one would become pure after
+bathing. (One has to do as before) if either the maternal grand­
+father or the preceptor dies.
+1 5-16. One gets purified after abortion after the same num­
+ber of nights proportionate to the months (period) of pregnancy.
+0 Bhargava
+(son of Bhrgu)2 whoever of a sapirpjaS of a brah­
+min caste may die the pollution ends after ten days for all with-
+
+## 1 . The lord of righteous living; may mean any upholder of a code.
+
+
+## 2.
+
+Denotes Parasurama.
+
+## 3. See 1 57. fn 1 .
+
+
+
+442
+Agni Pura'f)a
+out any distinction. So also for a warrior (class) (it would end)
+after twelve days, the tradesmen after fifteen days and the Jildras
+after a month.
+
+## 1 7.
+
+A ball should be made and offered from the remnants
+of the ceremony and placed in front. One who does the deed
+should then declare the name and clan of tha: person (dead) .
+18-24. After the excellent brahmins had partaken food,
+were well honoured with gifts and had blessed with unbroken
+rice and water with the recitation of the nan1e and clan (of the
+doer) , one should dug up three pits of four cubits breadth and
+depth and of twelve cubits length. Near the pits one should
+kindle three fires. 0
+Rama (Parasurama) one should offer
+oblations to Soma, Agni (Fire god) and Varna four (handfuls )
+three times each. Balls of rice should be offered separately (in
+each one of these )as before. One should fill (pits) wii:h cooked
+rice, curd, honey and flesh. If an inter-calary month occurs
+this should be done in addition. Or (this ceremony) should be
+completed in twelve days. If an inter-calary month occurs in
+the middle of the year, then there would be extra rites at (the
+time of doing) the twelfth ceremony. After the completion of
+one year the ceremony should be done as the annual ceremony.
+
+## 25 .
+
+If one dies balls of rice should be offered to the ancestors
+of the three past generations. Likewise the fourth is brought
+together.
+
+## 26. 0 Bhargava ! After having worshipped and offering
+
+(ball ofrice) with (the recitation of syllables) p,thvi samana1,
+the ball of rice (intended) for the dead should be united with
+those (intended) for the other (ancestors) .
+
+## 27. So also the vessel for the dead should be united with the
+
+vessels (for the ancestors) . This rite of uniting the vessels should
+be done one by one.
+
+## 28.
+
+This rite is laid down without
+(the recitation of)
+syllables for the sildra. The rite of sapi'f)t/ikara1Ja2 should be done
+in the same way for women.
+29-30.
+If one dies, a potful of cooked rice should be offered
+for a year and the ceremony should be done every year. One
+
+## 1 . cj. Prthvi samii HG. 2-1 1-4.
+
+
+## 2. The rite of uniting the ball of rice for the dead with those for the
+
+ancestors.
+
+
+
+## 158.31-41
+
+443
+may be able to count the sand particles in the Ganges or the rain
+drops as Indra rains. But one may not be able to count in this
+world the past ancestors. In the ever-moving time there is no
+permanence. Hence, one should do the deeds.
+31-32. The dead would get the results of ceremony whether
+(they are) in heaven
+(or) in hell. No benefit
+would
+accrue to the dead if one is only mourning (the death) . There
+is no pollution due to the death of a person by (falling from)
+a cliff, (burnt) by fire, in a trap, by (drowning in) the water or
+by suicide. (There is no pollution on account of the death) of
+those fallen (from their caste) and those killed by lightning and
+weapons.
+
+## 33. Ascetics, those who have undertaken vows, student­
+
+·Celibates, kings, sculptors and those initiated for religious cere­
+monies and those under the command of the king should bathe,
+if they had followed the dead body.
+
+## 34.
+
+Immediate bathing is laid down after copulation and
+(coming across) smoke from (a burning) dead body. A sildra
+·should never carry the dead body of a brahmin.
+
+## 35. So also a brahmin should not carry (the dead body)
+
+of a sudra. There would arise sin from these. One would reach
+heaven by carrying the dead body of a destitute brahmin.
+36-41 .
+One who gifts fuel for burning the (dead body of a)
+·destitute person would get victory in battle. (One who performs
+the cremation of the dead) should solemnly vow that he is a
+relative and then circumambulate the funeral pyre in the anti­
+clock direction. (Mter the completion of cremation rite) all
+should get out and bathe with their clothes. Then handful
+·of water should be offered thrice for the dead. Mter that one
+should enter the house after placing the foot on a stone at the
+·entrance (to the house) . Unbroken rice should be offered to the
+fire and margosa leaves should be eaten. All should sleep sepa­
+rately on the floor. One should eat light food that has been
+bought. The learned one who offered the ball of rice becomes
+pure after shaving, bathing with white mustard and sesamum and
+wearing different clothes on the tenth day. Neither cremation
+with fire, nor the rites of offering waters should be done in the
+case of the death of children who had not grown teeth and in the
+·case of abortion. The gathering of the bones (of the cremated)
+should be done on the fourth day. It is laid down that one may
+
+
+444
+Agni Puriil)a
+touch (the polluted person) after (the rites of) gathering ol
+bones have been done.
+
+## CHAPTER ONE HUNDRED AND FIFTYEIGHT
+
+Kinds of pollution
+
+## PÊkara said :
+
+
+## 1 -4.
+
+I shall describe the pollution due to abortion accepted·.
+by Manu and others. In the case of abortion (pollution lasts)
+so
+many nights proportionate
+to
+the
+period of preg-.
+nancy (for the mother) . If the abortion is after four months.
+(the pollution lasts) for three days, after five months for ten days.
+It lasts for four nights in the case of royal people, and for five
+days in the case of tradesmen. It lasts for eight days in the case
+of sildra and for twelve days in the case of others. Purification has.
+been prescribed for women. But the father (of the abortive)
+(becomes pure) by bathing alone. No bathing has been laid.
+down for those who are sapirpjas. (If the abortion) occurs in
+the seventh or eighth (month) , (pollution lasts ) for three nights.
+In the case of the death of a child after the appearance of the
+teeth, the sapirpjas become purified immediately.
+
+## 5-7.
+
+(If the death of a child occurs) before the tonsure,
+the pollution is for a night, and before the undertaking of the
+vow (for the investiture of sacred thread) (it lasts) for three
+nights (for sapirpjas) . For the mother and father (the pollution)
+lasts for ten nights. (For those who are not sapir;4as) , if the child
+dies before the appearance of the teeth, or after the tonsure,
+(the pollution) lasts for three nights. If the child dies before it is
+three years old, one becomes pure after a night. In the case of a
+warrior class purity is after two days, and three days in that of the
+tradesman. A sildra becomes pure after five days. (If the death
+occurs) before marriage, (the pollution laᆞts) for twelve days.
+
+## 8.
+
+In the circumstances in which the pollution for brah­
+mins is noted as three nights, in such cases a sildra (would have)
+
+
+
+## 1 58.9-19
+
+445-
+for twelve days and the warrior class and tradesmen (would
+have) for six and nine (days respectively) .
+
+## 9. If (a child) dies (when) two years old no cremation
+
+(be done) . It should be buried in the ground. No water of liba­
+tion need be given even if it had been named. Or it should be
+done if the child had grown teeth. (If death occurs) after the
+investiture of sacred thread (one has pollution) for ten (days) .
+A brahmin who propitiates the fire and is well versed in the
+scriptures becomes pure after a day.
+
+## 10.
+
+(The pollution) lasts for three or four days if one is
+inferior or still less inferior in his (learning) .
+I I . One who has neglected the worship of fire (would be­
+come pure) after five days. One who has neglected the duties.
+of a brahmin (would become pure) after ten days.
+
+## 1 2.
+
+A warrior gets pure after nine days and a brahmin
+possessing qualities after seven days. A tradesman possessing
+qualities (becomes pure) after ten days. A sildra (gets pure)
+after twenty days.
+
+## 1 3.
+
+(The normal period of pollution) would be ten days
+for a brahmin, twelve days for the warrior class, fifteen days for
+the tradesman and one month for the sildra.
+
+## 14. If there be excellent qualities (the normal pollution)
+
+for ten days would become three days, for three days would
+become a day, for one day would become immediate purity.
+One has to infer in this way in all the cases.
+
+## 15. The pollution for the servant, pupil, hired servant and
+
+disciple, residents of same place will be as that of their masters.
+But the pollution for the death would be separate.
+
+## 16.
+
+In the case of pollution due to the death of a person who­
+performs sacrifices etc., the obsequial rites should be commen­
+ced after doing purification before the cremation is done.
+
+## 1 7.
+
+One may touch a person (polluted) after one-third (of
+the period of pollution) is over in the case of all the castes. (The
+period after which) one may touch (the polluted)
+is three,
+four, five and ten days for the (four) castes respectively.
+
+## 18. The gathering (and immersion) of the bones should be
+
+done on the fourth, fifth, seventh and ninth day (after the death)
+for the (four) castes in the successive order.
+
+## 19.
+
+(Pollution) would be for a day in (the death of) girls
+not given in marriage and three days in (the death of) girls
+
+
+446
+Agni PurllT}.a
+after marriage. A night and two days enclosing it has been laid
+down (as the period of pollution) in the (death of) married sisters
+and others.
+
+## 20. The gotra for the unmarried girls would be that of the
+
+father, and for the married girls that of their husbands. The
+water of libation (should be offered) to the father on both
+sides in the case of the married.
+
+## 2 1 .
+
+(The pollution) for the parents (would be) for three
+days after ten days in (the case of) the death of the daughter.
+0 Brahmin ! the sapirp/as would become pure immediately
+in (the death of the boy) before the tonsure is done ..
+
+## 22.
+
+(The pollution would be) for one day in (the death of
+a girl) before the marriage (had been done) and three days
+after the girl had been given in marriage. (The pollution lasts)
+for a night and two days enclosing it in (the death of) the bro­
+ther's son and immediately for the sapiTJ.¢as.
+
+## 23. A brahmin becomes pure after ten days in the death
+
+or birth through the brahmin woman. So also (a brahmin be­
+comes pure in the death or birth) through the warrior, trades­
+man and sildra respectively after six or three days or one day.
+24-27. This should be known as (applicable) to the sapiTJ.¢as.
+I shall describe (the pollution) in (the case of the death of)
+illegitimate (children) . It is said that there would be purity
+after three days in (the case of the death of) the illegitimate
+·children adulterous wives and women who had former husbands.
+No water oflibation (need be given) for those born in the mixed
+castes and, those gone abroad and those committing suicide.
+Pollution for those having one mother and two fathers and bro­
+thers having illegitimate wives, would be one day for birth and
+two days in (the case of) death. (I have described) the pollu­
+tion for sapiTJ.¢as. I shall describe (the pollution) for those having
+relationship by the libation of waters.
+
+## 28.
+
+One becomes pure after bathing with the dress worn
+at the death of a person who is not a sapi7J.¢a, whether the dead
+be a boy or has died abroad.
+
+## 29.
+
+But sapir;¢as would become pure only after ten days in
+the case of both birth and death. The members of the same
+family (distant relatives) (would become pure )after three nights.
+Those belonging to the same clan would become pure after bath.
+
+
+
+## 1 58.30-41
+
+447
+
+## 30. The relationship of sapirpJa would cease after the seventh
+
+(generation) in the case of males. The status of being eligible
+for waters oflibation would cease after the fourteenth generation.
+31-33.
+If details about one's birth are not remembered he
+is said to belong to another clan. One who hears about the death
+of a person abroad within ten days after the death, pollution
+would last only for the remaining period of the days.
+(If it
+is heard) ten days after (the death) pollution would be for three
+days. (If one hears) after one year had elapsed, one becomes
+pure after touching waters. (The pollution lasts) for a night
+enclosed by two days (in case of death) of the maternal uncle,.
+a night (in case of death) of the pupil, priest and relatives.
+
+## 34. Only bathing is laid down in (case of) the death
+
+of son-in-law, daughter's son, nephew (sister's son), brother­
+in-law and the son of the latter.
+35-38.
+(The pollution would last) for three days
+in
+(case of) the death of maternal grand-mother, preceptor and
+maternal grand-father. It is laid down that one becomes pure
+(in the following cases) : (Death at the time of) a famine, the
+decadence of kingdom,
+a
+calamity has befallen, in case
+of death due to misfortune (or at the time of eclipse) , in the
+death of) knower of brahman by means of fire, (in case of
+the death of) one who constantly performs sacrifice, one who
+observes a vow, a celibate, in (case of death at) battle and
+national calamity, while gift is being made, a sacrifice is being
+performed and the marriage is being conducted. An atonement
+in the form (of discarding life) by entering fire or water has been
+laid for those who kill a brahmin, a cow, and the king as also
+those who (attempt to) commit suicide, and one who has an
+incurable disease and one who is incapable of doing sviidhyiiya1•
+39-41 .
+If a woman or a man dies by hanging one's self on
+account of disgrace, anger, affection and insult, somehow he
+(or she) would live for a lakh (of years) in an impure hell. If
+an old man who has neglected the ritual enjoined by the scrip­
+tures and code books, discards his life, (the period of) pollution
+is for three days. The collection of bones (after cremation) is
+done on the second day. Water of libation is to be done on the·
+
+## 1 . Study of one's own branch of the Veda.
+
+
+
+448
+Agni PuriiT)a
+third day. The sriiddha (annual ceremony for the dead) should
+be done on the fourth day.
+
+## 42.
+
+In the death of people struck by lightning or by fire,
+pollution lasts for three days for the sapiQt/as. Women who had
+taken to heretic path and those who had killed their husbands
+are not eligible for water of libation.
+
+## 43.
+
+If one's father or mother had died (in the above des­
+cribed manner) , one should wear wet clothes, and fast. After
+one year had gone, the obsequies should be done as laid down.
+
+## 44.
+
+If one, who is an asapiTJ¢a1, carried the dead body, he
+becomes pure after bathing with the dress, touching the fire and
+taking ghee.
+
+## 45.
+
+If one eats food from them, he becomes pure only after
+ten days. If not eaten food there, he becomes pure that day itsel£
+Then one should not stay in that house.
+
+## 46. The brahmins who carry the dead body of a destitute
+
+brahmin, get the benefits of a sacrifice at their each step and
+would become pure after bathing alone.
+47-49.
+A brahmin who accompanies the dead body of a
+sudra becomes pure after three days. After having mourned
+the death of a person along with the relatives, one should avoid
+making any gifts or doing Jriiddha etc. will-fully for a day. If a
+sudra woman delivers (a child) or dies in one's house, the vessels
+should be discarded and one becomes pure after three days by
+sweeping the floor (of the house with water) . The dead brahmin
+should not be made to be carried by a sudra when the same
+(caste men) are available.
+
+## 50. After bathing the dead body, it should be cremated after
+
+being worshipped with flowers. Never should the (dead) body
+be cremated naked. A part (of the body) should be left (un­
+covered) .
+5 1 -53. One who is born in the same clan should lift and
+place (the dead body)on the funeral pyre. A brahmin who had
+consecrated the sacred fire should be appropriately cremated
+with the three fires2• One who has not consecrated the sacred
+
+## 1 . Not a sapirufa.
+
+
+## 2.
+
+Sacrificial fire of three kinds gtirhapatya, tihavaniya and dak#!ra-the
+fire perpetually maintained in the house,
+a consecrated fire taken from the
+previous, the sacred fire lit on the south.
+
+
+
+## 1 58.54-63
+
+449
+fire (should be cremated) with one (among these three fires) .
+The others (should be cremated) with the ordinary (fire) .
+The son should place the fire at the face with the words, "You
+were born from this. May this be born from you again. This is
+for the heaven". The relatives (should utter) the name and
+clan (of the dead) and sprinkle water once.
+
+## 54. The water of libation (should be done) in this way in
+
+the death of the maternal grand-father, and the preceptor.The
+water of libation is optional in (the case of) the death of the girl
+friend, sister's son, father-in-law and priest.
+55-56. The son should offer the water of libation for ten
+days (with the syllable) apo naf.z sofucad.1 Ten balls of rice
+should be offered (at the death) of a brahmin. Twelve (balls
+of rice) are remembered (to be offered) for a warrior. Fifteen
+(balls) are spoken to be for a tradesman. It is said that thirty
+(balls) (should be offered) for a sfldra. A son or daughter or
+anybody else may offer the balls of rice like the son.
+57-59. After biting the margosa leaves, becoming self­
+controlled and sipping water at the entrance to the house, all
+should touch fire, water, cowdung, white mustard and place foot
+slowly on a stone and enter (the house) . Till the pollution goes
+pungeant and saline food should not be taken. Flesh should
+not be eaten and all should sleep on the floor. After bathing, food
+bought from outside should be eaten. The same person, who did
+the first day rite, should do rites for ten days. In the absence
+(of that person) , a brahmaciiri may offer the balls of rice and
+waters of libation
+
+## 60. Just as the pollution for the sapi{l(ias at the death (of
+
+their relatives) has been laid down, so also it would be in regard
+to birth for those who desire for purification.
+
+## 6 1 .
+
+The pollution due to death is applicable to all. But the
+pollution due to birth is only for the father and mother. Pollu­
+tion would be for the mother only and the father would become
+pure after touching water.
+
+## 62.
+
+If it had been decided that sriiddha should be done on
+the day ofbirth of the (dead) son, cow, gold and dress should
+be given as gift on that day.
+
+## 63.
+
+The pollution due to death
+(goes) with (another)
+
+## 1 . .{lV. 1.97. la.
+
+
+
+450
+Agni PuraT)a
+pollution. The pollution due to birth
+(goes) with (another)
+pollution. Even between them one gets pure with that which
+occurs first.
+
+## 64.
+
+If a pollution due to death occurs while there is pollu­
+tion due to birth and vice-versa, the pollution is based on that
+of death only and not on that of birth.
+
+## 65. If one pollution occurs when there is already another
+
+pollution, if the two are equal or the latter is less equal then the
+pollution should be completed with the former. If the two are
+unequal, it should be completed with the second according to the
+words of Dharmaraja.
+
+## 66.
+
+If death occurs at the end of another death, there is
+purification after the end of first pollution. The greater one
+always affects the lighter one. But the lighter one never affects
+the greater one.
+
+## 67.
+
+If the pollution due to death or birth occurs in the mid­
+night when there is already a pollution due to death or birth,
+all would become pure with the remaining part of pollution.
+That is that part of the night added to two days.
+
+## 68.
+
+If the pollution occurs in the morning, one becomes pure
+after three days. In both cases one should not eat food from
+that family.
+
+## 69.
+
+One should refrain from making any gifts. If one hap­
+pened to die, he should do rires of atonement. There is no sin if it
+is done unknowingly in the former. Otherwise, it would be for a
+day for the one who dines.
+
+## CHAPTER ONE HUNDRED AND FIFTYNINE
+
+The merits of the offer of libation and the performance of good deeds
+
+## PuҢkara said :
+
+
+## 1 . One would reach heaven whether the cremation is done
+
+or not done if Lord ViᆇI).U is remembered. The dead gets
+redemption if the bones are immersed in the waters of the
+Ganges.
+
+
+
+## 159.2-15
+
+451
+
+## 2-4. One remains in heaven till (the period) his bones
+
+remain in the waters of the Ganges. No cremation (is laid down)
+for those committing suicide and those fallen (from righteous
+living) . Even for them it is beneficial to drop their bones in the
+waters of the Ganges. The waters and food offered for them
+would be absorbed in the sky. The (rite of) Nariiya'f)abali1 should
+be done with great compassion for the dead fallen (from righte­
+ousness) . Hence, that person would enjoy favour.
+
+## 5. The lotus-eyed (Vi!}I).U) is without decay. That which
+
+is offered there will not perish. Lord J aniirdana (Vi!}I).U) is the
+vessel because that protects from falling.
+
+## 6.
+
+It is certain that (Lord) Hari (Vi!}I).U) is the only (god)
+who confers enjoyment, emancipation etc. for the fallen. Seeing
+the people dying one should do the helpful righteous deeds.
+
+## 7. Even after the death (of a person) , the relatives would
+
+not be able to follow the dead person. The path of death is differ­
+ent for all others except the wife.
+8-1 5. Only the deeds accompany one wherever one may go.
+One should do today the work of tomorrow and in the forenoon
+that of the afternoon. The death does not wait to see whether
+(the work) has been done or not done. One who is attached to
+the plot, market and house and has his mind drawn towards
+something
+else, death takes him and goes away like the
+she-wolf seizes the ram. No one is dear, nor one is an enemy
+of time. When the life (period) and one's work are over,
+(it) endures and takes away the people. Even if pierced
+with hundred arrows one does not die at the inopportune time.
+One does not live if the destined time has come even if he has
+been touched only by the tip of kusa (grass) . Medicines and sac­
+red syllables and others cannot save one who is destined to die.
+Certainly one's past actions find the doer like (the cow finding
+its) calf. That which precedes one's birth and that which
+succeeds one's death is not explicit. Only that which is in between
+is explicit in this world. Just as we have the boyhood etc. for the
+body, so also another body is got. Just as the body wears another
+new dress, so also the soul (gets another body) . (The soul)
+is always indestructible. Hence one should discard grief.
+l . A particular funeral ceremony.
+
+
+452
+Agni PuriiT)a
+
+## CHAPTER ONE HUNDRED AND SIXTY
+
+Duties of a brahmin leading life in the forest
+
+## PÊkara said :
+
+
+## 1-2. Listen to me ! I shall describe the duties of an ancho­
+
+rite leading life in the forest. He should have matted hair, wor­
+ship fire, sleep on the ground and wear the hide of an aᆟtelope.
+He should live in the forest. He should maintain his life with
+milk, roots, niviira (rice growing uncultivated) and fruits. He
+should not take alms. He should bathe thrice a day. He should
+observe celibacy.
+
+## 3.
+
+The duty of an anchorite is to worship gods and
+guests. A householder after having seen the grandchild should
+resort to the forest.
+
+## 4-5.
+
+The third part of one's life (should be spent in the fo­
+rest) either alone or with the wife. One should do severe penance
+in the midst of five fires in the summer, under the clouds as
+the shelter in the rainy season, with wet dress in the winter. One
+should resort to a life of not expecting (any thing from anybody)
+and go on straight in (different) directions.
+
+## CHAPTER ONE HUNDRED AND SIXTYONE
+
+Duties of an ascetic
+
+## PU!kara said :
+
+
+## I .
+
+I shall describe the duties of an ascetic which confer
+knowledge and release (from cycles of birth and death) . When
+one reaches the fourth part of his life, he should renounce
+contact {with men) .
+
+## 2-3. One should renounce on that very day when he gets
+
+disinterested (in
+worldly
+activities) . A brahmin should
+leave the house after performing the Priijiipatya1 rite, worship of
+
+## 1.
+
+Giving away the whole of one's property before entering the life
+.of an ascetic.
+
+
+1 6 1 .4-1 6
+453
+all gods along with the (appropriate) fee and invoking fires
+in one's own self. One should move alone daily. One should
+resort (to the village) only for a morsel of food.
+
+## 4-5.
+
+The ascetic should be indifferent and should not ac­
+quire wealth. A bowl, roots of a tree, tattered clothes and
+equanimity towards everything are the characteristics of a libe­
+rated soul. One should neither welcome death nor life.
+
+## 6-8. One should await only the time just like a servant
+
+(waiting for) the command. One should set his foot (at a place)
+purified by his look, drink water purified with a cloth, utter
+words purified by truth, do (things) (that are considered to be)
+purified by the mind. A vessel made of gourd or wood or earth
+or burnt ashes (are the symbols) of an ascetic. An ascetic should
+seek alms daily (from the house) when the smoke has ceased,
+the pestle has been set aside, the charcoal has been put out, the
+inmates have eaten, the food vessel has been kept inverted after
+eating.
+
+## 9.
+
+Begging is of five kinds-collected from different places
+like a bee, unintended (not already fixed), that has already been
+fixed, temporary (arranged just when the ascetics seek alms)
+and (food) made ready and brought (to him) .
+
+## 10.
+
+(The alms) may be (received) in the vessel in the hand
+or transferred from the vessel to the vessel. He has to examine
+the state of men (from whom alms are received) due to their
+discreditable conduct.
+
+## 1 1 .
+
+One should pursue righteousness entertaining purity
+of thought in whichever order of life he may be interested. He
+should treat all beings equally. The cause of righteousness does
+not lie in the symbol (associated with the different orders oflife) .
+
+## 12. Although the fruit of the kataka tree purifies the water,
+
+the water cannot become pure by the mere mention of its name.
+
+## 13. An honest person, eunuch, lame, blind and deaf person
+
+associated with the wicked on account of ignorance get liberated
+by pious men.
+
+## 14.
+
+If an ascetic kills any being unknowingly during the
+day or night he should bathe for purification and do the prii­
+øiiyiima six time
+15-16.
+(The ascetic) should discard his body having
+bones
+as the pillar, united with
+sinews, besmeared with
+flesh and blood, covered with skin, full of foul smell of
+
+
+454
+Agni PurilT)a
+urine and feces, subject to old age and grief.
+(It is also) the
+abode of diseases and afflictions, emotional and non-eternal.
+
+## 1 7.
+
+Firmness, forgiveness, self-restraint, not-stealing, purity,
+control of senses, modesty, learning, truthfulness and absence
+of anger are the ten characteristics of righteousness.
+
+## 18. The ascetics are of four types-kuticaka, bahudaka,
+
+hamsa and paramaharhsa. Each succeeding one is superior.
+1 9-26. An ascetic would be liberated, whether he is an
+ekadaTJ¢in (holder of one stave) or tridaTJ¢in (holder of three long
+staves tied (together) . Abstaining from killing, truthfulness,
+not stealing, celibate life, and non-possession of things are the
+five moral observances for an ascetic. Purity, gratifying, penance,
+study of vedic texts of one's school and worship of the deity
+are the (five) self-imposed moral observances. The padmaka1
+and others are the postures. The priiT)ayiima (the controlled brea­
+thing) is of two types-sagarbha and agarbha. The garbha type is
+that associated with the repetition and contemplation
+(of a
+sacred syllable) and agarbha is the opposite. Each one of these is
+again of three kinds-inhalation (filling) , retention and exhala­
+tion (emptying) . The breath is said to be filling as it fills up,
+retention as there is no movement, and emptying on account of
+emptying. It is also of three kinds on account of difference
+in the (period of) measure, such as twelve, twenty-four and
+thirtysix miitrii respectively. One miitrii is the time (taken) for
+(pronouncing) a short vowel. One should repeat syllables
+like the pra7Java (om) slowly. The pratyiihiira (restraining the
+organs) is (only) for those who repeat (sacred syllable) .
+Dhyiina is the contemplation on god. The firmness of mind is
+the dhiiraT)ii. Samiidhi is the state of continuous existence in brah­
+man. This self is the supreme brahman (of the form of) truth,
+knowledge and bliss. I am that supreme brahman, effulgent
+self, the (lord) Vamadeva (Siva) liberated om.
+27-28.
+(I am) devoid of a body, sense organs, mind, intel­
+lect, life and ego. (I am) free from (the states of) waking, dream­
+ing and deep sleep, (and I am) the brahman of the fourth (state) .
+( I am) eternally pure, realised, liberated, truth, bliss and without
+
+## I .
+
+The posture of sitting erect with crossed legs, the right foot resting
+on the left loin and the left foot on the right loin.
+
+
+
+## 161 .29-162. 1-7
+
+455
+a second. I am the brahman, the supreme effulgence, undecaying
+(and)
+all-pervading lord Hari
+(Vigm) .
+
+## 29. That person who (is in the) Sun, that I am, the un­
+
+divided, om. (I am) one who is devoid of all beginnings, equal
+towards grief and pleasure and having forbearance.
+30-31 . A person would become brahman being pure in one's
+thought and after having pierced the primordial egg. One should
+perform the vow of ciiturmiisya1 on the full moon day of izyii¢ha
+(June-July) . Then one should move out on the ninth day etc.
+One should have the shave at the junction of two seasons.
+The atonement for ascetics are contemplation, (doing)priiᆘiiyiima
+and (the practice of) yama, (moral observances) .
+
+## CHAPTER ONE HUNDRED AND SIXTYTWO
+
+The code of laws
+
+## PUJkara said :
+
+l -2. I shall describe concisely the code of laws as narrated
+by Manu, Vigm, Yajiiavalkya, Harita, Atri, Yama, Aitgiras,
+Vasiᆇtha, Dakᆇa, Samvarta, Satatapa, Parasara, Apastamba,
+U sanas, Vyasa, Katyayana, Brhaspati, Gautama, Sailkha and
+Likhita.You listen to that which would yield you enjoyment and
+emancipation. The path of action adhering to the Vedas is of
+two kinds-taking active part in worldly life (pravrtta) and abs­
+taining from worldly acts (nivrtta) .
+
+## 3-5. An act performed for (getting) particular object would
+
+be taking active part in worldly life. Abstaining from worldly
+acts is preceded by true knowledge. The study of the Vedas,
+penance, knowledge, control of senses, non-injury and service
+to the preceptor all confer extreme pleasure. But the knowledge
+of one's own self is the most superior to all.
+
+## 6-7.
+
+It is the leading one among all knowledge. One gets
+ambrosia from that. A learned man who studies his own self
+
+## 1 . A period of four months during which an ascetic has to stay at the
+
+same place.
+
+
+456
+Agni PuraT)IJ
+and sees equally his own self in all beings and all beings
+in his own self attains identification of his own self with the
+brahman. One should make equal efforts in (the acquisition of)
+knowledge about self and in the study of Veda.
+
+## 8-10. This is the same for all the twice-horns and it is spe­
+
+cially (laid down) for brahmins. One who knows the scrip­
+tures and sciences and their import is set for becoming identical
+with brahman even as he is living in this world and remaining
+in different stages of life. The
+commencement of vedic
+study of one's own school should be in the month of srava.T)a (July­
+August) in the (asterism) !ravaT)IJ. (It can also be done) in the
+(asterism) hasta or Monday or fifth day (of the lunar fortnight)
+in the (month) ofSravaᆘa, or in the (asterism) rohi{li in the month
+paÊa (January-February) , or in the ңtaka (the three days 7th
+to 9th) .
+1 1-18.
+The study of Veda should be commenced as laid
+down outside on the banks of a tank. There would be cessation
+of vedic study for three days at the death of the pupil or the
+officiating priest or the preceptor or the relative. So also (there
+would be cessation of vedic study) at the beginning and conclu­
+sion of the vedic study if a person well-versed in one's own branch
+of Vedas (dies) . If there is thunder at the (time of) twilight or a
+hurricane or earthquake or fall of meteor (cessation of study is
+laid down) . Even if the study has been completed and the cease­
+less study has been made in the forest (there would be cessation
+of study) . So also (there would be cessation of study) on the
+fifteenth, fourteenth and eighth days of a lunar fortnight, at the
+time of eclipse (of the sun or moon) , at the junctions of seasons,
+after having dined at a sriiddha and after having received a gift.
+(There would be cessation of study )for a day and night if a hare
+or frog or mongoose or dog or serpent or cat or pig goes in bet­
+ween (the preceptor and the pupil) . It is the same if there is
+lightning or rising of planets. If the sounds of a dog or a jackal
+or ass or owl (are heard) once, five times or six times or at a
+place impure, or associated with a corpse, sudra, or an anrya
+(the fifth caste) , cremation ground or a person fallen from righ­
+teous living, (there is cessation of study) . (So also there is cessa­
+tion of study) in evil asterism, and when there is lightning,
+thunder and floods. (So also there is no study) after eating,
+with wet hands, remaining in waters, at midnight, (and on
+
+
+
+## 1 63. 1 -7
+
+457
+the days when there is) excess ofwind, dust storm, morbid heatᆙ
+the fall of snow and at the time of twilight and while having
+other fears. (So also there is no study) while running or being
+disturbed by animals or when a great person has come home or
+while climbing a mule, camel, vehicle, elephant, horse, boat
+and tree. These are known to be the thirtyseven temporary
+(instances) of cessation of the vedic study.
+
+## CHAPTER ONE HUNDRED AND SIXTYTHREE
+
+Mode of performance of a friiddha
+
+## PÊkara said :
+
+
+## 1 -2. Listen to me. I shall describe the procedure for (the
+
+performance of) annual ceremony that yields enjoyment and
+liberation. After having invited brahmins the previous day,
+they should be welcomed in the afternoon, worshipped and
+seated on the seat. Two (brahmins are invited) in the cere­
+mony intended for gods and one by one in the ceremony intend­
+ed for departed forefathers. They (are made to sit) facing the
+east in the ceremony for the gods. There may be three or one
+(brahmin) in the ceremony for forefathers.
+
+## 3-7. The same (procedure is followed) in regard to the
+
+ceremonies) of the maternal forefathers also. (I shall describe
+the procedure for) the vaisvadeva1• Mter having given (waters)
+for washing hands and kufa
+(grass) for the sake of seat
+and
+having obtained
+permission (from brahmins)
+(all
+gods) should be invoked with the syllables, visvedeviisal;2•
+After having spread the barley then, and pouring water in the
+vessel containingpavitraka (the purifying kusa) with (the syllables)
+sanno deviS and then the barley with (the syllables) yavo'si', the
+
+## 1 . An offering made to gods.
+
+
+## 2.
+
+A.pS. s. 3-10-1 d.
+
+## 3.
+
+RV. h i.9.4a.
+
+## 4.
+
+ApS. s. 7.9. 1 0.
+
+
+458
+Agni Puriir)Q
+libation is placed on the hand with the sacred syllables yii. divyii.1•
+Then, after having offered waters, fragrance, flowers, incense and
+lamp, and shifted the sacred thread to (rest on) the right (shoul­
+der), the forefathers should be circumambulated. The fore­
+fathers should be invoked with the syllables uiantastvii.2 extending
+two kuSa (grass) . Mter having been permitted by them, one
+should recite (the syllable) ii.yantu naŰa.
+
+## 8-15. Sesamum should be used in the place of barley.
+
+Respectful offering of water should be made as before. Mter
+having done it, the remains of libation should be collected
+in a vessel as laid down and the vessel is turned upside down
+with the (syllable) pitrbhyaŰ sthiinamasi'. Then the cooked rice
+covered with ghee should be taken (in hand) and asked, "shall
+I offer it to the fire ?". Being permitted (to do so saying)
+"Do it", one should offer it to the fire as in the ceremony (done)
+for the manes. The remnants of offering should be given with
+devotion in vessels secured according to one's status or especially
+in silver (vessels) . After having offered food the vessel should
+be consecrated with (the sacred syllable) prthivipii.tram5• Then
+the thumb of the brahmin should be placed therein with (the
+recitation of the sacred syllable) idam vҤTJ,uŰ'· After reciting
+gii.yatrF together with the vyahrtis8 and the hymn madhuvii.tiP it
+should be stated " (eat) comfortably". They should also eat
+controlling their speech. They should be served the cooked rice
+and the clarified butter after the repetition of (sacred sylla­
+ble) of purification. Then cooked rice should be taken (and
+shown and enquired) : "Are you satisfied ?". The remaining
+cooked rice should be scattered on the ground and water should
+be sprinkled one by one. The cooked rice (that was scattered)
+should be gathered together with sesamum and as in the case of
+the ceremony for the manes the balls of rice should be offered
+
+## I .
+
+A.pS.S. 22.28.13.
+
+## 2.
+
+ApS.S.8. 14.18.
+
+## 3.
+
+if. iJ yantu na(l V. Sam. 19.58 a.
+
+## 4.
+
+Y.Dh. 1 .234.
+
+## 5. Y.Dh. 1 .237.
+
+
+## 6. Y.Dh. 1 .237. A.p.S. 2-6-1.
+
+
+## 7.
+
+O m bh ilrbhuvassuva(l tatsaviturvare11yarh etc.
+
+## 8.
+
+Om bhil(l etc.
+
+## 9. ApS.S. 16-25-1 . RV. 1-90-6a.
+
+
+
+
+## 1 63. 16-24
+
+459
+remaining facing the south in the proximity of the place where
+the food was eaten (by the brahmins) .
+1 6-20.
+(It is done) in the same way for the maternal fore­
+fathers also. Then water for sipping is offered. Then the words
+.of benediction should be uttered. So also the undecaying
+waters (should be offered) . After having paid fees befitting
+·one's capacity, the syllable svadhii should be pronounced. After­
+having been permitted to say, (the words) svapitrbhyaf.t svadha1
+(svadha to my forefathers) should be said. When (the brahmin)
+says let svadhii be (repeated) , it should be done so. Then water
+should be sprinkled on the ground. Water should be offered
+with the (repetition of the syllables) priyantam2 or visve devaf.t. 8
+After having said "Let our donors, the Vedas and the progeny
+flourish. Let not our earnestness dwindle. Let us have plenty to
+.give"4 and uttering sweet words (the brahmins)should be allow­
+-ed to go. The satisfied manes should be bade adieu after (re­
+peating the sy liable) vaje vaje5
+•
+2 1 -23. The vessel in which the remnants of libation had
+been poured earlier, that vessel of the manes should be made
+upright and the brahmins should be bade adieu after following
+them in such a way as circumambulating. After having eaten
+(remnants of) the food partaken by the forefathers, one should
+-observe continence that night in the company of brahmins.
+After having done the circumambulation of the manes in the
+nandi6 in connection with the impurity caused by the birth of a
+child, they should be worshipped with the balls of barley mixed
+with curd and (fruit of) jujube.
+
+## 24. The ekoddifla1 (ceremony) (is done) without (the wor­
+
+ship of) (Visve )devas. There would be only one libation and
+one purificatory rite. The (offering should be made) in the
+
+## 1 . MS. 1 .6 . 1 .45.
+
+
+## 2.
+
+
+## MS. 1 1 .9.2.
+
+
+## 3.
+
+See p. 457, vv 3-7.
+
+## 4. Y.Dh. 1 .245.
+
+
+## 5.
+
+].tV. 1 .30.7b.
+
+## 6. The ceremony performed in memory of the manes, preliminary to
+
+.any festive occasion such as marriage etc.
+
+## 7. The rite performed for one individual deceased not including other
+
+.ancestors.
+
+
+460
+Agni Puriit)a
+liviihana fire without the instrumental (syllable) with the sacred
+thread lying on the right shoulder.
+
+## 25.. One should say 'let you get up' in place of 'impe­
+
+rishable' and 'may you be satisfied' in place of bidding adieu.
+to the manes (in the former) . They should say "We are satisfied"
+26-27. Four vessels containing fragrant waters and sesamum
+should be kept apart, the vessel of the dead person should be
+sprinkled with (waters) , the waters of libation from the ves­
+sels of the forefathers with the two (sacred syllables) beginning
+with) ye samiinii1• The remaining (acts) should be done as before.
+When this ekoddi! ta2 becomes the sapirp/.ikara1J.a3 (it should be done
+adding the (dead) woman also.
+
+## 28.
+
+If the sapiTJ.r/.ikara1J.a has to be performed for a (dead)
+person within a year (after death) , the food for him should be
+given to a brahmin the whole year together with a vessel filled
+with water.
+
+## 29. The ceremony should be done on the day of death for
+
+every month in a year and should be done for every year as the
+food (offered) every month.
+30-31 .
+(The forefathers would be satisfied for) a month
+with cooked rice and a year with piiyasa (sweet liquid made
+with flour, rice, sago etc. ) . The forefathers get pleased by a
+month more with (the offer of) flesh of the fish, deer, ram, bird,
+sheep, spotted antelope, black antelope, ruru deer, boar and
+hare in the succeeding order.
+32-33. The offer of any one of the following-the flesh of
+a buffalo, of a kind of sea crab, cooked rice with honey, the flesh
+of the red goat, kiilaJiika, the flesh of a rhinoceros while at Gayii
+would (please the manes) immensely. So also (the t'ffer made)
+on the thirteenth day in the asterism of maghii in the rainy season
+(would) no doubt (please the manes) .
+34-35. One who does the (annual) ceremony always makes
+grow the prosperity of his daughter, progeny, attendants, animals,
+chief among the sons, ghee, agriculture, trade, animals-cloven­
+footed and not cloven-footed, sons possessing the lustre of brah-
+
+## 1 . ApS. S. 1 .9. 1 2 a; T. Dh. 1 .253.
+
+
+## 2.
+
+See p. 453 . fn. 7.
+
+## 3. The rite performed to merge the soul of the dead person with the·
+
+ancestors.
+
+
+
+## 163.36-164.7
+
+461
+man, gold, silver and the excellence of the relatives. He will also­
+get his desires fulfilled.
+
+## 36.
+
+The ceremony is to be done on all days from the·
+first lunar day except the fourteenth day. (The ceremony)
+is to be done on that day (fourteenth) for the sake of those who·
+were killed by weapons.
+37-39.
+One who does the ceremony as laid down gets hea­
+ven, progeny, radiance, valour, land, strength, excellence of sons,
+progeny with prosperity, importance, sons, unimpeded sover­
+eignty, trade, lordship, unimpaired health, fame, absence of
+grief, excellent state, wealth, learning, the accomplishment of a.
+physician, silver, cows, small cattle, horses and long life.
+
+## 40-4 I .
+
+(If the ceremony) is done in the asterisms com­
+mencing with Krittikii and ending with bharar;,i one gets all these
+desires fulfilled. The Vasus, Rudras, Adityas, the deities in
+the form of manes get pleased with the men who satisfy the
+manes with (the performance of) ceremony. The forefathers
+being pleased confer on men long life, progeny, wealth, learning,
+heaven, liberation and comforts.
+
+## CHAPTER ONE HUNDRED AND SIXTYFOUR
+
+The propitiatory rite for the planets
+
+## Puģkara said :
+
+I . One should commence the propitiatory rite for the pla­
+nets if one desires for prosperity or appeasement (of planets) or
+rains, long life, or nourishment or exorcising for malevolent
+purpose s .
+
+## 2-3.
+
+Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn,
+Rahu and Ketu (the ascending and descending nodes of Moon
+referred to as planets) are known to be planets.
+(The images
+of) these planets should be made of copper, crystal, red sandal,
+gold, silver, iron and lead respectively.
+
+## 4-7. Otherwise (the images may be made) of gold and wor­
+
+shipped. Or their figures may be drawn in the circles drawn with.
+
+
+462
+Agni PuraT)a
+fragrant materials. The dress and flowers should be offered
+matching their respective colours. Lines made of perfumes and
+guggulu as the incense should be offered. Caru1 should be offered
+to each god along with the sacred syllables (as follows) :ii kriT)ena8
+imam devii3, agnirm ilrddhii diva}_t kakut' and udbudhyasva5 are said
+to be the syllables in order. Brhaspate atiyadarya}_t6, annat parisru­
+,ta}_t7, sam no devi8, kiiT)t/iit9 and ketum /qT)van10 are the (syllables) .
+
+## 8-9. The arka, khadira, apamiirga, pippala, udumbara, !ami,
+
+.durva and kusa are the twigs in order. Each one of these should
+be offered to fire one hundred and eight times or twenty-eight
+times together with honey, clarified butter and curd.
+1 0-12. Rice boiled with coarse sugar, rice boiled with milk
+-or water, cooked food, dish of liquid rice and milk, curd rice,
+ghee, small round cakes made of flour, flesh and rice mixed with
+coconut and other things should be offered to the planets in the
+respective order. A wiseman should feed the brahmins accord­
+ing to one's capacity after having worshipped them as laid down
+according to one's knowledge. Cow, conch, ox, gold, dress,
+horse, black cow, iron and goat are the things to be given as gifts
+in order.
+1 3-14.
+One should worship a planet with great effort if
+that planet remains in a bad house at that time for that person.
+They were blessed by lord Brahma (that they should be) wor­
+shipped (by the people) . The rise and fall of the people are
+·subject to the planets. They are the existence and the non-exis­
+tence of the world. Hence the planets ought to be worshipped.
+
+## 1 . An oblation of rice, barley and pulse boiled.
+
+
+## 2.
+
+Y.Dh. 1 .299.
+
+## 3. Y.Dh. 1 .299.
+
+
+## 4. AJ>s. s. 5.28.1 1 .
+
+
+## 5. AJ>s. s . 3.13. 1 .
+
+
+## 6. AJ>s.
+
+s.
+
+## 1 7.21 .7.
+
+
+## 7. V. Sam. 19.75a.
+
+
+## 8. Y.Dh. 1 .300. RV. 10.9.4a • • .
+
+
+## 9. AJ>s. s. 16.24.1.
+
+
+## 10.
+
+APS. s. 20. 16.3. RV. 1 .6.3a.
+
+
+463
+
+## CHAPTER ONE HUNDRED AND SIXTYFIVE
+
+Code of conduct
+
+## Fire-god said :
+
+I . One should contemplate the soul, the lord that remains
+in the heart like a lamp, having his mind, intellect, memory
+and the senses not resting on any other object.
+
+## 2.
+
+One should give things got from a cow, curd, ghee, and
+milk. Saffron, masilra (a kind of pulse) , viirtiiku (egg-plant)
+and kodrava (a species of grain) should not (be given) .
+
+## 3 . When the son of Simhikii (Ketu) swallows the Sun (that
+
+is, there is an eclipse of the Sun due to the descending node of
+the Moon) at the junctions of the lunar fortnights, it is known
+to be hasticchiiyii. The ceremony and gift made then (yield)
+undiminishing (benefits) .
+
+## 4. When the Moon is in (the asterism) paitrya (maghii)
+
+and Sun in (the asterism) kara (hasta) , the day is known as
+Vaivasvati and the shadow is that of kuiijara.
+
+## 5.
+
+The remnant of that offered unto the fire should not be
+given in the (rite of) vaisvadeva. The fees should be paid on the
+hand of the brahmin in the absence of fire.
+
+## 6-9. A woman is not defiled by a paramour and also a
+
+brahmin (who has defaulted) from vedic rites. A woman en­
+joyed by employing force or fallen into the hands of an enemy
+should be abandoned. She becomes pure
+after the menstrual
+period. Earlier, women were enjoyed by the celestials such as
+the Moon, Gandharvas and Fire. The men enjoy them later.
+(Hence) they do not get defiled by any one.
+If a woman is.
+impregnated by one not belonging to the same
+caste, that
+woman becomes impure till the extraneous matter is not dis­
+charged. When the extraneous matter had come out, she then
+becomes pure by her menstrual flow.
+10-12. Whoever does not see another as different from
+his
+own self, becomes here the brahman itself. One who re­
+joic es in his own self is (said to be) free from impurity. Some
+describe
+union as the union of objects and senses. Verily
+unrighteousness has been taken as righteous view by those igno­
+rant (people) . Others (say) that the union of the soul and mind
+as the union.
+
+
+464
+Agni PuriiT)a
+
+## 1 3.
+
+After having restrained the mental activity and unify­
+ing one's soul with the Supreme Being, one gets released from
+bondage. This union (is said to be) the outstanding one.
+
+## 14. It is a ᆚollection of five family members. The sixth one
+
+is extremely great. It cannot be conquered by the celestials or
+demons or mortals.
+
+## 15. All those (the senses) which look externally should be
+
+made (to look) inward. The collection of senses (should lie)
+in the mind. The mind should be united in the soul.
+
+## 16. One's soul that is free from all feelings should be
+
+fixed in the brahman. This is the knowledge and meditation.
+Everything else that remains would be elaborating the text.
+
+## 1 7.
+
+That matter which (one thinks) as non-existent in all
+the worlds is spoken to be as present. That which is spoken (as
+being present) does not remain in the heart of another (other
+than a yogi) .
+
+## 18. As a virgin (does not know) the happiness of a woman
+
+so also that brahman is really unknowable. One who is not a
+yogin never knows it just as a born-blind person (does not know)
+the pot.
+
+## 19. Having seen a renouncing brahmin, the Sun moves
+
+from his position (thinking that) "This person would pierce my
+orb and reach the Supreme Brahman".
+
+## 20.
+
+(One would get as) a fruit of that what one would get
+by fasting, vow, bathing, sacred spots, the fruit of penance and
+the gaining of a brahmin.
+
+## 2 1 . Supreme Brahman is the single letter. The control of
+
+breath is the supreme penance. There is nothing more purifying
+than the (sacred syllable) Savitri (addressed to the Sun-god) .
+
+## 22. One who eats even from an outcaste would get pure
+
+by contemplation. The meditator is the soul, the meditation
+is the mind, the object of meditation is lord Vigm and the
+fruit is lord Hari.
+23-28. Just as the Panktipiivana1 purifies in a ceremony so
+also the ascetic (gets) imperishable worlds (for others) . I do
+not find an atonement that purifies a brahmin if he slips after
+entering the state of abstinence. He is the killer of (his) soul.
+
+## 1 . One who purifies a party of diners by his presence. He would be a
+
+learned person and follower of codes of conduct.
+
+
+
+## 166. 1-7
+
+465
+Those who are the progenitors through their wives after having
+renounced,
+(their progeny)
+become
+outcastes known as
+hindulii. There is no doubt. An eagle dies after hundred (years) .
+A dog (lives) for twelve (years) . A vulture (lives) for twenty
+years. Then the pig (dies) after ten (years) . A tree without
+flowers becomes fruitless and is surrounded by thorns. Then
+having been burnt by forest fire it becomes a dry trunk on a
+peak. Then it remains a lifeless matter for eight hundred years.
+After one thousand years are over it becomes a brahmariik:asa
+(spirit of a brahmin indulging in sinful deeds) . One gets libe­
+ration from this either by deluge or the annihilation of the
+family. One should always resort to (the practice of) yoga.
+There is no other sacred syllable that removes sin.
+
+## CHAPTER ONE HUNDRED AND SIXTYSIX
+
+Duties of different castes
+
+## PÛkara said :
+
+1 -,5.
+I shall describe the codes of conduct (laid down)
+by the scriptures and codes of law. (The codes of conduct)
+are of five kinds. That is known to be the codes of conduct
+of the castes in which the authority rests on the caste alone. A
+thing that is laid down resting on the stages of life is said to be
+the code of conduct of the stages of life. The codes of (the
+above) both which are made prevalent by a motive is known to
+be naimittika (occasional or produced by a cause) like the codes
+of atonement. 0 King ! the student, the householder, the
+forester and an ascetic are said to be the codes of conduct of
+stages of life. The fourth one is the practical code and the fifth
+one is the metaphysical code. It is said to be the practical
+code which has its say in the six qualities.
+
+## 6. This is of three kinds. According to Manu mantra (mystic
+
+syllable) and yiiga sacrifice (are) metaphysical codes. Those
+which belong to the two classes are justice and administration
+of justice.
+
+## 7. Even for the same kind of things it is said that there would
+
+
+
+466
+Agni Puriirpr
+be option due toyiiga (sacrifice) . The same duty is laid down in
+the codes also as in the scriptures.
+
+## 8. Followers of Manu (declare) that the code brings forth
+
+repetition for the purpose of the work undertaken. Otherwise
+the repetition is specially for the quality of limitation.
+
+## 9.
+
+Followers of Manu (state) that this (repetition) is only
+a special practical code for the result. One would reach the
+world of Brahma by doing the forty-eight purificatory rites.
+10-19.
+(They are) the impregnation!, causing the birth
+of a male child2, the parting of the hair3, rites done at the birth
+of a child, naming the child, the first rice-feeding of the child'
+the tonsure5, investiture of the sacred thread, the collection of
+four vedic observances-the completion of one's studies, marri­
+age, the collection of five devotional acts-towards the gods,
+manes, mortals, beings and
+sages, seven simple domestic
+sacrifices-the aflakii and parvaT)asriiddha, sriivaT)i, agrahiiyaT)i,
+caitri, and iisvayuji, then the haviryajiias (such as) the agnyiidheya,
+agnihotra, darsapauTT)amiisa, ciiturmiisya, iigrahiiyaT)yefti, niru¢ha­
+pasubandhaka and the sautriimaT)i, the seven somasarhsthiis-com­
+mencing with agniftoma-atyagniftoma, uktha, fo¢asi, viijapeyaka,
+atiriitra etc. and the eight basic human qualities-compassion,
+forbearance, freedom from malice, absence of exertion, propitia­
+tion,charity and absence of desire. Whoever possesses these attains
+the supreme. One should observe silence in the six (acts)­
+evacuation of bowels, copulation, passing urine, cleaning the
+teeth, bathing and
+eating. One should avoid making a
+gift again (of an article received as a gift) drinking separately
+the ghee and milk in the night, removal of teeth and hotness in
+the seven (kinds of) flours. One should not gather flowers
+without bathing. It is said to be unfit for the (worship of) gods.
+
+## 20.
+
+If a person not belonging to the same gotra and not
+related does the cremation of a dead person, he has to complete
+ten day rites by offering balls of rice and water.
+
+## 1 . Is done when the conception is known.
+
+
+## 2.
+
+Is done before the embryo begins to move.
+
+## 3.
+
+Is done in the eighth month after pregnancy.
+
+## 4.
+
+Is done in the six months after the birth of a child.
+
+## 5.
+
+Is done in the third y ear of a child.
+
+
+
+## 1 66.2 1 - 1 67. 1 -7
+
+467
+
+## 2 1 .
+
+If one has to dine with unequal persons there is no defi­
+ling of the row if (the two) are separated by water or grass or
+ashes or door or pathway.
+
+## 22. The five oblations to the (five breaths) (at the com­
+
+mencement of taking food) should be done with the union of
+the ring-finger and the thumb.
+
+## CHAPTER ONE HUNDRED AND SIXTYSEVEN
+
+Propitiatory rite for the planets
+
+## Fire-god said :
+
+I . I shall again describe (the mode of performing) the
+propitiation of the planets for the sake of prosperity, peace and
+success. The propitiation of planets is of three kinds-oblations
+ten thousand times, lakh times and crore times.
+
+## 2-7.
+
+After having invoked planets in a circle at the
+north-east of the fire-pit with the sacred syllables, Jupiter (should
+be located) at the north (of that circle), Mercury at the north­
+east, Venus at the east, Moon at the south-east, Mars at the south
+and the Sun in the middle. Saturn (should be located) at the
+west, Rahu, the ascending node at the south-west and Ketu,
+the descending node at the north-west. ISa (lord Siva), Uma,
+Guha, Vigm, Brahma, Indra, Yama (god of death), Kalaka
+and Citragupta1 are the presiding deities (of the places where
+the planets have been located) . The fire, water, earth, Hari
+(lord ViᆇI}.u) , Indra, the presiding deity of the east, Prajesa
+(the lord of men) , Serpent (god) and Brahma are the subordi­
+nate deities respectively. Gal}.esa, Durga (the consort of Siva),
+wind, sky and ASvini gods (are also the gods) . They should be
+worshipped with their respective basic vedic syllables. The
+twigs of arka, paliisa, khadira, apiimiirga, pippala, udumbara, sami,
+d ilrvii and kusa should duly be offered in the fire mixed with honey,
+clarified butter and curd one hundred and eight times.
+I . An inmate of the world of Yama recording the vices and virtues of
+mankind.
+
+
+468
+Agni PuribJ,a
+
+## 8.
+
+Mter having filled one, eight and four pitchers, the final
+oblation (should be made) . Then the vasordhiirii1 should be offer­
+ed and the fees paid.
+
+## 9-10. The sacrificer should be anointed with (the waters
+
+of) the four (pitchers) along with sacred syllables. (The follow­
+ing benediction should be made )-"May the celestials-Brahma,
+Vigm, Mahdvara, Vasudeva, Jagannatha, lord SaiikaqaJ}.a
+Pradyumna and Aniruddha be for your victory."
+1 1 -13. May Indra, Fire-god, Yama, Nairrta, Varul}.a,
+Pavana (wind) , Kubera (lord of wealth) , Siva, Seᆆa (the lord
+of serpents) along with Brahma and the gods of the directions
+always protect you all. May the (divine) mothers, the chaste
+wives Kirti, Lak::;mi, Dhrti, Medha, Puᆇti, Sraddha, Kriya,
+Mati, Buddhi, Lajja, Vapus, Santi, Tuᆇti and Kanti who have
+gathered here anoint you.
+
+## 14.
+
+The planets Sun, Moon, Mars, Mercury, Jupiter,
+Venus, Saturn, Rahu and Ketu, who have been appeased,
+anoint you.
+1 5-18.
+May the celestials, demons, gandharvas, yak!as, riik­
+!asas, serpents, sages, Manus, cows, the divine mothers, the wives
+of gods, trees, serpents, progeny of Diti, heavenly nymphs,
+attendant gods, weapons, scriptures, kings, vehicles, herbs,
+gems, the constituents of time, rivers, oceans, mountains, holy
+waters (places) , clouds and the west-flowing rivers all these
+anoint you for the attainment of all desires. Mter having
+adorned, one should then give gold, cow, food, earth etc.
+
+## 19. 0 Rohil}.i ! The Tawny-coloured ! You are to be
+
+worshipped by all gods and hence you are made up of all holy
+spots and gods. Hence you give me tranquillity.
+
+## 20. 0 Conch ! You are the meritorious among all merits,
+
+auspicious among all auspiciousness. You are borne by lord
+ViᆇJ}.u always. Hence (you) give me tranquillity.
+
+## 21 .
+
+0 Righteousness ! You make the universe rejoice in
+the form of the bull. You are the location of eight forms.•
+Hence you give me tranquillity.
+
+## 1 . A profuse oblation of ghee offered in the fire through a long bamboo
+
+o r plough.
+
+## 2. Relating to Siva1 Ǹeing the fiv̄ ǹ1eǺe11ts1 SWl! moon and the sacrificer.
+
+
+
+
+## 1 67.22-4 1
+
+469
+
+## 22.
+
+0 Golden embryo of the Fire god or Sun that is lying
+imbedded inside the golden egg ! You give me appeasement
+that yields limitless meritorious fruits.
+
+## 23.
+
+The pair of yellow cloth is the favourite of lord
+Vasudeva. Hence lord Viᆛl).U (would be pleased) by making
+a gift of the same. Hence give me tranquillity.
+
+## 24. You are lord Viᆛl).U in the form of Fish from which
+
+the nectar has come. You have the moon and the sun as the
+vehicle always. Hence you get me tranquillity.
+
+## 25.
+
+0 Cow of the colour of (lord) Kesava (Viᆏl).u) , on
+account of the fact that you are the entire earth that always
+removes the sin, you give me tranquillity.
+
+## 26.
+
+(0 Iron) On account of (the fact that) all deeds
+as well as weapons such as the plough are always subject to
+your control, you get me tranquillity.
+
+## 27.
+
+On account of (the fact that) you are always the origin
+of fire and remain as a constituent of all sacrifices, you get me
+l:ranquilli ty.
+
+## 28.
+
+Because the fourteen worlds remain in the limbs of the
+cow, let me have good in this world as well as in the next.
+
+## 29. On account of the fact that the beds of Kesava and
+
+Siva are not empty let my bed also be not empty in every birth
+being given (now).
+
+## 30. Just as the celestials are established in all gems so
+
+also let the celestials get me tranquillity by my gift of gems.
+
+## 3 1 . Just as the other gifts are not equal to one-sixteenth
+
+(of the merit) of making a gift of land, may I have peace by the
+gift of the land.
+32-41 .
+(The performance of)
+sacrifice
+(to
+appease)
+the planets with ten thousand oblations with the payment of
+the fee (secures) victory in battle. At the time of marriage,
+festivities, sacrifices, rites for the installation and for the fulfilment
+of desires, it is said (that one should do) the two-the obla­
+tions a lakh times and crore times. In the (oblation) ten thou­
+sand times a pit of one cubit length and another pit having a
+girdle and hole (should be made ready) at (the exact spot for
+building) the house and pavilion. (There should be) four
+sacrificial priests. In the (oblation for a) lakh times there may
+
+
+470
+Agni PurlitJ.a
+be the self alone. These are ten times meritorious. (The pit may
+be a square of) four cubits or two cubits (long) . Here Tarkᆠya
+(the bird vehicle of lord ViᆠQu) should be worshipped more.
+(He should be addressed as) "You are the vehicle of highly
+adorable god and your body is composed of the sound of siiman
+(melodies) . You are always the remover of things. Hence you
+get me tranquillity. As before the sacrificial pit should be sancti­
+fied and the oblation lakh times performed. The vasordhiirii1
+should be given then. (Then) bed, ornaments and other things
+should be offered (as gift) . There may be ten or eight sacrificial
+priests in the performance of oblations lakh times. (By the
+performance of this) one would get sons, food, kingdom, con­
+quest, enjoyment and liberation. One who performs oblation
+a crore times after mak ing different gifts, would kill his enemy
+as a result of it. The sacrificial pit (may be a square) of four or
+eight cubits and there may be twelve sacrificial priests. (There
+may be) twentyfive or sixteen (priests) and four (? ) 2 on a cloth
+at the entrance. One who does oblation crore times gets the'
+desired things and reaches the world of lord ViᆠQu. The
+oblation (may be done) with the sacred syllables of planets,
+or the giiyatri or those of ViᆗQu, or those addressed to the fire
+god or those of Siva or the well-known vedic (hymns) . One
+gets the benefit of (doing) asvamedha (sacrifice)
+by (making
+oblations with) sesamum, barley, ghee and grains.
+42-44.
+(In the oblations intended) to cause enmity or
+sorcery the sacrificial pit should be a triangular one. The twigs
+(should be offered) with the left hand together with bones
+of the eagle and fire by (those) who contemplate evil for their
+enemy and who have red dress and untied hair. "Let the person
+who hates have enemies. Hum phal''. This is the (sacred syllable) .
+The image (of the enemy) made of flour should be cut with
+a knife and the enemy should be killed. Or one ball of rice should
+be offered. One who does so would go to heaven.
+
+## I .
+
+See p . 468 fn, I .
+
+## 2.
+
+The text i s cryptic, The exact sign9fican,c:; i s not known.
+
+
+
+## 168. 1 . 1 1
+
+471
+CHAPTER O.:'fE HUNDRED AND SIXTYEIGHT
+Kinds of major sins
+
+## PÊkara said :
+
+
+## I .
+
+The king should punish the men who do not perform
+atonement
+(for their own misdeeds ) . One
+should perform
+atonement (irrespective of the fact that the misdeed was done)
+with one's wilful desire or not.
+
+## 2.
+
+One should never eat (food ) from intoxicated, angry
+and sick men. (One should not eat food ) touched by great sinners
+and that touched by a woman in her courses.
+
+## 3-9.
+
+(One should) also (not take ) food (prepared ) for a
+group of persons, food from the courtezan, an usurer, a singer, a
+cursed person, an eunuch, a (woman) having a paramour in the
+house, a washerman, a noxious person, a panegyrist, a cheat, a false
+ascetic, a thief, one who has undergone a punishment, one who
+is born to an adulterine, one who is born to a widow, one who is
+controlled by a woman, one who sells scriptures, an actor,
+a weaver, and food from an ungrateful person. One should avoid
+food from the blacksmith, hunter, washerman of sarees, falsely
+renounced person, a harlot, an oilman, one who had ridden (on a
+horse etc. ) and fallen and one's enemies. So also (one should
+not eat food) from a brahmin, being not invited by that brah­
+min. So also a sildra should not eat food from a brahmin even if
+invited.
+If one happens to eat unknowingly from the other
+among these, one has to fast for three days. After having eaten
+knowingly one should observe the krcchra.1 One who had eaten
+food from a CaQ.<;iala and svapaca and the semen, feces and urine,
+should
+observe
+the ciindriiyarJ.a. 2
+10-11.
+One should observe taptakrcchra after having eaten
+food within ten days of pollution, food intended for the dead or
+that is smelt by a cow or the remnant of that eaten by a siidra
+or a dog and the food from a fallen person. (When the food has
+been taken) at the time of pollution one should observe krcchra.
+Whoever eats food from a person having pollution also becomes
+impure.
+
+## 1 . A simple expiation of fasting etc.
+
+
+## 2.
+
+Fast regulated according to the phases of the moon.
+
+
+472
+Agtii PurliTJ.a
+
+## 1 2.
+
+An excellent bralunin who had drunk water from
+a
+well into which a five-nailed dead animal (had fallen ) or con­
+taining feces, should observe fast for three days.
+1 3-2 1 . In all the cases the sildra, vaifya and bhilmipa (the
+ruling class) (would have fasting) one fourth, half and three­
+fourth (of days prescribed for the brahmins ) . A bralunin who
+has partaken the urine and excreta of a bird, boar, mule, camel,
+jackal, monkey and crow should observe cii.ndraya7Ja.1 One gets
+purified by (observing) taptakrcchra2 after having eaten dry flesh,
+food (intended) for the dead, (flesh of) karaka (a species
+of
+bird) (and also after eating the flesh) of a carnivorous animal,
+boar, camel, jackal, monkey, crow, cow, man, horse (and)
+camel and after having eaten mushroom, the village cock as
+well as the flesh of an elephant. So also a brahmacii.ri having
+eaten at the ii.ma1raddha3
+and consumed honey or garlic or
+onion etc. get purified by (doing) prii.jii.par;ya' etc. So also one
+should do cii.ndrii.ya1)a6 after having eaten flesh made ready (cook­
+ed) by himself. So also pelugavya6 and
+peyilPa7 which cause
+excess of phlegm and vrta-krsarasamyii.va8, pii.yasa9, cakes, fried
+eatables made of flour, flesh of animal not prepared for a sacri­
+fice, food intended for the gods, oblations and all (kinds of)
+milks except (those) of cows, she-buffaloes and goats are prohi­
+bited as well as their waters ten days old. The hare, porcupine,
+godhii. (a kind of an alligator) , rhinoceros and tortoise are (those
+among) the (animals having) five nails (whose flesh) could be
+eaten. The remaining ones are prohibited. One may eat fish
+such as the pii.Jhina (a kind of sheat-fish) , rohita and lion-faced
+fish.
+
+## 1 . See note 2 on p. 47 1 .
+
+
+## 2 . Drinking water with milk and ghee once in three days for
+
+twelve
+days .
+
+## 3.
+
+An ancestral rite in which uncooked food is offered.
+
+## 4. A kmd of fast for 12 days, eating food in the morning for the first
+
+three dayÝ, in the evening for the next three days, only if given as alms the next
+three days and a plenary fast the rest of the days.
+
+## 5.
+
+See note 2 on p. 47 1 above.
+
+## 6. The exact meaning is not known.
+
+
+## 7.
+
+The milk of the cow within seven dayÝ after calving.
+
+## 8.
+
+Food consisting of wheat flour, rice and sesamum not prepared for
+any religious purpose.
+
+## 9.
+
+Rice boiled with milk or sugar.
+
+
+
+## 168.22-40
+
+413
+22-23.
+(Having eaten) all (eatables) made of barley and
+wheat and (all) transformations of milk, vagatadgavacakra (?)
+and others, that which is oily and (the food) kept overnight, a
+bralunin should do the agnihotral, kindle the fire and as desired
+observe candrayat}a2 for a month. The posture of virasana3 is said
+to be conducive.
+24-25.
+The killing of a brahmin, drinking of wine, stealing
+and copulating with preceptor's wife are s aid to be great sins.
+The association with them, pleasure in untruth, miserliness in
+a king, speaking ill of the preceptor are equivalent to the killing
+of a bralunin.
+
+## 26.
+
+Neglecting the Vedas, censuring the Vedas, bearing false
+witness, killing of a friend, eating forbidden food and clarified
+butter are the six equivalents to the drinking of wine.
+
+## 27.
+
+The stealing of
+the entrusted such as a man, horse,
+silver, land, gems like diamond are remembered to be equiva­
+lent to the stealing of gold.
+
+## 28.
+
+Cohabiting with consanguineous girls, (women) of low
+caste, wife etc. of the son of a friend are known to be equivalent
+to cohabiting with the wife of the preceptor.
+29-40.
+Killing of a cow, doing a
+sacrifice for an outcaste,
+adultery, selling oneself, forsaking the preceptor, mother, and
+father as well as one's vedic study, the fire-worship and the son,
+marrying before the marriage of one's elder brother, getting one's
+daughter married to a person whose elder brother is unmarried,
+conducting a sacrifice for them,seducing a girl, practising usury,
+breaking of a vow, selling a tank, garden, wife and son, becom­
+ing an outcaste by the non-performance of the religious rites,
+forsaking the relatives, teaching the servant taking instruction.
+from a servant, selling of things prohibited for sale, exercising
+control over all the mines, instituting a potent amulet,
+destroy­
+ing herbs, living by means of a woman, disregarding one's work,
+felling of unwithered trees for fuel, taking many wives, associating
+with those who despise women, commencing some action for the
+benefit of one's own self, eating of censured food, not invoking the
+I . A daily oblation to the fire,
+
+## 2.
+
+See note 2 on p. 47 1 .
+S . Posture of squatting on the thighs, the lower leg being crossed over
+each other,
+
+
+474
+Agni Purd1J4
+sacrificial fires, indulging in stealing, not discharging the debts,
+studying of false scriptures, bad conduct, (doing) deeds harmful
+(to others), stealing grains, metal and cow, cohabiting woman
+fond of drinking, killing a woman, a sfldra, a vai.fya, or a k:atriya
+and atheism are all minor sins. Causing injury to a brahmin,
+the act of smelling something that should not be smelt or the
+wine, deceitfulness, and cohabiting with men are known to be
+the acts to make one an outcaste. The killing of a dog, mule,
+camel, lion, goat, ewe, fish, snake and mongoose are known to
+be sanki1'T)akara7Ja (mixed acts) . Getting money from the defa­
+med, doing trade, serving a sfldra, and speaking untruth are
+known to be apatrikaraT)a (doing unworthy acts ) . The killing of
+insects, worms and birds, taking food followed by drinking wine,
+stealing fruits, fuel and flowers and cowardice are also defiling
+(acts) .
+
+## CHAPTER ONE HUNDRED AND SIXTYNINE
+
+Atonements for various offences
+
+## PU!kara said :
+
+
+## 1 -4.
+
+(I ) shall describe the atonements for the sins described
+so far. A killer of a brahmin should live in a forest for twelve
+years in a hut. For the sake of one's purity one should seek alms
+carrying the skull of the dead person on a staff. Or one should
+throw oneself in the kindled fire thrice with head downwards.
+Otherwise one should do the a§vamedha, svarjit or gosava. Or one
+should recite one of the Vedas and walk one hundred yojanas1•
+Otherwise one should give away all (his wealth) to a brahmin,
+learned in the Vedas. The impurity due to the great sins gets
+destroyed by these observances.
+
+## 5-10. One who is possessed of minor sins (such as) killer
+
+of the cow should drink (only water along with) barley. Mter
+having had a shave he should live in the cowshed covering
+himself with the hide of that (cow killed by him) . He should
+
+## 1 . Ayojana is equal to eight or nine miles.
+
+
+
+
+## 1 69. 1 1-18
+
+475
+eat a little without alkaline things and salt in the fourth part
+(of the day ) . He should bathe in cow's urine for two months
+controlling his senses. He should follow the cows during the day
+and consume the dust rising (from their feet) standing with
+raised (face) . Mter having taken and observing a vow, he
+should make a gift of eleven bulls and a cow. In the absence of
+these one should make a gift of all his possessions to those learned
+in the scriptures. Having caused obstruction to the movement
+(of a cow ) one should do a fourth (of the above atonements )
+and two-fourth if (he had) kept
+(the animal) bound. It would
+be a fourth less (i.e., three-fourth) if yoked and in full if (a cow)
+has been killed. If some mishap has
+occurred (to the cow )
+in the forests, mountains, inaccessible (terrain) and
+(due to )
+sickness, one fourth (of the atonement) is laid. 1f it dies on acco­
+unt of the tying of the bell or ornament, half the above (atone­
+ment) should be prescribed.
+
+## 1 1 . A quarter less (of the above expiation) should be ob­
+
+served if (the cow or ox) dies on account of taming (goading)
+or chaining or confining or yoking to a cart or (while being tied)
+to the pillar, chain or rope.
+12-15.
+When the horn or the bone (of a cow) has been
+broken or the tail has been cut off, one has to drink barley (water)
+till the cow becomes healthy. One should
+repeat the gomati­
+vidyri and the hymn on the cow and contemplate on the gomati
+(viqva) . If a herd of cows has been killed accidently, one fourth
+(atonement) should be practised separately for every killing.
+There will not be any sin if any mishap occurs when some help
+is rendered
+(with good intention) . Those subject to minor
+sins except those who have violated the vow of continence should
+observe this vow or the ciindriiyaT)a.
+16-18.
+One who has broken the vow of continence should
+worship Nirrti in the night at the cross-road with the perform­
+ance of pakayajiia (a domestic sacrifice) with a black ass. After
+having kindled the fire as laid down, a wiseman should offer
+oblation to the Moon, Indra, Jupiter, Fire-god and others with
+twigs, vedic hymns and clarified butter. Otherwise one should
+wear the hide of an ass and roam about in the world. One should
+l . A vedic hymn _to be repeated while observing an expiation for having
+killed a cow.
+
+
+476
+Agni Purdt}a
+observe the vow for killing a brahmin after having killed an ass
+unknowingly.
+
+## 19.
+
+Having drunk wine, through ignorance, a bralunin
+should drink wine of the colour of fire, or cow's urine of the
+colour of fire or water alone.
+20-2 1 . A bralunin, who has stolen gold should approach
+the king and confess his act and say, "Let you punish me" .
+The king should take the club and kill with one stroke the person
+who had himself come. The expiation for the thief is by death.
+A bralunin (gets purified ) by doing penance.
+22-24.
+Having violated one's preceptor's bed, one should
+cut off the penis and testicles himself, hold (them) in the folded
+palms and move towards the south-west until he does not fall
+down. Then he should observe ciindriiyaT)a for three months con­
+trolling his senses. Mter having done wilfully one of the acts
+making one an outcaste, one should practise the siintapana1•
+The expiation (known as ) the priijiipatya (is laid down for the
+same done) unwillingly. For acts causing mixture of castes,
+the expiation of ciindriiyQT)a (should be observed ) for a month.
+25-29.
+For acts which defile one (drinking of) boiled barley
+(water) for three days would be (the expiation) . A fourth part
+(of the expiation) for the killing of a bralunin is prescribed for
+killing of a warrior class, an eighth part (for killing) a trades­
+man and a sixteenth part (for killing) the fourth class. Having
+killed a cat, a mongoose, a blue jay, a frog, a dog, godhii (a kind of
+allegator) , an owl, and a crow one should practise the expiation
+as for killing the siidra. For having killed an unsteady woman
+belonging to any one of the four castes and for having killed a
+woman
+unintentionally one should observe the expiation as
+for killing the fourth class. Doing breath-control is the expiation
+for killing all (beings ) not having bones. One should practise
+the expiation siintapana for having stolen things of little value from
+another's house. One becomes pure after completing the vow.
+
+## 30.
+
+The five products got from a cow are the purification
+
+## 1 . The expiation in which cow's urine, cowdung, milk, curd, clarified
+
+butter or water with kuJa is taken and fasting is observed for one night.
+
+
+
+## 169.31-41
+
+4"/7
+for the stealing of eatables, food, vehicle, bed, seat, flowers,
+roots and fruits.
+
+## 3 1 .
+
+Fasting for three nights would be (the expiation) for
+(having stolen) grass, log of wood, tree, rice in the husk, molas­
+ses, saree, hide and flesh.
+
+## 32.
+
+One should be eating a small quantity of food for twelve
+days (having stolen) gems, pearls, corals, copper and silver.
+
+## 33.
+
+(One who had stolen) the cotton or silk or woollen rope
+of cloven-hoofed or whole-hoofed (animal ) , a bird, perfume and
+herb (shall take ) only milk for three days.
+
+## 34.
+
+One who had
+cohabited with a woman related by
+blood or with the woman, or daughter of the son of a friend as
+well as a woman belonging to the low caste should practise the
+expiation for that of violating the bed of his preceptor.
+
+## 35.
+
+One should practise ciindrilyal)a for having
+cohabited
+father's sister's daughter,
+(one's) sister, mother's sister's dau­
+ghter or (the daughter) of mother's brother or a friend.
+
+## 36.
+
+One should practise the krcchra siintapana for
+having
+(emitted semen) in an unnatural way or (having gone)
+to a
+menses woman or having emitted semen in the water.
+
+## 37. A brahmin who had intercourse with a woman in the
+
+bullock-cart or in the water or during the day should bathe
+together with his dress.
+
+## 38. A brahmin cohabiting a woman of the carp/.iila or the
+
+low caste and having eaten (food therein ) and having received
+a gift (from them) unknowingly gets defiled. But (done ) know­
+ingly becomes in par (with them) .
+
+## 39.
+
+The husband should keep the woman defiled by a brah­
+min confined in a room. That which a male should
+observe
+for having cohabited other's wives, the same vow should be
+made to be practised by her.
+
+## 40.
+
+If she is defiled again being advised by a person of the
+same (character) , only krcchra ciindriiyaiJa is remembered to be
+the purification for her.
+
+## 41 .
+
+That which a brahmin does in one night by resorting
+to a low-caste woman, gets rid of it by eating only that collected
+
+
+478
+Agni Purat)a
+as alms and by repeating (the sacred syllables ) daily for three
+years.
+
+## CHAPTER ONE HUNDRED AND SEVENTY
+
+The description of expiations for association with major sinners
+
+## PUikara said :
+
+
+## I . I
+
+shall
+describe
+the
+expiations
+(to be practised )
+by those who associate with major sinners. A man having asso­
+ciated with a degraded person
+for a year would himself be
+degraded.
+
+## 2-3.
+
+A person who officiates as a priest or teaches or has
+marital relationship or travels in the same vehicle or eats together
+or shares a seat and has thus association with a degraded person
+should do that vow (relating to that act )
+for the purification
+from such an association. The water of libation should be offer­
+ed (for that person ) in the company of sapirpf,as1 and relatives.
+
+## 4-9.
+
+On the day of degradation, a servant (of that person )
+should throw around a pot with water in the presence of the
+relatives, priest and preceptor at evening (time ) as if he was
+dead. One should fast the whole day and observe pollution along
+with the relatives. (The relatives ) should cease to talk with him
+and seize the share (of the paternal property ) as the eldest.
+The share of the property as the eldest would be got by the youn­
+ger brother excelling him in moral qualities. After the expiation
+has been done (the relatives) should bathe in the sacred waters
+of a tank and fill a new pot with water and drink water along
+with the degraded person. The same procedure has to be follow­
+ed in the case of degraded women also. They should be supp­
+lied with dress, food and drinks and they should live near the
+houses (of
+their husbands ) . The hymn of Savitri2 of those
+brahmins (who officiate as priests for the degraded ) become
+degenerated. (A brahmin who ) has officiated so should practise
+
+## 1 .
+
+Those eligible to have the same rice-ball offering.
+
+## 2.
+
+The giiyatri mtmtra is called so as it is addressed to the Sun god.
+
+
+
+## 1 70. 1 0- 1 9
+
+479
+three krcchra1 (observances) and as laid down should be invest­
+ed with the brahminhood. (Those brahmins)
+who do
+not
+practise the rites eᆜoined on them become outcastes and the
+same procedure is to be prescribed also for them.
+
+## 1 0.
+
+One gets free (from the sin) of accepting a gift from a
+vile person by repeating the savitri (mantra) for three thousand
+times and drinking milk at the cow-shed for a month.
+
+## 1 1 . For having forsaken a person who had sought refuge
+
+and having violated the Veda, a brahmin gets rid of that sin by
+taking limited food for a month.
+
+## 12. One who has been bitten by a dog, jackal, mule or carni­
+
+vorous village animals, or a man, camel or horse or pig gets pure
+by doing priiT)iiyiima.
+1 3-19. In the (case of) breaking the vow of sniitaka2 and
+neglecting) his duty (one should) fast. Having uttered the
+syllable of hum to a brahmin and (having made) familiar address
+to the elder, one should bathe and abstain from food the rest of
+the day and appease (the offended person) after prostration.
+One should practise krcchra and atikrcchra3 respectively for having
+assaulted and assaulted fatally (a brahmin) . One should observe
+krcchrati-krcchra4 for having caused blood to come out from a
+. brahmin. If a CiiTJ¢iila and others happen to stand at the house
+(of a person) unknowingly, purification should be done from
+the time it was known explicitly, CandriiyaT)a or pariika5 are the
+purificatory (rites) for a brahmin. Priijapatya is (laid down for
+the fourth class of men. The rest follow this. If the jaggery or
+flower (safflower) or salt or grains etc. (get polluted) they should
+be kept in the house and at the entrance and they should be put
+into the fire. It is laid down that (the polluted) earthen vessel
+should be discarded.
+
+## 1.
+
+Consists of taking urine or dung or milk or curd or butter of a cow
+or the kuia immersed water and fasting for a night.
+
+## 2.
+
+The observance marking the completion of one's study.
+
+## 3.
+
+A kind of severe penance to be finished in 1 2 nights.
+
+## 4.
+
+Eating for nine days the quantity of water one can hold in the hand
+and fasting for three days. But compare the explanation given in the next
+chapter.
+
+## 5.
+
+Fasting for twelve days.
+
+
+480
+Agni Puriir).a
+20-29.
+Purification of the materials is laid down in the case
+of materials which are remnants. Those who have become pol­
+luted by drinking (water) from the same well and by touch get
+pure by fasting or by the five things got from a cow. A brahmin
+who eats as desired after having touched a carp/ala, should do the
+ciindriiyaT}a or the taptakrcchra. One becomes pure after six nights
+after having eaten or drunk from a vessel in a melee defiled by
+CaTJr/iila and others of vile (caste) . Those of the twice-born
+communities after having eaten the remnants (of food ) eaten
+by the low-castes should do the vow of ciindriiyaT}a and a Uidra
+(should do it) for three nights. A brahmin who had unknow­
+ingly drunk water from a well or pot (used by) a CaTJr/iila should
+do the siintapana1 and a siidra should fast for a day. A brahmin
+who drinks water after having been touched by a caTJ.¢iila (should
+fast) for three days and a sudra should fast for that day. A brah­
+min who has been touched by a dog, a siidra or by the remnants
+(of food) becomes pure after fasting a
+night and by
+taking
+the five products obtained from a cow, and (if touched ) by a
+tradesman or a warrior should bathe (that) night. A brahmin
+beginning a journey and discharging urine at a forest where
+there is no water holding cooked food on his lap without placing
+it anywhere should cleanse himself, sprinkle (water on the food)
+and show it to the sun and fire.
+30-32. I shall describe the mode of purification for travel­
+lers for having taken food both permitted and prohibited in a
+place habited by aliens and robbers. After having returned to
+one's native place (one should do) in the natural order of the
+castes. At the end of the krcchra a brahmin is again to be given
+the samskiira (purificatory rite) . A warrior (class ) (gets purified)
+after three-fourths (of the above rite) ,
+a tradesman after half
+of it and the fourth class after doing a quarter and gets purified
+after making a gift.
+
+## 33.
+
+A woman in her courses touched by another woman in
+her courses belonging to the same caste no doubt gets purified
+by bathing that day itself.
+
+## 34.
+
+A woman in her courses having been touched by a
+
+## 1 . Drinking milk, ghee or water heated once every three days.
+
+
+
+
+## 1 70.35-45
+
+481
+woman of the lower caste should not eat until she gets pure.
+She gets pure by the purificatory bath.
+
+## 35.
+
+A man having discharged urine passing through a road
+and drinking water forgetfully becomes pure after fasting a day
+and night and by taking the five products got from a cow.
+
+## 36. A brahmin having discharged urine and eaten for­
+
+getfully without having cleansed himself becomes pure after
+drinking barley (water) for three nights.
+37-38.
+I shall now describe the mode of purification
+for the brahmins who have renounced the life of a mendicant
+and the life of detachment. They have to do three krcchras1
+or ciindra_ya1Ja.2 Then they should be purified by purificatory rites
+such as the jiitakarman3 and others.
+
+## 39.
+
+One whose face comes into contact with the sandal or
+impure thing, the means of purification for him are the earth,
+cow-dung or the five things got from a cow.
+
+## 40. A brahmin who had shaved or sold or wears blue colour­
+
+ed cloth etc. for the purpose of austerity becomes pure by
+(doing) three krcchras.
+
+## 41 .
+
+A woman in her courses having been touched by a low
+caste or a cardiila becomes pure on the fourth day. She has to
+observe (a vow for) three nights.
+
+## 42.
+
+One who has touched a car;u/iila or Jvapaca or the dis­
+charge from a delivered woman or a dead body or a person who
+has touched it (dead body) becomes pure immediately after
+bathing.
+43-45.
+A brahmin gets purified by bathing with oil after
+touching the bone of a man. One who had a vomitting or
+purging
+becomes pure after (smearing) with street mud
+and water below the navel, bathing and taking ghee. One
+who had done the shaving (gets pure) by bathing, One
+who eats food at the time of an eclipse (gets purified) by doing
+the krcchra. One who has eaten food with an outcaste (becomes
+pure) after taking (the five) things got from a cow. One who
+has been bitten by a dog, one who has been bitten by an insect
+and one who commits suicide (gets purified) by (doing)krcchra,
+I . A kind of simple expiation.
+
+## 2.
+
+See note 2 on p. 47 1 .
+a . Rite performed immediately after the birth of a child.
+
+
+482
+Agni Purat)a
+repetition (of mantras) and (offering) oblations. All sinners get
+purified by repentance and by doing oblation etc.
+
+## CHAPTER ONE HUNDRED AND SEVEN'IYONE
+
+Description of certain subtle expiations
+
+## Puģkara said :
+
+
+## I .
+
+I shall describe certain subtle expiations which are
+highly purificatory. One's sins would get destroyed by the repe­
+tition of the puΑasilkta1 for a month.
+
+## 2.
+
+By the repetition of the aghamarƂaT)a2 thrice one gets free
+from all sins. The repetition of the vedic (mantras) such as the
+(hymns of) vii;•u, yama and gayatri and the observance of the vow
+destroys all sins.
+
+## 3-7 .
+
+In all the (expiations called) krcchras (there would be)
+shaving, bathing, offering of oblations and worship of Hari
+(ViƷQu) . After getting up, one should stand during the day and
+sit during the night (when practising the expiations) . This is
+said to be the viriisana. One who does the krcchra in that (posture)
+gets rid of sins. (Eating) eight morsels (of food) everyday is
+known as yati-ciindriiya7Ja. (Eating) four (morsels) in the morn­
+ing and in the evening is known to be sisuciindriiya7Ja. Eating two
+hundred and forty balls (of food) in any manner in a month is
+suraciindriiyaT)a. One should drink hot water for three days and
+hot milk for the (next) three days. (Then) drinking hot ghee
+for three days, one should be consuming (only) wind for three
+days. This is said to be taptakrcchra. It is said to be !ita (krcchra)
+by the (use of) cold (things) .
+8-1 0 . Krcchriitikrcchra (is that of maintaining) with water
+for twentyone days. (Drinking) cow's urine, cow dung, milk,
+curd, clarified butter and water with ku!a (for a day) and fast­
+ing one night is known to be the expiation siintapana. The same
+if practised every day is known to be miihiisiintapana. If each
+
+## 1 . ̃
+
+v. X. 90. I a.
+
+## 2.
+
+].tV. X. 190.
+
+
+
+## 1 71.1 1-1 72. 1-2
+
+483
+one of these is taken for three days, it is known to be atisiintapana.
+The expiation known as pariika would be (the practice of) fasting
+for twelve days.
+1 1 -14.
+Practising eating (food ) once a day for three days
+and (eating food obtained) unsolicited in the night (is known to
+be) priijiipatya. A quarter (of the krcchra) is the piidakrcchra.
+(Maintaining) with fruits for a month (is known to be ) phala
+(krcchra) and with bilva, is said to be Jri-krcchra. (Similarly, one
+may maintain ) with lotus seeds and myrabolans. (Maintaining)
+with flowers (is known to be) puµpakr;;chra. Patrakrcchra (would
+be ) with leaves, toyakrcchra with water, and millakrcchra with roots.
+(So also one may maintain ) with curd, milk and butter-milk.
+It would be viiyavyakrcchra if one eats food (every day) for a
+month that he can hold in the hand. The expiation (known as )
+iigneyakrcchrri (is ) by (the eating of) sesamum for twelve nights.
+It destroys one's disease.
+1 5-16.
+(Eating) a handful of fried grain (every day) for
+fifteen days would be brahmakilrcca. One should fast on the four­
+teenth day and then eat the five things got from a cow on the
+full-moon day and twice-cooked food thereafter. A person who
+does so twice in a month gets free from all sins.
+
+## I 7.
+
+One who desires to be prosperous and wealthy and one
+who wishes to attain heaven and to have all sins destroyed should
+be intent on propitiating god. One who performs the expiations
+would get all things.
+
+## CHAPTER ONE HUNDRED AND SEVENTYTWO
+
+The hymn which destro_ys sins
+
+## Puſkara said :
+
+
+## I .
+
+When the minds of men indulge in (coveting ) other's
+wives or other's 'property or in doing harm
+(to others ) the
+expiation for that is the extollation (of the god ) .
+
+## 2.
+
+Obeisance to that all-pervasive (four times repeated )
+always. I salute the All-pervasive who resides in the mind, and
+that lord Hari (Vigm) who is the sense of my ego.
+
+
+484
+Agni Purib)a
+
+## 3.
+
+(Obeisance to) that lord who remains in the mind and
+who is unmanifest, endless and unconquered. (I salute ) lord
+Vi³:t}.U (all-pervasive ) , the adorable by one and all, one with­
+out an origin, endless and lord of all.
+
+## 4-5 .
+
+Let my sin get destroyed by my
+contemplation on
+that only lord Vi³J).U, who remains in my mind, intellect and
+ego and that lord Vi³J).u, who is well-established in me and
+who makes the immovable
+and movable beings as made of
+their acts.
+
+## 6.
+
+I (bow ) to that Upendral, (lord) Vi³J).U and (lord )
+Hari that removes the distress of the worshipper, and who re­
+moves the sin seen in one's dream or due to imagination.
+
+## 7.
+
+I salute that supreme lord Vi³J).U who is the supporting
+hand for one who is sinking down in the supportless dark world.
+
+## 8.
+
+0
+Lord of all lords ! Lord of all ! Supreme soul !
+One who has under him the thunderbolt ! 0 Lord of the sen­
+ses ! (repeated three times ) (My) obeisance to you.
+
+## 9.
+
+0 Man-lion-formed ! Endless one ! Cow-herdsman !
+An Efficient cause of all beings ! One having handsome hair !
+(My) obeisance to you ! You subdue the sin, the wicked (words )
+spoken, wicked (deeds ) done and (wicked) thoughts.
+
+## 1 0 .
+
+0 Kesava
+(one having
+handsome hair) ! You put
+down the wicked thoughts of mine under the influence of the
+mind and that very fierce and unworthy (act of mine) .
+
+## 1 1 .
+
+The Sacred god ! Cowherdsman !
+Devoted to the
+sublime truth ! The Lord of the universe ! The creator of the
+world ! 0 Decayless one ! Subdue (my) sin.
+12-13.
+Let my sins done i n the forenoon, midday, after­
+noon and night with the body, mind or speech unknowingly or
+knowingly or in dream get destroyed by the repetition of the three
+names-0 Hnikesa (lord of the senses ) ! Lotus-eyell ! Con­
+sort of Lak³mi !
+
+## 1 4.
+
+0
+Lord
+of the senses ! Lotus-eyed !
+Consort of
+Lakͣ mi ! You destroy my sins done by my body or speech.
+0 Consort of Lak³mi !
+1 5-16.
+Whatever sin I have committed while eating, sleep­
+ing, standing, going and remaining awake by iny body, mind
+
+## 1 . Viu in his manifestation as the dwarf was known to be the brother
+
+of Indra and was called as Upendra.
+
+
+
+## 1 72. 1 7-173.1-4
+
+485
+or speech,
+whether little or big which brings forth a wretched
+birth or stay in hell, let all that be subdued by the pronunciation
+of the word Vasudeva1•
+
+## 1 7.
+
+That which is the Supreme Brahman, the Supreme
+Abode, the Holiest, the Supreme, when that Lord Vi³t;lU
+is
+praised let my sin get destroyed.
+
+## 18.
+
+Let that position of Vi³t;1u reaching which the learned
+never return and which is devoid of smell, touch and
+other
+(qualities ) , subdue all my sins.
+19-21 .
+Whoever either reads or hears this hymn, which
+destroys the sins, would become free from sins done by the bodies,
+minds and speeches. One reaches the supreme place of lord
+Vi³t;lU (released ) from all evil planets. Hence one should repeat
+this hymn that destroys the sin when a sin has been done. This
+hymn is an expiation for multitude of sins. This is the excellent
+one for a person practising a vow. Sin gets destroyed by expia­
+tions, repetition of hymns and vows. Then one has to do them
+for the sake of perfection and for enjoyment and emancipation.
+
+## CHAPTER ONE HUNDRED AND SEVENTYTHREE
+
+Different expiations for different sins
+
+## The Fire-god said :
+
+
+## 1 .
+
+I shall describe the
+expiation as told by Brahma that
+would alleviate the sin. That action which results in the separa­
+tion of the soul from the body (death) is known to be killing.
+
+## 2.
+
+One who ki1ls a brahmin on account of anger, hate or
+by one's own or other's fault, would become a killer of a brahmin.
+
+## 3.
+
+If one is a killer among many who are engaged in the
+same act and who bear weapons, all of them are considered to
+be killers.
+
+## 4.
+
+If a brahmin dies on account of being censured or beaten
+or is hurt by means of wealth that person (who caused death)
+is said to be the killer of that person.
+
+## 1 . An appellation of Lord Viu in his manifestation as lord Kna,
+
+son of Vasudeva.
+
+
+486
+Agni Purib)a
+
+## 5.
+
+When some help is rendered such as (the supply of)
+medicine there is no sin if the recipient dies. There is no sin when
+the son or pupil or wife dies when chastised.
+
+## 6.
+
+One should examine carefully the place, time, age,
+ability and sin and lay down expiation when no expiation
+has been indicated.
+
+## 7.
+
+One should give up his life at once for the sake of a cow
+or a brahmin. One gets free from ( thͤ sin of) killing a brahmin
+by throwing himself into the fire.
+
+## 8.
+
+One who kills a brahmin should hold the skull on the
+banner and seek alms proclaiming the act (done by him)
+for
+twelve days, eating moderately. He would become pure.
+
+## 9.
+
+A man who had killed a brahmin becomes pure by doing
+good deeds for six years. Twofold (expiation ) is laid down for
+a motivated action as that of an unmotivated one.
+10-12.
+The expiation would be for three years in the (case
+of a brahmin) who has attempted to kill. If a warrior kills a
+person (the expiation would be) twofold. A tradesman or the
+person of the last class (doing that crime has to observe ) thrice
+that twofold (expiation) . In the case of a brahmin (causing the
+death) of a warrior (the expiation) would be a fourth less (of
+that prescribed for the death of a brahmin) , and half a quarter
+in the case of (causing the death of) a tradesman. In the death
+of a warrior caused by a warrior and (the death) of an old man,
+woman, child and sick it would be one fourth of that for killing
+a brahmin. In (the death of) a tradesman (it would be) one­
+eighth part (of that) and it would be known to be one-sixteenth
+in commencing (to kill ) the last caste.
+1 3-20.
+One should practice the vow (prescribed ) for kill­
+ing the last caste for having killed a woman not wicked. A killer
+of a cow should drink five things got from a cow and have
+(the senses) subdued for a month. (He ) should lie down in a
+cowshed, follow a cow and he becomes purified by giving a cow
+as a gift. It will be a quarter less in the krcchra or atikrcchra for
+the kings and others. A brahmin who has killed a very old or
+very emaciated or very young or sickly cow should practice half
+the vow as mentioned above. He should feed the
+brahmins
+according to his ability and should give away gold, sesamum
+etc. It should be declared as killing a cow if the cow had been
+struck with clenched fist or by the elbow or the horn had been
+
+
+
+## 1 73.21 -28
+
+487
+broken or had been struck with the club or stick.
+In the event
+of the death of a cow while being subdued or chained or yoked
+to a cart etc. or (being tied) to a post, chain or rope, one should
+do three-fourth (expiation of the above) . One should practise
+siintapana (if the death is due ) to a log of wood, priijiipatya (if due)
+to a lump of earth, taptakrcchra (if due ) to a stone and atikrcchra
+(if due ) to a weapon. One who has killed a cat or an alligator
+or a mongoose or a frog or a dog or a bird should drink milk
+for three days and practise expiation (called) ciindriiya1)a. (If
+the sin has been done) in secret, the expiation (should be done)
+in secrecy and (if done) explicitly, (expiation should be done)
+explicitly.
+2 1 -25.
+One should do hundred prii1)iiyiima1 for dispelling
+all sins. Beverages, grape juice, date juice, palm juice, sugar­
+cane juice, spirituous liquor got from the flower of madhuka,
+tankamiidhvika
+(a kind of liquor) , maireya
+(a kind of in­
+toxicating drink) and coconut juice are not (classified as ) intoxi­
+cating
+drinks
+although (they are) intoxicating. Only those
+which are mainly made of flours are known to be sura (wine) .
+Drinking (of wine) is prohibited for the three castes. Mter drink­
+ing so one should do penance and become pure (by drinking )
+water. Then he may eat small quantity of food for a year
+or
+oil-cake once in the night. For dispelling (the sin due to ) drink­
+ing of wine one should wear woollen dress, have matted hair
+and hold a staff. Having eaten unknowingly the excreta or
+urine or something which has come into contact with wine, the
+three castes of twice-horns require to be purified again by the
+performance of rites. One who has drunk water kept in the
+vessel for wine should observe a vow for seven days.
+
+## 26.
+
+One who has drunk water belonging to a ca1)t/.iila should
+practise a vow for six days. One should practise siintapana for
+having drunk water from the well or vessel belonging to a cii1)t/.iila.
+27-28.
+A brahmin (becomes pure by eating) the five things
+got from a cow for three nights for having drunk the water be­
+longing to the last caste. (One who has eaten) fish, thorn, snail,
+conch-shell, shell and a small shell and has drunk fresh water
+becomes pure by (taking) five things got from a cow. One
+
+## 1.
+
+Breathing regulated by the repetition of gayatri mantra and the vyakrtis.
+
+
+488
+Agni PuriiTJ.a
+gets pure after three nights after having drunk water from a well
+having a dead body.
+.
+
+## 29.
+
+One should practise ciindriiyaTJ.a for having eaten food
+from a man belonging to the lowest caste. (If one had eaten
+food) at the house of a sii.dra at the time of distress, he becomes
+pure by means of repentance.
+30-3 1 ; A brahmin eating from the vessel of a s udra (gets
+purified ) by (eating) the five things got from a cow and fasting.
+That which is cooked in an oven, cooked in oil, oil, curd and
+flour as well as jaggery, milk and juices from a sildra are not
+prohibited (items ) . One who eats without bathing gets pure
+by fasting and repeating (sacred syllables) at the end of the day.
+32-34.
+One who had eaten food after discharging urine
+without getting purified becomes pure after three nights. One
+who had eaten food into which hair or worm had fallen, know­
+ingly touched by the foot, seen by one who causes abortion, or
+touched by a woman in her courses, licked by a crow and other
+(birds) , touched by a dog, and smelt by cow etc. should fast for
+three days. One who eats the semen, excreta or urine should
+practise the prajapatya.
+35-36.
+It is opined that ciindriiyaT).a (should be done) at (the
+time of) nava1riiddha\ pariika at the miisika (monthly rites for the
+dead) . Atikrcchra would be (in the ceremony) after three fort­
+nights and krcchra at the six-monthly (rite ) . Piidakrcchra would
+be
+(done) at the annual (ceremony) and one day (rite) at the
+second annual (ceremony) . The annual ceremony will be on the
+preceding day and the second annual ceremony on the next
+day.
+
+## 37.
+
+The expiation for having eaten the prohibited food is
+fasting. One should do the sisuka expiation (sifuciindriiyaTJ.a) for
+having eaten bhilstrTJa (a kind of fragrant grass ) and garlic.
+
+## 38.
+
+One who has eaten prohibited food and remnant of
+food eaten by women and a sildra and prohibited flesh
+should drink milk for seven nights.
+
+## 39.
+
+If a brahmaciiri (student) or an ascetic or one who has
+undertaken a vow (drinks) wine and eats flesh while he is impure
+due to the death (of a person) or birth (of a child ) , he should
+do the expiation (known as) priijiipatya.
+
+## 1 . The first series of ceremonies collectively offered on the 1st, 3rd, 5th,
+
+7th, 9th and 1 1 th days after the death of a person.
+
+
+
+## 1 73.40-54
+
+489
+40-41 .
+Taking away another's (belongings) by illegitimate
+means is said to be stealing. One who has stolen gold gets puri­
+fied if the king beats him to death with a club. Otherwise he
+should lie down on the floor, bear matted hair, eat leaf, root
+and fruit and eat well only once a day. He gets purified after
+twelve years.
+
+## 42 .
+
+A person who had stolen gold or drunk wine or killed
+a brahmin or cohabited the wife of the preceptor or committed
+theft or drunk wine should practise krcchra for a year.
+
+## 43 .
+
+(One who steals) gems, pearls and corals, copper,
+silver, iron, bronze and stones should eat little quantity of food
+for twelve days.
+
+## 44.
+
+The expiation for abduction of men or women or taking
+possession of lands or houses or wells or tanks is said to be candra­
+yaTJa.
+
+## 45.
+
+The five things got from a cow are the purification for
+the stealing of eatables, food, vehicle, bed, seat, flowers, roots
+and fruits.
+
+## 46 .
+
+One should not take food for three nights (for having
+stolen) the grass, wood, tree, dry food, jaggery, dress, hide and
+flesh.
+·
+47-54.
+One who cohabits his mother, sister, the daughter
+of his preceptor, the wife of the preceptor and his own daughter
+should be deemed to have violated his teacher's bed. He should
+be declared as having violated his teacher's bed and made to
+embrace a heated and glowing iron image (of a woman) and he
+becomes purified by death. Otherwise a person who has violat­
+ed the bed of his teacher should practise candrayaT)a for three
+months. One should follow the same procedure for having coha­
+bited even fallen women. One should perform that vow for such
+(women) which a person would perform for others' wives. It is
+laid down that one should end his life for having cohabited
+girls, caTJ¢ala women, daughters and wives of one's sapiTJr/.a.
+{The sin) which a brahmin commits in a night by coha­
+biting a women of the lowest caste is got removed by him in
+three years by eating (the food) got after seeking alms and daily
+repetition (of sacred syllables) . One has to practise candrayaT)a
+for having cohabited the wife of the paternal uncle, wife of one's
+
+
+490
+Agni Pura1}JJ
+brother, woman of the lowest caste, a woman of the pukkasa1
+caste, one's daughter-in-law, sister, friend, sisters of the mother
+and father, a woman who has been entrusted to one's care, a
+woman who has sought refuge, wife of rmaternal uncle, one's
+sister, a woman belonging to the same clan, a woman who desires
+another person, the wife of one's pupil and the wife of one's
+teacher.
+
+## CHAPTER ONE HUNDRED AND SEVENTYFOUR
+
+Expiations for discontinuing the worship of gods
+
+## Fire-god said :
+
+
+## 1 -3.
+
+(I shall describe) the expiation for omission in the wor­
+ship of gods and orders. One should repeat one hundred
+and eight times and worship twice for omission in worship.
+After having made oblations with the five upani¡adic sacred
+syllables brahmins should be fed. One should repeat hundred
+times if (the idol of) the deity has been touched by a woman
+who has delivered a child, a woman of the lowest caste and a
+woman in her courses. (One should do) worship with the five
+upani¡adic (sacred syllables) and two times bathing. When
+there is omission in the oblations brahmins should be fed. (Then
+one should do) oblation, bathing and worship.
+
+## 4-5.
+
+When the materials for the oblation have been
+eaten by rats,
+etc., or abound with worms, that part alone
+should
+be rejected, sprinkled (with water) and the deities
+worshipped. When it is broken or damaged to the extent of a
+sprout it should be rejected. When it has been touched by an
+untouchable it should be transferred to another vessel.
+
+## 6.
+
+If the sacred syllable or the materials get altered at the
+time of worship or in destroying the impediments due to the
+gods and mortals one should mutter the basic (syllable) and
+repeat again.
+
+## 7.
+
+(One should) repeat one hundred times if the pot is lost.
+If (the image of) the deity has fallen from the hand and got
+
+## 1 . A kind of mixed caste.
+
+
+
+
+## 1 74.8-1 9
+
+491
+broken or lost there will be welfare only after fasting and (doing)
+oblations hundred times.
+
+## 8. For a man who repents after doing a sin, the best expia­
+
+tion is to remember lord Hari.
+
+## 9.
+
+The practice of candriiya'I)IZ or pariika or prajapatya des­
+troys the sin. The repetition of the sacred syllables of the Sun,
+lsa (lord Siva), Sakti (consort of lord Siva), Srisa (lord Vi˨t;tu)
+and others would destroy the sin.
+10-1 1 . The repetition of gayatri, pra'l)ava
+(om) , hymns
+and sacred syllables destroy sins. The sacred syllables of the Sun,
+Isa, Sakti and Srisa beginning with the (letters) 'ka' etc. and
+their basic syllables and ending with the respective letters are
+separately more than a crore. (The sacred syllables) such as
+om, hrim etc. and ending with (the name) in the fourth case and
+(the word) 'salutation' are capable of yielding all desires.
+
+## 12. The sacred syllables of (lord) Nrsiril.ha (man-lion form
+
+of lord Vi¡t;tu) consisting of twelve and eight letters etc. destroy
+sin. The reading and hearing etc. of Agneyapurii'l)a (would
+also be expiation to remove all sins ) .
+1 3-16.
+Lord Vi¡t;tu is of two forms of Vidyii1• He is praised
+in the form of fire. The supreme lord is praised in all scrip­
+tures as the face of the celestials. He is worshipped as the con­
+ferer of enjoyment and emancipation in taking active part in
+worldly life as well as in inactivity. The oblations, contempla­
+tion, worship, repetition (of sacred syllables) , hymns and obei­
+sance made to lord Vi¡t;tu of the form of Fire (god) would
+destroy sins relating to one's body. Making a gift of ten gold
+(things ) , twelve (kinds ) of grains, sixteen great gifts such as
+making a gift of something equal to one's own weight and
+other great gifts such as giving food remove all sins.
+
+## 1 7. Practising vows on the phases of the moon, weeks,
+
+asterisms, movement (of planets from one constellation to ano­
+ther) , good periods of the day and period of Manu for the Sun,
+Isa, Sakti and others would destroy sins.
+18-19. The sacred places such as Ganges, Gaya, Pra­
+yaga, Kasi, Ayodhya, Avantika, Kuruk¡etra, Pu¡kara, Nai­
+mi¡a, Puru¡ottama (Puri) , Salagrama, Prabhasa and others
+
+## 1 .
+
+Vidyii, knowledge, is of two kinds : aparii and parii, standing respectively
+for the vedas etc. and for the knowledge about supreme Brahman.
+
+
+492
+Agni Purib}a
+also destroy sins. The contemplation that 'I am the brah­
+man, the supreme effulgence' would destroy sins . .
+.
+20-24.
+The BrahmapuriiT)a and the AgneyapuriiT)a, (lords)
+Brahma, Vi¡Qu, Mahe8vara, the manifestations (of the god),
+ᆝ11 kinds of worship, the installation of the images (of deities)
+etc. (also remove one's sins ) . The science of astrology, PuriiT)as,
+codes of law, penance, vow, the science of politics, sarga1 etc.,
+the medical lore, the science of archery: phonetics, metrics,
+grammar, etymology, lexicon, manual of rituals, logic, mimiirhsii
+(the science investigating the vedic texts) and all other things
+are the lord Hari (himself) . The sins of others get destroyed by
+seeing one who has got the knowledge about the single lord
+without the second from which (all are produced) and in which
+(all repose) and who is everything. He is verily the lord Hari.
+Lord Hari remains in the form of eighteen vidyiis2• He is
+subtle and gross. He is the most supreme. He is the effulgence
+and the sentient, immutable, brahman, supreme, omni-present
+and blemishless.
+
+## CHAPTER ONE HUNDRED AND SEVENTYFIVE
+
+Rules and regulations relating to the vows
+
+## Fire-god said :
+
+
+## 1 . Listen 0 V asi¡tha ! I shall describe the vows for
+
+men and women (to be observed) in order on the phases of the
+moon, weeks, asterisms, particular day (of a week), month,
+season, year and the entry of the Sun (from one constellation into
+another) .
+
+## 2 . The vrata (vow) is a restraint as told in the scriptures.
+
+It is known to be a penance. The special observances of dama
+(subduing) etc. are for the vow.
+
+## 1 . The primary and secondary creation, genealogy of gods and sages,
+
+periods of Manus and accounts of royal genealogy .
+
+## 2.
+
+The four Vedas, the six accessory texts, mimiimsii, nyiiya, dharma·
+Jiistra, puriirw, iiyurveda, dhanurveda, giindharuaueda and arthaJiistra.
+
+
+
+## 1 75.3-1 7
+
+493
+
+## 3.
+
+A vow is designated as a penance because it causes morti­
+fication of the body for the doer. It is said to be a restraint as it
+controls the collection of senses.
+
+## 4-9.
+
+0 brahmin ! Those brahmins who do not worship
+fire get prosperity by vows, fasting, restraints andmany kinds of
+gifts. The gods etc. who confer enjoyment and emancipation
+become pleased. One who has turned back from sins and lives
+with qualities it is known as upaviisa (fasting) . It is devoid of all
+enjoyments. One who is fasting should reject bellmetal, flesh,
+masilra (a kind of pulse) , chick-pea, koradil:aka (a species of
+grain) , vegetable, wine, food from others, (association with)
+a woman, flowers, ornaments and dress, incense, perfume and
+unguent. (People) do not commend the cleaning of teeth and
+(use of) collyrium. The five things got from a cow should be
+used in the place of the toothstick in the morning and the vow
+commenced. Fasting gets vitiated by frequent drinking of water,
+the chewing of betels, dreaming and having intercourse during
+the day.
+10-1 7. Forbearance, truth, compassion, charity, cleanli­
+ness, control of the senses, worship of gods, making oblation to
+fire, happiness and not stealing are remembered to be the ten
+general virtues (to be practised) in all vows. Befitting one's
+capacity one should repeat the sacred hymns and offer oblations
+(to fire) . One should bathe daily, eat moderately and worship
+preceptors,
+gods and brahmins.
+One should avoid taking
+alkaline substances, honey, salt, wine and meat. Among the
+grains (all the grains) except sesamum and mudga (a kind of
+kidney-bean) are commendable. Wheat, kodrava (a species of
+grain) , cinaka (a kind of paddy) , devadhiinya, leguminous grain,
+sugar, JitadhiiT!)Ia (barley or white paddy ? ) , roots from the mar­
+ket are deemed to be alkaline things. Rice, :a:tika (a kind of
+rice) , mudga (a kind of kidney bean), sesamum, bar ley, fyiimiika
+(a kind of corn) , rice grown without cultivation and wheat etc.
+are conducive to vows. One should avoid taking pumpkin,
+bottle-gourd, brinjal, uiilanki (? ) and putikii (a kind of herb ) .
+Sweet porridge, the flour of barley, pii.tii.-herb, curd, ghee, milk,
+fyiimiika (a kind of corn) , rice, rice growing without cultivation,
+millatarpjula are conducive as havi:ya (fit to be offered as oblation)
+at the time of vows (in general) and nakta (vrata) (eating food
+only in the night) in the rites of offering made to fire. Except
+
+
+494
+Agni Purllr)JJ
+wine and meat, the other things are said to be conferring good
+in a vow.
+
+## 1 8.
+
+A bralunin who observes the prajapatya should eat in
+the morning for three days, in the evening for three days, without
+seeking alms for three days, and should not eat the next three
+days.
+
+## 19. A bralunin who is practising the atikrcchra should eat
+
+·One morsel a day for three days three times as before and fast for
+three days at the end.
+
+## 20.
+
+The expiation siintapana is known to be (that of taking)
+cow's urine, cowdung, milk, curd, clarified butter and water
+with the kuia and fasting for a night.
+
+## 2 1 . Maintaining with the (six) materials used in the siinta­
+
+pana, each one for a day for six days together with fasting in seven
+days is known to be mahiisiintapana, which removes the sin.
+
+## 22.
+
+Pariika is fasting for twelve days and it destroys all
+sins. If it is three-fold (of above) it is said to be mahiipariika.
+23-30.
+Commencing with fifteen morsels (of food) on full­
+moon day, reducing one morsel a day and no food on new-moon
+day and then increasing a morsel a day is (known to be) ciindrii­
+yaT)a. Or one pala (a measure of weight) of urine of a tawny cow,
+cowdung of half the volume of a thumb, seven palas of milk, two
+palas of curd, ghee one pala, one pala of water
+(in which kuia
+has been dipped) should be collected. Among these, urine of
+cow should be gathered with the syllable giiyatrit, cowdung with
+gandhadviira2, milk with apyiiyasva•, curd with dadhikriivT)a4 clari­
+fied butter with tejo asi5, and water in which kuia has been dipped
+with devasya6• It is brahmakilrca by doing as above. Then one
+should repeat the hymn apo hi :thif1. They all should be mixed
+with the (repetition of the) hymn aghamar:aT)a8 or the praT)ava
+( sy liable om) . After drinking (the mixture) one gets free from all
+.sins and reaches the world of ViĒQU after fasting. A person who
+I . The mantra addressed to the deity in the orb of the Sun.
+
+## 2.
+
+RVKh. 5.87.9a.
+
+## 3. RV. 1 .9 1 . 1 6a.
+
+
+## 4.
+
+RV. 4.39. 6a.
+
+## 5.
+
+
+## TS. 1 . 1 . 10.3.
+
+
+## 6.
+
+
+## TS. 1 .3. 1 . 1 .
+
+
+## 7. RV. 1 0.9. 1 a.
+
+
+## 8 . RV.
+
+
+## 1 0 . 1 90.
+
+
+
+
+## 1 75.3 1 -41
+
+493
+fasts, eats only in the evening, an ascetic, and one who eats only
+in the sixth part of the day, avoids (eating) meat, performs the
+aJvamedha (sacrifice) and speaks truth would reach heaven.
+The maintenance of sacred fire, the installation (of images
+of deities) , (the performance of) sacrifices, (making) gifts and
+(practice of) vows, observance of religious vow, the rite ofletting
+out a bull, tonsure, (the investiture with) the girdle and the
+auspicious bathing should be avoided in the malamilsa (a solar
+month in which two new moons occur) .
+
+## 31 .
+
+The lunar (month) would be from the new moon to the
+new moon. The silvana (month) (would be of) thirty days.
+The solar month (would be reckoned) from the movement (of
+the sun from one constellation to another) . An astral (month)
+is from (one) revolution of an asterism .
+
+## 32.
+
+Solar month (should be taken ) for the marriage etc.,
+and silvana for sacrifices etc. Lunar month is recommended for
+the annual ceremony and ancestral rites.
+
+## 33. The fifth one would be that which concludes with the­
+
+(month of) ƀMha (July-August) . One may perform the cere­
+mony (for the ancestors) at that time whether the Sun moves
+into the constellation Virgo or not.
+
+## 34.
+
+Whenever a lunar day occurs twice in a month in a year,
+there the second one is known to be the excellent one and the
+first one would be bad.
+
+## 35.
+
+One should fast in an asterism when the Sun sets in that.
+The lunar days are meritorious during the day. They are auspi­
+cious in the night in the rite observed in the night.
+36-37. The combination of the lunar days-second and
+third, fourth and fifth, sixth and seventh, eighth and ninth,
+eleventh and twelfth, fourteenth and full moon, the first and the
+new moon is of great consequence. This is individually very
+bad and destroys the meritorious act done previously.
+
+## 38.
+
+It has been stated that (there would be) immediate
+purity for the kings, ministers and ascetics in (the case of) cala­
+mity at the time of marriage etc. as also in the forest path or
+some danger or in the assembly.
+39-41 .
+A king should not obstruct the vow of those who had
+undertaken a prolonged penance or of a woman. If a pregnant
+woman or a woman who has delivered a child or a girl who is in
+her monthly course becomes impure after beginning a long
+
+
+496
+Agni Purdtj,a
+vow she may arrange always to do the same by someone else.
+If the vow is broken on account of anger or mistake or greed,
+one should not eat for three days. Otherwise, one should shave
+his head. If a person who practises a vow is unable to continue,
+his wife or son may be made to continue it.
+
+## 42. A worship that has been begun should not be disconti­
+
+nued when (a pollution is caused) by the birth (of a child) or
+by the death (of some relative) . A person observing a vow fall­
+ing into a swoon should be brought back to his senses by the
+preceptor by (giving him) milk and other drinks.
+
+## 43.
+
+Water, roots, fruits, milk, clarified butter, the desire
+of a brahmin, the words of the preceptor and herb are the eight
+(things) which do not vitiate a vow.
+44-58.
+
+## (One should resolve as follows) :
+
+"0 Lord of
+vows ! I am doing this vow for the furtherance of fame,
+progeny, learning, prosperity, and health and for purity,
+enjoyment and emancipation. I have taken this excellent
+vow in your presence. 0 Lord of the Universe ! Let it come to
+fruition without impediment by your grace. After taking this
+excellent vow if I happen to die when it is not completed, let
+all that be complete when you, the lord of beings, are pleased.
+I invoke the embodied image of the vow, the prosperity of the
+world for
+all
+accomplishments. My obeisance to you. 0
+Lord Kesava
+(one having beautiful hair)
+! Be manifest.
+I bathe you with the five nectars, the five things got from
+a cow and good water mentally arranged with devotion.
+You become the remover of my sin. 0 Lord of libation !
+(Here is) the auspicious libation m.lxed with fragrance, flower
+and water. Accept waters for washing (the feet) , for sipping.
+Make me always fit to offer libation. 0 Lord of dress
+!
+Accept the meritorious dress and 0 Good lord of vows !
+Make me always covered by good dress, ornaments etc. 0
+Embodiment offragrance ! Accept the spotless fragrant perfume.
+You make me have good fragrance and (make me) free from
+smell of sin. Accept the flower and make me always abundant
+with flowers. The spotless fragrance of the flower is for the
+furtherance of longevity and health. Accept the incense (stick)
+made of ten (fragrant)
+ingredients, the guggulu and ghee.
+0 good lord of incense ! You make me fragrant with per­
+fumes. 0 Embodied form of the lamp ! You accept the lamp
+
+
+
+## 1 75.59-1 76. 1-2
+
+497
+having upward flames and which makes everything shine.
+(You) make (me) endowed with lustre and elevated movement
+always. 0 Good Lord of food ! Accept the offerings such as
+food etc. (You) make (me) abundant with food and as a giver of
+food and all (things) . 0 lord ! whatever my omission in the
+sacred syllable, in the act and devotion, and the worship offered
+to you may all that be complete for me. 0 lord of vows !
+Give me virtue. Give me wealth, prosperity, continuous flow
+of qualities and fame. Give me learning. Give me longevity,
+heaven and emancipation. 0 Lord of vows ! Accepting this
+worship you may go now only to come again, to confer boons,
+0 Lord !
+59-62.
+In all the vows the embodied golden images of vows
+should be worshipped by the person practising a vow after bath­
+ing (according) to his means. He should sleep on the floor.
+(He should do) repetition (of sacred syllables), (offer) oblation
+and (make) gifts at the end of a vow in general. Twentyfour
+or twelve or five or three or one brahmin should be worshipped.
+The preceptors should be fed. The fee (such as) cows, gold etc.,
+sandals, shoe, water vessel, food vessel, earth, umbrella, seat,
+bed, pair of dress and pots should be paid according to (one's)
+means to every one. The rules and regulations have thus been
+described.
+
+## CHAPTER ONE HUNDRED AND SEVENTYSIX
+
+Vows observed on the first lunar day
+
+## Fire-god said :
+
+
+## 1 . I shall describe the vows for the first lunar day which
+
+would confer on you everything. The first lunar day of karttika
+(November-December),
+asvayuji
+(October-Noveƶber) and
+caitra (April-May) are the days of (lord) Brahma.
+
+## 2. After having had no food on the fifteenth (lunar) day,
+
+one should worship (lord) Aja (Brahma, the unborn) on the
+first lunar day (with the words) Om tatsat obeisance to (lord)
+Brahma or with gayatri for a year.
+
+
+498
+.A.gni PurilTJ,a
+
+## 3.
+
+A golden (image of lord) Brahma (carrying) a rosary
+and ladle in the right (hand) and a kamarp/.alu (a wooden or
+earthen water-pot) and a small ladle in the left (hand) and
+(having) a long beard and matted hair should be worshipped.
+
+## 4. According to one's means one should offer milk, (to
+
+lord Brahma stating) that let (lord) Brahma be pleased. A
+brahmin would become stainless, enjoyer of pleasures in heaven
+as well as on earth and wealthy.
+
+## 5-6.
+
+I shall describe an excellent vow (by practising which)
+an unfortunate one would become fortunate. After having
+fasted and offering oblations on the night of the first lunar day
+of miirgaiirfa (December-] anuary) , one would get all (things)
+by worshipping fire (stating) 'Obeisance to fire'. Eating food
+once on the first lunar day and giving a tawny (cow) at the
+conclusion one reaches the place of lord fire. This is known to
+be Jikhivrata (vow dedicated to fire).
+
+## CHAPTER ONE HUNDRED AND SEVENTYSEVEN
+
+Vows observed on the second lunar day
+
+## Fire-god said :
+
+l -8. I shall describe vows (performed) on the second
+lunar day which would confer enjoyment, emancipation etc.
+Eating flower one should worship Asvins the celestials. One
+who practises
+vow for a year would get good fortune and
+reach heaven. One should worship the god of Death on the
+second day of the bright fortnight in (the month of) kiirttika
+(November-December) . A practiser of the vow fasting for a
+year would reach heaven and (would ) not (go to ) hell. I shall
+describe the vow (called) asilnya!ayana (the bed that has not
+become ertpty) which would confer (the fruit of) not becoming
+a widow. This should be practised on the second lunar day in
+the dark fortnight in (the month of) 5riiva7Ja (August-Septem­
+ber) . "0 Bearer of 5rivatsa (a mark on the chest of lord
+ViĒQu) ! Consort of Sri ! (LakĒmi) ! Abode of Sri (Lakǋmi) !
+Consort of Sri ! Immutable ! May not my life of a householder
+
+
+
+## 1 77.9-20
+
+499
+get destroyed. Let it be the conferer of virtue, materials and
+desire. Let not the (sacred) fires be destroyed. Let not the deities
+be destroyed.
+Let not my ancestors be destroyed on account
+of my married life being shattered. Just as you the lord never
+get separated from (Goddess) Lak¡mi, so also 0 lord ! let
+not my association with my wife get separated. 0
+Conferer
+of boons, 0 Lord ! Just as your bed does not become devoid
+of (Goddess) Lak¡mi, 0 Slayer of (demon) Madhu ! lefmy bed
+also be not empty. One should worship (Goddess) Lak¡mi and
+(Lord) Vi¡Qu for a year and bed and fruits should be given away
+(as gift) .
+
+## 9-12. Libation should be offered to Soma (moon) every
+
+month with the (recitation of) sacred syllables. One who lights
+up the courtyard of the sky ! One who is born from the churning
+of the milky ocean ! Enjoyer of the starry quarters of heaven !
+Younger brother of Lak¡mi ! Obeisance to you. Om srim obei­
+sance to the Sustainer of Sri ! One should worship lord Hari
+of the form of the Moon. Dham, ¢ham, bham, ham obeisance to
+Sri ! to the great soul of ten forms ! 0 blation (should be made)
+in the night with ghee. A bed may be given to a brahmin. A
+pot with water and an image of the deity together with a lamp,
+food vessel, umbrella, shoe, seat and a vessel (may be given)
+then.
+1 3-14.
+One who does so in the company of his wife would
+get enjoyment and emancipation. I shall describe the kiintivrata
+(the vow that makes one shining) . It should be done in the white
+(fortnight) of (the month of) kiirttika (November-December) .
+Taking food only in the night on the second lunar day, one should
+worship Bala ( riima) (brother of Vi¡QU in his manifestation as
+KnQa) and Ke5ava for a year. One gets shining (body), long
+life and health etc.
+15-20. Then I shall describe the Virouvrata which gets the
+mentally desired (fruits) , after doing it for four days in the second
+luna;:- day in the white (fortnight) of (the month of) paÛa
+(January-February) etc. One should bathe on the first (day)
+with white mustard, then with
+black sesa.mum the second
+day) and with vacii (aconis calamus) on the third day and with
+all herbs on the fourth (day) . Muriimiimsi, Vacii, ku:tha, u:tha
+saileya (bitumen) ' the two (kinds of) raj ani, sati, campaka and
+musta are remembered to be the collection of herbs. One should
+
+
+500
+Agni PuriiTJ.a
+worship with (the repetition of) the names Krgta, Acyuta
+( unslipping) , Ananta (endless) , Hrۆikesa (the lord of the senses)
+with flowers duly at the foot, navel, eye and head. Libation
+(should be made) to Moon with the (repetition of the) names
+sa5i, candra, sa5iiizka and indu. The person (who does the vow
+should eat in the night before the moon sets. (By the practice of)
+this purifying (vow) for a year and a half, the performer would
+get all things. This vow was practised by the kings and
+women in the past.
+
+## CHAPTER ONE HUNDRED AND SEVENTYEIGHT
+
+Vows observed on the third lunar day
+
+## Fire-god said :
+
+I . I shall describe the vows (to be practised) on the
+third lunar day which would confer enjoyment and emancipa­
+tion. Listen to me. (I shall describe) the millagaurivrata for the
+(goddess) Lalita (a form of consort of Siva) (to be done) on
+the third lunar day.
+
+## 2-23. Goddess Gauri was married by Hara (Siva) on the
+
+third day of the bright (fortnight) in (the month of) caitra
+(April-May) . (Then on that day) one should bathe with sesa­
+mum and worship Sambhu (Siva) in the company of Gauri
+with golden fruits etc. "Obeisance to Patala" (saying so one
+should worship) the feet of the goddess and Siva. One should
+worship ankles for Jaya after saying "to Siva". (One should
+worship) the two shanks (by saying obeisance) to the destroyer
+of the three cities, to Rudra, to Bhavani, the two knees (by
+saying obeisance) to Siva, to Rudra, to lsvara (the lord) and to
+Vijaya (the victorious) , the hip (by saying obeisance) to lsa
+for the goddess and to Saiikara for Sail.kara. The two bellys
+(should be worshipped by saying obeisance) to Kotavya and
+the Siilin (lord Siva) (by saying obeisance) to the one having
+trident in the hand. The stomach should be worshipped (by
+;saying) obeisance to you, Mail gala (the auspicious) . Rudra
+(should be worshipped by saying) obeisance to the soul of all
+
+
+
+## 1 78.2-23
+
+501
+beings, the two breasts (by saying obeisance) to Isani. Similarly
+(lord) Siva should be worshipped (by saying) (obeisance) to
+Hladini. Lord Siva (should be worshipped by the words obei­
+sance) to the great lord and the two hands (by saying obeisance)
+to Ananta. (Lord) Hara (should be worshipped with the words
+obeisance) to the three-eyed one and the arm (with the words
+obeisance) to the consort of the destructive fire at the end. The
+ornaments should be worshipped
+(by saying obeisance) to
+Saubhagya (the fortunate) and the great lord. The lips (should
+be worshipped by saying obeisance) to the (goddess) dwelling
+in the honey of afoka (flowers) and to the lord. The face (should
+be worshipped) by saying obeisance to the consort of thefour­
+faced one and to Hara and the immovable one. Obeisance to
+lord Hara, the lord of the man-woman form and the nose (should
+be worshipped) (by saying obeisance) to measured limbs. The
+lord of the universe (should be worshipped by saying) obeisance
+to the fierce one and then the two eyes (saying obeisance) to
+Lalita. The destroyer of the cities (should be worshipped saying
+obeisance) to Sarva (all) and the palate (with the words obei­
+sance) to Vasanti (the one belonging to the spring) , Obeisance
+to the consort of Srika:Q.tha (one having the auspicious mark on
+the throat) and the hair (saying obeisance) to Sitika:Q.tha (hav­
+ing black mark on the throat) . (Obeisance) to fierce one
+and (the goddess) of good form and (worship) the head (by
+saying) obeisance to the soul of all beings. The (following)
+flowers should be used in order in the respective months­
+jasmine, afoka, lotus, jasmine, tagara, malati, kadamba, karavira,
+baT)a, mlana, kunkuma and sindhuvara Mter having worshipped
+(goddess) Uma and
+(lord)
+Mahesvara, the
+(following)
+eight auspicious things should be placed in front : ghee,
+ni¶pava, kusumbha, kƁirajivaka, taruraja, ikjU, lavQT)Q and kustumburu.
+One should take frngodaka in (the month of) Caitra (April­
+May)
+and
+sleep
+in front of the god and goddess. One
+should bathe in the morning, worship (the god and goddess)
+and worship the brahmin couple. The above (mentioned)
+eight (things) should be given to the brahmin. (He should then
+say) "Let (the goddess) Lalita (consort of Siva) be pleased (by
+this gift of) mine. Srngodaka, cow-dung, mandara, bilva leaf,
+water wich kufa, curd and milk are the things and ghee mixed
+with coagulated milk (are the things offered) in (the month of)
+
+
+502
+Agni Purib)a
+karttika (November-December) . Cow's urine, clarified butter,
+black sesamum and the five things got from a cow (are the)
+food to be eaten duly. " {Goddesses) Lalita, Vijaya, Bhadra,
+Bhavani, Kumuda, Siva, Vasudevi, Gauri, Maitgala, Kamala
+and Sati be pleased." Thus one should say at the time of mak­
+ing a gift in (the months of) Caitra (April-May) etc. He should
+then offer one pala (a measure of weight) of the purifying clari­
+fied butter and a bed should be given at the end of the vow, A
+golden (image of) Umamahesvara, (Siva and his consort) , a
+bull and a cow (should also be given) . The performer would
+get enjoyment and emancipation by (offering) clothes etc. and
+worshipping the teacher couple. (One would get) fortune,
+health, beauty and longevity from the (performance of the)
+vow saubhiigyaJayana. One should perform the vow in the (month
+of) nabhas (.frovaۇa-July-August) or vaisakha (June-July ) or
+margaJira (December-January) on the third lunar day in the
+bright . fortnight. One should worship (saying) "Obeisance to
+(goddess) Lalita". Mter having worshipped in every fortnight
+and having worshipped twentyfour couples at the end of the vow
+by (giving) clothes etc , the performer gets enjoyment and eman­
+cipation.
+24-28. Thus a second way (of performance of the vow) has
+been told. I shall describe the saubhiigyavrata
+(the vow which
+confers fortune) . One should avoid salt on the third lunar day
+in the (month of) phiilguna (March-April) . When (the vow) is
+completed he should give a bed and a house with household
+things after having worshipped a brahmin couple (by saying)
+"Let (goddess) Bhavani be pleased". The .vow on the third
+lunar day for the sake of (getting) fortune has been told. (God­
+dess) Gauri confers heaven etc. So also (one would get) by
+doing the vow on the lunar day in (the months of) magha (Feb­
+ruary-March) , bhadra (pada) (September-October) and vaisakha
+(May-June) A person who performs (the vow of) damanakatrtiya
+should worship with damanaka (fragrant leaf used for worship)
+in (the month of) caitra (April-May) . (The third lunar day)
+in (the month of) marga (Sirĕa) (December-January) (is k.nown
+as) atmatrtiya (the third lunar day r elating to the soul) . One
+who worships by giving the goddesses) Gauri, Kali, Uma,
+Bhadra, Durga, Kanti, Sarasvati, VaiĒQavi, LakĒmi, Prakrti,
+Siva and NarayaQ.i duly commencing from the third lunar day
+
+
+
+## 1 79. 1-5
+
+503
+in (the month of) miirga (sir¶a) (December-January) , (by giving)
+the desired things, food etc would get fortune and gold.
+
+## CHAPTER ONE HUNDRED AND SEVENTYNINE
+
+Vows observed on the fourth lunar day
+
+## Fire-god said :
+
+
+## 1 -5. I shall describe now the vows (to be performed) on
+
+the fourth lunar day which would yield enjoyment and emanci­
+pation. On the fourth lunar day in the bright (fortnight) in
+(the month of) miigha (February-March) , one should fast and
+worship gaT)apati (the lord of attendants) . One who gives sesa­
+mum rice on the fifth lunar day for a year will be happy without
+obstacles. Gam oblations is the chief mystic syllable. (The syl­
+lables ) commencing with giim are the heart etc. (of the mystic
+syllable) . Having invoked
+(god)
+(saying) , "come
+(obei­
+sance) to ulka (the fiery) ''. The permission (for the deity) to go
+(would be by saying) "Go away (obeisance) to ulka (the fiery)".
+One should worship commencing with 'ga' and 'gam' and ending
+with ulka by (offering) modaka (sweet ball) etc. (The sacred
+syllable would be)-"Om we know the great fiery (god), we
+meditate on the (god) with the curved trunk, let that god having
+the tusk impel us". One who performs the vow on the fourth
+lunar day in the month of bhiidrapada (September-October)
+would reach (lord) Siva. One would get (alldesired things) by
+worshipping the lord of attendants on the fourth lunar day
+on Tuesday. It is known to be avighnii caturthi (the fourth
+lunar day without any obstacle) on the night of the fourth lunar
+day in (the month of) phiilguna (March-April ) . One who wor­
+ships (the lord of) attendants on the fourth lunar day in (the
+month of) caitra (April-May) with damana would be happy.
+
+
+504
+Agni Purii'f)a
+
+## CHAPTER ONE HUNDRED AND EIGHTY
+
+
+## Fire-god said :
+
+Vows observed on the fifth lunar day
+
+## 1 -2. I shall describe the vow (performed) on the fifth lunar
+
+day which would confer health, heaven and emancipation. The
+serpents Vasuki, TakĒaka, Kaliya, MaJ).ibhadraka, Airavata,
+DhrtaraĒtra, Karkotaka and Dhanaiijaya should be worshipped
+(on the fifth lunar-day) in the bright fortnight in (the month of)
+nabhas
+(August-September) ,
+nabhasya
+(September-October) ,
+iiJvina (October-November) and kiirttika (November-December) .
+These would confer protection from fear, longevity, learning,
+fame and wealth.
+
+## CHAPTER ONE HUNDRED AND EIGHTYONE
+
+Vows observed on the sixth lunar day
+
+## Fire-god said :
+
+
+## 1-2. I shall describe vows (to be performed) on the
+
+sixth lunar day. It should be done in (the mom.hs of) kiirttika
+(November-December) etc. One who eats fruits and offers
+libation etc. on the sixth lunar day gets enjoyment and emanci­
+pation. The skandQJOJti vow (done) on the sixth lunar day in
+(the month of) bhiidra (pada)
+(September-October) is said to
+(confer) undiminishing (benefits) . I shall describe the kri'f)a­
+it¥tivrata that should be done in (the month of (miirgasiria)
+(December-January) remaining without food for a year. One
+would get enjoyment and emancipation (by that) .
+
+## CHAPTER ONE HUNDRED AND EIGHTYTWO
+
+Vows observed on the seventh lunar day
+
+## Fire-god said :
+
+
+## 1 -4.
+
+I shall describe vows (performed) on the seventh
+lunar day that would yield enjoyment and emancipation. One
+
+
+
+## 1 83. 1-1 7
+
+505
+would be free from grief by worshipping Sun in the white lotus
+in the month of miigha (February-March) . One would
+get
+everything by the worship of Sun on the seventh lunar dayin the
+month of bhiidra (pada) (September-October) . The worship of
+Sun in the bright (fortnight) in the month of patJ!a (January­
+February) without taking food would destroy the sin. The
+seventh lunar day in the dark fortnight (in the month) of
+miigha (February-March) would confer everything. The seventh
+lunar day in the bright fortnight in (the month of) phiilguna
+(March-April) (is known as) nandiisaptami. (It confers benefit)
+by the worship of Sun. The seventh lunar day in the bright
+(fortnight) in (the month of) miirga.fir!a (December-January
+(is known as) apariijita (unconquered) . (lt would make one so)
+by worshipping (Sun then) . Women (who worship) on the
+seventh lunar day in the bright (fortnight) in (the month of
+miirgasir!a (December-January) and for a year would get female
+children.
+
+## CHAPTER ONE HUNDRED AND EIGHTYTHREE
+
+Vows observed on the eighth lunar day
+
+## Fire-god said :
+
+
+## 1-2. I shall describe the vows (to be performed ) on the
+
+eighth lunar day. Lord Krg1a (one of the ten manifestations
+of lord Vi¡l).u) was born in (the asterism) to rohiTJ,i on the eighth
+lunar day in the month of bhiidrapada (September-October) at
+midnight. Hence the eighth lunar day would be victorious.
+By fasting on that day one would become free from sins corrunit­
+ted in seven generations.
+
+## 3. Fasting on the eighth lunar day in the dark fortnight in
+
+(the month of) bhiidrapada (September-October) marked by
+(the asterism) rohiTJ,i one should worship lord Kr¡l).a, the besto­
+wer of eۈoyment and emancipation.
+4-1 7. I invoke (the gods) Knl.la and Balabhadra (brother
+of the former) and Devaki (mother of the former) , Vasudeva
+(father of the former) , Ya8odii. (the cowherdess who brought up
+
+
+506
+Agni Puriir.ta
+Krg1a in
+his childhood) and the cows. I worship them.
+"Obeisance to you. Obeisance (repeated) to the communion,
+the master of the communion and the lord of the communion.
+Obeisance (repeated) to the one who grazes the cows and the
+one who is born of communion." (Water for) bathing should
+be given and the libation should be made with this (utterance) .
+Obeisance to the sacrifice, the lord of the sacrifice and the master
+of sacrifices. 0 Lord ! Accept the fragrant flowers dear to you.
+0 Lord ! Saluted by the celestials ! Be the bestower of all my
+desires. 0
+Perfumed by the incense ! You being incensed
+accept the incense (offered) by me. 0 Lord Hari ! You make
+me always profusely perfumed. You accept the great lamp that
+is lighted and offered by me and be always conferer of the light
+of the lamp. Make me going upwards. Obeisance (repeated)
+to the universe, master of the universe and lord of the universe.
+It has been made known to the one born of the universe etc. and
+the cowherdsman. Obeisance (repeated) to virtue, master of
+virtue, lord of virtue and to the one born of virtue etc. 0 cow­
+herdsman ! You lie down. Obeisance (repeated) to one who is
+everything, to the master of everything, to the lord of everything
+and to the one born of everything. And to the cowherdsman,
+the purification. 0 The one born of the milky ocean ! The
+one born of the eye of (the sage) Atri ! 0
+. One having the spots
+resembling the hare ! Accept libations of mine in the company
+of rohiTJi (the asterism, referred to as the wife of the moon ) .
+The lord should be established on the altar. Rohil).i together with
+the moon should be worshipped. (In the same way) one should
+worship Devaki, Vasudeva, Yasoda, Nandaka (foster father of
+Kr¡l).a) and Bala (bhadra) . Showers of milk together with molas­
+ses and clarified butter should be made to fall (on the image)
+in the midnight.Clothes, gold etc. should be given (to brahmins) .
+The person who practises the vow should feed the brahmins.
+One who does the vow of janmiifjami (the eighth lunar day, the
+birth-day of KnJ.:la) would have children and attain the world
+of Vi¡l).u. One who does it every year seeking progeny does not
+know any fear. "Give me children. Give me riches, longevity,
+health, progeny, virtue, desire, fortune, heaven and emancipa­
+tion.
+
+
+
+## 1 84. 1 - 1 0
+
+507
+
+## CHAPTER ONE HUNDRED AND EIGHTYFOUR
+
+Vows observed on the eighth lunar day
+
+## Fire-god said :
+
+
+## 1 . Since (the gods) Brahma and others worshipped the
+
+(divine) mothers one should repeat (their names) on the eighth,
+lunar day of the group of (divine) mothers. One would get
+wealth by the worship of (lord) KrĒQa on the dark fortnight in
+the month of caitra (April-May) and for a year.
+2-1 0.
+I shall describe the kr:TJ¾Iami vrata (the vow practised
+on the eighth lunar day of the dark fortnight) . It should be per­
+formed in the month of miirgasira (December-January) . Having
+(fasted) in the night and becoming pure one should drink cow's
+urine in the night. The doer of the vow should lie on the (bare)
+floor in the night and worship (lord) Sa.ilkara (Siva ) . (One
+should worship ) lord Sambhu tSiva) in (the month of) paÛa
+(January-February) after taking ghee lord Mahesvara (the
+great lord, Siva) in (the month of) miigha (February-March)
+(taking) milk and lord Mahiideva (the great god, Siva) in
+(the month of) phiilguna (March-April) after fasting and taking
+sesamum. One should worship lord SthiiQU (firm as the pillar,
+Siva) in (the month of) caitra (April-May) taking barley and
+lord Siva in (the month of) vaisiikha (May-June ) taking water
+with kusa and lord Pasupati (lord of the flock) in (the month
+of) jyai:tha (June-July) taking srngodaka. One (should worship)
+lord Ugra (the fierce, a form of Siva) in (the month of)
+Άiir/.ha (July-August) eating cow-dung, (lord) Sarva (a form
+of Siva) in (the month of) sriiva7Ja (August-September) eating
+the arka (the sun-plant) , lord Tryambaka (three-eyed) in
+(the month of) bhiidrapada (September-October) eating bilva
+leaf in the night, lord Isa (a form of Siva) in (the month of)
+iisvayuji
+(October-November) eating rice and lord Rudra in
+(the month of) kiirttika (November-December) taking curd.
+Oblations should be made and worship should be offered in a
+circle at the end of the year. Cow, clothes and gold should be
+given to the preceptor. Mter having requested the brahmins
+thus and after feeding them one would get enjoyment and eman­
+cipation. One should eat only in the night on the eight lunar
+.days. One who gives a cow at the end of the year would get the
+
+
+508
+place of Indra (the lord of celestials ) . Svargativrata (the
+vow that conveys one to heaven) is described. When the eight.
+lunar day (falls) on a Wednesday in both fortnights, then_
+the vow should be practised. Otherwise one who eats (food)
+with molasses and observes discipline on that (day) would_
+never have his fortune affected.
+1 1-12. Eight times fist full of rice less the quantity that would.
+rest on two fingers should be cooked and kept on mango leaves
+knit together and spread on the kufa and (the goddess) Ambika
+with her retinue and benevolent attendants should be worshipp-­
+ed. (The food) should then be eaten while the anecdotes
+(relating to the goddess) are being heard. Fees should be paid_
+according to one's means. (One should also give) karkati (a sort
+of cucumber) together with rice.
+1 3-23.
+
+## (The following is the anecdote related to the vow) :
+
+(There was) a brahmin (by name) Dhira. His wife (was)
+Rambha, son Kausika and daughter Vijaya. The bestower of"
+wealth for that Dhi:ra was a bull. Kausika took that and was
+grazing it in the company of cowherds. When he was bathing
+in the river Ganges, the bull was driven away by thieves.
+Mter bathing and not finding the bull he started searching for­
+that in the company of his sister Vijaya. He then found a group­
+of divine damsels in a tank and asked them to give (him) food.
+The group of damsels told him "You do the vow and hence (be)
+our guest and eat". (Accordingly) after performing the vow he
+ate (the food) and got (the position of) the guardianship of the
+forest. He then came to Dhira with the bull and Vijaya. Vijaya
+was given by Dhira to the God of Death and the father died
+(afterwards) . On account of the merits of the vow Kausika.
+became the king of Ayodhya. Seeing the parents in hell
+Vijaya (felt) grief-stricken. She went to the God of Death (and)
+implored him to show them mercy) . (Finding Dhira) come for
+hunting (the next day) she asked him how he got freed from
+hell. The God ofDeath said that it was after getting the two vows
+which Kausika had given. The two parents reached heaven as a
+fruit of the two eight lunar days on Wednesday. Vijaya rejoiced_
+and practised the vow for accomplishing enjoyment and emanci­
+pation. Those who drink eight buds of asoka in the ( asterism)
+punarvasu in the month of caitra (April-May) on the eighth lunar
+day of a white (fortnight) would never get grief. (The following-
+
+
+
+## 1 85. 1 - 1 0
+
+509
+
+## is the prayer made to a!oka) :
+
+"0 Asoka ! Dear to Lord
+Hara (Siva) ! One produced in the month of madhu (January­
+February) ! Being tormented by grief I am drinking you. You
+always make me free from grief. One who worships
+(divine)
+mothers in (the month of) caitra (April-May) on the eighth
+lunar day would conquer his enemies.
+
+## CHAPTER ONE HUNDRED AND EIGHTYFIVE
+
+Vows observed on the ninth lunar day
+
+## Fire-god said :
+
+I . I shall describe the vow (performed) on the ninth lunar
+day which would accomplish enjoyment, emancipation etc.
+The goddess should be worshipped in the bright
+(fortnight)
+in (the month of) iiJvina (October-November ) . It is known as.
+the gaurinavamivrata.
+
+## 2-4. The ninth lunar day known as the P#taka (cake made
+
+of the flour of any grain) (is called so) on account of eating the
+cake and worshipping the goddess. On the eighth lunar day in
+the bright ۉfortnight) in (the month of) iiJvina (October-No­
+vember) when the sun is in the (constellation) Virgo in the aste­
+rism mula is said to be the great navami (nintil lunar day) which
+destroys the sin always. (Goddess) Durga (a form of the consort
+of Siva) should be worshipped as housed in nine places or as
+stationed in one place having eighteen hands.
+The rest (of the
+images) (should have) sixteen hands. The collyrium and r/.amaru
+(little drum) (should be held in two hands) .
+
+## 5-I 0.
+
+(The forms of the goddess) to be worshipped (are)
+RudracaJ.lQ.a, PracaJ.lQ.a, Cai).Q.ogra, Cai).Q.anayika,
+Cai).Q.a,
+Cai).Q.avati, Cai).Q.ariipa, Atical).<;iika and U gracaJ.lQ.a (other­
+wise known as) Durga, the killer of the buffalo (demon) in order
+at the centre. The ten-syllabled mystic formula is Om Durga !
+Durga ! The protector ! Oblations ! It begins with the long
+letter a, has nine eyes and ends with 'obeisance'. Obeisance,
+svadhii, v·alkiira and hrt etc. occupy six places. Mter having
+assigned the limbs in the toes to the little finger, (goddess) Siva.
+
+
+5 10
+Agni Purat).a
+should be chanted. One who repeats thus the secret (syllable)
+would not be affected by anybody. One should worship ( the
+goddess)
+as holding human skull, khetaka (club) ,
+bell,
+mirror, threatening posture, bow, banner, little drum and noose
+in left hands. One should worship (her as holding) the wea­
+pons spear, club, pike, thunderbolt, sword, dart, conch, disc
+and stick (in right hands) .
+1 1 -15. Mter having repeated (the name) Kali (twice)
+(a
+form of consort of Siva) , the animal (that is to be offered to her)
+should be killed with a sword. "0 Kali ! Kali ! Vajre8vari
+(the goddess with the thunderbolt) ! Obeisance to the one hav­
+ing the metal rod ! "
+(is the formula) . The blood and flesh
+got from that (killing) (should be offered) to Piitana (a demon­
+ness) on the south-west, to PaparakĒasi (the demo ness represent­
+ing sin) on the north-west, to Caraki (a form of the goddess)
+-on the north-east, to Vidarika on the south-east and Maha­
+kausika (should be worshipped) for the fire. The king should
+bathe in front of that and kill the (form of the) enemy made of
+the cake. Offerings should be made to Skanda and Visakha
+(the progeny of Siva and Parvati) . (The goddesses)
+Brahmi
+and others should be worshipped in the night. Obeisance to you
+0 Jayanti (victorious) ! Ma.Iigala (auspicious) ! Kali (dread­
+ful) ! Bhadrakali (Benevolent Kali) ! Kapalini (the bearer of
+(the 'skull) ! Durga (difficult to reach) ! Siva (auspicious) !
+K¡ama (forbearance) ! Dhatri (supporter) ! Svaha and Sva­
+dha (the two syllables used at the time of oblations made into
+fire ) . After having bathed the goddess with the five sweet things,
+she should be worshipped with veneration etc. One who carries
+the goddess in a chariot with banner etc. and offers a victim would
+get all benefits.
+
+## CHAPTER ONE HUNDRED AND EIGH'IYSIX
+
+Vow observed on the tenth lunar day
+
+## Fire-god said :
+
+
+## 1 .
+
+I shall describe the vow (to be performed) on the tenth
+lunar day that would confer virtue, desire etc. One should
+
+
+
+## 1 87. 1 -9
+
+5 1 1
+eat once on the tenth lunar day and give ten cows as gift at
+the end. Land and gold should be given. One would become a
+lord of the brahmins.
+
+## CHAPTER ONE HUNDRED AND EIGHTYSEVEN
+
+Vows observed on the eleventh Lunar day
+
+## Fire-god said :
+
+
+## 1-9. I shall describe the vow (to be performed on the)
+
+eleventh (lunar) day that would yield enjoyment and emanci­
+pation. One should take restricted food, avoid (catinp;) flesh
+and copulation.
+He should not take food on the eleventh day
+in both the lunar fortnights. When there is a conjunction of the
+eleventh and twelfth (lunar) days (lord) Hari (Viǋ:t;lU) is present
+therein. One gets the merit of doing hundred sacrifices by
+(such fasting and) taking food on the thirteenth (lunar) day.
+When a pare of the eleventh day exists followed by the twelfth
+day (if one fasts) and takes food on the thirteenth day one gets
+the merit of (doing) hundred sacrifices. One should never eat
+at the junction of tenth and eleventh (lunar) days. It would
+confer hell. One should fast on the eleventh day and take food
+the next day (and say) "0 lotus-eyed ! I am eating. 0
+The unchanging one ! (You) become my refuge". When the
+asterism puva rules over the eleventh day of a bright fortnight
+one is said to get undiminishing benefit. It is known to be des­
+troyer of sins. If the ( asterism) srava7J-a marks the conjunction of
+the eleventh and twelfth (lunar) days, it is said to be victorious.
+It confers victory on the votaries. The same in the month of
+phiilguna (March-April) and endowed with the (asterism) puva
+it is said to be victorious by pious men. (It is said to be of) crores
+and crores of virtues. One should worship lord Viǋ:t;lU on the
+eleventh day. It confers all good, (makes one) wealthy and be­
+gets progeny in this world. It makes him honoured in the world
+of lord Viǋ:t;1U.
+
+
+5 1 2
+Agni Pura1)a
+
+## CHAPTER ONE HUNDRED AND EIGHTYEIGHT
+
+Vows observed on the twelfth lunar day
+
+## Tf.e Fire-god said :
+
+1 -14.
+I shall describe the vows (to be observed) on the
+twelfth (lunar) day that would confer enjoyment and emanci­
+pation. The person practising the vow should eat once in the
+course of the day food that has been got without seeking alms,
+or fast or eat food obtained after seeking alms. One who practises
+the vow of Madanadvada!i should worship lord Hari and the
+God of love on the twelfth day in the bright fortnight in the month
+of caitra (April-May) , if he desires enjoyment and emancipa­
+tion. One who practises Bhimadvadasi on the twelfth day in the
+bright (fortnight) of (the month of) magha tFebruary-March)
+should worship (lord) Vigm (repeating) "Obeisance to lord
+Narayal).a (attribute of Vigm) " . He gets all things. One who
+practises
+Govindadvada!i (should worship)
+in the
+bright
+fortnight of pkalguna (March-April) . One who performs the
+Visokadvada!i should worship lord Hari in the (month of)
+asvayuja (October-November) . One who gives salt on the twelfth
+day of a bright (fortnight) in the (month of) marga!irΈa (Decem­
+ber-] anuary) after worshipping lord KnJ).a, is deemed to
+have given all niceties (of food) . One who observes the vow of
+Govatsadvadasi should worship a calf in the (month of) bhadra­
+(pada)
+(September-October) . When the (month of) magha
+(February-March) is over and if the twelfth (lunar) day is
+marked by the (asterism) srava1)a in the dark (fortnight) , it is
+said to be Tiladvada!i. Bathing and oblation are done with
+sesamum. Sesamum balls are the offering. A lamp (should be
+lit) with the sesamum oil. Then water oflibation should be given
+together with sesamum. Sesamum should be given to brahmins.
+One gets the fruit by doing oblation and fasting. One should
+worship (with the sacred syllable) Om. Obeisance to lord Vasu­
+deva. One who practises the vow of Tiladvada!i reaches
+heaven with his family. One who performs
+Manorathadva­
+da!i should worship in the bright (fortnight) in (the month of)
+phalguna (March-April ) . One who practises the vow of Nama­
+dvadasi should worship lord Hari for a year with (the recita­
+tion of) names Kesava and others. That person would reach
+neaven and not hell. One becomes the performer of the vow of
+
+
+
+## 1 89. 1- 15
+
+5 1 3
+SumatadviidaJi by the worship (of the lord) in the bright (fort­
+night) in (the month of) phiilguna (March-April ) and the per­
+former of the vow of AnantadviidaJi in the bright (fortnight) in
+the month of bhiidrapada (September-October) . A person who
+performs TiladviidaJi should do oblations with sesamum and
+worship (the lord saying) "Obeisance to (lord) KrĒ:Qa" in the
+asterisms of iisle!ii or millii in (the month of) miigha (February­
+March) . The performer (of the vow) of SugatidviidaJi should
+worship (the lord) in the bright (fortnight) in (the month of)
+phiilguna (March-April) . (One should worship the lord) for a
+year (on the twelfth days) (saying) "0 Victorious Kn:Qa !
+Obeisance to you" to get enjoyment and emancipation. One is
+(known to be) the performer of SampriiptidviidaJi (by the worship
+of the lord) on the twelfth day in the bright (fortnight) of paU!a
+(January-February) .
+
+## CHAPTER ONE HUNDRED AND EIGHTYNINE
+
+Rules oJ observing SriivaTJ,adviidaJi vrata
+
+## Fire-god said :
+
+
+## 1 -2.
+
+I shall describe the (mode of performance of) SriivaTJ,a­
+dviidaJi. Fasting (on the twelfth day) in the bright (fortnight)
+in the month of bhiidrapada (September-October) marked with
+(the asterism) sravaTJ,a is highly meritorious. One would get the
+benefits of the SriivaTJ,adviidaJi by bathing at the confluence of
+rivers. (The twelfth day) marked by (the asterism) JravaTJ,a
+and a Wednesday is extremely meritorious for making gifts.
+3-1 5.
+One should do even that which is prohibited. One
+should eat after the fast on the thirteenth (lunar) day. One
+should fast on the twelfth (lunar)day (saying) "I am worshipp­
+ing Vamana" and invoke the golden (image) (of Vamana)
+in a water-pot (saying) "I am invoking Vamana, (a form, of)
+Vi¡:QU bearing the conch and disc. I am bathing lord Vi¡:QU
+with waters such as the five sweet things and others in the pitcher
+covered by a pair of white cloth (and provided with) good
+umbrella and sandals. ( I worship lord) Vi,rTJ,u holding an um­
+brella and staff. Obeisance to Vamana. 0 Lord of the celestials
+
+
+514
+Agni PuriiT].a
+I offer you libation. Being worshipped always with good liba­
+tion and others you make me endowed with enjoyment, emanci­
+pation, progeny, fame and all fortune. Obeisance to Vii.mana."
+With this (sacred syllable) , perfume (is offered)and oblations
+hundred (times are made) . "Om, Obeisance to Vasudeva."
+The head of lord Hari is worshipped. Similarly
+the face
+(is worshipped with the syllable obeisance) to Sridhara, and on
+the neck (with) "Obeisance to Krl?I.la", the chest (with) "Obei­
+sance to the consort of Sri (Lak¡mi, the arms (with obeisance) "
+to the wielder of all weapons", the navel (with) "Obeisance to
+the omnipresent", the hip (with) "Obeisance to Vii.mana, the
+male organ with (obeisance ) "to the Creator of the three worlds".
+The shank of lord Hari should be worshipped (with Obei­
+sance) " to the lord of everything". The feet of Vi¡I}.U (are wor­
+shipped with) "Obeisance to the lord of all beings" . Offering
+prepared in ghee as well as pitchers with curd rice should be
+made. After having remained awake in the night and bathed
+in the morning at the confluence (of rivers) and worshipped
+with perfumes, flowers and other things, one should say "This
+handful of flowers (is offered) " "Obeisance to you, 0 Go­
+vinda ! One who is named as
+(the planet)
+Mercury and
+(asterism) sravaTJ.a ! You destroy the floods of sins and become
+the conferer of all happiness. 0 Lord ! Lord of celestials !
+Be pleased with me always 0 Janii.rdana !" Vamana is the
+bestower of wisdom. Vii.mana himself is stationed in the mate­
+rials. Vii.mana accepts the gift and Vii.mana also confers on me.
+Vamana is always stationed in the materials. Obeisance to
+Vamana". Mter having given fees to the brahmins and fed
+them, (the performer) himself should take food.
+
+## CHAPTER ONE HUNDRED AND NINETY
+
+Mode of practising AklzaTJ.4adviidasi vrata
+
+## Fire-god said :
+
+
+## 1 -6. I shall describe the (mode of performing) AkhaTJ.4a­
+
+dviidafi vrata (unbroken twelfth day), that is complementary to all
+
+
+
+## 191. 1-10
+
+51 5
+vows. The performer should worship lord ViᆆI).U on the twelfth
+day in the bright (fortnight) in the (month of) miirgasirfa (De­
+cember-January) after fasting and bathing in water mixed with
+five things got from a cow and drinking the same. He should
+give to a brahmin a vessel with barley and rice on the twelfth
+day. "0 Lord ! that vow which has been broken by me in the
+(past) seven births let it now get complete for me by your grace.
+0 Excellent Being ! Just as you are the unbroken entire world,
+in the same way let all my vows get completed." It is laid down
+for every month in the same way for four months. Otherwise
+(it may be practised) in the months of caitra (April-May) etc.
+Vessel (filled) with flour should be given as a gift. If the vow
+is begun in the (months of) sriiva7Ja (August-September) etc.,
+one should break it at the end of kiirttika (November-December) .
+The deficiency in the vows (practised) in the seven (past) births
+gets fruitful by the performance (of this) . One would get long
+life, health, fortune, kingdom and pleasures.
+
+## CHAPTER ONE HUNDRED AND NINETYONE
+
+Mode of practising vows on the thirteenth lunar day
+
+## Fire-god said :
+
+1 -10.
+
+## I
+
+shall describe vows (to be practised) on the
+thirteenth day that gives all (things) . I shall describe Ananga­
+trayodasi (the thirteenth day of God of love) that was done at
+first by the God of love. Lord Hara (Siva)
+(of the form of)
+God of love should be worshipped on the thirteenth day in the
+bright (fortnight) in (the month of) miirgaJirfa (December­
+January) . One should take honey in the night and do oblation
+with ghee, sesamum and unbroken rice. One who worships
+Y ogesvara (Lord of Togas) (on the thirteenth day of the bright
+fortnight) in (the month of) pa"fa (January-February) after
+using sandal and offering oblations and one who worships Mahe­
+svara (the great lord Siva) in (the month of) miigha
+(February­
+March) (on a similar day) after using pearls would reach heaven.
+One who practises the vow should take water and raven and
+
+
+516
+Agni PuroT)a
+worship (on a similar day) in (the month of) phiilguna (March­
+April) and consume camphor and worship (lord Siva) of his
+own form in (the month of) caitra (April-May) . (By those)
+one would become fortunate. One should worship Mahariipa
+{the lord of the great form) in (the month of) vaisiikha
+(May­
+June) eating fruits of nutmeg. One who practises vow should
+worship (lord) Pradyumna (one of the five forms of Viᆇ:Q.U) on
+(a similar) day in (the month of) jyai!tha (June-July) eating
+cloves. One should worship the consort of Uma (Siva) in (the
+month of) izyii¢ha (July-August) taking sesamum water. One
+should worship the bearer of trident in the hand (Siva) in (the
+month of) sriiva7Ja (August-September) consuming fragrant
+water.
+(The practiser of vow) should worship Sadyojata
+(one of the five forms of Siva) in (the month of)
+bhiidrapada
+(September-October) consuming agallochum. One should wor­
+ship Indra (the lord of thirty-three celestials) in (the month
+of) asvina (October-November) taking gold (immersed) water.
+The
+person practtsmg vow
+should worship Vighnesvara
+(lord of obstacles, son of Siva) in (the month of) kiirttika (Novem­
+ber-December) eating madana. The golden (image of) Siva
+should be covered with mango leaves and a cow
+(covered and)
+worshipped and bed, umbrella, pitcher, sandals and vessel for
+edibles should be given to a brahmin at the end of the year.
+One should contemplate on (lord Siva) causing delight to Rati
+(wife of God of love) on the thirteenth day in the bright (fort­
+night) in (the month of) caitra (April-May) and should draw
+a!oka tree with red-lead and turmeric. One who seeks plea­
+sure should worship for a year and practice the vow of Kiima­
+trayodasi.
+
+## CHAPTER ONE HUNDRED AND NINETYTWO
+
+Vows to be observed on the fourteenth day
+
+## Fire-god said :
+
+
+## 1-10.
+
+I shall describe the vow (to be practised) on the four­
+teenth (lunar)
+day that would confer eᆈoyment and emanci-
+.
+.
+.
+.
+-
+*
+'
+
+
+
+## 193. 1-6
+
+5 1 7
+pation. One should fast on the fourteenth day in (the month of)
+kiirttika (November-December) and worship (lord) Siva. One
+who performs (the worship of) Siva (on) the fourteenth day
+would get all pleasures through the year, wealth and long
+life. One should take the vow of an ascetic on the eighth or
+third or twelfth or fourteenth day in the bright (fortnight) in
+(the month of) miirgaSirfa (December-January), eat fruit (only)
+and worship the lord. Then one should leave (taking fruits)
+and give fruits as gifts practising the vow of Phalacaturdasi. One
+should worship (lord) Sambhu (Siva) on the eighth and four­
+teenth days in both the dark and bright fortnights without eat­
+ing. (One who practises the vow) on both the fortnights would
+reach heaven. One who eats food only in the night on the eighth
+and fourteenth days of the dark (fortnight) would get all
+pleasures
+in this world
+and good position in the other
+(world) . One who bathes on the fourteenth day in the dark
+(fortnight) in (the month of) kiirttika (November-December)
+(would be) happy, when he worships Mahendra
+in flagstaffs
+in the form of the banner. One· should worship Ananta
+(endless), (a form of) Hari on fourteenth day of the bright
+(fortnight) . After having made a water-vessel out of darbha,
+one should prepare cakes from the flour of a prastha (a measure)
+of rice. He should give one half (of that) to a brahmin and
+enjoy the other half himself. (This vow) should be done near
+the river and after the narration of the anecdotes of (lord)
+Hari. "0
+(lord) Vasudeva ! Lift us drowned in the great
+ocean of endless mundane existence and put in the limitless
+form. Obeisance to you of the limitless form". After having
+worshipped with these (words) and bound the consecrated thread
+on his own hand or the neck, the performer of the Anantavrata
+becomes happy.
+
+## CHAPTER ONE HUNDRED AND NINETYTHREE
+
+Description of Sivariitrivrata
+
+## Fire-god said :
+
+
+## 1-6. Listen ! I shall describe the vow of Siva's night that
+
+confers enjoyment and emancipation. The fourteenth day in the
+
+
+5 1 8
+Agni Purdf)a
+dark (fortnight) in between (the months of) miigha (February­
+March) and phiilguna (March-April)
+is endowed with klima
+(pleasure). One who practises the vow should fast, keep awake
+(and resolve) "I shall do Sivariitrivrata fasting on the four­
+teenth day and worship lord Siva after remaining awake and
+undertaking the vow. I invoke lord Sambhu (Siva), the
+conferer of enjoyment and emancipation and the boat that
+rescues from the ocean of hell. Obeisance to you. Obeisance to
+lord Siva, the tranquil person, the bestower of progeny and
+kingdom, the giver of fortune, health, knowledge, material pros­
+perity and the pathway to heaven. Give me righteousness.
+Give me riches. Give me fulfilment of desires and enjoyment.
+Give me the happiness of good quality and fame. Get me also
+heaven and emancipation. (By the practice of this vow) the
+greedy sinner Sundarasena acquired merit.
+
+## CHAPTER ONE HUNDRED AND NINETYFOUR
+
+Details relating to the vows of Asoka-pilrf)imii
+
+## Fire-god said :
+
+
+## 1 -7.
+
+I shall describe the (vow of) Asokap ilrf)imii. One should
+worship Bhudhara (the supporter of the universe) and the earth
+on the bright fortnight in (the month of) pltiilguna (March­
+April) . One would get the whole year enjoyment an4 emancipa­
+tion. After having set free a bull in (the month of) kiirttika
+(November-December) one should do the nakta (vrata) (eating
+food only in the night) . One would reach the place of lord
+Siva. This Vua vrata (vow of letting lose the bull) is an excel­
+lent one. The offering made to the fore-fathers on the new-moon
+day relating to the forefathers has undiminishing (benefits) .
+After fasting the whole year and worshipping the forefathers one
+becomes free from sin and reaches heaven. One who worships
+the birthless deity (Brahma) on the fifteenth (lunar day) (new
+moon) in (the month of) miigha (February-March), would get
+all (things). I shall describe th.c;: 11ew-wQon day (known as)
+
+
+
+## 195. 1-5
+
+519
+the Savitri, that is auspicious and bestows enjoyment and emanci­
+pation. A woman should practise vow on the fifteenth day
+(new moon) in (the month of) jyeᆉlha Qune-July) and worship
+the great chaste woman (Savitri) at the foot of the banyan tree
+with seven (kinds of) grains after fasting three nights. Women
+should deeply embrace the banyan tree (besmearing) with saff­
+ron etc. doing dancing and singing in the night and worship
+(Satyavan and Savitri) in the morning (saying) "Obeisance to
+Savitri and Satya van". The offering should be gifted to a brah­
+min. After reaching the house one should feed brahmins and
+eat oneself and request them to go (saying) "May the goddess
+Savitri be pleased and let (me) get fortune etc."
+
+## CHAPTER ONE HUNDRED NINETYFIVE
+
+Vows relating to the week-days
+
+## Fire-god said :
+
+
+## 1 -5.
+
+I shall describe vows relating to the week-days
+that would confer enjoyment and emancipation. (The asterism)
+punarvasu on the Sunday is the hand (of Sun). Bathing with
+all herbs is auspicious (on that day). One who performs the
+ancestral rite on a Sunday would be free from disease for seven
+births. A Sunday (occurring) on the sankriinti (Sun's entry
+from one constellation into another) is the auspicious heart
+of the Sun. One who eats in the night on a Sunday (occurring)
+in (the asterism hasta) for a year would get everything. One
+who practises a vow on Mondays (occurring) in (the aste­
+rism) citra seven times would be happy. One who undertakes to
+do the vow of eating only in the night on a Tuesday (occur­
+ring) in (the asterism) sviiti seven times would be free from diffi­
+culties. One who takes the vow of eating only in the night on
+Wednesday (occurring) in (the asterism) viSiikhii seven times
+would get rid of afflictions due to planets. One who eats only
+in the night on Thursday in (the asterism ) anuriidhii seven times
+would destroy all afflictions due to planets. One who under­
+takes to practise eating only on Friday in (the asterismjyeᆊthii
+
+
+520
+for seven nights would get rid of all afflictions due to planets.
+One who resolves to practise eating only seven nights on Satur­
+day in (the asterism mula would destroy all afflictions due to
+planets.
+
+## CHAPTER ONE HUNDRED AND NINETYSIX
+
+Vows relating to different asterisms
+
+## Fire-god said :
+
+
+## 1 -7. I shall describe (the practice) of vows in (different)
+
+asterisms, Lord Hari worshipped in the asterism gives mate­
+rial prosperity. Lord Hari in the form of asterisms should
+be first worshipped in the month of caitra (April-May) . The
+legs should be worshipped in (the asterism) mula. The shanks of
+lord Hari should be worshipped in (the asterism) rohiTJ.i, the
+knee in the combination of asvini, the two thighs in the ¾ii¢ha,
+the male organ in the p urva and uttara, the hip in the krttika,
+the two sides in the bhadrapada, the belly in the revati, breasts in
+the anuradha, the backside in the dhaniĕtha. The arms should be
+worshipped in the vi.Mkha, the fingers in the punarvasu. Having
+worshipped nails in the aileia, the neck should be worshipped
+in thejyeĕtha. The two ears of lord Viᆋᆌu should be wor­
+shipped in the srava7J.a and the face in the pus_ya. The tip of the
+tooth should be worshipped in the svati, the face in the sata­
+bhΉak, the nose in the magha, the eyes in the mrga.firĔa, the
+forehead in the citra and the hair in the Ardra. A golden image of
+lord Hari should be worshipped in a pot filled with molasses
+at the end of a year and bed, cow and materials (should be given)
+as fees.
+
+## 8-22.
+
+Lord
+VigJ.U
+should be
+worshipped in the
+form of the asterisms and in the form of lord Siva. One who
+practises the vow (known as) , Sambhavayaniya should worship
+lord Hari in the asterisms of every month, in the krttikas in
+the (month of) karttika, in the mrgasirĔa in the mrgasyaka (magha) ,
+with the names, such as Kdava etc. or (with the words) "Obeis­
+ance to Acyuta (one without a loss) ". One should worship
+
+
+
+## 196. 1-22
+
+52 1
+lord Hari of the form of the asterisms on the day of (the aster­
+ism)
+krttikii in the (month of) kiirttika. (One should resolve
+that) "I shall do the vow (known as the) Sambhaviiyan!J!a, that
+confers enjoyment and emancipation. I am invoking the lord of
+great forms such as Kesava etc., that bestows everything and
+furthers longevity and health". Food together with a pool
+(should be offered) for four months commencing with kiirttika.
+Rice and pulse boiled with spices (should be offered for four
+months) beginning with phalguna and sweet gruel from Fiidka.
+Ofiering should be made to the lord and brahmins in the night.
+One becomes pure after bathing in water (mixed with) the five
+things got from a cow and drinking the same. Whichever mate­
+rial is offered before allowing the invoked deity to go is told as
+offering.
+When lord Jagannatha
+(the lord of the world) is
+allowed to go it becomes the remains of the ofiering in a moment.
+"0 Acyuta (one without a loss) ! Obeisance to you. Let my
+sin get destroyed and (my) merits grow. Let all my fortune,
+wealth etc. be without decay. Let not my progeny get destroy­
+ed. Just as you are decayless, greater than the greatest, that
+Supreme soul who has become the Brahman, in the same way,
+you make that desired by me as without a loss. 0 Immeasur­
+able one ! You take away the sin done by me.
+One without
+a loss ! Limitless ! One who protects the cows ! You grace me
+with the desired things. 0
+Immeasurable being ! You make
+me without a loss, 0 Excellent among beings !" Mter having
+worshipped for seven years one would get enjoyment and emanci­
+pation. I shall describe the vow (known as) Ananta, {endless)
+among the vows relating to asterisms, that would yield wealth.
+One should worship lord Hari in the
+(asterism)
+mrgaJira in
+(the month of) miirgasirGa drinking cow's urine. Lord Ananta
+(the limitless) confers endless fruits for all desires and also the
+same endless {fruits) in the next birth. This great vow makes
+one acquire a limitless acquisition of merits. It would make one
+get the desired objects without loss. Mter having worshipped
+the feet etc., one should eat without oil in the night. Oblation
+should be made for four months for the sake of Ananta with
+ghee. Oblation (should be made) with rice (for four months)
+commencing with caitra and with milk in {the four months)
+beginning with Jriival)a. Mandhata was born as the son of
+Yuvanasva as a result of (doing) Anantavrata.
+
+
+522
+Agni Pur4T)a
+
+## CHAPTER ONE HUNDRED AND NINETYSEVEN
+
+Vows performed on certain days
+
+## Fire-god said :
+
+
+## 1 -6.
+
+I shall describe the vows to be performed on certain
+days. I shall first explain the Dhenuvrata (vow of giving a cow
+as a gift) . One who gives as a gift a cow delivering a calf together
+with plenty of gold and observes the payovrata (drinking milk
+oozing from the udders of a cow), reaches the exalted position.
+After practising payovrata for three days and giving a golden
+(replica of) kalpapiidapa (the celestial tree that yields
+the
+desired object), one reaches the place of lord Brahma. This is
+known as the kalpavrkfavrata. One should give as gift golden
+(replica of) earth (weighing) more than twenty palas and prac­
+tise payovrata that day. That person would reach (the world of)
+Rudra. One who eats food only once a day for three days in
+every fortnight would get enormous wealth. One who observes
+the trinltravrata (vow for three nights) every day in every month
+eating only once (in the nights) for three nights in every month
+would get the place of GaQ.cia. One who practises the tririitra­
+vrata intended for lord Janardana (a form of ViÊQ.u) would
+reach the abode of lord Hari taking with him hundreds of his
+own family.
+7-1 1 . One who practises the vow called tririitravrata should
+begin it on the ninth day in the bright fortnight in (the month
+of) miirgaiirfa. One should repeat, "Om, obeisance to Vasudeva",
+a thousand or hundred times. One should eat once on the eighth,
+day, fast for three days worship lord ViÊQ.U on the twelfth
+day and practise the vow in kiirttika. Mter having fed the brah­
+mins, one should give clothes, beds, seats, umbrellas, sacred
+threads and vessels. He should then request brahmins "What­
+ever has become incomplete for me in this difficult vow, let it
+become complete being permitted by you". One who practises
+the tririitravrata would attain lord ViËQ.U after having enjoyed
+all comforts.
+12-16.
+I shall describe the kiirttikavrata that would confer
+enjoyment and emancipation. One who partakes five things
+got from a cow on the tenth day, fasts on the eleventh day and
+worships lord ViËQ.U in the bright fortnight in kiirttika would
+
+
+
+## 198. 1 -7
+
+523
+reach him by the celestial vehicle. One who eats for three
+nights in caitra and gives five goats would be happy. Drinking
+milk for three nights and fasting for three days on the sixth day
+etc. of the bright fortnight in kiirttika is said to be the expiation
+miihendra. After having drunk milk for five nights, fasting,
+taking only curd, on the eleventh day in kiirttika is (known to
+be) the expiation Bhaskara, that confers wealth. Taking gruel
+made of barley and rice, curd, milk, ghee and water on the fifth
+day etc. in the bright fortnight is known to be expiation
+siintapana.
+
+## CHAPTER ONE HUNDRED AND NINETYEIGHT
+
+Vows performed in different months
+
+## Fire-god said :
+
+
+## 1 -2. I shall describe vows
+
+(to be performed) in differ­
+ent months, that would yield enjoyment and emancipation. A
+wise man should avoid bathing with oil for four months com­
+mencing with ¾iir/.ha. One who abstains (from using) flower
+and salt and gives a cow (as a gift) in vaisiikha would become
+a
+king. One who gives a cow and fasts a month is said to practise
+a terrible vow and is deemed to be lord Hari.
+
+## 3-4.
+
+One who bathes (daily) early in the morning for four
+months commencing with ¾iir/.ha would reach lord Vigm.
+One who gives molasses and cow in the month of miigha or caitra
+on the third day would be the great performer of the gurjavrata
+(vow of giving away molasses) and he would get (an identical
+form of) consort of Gauri. One who eats food only in the night
+in the months of miirgasirΊa etc. would attain the world of lord
+ViĒJ).U.
+
+## S-7.
+
+So also one who eats only once a day and observes the
+twelfth day vow would do. One who rejects fruit for four months
+commencing with sriivm;a and gives (the fruits) as gift would get
+everything. One should fast on the eleventh day in the bright
+fortnight in ΋iirjha and prepare to do the vows lasting for four
+months. One should worship lord Hari in the ¾iirjha at the
+entry of the Sun (into a constellation) in karkaJa.
+
+
+524
+Agni Pur4{1a
+
+## 8ՠ10.
+
+"0 lord ! This vow has been undertaken by me in
+your presence. 0 Kesava !
+When you are pleased let it be
+accomplished without impediment. 0 lord ! If I die after
+taking this vow and the vow becomes incomplete, let it become
+completed by your grace, 0 Janardana !"
+One should avoid
+eating flesh and a bralunin should refrain from (the use of) oil
+and worship lord
+Hari. One who fasts on alternate days and
+for three nights would reach the world of lord ViÊQ.U.
+
+## 1 1 . One who p1a.ctises the ciindrayaƵza would reach the world
+
+of ViÊQ.u, the vow of silence would be fit for liberation, the vow
+ofprajapatya eating the flour of barley would reach heaven.
+12-15.
+One who takes milk etc. and one who takes five
+things got from
+a cow would reach heaven. A person eating
+vegetables, roots and fruits would reach the world of ViÊQ.U.
+One who avoids flesh and tasty food and takes barley would
+reach lord Hari.
+I shall describe the Kaumudavrata. Having
+observed a fast on the twelfth day in karttika one should besmear
+lord Vi͏ Q.U
+(with sandal) and worship (him) with
+lotuses
+and blue lotuses and ofler a lamp lit by ghee and sesamum oil.
+"Om obeisance to Vasudeva." One should worship him with
+a garland of miilati (flowers) . One who practises the kaumuda­
+vrata would get piety, pleasure, wealth and liberation. One who
+practises the vow offasting in the months (specified) and worships
+lord
+Hari
+would
+get
+everything.
+
+## CHAPTER ONE HUNDRED AND NINETYNINE
+
+Vows relating to different seasons
+
+## Fire-god said :
+
+
+## 1 -3.
+
+I shall describe
+the vows relating to the seasons
+that would bestow enjoyment and emancipation. A brahmin
+who gives away fuel in the four seasons beginning with the rainy
+season and gives ghee and cow at the end would become agni­
+vrati. Maintaining silence at the twilight and giving a pitcher
+with ghee at the end of the month as well as sesamum, bell and
+clothes one would be happy. (He is known to be) the performer
+
+
+
+## 1 99.4--200. 1-5
+
+525
+of Siirasvatavrata. One who bathes with the five sweet things for
+a year and gives away a cow would become a king.
+
+## 4-5.
+
+Eating only in the night on the eleventh day in caitra
+food should be offered to llord Vi_J.lu) . That person who prac­
+tises the ViPtu-madvrata would reach the golden feet of lord
+ViglU at the end of the month. One who eats sweet gruel and
+offers a pair of cows as a gift would get fortune. He would be
+(known as ) the performer of Devivrata. One who offers to the
+pitrdevas (the dead ancestors) and eats (the
+food)
+would be­
+come a king.
+
+## 6-8.
+
+I have described the VarPavratas (the vows relating to
+rainy season) . I shall describe the vows relating to the movement
+(of the Sun ) . A person who keeps awake in the night at the time
+of the movement (of the Sun from one constellation into another)
+would go to heaven. Similarly worship of Siva in the form of
+the Sun at the time of the new-moon and Sun's
+movement
+(would get the same result) . Bathing (the image of) Kesava
+with a prastha (a kind of measure) of clarified butter of thirty­
+two pala measures one gets free from all sins. One who bathes
+(the lord) with ghee, milk etc. at the time of the equinox etc.
+(would get the same fruits ) .
+9- 1 0.
+The Umiivrata done on the third day and the eighth
+days confers fortune on women. One who worships (goddess)
+Gauri and
+lord Mahesvara would get all fortunes. Mter
+worshipping Umiimahesvara one gets non-separation. The main
+performer of the vow in the Umesavrata is the woman. A woman
+who is devoted to the Sun would certainly become a male.
+
+## CHAPTER TWO HUNDRED
+
+Vow of giving a gift of lamp
+
+## Fire-god said :
+
+
+## 1 -5. I shall describe the vow ofmaking a gift of a lamp that
+
+would yield enjoyment and emancipation. One who gives a
+lamp to the abode of a deity or a house of a brahmin is rewarded
+with everything for a year. (One who does so ) for four months
+
+
+526
+Agni Pur4t)a
+would reach the world of ViᆍQ.u, and (giving) in kiirttika would
+reach heaven. There is nothing greater than the gift of
+a lamp, neither there was, nor there would be. One gets longe­
+vity, eyesight, fortune and progeny etc. by giving a lamp.
+One who gives a lamp enjoys in heaven after getting fortune.
+Lalita, the daughter of the king of Vidarbha, the beautiful and
+faithful spouse of a king became the foremost among hundreds of
+wives (of the king) by giving a lamp.
+That chaste lady used to
+give thousand lamps to the temple of ViᆡQ.U. When enquired
+
+## about the greatness of the lamp she said to her co-wives as follows :
+
+
+## Lalita said :
+
+
+## 6-18.
+
+In olden days Maitreya was the priest of the king of
+Sauvira. He caused a temple to be built for lord ViᆍQ.U on the
+banks of Devika. He gave a lamp (for that temple) in kiirt­
+tika. (The lamp) which was about to be extinguished was kindl­
+ed with the wick by me as a mouse with my mouth
+(taking
+shelter there) on account of being afraid of a cat. After the death
+I was born as the daughter of a king and became a queen
+among the hundred (of the king's wives) . The fruit of that act
+of kindling the lamp of the temple of ViᆢQ.u, even though not
+resolved, is enjoyed by me. Because I remember my past birth.
+I give lamps day and night.
+One who gives a lamp on the ele­
+venth day rejoices in heaven in a vehicle. One who steals
+a
+lamp would become dumb or dull or fall into the dark hell diffi­
+cult to be crossed. Seeing the crying men, the servant of the God
+
+## of Death said to them :
+
+"Enough of your wailing. What use of your wailing over
+misdeeds wantonly done by you before ? One is born as a man
+after a cycle of thousand births. 0 Extremely stupid fellow !
+Why do you run after pleasures even in that (life) ? The result
+of enjoying according to one's desire is that of coming here and
+wailing. You are enjoying the fruits of your past deed. Why
+have you not thought about it ? The embrace of the breasts of
+other women for your pleasure has given you grief.
+The worldly
+enjoyment for a while causes grief many crores of years. 0
+Seducer of other's wives ! Why do you cry "0 Mother ! ?
+What would be very heavy (to bear) when the name of Hari
+is repeated with the tongue ? Fire can be had always with a wick
+and oil at low cost.
+The lamp has been stolen by you not showing
+
+
+
+## 200. 19-20 1 . 1 -10
+
+527
+inclination for giving. That is the cause of your grief. What
+use in wailing now ? You bear that which has happened.
+
+## Fire-god said :
+
+
+## 19.
+
+After hearing what was told by Lalita, (the other wives)
+reached heaven after giving a lamp. Hence there would be great
+benefit by the gift of a lamp.
+
+## CHAPTER TWO HUNDRED AND ONE
+
+Mode of worshipping Vi:Όu in ajigure of nine compartments
+
+## Fire-god said :
+
+
+## 1 -6.
+
+I shall describe the navavyii.hiircana (worship in nine
+compartments) that was narrated by Hari to Narada. The
+letter 'a' with Vasudeva should be worshipped at the centre of a
+lotus figure and the letter ii with Sailkarᆇa.I).a and Pradyumna
+at the south, the letter a/.t and Aniruddha at the south-west,
+the letter om and Naraya:t;1a at the west, (the words) tat sat
+and Brahma at the north-west, (the letter) hum and Viᆇ:t;!U and
+(the letter) k:aum and Nrsirnha at the north, and (the letter)
+bhu/.t and Varaha at the north-east. (The letters) kam, tam,
+tam, sam and Garutmat (vehicle of Viᆇ:t;!U) (should be worshipp­
+ed) at the western entrance (of that figure) , (the letters) kham,
+cham, vam, hum, phaJ and the eastern face at the south, (the letters)
+kham, tham, pham, sam and the mace at the north. (The letters)
+bam, ΍am, mam, k:aum and Isana should be worshipped at the
+north-east, (the letters) dham, dam, bham, ham and Sri (Lakᆇmi)
+at the south and (the letters) gam, gam, vam, Jam and Puᆇti.
+(The letters) dham, vam (should be worshipped) and the gar­
+land of wild flowers at the west of the pedestal, the !Tivatsa
+(the mark on the chest of lord Viᆇ:t;!u) and
+(the letters) sam,
+ham, lam at the west and (the letters) cham, tam, yam and the
+kaustubha (the crest-jewel) to the west of it.
+
+## 7-10.
+
+(After having worshipped with)
+"Obeisance to
+Ananta", worship should be made below in the order of the ten
+(forms) of Viᆎ:t;!U and the four pitchers representing Mahendra
+
+
+528
+Agni Purib)a
+and others in the east and other directions in the above order of
+the ten forms (of Viᆏ:Q.u ) . The arches and canopy
+(should also
+be worshipped in the same way) . After having contemplated
+the orbs of fire, wind and moon with (their respective) letters in
+order, one should worship the body and then bathe it. One should
+then contemplate on the subtle form of the self in the sky,
+submerged in the white nectar that flows from the disc of the
+moon. That is the eternal seed of one's self that has been conse­
+crated by the flood. One should thus resolve the spirit that is
+being produced in the self.
+l l -1 6.
+Then one should do the location of twelve letters
+(after saying) "I am verily Viᆏ:Q.U produced (again)". The
+heart, head, tuft, armour and weapons should be located (res­
+pectively) on the chest, head, tuft, back and eyes. Then the
+weapons should be located on the two hands.
+Then one would
+have a divine body. One should do this location on the body of
+the disciple in the similar way
+(as it has been done) on one's
+self as well as the deity. The worship done for Hari on the heart
+is known to be animuiryii (without remnant) and that done in a
+circle as sanirmiiryii (together with remnant) . The disciples with
+their eyes covered should throw the flower
+(on the images)
+(at the commencement of the worship) . On which images the
+flower falls that name should be given to them. Then the discip­
+les should be seated on the left and sesamum,rice and ghee should
+be offered (as oblation) . After having made one hundred aud
+eight oblations, (one should do) thousand (oblations) for the
+purification of the body. One should do more than hundred
+(oblations) for the limbs of the images of the nine compart­
+ments. After having made the final (oblation) the preceptor
+should initiate them (the disciples) . He has to be respected by
+them with riches etc.
+
+## CHAPTER TWO HUNDRED AND TWO
+
+Different flowers used in Worship
+
+## Fire-god said :
+
+
+## 1-2. Lord Hari gets pleased with flowers, perfumes, in­
+
+. cense, lamps and offerings. I shall describe you flowers which
+
+
+
+## 202.3- 1 5
+
+529
+are fit and unfit for the god. Miilati is the excellent flower.
+Tamiila (flower) confers enjoyment and emancipation. Mallikii
+(jasmine) destroys all sins. (The flower) y ilthikii gets the world
+. of ViᆆJ}.u.
+
+## 3. Atimukta will also get the same fruit. The piitalii (flower)
+
+conveys one to the world of ViᆇJ}.U. One gets the world of Vi!?J}.U
+with the karavira (flowers) . On e becomes fortunate with japli
+(flowers) .
+
+## 4 . One would reach the world of Vi!?J}.U with the piivanti,
+
+kubjaka and tagara (flowers) . (One would reach) the world of
+Vi!?J}.U with the kaTTJikiira. There would be destruction of sin with
+kuruTJ!ha.
+
+## 5-6.
+
+One will have an excellent position with lotuses, ketaki
+and jasmine. One would reach the world of Hari with biiTJa
+flowers, barbara and krᆑTJii. Similar result would be got by a!oka,
+tilaka and ataril:abhava. The leaves of bilva would confer libera­
+tion. One will have the supreme position with the leaves of
+!ami.
+7-1 1 . One would reach the world ofVi!?J}.U with the bhrnga­
+riija. One would have same fruits with the leaves of tamiila.
+The black and white basil, white lotus, blue lotuses, lotus, red
+lotus are meritorious. Lord Hari
+(gets pleased) with a gar­
+land of hundred lotuses. One would get enjoyment and emanci­
+pation and destruction of sin with nipa, arjvna, kadamba, vakula,
+fragrant kirnsuka, munipvƴpa, gokaTTJa, niigakarT}a, sandh;·ii flower,
+bilva, raiijani, ketaki, k il!iiTJ ¢a, timira, kusa, kiisa, sara, dy ilta etc.,
+maruvaka leaves and othe r fragrant (leaves and flowers) . The
+god would get pleased with all (that is offered) with devotion.
+A flower is more meritorious than a lakh of gold and a garland,
+more than a crore times.
+12-15.
+It would be three times more meritorious with the
+forest flowers than with the flowers from one's own garden or
+another's garden. One should not worship lord ViᆐJ}U with
+withered or broken (flowers) or (flowers ) having more than the
+usual parts.
+(One would reach)
+hell
+(by worshipping)
+with kiiiicaniira, unmatta, girikaTTJikii, kutaja !iilmaliyii and sirija.
+Lord Hari (is pleased) with sugandha, brahma, lotuses and blue
+lotuses.
+Lord Hara is worshipped with arka mandiira (and)
+dhustilra flowers . .One spc;n.J.ld not offer Kutaja, karkati flowers
+
+
+530
+Agni Purllt)a
+and ketaki for Siva.
+(One should not use) kilt>mliTJ.¢a, nimba
+and wild flowers without fragrance (in worship) .
+16-18.
+One would get enjoyment and emancipation by
+worshipping gods with the eight flowers of gestures such as
+non-violence, conquest of senses, forbearance, knowledge, com­
+passion and learning. Non-violence is the first flower. (The
+second) flower is the control of senses. Compassion for the
+beings is (said to be) all flowers. The flower of tranquility
+excells. Quietitude is a flower and penance is a flower. Medi­
+tation is the seventh flower. Truth is the eighth flower. Lord
+Kesava is pleased with these flowers.
+19-23. When lord Hari is worshipped with these flowers,
+he certainly gets pleased. 0 Excellent among men ! There are
+other external flowers. When lord ViᆇJ)u is worshipped with
+devotion together with compassion, he gets pleased. Water is
+the flower for Varul)a. Ghee, milk and curd (are the flowers)
+for Soma. Food etc. (are the flowers) for Prajapati (Brahma)
+and incense and lamp for Fire (god). The fifth flower is the fruits
+and flowers of the forest. The kusa, roots etc. are the flowers of
+the earth. Fragrant sandal is that of the Wind (god) . Earnest­
+ness is the flower for lord ViᆇJ)u. These are always the eight
+flowers. The seat, the form, the five limbs (such as the heart
+etc. ) and ViᆇJ)U are the eight flowers. (Worship should be made
+with the names) Vasudeva and others for ViᆇJ)U and I sana and
+others for Siva.
+
+## CHAPTER TWO HUNDRED AND THREE
+
+The nature of hell
+
+## Fire-god said :
+
+
+## 1 -5. I shall describe hells. One does not go to them if
+
+he worships lord ViᆇJ)u with flowers and other things. A man
+gets released from his life forces at the end of his life even though
+he does not wish for it. A man gets released from his life on acco­
+unt of some case such as water, fire, poison, weapon, hunger,
+illness and fall from a mountain. One takes another body to be
+
+
+
+## 203.6-1 4
+
+53 1
+experienced as a result of one's own acts. One who has committ­
+ed a sin would experience grief and one who does good (deeds)
+would experience happiness. One is led to the God of Death by
+the dreadful messengers of God of Death through the southern
+gate if one has taken evil path. Pious men (would be taken) by
+the western and other (doors) . (They are) cast into hells by the
+servants being ordered by the God of Death. On account of
+piety one is led to heaven according to the words of Vasiᆆtha.
+
+## 6-9.
+
+The killer of a cow is tormented for a lakh of years in
+the mahiivici (one of the hells) . The killer of a brahmin (would
+be tormented) in a well-heated copper pot (for the same period) .
+One who steals the land would be slowly tormented in the
+raurava (hell) till the great deluge. One who kills a womanᆒ
+child or the old (is tormented) in the dreadful mahiiraurava
+(hell) till
+(the
+period
+of) fourteen
+Indras. One who
+sets fire to the house, ground etc. is burnt for a kalpa (432 million
+years of mortals) . Thieves would fall into the tiimisraka
+hell. They would be pierced by the attendants of the God
+of Death with spears etc. for many kalpa periods. Then they
+would be tormented in the mahatiimisraka hell by serpents,
+leeches etc.
+1 O-I l . One who kills his mother would be struck by swords
+in the asipatravana (forest where the trees have leaves as sharp
+as swords) for many kalpa periods as long as the earth (remains) .
+One who has burnt men would be burnt in muddy region with
+gravel etc. One who has eaten sweet food alone will suffer
+in kiikola (hell) eating the excreta of insects.
+
+## 12. One who has discontinued (doing)
+
+five sacrifices1
+(would suffer) in kuUala hell eating urine and blood. One
+who has eaten the forbidden food would take blood in the
+filthy hell.
+
+## 13. One who afflicts others would be tormented in the
+
+hell tailapiika like sesamum. One who kills a person who has.
+sought refuge would be cooked in the tailapiika.
+
+## 14. One who withholds gifts at the sacrifice and who sells.
+
+wine would be thrown into the hell nirucchviisa. Similarly,
+
+## I .
+
+To be performed by a househo!der-brahmayajiia, pitryajiia, daiva­
+pitryajiia, bh iitayajiia
+and
+nryajiia respectively denoting teaching, libation.
+to manes, oblation to gods, offering made to spirits and feeding guests.
+
+
+532
+Agni PuriiT)a
+Qne who lies (would be thrown) into the great hell vajrakaviiJa.
+
+## 15. Evil-minded persons
+
+(would suffer) in (the hell)
+mahiijvala; one who has cohabited the forbidden woman (would
+suffer) in (the hell) krakaca, the doer of mixed sins in (the hell) ;
+one who strikes at other's weakness would suffer in hells
+gu¢apiika and pratoda.
+
+## 1 6 . The killer of an animal (would be thrown) into an
+
+alkaline lake. One who steals the land (would be placed) under
+a current as sharp as a razor. One who steals a cow or gold
+(would be thrown) into (the hell) ambarifa. One who cuts a
+tree (would be put) in (the hell) vajrasastraka.
+
+## 1 7.
+
+One who steals wine would be put into paritiipa (hell)
+and one who steals other's wealth into kiilasiitra (hell) . One
+who eats flesh in excess (would be thrown) into kaimala (hell) .
+One who does not offer the rice-balls (for the manes) (would
+be put) into ugragandha hell.
+
+## 18.
+
+One who receives a bribe (would be tormented)
+in
+(the hell) durdhara. One who cohabits women taken captive
+(would suffer) in the hell (called) manj OJa. One who censures
+scriptures (would be thrown) in the unstable hell loha.
+1 9-20.
+One who bears false witness (would be put) in (the
+hell) p utivaktra. One who steals wealth and one who kills a child,
+woman or the old and one who afflicts a brahmin would suffer
+in (the hell) kariila. A brahmin who drinks wine (would suffer)
+in (the hell) vilepa. Those who have caused breach (of friend­
+ship) (would be put) into (the hell) mahiitiimra.
+
+## 2 1 . One who cohabits others' wives (would enter) (the
+
+hell) salmala (and embrace) glowing iron or stone. Similarly, a
+woman cohabiting many men would do.
+22-23. Those who cohabit their mothers and daughters,
+those who have cut the tongue (of others) , those who have
+looked (at others' wives) with lustful eyes and those who have
+plucked the eyes would be thrown into a heap of charcoal.
+Thieves would be pierced with razors. One who eats flesh (would
+be made) to eat his own flesh. One who practises fasting for
+(the stipulated) months would not go to hell. So also one who
+practises the vow on the eleventh day and the bhifmapaficakavrata­
+(would not go to hell) .
+
+
+
+## 204.1-12
+
+533
+
+## CHAPTER TWO HUNDRED AND FOUR
+
+Mode of practising the vow of fasting for stipulated months
+
+## Fire-god said :
+
+
+## 1 -2. I shall describe the vow (known as) fasting for a month,
+
+that is the most excellent among (the vows) . After having
+done the sacrifice relating to (lord) Vigm and got the command
+of the preceptor and knowing one's own strength with
+(the
+practice of) krcchra etc., 0 Sage ! a forester or an ascetic or a
+woman or a widow should fast for a month.
+
+## 3-5.
+
+One should undertake to observe this vow for thirty­
+two days after having fasted on the eleventh day of the dark
+fortnight of (the month of) iisvina (October-November). "0
+lord Vitᆌu !
+Commencing from this day until you get up
+(from sleep) I shall worship you without taking food for thirty
+days. 0 Vitᆌu ! (this vow would be) till you get up in the
+(months of) iifvina and kiirttika. Let not my vow be incomplete
+if I happen to die in the middle.".
+
+## 6-9.
+
+(Lord Vitᆌu should be worshipped thrice with fragrant
+flowers after bathing thrice. The person practising the vow should
+repeat the songs of lord Vitᆌu and contemplate (on him).
+He should avoid vain discussion and should avoid desire for
+wealth. He should not touch someone who is not practising
+the vow. He should not enter into conversation with those
+addicted to vices. He should dwell in temple for thirty days.
+The observer of the vow should worship the brahmins on the
+twelfth day and feed them. After completing vow and paying
+fees, he should break the fast. One would get enjoyment and
+emancipation for thirteen kalpas (a kalpa is equal to 432 million
+years) by practising thus.
+10-12. He should do the sacrifice relating to Viᆆᆌu and
+worship thirteen brahmins. He should give them as many pairs
+of clothes, vessels, seats, umbrellas, metal rings, pairs of sandals,
+upper cloth and sacred threads. All these things should also
+be given to another brahmin being permitted by them. After
+having worshipped golden lord Viᆆᆌu on the bed, he should
+worship his own form with clothes and other things.
+
+
+
+## Y34
+
+Agni Purib)a
+13-15. Then he should tell brahmins,
+"0 Brahmins !
+I am going to the world ofVitJ).U being freed !from all sins by the
+grace of lord VitJ).U. I
+am becoming lord VitJ).U himself".
+(The brahmins should say), "0 One with divine wisdom !
+You go to the faultless place of lord VitJ).U by this vehicle and
+remain there spotless bearing the form of lord VitJ).u". Then
+that bed should be offered to the preceptor. One who practises
+thus would elevate hundreds of his family and take them to the
+world of VitJ).U.
+16-18. That country in which there is a person observing
+fast for a month, would become spotless. What to speak about
+the family in which there is one who fasts for a month ! Seeing
+the person practising a vow fallen into a swoon, one should make
+him drink milk and clarified butter. These things would not
+nullify the vow. The ghee is allowed by the brahmins, and milk,
+water, roots are beneficial remedies (administered) by the pre­
+ceptors. Lord VitJ).U is the maker of all remedies. Hence he
+will make the vow complete.
+
+## CHAPTER TWO HUNDRED AND FIVE
+
+Mode of performing the Bhf4mapaiicakavrata
+
+## Fire-god said :
+
+
+## 1 . I shall describe the Bhifmapaiicaka, 1 that is the foremost
+
+among the vows and that which yields everything. It should be
+done on the eleventh day in the bright fortnight in kiirttika.
+
+## 2.
+
+(The observer of the vow) should bathe thrice (daily)
+for five days and satisfy gods and manes with five kinds of
+grains and sesamum. He should worship lord Hari silently.
+
+## 3.
+
+Having bathed the deity with the five things got from a
+cow and with the five sweet things, sandal paste should be be­
+smeared and guggulu should be burnt along with ghee.
+
+## 1. The five days from the eleventh to the fifteenth of the bright half
+
+of kiirttika said to be sacred to BhiÜma. See chapter 205 below.
+
+
+
+## 205.4--'-206.1 -4
+
+535
+
+## 4. A lamp should be offered. Food offering shou1d.be made
+
+day and night. He should then repeat (the syllable) "Om obei­
+sance to Vasudeva" one hundred and eight times.
+
+## 5.
+
+The performer of the vow should then make oblations of
+sesamum and rice dipped in ghee with the sacred syllable of six
+letters along with the word 'oblations.'
+
+## 6-8.
+
+He should worship the feet with lotuses (on the first
+day), the knee and thigh with the bilva leaves on the second day,
+the navel with the bhritgariija on the third day, with the hiiT)a,
+bilva and japii (flowers) on the fourth day and with miilati on the
+fifth day. The votary should lie down (only) on the (bare)
+floor. (He should use) cowdung on the eleventh day and cow's
+urine, curd and milk (on the subsequent days) . (He should use)
+five things got from a cow on the fifth day. He should take
+food only in the night on the full moon day. The votary would
+get enjoyment and emancipation.
+
+## 9. After having practised the (Bhipnapaiicaka)BhiΎma reach­
+
+ed lord Hari. That is why (it is known as) Bhipnapancaka.
+One should worship lord Brahma and fast while practising
+the vow.
+
+## CHAPTER TWO HUNDRED AND SIX
+
+Mode of offering water of libation to the venerable sage Agasrya
+
+## Fire-god said :
+
+
+## 1 -4.
+
+(Sage) Agastya (is verily lord) VigLU. After having
+worshipped him one would reach lord Vigm. When the Sun
+has· not entered (the constellation) Virgo one should offer liba­
+tion to Agastya for three days and one-third part of a day after
+having fasted and worshipped him. An image of the sage
+(Agastya) made of the kiiSa flower should be located in a pot at
+(the time of) nightfall and that image in the pot should be wor- -­
+shipped. He should then remain awake in the night. "0
+Agastya ! The foremost among sages ! A multitude of brilli­
+ance ! Great-minded person ! You accept with your wife this
+worship done by me" . After having invoked the presence · (of
+
+
+536
+Agni Puriit}a
+(of the sage) with libation, he should worship him with sandal
+and other things.
+
+## 5-13. After having led (the image) near the water tank in
+
+the morning libation should be offered. "0 One having the
+colour of kiiJa flower ! Born of Fire and Wind (gods) !
+Son of
+Mitra and Varu:Q.a !-Born in the pitcher !1 Obeisance be to
+you ! That Agastya by whom Atapi was eaten as also Vatapi2,
+the great demon and the ocean was dried, may he be present
+before me. I am praying to (the sage) Agastya with my deeds,
+mind and speech. Being desirous of attaining the other world,
+I shall pray to the son of Mitra, born in a different continent
+and most dear to the gods. Kindly accept the sandal that is the
+king among the trees. May you accept the garland, that is the
+destroyer of sins, the vessel of piety, wealth, desire and libera­
+tion and that which confers fortune, health and prosperity. 0
+Lord ! Let the incense be accepted. You make my devotion
+steady. You confer on me the desired boon and also auspicious
+position in the next (place) (got) by the celestials and demons.
+0 Excellent among the sages ! Conferer of all the desired fruits !
+This libation has been offered by me together with clothes, rice,
+fruits and gold. I make known to (sage) Agastya that which I
+have raised with my mind. I offer libation with fruits. You
+accept libation, 0
+Great Sage !" Agastya being thus exca­
+vated with the spades
+(gave)
+men the desired progeny
+and strength. (The sage) with fierce splendour along with his
+chaste wife nourished the two ears. He then conferred blessing
+on the celestials.
+
+## 1 4.
+
+"0 Daughter of a king !3 Obeisance to you, the
+wife of the sage (Agastya) ! One who is a great devotee ! 0
+Governess of the
+celestials
+! Accept
+libation. 0
+Lopa­
+mudra ! One who is famous !
+1 5-16.
+Libation should be offered to Agastya together with
+a vessel containing five gems, gold and silver and enclosed by
+seven kinds of grains as well as curd and sandal. (The above
+libation should be done) by women and Judras without (the reci-
+
+## 1 . When the seed of Mitra and Vanu}.a fell at the sight of the nymph
+
+UrvaSi, part of it fell into a jar and part into water. From the former arose
+Agastya, hence called 'born of the pitcher'.
+
+## 2. They were brothers, both demons.
+
+
+## 3.
+
+Daughter of the king of Vidarbha.
+
+
+
+## 206. 1 7-207. 1 -5
+
+537
+tation of) the sacred syllables. "0 Agastya ! Foremost among
+the sages ! A multitude of splendour ! Bestower of all things !,
+
+## 1 7.
+
+Mter having accepted this worship of mine you retreat
+in peace. One has to forego a kind of grain, a variety of fruit and
+a kind of taste for the sake of Agastya.
+
+## 1 8.
+
+Then the brahmins should be given food
+(as well as)
+ghee, sweet gruel and sweet balls. Cows, clothes and gold should
+be given to them as fees.
+
+## 19. That pitcher should be given to a brahmin together with
+
+gold and its mouth being covered by another vessel contain­
+ing ghee and sweet gruel.
+
+## 20.
+
+All would get all things by offering libation for seven
+years. A woman (would get) children and fortune and a girl
+(would get) a husband born to a king.
+
+## CHAPTER TWO HUNDRED AND SEVEN
+
+Mode of performing Kaumudavrata
+
+## Fire-god said :
+
+
+## 1 . The Kaumudavrata, which has been described1 by me,
+
+should be practised in the bright (fortnight) in tiJvayuji. Mter
+fasting on the eleventh day, lord Hari should be worshipped
+for a month.
+
+## 2.
+
+(One should resolve as follows) : "I shall practise the
+Kaumudavrata taking food only once (daily)in the brightfort night
+in iisvina after repeating (the name of) Hari for a month, for the
+sake of enjoyment and emancipation".
+
+## 3-4. Mter fasting, he should worship lord ViᆆI).U, after
+
+having besmeared the lord with sandals, agallochum and saffron
+with lotus, blue lotus flowers or white lotuses or miilati (flower) .
+(He should offer) a lamp with oil silently. Offering of sweet
+gruel, cakes and sweet balls (should be made) day and night.
+
+## 5.
+
+"Om obeisance to Vasudeva". Having made the offering
+(with this syllable) (the vow) should be completed. Food and
+other things should be given to a brahmin. The fast for a month
+would continue until the lord wakes up. (If it is continued)
+beyond that (it would get) greater benefit.
+
+## 1 . See Ch. 198 13-14.
+
+
+
+538
+Agni PuriiTJa
+
+## CHAPTER TWO HUNDRED AND EIGHT
+
+Rules and regulations relating to vows and gifts in general
+
+## Fire-god said :
+
+
+## 1 -3. I shall describe briefly the vows and gifts in general.
+
+Whichever vow or whichever gift or whichever article or the
+routines in whichever time such as the first lunar day and other
+days, on days such as the (Sunday) , in asterisms such as the
+krttikii, in vifkumba (a particular combination) etc., in the ( constel­
+lations) aries etc. and at the time of the eclipses, lord Viᆇl).u
+is the governing deity for all these materials, and time. Sun,
+Isa, Brahma, Lalqmi and all others are the manifestations of
+lord ViᆇJ).U.
+4-1 2. The vow, gift, worship and other acts done for him
+would yield all things. "0 lord of the universe ! You come here.
+(Here are) seat, water for washing the feet, waters of libation,
+the sweet drink, water for sipping, bathing, clothes, perfumes,
+flower, incense, lamp and offerings. Obeisance to you." This is
+the common statement in worship, vow and giving gift. The
+statement for giving a gift is similar. Listen to me. "Today I
+offer this article dedicated to Viᆇl).u to such and such a brah­
+min belonging to such and such a gotra. I offer this gift to you
+for the appeasement of all sins, for increasing the longevity and
+health, for increasing the fortune, for furthering the progeny in
+the gotra, for conquest, wealth, piety, desire for prosperity, the
+removal of that sin, and release from mundane existence. For
+the sake of the accomplishment of this gift I am giving to you
+only.
+May the lord, the master of the world, get permanently
+pleased with this. 0 Lord of sacrifice, gift and vow ! Give me
+knowledge, fame and other things. Give me piety, desire, wealth
+and emancipation, that which is wished by the mind". Whoever
+reads this collection of vow and gift daily, would get the desires
+fulfilled, would become pure and get enjoyment and emancipa­
+tion. The vows which should be practised under the auspices of
+different lunar days, weekdays, casterisms, positions of the sun,
+astral combinations and Manu and the like should not be practis­
+ed by worshipping god Vasudeva in one and the same way.
+
+
+
+## 209. 1 - 1 2
+
+539
+
+## CHAPTER TWO HUNDRED AND. NINE
+
+Rules relating to gifts
+
+## Fire-god said :
+
+I . Listen to me. I shall describe the charities that would
+bestow enjoyment and emancipation. One who does acts
+of
+charity (such as digging wells etc. ) would get all things.
+
+## 2.
+
+(Digging) reservoirs, wells and tanks,
+(constructing)
+temples, giving food and (establishing) gardens are (known to
+be) purtadharma, that confers emancipation.
+
+## 3. Performing agnihotra (a kind of sacrifice) , penance, truth,
+
+protecting scriptures, serving guests, (doing) vaisvadeva (an
+offering made to the gods Visvedevas) are said to be ifta that
+take one to heaven.
+
+## 4.
+
+The gift (made) at the time of the eclipse of planets and
+(that offered)at the time of the entry of the Sun from one constel­
+lation to another, gift made on the twelfth lunar days etc.
+(are also) pilrta, which also take one to heaven.
+
+## 5-7. A gift at the (proper) place, time and (to a proper)
+
+person would be of crore merits especially in the transit of the
+Sun on the tropics, on the equinox, at the (time of) vyatipata,
+at the waning of the day, at different days beginning the cycles
+of period, at the transit of the Sun from one constellation to
+another, on the fourteenth days, on the eighth days, on the full­
+moon days, on the twelfth days, at the time of aflakas
+(a collection of three days beginning from the seventh day
+after the full moon), at the time of sacrifices, festivals and marri-
+ages, at the Manu-periods, at the vidhrti (yoga) , on having had a
+bad dream and when a good brahmin has been got.
+
+## 8-12. Otherwise it is desired that a gift (has to be bestowed)
+
+always upon those on whom one has the faith to do. Tropical
+{periods are) two, equinoxes (are) two making up four. The
+eightysix (auspicious periods are )-the four vi,f1)upadis1., the
+twelve transits of the Sun from one constellation to another (and)
+the transit of the Sun in virgo, gemini, pisces and sagittarious.
+The eightysix (periods) are said to have eightysix times merits
+{than ordinary periods) . The two summer and winter solstices
+
+## 1 . They are taurus, leo, scorpio and acquarious.
+
+
+
+540
+Agni Purat)a
+are meritorious when it has come and when it has not come i.e.,
+thirty na¢is1 in cancer and twenty in capricorn respectively.
+When the Sun stays in the libra or aries (it would be) ten (nii¢is)
+in both. In the eightysix (periods) described already sixty nii¢ikiis
+(are auspicious after the Sun's entry) . Among the auspicious
+periods of VƂ1Jupadi sixteen (nii¢is) before and after (are auspi­
+cious) .
+
+## 1 3.
+
+It is said to be the vyatipiita if the Sunday morning occurs
+in (the asterisms) fravatJa, a.fvani, dhaniµJhii and iiSleƃii.
+14-15. The krta (yuga) began on the ninth day in the bright
+fortnight in kiirttika, the tretii (yuga) on the third day in the bright
+(fortnight) in vai!iikha, the dviipara (yuga ) on the new-moon day
+in the month of magha and the kali (yuga) on the thirteenth day
+of the dark (fortnight) in nabhasyaka (bhiidrapada) . One has to
+know them thus. One should also know the periods of Manu and
+others thus.
+16-19. Gifts made on the ninth day of the white (fortnight)
+in a.fvayuk, the twelfth day in karttika, the third day in miigha and
+bhiidrapada, the new-moon day in phiilguna, the eleventh day in
+pa·a, the tenth day in izyli¢ha, the seventh day in the month of
+magha, the eighth day of the dark (fortnight) in !riivaT)a, the full­
+moon day in izya¢ha, and similarly fifteenth dayǦof kiirttika, phiil­
+guna andjyaƁtha, the three աtakas2 in the later part of iigrahiiyaT)i
+(December-January) and the eighth day known as the ǧtaka
+confer undecaying benefits.
+
+## 20.
+
+(In the same way one should give gifts in the auspicious
+periods) at sacred places like Gaya, (the river) Ganga and
+Prayaga and temples etc. Gifts should be made without being
+requested. But knowledge, wealth and girls (should) not (be
+given as gifts thus) .
+
+## 2 1 . Gift should be made facing the east and the gift should
+
+be received facing the north. (By this) the longevity of the giver
+increases and that of the recipient does not decrease.
+22-26.
+(In general) (the name of) the gotra of the recipient
+and their own selves are repeated and the gift is made (by the
+givers) . In the case of giving away a girl in marriage (the name
+of) the three (gotras) (should be repeated) . Gift should be given
+after bathing and worshipping the deity (along) with (the reci-
+
+## 1 . One nii¢i is equal to 24 minutes.
+
+
+## 2. The colleetion of seventh, eighth and ninth days after full-moon.
+
+
+
+
+## 209.27-38
+
+541
+tation of) the vyahrtis (the syllables bh i2 etc. of the gqyatri mantra)
+together with water. Gold, horse, sesamwn, elephant, servantǨ
+chariot, earth, house, girl and tawny, cow are the ten great gifts.
+The money got by one's learning, valour, penance, means of a
+girl, by officiating as a priest and through the disciple is (said to
+be) !ulka (fees, or bride's-price etc. ) . All the wealth acquired by
+following some trade or work is also (known as) sulka. All that
+which was got by usury, agriculture and trade and that obtained
+as a favour and the one got by gambling, dice, stealing etc. and
+similar heroic pursuits (are said to be acquired) by some device.
+The three kinds (of acquisition) have three different kinds (of
+fruits) .
+
+## 27. Woman's property is said to be of six kinds-adhyagni
+
+(gift made to a woman at the time of marriage) , adhyiiviiha­
+nika (gift made to a woman at the time of leaving her father's
+house for her husband's house) , gift made (by the husband)
+out of love or affection and gifts got from the brother, mother or
+father.
+
+## 28.
+
+Brahmins, warriors and tradesmen (have their own)
+wealth. (But) a sildra (will have) by their favour. One should
+not give as gift cow, house, bed and women to many.
+29-30.
+If one promises to give a gift and does not give, it
+would kill hundred of generations. Whatever little merit one
+has acquired should be made to the gods, preceptors, mothers
+and fathers with one's effort. The wealth that has been given
+(as a gift) with a view to have something in return (would be)
+useless.
+31-33.
+Piety is accomplished by faith. Even water given
+(to the thirsty gets) undiminishing (merit) . One is said to be an
+excellent person (to receive a gift) if he is endowed with knowl­
+edge, good conduct and quality, avoids doing harm to others
+and protects and saves the ignorant. A gift made to the mother
+is hundred times (meritorious than the others) , and that to the
+father is thousand times (meritorious) . The gift given to the
+daughter (gets) endless (merits) and that to the sister (gets)
+undecaying (merits) . A gift (given) to a creature (is) of equal
+merit and that (given) to a sinner (is) of great merit.
+34-38.
+(A gift) to (a person of) the mixed caste (is) two
+times (meritorious) ' a gift to a sudra (is) four times (meritorious).
+to a vaiJya (is )eight times (meritorious) and to a kfatriya is sixteen
+
+
+542
+Agni PuraT)a
+times (meritorious) . I shall describe
+(the merits· of giving a
+gift) to a brahmin. (Gift made) to one who has ;studied] the scrip­
+tures is hundred times (merit-worthy) , to one who imparts
+the scriptures is of endless (merit) . It is said that gift (given)
+to the priest and the officiating priest is of undecaying (merit) .
+Gift given to those devoid of wealth and to a sacrificer would be
+of limitless (merit) . A brahmin who does not do penances and
+study and has desire to accept gift would get drowned along with
+that just like a practitioner together with the stone in the floods.
+After bathing and touching (waters) properly one should
+accept the gift after becoming pure and restraining senses.
+The recipient of the gift should always repeat the siivitri (giiyatri) .
+Then the deity should be glorified together with the materials.
+39-48.
+The recipient should utter the complimentary words
+loudly after having received from an excellent brahmin, (in a)
+soft (voice) (after receiving) from a k:atriya (warrior) , in a low
+voice (after receiving) from a visa (tradesman) and mentally
+{after receiving) from a siidra. (I shall describe the deities of
+different things ) . All (the gods) are the presiding deities for
+(the gift of) protection. Vi͡ I).U is the deity of the earth. Girl,
+servant and female servant are said to be governed by Prajapati.
+An elephant is also governed by Prajapati. The deity for the
+horse is Yama (god ofDeath) . Similarly all the one-hoofed ani­
+mals and the buffalo are governed by the God of Death. Nirrti
+(is the presiding deity) of the camel, Siva is that of a cow, Fire-
+god is that of a goat, Varul).a is that of a ram, Hari is that of a
+boar, Wind-god is that of forest animals, Varul).a for the tank,
+(V arul).a) for vessels of water such as the pot etc. and gems got
+from the ocean, Fire-god for gold and iron, Prajapati for food
+grains and cooked food, Gandharva for fragrant material,
+Brhaspati for dress, Wind-god for all birds, Brahma for knowledge
+and its accessories, Sarasvati for books etc., Visvakarma for
+sculpture, Vanaspati for the trees etc. The deities of the materials
+make up the body of Hari. Arigiras is said to be the deity of
+umbrella, antelope-skins, bed, chariot, seat, sandals and vehicle.
+All ammunitions, weapons, banners etc. (are governed ) by all
+the gods. A house also (is governed) by all the gods. (Lord)
+Vi͢ I).U is the presiding deity of all things.
+49-54. 0ǂ Siva may be (the presiding deity) because there
+is no other article besides the above. One should mention the
+
+
+
+## 209.55-63
+
+543
+name of the material and say that "I am giving". Then water
+should be given on the hand. This is known to be the procedure
+in all gifts.
+(The receiver) should say " (Lord) ViᆇI.J.U is the
+giver. (Lord) Vigm is the materials. I am receiving." Wish­
+ing the welfare of the giver is the duty of the recipient (that
+confers) the two fruits of enjoyment and emancipation.
+One
+may accept gift from all for protecting the preceptors and servants
+and also to propitiate gods and manes. But he should not get
+satisfied with that. Money should not (be taken) from a siidra
+for the sake of sacrifice. The benefit of that would reach the
+sildra. Molasses, butter-milk and juices etc. may be accepted by
+an anchorite from a sildra. A brahmin struggling for his existence
+may accept gift from all. If the brahmin,s are associated with
+fire and sun there cannot be any defect in teaching performing
+sacrifice or by accepting a gift from a prohibited person.
+
+## 55. (A gift) is given in the krtayuga by approaching the per­
+
+son, is given in the tretiiyuga after inviting (the person concerned) .
+(A gift is made) in the dviiparayuga to one who seeks and in the
+kaliyuga to one who follows and begs.
+56-63. Water should be poured on the ground after mentally
+resolving to give to a suitable person. The ocean has its limit.
+But there is no limit for the gift. (1 shall give) to such and such
+a person belonging to such and such a gotra, who is a good soul,
+and a proper person who is learned in the Vedas and its accesso­
+ries at the time of the eclipse of the Moon and Sun, at the entry
+of the Sun into a constellation, at the sacred places of great merit
+such as the Ganges, Gaya, Prayaga etc. "I make a gift of such
+and such an article for which ViᆇI.J.U and Siva and others, are the
+presiding deities for the sake of (getting)children, grand child­
+ren, house, fortune, wife endowed with good qualities and for
+the increase of fame, learning, desire, fortune and health and for
+the destruction of all sins and for getting heaven, enjoyment and
+emancipation. I give this to you. May lord Hari (identical with)
+Siva, the destroyer of spate of evils belonging to the heaven, sky
+and earth be pleased. May you be the conferer of the world
+of Brahma on me for the sake of getting the piety, wealth and
+desire. I offer gold as fee to such and such a brahmin of such and,
+such a gotra for the sake of making this gift established". All
+gifts should be made with this sentence for giving a gift.
+
+
+544
+Agni PuriiT)a
+
+## CHAPTER TWO HUNDRED AND TEN
+
+Sixteen great gifts
+
+## Fire-god said:
+
+
+## 1 -4.
+
+I shall describe all the gifts. The great gifts (are)
+sixteen. (The gift known as) the tuliipufU!a1 is the first. (The
+others are) gift of hiraT)yagarbha, brahmiiT)Q.a kalpavrkfa (celestial
+tree) . The fifth one (is the gift of) thousand cows. (The gift
+of) golden kiimadhenu (the celestial cow)
+(is the sixth one ) .
+The seventh one (is the gift of) golden horse. (The other gifts
+are) the golden horse and chariot and the golden elephant and
+horse. Then (the remaining gifts are) five ploughs and (the
+gift of) earth, visvacakra, kalpalatii, the excellent seven oceans,
+ratnadhenu and mahiibhataghata. (The gift) should be given on an
+auspicious day.
+
+## 5. Gift should be given to a brahmin after having worshipp­
+
+ed gods in a circle in a shed. Listen to me. I shall describe
+ten gifts (known as} merudiina (heaps of different things) .
+
+## 6 . The best gift is that of a thousand droT)as (a measure)
+
+of grains. The rest are successively half (the quantity) of the
+preceding ones. An excellent gift of a mountain of salt should be
+given (consisting of) sixteen droT)as.
+
+## 7. An excellent (gift) of a mountain of molasses would be
+
+of ten bhiiras (a measure}. The rest (would be) successively half
+of the preceding ones. An excellent hill of gold would be of
+thousand palas (a measure of weight) and the rest as that (des-
+cribed above) .
+.
+
+## 8.
+
+A hill ofsesamum would be often droT)as (the rest being)
+duly five and three droT)as. The hill of cotton would be twenty,
+ten and five bhiiras (respectively) .
+
+## 9.
+
+An excellent hill of ghee would be twenty pots of ghee.
+An excellent hill of silver (would be) ten thousand palas.
+1 0-12.
+(An excellent) hill of sugar (would be) eight bhiiras
+and the medium (would be) half that (and the inferior still half
+that. I shall describe the ten cows by giving which one would
+get enjoyment and emancipation. The first one would be the
+cow of molasses and the next one would be the. cow of ghee.
+The third one is the cow of sesamum and the fourth one cow of
+
+## 1.
+
+gold, jewel or other valuable things equal to a man's weight given
+to a Brahmal}.a as a gift.
+
+
+
+## 210. 1 3-29
+
+545
+water. (The others are) cow of milk, cow of honey, cow of sugar,
+cow of curd and the cow of juices. The tenth one is the cow in
+its natural form. This is said to be the rule (governing the ten
+cows) .
+1 3-18.
+In the case of liquid materials given as the cow,
+they should be in the form of the pots. But they should be a heap
+in the case of other (materials) . One should place a deer skin
+of four cubits (length) on the ground besmeared with cow dung
+with the neck (part) on the east. Darhha should be spread every­
+where. Similarly (a seat) should be made for the calf with
+the tender skin of e{laka (a kind of black antelope) . The cow to­
+gether with the calf should be arranged such as it faces the
+east and the feet point to the north. An excellent gift of cow of
+molasses would always be of four hhiiras (out of which) the calf
+should be of one hhiira. The middle type is known to be of two
+hhiiras (for the cow) and half a hhiira for the calf. The last type
+should be one bhara (for the cow) and a quarter ( hhara) for the
+calf. Otherwise (the gift may be made) according to the molasses
+and wealth one may have. One mt¥a (a measure) is five kri1J.a­
+lakas (seed of the gunja plant) . One suvaT{la is equal to sixteen
+mt¥as. One pala is equal to four suvaT{las. One tulii is known to
+be one hundred palas. A hhiira would be twenty tuliis. One
+dro1,1a (is equal to) four aQ,haka.
+1 9-22.
+The cow and the calf both made of the molasses
+should be covered by a thin white cloth. The ears (should be
+made of) pearl oyster, the feet of sugarcane and the eyes of pure
+pearls. The veins (should be made of) white thread, the woollen
+blankets (for spreading) of white wool, the backside with copper
+vases, the hairs with white chowrie, the two eye-brows with coral,
+the breast with butter, the tail with silken cloth, the milk pails
+made of bronze and the pupils with sapphire. The ornaments on
+the horns should be made of gold and the hoofs of silver. The
+teeth should be of different kinds of fruits and the nose of sandal.
+23-29. 0 Brahmin ! Mter having made ready the cow,
+it should be worshipped with these sacred syllables. "That god­
+dess who is the fortune of all beings and who remains in the celes­
+tials may in the form of the cow give me peace. The (god­
+dess) Rudrii.Qi is always dear to lord Sankara and remains
+in the body, may that goddess in the form of the cow
+dispel my sin. That one who is on the chest of (lord) ViᆆI,lu
+
+
+546
+Agni PuriiT)a
+and who is the Sviihii for the fire, who is the energy of the moon,
+sun and star, that is of the form of the cow 0 Goddess of
+Fortune ! May that cow which is the fortune of the four.-faced
+one (Brahma) , the god of wealth and the guardian deity of
+the world, be the conferer on me. You are the svadhii ( obla­
+tion of food) for all the manes and the sviihii for the partakers of
+sacrifices. Hence
+you are the cow that removes all sins.
+Hence you get me peace". The cow that has been sanctified
+thus should be given to a brahmin. The same procedure (holds
+good) for the (offerings) of all kinds of cows (mentioned already) .
+After having obtained the benefits of all sacrifices one (would
+become) pure and get enjoyment and emancipation.
+30-34.
+One should give as a gift a cow having golden horns,
+silvery hoofs, of good conduct and having udders with bronze,
+with milk and decked with cloth together with the fees. One
+who gives such a cow would stay in heaven for as many years
+as the number of hairs (on its body) . If it is a tawny (cow)
+it would again elevate seven generations (of the giver) . One
+who gives a cow having golden horns, silvery hoofs and bronze
+attached udders together with fees befitting one's capacity would
+get enjoyment and emancipation after giving. By giving a cow
+with a calf, i.e., a cow that is delivering a calf, one would reach
+heaven and stay there for so many years as the nwnber of
+hairs (on the body of the cow) . It should be given as laid down
+before. A cow and a calf should be given as a gift by one that is
+about to die as (laid down) before. (He should say) "There
+is the dark VaitaraT)i river at the dreadful entrance to (the place
+of) the God of Death. I am giving this black cow in order to
+cross that Vaitaral).i."
+
+## CHAPTER TWO HUNDRED AND ELEVEN
+
+Different kinds of gifts
+
+## Fire-god said :
+
+
+## 1 . One who has ten cows should give one. One having
+
+hundred cows should give ten cows. A person having a thousand
+cows should give hundred. All yield the same benefit.
+
+
+2 1 1 .2-16
+547
+
+## 2. Those who give thousand cows (as gift) would go to a
+
+place where the mansions are golden, there would be flow of
+wealth and the gandharvas and celestial nymphs (dwell) .
+
+## 3 . By giving hundred cows one becomes free from the ocean
+
+of hells. By giving a weaned calf one stays in comfort in the
+heaven.
+
+## 4-6.
+
+By the gift of a cow one would get longevity, health,
+fortune and heaven. She is the auspicious queen of the
+guardian deities such as Indra and the like ; may she be the bes­
+tower of all my desires by the greatness of the gift of the she­
+buffalo. That mother of the demon in the form of buffalo
+the children of which (woman) are established by the assist­
+ance
+of the Lord of Dharma, may
+be the bestower of
+wealth on me. One would get fortune by giving a she-buffalo
+and reach heaven by giving a bull.
+7-1 1 . The gift known as samyuktahalapankti (attached with
+ten ploughs) confers all fruits. A collection of ten ploughs is
+said to be a pankti. They should be made of wood and yoked to
+bulls. One would stay in heaven by giving them bound with
+golden strips. The benefits of giving ten tawny cows at the
+Pužkara (a sacred place) in (the month of) jyefthii is said to be
+undecaying. Similar benefit would accrue by releasing a bull.
+(One should say) "0 Four-footed one ! You are the virtue.
+These four are dear to you. 0 lord ofVižJ).U ! One who nour­
+ishes the manes, beings and the sages ! Let me have the worlds
+free blemishes and undecaying when you are released. May I
+not have the debts due to the gods, beings, manes and mortals.
+You are the virtue. That fate which befalls one who resorts to
+you, let it be firm in me."
+12-1 6. One should mark (the bull) with the circles and
+spears and let it go with these sacred syllables( described above) .
+If a bull is released on the eleventh day of a dead person he would
+be freed from the world of the dead. (The same benefit would
+accrue if a bull is let loose) at the time of six-monthly cere­
+mony and annual ceremony (for the dead ) . One who makes a
+gift of gocarma (a measure of surface) would get rid of his sins.
+A nivarttana would be of thirty kuT)r/as, each kuT)r/a being ten
+cubits. The ground extending to ten times (the nivartana) (is
+jplpwn to be) gocarma. One who gives d,eer's skin together witq
+
+
+548
+Agni Pural')a
+a cow, earth and gold would get united with lord Brahma,
+even though he had done many sinful deeds. One may give
+vessels filled with sesamum, honey and black sesamum as well
+as a prastha (a particular measure) of long pepper. Having
+given a bed of good quality one may get enjoyment and emanci­
+pation.
+
+## 1 7.
+
+After having made a golden image of the self and given
+(the same as a gift), (the giver could reach) heaven.
+
+## 1 8.
+
+After having made a large house and giving it one would
+get enjoyment and emancipation. (One would reach)
+heaven
+by giving a house, a hut for an ascetic, hall and shelter. One
+who builds a cattle-shed and gifts it would be free from sin and
+reach heaven.
+1 9-20.
+One who makes a gift of the buffalo (the vehicle)
+of the God of Death would be free from sin and would go to
+heaven. One who gives (as a gift the images of gods) Brahma
+Hara (Siva) , Hari with the celestials and the messenger of the
+God of Death in their middle and (the god) PaSi (Varul}.a)
+as cutting the head of the latter would
+reach
+heaven. A
+brahmin who accepts this gift known as the 'three-faced' would
+incur sin.
+
+## 2 1 . One should give to a brahmin a wheel made of silver
+
+together with gold after having placed it on (his own) lap.
+This is (known as) the 'wheel of time' of great merit.
+22-27.
+One who makes a gift of iron equal to one's weight
+would not go to hell. One who gives an iron rod of fifty palas
+covered by a cloth to a brahmin would not get
+(the chastising)
+rod of the God of Death. One should give . the root or fruit or
+other material collectively or separately for the Conqueror
+of Death for the increase of one's life. One should make (a
+figure of) a man with black sesamum, with the teeth (made)
+of silver, eye (made) of gold, wielding a sword in the hand,
+bedecked with japii flowers, wearing red cloth, adorned with
+a garland of conch-shells,
+the feet having a pair of sandals,
+the sides (covered) by black wool and holding a ball of flesh
+in his left (hand) . He is (known as) the embodiment of time.
+After having worshipped that (image) with perfumes and other
+things, it should be given to a brahmin. (Such a giver) would
+be free from death and disease and become a monarch.
+
+## 28.
+
+One who ᆓives a ᆔift e>f a, c;:qw and a gl,l;U tQ a brahmin
+
+
+2 1 1 .29-41
+549
+would get enjoyment and emancipation. One would not die by
+giving a golden hairy horse.
+29-31 . One who makes such a gift endowed with bells
+would also get enjoyment and emancipation. One who gives
+gold would get the desired things. When gold is given as
+gift, silver should be given as remuneration. Gold is the
+remuneration even in the case of other gifts. No remuneration
+(should be given) when gold, silver, copper, rice and other
+grains (are given as gift) or at the daily ceremony for the manes
+and at the worship of gods.
+32-35.
+Silver (given) as remuneration at the ceremony for
+the manes is a means to get piety, pleasure and material comfort.
+A wiseman who gives land as a gift should also give gold,
+silver, copper, gems, pearls, wealth and all other things. One
+who makes a gift of land, that composed man satisfies the
+manes in their world and the gods in the world of gods. One who
+gives (as a gift) a market town or small town or village or field
+abound with grains or hundred nivartana1 or half of that or a
+house etc. or only gocarmal extent ofland would get all things.
+
+## 36. Just as a drop of oil spreads on the waters so also the
+
+fruit of all gifts would follow the mortal in the next birth.
+
+## 37.
+
+The benefit (of making a gift) of gold, land and an
+eight year old girl would follow (the giver) in his seven births.
+One who gives a girl (in marriage) would elevate twentyone
+generations of his family and attain the world of Brahma.
+
+## 38. Having given an elephant together with remuneration
+
+one becomes free from blemish and would attain heaven.
+Having given a horse one would get long and healthy life and
+fortune and ascend heaven.
+39-40.
+One who gives a maid servant to an excellent brah­
+min would reach the world of nymphs.
+Having given a
+copper plate weighing five hundred pal as (a measure of weight)
+or half the weight or a quarter of that weight or one-eighth of
+the weight would get enjoyment and emancipation. By giving
+a cart together with a bull one would go to heaven by means of a
+cart.
+
+## 41 .
+
+One who makes a gift of cloth would get loṅ evity,
+
+## 1 . See verse 13 above.
+
+Z· ՝՞՟ yerse 14 above,
+
+
+health and undecaying heaven. The giver of grains such as the
+wheat, kalama (rice sown in June and harvested in December) ,
+barley and other (grains) would attain heaven.
+42-43.
+Having given (as a gift) a seat, metallic vessel, salt,
+fragrant sandal, incense, lamp, betel, iron, silver, gem and other
+rare materials, one would get enjoyment and emancipation.
+One would ascend heaven by giving sesamum and a vessel
+for keeping sesamum.
+44-46.
+There is nothing superior to the gift of food. Neither
+there was nor there would be. The (merit of) gift of an elephant,
+horse, chariot, maid-servant, servant and house will not equal
+a sixteenth part (of the merit) of giving food. One who gives
+food after committing a great sin would become free from all
+sins and attain undecaying worlds. One who sets up a place for
+distributing water for drinking would get enjoyment and emanci­
+pation.
+
+## 47.
+
+By giving fire and firewood (for travellers) on the way,
+one would get radiance etc. and would be served in the ( celes­
+tial )vehicle in heaven by the celestials, gandharvas and women.
+
+## 48.
+
+One would get all things by giving ghee, oil and
+salt. After having given umbrella, sandal and firewood etc.
+one would dwell in heaven happily.
+49-52.
+A gift made after worshipping lords Hari, Hara,
+Brahmii and the guardian deities on the important lunar days
+like the first etc., on the combinations (known as ) vƁkamhha
+etc., in the (months) caitra and others,
+in the years and the
+(asterisms) a.fvini etc. is of great merit. One would get enjoy­
+ment and emancipation by providing shady trees, feeding pla­
+ces, (vehicles) to carry burden and for anointing the feet. There
+are three things which are of equal merits. (They are )-cows,
+land and imparting knowledge. By imparting knowledge one
+becomes blemishless and attains the world ofBrahmii. One who
+imparts knowledge about the brahman, would be equal to one
+who gives earth consisting of seven continents.
+53-54.
+One who gives refuge to all beings would get all
+things. One who copies and gives the puriiT)a or Bhiirata or
+RiimiiyaT)a, would get enjoyment and emancipation. One who
+teaches scriptures dancing and music;: wö ld, rẻ c;:h heaven.
+
+
+2 1 1 .55-69
+551
+
+## 55.
+
+Money should be given to the teacher and food etc.
+for the students. What more can be possibly given by one who
+does with a motive to acquire virtues and desires.
+
+## 56.
+
+There is no doubt that one would get by imparting
+knowledge every benefit that he would get by (performing) a
+thousand Vajapt:Ja sacrifices.
+
+## 57.
+
+One who reads a book would be the giver of all gifts
+at the temples of (lords) Siva, Vig1u and the Sun-god.
+
+## 58.
+
+All the castes and the four institutions of life separately
+and all the gods such as Brahma and others are established on the
+gift of knowledge.
+
+## 59.
+
+Knowledge is the wish-yielding cow. It is the unsur­
+passing eye. One rejoices with the Gandharvas by giving the
+Upavedas (the secondary texts such as the .Ayurveda) •
+
+## 60.
+
+One would attain heaven by giving the accessory texts
+of scriptures. One would rejoice with piety by giving the
+religious law books.
+
+## 6 1 .
+
+There is no doubt that one gets release (from the mun­
+dane existence) by giving the established texts (of any discip­
+line). One would reap the same benefit by giving a book as he
+would by imparting knowledge.
+
+## 62.
+
+One would get everything by giving sacred religious
+texts and Puriir)as. One would get the benefit of Pur.u;larikal
+by imparting (knowledge to) the disciples.
+63-65.
+There is not known to be any limit for the benefit
+accrued by one who gives that by which he lives. That which is
+the most excellent in the world and that which is liked by one
+should be given to the manes by one who desires to have them
+without depletion. One who gives materials
+for
+worship
+after having worshipped (lords) ViQu, Rudra (Siva),
+the
+Lotus-born (Brahma), Goddess, Vighnesvara (lord of impedi­
+ments) and others would get everything. One who causes
+{to
+construct) a temple and to make an image would get all things.
+
+## 66.
+
+One would be free from blemishes by washing and clean­
+ing the temple. One who draws the mystic diagrams would
+become the ruler of a province subsequently.
+67-69.
+Mter having given perfumes, flowers, incense, lamp.
+food offering, circumambulation, bell, banner, canopy, (arran-
+
+## 1.
+
+A unit of measurement.
+
+
+552
+Agni Pur41)a
+ged) a show, musical instruments and music and clothes for the
+lord, one would get enjoyment and emancipation. One should
+give musk, benzoin, sandal wood, agallochum, camphor, musta
+(a kind of grass) , guggulu (a fragrant resin ) and vijaya. One who
+establishes light at the time of solstice and others with a prastha
+(a measure) of ghee would get everything.
+70-71 .
+Bathing is known to be with hundred palas
+(of
+materials ) , bathing with oil with twentyfive palas. A great bath­
+ing is said to be with a thousand palas (of materials ) . (By bathing)
+with water ten sins (are washed off) , by bathing with thick
+milk hundred sins (are washed off) , (by bathing) with milk
+a thousand (sins are washed off) and ten thousand
+(sins
+are
+washed off by bathing ) with ghee.
+
+## 72.
+
+One would get fortune and wealth and would go to
+heaven by giving a maid-servant, servant, ornaments, cow, land,
+horse and elephant and other things for the deity.
+
+## CHAPTER TWO HUNDRED AND TWELVE
+
+Gifts granting the desired fruits
+
+## Fire-god said :
+
+
+## 1 . I shall describe gifts
+
+that confer the desired bene­
+fits. One should do daily worship each month and do the
+worship for (the accomplishment of one's ) desires.
+
+## 2-3.
+
+The undertaking of the vow, worship of the preceptor
+and the grand worship at the end of the year (are the routines) .
+One who gives a horse and a lotus made of flour to lord Siva
+·after worship in miirgasirfa would live in the world of Sun for a
+long time. (By giving ) an elephant made of flour in paUfa,
+one would lift twentyone generations.
+
+## 4.
+
+By giving a horse and a chariot made of flour in miigha,
+one would not go to hell. One would become a monarch and
+would ascend
+heaven by giving a bull made of flour in phiil­
+guna.
+
+## 5.
+
+Having given a cow made of sugarcane together with a
+servant and a female servant in caitra, one would
+remain in
+
+
+2 1 2 .6- 18
+553
+heaven for a long time and would become a mo::ta.rch at the end.
+
+## 6.
+
+One would become verily (lord) Siva himself by giving
+seven kinds of rice in vaisiikha . One would become (identical
+with lord) Siva by making a circula r altar in the ÆiiQ.ha.
+
+## 7.
+
+One would
+ascend
+heaven
+and also (become) a
+king by giving a vehicle made of flowers in sriivaT)a. By giving
+two hundred fruits one would elevate his family (and become)
+a king.
+
+## 8.
+
+One would become a king after ascending heaven
+by giving guggulu (gum resin) etc. in bhiidra. Giving a
+vessel
+filled with milk and clarified butter in iiivina would convey one
+to heaven.
+
+## 9. Having given pieces of jaggery and clarified butter in
+
+the kiirttika one would go to heaven and then be a king. I shall
+describe the twelve varieties of gifts (known as) merudiina (heaps
+of things resembling the Meru mountain) that confers enjoyment
+and emancipation.
+1 0- 1 8.
+In the meruvrata one should give a meru (moun­
+tain) of gems to a brahmin in kiirttika. Listen to me. (I
+shall describe) the measure (of things) in all (the gifts of) Merus
+duly. Only a prastha (a measure) of diamond, ruby, mahiinila
+(a kind of sapphire), sapphire, crystal, topaz, emerald and pearl
+are excellent. Half of that (measure) would be medium and a
+quarter of that (would be) inferior. One should avoid doing
+trickery knowingly. The Meru should be located in the peri­
+carps presided by (the lords) Brahma, ViQ.U and lsa. Malya­
+van should be worshipped on the east and that is known as
+Bhadra still to its east. Asvaraka is said to be the next. The
+Niadha, Hemakiita and Himavan, the three, should be (wor­
+shipped) on the south of Meru. The three (mountains) Nila,
+Sveta and Spigi are (worshipped) on the north (of Meru) .
+(The mountains) Gandhamadana, Vaikarika and Ketumala
+would be on the west. Thus the Meru would be associated with
+the twelve (mountains) . One should worship (lord) ViQ.u or
+(lord) Siva after fasting preceded by bathing. The Meru should
+be worshipped with the sacred syllables in front of the deity and
+given to a brahmin. (One should say) "I give this excellent
+material of (the shape of) Meru belonging to god ViQ.U to a
+brahmin of such and such a gotra to become sinless and for the
+sake of enjoyment and emancipation."
+(One who does so)
+would be honoured by the celestials and would sport in the
+
+
+554
+Agni Purdr}a
+(divine) chariot in the worlds of lndra, Braluna, Siva and Vi˨Q.U
+after elevating his family. One should make the gift even at other
+times such as the entry of the Sun from one constellation into
+another.
+19-22. One should offer the golden Meru of (the weight
+of) a thousand palas. It should have three peaks representing
+the (lords) Brahma, Vi!?Q.U and Hara (Siva). Each one of the
+mountains should be hundred (palas) . Together with the Meru,
+the mountains are known to be thirteen. One who makes a gift
+of gold Meru to a brahmin at the time of solstices, eclipses
+etc., in the presence of (lord) Vi!?Q.U, after having worshipped
+lord Hari (Vi!?Q.U) , would live in the world of Vi!?Q.U for a long
+time. One would be a king for such a long time as the infinite­
+simal particles (of the gift) . One should resolve and give a silver
+Meru having twelve mountains.
+23-26.
+It would have the aforesaid benefit. One should
+worship
+lord Vi!?Q.U and a brahmin and resolve (to give)
+bhumimeru (land in the form of Meru) consisting of a circular
+orb or a village of one-eighth part. The other parts (carry)
+the same benefit as before. One who gives the Meru in the form
+of an elephant together with the twelve mountains and the three
+beings (gods) would get infinite benefit. Meru (in the form)
+of a horse (would be) fifteen horses together with twelve horses.
+Giving this (as a gift) after worshipping lords V l!?Q.U and others
+one would enjoy comforts and become a king. One should give
+a Meru (in the form) of cow of the same number as the horse
+as before.
+
+## 27. A gift of a Meru
+
+(in the form) of cloth would be a
+bhara of silk cloth in the middle with the twelve cloth as moun­
+tains (around) . By giving (this gift) (one will have) undimi­
+nishing benefit.
+28-29. A mountain of clarified butter
+(would be) five
+thousand palas of ghee, each one (of the mountains being) five
+hundred. One should
+worship lord Hari in this mountain.
+Having offered it to a brahmin in the presence of (lord) Vi!?Q.U,
+one would get everything and reach lord Hari. One would
+get (the same fruit) by making a Meru of sugarcandy and giving
+in the same way.
+30-35.
+The Meru of grains (should be) five khari (a mea­
+sure equal to 1 5 dro1Jas) and the other (mountains) of one khari
+
+
+2 1 3. 1 -9
+
+## S55
+
+each. All should have golden peaks (denoting lords) Brahma,
+Vi,Qu and Mahesvara. One would acquire special benefit by
+worshipping lord Vi,Qu in all of them. One should set up a
+Meru of sesamum in the same way measuring ten parts. The
+peaks should be as betore for that (mountain) and other moun­
+tains. One who makes a gift of a Meru of sesamum would
+reach the world ofVi,QU together with his relatives. "Obeisance
+to the form ofVi,Qu. Obeisance to (the mountain) Dhanidhara.
+(Obeisance) to one having lords Brahma, Vi,Qu and I sa on
+the peaks, to one remaining at the navel of the earth, to the lord
+of twelve mountains, to the destroyer of all sins, to the devotee
+of lord Vi,Qu and to the calm person. You always protect
+me so that I may reach lord Vi,Qu together with my forefathers
+becoming sinless. Om, obeisance. You are indeed lord Hari.
+I am lord Vi,Qu in the front of (lord) Hari. I shall inform
+lord Vi,QU with devotion for the sake of enjoyment and eman­
+cipation.
+
+## CHAPTER TWO HUNDRED AND THIRTEEN
+
+Mode of making a gift of earth and its benefits
+
+## Fire-god said :
+
+
+## 1 -4.
+
+I shall describe (the mode of) making a gift of the earth.
+The earth is known to be of three kinds (extending to) hundred
+crores of yojanas (containing) seven continents and the oceans.
+That earth upto the continent of Jambii is spoken as excellent.
+One should make an excellent one with five bharas (measure of
+weight ) of gold. The tortoise and lotus (supporting that) should
+be laid with half that (measure) . The excellent earth is said to
+be (of the full measure) . The middle one (is said to have) two
+parts. The last one (should be of) one-third part. The tortoise
+and lotus will be one-third. The wish-yielding (celestial) tree
+should be made (to weigh) a thousand palas.
+
+## 5-9.
+
+The central stalk (of the tree) together with the leaves,
+fruits and flowers and having five branches should be got ready
+and the five should be given by a good man. One who makes
+
+
+556
+Agni Pur4T)a
+this gift would rejoice in the world ofBrahma together with the
+manes for a long time. The celestial cow (should be made)
+with five hundred palas in front of lord Vigm. The gods
+Brahma, Vi:gm, Mahesa and others are settled in the cow.
+The gift of a cow is the gift of all (things) . It gives all (things)
+and also the world of Brahma. Having given a tawny cow one
+would elevate all families. By giving a girl
+(in marriage)
+after decorating her, one would acquire the benefit of (doing
+the) horse sacrifice. One who gives a land in which all grains
+grow would get everyting. One who gives a village or a town or
+a hamlet would be comfortable. By setting free a bull in kiirttika
+one would elevate the family.
+
+## CHAPTER TWO HUNDRED AND FOURTEEN
+
+The system of veins in the body and their benefits
+
+## Fire-god said :
+
+
+## 1-4.
+
+I shall describe the system of veins by knowing which
+one would know lord Hari. Fibre-like things spread out from
+the bulbous root below the navel. They are seventy-two thou­
+sand situated at the centre of the navel. They spread out and
+occupy everywhere across, above and below. They are situat­
+ed like a wheel. Among these ida, pingalii, SUfUmnii, giindhiiri,
+hastijihvii, prthii, yasii, alambUfii,
+huhu and sankhini are the ten
+principal veins.
+
+## 5-14. These veins are said to be carrying the ten life forces­
+
+priiT)a, apiina, samiina, udiina vyiina, niiga, karma, krkara, devadatta
+and dhanaiijaya. Prii1J.a is the chief wind and is the lord of the ten.
+The prii1J.a makes the life living from exhalation after the
+inhalation. Remaining in the chest of beings it fills up daily.
+The prii1J.a gets united with life by exhalation, inhalation and
+coughing. Because it moves out from the life
+it is said to
+be prii1J.a. Apiina pushes down the food in men. It is said to be
+apiina because it is the wind that carries the urine and semen.
+The wind known as samiina equalises the blood, biles, phlegm
+and wind in the body (caused by) drinking, eating and smelling.
+
+
+
+## 214. 15-26
+
+557
+The wind known as udana agitates the vulnerable points and caus­
+es the quivering of lips, face and causes change in the com­
+plexion of the eye. (The wind) vyana depresses the body and
+activates the disease. It is said to be vyana because it returns
+from the throat and spreads out. The wind niiga (is known to
+be) in vomitting and kiirma remains in the opening. (The wind)
+krkara is in eating, devadatta in yawning, dhanafijaya in raising
+loud sound. They do not abandon even the dead. Thus goes
+the life cycle with the ten activities. Hence it is the cycle of
+veins.
+1 5-20.
+The solstices, the equinoxes, day and night, the sun's
+passage north and south of the equator, intercalary month, debt,
+the incomplete night and wealth (are attributed to the differ­
+ent parts of the body and their functions) . The incomplete
+night would be the hiccough and the intercalary mouth the
+yawning. The debt would be coughing. The exhalation is said
+to be wealth. The right side (of the body) is known to be the
+north and the left side is designated as the south. The equinocti­
+cal points are said to be in the middle line passing through the
+two parts while the solstice is that passing from its own nerve­
+centre to another centre. 0 Brahmin ! Suumna is establi­
+shed in the middle of the body, the itjii on the left and the pingaliJ
+on the right. The pr΂a above is remembered to be the day. In
+the same way apana would be the night. One wind
+(exists)
+in ten forms. The expanse in the middle of the body is said to be
+the lunar eclipse. The expanse between the principles of the
+body is known to be the solar eclipse.
+
+## 2 1 . Filling the abdomen with wind as much as one desires
+
+is known to be the pr΃yiima known as the puraka because it
+fills up.
+
+## 22. Mter covering all the holes, one should remain like a
+
+pot after filling (the abdomen with air) without exhalation
+and inhalation. That is the kumbhaka (variety of) priiT)iiyiima.
+23-26.
+One who knows the sacred syllable should push the
+wind upwards and let out in one breath. He should evacuate it
+upwards (to the region of the brain) . Since (lord) Siva residing
+in the body (of beings) himself utters (that) (the letter ha) ,
+that is said to be the repetition for those who know the principles.
+That master of yoga does the repetition twentyone thousand six
+hundred times in the course of a day and night. This ziiyatri
+
+
+558
+known as the ajapa is of the form of Brahma, Vi!:Q.U and Mahe­
+svara. There is no rebirth for one that repeats this ajapa (mantra) .
+
+## 27.
+
+The foremost kWJ¢alini (the energy coiled in one of the
+psychometric centres) is considered to be associated with the
+moon, fire and sun. It is known to remain in the heart in the
+form. of a sprout.
+28-32. The location of the creation should be therein be­
+cause of its suspension from that. The foremost worshipper
+should contemplate therein the flowing ambrosia. The sakala
+(endowed with the parts) is known to be remaining in the body
+and the niikala (without the parts) as devoid of the body. That
+one who repeats hamsa is the lord Sadasiva (ever auspicious) .
+That person remains in the body of the man both outside and
+inside just as oil in the sesamum and fragrance in the flowers.
+Lord Brahma has his place in the heart.
+Lord ViÏ:q.u remains
+at the throat. Lord Rudra is situated in the middle of the
+cheeks.
+Lord Mahesvara is
+at the forehead.
+Lord Siva
+should be known as the tip of the vital principle and the higher
+and the lower as its end. The sakala form is said to be of five
+kinds and nijkala form as the contrary.
+33-41 .
+That person who produces the sound that is prasada
+(propitious) and 'repeats hundred times would no doubt get
+accomplished in six months endowed with yoga. There will be
+destruction of all sins because of the knowledge of the past
+and future events. One would
+get
+virtues such as
+IJ(Jinui
+(the power to become minute as an atom) in six months. The
+prasada
+has been described by me as three : gross,
+subtle
+and
+foremost. Prasada is of three kinds-short, long and
+protracted. The short one burns sins. The long one would
+confer emancipation. The elongated one is in accomplishing
+things. It is adorned with a dot on its head. The syllable phal
+is beneficial at the beginning and end of the short sound for
+the sake of destroying an enemy. The heart (mantra) at the
+beginning and end is stated to be useful in captivating (others'
+minds) . One should repeat (the same) five lakhs time (standing
+facing) the southern face of the deity. After the repetition there
+should be oblation of ghee ten thousand times. With the sacred
+syllable having been accomplished thus one should do the repeti·
+tion for captivating etc. It is void above,
+void in the middle
+and void below. It is devoid of blemishes. Whichever brahmin
+
+
+
+## 2 15. 1-9
+
+559
+knows the three voids would certainly be released (from the
+mundane existence) . One is said to be not a preceptor if he does
+not know the priisada, made of the five sacred syllables, endowed
+with thirtyeight parts. So also the preceptor knows the syllable
+om, the gayatri, (lord) Rudra and others.
+
+## CHAPTER TWO HUNDRED AND FIFTEEN
+
+Mode of reciting gayatri and its greatness
+
+## Fire-god said :
+
+
+## 1 -3. One who knows the syllable om is verily a yogin and
+
+(the lord) Hari. Hence one should practise the syllable om,
+that is the essence of all sacred syllables, and the giver of all
+things. The praT)ava (om) is known to be the first in the applica­
+tion of all the sacred syllables. Hence the act which becomes
+complete with that, will not get completed with any other (syl­
+lable) . There are three great unmutilating vyahrtis (syllables)
+which are preceded by the syllable om. The three-footed savitri
+(gayatri) should be known as the face of (lord) Brahma.
+
+## 4.
+
+One who unweariedly repeats these everyday for three
+years, reaches the supreme brahman becoming the wind and
+embodying the sky.
+
+## 5.
+
+The one syllable is the supreme brahman and praT)ayama
+(control of the birth) in the supreme penance. There is nothing
+greater than savitri. Truthfulness excels silence.
+
+## 6-7.
+
+The repetition (of gayatri) seven times :would des­
+troy one's sins and ten times would convey
+(the person) to
+heaven. That goddess repeated twenty timeswould convey him
+to the abode of (lord )lsvara (Siva ) . One would cross the ocean of
+mundane existence by repeating it hundred and eight times.
+The Gayatri excels the repetition of Rudra and Kii^ar;tQa
+(mantras) in its merit.
+
+## 8-9 .
+
+There is nothing excelling Gayatri for repetition.
+There is nothing equal to
+vyahrtis for doing oblations. A
+quarter of the hymn or a half of it or half the hymn or the whole
+hymn being repeated purifies one of the sins such as the killing
+
+
+560
+Agni Purii1)1J
+of a brahmin, drinking of wine, stealing of gold and cohabiting
+the preceptor's wife.
+
+## 1 0.
+
+On having committed a sin it is said that one should do
+oblations with sesamum repeating Gayatri. After repetition of
+Gayatri a thousand times and fasting one gets rid of his sin.
+1 1 - 1 2 . The killer of a cow, the patricide, the matricide, the
+killer of a brahmin, the defiler of the bed of preceptor, the
+person who has stolen gold and the drunkard get purified after
+repetition (of the mantra) a lakh number of times. Otherwise
+one should bathe and repeat hundred times remaining in the
+water. One would
+get rid of his sin by drinking water
+(consecrated by the repetition) of Gayatri hundred times.
+
+## 1 3.
+
+The Gayatri repeated hundred times is remembered to
+destroy one's sins. That goddess repeated a thousand times would
+destroy the minor offences.
+14-21 .
+The repetition a crore times would yield the desired
+benefits and lead one to godhead and sovereignty. After having
+uttered the syllable om first and (the syllables) bhii/.l, bhuva/.z
+and sva/.z (the earth, sky and heaven) then, and the praT)ava (om)
+and Gayatri at the end is said to be (the mode) for repeti­
+tion. Visviimitra is the sage, giiyatri the metre and Sa vita (Sun)
+the god (for the mantra) when it is used for appeasement
+(of gods) , for repetition and for offering oblation. The gods
+who preside over different letters constituting the mantra are
+the Fire god, Wind god, Sun, Lightning, God of Death, lord
+ofthe water (ocean), Jupiter, God of rain, Indra, Gandharva,
+Putan, Mitra, Varui.J.a, Tvattr, Vasus, Maruts, Moon, Aiigiras,
+Visve ( devas), Nasa9'a (Asvins) ,Ka, Rudra, Brahma and VitI.J.U
+respectively who are said to destroy sins at the time of repetition
+of Gayatri. (They respectively protect) the toes, ankles, legs,
+knees, shanks, the male organ of generation, testicles, hip,
+navel, belly, breasts, heart, neck, face, cheek, nostrils, eyes, the
+centre of the eye-brows, forehead, front part of the face, the two
+sides on the right and left, head and the mouth in order.
+22-24.
+Yellow, blue, tawny, green, colour of the fire, the
+golden colour oflightning, smoky, black, red, white, colour of the
+sapphire, crystal coloured, golden, white, red, all the lustre,
+golden, smoky, blood red, blue red, golden, white, dark green
+
+
+2 1 5.25-34
+561
+are the colours of Gayatri. It destroys sins at the time of repeti­
+tion and confers all desires when used to offer oblation.
+25-28.
+Oblations
+made
+with
+sesamum and
+Gayatri
+would destroy all sins. One who desires to appease should
+do with barley. One who desires life should do with ghee.
+For success in one's work (one should do) with white mustard.
+(One should do) with milk for spiritual splendour, with curd if
+one wishes to have children, with siili (grains) if one desires to
+get grains. One (should do oblation) with twigs of kfiri (milky)
+trees for the appeasement of affliction due to planets. Then
+one desiring for wealth (should do) with bilva (a kind of tree)
+and desiring for fortune (should do) with lotuses. (One should
+do) with dilrvii (a kind of grass) if he desires for health and the
+same if portents (are met with) . (One should do) with guggulu
+(gum-resin) aspiring for prosperity and with sweet porridge if
+seeking knowledge.
+
+## 29.
+
+T here would be the indicated success with (oblation
+done) ten thousand times and the mentally desired (benefit)
+with a lakh times. One would be released from (the sin accrued)
+by killing a brahmin, be lord Hari and the elevator of the family
+with (oblations done) crore times.
+30-31 .
+One should invoke Gayatri at the commence­
+ment of oblations done for propitiating the planets or the one for
+ten thousand times or any other sacrifices. Then he should medi­
+tate on the syllable om. After having remembered the syllable
+om one should tie up the tuft with the Gayatri. Then after hav­
+ing sipped (three drops of water)
+one should touch the heart,
+navel and shoulders.
+
+## 32.
+
+The sage is Brahma,
+the metre is gΏatri and the
+god is the Fire god for the praΐava (om ) . I t i s the Supreme soul
+and it should be associated in all acts.
+33-34.
+(She should be contemplated as) possessing white
+complexion, having fire as the mouth, divine, born in the gotra
+of Katyayana, encircling the three worlds, associated with the
+support of the earth, wearing the rosary, the goddess seated in
+the padmiisana (posture of sitting with legs crossed) and auspi­
+cious (with the following words) : "Om ! You are the lustre, the
+sacrifice, the strength, one of the seven Suns, the abode of the
+gods, the universe, the life of the universe, all beings and the
+
+
+562
+.Agni Purilq,a
+life of all beings. Om ! to the earth. 0 Goddess ! Bestower
+ofboon ! You come ! The one to be repeated ! You be present
+before me !"
+35-37.
+Prajapati is the sage for all vyiihrtis (the syllables
+hh il etc. ) . (They are used) separately and collectively with the
+letter om of Brahmii. The sages (of the vyiihrtis are) Visvamitra,
+Jamadagni, Bharadviija, Gautama, Atri, Vasi!?tha and Kasyapa
+in order. Fire god, Wind god, Sun, Jupiter, VaruJ;ia, Indra,
+Vi!?I;lU are the (presiding) deities of vyiihrtis in order.
+
+## 38.
+
+Gayatri, U !?I;lik, AJ;iu!?tubh, Brhati, Pankti, Tri!?tubh,
+and Jagati are said to be metres (of these) respectively.
+39-40.
+It is remembered that eight drops of water should be
+thrown upwards with the hymn iipo hi Øthii1 or drupadiit• or hiraT)ya­
+vaTT)iim8 or piivamiini'"at the end in the use of the vyahrtis, in the
+priiT)iiyiima and in oblation. It destroys the sin done since the birth.
+
+## 41 .
+
+One should recite (the hymn) rtam ca5, the destroyer of
+sins, thrice in the water. Sindhudvipa is the sage for the hymn
+iipo hi Øthii.
+
+## 42.
+
+The metre is giiyatri and deity water for this (hymn)
+for brahmasniina (bathing to get rid of sin ) . It should be used for
+sprinkling water on the body or at the time of bathing at the
+conclusion of a sacrifice.
+
+## 43.
+
+Aghamar!?aJ;la is the sage for this aghamarØaT)a hymn.
+Anu!?tubh would be the metre. Bhavavrtta is the deity.
+44-49.
+(The mantra) iipo jyoti raso8 is remembered to be the
+head of Gayatri. Prajapati
+(Brahma) is the sage for that
+because the yajur (mantras) are not metrical. Brahma, Fire god,
+Wind god and Sun are said to be deities. The wind is gene­
+rated from the suppression of breath.
+Fire is produced from
+wind. Water (is produced) from fire and then purity. Then
+one should rinse. It moves
+within beings,
+cavity
+and
+universal gods. The syllable vÙal is the sacrifice in the form of
+
+## 1 . uV. 10.9.1 .
+
+
+## 2 . AV. 6.1 15.3.
+
+
+## 3.
+
+This is Srisiikta, uVkh. 5.87.1.
+
+## 4. Designation of ǶV. 9. 1 . 1 ff
+
+
+## 5.
+
+uV. l0.190. 1 .
+6i
+ǷV. l0.9.
+
+
+2 1 6 . 1 - 1 0
+563
+penance. Water is the lustrous sap of nectar. The sage of the
+hymn udu ryam jiitavedasam1 is said to be Praskanna (? ) : Giiyatri
+is stated to be the metre and Sun the deity. It is used in the
+atiriitra (sacrifice) and the agniltoma is the employer. Kautsa
+is stated to be the sage for the hymn citram deviiniim2. Triltubh
+1s
+said to be the metre for this (hymn) and Sun the deity.
+
+## CHAPTER TWO HUNDRED AND SIXTEEN
+
+Complete instruction relating to Giiyatri
+
+## Fire-god said :
+
+
+## 1 -4. After having performed the twilight worship thus, one
+
+should recite Gayatri. It is known to be Giiyatri because it
+saves
+disciples, wives and lives. It is known as the Siivitri
+because it illumines the Sun. It is (known as) Sarasvati because
+it is the form of speech. It is known to be the bharga, the lustre,
+because it is the effulgence of supreme brahman. (The root)
+bhii denotes shining. It is also known that bhrasj denotes cooking.
+It ripens the herbs etc. (The root) bhrajr would denote shining.
+(The word) Bharga would be (denoting) shining. (In this sense)
+it has been used in the scriptures many times.
+
+## 5-6. (It is said to be) most excellent because it has an exalt­
+
+ed position than all the splendours. It is the one always desired
+by those who wish to attain heaven. As (the word) vr'(loti means
+covering, (it signifies) an eternal, absolutely pure conscious,
+absolutely real and great god that is beyond (the states of)
+waking, dreaming and deep sleep.
+
+## 7-10. I am that brahman, the supreme effulgence. I con­
+
+template on that for the emancipation. That effulgence is
+lord ViᆇJ).U that is the cause of origin of the universe. Some
+read Siva, some read a form of goddess, some Sun and some
+such as those learned in the scriptures and those propitiating fire,
+the fire (god) . Lord ViᆇJ).uᆕofthe form offire etc. is praised in the
+scriptures as the brahman. That most exalted place of lord
+ViᆇJ).U is known to be that of lord Sa vita (Sun) . That lord Hari,
+the self effulgent produces the (libations of) clarified butterᆖ
+
+## 1 . RV. l .50. 1 .
+
+
+## 2. :S,.V. l . l l5. 1 .
+
+
+
+564
+Agni PuraT}a
+(The same god) as the god of rain, the god ofwind and the Sun
+would nourish (everything) by means of cold, heat etc.
+
+## I I .
+
+· Libations cast into the fire reach the Sun. Rains are
+produced from the Sun. Food grains (grow) from rain and then
+the people.
+1 2-1 3.
+(The word) dhimahi (may be) from the root dhii
+(to hold) . (It means) "May we retain in our minds". The
+word na/.l (means) 'our' May that Bharga who is in the intellects
+of all beings prompt the intellects of those who enjoy in all
+their acts and results seen and unseen. He is of the form ofViᆗI.J.u,
+Sun and Fire.
+
+## 14.
+
+Being prompted by the lord one may reach heaven
+or the pit (of mundane existence) . Everything is an abode
+of the lord. Lord Hari is verily (the worlds) such as the
+mahat.
+1 5-16.
+"I am that lord who sports with the paradise and
+the like. That lord the universal being known as Bharga in­
+side the Sun should be contemplated by those desiring for eman­
+cipation for the destruction of birth and death and the three
+kinds of griefs. This universal being should be beheld in the orb
+of the Sun.
+I 7. You are that Supreme Being, the conscious brahman
+which is the exalted position of lord ViᆆI.J.U. I
+am Bharga, the
+most exalted fourth place of lord Sun. I am the body and the
+like, the state of waking and that upto that brahman. I deem
+myself as the brahman. I am that absolute spirit in the Sun. I
+am the infinite. Om. I am that one who always directs the know­
+ledge in auspicious acts and the like.
+
+## CHAPTER TWO HUNDRED AND SEVENTEEN
+
+VasiĔtha's hymn to lord Siva
+
+## Fire-god said :
+
+
+## 1 . Mter having propitiated lord Siva of the form of the
+
+Jinga with Gayatri, Vasiᆆtha obtained yoga. Moreover he
+
+
+
+## 21 7.2-1 2
+
+565
+got the exalted brahman and emancipation from lord Sarikara
+(Siva ) .
+
+## 2.
+
+Obeisance to the golden linga and the linga in the form
+of scriptures. Obeisance to the supreme linga and the linga
+in the form of the sky.
+
+## 3. Obeisance to the thousand linga-s and the linga in the form
+
+of the fire. Obeisance to the linga of the forms of the Purii7)a
+and the scriptures.
+
+## 4.
+
+Obeisance to the linga in the form of the nether worlds
+and the brahman. Obeisance to the mysterious linga and the
+linga above the seven continents.
+
+## 5. Obeisance to the linga as the soul of all beings and to
+
+the linga that is the limb of all
+people. Obeisance to
+the
+unmanifest linga and the linga of the form of the intellect.
+
+## 6.
+
+Obeisance to the linga representing the ego and to the
+linga denoting the beings. Obeisance to the linga of the form of
+senses and the subtle principles.
+
+## 7. Obeisance to the ling a denoting the Supreme spirit and
+
+the sentiments. Obeisance to the linga above the (principle of)
+rajas and to the (principle) of sattva.
+
+## 8.
+
+Obeisance to the linga of the form of becoming and of
+the form of the three qualities. Obeisance to the linga denoting
+future and the form of lustre.
+
+## 9.
+
+Obeisance to the linga beyond the wind and of the form
+of the scriptures. Obeisance to the linga in the form of the (hymns
+of)iAtharva (veda) and the Siima (veda ) .
+
+## 10. Obeisance to the linga that i s the limb of the sacrifice
+
+and of the form of the sacrifice. Obeisance to the linga
+of the form of principles and to the linga of the form of the
+companion of the lord.
+
+## 1 1 . You impart me the excellent yoga. (Bless me) with a
+
+son equal to me. 0 Lord ! May I attain the imperishable
+brahman. 0 Lord (you also confer) tranquillity. May the pro­
+geny_.be without break and let them have an undiminishing in­
+terest in righteousness.
+
+## Fire-god said :
+
+
+## 12.
+
+Once after having been propitiated by Vasiçtha on the_
+Sriparvata (mountain) thus, Sambhu (Siva) granted the boon
+to Vasiçtha and disappeared there itsel£
+
+
+566
+Agni Purdr)a
+
+## CHAPTER TWO HUNDRED AND EIGHTEEN
+
+Mode of performing the coronation of a king
+
+## Fire-god said :
+
+I . 0 Vasiititha ! I shall describe now the duties of a king
+as told by Pui[ikara to Rama as the latter asked (him the same) .
+
+## PUfkara said :
+
+
+## 2. I shall describe the duties of a king (foremost) among
+
+the host of other duties. The king should be the slayer of the
+enemy, protector of the subjects and administer justice properly.
+
+## 3-6.
+
+He would look after the welfare of all those who are
+on the righteous path. He should practise this vow. He has to
+choose the astrologer, the brahmin priest, the ministers who had
+known the minds of the people and the queen endowed with
+righteous qualities. (After having practised the vow) for a year
+the king should have the anointment with all the regal para­
+phernalia at the proper moment. But there is no regulation about
+time for the same if the king has died (and a new king is install­
+ed) . He should be bathed with sesamum and mustard and the
+astrologer and the priest should hail victory for the king.
+(Then the king) seated on the throne should proclaim protec­
+tion (for all) and throw open (the gates of) the fortress for the
+provincial governors.
+7-1 1 . Before the anointment (is done) , the priest should
+do the rite to appease Indra. After having fasted on the day of
+anointment, offerings should be made into the sacrificial
+fire for the Manus with the sacred syllables of lord Vigm,
+Indra, Savitr (Sun), and the Visvedevas and the sacred syllables
+that are auspicious, beneficial, conferring longevity and protec­
+tion. The golden pitcher known as apariijitii (not defeated by
+anybody) containing the remnants of the sacrifice should be
+worshipped with perfumes and flowers on the right side of the
+fire. (The sacrificial) fire should have flames circling clock­
+wise, having the colour of heated gold, should be like the moving
+chariot, be making sound like the cloud and without smoke.
+The flames in their natural form, fragrant, resembling the figure
+of a svastikal, with clear and high flames and without sparks are
+benevolent.
+I . Made up of two lines intersecting at right angles having perpendi­
+cular lines in the clock-wise direction at the ends of two lines.
+
+
+2 1 8. 12-29
+567
+1 2-1 7.
+Cats, deer and birds should not pass between (the
+king and the sacrificial fire) . The king should cleanse his head
+with the mud (obtained) from the summit of a mountain, the
+ears with the mud from the top of an anthill, the face with that
+(mud) from the temple of (lord) Kesava, the neck with the mud
+from the temple of (lord) Indra, the heart (breast) with that
+(got) from the courtyard of the king (king's palace) , the right
+arm with the mud dug up by the tusk of an elephant, the left
+arm with the mud dug up by the horns of a bull, the back with
+the mud from a tank, the abdomen with the mud from the con­
+fluence of rivers and the sides should be purified with the mud
+from both the banks of a river. It is laid down that the waist of
+a king should be cleansed with the mud (obtained) from the
+threshold of a courtesan, the thigh (with mud got) from the
+sacrificial place, the knees (with mud obtained) from the cow­
+shed, the shanks (with that got) from the stable, the feet with
+the mud from the wheel of a chariot. The head of the king seat­
+ed on the throne (should be washed) with the five things got
+from a cow.
+1 8-29.
+Four ministers (of the king) should anoint him with
+(waters from ) the pitchers. A brahmin (minister should anoint
+him) with a golden pitcher filled with ghee from the east, a
+k!atriya (minister) with a silver pitcher filled with milk from the
+south, a vai.fya (minister) with a copper pitcher (filled) with
+curd from the west and a sildra minister with an earthen (pot)
+with water from the north. Then a brahmin priest reciting the
+f;lgveda should anoint the king with honey and a priest of the
+Siimaveda with waters along with the kusa. 0 Fortunate one !
+Then the (royal) priest should go towards the pitcher containing
+the residual offering , perform duly the protective amulet of
+the fire for the courtiers and give it (to the king) with those
+sacred
+syllables mentioned in connection with the coronation
+and with
+the recitations made by the brahmins.
+Then the
+priest should
+go to the foot of the sacrificial platform and
+anoint
+(the king)
+with a golden vessel having hundred
+holes.
+The head
+(of the
+king) should be touched with the
+herbs with (the recitation of the sacred syllables) yii O!adhil,
+
+## 1 . RV. 10.97. 1.
+
+
+
+568
+Agni Purti1Jil
+with perfumes, with flowers with (the syllables) pu:pavati1, with
+seeds with (the syllables )brahma1)a2, with gems with (the syllables)
+asu/.1. sisaT)a/.1.3, with kusa dipped in water with (the syllables)
+ye det•ti/.1.4 and a reciter of the Tajurveda or the Atharvaveda should
+touch the head and throat with rocanti with (the recitation of
+the syllables) gandhadvara5 and other brahmins with all the sacred
+waters. Then they should hold a pitcher filled with the herbs
+in front of the king to the accompaniment of singing and instru­
+mental music and the (waving of) chowries and fans. The
+king also should see them as well as the auspicious things such as
+the mirror and ghee etc. Then the priest, seated on a bed covered
+with a tiger-skin, should worship
+(gods) Vig:m, Brahma,
+lndra and others and the lords of planets and place the turban
+after having given the respectful offering of mixture of honey.
+30-34.
+The crown of the king should be fixed with the hides
+of five animals. The king should place the hides of a bull, a cat,
+elephant, lion and tiger on that seat with (the recitation of the
+sacred syllables) dhruvti dyau/.1.6• Then the door-keeper should
+present the ministers to the king. Then the king should give
+presents of cows, goats, sheep, houses and other gifts to the astro­
+logers and priests. (The other) brahmins should be honoured by
+(giving gifts of) land, cows, food etc. Then (the king) should
+circumambulate the (sacrificial) fire and make obeisance to
+the preceptor. (He should then move) backwards, touch the
+bull and worship the cow and calf. Then he should ride the
+consecrated (royal) steed. Similarly, he should worship the royal
+elephant and mount it. He should then go round the royal path
+along with his army. Then he should enter the palace and
+send away all (those gathered) after pleasing them with gifts.
+
+## I . J.{.V. 10.97.3.
+
+
+## 2. AV. 5. 17. 9.
+
+
+## 3. J.{.V. 10.103. 1 .
+
+
+## 4.
+
+
+## MS. 2 . 6 . 3.
+
+
+## 5. uv K.h. 5. 87. 9.
+
+
+## 6. uv. 1 0. 173. 4.
+
+
+
+2 1 9 . 1-1 3
+569
+
+## CHAPTER TWO HUNDRED AND NINETE EN
+
+Sacred syllables for coronation
+
+## Pufkara said :
+
+I . I shall describe the sacred syllables for the anointment
+of a king or god which would destroy sins. One would accom­
+plish everything by sprinkling water from the pot with the kusa.
+
+## 2-6.
+
+(The sacred syllables are as follows ) : "May the
+gods Brahma, Vir;1u, Mahdvara, Vasudeva,
+Sarikaqar;1a,
+Pradyumna and Aniruddha install you. May the gods Indra
+and others occupying ten cardinal points confer victory on
+you. The lords of created
+beings such
+as Rudra, Dharma,
+Manu, Daka, Ruci, Sraddha, Bhrgu, Atri, Vasitha, Sanaka,
+Sanandana, Sanatkumara, Arigiras, Pulastya, Pulaha, Kratu,
+Marici and Kasyapa guard (you) always. May the God of
+Death, lustrous celestials, (the manes) Barhiadas, Agnivattas
+Kravyadas, Upahiitas, Ajyapas and Sukalins guard you. May
+(the goddesses ) L::.kmi and others, the consorts of Dharma
+anoint you with fires.
+7-1 3.
+May the co'lsorts of Adityas and others, the progeny
+of Kasyapa, having many offspring, the wives of Kr§asva, the
+son of Agni, (the wives ) of Aritanemi, Asvini and others, (the
+wives) of the Moon and
+the wives
+of Pulaha, namely,
+Bhiitii., Kapisa, Daril.Hri, Surasa, Sarama, Danu, Syeni, Bhasi,
+Krauftci, Dhrtaratri and Suki (install you ) . (May) Arur;1a,
+the charioteer of the Sun anomt you. May Ayati
+(future) ,
+Niyati (fate) , Ratri (night) and Nidra (sleep) who stabilise
+the world and support it as well as (the goddesses ) Uma, (con­
+sort of Siva), Mena (wife of Himavan) , Saci (wife of Indra)
+guard (you) . May Dhiimra, Orr;1a and Nirrti (confer) victory.
+May (the goddesses) Gauri, Siva, Ӊddhi, Vela, Na<;lvala, Asikni
+and Jyotsna, the consorts of the celestials and the presiding
+deity of the forest (confer victory) . May the mahiikalpa (greater
+cycle of time), kalpa (smaller cycle of time), manvantara (Manu
+periods) ,yugas (a certain long period of time) , samvatsara (years) ,
+varfaS and the two half years (based on the movement of the sun)
+guard you. May the seasons, months, fortnights, night, day,
+twilight, tithis (lunar days) , muhilrtas (period of 48 minutes) ,
+which are the constituents of the time personified (guard you ) .
+
+
+570
+Agni PuriiT)a
+14-41 .
+May the planets such as the Sun as well as (the
+fourteen Manus) Svayambhuva and other Manus guard you.
+Svayambhuva, Svarociça, Auttami, Tamasa, Raivata, Cakçuça
+the sixth, Vaivasvata, Savari).i, Brahmaputra, Dharmaputra,
+Rudraja, Dakçaja, Raucya and Bhautya are the fourteen Manus.
+May the foremost celestials Visvabhuk, Vipascit, Sucitti, Sikhi,
+Vibhu, Manojava, Ojasvi, Bali, Adbhuta, Santi, Vna, Ŕta­
+dhama, D.ivasprk, Kavi, lndraka, Raivanta, Kumara, Vatsaka,
+Vinayaka, Virabhadra, Nandi, Visvakarma and Purojava ano­
+int you. May the celestial physicians Nasatya/ the eight Vasus
+Dhruva and others, the ten Aiigirasas and the scriptures anoint
+you for gaining perfection. May the soul, duration of life, mind,
+mental power, egoism, life-breath, possessed of oblation, the most
+important, divine law and truth guard you. May Kratu, Dakl?a,
+Vasu, Satya, Kalakii.ma and Dhuri (lead you) to victory. May
+the Pururavas, Madravas, Visvedevas, Rocana, Aiigaraka and
+-others, Surya, Nirrti and Yama, Ajaikapat, Ahirbudhnya,
+Dh11maketu, Rudrajas, Bharata,
+Mrtyu, Kapali, Kinkil)i,
+Bhavana and Bhavana protect you with their children and wives,
+Kratusrava]:J., Murddha, Yajana, Abhyusana]:J., Prasava, Avyaya,
+Dakça, Bhrgu, the celestials,
+Mana]:J. Anumanta,
+Prii.:Q.a]:J.,
+Nava, Apana, Viryavan, Vitihotra, Naya, Sadhya, Harilsa and
+Naraya:Q.a protect you. May the foremost among the celes­
+tials who are devoted to the welfare of universe such as Vibhu,
+Prabhu, and the twelve Suns Dhata, Mitra, Aryama, Pul?a,
+Sakra, Varu:Q.a, Bhaga, Tva i?ta, Vivasvan, Savita and Vii?:Q.U
+as well as Ekajyotis, Dvirjyotis, Trijyotis, Caturjyotis, Ekasakra,
+Dvisakra, Trisakra, Mahabala and Indra command (saying)
+'do not'. Then may Pratimakrt, Mita, Sammita, Amita, Maha­
+bala, Ŕtajit, Satyajit, Sui?e:Q.a, Senajit, Atimitra, Anumitra,
+Purumitra, Aparajita, Ŕta, Ŕtavak, Dhata, Vidhata, Dhara:Q.a,
+Dhruva and Vidhara:Q.a, the mighty friend of Indra, Idrkça,
+Adrkl?a, Etadrk, Amitasana, Kric;lita, Sadrkl?a, Sarabha, Maha­
+tapas, Dharta, Dhurya, Dhuri, Bhima, Abhimukta, Kçapatsaha,
+Dhrti, Vasu Anadhrl?ya, Rama, Kama, Jaya, Virat, the forty­
+nine wind gods protect you. May the Gandharvas-Citrangada,
+Citraratha, Citrasena, Kali, Orl).ii.yu, Ugrasena, Dhrtaraӌ?tra,
+
+## 1 . Literally means helpful, denotes the Asvini
+
+kumaras, the celestial
+physicians.
+
+
+
+## 219.42-53
+
+571
+Nandaka, Haha, Huhu, Narada, Visvavasu and Twnburu
+anoint you for your victory. May the foremost among the priests
+and the divine group of damsels Anavadya, SukeSi, Menaka,
+Sahajanya, Kratusthala, Ghrtaci, Visvaci, Puiijikasthala, Pram­
+loca, Orvasi,
+Rambha, Paiicacu<;la, Tilottama, Citralekha,
+Lakmal).a, PuQ.<;larika and Varlll).i guard you. May the demons
+Prahlada, Virocana, Bali and Bal).a and their sons and other
+foremost demons Heti,Praheti, Vidyut, Sphurjathu anoint you.
+(May) the Yaka, the accomplished soul-MaQ.ibhadra, Nandana,
+Piilgaka, Dyutiman and Pupavanta bring forth victory. (May)
+the treasures sankha( conch) ' padma (lotus), makara (fish) ' kacchapa
+(tortoise) (bring) victory.
+42-46.
+May the ghosts Ordhvakesa and others, the goblins
+who dwell on the earth, the (divine) mothers led by Mahakala
+(form of Siva at deluge) and Narasimha (man-lion form of
+ViQ.u) , Guha (son of Siva) , Skanda, Visakha and Naigameya
+(other names of Guha) anoint you. May the female goblins
+and female attendants on God Siva dwelling in the sky and on
+the earth and the principal birds such as the Garu<;la, Arul).a
+and Sampati guard you. May the great
+serpents Ananta,
+Vasuki, Takaka, Airavata, Mahapadma, Kambala, Asvatara,
+Sailkha, Karkotaka, Dhrtaratra and Dhanaiijaya, and the
+elephants Kwnuda, Airaval).a, Padma, Pupadanta, Vamana,
+Supratika and Aiijana protect you always from all evils.
+
+## 47.
+
+May the swan, the bull, the lion and the buffalo,
+(respectively the vehicles) ofBrahma, Sailkara, Durga and God
+-of Death guard you.
+
+## 48.
+
+(May) Uccai):J.sravas, the lord of the horses, (lord)
+Dhanvantari, Kaustubha,
+the foremost among the conches,
+always (proect) the mace, spear and the disc.
+
+## 49.
+
+May Nandaka, Dharma, the governor of conduct,
+Citragupta, the wielder of the punishing rod, Piilgala, Mrtyu
+(death) and Kalaka (the regulator of time) protect the weapons.
+50-5 1 . May the sages Valakhilyas and others and the fore­
+most among the sages such as Vyasa and Valmiki, (the fol"emost
+.among the kings of the past) Prthu, Dilipa, Bharata, Duyanta,
+.Sakrajit,Bali,Malla, Kakutstha, Anenas, Yuvanasva, Jayadratha,
+Mandhata, Mucukunda and Pururavas guard you.
+52-53. May the presiding deities of the grounds and the
+:twentyfive principles confer victory on you. (May) the golden
+
+
+572
+Agni PurliT)a
+earth, rocky soil, nether world, blue soil, yellowish red earth,
+white soil, Rasa tala (a nether world) , the earth, the terrestrial
+region and the foremost among the continents Jambii etc.
+(bring you) fortune.
+54-55. May the U ttarakurus and the continents Ramya,
+Hira1_1yaka, Bhadrasva, Ketumala, Balahaka, Harivara, Kim­
+purua, Indradvipa, Kaseruman, Tamravar1_1a, Gabhastiman,
+Nagadvipa and Saumyaka guard you.
+56-72.
+Varu1_1a, the ninth gandharva, the conferer of domi­
+nion protect
+you.
+The mountains Himavan. Hemakiita
+Niadha, Nila, Sveta, Snigavan, Meru, Malyavan, Gandha­
+madana, Mahendra, Malaya, Sahya, Siiktiman, Ӌ.lqavan, Vin­
+dhya and Pariyatra bestow peace upon you. May the IJ.gveda
+and the other (Vedas) , the six accessory textsl Jtihiisa and PurliT)as,.
+medical science, science of music and archery, the accessory
+Vedas protect you. Phonetics,
+the texts
+laying down
+rules
+for sacrificial acts, grammar, etymology, astronomy and metrics,
+the (four) scriptural texts, mimlimsaz, the science of logic, code of
+laws and PurliT)a are the fourteen branches of learning. (The
+schools of philosophy such as) the Siinkhya and Yoga, the PiiSu­
+pata3, the Vedas and the Piincarlitra4 are the five dogmas. May
+(the goddesses) Gayatri, Siva, Durga, Vidya and Gandhari
+protect you and confer peace on you. May the four oceans of
+salt, sugarcane juice, liquor, clarified butter, curd, milk and water
+and the different sacred spots protect you . (They are) Pukara,
+Prayiiga, Prabhasa, the excellent Naimia, Gayiisira, Brahma­
+sira, Uttaramanasa, Kalodaka, Nandiku1_1c;la, Paficanadatirtha,
+Bhrgutirtha, Prabhiisa, Amaraka1_1taka, Jambiimiirga, the spot­
+less, the hermitage of Kapila, Ga.Iigadvara (Haridvara) , Kusa­
+varta, Vindhyaka, Nilaparvata, Varahaparvata, Kanakhala,
+Kalafijara, Kediira, Rudrakoti, Varii1_1asi, the great spot Badari­
+kasrama, Dvaraka, Srigiri, Puruottoma
+(Puri) , Salagrama
+and Varaha, the spots of confluence of the rivers with the ocean,
+Phalgutirtha, Bindusara, Karavirasrama and the rivers Ga.Iiga,
+
+## 1 . Phonetics, the texts laying down rules for sacrificial acts, grammarȦ
+
+etymology, metrics and astronomy.
+
+## 2.
+
+The texts dealing with the interpretation of vedic texts.
+
+## 3.
+
+Saivite philosophical texts.
+
+## 4. VaiJ;,lavite philosophical texts.
+
+
+
+
+## 220.1 -7
+
+573
+Sarasvati, Satadru, GaQcJ.aki, Acchoda, Vipasa, Vitasta, Devika,
+Kaveri, VaruJ}.a, Niscira, Gomati, Para, CarmaJ}.vati, Riipa,
+Mandakini, Mahanadi, Tapi, PayoӊJ}.i, VeJ}.a, Gauri, VaitaraJ}.i,
+Godavari, Bhimarathi, Tmigabhadra, AraJ}.i and Candrabhaga
+(and the goddesses) Siva (and) Gauri anoint and protect you.
+
+## CHAPTER TWO HUNDRED AND TWENTY
+
+Accomplishment of assistance to the king
+
+## PÛkara said :
+
+
+## 1 -7. A foremost king thus crowned along with his ministers
+
+should conquer the enemies. A brahmin or a k΄atriya should be
+appointed by the king as the commander-in-chief. He should
+also be a descendant of a noble family and well-versed in ethics.
+The door-keeper (should be) learned in ethics. The emissary
+should be speaking sweet, strong and a matchless warrior. The
+betel-bearer (may be) a man or a woman devoted (to the king) ,
+capable of enduring fatigue and be affectionate. One who is
+proficient in the six expedients of royal policy1 should be made
+the minister of foreign affairs. A guard should bear the sword.
+A charioteer should know the strength of (the hostile) army.
+The chief cook (should be) a beneficiary, learned and one living
+in the (royal) kitchen. The courtiers should be well-versed in
+righteousness. The (royal) scribe should be well versed in (the
+art of) writing. The door-keepers should know the appropriate
+time of call and be beneficial. The treasurer should be a man well­
+acquainted with the gems and be beneficial in the acquisition
+of wealth. The royal physician should know the science of medi­
+cine. The superintendent of elephants should know (the science
+of) elephants. The rider of an elephant should be one who has
+conquered fatigue. The superintendent ofhorses should know
+equinology. The superintendents of forts should be beneficient
+and wise. The architects should be well-versed in the nature of
+the grounds.
+
+## 1.
+
+Alliance, war, march, halt, seeking shelter and duplicity.
+
+
+574
+Agni PurQT)a
+
+## 8.
+
+Persons (employed) to give instructions in (the use of)
+weapons, should be well-versed in the use of weapons projected
+by the machines or discharged by the hands or not discharged
+entirely or discharged and held back and fight with hands. He
+1!hould be beneficial to the king.
+
+## 9.
+
+The officer in the harem should be old, fifty years old if
+women and seventy years old if men. They should be engaged in
+all types of work.
+10-1 5.
+(The man) in (charge) of the arsenal should be
+wakeful. A person is employed in a task after knowing (his
+ability) . A king should employ foremost, medium and ordinary
+people after knowing the tasks as excellent, medium and ordi­
+nary. A king desirous of victory should bring beneficial accom­
+plices. Righteous men (should be engaged) in righteous acts,
+valorous men in tasks like battle, clever men in acts yielding
+material gains and men of good conduct in all acts. Eunuchs
+should be employed in (matters relating to) women and cruel­
+( hearted men) in cruel deeds. Whomsoever the king knows to
+be of good conduct, that person should be employed (by the
+kings ) in the acts of piety, acquisition of wealth and pleasure.
+Vile people (should be employed ) in bad acts. The king should
+employ in appropriate task those people whose fidelity has been
+tested. The minister should engage properly men of the same
+kind to find the evil doers just as an elephant (is employed to
+control) the wild ones.
+1 6-24.
+Experts should be employed in their own fields of
+1!pecialization. The servants who have been serving since the
+time of the grandfather and father (of the king) should be
+engaged to do all tasks except in matters which are to be done by
+the heirs. In those acts, only those who have come (in that line
+should be employed) . Men who have come from other kings
+(and) desiring protege should be given protection (irrespective
+of the fact) whether they are bad or good. If one is known to
+be bad, (the king) should not trust him and keep his livelihood
+under his control. Men who have come from a different country
+should be watched by (engaging) spies and then honoured (if
+they are found to be good ) . The enemies, fire, poison, serpent
+and the sword on one side and the trustworthy, distinguished
+servants (on the other side) should be known (as equal) . So
+also the wicked servants on one side (equal the loyal servants) (?)
+
+
+22 1 . 1 -5
+57!)
+The king should have the spies as the eyes. He should always
+employ the spies. The spies should not be known to the people.
+They should be good and not known to each other. (He should
+employ the spies) in the guise of tradesmen, diplomats, astro­
+logers, physicians and as ascetics knowing the strength and weak­
+ness (of the people) . The king should not trust (the words of)
+a single person. He should believe the words of many. The
+king should make use of the likes, displeasures, merits and de­
+merits of his servants and people, as well as the good and bad
+(deeds done by them) in order to control them. He should
+do only such acts which would attract them and desist from
+acts causing displeasure. The king would be adorned by the
+fortune of the pleasure of the people because of pleasing the
+people.
+
+## CHAPTER TWO HUNDRED AND TWENTYONE
+
+Code of conduct for the servants
+
+## Pu:kara said :
+
+
+## 1 -5. The servant has to carry out the orders of the king,
+
+like a disciple, for the prosperity of the master. He should not
+disobey the commands of the king. He should speak only that
+which is good and dear to him. If an unpleasant news is
+beneficial (to the king) , (the servant) should let him know in
+privacy. When he has been employed in some work he should
+not swindle the money. He should not do anything that would
+affect his dignity. He should not similarly put on the dress of
+the king and speak and act in the manner of the king. The super­
+intendent of the attendants of the harem should not have any
+contact with those dismissed (by the king) and have become
+enemies. The servant should guard the secret of the king. Mter
+having done some act of ingenuity, (the servant) should ascribe
+it to the king. He should not give publicity to any of the secrets
+heard by him from the king. When some (superior person)
+orders him (to disclose) he should say, "what to do ?"
+
+
+576
+Agni Purii'l)a
+
+## 6-7. He should wear the dress, gems and ornaments given
+
+by the king. He should not enter the royal chamber without
+being asked (by the king) . He should not see him at an impro­
+per place. He should avoid yawning, spitting, coughing, frown­
+ing based on depravity, raising the eyebrows and eructationnear
+him.
+
+## 8-14.
+
+One should engage others cleverly by making the
+king know about his qualities. Perfidy, avarice
+slandering,
+atheism, meanness and fickle-mindedness should always be avoid­
+ed by one in the service of the king. A servant who thus asso­
+ciates his own selfwith the self by means of scriptural knowledge
+and manual work should then do the service to the king for the
+sake of the growth of fortune. He should always bow down to
+the sons, favourites and ministers of that person (the king) . He
+need not gain the confidence of the ministers. He should do
+(such acts) which please the king. (The servant) should ignore
+those not liked by the king. One who knows the king should
+desire to earn his livelihood from those liked by the king. He
+should not speak anything when not asked by the king. He
+should do the desired when (he has) a misfortune. The king
+would be pleased with a person who gathers the words spoken.
+The king also would not suspect (that he would disclose) his
+secrets. (The duty of the servant is) to enquire about the health
+(of the king) and to make the seat ready (for him) . (A servant)
+rejoices to hear the exploits of the king. He rejoices even after
+(hearing) an unpleasant (comment) . He receives the small
+remuneration and remembers it on other occasion. Only such
+a servant should be employed. The services of others should be
+avoided.
+
+## CHAPTER TWO HUNDRED AND TWENTYTWO
+
+Construction of Forts
+
+## P·kara said :
+
+
+## 1 -2. I shall describe the excellent fortification. The king
+
+should reside in the fort. It should abound with the traders and
+
+
+
+## 222.3- 1 4
+
+577
+servants and sparsely with others. It should have few brahmins
+and plenty of artisans. A country not depending on rain-water
+and having plenty of water (for cultivation) is commended.
+
+## 3.
+
+It should not be vulnerable for attack by others and
+should abound with flowers, fruits and grains. It should be im­
+passable by foreign army and should be free from rogues and
+thieves.
+
+## 4-5.
+
+The mighty king should build one of the following
+types of forts and live there. 0
+Bhargava (son of Bhrgu ;
+Parasurama)
+! Fort guarded by archers, land, men, forest,
+water and hill (are the six kinds of forts) . The excellent among
+these (forts) would be the fort protected by the hill. It is indes­
+tructible and it destroys others.
+
+## 6.
+
+Such a fort should have the market place, temple and
+other things. A fort furnished with weapons and implements
+and surrounded by water is an excellent one.
+
+## 7-9.
+
+I shall describe the means of protecting the king. The
+king has to be saved from poison. The Sir΅a well ground with
+(cow's) urine, (known as) paiicanga destroys poison. Satavari,
+chinnaruha, vi:aghni, tarpfuliyaka, kosataki, kalhari, brahmi, citrapato­
+lika, marpf,ilkapaTT.Ji, variihi, dhatri, anandakam, unmadini, somaraji and
+the gemstone destroying poison (are the antidotes for poison) .
+
+## 1 0 . Residing i n the fort possessing the characteristics of a
+
+dwelling place,
+(the king)
+should propitiate
+gods. (He)
+should protect the subjects, conquer the wicked and make gifts.
+
+## 1 1 .
+
+(The king) who takes away the articles (dedicated to)
+the god would dwell in hell for a kalpa (period) . The king
+being devoted to the worship of gods should erect temples.
+1 2-13. The temples should be protected and (images of)
+deities should be installed. A wooden one is meritorious than the
+earthen one, one made of bricks than the wooden one. One
+made of stone is meritorious than that of the (image) made of
+brick. One made of gold and gems (is meritorious) than
+that of the stone one. Even by the construction of a temple
+sportively one would get enjoyment and emancipation.
+
+## 14.
+
+One who donates paintings, musical instruments and
+(arranges for) dramatic performances to be seen and who anoints
+the deity with oil, clarified butter, honey, milk and other things
+would go to heaven.
+
+
+578
+Agni PuribJ.a
+15-18.
+The king should worship and protect the bralunins.
+He should not take away the belongings of a brahmin. (The
+king) would reach hell and remain there till the inundation
+of beings (deluge) by taking away (a piece of) gold, a cow
+or an angula breadth of a thumb) measure of land (from a brah­
+min). There is no other sin greater than the killing of a brahmin.
+The brahmins would make non-divine into divine and divine into
+non-divine. Brahmins are the most fortunate ones. They should
+always be respected. A brahmin woman who weeps would
+destroy the family, kingdom and subjects (of a king).
+19-23. A righteous king should protect the chaste women.
+The women should engage happily and efficiently in the cores
+of household work. (She should be) decorating well the house­
+hold articles and be frugal in her expenses. She should always do
+service to her husband to whom her father has given her (in
+marriage) . The lady practising continence after the death of the
+husband goes to heaven. She should not have the desire (to live)
+in other's house and should not be quarrelsome.
+A widow as
+well as the wife of a man who has gone abroad, should not deco­
+rate her person. She should always be bent on the worship of
+god and the welfare of the husband. (A woman whose husband
+has gone abroad) should wear some ornaments for the welfare
+(ofthe husband) . The woman (widow) who enters the (funeral)
+fire along with the (dead) husband would also reach heaven.
+(A householder) should worship the goddess of fortune and
+do the cleansing of the house etc. (He should worship lord)
+Vigm on the twelfth day of Kiirttika and then make a gift of a
+cow together with a calf. Her husband was saved by Savitri
+(wife of Satya van, king of Salva) by practising truthfulness and
+good conduct. There need not be any doubt that a woman
+would have children by the worship of the Sun on the seventh
+day in the bright (fortnight) in (the month of) miirgaJiria .
+
+
+
+## 223.1 - 1 7
+
+579
+
+## CHAPTER TWO HUNDRED AND TWENTYTHREE
+
+Duties of a king
+
+## PUfkara said :
+
+
+## 1-4. A king should appoint a head for (every) village, for
+
+ten villages, for hundred villages, and then an over-all head.
+Their salaries would be in conformity with their duties. (The
+king) should watch them daily through (his) spies. Any irre­
+gularity that has arisen in the village should be controlled by
+the village head. If (he is) not able (to set it right) (he) should
+approach the head of ten villages and report him. The head of
+the ten villages also should take appropriate step after having
+heard the same. The king would get wealth etc. by protecting
+the state.
+5-1 3. A wealthy man gets righteousness and enjoys the
+desires. All actions without (being supported by) wealth would
+be ephemeral just as the river in the summer. There is no diffe­
+rence between the fallen and the poor in the world. No one would
+take from the fallen. A poor man would not give. Even the wife
+of the poor would not lend him support. A king oppressing the
+country would dwell in hell for a long time. A king should
+do in the same way as a pregnant woman who would abandon
+her comforts and would attend to the welfare of the child in the
+womb. What (use) of the sacrifices or of the penance (for a
+king) whose subjects have not been protected. One whose sub­
+jects have been well protected, his house would be equal to
+heaven. One whose subjects have not been protected, his house
+would be the hell. The king collects one-sixth (of the income)
+of both the good and bad subjects. (The king ) would acquire
+virtue by protecting (the subjects) and sin by not protecting them.
+The subjects should be protected (by the king) from the oppres­
+sions by thieves (in the guise of) the officers of the state, espe­
+cially the writer-caste,just as a virtuous woman afraid of a
+villain (is protected) . The subjects being protected from their
+fear (by the king) would be the subjects of the king. If not pro­
+tected they become an easy prey for them. The wicked should
+be pttt down and the tax laid down in the codes should be taken.
+14-1 7.
+Half (the amount collected)
+should be kept in the
+treasury and the other half should be given to brahmins daily.
+Having found a treasure a brahmin should take it in entirety.
+
+
+
+## S80
+
+Agni PuriiT)a
+The same having been found by a kfatriya, a vai.fya or a !udra
+it is enough if one-fourth or one-eighth or one-sixteenth part of
+the treasure is given (to the king) in order as per law. One
+who lies is punishable (with a fine) of one-eighth part of the
+treasure. The king should keep an unclaimed property in his
+custody for three years. (One who is able to establish his claim)
+after three years by saying that 'it is mine' should be given the
+property as laid down. On the contrary the king would forfeit
+the wealth.
+18-2 1 . The owner (of a property) deserves (to get) that
+property after furnishing (details about) its nature, dimension
+etc. The king should manage the property belonging to a minor
+till he (the minor) completes his study or crosses the state of
+childhood. The same (procedure) should be followed in the
+(case of the properties) belonging to widows with children and
+those not having the guardians. The righteous king should
+punish those relatives who seize
+(the properties) of faithful
+women (who have become) widows and weak, even as they are
+alive, with the punishment meted to the thief. In general the
+property stolen by a thief should be paid by the king himself.
+
+## 22.
+
+The king should obtain from thieves and the officers
+in charge of the protection, the property taken by them. One
+who lies that he has been robbed when he has not been robbed
+should be punished and expelled (from the country) .
+23-29.
+The property that has been stolen by the inmates
+of the house need not be restored by the king. 0 Brahmin !
+the king should take one twentieth of the value from the mer­
+chandise belonging to his country. The fees to be levied on
+goods from foreign countries should be determined after knowing
+the cost, the wear and tear and the profit got by the trader. (In
+this case) one twentieth of the profit should be taken. If not
+(paid) (the importer) should be punished. Freight should not
+be collected from women and mendicants. The ferryman should
+be made to repay by the king that which has been lost in transit
+on account of the fault of the ferryman. The king should take
+one sixth in the case of the grain !uka (barley) and one eighth
+in the case of the grain !imbi (a kind of kidney bean ) as toll
+befitting the region and season. The king should take four and
+five parts respectively in the case of animals and gold. Only
+.a sixth part should be collected in the case of perfumes, herbs,
+
+
+
+## 223.30-224. 1 -9
+
+581
+cereals, flowers, roots, fruits, leaves, vegetables, straw, bamboos
+hides, wicker works and vessels made of stone and all (other
+materials) , honey, meat and clarified butter.
+30-33.
+(The king) should not levy tax on the brahmins
+even in emergency. The king in whose realm a brahmin,
+well-versed in the scriptures, perishes on account of hunger, his
+kingdom gets ruined on account of diseases, famine and thieves.
+The king should ascertain the attainments and provide him
+an occupation.
+(The king) should always protect him just as
+the father (would protect) his son. The life of the king, the wealth
+and the kingdom would increase by the meritorious deeds of a
+person (brahmin) being protected by the king. The artisans
+of the king should work for a day in a month (without any
+remuneration) . The other workers under him should (work
+without any remuneration) by taking food only.
+
+## CHAPTER TWO HUNDRED TWENTYFOUR
+
+Duties of a king in the harem
+
+## Puikara said :
+
+1 -2 . I shall describe the duties of the king in the harem.
+Virtues etc. (are) the purpose of life (for the king) . The kings
+should entertain them without mutual conflict in the company
+of the women. Virtue is the root, worldly prosperity the bough
+and action or deed the great fruit. One who fosters this tree of
+the three objects of worldly existence, would realise the fruits.
+
+## 3-9.
+
+0 Rama ! Women are subject to desire. Hence the
+gems are gathered for their sake. They should be entertained and
+also not much entertained by the king who desires for wealth.
+One should not indulge excessively in eating, sexual pleasure and
+sleep. It would cause disease. The king should share his bed
+only with his beloved women. A woman behaving badly, not
+rejoicing in (hearing his) exploits, associating with the enemies
+(of the king) , feeling haughty and proud, wiping her face when
+kissed, not feeling grateful after accepting a present, sleeping
+before and getting up later after sleep, shaking the body when
+
+
+582
+Agni Purat)a
+touched and preventing from touching the body on account of
+shyness, scarcely listening to pleasing words and keeping the
+face turned away, ignoring to look at things placed in front,
+concealing the loins, having a pale face when looked at, turning
+her face away from the friends, appearing as if a mediator in the
+(affairs of) other women loved (by the king) and not adorning
+her person even after knowing that it is time for adorning (should
+be rejected) .
+1 0- 1 9.
+One who is disinterested should be rejected and one
+who is loving should be entertained. {The characteristics of a
+loving woman are as follows) . She rejoices even at the sight
+(of her husband) . When looked at she casts her eyes down.
+Being looked at she places her shaking glances elsewhere. Yet
+she would not be able to turn aside her look completely. 0
+Bhargava (son of Bhrgu, Parasurama) ! She exhibits her con­
+cealed parts of body and covers up with effort the organs prohi­
+bited (from being displayed) . She embraces and kisses him
+(immediately after) being seen. She always speaks only the
+truth. When being touched feels horripilation later manifest­
+ing as the sweat-drops (on the body) .
+(0 Rama !
+She
+asks for easy and simple things
+(from the
+husband) . She
+gets great rejoice after getting even a little. She feels elated
+and favoured much by the mere pronunciation of her name.
+She sends fruits to her husband with the impressions of her
+nails. She holds those sent by her husband on the chest out of
+regard. She besmears the body as if with the ambrosia by her
+embraces. She sleeps after (the husband) had slept and would
+get up before (he gets up) . She would wake him up from sleep
+by touching his thigh much. 0 Sage ! The clarified butter
+becomes fragrant by combination with the powders of kapittha
+and a column of curd as also with barley put in milk. This is the
+way by which an eatable thing should be dressed. Now I shall
+describe the mode of preparation of perfumes.
+20-22 .
+0 Rama
+! Cleansing, gargling, vomitting, adorn­
+ing (with flowers etc. ) , heating, burning (incense sticks) fumi­
+gation and perfuming are indicated to be the eight acts. Puri­
+fication of a thing is by washing it with water containing the
+leaves of Kapittha, bilva, mango and Karavira. In the absence
+of these, purification should be done with water saturated with
+musk.
+
+
+
+## 224.23-40
+
+583
+
+## 23K29.
+
+The twenty-one herbs for fumigation are-nakha,
+ku!tha, dlzana, miirhsi, sprkka, saileyaja, jala, saffron, shellac, sandal,
+agallochum, nirada, sarala, devakii!tha, camphor,
+kiinta, hiila,
+kunduruka, guggulu, Iriniviisaka and sarjarasa. Two of these should
+be taken and mixed with parts of resin from a sala tree. They
+become fit for fumigation by being mixed with nakha, piTJyaka,
+malaya and honey and made as desired in the proper way. The
+bark, tubular part, fruit, oil, saffron, granthiparvaka, saileya, tagara,
+kanta, cola, camphor, mamsi, sura and kUtha are said to be the
+things (to be used) for bathing. One should bathe with any
+three (things) from these collected as one desires after mixing
+with the musk. This would increase the passion.
+
+## 30.
+
+If one bathes with tvak, mura and analada in equal pro­
+portions added to half (the quantity) of balaka with saffron and
+oil, one would have the fragrance of the lotus.
+
+## 31 .
+
+By adding a half of tagara (in the same) , it will have the
+fragrance ofthejati flower. It gives a captivating fragrance of the
+bakula (flowers) with the dhyamaka (grass) .
+
+## 32. One would get an auspicious fragrant oil by putting
+
+the maiiji,thii, tagara, cola, tvak, vyaghranakha, nakha and gandha­
+patra.
+
+## 33. 0 Rama ! the oil extracted from the sesamum and
+
+scented with any of the flowers would certainly have the frag­
+rance of the flower.
+
+## 34.
+
+Cardamom, clove, kakkola, nutmeg and camphor mixed
+with the skin of the nutmeg would be able to make the mouth
+fragrant.
+35-38.
+0 Rama ! a kar,ika (weight) of camphor, saffron
+kiinta, musk, harerJuka, kakkola, cardamom, clove, jati, kosaka,
+tvakpatra, truti, musta, kasturika lata, the thorns of clove, the fruit
+and skin of nutmeg and katuka should be powdered and a fourth
+part of the essence of khadira that gives fragrance should be added.
+Then tablets should be made of them by (adding) mango juice.
+When kept in the mouth they give fragrance and destroy the
+diseases of the mouth.
+
+## 39. Arecanut well washed with the waters of the leaves of
+
+five (trees) and made fragrant with the (above) things (used)
+for (making) the pills would make the mouth fragrant.
+
+## 40.
+
+0 Rama !
+(the herbs) katuka and dantakii!tha soaked
+
+
+584
+Agni Puriit)a
+in cow's urine for three days and perfumed as the arecanut would
+make the mouth fragrant.
+
+## 41 . Equal parts of tuak and pathya mixed with half (the
+
+quantity) of the camphor would give an attractive fragrance in
+the mouth similar to that of the niigaualli (betel) .
+
+## 42.
+
+The king should always protect the women thus. He
+should not trust them, especially, the mother of children. He
+should never sleep in the night in the apartment of a woman.
+The faith (placed in them) should be feigned one.
+
+## CHAPTER TWO HUNDRED AND TWENTYFIVE
+
+The duties of a king
+
+## Pu?kara said :
+
+l -2. A king should protect the princess. He should instruct
+them in the sciences of virtue, polity, erotics, archery and fine
+arts through reliable persons. In the guise of protecting the body
+of the prince, guardians should be engaged (to guard from)
+those feigning to speak pleasant.
+
+## 3. He should not be given (an opportunity) to associate
+
+with angry, greedy and dishonoured persons. If not able to
+inculcate virtue (in the prince, the king) should bind him with
+pleasures.
+
+## 4. An obedient prince should be engaged in all posts of
+
+authority. The king should avoid hunting, drinking and dice
+(playing) that destroys the kingdom.
+
+## 5-7.
+
+(He) should also avoid sleeping during the day-time,
+strolling about idly and scurrilous language. He should also
+leave off censuring, cruel infliction of punishment and extrava­
+gance. The destruction of mines, neglecting the care of the
+fort etc. and scattering wealth are said to be extravagance.
+A gift that is made to an unworthy person at an inappropriate
+place and time and engaging in unworthy acts are said to be
+extravagance.
+
+## 8.
+
+One should avoid passion, anger, haughtiness, pride,
+
+
+
+## 225.9-20
+
+58%
+greed and arrogance. Then one should win (the love of)
+citizens after having controlled the servants.
+
+## 9. Then (he) should subjugate his external
+
+enemies.
+The external enemies are of three kinds-those belonging to
+the same clan, those having enmity from the period of the ances­
+tors and those who have enmity on account of some particular
+reason. Among these three each preceding one is greater
+than the succeeding one.
+
+## 10. 0 Fortunate one ! Friends are of three kinds­
+
+friend of the father and grandfather, feudatory under the enemy
+and artificial.
+
+## 1 1 . 0 Knower of virtue ! An empire is said to possess
+
+seven constituents-king,
+minister,
+subjects, fort, punish­
+ment, treasury and allies.
+1 2-16.
+The central figure is the king. He should be protect­
+ed and the kingdom is especially dependent on him. One who
+rebels against any of the above constituents of the kingdom
+should be killed. The king should be firm and liberal at (the
+appropriate) time. Thus there are two worlds (to be conquered
+by the king. The king should not cut jokes with the servants.
+The servants soon get an upper hand of the king whom they can
+persuade to laugh. In order to control people he should
+feign grief (in their misery). He should speak preceded by a
+gentle smile. He should make them feel delighted. It would
+certainly be detrimental to the work if the king is procrastinating.
+Procrastination is commended in the (following) acts-passion,
+arrogance, pride, quarrel, sinful acts and unpleasant things
+to be told. The king should hold secret counsel. There is no
+danger from secret counselling.
+1 7-20. The acts relating to the state done (by a king hold­
+ing such a counsel) is known from the deeds done and begun to
+be done. One's mind is known from the postures, gestures, gaits,
+action, speech and the changes in the eye and face. The king,
+should not keep his own counsel, nor consult
+a large number
+(of his ministers) . The king may have the counsel with many
+(ministers) . But it (should be had) separately. (He should
+see that) none of his ministers would disclose his secret counsels.
+Men will always have trust in some one somewhere. In counsel·
+decision must be made by one wise man.
+
+
+586
+Agni Purii'f)a
+2 1 -22.
+A king would perish on account of immodesty and
+would acquire a kingdom on account of modesty. (A king should
+learn) the three sciences, the science of administration, meta­
+physics, science of wealth and business from the world. Only a
+person that has conquered his senses would be able to keep his
+subjects under his control.
+
+## 23. The gods and all brahmins should always be worshipp­
+
+ed and gifts should be given to them (brahmins) . Gift made to
+a brahmin (would be) in:tperishable and the treasury cannot be
+destroyed by any of these.
+
+## 24. Not retreating in the battle, protecting the subjects
+
+and giving gifts to the brahmins are the supreme good for
+a king.
+
+## 25.
+
+(The king) should likewise arrange for the welfare and
+livelihood of the poor, destitute and old people, widows and
+women whose husbands have gone abroad.
+26-33.
+(The king) should arrange for (the proper pursuit
+of) the orders of the var'f)a (castes) and ii$rama (stages of life) .
+(He should) worship the ascetics. He should not trust everyone
+and trust only the ascetics. He should make
+(others) trust
+him adducing reason (to show that his words) are not impeach­
+able. The king should think about the wealth like a crane, con­
+quer like a lion, pounce (on the enemies) like a wolf, dart forth
+like a hare and strike firmly like a boar. The king should also
+be showing vanity like a peacock, faithful as a horse and be
+speaking pleasantly like a cuckoo. A king should always be
+suspicious as a crow while living in the residence of a stranger.
+A king should not partake of the food and touch a bed not
+tested before. He should not visit a woman whom he had not
+known before and not board an unfamiliar boat. One who
+oppresses his subjects would be deprived of the position and com­
+forts of a sovereign. Just as a nourished bull gains strength and
+becomes fit for work, so also 0 Fortunate one ! the nourished
+sovereignty becomes fit for work. All these works are dependent
+on the providence and on one's efforts. Out of these two the
+providence is unthinkable and one's accomplishments depend
+on his effort. The kingdom and the wealth of the earth of a king
+belong to him by the good-will of the people.
+
+
+
+## 226. 1 - 1 6
+
+587
+
+## TWO HUNDRED AND TWENTYSIX
+
+The means of Conciliation
+
+## Pu;kara said :
+
+
+## 1 -4.
+
+One's own act that has been acquired from a previous
+existence of a person is known as the providence. Hence peo­
+ple declare that will-force is superior. So also an adverse provi­
+dence can be nullified by one's efforts. One will accomplish by
+his previous deeds of virtue without providence. 0 Bhargava
+(son of Bhrgu) ! Effort yields fruit at the proper time by the
+:g race of providence. The providence and effort are the two that
+yield fruit for a man. The fruits would be accomplished at
+the proper time by the combination of rain and ploughing.
+Along with virtuous deeds one should exert effort. One should
+neither be lazy nor be dependent on fate.
+5-l l . All the stratagems are accomplished by means of con­
+-ciliation and other things. The seven means are conciliation,
+making gifts, creating dissent, punishment, stratagem, indiffer­
+ence and deceit. Conciliation is said to be of two kinds-true
+and untrue. Of these two the untrue (reconciliation) would
+be for the censure of the good people. Those who belong to good
+families, upright, always virtuous and have conquered their
+senses are conquerable by conciliatory words. Even demons are
+taken by false (conciliations) . The description of the good ser­
+vices rendered by them (is conciliation) . A dissension may be
+created between two who are inimical to each other, angry, afraid
+of each other and have been insulted by each other. He should
+instill fear in them. A king should give hopes to his own people
+(relatives) . He should cause dissent in adversaries by holding
+out threats about which they are afraid. One who causes such
+dissents among such kinsmen should be protected by the king.
+The anger of the soldiers is external and those of the ministers,
+counsellors and princes etc. (are internal) . The king should
+pacify the internal anger and conquer that of the enemies.
+1 2-16.
+Paying
+money is the
+excellent expedient. By
+giving money one would get both the worlds There is no one for
+instance who is not influenced by the payment of money. Only
+(a king) who makes a gift of money would be able to cause dissent
+in the enemies who have become allies. A king should accom-
+
+
+588
+Agni PuraT)a
+plish by (means of) punishment and service that which could
+not be accomplished by the other three. Everything rests on
+punishment which would destroy everything if improperly used.
+A king would be destroyed by punishing those unpunishable
+and not punishing those punishable. In the absence of punish­
+ment, the gods, demons, serpents, men, accomplished persons,
+goblins and birds would transgress their limits. The wisemen
+call 'the punishment' so because it controls the uncontrolled,
+punishes the unpunishable, controls and punishes.
+1 7-20. The king like the sun cannot be looked at on account
+of his splendour. He should be like the moon to look at in order
+to please the people. The king is the wind-god since he spreads
+himself in the world by means of his spies. He becomes
+fire when he burns the wicked. When he makes the gift to the
+brahmins he is the lord of wealth
+(Kubera) . Because he
+showers wealth he
+is known to
+be god Varu1.1a among
+the celestials. The king would be the earth by supporting the
+universe with his forbearance. Then he is lord Hari (Vigtu)
+because he would protect the people with determination.
+incantation, strength etc.
+
+## CHAPTER TWO HUNDRED AND TWENTYSEVEN
+
+The code of criminal laws
+
+## Pufkara said :
+
+
+## 1 -8. I shall describe the criminal laws by (enforcing) which
+
+an elevated position is attained by a king. You know that (the
+weight of) three barley (grains) is (equal to) one berry seed.
+(The weight of) a black gram would be that of five berries. 0
+Rama ! It is said that sixty berries (make up) a half of one
+karfa (weight) . 0 Rama ! A suvaTTJ,a (weight) is said to be
+(equal to)
+sixteen blackgrams. Four suvaTTJ,as make up one
+nifka and ten nifkas one dhara7Ja. These are the measures of weight
+(used) in (weighing) copper, silver and gold.
+0 Rama r
+Kar#ka is said to be karfiiPQ7Ja by coppersmiths well-versed (with
+the same) . Two hundred and fifty pa7JaS are remembered to be
+
+
+
+## 227.9-22
+
+589
+the siihasa
+first. The middle one is known to be (equal
+to) five (hundred par;zas) and the foremost one as one thousand
+(paҩUJs) . (These are the three kinds of punishments) . If a per­
+son tells 'I have been robbed', when he has not been robbed by
+the thieves and is handed over to the king, such a person should
+be punished by making to pay the same amount. One who tells
+differently or falsely (about the exact amount robbed) , both
+these should be levied double the punishment by the king.
+The men belonging to the three castes (other than brahmins)
+who bear false witness should be levied punishment. A brahmin
+(bearing false witness) should be expelled. The above punish­
+ment has not b(:!en prescribed (in that case) . One who enjoys
+(a property) entrusted with h:tn should be levied a fine of equal
+value.
+9-1 1 . 0 Righteous one ! (The same fine should be levied)
+in the case of clothes etc. (being used similarly) . One would
+not swerve from righteousness by such an act. One who
+conceals the entrusted property and one who asks for restoration
+of things without having entrusted the same (to some one)
+should be punished like robbers or levied double the fine.
+One who sells away another's property unknowingly is free of
+fault. But (one who sells another's property) knowing (that it
+belongs to another) deserves punishment as for a robber. One
+who receives the price for a work and does not give goods, is
+indeed punishable.
+
+## 12. The king should levy a fine of one suvaTT)a for one who
+
+promises (to give something) and does not give. One who accepts
+payment and does not do the work should be levied a fine of
+eight kr!r;zalas.
+1 3-22. But (a · master) dismissing a servant before (the
+end of) the term should be punished with the same fine. One
+who has a remorse after buying or selling something may return
+to its master or take from him within ten days (as the case may
+be) . Neither one can receive nor return after ten days (in such
+a deal) . Any person receiving or returning (such a property
+after that) should be levied a fine of six hundred (par;zas) by the
+king. One who solicits a girl for a bridegroom, should be levied·
+a fine of two hundred (par;zas) by the king whether the marriage
+has been done or not. One who gives in marriage a girl who had
+already been married to another should be punished by a king.
+
+
+590
+Agni Purat)ll
+The fine of uttama siihasa (one thousand paT)IlS) (should be levied)
+in that case. One who enters into a solemn agreement (with
+a person for sale) and sells it to another person out of greed deser­
+ves to be punished with six hundred (paT)as) . The keeper (of a
+cow-shed) not restoring the cow (to the owner) after receiving
+the charges for the upkeep should be punished by the king with
+one hundred (paT)as) and a suvaTT)a if not taken proper care (of
+the entrusted animal) . Land to the extent of one hundred dhanus
+(one dhanu is equal to four cubits) should be set apart around the
+village and twice or thrice as much around a city (for the graz­
+ing of the cows) . I t should be made in such a way that a camel
+would not be able to look over (the encircling wall) . When the
+(stored) grains have not been enclosed and were lost there would
+be no punishment. One who frightens
+(the owner) of a house,
+tank, garden or land and takes the same should be punished with
+five hundred (Par.Jas) . (If it is done) inadvertently the fine (would
+be) two hundred (paT)as) . All those who break the boundaries
+should be punished with the first siihasa1•
+23-25. 0 Rama !
+A katriya censuring a brahmin deserves
+to be punished with (a fine of) one hundred par.Jas, a vaiJya, two
+hundred paT)as and a sfldra, a capital punishment. A brahmin
+having censured a ůatriya should be punished with (a fine of)
+fifty (paT)as) , (having censured) a vaiJya, twentyfive (Par.Jas)
+and (having censured) a sfldra, twelve (pQT)as) . A vaiSya (having
+eensured) a katriya should get (punishment to pay) the first
+(class of) siihasa. A sfldra having censured a katriya should be
+getting (the punishment of) severing the tongue.
+26-27. A sfldra giving moral instruction to brahmins is liable
+for punishment. One who preaches falsely the doctrines of
+scriptures should be levied (a fine of) twice the siihasa. One
+who insults men of respect should be (meted the punishment of)
+uttama siihasa. But the above described punishments should
+be half if the crimes have been done inadvertently or for fun.
+
+## 28. One who accuses his mother or father or elder brother
+
+or father-in-law or the preceptor should be levied a fine of one
+hundred (PaTJ.IlS) . (The same punishment should be levied) for
+obstructing the pathway of the preceptor.
+
+## 29.
+
+One of a lower caste should without enquiry be severed
+
+## 1 . See verse 4, pp. 588- ;
+
+
+
+
+## 227.30-42
+
+591
+of the organ by which he had done harm to a member of the
+(three) higher castes.
+30-31 . The king should cause the lips to be cut off if a
+person spits on the ground with pride. Similarly, one passing
+urine or faeces on the body (of a brahmin) (should be punished
+by cutting the) penis and the anus respectively.
+If a member
+of a low caste had occupied the seat of a member of a higher
+caste, his lower organ (buttocks) should be cut. One who causes
+injury to any organ of another (should be punished by cut­
+ting the same organ (of the offender) .
+
+## 32.
+
+The killers of a cow, elephant, horse or camel should
+have their legs and hands cut off. One who would make a tree
+barren deserves the fine of a suva'TT)a.
+33-36. When the pathway or a boundary or the tank has
+been cut (by a person he) should be levied double the (above)
+fine. One who either wilfullyor unintentionally takes away the
+articles of another should restore it to him to satisfy him and pay
+the fine to the king. One who steals the rope or the pot from the
+well and damages the channel should be punished for a month
+(with imprisonment) . One should be punished (similarly) if
+he beats an animal. The punishment for stealing ten pitchers
+full of paddy is more than death. The punishment (for stealing)
+more than that (quantity) would be eleven times (the former) .
+Capital punishment (should be ordered for stealing) gold, silver
+etc. (and for kidnapping) men and women.
+
+## 37.
+
+The organ with which one would steal from others
+should be removed by the king for the sake of discipline.
+38-39.
+A brahmin taking little (quantity of) vegetables and
+grains etc. (for his use without the knowledge of the owner)
+would not be a criminal. (Similarly) in the case of taking for the
+cows or gods (one would not be a criminal) . One who attempts
+to kill another, should be killed.
+·
+
+## 40.
+
+One who seizes the house or field (belonging to another, )
+one who copulates with another's wife, one who is an incendiary
+and one who administers poison should be killed. So also in
+the case of one who attacks with a drawn weapon.
+41-42.
+A king should kill those who cause the death of
+cattle by magic spells. One should not converse with another's
+wife and should never copulate with a forbidden (woman) .
+A girl choosing her husband herself should not be punished by
+
+
+592
+Agni PuriiT)a
+the king. A man of the lower caste holding incest with a woman
+of the higher caste deserves to be killed. The woman who
+breaks her faith in the husband, should be made to be bitten
+by dogs. A woman defiled by a man of her own caste should be
+made to live on a morsel of food (a day) .
+43-4 7.
+A woman defiled by one of the superior (caste)
+should have her head shaved. A brahmin copulating with a
+vaifya woman and a k:atriya going to a woman of the low caste
+(should be fined) with the first (variety of fine). A kƂatriya and
+a vai!ya are punishable for going to a sfldra woman. If a courtesan
+after having received a contract, goes to another on account of
+greed, she shouldpay (the first one),twicethe contracted amount
+and (pay) twice the amount as fine. One's wife, sons, servants,
+pupil and brother having done an offence should be beaten with
+a rope or with a piece of bamboo A thief should be struck on
+the back but not on the forehead. One would acquire sin (by
+doing so) (by striking on the forehead) . The officers in charge
+of protecting the people seizing very much should be banished
+(from the kingdom) after having seized all their (property) .
+
+## 48. Those who have been employed to do certain work if
+
+do not do the work of their employers, the king should make
+those shameless, cruel-minded to be penniless.
+
+## 49.
+
+Likewise the king should banish the minister or justice
+after having taken the entire (property) for doing the work of
+another (king) .
+
+## 50.
+
+If one violates the bed of the preceptor, (mark of)
+female generative organ should be made (on the forehead) ,
+a pot ofwine in case of drinking ofwine, a dog in case of stealing
+and the head of a person in the case of killing a brahmin.
+
+## 5 1 . The king should kill (criminals belonging to) s fldra
+
+and other (communities) and banish the brahmin sinners.
+The wealth belonging to great sinners should be offered to
+(god) VaruJ}.a (God of righteousness) .
+
+## 52.
+
+(A king)
+should kill all those who offer shelter, food
+and wealth to thieves in the villages also.
+53-54. The feudatory chiefs and the governors of provinces
+in the kingdom who are sinful should be killed. The king should
+place on the pike after having cut the arms of those thieves who
+commit theft in the night after having agreed (to show good
+
+
+
+## 227.55-66
+
+593
+conduct) . The king should kill those who break tanks and
+temples.
+
+## 55.
+
+One should be levied (a fine of) a kiiriipa'f)a for having
+committed nuisance on the thoroughfare when there was no
+adversity and be made to clean the impurity.
+56-59.
+One who breaks his contract every month should
+pay (a fine of) five hundred (pa.I).as) to the party concerned
+(Merchants) , dealing fraudulently with honest men in respect
+of the price (of a commodity) , should be punished with the
+first or the middle (kind of) fine. The king should confiscate
+all goods from the obstructing merchants by (paying) small
+sum and punish them with the uttama (variety of) siihasa separa­
+tely. One who adulterates the materials and who sells imitation­
+articles should be given the middle (kind of) punishment. One
+who makes contraband goods (should be made to pay) uttama
+(siihasa) . One who insults in a quarrel should be given the
+punishment of twice that (amount) .
+60-64. A fine of kr7J-a[a1 (should be collected) from a brah­
+min or a sildra who eats the forbidden food. One who makes
+false balance and weight and those who make use of these should
+be levied the uttama (kind) of fine. The women who administers
+poison to her husband or preceptor, or a brahmin and children
+or sets fire to the house should be banished (from the country)
+with cows after having cut her ears, hands and nose. Those men
+who damage a land or house or village or forest and one who
+seduces the wife of the king should be burntwiththe fire from the
+cremation ground. One who copies the royal edict omitting or
+adding (some sentences) and one who sets free an adulterer and
+a thief should be punished with the uttama (siihasa) fine. The
+punishment for one who ascends the vehicle or the seat of the
+king is the uttama siihasa.
+65-66.
+If one thinks that he has not been defeated even
+though he has duly been defeated, (the king) should defeat him
+again and inflict double-fold punishment. One who summons a
+person that had not done any crime should be put to death. If
+an accused person escapes from the custody of the punisher on
+account of the latter's carelessness, that punisher should pay the
+fine.
+
+## 1 . See the first verse, p. 588.
+
+
+
+594
+Agni Purat)li
+
+## CHAPTER TWO HUNDRED AND TWENTYEIGHT
+
+Instructions relating to military expedition
+
+## PÊkara said :
+
+I . When a king is attacked by a strong enemy and he thinks
+"I have been attacked", he should undertake the military
+expedition.
+
+## 2.
+
+If the (king thinks that the) warriors had been well­
+cared for and the servants well supported and he feels, "I have a
+strong army and I am capable of protecting the central (army)",
+he should go with them and move into the camp.
+
+## 3-5.
+
+Otherwise one may invade (the country of) the enemy
+when it (the latter's country) is afflicted by natural calamities
+such as the appearance of the earthquake in that direction or the
+comet afflicting it or the army of the enemy king dislikes that
+king and awaits his ruin. One should enter the kingdom of the
+enemy when he has auspicious throbbing (of the muscles)
+of the body, has good dreams and good omens. One should em­
+ploy an army consisting largely of infantry etc. and elephants in
+the rainy season.
+
+## 6.
+
+In the early and advanced winter it should consist of
+chariots and cavalry, while it should consist of four divisions
+of an army (cavalry, infantry etc. ) in the spring and autumn.
+
+## 7.
+
+An army consisting of a large number of infantry would
+always win the enemies. The throbbing (of the muscles) on the
+right side (of the body) would be commendable.
+
+## 8. So also the palpitation on the left back and the heart and
+
+mark of mole (on the left side) should be known as not commen­
+dable. While the contrary to what has been told on the left
+side would be auspicious for women.
+
+
+
+## 229.1-18
+
+595
+
+## CHAPTER TWO HUNDRED AND TWENTYNINE
+
+The significance of dreams
+
+## Pu:kara said :
+
+1 -14.
+I shall describe the good and bad omens and the way
+to prevent bad dreams. The growth of grass and trees on one's
+body except the navel, the breaking of bronze on the head, the
+shaving (of the head) , remaining nude, clad in torn dress, anoin­
+ting with oil, besmearing with mud, falling from a great height,
+one's marriage, music, playing on the lute or any other stringed
+instrument, swinging in a hammock, gathering lotus and metals,
+killing of serpents, seeing red flowers and trees and a ciit;tgiila,
+riding a pig or dog or ass or camel, eating the flesh of birds, and
+the oil of krsara (? ) entering the mother's womb, getting intothe
+funeral pyre, the fall of the flag-post etc., the fall of the moon
+and the sun, seeing the divine beings of the terrestrial and celes­
+tial regions a5 well as a calamity (such as the earthquake) , the
+wrath of the divine beings, brahmins, other beings and precep­
+tors, dancing, laughing, marriage and singing, playing on strin­
+ged instruments other than the lute, drowning in a river, bathing
+in water mixed with cow-dung, oc muddy water or water mixed
+with ink, embracing the unmarried girls, sexual union of men,
+injury to one's limbs, purging or vomiting, starting in the direc­
+tion of the south, being afflicted by diseases, plucking of fruits,
+breaking of diseases, breaking of minerals, · falling of buildings,
+sweeping the house, playing with goblins, flesh-eaters, monkeys
+and low-caste men, insult from others and feeling grief on
+account of that, wearing ochre robes and playing in that dress,
+immersion in oil and drinks anointing with red unguent are
+inauspicious omens and it is better not to describe them.
+1 5-18.
+(After dreaming as above) one should continue to
+sleep, bathe, worship a brahmin, do oblations with sesamum,
+worship (gods) Hari (Vi¸QU) , Brahma, Siva, Sun and GaQapati
+(Vinayaka) . Then one should recite hymns (on gods ) and
+repeat hymns such as the Purujasilkta1; The dreams dreamt
+in the first quarter of the night yield results within a year, the
+second (quarter) , within six months, the third quarter of the
+I . ].tV. 10.9 1 . 1 .
+
+
+596
+Agni Purii1)a
+night, within three months, the fourth (quarter) , within a fort­
+night and within ten days (if dreamt) at (the time of) the sun­
+rise. If (two dreams) either auspicious or inauspicious (were
+dreamt) on the same night, one should indicate the result of the
+dream dreamt later.
+19-22. Hence, it is not commended to sleep after a good
+dream (has been dreamt) . (Dreaming) as climbing a hill,
+mansion, elephant, horse or bull is beneficial. 0 Brahmin !
+(Seeing) trees and white flowers in the sky (seeing) the navel as
+grown with trees, (seeing oneself) as having many arms and many
+heads, (seeing) the appearance of grey hair, bearing a garland
+of white (flowers) , wearing white garment, the eclipses of the
+moon, sun and the stars, washing (oneself) , embracing the
+flag-post and the raising of the banner (are good) .
+23-27. 0 Brahmin ! Seizing of land and stream of water,
+victory over the enemies, success in dispute, dice-play and battle,
+eating of raw meat and drinking of sweet porridge, seeing blood,
+bathing in blood, drinking of spirituous liquor, blood and wine,
+drinking of milk, making marks with the weapons on the earth,
+(seeing) the cleat sky, and sucking milk from cows, she­
+buffalos, lionesses, she-elephants and mares are commendable.
+0 Brahmin ! The favour from the gods, brahmins and precep­
+tors, the anointment with water and falling down from the horns
+or cow (are also commendable) .
+28-29.
+0 Rama ! (The dream) as falling down from the
+horns of a moon is known to be capable of bestowing kingdom.
+The installation as the sovereign, the cutting of one's head, the
+death, the destruction of one's house by fire, the gain of royal
+rewards and the play on stringed instruments (are auspicious) .
+30-31 .
+The family of a person flourishes that sees an ele­
+phant or horse or gold or bull or cow. (Dreams of) riding a bull
+or an elephant, the climbing a peak or a tree, weeping, besmeared
+with ghee or excreta, copulating with a forbidden women,
+(seeing) a white cloth, clear waters, tree laden with fruits and
+.clear sky (are good augury) .
+
+
+
+## 230. 1 -13
+
+597
+
+## CHAPTER TWO HUNDRED AND THIRTY
+
+The inauspicious auguries
+
+## Pu!kara said :
+
+
+## 1 -4.
+
+Mixtures of herbs and black cereals are inauspicious,
+Cotton, grass, dried cow-dung, wealth, charcoal, molasses and
+resin, one having a shaven head or one that has besmeared oil
+(for bathing) and one that is nude, iron, mud, hide and hair, a
+lunatic, an eunuch, aciir_u/iila, a dog, an outcaste and others, men
+guarding the captives, a pregnant woman, widow and oil-cake,
+etc., dead (body) , husk, ash, skull and bone and broken vessel
+are not commendable (to be seen) . The sounds of musical instru­
+ments that are broken, frightening and harsh are also not com­
+mendable.
+
+## 5. The sound 'come on', (heard) in front of the person under­
+
+taking a journey) is commendable, (while) that from behind
+is not (commendable) .
+
+## 6-7.
+
+The undesirable sounds (such as) "Where do you go",
+'Stand', 'Do not go', 'What is there for you by going' are for
+death. So also (the appearanceof) carnivorous animals, banners
+etc., the fall of vehicles etc., the breaking of weapons, dashing
+of the head against the door etc., and the fall of umbrella, dress
+etc., (are not commendable) .
+
+## 8 . An inauspicious (augury) gets destroyed by the worship
+
+and invocation of lord Hari (Vi¸I)U) . If a second inauspicious
+augury is seen (while setting out) then one should re-enter the
+house.
+9-1 3 . White flowers are excellent augury. (So also) a
+pitcher full (of water) is greatly meritorious. Meat, fish, a dis­
+tant sound, an old man, an animal, goat, cows,horses, elephants,
+(images of) gods, glowing flame, dilrvii (grass) , wet cow-dung,
+courtesan, gold, silver, gem, vacii, white mustard, herbs, beans,
+weapons, sword, umbrella, throne, insignia of royalty, a dead
+body without (being followed by) mourners, fruit, ghee, curd,
+milk, unbroken rice, mirror, honey, conch, sugarcane, auspici­
+ous sentence, the instrumental music of the devotee, the loud
+sound of thunder and lightning are all auspicious. The satis­
+faction in the mind (of the person undertaking a journey is also
+auspicious.
+
+
+Agni Purii1J.4
+
+## CHAPTER TWO HUNDRED AND THIRTYONE
+
+The good and bad auguries known from the sounds of
+animals and birds
+
+## PÊkara said :
+
+I . Birds let us know the good and bad indications for a man
+staying or leaving a country or town or (putting) a question.
+
+## 2.
+
+All excited sounds are pointed out to indicate evil accord­
+ing to fortune-tellers and cooing sounds are said to indicate good
+results by fortune-tellers.
+
+## 3. The excitements of birds are said to be of six kinds based
+
+on the divisions of time, direction, place, karat;a (a division of
+the day), the sound and the species (of the bird) .
+
+## 4-6.
+
+Each preceding (item in the above list) should be
+known as more powerful. The nocturnal (bird) moving in the
+day-time and that of the day-time moving in the night (are
+known to be the excitement in time) . One should know the
+malefic asterisms, ascendants and planets also as excited. It is
+known to be dhumitii (obscured) , jvalitii (burning) and aftgiirita
+(burnt) if the sun goes to or stays or leaves (a particular
+quarter) . These three are remembered to be the excited ones
+and the gentle ( cooings) are of five kinds.
+
+## 7-9.
+
+It is said to be agitated bird if it makes an excited
+sound in the direction that is (termed) agitated. Similar (appel­
+lations should be given) to wild (birds making sound) in the
+village and the village (birds) in the forest as well as on an inaus­
+picious tree. 0
+Foremost brahmin ! The desadipta (agita­
+tion in respect o[ a place) is known to be in inauspicious place.
+It is designated as kriyadipta (excitement in respect of an action )
+if there i s any action improper for one's own species. I t is said
+to be the rutadipta (excitement in respect of sound) making
+broken and harsh sounds. It is known to be thejatidipta (excite­
+ment in respect of the species) in the case of the carnivorous
+species alone.
+
+## 10. If the excited characteristics of different categories
+
+occur together it is stated to be good. If they are mixed the result
+is said to be mixed.
+
+## 1 1 .
+
+The cows, horses, camels, asses, dogs, (birds) sarika,
+small house-lizards, sparrows, vultures and tortoises and others
+are said to be living in the villages.
+
+
+23 1 . 1 2-29
+599
+
+## 12. Goats, black sheep, parrots, elephants, pig, buffalo ·
+
+and crow are said to be both domestic and wild. All other (birds
+and animals) are wild.
+
+## 1 3.
+
+The cat and the cock are both domestic and wild. We
+know about them from the change in their characteristics.
+14-16.
+The snakes, peacocks, ruddy geese, mules, pigeons,
+cows, light-brown horses, wild cocks, hawks, jackals, wag-tails,
+monkeys, sataglma (? ) , sparrows, cuckoos, blue jays, hawks,
+kapinjala1 the three, tittiri (francoline partridge) , peacocks,
+pigeons, wag-tails, gallinules, parrots, cranes, cocks, skylarks
+and deer are known to be moving about during daytime.
+
+## 1 7.
+
+The fowlers, owls, sarabha-s,2 curlews, hares, turtles,
+jackals and piitgalikas (a kind of owl) are said to be nocturnal.
+1 8-19. Ganders, deer, cats, mongooses, bears,
+serpents,
+red dogs, lions, tigers, camels, domestic boars, men, dogs,
+porcupines, bulls, jackals, wolves, cuckoos, cranes, horses, men
+in ragged clothes and alligators wander day and night.
+
+## 20. The above seen in a group in front (of the king) making
+
+an expedition with the forces are stated to bring victory and seen
+on the back cause defeat.
+2 1 -22.
+If the blue jay comes out of the house and makes
+the sound remaining in front, it indicates humiliation for the
+king and (making sound) on the left (indicates) quarrel and
+gaining food. It being sighted on the vehicle or on the right
+side of the body are commended. The peacock making an
+unusual sound conveys plundering by thieves.
+23-29. 0 Rama ! a deer (seen) in front of one that has
+set out would be (indicating) danger to life. 0 Rama ! The
+bears, rats, jackals, tigers, lions, cats and asses (running away)
+in the opposite direction as well as mule braying strangely (would
+indicate the same result) . The kapifijala (bird) (seen) on the
+left or right is an excellent (augury) . But it does not augur well
+(if seen) on the back. The tittiri (bird) (in any one of the above
+positions) is not commended. The black deer, boars and spott­
+ed antelopes crossing from the left to the right would always be
+beneficial and the contrary (movements) are condemned. The
+bulls, horses, jackals, tigers, lions, cats and asses are known to
+
+## 1 . The ciitaka bird that is said to drink water directly from the rains.
+
+
+## 2.
+
+A fabulous animal powerful than the lion.
+
+
+600
+Agni Purii.T)a
+confer the desired results if they move to the left from the right.
+The vixen, Jyiimiinana (?) , chucchii (a kind of animal) , pingalii
+(a kind of owl), house alligator, sow and a female ct:ckoo (are
+said to be) male (omens) if they are on one's left. The vulture,
+rilja (? ) monkey, srikaT'T)a (antelope), and citkarii (? ) are
+known as feminine (omens) . The monkey, srikaT'T)a, pipilikii,
+ruru (a kind of deer) , and hawks (auger well seen) on the right.
+The sounds made by the bull that is born, the serpent, hare,
+hog and alligator are good.
+30-33.
+Then it is not desirable to see the monkey and bear
+at the commencement of a work. The strong omen from a bird
+as one sets out on a day should be explained by wise men as bear­
+ing result on the same day. 0 Brahmin ! Mad ones, those
+concerned only with the prey, young ones, those mutually quar­
+relling and those separated by a distance should be known to
+bear no effect. The vixen howling alone or in groups of two or
+three or four forebode good. It is said to be not beneficial if
+five or six (vixen howl) . It would be good if seven (vixen howl)
+and there would be no effect if more than that.
+
+## 34. The volcano facing the sun that causes the horripila­
+
+tion in men should be known to bring ill luck to vehicles and
+increase the fear.
+35-36.
+When an antelope is seen at a good place it would
+give good results. It would give bad results for the whole year
+for the man (if seen) at a bad (place) . One may know the result
+for himself for the whole year as he had seen the deer on the first
+day.
+
+## CHAPTER TWO HUNDRED AND THIRTYTWO
+
+Omens known from birds
+
+## PU!kara said :
+
+I . An army would take possession of a city that is under
+siege by that way through which many crows enter that city.
+
+## 2. It indicates unfordable fear if a crow taking its abode in
+
+the place of the army goes about cawing with agitation and fear.
+
+
+
+## 232.3- 1 3
+
+601
+
+## 3. If (the crow) pecks at the shadow, body, vehicle, shoes,
+
+umbrella and clothes and other things (of a person, it indicates)
+death (for that person) . If it honours (the person, he) will be
+honoured. If it gives something that it is fond of, (it augurs)
+good.
+
+## 4-6. A crow going to and fro at the entrance (to a house,
+
+indicates) the return of the absentee owner of the house. It
+indicates destruction by fire (if the crow) throws a red or burnt
+thing inside the house. A red (thing) placed (by the crow)
+in front of a person indicates imprisonment. 0 Bhargava (son
+ofBhrgu), if (a crow) brings (to the house) a yellow substance,
+gold or silver, it would indicate the gain of that (substance).
+So also one should indicate the loss of that thing which (a crow)
+should take away.
+
+## 7.
+
+(If a crow) vomits raw flesh in front (of a house) there
+would be gain of wealth. (There would be) gain of land if (a
+piece of) earth is thrown. (There would be gain of kingdom if
+a great gem is cast.
+
+## 8.
+
+If the crow (flies) favourably to the person who under­
+takes a journey it bids welfare and he would be able to accomp­
+lish his task. But if (it flies) against him it should be known that
+the task would not be accomplished and would cause fear.
+
+## 9.
+
+If the crow comes cawing loudly against (the person)
+it would be a n impediment to the journey. A crow on the left
+is considered to be beneficial and causing destruction of the
+task if on the right.
+
+## 10.
+
+(If the crow flies) on the left in the direction (of the
+person undertaking a journey) , it is excellent and medium if
+on the right. (If it flies) against the direction of the traveller
+on the left, it would cause impediment to the movement.
+
+## 1 1 . If the crow comes to the house when the traveller is
+
+beginning to move it should be known that he can set out. (If
+a crow) stands on one leg and looks at the sun with a single eye
+it causes fear.
+
+## 12.
+
+(If a crow) makes its habitat in a hollow of a tree there
+would be great misfortune. A crow (seen)
+in the saline soil is
+not for good. But (the same seen) as having its wings with mud
+is commendable.
+
+## 13. A crow (seen ) as having its mouth full of excreta accom-
+
+
+
+602
+Agni PuriiTJa
+plishes all things. 0 Son of Bhrgu ! The other birds should
+also be known as (indicating the same results) as the crow.
+14-20.
+Dogs (howling) on the right of a royal camp (indi­
+cate) the destruction of the brahmins. If they howl at the place
+of Indra in the palace, at the main entrance to the royal city and
+inside the house, it would augur the death of the lord of the house.
+It indicates the accomplishment of the task, if (a dog smells
+the left side of the body (of a man) and fear if (it smells) the
+right side of the body and the left arm. A dog coming against
+the traveller would be adverse to the journey.
+0 Bhargava
+(son of Bhrgu) ! (a dog) obstructing the path (of a traveller)
+indicates robbers on the way. (A dog)holding a piece of bone in
+the mouth (being seen in front indicates) fruitlessness (of the
+effort) . Similarly (a dog being seen) holding a rope or rag in
+the mouth is sinful. (A dog being seen) as holding the shoes as
+well as full of meat in the mouth is also beneficial. (A dog being
+seen) as holding the hair or any filthy substance in the mouth is
+inauspicious. (A dog) urinating and going in front (of the
+traveller) would bring fear. If (one sees a dog) urinating and
+going to an auspicious place or tree or to an auspicious substance
+(it indicates ) the accomplishment of the task for that person.
+0 Rama (Parasurama) ! Jackals and other (animals ) should
+also be known (to indicate) the same (result) as a dog.
+
+## 2 1 . The lowing of the cows should be known as auguring
+
+fear for the ma.ster. (If a cow lows ) in the night it would be indi­
+cating fear from thieves. (If it) wails (it forebodes) death.
+
+## 22.
+
+If a bull bellows in the night it would be for the welfare
+of the master. A bull let loose in the night would confer victory
+on the king.
+
+## 23. The cows belonging to a person that were given as gift
+
+(indicate) security (if found) eating (as they wish) . (The cows)
+that had withheld showing affection to the calves are known to
+be (indicating) miscarriage (in the family) .
+
+## 24.
+
+(The cows) that pound the earth with their feet and
+are frightened bring fear. (The cows) that have wet skin, hor­
+ripilation and earth stuck to the horns are auspicious.
+25-31 .
+It should be told in the same way in the case of the
+she-buffalos and others by those knowing (the science) . A sad­
+dled horse (being seen) as ridden by another (other than the
+appointed person) forebodes evil. (A horse being seen) as plung-
+
+
+
+## 232.32-37
+
+603
+ing into the water and tumbling over the ground is not desirable.
+A horse that (is seen) sleeping without a good cause causes mis­
+fortune. (If a horse) has aversion to barley and balls (of grains)
+all of a sudden it is not commended. Bleeding from the mouth
+and trembling of the body are also not commended. (If a horse)
+plays with cranes, pigeons and the siirikiis (a species of birds) ,
+one should indicate death. A horse licking the leg with the
+tongue with tear-filled eyes forebodes ruin. (If a horse) scratches
+the earth with the left foot or sleeps during the day (lying) on
+the left side, it does not confer good. The horse that passes urine
+once (a day), that is looking drowsy, does not allow to be
+ridden and that returns home frantically if ridden upon, indi­
+cates impediment for the journey. (It indicates the same result)
+if it touches the left side (of its body) . (The horse) that neighs
+(on seeing) the enemy warrior and touching its leg brings vic­
+tory.
+32-35. If an elephant courts (openly) in a village it would
+ruin the country. If a she-elephant after delivering a calf runs
+amuck (it forebodes) the death of the king. (If an elephant)
+does not allow itself to be ridden or frantically returns home after
+being ridden or ichor flows from the elephant, it foretells the
+death of the king. (An elephant) crossing its left foot with its
+right foot and entwining its right tusk with its trunk is
+auspicious. A bull or a horse or an elephant entering the enemy
+forces is inauspicious. If clouds get broken (suddenly) and rain
+excessively, (the king) would get his army routed.
+
+## 36. The tumbling down of the umbrella at the time of a
+
+travel or during the war on account of adverse asterisms and
+planetary conditions or the wind blowing against (the forces)
+forebodes fear.
+·
+
+## 37. Contended men and favourable planets are the charac­
+
+teristics for (foreboding) victory. The warriors being attacked
+by the crows and demons (forebodes) the destruction ·or the
+army. The east, west, north-east and north are the excellent and
+auspicious directions.
+
+
+604
+Agni PuriiT)a.
+
+## CHAPTER TWO HUNDRED AND THIRTYTHREE
+
+The propitious periods for undertaking an expedition
+
+## PU!kara said :
+
+
+## 1 -3. I shall describe all kinds of journeys relating to a sove­
+
+reign. A journey should be abandoned when the Venus has set
+or is in a weak house or debilitated or in the house of an enemy
+or retrograde or malefic. One should avoid a journey when the
+Mercury is retrograde, the presiding planet of the quarter or
+any other planet (in a similar position) , is under the vaidhrti\
+vyatipiita, niiga2' sakuna, catuģpada and kintughna.
+
+## 4.
+
+One should avoid undertaking journey under ( the in­
+fluence of) vipat ( tiira)3, naidhana, pratyari, as well as the janma,.
+the gaT)r/.a' and the void lunar day.
+
+## 5. The north and the east are said to be having the same
+
+virtues. In the same way the west and south are of the same
+virtues.
+
+## 6. One should not cross the obstacle that has risen from the
+
+north-west to the south-east. Sundays, Mondays and Saturdays
+are not auspicious (for a journey) .
+
+## 7-10.
+
+(The asterisms) krttikii and others (for journey)
+in the east, (the asterisms) maghii and others (for journey) in.
+the south, (the asterisms) anuriidhii and others (for journey) in
+the west and (the asterisms) jyeģthii and others (for journey)
+in the north are all commendable. I shall describe the measure
+of the shadows (cast by the sun on different days. It is said
+to be twenty for the Sun, sixteen for the Moon, fifteen for the
+Mars, fourteen for the Mercury, thirteen for the Jupiter, twelve
+for the Venus and eleven for the Saturn. These are said (to be
+valid) for all actions. One should not set out on a journey under
+his native ascendant and in the direction of the rainbow.
+
+## 1 1 . One should march on an expedition after meditating
+
+on lord Hari for victory if the omens and other things are good.
+I shall describe the circle (of twelve primary kings) to be thought .
+about that would offer protection to the king.
+
+## 1 . This and the next one are among the twenty-seven yo gas or combi­
+
+nations.
+
+## 2.
+
+This and the following three are some of the eleven divisions of a day·
+called karapas.
+
+## 3.
+
+This and the next three are the astral indications.
+
+## 4.
+
+This is one of the twentysevenyogas.
+
+
+
+## 233.12-25
+
+60!)
+
+## 12. A kingdom is said to consist of seven constituents­
+
+the king, minister, fort, treasury, punishment (law), allies and
+township.
+
+## 13. One should destroy all those who obstruct (the normal
+
+course) of the seven constituents of a kingdom. Efforts should
+be made by the king to make all these circles develop.
+14-15. The kingdom over which a king exercises direct
+control would be the first circle. The feudatories of that kingdom
+should be known as the enemies. If they are attached (to the
+paramount lord they) should be known as friends. The next
+(circle is) the allies of the enemy. The next (circle) should be
+known as the ally of the ally. The next (circle would be) the
+enemy of the ally of the ally.
+16-20. Those in front have been described. Tell me those
+who are behind. Then there would be the enemy in the rear.
+A king whose kingdom lies next but one is said to be the next one
+(friend in rear). A hostile king would be the next one (friend
+of the rear enemy) . That which is adjacent to the former is said
+to be the next one (friend of rear friend) . 0 Brahmin ! This
+is (the way of maintaining order) by an independent king that
+has an enemy and is desirous of conquering (the same) .
+0
+Excellent among men ! It is not possible to declare that it is
+settled. One is said to be an intermediary that is capable of
+punishing and favouring. A mighty king that would be able to
+punish and favour all is said to be neutral. No one is really one's
+enemy or ally. One is an enemy or an ally on account of some
+reason. I have described these twelve circles relating to
+a
+king.
+2 1 -25. Enemies are known to be of three kinds-ancestral,
+personal and artificial. Each one of the preceding class among
+them are (known to be) stronger (than the succeeding ones ) .
+One that is a personal enemy is considered by me as artificial.
+An enemy in the rear of an enemy and his hostiles would be one's
+friends. A king should subdue his hostile king in the rear by
+means of strategies. The ancient authorities commend the extinc­
+tion of an enemy with (the help of) an ally. An ally may become
+an enemy after being a feudal. A king wishing to vanquish an
+enemy should himself destroy him if it is possible for him to do.
+There will not be any fear from an enemy when the glory is
+waxing. A king desiring to conquer righteously should exercise
+
+
+-606
+Agni Purib}a
+control over the world in such a way that the people do not feel
+_grief-stricken and trust him.
+
+## CHAPTER TWO HUNDRED AND THIRTYFOUR
+
+The six expedients used by the king
+
+## Pu:kara said :
+
+I . I have already described (the political expedients of)
+conciliatory measures, creating dissensions, bribery (to win the
+enemy) and punishment. I have described the punishment
+(to be made by the king) in his own country. I shall (now)
+describe (the punishment to be meted to a person living) in a
+foreign country.
+
+## 2.
+
+Punishment is said to be of two types-public and pri­
+vate. Public punishment (consists of) looting and the destruc­
+tion of villages (of the enemy country) , destruction of the
+food grains and setting fire. (The private punishment consists
+of) killing by poisoning or setting fire or by engaging several men,
+dishonouring pious men and poisoning waters.
+
+## 3-7. 0
+
+Bhargava
+(son of Bhrgu) ! I have described
+the mode of executing the punishment. Listen ! I shall describe
+when
+(the king) should be indifferent. A king should make
+peace (with his enemy) if he thinks that by his battle in the
+battle-field there would be bad consequences. One maybe indif­
+ferent
+(when he would find) the conciliatory measures as
+securing the position (of the enemy) , paying a bribe would be
+squandering money and creating dissension would have punish­
+ment as the consequence. One may resort to indifference (if
+he is sure) that 'this person is not capable of doing any harm to
+me' and 'I am not capable of causing any harm to him'. In that
+case the king should humiliate the enemy (by being indifferent) .
+
+## 8-14. I shall describe the strategies of illusion (to be practis­
+
+ed by a king) . The enemy should be agitated by false portents
+by sending extensive lighted torches (tied to) the tails of strong·
+birds in the camp of the enemy. Then the fall of the meteor
+should be shown to them. In this way many other portents
+also should be shown. The enemies should thus be agitated by
+
+
+
+## 234. 1 5-25
+
+607
+different (kinds of) deception. The astrologers and ascetics
+should proclaim the fall of the enemy. A king that desires to
+conquer the earth should agitate others by the above (procla­
+mation) . The favour of gods should also be proclaimed to
+others. A king should declare (to his men) "We have received
+increased strength and you strike without fear; all others have
+been routed", when the battle has begun. War-cry and great
+commotion should be made saying that the enemy has been
+routed. (It should also be proclaimed) ; "The king has been
+blessed by the gods profusely and is ready for the battle". I
+shall describe Indrajiila (a kind of stratagem in war ) .
+
+## 15. A king should exhibit the four divisions of the army
+
+(such as the infantry, cavalry, men mounted on elephants and
+chariots) (to delude the enemy) that the gods had sent them for
+aid. Showers of blood should be shed on the enemy.
+
+## 1 6.
+
+Severed heads of the enemy should be exhibited on (the
+terrace of) palaces. I shall describe six expedients, among
+which war and peace are most excellent.
+
+## 1 7.
+
+Making peace, war, expedition, halt, seeking shelter
+and duplicity are said to be the six expedients.
+18-25.
+Making peace is known to be a treaty. War is
+offending (the enemy) . Expedition is said to be the march aga­
+inst the enemy by the one that desires to conquer. It is said to
+be 'the halt' when (a king) remains in his own territory (mobi­
+lising his forces) for the war. Mobilisation of half the army in
+the enemy country is said to be 'seeking shelter'. It is said to be
+duplicity on account of resorting to indifference or neutral
+position. A king should seek a treaty with an equal (person)
+or not of lower strength and more powerful. A powerful king
+should make a war with (a king of) inferior strength. In that
+case he should take a stronger (king) as an ally when he is not
+having an enemy in the rear. A king should mobilise his army
+when he could easily intercept the work of the enemy, though
+he is not free from an enemy in the r ear. One who is strong en­
+ough could mobilise half of his army in the territory of the enemy
+even though he may have an enemy in the rear. An alliance
+with another king is said to be the worst of all expedients a 'king
+fighting with a stronger adversary is compelled to do. It is said
+to bring many a long and tedious marches, loss of many lives and
+expenditure. A king should have an alliance only when he wouid
+
+
+608
+Agni PuriiT)a
+have great benefits later. Moreover, he should have an alli­
+ance only when he has been deprived of all his strength.
+
+## CHAPTER TWO HUNDRED AND THIRTYFIVE
+
+The daily duties of a king
+
+## Pufkara said :
+
+
+## 1 -2. I shall describe the perpetual daily duties of the king.
+
+The king should put an end to his sleep with the songs and music
+of the panegyrists when two muhilrtas
+(fortyeight minutes)
+are still left in the night. He should then see spies in such a
+way that they are not known as his own men by anybody.
+
+## 3.
+
+He should then hear the report about the income and
+expenditure as laid down. After having eased, the king should.
+go to the bath-room.
+
+## 4.
+
+The king should then bathe preceded by cleansing the
+teeth. After having done the twilight worship and the repetition
+(of the sacred syllables)
+(the king) should worship lord
+Vasudeva (Vigm's manifestation as Knl}.a) .
+
+## 5 .
+
+He should then offer unto the fire holy (twigs) . Liba­
+tions should be offered to the ancestors. Accompanied by the
+blessࢩngs of brahmins, he should then give a cow (as gift) together
+with gold.
+
+## 6.
+
+He should then see his face in the mirror after having
+adorned himself and besmeared (his body with sandal-paste) .
+(He should also then see his face in clarified butter kept toge­
+ther with gold. The king should then hear about (the nature of)
+the day etc.
+
+## 7.
+
+(He should then take) medicines prescribed by the
+physicians. He should then touch the auspicious things. He
+should then see the preceptor and go to the court after having
+been blessed by him.
+
+## 8.
+
+0 Fortunate
+one ! He should then see brahmins,
+ministers, counsellors and others presented by the door-keeper.
+
+## 9-13. After having heard the traditional history and things
+
+to be done, he should determine the business (to be done) . He
+
+
+
+## 235.14-236. 1 -5
+
+609
+should then look into civil disputes and have counsel with the
+counsellors. He should not have the counsel with a single
+person or with many or ignorant men or untrustworthy men.
+He should also not make public the secret (counsel) . The coun­
+sel he had should be given effect to promptly so that the state
+may not get affected. The secret counsel is considered to be
+guarded well by a king by his postures. Wise men gather
+secrets from the postures of others. A king gets prosperity by
+following the words of astrologers, physicians and counsel­
+lors, because they sustain the king. After having had the counsel
+(he should do) physical exercises with discs, chariot and weapon.
+
+## 14. He should then bathe in tanks not inhabited by living
+
+creatures and see lord ViƲI).u that has already been worshipped.
+He should then see fire into which oblations have been made
+and also see brahmins that have been worshipped well.
+15-17. After having adorned himself he should take food
+after having fed beings and after having tested the food
+duly. After having taken food, he should chew betels and rest
+lying on the left. He should then have inquiry in the sacred
+texts. After having met the warriors and seen the granary
+and the armoury he should do the evening twilight worship.
+He should then think of the tasks to be done, send spies, eat
+food and spend time in the harem with instrumental music and
+being guarded by others. A king should do thus daily.
+
+## CHAPTER TWO HUNDRED AND THIRTYSIX
+
+The rites preceding the march of a king
+
+## PÖkara said :
+
+
+## 1-5. I shall describe
+
+rites to be performed before com­
+mencing a march. When a march of a king has to begin after
+seven days, (lords) Hari (ViƲI).u) and Sambhu (Siva) should
+be worshipped as well as lord Vinayaka (the elephant-faced
+god, lord of impediments) with sweet balls and other things
+(on the first day). After
+having worshipped the guardian
+(deities) of (different)
+directions,
+(the priest) should lie
+
+
+610
+Agni Puriir)a
+down (on a bed ) . He should then worship
+gods either
+(remaining) on the bed or in front of them. He should then
+think of Manu. "Obeisance 0 Sambhu ( conferer of good) !
+to the three-eyed, dreadful and conferer of boons. Obeisance to
+the dwarf (manifestation of lord Vi¸J}.u), the formless lord of
+dreams. 0 Master ! Lord of the lords ! Bearer of the trident !
+One riding the bull ! 0 Eternal one ! Let me know in my
+dream while I sleep, the good or evil (to befall me) . (The
+impressions) in the waking state (maybe driven) far away."
+The priest should thus utter these sacred syllables (on the
+second day) .
+
+## 6.
+
+He should worship the guardian (deities) of the quar­
+ters, Rudras and the lords of directions on the third day,
+the planets on the fourth day and the two Asvins (divine physi­
+cians) on the fifth day.
+
+## 7-14. Then (the gods on the way (of expedition) and
+
+the sacred rivers (presided over) by those gods should be wor­
+shipped. Offerings (should be made) to gods dwelling in
+heavens, atmosphere and earth. The group of goblins and
+(gods) Vasudeva and others should be worshipped in the night.
+(Worship should be) made to (goddesses) Bhadrakali and Sri.
+One
+should
+pray to all gods. "May
+gods Vasudeva,
+Sankar¸aJ}.a, Pradyumna and Aniruddha,l NarayaJ}.a (Vi¸J}.u),
+Abjaja (born in the lotus, Brahma) , Vi¸J}.u, Narasirhha (man­
+lion form oflord Vi¸J}.u) , the boar (manifestation of lord Vi¸J}.u ) ,
+0 Rama ! Siva, lsa2 (lsana), Tatpuru¸a, Aghora, Satyaja3,
+the Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn, Rahu,
+(the ascending node of Moon) , Ketu (descending node of Moon) ,
+GaJ}.apati (lord of goblins) , Senani (son of Siva and Par­
+vati) (leader of the celestials against the demon Tar aka) , (god­
+desses) CaJ}.c;lika, Uma (consort of Siva), Lak¸mi (consort of
+Vi¸J}.u) , Sarasvati (goddess of speech), Durga a form of Parvati),
+BrahmaJ}.i (consort of Brahma) , the Rudras (forms of Siva,
+eleven in number) , (the celestials) Indra and others such as the
+
+## 1 . This and the preceding three are the four forms of lord ViglU.
+
+
+## 2. This and the next four are the five forms of Siva.
+
+
+## 3.
+
+Obviously a mistake for Sadyaja denoting s"adyojata.
+
+
+
+## 236. 15-23
+
+6 1 1
+Fire-god, serpents, TarkĖya
+(Eagle, vehicle of lord ViĖJ}.U)
+and other celestials dwelling in
+heavens, atmosphere and
+earth be for my victory. Let them crush the enemies in the
+battle after having accepted offerings
+(made by me) . 0
+Gods ! I have sought your refuge together with sons, mother
+and servants. Obeisance to you ! After going to the rear of the
+enemies destroy them. I will offer more than that I have given
+after returning from the battle".
+1 5-2 1 .
+On the sixth day, the king should bathe for victory
+just as the bath at the coronation. Lord Trivikrama (mani­
+festation of lord ViĖJ}.U as a dwarf and taking three strides humi­
+liating king Bali) should be worshipped on the seventh (day),
+the day of expedition. The weapons and vehicles should be
+worshipped with the sacred syllables prescribed for niriijana
+(rite of purification) . The following sacred syllable should be
+uttered (in the ear of the king) with the sounds of auspiciousness
+and victory. "May the celestials
+dwel1ing in heaven, at­
+.mosphere and earth be bestowers of longevity on you. May
+the success of gods be attained by you. Let your (expedition)
+be the expedition of gods. May all gods protect you". After
+having heard this, the king should proceed. After having taken
+the bow together with the arrow with (the recitation of the sac­
+red syllable) dhanumiigal, (the king) should place his foot in the
+direction ofhis enemy after having repeated (the sacred syllable)
+tad virooll. (After having set) his right foot, he should place
+thirty steps in different directions such as the east in due
+order. He should duly climb the elephant., chariot, horse and
+the animal carrying the burden. After having climbed he should
+move on along with the sounds of musical instruments without
+looking back. After having gone (a distance of) a krosa (two or
+two and a half miles) he should halt and worship gods and
+brahmins. He should move to the foreign country protecting
+his own army.
+22-23. After having reached the alien country (enemy's
+domain) the king should protect the guardian (deity) of the
+country. He should worship deities and should not destroy
+their properties. He should not humiliate the natives of that
+
+## 1 .
+
+Could not be identified.
+
+## 2.
+
+
+## :{{V. 1 .22.20.
+
+
+
+6 1 2
+Agni Purd')a
+country. After having returned to his metropolis again after
+having gained victory, the king should worship gods and
+make gifts.
+24-27.
+If there is a battle on the second day, the elephant,
+horse etc. should be bathed and lord Nrsirhha (man-lion mani­
+festation of lord ViĖQu) should be worshipped. The royal in­
+signia such as the umbrella etc., weapons and the goblins (should
+be worshipped) in the night. After having worshipped lord
+Nrsirhha and all vehicles in the morning, (the king) should
+see the sacrificial fire kindled by the priest. After having made
+oblations into the fire, the king should worship brahmins.
+After having taken the bow and arrow he should mount the ele­
+phant and move. He should walk in the country of the enemy
+without being noticed (by anybody) (and find) the nature (of
+the enemy) . He should cause a small army of men spread
+extensively.
+28-35.
+A small army as the mouth of a needle can stand
+against many.
+The arrangement of the army is of the
+form of animals and things such as the garuf/a (the king of
+birds) , crocodile, circle, vulture, semi-circle, vajravyuha (a
+strong impenetrable array) , cart (shaped) , the sarvato-bhadra
+circular (array) and silcivyuha (as a needle) . An army in one
+of the above arrays should be arranged in five parts-the two
+composing its two principal wings, the two forming its sides to
+protect the wings and the fifth one would be the main body.
+A battle should be fought with one or two of the above parts.
+The remaining three parts should be stationed only for their
+protection. A king should never be in
+arrays. If the main
+force is destroyed, (the whole army) will be routed. A king
+should not himself fight. A king should remain at a krosa (about
+two or two and a quarter miles), behind the army. It is said
+that a broken army could be resustained by that. One's stay
+is not laid down if the main army has suffered a defeat. The
+soldiers in the array should not be set up too close or too wide
+apart, so that there may not be any clash of their weapons
+mutually.
+36-43.
+One who wants to break the hostile army should do
+so only with collective strength. So also the enemy should pro­
+tect it from being broken with the collective strength. That
+division of a hostile army among many ͠ ivisions, should be
+
+
+
+## 236.44-55
+
+613
+first attacked and broken through (by the commander) as he
+desires. 0 Brahmin ! There should be four soldiers to guard
+each foot of an elephant. There should be four cavalry and an
+equal number of armoured soldiers
+for guarding a chariot.
+(There should be) an equal number of bow-men as the armoured
+soldiers in front of the armoured soldiers in the battle. Behind
+bow-men, the cavalry and the chariot-fighters and then the
+soldiers mounted on elephants should be set up by a king.
+He should look after the duties of the infantry, elephants and
+horses with effort. Bold men should be placed in front. Only
+a division of the army should be shown. Cowards should not be
+placed in
+front because that would break the work of
+driving away the enemy. The bold men remaining in the front
+would enthuse cowards in the battle. Men of tall stature with
+acquiline noses, not having squint eyes, with well-blended eye­
+brows, irascible, fond of quarrels, contented, happy and lustful
+are known to be bold.
+44-48.
+Carrying the wounded and the dead from the battle­
+field, offering water to the elephants in each war, bringing wea­
+pons (to the soldiers) are said to be the work of the soldiers.
+Protecting their own army from the enemies desiring to break,
+breaking the collected force (of the enemies) are the works
+of armoured men. Making (the enemies) turn away from
+battle is the task of bow-men. It is said that the chariot of a
+wounded person should be led away to a distant place. It is stated
+that the work of the chariot-warriors is to frighten the enemy
+army. The duties of men mounted on elephants are to break
+through the collected force of the enemy, to gather soldiers
+got split in the army of the self and the destruction of walls,
+arches, battlements and trees.
+
+## 49.
+
+The ground for the infantry to fight is known to be
+uneven and that for the cavalry and chariot as even. The battle­
+fields for the elephants are pointed out as wet.
+50-55. After having arranged the arrays thus and having
+the Sun behind and the Venus, Saturn, guardian deities of
+the quarters and the gentle breeze being favourable, all the war­
+riors should be encouraged by repeating their names and the
+(achievement of their) clans (and pointing out) gain of pros­
+perity on success and gain of heaven for the dead. After conquest
+pyer the enemies one gets pleasures. There would be supreme
+
+
+614
+Agni Purdtul
+position for the dead. There is no way of requital for the food
+taken from the master equal to (sacrificing in) the battle. They
+would be washed of their sins as blood flows from the bold
+warriors. The
+endurance of pain due to wounds is the
+excellent penance. Thousands of celestial women attend on a
+tnan killed in the battle. One's master gets
+(the result of)
+the deeds (done) by those who run away after being defeated (in
+battle) . It is said that such people get the fruits of killing
+a brahmin at each one of their step. The gods would be lost for
+one who deserts his companions in the battle-field.
+56-60.
+It is said that the brave who do not retreat in
+battle would get the benefit (of performing the sacrifice) of
+asvamedha. If the king is righteous he would be victorious.
+He should fight with men of equal valour. Men mounted.on
+elephants should be fought by men
+mounted on elephants.
+Retreating men, spectators, those not having weapons and those
+that have fallen should not be killed. One should do treacherous
+warfare when one is fatigued, sleeping, is crossing half the river
+or forest and on bad days. Raising up arms one should cry
+that the enemies have been defeated. "We have got the ally
+with abundant strength. The king (of the enemy forces) and
+the commander have been slain or the (hostile) king had retreat­
+ed ." One may kill easily the retreating warriors.
+
+## 6 1 . 0
+
+One well-versed in righteousness ! incense that
+stupefies the enemies should be burnt. The banners and other
+paraphernalia and the musical instruments making frightening
+sounds should be made use of.
+62-65.
+After having gained victory in the battle, one should
+worship gods and brahmins.
+In
+a battle won by the minis­
+ter, the gems (acquired by the minister) should be made over
+to the king. The wives of a defeated king would not belong to
+anyone else (but to that defeated king ) . The wives of the de­
+feated king should be protected (by the conquering king) .
+A king should honour a hostile king defeated in the battle and
+treat him as his own son. He should not fight with him again.
+He should honour the customs and manners
+(of that country) .
+Then after having entered his native country, he should enter
+the palace when a fixed star is ruling. He should worship
+the deities etc. and protect the families of warriors. He should
+divide the booty got from the battle among his servants. The
+
+
+
+## 237. 1 -9
+
+615
+procedure for commencing a military expedition has thus been
+described to you. It gives sure success for the king.
+
+## CHAPTER TWO HUNDRED AND THIRTYSEVEN
+
+A ft:ymn in praise of goddess Sri (LakÇmi) for the sake of success
+
+## PUkara said :
+
+
+## 1 .
+
+Indra made the prayer to (the goddess Sri (LakŒmi )
+in days of yore for securing the kingdom. A king should simi­
+larly do that prayer for the sake of victory.
+
+## Indra said :
+
+
+## 2.
+
+I make obeisance to the mother of all worlds, that
+is
+born of the ocean, the {goddess) Sri {Fortune) , that has eyes
+like the lotus that is waking up after sleep and that person dwell­
+ing on the chest of lord ViœQu.
+
+## 3-4. 0 Goddess !
+
+You
+are
+the
+success. You
+are
+the Svadha (food offered to
+the manes ) , the Sva.ha
+{obla­
+tions) . You are
+ambrosia.
+{You
+are)
+the purifier
+of the
+world. You are the twilights, night, lustre,
+wealth,
+memory,
+faith and Sarasvati (the
+goddess
+of
+speech) .
+(You
+are )
+the sacrificial knowledge, sup1·eme knowledge and secret knowl­
+edge. 0 Auspicious one ! 0 Goddess !
+You are the knowl­
+edge of the soul and the conferer of the benefit of emancipation.
+
+## 5.
+
+You are the metaphysics, the three Vedas and the science
+of administration. 0 Goddess ! The Beautiful ! This has been
+filled by your beautiful worldly forms.
+
+## 6.
+
+0 Goddess ! Who else other than you would rest in
+the body
+composed
+of all
+sacrifices of the
+mace-wielding
+Lord NarayaQa, the god of gods whom the yogins contemplate.
+
+## 7.
+
+0 Goddess ! All
+the
+three worlds were forsaken by
+you and the Earth was almost lost and resuscitated by you now.
+
+## 8. 0
+
+Most
+Fortunate
+One !
+Men would always get
+wives, sons, house, friends, grains, wealth etc. on account of your
+glances.
+
+## 9.
+
+0 Goddess ! It is not impossible for men seen by your
+
+
+61 6
+Agni Purdr)a
+glances to get beauty, health, fortune, destruction of the enemy
+beside happiness.
+
+## 10.
+
+You
+are
+the
+mother
+of all
+beings ;
+and Lord
+Hari (Vi¼J}.u) , the god of gods, is the father. 0
+Mother !
+This world of movable and immovable
+beings is pervaded by
+you and lord Vi¼J}.U.
+1 1-12. 0
+Purifier
+of
+all
+!
+Do not
+forsake
+honour,
+treasury, granary, house, attendants, body and wife. One resting
+on the chest of lord ViƓJ}.u ! Do not desert
+children, circle
+of friends, cows and ornaments.
+
+## 13. 0 Spotless one ! Those men forsaken by you would
+
+be forsaken at once by nobility, truth, purity and other qualities
+such as good conduct.
+
+## 14.
+
+Men seen by you would atonce be endowed with all
+qualities
+such as good
+conduct, the fortune of good family
+etc. even though they be without good qualities.
+
+## 15. 0 Goddess ! Whoever is seen by you would be praise­
+
+worthy, possessing good qualities, fortunate, belonging to a good
+family, wise, valiant and victorious.
+
+## 16. 0
+
+Consort of lord ViƓJ}.U ! The Sustainer of the
+universe !
+All
+qualities such as good conduct shed their
+excellence at once in men from whom you have turned your
+face.
+
+## 1 7.
+
+Even the tongue of Brahma is not capable of describing
+your qualities. 0
+Goddess Lotus-eyed ! Be gracious. Never
+forsake us.
+
+## PU!kara said :
+
+18-19. Being thus adored, (goddess) Sri (Lak¼mi) conferr­
+ed on Indra the desired boon
+(such as) firmness of sover­
+eignty and success in the battle etc. It confers enjoyment and
+emancipation on those reciting or hearing the hymn. Hence one
+should always read and listen to the hymn on (goddess) Sri
+(Lak¼mi ) .
+
+
+
+## 238. 1-13
+
+6 1 7
+
+## CHAPTER TWO HUNDRED AND THIRTYEIGHT
+
+The ethics na"ated by Riima
+
+## Agni said :
+
+
+## 1 . I have narrated the ethics told by Pu¼kara.
+
+Listen.
+I shall now narrate the ethics narrated by Rama to Lak¼­
+maJ.la for victory and that would increase piety etc.
+
+## Riima said :
+
+
+## 2.
+
+Wealth should be acquired by rightful means. It should
+be developed and guarded.
+It should be given to a deserv­
+ing person. These are the four obligatory acts of a king.
+
+## 3. Humility is the cause of statesmanship. Humility is the
+
+resultant of determination from
+scriptures as
+well as
+the
+control of senses. The king should guard the earth endowed
+with these.
+
+## 4-5.
+
+Scriptures, knowledge, fortitude, dexterity, proficiency,
+reticence, energy, eloquence, generosity, endurance at the time
+of distress, greatness, purity, amity, renunciation, truthfulness
+gratitude, good family, good conduct, self-control are the qua­
+lities for gaining fortune.
+
+## 6.
+
+The elephant (in the form) of senses running uncon­
+trolled in the forest of diverse pleasures should be controlled
+with the goad of knowledge.
+
+## 7.
+
+A king should give up the aggregate of six things,
+namely, lust, anger, greed, delight, pride and arrogance. The
+king who rejects these would be happy.
+
+## 8.
+
+A king being endowed with modesty should contemplate
+on metaphysics, the three Vedas, emissary and polity with those
+well-versed in these and those practising them.
+
+## 9.
+
+The knowledge about true nature
+of things
+is got
+through metaphysics. Virtue and vice rest on the three Vedas.
+Material prosperity and misfortune depend on emissary and
+justice and injustice on polity.
+
+## 10.
+
+Abstaining from killing or causing injury to beings,
+courteous language, truthfulness, purity, kindness, and forbear­
+ance are the general virtues of the religious students.
+1 1-13.
+One should show compassion to all beings and prac­
+tise codes of conduct. Courteous words, compassion, charity
+and protection of one that has sought refuge are the acts of good
+
+
+618
+Agni Pur!
+people agreeable to pious men. Which king would do impious
+acts for the sake of the body that is encompassed by misery and
+disease and that is liable to get destroyed today or tomorrow ?
+One should not oppress the poor people desiring his own happiness.
+14-15. A poor man being oppressed kills the king by means
+of his anger. A king desiring his own good should
+conduct
+with more humility than that shown to a respectful kinsman
+with folded palms. One should always speak only in a pleasing
+manner to friends and foes.
+
+## 16. Those who speak pleasingly are gods and those who
+
+speak harsh are
+animals. One should always worship gods
+with cleanliness and get purified with piety.
+17-18. The
+preceptors
+(should be respected)
+as gods
+and friends as one's own selves. The preceptor
+(should be
+pleased) by bowing down. The favourable pious men (should
+be pleased) by doing true gestures and services. The gods
+(should be pleased) by good deeds. A friend should be attract­
+ed by courteousness and kinsmen by showing respect.
+19-22.
+The wife and servants (should be pleased respecti­
+vely) by (showing) affection and (making) gifts. The rest of the
+people
+(should be won) by (showing) compassion. Not reviling
+the acts of others, maintaining to do one's duties, kindness to­
+wards the poor, sweet words towards all, helping a true friend
+even by (sacrificing one's ) life, receiving warmly the person
+that has come to the house, making a gift (according) to one's
+ability, forbearance, absence of pride in prosperity, not jealous
+at other's prosperity, not speaking words hurting (the feelings of)
+others, practising the vow of silence, maintaining the bondage
+with kinsmen, keeping even attitude towards one's own men
+and
+taking actions conducive
+to welfare are the acts of
+greatmen.
+
+## CHAPTER TWO HUNDRED AND THIRTYNINE
+
+The duties of a king
+
+## Riima said :
+
+
+## 1 . The king, ministry, kingdom, fort, treasury, army and
+
+allies helpful to one another are said to be the seven constituents
+of a kingdom,.
+
+
+
+## 239.2-23
+
+619
+
+## 2-16.
+
+The sovereignty is the most important means of a
+kingdom. It should hence always be protected.
+Good descent,
+good conduct,
+(young in)
+years, good quality, compassion,
+quick action, consist ency, truthfulness, service to the aged,
+gratefulness, being fortunate, intellect, possessing an unwicked
+retinue, able to exhibit his valour, faithfulness, foresightedness
+zeal, purity, generosity, modesty and virtuousness are the quali­
+ties of a pious man and a king. A king, seeking his own good ,
+should make those belonging to a good
+family his attendants,
+be not cruel, but capable of winning the people and pure. A
+king should be eloquent, confident, possessing good
+memory,
+distinguished,strong, self-controlled, a leader, well-versed in polity
+and the different branches of fine arts,
+capable of facing an
+attack, capable of remedying all evils, one who knows the move•
+ments of
+hostiles, one who knows
+the
+principles
+of peace•
+making and war ; capable of knowing the secret coWlSels (of the
+hostiles) , knower of opportune time and place, one that takes
+goods in the proper way and distributes to the proper person,
+free from wrath, greed, fear, doing evil, haughtiness and fickle­
+ness, free from harassing others, calunmy, jealousy, envy and
+untruth, fortunate (in getting) the counsel of the aged, able,
+showing his amiable manners and one that is fond
+of good
+qualities
+which
+are known to
+confer prosperity.
+Men of
+noble descent, virtuous, brave,
+learned, attached,
+those who
+would implement
+the
+rules
+of punishment
+should
+be the
+ministers
+of the king. The minister should moreover be having
+good physique, a native of the country, belonging to a good fa­
+mily, endowed with good
+conduct and knowledge
+in
+arts,
+eloquent, courageous, possessing good eye-sight,
+enthusiasm,
+discrimination, devoid of rigidity and ficklemindedness, friendly,
+capable of enduring hardship, virtuous, possessing (the qualities,
+of) truthfulness, good nature, firmness, perseverence, dignity,
+good health, able, having retentive memory, firm devotion (to
+the king) and not creating enmity (with other kings) . Good
+memory, good application of the mind conducive to gain, deci­
+sive knowledge, firmness and guarding the secret counsels are
+the virtues of a minister. The royal priest should be profiicient
+in the Vedas and codes of punishment.
+1 7-23.
+The
+priest
+should do the expiatory and welfare­
+yielding rites as laid down in Atharvaveda.
+The wise king
+
+
+620
+Agni Purdt)a
+should examine the fitness of these ministers with
+the help of
+experts. The two qualities of having a clear sight and skili should
+be examined. He should know about the family and the integ­
+rity from his own people. The three qualities-ability in service,
+knowledge and endurance should be examined. So also the
+boldness, and their pleasure in conversation should be known.
+Their eloquence, truthfulness, enthusiasm, greatness, endurance
+for hardship, firmness, loyalty and steadiness in distress should be
+noted. The king should know their devotion, friendship and
+honesty from their conduct. Likewise their strength, good nature,
+health, good conduct, not being fickleminded and not exhibiting
+their enmity (should be known) from their companions. Their
+gentleness and meanness should be known (from their acts )
+in his presence. Everywhere the virtues of them (practised )
+not in his presence s hould be gauged from results.
+24-25. A region having good crops, meritorious, endowed
+with minerals, beneficial for cows,
+having plenty of water
+having holy cities, enchanting, abounding in elephants, having
+water courses and not depending on rains is commended for
+abundant prosperity.
+26-27.
+It should abound with sudras, artisans and mer­
+chants and have great enterprises and agriculturers. (It should
+abound with men ) fondly attached (to the king) , hating the
+hostile king, capable of enduring hardship. It should contain
+people who have come from different countries and who are
+pious, possessing cattle and strength. Such a country is commend­
+ed. The head should be wise and not addicted to any vice.
+28-30.
+The fortress should be
+built on hills having a river
+or desert or forest (as a boundary) covering a large area and
+having a deep moat, high walls and gateways. The fort should
+contain water, grains and treasures to stand a long siege. Those
+surrounded by water, mountain,
+forest, desert and archers are
+six (kinds of forts) 1• The forts should be replete with choice
+things, righteously acquired since the time of forefathers that
+would stand a heavy drain for the furtherance of righteousness
+etc.
+31-37.
+(The servants should be descendants ) of their fore­
+fathers' (servants ) , subservient, salaried, known for their valour,
+
+## 1 .
+
+It mentions only five names.
+
+
+
+## 239.38-45
+
+621
+belonging to a good family, able, possessing knowledge about
+omens. (fhe army of th.e king sh.o;.1ld bƳ) ar"n͐ j with different
+kinds of weapons, conversant with. different type.> of warfare,
+possessing varied kinds of warriors, having
+horses and ele­
+phants duly sanctified, which has endured hardships in battle
+and sufferings in expeditions etc. Those who administer justice
+should be undivided and mostly drawn from the kfalriya com­
+mWlity. One that is proficient in yoga, good-natured,
+possess­
+ing a strong army, conversing affectionately, able to wait pati­
+ently for the outcome, not divided and belonging to a good
+family should be befriended. Approaching from a distance,
+uttering words having clear meaning and agreeable to the heart
+and doing good deeds are the three ways of acquiring friendship.
+One gets
+three kinds
+of fruits such. as
+piety,
+enjoyment
+and prosperity through. the friend. Th.e son of a friend, a newly
+acquired friend, an ancestral friend and one protected from
+distress are known to be the four kinds of friends. Truthfulness
+and other things and similar pleasure and pain are the qualities
+in the friend.
+38-41 .
+I shall describe the conduct of those who serve (the
+king) . A servant should serve th.e king (to th.e best of his ability) .
+Ability, good disposition, firmness, forbearance,
+ability to
+endure hardship, happiness, good conduct,
+enthusiasm are
+ornaments for the servants. A servant should serve the king to
+the best of his ability for the ag<"eed period. He should give up
+visiting the place of enemies, doing cruel acts,
+haughtiness
+and jealousy.
+
+## A
+
+servant should not exchange harsh words
+with his superiors. He should not
+publicise the confidential
+matters and the secret councils of his master. He should desire
+th.e prosperity of the affectionate king. He should desert a king
+that is not affectionate.
+
+## 42.
+
+Dissuading
+the king
+from doing
+evil
+deeds
+and
+persuading him to do good deeds (are said to be) the good con­
+duct in brief for the relatives, friends and servants.
+43-45.
+The king, like the god of rain, should be sustainer
+of all good. He would take a part of the earnings from the sources
+of one's earning. He should employ efficient men to be in charge
+of all deeds. A good king should protect
+eight things such
+as
+agriculture, trade,
+fort, bridge,
+elephant stable, mines,
+
+
+622
+ocean (the source of gems) and the abodes of the downcast
+and thus follow a good code of conduct.
+
+## 46.
+
+There is danger for the subjects from the
+(following)
+five sources such as the soldiers, thieves, subjects, king's officers
+and the greed of the king.
+
+## 47.
+
+The king should take tax after having taken note of
+this danger at the proper time. He has to protect his own body
+and the external body, the kingdom.
+
+## 48.
+
+He should punish those deserving punishment and
+protect himselffrom poison as well as his wives and sons from
+the enemies. He should never trust them.
+
+## CHAPTER TWO HUNDRED AND FORTY
+
+The six expedients used by a king
+
+## RiJmtl said :
+
+
+## 1 -5. A king should think mainly about the circle of twelve
+
+kings. The enemy, friend, ally of an enemy, ally of an ally, ally
+of an ally of the enemy are known to be at the front of the con­
+queror. An enemy in the rear, a king whose kingdom lies next
+but one, the allies of these two is the circle (of kings) of a king
+desiring to conquer. One who is beyond the enemy and the
+invader is the neutral. One is a master in favouring the united
+and the suppression of the divided. One who is beyond
+this
+circle of kings and possessing a greater strength is known to be
+a neutral. One is a lord in favouring the allies and the annihila­
+lation of the divided. I shall describe the treaty, battle, vehicle,
+seat etc .
+
+## 6-9. One should make a treaty with the strongly opposed
+
+for one's welfare. Treaties are said to be six.teen-kapala, upahara,
+santiina, sangata, upanyiisa, pratikara, sarhyoga, puTUfiintara, adr#a­
+nara, iit.liila, iitman, upagraha, parikrama, chinna, paradil!aT)IJ and
+skandhopaneya. Reciprocally
+beneficial, mutual
+amity, being
+related to each other and making presents (as token of friendship)
+are the four principal treaties.
+
+
+
+## 240. 10-32
+
+623
+1 0-14.
+One should not make treaties with the
+twenty
+people such as a child, an old man, one ill since a long time, an
+excommunicated relative, a coward, cowardly people,
+greedy
+people,
+one
+who
+has renounced the world, one excessi­
+vely fond of worldly things, one devising many schemes, a
+despiser of gods and brahmins, an
+ill-fated one,
+one who
+speaks ill of fate, one suffering from famine, one having a dis­
+contented army, one having many enemies within the country
+and one who had become free in course of time and one
+swerved from adhering to truth and virtuous life. They should
+always be fought. A war is the result of mutual offence of
+men (hostile kings) .
+15-18.
+One aspiring the prosperity for himself, one being
+oppressed by another and one having favourable position,
+time and strength should begin
+war. Taking possession
+of
+kingdom, women, suzerainty, knowledge and strength, pride,
+honour, loss of fortune, destruction of knowledge, one's soul force
+and the virtue, that is due fate, dishonour on account of a friend,
+the destruction of a relative, cessation of the favour of (natu­
+ral ) elements, disturbance among the circle of monarchs, intense
+attachment for the sake of one are the causes for hostility.
+1 9-24.
+Enmity is said to be of five kinds-through the co­
+wife, on account of one's abode, on account of wife,
+that
+arising from one's expression and that due to an offence. I t should
+be amended by (suitable) expedients. A king should not engage
+in any of the following sixteen kinds of war, such as giving
+meagre result, yielding absolutely nil result, of uncertain result,
+that vitiating the existing order, proving fruitless in the long run
+that which affects in the long run and the existing order, with
+an army mobilised by enemy whose strength is not known, being
+undertaken for the sake of an ally or for the
+(recovery of a)
+woman or that (lasting) for a long time, or with brahmins,
+with
+one equipped with an untimely providence, with (an
+enemy ) supported by a mighty friend, when it yields some result
+only at that moment but with no fruit in the long run and that
+which
+bears fruit in the long run but no benefit at that very
+moment. A king should undertake a task that would bear fruit
+at that moment and also in the long run.
+25-32.
+One should wage war when one's forces are happy
+and strong and the enemy forces are of coatrary nature. One
+
+
+624
+Agni Purib)a
+should commence a battle when the friend, an ally and a neigh­
+bouring king are firmly attached to him and that of the enemy
+is the contrary. A military expedition is said to be of five kinds
+by experts such as an open foe, as an ally (If one of the comba­
+tants) , as united force, as occasional and remaining neutral.
+Like the expedition,
+halt is also of five kinds according
+to the ability of mutually (combating forces) of the enemy
+and the invader. One should inͣ' orm his arrival to (the com­
+mander of) the stronger of the two opposing forces remaining
+without taking the side of either of them and like the eye of the
+crow remain
+un-noticed. One shouid join the stronger one
+when the hostilities begin. When both of them suspect his feign­
+ed neutrality and would dislike the engagement, one should
+himself attack the enemy that is more antagonistic. When a
+king with his army is routed by the powerful enemyand does not
+find a strategy, he should practise truthfulness and noble virtues
+of the ancestors. He should visit the powerful ally frequently,
+stay by his side, view things as he does and show gratitude for
+the support extended. The code of conduct for those seeking
+refuge has been heard.
+
+## CHAPTER TWO HUNDRED AND FORTYONE
+
+The four means conciliation etc.
+
+## Rama said :
+
+l . The power of counsel is commended than the power of
+greatness and enthusiasm. Kavya (Sukra) , the preceptor of
+demons) , possessing greatness and enthusiasm was conquered
+by the priest of the celestials (Brhaspati) .
+
+## 2-4.
+
+One should not have a counsel with untrustworthy
+and foolish persons. How can a scheme that is impossible to
+begin be made to bear the fruit without toil. A counsel is
+laid down as of five kinds-knowledge of the unknown, ascertain­
+ment of that known (already) , removal of doubt relating to an
+ambiguous matter in politics, (determination) of the right time
+
+
+24 1 .5-24
+625
+and place of action and helpful means, and remedial measures
+against misfortunes.
+
+## 5.
+
+The marks of success in the acts are the cheerfulness of
+the mind, faith, efficiency of the means, aid and effort.
+
+## 6.
+
+Pride, negligence, lust, prattling in sleep and enjoying
+pleasures with the beloved women break the secret counsel.
+
+## 7-13. A person who is bold, having good memory, eloquent
+
+well-versed in the (wielding of) weapons and in the sciences,
+and one accustomed with the work deserves to become a messen­
+ger of the king. A messenger is said to be of three types such as one
+that discharges duty efficiently, one that does moderately and
+one who just conveys the message. (Each one of the succeed­
+ing one) is inferior by a quarter based on the ability (of the
+respective ones) . One should not enter the city of the enemy
+and his assembly without having (previous) acquaintance.
+One should abide the
+right time and should fall upon (the
+enemy) after knowing (the opportune moment) . One should
+know the weakness of the enemy as well as his treasury, friends
+and strength. He should also know the likes and dislikes from
+the looks and gestures (of the enemy) . (An enemy) should
+make four-fold eulogies of both the sides ( i.e. the master and the
+enemy) . He should live with good spies having the guise of
+ascetics. An ambassador would be an open spy. A spy in dis­
+guise is of two kinds. Spies would be in the guise of a mer­
+chant, agriculturer or mendicant and the like. When the effort
+of the messenger has become fruitless, the king should attack the
+distressed enemy. One should take into account the natural
+calamity (that has befallen the enemy) and fall upon him.
+14-24.
+Because it destroys the good fortune on account of
+bad policy it is said to be misfortune. Conflagration, water,
+diseases (epidemics ) , famine and hell are the five calamities
+due to divine agency. The rest are due to human agency. The
+misfortune due to divine agency should be subdued by means
+of human effort and appeasing rites. The misfortune due to
+human agency should be removed by means of expedients based
+on the rightful living. Deliberation, the reaping of the fruits
+of deliberation, following a course of action for future contin­
+gencies, the income and expenditure of the state, enforcing
+laws, the prevention of (the encroachment by) the enemy,
+(taking)remedial steps for the calamity and the protection of
+
+
+626
+Agni Purlt)a
+kingdom and the king are the duties of a
+minister. Hence
+one beset with misfortune would ruin kingdom.
+Gold, grain,
+clothes and vehicle would be through the subjects. In the same
+way other things (are got through the subjects) . If the subjects
+are having misfortune (all the above) are destroyed. Citizens
+of the city etc. help to protect subjects having misfortune as
+well as the treasury and law if it is sought. (The duties of feuda­
+tory chiefs) are to put down disturbance, help the sovereign
+in war, protection of people and taking note of the allies and
+foes. A king would perish on account of the fault of the vassals
+and suffer misfortune. Treasure enables a king to pay his servants,
+to win him friends and subjects, to aid the purposes of virtue and
+desire, to attend to the renovation of forts. If that is having
+misfortune, it would ruin the king. The king is
+dependent
+on the treasury. The enforcement of law is a means to create
+friends and foes, to acquire land and gold, to conquer enemies,
+to accomplish a work quickly that would take long time. If
+that is affected it would ruin the king. An ally would collect
+together allies, destroy the enemy and help him with money
+etc. If that is affected, that would destroy the king.
+25-27.
+The king having a vice would destroy the affairs
+of the state. The vices of a king are the use of harsh words, (inflic­
+ting) cruel punishment, wasteful spending of revenue, drink­
+ing, (excessive enjoyment of the company of) women, hunting
+and gambling. Idleness, obstinacy, pride, intelligence and dupli
+city are the defects of a minister as already pointed out. Drought
+and epidemics etc. are the misfortunes of a country.
+
+## 28.
+
+Shattered machines, walls and ditches not equipped
+with weapons and possessing a depleted army are the defects of
+a fort.
+
+## 29.
+
+One nearly drained, not filled regularly, not being
+accounted, not accumulated, made was te and situated at a far
+off place are the defects in treasury.
+30-33.
+Being obstructed, scattered, not honoured, dis­
+respected, not existing, afflicted with disease, tired, arrived from
+a distant place, newly recruited, much reduced, disappointed,
+repulsed much, abound with hopes and disgust, deceived, having
+wives, having grievance within, break in the supply of pro­
+visions of different kinds, the base being made void, divided by
+
+
+
+## 241 .34-5 1
+
+627
+the hostile (king) , deprived of a leader and bribed by the hostile
+king at th"e rear are said to be the defects of an army.
+
+## 34. An ally suffering adverse fate, attacked by the enemy
+
+forces, having lust, rage etc. and energy would be (considered
+as) an enemy.
+35-41 .
+Lavish spending of money, inflicting harsh words
+and punishment on account of anger, due to lust, hunting,
+gambling, drinking and women (are the vices of a king ) . Harsh
+words create the estrangement in the world and havoc. Punish­
+ment is a means (to achieve) things difficult to accomplish. A
+king should remove it with care. A king that inflicts punishment
+and harsh words would agitate the subjects. The agitated sub­
+jects resort to the enemy. Multiplication of enemies would be
+for your destruction. A wasteful expenditure of wealth to a
+greater extent in order to defile one is said to be extravagance in
+spending by the learned in political science. By drinking one
+becomes ignorant, by hunting one gets destroyed by the enemy.
+One should wander in the forest that is guarded doing hunting
+in order to remove hardships due to victory. The destruc­
+tion of virtues, wealth, life and quarrels etc. would be on
+account of gambling. Delay and affliction to virtue and wealth
+would result from the defect of association with women. On
+account of the vice of drinking (there would be) destruction of
+life, indecision relating to things to be done and not to be done.
+42-46.
+One who knows the (mode of) laying the capital
+and the opportune moments would conquer the enemy. The
+dwelling of the king alongwith the treasury should be in the
+midst of the royal capital. The artisans, friends, unhostile fores­
+ters and the main division of the army should be placed surround­
+ing the royal dwelling. The army should be placed ready at a
+corner under the lead of the commander. They should roam
+about the quadrangular points in a circle during the nights.
+Information relating to one's self should be known (through
+spies) moving about the borders (of the country) . All should
+leave and enter the city being noticed, The seven (political)
+expedients such as conciliation, gift, dissension, punishment
+indifference, conjuring and deceit should be instituted for accom­
+plishing them.
+4 7-51
+Conciliation is of four kinds such as the expression
+of gratitude, recollection of the relationship between one another,_
+
+
+628
+Agni Puro'f)Q
+use of soft words and seeing and submission of the self with the
+words "I am yours", when (the other person) had come. The
+making of a gift of wealth to one that has come (is of three kinds
+such as) excellent, medium and inferior. The making of a gift
+is of five kinds (such as) giving back (the gift) , accept­
+ing (the gift) received, making a novel gift, accepting a gift
+by his own choice, giving and returning.
+Dissension is
+of three kinds by experts knowing dissension (such as) destroy­
+ing amity, creating a thrill of fear, inducing dissension between
+the two. Punishment is of three kinds (such as) killing, confis­
+cating the property, and imposing hardship.
+52-53.
+(Punishment is also of two other kinds such as)
+public and secret. The public enemies (should be punished)
+in public. In cases in which the people would get agitated by
+killing in public, (killing by poisoning) the food is commended.
+The enemies (of the public should be killed) by employing
+special black rites or with weapons etc. A member of the
+brahmin community alone should not be killed even after being
+under control after conciliation.
+54-58. A good person should do conciliation (speaking)
+sweet words as if besmearing the heart, looking (at the person)
+as if feasting and taking in his form as if ambrosia. One duped
+with false hopes, desirous (of getting) wealth, one being invited
+and insulted, one having contempt for the king, one superseded
+in honour, one thinking much about his virtue, one whose virtue,
+desire and riches have been cut off, one that is angry, one having.
+self-respect, insulted, one rejected without any cause, appeased
+even though had erunity, one whose wealth and wife have been
+taken, one deserving to be honoured but not honoured and such
+men permanently remaining in the enemy camp and are to be
+suspected should be divided..
+59-62.
+(A king) should honour those that have come
+(from the enemy side) with presents and pacify those on his own
+side. Winning affection by conciliatory measures, showing
+threats, and honouring and buying the allegiance of principal
+men are stated to be the means for dissension. One having a
+frustrated ally is ruined like the timber eaten by an insect. (A
+
+
+
+## 241 .63-242.1-6
+
+629
+king) possessing the three kinds of regal power1 and one who
+knows the proper place and time should subjugate his enemies
+by (means of) force. The ruler of a neighbouring country who
+is favourably disposed should be pacified in the event of his
+being befriended by mighty allies. The greedy and poor (should
+be won) by making a gift. Other friends (should be won by
+pointing out) danger from others. The wicked (should be won)
+by threats of punishment and the sons, brothers and others by
+conciliatory measures. The chieftains of the army, the warriors
+(and) the heads of provinces
+(should be controlled) , the
+vassals and foresters by making gifts and (causing) dissension
+(among themselves) . The offenders (should be put down)
+by (means of) dissension and punishment.
+63-68. Mter having propitiated the images of gods the male
+should dress as the female and illusions should be made by men
+such as the forms of goblins, meteors, monsters and vixens,
+assuming the desired form, showering of weapons, fire, stones
+and water, (and showing) the divine phenomena such as dark­
+ness, wind, fire, and cloud. Bhima (one of the Pfu;u;lavas) killed
+Kicaka (son of king of Virata) assuming the form of a woman.
+It is said to be indifference when one does not dissuade another
+from unfair battle or plight just as Hi<;limba (the demoness that
+married Bhima) remained indifferent towards his brother (when
+he was fighting with Bhima ) . lndrajala (stratagem) such as
+clouds, darkness, rain, fire, mountain, wonders, the banners of
+a large army causing fright and mirage-like picture of being tom
+and spread should be shown in order to frighten the enemies.
+
+## CHAPTER TWO HUNDRED AND FORTYTWO
+
+Statesmanship for a king
+
+## Riima said :
+
+
+## 1 -6. After having worshipped gods and arranging six
+
+divisions of the army
+(the king) should march against the
+enemy. (The six divisions of the army are) the central force,
+the front, the rear, the auxiliary, hostile and the pioneer.
+
+## I .
+
+These are the supreme position of the king, the strength of a good
+council and energy.
+
+
+630
+Agni PuriJTJ.a
+Each (division) of t.he (above) forces are more important (than
+the succeeding ones) . (The same holds good in the case of)
+reverses
+also. The commander-in-chief should go to such
+places as the rivers, mountains, forests and forts wherever there
+may be danger, with the army in array consisting of six divi­
+sions, machines, treasury, foot-soldiers, cavalry, chariots and
+elephants. The leader (of the forces) should march at its head
+being surrounded by best warriors. The queen, king, treasury
+and the excellent warriors of the army should be placed in the
+middle.
+The cavalrymen (should be) on the two sides, the
+chariots by the side of the cavalry and the elephants by the side
+of the chariots. The pioneer forces (should be by the side) of
+the elephants. Then the commander-in-chief should go slowly
+behind all with a fully equipped army encouraging the dejected.
+7-1 3.
+A marching army should be set in (the array of)
+a
+crocodile and in (the array of) a hawk with raised wings or a
+silci or viravaktra1 in case of danger in the front. In case of fear
+behind, (an array in the form of) the cart (should be made) .
+(In case of fear) on the sides, (an array) known as vajra (should
+be made) . If there is danger on all sides one should set up
+(the array known as) sarvatobhadra. (A commander) should
+guard his army (while passing through) a cave, mountain forest,
+river and dense forest. (He should also guard) when the army
+has to go a long way, when it is tired, when it suffers hunger,
+thirst or adversity, when it is affected by ill-health, famine and
+epidemics, when attacked by robbers. (He should also protect
+the army) from marshy land, dust storm and watery place. He
+should see that they are neither scattered nor gathered together
+on the way. (He should also guard them) while sleeping, eating
+their food, while staying at an unfit place, when they are not
+well-placed, when they have been scared by robbers, fire and
+fear and when they have been struck by rains and wind. When
+the army of the enemy (is in a similar position) it should be
+struck. One should have an open encounter (with an enemy)
+only when the grounds and time are favourable and one is
+strong. On the contrary (one should do) treacherous warfare.
+When they (enemies) are attacking, the bewildered should be
+killed.
+
+## 1 . Types of arrangement of the army.
+
+
+
+
+## 242. 14-27
+
+63 1
+14- 1 7.
+(An enemy) on another's soil (could be won) from
+staying in one's own soil. (An enemy) in one's own soil (could
+be won) by means of sowing seeds of dissension. (An enemy)
+subject to the wrath of his people should be made captive by
+employing the foresters and others and killed. They can also be
+conquered by employing extremely brave warriors. (One may
+also employ) dissension, bribe or (may) draw away. By appear­
+ing in front of (the enemy) the king would become a sure object
+of their aim. Then (the enemy) should be killed by extremely
+brave warriors by striking swiftly with a strong force. Brave
+warriors could be
+set in an array in front or at the back (and
+the enemy) could be killed. It has been explained by these
+two (methods) as to how to attack the two enemies on the adja­
+cent sides in a treacherous warfare. If the front part (of the
+hostile army) is in an unfavourable land,
+the rear portion
+should be attacked swiftly.
+18-22.
+If the front and rear are both unfavourable (one
+should strike) on the sides in the same way. Mter having fought
+with the vanguards, allies (of the enemy) and the pioneers,
+one should attack the fatigued, slow and the one whose aid has
+been cut off without causing fatigue for his force. In the alter­
+native, one should defeat by emploiyng the pioneer force or the
+allies. Or, one should feign defeat and attack (the enemy) that
+is complacent that he has won by resorting to good counsel.
+One should destroy the enemy force when it is resting in the
+camps, barracks, villages, fields and among subjects without
+protection. Otherwise the cattle of the enemy should be
+seized and then the army on their way to reach the goal.
+Or
+the hostile army fatigued on account of overnight vigil fearing
+an attack and sleeping during the day overcome by sleep should
+be attacked (to gain victory) .
+23-27.
+I n the alternative (a hostile army) sleeping during
+the night without any fear (should be attacked) by (employing)
+elephants or with men armed with swords. The functions of
+(men on) elephants are proceeding in front of the marching
+army, entry into forest fortification, division of the united (hos­
+tile) army, collecting together a divided army, causing right,
+breaking the doors l of the fort) and the protection of the trea­
+sury. Division of an undivided army and effecting the union
+of friendly forces are the task of (the men on) chariots. The
+
+
+632
+Agni PuriiT)tJ
+functions of cavalry are to reconnoitre the forests, different
+directions and the highway, guard the transport of provisions,
+follow the retreating army, attend to tasks
+requiring quick
+action, follow the weak and attack the last columns and rear
+(of the hostile army ) . (The functions) of infantry are to
+bear always the weapons, inspecting the camps and the high­
+ways and to remove (obstructions) .
+28-33. The ground
+(suitable)
+for infantry should not
+be very uneven or abound with thick rows of trees, ant hills,
+bushes and thorns and should have (provision for) escape. The
+ground (suitable) for cavalry should have scanty trees, should
+be quickly traversible, firm, without sand and not be marshy
+and have (provision for) escape. The ground (suitable) for the
+chariot should not have trees, fields, mire, trees causing obstruc­
+tion, creepers and mire. The ground for the elephant are hills
+difficult to cross having streams. (A king should march) setting
+the army in an array consisting of different (segments) such as
+chest etc. It is known as the rear of the army. It is capable
+of serving the needs of the king. An array not having this (the
+division) would appear as if it has been segmented. A wise
+king desiring to conquer should not fight without having (the
+array with) the divisions. The treasury would remain with the
+king. A kingship would be suzerainty over the treasure.
+34-48.
+The soldiers should be paid (rewards) on gaining
+victory. It is not proper to give only a little. A lakh (should be
+given) on the death of (the enemy) king and half that when the
+son of that king is killed. Similarly (the soldiԍrs) should be
+paid when the (enemy) commander-in-chief is killed or at the
+killing of the elephant etc. Otherwise (the soldiers) should
+fight in such a way that the infantry, cavalry, (men on) chariots
+and elephants do not get affected when the battle has been com­
+pleted. (The soldiers) should fight without confusion. Con­
+fusion causes melee. One should employ an elephant in battles
+causing great confusion. Three infantry soldiers would be equal
+to fight a cavalryman. Three such cavalrymen should be em­
+ployed (to combat) a single elephant (man) . Fifteen infantry
+men would guard (each) foot (of the elephant) . It is laid down
+that an arrangement known as an anika (a unit) of the elephants
+should be made for (guarding) the chariot. There should be
+nine elephant men. The vulnerable point of such an army is
+
+
+
+## 242.49-59
+
+633
+said to be of five kinds. An array should be set by this division
+of the army. The chest, sides and wings are said to be
+(three) divisions. An array is said to have seven parts such
+as the chest, sides, wings, centre, back (hip ) , rear and the edge
+by those well acquainted with (the arrangement of) arrays. The
+array (called) guru consists of chest, sides and wings together
+with the rear. That of sukra is devoid of two sides. The
+commanders should remain being surrounded by excellent war­
+riors. They should fight without any faction defending one
+another. Excellent warriors of the army (should be) at the
+centre. A commander (of an army) is the life of a battle. It
+would be destroyed if it is without a commander. The powerful
+elephants should be placed at the chest (of an array) , the chariots
+on the sides and horses on the wings. This array is said to be
+breaking the central force. An army of horses at the centre, an
+army of chariots on the sides and an army of elephants on the
+wings is known to be an array of breaking the inner (force) .
+Station the cavalry in the place of chariots, the infantry in
+the place of cavalry (in the above order) or place elephants
+everywhere in the array in the absence of chariots. (There is
+another view) . If there is more than the required army it is
+said to be iibiidha.
+49-59.
+(An array called) bhoga consists of arranging (the
+army) in concentric circles. (An array called ) dar;4a is of many
+kinds. (I shall describe them) to you. Listen. (An array)
+spread horizontally would be (called) da7J¢a. (The array called)
+bhoga is in the form of a wave. (The array called ) ma7J4ala
+(would be) in perfect circle. The asamhata (class) (would be)
+in concentric circles. (The other arrays such as ) the pradara,
+dr4haka, asahya, ciipa, kukfi, prati:tha, suprati:tha, !yena, vijaya,
+saiijaya, visiila, vijaya, silci, sth ilTJiikar7Ja camilmukha, sarpiisya and
+valaya are all invincible and modifications of (the array called)
+da7Jga. They have
+the following characteristics-extending
+on both sides, extending on one side, extending in one wing,
+extending on both wings, three others of the contrary nature.
+(The array) prati:tha extends on the wing and chest (and) the
+other suprati:tha is the contrary. (The arrays called) sthilTJii­
+pak:a and dhanul.z pak:a, dvisthilTJa and da7J4a after that (are of)
+doubled units at the end or an additional wing or of the reverse
+of another. They should be known to have the characteristics.
+
+
+634
+Agni PurdT)4
+of two or four columns of soldiers in order. (The arrays known
+as) gomutrikii, ahisanciiri, §akata and makara are said to be varia­
+tions of the (array) bhoga. So also (the array called) piiriplavan­
+gaka. (The array called) yugorasya (consists of) two wings in
+(th e array) da7Jr/a. (The array of the form of) cart is contrary to
+that. (The array of the name) crocodile is of mixed nature.
+(The array) §ea (is marked) by the rows of elephants. (The
+arrays) sarvatobhadra and duryaya are the modifications of the
+array (called) mar.zrJala. That which has openings on all sides is
+the first one and that having the eight army units is the second
+one. (The arrays known as) ardhacandraka (of the shape of half
+the moon) and iirdhviinga (elevated parts)
+(are formed) by
+the combinations of (different) divisions of (the class known
+as) the vajra. In the same way (the arrays known as) karkairngi
+(the pincers of a crab), kiikapiida (the feet of a crow) and godhika
+(lizard) are known from their difference in shape (consisting)
+of three, four and five units of army.
+60-67. Seventeen kinds of arrays could be formed from the
+(array called) da'f)r/a. Two from the ma'f)r/ala (class) , six from the
+asanghiita and five from the bhoga (are combined) in a battle.
+(The structures of the abovesaid battle arrays) may be modified
+by omitting a wing or two wings. Otherwise (a squadron)
+may be taken from the chest (of the army) and placed around
+the edges. Mter having attacked the boundary army in the front
+with the army forming the wings, one should strike the army at
+the hip with (the army at) the boundaries and attack with that
+comprising the chest. The routed soldiers of a hostile army as
+well as the reserves should be completely destroyed and one's
+own should be expanded. The main part (of the hostile army)
+should be attacked with double that of the main and the reserve
+f orce (of the hostile army) with the main. A compact (hostile)
+army should be scattered with a strong contingent of elephants.
+If (the hostile army) is (in the array) dar.zr/aka with the flanks,
+wings and chest (drawn up) then (a general) should employ
+the (array) da'f)r/a and quickly show the position. (The array
+called) pradaraka would be by the addition of two wings to the
+da'f)r/a. If it is added with wings and flanks it is known as drr/ha.
+The array that is increased by (adding) two flanks is known to
+be asahya. The (array) khiitaka (consists of) keeping the flanks
+and wings down and attacking with the troops at the chest.
+
+
+:242.68-243. 1 -
+635
+68-72.
+The array valaya is said to be (the union of) two
+.da7J¢as capable of breaking the enemy. The (array) durjaya
+(consists of) four valayas that is capable of routing the enemy
+forces. By changing the arrangement of elements
+(troops)
+-on the flanks, wings and chest of (the array) bhoga (we get the
+arrays) sarpaciiri and gomutrikii. The array sakata is of the shape
+-of a cart. The reverse is said to be the array amara capable
+-of destroying the enemies. The arrangement (of troops)
+-on the sides, wings and chest would be in the same way as the
+(array) ma7J¢ala. The divisions (called) cakra, padma and others
+.are variations of the ma7J¢ala. In the same way the arrays sarva­
+tobhadra, the excellent vajriika, the crow-shaped one, the half
+moon, srngiitaka (resembling the junction of four roads) and
+.acala of the forms corresponding to their names should be
+formed according to one's convenience that would prevent
+the enemy forces .
+
+## . Fire-god said :
+
+
+## 73. 0 Brahmin ! Rama1 reached Ayodhya after killing
+
+(the demon) Rava:tta. Lakma:tta (brother of Rama) killed
+Indrajit (son ofRava:tta) in days of yore by means of statesman­
+:ship narrated by Rama.
+
+## CHAPTER TWO HUNDRED AND FORTYTHREE
+
+Physiognomy of men and their indications
+
+## .Fire-god said :
+
+
+## I . 0
+
+King ! Ethics were described by me to Rama.
+I shall now describe the characteristics of men and women
+.as described by Samudra to sage Garga formerly.
+
+## Samudra said :
+
+
+## 2-7.
+
+I shall describe the good and bad characteristics of
+men and women. 0 Virtuous one ! A man having (the signs
+and features symbolised by the terms) ekiidhika2, dvisukla (two
+·whites) , trigambhira (three depths) , tritrika (three triads or nine
+·virtues) , tripralamba (three elongated organs) , a spreading in
+three,
+threefolds (of skins) , trivinata (having bends at three
+I . One of the manifestations of lord Vi(IJ}.u.
+
+## 2. These terms are explained below in verses 7 ff.
+
+
+
+636
+Agni Purlir)a
+places) , trikiilajiia (knowing the three periods of time) and
+trivipula (broad organs at three places) would be possessing good
+characteristics. Similarly, (one possessing) four marks (on four
+different parts of the body) , or four equal parts of the body, or
+cubits four frontal teeth (of commendable size) , dark complexion
+of four, in four (parts of the body) , sweet smells at the four
+(joints of the body) and four (specific organs) of short stature,
+five (parts of the body) small and long, six (parts) raised, eight
+bones (strong) , seven
+(parts) glossy, nine (parts) clean, nine
+(parts like) the lotus, ten (parts like an) array and of the form
+of the fig tree, fourteen pairs (of parts) equal and sixteen eyes
+is commended.
+
+## 8-15.
+
+(The term) ekiidhika stands for virtue together with
+(the goals of life) righteousness, attainment of riches and plea­
+sures. (The term) dvifukla (signifies) the whiteness of teeth and
+the eyes except the two pupils. (The term) trigambhira (de­
+notes) depth in the ear and navel and (the term) tritrika the
+virtues of absence of envy, compassio!l, forbearance, endowed
+with auspicious deeds, purity, desire, liberality, ease and valour
+known as one triad of virtue. (The term) tripralamba (denotes)
+a person that would have the testicles and arms long. One who has
+spread by his radiance, fame and fortune on the quarters,
+country and his own class (is said to be) trikavyiipi. A person
+that has three folds on the belly (is said to be) trivalimiin. Listen
+to me. I shall describe the man having three bends.
+(He
+is the person) that bows to the gods, brahmins and preceptors.
+One who knows the suitable time for (the practice of) virtues,
+attainment of riches and pleasure is said to be the knower of
+three periods. One who has a broad chest, forehead and
+face (is said to be) trivistir1Ja. The two hands and two feet bear­
+ing (the marks of) banners, umbrellas etc. (are deemed to be
+bringing good) . The fingers, chest, back and hip that are equal
+are commendable. The commendable height
+(of the human
+figure is) four cubits. Four (frontal ) teeth having moon-like
+lustre (is meant by caturdarhtraf:z) . I shall describe the four
+black things. The two pupils of the eyes, the two eye-brows,
+the beard and hair (are the four) black (things) .
+1 6-26. The absence of bad smell in the nostril, mouthԎ
+perspiration and armpits (is caturgandha) . The four short things
+
+
+
+## 244.1-6
+
+637
+are short penis, neck and the two shanks. The finger-joints
+nails, hair on the head, teeth and skin (are the five) minute,
+(parts) . The two cheeks, two eyes, forehead, nose and the space
+between the breasts (are the five)
+long parts. The chest,
+shoulders, nails, nose, face and the back of neck (are the six)
+:aised parts. The seven parts that are glossy are the skin,
+hair on the head, teeth, hair on the body, one's sight nails
+and speech. (The eight bones that are strong are those in)
+the two knees, two
+thighs, back,
+bones of the hand and
+nose. The nine parts that are clean are the
+two eyes,
+two nostrils, two ears, penis, anus and face. The ten (parts
+of the body) of men of the lustre of a lotus that are commended
+are the tongue, two lips, palate, eyes, hands, feet, nails,
+tip of the penis an,d face. The hand, foot, face, neck, two
+ears, heart, head, forehead, belly and back, the ten that are
+broad (like an array) are praiseworthy. One is said to be of
+the form of a fig (tree) if the inter-space between the two middle
+and index fingers of the extended arms is equal to the height.
+The two feet, ankles, buttocks, sides, groins, testicles, breasts,ears,
+lips, thighs, shanks, hands, fore-arms and eyes are the pairs of
+fourteen organs that are equal in general for a man. One that
+sees with the fourteen branches of learning and the two eyes is
+said to be having sixteen eyes. One with extremely dry body
+with exposed veins and emaciated, smelling badly (is deemed to
+be) unfortunate. The person with contrary (characteristics)
+and pleasing look is commendable. The voice of a lucky man is
+sweet. His gait resembles that of an elephant in rut. He
+has two hairs from the same root. It gives protection from fear
+at once.
+
+## CHAPTER TWO HUNDRED AND FORTYFOUR
+
+The characteristic features of women
+
+## Samudra said :
+
+
+## 1-6.
+
+A woman that is beautiful in all her limbs, having the
+gait of an elephant in rut, having heavy thighs and hips and
+possessing a look like that of a longing pigeon is commendable.
+One that is having luxurious dark hair, slim, not having hairs
+
+
+638
+Agni Purilr}a
+on the body, beautiful, feet touching the ground evenly, and hav­
+ing a pair of breasts closely pressing each other (is also deemed
+to be lucky) . The navel spiralling right to left, the private organ
+resembling the leaf of the fig (tree) , ankles having a dip in the
+middle and (the dip in) the navel is of the measure of (the head
+of) a thumb (are also commendable) . One that is not having an
+elongated abdomen (is also praiseworthy) . One whose hairs
+are not soft is not good. One that is not having the name of an
+asterism, tree and river, one that is not fond of quarrels, one that
+is not greedy and one that does not speak harsh is auspicious and
+is honoured by the celestials. One that is having her cheeks of
+the colour of the madhuka flower, one that is not (having the body
+as) sinewy and abound with hairs, not having the eyebrows
+dose to one another (is also commended) . Even if one is crooked
+if she bestows her affection on the husband (she is deemed to be)
+the life of the husband even if the good characteristics are not
+present. If the quality of attraction is present other qualities
+(would also be present) . One whose little toe does not touch the
+earth is verily the death itself.
+
+## CHAPTER TWO HUNDRED AND FORTYFIVE
+
+The characteristics of the royalfan, how and sword
+
+## Fire-god said :
+
+
+## 1-6. The handle of (the royal) fan
+
+(should be of) gold.
+The royal umbrella made of the feathers of hamsa, peacock,
+parrot or the feathers of crane is praised. It should not be made
+with mixed feathers,. (An umbrella) of a brahmin (should be)
+of square shape and that of a king (should be) circular and white.
+(There should be) three, four, five, six, seven or eight joints on
+the handle (of umbrella) . The auspicious seat of the king
+(should be made) with (the wood of) the k×ira trees of fifty inches
+long. Its breadth should be three cubits and decorated with gold
+and other things. 0 Excellent brahmin ! The bow (is made
+of three materials) iron, horn or wood. The three materials for
+the bow-string are the bamboo fibre, hide and wood. Four
+
+
+
+## 245.7-27
+
+639
+cubits would be the excellent measure of a bow. It is said to
+be mediocre if equal and inferior if less than that. Materials
+should be added at the middle part for the sake of the grip of the
+fist.
+7-1 3.
+0 Brahmin ! the tip of the bow made of horns or
+iron (should be having) minute edge (covered) by hides. The
+edge (should be) like the creeper, (like) the eye-brow of a beautiful
+damsel and should be fastened well. 0 Brahmin ! One should
+make the bow separately made of the horn or iron or (the two)
+mixed. A good bow should suitably be decorated with particles
+of gold. A bow that is crooked, broken and with incisions is not
+commended. Gold, silver, copper and black iron are remember­
+ed (to be the materials) in (making) a bow. A bow (made of)
+horns of a buffalo, a sarabha (a fabulous animal) or rohifa
+(a kind of deer) are auspicious. A bow (made of) sandal,
+cane, siila, dhavala and kakubha (trees) (are good) . The most
+excellent bow is that made of bamboos cut and collected in the
+autumn. The bow should be worshipped with the sacred syllab­
+les called trailokyamohana (captivating the three wor Ids ) (used)
+for the swords. The arrows (may be made) of iron, bamboo or
+reeds. (They should be) straight and gold-coloured and bound
+by sinews. (They should have) good feathers. (They should
+have) gold feathers that are good. (They should) be cleaned
+with oil and be of good colour. One should worship weapons,
+bows and other things before starting an expedition or the royal
+consecration.
+14-27. The king (should also worship) those carrying
+banners and weapons and the astrologers. Lord Brahma
+performed a sacrifice on the banks of celestial Ganges on the
+peaks of the Meru (mountain) . When he was contemplating
+at the sacrifice he saw the demon Loha (that causes) obstruction.
+As he was thinking about that, a great mighty form appeared
+from the fire in front of him. He bowed down to the lord
+(Brahma) and the celestials greeted him with joy. Lord Hari
+took the sword (called)
+Nandaka from the demon
+as
+requested by the celestials. The lord seized it slowly and it be­
+came unsheathed. The sword was blue (in colour) with gem
+(studded) handle. Then the demon became (endowed with)
+hundred hands. That demon made the celestials run away in
+the battlefield by means of the mace. The body of the demon was
+
+
+640
+Agni Purii1)a
+cut by lord Hari with the sword and (the parts of) the body
+fell on the earth and all of them became pieces of iron on account
+of their contact with the (sword) Nandaka. Mter having killed
+him lord Hari gave him a boon (saying) "Your holy body
+would become (the material) for weapons on the earth". On
+account of the grace of lord Hari, Brahma also worshipped
+lord Hari with the sacrifice without obstruction. Then I shall
+describe the characteristics of a sword. Swords that are pro­
+duced at (the places) Khati and Khattara are known to be
+worthy of being seen. Those belonging to (the region called)
+·ԏŵi' (would be capable of) cutting the body. Those produced
+from Surparaka would be strong. Those got from Vailga are
+sharp and capable of cutting. Those produced from the country
+Ailga are sharp. Sword (of the length) of fifty inches is said to
+be excellent. Half of that measure is known to be medium. One
+should not bear
+a sword shorter than that length. 0
+Noblest one ! It is said to be extremely worthy to wear a sword
+that is long and that which makes a sweet sound like that of a
+bell. A sword having the tip resembling the lotus flower or
+round is commended. Swords having the colour of the tip of a
+karavira leaf, the smell of ghee and the lustre of the sky (are also
+good) . Spots at equal intervals of an inch on the swords are
+commendable as on the linga. Those resembling the colour of a
+crow or owl and of an uneven shape are not auspicious. One
+should not see his face reflected in the sword. One should not
+touch the sword after eating (without washing the mouth) .
+One should not disclose the value and quality of a sword. One
+should not place the sword under the head in the night.
+
+## CHAPTER TWO HUNDRED AND FORTYSIX
+
+The testing of gems
+
+## Fire-god said :
+
+
+## 1-7. I shall describe the characteristics of gems. The gems
+
+that are to be worn by the kings are diamond, emerald, ruby,
+pearl, sapphire, mahiinila (a kind of sapphire) , lapis lazuli,
+
+
+
+## 246.8- 1 5
+
+641
+gandhaJasyaka (? ) , moon-stone, sun-stone, crystal, pulaka, karke­
+tana, topaz and thejyotirasa. Crystal, riijapatta (an inferior kind
+of diamond) and riijamaya are auspicious. 0 Brahmin ! Ruby,
+ganjii, conch-shell of a variety, gomeda, rudhiriik?a (holy beads
+and the marking nut (are auspicious) . 0 Excellent brahmin !
+Dhuli emerald, blue vitriol, lead, pilu, coral girivajra (? ) the
+gem (found) in the serpents, auspicious diamond, tit#bha (?) ,
+pir.u!a (? ) , bhriimara (a kind of stone ? ) and utpala- (these) gems
+set in gold (and worn) would confer prosperity and success.
+Inward lustre, free from impurities and good formation of the
+shape (are the characteristics of good gems) .
+
+## 8-15. Such gems could be worn. Those not having lustre,
+
+impure, cracked and containing pebbles inside should not at all
+be worn. It is commendable to wear the diamond. The diamond
+that could be carried away by water, that is unbreakable, with­
+out impurity, of hexagonal shape, has the lustre of the rainbow,
+light and (brilliant) like the sun is auspicious (to wear) . Simi­
+larly an emerald possessing the hues of the plumes of a parrot,
+glossy, radiant, without impurity and containing minute parti­
+cles resembling powdered gold is auspicious. The rubies got
+from crystal mines would be extremely red and spotless. Those
+got from (the place) Kuruvinda are naturally red. and those got
+from sulphur mines are of dark brown (colour) . The pearls got
+from oysters are free from impurities. 0 Sage ! Those got
+from the conch-shells are superior to them. (The pearls) obtain­
+ed from the tusks and temples of the elephants, those got from
+the boars and fish and those found in the bamboos and clouds are
+excellent. Rotundity, whiteness, transparency and heaviness
+are the (good) qualities in a pearl. A good sapphire shines in the
+milk, spreads more lustre and tinge of its own colour. It should
+be declared as invaluable. The lapis lazuli of red-blue (colour)
+is excellent and should be used in a necklace and other ( orna­
+ments) .
+
+
+642
+Agni Puriir)o
+
+## CHAPTER TWO HUNDRED AND FORTYSEVEN
+
+The characteristics of a site for building
+
+## Fire-god said :
+
+
+## 1-3. I shall describe the characteristics of a building site for
+
+the bralunins and others. They are white, red, yellow and
+black (soil) in order (for the four castes) . A building site should
+have the smell of ghee, blood, cooked rice and wine in order (for
+the four castes) . (They should also) taste sweet, pungent and
+acid and other secondary tastes in order. (The ground) should
+be cleared of kuJa, reeds, kasa (a kind of grass) and diirva (a
+kind of grass having razor-like edges) after having dug out pieces
+of iron etc. and worshipped the brahmins.
+
+## 4-9.
+
+Sixty-four squares should be made. Lord Brahma
+(occupies) the four central squares. The presiding deity (of the
+two squares) on the east of those (squares) is said to be lord
+Aryama. God Vivasvan is (on the two squares) on the south.
+God Mitra is
+(on the two squares)
+on the west. Gods
+worshipped on the angular points are : ) God Mahidhara
+( Prthvidhara) is on (the two squares on) the north. A pas and
+(Apa) Vatsa are on the south-east. God Savitra, Savita, Jaya
+and Indra (are respectively) on the south-west and west. God
+Rudra and (personification of) disease are on the north-west.
+(The gods worshipped) outside on the east and other directions
+from the angular squares are Mahendra, Satya and SeŃa on
+the east. GrhakŃata, Aryaman1, Dhrti and Gandharva on the
+south, PuŃpadanta, Asura Varuva and Yajiia2 on the west and
+Bhallata Soma, Aditi3 and Dhanada on the north. Naga is
+the lord on north-east. Similarly, the first and the last are
+said to be the lords in each one of the eight directions.
+10-15. Parjanya is the first god. The second one is
+Karagraha. (The other gods are) Mahendra, Ravi, Satya,
+Bhrsa and Gagana. Pavana (should be worshipped) in the east,
+(gods) AntarikŃa and Dhane8vara in the south-east and the
+celestials Mrga and Sugrivaka in the south-west. Roga and
+Mukhya (should be worshipped) in the north-west, PuŃpa,
+I . Yama and Bhpigariija in other texts.
+
+## 2.
+
+Sea in other texts.
+
+## 3.
+
+Caraka, in other texts.
+
+
+
+## 247. 16-31
+
+643
+Kubera as well as Grhak¦ata, Varna, Bhrsa, Gandharva and
+Niigapaitrka on the south, Dauviirika, Sugriva, Pu¦padanta, the
+demon, the (presidting deity of) water (should be worshipped)
+in the west. The pulmonary disease that emaciates (men) and
+Niigariija (the king of the serpents) (should be worshipped in
+the north) . (The gods) Mukhya, Bhalliita, Moon, Aditi, Ku­
+bera, Niiga, Fire (god), the excellent Indra and Sun
+(god )
+(should be worshipped) in the east. Grhak¦ata and pu¦pa
+(are worshipped) in the south, the outstanding Sugriva in the
+west and Pu¦padanta and Bhalliita at the northern door.
+
+## H J-23.
+
+A stoneslab or a brick should be laid on the ground
+and worshipped with the mystic syllables (as follows) and the
+celestials should be worshipped. 0
+Daughter of (the sage)
+Vasi¦tha ! Gladden us with wealth and progeny. 0 Victo­
+rious one ! Heir of sage Bhargava
+(Parasuriima)
+! Bring
+victory to the progeny.
+0
+Heir of (sage) Ai:tgirasa ! The
+Satisfied one ! Fulfil my desires. 0 Auspicious one !
+Heir
+of sage Kiisyapa ! Make my mind good. 0
+One endowed
+with all seeds ! One surrounded by all gems and herbs
+!
+0 Bright one ! Rejoicing one ! Daughter of (sage) Vasi¦tha
+!
+Be pleased here.
+0
+Daughter
+of Prajiipati !
+Goddess
+on
+the quadrangle on the earth. 0 Goddess of Good fortune and
+Good demeanour
+! Auspicious one
+!
+Daughter of (sage)
+Kiisyapa ! Be pleased in (this house) . 0
+One worshipped by
+great
+masters and adorned with incense and flowers ! 0
+Goddess that
+makes
+one get prosperous
+! 0
+Daughter of
+(sage) Bhiirgava ! May you be pleased in this house. One not
+mutilated ! Unbroken one ! Complete one ! Daughter of the
+sage Ai:tgirasa ! I establish you on this brick.
+Confer on me
+the desired (things) . One that is held by sovereigns, chieftains
+and owners of houses ! May you be one that increases the pro­
+geny, wealth, elephants, horses and cows. (A brick or) stone
+should similarly be laid at the entrance to the house (for the first
+time) .
+24-31 . A plak!a tree would be auspicious on the north and
+the vata (tree) on the east of the house. Udumbara on the south
+and the aJvattha on the west are excellent. A garden should be
+laid on the left (of the house) . Dwelling in such a house is good.
+The trees planted and grown should be watered morning and
+evening in the swruner, alternate days in the winter and each
+
+
+644
+.Agni Purllt)a
+night in the rainy season if the ground gets dried. They should
+be sprinkled with cold water mixed with the paste of vidanga
+(a medicinal herb used as a vermifuge) . If the fruits get des­
+troyed, (the trees should be sprinkled with water mixed) with
+(the paste of) horse-beans, black-gram, green gram, sesamum
+and barley. Sprinkling of cold water together with ghee is always
+(beneficial) for (the trees bearing) fruits and flowers. Sprink­
+ling water with fish makes the trees grow. The powdered excre­
+ment of the sheep and goat (mixed with) the powdered barley
+and sesamum, beef and water should be buried in the ground for
+seven nights and then sprinkling that would make all the trees
+bear fruits and flowers abundantly. Sprinkling mango trees
+with cold water mixed with fish is commended. The gentle
+kick of the asoka (tree) by women with their feet is also commen­
+ded. Date palms, coconut and other trees grow well by (add­
+ing)salt. Sprinkling with water mixed with vidanga (herb) and
+fish would be beneficial for all trees.
+
+## CHAPTER TWO HUNDRED AND FORTYEIGHT
+
+Benefit of worshipping lord ViiøU with flowers and leaves
+
+## Fire-god said :
+
+
+## 1 -6.
+
+(Lord) ViʨQU would confer success in all ventures by
+
+## worshipping (him) with flowers. (The flowers for worship are) :
+
+miilati, mallika, yilthi, patalii, karaviraka, pavanti, atimukta,kaҠikara,
+kuraҡtaka, kubjaka, tagara, nipa, viiøa, barbara, mallika, aJoka, tilaka,
+kunda (and) tamalaka would be good for worship.
+The leaves
+of bilva, sami, bhrngaraja, tulasi, and viisaka (are deemed good)
+for worship. The ketaki leaf and flower, lotus and red lotus
+and
+others
+(are also good) . But the arka, unmattaka, kanci,
+girimallika, kaujaja, siilmali and kaøtakiiri flowers are not at all
+good for the worship. The bathing of lord ViʩQU with a prastha
+( measure )
+of ghee would be eq11al) to the benefit (of making
+a gift) of a crore of cows. (By doing so) with aq.haka one would
+become
+a king.
+One would ascend heavens
+(by bathing)
+with ghee and milk.
+
+
+
+## 249.1-19
+
+645
+
+## CHAPTER TWO HUNDRED AND FORTYNINE
+
+The science of archery
+
+## Fire-god said :
+
+
+## 1 -5. 0 Brahmin ! I shall describe the science of archery
+
+in four sections. It is said to be of five kinds resting on the
+warriors on chariots, elephant, cavalry and infantry. It is said to
+be of five kinds such as those projected by a machine, thrown by
+the hand, those cast (by hands) and retained, those permanently
+retained (in the hand) and boxing. (The weapons)
+are said
+to be of two kinds-ordinary weapons and missiles. They are
+again stated to be of two kinds by the divisions (such as) curved
+and conceit. (The weapons projected ) by means of a sling or
+bow or other such contrivances are said to be projected by a
+machine.
+Stones and weapons such as the iron clubs are stated
+to be (weapons) thrown by the hand. (Weapons)
+such as the
+priisa (dart) would be known as (the weapons) cast and retain­
+ed. Swords and other (weapons) are those permanently retain­
+ed. Personal combat without weapons (is the last one) .
+
+## 6-8.
+
+After surmounting the difficulties, (the king) desiring
+to fight should engage fit men (for the purpose) . Battles (fought)
+with
+the
+bows
+(and
+arrows)
+are
+excellent,
+those with
+darts are
+mediocre,
+those
+with
+swords are inferior and
+those
+fought
+with hands
+are
+still
+inferior
+to
+them. A
+brahmin is said to be the preceptor in archery for two castes.
+A sudra has the right to fight in case of an emergency if he had
+undergone
+training. The people of mixed castes belonging
+to that country should render assistance to the king in the battle.
+
+## 9-19.
+
+If the thumbs, calves, palms and feet are kept closely
+pressed against each other, the po3ition (is said to be) samapada
+from its characteristic feature. !tis said to be vaisiikha if one stands
+on the outer toes and the two knees are held in a straight and
+motionless posture and the distance
+(between the two soles )
+is three vitastis (twelve angulas) . It is known as mal)r/.ala if the
+two knees look like a row of hams as and (the feet are) four vitastis
+apart. It is stated to be alirjha when the right thigh and knee
+are held motionless and (appear) like
+the
+plough and are
+five vitastis apart. If the same is changed (to the left) it is known
+to be pratyiilir/.ha. If the left leg would be curved and the right
+
+
+646
+Agni Purir)IJ
+would be straight and the two calves and the legs remain fifteen
+angulas apart, the posture would be (known as) jiita (on the
+whole) extending to twelve angulas. If the left knee would
+be
+straight and the right knee extended well or the right knee is
+curved and motionless and the feet together with the knee are
+four cubits apart, it is said to be vikata extending to two cubits.
+If the knees (are kept down) twice (as much) and the two legs
+are raised, that posture is said to be vikaja. The feet
+are
+a
+little turned round, firm and equal to four cubits. It is properly
+seen to extend to sixteen aitgulas.
+0
+Brahmin ! With this
+posture (known as) svastika one should first bow down holding
+the bow by the left hand and the arrow by the right hand.
+20-29.
+One that loves his bow should remain in the
+(pos­
+tures) vaiSiikha or jiita or firm or extended and put the string on
+the bow. The lower tip of the bow and the striking part of
+the
+arrow should be fixed on the ground. 0 One practising good
+austerities ! it should be raised with the hands by means of the
+curved fore-arms. That bow and arrow of a person is excellent
+which has a space of
+twelve inches between the bow and the
+feathered part of the arrow. The string should be made neither
+too long nor too short. Holding the bow (in line) with the navel
+and the
+quiver
+on the back,
+the bow should be
+raised
+with the left hand between the eye and the ear.
+The arrow
+should be taken with the right fist to the edge of the breast.
+(Then the string) should be put on
+and
+quickly drawn to its
+full capacity.
+(It should not be stretched so much as to be)
+within or beyond or above or below or curbed or raised or shak­
+ing or extremely obstructed. It should be parallel, firm
+and
+straight like a rod. Mter having covered the mark with the right
+fist, the
+archer
+(should stand)
+with his chest raised
+and
+bent in the shape of a triangle, the shoulders stooping, the neck
+without motion,
+and the head poised erect as a peacock. The
+space between the fore head,_nose, face, shoulder and the elbow
+should be equal. The space between the chin and shoulder is
+known to be three angulas.
+30-37.
+The interval between the chin and shoulder is said
+to be three aitgulas in the first, two aitgulas in the second and one
+angulas in the third (kind ofbow ) l Mter having taken the
+fea­
+thered end of an arrow with the thumb and the index finger and
+then with the
+ring and middle (finger of
+the right hand),
+
+
+
+## 250.1-7
+
+647
+it should be drawn fully such that the arrow gets completely
+stretched. After having begun in
+this way, the arrow should
+be released in the proper manner. 0
+Man of good conduct !
+The target that has been seen (by the eyes) and covered by the
+fist should be split with the arrow. After releasing (the arrow)
+the left hand should be thrown back quickly.
+0 Brahmin
+!
+It is known as excision. It should be known by you. An expert
+in the archery should keep the elbow down while drawing (an
+arrow) , above while releasing and be in line with the target in
+the middle (state). Those who are well-versed in (the science of)
+archery know it as the excellent. The superior kind of arrow is
+known to be twelve mUi#st, the mediocre of eleven mUj#s and
+the inferior one of ten mu,r/is. A bow of four cubits is excellent,
+that of three and a half cubits is mediocre and that of three
+cubits is said to be inferior always by the infantry men. The
+same is said to be excellent in
+(the case of) cavalry, chariot
+and elephant.
+
+## CHAPTER TWO HUNDRED AND FIFTY
+
+Th science of archery
+
+## Fire-god said :
+
+
+## 1-7. Then a brahmin should get ready the weapons such as
+
+the mace, bow etc., wash them well free from flesh and place
+them on the sacrificial ground. Then after having collected the
+arrow, furnishing himself with an armour and remaining
+composed
+he should get the quiver and bind it firmly on the
+right shoulder. Even though there may not be any definite aim,
+that arrow that has been placed in it in th at position should be
+lifted from the quiver with the right hand. Then the arrow to­
+gether with the hand that be lifted should be placed (on the bow)
+and held. The middle-part of the bow should be held with the
+left hand. After having made his mind diverted of all anxieties,
+the feathered end of the arrow should be placed on the string
+
+## 1.
+
+The breadth of the clenched fist.
+
+
+648
+A.gni Puriil}a
+After holding firmly in the (position known as) simhakaTT)a evenly
+with the feathered end, the fruit of the left that rested on the left
+ear should be borne (? )
+The covers should be borne with the
+left middle finger. One who knows the procedure should fix
+his mind on the target and (hold the arrow) with (the right)
+fist on the right side of the body and discharge covers.
+
+## 8-12.
+
+(One that practises to shoot an arrow) should place
+a pole as the target in line with the fold on the forehead. The
+circular mark (of the extent) of sixteen angulas should be struck
+after pulling (the arrow) . After having discharged such an
+arrow, one should then practise (discharging) fire-brands with
+that. One should place the arrow again and again with the mid­
+dle finger. One should strike from the quiver at the target per­
+ceived by the eye
+(imagining) as a square on the right. One
+that is in the first stage should practise to pierce (the target)
+in a square. Then he should practise to aim quickly, turning
+round and to pierce that below or above. When
+(the targets
+are) at the position of being pierced the bow (should be lifted)
+from its position and the hands should threaten with varied
+sounds of invincible (nature) (?)
+1 3-19. 0 Brahmin ! Among those (objects) to be struck
+(by a bow-man), two (kinds) are known to be dr¢ha (requiring
+firm hand) , two are known as Dukara (difficult to hit) and
+two as citraduikara (extremely difficult to hit) . That which
+is not below and hard is stated to be requiring firm hand. That
+which is below as well as that whichis above is said to be dUkara.
+That which is between the head and the zenith is known as citra­
+dU!kara. Thus after having known the position of the objects to
+be hit with the right and left, a hero (archer) should first make
+progress. Then one would be the conqueror of the target. This is
+said to be the rule that has been laid by those well-versed in that.
+It is said that one would have more mobility from that practice.
+The target that comes within the purview of the arrow should
+be aimed at firmly. One should strike at once, break, pierce
+and cause distress to that which is whirling round, that which
+is moving and that which is extremely steady. One who is well­
+versed in the performance of actions should practise this way
+after knowing that. One that has learnt the application would
+conquer (the lord of) death by means of his mind, eyes and look.
+
+
+
+## 251 .1-12
+
+649
+
+## CHAPTER TWO HUNDRED AND FIFTYONE
+
+The method of using a noose
+
+## Fire-god said :
+
+
+## 1 -6.
+
+One that has controlled the hand, conquered the mind
+and obtained proficiency in (hitting) the target perceived should
+board the chariot after getting the specified perfection. A noose
+should be ten cubits (long) , round and such as to be held in the
+hand. The thread (of the noose) should be made either of cotton
+or munja (grass) , tendon, arka (plant) or hide. It may be made
+of any other strong (material) well twined with thirty (pieces) .
+A wiseman should make the noose well-rounded. The instruc­
+tors should always provide a place for that on the sides. Having
+gathered it with the left hand it should be lifted with the
+right-hand. After having made (the noose) into a loop, it should
+be whirled round the head and thrown quickly on a person cover­
+ed
+by the armour and quiver. One that is well-trained should
+be employed after having made him proficient to use the noose
+on the (horsemen) galloping, capering and running away.
+7-1 2.
+After having conquered the enemy; he should be
+made a captive in the proper manner. The sword should be
+hanging on the left side on the waist. (The sheath) should be
+held firmly by the left (hand) and (the sword) should be drawn
+out (from the scabbard) with the right hand. The circum­
+ference of a dart should be six aftgulas,
+its height seven hastas
+and it (be made) of iron. Armours are of different kinds. It
+should be half the hasta, equal, spreading across and upwards.
+It should be fitted in the proper manner. Listen to me as I
+describe. After having made the person stand with the quiver
+and armour on his body, one should take the new, strong club
+in the right hand, move nine angulas and strike. By this (blow)
+the head (of the enemy) would certainly be destroyed. (Other­
+wise) he may be struck down with both hands. After having
+done thus without strain,
+one is said to accomplish the death
+of the person. I have already described how to cause the distress
+of the arms for the sake of the movement.

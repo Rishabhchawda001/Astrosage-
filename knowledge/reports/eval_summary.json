@@ -1,0 +1,18 @@
+{
+  "total_questions": 1000,
+  "by_difficulty": {
+    "easy": 999,
+    "medium": 1
+  },
+  "by_language": {
+    "english": 1000
+  },
+  "by_subject": {
+    "Ancient Indian scientist": 12,
+    "Astrology (English)": 988
+  },
+  "by_method": {
+    "definition_extraction": 997,
+    "sentence_extraction": 3
+  }
+}

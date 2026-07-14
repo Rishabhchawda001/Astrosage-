@@ -1,0 +1,37 @@
+{
+  "total_books": 591,
+  "enriched_books": 591,
+  "total_paragraphs": 272495,
+  "unique_hashes": 243737,
+  "duplicate_hashes": 18871,
+  "cross_book_duplicates": 122628,
+  "evidence_enrichments": 271571,
+  "confidence_updates": 272495,
+  "execution_time": 138.7,
+  "alignment": {
+    "total": 42844,
+    "by_type": {
+      "exact_match": 42844
+    }
+  },
+  "confidence": {
+    "total": 272495,
+    "mean_confidence": 0.495
+  },
+  "evidence": {
+    "total": 271571,
+    "by_source_type": {
+      "bronze_match": 271571
+    },
+    "unique_units": 271571
+  },
+  "statistics": {
+    "total_books": 591,
+    "total_units": 272495,
+    "verified": 272495,
+    "recovered": 0,
+    "unknown": 0,
+    "conflicts": 0,
+    "mean_completeness": 100.0
+  }
+}

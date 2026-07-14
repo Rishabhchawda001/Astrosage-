@@ -1,0 +1,2678 @@
+[
+  {
+    "method": "filename",
+    "query": "Bhagavad Gita",
+    "results": [
+      {
+        "document": "bhagavad-gita-as-it-is.pdf",
+        "score": 0.8,
+        "rank": 1,
+        "source": "filename"
+      },
+      {
+        "document": "Bhagavad-gita-Swami-BG-Narasingha.pdf",
+        "score": 0.8,
+        "rank": 2,
+        "source": "filename"
+      },
+      {
+        "document": "Telugu-Bhagavad-gita-His-Divine-Grace-AC-Bhaktivedanta-Swami-Prabhupada (1).pdf",
+        "score": 0.8,
+        "rank": 3,
+        "source": "filename"
+      },
+      {
+        "document": "Bhagavad-gita Bengali.pdf",
+        "score": 0.8,
+        "rank": 4,
+        "source": "filename"
+      },
+      {
+        "document": "Srimad-Bhagavad-Gita-in-Gujarati.pdf",
+        "score": 0.8,
+        "rank": 5,
+        "source": "filename"
+      },
+      {
+        "document": "455_gita_roman (1).pdf",
+        "score": 0.3,
+        "rank": 6,
+        "source": "filename"
+      },
+      {
+        "document": "gita-press-vedant-darshan-brahmasutra-sanskrit-hindi.pdf",
+        "score": 0.3,
+        "rank": 7,
+        "source": "filename"
+      },
+      {
+        "document": "Gita-Sadhale.pdf",
+        "score": 0.3,
+        "rank": 8,
+        "source": "filename"
+      },
+      {
+        "document": "Harivamsha-Purana-Gitapress.pdf",
+        "score": 0.3,
+        "rank": 9,
+        "source": "filename"
+      },
+      {
+        "document": "gita-press-vedant-darshan-brahmasutra-sanskrit-hindi.pdf",
+        "score": 0.3,
+        "rank": 10,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.27,
+    "result_count": 10
+  },
+  {
+    "method": "metadata",
+    "query": "Bhagavad Gita",
+    "results": [
+      {
+        "document": "bhagavad-gita-as-it-is.pdf",
+        "score": 1.0,
+        "rank": 1,
+        "source": "metadata"
+      },
+      {
+        "document": "Bhagavad-gita-Swami-BG-Narasingha.pdf",
+        "score": 1.0,
+        "rank": 2,
+        "source": "metadata"
+      },
+      {
+        "document": "Telugu-Bhagavad-gita-His-Divine-Grace-AC-Bhaktivedanta-Swami-Prabhupada (1).pdf",
+        "score": 1.0,
+        "rank": 3,
+        "source": "metadata"
+      },
+      {
+        "document": "Bhagavad-gita Bengali.pdf",
+        "score": 1.0,
+        "rank": 4,
+        "source": "metadata"
+      },
+      {
+        "document": "Srimad-Bhagavad-Gita-in-Gujarati.pdf",
+        "score": 1.0,
+        "rank": 5,
+        "source": "metadata"
+      },
+      {
+        "document": "Yatharth gita Gujrati .pdf",
+        "score": 1.0,
+        "rank": 6,
+        "source": "metadata"
+      },
+      {
+        "document": "\u0917\u0940\u0924\u093e \u0938\u093e\u0927\u0915 \u0938\u0902\u091c\u0940\u0935\u0928\u0940.pdf",
+        "score": 1.0,
+        "rank": 7,
+        "source": "metadata"
+      },
+      {
+        "document": "srimadbhagvadgita-tattva-vivechani-457-gita-press-azimvth-ashram.pdf",
+        "score": 1.0,
+        "rank": 8,
+        "source": "metadata"
+      },
+      {
+        "document": "\u0936\u094d\u0930\u0940_\u092e\u0926\u094d\u092d\u093e\u0917\u0935\u0924_\u092e\u0939\u093e\u092a\u0941\u0930\u093e\u0923_\u0926\u094d\u0935\u093f\u0924\u0940\u092f_\u0916\u0923\u094d\u0921.pdf",
+        "score": 0.5,
+        "rank": 9,
+        "source": "metadata"
+      },
+      {
+        "document": "\u0936\u094d\u0930\u0940_\u092e\u0926\u094d\u092d\u093e\u0917\u0935\u0924_\u092e\u0939\u093e\u092a\u0941\u0930\u093e\u0923_\u092a\u094d\u0930\u0925\u092e_\u0916\u0923\u094d\u0921.pdf",
+        "score": 0.5,
+        "rank": 10,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.28,
+    "result_count": 10
+  },
+  {
+    "method": "bm25",
+    "query": "Bhagavad Gita",
+    "results": [
+      {
+        "document": "Bhagavad-gita-Swami-BG-Narasingha",
+        "score": 8.882297848541256,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "ShivaSutras",
+        "score": 8.816037803057107,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "Caitanya-caritamrita_Adi_Lila (1)",
+        "score": 8.81017664013709,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "Narada_Bhakti_Sutra",
+        "score": 8.771998844020814,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "Caitanya-caritamrita_Madhya_Lila",
+        "score": 8.747217521541183,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "Caitanya-caritamrita_Antya_Lila",
+        "score": 8.493002693998742,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "om1",
+        "score": 8.24279785594247,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "Narad Panchatatra 2",
+        "score": 7.9084351150562755,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "Vidur-Niti_sanskrit",
+        "score": 6.59254723207808,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "srimadbhagvadgita-tattva-vivechani-457-gita-press-azimvth-ashram",
+        "score": 6.4860745569138025,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 1.66,
+    "result_count": 10
+  },
+  {
+    "method": "filename",
+    "query": "Ayurveda medicine",
+    "results": [
+      {
+        "document": "8. Ancient Wisdom and Future Medicine A Defense of the Science of Ayurveda  Author Michael Eatmon,Dr Thomas Moore,Dr Jayashree Shivamoggi.pdf",
+        "score": 0.8,
+        "rank": 1,
+        "source": "filename"
+      },
+      {
+        "document": "1. Ancient Remedies for a Modern You An Introduction to Ayurveda Author Premal Patel.pdf",
+        "score": 0.3,
+        "rank": 2,
+        "source": "filename"
+      },
+      {
+        "document": "10. Ayurvedas Perspective on Healing Mental Illness Author AdPurkh Kaur Khalsa, Emily K Smith.pdf",
+        "score": 0.3,
+        "rank": 3,
+        "source": "filename"
+      },
+      {
+        "document": "12. Concept of Personality Type in West and in Ayurveda (Article) Author Rudrani Mukherjee.pdf",
+        "score": 0.3,
+        "rank": 4,
+        "source": "filename"
+      },
+      {
+        "document": "13. Holistic Nutrition For Children and Elderly In View Of Ayurveda Author Dr Rakesh Kumar Jain.pdf",
+        "score": 0.3,
+        "rank": 5,
+        "source": "filename"
+      },
+      {
+        "document": "15. Ideal Daily Routine According to Maharishi Ayurveda (Article) Author Center for Optimal Health.pdf",
+        "score": 0.3,
+        "rank": 6,
+        "source": "filename"
+      },
+      {
+        "document": "16. Introduction to Ayurveda (Presentation) Author Ajita Patel.pdf",
+        "score": 0.3,
+        "rank": 7,
+        "source": "filename"
+      },
+      {
+        "document": "17. Introduction to system of medicine Author  Department of Collegiate Education Government of Karnataka India.pdf",
+        "score": 0.3,
+        "rank": 8,
+        "source": "filename"
+      },
+      {
+        "document": "18. Theory of Ayurveda (Presentation) Author Dr Chakra Pany Sharma.pdf",
+        "score": 0.3,
+        "rank": 9,
+        "source": "filename"
+      },
+      {
+        "document": "2. History of Ayurveda a Heritage of Healing Author Poliklinika Harni.pdf",
+        "score": 0.3,
+        "rank": 10,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.27,
+    "result_count": 10
+  },
+  {
+    "method": "metadata",
+    "query": "Ayurveda medicine",
+    "results": [
+      {
+        "document": "8. Ancient Wisdom and Future Medicine A Defense of the Science of Ayurveda  Author Michael Eatmon,Dr Thomas Moore,Dr Jayashree Shivamoggi.pdf",
+        "score": 1.0,
+        "rank": 1,
+        "source": "metadata"
+      },
+      {
+        "document": "1. Ancient Remedies for a Modern You An Introduction to Ayurveda Author Premal Patel.pdf",
+        "score": 0.5,
+        "rank": 2,
+        "source": "metadata"
+      },
+      {
+        "document": "10. Ayurvedas Perspective on Healing Mental Illness Author AdPurkh Kaur Khalsa, Emily K Smith.pdf",
+        "score": 0.5,
+        "rank": 3,
+        "source": "metadata"
+      },
+      {
+        "document": "12. Concept of Personality Type in West and in Ayurveda (Article) Author Rudrani Mukherjee.pdf",
+        "score": 0.5,
+        "rank": 4,
+        "source": "metadata"
+      },
+      {
+        "document": "13. Holistic Nutrition For Children and Elderly In View Of Ayurveda Author Dr Rakesh Kumar Jain.pdf",
+        "score": 0.5,
+        "rank": 5,
+        "source": "metadata"
+      },
+      {
+        "document": "15. Ideal Daily Routine According to Maharishi Ayurveda (Article) Author Center for Optimal Health.pdf",
+        "score": 0.5,
+        "rank": 6,
+        "source": "metadata"
+      },
+      {
+        "document": "16. Introduction to Ayurveda (Presentation) Author Ajita Patel.pdf",
+        "score": 0.5,
+        "rank": 7,
+        "source": "metadata"
+      },
+      {
+        "document": "17. Introduction to system of medicine Author  Department of Collegiate Education Government of Karnataka India.pdf",
+        "score": 0.5,
+        "rank": 8,
+        "source": "metadata"
+      },
+      {
+        "document": "18. Theory of Ayurveda (Presentation) Author Dr Chakra Pany Sharma.pdf",
+        "score": 0.5,
+        "rank": 9,
+        "source": "metadata"
+      },
+      {
+        "document": "2. History of Ayurveda a Heritage of Healing Author Poliklinika Harni.pdf",
+        "score": 0.5,
+        "rank": 10,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.41,
+    "result_count": 10
+  },
+  {
+    "method": "bm25",
+    "query": "Ayurveda medicine",
+    "results": [
+      {
+        "document": "8. Ancient Wisdom and Future Medicine A Defense of the Science of Ayurveda  Author Michael Eatmon,Dr Thomas Moore,Dr Jayashree Shivamoggi",
+        "score": 6.341535288484295,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "7. Ontology of Personhood in Ayurveda from the Perspective of Patients and Physicians in Palampur Himachal Pradesh An Independent Stud Author Denise DeFelice",
+        "score": 6.317473952868729,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "3. My Health My Responsibility Ayu Samvad Ayurveda for Covid 19 Author Shri Shripad Yasso Naik,Padmashree Vaidya Rajesh Kotecha,Shri Pramod Kumar Pathak",
+        "score": 6.2713014098704,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "10. Ayurvedas Perspective on Healing Mental Illness Author AdPurkh Kaur Khalsa, Emily K Smith",
+        "score": 6.254172412383298,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "18. Theory of Ayurveda (Presentation) Author Dr Chakra Pany Sharma",
+        "score": 6.247641549535406,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "17. Introduction to system of medicine Author  Department of Collegiate Education Government of Karnataka India",
+        "score": 6.246698859479311,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "14. A Study of Ayurvedic Style of Cooking and It\u2019s Influence in Day to Day Life (Article) Author Dr Kiran Shende,Mr Rahul Bhalekar",
+        "score": 6.209140484703408,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "6. Accounts of Pathogenic Organisms in the Early Texts of Ayurveda Author P Ram Manohar",
+        "score": 6.1751209584440705,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "2. History of Ayurveda a Heritage of Healing Author Poliklinika Harni",
+        "score": 6.173634775103295,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "11. Concept of Psychology &amp; the Mind in Ayurved Author Maheshkumar Nilkanth Chaudhari",
+        "score": 6.109033338394834,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 0.88,
+    "result_count": 10
+  },
+  {
+    "method": "filename",
+    "query": "Sanskrit grammar",
+    "results": [
+      {
+        "document": "sadhak_sanjivini_sanskrit_hindi.pdf",
+        "score": 0.3,
+        "rank": 1,
+        "source": "filename"
+      },
+      {
+        "document": "Brahma Sutras - According to Sri Sankara by Swami Vireswarananda [Sanskrit-English].pdf",
+        "score": 0.3,
+        "rank": 2,
+        "source": "filename"
+      },
+      {
+        "document": "gita-press-vedant-darshan-brahmasutra-sanskrit-hindi.pdf",
+        "score": 0.3,
+        "rank": 3,
+        "source": "filename"
+      },
+      {
+        "document": "hanumanchalisa_Marwadi_Sanskrit.pdf",
+        "score": 0.3,
+        "rank": 4,
+        "source": "filename"
+      },
+      {
+        "document": "GEET SANSKRIT,GUJ Hindi &amp; ENG.pdf",
+        "score": 0.3,
+        "rank": 5,
+        "source": "filename"
+      },
+      {
+        "document": "GOPI GEET SANSKRIT,GUJ Hindi &amp; ENG.pdf",
+        "score": 0.3,
+        "rank": 6,
+        "source": "filename"
+      },
+      {
+        "document": "Gheranda Samhita_sanskrit_Eng.pdf",
+        "score": 0.3,
+        "rank": 7,
+        "source": "filename"
+      },
+      {
+        "document": "Sri_Vishnu_sahasranaam_satrotam_sanskrit.pdf",
+        "score": 0.3,
+        "rank": 8,
+        "source": "filename"
+      },
+      {
+        "document": "Yoga-rasayanam-sanskrit-hindi.pdf",
+        "score": 0.3,
+        "rank": 9,
+        "source": "filename"
+      },
+      {
+        "document": "bramsutrSanskrit.pdf",
+        "score": 0.3,
+        "rank": 10,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.37,
+    "result_count": 10
+  },
+  {
+    "method": "metadata",
+    "query": "Sanskrit grammar",
+    "results": [
+      {
+        "document": "Aditya Hridyam Stotram.pdf",
+        "score": 0.5,
+        "rank": 1,
+        "source": "metadata"
+      },
+      {
+        "document": "Arogyanidhi2.pdf",
+        "score": 0.5,
+        "rank": 2,
+        "source": "metadata"
+      },
+      {
+        "document": "Arogyanidhii.pdf",
+        "score": 0.5,
+        "rank": 3,
+        "source": "metadata"
+      },
+      {
+        "document": "sadhak_sanjivini_sanskrit_hindi.pdf",
+        "score": 0.5,
+        "rank": 4,
+        "source": "metadata"
+      },
+      {
+        "document": "\u0936\u094d\u0930\u0940_\u092e\u0926\u094d\u092d\u093e\u0917\u0935\u0924_\u092e\u0939\u093e\u092a\u0941\u0930\u093e\u0923_\u0926\u094d\u0935\u093f\u0924\u0940\u092f_\u0916\u0923\u094d\u0921.pdf",
+        "score": 0.5,
+        "rank": 5,
+        "source": "metadata"
+      },
+      {
+        "document": "\u0936\u094d\u0930\u0940_\u092e\u0926\u094d\u092d\u093e\u0917\u0935\u0924_\u092e\u0939\u093e\u092a\u0941\u0930\u093e\u0923_\u092a\u094d\u0930\u0925\u092e_\u0916\u0923\u094d\u0921.pdf",
+        "score": 0.5,
+        "rank": 6,
+        "source": "metadata"
+      },
+      {
+        "document": "Brahma Sutras - According to Sri Sankara by Swami Vireswarananda [Sanskrit-English].pdf",
+        "score": 0.5,
+        "rank": 7,
+        "source": "metadata"
+      },
+      {
+        "document": "gita-press-vedant-darshan-brahmasutra-sanskrit-hindi.pdf",
+        "score": 0.5,
+        "rank": 8,
+        "source": "metadata"
+      },
+      {
+        "document": "Gayatri Chalisa.pdf",
+        "score": 0.5,
+        "rank": 9,
+        "source": "metadata"
+      },
+      {
+        "document": "Santoshi Maa Chalisa.pdf",
+        "score": 0.5,
+        "rank": 10,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.37,
+    "result_count": 10
+  },
+  {
+    "method": "bm25",
+    "query": "Sanskrit grammar",
+    "results": [
+      {
+        "document": "Caitanya-caritamrita_Adi_Lila (1)",
+        "score": 5.41104371111206,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "Ancient Indian Scientific Thought (1)",
+        "score": 5.246371008219274,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "agni Puran 4",
+        "score": 4.977333145946887,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "ShivaSutras",
+        "score": 4.89878207940532,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "Raja Ram Mohan Roy - Vedic Physics_ Scientific Origin of Hinduism",
+        "score": 4.732070563202228,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "Power of Mantra",
+        "score": 4.566159428756764,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "Mahabharata-VOL-9",
+        "score": 4.498130844996888,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "om1",
+        "score": 4.464994354514506,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "brihaspatisutrao00brharich",
+        "score": 4.36668376912901,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "Mahabharata-VOL-10",
+        "score": 3.8978045840276527,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 0.69,
+    "result_count": 10
+  },
+  {
+    "method": "filename",
+    "query": "Vedic astrology",
+    "results": [
+      {
+        "document": "28Nakshatras-TheRealSecretsofVedicAstrologyAne-book.docx",
+        "score": 0.8,
+        "rank": 1,
+        "source": "filename"
+      },
+      {
+        "document": "vedic_astro_textbook.pdf",
+        "score": 0.3,
+        "rank": 2,
+        "source": "filename"
+      },
+      {
+        "document": "Thompson_Richard_L._(aka_Sadaputa_dasa)_-_Vedic_Cosmography_and_Astronomy.pdf",
+        "score": 0.3,
+        "rank": 3,
+        "source": "filename"
+      },
+      {
+        "document": "from Vedic Science to Vedant.pdf",
+        "score": 0.3,
+        "rank": 4,
+        "source": "filename"
+      },
+      {
+        "document": "Raja Ram Mohan Roy - Vedic Physics_ Scientific Origin of Hinduism.pdf",
+        "score": 0.3,
+        "rank": 5,
+        "source": "filename"
+      },
+      {
+        "document": "Ayurvedic Upay.pdf",
+        "score": 0.3,
+        "rank": 6,
+        "source": "filename"
+      },
+      {
+        "document": "2015.464310.Dynamic-Astrology.pdf",
+        "score": 0.3,
+        "rank": 7,
+        "source": "filename"
+      },
+      {
+        "document": "14. A Study of Ayurvedic Style of Cooking and It\u2019s Influence in Day to Day Life (Article) Author Dr Kiran Shende,Mr Rahul Bhalekar.pdf",
+        "score": 0.3,
+        "rank": 8,
+        "source": "filename"
+      },
+      {
+        "document": "4. An Ayurvedic Approach to Losing Weigh Author Banyan Botanicals.pdf",
+        "score": 0.3,
+        "rank": 9,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.24,
+    "result_count": 9
+  },
+  {
+    "method": "metadata",
+    "query": "Vedic astrology",
+    "results": [
+      {
+        "document": "28Nakshatras-TheRealSecretsofVedicAstrologyAne-book.docx",
+        "score": 1.0,
+        "rank": 1,
+        "source": "metadata"
+      },
+      {
+        "document": "vedic_astro_textbook.pdf",
+        "score": 0.5,
+        "rank": 2,
+        "source": "metadata"
+      },
+      {
+        "document": "Thompson_Richard_L._(aka_Sadaputa_dasa)_-_Vedic_Cosmography_and_Astronomy.pdf",
+        "score": 0.5,
+        "rank": 3,
+        "source": "metadata"
+      },
+      {
+        "document": "from Vedic Science to Vedant.pdf",
+        "score": 0.5,
+        "rank": 4,
+        "source": "metadata"
+      },
+      {
+        "document": "Raja Ram Mohan Roy - Vedic Physics_ Scientific Origin of Hinduism.pdf",
+        "score": 0.5,
+        "rank": 5,
+        "source": "metadata"
+      },
+      {
+        "document": "Ayurvedic Upay.pdf",
+        "score": 0.5,
+        "rank": 6,
+        "source": "metadata"
+      },
+      {
+        "document": "2015.464310.Dynamic-Astrology.pdf",
+        "score": 0.5,
+        "rank": 7,
+        "source": "metadata"
+      },
+      {
+        "document": "14. A Study of Ayurvedic Style of Cooking and It\u2019s Influence in Day to Day Life (Article) Author Dr Kiran Shende,Mr Rahul Bhalekar.pdf",
+        "score": 0.5,
+        "rank": 8,
+        "source": "metadata"
+      },
+      {
+        "document": "4. An Ayurvedic Approach to Losing Weigh Author Banyan Botanicals.pdf",
+        "score": 0.5,
+        "rank": 9,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.25,
+    "result_count": 9
+  },
+  {
+    "method": "bm25",
+    "query": "Vedic astrology",
+    "results": [
+      {
+        "document": "vedic_astro_textbook",
+        "score": 6.635971339841716,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "Ancient Indian Scientific Thought (1)",
+        "score": 6.51059354579677,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "Nakshatras complete",
+        "score": 6.338268053610824,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "Thompson_Richard_L._(aka_Sadaputa_dasa)_-_Vedic_Cosmography_and_Astronomy",
+        "score": 6.322847364793609,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "BPHS - 1 RSanthanam",
+        "score": 5.998640340817239,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "Power of Mantra",
+        "score": 5.894082132144057,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "Agni Puran 2",
+        "score": 5.701948896780319,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "Mantreswara_s__Phaladeeplka",
+        "score": 5.688743032219541,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "raman-how-to-judge-horoscope-1",
+        "score": 5.68234007617612,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "8. Ancient Wisdom and Future Medicine A Defense of the Science of Ayurveda  Author Michael Eatmon,Dr Thomas Moore,Dr Jayashree Shivamoggi",
+        "score": 5.65280865031302,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 0.61,
+    "result_count": 10
+  },
+  {
+    "method": "filename",
+    "query": "yoga meditation",
+    "results": [
+      {
+        "document": "Laghu-yoga-vasishta-English.pdf",
+        "score": 0.3,
+        "rank": 1,
+        "source": "filename"
+      },
+      {
+        "document": "Yoga-rasayanam-sanskrit-hindi.pdf",
+        "score": 0.3,
+        "rank": 2,
+        "source": "filename"
+      },
+      {
+        "document": "super brainYoga_Research-English.pdf",
+        "score": 0.3,
+        "rank": 3,
+        "source": "filename"
+      },
+      {
+        "document": "Shri-Yogavasishtha-1.pdf",
+        "score": 0.3,
+        "rank": 4,
+        "source": "filename"
+      },
+      {
+        "document": "Shri-Yogavasishtha-2.pdf",
+        "score": 0.3,
+        "rank": 5,
+        "source": "filename"
+      },
+      {
+        "document": "Shri-Yogavasishtha-3.pdf",
+        "score": 0.3,
+        "rank": 6,
+        "source": "filename"
+      },
+      {
+        "document": "Shri-Yogavasishtha-4.pdf",
+        "score": 0.3,
+        "rank": 7,
+        "source": "filename"
+      },
+      {
+        "document": "Patanjali Yoga Sutra by Swami Vivekananda.pdf",
+        "score": 0.3,
+        "rank": 8,
+        "source": "filename"
+      },
+      {
+        "document": "Yoga.pdf",
+        "score": 0.3,
+        "rank": 9,
+        "source": "filename"
+      },
+      {
+        "document": "5. Ayurveda Kapha Daily Routine Author Yoga Veda Institute Educational Programs.pdf",
+        "score": 0.3,
+        "rank": 10,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.28,
+    "result_count": 10
+  },
+  {
+    "method": "metadata",
+    "query": "yoga meditation",
+    "results": [
+      {
+        "document": "Copy of \u092f\u094b\u0917\u0940_\u0915\u0925\u093e\u092e\u0943\u0924_\u092a\u0930\u092e\u0939\u0902\u0938_\u092f\u094b\u0917\u093e\u0928\u0902\u0926.pdf",
+        "score": 0.5,
+        "rank": 1,
+        "source": "metadata"
+      },
+      {
+        "document": "\u092f\u094b\u0917\u0940_\u0915\u0925\u093e\u092e\u0943\u0924_\u092a\u0930\u092e\u0939\u0902\u0938_\u092f\u094b\u0917\u093e\u0928\u0902\u0926.pdf",
+        "score": 0.5,
+        "rank": 2,
+        "source": "metadata"
+      },
+      {
+        "document": "Laghu-yoga-vasishta-English.pdf",
+        "score": 0.5,
+        "rank": 3,
+        "source": "metadata"
+      },
+      {
+        "document": "Yoga-rasayanam-sanskrit-hindi.pdf",
+        "score": 0.5,
+        "rank": 4,
+        "source": "metadata"
+      },
+      {
+        "document": "sby-a-research-study.pdf",
+        "score": 0.5,
+        "rank": 5,
+        "source": "metadata"
+      },
+      {
+        "document": "super brainYoga_Research-English.pdf",
+        "score": 0.5,
+        "rank": 6,
+        "source": "metadata"
+      },
+      {
+        "document": "Shri-Yogavasishtha-1.pdf",
+        "score": 0.5,
+        "rank": 7,
+        "source": "metadata"
+      },
+      {
+        "document": "Shri-Yogavasishtha-2.pdf",
+        "score": 0.5,
+        "rank": 8,
+        "source": "metadata"
+      },
+      {
+        "document": "Shri-Yogavasishtha-3.pdf",
+        "score": 0.5,
+        "rank": 9,
+        "source": "metadata"
+      },
+      {
+        "document": "Shri-Yogavasishtha-4.pdf",
+        "score": 0.5,
+        "rank": 10,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.26,
+    "result_count": 10
+  },
+  {
+    "method": "bm25",
+    "query": "yoga meditation",
+    "results": [
+      {
+        "document": "Kundalini eng",
+        "score": 3.142601299816195,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "srimadbhagvadgita-tattva-vivechani-457-gita-press-azimvth-ashram",
+        "score": 3.1213872155654014,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "Bhagavad-gita-Swami-BG-Narasingha",
+        "score": 3.110420926861675,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "455_gita_roman (1)",
+        "score": 3.10881543733358,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "Vigyan Bhairav Tantra, Vol 1 (1)",
+        "score": 3.1076168114127114,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "Patanjali Yoga Sutra by Swami Vivekananda",
+        "score": 3.1073452072945607,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "Laghu-yoga-vasishta-English",
+        "score": 3.1055808952508395,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "Narad Panchatatra 2",
+        "score": 3.1032374861573846,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "Kundalini-the-evolutionary-energy-in-man-by-Gopi-Krishna",
+        "score": 3.0767759734335165,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "Mahabharata-VOL-9",
+        "score": 3.0647191647907714,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 0.59,
+    "result_count": 10
+  },
+  {
+    "method": "filename",
+    "query": "Rigveda hymns",
+    "results": [
+      {
+        "document": "rigveda_english.pdf",
+        "score": 0.3,
+        "rank": 1,
+        "source": "filename"
+      },
+      {
+        "document": "rigveda-gujarati-mandal1.pdf",
+        "score": 0.3,
+        "rank": 2,
+        "source": "filename"
+      },
+      {
+        "document": "- Rigveda Samhitaa -_1.pdf",
+        "score": 0.3,
+        "rank": 3,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.16,
+    "result_count": 3
+  },
+  {
+    "method": "metadata",
+    "query": "Rigveda hymns",
+    "results": [
+      {
+        "document": "the-secret-of-the-veda-sri-aurobindo.pdf",
+        "score": 0.5,
+        "rank": 1,
+        "source": "metadata"
+      },
+      {
+        "document": "rigveda_english.pdf",
+        "score": 0.5,
+        "rank": 2,
+        "source": "metadata"
+      },
+      {
+        "document": "rigveda-gujarati-mandal1.pdf",
+        "score": 0.5,
+        "rank": 3,
+        "source": "metadata"
+      },
+      {
+        "document": "- Rigveda Samhitaa -_1.pdf",
+        "score": 0.5,
+        "rank": 4,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.33,
+    "result_count": 4
+  },
+  {
+    "method": "bm25",
+    "query": "Rigveda hymns",
+    "results": [
+      {
+        "document": "Solar_Eclipse_Om",
+        "score": 9.201541644375329,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "Science_and_Astronomy_IJTK 13(4) 716-724",
+        "score": 9.201541644375329,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "18-maha-puranas-in-english",
+        "score": 8.638461360583578,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "ALL Puran English",
+        "score": 8.616350394558967,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "from Vedic Science to Vedant",
+        "score": 7.803017728166202,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "Vishnu Dharmotra Puran",
+        "score": 7.230390818444382,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "Mahabharata-VOL-10",
+        "score": 5.978666215844623,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "brihaspatisutrao00brharich",
+        "score": 5.128684057721036,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "ArthurAvalonKularnavaTantraEng",
+        "score": 4.532434897114675,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "the-4-vedas",
+        "score": 4.443886544447743,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 0.56,
+    "result_count": 10
+  },
+  {
+    "method": "filename",
+    "query": "Chanakya niti",
+    "results": [
+      {
+        "document": "Chanakya Niti Darpan.pdf",
+        "score": 1.0,
+        "rank": 1,
+        "source": "filename"
+      },
+      {
+        "document": "chanakyasutrani-skt-text-with-hindi-commentary-1946.pdf",
+        "score": 0.3,
+        "rank": 2,
+        "source": "filename"
+      },
+      {
+        "document": "Vidur-Niti_sanskrit.pdf",
+        "score": 0.3,
+        "rank": 3,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.19,
+    "result_count": 3
+  },
+  {
+    "method": "metadata",
+    "query": "Chanakya niti",
+    "results": [
+      {
+        "document": "Chanakya Niti Darpan.pdf",
+        "score": 1.0,
+        "rank": 1,
+        "source": "metadata"
+      },
+      {
+        "document": "\u0938\u092e\u094d\u092a\u0942\u0930\u094d\u0923 \u091a\u093e\u0923\u0915\u094d\u092f \u0928\u0940\u0924\u093f.pdf",
+        "score": 1.0,
+        "rank": 2,
+        "source": "metadata"
+      },
+      {
+        "document": "chanakyasutrani-skt-text-with-hindi-commentary-1946.pdf",
+        "score": 0.5,
+        "rank": 3,
+        "source": "metadata"
+      },
+      {
+        "document": "Vidur-Niti_sanskrit.pdf",
+        "score": 0.5,
+        "rank": 4,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.39,
+    "result_count": 4
+  },
+  {
+    "method": "bm25",
+    "query": "Chanakya niti",
+    "results": [
+      {
+        "document": "shabar-mantra-sadhna-evam-siddhi-in-hindi-pdf",
+        "score": 9.533560567633598,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "Vidur-Niti_sanskrit",
+        "score": 6.730815876878519,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "brihaspatisutrao00brharich",
+        "score": 6.030467205043092,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "18-maha-puranas-in-english",
+        "score": 5.444556406108486,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "Caitanya-caritamrita_Antya_Lila",
+        "score": 4.990372877595491,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "Mantreswara_s__Phaladeeplka",
+        "score": 4.942028937377884,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "Narad Panchatatra 1",
+        "score": 4.481157256188604,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "ALL Puran English",
+        "score": 4.3832582768308175,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "Mahabharata-VOL-10",
+        "score": 3.7808928362182814,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "Brahmand Puran 5",
+        "score": 3.408797295124663,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 0.56,
+    "result_count": 10
+  },
+  {
+    "method": "filename",
+    "query": "Hanuman chalisa",
+    "results": [
+      {
+        "document": "Hanuman Chalisa.pdf",
+        "score": 1.0,
+        "rank": 1,
+        "source": "filename"
+      },
+      {
+        "document": "hanumanchalisa_Marwadi_Sanskrit.pdf",
+        "score": 0.8,
+        "rank": 2,
+        "source": "filename"
+      },
+      {
+        "document": "Durga Chalisa.pdf",
+        "score": 0.3,
+        "rank": 3,
+        "source": "filename"
+      },
+      {
+        "document": "Ganesh Chalisa.pdf",
+        "score": 0.3,
+        "rank": 4,
+        "source": "filename"
+      },
+      {
+        "document": "Gayatri Chalisa.pdf",
+        "score": 0.3,
+        "rank": 5,
+        "source": "filename"
+      },
+      {
+        "document": "Navgraha Chalisa.pdf",
+        "score": 0.3,
+        "rank": 6,
+        "source": "filename"
+      },
+      {
+        "document": "Santoshi Maa Chalisa.pdf",
+        "score": 0.3,
+        "rank": 7,
+        "source": "filename"
+      },
+      {
+        "document": "Sarasvati Chalisa.pdf",
+        "score": 0.3,
+        "rank": 8,
+        "source": "filename"
+      },
+      {
+        "document": "Shiv Chalisa.pdf",
+        "score": 0.3,
+        "rank": 9,
+        "source": "filename"
+      },
+      {
+        "document": "Sri Krishna Chalisa.pdf",
+        "score": 0.3,
+        "rank": 10,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.21,
+    "result_count": 10
+  },
+  {
+    "method": "metadata",
+    "query": "Hanuman chalisa",
+    "results": [
+      {
+        "document": "Hanuman Chalisa.pdf",
+        "score": 1.0,
+        "rank": 1,
+        "source": "metadata"
+      },
+      {
+        "document": "hanumanchalisa_Marwadi_Sanskrit.pdf",
+        "score": 1.0,
+        "rank": 2,
+        "source": "metadata"
+      },
+      {
+        "document": "Durga Chalisa.pdf",
+        "score": 0.5,
+        "rank": 3,
+        "source": "metadata"
+      },
+      {
+        "document": "Ganesh Chalisa.pdf",
+        "score": 0.5,
+        "rank": 4,
+        "source": "metadata"
+      },
+      {
+        "document": "Gayatri Chalisa.pdf",
+        "score": 0.5,
+        "rank": 5,
+        "source": "metadata"
+      },
+      {
+        "document": "Navgraha Chalisa.pdf",
+        "score": 0.5,
+        "rank": 6,
+        "source": "metadata"
+      },
+      {
+        "document": "Santoshi Maa Chalisa.pdf",
+        "score": 0.5,
+        "rank": 7,
+        "source": "metadata"
+      },
+      {
+        "document": "Sarasvati Chalisa.pdf",
+        "score": 0.5,
+        "rank": 8,
+        "source": "metadata"
+      },
+      {
+        "document": "Shiv Chalisa.pdf",
+        "score": 0.5,
+        "rank": 9,
+        "source": "metadata"
+      },
+      {
+        "document": "Sri Krishna Chalisa.pdf",
+        "score": 0.5,
+        "rank": 10,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.29,
+    "result_count": 10
+  },
+  {
+    "method": "bm25",
+    "query": "Hanuman chalisa",
+    "results": [
+      {
+        "document": "Sankat Mochan Hanuman Ashtak  2",
+        "score": 10.750587392608868,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "science-in-vedas",
+        "score": 9.288019536335838,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "science-in-vedas",
+        "score": 9.288019536335838,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "Durga Chalisa",
+        "score": 5.577587518969382,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "Sarasvati Chalisa",
+        "score": 5.575035444212763,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "Ganesh Chalisa",
+        "score": 5.573047946056326,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "Shiv Chalisa",
+        "score": 5.572898003704654,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "Gayatri Chalisa",
+        "score": 5.572035991735142,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "Sri Laxmi Chalisa",
+        "score": 5.571998519003062,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "Sri Krishna Chalisa",
+        "score": 5.571286632844887,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 0.66,
+    "result_count": 10
+  },
+  {
+    "method": "filename",
+    "query": "Brahma Sutras",
+    "results": [
+      {
+        "document": "Brahma Sutras - According to Sri Sankara by Swami Vireswarananda [Sanskrit-English].pdf",
+        "score": 1.0,
+        "rank": 1,
+        "source": "filename"
+      },
+      {
+        "document": "Brahmacharya Ki Shakti by Swami Rama Tirtha.pdf",
+        "score": 0.3,
+        "rank": 2,
+        "source": "filename"
+      },
+      {
+        "document": "Brahma-Sphuta-Siddhanta_VOL_I.pdf",
+        "score": 0.3,
+        "rank": 3,
+        "source": "filename"
+      },
+      {
+        "document": "Brahma-Sphuta-Siddhanta_VOL_II.pdf",
+        "score": 0.3,
+        "rank": 4,
+        "source": "filename"
+      },
+      {
+        "document": "Brahma-Sphuta-Siddhanta_VOL_III.pdf",
+        "score": 0.3,
+        "rank": 5,
+        "source": "filename"
+      },
+      {
+        "document": "Brahma-Sphuta-Siddhanta_VOL_IV.pdf",
+        "score": 0.3,
+        "rank": 6,
+        "source": "filename"
+      },
+      {
+        "document": "gita-press-vedant-darshan-brahmasutra-sanskrit-hindi.pdf",
+        "score": 0.3,
+        "rank": 7,
+        "source": "filename"
+      },
+      {
+        "document": "gita-press-vedant-darshan-brahmasutra-sanskrit-hindi.pdf",
+        "score": 0.3,
+        "rank": 8,
+        "source": "filename"
+      },
+      {
+        "document": "vedant-darshan-brahmasutra-sanskrit-hindi.pdf",
+        "score": 0.3,
+        "rank": 9,
+        "source": "filename"
+      },
+      {
+        "document": "PU010-BrahmaPuranamu-1To3.pdf",
+        "score": 0.3,
+        "rank": 10,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.26,
+    "result_count": 10
+  },
+  {
+    "method": "metadata",
+    "query": "Brahma Sutras",
+    "results": [
+      {
+        "document": "Brahma Sutras - According to Sri Sankara by Swami Vireswarananda [Sanskrit-English].pdf",
+        "score": 1.0,
+        "rank": 1,
+        "source": "metadata"
+      },
+      {
+        "document": "Brahmacharya Ki Shakti by Swami Rama Tirtha.pdf",
+        "score": 0.5,
+        "rank": 2,
+        "source": "metadata"
+      },
+      {
+        "document": "Brahma-Sphuta-Siddhanta_VOL_I.pdf",
+        "score": 0.5,
+        "rank": 3,
+        "source": "metadata"
+      },
+      {
+        "document": "Brahma-Sphuta-Siddhanta_VOL_II.pdf",
+        "score": 0.5,
+        "rank": 4,
+        "source": "metadata"
+      },
+      {
+        "document": "Brahma-Sphuta-Siddhanta_VOL_III.pdf",
+        "score": 0.5,
+        "rank": 5,
+        "source": "metadata"
+      },
+      {
+        "document": "Brahma-Sphuta-Siddhanta_VOL_IV.pdf",
+        "score": 0.5,
+        "rank": 6,
+        "source": "metadata"
+      },
+      {
+        "document": "gita-press-vedant-darshan-brahmasutra-sanskrit-hindi.pdf",
+        "score": 0.5,
+        "rank": 7,
+        "source": "metadata"
+      },
+      {
+        "document": "vedant-darshan-brahmasutra-sanskrit-hindi.pdf",
+        "score": 0.5,
+        "rank": 8,
+        "source": "metadata"
+      },
+      {
+        "document": "5_6334447321257870315.pdf",
+        "score": 0.5,
+        "rank": 9,
+        "source": "metadata"
+      },
+      {
+        "document": "PU010-BrahmaPuranamu-1To3.pdf",
+        "score": 0.5,
+        "rank": 10,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.26,
+    "result_count": 10
+  },
+  {
+    "method": "bm25",
+    "query": "Brahma Sutras",
+    "results": [
+      {
+        "document": "Narada_Bhakti_Sutra",
+        "score": 6.0564399094650225,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "ShivaSutras",
+        "score": 5.973265199247487,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "brihaspatisutrao00brharich",
+        "score": 5.914386226811306,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "Caitanya-caritamrita_Adi_Lila (1)",
+        "score": 5.819507913142338,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "Brahmand Puran 2",
+        "score": 5.732155521440726,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "Kundalini eng",
+        "score": 5.4827480831409625,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "Brahmand Puran 1",
+        "score": 5.397001444602035,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "Mahabharata-VOL-10",
+        "score": 5.216397879493809,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "Yoga",
+        "score": 5.1387523644933335,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "Brahmand Puran 3",
+        "score": 5.0399369041039765,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 0.62,
+    "result_count": 10
+  },
+  {
+    "method": "filename",
+    "query": "Ramayana",
+    "results": [
+      {
+        "document": "Shrimad Valmiki Ramayana (Hindi Edition) - Valmiki.pdf",
+        "score": 1.0,
+        "rank": 1,
+        "source": "filename"
+      },
+      {
+        "document": "tamil-ramayanam-326-page.pdf",
+        "score": 1.0,
+        "rank": 2,
+        "source": "filename"
+      },
+      {
+        "document": "Valmiki Ramayanam Baalakanda- N Ranganatha sharma.pdf",
+        "score": 1.0,
+        "rank": 3,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.18,
+    "result_count": 3
+  },
+  {
+    "method": "metadata",
+    "query": "Ramayana",
+    "results": [
+      {
+        "document": "Shrimad Valmiki Ramayana (Hindi Edition) - Valmiki.pdf",
+        "score": 1.0,
+        "rank": 1,
+        "source": "metadata"
+      },
+      {
+        "document": "tamil-ramayanam-326-page.pdf",
+        "score": 1.0,
+        "rank": 2,
+        "source": "metadata"
+      },
+      {
+        "document": "Valmiki Ramayanam Baalakanda- N Ranganatha sharma.pdf",
+        "score": 1.0,
+        "rank": 3,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.21,
+    "result_count": 3
+  },
+  {
+    "method": "bm25",
+    "query": "Ramayana",
+    "results": [
+      {
+        "document": "Vishnu Puran Eng sans",
+        "score": 4.79814616354682,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "Nakshatras complete",
+        "score": 4.528784850934853,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "Laghu-yoga-vasishta-English",
+        "score": 4.2551245623048235,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "Science_and_Astronomy_IJTK 13(4) 716-724",
+        "score": 4.156493610362258,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "Solar_Eclipse_Om",
+        "score": 4.156493610362258,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "ShivaSutras",
+        "score": 3.9380455147079263,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "Vidur-Niti_sanskrit",
+        "score": 3.7359239958674135,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "18-maha-puranas-in-english",
+        "score": 3.6975912246261573,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "\u0930\u093e\u092e\u093e\u092f\u0923_\u0915\u093e\u0932_\u0915\u0947_\u0905\u0938\u094d\u0924\u093f\u0924\u094d\u0935_\u0915\u0947_\u0938\u092c\u0942\u0924",
+        "score": 3.637156917391104,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "ALL Puran English",
+        "score": 3.5451288183117553,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 0.36,
+    "result_count": 10
+  },
+  {
+    "method": "filename",
+    "query": "purana stories",
+    "results": [
+      {
+        "document": "Harivamsha-Purana-Gitapress.pdf",
+        "score": 0.3,
+        "rank": 1,
+        "source": "filename"
+      },
+      {
+        "document": "Linga-Puranam.pdf",
+        "score": 0.3,
+        "rank": 2,
+        "source": "filename"
+      },
+      {
+        "document": "MarkandeyaPuranamu.pdf",
+        "score": 0.3,
+        "rank": 3,
+        "source": "filename"
+      },
+      {
+        "document": "PU010-BrahmaPuranamu-1To3.pdf",
+        "score": 0.3,
+        "rank": 4,
+        "source": "filename"
+      },
+      {
+        "document": "Padma-Puranam.pdf",
+        "score": 0.3,
+        "rank": 5,
+        "source": "filename"
+      },
+      {
+        "document": "Scanda-Puranam-Telugu.pdf",
+        "score": 0.3,
+        "rank": 6,
+        "source": "filename"
+      },
+      {
+        "document": "VaisakhaPuranam-1.pdf",
+        "score": 0.3,
+        "rank": 7,
+        "source": "filename"
+      },
+      {
+        "document": "agni-puranam (1).pdf",
+        "score": 0.3,
+        "rank": 8,
+        "source": "filename"
+      },
+      {
+        "document": "basava-puranam-telugu.pdf",
+        "score": 0.3,
+        "rank": 9,
+        "source": "filename"
+      },
+      {
+        "document": "bhavishyapuranam-telugu.pdf",
+        "score": 0.3,
+        "rank": 10,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.25,
+    "result_count": 10
+  },
+  {
+    "method": "metadata",
+    "query": "purana stories",
+    "results": [
+      {
+        "document": "Harivamsha-Purana-Gitapress.pdf",
+        "score": 0.5,
+        "rank": 1,
+        "source": "metadata"
+      },
+      {
+        "document": "5_6334447321257870315.pdf",
+        "score": 0.5,
+        "rank": 2,
+        "source": "metadata"
+      },
+      {
+        "document": "vayu-puran.pdf",
+        "score": 0.5,
+        "rank": 3,
+        "source": "metadata"
+      },
+      {
+        "document": "Linga-Puranam.pdf",
+        "score": 0.5,
+        "rank": 4,
+        "source": "metadata"
+      },
+      {
+        "document": "MarkandeyaPuranamu.pdf",
+        "score": 0.5,
+        "rank": 5,
+        "source": "metadata"
+      },
+      {
+        "document": "PU010-BrahmaPuranamu-1To3.pdf",
+        "score": 0.5,
+        "rank": 6,
+        "source": "metadata"
+      },
+      {
+        "document": "Padma-Puranam.pdf",
+        "score": 0.5,
+        "rank": 7,
+        "source": "metadata"
+      },
+      {
+        "document": "Scanda-Puranam-Telugu.pdf",
+        "score": 0.5,
+        "rank": 8,
+        "source": "metadata"
+      },
+      {
+        "document": "VaisakhaPuranam-1.pdf",
+        "score": 0.5,
+        "rank": 9,
+        "source": "metadata"
+      },
+      {
+        "document": "agni-puranam (1).pdf",
+        "score": 0.5,
+        "rank": 10,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.33,
+    "result_count": 10
+  },
+  {
+    "method": "bm25",
+    "query": "purana stories",
+    "results": [
+      {
+        "document": "Narad Puran 4",
+        "score": 6.59725500055354,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "Narsimha Puran",
+        "score": 6.287437225349832,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "Varah puran 1",
+        "score": 6.143144866775044,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "Matasya Puran 1",
+        "score": 5.99925539924727,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "ALL Puran English",
+        "score": 5.949097240360349,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "Varah puran 2",
+        "score": 5.933041491070364,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "5_6334447321257870315",
+        "score": 5.927729247368738,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "Brahm Vaivart Puran 3",
+        "score": 5.921638967414273,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "Vishnu Dharmotra Puran",
+        "score": 5.881234941898068,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "18-maha-puranas-in-english",
+        "score": 5.797464795549413,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 0.57,
+    "result_count": 10
+  },
+  {
+    "method": "filename",
+    "query": "tantra mantra",
+    "results": [
+      {
+        "document": "ArthurAvalonKularnavaTantraEng.pdf",
+        "score": 0.3,
+        "rank": 1,
+        "source": "filename"
+      },
+      {
+        "document": "Power of Mantra.pdf",
+        "score": 0.3,
+        "rank": 2,
+        "source": "filename"
+      },
+      {
+        "document": "harinama-mahamantra 10th ed (hindi)-1-.pdf",
+        "score": 0.3,
+        "rank": 3,
+        "source": "filename"
+      },
+      {
+        "document": "mantra-vigyan.pdf",
+        "score": 0.3,
+        "rank": 4,
+        "source": "filename"
+      },
+      {
+        "document": "panchatantrasanskrithindi-jpmishra1910.pdf",
+        "score": 0.3,
+        "rank": 5,
+        "source": "filename"
+      },
+      {
+        "document": "selected Mantras_English.pdf",
+        "score": 0.3,
+        "rank": 6,
+        "source": "filename"
+      },
+      {
+        "document": "maa-kamakhya-mantra-sadhana.pdf",
+        "score": 0.3,
+        "rank": 7,
+        "source": "filename"
+      },
+      {
+        "document": "shabar-mantra-sadhna-evam-siddhi-in-hindi-pdf.pdf",
+        "score": 0.3,
+        "rank": 8,
+        "source": "filename"
+      },
+      {
+        "document": "SHAKTA PRAMOD TANTRA.pdf",
+        "score": 0.3,
+        "rank": 9,
+        "source": "filename"
+      },
+      {
+        "document": "2015.541564.Uddish-tantram.pdf",
+        "score": 0.3,
+        "rank": 10,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.24,
+    "result_count": 10
+  },
+  {
+    "method": "metadata",
+    "query": "tantra mantra",
+    "results": [
+      {
+        "document": "\u092a\u0902\u091a\u0924\u0902\u0924\u094d\u0930_\u0915\u0940_\u0932\u094b\u0915\u092a\u094d\u0930\u093f\u092f_\u0915\u0939\u093e\u0928\u093f\u092f\u093e\u0902.pdf",
+        "score": 0.5,
+        "rank": 1,
+        "source": "metadata"
+      },
+      {
+        "document": "ArthurAvalonKularnavaTantraEng.pdf",
+        "score": 0.5,
+        "rank": 2,
+        "source": "metadata"
+      },
+      {
+        "document": "Power of Mantra.pdf",
+        "score": 0.5,
+        "rank": 3,
+        "source": "metadata"
+      },
+      {
+        "document": "harinama-mahamantra 10th ed (hindi)-1-.pdf",
+        "score": 0.5,
+        "rank": 4,
+        "source": "metadata"
+      },
+      {
+        "document": "mantra-vigyan.pdf",
+        "score": 0.5,
+        "rank": 5,
+        "source": "metadata"
+      },
+      {
+        "document": "panchatantrasanskrithindi-jpmishra1910.pdf",
+        "score": 0.5,
+        "rank": 6,
+        "source": "metadata"
+      },
+      {
+        "document": "selected Mantras_English.pdf",
+        "score": 0.5,
+        "rank": 7,
+        "source": "metadata"
+      },
+      {
+        "document": "maa-kamakhya-mantra-sadhana.pdf",
+        "score": 0.5,
+        "rank": 8,
+        "source": "metadata"
+      },
+      {
+        "document": "shabar-mantra-sadhna-evam-siddhi-in-hindi-pdf.pdf",
+        "score": 0.5,
+        "rank": 9,
+        "source": "metadata"
+      },
+      {
+        "document": "SHAKTA PRAMOD TANTRA.pdf",
+        "score": 0.5,
+        "rank": 10,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.29,
+    "result_count": 10
+  },
+  {
+    "method": "bm25",
+    "query": "tantra mantra",
+    "results": [
+      {
+        "document": "ArthurAvalonKularnavaTantraEng",
+        "score": 6.354125911822491,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "Vigyan Bhairav Tantra, Vol 1 (1)",
+        "score": 6.270553573321976,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "ShivaSutras",
+        "score": 6.169001159276136,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "Sushruta-Samhita",
+        "score": 6.152764792706313,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "Vigyan Bhairav Tantra, Vol 2 (1)",
+        "score": 6.0673635728049975,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "Narad Puran 3",
+        "score": 5.783176789767166,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "vimanikaShastraEnglish",
+        "score": 5.727945084011221,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "the_vimanika_shastra",
+        "score": 5.727945084011221,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "The Vimanika Shastra by Maharshi Bharadwaaja,Propounded by Venerable SUBBARAYA SHASTRY (z-lib.org)",
+        "score": 5.727945084011221,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "Brahmand Puran 5",
+        "score": 5.676362697921023,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 0.57,
+    "result_count": 10
+  },
+  {
+    "method": "filename",
+    "query": "vedic mathematics",
+    "results": [
+      {
+        "document": "28Nakshatras-TheRealSecretsofVedicAstrologyAne-book.docx",
+        "score": 0.3,
+        "rank": 1,
+        "source": "filename"
+      },
+      {
+        "document": "vedic_astro_textbook.pdf",
+        "score": 0.3,
+        "rank": 2,
+        "source": "filename"
+      },
+      {
+        "document": "Thompson_Richard_L._(aka_Sadaputa_dasa)_-_Vedic_Cosmography_and_Astronomy.pdf",
+        "score": 0.3,
+        "rank": 3,
+        "source": "filename"
+      },
+      {
+        "document": "from Vedic Science to Vedant.pdf",
+        "score": 0.3,
+        "rank": 4,
+        "source": "filename"
+      },
+      {
+        "document": "Raja Ram Mohan Roy - Vedic Physics_ Scientific Origin of Hinduism.pdf",
+        "score": 0.3,
+        "rank": 5,
+        "source": "filename"
+      },
+      {
+        "document": "Ayurvedic Upay.pdf",
+        "score": 0.3,
+        "rank": 6,
+        "source": "filename"
+      },
+      {
+        "document": "14. A Study of Ayurvedic Style of Cooking and It\u2019s Influence in Day to Day Life (Article) Author Dr Kiran Shende,Mr Rahul Bhalekar.pdf",
+        "score": 0.3,
+        "rank": 7,
+        "source": "filename"
+      },
+      {
+        "document": "4. An Ayurvedic Approach to Losing Weigh Author Banyan Botanicals.pdf",
+        "score": 0.3,
+        "rank": 8,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.28,
+    "result_count": 8
+  },
+  {
+    "method": "metadata",
+    "query": "vedic mathematics",
+    "results": [
+      {
+        "document": "28Nakshatras-TheRealSecretsofVedicAstrologyAne-book.docx",
+        "score": 0.5,
+        "rank": 1,
+        "source": "metadata"
+      },
+      {
+        "document": "vedic_astro_textbook.pdf",
+        "score": 0.5,
+        "rank": 2,
+        "source": "metadata"
+      },
+      {
+        "document": "Thompson_Richard_L._(aka_Sadaputa_dasa)_-_Vedic_Cosmography_and_Astronomy.pdf",
+        "score": 0.5,
+        "rank": 3,
+        "source": "metadata"
+      },
+      {
+        "document": "from Vedic Science to Vedant.pdf",
+        "score": 0.5,
+        "rank": 4,
+        "source": "metadata"
+      },
+      {
+        "document": "Raja Ram Mohan Roy - Vedic Physics_ Scientific Origin of Hinduism.pdf",
+        "score": 0.5,
+        "rank": 5,
+        "source": "metadata"
+      },
+      {
+        "document": "Ayurvedic Upay.pdf",
+        "score": 0.5,
+        "rank": 6,
+        "source": "metadata"
+      },
+      {
+        "document": "14. A Study of Ayurvedic Style of Cooking and It\u2019s Influence in Day to Day Life (Article) Author Dr Kiran Shende,Mr Rahul Bhalekar.pdf",
+        "score": 0.5,
+        "rank": 7,
+        "source": "metadata"
+      },
+      {
+        "document": "4. An Ayurvedic Approach to Losing Weigh Author Banyan Botanicals.pdf",
+        "score": 0.5,
+        "rank": 8,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.36,
+    "result_count": 8
+  },
+  {
+    "method": "bm25",
+    "query": "vedic mathematics",
+    "results": [
+      {
+        "document": "Ancient Indian Scientific Thought (1)",
+        "score": 8.055626880100592,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "from Vedic Science to Vedant",
+        "score": 7.396580329447836,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "vedic_astro_textbook",
+        "score": 7.202369343339532,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "Thompson_Richard_L._(aka_Sadaputa_dasa)_-_Vedic_Cosmography_and_Astronomy",
+        "score": 7.0349766345644325,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "Raja Ram Mohan Roy - Vedic Physics_ Scientific Origin of Hinduism",
+        "score": 6.659059456779993,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "Power of Mantra",
+        "score": 6.1811372152993505,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "raman-how-to-judge-horoscope-1",
+        "score": 5.643550669172412,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "Kundalini eng",
+        "score": 5.425650984979168,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "Mantreswara_s__Phaladeeplka",
+        "score": 5.235615675851489,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "The Vimanika Shastra by Maharshi Bharadwaaja,Propounded by Venerable SUBBARAYA SHASTRY (z-lib.org)",
+        "score": 5.113748845041956,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 0.72,
+    "result_count": 10
+  },
+  {
+    "method": "filename",
+    "query": "Sushruta surgery",
+    "results": [
+      {
+        "document": "Sushruta-Samhita.pdf",
+        "score": 0.3,
+        "rank": 1,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.22,
+    "result_count": 1
+  },
+  {
+    "method": "metadata",
+    "query": "Sushruta surgery",
+    "results": [
+      {
+        "document": "Sushruta-Samhita.pdf",
+        "score": 0.5,
+        "rank": 1,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.24,
+    "result_count": 1
+  },
+  {
+    "method": "bm25",
+    "query": "Sushruta surgery",
+    "results": [
+      {
+        "document": "2. History of Ayurveda a Heritage of Healing Author Poliklinika Harni",
+        "score": 14.703647210751686,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "18. Theory of Ayurveda (Presentation) Author Dr Chakra Pany Sharma",
+        "score": 13.552108770860787,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "Sushruta-Samhita",
+        "score": 13.53288817458808,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "3. My Health My Responsibility Ayu Samvad Ayurveda for Covid 19 Author Shri Shripad Yasso Naik,Padmashree Vaidya Rajesh Kotecha,Shri Pramod Kumar Pathak",
+        "score": 11.66925258909796,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "17. Introduction to system of medicine Author  Department of Collegiate Education Government of Karnataka India",
+        "score": 11.012208829668747,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "12. Concept of Personality Type in West and in Ayurveda (Article) Author Rudrani Mukherjee",
+        "score": 7.967800892478536,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "Garud Puran complete",
+        "score": 7.870045053326206,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "11. Concept of Psychology &amp; the Mind in Ayurved Author Maheshkumar Nilkanth Chaudhari",
+        "score": 6.883500196182311,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "9. Concepts of Human Physiology in Ayurveda Author Kishor Patwardhan",
+        "score": 6.796161489763683,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "Ancient Indian Scientific Thought (1)",
+        "score": 6.665643840625858,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 0.52,
+    "result_count": 10
+  },
+  {
+    "method": "filename",
+    "query": "Kundalini yoga",
+    "results": [
+      {
+        "document": "Kundalini-the-evolutionary-energy-in-man-by-Gopi-Krishna.pdf",
+        "score": 0.3,
+        "rank": 1,
+        "source": "filename"
+      },
+      {
+        "document": "Laghu-yoga-vasishta-English.pdf",
+        "score": 0.3,
+        "rank": 2,
+        "source": "filename"
+      },
+      {
+        "document": "Yoga-rasayanam-sanskrit-hindi.pdf",
+        "score": 0.3,
+        "rank": 3,
+        "source": "filename"
+      },
+      {
+        "document": "super brainYoga_Research-English.pdf",
+        "score": 0.3,
+        "rank": 4,
+        "source": "filename"
+      },
+      {
+        "document": "Kundalini Yog - Dr. Rakesh Giri.pdf",
+        "score": 0.3,
+        "rank": 5,
+        "source": "filename"
+      },
+      {
+        "document": "Kundalini eng.pdf",
+        "score": 0.3,
+        "rank": 6,
+        "source": "filename"
+      },
+      {
+        "document": "Shri-Yogavasishtha-1.pdf",
+        "score": 0.3,
+        "rank": 7,
+        "source": "filename"
+      },
+      {
+        "document": "Shri-Yogavasishtha-2.pdf",
+        "score": 0.3,
+        "rank": 8,
+        "source": "filename"
+      },
+      {
+        "document": "Shri-Yogavasishtha-3.pdf",
+        "score": 0.3,
+        "rank": 9,
+        "source": "filename"
+      },
+      {
+        "document": "Shri-Yogavasishtha-4.pdf",
+        "score": 0.3,
+        "rank": 10,
+        "source": "filename"
+      }
+    ],
+    "latency_ms": 1.29,
+    "result_count": 10
+  },
+  {
+    "method": "metadata",
+    "query": "Kundalini yoga",
+    "results": [
+      {
+        "document": "Copy of \u092f\u094b\u0917\u0940_\u0915\u0925\u093e\u092e\u0943\u0924_\u092a\u0930\u092e\u0939\u0902\u0938_\u092f\u094b\u0917\u093e\u0928\u0902\u0926.pdf",
+        "score": 0.5,
+        "rank": 1,
+        "source": "metadata"
+      },
+      {
+        "document": "\u092f\u094b\u0917\u0940_\u0915\u0925\u093e\u092e\u0943\u0924_\u092a\u0930\u092e\u0939\u0902\u0938_\u092f\u094b\u0917\u093e\u0928\u0902\u0926.pdf",
+        "score": 0.5,
+        "rank": 2,
+        "source": "metadata"
+      },
+      {
+        "document": "Kundalini-the-evolutionary-energy-in-man-by-Gopi-Krishna.pdf",
+        "score": 0.5,
+        "rank": 3,
+        "source": "metadata"
+      },
+      {
+        "document": "Laghu-yoga-vasishta-English.pdf",
+        "score": 0.5,
+        "rank": 4,
+        "source": "metadata"
+      },
+      {
+        "document": "Yoga-rasayanam-sanskrit-hindi.pdf",
+        "score": 0.5,
+        "rank": 5,
+        "source": "metadata"
+      },
+      {
+        "document": "sby-a-research-study.pdf",
+        "score": 0.5,
+        "rank": 6,
+        "source": "metadata"
+      },
+      {
+        "document": "super brainYoga_Research-English.pdf",
+        "score": 0.5,
+        "rank": 7,
+        "source": "metadata"
+      },
+      {
+        "document": "Kundalini Yog - Dr. Rakesh Giri.pdf",
+        "score": 0.5,
+        "rank": 8,
+        "source": "metadata"
+      },
+      {
+        "document": "Kundalini eng.pdf",
+        "score": 0.5,
+        "rank": 9,
+        "source": "metadata"
+      },
+      {
+        "document": "Shri-Yogavasishtha-1.pdf",
+        "score": 0.5,
+        "rank": 10,
+        "source": "metadata"
+      }
+    ],
+    "latency_ms": 1.33,
+    "result_count": 10
+  },
+  {
+    "method": "bm25",
+    "query": "Kundalini yoga",
+    "results": [
+      {
+        "document": "Kundalini eng",
+        "score": 8.216248501099267,
+        "rank": 1,
+        "source": "bm25"
+      },
+      {
+        "document": "Kundalini-the-evolutionary-energy-in-man-by-Gopi-Krishna",
+        "score": 8.150034744767595,
+        "rank": 2,
+        "source": "bm25"
+      },
+      {
+        "document": "Nakshatras complete",
+        "score": 7.796815208155072,
+        "rank": 3,
+        "source": "bm25"
+      },
+      {
+        "document": "Chakras",
+        "score": 7.729925789035752,
+        "rank": 4,
+        "source": "bm25"
+      },
+      {
+        "document": "ShivaSutras",
+        "score": 7.441397221819284,
+        "rank": 5,
+        "source": "bm25"
+      },
+      {
+        "document": "Laghu-yoga-vasishta-English",
+        "score": 7.3211144903623,
+        "rank": 6,
+        "source": "bm25"
+      },
+      {
+        "document": "Vigyan Bhairav Tantra, Vol 2 (1)",
+        "score": 7.01293289921319,
+        "rank": 7,
+        "source": "bm25"
+      },
+      {
+        "document": "CHAKRAS-ENERGY-VORTEXES-BOOK-1",
+        "score": 6.741563075078566,
+        "rank": 8,
+        "source": "bm25"
+      },
+      {
+        "document": "ArthurAvalonKularnavaTantraEng",
+        "score": 6.455146621755785,
+        "rank": 9,
+        "source": "bm25"
+      },
+      {
+        "document": "Narad Panchatatra 1",
+        "score": 6.4395970033080845,
+        "rank": 10,
+        "source": "bm25"
+      }
+    ],
+    "latency_ms": 0.54,
+    "result_count": 10
+  }
+]

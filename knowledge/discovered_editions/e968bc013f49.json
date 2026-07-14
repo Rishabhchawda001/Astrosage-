@@ -1,0 +1,99 @@
+{
+  "title": "\u0938\u093e\u092e\u0935\u0947\u0926",
+  "discovered_at": "2026-07-13T17:42:17.187113+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "vtju_1_20240611_20240611_1215",
+      "title": "\u0938\u093e\u092e\u0935\u0947\u0926 \u0939\u0930\u093f\u0936\u0930\u0923 \u0938\u093f\u0926\u094d\u0927\u093e\u0902\u0924\u093e\u0932\u0902\u0915\u093e\u0930 1",
+      "creator": "Granth-Nidhi",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "fyro_sam-veda-2",
+      "title": "Sam Veda 2",
+      "creator": "Granth-Nidhi",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wg188",
+      "title": "2001 -Samvediya Gruhyasutro Ke Vibhinn Paksho Ka Samikshatmak Adhyayan",
+      "creator": "Vimlesh",
+      "year": 2001,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7134169684",
+      "title": "\u092d\u0930\u0924\u092f \u091c\u091e\u0928 \u092a\u0930\u092a\u0930 \u092e \u0935\u0926 \u0915 \u092d\u092e\u0915",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.65403/bhairavi.vol30.022",
+      "authors": [
+        "\u0921\u0949. \u0936\u0940\u0932\u093e \u091d\u093e"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3129034347",
+      "title": "RELATIONSHIP BETWEEN RAGA RAGINI AND ENVIRONMENT",
+      "year": 2015,
+      "is_oa": true,
+      "oa_url": "https://www.granthaalayahpublication.org/journals/index.php/granthaalayah/article/download/IJRG15_S09_117/3149",
+      "authors": [
+        "Varsha Agrawal"
+      ]
+    }
+  ]
+}

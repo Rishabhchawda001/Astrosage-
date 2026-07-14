@@ -1,0 +1,10148 @@
+# Vishnu Puran Eng sans
+
+**Document ID:** DOC-3E519F753390
+**Language:** english (latin)
+**Pages:** 671
+**Class:** ocr_overlay
+**SHA256:** `3e519f75339026f99d1c88e4379af9f371782d78e3f7af6413c16e75d9688001`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+THE VISNU-PURANAM
+BOOK I
+WATT:
+
+CHAPTER 1
+Wwe SEATT: 1
+
+Cagereron, wert wit derer we:,
+WIRTH)
+ao TA WTA aTgeATA
+find & qusttenat aret fester
+wees eae TeET TIT I
+OM ! glory to Vasudeva'— Victory be to
+you, Pundarikaksa, adoration be’ to you,
+Visvabhavana; glory be to you, Hrsikega,
+Mahapurusa, and Parvaja’.
+Wea Fe TAR: JA
+uifergty-Ratt-are-aera: 1
+WA-GaMS- TTA TTS T:
+a aiseg feuplfa-yfet-githe: nt 201
+May that Visnu, who is the existent,
+imperishable, Brahma, who is Ivara, who is
+spirit;* who with the three qualities’ is the
+cause of creation, preservation, and
+destruction; who is the parent of nature,
+intellect, and the other ingredients of the
+universe’; be to us the bestrew of
+understanding, wealth and final emancipation.
+wore feral fertet wenety wforacr
+We woes aera yor Arar gH
+fereregeror AecerAATTTAY
+eigmenfenest afesararerr X11
+wnt yhat aaqaifeatrry
+Aaa: atoms wftraentirarer a 411
+Having adored Visnu’, the lord of all, and
+paid reverence to Brahma and the rest®; having
+also saluted the spiritual preceptor, I will
+narrate a Purana equal in sanctity to the Vedas,
+Maitreya,’ having saluted him reverentially,
+
+thus addressed Paragara, the excellent sage, the
+grandson of Vasistha, who was versed in
+traditional history and the Puranas; who was
+acquainted with the Vedas and the branches of
+science dependent upon them; and skilled in
+law and philosophy; and who had performed
+the morning rites of devotion.
+
+Wa sara
+
+wail fe aqreerratanfiaet We
+entgrentar Galton Sargtht aerATTN «II
+OTE YRAS ART ATTA
+mere wdereg wag ashy fafea:i 01
+Aisefirenth anit: stg carat ger TT
+aya year sat werart sfaeafen c1
+
+wrag og ger aaa
+
+ciate ger aa crates aa a8
+
+aamonft ynht Fars wTaT
+
+AAR UAT TPIT TT Ya oll
+
+Wide tert wat gfe
+
+Maitreya said— Master! I have been
+instructed by you in the whole of the Vedas,
+and in the institutes of law and of sacred
+science; through your favour, other men, even
+though they be my foes, cannot accuse me of
+having been remiss in the acquirement of
+knowledge. I am now desirous, oh you who
+are profound in piety! to hear from you, how
+this world was, and how in future it will be?
+What is its substance, oh Brahman, and
+whence proceeded animate and inanimate
+things? Into what has it been resolved, and
+into what will its dissolution again occur?
+How were the elements manifested? Whence
+proceeded the gods and other beings? What
+are the situation and extent of the oceans and
+the mountains, the earth, the sun, and the
+planets?
+
+## Page 2
+
+2 THE VISNU-PURANAM
+Rardat wen dey AY Werf a gat Afarenta wed act waHA APA:
+merry arifaacuia upniaaernry arprererraata rN ATTHT: TN BV
+HUTT SUS YEIMAET FT LI vantneniorrderarcet wea: |
+tafdnttarrs aft are aptater wer mle are aT Aa TaN BH
+ASMSTMUTETT BUTTS SATAN V3 aret Prematdeteterranteiir:1
+
+enigs gretoretat aan ase
+
+Raftresrag wed tact afer es
+
+Berl Waewant Heer wT ATA
+
+Raretariat ASTATTATTAN Re
+
+What are the families of the gods and
+others, the Manus, the period, called
+Manvantaras, those termed Kalpas, and their
+sub-divisions, and the four ages: the events
+that happen at the close of a Kalpa, and the
+terminations of the several ages'': the
+histories, oh great Muni of the gods, the sages,
+and kings; and how the Vedas were divided
+into branches (or schools), after they had been
+arranged by Vyasa; the duties of the
+Brahmanas, and the other tribes, as well as of
+those who pass through the different orders of
+life ? All these things 1 wish to hear from
+you, grandson of Vasistha. Incline your
+thoughts benevolently towards me, that I may,
+through your favour, be informed of all I
+desire to know.
+WII Sarr
+
+ag 39 nis onftiste goa
+
+faq: frat & stray afast agare gu 2g
+
+feonfiamgent teen afarat wat
+
+Serene: Bre Area ATATGeT I go
+
+aaisé Terat wt fare BAT
+
+retereer preterethey Wa Freee: ke
+
+aa: Wefteronttg ag wet: Fae:
+
+Trae werent afer wferartg: 1 ¢e
+
+ear ae Wea a!
+
+Tere aE fget farfeet TAM Rou
+
+qerras wale wet Wraat Hea:
+
+SAM A GH: BT TA: STITH FAN 2 WW
+
+wea & ferred arareret fe ATA Iw
+
+Parasara replied— Well inquired, pious
+Maitreya, You recall to my recollection that
+which was of old narrated by my father's
+father, Vasistha, I had heard that my father had
+been devoured by a Raksasa employed by
+Visvamitra: violent anger seized me, and I
+commenced a sacrifice for the destruction of
+the Raksasas: hundreds of them were reduced
+to ashes by the rite, when, as they- were about
+to be entirely extirpated, my grandfather Vasis
+tha thus spoke to me: Enough, my child; let
+your wrath be appeased : the Raksasas are not
+culpable: your father's death was the work of
+destiny. Anger is the passion of fools; it
+becomes not a wise man. By whom. It may be
+asked, is any one killed? Every man reaps the
+consequences of his own acts. Anger, my son,
+is the destruction of all that man obtains by
+arduous exertions, of fame, and of devout
+austerities; and prevents the attainment of
+heaven or of emancipation. The chief sages
+always shun wrath: be not you, my child,
+subject to its influence. Let no more of these
+unoffending spirits of darkness be consumed.
+Mercy is the might of the righteous’?
+
+Ue mat Aareaytat wee
+
+SHA ETA Tt MURATA Ft
+
+Wa: Wa: GT Tay afaBt yfrae:
+
+TOMA AT YA YOR TAIT: YAN EM
+faeraet ened: qarerafere:1
+
+agar weit Aa Yor: VON
+
+a weft aarearg yen aTAT
+
+TA TATEMT aL PTT ereeaf 2 eH
+wat war: HUT at: Fa
+
+A THAT SETA HSTATAN VV
+
+## Page 3
+
+BOOK I, CHAP. 1
+
+3
+
+qourdigaaat wary ace ufacatan
+Ramus TaTag AT ATTN 3 ot
+yaw a faga w advan Aft:
+Teraraearern ta ace faa 8 gt
+Aer wa wre afaat afsrarte:
+Wore ages & weir afereafarn 3 ait
+
+Being thus admonished by my venerable
+grandsire, I immediately desisted from the rite,
+in obedience to his injunctions, and Vasistha,
+the most excellent of sages, was connect with
+me. Then arrived Pulastya, the son of
+Brahma," who’ was received by my
+grandfather with the customary marks of
+respect. The illustrious brother of Pulaha said
+to me: Since, in the violence of animosity. you
+have listened to the words of your progenitor,
+and have exercised clemency, therefore you
+shall become learned in every science: since
+you have forborne, even though incensed, to
+destroy my posterity, I will bestow upon you
+another boon, and you shall become the author
+of a summary of the Puranas; you shall know
+the true nature of the deities, as it really is;
+and, whether engaged in religious rites, or
+abstaining from their performance,'* your
+understanding, through my favour, shall be
+perfect, and exempt from doubts. Then my
+grandsire Vasistha added: Whatever has been
+said to you by Pulastya, shall assuredly come
+to pass.
+
+fa ya fees yore @ iT
+ages aq Olt art rereTfaet WANE BH
+sé aerate F Ade uitgER
+Yuoreieat aerR at Prater aaraerq 3 sit
+fat: Tar TEE WY Aaa UY
+feafe-danarcisat soitser et gut
+ster sitfereryyeret wermigt weretseara: 1 Qu
+Now truly all that was told me formerly by
+Vasistha, and by the wise Pulastya, has been
+brought to my recollection by your questions,
+
+and I will relate to you the whole, even all you
+have asked. Listen to the complete
+
+compendium of the Puranas, according to its
+tenor. The world was produced from Visnu : it
+exists in him: he is the cause of its continuance
+and cessation: he is the world.'®
+
+wie
+
+NOTES
+1. ait FH aTazarT An address of this kind, to
+one or other Hindu divinity, usually introduces
+Sanskrit compositions, especially those considered
+sacred. The first term of this mantra or brief prayer.
+Om or Ornkara, is well known as a combination of
+letters invested by Hindu mysticism with peculiar
+sanctity, In the Vedas it is said to comprchend all
+the gods; and in the Puranas it is directed to be
+prefixed to all such formulae as that of the text.
+Thus in the Uttara Khanda of the Padma Purana:
+'The syllable Om, the mysterious name, or Brahma,
+is the leader of all prayers: let it therefore, O
+lovely-faced, (Siva addresses Durga. .) be employed
+in the beginning of all prayers:’ aig: wrel wer
+amt waa aia Fam yw QU
+eee a the same authority, one of the
+mystical imports of the term is the collective
+enunciation of Visnu expressed by A, of Sri his
+bride intimated by u, and of their joint worshipper
+designated by M. A whole chapter of the Vayu
+Purana is devoted to this term. A text of the Vedas
+is there cited: ahfiereat wet ‘Om. the
+monosyllable Brahmé;' the latter meaning either the
+Supreme Being or the Vedas collectively, of which
+this monosyllable is the type. It is also said to
+typify the three spheres of the world, the three holy
+fires, the three steps of Visnu etc.3iftrera at Jererat
+crest: | fasta Frequent meditation
+upon it, and repetition of it, ensure release from
+worldly existence, Sagar we st
+set TE a en Waa
+eaaaen: | atact Prfet wert fia wetter: See
+also Manu, II. 76. Vasudeva, a name of Visnu or
+Krsna, is according to its grammatical etymology, a
+patronymic derivative implying son of Vasudeva.
+The Vaisnava Puranas, however, devise other
+explanations: see the next chapter, and again, b. VI.
+5. .
+2. In this stanza occurs a series of the
+appellations of Visnu: I. Pundarikaksa, having eyes
+like a lotus, or heart-pervading; or Pundarika is
+explained supreme glory, and Aksa imperishable:
+
+## Page 4
+
+4
+
+THE VISNU-PURANAM
+
+the first is the most usual etymon, 2. ViSvabhavana,
+the creator of the universe, or the cause of the
+existence of all things. 3. Hrshikega, lord of the
+senses. 4. Mahapurusa, great or supreme spirit;
+purusa meaning that which abides or is quiescent in
+body (puri sete). 5. Purvaja, produced or appearing
+before creation; the Orphic ‘npm@toy ovos'. In the
+fifth book, c. 18, Visnu is described by five
+appellations, which are considered analogous to
+these; or, I, Bhdtatma, one with created things, or
+Pundarikaksa; 2. Pradhandtma, one with crude
+nature, or Vigvabhavana : 3. Indriyatma, one with
+the senses, or Hrshikesa : 4. Paramatma, supreme
+spirit, or Mahapurusa : and Atmi, soul; living soul,
+animating nature and existing before it, or Parvaja.
+
+3. Brahma, in the neuter form, is abstract
+supreme spirit: and Ivara is the Deity in his active
+nature, he who is able to do or leave undone, or to
+do any thing in any other manner than that in which
+it is done: eiradaen ad wae: |
+
+4. Puman which is the same with Purusa,
+incorporated spirit. By this and the two preceding
+terms also the commentator understands the text to
+signify that Visnu is any form of spiritual being that
+is acknowledged by different philosophical
+systems, or that he is the Brahma of the Vedanta,
+the Isvara of the Patafijala, and the Purusa of the
+Sarhkhya school.
+
+5. The three qualities, to which we shall have
+further occasion to advert, are Satya (ar),
+goodness or purity, knowledge, quiescence; Rajas,
+foulness, passion, activity; and Tamas, darkness,
+ignorance, inertia.
+
+6. Pradhanabuddhyadisih. This predicate of the
+Deity distinguishes most of the Puranas from
+several of the philosophical systems, which
+maintain, as did the earliest Grecian systems of
+cosmogony, the eternal and independent existence
+of the first principle of things, as nature, matter, or
+chaos. Accordingly, the commentator notices the
+objection. Pradhina being without beginning, it is
+said how can Visnu be its parent? To which he
+replies, that this is not so, for in a period of worldly
+destruction (Pralaya), when the Creator desists
+from creating, nothing is generated by virtue of any
+other energy or parent. Or, if this be not
+satisfactory, then the text may be understood to
+imply that intellect (Buddhi) etc, are formed
+
+through the materiality of crude nature, or
+Pradhdna.
+
+7. Visnu is commonly derived in the Puranas
+from the root Vis, to enter, entering into, or
+pervading the universe, agreeably to the text of the
+Vedas, gel \ "Having created that
+(world), he then afterwards enters into it; being, as
+our comment observes, undistinguished by place,
+time, or property; Saran oTaSerTar!
+According to the Matsya Purana the name alludes
+to his entering into the mundane egg: according to
+the Padma Purana, to his entering into or com-
+bining with Prakrti, as Purusa or spirit: 8 Ga Wary
+fae spramnfaaa 1 In the Moksa Dharma of the
+Mahabharata, s. 165, the word is derived from the
+root vi. signifying motion, pervasion, production,
+radiance; or, irregularly, from krama, to go with the
+particle vi, implying, variously, prefixed.
+
+8. Brahma and the rest is said to apply to the
+series of teachers through whom this Purana was
+transmitted from its first reputed author Brahma, to
+its actual narrator, the sage ParaSara. See also b, VI.
+c. 8,
+
+9, The Guru, or spiritual preceptor, is said to be
+Kapila or Sdrasvata: the latter is included in the
+series of teachers of the Purana, Pardsara must be
+considered also as a disciple of Kapila, as a teacher
+of the Sarnkhya philosophy.
+
+10. Maitreya is the disciple of Parasara, who
+relates the Visnu Purana to him; he is also one of
+the chief interlocutors in the Bhagavata, and is
+introduced in the Mahabharata (Vana Parva, s. 10.)
+as a great Rsi, or sage, who denounces
+Duryodhana's death. In the Bhagavata be is also
+termed Kausharavi, or the son of Kusharava.
+
+11. One copy reads Yuga dharma, the duties
+peculiar to the four 14 ages, or their characteristic
+properties, instead of Yuganta.
+
+12. Sacrifice of Parasara. The story of Parasara's
+birth is narrated in detail in the Mahabharata (Adi
+Parva, s. 176). King Kalmasapada meeting with
+Sakti, the son of Vasistha, in a narrow path in a
+thicket, desired him to stand out of his way. The
+sage refused : on which the Raja beat him with his
+whip, and Sakti cursed him to become a Raksasa, a
+man-devouring spirit. The Raja in this
+transformation killed and ate its author, or Sakti,
+together with all the other sons of Vasistha, Sakti
+
+## Page 5
+
+BOOK I, CHAP. 1
+
+5
+
+left his wife Adrisyanti pregnant, and she gave birth.
+to Paragara, who was brought up by his
+grandfather. When he grew up, and was informed
+of his father's death, he instituted a sacrifice for the
+destruction of all the Raksasas, but was dissuaded
+from its completion by Vasistha and other sages or
+Atri, Pulastya, Pulaha, and Kratu. The Mahabharata
+adds, that; when he desisted from the rite, he
+scattered the remaining sacrificial fire upon the
+northern face of the Himalaya mountain, where it
+still blazes forth at the phases of the moon,
+consuming Raksasas, forests, and mountains. The
+legend alludes possibly to some trans-Himalayan
+volcano. The transformation of Kalmasapada is
+ascribed in other places to a different cause; but he
+is every where regarded as the devourer of Sakti or
+Saktri, as the name also occurs. The story is told in
+the Linga Purana (Purvarddha, s. 64) in the same
+manner, with the addition, conformably to the
+Saiva tendency of that work, that Parasara begins
+his sacrifice by propitiating Mahadeva Vasistha's
+dissuasion, and Pulastya's appearance, are given in
+the very words of our text; and the story concludes,
+‘thus through the favour of Pulastya and of the wise
+Vasistha, Parasara composed the Vaisnava (Visnu)
+Purana, containing ten thousand stanzas, and being
+the third of the Purana compilations
+(Puranasamhita). The Bhagavata (b. III. s. 8) also
+alludes, though obscurely, to this legend. In
+recapitulating the succession of the narrators of part
+of the Bhagavata, Maitreya states that this first
+Purana was communicated to him by his Guru
+Purasara, as he had been desired by Pulastya: Ward
+ae F Sages) AA: WI:) YAR WTAE!) ie.
+according to the commentator, agreeably to the
+boon given by Pulastya to Paragara, saying, 'You
+shall be a narrator of Puranas; Wore] feet) The
+Mahabharata makes no mention of the
+communication of this faculty to Parasara by
+Pulastya; and as the Bhagavata could not derive this
+particular from that source, it here most probably
+refers unavowedly, as the Linga does avowedly, to
+the Visnu Purana.
+
+13. Pulastya, as will be presently seen, is one of
+the Rsis. who were the mind-born sons of Brahmi.
+Pulaha. who is here also named, is another.
+Pulastya is considered. as the ancestor of the Raks
+asas, as he is the father of Visravas, the father of
+
+Ravana and his brethren, Uttara Ramayana,
+Mahabharata, Vana Parva. s. 272. Padma Purana
+Linga Purana s. 63.
+
+14. Purana sarihita kartté bhavan bhavisyati.
+You shall be a maker of the Samhita or
+compendium of the Puranas or of the Visnu Purana,
+considered as.a summary or compendium of
+Pauranic traditions, in either sense it is
+incompatible with the general attribution of all the
+Puranas to Vy4sa.
+
+1S. Whether performing the usual ceremonies of
+the Brahmanas. or leading a life of devotion and
+penace. which supersedes the necessity of rites and
+sacrifices.
+
+16, These are, in fact. the brief replies to
+Maitreya's six questions (p. 3). or. How was the
+world created? By Visnu how will it be? At the
+periods of dissolution it will be in Visnu. Whence
+proceeded animate and inanimate things? From
+Visnu. Of what is the substance of the world? Vis
+nu. Into what has it been. and will it agnir be.
+resolved? Visnu. He is therefore both the
+instrumental and material cause of the universe.
+"The answer to the "whence" replies to the query as
+to the instrumental cause: "He is the world” replies
+to the inquiry as to the material cause:' a7
+ware ARI wre a RATEANTEIT!
+‘And by this explanation of the agency of the
+materiality, etc. of Visnu. as regards the universe,
+(it follows that) all will be produced from, and all
+will repose in him:, aaa faa: agen
+
+waa zrenifa: We
+have here precisely the TO nav of the Orphic
+doctrines, and we might fancy that Brucker was
+translating a passage from a-Purina when he
+describes them in these words: "Continuisse Jovem
+(lege Visnum) sive summum deum in se omnia.
+omnibus ortum ex se dedisse, omnia ex se genuisse.
+et ex sua produxisse essentia. Spiritum esse
+universi qui omnia regit vivificat estque; ex quibus
+necessario sequitur omnia in eum reditura." Hist.
+Philos. I. 388. Jamblichus and Proclus also testify
+that the Pythagorean doctrines of the origin of the
+material world from the Deity, and its identity with
+
+* him, were much the same.—Cudworth. 1. c. p. 348.
+
+kkk
+
+## Page 6
+
+THE VISNU-PURANAM
+
+CHAPTER 2
+faitatserra:
+(faupegit:, ofeafra 2)
+
+WI Sarg
+afearnra Yer fear wae
+weeRNTRUTET fereorer Ta FATAN gt
+ait foal wea ETE TI
+argeara ana wifererranftam 31
+VERE BATRA TA:
+serene fear yfmeran 311
+wiftafafaarenat sense STE:
+eng arene ferret wT SH
+
+Paragara said, Glory to the unchangeable,
+holy, eternal, supreme Visnu, of one universal
+nature, the mighty over all : to him who is
+Hiranygarbha. Hari, and Sankara,’ the creator,
+the preserver, and destroycr of the world: to
+Vasudeva, the libcrator of his worshippers: to
+him, whose essence is both single and
+manifold; who is both subtile and corporeal,
+indiscretc and discrete: to Visnu, the cause of
+final emancipation.” Glory to the supreme Vis
+nu, the cause of the creation, existence, and
+end of this world; who is the root of the world,
+and who consists of the world.?
+
++f rater 1
+warer weld PeTTTTI GH
+areerrerataie warda:1
+atarkerster onftegiae: Fer gt
+faraj afoot fererenr fact wit wer my
+WOT, STATA STATS TATLIN 9 1
+arent aor yet aarehyfrerat:
+ye: Ware wrarroralfa: firearm: ct
+aah eRe yy lene!
+areata Taft wel ATCT A
+
+Having glorified him who is the support of
+
+all things; who is the smallest of the small;*
+who is in all created things; the unchanged,
+
+imperishable* Purusottama;* who is one with
+true wisdom, as truly known;’ eternal and
+incorrupt; and who is known through false
+appearances by the nature of visible objects:*
+having bowed to Visnu, the destroyer, and lord
+of creation and preservation; the ruler of the
+world; unborn, imperishable, undecaying: I
+will relate to you that which was originally
+imparted by the great rather of all (Brahma), in
+answer to the questions of Daksa and other
+venerable sages, and repeated by them to
+Purukutsa, a king who reigned on the banks of
+the Narmada. It was next related by him to
+Sarasvata, and by Sarasvata to me.”
+
+WE: WaT Tea: Tea: |
+
+Ruauifariegfagennfeatsta:n Rott
+
+araferremat uftorafgsrati:
+
+afar: waad agi a: wareitfs Here Vet
+
+wart ares Teas S aA:
+
+aa: a argeat fafa: oftwemn een
+
+TRS Te FremoneraTorETy
+
+Varad a Ber Farrar Fier ga
+
+wee Wada STARA
+
+TN Yeretr arerstor a FTA It
+
+Wer Feu we Yer: wert fin
+
+Same Mary BT STAT TTA BGI
+
+wea Tee fe AAI
+
+yah gra: ys aig: wet VaR GH
+
+MEAT ST RTA MATATTET: 1
+
+eunfor Feaftrernireaftreareaeaa: 1! Yon
+
+ark fampewnenh er: set Ua a
+
+wied areata Vet wer Fema ect
+
+Who can describe him who is not to be
+apprehended by the senses: who is the best of
+all things; the supreme soul, self-existent: who
+is devoid of all the distinguishing
+characteristics of complexion, caste, or the
+like; and is exempt from birth, vicissitude,
+death, or decay: who is always, and alone:
+who exists every where, and in whom all
+
+## Page 7
+
+BOOK I, CHAP. 2
+
+7
+
+things here exist; and who is thence named
+Vasudeva!’? He is Brahma,'' supreme, lord,
+eternal, unborn, imperishable, undecaying; of
+one essence; ever pure as free from defects.
+He, that Brahma, was all things;
+comprehending in his own nature the
+indiscreet and discrcte, He then existed in the
+forms of Purusa and of Kala. Purusa (spirit) is
+the first form of the supreme; next proceeded
+two other forms, the discrete and indiscrete;
+and Kala (time) was the last. These four—
+Pradhana (primary or crude matter), Purusa
+(spirit), Vyakta (visible substance), and Kala
+(time)—the wise consider to be the pure and
+supreme condition of Visnu.!?These four
+forms, in their due proportions, are the causes
+of the production of the phenomena of
+creation, preservation, and destruction. Visnu
+being thus discrete and indiscrete substance,
+spirit, and time, sports like a playful boy, as
+you shall learn by listening to his frolics.”®
+
+worth Bt ae ae WaTTEPTTA: |
+
+Bterd wenfer: want Fred Weare ge
+
+oeret AraeTTt ga
+
+wreceaptferdtt ag, wunfafircaferan 2 ot
+
+faqqo aan frenferrareray
+
+dart adtardtg ant & wereareqn 2 eu
+
+Aearefadt feefaran rerenfer:
+
+vata & atard varanfrarearit 2 2
+
+That chief principle (Pradhana), which is
+the indiscrete cause, is called by the sages also
+Prakrti (nature): it is subtile, uniform, and
+comprehends what is and what is not (or both
+causes and effects); is durable, self-sustained,
+illimitable, undecaying, and stable; devoid of
+sound or touch, and possessing neither colour
+nor form; endowed with the three qualities (in
+equilibrium); the mother of the world; without
+beginning; and that into which all that is
+produced is resolved.’* By that principle all
+things were invested in the period subsequent
+to the last dissolution of the universe, and
+prior to creation'’. For Brahmanas learned in
+
+the Vedas, and teaching truly their doctrines,
+explain such passages as the following as
+intending the production of the chief principle
+(Pradhana).
+
+RrenfeqeeTyTMAN
+MENTE Gel TAT RTATAT NB 3
+feat: ae wat fe Asay
+wt vert yeas farm
+aaa isan ga fag
+WORT UY AG fa STAT BVI
+wart dient armies J A!
+TA MATa RISAAT WATT 4M
+srrfestrary are arise fas ferent
+ARTA TATRA TATA TTA: NB I
+gored aeafery yg fe crate
+SITTERS ae ota ake
+metered afawieae afta gon
+MARAT TET UAT STAT: |
+wat: way: Tale TT VI
+wert qersntt vfayerctesar ef:1
+atvrarare wont were Serer 2g
+aan afateesto wet: attare SER
+were strange aera wee: 13 ot
+7 Ue atrat wer ater yeah:
+a agrafeeremat werreste a fRaft:113 el
+faeries gereufatiream
+aa RUT Fer fay: WTA 3 BH
+"There was neither day nor night, nor sky
+nor earth, nor darkness nor light, nor any other
+things, save only One, unapprehensible by
+intellect, or That which is Brahma and Puman
+(spirit) and Pradhana (matter)"'’. The two
+forms which are other than the essence of
+unmodified Visnu, are Pradhana (matter) and
+Purusa (spirit); and his other form, by which
+those two are connected or separated, is called
+
+## Page 8
+
+8
+
+THE VISNU-PURANAM
+
+Kala (time)'’. When discrete substance is
+aggregated in crude nature, as in a foregone
+dissolution, that dissolution is termed
+elemental (Prakrta). The deity as Time is
+without beginning, and his. end is not known;
+and from him the revolutions of creation,
+continuance, and dissolution unintermittingly
+succeeds: (or when, in the latter season, the
+equilibrium of the qualities (Pradhana) exists,
+and spirit (Puman) is detached from matter,
+then the form of Vignu which is Time abide?"*.
+Then the supreme Brahma, the supreme soul,
+the substance of the world, the lord of all
+creatures, the universal soul, the supreme
+tuler, Hari, of his own will having entered into
+matter and spirit, agitated the mutable and
+immutable principles, the season of creation
+being arrived, in the same manner as fragrance
+affects the mind from its proximity merely,
+and not from any immediate operation upon
+mind itself: so the Supreme influenced the
+elements of creation’’, Purusottama is both the
+agitator and the thing to be agitated; being
+present in the essence of matter, both when it
+is contracted and expanded”. Visnu, supreme
+over the supreme, is of the nature of discrete
+forms in the atomic productions, Brahma and
+the rest (gods, men. etc.)
+
+qoranany arerend saanatearyA
+quererargia: waters fasttra 3 311
+Then from that equilibrium of the qualities
+
+(Pradhana) presided over by soul”, proceeds
+the unequal development of those qualities
+(constituting the principle Mahat or Intellect)
+at the time of creation”.
+
+RIAA Herat Ae, HTT
+
+whoa wereta areas FRET ART!
+
+waaay UG wera SeifrargeT 3 vt
+
+aarftertres yea are:
+
+fafaehsemegrt) WeMATeATAT 34 11
+
+qatar gq: @ fryorarrery
+
+OM RAT WET AAT A TANGA! 3 Gl
+
+yaa fagator: sreqrnfies aa:
+
+TA VARTA PETETUT
+
+Wend aararet yee: T AATGTTAI BI
+
+arene fagatar: ayia wast 31
+
+THATS AFR UGE UT ag SH
+
+arent weeny waar WaT
+
+The Chief principle then invests that Great
+principle, Intellect, and it becomes three fold,
+as affected by the quality of goodness,
+foulness, or darkness, and invested by the
+Chief principle (matter) as seed is by its skin.
+From the Great principle (Mahat) Intellect.
+threefold Egotism, (Ahankara)", denominated
+Vaikdrika. 'pure;' Taijasa, ‘passionate;, and
+Bhutadi- rudimental.” is produced; the origin
+of the (subtile) elements and of the organs of
+sense; invested, in consequence of its three
+qualities, by Intellect, as Intellect is by the
+Chief principle. Elementary Egotism then
+becoming productive, as the rudiment of
+round, produced from it Ether, of which sound
+is the characteristic, investing it with its
+rudiment of sound. Ether becoming
+productive, engendered the rudiment of touch;
+whence originated strong wind. the property of
+which is touch; and Ether, with the rudiment
+of sound, enveloped the rudiment of touch.
+
+aat argfdqaton Beart wast Bel
+
+wife sehen UTEa
+
+erlrargy & arg euaTs WAU Y oll
+
+Sifeanftt fagneatat tarart wast g1
+
+aerate aatserifa carerafor aft Ty ei
+
+Temratfor aretifa eat GATT!
+
+fagatonfs aresifer wert afer yz
+
+Mend Hae Te TET TAM YUH TI
+
+aftreafarg ara Fa TAT TAT YB
+
+amratwafersrentar sifersvaretct fe #1
+
+MRT ate eee a seTfers TTT ww
+
+YeTETseMERRIT J AUTATL
+
+teraritfgaroargéan dente Seri
+
+Waray tat Yat danften: Byars
+
+## Page 9
+
+BOOK I, CHAP. 2
+
+wag cepifeen fren stems a TTA N
+wrerdarrancad afgamht 2 fea
+agra at wel arg 8 Ade wEtvon
+fanifrenngha: at tag ea
+
+Then wind becoming productive, produced
+the rudiment of form (colour); whence light
+(or fire) proceeded, of which, form (colour) is
+the attribute; and the rudiment of touch
+enveloped the wind with the rudiment of
+colour. Light becoming productive, produced
+the rudiment of taste; whence proceed all
+juices in which flavour resides; and the
+rudiment of colour invested the juices with the
+rudiment of taste. The waters becoming
+productive, engendered the rudiment of smell;
+whence an aggregate (earth) originates, of
+which smell is the property”. In each several
+element resides its peculiar rudiment; thence
+the property of tanmatrata”> (type or rudiment)
+is ascribed to these elements. Rudimental
+elements are not endowed with qualities, and
+therefore they are neither soothing, nor
+terrific, nor stupefying”. This is the elemental
+creation, proceeding from the principle of
+egotism affected by the property of darkness.
+The organs of sense are said to be the
+passionate produces of the same principle,
+affected by foulness; and the ten divinities”
+proceed from egotism affected by the principle
+or goodness; as does Mind, which is the
+eleventh. The organs of sense are ten: of the
+ten, five are the skin. eye, nose, tongue, and
+car; the object of which, combined with
+Intellect, is the apprehension of sound and the
+rest: the organs of excretion and procreation,
+the hands, the feet, and the voice, form the
+other five; of which excretion, generation,
+manipulation, motion, and speaking, are the
+several acts,
+
+SreTgraTgaatife aferet yrs TaMN YS |
+vrenfehinfiitert! aamrgritat:t
+
+Vira eee Yares fargrareta F BAT Ue
+ardtal: yeryareatet dela frm
+
+AMETAT MAT: ALATA FETT: 14 oH
+Then, ether, air, light, water, and earth,
+severally united with the properties of sound
+and the rest, existed as distinguishable
+according to their qualities, as soothing,
+terrific, or stupefying; but possessing various
+energies, and being unconnected, they could
+not, without combination, create living beings,
+not having blended with each other.
+Werder wea:
+WeenTeTey TTA TA: 1
+
+Fenfatsaara yerarqTeor at
+
+Wecren fagraran wosyrarcara TV
+renin fagary aerggearmy
+yeeisug wergea! ger ageaerery
+ig TERT fat: TTA y BI
+TTR A SrA HALT: |
+
+feugait wate safer: xt
+
+Having combined, therefore, with one
+another, they assumed, through their mutual
+association, the character of one mass of entire
+unity; and from the direction of spirit, with the
+acquiescence of the indiscrete Principle”,
+Intellect and the rest, to the gross elements
+inclusive, formed an egg”, which gradually
+expended like a bubble of water. This vase
+egg, O sage, compounded of the elements, and
+resting on the waters, was the excellent natural
+abode of Visnu in the from of Brahma; and
+there Visnu, the lord of the universe, whose
+essence is inscrutable, assumed a perceptible
+form, and even he himsclf abided in it in the
+character of Brahma.*°
+
+Teeatyy Fea seg wet:
+wifes WARET TTL GASTTTEN YG
+aainagarg aetficiaage:!
+aferavtswag fam! wearqeanga: iy & It
+anftagutronensherdt qafeat af:1
+
+ad amqehed yonfetigan aaron
+werigat were: wa: alec AEF
+ufirreartieg waft: apt,
+
+## Page 10
+
+10
+
+THE VISNU-PURANAM
+
+aifcnernerereaatat arereettan 4 601
+
+Its womb, vast as the mountain Mcru, was
+composed of the mountains; and the mighty
+oceans were the waters that filled its cavity. In
+that egg, O Brahman, were the continents and
+seas and mountains, the planets and divisions
+of the universe, the gods, the demons, and
+mankind. And this egg was externally invested
+by seven natural envelopes, or by water, air,
+fire, ether, and Ahankara the origin of the
+elements, each tenfold the extent of that which
+it invested; next came the. principle of intelli-
+gence; and finally, the whole was surrounded
+by the indiscrcte Principle: resembling thus
+the cocoa-nut, filled ulteriorly with pulp, and
+exteriorly covered by husk and rind.
+
+WH Winn wa wae faded eft:
+
+TEN yearer Sera ferget waren gn
+Wes Maggy aad aeafrarrn
+ATL Wray ATTA: 1G oN
+waa a Sey BRAT SATA:
+Rrnfaeryah seaafiniteorng gu
+
+@ vate yen srerutdtg
+TS MTAY Va A TTT IG U1
+Wass WH: Ble wot weramyg G3
+
+Affecting then the quality of activity, Hari,
+the lord of all, himself becoming Brahma,
+engaged in the creation of the universe. Visnu
+with the quality of goodness, and of
+immeasurable power, preserves created things
+through successive ages, until the close of the
+period termed a Kalpa; when the same mighty
+deity, Janardhana.*! invested with the quality
+of darkness, assumes the awful from of Rudra,
+and swallows up the universe. Having thus
+devoured all things, and converted the world
+into one vast ocean, the Supreme reposes upon
+his mighty serpent couch amidst the deep: he
+awakes after a season, and again, as Brahma,
+becomes the author of creation.
+
+attra rereeniorenfarar
+w dat aft wart wa WATT GY
+
+am yale wet fawy: wears ft a
+srdigad art deal a ward TYNE GN
+pirate Aat area A
+watsart:atat Yeast fe TAT G GI
+Bua aya fauent aatsera:)
+anita wdisa yTqTEAAT G91
+BUa GA: Ua Want
+
+ae Uefa @ Wea a
+
+famyafadt aret awa: 211
+
+fe sitfaenget wernist fadhatseara:
+
+Thus the one only god, Janarddana, takes
+the designation of Brahma, Visnu, and Siva,
+accordingly as he creates, preserves, or
+destroys.” Visnu as creator, creates himself;
+as preserver, preserves himself; as destroyer,
+destroys himself at the end of all things. This
+world of earth, air, fire. water, ether, the
+senses, and the mind; all that is termed spirit,
+that also is the lord of all elements, the univer-
+sal from, and impreishable: hence he is the
+cause of creation, preservation, and
+destruction; and the subject of the vicissitudes
+inherent in elementary nature. He is the
+object and author of creation: he preserves,
+destroys, and is preserved. He, Visnu, as
+Brahma, and as all other beings, is infinite
+form: he is the supreme, the giver of all good,
+the fountain of all happiness.”*
+
+wee
+
+NOTES
+
+1. The three hypostases of Visnu. Hiranyagarbba
+is a name of Brahma; he who was born from the
+golden egg. Hari is Visnu, and Sankara Siva. The
+Visnu who is the subject of our text is the supreme
+being in all these three divinities or hypostases, in
+his different characters of creator, preserver and
+destroyer. Thus in the Markandeya: ‘Accordingly.
+as the primal all-pervading spirit is distinguished by
+attributes in creation and the rest. so he obtains the
+denomination of Brahma, Visnu, and Siva. In the
+capacity of Brahma he creates the worlds; in that of
+Rudra be destroys them; in that of Visnu he is
+
+## Page 11
+
+BOOK I, CHAP. 2
+
+i
+
+quiescent. These are the three Avasthas (lit.
+hypostases) of the self-born. Brahma is the quality
+of activity : Rudra that of darkness; Visnu, the lord
+of the world, is goodness: so. therefore, the three
+gods are the three qualities They are ever combined
+with. and dependent upon one another, and they are
+never for an instant separate; they never quit each
+other."
+
+ae area: att antag Weta |
+
+wen a darrenta wenfaenferenerai
+
+Fea Gad Sar Baca HET
+
+faopasti terinferaisaen: eaeya: 1
+
+Tat BEN TAT BST fare: Tes SETA: |
+
+AT Ta TH SAT Us Us FH TOT: it
+
+seiratepn a sirens
+
+aro fear erat raha we
+
+The notion is one common to all antiquity,
+although less philosophically conceived, or perhaps
+less distinctly expressed, in the passages which
+have come down to us. The tpets a'pikas vrooT
+Aoeis of Plato are said by Cudworth (I. 111), upon
+the authority of Plotinus, to be an ancient doctrine,
+maratd Soea and he also observes, “Orpheus,
+Pythagoras, and Plato have all of them asserted a
+trinity of divine hypostases, and as they
+unquestionably derived much of their doctrine from
+the Egyptians, it may reasonably be suspected that
+the Egyptians did the like before them." As
+however the Grecian accounts, and those of the
+Egyptians, are much more perplexed and
+unsatisfactory than those of the Hindus, it is most
+probable that we find amongst them the doctrine in
+its most original as well as most methodical and
+significant from.
+
+2. This address to Visnu pursues the notion that
+he. as the supreme being, is one. whilst he is all: he
+is Avikara, not subject to change; Sadaikariipa, one
+invariable nature: he is the liberator (tara), or he
+who bears mortals across the ocean of existence: he
+is both single and manifold (ekanekaripa): and he
+is the indiscrete (avyakta) cause of the world, as
+well as the discrete (vyakta) effect: or the invisible
+cause, and visible creation.
+
+3. Jaganmaya, made up. or consisting
+substantially (74). of the world. Maya in an affix
+denoting 'made' or consiting of,’ as Kastha maya.,
+made of wood.' The world is therefore not regarded
+
+by the Pauraniks as an emanation or an illusion, but
+as consubstantial with its first cause.
+
+4. Aniyansari anniyasam ‘the most atomic of the
+atomic;' alluding to the atomic theory of the Nyaya
+or logical school.
+
+5. Or Acyuta; a common name of Visnu, from a,
+privative, and chyuta. fallen; according to our
+comment, ‘he who does not perish with created
+things.' The Mahabharata interprets it in one place
+to mean. ‘he who is not distinct from final
+emancipation;‘and in another to signify, ‘exempt
+from decay, (sé: ). A commentator on the Kasi-
+knanda of the Skanda Purana explains it. -be who
+never declines (or varies) from his own proper
+nature;' MATA |
+
+6. This is another commen title of Visnu,
+implying supreme, best (Uttama), spirit (Purusa), or
+male. or sacrificc, or. according to the Mahabh.
+Moksa Dharma, whatever sense Purusa may bear:
+
+qed aa geld aq afeia
+
+TAIRA Feu Say ad TAIT: it
+
+7. Paramarthatas, by or through the real object,
+or sense; through actual truth.’
+
+8. Bhranti darfanatas ‘false appearances,’ in
+opposition to actual truth.,By the nature of visible
+objects, (3f=REM) : Artha is explained by drigya
+‘visible,; swaripena by 'the nature of: that is, visible
+objects are not what they seem to be. independent
+existences; they are essentially one with their
+original source: and knowledge of their true nature
+or relation to Vignu, is knowledge of Visnu himself.
+This is not the doctrine of May4, or the influence of
+illusion, which alone, according to Vedanta
+idcalism, constitutes belief in the existence of
+matter: a doctrine foreign to most of the Puranas
+and first introduced amongst them apparently by
+the Bhagavata.
+
+9. A different and more detailed account of the
+transmission of the Vignu Purana is given in the last
+book. c. 8.
+
+10. The ordinary derivation of Vasudeva has
+been noticed above (p. I): here it is derived from
+Vas, 'to dwell,’ from Visnu's abiding in all things,
+and all in him: wai Waa The
+Mahabharata explains Vasu in the same manner,
+and Deva to signify radiant, shining :
+
+wed creat arrafe wahyay serfs ag: |
+
+wei ea Stn fata: arqardt tafe argza: 1
+
+## Page 12
+
+12
+
+THE VISNU-PURANAM
+
+He causes all things to dwell in him. and he
+abides in all: whence he is named Vasu: being
+resplendent as the sun, he is called Deva: and he
+who is both these, is denominated Vasudeva., See
+also b. VI. c. 5.
+
+11, The commentator argues that Vasudeva must
+be the Brahma, or supreme being, of the Vedas,
+because the same circumstances are predicated of
+both, as eternity, omnipresence, omnipotence, etc.;
+but he does not adduce any scriptual text with the
+name Vasudeva.
+
+12. Time is not usually enumerated in the
+Puranas as an element of the first cause, but the
+Padma Purana and the Bhagavata agree with the
+Visnu in including it. It appears to have been
+regarded at an earlier date as an independent cause:
+the commentator on the Moksa Dharma cites a
+passage from the Vedas, which he understands to
+allude to the different theories of the cause of
+creation; #Ta: wana Frafrigarn oft aif: gee:
+Time, inherent nature, consequence of acts, self-
+will, elementary atoms, matter, and spirit, asserted
+severally by the Astrologers, the Buddhists, the.
+Mimansakas. the Jains, the Logicians, the
+Sarhkhyas. and the Vedantis. Kpovo& was also one
+of the first generated agents in creation, according
+to the Orphic theogony.
+
+13. The creation of the world is very commonly
+considered to be the Lila (them), sport or
+amusement, of the Supreme Being.
+
+14. The attributes of Pradhdna. the chief
+(principle or element). here specified, conform
+generally to those ascribed to it by the Sarnkhya
+philosophy (Sarnkhya Karika, p. 16, etc,), although
+come of them are incompatible with its origin from
+a first cause. In the Sarhkhya this incongruity does
+not occur; for there Pradhana. is independent, and
+coordinate with primary spirit. The Puranas give
+rise to the inconsistency by a lax use of both
+philosophical and pantheistical expressions. The
+most incongruous epithets in our text are however
+explained away in the comment. Thus nitya (fi),
+‘eternal’ is said to mean ‘uniform, not liable to
+increase or diminution: frei BeRed qeafeeris
+Sandasaditmaka (Hear), — ‘comprehending
+what is and what is not.' means ‘having the power
+of both cause and affect, (areferomfae) as
+preceding from Visnu, and as giving origin to
+material things. Anadi, ‘without beginning,’ means
+
+‘without birth’ (379i), not being engendered by
+any created things but proceeding immediately
+from the first cause. The mother, or literally ’ the
+womb of the world (stretfi), means ‘the passive
+agent in creation,’ operated on or influenced by the
+active will of the Creator. The first part of the
+passage in the text is a favourite one with several of
+the Puranas, but they modify it and apply it after
+their own fashion. In the Visnu the original is,
+
+OTS BNO Ay A UTA: |
+
+Pro welt: gam fred wears
+
+rendered as above. The Vayu, Brahmanda. and
+Karma Puranas have
+
+FeTS BNO} TUPAC AATF |
+
+werd wpfada aengeraraan: |
+
+The indiscrete cause, which is uniform, and both
+cause and effect, and whom those who are
+acquainted with first principles call Pradhana and
+Prakrti— is the uncognizable Brahma, who was
+before all: afagri weet wradd! But the application
+of two synonyms of Prakrti to Brahma seems
+unnecessary at least. The Brahma Purana corrects
+the reading apparently: the first line is as before :
+second is, WUM Yes aay fais faite The
+passage is placed absolutely; There was an
+indiscrete cause eternal, and cause and effect,
+which was both matter and spirit (Pradhana and
+Purusa), from which this world was made. Instead
+of $431 ‘such’ or 'this,' some copies read 2%: ‘from
+which Isvara or god (the active deity or Brahma)
+made the world., The Hari Vara has the same
+reading, except in the last term, which it makes $a
+that is. according to the commentator, 'the world,
+which is ISvara. was made. The same authority
+explains this indiscrete cause, avyakta karana, to
+denote Brahma, "the creator; ¢ 4 fafs went Ber
+welprt an identification very unusual, if not
+inaccurate, and possibly founded on
+misapprehension of what is stated by the Bhavisya
+Purana: aad sroeae Fred wares atshre: a yea
+AS wafa stefai wt a amare ¥fail ‘That male or
+spirit which is endowed with that which is the
+indiscrete cause. etc, is known in the world as
+Brahma: he being in the egg, ac.' The passage is
+precisely the same in Manu, I. 11; except that we
+have ‘vigista, instead of ‘visistha:' the latter is a
+questionable reading, and is probably wrong: the
+sense of the former is.'detached;' and the whole
+
+## Page 13
+
+BOOK I, CHAP. 2
+
+13
+
+means very consistently, ‘embodied spirit detached
+from the indiscrete cause of the world is known as
+Brahma., The Padma Purana inserts the first er
+line, etc., but has Feafat wet aprife fafiaass
+"Which creates undoubtedly Mahat and the other
+qualities:, assigning the first epithets, therefore, as
+the Visnu does to Prakrti only. The Linga also
+refers the expression to Prakrti alone, but makes it a
+secondary cause: Sore Vaud Trevad Bre ward
+weft da aagerafedat:) ‘An indiscrete cause,
+which those acquainted with first principles call
+Pradhana and Prakrti proceeded from that Isvara
+(Siva), This passage is one of very many instances
+in which expressions are common to several
+Puranas that seem to be borrowed from one
+another, or from some common source older than
+any of them, especially in this instance, as the same
+text occurs in Manu.
+
+15. The expression of the text is rather obscure;
+‘All was pervaded (or comprehended) by that chief
+principle before (recreation), after the (last)
+destruction’ 7 wdtarte emi a weary! The
+ellipses are filled up by the commentator. This, he
+adds, is to be regarded as the state of things at a
+Maha Pralaya, or total dissolution, leaving,
+therefore, crude matter, nature, or chaos, as a
+coexistent clement with the Supreme. This, which
+is conformable to the philosophical doctrine, is not
+however that of thc Puranas in general, nor that of
+our text, which states (b. VI. c. 4), that at a Prakrta,
+or elementary dissolution. Pradhana itself merges
+into the deity. Neither is it apparently the doctrine
+of the Vedas, although their language is somewhat
+equivocal.
+
+16. The metre here is one common to the Vedas,
+Tristubh, but in other respects the language is not
+characteristic of those compositions. The purport of
+the passage is rendered somewhat doubtful by its
+close, and by the explanation of. commentator. The
+former is, Ch woe wea yateerta: ‘One
+Pradhanika Brahma Spirit: that, was. The
+commentator explains Pradhanika. Pradhana eva.
+the same word as Pradhana; but it is a derivative
+word, which may be used attributively. implying
+“having, or conjoined with. Pradhana., The
+commentator. however, interprets it as the
+substantive; for he adds, There was Pradhana and
+Brahma and Spirit; this traid was at the period of
+
+dissolution; wear wea yaiafs sata were ore
+He evidently, however, understands their conjoint
+existence as one only; for he continues, ‘So,
+according to the Vedas, then there was neithcr the
+non-existent {invisible cause, or matter) nor the
+existent (visible effect, or creation): 4
+afertaerdaraeraaerit meaning that there was only
+One Being, in whom matter and its modifications
+were all comprehended.
+
+17. Or it might be rendered. ‘Those two other
+forms (which proceed) from his supreme nature;
+fret: <aeurera: that is, from the nature of Visnu,
+when he is Nirupadhi, or without adventitious
+attributes: Frewafetet: sae! ‘other’ (31); the
+commentator states they are other or separate from
+Visnu only through Maya, illusion,’ but here
+implying ‘falsc notion; the elements of creation
+being in essence one with Visnu, though in
+existence detachcd and different.
+
+18. Pradhana, when unmodificd, is, according to
+the Sankhyas and Pauraniks, nothing more than the
+three qualities in equilibrio, or 15 goodness,
+foulness, and darkness neutralising each other;
+(Sarhkhya Karika, p. 52.) so in the Matsya Purana:
+ae wenda wraqeed, arenafeafitad weft:
+uftaiftia! This state is synonymous with the non-
+evolution of material products, or with dissolution;
+implying however, scparate existence, and detached
+from spirit. This being the case, it is asked what
+should sustain matter and spirit whilst separate, or
+renew their combination so as to renovate creation
+? It is aswered, Time, which is when everything
+else is not; and which, at the end of a certain
+interval, unites Matter, Pradhdna, and Purusa. and
+produces creation. Conceptions of this kind are
+evidently comprised in the Orphic triad, or the
+ancient notion of the co-operation of three such
+principles in creation, as Phanes or Eros, which is
+the Hindu spirit or Purusa; Chaos, matter or
+Piadhana : and Chronos. or Kala time.
+
+19. Pradhana is styled Vyaya ‘that which may be
+expended;' or Parinamin ‘which may be modified:,
+and Purusa is called Avyaya 'inconsumable;' or
+aparinamin. ‘immutable.’ The expressions fava
+having entered into,’ and sara ‘agitated,’ recall
+the mode in which divine intelligence, mens, vovc,
+was conceived by the ancients to operate upon
+matter:
+
+## Page 14
+
+14
+
+THE VISNU-PURANAM
+
+GPPNV 12... GPOVTLOV KOOLOV ANAVTA
+sees KATA GOOVEA Sonat :
+cas in a more familiar passage:
+
+Spiritus intus alit totamque infusa per artus
+
+Mens agitat molem et magno se corpore miscet:
+or perhaps it more closely approximates to the
+Phoenician cosmogony. io which a spirit mixing
+with its own principles gives rise to creation.
+Brucker, I. 240, As presently explained, the mixture
+is not mechanical; it is an influence or effect
+exerted upon intermediate agents, which produce
+effect,; as perfumes do not delight the mind by
+actual contact, but by the impression they make
+upon the sense of smelling, which communicates it
+to the mind. The entrance of the supreme Visnu
+into spirit as well as matter is less intelligible than
+the view elsewhere taken of it, as the infusion of
+spirit, identified with the Supreme, into Prakrti or
+matter alone. Thus in the Pradma Purana:
+
+aise ween: Yeu: Was a eee: |
+Bua wrentaay yaaa
+
+‘He who is called the male (spirit) of Prakrti, is
+here named Acyuta; and that same divine Visnu
+entered into Prakrti.’ So the Brhat Naradiya: wedt
+aera Yesrst TIE The lord of the world, who
+is called Purusa, producing agitation in Prakrti.’
+From the notion of influence or agitation produced
+on matter through or with spirit, the abuse of
+personification led to actual or vicarious admixture.
+Thus the Bhagavata, identifying Maya with Prakrti,
+has,
+
+regen F Fraser POREATAR ATT: |
+yer deter dear
+
+"Through the operation of time. the Mighty One,
+who is present to the pure. implanted a seed in
+Maya endowed with qualities, as Purusa, which is
+one with himself.’ B. III. s. 5. And the Bhavisya:
+‘Some learned men say that the Supreme Being,
+desirous to create beings, creates in the
+commencement of the Kalpa a body of soul (or an
+incorporcal substance): which soul created by him
+enters into Prakrti: and Prakrti being thereby
+agitated, creates many material elements:' 3-3 3
+Tera yack wifier 1 Asean WEA BeTS TAT
+wai gear verardt fagafiaen: wor a ge: YReRG
+ward faera 31 werd atfind da go fren ae
+
+But these may be regarded as notions of a later
+date. In the Mahabharata the first cause is declared
+to be ‘Intellectual,’ who creates by his mind or will:
+amet we yaisft fagd do mefifi; senfeert
+zamenrisAME | ‘The first (Being) is called
+Ménasa (intellectual). and is so celebrated by great
+sages: he is God, without beginning or end.
+indivisible, immortal, undecaying.' And again:
+wateret fafa ara aqdisgay! The Intellectual
+created many kinds of creatures by his mind.'
+
+20. Contraction, Sankoca (##4:), is explained
+by Samya (Si), sameness or equilibrium of the
+three qualities, or inert Pradhana: and Expansion,
+Vikasa _ (fare), is the destruction of this
+equipoise, by previous agitation and consequent
+development of material products.
+
+21. The term here is Ksetrajfia. ‘embodied spirit’
+or that which knows the Ksetra or 'body” implying
+the combination of spirit with form or matter, for
+the purpose of creating.
+
+22. The first product of Pradhana sensible to
+divine, though not to mere human organs, is, both
+according to the Sarhkhya and Pauranic doctrines,
+the principle called Mahat, literally ‘the Great.’
+explained in other places, as in our text. "the
+production of the manifestation of the qualities:'
+Tpreisrraryfa: | or, as in the Vayu, Werarecrar
+Wer, Mga ys 1 We have in the same Purana, as well
+as in the Brahmanda and Linga, a number of
+synonyms for this term. as, 71 Fer fester fs:
+wafrtar: | wat fafa: aafa: dfafegt drera gh: They
+are also explained, though not very distinctly, to the
+following purport: Manas is that which considers
+the consequences of acts to all creatures, and
+provides for their happiness. Mahat, the Great
+principle, is so termed from being the first of the
+created principles, and from its extension being
+greater than that of the rest. Mati is that which
+discriminates and distinguishes objects preparatory
+to their fruition by Soul. Brahma implies that which
+effeets the development and augmentation of
+created things. Pur is that by which the coneurrence
+of nature occupies and fills all bodies. Buddhi is
+that which communicates to soul the knowledge of
+good and evil. Khyati is the means of individual
+fruition. or the faculty of discriminating objects by
+appropriate designations, and the like. ISvara is that
+which knows all things as if they were present.
+Prajiia is that by which the properties of things arc
+
+## Page 15
+
+BOOK I, CHAP. 2
+
+15
+
+known. Citi is that by which the consequences of
+acts and species of knowledge are selected for the
+use of soul. Smriti is the faculty of recognising all
+things, past, present, or to come. Samvit is that in
+which all things are found or known, and which is
+found or known in all things: and Vipura is that
+which is free from the effects of contrarieties, as of
+knowledge and ignorance, and the like. Mahat is
+also called Isvara, from, its exercising supremacy
+over all things; Bhava, from its elementary
+existence : Eka. or ‘the one’, from its singleness;
+Purusa, from its abiding within the body; and from
+its being ungenerated it is called Swayambhu.,”
+Now in this nomenclature we have chiefly two sets
+of words; one, as Manas, Buddhi, Mati, signifying
+mind, intelligence, knowledge, wisdom, design .
+and the other, as Brahm, ISvara, etc., denoting an
+active creator and ruler of the universe: as the Vayu
+adds. Wet @f& fapea “emma: firgerat 1 'Mahat,
+impelled by the desire to create, causes various
+creation:, and the Mahabharata has er, Gaatéan
+‘Mahat created Aharhkara.' The Puranas generally
+employ the same expression, attributing to Mahat
+or Intelligence the act of creating. Mahat is
+therefore the divine mind in creative operation, the
+vovgodiaxoopov TE xat navTov aiTog of
+Anaxagoras, ‘an ordering and disposing mind.
+which was the cause of all things., The word itself
+suggests some relationship to the Phoenician Mot,
+which, like Mahat. was the first product of the
+mixture of spirit and matter, and the first rudiment
+of creation: “Ex connexione autem ejus spiritus
+prodit mot. hine seminium omnis creature et
+omniuin rerum creatio.” Brucker, I. 240. Mot. it is
+true, appears to be a purely material substance,
+whilst Mahat is an incorporeal substance; but they
+agree in their place in the cosmogony, and are
+something alike in name. How far also the
+Phoenician system has been accurately described, is
+matter of uncertainty, See Sarhkhya Karika. p. 83.
+23. The scnse of Ahatikara cannot be very well
+rendered by any European term. It means the
+principle of individual existence, that which
+appropriates perceptions, and on which depend the
+notions, I think. 1 feel. I am. It might be expressed
+by the proposition of Descartes reversed: “Sum
+ergo cogito, sentio.” etc. The equivalent emyloyed
+by Colebrooke, egotism, has the advantage of an
+analogous etymology, Ahankara being derived
+
+from Aham (37@), I; as in the Hari Varnéa: ae fret
+weary Wor: een wa! ‘He (Brahma), oh Bharata,
+said, I will create creatures,’ Sec also Samkhya
+Karika, p. 91. These three varities of Ahankara are
+also described in the Sarmkhya Karika, p. 92.
+Vaikarika. that which is productive, is the same as
+the Satvika, or that which is combined with the
+property of goodness. Taijasa Ahaikara is that
+which is endowed with Tejas, ‘heat, or 'cnergy,' in
+consequence of its having the property of Rajas,
+‘passion’ or ‘activity;' and the third kind. Bhiitadi. or
+‘elementary,’ is the Tamasa. or has the property of
+darkness. From the first kind proceed the sense;
+from the last, the rudimental unconscious elements
+: both kinds, which are equally of themselves inert,
+being rendered productive by the cooperation of the
+second, the energetic or active modification of
+Ahankara. which is therefore said to be the origin
+of both the senscs and the elements.
+
+24. The successive series of rudiments and
+elements, and their respectively engendering the
+rudimcuts and elements next in the order, occur in
+most of the Puranas, in ncarly the same words. The
+Brhannaradiya Purana observes, ae
+
+al ‘They (the elements) in
+successive order acquire the property of causality
+one to the other.’ The order is also the same; or
+other 4kasa), wind or air (vayu). fire or light (tejas),
+water and earth : except in one passage of the
+Mahabharata (Moksa Dharma, c. 9). where it is
+ether, water, fire, air. earth, The order of
+Empedocles was ether, fire, earth, water, air.
+Cudworth, 1. 97. The investment (avarana) of each
+element by its own rudiment, and of each rudiment
+by its preceding gross and rudimental elements, is
+also met with in most of the chief Puranas. as the
+Vayu, Padma. Linga, and Bhagavata; and traces of
+it are found amongst the ancient cosmogonists : for
+Anaximander supposed, that 'when the world was
+made. a certain sphere or flame of fire, separated
+from matter (the Infinite), encompassed the air,
+which invested the earth as the bark does a trce:'
+Kara ty evry tovée tov Koo}tov anoKptynvat.
+Kal tiva ék tovtov gAoyos aBoipav mepi~
+vyvol TH mept THY ynv aEpt, as Tadévdpw
+gAotsv Euseb. Pr. 1. 15. Some of the Puranas. as
+the Matsya, Vayu. Linga. Bhagavata. and
+Markandeya, add a description of a participation of
+properties amongst the elements, which is rather
+
+## Page 16
+
+16
+
+THE VISNU-PURANAM
+
+Vedanta than Sarhkhya. According to this notion,
+the elements add to their characteristic properties
+those of the elements which precede them. Akasa
+has the single property of sound: air has those of
+touch and sound: fire has colour, touch, and sound;
+water has taste, colour. touch, and sound: and earth
+has smell and the rest. thus having five properties:
+or, as the Liga Purana describes the series, 3TT%
+wea aq aentamiie: ferg at a:
+weerimistad! eh daar weceriqrgyt
+fog wish: a weerierar wees wart
+Safer aereaCin art ferereg cafera: | wees
+Se was renee Te ea yf: ea
+WER
+
+25. Tanmatra, ‘rudiment, or ‘type,’ from Tad
+‘that.’ for Tasmin ‘in that’ gross element, and mdtra
+‘subtile or rudimental form’ (aTaTgei *4)1 The
+rudiments are also the. characteristic properties of
+the elements: as the Bhagavata; 44 ATaT To: weet
+fery aeBGETA: | ‘The rudiment of it (ether) is also its
+quality, sound; as a common designation may
+denote both a person who sees an object which is to
+be seen:' that is. according to the commentator,
+suppose a person behind a wall called aloud, “An
+elephant! an elephant!" the term would equally
+indicate an elephant was visible, and that somebody
+saw it, Bhag. IL. 5.
+
+26. The properties here alluded to arc not those
+of goodness etc. but other properties assigned to
+perceptible objects by the Sarhkhya doctrines, or
+Santi. 'placidity’; Ghorata, ‘terror; and Moha,
+‘dulness' or 'stupefaction.' v. Karika. v. 38. p. 112.
+
+27. The Bhagavata. which gives a similar
+statement of the origin of the elements, senses, and
+divinities, specifies the last to be Dis (space), air,
+the sun, Pracetas, the Asvins, fire, Indra, Upendra.
+Mitra, and Ka or Prajapati, presiding over the
+senses, according to the comment, or severally over
+the ear, skin, eye, tongue, nose, speech, hands, feet,
+and excretory and generative organs, Bhag. Il. 5.
+3h.
+
+28. Avyaktanugrahena. The expression is
+something equivocal, as Avyakta may here apply
+either to the First Cause or to matter. In either case
+the notion is the same, and the aggregation of the
+clements is the effect of the presidence of spirit,
+without any active interference of the indiscrete
+principle The Avyakta is passive in the evolution
+and combination of Mahat and the rest. Pradhana
+
+is, no doubt, intended. but its identification with the
+Supreme is also implied. The term Anugraha may
+also refer to a classification of the order of creation,
+whicli will be again adverted to,
+
+29. It is impossible not to refer this notion to the
+same origin as the widely diffused opinion of
+antiquity, of the first manifestation of the world in
+the form of an cgg. “It seems to have been a
+favourite symbol, and very ancient, and we find it
+adopted among many nations.’ Bryant, III. 165.
+Traces of it occur amongst the Syrians. Persians’
+and Egyptains; and besides the Orphic egg amongst
+the Greeks, and that described by Aristophanes,
+Téxtev part of the ceremony in the mp@tictov
+vunveniov we n pekavorntepos Dov, part of the
+ceremony in the Dionysiaca and other mysteries
+consisted of the consecration of an egg; by which
+according to Porphyry, was signified the world:
+Eppnvever S€ 16 @dv tov KOapoVv, Whether this
+egg typified the ark. as Bryant and Faber suppose,
+is not material to the proof of the antiquity and
+wide diffusion of the belief that the world in the
+beginning existed in such a figure. A similar
+account of the first aggregation of the elements in
+the form of an egg is given in all the Puranas, with
+the usual epithet Haima or Hiranya, 'golden.' as it
+occurs in Manu, I. 9.
+
+30. Here is another analogy to the doctrines of
+antiquity relating to the mundane egg: and as the
+first visible male being, who, as we shall hereafter
+see, united in himself the nature of either sex.
+abode in the egg. and issued from it; so "this first-
+born of the world, whom they represented under
+two shapes and characters, and who sprung from
+the mundane egg, was the person from whom the
+niortals and immortals were derived. He was the
+same as Dionusus, whom they styled. i
+fra ware stared pores Tent a fears
+
+31. Janarddana is derived from Jana, 'men,' and
+Arddana. ‘worship; the ‘object of adoration to
+mankind’.
+
+32 This is the invariable doctrine of the Puranas.
+diversificd only according to the individual divinity
+to whom they ascribe identity with Paramdtman or
+Paramesvara, In our text this is Vishhu: in the Saiva
+Puranas, as in the Linga. it is Siva: in the Brahma-
+vaivartta it is Krsna. The identification of one of the
+hypostases with the common source of the triad
+was an incongruity not unknown to other
+
+## Page 17
+
+BOOK I, CHAP. 3
+
+theogonies; for Cneph, amongst the Egyptians,
+appears on the one hand to have been identified
+with the Supreme Being, the indivisible unity,
+whilst on the other he is confounded with both
+Emeph and Ptha, the second and third persons of
+the triad of hypostages. Cudworth, 1.4.18,
+
+33. 'The world that is termed spirit;' Fare WG!
+explained by the commentator, yevawta! ‘which
+indeed bears the appellation spirit, conformably to
+the text of the Vedas. 484 Ua¢ Ha! this universe is
+indeed spirit.' This is rather Vedanta than Sarbkhya,
+and appears to deny the existence of matter: and so
+it does as an independent existence; for the origin
+and end of infinite substance is the Deity or
+universal spirit: but it does not therefore imply the
+non-existence of the world as real substance.
+
+34. Visnu is both Bhutesa, "lord of the elements.’
+or of created things, and Visvaripa ‘universal
+substance:, he is therefore, as one with sensible
+things, subject to his own control.
+
+35. Varenya, ‘most excellent;, being the same,
+according to the commentator, with supreme
+felicity: TARBIETT|
+
+ese.
+
+17
+
+## Page 18
+
+BOOK I, CHAP. 3
+
+CHAPTER 3
+aaratseaa:
+
+(wan: winrar: wafer,
+Tengen),
+aia vara
+
+Prpreamterea YgearareeT: |
+aa unifeended seruitsequrrerai git
+Maitreya.- How can creative agency be
+
+attributed to that Brahma, who is without
+qualities, illimitable, pure, and free from
+imperfection?
+TUR Sart
+
+WRT: MAMTA ATER: |
+
+ASA TRUTH AAA AAMT IH
+
+waft waat fe! uretarer aera
+
+afaate wat wit weary area Bt
+
+AMOS TAT TEN SeenvTATAS 1
+
+17
+
+Parasara said—The essential properties of
+existent things are objects of observation, of
+which no foreknowledge is attainable; and
+creation, and hundreds of properties, belong to
+Brahmi, as inseparable parts of his essence, as
+heat, oh chief of sages, is inherent in fire.!
+Hear then how the deity Narayana, in the
+person of Brahma, the great parent of the
+world, created all existent things.
+
+sera: Shea faery fer watrarer: wit
+Far rea ant agate ByprT
+Were Tea Tere
+arrest faut sarah Tarra
+
+aa wet Fate ufo eH
+aang wet aToTErTeT A
+FAP TATA 9
+
+Brahm is said to be born: - a familiar
+phrase, to signify his manifestation; and, as the
+peculiar measure of his presence a hundred of
+his years is said to constitute his life: that
+period is also called Param, and the half of it,
+Pararddham.’ I have already declared to you,
+oh sinless Brahman, that Time is a form of
+Visnu: hear now how it is applied to measure
+the duration of Brahma, and of all other
+sentient beings, as well as of those which are
+unconscious, as the mountains, oceans, and the
+like,
+
+aaat Uaeerearen Fae yer
+aaafererenen ang fryritetteat fairs cu
+mantener yetnigg ay
+
+arererarfon aah Ara: WRATH 8
+
+a: weft af Zoey eferuirat
+
+art efarot ofagarmaat fern gon
+fectctineeng garters
+
+aay gemfiratgant Frater tee
+went afar 3 ah aerfey gare
+froma wearin gireng: wafae: gH
+warat: Wa: Bea Yat ceanferaa
+weiner aq geal Grearragy fe Bu gan
+
+## Page 19
+
+warrant: are year
+
+gure: a g fara: qerrenfeciqe: newt
+
+i Fat ee afeda ugg
+
+wread aq Beas Tet fears WI gu
+
+wenn feare wer! was wee
+
+wae afters tat aarergd syn 9g i
+
+Oh best of sages! fifteen twinklings of the
+eye make a KAstha; thirty Kasthas, one Kala;
+and thirty Kalas, one Mubirtta’. Thirty
+Muhirttas constitute a day and night of
+mortals: thirty such days make a month,
+divided into two half-months: six months form
+an Ayana (the period of the sun's progress
+north or south of the ecliptic): and two Ayanas
+compose a year. The southern Ayana is a night
+and the northern a day, of the gods, Twelve
+thousand divine years, each composed of
+(three hundred and sixty) such days, constitute
+the period of the four Yugas, or ages. They are
+thus distributed: the Krta age has four
+thousand divine years; the Treta three
+thousand; the Dvapara two thousand; and the
+Kali age one thousand: so those acquainted
+with antiquity have declared. The period that
+precedes a Yuga is called a Sandy, and it is of
+as many hundred years as there are thousands
+in the Yuga: and the period that follows a
+Yuga, termed the Sandydmsa, is of similar
+duration. The interval between the Sandya and
+the Sandy4msa is the Yuga, denominated Krta,
+Tretd, etc. The Krta, Treté, Dvapara, and Kali
+constitute a great age, or aggregate of four
+ages: a thousand such aggregates are a day of
+Brahma, and fourteen Manus reign within that
+term. Hear the division of time which they
+measure’.
+
+wena: Ya: WaT Aye TT:
+mane fe gerd dig a aq etl
+agepiat waren entrar geareaft: |
+werat wt: Be: QUST AAAI RC
+wat werreentin eer sere TT
+Brae caren wears a eet
+
+THE VISNU-PURANAM
+
+frmteng wyut: dene: wera fem
+aaafrerarantt Fragen war 2011
+faurfter aeentin arctisemtird fern
+
+wratcer Hers wrghdratiaa 3 eu
+
+aceon Be aareit arene: BT
+
+‘are A fafereet are cee wfeST Ne UH
+
+wer fe cent wet cited splenigar
+
+Seven Rsis, certain (secondary) divinities,
+Indra, Manu, and the kings his sons, are
+created and perish at one period’; and the
+interval, called a Manvantara, is equal to
+seventy-one times the number of years
+contained in the four Yugas, with some
+additional years: this is the duration of the
+Manu, the (attendant) divinities, and the rest,
+which is equal to 852,000 divine years, or to
+306,720,000 years of mortals, independent of
+the additional period,. Fourteen times this
+period constitutes a Brahma day, that is, a day
+of Brahma; the term (Brahma) being the
+derivative form. At the end of this day a
+dissolution of the universe occurs, when all the
+three worlds, earth, and the regions of space,
+are consumed with fire.
+
+et went ararat Teetten Prana: 1 2311
+emote Fete Gea ATTETUTTENS 1
+attfirerearrra: Bet Ferm ea: 1 Vw
+sereiniigatrerriseraea:|
+warn fe at Ut AeA BHAT TA AGH
+erg vet atte ated a aT
+we fe ee satu weer eH
+Ware oTtrY TS Te
+meartsyeTHeT: wrt seafeea Von
+faders wedges artarrer & feat
+areg sft metist wer: after: n ec
+far stfamygent wens gira: areas:
+The dwellers of Maharloka (the region
+inhabited by the saints who survive the world),
+distressed by the heat, repair then to Janaloka
+
+(the region of holy men after their decease).
+When the three worlds are but one mighty
+
+## Page 20
+
+BOOK I, CHAP. 3
+
+19
+
+ocean, Brahma, who is one with Narayana,
+satiate with the demolition of the universe,
+sleeps upon his serpent-bed-contemplated, the
+lotus born, by the ascetic inhabitants of the
+Janaloka-for a night of equal duration with his
+day; at the close of which he creates anew. Of
+such days and nights is a year of Brahma
+composed; and a hundred such years constitute
+his whole life.' One Pararddha*, or half his
+existence. has expircd, terminating with the
+Maha Kalpa’ called Padma. The Kalpa (or day
+of Brahma) termed Varaha is the Rest of the
+second period of Brahma's existence.
+
+NOTES
+
+1. Agency depends upon the Raja guna, the
+quality of foulness or passion, which is an
+imperfection. Perfect being is void of all qualities,
+and is therefore inert.
+
+Omnis enim per se divom natura necesse est
+
+Immortali aevo summa cum pace fruatur :
+
+but if inert for ever, creation could not occur.
+The objection is rather evaded than answered. The
+ascribing to Brahma of innumerable and
+unappreciable properties is supported by the
+commentator with vague and scarcely applicable
+texts of the Vedas. ‘In him there is neither
+instrument nor effect : his like, his superior, is
+nowhere seen :, 7 7a wef soi a fad 4
+acamarafiea Fadi ‘That supreme soul is the
+subjugator of all. the ruler of all. the sovereign of
+all : 8 arraren wae aah ache wea: Beenerafe: | In
+various places of the Vedas also it is said that his
+power is supreme, and that wisdom. power, and
+action are his essential properties : TT a
+gad caateet arracsea 1 The origin of creation is
+also imputed in the Vedas to the rise of will or
+desire in the Supreme: Ms#rad 4g Vi Tarra! 'He
+wished I may become manifold. I may create
+creatures.’ The Bhagavata expresses the same
+doctrine : 'The Supreme Being was before all things
+alone, the soul and lord of spiritual substance : in
+consequence of his own will he is secondarily
+defined, as if of various minds: warm
+STAT! fay: | sTeRSRERTaAL ATTRA: This
+will however, in the mysticism of the Bhagavata, is
+personified as Maya : @ a wat dee: wie:
+meena Brat ar Here ae PAY Fa ‘She (that
+
+desire) was the energy of the Supreme, who was
+contemplating (the uncreated world); and by her.
+whose name is Maya, the Lord made the universe.’
+This, which was at first a mere poetical
+personification of the divine will. came, in such
+works, as the Bhagavata, to denote a female
+divinity, co-equal and co-eternal with the First
+Cause. It may be doubted if the Vedas authorize
+such a mystification, and no very decided vestige of
+it occurs in the Visnu Purana,
+
+2. This term is also applied to a different and still
+more protracted period. See b. VI. c. 3.
+
+3. The last proportion is rather obscurely
+expressed : TR] faf:1 'Thirty of them
+(Kalas) are the rule for the Muhirtta.' The
+commentator says it means that thirty Kalas make a
+Ghatika (or Ghari), and two Ghatikas a Muhirtta,
+but his explanation is gratuitous, and is at variance
+with more explicit passages elsewhere, as in the
+Matsya fie senda weryed:| : Muhrtta is thirty
+Kalas. Im these divisions of the twenty-four hours
+the Karma, Markandeya, Matsya, Vayu and Linga
+Puranas exactly agree with our authority, In Manu.
+1, 64, we have the same computation, with a
+difference in the first article, eighteen Nimesas
+being one Kastha. The Bhavisya Purana follow
+Manu in that respect, and agrees in the rest with the
+Padma, which has,
+
+15 Nimesas = 1 Kasthd 30 Kasthas = 1 Kala
+
+30 Kalas =1Ksana 12 Ksanas = | Muhiirtta
+
+30 Muhirttas = 1 day and night.
+
+In the Mahabharata, Moksa Dharma, it is said
+that thirty Kalis and one-tenth, or, according to the
+commentator, thirty Kalis and three Kasthas make a
+Muhirtta. A still greater variety, however, occurs in
+the Bhagavata and in the Brahma Vaivartta Purana
+
+These have,
+
+2 Paramanus ==1Anu 3 Anus =! Trasarenu
+
+3 Trasarenus == 1 Truti 100 Trutis == 1 Vedha
+3Vedhas = 1 Lava 3Lavas =1 Nimesa
+3Nimesas =1Ksana 5 Ksanas =] Kastha
+
+15 Kasth’s = 1 Laghu 15 Laghus = 1 Narika
+2Narikas = = 1 Muhdrtta 6 or 7 Narikas = 1 Yama. Or
+
+watch of the day or night
+Allusions to this or either of the proceeding
+computations, or to any other, have not been found
+in either of the other Puranas: yet the work of
+Gopila Bhatta, from which Colebrooke states he
+derived his information on the subject of Indian
+
+## Page 21
+
+20
+
+THE VISNU-PURANAM
+
+weights and measures (A. R. 5. 105); the Sarnkhya
+Parimana, cities the Varaha Purana for a peculiar
+computation. and quotes another from the Bhavis
+ya, different from that which occurs in the first
+chapter of that work, to which we have referred.
+The principle of the calculation adopted by the
+astronomical works is different: it is, 6 respirations
+(Prana)=l Vikala; 60 Vikalas==| Danda; 60
+Dandas=l sydereal day. The Nimesa. which is the
+base of one of the Pauranik modes, is a twinkle of
+the eye of a man at rest; whilst the Paramanu which
+is the origin of the other, and apparently more
+modern system, considcring the works in which it
+occurs, is the time taken by a Paramanu. or mote in
+the sun-beam, to pass through a crevice in a shutter.
+Some indications of this calculation being in
+common currency, occur in the Hindustani terms
+Renu (Trasarenu) and Lamhu (Laghu) in Indian
+horometry (A.R.5.81); whilst the more ordinary.
+system seems derived from the astruaomical works,
+being 60 Tilas=l Vipala; 60 Vipalas=1 Pala; 60
+Palas=1 Danda or Ghari. Ibid.
+
+4. These calculations of time are found in most
+of the Puranas, with some addition, occasionally, of
+no importance, as that of the year of the seven Rsis,
+3030 mortal years, and the year of Dhruva, 9090
+such years, in the Linga Purana in all essential
+points the computations accord, and the scheme,
+extravagant as it may appear, seems to admit of
+easy explanation. We have, in the first place, a
+computation of the years of the gods in the four
+
+ages, or,
+
+KrtaYuga +. 4000
+
+Sandya
+
+Sandyansa ...
+
+Treté Yuga
+
+Sandya
+
+Sandyansa 300
+3600
+
+Dvapara Yuga 2000
+
+Sandya 200
+
+Sandyansa 200
+2800
+
+Kali Yuga 1000
+
+Sandya 100
+
+Sandyansa 100
+1200
+12000
+
+If these divine years are converted into years of
+mortals, by multiplying them by 360. a year of men
+being a day of the gods, we obtain the years of
+which the Yugas of mortals are respectively said to
+consist:
+
+4800x360 1,728,000
+3600x360 = 1.296,000
+2400x360 = 864,000
+1200x360 432,000
+
+4,320,000 a Mahadyuga.
+So that these periods resolve themselves into
+very simple elements: the notion of four ages in a
+deteriorating series expressed by descending
+arithmetical progression, as 4, 3, 2,1; the
+conversion of units into thousands; and the
+mythological fiction, that these were divine years,
+each composed of 360 years of men. It does not
+secm necessary to refer the invention to any
+astronomical computations, or to any attempt to
+represent actual chronology.
+5, The details of these, as occurring in each
+Manvantara, are given in the third book. c. | and 2.
+6. aqdari dena after aeaafi:! One and
+seventy enumerations of the four ages, with a
+surplus,' A similar rcading occurs in several other
+Puranas, but none of them state of what the surplus
+or addition consists; but it is, infact, the number of
+years required to reconcile two computations of the
+Kalpa. The most simple, and probably the original
+calculation of a Kalpa. is its being 1000 great ages,
+or ages of the gods: Weg eared Sart ATS!
+teri qari y aed vitterm wet ened cat
+ufseean Bhavisya Purina Then 4,320,000 years,
+or a divine age, x 1000=4,320,000,000 years, or a
+day or night of Brahma. But a day of Brahma is
+also seventy-one times a great age multiplied by
+fourteen: 4,320,000x71x14=4,294,080,000; or less
+than the preceding by 25,920,000; and it is to make
+up for this deficiency that a certain number of years
+must be added to the computation by Manvantaras.
+According to the Strya Siddhanta, as cited by
+Davis (A. R. 2. 231), this addition consists of a
+
+## Page 22
+
+BOOK I, CHAP. 4
+
+21
+
+Sandhi to each Manvantara, equal to the Satya age,
+or 1,728,000 years;.and one similar Sandhi at the
+commencement of the Kalpa:
+
+thus — 4,320,000x71=306,720,000+1,728,000=
+308,448,000 x 14=4318,272,000+1,728,000
+4320,000,000. The Pauraniks, however, omit the
+Sandhi of the Kalpa, and add the whole
+compensation to the Manvantaras. The amount of
+this in whole numbers is 1,851,428 in each
+Manvantara. or
+4,320,000x7 1=306,720,000+ 1,85 1,428==
+308,571,428 x 14 = 4319,999,992: leaving a very
+small inferiority to the result of the calculation of a
+Kalpa by a thousand great ages. To provide for this
+deficiency, indeed, very minute sub-divisions are
+admitted into the calculation; and the commentator
+on our text says, that the additional years, if of
+gods, are 5142 years. 10 months, 8 days, 4 watches,
+2 Muhirttas, 8 Kalis, 17 Kasthas, 2 Nimesas, and
+1/7th; if of mortals, 1,851,428 years, 6 months, 24
+days. 12 Naris. 12 Kalas, 25 Kasthas, and 10 Nimes
+as. It will be observed, that in the Kalpa we have
+the regular descending series 4, 3. 2, with cyphers
+multiplied ad libitum.
+
+7. The Brahma Vaivartta says 108 years, but this
+is unusual. Brahma's life is but a Nimesa of Krsna,
+according to that work; a Nimesa of Siva.
+according to the Saiva Purina.
+
+8. In the last book the Pararddha occurs as a very
+different measure of time, but it is employed here
+in its ordinary acceptation.
+
+9. In theory the Kalpas are infinite; as the Bhavis
+ya: Teen Seri 2 Tea ares
+‘Excellent sages, thousands of millions of Kalpas
+have passed, and as many are to come.’ In the Linga
+Purana, and others of the Saiva division, above
+thirty Kalpas are named, and some account given of
+several but they are evidently  sectarial
+embellishments. The only Kalpas usually specified
+are those which follow in the text : the one which
+was the last, or the Padma. and the present or
+Varaha. The first is also commonly called the
+Brahma; but the Bhagavata distinguishes the
+Brahm, considering it to be the first of Brahma's
+life. whilst the Padma was the last of the first
+Pararddha. The term Mahi, or great Kalpa applied
+to the Padma is attached to it only in a general
+sense; or. according to the commentator. because it
+comprises, as a minor Kalpa, that in which Brahma
+was born from a lotus. Properly, a great Kalpa is
+not a day, but a life of Brahma; as in the Brahma
+
+Vaivartta: sama ae: arefafeftatia: | asset
+
+wauiga: Hya:1| Chronologers compute a
+Kalpa by the life of Brahma. Minor Kalpas, as
+Samvartta and the rest, are numerous.’ Minor
+Kalpas here denote every period of destruction, or
+those in which the Samvartta wind, or other
+destructive agents, operate. Several other
+computations of tune are found in different
+Puranas, but it will be sufficient to notice one
+which occurs in the Hari Varhga. as it is peculiar,
+and because it is not quite correctly given in M.
+Langlois’ translation It is the calculation of the
+Manava time. or time of a Manu.
+
+10. divine years | =a day and night of a Manu.
+10 Manava days = his fortnight,
+10 Manava form. = his month.
+12 Manava months = his season.
+6 Manava seasons = his year.
+
+Accordingly the commentator says 72000 divine
+years make up his year. The French translation has,
+“dix annees des dieux font un jour de Manu; dix
+jours des dieux font un pakcha de Manu," etc, The
+error lies in the expression "jours des dieux” and is
+evidently a mere inadvertence : for if ten years
+make a day, ten days can scarcely make a fortnight.
+
+RK
+
+## Page 23
+
+BOOK I, CHAP. 4
+
+21
+
+CHAPTER 4
+aguiseara:
+Carat wtavirg)
+a3a sarr
+Ben ATTUTSRS at eat wary TM
+
+want achat cares weTyAN gH
+
+Maitreya said—Tell me. mighty sage.
+How, in the commencement of the (present)
+Kalpa, Narayana, who is named Brahma,
+created all existent things.’
+
+Way Fart
+WAT: WAS MTA TA ATT S:|
+werafeafadat ser at Fremrrn au
+PardSara replied~ In what manner the
+
+divine Brahma, who is one with Narayana,
+created progeny, and is thence named the lord
+
+## Page 24
+
+22
+
+THE VISNU-PURANAM
+
+of progeny (Prajapati). the lord god. you shall
+hear.
+
+aniiraearerart Fremgatfert: 1y:1
+
+Praia Ten Yt citer 311
+
+ana: wisferar: wWearaft @ My:
+
+vereett wTarrie: WATT: SI
+
+BH drerercea vette areata
+
+wereeafiat Sa wert: weATETTTN GI
+
+At the close of the past (or Padma) Kalpa.
+the divine Brahma endowed with the quality of
+goodness, awoke from his night of sleep, and
+beheld the universe void. He, the supreme
+Narayana, the incomprehensible, the sovereign
+of creatures, invested with the form of
+Brahma, the god without beginning, the
+creator of all things; of whom. with respect to
+his name Narayana, the god who has the form
+of Brahma, the imperishable origin of the
+world, this verse is repeated.
+
+amit are fet aheat sat a aT:
+are wer at: We Ba AAT: AAG I
+arava: w mgt area seeesTOry Wy:
+START Agent ayant: WATaAT: WN
+say Tae aenfey sat FT
+aRrenifeant Teg ANTE ATTA:
+
+"The waters are called Nara, because they
+were the offspring of Nara (the supreme
+spirit); and as in them his first (Ayana)
+progress (in the character of Brahma) took
+place, he is thence named Narayana the whose
+place of moving was the waters)."? He, the
+lord, concluding that within the waters lay the
+earth, and being desirous to raise it up, created
+another form for that purpose; and as in
+preceding Kalpas he had assumed the shape of
+a fish or a tortoise, so in this he took the figure
+of a boar.
+
+aqard wage: feat
+
+fea: Ferrer water were sarah: 1 et
+srcirama: fag: wrareefinga:|
+
+wferergr eT ATATETTAY TTT: 11 0 1
+
+Having adopted a form composed of the
+sacrifices of the Vedas’, for the preservation of
+the whole earth, the eternal, supreme, and
+universal soul, the great progenitor of created
+beings, eulogized by Sanaka and the other
+saints who dwell in the sphere of holy men
+(Janaloka); he, the supporter of spiritual and
+material being, plunged into the ocean.
+
+Fetes a der Set rarer
+
+JOT OTT Hy AHA IATA 8M
+
+The goddess Earth, beholding him thus
+descending to the subterrene regions, bowed in
+devout adoration, and thus glorified the god:
+
+yfuegara
+
+Wa ey PAA Pg
+
+Tryarrened wt raeisé yeryferam eit
+
+watseqga yed wrraré ST
+
+rere er eae areas ART: 83
+
+FAT TUNA PRATT THIS A
+
+METAR She A ATI ge
+
+Prthvi (Earth) said— Hail to you, who are
+all creatures; to you, the holder of the mace
+and shell: elevate me now from this place, as
+you have upraised me in days of old. From
+you have I proceeded; of you do I consist; as
+do the skies, and all other existing things. Hail
+to you, spirit of the supreme spirit, to you, soul
+of soul; to you. who are discrete and indiscreet
+
+matter; who are one with the elements and
+with time.
+
+4 ant adyart ore ot ferrerad
+anifag weit gafampeRTerRTTR Bh
+afta Tact waa
+
+Be rata tifa ferret wetfefi- gg
+wadt ay wt aed a Set erT
+sanity agi date fedtena: 1 gon
+Tae WE Tel AAT Bhs AUT: |
+ATQeaHATTEA at hat AaaTERAFA ge
+ad feafaerer areal Aeare separate:
+
+## Page 25
+
+BOOK I, CHAP. 4
+
+23
+
+aaa a aq Uftadet aguafiact aan een
+
+You are the creator of all things, their
+preserver, and their destroyer, in the forms, oh
+lord, of Brahma. Visnu, and Rudra, at the
+seasons of creation, duration, and dissolution.
+When you have devoured all things, you
+reposes on the ocean that sweeps over the
+world, meditated upon, oh Govinda, by the
+wise. No one knows your true nature, and the
+gods adore you only in the forms it has
+pleased you to assume. They who are desirous
+of final liberation, worship you as the supreme
+Brahma; and who that adores not Vasudeva,
+shall obtain emancipation? Whatever may be
+apprehended by the mind. whatever may be
+perceived by the senses, whatever may be
+discerned by the intellect, all is but a form of
+you.
+
+TESS SMT ART ATU
+
+mreetfate crasrafieas att fe ATTN RON
+
+Wena Ta WeTTATSTA
+
+Sat SaTea We SaATS WHT 2 aM
+
+WITTY EMT HS BATISTA
+
+Fe Aye TULSA TTTTRTATAT: I VI
+
+wa dared wag ei aagent et
+
+atest were FaraTvafaet TTT 231
+
+Tahpingras afst year
+
+wath aa Aakh wart wat
+
+aad wt tered yah get Aa TA Ve
+
+I am of you, upheld by you; you are my
+creator, and to you I fly for refuge: hence, in
+this universe, Madhavi (the bride of Madhava
+or Visnu) is my designation. Triumph to the
+essence of all wisdom, to the unchangeable,
+the imperishable: triumph to the eternal; to the
+indiscreet, to the essence of discrete things: to
+him who is both cause and effect; who is the
+universe; the sinless lord of sacrifice; ‘triumph.
+You are sacrifice; you are the oblation; you are
+the mystic Okara; you an the sacrificial fires;
+you are the Vedas, and their dependent
+science,; you are, Hari, the object of all
+worship.' The sun, the stars, the planets, the
+
+whole world; all that is formless, or that has
+form; all that is visible, or invisible; all, Purus
+ottama, that I have said, or left unsaid; all this,
+Supreme, you are. Hail to you, again and
+again! hail! all hail!
+WIG ary
+
+Ua eq yiroa yferdtaz:1
+
+errata: starz aret ufteroq 24 11
+
+Wa: Wafers at waégat
+
+ARATE: BHCTTCA: |
+
+wafer aret garrett WEN ZG II
+fase a4 qeanrenet
+
+ARTA TACHA
+segreverare fe ary Mere
+
+PRTATACTAL FAT 2911
+sented aycrerfereret
+
+THE, FAM: |
+arabian: wet: Tat
+
+Fog a & Frnt aaa 2c
+Shermer TETRA
+
+terres wat farerahi
+fagradt Sand yritt
+
+Taree Brat Ys 2H
+
+wie of 2 Raahe afr
+ren ATT
+SUT ACAI 3 0 11
+
+Parasara said—The auspicious supporter of
+the world, being thus hymned by the earth,
+emitted a low murmuring sound, like the
+chanting of the Sama Veda; and the mighty
+boar, whose eyes were like the lotus, and
+whose body, vast as the Nila mountain, was of
+the dark colour of the lotus leaves, ‘uplifted
+upon his ample tusks the earth from the lowest
+regions. As he reared up his head, the waters
+shed from his brow purified the great sages,
+Sanandana and others, residing in the sphere
+of the saints. Through the indentations made
+by his hoofs, the waters rushed into the lower
+
+a
+
+## Page 26
+
+24
+
+THE VISNU-PURANAM
+
+worlds with a thundering noise. Before his
+breath, the pious denizens of Janaloka were
+scattered, and the Munis sought for shelter
+amongst the bristles upon the scriptural body-
+of the boar, trembling as he rose up,
+supporting the earth, and dripping with
+moisture. Then the great sages, Sanandana and
+the rest, residing continually in the sphere of
+saints, were inspired with delight, and bowing
+lowly they praised the stern-eyed upholder of
+the earth.
+wea weg Aya
+wat verphaenfe wage
+wafer areftatiegiar-
+Paha TA TAS A TTI 2
+Uy Aare ude aay amir set
+earaiiraista ayeetior eat: wet aagHteaa 32
+facies waet were Waleed gered force
+BHATT werent Brot wreTs Edife Fan
+qysermaaitong wrdgrearnfiacrarera
+Weanisanisfa a Garaaery way Wea BYU
+vaemarayd verrenfefiatrsrart ferrgi
+fore faa: wtarisfa sete aisha wea
+aprafaarenpratad qauset ae fawreaa 7
+famed: ware fart wilfariteatiatougrn 3 & 11
+manger
+aett aq ag Taal
+are ae:
+feara fare fast va TN BON
+weadeatcat aratshet Hert: Ta:
+
+aaa fee Sa Saree 3 CH
+
+The Yogis said~ Triumph, lord of lords
+supreme; KeSava, sovereign of the earth, the
+wielder of the mace, the shell, the discus, and
+the sword: cause of production, destruction,
+and existence. You are, oh god : there is no
+other supreme condition, but you. You. lord,
+are the person of sacrifice: for your feet are the
+Vedas; your tusks are the stake to which the
+victim is bound; in your teeth are the
+
+offerings; your mouth is the altar; your tongue
+is the fire; and the hairs of your body are the
+sacrificial grass. Thine eyes, oh omnipotent
+are day and night; your head is the seat of all,
+the place of Brahma; your mane is all the
+hymns of the Vedas; your nostrils are all
+oblations: oh you, whose snout is the ladle of
+oblation; whose deep voice is the chanting of
+the Sama Veda; whose body is the hall of
+sacrifice, whose joints are the different
+ceremonies; and whose ears have the
+properties of both voluntary and obligatory
+riles;” do you who arc eternal, who are in size
+a mountain, be propitious. We acknowledge
+you, who has traversed the world, oh universal
+form, to be the beginning, the continuance,
+and the destruction of all things: you are the
+supreme god. Have pity on us, oh lord of
+conscious and unconscious beings. The orb of
+the earth is seen seated on the tip of your
+tusks, as if you had been sporting amid a lake
+where the lotus floats, and had borne away the
+leaves covered with soil. The space between
+heaven and earth is occupied by your body, oh
+you of unequalled glory, resplendent with the
+power of pervading the universe, oh lord, for
+the benefit of all. You are the aim of all: there
+is none othcr than you, sovereign of the world:
+this is your might, by which all things, fixed or
+movable, are pervaded.
+
+AAAS FPA TRA TTAT
+iat water sergaratr:11 3.31
+areeunfadt setagea:!
+ooberett Uyedt MET AAA ¥ ott
+aq are: yorreeisfact oy
+ares wagatar wags TATU ye
+wate wdeatery ware aranfary
+sedate vat Saree ¥ ei
+
+This form, which is now beheld, is your
+form, as one essentially with wisdom. Those
+who have not practised devotion, conceive
+erroneously of the nature of the world. The
+ignorant, who do not perceive that this
+
+## Page 27
+
+BOOK I, CHAP. 4
+
+universe is of the nature of wisdom, and Judge
+of it as an object of perception only, are lost in
+the ocean of spiritual ignorance. But they who
+know true wisdom, and whose minds are pure,
+behold this whole world as one with divine
+knowledge, as one with you, oh god. Be
+favorable, oh universal spirit: raise up this
+earth, for the habitation of created beings.
+Inscrutable deity, whose eyes are like lotuses,
+give us felicity.
+
+wranisfe anay ties via
+
+aRSt Waray vi At Serene +31
+
+wingiiadt sranquantioit
+
+WaT THAIS Vi at Teer yw
+
+Oh lord, you are endowed with the quality
+of goodness : raise up, Govinda, this earth, for
+the general good. Grant us happiness, oh lotus-
+eyed. May this, your activity in creation, be
+beneficial to the earth. Salutation to you. Grant
+us happiness, oh lotus-eyed.
+WAI Fart
+
+wa deqaartisa ware Etat:
+
+serene faxfat fare =reraiay vero x4
+
+weatat ayaa vent afta firm
+
+ferrarara Seer a wet aft Mera wE I
+
+aa: fafa wnt Gear yfseat ister Aefroy
+
+aan faurt ararenfe: Tat xt
+
+are wigefaery wary yfadtaet
+
+aris wardur waattreaifira: ix ou
+
+Parasara said— The supreme being thus
+eulogised, upholding the earth, raised it
+quickly, and placed it on the summit of the
+ocean, where it floats like a mighty vessel, and
+from its expansive surface does not sink
+beneath the waters. Then, having levelled the
+earth, the great eternal deity divided it into
+portions, by mountains: he who never wills in
+vain, created, by his irresistible power, those
+mountains gain upon the earth which had been
+consumed at the destruction of the world.
+
+gfaant aa: grat wast aera
+
+25
+
+qaraiggy citar ydaq wracTAT ye
+
+geeonl Faenisd Treat ga:!
+
+want Ufe wratrqdaaat eft: yo!
+
+Pirmoatandd year wasn
+
+ween CATT aT ST STMT: 2
+
+faftannt yarark arr fafa
+
+stad avai de way TATRA VM
+
+far sitferargeret weraigt aguifeara:1
+
+Having then divided the earth into seven
+great portions cr continents, as it was before,
+he constructed in like manner the four (lower)
+spheres, earth, sky, heaven, and the spherc of
+the sages (Maharloka). Thus Hari, the four-
+faced god, invested with the quality of
+activity, and taking the form of Brahma,
+accomplished the creation: but he (Brahma) is
+only the instrumental cause of things to be
+created; the things that are capable of being
+created arise from nature as a common
+material cause: with the exception of one
+instrumental cause alone, therc is no need of
+any other cause, for (imperceptible) substance
+becomes perceptible substance according to
+the powers with which it is originally imbued."
+
+RK
+
+NOTES
+
+1. This creation is of the secondary order, or
+Pratisarga; water, and even the earth, being in
+existence, and consequently having been preceded
+by the creation of Mahat and the elements. It is also
+a different Pratisarga from that described by Manu.
+in which Svayambhu first creates the waters, then
+the egg : one of the simplest forms, and perhaps
+therefore one of the earliest in which the tradition
+occurs.
+
+2. This is the well known verse of Manu. I. 8,
+rendered by Jones. “The waters are called Nara.
+because they were the production of Nara. or ‘the
+spirit’ of God; and since they were his first Ayana.
+or place of motion, he thence is named Narayana,
+or ‘moving on the waters.” Now although there can
+be little doubt that this tradition is in substance the
+same as that of Genesis, the language of the
+translation is perhaps more scriptural than is quite
+
+## Page 28
+
+26
+
+THE VISNU-FURANAM
+
+warranted. The waters, it is said in the text of
+Manu, were the progeny of Nara. which Kullika
+Bhatta explains Paramatma, the supreme soul; that
+is, they were the first productions of God in
+creation. Ayana. instead of ‘Place of motion,’ is
+explained by Agraya, ‘place of abiding.’ Narayana
+means, therefore, he whose place of abiding was
+the deep. The verse occurs in several of the
+Puranas, in general in nearly the same words. and
+almost always as a quotation, as in our text: #4
+drerecaa vei! The Linga, Vayu. and Markandeya
+Puranas, citing the same. have a somewhat different
+reading; or. 37 ARI -@ aya Fern aT ATH) Ey WA
+aaa a ARTA: yas! ‘Apa (is the same (as)
+Nara. or bodies (Tanava); such, we have heard
+(from the Vedas), is the meaning of Apa. He who
+sleeps in them. is thence called Narayana, The
+ordinary sense of Tanu is either ‘minute’ or ‘body.’
+nor does it occur amongst the synonyms of water in
+the Nirukta of the Vedas. It may perhaps be
+intended to say. that Nara or Apa has the meaning
+of ‘bodily forms, in which spirit is enshrined, and of
+which the waters, with Visnu resting upon them are
+a type; for there is much mysticism in the Puranas
+in which the passage thus occurs. Even in them.
+however, it is introduced in the usual manner, by
+describing the world as water alone, and Visnu
+reposing upon the deep : wamt§ war wer... Foi
+aRrTeRg! Tart afer Tem! Vayu Purina The
+Bhagavata has evidently attempted to explain the
+ancient text: yeasvs fatter get ow Paras
+araseaRetiseairgr: yeh) aretaretiq,
+eager weenie! Fa ARP AT war: WRIA: |
+‘When the embodied god in the beginning divided
+the mundane egg, and issued form. then, requiring
+an abiding place, he created the waters: the pure
+created the pure. In them. his own created be abode
+for a thousand years, and thence received the name
+of Narayana : the waters being the product of the
+embodied deity :' i. e. they were the product of
+Nara or Visnu, as the first male or Virat. and were
+therefore termed Nara : and from there being his
+Ayana or Sthna, his ‘abiding place’ comes his
+epithet of Narayana.
+
+3. The Varaha form was thosen, says the Vayu
+Purana because it is an animal delighting to sport in
+water, but it is described in many Puranas, as it is in
+the Visnu, as, a type of the ritual of the Vedas, as
+we shall have further occasion to remark. The
+
+elevation of the earth from beneath the ocean in this
+form, was, therefore, probably at first an allegorical
+representation of the extrication of the world from a
+deluge of iniquity by the rites of religion.
+Geologists may perhaps suspect, in the original and
+unmystified tradition, an allusion to a geological
+fact, or the existence of lacustrine mammalia in the
+early periods of the earth.
+
+4. Yajiiapati, ‘the bestower of the beneficial
+results of sacrifices.,
+
+5. Yajfiapurusa, "the male or soul of sacrifice;'
+explained by Yajfiamirtti, ‘the form or
+personification of sacrifice :' or Yajfiaradhya, ‘he
+who is to be propitiated by it.’
+
+6. Varaha Avatara, The description of the figure
+of the boar is much more particularly detailed in
+other Puranas. As in the Vayu: “The boar was ten
+Yojanas in breadth, a thousand Yojanas high; of the
+colour of a dark cloud; and his roar was like
+thunder; his bulk was vast as a mountain; his tusks
+were white, sharp, and fearful; fire flashed from his
+eyes like lightning, and he was radiant as the sun;
+his shoulders were round, fat and large; he strode
+along like a powerful lion; his haunches were fat,
+his loins were slender, and his body was smooth
+and beautiful.” The Matsya Purana describes the
+Viriha in the same words, with one or two
+unimportant varieties. The Bhagavata indulges in
+that amplification which marks its more recent
+composition, and describes the Vardha as issuing
+from the nostrils of Brahma. at first of the size of
+the thumb, or an inch long, and presently increasing
+to the stature of an elephant. That work also
+subjoins a legend of the death of the demon
+Hiranyaksa, who in a preceding existence was one
+of Visnu's doorkeepers, at his palace in Vaikuntha.
+Having refused admission to a party of Munis, they
+cursed him, and he was in consequence born as one
+of the sons of Diti. When the earth, oppressed by
+the weight of the mountains, sunk down into the
+waters, Visnu was beheld in the subterrene regions,
+or Rasatala. by Hira-nyaksa in the act of carrying it
+off. The demon claimed the earth, and defied Visnu
+to combat; and a conflict took place, in which
+Hiranyaksa was slain. This legend has not been met
+with in any other Purana, and certainly does not
+occur in the chief of them, any more than in our
+text In the Moksa Dharma of the Mahabharata, c.
+35, Visnu destroys the demons in the form of the
+
+## Page 29
+
+BOOK I, CHAP. 5
+
+Varaha, but no particular individual is specified,
+nor does the elevation of the earth depend upon
+their discomfiture. The Kalika Upapurana has an
+absurd legend of a conflict between Siva as a
+Sarabha. a fabulous animal, and Visnu as the
+Varaha, in which the latter suffers himself and his
+offspring begotten upon earth to be slain.
+
+7. This, which is nothing more than the
+development of the notion that the Varaha
+incarnation typifies the ritual of the Vedas, is
+repeated in most of the Purdnas in the same or
+nearly the same words.
+
+8. This seems equivalent to the ancient notion of
+a plastic nature: “All parts of matter, by reason of a
+certain life in them, being supposed able to form
+themselves artificially and methodically to the
+greatest advantage of their present respective
+capabilities.” This, which Cudworth (c. Ill) calls
+hylozoism, is not incompatible with an active
+creator: “not that he should, avtovpyav anavta,
+set his own hand to every work, which, as ‘Aristotle
+says, would be, unbecoming God; but, as in the
+case of Brahma and other subordinate agents, that
+they should occasion the various developments of
+crude nature to take place, by supplying that will.
+of which nature itself is incapable. Action being
+once instituted by an instrumental medium, or by
+the will of an intellectual agent, it is continued by
+powers or a vitality inherent in nature or the matter
+of creation itself. The efficiency of such
+subordinate causes was advocated by Plato,
+Aristotle, and others; and the opinion of Zeno. as
+stated by Laertius, might be taken for a translation
+of some such passage as that in our text : “Eat Se
+govats eC avtn& Kocpevn Kata anepuatkavt
+AoyovE, anotToAOVWa TE KM ave~ovaa ta s&
+avtnd ev apopevors Epo8vorg, Kat toravta
+Spaaa ap oWv aex16n Nature is a habit moved
+from itself, according to seminal principles;
+perfecting and containing those several things
+which in determinate times are produced from it,
+and acting agreeably to that from which it was
+secreted.’ Intell, system, I. 328. So the
+commentator illustrates our text by observing that
+the cause of the budding of rice is in its own seeds,
+and its development is from itself, though its
+growth takes place only at a determinate season , in
+
+consequence of the instrumental agency of the rain.
+RK
+
+## Page 30
+
+BOOK I, CHAP. 5 27
+
+CHAPTER 5
+USnsera:
+
+atest View)
+3a sart
+
+war was eaistt affagerary
+
+ager feted, qeirrafecitea:n gn
+
+aq wearers aaa wale
+
+amet Weary TEM ATTRA AT I
+
+Maitreya said— Now unfold to me, O
+Brahman, how this deity created the gods,
+sages, progenitors, demons, men, animals,
+trees, and the rest, that abide on earth, in
+heaven, or in the waters: how Brahma at
+creation made the world with the qualities, the
+characteristics, and the forms of things! is
+called the first creation.
+
+WHR Jaret
+
+We areas quer geanfea:
+war was Malset Faraafiaery WYN AN
+Parasara said- I will explain to you,
+Maitreya, listen attentively, how this deity, the
+lord of all, created the gods and other beings.
+
+‘ofs faxrarere mene ae YT
+
+agfayde: wt: wgyrerierr: ist
+
+aah whet Tertheentiret wera: |
+
+aafaan: teraefar wget HET GH
+
+taarafima: wit erat wit aera
+
+afgedtswenrger dgarert ATT: 1G 1
+
+Whilst he (Brahma) formerly, in the
+beginning of the Kalpas, was medicating on
+creation, there appeared a creation beginning
+with ignorance, and consisting of darkness.
+From that great being appeared fivefold
+ignorance, consisting of obscurity, illusion,
+extreme illusion, gloom, utter darkness,’ The
+creation of the creator thus plunged in
+
+abstraction, was the fivefold (immovable)
+world, without intellect or reflection, void of
+
+## Page 31
+
+28
+
+THE VISNU-PURANAM
+
+perception or sensation, incapable of feeling,
+and destitute of motion,*
+
+Wen an aaah Gerke
+
+a qsaedé what Fe
+
+wenfieanra: wifertqetanzenrta
+
+area fate sqa: a frigate: Bac
+
+wares fererarert: wrat Wafer:
+
+serenfeusta sat TAN eH
+
+HEGHM SSTAMT Sela yrEaaaT: |
+
+SAUTER WS STAT TTT Rott
+
+Since immovable things were first created,
+
+this is called the first creation. Brahma,
+beholding that it was defective, designed
+another; and whilst he thus meditated, the
+animal creation was manifested, to the
+products of which the term Tiryaksrotas is
+applied, from their nutriment following a
+winding course’, These were called beasts,
+etc., and their characteristic was the quality of
+darkness, they being destitute of knowledge,
+uncontrolled in their conduct, and mistaking
+error for wisdom; being formed of egotism
+and self-esteem, labouring under the twenty-
+eight kinds of imperfection’, manifesting
+inward sensations, and associating with each
+other (according to their kinds).
+
+TORT TAT ATTA SAAS AAT
+
+aehatagdtaeg uaarectratan een
+
+a Geitfragen aferaraarga:
+
+were aferaa Seda AT: BAT VU
+
+querediag tantg a at)
+
+afery witsorery stators seroreTETn 83
+
+adisat U aa eet Tres TTT
+
+HOTT AL MT PeTaTieawATN Vet
+
+TUNAEATATRTRT MAMMA RTT: |
+
+sage erearenraetay BtTey REAAN Ch i
+
+Tengatg wea aisaigqearreang *
+
+3 wenrgragerreetticea Tats feraeT: RGM
+
+TEM F gage yates aie:
+
+weary aferaay Hye: Brerenter Fn gon
+
+Beholding this creation also imperfect,
+Brahma again medicated, and a third creation
+appeared, abounding with the quality of
+goodness, termed Urdhvasrotas.“The beings
+thus produced in the Urdhvasrotas creation
+were endowed with pleasure and enjoyment,
+unencumbered internally or externally, and
+luminous within and without. This, termed the
+creation of immortals, was the third
+perfomance of Brahma, who, although well
+pleased with it, still found it incompetent to
+fulfil his end. Continuing therefore his
+medications, there sprang, in consequence of
+his infallible purpose, the creation termed
+Arvaksrotas’, from indiscrete nature. The
+products of this are termed Arvaksrotasas,
+from the downward current (of their
+nutriment). They abound with the light of
+knowledge, but the qualities of darkness and
+of foulness predominate. Hence they are
+afflicted by evil, and are repeatedly impelled
+to action. They have knowledge both
+externally and internally, and are. the
+instruments (of accomplishing the object of
+creation. the liberation of soul). These
+creatures were mankind.
+
+sere afer: ant: wer yma
+
+wert wet: BT Para BeNOR Tu Re
+
+waa faites qreohg w aya
+
+aanftaendieng wt Ufa: BA: ee
+
+see wipe: wh: HPA shay:
+
+qorntaghy yor 4 wat: BA zon
+
+freaigatang a: trainer: @ seat
+
+wetetaraa: wet Saenteg w ByT 2 aN
+
+I have thus explained to you, excellent
+Muni, six® creations. The first creation was
+that of Mahat or Intellect, which is also called
+the creation of Brahma’. The second was that
+of the rudimental principles (Tanméatras),
+thence termed the elemental creation (Bhita
+sarga). The third was the modified form of
+egotism, termed the organic creation, or
+creation of the senses (Aindriyaka). These
+
+## Page 32
+
+BOOK I, CHAP. 5
+
+29
+
+three were the Prakrta creations, the
+developments of indiscrete nature, preceded
+by the indiscrete principle'’. The fourth or
+fundamental creation (of perceptible things)
+was that of inanimate bodies. The fifth. the
+Tairyag yonya creation, was that of animals.
+The sixth was the Orddhasrotas creation, of
+that of the divinities.
+
+adisateaters: wh: aa: ay AAT
+
+SMIST IE: WH: ATTA AN Vl
+
+wat agar: ant: weg Fa: Bar:
+
+watt dqala aterdt aaa: By ISN
+
+The creation of the Arvaksrotas beings was
+the seventh, and was that of man. There is an
+eighth creation, termed Anugraha, which
+possesses both the qualities of goodness and
+darkness.'! Of these creations, five are
+sccondary, and thrce are primary'?, But there
+is a ninth, the Kaumara creation, which is both
+primary and secondary",
+
+gat a wren wa wat: WaT:
+
+argent dgaa ard yeaa:
+
+earl srrdieres fener aightresfan 2x1
+
+These arc the nine creations of the great
+progenitor of all, and both as primary and
+secondary, are the radical causes of the world,
+proceeding from the sovereign creator. What
+clse dost you desire to hear ?
+
+aia sara
+dey aa: wif garetat Bt cra
+faenragighrantas rat gFratran 2411
+
+Maitreya said— You have briefly related to
+me. Muni, the creation of the gods and other
+beings: I am desirous, chief of sages, to hear
+from you a more ample account of their
+creation,
+
+WIR sara
+aifintifera: yet: Giererpyeny a1
+warner wre ert SATATAT: AEM
+RATT: BEY WaT TeiIGAST:|
+gam: ada: ote BR UTE ATH VON
+
+at Gargeaq 3 aIguta aga
+Forggrniataht SaTAATTAAN 26
+SeTTRTAT TAT SAAT, WATT: |
+fargatetarany yore aft AANA VH
+sera watarg aerapnferat ATA
+
+TY aren aaa Hag feet 3 ot
+faagrtem: siftrs wt: YT!
+Rae: AYR yaa geo fea 3 ei
+BRAT TY AeA Tramrenyg ferry
+
+aat fe afertt wareager Baar feat 3 BH
+Pramas AAS AS ATA
+fagerrararres feeroarer ATU 3 31
+sree faq ET aeeTAAY wy:
+
+B eeguswad wear ferret ast
+
+Parasara said— Created beings, although
+they are destroyed (in their individual forms)
+at the periods of dissolution, yet being affected
+by the good or evil acts of former existence,
+they are never cxemptcd from their
+consequences; and when Brahma creates the
+world anew, they are the progeny of his will,
+in the fourfold condition of gods, men,
+animals, or inanimate things. Brahma then,
+being desirous of creating the four orders of
+beings, termed gods, demons, progenitors, and
+men, collected his mind into itself.'* Whilst
+thus concentrated, the quality of darkness
+pervaded his body; and thence the demons (the
+Asuras) were first born, issuing from his thigh.
+Brahma then abandoned that form which was
+composed of the rudiment of darkness, and
+which, being deserted by him, became night.
+Continuing to create. but assuming a different
+shapc, he experienced pleasure; and thence
+from his mouth proceeded the gods, endowed
+with the quality of goodness. The form
+abandoned by him, became day, in which the
+good quality predominates; ard hence by day
+the gods are most powerful, and by night the
+demons. He next adopted another person, in
+which the rudiment of goodness also
+prevailed; and thinking of himself, as the
+
+## Page 33
+
+30
+
+father of the world, the progenitors (the Pitrs)
+were born from his side. The body, when he
+abandoned it, became the Sandya (or evening
+twilight), the interval between day and night.
+
+Tiararrat aye a Ay at:
+
+cataratener are ager FesraATAT 3 at
+
+ATTY A AAT a HET: STURT: |
+
+wate Teer af reper afi 3
+
+Brahma then assumed another person,
+
+pervaded by the quality of foulness; and from
+this, men, in whom foulness (or passion)
+predominates, were produced. Quickly
+abandoning that body, it became morning
+twilight, or the dawn.
+
+wieana afer agen: fret
+
+Bra wearers Temes taht A300
+
+wait warett wean arardanhs & wits
+
+seoreg wehatir Fryuiernfor gna c
+
+At the appearance of this light of day, men
+feel most vigour; while the progenitors are
+most powerful in the evening season. In this
+manner, Maitreya, Jyotsna (dawn), Ratri
+(night), Ahar (day), and Sandhya (evening),
+are the four bodies of Brahma invested by the
+three Qualities’.
+
+irene asa aye APT
+
+TA: YR TAO HT Ta SITET TAR SI
+
+FATT ST Vs TA MATRA: |
+
+FART: VAG TATA HANARTAT: MANY 0
+
+Be at aay ereT TTA FH
+
+SY: GET Bae HT aaa HATA Bit
+
+Next from Brahma, in a form composed of
+the quality of foulness, was produced hunger,
+of whom anger was born: and the god put forth
+in darkness beings emaciate with hunger, of
+hidcous aspects, and with long beards. Thosc
+beings hastened to the deity. Such of them as
+exclaimed, Oh preserve us! were thence called
+Raksasas"*: others, who cried out, Let us eat,
+were denominated from that expression Yaks
+as!”,
+
+THE VISNU-PURANAM
+
+afrrre ary apt Sem: sitet dea:
+
+errs fereat qa: wanted afert: 68H
+
+ating aswey wat sree: BAT:
+
+Wa: Beal Seeger fare xy
+
+atts apfagrien yard faferargrat:1
+
+Sera Ui ARTA TeraaTeT FATT wv
+
+frarit aay ard werahas & fie
+
+Beholding them so disgusting, the hairs of
+Brahma were shrivelled up, and first falling
+from his head, were again renewed upon it:
+from their falling they became serpents, called
+Sarpa from their creeping, and Ahi because
+they had deserted the head." The creator of
+the world, being incensed, then ereated fierce
+beings, who were denominated goblins,
+Bhitas, malignant fiends and eaters of flesh.
+The Gandharvas were next born. imbibing
+melody drinking of the goddess of speech,
+they were born, and thence their appellation”
+
+Went GET TAL eM TAHA WG UL
+
+Wa: eras aaife aaisaaa
+
+HAN AUTH YSIS: W TEAR SE tt
+
+Vaya Tey wate a weraft:|
+
+PT, SAAT PA WAAL, ATM ¥i9
+
+spread et TTA:
+
+areer: weraferst Traretes wR sc
+
+The divine Brahma, influenced by their
+material energies, having ereated these beings,
+made others of his own will. Birds he formed
+from his vital vigour; sheep from his breast,
+goats from his mouth; kine from his belly and
+sides; and horses, elephants, Sarabhas,
+Gavayas, deer, camels, mules, antelopes, and
+other animals, trom his feet: whilst from the
+hairs of his body sprang herbs, roots, and
+fruits.
+
+FaEpTPS gen seven fers
+
+Ber wired: WER] gas a Aaratn vei
+Ther: You Tar aM SIT: TT:
+
+Tar ar WIL MEMOS Frat My ott
+
+## Page 34
+
+BOOK I, CHAP. 5
+
+31
+
+amat fagt gait arn: varie:
+
+Sea: UTE: AST: THT] TTT 4 RH
+
+O foremost or the Bramanas! Brahma
+having created, in the commencement of the
+Kalpa various plants, employed them in
+sacrifices, in the beginning of the Treta age.
+Animals were distinguished into two classes,
+domestic (village) and wild (forest): the first
+class contained the cow, goat, the hog, the
+sheep, the horse, the ass, the mule: the latter,
+all beasts of prey, and many animals with
+cloven hoofs, the elephant, and the monkey.
+The fifth order were the birds; the sixth,
+aquatic animals; and the seventh, reptiles and
+insects”’,
+
+Tred u aaa fageeitt WaT
+
+afer @ aari Preby wa ETL 4
+
+fa Sei ai —
+
+Fel AM weet a afar FATT 31
+
+arnt weno: aHERT TET
+
+aeuntid a UTE, FETT sil
+
+wafarrmatornitatarora a
+
+ayes o Ay FATT] STNG Gt
+
+From his eastern mouth Brahma then
+created the Gayatri metre, the Rgveda. the
+collection of hymns termed Trivrt, the
+Rathantara portion of the Samaveda, and the
+Agnistoma sacrifice: from his southern mouth
+he created the Yajurveda, the Tristubh metre.
+the collection of hymns called Panchadga, the
+Brhat Sama, and the portion of the Sama-veda
+termed Uktha: from his western mouth he
+created the Sama-veda, the Jayati metre, the
+collection of hymns termed Saptadaga, the
+portion of the Sama called Vairipa, and the
+Atiratra sacrifice: and from his northern mouth
+he created the Ekavirnga collection of hymns,
+the Atharva-veda. the Aptoryama rite, the
+Anustubh metre, and the Vairaja portion of the
+Sama-veda”',
+
+serena sent meerTeT SRT
+Rargelieyy Wer yeaa waaay
+
+aa: Ya: Waal @ aera frase:
+
+aan fener weaketaracat TTT 4 oil
+
+aafaaraifa aa: wero
+
+werd a ord Sa afed MORAY 11
+
+aq weet tet gen wrrarnfaag feng:
+
+at & aft anion reg Goat wheres y eH
+
+arta 3 werd GRIT: YA: WA:
+
+feantsa ygRt cmtenigarg
+
+eat: MOERa TET Tel PT TANG ol
+
+In this manner all creatures, great or small,
+proceeded ffom his limbs. The great
+progenitor of the world having termed the
+gods, demons, and Pitrs, created, in the
+commencement of the Kalpa, the Yaksas,
+Pisachas (goblins), Gandharvas and the troops
+of Apsarasas the nymphs of heaven, Naras
+(centaurs, or beings with the limbs of horses
+and human bodies) and Kinnaras beings with
+the heads of horses), Raksasas, birds, beasts,
+dcer, serpents, and all things permanent or
+transitory, movable or immovable. This did
+the divine Brahmi, the first creator and lord of
+all: and these things being created, discharged
+the same functions as they had fulfilled in a
+previous creation, whether malignant or
+benign, gentle or cruel, good or evil, true or
+false; and accordingly as they are actuated by
+such propensities will be their conduct.
+
+shang gag witty a a wy:
+
+arared fatter ante ra, KATA G
+
+ara & ya Haat w WET)
+
+ayers varet targat wat: Wg VM
+
+adtont arent wer degen ay
+
+zen Frirarent waarafa aise & 3
+
+aetgg feat wrarenfor veka
+
+Sead aft area var sar BAe Gv
+
+witdfaai gfe aead a oF: WF:
+
+forgarmfageiset graeme: & 4 1
+fa stagger wenigt waiiseara:
+
+## Page 35
+
+32
+
+And the creator displayed infinite variety in
+the objects of sense, in the properties of living
+things, and in the forms of bodies: he
+determined in the beginning, by the authority
+of the Vedas, the names and forms and
+functions of all creatures, and of the gods; and
+the names and appropriate offices of the Rsis,
+as they also are read in Vedas. In like manner
+as the produces of the seasons designate in
+periodical revolution the return of the same
+season, so do the same circumstances indicate
+the recurrence of the same Yuga, or age; and
+thus, in the beginning of cach Kalpa, does
+Brahma repeatedly create the world,
+possessing the power that is derived from the
+will to create, and assisted by the natural and
+essential faculty of the object to be created.
+
+EK
+
+NOTES
+
+1. The terms here employcd are for qualities.
+Gunas; which, as we have alrcady noticed, are
+those of goodness, foulness, and darkness. The
+characteristics, or Swabhavas, are the inherent
+properties of the qualities, by which they act, as,
+soothing, terrific, or stupefying: and the forms.
+Swuripas. are the distinctions of biped, quadruped,
+brute, bird, fish, and the like.
+
+2. Or Tamas. Moha, Mahamoha, Tamisra.
+Andhatamisra; they are the five kinds of
+obstruction, viparyyaya, of soul's liberation,
+according to the Sarhkhya : they are explained to
+be, 1. The belief of material substance being the
+same with spirit; 2. Notion of property or
+possession, and consequent attachment to objects,
+as children and the like, as being one's own; 3.
+Addiction to the enjoyments of sense; 4. Impatience
+or wrath; and 5. Fear of privation or death, They
+are called in the Patafijala philosophy, the five
+afilixations, Klesa, but are similarly explained by
+Avidya, ‘ignorance;’ Asmitd, 'selfishness,, literally
+
+‘l-am-ness : ‘Raga, ‘love;' Dwesha, hatred :’ and
+Abhinivesa, (aififaa:), ‘dread of temporal
+suffering.’ Samkhya Karika, p. 148—150. This
+
+creation by Brahma in the Varaha Kalpa begins in
+the same way, and in the same words, in most of
+the Puranas. The Bhagavata reverses the order of
+
+THE VISNU-PURANAM
+
+these five products, and gives them, Andhatamisra,
+Tamisra, Mahamoha, Moha, and Tamas; a variation
+obviously more immethodical than the usual
+reading of the text, and adopted, no doubt, merely
+for the sake of giving the passage an air of
+originality.
+
+3. This is not to be confounded with elementary
+creation, although the description would very well
+apply to that of crude nature, or Pradhana : but, as
+will be seen presently, we have here to do with
+final productions, or the forms in which the
+previously created elements and faculties are more
+or less perfectly aggregated. The first class of these
+forms is here said to be immovable things; that is,
+the mineral and vegetable kingdoms; for the solid
+earth, with its mountains and rivers and seas, was
+already prepared for their reception. The ‘fivefold’
+immovable creation is indeed, according to the
+comment, restricted to vegetables, five orders of
+which are enumerated, or, 1. trees : 2. shrubs; 3
+climbing plants: 4, creepers : and 5. grasses.
+
+4, Tiryak. ‘crooked;' and Srotas, 'a canal.’
+
+5. Twenty-eight kinds of Badhas (a), which
+in the Sarhkhya system mean disabilities, as defects
+of the senses, blindness, deafness, etc.; and defects
+of intellect, discontent, ignorance, and the like. S.
+Karika, p. 148, 151. In place of Badha, however,
+the more usual reading, as in the Bhagavata,
+Varaha. and Markandeya Puranas, is Vidha (f44),
+‘kind,’ sort., as srafamfgererst: | implying twenty-
+eight sorts of animals. These are thus specified in
+the Bhagavata. III. 10 : Six kinds have single hoofs,
+nine have double or cloven hoofs, and thirteen have
+five claws or nails instead of hoofs. The first are the
+horse, the mule, the ass, the yak, the sarabha, and
+the gaura, or white deer. The second are the cow,
+the goat, the buffalo, the hog, the gayal, the black
+deer, the antelope, the camel, and the sheep. The
+last are the dog, shacal, wolf, tiger, cat, hare,
+porcupine, lion, monkey, elephant, tortoise, lizard,
+and alligator.
+
+6. Urddha. ‘above,’ and Srotas as before; their
+nourishment being derived from the exterior, not
+from the interior of the body : according to the
+commentator: Séq9R @egieta ata sees Wet eT
+U1 as a text of the Vedas has it; ‘Through satiety
+derived from even beholding ambrosia; *sryaaeTea
+Th
+
+7. Arvak. ‘downwards,’ and Srotas. ‘canal’
+
+## Page 36
+
+BOOK I, CHAP. 5
+
+33
+
+8. This reckoning is not very easily reconciled
+with the creations described, for. as presently
+enumerated, the stages of creation are seven. The
+commentator, however, considers the Urddhasrotas
+creation, or that of the superhuman beings, to be the
+same with that of the Indriyas, or senses over which
+they preside; by which the number is reduced to
+six.
+
+9. This creation being the work of the supreme
+spirit, wet Tare ay Sys: GH fara Fae: | according
+to the commentator : or it might have been
+understood to mean, that Brahma was then created,
+being, as we have seen, identified with Mahat,
+‘active intelligence.’ or the operating will of the
+Supreme. See Ch. II, Nofe 23.
+
+10. The text is, wt: Aya afeyeds: | which is, as
+rendered in the text, ‘creation preceded by, or
+beginning with Buddhi. intelligence., The rules of
+euphony would however admit of a mute negative
+being inserted, or A*ysafeqeds:1 ‘preceded by
+ignorance.’ that is by the chief principle, crude
+nature or Pradhana. which is one with ignorance :
+but this seems to depend on notions of a later date.
+and more partial adoption, than those generally
+prevailing in our authority; and the first reading
+therefore has been preferred, It is also to be
+observed, that the first unintellectual creation was
+that of immovable objects (as in p. 30-31), the
+original of which is, aafaqete: at: migraine:
+and all ambiguity of construction is avoided. The
+reading is also established by the text of the Linga
+Purana, which enumerates the diffcrent series of
+creation in the words of the Visnu, except in this
+passage, which is there transposed, with a-slight
+variation of the reading. Instead of 9 Hea: Wt
+fase TATE GB: it is WTA Fea: A: TEST afm: |
+“The first creation was that of Mahat : Intellect
+being the first in manifestation.’ The reading of tae
+Vayu Purana is still more tautological. but confirms
+that here preferred : eit Hea: ant fast Awa 1
+See also n. 12.
+
+11. The Anugraha creation, of which no notice
+has been found in the Mahabharata seems to have
+bcen borrowed from the Sarnkhya philosophy. It is
+more particularly described in the Padma,
+Markandeya, Linga and Matsya Puranas : as,
+wats: Fh @ wgel orafeea:) fare
+fasar qn ata au 'The fith is the Anugraha
+creation, which is subdivided into four kinds; by
+
+obstruction, disability, perfect-ness. and
+acquiescence. This is the Pratyaya sarga. or
+intellectual creation. of the Sarhkhyas (S. Karika. v.
+46. p. 146); the creation of which we have a notion,
+or to which we give assent (Anugraha), in
+contradistinction to organic creation, or that
+existence of which we have sensible perception. In
+its specific subdivisions it is the notion of certain
+inseparable properties in the four different ordcrs of
+beings : obstruction or stolidity in inanimate things;
+inability or imperfection in animals : perfectibility
+in man : and acquiescence or tranquil enjoyment in
+gods. So aho the Vayu Purana : @Taty
+
+fremont age Geeay
+eM: |
+
+12. Or Vaikrta, derived mediately from the first
+principle, through its Vikrtis, productions or
+developements;' and Prakrta, derived more
+immediately from the chief principle itself. Mahat
+and the two forms of Ahatikara, or the rudimental
+elements and the senses, constitute the latter class:
+inanimate beings, etc. compose the former : or the
+latter are considered as the work of Brahma, whilst
+the three first are evolved from Pradhana. So the
+Vayu : Mpeg wa: wh: Beret afogeta: | ateyel
+vate we wot: we 4) ‘The three creations
+beginning with intelligence are elemental; but the
+six creations which proceed from the series of
+which Intellect is the first are the works of Brahma.'
+
+13, We must have recourse here also to other
+Puranas, for the elucidation of this term. The
+Kaumiara creation is the creation of Rudra or
+Nilalohita, a form of Siva. by Brahma, which is
+subsequently described in our text, and of certain
+other mind-born sons of Brahma, of whose birth the
+Visnu Purana gives no further account : they are
+elsewhere termed Sanat-kumara, Sananda. Sanaka,
+and Sanatana, with sometimes a fifth, Rbhu, added.
+These, declining to create progeny, remained, as
+the name of the first implies, ever boys, kumaras;
+that is, ever pure and innocent: whence their
+creation is called the Kaumara. Thus the Vayu : 381
+aes 3 Fe AMSRIGR: TaN) TR Beh fast a
+TARA SAHARA BF a cies g Bees Pte wa)
+And the Linga has, 4ae: Gel Ut FAK @ eer
+Ferd erga aarEie yalfea: | Bring ever as he
+was born, he is here called a youth; and hencc his
+name is well known as Sanatkumiara.' This
+authority makes Sanatkumara and Rbhu the two
+
+## Page 37
+
+34
+
+THE VISNU-PURANAM
+
+first born of all : 4: GampARa gaaqeftadh
+Yatert.cderaft yeist) whilst the text of the Hari
+Varga limits the primogeniture to Sanat-kumara :
+wea a fay, gaat whi In another place,
+however, it enumerates apparently six. or the above
+four with Sana and either Rbhu or another
+Santana; for the passage is-corrupt. The French
+translation scribes a share in creation to
+Sanatkumira : 'Les sept Prajapatis, Raudra, Scanda,
+et Sanatkaumala, se mirent a produire les etres
+repandant partout l'inepuisable energic de dieu.’
+The original is, Wa AAPA 1 Won Bes MTA! HR:
+wpa wa: Sey faa! Sariksipya is not
+‘repandant.' but ‘restraining . and Tis¢hatah being in
+the dual number, relates of course to only two of
+the serics. The correct rendering is. These seven
+(Prajapatis) created progency. and so did Rudra;
+but Skanda and Sanatkuméra. restraining their
+powcr, abstained (from creation)’ So the
+commentator : Warmed dra fry yeagetata
+fagd:! These sages, however, live as long as
+Brabma, and they are only ercated by him in the
+first Kalpa, although their generation is very
+commonly, but inconsistently, introduced in the
+Varaha or Padma Kalpas. This creation, says the
+text, is both primary (Prakrta) and secondary
+(Vaikrta). It is the latter, according to the
+commentator, as regards the origin of these saints
+from Brahm : it is the former as affects Rudra.
+who, though proceeding from Brahma, in a certain
+form was in essence equally an immediate
+production of the first principle. These notions, the
+birth of Rudra and the saints, seem to have been
+borrowed from the Saivas, and to have been
+awkwardly engrafied upon the Vaisnava system.
+Sanatkumara and his brethren are always described
+in the Saiva Puranas as Yogis : as the Karma, after
+enumerating them, adds, Wa aifrt fam:
+fA: | These five, oh Brahmanas, were Yogis,
+who acquired entire exemption from passion :' and
+the Hari Varnsa, although rather Vaisnava than
+Saiva, observes, that the Yogis celebrate these six,
+along with Kapila, in Yoga works: wet afc Wa
+wsaia afr: aan arwsay aha fe fierss:1 The
+idea seems to have been amplified also in the Saiva
+works; for the Linga Purana describes the repeated
+birth of Siva. or Vamadeva. as a Kumara, or boy,
+trom Brahma, in each Kalpa, who again becomes
+four. Thus in the twenty-ninth Kalpa Swetalohita is
+
+the Kumara, and he becomes Sananda, Nandana.
+Visvananda. Upananda; all of a white complexion:
+in the thirtieth the Kumara becomes Virajas,
+Vivahu. Visoka, Visvabhavana; all of a red colour :
+in the thirty-first he becomes four youths of a
+yellow colour : and in the thirty-second the four
+Kumaras were black. All these are no doubt,
+comparatively recent additions to the original
+notion of the birth of Rudra and the Kuméras; itself
+obviously a sectarial innovation opon the primitive
+doctrine of the birth of the Prajapatis. or will-born
+sons of Brahma.
+
+14. These reiterated, and not always very
+congruous accounts of the creation are explained by
+the Puranas as referring to different Kalpas, or
+renovations of the world, and therefore involving
+no incompatibility. A better reason for their
+appearance is the probability that they have been
+borrowed from different original authorities. The
+account that follows is evidently modified by the
+Yogi Saivas. by its gencral mysticism, and by the
+expressions with which it begins: de targr-
+
+age frqgentetah rarer
+‘Collecting his mind into itself, 7 Tet)
+according to the comment, is the performance of
+the Yoga (Yiyuje). The term Ambhinsi, lit.
+‘waters.’ for the four orders of beings, gods.
+demons, men, and Pitrs. is also a peculiar, and
+probably mystic term. The, commentator says it
+occurs in the Vedas as a synonym of gods, etc.:
+wa were tar ayen: fretsga sf aa:! The
+Vayu Purana derives it from ‘to shine.’ because the
+different orders of beings shine or flourish severally
+by moonlight, night, day, and twilight: ete.
+TRATTASTATAT | etc.
+
+15. This account is given in several other
+Puranas : in the Karma with more simplicity; in the
+Padma. Linga, and Vayu with more detail. The
+Bhagavata, as usual, amplifies still more copiously,
+and mixes up much absurdity with the account.
+Thus the person of Sandhya, ‘evening twilight.’ is
+thus described: “She appeared with eyes rolling
+with passion, whilst her lotus-like feet sounded
+with tinkling ornaments: a muslin vest depended
+from her waist, secured by a golden zone: her
+breasts were protuberant, and close together; her
+nose was elegant: her tongue beautiful; her face
+was bright with smiles, and she modestly concealed
+it with the skirts of her robe; whilst the dark curls
+
+## Page 38
+
+BOOK I, CHAP. 6
+
+35
+
+clustered round her brow.” The Asuras address her,
+and win her to become their bride. To the four
+forms of our text, the same work adds, Tandri,
+‘sloth,’ Jrmbhika, ‘yawning;’ Nidra, ‘sleep;’
+Unmada, insanity; Antarddhana. ‘disappearance;'
+Pratibimba, ‘reflexion;' which become the property
+of Pisachas, Kinnaras, Bhitas, Gandharvas,
+Vidyadharas, Sadhyas, Pitrs, and Manus. The
+notions of night, day, twilight, and moonlight being
+derived from Brahma, seem to have originated with
+the Vedas. Thus the commentator on the Bhagavata
+observes, WISta TAR TeGTET UT aftreraeks Aa: 1
+‘That which was his body and was left, was
+darkness: this is the Sruti.' All the authorities place
+night before day, and the Asuras or Titans before
+the gods, in the order of appearance; as did Hesiod
+and other ancient theogonists
+
+16. From Raksa, 'to preserve.’
+
+17. From Yaksa, 'to eat,’
+
+18. From Srip, srpo, ‘to creep,’ and from HA, 'to
+abandon.'
+
+19. Gam dhayantah, “drinking speech.”
+
+20 This and the preceding enumeration of the
+origin of vegetables and animals occurs in several
+Puranas, precisely in the same words. The Linga
+adds a specification of the Aranya, or wild animals,
+which are said to be the buffalo, gayal, bear.
+monkey, sarabha, wolf, and lion,
+
+21. This specification of the parts of the Vedas
+that proceed from Brahma occurs, in the same
+words, in the Vayu, Liga, Kirma, Padma. and
+Markandeya Puranas. The Bhagavata offers some
+important varieties: “From his eastern and other
+mouths he created the Rik. Yajush. Sama, and
+Atharvan vedas; the Sastra or ‘the unuttered
+incantation;' Ijya ‘oblation:' Stuti and Stoma-prayers
+and hymns; and Prayascitta, ‘explation' or ‘sacred
+philosophy’ (Brahma). also the Vedas of medicine,
+arms, music, and mechanics; and the Itihasas and
+Puranas, which are a fifth Veda: also the portions of
+the Vedas called Sorasi, Uktha, Purisi. Agnistut,
+Aptoryama. Atiratra, Vajapeya, Gosava; the four
+parts of virtue, purity, liberality, piety, and truth:
+the orders of life. and their institutes and different
+religious rites and professions; and the sciences of
+logic, ethics, and polity. The mystic words and
+monosyllable proceeded from his heart; the metre
+Usnis from the hairs of his body; Gayatri from his
+skin: Tristubh from his flesh; Anustubh from his
+
+tendons; Jagati from his bones; Pankti from his
+marrow: Brhati from his breath. The consonants
+were his life: the vowels his body: the sibilants his
+senses: the semi-vowels his vigour". This
+mysticism, although perhaps expanded and
+amplified by the Pauraniks, appears to originate
+with the Vedas: as in the text, S48 Far! ‘The
+metre was of the tendons,’ The different portions of
+the Vedas specified in the text are yet, for the most
+part, uninvestigated.
+24K
+
+## Page 39
+
+BOOK I, CHAP. 6 35
+———eSeSSSSSSSSeSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSESNS
+
+CHAPTER 6
+wBrseara:
+
+caqdvdafy: , agdoherfrers)
+
+aaa vara
+
+sarang ae waa TY AT:
+
+wert ferent gfe wen TATE FAT gt
+
+aM a quae TaUTieT HATE
+
+aa fat ead aot fends agerATAN WN
+
+Maitreya said— You have briefly noticed,
+
+illustrious sage, the creation termed
+Arvaksrotas;-or that of mankind : now explain
+to me more fully how Brahma accomplished
+it; how he created the four different castes;
+what duties he assigned to the Brahmanas and
+the rest!.
+
+WR Farr
+wenfventar: ye fergatternit ser
+snared fade wali FEN WaT BH
+aera Traiger & TeaisTa
+THAT AAT eed TAR ATTA 1S
+TRAM: WaT Te a feo
+Ta WITET: Walengqavaiag asi yi
+‘wren: axfsrar ayer: yas fester
+WAST: TAT FIAT TARA
+
+Paragara replied- Formerly, oh best of
+Brahmanas, when the truth-meditating Brahma
+was desirous of creating the world, there
+sprang from his mouth beings especially
+
+## Page 40
+
+36
+
+THE VISNU-PURANAM
+
+endowed with the quality of goodness; others
+from his breast, pervaded by the quality of
+foulness; others from his thighs, in whom
+foulness and darkness prevailed; and others
+from his feet, in whom the quality of darkness
+predominated. These were, in succession,
+beings of the several castes, Brahmanas, Ks
+atriyas, Vaisyas, and Sadras, produced from
+the mouth, the breast, the thighs, and the feet
+of Brahma’,
+
+ahead watag Ten wa a1
+
+argued WeMrT AaeRATTATTTN 1
+
+agrrenfaat tat gegerifor a wen:
+
+MTA TR AAT: BEMOTSATT NC
+
+front ate werner:
+
+faqarrante: wha: wartnfafir nen
+
+rartvenit ager wrgatar aT WN
+
+aanfireferdt wart ag aa Agar fas gon
+
+WATEM Teo YEungawderaferth
+
+PARASTAATATAAUTT APTATAN 8A
+
+aereararaheat: adarenferafsren:1
+
+Uartaum: Yar: walyerPraienn en
+
+Ws a wat wate yasa- dfs wh
+
+We Tet woyater fawared Fr aqET ea
+
+We: Sareea Ase a Big: sla 1
+
+FAI TATATITAS OSI
+
+sentdirenyl mirigy
+
+wRarg arg Ale Tengen eH
+
+aa: wt Rem fafegerat anda Ber
+
+TieerareareM: fergaiset wafer a0 gen
+
+arg atoreatrary aegart a wae
+
+walhinrag:areten wafer aa: wars gon
+
+These he created for the performance of
+
+sacrifices, the four castes being the fit
+instruments of their celebration. By sacrifices,
+oh you who know the truth, the gods are
+nourished; and by the rain which they bestow,
+
+mankind are supported*: and thus sacrifices,
+the source of happiness, are performed by
+
+pious men, attached to their duties, attentive to
+prescribed obligations, and walking in the
+paths of virtue. Men acquire (by them)
+heavenly fruition, or final felicity: they go,
+after death, to whatever sphere they aspire to,
+as the consequence of their human nature. The
+beings who were created by Brahma, of these
+four castes, were at first endowed with
+righteousness and perfect faith; they abode
+wherever they pleased, unchecked by any
+impediment; their hearts were free from guile,
+they were pure, made tree from soil by
+observance of sacred institutes. In their
+sanctified minds Hari dwelt; and they were
+filled with perfect wisdom, by which they
+contemplated the glory of Visnu.’ After a
+while (after the Treta age had continued for
+some period), that portion of Hari which has
+been described as one with Kala (time) infused
+into created beings sin, as yet feeble though
+formidable, or passion and the like: the
+impediment of soul's liberation, the seed of
+iniquity, sprung from darkness and desire. The
+innate perfectness of human nature was then
+no more evolved: the eight kinds of perfection,
+Rasollaga and the rest, were impaired;> and
+these being enfeebled, and sin gaining
+strength, mortals were afflicted with pain,
+arising from susceptibility to contrast, as heat
+and cold, and the like.
+
+att guifin aapatet were
+
+part a cen ot yt adeeigenqn ecu
+Jen a warat ag wp: Fare
+pitereranfeererat severe merge ge
+wettearefing rat Biter: ATA:
+anitord marpeeafata a ariarqn 3 al
+Seas aaa Tet srorafetet: 1
+Praga Garey BGT: eT: 2 VN
+ANAT RT TET Frere: AeA: |
+MSR MOT: AAS: TAT
+They therefore constructed places of
+
+refuge, protected by trees, by mountains, or by
+water; surrounded them by a ditch or a wall,
+
+## Page 41
+
+BOOK I, CHAP. 6
+
+37
+
+and formed villages and cities; and in them
+erected appropriate dwellings, as defences
+against the sun and the cold.‘Having thus
+provided security against the weather, men
+next began to employ themselves in manual
+labour, as a means of livelihood, (and
+cultivated) the seventeen kinds of useful
+grain—rice, barley, wheat, millet, sesamum,
+panic, and various sorts of Icntils, beans, and
+pease.”
+awit A el
+
+sraett afrala arearerenesgdyn 2311
+
+Stes: Waar arar ear atoTafereT:)
+
+Seer MrT STRAT FAT: WU
+
+varmrenrecas Tare Se: WET:
+
+war Supren: MATTE cher BU AGN
+
+ARATE; BAT Aer siren Agee
+
+aaiferoreret aereeaT BPRTAN FGM
+
+UIEy We aa wat Ht TTT
+
+wereafae: wrrerat aay feraraetu Von
+
+aeISATEM BMA BRAT
+
+srartet got framers wnireq yen
+
+O sage! These are the kinds cultivated for
+domestic use: but there are fourteen kinds
+which may be offered in sacrifice; they are,
+rice, barley, Masa, wheat, millet, and
+sesamum; Priyangu is the seventh, and
+kulattha, pulse, the eighth: the others are,
+Syamaka, a sort of panic; Nivara, uncultivated
+rice; Jarttila, wild sesamum; Gavedhuka
+(coix); Markata, wild panic; and (a plant
+called) the seed or barley of the Bamboo
+(Venu-yava). These, cultivated or wild, are the
+fourteen grains that were produced for
+purposes of offering in sacrifice; and sacrifice
+(the cause of rain) is their origin also: they
+again, with sacrifice, are the great cause of the
+perpetuation of the human race, as those
+understand who can discriminate cause and
+effect. Thence sacrifices were offered daily;
+the performance of which, oh best of Munis, is
+of essential service to mankind, and expiates
+
+the offences of those by whom they are
+observed.
+
+Iarg Hrenetiset wafergeraa
+
+Aaya UPA FT VG APTA Ve
+
+dearet 5 Frame = aA
+
+weed fraarret aperteraaf tor: 3 ott
+
+safrmniegheshrenttut aefrear:1
+
+BUT gee aA: sleergra: 11-3 eH
+
+Those, however, in whose hearts the dross
+of sin derived from Time (K4la) was still more
+developed, assented not to sacrifices, but
+reviled both them and all that resulted from
+them, the gods, and the followers of the Vedas.
+Those abusers of the Vedas, of evil disposition
+and conduct, and seceders from the path of
+enjoined duties, were plunged in wickedness.8
+
+fran ary aratat war: yer sara:
+
+Tatat TATA TAT ITTOTTN 3 FU
+
+AUTON TART oie am
+
+citnier adantiat weary eatgaierrgn 330
+
+woraed great Bt wrt aarzary
+
+writs afro agrrahrahrmn au
+
+‘ayant ured wrt wanngatan
+
+caped ypardtat aftratqaherrq 34 0
+
+The means of subsistence having been
+provided for the beings he had created-
+Brahm prescribed laws suited to their station
+and facultigs, the duties of the several castes
+and orders, and the regions of those of the
+different castes who were observant of their
+duties. The heaven of the Pitrs is the region of
+devout Brahmanas. The sphere of Indra, of Ks
+atriyas who fly not from the field. The region
+of the winds is assigned to the Vaisyas who
+are diligent in their occupations and
+submissive. Sidras are elevated to the sphere
+of the Gandharvas.
+
+aeniracentn piergeterary
+
+tad Fei Tener ata yeenfear a gu
+aritorg Uy wat pt Me atterary
+wraraed Yee =f Tens Zin
+
+## Page 42
+
+38
+
+THE VISNU-PURANAM
+
+fem we afewtt: wet ve
+ita: wer erent afi fe a
+at ay Wed art ag Wea Tac
+reat Tea Pratt yeataat Wet:
+refs French wreemarcfereenn: 13 <1
+aiftrerrennfira weratat
+afeurat at arerganatferT yo
+fafrqamt deer aqoararrenfeorr
+Raa Tare Traian Tx it
+St faye weigh aBiseara:)
+
+Those Brahmanas who lead religious lives
+go to the world of the eighty-eight thousand
+saints: and that of the seven Rsis is the seat of
+pious anchorets and hermits. The world of
+ancestors is that of respectable householders:
+and the region of Brahma is the asylum of
+religious mendicants.'? The imperishable
+region of the Yogis is the highest seat of Vis
+nu, where they perpetually meditate upon the
+supreme being, with minds intent on him
+alone: the sphere where they reside, the gods
+themselves cannot behold. The sun, the moon,
+the planets, shall repeatedly be, and cease to
+be, but those who internally repeat the mystic
+adoration of the divinity, shall never know
+decay. For those who neglect their duties, who
+revile the Vedas, and obstruct religious rites,
+the places assigned after death are the terrific
+regions of darkness, of deep gloom, of fear,
+and of great terror; the fearful hell of sharp
+swords, the hell of scourges and of a waveless
+sea.!?
+
+ee
+NOTES
+
+1. The creation of mankind here described is
+rather out of its place, as it precedes the birth of the
+Prajapatis or their progenitors: but this want of
+method is common to the Puranas, and is evidence
+of their being compilations from various sources.
+
+2. This original of the four castes is given in
+Manu. and in most of the Puranas. We shall see;
+however, that the distinctions are subsequently
+ascribed to voluntary election, to accident, or to
+positive institutions.
+
+3. According to Manu, oblations ascend to and
+nourish the sun; whence the rain falls upon earth,
+and causes the growth of corn: burnt-offerings are
+therefore the final causes of the support of
+mankind,
+
+4. This description of a pure race of beings is not
+of general occurrence in the Puranas. It seems here
+to be abridged from a much more detailed account
+in the Brahmanda, Vayu. and Markandeya Puranas.
+In those works Brahma is said to create, in the
+beginning of the Kalpa, a thousand pairs of each of
+the four classes of mankind, who enjoy perfect
+happiness during the Krta age, and only gradually
+become subject to infirmitics as the Tretd or second
+age advances.
+
+5. These eight perfections, or Siddhis, are not the
+supernatural faculties obtained by the performance
+of the Yoga, They are described, the commentator
+says. in the Skanda and other works: and from them
+he extracts their description: 1. Rasollasa, the
+spontaneous or prompt evolution of the juices of
+the body, independently of nutriment from without:
+2. Tripti, mental satisfaction, or freedom from
+sensual desire: 3. Sdmya, sameness of degree: 4.
+Tulyata, similarity of life, form, and feature: 5.
+Visoka, exemption alike from infirmity or grief: 6.
+Consummation of penance and meditation, by
+attainment of true knowledge: 7. The power of
+going every where at will: 8. The faculty of
+reposing at any time or in any place. These
+attributes are alluded to though obscurely, in the
+Vayu. and are partly specified in the Markandeya
+Purana.
+
+6. In the other three Puranas, in which this
+legend has been found. the different kinds of
+inhabited places are specified and introduced by a
+series of Iand measures. Thus the Markandeya
+states, that 10 Paramanus==I Parastiksma; 10
+Parasiksmas=I Trasarenu; 10 Trasarenus=I particle
+of dull, or Mahirajas; 10 Mahirajasas = 1 Balagra,
+hair's point;'10 Balagras=I Likhya; 10 Likhhyas=I
+Yaka; 10 Yakas= I heart of barley (Yavodara); 10
+Yavodaras=I grain of barley of middle size: 10
+barley grains=I finger, or inch; 6 fingers=a Pada, or
+foot (the breadth of it); 2 Padas=1 Vitasti, or span;
+2 spans =I Hasta, or cubit: 4 Hastas=a Dhanu, a
+Danda, or staff, or 2 Narikas; 2000 Dhanus= a
+Gavyati; 4 Gavyatis-a Yojana. The measurement of
+
+## Page 43
+
+BOOK 1, CHAP. 7
+
+39
+
+the Brahmanda is less detailed. A span from the
+thumb to the first finger is a Pradega; to the middle
+finger, a Nila; to the third finger, a Gokama; and to
+the little finger, a Vitasti, which is equal to twelve
+Angulas, or fingers, understanding thereby,
+according to the Vayu, a joint of the finger
+( hyert=af1) ; according to other authorities, it is the
+breadth of the thumb at the tip. (A. R. 5. 104.) The
+Vayu, giving similar measurements upon the
+authority of Manu (4taff waren), although such a
+statement does not occur in the Manu Sarhhita,
+adds. that 21 fingers= 1 Ratni; 24 finger=l Hasta, or
+cubit; 2 Ratnis==] Kishku; 4 Hastas=1Dhanu; 2000
+Dhanus= | Gavyiti; and 8000 Dhanus= 1 Yojana.
+Durgas, or strongholds, are of four kinds; three of
+which are natural. from their situation in
+mountains, amidst water, or in other inaccessible
+spots; the fourth is the artificial defences of a
+village (Grama) a hamlet (Khetaka), or a city (Pura
+or Nagara). which are severally half the size of the
+next in the series. The best kind of city is one which
+is about a mile long by half a mile broad, built in
+the form of a parallelogram, facing the north-east,
+and surrounded by a high wall and ditch. A hamlet
+should be a Yojana distant from a city: a village
+half a Yojana from a hamlet. The roads leading to
+the cardinal points from a city should be twenty
+Dhanus (above 100 feet) broad: a village road
+should be the same: a boundary road ten Dhanus: a
+royal or principal road or street should be ten
+Dhanus (above fifty feet) broad: a cross or branch
+road should be four Dhanus. Lanes and paths
+amongst the houses are two Dhanus in breadth:
+footpaths four cubits: the entrance of a house three
+cubits: the private entrances and paths about the
+mansion of still narrower dimensions. Such were
+the measurements adopted by the first builders of
+cities, according to the Puranas specified.
+
+7. These are enumerated in the text, as well as io
+the Vayu and Markandeya Purana, and are, Udara.
+a sort of grain with long stalks (perhaps a holcus);
+Kodrava (Paspalum kora): Cinaka, - a sort of panic
+(P. miliaceum); Masa. Kidney bean (Phaseolus
+radiatus); Mudga (Phaseolus mungo); Masiira,
+lentil (Ervum hirsutum); Nispava, a sort of pulse:
+Kulattha (Dolichos biflorus). Arhaki (Cytisus
+Cajan); Canaka. chick pea (Cicer arietinum); and
+Sana (Crotolaria).
+
+8. This allusion to the sects hostile to the Vedas,
+Buddhists or Jains, does not occur in the parallel
+passages of the Vayu and Markandeya Puranas.
+
+9. The Vayu goes farther than this, and states
+that castes were now first divided according to their
+occupations : having, indeed, previously stated that
+there was no such distinction in the Krta age:
+aoleraraeng 3 aa wat:! Brahma now
+appointed those who were robust and violent to be
+Ksatriyas, to protect the rest; those who were purc
+and pious be made Brahmanas: those who were of
+less power, but industrious, and addicted to
+cultivate the ground, he made Vaisyas; whilst the
+feeble and poor of spirit were constituted Sadras:
+and he assigned them their several occupations, to
+prevent that interference with one another which
+had occurred as long as they recognised duties
+peculiar to castes: af (Fat:) SawerT
+Acad]
+
+10. These worlds, some of which will be more
+particularly described in a different section. are the
+seven Lokas or spheres above the earth:].
+Prajapatya or Pitri loka: 2, Indra loka or Swarga: 3.
+Marutloka or Divaloka, heaven: 4. Gandharva loka,
+the region of celestial spirits; also called
+Maharloka- 5. Janaloka, or the sphere of saints;
+some copies read eighteen thousand; others, as in
+the text, which is also the leading of the Padma
+Purana: 6. Tapaloka, the world of the seven sages:
+and, Brahmaloka or Satyaloka, the world of infinite
+wisdom and truth. The eighth, or high world of
+Visnu. fet: et 41 is a sactarial addition, which in
+the Bhagavata is called Vaikuntha. And in the
+Brahma Vaivartta, Goloka; both apparently, and
+most certainly the last, modern inventions.
+
+11. The divisions of Naraka, or hell, here named,
+are again more particularly enumerated, b. 11. c. 6.
+
+RE
+
+## Page 44
+
+BOOK 1, CHAP. 7
+
+39
+
+CHAPTER 7
+wantsena:
+
+ai i sd aiE:,
+
+WU sata
+mals freqrarerer SAR arte: WaT:
+meptirayera: area: rect: wwii eit
+
+## Page 45
+
+40
+
+THE VISNU-PURANAM
+
+Sag: arent TET eT:
+
+3 wed areata 8 rar wrpeifeat: at
+
+Rare: wreerey Fyvafaws Fra: 1
+
+waren yori ererfor earereafT eT 3 tt
+
+Ware a: Mat: Wal a oxerget eta:
+
+FAI AA YAR AEA TAT XH
+
+Wy yeoreed gers mqaigtTd vam
+
+wife cami a afas da aT GH
+
+ea TaN See YATTY Fart Tat:
+
+Parasara said— From Brahma, continuing
+to meditate, were born mind-engendered
+progeny, with forms and faculties derived
+from his corporeal nature; embodied spirits,
+produced from the person of ‘that all-wise
+deity. All these beings, from the gods to
+inanimate things, appeared as I have related to
+you,' being the abode of the three qualities:
+but as they did not multiply themselves.
+Brahma created other mind-born sons, like
+himself; namely, Bhrgu, Pulastya, Pulaha,
+Kratu, Angiras, Marici, Daksa, Atri and
+Vasistha: these are the nine Brahmas (or
+Brahmarshis) celebrated in the Puranas.”
+
+wreredt 3 a ye yor g aera gt
+WF cterasa frtan: warg 31
+
+ad & armagen ata fart: 91
+ered Prtady citeget weet:
+
+TRONS TTA TSA: It 6 Il
+Tet RIT WPAN fray
+FeMiisyR Aer wed Aetarafact Fs
+wpeigetey TH Meter, Hertha
+ATARI BHT TEATS: 11 Fol
+sariatay: meusts herrea
+farorrerratargecat a Tenaga AA: VAI
+marisa fear fered gamed aereatq
+fate qed a aye Sa TA RAM
+arate wrat yet: Gited aT A TY:
+fate ager 2a: eamtefad: fats gat
+
+Sanandana and the other sons of Brahma
+were previously created by him, but they were
+without desire or passion, inspired with holy
+wisdom, estranged from the universe, and
+undesirous of progeny. This when Brahma
+perceived, he was filled with wrath capable of
+consuming the three words, the flame of which
+invested, like a garland, heaven, earth, and
+hell. Then from his forehead, darkened with
+angry frowns, sprang Rudra’, radiant as the
+noon-tide sun, fierce, and of vast bulk, and of
+a figure which was half male, half female.
+Separate yourself, Brahma said to him; and
+having so spoken, disappeared. Obedient to
+which command, Rudra became twofold,
+disjoining his male and female natures, His
+male being he again divided into eleven
+persons, of whom some were agreeable, some
+hideous, some fierce, some mild; and he
+multiplied his female nature manifold, of
+complexions black or white.4
+
+ad gereranygd yd tarry wy:
+
+STS Baar WaT He fas ew
+
+wet a ai AT wafer
+arene aya: uote Sy fags gu
+Tere Yeag Sat PTET SISTA
+fragaharraret weararenfered rere 96 tt
+SUES Tle Bute
+
+wat wait care werepher Ger GaN Votl
+warafa: a sere: wate: afro:
+
+Yat ae WeTTT ereret Fay AA Ret
+aye afeorarg yar Bray BAT
+
+aet Bfet BATEATAT Sat: TATTTS TAT VA
+
+Then Brahma’ created himself the Manu
+Svayambhuva, born of and identical with, his
+original self, for the protection of created
+beings; and the female portion of himself he
+constituted Sataripa whom austerity purified
+from the sin (of forbidden nuptials), and
+whom the divine Manu Svayambhuva took to
+wife. From these two were born two sons,
+Priyavrata and Uttanapada®, and two
+daughters, named Prasiti and Akati, graced
+
+## Page 46
+
+BOOK I, CHAP. 7
+
+41
+
+with loveliness and exalted merit’. Prasiti he
+gave to Daksa, after giving Akiti-to the
+patriatch Ruci®, who espoused her. Akati bore
+to Ruci twins, Yajfia and Daksina’, who
+afterwards became husband and wife, and had
+twelve sons, the deities called Yamas'”, in the
+Manvantara of Svayambhuva.
+
+wat a wen eaerrat faerie
+
+wat aarenrary wag AAT BF sy Rott
+
+sal creasferegis: yfstiar fara vem
+
+afgctam ag: mir fate: atfreratayu 2 eu
+
+uead wfaamre af crareoit: myst
+
+ang: fren aaraes Waa YSN IBN
+
+onfa: wer wey: Tae: fe: are TET
+
+afaferrrgar & sat eaten aET TAMU Ut
+
+ayia wifes an tarfier yh:
+
+Gere: Yoda wysearceAT Bw
+
+afrdtagt afer fierer waren
+
+GARTEN TYR: HA PAA BP TATA V4 tt
+
+The patriarch Daksa had by Prasiti twenty-
+four daughters'': hear from me their names:
+Sraddha (faith), Laksmi (prosperity), Dhrti
+(steadiness), Tusti (resignation), Pusti
+(thriving), Medha (intelligence). Kriya (action,
+devotion), Buddhi (intellect), Lajja (modesty),
+Vapu (body), Santi (expiation), Siddhi
+(perfection), Kirtti (fame): these thirteen
+daughters of Daksa. Dharma (righteousness)
+took to wife. The other eleven bright-eyed and
+younger daughters of the patriarch were,
+Khyati (celebrity), Sati (truth), Sambhuti
+(fitness). Smrti (memory). Prti (affection). Ks
+ama (patience), Sannati (humility). Anasdya
+(charity). Urjja (energy), with Svaha
+(offering), and Svadha (oblation). These
+maidens were respectively wedded to the
+Munis— Bhrgu, Bhava, Marici. Angiras,
+Pulastya, Pulaha, Kratu, Atri, and Vasistha; to
+Firc (Vahni), and to the Pitrs (progenitors)”.
+
+aa ard wen at Frat aferererary
+ete Ter eects yer eK It
+
+Ret ga fear aug za farata or
+
+ate gigeen cen fart ayer Vet
+
+wraard wast & at nreqaau
+
+WG fafecier: aifarery entgra: ecu
+
+wren Tar Ye et chitargam
+
+The progeny of Dharma by the daughters
+of Daksa were as follows: by Sraddha lie had
+Kama (desire); by Laksmi, Darpa (pride); by
+Dhrti, Niyama (precept); by Tusti, Santosa
+(content); by Pusti, Lobha (cupidity); by
+Medha, Sruta (sacred tradition); by Kriya,
+Danda, Naya and Vinaya (correction,
+polity, and prudence); by Buddhi, Bodha
+(understanding); by Lajja, Vinaya (good
+behaviour); by Vapu, Vyavasaya
+(perseverance). Santi gave birth to Ksema
+(prosperity); Siddhi to Sukha (enjoyment); and
+Kirti to Yasas (reputation"). These were the
+sons of Dharma; one of whom, K&ma, had
+Harsa (joy) by his wife Nandi (delight).
+
+feat arat aerater eat ae MATA
+
+wer ao Prosfreaneat wed aaa TU Beit
+
+wat a deat da faeaaeterat: 1
+
+waitse Fara yes qaraeror 3 ott
+
+Fen wgrane ge wasa Tan
+
+yetreatftrerergtrengeoreatear HART 3 BU
+
+BcGhae wat Ba wes aerate:
+
+Sat araifer gat ar a wa eee 3 ttt
+
+Carter a enfin fae frre:
+
+Freamcraeged weriiser wenfat Sug zu
+
+wat wiferfer qrarenes WT:
+
+weet Hera Preratter aa BU
+
+waat wagers yor ater at
+
+weamnifiren: yore Preaftafranfior:n 340
+
+The wife of Adharma”* (vice) was Hithsa
+(violence), on whom he begot a son Anrta
+(falsehood), and a _ daughter Nikrti
+(immorality): they intermarried, and had two
+sons, Bhaya (fear) and Naraka (Hell); and
+twins to them, two daughters, Maya (deceit)
+
+## Page 47
+
+42
+
+THE VISNU-PURANAM
+
+and Vedana (torture), who became their wives.
+The son of Bhaya and Maya was the destroyer
+of living creatures, or Mrtyu (death); and
+Duhkha (pain) was the offspring of Naraka
+and Vedana, The children of Mrtyu were
+Vyadhi (disease), Jara (decay), Soka (sorrow).
+Trsna (greediness). and Krodha (wrath). These
+are all called the inflictors, of misery, and are
+characterised as the progency of Vice
+(Adharma). They are all without wives,
+without posterity, without the faculty to
+procreate; they are the terrific forms of Visnu,
+and perpetually operate as causes of the
+destruction of this world. On the contrary,
+Daksa and the other Rsis, the elders of
+mankind, tend perpetually to influence its
+renovation : whilst the Manus and their sons,
+the heroes endowed with mighty power, and
+treading in the path of truth, as constantly
+contribute to its preservation.
+
+tia sara
+at Fen Rufader, Frerectenatasi
+Premera tat f ered a AAT EH
+Maitreya said—Tell me, Brahman, what is
+the essential nature of these revolutions,
+perpetual preservation, perpetual creation, and
+perpetual destruction.
+UUs sara
+
+wiftafaterrea wary HET: |
+aerate fear atteroreary, fry: Fol
+fife: wrpfaaentaratarat fast
+free adyarat weratse agiae: 13 ci
+wen afafraaa weadd wT: UA:
+
+went wey dar wens weit STATI 3 FH
+Frrerahars Sat Aer: wea
+
+fea: wea arert at farrett fearfrerq voi
+wae: wrecat Yar Oe: wre BET
+Safe mar weer UR TeTATEGI ¥ gil
+qaragiet wa anes yfrerm
+
+Fara: ats wg Sten: qerorelfererertt 11x 2
+
+PardSara said— Madhusidana, whose
+essence is incomprehensible, in the forms of
+these (partriarchs and Manus), is the author of
+the uninterrupted vicissitudes of creation,
+preservation, and destruction. The dissolution
+of all things is of four kinds; Naimittika.
+‘occasional;' Prakrtika, 'elemental;' Atyantika.
+‘absolute;' Nitya, ‘perpetual’’. The first, also
+termed the Brahma dissolution, occurs when
+the sovereign of the world reclines in sleep. In
+the second, the mundane egg resolves into the
+primary element, from whence it was derived.
+Absolute non-existence of the world is the
+absorption of the sage, through knowledge,
+into supreme spirit. Perpetual destruction is
+the constant disappearance, day and night, of
+all that are born. The productions of Pratmi
+form the creation that is termed the elemental
+(Prakrta). That which ensues after a (minor)
+dissolution is called ephemeral creation: and
+the daily generation of living things is termed
+by those who are versed in the Puranas,
+constant creation.
+
+wa wderitg wary YaATAT:
+
+dhea: Ber faopeafateairtaarq 6 311
+
+Pehahifearem wena: weeieg!
+
+doer: oftertt Ahesefiet wan weit
+quran gag Ter wierd AeA
+
+aistrant ward We TAT FAS I
+
+oft stfeeqgeet weigh wartseara:!
+
+In this manner the mighty Visnu, whose
+essence is the elements, abides in all bodies,
+and brings about production, existence, and
+dissolution. The faculties of Visnu to create, to
+preserve, and to destroy, operate successively,
+Maitreya, in alt corporeal beings and at all
+seasons; and he who frees himself from the
+influence of these three faculties, which are
+essentially composed of the three qualities
+(goodness, foulness, and darkness), goes to the
+supreme sphere, from whence he never again
+returns.
+
+2 ak a ae
+
+## Page 48
+
+BOOK I, CHAP. 7
+
+43
+
+NOTES
+
+1. It is not clear which of the previous narratives
+is here referred to, but it seems most probable that
+the account in Ch. V. is intended.
+
+2. Considerable variety prevails in this list of
+Prajapatis,  Brahma-putras. Brahmanas, or
+Brahmarshis; but the variations are of the nature of
+additions made to an apparently original
+enumeration of but seven, whose names generally
+recur. Thus in the Mahabharata,’ Moksa Dharma,
+we have in one place, Marici. Atri, Angiras.
+Pulastya, Pulaha, Kratu. and Vasistha, ¥€™: Wa a
+Wl Fe: Taa7a: | 'the seven highminded sons of
+the self-born Brahma,’ In another place of the
+same, however, we have Daksa substituted for
+Vasistha: FORT YAR AAA <aeWAP|!
+Tifemaiye Yea Ye FA! ‘Brahma then created
+mind-begotten sons, of whom Daksa was the
+seventh, with Marici,' etc. These seven sons of
+Brahmi are also identified with the seven Rsis: as
+in the Vayu; SRA AA AST: | GAT
+sfernga mata wraeya: | although, with palpable
+inconsistency, eight are immediately enumerated,
+or, Bhrgu, Marici. Atri, Angiras, Pulastya, Pulaha.
+Kratu, and Vasistha. The Uttara Khanda of the
+Padma Purana substitutes Kardama for Vasistha.
+The Bhagavata includes Daksa, enumerating nine.
+The Maisya agrees with Manu in adding Narada to
+the list of our text. The Ktirma Purana adds Dharma
+and Sankalpa. The Liiga. Brahmanda, and Vayu
+Purana also add them, and extend the list to
+Adharma and Ruci. The Hari VarnSa in one place
+inserts Gautama, and in another Manu. Altogether
+therefore we have seventeen, instead of seven. But
+the accounts given of the origin of several of these,
+show that they were not originally included
+amongst the Manasa putras, or sons of Brahma's
+mind; for even Daksa, who finds a place in all the
+lists except one of those given in the Mahabharata,
+is uniformly said to have sprung from Brahma's
+thumb: and the same patriarch, as well as Dharma,
+is included in some accounts. as in the Bhagavata
+and Matsya Purana, amongst a different series of
+Brahmia's progeny, or virtues and vices: or, Daksa
+(dexterity). Dharma (virtue). Kama (desire).
+Krodha (passion). Lobha (covetousness). Moha
+(infatuation), Mada (insanity), Pramoda (pleasure),
+Mrtyu (death). and Angaja (lust). These are
+severally derived from different parts of Brahma's
+
+body: and the Bhagavata adding Kardama (soil or
+sin) to this enumeration, makes him spring from
+Brahma's shadow. The simple statement, that the
+first Prajapatis sprang from the mind or will of
+Brahmi, has not contented the depraved taste of the
+mystics, and in some of the Puranas, as the
+Bhagavata. Linga, and Vayu, they also are derived
+from the body of their progenitor : or, Bhrgu from
+his skin, Marici from his mind. Atri from his eyes,
+Angiras from his mouth. Pulastya from his ear;
+Pulaha from his navel. Kratu from his hand,
+Vasistha from his breath, Daksa from his thumb,
+and Narada from his hip. They do not exactly
+agree, however, in the places whence these beings
+proceed; as for instance, according to the Linga,
+Marici springs from Brahma's eyes. not Atri, who
+there proceeds, instead of Pulastya, from his ears.
+The Vayu has also another account of their origin,
+and states them to have sprung from the fires of a
+sacrifice offered by Brahma; an allegorical mode of
+expressing, their probable origin, considering them
+to be in some degree real persons, from the
+Brahmanical ritual, of which they were the first
+institutors and observers. The Vayu Purana also
+states, that besides the seven primitive Rsis, thie
+Prajapatis are numerous, and specifies Kardama.
+KaSyapa, Sesha, Vikranta. Susravas,: Bahuputra,
+Kumara, Vivasvat. Sucisravas. Prachetasa (Daks
+a), Aristanemi, Babula. These and many others
+were Prajapatis: <aaHeas=~asht agag Waa: | In the
+beginning of the Mahabharata (A P.) we have again
+a different origin, and first Daksa, the son of
+Pracetasas, it is said. had seven sons, after whom
+the twenty-one Prajapatis were born, or appeared.
+According to the commenfator. seven sons of Daks
+a were the allegorical persona Krodha, Tamas,
+Dama, Vikrta, Angiras. Kardama, and Agva; and
+the twenty-one Prajapatis, the seven usually
+specified Marichi and the rest, and the fourteen
+Manus. This looks like a blending of the earlier and
+later notions.
+
+3. Besides this general notice of the origin of
+Rudra and his separate forms, we have in the next
+chapter an entirely different set of beings so
+denominated; and the eleven alluded to in the text
+are also more particularly enumerated in a
+subsequent chapter. The origin of Rudra, as one of
+the agents in creation, is described in most of the
+Puranas, The Mahabharata, indeed, refers his origin
+
+## Page 49
+
+44
+
+THE VISNU-PURANAM
+
+to Visnu, representing him as the personification of
+his anger, whilst Brahma is that of his kindness:
+ae: wa cerersa at tae A wen wat at faquaet
+Tear! daefrerat giderarstn The
+Karma Purana makes him proceed from Brahma's
+mouth, whilst engaged in meditating on creation.
+The Varaha Purana makes this appearance of Rudra
+the consequence of a promise made by Siva to
+Brahma, that he would become his son. In the
+parallel passages in other Puranas the progeny of
+the Rudra created by Brahma is not confined to the
+eleven, but comprehends infinite numbers of beings
+in person and equipments like their parent; until
+Brahma, alarmed at their fierceness, numbers, and
+immortality, desires his son Rudra, or, as the
+Matsya calls him, Vamadeva. to form creatures of a
+different and mortal nature. Rudra refusing to do
+this, desists; whence his name Sthanu. from Stha.
+‘to stay,” Liga. Vayu Purana etc.
+
+4. According to the Vayu, the female became
+first twofold, or one half white, and the other black;
+and each of these, again, becomes manifold, being
+the various energies, or Saktis, of Mahadeva, as
+Stated by the Karma, after the words
+fava: | which are those of our text: a & fayaat fan
+faga: wat yfai The Linga and Vayu specify
+many of their names. Those of the white,
+complexion, or mild nature, include Laksmi,
+Saraswati, Gauri, Umi, etc. Those of the dark huc,
+and  fierce-disposition, Durga, Kali, Chandi,
+Maharatri, and others.
+
+5. Brahma, after detaching from himself the
+property of anger, in the form of Rudra, converted
+himself into two persons, the first male, or the
+Manu Svayambhuva, and the first woman, or
+Satariipa: so in the Vedas; Ua ae 4 Wat AAT 'So
+himself was indeed (his) son.' The commencement
+of production through sexual agency is here
+described with sufficient distinctness, but the
+subject has been rendered obscure by a more
+complicated succession of agents, and especially by
+the introduction of a person of a mythic or mystical
+character. Viraj. The notion is thus expressed in
+Manu: "Having divided his own substance, the
+mighty power Brahma became half male and half
+female; and from that female he produced Viraj.
+Know me to be that person whom the male Viraj
+produced by himself." I. 32. 33. We have therefore
+a series of Brahma, Viraj, and Manu, instead of
+
+Brahma and Manu only: also the generation of
+progeny by Brahmé, begotten on Satardpa. instead
+of her being, as in our text. the wife of Manu. The
+idea seems to have originated with the Vedas, as
+Kullaka Bhatta quotes a text: wh fasrearm Then (or
+thence) Virdt was born.’ The procreation of
+progeny by Brahma, however, is at variance with
+the whole system, which almost invariably refers
+his creation to the operation of his will: and the
+expression in Manu, en # fama ‘he created
+Viraj in her,’ does not necessarily imply sexual
+intercourse. Viraj also creates, not begets, Manu.
+And in neither instance does the name of Satartipa
+occur. The commentator on Manu, however,
+understands the expression asrijat to imply the
+procreation of Viraj : 443 wim) and the same
+interpretation is given by the Matsya Purana, in
+which the incestuous passion of Brahma for
+Satardipa, his daughter in one sense, his sister in
+another, is described; and by her he begets Viraj,
+who there is called, not the progenitor of Manu, but
+Manu himself. a4: Sea Feat eM: TA Say:
+wareya efi waa: @ frofeft a: yt) This therefore
+agrees with our text, as far as it makes Manu the
+son of Brahma, though not us to the nature of the
+connexion. The reading of the Agni and Padma
+Purana is that of the Visnu; and the Bhagavata
+agrees with it in one place, stating distinctly that the
+male half of Brahma was Manu, the other half,
+Sataripa: 4 Wa YR WS: PeYE: Tae, Gi
+arisreien weeaes Aer: | Bhagav. Ill. 12. 35:
+and although the production of Viraj is elsewhere
+described, it is neither as the son of Brahma, nor the
+father of Manu. The original and simple idea,
+therefore, appears to be, the ideality of Manu with
+the male half of Brahma, and his being thence
+regarded as his son. The Kitrma Purana gives the
+same account as Manu, and in thc same words. The
+Linga Purana and Vayu Purana describe the origin
+of Viraj and Sataripa from Brahma; and they
+intimate the union of Satartpa with Purusa or Viraj.
+the male portion of Brahmé, in the first instance;
+and in the second, with Manu, who is termed
+Vairaja. or the son of Viraj: Seq 4: Fe: | The
+Brahma Purina the words of which are repeated in
+the Hari VarhSa, introduces a new element of
+perplexity in a new name, that of Apava. According
+
+to the commentator, this is a name of the Prajapati
+Vasistha: arya: afaeraa: wart! As, however,
+
+## Page 50
+
+BOOK I, CHAP. 7
+
+45
+
+he performs the office of Brahma, he should be
+regarded as that divinity: but this is not exactly the
+case, although it has been so rendered by the
+Franch translator. Apava becomes twofold, and in
+the capacity of his male half begets offspring by the
+female. Again, it is said Visnu created Viraj. and
+Viraj created the male, which is Vairaja or Manu;
+who was thus the second interval (Antaram), or
+stage, in creation. That is, according to the
+commentator, the first stage was the creation of
+Apava, or Vasistha, or Viraj, by Visnu, through the
+agency of Hiranyagarbha or Brahma; and the next
+was that of the creation of Manu by Virdj. Satarapa
+appears as first the bride of Apava, and then as the
+wife of Manu, This account therefore, although
+obscurely expressed, appears to be essentially the
+same with that of Manu; and we have Brahma,
+Viraj, Manu, instead of Brahma and Manu. It seems
+probable that this difference, and the part assigned
+to Viraj, has originated in some measure from
+confounding Brahma with the male half of his
+individuality, and considering as two beings that
+which was but one. If the Puruaha or Viraj be
+distinct from Brahma, what becomes of Brahma ?
+The entire whole and its two halves cannot co-exist.
+although some of the Pauraniks and the author of
+Manu seem to have imagined its possibility, by
+making Viraj the son of Brahma. The perplexity,
+however, is still more ascribable to the
+personification of that which was only an allegory.
+The division of Brahma into two halves designates,
+as is very evident from the passage in theVedas
+given by Colebrooke, (As. R. VIII. 425.) the
+distinction of corporeal substance into two sexes :
+Viraj being all male animals, Sataripa all female
+animals. So the commentator on the Hari Varhsa
+explains the former to denote the horse, the bull,
+etc.; and the latter. the mare, the cow, and the like.
+In the Bhagavata the term Viraj implies, Body,
+collectively, as the commentator observes; Wafer
+wafer WaT ala wa fat
+yatereraredis: Yar! ‘As the sub illuminates his
+own inner sphere, as well as the exterior regions, so
+soul, shining in body (Viraja), irradiates all without
+and within.” fare @@ verry wars werrafa! All
+therefore that the birth of Viraj was intended to
+express, was the creation of living body, of
+creatures of both sexes: and as in consequence man
+was produced, he might be said to the son of Viraj,
+
+or bodily existence. Again Sataripa, the bride of
+Brahma, or of Viraj, or of Manu, is nothing more
+than beings of varied of manifold forms, from Sata,
+‘a hundred’ and ®4, ‘form;’ explained by the
+annotator on the Hari Vamsa by Anantardpa
+(SAS) ‘of infinite,” and Vividharpa
+(fafaeemt), ‘ of diversified shape;’ being, as he
+stares the same as Maya, ‘illusion,’ or the power of
+multiform metamorphosis: ed) The
+Matsya Purana has a little allegory of its own, on
+the subject of Brahma's intercourse with Sataripa;
+for it explains the former to mean, the Vedas, and
+the latter the Savitri, or holy place, which is their
+chief text; and in their cohabitation there no evil:
+Seah: Saat wen ae weft) wea Bae: =A
+afar TAF fast: 1
+
+6. The Brahma Purana has a different order, and
+makes Vira the Son of the first pair, who has
+Uttanapada, etc. by Kamya. The commeotator on
+the Hari Varhsa quotes the Vayu for a confirmation
+of this account: but the passage there is. ar
+yer wren ear sartaefieadt ‘Satarapa bore to
+the male Vairaja (Manu) two Viras,' i. e. heroes or
+heroic sons, Uttanpada and Priyavrata, It looks as if
+the compiler of the Brahma Purana had made some
+very unaccountable blunder, and invented upon it a
+new couple, Vira and Kamya. : no such person as
+the former occurs in any other Purana, nor does
+Kamya, as his wife.
+
+7. The Bhagavata adds a third daughter,
+Devahiti: for the purpose apparently of
+introducing a long legend of the Rsi Kardama,
+to whom she is married, and of their son
+Kapila : a legend not met with any where else.
+
+8. Ruci is reckoned amongst the Prajapatis by the
+Linga and Vayu Puranas.
+
+9, These descendants of Svayambhuva are all
+evidently allegorical : thus Yajiia is ‘sacrifice,’ and
+Daksina, 'donation’ to Brahmanas.
+
+10. The Bhagvata (b. IV. c. 1) says the Tushitas.
+but they are the divinities of the second, not of the
+first Manvantara, as appears also in another part of
+the same, where the Yamas are likewise referred to
+the Svayambbuva Manvantara.
+
+11. These twenty-four daughters are of much
+less universal occurrence in the Puranas than the
+more extensive series of fifty or sixty, which is
+subscquently described, and which appears to be
+the more ancient legend.
+
+## Page 51
+
+46
+
+THE VISNU-PURANAM
+
+12. The twenty-four daughters of Daksa are
+similarly named and disposed of in most of the
+Puranas which notice them. The Bhagavata, having
+introduced a third daughter of Svayambhuva, has a
+rather different enumeration, in order to assign
+some of them, the wives of the Prajapatis, to
+Kardama and Devahiti. Daksa had therefore, it is
+there said (b. IV. c. I), sixteen daughters, thirteen of
+whom were married to Dharma. named Sraddha,
+Maitri (friendship), Daya (clemency), Santi Tusti.
+Pusti, Kriya, Unnati (elevation), Buddhi, Medha,
+Titiks4 (patience), Hri (modesty), Martti (form):
+and three, Sati. Svaha, and Svadha, married, as in
+our text. Some of the daughters of Devahiiti repeat
+these appellations, but that is of slight
+consideration. They are Kali (a moment), married
+to Marichi: Anasiya to Atri; Sraddha to Angiras;
+Havirbhu (oblation-born) to Pulastya; Gati
+(movement) to Pulaha : Kriya to Kratu; Khyati to
+Bhrgu : Arundhati to Vasistha; and Santi to
+Atharvan In all these instances the persons are
+manifestly allegorical, being personincations of
+intelligences and virtues and religious rites, and
+being therefore appropriately wedded to the
+probable authors of the Hindu code of religion and
+morals, or to the equally allegorical representation
+of that codec, Dharma, moral and religious duty.
+
+13. The same remark applies here. The Puranas
+that give these details generally concur with our
+text, but the Bhagavata specifies the progeny of
+Dharma in a somewhat differcnt manner; or,
+following the order observed in the list of Diarma's
+wives, their children are, Rita (truth), Prasada
+(favour), Abhaya (fearlessness), Sukha, Muda
+(pleasure), Smaya (wonder). Yoga (devotion),
+Darpa, Artha (meaning), Smriti (memory),
+Kshema, Prasraya (affection), and the two saints
+Nara and Narayana, the sons of Dharma by Martti.
+We have occasional varicties of nomenclature in
+other authorities; as, instcad of Sruta, Sima: Korma
+Purana. instcad of Dandanaya, Samaya; and instead
+of Bodha, Apramada; Liga Purana: and Siddha in
+place of Sukha: Kirma Purana.
+
+14, The text rather abruptly introduces Adharma
+and his family. He is said by the commentator to be
+the son of Brahma, and the Liga Purana
+enumeratcs him among the Prajapatis, as well as
+Dharma. According to the Bhagavata, he is the
+husband of Mrsha (falsehood), and the father of
+
+Dambha (hypoerisy) and Maya (deceit), who were
+adopted by Nirritti. The scries of their descendants
+is also somewhat varied from our text; being in
+each descent, however, twins which intermarry, or
+Lobha (covetousness) and Nikrti, who produce
+Krodha (wrath) and Himsa: their children are, Kali
+(wickedness) and Durukti (evil speech): their
+progeny are, Mrtyu and Bhi (fear); whose offspring
+are, Niraya (hell) and Yatand (torment).
+
+15, The three first of these are more particularly
+described in the last book: the last. the Nitya, or
+constant, is differently described by Vans Kennedy
+(Ancient and Hindu Mythology, p. 224. note). "In
+the 71h chapter.” he observes, “of the Visnu Purana
+four kinds of Pralaya are described. The Naimittika
+takes place when Brahma slumbers: the Prakrtika
+when this universe returns to its original nature:
+Atyantika proceeds from divine knowledge: and
+Nitya is the extinction of life. like the extinction of
+a lamp. in sleep at night.” For this Tast
+characteristic, however, our text furnishes no
+warrant; nor can it be explained to signify, that the
+Nitya Pralaya means no more than “a man's falling
+into a sound sleep at night.” All the copies
+consulted on the present occasion concur in
+reading, fra: waa wast ah faaret fea as
+rendered above. The commentator supplies the
+illustration, @ysareTaq) ‘like the flame of a lamp;'
+but he also writes, samt fearfasi a faart: 3 fra:
+‘That which is the destruction of all that are born,
+night and day, is the Nitya, or constant’ Again, in a
+verse presently following we have the Nitya Sarga,
+‘constant or perpetual creation,’ as opposed to
+constant dissolution yarmafed Fa sre WPT
+‘fra: ei: q ste: Geoneiferrert: | ‘That in which, oh
+excellent sages, beings are daily born, is termed
+constant creation, by those learned in the Puranas’.
+The commentator explains this, weTafeafewaret fre:
+at gad: 1 "The constant flow or succession of the
+creation of ourselves and other creatures is the
+Nitya or constant creation: this is the meaning of
+the text.’ It is obvious, therefore, that the alternation
+intended is that of life and death, not of waking and
+sleep.
+
+kK
+
+## Page 52
+
+BOOK I, CHAP, 8
+
+47
+
+CHAPTER 8
+
+ae sera 7
+(wergeafrae)
+
+WU sara
+
+afoeerra: wat rerored wer
+
+aed waeenfis at Free: ogo gH
+
+Parasara—have described to you, oh great
+Muni, the creation of Brahma, in which the
+quality of darkness prevailed. I will now
+explain to you the creation of Rudra.’
+
+SUSTaTAea Yar WATT: |
+
+wiguadig was Gard Aerettfeau V1
+
+wala Get asa aa fire
+
+fa Dette ft gen wed Megara BAH
+
+am @aifa & asa wegara werafiry
+
+ward Fa aenfa ar Tefdaraa vn
+
+In the beginning of the Kalpa. as Brahma
+purposed to create a son, who should be like
+himself, a youth of a purple complexion?
+appeared, crying with a low cry, and running
+about.> Brahma, when he beheld him thus
+afflicted, said to him, "Why do you weep ?"
+"Give me a name,' replied the boy. "Rudra be
+
+your name.” rejoined the great father of all
+creatures :' "be composed; desist from tears."
+
+Taye: YA: Aisa aaKE we at
+aatseantt eat wet aa arnt & wy:
+warn Samer weit: yaar Sf wy GN
+aa ad atari wen ayaa faa
+
+sthapi ered sara a frarag 116 11
+
+a aaradnht et Tee a:
+wat set wet afgatgquergrta a
+Qiferat arent: Sr FAATETAA: HATTNG
+
+But, thus addressed, the boy still wept
+seven-times, and Brahma therefore gave to
+him seven other denominations; and to these
+eight persons regions and wives and posterity
+belong. The cight manifestations, then, are
+
+named Rudra, Bhava, Sarva. Isana. Pasupati.
+Bhima, Ugra. and Mahadeva, which were
+given to them by their great progenitor. He
+also assigned to them their respective stations.
+the sun. water, ether, air, fire, earth, the
+ministrant Brahman, and the moon; for these
+are their several forms.‘
+
+gaden adater geet area fea
+
+waret fagrevet dear Trevi a we C1
+
+quid eae eareainf: el
+
+Wea: Bye we aarenhs F syUp
+
+aat gfargdat semrgfed sere
+
+yaar yaar cigars Ta:
+
+ere: Giisa GAN aR A Yat ot
+
+The wives of the sun and the other
+
+manifestations, termed Rudra and the rest
+were respectively, Suvercala, Uma, Vikest,
+Siva, Svaha, Disa, Diksa and Rohini. Now
+hear an account of their progeny, by whose
+successive generations this world has been
+peopled. Their sons, then, were severally,
+Sanaigocara (Saturn), Sukra (Venus), the fiery-
+bodied Mars, Manojava (Hanuman), Skanda.
+Swarga, Santina, and Budha (Mercury).
+
+Tamra saisat ait sreatafersan
+
+SAAT ARNT AT WaT KS AHTATIN RA
+
+feragign anna fier
+
+Soa Yaar WATT Aa VAM
+
+tat angie yt: entree
+
+frag tate vet areToTet aT eB
+
+It was the Rudra of this description that
+married Sati, who abandoned her corporeal
+existence in consequence of the displeasure of
+Daksga.° She afterwards was the daughter of
+Himavan (the snowy mountains) by Mena; and
+in that character, as the only Uma, the mighty
+Bhava again married her.° The divinities Dhati
+and Vidhata were born to Bhrgu by Khyati, as
+was a daughter, Sri. the wife of Narayana, the
+god of gods.”
+
+## Page 53
+
+48
+
+THE VISNU-PURANAM
+
+aa zara
+
+aired oft: aera seaspa
+ph: wreat aqeerare ae TaN ew
+Maitrcya—It is commonly said that the
+
+goddess Sri was born from the sea of milk,
+when it was churned for ambrosia; how then
+can you say that she was the daughter of
+Bhrgu by Khyati ?
+WI Farag
+
+Fret at srrarat faut: sieve
+
+er wera feroperdeet fester eu tt
+
+wat faayite aot Hater wat aft:
+
+Set faut gfgdatsdt aqfrar ferrqu een
+
+aur faanite wfe: sinffinieatt eft:
+
+Bait rary weairgfetia wearin gout
+
+pan sivrtary art agiset efron gy am
+
+orearg ferret Sat yeteryit SATE RS
+
+Parasara said— Sri, the bride of Visnu, the
+
+mother of the world, is eternal, imperishable;
+in like manner as he is all-pervading, so also is
+she, oh best of Brahmanas, omnipresent. Visnu
+is meaning; she is speech. Hari is polity
+(Nyaya); she is prudence (Niti). Visnu is
+understanding; she is intellect. He is
+rightcousncss; she is devotion. He is the
+creator; she is creation. Sri is the earth; Hari
+the support of it. The deity is concent; the
+eternal Laksmi is resignation. He is desire; Sri
+if wish. He is sacrifice; she is sacrificial
+donation (Daksina). The goddcss is the
+invocation which attends the  oblation;
+Janarddana is the oblaiion.
+
+Ustteren Wt weet: wreteit wepyaA:
+
+fafactetrfta gem sitrary gy: 83
+
+ARM sTaR a: HAETETAT
+
+Talat Santis aTAeaT FATA ol
+
+vga wrasse fester
+
+Bie era: Geter arereratn 8
+
+fawq: fag: wan wer yreagieen
+
+ait: ait: waterent feryrerenrgtisfaferertn 2 ait
+
+wang: ster: aafa: siterctarrarferth
+gitetaitcirens arg: wat eft: ean
+
+Laksmi is the chamber where the females
+are present (at a religious ceremony);
+Madhustidana the apartment of the males of
+the family. Laksmi is the altar, Hari the stake
+(to which the victim is bound). Sri is the fuel;
+Hari the holy grass (Kusa). He is the
+personified Sama-veda; the goddess, lotus-
+throned, is the tone of its chanting. Laksmi is
+the prayer of oblation (Svaha),; Vasudeva, the
+lord of the world, is the sacrincial fire. Sauri
+(Visnu) is Sankara (Siva); and Sri is the bride
+of Siva (Gauri). Kesava, oh Maitreya, is the
+sun; and his radiance is the lotuses eated
+goddess. Visnu is the tribe of progenitors
+(Pitrgana); Padma is their bride (Svadha), the
+eternal bestower of nutriment. Sri is the
+heavens; Visnu, who is one with all things, is
+wide extended space. The lord of Sri is the
+moon; she is his unfading light. She is called
+the moving principle of the world; he, the
+wind which bloweth every wherc.
+
+wetafes Werceten sinter
+
+meptrersufiegian Sarg weer BMI
+TRA: MATS TAT aE
+mafg: ot: sted ta: carats aT BG
+
+Govinda is the occan; Laksmi its shore.
+Laksmi is the consort of Indra (Indrani);
+Madhustidana is Devendra. The holder of the
+discus (Visnu) is Yama (the regent of
+Tartarus); the lotus-throned goddess is his
+dusky spouse (Dhimorna). Sti is wealth;
+Sridhara (Visnu) is himself the god of riches
+(Kuvera).
+
+ait ceathtgrarn Sgrat aan: Tae
+sidaten fairs Fatarafeefesn equ
+
+Bawah verter: vfmcteatfestrern
+
+arer weiaaeiset ygaisat wer | AUN
+aieet cat: wettisdt wa: waat aft
+manger sore sifeegad fran ent
+farmed sitfgerdh Saararraet:
+
+## Page 54
+
+BOOK J, CHAP. 8
+
+aay aise: UsaATETATH 28
+
+O illustrious Brahman, Laksm! is Gauri;
+and KeSava is the deity of ocean (Varuna). Sri
+is the host of heaven (Devasena); the deity of
+war. her lord. is Hari. The wielder of the mace
+is resistance; the power to oppose is Sri Laks
+mi is the Kastha and the Kala; Hari the Nimes
+a and the Muhirtta. Laksmi is the light: and
+Hari, who is all, and lord of all, the lamp. She,
+the mother of the world, is the creeping vine;
+and Visnu the tree round which she clings. She
+is the night; the god who is armed with the
+mace and discus is the day. He, the bestower
+of blessings. is the bridegroom, the lotus-
+throned goddess is the bride.
+
+Feet varsiidrerdatt:|
+CART YOST: WATE HACTCTAT 3 oN
+gon aathireant eit ara: we:
+tet @ ete eeattifere wa a3 2
+faaniraginer datieqea
+Zafrolergerdt gars aay eft:
+atnea ceatties arraifaert wea UH
+ofa stfereggere wets areriseara: 1
+The god is one with all male— the goddess
+
+one with all female, rivers. The lotus-eyed
+deity is the standard; the goddess seated on a
+
+lotus the banner. Laksmi is  cupidity;
+Narayana, the master of the world, is
+covetousness, Oh you who know what
+
+rigteousners is, Govinda is love; and Laksmi,
+his gentle spouse, is pleasure. But why thus
+diffusely cnumerate their presence?—it is
+enough to-say, in a word. that of gods,
+animals, and men. Hari is all that is called
+male; Laksmi is all that is termed female:
+
+there is nothing else than they.
+CR
+
+NOTES
+
+1. The creation of Rudra has been already
+adverted to. and that seems to be the primitive form
+of the legend. We have here another account,
+grounded apparently upon Saiva or Yoga
+mysticism.
+
+49
+
+2. The appearance of Rudra as a Kumara, 'a
+boy,’ is described as of repeated occurrence in the
+Linga and Vayu Puranas, as already noticed (Ch. V.
+Note 12); and these Kumaras are of different
+complexions in different Kalpas. In the Vaisnava
+Puranas, however, we have only one original form,
+to which the name of Nilalohita, the blue and red or
+purple complexioned is assigned. In the Karma this
+youth comes from Brahma's mouth: in the Vayu,
+from his forehead,
+
+3. This is the Pauranic etymology:te7e aTeTa
+%%:1 or rud, ‘to weep.’ and dru. 'to run.’ The
+grammarians derive the name from rud. 'to weep’,
+with ra affix.
+
+4. The Vayu details the application of each name
+severally These eight Rudras are therefore but one,
+under as many appellations, and in as many types.
+The Padma. Markandeya, Karma, Linga.. and Vayu
+agree with our text in the nomenclature of the
+Rudras. and their types, their wives, and progeny.
+The types are those which are enumerated in the
+Nandi, or opening benedictory verse, of Sakuntala;
+and the passage of the Visnu Purana was found by
+Chezy on the envelope of his copy. He has justly
+corrected Jones's version of the term ®t 'the
+sacrifice is performed with solemnity;’ as the word
+means. 'Brahmana officiant <i @Tem:) ‘the
+Brahman who is qualified by intiation (Diksa) to
+conduct the rite.” These are considered as the
+bodies, or visible forms, of those modifications of
+Rudra which are variously named, and which,
+being praised in them, severally abstain from
+harming them: a] Waa Fa: wa Ta feafet 4
+‘fa afd: 1 Vayu Purana The Bhagavata. III. 12. has a
+different scheme, as usual; but it confounds the
+notion of the eleven Rudras, to whom the text
+subsequently adverts. with that of the eight here
+specified. These eleven it terms Manyu, Manu,
+Mahinasa, Mahan, Siva. Rtadhvaja. Ugraretas.
+Bhava, Kala, Vamadeva, and Dhrtavrata: their
+wives are. Dhi. Dhrti. Rasaloma, Niyut. Sarpi, 14,
+Ambika, Iravati, Svadh4. Diks4, Rudrant: and their
+places are the heart, senses, breath, ether, air, fire.
+water, earth, sun. moon, and tapas. or ascetic
+devotion, The same allegory or mystification
+characterises both accounts.
+
+5. See the story of Daksa’s sacrifice at the end of
+the chapter.
+
+## Page 55
+
+50
+
+THE VISNU-PURANAM
+
+6. The story of Uma's birth and marriage occurs
+in the Siva Purana and in the Kasi Khanda of the
+Skanda Purana: it is noticed briefly, and with some
+variation trom the Puranas, in the Ramayana, first
+book: it is also given in detail io the Kumara
+Sambhava of Kalidasa.
+
+7. The family of Bhrgu is more particularly
+described in the tenth chapter: it is here mentioned
+merely to introduce the story of the birth of the
+goddess of prosperity, Sri.
+
+Bid
+
+SACRIFICE OF DAKSA!
+(From the Vayu Purana)
+
+“There was formerly a peak of Meru, named
+Savitra, abounding with gems, radiant as the sun.
+and celebrated throughout the three worlds, of
+immensc extent, and difficult of access, and an
+object of universal veneration. Upon that glorious
+eminence, rich with mineral treasures, as upon a
+splendid couch, the deity Siva reclined,
+accompanied by the daughter of the sovereign of
+mountains, and attended by the mighty Adityas, the
+powerful Vasus, and by the heavenly physicians,
+the sons of Asvini; by Kuvera, surrounded by his
+train of Guhyakas, the lord of the Yaksas, who
+dwells on Kailasa. There also was the great Muni
+Usanas: there, were Rsis of the first order, with
+Sanatkuméra at their head; divine Rsis. preceded by
+Angiras; Visvavasu, with his bands of heavenly
+choristers; the sages Narada and Parvata, and
+innumerable troops of celestial nymphs. The breeze
+blew upon the mountain, bland, pure, and fragrant;
+and the trees were decorated with flowers, that
+blossomed in every season. The Vidyadharas and
+Siddhas, affluent in devotion, waited upon
+Mahadeva. the lord of living creatures, and many
+other beings, of various forms, did him homage.
+Raksasas of terrific semblance, and Pisaches of
+great strength, of different shapes and features,
+armed with various weapons, and blazing like fire.
+were delighted to be present, as the followers of the
+god. There stood the royal Nandi, high in the
+favour of his lord, armed with a fiery trident,
+shining with inherent lustre; and there the best of
+rivers. Ganga. the assemblage of all holy waters,
+stood adoring the mighty deity. Thus worshipped
+by all the most excellent of sages and of gods,
+abode the omnipotent and all-glorious Mahadeva.
+
+"In former times, Daksa commenced a holy
+sacrifice on the side of Himavan, at the sacred spot
+Gangadvara, frequented by the Rsia. The gods,
+desirous of assisting at this solemn rite, came, with
+Indra at their head, to Mahadeva. and intimated
+their purpose; and having received his permission,
+departed in their splendid chariots to Gangadvara.
+as tradition reports, They found Daksa, the best of
+the devour, surrounded by the singers and nymphs
+of heaven, and by numerous sages, beneath the
+shade of clustering trees and climbing plants; and
+all of them, whether dwellers on earth, in air, or in
+the regions above the skies, approached the
+patriarch with outward gestures of respect. The
+Adityas, Vasus, Rudras, Maruts, all entitled to
+pareake of the oblations, together with Jisnu, were
+present. The four classes of Pitrs, Ushmapas.
+Somapas, Ajyapts, and Dhumapias, or those who
+feed upon the name, the acid juice, the butter, or the
+smoke of offerings, the Asvins and the progenitors,
+came along with Brahma. Creaturcs of every class,
+born from the womb, the egg, from vapour, or
+vegetation, came upon their invocation; as did all
+the gods, with their brides, who in their resplendent
+vehicles blazed like so many fires. Beholding them
+thus assembled, the sage Dadhicha was filled with
+indignation, and observed, 'The man who worships
+what ought not to be worshipped, or pays not
+reverence where veneration is due, is gultcy, most
+assuredly, of heinous sin.' Then addressing Daksa,
+he said to him, 'Why do you not offer homage to
+the god who is the lord of life (Pasubhartri)?' Daksa
+spoke; 'I have already many Rudras present, armed
+with tridents, wearing braided hair, and existing in
+eleven forms: 1 recognise no other Mahadeva.‘
+Dadhicha spoke; ‘The invocation that is not
+addressed to ISa, is, for all, but a solitary (and
+imperfect) summons. Inasmuch as | behold no
+other divinity who is superior to Sankara, this
+sacrifice of Daksa will not be completed.' Daksa
+spoke; “I offer, in a golden cup, this entire oblation,
+which has been consecrated by many prayers, as an
+offering ever due to the unequalled Visnu, the
+sovereign lord of all.”*
+
+“In the meanwhile, the virtuous daughter of the
+mountain king, observing the departure of the
+divinities, addressed her lord. the god of living
+beings, and said—Uma spoke— 'Whither, oh lord,
+have the gods, preceded by Indra, this day
+
+## Page 56
+
+BOOK I, CHAP. 8
+
+51
+
+departed? Tell me truly, oh you who know alt truth,
+for a great doubt perplexes me.' Mahesvara spoke;
+"Illustrious goddess, the excellenc patriarch Daksa
+celebrates the sacrifice of a horse, and thither the
+gods repair.’ Devi spoke; 'Why then, most mighty
+god, dos you also not proceed to this solemnity? by
+what hindrance is your progress thither impeded?’
+Mahesvara spoke; ‘This is the contrivance, mighty
+queen, of all the gods. that in all sacrifices no
+portion should be assigned to me. In consequence
+of an arrangement formerly devised, the gods allow
+me, of right, no participation of sacrificial
+offerings.’ Devi spoke; ‘The lord god lives in all
+bodily forms, and his might is eminent through his
+superior faculties; he is unsurpassable, he is
+unapproachable, in splendour and glory and power.
+That such as he should be excluded from his share
+of oblations, fills me with deep sorrow, and a
+trembling, oh sinless, seizes upon my frame. Shall
+J now practise bounty, restraint, or penance, so that
+my lord, who is inconceivable, may obtain a share,
+a half or a third portion, of the sacrifice’?!
+
+“Then the mighty and incomprehensible deity,
+being pleased, said to his bride, thus agitated; and
+speaking; 'Slender-waisted queen of the gods. you
+know not the purport of what you say; but I know
+it, oh you with large eyes, for the holy declare all
+things by meditation. By your perplexity this day
+are all the gods. with Mahendra and all the three
+worlds, utterly confounded. In my sacrifice, those
+who worship me. repeat my praise?, and chant the
+Rathantara song of the Sama veda; my priests
+worship me in the sacrifice of true wisdom, where
+no officiating Brahman is needed; and in this they
+offer me my portion.’ Devi spoke; ‘The lord is the
+root of all, and assuredly, in every assemblage of
+the female world, praises or hides himself at will.’
+Mahadeva spoke; ‘Queen of the gods, I praise not
+myself: approach, and behold whom I shall create
+for the purpose of claiming my share of the rite.”
+
+“Having thus spoken to his beloved spouse, the
+mighty MaheSvara created from his mouth a being
+like the fire of fate; a divine being, with a thousand
+heads, a thousand eyes, a thousand feet; wielding a
+thousand clubs, a thousand shafts; holding the shell,
+the discus, the mace, and bearing a blazing bow and
+battle-axe; fierce and terrific, shining with dreadful
+splendour, and decorated with the crescent moon;
+clothed in a tiger's skin, dripping with blood;
+
+having a capacious stomach, and a vast mouth,
+armed with formidable tusks: his ears were erect,
+his lips were pendulous, his tongue was lightning;
+his hand brandished the thunderbolt; flames
+screamed form his hair; a necklace of pearls wound
+round his neck; a garland of flame descended on his
+breast: radiant with lustre, he looked like the final
+fire that consumes the world. Four tremendous
+tusks .projected from a mouth which extended from
+ear to ear ; he was of vast bulk, vase strength,
+mighty male and lord, the destroyer of the universe,
+and like a large fig-tree in circumference; shining
+like a hundred moons at once; fierce as the fire of
+love; having four heads, sharp white teeth, and of
+mighty fierceness, vigour, activity, and courage;
+glowing with the blaze of a thousand fiery suns at
+the end of the world; like a thousand undimmed
+moons; in bulk like Himadri; Kailasa, or Meru, or
+Mandara, with all its gleaming herbs; bright as the
+sun of destruction at the end of ages; of irrcsistible
+prowess, and beautiful aspect; irascible, with
+lowering eyes, and a countenance burning like fire;
+clothed in the hide of the elephant and lion, and girt
+round with snakes; wearing a turban on his head, a
+moon on his brow; sometimes savage, sometimes
+mild; having a chaplet of many flowers on his head,
+anointed with various unguents, and adorned with
+diffcrent ornaments and many sores of jewels;
+wearing a garland of heavenly Karnikara flowcrs,
+and rolling his eyes with rage. Sometimes he
+danced; sometimes he laughed aloud; sometimes he
+stood wrapt in meditation; sometimes he trampled
+upon the earth; sometimes he sang; sometimes he
+wept repeatedly; and he was endowed with the
+facuities of wisdom, dispassion, power, penance,
+cruch, endurance, fortitude, dominion, and self-
+knowledge.
+
+“This being, then, knelt down upon the ground,
+and raising his hands respectfully to his head, said
+to Mahadeva, ‘Sovereign of the gods, command
+what it is that I must do for you,’ To which
+Maheswara replied, 'Spoil the sacrifice of Daksa.'
+Then the mighty Virabhadra, having heard the
+pleasure of his lord, bowed down his head to the
+feet of Prajapati; and starting like a lion loosed
+from bonds, despoiled the sacrifice of Daksa,
+knowing that he had been Created by the
+displeasure of Devi. She too in her wrath, as the
+fearful goddess Rudrakali, accompanied him, with
+
+## Page 57
+
+52
+
+THE VISNU-PURANAM
+
+all her train, to witness his deeds. Virabhadra the
+fierce, abiding in the region of ghosts, is the
+minister of the anger of Devi. And he then created,
+from the pores of his skin, powerful demigods, the
+mighty attendants upon Rudra. of equal valour and
+strength, who started by hundreds and thousands
+into existence. Then a loud and confused clamour
+ailed all the expanse of ether, and inspired the
+denizens of heaven with dread. The mountains
+tottered, and earth shook, the winds roared, and the
+depths of the sea were disturbed; the fires lost their
+radiance, and the sun grew pale; the planets of the
+firmament shone not, neither did the stars give
+light; the Rshis ceased their hymns, and gods and
+demons were mute; and thick darkness eclipsed the
+chariots of the skies.*
+
+“Then from the gloom emerged tearful and
+numerous forms, shouting the cry of battle; who
+instantly broke or overturned the sacrificial
+columns, trampled upon the altars, and danced
+amidst the oblations. Running wildly hither and
+thither, with the speed of wind, they tossed about
+the implements and vessels of sacrifice, which
+looked like stars precipitated from the heavens. The
+piles of food and beverage for the gods, which had
+bcen heaped up like mountains; the rivers of milk;
+the banks of curds and butter; the sands of honey
+and butter-milk and sugar; the mounds of
+condiments and spices of every flavour; the
+undulating knolls of flesh and other viands; the
+celestial liquors, pastes, and confections, which had
+been prepared; these the spirits of wrath devoured
+or defiled or scattered abroad. Then talling upon the
+host of the gods, these vase and resistess Rudras
+beat or terrified them, mocked and insulted the
+nymphs and goddesses, and quickly put an end to
+the rite, although defended by all the gods; being
+the ministers of Rudra's wrath, and similar to
+himself. ‘Some then made a hideous clamour,
+whilst ochers fearfully shouccd, when Yajiia was
+decapitated. For the divine Yajiia. the lord of
+sacrifice. then began to fly up to heaven, in the
+shape of a decr; and Virabhadra, of immeasurable
+spirit, apprehending his power, cut off his vast
+head, after he had mounted into the sky.7 Daksa the
+patriarch, his sacrifice being destroyed, overcome
+with terror, and utterly broken in spirit, fell then
+upon the ground, where his head was spurned by
+the feet of the cruel Virabhadra.* The thirty scores
+
+of sacred divinities were all presently bound, with a
+band of fire, by their lion-like foe; and they all then
+addressed him, crying, 'Oh Rudra, have mercy upon
+your servants: oh lord, dismiss thine anger.’ Thus
+spoke Brahmé and the other gods, and the patriarch
+Daksa: and raising their hands, they said, ‘Declare,
+mighty being, who you are.’ Virabhadra said, 'I am
+not a god, nor an Aditya; nor am I come hither for
+enjoyment, nor curious to behold the chiefs of the
+divinities: know that I am come to destroy the
+sacrifice of Daksa, and that I am called Virabhadra.
+the issue of the wrath of Rudra. Bhadrakali also,
+who has sprung from the anger of Devi, is sent here
+by the god of gods to destroy this rite. Take refuge,
+king of kings, with him who is the lord of Uma; for
+better is the anger of Rudra than the blessings of
+other gods.’
+
+"Having heard the words of Virabhadra, the
+righteous Daksa propitiated the mighty god, the
+holder of the trident, MaheSvara, The hearth of
+sacrifice, deserced by the Brahmanas, had been
+consumed; Yajfia had been metamorphosed to an
+antelope; the fires of Rudra's wrath had been
+kindled; the attendants, wounded by the tridents of
+the servants of the god, were groaning with pain;
+the pieces of the uprooted sacrificial posts were
+acattered here and there; and the fragments of the
+meat-offerings were carried off by flights of hungry
+vultures, and herds of howling jackals. Suppressing
+his vital airs, and taking up a posture of meditation,
+the many-sighted victor of his foes, Daksa fixed his
+eyes every where upon his thoughts. Then the god
+of gods appeared from the altar, resplendent as a
+thousand suns, and smiled upon him, and said.
+‘Daksa, your sacrifice has been destroyed through
+sacred knowledge: I am weil pleased with you:’ and
+then he smiled again, and said, ‘What shall I do for
+you: declare, together with the preceptor of the
+gods."
+
+"Then Daksa, frightened, alarmed, and agitated,
+his eyes suffused with tears, raised his hands
+revcrentially to his brow, and said, ‘If lord, you are
+pleased; if I have found favour in your sight; if I
+am to be the object of your benevolence; if you will
+confer upon me a boon, this is the blessing 1 solicit,
+that all these provisions for the solemn sacrifice,
+which have been collected with much trouble and
+during a long time, and which have now been
+eaten, drunk, devoured, burnt, broken, scattered
+
+## Page 58
+
+BOOK I, CHAP. 8
+
+53
+
+abroad, may not have been prepared in vain.’ 'So
+let it be,’ replied Hara, the subduer of ludra. And
+thereupon Daksa knelt down upon the earth, and
+praised gracefully the author of righteousness, the
+three-eyed god Mahadeva, repeating the eight
+thousand, names of the deity whose emblem is a
+bull.’
+NOTES
+
+1. The sacrifice of Daksa is a legend of some
+interest, from its historical and archaeological
+relations. It is obviously intendcd to intimate a
+struggle between the worshippers of Siva and of
+Visnu, in which at first the latter, but finally the
+former, acquired the ascendancy. It is also a
+favourite subject of Hindu sclupture, at least with
+the Hindus of the Saiva division, and makes a
+conspicuous figure both at Elephanta and Ellora, A
+representation of the dispersion and multilation of
+the gods and sages by Virabhadra. at the former, is
+published in the Archeologia, VII. 326. where it is
+described as the Judgement of Solomon! a figure of
+Virabhadra is given by Niebuhr, vol. II. tab. 10:
+and the entire group in the Bombay Transactions,
+vol.1. p. 220. It is described, p. 229; but Erskine
+has not verified the subject, although in cannot
+admit of doubt The groupe described. p. 224,
+probably represents the introductory details given
+in our text. Of the Ellora sculptures, a striking one
+occurs in what Sir C. Malet calls the Doomar Leyna
+cave, where is "Veer Budder. with eight hands. In
+one is suspended the slain Rajah Dutz,” A. R. VI,
+396. And there is also a representation of 'Ehr
+Budr,' in one of the colonadcs of Kailasa;'being, in
+fact, the same figure as that at Elephanta. Bombay
+Tr. Ill, 287. The legend of Daksa therefore was
+popular when those cavern temples were excavated.
+The story is told in much more detail in several
+other Puranas, and with some variations, which will
+be noticed: but the above has been selected as a
+specimen of the style.of the Vayu Purana. and as
+being a narration which, from its inartifical,
+obscure, tautological, and — uncircumstantial
+construction, is probably of an ancient date. The
+same legend, in the same words, is given in the
+Brahma Purana
+
+2. Or this may be understood to imply, that the
+original story is in the Vedas; the term being, as
+usual in such a reference, #fa fa: | Gangadvara. the
+place where the Ganges descends to the plains—or
+Haridvar. as it is more usually termed—is usually
+
+specified as the scene of action. The Liga is more
+precise, calling it Kanakbala, which is the village
+still called Kankhal, near Haridvar (Megha Dutft, p.
+59). It rather inaccurately, however, describes this
+as upon Harhsa peak;, a point of the Himalaya:
+eae feraferati
+3. The Karma Purana gives also this discussion
+between Dadhicha and Daksa, and their dialogue
+contains some curious matter. Daksa, for instance,
+states that no portion of a sacrifice is ever allotted
+to Siva, and no prayers are directed to be addressed
+to him, or to his bride: wetsta fe ary 4 4M:
+afteteaa: | a reat areten arg siaceafa Fe7t! Dadhicha
+apparently evades the objection, and claims a share
+for Rudra, consisting of the triad of gods, as one
+with the sun, who is undoubtedly hymned by the
+several ministering priests of the Vedas: ® Wad
+Feary wma: | Te faaentet vg Atal
+Daksa replies, that the twelve Adityas receive
+special oblations : that they are all the suns; and
+that he knows of no other. The Munis, who
+overbear the dispute, concur in his sentiments: 4 @
+St Beet eat ef ert feet
+eas WITS Y ATA: Tae Vgera:1 arehreagay cat
+‘eq Bre: || These notions seem to have been
+exchanged for others in the days of the Padma
+Purana and Bhagavata. as they place Daksa's
+neglect of Siva to the latter's filthy practices, his
+going naked, smearing himself with ashes, carrying
+a skull, and behaving as if he were drunk or crazed:
+alluding, no doubt, to the practices of Saiva
+mendicants, who seem to have abounded in the
+days of Sankaracharya, and since, there is no
+discussion in the Bhagavata. but Rudra is described
+as present at a former assembly, when his father-in-
+law censured him before the guests, and in conse-
+quence he departed in a age. His follower Nandi
+curses the company, and Bhrgu retorts in language
+descriptive of the Vamdacharis, or left hand
+worshippers of Siva. “May all those” he says, “who
+adopt the worship of Bhava (Siva), all those who
+follow the practices of his worshippers, become
+heretics, and oppugners of holy doctrines; may they
+neglect the observances of purification; may they
+be of infirm intellects. wearing clotted hair. and
+ornamenting themselves with ashes and bones: and
+may they enter the Saiva initiation, in which
+spirituous liquor is the libation."
+
+## Page 59
+
+54
+
+THE VISNU-PURANAM
+
+4. This simple account of Sati's share in the
+transaction is considerably modified in other
+accounts. In the Ktirma, the quarrel begins with
+Daksa the patriarch’s being, as he thinks, treated by
+his son-in-law with less respect than is his due.
+Upon his daughter Sati subsequently visiting him,
+he abuses her husband, and turns her out of his
+house.
+
+She in spite destroys herself: Sareea Siva.
+hearing of this. comes to Daksa, and curses him to
+be born as a Ksatriya, the son of the Pracetasas, and
+to beget a son on his own daughter: eat Gara
+FSA TAAeMeAAE It is in this subsequent birth that
+the sacrifice occurs. The Lifiga and Matsya allude
+to the dispute between Daksa and Sati. and to the
+latter's puting an end to herself by Yoga:
+
+cd IA:The Padma.
+Bhagavata, and Skanda in the Kasi Khanda, relate
+the dispute between father and daughter in a like
+manner, and in more detail. The first refers the
+death of Sati. however, to a prior period; and that
+and the Bhagavata both ascribe it to Yoga: wt Wa:
+yeraret wrfeenffrt The Kasi Khanda, with an
+improvement indicative of a later age, makes Satfi
+throw herself into the fire prepared for the
+solemnity.
+
+5. The description of Virabhadra and his
+followers is given in other Puranas in the same
+strain, but with less detail.
+
+6. Their exploits, aod those of Virabhadra, are
+more particularly specified elsewhere, especially in
+the Liga. Kiirma, and Bhagavta Puranas. Indra is
+knocked down and trampled on; Yama has his staff
+broken; Sarasvati and the Matrs have their noses
+cut off; Mitra or Bhaga has his eyes pulled out;
+Pusha has his teeth knocked down his throat;
+Candra is pummelled : Vahni's hands are cut off;
+Bhrgu loses his beard; the Brahmanas are pelted
+with stones : the Prajapatis are beaten . and the
+gods and demigods are run through with swords or
+stuck with arrows.
+
+7. This is also mentioned in the Liniga and in the
+Hari Varisa: and the latter thus accounts for the
+origin of the constellation Migosiras, Yajiia, with
+the head of a dear. being elevated to the planetary
+region. by Brahma.
+
+8. As he prays to Siva presently, it could not well
+be meant here that Daksa was decapitated, although
+that is the story in other places. The Linga and
+
+Bhagavata both state that Virabhadra cut off Daks
+a's head, and threw it into the fire. After the fray
+therefore when Siva restored the dead to life, and
+the mutilated to their limbs. Daksa's head was not
+forthcoming : it was therefore replaced by the head
+of a goat, or, according to the Kasi Khanda, that of
+aram. No notice is taken in our text of the conflict
+elsewhere described between Virabhadra and Vis
+nu. In Ihc Linga, the latter is beheaded, and his
+head is blown by the wind into the fire. The Karma.
+though a Saiva Purana, is less irreverent towards
+Visnu, and after describing a contest in which both
+parties occasionally prevail, makes Brabma
+interpose, and separate the combatants. The Kasi
+Khanda of the Skanda Purana describes Visnu as
+defeated, and at the mercy of Virabhadra. who is
+prohibited by a voice from heaven from destroying
+his antagonist : whilst in the Hari Varnga, Visnu
+compels Siva to fly, after taking him by the throat
+and nearly strangling him. The blackness of Siva's
+neck arose from this throttling, and not, as
+elsewhere described, from his drinking the poison
+ptoduced at the churning of the ocean.
+
+whee
+
+## Page 60
+
+54
+
+THE VISNU-PURANAM
+
+CHAPTER 9
+waaiseara:
+
+(34 wf gatea: wre:, arent: wt zara
+THY VYTRTY SHI AMG ha)
+WOR sara
+ves Ty Wa aq Weisel aT
+sirerrareg wer wrereagrare rea: QI
+Parasara said—-But with respect to the
+question you have asked me. Maitreya,
+
+relating to the history of Sri, hear from me the
+tale as it was told to me by Marici.
+
+aRrartnfaet we wet afar
+ates get wet renfcog 3 11
+Saaa] farat BET whet aa
+ai aret aerttet ferereraey aa
+
+## Page 61
+
+BOOK I, CHAP. 9
+
+55
+
+anfean a wag uret faeneragAN
+
+aah wet feremonalt erat sforarT a4 1
+ATT Yfet SaTyARRATTRI
+
+wen a fast dae oftewre AfeiEn
+a cast WaRTaT Tae
+deirenfeaft Fa we 2a: yearn
+
+Durvasas, a portion of Sankara (Siva)', was
+wandering over the earth; when he beheld, in
+the hands of a nymph of air’, a garland of
+flowers culled from the trees of heaven, the
+fragrant. odour of which spread throughout the
+forest, and enraptured all who dwelt beneath
+its shade. The sage. who was then possessed
+by religious frenzy’; when he beheld that
+garland, demanded it of the graceful and full-
+eyed nymph, who, bowing to him
+reverentially, immediately presented it to him.
+He, as one frantic, placed the choplet upon his
+brow, and thus decorated resumed his path;
+when he bcheld Indra, the husband of Sact. the
+tuler of the three worlds, approach, seated on
+his infuriated elephant Airadvata, and attended
+by the gods.
+
+amen: @: force: aanprreTEry
+srerarerearaTe Feaat TAP NC
+Tera aitreangeh
+
+arent Tet Sorafyrat area wae
+rarectfterdts et wages ATCT:
+aturere faate at ast Tuite go!
+
+The frenzied sage, taking from his head the
+garland of flowers, amidst which the bees
+collected ambrosia, threw it to the king of the
+gods, who caught it. and suspended it on the
+brow of Airavata, where it shone like the river
+Jahnavi, glittering on the dark summit of the
+mountain Kaildsa. The elephant, whose eyes
+were dim with inebriety, and attracted by the
+smell, took hold of the garland with his trunk,
+and case it on the earth.
+
+Teapate array Gate BATT:
+Ae tam f padagara agen
+
+torina germafareranste ara
+
+fret are oat aed Tet aaa ean
+
+Ware sft Are A wftrorage: Ae
+
+Balegecranters 7 ent fercer gam gant
+
+We Setftent Wrett wea ay Aa
+
+Seteasiea ye ferrergrarefan exit
+
+vi weasel: aget Et yee wary fists
+
+SASe ATE AAT TART FATT NG 1
+
+TeMT erat Tee FRAT Tre Tete
+
+TEM WABeRRIs Felted B wafereafen eg 1
+
+ae BATT wera STATA
+
+at oa aroferdor arenerraTan gon
+
+That chief of sages, Durvasas, was highly
+incensed at this disrespectful treatment of his
+gilt, and thus angrily addressed the sovereign
+of the immortals: “Inflated with the intoxica-
+tion of power, Vasava, vile of spirit, you are
+an idiot not to respect the garland I presented
+to you, which was the dwelling of Fortune
+(Sri), You have not acknowledged it as a
+largess'; you have not bowed yourself before
+me; you have not placed the wreath upon your
+head, with your countenance expanding with
+delight. Now, tool, for that you have not
+infinitely prized the gailand that I gave you,
+your sovereignty over the three worlds shall be
+subverted. You confoundest me, Sakra, with
+other Brahmanas. and hence I have suffered
+disrespect from your arrogance: but in like
+manner as you have cast the garland I gave
+you down on the ground, so shall your
+dominion over the universe be whelmed in
+ruin. You have offended one whose wrath is
+dreaded by all created things, king of the gods.
+even me, by thine excessive pride.”
+
+WH sar
+Teg aronaragadted ware: |
+WATCATATA Hel FART TTA RC
+FAA: AF Aer aforaTATGT ATA
+wegara weeny gale yfraAA: 1 83
+
+## Page 62
+
+56
+
+THE VISNU-PURANAM
+
+Parasara said— Descending hastily from his
+elephant, Mahandra endeavoured to appease
+the sinless Durvasds: but to the excuses and
+prostrations of the thousand-eyed, the Muni
+answered.
+
+gatar sara
+We PUGECa AF Ai wae aT
+SUT ya: wR GeatraTafs AM Zot
+aihanfefired adernfeat yer
+sanfrarcaded gatranae ary 2 at
+afamredarent: wit gdfxead:1
+wed meatsfe Aa aTTETATATATAI 2 VI
+
+wewermcres yaclplect PET
+Friar aafergat we at a wat ETN 23H
+até entire agar farqeat erat
+fasrrnfiat ya: aterarferarq 2x1
+Durvésé said— “I am not of a
+compassionate heart, nor is forgiveness
+
+congenial to my nature. Other Munis may
+relent; but know me, Sakra, to be Durvasas.
+You have in vain been rendered insolent by
+Gautama and others; for know me, Indra, to be
+Durvdsas, whose nature is a stranger to
+remorse. You have been flattered by Vasistha
+and other tender-hearted saints, whose loud
+praises have made you so arrogant, that you
+have insulted me. But who is there in, the
+universe that can behold my countenance, dark
+with frowns, and surrounded by my blazing
+hair, and not tremble ? What need of words? I
+will not forgive, whatever semblance of
+humility you may assume.”
+
+WIE Sart
+seqeen weet fast tacsitshe at yA:
+wreehrat TA WATT 8 I
+aa: wofe Fst aerk yea
+Braniteuered daftoieteretreer 2 1
+AM: WERT T TAT ATTA: |
+Fe ariigatlg waePa Tat FA RII
+Faeerar waren cian ciherg weather:
+
+actstt fe ayget afteret fesnTAT RCH
+
+aa: rd wat cet: wed Gest a
+
+fasten Ha: are fae Ba JOT: SA VeN
+
+aeritaterrasr gear qf
+
+gta: wrerer aerate farataa 13 oN
+
+wareremficigtnr: sft: Fart
+
+Parasara said— Having thus spoken, the
+Brahman went his way; and the king of the
+gods, remounting his elephant, returned to his
+capital Amaravati. Thence forward, Maitreya,
+the three worlds and Sakra lost their vigour,
+and all vegetable products, plants, and herbs
+were withered and died; sacrifices were no
+longer offered; devout exercises no longer
+practised; men were no more addicted to
+charity or; any moral or religious obligation,
+all beings became devoid of steadiness ; all
+the faculties of sense were obsttucted by
+cupidity; and men's desires were excited by
+frivolous objects. Where there is energy, there
+is prosperity; and upon prosperity energy
+depends. How can those abandoned by
+prosperity be possessed of energy; and without
+energy, where is excellence ? Without
+excellence there can be no vigour nor heroism
+amongst men : he who has neither courage nor
+strength, will be spurned by all: and he who is
+universally created with disgrace, must suffer
+abasement of his intellectual faculties.
+
+Tarren ates Feet TaAAAAU 3 VU
+
+dary wa aciteint apetaerrat:1
+
+sinnfingar site dear: arate: 3 Vu
+
+fran fae eee TTY
+
+fafanfacen eeifcgren: yreat ay: 3 31
+
+foareg THETA ATAT NTA: |
+
+ware alae Baden wre Ta: YAN Fv
+
+The three regions being thus wholly
+divested of prosperity, and deprived of energy,
+the Danavas and sons of Diti, the enemies of
+the gods, who were incapable of steadiness,
+and agitated by ambition, put torch their
+strength against the gods. They engaged in war
+
+## Page 63
+
+BOOK I, CHAP. 9
+
+57
+
+with the feeble and unfortunate divinities; and
+Indra and the rest, being overcome in fight,
+fled for refuge to Brahma, preceded by the god
+of flame (Hutasana). When the great father of
+the universe had heard all that had come to
+pass, he said to the deities,
+
+watara
+
+eats rot aT
+
+serfattatrarermed BetbaT TH 3&1
+
+warafaata faaprrarraratay
+
+wea: areot aA TAT: 113 & 1
+
+wore fay wa: seh faereafer
+
+Brahma said- “Repair for protection to the
+god of high and low, the tamer of the demons,
+the causeless cause of creation, preservaction,
+and destruction; the progenitor of the
+progenitors; the immortal, unconquerable Vis
+nu; the cause of matter and spirit, of his
+unengendered products; the remover of the
+grief of all who humble themselves before
+him: he will give you aid."
+
+aa ML wah wen aiteafaaTTE:|
+aftecirat att ata aft ati gen
+aman fret: wed: ana: fare:
+Jara anftafterfe: werecaf eft g cn
+
+Having thus spoken to the deities. Brahma
+proceeded along with them to the northern
+shore of the sea of milk; and with reverential
+words thus prayed to the supreme Hari;
+
+valart
+aaa ad adererrTeTaT
+RATTATATAT TANT 3 FHI
+areUrmatararagraroTU TTA
+arent afte aq qadtat witerarq ¥ ot
+wa wd Ua: Wage UGTA
+waar a a: weorafy a: wey el
+Wt: WEE FRA, TUTE RTH!
+aifafataas sisal yimeg yes iy ei
+BMA A GRIT BAS Wg TOT:
+
+aye: ways: Yarra: weteguy3 i
+
+Brahma said— "We glorify him who is all
+things, the lord supreme over all, unborn,
+imperishable; the protector of the mighty ones
+of creation; the unperceived, indivisible
+Narayana, the smallest of the smallest, the
+largest of the largest of the elements; in whom
+are all things, from whom are all things; who
+was before existence; the god who is all
+beings, who is the end of ultimate objects, who
+is beyond final spirit, and is one with supreme
+soul; who is contemplated as the cause of final
+liberation by sages anxious to be free; in
+whom are not the qualities of goodness,
+foulness, or darkness, that belong to
+undeveloped nature. May that purest of all
+pure spirits this day be propitious to us.
+
+aon-enrer- Frmenigerergaer That
+
+we whet Yas weteg oat eftsuewn
+
+shat weet fe a: YasqTana:
+
+wateg a faeyeren a: waar YG
+
+May that Hari be propitious to us, whose
+inherent might is not an object of the
+progressive chain of moments or of days, that
+make up time. May he who is called the
+supreme god, who is not in need of assistance,
+Hari, the soul of all embodied substance, be
+favourable unto us.
+
+a: SUS ares SONY are
+
+artenta a a: arf matey a At eftven
+
+attarka a: arf wartentt a: ear
+
+TBI AeA WOT: BT ATI SION
+
+May that Hari, who is both cause and
+effect; who is the cause of cause, the effect of
+effect; he who is the effect of successive
+effect: who is the effect of the effect of the
+effect himself; the product of the effect of the
+effect of the effect, or elemental substance; to
+him I bow.’
+
+BUT HOTT TAT ALOT
+
+meat Vf wat MOAT: BT TVAITTN YS I
+
+ahaert tens Bert era
+
+ard enhaed f word: BT Ut VEN Ye
+
+## Page 64
+
+58
+
+THE VISNU-PURANAM
+
+The cause of the cause; the cause of the
+cause of the cause; the cause of them all; to
+him I bow. To him who is the enjoyer and
+thing to be enjoyed; the creator and thing to be
+created; who is the agent and the cffect; to that
+supreme being I bow.
+
+faqd tert fremmerorry
+sornnfaant aq Afgan: wed TENG of
+a Bet TO Ged aa favorita
+
+werd Wer fae: Morar: TaTHeTTNY ei
+
+The infinite nature of Visnu is pure,
+intelligent, perpetual, unborn, undecayable,
+inexhaustible, inscrutable, immutable; it is
+neither gross nor subtile, nor capable of being
+defined: to that ever holy nature of Visnu I
+bow.
+
+mengargainigt fergfated fern
+
+Ue TARAS A MOTTA TAT & VI
+aa dat Taal A ae TT ETI
+arate weitere aise: wed TENG aH
+ag aft: wate: YoauaaTasey
+
+uyater wore fered afgeat wet TERN vt
+
+wnat wes taer garfernferarfeer:|
+NATE afeT: Tet aA GH
+wae aya ad walsrregM
+
+write faroit srenrat aor ar gfortran 4 Gn
+
+To him whose faculty to create the universe
+abides in but a part of but the ten-millionth
+part of him; to him who is one with the
+inexhaustible supreme spirit, I bow: and to the
+glorious nature of the supreme Visnu, which
+nor gods, nor sages, nor I, nor Sankara
+apprehend; that nature which the Yogis, after
+incessant effort, effacing both moral merit and
+demerit, behold to be contemplated in the
+mystical monosyllable Om: the supreme glory
+of Visnu, who is the first of all; of whom, one
+only god, the triple energy is the same with
+Brahma, Visnu, and Siva: oh lord of all, great
+soul of all, asylum of all, undecayable, have
+pity upon your servants; oh Visnu, he manifest
+to us.”
+
+sqaiftanrncd weniferegrert:!
+
+wordy: waefa aa Ft gfettere yon
+
+Bart WAL Te STAT OA TAA
+
+WaT: BT TAMA Ta We MATA 4 CA
+
+Paragara continued-The gods, having heard
+this prayer uttered by Brahma, bowed down,
+and cried, “Be favourable to us; be present to
+our sight: we bow down to that glorious nature
+which the mighty Brahma does not know; that
+which is your nature, oh imperishable, in
+whom the universe abides.”
+
+Set saa Sarat Teor
+
+sgeata: ad: Feeatagera: 14 eu
+
+art aayireat a: wars at:
+
+4AM: BT SPREE: SETTAfaP AUTH Gold
+
+rer yaar Sry faeTTETT
+
+Wale wort we weet She ae § en
+
+Then the gods having ended, Brhaspati and
+
+the divine Rsis thus prayed: “We bow down to
+the being entitled to adoration; who is the first
+object of sacrifice; who was before the first of
+things; the creator of the creator of the world;
+the undefinable: oh lord of all that has been or
+is to be; imperishable type of sacrifice; have
+pity upon your worshippers; appear to them.
+prostrate before you.
+
+Ws en ward we ether:
+
+alte: at ger wraenise Benita ng Bn
+
+aft aaaadt wi da weRT:|
+
+ren feet wen Far SergarrentbaT 1g
+
+MOTO Aver Sera TTT STAT: |
+
+PRUE ATAATAT: PHA SAAPTOTT: HG
+
+Here is Brahma; here is Trilocana (the
+three-eyed Siva), with the Rudras; Pusan (the
+sun), with the Adityas; and Fire. with all the
+mighty luminaries: here are the sons of Asvini
+(the two ASvini Kumaras). the Vasus and all
+the winds, the Sadhyas, the Visvedevas, and
+Indra the king of the gods: all of whom bow
+lowly before you : all the tribes of the
+
+## Page 65
+
+BOOK I, CHAP. 9
+
+59
+
+immortals, vanquished by the demon host,
+have fled to you for succour.”
+
+WA Farq
+
+WT TINY Magus!
+
+Saar aah Fat Are wea g GI
+
+a apr war targa
+
+anychareterrt Sorat uferegferrg & 1
+
+wore worat: yet datrafeafeeeror: |
+
+FRA: Qusttened frarreqerra: 11 g i911
+
+Parasara continued-Thus prayed to, the
+
+supreme deity, the mighty holder of the conch
+and discus, showed himself to them: and
+beholding the lord of gods, bearing a shell, a
+discus, and a mace, the assemblage of
+primeval form, and radiant with embodied
+light. Pitamaha and the other deities, their eyes
+moistened with rapture, first paid him homage
+and then thus addressed him :
+
+zat wy:
+
+aay aaisfaghned wt gen et fires
+
+Sawai: vad aan: afer SAE Sil
+
+aaal wet: eat fas Favor wary
+
+asa warndt Fa weitd Saar: 1g et
+
+Waa AAT At: TAMA TAT!
+
+wa age SUERTE: WATAAT: 1119 011
+
+andes valeieaanact 31
+
+wares veut ferent rea Seafafeia: 119 tt
+
+Gods said— “Repeated salutation to you,
+who are indefinable: you are Brahma; you are
+the wonder of the Pinaka bow (Siva); you are
+Indra; you are fire, air, the god of waters, the
+sun, the king of death (Yama), the Vasus, the
+Maruts (the winds), the Sadhyas, and
+Visvadevas. This assembly of divinities, that
+now has come before you, you are; for, the
+creator of the world, you are every where. You
+are the sacrifice, the prayer of oblation, the
+mystic syllable Om, the sovereign of all
+creatures: you are all that is to be known, or to
+be unknown: oh universal soul, the whole
+
+world consists of you. We, discomfited by the
+Daityas, have fled to you, oh Visnu, for
+refuge.
+
+ad waite watered 7:1
+
+TART ART TAPAS TATTTA © V1
+
+TAA ROT ATTA
+
+wa WEE WAAAY MOAT HHT 71119311
+
+Barat Aer Waa ATTA FEMI
+
+Spirit of all, have compassion upon us;
+
+defend us with your mighty power. There will
+be affliction, desire, trouble, and grief, until
+your protection is obtained : but you are the
+remover of all sins. Do you then, oh pure of
+spirit, show favour unto us who have fled to
+you: oh lord of all, protect us with your great
+power, in union with the goddess who is your
+strength®,”
+
+WE Sart
+wa Beary wordt:
+weagisiratrenre w faeraqios i
+
+Hari, the creator of the universe, being thus
+prayed to by the prostrate divinities, smiled,
+and thus spoke:
+
+sieprargart
+
+awa waat Jar: aherrqadey
+
+aerad aq fact wafxeried YANG I
+
+anita afget Set: afta warcieett:1
+
+wart Wat Heat Aa Het J arafer o'sit
+
+wearanngd Fat: wera Werafeei
+
+Visnu said— "With renovated energy, oh
+gods, I will restore your strength. Do you act
+as I enjoin. Let all the gods, associated with
+the Asuras, cast all sorts of medicinal herbs
+into the sea of milk; and then taking the
+mountain Mandara for the churning-Kick, the
+serpent Vasuki for the rope, churn the ocean
+together for ambrosia; depending upon my aid.
+
+angdy ata arereraafoTi 9 ¢
+
+STEER Bet area afar
+
+HOTA FT TATE Aq AAS TTT 8
+
+## Page 66
+
+60
+
+THE VISNU-PURANAM
+
+ARIAT afett yar weet
+
+wn are afventir wer frenfafee:
+
+a wrereangd tat: act serena oft
+
+To secure the assistance of Daityas, you
+must be at peace with them, and engage to
+give them an equal portion of the fruit of your
+associated toil; promising them, that by
+drinking the Amrta that shall be produced
+from the agitated ocean, they shall become
+mighty an immortal. I will take care that the
+enemies of the gods shall not partake of the
+percious draught; that they shall share in the
+labour alone.”
+
+WIPE Tart
+
+sya tates wd Wa wa: YA:
+
+PIAA: FAT AMAASTASHATN < Rl
+
+aetedit: warita ta-ataerat:|
+
+farcer feroferrafar prequrrcitrafinn ¢ 211
+
+Being thus inscrucced by the god of gods,
+
+the divinities entered into alliance with the
+demons, and they jointly undertook the
+acquirement of the beverage of immortality.
+They collected various kinds of medicinal
+herbs, and cast them into the sea of milk, the
+waters of which were radiant as the thin and
+shining clouds of autumn.
+
+War wet gran 3a Hear a arghaq
+
+vat afagureen Ata ATATFATN ¢ 3H
+
+fagen: wie: wa aa: yes aa: Get:
+
+RO aryeser: yee Fafa cw
+
+2 tee HOT are-aterreaaearg: |
+
+freentisga: wa aqgefiaganc qu
+
+Waa Wah are-argaretacnga:
+
+Yromest aifgerar renter: GANS RM
+
+attend amar Kabat waa eft:
+
+TREE wHaISTETAN ¢ 811
+
+They then took the mountain Mandara for
+the staff; the serpent Vasuki for the cord; and
+commenced to churn the ocean for the Amrta.
+The assembled gods were stationed by Krsna
+
+at the tail of the serpent; the Daityas and
+Danavas at its head and neck. Scorched by the
+flames emitted from his inflated hood. the
+demons were shorn of their glory; whilst the
+clouds driven towards his tail by the breath of
+his mouth, refreshed the gods with revivifying
+showers. In the midst of the milky sea, Hari
+himself, in the form of a tortoise, served as a
+pivot for the mountain, as it was whirled
+around.
+
+toes tant wel wT:
+
+aad wifi dermeisato ac cl
+
+sratardar, vet geqetor Sys:
+
+aura Ate ae ewe agi 2 ei
+
+aera aera aarenfarary et:
+
+arr tore tary segferary fay: gol
+
+The holder of the mace and discus was
+present in other forms amongst the gods and
+demons, and assisted to drag the monarch of
+the serpent race: and in another vast body he
+sat upon the summit of the mountain. With
+one portion or his energy, unseen by gods or
+demons, he sustained the serpent king; and
+with another, infused vigour into the gods.
+
+werent areafery aftrredt Sareraa: |
+
+eaatamay wa get: qegfara g gu
+
+wryef ad tar array wer
+
+onfirrerasta aya feat: 11 211
+
+fatafafa facari fafa fercaat aa!
+
+aye arent Set ereforreEAT eB
+
+From the ocean, thus churned by the gods
+and Danavas, first uprose the cow Surabhi. the
+fountain of milk and curds, worshipped by the
+divinities, and beheld by them and their
+associates with minds disturbed, and eyes
+glistening with delight. Then. as the holy
+Siddhas in the sky wondered what this could
+be, appeared the goddess Varuni (the deity of
+wine), her eyes rolling with intoxication.
+
+Hae ATTEN aitlere AA BATA
+TR United yg, SaaS gv
+
+## Page 67
+
+BOOK I, CHAP. 9
+
+61
+
+wettarchpuitereraemeacat 701: |
+
+afte’: aaerat Ara Targa et
+
+Next from the whirlpool of the deep,
+sprang the celescial Parijata tree, the delight of
+the nymphs of heaven, perfuming the world
+with its blossoms. The troop of Apsarasas, the
+nymphs of heaven, were then produced, of
+surprising loveliness, endowed with beauty
+and with taste.
+
+aa: ptaigerasy’ wt Wea:
+
+sryger fart arm: afttrarer afer < GU
+
+wat eerafida: Janae: Gay
+
+fauq arose yong ayfera eon
+
+Wd: eMeHRA Bes Sta-araT:|
+
+aygifan: we tq gfe: wenecn
+
+The cool-rayed moon next rose, and was
+seized by Mahadeva: and then poison was
+engendered from the sea, of which the snake
+gods (Nagas) took possession. Dhanvantari,
+robed in white, and bearing in his hand the cup
+of Amrta, next came forth: beholding which,
+the sons of Diti and of Danu, as well as the
+Munis. were filled with satisfaction and
+delight.
+
+aa: apna faanfenret farm
+
+site warereng her yarTZST ee
+
+at ygader gen: sige veda:
+
+femreaqyareran warat: Feat ATs Root
+
+Paria Ter ATATTOT: |
+
+TTT: WARN: FUATTTAATU Ro BU
+
+fern tauren faret we
+
+vara Bat acta 90 2
+
+Then, seated on a full-blown lotus, and
+holding a water-lily in her hand, the goddess
+Sri, radiant with beauty, rose from the waves.
+The great sages, enraptured, hymned her with
+the song dedicated to her praise’. Visvavasu
+and other heavenly quiristers sang, and
+Ghrtaci and other celestial nymphs danced
+before her, Ganga and other holy streams
+attended for her ablutions; and the elephants of
+
+the skies, taking up their pure waters in vases
+of gold, poured them over the goddess, the
+queen of the universal world.
+
+airtel wugg Tet wre
+
+eet faquorarg: feerant wert a go 8tl
+
+FeTTRATARERT FAT TOTAL
+
+Upaat WagaMt Tal aT: Wet BM Yow
+
+Taraehfenm ar eftoer wae
+
+met ie asar wet Frferarram gout
+
+Set wed wegen aap:
+
+Brat Seta Tent fawfarageATAT: 1 ROK MI
+
+The sea of milk in person presented her
+with in wreath of never-fading flowers; and
+the artist of tnc gods (Visvakarma) decorated
+her person with heavenly ornaments. Thus
+bathed. attired, and adorned, the goddess, in
+the view of the celestials, cast herself upon the
+breast of Hari; and there reclining, turned her
+eyes upon the deities, who were inspired with
+rapture by her gaze. Not so the Daityas, who,
+with Vipracitti at their head, were filled with
+indignation, as Visnu turned away from them,
+and they were abandoned by the goddess of
+prosperity (Laksmi).
+
+Tat TgeeT Tait fra
+
+anuSe Weldtat saree Aq fasTETAI gow
+
+ara ciafiat ay fare: eirarafeaa: |
+
+arena tava: weet fergsn go cit
+
+WA: WY: YON: PRN Ta
+
+SeRTqatifeare sare ANA: 1 Ro VU
+
+Wasua w aferaderagern
+
+aernrt fegit Sat aratret x faerer A geo
+
+Wer Sat Yer Yet: QVHTENTT
+
+wforoes sarge srreraa fafeeraA Veal
+
+The powerful and indignant Daityas then
+forcibly seized the Amrta-cup. that was in the
+hand of Dhanvantari; but Visnu. assumin’. a
+female form, fascinated and deluded them: and
+recovering the Amrta from them, delivered it
+to the gods, Sakra and the other deities quaffed
+the ambrosia. The incensed demons, grasping
+
+## Page 68
+
+62
+
+THE VISNU-PURANAM
+
+their weapons, fell upon them; but the gods,
+into whom the ambrosial draught had infused
+new vigour, defeated and put their host to
+flight, and they fled through the regions of
+space, and plunged into the subterraneous
+realms of Patal. The gods thereat greacly
+rejoiced, did homage to the holder of the
+discus and mace, and resumed their reign in
+heaven.
+
+Wa: Waa: Wea: weet waar aah
+
+Satie a aaranf weary rar ¢ez
+
+anata wratsitamadifafawrag: |
+
+eet a aaa war ALATA Re3 I
+
+The sun shone with renovatcd splendour,
+and again discharged his appointed task; and
+the celestial luminaries again circled, oh best
+of Munis, in their respective orbits. Fire once
+more blazed aloft, beautiful in splendour; and
+the minds of all beings were animated by
+devotion.
+
+acieag fren ye aya yiraa
+
+vena FETS: YA: AAAI ge
+
+fagrerna: we: wore fafed GA:
+
+Sarre feat eat qurarenett FAN ARAM
+
+The three worlds again were rendered
+happy by prosperity; and Indra, the chief of
+the gods, was restored to power. Seated upon
+his throne, and once more in heaven,
+exercising sovereignty over the gods, Sakra
+thus eulogized the goddess who bears a lotus
+in her hand:
+
+¥4 sara
+Te wey serinreareerary
+Brergfargrerelt favottcar- werent rary 826 11
+a fated ger ere wer ei cieamrahn
+wear Ufa: wer afer sregr Aa geo!
+aafaen werferen eta a yh
+arafaen @ afer a fargfemcrafrin eee
+areifgat wat arat cusdtftreata a
+araniieingieertatta yr 228
+war ST Targa Afar da ay:
+
+Bae Raga Affe TENFA: Ry ot
+
+waar Sf uftcaeh Tenet YT!
+
+farpmrerra eer WATT gz eM
+
+ant: arent ee arene
+
+HST Freed ATATUTTOIMN 82 V1
+
+wihrataeiafivra: Fay!
+
+fa wagefeqertt Yeutot + yeHTAN LIAN
+
+Indra said- “I bow down to Sri. the mother
+of all beings, seated on her lotus throne, with
+eyes like full-blown lotuses, reclining on the
+breast of Visnu. You are Siddhi (superhuman
+power): you are Swadha and Svaha: you are
+ambrosia (Sudha). the purifier of the universe:
+you are evening, night, and dawn: you are
+power, faith, intellect: you are the goddess of
+letters (Sarasvati). You, beautiful goddess, are
+knowledge of devotion, great knowledge,
+mystic knowledge, and spiritual knowledge;
+which confers eternal liberation. You are the
+science of reasoning, the three Vedas, the arts
+and sciences:'° you are moral and political
+science. The world is peopled by you with
+pleasing or displeasing forms. Who else than
+you, oh goddess, is seated on that person of the
+god of gods, the wielder of the mace, which is
+made up of sacrifice, and contemplated by
+holy ascetics? Abandoned, by you, the three
+worlds were on the brink of ruin; but they have
+been reanimated by you. From your propitious
+gaze. oh mighty goddess, men obtain wives,
+children, dwellings, friends, harvests, wealth.
+Health and strength, power, victory, happiness,
+are easy of attainment to those upon whom
+you smilest.
+
+wa nar weyerat Saat eft: fram
+
+vada fea rer STEAM ATTN AVI
+Ta: Bret aa WS Ar WE aT UieewTeA
+
+Tr wat Bey wT: Tera EG H
+TAR geal a wey aT faery
+PRAT Try Serer fereuTtler: ETE RPE I
+TRH aeptanal ae sitenfefinfat:
+
+werd FAT: Te: TT F ATTA LI
+
+## Page 69
+
+BOOK I, CHAP. 9
+
+63
+
+raaracitfee: a: viterefach fat: |
+pees ert Yor Frfor sift ecu
+
+W yore: W Yui ea: w Heit: w afer
+WMG a a feat ae aa atferasn eee
+walt aquemrentat pte: Wee TUT: |
+Wega wrae wet  faaqaceitn 23 011
+a8 aulfag went gory fra Sera:
+
+wate Sfer verter arenteetelt: BETTI 93 gil
+
+You are the mother of all beings, as the god
+of gods. Hari, is their, father; and this world,
+whether animate or inanimate, is pervaded by
+you and Visnu. Oh you who purify all things,
+forsake not our treasures, our granaries, our
+dwellings, our dependants, our persons, our
+wives: abandon not our children, our friends,
+our lineage, our jewels, oh you who abide on
+the bosom of the god of gods. They whom you
+desert are forsaken-by truth, by purity, and
+goodness, by every amiable and excellent
+quality; whilst the base and worthless upon
+whom you look favourably become
+immediately endowed with all excellent
+qualifications, with families, and with power.
+He on whom your countenance is turned is
+honourable, amiable, prosperous. wise, and of
+exalted birth; a hero of irresistible prowess:
+but all his merits and his advantages are
+converted into worthlessness from whom,
+beloved of Visnu, mother of the world, you
+averted your face. The tongues of Brahma are
+unequal to celcbrate your excellence. Be
+propitious to me, oh goddess, lotus-eyed, and
+never forsake me more.”
+
+WR sart
+
+Te att: Tage Wer we Sat WATT
+
+syoaat waearat waar FT 2 2
+
+Paragara continucd— Being thus praised, the
+gratified Sri, abiding in all creatures, and
+heard by all beings, replicd to the god of a
+hundred rites (Satakratu);
+
+atteara
+uftqarfer tae whoa te
+
+at quira afeagt avers FATTATI 93 31
+
+Sti said- “I am pleased, monarch of the
+gods, by thine adoration. Demand from me
+what you desire: I have comc to fulfil your
+wishes.”
+
+Sy Sara
+
+ara af % tf aural afe arene
+
+Sretvert a rarer eae Asay at: WEN RI wU
+
+ato aes ai wreraferara
+
+a aa a Ultra fetaisey at aA eg 4
+
+Indra replied— “If. Goddess, you will grant
+my prayers; if it ] am worthy of your bounty ';
+be this my first request, that the three worlds
+may never again be deprived of your prescnce.
+My second supplication, daughter of ocean, is,
+that you will not forsake him who shall
+celebrate your praises in the words I have
+addressed to you.” “I will not abandon,”
+
+siteara
+
+Seitet fers + derenfe area
+
+Beit OT WaT wet SAATTEAGTAT 23 & Il
+
+aay Ul Aa wie: AOI Wa:
+
+vi erate a rene afer wregqatn e301
+
+The goddess answered, “the three worlds
+
+again : this your first boon is granted; for Jam
+gratified by your praises: and further, I will
+never turn my face away from that mortal who
+morning and evening shall repeat the hymn
+with which you have addressed me.
+WU Jara -
+
+wa at aa tat asa 4 YT
+
+Bare sitter wiarcertatfiramn 3 ct
+
+Ph: Tarai ayaa at: yee: yA:
+
+Ra-AAAIAA WYATT 23 VI
+
+a aan aan Fatal sare:
+
+aA HURT TAT sHrTMTETAATT Bx o
+
+FS Teg EM safety wat ees!
+
+Get y wet crete aeuit FeTT AN Be RI
+
+Teaasway aet BeaUt Fora
+
+## Page 70
+
+64
+
+THE VISNU-PURANAM
+
+Paragara proceeded— Thus, Maitreya, in
+former times the goddess Sri conferred these
+boons upon the king of the gods. being pleased
+by his adorations; but her first birth was as the
+daughter of Bhrgu by Khyéati: it was at a
+subsequent period that she was produced from
+the sea, at the churning of the ocean by the
+demons and the gods. to obtain ambrosia.” For
+in like manner as the lord of the world, the god
+of gods. Janardana, descends amongst
+mankind (in various shapes), so does his
+coadjutrix Sri. Thus when Hari was born as a
+dwarf, the son of Aditi. Laksmi appeared from
+a lotus (as Padma or Kamala); when he was
+born as Rama. of the race of Bhrgu (or
+Parasurama). she was Dharani; when he was
+Raghava (Ramacandra), she was Sita; and
+when he was Krsna, she became Rukmini.
+
+ara oraatg feratitar weer gee
+tard Gade WA oA
+
+famaigerpeat & atetararrey A 3x3
+BATATYAAT MAT BT USAT:
+
+fort 3 Perea fererer We ara, FATT Bev
+weat dg dae ay sitet gh
+
+STAN: BAST FT AAT HST PG
+
+In the other descents of Visnu, she is his
+associate. If he takes a celestial form. she
+appears as divine; if a mortal, she becomes a
+mortal too. transforming her own person
+agreeably to whatever character it pleases Vis
+nu to put on. Whosoever hears this account of
+the birth of Laksmi, whosoever reads it. shall
+never lose the goddess Fortune from his
+dwelling for three generations; and misfortune,
+the fountain of strife, shall never enter into
+those houses in which the hymns to Sri are
+repeated.
+
+Un & ala eR aa a uftefa
+aftredt sitar orat ve yg Ben ewe
+fa aacfayerariiteg:
+fitatraqataa fe meat:
+angfentire veat 3tt
+data a ag warfare yin
+
+fe sttfereyerat weigh AarAtseaTa:|
+
+Thus, Brahman, have I narrated to you. in
+answer to your question, how Laksmi.
+formerly the daughter of Bhrgu, sprang from
+the sea of milk; find misfortune shall never
+visit those amongst mankind who daily recite
+the praises of Laksmi uttered by Indra. which
+are the origin and cause of all prosperity.
+
+aK
+
+NOTES
+
+1. Durvasas was the son of Atri by Anasiya, and
+was an incarnation of a portion of Siva.
+
+2. A Vidyadhari. These beings, male and female,
+are spirits of an inferior order, tenanting the middle
+regions of the atmosphere. According to the Vayu,
+the garland was given to the nymph by Devi.
+
+3. He observed the Vrata, or vow of intanily;
+FATA! equivalent to the ecstasies of some
+religious fanatics. ‘In this state.’ says the com-
+mentator. ‘even Saints are devils :' frit fe watera:
+Frere ga ait
+
+4. They became Nih-satwa; and Satwa is
+explained throughout by Dhairyya, steadness,
+‘fortitude.
+
+5. The first effect of primary cause is nature, or
+Prakrti : the effect of the effect, or of Prakrti, is
+Mahat : effect in the third degree is Aharikara: in
+the fourth, or the effect of the effect (Ahamkara) of
+the the effect (Mahat) of the effect (Prakfti), is
+elementary substance, or Bhita. Visnu is each and
+all. So in the succeeding ascending scale, Brahma is
+the cause of mortal life : the cause of Brahmi is the
+egg, or aggregate elementary matter : its cause is,
+therefore, elementary matter; the cause of which is
+subtile or rudimental matter, which originates from
+Aharnkara. and so on. Visnu is also each and all of
+these.
+
+6. With your Sakti. or the goddess Sri or Laksmi.
+
+7. Or with the Sukta, or hymn of the Vedas.
+commencing. “Hiranyu varnam." etc.
+
+8. The churning of the ocean does not occur in
+several of the Puranas, and is but cursorily alluded
+to in the Siva, Liga, and Kirma Puranas. The
+Vayu and Padma have much the same narrative as
+that of our text; and so have the Agni and
+Bhagavata, except that they refer only briefly to the
+anger of Durvasas, without narrating the
+
+## Page 71
+
+BOOK 1, CHAP. 9
+
+65
+
+circumstances; indicating their being posterior,
+therefore, to the original tale. The part. however,
+assigned to Durvasas appears to be an
+embellishment added to the original, for no
+mention of him occurs in the Matsya Purana nor
+even in the Hari Varhsa, neither does it occur in
+what may be considered the oldest extant versions
+of the story, those of the Ramayana and
+Mahabharata : both these ascribe the occurrence to
+the desire of the gods and Daityas to become
+immortal. The Matsya assigns a similar motive to
+the gods, instigated by observing that the Daityas
+slain by them in battle were restored to life by
+Sukra with the Sanjivini, or herb of immortality,
+which he bad discovered. The account in the Hari
+Vamsa is brief and obscure, and is explained by the
+commentator as an allegory, in which the chuming
+of the ocean typifics ascetic penance, and the
+ambrosia is final liberation : but this is mere
+mystification. The legend of the Ramayana is
+translated, vol. |. p. 410. of the Serampore edition :
+and that of the Mahabharata by Wilkins, in the
+notes to his translation of the Bhagavata Gita. See
+also the original text. Cat ed. p. 40. It has been
+presented 'to general readers in a more attractive
+form by my friend H. M. Paiker. in his Draught of
+Immortality, printed with other poems, Lond. 1827.
+The Matsya Purana has many of the stanzas of the
+Mahabharata interspersed with others. There is
+some variety in the order and number of articles
+produced from the ocean. As I have observed
+elsewhere (Hindu Theatre, 1. 59. Load. ed.), the
+popular enumeration is fourteen, but the Ramayana
+specifies but nine; the Mahabharata. nine; the
+Bhagavata. ten; the Padma. nine; the Vayu. twelve;
+the Matsya. perhaps, gives the whole number.
+Those in which most agrec, are, I. the Halahala or
+Kalakita poison, swallowed by Siva : 2. Varunt or
+Sura, the goddess of wine, who being taken by the
+gods, and rejected by the Daityas, the former were
+termed Suras, and the latter Asuras: 3. the horse
+Ucchaigravas. taken by Indra : 4. Kaustubha, the
+jewel worn by Visnu : 5. the moon : 6.
+Dhanvantari, with the Amrta in his Kamandalu. or
+vase, and these two articles are in the Vayu consi-
+dered as distinct products : 7. the goddess Padma
+or-Sri : 8. the Apsarasas, or nymphs of heaven : 9.
+Surabhi, or the cow of plenty : 10. the Parijata tree,
+or tree of heaven : 11. Airavata, the elephant taken
+
+by Indra. The Matsya adds, 12. the umbrella taken
+by Varuna : 13. the earrings taken by Indra, and
+given to Aditi : and apparently another horse, the
+white horse of the sun : or the number may be
+completed by counting the Amrta separately from
+Dhanvantari. The number is made up in the popular
+lists by adding the bow and the conch of Visnu; but
+there does not seem to be any good authority for
+this, and the addition is a sectarial one : so is that of
+the Tulasi tree, plant sacred to Krsna, which is one
+of the twelve specified by the Vayu Purina The
+Uttara Khanda of the Padma Purana has a peculiar
+enumeration, or. Poison; Jyestha or Alaksmi, the
+goddess of misfortune, the elder born to fortune :
+the goddess of wine; Nidra, or sloth; the Apsarasas;
+the elephant of Indra; Laksmi; the moon; and the
+Tulasi plant The reference to Mohini, the female
+form assumed by Visnu, is very brief in our text .
+and no notice is taken of the story told in the
+Mahabharata and some of the Puranas, of the
+Daitya Rahu's insinuating himself amongst the
+gods, and obtaining a portion of the Amrta : being
+beheaded for this by Visnu, the head became
+immortal, in consequence of the Amrta having
+reached the throat, and was transferred as a
+constellation to the skies : and as the sun and moon
+detected his presence amongst the gods, Rahu
+pursues them with implacable hatred, and his
+efforts to seize them are the causes of eclipses;
+Rahu typifying the ascending and descending
+nodes. This seems to be the simplest and oldest
+form of the legend. The equal immortality of the
+body, under the name Ketu, and his being the cause
+of meteorical phenomena, seems to have been an
+after-thought. In the Padma and Bhagavata, Rahu
+and Ketu are the sons of Simhika. the wife of the
+Danava Vipracitti.
+
+9. The four Vidyas. or branches of knowledge,
+are said to bc, Yajfiavidya, knowledge or
+performance of religious rites; Mahavidya, great
+knowledge, the worship of the female principle, or
+Tantrika worship; Guhyavidya, knowledge of
+mantras, mystical prayers, and incantation . and
+Atma vidya, knowledge of soul. tue wisdom
+
+10. Or Vartta, explained to mean the Silpa Sastra,
+mechanics, sculpture, and arehitecture : Ayurveda,
+medicine, etc.
+
+ll. The cause of this, however, is left
+unexplained. The Padma P. inserts a legend to
+
+## Page 72
+
+66 THE VISNU-PURANAM
+
+account for the temporary separation of Laksmi
+from Visnu, which appears to be peculiar to that
+work Bhrgu was lord of Laksmipur. a city on the
+Narmada. given him by Brahma. His daughter Laks
+mi instigated her husband to request its being
+conceded to her. which offending Bhrgu. he cursed
+Visnu to be born upon eartt ten times, to be
+separated from his wife, and to have no children.
+The legend is an insipid modern embellishment.
+dedek
+
+## Page 73
+
+66
+
+THE VISNU-PURANAM
+
+CHAPTER 10
+‘epratsearea:
+Cayaatatat yx: eA)
+a3a sara
+waft & rer ad wegpishea were
+ayaa wate ait Y aerat GA gn
+
+Maitreya said— You have narrated to me.
+great Muni, all that I asked of you: now
+
+resume the account of the creation
+subsequently to Bhrgu.
+WIN Sart
+
+3a: wareat ayer cetfaneiee:
+
+wer eget warreat sat at yA UBM
+
+arafafrahala 8: at weer:
+
+eng free aret aatatat garqet 311
+
+wrnla yeaa whose yey: 1
+
+aah Sefere at wrorente yet STU S I
+
+wore Airey Yat Wsaigy AatswaT
+
+att atett werent farearé rea aa 1
+
+Pardsara continued— Laksmi. the bride of
+Visnu, was the daughter of Bhrgu by Khyati.
+They had also two sons. Dhatri and Vidhatti,
+who married the two daughters of the
+illustrious Meru. Ayati and Niryati : and had
+by them each a son, named Prana and
+Mrkanda. The son of the latter was
+Markandeya. from whom Vedasiras was born.'
+The son of Prana was named Dyutimat. and
+his son was Rajavat; after whom, the race of
+Bhrgu became infinitely multiplied.
+
+welt wih: weyfa: theta
+
+fern: wade er Yat water GI
+
+aereSne yar afeese wafEa
+
+Sambhiti, the wife of Marici. gave birth to
+Paurnamasa, whose sons were Virajas and
+Sarvaga. I shall hereafter notice his other
+descendants, when I give a more particular
+
+account of the race of Marici.
+
+Taftenfgra: eit wae: aTEATEAMT Ott
+farterct geste war arate
+aya Wary yaracAATTN ci
+
+ang gatada quite attr
+
+Seat yoreamreatat atferergdiswag ¢
+yaoraa aise: Ba: TTBS
+wenaratais BUT YAATTT Roll
+Baar | Ygs area yore wea: |
+cater waftteat arefiararrgaan gen
+wipalft aeenitr aig trary
+SPBIAMATN TAATRTA TAT C2
+salara afaeea waradt 4 Yar:
+Wirnateatargs TAASTATEMM! 8311
+WaT: Ys gaa wa wAasTeT:|
+Userafetirart geurercatswT: ge
+TENT BATT Yates Hoyerdtera fest
+Waa waars yfaanht sen But
+dary waasl wenfterr ws
+wateruareg ag: uftatfean: 1 21
+wort agate fiat gaara aq
+
+The wife of Afigiras, Smriti, bore daughters
+named Sinivali, Kuhu, Raka. and Anumati
+(phases of the moon ). Anasiya, the wife of
+Atri, was the mother of three sinless sons,
+Soma (the moon), Durvasas, and the ascetic
+Dattatreya’. Pulastya had, by Priti, a son called
+in a former birth, or in the Svayambhuva
+Manvantara, Dattoli, who is now known as the
+sage Agastya’. Ksama, the wife of the.
+pattiarch Pulaha, was the mother of three sons;.
+Karmasa, Arvarivat. and Sahignu®. The wife of
+
+## Page 74
+
+BOOK I, CHAP. 10
+
+67
+
+Kratu, Sannati, brought forth the sixty
+thousand Balakhilyas, pigmy sages, no bigger
+than a joint of the thumb, chaste, pious,
+
+resplendent as the rays of the sun’. Vasistha
+had seven sons by his wife Urjja, Rajas, Gatra,
+Urdhvabahu. Savana, Anagha, Sutapas, and
+4 8
+Sukra. the seven pure sages . The Agni named
+Abhimani. who is the eldest born of Brahma,
+had, by Svaha, three sons or surpassing
+brilliancy, Pavaka, Pavamana, and Suci, who
+drinks up water: they had forty-five sons, who,
+with the original son of Brahma and his three
+descendants, constitute the forty-nine fires’.
+
+fart eOM YET cara F wat Tan gon
+
+aftrena afedatsrra: ara 2
+
+Wa: TIT YA FA Wai SenfToit gern get
+
+ao Teatet Ahr argy fen
+
+FAA Ba: ABPaA POT VV
+
+Sele eeTarATAT Sera AAT: |
+
+TRAM, TAATATATT T STAT 2 ot
+
+pler Feaygert weigh eenitseaa:1
+
+The progenitors (Pitrs), who as I have
+mentioned, were created by Brahma, were the
+Agnisvattas and Barhisads; the former being
+devoid of, and the latter possessed of, fires'”.
+By them. Svadha had two daughters, Mena
+and Dharani, who were both acquainted with
+theological truth, and both addicted to
+religious meditation; both accomplished in
+perfect wisdom, and adorned with all
+estimable qualities''. Thus has been explained
+the progeny of the daughters of Daksa . He
+who with faith recapitulates the account, shall
+
+never want offspring.
+sek
+
+NOTES
+
+1. The commentator interprets the text at Jafert
+WA to refer to Prana: wera deft Ati ‘Vedasiras
+was born the son of Prana.’ So the Bhagavata has
+arvseq wongefent HPA: 1 The Linga, the Vayu. and
+Markandeya. however, confirm our reading of the
+text. making Vedasiras the son of Markandeya.
+Prana, or, as read in the two former, Pandu. was
+married to Pundarika, and had by her Dyutimat,
+
+whose sons were Srijavana and Asruta or
+Asrutavrana. Mrkanda (also read Mrkandu) married
+Maoaswini, and had Markaandeya. whose son, by
+Murddhanya, was Vedasiras : he married Pivari,
+and had many children, who constituted the family,
+or Brahmanical tribe, of Bhargavas, sons of Bhrgu,
+The most celebrated of these was Usanas, the
+preceptor of the Daityas. who, according to the
+Bhagavata, was the son of Vedasiras; but the Vayu
+makes him the son of Bhrgu by Paulomi, and born
+at a different period.
+
+2. Alluding especially to Kasyapa, the son of
+Marichi. of whose posterity a full detail is
+subsequently given. The Bhagavata adds a
+daughter, Devakulya : and the Vayu and Linga,
+four daughters, Tusti, Pusti, Twisa, and Apaciti The
+latter inserts the grandsons of Paurnamasa. Virajas,
+married to Gauri, has Sudhdman, a Lokapila, or
+rular of the east quarter; and Parvasa (quasi
+Sarvaga) has, by Parvasi. Yajiiavama and Kasyata,
+who were both founders of Gotras, or families. The
+names of all these occur in different forms in
+different MSS.
+
+3. The Bhagavata adds, that in the Swarocisa
+Manvantara the sages Uttathya and Vrhaspati were
+also sons of Angiras; and the Vayu, etc, specify
+Agni and Kirttimat as the sons of the patriarch in
+the first Manvantara. Agni, married to Sadwati, has
+Parjanya, married to Marichi; and their son is
+Hirauyaroman, a Lokapala. Kirttimat has, by
+Dhenuka, two sons, Carisnu and Dhrtimat.
+
+4, The Bhagavata gives an account of Atri'a
+penance, by which the three gods. Brahma, Visnu,
+and Siva, were propitiated, and became, in portions
+of themselves, severally his sons, Soma, Datta. and
+Durvasas. The Vayu has a totally different series, or
+five sons. Satyanetra. Havya, Apomurtti, Sani, and
+Soma; and one daughter, Sruti, who became the
+wife of Kardama.
+
+5. The text would seem to imply that he was
+called Agastya in a former Manvantara, but the
+commentator explains it as above. The Bhagavata
+calls the wife of Pulastya. Havirbhi, whose sons
+were the Muni Agastya, called in a former birth
+Dahragni or Jatharagni. and Viaravas. The latter
+bad by Ilavila, the deity of wealth, Kuvera; and by
+Kesini, the Raksusas Ravana, Kumbhakarna. and
+Vibhisana. The Vayu specifies three sons of
+Pulastya, Dattoli, Vedabahu, and Vinita; and one
+daughter, Sadwati, married (see note 3) to Agni.
+
+## Page 75
+
+68
+
+THE VISNU-PURANAM
+
+6. The Bhatgavata reads Karmasrestha. Variyas.
+and Sahisnu. The Vayu and Linga have Kardama
+and Ambarisa in place of the two first, and add
+Vanakapivat and a daughter. Pivari. married to
+Vedasiras (see note I). Kardama married Sruti (note
+4), and had by her Sankhapida, one of the
+Lokapalas, and a daughter. Kamy&, married to
+Priyavrata (note 6. Ch. VII.). Vana-kapivat, also
+read Dhana-k. and Ghana-k., had a son, Sahisnu.
+married to Yasodhara. and they were the parents of
+Kamadeva.
+
+7. The different authorities agree in this place.
+The Vayu adds two daughters, Punya and Sumati,
+married to Yajfiavama (sce note 2).
+
+8. The Bhagavata has an entirely different set of
+names, or Citraketu. Surocis, Virajas, Mitra.
+Ulwana, Vasubhridyana. and Dyumat. It also
+specifics Saktri and others, as the issue of a
+different marriage. The Vayu and Linga have the
+same sons as in our text, reading Putra and Hasta in
+place of Gatra : they add a daughter. Pundarika,
+mattied to Pandu (see note I). The eldest son,
+according to the Vayu. espoused a daughter of
+Markandeya, and had by her the Lokapila of the
+west. Kelumat. The seven sons of Vasistha are
+termed in the text the seven Rsis. appearing in that
+character in the third Manvantara.
+
+9. The eldest son of Brahma, according to the
+commentator, upon the authority of the Vedas:
+
+: ¥a:1 The Vayu Purana
+enters into a very long detail of the names and
+places of the whole forty-nine fires. According to
+that. also. Pavaka is electric or Vaidyuta fire;
+Pavamana is that produced by friction, or
+Nirmathya; and Suci is solar. Saura, fire. Pavamana
+was the parent of Kavya-vahana, the fire of the
+Pitrs; Suci of Havyavahana. the fire of the gods;
+and Pavamana of Sahasraksu. the fire of the Asuras.
+The Bhagavata explains these different fires to be
+so many appellations of fire employed in the
+invocations with which different oblations to fire
+are offered in the ritual of the Vedas : dart @aifir
+camizatateh: | ara ee aa Prearismrag a1
+explained by the commentator, af&& #Fift aa Ai
+amfinitgana gat fea frat wa a afta a
+citer: |
+
+10. According to the commentator, this
+distinction is derived from the Vedas. The first
+class, or Agnisvattas. consists of those house-
+holders who, when alive, did not maintain their
+
+domestic fires, nor offer burnt-sacrifices: the
+second, of those who kept up the household flame,
+and presented oblations with fire. Manu calls these
+Agnidagdhas and the reverse, which Jones renders,
+‘consumable by fire,’ etc. Kullika Bhatta gives no
+explanation of them. The Bhagavata adds other
+classes of Pitrs; or, the Ajyapas, ‘drinkers of ghee;”
+and 'Somapas. ‘drinkers of the acid juice.’ The
+commentator, explaining the meaning of the terms
+Sagnayas and Anagnyas, has,
+
+ara: aefem Ka: | which might be understood
+to signify, that the Pitrs who are ‘without fire, are
+those to whom oblations are not offered; and those
+‘with fire, arc they to whom oblations are presented.
+
+ll. The Vayu carries this genealogy forward.
+Dharani was married to Meru, and had by him
+Mandara and three daughters. Niyati, Ayati, and
+Vela: the two first ».ere married to Dhitri and
+Vidhatri (p, 69). Vela was the wife of Samudra, by
+whom she had Samudri, married to Pracinavarhis,
+and the mother of the ten Pracetasas, the fathers of
+Daksa, as subsequently narrated. Mena was matried
+to Himavat, and was the mother of Maindka, and of
+Gang§. and of Parvati or Uma.
+
+12. No notice is here taken of Sati, married to
+Bhava, as is intimated in Ch. VIII, when describing
+the Rudras. Of these genealogies the fullest and
+apparently the oldest account is given in the Vayu
+Purana : as far as that of our text extends, the two
+nearly agree, allowing for differences of appellation
+originating in inaccurate transcription, the names
+frequently varying in different copies of the same
+work, leaving it doubful which reading should be
+preferred. The Bhagavata. as observed above (Ch.
+VII, n. 12), has created some further perplexity by
+substituting. as the wives of the patriarchs, the
+daughters of Kardama for those of Daksa. Of the
+general statement it may be observed, that although
+in some respects allegorical, as in the names of the
+wives of the Rsis (Ch. VII.); and in others
+astronomical, as in the denominations of the
+daughters of Angiras (Ch. X.). yet it seems
+probable that it is not altogether fabulous, but that
+the persons in some instances had a real existence,
+the genealogies originating in imperfectly
+preserved traditions of the families of the first
+teachers of the Hindu religion, and of the descent of
+individuals who took an active share in its
+propagation.
+
+ek
+
+## Page 76
+
+BOOK I, CHAP. 11
+
+69
+
+CHAPTER 11
+Wenreyseaa:
+(qavaneny)
+WIN Jara
+
+fread wit: area Gl
+
+at gat querctalf eight afarit wan gn
+
+TATA YRATAT: YA:
+
+anttorarnyg, wert faqTerTaerra 1 3H
+
+eifeata a aerated fan
+
+w aafeattfertrereat TREATS Ga: YALA
+
+Tarafereng figuiccntirry
+
+gered gaara aatg wen
+
+weret quieren: Gea ATA
+
+MORATT YAARAAT SUT 4 1
+
+Paraiara continued—I mentioned to you,
+that the Manu Svayam-bhuva had two heroic
+and pious sons, Priyavrata and Uttanapada. Of
+these two, the latter had a son whom he dearly
+loved. Uttama, by his favourite wife Suruci.
+By his queen, named Suniti. to whom he was
+less attached, he also had a son, called
+Dhruva', Observing his brother Uttama on the
+lap of his father, as he was seated upon his
+throne, Dhruva was desirous of ascending to
+the same place; but as Suruci was present, the
+Raja did not gratify the desire of his son,
+respectfully wishing to be taken on his father's
+knee,
+aaa sara
+
+waster ar aagntentyay
+
+fag: yt wened Yefaaterraatqn & 11
+fran fer gat at wera water:
+SRA STAT WATT 9
+satrraasrerafercrants frareara
+
+wet qaeanene fag aa WaT gasucn
+Ug Tae Taya)
+
+ard ata yer feat fered aT a1
+saitremisd wgaeta fer gen
+Bierrerh srr fas aT ATTA Go!
+
+Maitreya said— Beholding the child of her
+rival thus anxious to be placed on his father's
+lap, and her own son already seated there,
+Suruci thus addressed the boy: “Why, child, do
+you vainly indulge in such presumptuous
+hopes? You are born from a different mother,
+and are no son of mine, that you should aspire
+inconsiderately to a station fit for the excellent
+Uttama alone. It is true you are the son of the
+Raja, but I have not given you birth. This regal
+throne, the seat of the king of kings, is suited
+to my son only; why should you aspire to its
+occupation ? Why idly cherish such lofty
+ambition, as if you were my son ? Do you
+forget that you are but the offspring of
+Suniti?”"
+
+WU SareT ;
+segee fiat arerereg cat argent
+orm afte arghrarer fat aPeeN get
+a apr aiud atrorepftarercy
+Bitrate HraaquraT 82H
+are Hi: BURGe Se wai Afieraie
+mscrmtmnfe frre wat aesTTEAAAN g3 1
+
+Paraiara continued— The boy, having heard
+the speech of his step-mother, quitted his
+father, and repaired in a passion to the
+apartment of his own mother’; who, beholding
+him vexed, took him upon her lap, and, gently
+smiling, asked him what was the cause of his
+anger, who had displeased him, and if any one,
+forgetting the respect due to his father, had
+behaved ill to him.
+
+Sep: Veet AT SETA TET
+
+gota: wre yuremmeearat fara gs
+fararetter afer aay yt ga
+soreearteron Sar Batata Bh 1
+
+Dhruva, in reply, repeated to her all that the
+arrogant Suruci had said to him in the presence
+of the king. Deeply distressed by the narrative
+of the boy, the humble Suniti, her eyes
+dimmed with tears, sighed, and said,
+
+## Page 77
+
+70
+
+THE VISNU-PURANAM
+
+wifaearr
+
+yee: weed Tara sfa YAH
+
+fe quactat aoa IAAT Bg I
+
+atarena ator: at aq wae YT
+
+aq aisuey wrertfa ag aarpd MAT got
+
+Tae dares ATT ATA:
+
+Ry Quah Tea wera YAH BCU
+
+arg: Yus: YReat Goreye:
+
+sartta shart aren ufger arerataatit 8811
+
+Qua: YAATA: |
+
+TH ARAM GI: ACATTTAY Gal HAT oI
+
+wanfa g:@ a weary area Ya
+
+we aad a ata er Gate BFA aM
+
+af at gana Yeean aaa Aa
+
+Ae goaray aot FE TAHT VU
+
+Britet wer ante ta: wafers eA:
+
+Fret aora: veo: WTAE WETT VBA
+
+Suniti said— “Suruci has rightly spoken;
+thine, child, is an unhappy fate: those who are
+born to fortune are not liable to the insults of
+their rivals. Yet be not afflicted, my child, for
+who shall effact what you have formerly done,
+or shall assign to you what you have left
+undone? The regal throne, the umbrella of
+royalty, horses and elephants, are his whose
+virtues have deserved them: remember this.
+my son, and be consoled. That the king
+favours Suruci is the reward of her merits in a
+former existence. The name of wife alone
+belongs to such as I. who have not equal merit.
+Her son is the progeny of accumulated piety,
+and is born as Uttama: mine has been born as
+Dhruva, of inferior moral worth. Therefore,
+my son. it is not proper for you to grieve; a
+wise man will be contented with that degree
+which appertains to him: but if you continue to
+feel hurt at the words of Suruci. endeavour to
+augment due religious merit which bestows all
+good; be amiable, be pious, be friendly. be
+assiduous in benevolence to all living
+creatures; for prosperity descends upon
+
+modest worth as water Rows towards low
+ground.”
+ga sara
+ana aq wafirg wre wees eet
+ang gaeren fire gaa wa frail een
+‘aisé ven aftenta wer aah
+Tart MIRA paTOT STATA AAAI RG I
+gefadtaan aera anitsfer Ae
+wared Uye Rswr et Gai PaaTN Va
+Sar: HA we at wT gRTAT
+
+a carerarcig fier at ware ATU I
+
+arene ware watom
+
+sear weg wa aa wT fat AAU ICI
+
+Dhruva answered: “Mother, the words that
+you have addressed to me for my consolation
+find no place in a heart tnat contumely has
+broken. I will exert myself to obtain such
+elevated rank, that it shall be revered by the
+whole world. Though I be not born of Suruci,
+the beloved of the king, you shall behold my
+glory, who am your son. Let Uttama my
+brother, her child, possess the throne given to
+him by my father; I wish for no other honours
+than such as my own actions shall acquire,
+such as even my father has not enjoyed.”
+
+WHR sara
+
+Fehon qerngiagaen ant ga:
+
+Wee Freaey aera arated aaNet
+
+a taut Wieaa Ge yarrary ga:
+
+ponferinntay fast wari erar 3 ot
+
+a Tere waly wore
+
+WATT: TATA AATTH AN 8 RU
+
+Paraiara continued~ Having thus spoken,
+
+Dhruva went forth from his mother's dwelling:
+he quitted the city, and entered an adjoining
+thicket, where he beheld seven Munis sitting
+upon hides of the black antelope, which they
+had taken from off their persons, and spread
+over the holy kuga grass. Saluting them
+
+## Page 78
+
+BOOK I, CHAP. 11
+
+7
+
+reverentially, and bowing humbly before
+them, the prince said,
+qa sara
+
+Saree ai Frater aA:
+
+wt Bates Faery gears wera 3 20
+
+Dhruva said~ "Behold in me, venerable
+men, the son of Uttanapada, born of Suniti.
+Dissatisfied with the world, I appear before
+you”.
+maa Sy:
+
+UTAH were TM
+
+Frefcenreut feafaag a arent farang 30
+
+a fad war: fase free aft: farm
+
+a dapfaannig wa upenfit areran asi
+
+wet 3 8 enfrenfirereeat
+
+fide: fer Faint 3 aeaat afe farang qu
+
+The Rsis replied: “The son of a king, and
+but four or five years of age, there can be no
+reason, child, why you should be dissatisfied
+with life; you cannot be in want of any thing
+whilst the king your father reigns; we cannot
+imagine that you suffer the pain of separation
+from the object of your affections; nor do we
+observe in your person any sign of disease.
+What is the cause of your discontent? Tell us,
+if it is known to yourself.”
+WH Tart
+
+a: SMA YR UAT!
+aera oa: WYATT WATTS gM
+oat at ot Sst arerenfr Beer
+RUST Mg Eas KAaTATTTTFAN B19
+st st afracrare frdere a erga
+and coated aa: aeaat ate Te gcn
+wa ert qarenti: areranfiagy
+ageaat Ferra ererenfiraUeTT 3 <1
+
+ParaSara said:— Dhruva then repeated to the
+Rsis what Suruci had spoken to him; and when
+they had heard his story, they said to one
+another, “How surprising is the vehemence of
+the Ksatriya nature, that resentment is
+
+cheruhed even by a child, and he cannot efface
+from his. mind the harsh speeches of a step-
+mother. Son of a Ksatriya, tell us, if it be.
+agreeable to you, what you have proposed,
+through dissatisfaction with the world, to
+accomplish. If you wish our aid in what you
+have to do, declare it freely, for we perceive
+that you are desirous to speak.”
+
+qa sara
+
+arenetneiteantiy + te fesreaear:
+
+rRUtairanta yh AR Aq FAN vot
+
+UR feat wee AAT wey Be
+
+RS Me: WTA BP ATAT NY
+
+Dhruva said—- “Excellent sages, I wish not
+for riches, neither do I want dominion : I
+aspire to such a station as no one before me
+has attained. Tell me what 1 must do to effect
+this object, how I may reach an elevation
+superior to all other dignities.” The Rsis sever-
+ally thus replied—
+wifereara
+
+STURN: WT TUT
+
+a fe ware Sg TereTaregAqN sz
+
+Marici said: “The best of stations is not
+within the reach of men who fail to propitiate
+
+Govinda. Do you, prince, worship the
+undecaying (Acyuta).”
+afreart
+
+We WOT Yea BET BRT SATA: |
+
+Fe RECO CR CUCCLORELL
+
+Atri said:- “He with whom the first of
+spirits, Janarddana, is pleased, obtains
+imperishable dignity. I declare unto you the
+truth.”
+aig sara
+
+Wet: WANA: |
+
+mores Tiers wrt aeheaa se
+
+Angiras said:— "If you desire an exalted
+station, worship that Govinda in whom,
+immutable and undecaying, all that is. exists.”
+
+## Page 79
+
+72
+
+THE VISNU-PURANAM
+
+Jered saret
+We wel Ui are aiset ger FAT ITA
+
+mareret eft anf afemreatagearT % 4 It
+
+Pulastya said: “He who adores the divine
+Hari. the supreme soul, supreme glory, who is
+the supreme Brahmi, obtains what is difficult
+of attainment, eternal liberation.” “When that
+Janarddana,”
+
+ayeary
+at aggedt aa ary a: wer: Yar
+aferege aaured far aafea set x I
+
+Kratu observed~ “who in sacrifices is the
+soul of sacrifice, and who in abstract
+contemplation is supreme spirit, is pleased,
+there is nothing man may not acquire.”
+
+Jere Sarat
+tears: ut wart wares sereafir
+wry aeafe faway ATTA Yaa viol
+
+Pulaha said:— “Indra, having worshipped
+the lord of the world, obtained the dignity of
+
+king of the celestials. Do you adore, pious
+youth, that Visnu, the lord of sacrifice.”
+
+afag sart
+wretaTae faut wat aq wfeesta
+
+Feleaentt wart fag aetratrert wo tt
+Vasistha exclaimed “Anything, child, that
+
+the mind covets. may be obtained by
+propitiating Visnu, even though it be the
+station that is the most excellent in the three
+worlds.”
+ga vara
+
+aren: afaet Fat waka: goerer th
+
+war ae Ufa sare AGATA Y eI
+
+Sear arent eT we ware WETATA:|
+
+WACATS sey ATT 4 ol
+
+TRA wer faroereatt:
+
+wTEGE TY AMT TEA AI 4 CH
+
+mrenatafaenfant wars werd At:1
+
+afta Srragifea aa: qe Faery 2
+waters TA TATA
+
+ree aparece, wet AT: Unf 4 BIL
+feoaniqemarrenrmetaan
+
+SH AA ATRRATT YRS 4 wt
+WAMATT Ta Het TaTTAYAaT AY:
+PaaS YT TET FEY SATEAU GG H
+adh aenfiretirany aafig Setreagetrey
+vem anf tiferd aredag, Wet ATTN G GU
+‘ster stage weraigt wareyiseara:|
+
+Dhruva replied to them: “You have told
+me, humbly bending before you, what deity is
+to be propitiated: now inform me what prayer
+is to be medicated by me, that will offer him
+gratification. May the great Rsis. looking upon
+me with favour, instruct me how I am to
+propitiate the god.” The Rsis answered:
+“Prince, you deserve to hear how the adoration
+of Visnu has been performed by those who
+have been devoted to his service. The mind
+must first be made to forsake all external
+immpressions, and a man must then fix it
+steadily on that being in whom the world is.
+By him whose thoughts are thus concentrated
+on one only object, and wholly filled by it,
+whose spirit is firmly under concrol; the
+prayer that we shall repeat to you is to be
+inaudibly recited: ‘Om! glory to Vasudeva,
+whose essence is divine wisdom; whose form
+is inscrutable, or is manifest as Brahma, Vis
+
+nu, and Siva? This prayer, which was formerly
+uttered by your grandsire, the Manu
+Svayambhuva, and propitiated by which, Vis
+nu conferred upon him the prosperity be
+desired, and which was unequalled in the three
+worlds, is to be recited by you. Do you
+constantly repeat this prayer, for the
+gratification of Govinda.”
+tek
+NOTES
+1. The Matsya, Brahma. and Vayu Puranas speak
+of but one wife of Uttanapada. and call her Sunnita
+: they say also that she had four sons. Apaspati (or
+
+## Page 80
+
+BOOK I, CHAP. 12
+
+Vasu). Ayushmanta. Kirttimat, and Dhruva. The
+Bhatgaveta, Padma, and Naradiya have the same
+account as that of the text.
+
+2. The instructions of the Rsis amount to the
+performance of the Yoga. External impressions are
+first to be obviated by particular positions, modes
+of breathing, etc, : the mind must them be fixed on
+the object of meditation; this is Dharana: next
+comes the meditation, or Dhyana; and then the
+Japa. or inaudible repetition of a Mantra, or short
+prayer : as in the text. The subject of the Yoga is
+more fully detailed in a subsequent book.
+
+KEKE
+
+73
+
+## Page 81
+
+BOOK I, CHAP. 12
+
+CHAPTER-12
+
+‘Blevitseara:
+
+(qeaet aeM:)
+
+WER Sart
+
+Fagen aaghior dia zat: Was)
+‘Fata arg Tee wforoer a ATTEN gH
+papratrareant wararrenat fest
+Tepeat Fergus TAT TAATANSAN VI
+We agar aerated aa:
+aat ngat are Garaas Weta Bu
+wear a craUt wat HEYA TETAS
+vgen wet are yet ae dart Set
+aad tata unfe efttera:
+adaragt afary arte wear Ak
+woferpenihtietitfeeryg, aa
+arrerarsraeerst Fart feraperersra & 0
+STATA TAT WTA BEE:
+waaay fam welorerrats wad i911
+
+The prince, having received these
+instructions, respectfully saluted the sages, and
+departed from the forest, fully confiding in the
+accomplishment of his purposes. He repaired
+to the holy place, on the banks of the Yamuné,
+called Madhu or Madhuvana. the grove of
+Madhu, after the demon of that name, who
+formerly abided there, Satrughna (the younger
+
+73
+
+brother of Rama) having stain the Raksas
+Lavana, the son of Madhu, founded a city on
+the spot, which was named Mathura. At this
+holy shrine, the purifier from all sin, which
+enjoyed the presence of the sanctifying god of
+gods, Dhruva performed penance, as enjoined
+by Marici and the sages: he contemplated Vis
+nu, the sovereign of all the gods, seated in
+himself. Whilst his mind was wholly absorbed
+in meditation, the mighty Hari. identical with
+all beings and with all natures, (took
+possession of his heart).
+
+Treated we feo Bey athe
+
+Fyre ae areal yeni ¢ 11
+
+armurafeae afer sarees Beit
+
+faites sare fatter et
+
+rerger wnitea wate agai fea:
+
+wer at ager fax aeret HE Tat: gol!
+
+Fed Aer: TART WaT Te ay:
+
+aairent: alti ot areqderg geil
+
+Visnu being thus present in his mind, the
+earth, the supporter of elemental life, could not
+sustain the weight of the ascetic. As he stood
+upon his left foot, one hemisphere bent
+beneath him; and when he stood upon his
+right, the other half of the earth sank down.
+When be touched the earth with his toes, it
+shook with all its mountains, and the rivers
+and the seas were troubled, and the gods
+partook of the universal agitation.
+
+ana are wat Sar Aa weg:
+
+SAU Ue Va OTE Wa! TI
+geaver fated wd: Teer we
+BT ATTATTOAT:, AATF: 11 3M
+Bitiate sare wnat aegea: fer
+Yate weut aerate Ararat TAN AI
+Wrarentrarta prerrerrersord|
+Frdestt war eral gird waa GH
+Sartat feat + eae far
+manana ace arr afer 26 11
+
+## Page 82
+
+14
+
+The celestials called Yamas, being
+excessively alarmed, then took counsel with
+Indra how they should interrupt the devout
+exercises of Dhruva; and the divine beings
+termed Kusm4ndas. in company with their
+king, commenced anxious efforts to distract
+his meditations. One, assuming the semblance
+of his mother Suniti, stood weeping before
+him, and calling in tender accents, “My son,
+my son, desist from destroying they strength
+by this fearful penance. I have gained you, my
+son, after much anxioux hope: you can not
+have the cruelty to quit me, helpless, alone,
+and unprotected, on account of the unkindness
+of my rival. You are my only refuge; I have no
+hope but you.
+
+waa wy Ugatia: aa dag erat aT:
+Rraciat wa: aerprend weraferarg Yo
+ale: BSE F AERISTTTA U1
+
+WA: TMT AEA THAT TT et
+SARSATGM Teta ACTA FA
+afecrererfered crater fas ATgreTeraT TH 11 8311
+Waite: wet aif aaiserenfrarerry
+agentes Ut We Praraferaeta:n 3 ol
+afterift eter Wear AAT: |
+RATATAT MUTA ST UYATETAT 2 RI
+
+What have you, a child but five years old,
+to do with rigorous penance? Desist from
+such fearful practices, that yield no beneficial
+fruit. First comes the season of youthful
+pastime; and when that is over, it is the time
+for study: then succeeds the period of worldly
+enjoyment: and lastly, that of austere devotion.
+This is your season of pastime, my child. Have
+you engaged in these practices to put an end to
+your existence? Your chief duty is love for
+me: duties are according to time of life. Lose
+not thyself in bewildering error: desist from
+such unrighteous actions. If not, if you will not
+desist from these austerities, I will terminate
+my life before you.”
+
+Wat sara
+
+THE VISNU-PURANAM
+
+wnfearrn fawt werate F wArN VM
+wer ace Barat wears aT
+i ahh Wh nea
+
+Fat Aeraatatey TAGE A YT
+
+wayaiaerentin erred Prema: B41
+
+frraws way Ag: waretHaeya: |
+
+Sara eT reread APART BET: AEH
+
+But Dhruva, being wholly intent on seeing
+Visnu, beheld not his mother weeping in his
+presence, and calling upon him; and the
+illusion, crying out, “Fly, fly, my child, the
+hideous spirits of ill are crowding into this
+dreadful forest with uplifted weapons,”
+quickly disappeared. Then advanced frightful
+Raksasas, wielding terrible arms, and with
+countenances emitting fiery flame; and
+nocturnal fiends thronged around the prince,
+uttering fearful noises, and whirling and
+tossing their threatening weapons. Hundreds
+of jackals, from whose mouths gushed flame1
+as they devoured their prey, were bowling
+alcud, to appal the boy, wholly engrossed by
+meditation.
+
+wat waa feat ferry
+
+meat ETAT a FET: 1 ol
+
+adt arifaery ery PaereAeR AAT: |
+
+AAT TGA AGe GHHAT: | REI
+
+wife af 8 wer: frararageah a
+
+Tifererernferren agate ATA 3a
+
+Waraat: Bard Fernand
+
+quar viretrreargat AA SSA 3 oN
+
+The goblins called out, "Kill him, kill him;
+cut him to pieces; eat him, eat him;” and
+monsters, with the faces of lions and camels
+and crocodiles, roared and yelled with horrible
+cries, to territy the prince. But all these
+uncouth spectres, appalling cries, and
+threatening weapons, made no impression
+upon his 'senses, whose mind was completely
+
+## Page 83
+
+BOOK I, CHAP. 12
+
+15
+
+intent on Govinda. The son of the monarch of
+the earth, engrossed by one only idea, beheld
+uninterruptedly Visnu seated in his soul, and
+saw no other object.
+
+aa: Waly ararg facierg WA: gu:
+
+Said wey ayer RAT: 113 a
+
+a ater sorenttreenehert fe
+
+rea MCU AAT AT APTA 11 BV
+
+All their delusive stratagems being thus
+foiled, the gods were more perplexed than
+ever. Alarmed at their discomfiture, and
+afflicted by the devotions of the boy, they
+assembled and repaired for succour to Hari the
+origin of the world, who is, without beginning
+or end; and thus addressed him:
+zat ay:
+
+a 8a orare Te ea
+
+Gee ATT TATRA as PT TAT 331
+
+fet fet erat: MME yet we
+
+ward aren a wareghagnePrergn 3 xi
+
+strarrafiarer cafiet sere
+
+stareat prot ararenreret Prana 3 411
+
+a fara: fas a pened fea gedaan
+
+faaaaratami aftrera: ve 3 FNS eH
+
+TRA WAIT TEATTRIFRL
+
+saTEaTa TTA: UTA 3911
+
+Celestials said:~ “God of gods, sovereign
+of the world, god supreme. and infinite spirit,
+distressed by the austerities of Dhruva, we
+have come to you for protection. As the moon
+increases in his orb day by day, so this youth
+advances incessantly towards superhuman
+power by his devotions. Terrified by the
+ascetic practices of the son of Uttaénapada, we
+have come to you for succour. Do you allay
+the fervour of his meditations. We know not to
+what station he aspires: to the throne of Indra,
+the regency of the solar or lunar sphere, or to
+the sovereignty of riches or of the deep. Have
+compassion on us, lord; remove this affliction
+from our breasts; diverse the son of
+Uttanapdda from persevering in his penance.”
+
+wrayer
+
+dae a a Yale Aangquetear
+
+weae at ant t athafaet ag cu
+
+are Sar werent Tare ferns: |
+
+Frartarad atet ATTA AAI 3 811
+
+Visnu replied to the gods.: “The lad
+desireth neither the rank of Indra, nor the solar
+orb, nor the sovereignty of wealth or of the
+Ocean: all that be solicits, I will grant. Return
+therefore, deities, to your mansions as ye list,
+and be no more alarmed: I will put an end to
+the penance of the boy, whose mind is
+immersed in deep contemplation.”
+
+WO Sara
+
+pagar dagea wore faye:
+
+wag: waft front preeeggerrar: ¥ ot
+
+marta water areas aif:
+
+wear gerard agerageres it x gn
+
+The gods, beings thus pacificd by the
+supreme, saluted him respectfully and retired,
+and, preceded by Indra, returned to their
+habitations: but Hari. who is all things,
+assuming a shape with four arms proceeded to
+Dhruva, being pleased with his identity of
+nature, and thus addressed him:
+
+BATTS og F aerate:
+
+ATAISEAGMA St AT YaTU¥
+
+arerdfrtat 3 ute fat werent
+
+Yelss wards aq guitar at TTT ¥ BN
+
+Visnu said- “Son of Uttanapada, be
+prosperous. Contented with your. devotions, I,
+the giver of boons, am present. Demand what
+boon you desire. In that you have wholly
+disregarded external objects, and fixed your
+thoughts on me, I am well pleased with you.
+Ask, therefore, a suitable reward.”
+
+WIE ara
+ea ag Wled Tee SARA ATT: |
+
+## Page 84
+
+76
+
+Siena age array aft Fuss
+
+A EMMIS MEER LL |
+
+fetes waretet se fercet we 4 I
+
+tfsag: ager wears To TA:
+
+Wag Fagael BH WAT gasivg il
+
+fe safe quia aia Heft:
+
+epee wa yur save
+
+The boy, hearing these words of the god of
+gods, opened his eyes, and beholding that Hari
+whom he had before seen in his meditations
+actually in his presence, bearing in his hands
+the shell, the discus, the mace, the bow, and
+scimetar, and crowned with a diadem, he
+bowed his head down to earth; the hair stood
+erect on his brow, and his heart was depressed
+with awe. He reflected how best he should
+offer thanks to the god of gods; what he could
+say in his adoration; what words were capable
+of expressing his praise: and being
+overwhelmed with perplexity, he had recourse
+for consolation to the deity.
+ga sara
+
+sore afe 8 ate are we Ta
+
+wig aceftentt arid were Anse
+
+wemdcecedatad area tafe
+
+a mai aang Ga wig enti Teen
+
+waferant Bag waa Baa
+
+wig wad edt oa Wai wee ANG on
+
+Dhruva exclaimed—“If the lord is contented
+
+with my devotions, let this be my reward, that
+I may know how to praise him as I wish. How
+can I, a child, pronounce his praises, whose
+abode is unknown to Brahma and to others
+learned in the Vedas? My heart is overflowing
+with devotion to you: oh lord, grant me the
+
+faculty worthily to lay mine adorations act
+your feet.”
+
+Tae FATT
+Pigara thfereet were aarstery
+saree fired sera: 4 en
+
+THE VISNU-PURANAM
+
+HY TAAATART RIOT AU AST: |
+
+wea worat YT TAMARA AN & B11
+
+Whilst lowly bowing, with his hands
+uplifted to his forehead, Govinda, the lord of
+the world, touched the son of Uttanapada with
+the tip of his conch-shell, and immediately the
+royal youth, with a countenance sparkling with
+delight, praised respectfully the impcrishable
+protector of living beings.
+qa sara
+
+aftrnistet arg: @ wt gfgta al
+
+senfeaterpiacter we ats het ATG BU
+
+Ya: Weishaceah wera Wet: FAL
+
+hn wee are oars TOMAR Gi
+
+SETS ARTA WTS PPT: |
+
+ASAT VATA YR TA: TENG GH
+
+ot TET: TT
+
+weet PITOt Ys TAT UAT G GI
+
+qerarg qeurara ag Tere
+
+weet aaa alery afrferenfaarTaqN 4 911
+
+Dhruva exclaimed-— “I venerate him, whose
+forms are earth, water, fire, air, ether, mind,
+intellect, the first element (Ahankara),
+primeval nature, and the pure, subtile, all-
+pervading soul, that surpasses nature.
+Salutation to that spirit that is void of
+qualities; that is supreme over all the elements
+and all the objects of sense, over intellect, over
+nature and spirit. I have taken refuge with that
+pure form of thine, oh supreme, which is one
+with Brahma, which is spirit, which transcends
+all the world. Salutation to that form which,
+pervading and supporting all, is designated
+Brahman, unchangeable, and contemplated by
+religious sages.
+
+eayiat Yer Wea: WEA!
+
+adeard Fa: Cayley Be ty GN ct
+
+aati aa 4 wet yearn aq War
+
+wat fare ate, Ware, TTT ET: | GS
+
+araftard tisag frig thes S qa:
+
+## Page 85
+
+BOOK I, CHAP. 12 7
+wart faafag ord cant qerafererttig ott Aare reayay ater: AGP AT: 1G 91
+agunftugrantt wfre aq faeces oem anfe waa: get AAT aA
+val aa: Wega: Vaart TYEE g gt men fe weet area reaQuare aT SPAT G CI
+You are the male with a thousand heads, a Wat fared Aad ARUaT Eyal
+
+thousand eyes, a thousand feet, who traversest
+the universe, and passest ten inches beyond its
+contact.’ Whatever has been, or is to be, that,
+Purusottama, you are. From you sprang Virat.
+Swarat, Samrat, and Adhipurusa . The lower,
+and uppcr, and middle parts of the earth are
+not independent of you: from you is all this
+universc, all that has been, and that shall be:
+and all this world is in you, assuming dus
+universal form . From you is sacrifice derived,
+and all oblations, and curds, and ghee, and
+animals of either class (domestic or wild).
+
+wah aise aM Poe BAR
+
+eae SRT Hts aaa G Tt
+
+TARA: UPR RAISA Stara TAT: |
+
+TRU TROT TAT: ATAATAATI & 311
+
+ayaretares: Yarera Vera aR: |
+
+sau: Gals Fret: sirarergu WTRTAI G XI
+
+wratt & yficanat warefererea
+
+aufiret wert eter farce: aera g «II
+
+fem: stad fafa: wat wae: weyfear
+
+From you the Rg-Veda. the Sama. the
+metres of the Vedas, and the Yajur-Veda are
+born. Horses. and cows having teeth in one
+jaw only*, proceed form you; and from you
+come goats, sheep, deer. Brabmans sprang
+from your mouth; warriors from your arms;
+Vaisyas from your thighs; and Sidras from
+your fect. From thine eyes come the sun; from
+thine ears, the wind; and from your mind, the
+moon: the vital airs from your central vein;
+and fire from your mouth: the sky from your
+navel; and heaven from your head: the regions
+from thine ears; the earth from your feet. All
+this world was derived from you.
+
+sate: Greet sar ast crater g Gu
+
+dat faanfaci diet aa af
+
+Stet afer area wrt waa &
+Beatrand fier cafe At qurafaa
+aA YATAT FAA: ol
+MMAR Ye ATP |
+
+SRM RAaATe, AME TANS TAT Vi
+fareisaach: pera wary
+
+watery wayredt wd: AdAUTRI 2
+ad area of au: walerisy” 7
+wateratsfa weet weyafeaat asi 311
+
+As the wide-spreading Nyagrodha (Indian
+fig) tree is compressed in a small seed®, so, at
+the time of dissolution, the whole universe is
+comprehended in you as its germ. As the
+Nyagrodha germinates from the sced and
+becomes first a shoot, and then rises into
+loftiness, so the created world proceeds from
+you, and expands into magnitude. As the bark
+and leaves of the Plantain tree are to be seen in
+its stem, so you are the seem of the universe,
+and all things are visible in you. The faculties
+of the intellect, that are the cause of pleasure
+and of pain, abide in you as one with all
+existence; but the sources of pleasure and of
+pain, singly or blended, do not exist in you
+who are exempt from all qualities’. Salutation
+to you, the subtile rudiment, which, being
+singlc, becomes manifold. Salutation to you.
+soul of existent things, identical with the great
+elements. You, imperishable, are beheld in
+spiritual knowledge as perceptible objects, as
+nature, as spirit, as the world, as Brahma, as
+Manu, by internal contemplation. But you are
+in all, the element of all; you are all, assuming
+every form; all is from you. and you are from
+thyself. I salute you, universal soul: glory be to
+you. You are one with all things: oh lord of all,
+you are present in all things.
+
+## Page 86
+
+78
+
+aorta aa: fa ae afte ee fear
+
+watery wey waar RA 0X11
+
+Teh wary Sf way
+
+WF waa ae Wat: TAA FT!
+
+aes ae wet Ae eBIshs TTA YI
+
+What can I say to you? you know all that
+is in the heart, oh soul of all, sovereign lord of
+all creatures, origin of all things. You, who are
+all beings, knowcst the desires of all creatures.
+The desire that I cherished has been gratified,
+
+lord, by you: my devotions have been crowned
+with success, in that I have seen you.”
+
+sierraryara
+
+mae wei wd Ae EBIss AT gal
+
+west fe farmet Taya: F ATA I
+
+at aw Tend St seni ATA:
+
+ad wae Yai wis gerd Taw
+
+Visnu said to Dhruva: “The object of your
+
+devotions has in truth been attained, in that
+you have seen me; for the sight of me, young
+prince, is never unproductive. Ask therefore of
+me what boon you desire; for men in whose
+sight I appear obtain all their wishes.”
+qa sara
+
+ame Baya ade vary ee
+
+feorgnt Ta Tanti eT BATAAN 8c 11
+
+vente pa fae safes ara
+
+rede gfariet weerTAgATTN 9 gil
+
+fe at waders: wea waft gery
+
+wmaarenet YS Acted waa ¢ ott
+
+Fae Tees aera wae
+
+ofa watearerat aaah agers: ic a
+
+AY Ba: ReahegMAATT
+
+went wat wart wasreTeTeASeTTTN ¢ 2H
+
+To this, Dhruva answered : “Lord god of
+all creatures, who abidest in the hearts of 2!1,
+how should the wish that | chrish be unknown
+to you ? I well confess unto you the hope that
+my presumptuous heart has entertained; a hope
+
+THE VISNU-PURANAM
+
+that it would be difficult to gratify, but that
+nothing is difficult when you, creator of the
+world, are pleased. Through your favour, Indra
+reigns over the three worlds. The sister-queen
+of my mother has said to me, loudly and
+arrogantly, ‘The royal throne is not for one
+who is not born of me;’ and I now solicit of the
+support of the universe an exalted station,
+superior to all others, and one that shall endure
+for ever.”
+
+stterrargart
+
+UL aT watered wa Hr St TAT
+
+waaré atta: Gara ares 2 311
+
+raurdtatent: yt wererrafa: wan
+
+arenes Yara Prreratgarereh 2%
+
+wer Tea ft TyTN
+
+aerisfacnitedt aphttaterrcnrett: 1 ¢ 4 11
+
+TRY Tes aTBfegracireageTT
+
+wae Tayaisefat ater at Fat c Gl
+
+aat aenfirerfaca stat & TTTAATI
+
+TAA WE TTiisfa ga seta cou
+
+arnt We at UA Sel SITET AI
+
+wereat are Aa uftaifare ci
+
+TIARA yftarrarciteataettearara|
+
+wafer are fang canted TaANC eH
+
+Visnu said to him: “The station that you
+aske you shall obtain; for I was satisfied with
+you of old in a prior existence. You wast
+formerly a Brahman, whose thoughts were
+ever devoted to me, ever dutiful to your
+parents, and observant of your duties. In
+course of time a prince became your friend,
+who was in the period of youth, indulged in all
+sensual pleasures, and was of handsome
+appearance and elegant form. Beholding, in
+consequence of associating with him, his
+affluence, you formed the desire that you
+might be subsequendy born as the son of a
+king; and, according to your wish, you
+obtained a princely birth in the illustrious
+mansion of Utténapada. But that which would
+have been thought a great boon by others, birth
+in the race of Svayambhuva, you have not so
+
+## Page 87
+
+BOOK I, CHAP. 12
+
+719
+
+considered, and therefore have propitiated me.
+The man who worships me obtains speedy
+liberation from life. What is heaven to one
+whose mind is fixed on me ?
+
+Seirearefies wart aa: |
+
+aferatt 7 Weel WaTAEIE AAP Gall @ ott
+
+yaa, aren wer sheng Saya TEMA!
+
+frarcderrarctat weestort ter garg ¢ gt
+
+aattorestarnt & gy dente: ya:
+
+waerguht wart wa at WaT gang VU
+
+ara weg afaret yA:
+
+faaha wat cat war at Herefeafan <3
+
+wilfaete & ren aerenfatratem
+
+fart arcet year ara aeiet Praceafern est
+
+Qa wl aa: Wa: Tes Tare:
+
+shite Fors weg god afeeafin ean
+
+A station shall be assigned to you. 'Dhruva,
+above the three worlds*; one in which you
+shall sustain the stars and the planets; a station
+above those of the sun, the moon. Mars, the
+son of Soma (Mercury), Venus. the son of
+Strya (Saturn), and all the other
+constellations; above the regions of the seven
+Rsis, and the divinities who traverse the
+atmosphcre”. Some celestial beings endure for
+four ages; some for the reign of a Manu: to
+you shall he granted the duration of a Kalpa.
+Your mother Sumati, in the orb of a bright
+star, shall abide near you for a similar term;
+and all those who, with minds attentive, shall
+glorify you at dawn or at eventide, shall
+acquire exceeding religious merit.
+WII Sara
+
+ual yd sora 2atarsarearT
+
+at wTer gat: RARER HARTA GH
+
+vente args wien Frier a
+
+Rargquorararel: yetearatert ait wit
+
+Bese ATA delagises Wa: KT
+
+att Wa: Heat ged wade: feratne cu
+
+gam wrt at yin a
+
+orang Ufeart &: wreat auifag yfan eeu
+
+Feleaeraat ort ot art ferrafen
+
+a we a Heat at Hlafaat gag oot
+adaq ahiafaed geeaitent fefen
+
+a wdaafaafen cates wat 0 eH
+marnist 1 arena fefer at afe at gyfer
+
+adacarurtget alerts Hafan go
+pha sttaeygey meaty aregiisera:
+
+Thus the sage Dhruva, having received a
+boon from Janarddana, the lord of gods, and
+lord of the world, resides in an exalted station.
+Beholding his glory, Usanas, the preceptor of
+the gods and demons, repeated these verses:
+“Wonderful is the efficacy of this penance,
+marvellous is its reward, that the seven Rsis
+should” be preceded by Dhruva. This too is the
+pious Suniti, his parent, who is called
+Sonrta'’." Who can celebrate her greatness,
+who. having given birth to Dhruva, has
+become the asylum of the three worlds,
+enjoying to all future time an elevated station,
+a station eminent above all? He who shall
+worthily describe the ascent into the sky of
+Dhruva, for ever shall be freed from all sin,
+and enjoy the heaven of Indra. Whatever be
+his dignity, whether upon earth or in heaven he
+shall never fall from it, but shall long enjoy
+life. possessed of every blessing".
+
+NOTES
+
+1, A marginal note by a Bengali Pandit asserts it
+to be a fact, then when a jackal carries a piece of
+meat in his mouth, it shows in the dark as if it was
+on fire.
+
+2. The commentator understands this passage to
+imply merely that the supreme pervades both
+substance and space, being infinitely vast, and
+without limit. "Having a thousand heads’ etc.
+denotes only infinite extension ; and the 'ten inches
+beyond the contact of the universe’ expresses
+merely non-restriction by its boundaries.
+
+rea atsand: aac wens eyEearT
+weftsers Freaitstrary fer ef
+
+3. Explained severally the Brahmanda, or
+material universe; Brahma. the creator : Manu. the
+tuler of the period; and supreme or presiding spirit
+
+## Page 88
+
+80
+
+THE VISNU-PURANAM
+
+4. So the inscription upon the temple of Sais :
+Eyo ap mav to yeyov&, Kal KOI OV, KOI
+eoopevov. So the Orphic verse, thed by Eusebius,
+beginning Ev de Sena0& Baoideov w wo tad_e
+mMavta KvAEITaL, K, t. A. One regal body in which
+all things are comprehended (viz, Virat). fire. and
+water, and earth, and air, and night, and day. and
+Intelligence (viz. Mahat) the first generator, and
+divine love; for all these does Jupiter include in his
+expansive form.' It proceeds also, precisely in the
+Pauranic strain, to describe the members of this
+universal form : the heaven in his head, the stars his
+hair, the sun and moon his eyes, etc.
+
+5. A piece of natural history quite correct as
+applied to the front teeth which in the genus ox
+occur in the lower jaw only.
+
+6. This is also conformable to the doctrine, that
+the rudiments of plants exist in their cotyledons.
+
+7. In life. or living beings, perception depends
+not. according to Hindu metaphysics, upon the
+external senses, but the impressions made upon
+them are communicated to the mental organ or
+sense, and by the mind to the
+understanding—Samvid (#f4% ) in the text—by
+which they are distinguished as pleasurable,
+painful, or mixed. But pleasure depends upon the
+quality of goodness, pain on that of darkness, and
+their mixture on that of foulness, inherent in the
+understanding. properties. belonging to Jiveswara.
+or god. as one with life, or to embodied spirit. but
+not as Parameswara. or supreme spirit.
+
+8. The station or sphere is that of the north pole.
+or of the polar star. In the former case, the star is
+considered to be Suniti, the mother of Dhruva. The
+legend, although as it is related in our text it differs
+in its circumstances from the story told by Ovid of
+Callisto and her son Arcas, whom Jove
+
+Imposuit Caelo vicinaque sidera fecit,
+
+sugggests some suspicion of an original identity.
+In ncither of the authorities' have we, perhaps, the
+primitive fable. It is evident from the quotation that
+presently follows in the text, of a stanza by Usanas,
+that the Purana has not the oldest version of the
+legend; and Ovid's representation of it is after a
+fashion of his own: all that has been retained of the
+original is the conformity of the chracters and of
+the main Incident, the translation of a mother and
+her son to the heavens as constellations, in which
+the polc-star is the most conspicuous luminary.
+
+9. The Vaimanika devas. the deities who travel
+in Viménas. ‘heavenly car,’ or rather 'moving
+spheres.’
+
+10. The text says merely @ifata gga! the
+commentator says. ‘perhaps formerly so called;
+Yer atl We have already remarked that some
+Puranas so denominate her.
+
+1-1 The legend of Dhruva is narrated in the
+Bhagavata, Padma (Swarga Khanda), Agni. and
+Naradiya, much to the same purport, and partly in
+the same words, ‘as our text. The Brahma and its
+double the Hari Varga, the Matsya. and Vayu
+merely allude to Dhruva's having been transferred
+by Brahmi to the skies, in reward of his austerities.
+The story of his religious penance, and adoration of
+Visnu, seems to be an embellishment interpolated
+by the Vaisnava Puranas. Dhruva being adopted as
+a Saint by their sect. The allusion to Sarta in our
+text concurs with the form of the story as it appears
+elsewhere, to indicate the priority of the more
+simple legend.
+
+REEK
+
+## Page 89
+
+THE VISNU-PURANAM
+
+CHAPTER 13
+wareyisena:
+(Aage-WaWITATT!)
+WH Sara
+qatar was woareyoharad
+Feat Fea TH YAS TAT Rt
+fog fryer fast gat gartorery
+feared seat aed TaN IH
+snieed Geafvat aravat meget ATH
+MATA ATATOT RT STATA: 11 3
+Tahared ae Agerat wesTa:
+ware Wat ae STAT WATT
+BS: YS: Mrerea array Hla:
+afapiistrraas qqeata & 7a
+afr eet agerat wel:
+STA YAR FST WENT G1
+BRM Haast 4 Suramar
+
+## Page 90
+
+BOOK I, CHAP. 13
+
+81
+
+age TeT HALT TT!
+Soren Toit aay Mays wETGA C1
+Quek ara agtaret a: yy: uftanhra:)
+Ua gem wet ye wort ference git
+
+Paragara continued— The sons of Dhruva,
+by his wife Sambhu, were Bhavya and Slisti.
+Succhaya, the wife of the latter, was the
+mother of five virtuous sons, Ripu, Ripnnjaya,
+Vipra, Vrkala, and Vrkatejas. The son of Ripu,
+by Vrhati. was the illustrious Caksusa, who
+begot the Manu Caksusa on Puskarini, of the
+family of Varuna, the daughter of the
+venerable patriarch Anaranya. The Manu had,
+by his wife Navala, the daughter of the
+patriarch Vairaja. ten noble sons, Uru. Puru.
+Satadyumna, Tapasvi, Satyavak, Kavi. Agnist
+oma, Atiracra, Sudyumna, and Abhimanyu.
+'You wife of Uru, Agneyi, bore six excellent
+sons, Anga, Sumanas, Swati, Kratu. Angiras,
+and Siva. Anga had, by his wife Sunitha, only
+one son, named Vena, whose right arm was
+rubbed by-the Rsis, for the purpose of pro-
+ducing from it progeny. From the arm of
+Vena, thus rubbed, sprang a celebrated
+monarch, named Prthu, by whom, in olden
+time, the earth was milked for the advantage
+of mankind’.
+
+fa vara
+fame afar: wiftretore weafefir:|
+aa ae arta: a WyPTATA: I Rol
+Maitreya—Best of Munis, tell me why was
+the right hand of Vena rubbed by the holy
+
+sages, in consequence of which the heroic
+Pythu was produced.
+
+Way art
+Bitar ae a ara Gaal: wenitseaT
+SPR AAT A SAT Tea Tai STATA gM
+a MraEa aT Ba BRN: YATE:
+franiga aa ge Ua oTeTAAI gzI
+safinfireat wer TE w Sor: UTAH: |
+Waa H aet Yitreat yfaatafa ean
+
+A apes 4 Gites 7 arted Gere
+
+siren sere aera we Aaraee: ys gw
+
+arena: ya aaa oritaferT
+
+By: aMHet Wag Aha MUA TAT: ea
+
+Parasara said— Sunitha was originally the
+daughter of Mrtyu, by whom she was given to
+Anga to wife. She bore him Vena, who
+inherited the evil propensities of his matcrnal
+grandfather. When he was inaugurated by the
+Rsis monarch of the earth, he caused it to be
+every where proclaimed, that no worship
+should be performed, no oblations offered, no
+gifts bestowed upon the Brahmanas. “I, the
+king,” said he, " am the lord of sacrifice; for
+who but I am entitled to the oblations.” The Rs
+is, respectfully approaching the sovereign,
+addressed him in melodious accents, and said,
+ea Sy:
+
+attr ge ag aaa wit
+
+TRatéiranra wars fed TE eg
+
+Shion Bae wdagat efeq
+
+yeifeeara ag & aeaieret afereafen yon
+
+aA aayeN eft: watford qa
+
+stenfintad: TAM Tata wereAfeTH Re
+
+aaa Aa Te wae eft:
+
+tat wattaarante earfet JT PATTI Ve
+
+Rsis replied- “Gracious prince, we salute
+you; hear what we have to reprcsent. For the
+preservation of your kingdom and your life,
+and for the benefit of all your subjects, permit
+us to worship Hari, the lord of all sacrifice, the
+god of gods, with solemn and protracted rites’;
+a portion of the fruit of which will revert to
+you’. Visnu, the god of oblations, being
+propitiated with sacrifice by us, will grant you,
+oh king, all your desires. Those princes have
+alf their wishes gratified, in whose realms
+Hari, the lord of sacrifice, is adored with
+sacrificial rites.”
+
+aur vara
+Ta: aatswafeens sas fet Berea TAIT: |
+
+## Page 91
+
+82
+
+THE VISNU-PURANAM
+
+anise eftfefet wart aise aT FAI Voll
+
+wen wera: wegheR area east
+
+BATT TOUT ear yet yfeahrereaT: 11g NN
+
+Wurst aa tar: waft:
+
+Trae wratcen: Waa FI
+
+RAT Taree sera, aerat aT
+
+aired 4 aired 1 ape ay fess 231
+
+adgeaant ef gar ett wt Aa:
+
+ATeTeTerT Ta rere ce FEST: BU
+
+Vena said~ "Who” is superior to me? who
+
+besides me is entitled to worship? who is this
+Hari, whom you style the lord of sacrifice?
+Brahma, Janarddana, Sambhu, Indra, Vayu,
+Yama, Ravi (the sun), Hutabhuk (fire),
+Varuna, Dhaté, Pasha (thc sun), Bhami
+(earth), the lord of night (the moon); all these,
+and whatever other gods there be who listen to
+our vows; all these are present in the persent
+of a king: the essence of a sovereign is all that
+is divine. Conscious of this. I have issued my
+commands, and look due you obey them. You
+are not to sacrifice, not to offer oblations, not
+to give alms. As the first duty of women is
+obedience to their lords, so observance of my
+orders is incumbent, holy men, on you.”
+
+ea SY:
+
+aga wera Ur eat arg dary)
+
+dant uftoriist aarafact aT B41
+
+Rsis replied- “Give command, great king”
+that piety may suffer no decrease. All this
+world," is but a transmutation of oblations;
+
+and if devotion be suppressed, the world is at
+an end.
+
+WU Sara
+fa fagrermatsfa w aur: weafefir:!
+Ber Satfel AGRT Wee: MTR: YA: FAC EI
+ParaSara said : “But Vena was entreated in
+vain; and although this request was repeated
+
+by the sages, he refused to give tlie order they
+suggested,
+
+ag gra: wa arora:
+
+Raat Fae TT SATS Trae! Voit
+
+W aaget tarnfahret mE
+fatremenrent a a areat yer: aft Re
+Fara waytet: gaye TH
+Frrgttet yd erafirenferm 29
+
+Then those pious Munis were filled with
+wrath, and cricd out to each Other, “Let this
+wicked wretch be slain. The impious man who
+has reviled the god of sacrifice who is without
+beginning or end, is not fit to reign over the
+earth,” And they fell upon the king, and beat
+him with blades of holy grass, consecrated by
+prayer, and slew him, who had first been
+destroyed by his impiety towards god,
+
+waar Great: Yoh aqy: waar feo
+fatafets oredt wage We TAT 3 oN
+TETAS SRG SATA
+
+UB y cereal veerareangt:n 3 a
+Raryatoterrat ahrot yer:
+
+rer qead oy: weferarerfeorgn 3 21
+aa: Waar toad ye YT:
+TRS Yas ASAT S BM
+Ter wy Tat: Yet: fact
+SUNT: A eTATS HAG AG: It BS
+fa aint ary aly fawry we Ua:
+Fria ager Fara Biswaq 341
+areTeTTaT eT faeayterranhat:|
+
+Frarer gfryget Urrenntrerero: 11 3 & 1
+
+aa Brtor ag Ud repre ee Ua:
+Frere cat STAT AUTRE: 11 3
+adiser efatot get wereperer F fast:
+
+FUT et MANY VYAVT: WATTATHN BCH
+
+Samm: @ age waneiaita sary
+
+Afterwards the Munis beheld a great dust
+arise, and they said to the people who were
+nigh, "What is this? and the people answered
+
+and said, “Now that the kingdom is without a
+king, the dishonest men have begun to seize
+
+## Page 92
+
+BOOK I, CHAP. 13
+
+83
+
+the property of their neighbours. The great
+dust that you behold, excellent Munis, is
+raised by troops of clustering robbers,
+hastening to fall upon their prey.” The sages,
+hearing this, consulted, and together rubbed
+the thigh of the king, who had left no
+offspring, to produce a son. From the thigh,
+thus nibbled, came forth a being of the
+complexion of a charred stake, with flattened
+features (like a Negro), and of dwarfish
+statute. “What am | to do?” cried he eagerly to
+the Munis, "Sit down" (Nishida), said they;
+and thence his name was Nishada. His
+descendants, the inhabitants of the Vindhya
+mountain, great Muni. are still called Nis
+hadas. and are characterized by the exterior
+tokens of depravity’, By this means the
+wickedness of Vena was expelled; those
+Nisadas being born of his sins, and carrying
+them away. The Brahmanas then proceeded to
+rub the right arm of the king, from which
+friction was engendered the illustrious son of
+Vena, named Pythu, resplendent in person, as
+it the blazing deity of Fire had been
+manifested.
+
+SMTA ATT GT TUT eT TYING
+
+wag feear wa: HaTe Td ZI
+
+afery art ¢ yar aoreetht wae: xo
+
+agar a ara Auitshe fated aah
+
+GaN een ATA: TBA YASIR BN
+a Uae Fee Tres WaT:
+
+areata unfittenet watoctatrat etn s 2H
+firemen ora Raut: el
+eoenafin & yen sorent a aetna
+earrel wel doerpafiay wae
+
+ee Y aero web apt wea fearae sew
+faoirtet vy arat uftdrt wt aah
+faoyfag at ak wat amahrArU SGI
+warmetedt wer warafareseha
+
+There then fell from the sky the primitive
+
+bow (of Mahadeva) named Ajagava. and
+celestial arrows, and panoply from heaven. At
+
+the birth of Prthu all living creatures rejoiced;
+and Vena, delivered by his being born from
+the hell named Put, ascended to the realms
+above. The seas and rivers, bringing Jewels
+from their depths, and water to perform the
+ablutions of his installation, appeared. The
+great parent of all, Brahma, with the gods and
+the descendants of Angiras (the fires), and
+with all things animate or inanimate,
+assembled and performed the ceremony of
+consecrating the son of Vena. Beholding in his
+tight hand the (mark of the) discus of Visnu,
+Brahmi recognised a portion of that divinity in
+Prthu, and was much pleased; for the mark of
+Visnu's discus is visible in the hand of one
+who is born to be a universal emperor’, one
+whose power is invincible even by the gods.
+
+FEAT THR YYAVA: WATATTN YG II
+‘aisfaftrat verter fatrratanfad:
+
+fier wefrarerer sara eA: 1 ven
+SPUN ATT AMT TTT
+SRT TT VARMA: IY 6
+ude eguht eager arta
+
+armor yf farce ferrets ei
+aderngel Wa: Yee yes Ag
+
+wer ore aH TaTAS YANG ot
+Be: Wear ayers: deisel Terafa:1
+aferda wera ay wigitse ATT: HG BN
+Stat der gratengut gramme
+
+Raarte galt: yysoa: waTANY 2N1
+aituaqed at ut ater arermy
+AARATTAGaM WAT FATA B11
+ater Saree AY a TTA ET ETT: |
+
+Tor Fare WR a are sort aT:
+Wid farereres ardent 4 st
+
+The mighty Prthu, the son of Vena, being
+thus invested with universal dominion by
+those who were skilled in the rite, soon
+removed the grievances of the people whom
+his father had oppressed, and from winning
+
+## Page 93
+
+84
+
+THE VISNU-PURANAM
+
+their affections he derived the tide of Raja or
+king’. The waters became solid, when he
+traversed the ocean: the mountains opened him
+a path; his banner passed unbroken (through
+the-forests): the earth needed not cultivation;
+and at a thought food was prepared: all kine
+were like the cow of plenty: honey was stored
+in every Bower, At the sacrifice of the birth of
+Prthu, which was performed by Brahma, the
+intelligent Sita therald or bard) was produced,
+in the juice of the monoplant, on the very
+birth-day’: at that great sacrifice also was
+produced the accomplished Magadha: and the
+holy sages said to these two persons, "Praise
+ye the king Prthu, the illustrious son of Vena;
+for this is your especial function, and here is a
+fit subject for your praise.” But they
+respectfully replied to the Brahmanas. “We
+know not the acts of the new-born king of the
+earth; his merits are not understood by us; his
+fame is not spread abroad: inform us upon
+what subject we may dilate in his praise.”
+
+NT Sy:
+afearae a at amadt wera:
+Ton afaen & arer tet WA FTG aH
+“Praise the king.” said the Rsis, “for the
+acts this heroic monarch will perform; praise
+him for the virtues he will display.”
+
+WIR saret
+aa: & yafereite agar wot ah
+Ret: yeaa SOTA FUT AAG GT
+WRT Bee TAT Urol fear
+aad aftenty ware wafed:n yon
+afent asta fates afeert1
+veg auifeariiaiags aft FING CI
+aa tt aang: wid yatdorer sta:
+aferd: anifir: weg gent grartati § e11
+
+Parasara said~ The king, hearing these
+words, was much pleased, and reflectec that
+persons acquire commendation by virtuous
+actions, and that consequently his virtuous
+
+conduct would be the theme of the eulogium
+which the bards were about to pronounce:
+whatever merits, then, they should panegyrize
+in their encomium, he determined that he
+would endeavour to acquire; and if they should
+point out what faults; ought to be avoided, he
+would try to shun them. He therefore listened
+attentively, as the sweet-voieed encomiasts
+celebrated the future virtues of Prthu, the
+enlightened son of Vena.
+
+Tea eaves WTA aT:
+
+Sry Aa: araryftet fan Ge G ott
+enigar gees cararq freee: |
+ARTA AeA TATA: AF AAAT: | G 8
+aa: wat a fat a creat feat Ta:
+
+The king is a speaker of truth, bounteous,
+an observer of His promises; he is wise,
+benevolent, patient, valiant, and a terror to the
+wicked; he knows his duties; he acknowledges
+services; he is compassionate and kind-
+spoken; he respects the venerable; he performs
+sacrifices; he reverences the Brahmans; he
+cherishes the good; and in administering
+justice is indifferent to friend or foe.
+
+gather yore waar APRA TNE BH
+wan efe aaR a anion Gaara
+
+aa: & Vaeiorer: were Tyna GBH
+sant fafetegntefayfetntt: |
+
+dwar: peatrergarey: genfea:11g vil
+aiteeity worerg afery ret ETT
+
+PART AT: TRTAATTTUTA & 4 HI
+
+The virtues thus celebrated by the Sita and
+the Magadha were cherished in the
+remembrance of the Raja, and practised by
+him when occasion arose. Protecting this
+earth, the monarch performed many great
+sacrificial ceremonies, accompanied by liberal
+donations. His subjects soon approached him,
+suffering from the famine by which they were
+afflicted, as all the edible plants had perished
+during the season of anarchy. In reply to his
+question of the cause of their coming, they
+
+## Page 94
+
+BOOK I, CHAP. 13
+
+85
+
+told him, that in the interval in which the earth
+was without a king all vegerable products had
+been withheld, and that consequently the
+people had perished.
+
+wa Bq:
+ars Tes afta Tacit!
+metre: ere aft WoT: Tat: WATT GIN
+wath afte arar warerett Frafire:|
+fe a: gerdarat wart sitesteet:11 € 1011
+They said— “O king, you are the bestower
+of subsistence to us; you are appointed, by the
+creator, the protector of the people: grant us
+
+vegetables, the support of the lives of your
+subjects, who are perishing with hunger.”
+
+TAK Jay
+
+weitse qufaformerarsta ay:
+
+writs feeary git: Vsaevag THAT G CHI
+
+wat vate after siren g T_T
+
+Hr cieary Tercera, aararaTAI § <1
+
+aa aa oat Sat er cer yea
+
+aa aa oO aod camber Voll
+
+aeret We YA VS VTA
+
+weUaTOT TeTTefearoraTAOT 9 BI
+
+On hearing this, Prthu took up his divine
+bow Ajagava, and his celestial arrows, and in
+great wrath marched forth to assail the Earth.
+Earth, assuming the figure of a cow, fled
+hastily from him, and traversed, through fear
+of the king, the regions of Brahma and the
+heavenly spheres; but wherever went the
+supporter of living things, there she beheld
+Vainya with uplifted weapons: at last,
+trembling with terror, and anxious to escape
+his arrows, the Earth addressed Prthu, the hero
+of resistless prowess.
+
+yreqarear
+aha werent fer te a uaa
+a ot equesd vende yar 21
+
+The Earth said— “Know you not, king of
+men,” the sin of killing a female, that you thus
+perseveringly seek to slay me."
+
+Wear
+
+wafer an Fert mifte geanfifin
+
+agai waft at wet quand aa: gt!
+
+Prythu replied: "When the happiness of
+many is sccured by the destruction of one
+
+malignant being, the death of that being is an
+act of virtue."
+
+warrgranna afe at a erate
+
+SEN: |: Wt F Fas vfaeafino wn
+
+The Earth said “But, if in order to promote
+the welfare of your subjects, you put an end to
+me, whence, best of monarchs, will your
+people derive their support"
+
+yyeara
+a en age ahora
+MATA MTT WAT: 1119 4 1
+
+“Disobedient to my rule,” rejoined Prthu,
+“{t I destroy you, I will support my people by
+the efficacy of my own devotions.”
+
+TWIN SaTT
+aa: Wor ager at yA: wre Mnf
+wearers weet arte ATATATATII 9G Li
+
+yfacqara
+saat: WATE; aes Ferg: |
+wang sangurd & aq greet atest oi
+erat war sito tere Tete: |
+adhata werent at: eftcaftontiet: ect
+Te weafemats we edyat at
+4 aed wees et atte Fa aT RHI
+wars ae waa as alte WaT:
+ated dtongt dix ada are ¢ ot
+
+Then the Earth overcome with
+apprehension, and trembling in every limb,
+
+## Page 95
+
+86
+
+THE VISNU-PURANAM
+
+respectfully saluted the king, and thus spoke:
+“All undertakings are successful, if suitable
+means of effecting them are employed. I will
+impart to you means of success, which you can
+make use of if you please. All vegetable
+produces are old, and destroyed by me; but at
+your command I will restore them, as
+developed from my milk. Do you therefore,
+for the benefit of mankind, most virtuous of
+princes, give me that calf, by which I may be
+able to secrete milk. Make also all places
+level, so that I may cause my milk, the seed of
+all vegetation, to flow every where around.’
+
+WIP JarT
+
+WA FORA HATTA: |
+aqealem tar ducer: set faafsran:n 2 an
+a fe qaferet 3 faat ofrdtaen
+
+wrt: Goat at areaT aT TaMTETTN ¢ Be
+a wreanfa a aint + ated afirer:
+
+auarqyfa ta wheter WAC Bl
+
+wa aa we te PTT: |
+
+aa aa rat fe Fart watered csi
+
+STE: Ween TATATTaT Aa
+
+weg ug Wishe wrwreiteetg Seq
+
+a aeafre at J Ay Maya Ty:
+
+@ unt yaiaet gate yet yysucen
+
+Prthu accordingly uprooted the mountains,
+by hundreds and thousands, for myriads of
+leagues, and they were thenceforth piled upon
+one another. Before his time there were no
+defined boundarics of villages or towns, upon
+the irregular surface of the earth; there was no
+cultivation, no pasture, no agriculture, no
+highway for merchants: all these things (or all
+civilization) originated in the reign of Prthu.
+Where the ground was made level, the king
+induced his subjects to take up their abode.
+Before his time, also, the fruits and roots
+which constituted the food of the people were
+procured with great difficulty, all vegetables
+having been destroyed; and he therefore,
+having made Swayambhuva Manu the calf
+
+milked the Earth, and received the milk into
+his own hand, for the benefit of mankind.
+werent waifr mart ferereren
+SATA weet arbatsenfir Fear: coll
+WOE a yydeang yeas firm
+amg yadhiarmannfarenttatn ce
+wees Ran afederehfiretaha:
+Tradectda: fighrareireanic eu
+A A MqUETs Aa AE ST YT TTI
+araarafersiens tat aeitrasraq gol
+Thence proceeded all kinds of corn and
+vegetables upon which people subsist now and
+perpetually. By granting life to the Earth.
+Prthu was as her father, and she thence derived
+the patronymic appellation Prthivi (the
+daughter of Prthu). Then the gods. the sages,
+the demons, the Raksasas, the Gandharbhas,
+Yaksus, Pitris, serpents, mountains, and trees,
+took a milking vessel suited to their kind. and
+milked the earth of appropriate milk, and the
+milker and the calf were both peculiar to their
+own species”.
+oar art faarit a enftoit wife vem
+water ara: wat fermperereteraTi g UI
+wa ware: 8 Wg: Wat dora drary
+Wa Felafa: Yah TSAR 8 Ul
+ase 3H ava wa: ahaa ATI
+3 wer goad fafa meters waTaa sa
+geeactagnt Fort seat dager
+yar wre wath Bad FUT XII
+‘sf sitfereqgeret weratgt adteyitseara:t
+This Earth, the mother, the nurse, the
+receptacle, and nourisher of all existent things,
+was produced from the sole of the foot of
+Visnu. And thus was born the mighty Prthu.
+the heroic son of Vena, who was the lord of
+the earth, and who, from conciliating the
+affections of the people, was the first ruler to
+whom the title of Raja was ascribed. Whoever
+
+shall recite this story of the birth of Prthu. the
+son of Vena, shall never suffer any retribution
+
+## Page 96
+
+BOOK I, CHAP. 13
+
+87
+
+for the evil he may have committed: and such
+is the virtue of the tale of Prthu's birth , that
+those who hear it repeated shall be relieved
+from affliction"®.
+
+NOTES
+
+1. The descent of Prthu from Dhruva is similarly
+traced in the Matsya Purana, but with some variety
+of nomenclature : thus the wife of Dhruva is named
+Dhanyé; and ‘the eldest son of the Manu, Taru. The
+Vayu introduces another generation, making the
+eldest son of Slisti, or as there termed Pusti. father
+of Udaradhi; and the latter the father of Ripu, the
+father of Caksusa, the father of the Manu. The
+Bhagavata has an almost entirely different set of
+names, having converted the family of Dhruva into
+personifications of divisions of time and of day and
+night The account there given is, Dhruva mad. by
+his wife Bhrami (revolving), the daughter of
+Sisumara (the sphere), Kalpa and Vatsara. The
+latter married Suvithi. and had six sons. Pushparna,
+Tigmaketu, Isha, Urjja, Vasu and Jaya. The first
+married Prabha and Doaha. and had by the former,
+Pratah (dawn), Madhyadina (noon), and Saya
+(evening); and by the latter, Pradosha, NisItha, and
+Vyusta. or the beginning, middle, and end of night.
+The last has, by Puskarini. Caksusa. mar, ried to
+Akuti. and the father of Chaksusha Manu. He has
+twelve sons Puru, Kritsna, Rita, Dyumna, Satyavat,
+Dhrita, Vrata. Agnistoma Atiratra, Pradyumna.
+Sivi, and Ulmuka. The last is the farther of six sons,
+named as in our text, except the last. who is called
+Gaya. The eldest, Anga, is the father of Vena. the
+father of Prthu. These additions are evidently the
+creatures of the author's imagination. The Brahma
+Purana and Hari Vamsa have the same genealogy
+as the Visnu, reading, as do the Matsya and Vayu,
+Pushkarini or Varani. the daughter of Virana,
+instead of Varuna. They, as well as copies of the
+text, present several other varieties of
+nomenclature. The Padma Purana (Bhiimi Khanda)
+says Anga was of the family of Atri, in allusion
+perhaps to the circumstance mentioned in the
+Brahma Purana of Unioapida's adoption by that
+Rsi.
+
+2, With the Dirgbasaira, ‘long sacrifice;' a
+ceremony lasting a thousand years.
+
+3. That is, the land will be fertile in proportion as
+the gods are propitiated, and the king will benefit
+accordingly, as a sixth part of the merit and of the
+produce will be his. So the commentator explains
+the word ‘portion: si; WEY aT: |
+
+4. The Matsya says there were born outcast or
+barbarous races, Mlecchas (T@erA4:) as black as
+collyrium. The Bhagavata describes an individual
+of dwarfish stature, with short arms and legs, of a
+complexion as black as a crow, with projecting
+chin, broad flat nose, red eyes, and tawny hair;
+whose descendants were mountaineers and
+foresters : fiftsrrriraa: | The Padma (Bhu. Kb.) has
+a similar description, adding to the dwarfish stature
+and black complexion, a wide mouth, large ears,
+and a protuberant belly. It also particularizes his
+posterity as Nishadas, Kiratas, Bhillas. Bahanakas,
+Bhramaras, Pulindas, and other barbarians, or
+Mlecchas, living in woods and on mountains. These
+passages intend, and do not much exaggerate, the
+uncouth apperance of the Goands, Koles, Bhils, and
+other uocivilized tribes, scattered along the forests
+and mountains of central India, from Behar to
+Kandesh, and who are not improbably the
+predecessors of the present occupants of the
+cultivated portions of the country. They are always
+very black, ill-shapen, and dwarfish, and have
+countenances of a very African character.
+
+5, A Cakravarttl, or, according to the text. one in
+whom the Cakra, the discus of Visnu, abides
+(varttate); such a figure being delineated by the
+lines of the hand. The grammatical etymology is,
+‘he who abides in, or rules over, an extensive
+territory called a Cakra.'
+
+6. From raga (%P"1),'passion' or ‘affection;' but the
+more obvious etymology is raj (1 ), to shine’ or
+“be splendid.
+
+7. The birth of Prthu is to be considered as the
+sacrifice, of which Brahmé, the creator, was the
+performer, but in other places, as in the Padma, it is
+considered that an actual sacrificial rite was
+celebrated, at which the first encomiasts were
+produced. The Bhigavata does not account for their
+appearance.
+
+8. ‘Having willed or determined the Manu
+Swayambhuva to be the calf; daca ai g 7d
+YAP! So the Padma Purana ; act vem: welerdt!
+aq maraeyd Yad ofr yA: YA: | The Bhagavata has
+‘acd Heat 44! Having made the Manu the calf.’ By
+
+## Page 97
+
+88 THE VISNU-PU!
+
+the 'calf,' or Manu in that character, is typified, the
+commentator observes, the promoter of the
+multiplication of progeny : SARATTATS: |
+
+9. The Matsya, Brahma, Bhagavata, and Padma
+enter into a greater detail of this milking, specifying
+typically the calf, the milker, the milk, and the
+vessel. Thus, according to the Matsya, the Rsis
+milked the earth through Vrhaspati; their calf was
+Soma; the Vedas were the vessel; and the milk was
+devotion. When the gods milked the earth, the
+milker was Mitra (the sun); Indra was the calf:
+superhuman power was the produce. The gods had
+a gold, the Pitrs a silver vessel : and for the latter,
+the milker was Antaka (death); Yama was the calf;
+the milk was Swadha, or oblation. The Naga, or
+snake-gods, had a gourd for their pail; their calf
+was Taksaka; Dhritarastra (the serpent) was their
+milker; and their milk was poison. For the Asuras,
+Maya was the milk; Virocana, the son of Prahlada,
+was the calf; the milker was Dwimurddha; and the
+vessel was of iron. The Yaksus made Vaisravana
+their calf; their vessel was of unbaked earth, the
+milk was the power of disappearing. The Raksasas
+and others employed Raupyanabha as the milker :
+their calf was Sumali: and their milk was blood.
+Citraratha was the calf, Vasuruci the milker, of the
+Gandharvas and nymphs, who milked fragrant
+odours into a cup of lotus leaves. On behalf of the
+mountains, Meru was the milker; Himavat the calf;
+the pail was of crystal : and the milk was of herbs
+and gems. The trees extracted sap in a vessel of the
+Palisa, the Sal being the milker, and the Plaksa the
+calf. The descriptions that occur in the Bhagavata,
+Padma, and Brahma Puranas are occasionally
+slightly varied, but they are for the most part in the
+same words as that of the Matsya. These mys-
+tifications are all probably —_ subsequent
+modifications of the original simple allegory, which
+typified the earth as a cow, who yielded to every
+class of beings the milk they desired, or the object
+of their wishes.
+
+10. Another reading is ¢tactary waft ‘It
+counteracts evil dreams.’ The legend of Pythu is
+briefly given in the Mahabharata. Raja Dharma,
+and occurs.in most of the Puranas, but in greatest
+detail in our text, in the Bhagavata, and especially
+in the Padma, Bhumi Khanda. s. 29, 30. All the
+versions, however, are essentially the same.
+
+## Page 98
+
+88
+
+THE VISNU-PURANAM
+
+CHAPTER 14
+
+ageviiseara:
+(serrat 7:)
+
+Wat: Wat werd agmisaearfert
+
+feraftet erates Sram gn
+
+virgin wert faroEAaT, Far
+
+mretrafed ype mt Got went BH
+
+sretrafestrary werent ware:
+
+ehatrrereragt a4 dafegar wT: 11 311
+
+wri: yet yeaa WA
+
+wreitrarfgetrearry ware fet WETaCT: 11
+
+aagrrarat J saat waa:
+
+TERA: TY Maat WATT
+
+wate BET ae wribateT: 1
+
+ad weal ae aqdes Ue G11
+
+AMAT TOTS TATA ARTA: |
+
+aprentagentar MARAE TAT: 11 911
+
+Prthu had two valiant sons, Antarddhi and
+Pali. The son of An-tarddhana.' by his wife
+Sikhandini, was  Havirdhana,to whom
+Dhishana, a princess of the race of Agni, bore
+six sons, Prachinaverhis, Sukra. Gaya, Krsna,
+Vraja. and Ajina’. The first of these was a
+mighty prince and patriarch, by whom
+mankind was multiplied after the death of
+Havirdhana. He was called Prachinaverhis
+from his placing upon the earth the sacred
+grass, pointing to the east’. At the termination
+of a rigid penance he married Savarna, the
+daughter of the ocean, who had been
+previously betrothed to him, and who had by
+the king ten sons, who were all styled
+Pracetasas, and were skilled in military
+science: they all observed the same duties,
+practised religious austerities, and remained
+immersed in the bed of the sea for ten
+thousand years.
+
+Wa gaa
+wed & rerarrenreneryy
+
+## Page 99
+
+BOOK I, CHAP. 14
+
+89
+
+MATA: ARTO AATSTSAGAST AT 6
+
+Maitreya said—You can inform me, great
+sage, why the magnanimous Pracetasas
+engaged in penance in the waters of the sea.
+WI Jaret
+
+fier seine: shat ware afar
+
+warafageet ABARAT ATTN eH
+mritraferara
+
+van tagar Safes eae Yat:
+
+wart: dagtraret war aie AAA AAU got
+
+ware trad gat: warrgfagaaisar:
+
+reed rete SF: ATT AT MATT BAN
+
+Parasara said—The sons of Pracinaverhis
+were originally informed by their father, who
+had been appointed as a patriarch, and whose
+mind was intent on multiplying mankind, that
+he had been respectfully enjoined by Brahma,
+the god of gods, to labour to this end, and that
+he had promised obedience : “now therefore,”
+continued he. “do you, my sons, to oblige me,
+diligently promote the increase of the people,
+for the orders of the father of all creatures are
+entitled to respect.”
+
+wae afeay: Fe set FORT: |
+
+warqarat gt ya: uneg: feat TA gan
+wae Hy:
+
+aa wet wengat wnat: anton aa
+
+ware, we A: At caTSATgMEfan 8311
+
+The sons of the king, having heard their
+father's words, replied, "So be it;” but they
+then inquired of him, as he could best explain
+it, by what means they might accomplish the
+augmentation of mankind.
+
+wife wae ed: fart wera as ex
+Teng wenfaqad way eft
+arrears afe Fafgavitoran 94 1
+
+anladss arg Terenferasat Wen
+Sree wT SATS: TRRTTT: 1 UGH
+aferratit wf aamreret werafa:!
+aaReangd gig: mart at afercafen gon
+
+He said to them: "Whoever worships
+Visnu, the bestower of good, attains
+undoubtedly the object of his desires: there is
+no other mode. What Further can I tell you ?
+Adore therefore Govinda, who is Hari. the lord
+of all beings, in order to effect the increase of
+the human race, if you wish to succeed. The
+eternal Purusottama is to be propitiated by him
+who wishes for virtue, wealth, enjoyment or
+liberation. Adore him, the imperishable, by
+whom. when propitiated, the world was first
+created, and mankind will assuredly be
+multiplied.”
+
+WH Sarr
+
+sear fiat gat weet ae
+
+wer: walftraferet area: Targa ge It
+aretagentit eaten areadtt
+
+art yas ade ee 1
+
+waa 4 fam Satrerrrrat afr
+
+Weyt ee: wrary wiigher were 2011
+
+ParaSara said- Thus instructed by their
+father, the ten Pracetasas plunged into the
+depths of the ocean, and with minds wholly
+devoted to Narayana, the sovereign of the
+universe, who is beyond all worlds, were
+engrossed by religious -austerity for ten
+thousand years: remaining there, they with
+fixed thoughts praised Hari, who. when
+propitiated, confers on those who praise him
+all that they desire.
+
+Wa sara
+we weet fae: aggre dha:
+PEt yrs od ayefan zen
+
+Maitreya said—The excellent praises that
+the Pracetasas addressed to Visnu, whilst they
+stood in the deep, you, oh best of Munis, are
+qualified to repeat to me.
+
+## Page 100
+
+90
+
+TER sara
+sqgy a3a tiferd aon yd wera:
+PRTerr eT: Mya TAT: VT
+
+Parasara said— Hear, Maitreya, the hymn
+which the Pracetasas, as they stood in the
+waters of the sea, sang of old to Govinda, their
+nature being identified with him :
+
+wee Sq:
+at: GH Udaeat witer aa ya
+are AAT ST: TH TN VB
+Sareea
+ATT WATT ATT ARH
+TNS: We ETT aT Fg
+WRT TUT TS ATCA TAN VGH
+qeaisgfet 2a: fagfins gare:
+iene: Wee Tet ST TA RGM
+
+erat Bhat drareat eanfieataay 7:
+erigitarsrat ater qatert FA: Von
+afore at feat oreaagret: 1
+
+wreetfeeionet cardt et gree FAR S
+
+aah eegt oat att aq aeefeary
+
+ae Arena erer TATA STATA AS
+
+a ye watant weayH HANH TM
+
+Fagor rere fares uTTETATTH 3 011
+
+uperaftadt 28 aadet qetsFremy
+
+STRATA, A AAATEAY AA VI
+
+STRAPON AAT I: WereDAT
+
+TTA YSRTE ATP TA 3 VN
+
+wreigaenter a: Bat ITA
+
+Pracetasas said~ "We bow to him whose
+
+glory is the perpetual theme of every speech;
+him first, him last; the supreme lord of the
+boundless world; who is primeval light: who is
+without his like; indivisible and infinite; the
+origin of all existent things, moveable or
+stationary. To that supreme being who is one
+with time, whose first forms, though he be
+without form, are day and evening and night,
+be adoration. Glory to him, the life of all
+
+THE VISNU-PURANAM
+
+living things, who is the same with the moon,
+the receptacle of ambrosia, drunk daily by the
+gods and progenitors: to him who is one with
+the sun, the cause of heat and cold and rain,
+who dissipates the gloom, and illuminates the
+sky with his radiance: to him who is one with
+earth, all-pervading, and the asylum of smell
+and other objects of sense, supporting, the
+whole world by its solidity. We adore that
+form of the deity Hari which is water, the
+womb of the world, the seed of all living
+beings. Glory to the mouth of the gods, the
+eater of the Havya; to the eater of the Kavya,
+the mouth of the progenitors; to Visnu, who is
+identical with fire; to him who is one with air,
+the origin of ether, existing as the five vital
+airs in the body, causing constant vital action;
+to him who is identical with the atmosphere,
+pure, illimitable, shapeless, separating all
+creatures.
+
+wed prefers TH: Hora Ses 3 BH
+renter Ferrerry FreaferreareerTeRT: |
+TR APTS AT: GAT ATTA ax
+
+eatery onert a: wereshh
+
+See: UAT TRA fea AAR GM
+
+aftrrrt weet feat wend BRT
+
+wane sere an: wefrafern 360
+
+Be: Woeat wre qoreanra sy:
+
+aarerefiat Sat Fat: BT PRATT 3 tt
+
+eM: BH ee eT ae ferent: Wet TENA CH
+
+Glory to Krsna, who is Brahma in the form
+of sesible objects, who is ever the direction of
+the faculties of sense. We offer salutadon to '
+that supreme Hari who is one with the senses,
+both subtle and substantial, the recipient of all
+impressions, the root of all knowledge: to the
+universal soul, who, as internal intellect,
+delivers the impressions, received by the
+senses to soul: to him who has the properties
+of Prakrti; in whom, without end, rest all
+things; from whom all things proceed; and
+who is that into which all things resolve. We

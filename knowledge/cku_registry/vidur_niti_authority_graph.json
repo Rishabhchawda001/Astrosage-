@@ -1,0 +1,39 @@
+{
+  "scripture": "Vidur Niti",
+  "date": "2026-07-14T09:16:25.324908",
+  "editions": [
+    {
+      "file": "vidur_niti_chaukhambha_1997_djvu.txt",
+      "publisher": "Chaukhambha",
+      "year": 1997,
+      "authority_score": 60
+    },
+    {
+      "file": "vidur_niti_english_1955_djvu.txt",
+      "publisher": "Unknown",
+      "year": 1955,
+      "authority_score": 45
+    },
+    {
+      "file": "vidur_niti_gitapress_djvu.txt",
+      "publisher": "Gita Press",
+      "year": 1960,
+      "authority_score": 55
+    }
+  ],
+  "families": [
+    {
+      "name": "Chaukhambha",
+      "editions": [
+        "vidur_niti_chaukhambha_1997_djvu.txt"
+      ]
+    },
+    {
+      "name": "Gita Press",
+      "editions": [
+        "vidur_niti_gitapress_djvu.txt"
+      ]
+    }
+  ],
+  "primary_witness": "vidur_niti_chaukhambha_1997_djvu.txt"
+}

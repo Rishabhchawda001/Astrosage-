@@ -1,0 +1,1 @@
+"""AstroSage search plugins."""

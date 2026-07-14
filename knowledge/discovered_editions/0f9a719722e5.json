@@ -1,0 +1,107 @@
+{
+  "title": "Agni puran 3",
+  "discovered_at": "2026-07-13T12:39:01.323474+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "vedic-vangmaya-mein-vigyan-nepali",
+      "title": "Vedic Vangmaya Mein Vigyan Nepali",
+      "creator": "\u0928\u0947\u092a\u093e\u0932\u0917\u0902\u091c \u0906\u0930\u094d\u092f \u0938\u092e\u093e\u091c",
+      "year": null,
+      "language": "nep",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "20220406_20220406_0555-perfect-questions-perfect-answers",
+      "title": "\u092a\u0941\u0930\u094d\u0923 \u092a\u094d\u0930\u0936\u094d\u0928 \u092a\u0941\u0930\u094d\u0923 \u0909\u0924\u094d\u0924\u0930 \u0928\u0947\u092a\u093e\u0932\u0940\u092e\u093e-Perfect Questions Perfect Answers",
+      "creator": "Srila Prabhupada",
+      "year": null,
+      "language": "nep",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ekadasi-mahatyam",
+      "title": "Ekadasi Mahatyam in Nepali",
+      "creator": "",
+      "year": null,
+      "language": [
+        "nep",
+        "Sanskrit"
+      ],
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4396639696",
+      "title": "Ashwamedha Yagya in Puran",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://dsiij.dsvv.ac.in/index.php/dsiij/article/download/341/246",
+      "authors": [
+        "Manisha Bhardwaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3048487338",
+      "title": "Comparison of Properties of Naveen, Puran and Suryatapi Guda (Jaggery) with Respect to Guru and Laghuguna- An Observational Study",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.31782/ijcrr.2020.121514",
+      "authors": [
+        "Prashant Umate",
+        "Meena Deogade",
+        "Akshay Pargaonkar"
+      ]
+    }
+  ]
+}

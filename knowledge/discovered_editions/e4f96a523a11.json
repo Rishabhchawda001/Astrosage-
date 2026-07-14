@@ -1,0 +1,329 @@
+{
+  "title": "Bhagavad-gita Bengali",
+  "discovered_at": "2026-07-13T12:43:04.177100+00:00",
+  "edition_count": 16,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Shrimad Bhagvad Gita",
+      "authors": [],
+      "year": 1971,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Mitra & Ghosh"
+      ],
+      "ol_key": "/works/OL21067123M"
+    },
+    {
+      "source": "open_library",
+      "title": "Shrimad Bhagavad Gita",
+      "authors": [
+        "Shyam Mehta"
+      ],
+      "year": 2010,
+      "languages": [
+        "ben"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9781409292692",
+        "140929269X"
+      ],
+      "publisher": [
+        "Lulu Press, Inc."
+      ],
+      "ol_key": "/works/OL28987751W"
+    },
+    {
+      "source": "open_library",
+      "title": "Srimad Bhagavad Gita : ( Bengali Edition )",
+      "authors": [
+        "Bankim Chatterjee"
+      ],
+      "year": 2017,
+      "languages": [
+        "ben"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9781978497849",
+        "1978497849"
+      ],
+      "publisher": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "ol_key": "/works/OL41461077W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "umgm_shri-shrimad-bhagavad-gita-compiled-and-trans-by-jatindra-vimal-chaudhuri-1952-k",
+      "title": "Shri Shrimad Bhagavad Gita Compiled And Trans By Jatindra Vimal Chaudhuri 1952 Kolkata Jatindra Vimal Chaudhuri",
+      "creator": "eGangotri",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "PrameyaRatnavali.KanaiLal",
+      "title": "Prameya Ratnavali. Kanai Lal",
+      "creator": "www.vidyabhusanaproject.blogspot.com",
+      "year": null,
+      "language": "Sanskrit",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "JPEG Thumb",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cwbi_shrimad-bhagavad-gita-compiled-by-ram-chandra-adhikary-1964-kolkata-bengali-dev-prasad-basu",
+      "title": "Shrimad Bhagavad Gita Compiled By Ram Chandra Adhikary 1964 Kolkata ( Bengali) Dev Prasad Basu",
+      "creator": "Dev Prasad Basu",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2075458794",
+      "title": "The Bomb,<i>Bhadralok, Bhagavad Gita</i>, and Dan Breen: Terrorism in Bengal and Its Relation to the European Experience",
+      "year": 2009,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Michael Silvestri"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4383893280",
+      "title": "An evaluation of Google Translate for Sanskrit to English translation via sentiment and semantic analysis",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.nlp.2023.100025",
+      "authors": [
+        "Akshat Shukla",
+        "Chaarvi Bansal",
+        "Sushrut Badhe"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Shrimad Bhagvad Gita",
+      "authors": [],
+      "year": 1971,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Mitra & Ghosh"
+      ],
+      "ol_key": "/works/OL21067123M"
+    },
+    {
+      "source": "open_library",
+      "title": "Shrimad Bhagavad Gita",
+      "authors": [
+        "Shyam Mehta"
+      ],
+      "year": 2010,
+      "languages": [
+        "ben"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9781409292692",
+        "140929269X"
+      ],
+      "publisher": [
+        "Lulu Press, Inc."
+      ],
+      "ol_key": "/works/OL28987751W"
+    },
+    {
+      "source": "open_library",
+      "title": "Srimad Bhagavad Gita : ( Bengali Edition )",
+      "authors": [
+        "Bankim Chatterjee"
+      ],
+      "year": 2017,
+      "languages": [
+        "ben"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9781978497849",
+        "1978497849"
+      ],
+      "publisher": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "ol_key": "/works/OL41461077W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "umgm_shri-shrimad-bhagavad-gita-compiled-and-trans-by-jatindra-vimal-chaudhuri-1952-k",
+      "title": "Shri Shrimad Bhagavad Gita Compiled And Trans By Jatindra Vimal Chaudhuri 1952 Kolkata Jatindra Vimal Chaudhuri",
+      "creator": "eGangotri",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "GitaBhusana.GaudiyaMath",
+      "title": "Gita Bhusana. Gaudiya Math",
+      "creator": "www.vidyabhusanaproject.blogspot.com",
+      "year": 2014,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "GitaSW.Ranganathananda2",
+      "title": "Gita SW. Ranganathananda 2",
+      "creator": "Paulami Pal",
+      "year": null,
+      "language": "ben",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2075458794",
+      "title": "The Bomb,<i>Bhadralok, Bhagavad Gita</i>, and Dan Breen: Terrorism in Bengal and Its Relation to the European Experience",
+      "year": 2009,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Michael Silvestri"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4383893280",
+      "title": "An evaluation of Google Translate for Sanskrit to English translation via sentiment and semantic analysis",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1016/j.nlp.2023.100025",
+      "authors": [
+        "Akshat Shukla",
+        "Chaarvi Bansal",
+        "Sushrut Badhe"
+      ]
+    }
+  ]
+}

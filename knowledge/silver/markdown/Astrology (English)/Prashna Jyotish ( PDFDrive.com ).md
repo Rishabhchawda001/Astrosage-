@@ -1,0 +1,36322 @@
+# Prashna Jyotish ( PDFDrive.com )
+
+Author
+
+## PRASHNA
+
+
+## JYOTISH
+
+Late Chandrakant R. Bhatt
+
+## (B.A., LL.B)
+
+Translation by: Kanakkumar B. Bosmia
+
+
+Foreword
+It is my honour to share a few words on the English version of "Prashna
+Jyotish" by late Shri Chandrakant R. Bhatt, B.A. LL.B. The author needs no
+introduction as his books "Nakshatra Chintamani" and "Further Light on the
+Nakshatra Chintamani" are very well received and regarded as the best K.P.
+books in the field of modern astrology. His first book "N akshatra Chintamani" in
+Gujarati language had been dedicated to Jyotish Marthand Prof. K.S.
+Krishnamurti despite the lack of mentioning K.P.
+Many thanks and appreciations to Shri Kanak Bosmia, a competent K.P.
+astrologer and editor of the world's first free K. P. astrological e-magazine "KP
+E-zine" for translating and releasing Prashna Jyotish to the global audience
+in honour of his Guru late Shri Chandrakant R. Bhatt.
+In the first theoretical part of Prashna Jyotish, the author has lucidly explained
+the main requirements of the K.P. astrology: casting a horary chart, house
+grouping by the cuspal sub lord, utility of ruling planets, significators, choice
+of fruitful significators in timing of events and more.
+What makes Prashna Jyotish unique is its unparalleled wealth of depth of
+details. Practical part covers major life events or topics, such as health and
+longevity, financial and professional prospects, as sets and properties, foreign
+travels and relocations, marriage and relationships, children and family matters,
+and much more. Under each topic, detail subject matters are discussed further.
+Professional topic, for instance, includes interviews and examinations, getting
+a desired job and promotion, employment opportunities and career changes,
+job relocation, leaving a job, retirement, reinstatement, independence business
+and partnership, and much more. For each subject matter, the author gives
+specific rules for judgment and then supplies consistent analysis of relevant
+cuspal sub lords, joint dasa period lords and transit. The result is one of the
+most comprehensive horary astrology books with support of eighty five case
+studies.
+Prashna Jyotish is a unique K.P. reference book in predicting whether any life
+event of a native is promised or not by the relevant main cuspal sub lord; if
+it is promised, when it will happen by the joint period dasa-bhukti-antra-
+sookshma lords when transit agrees. It is based on the significations of the
+relevant cuspal sub lord and joint dasa period lords at all the three levels of
+planet, star and sub according to the sub lord theory as referenced to the
+K.P. Readers I to VI. The true K.P. principles and rules have been explained
+and applied in very clear, concise and consistent manner with support of over
+eighty five practical solved examples.
+This book will be of great help to both horary and natal analysis of K.P.
+followers, and anyone interested in giving accurate predictions. A truly must
+read for any serious learner or practitioner of K.P. astrology.
+Tin Win (TW)
+U.S.A., February 24, 2013
+
+
+Acknowledgments
+Prashna Jyotish Part l & 2 was published in 1981 in Gujarati. These books
+were not available. I learnt KP through Late Shri Chandrakant R. Bhatt's
+Guajarati books. This is one of them. I never met Shri Chandrakant Kaka
+personally, but he is my 'Manas Guru'. I learnt KP like Eklaya from Late Shri
+Chandrakant R. Bhatt's Gujarti books. Since long back I thought to publish
+English translation of these books in honour my Guruji Late Shri
+Chandrakant R. Bhatt.
+This is my first book that I am translating. I sincerely hope that it will be
+useful to everyone practicing K.P. system. In future I will translate other books
+of Late Shri Chandrakant R. Bhatt.
+I thank all those who helped me in writing this book. I am particularly thankful
+to Shri Chandrakant R Bhatt's son, Shri Dr. Mayank C. Bhatt, who gave me
+permission to translate this book for benefit of all KP system followers.
+I want to thank Shri R.Satish, Shri Tin Win and Shri Rangarajan
+Krishnamoorthy for reviewing all the chapters patiently and diligently, they
+were very prompt and sent back the updated draft the same day.
+I am also thankful to my students Shri Mahesh Gohil for DTP work, Shri
+Sanganji and Shri Milanbhai Panchal for proof reading.
+Lastly, without the blessing of my parents l would not have been able to
+complete this book. I will remain grateful to them always.
+Kanak Bosmia
+Editor, KPEzine Ahmedabad, Gujarat, India.
+23/5/2013
+
+
+Table of Contents
+Foreword
+.... 6
+Acknowledgements .................................................................................. .7
+Important note for readers ...................................................................... 11
+Part 1: Theory
+Chapter
+1
+Constellation (Nakshatra) .............................................. .15
+Chapter
+2
+Sub Constellation (Up N akshatra}.
+. . .17
+Chapter
+3
+Example Horary Map...
+. ...... 24
+Chapter
+4
+How to construct a Horary chart
+.............. 27
+Chapter
+5
+Bhava Nirdeshak (House significator}.
+. .. 29
+Chapter
+6
+Rahu-Ketu.... .......................................... ..........
+. .... .32
+Chapter
+7
+General strength of a planet.. .................................. .33
+Chapter
+8
+A planet or house 'Connected with' ............................ .34
+Chapter
+9
+Chapter
+10
+Houses for subject matters .......................................... 35
+Significator and its sub lord ....................................... .36
+Chapter
+11
+Cuspal sub lord and its subject matter...
+. .37
+Chapter
+12
+Houses grouping by cuspal sub lord...
+.. ...... .38
+Chapter
+13
+Sublord - Some points to consider .............................. .40
+Chapter
+14
+Sub-Sublord.... . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . ...... .43
+Chapter
+15
+Mystery of Ruling Planets ............................................. 58
+Part 2: Practical
+Example
+1
+Example
+2
+Example
+3
+Example
+4
+Example
+5
+Example
+6
+Example
+7
+Example
+8
+Example
+9
+Example
+10
+Example
+11
+Example
+12
+Example
+13
+Example
+14
+Example
+15
+Example
+16
+Example
+17
+Example
+18
+Example
+19
+Example· 20
+Example
+21
+Example
+22
+Example
+23
+Example
+24
+Example
+25
+Example
+26
+Example
+27
+Longevity...
+. ............................................. .73
+Aunt's longevity....
+.. ................................... .76
+Wife's longevity.......
+. ..... .79
+Disease .......................................................................... 82
+Health ............................................................................ 86
+Eye operation.......................
+. .......... 89
+Success in examination
+..................................... .92
+Scholarship................................
+. ........................ .95
+Research scholarship. ................................................ .98
+Employment ................................................................ .100
+Promotion ..................................................................... .102
+Interview for higher salary.
+. ... 105
+Change in job..
+. . .. . . . .. .
+. ........... .108
+Transfer in service........
+.. .110
+Change in job.
+.113
+Job change ................................................................ .116
+Change of place .......................................................... .118
+Retirement in job . . . . . . .. .. .. .. . . . . . . .. .. .. ..
+. .................... .121
+Leaving the job ........................................................... .124
+Desired job... . .. .
+. . .. .. . . .. .. . . .. .. . . .. ..
+. . .. .. . . .. .. . ..... 127
+Desired post ................................................................ 130
+Green card ................................................................. 133
+Green card... .. .. .. .. .. ..
+.. .. .. .. .. ..
+.. .136
+Reinstatement in current job
+.139
+Reinstatement in current job.
+.. .......................... 142
+Professional examination...
+. ................................. .145
+Future arrangement ................................................... .148
+
+
+Example
+28
+Example
+29
+Example
+30
+Example
+31
+Example
+32
+Example
+33
+Example
+34
+Example
+35
+Example
+36
+Example
+37
+Example
+38
+Example
+39
+Example
+40
+Example
+41
+Example
+42
+Example
+43
+Example
+44
+Example
+45
+Example
+46
+Example
+47
+Example
+48
+Example
+49
+Example
+50
+Example
+51
+Example
+52
+Example
+53
+Example
+54
+Example
+55
+Example
+56
+Example
+57
+Example
+58
+Example
+59
+Example
+60
+Example
+61
+Example
+62
+Example
+63
+Example
+64
+Example
+65
+Example
+66
+Example
+67
+Example
+68
+Example
+69
+Example
+70
+Example
+71
+Example
+72
+Example
+73
+Example
+74
+Example
+75
+Example
+76
+Example
+77
+Success in planning. ................................................... 151
+Independent business ................................................. 154
+Partnership in business...
+. .... .156
+Lottery prizes...... . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . ..... .158
+Acting in cinema
+. . . . . . . . . .
+. .... .160
+Overseas for study ....................................................... 162
+Foreign travel
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+. ...... .165
+Foreign travel for higher education ........................... .168
+Foreign travel with husband
+..........
+..171
+Getting money.
+. ... .174
+Publication of a book ............................................... .177
+News about the missing wife
+.. 180
+Lease license for mines ............................................. .182
+Litigation....
+. . . . . . . . . . .
+. .. 185
+Election . . . . . . . . . . . . .
+. . . . . . . . . . .
+
+## . . . . . . . . . . . .............. J 87
+
+Cricket match ......................................................... .190
+Cricket match....
+. . . . . . . . . . . . .
+. ..... .192
+Cricket match...
+. . . . . . . . . . .
+. .... .194
+Cricket match....
+...........
+.196
+Lost documents .......................................................... .198
+Free from debt .......................................................... 201
+Getting a job.....
+. . . . . . . . . . . . .
+. ... 204
+Purchase of machine
+.......... 207
+Cheating.. . . . . . . . . . .
+. . . . . . . . . . . . . .
+. ................ 210
+Missing brother
+......... 212
+Return of absconding son.......
+. . . . . . . . . . . .
+. ........... 215
+Return of absconding son
+. . . . . . . . . .
+. .............. .218
+Return of runaway son .............................................. 220
+Return of runaway son.
+. . . . . . . . . . . . . . . . . . . . .
+. .............. 222
+Constructing the building
+. . . . . . . . . . .
+. ...... 224
+Buying a house........... . . . . . . . . . .
+. . . . . . . . . .
+. ............ 227
+Selling the house ...................................................... 230
+Selling the house ...................................................... 233
+Selling the house..
+. ................................................. 236
+Selling the house ...................................................... 238
+Possession of inhabited house
+... 241
+Marriage
+. . . . . . . . . . . .
+. . . . . . . . . . . .
+. ... 244
+Marriage of elder sister .............................................. 24 7
+Marriage......
+. . . . . . . . . . . .
+. ....... 250
+Marriage, marriage partner and her education ........ 252
+Marriage of my daughter with this boy?...
+. . 255
+Love marriage....
+. .. 257
+Love marriage..
+. . . . . . . . . . .
+. ... 259
+Inter-religious love marriage....
+. ... 262
+Second marriage ....................................................... 266
+Child birth . . . . . . . . . . . . . . . . . . . . .
+. ............................ 268
+Child birth ..........
+...........
+. ................... 271
+Child birth .................................................................. 273
+Child birth.........
+. . . . . . . . . . . .
+. .......... 276
+Child birth....... . . . . . . . . . . . .
+. . . . . . . . . . .
+. 279
+
+
+Example
+78
+Example
+79
+Example
+80
+Example
+81
+Example
+82
+Example
+83
+Example
+84
+Example
+85
+Part 3: Transit
+Child birth .................................................................. 282
+Child birth.......... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. ...... 285
+Gender of child
+....... 287
+Pregnancy.......
+. ..... 290
+Adopting a child....
+. . . . . . . . . . . . . . . . .
+. .... 292
+Purchase of a car....
+. .... 295
+Purchase of a bus ...................................................... 297
+Contract.....
+. . . . . . . . . . .
+. ................. 299
+Easy Transit System ........................................................................... .303
+Example
+l
+Publication ................................................................ .305
+Example
+2
+Death................................................
+. ................... .307
+Example
+3
+Death of the husband...
+. .. .309
+Example
+4
+Service, Journey, Marriage ........................................ .311
+Part 4: Miscellaneous
+1. Additional house grouping .................................................. .
+
+## 2. Horary calculation for latitude 22° N 33'
+
+3. Aynamsha table .................................................................. .
+
+## 4. Approximate motion of moon ..
+
+. . . . . . . . . . . .315
+...... .319
+. ... .331
+. ..... .332
+5. Approximate motion of ascendant ........................................ . . . . . . . . . .332
+
+
+Important Note for Readers
+1: In this book all Horary charts were prepared for Latitude 22° N 33'.
+Ayanamsha used for 1970 was 23°.20' and then the ayanamsha was adjusted
+approximately for a particular year. Raphael's "Tables of Houses" was used for
+calculation.
+2: I have worked out Sayana based Lagna Bhava calculations and deducted
+Ayanamsha for the corresponding year i.e. year 1981, I have used bhava cusps
+with my calculations. But if we calculate from Raphael's "Table of Houses",
+you may find some differences in calculations for the same horary number.
+Because these calculation were done some years ago and then I had changed
+the Ayanamsha, you would find sometimes, different cusps/sub lords from those
+given in this book. Please keep this important point in mind while reading
+this book.
+3: Assume that querent has a horary question for child birth and gives horary
+number 45. For this question, if two astrologers cast the chart in two different
+cities, for example one astrologer in Ahmedabad and second in Chennai, the
+Deg. Mnt. of relevant bhava cusps will be different. One may predict positive
+result and second negative one. This is my experience and readers are advised
+to keep it in their mind.
+4: If a horary chart is calculated approximately, the differences may be found
+in cusp Deg, Mnt, Sec. Please keep this in mind.
+5: "A horary tables of houses" (for 1 to 249) by Shri R. E. Manu (Shri Rohini
+publications, 202, Road no. 7, Nehrunagar, Secunderabad 26). In this book it
+was found that the author made calculation for year 1976. I had checked it
+with Ayanamsha 23°.25' for year 1976 and noted both matched. Asc is okay
+but other cusp calculations were not correct, so I request readers to be very
+careful when they use any "ready made" calculations.
+6: In this book I have calculated for Latitude 22° N 33' and year 1970. For
+experience I have calculated some horary charts from Raphael's Tables of
+Houses, so do consider it also.
+7: Some use 'Universal Table of Houses', some use Raphael's Tables of Houses',
+some others use simplified tables of houses. We found differences in all above
+mentioned tables. So readers have to be careful about the relevant bhava, if a
+change is found in the relevant bhava sub lord, after changing +/- one min.
+difference. Because if the sub lord is changed, then results also may change.
+Same thing may happen with planets. Many publications are available for
+ephemeris. We have found differences in various ephemeris, especially in Moon's
+Deg, Min. In dasa calculation one min. of difference in Moon's position can
+change the dasa days by 3 to 9. So please be careful in calculations of Moon's
+longitude.
+8: If two persons take the same Tables of Houses and same Ephemeris, even
+then we have found the difference of about 2 min.
+
+
+In calculations, some use logarithms, some use Shri R.E. Manu's 'Astrological
+tables for all'. Thus for the same horary number, same date, same time, same
+place, even then we have found differences in calculations of both cusp and
+antar dasa and so while giving a final judgment both give different opinions.
+Readers should take this also into consideration.
+9: Due to all the reasons cited above, when readers go through anyone's article
+or book, at that time he should prepare the chart himself. In my observation
+in a few articles we have found correct Dasa and Bhukti dasa but Antar dasa
+was found mostly wrong. Also if we calculate with a given time we have found
+the wrong calculations of Moon's position. So I request the readers to verify
+all the details while reading any article/book.
+To make a mistake is very common and human too, so all readers will
+understand my stressing this aspect, based on my personal experience.
+
+
+Part I
+Theory
+
+
+Chapter 1
+Constellation (Nakshatra)
+The zodiac of 360° is divided into three equal parts. First 120° is Aries o• to
+Cancer 30°, second !20° is Leo o• to Scorpio 30°, Third 120° is Sagittarius oo
+to Pisces 30•.
+The zodiac of 360• is divided into three equal parts. Each part contains 120°.
+lt consists of nine equal sections. Each section contains 13 •. 20' or 800'. lt
+begins from o• Aries. Each section is known as Nakshatra or Constellation or
+Star. There are 27 Nakshatras or Constellations or Stars in the whole Zodiac.
+According to Vimshottari Dasa System, each Nakshatra or Constellation or Star
+is ruled in turn by the nine planets in the order of Ketu, Venus, Sun, Moon,
+Mars, Rahu, Jupiter, Saturn and Mercury. This order is fixed and not
+changeable.
+Each planet rules three N akshatras or Constellations or Stars and the ruling
+planet is called the Nakshatra Lord or Constellation Lord or Star Lord. ln short
+we may use the term 'Star' instead of 'Star lord' etc throughout this book.
+Each planet rules three N akshatras or Constellations or Stars. Below are the
+tables of planets which rule each 13• 20' of each Sign.
+Constellation
+Const. Lord
+Sign
+Area
+Ashwini
+Ketu
+Aries
+oo·.oo· to 13°.20'
+Bharni
+Venus
+Aries
+
+## 13 •. 20' to 26° .40'
+
+Krutika
+Sun
+Aries
+
+## 26° .40' to 30° .00'
+
+Krutika
+Sun
+Taurus
+oo·.oo· to 10° .00'
+Rohini
+Moon
+Taurus
+w·.oo· to 23°.20'
+Mrugshirsha
+Mars
+Taurus
+
+## 23 •. 20' to so· .oo·
+
+Mrugshirsha
+Mars
+Gemini
+ooo .oo· to 06°.40'
+Adra
+Rahu
+Gemini
+
+## 06°.40' to 2o·.oo·
+
+Punarvasu
+Jupiter
+Gemini
+
+## 20° .00' to so·.oo·
+
+Punarvasu
+Jupiter
+Cancer
+oo·.oo· to 03° .20'
+Pushya
+Sa turn
+Cancer
+
+## 03° .20' to 16°.40'
+
+Ashlesha
+Mercury
+Cancer
+
+## 16" .40' to so·.oo·
+
+Magha
+Ketu
+Leo
+oo·.oo· to 13° .20'
+Purva Falguni
+Venus
+Leo
+
+## 13• .20' to 26° .40'
+
+Uttra falguni
+Sun
+Leo
+
+## 26°.40' to so·.oo·
+
+Uttra falguni
+Sun
+Virgo
+oo·.oo· to 10° .00'
+Hasta
+Moon
+Virgo
+
+## 1o•.oo• to 23° .20'
+
+
+## PRASHNA JYOTISH
+
+15
+
+
+Chitra
+Mars
+Virgo
+
+## 23° .20' to 30° .00'
+
+Chitra
+Mars
+Libra
+
+## 00° .00' to 06° .40'
+
+Swati
+Rahu
+Libra
+
+## 06° .40' to 20°.00'
+
+Vishakha
+Jupiter
+Libra
+
+## 20° .00' to 30°.00'
+
+Vishakha
+Jupiter
+Scorpio
+
+## 00° .00' to 03°.20'
+
+Anuradha
+Saturn
+Scorpio
+
+## 03°.20' to 16°.40'
+
+J ayeshtha
+Mercury
+Scorpio
+
+## 16° .40' to 30°.00'
+
+Mula
+Ketu
+Sagittarius
+
+## 00°.00' to 13°.20'
+
+Purva Sadha
+Venus
+Sagittarius
+
+## 13° .20' to 26° .40'
+
+Uttra Sadha
+Sun
+Sagittarius
+
+## 26° .40' to 30° .00'
+
+Uttra Sadha
+Sun
+Capricorn
+
+## 00°.00' to 10°.00'
+
+Sharawan
+Moon
+Capricorn
+
+## 10° .00' to 23° .20'
+
+Ghanishtha
+Mars
+Capricorn
+
+## 23°.20' to 30°.00'
+
+Ghanishtha
+Mars
+Aquarius
+ooo .00' to 06° .40'
+Satbhisha
+Rahu
+Aquarius
+
+## 06° .40' to 20° .00'
+
+Purvabhadrapada
+Jupiter
+Aquarius
+
+## 20° .00' to 30°.00'
+
+Purvabhadrapada
+Jupiter
+Pisces
+
+## 00°.00' to 03°.20'
+
+Uttarbhadrapada
+Saturn
+Pisces
+
+## 03°.20' to 16°.40'
+
+Revati
+Mercury
+Pisces
+
+## 16° .40' to 30°. 00'
+
+For example, in a chart Saturn is in Capricorn 27°.05' and Jupiter is in
+Aquarius 4 o .35'. Both planets are between Capricorn 23°.20' to 30° .00' up to
+Aquarius 00°.00' to 6°.40'. That means that both planets are in different signs,
+but the same Nakshatra or Constellation or Star and Nakshatra Lord or
+Constellation Lord or Star Lord is Mars. In other words, Saturn and Jupiter
+are in Mars N akshatras or Constellations or Stars.
+From now we may use
+the term 'Star' instead of Nakshatra Lord or Constellation Lord or Star Lord
+throughout this book. Let us understand by second example, Sun is in Pisces
+
+## 17° .20' in a chart. It is between 16°.40' To 30° in Pisces sign. So Sun is in
+
+the Star of Mercury.
+16
+
+## PRASHNA JYOTISH
+
+
+
+Chapter 2
+Sub Constellation (Up-Nakshatra)
+In Nakshatra system each Nakshatra or Constellation or Star is subdivided
+into nine parts. This Subdivision is called 'Sub'. It is based on the following
+
+## formula:
+
+" Dasa year of each planet
+* The total number of Vimshottari Dasa
+years X Star area = The longitude or extent or area of the Sub for each
+planet in
+any Star or Constellation
+or Nakshatra."
+The planet ruling the longitude or extent or area of the 'sub' in any Nakshatra
+or Constellation or Star is called the Sub N akshatra Lord or Sub Constellation
+Lord or Sub Star Lord or Sub Lord. In short we may use the term "Sub"
+instead of Sub Lord through out this book.
+The above formula of deriving the "Sub" is illustrated as under.
+Planet
+Dasa
+Vimsottari
+Star Area
+Sub Area
+Yr.
+Dasa Yr.
+Min.
+Ketu
+7
+.:.
+
+## 120 X
+
+800'
+oo
+46'
+40"
+Venus
+20
+.:.
+
+## 120 X
+
+800'
+20
+13'
+20"
+Sun
+6
+.:.
+
+## 120 X
+
+800'
+oo
+40' 00"
+Moon
+10
+..:.
+
+## 120 X
+
+800'
+..
+10
+06' 40"
+Mars
+7
+.:.
+
+## 120 X
+
+800'
+..
+oo
+46' 40"
+Rahu
+18
+--
+
+## 120 X
+
+800'
+"'
+20
+00' 00"
+Jupiter
+16
+..:.
+
+## 120 X
+
+800'
+"'
+1"
+46' 40"
+Saturn
+19
+..:.
+
+## 120 X
+
+800'
+-
+20
+06' 40"
+Mercury
+17
+··-
+
+## 120 X
+
+800'
+-
+10
+53'
+20"
+130 20' 00"
+Each Star has 13".20' area, and in each star, sub areas come always the
+same as given in the above table. Each star has nine subs. 27 stars have
+been sub-divided into 243 subs in total. But there are 6 subs repeated in
+Taurus Rahu sub, Cancer Moon sub, Virgo Rahu sub, Scorpio Moon sub,
+Capricorn Rahu sub and Pisces Moon sub. So totally we have 249 subs.
+The following tables show the star and the sub of each cuspal sign of 12
+houses and of each planet in this birth or horary map.
+
+## PRASHNA JYOTISH
+
+17
+
+
+Table A
+Star area in Aries or Leo or Sagittarius
+Ketu
+
+## 00° .00'
+
+to
+
+## 13° .20'
+
+Venus
+
+## 13°.20'
+
+to
+
+## 26°.40'
+
+Sun
+
+## 26 •. 40'
+
+to
+
+## 30°.00'
+
+Sgl
+Stl
+Sbl
+Commencing
+Aries
+Leo
+Sagitt.
+
+## D
+
+
+## M
+
+s
+Mars
+Sun
+Jupiter
+1
+84
+167
+Ketu
+Ketu
+00
+00
+00
+2
+85
+168
+Ketu
+Venus
+00
+46
+40
+3
+86
+169
+Ketu
+Sun
+03
+00
+00
+4
+87
+170
+Ketu
+Moon
+03
+40
+00
+5
+88
+171
+Ketu
+Mars
+04
+46
+40
+6
+89
+172
+Ketu
+Rahu
+05
+33
+20
+7
+90
+173
+Ketu
+Jupiter
+07
+33
+20
+8
+91
+174
+Ketu
+Saturn
+09
+20
+00
+9
+92
+175
+Ketu
+Mercury
+11
+26
+40
+10
+93
+176
+Venus
+Venus
+13
+20
+00
+11
+94
+177
+Venus
+Sun
+15
+33
+20
+12
+95
+178
+Venus
+Moon
+16
+13
+20
+13
+96
+179
+Venus
+Mars
+17
+20
+00
+14
+97
+180
+Venus
+Rahu
+18
+06
+40
+15
+98
+181
+Venus
+Jupiter
+20
+06
+40
+16
+99
+182
+Venus
+Saturn
+21
+53
+20
+
+## I
+
+17
+100
+183
+Venus
+Mercury
+24
+00
+00
+18
+101
+184
+Venus
+Ketu
+25
+53
+20
+19
+102
+185
+Sun
+Sun
+26
+40
+00
+20
+103
+186
+Sun
+Moon
+27
+20
+00
+21
+104
+187
+Sun
+Mars
+28
+26
+40
+22
+105
+188
+Sun
+Rahu
+29
+13
+20
+30
+00
+00
+18
+
+## PRASHNA JYOTISH
+
+
+
+Table B
+Star area in Taurus or Virgo or Capricorn
+Sun
+oo•.oo· to 1o· .oo·
+Moon
+
+## 10".00' to
+
+
+## 23° .40'
+
+Mars
+
+## 23".20' to
+
+
+## 30".00'
+
+Sgl
+Stl
+Sbl
+Commencing
+Voenus Mercury
+Saturn
+
+## D
+
+
+## M
+
+s
+23
+106
+189
+Sun
+Rahu
+00
+00
+00
+24
+107
+190
+Sun
+Jupiter
+01
+13
+20
+25
+108
+191
+Sun
+Saturn
+03
+00
+00
+26
+109
+192
+Sun
+Mercury
+05
+06
+40
+27
+110
+193
+Sun
+Ketu
+07
+00
+00
+28
+111
+194
+Sun
+Venus
+07
+46
+40
+29
+112
+195
+Moon
+Moon
+10
+00
+00
+30
+113
+196
+Moon
+Mars
+11
+06
+40
+31
+114
+197
+Moon
+Rahu
+11
+53
+20
+32
+115
+198
+Moon
+Jupiter
+13
+53
+20
+33
+116
+199
+Moon
+Saturn
+15
+40
+00
+34
+117
+200
+Moon
+Mercury
+17
+46
+40
+35
+118
+201
+Moon
+Ketu
+19
+40
+00
+36
+119
+202
+Moon
+Venus
+20
+26
+40
+37
+120
+203
+Moon
+Sun
+22
+40
+00
+38
+121
+204
+Mars
+Mars
+23
+20
+00
+39
+122
+205
+Mars
+Rahu
+24
+06
+40
+40
+123
+206
+Mars
+Jupiter
+26
+06
+40
+41
+124
+207
+Mars
+Saturn
+27
+53
+20
+30
+00
+00
+
+## PRASHNA JYOTISH
+
+19
+
+
+Table C
+Star area in Gemini or Libra or Aquarius
+Mars
+00~00'
+to
+
+## 06 ... 40'
+
+Rahu
+
+## 06".40'
+
+to
+
+## 20".00'
+
+Sun
+
+## 20".00'
+
+to
+30"
+.00'
+Sgl
+Stl
+Sbl
+Commencing
+Gemini Libra
+Aquar.
+
+## D
+
+
+## M
+
+s
+Mer.
+Venus
+Saturn
+42
+125
+208
+Mars
+Mercury
+00
+00
+00
+43
+126
+209
+Mars
+Ketu
+01
+53
+20
+44
+127
+210
+Mars
+Venus
+02
+40
+00
+45
+128
+211
+Mars
+Sun
+04
+53
+20
+46
+129
+212
+Mars
+Moon
+05
+33
+20
+47
+130
+213
+Rahu
+Rahu
+06
+40
+00
+48
+131
+214
+Rahu
+Jupiter
+08
+40
+00
+49
+132
+215
+Rahu
+Saturn
+10
+26
+40
+50
+133
+216
+Rahu
+Mercury
+12
+33
+20
+51
+134
+217
+Rahu
+Ketu
+14
+26
+40
+52
+135
+218
+Rahu
+Venus
+15
+13
+20
+53
+136
+219
+Rahu
+Sun
+17
+26
+40
+54
+137
+220
+Rahu
+Moon
+18
+06
+40
+55
+138
+221
+Rahu
+Mars
+19
+13
+20
+56
+139
+222
+Jupiter
+Jupiter
+20
+00
+00
+57
+140
+223
+Jupiter
+Saturn
+21
+46
+40
+58
+141
+224
+Jupiter
+Mercury
+23
+53
+20
+59
+142
+225
+Jupiter
+Ketu
+25
+46
+40
+60
+143
+226
+Jupiter
+Venus
+26
+33
+20
+61
+144
+227
+Jupiter
+Sun
+28
+46
+40
+62
+145
+228
+Jupiter
+Moon
+29
+26
+40
+30
+00
+00
+20
+
+## PRASHNA JYOTISH
+
+
+
+Table D
+Star area in Cancer or Scorpio or Pisces
+Jup. oo· .00'
+to
+
+## 03".20'
+
+Sat.
+
+## 03" .20'
+
+to
+
+## 16° .40'
+
+Mer.
+
+## 16° .40'
+
+to 30° .00'
+Mercury
+Commencing
+Cancer Scor.
+Pisces
+
+## D
+
+
+## M
+
+s
+Moon
+Mars
+Jupiter
+63
+146
+229
+Jupiter
+Moon
+00
+00
+00
+64
+147
+230
+Jupiter
+Mars
+00
+33
+20
+65
+148
+231
+Jupiter
+Rahu
+01
+20
+00
+66
+149
+232
+Saturn
+Sa turn
+03
+20
+00
+67
+150
+233
+Sa turn
+Mercury
+05
+26
+40
+68
+151
+234
+Saturn
+Ketu
+07
+20
+00
+69
+152
+235
+Saturn
+Venus
+08
+06
+40
+70
+153
+236
+Saturn
+Sun
+10
+20
+00
+71
+154
+237
+Sa turn
+Moon
+11
+00
+00
+72
+155
+238
+Saturn
+Mars
+12
+06
+40
+73
+156
+239
+Saturn
+Rahu
+12
+53
+20
+74
+157
+240
+Saturn
+Jupiter
+14
+53
+20
+75
+158
+241
+Mercury
+Mercury
+16
+40
+00
+76
+159
+242
+Mercury
+Ketu
+18
+33
+20
+77
+160
+243
+Mercury
+Venus
+19
+20
+00
+78
+161
+244
+Mercury
+Sun
+21
+33
+20
+79
+162
+245
+Mercury
+Moon
+22
+13
+20
+80
+163
+246
+Mercury
+Mars
+23
+20
+00
+81
+164
+247
+Mercury
+Rahu
+24
+06
+40
+82
+165
+248
+Mercury
+Jupiter
+26
+06
+40
+83
+166
+249
+Mercury
+Saturn
+27
+53
+20
+30
+00
+00
+
+## PRASHNA JYOTISH
+
+21
+
+
+Explanation of Table A, B, C & D
+The table A is meant for Aries, Leo and Sagittarius; the table B for Taurus,
+Virgo and Capricorn; the table C for Gemini, Libra and Aquarius and the table
+D for Cancer, Scorpio and Pisces.
+In the beginning of each table the Star area of each planet in each sign is
+given e.g. in the table A Ketu star area extends from oo to 13°.20' in Aries or
+Leo or Sagittarius and in the tables B and C Mars star extends from 23°.20'
+Taurus or Virgo or Capricorn to 6° .40' Gemini or Libra or Aquarius and so on
+with other star areas.
+Each table contains four main columns. The Column 1 contains Sign, Sign
+Lord 8B Serial No., for example in table A, Sign Aries is written first; Sign lord
+Mars is marked below Aries; Serial No.'s 1 to 22 are mentioned below Mars
+and so on with the other Signs, Sign Lords & Serial No.'s.
+The Column 2 shows the Star Lord, Column 3 the Sub Lord and the Column
+4 contains the commencing position of each Sub Lord in the Star area of each
+planet.
+Example : ln the table A in the Star area Ketu in Aries or Leo or Sagittarius,
+the Sub of Ketu begins from oo .00" and ends at 0° .46' .40". So the Sub of
+Venus starts at 0°.46'.40", add 2°.13'.20"(Sub area of Venus) and you get the
+starting position of Sun Sub at 3° .00' .00", add oo .40' .0" (Sub area of Sun),
+then the Sub of Moon starts at 3° .40' .0" in Aries or Leo or Sagittarius. Repeat
+this procedure and the commencing position for all Subs in each star in each
+sign will be obtained.
+249 Subs and their Serial Numbers
+27 stars have been sub divided into 243 subs. Referring to the Tables A, B, C
+and D, in six cases the same star and the same sub will be found in the
+adjoining signs e.g. Sun Star Rahu Sub in Aries or Leo or Sagittarius 29°.13'.20"
+to 30° (Table A) goes on up to Taurus or Virgo or Capricorn 1°.13'.20" (Table
+B). Jupiter star Moon sub in Gemini or Libra or Aquarius 29°.26'.40" to 30°
+(Table C) extends up to Cancer or Scorpio or Pisces oo .33' .20" (Table D). Take
+these six subdivisions into account and you will get 249 subdivisions in total.
+Thus the Zodiac is divided into 249 parts. Each part has been given a serial
+number.
+In Aries the serial no. starts from l and ends at 22; in Taurus from 23 to 41;
+in Gemini from 42 to 62; in Cancer from 63 to 83 and in Leo from 84 to 105
+and so on. Each serial no. mentions the sign, the sign lord, the star lord, the
+sub lord and the commencing position of each sub. The sign lord remains
+constant for the whole sign. These serial numbers are very useful in erecting
+horary maps. This will be discussed later on.
+From these tables you can say that each degree and minute of the Zodiac is
+ruled by the sign lord, the star lord and the sub lord. In other words, each
+degree and minute is jointly ruled, governed or operated by three planets, out
+of which one becomes the sign lord, the other is the star lord and the third
+is the sub lord.
+For instance in the Table A the serial no. 6 shows that Aries 5°.33'.20" is
+jointly ruled or governed or operated by Mars (as the sign lord); by Ketu (as
+the star lord) and by Rahu (as the sub lord).
+The serial no. 98 indicates that Leo 20°.6'.40" is jointly operated by Sun (as
+22
+
+## PRASHNA JYOTISH
+
+
+
+the sign lord), Venus (as the star Lord) and Jupiter (as the sub lord).
+The serial no. 187 denotes that the Sagittarius 28° .26'40" is jointly governed
+by Jupiter (as the sign lord), Sun (as the star lord) and Mars (as the sub
+lord).
+The serial nos. in the Tables B, C and D may be understood in the same way
+as explained above.
+
+## Sub lord:
+
+For example in the chart, Sun is in Aries 10°.49', thus in table A, under Aries,
+under number 8 we found that sign lord Mars, Star lord Ketu and Sub lord
+Saturn. In other word we can say Sun is in the star of Ketu and sub of
+Saturn.
+If Venus is in Pisces 10°.9', thus in table D, under Pisces, under number 240
+we fund that sign lord Jupiter, Star lord Saturn and Sub lord Jupiter. In
+other word we can say Venus is in the star of Saturn and sub of Jupiter.
+We can find sub lord of any cusp or planet as given in the example.
+
+## PRASHNA JYOTISH
+
+23
+
+
+Chapter 3
+Example Horary Maps
+Erecting the Horary Map
+(a) When a person consults you, ask him to give a number between I and
+
+## 249. The number given is taken as the Asc. Then from the number find out
+
+the sign, star and sub. Note the commencing position in degree, minute and
+second of this number. You have to erect the map and calculate the other 11
+cusps for the latitude of the place from where you judge the query. Work out
+the positions of the planets for the time at which you start erecting the map
+for judgment. The method of finding out the positions of the other 11 cusps
+of the houses is explained in the example given here under.
+(b) Even when question is asked from any corner of world, place of horary
+must be the place where astrologer is erecting the chart. Take the longitude
+and latitude of place of horary at the start of calculation.
+Note down planetary position and put it in calculated horary chart, of which
+day and time astrologer start work on horary calculations.
+Example
+Suppose you want to find out the pos1t10n of the cusps of the houses for the
+number 45 out of 249 for the year 1980. Place of judgement is Ahmedbad 23°
+N 02', no E 37'.
+Now look at the Table C for Subs in Nakshatra System in the chapter 2. (Page
+
+## -20) Note the particulars about the serial no. 45 as under:
+
+Serial No
+Sign
+Sign lord
+Star lord
+45
+Gemini
+Mercury
+Mar
+Sub lord
+Sun
+Commencing
+position
+04° 53' 20"
+Take Gemini 04°.53'.20" as the Asc, according to the Nirayana system. We
+have to calculate the other 11 cusps for the latitude of the place from where
+we judge the query, from Raphael's Tables of Houses which is according to
+
+## the Sayana system. So proceed as under:
+
+Asc. for the horary No. 45
+Add Ayanamsa for 1980 and get the Sayana Asc.
+(a)
+Gemini 04°.53'.20" + Ayanamsa 23° .29' .00" = Gemini 28°.22'.20"
+Refer to Raphael's Tables of Houses and open the page of Lat. 23° N 33' for
+Ahmedabad 23° N 2', the place of judgment.
+(b) Asc. Gemini 28° .22' .20" falls between the Asc. degrees.
+Gemini 27° .40' .00"
+Gemini 28° .35' .00"
+(c) Write down the cusps given in the row of Gemini 28°.35' and 27°.40'.
+Subtract the lesser from the greater and reduce the difference to minutes.
+24
+
+## PRASHNA JYOTISH
+
+
+
+10
+11
+12
+Asc
+2
+3
+Ps.
+Ar.
+Ta.
+Ge.
+Ca.
+Le.
+170
+
+## 2P
+
+26°
+28° 35'
+22°
+18°
+- jQO
+_]Q_o
+
+## 2.,io
+
+
+## 2ZO 4Q'
+
+22°
+_llo
+
+## ., OP
+
+
+## OP
+
+
+## OP
+
+
+## 00° .55'
+
+00°
+
+## OP
+
+= 60'
+60'
+60'
+
+## 00°.55'
+
+00'
+60'
+(d) Subtract the lesser Asc. in the Table of Houses shown in (b) from the
+required Asc. shown in (a) and reduce the difference to minutes.
+Gemini
+28°
+22'
+20"
+- Gemini
+n..::_
+
+## .1.Q.:
+
+.ill!.::.
+00°
+42'
+20"
+= 42'
+(e) Get the proportionate movement for the other cusps (except the Asc.) from
+(c) and (d) by the Rule of Three.
+55' : 42' : : 60' = 46'
+55' : 42' : : 00' = 00'
+(f) Add the proportionate movement of (e) to the degree of each cusp of the
+houses (except the Asc.) corresponding to the lesser Asc. in the Tables Hoses
+shown in (c).
+10
+Ps.
+
+## 16°.00
+
++
+Q.Q.o~
+11
+Ar.
+
+## 20° .00'
+
+
+## 00°.46'
+
+12
+Asc
+Ta.
+Ge.
+
+## 25° .00'
+
+
+## 28°.22'.20"
+
+
+## 00° .46' ooo .46'
+
+2
+Ca.
+
+## 22°.00'
+
+3
+Le
+
+## 1r.oo·
+
+These are the Sayan a cusps for the horary number 45.
+Prepare cusps of 12 houses for every number between 1 and 249 in this
+manner. These cusps will be the Say ana cusps for the houses 10, 11, 12, 2
+and 3. So far as the Asc. is concerned, keep the commencing position of the
+Sub according to the Nirayana system as it is e.g. for the number 45, keep
+Gemini 04°.53'.20" as it is.
+The Sayana cusps (for the houses 10, 11, 12, 2 and 3) for all 249 numbers
+will remain constant for any year. For getting the Nirayana cusps you have to
+deduct the Ayanamsa for the required year. So it is desirable to keep a ready
+reckoner for the place of your permanent stay. This will save much of your
+time.
+(g) Deduct Ayanamsa
+Nirayana Cusps.
+
+## 23°.29' from the Sayana Cusps shown in (f) and get the
+
+10
+11
+Ps.
+
+## 16° .46'
+
+
+## 23".29'
+
+Ar.
+
+## 20° .46'
+
+
+## 23°.29'
+
+12
+Ta.
+
+## 25° .46'
+
+
+## 23°.29'
+
+Asc
+Ge.
+
+## 28° .22' .20"
+
+
+## 23°.29'
+
+2
+Ca.
+
+## 22°.00'
+
+
+## 23°.29'
+
+Aq.
+Ps.
+Ta.
+Ge.
+Ge.
+
+## 23°.17' 27°.17' 02°.17'
+
+
+## 04°.53'.20"
+
+
+## 28°.31'
+
+3
+Le
+
+## 1 r .46'
+
+
+## 23° .29'
+
+Ca.
+
+## 24° .17'
+
+(h) The remaining Cusps will bear the same degree of the opposite signs in
+each case.
+
+## PRASHNA JYOTISH
+
+25
+
+
+4
+Le.
+
+## 23°.17'
+
+5
+6
+7
+8
+9
+Vi.
+Sc.
+Sg.
+Sg.
+Cp.
+
+## 27°.17' 02°.17' 04°.53'.20" 28°.31' 24°.17'
+
+These are the Nirayana Cusps of 12 houses for the number 45. Thus a horary
+map of the Cusps is ready.
+You have to work out only the positions of the planets for the time of judging
+the query and to insert them in the map. Then the horary map is ready for
+judgment.
+
+## Second method for easy horary calculation :
+
+1) Asc. for the horary No. 45 is Gemini 04 •. 53'.20". Add Ayanamsa for 1980
+and get the Sayana Asc. Such as,
+Gemini 04°.53'.20" + Ayanamsa
+
+## 23° .29' .00" = Gemini 28°.22'.20"
+
+Refer to Raphael's Tables of Houses and open the page of Lat. 22°N 33'. For
+Ahmedabad 23° N 02', which is place ofjudgment. Find nearest degree to Asc.
+Asc Gemini 28 •. 22'.20" falls very near to Asc. degrees which is Gemini
+27 • .40'.00". Subtract the lesser from the greater and reduce the difference to
+minutes.
+Gemini
+280 22' 20"
+- Gemini
+27° 40' 00"
+ooo 42' 20"
+proportionate movement
+3) Add the proportionate movement of (2) to the degree of each cusp of the
+houses (except the Asc.) equally. Deduct Ayanamsha for 1980.
+10
+11
+12
+Asc
+2
+3
+Ps.
+Ar.
+Ta.
+Ge.
+Ca.
+Le
+
+## 16° .00' 2o·.oo· 26° .00'
+
+
+## 28° .22' .20" 22·.oo· 11·.oo·
+
++ ooo_.42' oo•.42'
+.Q.Q.o .4 2'
+ooo 42'
+oo·.42'
+
+## 16°.46' 20°.46'
+
+
+## 25° .46'
+
+
+## 28°.22'.20" 22°.46'
+
+18 • .46'
+- 23 •. 29' 23°.29'
+
+## 23°.29' 23°.29'
+
+
+## 23 •. 29'
+
+
+## 23°.29'
+
+Aq.
+Ps.
+Ta.
+Ge.
+Ge.
+Cn.
+= 23°.13' 27°.13' 02°.13' 28° .22' .20"
+
+## 29°.13'
+
+
+## 24°.13'
+
+The remaining Cusps will bear the same degree of the opposite signs in each
+case.
+4
+5
+6
+7
+8
+9
+Le.
+Vi.
+Sc.
+Sg.
+Sg
+Ca
+
+## 23°.13' 27°.13' 02°.13' 28° .22' .20" 29°.13' 24°.13'
+
+Now a days this easy method of calculating horary map has become popular.
+26
+
+## PRASHNA JYOTISH
+
+
+
+Chapter 4
+How to Construct a Horary Chart
+Example : Horary Chart
+Horary No: 45/249, Horary Date : 21-11-1980, Friday, 05.30 AM 1ST
+Horary Place: Ahmedabad : 23° N 02', 72° E 35', Aayanamsha: 23° .29'
+Ra21Cn13
+Planet
+Sgn Stl Sbl
+Sun
+Ma
+Sa
+Sa
+Moon
+Ma
+Ve
+Mo
+Mars
+Ju
+Ke
+Ra
+Mercury
+Ve
+Ra
+Ve
+Jupiter
+Me
+Mo
+Mo
+Venus
+Ve
+Ma
+Ve
+Saturn
+Me
+Mo
+Ra
+Rahu
+Mo
+Me
+Ve
+Ketu
+Sa
+Mo
+Ve
+~
+Mo 17:19
+Ra 21:13
+11124:17
+Mo 17:19
+
+## XII 02:17
+
+
+## I 04:53:20
+
+1128:31
+)(127:17
+Ra 21:13
+11124:17
+
+## X23:17
+
+
+## IV 23:17
+
+
+## IX24:17
+
+Ka 21:13
+Ju 10:59
+Sa 13:24
+Vlll28:31
+Su 05:21
+v 27:17
+Ma 05:42
+Ve02:45
+
+## VII 04:53:20 VI 02:17
+
+Ma15:57
+Cusp Sgn Stl Sbl
+1
+Me
+Ma
+Su
+2
+Me
+Ju
+Ve
+3
+Mo
+Me
+Ra
+4
+Su
+Ve
+Sa
+5
+Me
+Ma
+Ju
+6
+Ma
+Ju
+Ra
+~
+
+## IX 24:17
+
+Ke 21:13
+Cusp Sgn
+Stl Sbl
+7
+Ju
+Ke
+Ma
+8
+Ju
+Su
+Ma
+9
+Sa
+Ma
+Ra
+10
+Sa
+Ju
+Sa
+11
+Ju
+Me
+Ju
+12
+Ve
+Su
+Ju
+A) The Example Horary chart
+is for Gemini Lagna. As
+mentioned before, the first
+Cusp is Gemini 4° .53.20" i.e.
+Lagna beginning point. In an
+anti-clockwise direction 02-28-
+31
+is
+second
+Cusp;
+02
+indicates Gemini; 28 is degree
+and 31 is minute. In this way
+all the 12 cusps have been
+written in the above chart.
+Ve 02:45
+Me 15:57
+B) If planet's longitude is less
+than the cuspal degree, we
+have to place that planet behind the cusp; in this horary chart the 5th cuspal
+degree is 27° Vi 17' and Saturn is in
+13• Vi 24', so we need to write Saturn
+behind this cuspal degree. Rahu is in Cancer 21 •. 13' and the third cuspal
+
+## PRASHNA JYOTISH
+
+27
+
+
+degree is Cancer 24°. 17', so we
+have to mention Rahu behind third
+cuspal degree, and it is said that
+Rahu is in the 2nd house, not in
+3rd house.
+C) If any planet is located within
+5 degrees of the cuspal degree of
+a house, then that planet excerts
+its influence on both the houses.
+For example the 3rd Cusp is Cancer
+
+## 24°.17' and Rahu is in Cancer
+
+2 1 o. 13'. The deference between
+positions of Rahu and 3rd Cusp is
+approx 3 degress. So in this
+situation Rahu gives the results of
+both the 2nd and the 3rd houses.
+Like this Ketu in 8th cusp and near
+to 9tl
+so Ketu gives the results of both the 8th and the 9th houses.
+D) If a planet's longitude is more than the cuspal degree, we have to place
+that planet after the cusp;
+in
+this horary chart the 6th cuspal degree is
+
+## 7°.02'.17" and Sun is in 7°.05'.21", so we need to write Sun after this cuspal
+
+degree. We can say that Sun is in the 6th house.
+E) In this chart it is not fixed for every house to have 30 degrees. Sometimes
+it will be less than 30 degre"s and at times it will be more than 30 degrees.
+In this norary example 7th house commences from Sagittarius 4°.53'.20" and
+extends up to Sagittarius 28o .31 '. So the 7th house is of 23° .37' .40" dimension,
+not exact 30 degrees. If we check 12th house, it begins from Taurus 2°.17' and
+ends at Gemini 4° .53' .20", and its dimension is 32°.36'.20". This shows us
+that it is not fixed for each and every bhava to have 30 degrees of equal
+dimensions. Also the 5th house commences from Virgo 27°. 17' and extends up
+to Scorpio 2°. 17', and Libra comes within this 5th house, and we can say that
+Libra is Galit or 'intercepted' sign.
+F) Sign lord of the beginning position of house is called as house (bhava) lord
+or bhavesh. In our example horary chart, 7th cusp begins from Sagittarius
+4°.53'.20', 8th cusp from Sagittarius 28°.31' and lith cusp from Pisces 27°. 17'.
+So we can say that 7, 8 and 11th house lord or bhavesh is Jupiter. In this
+way 9th cusp is in Capricorn 24°.17' and 10th cusp in Aquarius 23°.17', so we
+can say that lord of 9th and 10th houses is Saturn. 4th cusp is in Leo 24°. 17',
+so we can say that 4th lord or bhvesh is Sun.
+G) Planet is in Bhava or Cusp call as occupant. In our example horary chart,
+Jupiter and Saturn is in 4th So we can say that Jupiter and Saturn occupant
+of 4th. Mercury and Venus is in 5th So we can say that Mercury and Venus
+occupant of 5th. Like this Mars in 7th so we can say Mars is occupant of 7th.
+28
+
+## PRASHNA JYOTISH
+
+
+
+Chapter 5
+Bhava Nirdeshak (House Significators)
+Generally planet give result of its occupation in bhava, owner of bhava, and
+aspect on bhava, Karaka of related bhava are considered as signification of
+planet.
+In the horoscope the sign is on the cusp of each house. A planet always
+occupies the sign and its strength is determined according as it occupies its
+own sign, exalted sign or debilitated sign. So the occupant in a sign is stronger
+than the owner of the sign.
+The sign is the !/12th part of the Zodiac, while the Constellation or Star is the
+l/27'h part of the Zodiac. So the Constellation or Star is stronger than the
+sign.
+Hence the planet in the star is stronger than its Star lord (which may be
+either the occupant or the owner of the sign).
+The occupant (planet) in a sign mostly gives the results of the house occupied
+by it. So the planet in the star better gives the results of the house occupied
+by its star lord.
+Keeping these principles in mind, the order of strength of the significators of
+
+## each house should be determined as under:
+
+
+## Selection of significator:
+
+1) A planet in the star of the occupant of a house is stronger than the occupant.
+So it should be given first preference as a significator of that house, because
+it is strongest to give the results of the house occupied by its Star lord. The
+occupant remains as a weak significator of that house.
+2) If there is no planet in the occupant's Star, the occupant becomes the strong
+significator of that house and it is strong to give the results of that house. So
+the second preference should be given to the occupant of that house.
+3) If the house is vacant, the planet in the star of the owner of a house is
+stronger than the owner. So it becomes a strong significator of that house and
+it is strong to give the results of that house. Hence the third preference should
+be given to the planet in the owner's star and the owner remains a weak
+significator of that house.
+4) If the house is vacant and if there is no planet in the owner's star, the
+owner itself becomes the strong significator of that house and it is strong to
+give the results of that house. So the 4th preference should be given to the
+owner of that house.
+5) (a) A planet in conj. or associatiOn with, or aspected by a significator gives
+the results of the house or houses denoted by that significator. So the last
+preference should be given to the planet in conj. or aspect with that significator.
+(b) A planet's star lord aspecting the house may be considered as the significator
+of that house. For example planet A is in the star of B, and B aspects 11,
+thus planet A is significator of 11.
+
+## PRASHNA JYOTISH
+
+29
+
+
+Example Horary Chart
+Horary No: 45/249, Horary date: 21-11-1980, Friday, 5.30 AM,
+Horary Place: Ahmedabad: 23o N 02', 72o E 35'
+(Please refer to charts on Page No. 27)
+Planet
+Sun
+Moon
+Mar
+Mer
+Jup
+Ven
+Sat.
+Rahu
+Ketu
+Planet
+in House
+6
+11
+7
+5
+4
+5
+4
+2/3
+8/9
+Table A: Planet Significtion
+House
+Star Lord Planet
+Lord
+in House
+4
+Sat
+4
+3
+Ven
+5
+6
+Ket
+8/9
+1, 2, 5
+Rahu
+2/3
+7, 8, 11
+Moon
+11
+12
+Mar
+7
+9,10
+Moon
+11
+3
+Mer
+5
+9,10
+Moon
+11
+House Lord
+9, 10 .
+12
+9, 10
+3
+3
+6
+3
+1, 2, 5
+3
+Signification
+House Planet
+Table B: House (Bhava)
+Occupant Planet in
+of the
+owner's
+House(B)
+Star(C)
+Owner
+Planet in conj.
+Asc
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+in the
+occupant's
+star( A)
+Mer
+Rahu
+Jup
+Sun
+Sat
+Moon
+Ven
+Rahu
+Mer
+Sun
+Ven
+Mar
+Mar
+Ketu
+Jup-Sat-Ketu Moon
+Explanation of Table B
+of the
+Or aspect with
+House(D) the strong
+Rahu
+Mer
+Rahu
+Mer
+Jup-Sat-Ket Moon
+Sun
+Rah
+Mer
+Ven
+Mar
+Jup
+Jup
+Sun
+Sat
+Sun
+Sat
+Jup
+Moon
+Ven
+significa tor(E)
+Ven
+Sat-Ket-Jup-Sun
+Sat-Ket
+Ven-Mer
+Mer-Moon
+Rah
+Sat-Ket-Jup-Sun
+Ven-Mer
+1"' House: No planet is occupant of the l st house. So the first two (A & B)
+columns are empty (mentioned as -). Rahu is in the star of Merury, owner
+of 1st house. So Rahu is mentioned in 3rd (C) column and Rahu is a strong
+significator of Asc. or first house.
+2nd House: Rahu is an occupant of the 2nd house. Mercury is in the star of
+Rahu. So Mercury is shown in first (A) column and Mercury is a strong
+significtor of second house.
+30
+
+## PRASHNA JYOTISH
+
+
+
+3rd House: No occupant planet is in the 3rd house. So the first two (A & B)
+columns are empty (mentioned as - ). Jupiter, Saturn and Ketu are in the
+star of Moon, owner of 3rd house. So Jupiter, Saturn and Ketu are mentioned
+in 3rd (C) column as strong significators of 3rd house.
+4th House: Jupiter and Saturn are occupants of the 4th house. No planet is in
+the star of Jupiter. Sun is in the star of Saturn. So Sun is in first (A) column.
+Jupiter has no planet in it's stars. So Jupiter and Sun are the strong
+significators of fourth house.
+5th House: Venus and Mercury are occupants of the 5th house. Moon is in the
+star of Venus, and Rahu is in the star of Mercury. So Rahu and Moon are in
+the first (A) column and Rahu and Moon are the strong significators of fifth
+house.
+6th House: Sun is an occupant of the 6th house. So Sun is in the second (B)
+column. No planet is in the stars of Sun. So Sun is the strong significator of
+sixth house.
+7th House: Mars is an occupant of the 7th house. Venus is in the star of Mar.
+So Venus is in the first (A) column and it is the strong significator of seventh
+house.
+8th House: Ketu is occupant of the 8th house. Mar is in the star of Ketu. So
+Mars is in the first (A) column and Mars is th strong significator of eight
+house.
+9th House: No planet is occupant of the 9th house. So the first two (A & B)
+columns are empty (mentioned as - ). House lord is Saturn and Sun is in the
+star of Saturn. So Sun is mentioned in the 3rd (C) column and
+Sun is the
+strong significator of ninth house.
+10th House: No planet is occupant of the lOth house. So the first two (A & B)
+columns are empty (mentioned as - ). House lord is Saturn and Sun is in the
+star of Saturn. So Sun is mentioned in the 3rd (C) column and Sun is the
+strong significator of tenth house.
+11th House: Moon is an occupant of the 11th house. Jup-Sat-Ketu are in the
+star of Moon. So Jup-Sat-Ketu are in the first (A) column and Jup-Sat-Ketu
+are the strong significators of eleventh house.
+12th House: No planet is occupant of the 12th house. So the first two (A & B)
+columns are empty (mentioned as - ). House lord is Venus and Moon
+is in
+the star of Venus . So Moon is mentioned in the 3rd (C) column and Moon is
+the strong significator of twelfth house.
+
+## PRASHNA JYOTISH
+
+31
+
+
+Chapter 6
+Rahu-Ketu
+
+## 1. Rahu-Ketu as agent
+
+Rahu or Ketu is not allotted the ownership of any sign. It only occupies the
+sign in a house. So Rahu or Ketu works as an agent or representative of the
+planet with whom it is in conj. or aspect; the owner of the sign in which it is
+placed; and also star lord of Rahu-Ketu. So when Rahu or Ketu becomes agent
+of any planet we have to consider Rahu or Ketu in place of that planet because
+Rahu or Ketu is more powerful than any other planet.
+
+## 2. Rahu & Ketu and their significance
+
+Rahu or Ketu works as an agent or representative of the significators with
+whom it is in conj. or aspect; or the owner of the sign of significators in
+which it is placed, and gives the results of significators as per given order.
+Example Horary chart No. 1: (Page No: 27)
+Rahu is aspected by Mars which owns 6 and occupies 7. So it will indicate
+the matters of the houses 6, 7 as an agent of Mars. Ketu is in Capricorn sign,
+so Ketu give the results of Saturn, i.e. 9, 10 as house lord and 4 as occupant.
+Ketu is aspected by Jupiter, which owns 7, 8, 11
+and occupies 4. So it will
+indicate the matters of the houses 7, 8, 11, 4 as an agent of Jupiter.
+32
+
+## PRASHNA JYOTISH
+
+
+
+Chapter 7
+General Strength of a Planet
+Strength by Occupant
+A planet mostly gives the results of the house occupied by it and its owner
+comes next in order. Of the houses the angles stand first in strength, next
+the succeedents and then the cadents. The owner of the house 6, 8 or 12 (as
+counted from any particular house to be judged) becomes weak, evil or malefic
+in effects.
+
+## Strength by sign:
+
+The nature of the sign (e.g. cardinal or movable, fixed, or common or mutable;
+fiery, earthy, airy or watery; fruitful or barren; human or bestial; mute or
+voice; masculine or feminine etc) on the cusp and that occupied by a planet
+influences the affairs of the house and the planet.
+Strength by aspect
+A planet in conj. or association with, or aspected by a malefic (i.e. the owner
+of 6, 8 or 12) becomes weak or afflicted. An aspecting planet modifies the
+results of the house matters according as it is a natural benefic or malefic,
+friendly or inimical. In this star system we have to consider only Vedic aspect
+(i.e. Rasi to Rasi).
+In stellar system
+Planet in the star of strong planet by owner or occupant or sign or aspect it
+will gives result of its star lord. If planet is in the star of weak planet, planet
+gives weak result of its star lord.
+
+## PRASHNA JYOTISH
+
+33
+
+
+Chapter 8
+A planet or house 'Connected With'
+
+## 1. A planet connected with another planet
+
+(a). Suppose Mercury occupies Aries or Scorpio; or
+(b) it is in the star or sub of Mars; or
+(c) it is in conj. with or aspected by Mars, then it may be said that Mercury
+is connected with Mars.
+
+## 2. A planet connected with any house
+
+(a) Suppose Mercury is the owner or Star lord or Sub lord of the 6th cusp; or
+(b) it occupies the 6th house; or
+(c) it aspects the 6th house; or
+(d) it is in the star or sub of the occupant of the 6th house; or
+(e) it is in the star or sub of the owner of the 6th house; or
+(J) it is in conj. with or aspected by the owner of the 6th house, then it may
+be said that Mercury is connected with the 6th house.
+
+## 3. A house or its owner connected with the house 6, 8 or 12
+
+(a) Suppose the owner of 6, 8 or 12 occupies or aspects the 1st house, then it
+may be said that the 1st house is connected with the house 6, 8 or 12.
+(b) I. Suppose the owner of the 1st house (Lagnesh) occupies the house 6, 8
+or 12; or
+
+## 2. it is in the star of the owner of the house 6, 8 or 12; or
+
+
+## 3. it is in conj. with or aspected by the owner of the house 6, 8 or 12, then
+
+it may be said that the owner of the 1st house (Lagnesh) is connected with
+the house 6, 8 or 12.
+
+## 1. Difference between signification by star and sub.
+
+Planet gives result of star and sub indicating house. The difference between
+
+## the two can be explained thus:
+
+Suppose in Capricorn Lagna, Sun is owner of 8 and occupant of 6. Sun is in
+the star of Jupiter. Jupiter is owner of 3, 12 and occupant of lOth. Sun is in
+the sub of Saturn. Saturn is owner of 1, 2 and occupant of 4th.
+We mention above Sun as: Sun is significator of 10, 3, 12 and connected with
+8, 6, 1, 2, 4.
+34
+
+## PRASHNA JYOTISH
+
+
+
+Main House
+Cuspal SubLord
+1
+6
+4
+4
+7
+5
+12
+6
+2
+
+## PRASHNA JYOTISH
+
+Chapter 9
+Houses for Subject Matters
+Longevity
+1, 8, 3
+
+## A
+
+Karaka planet Sat.
+Cure of disease
+(1' 5, 11)
+Education
+(4, 9, 11)
+Construction of a building
+( 4, 11' 12)
+Marriage
+(2, 7, 11)
+Childbirth
+(2, 5' 11)
+Foreign travel
+(3, 9, 12)
+Service/Business
+(2, 6, 10)
+Gain of money
+2, 6, 11
+(2, 6, 11)
+
+## B
+
+Death (2, 7, 12, B adhaka).
+12th house from any house
+indication is negative. From
+1, 8, 3 for longevity, if we
+consider 12th house, we get
+2, 7, 12. Also for Death in
+Movable (Char) rasi 11th,
+Fix (Sthir) rasi 9th and
+Dual (Dwishwabhav) 7th is
+Badhaka.
+Disease
+(6, 8, 12)
+End of Education
+(3' 8' 5)
+Sell of a building
+(3, 5, 10)
+No Marriage
+(1,6, 10)
+No Childbirth
+(1, 4, 10)
+Return to home land
+(2, 8, 11)
+Change in Service/Business
+(1' 5' 9)
+Loss of money 8, 12
+(8' 12)
+35
+
+
+Chapter 10
+Significator and its Sub Lord
+l. The significator shows the source of an event. The matters especially of the
+house occupied and owned by it serve as the source.
+2. The significator gives the results of its star lord. So the star lord becomes
+the indicator of the matters of the house occupied and owned by it and also
+of the house aspected by it.
+3. The sub lord of the significator is the deciding factor regarding the matters
+of the star lord.
+If the sub lord is harmonious to the matters indicated by the star lord, the
+significator gives favourable results.
+If the sub lord is detrimental to the matters indicated by the star lord, the
+significator gives unfavourable results.
+4. The significator gives during its period (Dasa), sub period (Bhukti) or inter
+(Antra) period the results of its star lord. Or, the results of the star lord are
+experienced during the joint period (i.e. during the period (Dasa), sub period
+(Bhukti) and inter period (Antra)) of the significator, its star lord and its sub
+lord.
+For example if we are looking for marriage, we have to take significators of 2,
+7, 11 houses (planets in the star of occupant or owners of 2, 7,
+
+## 11). If the
+
+sub lord of the above mentioned signficators is connected with 2,
+7,
+
+## I I
+
+houses, then only these significators give marriage during the joint period of
+Dasa, Bhukti, Antra of relevant significators. But if this sub lord signifies only
+l,
+6,
+10 (12th from 2, 7, ll - No marriage), then these significators never
+give marriage during the joint period of Dasa, Bhukti, Antra. Check "houses
+for subject matters" in the previous Chapter-9 given in the table.
+
+## 5. In short, the significator denotes the time when it will give the results of
+
+its star lord. The sub lord of the significator shows whether these results will
+be favourable or unfavourable.
+
+## 6. Any relevant planet, become an owner of 6, 8, 12 from relevant cusp, or
+
+occupant of 6, 8, 12 cusp from relevant cusp, then this planet not gives result
+during joint period of Dasa, Bhukti, Antra of relevant significators. But consider
+this condition after thinking all the aspect of chart.
+7. If the star lord of a signficator is not powerful, then the significator becomes
+weak, and if its sub lord also weak, then this significator becomes weaker.
+36
+
+## PRASHNA JYOTISH
+
+
+
+Chapter 11
+Cuspal Sub Lord and its Subject Matter
+Significance of the cuspal sub lord
+We have seen in Chapter- 9 "Houses for Subject Matters" to judge an event.
+We have to check more than one houses. To judge that event we need to
+consider the sub lord of main house (bhava). For example, for longevity 1st, for
+disease 6th, for education 4th, for marriage 7th house etc.
+The cuspal sub lord of a house indicates whether the matter governed by that
+house is promised or denied. If the cuspal sub lord of that house is the
+significator of that house or any one of the houses under consideration, the
+matter governed by that house will be promised.
+As each house denotes several particular matters, the chief governor of the
+matter to be judged, For example, Saturn for Longevity, Mercury and Jupiter
+for Education, Mars for house, Saturn for land, Venus for marriage, Moon and
+Mercury for traveling, Sun for business and authority etc, may be taken into
+consideration. If it is connected with the house or any one of the houses under
+consideration, especially with the star lord of the cuspal sub lord, it is desirable.
+In short whether the matter governed by that house is promised or denied will
+be decided by relevant cusp sub lord. Significators of relevant cusp decided
+when native get the result.
+
+## PRASHNA JYOTISH
+
+37
+
+
+Main house
+(Bhava)
+Cuspal Sub Lord
+(1)
+1''
+Health
+Longevity
+Accident
+2··
+Wealth
+3"'
+Change
+Life
+4'"
+Education
+Building
+5'"
+Issue
+Love affair
+6th
+Disease
+Service
+7"'
+Marriage
+Business
+38
+Chapter 12
+House Grouping by Cuspal Sub Lord
+Significator in the star
+star of occupant/owner
+of houses
+(2)
+1, 11
+6, 8, 12
+8, 12, badhaka
+8, 12
+
+## 2, 6, II
+
+8, 12, 5
+3, 12, 10
+8, 12, badhaka
+
+## 4, 9, II
+
+
+## 4, II, 12
+
+
+## 5, II, 2
+
+4, 10,
+2, 11
+7, 11
+6, 8, 12,
+
+## 1, 5, II
+
+2, 6, 10
+1, 5, 9
+
+## 2, 6, II
+
+
+## 7, II, 2
+
+6, 10,
+
+## 2, 10, II
+
+8, 12
+5, 11
+6, 12
+During Joint dasa
+period of
+significators
+(3)
+1, 11
+6, 8, 12
+8, 12,
+badhaka-maraka
+8, 12
+2, 6, 11
+8, 12, 5
+3, 12, 10
+8, 12,
+badhaka- maraka
+4, 9, 11
+3,8,5
+4, 11, 12
+5, 11, 2
+4, 10, 1
+2, 5, 11
+2, 7 ,11
+6, 8, 12
+1, 5, 11
+2, 6, 10
+1, 5, 9
+2, 6, 11
+7, 11, 2
+6, 10, 1
+2, 10, 11
+8, 12
+5, 11
+6, 12
+Event happens if
+significator's sub lord is
+connected with (3)
+( 4)
+normal health
+disease
+danger to life
+accident
+wealth
+loss of wealth
+transfer of place in service
+danger to life
+academic education
+completion of studies
+possesses land or building
+child birth
+no child birth
+love affair
+marries the loved one
+disease
+cure of disease
+service
+change in service
+gain in any manner
+marriage
+absence of married life
+business or industry
+loss in business or industry
+partnership
+break in partnership
+
+## PRASHNA JYOTISH
+
+
+
+8"'
+Longevity
+Calamity
+9"'
+Research
+10"'
+Vocation
+Sale of building
+Infamy
+11<>
+Cure
+Gain
+vocation
+Issue
+12"'
+Overseas
+Calamity
+Accident
+Transfer of
+6, 8, 12,
+1, 5, 11
+8, 12
+8, 12, badhaka
+9, 10, 11
+10, 6, 2
+10, 7, 2
+3, 12
+9, 5,
+9, 5, 1,
+10, 5, 3
+7, 8, 12
+1, 5, 11
+2, 6, 11
+12
+2, 6, 10, 11
+11, 5, 2
+10, 4, 1
+12, 9, 3
+11, 8, 2
+12, 8, badhaka
+8, 12
+3, 12, 10
+6, 8, 12,
+1, 5, 11
+8, 12
+8, 12,
+badhaka-maraka
+9, 10, 11
+10, 6, 2
+10, 7, 2
+3, 12, 10
+9, 5,
+9, 5, 1, 12
+10, 5, 3
+7, 8, 12
+1, 5, 11
+2, 6, 11
+2, 6, 10, 11
+11, 5, 2
+10, 4, 1
+12, 9, 3
+12, 8,
+badhaka-maraka
+8, 12
+3, 12, 10
+danger to health
+safety in life
+accident, infirmity
+danger to life
+success in research
+vocation, earning
+independent vocation
+transfer of place-service
+change of vocation
+loss of service
+sale of land or building
+criminal proceedings
+cure of disease
+gain of money
+progress
+in
+service
+or
+child birth
+no child birth
+foreign travel
+stay in motherland
+danger to life
+accident, infirmity
+transfer of place-service
+Explanation: If the cuspal sub lord of the main house (mentioned in the column
+1) be the significator (in the star of occupant or owner) of the house or houses
+(mentioned in the column 2), then only during the joint period of the
+significators of the house or houses (mentioned in the column 3), the results
+of the expected matter (shown in the column 4) are experienced.
+
+## PRASHNA JYOTISH
+
+39
+
+
+Chapter 13
+Sub Lord - Some Points to Consider
+Sometimes it happens that the cuspal sub lord of the main house under
+consideration is not deposited in the star of occupant or of the owner of relevant
+house or houses. Sometimes Rahu and Ketu are not deposited in relevant house
+or houses. But the cuspal sub lord, its star lord and its sub lord; also Rahu
+or Ketu are connected with relevant house(s). In such cases one needs to use
+common sense before coming to any conclusion.
+Transit
+At the time of event Sun, Moon or/and joint period rulers are generally found
+to be transiting in the star or sub of the same joint period ruler or rulers (i.e.
+in the star or sub of the period, sub period, inter period or/and sookshma
+period ruler.)
+Moon
+
+## I)
+
+2)
+3)
+4)
+Moon is the mind. So in the horary map the mind of the querent is
+shown by the position of Moon and it helps in knowing the nature of
+the question asked.
+Generally Moon or its Star Lord or its Sub lord occupies or owns the
+house under query; or
+Moon is connected with, or by aspect, from the owner or occupant of
+that house or from the chief governor (karaka) of the matter asked.
+If lord of 6, 8, 12 is connected with Moon, then mind of querent is not
+clear about question, and if Saturn is connected with Moon, querent is
+hiding something.
+Cuspal Sub lord
+
+## I)
+
+The cuspal sub lord of a house under query indicates whether the matter
+signified by that house is promised or not.
+2)
+The matter is promised if the cuspal sub lord is the significator (i.e. in
+the star of the occupant or the owner) of that house or any one of the
+houses under consideration.
+3)
+In horary the matter is promised if the cuspal sub lord or its sub star
+lord is direct, if the cuspal sub lord or its sub star lord is retrograde
+but the cuspal sub lord becomes a strong significator, the matter is
+promised when they get direct in motion.
+4)
+As each house denotes several particular matters, the chief governor of
+the matter under query may be taken into account and it should be
+connected with the star lord of the cuspal sub lord of the house under
+query.
+Lagna
+1)
+40
+and 11th Cuspal sub lord
+In the horary map the Asc. indicates the efforts of the querent; while
+the 11th cusp shows the fulfillment of desires or success in general. So
+if the cuspal sub lord of the Asc. or the 11th cusp be the significator of
+the matter asked, the querent gets success in general.
+
+## PRASHNA JYOTISH
+
+
+
+2)
+If the cuspal sub lord of the Asc. or the I I'h cusp be the occupant of
+the house I, 2, 3, 6, 10 or 11; or if it is in the star of the occupant
+of the house I, 2, 3, 6, 10 or II, the querent gets success, in all
+undertakings.
+[The Asc. (denotes success in one's efforts); 2nd (monetary gain); 3rd (help
+from others); 6th (being 12 to 7 loss to the other and gain to the querent);
+lOth (reputation) and 11"' (stands for profit). So these houses are beneficial
+to the querent in general.]
+
+## Ruling Planet:
+
+
+## I)
+
+Note the time and day when a question is put to you or when you take
+the horoscope for analysis and judgment.
+The day begins from Sunrise. Sun governs Sunday, Moon governs
+Monday, Mars governs Tuesday, Mercury governs Wednesday, Jupiter
+governs Thursday, Venus governs Friday and Saturn governs Saturday.
+2)
+
+## A)
+
+The sign lord of the Asc, the star lord of the Asc, at the time of
+query or judgment.
+B) The sign lord of Moon, the star lord of Moon at the time of query
+or judgment.
+C) The day lord
+These five planets are called the 'Ruling Planets'.
+3)
+
+## A)
+
+If Rahu or Ketu is in conj. or aspect with the ruling planet; or
+
+## B)
+
+If it occupies the sign owned by the ruling planet.
+Rahu or Ketu
+should be included as the ruling planet.
+4)
+
+## A)
+
+Among the ruling planets the Asc's star lord; the Asc's sign lord,
+Moon's star lord, Moon's sign lord and the day lord are in order of
+preference.
+
+## B)
+
+The ruling planet which is in the star or sub of a retrograde
+planet should be omitted.
+
+## Significator of relevant bhava:
+
+Significator of relevant bhava indicate when event will be materialised.
+Draw
+table as we discuss in Part-1; chapter 5 page 24.
+In the star of
+occupant
+
+## (A)
+
+Occupant
+(Bl
+In the star of Owner
+owner
+(Dl
+(Cl
+If star lord or sub lord of above significators are in direct motion then during
+its joint period one can get desire result. So if any significator is in the star
+and sub of retrograde planet will be omit as significator.
+
+## Joint Period:
+
+During joint period of above significator one can get desire result when transit
+agrees.
+Find out the common planet from significator and RPs.
+Among these common planets those planets that are significator of Joint cuspal
+point (Rasi lord -Star lord-Sub lord), relevant cusp's sub lord and Joint period
+lord then this planet gives result when transit agree.
+
+## PRASHNA JYOTISH
+
+41
+
+
+It is observe that retro planet gives result when it get direct or planet when
+become direct at same deg. Mnt. Sec as in retro motion at the time of horary
+map.
+Analysis of retrograde planet depends on individual case and type of Question.
+In each case astrologer has to use his own commonsense.
+
+## Transit:
+
+At the time of event, Sun, Moon and joint period lords traveling in the joint
+period lord's star or sub. Or traveling in the star lord of relevant bhava's
+significator.
+42
+
+## PRASHNA JYOTISH
+
+
+
+Sub sub in each Sub
+Chapter 14
+Sub-Sub
+Each 'sub' is further divided into nine parts. This sub division is termed as
+'sub sub'. It is based on the following formula :-
+"Each sub area x Dasa years of each planet - the total number of Vimshottari
+dasa years = The longitude or extent or area of 'Sub sub 'for each planet in
+each 'Sub'."
+
+## Example:
+
+The above formula of deriving 'Sub sub' in each 'Sub' is illustrated as under
+
+## 1.
+
+The sub area of Ketu is 0° 46' 40
+11 •
+In sub Ketu, Area ofsub sub Venus = 00°.46'.40" X 20 + 120 = 00°.07'.47"
+
+## 2.
+
+The sub area of Venus is r
+13' 20
+11 •
+In sub Venus, Area ofsub sub Mer
+= 02°.13'.20"x 17- 120 = 00°.18'.53"
+
+## 3.
+
+The sub area of Sun is 0° 40' 00
+11 •
+In sub Sun, Area ofsub sub Jup
+= 00°.40'.00" x 16 + 120 = 00°.05'.20"
+
+## 4.
+
+The sub area of Moon is 1° 06' 40
+11 •
+In sub Moon, Area ofsub sub Ketu
+= 01°.06'.40"
+
+## X 7- 120 = 00°.03'.54"
+
+
+## 5.
+
+The sub area of Mars is 0° 46' 40
+11 •
+In sub Mars, Area ofsub sub Moon = 00°.46'.40" X 10 +120 = 00°.03'.54"
+
+## 6.
+
+The sub area of Rahu is r 00' 00
+11 •
+In sub Rahu, Area ofsub sub Saturn= 02°.00'.00" x 19 +120 = 00°.19'.00"
+
+## 7.
+
+The sub area of Jupiter is 1° 46' 40
+11 •
+In sub Jupiter, Area of sub sub Sun
+= 0 I o .46' .40" x 6 + 120 = 00° .05' .20"
+
+## 8.
+
+The sub area of Saturn is r 06' 40
+11 •
+In sub Sun, Area of sub sub Rahu
+= 02° .06' .40" x 18 +120 = OOM9' .00"
+
+## 9.
+
+The sub area of Mercury is 1° 53' 20
+11 •
+In sub Sun, Area ofsub sub Mars
+= Ol
+
+## 0 .53'.20"x 7 -120 = 00°.06'.37"
+
+Obtain the area of 'sub sub' for all planets in each 'sub' in this way.
+For benefit of readers the tables showing A) sub sub area in each sub and B)
+
+## Stars, Subs and Sub subs are given on next pages:
+
+
+## PRASHNA JYOTISH
+
+43
+
+
+A. Sub sub area in each sub
+
+## 1. Sub Ketu Area
+
+
+## 2. Sub Venus Area
+
+
+## 3. Sub Sun Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Ke
+Ve
+Su
+Mo
+Ma
+Ra
+Ju
+Sa
+Me
+00° 02' 43"
+Ve
+00
+07
+47
+Su
+00
+02
+20
+Mo
+00
+03
+54
+Ma
+00
+02
+43
+Ra
+00
+07
+00
+Ju
+00
+06
+13
+Sa
+00
+07
+23
+Me
+00
+06
+37
+Ke
+00
+46
+40
+00° 22' 12"
+Su
+00 06
+00
+11
+00 07
+00 20
+00
+17
+00 21
+00
+18
+00 07
+02
+13
+40
+Mo
+07
+Ma
+47
+Ra
+00
+Ju
+47
+Sa
+07
+Ma
+53
+Ke
+47
+Ve
+20
+00°
+02'
+00"
+00
+03
+20
+00
+02
+20
+00
+06
+00
+00
+
+## OS
+
+20
+00
+06
+20
+00
+
+## OS
+
+40
+00
+02
+20
+00
+06
+40
+
+## 4. Sub Moon Area
+
+
+## 5. Sub Mars Area
+
+00
+40
+00
+
+## 6. Sub Rahu Area
+
+Sub sub D
+
+## M
+
+
+## S
+
+Sub sub D
+
+## M
+
+
+## S
+
+Sub sub D
+
+## M
+
+
+## . S
+
+Mo
+Ma
+Ra
+Ju
+Sa
+Me
+Ke
+Ve
+Su
+00°
+
+## OS'
+
+33"
+Ma
+00
+03
+54
+Ra
+00
+10
+00
+Ju
+00
+08
+53
+Sa
+00
+10
+33
+Me
+00
+09
+26
+Ke
+00
+03
+54
+ve
+00
+11
+07
+su
+00
+03
+20
+Mo
+00° 02'
+00 07
+00 06
+00 07
+00 06
+00 02
+00 07
+43"
+Ra
+00
+Ju
+00°
+18'
+00"
+00
+16
+00
+01
+06
+40
+
+## 7. Sub Jupiter Area
+
+Sub sub D
+
+## M
+
+
+## S
+
+Ju
+00°
+14'
+14"
+Sa
+00
+16
+53
+Me
+00
+15
+07
+Ke
+00
+06
+13
+Ve
+00
+17
+47
+Su
+00
+
+## OS
+
+20
+Mo
+00
+08
+53
+Ma
+00
+06
+13
+Ra
+00
+16
+00
+01
+46
+40
+44
+13
+Sa
+00
+19
+00
+23
+Me
+00
+17
+00
+37
+Ke
+00
+07
+00
+00
+20
+00
+00
+06
+00
+00
+10
+00
+00
+07
+00
+43
+Ve
+47
+Su
+00 02
+20
+Mo
+00
+03
+54
+Ma
+00 46
+40
+
+## 8. Sub Saturn Area
+
+Sub sub D
+Sa
+00°
+
+## M
+
+20'
+s
+03"
+Me
+00
+17
+58
+Ke
+00 07
+23
+Ve
+00 21
+07
+Su
+00 06
+20
+Mo
+00
+10
+33
+Ma
+00
+07
+23
+Ra
+00
+19
+00
+Ju
+00
+16
+53
+02 06
+40
+02
+00
+00
+
+## 9. Sub Mercury Area
+
+Sub sub D
+
+## M
+
+
+## S
+
+Me
+00°
+16'
+02"
+Ke
+00
+06
+37
+Ve
+00
+18
+53
+Su
+00
+
+## OS
+
+40
+Mo
+00
+09
+26
+Ma
+00
+06
+37
+Ra
+00
+17
+00
+Ju
+00
+15
+07
+Sa
+00
+17
+58
+01
+53
+20
+
+## PRASHNA JYOTISH
+
+
+
+B. Stars, Subs and Sub subs
+
+## 1.
+
+Star Ketu : Aries, Leo, Sagittarius 00° 00' to 13° 20'
+
+## 1. Sub Ketu Area
+
+Sub Sub D
+
+## M
+
+s
+
+## 2. Sub Venus Area
+
+Sub Sub D
+
+## M
+
+s
+
+## 3. Sub Sun Area
+
+Sub Sub D
+
+## M
+
+s
+Ke
+00° 00' 00"
+Ve
+000 46'
+40"
+Su
+03° 00'
+00"
+Ve
+00
+02
+Su
+00
+10
+Mo
+00
+12
+43
+30
+50
+Su
+01
+08
+Mo
+01
+15
+Ma
+01
+26
+Ma
+Ra
+Ju
+Sa
+Me
+00
+16
+44
+Ra
+00
+19
+27
+Ju
+00
+26
+27
+Sa
+00
+32
+40
+Me
+00
+40
+04
+Ke
+01
+34
+01
+54
+02
+12
+02
+33
+02
+52
+
+## 4. Sub Moon Area
+
+Sub Sub D
+
+## M
+
+s
+
+## 5. Sub Mars Area
+
+Sub Sub D
+
+## M
+
+52
+32
+39
+Mo
+03
+02
+00
+20
+40
+Ma
+03
+05
+Ra
+03
+07
+26
+Ju
+26
+Sa
+13
+Me
+20
+Ke
+13
+Ve
+03
+13
+40
+03
+19
+00
+03
+25
+20
+03
+31
+00
+03
+33
+20
+s
+
+## 6. Sub Rahu Area
+
+Sub Sub D
+
+## M
+
+s
+Mo
+03° 40' 00"
+Ma
+04° 46'
+40"
+Ra
+05° 33'
+20"
+Ma
+03
+45
+Ra
+03
+49
+Ju
+03
+59
+Sa
+04
+08
+Me
+04
+18
+33
+27
+27
+20
+53
+Ra
+04 49
+Ju
+04 56
+Sa
+05 02
+Me
+05 09
+Ke
+05
+16
+Ke
+Ve
+Su
+04
+28
+19
+Ve
+04
+32
+13
+Su
+04
+43
+20
+Mo
+05
+19
+05 27
+05 29
+23
+23
+36
+59
+36
+Ju
+05
+51
+Sa
+06
+07
+Me
+06
+26
+Ke
+06
+43
+Ve
+06
+50
+20
+20
+20
+20
+20
+19
+Su
+06
+Mo
+26
+Ma
+07
+10
+20
+07
+16
+20
+07
+26
+20
+7 • Sub Jupiter Area
+
+## 8. Sub Saturn Area
+
+
+## 9. Sub Mercury Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Ju
+07° 33' 20"
+Sa
+09° 20'
+00"
+Me
+11° 26'
+40"
+Sa
+07
+47
+34
+Me
+09
+40
+03
+Ke
+11
+42
+42
+Me
+08
+04
+27
+Ke
+09
+58
+01
+Ve
+11
+49
+19
+Ke
+08
+19
+34
+Ve
+Ve
+Su
+Mo
+Ma
+Ra
+08
+25
+47
+Su
+08
+43
+34
+Mo
+08
+48
+54
+Ma
+08
+57
+47
+Ra
+09
+04
+00
+Ju
+
+## PRASHNA JYOTISH
+
+10
+05
+10
+26
+10
+32
+10
+43
+10
+50
+11
+09
+24
+Su
+12
+08
+12
+31
+Mo
+51
+Ma
+24
+Ra
+47
+Ju
+47
+Sa
+12
+13
+52
+12
+23
+18
+12
+29
+55
+13
+46
+55
+13
+02
+02
+45
+
+
+
+## 2. Star Venus
+
+
+## 1. Sub Venus Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Aries, Leo, Sagittarius
+
+## 2. Sub Sun Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+13° 20' to 26°
+
+## 3. Sub Moon
+
+Sub Sub D
+40'
+Area
+
+## M
+
+s
+Ve
+Su
+13°
+20'
+00"
+Su
+15° 33'
+20"
+Mo
+16°
+13'
+20"
+16
+18
+53
+13
+42
+12
+Mo
+15
+35
+20
+Ma
+Mo
+13
+48
+52
+Ma
+13
+59
+59
+Ra
+14
+07
+46
+46
+33
+04
+33
+Ju
+14
+27
+Sa
+14
+45
+Me
+15
+06
+Ke ,
+15
+25
+
+## 4. Sub Mars Area
+
+Sub Sub D
+
+## M
+
+s
+Ma
+17°
+20'
+00"
+Ra
+Ju
+Sa
+Me
+Ke
+17
+17
+17
+17
+17
+22
+43
+29
+43
+35
+56
+43
+19
+49
+50
+Ve
+17
+52
+39
+Su
+18
+00
+26
+Mo
+18
+02
+46
+
+## 7. Sub Saturn Area
+
+Sub Sub
+
+## D
+
+
+## M
+
+
+## S
+
+210
+22
+22
+22
+53'
+20"
+13
+23
+31
+21
+38
+44
+Ma
+15
+38
+Ra
+15
+41
+Ju
+15
+47
+Sa
+15
+52
+Me
+15
+58
+Ke
+16
+04
+Ve
+16
+06
+
+## 5. Sub Rahu Area
+
+Sub Sub D
+
+## M
+
+Ra
+18° 06'
+Ju
+18
+24
+Sa
+18
+40
+Me
+18
+59
+Ke
+19
+16
+Ve
+19
+23
+40
+00
+00
+20
+40
+20
+40
+s
+40"
+40
+40
+40
+40
+40
+Su
+19
+43
+40
+Mo
+19
+49
+40
+Ma
+19
+59
+40
+
+## 8. Sub Mercury Area
+
+Sub Sub
+
+## D
+
+
+## M
+
+
+## S
+
+Me
+24° 00'
+00"
+Ke
+24
+16
+02
+Ve
+24
+22
+39
+Su
+32
+Ra
+16
+22
+47
+Ju
+16
+32
+47
+Sa
+16
+41
+40
+Me
+16
+52
+13
+Ke
+17
+01
+39
+Ve
+17
+05
+33
+Su
+17
+16
+40
+
+## 6. Sub Jupiter Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Ju
+20°
+06'
+40"
+Sa
+Me
+Ke
+Ve
+Su
+20
+20
+20
+20
+21
+20
+37
+52
+59
+16
+Mo
+21
+22
+Ma
+21
+31
+Ra
+21
+37
+
+## 9. Sub Ketu Area
+
+Sub Sub
+
+## D
+
+
+## M
+
+Ke
+Ve
+Su
+Mo
+25°
+25
+26
+26
+53'
+56
+03
+06
+54
+47
+54
+07
+54
+14
+07
+20
+s
+20"
+03
+50
+10
+Sa
+Me
+Ke
+Ve
+Su
+Mo
+Ma
+Ra
+Ju
+22
+59
+51
+Mo
+24
+41
+24
+47
+24
+56
+25
+03
+25
+20
+25
+35
+12
+Ma
+26
+10
+04
+23
+06
+11
+Ma
+38
+Ra
+26
+12
+47
+23
+16
+44
+Ra
+15
+Ju
+26
+19
+47
+23
+24
+07
+Ja
+15
+Sa
+26
+26
+00
+23
+43
+07
+Sa
+22
+Me
+26
+33
+23
+46
+
+## PRASHNA JYOTISH
+
+
+
+
+## 3. Star Sun: Aries, Leo, Sagittarius 26° 40'to 30° too'
+
+Taurus, Virgo, Capricorn 00° 00' to 10° 00'
+
+## 1. Sub Sun Area
+
+
+## 2. Sub Moon Area
+
+
+## 3. Sub Mars Area
+
+Sub Sub D
+Su
+26°
+Mo
+26
+Ma
+26
+Ra
+26
+Ju
+26
+Sa
+26
+
+## M
+
+
+## S
+
+40'
+00"
+42
+00
+45
+20
+47
+40
+53
+40
+59
+00
+Sub Sub D
+
+## M
+
+Mo
+27° 20'
+Ma
+27
+25
+Ra
+27
+29
+Ju
+27
+39
+Sa
+27
+48
+Me
+27
+58
+Me
+Ke
+Ve
+27
+07
+20
+Ke
+28
+08
+28
+12
+28
+23
+27
+11
+00
+Ve
+27
+13
+20
+Su
+
+## 4. Sub Rahu Area
+
+Sub Sub D
+Ra
+29°
+Ju
+29
+
+## M
+
+13'
+31
+Sa
+29
+47
+Me
+00
+06
+Ke
+00
+23
+Ve
+00
+30
+s
+20"
+20
+20
+20
+20
+20
+s. Sub Jupite Area
+Sub Sub D
+
+## M
+
+Ju
+or 13'
+Sa
+01
+27
+Me
+01
+44
+Ke
+01
+59
+Ve
+02
+05
+Su
+02
+23
+Su
+Mo
+Ma
+00
+50
+20
+Mo
+00
+56
+20
+Ma
+01
+06
+20
+Ra
+02
+28
+02
+37
+02
+44
+
+## 7. Sub Mercury Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Me
+05°
+06'
+40"
+Ke
+05
+22
+42
+Ve
+05
+29
+19
+Su
+05
+48
+12
+Mo
+05
+53
+52
+Ma
+06
+03
+18
+Ra
+06
+09
+55
+Ju
+06
+26
+55
+Sa
+06
+42
+02
+
+## PRASHNA JYOTISH
+
+
+## 8. Sub Ketu Area
+
+Sub Sub D
+
+## M
+
+Ke
+07° 00'
+Ve
+07
+02
+Su
+07
+10
+Mo
+07
+12
+Ma
+07
+16
+Ra
+07
+19
+Ju
+07
+26
+Sa
+07
+32
+Me
+07
+40
+s
+Sub Sub D
+s
+00"
+Ma
+28°
+
+## M
+
+26'
+29
+36
+42
+49
+56
+40"
+33
+27
+27
+20
+53
+Ra
+28
+Ju
+28
+Sa
+28
+Me
+28
+Ke
+28
+23
+23
+36
+59
+36
+19
+Ve
+28
+59
+19
+13
+Su
+29
+07
+06
+20
+Mo
+29
+09
+26
+
+## 6. Sub Saturn Area•
+
+s
+Sub Sub D
+s
+20"
+Sa
+03°
+
+## M
+
+00'
+00"
+34
+27
+34
+47
+34
+Me
+03
+20
+Ke
+03
+38
+Ve
+03
+45
+Su
+04
+06
+Mo
+04
+12
+03
+01
+24
+31
+51
+54
+Ma
+47
+Ra
+00
+Ju
+04
+23
+24
+04
+30
+47
+04
+49
+47
+
+## 9. Sub Venus Area
+
+
+## S
+
+Sub Sub D
+
+## M
+
+s
+00"
+Ve
+07°
+46'
+40"
+43
+Su
+08
+08
+30
+Mo
+08
+15
+50
+Ma
+44
+Ra
+27
+Ju
+27
+Sa
+40
+Me
+03
+Ke
+08
+26
+08
+34
+08
+54
+09
+12
+09
+33
+09
+52
+52
+32
+39
+26
+26
+13
+20
+13
+47
+
+
+
+## 4 . Star Moon : Taurus, Virgo, Capricorn
+
+
+## 1. Sub Moon Area
+
+
+## 2. Sub Mars Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Mo
+10°
+00' 00"
+Ma
+11° 06'
+40"
+Ma
+10
+05
+33
+Ra
+11
+09
+23
+Ra
+Ju
+Sa
+Me
+Ke
+Ve
+Su
+10
+09
+27
+Ju
+10
+19
+27
+Sa
+10
+28
+20
+Me
+10
+38
+53
+Ke
+10
+48
+19
+Ve
+10
+52
+13
+Su
+11
+03
+20
+Mo
+11
+16
+11
+22
+11
+29
+11
+36
+11
+39
+11
+47
+11
+49
+23
+36
+59
+36
+19
+06
+26
+
+## 4. Sub Jupiter Area
+
+
+## 5. Sub Saturn Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Ju
+lY
+53' 20
+Sa
+14
+07 34
+Me
+14
+24
+27
+Ke
+14
+39
+34
+Ve
+14
+45
+47
+Su
+15
+03
+34
+Mo
+15
+08
+54
+Ma
+15
+17
+47
+Ra
+15
+24
+00
+7 • Sub Ketu Area
+Sub Sub D
+
+## M
+
+
+## S
+
+Ke
+1go
+40' 00
+Ve
+19
+42 43
+Su
+19
+50 30
+Mo
+19
+52
+50
+Ma
+19
+56
+44
+Ra
+19
+59
+27
+Ju
+20
+06
+27
+Sa
+20
+12
+40
+Me
+20
+20
+03
+48
+Sub Sub D
+
+## M
+
+
+## S
+
+Sa
+15° 40'
+00
+Me
+Ke
+Ve
+Su
+Mo
+Ma
+Ra
+Ju
+16 00
+16
+18
+16
+25
+16
+46
+16
+52
+17
+03
+17
+10
+17
+29
+
+## 8. Sub Venus Area
+
+Sub Sub D
+
+## M
+
+Ve
+20° 26'
+Su
+20
+48
+Mo
+20
+55
+Ma
+21
+06
+Ra
+21
+14
+Ju
+21
+34
+Sa
+21
+52
+Me
+22
+13
+Ke
+22
+32
+03
+01
+24
+31
+51
+24
+47
+47
+s
+40
+52
+32
+39
+26
+26
+13
+20
+13
+10° 00' to 23° 20'
+
+## 3. Sub Rahu Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Ra
+11°
+53' 20
+Ju
+12
+11
+20
+Sa
+12
+27
+20
+Me
+12
+46
+20
+Ke
+13
+03
+20
+Ve
+13
+10
+20
+Su
+13
+30
+20
+Mo
+13
+36
+20
+Ma
+13
+46
+20
+
+## 6. Sub Mercury Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Me
+17°
+46' 40
+Ke
+18
+02
+42
+Ve
+18
+09
+19
+Su
+18
+28
+12
+Mo
+18
+33
+52
+Ma
+18
+43
+18
+Ra
+18
+49
+55
+Ju
+19
+06
+55
+Sa
+19
+22
+02
+
+## 9. Sub Sun Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Su
+22°
+40' 00
+Mo
+22
+42
+00
+Ma
+22
+45
+20
+Ra
+22
+47
+40
+Ju
+22
+53
+40
+Sa
+22
+59
+00
+Me
+23
+05
+20
+Ke
+23
+11
+00
+Ve
+23
+13
+20
+
+## PRASHNA JYOTISH
+
+
+
+
+## 5. Star Mars : Taurus, Virgo, Capricorn 23° 20' to 30° 00'
+
+Gemini, Libra, Aquarius 00° 00' to 06° 40'
+
+## 1. Sub Mars Area
+
+
+## 2. Sub Rahu Area
+
+
+## 3. Sub Jupiter Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Ma
+23°
+20'
+00"
+Ra
+24° 06'
+40"
+Ju
+26°
+06'
+40"
+Ra
+23
+22
+43
+Ju
+24
+24
+40
+Sa
+26
+20
+54
+Ju
+23
+29
+43
+Sa
+24
+40
+Sa
+23
+35
+56
+Me
+24
+59
+Me
+23
+43
+19
+Ke
+25
+16
+Ke
+23
+49
+56
+Ve
+25
+23
+Ve
+Su
+Mo
+23
+52
+39
+Su
+24
+00
+26
+Mo
+24
+02
+46
+Ma
+25
+43
+25
+49
+25
+59
+40
+Me
+40
+Ke
+40
+Ve
+49
+Su
+40
+Mo
+40
+Ma
+40
+Ra
+26
+37
+47
+26
+52
+54
+26
+59
+07
+27
+16
+54
+27
+22
+14
+27
+31
+07
+27
+37
+20
+
+## 4. Sub SatumL Area
+
+
+## 5. Sub Mercury Area
+
+
+## 6. Sub Ketu Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Sub Sub D
+
+## M
+
+s
+Sa
+27°
+53'
+20"
+Me
+00° 00'
+00"
+Ke
+01°
+53'
+20"
+Me
+Ke
+Ve
+Su
+Mo
+Ma
+Ra
+Ju
+28
+13
+23
+Ke
+00
+16
+00
+22
+00
+41
+28
+31
+21
+Ve
+28
+38
+44
+Su
+28
+29
+29
+29
+29
+59
+51
+06
+11
+16
+44
+24
+07
+43
+07
+Mo
+00 47
+Ma
+00
+56
+Ra
+01
+03
+Ju
+01
+20
+Sa
+01
+35
+7 • Sub Venus Areat
+
+## 8. Sub Sun Area
+
+Sub Sub D
+
+## M
+
+Sub Sub D
+s
+Ve
+02°
+
+## M
+
+40'
+00"
+Su
+04° 53'
+Su
+03
+02
+12
+52
+59
+Mo
+04
+55
+Mo
+03
+08
+Ma
+04
+58
+Ma
+03
+19
+Ra
+05
+01
+Ra
+Ju
+Sa
+Me
+Ke
+03
+27
+46
+Ju
+03
+47
+46
+Sa
+04
+05
+33
+Me
+04
+26
+40
+Ke
+04
+45
+33
+Ve
+
+## PRASHNA JYOTISH
+
+05
+07
+05
+12
+05
+18
+05
+24
+05
+26
+02
+Ve
+39
+Su
+32
+Mo
+12
+38
+15
+15
+22
+Ma
+Ra
+Ju
+Sa
+Me
+01
+56
+03
+02
+03
+50
+02
+06
+10
+02
+02
+02
+02
+02
+10
+12
+19
+26
+33
+04
+47
+47
+00
+23
+
+## 9. Sub Moon Area
+
+s
+Sub Sub D
+
+## M
+
+s
+20
+53
+47
+47
+20"
+Mo
+05°
+33'
+20
+40
+00
+Ma
+05
+38
+Ra
+05
+42
+Ju
+05
+52
+00
+Sa
+20
+Me
+40
+Ke
+20
+Ve
+40
+Su
+06
+01
+40
+06
+12
+13
+06
+21
+39
+06
+25
+33
+06
+36
+40
+49
+
+
+
+## 6. Star : Rahu
+
+
+## 1. Sub Rahu Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Ra
+06°
+40'
+00
+Ju
+06
+58
+00
+Sa
+07
+14
+00
+Me
+07
+33
+00
+Ke
+07
+50
+00
+Ve
+07
+57
+00
+Su
+08
+17
+00
+Mo
+08
+23
+00
+Ma
+08
+33
+00
+
+## 4. Sub Mercury Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Me
+12°
+33'
+20
+Ke
+12
+49
+22
+Ve
+12
+55
+59
+Su
+13
+14
+52
+Mo
+13
+20
+32
+58
+35
+35
+42
+Ma
+13
+29
+Ra
+13
+36
+Ju
+13
+53
+Sa
+14
+08
+
+## 7. Sub Sun Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Su
+17°
+26'
+40'
+Mo
+17
+28
+40
+Ma
+17
+32
+00
+Ra
+17
+34
+20
+Ju
+17
+40
+20
+Gemini, Libra, Aquarius
+
+## 2. Sub Jupiter Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Ju
+08° 40'
+00'
+Sa
+08
+54
+14
+Me
+09
+11
+07
+Ke
+Ve
+Su
+Mo
+Ma
+Ra
+09
+26
+09 32
+09 50
+09
+55
+10 04
+10 10
+
+## 5. Sub Ketu Area
+
+Sub Sub D
+
+## M
+
+Ke
+14° 26'
+Ve
+14 29
+Su
+14 37
+Mo
+14 39
+Ma
+14 43
+Ra
+14 46
+Ju
+14 53
+Sa
+14 59
+Me
+15 06
+
+## 8. Sub Moon Area
+
+Sub Sub D
+
+## M
+
+Mo
+
+## 1SO 06'
+
+Ma
+18
+12
+Ra
+18
+16
+Ju
+18 26
+Sa
+18 35
+14
+27
+14
+34
+27
+40
+s
+40'
+23
+10
+30
+24
+07
+07
+20
+43
+s
+40'
+13
+07
+07
+00
+
+## 06°.40' to 20'.00'
+
+
+## 3. Sub Saturn Area
+
+Sub Sub D
+
+## M
+
+Sa
+10'
+26'
+Me
+10
+46
+Ke
+11
+04
+Ve
+11
+12
+Su
+11
+33
+Mo
+11
+39
+Ma
+11
+50
+Ra
+11
+57
+Ju
+12
+16
+
+## 6. Sub Venus Area
+
+Sub Sub
+
+## D
+
+Ve
+15°
+Su
+15
+
+## M
+
+13'
+35
+Mo
+15
+42
+Ma
+15
+53
+Ra
+16
+01
+Ju
+16
+21
+Sa
+16
+38
+Me
+17
+00
+Ke
+17
+18
+
+## 9. Sub Mars Area
+
+Sub Sub D
+
+## M
+
+Ma
+1go
+13'
+Ra
+19
+16
+Ju
+19
+23
+Sa
+19
+29
+Me
+19
+36
+s
+40
+43
+41
+04
+11
+31
+04
+27
+27
+s
+20
+32
+12
+19
+06
+06
+53
+00
+53
+s
+20
+03
+03
+16
+39
+Sa
+Me
+Ke
+Ve
+17
+45
+40
+Me
+17
+52
+00
+Ke
+17
+57
+40
+Ve
+18
+00
+00
+Su
+18 45
+18 54
+18 58
+19
+10
+33
+Ke
+59
+Ve
+53
+Su
+00
+Mo
+19
+43
+16
+19
+45
+59
+19
+53
+46
+19
+56
+06
+50
+
+## PRASHNA JYOTISH
+
+
+
+
+## 7. Star : Jupiter : Gemini, Libra, Aquarius 20s 00' to 30s 00'
+
+Cancer, Scorpio, Pisces 00° 00' to 03° 20'
+
+## 1. Sub Jupiter Area
+
+
+## 2. Sub Saturn Area
+
+Sub
+Mercury Area
+Sub Sub D
+
+## M
+
+00'
+s
+Sub Sub D
+
+## M
+
+Ju
+20"
+00"
+Sa
+21° 46'
+Sa
+20
+14
+31
+14
+07
+Me
+22 06
+Me
+20
+Ke
+22
+24
+Ke
+Ve
+Su
+Mo
+Ma
+Ra
+20
+46
+14
+Ve
+20
+52
+27
+Su
+21
+10
+14
+Mo
+21
+15
+34
+Ma
+21
+24
+27
+Ra
+21
+30
+40
+Ju
+22
+32
+22
+53
+22
+59
+23
+10
+23
+17
+23
+36
+
+## 4. Sub Ketu Area
+
+
+## 5. Sub Venus Area
+
+s
+Sub Sub D
+
+## M
+
+53'
+s
+40"
+20"
+43
+41
+Ke
+24
+09
+15
+22
+59
+Ve
+24
+04
+Su
+11
+Mo
+31
+Ma
+04
+Ra
+27
+Ju
+27
+Sa
+24
+34
+52
+24
+40
+32
+24
+49
+58
+24
+56
+35
+25
+13
+35
+25
+28
+42
+Sub Sub D
+
+## M
+
+
+## S
+
+Sub Sub D
+
+## M
+
+
+## S
+
+
+## 6. Sub Sun Area
+
+Sub Sub D
+
+## M
+
+s
+Ke
+25°
+46'
+40"
+Ve
+26° 33'
+20"
+Su
+28°
+46'
+40"
+Ve
+Su
+Mo
+Ma
+Ra
+Ju
+Sa
+Me
+25
+49
+23
+Su
+25
+57
+10
+Mo
+25
+59
+30
+Ma
+26
+03
+24
+Ra
+26
+06
+07
+Ju
+26
+13
+07
+Sa
+26
+19
+20
+Me
+26
+26
+43
+Ke
+26
+55
+27
+02
+27
+13
+27
+21
+27
+41
+27
+58
+28
+20
+28 38
+7 • Sub Moon Area
+Sub Sub D
+
+## M
+
+26'
+s
+
+## 8. Sub Mars Area
+
+Sub Sub D
+
+## M
+
+Mo
+29°
+40"
+Ma
+00" 33'
+Ma
+29
+32
+13
+07
+Ra
+00 36
+Ra
+29
+36
+Ju
+00
+43
+Ju
+Sa
+Me
+Ke
+Ve
+Su
+29
+46
+07
+Sa
+29
+55
+00
+Me
+00
+05
+33
+Ke
+00
+14
+59
+Ve
+00
+18
+53
+Su
+00
+30
+00
+Mo
+
+## PRASHNA JYOTISH
+
+00 49
+00
+56
+01
+03
+01
+05
+01
+13
+01
+16
+32
+Mo
+12
+Ma
+19
+Ra
+06
+Ju
+06
+Sa
+53
+Me
+00
+Ke
+53
+Ve
+28
+48
+40
+28
+52
+00
+28
+54
+20
+29
+00
+20
+29
+05
+40
+29
+12
+00
+29
+17
+40
+29
+20
+00
+
+## 9. Sub Rahu Area
+
+s
+Sub Sub D
+
+## M
+
+20'
+38
+s
+20"
+Ra
+01°
+0"
+03
+03
+Ju
+01
+0
+0
+Sa
+01
+54
+16
+Me
+39
+Ke
+16
+Ve
+59
+Su
+46
+Mo
+06
+Ma
+02
+13
+0
+02
+30
+0
+02
+37
+0
+02
+57
+0
+03
+03
+0
+03
+13
+0
+51
+
+
+
+## 8. Star Saturn
+
+
+## 1. Sub Saturn Area
+
+Cancer, Scorpio, Pisces
+
+## 2. Sub Mercury Area
+
+03o ZO' to 16" 40'
+
+## 3. Sub Ketu Area
+
+Sub Sub D
+
+## M
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Sub Sub D
+
+## M
+
+
+## S
+
+s
+00
+43
+30
+50
+44
+27
+27
+40
+03
+Sa
+03°
+20' 00"
+Me
+05° 26
+40"
+Ke
+07°
+20
+Me
+03
+40 03
+Ke
+05
+42
+42
+Ve
+07
+22
+Ke
+03
+58 01
+Ve
+04
+05
+24
+Su
+04
+26 31
+Mo
+Ma
+Ra
+Ju
+04
+04
+04
+05
+32 51
+43
+24
+50 47
+09
+47
+
+## 4. Sub Venus Area
+
+Sub Sub D
+Ve
+08°
+
+## M
+
+
+## S
+
+06' 40"
+Ve
+Su
+Mo
+05
+49
+06
+08
+06
+13
+Ma
+06
+23
+Ra
+06
+29
+Ju
+06
+46
+Sa
+07
+02
+
+## 5. Sub Sun Area
+
+Sub Sub D
+
+## M
+
+Su
+10° 20'
+Su
+Mo
+08
+28 52
+Mo
+10
+22
+10
+25
+08
+35 32
+Ma
+Ma
+08
+46
+39
+Ra
+08
+54
+26
+Ju
+09
+14
+26
+Sa
+09
+32
+13
+Me
+09
+53
+20
+Ke
+10
+12
+13
+
+## 7 . Sub Mars Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Ma
+1~
+06' 40"
+Ra
+12
+09 23
+Ju
+12
+16 23
+Sa
+12
+22 36
+Ra
+10
+27
+Ju
+10
+33
+Sa
+10
+39
+Me
+10
+45
+Ke
+10
+51
+Ve
+10
+53
+
+## 8. Sub Rahu Area
+
+Sub Sub D
+
+## M
+
+Ra
+12° 53'
+Ju
+13
+11
+Sa
+13
+27
+Me
+13
+46
+Me
+Ke
+Ve
+Su
+Mo
+12
+29 59
+Ke
+14
+03
+14
+10
+14
+30
+14
+36
+14
+46
+12
+36 36
+Ve
+12
+39
+19
+Su
+12
+47
+06
+Mo
+12
+49
+26
+Ma
+52
+19
+12
+52
+18
+55
+55
+02
+s
+00"
+Su
+07
+30
+Mo
+07
+32
+Ma
+07
+36
+Ra
+07
+39
+Ju
+07
+46
+Sa
+07
+52
+Me
+08
+00
+
+## 6. Sub Moon Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Mo
+ll
+0
+00'
+00
+00
+Ma
+11
+05
+33
+20
+Ra
+11
+09
+27
+40
+40
+00
+20
+00
+20
+s
+20"
+20
+20
+20
+Ju
+11
+19
+27
+Sa
+11
+28
+20
+Me
+11
+38
+53
+Ke
+11
+48
+19
+Ve
+11
+52
+13
+Su
+12
+03
+20
+
+## 9. Sub Jupiter Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Ju
+14°
+53'
+20
+Sa
+15
+07
+34
+Me
+15
+24
+27
+Ke
+15
+39
+34
+20
+Ve
+15
+45
+47
+20
+Su
+16
+03
+34
+20
+Mo
+16
+08
+54
+20
+Ma
+16
+17
+47
+20
+Ra
+16
+24
+00
+
+## PRASHNA JYOTISH
+
+
+
+
+## 9. Star Mercury:
+
+
+## 1. Sub Mercury Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Cancer, Scorpio. Pisces
+
+## 2. Sub Ketu Area
+
+16° 40' to 30° 00'
+
+## 3. Sub Venus Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Sub Sub D
+
+## M
+
+
+## S
+
+Me
+16° 40' 00"
+Ke
+18° 33' 20"
+Ve
+19° 20' 00
+Ke
+16
+56 02
+Ve
+18 36
+03
+Su
+19
+42
+12
+Ve
+17
+02 39
+Su
+Su
+17
+21
+32
+Mo
+Mo
+Ma
+Ra
+Ju
+Sa
+17
+27
+12
+Ma
+17
+36 38
+Ra
+17
+43
+15
+Ju
+18
+00
+15
+Sa
+18
+15 22
+Me
+18 43
+50
+Mo
+18 46
+10
+Ma
+18 50
+04
+Ra
+18 52
+47
+Ju
+18 59
+47
+Sa
+19
+06
+00
+Me
+19
+13
+23
+Ke
+19
+48
+52
+19
+59
+59
+20
+07
+46
+20
+27
+46
+20
+45
+33
+21
+06
+40
+21
+25
+33
+
+## 4. Sub Sun Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+
+## 5. Sub Moon Area
+
+Sub Sub D
+
+## M
+
+
+## 6. Sub Mars Area
+
+s
+Sub Sub D
+
+## M
+
+
+## S
+
+Su
+
+## 2P 33' 20
+
+Mo
+22° 13'
+20"
+Ma
+23°
+20' 00"
+Mo
+21
+35 20
+Ma
+22
+18
+53
+Ra
+23
+22
+43
+Ma
+Ra
+Ju
+Sa
+Me
+Ke
+Ve
+21
+38 40
+Ra
+22
+41
+00
+Ju
+
+## 2P
+
+47
+00
+Sa
+21
+52
+20
+Me
+21
+58 40
+Ke
+22
+04
+20
+Ve
+21
+06
+40
+Su
+22
+22
+47
+Ju
+22
+32
+47
+Sa
+22
+41
+40
+Me
+22
+52
+13
+Ke
+23
+01
+39
+Ve
+23
+05
+33
+Su
+23
+16
+40
+Mo
+23
+29
+43
+23
+35
+56
+23
+43
+19
+23
+49
+56
+23
+52
+39
+24
+00
+26
+24
+02
+46
+
+## 7. Sub Rahu Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+
+## 8. Sub Jupiter Area
+
+Sub Sub D
+
+## M
+
+
+## S
+
+
+## 9. Sub Saturn Area
+
+Sub Sub D
+
+## M
+
+s
+Ra
+24°
+06' 40"
+Ju
+26° 06' 40"
+Sa
+27°
+53' 20"
+Ju
+24
+24
+40
+Sa
+26
+20
+54
+Me
+28
+13
+23
+21
+44
+Sa
+24
+40
+40
+Me
+26
+37
+47
+Ke
+28
+31
+Me
+24
+59
+40
+Ke
+26
+52
+54
+Ve
+28
+38
+Ke
+Ve
+Su
+Mo
+Ma
+25
+16 40
+Ve
+25
+23
+40
+Su
+25
+43
+40
+Mo
+25
+49
+40
+Ma
+25
+59 40
+Ra
+
+## PRASHNA JYOTISH
+
+26
+59
+07
+Su
+27
+16
+54
+Mo
+27
+22
+14
+Ma
+27
+31
+07
+Ra
+27
+37
+20
+Ju
+28
+59
+51
+29
+06
+11
+29
+16
+44
+29
+24
+07
+29
+43
+07
+53
+
+
+Explanation
+Suppose a planet say, Moon occupies in the area between oo degree and 13°.20'
+Aries or Leo or Sagittarius, it may be said that Moon is in the star of Ketu.
+If Moon occupies any degree in the area between 00° .46' .40" to 3° Aries or Leo
+or Sagittarius, it may be said that Moon is in the star of Ketu and in the sub
+of Venus. (see Table 1.2 of Stars, Subs and Sub subs) (Please refer page no.
+
+## 45.)
+
+If Moon occupies 02°.50'.00" Aries or Leo or Sagittarius it may be said that
+Moon is in the star of Ketu, in the sub of Venus and in the sub sub of Mercury.
+(see Table 12 of Stars, Subs and Sub subs) (Please refer page no. 45.)
+The above 'Tables of Stars, Subs and Sub subs' showing the star lords, the
+sub lords and the sub sub lords should be understood as explained above.
+Importance of Sub subs
+1) This Sub sub is very useful in finding out the day or hour or minute of an
+event.
+2) Saturn takes about 13 months to move from one star to the other. It remains
+in one 'Sub' for about weeks. So the exact day can be noted with the help of
+'Sub sub'.
+
+## Example:
+
+From 19-9-1978 to 4-10-1979 Saturn traveled in Leo 13°.20' to Leo 26°.40'. It
+may be said that Saturn was in the star of Venus.
+From 19-9-1978 to 8-10-1978 Saturn traveled in Leo 13°.20' to Leo 15°.33'.20".
+It may be said that Saturn was in the star of Venus and sub of Venus. It
+means that Saturn travel in Venus sub for three week.
+From 19-9-1978 to 21-9-1978 Saturn traveled in Leo 13°.20' to Leo 13°.42'. It
+may be said that Saturn was in the sub sub of Venus.
+From 21-9-1978 to 23-9-1978 Saturn traveled in Leo 13°.42'.12" to Leo 13°.48'.
+It may be said that Saturn was in the sub sub of Sun.
+From 23-9-1978 to 24-9-1978 Saturn was in sub sub of Moon.
+From 24-9-1978 to 25-9-1978 Saturn was in sub sub of Mars.
+From 25-9-1978 to 27-9-1978 Saturn was in sub sub of Rahu.
+From 27-9-1978 to 01-10-1978 Saturn was in sub sub of Jupiter.
+From 01-10-1978 to 04-10-1978 Saturn was in sub sub of Saturn.
+From 04-10-1978 to 07-10-1978 Saturn was in sub sub of Mercury.
+From 07-10-1978 to 08-10-1978 Saturn was in sub sub of Ketu.
+In this way we can fix time of event up to day with the help of sub sub.
+2) Moon takes about 24 hours to move from one star to the other. It remains
+in one 'Sub' for about three hours. So the exact hour or minute can be noted
+with the help of 'Sub sub'.
+
+## Example:
+
+On 17-5-1981 05.30 AM Moon was
+traveling in Libra 10°.38' and on 18-5-
+1981 5.30 AM Moon was
+traveling in Libra 22°.31'. It means that on 17-5-
+1981 Moon was in Rahu star.
+On that day Moon's daily motion was 11°.53'. So on 18-5-1981 at 1.30 AM
+Moon remained in Rahu star.
+54
+
+## PRASHNA JYOTISH
+
+
+
+On 17-5-1981 05.30 AM Moon was traveling in Libra 10°.38'. lt may be said
+that Moon was in the star of Rahu and sub of Saturn. Saturn's strb ·weruds'
+02° .06' .40". Libra 10° .26' .40" to 12° .33' .20" is Saturn's sub area. So on 17-5-
+1981 5.30 AM to 9.23 AM~,"Y,flS in the sub of Saturn in Libra 10°.38'.00"
+to Libra 12°.33'.20".
+· j
+\1
+··,.
+. ...... ,,,,.
+... ,.'
+From s.ilo AM to 15.49 AM Moon.w~s in. Saturn sub sub, Libra 10°.38'.00" toi
+L.b
+1010 "'"'' 4""
+1s~· .. --'
+bn'trs'~'-11 ·
+ti.
+19
+·
+t
+
+## 1 ra..
+
+--'T.u.- ...._ __ , "-L.LU.J..L.S-
+.UlJl !dura on was
+mmu es.
+!
+
+## I !
+
+Moon was in Mercury sub sub up to Libra 11 °.04'.41" till 6.25 AM, Mercury's
+sub sub duration was 36 minutes.
+Moon was in Ketu sub sub up to Libra 11°.12'.04" till 6.40 AM, Ketu's sub
+sub duration was 15 minutes.
+Moon was in Venus sub sub up to Libra 11°.33'.11" till 7.22 AM, Venus's sub
+sub duration was 42 minutes.
+Moon was in Sun sub sub up to Libra
+
+## 11°.39>,~!" till 7.35 AM, Mercury's sub
+
+sub duration was 13 minutes.
+Moon was in Moon sub sub up to Libra 11 °.50'.04" till 7.55 AM, Mercury's
+sub sub duration was 20 minutes.
+Moon was in Mars sub sub· up to Libra 11 °.57'.27" till 8.10 AM, Mars's sub
+sub duration was 15 minutes.
+Moon was in Rahu sub sub up to Libra 12°.16'.27" till 8.49 AM, Rahu's sub
+sub duration was 39 minutes.
+Moon was in Jupiter sub sub up to Libra 12°.33'.20" till 9.23 AM, Jupiter's
+sub sub duration was 34 minutes.
+ln this way we can find out the day or hour or minute of an event.
+3) Ascendant takes about two hours to move from one sign to the other. It
+remains in one star for about 52 minutes. lt remains in one sub for about 5
+to 8 minutes. So the exact minute can be noted with the help of the Sub sub.
+Details explanation is given in next chapter Mystery of Ruling Planets under
+Birth time rectification.
+4) When two planets are in the same sign and/or have the same star lord
+and the same sub lord, it happens that the period and sub period of one
+proves fortunate, while that of the other planet is not fortunate. ln such cases
+the 'Sub sub' of these two planets will help us in knowing which of the two
+planets will be fortunate.
+
+## PRASHNA JYOTISH
+
+55
+
+
+
+## Example : Natal Chart :
+
+Gender: Male; Date of Birth: 07-07-1912 Sunday; Time: 08.42 PM 1ST
+Long/Lat: 23o N 02'; no E 35'
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sun
+Me
+Ju
+Sa
+Moon
+Ju
+Me
+Su
+
+## I
+
+Sa
+Mo
+Mars
+Su
+Ke
+Ve
+2
+Sa
+Ra
+Mercury
+Mo
+Sa
+Ra
+3
+Ju
+Me
+Jupiter[R) Ma
+Sa
+Ra
+Venus
+Me
+Ju
+Sa
+4
+Ma
+Ve
+Saturn
+Ve
+Su
+Ke
+5
+Ve
+Mo
+Rahu
+Ju
+Me
+Ra
+Ketu
+Me
+Ma
+Ra
+6
+Me
+Ra
+Ra 24:36
+Mo21:49
+112:40
+Sbl
+Ra
+Ma
+Ra
+Me
+Ve
+Ve
+. . . . . . .
+• . .
+
+## IV25'44
+
+Xl21:44
+Ju(R) 14:02
+Cusp
+7
+8
+9
+10
+11
+12
+Sa 07:30
+
+## V21:44
+
+
+## X25:44
+
+Sgn
+Mo
+Su
+Me
+Ve
+Ma
+Ju
+Stl
+Sa
+Ve
+Ma
+Ju
+Me
+Ve
+Vl15:44
+Su 22:34
+Ve 23:00
+Vll12:40
+Me 13:02
+Ma01:40
+Vlll19:44
+Ke 24:36
+
+## IX25:44
+
+Sbl
+Ma
+Ra
+Ra
+Me
+Su
+Su
+A) In example horoscope Sun is
+in Gemini 22°.34' and Venus is in
+Gemini 23°.00". both are in the
+star of Jupiter and sub of Saturn.
+Sun is in the sub sub of Venus.
+Venus is in the sub sub of Sun.
+now check both's sub sub. Sun's
+sub sub Venus is owner of 5-10
+and Venus's sub sub lord Sun is
+owner of 8. Hence it is clear that
+dasa and bhukti of Sun gives
+good result and dasa and bhukti
+of Venus does not gives good
+result.
+B) Mercury and Jupiter are in the
+star of Saturn and sub of Rahu.
+Mercury is in the sub sub of
+Rahu and Rahu is occupant of 2,
+during bhukit-antra of Mercury native get good financial gain.
+56
+
+## PRASHNA JYOTISH
+
+
+
+~~-------------4-----------+---~--------~/
+~
+ea2~;~o
+
+## IV25:44
+
+. -~~~~;s~; /
+~:;;,~ ~ 7
+1119:44
+Vll12:40
+Me13:02
+
+## X25:44
+
+Jupiter is in the sub
+sub
+of
+Mercury.
+Mercury is owner of
+
+## 6th. This bhukit and
+
+antra does not give
+good result to native
+against Rahu.
+l) In Vimshotari dasa
+birth
+Moon's
+star
+indicate dasa lord,
+sub
+lord
+indicate
+Bhukti lord and sub
+sub
+lord
+indicate
+antra lord.
+In above horoscope
+Moon is in Pisces
+
+## 21°.49', thus Moon is
+
+in the star of Mercury and sub of Sun and sub sub of Jupiter. So it is indicate
+th.-u native born in Mercury dasa, Sun bhukit and Jupiter antra.
+
+## PRASHNA JYOTISH
+
+57
+
+
+Chapter 15
+Mystery of Ruling Planets
+
+## 1.
+
+Ruling Planets (RP) & Rectification of Birth time
+1)
+We can find out whether time of birth is correct by help of Ruling planet
+
+## (RP).
+
+Note down the ruling planet at the time of judgment.
+Omit the RP which are in retrograde star or sub.
+Generally birth ascendant's Rasi lord, Star Lord, Sub lord and Sub Sub
+lord will be tally with RP or RP of birth time will be tally with RP of time
+of judgment.
+2)
+When a native has two birth times use the following method to find out
+his correct birth time. ,
+a)
+Note down the ruling planet at the time of judgment.
+b)
+Omit the RPs which are in retrograde star or sub.
+c)
+Note the sign lord, star lord, sub lord and sub sub lord of the Asc for
+both the birth times.
+d)
+Tally both the birth times with ruling planets.
+e)
+That time, for which the sign lord, star lord, sub lord and sub sub
+lord of the Asc tally with the ruling planets, is considered the correct
+time. Drop other one.
+3)
+In cases where the approximate interval of birth time viz. 2 AM to 3 AM
+10 AM to 12 noon; 7 PM to 8 PM and so on is given, proceed as under;
+a)
+Note the ruling planets at the time of judgment.
+b)
+According to the date of birth, you should fix the probable sign of the Asc
+in which birth could have taken place. Generally the sign owned by any
+one of the ruling planets will be rising in the Asc; or the sign occupied by
+Rahu or Ketu if it is a ruling planet, will be rising in the Asc.
+c)
+Then select the star lord and sub lord etc., suitable to this sign
+from the ruling planets. Bear in mind the order of preference among the
+ruling planets, also the importance of Rahu or Ketu.
+d)
+Find out the sensitive degree of this sign on which the sign lord,
+star lord, sub lord and sub sub lord operate jointly. This degree will show
+the exact position of the Ascendant at the birth.
+The time when this
+degree rises in the Asc. should be considered as the correct time of birth.
+4)
+When the time was recorded correctly, or corrected as per above method,
+in that case the following situation holds.
+When you try to check again you find that the sign lord, star lord, sub
+lord and sub sub lord of the Asc tally with the ruling planets or the sign
+lord, star lord, sub lord and sub sub lord of the Asc found in the star or
+sub of ruling planets. Or The sign lord, star lord, sub lord and sub sub
+lord of the Asc is conjoined or aspected by the ruling planets.
+Secondly we find that the ruling planets at the birth tally with the ruling
+planets or ruling planet at the birth found in the star or sub of ruling
+planets. Or ruling planets at the birth is conjoint or aspected by ruling
+planets.
+58
+
+## PRASHNA JYOTISH
+
+
+
+Example 1
+Male. Birth 7-7-1912, Sunday; 8-42 PM 1ST; 23o N 02', no E 35'
+
+## Ruling planets at the birth:
+
+Day lord
+Sign lord
+Star lord
+Day: Sunday
+Sun
+Asc: Capricorn 12° .40'
+---.,' ,.
+Sat
+Moo
+Jup
+Mer
+Moon: Pisces
+
+## 21°.49'
+
+Time of Judgment: 8-9-1969, Monday, 7-45 AM 1ST; 23° N 02', no E 35'
+
+## Ruling planets at the time of judgment:
+
+Day: Monday
+
+## Asc:
+
+Virgo
+
+## 08° .41'
+
+Moon: Cancer 09°.58'
+Day lord
+Sign lord
+Moo
+Mer
+Moo
+Star lord
+Sun
+Sat
+'·
+At this moment Rahu is in Aquarius. So it represents Saturn. Ketu was in
+Leo. So it represents Sun. Hence the ruling planets are Sun, Moon, Mercury,
+Saturn, Rahu and Ketu.
+Asc. at the birth is Capricorn 12°.40', Asc sign lord is Saturn, star lord is
+Moon, sub lord is Rahu and sub sub lord is Saturn.
+The ruling planets at the birth tally with the ruling planets at the time of
+judgment. For example in birth chart day lord Sun, in ruling planet Sun is
+star of Asc. in birth chart Moon is Asc star lord and, in ruling planet Moon is
+Moon's sign lord.
+Asc sign lord is Saturn and in ruling planet Saturn is star
+lord of Moon. ln birth chart Moon's sign lord is Jupiter (Rahu was in Pisces.
+So it represents Jupiter), in birth chart Asc star lord Mer and in ruling planet
+Asc sign lord is Mer. The joint rulers of the Asc at the birth also correspond
+to the ruling planets at the time of judgment. So the birth time is correct.
+
+## Example-2 :
+
+Female. Birth 24-5-1921, Tuesday; 12-45 PM or 1-00 PM IST; 22° N 00', 73°
+
+## E 30'
+
+
+## Ruling planets at the birth:
+
+For birth time 12-45 PM
+Asc: Leo 13°.00'
+For birth time 01-00 PM
+Asc: Leo 16° .26'
+Sign lord
+Sun
+Sign lord
+Sun
+Star lord
+Ket
+Star lord
+Ven
+Sub lord
+Mer
+Sub lord
+Moon
+Time of Judgment: 10-9-1969, Wednesday, 1-07 PM 1ST; 23° N 02', no E 35'
+
+## PRASHNA JYOTISH
+
+59
+
+
+
+## Ruling planets at the time of judgment:
+
+Day lord
+Sign lord
+Star lord
+Day: Wednesday
+Mer
+As c: Scorpio 24°
+Mar
+Mer
+Moon: Leo 7°
+Sun
+Ket
+At this moment Ketu is in Leo. So it represents Sun. Hence the ruling
+planets are Sun, Mar, Mercury and Ketu.
+1; r,r birtl1 time 12-45 PM, Asc. was
+lord Ketu and sub lord Me;-cury.
+planets at the time of judgment.
+Leo 13°.00'. Asc sign lord was Sun, Star
+All these three planets are in the ruling
+But for birth time 01-00 PM, Asc. was Leo 16°.26'. Asc sign lord was Sun,
+Star lord Venus and sub lord Moon. Venus and Moon are not in the ruling
+planets at the time of judgment. So the correct birth time is 12-45 PM
+
+## Example -3 :
+
+Male. Birth 15-6-1944, Thursday; 9-0 AM 1ST (New) or 9-0 AM 1ST (Old);
+22° N 44', no E 29'
+At this time due to the 2"d world war, the Indian Standard Time was made
+faster by one hour and it was called the New Indian Standard Time. The birth
+time was 9-0 AM, but it was not certain whether it was recorded according to
+the new TST or the old 1ST.
+For hirt f time 09-00 AM IF, (New),
+Sign lord
+Asc. Gemini 28°.07' Mer
+For birth time 09-00 AM 1ST (Old),
+'Sign lord
+Star lord
+Jup
+Star lord
+Sub lordSub sub lord
+Ven
+Sat
+Sub lordSub sub lord
+Asc.
+Cancer ·
+
+## 11 '.lo
+
+Moon
+Sat
+Moo
+Rah
+Time ofjudgment: 31-7-1970, Friday; 10-30 PM 1ST; 23o N 02', no E 35'
+•
+Ruling planets at the time of judgment
+~
+:Oay lord
+Sign lord
+Star lord
+Day: Friday
+Asc: Pisc~s 15' .23'
+Moon: G~mini 27".49'
+Ven
+Jup
+Mer
+Sat
+Jup
+Thus the ruling planets are Mercury, Jupiter, Venus and Saturn.
+The sign lord, star lord, sub lord and sub sub lord of the Asc Gemini 28° .07'
+for 9-00 ~M IST (New) agree with the ruling planets at the time of judgment.
+So take 9-00 AM 1ST (New) as the correct time of birth and reject 9-00 AM IST
+(Old).
+60
+
+## PRASHNI• IYOTISH
+
+
+
+
+## Example -4:
+
+Male. Birth 23-11-1911, Thursday; 22° N 46', 73° E 40'.
+It was said that the ascending sign at the time of birth is Gemini and the
+approximate time is between 7-30 PM IST to 8-30 PM 1ST
+Time ofjudgment. 31-l-1970, Saturday; 4-15 PM IST; 23o N 02', no E 35'.
+Ruling planets at the time of judgment
+Day: Saturday
+Asc: Gemini 19°.17'
+Moon: Libra 28°.07'
+Day lord
+Sign lord
+Sat
+Mer
+Ven
+Star lord
+Rah
+Jup
+At this time Rahu is in Aquarius. So it represents Saturn. H~nce Rahu may
+be preferred to Saturn. Thus the ruling planets are Mercury, Rahu, Jupiter
+and Venus.
+At the time of judgment the Asc is Gemini. So it is certain beyond doubt that
+the ascending sign at the time of birth is Gemini. Now we have only to fix the
+degrees and minutes in Gemini.
+Out of the ruling planets Mercury has already become the "sign lord. So we
+have now to select the star lord, sub lord and sub sub lord out of Rahu,
+Jupiter and Venus.
+In Gemini Mars, Rahu and Jupiter can become the star lords. Mars is not the
+ruling planet. So it is to be rejected. Hence the selection is to be made out of
+Rahu and Jupiter. Rahu or Ketu is to be considered stronger than any planet.
+So take Rahu as the star lord.
+In selection from RP we have to follow as per bellow;
+Lagna star is first, then Lagna sign lord, then Moon star, then Moon sign lord
+and lastly day lord.
+Keeping above in mind, out of Jupiter and Venus we have to select the sub
+lord. Jupiter is the star lord of Moon, while Venus is the sign lord of Moon.
+So select Jupiter as the sub lord. Venus automatically becomes the ·sub sub
+lord.
+'
+Now find out the degree and minute in Gemini on which all these ruling planets
+viz. Mercury, Rahu, Jupiter and Venus operate jointly.
+Gemini 9°.32'.27" to 9°.50'. 14" is the area on which all the ruling planets operate
+jointly viz. Mercury becomes the sign lord. Rahu the star lord, Jupiter the sub
+lord and Venus the sub sub lord. (See table No; 6 Page 44)
+On the date of birth, the time at which this degree of Gemini rises on the
+Asc. should be taken as the correct time of birth.
+On 23-ll-1911, Thursday; 22° N 46', 73°E 40' at 7-57 PM !ST. Gemini 9°.33'
+rises on the Asc. So this time should be taken as correct time of birth.
+Re-verification: On 13-7-1970, Monday; at 05-45 PM 1ST., 23o N 02', no E 35'
+
+## PRASHNA JYOTISH
+
+61
+
+
+there was a keen desire to re-verify the above time. Ruling planets at that
+time were as under.
+Day lord
+Sign lord
+Star lord
+Day: Monday
+Moo
+•'V l ~,~
+Asc: Sagittarius 03°.56'
+..
+Jup
+Ketu
+tl
+Moon: Libra lr.07'
+Ven
+Rah
+Thus the ruling planets are Moon, Jupiter, Venus, Rahu and Ketu.
+The star lord Rahu, the sub lord Jupiter and the sub sub lord Venus of the
+Asc Gemini go .33' at the time of birth correspond to the rujing planets at the
+time of re-verification. Hence 7-57 PM IST the time of birth which is fixed is
+correct beyond doubt.
+
+## 2. Elimination of Significators and R.!lling Planets at the Time of Judgment
+
+If the birth horoscope or a horary map indicates more than three or four
+significators regarding the matter to be judged, unimportant significators may
+be eliminated with the aid of the ruling planets.
+Note the ruling planets of the moment when you begin to analyse and judge
+the horoscope.
+The common planets between the significators (of the matter to be judged) and
+the ruling planets may be considered as the final significators and the rest
+may be eliminated.
+
+## 3. Ruling Planets and Affinity
+
+1)
+Joint dasa period and ruling planets
+
+## A)
+
+Note the Dasa, Bhukti, Antra and Sookshma of your marriage or child
+birth or friendship with one's or partnership.
+
+## B)
+
+Note the birth ruling planets of your wife or friend or partner or child.
+
+## C)
+
+His/her birth ruling planets always match with your DBAS. Or ruling
+planets must be in the star of DBAS lords or ruling planets must be in
+the sub of DBAS lords or ruling planet must be in conjunct with or
+aspected by DBAS lords.
+1)
+Birth ruling planet and significator of native
+
+## Example-! :
+
+Male. Birth 7-7-1912, Sunday; 08-42 PM IST; 23o N 02', 72o E 35'
+Marriage on 13-12-1937 Monday in evening about 7 PM.
+Place 23° N o 02', 72° E 35'
+
+## Ruling planet at the time of marriage:
+
+Day lord
+Sign lord
+Star lord
+Day: Monday
+Asc: Gemini 13°.13'
+Moon: Pisces 29° .49'
+62
+Moo
+Mer
+Jup
+Rah
+Mer
+
+## PRASHNA JYOTISH
+
+
+
+Hence the ruling planets are Moon, Mercury, Jupiter and Rahu.
+For marriage we check 2, 7, 11. So in this example we found significator of
+marriage and ruling planet will match.
+In ruling planet Moon is owner of 7, occupant of 2.
+Mercury is occupant of
+
+## 7. Rahu is occupant of 2 and significator of 7. Jupiter is significator of 2"d.
+
+First child birth on 23-02-1946 Saturday in evening 4.15 PM
+Place 23° N 02', 72° E 35'
+
+## Ruling planet at the time of Child birth:
+
+Day lord
+Sign lord
+Star lord
+Day: Saturday
+Asc: Cancer 09°.36'
+Moon: Scorpio 04°.05'
+Sat
+Moo
+Mar
+Sat
+Sat
+Rahu is in the sign of Gemini and conjoined with Mars and Saturn. Thus
+Rahu is represents Mars and Saturn.
+Hence the ruling planets are Moon,
+Mars, Saturn and Rahu.
+For child birth we check 2, 5, 11. So in this example we find that significator
+of child birth and ruling planet will match.
+In ruling planet Moon is occupant of 2. Mars is owner of 11. Saturn is owner
+of 2. Rahu is occupant of 2" .
+Second child birth on 09-04-1949 Saturday in noon 1.18 PM
+Place 23° N 02', 72° E 35'
+
+## Ruling planet at the time of Child birth:
+
+Day lord
+Sign lord
+Star lord
+Day: Saturday
+Asc: Cancer 09°.54'
+Moon: Leo 02°. 17'
+Sat
+Moo
+Sun
+Sat
+Ketu
+Hence the ruling planets are Moon, Sun, Saturn and Ketu.
+In ruling planet Moon is occupant of 2. Saturn is owner of 2. Ketu
+is
+significator of 11 and Sun is significator of child birth.
+Third child birth on 17-05-1952 Saturday in evening 07.39 PM
+Place 23° N 2', 72° E 35'
+
+## Ruling planet at the time of Child birth:
+
+Day lord
+Sign lord
+Star lord
+Day: Saturday
+Asc: Scorpio 09°.58'
+Moon: Aquarius 16°.14'
+Sat
+Mar
+Sat
+Sat
+Rah
+Rahu is in the sign of Aquarius. Thus Rahu is represents Saturn. Hence the
+ruling planets are Mars, Saturn and Rahu.
+In ruling planet Mars is owner of 11. Saturn is owner of 2. Rahu is occupant
+of 2"d.
+Fourth child birth on 28-03-1956 Wednesday in Noon 01.15 PM
+Place 23° N 2' 72° E 35'
+
+## PRASHNA JYOTISH
+
+63
+
+
+
+## Ruling planet at the time of Child birth:
+
+Day: Wednesday
+Asc: Gemini 29°.05'
+Moon: Libra 06° .32'
+Day lord
+Mer
+Sign lord
+Mer
+Ven
+Star lord
+Jup
+Mar
+Rahu is in the sign of Scorpio. Thus Rahu is represents Mars. Ketu is in the
+sign of Taurus. Thus Ketu is represents Venus. Hence the ruling planets are
+Mars, Mercury, Jupiter, Venus, Rahu and Ketu.
+In ruling planet Mars is owner of 11. Mercury and Jupiter are significtors of
+
+## 2. Venus is owner of 5. Rahu is occupant of 2"d. Ketu is significator of II.
+
+2)
+Birth ruling planet and joint dasa period of native
+
+## A)
+
+Note the Dasa, Bhukti, Antra and Sookshma of your marriage or child
+birth or friendship with one's or partnership.
+
+## B)
+
+Note the birth ruling planet of your wife or child or friend or partner.
+
+## C)
+
+Birth ruling planet of your wife or child or friend or partner will be
+match with your joint period lord of dasa in his chart. or
+Birth ruling planet will be in the star of joint period lord of dasa or
+Birth ruling planets will be in the sub of joint period lord of dasa or
+Birth ruling planets will be conjoined or aspect of joint period lord of
+dasa.
+
+## Childbirth:
+
+Male. Birth 7-7-1912, Sunday; 08-42 PM 1ST; 23° N 2', no E 35'
+Child birth during Venus-Ketu-Mars on 09-04-1949 Saturday in Noon 01-
+18 PM. Place 23° N 02', 72° E 35'
+
+## Ruling planet at the time of child birth:
+
+Day: Saturday
+Asc: Cancer 09°.54'
+Moon: Leo 02°. 17'
+Day lord
+Sign lord
+Sat
+Moo
+Sun
+Star lord
+Sat
+Ketu
+Hence the ruling planets are Moon, Sun, Saturn and Ketu.
+Ruling planet Sun is in conjoined with joint dasa lord Venus and Mars in
+child's chart.
+Ruling planet Moon & Saturn is in the star of joint dasa lord Ketu in child's
+chart.
+Ruling planet Ketu is in conjoined dasa lord Ketu in child's chart.
+Thus ruling planet of son at the time of birth was tally with native's joint
+dasa lords Venus, Ketu, Mars.
+64
+
+## PRASHNA JYOTISH
+
+
+
+
+## Friendship with astrologer:
+
+Friendship with astrologer friend during joint period of Mars-Ketu-Jupiter
+on 26-09-1970
+
+## Ruling planet at the time of Friendship with astrologer friend:
+
+Day: Thursday
+Asc: Gemini 28°.26'
+Moon: Leo 21°.00'
+Day lord
+Sign lord
+Star lord
+Jup
+Mer
+Sun
+Jup
+Ven
+Hence the ruling planets are Sun, Mercury, Jupiter and Venus.
+Ruling planet Sun is in conjoined with joint dasa lord Mars in Friend's chart.
+Ruling planet Mer is in conjoined with Vidasa nath lord Jupiter in Friend's
+chart.
+Ruling planet Venus is in the star of Antra dasa lord Ketu in Friend's chart.
+Ruling planet Jupiter is same Jupiter vidasanath lord Jupiter in Friend's chart.
+Thus ruling planet of friend at the time of friendship was tally with native's
+joint dasa lords Venus, Ketu, Mars.
+3) Ruling Planets and Fulfillment of a Question
+If any question about event may relate to a minor or major event, to happen
+within shot time can be answer by RP.
+When there is a strong desire, keenness, anxiousness, eagerness or urge from
+within to know the result about any matter, then and then only you may
+predict with the help of ruling planets alone; and you may prove correct.
+The ruling planets which are in the star or sub of retrograde planets should
+be avoided. A retrograde ruling planet shall give the results only when it
+becomes direct in motion.
+The sensitive degree of any Zodiacal sign in which all the ruling planets jointly
+operate is important for fulfillment of any question.
+The question is fulfilled at the time when all the ruling planets operate jointly.
+In joint operation one of the ruling planets becomes the Sign lord, the other
+one becomes the Star lord, the third one the Sub lord and the fourth one
+becomes the Sub sub lord.
+If an event is likely to happen within 24 hours take the transit of the Asc.
+and count from the ascending degree of the moment of the query. It is advisable
+to judge retrograde planet by astrologer's own experience.
+If it is to happen within a month consider the transit of Moon and count from
+the sign transited by Moon at the moment of the query.
+If it is to happen after a month but within a year look to the transit of Sun
+and count from the sign transited by Sun at the moment of query.
+
+## PRASHNA JYOTISH
+
+65
+
+
+Generally ruling planets are five in number. The three ruling planets which
+you come across earlier in joint operation should be considered first. From the
+rest of the two that which is earlier in joint operation should be considered as
+the Sub sub lord. Of course, no hard and fast rule can be given. The reader
+may form his own rules according to his experience.
+
+## Example -1:
+
+
+## Question:
+
+When shall we stop discussing the subject?
+Time of judgment: 28-8-1969, Thursday; 03-25 PM IST; 23o N 02', no E 35'
+Ruling Planets
+Day: Thursday
+Asc: Sagittarius 13 •. 20'
+Day lord
+Jup
+Sign lord
+Star lord
+Jup
+Yen
+Moon: Aquarius 24.47'
+Sat
+Jup
+At this moment Rahu is in Aquarius. So it represents Saturn. Thus the ruling
+planets are Jupiter, Venus, Saturn and Rahu.
+As the question is a minor one, it is a matter to be fulfilled within few minutes
+or an hour. So take the transit of the Asc. and count from the ascending
+degree of the moment i.e. Sagittarius 13 •. 20' and get the degree on which all
+the ruling planets operate jointly.
+In Sub table on page no; 12, table A, we found that at number 176 Sagittarius
+
+## 13• .20' and it show Jupiter as sign lord, Venus as star lord and Venus as sub
+
+lord.
+New if we check next sub on number 177 is Sun which is not in RP, next is
+178 Moon also not in RP, next on 179 is Mars also not min RP, next on 180
+Sagittarius 18 •. 06'.40" and it show Jupiter as sign lord, Venus as star lord
+and Rahu as sub lord. this Rahu sub is up to 20 •. 06'.40".
+New for sub sub we have to check sub sub table which is on page 38; table
+
+## 2.5. we have select Jupiter, Venus, and Rahu only Saturn is with us in RP.
+
+So if we check sub sub as Saturn from 18°.40'.40" to 18°.59'.40" all four RP
+jointly operate i.e Jupiter as sign lord, Venus as star lord, Rahu as sub lord
+and Saturn as sub sub lord.
+So at the time when Sagittarius 18°.40'.40" rises in the Asc, the discussion
+will be stopped.
+This degree was on the Asc. at about 3-50 PM IST and immediately a female
+relative entered the house and we stopped the discussion.
+
+## Example -2:
+
+Question: Two of my children have gone to the hospital in the early morning.
+They have not yet returned home, when will they come back?
+Time ofjudgment: 10-4-1970, Friday; 11-07 AM 1ST; 23o N 02', no E 35'.
+66
+
+## PRASHNA JYOTISH
+
+
+
+Ruling Planets
+Day lord
+Sign lord
+Star lord
+Day: Friday
+Ven
+Asc: Gemini 11°.04'
+Mer
+Rah
+Moon: Taurus 170.47'
+Ven
+Moo
+Thus the ruling planets are Mercury, Rahu, Venus and Moon.
+As the question is a minor one, take the transit of the Asc. and count from
+the ascending degree of the moment i.e. Gemini 11 °.04' and get the degree on
+which all the ruling planets operate jointly.
+ln Sub table on page no; 14, Table C, we found that at number 49 Gemini
+10° .26' .40" to 12° .33' .20" and it show Mercury as sign lord, Rahu as star lord
+and Saturn as sub lord.
+Saturn is not in RP so we check next sub on number 50 is Mercury which is
+already taken as sign lord, next is 51 Ketu also not in RP, next on 52 is
+Gemini 15°.13'.20" to 1 r .26' .40" and it show Mercury as sign lord, Rahu as
+star lord and Venus as sub lord.
+New for sub sub we have to check sub sub table which is on page 42; table
+
+## 6.6. We have select Mercury, Rahu and Venus only Moon is with us in RP. So
+
+if we check sub sub as Moon from 15°.42'.12" to 15°.53'.19" all four RP jointly
+operate i.e Mercury as sign lord, Rahu as star lord, Venus as sub lord and
+Moon as sub sub lord.
+So at the time when Asc raises Gemini 15°.42'.12" both the children might
+have returned home.
+This degree was on the Asc. at about 11-30-8 AM 1ST. It was 11-32 AM 1ST
+when both the children returned home.
+
+## Example -3:
+
+Question: Probable date when the examination results will be declared.
+Time of judgment: 22-ll-1969, Saturday; 06-28 PM 1ST; 23o N 02', no E
+
+## 35'.
+
+Ruling Planets
+Day: Saturday
+Asc: Taurus 16°.10'
+Day lord
+Sat
+Sign lord
+Star lord
+Ven
+Moo
+Moon: Aries 19°.40'
+Mar
+Ven
+At that moment Rahu is in Aquarius. So it represents Saturn. Hence prefer
+Rahu to Saturn. Thus the ruling planets are Venus, Mars, Rahu and Moon.
+As the matter is to happen within a week or so, take the transit of Moon and
+count from the sign transited by Moon at the moment i.e. Aries 19°.40' and
+get the degree on which all the ruling planets operate jointly.
+
+## PRASHNA JYOTISH
+
+67
+
+
+Ruling Planets
+Day lord
+Sign lord
+Star lord
+Day: Thursday
+Jup
+Asc: Cancer
+
+## 03°.31'
+
+Moo
+Sat
+
+## Moon:
+
+Taurus
+
+## 09°.
+
+
+## 31 I
+
+Ven
+Sun
+At that moment Rahu is in Cancer. So it represents Moon. Ketu was in
+Capricorn So it represents Saturn. Venus and Sun were conjoint with Ketu.
+So Ketu is also represents Venus and Sun. Jupiter is aspects on Ketu, so
+represents Jupiter too.
+As the matter is to happen within 24 hours or so, take the transit of Asc. and
+count from the sign transited by Asc.
+At the moment i.e. Cancer 03°.31', get
+the. degree on which all the ruling planets operate jointly.
+Cancer 15° .45' is the area on which all the ruling planets viz. Moon (as sign
+lord), Saturn (as star lord), Jupiter (as sub lord) and Ketu (as sub sub lord)
+operate jointly.
+Asc Cancer 15°.45' was transiting this degree on 12-2-1981, Thursday at about
+5-25 PM 1ST and actually at the same time they go.
+
+## Example -6:
+
+
+## Question:
+
+When will our friends come here?
+Time ofjudgment: 4-3-1981, Wednesday; 11-00 AM 1ST; 23o N 02', no E
+35'
+Ruling Planets
+Day: Wednesday
+Asc: Taurus 04°.04'
+Moon: Capricorn 20°.56'
+Day lord
+Mer
+Sign lord
+Ven
+Sat
+Star lord
+Sun
+Moo
+At that moment Rahu is in Cancer. So it represents Moon. Ketu was in
+Capricorn, conjoint with Moon, Mercury and Ketu. So it represents Saturn,
+Moon, and Mercury. Thus the ruling planets are Sun, Moon, Mercury, Venus,
+Saturn, Rahu and Ketu.
+As the matter is to happen within 24 hours or so, take the transit of Asc. and
+count from the sign transited by Asc.
+at the moment i.e. Taurus
+
+## 04°.04'
+
+and get the degree on which all the ruling planets operate jointly.
+Up to Taurus 10°
+is the area on which Venus (as sign lord), Sun (as star
+lord), operate jointly. Duration was about 20 minute. Our friends were going
+too fare. So it is sure that there is no chance of coming back within 20 minutes.
+Taurus 10° to Taurus 23°20' is the area on which Venus (as sign lord) and
+Moon (as star lord), operate jointly. So the only chance of comeing back was
+during this duration.
+68
+
+## PRASHNA JYOTISH
+
+
+
+We give more importance to Rahu and Ketu than other planets. So we select
+Sub of Rahu Taurus 13°03'.20" to Taurus 13°·10'.20", the area on which all
+the ruling planets viz. Venus (as sign lord), Moon (as star lord), Rahu (as sub
+lord) and Ketu (as sub sub lord) operate jointly.
+Asc Taurus 13°. 10' was transiting this degree on 4-3-1981, Wednesday, at about
+11-37 AM IST. and actually at the same time our friends came back.
+4) Ruling planet and capability.
+If birth time running planets of A tallies with significator of bhava 1, 5, 11 of
+B. then during joint period of significator I, 5, 11, A and B will feel amicable
+with each other.
+If birth time running planets of A is tally with significator of bhava 6, 8, 12
+of B. then during joint period of significator 6, 8, 12, A and B will not feel
+happy with each other.
+
+## Example:
+
+Male. Birth 7-7-1912, Sunday; 08-42 PM 1ST; 23o N 02', no E 35'
+
+## Ruling planets at the birth:
+
+Day lord
+Sign lord
+Star lord
+Day: Sunday
+Sun
+Asc: Capricorn 12°.40'
+Sat
+Moo
+Moon: Pisces 21 o .49'
+J up
+Mer
+On 17-10-1973 he meets with a very learned person and this turns in to good
+friendship. At that time running joint period was Rah-Rahu-Saturn.
+
+## Friends birth ruling planet:
+
+Male. Birth 26-7-1925, Sunday( time was before sunrise, so we consider day
+lord as Saturday); 05-02 AM 1ST; 22° N 41 I, no E 55'
+
+## Ruling planets at the birth:
+
+Day lord
+Sign lord
+Star lord
+Day: Saturday
+Asc: Gemini 24°.52'
+Moon: Virgo 05° .45'
+Sat
+Mer
+Mer
+Jup
+Sun
+Rahu is in the sign of Cancer, conjoined with Sun and aspected by Saturn.
+Thus Rahu is represents Sun and Saturn. Ketu is in the sign of Capricorn
+and aspected by Sun. Thus Ketu is represents Sun and Saturn. Hence the
+ruling planets are Sun, Mercury, Jupiter, Saturn, Rahu and Ketu. Among these
+ruling planets Rahu and Saturn are joint dasa period of native.
+ln friends ruling planets Rahu and Saturn is significator of 6 and 8 house of
+native. During date 18-9-1973 to 22-2-1974 native run through Rah-Rahu-
+Saturn, so during February 1974 there was misunderstanding and problem
+with friend, but when native run Rah-Rahu-Mercury from 22-2-1974 during
+this period become friend again, because Mercury is significator of 1st.
+
+## PRASHNA JYOTISH
+
+69
+
+
+
+## PRASHNA JYOTISH
+
+Part 2
+Practical
+p. 70 & 72 are blank- erased
+71
+
+
+Example: 1. Longevity
+Question. When will my son recover from bad health?
+Number. 119 (out of249).
+Time of Judgment. 23-03-1970, Monday; 10-25 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35'. Aynamsha 23°.20'
+Ve 23:15
+Sa 13:48
+v 19:24
+11120:26.40
+Ma 18:31
+Me09:25
+
+## IV 19:24
+
+Su 09:18
+1122:24
+Ra 17:38
+121:24
+
+## X 19:24
+
+Xll20:24
+Xl19:24
+Ju[R]11:07
+Plsnet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl
+Sun
+Ju
+Sa
+Ve
+0
+Moon
+Me
+Mo
+Sa
+1
+Sa
+Mo
+Ve
+0
+7
+Mo
+Me
+Mars
+Ma
+Ve
+Ra
+2
+Sa
+Ju
+Sa
+0
+8
+Su
+Ve
+Mercury
+Sa
+Ve
+Ju
+3
+Ju
+Me
+ve.
+0
+9
+Me
+Mo
+Jupiter[R] Ve
+Ra
+Sa
+0
+Venus
+Ju
+Me
+Mo
+4
+Ma
+Ve
+Ra
+0
+10
+Ve
+Ra
+Saturn
+Ma
+Ve
+Ve
+5
+Ve
+Mo
+Ke
+0
+11
+Ma
+Me
+Rahu
+Sa
+Ru
+Su
+0
+Ketu
+Su
+Ve
+Ma
+6
+Me
+Ju
+Ju
+0
+12
+Ju
+Ve
+Hints
+Vl20:24
+Vll21:24
+Ke 17:38
+Vlll22:24
+Mo 16:29
+
+## IX 20:26.40
+
+Sbl
+Ve
+Sa
+Ve
+Ma
+Ve
+Ju
+Rule 1: If the cuspal sub lord of the Asc. be the significator (in the star of
+the occupant or owner) of the house 6 or 8 or 12 the life is short (about 33
+years). If the cuspal sub lord of the Asc. be the significator (in the star of the
+occupant or owner) of the house 1 or 5 or 9 or 10 the life is long (about more
+than 66 years). If the cuspal sub lord of the Asc. be the significator (in the
+star of the occupant or owner) of the house 6 or 8 or 12 and 1 or 5 or 9 or
+10, the life is medium (about 66 years). But if the cuspal sub lord of the Asc.
+be the significator (in the star of the occupant or owner) of the Badhaka and
+Maraka houses with the above mentioned houses, it is not good for the life.
+If the cuspal joint rulers (the sign lord, star lord and sub lord) of the Asc. or
+the 8th cusp be the significators (in the star of the occupant or owner) of the
+Badhaka and Maraka houses, their joint period is very critical for life. In the
+short life case within 33 years, in the medium life case within 66 years and
+in the long life case above 66 years, also check the 3rd and 8th cusps too.
+Badhaka bhava is more danger than Maraka bhava. So when we are checking
+about longevity first check the Badhaka bhava and then Maraka bhava.
+Rule 2: If the cuspal sub lord of the Asc. be the significator (in the star of
+
+## PRASHNA JYOTISH
+
+73
+
+
+the occupant or owner) of the
+Badhaka and Maraka houses, the
+life is short. If the cusp a! joint rulers
+(the sign lord, star lord and sub
+lord) of the Asc. or the 8th cusp be
+the significators (in the star of the
+occupant or owner) of the Badhaka
+and Maraka houses, their joint
+period is very critical for life.
+Moon
+In this horary map the mother asked
+the question about her son. Moon
+occupies the 12th (worries to the
+querent). Consider the 5th cusp as
+the Asc. for the son and proceed.
+For convenience the chart is rotated
+to the 5th and the number is given
+to each house counted from the 5th
+cusp. Moon is aspected by the owner of 8 (Sun) and the owner of 6 (Mercury).
+It is in its own star owning 7 and occupying 8. It is in the sub Saturn owning
+I the Asc. of the son and 2, and occupying 3. So Moon is the significator of
+7 (Maraka), 8 (longevity) and connected with 1 (health), 2 (Maraka), 3 (longevity)
+and 6 (sickness). Thus Moon clearly indicates that the querent is worried about
+the health, sickness and longevity of her son.
+
+## Son's Asc (Capricorn 21°.24'):
+
+It is jointly ruled by Saturn (sign lord), Moon (star lord) and Venus (sub lord).
+Vll21:24
+
+## IV 19:24
+
+Ma 18:31
+Sa 13:48
+Ra17:38
+121:24
+The sub lord of the Asc. is
+Venus. It is in the star
+Mercury
+owning
+6
+and
+occupying 2. It is in the sub
+Moon
+owning
+7
+and
+occupying 8. So it is the
+significator of the Maraka
+house 2 and connected with
+the Maraka house 7.
+We may now examine the
+
+## X
+
+~
+4
+strength of the star lord and
+4
+90
+the
+sub lord of Venus.
+Venus's star lord Mercury is
+Ju!R111,07
+in conj. with the owner of 8
+x 19:24
+(Sun) and aspected by the
+/~-------------+--------~~----------~~, owner of the maraka house
+7 (Moon). Venus's sub lord
+Moon is the significator of the maraka houses as discussed above. Thus both
+the star lord and the sub lord of Venus are evil. Consequently, the cuspal sub
+lord of the son's Asc. (Venus) becomes evil for the son's longevity and it denotes
+short life.
+74
+
+## PRASHNA JYOTISH
+
+
+
+
+## Son's Cusp 8th (Leo 22° .24):
+
+lt is jointly operated by Sun (sign lord), Venus (star lord) and Saturn (sub
+lord).
+The cuspal sign lord of 8 Sun is in the star Saturn owning the son's Asc. and
+2; So Sun is the significator of the Maraka houses 2. Sun's star lord Saturn
+is in conj. with Mars the owner of the Badhaka house 11 and aspected by the
+owner of 12 (Jupiter); so Saturn becomes evil. Sun's sub lord Venus is in
+association with the owner of 6 (Mercury) and the owner of 8 (Sun); so Venus
+becomes evil. Consequently, the cuspal sign lord of 8 Sun becomes connected
+with the Badhaka and Maraka houses; and it becomes evil for the son's
+longevity.
+The cuspal star lord of 8 Venus is the significator of the Maraka houses 2
+and 7 as previously discussed.
+The cuspal sub lord of 8 Saturn is in the star and sub of Venus which is the
+Maraka significator of 2; so Saturn is the Maraka significator.
+Thus, the sign lord, star lord, and sub lord of 8 cusp all the three are the
+singificators of the Badhaka and Maraka houses.
+Joint period
+At the time of judgment (Balance dasa of Moon for 5 Y l M 19 D) the querent's
+son is running the joint period of Moon (the star lord of the son's Asc), Saturn
+(the sign lord of the son's Asc. and the sub lord of 8 cusp) and Venus (the
+sub lord of the son's Asc. and the star lord of 8 cusp). This period expires on
+ll-6-1970. They all are the significators of the Maraka houses as discussed
+above. So they denote danger to the son's life.
+Now the joint period of Moon, Saturn and Sun (the sign lord of 8 cusp) starts
+from 11-6-1970 and lasts up to 9-7-1970. Moon and Saturn are the Maraka
+significators; while Sun is both the Badhaka and Maraka significator as
+previously discussed. So this period will prove fatal to the life of the querent's
+son.
+Transit
+The querent's son expired on 18-6-1970 during this very joint period of Moon,
+Saturn and Sun. Moon was transiting in Scorpio 12°.54' in the star Saturn
+(the period ruler).
+
+## PRASHNA JYOTISH
+
+75
+
+
+Example: 2. Longevity
+Question: What about my aunt's longevity? She is ill from long time.
+
+## Number:
+
+143 (out of 249),
+Time of judgment: 09-10-1975, Thursday; 06-13 PM 1ST
+Place ofjudgment: 14° N 02', 80° E 15'. Aynamsha 23°.24'
+Vl26o33o20
+Ke 00:17
+VII 25o12
+V 29o12
+Ju[R)26o49
+
+## IV 28:12
+
+11126o12
+125o12
+Mo 21:40
+1125:12
+Ra 00:17
+Xll26o33o20
+Planet
+Sgn Stl
+Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Me
+Mo
+Ve
+0
+Moon
+Ma
+Me
+Su
+1
+Ma
+Me
+Ra
+0
+7
+Ve
+Mars
+Me
+Ma Ve
+2
+Ju
+Ve
+Me
+0
+8
+Me
+Mercury[R]Me
+Mo
+Ve
+3
+Sa
+Ma
+Ju
+0
+9
+Mo
+Jupiter[R] Ju
+Me
+Ju
+0
+Venus
+Su
+Ke
+Sa
+4
+Sa
+Ju
+Ve
+0
+10
+Su
+Saturn
+Mo
+Sa
+Ve
+5
+Ju
+Me
+Sa
+0
+11
+Me
+Rahu
+Ma Ju
+Mo
+0
+Ketu
+Ve
+Su
+Ra
+6
+Ma
+Ve
+Ke
+0
+12
+Ve
+Moon
+Ma04:20
+Vlll25o12
+Sa 08:23
+IX 26o12
+Ve 09:41
+X 28o12
+Me[R)22o07
+Su 22o11
+Xl29o12
+Stl
+Sbl
+Ma
+Ra
+Ju
+Me
+Me
+Ju
+Su
+Mo
+Ma
+Sa
+Ju
+Ve
+In this horary map a person asked the question about his Aunty (his mother's
+elder sister). Mother is 4th and his mother's elder sister comes under 2nd from
+Asc. (II'h from 4th). So consider the 11th cusp as the aunty's Asc. and proceed.
+For convenience each house counted from the 11th cusp.
+Moon occupies the 12th (worries to the querent) and is lord of 9th (Badhaka).
+Moon is aspected by the owner of 2 (Jupiter). It is in Mercury star and sub
+of Sun. Star lord Mercury owns 8 and is aspected by Mars owner of I, 6 and
+Jupiter the owner of 2 (Markesh). Sub lord Sun also aspected by Mars the
+owner of 1-6 and Jupiter owner of 2 (Markesh) and conjoined with Mercury
+owner of 8. Thus Moon clearly indicates 1 (longevity), 6 (sickness) 8th (death/
+longevity), 2-12(Maraka), and 9th (Badhaka) of his aunty.
+
+## Aunty's Asc (Scorpio 25°.12'):
+
+The sub lord of the Asc. is Rahu. It is in the star Jupiter and sub lord of
+Moon. Rahu is conjoint with Moon (Badhakesh) in 12th. Star lord Jupiter owns
+2 (Marakesh). Sub lord Moon is owner of 9 (Badhakesh). Rahu and Moon are
+aspected by Jupiter owning 2 (Marakesh). Thus 1st cusp sub lord Rahu is
+76
+
+## PRASHNA JYOTISH
+
+
+
+connected with 9 (Badhakesh), 2 (Marakesh) and 8. Consequently, the cuspal
+sub lord of the Aunty's Asc. (Rahu) becomes evil for the aunty's longevity and
+it denotes short life.
+
+## Cusp 8th (Gemini 25°.12):
+
+The cuspal sign lord of 8 Mercury is in the star Moon and sub Venus. Mercury
+owns 8th and its star lord Moon is owner 9 (Badhakesh) in 12 (Moksha). Its
+sub lord Venus is the owner of 7(Maraka) and 12. Thus Mercury, the significtor
+of Badhaka and connected with Maraka bhava becomes evil for the aunty's
+longevity and it denotes short life.
+
+## Ruling planet:
+
+At the time of judgment ruling planet
+Day Lord
+Day : Thursday
+
+## Asc:
+
+Pisces 28°.53'
+Moon: Scorpio 21 °.40'
+* added by Kanak Bosmia
+Jupiter
+are as under.
+Sign
+Star
+(Sub)*
+Jupiter
+Mervury
+(Saturn)
+Mars
+Mercury
+(Sun)
+At this moment Rahu was in Scorpio and aspected by Jupiter. So it represents
+Jupiter and Mars. Hence the ruling planets are Mars, Mercury, Jupiter and
+Rahu.
+
+## Significator of Badhaka & Marka:
+
+Bhava
+In the star of
+Occupant (B)
+In the star of
+Owner(D)
+occupant (A)
+owner( C)
+2
+Rah
+Jup
+7
+Mar
+Mar
+Ven
+9
+Ven
+Sun-Mer
+Moo
+12
+Sun-Mer
+Moo
+Ven
+Rah
+Thus Rahu, Mars, Venus, Sun and Mercury are strong significtore.
+Sa 08:23
+
+## IX 28:12
+
+
+## PRASHNA JYOTISH
+
+Vl28:33:20
+11128:12
+Joint period
+At the time of judgment
+(Balance dasa of Mercury for
+lO Y 7 M 15 D) the querent's
+aunty is running the joint
+period of Mercury-Sun-Mars
+(from date 29-9-1975 to 17-
+10-1975). There is no control
+of any one on dasa.
+(Kanak Bosmia: I have added
+sub for ruling planets, by this
+example I am wondering why
+there
+is
+no
+control on our
+dasa? If it is so, then why the
+ruling planets do not tally with
+77
+
+
+the DBAS? I try to get answer ofthis
+puzzle. After one year I check all
+examples with sub lord of RP and I
+got answer of this puzzle, i.e. if we
+consider sub of RP then there is no
+question of control on dasa. Check
+the above RP list sub in Italic. this
+teach us that 7 RP use give us more
+correct result)
+Dasa lord Mercury and Antara
+dasanath
+Sun
+are
+strong
+sinificators of Badhaka. Mercury is
+sub lord of 8'h and also in ruling
+planets. So during Mercury-Sun
+period becomes evil for the aunty's
+longevity and it denotes short life.
+Rahu is the sub lord of Asc. Also
+Rahu is significtors of Badhaka,
+Marak a
+and in ruling planets.
+Rahu represents Mars. Mars is also in the significtors and ruling planets. So
+we give more preference to Rahu. Thus Mercury-Sun-Rahu (from 17-10-1975
+to 2-12-1975) period will prove fatal to the life ofthe querent's aunty.
+Actually during dasa period of Mercury-Sun-Rahu-Jup (from date 23-10-1975
+to 29-10-1975) his aunty died on 25-10-1975.
+Transit
+25-10-1975 Sun was transltmg in Libra or in the star of Antra dasa lord
+Rahu. Moon was transiting in Gemini 01° in the sub of Dasanath Mercury;
+Mercury was transiting in Virgo 19° in the sub of own. Rahu was transiting in
+Libra 28°.27' in the star of Jupiter (Sookshma dasanath), and sub of Badhakesh
+Moon. Jupiter was transiting in Pisces 24° .44' in the sub of Rahu.
+78
+
+## PRASHNA JYOTISH
+
+
+
+Example: 3. Longevity
+Question: My wife is ill, what about her longevity?
+Number : 126 (out of 249),
+Time ofjudgment: 14-07-1979, Saturday; 10-01 AM 1ST
+Place ofjudgment: 18° N 47', 84° E 08'. Aynamsha : 23°.28'
+
+## I 01:53:20
+
+
+## II 01:28
+
+Ill 01:28
+Ma 19:17
+Ve16:05
+Su 27:42
+
+## XII 03:28
+
+
+## IV01:28
+
+Ju 20:01
+Me 20:25
+Mo27:53
+Ke 17:28
+
+## XI 02:28
+
+v 02:28
+Sa 17:03
+Ra 17:28
+
+## X 01:28
+
+
+## VI 03:28
+
+
+## IX 01:28
+
+
+## VIII 01:28
+
+
+## VII 01:53:20
+
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+Cusp Sgn
+Stl
+Sbl
+Sun
+Me
+Ju
+Ve
+0
+Moon
+Sa
+Ju
+Ve
+1
+Ma
+Ke
+Ve
+0
+7
+Ve
+Ma
+Ke
+0
+Mars
+Ve
+Mo
+Me
+2
+Ve
+Su
+Ju
+0
+8
+Ma
+Ju
+Ra
+Mercury
+Mo
+Me
+Ve
+0
+Jupiter
+Mo
+Me
+Ve
+3
+Me
+Ma
+Me
+0
+9
+Ju
+Ke
+Ve
+Venus
+Me
+Ra
+Ve
+4
+Mo
+Ju
+Ra
+0
+10
+Sa
+Su
+Ju
+Saturn
+Su
+Ve
+Mo
+5
+Su
+Ke
+Ve
+0
+11
+Sa
+Ma
+Ke
+Rahu
+Su
+Ve
+Ma
+0
+Ketu
+Sa
+Ra
+Su
+6
+Me
+Su
+Sa
+0
+12
+Ju
+Sa
+Sa
+Moon
+In this horary map the husband asked the question about his wife. Wife comes
+under is 7th. For convenience the chart is rotated to the 7th and the number
+
+## IV01:28
+
+Ju 20:01
+Me 20:25
+
+## PRASHNA JYOTISH
+
+
+## I 01:53:20
+
+
+## VII 01:53:20
+
+
+## X 01:28
+
+is
+given
+to
+each house
+counted from the 7th cusp.
+Moon occupies
+the
+11th
+(Badhaka).
+Aspected
+by
+Saturn lord of Badhaka. It is
+in Jupiter star owning 12
+(Mokaska), Conj. with lord of
+6th Mercury. It is in the sub
+Venus
+owning
+2
+&
+7
+(Maraka), Thus Moon clearly
+indicates that the querent is
+worried about the health,
+sickness and longevity of his
+wife.
+79
+
+
+
+## Wife's Asc. (Aries 01°.53'.20"):
+
+The sub lord of the Asc. is Venus. It is in the star of Rahu. Rahu is conjoined
+with Badhakesh (Saturn). Rahu aspected by Mars owner of 1, 8. Venus is in
+own sub, Venus is owner of Marak a bhava 2 and 7. Hence it is connected
+with Maraka house 2, 7 and I, 8 also connected with malefic planets Rahu,
+Mars, and Saturn. Thus indicate wife's longevity and it denotes short life.
+
+## Cusp 8th (Scorpio 01° .28):
+
+lord of the 8th Cusp is Rahu. It is in the star Venus and sub of Mars. Rahu
+Conjoined with Badhkesh Saturn and aspected by 8th lord Mars. Its star lord
+Venus owning 2 & 7 (Both Markesh), It is in the sub of Mars owning 1, 8 and
+occupying 2 (Marakesh). Also Mars aspected by Badhkaesh Saturn. Thus 8th
+sub lord Rahu is the significator of the Maraka house 2 & 7 and connected
+with the Maraka house 2, I ,8 and Badhka house 11. Also connected with
+malefic planets. Hence the cuspal sub lord of the wife's 8th cusp Rahu becomes
+evil for the wife's longevity and it denotes short life.
+Ruling planets.
+Day: Saturday
+
+## Asc:
+
+Virgo
+
+## 00° .20'
+
+Moon: Aquarius 27°.53'
+* added by Kanak Bosmia
+Day lord
+Saturn
+Sign lord
+Mercury
+Saturn
+Starlord (Sub lord)*
+Sun
+Jupiter
+(Rahu)
+(Venus)
+At this moment Rahu was in Leo. So it represents Sun and Conj, with Saturn.
+So it represents Sun & Saturn.
+Joint period
+At the time of judgment (Balance dasa of Jupiter for 06 Y 06 M 14 D) the
+80
+querent's wife is running the joint
+period of Jupiter- Venus- Jupiter
+(From 22-4-1979 to 26-8-1979)
+Dasanath Jupiter is in the star of
+Mercury and sub of Venus. Star
+lord Mercury owns 6 and Conjoind
+with Markesh (12) Jupiter. Sub lord
+Venus owns 2-7 (Maraka Bhava)
+Thus Jupiter becomes evil for the
+wife's longevity and also in Ruling
+planet.
+We discuss above about Bhuktilord
+Venus, Venus is strong significtore
+of Maraka- Badhaka.
+An tar dasanath is same Jupiter,
+thus joint period of Jupiter- Venus-
+Jupiter (From 22-4-1979 to 26-8-
+1979) will be danger for the wife's
+longevity.
+Actualy his wife pass away during
+
+## PRASHNA JYOTISH
+
+
+
+joint period of Jupiter- Venus-Jupiter-Rahu (From 7-8-1979 to 26-8-1979), on
+17-8-1979.
+Transit
+On 17-8-1979 Sun trans1tmg in Leo 00°.21' Own Rasi, and in the star of
+occupant of badhaka Ketu. Moon transiting in Gemini 00°.21' in the star of
+Mars occupying in 2 Marka. Jupiter transiting in Cancer 27°.27' own Sub,
+Venus transiting in Cancer 28° in the sub of Saturn Badhaka lord.
+Note from Kanak Bosmia: check RP sub lord added by me, Venus is sub lord of
+Moon and if you do not consider sub in RP how Venus come as antra? Check
+above RP SL in italic.
+
+## PRASHNA JYOTISH
+
+81
+
+
+Example 4. Disease
+Question: I am in bad since a long time, when I will be free from Disease?
+Number. 90 (out of 249),
+Time of Judgment.
+17-05-1971, Monday, 8-30 PM 1ST
+Place of Judgment. 23° N 02, 72° E 35', Aynamsha : 23°.21'
+
+## VIII 05:05
+
+Mo29:53
+Ro 25:23
+Ma 13:28
+
+## VI 08:05
+
+
+## IX 05:05
+
+Vo 05:33
+Me 07:07
+Ju[R] 08:59
+Sa 02:35
+Su 02:42
+
+## X 07:05
+
+
+## XI 08:05
+
+
+## XII 08:05
+
+Ke-25:23
+
+## I 07:33:20
+
+
+## II 05:05
+
+~----~~~~----~~----------------~~v_o_8._·o5--~l_v_o7_:o_5 __ --~l_ll_o5_:o_5 ____ L_ ____ -J
+Planet
+Sgn
+Sun
+Ve
+Moon
+Sa
+Mars
+Sa
+Mercury
+Ma
+Jupiter[R] Ma
+Venus
+Ma
+Saturn
+Ve
+Rahu
+Sa
+Ketu
+Mo
+
+## Hints:
+
+Rule: 1
+Health (1st)
+Stl
+Sbl
+Cusp
+Su
+Ju
+Ma
+Sa
+1
+Mo
+Ra
+2
+Ke
+Ra
+Sa
+Ve
+3
+Ke
+Ma
+4
+Su Ju
+5
+Ma
+Ra
+Me
+Ra
+6
+Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl
+Sbl
+0
+Su
+Ke
+Ju
+0
+7
+Sa
+Ra
+Ra
+Me
+Su
+Sa
+0
+8
+Ju
+Sa
+Sa
+Ve
+Ma
+Su
+0
+0
+9
+Ma
+Ke
+Ma
+Ma
+Sa
+Me
+0
+10
+Ve
+Su
+Ke
+Ju
+Ke
+0
+Ju
+0
+11
+Me
+Ra
+Ra
+Sa
+Su
+Ve
+0
+12
+Mo
+Sa
+Ke
+If the sub lord of the Asc. be in the star of the occupant or owner of the
+house 1 or 11, health is normal.
+If the sub lord of the Asc. be the significator (in the star of the occupant or
+owner) of the house 6 (sickness) or 8 (danger to life) or 12 (hospitalization), it
+is not good for health.
+The native may suffer from sickness or disease, during the joint period of the
+significators of 1 and 6, or I and 8, or 1 and 12.
+Rule: 2
+Disease (6th)
+If the sub lord of the 6th cusp be the significator (in the star of the occupant
+or owner) of 6 or 8 or 12 and connected with 1, the native may suffer from
+disease during the sub period of this cuspal sub lord of 6. If the sub lord of
+the 6th cusp be connected with Saturn, disease becomes chronic; if with Mars
+disease is acute, sudden and painful, and causes operations; if with Mercury
+disease gets complicated; and if with Rahu or Ketu disease remains
+undiagnosed. Rahu is similar to Saturn and Ketu is similar to Mars in effects.
+82
+
+## PRASHNA JYOTISH
+
+
+
+v
+
+## XII 08:05
+
+Ka 25:23
+
+## 1/.:.:
+
+
+## IX 05:05
+
+Va 05:33
+Me 07:07
+11105:05
+If the sub lord of the 8th or 12th cusp
+be the significator (in the star of the
+occupant or owner) of 6 or 8 or 12,
+then native suffers from the disease
+and permanent defect, which related
+to sign and house of 6th cusp sub
+lord and its star lord.
+Similarly, if the sub lord of the 8th
+or 12th cusp be the significator (in
+the star of the occupant or owner)
+of 6 or 8 or 12, then native suffers
+from serious illness or chro-nic
+disease or the disease which might
+bring some permanent defect, related
+to sign and house of 6th cusp sub
+lord and its star lord.
+During the joint period of the
+significators of 1, 5 or 11 disease is
+cured.
+Mo 29:53
+Ra 25:23
+Ma13:28
+
+## VI 08:05
+
+Rule: 3
+Cure (1, 5, 11)
+lf the sub lord of the 6th or 8th
+or 12th or 11th cusp be the
+significator (in the star of the
+occupant or owner) of l, 5 or
+11 disease is cured or the
+native is saved from any
+danger or otherwise
+during the joint period of the
+significators of 1, 5 and 11.
+Astrologer needs to select from
+sub lord of Asc, 6th or 8th or
+12'h as per his experience, it
+is advisable that first examine
+all the cusp sub lords and then come to any conclusion.
+Moon
+ln this horary map Moon occupies the 6th and owning 12th (Hospitalization) lt
+is in the star Mars owning the Badhaka house 9 and occupying 6; it is in the
+sub Saturn owning 6(sickness, disease) and 7(Maraka). So Moon is the
+significator of 6 (sickness, disease), 9 (danger to life) and connected with 6
+and 7 (Maraka). Thus Moon indicates that the query refers to the serious
+sickness or disease.
+Cuspal Sub lord
+
+## 6th cusp. (Capricorn 08°.05'}:
+
+The sub lord of the 6th cusp is Venus. Venus is in the star of Ketu and sub
+of Mars. Venus occupies the Badhaka house 9 star lord Ketu in 12, sub lord
+Mars owning 9 (Badhaka) and occupying 6. So Venus is the significator of 12
+and connected with 6 and 9. lt is not the significator of 5 or 11. Hence the
+
+## PRASHNA JYOTISH
+
+83
+
+
+cure of the disease is not promised.
+
+## 11th cusp. (Gemini 08° .05):
+
+The sub lord of the ll'h cusp is Rahu. Rahu is in the star of Mars and sub
+of Own. Rahu occupies 6 (sickness, disease). Star lord Mars owning 9 (Badhaka)
+and occupying 6 (sickness, disease). So Rahu is the significator of 6, 9 and
+connected with 6. It is not the significator of 5 or 11. Hence the disease will
+not be cured.
+Disease
+
+## 6th cusp. fCapricorn 08°.05'):
+
+The cuspal sub lord of 6 is Venus. Venus occupies the movable sign Aries. Its
+star lord Ketu also occupies the movable sign Cancer. The movable sign governs
+head; stomach; kidney, skin and the functional system of the body. So these
+parts of the body will be affected by the disease.
+The cuspal sub lord of 6 (Venus) is in conjoined with Mercury; so the disease
+will be of the complicated nature. It is aspected by Mars; so the disease will
+be acute, inflammatory and painful.
+Venus's star lord Ketu is aspected by Saturn; so the disease will be chronic in
+its nature. It is also aspected by Mars; so there will be painful, acute, sudden
+and inflammatory diseases.
+In this case the querent girl was suffering from many diseases viz. kidney was
+not functioning, the whole body was getting swelled and so on. Even the expert
+Doctors could not diagnose the disease.
+Longevity
+
+## Asc. (Leo 070.33'.20"):
+
+The sub lord of the Asc. is Jupiter. It is retrograde. Jupiter is in the star of
+Saturn and sub ofVenus. Jupiter owns the 8th. It is in the star Saturn owning
+the Marak a house 7 and occupying the Badhaka house 9. It is in the sub
+Venus in 9. So Jupiter is the significator of the Badhaka and Maraka house
+and connected with the 8th and the Badhaka house 9. Hence the cuspal sub
+lord of the Asc. denotes short life.
+Now we may examine the strength of the star lord and the sub lord of Jupiter.
+The star lord Saturn is aspected by Jupiter owner of the 8th; it is the
+significator of the Badhaka house 9; so it becomes evil for longevity.
+The sub lord Venus is aspected by Mars owner of the badhaka house 9; it is
+the significator of the Maraka house 12; so it also becomes evil for longevity.
+Both the star lord and the sub lord of Jupiter are evil, so it is natural that
+the cuspal sub lord of the Asc. Jupiter becomes evil for longevity. Thus the
+life of the querent is too short.
+Ruling Planets
+Day
+Monday
+Asc.
+Scorpio
+
+## 19°.54'
+
+Day lord
+Moon
+Sign lord
+Mars
+Star lord
+Mercury
+Moon. Capricorn 29 •. 53'
+Saturn
+Mars
+Rahu in Capricorn and in conjoined with Moon and Mars represents Saturn,
+84
+
+## PRASHNA JYOTISH
+
+
+
+Moon and Mars respectively. Ketu being aspected by Moon and Mars represent
+them both. Saturn being in the sub of retrograde Jupiter may be omitted.
+Thus the ruling planets are Moon, Mars, Mercury, Rahu and Ketu.
+Significators of Death
+hava
+In the star of
+occupant (A)
+2
+7
+9(Badhaka)
+Ket
+Jup
+Sun-Sat
+12(Maraka) Ven-Mer
+Occupant (B)
+Mer
+Ven
+Sat
+Sun
+Ket
+In the star of
+owner( C)
+Ket
+Jup(R)
+Rah-Moo
+Mar
+Owner(D)
+Mer
+Sat
+Mar
+Moo
+The common planets between the ruling planets and the significators are Moon,
+Mars, Mercury, Rahu and Ketu.
+Out of them Mars is in the sub of the ruling planet Rahu; and Mercury is in
+the star and sub of the ruling planets viz. Ketu and Rahu respectively. So
+Mars and Mercury are to be given preference over other significators and they
+should be considered as the final significators for death.
+Joint Period
+At the time of judgment (Balance dasa of Mars for 3Y 6M 22D) the querent is
+running the joint period of Mars (Badhaka), Saturn (Sashthesh (owner of 6th)-
+Marakesh) and Jupiter (Asthmesh). also joint ruler of 8th cusp (Pisces 05°.05')
+Jupiter-Saturn is joint ruler of runing dasa. Thus the life of the querent is too
+short. joint period of Mars and Saturn which expires on 9-6-1971.
+As discussed above the joint period of Mars, Mercury and Mercury (9-6-1971
+to 29-7-1971) will prove fatal to the life of the querent when the transit agrees.
+Transit
+Sun will be transltmg in Taurus 24°. 11' to Gemini 06°.39' in the star Mars
+(the period ruler) from 9-6-1971 to 22-6-1971 and Mars will transit in Capricorn
+
+## 23° .20' and forward in its own star (Mars) from 11-6-1971, so the querent will
+
+not survive this period.
+Actually the querent girl died on 14-6-1971 Monday at 01-00 AM IST At that
+time Sun was in Taurus 28°.47'; Moon in Capricorn 29°.23' and Mars in
+Capricorn 24°. II', all these three were in the star Mars (the period ruler).
+Mercury was in Taurus 19°.36' in its own sub Mercury (the sub and inter
+period ruler).
+It may be noted that in this horary map Pisces is on the cusp of the 8th; while
+at the time of death the Asc. was also in Pisces 02°.28'.
+At the time of judgment Moon was in Capricorn 29°.53' and at the time of
+death also Moon was in Capricorn 29°.23'. At the time of judgment dasa was
+Mars-Saturn, at the time of death Moon Capricorn 29°.23' so Dasa also Mars-
+Saturn.
+
+## PRASHNA JYOTISH
+
+85
+
+
+Example 5. Health
+Question: My health is not good, when it will be cured? What about my
+longevity?
+Number. 100 (out of 249),
+Time of Judgment.
+03-10-1980, Friday, 06-15 AM 1ST
+Place of Judgment. 23o N 02, no E 35', Aynamsha : 23°.29'
+
+## IX 22:54
+
+
+## X23:54
+
+Xl24:54
+
+## VIII 22:17
+
+Mo 09:02
+Ra 23:48
+
+## X1124:54
+
+Vll24:00
+Vo 04:16
+124:00
+
+## VI 24:54
+
+Ke 23:48
+Ju 01:29
+Se 07:57
+Ma 29:59
+Su 16:29
+11122:54
+1122:17
+
+## V24:54
+
+
+## IV 23:54
+
+Me 10:18
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl Sbl .
+Cusp Sgn
+Stl Sbl
+Sun
+Me
+Mo
+Sa
+.
+Moon
+Mo
+Sa
+Ve
+1
+Su
+Ve
+Me
+7
+Sa
+Ju
+Me
+.
+Mars
+Ve
+Ju
+Mo
+2
+Me
+Mo
+Ve
+.
+8
+Ju
+Me
+Mo
+Mercury
+Ve
+Ra
+Ju
+3
+Ve
+Ju
+Sa
+.
+9
+Ma
+Ve
+Sa
+Jupiter
+Me
+Su Ju
+.
+Venus
+Su
+Ke
+Mo
+4
+Ma
+Me
+Ma .
+10
+Ve
+Ma
+Ma
+Saturn
+Me
+Su
+Ve
+5
+Ju
+Ve
+Me .
+11
+Me
+Ju
+Me
+Rahu
+Mo
+Me
+Ma
+.
+Ketu
+Sa
+Ma
+Ma
+6
+Sa
+Ma
+Ra .
+12
+Mo
+Me
+Ra
+Moon
+In this horary map Moon owning the 12th (worries), Moon Conjoined with Rahu
+(unidentify situation). Moon is in the star of Saturn and sub of Venus. Star
+lord Saturn occupying the 1st and owning 6 and Conjoined with 8th lord Jupiter
+and Lagnesh Sun. It is in the sub Venus occupying 12th. Thus Moon indicates
+1st (health), 6th (Disease), 8th (Longevity), and 12th (worries), that the query
+refers to the question.
+Cuspal Sub lord
+
+## Asc. (Leo 24°.00'):
+
+The sub lord of the Asc. is Mercury. Mercury is in the star of Rahu and sub
+of Jupiter. Mercury owning 11 (Cure in disease), Star lord Rahu occupying 11
+(Cure in disease), sub lord Jupiter owning 5 (Relief in Disease) and occupying
+1 (Health). So Mercury is the significator of 11 and connected with 1 and 5.
+Hence the cure of the disease is promised.
+Now discuss Sub lord its star lord and sub lord differently. Asc sub lord Mercury
+conjoined with Badhkesh Mars but Mars occupying 3rd (Longevity). Star lord
+Rahu is conjoined with Vayesh Moon. Sub lord Jupiter owning 8 and is
+86
+
+## PRASHNA JYOTISH
+
+
+
+conjoined with Markesh Saturn
+owner of 6, . Hence it is clear that
+danger to longevity is shown due
+to disease.
+
+## 8th cusp. (Pisces 22°.17'):
+
+The sub lord of the 8th cusp is
+Moon. Moon is in the star of
+Saturn and sub of Venus. Moon
+occupying 11 (Cure in disease).
+Star lord Saturn occupies !st. Sub
+lord Venua owner of 3, 10. So
+Moon is the significator of II and
+connected with I. Hence no danger
+to life and cure is promises.
+
+## 6th cusp. (Capricorn 24°.54'1:
+
+The sub lord of the 6th cusp is
+Rahu. Rahu is in the star of
+~---~~--1------+--:-:-:-:--:-------::rl' Mercury and sub of Mars.
+
+## X 23:54
+
+
+## IX 22·54
+
+
+## VIII 22:17
+
+·
+Rahu-Mercury and Mars are
+in movable sign. Rahu gives
+undiagnosed disease, Mercury
+gives disease related to chest,
+t----------'"t-------t'------v-
+12
+-
+4-,
+54-+ intestine, Nerve system, Mars
+Mo 09:02
+Ra 23:48
+Xll24:54
+Ke23>4B gives
+disease
+related
+to
+Unexpected,
+Severe,
+and
+Painful. All three planets are
+t------------:::ot-------+:::--------+ in movable sign so disease
+V24:54 starts unexpected and stop
+Va 04:18
+124:00
+unexpected. 6th Cusp sub lord
+Rahu connected with Mercury,
+~~~~~
+9
+so he feels diverse diseases at
+~--------+--M_•_1_o:_1a __ -+ ___
+
+## I_V_23_:54 ___
+
+__;:,...._ different times
+
+## 11th cusp. (Gemini 24° .54):
+
+11th CSL is also Mercury and we have discussed above that cure of the disease
+is promised but Mercury is in Jupiter sub, sub lord is suprimo. Jupiter owns
+
+## 5-8. So disease is detected and cured after some time, again other disease is
+
+detected and cured after next time, and this will continue till joint dasa lord
+of significators of cure from disease.
+Joint Period
+At the time of judgment (Balance dasa of Saturn for 11 Y !OM 16D) the querent
+is running the joint period of Saturn-Venus and Rahu from 29-7-1980 to 20-
+1-1981.
+Saturn owning 6th, Sta rlord Sun occupies 1st also owning P', sub lord Venus
+occupies 12th and owning 3rd. Dasanath is Sashthesh (owner of 6th) indicate
+disease, but significator of !st. sublord venus not own evil houses so dasa lord
+does not indicate danger to life. But star lord Sun Conjoined with Saturn 6th
+
+## PRASHNA JYOTISH
+
+87
+
+
+lord and Jupiter 8th lord so disease will continue.
+Bhukti dasa lord is Venus. Venus owns 3-10. Venus is in the star of Ketu
+and sub of Moon. Star lord Ketu occupies 5 and is very close to cusp of 6th,
+and sub lord Moon owns 12th. Antra dasa lord Venus is connected with 6th ,
+so health will not be good during this Bhukti.
+Antra dasa lord Rahu occupies 11th and is very near to cusp 12th. Rahu is in
+Cancer, so Rahu is agent of Moon. As we have discussed above about Moon,
+heath is not well. Also Rahu is 6th CSL, so during this Antra health will give
+more trouble. Rahu is in the sub of Mars, which is Badhakesh, so during
+Saturn-Venus and Rahu from 29-7-1980 to 20-1-1981 health will not be good
+and also feeling of danger to life occurs.
+Saturn-Venus and Jupiter dasa period starts from 20-1-1981. Antar dasahanath
+Jupiter is owns 5th, so cure of disease is sure during this Antar dasha. Jupiter
+is in the star of Sun and sub of own. Both Star lord Sun and sub lord Jupiter
+are in 1 •t, so during Jupiter An tar native is cured from disease.
+Actually since last week of January 1980 native is free from disease and health
+is very good.
+Joint dasanath signifies 1 and 5 and also Vidashnath Jupiter, star lord and
+sub lord of Jupiter all three signifies 1,5.
+88
+
+## PRASHNA JYOTISH
+
+
+
+Example 6. Eye Operation
+Question: I am totally Blind,
+have problem in my right eye, is there any
+operation?
+Number. 21 (out of 249),
+Time of Judgment. 27-08-1980, Wednesday, 10-30 AM IST
+Place of Judgment. 23° N 02', 72° E 35', Aynamsha : 23°.29'
+126:26:40
+1125:45
+Xll20:45
+Mo 25:13
+Xl15:45
+Ke 25:46
+
+## X 15:45
+
+
+## V1128:26:40
+
+
+## IX20:45
+
+
+## VIII 25:45
+
+Ma 05:04
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Su
+Ke
+Sa
+0
+Moon
+Sa
+Ju
+Me
+1
+Ma
+Su
+Ma
+0
+7
+Ve
+Mars
+Ve
+Ma Su
+2
+Ve
+Ma
+Ra
+0
+8
+Ma
+Mercury
+Su
+Ke
+Sa
+0
+Jupiter
+Su
+Ve
+Sa
+3
+Me
+Ju
+Ju
+0
+9
+Ju
+Venus
+Me
+Ju
+Me
+4
+Mo
+Sa
+Ju
+0
+10
+Sa
+Saturn
+Me
+Su
+Sa
+5
+Su
+Ve
+Su
+0
+11
+Sa
+Rahu
+Mo
+Me
+Ra
+0
+Ketu
+Sa
+Ma Ra
+6
+Me
+Mo
+Ve
+0
+12
+Ju
+
+## Hints:
+
+Eyesight
+11120:45
+Ve 24:46
+
+## IV 15:45
+
+Ra 25:46
+Su 10:35
+Me11:00
+v 15:45
+Ju 23:31
+Sa 03:25
+Vl20:45
+Stl
+Sbl
+Ju
+Ve
+Me
+Ra
+Ve
+Ju
+Mo
+Sa
+Ra
+Ve
+Me
+Ve
+
+## 1.
+
+Sun, Moon and Venus denote vision while Mercury governs the nervous
+system.
+
+## 2.
+
+Consider the houses 2 (vision, right eye), 12 (left eye, defect), 6 (disease)
+and 8 (danger).
+
+## 3.
+
+12th cusp: If the sub lord of the 12th cusp be the significator (i.e. in the
+star of the occupant or owner) of 6, 8 or 12, then only during the joint
+period of the significators of 2 and 12 the eye sight becomes defective.
+
+## 4.
+
+
+## If Sun, Moon or Venus be :
+
+(a) the sub lord of the 12th cusp and
+(b) the significator (in the star of the occupant or owner) of 2 or 12
+there is a higher possibility of defective vision.
+
+## 5.
+
+Eye sight may be lost during the periods of Sun, Moon or Venus, if
+(a) Sun, Moon or Venus be the significator (in the star of the occupant or
+owner)of 2 or 12, and
+(b) its sub lord is connected with the house 12, and
+(£} its sub lord is connected with Sun, Moon or Venus.'---------
+
+## PRASHNA JYOTISH
+
+89
+
+
+
+## 6.
+
+
+## Eye sight may be lost during the periods of a planet A, if:
+
+(a) its star lord be Sun, Moon or Venus, and
+(b) its sub lord is connected with the house 12, and
+(c) its sub lord is connected with Sun, Moon or Venus.
+Moon
+In this horary map Moon aspected by Sun (karka for Vision), 12th lord
+(Hospitalization) Jupiter and 6th lord Mercury. Moon is in star of Jupiter 12th
+lord, and sub of Mercury 6th lord. Thus Moon indicates that the query refers
+to the eye vision.
+Cuspal Sub lord
+Asc. (Aries 28°.26.40 ")
+Asc cuspal sub lord is Mars. Mars is in the star of own and sub of Sun.
+cuspal sub/its star lord Mars owns
+1st and 8th and occupies 6th. Also
+Mars aspect on 1st and 2nd. Sub lord
+Sun owning 5th, Sun Conj. with 12th
+lord Jupiter and 6th lord Mercury.
+Thus Asc sublord Mars strong
+significtor of 8th (Operation) and
+connected with Mars 8th (Operation),
+karaka for vision Sun and 2nd
+(vision, right eye) bhava, as well as
+cure of disease 5th. Hence native
+have to do eye operation.
+12th cusp. (Pisces 20°.45') The sub
+lord of the
+12th cusp is Venus.
+Venus is in the star of Jupiter and
+sub of Mercury. Question is related
+to eye problem hence we have to
+check
+12th Bhava.
+12th cuspal
+sublord Venus is karaka of eye VISIOn and owning 2nd
+(vision, right eye), star
+lord jupiter owning 12th (left eye, defect), sub lord Mercury owning 6 (disease).
+Both Jupiter and Mercury are aspected by eye vision karaka Moon and Conj
+with eye vision karaka Sun. Thus 12th cuspal sub lord is the significtor of 12th
+and connected with 6th and 2nd, also with Venus, Sun and Moon. Hence it is
+clear that at the time of question native suffering from eye problem.
+Ruling Planets
+Day
+Wednesday
+Asc.
+Libra
+
+## 06°.00'
+
+Moon. Aquarius 25°.13'
+Day lord
+Mercury
+Sign lord
+Venus
+Saturn
+Star lord
+Mars
+Jupiter
+Ketu is in Capricorn and represents Saturn. Thus the ruling planets are Mars,
+Mercury, Jupiter, Venus, Saturn and Ketu.
+90
+
+## PRASHNA JYOTISH
+
+
+
+
+## IV 15:45
+
+Ra 25:46
+Su 10:35
+Me11:00
+v 15:45
+Ju 23:31
+1125:45
+Sa 03:25
+Vl20:45
+128:26:40
+Vll26:26:40
+Ma 05:04
+Xll20:45
+Vlll25:45
+Ke 25:46
+
+## X 15:45
+
+
+## IX20:45
+
+Joint Period
+At the time of judgment
+(Balance dasa of Jupiter for
+9Y 9M 1D) the querent is
+running the joint period of
+Jupiter and Mercury which
+expires on 4-5-1981.
+Jupiter and Mercury are in RP
+too. Jupiter owning
+12th
+(Hospital treatment), Jupiter
+in the star of Venus owning
+of 2nd and sub of Saturn
+owner 11th (Labhesh). Sub lord
+Saturn aspect on 12th
+bhava
+and star lord Venus. As in the
+above given rules, star and sub lord of dasanath are connected with Venus,
+and sub lord connected with 12'h bhva and Venus. thus it is clear that event
+happen during this dasa.
+Bhukti dasanath is Mercury. Mercury owning 6th (Disease), is in the star of
+Ketu and sub of Saturn. Ketu aspected by Mars, Mars is owning 8th. As we
+discuss about Saturn above, sub lord Saturn is connected with 12th and Venus.
+Thus Bhukti dasanath Mercury Indicate eye operation. hence during Jupiter
+dasa and Mercury Bhukti befor 4-5-1981 chance of eye operation.
+At the time of judgment the running joint period is Jupiter-Mercury-Rahu up
+to 6-9-1980. Rahu is not in ruling planets. Next Jupiter-Mercury-Jupiter running
+from 6-9-1980 to 25-12-1980. During this period querent would face more
+trouble of eye problem. Mars is Asc sub lord, and strong significator of 8th.
+Thus during 3-12-1980 to 9-12-1980 of Jupiter-Mercury-Jupiter-Mars running
+dasa when Go char agrees eye operation is sure. Actually during this joint period,
+on 5-12-1980 querent's right eye was removed.
+Transit
+On date 5-12-1980 Gochar Sun was in Scorpio 20° in the star of bhukti
+dasanath Mercury. Gochar Moon was in Libra 6° in the dasanath Jupiter's
+star. Gochar Mercury was in Scorpio 6° in the sub of Own. Gochar Jupiter
+was in Virgo 13°. 11' in the sign of Mercury. Go char Mars was in Sagittarius
+
+## 16°.44' in the sign of Jupiter.
+
+
+## PRASHNA JYOTISH
+
+91
+
+
+Example 7. Success in Examination
+Question. Will my son get success at the examination in M.B.B.S. in April
+1971 at first attempt?
+Number. 5 (out of 249)
+Time if Judgment 13-04-1971, Tuesday 06-12 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Aaynamsha: 23°.21'
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Sun
+Ju
+Me
+Sa
+Moon
+Ve
+Ju
+Mo
+
+## I
+
+Mo
+Mars
+Ju
+Ve
+Me
+2
+Su
+Mercury[R]Ma
+Ke
+Sa
+3
+Ve
+Jupiter[R] Ma
+Sa
+Ma
+Venus
+Sa
+Ju
+Me
+4
+Ma
+Saturn
+Ma
+Su
+Mo
+5
+Ju
+Rahu
+Sa
+Ma Ju
+Ketu
+Mo
+Me
+Ju
+6
+Ju
+
+## Hint:
+
+Ra 27:11
+
+## VII 23:38
+
+Stl
+Sbl
+Me
+Ma
+Ve
+Me
+Ma
+Ve
+Sa
+Me
+Ke
+Ve
+Ve
+Ke
+
+## IX 04:46:40
+
+
+## X 05:36
+
+Me[R) 09:40
+Sa 28:18
+Ju[R) 12:25
+
+## IV 05:36
+
+Mo 29:44
+Ill 04:46:40
+0
+Cusp Sgn
+0
+0
+7
+Sa
+0
+8
+Sa
+0
+9
+Ma
+0
+0
+10
+Ve
+0
+
+## II
+
+Me
+0
+0
+12
+Me
+
+## XI 02:36
+
+
+## X1128:36
+
+123:36
+Ke 27:11
+1125:36
+Stl
+Sbl
+Ma
+Ma
+Ju
+Me
+Ke
+Ma
+Su
+Me
+Ma
+Ke
+Ju
+Ke
+If the sub lord of the 4th cusp is the significator (in the star of the occupant
+or owner) of 4 (examinations), 9 (higher
+123:38
+Ke 27:11
+1125:38
+92
+
+## X 05:36
+
+
+## IX 04:48:40
+
+Mo[R) 09:40
+Sa 28:18
+Mo 29:44
+Ill 04:46:40
+Su 29:34
+studies) or 11 (Success), the success
+in examination is promised,
+when
+at
+the
+time
+of
+examination (during the days
+of examination) the joint
+period of the significators of 4,
+Ro 27:11
+9 and 11 are in direct motion
+Vl123'36
+and not in retrograde motion
+and also both 4th cusp sub
+Vl26:36
+Ma25:34
+
+## V02:36
+
+lord and its star lord are in
+direct motion.
+Moon
+In this horary map the father
+makes the query about his
+son. So consider the 5th cusp
+
+## PRASHNA JYOTISH
+
+
+
+as the son's Asc. and proceed. For
+convenience each house counted
+from the 5th cusp.
+Moon is in the star of Jupiter in
+
+## 4. So it is the significator of 4
+
+(examinations). Moon is aspected by
+Mercury owning 11 (success) and
+occupying 9 (higher studies). Thus
+moon clearly indicates that the
+query refers to the examination
+results of the querent's son.
+Cuspal Sub lord
+
+## Cusp 4th (Scorpio 05°.36'):
+
+The sub lord of 4th cusp is Mercury.
+Mercury is in 9 and retrograde. Its
+star lord Ketu occupies I and sub
+Saturn occupies 9. So Mercury is
+the significator of I and connected
+with 9.
+The examination of the querent's son commenced on 12-4-1971 and it is to
+continue up to 23-4-1971. The 4th cuspal sub lord Mercury remains in
+retrograde motion during these days. So the querent's son will not get success
+in the examination for the time being.
+
+## Cusp 11th (Gemini or .36):
+
+The sub lord of 1l'h cusp is Ketu, in the star of Mercury and sub of Jupiter.
+Star lord Mercury is owning 11 and occupying 9. Sub lord Jupiter is in 4 and
+retrograde. So it is the significator of 9, 11 and connected with 4.
+But both the star lord and the sub lord of this cuspal sub lord remain in
+retrograde motion during the days of the examination. So the querent's son
+will not get success in the examination for the time being.
+Joint Period
+At the time of judgment and during the days of the examination (Balance dasa
+of Jupiter for 4Y 3M 25D) the querent's son is running the joint period of
+Jupiter, Moon and Rahu.
+All these three planets are the significators of 4, 9 and 11. But Jupiter the
+dasanath, Jupiter the star lord of the bhukti dasanath Moon and Jupiter the
+sub lord of the antar dasanath Rahu remains in retrograde motion during the
+days of the examination. So the querent's son will not get success in the
+examination for the time being.
+Thus, in this case the point of retro gradation appears at every stage in the
+way of success in the examination.
+Querent's 11th Cusp (Capricorn 23°·.36')
+The sub lord of 11 <h cusp is Mars, in the star of Venus and sub of Mercury,
+Star lord Venus occupies 11 Sub lord Mercury in 1. So it is the significator of
+11 and connected with 1.
+But cuspl sub lord Mars is in the sub of Mercury and Mercury is retrograde
+
+## PRASHNA JYOTISH
+
+93
+
+
+motion and remains in retrograde motion during the days of the examination.
+So the querent's son will not get success in the examination for the time being.
+The results of the examination were declared on 27-5-1971 and unluckily the
+querent's son failed in the M.B.B.S. examination.
+94
+
+## PRASHNA JYOTISH
+
+
+
+Example 8: Scholarship
+Question. Will my son get scholarship?
+Number. 45 (out of 249),
+Time of Judgment. 19-01-1970, 11onday; 10-17 AM 1ST
+Place of Judgment. 23° N 02', 72° E 35'. Aynamsha. 23°.20'
+Sa 08:57
+
+## VIII 02:16
+
+
+## IX 04:53:20
+
+Mo 28:53
+
+## X 28:40
+
+Vll27:16
+Ma 02:27
+
+## XI 24:16
+
+Vl23:16
+Ra 20:58
+Ke 20:58
+Xll23:18
+
+## V24:16
+
+Su 05:22
+Ve04:01
+127:16
+
+## IV28:40
+
+Me[R] 22:45
+Ill 04:53:20
+
+## II 02:16
+
+Ju11:08
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl
+Sbl
+Sun
+Sa
+Su
+Me
+0
+Moon
+Ve
+Ma Sa
+1
+Me
+Ma
+Ju
+0
+7
+Ju
+Me
+Ju
+Mars
+Ju
+Ju
+Ra
+2
+Ma
+Ju
+Ra
+0
+8
+Ve
+Su
+Ju
+Mercury[R]Ju
+Ve
+Sa
+0
+Jupiter
+Ve
+Ra
+Sa
+3
+Ju
+Ke
+Ma
+0
+9
+Me
+Ma
+Su
+Venus
+Sa
+Su
+Sa
+4
+Ju
+Su
+Ma
+0
+10
+Me
+Ju
+Ve
+Saturn
+Ma
+Ke
+Ju
+0
+Rahu
+Sa
+Ju
+Ju
+5
+Sa
+Ma
+Ra
+0
+11
+Mo
+Me
+Ra
+Ketu
+Su
+Ve
+Ju
+6
+Sa
+Ju
+Sa
+0
+12
+Su
+Ve
+Sa
+5a08:57
+~
+0
+0
+3
+1
+68
+Hints
+If the cuspal sublord of the
+11th be the significator (in the
+star of the occupant or owner)
++------__::,..__ ____ -+"--------+of 2 (money), 6 (scholarship) or
+v 24:16
+Xl24:16
+su os:22
+11 (gain) and connected with
+Ve04:0I
+the house 4 (studies), one gets
+scholarship for studies during
+the
+joint
+period
+of
+the
++-/:----------..+-------+~~-------+ significators of 2, 6 and 11.
+6
+6
+6
+0s lf the cuspal joint rulers (the
+sign lord, star lord and sub
+lord) ofthe 6th and/or llthbe
+the significators (in the star of
+Ju11:08
+J'-------1~-----1-------......;::.~., the occupant or owner) of 2 6
+and 11 and connected with 4th, one gets scholarship during their joint period.
+Moon
+ln this horary map the father asked the question about his son. 11oon is in
+
+## PRASHNA JYOTISH
+
+95
+
+
+12 (worries to the querent). Consider the 5th cusp as the son's Asc. and proceed.
+For convenience each house counted from the 5th cusp. Moon owns 11, its
+star lord Mars owns 2 and occupies 6. Sub lord Saturn owns 6th. So Moon is
+scholarship but in installment.
+
+## Querent 11th Cusp. (Pisces 27°.16'):
+
+the significator of 2 (money to the
+son), 6 (scholarship to the son) and
+connected with 11 (gain to the son).
+Hence Moon clearly indicates that
+the querent is worried about the
+scholarship to his son.
+
+## Son's 11th Cusp. (Cancer 24°.16'):
+
+The sub lord of 11th cusp is Rahu.
+Rahu is in the star and sub of
+Jupiter. Rahu (being in Aquarius)
+represents Saturn. Its star and sub
+lord Jupiter is direct in motion; it
+owns 4 and aspects on Satrun
+owner of 6th. So 11th cuspal sub
+lord Rahu is the significator of 4
+and connected with 2 and 6. Hence
+the scholarship for studies is
+promised to the querent's son. But
+sub lord Rahu is represent Saturn,
+hence we can say querent's son get
+The sub lord of 11th cusp is Jupiter. Jupiter is in the star of Rahu and sub
+of Saturn. Jupiter owns 11. Jupiter is owner of son's 4 and occupies Asc. it
+is in the star Rahu which represents Saturn, Saturn is occupent of 11 and
+son's owner of 6. So Jupiter is the significator of ll (Full fill of desire) and
+connected with sons's 4 (eduction), 6 (scholarship), hence we can say querent's
+son get scholarship.
+Ruling Planets
+Day. Monday
+Asc.
+Aquarius
+
+## 25°.09'
+
+Moon. Taurus
+Day lord
+Moon
+Sign lord
+Saturn
+Venus
+Star lord
+Jupiter
+Mars
+None of these planets is in the star or sub of a retrograde planet. So the
+ruling planets are Moon, Mars, Jupiter, Venus and Saturn. All this planets
+are significtor of son's scholarship.
+Joint Period
+At the time of judgment (Balance dasa of Mars for 4Y lM 1D) the querent's
+son is running the joint period of Mars-Saturn up to 20-8-1970 and joint period
+of Mars-Saturn-Venus. Upto 20-2-1970.
+As we have discussed above querent's son get scholarship in installment. So
+96
+
+## PRASHNA JYOTISH
+
+
+
+his son will get scholarship up to 20-8-1970.
+During Saturn bhukti we found antra ofVenus, Moon, Mars, Rahu and Jupiter.
+And he gets scholarship in installment during all this antra.
+Actually, he first received a first installment of scholarship on 19-2-1970
+thereafter, he received partial amounts of scholarship regularly every month
+and the final amount was received in the month of July 1970 during the joint
+period of Mars, Saturn and Jupiter.
+Transit
+On 19-2-1970 Moon is transiting in Cancer in the star of Saturn (the bhukti
+nath).
+In July 1970 Sun was transiting in Gemini in the star Jupiter (the antra nath);
+Mars in Cancer in the star Saturn (the bhuktinath) and Jupiter in Libra in
+the star Mars (the dasanath).
+
+## PRASHNA JYOTISH
+
+97
+
+
+Example 9. Research Scholarship
+Question. What about my research scholarship and my course in Ph.D?
+Number. 16 (out of 249).
+Time of Judgment. 06-02-1976 Friday 08-45 AM IST
+Place of Judgment. 23o N 02', 72o E 35'., Aynamsha 23°.25'
+121:53:20
+1120:04
+11115:04
+Ke 23:57
+Ma 22:51
+Mo28:14
+Ju 26:32
+Xll14:04
+Sa[R) 04:46
+
+## IV 10:04
+
+
+## XI 09:04
+
+
+## V09:04
+
+Su 22:58
+
+## X 10:04
+
+Me 00:10
+Vl14:04
+Ve19:54
+Ra 23:57
+
+## IX 15:04
+
+
+## VIII 20:04
+
+
+## VII 21 :53:20
+
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl .
+Cusp Sgn Stl Sbl
+Sun
+Sa
+Mo
+Su
+.
+Moon
+Ju
+Me
+Sa
+1
+Ma
+Ve
+Sa .
+7
+Ve
+Ju
+Sa
+Mars
+Ve
+Mo
+Su
+2
+Ve
+Mo
+Ke
+.
+8
+Ma
+Me
+Ve
+Mercury Sa
+Su
+Ra
+.
+Jupiter
+Ju
+Me
+Ju
+3
+Me
+Ra
+Ke
+.
+9
+Ju
+Ve
+Ve
+Venus
+Ju
+Ve
+Ra
+4
+Mo
+Sa
+Ve
+.
+10
+Sa
+Mo
+Mo
+Saturn[R] Mo
+Sa
+Sa
+.
+5
+Su
+Ke
+Ju
+11
+Sa
+Ra
+Ju
+Rahu
+Ve
+Ju
+Me
+.
+6
+Me
+Mo
+Ju .
+12
+Ju
+Sa
+Ra
+Ketu
+Ma
+Ve
+Sa
+
+## Moon :
+
+In this horary map Moon owns 4 (studies), it is in conjunction with Jupiter
+owning 9 (research), 12 and in 12 (stay in a foreign land). It is in the star of
+Mercury and in the sub of Saturn. Its star lord Mercury owns 6, 3, occupies
+Sa[RJ 04:46
+
+## IV 10:04
+
+u2o:o4
+121,53,20
+Mo 28,14
+9 and aspects the 4th. Its sub
+Mo22:51
+Ke23:57
+Ju26:32
+lord Saturn owns 11, occupies
+Xll14:04
+3 and aspects the
+
+## 6th. So
+
+Moon is the significator of 6
+(scholarship), 3 (completion or
+su22:ss
+postponement of studies), 9
+~~~'~o (research), 4 (studies) and
+connected with II (gain), 3
+and 6. Thus the query refers
+1-----------,.1------k----------+ to the scholarship regarding
+ve 19,54
+the research studies and the
+
+## IX 15'04
+
+prospects thereto.
+
+## V09:04
+
+Vl14:04
+Ra 23:57
+Vll21:53:20
+Vlll20:04
+~----------~--------~------------»
+98
+
+## I Jth cusp (Aquarius 09° .04'):
+
+The sub lord of the ll'h cusp
+
+## PRASHNA JYOTISH
+
+
+
+is Jupiter. lt is in the star of Mercury and in its own sub. None of them is
+retrograde. lts star lord Mercury owns 6, occupies 9 and aspects the 4th, Its
+sub lord Jupiter owns 9, it is in conjunction with the owner of 4 (Moon) and
+aspects the owner of 11 (Saturn). So the cuspal sub lord of 11th is the
+significator of 6, 9, 4 and connected with 9, 11 and 4. Hence the querent's
+desire to get the scholarship regarding the research studies will be fulfilled.
+
+## 9th cusp (Sagittarius 15° .04):
+
+The sub lord of the 9th cusp (research studies) is Venus. lt is in its own star
+in the 9th and in the sub of Rahu in Libra (Rahu represents Venus). None of
+them is retrograde. So the cuspal sub lord of 9 is the strong significator of 9.
+Hence the querent will be able to complete his research work.
+Ruling Planets
+
+## Day:
+
+Friday
+
+## Asc:
+
+Aquarius 17°.53'
+Day lord
+Venus
+Sign lord
+Star lord
+Saturn
+Rahu
+Moon: Pisces
+
+## 28°. 14'
+
+Jupiter
+Mercury
+Rahu is in Libra, it represents Venus. Ketu is aspected by Saturn, so it
+represents Saturn. Hence Mercury, Jupiter, Venus, Saturn, Rahu and Ketu
+are the ruling planets. Saturn is retrograde, but it gets direct from 28-3-1976,
+so it will give results after this date.
+
+## Joint Period :
+
+At the time of judgment (Balance
+dasa of Mercury for 2Y 3M lD) the
+querent was running the joint period
+of Mercury, Saturn and Mercury up
+to 18-6-1976. Mercury owns 6
+(scholarship) and 3 (completion of
+study being 12th from the 4th); it is
+in the
+star of Sun owning
+5
+(completion of study being 12th from
+the 6th competitive examination) and
+occupying 10 (achievement). So
+Mercury is the significator of 5 and
+
+## 10. The scholarship and completion
+
+of studies will serve as sources of an
+event in respect of achievement in
+study. Saturn is in its own star and
+sub; it owns 10, 11 (gain) and occupies 3. So it denotes achievement, gain
+and completion of study. Both are among the ruling planets. Hence the queren t
+will be getting the scholarship after 28-3-1976 and before 18-6-1976 in this
+joint period of Mercury, Saturn and Mercury.
+The joint period of Mercury and Saturn continues up to 7-5-1978. So the
+querent will go on with his research work till this date.
+The querent informed me that the scholarship was awarded to him from 5-5-
+1976 and he completed his research work of PhD. in May 1978.
+
+## PRASHNA JYOTISH
+
+99
+
+
+Example 10. Employment
+Question. When shall I get a job ?
+Number. 4 (out of 249).
+Time of Judgment. 22-05-1970, Friday;
+
+## 07-15 AM 1ST
+
+Place of Judgment. 23° N 02', 72° E 35'., Aynamsha 23°.20'
+103:40
+
+## II 05:39
+
+Ill 01:39
+Me 19:52
+su 07:14
+Va 06:03
+Sa 21:18
+Me 29:13
+
+## IV25:39
+
+v 22:39
+
+## XII 24:39
+
+Ra 14:29
+Ke 14:29
+
+## V124:39
+
+
+## X122:39
+
+
+## X 25:39
+
+Mo 19:16
+Ju[R] 04:13
+
+## IX 01:39
+
+
+## VIII 05:39
+
+
+## VII 03:40
+
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl Sbl
+Sun
+Ve
+Su
+Ke
+0
+Moon
+Ma
+Me
+Ke
+1
+Ma
+Ke
+Mo
+0
+7
+Ve
+Ma
+Ve
+Mars
+Ve
+Ma Sa
+2
+Ve
+Su
+Me
+0
+8
+Ma
+Sa
+Me
+Mercury
+Ma
+Ve
+Ra
+3
+Me
+Ma
+Me
+0
+9
+Ju
+Ke
+Ve
+Jupiter[R] Ve
+Ma Ve
+0
+Venus
+Me
+Ma Mo
+4
+Me
+Ju
+Me
+0
+10
+Ju
+Ve
+Me
+Saturn
+Ma
+Ve
+Ju
+5
+Mo
+Me
+Mo
+0
+11
+Sa
+Mo
+Ve
+Rahu
+Sa
+Ra
+Ke
+0
+Ketu
+Su
+Ve
+Ve
+6
+Su
+Ve
+Me
+0
+12
+Sa
+Ju
+Me
+Hints
+If the cuspal sub lord of the 6th or lOth be the significator (in the star of the
+occupant or owner) of 2, 6 or 10 service or earning is promised during the
+joint period of the significators of 2, 6 and 10.
+v 22:39
+Ke 14:29
+Vl24:39
+100
+
+## II 05:39
+
+Su 07:14
+Ma 29:13
+103:40
+Me19:52
+sa 21:18
+
+## VII 03:40
+
+Ju[R] 04:13
+Xl22:39
+
+## VIII05:39
+
+Mo 19:16
+
+## X 25:39
+
+
+## IX 01:39
+
+Moon
+In this horary map Moon is
+aspected by the occupants of
+the 2nd Mars and the owner of
+the
+6th
+Sun. Thus Moon
+clearly indicates that the
+query refers to service or job
+for money.
+Cuspal sub lord
+
+## Cusps 2nd (Taurus 05°.39'):
+
+The sub lord of the 2nd cusps
+is Mercury. Mercury is in the
+star of Venus and sub of
+
+## PRASHNA JYOTISH
+
+
+
+Rahu. lts star lord Venus owns 2
+and sub lord Rahu occupies 11. So
+Mercury is the significator of 2 and
+connected with 11. Hence service is
+promised soon to the querent
+because Mercury is a fast moving
+planet. All the planets are direct in
+motion.
+6th
+&
+
+## 10th.
+
+(Leo
+
+## 24°.39'·
+
+
+## Sagittarius 25°.39'):
+
+The sub lord of the 6th & 10th cusp
+is Mercury. Hence the position will
+be the same as above.
+
+## Cusp 11th. (Capricorn 22° .39):
+
+The sub lord of the 11 <h cusp is
+Venus, in the star of Mars and sub
+of Moon. Venus is direct in motion.
+Venus owner of 2nd. Its star lord Mars the occupant of the 2nd is also direct.
+So Venus is the significator of 2 and also connected with 2nd. Hence the
+querent's desire will be fulfilled soon because Venus is a fast moving planet.
+All the planets are direct in motion.
+Ruling planets
+Day lord
+Sign lord
+Star lord
+Day.
+Friday
+Venus
+Asc.
+Taurus 24°.40'
+Venus
+Mars
+Moon. Scorpio 19°.16'
+Mars
+Mercury
+Mars aspects Ketu, so Ketu represents Mars. Thus the ruling planets are Mars,
+Mercury, Venus and Ketu. None of them is in the star or sub of a retrograde
+planet.
+Significators of 2, 6 and 10
+All nine planet are significtore of 2, 6 and 10.
+Joint Period
+At the time of judgment (Balance dasa of Mercury for l3Y SM 7D) the querent
+is running the joint period of Mercury and Ketu. The bhukti of Venus will
+commence from 23-6-1970. So the querent will get service during the joint
+period of Mercury, Venus and Venus at the earliest i.e. between 23-6-1970
+and 21-7-1970. The reason is that both are connected with the 2nd, 6th, lOth
+and 11'h cusps; both are in the ruling planets and both are fast moving planets.
+
+## Transit :
+
+The querent got his first service on 10-7-1970 when Sun was transttmg in
+Gemini 24°.00' in the sub of Mercury (the dasanath); Moon in Virgo 06°.00' in
+the sub of Mercury; and Mercury in Gemini 27°.00' in the sub of Venus (the
+bhukti, antra and sookshma dasanath).
+
+## PRASHNA JYOTISH
+
+101
+
+
+Example 11. Promotion
+Question. When shall 1 get a promotion ?
+Number. 247 (out of 249).
+Time of Judgment. 29-08-1979, Wednesday;
+
+## 06-59 PM 1ST
+
+Place of Judgment. 22° N 34', 88° E 24'. Aynamsha. 23° .28'
+1126:54
+11124:54
+
+## IV 18:54
+
+Ma 20:11
+124:06:40
+v 14:54
+Me 26:26
+Xll15:54
+Ke 15:01
+Ju 00:05
+Su 12:09
+Ve13:15
+Ra15:01
+Vl15:54
+Sa 22:17
+Xl14:54
+Vll24:06:40
+Mo27:55
+
+## X 18:54
+
+
+## IX 24:54
+
+
+## V11126:54
+
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+(i
+Cusp Sgn
+Stl
+Sbl
+Sun
+Su
+Ke
+Me
+(i
+Moon
+Ve
+Ju
+Ve
+1
+Ju
+Me
+Ra
+(i
+7
+Me
+Ma
+Ra
+Mars
+Me
+Ju
+Ju
+2
+Ma
+Su
+Su
+(i
+8
+Ve
+Ju
+Ve
+Mercury
+Mo
+Me
+Sa
+3
+Ve
+Ma
+Ra
+(i
+9
+Ma
+Me
+Ra
+Jupiter
+Su
+Ke
+Ke
+(i
+Venus
+Su
+Ke
+Me
+4
+Me
+Ra
+Mo
+(i
+10
+Ju
+Ve
+Ra
+Saturn
+Su
+Ve
+Sa
+5
+Mo
+Sa
+Ju
+(i
+11
+Sa
+Mo
+Ju
+Rahu
+Su
+Ve
+Ve
+(i
+Ketu
+Sa
+Ra
+Ke
+6
+Su
+Ve
+Su
+(i
+12
+Sa
+Ra
+Ve
+Hints
+If the cuspal sub lord of the 11th be the significator (in the star of the occupant
+or owner) of 2 (Bank balance, Self earning), 6 (Job) or 10 or 11 (Gain, Success,
+1126:54
+124,06,40
+fulfill of desire) promotion in
+service is promised during the
+joint period of the significator
+Xll15:54
+Ke 15:01
+of 2, 6, 10 and 11.
+r-------------~----------~--------------rMoon
+
+## V14:54
+
+Ma28:28
+Xl14:54
+In this horary map Moon is
+aspected by the
+Saturn,
+occupants of 6th and owner of
+
+## 11. Moon is in the star of
+
+t-:--:-:-~-----------::ot------------1~--------------t- Jupiter and sub of Venus .
+Mo27:55
+Vlll26:54
+~----------~--------~----------~~
+102
+Jupiter is owner of lOth. Star
+lord Jupiter and sub lord
+Venus are conjoined with
+occupants of 6th and owner of
+11'h Saturn
+and
+natural
+
+## PRASHNA JYOTISH
+
+
+
+karaka of service and designation Sun owner of 6th. Thus Moon clearly indicates
+that the query refers to promotion in service or job.
+
+## Cusp 11th. (Capricorn 14° .54):
+
+The sub lord of the 11th cusp is Jupiter. ln the star and sub of Ketu. Jupiter
+owner of 10th. lts star lord Ketu is occupant of the 11th and aspected by owner
+of 11'h Saturn, owner of 10th Jupiter, and owner of 6th Sun. So Jupiter is the
+significator of 11th and connected with 6th, 10th and 11th. Hence the querent's
+de sire will be fulfilled.
+Ruling planets
+Day. Wednesday
+Asc.
+Pisces 02°. 11'
+Moon. Libra 27°.55'
+Day lord
+Mercury
+Sign lord
+Jupiter
+Venus
+Star lord
+Jupiter
+Jupiter
+Rahu is conj. with Jupiter and Venus. Also Jupiter and Venus aspects Ketu,
+so Rahu and Ketu represent Jupiter and Venus. Thus the ruling planets are
+Mercury, Jupiter, Venus, Rahu and Ketu.
+Significators of 2, 6,10 and 11
+Bhava
+ln the star of
+Occupant (B)
+occupant (A)
+2
+6
+10
+11
+Sun-Jup-Ven
+Sat
+Ket
+ln the star of
+owner( C)
+Moo-Mar
+Owner(D)
+Mar
+Sun
+Jup
+Sat
+Thus the significator of 2, 6, 10, 11 are Mars, Saturn, Sun, Jupiter and Venus.
+
+## PRASHNA JYOTISH
+
+Rahu and Ketu represent Jupiter
+and Venus.
+Joint Period
+At the time of judgment (Balance
+dasa of Jupiter for 6Y 6M OD) the
+querent is running the joint period
+of Jupiter-Venus-Jupiter.
+Jupiter
+and
+Venus
+are
+the
+significator and ruling planet too.
+Jupiter is Conj. with Saturn
+indicate delay in promotion. Antra
+of Jupiter continues up to 27-9-
+
+## 1979. So during this period there
+
+is no chance of promotion.
+Next Jupiter-Venus-Saturn started
+from 27-9-1979. Saturn is a strong
+significator and also owner of 11th,
+So the querent will get promotion
+in service during the joint period
+103
+
+
+of Next Jupiter-Venus- Saturn.
+Actually the querent gets promotion in service on 20-11-1979.
+At that time
+the querent was running the joint period of Jupiter-Venus-Saturn-Ketu (From
+12-11-1979 to 21-11-1979), Ketu was a significator and ruling planet too.
+Transit
+On 20-11-1979 when Sun was transiting in Scorpio 4° in the Star of Mercury;
+Moon was in Scorpio 13° in the star Saturn (the antra lord). Jupiter was
+transiting in Leo 14°.46' in the star of Venus (the bhuktinath). Venus was
+transiting in Scorpio 26°.28' in the sub of Jupiter (the dasanath), Saturn was
+transiting in Virgo 01 o .35' in the sub of Jupiter(the dasanath). Ketu was
+transiting in Aquarius 10°.38' in the sub of Saturn(the antra lord).
+104
+
+## PRASHNA JYOTISH
+
+
+
+Example 12. Interview for higher salary.
+Question. I have applied for a higher salary job, will they call me for an
+interview? Will I be selected for this post?
+Number. 61 (out of 249).
+Time of Judgment. 06-05-1978, Saturday;
+
+## 02-15 PM 1ST
+
+Place of Judgment. 28" N 38', 77" E 12' ., Aynamsha 23° .27'
+Mo 12:18
+Ve 17:33
+Ju 10:35
+Su 22:02
+Xll27:57
+128:46:40
+Me 26:05
+
+## X123:57
+
+
+## X 18:57
+
+Ke10:28
+Ma 16:57
+1121:57
+
+## IX 17:57
+
+Sa 00:18
+11117:57
+Vlll21:57
+Ra 10:28
+
+## IV 18:57
+
+Vll28:46:40 Vl27:57
+v 23:57
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn Stl Sbl
+Sun
+Ma
+Ve
+Sa
+Moon
+Ma
+Ke
+Me
+1
+Me
+Ju
+Su
+0
+7
+Ju
+Su
+Ma
+0
+Mars
+Mo
+Me
+Me
+2
+Mo
+Me
+Su
+0
+8
+Sa
+Mo
+Ve
+Mercury Ju
+Me
+Ra
+0
+Jupiter
+Me
+Ra
+Sa
+3
+Su
+Ve
+Ma
+0
+9
+Sa
+Ra
+Su
+Venus
+Ve
+Mo
+Sa
+4
+Me
+Mo
+Me
+0
+10
+Ju
+Me
+Ke
+Saturn
+Su
+Ke
+Ke
+5
+Ve
+Ju
+Me
+0
+11
+Ma
+Ve
+Sa
+Rahu
+Me
+Mo
+Mo
+0
+Ketu
+Ju
+Sa
+Su
+6
+Ma
+Me
+Sa
+0
+12
+Ve
+Ma
+Sa
+~--------------~----------+-M-e-26-:0-5--------~~Hints
+Va 17:33
+Mo 12:18
+
+## X1127:57
+
+su22:o2
+~~~~~8
+1) Cusp 3rd indicate interview,
+
+## X123
+
+=57
+discussion,
+meeting.
+7th
+
+## IX 17:57
+
+indicate a person whom we
+1---------------''t-----------¥----------------+ have meet, from 7th, 3rd is 9th
+Me 18:57
+1121:57
+Vlll21:57
+so meeting with other person
+indicates by 9th cusp. In short
+for
+interview we
+have
+to
+consider 3rd and 9th cusps.
+t-s.-0-0-,18----------?f------------f.:::--------------+ 2) For meeting to take place or
+11111:s1
+Vl128'46'40
+not
+means
+fulfillment
+of
+v 23:57
+Vl27:57
+querent's desire or not, so we
+have to consider ll'h cusp. If
+I Jlh cusp sub lord or
+its
+starlord is in direct motion, then only a meeting is possible.
+If the cuspal sub lord of the I1 th be the significator (in the star of the occupant
+or owner) of 3 (meeting, interview), 9 (meeting with person) or 11 (gain, success,
+fulfillment of desire) then a meeting is possible.
+
+## PRASHNA JYOTISH
+
+105
+
+
+Meeting is for higher salary, so for that we need to check 3rd and 9th cusp sub
+lord. lf the cuspal sub lord of the 3rd or 9th be the significator (in the star of
+the occupant or owner) of 2, 6, 10, 11 then meeting for higher salary is
+successful during the joint period of the significators of 2, 6, 10 and 11.
+Moon
+ln this horary map Moon is Conj. with 3rd (meeting) lord Sun. Moon occupant
+of 10th and owner of 2nd. Moon is in the star of Ketu and sub of Mercury.
+Ketu occupant of 9th, sub lord Mercury karka of Meeting and occupant of 10th.
+Thus Moon clearly indicates that the query refers to meeting for higher salary.
+
+## Cusp 11th. (Aries 23°.57'):
+
+The sub lord of the 11th cusp is Saturn, in the star and sub of Ketu. Saturn
+is in direct motion and owner of 9th and occupant of 2nd. Starlord and sublord
+ketu is occupant of 9th. Ketu is in pisces sign, so represents Jupiter owner of
+
+## 10th. lllh cusp sublors is in direct motion and its star and sub lord Ketu also
+
+in direct motion. Saturn is the significtiore of 9th, hence querent will be called
+for
+interview.
+11th cusp sub lord Saturn signifies 10th and connected with 2nd and 9th. Hence
+meeting or interview for higher salary will be successful.
+
+## Cusp 3rd. (Leo 17°.57'):
+
+The sub lord of the 3rd cusp is
+Mars. ln the star and sub of
+Mercury. Mars is owner of 6th (Job),
+11th (promotion). Star lord Mercury
+is occupant of 10th. Thus Mars is
+significtor of I Oth and connected
+with 6, 10 and 11. Hence querent
+will select in interview with higher
+salary.
+
+## Cusp 9th. (Aquarius 17° .57):
+
+The sub lord of the 9th cusp is Sun,
+in the star of Venus and sub of
+Saturn. Sun is owner of 3rd and
+occupant of lOth. Star lord Venus
+occupant of 11th. Sub lord Saturn
+owner of 9th and occupant of 2nd.
+Thus 9th cusp sub lord Sun is significator of 11'h (gain, success, fulfill of desire),
+and connected with 2, 10, 3 and 9. Hence querent will be selected in interview
+for higher salary.
+Ruling planets
+Day.
+Saturday
+Asc.
+Leo
+
+## 21 °.17'
+
+Moon. Aries
+
+## 12° .18'
+
+Day lord
+Saturn
+Sign lord
+Sun
+Mars
+Star lord
+Sub lord*
+Venus
+Ketu
+Jupiter
+Mercury
+Thus the ruling planets are Sun, Mars, Venus, Saturn and Ketu.
+106
+
+## PRASHNA JYOTISH
+
+
+
+Significators of 2, 6,10 and 11
+Ethava
+ln the star of
+Occupant (B)
+In the star of
+Owner(D)
+occupant (A)
+owner( C)
+2
+Ket
+Sat
+Ven-Rah
+Moo
+6
+Mar
+10
+Mar-Mer
+Mer
+Jup
+Ven-Rah
+Moo
+Sun
+11
+Sun
+Ven
+Mar
+Thus the significator of 2, 6, 10, 11 are Ketu, Mars, Mer, Sun, Venus and
+Rahu.
+* added by Kanak Bosmia
+Joint Period
+At the time of judgment (Balance dasa of Ketu for OY 6M 16D) the querent
+was running the joint period of Ketu-Mercury up to 22-11-1978.
+There is no control on dasa and antardasa. Ketu is sub lord of 10th also Ketu
+is a ruling planet and significator. So during Ketu-Mercury there is chance of
+success in getting higher salary job. (Kanak Bosmia: Mercury is not in RP ifwe
+consider 5 RP's, but it is found that if we consider 7 RPs we have Mercury in
+RP. Check above RP table)
+11 <h, 3rd, and 9th cusp sub lords indicate interview and selection for this job,
+so consider this condition. Generally during interview selection will be completed.
+Querent was called for an interview on 10-5-1978. The querent is running the
+joint period of Ketu-Mercury-Moon. (From 24-4-1978 to 23-5-1978).
+Moon is fast moving planet, owner of 2nd and occupant of 10th, conj. with
+owner of 3rd Sun. No planet aspect on both planets. As discussed above Moon
+is strongly indicate meeting/interview. Thus during Ketu-Mercury-Moon, querent
+will get favorable reply for interview.
+ln addition during Ketu-Mercury-Mars joint period, Ketu-Mercury-Mars are in
+ruling planet and significator. Mars is the cuspal sub lord of 3rd, Saturn is the
+sub lord of 11th cusp. So we need to think about it.
+After Ketu-Mercury-Moon we have Mars antra. Mars is owner of 6th and 11th.
+So indicate chance of job during Mars antra. Ketu-Mercury-Mars joint period
+runs from 30-5-1978 to 3-6-1978, hence querent will get success in interview
+and get high salary job during this joint period.
+Actually the querent took job (change) with high salary from 1-6-1978.
+At
+that time the querent was running the joint period of Ketu-Mercury-Mars-Saturn
+(From 30-5-1978 to 3-6-1978).
+Transit
+Date 1-6-1978 when Sun was transltmg in Taurus 16° and Mars trans1tmg in
+Taurus 29° in the sub of Sookshma dasanath Saturn. Moon in Pisces 21 o to
+26° in the star of Mercury bhukti dasanath. Saturn was transiting in Leo 01°.21'
+and Ketu was transiting in Virgo 09°.05' in the sub of 10th significator Venus.
+
+## PRASHNA JYOTISH
+
+107
+
+
+Example 13. Change in Job
+Question: My son is working in a mill, he gets job in a bank with good salary,
+will he leave the present job in mill and joint the bank?
+Number. 215 (out of 249),
+Time of Judgment: 04-05-1971, Tuesday;
+
+## 04-01 PM IST
+
+Place of Jud~ment. 23° N 02', 72° E 35', Aynamsha 23°.21'
+Su 19:58
+Sa 00:55
+Xl21:07
+Xll18:07
+Me 29:51
+Ve19:38
+
+## X 19:07
+
+
+## IX 10:26:40
+
+Ra26:04
+
+## VIII 09:07
+
+Ma 06:56
+Vl18:07
+Vll12:07
+Ju[RJ 10:33
+v 21:07
+Planet
+Sgn Stl
+Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Ma
+Ve
+Ra
+0
+Moon
+Su
+Ke
+Me
+1
+Me
+Ra
+Sa
+0
+7
+Ju
+Mars
+Sa
+Su
+Me
+2
+Mo
+Sa
+Ve
+0
+8
+Sa
+Mercury Ju
+Me
+Sa
+3
+Su
+Ke
+Sa
+0
+9
+Sa
+Jupiter[R] Ma
+Sa
+Su
+0
+Venus
+Ju
+Me
+Ve
+4
+Me
+Mo
+Me
+0
+10
+Ju
+Saturn
+Ve
+Su
+Ra
+5
+Ve
+Ju
+Ju
+0
+11
+Ma
+Rahu
+Sa
+Ma Ra
+0
+Ketu
+Mo
+Me
+Ra
+6
+Ma
+Me
+Me
+0
+12
+Ve
+Hints
+112:07
+
+## II 09:07
+
+Ke 26:04
+11110:26:40
+Mo 13:17
+
+## IV 19:07
+
+Stl
+Sbl
+Ke
+Me
+Su
+Ve
+Ra
+Sa
+Me
+Ke
+Ve
+Ju
+Mo
+Me
+If the cuspal sub lord of 3 Uourney, absence of the present residence, 3rd is
+12th from the 4th, change of place) or 12 (life in completely unfamiliar
+atmosphere) be the-significator (in the star of the occupant or owner) of 3 or
+12 and connected with 10, the querent if in service, will be transferred from
+the present place to another place.
+If the sub lord of the 10th cusp be the significator (in the star of the occupant
+or owner) of 3 or 12, the transfer in service from one place to another. The
+transfer takes place during the joint period of the significator of 3, 10 and 12.
+Moon
+In this horary map the father asked the question about her son. So consider
+the 5th cusp as the Asc. for the son and proceed. For convenience each house
+counted from the 5th cusp. Moon is occupant of 3 (Change). It is in star of
+Ketu and sub of Mercury.
+Star lord Ketu occupant of Son's 2nd (Money), Sub
+lord Mercury is son's Lagnesh and occupant of 10th. Thus Moon clearly indicates
+that the querent is worried about job, money, and change in job of his son.
+108
+
+## PRASHNA JYOTISH
+
+
+
+
+## Son's 3rd Cusp (Leo 10°.26'.40"):
+
+The sub lord of the 3rd cusp is
+Saturn, in the star of Sun and
+sub of Rahu. Saturn is occupant
+of ll'h . Its star lord Sun is
+owner of the 3rd and occupant of
+
+## 10th.
+
+Sub lord Rahu conjoined
+with Mars, owner of 6th and 11th.
+Thus 3rd cusp sub lord Saturn
+significator of 3rd (Change) and
+10th (Job-Status), and connected
+with 6th (Job), and 11 (Gain- fulfill
+of desire), Hence the querent's
+son change job to a bank is
+possible.
+Son's
+12th
+Cusp
+(Taurus
+
+## 18° .07):
+
+The sub lord of the 12th cusp is Mercury, in the star of own and sub of Saturn.
+Star lord Mercury is owner of the 4th and occupant of 10th. Sub lord Saturn is
+occupant of 11th. Thus 12th cusp sub lord is not a significator of 3rd (change)
+and 12th but significator of 1st (son), 4th (present residence) and lOth (job-Status),
+sa 00,55
+su 19,58
+x 19,07
+and connected
+11 (gain- fulfill
+xn16:07
+x121:01
+Ve19:36
+of desire), Hence the querent's
+Me 29:51
+1109:07
+Ke26:04
+11110:26:40
+Mo 13:17
+
+## V21:07
+
+Ra26:04
+
+## VIII 09:07
+
+Ma 06:56
+Vll12:07
+son will not change job to join
+the bank ,but will get raise in
+salary in his present job.
+Son's
+10th Cusp (Pisces
+
+## 19°.07'}:
+
+The sub lord of the lOth cusp
+is Ketu, in the star of Mercury
+and
+sub
+of Rahu.
+Ketu
+occupant of son's 2nd. We have
+discussed about star lord
+Mercury and sub lord Rahu
+above. Thus son's 10th cusp
+sub lord signifies 1st, 4th and 10th and connected with 2nd, 6th and llth. Hence
+the querent's son has no job change to a bank but will get raise in salary in
+his present job. 10th cusp sub lord does not signify 3rd or 12th at all.
+Joint Period
+At the time of judgment (Balance dasa of Ketu for OY OM 10D) the querent
+was running Ketu (son's 10th cusp sub lord), Mercury (son's 12th cusp sub
+lord), and Saturn (son's 3rd
+cusp sub lord). Joint period rulers are not the
+strong significator of 3rd and 12th. Hence the querent's son did not change job,
+however got gain in salary at his present job.
+On 14-5-1971 Venus dasa starts. Venus was in Mercury star and own sub.
+Thus Venus signifies lOth, 1st and 4th. After some day's querent's son get good
+raise in his salary in his present job in mill.
+
+## PRASHNA JYOTISH
+
+109
+
+
+Example 14. Transfer in Service
+Question: There are two posts suitable to me at two different places. My desire
+is for any one of the posts at any of the two places. If so when?
+Number: 31(out of 249).
+Time of Judgment: 25-05-1979, Friday;
+
+## 09-05 AM 1ST
+
+Place of Judgment. 23° N 02', 72° E 35', Aynamsha 23°.28'
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sun
+Ve
+Su
+Ve
+Moon
+Ma
+Su
+Ra
+1
+Ve
+Mo
+Mars
+Ma
+Ke
+Me
+2
+Me
+Ra
+Mercury Ve
+Su
+Sa
+3
+Mo
+Ju
+Jupiter
+Mo
+Sa
+Su
+Venus
+Ma
+Ve
+Ve
+4
+Mo
+Me
+Saturn
+Su
+Ve
+Ve
+5
+Su
+Su
+Rahu
+Su
+Ve
+Ju
+Ketu
+Sa
+Ju
+Ju
+6
+Ve
+Ma
+Moon
+Xl29:10
+Ke20:08
+
+## X 28:10
+
+
+## IX 02:10
+
+Sbl
+Ra
+Ra
+Ra
+Sa
+Ma
+Mo
+
+## XII 05:48
+
+Ma 13:15
+Ve15:11
+Mo 29:20
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Me04:03
+Su 09:55
+111:53:20
+Cusp Sgn
+7
+Ma
+8
+Ju
+9
+Sa
+10
+Sa
+11
+Sa
+12
+Ma
+
+## II 07:10
+
+Ill 02:10
+Ju 10:38
+
+## IV 28:10
+
+Sa 13:49
+Ra 20:08
+
+## V29:10
+
+Stl Sbl
+Sa
+Mo
+Ke
+Ra
+Su
+Ju
+Ma
+Sa
+Ju
+Su
+Ke
+Ra
+In this horary map Moon owns 3. lt is in conjunction with Mars owning 12
+and Venus owning 6 (service). lts star lord Sun occupies 12. lts sub lord Rahu
+~--------+------+---------:;;o1 is in conjunction with Saturn
+Me 04:03
+
+## XII 05:48
+
+suo9:55
+Ma1 3,15
+owning 10 (position, status)
+111:53:20
+Ve15:11
+and 11 (fulfillment of desire).
+Mo 29:20
+Thus Moon reveals the mind
+of the querent that he desires
+r-11-10-2 ,-10-----~+-------~-------------~ one of the two posts at any
+Ju10:38
+
+## X28:10
+
+f th
+t
+]
+f h"
+
+## IX02:10
+
+0
+e
+WO p aces
+0
+
+## IS
+
+
+## IV 28:10
+
+choice.
+
+## t---------'-+-------+:::-----------i 3rd cusp (Cancer 02°.10'):
+
+The sub lord of the 3rd cusp
+Sa13:49
+Ra20:08
+v 29:10
+110
+Vll11:53 20
+
+## VI 05:48
+
+
+## VIII 07:10
+
+is Rahu. lt is in conjunction
+with Saturn owning 10. Its
+star lord Venus occupying 12.
+
+## PRASHNA JYOTISH
+
+
+
+It is in the sub of Jupiter in 3. So the cuspal sub lord of 3 is the significator
+of 12 and connected with 3 and 10. None of these planets are retrograde.
+Hence the querent will have his transfer at any of the two places of his choice.
+12th cusp (Aries 05° .48)
+The sub lord of the 12th cusp is Rahu. Hence the position will be the same as
+above.
+
+## 1Oth cusp (Capricorn 28°.10):
+
+The sub lord of the 1Oth cusp is
+Saturn. It owns 10, it is in the
+star and the sub of Venus
+occupying 12. So the cuspal sub
+lord of 10 is the significator of
+12 and connected with 10. Hence
+the querent will have transfer at
+any of the two places of his
+choice. None of these planets are
+retrograde.
+
+## 11th cusp (Aquarius 29°.10'):
+
+ll th cusp sub lord indicate
+whether querent's desire will be
+fulfilled or not. The sub lord of
+the ll'h cusp is Sun. It is in its
+own star in 12 and in the sub of Venus in 12. So the cuspal sub lord of 11
+is the strong significator of 12 and connected with 12. None of these planets
+are retrograde. Hence the querent's desire will be fulfilled, i.e. he will have
+environments changed according as he intends.
+Ruling planets
+
+## At the time of judgment ruling planets are as under:
+
+Day lord
+Sign lord
+Star lord
+Day. Friday
+Venus
+Asc.
+Gemini 22°.00'
+Mercury
+Jupiter
+Moon. Aries
+
+## 29°.20'
+
+Mars
+Sun
+Rahu is in Leo, so it represents Sun. Hence the ruling planets are Sun, Mars,
+Mercury, Jupiter, Venus and Rahu.
+Joint period
+At the time of judgment (Balance dasa of Sun for 4Y 9M l8D) the querent
+was running the joint period of Sun and Rahu. Both Sun and Rahu are among
+the ruling planets. The period ruler Sun is the cuspal sub lord of 11 and the
+sub period ruler Rahu is the cuspal sub lord of 3 and 12. They are the
+significator of 3 and 12. So the querent's desire will be fulfilled during the
+joint period of Sun and Rahu.
+In the dasa of Sun during the bhukti of Rahu the antra of Jupiter follows
+immediately after Rahu. Jupiter is the ruling planet and it is also the significator
+
+## PRASHNA JYOTISH
+
+111
+
+
+(in the star of Saturn owning 10 and 11 and in the sub Sun in 12).
+So
+Jupiter is the significator of 10, 11 and connected with 12. Also star lord of
+Jupiter, Satrun is conjoined with bhuktinath Rahu and its sub lord Sun is
+dasanath self. Thus during the joint period of Sun-Rahu-Jupiter (26-6-1979 to
+9-8-1979) querent' s desire will be fulfilled.
+Actually the querent got order to take charge in Vadodara on his desired post
+on 23-7-1979. At that time the querent was running the joint period of Sun-
+Rahu-Jupiter-Venus (18-7-1979 to 25-7-1979). Sookshma dasanath Venus is
+in own star and sub and signifies 12th also is in ruling planets.
+Transit
+On 23-7-1979 Moon in Cancer 00°.18' was in the star of antranath Jupiter.
+Rahu in Leo 16°.59' was in the star of Sookshmanath Venus. Jupiter in Cancer
+22\01' was in the sub of dasanath Sun. Venus in Gemini 27°.31' was in the
+star of Jupiter.
+112
+
+## PRASHNA JYOTISH
+
+
+
+Example 15. Change in Job.
+Question: l've got offer in Huston (Texas-USA) for good job, shall 1 take this
+opportunity?
+Number: 153 (out of 249),
+Time of Judgment: 28-08-1980, Thursday;
+
+## 05-40 AM 1ST
+
+UPiace of Judgment. 23° N 02', 72° E 35', Aynamsha 23°.29'
+Yl16:07
+Yll10:20
+Ylll10:07
+Ye 25:35
+y 18:07
+Mo07:07
+
+## IX 12:07
+
+Ra 25:42
+
+## IV 16:07
+
+Su 11:21
+Me12:50
+
+## X 16:07
+
+Ju 23:44
+Ke25:42
+11112:07
+Sa 03:32
+Xl18:07
+Xll16:07
+1110:07
+110:20
+Me 05:43
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl
+Sbl
+Sun
+Su
+Ke
+Sa
+0
+Moon
+Ju
+Sa
+Me
+1
+Ma
+Sa
+Su
+0
+7
+Ve
+Mo
+Mo
+Mars
+Ve
+Ma
+Mo
+2
+Ju
+Ke
+Sa
+0
+8
+Me
+Ra
+Ju
+Mercury Su
+Ke
+Me
+0
+Jupiter
+Su
+Ve
+Sa
+3
+Sa
+Mo
+Ra
+0
+9
+Mo
+Sa
+Ma
+Venus
+Me
+Ju
+Me
+4
+Sa
+Ra
+Ve
+0
+10
+Su
+Ve
+Su
+Saturn
+Me
+Su
+Sa
+5
+Ju
+Me
+Me
+0
+11
+Me
+Mo
+Me
+Rahu
+Mo
+Me
+Ra
+0
+Ketu
+Sa
+Ma
+Ra
+6
+Ma
+Ve
+Su
+0
+12
+Ve
+Ra
+Ve
+Moon
+ln this horary map Moon is occupant of 4th (present residence), aspected by
+owner of 3rd (change) Saturn. Moon is in star of Saturn and sub of Mercury.
+Star lord Saturn is occupant of 10th (job, status), and owner of 3rd, sub lord
+Mercury is owner of 11 1h (gain- fulfill of desire) and occupant of 9th (change in
+job). Thus Moon clearly indicates that the querent is worried asking about
+change in job.
+
+## Cusp 10th (Leo 16° .07):
+
+The sub lord of the 10th cusp is Sun, in the star of Ketu and sub of Saturn.
+Sun is owner of 10th and occupant of 9th . lts star lord Ketu is occupant of
+the 3rd. Sub lord Saturn is occupant of 10th (job, status), and owner of 3rd, so
+lQth sub lord Sun is the significator of 3rd (change), and connected with lOth
+(job, status), 3rd (change), 9th (change in job). Hence the querent's will change
+job and take this opportunity. 10th cusp sub lord Sun Conjoint with Labhesh
+Mercury and Dhanesh Jupiter, so he will get good financial gain in this job
+change.
+
+## PRASHNA JYOTISH
+
+113
+
+
+
+## Cusp 3th (Capricorn 12° .07):
+
+The sub lord of the 3rd cusp is
+Rahu, in the star of Mercury and
+sub of own. Star lord Mercury is
+occupant of 9th, owner of lith. Sub
+lord Rahu is in 9th. Thus 3rd cusp
+sub lord signifies 9,
+11
+and
+connected with 9th. So for querent
+change in job is good for him, in
+other words he will change present
+job for good financial gain.
+
+## Cusp 12th (Libra 16°.07*):
+
+The sub lord of the 12th cusp is
+Venus, in the star of Jupiter and
+sub of Mercury. Venus is owner of
+
+## 12th. Star lord Jupiter is owner of
+
+2nd and 5th and occupent of 10th.
+Sub lord Mercury owner of 11th
+and occupant of 9th. So 12th cusp sub lord Venus signifies 2 (money), 5th (change
+injob) and connected with ll(gain), 9 (change injob) and 12 (life in completely
+unfamiliar atmosphere). Thus querent's desire for new job with financial gain
+in USA is promised.
+
+## Cusp 11th (Virgo 18° .07):
+
+the star of Ketu and sub of own.
+l-oo--------+------+-------.,..( Star lord Ketu is occupant of
+Vl16:07
+
+## V 18:07
+
+The sub lord ofthe llthcusp is Mercury, in
+
+## IX 12:07
+
+Ra 25:42
+Su 11:21
+Me12:50
+
+## X 16:07
+
+Ju 23:44
+Xll16:07
+Ma 05:43
+Mo07:07
+
+## 3rd.
+
+Sub lord Mercury is
+110:20
+occupant of 9th, and owner of
+lith. So lith cusp sub lord
+signifies
+3rd
+(change),
+9
+(change in job), 11
+(gain,
+Ke 25:42
+11112:07
+fulfillment of desire). Thus
+querent's desire for new job
+with financial gain in USA is
+promised.
+1110:07
+ln this case querent called me
+on 28-8-1980 so 1 calculate
+immediately and gave my
+opinion to take this offer as
+it is good for him. Later on
+12-9-1980 querent gave me a
+second call stating that he sent his approval to join in the new job and joined
+from 14-10-1980. In his third call from USA on 6-11-1980 he said that he
+joined the job from 14-10-1980 and took charge.
+Ruling planets
+At the time of judgment ruling planets are as under. RP calculation is before
+Sunrise so we have to take day Wednesday.
+114
+
+## PRASHNA JYOTISH
+
+
+
+Day lord
+Sign lord
+Star lord
+Day. Wednesday
+Mercury
+Asc .. Leo
+
+## 01°.00'
+
+Sun
+Ketu
+Moon. Pisces 07° .07'
+Jupiter
+Saturn
+Thus the ruling planets are Sun, Mercury, Jupiter, Saturn, and Ketu.
+Sun and Mercury are significator of 3rd, Jupiter is significator of 12th and Saturn
+is significator of 9th and Ketu is significator of 6th and 11th.
+Joint Period
+At the time of judgment (Balance dasa of Saturn for 13Y 7M 9D) the querent
+is running the joint period of Saturn- Mercury- Satum· Mercury (10-8-1980 to
+1-9-1980). Both Saturn and Mercury are in Significator and RPs.
+Joint period of Saturn- Mercury- Saturn run up to 19-12-1980 so before this
+date querent could get a new job.
+Actually querent got a change in new job during joint period of Saturn- Mercury-
+Saturn-Moon (12-10-1980 to 26-10-1980) on 14-10-1980 he took charge in new
+job.
+Sookshma dasanath Moon owner of 9th (change in job), in the star of Saturn
+and sub of Mercury. Star lord Saturn is occupant of 10th Gob-status), and
+owner of 3rd. Sub lord Mercury occupant of 9th, and owner of 11'h. So querent
+got new job in Moon sookshma.
+Transit
+On date 14-10-1980 when Sun was transiting in Virgo approx. 28° in the sub
+of Mercury (bhukatinath); Moon in Scorpio 27°/28° in the star Mercury
+(bhuktinath). Mercury was transiting in Libra 22°.08' in the sub of Saturn.
+Saturn was transiting in Virgo 09°. 17' in owen sign.
+
+## PRASHNA JYOTISH
+
+115
+
+
+Example 16. Job Change
+Question: Will I change my current job in the mill?
+Number: 9 (out of 249).
+Time of Judgment: 08-09-1980, Monday;
+
+## 08-15 PM 1ST
+
+Place of Judgment: 23° N 02', 72° E 35', Aynamsha 23°.29'
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Sun
+Su
+Ve
+Sa
+Moon
+Su
+Ve
+Ve
+1
+Ma
+Mars
+Ve
+Ra
+Me
+2
+Ve
+Mercury
+Me
+Su
+Sa
+3
+Me
+Jupiter
+Su
+Ve
+Ke
+Venus
+Mo
+Sa
+Me
+4
+Mo
+Sa tum
+Me
+Su
+Sa
+5
+Mo
+Rahu
+Mo
+Me
+Ra
+Ketu
+Sa
+Ma Ra
+6
+Me
+1111:32
+111:26:40
+
+## XII 02:32
+
+
+## XII 02:32
+
+Xl26:32
+Ko 25:06
+
+## X 01:32
+
+
+## IX 06:32
+
+Stl
+Sbl
+Ke
+Me
+Mo
+Ma
+Ma
+Mo
+Ju
+Ra
+Me
+Sa
+Su
+Ju
+111:26:40
+1111:32
+Ill 06:32
+
+## IV01:32
+
+Ve 07:18
+Ra 25:06
+
+## V26:32
+
+Mo 13:42
+Su 22:36
+Ju 26:13
+
+## VI 02:32
+
+Mo o3:5o
+Sa 04:55
+Ma 13:15
+Vlll11:32
+Vll11:26:40
+0
+Cusp Sgn
+Stl Sbl
+0
+0
+7
+Ve
+Ra
+Sa
+0
+8
+Ma
+Sa
+Mo
+0
+0
+9
+Ju
+Ke
+Ra
+0
+10
+Sa
+Su
+Ju
+0
+0
+11
+Sa
+Ma
+Sa
+0
+12
+Ju
+Ju
+Ra
+Moon
+In this horary map Moon is
+occupant of 5ili (change in
+job),and also owner of 5th.
+t---------"t------i"'--------+ Moon
+is
+conjoined
+with
+
+## IV01:32
+
+Vo 07:16
+Ra 25:06
+
+## V28:32
+
+Xl28:32
+Ko 25:06
+
+## X01:32
+
+Jupiter, owner of 9th (change
+in job) and
+12th (unknown/
+distant place). Thus Moon
+clearly indicates that the
+1---------::ot-------1....--------+ query refers to job change.
+Mo 13:42
+Su 22:38
+Ju 26:13
+Ma 13:15
+Vll11:26:40
+
+## IX 06:32
+
+Cusp 6th (Virgo 02° .32) : The
+sub lord of the 6th
+cusp is
+Jupiter. It is in the star of
+""--------o~---------'--------"'1.. Venus and sub of Ketu. Star
+lord Venus is occupant of the 4 and owner of 2, 7. Sub lord Ketu is occupant
+of 10th and near to 11th cusp. So 6th cusp sub lord Jupiter is not the occupant
+116
+
+## PRASHNA JYOTISH
+
+
+
+or owner or it's star lord is
+occupant or owner of 3rd or 12th.
+Thus 6th cusp sub lord does not
+signify 3 or
+
+## 12. Hence the
+
+querent's desire will not be
+fulfilled and he does not change
+his job.
+
+## Cusp 10th (Capricorn OP.32'):
+
+The sab lord of the 10th cusp is
+Jupiter. Hence the position will
+be the same as above.
+Joint Period
+At the time ofjudgment (Balance
+dasa of Venus for 19Y 5M 12D)
+the querent is running the joint
+period of Venus-Venus. Venus is
+in the star of Saturn and sub of
+Mercury. Star lord Saturn is
+owner of 10th, 11th and occupant of 6th. Sub lord Mercury is owner of 3rd and
+6th and occupant of 6th. Thus Venus signifies 10, 11, and 6 and is connected
+with 3, 6. All these does not signify change in job. Hence he will not change
+job and continue his job in the mill. Until this period (July 1981) he is working
+in the same mill. 10th cusp sub lord does not signifies change in job, so there
+is no meaning to check joint period rulers.
+
+## PRASHNA JYOTISH
+
+117
+
+
+Example 17. Change of place
+Question: Will I dare to come to Ahmedabad?
+Number: 47 (out of 249).
+Time of Judgment: 26-10-1980, Sunday; 04-20 PM 1ST
+Place of Judgment: 23° N 02', 72° E 35', Aynamsha 23 •. 29
+
+## XII 04:16
+
+
+## I 06:40
+
+Mo 16:09
+Xl29:16
+
+## II 00:16
+
+Ra 22:33
+11126:16
+
+## IX 25:16
+
+
+## IV25:16
+
+
+## IX 26:16
+
+Ke 22:33
+
+## VIII 00:16
+
+Ve 01:47
+Ju 06:20
+Sa 10:45
+Ma 16:46
+Me[R]25:37
+v 29:16
+
+## VII 06:40
+
+
+## VI 04:16
+
+Su 09:41
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl
+Sbl
+Sun
+Ve
+Ra
+Ju
+0
+Moon
+Ve
+Mo
+Sa
+1
+Me
+Ra
+Ra
+0
+7
+Ju
+Ke
+Ra
+Mars
+Ma
+Me
+Me
+2
+Mo
+Ju
+Mo
+0
+8
+Sa
+Su
+Ra
+Mercury[R]Ve
+Ju
+Me
+3
+Mo
+Me
+Ju
+0
+9
+Sa
+Ma
+Ju
+Jupiter
+Me
+Su
+Me
+0
+Venus
+Me
+Su Ju
+4
+Su
+Ve
+Me
+0
+10
+Sa
+Ju
+Me
+Saturn
+Me
+Mo
+Mo
+5
+Me
+Ma
+Sa
+0
+11
+Ju
+Me
+Sa
+Rahu
+Mo
+Me
+Mo
+0
+Ketu
+Sa
+Mo
+Ve
+6
+Ma
+Sa
+Sa
+0
+12
+Ve
+Su
+Sa
+Hints
+For any kind of temporary or permanent change of place/residence for social,
+).o::,...---------11-------1-x-
+12-
+9
+-..
+1
+-
+6------::...r financial, politics, house, office
+
+## XII 04:16
+
+Mo16:09
+or job purposes, cusps 3rd and
+
+## II 00:16
+
+Ra22:33
+11126:16
+
+## IX 26:16
+
+Ke 22:33
+
+## VIII 00:16
+
+12th are to be considered. If
+the sub lord of 3 or 12 cusp
+be the significator (in the star
+ol" the occupant or owner) of
+3 or 12, the querent will
+move from the present place
+to another place during the
+joint period of significators of
+-1--------,t------~--------f 3rd and 12th.
+Su 09:41
+Me[R] 25:37
+
+## VII 06:40
+
+own star. Thus Moon clearly indicates that the
+118
+Moon
+In this horary map Moon is
+owner of 3rd (change of place),
+occupant of 12th. Moon is in
+query refers to change of place.
+
+## PRASHNA JYOTISH
+
+
+
+Cusp 12th (Taurus 04°.16') : The sub lord of the 12th cusp is Saturn, in the
+star and sub of Moon. Star lord Moon is owner of 3rd (Change of place), and
+occupant of 12'h. So 12th cusp sub lord Saturn is significator of 3 and 12.
+Hence the querent's desire will be fulfilled and he will change place.
+Cusp 11th (Pisces 29°.16') : The sab lord of the ll'h cusp is Saturn. Hence
+the position will be the same as above.
+Ruling planets
+At the time of judgment ruling planets
+Day lord
+are as under.
+Day. Sunday
+Asc.
+Pisces 06°.31'
+Moon. Taurus 16°.09'
+Sun
+Sign lord
+Jupiter
+Venus
+Star lord
+Saturn
+Moon
+Ketu is in the sign of Capricorn, aspected by Jupiter. Hence Ketu represent
+Saturn and Jupiter. Rahu is in the sign of Cancer, representing Moon. Thus
+the ruling planets are Sun, Moon, Venus, Saturn, Jupiter, Rahu and Ketu.
+Significators of 3 and 12
+lhava
+3
+12
+ln the star of
+occupant (A)
+Moo-Sat-Ket
+Occupant (B)
+Moo
+ln the star of
+owner( C)
+Moo-Sat-Ket
+Owner(D)
+Moo
+Ven
+Thus the significator of 3 and 12 are Moon, Saturn and Ketu. All significator
+are also Ruling planet hence during joint period of Moon, Saturn and Ketu,
+
+## PRASHNA JYOTISH
+
+queren' s desire will be fulfilled.
+Joint Period
+At the time ofjudgment (Balance
+dasa of Moon for 5Y 4M 19D) the
+querent is running the joint
+period of Moon-Saturn-Mercury.
+Moon-Saturn-Ketu period runs
+from 6-12-1980 to 9-1-1981, so
+during this period q ueren t' s
+desire will be fulfilled and he will
+change his place. Querent came
+to
+Ahmedabad and
+started
+dispensary on 15-12-1980.
+Transit
+On date 15-12-1980 when Sun
+was transiting in Sagittarius
+
+## 00°.12' in the Star of Ketu (Antra
+
+lord); Moon in Pisces 6° in the
+star of Saturn (Bhukti lord). Ketu
+119
+
+
+was transiting in Capricorn 19°.54' in the star of Moon (Dasa nath), sub of
+Ketu.
+In this case querent wanted to change his place for business purposes. For
+business we have to check 2, 6, 10. Thus generally 3rd and 12th cusp sub
+lords are also connected with 2, 6, 10.
+Also significator of 3rd and 12th are
+connected with 2, 6, 10.
+In this horary map 12th cusp sub lord is Saturn. Saturn is owner of 10th. Star
+lord of Saturn is Moon and owner of 2nd. Thus Saturn connected with 2 and
+
+## 10.
+
+Like this joint period lords (3rd and 12th significators) Moon-Saturn-Ketu all
+these three planets are in the star of Moon, thus they are connected with 2nd.
+120
+
+## PRASHNA JYOTISH
+
+
+
+Example 18. Retirement in job
+Question: When shall my husband retire from his job ?
+Number: 115 (out of 249).
+Time of Judgment: 30-10-1973, Tuesday; 05-30 PM 1ST
+Place of Judgment: 10° N SO', 78° E 46'., Aynamsha 23°.23'
+
+## I 13:53:20
+
+Xll13:19
+Xl12:19
+Ju 10:32
+
+## X 13:19
+
+Ra 07:51
+Ma[R] 06:27
+11114:19
+1114:19
+Mo 02:41
+
+## IX 14:19
+
+Vlll14:19
+
+## IL...---------"-":...._ _______
+
+___;,j Ve 00:04
+Me[R] 03:13
+Su 13:32
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Ve
+Ra
+Me
+0
+Moon
+Ju
+Ke
+Ve
+1
+Ju
+Sa
+Ra
+0
+7
+Me
+Mars[R]
+Ma
+Ke
+Ra
+2
+Ma
+Ve
+Ve
+0
+8
+Ve
+Mercury[R]Ma Ju
+Ra
+3
+Ve
+Mo
+Ju
+0
+9
+Ma
+Jupiter
+Sa
+Mo
+Mo
+0
+Venus
+Ju
+Ke
+Ke
+4
+Me
+Ra
+Me
+0
+10
+Ju
+Saturn[R] Me
+Ra
+Sa
+5
+Mo
+Sa
+Ma
+0
+11
+Sa
+Rahu
+Ju
+Ke
+Ju
+0
+-Ketu
+Me
+Ra
+Ra
+6
+Su
+Ke
+Me
+0
+12
+Sa
+Hints
+Ke 07:51
+Sa[R] 11:12
+
+## IV 13:19
+
+v 12:19
+Vl13:19
+Vll13:53:20
+Stl
+Sbl
+Mo
+Ju
+Ra
+Me
+Sa
+Ra
+Ke
+Me
+Mo
+Ra
+Ra
+Me
+For job or business we check 2, 6, 10. 12th from above cusp 1, 5, 9 are negative
+cusp for 2, 6, 10. 12th bhava indicates loss, thus for retirement from job or
+business we have to consider cusps l, 5, 9, 12.
+If the sub lord of the 10th or 6th cusp be the significator (in the star of the
+occupant or owner) of 1, 5, 9 or 12 the querent can retire from service or
+business during the joint period of the significators of l, 5 or 9. These
+significators are generally connected with the houses of service 2, 6 or 10.
+Moon
+In this horary map the wife asked the question about her husband. Thus
+consider the 7th cusp as the husband's Asc. and proceed. For convenience each
+house counted from the 7th cusp. Moon is owner of the 5th and occupant of
+
+## 9th. Moon is aspected by Saturn owner of 12th. Moon is in the star of Ketu
+
+and sub of Venus. Ketu conjoined with Saturn, owner of 12th, aspected by
+owner of 5th Moon. sub lord Venus is occupant of 9th and conjoined with owner
+of 5th Moon also aspected by 12th lord Saturn. So Moon is significator of 5, 9,
+
+## 12. Thus Moon clearly indicates that the query refers to husband's retirement
+
+from service or job.
+
+## PRASHNA JYOTISH
+
+121
+
+
+
+## Cusp 10th (Sagittarius 13°.19' :
+
+It is jointly ruled by Jupiter (Sign
+lord), Ketu (Star lord), Mercury
+(Sub lord). Jupiter is in the star
+and sub of Moon. Star and sub
+lord Moon is owner of 5th and
+occupant of 9th. So Moon is the
+significator of 5, 9.
+Ketu is in the star and sub of
+Rahu. Star and Sub lord Rahu
+occupant of 9th, so Ketu is
+significator of 9th.
+Mercury is in the star of Jupiter
+and sub of Rahu. Star lord
+Jupiter owner of 1st, and sub lord
+Rahu occupant of 9th, so Mercury
+is significator of l and 9th. Thus
+lOth cusp joint ruler significator
+of husband's l, 5, 9. Hence the querent's desire will be fulfilled.
+Ruling planets
+Day. Tuesday
+Asc.
+Aries
+
+## 08°.05'
+
+Day lord
+Mars
+Sign lord
+Star lord
+Mars
+Ketu
+Moon. Sagittarius 02°.41'
+Jupiter
+Ketu
+Rahu is in the sign of Sagittarius so Rahu represent Jupiter, Thus the ruling
+planets are Mars, Jupiter, Rahu and Ketu.
+Significators of 1, 5, 9 and 12
+Bllava
+ln the star of
+Occupant
+occupant (A)
+1
+Mar
+5
+9
+Ven
+Jup
+Moo
+Sun-Sat-Ket
+Rah
+12
+
+## (B)
+
+ln the star of
+owner( C)
+Mer
+Jup
+Owner(D)
+Jup
+Moo
+Mar
+Sat
+Thus the significators of 1, 5, 9, 12 are Mars, Jupiter, Venus, Sun, Saturn
+and Ketu. Rahu represent Jupiter and is conjoined with Venus also aspected
+by Saturn. Thus we gave first preference to Rahu instead of Jupite, Venus,
+Saturn. Ketu is conjoined with Saturn and aspected by Venus. Thus we gave
+first preference to Ketu instead of Venus, Saturn. Hence strong significators
+are Sun, Mar, Rahu and Ketu.
+Common planet among ruling planets and significators are Mar, Rahu and
+Ketu, so we need to check joint period of Mar, Rahu, Ketu. Mar connected
+with 2nd and Rahu, Ketu connected with lOth.
+122
+
+## PRASHNA JYOTISH
+
+
+
+Ma[R]06:27
+1114:19
+Joint Period
+At the time of judgment
+(Balance dasa of Ketu for 5Y
+
+## +--------*-----+£---------+ 7M
+
+
+## 3D)
+
+the
+q ueren t is
+v 12:19
+Vl13:19
+Vlll14:19
+Su 13:32
+Xl12:19
+Ju 10:32
+
+## X 13:19
+
+Ra 07:51
+Mo02:41
+Va00:04
+running the joint period of
+Ketu-Mar starts from 6-12-
+
+## 1974. Joint period of Ketu-
+
+Mar-Rahu runs between 14-
+12-1974 and 6-1-1975. So
+the querent's husband will
+retire from service during the
+joint period of Ketu-Mars-
+Rahu when transit agrees.
+Actually the querent's husband retired from service on 2-1-1975.
+Transit
+On date 2-1-1975 when Sun was trans1tmg in Sagittarius 18° in the sub of
+Mars (Bhukti lord) ; Moon is in Leo in the star of Ketu (Dasa lord). Ketu was
+transiting in Taurus 13".15' and Rahu transiting in Scorpio 13".15' in the sub
+of Rahu (Antra lord).
+
+## PRASHNA JYOTISH
+
+123
+
+
+Example 19. Leaving the Job
+Question: Whether I will be able to leave the present job, if so, when?
+Number: 135 (out of 249).
+Time of Judgment: 19-04-1972, Wednesday; 03-55 PM 1ST
+Place of Judgment: 23° N 02', 72° E 35'., Aynamsha 23°.22'
+Su 06:10
+Sa 11:22
+Vll15:13:20
+Vlll14:40
+Ve 21:22
+Vl18:40
+Ma 21:47
+Me11:30
+v 18:40
+
+## IV 16:40
+
+Ra 07:28
+Ju 14:54
+11114:40
+1114:40
+115:13:20
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Ma
+Ke
+Ra
+0
+Moon
+Me
+Ju
+Sa
+1
+Ve
+Ra
+Ve
+0
+7
+Ma
+Mars
+Ve
+Mo
+Ve
+2
+Ma
+Sa
+Ra
+0
+8
+Ve
+Mercury Ju
+Sa
+Mo
+3
+Ju
+Ve
+Ve
+0
+9
+Me
+Jupiter
+Ju
+Ve
+Ve
+0
+Venus
+Ve
+Mo
+Ve
+4
+Sa
+Mo
+Sa
+0
+10
+Mo
+Saturn
+Ve
+Mo
+Ma
+5
+Sa
+Ra
+Mo
+0
+11
+Su
+Rahu
+Sa
+Su
+Ke
+0
+Ketu
+Mo
+Sa
+Ke
+6
+Ju
+Me
+Ke
+0
+12
+Me
+Hints
+
+## IX 14:40
+
+Mo22:34
+Ke 07:28
+
+## X 18:40
+
+Xl18:40
+Xll18:40
+Stl
+Sbl
+Ve
+Ve
+Mo
+Ju
+Ra
+Ke
+Me
+Me
+Ve
+Ra
+Mo
+Me
+If the sub lord of the lOth or 6th cusp be the significator (in the star of the
+occupant or owner) of l, 5 or 9, the querent can leave service during the joint
+period of the significators of 1, 5 or 9. These significators are generally
+connected with the houses of service 2, 6 or 10.
+Moon
+The querent desires to leave service because he does not keep good health. In
+this horary map Moon occupies the 9th and owns the lOth. It is in the star of
+Jupiter owning 3, 6 and occupying 3. It is in the sub of Saturn owning 5. So
+it is the significator of 3 (change), 6 (service) and connected with 5 (absence of
+service), 9 (absence of occupation) and 10 (occupation). Thus Moon clearly
+indicates that the query refers to leaving of service or occupation. Further Moon
+is aspected by Jupiter, the owner of 6. So it indicates ill health (and service).
+Cusp lOth (Cancer 16° .40') : The sub lord of the lOth cusp is Mercury. It is
+direct in motion. It occupies 5. Its star lord Saturn is direct in motion,. it
+owns 5. Its sub lord Moon occupies 9. So Mercury is the significator of 5 and
+connected with 5 and 9. Hence it signifies leaving service.
+124
+
+## PRASHNA JYOTISH
+
+
+
+
+## Cusp 6th (Pisces 18° .40') :
+
+The sub lord of the 6th cusp is Ketu. It occupies 9. Its star lord Saturn is in
+direct motion, it owns 5. It is in its own sub. So Ketu is the significator of 5
+and connected with 9. Hence it denotes leaving service.
+
+## Cusp 11th (Leo 18° .40):
+
+The sub lord of the 11'h cusp is Rahu. Its star lord Sun owns 11 and occupies
+
+## 6. Its sub lord Ketu occupies 9. So Rahu is the significator of 6, 11 and
+
+connected with 9. Hence the querent's desire to leave service on account of ill
+health will be fulfilled.
+
+## Ruling Planets:
+
+Day.
+Wednesday
+Asc.
+Leo
+
+## 24°.40'
+
+Moon. Gemini 22°.34'
+* added by Kanak Bosmia
+Day lord
+Mercury
+Sign lord
+Sun
+Mercury
+Star lord Sub lord*
+Venus
+Mercury
+Jupiter
+Saturn
+None of them is in the star or sub of a retrograde planet. So the ruling planets
+are Sun, Mercury, Jupiter and Venus.
+Joint Period
+(l) At the time of judgment
+(Balance dasa of Jupiter for 12Y
+liM ID). The querent is running
+the joint period of Jupiter,
+Saturn and Venus.
+Jupiter is in the star and sub of
+Venus. Jupiter owns 6, it is in
+the star and sub of Venus
+owning l which is conjoined with
+Saturn owning 5. So it is the
+significator of l, 5 and connected
+with l, 5 and 6.
+Bhukti lord Saturn is in the star
+of Moon and sub of Mars. Star
+lord
+Moon
+owning
+10
+and
+occupies 9; it is in the sub of
+Mars owning 2 in conjoined with
+Saturn owning 5 and Venus
+owning l. So it is the significator
+of 9, 10 and connected with 1,
+2 and 5.
+Antra lord Venus is in the star of Moon and sub of own. Star Moon owns 10
+and occupies 9; it is in its own sub Venus owning 1 in conjoined with Mars
+owning 2 and Saturn owning 5. So it is the significator of 9, 10 and connected
+with 1, 2 and 5.
+2) Jupiter and Venus are among the ruling planets and Saturn being in
+conjoined with the ruling planet (Venus) is connected with the ruling planet
+
+## PRASHNA JYOTISH
+
+125
+
+
+Su 06:10
+Vll15:13:20
+Vl18:40
+Me 11:30
+Venus. (Kanak Bosmia: If Shri
+Bhatt consider sub lord in RP
+(7 RP) then he don't need to
+explain about Saturn's indirect
+t-------_..;:"t---------i!C--------~
+5 connection. This and previous
+Ke 07:28
+
+## X 16:40
+
+1v18,40
+examples give me clue to use
+Ra 07:28
+
+## 7 RP.)
+
+3) These joint period rulers
+are the significators of 1, 5
+t----------:~------ik---------·-44 and 9. They all are connected
+
+## X118:40
+
+with the house of service 2,
+Ju 14:54
+11114:40
+6, 10 and also with the ruling
+planets. So the querent will
+leave service during their joint
+1
+115:13:20
+1
+2
+3 period (5-4-1972 to 7 -9-1972)
+
+## J'.-----....,;.._ ___
+
+_.;..+=------~ before 7-9-1972.
+4) The querent is a teacher in the school. So he can leave service at the
+beginning of the term when the school reopens in the month of June 1972
+after summer vacation.
+5) The sookshma period of Rahu starts from 30-5-1972 and lasts up to 22-6-
+
+## 1972. Rahu is the cuspal sub lord of 11 and denotes the fulfillment of the
+
+querent's desire as previously discussed. So the querent will leave service before
+22-6-1972 during the joint period of Jupiter, Saturn, Venus and Rahu.
+Transit
+The querent left service on 15-6-1972. On that day Moon was transttmg in
+Cancer 20° in the sub of Venus (antranath); Venus in Gemini 04°.46' in its
+own sub Venus; and Jupiter is in Sagittarius 11°.20' in the sub Saturn
+(bhuktinath).
+126
+
+## PRASHNA JYOTISH
+
+
+
+Example 20. Desired Job
+Question: When shall 1 get a really good job?
+Number: 141 (out of 249).
+Time of Judgment: 24-07-1979, Tuesday; 02-17 PM IST
+Place of Judgment: 23° N 02', 72° E 35'., Aynamsha 23°.28'
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Sun
+Mo
+Sa
+Ke
+Moon
+Mo
+Sa
+Su
+1
+Ve
+Mars
+Ve
+Ma Ju
+2
+Ma
+Mercury[R]Mo
+Me
+Ke
+Jupiter
+Mo
+Me
+Mo
+3
+Ju
+Venus
+Me
+Ju
+Ve
+4
+Sa
+Saturn
+Su
+Ve
+Ma
+Rahu
+Su
+Ve
+Mo
+5
+Sa
+Ketu
+Sa
+Ra
+Ve
+6
+Ju
+Vll23:53:20
+Vl28:10
+Stl
+Ju
+Me
+Ve
+Vl28:10
+v 28:10
+Ke 16:56
+
+## IV26:10
+
+11124:10
+Sbl
+Me
+Mo
+Me
+Ma
+Ju
+Ju
+Ve
+Me
+Sa
+Vll23:53:20
+1123:10
+Vlll23:10
+Ma 26:21
+123:53:20
+()
+Cusp Sgn
+()
+()
+7
+Ma
+()
+8
+Ve
+()
+()
+9
+Me
+()
+10
+Mo
+()
+()
+11
+Su
+()
+12
+Me
+Hints
+
+## IX 24:10
+
+Ve 28:40
+Su 07:30
+Mo 10:40
+Me[R] 19:18
+Ju 22:14
+
+## X 26:10
+
+Ra 16:56
+Sa 18:05
+Xl28:10
+Xll28:10
+Stl
+Sbl
+Ve
+Sa
+Mo
+Su
+Ju
+Me
+Me
+Ju
+Su
+Mo
+Ma
+Sa
+lf the cuspal sub lord of the
+6th or 10th be the significator
+(in the star of the occupant or
+owner) of 2, 6 or 10 service
++-----------~--------~~----------+
+1v26:1o
+or earning is promised during
+Su 07:30
+Mo 10:40
+Me[R]19:18
+Ju 22:14
+
+## X 26:10
+
+the joint
+period
+of the
+significators of 2, 6 and 10.
+ln this case the q ueren t is
++-----"-----..,.t-------1.:---------+ already in service, but he
+Ra 16:58
+Sa 18:05
+
+## X128:10
+
+Xll28:10
+123:53:20
+1123:10
+11124:1o
+desires a better job according
+to his expectation. So consider
+the 11th cusp also. Hence if
+the cuspal sub lord of the ll'h
+be the significator (in the star
+of the occupant or owner) of 2, 6, 10 or 11 the querent gets a job of his
+expectation during the joint period of the significators of 2, 6 and 10.
+
+## PRASHNA JYOTISH
+
+127
+
+
+Moon
+In this horary map Moon owns
+10 (status, position). It is in
+conjunction with Sun owning 11
+(fulfillment of desire) and Jupiter
+owning 6 (service, job). Moon is
+in the star of Saturn and in the
+sub of Sun. Its star lord Saturn
+occupies 10 and its sub lord Sun
+owns 11. So Moon is significator
+of 10 and connected with 11, 6,
+
+## 10. Thus Moon clearly indicates
+
+that the query refers to a job of
+the querent's expectation.
+Cusp 111h (Leo 28°.10): The sub
+lord of the 11th cusp is Moon. It
+is the significator of I 0 and
+connected with 6, 10 and 11 as
+discussed above. Hence the
+querent will get a job of his expectation.
+Ruling Planets: at 4-15 PM 1ST, Due to disturbance after erecting the map.
+Day. Tuesday
+Asc.
+Scorpio
+
+## 23°.00'
+
+Moon. Cancer 11 °.40'
+Day lord
+Mars
+Sign lord
+Mars
+Moon
+Star lord
+Mercury[R]
+Saturn
+Rahu is in conjunction with Saturn and Ketu is in Aquarius. So Rahu and
+Ketu both represent Saturn. Mercury is in its own star and retrograde motion
+for which it may be rejected. Thus the ruling planets are Moon, Mars, Saturn,
+Rahu and Ketu.
+Significators of 2,6, and 10
+Bhava ln the star of
+Occupant (B) ln the star of
+Owner(D)
+occupant (A)
+owner( C)
+2
+Mar
+Mar
+6
+Ven
+Jup
+10
+Ket
+Rah
+Moo
+Sun-Moo
+Sat
+The common planets among the ruling planets and the significators are Moon,
+Mars, Saturn Rahu and Ketu. Saturn is in the sub of owner of 2"d, thus we
+have to consider Saturn too. Moon is also strong significator of job. Moon is
+in the sub of Saturn owner of 2"d, and also Moon is sub lord of 1 and II.
+(Kanak Bosmia: No planet in the stars of Moon rule is applicable here). Thus
+strong significators are Moon, Mars, Saturn and Ketu.
+128
+
+## PRASHNA JYOTISH
+
+
+
+Joint period
+At the time of judgment (Balance dasa of Saturn for of 8Y 6M 18D) the querent
+is running the joint period of Saturn and Sun. Bhukti of Moon will commence
+from 15-1-1980 and will continue up to 15-8-1981. Moon is the strong
+significator for the expected job; moreover it is also the cuspal sub lord both
+of 2 and 11. So bhukti of Moon is very favorable to the querent. Further the
+querent will run the joint period of the significators Saturn, Moon and Mars
+(owning 2) from 2-3-1980 to 5-4-1980. Mars is in its own star owning 2 and
+in the sub Jupiter owning 6. Hence if is likely that the querent may get a job
+of his expectation during this time.
+The querent informed me that on date 24-3-1980 he was called for an interview
+in Chicago (USA) and he was offered an excellent post of his expectation. Thus
+the event occurred during the joint period of the significators Saturn, Moon,
+Mars and Ketu (23-3-1980 to 25-3-1980).
+Transits
+On 24-3-1980 Sun is in Pisces 10° was transltmg in the star of Saturn, the
+dasa lord. Mars is in Leo 03°.30' was in the star of Ketu the sookshma lord.
+Ketu is in Aquarius 4° was in the star of Mars the Antra lord.
+
+## PRASHNA JYOTISH
+
+129
+
+
+Example 21. Desired Post
+Question. Will I get job of Research and Development Engineer?
+Number. 67 (out of 249).
+Time of Judgment. 26-03-1977, Saturday; 01-10 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35, Ayanamsha 23°.26'
+Ve[R]29:00
+Me 22:17
+Su 12:00
+
+## IX28:46
+
+Ma 11:25
+
+## VIII 00:46
+
+
+## VII 05:26:40
+
+
+## X 00:40
+
+Ke 02:00
+
+## XI 03:46
+
+Ju 04:56
+Mo 24:18
+Ra 02:00
+
+## XII 05:34
+
+
+## I 05:26:40
+
+Sa[R]16:45
+
+## II 00:46
+
+11128:46
+~----------------~~----------------~~v_l_o5_:34
+__ ~_v_o_3:_40 ____ ~1V~~-=4~6----~----~
+Planet
+Sgn Stl Sbl
+Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl
+Sbl
+Sun
+Ju
+Sa
+Mo
+Cusp
+0
+Moon
+Ve
+Ma
+Ra
+1
+Mo
+Sa
+Me
+0
+7
+Sa
+Su
+Me
+Mars
+Sa
+Ra
+Sa
+2
+Su
+Ke
+Ke
+0
+8
+Sa
+Ma
+Me
+Mercury Ju
+Me
+Mo
+0
+Jupiter
+Ve
+Su
+Sa
+3
+Su
+Su
+Ma
+0
+9
+Sa
+Ju
+Ve
+Venus[R] Ju
+Me
+Sa
+4
+Ve
+Ma
+Me
+0
+10
+Ma
+Ke
+Ke
+Saturn[R] Mo
+Me
+Me
+0
+Rahu
+Ve
+Ma
+Ke
+5
+Ma
+Sa
+Sa
+0
+11
+Ve
+Su
+Sa
+Ketu
+Ma
+Ke
+Ve
+6
+Ju
+Ke
+Ra
+0
+12
+Me
+Ma
+Mo
+Moon
+ln this horary map Moon is conJomt with Jupiter, owner of 6th, and Moon is
+occupant of 11 (fulfillment of desire), aspected by Mars, owner of 10th. So Moon
+is connected with 11, 10, 6. Thus Moon clearly indicates that the query refers
+to a job of the querent's expectation.
+Cusp 11th (Taurus 03°.46') : The sub lord of the 11th cusp is Saturn. It owns
+9 (research) and it is in the I st (self). It is retrograde and it is a slow moving
+planet. Hence the querent has to keep patience. lt is in the star and sub of
+Mercury in 9; Mercury is in conjunction with Venus, owner of 11. So Saturn
+is the significator of 9 and connected with 9 and 11. Hence the querent's
+desire to obtain the position as a Research & Development Engineer will be
+fulfilled after long wait with patience.
+Cusp 6th (Sagittarius 05° .34') : The sub lord of the 6th cusp is Rahu. Rahu is
+in the star of Mars and sub of Ketu. Star lord Mars owns 10 and is in the
+sub of Ketu in 10. Rahu is in Libra represents Venus owning 11 (success). So
+Rahu is the significator of 10 and connected with 9, 10 and 11. Hence the
+130
+
+## PRASHNA JYOTISH
+
+
+
+querent will succeed in getting the job as a Research & Development Engineer.
+Cusp 10th (Aries 00°.46') : The sub lord of the 10th cusp is Ketu. It is in its
+own star and sub of Venus.
+Ketu is
+in 10 and in the sub of Venus owning
+11 in 9. So Ketu is the significator of 10 and connected with 9 and 11. Hence
+the querent will succeed in getting the job as a Research & Development
+Engineer.
+Ruling Planets
+Day lord
+Sign lord
+Star lord
+Day.
+Saturday
+Saturrn
+Asc.
+Gemini 26°.00'
+Mercury
+Jupiter
+Moon. Taurus 24°.18'
+Venus
+Mars
+Rahu is in Libra, so it represents Venus. Ketu is in Aries, so it represents
+Mars. Hence Mars, Mercury, Jupiter, Venus, Saturn, Rahu and Ketu become
+the ruling planets.
+All these planets are the significators of 9 and connected with 6, 9, 10 or 11.
+Saturn and Venus are retrograde, but they turn direct from 11-4-1977 and
+27-4-1977 respectively. Hence they will give results after the above dates.
+Joint period
+At the time of judgment (Balance dasa of Mars for 6Y 5M 27D), the querent is
+running the joint period of Mars
+and Rahu.
+The dasanath Mars is among the
+ruling planets and it is the
+significator of 11 and connected
+with 9 and 10. The cuspal sub
+lord of 11th Saturn is also the
+ruling planet and it is the
+significator of 9 and connected
+with 9 and 11.
+lt is my experience that If the
+period ruler be the significator of
+an expected event and
+11th
+cuspal sub lord also,
+the event
+occurs during the joint period of
+the period ruler and the cuspal
+sub lord of 11 (if it be the
+desired significator). The joint
+period of Mars and Saturn
+continues from 14-2-1979 to 23-
+3-1980. So the querent's desire
+is likely to be fulfilled during this time period.
+The querent desires the position as a Research & Development Engineer. The
+9th house is connected with the research work. Mercury, Jupiter, Venus and
+Saturn are the significators of the 9th. They are among the ruling planets.
+In the dasa period of Mars during the sub period of Saturn, the inter period
+
+## PRASHNA JYOTISH
+
+131
+
+
+
+## I 05:26:40
+
+Sa[R]16:45
+1100:46
+11128:46
+
+## XI 03:46
+
+Ju04:56
+Mo24:18
+Ko 02:00
+
+## X 00:46
+
+Ve[R]29:00
+Me 22:17
+Su 12:00
+of
+Mercury
+follows
+immediately after Saturn. It
+starts from 17-4-1979 and
+lasts up to 13-6-1979. Hence
+Vll 05,26,40
+the querent will get the
+
+## VI 05:34
+
+desired position within this
+period.
+The querent informed me
+that he joined his duties on
+1-5-79.
+Thus
+the
+event
+happened during the joint
+period of Mars, Saturn,
+Mercury and Venus. It may
+Ra02:00
+be noted that Mercury,
+
+## IV00:46
+
+
+## V03:46
+
+antranath, is the sub lord of
+the Asc. (querent). In short, dasanath Mars owns 10 (position), bhuktinath
+Saturn owns 9 (research), antranath Mercury owns 12 (change of environments)
+and sookshmanath Venus owns 11 (success).
+Transits
+On 1-5-1979 Sun is in Aries 16°.30' was trans1tmg in the star of Venus,
+Sookshma dasanath. Mars is in Pisces 25° was transiting in the star of Mercury,
+an tar dasanath. Saturn is in Leo 13°.40' was in the star of Venus. Mercury is
+in Pisces 21° was in its own star. Venus is in Pisces 16° was in the star of
+Saturn, bhukti dasanath.
+132
+
+## PRASHNA JYOTISH
+
+
+
+Example 22. Green Card
+Question. Whether I shall be successful in my attempts to obtain the Green
+card during my stay in U.S.A.?
+Number. 30 (out of 249).
+Time of Judgment. 06-02-1976, Friday; 12-15 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35'., Aynamsha 23°.25'
+
+## XII 04:28
+
+111:06:40
+
+## II 06:28
+
+Ke 23:55
+Ma22:54
+Mo 29:57
+Ju 26:35
+Ill 01:28
+Sa[R] 04:44
+
+## IV27:28
+
+
+## X128:28
+
+
+## V28:28
+
+
+## X 27:28
+
+Su 23:12
+
+## IX01:28
+
+Ma 00:16
+Ve 20:12
+Ra 23:55
+
+## VIII 06:28
+
+Vll11:06:40
+
+## VI 04:28
+
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl
+Sbl
+Sun
+Sa
+Mo
+Su
+0
+Moon
+Ju
+Me
+Sa
+1
+Ve
+Mo
+Ma
+0
+7
+Ma
+Sa
+Mo
+Mars
+Ve
+Mo
+Su
+2
+Me
+Ma
+Mo
+0
+8
+Ju
+Ke
+Ra
+Mercury Sa
+Su
+Ra
+3
+Mo
+0
+Jupiter
+Ju
+Me
+Ju
+Ju
+Ra
+0
+9
+Sa
+Su
+Ju
+Venus
+Ju
+Ve
+Ju
+4
+Mo
+Me
+Ju
+0
+10
+Sa
+Ma
+Ju
+Saturn[R] Mo
+Sa
+Sa
+5
+Su
+Su
+Ma
+0
+11
+Sa
+Ju
+Ve
+Rahu
+Ve
+Ju
+Me
+0
+Ketu
+Ma
+Ve
+Sa
+6
+Ve
+Ma
+Ve
+0
+12
+Ma
+Ke
+Mo
+
+## ~---------I-11-:0-6-:40--+--x-n-o4-:2_8 ____ ~-M-o-29-:
+
+5
+_7 ________ ~rf~oon
+Ma22:54
+Ke23:55
+Ju28:35
+In this horary map Moon
+occupies
+11
+(success
+or
+fulfillment of desire), it is in
++-------------_;:,'1-----------+,;:_-------------+ conjunction with the benefic
+Ill 01:28
+Sa[RJ 04:44
+
+## IV 27:26
+
+
+## V28:28
+
+
+## X27:28
+
+Su 23:12
+
+## IX 01:28
+
+Me00:16
+Va 20:12
+
+## VIII 08:28
+
+Jupiter. It is in the sub
+Saturn owning 11. Thus Moon
+refers to the query regarding
+success or fulfilment of desire.
+
+## As c. (Taurus 11° .06' .40") :
+
+The sub lord of the Asc
+(efforts of the querent) is
+Ra23:55
+Mars. It owns 12 and occupies
+
+## VI 04 28
+
+Vll11:08:40
+
+## =-------------...L..--....;.;..;..;.;;;' .;..... __ ...L. ______________
+
+..::..~ the 1st. It is in the star of
+Moon in 11 and in the sub of Sun in 9. None of them is retrograde. Thus the
+Asc. sub lord is the significator of 11 (success) and connected with 9, 12 (foreign
+
+## PRASHNA JYOTISH
+
+133
+
+
+land) and I (efforts). Hence the querent will be successful in his attempts to
+stay in in the foreign land.
+11th cusp (Aquarius 28°.28): The sub lord of the ll'h is Venus. It is in the
+star of Venus owning I, 6 and occupying 8 and it is in the sub of Jupiter
+owning 8 and occupying 11. None of them is retrograde. Thus the cuspal sub
+lord of 11 is the significator of 1, 6 (success), 8 (disappointment) and connected
+with 8 and 11. Hence the querent's desire will ultimately be fulfilled however
+after feeling some disappointment.
+
+## Ruling Planets:
+
+Day lord
+Sign lord
+Star lord
+Day.
+Friday
+Venus
+Asc. Aries 2 5°. 02'
+Mars
+Venus
+Moon. Pisces 29°.57'
+Jupiter
+Mercury
+Rahu is in Libra, so it represents Venus. Ketu is in Aries, so it represents
+Mars. Hence Mars, Mercury, Jupiter, Venus, Rahu and Ketu become the ruling
+planets.
+Mars and Rahu are the significators of 11; while Venus and Ketu are tbe
+significators of 1 and 6.
+Joint period
+At the time of judgment (Balance dasa of Mercury for OY OM 23D) the querent
+is running the joint period of Mercury and Saturn. The dasa of Ketu commences
+likely to be fulfilled.
+from 29-2-1976. It is among the
+ruling planets and it is the
+significator of I and 6.
+In the dasa of Ketu the querent
+will have to run the bh ukti
+periods of Venus, Mars and
+Rahu. All of them are the ruling
+planets and also the significators
+of 1, 6 and 11. But the querent
+has to feel some disappointment
+in the first instance and as Rahu
+is significator of 11'h and sub
+lord of 3rd (Correspondence), thus
+during Ketu dasa and Rahu
+bhukti considered. In the bhukti
+of Rahu first antra come is
+Venus, sub lord of 11. The Joint
+period of Ketu-Rahu-Venus start
+from
+1-10-1979 to 4-12-1979
+when the querent's desire is
+I was informed by the querent that he was called for an interview on 25-10-
+1979 and the green card was granted.
+134
+
+## PRASHNA JYOTISH
+
+
+
+Transits
+On 25-10-1979 2-30 PM central day light saving time U.S.A (DST). Sun is in
+Libra 08°.20' was in the star of Rahu, the bhuktinath. Moon is in Sagittarius
+04° was in the star of Ketu the dasanath. Ketu is in Aquarius 11 °.59' was in
+the star of Rahu. Rahu is in Leo 11°.59' was in the star of Ketu. Venus is in
+Libra 24° .30' was in its own sign.
+
+## PRASHNA JYOTISH
+
+135
+
+
+Example 23. Green Card
+Question: I have been in USA since last 6-7 years, when shall I get Green
+card?
+Number: 153 (out of 249).
+Time of Judgment: 19-03-1980, Wednesday; 01-05 PM IST
+Place of Judgment: 23° N 02', 72° E 35'., Ayanamsha: 23°.29'
+Mo 10:26
+
+## VII10:2D
+
+
+## VI 15:42
+
+Ve20:22
+v 17:42
+Su 05:31
+
+## IV 15:42
+
+Me(R(13:56
+Ko04:17
+11111:42
+1110:31
+110:20
+Xll15:42
+Planet
+Sgn Stl
+Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Ju
+Sa
+Me
+0
+Moon
+Ma
+Ke
+Sa
+1
+Ma
+Sa
+Su
+0
+7
+Ve
+Mars
+Su
+Ke
+Mo
+2
+Ju
+Ke
+Sa
+0
+8
+Me
+Mercury[R]Sa
+Ra
+Me
+3
+Sa
+Mo
+Ma
+0
+9
+Mo
+Jupiter!RJ Su
+Ke
+Ju
+0
+Venus
+Ma
+Ve
+Ju
+4
+Sa
+Ra
+Ve
+0
+10
+Su
+Saturn[R) Su
+Su
+Ra
+5
+Ju
+Me
+Me
+0
+11
+Me
+Rahu
+Su
+Ke
+Mo
+0
+Ketu
+Sa
+Ma Ve
+6
+Ma
+Ve
+Su
+0
+12
+Ve
+Nloon
+Vlll10:31
+
+## IX 11:42
+
+Ra 04:17
+Ma 04:32
+Ju(R] 08:56
+
+## X 15:42
+
+Sa(R] 29:47
+
+## XI 17:42
+
+Stl
+Sbl
+Mo
+Mo
+Ra
+Sa
+Sa
+Mo
+Ve
+Su
+Mo
+Sa
+Ra
+Ve
+Querent is already in USA and now wants to stay permanently, it is his desire
+(11). To settle in abroad means to consider abroad as home (4). In this horary
+map Moon is owner of 9 (abroad), in conjunction with the Venus, owner of
+12th (stay in abroad). Thus Moon refers to the query regarding success or
+fulfillment of desire of getting Green card.
+Moon is in the star of Ketu and sub of Saturn. Star lord Ketu is conjoint with
+Mercury, owner of 11th (fulfillment of desire). Sub lord Saturn is owner of 4th
+and occupant of 10th and aspects on 4th cusp, conjoint with Asc lord (querent)
+Mars. So Moon indicates querent's desire to settle in abroad and for that he
+needs permission from the USA government (Green card).
+Asc. (Scorpio 10° .20') : The sub lord of the Asc (efforts of the querent) is
+Sun. Sun is in the star of Saturn and sub of Mercury. Asc. Indicates querent's
+desire and his effort. Sun, owner of 10th (business/job) in 4th (present residence)
+cusp. Its star lord Saturn is owner of 4th and in 10th.
+Sub lord Mercury is
+near to 4th cusp, and owner of 11'h (fulfillment of desire). So Asc sub lord Sun
+136
+
+## PRASHNA JYOTISH
+
+
+
+signifies 4th and
+lOth and is
+connected with 4th and
+11 <h.
+Thus querent's stay at present
+place and his attempt to get
+green card will be successful.
+Especially now,
+Asc sub lord's
+star lord and sub lord are in
+retrograde motion, so querent
+can get success after long time
+and more effort.
+11th cusp (Virgo 17°.42'): The
+sub lord of the 11th cusp is
+Saturn. Saturn is in the star of
+Sun and sub of Rahu. Sub lord
+Saturn is slow moving planet
+also in retrograde motion. So
+fulfillment of desire will be
+delayed for long time. Saturn is
+in 10th and owner of 4th. Star
+lord Sun owning 10 and occupying 4. Sub lord Rahu occupies 9. Thus the
+cuspal sub lord of ll'h is the significator of 4, 10 and connected with 9. Hence
+the querent's desire will be fulfilled.
+
+## Ruling Planets:
+
+Day lord
+Sign lord
+Star lord
+Da)'. Wednesday
+Mercury
+Asc.
+Gemini 19°.00'
+Mercury
+Rahu
+Moon. Aries
+
+## 10°.26'
+
+Mars
+Ketu
+Rahu is conJomt with Mars, so it represents
+Mercury, so it represents Mercury. Also Rahu is
+Mars. Ketu is conjoint with
+aspected by Mercury and Ketu
+aspected by Mars, so both
+Rahu and Ketu represent
+Mars and Mercury. Hence
+Mars, Mercury, Rah u and
+Mo 10:26
+Vl15:42
+Ve 20:22
+v 17:42
+Su 05:31
+t-------....,.1-------l'::;_-------1- Ketu
+become
+the
+ruling
+11111:42
+planets. Rahu and Ketu are
+very strong ruling planets.
+Joint period
+1-:--------?'1------k--------1- At the time of judgment
+1110'31
+(Balance dasa of Ketu for 1 Y
+
+## 6M
+
+
+## 8D),
+
+the
+querent is
+running the joint period of
+x1115,42
+110,20
+Ketu and Saturn.
+""'--------+-...;.;;;.....;_;~-l-------~1n this horary map sub lord
+ofKetu is Venus, owner of 12th. Sub lord of Mercury is Mercury self and owner
+
+## PRASHNA JYOTISH
+
+137
+
+
+of 1l'h. Both are in ruling planets and connected with 4, 11. During this Ketu-
+Mercury joint period running from 30-9-1980 to 27-9-1981, querent will get
+his Green card.
+Both ruling planets Mars and Rahu are in the sub of Moon, which is conjoint
+with 12th lord Venus. So we assume during antra period of both planets querent
+will have a chance to get Green card. Rahu represents Mars. Rahu is in the
+star of Ketu. Star lord Ketu is conjoint with owner of 11th Mercury and aspected
+by Saturn owner of 4th. So Rahu is connected with 4, ll. We have to give first
+preference to Rahu. Thus during joint period of Ketu-Mercuzy-Rahu (18-4-1981
+to 12-6-1981), the procedure will start regarding querent's desire to get the
+Green card.
+Dasanath Ketu is in the star of Mars and sub of Venus. Star lord Mars is
+conjoined with owner of 4'h Saturn and aspected by owner of 11th Mercury.
+Thus dasanath Ketu is connected with 4,11.
+Bhukti lord Mercury is in the star of Rahu and sub of own. Star lord Rahu is
+conjoint with owner of 4th Saturn and aspected by owner of 11th Mercury. Thus
+Bhukti nath Mercury is connected with 4 and 11.
+Antra lord Rahu is in the star of Ketu and sub of Moon. Star lord Ketu is
+conjoint with owner of 11th Mercury and aspected by Saturn owner of 4th. Thus
+Rahu is connected with 4, 11.
+So dasa lords of joint period are connected with 4th (permanent stay), 11th
+(fulfillment of desire), and 12th (stay in aborad). Thus on 29-4-1981 querent's
+Green card application was sanctioned.
+Transits
+On 29-04-1981 Sun in Aries 15° .05' was trans1tmg in the star of Venus
+(significtor of 12th). Moon in Aquarius from 06°.40' to 10° was transiting in the
+star of Rahu, antra period ruler. Ketu in Capricorn 12° .45' was in the sub of
+Rahu. Mercury in Aries 16°.38' was in the star of Venus. Rahu in Cancer
+
+## 12° .45' was in the star of significator of 4 and 11 Saturn.
+
+138
+
+## PRASHNA JYOTISH
+
+
+
+Example 24. Reinstatement
+Question. Will my husband be reinstated in his current job?
+Number. 125 (out of 249).
+Time of Judgment. 05-10-1975, Sunday;
+
+## 04-24 PM 1ST
+
+Place of Judgment. 19° N 00', 83° E 45', Ayanamsha 23°.24'
+Planet
+Sgn Stl Sbl
+Cusp
+Sun
+Me
+Mo
+Me
+Moon
+Me
+Mo
+Ve
+1
+Mars
+Me
+Ma
+Ve
+2
+Mercury[R)Me
+Ma Ju
+Jupiter[R) Ju
+Me
+Ju
+3
+Venus
+Su
+Ke
+Ra
+4
+Saturn
+Mo
+Sa
+Ve
+Rahu
+Ma
+Ju
+Mo
+5
+Ketu
+Ve
+Su
+Ra
+6
+Hints
+Sgn
+Stl
+Ma
+Ke
+Ma
+Su
+Ve
+Ma
+Me
+Ju
+Su
+Ke
+Me
+Su
+Ju[R]27:21
+
+## XII 01:36
+
+)(29:36
+Sbl
+Ke
+Ra
+Sa
+Mo
+Ke
+Ju
+
+## I 00:00
+
+1129:36
+
+## IX 29:36
+
+Ra 00:30
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Ke 00:30
+11129:38
+Vlll29:36
+
+## VII 00:00
+
+Cusp Sgn
+7
+Ve
+8
+Ve
+9
+Ma
+10
+Ju
+11
+Sa
+12
+Ju
+Ma02:57
+
+## IV 29:36
+
+Sa 08:07
+
+## V00:36
+
+Ve 07:16
+
+## VI 01:36
+
+Su 18:10
+Mo 22:37
+Me[R]26:40
+Stl Sbl
+Ma
+Me
+Ju
+Su
+Me
+Sa
+Su
+Ra
+Ma
+Me
+Ju
+Ra
+l. For job or income we have to check 2, 6, 10 bhavas. 1, 5, 9 are 12th from
+2, 6, 10, which indicate loss or change in job. Bhava 8 indicates suspension/
+some kind of punishment. Bhava 12 indicates losses. So for suspension in job
+we have to check bhava 1, 8, 9 and 12. For removal or dismissal we have to
+check 1, 5, 9.
+
+## 2. If the cuspal sub lord of the 2, 6, 10 be the significator of l, 5, 8, 9 and
+
+12, then suspension and removal or dismissal in service/job is indicated during
+the joint period of the significators of 1, 5, 9, 8 and 12.
+If cuspal sub lord indicates suspension, removal or dismissal from service/job
+and running joint period lords signify 2, 6, 10, even then there is no chance
+to reinstatement in job/ service.
+Moon
+In this horary map the wife asked the question about her husband, so consider
+7th cusp as husband's Asc. So consider the 7th cusp as the husband's Asc.
+and proceed. For convenience each house counted from the 7th cusp. Moon is
+in the star of own and sub of Venus. Star lord Moon is occupant of husband's
+
+## PRASHNA JYOTISH
+
+139
+
+
+6th bhava. Sub lord Venus is
+owner of 8th and occupant of 5 th.
+So Moon singifies 6 (job), 5 (loss
+of job) and connected with 8
+(suspension).
+Thus
+Moon
+indicates clearly that at the time
+of question, query is related to
+job and her husband had no job
+at that time.
+
+## Husband's 6th (Virgo OP .36):
+
+The sub lord of the 6th cusp is
+Jupiter. Jupiter is in the star of
+Mercury and sub of own. Jupiter
+is owner of 12th. Its star lord
+Mercury is owner of 6th. So Asc
+sub lord Jupiter signifies 6th and
+connected with 12 th. The cusp
+sub lord, its star lord and sub
+lord
+all
+three
+planets
+are
+)oo:::--------+===:===::~---:--:=:-::-:-:-:-----:rl retrograde. The cusp a! sub lord
+signifies job, but its sub lord
+indicate loss. Hence the querent
+will not be reinstated in the
+job.
++-----------~--------~------------+
+Sa 08:07
+v 00:36
+Ve 07:t6
+Vlll29:36
+
+## VII 00:00
+
+
+## IX29:36
+
+Ra 00:30
+(loss) and is connected with 6th and 8th
+will not be reinstated in the job.
+
+## Husband's 10th (Sagittarius 29° .36):
+
+
+## Husband's 2nd (Aries 29° .36):
+
+The sub lord of the 2nd cusps
+is Rahu. Rahu is in the star of
+Jupiter and sub of Moon. Rahu
+x29,36
+is occupant of 8th; star lord
+Jupiter is
+retrograde and
+occupant of husband's 12th ;
+sub lord Moon is occupant of
+husband's 6th. So 2nd cuspal
+sub lord Rahu signifies 12
+(punishment/suspension). Thus querent
+The sab lord of the IQth cusp is Rahu. Hence the position will be the same as
+above.
+Husband's 11th cusp (Aquarius 00°.36'): The sub lord of the lith is Mercury.
+Mercury is in the star of Mars and sub of Jupiter. Star lord Mars is owner of
+Asc and 9th. Sub lord Jupiter is occupying 12 and owner of 12th.
+Thus the
+cuspal sub lord of 11 is the significator of !(no Income), 9th (loss of job) and
+connected with 12 (loss). Hence the querent will not be reinstated in the job.
+Wife's 11th cusp (Leo 00°.36'): The sub lord of the 11th is Ketu. Ketu is in
+140
+
+## PRASHNA JYOTISH
+
+
+
+the star of Sun and sub of Rahu. Ketu is occupant of wife's 8th. Star lord Sun
+is occupant of 12th. Sub lord Rahu is in sign Scorpio, so Rahu represents
+Mars. Mars is owner of wife's 8th , so we can consider Rahu is the significator
+of 8th.
+Thus the wife's cuspal sub lord of 11 is the significator of 12 (loss/
+tension) and connected with 8th (punishment/suspension). Hence the querent's
+husband will not be reinstated in the job.
+Joint period
+In this horary map the sub lords of 2, 6, 10 and 11 indicate no reinstatement
+in job, so there is no need to check joint period of dasa lords. But for our
+satisfaction and more confirmation, we will check joint period lords.
+At the time of judgment (Balance dasa of Moon for OY 6M 130), the jont period
+of Moon-Venus-Ketu is running. Dasanath Moon's sub lord Venus is owner of
+8th and occupant in 5th. Bhukti nath Venus's sub lord Rahu is occupant of
+8th, also Rahu represents Mars. Mars is owner of 9th and Asc.
+Antra nath
+Ketu is in the star of Sun, owner of 5th. And sub of Rahu, occupant of 8th .
+Thus joint dasa period lords also indicate that querent's husband will not have
+reinstatement in the job.
+As per last news from querent, her husband was suspended from his job on
+10-10-1975.
+
+## PRASHNA JYOTISH
+
+141
+
+
+Example 25. Reinstatement
+Question. I was suspended from my job in July 1978; will I be reinstated in
+my current job?
+Number. 58 (out of 249).
+Time of Judgment. 25-08-1978, Friday; 01-30 PM IST
+Place of Judgment. 13° N 04', 80° E 17', Ayanamsha 23°.27'
+Xl23:58
+Mo 06:15
+123:53:20
+Xll24:58
+
+## X20:58
+
+Ke 04:34
+Ju 04:22
+1119:58
+Mo[R]27:37
+
+## IX 18:58
+
+Su 08:19
+So10:14
+11118:58
+Vlll19:58
+Ro 04:34
+Ma19:48
+
+## IV 20:58
+
+Vo24:21
+Vll23:53:20
+Vl24:58
+
+## V23:58
+
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl Sbl
+Sun
+Su
+Ke
+Ju
+0
+Moon
+Ve
+Su
+Me
+1
+Me
+Ju
+Me
+0
+7
+Ju
+Ve
+Sa
+Mars
+Me
+Mo
+Ke
+2
+Mo
+Me
+Ve
+0
+8
+Sa
+Mo
+Ke
+Mercury[R]Mo
+Me Ju
+3
+Su
+Ve
+Ra
+0
+9
+Sa
+Ra
+Mo
+Jupiter
+Mo
+Sa
+Sa
+0
+Venus
+Me
+Ma Ra
+4
+Me
+Mo
+Ve
+0
+10
+Ju
+Me
+Ve
+Saturn
+Su
+Ke
+Sa
+5
+Ve
+Ju
+Me
+0
+11
+Ma
+Ve
+Sa
+Rahu
+Me
+Su
+Sa
+0
+Ketu
+Ju
+Sa
+Sa
+6
+Ma
+Me
+Ra
+0
+12
+Ve
+Ma
+Ra
+Moon
+ln this horary map Moon is occupant of 11 (fulfillment of desire), aspected by
+Saturn, owner of 8th (suspension) and 9 (job loss). Moon is in the star of Sun
+and sub of Mercury. lts star lord Sun is occupant of 2nd (income), conjoined
+with Saturn, owner of 8th (suspension) and 9 (job loss). Sub lord Mercury is
+owner of Asc. (loss of income), occupant of 2nd (income), conjoined with owner
+of 10th (status) Jupiter. Thus Moon refers to the query regarding success or
+fulfillment of desire of reinstatement in current job.
+10th Cusp (Pisces 20°.58') : The sub lord of the 10th cusp is Venus. Venus is
+in the star of Mars and sub of Rahu. lts star lord Mars is owner of 6th and
+11 lh. Sub lord Rahu is conjoined with Mars, so Rahu represents Mars. Also
+Venus conjoined with Mars. So 10th cuspal sub lord Venus signifies 6th (job)
+and 11 (fulfillment of desire). and connected with 6th and 11th . Thus querent's
+query regarding success or fulfillment of desire of reinstatement in current job
+is promised.
+142
+
+## PRASHNA JYOTISH
+
+
+
+
+## 111h cusp (Arise 23° .58':
+
+The sub lord of the 11th cusp is Saturn. Saturn is in the star of Ketu and sub
+of own. lts star lord Ketu is in Pisces, so Ketu represents owner of lOth Jupiter.
+Ketu is aspected by Mars, owner of 6th and 11th. Sub lord Saturn is occupant
+of 2"d. So 11th cuspal sub lord Saturn signifies 6, 10, 11 and is connected
+with 2"d. Thus querent's query regarding success or fulfillment of desire of
+reinstatement in current job is promised.
+Ruling Planets
+
+## At the time of judgment the ruling planets are as under:
+
+Day.
+Friday
+Asc.
+Scorpio 25° .25'
+Moon. Taurus 06°.15'
+Day lord
+Sign lord
+Star lord
+Venus
+Mars
+Venus
+Mercury
+Sun
+Rahu is in the sign of Virgo, also Rahu is conjoined with Mars and Venus, so
+it represents Mercury, Mars and Venus. Ketu is aspected by Mars and Venus,
+so it represents Mars and Venus.
+In the RPs Mercury is in own star and retrograde, so eliminate it. Consider
+Rahu and Ketu for Mars and Venus. Hence Sun, Rahu and Ketu become the
+ruling planets.
+Significators of 2, 6, and
+Bhava
+ln the star of
+2
+6
+10
+Thus
+and
+123:53:20
+occupant (A)
+Mer
+Moo-Rah
+Ketu-Jup
+the strong significtors
+Venus.
+Mo 08:15
+Xll24:58
+Xl23:58
+10
+Occupant (B)
+Mer
+Sun
+Sat
+of 2, 6,
+
+## X20:58
+
+Ko 04:34
+10,
+ln the star of
+Owner(D)
+owner( C)
+Mar
+Moo
+Ven
+Mar
+Jup
+11 are Mercury, Moon, Rahu, Ketu
+Joint period
+At the time of judgment
+(Balance dasa of Sun for 1 Y
+
+## SM
+
+
+## 7D),
+
+the
+querent is
++-------------~~----------~--------------+running the joint period of
+Ju 04:22
+1113:58
+Mo[R]27:37
+Vlll19:58 Sun-Mercury-Rahu.
+Dasanath Sun is in the ruling
+planets. Sun is in the star of
++--------------::>1---------1<=----------+ Ketu and sub of Jupiter. Ket
+represents owner of
+lOth
+Su 08:18
+So 10:14
+11118:58
+
+## PRASHNA JYOTISH
+
+v 23:58
+Vll23:53:20
+Vl24:58
+Jupiter and owner of 6th and
+11th Mars. Thus Ketu signifies
+6, 10, 11 and it is in the sub
+143
+
+
+Transit
+of owner of 10th Jupiter.
+As discussed above, we eliminate
+Mercury, next bhukti will be
+Ketu. Joint period of Sun-Ketu
+runs from 26-12-1978 to 2-5-
+
+## 1979. Ketu is in the significators
+
+and also in the ruling planets.
+Hence querent will be reinstated
+in current job during this joint
+period.
+When Rahu, Ketu
+come in
+significators, we have to give first
+preference to Nodes, so during
+joint period of Sun-Ketu-Rahu
+from 18-02-1979 to 07-03-1979,
+querent will be reinstated in
+current job. Actually querent got
+the reinstatement order on 28-2-
+
+## 1979.
+
+On 22-02-1979 Sun in Aquarius 15° was transttmg in the star of Rahu (Antra
+lord). Moon in Pisces 06°.30' was in the star of Saturn, one of significators.
+Ketu in Aquarius 24°.40' was in the sub of significator Mercury. Rahu in Leo
+
+## 24°.40' was in the sign of dasanath Sun.
+
+144
+
+## PRASHNA JYOTISH
+
+
+
+Example 26. Professional Examination
+Question. I am going to USA to settle there; in this regard 1 have to appear
+in the E.C.F.M.G. (Educational Council for Foreign Medical Graduates) on 7th
+January 1981. Will I be successful in E.C.F.M.G examination?
+Number: 5 (out of 249)
+Time of Judgment: 16-04-1980, Wednesday; 05-30 PM 1ST
+Place of Judgment: 23° N 02 I' 72° E 35'' Ayanamsha: 23° .29'
+Su 03:10
+
+## II 05:28
+
+
+## I 04:46:40
+
+Ve 18:28
+Mo 22:01
+Me 09:11
+Xll25:28
+
+## K&02:46
+
+
+## XI23:2B
+
+
+## X 26:28
+
+
+## IX 02:28
+
+
+## VIII 05:28
+
+
+## VII04:46:40
+
+Planet
+Bgn Btl
+Bbl
+Cusp Bgn
+Btl
+Bbl
+0
+Cusp Bgn
+Sun
+Ma
+Ke
+Su
+(}
+Moon
+Ma
+Ve
+Sa
+1
+Ma
+Ke
+Ma
+(}
+7
+Ve
+Mars
+Su
+Ke
+Su
+2
+Ve
+Su
+Me
+(}
+8
+Ma
+Mercury Ju
+Sa
+Ve
+3
+Me
+Ma
+Ke
+0
+9
+Ju
+Jupiter!RJ Su
+Ke
+Ra
+0
+Venus
+Ve
+Mo
+Me
+4
+Me
+Ju
+Ke
+0
+10
+Ju
+SaturniRJ Su
+Su
+Mo
+5
+Mo
+Me
+Ma
+0
+11
+Sa
+Rahu
+Su
+Ke
+Ve
+0
+Ketu
+Sa
+Ma Ve
+6
+Su
+Ve
+Me
+(}
+12
+Sa
+Moon
+Ill 02:28
+
+## IV 28:28
+
+v 23:28
+Ra 02:46
+Ma 03:00
+Ju[R] 08:54
+
+## V125:28
+
+Sa[RJ 27:47
+Btl
+Bbl
+Ma
+Ve
+Sa
+Me
+Ke
+Ve
+Ve
+Ke
+Ma
+Ma
+Ju
+Me
+Question is not for any degree, so we have to decide what querent wants from
+Moon. In this horary map Moon occupies the 1st (self-effort) house. Moon is
+conjoined with Sun, karaka of business and owner of 6th. Moon is aspected by
+owner of 9th (foreign) and lOth (profession) Jupiter.
+Moon is in the star of Venus and sub of Saturn. Star lord Venus is owner of
+2nd (earning), 7th (business) and occupant of 2nd. Sub lord Saturn is owner of
+11 <h (gain and fulfillment of desire), 12th (settlement in abroad) and occupant
+of 6th (competitive exam, 12th from 7th loss of opponent and gain of self). So
+Moon is the significator of house 2 (self-earning) and 11 (gain and fulfillment
+of desire) and connected with 11, 12, 6. Thus Moon clearly shows that the
+query wants success in the E.C.F M.G. examination to settle abroad for business.
+Cuspal Sub Lord
+Asc. Cusp. (Aries 04°.46'.40"): The sub lord ofthe Asc. and 11th cusp indicates
+what is the intention of querent and fulfillment of his desire.
+
+## PRASHNA JYOTISH
+
+145
+
+
+Su 03:10
+
+## I 04:48:40
+
+Mo 22:01
+Me 09:11
+Asc cusp sub lord is Mars. Mars
+is in the star of Ketu and sub of
+Sun. Star lord Ketu occupies 11'h
+and sub lord Sun is in 12th and
+almost on the cusp of 1st. So it is
+the significator of the 11 (gain and
+fulfillment of desire) and connected
+with l and 12. Hence success in
+the E.C.F.M.G. examination to
+settle abroad for business is
+promised.
+Also owner of 9th and 10th Jupiter
+aspects on Ketu and Sun, and is
+conjoint with Mars. 11 <h cusp sub
+lord Mars aspects on owner of 4th
+Mercury. Hence Asc. cuspa1 sub
+lords is connected with 4, 9, 10
+too.
+11th
+Cusp.
+(Capricorn
+
+## 23° .28):
+
+Ill 02:28
+
+## IV 26:28
+
+The sub lord of the ll'h cusp
+t----------'"t------1'---------t is Mars. Hence the position
+will be the same as above.
+v 23:28
+Xl23:28
+Joint Period
+ln
+this
+horary map
+the
+
+## +=R.-0=
+
+2-:,4:-
+6 -------::;r------"""--------1 question is not about a degree
+Ma03:oo
+~
+2
+0~~2
+8
+8 examination but competitive
+~~~~~::=
+54
+examination. Thus we have to
+Sa[RJ 27:47
+consider the significators of 4,
+vn 04,46,40
+vm 05,28
+6, 9 and 11. So joint period
+JL.--------1"------+----;.....--~ rulers of 4, 6, 9, 11 will give
+results. lf at the time of examination querent runs joint period of 4, 6, 9, 11,
+only then he will have success in the examination.
+ln this horary map, at the time of judgment (Balance dasa of Venus for 6Y
+11M 21D), joint period of Venus-Saturn-Mercury-Jupiter is running from 3-l-
+1981 to 24-1-1981. Date of examination 7-1-1981 will come during this joint
+period.
+Dasaanth Venus is in the star of Moon, occupant of lst and in the sub of
+owner of 4th Mercury. Star lord Moon is conjoined with owner of 6th Sun and
+aspected by owner of 9th Jupiter. Thus Venus is connected with 1, 4, 6 and 9.
+Bhukti lord Saturn is in the star of owner of 6th Sun. it's in the sub of occupant
+of 1 •• Moon. Star lord and sub lord are aspected by owner of 9th Jupiter. Thus
+Saturn is connected with 1, 6, 9.
+Antra lord Mercury is in the star of occupant of 6th Saturn. lt is in the sub of
+Venus. Venus is aspcted by owner of ll'h Saturn. Star lord Saturn is conjoined
+with owner of 9th Jupiter. Thus Mercury is connected with 6, 9, 11.
+Sookshma dasa lord Jupiter is in the star of occupant of 11th Ketu and sub of
+Rahu. Sub lord Rahu is conjoined with owner of 9th Jupiter and owner of ll'h
+146
+
+## PRASHNA JYOTISH
+
+
+
+Saturn. Thus Jupiter is connected with 9 and 11.
+So joint period lords are the significators of 4, 6, 9, and 11, and querent will
+pass this examination on 7 -l-1981.
+Actually the querent passed his examination subsequently.
+
+## PRASHNA JYOTISH
+
+147
+
+
+Example 27. Future Arrangement
+Question. I have a building in a big plot. I have three sons, I want to give
+this plot to any builder to build flats, allot flats to my three sons and also
+give me some money. I can then bypass my old age happily. Will. my future
+arrangement be fulfilled?
+Number. 63 (out of 249).
+Time of Judgment. 09-09-1980, Tuesday;
+
+## 06-15 PM 1ST
+
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.29'
+Planet
+Sgn Stl Sbl
+Cusp
+Sun
+Su
+Ve
+Sa
+Moon
+Su
+Ve
+Me
+1
+Mars
+Ve
+Ra
+Me
+2
+Mercury
+Me
+Su
+Me
+3
+Jupiter
+Su
+Ve
+Ke
+Venus
+Mo
+Sa
+Ve
+4
+Saturn
+Me
+Su
+Sa
+5
+Rahu
+Mo
+Me
+Ra
+Ketu
+Sa
+Ma
+Ra
+6
+Hints
+Sgn
+Mo
+Mo
+Su
+Me
+Ve
+Ma
+
+## X 23:41
+
+
+## IX 21:41
+
+Ke 25:03
+Vlll24:41
+
+## VII 00:00
+
+Stl
+Sbl
+Ju
+Mo
+Me
+Ra
+Ve
+Ju
+Ma
+Ma
+Ju
+Ve
+Me
+Sa
+Xl26:41
+Vl29:41
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Xll29:41
+v 26:41
+Ma 13:55
+Cusp Sgn
+7
+Sa
+8
+Sa
+9
+Sa
+10
+Ju
+11
+Ma
+12
+Ve
+
+## I 00:00
+
+Ve 08:32
+1124:41
+Ra 25:03
+11121:41
+Su 23:29
+Mo24:45
+Ju 26:26
+Sa 05:02
+Me05:32
+
+## IV 23:41
+
+Stl
+Sbl
+Su
+Ra
+Ma
+Ra
+Ju
+Ju
+Me
+Ma
+Su
+Su
+Ma
+Sa
+If the cuspal sub lord of the Asc. or cuspal sub lord of 11th be the occupant
+ofthe 1, 2, 3, 6, 10, 11, or in the star of occupant of 1, 2, 3, 6, 10 or 11.,
+then success in effort/planning in project is promised.
+Moon
+In this horary map Moon is occupant of 3 (one kind of agreement/discussion).
+Moon is conjoined with owner of 3rd Sun and Jupiter owing lOth (4th from 7th;
+opponent person, in this horary map we consider as builder). Also Moon is in
+the star of Venus and sub of Mercury. Star lord Venus is owner of 12th, sub
+lord Mercury is owner of 4th. Thus Moon refers to the query regarding discussion
+about land and flat.
+Asc. Cusp (Cancer 00°.00')
+The sub lord of the Asc. is Moon. Moon is in the star of Venus and sub of
+148
+
+## PRASHNA JYOTISH
+
+
+
+Mercury. Moon is owner of Asc.
+(querent) and 2nd (financial gain)
+and occupant of 3 (help from
+other).
+Star lord Venus
+is
+occupant of 1 "· Sub lord Mercury
+is occupant of 3rd.
+So Asc. sub
+lord Moon is the significator of
+1st and 3rd. Thus querent's desire
+will be fulfilled to build flats on
+his land.
+
+## 11th cusp (Arise 26°.41'):
+
+The sub lord of 11th cusp is Sun.
+Sun is in the star of Venus and
+sub of Saturn. Sun is owner of
+3rd and also occupant of 3rd.
+Its
+star lord Venus is occupant of 1st
+and sub lord Saturn is occupant
+of 3rd. So the 11th cuspal sub lord
+Sun signifies 1,3. Thus querent's
+intention to build flats on his land for his sons and better future is promised.
+
+## 4th cusp (Virgo 23°.41 '):
+
+ln this horary map question is related to land and building, so we have to
+check 4th cusp sub lord. 4th cusp sub lord is Mars. Mars is in the star of
+Rahu and sub of Mercury. Mars is karaka of building, owner of 11'h and
+occupant of 4th. lts star lord Rahu is occupant of 2nd. Sub lord Mercury is
+owner of 4th. So 4th cusp sub lord Mars is the significator of 2nd (earning money)
+Xll29:41
+Xl26:41
+
+## X23:41
+
+and
+connected
+with
+4
+(building) and 11 (gain). Thus
+1x21,41 querent will get benefit related
+to building and land.
++-------......::"1--------ii'--------+ Now we check Lagna's sub
+Ke 25:03 lord Moon and 11th sub lord
+
+## I 00:00
+
+Ve 06:32
+1124:41
+Ra l5:03
+Vlll24:41
+
+## VII 00:00
+
+Sun; both are in the star of
+Venus. Venus is owner of 5,
+12 and occupant of 1st.
+7th house is for contractor,
++-
+111-2-
+1
+,-
+41------:ot-----~--------+ Asc and Moon's Star lord
+su 23:29
+Venus is owner of contractor's
+~:ii~~
+5
+11th (gain) and 6th (handing
+sa 05,02
+over land to contractor).
+Me05:32
+
+## V2&:41
+
+Moon's sub lord Mercury is
+
+## IV 23·41
+
+Ma13:55
+JL-----·--+--------i"---:....;...---~ owner of contractor's 10th and
+conjoined with owner of 2nd, 1st, 3rd Saturn.
+Sub lord of Sun is Saturn. Saturn is owner of 1st, 2nd, and 3rd of contractor,
+also in con joined with owner of 4th ( querent' s) Mercury.
+Joint period
+At the time of judgment (Balance dasa of Venus for 2Y 10M lSD), the querent
+
+## PRASHNA JYOTISH
+
+149
+
+
+is running the joint period of Venus-Mercury-Sun.
+Dasanath Venus is in the star of Saturn, occupant of 3rd. It is in the sub of
+own, occupant of 1"'. Thus Venus signifies 3, I.
+Bhukti lord Mercury is in the star of owner and occupant of 3rd Sun and sub
+of own, occupant of 3rd. Thus Mercury signifies 3.
+Antra lord Sun is also the significator of 1st. Sun is the sub lord of ll
+th. Hence
+joint period of dasa indicates fulfillment of querent's desire.
+Discussion is going on at the time of question. From 29-9-1980 to 24-12-1980
+joint period Venus-Mercury-Moon is running. Antra lord Moon is sub lord of
+Lagna. So Moon is the significator of lst and connected with 4th owned by sub
+lord Mercury.
+In addition Moon is occupant of 3rd and owner of 2nd. Thus
+querent will get benefit by contract with builder. Actually on 16-12-1980
+contractor signed deed and paid Rs. 25000 (twenty five thousand) to querent.
+Contractor started work on a part of his land, thus querent's future arrangement
+was fulfilled.
+Transits
+On 16-12-1980 Sun in Sagittarius 1 o was transttmg in the sub of dasa lord
+Venus. Moon in Pisces 17° was in the star of bhukti lord Mercury. Mercury in
+Scorpio 22°. 09' was in the own star of Mercury. Venus was in Scorpio 4° in
+the star of Saturn, significator of 3rd (contract).
+150
+
+## PRASHNA JYOTISH
+
+
+
+Example 28. Success in Planning
+Question. I want to go USA with my two patients in May 1981 for their further
+treatment. Will I get success regarding my patients?
+Number. 47 (out of 249).
+Time of Judgment. 04-04-1981, Saturday; 08-35 AM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.29'
+Planet
+Sgn Stl Sbl
+Sun
+Ju
+Me
+Ve
+Moon
+Ju
+Sa
+Su
+Mars
+Ju
+Me
+Ve
+Mercury
+Sa
+Ju
+Su
+Jupiter[R) Me
+Mo
+Mo
+Venus
+Ju
+Me
+Ve
+Saturn[R] Me
+Mo
+Ra
+Rahu
+Mo
+Sa
+Ra
+Ketu
+Sa
+Mo
+Ju
+~
+1100:57
+Ro 14:06
+11125:57
+~
+thus Moon reflects the
+
+## PRASHNA JYOTISH
+
+Cusp Sgn
+1
+Me
+2
+Mo
+3
+Mo
+4
+Su
+5
+Me
+6
+Ma
+Stl
+Ra
+Ju
+Me
+Ve
+Xl28:57
+Su 20:42
+Ma20:20
+Vo 19:46
+Mo 10:42
+Me 29:19
+
+## X 24:57
+
+
+## IX 25:57
+
+Ke 14:06
+
+## VIII 00:57
+
+
+## VII 06:40
+
+Sbl
+Ra
+Ma
+Ra
+Me
+Ma
+Sa
+Sa
+Sa
+~
+
+## IX25:57
+
+Ko 14:06
+
+## VIII 00:57
+
+~
+
+## XII 03:57
+
+
+## I 06:40
+
+
+## VI 03:57
+
+
+## (I
+
+Cusp Sgn
+
+## (I
+
+
+## (I
+
+7
+Ju
+
+## (I
+
+8
+Sa
+
+## (I
+
+
+## (I
+
+9
+Sa
+
+## (I
+
+10
+Sa
+
+## (I
+
+
+## (I
+
+11
+Ju
+
+## (I
+
+12
+Ve
+Moon
+In
+this
+horary
+
+## II 00:57
+
+Ro14:06
+11125:57
+
+## IV24:57
+
+Ju(R]10:51
+So(R]12:20
+v 28:57
+Stl Sbl
+Ke
+Ra
+Su
+Ra
+Ma
+Ra
+Ju
+Me
+Me
+Sa
+Su
+Sa
+question,
+querent wants to get success.
+Moon is occupant of 10th
+(credit), conjoined with owner
+of 12'h (foreign) Venus, owner
+of 6th (patients) Mars and
+credit karaka Sun. Thus Moon
+refers to the query regarding
+getting credit.
+Moon is in the star of Saturn
+and sub of Sun. Star lord
+Saturn is owner of 9th Uourney
+abroad) and 10th (credit). Sub
+lord Sun is occupant of 10th,
+question regarding foreign journey and gain of credit.
+151
+
+
+
+## 11th cusp (Pisces 2s• .57'1:
+
+The sub lord of the 11th cusp is
+Saturn. Saturn is in retrograde
+motion. Saturn turns direct from 5
+June 1981. So there is no chance
+to go abroad before this time.
+Question is flxed for month of May,
+so it does not need to check further
+and thus it is clear that planning
+of querent will be canceled.
+
+## 6th cusp (Scorpio oa• .57'1:
+
+6th cusp sub lord is Saturn and
+this cusp is also Asc. for patient,
+so
+
+## I
+
+assume
+that
+patients
+themselves will cancel this tour.
+Actually patients
+and
+doctor
+decided to cancel this tour, because
+there is no chance of any further cure in these cases.
+152
+
+## PRASHNA JYOTISH
+
+
+
+Example 29. Independent Business
+Question. Will I be successful in an independent business?
+Number: 125 (out of 249)
+Time of Judgment: 26-07-1970, Sunday; 10-50 AM 1ST
+Place of Judgment: 23° N 02', 72° E 35'. Ayanamsha: 23°.20'
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Sun
+Mo
+Sa
+Ve
+Moon
+Ma
+Ve
+Ra
+1
+Ve
+Mars
+Mo
+Sa
+Mo
+2
+Ve
+Mercury
+Mo
+Me
+Sa
+Jupiter
+Ve
+Ma Ve
+3
+Ma
+Venus
+Su
+Ve
+Sa
+4
+Sa
+Saturn
+Ma
+Su
+Mo
+5
+Sa
+Rahu
+Sa
+Ra
+Sa
+Ketu
+Su
+Ke
+Sa
+6
+Ju
+Hints
+Stl
+
+## VI 02:14
+
+Ra11:01
+v 01:14
+
+## IV 00:14
+
+Sbl
+Ma
+Me
+Ju
+Su
+Me
+Sa
+Su
+Ra
+Ma
+Me
+Ju
+Ra
+
+## VII 00:00
+
+Mo 19:01
+Sa 27:54
+Vlll29:14
+
+## IX29:14
+
+1129:14
+Ju 04:19
+11129:14
+
+## I 00:00
+
+0
+Cusp Sgn
+0
+0
+7
+Ma
+0
+8
+Ma
+0
+0
+9
+Ve
+0
+10
+Mo
+0
+11
+Su
+0
+0
+12
+Me
+
+## X 00:14
+
+Su 09:29
+Ma 11:08
+Me28:40
+
+## XI 01:14
+
+Ke11:01
+Ve 22:10
+
+## XII 02:14
+
+Stl
+Sbl
+Ke
+Ke
+Su
+Ra
+Ma
+Sa
+Ju
+Mo
+Ke
+Ve
+Su
+Ju
+If the cuspal sub lord of the 10th (independent business) be the significator (in
+the star of the occupant or
+owner) of 2 (money/wealth), 7
+(business with others) or lO
+(business), an independent
+
+## IX 29:14
+
+
+## VII 00:00
+
+Mo 19:01
+Sa 27:54
+Vlll29:14
+
+## VI 02:14
+
+t--------""1-------1"'---------1- business or profession is
+promised during the joint
+
+## X 00:14
+
+Su 09:29
+Ma11:08
+Me28:40
+
+## IV00:14
+
+period of the significators of
+2, 7 and 10.
++-------...,..-----!.:---------+ If the cuspal sub lord of the
+
+## XI 01:14
+
+Ka11:01
+Ve 22:10
+
+## XII 02:14
+
+1129:14
+Ju 04:19
+
+## I 00:00
+
+significators of 2, 10 and 11.
+
+## PRASHNA JYOTISH
+
+11129:14
+7th be the significator (in the
+star of the occupant or
+owner) of 2, 10 or 11, gain
+in business is promised
+during the joint period of the
+153
+
+
+Moon
+ln this horary map Moon occupies 7th (business) and owns 10th (profession). It
+is in the star of Venus which owns the Asc, 2 and occupies 11. So it is the
+significator of the Asc. (self), 2 (self-earning) and 11 (gain and fulfillment of
+desire). Thus Moon clearly shows that the query refers to self-earning, profession
+or business dealings with others and gains there from to fulfill his desire.
+Cuspal Sub Lord
+
+## 10th Cusp. (Cancer 00°.18'):
+
+The sub lord of the 10th cusp is
+Moon. Moon is in the star of Venus
+and sub of Rahu.
+Moon occupies
+7th (business) and owns
+10th
+(profession). lts star lord Venus is
+in direct motion. Venus
+owns the
+Asc, 2 and occupies 11. So it is
+the significator of the Asc. (self), 2
+(self-earning) and 11 (gain and
+fulfillment of desire). As it is the
+significator of 2
+and
+11, an
+independent business is promised.
+
+## 7th Cusp. (Aries 000.00' .00"):
+
+The sub lord of the 7th cusp is
+Ketu. Ketu is in the star of own
+and sub of Saturn. Ketu is conjoined with Venus. So Ketu represents Venus
+and it has to give the results of Venus. Venus owning 2 and occupying 11.
+Hence the cuspal sub lord of 7th cusp Ketu is the significator of 2 and 11 and
+it shows gain in business.
+
+## 11th Cusp. (Leo 01°.14):
+
+The sub lord of the 11th cusp is Venus. Venus is in the star of own and sub
+of Saturn. Star lord Venus owns the Asc. , 2 and occupies 11th. Sub lord
+Saturn occupies 7th. The 11th cusp a! sub lord Venus is the significator of 2
+and 11 being in its own star. Hence the querent's desire will be fulfilled.
+
+## 7th House:
+
+Moon, the owner of 10 (profession), is conjoined with Saturn, delaying planet
+in 7 (business). It is in conjunction, So this position denotes that the querent
+has to have patience for a long time. But Moon is the significator of 2 and 11
+and Saturn is the significator of 10 and 11. So the querent's desire will be
+fulfilled in the long run.
+Ruling Planets
+Day.
+Sunday
+Asc.
+Virgo 12° .42'
+Moon. Aries 19°.01'
+154
+Day lord
+Sun
+Sign lord
+Mercury
+Mars
+Star lord
+Moon
+Venus
+
+## PRASHNA JYOTISH
+
+
+
+Ketu is in Leo sign, so represent Sun. Ketu is conjoined with Venus so also
+represent Venus. Venus aspect on Rahu, so Rahu
+represent Venus. no one
+planets are in the star or sub of retrograde planets. Thus the ruling planets
+are Sun, Moon, Mars, Mercury, Venus, Rahu and Ketu.
+Joint Period
+At the time of judgment (Balance dasa of Venus for 11 Y 5M 210}, the querent
+is running the period of Venus, significator of 2, 11 and also in the ruling
+planets. The joint period of Venus, Rahu and Mercury is current from 14-7-
+1970 and continues up to 17-12-1970. Rahu is the significator of 7th; Mercury
+is the significator of 10th and both are in the ruling planets. So the querent
+will begin his business activities during this period. Actually he started his
+business in the month of November 1970.
+The dasa lord Venus is the cuspal sub lord of 11 and this period continues
+up to 17-1-1982. So the querent will continue his business activities throughout
+this period. He has to pass the sub bhukti of Rahu, Jupiter, Saturn, Mercury
+and Ketu in the dasa of Venus. Rahu, Mercury, Ketu and Venus are in the
+sub of Saturn. So the querent's progress will be slow and steady.
+Jupiter is in the sub of Venus and Saturn is in the sub of Moon. So their
+bhukti (17-3-1972 to 17-1-1978) will be favourable to make progress in business.
+Ketu is the sub lord of the 7th cusp and its bhukti starts from 17-11 -1980
+and continues up to 17-01-1982. As Ketu has to give the results of Venus
+owning 2 and occupying 11, it will be better than other bhuktinath.
+It was learnt from the querent in the month of December 1974 that he was
+conducting his business in a small scale with a slow progress. And lastly it
+was learnt from the querent in the month of August 1981 that his business
+had slow progress.
+
+## PRASHNA JYOTISH
+
+155
+
+
+Example 30. Partnership in Business
+Question. Will my partnership be continued or not?
+Number. 123 (out of 249).
+Time of Judgment. 11-01-1970, Sunday; 12-14 PM IST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.20'
+Planet
+Sgn Stl Sbl
+Sun
+Ju
+Su
+Su
+Moon
+Sa
+Ra
+Ve
+Mars
+Sa
+Ju
+Ve
+Mercury[R]Sa
+Su Ju
+Jupiter
+Ve
+Ra Ju
+Venus
+Ju
+Ve
+Me
+Saturn
+Ma
+ke
+Ju
+Rahu
+Sa
+Ju
+Ju
+Ketu
+Su
+Ve
+Ju
+~
+Sa 08:46
+Vlll25:12
+Xl27:12
+
+## Y-
+
+1125:12
+Ju 10:19
+Sa 08:46
+Vlll25:12
+
+## IX 25:12
+
+
+## X 26:12
+
+
+## VII 26:06:40
+
+
+## VI 28:12
+
+Ma 26:35
+Ra 21:24
+Mo 15:15
+v 27:12
+Xl27:12
+Ka 21:24
+Xll28:12
+Me[R] 02:08
+126:08:40
+su 27:18
+
+## IV 26:12
+
+1125:12
+Va 24:04
+11125:12
+Ju 10:19
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn Stl
+Sbl
+0
+
+## I
+
+Me
+Ma Ju
+0
+7
+Ju
+Me
+Ju
+2
+Ve
+Ju
+Me
+0
+8
+Ma
+Ve
+Me
+3
+Ma
+Me
+Ra
+0
+9
+Ve
+Ma
+Ra
+0
+4
+Ju
+Ve
+Ke
+0
+10
+Me
+Ju
+Ke
+5
+Sa
+Ma Ju
+0
+0
+11
+Mo
+Me
+Ju
+6
+Sa
+Ju
+Ve
+0
+12
+Su
+Su
+Mo
+~
+Hints
+l. If the sub lord of the 8th
+cusp (partner's money) be the
+significator (in the star of the
+occupant or owner) of 6 or 11,
+the native gets a partner. The
+
+## V27:12
+
+cuspal sub lord and its star
+Me[R] 02:08 lord should not travel in
+retrograde motion.
+
+## I~
+
+If the sub lord of the 8th cusp
+(partner's money) be the
+significator (in the star of the
+occupant or owner) of 5 or 12,
+the native will not get a
+partner.
+2. If the sub lord of the 7th cusp (partnership) be the significator (in the star
+of the occupant or owner) of 5 or 11, the partnership continues for a long
+time. The cuspal sub lord and its star lord should not travel in retrograde.
+156
+
+## PRASHNA JYOTISH
+
+
+
+Moon
+If the sub lord of the 7th cusp
+(business, partnership, industry)
+be the significator (in the star of
+the occupant or owner) of 8 or
+12, the partnership will be
+broken. If 7th cusp sub lord be
+the Significator of 6th, partner will
+break partnership. If 7th cusp sub
+lord be the significator of 12th,
+querent
+himself will
+break
+partnership during the joint
+period of the significators of 6
+and 12.
+
+## 3. If owner of 7th and occupant
+
+of 7th be a significator of 1 tth,
+querent
+gets
+benefit
+from
+partnership. But if they are a
+significator of 7, 12, it is loss in
+partnership.
+In this horary map Moon is owner of 11 and occupant of 5th, aspected by
+Jupiter, owner of 7th. Thus Moon refers to the query regarding partnership
+and gain from partnership.
+
+## 7th Cusp (Pisces 26°.06'.40"):
+
+The sub lord of the 7th cusp is Jupiter. Jupiter is in the star of Rahu and sub
+of own. Its star lord Rahu is occupant of 5th. Sub lord Jupiter is owner of 7th.
+The 7th cusp sub lord signifies 5th and is connected with 7th. Thus querent's
+partnership will not continue.
+
+## PRASHNA JYOTISH
+
+157
+
+
+Example 31. Lottery Prizes
+Question. 1 purchased a lottery ticket; the result is to be declared in April-
+May 1971; will I win any lottery prize ?
+Number. 151 (out of 249).
+Time of Judgment. 09-04-1971, Friday, 08-18 PM 1ST
+Place of Judgment. 23o N 02', no E 35', Ayanamsha 23 •. 21'
+Ma 23 Sg 20
+Planet
+Sun
+Moon
+Sgn Stl
+Sbl
+Sa
+Ju
+Me
+Ve
+Ra
+Sa
+Mars
+Ju
+Mercury
+Ma
+Jupiter[R] Ma
+Venus
+Sa
+Saturn
+Ma
+Rahu
+Sa
+Ketu
+Mo
+Ve
+Sa
+Ke
+Sa
+Sa
+Ma
+Ra
+Ma
+Su
+Mo
+Ma Ju
+Me
+Ju
+v 14:11
+Su 25:45
+Ve 19:48
+
+## IV 12:11
+
+Ra 27:33
+Ill 09:11
+Cusp Sgn
+Stl
+Sbl
+1
+Ma
+Sa
+Ke
+2
+3
+4
+5
+6
+Ju
+Sa
+Sa
+Ju
+Ma
+Ke
+Su
+Ra
+Sa
+Ke
+Ra
+Ve
+Sa
+Ra
+Me
+Me 10:25
+Vl12:39
+Sa 27:50
+Ju[R] 12:39
+107:20
+
+## VII 07:20
+
+
+## XJI12:39
+
+Mo 12:20
+
+## VIII 07:11
+
+
+## IX 09:11
+
+Ke 27:33
+
+## X 12:11
+
+
+## XJ 14:11
+
+Cusp Sgn
+Stl Sbl
+7
+Ve
+Su
+Ke
+8
+9
+10
+11
+12
+Me
+Mo
+Su
+Me
+Ve
+Ra
+Sa
+Ke
+Mo
+Ra
+Ra
+Ve
+Me
+Ju
+Me
+
+## X
+
+Hints
+Me10:25
+Vl12:39
+I. 1f the cusapl sub lord of
+1
+5•
+27
+'
+50
+
+## !:
+
+1
+11th be the significator (in the
+star of the occupant or owner)
++-------~1------t'--------+ of 2nd (monetary gain), 6th (loss
+
+## IX 09:11
+
+Ke27:33
+
+## X1112:39
+
+Mo 12:20
+11th is connected with 3rd
+joint period, one can win
+158
+Ra27:33
+Ill 09:11
+to opponent), or 11th (gain/
+success/fulfillment of desire),
+and also connected with 3rd
+(lottery) and does not signify
+8, 12 or 5th, only then one can
+win a lottery prize.
+This lith sub lord and its star
+lord also should not be in
+retrograde motion.
+
+## 2. lf the significator of 2nd' 6th
+
+and not a significator of 8, 12, 5, then during their
+a large amount of lottery prize.
+
+## PRASHNA JYOTISH
+
+
+
+
+## 11th cusp (Virgo 14Ml '):
+
+At the time of announcement
+day of lottery, joint period lord
+and its star lord must be in
+direct motion. Please note that
+when question is asked about
+the specific time of result of
+lottery, only then this rule will
+be applied.
+Moon
+In this horary map Moon is
+occupant of 11 in the star of
+Rahu and sub of Saturn. Its
+Star lord Rahu is occupant of 3rd
+(lottery). Its Sub lord Saturn is
+occupant of 6th
+(loss
+to
+opponent). Thus Moon refers to
+the query regarding winning
+prize in lottery.
+The sub lord of the ll'h cusp is Jupiter. Jupiter is in the star of Saturn and
+sub of Mars. Jupiter is owner 2nd (monetary gain). Its star lord Saturn is owner
+of 3rd and occupant of 6th. Sub lord Mars is owner of 6th and occupant of 2nd.
+So ll'h cusp sub lord Jupiter is a significator of 3rd and 6th and connected
+with 2nd and 6th.
+But sub lord Jupiter is in retrograde motion and from 24-7-1971 it will change
+to direct motion. But question is for April-May draw of lottery, so there is no
+chance for querent to win this lottery prize.
+Joint Period
+At the time of judgment (Balance dasa of Rahu for lOY 4M 6D, at the time of
+lottery drawing the querent is running the joint period of Rahu, Saturn, Jupiter
+from 10-03-1971 to continues up to 27-07-1971, All this three planet are
+significtor of 2, 6, 11 and connected with 3. But the 11th cusp sub lord is in
+retrograde motion till 24-7-1971 and drow of lottery is during April-May 1971,
+so this dasa does not work for querent.
+specily dasanath Rahu is in the sub of retrograde Jupiter and antranath jupiter
+is it self retrograde motion till 24-7-1971. Drow oflottery is on April-May 1971.
+Thus during joint period of Rahu, Saturn, Jupiter does not work for querent.
+Actually in the draw of lottery during April-May 1971 querent does not get
+any price.
+
+## PRASHNA JYOTISH
+
+159
+
+
+Example 32. Acting in Cinema
+Question. Shall I get success as an cinema actor?
+Number. 2 (out of 249).
+Time of Judgment. 19-03-1970, Thursday; 12-10 PM IST
+Place of Judgment. 23° N 02', 72° E 35, Ayanamsha 23°.20'
+Ve17:56
+Su 04:56
+Me 00:45
+Xll21:36
+Ra 17:51
+Xl20:32
+
+## I 00:46:40
+
+Sa 13:21
+Ma 15:21
+
+## II 02:36
+
+11129:36
+
+## IX 29:36
+
+Ju[R]11:28
+
+## IV23:36
+
+v 20:32
+Mo22:55
+Ke17:51
+Vl21:36
+~----------------~~----------------~~X_2_3_:3_6 __ ~VI~II~02~:3~6--~~V~II~00~:4~6~:40~-L----~
+Planet
+Sun
+Sgn Stl
+Ju
+Sa
+Moon
+Mo
+Me
+Mars
+Ma
+Ve
+Mercury Ju
+Ju
+Jupiter[R] Ve
+Ra
+Venus
+Ju
+Me
+Saturn
+Ma
+Ve
+Rahu
+Sa
+Ra
+Ketu
+Su
+Ve
+v 20:32
+Mo 22:55
+Sbl
+Sa
+Mo
+Ve
+Ma
+Sa
+Me
+Ve
+Su
+Ma
+
+## I 00:46:40
+
+Sa13:21
+Ma15:21
+Cusp Sgn
+1
+Ma
+2
+Ve
+3
+Ve
+4
+Me
+5
+Mo
+6
+Su
+Stl
+Ke
+Su
+Ma
+Ju
+Me
+Ve
+Xl20:32
+Sbl
+Ve
+ju
+Sa
+Sa
+Ve
+Ju
+Hints
+Cusp Sgn
+7
+Ve
+8
+Ma
+9
+Ma
+10
+Ju
+11
+Sa
+12
+Sa
+Stl
+Ma
+Ju
+Me
+Ve
+Mo
+Ju
+Sbl
+Me
+Ra
+Sa
+Sa
+Ve
+Ju
+If the cuspal sub lord of the
+5th cusp be the significator (in
+the star of the occupant or
+owner)
+of
+5th
+(art),
+6th
+(efficiency in work),
+10th
+(business/job/reputation), and
+connected with Mercury (art of
+presentation), Venus (art,
+t--------:>1-----+::--------+ creativity), airy sign (karaka of
+6
+~
+art)
+and
+watery
+sign
+(sensitive),
+one
+can
+get
+Ju(R] 11:26
+success as a cinema actor.
+vnoo:46:40
+66
+The cuspa1 sub lord must also
+~-------------+---------!--------~ travel in direct motion.
+If the significator of 6th and 10th be connected with 5th, then during joint period
+of them, one gets success as a cinema actor.
+160
+
+## PRASHNA JYOTISH
+
+
+
+
+## Asc Cusp (Aries 00°.46.40"):
+
+Moon
+In this horary map Moon is
+occupant of 5th and also owner
+of 5th.
+Thus
+Moon
+clearly
+indicates the querent's desire to
+get success as a cinema actor.
+Cuspal Sub Lord
+
+## 5th Cusp. (Cancer 20°.32'):
+
+The sub lord of the 5th cusp is
+Venus. Venus is in the star and
+sub of Mercury.
+Venus
+is
+occupant of 12th. Mercury is
+owner of 4th (12th from 5th) and
+occupant of 12th. Hence 5th cusp
+sub
+lord
+Venus
+is
+not
+a
+significator of 5, 6, or lOth, thus
+success as a cinema actor is not
+promised.
+The sub lord of the Asc. cusp is Venus , occupant of 12th. Venus is in the
+star and sub of Mercury. As we have discussed above, Venus is the significator
+of 12'h.
+Asc lord Mars and occupant of Asc Saturn both are in star and sub of Venus.
+Thus they are the significator of 12'h. No planet is retrograde.
+12th cusp indicates cheating, trap, fraud, treachery, betrayal. Asc. sub lord
+Venus and occupant of Asc. Saturn strongly signify 12th, thus querent will be
+cheated by someone in the name of acting in cinema.
+Actually querent was cheated by someone who gave assurance to promote him
+(querent) as an actor in film but he was not given a chance to do so and he
+was betrayed.
+
+## PRASHNA JYOTISH
+
+161
+
+
+Example 33. Overseas for Study
+Question. When shall I be able to go to America for higher study?
+Number. 56 (out of 249).
+Time of Judgment. 17-05-1970, Sunday; 08-30 AM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.20'
+Xl15:33
+Su 02:28
+Sa 20:38
+Xll19:33
+Me[R[20:50
+Ma 25:55
+
+## X 11:33
+
+Ra14:44
+
+## IX 10:33
+
+Vlll14:33
+v 15:33
+Vll20:00
+Vl19:33
+Ju[RJ 04:44
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Ve
+Su Ju
+0
+Moon
+Me
+Mo
+Ra
+1
+Me
+Ju
+Ju
+0
+7
+Ju
+Mars
+Ve
+Ma
+Ra
+2
+Mo
+Sa
+Ra
+0
+8
+Sa
+Mercury[R]Ma
+Ve
+Ju
+0
+Jupiter[R] Ve
+Ma Ve
+3
+Su
+Ke
+Sa
+0
+9
+Sa
+Venus
+Me
+Ma
+Me
+4
+Me
+Mo
+Ma
+0
+10
+Ju
+Saturn
+Ma
+Ve
+Ju
+5
+Ve
+Ra
+Ve
+0
+11
+Ma
+Rahu
+Sa
+Ra
+Ke
+0
+Ketu
+Su
+Ve
+Ve
+6
+Ma
+Me
+Ve
+0
+12
+Ve
+Hints
+Ve 00:05
+120:00
+1114:33
+11110:33
+Ke14:44
+
+## IV 11:33
+
+Mo 13:23
+Stl Sbl
+Ve
+Ra
+Mo
+Ju
+Ra
+Sa
+Sa
+Mo
+Ve
+Ve
+Mo
+Me
+If the cuspal sub lord of the 12th be the significator (in the star of the occupant
+or owner) of 3 (away from home), 9 (abroad/long journey) or 12 (stay in abroad),
+the foreign travel is promised during the joint period of the significators of 3,
+9 and 12.
+Moon
+In this horary map Rahu, sub lord of Moon, occupies 9th house. Moon in 4.
+Thus the query refers to the foreign travel and study.
+Cuspal Sub Lord
+
+## 12th Cusp. (Taurus 19° .33):
+
+The sub lord of the 12th cusp is Mercury. Mercury is in the star of Venus and
+sub of Jupiter. Mercury is conjoined with 9th owner Saturn. Its star lord Venus
+owns and occupies the 12th, also aspected by 9th owner Saturn. Sub lord Jupiter
+aspects on 9th cusp and is also aspected by 9th owner Saturn. So Mercury is
+the significator of 12th and connected with 9th. But the cuspal sub lord Mercury
+is retrograde, and gets direct in motion from 22-5-1970 and crosses Aries
+162
+
+## PRASHNA JYOTISH
+
+
+
+
+## 29°.09', the point from where it
+
+turned retrograde on 7-6-1970.
+Hence the foreign travel is
+promised and the querent will go
+abroad after 7-6-1970 as the
+cuspal sub lord Mercury is a fast
+moving planet and its star lord
+Venus is not retrograde.
+11th Cusp. (Aries 15° .33')
+The sub lord of the 11'h cusp is
+Venus. It is in the star of Mars
+and sub of Mercury. Venus is
+owner and occupant of 12th. lts
+star lord Mars owns
+11th and
+occupies 12th and also aspects on
+
+## 3rd.
+
+The
+sub
+lord
+Mercury
+occupies lith with 9th owner
+Saturn.
+So
+Venus
+is
+the
+significator of 11 (success), 12
+(stay in abroad) and 3 (away from home) and connected with 9, 12, 11. The
+cuspal sub lord Venus and its star lord Mars are not in retrograde motion.
+Hence the querent's desire to go abroad will be fulfilled soon because Venus is
+also a fast moving planet. But Mercury, sub lord of Venus is retrograde, as
+discussed above, so he will go abroad after 7-6-1970.
+Ruling Planets
+At the time of judgment the ruling planets are as under.
+Day lord
+Sign lord
+Star lord
+Day
+Sunday
+Sun
+Asc.
+Gemini
+
+## 08°.37'
+
+Moon.
+Virgo
+
+## 13°.
+
+23'
+Thus the ruling planets are Sun, Moon,
+Su 02:28
+Xll19:33
+Ma25:55
+Xl15:33
+Sa 20:38
+Me[R[ 20:50
+Mercury
+Mercury
+Rahu
+Moon
+Mercury and Rahu. Among these Sun
+and Mercury are in the sub
+of retrograde Jupiter, so
+remaining ruling planets are
+Moon and Rahu. Both Moon
+and Rahu are the significators
++-
+11
+-
+14
+- ..
+3-
+3~---___;:::.t------+<=---------1f- of foreign travel. Moon is in
+Vlll14:33
+11110:33
+Ke14:44
+
+## PRASHNA JYOTISH
+
+v 15:33
+Ju[RJ 04:44
+Vll20:00
+Vl19:33
+the sub of Rahu, occupant of
+
+## 9th. Rahu is in own star and
+
+sub of Ketu, occupant of 3rd.
+Joint Period
+At the time of judgment
+(Balance dasa of Moon for 7Y
+
+## 5M
+
+l6D), the q ueren t is
+163
+
+
+running the joint period of Moon, Rahu and Venus. This period continues up
+to 20-6-1970.
+As discussed above, these three planets are the significators of travel abroad.
+Moon and Rahu are the significators as well as in the ruling planets too. Venus
+is the cuspal sub lord of 11th. Thus during its joint period from 7-6-1970 to
+20-6-1970 querent will be able to go abroad for study.
+The querent wants to go to America for higher study. So the joint period rulers
+at the time of judgment should be the significators of 3, 9 and 12, and they
+should be connected with 4, 9 and 11. If so, the querent will be able to go
+abroad for study.
+The dasa lord Moon is in its own star (Moon) in 4 and in the sub of Rahu in
+9 and in the sub of Ketu in 3. Ketu is aspected by 11th lord Mars. Venus is
+in the star of 11th owner Mars and sub of 4th owner Mercury. So Moon-Rahu-
+Venus are the significators of foreign travel and connected with 4, 9 and 11.
+Transit
+Actually he left for America by aero plane on I 0-6-1970 during joint period of
+Moon-Rahu-Venus at 01-00 AM IST. At that time Sun was transiting in Taurus
+
+## 25". 12' in the sub of Rahu (bhukti lord); Moon in Cancer was in its own sign;
+
+Rahu in Aquarius 13".07' was in its own star; Venus in Gemini 28".28' was in
+the sub of Venus (antra lord);
+Mercury the Sub lord of Antra lord Venus was
+in retrograde motion, so querent was able to go USA only after Mercury turned
+into direct.
+164
+
+## PRASHNA JYOTISH
+
+
+
+Example 34. Foreign Travel
+Question. When shall I go for a job to Chicago U.S.A?
+Number. 51 (out of 249).
+Time of Judgment. 10-11-1973, Saturday; 02-42 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.23'
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Sun
+Ve
+Ju
+Me
+Moon
+Ma
+Ve
+Ju
+1
+Me
+Mars[R]
+Ma
+Ke
+Su
+2
+Mo
+Mercury[R]Ve
+Ju
+Me
+Jupiter
+Sa
+Mo
+Ma
+3
+Su
+Venus
+Ju
+Ke
+Me
+4
+Me
+Saturn[R] Me
+Ra
+Sa
+5
+Ve
+Rahu
+Ju
+Ke
+Ra
+Ketu
+Me
+Ra
+Ra
+6
+Ma
+Moon
+Stl
+Ra
+Sa
+Ke
+Su
+Ra
+Sa
+Ma(R] 03:33
+Xll12:36
+
+## X 04:21
+
+
+## IX 04:21
+
+Ju 11:48
+
+## VIII 08:21
+
+
+## V1114:26:40
+
+Ve 11:32
+
+## XI 08:21
+
+Mo 21:30
+Ra 07:18
+Vl12:38
+Sbl
+0
+0
+Ke
+0
+Ve
+0
+0
+Mo
+0
+Sa
+0
+0
+Ra
+0
+Ma
+0
+Me(R]24:34
+Su 24:27
+v 08:21
+Cusp Sgn
+7
+Ju
+8
+Sa
+9
+Sa
+10
+Ju
+11
+Ma
+12
+Ve
+Ke 07:Ui
+Sa(R]10:50
+114:28:40
+
+## II 08:21
+
+Ill 04:21
+
+## IV04:21
+
+Stl
+Sbl
+Ve
+Ve
+Su
+Ve
+Ma
+Ve
+Sa
+Sa
+Ke
+Ju
+Mo
+Ra
+In this horary map Moon is in the star of Venus and sub of Jupiter. Star lord
+Venus owns 12 and occupies 6. Sub lord Jupiter owns 10. So it is the
+significator of 6 (employment), 12 (stay in foreign land) and connected with 10
+(prospects). Thus Moon indicates that the querent desires to go abroad for
+better prospects in employment.
+Cuspal Sub Lord
+
+## 12th Cusp. (Taurus 12°.36'):
+
+The sub lord of the 12th cusp is Rahu. Rahu is in the star of Ketu and sub of
+own. Star lord Ketu is in 12, in conj. with Saturn owning 9. It is in own sub
+in 6. So it is the significator of 9, 12 and connected with 6. Hence Rahu
+promises going abroad and staying there for a job.
+
+## 11th Cusp. (Aries 08° .21):
+
+The sub lord of the 11th cusp is Jupiter. Jupiter is in the star if Moon and
+sub of Mars. Star lord Moon owns 2 and occupies 11. Moon, being aspected
+by Sun owning 3, is connected with 3. Sub lord Mars owns 6, 11 and occupies
+
+## PRASHNA JYOTISH
+
+165
+
+
+
+## 10. So it is the significator of 2, 11 and connected with 3, 6, 10 and 11.
+
+Hence Jupiter promises the fulfillment of the querent's desire for better financial
+prospects in foreign land.
+Ruling Planets
+At the time of judgment the ruling planets are as under.
+Day Saturday
+Asc. Aquarius 23°.36'
+Moon. Aries
+
+## 21 °.30'
+
+Day lord
+Sign lord
+Starlord
+Saturn
+Saturn
+Mars
+Jupiter
+Venus
+At the time of judgment Rahu is in Sagittarius and conjoined with Venus.
+Ketu is in Gemini and conjoined with Saturn. So Rahu represents Jupiter and
+Venus
+and
+Ketu
+represent
+Saturn. Thus the ruling planets
+are
+Mars,
+Jupiter,
+Venus,
+Saturn, Rahu, Ketu.
+Joint Period
+1) At the time of judgment
+(Balance dasa of Venus for 7Y
+9M OD), the querent is running
+the joint period of Venus and
+Jupiter, which continues up to
+10-6-1974.
+2) Venus (dasa lord) is the sub
+lord of the 9th cusp (foreign
+travel) (Aquarius 04°.21'). Venus
+is in the star of Ketu and sub of
+Mercury and also in the ruling
+planets. Star lord Ketu in 12
+represents Saturn owning 9. Sub
+lord Mercury is in conjoined with
+).:::----~~-+-~M~a~[R~JD~3~:33::---t----:-x~o7
+
+## 4:7.21---:rl Sun owning 3, and aspected
+
+
+## XI08:21
+
+by Moon owning 2 and by
+Mo 21:30
+Mars owning 6 and 11, so
+Mercury is connected with 2,
+3, 6 and 11. Thus Venus is
++-------~-----¥---------4 the significator of 9, 12 and
+1108:21
+Ju11:48
+d
+· h 2
+3
+6
+d
+v11108,21
+connecte
+wtt
+,
+,
+an
+
+## 11. So the period of Venus is
+
+favourable for foreign travel
+and better financial prospects.
++--------~w--------4~--------4 But Venus is in the sub of
+Vll14:26:40
+Ve11:32
+Ra 07:16
+retrograde Mercury.
+Mercury
+gets in to direct motion at
+
+## 17°.15' Libra from 20-11-1973
+
+Me[RJ24:34
+and it crosses the original
+Su 24:27
+.J'-------+-v_o_a:_21 ___ +---VI-
+1_
+2
+·_·36--..,...;:>~. point of retrogradation (i.e.
+166
+
+## PRASHNA JYOTISH
+
+
+
+Scorpio 03°.13') on 6-12-1973. So after this date Venus will begin to manifest
+its favourable influence.
+3) Bhukti lord Jupiter, as discussed above. Jupiter is sub lord of 11th cusp
+and in the ruling planets and also the significator of 2, 11 and connected
+with 3, 6, 10, 11. So Jupiter is favourable for fulfillment of the querent's desire
+before 10-6-1974. Now Jupiter is in the sub of retrograde Mars; Mars gets
+into direct motion at 01 • .55' Aries from 26-11-1973 and it crosses the original
+point of retrogradation (i.e. Aries 15 •. 53') on 18-1-1974. So the querent will be
+able to go abroad between 18-1-1974 and 10-6-1974.
+4) During this time the antar dasa of Rahu will be in progress (16-1-1974 to
+10-6-1974). Rahu, as already discussed above. Rahu is 12th cusp sub lord and
+also in the ruling planets. Rahu is the significator of 9, 12 and connected
+with 6. So Rahu will be most congenial for foreign travel and stay abroad
+when the transit agrees.
+In this case Venus (cuspal sub lord of 9), Jupiter (cuspal sub lord of 11) and
+Rahu (cuspal sub lord of 12) are the significators of/and connected with foreign
+travel and better financial prospects. So their joint period is fruitful for foreign
+travel. Moreover, the querent is running the joint period of the same planets
+viz. Venus and Jupiter at the time of judgment.
+Transit
+1) Rahu in transit will move from 03 • .40' Sagittarius to 26 •. 03' Scorpio between
+16-1-1974 and 10-6-1974, and it will pass through the sub of Jupiter between
+7-5-1974 and 9-6-1974.
+Jupiter in transit will move from 18 •. 55' to 23•. 16' in Aquarius between 7-5-
+1974 and 9-6-1974, and it will pass through the stars of Rahu and Jupiter.
+So the querent will go to Chicago during this time, in the joint period of Venus,
+Jupiter and Rahu.
+Actually he left for Chicago on 8-6-197 4 at 01-30 AM IST by aero plane.
+2) At that time Sun was transiting in Taurus 23 •. 20' from the 12th house in
+the star of Mars (sookshma lord); Moon in Sagittarius 25° .'11' was in the star
+of Venus (dasa lord); Venus in Aries 15 •. 30' was in its own star; Jupiter in
+Aquarius 23 •. 05' was in its own star of Jupiter (bhukti lord); and Rahu in
+Scorpio 26 •. 09' was in the sub of Jupiter.
+
+## PRASHNA JYOTISH
+
+167
+
+
+Example 35. Foreign Travel
+Question. Shall I be able to go U.S.A for higher education?
+Number. 18 (out of 249).
+Time of Judgment. 04-08-1974, Sunday; 07-57 PM 1ST
+Place of Judgment. 07° N 42', SP E 42'. Ayanamsha 23 •. 24'
+125:53:20
+Ke 23:07
+So19:22
+1124:26
+11120:26
+Vo 23:59
+Xll22:26
+Me 04:56
+Su 18:25
+
+## IV 18:26
+
+Ju!RJ 23:14
+Xl19:26
+Mo04:06
+Mo11:38
+v 19:26
+
+## X 18:26
+
+Vl22:28
+Vlll24:26
+
+## IX 20:28
+
+Ra 23:07
+Vll25:53:20
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl
+Sbl
+Sun
+Mo
+Me
+Me
+0
+Moon
+Sa
+Ma
+Ve
+
+## I
+
+Ma
+Ve
+Ke
+0
+7
+Ve
+Ju
+Ke
+Mars
+Su
+Ke
+Me
+2
+Ve
+Ma
+Ra
+0
+8
+Ma
+Me
+Ra
+Mercury
+Mo
+Sa
+Sa
+3
+Me
+Ju
+Ju
+0
+Ju
+Ve
+Ju
+Jupiter[R] Sa
+Ju
+Sa
+0
+9
+Venus
+Me
+Ju
+Me
+4
+Mo
+Me
+Me
+0
+10
+Sa
+Mo
+Me
+Sa tum
+Me
+Ra
+Ma
+5
+Su
+Ve
+Ra
+0
+11
+Sa
+Ra
+Ma
+Rahu
+Ma
+Me
+Mo
+0
+Ketu
+Ve
+Mo
+Su
+6
+Me
+Mo
+Ve
+0
+12
+Ju
+Me
+Mo
+Moon
+In this horary map Moon is owner of 4th (education), conjoined with owner of
+9 (foreign travel! higher education), and 12 (stay in foreign land) Jupiter. Moon
+Sa 19:22
+11120:26
+Vo23:59
+Ke 23:07
+1124:28
+125:53:20
+is in the star of Mars and sub
+Xll22:28
+of Venus. Star lord Mars is
+occupant of 4th (education)
+and
+sub
+lord
+Venus
+is
+occupant of 3rd (away from
++---------"t------1'---------+ home). Thus Moon indicate
+Mo04:56
+Su 18:25
+
+## IV 18:28
+
+
+## X 18:28
+
+the querent's desire to go
+abroad for higher education.
+Cuspal Sub Lord
+
+## +---------::*"""----~-------+ 12th Cusp.( Pisces 22°.26') :
+
+Ma11:38
+v 19:26
+168
+Vll25:53:20
+The sub lord of the 12th cusp
+is Moon. Moon is in the star
+if Mars and sub of Venus.
+Star lord Mars occupying 4th
+
+## PRASHNA JYOTISH
+
+
+
+(education) and aspecting on 12th.
+Its sub lord Venus is occupant
+of 3 rd and aspecting on 9th. So it
+is
+the
+significator
+of
+4th
+(education), 12 (stay in foreign
+land) and connected with 3rd
+(away from home), 4th (education),
+9
+(foreign
+travel/
+higher
+education).
+Moon
+is
+also
+conjoined with Jupiter, owner of
+9th and 12th. Star lord Mars and
+sub lord Venus are aspected by
+Jupiter, owner of 9th and 12th.
+Hence Moon promises going
+abroad for higher education.
+
+## 11th Cusp. (Aquarius 19° .26):
+
+The sub lord of the 11th cusp is
+Mars. It is in the star of Ketu
+and sub of Mercury. Star lord
+Ketu is in Taurus, thus Ketu represent Venus, occupant of 3rd. Ketu is in the
+star of Moon, so it represents Moon and indicates matters of 3rd and 4th. Sub
+lord Mercury is owner of 3rd and also occupant of 3rd.
+So Mars is connected
+with 3 and 4. Hence Mars promises the fulfillment of the querent's desire for
+higher education in foreign land.
+Ruling Planets
+At the time of judgment the ruling planets are as under.
+Day lord
+Sign lord
+Starlord
+Day
+Sunday
+Asc.
+Aquarius 15" .23'
+Moon. Aquarius 04" .06'
+Sun
+Saturn
+Saturn
+Rahu
+Mars
+The ruling planets are Sun, Mars, Saturn and Rahu.
+Significators of 3, 9 and 12
+Bhava
+ln the star of
+Occupant (B)
+ln the star of
+occupant (A)
+owner( C)
+3
+Ven
+Sun-Rahu
+Sun-Rah
+Mer
+9
+Jup-Ven
+12
+Jup-Ven
+Thus the strong significtors of 3, 9, 12 are Venus, Sun, Rahu
+Joint Period
+Owner(D)
+Mer
+Jup
+Jup
+and Jupiter.
+At the time of judgment (Balance dasa of Mars for 1 Y 4M 3D). Dasanath Mars
+
+## PRASHNA JYOTISH
+
+169
+
+
+is in the sub of Mercury occupant and owner of 3rd. Mars is also the sub lord
+of 11th. As we have discussed above, Mars is the significator of 3rd and also
+in the ruling planets. So consider Mars.
+Now we have Sun and Rahu which are common in the ruling planets and
+significator table. joint period of Mars-Sun-Rahu starts from 25-1-1975 to 14-
+2-1975. During this time querent will have most congenial for foreign travel
+for higher education.
+Actually he left for USA on 30-1-1975 midnight.
+Transit
+On 30-1-1975 Sun was transttmg in Capricorn 15°.49' in the sub of Jupiter
+(significator); Moon in Leo 16•.oo• was transiting
+in the sub of Sun (bhukti
+lord); Mars in Sagittarius 12 •. 30' was in the sign of Jupiter, the significator.
+and Rahu in Scorpio 13• .39' was in the sub of own( Antra lord).
+170
+
+## PRASHNA JYOTISH
+
+
+
+Example 36. Foreign Travel
+Question. When shall we both husband and wife go to Canada?
+Number. 151 (out of 249).
+Time of Judgment. 13-09-1980, Saturday; 06-45 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.39'
+Vl12:31
+
+## VII 07:20
+
+v 14:03
+
+## IV 12:03
+
+Ke24:50
+Ill 09:03
+Ma 16:36
+Xll12:31
+
+## II 07:03
+
+
+## I 07:20
+
+Mo 12:31
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Su
+Su
+Mo
+0
+Moon
+Ve
+Ra
+Sa
+1
+Ma
+Sa
+Ke
+0
+7
+Ve
+Mars
+Ve
+Ra
+Ve
+2
+Ju
+Ke
+Ra
+0
+8
+Me
+Mercury
+Me
+Mo
+Ra
+0
+Jupiter
+Su
+Su
+Su
+3
+Sa
+Su
+Ve
+0
+9
+Mo
+Venus
+Mo
+Sa
+Ma
+4
+Sa
+Ra
+Sa
+0
+10
+Su
+Saturn
+Me
+Su
+Me
+5
+Ju
+Sa
+Ra
+0
+11
+Me
+Rahu
+Mo
+Me
+Ra
+0
+Ketu
+Sa
+Ma Ra
+6
+Ma
+Ke
+Me
+0
+12
+Ve
+Moon
+
+## VIII 07:03
+
+
+## IX09:03
+
+Ve12:37
+Ra 24:50
+
+## X 12:03
+
+Ju 27:18
+Su 27:24
+Sa 05:32
+Mo12:09
+Xl14:03
+Stl Sbl
+Su
+Ke
+Ra
+Ra
+Sa
+Ve
+Ke
+Me
+Mo
+Ju
+Ra
+Sa
+In this horary map Moon is almost exactly on 12th cusp (stay in foreign land),
+owner of 9 (foreign travel/ higher education). It is in the star of Rahu and sub
+of Saturn. Star lord Rahu in 9th and sub lord Saturn is owner of 3rd.
+Consider 7th as Asc. for wife. Rahu in 3rd (away from home) and Saturn is
+owner of 9th.
+Thus Moon clearly indicates the question of going to a foreign land with wife.
+Cuspal Sub Lord
+
+## 12th Cusp. ( Libra 12°.31'):
+
+The sub lord of the 12th cusp is Saturn. Saturn is in the star of Sun and sub
+of Mercury. Saturn is owner of 3rd.
+Sub lord Mercury is a karaka for traveling
+and owner of 11th and is conjoined with Saturn. So 12th cusp sub lord Saturn
+is connected with 3rd (away from home) and 11. Hence Moon promises going
+abroad.
+
+## Wife's 12th Cusp. (Aries 12°.31 '):
+
+Wife's sub lord of the 12th cusp is Mercury. Mercury is in the star of Moon
+
+## PRASHNA JYOTISH
+
+171
+
+
+and sub of Rahu. Star lord Moon is owner of 3rd and Sub lord Rahu is occupant
+of 3rd. Thus Mercury signifies 3rd and is also connected with 3rd. Hence querent's
+wife also will go to foreign land.
+Ruling Planets
+At the time of judgment the ruling planets are as under.
+Day Saturday
+Asc. Aquarius 28°.00'
+Moon. Libra
+
+## 12°.31'
+
+Day lord
+Sign lord
+Starlord
+Saturn
+Saturn
+Venus
+Jupiter
+Rahu
+Rahu is conjoined with Venus, so it represents Venus. Ketu is aspected by
+Venus, so both Rahu and Ketu represent Venus. Ketu is in Capricorn, thus
+Ketu represents Saturn too. Hence Jupi~er, Venus, Saturn, Rahu and Ketu
+become the ruling planets.
+Significators of 3, 9 and 12
+Ethava
+ln the star of
+Occupant
+occupant (A)
+3
+Ket
+9
+Mar-Moo
+Rah
+12
+Mer
+Moo
+Ket
+Mar
+
+## (B)
+
+ln the star of
+Owner(DJ
+owner( C)
+Ven
+Sat
+Mer
+Moo
+Ven
+Thus the strong significtors of
+3, 9, 12 are Ketu, Mars, Moon,
+Mercury and Venus. Rahu
+represents Venus, so we also
+consider Rahu as a significator.
+Joint Period
+At
+the
+time
+of judgment
+(Balance dasa of Rahu for lOY
+lM 7D). Querent is running
+joint period of Rahu-Saturn up
+to 2-10-1980. Only 19 days
+from date of query.
+Rahu is the sub lord of 11th
+cusp of wife. Rahu is in the
+ruling planets and also in the
+significators. Saturn is 12th cusp
+sub lord of querent and also in
+the ruling planets. But at the
+time of query, querent does not submit any application for visa etc. , so there
+is no meaning to consider Rahu-Saturn joint period.
+Rahu-Mercury joint period starts from 2-10-1980. Mercury is the 12th cusp
+sub lord of wife and the strong significator of 12th house. So during this joint
+172
+
+## PRASHNA JYOTISH
+
+
+
+
+## IX 09:03
+
+Ve12:37
+Ra 24:50
+
+## X 12:03
+
+Ju 27:18
+Su 27:24
+Transit
+
+## VII 07:20
+
+Vl12:31
+Sa 05:32
+Me12:09
+Xl14:03
+Ma 16:36
+Xll12:31
+Mo 12:31
+v 14:03
+
+## I 07:20
+
+Ke 24:50
+11109:03
+
+## II 07:03
+
+period the qurenet and his
+wife will go to Canada.
+During Rahu-Mercury joint
+period first Antra is Ketu, but
+Venus is the sub lord of 3rd
+and 9th houses, and same for
+both husband and wife. Venus
+is in the ruling planets and
+also a strong significator.
+Thus during Rahu-Mercury-
+Venus joint period from 5-4-
+1981 to 8-9-1981 when transit
+agrees, querent will go to
+Canada with his wife.
+First we check transit of Sun. Sun will be transiting in Gemini 7° in the star
+of Rahu and from 6-7-1981 in Gemini 20° in the star of Jupiter. Rahu is the
+sub lord of 12th cusp of wife and dasanath. Jupiter is querent's 11th cusp sub
+lord. Thus during 22-6-1981 to 20-7-1981 he will go to Canada with his wife.
+(Because Sun will be transiting, from 6-7-1981 to 20-7-1981, in Gemini 20° to
+Cancer 03 •. 20', in the star of Jupiter.)
+Also Rahu-Mercury-Venus-Jupiter joint period starts from 22-6-1981 to 13-7-
+1981, so during this period he will go to Canada with his wife.
+Actually he left for Canada with his wife on 11-07-1981 early morning at 01.30
+AM by air.
+At that time Sun was transiting in Gemini 25° in the star of
+Sookshma dasanath Jupiter. Moon was transiting in Libra 13°.54' in the star
+of Rahu dasanath, also Rahu was traveling in 12th. Mercury was in Gemini
+os•. 11' in the sign of own and star of Mars, 9th significator. Venus was in
+Cancer 20 •. 04' in the star ofbhukti lord Mercury. Jupiter was in Virgo 09 • .42'
+in the sub of Venus, Antra lord. Rahu was in Cancer os·.S4' in the sub of
+Venus.
+
+## PRASHNA JYOTISH
+
+173
+
+
+Example 37. Getting Money
+Question. When will I get money?
+Number. 144 (out of 249).
+Time of Judgment. 19-01-1981, Monday; 02-30 PM 1ST
+Place of Judgment. 13° N 04', 80° E 17', Ayanamsha 23°.29'
+Planet
+Sgn Stl Sbl
+Cusp
+Sun
+Sa
+Su
+Me
+Moon
+Me
+Ju
+Sa
+1
+Mars
+Sa
+Mo
+Ve
+2
+Mercury
+Sa
+Mo
+Me
+Jupiter
+Me
+Mo
+Sa
+3
+Venus
+Ju
+Ve
+Mo
+4
+Saturn[R] Me
+Mo
+Sa
+5
+Rahu
+Mo
+Me
+Me
+Ketu
+Sa
+Mo
+Me
+6
+Hint
+Sgn
+Stl
+Ve
+Ju
+Ma
+Me
+Ju
+Su
+Sa
+Ma
+Ju
+Ju
+Ma
+Ke
+v 00:18
+
+## IV 28:18
+
+Ma 21:50
+Ke 18:03
+Me 17:51
+Su 05:44
+11127:18
+Ve16:38
+Sbl
+Su
+Ju
+Su
+Sa
+Mo
+Ve
+
+## VI 01:18
+
+Vll28:46:40
+1127:18
+Vlll27:18
+128:46:40
+
+## XII 01:18
+
+0
+Cusp Sgn
+0
+0
+7
+Ma
+0
+8
+Ve
+0
+0
+9
+Me
+0
+10
+Mo
+0
+0
+11
+Me
+0
+12
+Ve
+Mo 23:48
+
+## IX 27:18
+
+Ra 18:03
+
+## X 28:18
+
+
+## XI 00:18
+
+Sa(R]16:17
+Ju 16:50
+Stl Sbl
+Su
+Ma
+Ma
+Ju
+Ju
+Ve
+Me
+Sa
+Su
+Ra
+Ma
+Me
+If the sub lord of the 2, 6 or 11 cusp is the significator (in the star of the
+occupant or owner) of 2, 6 or II, financial gain is promised, during the joint
+period of significators of 2, 6, 11.
+Moon
+In this horary map Moon is owner of 10 (business/job), in the star of Jupiter
+and sub of Saturn. Both star lord Jupiter and sub lord Saturn are occupant
+of 11 (gain). So Moon is the signiificator of 11 (gain). Thus Moon clearly indicates
+the question regarding financial gain from job/business.
+Cuspal Sub Lord
+
+## 2nd Cusp. ( Scorpio 27°.18):
+
+The sub lord of the 2nd cusp is Jupiter. Jupiter is occupant of 11th and also
+karaka of money. So 2nd cusp sub lord Jupiter is connected with ll'h. Hence
+Moon promises financial gain.
+
+## 6th Cusp. (Aries 01°,18'):
+
+The sub lord of the 6th cusp is Venus. Venus is in the star of own and sub of
+174
+
+## PRASHNA JYOTISH
+
+
+
+Ra 18:03
+
+## X28:18
+
+Vlll27:18
+
+## VI 01:18
+
+Vll28:46:40
+v 00:18
+
+## IV 28:18
+
+Ma21:50
+Ke 18:03
+Mo17:51
+Su05:44
+Moon. Venus is occupant of
+2nd and sub lord Moon is
+owner of 10th. Thus 6th cuspal
+sub lord Venus signifies 2nd
+and is connected with 10th.
+Hence querent's financial gain
+from
+job/business
+is
+promised.
+
+## 11th Cusp. (Virgo 00° .18'):
+
+The sub lord of the 11th cusp
+is Rahu. Rahu is in the star
+xuo1:18
+and sub of Mercury. Star lord
+128:46:40
+112718
+JL.----:--:-:-::--:-:+-----......,f:--:-~'----~ and sub I ord Mere ury is
+owner of 11th. Hence querent's desire to get financial gain from job/business
+is promised. Rahu is in Cancer sign, so it represents Moon. Moon is the fastest
+moving planet, thus querent will get money within a short period.
+Ruling Planets
+At the time of judgment the ruling planets are as under.
+Day
+Monday
+Asc.
+Taurus
+
+## 17°.28'
+
+Moon. Gemini 23°.48'
+* added by Kanak Bosmia
+Day lord
+Sign lord
+Star lord Sub Lord*
+Moon
+Venus
+Mercury
+Moon
+Jupiter
+Saturn
+Saturn
+Rahu is in Cancer sign, so it
+represents
+Moon.
+Ketu
+is
+conjoined with Mercury and
+aspected by Jupiter, thus Ketu
+represents Mercury and Jupiter.
+Hence Moon, Mercury, Jupiter,
+Venus, Rahu and Ketu become
+the ruling planets.
+Joint Period
+At the time of judgment (Balance
+dasa of Jupiter for llY 5M 8D),
+joint period of Jupiter-Saturn-
+Jupiter is running up to 27-02-
+
+## 1981.
+
+Dasa and antra lord Jupiter is
+the sub lord of 2nd cusp and also
+in the significators. Jupiter is in
+the star of Moon and sub of
+Saturn. Star lord Moon is owner
+of 10th and sub lord Saturn is
+occupant of 11th. Thus Jupiter signifies 10th and is connected with 11th.
+No planet is in the stars of Saturn, which occupies 11th. Thus Saturn becomes
+
+## PRASHNA JYOTISH
+
+175
+
+
+a strong significator of 11th. Saturn is conjoined with the signifcator and dasa
+and antra lord Jupiter.
+ln this situation querent will get money during Jupiter-Saturn-Jupiter joint
+period.
+11'h cusp sub lord Rahu represents Moon, so querent will get money within a
+short period. Now let us check transit of Sun. Sun transits from 24-1-1981 in
+the star of Moon. Moon becomes a very strong significator of 11th. Sookashma
+dasa of Moon is from 22-1-1981 to 2-2-1981. So during Jupiter-Saturn-Jupiter-
+Moon period querent will get money.
+Generally one can get money during joint period of 2, 6 and 11 significators.
+Dasa lords of joint period Jupiter-Saturn-Jupiter-Moon are the significator of
+
+## 11th. Among them Jupiter and Moon are in the ruling planets (Kanak Bosmia:
+
+Ifwe consider 7 RPs, Saturn is also inclusive.) Saturn is conjoined with Jupiter,
+so during this joint period qerent will get money. Actually he got money on
+29-1-1981.
+Transit
+On 29-1-1981 Moon was transiting in Libra and in evening in Scorpio in the
+star of Jupiter, dasa-antra lord, Sun was in Capricorn 15°.30' in the star of
+Sookshma dasa nath Moon and sub of Jupiter.
+176
+
+## PRASHNA JYOTISH
+
+
+
+Example 38. Publication of a Book
+Question. When will my book be published ?
+Number. 97 (out of 249).
+Time of Judgment. 06-11-1970, Friday; 04-55 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.20'
+
+## IX 17:02
+
+
+## X 18:02
+
+Sa[R]26:14
+Vlll16:02
+Vll18:06:40
+Ra 05:34
+Mo 19:34
+Vl19:02
+Ve[R]26:32
+Me 26:28
+Ju 22:32
+Su 20:19
+v 19:02
+
+## IV18:02
+
+11117:02
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Ve
+Ju Ju
+0
+Moon
+Sa
+Mo
+Me
+1
+Su
+Ve
+Ra
+0
+7
+Sa
+Mars
+Me
+Mo
+Sa
+2
+Me
+Mo
+Sa
+0
+8
+Ju
+Mercury Ve
+Ju
+Ke
+0
+Jupiter
+Ve
+Ju
+Sa
+3
+Ve
+Ra
+Ve
+0
+9
+Ma
+Venus!RJ Ve
+Ju
+Ke
+4
+Ma
+Me
+Me
+0
+10
+Ve
+0
+Satum!RJ Ma
+Ve
+Ke
+5
+Ju
+Ve
+Ra
+0
+11
+Me
+Rahu
+Sa
+Ma
+Mo
+Ketu
+Su
+Ke
+Ra
+6
+Sa
+Mo
+Me
+0
+12
+Mo
+Hints
+Xl19:02
+)(1119:02
+Ke 05:34
+118:08:40
+1116:02
+Ma 17:29
+Stl
+Sbl
+Ra
+Mo
+Sa
+Ju
+Ve
+Mo
+Mo
+Me
+Ra
+Mo
+Me
+Ke
+Consider the houses 3 and 11 for wnttng and publication of books. Mercury
+indicates writing, Jupiter indicates publication and Mars indicates printing.
+If the cuspal sub lords of 3 and 11 be Mercury (writing) or Jupiter (publication)
+or if they are the significator (in the star of the occupant or owner) of 3 and
+11 and if the star lord of this cuspal sub lord be connected with Mercury and
+Jupiter, the querent can write a book and publish it.
+During the joint period of the significators of 3 and 11, the book will be written
+and published, if thes.e significators are generally connected with Mercury,
+Jupiter and Mars (printing).
+Moon
+In this horary map the sub lord of Moon is Mercury (writing), which owns
+house 11 (success) and occupies 3 (publication). So Moon is connected with 3
+and 11. Hence it indicates the querent's desire to have success in getting his
+writing published.
+
+## PRASHNA JYOTISH
+
+177
+
+
+Cuspal Sub Lord
+
+## 3rd Cusp (Libra 17°.02'):
+
+The sub lord of the 3rd cusp is
+Venus. It is in the star of
+Jupiter (publications) in 3. The
+star lord Jupiter is in conjoined
+with Mercury, owner of 11 and
+Venus, owner of 3. So Venus is
+the strong significator of 3 and
+connected with Mercury, Jupiter,
+3 and 11. Thus querent will
+publish his book. But as the
+cuspal sub lord of 3rd (Venus) is
+retrograde, the progress for
+publication of a book will be
+made only after 2-12-1970 when
+Venus gets direct in motion.
+
+## 11th cusp (Gemini 19°.02'):
+
+The sub lord of the 11th cusp is
+Moon. It is in the sub of Mercury. Mercury is direct in motion; it owns 11
+(success); it is in conjoined with Jupiter, owner of 3 (Venus) and Sun (name).
+Thus Moon is connected with 3 and 11 and also with Mercury and Jupiter.
+Hence the querent will be successful in getting his book published.
+Ruling Planets
+Day.
+Friday
+Asc.
+Aries
+Moon. Capricorn
+Day lord
+Venus
+
+## 02°.11'
+
+
+## 19°.34'
+
+Sign lord
+Mars
+Saturn
+Star lo1rd
+Ketu
+Moon
+Rahu is in Aquarius, so it represents Saturn. Venus is in retrograde but turns
+Xll19:02
+Ke 05:34
+118:06:40
+
+## X 18:02
+
+
+## IX 17:02
+
+Sa[Rj26:14
+Ve[R]26:32
+Me 26:28
+Ju 22:32
+Su 20:19
+11117:02
+
+## VIU16:02
+
+
+## IV 18:02
+
+direct on 2-12-1970, so it
+works as a ruling planet.
+Mars
+is
+in
+the
+sub
+of
+vuts:os:4o
+retrograde Sa turn. Sa turn is
+Ra 05:34
+Mo 19:34
+Vl19:02
+in the star of retrograde
+Venus. So Mars and Saturn
+may be omitted. Hence the
+ruling planets are Moon,
+Venus, Rahu and Ketu.
+
+## V 19
+
+=02
+Joint Period
+At the time of judgment
+(Balance dasa of Moon for 2Y
+9M 27D), the q ueren t is
+running the joint period of
+Moon and Mercury which expires on 3-12-1970.
+178
+
+## PRASHNA JYOTISH
+
+
+
+The ruling planets Moon, Ketu, Rahu and Venus are also the strong
+significators. Joint period of Moon-Ketu start from 3-12-1970 and Moon-Ketu-
+Rahu starts from 2-3-1971. During March 1971 printing of book was started.
+Antra lord Rahu is in the star of Mars (karaka of printing).
+Ruling planet Moon and Venus are the cuspal sub lords of 1l'h
+and 3rd
+respectively; and they are also the strong significators of 3 and 11 as previously
+discussed. So the book will be published during the joint period of Moon and
+Venus which commences from 3-7-1971. Venus is very strong, so its bhukti
+which continues up to 13-10-1971 will be very favourable. Hence during the
+joint period of Moon, Venus and Venus the book will be published.
+Transit
+The querent's book was completely printed during September 1971 when both
+Sun and Venus were transiting in Leo in the star of Venus (bhukti-antra lord).
+The book was published during October 1971 when Sun was transiting in Virgo
+in the star of Moon (dasa lord). On 8-10-1971 Friday Sun was in Virgo 21°.30'
+and Moon was in Taurus in the star of dasanath Moon and the book was
+published.
+
+## PRASHNA JYOTISH
+
+179
+
+
+Example 39. News about the Missing Wife
+Question. My wife went to the market on 3-11-1974. ~tis missing since
+then. ls she alive or dead. When will 1 get the news about her?
+Number. 185 (out of 249).
+Time of Judgment. 08-11-1974, Friday; 04-00 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.24'
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Sun
+Ve
+Ju
+Sa
+Moon
+Su
+Ke
+Sa
+1
+Ju
+Mars
+Ve
+Ra
+Me
+2
+Sa
+Mercury
+Ve
+Ma Ve
+Jupiter
+Sa
+Ra
+Ke
+3
+Ju
+Venus
+Ve
+Ju
+Sa
+4
+Ma
+Saturn[R] Me
+Ju
+Me
+5
+Ve
+Rahu
+Ma
+Me
+Me
+Ketu
+Ve
+Mo
+Me
+6
+Me
+Hints
+Ill 08:31
+Ju 14:37
+
+## II 02:31
+
+
+## IV 10:31
+
+
+## I 26:40
+
+Ra 18:01
+
+## XII 01:31
+
+
+## XI 07:31
+
+Stl
+Sbl
+0
+0
+Su
+Su
+0
+Ma
+Ke
+0
+0
+Sa
+Ve
+0
+Ke
+Sa
+0
+Su
+Ke
+0
+0
+Ma
+Me
+0
+v 07:31
+Ke18:01
+Ve22:42
+Su 22:14
+Me14:07
+
+## X 10:31
+
+Me03:29
+Cusp Sgn
+7
+Me
+8
+Su
+9
+Me
+10
+Ve
+11
+Ma
+12
+Ju
+
+## VI 01:31
+
+Sa[R] 25:27
+Vll26:40
+
+## VIII 02:31
+
+Mo09:41
+
+## IX 08:31
+
+Stl
+Sbl
+Ju
+Ve
+Ke
+Ve
+Su
+Ve
+Ra
+Sa
+Sa
+Ke
+Ke
+Ve
+3cd house indicates news and 11'h house indicates fulfillment of desire.
+lf the cuspal sub lord of 3cd house (news) is the significator (in the star of the
+occupant or owner) of 3 and 11, the querent will hear the news.
+The querent will hear the news when the transiting Moon passes over the
+same degrees as that of the significators of 3 and 11; also when Moon transits
+the same degrees as that of the significator of the 3rd house of the missing
+person.
+Moon
+ln this horary map the husband makes the query about his wife. So consider
+the 7th cusp (Gemini 26°.40') as the Asc.
+Moon is aspected by wife's Markesh, Badhkesh Jupiter. Moon is also aspected
+by wife's
+8th lord Saturn. lts sub lord Saturn is in retrograde, which owns
+wife's 8 (life), occupies 12 (missing) and very near to cusp of the wife's Asc.
+Thus it clearly shows that the query is about the wife who is missing and it
+is about her life.
+180
+
+## PRASHNA JYOTISH
+
+
+
+9
+Cuspal Sub Lord
+
+## Wife's Asc. (Gemini 26° .40):
+
+The cuspal sub lord of the wife's
+Asc. is Venus. It is in the star
+of Jupiter and sub of Saturn.
+Star lord Jupiter is occupant of
+8 and owner of 7 (mar aka,
+badhaka). Sub lord Saturn is in
+retrograde, owner of 8 (life) and
+occupant of 12 (moksha). So Asc.
+sub lord Venus is the significator
+of both the badhaka and mar aka
+houses. This indicates that the
+querent's wife is dead.
+Querent's
+3rd cusp (Pisces
+
+## 08°.31 '):
+
+The cuspal sub lord of the
+querent's 3rd house is Venus. It
+is in the star of Jupiter and sub of Saturn. Star lord Jupiter owns 3 and
+aspects on Mars, owner of 11. Thus the cuspal sub lord of the 3rd house Venus
+Ra 18:01
+Va 22:42
+
+## XI 07:31
+
+Su 22:14
+Ma14:07
+
+## X 10:31
+
+Me 03:29
+
+## IX 08:31
+
+5
+is the significator of 3 and
+connected with the house 11.
+Hence the querent will hear
+the news about his wife.
+126:40
+
+## XII 01:31
+
+Significtors
+Querent's Significators of 3
+and 11
+Ju 14:37
+
+## II 02:31
+
+Ill 08:31
+12
+
+## IV 10:31
+
+Wife's Significator of 3
+1
+2
+v 07:31
+Ka 18:01
+3
+
+## VI 01:31
+
+Sa[RJ25:27
+Vll26:40
+Sun, Venus and Saturn (being
+in the star of Jupiter owning
+3) are the significators of 3.
+Mars and Jupiter (being in the
+star of Rahu in 11) are the
+significators of ll .
+Rahu (being in the star of Mercury owning and occupying 3) is the significator
+of3.
+Transit of Moon
+The querent will hear the news that his wife is dead when the transiting Moon
+passes over the same degrees as that of Mars, Sun and Venus, the querent's
+significators of 3 and 11 on 13-11-1974 or on 15-11-1974, and when Moon
+passes over the same degrees as that of Rahu which is in the 11th house of
+the querent. On 15-11-1974 the querent got the news that his wife was dead.
+
+## PRASHNA JYOTISH
+
+181
+
+
+Example 40. Lease License for Mines
+Question. When shall I get the lease license for mines from the State Govt. ?
+Number. 86 (out of 249).
+Time of Judgment. 13-08-J 973, Monday; 08-JO PM 1ST
+
+## IST
+
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.23'
+
+## IX 00:01
+
+
+## X 02:01
+
+
+## XJ 03:37
+
+Ma 06:59
+Sa 07:50
+Ke11:59
+
+## VIII 00:01
+
+
+## XJI 04:01
+
+Me 09:13
+Su 27:18
+
+## VII 03:00
+
+
+## I 03:00
+
+Mo 21:49
+Ju(R] 12:03
+
+## VI 04:01
+
+
+## II 00:01
+
+Ve 00:07
+Ra 11:59
+
+## V03:37
+
+
+## IV 02:01
+
+Ill 00:01
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn Stl Sbl
+Sun
+Mo
+Me Ju
+0
+Moon
+Sa
+Mo
+Ve
+1
+Su
+Ke
+Su
+0
+7
+Sa
+Ma
+Ve
+Mars
+Ma
+Ke
+Ra
+2
+Me
+Su
+Ra
+0
+8
+Ju
+Ju
+Mo
+Mercury
+Mo
+Sa
+Ve
+0
+Jupiter[R] Sa
+Mo
+Ra
+3
+Ve
+Ma
+Me
+0
+9
+Ma
+Ke
+Ke
+Venus
+Me
+Su
+Ra
+4
+Ma
+Ju
+Ra
+0
+10
+Ve
+Su
+Ju
+Saturn
+Me
+Ra
+Ra
+0
+5
+Ju
+Ke
+Su
+0
+11
+Me
+Ma
+Ve
+Rahu
+Ju
+Ke
+Me
+Ketu
+Me
+Ra
+Sa
+6
+Sa
+Su
+Sa
+0
+12
+Mo
+Sa
+Sa
+Hints
+The 6th house denotes a tenant or lease; the l 2th shows parting with the
+possession of land or building or mines and the 11th indicates success or
+fulfillment of desire or gain. So for getting the lease of mines from the other
+persons, consider the 11th house from the Asc. and 6 and 12 as counted from
+the 7th (other person's Asc).
+If the cuspal sub lord of the Asc. and/or the J J th is the significator (in the
+star of the occupant or owner) of 6, 11 or J 2, one can get a lease during the
+joint period of the significators of 6, 11 and 12.
+Moon
+In this horary map Moon is in its own star owning J 2 (6th from 7 i.e. lease)
+and occupying 6 (J 2th from 7 i.e. parting with the possession of mines by
+Govt.); it is aspected by Mercury, owner of 11. So Moon is the significator of
+J 2, 6 and 11. Thus it indicates that the querent desires to get a lease from
+the Govt.
+182
+
+## PRASHNA JYOTISH
+
+
+
+Cuspal Sub Lord
+
+## Asc. (Leo 03° .00):
+
+The sub lord of the As c. is Sun.
+Sun is iri the star of Mercury
+and sub of Jupiter. Sun occupies
+
+## 12. Star lord Mercury owns 11
+
+and occupies
+12; Sub lord
+Jupiter is in 6. So Sun is the
+significator of 11,
+12
+and
+connected with 6 and 12. Its sub
+lord Jupiter is retrograde, so the
+lease licence from Govt. will be
+promised only when Jupiter
+becomes direct in motion i.e.
+after 29-9-1973.
+
+## 11th cusp (Gemini 03°.37'):
+
+The cuspal sub lord of the 11th
+is Venus. Venus is in the star of
+Sun and sub of Rahu. Star lord
+Sun is in conjoined with the ll'h owner Mercury, which is in 12th. Sub lord
+Rahu is aspected by Saturn in 11 and owning 6. So Venus is the significator
+of 11, 12 and connected with 11 and 6. Hence the querent will surely get the
+lease license of mines from the Govt.
+Ruling Planets
+Day.
+Monday
+Asc. Aquarius
+
+## 16°.27'
+
+Moon Capricorn 21 o .49'
+* added by Kanak Bosmia
+Day lord
+Moon
+Sign lord
+Saturn
+Saturn
+Star lord Sub lord*
+Rahu
+Moon
+Venus
+Venus
+None of them is in the star or sub of a retrograde planet. So the ruling planets
+are Moon, Saturn and Rahu. Saturn is in the star and sub of the ruling planet
+Rahu, so Saturn gets stronger than Rahu. Moon and Saturn are the significators
+~-------+------+------"?1' of 6 and 11.
+
+## X 02:01
+
+
+## IX 00:01
+
+Ma 06:59
+
+## VIII 00:01
+
+Joint Period
+At the time of judgment
+(Balance dasa of Moon for I Y
++--------=::.j------¥:....._------+ I M
+19D), the q u eren t is
+Mo21:49
+
+## XII 04:01
+
+Me 09:13
+Su 27:18
+Ju[RJ12:o
+running the joint period of
+
+## VI04:01
+
+Moon, Venus and Jupiter.
+The dasa lord Moon is among
+the ruling planets and it is
++---------,ol------io::---------+ the significator of 6, 11 and
+Ill 00:01
+
+## IV 02:01
+
+Ra 11:59
+v 03:37
+12, as previously discussed.
+The bhukti lord Venus is the
+cuspal sub lord of 11 and it
+183
+
+
+is also the significator of 6, 11 and 12, as discussed earlier. (Kanak Bosmia: If
+we consider 7 RPs, Venus is also inclusive.) So the joint period of Moon and
+Venus is to be considered as favourable to getting the lease license.
+The antra lord Jupiter is retrograde and as discussed earlier we have to omit
+Jupiter. The next antra of Saturn after Jupiter will start from 27-8-1973 and
+will continue up to 2-12-1973. Saturn is among the ruling planets and it is
+also the significator of 6 and 11.
+Hence during the joint period of Moon, Venus and Saturn the querent will get
+the lease license after 29-9-1973 when the transit agrees.
+Transit
+Sun will transit m Virgo from 12° to 23° in the star of Moon (dasa lord) from
+29-9-1973 to 11-10-1973; Venus will be in Scorpio 4° to 9° in the star of
+Saturn (antra lord); and Saturn in Gemini 11" to 11 o .20' in its own sub of
+Saturn. So the querent will get the lease license before 11-10-1973.
+lt was learnt from the querent that he could secure the lease license of mines
+from the Govt, before 11-10-1973 and the exact date was not mentioned in
+the letter of the querent.
+184
+
+## PRASHNA JYOTISH
+
+
+
+Example 41. Litigation
+Question. My tenant is not ready to vacate my house, so I launched a court
+case against my tenant. Will I win this case?
+Number. 95 (out of 249).
+Time of Judgment. 19-01-1971, Tuesday; 05-30 PM IST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.21'
+
+## IX 15:08
+
+
+## X 16:08
+
+Sa 22:31
+Vlll14:06
+Vll18 :13:20
+Ra 01:38
+Vl17:06
+Su 05:24
+Ve18:34
+
+## IV 18:06
+
+v 17:08
+Ju 07:30
+11115:08
+Me11:21
+Ma 04:24
+Mo 02:32
+Planet
+agn Btl Sbl
+Cuap Sgn
+Stl
+Sbl
+0
+Cuap Sgn
+Sun
+Sa
+Su
+Me
+0
+Moon
+Ve
+Ma
+Ke
+1
+Su
+Ve
+Mo
+0
+7
+Sa
+Mars
+Ma
+Sa
+Sa
+2
+Me
+Mo
+Ju
+0
+8
+Ju
+Mercury Ju
+Ke
+Sa
+3
+Ve
+Ra
+Ke
+0
+9
+Ma
+Jupiter
+Ma
+Sa
+Ke
+0
+Venus
+Ma
+Me
+Ke
+4
+Ma
+Sa
+Ju
+0
+10
+Ve
+Saturn
+Ma
+Ve
+Sa
+5
+Ju
+Ve
+Mo
+0
+11
+Me
+Rahu
+Sa
+Ma
+Me
+0
+Ketu
+Su
+Ke
+Ve
+6
+Sa
+Mo
+Sa
+0
+12
+Mo
+Hints
+Xl17:08
+Xll17:08
+Ke 01:38
+
+## I 18:13:20
+
+1114:06
+Stl
+Sbl
+Ra
+Ve
+Sa
+Ra
+Ve
+Ve
+Mo
+Sa
+Ra
+Ve
+Me
+Me
+House 6 indicates loss of opponent (12th from 7th, 7th indicates litigation,
+opponent, opposite party and court matter), 11th indicates succesa.
+If the cuspal sub lord of the 6th or 11th be the significator (in the star of the
+occupant or owner) of 1, 2, 3, 6, 10, 11, then one can win in court case
+during the joint period of 6, 11.
+Sub lord, its star lord, both must be in direct motion.
+Moon
+In this horary map Moon is aspected by Saturn. Saturn is owner of 7 (litigation)
+and 6 (tenant), occupying 9 (house occupied by tenant, 4th from 6th). So Moon
+indicates that the question is related to the court case against tenant.
+Cuspal Sub Lord
+
+## Asc. (Leo 16°.13.20"):
+
+If the sub lord of the Asc. be connected with 7th, one will be involved in court
+case. In this horary map Asc. sub lord is Moon. Moon is in the star of Mars
+
+## PRASHNA JYOTISH
+
+185
+
+
+and sub of Ketu. Star lord Mars
+is
+owner of 4
+and 9
+and
+occupant of 3, also aspecting on
+
+## 7th.
+
+The
+sub
+lord Ketu
+is
+occupant of 12. So Asc. sub lord
+Moon is the strong significator of
+4 (house), 3 (loss of house), 9
+(occupied
+by
+tenant),
+7
+(litigation), and connected with
+
+## 12. Thus Asc. sub lord indicates
+
+that the querent is worried about
+the court case against tenant.
+
+## 11th Cusp (Gemini 17° .06):
+
+The sub lord of the 11'h cusp is
+Venus. Venus is in the star of
+Mercury and sub of Ketu. Venus
+is occupant of 4. Star lord
+Merucry occupies 4. Sub lord Ketu occupies 12th. Thus Venus is neither owning
+1, 2, 3, 6, 10, 11 nor in the star of owner. So querent will not be successful
+Xll17:06
+Ke 01:36
+116:13:20
+
+## X 16:06
+
+
+## IX 15:06
+
+Se 22:31
+11115:06
+1114:06
+Mo 02:32
+Vlll14:06
+
+## VI 17:06
+
+Su 05:24
+v 17:06
+Me11:21
+need to check the joint period of significator
+in the court case.
+
+## 6th Cusp (Capricorn 17° .06):
+
+The sub lord of the 6th cusp
+is Saturn. Saturn is in the
+star of Venus and own sub of
+Saturn. Star lord Venus is
+occupying 4. Sub lord Saturn
+is occupying 9 and owner of
+
+## 6, 7. Thus querent will not be
+
+successful in the court case.
+6th and 11th cusp sub lord do
+not signify wining houses in
+the court case, so there is no
+of 6,11.
+ln this case there is no result of court case but the querent had a settlement
+with tenant out of court.
+186
+
+## PRASHNA JYOTISH
+
+
+
+Example 42. Election
+Question. Will Indian Prime Minister Shrimati Indira Gandhi and her Congress
+party form the government after the recent parliament elections?
+Number. 32 (out of 249).
+Time of Judgment. 06-01-1971, Wednesday; 06-20 PM IST
+Place of Judgment. 23° N 02', 7r E 35', Ayanamsha 23°.21'
+
+## XII08:20
+
+113:53:20
+Mo 21:55
+Se[RJ 22:28
+
+## XI 02:20
+
+Re 02:19
+
+## X00:20
+
+
+## IX 03:20
+
+Su 22:12
+Vll13:53:20
+
+## VIII 08:20
+
+Ve 06:12
+Me 26:11
+Me[R] 04:20 Ju 05:15
+
+## VI 08:20
+
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Ju
+Ve
+Sa
+0
+Moon
+Ma
+Ve
+Sa
+1
+Ve
+Mo
+Ju
+0
+7
+Ma
+Mars
+Ve
+Ju
+Ke
+2
+Me
+Ra
+Ju
+0
+8
+Ju
+Mercury[R]Ju
+Ke
+Mo
+3
+Mo
+Sa
+Sa
+0
+9
+Sa
+Jupiter
+Ma
+Sa
+Sa
+0
+Venus
+Ma
+Sa
+Me
+4
+Su
+Ke
+Ke
+0
+10
+Sa
+Saturn(R] Ma
+Ve
+Sa
+5
+Me
+Su
+Ju
+0
+11
+Ju
+Rahu
+Sa
+Ma
+Ke
+0
+Ketu
+Su
+Ke
+Ve
+6
+Ve
+Ra
+Ra
+0
+12
+Ma
+Hints
+
+## II 09:20
+
+Ill 03:20
+
+## IV00:20
+
+Ke 02:19
+
+## V02:20.
+
+Stl
+Sbl
+Sa
+Ra
+Ke
+Sa
+Su
+Sa
+Ma
+Me
+Ju
+Ra
+Ke
+Ju
+1. In politics or in any field where competltwn is involved, we need to consider
+11th cusp for prediction who will win. If 11'h cusp sub lord occupant of 1, 2,
+3, 6, 10, 11 or in the star of occupant planets, one can win in election. The
+cuspal sub lord and its star lord should be in direct motion.
+But if 11th sub lord occupant of 7, 8, 9, 12, 4, 5 or in the star of occupant
+planets, one can lose in election.
+
+## 2. To get high position in politics or any field where competition is involved
+
+we need to consider 11th cusp.
+If 11th cusp sub lord be a significator (in the star of the occupant or owner) of
+9, 10, 11 and also connected with Mars and Jupiter, then during the joint
+period of significaftors of 9, 10, 11, one can get a high position in politics or
+in any field where competition is involved.
+In politics 9th indicates luck. Jupiter and Mars indicate high position in politics
+and 11 fulfillment of desire. lOth indicates position, status and honor.
+But if 11th sub lord occupant of 7, 8, 9, 12, 4, 5 or in the star of occupant
+planets, one can lose in election.
+
+## PRASHNA JYOTISH
+
+187
+
+
+Moon
+Querent is a lady and she asks
+as she herself is Shrimati Indira
+Gandhi, so I will discuss this
+case as if Shrimati Indira Gandhi
+herself asks me this question.
+In this horary map Moon is in
+the star of Venus. Venus owns
+
+## 6. Thus it is clear that the
+
+question is about wining in
+elections.
+Cuspal Sub Lord
+
+## uu. Cusp. (Pisces 0:.1°.20'):
+
+The sub lord of the 11th cusp is
+Rahu. Rahu is in the star of
+Mars and sub of Ketu. Rahu
+occupies 10. Star lord Mars
+occupies 6. So 11'h sub lord
+Rahu is the significator of 6 and
+~-------;r------t-------"""?f connected with 10. Star lord
+113:53:20
+
+## XII 08:20
+
+Mo 21:55
+Sa[RJ22:28
+
+## XI 02:20
+
+Mars is in direct motion, so
+Shrimati Indira Gandhi and
+her Congress party will get a
++-------__;"!------~-------+full majority in the elections
+and form the government.
+Ill 03:30
+
+## IX 03:20
+
+Opponent's ll'b Cusp. (5th
+cusp in horary chart) (Virgo
+
+## +------....,.....-----!..--------+ Q:.JO,:.JQ'):
+
+
+## IV00:20
+
+Ko 02:19
+su22:13
+7th indicates opponent, so 11th
+
+## VIII 09:20
+
+Mo[RJ04:20
+from 7th is 5th. Opponent's 11th
+cusp sub lord is Jupiter.
+Ma26:11
+Jupiter is in the star and sub
+
+## VI 08:20
+
+~-------;------~~~~---~~ of Saturn. Jupiter occupies
+opponent's 12 and it is not in
+retrograde motion. Thus it indicates loss to opponent. Star lord and sub lord
+Saturn occupies the opponent's 6 but in retrograde motion, so the opponent
+will not get the result as expected. In other words, the opponent will not be
+able to form the government.
+Parliament elections were held on 1-3-1971 and the results were declared
+between 10-3-1971 to 14-3-1971. Shrimati Indira Gandhi and her Congress
+party got a full majority in the elections and formed the government. Shrimati
+Indira Gandhi took charge on 19-3-1971 as the Prime Minister.
+Joint Period
+I. Many times questions are asked about fixing the timing of event, which is
+the time when the relevant cusps indicate
+success or failure and the joint
+period lord be the significator of relevant bhava. At the time of the question
+joint period lord and its star lord are in retrograde motion, but before the
+188
+
+## PRASHNA JYOTISH
+
+
+
+time of event they turn direct, then event will be fulfilled during that joint
+period.
+
+## 2. At the time ofjudgment (Balance dasa ofVenus for 7Y 1M 15D); the querent
+
+is running the joint period of Venus-Saturn-Saturn which expires on 21-06-
+
+## 1971. Elections will be held in March 1971, and Venus and Saturn is the
+
+significator of 6, I.
+Dasanath Venus is in the star of retrograde Saturn and in the sub of retrograde
+Mercury. Bhukti lord and Antra lord Saturn is in retrograde motion and its
+sub lord is also Saturn. Mercury turns direct from 8-1-1971 and Saturn turn
+direct form 21-1-1971. Joint period lord, its star and sub lord turn direct before
+elections. Elections will be held during the same joint period on 1-3-1971. So
+the joint period rulers signify 6, 1.
+In this horary map the ll'h cusp sub lord indicates success in elections, so
+considering the above analysis, during the joint period of 6,1 significators, the
+result will be success. Reader may experience himself.
+
+## PRASHNA JYOTISH
+
+189
+
+
+Example 43. Cricket Match
+Question. Will India win the Cricket Test Match against England which is
+being played at Lords in England? (Query on behalf of India).
+Number. 09 (out of 249).
+Time of Judgment. 27-07-1971, Tuesday; 07-55 PM IST
+Place of Judgment. 23° N 02', no E 35', Ayanamsha 23°.21'
+111:26:40
+Sa10:44
+1111:40
+
+## XII 02:41
+
+Xl26:40
+Me[R] 26:57
+Ra 21:37
+
+## X01:40
+
+Vlll11:40
+
+## IX06:40
+
+Ju 03:16
+Vll11:26:40
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Mo
+Sa
+Su
+0
+Moon
+Me
+Su
+Ve
+1
+Ma
+Ke
+Me
+0
+7
+Ve
+Mars[R]
+Sa
+Ma Ju
+2
+Ve
+Mo
+Ma
+0
+8
+Ma
+Mercury Su
+Ke
+Ju
+0
+Jupiter
+Ma
+Ju
+Ra
+3
+Me
+Ra
+Ra
+0
+9
+Ju
+Venus
+Mo
+Ju
+Ra
+4
+Mo
+Ju
+Ra
+0
+10
+Sa
+Saturn
+Ve
+Mo
+Mo
+0
+Rahu
+Sa
+Mo
+Ve
+5
+Mo
+Me
+Sa
+0
+11
+Sa
+Ketu
+Mo
+Me
+Su
+6
+Me
+Su
+Ju
+0
+12
+Ju
+Hints
+Ill 06:40
+
+## IV 01:40
+
+Ve 01:59
+Su 10:34
+Ku 21:37
+v 26:40
+Me 07:36
+
+## VI 02:41
+
+Mo09:13
+Stl
+Sbl
+Ra
+Sa
+Sa
+Mo
+Ke
+Ra
+Su
+Ju
+Ma
+Sa
+Ju
+Ra
+In cases of competition and contest between two rival parties in any walk of
+life viz. cricket match etc., if the cuspal sub lord of the ll'h (success) and that
+of the 6th (defeat to the rival) occupy the house 1, 2, 3, 6, 10 or 11 and be in
+the star of the occupants of the house 1, 2, 3, 6, 10 or 11, the team under
+query will win the cricket match. Final result will depend on the sub lord of
+planet.
+
+## Note:
+
+Cricket match was running between India and England at Lords in England
+during 22-7-1971 to 27-7-1971. On 27-7-1971 the match was very interesting.
+My son was listening to the commentary on radio; he asked me, Bhai will
+Indian team win this match? (Note from Kanak Bosmia: In my generation people
+in Gujarat call father as a Bhai or Kaka or Bapuji). I consider it as if one of
+players asked me the question and so I analyzed the chart as per calculated.
+190
+
+## PRASHNA JYOTISH
+
+
+
+Moon
+In this horary map Moon occupies
+6 (12th from 7th loss of opponent
+and win for self) and owns 5
+(sports, entertainment). Sub lord
+Venus is karaka for entertainment
+and
+owner
+of 7
+(opponent,
+competition), thus Moon indicates
+the question is related to cricket
+match competition.
+Indian Cricket Team
+
+## 11th Cusp. (Capricorn 28° .40'):
+
+The sub lord of Il'h
+cusp is
+Saturn. Saturn is in the star and
+sub of Moon. Saturn occupies l.
+Star
+and
+sub
+lord
+Moon
+is
+occupant of 6 and owner of 4, 5.
+So Indian team's II th cusp sub lord Saturn is the significator of 6 and connected
+with l, 6, 4.
+
+## IV01:40
+
+Ve01:59
+Su 10:34
+Ke 21:37
+v 28:40
+Sa 10:44
+1111:40
+111:28:40
+Xl28:40
+Me[R] 26:57
+Ra 21:37
+
+## X01:40
+
+6th Cusp
+
+## (Virgo 02°.41):
+
+The sub lord of 6th cusp is
+Jupiter. Jupiter is in own star
+and sub of Rahu. Star lord
+Jupiter is occupant of 7. Sub
+lord Rahu is the occupant of
+
+## 10. So 6th cusp sub lord of
+
+Indian team is the significator
+of 7 and connected with 7, 10.
+England Cricket Team
+
+## 11th Cusp. (Cancer 28° .40):
+
+Vll11 :26:40
+The sub lord of the 11th cusp
+is Saturn. Saturn is in the star and sub of Moon. Saturn occupies 7. Moon is
+occupant of 12 and owner of 10, 11. So England team's 1I lh cusp sub lord is
+the significator of 12 and connected with 7, 12, 10 and 11.
+
+## 6th Cusp. (Pisces 02° .41):
+
+The sub lord of the 6th cusp is Rahu. Rahu is in the star of Moon and sub of
+Venus. Rahu is occupant of 4. Star lord Moon is occupant of 12 and sub lord
+Venus is in 10. So Rahu is the significator of 12 and connected with l and
+
+## 10.
+
+In view of the above position both teams' results indicate the same position.
+Both cusp sub lords' sub lord is occupant of 10. Thus no one of competing
+teams will lose. Both teams' ll'h cusp sub lords also do not indicate a clear
+cut picture because the sub lords of both cusps' sub lords indicate winning
+and losing in both sides.
+This means no one of competing teams will win this match, and actually due
+to rain the match was cancelled and declared as draw.
+
+## PRASHNA JYOTISH
+
+191
+
+
+Example 44. Cricket Match
+Question. Whether India will win the lst Cricket Test Match against West
+Indies which is being played at Bangalore in India ? (Query on behalf of India).
+Number. 65 (out of 249).
+Time of Judgment. 22-11-1974, Friday; 12-35 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.24'
+Sa[R]25 Go 04
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Sun
+Ma
+Sa
+Me
+Moon
+Sa
+Ra
+Ju
+1
+Mo
+Mars
+Ve
+Ju
+Sa
+2
+Mo
+Mercury
+Ve
+Ju
+Ju
+3
+Su
+Jupiter
+Sa
+Ra
+Ke
+Venus
+Ma
+Sa
+Ve
+4
+Me
+Saturn[R] Me
+Ju
+Me
+5
+Ve
+Rahu
+Ma
+Me
+Me
+Ketu
+Ve
+Mo
+Sa
+6
+Ju
+
+## XI 29:08
+
+
+## X 25:08
+
+
+## X 25:08
+
+
+## IX 23:08
+
+Ju 15:12
+Mo 10:02
+Vlll26:08
+
+## VII 01:20
+
+
+## VI 01:08
+
+Stl
+Sbl
+Ju
+Ra
+Me
+Ju
+Ve
+Sa
+Ma
+Ra
+Ju
+Su
+Ke
+Ve
+
+## X129:08
+
+Ko17:17
+
+## XII 01:08
+
+Sa[R]25:04
+
+## I 01:20
+
+1126:08
+11123:08
+
+## IV 25:08
+
+Ra 17:17
+v 29:08
+Ve10:08
+Ma 23:37
+Su 06:11
+Me21:11
+0
+Cusp Sgn Stl Sbl
+0
+0
+7
+Sa
+Su
+Ju
+0
+8
+Sa
+Ma
+Ju
+0
+9
+Sa
+Ju
+Sa
+0
+0
+10
+Ju
+Me
+Ra
+0
+11
+Ma
+Su
+Ma
+0
+0
+12
+Me
+Ma
+Me
+West Indies Cricket Team
+
+## 11th Cusp (Libra 29° .08):
+
+The sub lord of I Jlh cusp is
+t-:-,,..,....,,------.....:::.1--------t<'--------+ Sun. It occupies 11. It is in
+the star of Saturn, occupant
+of 6; and it is in the sub of
+Mercury, occupant of 10. So
+it is the significator of 6 and
+Vlll28:08
+
+## VII 01:20
+
+t-------?1------;o;:---------+ connected with 10 and 11.
+Ma 23:37
+Me 21:11
+v 29:08
+Hence it is favourable to the
+West Indies team.
+
+## 6th Cusp (Gemini 01°.08):
+
+JL.-------1--------+---------'"" The sub lord of 6th cusp is
+Mercury, occupant of 10. It is in the star and sub of Jupiter, occupant of 2.
+So it is the significator of 2 and connected with 10. Hence it is advantageous
+to the West Indies team.
+192
+
+## PRASHNA JYOTISH
+
+
+
+Indian Cricket Team
+
+## 11th Cusp. (Aries 29°.08'):
+
+The sub lord of the 11th cusp is
+Mars. It occupies 4th. It is in the
+star of Jupiter, occupant of 8
+and it is in the sub of Saturn,
+occupant of 12. So it is the
+significator of 8 and connected
+with 4 and
+
+## 12. Thus it is
+
+unfavorable to the Indian team.
+
+## 6th Cusp. (Sagittarius 01 .08):
+
+The sub lord of the 6th cusp is
+Venus, occupant of 5. It is in the
+star of Saturn, occupant of 12
+and it is in its own sub. So it is
+the
+significator of
+12
+and
+connected with 5. Thus it is
+disadvantageous to the Indian
+team.
+In fact the West Indies Cricket team won the match, which was being played
+at Bangalore in India from 22-11-1974 to 27-11-1974.
+
+## PRASHNA JYOTISH
+
+193
+
+
+Example 45. Cricket Match
+Question. Whether India will win the l st Cricket Test Match against New
+Zealand which is being played at Willington- New Zealand? (Query on behalf
+of India).
+Number. 120 (out of 249).
+Time of Judgment. 21-02-1981, Saturday; 08-00 AM IST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.29'
+Vlll21:32
+
+## IX 21:32
+
+
+## X 22:32
+
+
+## V1122:40
+
+Re 16:19
+Xl23:32
+Vl24:32
+Ma17;41
+Su 08:52
+Ma[RJ01:15
+Xll24:32
+Ve 27:33
+v 23:32
+Ke16:19
+Mo 03:31
+Sa[R] 15:20
+
+## IV 22:32
+
+1121:32
+Ju[RJ 15:44
+11121:32
+122:40
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn Stl Sbl
+Sun
+Sa
+Ra
+Ju
+0
+Moon
+Me
+Su
+Sa
+1
+Me
+Mo
+Su
+0
+7
+Ju
+Me
+Mo
+Mars
+Sa
+Ra
+Su
+2
+Ve
+Ju
+Ju
+0
+8
+Ma
+Ve
+Ju
+Mercury[R]Sa
+Ma
+Me
+3
+Ma
+Me
+Su
+0
+9
+Ve
+Mo
+Ve
+Jupiter[R] Me
+Mo
+Sa
+0
+Venus
+Sa
+Ma Ju
+4
+Ju
+Ve
+Sa
+0
+10
+Me
+Ju
+Sa
+Saturn[R] Me
+Mo Ju
+5
+Sa
+Ma
+Ma
+0
+
+## II
+
+Mo
+Me
+Ma
+Rahu
+Mo
+Sa
+Ju
+0
+Ketu
+Sa
+Mo
+Sa
+6
+Sa
+Ju
+Me
+0
+12
+Su
+Ve
+Me
+
+## IX21:32
+
+Indian Cricket Team
+Vlll21:32
+Vll22:40
+
+## 11th Cusp (Cancer 23° .32):
+
+The sub lord of ll'h cusp is
+Mars. It occupies 5. It is in
+the star of Rahu, occupant of
+Ra 16:19
+Ve 27:33
+10; and it is in the sub of
+Xl23:32
+v 23:32
+Sun, occupant of 5. Thus 11th
+Ke 16:19
+cusp sub lord of Indian team
+and its sub lord is unfavorable
+to India.
+Xll24:32
+
+## IV22:32
+
+
+## 6th Cusp (Aquarius 24° .32):
+
+The sub lord of 6th cusp is
+Mercury, occupant of 5. It is
+1121:32
+11121:32
+in the star of Mars, occupant
+194
+
+## PRASHNA JYOTISH
+
+
+
+of 5. It is in the sub of own. Thus
+6th cusp sub lord, it's star lord and
+it's
+sub
+lord,
+all
+three
+are
+unfavorable to India.
+New Zealand Cricket Team
+
+## 11th Cusp. (Capricorn 23°.32'):
+
+The sub lord of the I Ilh cusp is
+Mars. It occupies the 11 lh. It is in
+the star of Rahu, occupant of the
+4th and it is in the sub of Sun,
+occupant of the 11th. Thus 11th
+cusp sub lord, it's star lord and it's
+sub lord, all three are favorable to
+New Zealand.
+
+## 6th Cusp. (Leo 24° .32):
+
+The sub lord of the 6th cusp is
+Mercury, occupant of the 11 lh. It is in the star of Mars, occupant of 11th and
+it is in the sub own. Thus 6th cusp sub lord, it's star lord and it's sub lord,
+all three are favorable to New Zealand.
+Actually New Zealand Cricket team won the match against Indian team, which
+was being played at Willington in New Zealand from 21-02-1981 to 26-02-
+
+## 1981.
+
+
+## PRASHNA JYOTISH
+
+195
+
+
+Example 46. Cricket Match
+Question. Whether India will win the 3rd and last Cricket Test Match against
+New Zealand which is being played at Auckland-New Zealand ? (Query on behalf
+of India).
+Number. 120 (out of 249).
+Time of Judgment. 13-03-1981, Friday; 06-00 AM IST
+Place of Judgment. 23° N 02', 7r E 35', Ayanamsha 23° .29'
+Vlll21:32
+
+## IX 21:32
+
+
+## X 22:32
+
+Mo28:07
+Vll22:40
+Ma03:18
+Ra 15:15
+Xl23:32
+Su 28:51
+Vl24:32
+Vo22:25
+Me 01:26
+Xll24:32
+v 23:32
+Ko15:15
+Ju[R]13:40
+Sa[R] 14:01
+122:40
+
+## IV22:32
+
+11121:32
+1121:32
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl
+Sbl
+Sun
+Sa
+Ju
+Su
+0
+Moon
+Ve
+Ma Sa
+1
+Me
+Mo
+Su
+0
+7
+Ju
+Me
+Mo
+Mars
+Ju
+Ju
+Ra
+2
+Ve
+Ju
+Ju
+0
+8
+Ma
+Ve
+Ju
+Mercury Sa
+Ma
+Me
+3
+Ma
+Me
+Ve
+0
+9
+Ve
+Mo
+Ve
+Jupiter[R] Me
+Mo
+Ra
+0
+Venus
+Sa
+Ju
+Sa
+4
+Ju
+Ve
+Sa
+0
+10
+Me
+Ju
+Sa
+Saturn(R] Me
+Mo Ju
+5
+Sa
+Ma
+Ma
+0
+11
+Mo
+Me
+Ma
+Rahu
+Mo
+Sa
+Ju
+0
+Ketu
+Sa
+Mo Ju
+6
+Sa
+Ju
+Me
+0
+12
+Su
+Ve
+Me
+Indian Cricket Team
+
+## IX 21:32
+
+Vlll21:32
+Vll22:40
+
+## 11th Cusp (Cancer 23° .32):
+
+Mo28:07
+Ma 03:18
+The sub lord of 11th cusp is
+Mars. It occupies 6. It is in
+the star of Jupiter, occupant
+of 12 and it is in the sub of
+Ra 15:15
+
+## V23:32
+
+Rahu, occupant of 10. Thus
+Xl23:32
+Ko15:15
+11th cusp sub lord of Indian
+team and its sub lord are
+favorable to India.
+
+## IV 22:32
+
+
+## 6th Cusp (Aquarius 24°.32):
+
+Xll24:32
+The sub lord of 6th cusp is
+Mercury, occupant of 5. It is
+1121:32
+11121:32
+in the star of Mars, occupant
+of 6. It is in the sub of own.
+196
+
+## PRASHNA JYOTISH
+
+
+
+Thus
+6th cusp sub lord is
+unfavorable to India.
+New Zealand Cricket Team
+11th Cusp. (Capricorn 23° .32)
+The sub lord of the 11th cusp is
+Mars. It occupies the 12th. It is
+in the star of Jupiter, occupant
+of the 6th and it is in the sub of
+Rahu, occupant of the 4th. Thus
+11'h cusp sub lord, it's star lord
+and it's sub lord, all three are
+unfavorable to New Zealand.
+
+## 6th Cusp. (Leo 24° .32):
+
+The sub lord of the 6th cusp is
+Mercury, occupant of the 11th. It
+is in the star of Mars, occupant
+of the 12th and it is in the sub
+of own. Thus 6th cusp sub lord,
+it's star lord and it's sub lord, all three are favorable to New Zealand.
+Thus both India and New Zealand of rival teams have one cusp favorable and
+another cusp unfavorable, so it indicates no one of the rival teams will win or
+lose this match .
+Actually on 18-03-1981 the match ended in draw.
+
+## PRASHNA JYOTISH
+
+197
+
+
+Example 47. Lost Documents
+Question. I have lost some documents at some place. Will I get my documents
+back?
+Number. 210 (out of 249).
+Time of Judgment. 04-06-1973, Monday; 10-35 AM 1ST
+Place of Judgment: 23° N 02', 72° E 35'. Aynamsha: 23°.23'
+11115:01
+
+## IV 12:26
+
+Su 20:20
+Sa 29:19
+1111:26
+Ma25:38
+
+## I 02:40
+
+Ju[R]18:43
+
+## XII 02:26
+
+Ra 15:42
+
+## XI 06:26
+
+
+## X 12:26
+
+
+## IX 15:01
+
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Ve
+Mo
+Ke
+0
+Moon
+Mo
+Ju
+Ra
+1
+Sa
+Ma
+Ve
+0
+7
+Su
+Mars
+Sa
+Ju
+Me
+2
+Ju
+Sa
+Mo
+0
+8
+Me
+Mercury
+Me
+Ra
+Ra
+0
+Jupiter[R] Sa
+Mo
+Me
+3
+Ma
+Ve
+Ve
+0
+9
+Ve
+Venus
+Me
+Ma Su
+4
+Ve
+Mo
+Ra
+0
+10
+Ma
+Sa tum
+Ve
+Ma Sa
+0
+5
+Me
+Ma
+Mo
+0
+11
+Ju
+Rahu
+Ju
+Ve
+Su
+Ketu
+Me
+Ra
+Ve
+6
+Mo
+Ju
+Ra
+0
+12
+Sa
+Hints
+Ve 05:01
+v 06:26
+Me07:09
+Ke 15:42
+
+## VI 02:26
+
+Mo 02:32
+
+## VII 02:40
+
+Vlll11:26
+Stl Sbl
+Ke
+Ve
+Mo
+Ma
+Ra
+Ke
+Sa
+Ma
+Ke
+Ra
+Su
+Ju
+2nd house indicatemovable articles which are lost or stolen, 6 house indicate
+loss to the thief, being 12 to the 7th -thief, and 12th house Lost.
+If the cuspal sub lord of 2 or 11 be the significator (in the star of the occupant
+or owner) of 2 (movable article which is lost or stolen), 6 (loss to the thief,
+being 12 to the 7th -thief) or 11 (regaining), movable property will be regained
+during the joint period of the significator of 2, 6 and 11.
+Moon
+In this horary map Moon is in the star Jupiter and sub of Rahu, Star lord
+Jupiter occupant of 12 owning 2 and 11. Sub lord Rahu occupant of l11h. So
+Moon is the significator of 12 (loss), 2 (lost thing) and 11 (regaining) and
+connected with 11.Thus it clearly indicates that the query refers to the loss of
+documents and regaining them.
+Cuspal Sub lord
+
+## 11th cusp ( Sagittarius 06° .26):
+
+The 11th cusp is jointly ruled by Jupiter (sign lord), Ketu (star lord) and Rahu
+198
+
+## PRASHNA JYOTISH
+
+
+
+11 and connected with 6 and 11.
+(sub lord). Jupiter is in the 12th,
+the 12th house denotes losing or
+passing away of a thing. But as
+Jupiter in the 12th is retrograde, it
+indicates that the thing cannot be
+lost.
+Jupiter is in the star of Moon and
+sub of Mercury. Star lord Moon
+owning and occupying 6; So Jupiter
+is the significator of 6.
+Ketu is in the star of Rahu and sub
+of Venus. star lord Rahu in ll; sub
+Venus which aspects the 11th cusp.
+So Ketu is the significator of 11
+and connected with 11.
+Rahu is in the star if Venus and
+sub of Sun. Rahu is in 11, star
+lord Venus which aspects the 11th
+cusp; So Rahu is the significator of
+Thus the cuspal joint rulers of the 11th are also the significators of 6 and 11.
+So the lost documents will be regained.
+Ruling Planets
+Day lord
+Sign lord
+Star lord
+Day.
+Monday
+Moon
+As c.
+Cancer 21 o .53'
+Moon
+Mercury
+Moon
+Cancer 02° .32'
+Moon
+Jupiter[R]
+Moon is in the star of retrograde Jupiter, so it may be omitted. Ketu in Gemini
+represents Mercury; and Rahu in Sagittarius represents Jupiter. Hence the
+ruling planets are Mercury, Jupiter, Rahu and Ketu.
+
+## IV 12:28
+
+Joint Period
+11115:01
+1111:28
+At the time of judgment
+Su 20:20
+Sa 29:19
+(Balance dasa of Jupiter for
+Ma 25:38
+OY 11M l6D) the querent is
+
+## I 02:40
+
+running the joint period of
+Jupiter, Rahu and Ketu.
+
+## VI 02:28
+
+Ju[R]18:43
+All these three planets are
+Mo 02:32
+
+## XII 02:26
+
+among the ruling planets.
+They are the cuspal joint
+rulers of the 11th house. They
+
+## VII 02:40
+
+Ra 15:42
+are the significators of 6 and
+
+## XI 06:26
+
+
+## 11. So the querent will receive
+
+back his lost documents
+Vlll11:26
+
+## IX 15:01
+
+
+## X 12:26
+
+during their joint period which
+lasts up to 1-7-1973.
+
+## PRASHNA JYOTISH
+
+199
+
+
+Transit
+The antra Ketu will be transttmg in Gemini from 15°.13' to 14°.27' in its own
+sub Ketu from 13-6-1973 up to 27-6-1973. So the querent will regain his
+document by this time.
+It was learnt from the querent that he received back his documents on 20-6-
+1973 at 2-20 PM IST from the host of the place where he forgot them. At that
+time Moon was transiting in Capricorn 25°.01' in the sub Rahu (the bhukti
+lord).
+200
+
+## PRASHNA JYOTISH
+
+
+
+Example 48. Free from debt
+Question. When shall 1 be free from debt ?
+Number. 12 (out of 249).
+Time of Judgment. 30-01-1980, Wednesday; 04-23 PM IST
+Place of Judgment. 23° N 02', no E 35', Ayanamsha 23°.29
+Planet
+Sgn
+Sun
+Sa
+Moon
+Me
+Mars[R]
+Su
+Mercury
+Sa
+Jupiter[R] Su
+Venus
+Sa
+Saturn[R] Me
+Rahu
+Ketu
+Hints
+1)
+Su
+Sa
+Stl
+Mo
+Ju
+Ve
+Mo
+Ve
+Ju
+Su
+Ke
+Ra
+Sbl
+Cusp Sgn
+Sa
+Ve
+1
+Ma
+Ju
+2
+Ve
+Ve
+Ve
+3
+Me
+Sa
+4
+Mo
+Sa
+Ra
+5
+Su
+Ra
+6
+Me
+116:13:20
+1115:10
+
+## XII 07:10
+
+Ve23:53
+Ke 06:51
+
+## XI 03:10
+
+Me 22:36
+Su 16:13
+
+## X 05:10
+
+
+## IX 10:10
+
+Vlll15:10
+Vll16:13:20
+Stl
+Sbl
+\)
+Cusp Sgn
+\)
+Ve
+Mo
+\)
+7
+Ve
+Mo
+Ju
+\)
+8
+Ma
+Ra
+Ju
+0
+\)
+9
+Ju
+Sa
+Sa
+\)
+10
+Sa
+Ke
+Su
+\)
+\)
+11
+Sa
+Su
+Ke
+\)
+12
+Ju
+11110:10
+Mo27:34
+
+## IV 05:10
+
+v 03:10
+Ra 06:51
+Ju[R]14:52
+Ma[R]20:34
+Sa[R] 03:00
+
+## VI07:10
+
+Stl
+Sbl
+Ra
+Ve
+Sa
+Ju
+Ke
+Sa
+Su
+Me
+Ma
+Ve
+Sa
+Me
+(i) To get money from others or debt, consider 6th house. Thus if the cuspal
+sub lord of the 6th becomes the significator (in the star of the occupant or
+owner) of 2, 6 or 11, getting money is promised during the joint period of the
+significators of 2, 6, 11.
+(ii) To give money to others, investment, freedom from debt, consider 12th. Thus
+if the cuspal sub lord of 12 th becomes the significator (in the star of the
+occupant or owner) of 5, 8 or 12 freedom from debt is promised during the
+joint period of the significators of 5, 8, or 12.
+Houses 5, 8, 12 are 2, 6, 11
+from 7th (opponent) indicating gain to opponent.
+During the joint period of planets, which are in the star or sub of Jupiter or
+Venus one can be free from debt, especially it is true when Jupiter or Venus
+be an owner or occupying 8 or 12.
+(iii) 8th cusp indicates money of opponent, thus if 8th cuspal sub lord be the
+significator (in the star of the occupant or owner) of 5, 6, 8, 12, one can get
+money from other during the joint period of the significators of 5, 6, 8, 12.
+iv) 8th cusp indicates money of opponent, thus if 8th cuspal sub lord be the
+
+## PRASHNA JYOTISH
+
+201
+
+
+significator (in the star of the
+occupant or owner) of 2, 10, 11
+one can get money from other
+during the joint period of the
+significators of 2, 10, 11.
+2)
+If 12th cuspal sub lord is
+Saturn, then to repay loan/debt
+there will be delays or many
+hurdles. If Jupiter is the sub
+lord, all debt repayments will be
+legal. If Mars, person pays debt
+after he gets warning form
+the
+financier. If Mercury, the debt
+will be paid in installments,
+discussions going on about repay
+debt and repay debt with the
+help of middleman. If Venus,
+with very happy and cooperative
+manner one repays debt. If Sun,
+one can pay by advice of elders,
+government officer's advice or order, and if Moon, one can repay debt
+very
+speedily.
+If 12th cuspal sub lord is aspected by Saturn , some debt will be remained, or
+one can pay by small-small amounts after a gap of time.
+Moon
+In this horary map Moon is in the star if Jupiter occupies 5 (11th from 7th i.e.
+gain to opponent) and owner of 12 (to give money to someone), it is conjoined
+with
+Mars,
+owner
+of 8
+11&:13:20
+(opponent's money). Thus it
+Vll16:13:20
+Vlll15:10
+Me22:36
+Su 16:13
+
+## X 05:10
+
+
+## IX 10:10
+
+
+## 12. so the querent will be free from debt.
+
+
+## 11th Cusp (Aquarious 03°.10'):
+
+indicates that the querent
+desires to clear his debt.
+Cuspal Sub Lord
+
+## 8th Cusp (Scorpio 15°.10):
+
+The sub lord of the 8th
+cusp
+is Jupiter.
+Jupiter is in the
+star
+and
+sub of Venus.
+Jupiter occupies 5. Star lord
+and sub lord Venus is owner
+of
+2 and occupant of 11.
+Thus 8th cuspal sub lord
+Jupiter is the significator of 2,
+11 and connected with 5 and
+The cuspal sub lord of the 11th is Venus. Venus is in the star of Jupiter and
+sub of Saturn. Venus is occupant of 11 and owner of 2. Star lord Jupiter is
+the owner of 12 and occupant of 5.
+Sub lord Saturn is owner of 11 and
+202
+
+## PRASHNA JYOTISH
+
+
+
+occupant of 5. So Venus is the significator of 5, 12 and connected with 2, 5,
+11 Hence the querent will be free from debt.
+But 8th cusp sub lord Jupiter is in retrograde motion. Jupiter turns direct
+from 26-4-1980, sub lord Saturn is retrograde and turns direct from 22-5-
+1980, so querent will be free from debt after this period.
+Joint Period
+At the time of judgment (Balance dasa of Jupiter for 6Y 11M lD) the querent
+is running the joint period of Jupiter-Venus-Rahu up to 21-3-1980. As we
+have discussed above, querent will be free from debt after 22-5-1980. We have
+to check Jupiter-Venus-Jupiter (21-3-1980 to 29-7-1980).
+Dasa lord and Antra lord Jupiter is the sub lord of 8th cusp. Jupiter is strong
+significator of 2 and 11. Bhukti lord Venus is the sub lord of ll'h and
+significator of 2, 11. Thus during Jupiter-Venus-Jupiter joint period of 23-5-
+1980 to 29-7-1980, transit will agree. And debt will be cleared.
+Transit
+Sun transits in Taurus from 8-6-1980 in 2nd house and in the star of Mars,
+significator of 11. On date 22-6-1980 it transits in Gemini, in the star of Rahu,
+significator of 11. Rahu and Ketu are string than any other planet so during
+22-6-1980 to 6-7-1980 querent will be free from debt. After that Sun transit
+in Gemini from 6-7-1980 i the star of Jupiter thus definitely querent will free
+from debt. Actually querent became free from debt on July 1980.
+
+## PRASHNA JYOTISH
+
+203
+
+
+Example 49. Getting a Job
+Question. When shall I get a job ?
+Number.
+232 (out of 249).
+Time of Judgment.
+12-08-1981, Wednesday; 07-45
+
+## PM IST
+
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.29
+1110:43
+Ill 09:43
+
+## I 03:20
+
+Xll27:43
+Ke 07:10
+Xl29:43
+Mo 19:18
+
+## X 04:43
+
+
+## IX09:43
+
+Vlll10:43
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Mo
+Me
+Ju
+0
+Moon
+Ju
+Ve
+Ra
+1
+Ju
+Sa
+Sa
+0
+7
+Me
+Mars
+Me
+Ju
+Sa
+2
+Ma
+Ke
+Sa
+0
+8
+Ve
+Mercury
+Mo
+Me
+Sa
+0
+Jupiter
+Me
+Mo Ju
+3
+Ve
+Su
+Ve
+0
+9
+Ma
+Venus
+Su
+Su
+Ra
+4
+Me
+Ma
+Ve
+0
+10
+Ju
+Saturn
+Me
+Mo
+Ra
+5
+Me
+Ju
+Mo
+0
+11
+Ju
+Rahu
+Mo
+Sa
+Me
+0
+Ketu
+Sa
+Su
+Ke
+6
+Mo
+Me
+Ju
+0
+12
+Sa
+Hints
+
+## IV04:43
+
+Ma23:18
+v 29:43
+Ra 07:10
+Su 26:16
+Vl27:43
+Mo 28:41
+Vo 29:21
+
+## VII 03:20
+
+Sa 13:07
+Ju 14:33
+Stl
+Sbl
+Su
+Sa
+Ra
+Sa
+Sa
+Ve
+Ke
+Mo
+Su
+Ra
+Ma
+Ju
+If 6 or 10 cuspal sub lord becomes the significator (in the star of the occupant
+or owner) of 2 (money), 6 (job), 10 (profession), then one can get a job and
+earn money during the joint period of 2, 6, 10 significators.
+Moon
+In this horary map Moon is occupant of 10, aspected by Mars, owner of 2.
+Moon is in the star of Venus, occupant of 6. Moon is connected with job,
+profession, and money. Thus it indicates querent's desire to get job.
+Cuspal Sub Lord
+
+## lOth Cusp. (Sagittarius 04° .43):
+
+The sub lord of the lOth cusp is Moon.
+Moon is in the star of Venus and
+sub of Rahu. Moon occupies 10 and owner of 6. Star lord Venus is occupant
+of 6. Sub lord Rahu is conjoined with Sun (karaka of job), thus the sub lord
+Moon is the significator of 6 and connected with 10, so the querent will get a
+job.
+204
+
+## PRASHNA JYOTISH
+
+
+
+6th
+
+## Cusp (Cancer 27°.43'):
+
+The cuspal sub lord of the 6th is
+Jupiter. Jupiter is in the star of
+Moon and own sub of Jupiter. Star
+lord Moon is the owner of 6 and
+occupant of 10. Sub lord Jupiter is
+owner of 10, 11. So 6th cusp sub
+lord Jupier is the significator of 6,
+10 and connected with 10, 11.
+Hence the querent will get a job.
+
+## 11th Cusp (Sagittarius 29°.43'1:
+
+The cuspal sub lord of the llth is
+Rahu. Rahu is in the star of Saturn
+and sub of Mercury. Rahu is
+conjoined with Sun (karaka of job).
+Star lord Saturn is conjoined with
+Jupiter, owner of 10, 11. Saturn is
+aspects on Mars, owner of 2. Sub
+lord Mercury is occupant of 6 and
+is conjoined with Sun (karaka of job). So 11th cusp sub lord Rahu is connected
+with 2, 6, 10, 11.
+Hence the querent will get a job and his desire will be
+fulfilled.
+Ruling Planets
+Day lord
+Sign lord
+Star lord
+Day. Wednesday
+Mercury
+Asc.
+Aquarius 03°.46'
+Saturn
+Mars
+Moon. Sagittarius 19°.18'
+Jupiter
+Venus
+Ketu is in Aquarius and aspected by Mars and Jupiter, thus Ketu represents
+the ruling planet Saturn, Mars and Jupiter. Rahu is conjoined with Mercury,
+so Rahu represents Mercruy.
+Hence the ruling planets are Venus, Rahu and
+Ketu.
+
+## Significators of Job:
+
+Bllava
+2
+6
+10
+In the star of
+occupant (A)
+Sun-Mer
+Moo
+Jup-Sat
+Occupant (B)
+Mer
+Ven
+Moo
+In the star of
+owner( C)
+Jup-Sat
+Mar
+Owner( D)
+Mar
+Moo
+Jup
+Rahu represents the significator Sun, Moon and Mercury. Ketu represents the
+significator Mars, Jupiter and Saturn. Thus Rahu and Ketu are stronger than
+other significators. 1n the RPs and significator table we have Rahu, Ketu and
+Venus in common. So we consider Rahu, Ketu and Venus as the final
+significators.
+
+## PRASHNA JYOTISH
+
+205
+
+
+Ra 07:10
+Su 26:16
+Vl27:43
+Ma 28:41
+Ve29:21
+Transit
+
+## VII 03:20
+
+Sa 13:07
+Ju 14:33
+Vlll10:43
+1110:43
+
+## I 03:20
+
+
+## IX09:43
+
+)(1127:43
+Ke 07:10
+
+## X129:43
+
+Mo 19:18
+
+## X04:43
+
+Joint
+Period
+At the time of judgment
+(Balance dasa of Venus for
+llY OOM
+l8D.), the joint
+period of Venus-Rahu-Ketu is
+running till 3-10-1981.
+The joint period rulers are the
+significator of job and also in
+the ruling planets. So it is
+sure that querent will get a
+job during this joint period.
+Actually
+q ueren t
+got
+appointment latter to join a
+government job on l-10-198,
+in first week of September
+
+## 1981.
+
+On 1-10-1981 Sun transits in
+Virgo 14° on Jupiter, owner of 10-11 and in
+the star of Moon, significator of 6th. Moon transits
+in Libra
+in the star of
+Bhukti lord Rahu. Venus transits in Libra 27°.24' in own star and sub.
+206
+
+## PRASHNA JYOTISH
+
+
+
+Example SO. Purchase of Machine
+Question. I want to purchase a printing machine. Will my purchase be
+completed successfully?
+Number. 9 (out of 249).
+Time of Judgment. 27-07-1980, Sunday; 04-36 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.29
+111:26:40
+1111:32
+Ill 06:32
+Ve 29:29
+Me 23:51
+
+## XII 02:33
+
+
+## IV 01:32
+
+Su 11:06
+Ra 27:32
+
+## V28:32
+
+Ju 17:16
+Xl28:32
+Ko 27:32
+Mo 06:49
+
+## X 01:32
+
+Sa 00:08
+
+## VI 02:33
+
+Ma 16:09
+
+## IX 06:32
+
+Vlll11:32
+Vll11:26:40
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl Sbl
+Sun
+Mo
+Sa
+Su
+0
+Moon
+Sa
+Su
+Me
+1
+Ma
+Ke
+Me
+0
+7
+Ve
+Ra
+Sa
+Mars
+Me
+Mo
+Sa
+2
+Ve
+Mo
+Ma
+0
+8
+Ma
+Sa
+Mo
+Mercury
+Me
+Ju
+Sa
+0
+Jupiter
+Su
+Ve
+Mo
+3
+Me
+Mo
+Mo
+0
+9
+Ju
+Ke
+Ra
+Venus
+Ve
+Ma
+Sa
+4
+Mo
+Ju
+Ra
+0
+10
+Sa
+Su
+Ju
+Saturn
+Me
+Su
+Ra
+0
+5
+Mo
+Me
+Sa
+0
+11
+Sa
+Ma
+Sa
+Rahu
+Mo
+Me
+Ju
+0
+Ketu
+Sa
+Ma Ju
+6
+Me
+Su
+Ju
+12
+Ju
+Ju
+Ra
+Hints
+Any movable things are considered under 2nd house. 7th house indicates
+opponent; 6th indicates purchase of movable things (12th from 7th means
+opponents sell movable things) and 4th house indicates place of delivery.
+If 2nd or 6th or 4th cusp sub lord becomes the significator (in the star of the
+occupant or owner) of 6 or 11, then one can purchase movable things during
+the joint period of 6, 11. In business dealing this sub lord or its significator
+needs to be connected with 4, 7, 10, ll cusp.
+Moon
+In this horary map Moon is occupies 10 (business related matters).
+Moon is
+in the star of Sun and sub of Mercury. Star lord Sun is karaka of business,
+occupies 4 (place of delivery). Sub lord Mercury is karaka of business and
+occupies 3rd (discussion). Thus it indicates that the question is related to
+business of purchase and delivery of things.
+
+## PRASHNA JYOTISH
+
+207
+
+
+Cuspal Sub Lord
+
+## 2nd Cusp (Taurus 11°.32'):
+
+The sub lord of
+the 2nd cusp is
+Mars.
+Mars is in the star of Moon
+and sub of Saturn. Mars is occupant
+of 6. Star lord Moon is occupant of
+10 and owner of 4. Sub lord Saturn
+is owner of 10-11 and occupant of
+5 and very close to 6th cusp. So sub
+lord Mars is the significator of 4 and
+10 and connected with 6, 10, 11. So
+the querent will purchase the
+machine and transaction will be
+completed.
+
+## 6th Cusp (Virgo 02° .33):
+
+The sub lord of the 6th cusp is
+Jupiter, Jupiter is in the star of
+owner of 12. Star lord Venus is occupant
+~-----
+11 -
+11-
+.. 3-2 ___,1------+---------oo..f of 2 and owner of 2, 7. Sub
+111:26:40
+
+## XII 02 3
+
+ve29:29
+'3
+lord Moon is owner of 4 and
+Venus and sub of Moon. Jupiter is
+
+## IV 01:32
+
+Su 11:06
+Ra 27:32
+v 28:32
+Ju 17:16
+Xl28:32
+Ke 27:32
+Mo 06:49
+
+## X 01:32
+
+occupant of 10. So sub lord
+Jupiter is the significator of 2
+(machine), 7 (opponent, here
+seller) and connected
+with 4
+(place of delivery), 10 ( business
+related matters), 12 (purchase).
+So the querent will purchase
+the machine and transaction
+
+## IX08:32
+
+will be completed.
+
+## 11th Cusp (Capricorn 28° .32):
+
+
+## VJI11:26:40
+
+J'-..,-------....... ~--o-----+---VI-1_11-1:-32 __
+__,"1. The cus pal sub lord of the 11th
+fs Saturn. Saturn is in the star of Sun and sub of Rahu. Saturn is owner of
+10-11. Star lord Sun is occupant of 4th. Sub lord Rahu is occupant of 4. So
+11th cusp sub lord Saturn is the significator of 4 and connected with 10, 11.
+Hence the querent will purchase the machine and transaction will be completed.
+Joint Period
+At the time of judgment (Balance dasa of Sun for lY 5M 6D), the joint period
+of Sun-Mercury-Venus is running from 27-7-1980 to
+5-8-1980.
+All the joint period rulers are connected with 11 <h cuspal sub lord and Saturn,
+owner of 10-11 like Sun is in the star of Saturn. Mercury and Venus are in
+the sub of Saturn. Dasanath Saturn is in the star of Sun. Thus during this
+joint period querent will purchase the machine and transaction will be
+completed. The querent requires money up to 2-8-1980 and on 3-8-1980 hands
+over money and takes delivery of printing machine and installs it in his printing
+press.
+208
+
+## PRASHNA JYOTISH
+
+
+
+Transit
+On 3-8-1980 Sun transits in Cancer 1r.30' in the star of Bhukti lord Mercury.
+Moon transits in Aries 16° in the star of Sookshma dasanath Venus.
+
+## PRASHNA JYOTISH
+
+209
+
+
+Example 51. Cheating
+Question. Did a person cheat me this morning?
+Number. 203 (out of 249).
+Time of Judgment. 27-04-1975, Sunday; 06-17 PM 1ST
+Place of Judgment. 23° N 02', n• E 35', Ayanamsha 23 •. 24
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Sun
+Ma
+Ke
+Me
+Moon
+Ma
+Sa
+Me
+1
+Sa
+Mars
+Sa
+Ra
+Mo
+2
+Ju
+Mercury
+Ma
+Ve
+Sa
+Jupiter
+Ju
+Sa
+Ju
+3
+Ma
+Venus
+Ve
+Mo
+Ve
+4
+Ve
+Saturn
+Me
+Ju Ju
+5
+Ve
+Rahu
+Ma
+Sa
+Ve
+Ketu
+Ve
+Su
+Ve
+6
+Me
+Hints
+Ju 16:04
+
+## II 01:13
+
+Ma 18:34
+122:40
+Ill 05:13
+Su 13:13
+Me 23:03
+Xl29:13
+Ra 09:01
+Mo 05:42
+
+## XII 24:13
+
+
+## X 04:13
+
+Stl
+Sbl
+0
+Cusp
+0
+Mo
+Su
+0
+7
+Ju
+Ma
+0
+8
+0
+Ke
+Ma
+0
+9
+Su
+Sa
+0
+10
+Ma
+Sa
+0
+0
+11
+Ju
+Me
+0
+12
+
+## IV 04:13
+
+Ka 09:01
+Ve 22:28
+v 29:13
+
+## IX 05:13
+
+Sgn
+Mo
+Me
+Ve
+Ma
+Ma
+Ju
+Sa 20:17
+Vl24:13
+Vll22:40
+
+## VIII 01:13
+
+Stl
+Sbl
+Me
+Mo
+Su
+Ra
+Ma
+Su
+Sa
+Sa
+Me
+Sa
+Ve
+Me
+1)
+12th house indicates cheating. Mercury and Saturn must be involved in
+Sa 20:17
+
+## V124:13
+
+Vll22:40
+210
+Ill 05:13
+Su 13:13
+Me 23:03
+
+## IX 05:13
+
+Ju 16:04
+
+## II 01:13
+
+122:40
+cheating
+cases.
+Saturn
+indicates
+dishonesty
+and
+Mercury
+indicate
+force,
+cleverness, logic.
+2) If 12th cuspal sub lord
+becomes the significator (in the
+star of the occupant or owner)
+of 5 (11th from 7th), 8 (2nd from
+7th/
+monetary
+gain
+to
+opponent) and be connected
+with Saturn and Mercury,
+there is a chance that one can
+be cheated.
+3) Cheating will happen during
+the
+joint
+period
+of
+the
+significators of 5, 8, 12.
+
+## PRASHNA JYOTISH
+
+
+
+Moon
+In this horary map Moon is in
+the star of Saturn and sub of
+Mercury. Mercury is owner of 8th.
+Saturn is occupant of 5th and
+aspects on
+12th and Jupiter,
+owner
+of
+
+## 12.
+
+Thus
+Moon
+indicates that the question is
+related to cheating.
+Cuspal Sub Lord
+
+## 12th Cusp (Sagittarius 24°.13):
+
+The sub lord of the 12th cusp is
+Mercury. Mercury is in the star
+of Venus and sub of Saturn.
+Mercury is owner of 8th; star lord
+Venus is owner of 5th; sub lord
+Saturn is occupant of 5th. So 12th
+cusp sub lord Mercury is the
+significator of 5 and connected
+with 5, 8 and also Mercury and Saturn. It is therefore certain that the querent
+will be cheated.
+Joint Period
+Incident happened on 27-4-1975 morning. At that time the joint period of
+Saturn-Mercury-Mercury was running. Dasanath Saturn is in the star and sub
+of Jupiter. Jupiter is owner of 12. Thus Saturn is the significator of 12. We
+have already discussed about Bhukti lord and Antra lord Mercury, significator
+of 5 and 8. So it is clear that the querent was cheated definitely.
+
+## PRASHNA JYOTISH
+
+211
+
+
+Example 52. Missing Brother
+Question. My elder brother is missing from home, Will he come back home?
+Number: 125 (out of 249).
+Time of Judgment. 18-03-1971, Thursday; 08-25 AM IST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.21'
+
+## IX 00:00
+
+
+## X129:13
+
+Sa 25:29
+Me14:20
+
+## X 29:13
+
+Su 03:31
+
+## VIII 02:13
+
+
+## VII 01:13
+
+Ra 28:35
+Ve 23:04
+
+## VI 00:13
+
+v 29:13
+Ju 13:04
+
+## IV 29:13
+
+Ma10:05
+Mo 10:04
+Ill 00:00
+Planet
+Sgn Stl
+Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Ju
+Sa
+Sa
+0
+Moon
+Ma
+Sa
+Ve
+1
+Su
+Ke
+Ve.
+0
+7
+Sa
+Mars
+Ju
+Ke
+Sa
+2
+Me
+Su
+Ju
+0
+8
+Ju
+Mercury Ju
+Sa
+Ra
+3
+Ve
+Ma
+Me
+0
+9
+Ma
+Jupiter
+Ma
+Sa
+Ra
+0
+Venus
+Sa
+Mo
+Su
+4
+Ve
+Ju
+Su
+0
+10
+Ma
+Saturn
+Ma
+Ve
+Me
+5
+Ma
+Me
+Sa
+0
+11
+Ve
+Rahu
+Sa
+Ma
+Sa
+0
+Ketu
+Mo
+Me
+Sa
+6
+Sa
+Su
+Ra
+0
+12
+Mo
+Hints
+
+## XII 00:13
+
+Ka 28:35
+
+## I 01:13
+
+
+## II 02:13
+
+Stl
+Sbl
+Ma
+Me
+Ju
+Ra
+Ke
+Ke
+Su
+Ma
+Ma
+Sa
+Ju
+Mo
+For a missing person it always needs to change the Lagna/ Ascendant connected
+to the missing person.
+Consider the houses 3, 9 and 12 for the missing person, counting from his or
+her Ascendant and the houses 2, 8 and 11 (being 12 to 3, 9 and 12) are for
+returning home.
+If the cuspal sub lord of 12th house becomes the significator (in the star of the
+occupant or owner) of 3, 9 or 12, a person runs away during the joint period
+of the significators of 3, 9 and 12.
+If the cuspal sub lord of 11 lh house becomes the significator (in the star of the
+occupant or owner) of 2, 8 or 11, a person returns home during the joint
+period of the significators of 2, 8 and 11.
+Moon
+In this horary map querent asks about his elder brother, so we consider 11th
+cusp as elder brother's Asc. and proceed. For convenience each house counted
+from the ll th cusp. Moon is owner of 12 (separation from family) of elder
+brother.
+Moon is in the star of Saturn, occupant of 9 (unknown place) of
+212
+
+## PRASHNA JYOTISH
+
+
+
+
+## IX 00:00
+
+Sa 25:29
+
+## X 29:13
+
+elder brother and sub lord of
+Venus, owner of 3 (away from
+home) and 11 (reunion) of the
+elder
+brother.
+Thus
+Moon
+indicates that the question is
+about the missing of elder
+brother from home.
+Cuspal Sub Lord
+12th Cusp of elder brother
+
+## (Cancer 00°.13):
+
+The sub lord of the 12th cusp is
+Moon. As discussed above, Moon
+is the significator of 9th and
+connected with 3, 12. No planets
+are in retrograde motion. So the
+12th
+cusp
+sub
+lord
+Moon
+indicates missing of the elder
+brother.
+11th Cusp of elder brother.
+
+## (Taurus 29° .13'):
+
+The cuspal sub lord of the
+ll'h is Saturn. Saturn is in
+f-------...;:,of------+.:;...-------+ the star of Venus and sub of
+
+## XII 00:13
+
+Ke 28:35
+Ra 28:35
+Ve23:04
+
+## VI 00:13
+
+Mercury. Star lord Venus is
+owner of 11; Sub lord Mercury
+is owner of 2 and occupant of
+
+## 8. So
+
+11th cusp sub lord
+t----------::ol-------+..---------+ Saturn is the significator of 11
+
+## IV 29:13
+
+11100:00
+and connected with 2, 8. No
+planets are in retrograde
+motion.
+Hence the querent's
+v 29:13
+Ju 13:04
+elder brother will come back
+JIC--------+------t--M-o_1_o:_o4 ___
+_....:"'1. home for sure.
+Joint Period
+1) At the time of judgment, (Balance of dasa of Saturn for 9Y 4M 36D), the
+joint period of Saturn-Venus-Mercury is running.
+All the joint period rulers are the significators of 3, 9 12. Dasanath Saturn is
+in the star of Venus, owner of 3rd. Bhukti lord Venus is in the star of Moon,
+owner of 12th. Antra lord Mercury is in the star of Saturn, occupant of 9th.
+Sookshma dasanath Mars is in the star of Ketu, occupant of 12th and sub of
+Saturn, owner of 9th.
+The querent's elder brother is missing since 16-3-1971, Tuesday, during this
+joint period.
+2) At the time of judgment joint period of Saturn-Venus is running; both period
+lords are the significators of 2, 8, 11. Saturn is in the star of Venus, owner
+of 11 and in the sub of Mercury, occupant of 8 and owner of 2nd.
+
+## PRASHNA JYOTISH
+
+213
+
+
+Bhukti lord Venus is in the star of Moon and conjoined with Jupiter, owner of
+
+## 8. Its sub lord Sun is occupant of 8th. Thus during joint period of Saturn-
+
+Venus his elder brother will come back home. Dasa nath or Bhukti nath , its
+star and its sub are not in retrograde motion.
+At the time of judgment Antra lord Mercury is not in the star of owner or
+occupant of 2, 8, 11, so Mercury Antra lord does not indicate return of his
+elder brother. Next Antra is Ketu.
+Ketu is in the star of Mercury and sub of
+Saturn. Mercury is owner of 2 and occupant of 8. Thus during the joint period
+of Saturn-Venus-Ketu from 31-5-1971 to 7-8-1971 his brother will come back
+home.
+Transit
+During this period Sun transits from Taurus to Cancer; it means that Sun
+travels only in the star of dasa nath Saturn. On 24-7-1971 Saturday Sun was
+transiting in Cancer or .30' in the star of dasa nath Saturn and sub of Antra
+lord Ketu. So his brother will come back on that day.
+After a long time I was informed that his brother did come back as predicted
+on 24-7-1971.
+214
+
+## PRASHNA JYOTISH
+
+
+
+Example 53. Return of Absconding Son
+Question. My son has absconded, when will he return?
+Number.91 (out of 249).
+Time of Judgment. 21-10-1972, Saturday; 09-50 AM IST
+Place of Judgment. 23o N 02', no E 35', Aynamsha 23o .22'
+Mo 15:13
+
+## IV06:55
+
+Ill 09:20
+
+## II 09:55
+
+
+## V06:55
+
+
+## VI 08:55
+
+Sa[R]26:54
+Ra 27:42
+Me 23:55
+
+## I 09:55
+
+
+## XI 08:55
+
+
+## VII 09:55
+
+Ke 27:42
+
+## VIII 09:55
+
+
+## IX09:20
+
+Vo 25:03
+
+## X 06:55
+
+Ma19:48
+~----------------~----------------~~J~u~09=:5=2--LX~II~0~8:~55 ____ LS~u~04~:~~---L----~
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+(i
+Cusp Sgn
+Stl Sbl
+Sun
+Ve
+Ma
+Ve
+(i
+Moon
+Ju
+Sa
+Ju
+1
+Ju
+Ke
+Sa
+(i
+7
+Me
+Ra
+Ju
+Mars
+Me
+Mo
+Ke
+2
+Sa
+Su
+Ve
+(i
+8
+Mo
+Sa
+Ve
+Mercury
+Ve
+Ju
+Me
+(i
+9
+Su
+Ke
+Sa
+Jupiter
+Ju
+Ke
+Sa
+3
+Sa
+Ra
+Ju
+(i
+Venus
+Su
+Ve
+Me
+4
+Ju
+Sa
+Me
+(i
+10
+Me
+Su
+Me
+Saturn[R] Ve
+Ma Ju
+5
+Ma
+Ke
+Ra
+(i
+11
+Ve
+Ra
+Ra
+Rahu
+Ju
+Su
+Mo
+(i
+Ketu
+Me
+Ju
+Ve
+6
+Ve
+Su
+Ve
+(i
+12
+Ma
+Sa
+Ve
+Moon
+In this horary map the father asked the query about his son. So consider the
+5'h cusp (Sagittarius 09° .55') as the Asc. of the son and proceed. For
+convenience each house counted from the 5'h cusp.
+Moon is in the star of Saturn and sub of Jupiter. Star lord Saturn owns 2
+and 3; it is in the sub of Jupiter occupying the cusp of 12 and near to the
+son's Asc. So Moon is the significator of 2 (return of the son), 3 (running
+away of the son) and connected with the son's Asc(Self), 12(Missing person).
+Hence Moon clearly shows that the query is regarding the return of the son
+who ran away from home.
+Cuspal Sub lord
+
+## Son's Cusp 111h (Libra 06°.55'):
+
+It is jointly ruled by Venus (sign lord), Rahu (star lord) and Rahu (sub lord).
+Venus is in its own star and Mercury sub. Venus owning 11 and occupying 9;
+sub lord Mercury owning 7 and occupying 11 (Reunion). So Venus is the
+significator of 11 (reunion), 9 (long tour) and connected with 7 (breakingjourney)
+and 11 (reunion). This means that the son must come from long tour by
+
+## PRASHNA JYOTISH
+
+215
+
+
+breaking journey towards home for
+reunion.
+Rahu is in the star of Sun and sub
+of Moon. Star lord Sun is near to
+cusp 11 and sub lord Moon owning
+
+## 8. So Rahu is the significator of II
+
+and connected with 8. This promises
+the return of the son for reunion.
+
+## Son's Asc (Sagittarius 09°.5 5):
+
+It is jointly operated by Jupiter (sign
+lord), Ketu (star lord) and Saturn
+(sub lord).
+The sign lord of the son's Asc.
+Jupiter is in the star of Ketu in 7
+(being in Gemini represents Mercury
+in 11); it is in the sub Saturn owning
+
+## 2. So Jupiter is the significator of 7,
+
+11 and connected with 2. Hence the son is on his way to home by breaking
+journey. Jupiter's sub lord Saturn being retrograde the son cannot run away
+but return homewards.
+The star lord of the son's Asc. Ketu is in the star of Jupiter and sub of venus,
+Ketu occupies 7; it is in the star Jupiter owning and occupying the Asc (near
+to Asc). Sub lord Venus owning 11 and occupying 9. So Ketu is the significator
+of 1 and connected with 9, 11 and 7. Hence the son is on his way to home
+from long tour by breaking journey.
+The sub lord of the son's Asc. Saturn is in the star of Mars and sub of Jupiter.
+~-------+------+-------7'1" Saturn owns 2, star lord Mars
+
+## VI 09:55
+
+y 06:55
+Mo 15:13
+sa[RJ26:54
+lvos:55
+owning 12; it is in the sub
+Jupiter owning and occupying
+the Asc. So it is the significator
+t-'-7--------"1------5-t'-------_,.3 of 12 and connected with 1.
+
+## VIII 09:55
+
+
+## II 09:55
+
+This means that the son had
+run away from house at the
+time of judgment.
+As Saturn is retrograde the son
+t---------;;Jt------;.:;:--------'+
+2 cannot abscond any further,
+
+## IX 09:20
+
+Ve 25:03
+
+## X 06:55
+
+Ma 19:48
+Me23:55
+
+## XI 06:55
+
+su 04:30
+
+## XII 08:55
+
+Ra 27:42
+
+## I 09:55
+
+Ju 09:52
+but he must turn back.
+Son's Cusps 2nd (Capricorn
+
+## 1 09° .55):
+
+1a
+11 12
+~------~+-----~-------~The sub lord of 2nd cusp is
+Venus which is the significator of 12 as previously discussed.
+
+## Son's Cusps 8th (Cancer 09°.55'):
+
+The sub lord of the 8th cusp is Venus. Hence the position will be the same as
+above.
+Thus the son's 11 '\ Asc, 2 and 8 cusps all promise return of the son for
+reunion.
+216
+
+## PRASHNA JYOTISH
+
+
+
+Joint Period
+At the time of judgment (Balance of Saturn for 9Y 4M 36D) the querent's son
+is running the joint period of Saturn, Jupiter, Saturn and Ketu which expires
+on 27-10-1972.
+These joint period rulers are the significators of 2 and 11 and they are the
+cuspal joint rulers of the son's Asc.
+Saturn the sub lord of the son's Asc. and the Antra lord is retrograde. So the
+son is returning homewards from long tour is indicated by Ketu the sookshma
+lord as previously discussed.
+After Ketu the sookshma of Venus follows from 27-10-1972 and last up to 21-
+11-1972. Venus is the strong significator of 11 as already mentioned in the
+earlier paragraphs. Moreover, it is the sign lord of 11 cusp and the sub lord
+of 2 and 8. So the querent's son must return home during the joint period of
+Saturn, Jupiter, Saturn and Venus.
+Transit
+It was learnt from the querent's latter that his son returned home on 2-11-
+1972 Thursday at 11-45 AM IST
+At this time Sun was transiting in Libra 16°.33' in the sub Venus (the sookshma
+lord); Moon in Virgo 04°.28' in the sub Saturn (the Dasa and Antra lord); and
+Venus in Virgo 09°.09' in its own sub Venus.
+
+## PRASHNA JYOTISH
+
+217
+
+
+Example 54. Return of Absconding Son
+Question.
+My son has absconded, when will he return?
+Number. 50 (out of 249).
+Time of Judgment. 21-04-1974, Sunday; 15-20 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.24'
+Planet
+Sgn Stl
+Sbl
+Cusp Sgn
+Stl
+Sun
+Ma
+Ke
+Ju
+Moon
+Ju
+Me
+Ra
+1
+Ve
+Ma
+Mars
+Me
+Ra
+Ra
+2
+Ma
+Sa
+Mercury Ju
+Me
+Ma
+3
+Ju
+Ke
+Jupiter
+Sa
+Ra
+Ve
+Venus
+Sa
+Ju
+Sa
+4
+Sa
+Su
+Saturn
+Me
+Ra
+Ra
+5
+Sa
+Ma
+Rahu
+Ma
+Me
+Sa
+Ketu
+Ve
+Ma
+Sa
+6
+Ju
+Ju
+Sbl
+Mo
+Ve
+Me
+Me
+Ke
+Ra
+
+## VII 06:18
+
+Su 07:36
+\
+Ra28:40
+Vlll10:18
+Ke 28:40
+1110:18
+
+## I 06:18
+
+0
+~usp Sgn
+0
+0
+
+## 7.
+
+Ma
+0
+8
+Ve
+0
+9
+Me
+0
+0
+10
+Mo
+0
+11
+Su
+0
+
+## I
+
+0
+12
+
+## M~
+
+Sa 06:49
+Ma 07:17
+
+## IX 12:33:20
+
+
+## X 06:18
+
+
+## XI 02:18
+
+
+## XII 02:18
+
+Stl Sbl
+Ke
+Ra
+Mo
+Mo
+Ra
+Me
+Sa
+Me
+Ke
+Ve
+Su
+Ju
+Moon
+\
+In this horary map the father asked the query about his son. So consider the
+5th cusp (Libra 06°. 18') as the Asc. of the son and proceed. For convenience
+
+## X 06:18
+
+
+## XI 02:18
+
+
+## VUI10:18
+
+Ke 28:40
+
+## VII 06:18
+
+Su 07:36
+
+## I 06:18
+
+1110:18
+Vo22:03
+Ju 16:08
+v 02:18
+
+## IV 06:18
+
+11112:33:20
+each house counted \from the
+5th cusp.
+Moon is in the star of Mercury
+and sub of Rahu. Star lord
+Mercury is owner 9 and 12
+(missing person); it is in the
+sub Rahu occupying 2 (return
+of the son). Hence Moon clearly
+shows
+that the
+query is
+regarding the return of the son
+who ran away from home.
+
+## Cuspal Sub lord :
+
+
+## Son's 11th Cusp(Leo 02°.18):
+
+11th cusp sub lord is Venus.
+Venus is in the star of Jupiter and sub of Saturn. Venus is owner of l, 8
+218
+
+## PRASHNA JYOTISH
+
+
+
+(return of the son). Star lord Jupiter
+is conjoined with Venus, owner of l
+and 8 (return of the son). Jupiter
+aspects on Mars owner of 2nd
+(family), and father's 11 (reunion).
+Thus Jupiter is connected with son's
+2th
+and 8th.
+Sub lord Saturn
+occupies 8 (return of the son).
+Sa turn is conjoined with Mars,
+owner of 2 for son and owner of 11
+for father. Thus Saturn is connected
+with 2, 8. So Venus is connected
+with 2 and 8. This means that the
+son should come back home and
+reunite with father.
+Joint Period
+At the time of judgment (Balance
+dasa of Mercury for SY 2M 3D). the querent's son is running the joint period
+of Mercury-Rahu ending on 9-7-1974. Both Mercury's sub lord Mars and Rahu's
+sub lord Saturn are connected with 2, 8. Thus his son will come back home
+before 9-7-1974.
+At the time of judgment Mercury-Rahu-Moon joint period is
+running up to 16-5-1974. Moon is the significator of 9 and 12, so we will
+check the next Mars Antra which starts from 16-5-1974 to 9-7-1974. Mars is
+occupant of 2 (family), and father's 11 (reunion). Mars is in the sub of Rahu
+and Rahu is the strong significator of 2nd. Rahu is in Scorpio, so represents
+Mars. Mars is also in the star and sub of Bhukti nath Rahu.
+Mars is the strong indicator of reunion with family and family happiness. Thus
+Mars indicates return of son back home. So during the joint period of Mercury-
+Rahu-Mars son will come back home.
+At the time of judgment Sun is in Aries.
+Sun later enters into Taurus and
+Gemini in the 8th house of son. During the period 8-6-1874 to 21-6-1974 Sun
+transits from Taurus 23°.26' to Gemini 06° .00' in the star of Mars, the Antra
+nath. During the period 21-6-1974 to 5-7-1974 Sun transits in Gemini 06° .49'
+to 19°.13' in the star of Rahu, the Bhukti nath. In the sub lord theory we
+consider nodes stronger than other planets. So we consider the time when
+Sun transits in the star of Rahu. Tthus during this joint period 22-6-1974 to
+5-7-1974 his son will come back.
+Actually on 23-6-1974 the querent's son came back home. At that time the
+joint period running was Mercury-Rahu-Mars-Ketu during 20-6-1974 to 23-6-
+
+## 1974. Sookshama dasanath Ketu is in the star of Mars and sub of Saturn. So
+
+Ketu is the strong significator of 2, 8.
+Transit
+On 23-6-1974 Sun was transttmg in Gemini 08°. 36' in the star of Bhukti
+nath Rahu. Moon was transiting in Cancer 26° in the star of Dasanath Mercury.
+Mercury was transiting in Gemini 19° in the star of Rahu. Rahu was transiting
+in Scorpio 25°.19' and Ketu was transiting in Cancer 25°.19' in the sub of
+Rahu. Mars was transiting in Cancer 15° in the star of Saturn, significator of
+2 and 8.
+
+## PRASHNA JYOTISH
+
+219
+
+
+Example 55. Return of Runaway Son
+Question.
+My son has run away from home, when will he return?
+Number. 200 (out of 249).
+Time of Judgment. 13-06-1980, Friday; 10-30 PM IST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.29'
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sun
+Ve
+Ma Sa
+1
+Ve
+Ma
+Moon
+Me
+Ra
+Ju
+Mars
+Su
+Ve
+Sa
+2
+Me
+Ju
+Mercury
+Me
+Ju
+Sa
+3
+Mo
+Me
+Jupiter
+Su
+Ke
+Sa
+Venus[R] Me
+Ma
+Me
+4
+Su
+Ve
+Saturn
+Su
+Su
+Su
+5
+Ve
+Ma
+Rahu
+Mo
+Me
+Sa
+6
+Ma
+Ju
+Ketu
+Sa
+Ma Sa
+Ke 29:42
+
+## IX 17:46:40
+
+
+## XI 01:15
+
+Vll25:15
+
+## XII 00:15
+
+125:15
+Su 29:19
+Vlll20:15
+
+## VI 00:15
+
+
+## V 01:15
+
+Sbl
+0
+Cusp Sgn
+Ra
+0
+7
+Ma
+0
+Ju
+0
+8
+Ju
+Me
+0
+9
+Sa
+0
+Me
+0
+10
+Sa
+0
+Me
+0
+11
+Ma
+Mo
+0
+12
+Ve
+Ve[RJ 01:51
+Mo 10:12
+1120:15
+Me23:45
+11117:46:40
+Ra 29:42
+Ju 10:02
+Ma22:24
+
+## IV 25:15
+
+Sa 27:07
+Stl
+Sbl
+Me
+Ra
+Ve
+Ju
+Mo
+Me
+Ju
+Me
+Ke
+Ve
+Su
+Ra
+~----------~-~-oo-:1-5-r----------~--------------~~oon
+125:15
+~
+01
+'
+15
+In this horary map the father
+Su 29:19
+asked the query about his son.
+So consider the 5th cusp as the
+t-~~~------~t---------~~-------------+Asc. of the son and proceed.
+For convenience each house
+counted from the 5th cusp.
+
+## X25:15
+
+11117:46:40
+Ra 29:42
+Ke 29:42
+
+## IX 17:46:40
+
+Moon is occupant of father's 5
+-1--------------71--------k----------+ and conjoined with Venus,
+owner of father's 5th. Thus it is
+
+## VIII20:15
+
+clesr that the question is
+related to son. Moon is in the
+
+## V01:15
+
+Vll25:15
+star of Rahu and sub of
+
+## VI 00:15
+
+JL-----------1-----------1-------------::.t.. Jupiter. Rahu and Jupiter are
+occupant of sons's 3 (runaway). Thus question is related to the runaway son.
+220
+
+## PRASHNA JYOTISH
+
+
+
+Cuspal Sub lord
+
+## Son's 11th Cusp (Aries 01°.15'):
+
+11th cusp sub lord is Venus. Venus
+is in the star of Mars and sub of
+Mercury . Venus owns 1 and
+
+## 12.
+
+Venus is retrograde, so son will not
+runaway but he will come back.
+Star lord Mars is owner of 11
+(reunion) for son and also owner of
+11 for father. Sub lord Mercury is
+occupant and owner of 2 (family).
+Thus 11th cusp sub lord Venus is
+the significator of 11 for both of son
+and father and connected with
+son's 2. This means that the son
+should come back home and have
+reunion with father. The cuspal sub
+lord Venus is in retrograde motion
+and will turn into direct motion from 7-7-1980. So son will come back after 7-
+7-1980.
+Joint Period
+At the time of judgment (Balance dasa of Rahu for 13Y 2M 23D), the querent's
+son is running the joint period of Rahu-Jupiter- Rahu- Rahu. which ends on
+21-06-1980.
+Joint period of Rahu-Jupiter- Rahu-Jupiter is from 21-6-1980 to 8-7-1980. Rahu
+is in the star of Mercury and sub of Saturn. Rahu is Asc. sub lord of son.
+Star lord Mercury is owner and occupant of 2. Sub lord Saturn is owner of
+father's Asc and 2. Thus Rahu is the strong significator of father and son's 2.
+So reunion of son and father is sure.
+Jupiter is in the star of Ketu and sub of Saturn. Jupiter is owner of 8 and
+star lord Ketu is in Capricorn sign. So Ketu represents Saturn. Thus Ketu
+signifies father's 2nd. Thus Jupiter indicates son's reunion with father.
+Son's ll'h cusp sub lord Venus will turn into direct motion from date 7-7-
+
+## 1980. So his son will come back home during the joint period of Rahu-Jupiter-
+
+Rahu- Jupiter up to 8-7-1980 when transit agrees.
+Transit
+On 7-7-1980 Sun was transttmg in Gemini 22° in the star of bhukti lord and
+sokashma dasanath Jupiter and also in 2nd house. Moon was transiting in
+Aries in the 11th house of son. So during the joint period of Rahu-Jupiter-
+Rahu- Jupiter his son will come back.
+Actually on 8-7-1980 his son came back home. At that time Jupiter was
+transiting in Leo 13°.48' in the star of Venus (son's Asc sub lord).
+
+## PRASHNA JYOTISH
+
+221
+
+
+Example 56. Return of Runaway Son
+Question. on 26-8-1980, My son run away from home without informing me.
+When will he return?
+Number. 201 (out of 249).
+Time of Judgment. 07-09-1980, Sunday; 08-35 AM 1ST
+Place of Judgment. 23° N 02', no E 35', Ayanamsha 23°.29'
+
+## XI 02:35
+
+
+## XII 01:35
+
+1121:35
+126:35
+Ve 05:44
+11119:40 .
+Ra 25:11
+Mo25:34:30
+
+## X27:35
+
+Su 21:09
+Ju 25:53
+
+## IV 27:35
+
+Ke 25:11
+
+## IX 19:40
+
+Mo 01:14
+Sa 04:44
+Vll26:35
+Ma12:16
+Vlll21:35
+
+## VI 01:35
+
+v 02:35
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn Stl
+Sbl
+Sun
+Su
+Ve
+Ju
+0
+Moon
+Mo
+Me
+Ra
+1
+Ve
+Ma
+Ju
+0
+7
+Ma
+Me
+Ju
+Mars
+Ve
+Ra
+Sa
+2
+Me
+Ju
+Ju
+0
+8
+Ju
+Ve
+Ju
+Mercury
+Me
+Su
+Ju
+3
+Mo
+Me
+Ve
+0
+9
+Sa
+Mo
+Ke
+Jupiter
+Su
+Ve
+Me
+0
+Venus
+Mo
+Sa
+Me
+4
+Su
+Su
+Mo
+0
+10
+Sa
+Ju
+Ve
+Saturn
+Me
+Su
+Sa
+5
+Ve
+Ma
+Ke
+0
+11
+Ma
+Ke
+Ve
+Rahu
+Mo
+Me
+Ra
+0
+Ketu
+Sa
+Ma
+Ra
+6
+Ma
+Ju
+Ra
+0
+12
+Ve
+Su
+Ju
+Moon
+In this horary map the father asked the query about his son. So consider the
+5th cusp (Taurus 26°.35') as the Asc. of the son and proceed. For convenience
+each house counted from the 5th cusp.
+Moon is owner and occupant of 3 (away from home). Moon is in the star of
+Mercury and sub of Rahu. Star lord Mercury is owner of 2 (family). Sub lord
+Rahu is occupant of 3. Thus Moon indicates that question is related to his
+missing son's return home.
+Cuspal Sub Lord
+
+## Son's 11th Cusp (Aries or .35):
+
+11th cusp sub lord is Venus. Venus is in the star of Saturn and sub of Mercury.
+Venus is owner of I (self) and occupant of 2 (family). Star lord Saturn is owner
+of 1 (self) and 2nd (family) for father, and also conjoined with Mercury, owner
+of 2nd (family) for son. Sub lord Mercury is owner of 2 (family). Thus 11th cusp
+sub lord Venus is the significator of 1 and 2 for son and father. So his son's
+222
+
+## PRASHNA JYOTISH
+
+
+
+coming back home and reunion
+with father is
+promised.
+
+## SON'S 2nd Cusp (Gemini 21°.35'):
+
+2nd cusp sub lord is Jupiter. Jupiter
+is in the star of Venus and sub of
+Mercury. Jupiter is owner of 8
+(return home). Star lord Venus is
+occupant of 2 (family). Sub lord
+Mercury is owner of 2 (family).
+Thus 2nd cusp sub lord Jupiter is
+the significator of 2 and connected
+with 8. So his son should
+come
+back home and reunion with father
+is promised.
+
+## 8th Cusp (Sagittarius 21 °.35'):
+
+The sub lord of the 8th cusp is
+Jupiter. Hence the posltlon Wlll be the same as above.
+Vo05:44
+11119:40
+Re 25:11
+Mo25:34:30
+
+## XII 01:35
+
+126:35
+
+## XI 02:35
+
+Ko 25:11
+
+## IX 19:40
+
+Joint Period
+At the time of judgment
+(Balance dasa of Mercury for
+5Y 7M 21D), the querent's son
+is running the joint period of
+Mercury- Rahu-Venus-Jupiter
+from 30-8-1980 to 20-9-1980.
+Dasa nath Mercury is in the
+star of Sun and sub of
+Jupiter. Mercury is owner of
+Su 21:09
+Ju 25:53
+
+## IV27:35
+
+v11121 ,35
+
+## 2. Star lord Sun is conjoined
+
+Me12:16
+
+## V02:35
+
+Bhukti nath is Rahu. Rahu is in the star
+Rahu is the significator of 2.
+with Jupiter, owner of8. Sub
+lord Jupiter is owner of 8.
+Thus
+Mercury
+is
+the
+significator of 8.
+of Mercury and sub of own and
+Antra nath is Venus and as we have discussed above Venus is the significator
+of2 and sub lord of 11th cusp.
+Sookshama dasa nath is Jupiter and we have already discussed about Jupiter.
+Jupiter is the significator of 8 and sub lord of 2nd and 8th cusps.
+In this situation his son will come back home during the same joint period
+(up to 20-9-1980). Actually his son came back home during the same period.
+
+## PRASHNA JYOTISH
+
+223
+
+
+Example 57. Constructing the Building
+Question. Will I be successful in constructing a building in a Co-operative
+society?
+Number. 15 (out of 249).
+Time of Judgment. 26-05-1971, Wednesday; 08-46 AM IST
+Place of Judgment. 23° N 02', 72° E 35, Ayanamsha 23°.21'
+Ve 15:51
+Sa 03:43
+Me 17:03
+Su 10:54
+120:06:40
+1118:36
+Xll11:36
+
+## XI 06:36
+
+Re 24:55
+Ma 17:18
+
+## X 08:36
+
+Vlll18:36
+
+## IX 13:36
+
+Ju[R) 07:53
+Vll20:06:40
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Ve
+Mo
+Mo
+0
+Moon
+Me
+Ma
+Ke
+1
+Ma
+Ve
+Ju
+0
+7
+Ve
+Mars
+Sa
+Mo
+Sa
+2
+Ve
+Mo
+Me
+0
+8
+Ma
+Mercury
+Ma
+Ve
+Mo
+3
+Me
+Ra
+Me
+0
+9
+Ju
+Jupiter[R] Ma
+Sa
+Ke
+0
+Venus
+Ma
+Ve
+Su
+4
+Mo
+Sa
+Ve
+0
+10
+Sa
+Saturn
+Ve
+Su
+Sa
+5
+Su
+Ke
+Ra
+0
+11
+Sa
+.Rahu
+Sa
+Ma Ra
+0
+Ketu
+Mo
+Me
+Ra
+6
+Me
+Mo
+Ma
+0
+12
+Ju
+Hints
+Mo01:57
+11113:36
+
+## IV 08:36
+
+Ke 24:55
+
+## V06:36
+
+Vl11:36
+Stl Sbl
+Ju
+Ju
+Me
+Ke
+Ve
+Ve
+Su
+Ve
+Ma
+Mo
+Sa
+Mo
+If the cuspal sub lord of the 4th (land/building) be the significator (in the star
+of the occupant or owner) of 4 (land/building), 11 (success/fulfillment of desire)
+or 12 (investment), one will have his own building during the joint period of
+the significators of 4, 11 and 12 houses.
+Both sub lord and its star lord must be in direct motion.
+Moon
+In this horary map Moon is in the star of Mars and sub of Ketu. Moon owns
+4; its star lord Mars aspects the 4th; its sub lord Ketu is in 4. So Moon is the
+significator of 4 (building) and connected with Mars (land or building) and 4.
+Hence it clearly shows that the query is about the building or house.
+Cuspal Sub Lord
+
+## 4th Cusp (Cancer 08°.36'):
+
+The sub lord of the 4th cusp is Venus. Venus is in the star of own and sub of
+Sun. Star lord Venus is in 12 and aspected by Mars. sub lord Sun, which is
+224
+
+## PRASHNA JYOTISH
+
+
+
+aspected by the owner of 12
+Jupiter.
+So
+Venus
+is
+the
+significator of 12 (investment)
+and connected with Mars (land or
+building), and 12. Neither the
+cuspal sub lord Venus nor its
+star lord is retrograde. So it
+promises a building to the
+querent.
+
+## 11th Cusp (Aquarius 06° .36):
+
+The 11th house denotes society.
+So if its sub lord is connected
+with the 4th house, the querent
+will be successful in constructing
+a building in the Co-operative
+society.
+The sub lord of the 11th cusp is
+Moon. It is the significator of 4
+as mentioned above. Its star lord
+Mars is in direct motion. Moon is the fastest moving planet. So the querent
+will be successful in constructing his building in the Co-operative society very
+soon.
+Ruling Planet
+Day.
+Wednesday
+Asc.
+Gemini 19°.16'
+Day lord
+Mercury
+Sign lord
+Star lord
+Mercury
+Rahu
+Moon. Gemini 01 °.57'
+Mercury
+Mars
+Ketu is aspected by Mars. Rahu is conjoined with Mars, so both Rahu and
+Ketu represents Mars.
+None of them is in the star or sub of a retrograde
+
+## IV 08:36
+
+Ka 24:55
+Sa 03:43
+Su 10:54
+1118:38
+Va15:51
+Mo17:03
+120:06:40
+construction during their joint period.
+
+## PRASHNA JYOTISH
+
+Ra 24:55
+Ma17:18
+
+## X08:36
+
+planet. Hence the ruling
+planets are Mars, Mercury,
+Rahu and Ketu.
+Significators
+All these ruling planets are
+the significators of 4, 11 and
+
+## 12. Mars is in the star of
+
+Moon owning 4. Mercury is in
+the star ofVenus in 12. Rahu
+is in the star of Mars (land).
+Ketu is in the star of Mercury
+in 12.
+All these planets are
+in
+cardinal or movable sign. So
+they will hasten the matter of
+225
+
+
+Joint Period
+At the time of judgment (Balance dasa of Mars for 2Y 5M 210), the querent is
+running the joint period of Mars, Ketu and Venus. All these planets are the
+significator for 12, investment of money in constructing the house as discussed
+above. Joint period of Mars-Ketu has started from 14-5-1971 and continues
+up to 11-10-1971. ln between this time the Antra of Mars, Rahu and Mercury
+will pass through. Rahu being stronger than any planet should be considered
+as Antra lord.
+Mars, Ketu and Rahu will jointly operate from 15-7-1971 to 7-8-1971. So the
+querent will be successful in constructing the house in the Co-operative society
+during this time.
+Transit
+By that time Sun will be trans1tmg in Cancer through the 4th house and Mars
+will be in Capricorn 28°.31' to 24°.31' in its own star Mars (dasa lord) in
+retrograde motion.
+It was learnt from the querent in August 1971 that the construction work of
+the house had reached up to the plinth level.
+226
+
+## PRASHNA JYOTISH
+
+
+
+Example 58. Buying a House
+Question. Will I be successful in buying a house?
+Number. 131 (out of 249).
+Time of Judgment. 08-04-1979, Sunday; 11-20 AM IST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23° .28'
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Sun
+Ju
+Me
+Ra
+Moon
+Su
+Ke
+Ra
+1
+Ve
+Mars
+Ju
+Sa
+Ke
+2
+Ma
+Mercury Ju
+Ju
+Ra
+3
+Ju
+Jupiter
+Mo
+Sa
+Me
+Venus
+Sa
+Ra
+Mo
+4
+Sa
+Saturn!RI Su
+Ve
+Ve
+5
+Sa
+Rahu
+Su
+Ve
+Sa
+Ketu
+Sa
+Ju
+Sa
+6
+Ju
+Moon
+Stl
+Ra
+Sa
+Ke
+Su
+Ra
+Sa
+Su 24:21
+Vl11:15
+Ma 07:28
+Me 02:19
+Ke 22:37
+Ve18:37-
+v 11:15
+
+## IV09:15
+
+
+## VII 08:40
+
+Ill 08:15
+
+## II 08:15
+
+Sbl
+0
+0
+Ju
+0
+Ve
+0
+Ju
+0
+0
+Ve
+0
+Sa
+0
+0
+Mo
+0
+
+## VIII 08:15
+
+
+## I 08:40
+
+Cusp Sgn
+7
+Ma
+8
+Ve
+9
+Me
+10
+Mo
+11
+Su
+12
+Me
+
+## IX 08:15
+
+Ju 05:49
+
+## X 09:15
+
+Mo 06:06
+Xl11:15
+Sa[R]14:26
+Ra 22:37
+Xll11:15
+Stl Sbl
+Ke
+Ju
+Su
+Ve
+Ra
+Ra
+Sa
+Ve
+Ke
+Sa
+Mo
+Ma
+In this horary map Moon is in the star of Ketu and sub of Rahu. Star
+~-------------;----------;-------------~~Ketu is
+aspected
+by
+lord
+the
+and
+lord
+
+## VIII 08:15
+
+
+## VII 08:40
+
+immovable wealth karaka
+owner of 4 Saturn. Sub
+Ke 22:37
+ve18:37
+Rahu is conjoined with Saturn.
+t--------------""1----------t"----------v-
+11_'1_5-+ Hence it clearly shows that the
+query is regarding the building
+or house.
+Ju 05:49
+
+## X 08:15
+
+
+## IV09:15
+
+Cuspal Sub Lord
+
+## 4th Cusp (Capricorn 09°.15'):
+
+t--------------,1----------k---------------+ The sub lord of the 4th cusp is
+Venus. Venus is in the star of
+Rahu and sub of Moon. Venus
+is aspected by owner of 4
+Saturn. Star lord Rahu is
+
+## II 08:15
+
+~------------~----------~------------~~occupant of 11 and conjoined
+
+## I 08:40
+
+Xll11:15
+with Saturn. Sub lord Moon is also conjoined with Saturn. So 4th cusp sub
+
+## PRASHNA JYOTISH
+
+
+## 22.7
+
+
+
+lord Venus is the significator of 11 and connected with 4, and immovable wealth
+karaka Saturn. So it promises a building to the querent.
+
+## 11th Cusp (Leo 11 °.15):
+
+The sub lord of the 11'h cusp is Saturn. Saturn is in the star and sub of
+Venus. Saturn is in retrograde motion but will turn direct on 9-5-1979. So
+the querent will be able to buy a house after this date. Star lord and sub lord
+Venus is aspected by Saturn, occupant of 11 and owner of 4. Thus 11th cusp
+sub lord Saturn is the significator of 11 and connected with 4. So the querent
+will be successful in buying a house.
+Ruling Planets
+Day. Sunday
+Asc. Gemini 12° .07'
+Moon Leo
+
+## 06°.06'
+
+Day lord
+Sun
+Sign lord
+Mercury
+Sun
+Star lord
+Rahu
+Ketu
+Hence the ruling planets are Sun, Mercury, Rahu and Ketu.
+Significators
+Bhava
+In the star of
+Occupant (B)
+In the star of
+Owner)
+occupant (A)
+owner( C)
+4
+Mar-Jup
+Sat
+ll
+Mar-Jup
+Sat
+Sun
+Ven
+Rah
+12
+Sun
+Mer
+Ketu is conjoined with the significator Venus, so Ketu is also considered as a
+significator.
+ln the ruling planets and significators we have Sun, Mercury, Rahu and Ketu
+228
+in common.
+Joint Period
+At the time of judgment (Balance
+dasa of Ketu for 3Y 9M l7D), the
+querent is running the joint period
+of Ketu-Rahu. Both period rulers are
+the significators and also in the
+ruling planets. This joint period
+continues till 13-l-1980. So the
+querent will be successful in buying
+a house.
+ln the joint period of Ketu-Rahu first
+Antra will be Mercury. Mercury is
+in the significators and the ruling
+planets. So during this joint period
+of Ketu-Rahu-Mercury from
+12-6-
+1979 to 5-8-1979, the querent will
+be successful in buying a house.
+
+## PRASHNA JYOTISH
+
+
+
+Actually during the joint period of Ketu-Rahu-Mercury-Venus (4th cusp sub lord)
+from 22-6-1979 to 1-7-1979, the querent did purchase a house on 29-6-1979.
+Transit
+On 29-6-1979 Sun was transltmg in Gemini 13° .4' in the star of Bhukti nath
+Rahu. Moon was transiting in Leo 09°.20' in the star of Ketu (dasanath). Ketu
+was transiting in Aquarius 18°.15' in the star of Rahu. Rahu was in Leo 18°.15'
+in the star of Venus (sookshma dasa nath). Transiting Mercury was in Cancer
+
+## 09° .06' in the sub of Venus. Transiting Venus was in Taurus 28° .08' in the
+
+star of Mars.
+
+## PRASHNA JYOTISH
+
+229
+
+
+Example 59. Selling the House
+Question. When shall I be able to sell my house ?
+Number. 201 (out of 249).
+Time of Judgment. 16-10-1970, Friday; 10-15 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23 •. 20'
+Planet
+Sgn Stl
+Sbl
+Cusp Sgn
+Stl
+Sun
+Me
+Ma
+Sa
+Moon
+Ma
+Ve
+Me
+1
+Sa
+Mo
+Mars
+Me
+Su
+Sa
+2
+Sa
+Ju
+Mercury
+Me
+Mo
+Ve
+3
+Ma
+Ke
+Jupiter
+Ve
+Ra
+Su
+Venus
+Ma
+Ju
+Ra
+4
+Ve
+Su
+Saturn[R] Ma
+Su
+Mo
+5
+Ve
+Ma
+Rahu
+Sa
+Ra
+Ra
+Ketu
+Su
+Ke
+Ra
+6
+Me
+Ju
+Hints
+
+## II 27:44
+
+Ra 08:40
+119:40
+Xll21:44
+Sbl
+Ke
+Ve
+Ve
+Ju
+Ju
+Ju
+11102:44
+Mo24:26
+Sa[R]27:47
+Xl28:44
+
+## X 01:44
+
+Ve 01:35
+
+## IV01:44
+
+v 26:44 .
+Ju 18:01
+
+## IX 02:44
+
+0
+Cusp Sgn
+0
+0
+7
+Mo
+0
+8
+Su
+0
+9
+Ve
+0
+0
+10
+Ma
+0
+11
+Ma
+0
+0
+12
+Ju
+Vl21:44
+Vll19:40
+Ke 06:40
+Vlll27:44
+Ma04:18
+Me22:04
+Su 29:34
+Stl
+Sbl
+Me
+Ve
+Su
+Mo
+Ma
+Ve
+Ju
+Ra
+Me
+Ju
+Ve
+Ju
+If the cuspal sub lord of the I Oth house (land/building of opponent) be the
+1-o::~------+-------!r--------;rl significator (in the star of the
+Mo 24:26
+Vl21:44
+Vll19:40
+Ke 06:40
+Vlll27:44
+
+## IV 01:44
+
+v 26:44
+Ma 04:16
+Me22:04
+su 29:34
+sa[RJ27:47
+occupant or owner) of 3
+11102:44
+(absence of land/ building 12th
+1127:44
+Ju 18:01
+
+## IX02:44
+
+Xl26:44
+
+## X 01:44
+
+Ve 01:35
+Rao6:4o
+from
+4th),
+5
+(success/
+119:40
+Xll21:44
+fulfillment
+of
+desire
+of
+opponent, 11th from 7th) or 10
+(land/building of opponent 4th
+from 7th), one will be able to
+sell the house/land/building
+during the joint period of the
+significators of 3, 5 and 10.
+Moon
+In this horary map Moon is
+occupant of 3 (absence of
+land/building) and conjoined
+with immovable wealth karaka Saturn, and also aspected by building/land
+230
+
+## PRASHNA JYOTISH
+
+
+
+karaka Mars, the owner of 10.
+Star lord Venus is owner of 5.
+Hence it clearly shows that the
+query is regarding selling the
+house.
+Cuspal Sub Lord
+
+## 10th Cusp (Scorpio 01 °.44'):
+
+The sub lord of the lOth cusp is
+Rahu. Rahu is in the star and
+sub of own. Rahu is in Aquarius
+and so is a representative of
+Saturn, occupant of 3rd. So 10th
+cusp sub lord Rahu is the
+significator of 3. So it promises
+the sale of house to the querent.
+
+## 11th Cusp (Scorpio 26°.44'):
+
+The sub lord of the 11th cusp is
+Jupiter. Jupiter is in the star of
+Rahu and sub of Sun. Jupiter aspects on 3rd and also aspects on karaka of
+wealth Moon and Saturn. As discuss above, star lord Rahu is connected to
+
+## 3rd. Sub lord Sun is conjoined with owner of 3rd Mars.
+
+Thus 11th cusp sub
+lord Jupiter is connected with 3rd and karaka of immovable wealth. So the
+querent will sell his house and fulfill his desire.
+Significtors
+Bhava
+ln the star of
+Occupant (B)
+ln the star of
+Owner(D)
+occupant (A)
+owner( C)
+3
+Mer
+Moo
+Sun
+Mar
+Sat
+5
+Moo
+Yen
+10
+Sun
+Mar
+Thus strong significators are Mercury, Saturn, Moon and Sun.
+Joint Period
+At the time of judgment (Balance dasa of Venus for 3Y 4M 6D), the querent is
+running the joint period of Venus-Mercury. Both period lords are the
+significators. So the querent can sell his house during this joint period.
+In the joint period of Venus-Mercury first Antra will be Sun. Sun is in the
+sub of retrograde Saturn. So we omit it. Next is Moon Antra. Moon is in the
+star of dasanath and sub of Bhukti nath. So consider this period.
+Venus-Mercury-Moon period runs from 27-4-1971 to 22-7-1971. So during this
+joint period the querent's house will be sold.
+Only Saturn is left in the significators, so we consider Saturn as a Sookshma
+dasa lord. Saturn is in the sub of Antra nath Moon. Thus during Venus-
+Mercury-Moon-Saturn joint period from 3-6-1971 to 16-6-1971 the querent's
+house will be sold.
+Actually on 8-6-1971 the querent sold his house.
+
+## PRASHNA JYOTISH
+
+231
+
+
+Transit
+On 08-6-1971 Sun was transttmg in Taurus 23° .42', sign of Venus, and on
+the 4th cusp. Venus was transiting in Taurus 02".03' in the star of Sun. Mercury
+was transiting in Taurus 08°.57' in the sub of Venus. Moon was transiting in
+Scorpio on the lOth cusp. Transiting Saturn was in Taurus 05°.24' in the sub
+of Mercury.
+232
+
+## PRASHNA JYOTISH
+
+
+
+Example 60. Selling the House
+Question. When shall I be able to sell my house ?
+Number. 25 (out of 249).
+Time of Judgment. 24-l-1972 Monday; 04-35 PM 1ST
+Place of Judgment. 22° N 41, 72° E 55'. Aynamsha 23°22'
+Mo 24:13
+
+## I 03:00
+
+Sa[R] 06:16
+1129:48
+Xll25:48
+Ma25:22
+Xl19:48
+Ve16:14
+
+## X 19:48
+
+Ra 12:01
+Su 10:14
+Me 24:58
+
+## IX23:48
+
+Vlll29:48
+Ju 04:01
+
+## VII 03:00
+
+.
+Planet
+Sgn Stl Sbl
+0
+Cusp Sgn
+Stl
+Sbl
+Cusp Sgn
+Sun
+Sa
+Mo
+Mo
+0
+Moon
+Ma
+Ve
+Me
+1
+Ve
+Su
+Sa
+0
+7
+Ma
+Mars
+Ju
+Me
+Ra
+2
+Ve
+Ma
+Sa
+0
+8
+Ma
+Mercury Ju
+Ve
+Me
+0
+Jupiter
+Ju
+Ke
+Mo
+3
+Me
+Ju
+Sa
+0
+9
+Ju
+Venus
+Sa
+Ra
+Ve
+4
+Mo
+Me
+Ve
+0
+10
+Sa
+Saturn[R] Ve
+Su
+Me
+5
+0
+Sa
+Su
+Ve
+Ra
+0
+11
+Rahu
+Sa
+Mo
+Ra
+Ketu
+Mo
+Sa
+Mo
+6
+Me
+Ma
+Ra
+0
+12
+Ju
+Moon
+11123:48
+Ke12:01
+
+## IV 19:48
+
+v 19:48
+Vl25:48
+Stl
+Sbl
+Ju
+Ra
+Me
+Sa
+Ve
+Sa
+Mo
+Ke
+Ra
+Ma
+Me
+Ra
+In this horary map Moon is in the star of Venus and sub of Mercury. Moon
+owns 4 and occupies 12. Star lord Venus owns l, 2 and occupies 10.
+Sub
+lord Mercury owns 3 and 6. So Moon is the significator of 1 (self), 2 (money),
+10 (house to the buyer) and connected with 3 (parting with the house), 6
+(gain from others), 4 (house) and 12 (losing the house). Hence it clearly indicates
+that the querent intends to sell his house and to gain money there from by
+parting with the house.
+Cuspal Sub Lord
+
+## 10th Cusp (Capricorn 19° .48):
+
+The sub lord of the lOth cusp is Ketu. Ketu occupies 3. It is in the star of
+Saturn owning 10. So Ketu is the significator of 10 and connected with 3, and
+it promises the sale of the house. As the star lord Saturn is retrograde, Ketu
+cannot give the results of its star lord regarding the sale of the house.
+So let us make sure by examining the Asc. (efforts by the querent). the 11th
+cusp (success or fulfillment of desire) and the 4th cusp (building of the querent),
+if they promise sale of the house.
+
+## PRASHNA JYOTISH
+
+233
+
+
+of 3, 5 and 10.
+
+## 11th Cusp (Aquarius 19°.48'):
+
+
+## Asc. Cusp (Taurus 03°.00'):
+
+The sub lord of the Asc. is Saturn.
+It is in the star of Sun owning 5 and
+in the sub of Mercury owning 3. So
+Saturn is the significator of 5 and
+connected with 3. Hence the querent
+is sure to sell his house. But Saturn,
+the
+sub
+lord of the Asc, is
+retrograde. So the querent has to
+wait till Saturn gets direct in motion
+and crosses the original point of
+retro gradation form where it turned
+retrograde. Saturn turned retrograde
+on 13°.11' Taurus and it will cross
+this point on 5-5-1972 by direct
+motion. Hence the event of sale will
+happen only after 5-5-1972 during
+the joint period of the significators
+The sub lord of the 11th cusp is Mars. Mars is in the star of Mercury and sub
+~----
+1-03
+-,0-0-+------lf--------::rl' of Rahu. Star lord Mercury
+Sa[RJ06:1&
+Mo
+24
+'
+13
+Xll25:46
+owns
+
+## 3.
+
+Sub
+lord
+Rahu
+Ko12:01
+
+## IV 19:46
+
+v 19:46
+
+## II 29:48
+
+Ma 25:22
+Vl25:48
+Vlll29:46
+
+## VII 03:00
+
+
+## X119:48
+
+Vo16:14
+
+## X 19:46
+
+Ra 12:01
+Su 10:14
+represents Saturn owning 10.
+Rahu is in conj. with Sun and
+Sun owning 5. So Mars is the
+significator of 3 and connected
+with 5 and 10. Hence the
+querent will be able to fulfill his
+desire by selling the house.
+Mo 24,58
+
+## 4th Cusp (Cancer 19° .48):
+
+
+## IX23:46
+
+The 4th cusp is jointly ruled by
+Ju 04:01
+Moon (sign lord). Mercury (star
+lord) and Venus (sub lord).
+J&---------lf-------+----------""1.. Moon is the significator of 3
+and 10 as previously discussed. Mercury is in the star of Venus in 10 and in
+its own sub. Mercury owns 3. So it is the significator of 10 and connected
+with 3. Venus is in the star of Rahu (representing Saturn owning 10 and Sun
+owning 5) and in its own sub (Venus in 10). So it is also the significator of 5,
+10 and connected with 10. All these three planets indicate the disposal of the
+house.
+Ruling Planets
+Day lord
+Sign lord
+Star lord
+Day.
+Monday
+Moon
+Asc.
+Gemini 18°.28'
+Mercury
+Rahu
+Moon
+Aries
+
+## 24°. 13'
+
+Mars
+Venus
+234
+
+## PRASHNA JYOTISH
+
+
+
+Ketu is in Cancer, so it represents Moon. Thus the ruling planets are Moon,
+Mars, Mercury, Venus, Rahu and Ketu.
+Significators of 3, 5 and 10
+Moon, Mars, Mercury, Venus and Ketu are the significators of 3, 5 and 10 as
+discussed above. Ketu being in the star of retrograde Saturn may be omitted.
+Mars being in the sub of Rahu which is not a significator of 3, 5 and 10 may
+be omitted. Thus Moon, Mercury and Venus remain as the final significators
+of 3, 5 and 10.
+Joint Period
+At the time of judgment (Balance dasa of Venus for 3Y 8M 3D).
+As seen from the earlier paragraphs, the event of sale is to occur only after 5-
+5-1972. So by this time the joint period of Venus, Mercury and Venus will be
+current from 21-4-1972 up to 1-10-1972 and during this interval the Sookshma
+period of Moon, the significator, commences on 27-5-1972 and lasts up to 12-
+6-1972. Hence the querent will be able to sell his house during these days
+when the transit agrees with the joint period ruler or rulers.
+Transit
+lt was learnt from the querent that he received a cheque of full amount from
+the buyer on 28-5-1972 during the joint period of Venus, Mercury, Venus and
+Moon.
+On that day Sun was transiting in Taurus 14° in the star Moon (sookshma
+period ruler); Moon in Scorpio 18° in the star of Mercury (bhukti period ruler)
+and Mercury in Taurus 05°.15' in its own sub.
+
+## PRASHNA JYOTISH
+
+235
+
+
+Example 61. Selling the House
+Question. Will I be able to sell my house?
+Number. 125 (out of 249).
+Time of Judgment. 10-05-1980 Saturday; 11-05 AM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.29'
+
+## VIIOO:OO
+
+
+## IX 29:13
+
+Me 22:25
+Su 26:12
+Vlll29:13
+
+## VI 02:13
+
+Mo27:21
+Ke 01:31
+
+## V01:13
+
+
+## IV 00:13
+
+1129:13
+11129:13
+
+## I 00:00
+
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+!,)
+Cusp Sgn
+Sun
+Ma
+Ve
+Ke
+!,)
+Moon
+Sa
+Ju
+Ve
+1
+Ve
+Ma
+Me
+!,)
+7
+Ma
+Mars
+Su
+Ke
+Ju
+2
+Ve
+Ju
+Su
+!,)
+8
+Ma
+Mercury
+Ma
+Ve
+Sa
+!,)
+Jupiter
+Su
+Ke
+Ra
+3
+Ma
+Me
+Sa
+!,)
+9
+Ve
+Venus
+Me
+Ma Su
+4
+Sa
+Su
+Ra
+!,)
+10
+Mo
+Saturn[R] Su
+Su
+Su
+!,)
+Rahu
+Su
+Ke
+Ve
+5
+Sa
+Ma
+Me
+!,)
+11
+Su
+Ketu
+Sa
+Ma
+Me
+6
+Ju
+Ju
+Ra
+!,)
+12
+Me
+Moon
+Ve 05:19
+
+## X 00:13
+
+Ra 01:31
+
+## XI 01:13
+
+Ju 07:02
+Ma 08:19
+Sa[R) 26:50
+
+## XII 02:13
+
+Stl
+Sbl
+Ke
+Ke
+Su
+Ma
+Ma
+Sa
+Ju
+Mo
+Ke
+Ve
+Su
+Ju
+In this horary map Moon owns 10 and occupies 5. Moon is aspected by land
+karaka Saturn and building/house karaka Mars. Hence it clearly indicates that
+the querent intends to sell his house and to gain money there from by parting
+with the house.
+Cuspal Sub Lord
+
+## 10th Cusp (Cancer 00° .13'):
+
+The sub lord of the lOth cusp is Moon. Moon is in the star of Jupiter and sub
+of Venus. Star lord Jupiter is conjoined with owner of 3 Mars and owner of 5
+Saturn. Jupiter aspects on Moon, owner of 10. Thus 10th cusp sub lord Moon
+is connected with 3, 5, 10. So querent's desire of selling the house will be
+fulfilled.
+
+## 11th Cusp (Leo 01°.13):
+
+The sub lord of the ll'h cusp is Venus. Venus is in the star of Mars and sub
+of Sun. Star lord Mars owns 3. Sub lord Sun owns 11. So 11th cusp sub lord
+Venus is the significator of 3 and connected with 11. Hence the querent will
+236
+
+## PRASHNA JYOTISH
+
+
+
+be able to fulfill his desire by
+selling the house.
+Joint Period
+At the time of judgment (Balance
+dasa of Jupiter for 7Y 2M 15D), the
+joint period of Jupiter-Venus-Mars
+is running up to 21-5-1980. The
+joint period of Jupiter-Venus-Rahu
+is from 21-5-1980 to 15-10-1980.
+Dasanath Jupiter is in the star of
+occupant of 5 Ketu and sub of
+occupant of 11 Rahu. Bhukti nath
+Venus is sub lord of 11 and
+significator of 3. Antra nath Rahu
+is in the star of Ketu, occupant of
+
+## 5. Thus the joint period of rulers
+
+Jupiter-Venus-Rahu indicates that
+querent will be able to fulfill his desire by selling the house.
+During the above joint period from 22-6-1980 to 19-7-1980 transit Sun was
+
+## IX29:13
+
+
+## VII 00:00
+
+
+## VI 02:13
+
+Me22:25
+Su 26:12
+Vlll29:13
+Mo 27:21
+Ko 01:31
+v 01:13
+traveling in Gemini r
+to
+Cancer 4• in the star of Rahu
+and Jupiter, the significator of
+selling of the house. So during
++-------....,;:,1-------+':;;_-------f this time querent will be able
+
+## X 00:13
+
+
+## IV 00:13
+
+to fulfill his desire by selling
+the house.
+Actually his house was sold on
+25-6-1980. At that time joint
++---------:~>1-------fc::---------f period running is Jupiter-
+Venus-Rahu-Jupiter from 12-
+6-1980 to 1-7-1980.
+Transit
+
+## JL.-------1------+--...:
+
+1
+::.;
+112
+;.;;
+6
+.:.:.'
+
+## 13;;._--~ On
+
+25-6-1 9 8 0
+Sun
+was
+transiting in Gemini 10°.35' in the star of Antra nath Rahu; Moon was in
+Scorpio in the star of Jupiter dasanath. Jupiter was in Leo 11•.42' in the sub
+of significator Mercury. Venus was in Taurus 25 •. 08' in the sub of Rahu. Rahu
+was in Cancer 29°.04' in the star of significator Mercury.
+1129:13
+
+## I 00:00
+
+
+## XII 02:13
+
+
+## PRASHNA JYOTISH
+
+237
+
+
+Example 62. Selling the House
+Question. When shall I be able to sell my house? My tenant is not ready to
+vacate the house; so no one can buy my house; the only solution is for the
+tenant to buy the house.
+Number. 49 (out of 249).
+Time of Judgment. 30-07-1980 Wednesday; 08-05 AM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23 •. 29'
+
+## XI 03:45
+
+
+## XII 07:45
+
+
+## X29:45
+
+Mo 14:34
+
+## IX29:45
+
+Ke27:15
+
+## VIII 03:45
+
+Vll10:26:40
+
+## VI 07:45
+
+
+## V03:45
+
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+\)
+Cusp Sgn
+Sun
+Mo
+Sa
+Ra
+\)
+Moon
+Sa
+Ra
+Ke
+1
+Me
+Ra
+Sa
+\)
+7
+Ju
+Mars
+Me
+Mo
+Sa
+2
+Mo
+Sa
+Sa
+\)
+8
+Sa
+Mercury
+Me
+Ju
+Me
+\)
+Jupiter
+Su
+Ve
+Ma
+3
+Mo
+Me
+Sa
+\)
+9
+Sa
+Venus
+Me
+Ma
+Me
+4
+Su
+Su
+Ra
+\)
+10
+Sa
+Saturn
+Me
+Su
+Ra
+\)
+Rahu
+Mo
+Me
+Ju
+5
+Ve
+Ma
+Ve
+\)
+11
+Ma
+Ketu
+Sa
+Ma Ju
+6
+Ma
+Sa
+Ke
+\)
+12
+Ve
+Moon
+Va01:14
+110:26:40
+Me 24:21
+
+## II 03:45
+
+Su 13:36
+Ra 27:15
+11129:45
+Ju 17:45
+
+## IV 29:45
+
+Sa 00:22
+Ma17:38
+Stl Sbl
+Ke
+Sa
+Su
+Sa
+Ma
+Sa
+Ju
+Mo
+Ke
+Mo
+Su
+Ke
+In this horary map Moon is in the star of Rahu and sub of Ketu.
+Star lord
+Rahu is in Cancer, so represents Moon, owner of 2, 3 and is conjoined with
+Sun, owner of 4; sub lord Ketu is in Capricorn representing Saturn, owner of
+10 and aspected by Sun, owner of 4. So Moon is the significator of 2 (money),
+4 (house), 3 (parting with the house), and connected with 4 (house) and 10.
+Hence it clearly indicates that the querent intends to sell his house and to
+gain money there from by parting with the house.
+Cuspal Sub Lord
+
+## 10th Cusp (Aquarius 29° .45'):
+
+The sub lord of the 10th cusp is Moon. Moon is in the star of Rahu and sub
+of Ketu. Moon is owner of 3. Star lord Rahu is very near to the 3rd cusp and
+also represents owner of 3 Moon. Sub lord Ketu represents Saturn, owner of
+
+## 10. So lOth cusp sub lord Moon is the significator of 3 and connected with 10.
+
+Hence it clearly indicates that the querent intends to sell his house.
+238
+
+## PRASHNA JYOTISH
+
+
+
+
+## 11th Cusp (Aries 03° .45~:
+
+The sub lord of the 11 lh cusp is Moon. We have discussed about Moon above.
+Hence it clearly indicates that the querent intends to sell his house and to
+gain money there from by parting with the house.
+
+## 6th Cusp (Scorpio 07° .45~:
+
+The sub lord of the 6th cusp is Ketu. Ketu is in the star of Mars and sub of
+Jupiter. 6th cusp indicates tenant. Star lord Mars is owner of 6, 11 and occupant
+of 4. Sub lord Jupiter is occupant of 3. So 6th cusp sub lord Ketu is the
+significator of 4, 11 and connected with 3. Hence it clearly indicates that the
+tenant will be beneficial to querent by means of buying the house and paying
+money for that.
+Ruling Planets
+Day. Wednesday
+Asc.
+Leo 08° .04'
+Moon Aquarius 14°. 34'
+Day lord
+Mercury
+Sign lord
+Sun
+Saturn
+Star lord
+Ketu
+Rahu
+At the time of judgment Rahu is conjoined with Sun, so Rahu represents Sun.
+Ketu is in Capricorn, so it represents Saturn. Thus the ruling planets are
+Sun, Mercury, Saturn, Rahu and Ketu. But Rahu and Ketu are more powerful
+than other planets.
+-----
+Joint Period
+At the time of judgment (Balance
+dasa of Rahu for of 7Y 4M OD), the
+running joint period is Rahu-Ketu
+up to 18-6-1981.
+Rahu is in the star of Mercury and
+sub of Jupiter. Star lord Mercury
+is aspected by owner of 10 Saturn.
+So Mercury is connected with 10.
+Sub lord Jupiter is occupant of 3.
+Thus dasa lord Rahu is connected
+with 10, 3 and also in the ruling
+planets.
+Bhukti nath Ketu is in the star of
+Mars and sub of Jupiter. Star lord
+Mars aspects on
+10th and is
+conjoined with owner of 10 Saturn.
+Sub lord Jupiter is occupant of 3.
+Thus Ketu is the significator of I 0 and connected with 3. Ketu is also in the
+ruling planets. So during Rahu-Ketu joint period querent's intention to sell his
+house will be fulfilled.
+Ruling planet Mercury is in the star of Jupiter and own sub. We have discussed
+about Mercury and Jupiter. Mercury is the significator of 3 and connected
+with 10. Thus during the joint period Rahu-Ketu-Mercury from 24-4-1981 to
+
+## PRASHNA JYOTISH
+
+239
+
+
+
+## XI 03:45
+
+18-6-1981 querent will be able
+to sell his house.
+Actually on 7-5-1981
+he
+1-------~t------+':;....-------+ discussed with tenant about
+his buying the house. At that
+time transit Moon was in
+Gemini 7° in the star of dasa
+nath Rahu. Tenant himself
+
+## II 03:45
+
+Su 13:36
+Ra 27:15
+11129:45
+
+## IX 29:45
+
+Ka 27:15
+
+## VIII 03:45
+
+t--------:;ot-------1~-------+ asked
+about
+buying
+the
+house.
+Ju 17:45
+
+## IV 29:45
+
+v 03:45
+
+## VI 07:45
+
+During the joint period of
+Rahu-Venus-Venus-Venus on
+22-6-198, tenant paid money
+to the querent.
+"'--------1------+-------~ Venus is the cusp sub lord of
+tenant's 12 (Libra 03°.45') and also owner of his 12. This 12 indicates
+investment of money. Venus is in the star of Mars and sub of Mercury. Star
+lord Mars is occupant of 11 of tenant and conjoined with owner of 4 Saturn.
+Sub lord Mercury is aspected by owner of 4 Saturn. Thus Venus is the
+significator of 11 and connected with 4, 12 of tenant. So tenant bought the
+house.
+Venus is also owner of 12 of querent, indicating querent's parting with the
+house. Venus is in the star of Mars and sub of Mercury. Star lord Mars is
+owner of 11 of querent and aspects on 10, and is conjoined with owner of 10
+Saturn. Sub lord Mercury is conjoined with owner of 12 Venus and aspected
+by owner of 10 Saturn. Thus Venus is the significator of 10, 11 and connected
+with 10, 12. So this indicates sale of house and gain of money.
+Transit
+On 22-6-1981 Sun was transiting in Gemini 7° in the star of Rahu (dasa lord);
+Moon was in Sagittarius in the sub of Venus (Bhukti-Antra and Sookshma
+lord). Rahu was in Cancer 09°.53' in the sub of Venus. Venus was in Gemini
+2r in own sub of Venus.
+240
+
+## PRASHNA JYOTISH
+
+
+
+Example 63. Possession of Inhabited House
+Question. J have tenant in one portion of my house. When will I get possession
+of that portion?
+Number. Ill (out of 249).
+Time of Judgment. 15-07-1979 Sunday; 02-45 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.28'
+Planet
+Sgn Stl Sbl
+Cusp
+Sun
+Me
+Ju
+Su
+Moon
+Ju
+Sa
+Ju
+
+## I
+
+Mars
+Ve
+Mo
+Ke
+2
+Mercury
+Mo
+Me
+Ve
+3
+Jupiter
+Mo
+Me
+Ve
+Venus
+Me
+Ra
+Su
+4
+Saturn
+Su
+Ve
+Mo
+5
+Rahu
+Su
+Ve
+Ma
+Ketu
+Sa
+Ra
+Ve
+6
+Hint
+Sgn
+Stl
+Me
+Su
+Ve
+Ma
+Ma
+Sa
+Ju
+Ke
+Sa
+Su
+Sa
+Ra
+Mo 14:57
+
+## VII 07:46:40
+
+Ke17:26
+
+## VI 08:37
+
+v 08:37
+
+## IV 07:37
+
+Sbl
+Ve
+Mo
+Me
+Ju
+Ve
+Ra
+
+## VIII 06:37
+
+Ill 06:37
+(j
+(j
+(j
+(j
+(j
+(j
+(j
+(j
+(j
+(j
+
+## IX 06:37
+
+Ma 19:51
+
+## II 06:37
+
+Cusp Sgn
+7
+Ju
+8
+Ma
+9
+Ve
+
+## IO
+
+Me
+
+## II
+
+Mo
+
+## I2
+
+Su
+
+## X 07:37
+
+Ve 17:42
+Su 28:49
+
+## XI 08:37
+
+Ju 20:18
+Me 20:45
+
+## XII 08:37
+
+Sa 17:10
+Ra 17:26
+
+## I 07:48:40
+
+Stl
+Sbl
+Sa
+Ke
+Ke
+Ra
+Su
+Me
+Ra
+Ra
+Sa
+Ve
+Ke
+Ju
+Tenant is signified by 6th house. A house under possession of tenant is signified
+by 9'h (4th from 6th is 9'h); 8th istenant's 3rd (parting with the house), which
+means to give back possession to the owner. Thus if 6th cusp sub lord be the
+significator (in the star of the occupant or owner) of 6 and 8, tenant vacates
+the house during the joint period of the significators of 6, 8.
+Before giving any prediction, we need to be very careful in judging all the
+aspects of a chart.
+Moon
+Jn this horary map Moon is in the star of Saturn and sub of Jupiter.
+Star
+lord Saturn is owner of 6 and occupant of 12. Sub lord Jupiter is owner of 4
+and occupant of 11. So Moon is the significator of 6 (tenant), 12 (worries) and
+connected with 4 (house), II (desire to get house back). Hence it clearly
+indicates that the querent intends to get possession of the house from tenant.
+
+## PRASHNA JYOTISH
+
+241
+
+
+Cuspal Sub Lord
+
+## 6th Cusp (Aquarius 08° .37'):
+
+The sub lord of the 6th cusp is
+Rahu. Rahu is in the star of Venus
+and sub of Mars. Rahu is conjoined
+with owner of 6th Saturn, so Rahu
+represents
+Saturn.
+Rahu
+is
+aspected by owner of 8 Mars, so
+also represents Mars. Hence Rahu
+is connected with 6 and 8. Star
+lord Venus is owner of 9. Sub lord
+Mars is owner of 8 and occupant
+of 9. Mars aspects on Saturn owner
+of 6. So 6th cusp sub lord Rahu is
+the significator of 9 and connected
+with 6, 8, 9. Sub lord is supreme
+to give the result and as the sub
+lord Mars strongly signifies 6 and
+8, it clearly indicates that the querent will get possession of the house from
+tenant.
+
+## XI 08:37
+
+Ju 20:18
+Me20:45
+
+## XII 08:37
+
+Sa 17:10
+Ra 17:26
+
+## IX 06:37
+
+Ma19:51
+
+## I 07:48:40
+
+
+## VIII 08:37
+
+
+## II 08:37
+
+Mo 14:57
+
+## VII 07:46:40
+
+Ill 06:37
+v 08:37
+
+## IV 07:37
+
+
+## 11th Cusp (Cancer 08° .37):
+
+The sub lord of the 11th cusp
+is Venus. Venus is in the star
+of Rahu and sub of Sun.
+Venus is owner of 2 and 9.
+Star lord Rahu is occupant of
+12th and conjoined with owner
+of 6 Saturn, and aspected by
+owner of 8th Mars. Thus Rahu
+represents Saturn and Mars
+and is connected with 6, 8.
+Sub lord Sun is owner of 12,
+conjoined with owner of 2 and
+9 Venus. Thus llth cusp sub
+lord Venus is the significator of 12, 6, 8 and connected with 12, 9, 2. Sub
+lord is supreme to give the result, and the sub lord Sun strongly signifies 9
+(house under possession of tenant), 2 (money) and 12 (investment). Hence it
+clearly indicates that the querent will get possession of the house from tenant.
+Joint Period
+At the time of judgment (Balance dasa of Saturn for 2Y 5M lOD), the running
+joint period is Saturn-Jupiter up to 26-12-1981.
+Dasa lord Saturn is owner of 6 (tenant) in the star of Venus owner of 2, 9,
+who aspects on 4th, also sub of Moon owner of 11 and occupant of 7 (2nd for
+tenant).
+Bhukti nath Jupiter is owner of 4th and occupants of 11. Jupiter is in the star
+of Mercury and sub of Venus. We have discussed about all these planets above.
+So during Saturn- Jupiter joint period querent will get possession of the house.
+As discussed before, Rahu is the significator of 6 and 8. During the joint period
+242
+
+## PRASHNA JYOTISH
+
+
+
+of Saturn-Jupiter-Rahu from 9-8-1981 to 26-12-1981 when transit agrees, the
+querent will get possession of the house. Actually on 24-8-1981 the tenant
+vacated the house and the querent got possession as per his desire.
+Transit
+On 24-8-1981 Sun was trans1tmg in Leo 07°.42' in the sub of Bhukti nath
+Jupiter. Saturn was transiting in Virgo 14°.20' in the sub of Jupiter. Jupiter
+was transiting in Virgo sign 16°.44' in the sub of dasa nath Saturn. Rahu was
+transiting in Cancer sign 06°.34' in the star of Saturn. Moon was in Gemini
+3° in the star of Mars. In this horary map Mars is owner of 8 and occupant
+of 9.
+
+## PRASHNA JYOTISH
+
+243
+
+
+Example 64. Marriage
+Question. When will my daughter get married?
+Number. 145 (out of 249).
+Time of Judgment. 27-06-1970, Saturday; 05-30 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.20'
+Sa 25 Ar 26
+Planet
+Sgn
+Sun
+Me
+Moon
+Ju
+Mars
+Me
+Mercury
+Me
+Jupiter
+Venus
+Sa tum
+Rahu
+Ketu
+Ve19:18
+
+## VI 02:45
+
+Ka 12:33
+Ve
+Mo
+Ma
+Sa
+Su
+
+## VII 04:45
+
+Stl
+Ra
+Me
+Ju
+Ma
+Ma
+Me
+Ve
+Ra
+Ke
+Ra 12 Aq 33
+Sbl
+Cusp Sgn
+Sa
+Sa
+Sa
+Me
+Ve
+Ke
+Me
+Sa
+Me
+
+## II 03:45
+
+Sa 25:26
+11129:26:40
+
+## IX29:26:40
+
+
+## VIII 03:45
+
+Ju 02:46
+1
+2
+3
+4
+5
+6
+Ju
+Ma
+Ma
+Ve
+Mo
+Su
+Mo29:03
+104:45
+Stl
+Sa
+Ke
+Su
+Ma
+Ju
+Ke
+Mo29:03
+
+## I 04:45
+
+Ra 12:33
+
+## XII 02:45
+
+Xl29:45
+Sbl
+Sa
+Mo
+Ra
+Sa
+Mo
+Ve
+
+## II 03:45
+
+Sa 25:26
+11129:26:40
+
+## X 28:45
+
+
+## IV 28:45
+
+
+## IX 29:28:40
+
+
+## VIII 03:45
+
+Ju 02:48
+0
+Cusp Sgn
+0
+0
+7
+Me
+0
+8
+Ve
+0
+0
+9
+Ve
+0
+10
+Ma
+0
+0
+11
+Ju
+0
+12
+Sa
+Hint
+Me 00:56
+Su 12:05
+Ma 23:13
+v 29:45
+Ve19:18
+
+## VI 02:45
+
+Ke12:33
+
+## VII 04:45
+
+Stl
+Sbl
+Su
+Sa
+Ma
+Ve
+Ju
+Mo
+Me
+Sa
+Su
+Ra
+Ma
+Ve
+If the cuspal sub lord of the
+7th house be the significator
+(in the star of the occupant or
+owner) of 2 (addition in family,
+family life), 7 (marriage) or 11
+(permanent
+relationship),
+marriage takes place during
+the joint
+period
+of the
+significators of 2, 7 and 11.
+Moon
+In this horary map the father
+put the query about the
+marriage of his daughter. So
+consider the 5th house as the
+Asc. for the daughter and proceed. For convenience each house counted from
+the 5th cusp.
+Moon occupies the Asc. of the daughter. Moon is in the star of Mercury and
+244
+
+## PRASHNA JYOTISH
+
+
+
+sub of Saturn. Star lord Mercury
+owns 7 and sub lord Saturn
+occupies 2. So it is the significator
+of 7 (marriage of the daughter) and
+connected with 2 (family life). Thus
+Moon clearly indicates that the
+query refers to the marriage of the
+querent's daughter.
+Cuspal Sub Lord
+
+## 7th Cusp (Virgo 04°.45':
+
+The sub lord of 7th cusp is Saturn.
+It occupies 2 and owner of 11. It
+is in the star of Venus (natural
+significator of marriage) and in the
+sub of Mercury owning 7. So
+Saturn is connected with 2, 7, 11.
+Both the cuspal sub lord Saturn
+and its star lord Venus are direct
+in motion. Hence the querent's daughter will get married.
+Ruling Planets
+Day lord
+Sign lord
+Star lord!
+Day.
+Saturday
+Saturn
+Asc.
+Scorpio 16° .42'
+Mars
+Mercury
+Moon. Pisces 29°.03'
+Jupiter
+Mercury
+Rahu in Aquarius represents Saturn. So the ruling planets are Mars, Mercury,
+Jupiter, Saturn and Rahu. None of them is in the star or sub of a retrograde
+planet.
+Significators of Marriage
+Ethava
+2
+7
+11
+In the star of
+occupant (A)
+Mar
+Occupant (B)
+Sat
+Jup
+In the star of
+owner( C)
+Mer-Jup
+Moo-Yen
+Mar
+Rahu represents Saturn. So take it as the significator.
+Owner(D)
+Mar
+Mer
+Jup
+The common planets among the ruling planets and the significators are Mars,
+Mercury, Jupiter, Saturn and Rahu.
+Joint Period
+At the time of judgment (Balance dasa of Mercury for 1 Y 2M 16D), the querent's
+daughter is running the joint period of Mercury and Saturn. They are among
+the significators. Now we have to select Antra out of the remaining significators
+Mars, Jupiter and Rahu. Rahu being stronger than any other significator should
+
+## PRASHNA JYOTISH
+
+245
+
+
+be considered as Antra lord.
+Thus we have to consider the joint period of Mercury, Saturn and Rahu which
+starts from 8-12-1970 and lasts up to 3-5-1971. So the querent's daughter
+will get married during this joint period when the transit agrees.
+Transit
+During the time from 8-12-1970 to 3-5-1971 Sun will first transit m the star
+of Rahu from 19-2-1971. So the marriage will take place in the month of
+February 1971.
+Actually the querent's daughter got married on 19-2-1971, when Sun was
+transiting in Aquarius 06° .50' in the star of Antra nath Rahu; Moon was in
+Scorpio 18° in the star of dasa nath Mercury ; Mercury was in Capricorn
+
+## 24°.58' in the sub of Rahu; Saturn was in Aries 23°. 19' in its own sub of
+
+Bhukti nath Saturn and Rahu was in Capricorn 29°.59' in the sub of Saturn.
+246
+
+## PRASHNA JYOTISH
+
+
+
+Example 65. Marriage
+Question. When will my elder sister get married?
+Number. 103 (out of 249).
+Time of Judgment. 14-04-972, Friday
+Place of Judgment. 23o N 02', 72o E
+Planet
+Sun
+Moon
+Mars
+Mercury
+Jupiter
+Venus
+Saturn
+Rahu
+Ketu
+Ka 07:44
+1128:21
+Sgn Stl Sbl
+Ma
+Ke
+Ve
+Ma
+Ke
+Ra
+Ve
+Mo
+Me
+Ju
+Sa
+Ve
+Ju
+Ve
+Ve
+Ve
+Mo
+Sa
+Ve
+Mo
+Mo
+Sa
+Su
+Ke
+Mo
+Sa
+Ke
+au 00:59
+Mo 05:59
+Xl26:21
+v 26:21
+Cusp Sgn
+1
+Me
+2
+Mo
+3
+Su
+4
+Me
+5
+Ve
+6
+Ma
+marriage of the querent's elder sister.
+Cuspal Sub Lord
+
+## 10-24 AM 1ST
+
+35', Ayanamsha 23°.22'
+Stl
+Ju
+Me
+Su
+Ma
+Ju
+Me
+
+## X 26:21
+
+Me 10:19
+
+## IX 27:20
+
+Vlll28:21
+Ra 07:44
+Vll28:21
+Ju 14:46
+Sbl
+Ve
+Sa
+Mo
+Ju
+Ke
+Ju
+Vlll28:21
+Ra07:44
+Su 00:59
+Sa10:46
+Mo05:59
+Ve16:34
+Xl26:21
+Me18:21
+Xll27:21
+Vl27:21
+v 26:21
+•
+Cusp Sgn
+•
+•
+•
+•
+Moon
+7
+Ju
+8
+Sa
+9
+Sa
+10
+Ju
+11
+Ma
+12
+Ve
+128:21
+Ka 07:44
+1128:21
+11127:20
+
+## IV 26:21
+
+Stl
+Su
+Ma
+Ju
+Me
+Ve
+Ma
+Sbl
+Mo
+Sa
+Ve
+Ju
+Ke
+Ju
+11th house is for elder brother
+or sister. So consider the 11th
+house as the Asc. (Gemini
+
+## 28°.21 ') for the elder sister
+
+and proceed. For convenience
+each house counted from the
+11th cusp.
+Moon is in the star of Ketu
+and sub of Rahu. Star lord
+Ketu is occupant of Asc. and
+sub lord Rahu occupies 7.
+Thus Moon clearly indicates
+that the query refers to the
+
+## Elder sister's 7th Cusp (Sagittarius 28°.21'):
+
+The sub lord of 7th cusp is Moon. Moon is in the star of Ketu and sub of
+
+## PRASHNA JYOTISH
+
+247
+
+
+be considered as Antra lord.
+Thus we have to consider the joint period of Mercury, Saturn and Rahu which
+starts from 8-12-1970 and lasts up to 3-5-1971. So the querent's daughter
+will get married during this joint period when the transit agrees.
+Transit
+During the time from 8-12-1970 to 3-5-1971 Sun will first transit in the star
+of Rahu from 19-2-1971. So the marriage will take place in the month of
+February 1971.
+Actually the querent's daughter got married on 19-2-1971, when Sun was
+transiting in Aquarius 06°.50' in the star of Antra nath Rahu; Moon was in
+Scorpio 18° in the star of dasa nath Mercury ; Mercury was in Capricorn
+
+## 24°.58' in the sub of Rahu; Saturn was in Aries 23°.19' in its own sub of
+
+Bhukti nath Saturn and Rahu was in Capricorn 29°.59' in the sub of Saturn.
+246
+
+## PRASHNA JYOTISH
+
+
+
+Example 65. Marriage
+Question. When will my elder sister get married?
+Number. 103 (out of 249).
+Time of Judgment. 14-04-972, Friday
+Place of Judgment. 23o N 02', no E
+Planet
+Sun
+Moon
+Mars
+Mercury
+Jupiter
+Venus
+Saturn
+Rahu
+Ketu
+Ko 07:44
+1128:21
+Sgn
+Ma
+Ma
+Ve
+Ju
+Ju
+Ve
+Ve
+Sa
+Mo
+Stl Sbl
+Ke
+Ve
+Ke
+Ra
+Mo
+Me
+Sa
+Ve
+Ve
+Ve
+Mo
+Sa
+Mo
+Mo
+Su
+Ke
+Sa
+Ke
+Su 00;59
+Mo05:59
+Xl26:21
+v 26:21
+Cusp Sgn
+
+## I
+
+Me
+2
+Mo
+3
+Su
+4
+Me
+5
+Ve
+6
+Ma
+marnage of the querent's elder s1ster.
+Cuspal Sub Lord
+
+## 10-24 AM 1ST
+
+35', Ayanamsha 23°.22'
+Stl
+Ju
+Me
+Su
+Ma
+Ju
+Me
+
+## X26:21
+
+Me 10:19
+
+## IX 27:20
+
+Vlll28:21
+Ra 07:44
+Vll28:21
+Ju 14:46
+Sbl
+Ve
+Sa
+Mo
+Ju
+Ke
+Ju
+Vlll28:21
+Ra07:44
+5u 00:59
+Sa 10:46
+Mo 05:58
+Vo18:34
+
+## X126:21
+
+Vl27:21
+•
+•
+Moon
+Ma18:21
+Xll27:21
+v 26:21
+Cusp Sgn
+7
+Ju
+8
+Sa
+9
+Sa
+10
+Ju
+11
+Ma
+12
+Ve
+128:21
+Ka 07:44
+1128:21
+11127:20
+
+## IV 28:21
+
+Stl
+Su
+Ma
+Ju
+Me
+Ve
+Ma
+Sbl
+Mo
+Sa
+Ve
+Ju
+Ke
+Ju
+11th house is for elder brother
+or sister. So consider the 11th
+house as the Asc. (Gemini
+
+## 28° .21') for the elder sister
+
+and proceed. For convenience
+each house counted from the
+11th cusp.
+Moon is in the star of Ketu
+and sub of Rahu. Star lord
+Ketu is occupant of Asc. and
+sub lord Rahu occupies 7.
+Thus Moon clearly indicates
+that the query refers to the
+
+## Elder sister's 7th Cusp (Sagittarius 28° .21):
+
+The sub lord of 7th cusp is Moon. Moon is in the star of Ketu and sub of
+
+## PRASHNA JYOTISH
+
+247
+
+
+Rahu. Moon is owner of 2; star lord Ketu is in Cancer, so represents owner of
+2"d Moon; sub lord Rahu is occupant of 7. Thus 7th cusp sub lord signifies 2
+(addition in family) and is connected with 7 (marriage) and 2. Thus marriage
+of elder sister is promised.
+Elder sister's 11
+1
+
+## h Cusp (Aries 26°.21'):
+
+The sub lord of 11th cusp is Ketu. Ketu is in the star of Saturn and sub of
+own. Star lord Saturn is occupant of II.
+Sub lord Ketu represents owner of
+2"d Moon. Thus ll'h cusp sub lord signifies 11 (fulfillment of desire) and
+connected with 2. Thus marriage of elder sister is promised.
+Ruling Planets
+Day lord
+Sign lord
+Star lord
+Day.
+Friday
+Venus
+Asc.
+Gemini 05°.25'
+Mercury
+Mars
+Moon.
+Aries 05°.59'
+Mars
+Ketu
+So the ruling planets are Mars, Mercury, Venus and Ketu.
+Significators of Marriage
+Ethava
+In the star of
+Occupant (B)
+In the star of
+OwnerljD)
+occupant (A)
+owner( C)
+2
+Mar-Ven-Sat
+Moo
+7
+Rahu
+Jup
+11
+Mar
+Mar
+Jup
+Ven
+Mer-Ket
+Sat
+The sig~ificators are Mars, Venus, Saturn , Rahu, Jupiter, Mercury and Ketu.
+Joint Period
+At the time of judgment (Balance dasa of Ketu for 3Y !OM 9D), the querent's
+elder sister is running the joint
+period of Ketu-Rahu lasting up to
+11-2-1973.
+Dasa nath Ketu is the cusp sub
+lord of 11th and the significator and
+also in the ruling planets. Bhukti
+nath
+Rahu
+is
+the
+strong
+significator. Nodes are stronger
+than other planets; so marriage will
+take place during Ketu-Rahu joint
+period.
+Among the rest of significators we
+have to select Antra nath. At the
+time of query, Jupiter Antra is
+running up to 10-5-1972. Next one
+is Saturn up to 10-7-1972. Between
+Jupiter and Saturn, Saturn is
+
+## PRASHNA JYOTISH
+
+
+
+stronger because Saturn is the star lord of dasa nath and in the sub of owner
+of 2nd and Jupiter is the sub lord of owner of 12.
+Thus during the joint period of Ketu-Rahu-Saturn from 10-5-1972 to 10-7-
+1972 marriage of elder sister is promised. Actually during Ketu-Rahu-Saturn-
+Ketu from 27-5-1972 to 30-5-1972, on 29-05-1972 his elder sister was married.
+Transit
+On 29-05-1972 Sun was trans1tmg in Taurus 14° in the sub of marriage
+significator Jupiter; Moon was in Scorpio 23°.25' in the star of Mercury,
+significator of marriage; Ketu was in Cancer 05°.21' in the sub of Antra nath
+Saturn; Rahu was in Capricorn 05°.21' in the sub of significator Mercury.
+
+## PRASHNA JYOTISH
+
+249
+
+
+Example 66. Marriage
+Question. When will I get married?
+Number. 152 (out of 249).
+Time of Judgment. 12-01-974, Saturday; 06-45 AM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.24'
+v 14:42
+
+## IV 12:42
+
+Ju 23:28
+Ve(R)16:23
+Ill 09:42
+Me29:49
+Su 28:03
+Vl12:42
+Ma 13:27
+
+## VII 08:06:40
+
+Ke 03:57
+Sa[R] 06:17
+
+## VIII 07:42
+
+
+## IX 09:42
+
+
+## X 12:42
+
+Mo 17:12
+Xl14:42
+
+## II 07:42
+
+~----------------~~----------------~~R~a~0~3:~57--~10~8~:0~6:4~0--~~X~11~12~:4~2----L-----~
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn Stl Sbl
+Sun
+Ju
+Su
+Mo
+0
+Moon
+Su
+Ve
+Mo
+1
+Ma
+Sa
+Ve
+0
+7
+Ve
+Su
+Ve
+Mars
+Ma
+Ve
+Ve
+2
+Ju
+Ke
+Ju
+0
+8
+Me
+Ra
+Ra
+Mercury Ju
+Su
+Ra
+3
+Sa
+Su
+Ve
+0
+9
+Mo
+Sa
+Ve
+Jupiter
+Sa
+Ma Ma
+0
+Venus[R] Sa
+Mo
+Sa
+4
+Sa
+Ra
+Me
+0
+10
+Su
+Ke
+Me
+Saturn[R] Me
+Ma
+Mo
+5
+Ju
+Sa
+Ra
+0
+11
+Me
+Mo
+Ju
+Rahu
+Ju
+Ke
+Mo
+0
+Ketu
+Me
+Ma
+Ve
+6
+Ma
+Ke
+Me
+0
+12
+Ve
+Ra
+Me
+Moon
+Moon is in the star of Venus. Star lord Venus is owner of 7 and conjoined
+with Jupiter, owner of 2 (family), and Venus is also natural karaka of marriage.
+Thus Moon clearly indicates that the query refers to the marriage.
+Cuspal Sub Lord
+7th Cusp (Taurus
+
+## 08°.06'.40"):
+
+The sub lord of 7th cusp is Venus. Venus is natural karaka of marriage. Venus
+is owner of 7 and conjoined with Jupiter, owner of 2 (family). Thus querent's
+marriage is promised. 7th cusp sub lord Venus is in retrograde but will become
+direct in motion from 13-2-1974; so the querent will get married after 13-2-
+
+## 1974.
+
+
+## 11th Cusp (Virgo 14°.42'):
+
+The sub lord of 11th cusp is Jupiter. Jupiter is conjoined with Venus, owner of
+
+## 7. Jupiter is owner of 2 and aspects on 7th. Jupiter is also in the movable
+
+sign; so querent's marriage is promised and fulfillment of desire will happen
+soon.
+250
+
+## PRASHNA JYOTISH
+
+
+
+Joint Period
+At the time of judgment (Balance
+dasa ofVenus for 14Y 2M l2D), the
+querent is running the joint period
+of Venus-Moon lasting up to 24-3-
+
+## 1974.
+
+Dasa nath Venus is natural karaka
+of marriage. Generally when the sub
+lord becomes a natural karaka of
+the relevant bhava, the result will
+be given during the joint period of
+its star lord and sub lord. In this
+case dasa nath Venus is in the star
+of Moon and running Bhukti is also
+Moon. Thus during the Venus-Moon
+joint period querent will get married.
+Bhukti nath Moon is in the star of
+Venus and Venus is in the star of
+Moon; so Venus and Moon are supplementary to each other.
+As we have discussed above querent will be married after 13-2-1974 when
+Venus turns direct; thus he will be married during this joint period till 24-3-
+
+## 1974.
+
+Ke 03:57
+Sa[R] 06:17
+
+## VIII 07:42
+
+
+## VII 08:08:40
+
+Vl12:42
+Ma 13:27
+v 14:42
+
+## IV 12:42
+
+As per details given above let
+us check Antra nath and
+Sookshma dasa nath. Sun is
+occupant of 2 in own star. Sun
++-------~t-------i"'---------+ is conjoined with owner of 11
+
+## IX 09:42
+
+Ju 23:28
+Ve[R]16:23
+Ill 09:42
+Mercury. Sun is in the sub of
+Moon. So we consider Sun as
+Antra nath. So during the joint
+period of Venus-Moon-Sun
+t------7!-------k:--------t from 24-2-1974 to 24-3-1974
+
+## X 12:42
+
+Mo 17:12
+querent will get married.
+Mercruy is in the star of Antra
+nath Sun; so we consider
+Xll12:42
+1 08 06 40
+
+## J<C..-------~------1---'-'
+
+----.....!>.~.Mercury as S ookshma lord.
+Now during the joint period of Venus-Moon-Sun-Mercury from 14-3-1974 to
+18-3-1974 querent will get married.
+Actually the querent got married on 18-3-1974.
+In this case all the joint period lords (dasa nath Venus- Bhukti nath Moon-
+Antra nath Sun and Sookshama dasa nath Mercury) are in each other's star
+or sub. They all are also the significator of marriage; thus querent got married
+during its joint period speedily. Dasa nath Venus is in the star of Bhukti nath
+Moon, Bhukti nath Moon is in the star of dasa nath Venus. Antra nath Sun
+is in the sub of Bhukti nath Moon. Readers have to experience this and think
+about all the aspects as per your experience.
+Transit
+On 18-03-1974 Moon was transiting in Capricorn 3° in the star of Antra nath
+Sun. Venus was in Capricorn 18°.56' in the sub of Sookshma dasa nath
+Mercury.
+
+## PRASHNA JYOTISH
+
+251
+
+
+Example 67. Marriage
+Question. What about my marriage, marriage partner and her education?
+Number. 61 (out of 249).
+Time of Judgment. 07-08-1979, Tuesday;
+Place of Judgment. 23° N 02', 7r E 35,
+
+## 10-00 AM 1ST
+
+Ayanamsha 23°.28'
+r------.~X~I2=6~:1~0----r.X~II~2~8:=32~--~Ma~0~5~:3~6-.
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sun
+Mo
+Me
+Ve
+Moon
+Sa
+Su
+Ke
+1
+Me
+Ju
+Mars
+Me
+Ma Mo
+2
+Mo
+Me
+Mercu.ry(R]Mo
+Sa
+Su
+Jupiter
+Mo
+Me
+Ra
+3
+Su
+Ve
+Venus
+Mo
+Sa
+Ju
+4
+Me
+Mo
+Sa tum
+Su
+Ve
+Ra
+5
+Ve
+Ju
+Rahu
+Su
+Ve
+Su
+Ketu
+Sa
+Ra
+Ve
+6
+Ma
+Me
+Moon
+
+## X 22:10
+
+
+## IX 20:10
+
+Ke 16:13
+Vlll23:10
+Mo07:09
+Sbl
+Su
+Mo
+Ju
+Ve
+Ke
+Sa
+
+## I)
+
+
+## I)
+
+
+## I)
+
+
+## I)
+
+
+## I)
+
+
+## I)
+
+
+## I)
+
+
+## I)
+
+
+## I)
+
+
+## I)
+
+Cusp Sgn
+7
+Ju
+8
+Sa
+9
+Sa
+10
+Ju
+11
+Ma
+12
+Ve
+128:46:40
+Me[R) 10:30
+Ve15:33
+Su 20:37
+1123:10
+Ju 25:10
+Ra18:13
+Sa19:34
+11120:10
+
+## IV 22:10
+
+Stl Sbl
+Su
+Ma
+Mo
+Su
+Ju
+Ju
+Me
+Su
+Ve
+Ke
+Ma
+Sa
+In this horary map Moon occupies 7 and it is aspected by the owners of 7
+(Jupiter), 11 (Mars) and natural karaka Venus. Thus Moon clearly indicates
+that the querent is very eager to know about his marriage.
+Cuspal Sub Lord
+
+## 7th Cusp (Sagittarius 28°.46'.40"):
+
+1) The sub lord of the 7th cusp is Mars. It is in its own star and sub of Moon.
+Star lord Mars owns 11 and aspects 7th. Sub lord Moon owns 2 and occupies
+
+## 7. Thus the cuspal sub lord of 7th is the significator of 11, 7 and connected
+
+with 2 and 7. Hence it promises marriage. None of them is retrograde.
+2) Consider the 7th cusp as the Asc. of the marriage partner. Now as counted
+from the 7th cusp, Pisces 22°. 10' (lOth cusp of the horary chart) becomes the
+4th cusp (education) for the marriage partner. Its sub lord is Sun; it owns the
+9th (higher education) of the marriage partner; it is in the star of Mercury and
+in the sub of Venus; star lord Mercury is natural karaka of education; sub
+lord Venus owns 11 of the marriage partner. All these three planets are in
+conjunction with Jupiter owning 4 of the marriage partner. Thus the cuspal
+252
+
+## PRASHNA JYOTISH
+
+
+
+sub lord of 4th of the marriage
+partner
+is
+connected
+with
+Mercury, Jupiter, 4, 9 and 11.
+Sun, Mercury and Jupiter are in
+Cancer which is on the 8th cusp
+of the marriage partner and all
+of them are aspected by Moon,
+the
+owner of 8
+(medicine,
+pharmacy,
+chemicals;
+microbiology and such other
+subjects correlated with the 8th
+house) for the marriage partner.
+Hence the marriage partner's
+education might be connected
+with these subjects. Further Sun
+and Jupiter have connection with
+medicine.
+3) The disposition of the marriage
+o:--------t=====::+-------~partner may be learnt from the
+l'-
+cuspal sub lord of the 7th is
+Me[R]10:30
+Ve15:33
+Su 20:37
+1123:10
+Ju 25:10
+Ra 18:13
+So 19:34
+11120:10
+v 26:10
+Vl28:32
+Vlll23:10
+Mo07:09
+Mars. So Mars (aggressive) in
+Gemini signifies impulsive but
+adaptable
+nature.
+Thus
+marriage
+partner
+will
+be
+aggressive, impulsive, adaptable
+and mixing nature.
+Joint Period
+1) At the time of judgment
+vn2B:46:4o
+(Balance dasa of Sun for lY 3M
+12D), the querent is running
+the joint period of Sun and
+Ketu which will last up to 19-
+11-1979.
+So far as the education of marriage partner is concerned, the period ruler Sun
+is the cuspal sub lord of 4 (education for the marriage partner); while the sub
+period ruler Ketu is the cuspal sub lord of 11 (success in education to the
+marriage partner). Ketu is in the star of Rahu in 8 (end of education) and in
+the sub of Venus owning 11 (success in education) for the marriage partner.
+So the marriage partner will be completing her studies before 19-11-1979.
+2) The joint period of Sun, Venus starts from 19-11-1979 and continues up to
+19-1-1980. Dasa nath Sun, its star lord Mercury and its sub lord Venus are
+all conjoined with Jupiter, the owner of 7, in 2 and aspected by Moon, owner
+of 2, in 7. So Sun becomes the significator of marriage. Venus is in the star
+of Saturn and in the sub Jupiter. So far as the querent is concerned the star
+lord Saturn occupies 2 and the sub lord Jupiter owns 7 and occupies 2. So
+as far as the marriage partner is concerned the star lord Saturn owns 2 and
+aspects the 11th; while the sub lord Jupiter is in conjunction with Venus owning
+
+## 11. Thus the sub and the inter period ruler Venus is fruitful to both of them
+
+for getting married. This joint period of Sun-Venus-Venus from 19-11-1979 to
+
+## PRASHNA JYOTISH
+
+253
+
+
+19-1-1980 is likely period of marriage.
+3) The querent informed me that the girl of his choice was very impulsive and
+she was an M.B.B.S student. Her examination was over on 6-11-1979. She
+passed her M.B.B.S examination in December 1979. They both moved together
+as man and wife from 22-12-1979. It was learnt that he secretly married the
+girl on 23-1-1980 during the joint period of Sun, Venus and Sun.
+At the time of judgment Mercury, star lord of Sun was retrograde (it turned
+direct from 11-8-1979, hence the marriage) and Saturn, star lord of Venus
+was in conjunction with Rahu in 2. Hence celebration of marriage was not in
+a usual way.
+
+## Transit:
+
+On 23-1-1980 Sun was transttmg in Capricorn 9° in its own star Sun (Dasa-
+Antra nath) and sub of Bhukti nath Venus.
+254
+
+## PRASHNA JYOTISH
+
+
+
+Example 68. Marriage
+Question: A boy came from London and will have to go back before end of
+March. He will be visiting my home to see my daughter for marriage. Is there
+any chance of marriage of my daughter with this boy?
+Number: 5 (out of 249).
+Time of Judgment: 15-03-1980, Saturday; 01-30 PM 1ST
+Place of Judgment: 23° N 02', 72° E 35', Avanamsha: 23°.29'
+Planet
+Sgn
+Sun
+Ju
+Moon
+Sa
+Mars!R]
+Su
+Mercury!R]Sa
+Jupiter!R] Su
+Venus
+Ma
+Saturn!R] Me
+Rahu
+Su
+Ketu
+Sa
+123:37
+Stl
+Ju
+Ra
+Ke
+Ra
+Ke
+Ve
+Su
+Ke
+Ma
+Sbl
+Ra
+Ju
+Ma
+Ke
+Ju
+Su
+Ra
+Mo
+Ve
+
+## IX 04:46:40
+
+Ve 16:00
+~"'"'"~
+Cusp Sgn
+1
+Mo
+2
+Su
+3
+Ve
+4
+Ma
+5
+Ju
+6
+Ju
+Stl
+Me
+Ve
+Ma
+Sa
+Ke
+Ve
+
+## IX 04:46:40
+
+
+## X 05:37
+
+Xi 02:37
+Ve16:00
+Xll26:37
+Su 01:21
+123:37
+Vlll25:37
+Me(R]14:53
+Mo10:10
+Ke 04:28
+Vll23:37
+Vl26:37
+v 02:37
+Sbl
+Ma
+Me
+Ve
+Me
+Ve
+Ke
+Ra 04:28
+Ma[R] 05:30
+Ju(R] 09:20
+1125:37
+Sa[R] 00:03
+
+## IV05:37
+
+Ill 04:46:40
+0
+Cusp Sgn
+Stl
+Sbl
+0
+0
+7
+Sa
+Ma
+Ma
+0
+8
+Sa
+Ju
+Me
+0
+9
+Ma
+Ke
+Ma
+0
+0
+10
+Ve
+Su
+Me
+0
+11
+Me
+Ma
+Ke
+0
+0
+12
+Me
+Ju
+Ve
+Moon
+In this horary map the father
+put the query about the
+marriage of his daughter. So
+consider the 5th house as the
+
+## V1123,37
+
+Asc. for the daughter and
+proceed. For convenience each
+house counted from the
+5th
+cusp. In this horary map
+Moon is owner of father's 5
+and occupant of daughter's 7.
+Thus Moon clearly indicates
+that the querent is very eager
+to know about his daughter's
+marriage. Moon is in the star
+of Rahu and sub of Jupiter. Both of star lord Rahu and sub lord Jupiter is
+
+## PRASHNA JYOTISH
+
+255
+
+
+occupant of father's 5; thus
+question is about his daughter.
+Cuspal Sub Lord
+Daughter's 7th Cusp (Capricorn
+
+## 23°.37):
+
+The sub lord of the 7th cusp is
+Mars. Mars is in retrograde
+motion. Question is limited to
+end of March, and during that
+time Mars does not turn direct
+in motion but turn direct on 7-
+4-1980. Thus there is no chance
+of his daughter's marriage during
+March.
+Father's 11th Cusp (Capricorn
+
+## 23°.37):
+
+The sub lord of the 11tn cusp is Mars. Mars is in retrograde motion. As
+discussed above, there is no chance of his daughter's marriage during March.
+Actually the boy came to his home but he does not like his daughter; thus
+daughter's 7th cusp sub lord is retrograde and question is also for limited time
+and during that time 7th cusp sub lord does not turn direct; so his daughter
+does not get married with this boy. His 11th cusp sub lord is also retrograde;
+so his desire of his daughter's marriage with the boy did not happen.
+256
+
+## PRASHNA JYOTISH
+
+
+
+Example 69. Love Marriage
+Question: I am in love with one girl, will I marry the same girl?
+Number. 48 (out of 249).
+Time of Judgment. 02-01-1971, Saturday;
+Place of Judgment. 23° N 02', 72° E 35',
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sun
+Ju
+Ve
+Ma
+Moon
+Sa
+Ju
+Me
+1
+Me
+Ra
+Mars
+Ve
+Ju
+Sa
+2
+Mo
+Ju
+Mercury[R]Ju
+Ke
+Ra
+3
+Mo
+Me
+Jupiter
+Ma
+Sa
+Sa
+Venus
+Ma
+Ju
+Ra
+4
+Su
+Su
+Saturn[R] Ma
+Ve
+Sa
+5
+Ve
+Ma
+Rahu
+Sa
+Ma
+Ke
+Ketu
+Su
+Ke
+Ve
+6
+Ma
+Sa
+Hints
+
+## 03-20 PM 1ST
+
+Ayanamsha 23°.21'
+
+## XI 01:44
+
+
+## XII08:44
+
+Se[R]22:33
+
+## X27:44
+
+Mo 24:18
+Ra 02:31
+
+## IX27:44
+
+
+## VIII 02:40
+
+Su 17:59
+
+## VI 06:44
+
+
+## VII 08:40:00
+
+Ju 04:31
+Ma 23:37
+Me[R] 07:11
+Ve 02:37
+v 01:44
+Sbl
+0
+Cusp Sgn
+0
+Ju
+0
+7
+Ju
+Ra
+0
+8
+Sa
+Ju
+0
+9
+Sa
+0
+Mo
+0
+10
+Sa
+Me
+0
+11
+Ma
+0
+Me
+0
+12
+Ve
+
+## I 08:40:00
+
+\
+
+## II 02:40
+
+11127:44
+Ke 02:31
+
+## IV 27:44
+
+Stl
+Sbl
+Ke
+Ju
+Su
+Ju
+Ma
+Ju
+Ju
+Ve
+Ke
+Ve
+Su
+Me
+1) lf the cuspal sub lord of the 5th (love relation) be the significator (in the
+star of the occupant or owner) of 7 (marriage) or I 1 (permanent relationship),
+love marriage is promised.
+Sub lord and its star lord must be in direct motion.
+If 5th cusp sub lord be the significator (in the star of the occupant or owner)
+of 6 or 12, then there is no marriage with person whom he/she loves.
+If 5th sub lord be the significator (in the star of the occupant or owner) of 6,
+native himself breaks relationship, and if it is 12, then love one breaks the
+relationship.
+If 5th cusp sub lord be the significator (in the star of the occupant or owner)
+of 2 or 11, love marriage is promised.
+2) If the cuspal sub lord of the 7th be the significator (in the star of the occupant
+or owner) of 5 (love) or 11 (permanent relationship), love marriage is promised.
+If the cuspal sub lord of the 7th be the significator (in the star of the occupant
+or owner) of 2, 7, 11, marriage is promised. But sub lord and its star lord
+should be in direct motion; if they are in retrograde motion, then marriage
+can only happen when retrograde planet turns direct.
+
+## PRASHNA JYOTISH
+
+257
+
+
+lf star lord of sub lord is in
+retrograde, one cannot marry
+with whom he/she loves.
+lf both sub lord and its star lord
+are in retrograde, querent will
+never get married.
+lf 5th sub lord be the significator
+(in the star of the occupant or
+owner) of 6, native himself
+breaks the relationship, and if it
+is 12, then love one break the
+relationship.
+Moon
+ln this horary map Moon is in
+the star of Jupiter. Star lord
+Jupiter is occupant of 5 and
+owner of 7 and conjoined with
+Venus, the owners of 5. Thus
+Moon clearly indicates that the
+querent is very eager to know about love marriage.
+
+## II 02:40
+
+11127:44
+Ka 02:31
+
+## IV 27:44
+
+
+## XI 01:44
+
+Sa[R] 22:33
+Ma 23:37
+
+## V01:44
+
+
+## VI 06:44
+
+Ju 04:31
+Va 02:37
+Cuspal Sub Lord
+
+## 5th Cusp (Libra 01 • .44'):
+
+
+## X 27:44
+
+Mo24:18
+The sub lord of the 5th cusp
+Ra02:31
+is
+Mercury.
+Mercury
+is
+retrograde and occupant of 6.
+No planet is in the stars of
+Mercury; so Mercury is the
+
+## IX 27:44
+
+v11102,40
+strong significator of 6th.
+Mercury is in the star of Ketu,
+occupant of 3 and in sub of
+Rahu, occupant of 9. Thus the
+Su 17:59
+vnoa:4o:oo
+cuspal sub lord of 5th does not
+Me[RJ07:11
+signify 7, 11 directly, but
+signifies 6 strongly. Hence
+there is no chance of marriage
+with the girl whom he loves.
+Not only that, but the girl also broke the
+got married with another boy.
+relationship herself. Actually the girl
+
+## 7th Cusp (Sagittarius 08 .40):
+
+The sub lord of the 7th cusp is Jupiter. Jupiter is in the star and sub of
+Saturn. Jupiter is owner of 7 and occupant of 5. Star and sub lord Saturn is
+occupant of 11. Thus the cuspal sub lord of 7th signifies 11 and is connected
+with 5, 7. But star and sub lord Saturn is in retrograde. Hence there is no
+chance of marriage with the girl whom he loves. Actually the girl married with
+another boy and so he was not married with the girl whim he loved.
+In this case we can see the strong effect of the retrograde planet.
+258
+
+## PRASHNA JYOTISH
+
+
+
+Example 70. Love Marriage
+Question: Will I have any chance of love marriage?
+Number. 137 (out of 249).
+Time of Judgment. 01-08-1979, Wednesday; 09-40 PM IST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23 •. 28'
+Vl21:33
+v 21:33
+Ke16:30
+
+## IV 19:33
+
+Vll18:06:40
+Vlll17:33
+Ma 01:56
+
+## IX 17:33
+
+Su 05:21
+Ve 08:48
+Me[R]13:45
+
+## X 19:33
+
+Ju 24:00
+Ra 16:30
+Sa 18:58
+Xl21:33
+Xll21:33
+Mo 20:21
+~----------------~~----------------~~~~-II-17-:3_3 __ ~11~1~7:~33~---LI~1~8:~06~:4~0~~~----~
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl
+Sbl
+Sun
+Mo
+Sa
+Ju
+0
+Moon
+Ve
+Ju
+Ju
+1
+Ve
+Ra
+Mo
+0
+7
+Ma
+Ve
+Ra
+Mars
+Me
+Ma
+Ke
+2
+Ma
+Me
+Me
+0
+8
+Ve
+Mo
+Sa
+Mercury[R]Mo
+Sa
+Ra
+0
+Jupiter
+Mo
+Me
+Ma
+3
+Ju
+Ve
+Ma
+0
+9
+Me
+Ra
+Su
+Venus
+Mo
+Sa
+Ve
+4
+Sa
+Mo
+Mo
+0
+10
+Mo
+Me
+Ve
+Saturn
+Su
+Ve
+Ra
+0
+5
+Sa
+Ju
+Ju
+0
+11
+Su
+Ve
+Ja
+Rahu
+Su
+Ve
+Mo
+Ketu
+Sa
+Ra
+Ve
+6
+Ju
+Me
+Ve
+0
+12
+Me
+Mo
+Ve
+Hints
+If 5th cusp sub lord be the significator (in the star of the occupant or owner)
+of 2 or I I, love marriage is promised.
+If the cuspal sub lord of the 5th (love relation) be the significator (in the star
+of the occupant or owner) of 7 (marriage) or II (permanent relationship), love
+marriage is promised. If this sub lord is connected with Rahu or Ketu, marriage
+will be in inter cast or inter religious or inter country.
+If the cuspal sub lord of the 7th be the significator (in the star of the occupant
+or owner) of 5 (love) or II (permanent relationship), love marriage is promised.
+If this sub lord is connected with Rahu or Ketu, marriage will be in inter cast
+or inter religious or inter country.
+If Venus is connected with Rahu or Ketu, then love or love marriage will be in
+inter cast or inter religious or inter country.
+If the cuspal sub lord of the 7th be the significator (in the star of the occupant
+or owner) of 2, 7, 11, marriage is promised. During the joint period of
+significator of 2, 5, 7, I I love marriage will take place.
+Moon
+In this horary map Moon is occupant of 1 and aspects 7th (marriage). Moon is
+
+## PRASHNA JYOTISH
+
+259
+
+
+aspected by Saturn, owner of 5 (love
+relation). Moon is in the star and
+sub of Jupiter. Star and sub lord
+Jupiter is conjoined with Venus
+(natural karaka of marriage) and
+Sun, owner of 11 (preeminent
+friendship). Thus Moon clearly
+indicates that the querent is very
+eager to know about love marriage.
+Cuspal Sub Lord
+
+## 7th Cusp (Aries 18 •. 06'.40"):
+
+The sub lord of the 7th cusp is Rahu.
+Rahu is in the star of Venus and
+sub of Moon. Rahu is conjoined with
+Saturn, owner of 5; star lord Venus
+is a natural karaka of marriage.
+Venus is conjoined with Sun, owner
+aspected by Saturn, owner of 5. Thus the cuspal sub
+"t<::----v-
+1
+-
+111
+-
+7
+-,
+33--t---v
+1-
+11-
+8
+,-
+06
+-,4
+-
+0-r-------~-r lord of 7th Rahu is connected
+Vl 21 '33
+with Venus,ll, 5. Hence
+of II. Sub lord Moon is
+ve 08:48
+Me[R]13:45
+Su 05:21
+
+## X 19:33
+
+Ju24:00
+
+## IV 19:33
+
+querent will have
+a
+love
+marriage.
+
+## 11th cusp (Leo 21".33'):
+
+The sub lord of the 11'h cusp
+is Jupiter. Jupiter is in the
+star of Mercury and sub of
++---------.::~-------+~-------+Mars. Jupiter is conjoined with
+Re 16:30
+Sa 18:58
+
+## XI 21:33
+
+Ill 17:33
+Venus natural karaka of
+marriage and Sun, owner of
+
+## 11. Star lord Mercury is also
+
+118:o&:40
+1117:33
+conjoined with Venus natural
+Mo 20:21
+J.<'..-------+-------1--------..:::.t karaka of marriage and Sun,
+owner of II. Sub lord Mars is owner of 2, 7. Thus the cuspal sub lord of lith
+is connected with Venus, 2, 7, 11. So desire of querent will be fulfilled.
+Ruling Planets
+Day lord
+Sign lord
+Star lord
+Day.
+Wednesday
+Mercury
+As c.
+Aquarius 29M5'
+Saturn
+Jupiter
+Moon
+Libra
+
+## 20°.21'
+
+Venus
+Jupiter
+At the time of judgment Rahu is conjoined with Saturn and Ketu is in Aquarius;
+thus both Rahu and Ketu represents Saturn. Rahu is in the star of Venus.
+Hence the ruling planets are Mercury, Jupiter, Venus, Rahu and Ketu.
+Joint Period
+At the time of judgment (Balance dasa of Jupiter for 15Y 6M 29D), the querent
+260
+
+## PRASHNA JYOTISH
+
+
+
+was running the joint period of Jupiter- Jupiter. Jupiter is in the sub of Mars
+owner of 2, 7. Jupiter is the sub lord of 11 and in the ruling planets. So
+during this joint period love marriage is promised.
+Rahu represents Saturn and Venus. The ruling planets are given above and
+we consider Rahu against Saturn and Venus. Now in the ruling planets we
+have Mercury which is in the star of Saturn, owner of 5. Thus Mercury is the
+significator of 5 and we select Mercury and Rahu as joint period.
+In the Jupiter- Jupiter joint period, after antra dasa Jupiter, next antra is
+Saturn. But we have discussed above and we consider next Mercury antra.
+The joint period of Jupiter- Jupiter- Mercury is running from 14-101979 to 3-
+2-1980, when querent gets married.
+Actually during the joint period of Jupiter- Jupiter- Mercury- Rahu from 14-
+10-1979 to 3-2-1980, on 29-12-1979 querent had love marriage.
+Transit
+On 29-12-1979 transttmg Sun was in Sagittarius 13° .40' in the sign of dasa
+nath Jupiter. Transiting Moon was in Aries 19° to 26° from the 7th bhava.
+Transiting Jupiter was in Leo 16°.46' in the star of significator Venus. Transiting
+Mercury was in Sagittarius 00°.41' in the sign of dasa nath Jupiter. Transiting
+Rahu was in Leo 08°.34' in the sub of dasa nath Jupiter.
+
+## PRASHNA JYOTISH
+
+261
+
+
+Example 71 . Inter Religious Love Marriage
+Question: My younger sister ran away from home and we hear that she was
+married with a Muslin boy, is it true? Will she come back home after separation
+from this boy? If so, when?
+Number. 123 (out of 249).
+Time of Judgment. 29-06-1981, Monday; 07-00 AM 1ST
+Place of Judgment. 23o N 02', no E 35'. Ayanamsha 23°.29'
+\1125:03
+Mo05:58
+Me[R] 03:38
+Ma 23:15
+Su 13:43
+Vll25:03
+\111126:03
+
+## V26:06:40
+
+Ve 05:28
+Ra 09:32
+
+## IX27:03
+
+
+## IV 28:03
+
+
+## X28:03
+
+11127:03
+Ke 09:32
+Ju 08:27
+Sa 09:59
+)(126:06:40
+1126:03
+125:03
+Xll25:03
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+Cusp Sgn
+Stl Sbl
+Sun
+Me
+Ra
+Me
+.
+Moon
+Ve
+Su
+Me
+1
+Ma
+Me
+Ra .
+7
+Ve
+Ma
+Ra
+.
+Mars
+Ve
+Mo
+Su
+2
+Ju
+Ve
+Ke .
+8
+Me
+Ju
+Ke
+Mercury[R]Me
+Ma
+Ve
+.
+Jupiter
+Me
+Su
+Ve
+3
+Sa
+Ma
+Ju
+9
+Mo
+Me
+Ju
+.
+Venus
+Mo
+Sa
+Me
+4
+Sa
+Ju
+Ve
+•
+10
+Su
+Su
+Mo
+Saturn
+Me
+Su
+Ve
+5
+Ju
+Me
+Ju
+•
+11
+Me
+Ma
+Ju
+Rahu
+Mo
+Sa
+Ve
+•
+Ketu
+Sa
+Su
+Ve
+6
+Ma
+Ve
+Me
+•
+12
+Ve
+Ju
+Me
+Moon
+In this horary map the brother put the query about the marriage of his younger
+sister. So consider the 3rd house as the Asc. for the sister and proceed. For
+convenience each house counted from the 3rd cusp. In this horary map for
+brother, Moon is conjoined with Mars, owner of 3. Thus Moon clearly indicates
+that the query is regarding younger sister. Moon is in the star of Sun and
+sub of Mercury. Consider the 3rd house as the Asc. for the sister and both
+star lord Sun and sub lord Mercury are occupant of 7 (marriage). Thus query
+is clearly regarding marriage of younger sister.
+Cuspal Sub Lord
+
+## Younger sister's 7th cusp (Taurus 25° .03'):
+
+Younger sister's 7th cusp sub lord is Rahu. Rahu is in the star of Saturn and
+sub of Venus. Rahu is conjoined with owner of 7 Venus, which is also the
+sub lord. Venus is natural karaka of marriage. Rahu is natural karaka of inter
+cast/ inter state/ inter country/ inter religious relation and also indicates
+Muslim religion. Thus marriage with a Muslim takes place. Star lord Saturn is
+262
+
+## PRASHNA JYOTISH
+
+
+
+Joint Period
+owner of 3 (away from home),
+conjoined with Jupiter, owner of
+2 (family). Sub lord Venus is
+owner of 12 (unknown place) and
+7 (marriage). Thus younger
+sister's 7th cusp sub lord Rahu
+is the significator of 3, 12 and
+connected with 12, 2, 7. Rahu is
+also connected with Venus. So it
+is clear that his sister ran away
+from home with a Muslim boy for
+marriage.
+Younger sister's Asc. (Scorpio
+
+## 25° .03):
+
+Younger sister's Asc sub lord is
+also Rahu. Thus it tallies with
+what we have discussed above
+that his younger sister ran away
+with a Muslim boy for marriage.
+l. At the time of judgment (Balance dasa of Sun for l Y 9M 23D), the querent
+was running the joint period of Sun-Mercury-Moon from 16-6-1981 to 12-7-
+
+## 1981.
+
+
+## 2. Querent heard that his younger sister married a Muslim boy on 18-6-1981.
+
+Now let us check what indication was given by the joint period lords. Marriage
+takes place during the joint period lords of 2, 7, 11. 7th cusp sub lord indicates
+the querent's sister's marriage, thus we will check the joint period lords.
+
+## 3. Dasanath Sun is in the star of Rahu and sub of Mercury. Star lord Rahu
+
+is conjoint with younger sister's 7th owner Venus. Sub lord Mercury is owner
+of 11 and occupant of 7. The deciding factor is sub lord and so dasanath
+indicates marriage.
+Bhukti nath Mercury is in the star of Mars and sub of Venus. Star lord Mars
+is owner of 1, 6 and very near to 7th cusp. Mars is aspected by Jupiter, owner
+of 2. Sub lord Venus is owner of 7. The deciding factor is sub lord and so
+Bhukti na th also indicates marriage.
+As we have discussed above about Moon, the Antra Moon is a strong significator
+of marriage. Thus during the joint period of Sun-Mercury-Moon from 16-6-
+1981 to 12-7-1981, the clear indication is about his younger sister's marriage.
+It means we can say that his sister was already married during this period.
+
+## 4. Moon is transiting on 18-6-1981 in Sagittarius r to 13o in the star of Ketu.
+
+In this horary map Ketu is transiting in the star of Sun, occupant of 7 and in
+the sub of Venus, owner of 7. So Ketu is the very strong significator of 7.
+Thus during this time Moon promised marriage and his sister married on 18-
+6-1981.
+News
+Hints
+1)
+Bhava 3 indicates news and 11 is success, fulfillment of desire; thus on
+
+## PRASHNA JYOTISH
+
+263
+
+
+Vo05:28
+Ra09:32
+
+## IX 27:03
+
+
+## X 28:03
+
+Mo05:58
+Ma23:15
+Vll25:03
+Vl25:03
+Xll25:03
+v 26:06:40
+125:03
+
+## IV 28:03
+
+11127:03
+Ko09:32
+1126:03
+that day when Moon transits
+the exact Deg/Mnt/Sec of
+significators of 3 and 11, we
+hear news about the missing
+person.
+ln this horary map from
+querent's Asc, Mercury is in
+the star of Mars, owner of 3.
+No planet is occupant of 3
+and 11. Thus Mercury is the
+significator of 3 and Mars is
+the significator of 11 when
+Moon passes on Mars (Taurus
+
+## 23°. 15') on 30-6-1981 or when
+
+Moon passes on Mercury (Gemini 03°.38') on 1-7-1981; so during this time
+news would be heard about his younger sister.
+2) When transit Moon passes over the Deg/Min/Sec of the significator of 3, on
+that day querent gets news about the missing person.
+ln this horary map from querent's younger sister bhava, 3rd bhava significators
+are Venus and Rahu (both are in the star of Saturn, sister's 3rd owner).
+Thus when Moon passes on Venus (Cancer 05°.28') and Rahu (Cancer 09°.32')
+on 3-7-1981 querent got news about his sister.
+Actually he had registered a police complaint, and he was informed by police
+that his sister and Muslim boy were present in police station on 3-7-1981.
+Love Marriage
+
+## Younger Sister's 5th Cusp (Pisces 26° .06'.40"1:
+
+Younger sister's 5th cusp sub lord is Jupiter. Jupiter is in the star of Sun and
+sub of Venus. Jupiter is owner of 5 (love) and 2 (family). Star lord Sun is
+occupant of 7 and conjoined with Mercury, owner of 11. Sub lord Venus is
+owner of 7 and conjoined with Rahu natural karaka of inter cast/inter state/
+inter country linter religious relation and also indicates Muslim religion. Thus
+marriage took place with a Muslim as indicated by 7th realted with Rahu
+(Muslim). Thus younger sister's 5th cusp sub lord is Jupiter which is a strong
+significator of 7 and connected with 2, 5, 7, 11 and also Venus and Rahu. So
+we could predict that his sister was in love and married with a Muslim boy.
+Some Interesting Points in This Horary Map
+From younger sister's Asc, Sun, Moon and Venus are in the sub of retrograde
+Mercury. Mars is in the sub of Sun, occupant of 7 and owner of 10. Mercruy,
+Jupiter, Saturn, Rahu and Ketu are in the sub of Venus, owner of 7 and 12.
+Thus marriage and separation, despair are the main indication in this horary
+map. All the sub lords signify marriage and divorce too.
+Especially the sub lord of Mars is Sun and Mercury, Jupiter, Saturn, Rahu
+and Ketu are in the sub of Venus. both sub lord Sun and Venus are lastly in
+the retrograde sub Mercury; thus we can assume that finally the result will be
+nagative.
+Joint Period
+
+## 1. At the time of judgment (Balance dasa of Sun for l Y 9M 23D), the querent
+
+264
+
+## PRASHNA JYOTISH
+
+
+
+was running the joint period of Sun-Mercury-Moon from 16-6-1981 to 12-7-
+
+## 1981. After that Sun-Mercury-Mars joint period starts from 12-7-1981 to 30-
+
+7-1981. Mars is owner of 1 and 6 of sister which indicates no satisfaction in
+married life. Its star lord Moon is occupant of 6. Its sub lord Sun is owner of
+
+## 10. Thus Mars is the strong significator of 6 and connected with 10. So during
+
+Mars Antra she can't be able to enjoy married life. Actually his sister came
+back to her father's house on 17-7-1981.
+
+## 2. Let us check dasanath and Bhukti nath with other aspects. Sun is owner
+
+of 10; its star lord Rahu is occupant of 8 and conjoint with Venus, owner of
+
+## 12. Its sub lord Mercury is retrograde and owner of 8. Bhukti nath Mercury
+
+is owner of 8; its star lord Mars is owner of 1, 6 and sub lord Venus is owner
+of 12 and occupant of 8. House 8 indicates despair, house 12 indicates
+separation, 1, 10, 6 houses indicate absence of married life. The final decision
+is upon the sub lord and both sub lords indicate separation and despair.
+Dasanath Sun is owner of 10 and indicates absence of married life. Bhukti
+nath Mercury is owner of 8 and so indicates despair. Star lord of dasanath
+and Bhukti nath also indicate despair and absence of married life. Thus this
+marriage turns into separation and despair. During Sun-Mercury joint period
+up to 15-12-1981 his sister separated from the Muslim boy.
+
+## 3. Saturn is occupant of 10 and owner of 10 of girl's husband. Its star lord
+
+Sun is owner of 10 of his sister and occupant of Asc of her husband. Its sub
+lord Venus is owner of 12 of his sister and owner of 1, 6 for her husband. So
+Saturn indicates despair and absence of married life during Sun, Mercury,
+and Saturn joint period from 27-10-1981 to 15-12-1981 and so they will
+separate and take divorce. His younger sister is still at his father's house and
+separated from the Muslim boy.
+
+## PRASHNA JYOTISH
+
+265
+
+
+Example 72. Second Marriage
+Question. I want to marry second time, when will I get married?
+Number.151 (out of 249).
+Time of Judgment. 23-03-1970, Monday; 12-00 PM IST
+Place of Judgment. 23° N 02', no E 35', Ayanamsha 23°.20'
+Vl12:40
+
+## VII 07:20:00
+
+
+## VIII 07:12
+
+Ve22:40
+Sa 13:48
+v 14:12
+Ma 18:11
+Su 08:50
+Me 08:29
+
+## IX 09:12
+
+Ra 17:38
+
+## IV 12:12
+
+
+## X 12:12
+
+Ke17:38
+Ill 09:12
+Mo 11:05
+Xl14:12
+Xll12:40
+
+## II 07:12
+
+
+## I 07:20:00
+
+Ju[R]11:07
+Planet
+Sgn Stl
+Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl
+Sbl
+Sun
+Ju
+Sa
+Ve
+0
+Moon
+Me
+Mo
+Mo
+1
+Ma
+Sa
+Ke
+0
+7
+Ve
+Su
+Ke
+Mars
+Ma
+Ve
+Ra
+2
+Ju
+Ke
+Ra
+0
+8
+Me
+Ra
+Ra
+Mercury Ju
+Sa
+Ve
+3
+Sa
+Su
+Ve
+0
+9
+Mo
+Sa
+Ve
+Jupiter[R] Ve
+Ra
+Sa
+0
+Venus
+Ju
+Me
+Mo
+4
+Sa
+Ra
+Sa
+0
+10
+Su
+Ke
+Me
+Saturn
+Ma
+Ve
+Ve
+5
+Ju
+Sa
+Ra
+0
+11
+Me
+Mo
+Ju
+Rahu
+Sa
+Ra
+Su
+0
+Ketu
+Su
+Ve
+Ma
+6
+Ma
+Ke
+Me
+0
+12
+Ve
+Ra
+Me
+Hints
+If 7th cusp sub lord be Mercury or deposited in dual sign (Gemini, Sagittarius,
+and Pisces) or any other planet occupying in dual sign or deposited in the
+star of occupant of dual sign or in the star of owner of dual sign, Mercury or
+
+## IX 09:12
+
+
+## X 12:12
+
+Ko 17:38
+266
+Mo 11:05
+
+## X114:12
+
+Vl12:40
+Sa 13:48
+Ma18:11
+Xll12:40
+Ju[R]11:07
+Ve 22:40
+v 14:12
+Ill 09:12
+Jupiter and be a significator
+(in the star of the occupant or
+owner) of 2 or II, then during
+the joint period of 2, II there
+is
+a
+chance
+of
+second
+marriage.
+7th cusp sub lord and its star
+lord must be in direct motion.
+Moon
+In this horary map Moon is
+aspected by Venus, owner of 7.
+Thus it indicates that the
+querent desires to get married.
+Cuspal Sub Lord
+
+## PRASHNA JYOTISH
+
+
+
+
+## PRASHNA JYOTISH
+
+
+## 7th Cusp (Taurus 07°.20'):
+
+The sub lord of the 7th cusp is
+Ketu. Ketu is in the star of Venus
+and sub of Mars. Ketu is occupant
+of 10 in fixed sign Leo. Star lord
+Venus is occupant of 5 in dual
+sign Pisces and owner of 7, 12.
+Sub lord Mars is owner of 1, 6
+and occupant of 6. So 7th cusp sub
+lord is in the star of owner of dual
+sign but does not signify 2, 11.
+Thus querent will not get married
+second time. This is 1982 and till
+date he is not able to marry
+second time.
+267
+
+
+Example 73. Child Birth
+Question. When will I have delivery of a child?
+Number. 133 (out of 249).
+Time of Judgment. 15-12-1974, Sunday ; 05-15 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.24'
+Planet
+Sgn Stl Sbl
+Cusp
+Sun
+Ma
+Me
+Sa
+Moon
+Ju
+Ve
+Ju
+1
+Mars
+Ma
+Sa
+Ve
+2
+Mercury
+Ma
+Me
+Ju
+3
+Jupiter
+Sa
+Ra
+Su
+Venus
+Ju
+Ke
+Ju
+4
+Satum[R] Me
+Ju
+Sa
+5
+Rahu
+Ma
+Sa
+Ju
+Ketu
+Ve
+Mo
+Sa
+6
+Hints
+Sgn
+Stl
+Ve
+Ra
+Ma
+Sa
+Ju
+Ke
+Sa
+Mo
+Sa
+Ra
+Ju
+Sa
+Vl15:30
+Ju 17:27
+v 15:30
+
+## IV 13:30
+
+Mo 20:20
+11111:36
+Ve 09:15
+Sbl
+Me
+Mo
+Me
+Ra
+Ve
+Ju
+Vll12:33:20
+Vlll11 :30
+Ke16:04
+Su 29:43
+Me 27:18
+Ra 16:04
+1111:30
+Me 09:49
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+112:33:20
+Cusp Sgn
+7
+Ma
+8
+Ve
+9
+Me
+10
+Mo
+11
+Su
+12
+Me
+
+## IX 11:36
+
+Sa[R]23:45
+
+## X 13:30
+
+Xl15:30
+Xll15:30
+Stl Sbl
+Ke
+Me
+Mo
+Ma
+Ra
+Sa
+Sa
+Ra
+Ve
+Ve
+Mo
+Ju
+If the sub lord of the 5th cusp (female) or the 11th cusp (male) is the significator
+(in the star of the occupant or owner) of 2 (increase in family), 5 (conception,
+child) or II (5th from 7) or connected with 2, 5 or II, child birth is promised.
+If it is the significator of I, 4 or 10 (being 12th from 2, 5 and 11), child birth
+is not promised during the joint period of 2, 5, 11.
+Sun, Mars and Jupiter are male planets and Moon, Venus, and Rahu are female
+planets. Mercury and Ketu are neuter gender. Odd number sign indicates male
+and even number sign indicates female. However, it is most difficult to predict
+child gender.
+Moon
+In this horary map Moon is in the star of Venus and sub of Jupiter. Both
+Jupiter and Venus are natural karaka of child birth. Star lord Venus is
+occupant of 2 and conjoined with Moon, delivery karaka. Sub lord Jupiter is
+occupant of 5. Thus it indicates that the querent's question is related to child
+birth.
+268
+
+## PRASHNA JYOTISH
+
+
+
+
+## 11th Cusp (Leo 15°.30'}:
+
+Cuspal Sub Lord
+
+## 5th Cusp (Aquarius 15° .30):
+
+The sub lord of the 5th cusp is
+Venus. Venus is in the star of
+Ketu and sub of Jupiter. Venus
+occupies 2. Star lord Ketu
+represents Venus by being in
+Taurus sign and is also aspected
+by Sun, owner of 11. So it
+represents
+Sun. Thus Ketu
+signifies 2, 11. Sub lord Jupiter
+is occupant of 5. Thus 5th cuspal
+sub lord Venus is connected with
+2, 5, 11 and child birth karaka
+Jupiter and Venus.
+So the
+querent will have child birth for
+sure.
+The sub lord of the 11th cusp is Venus. Hence the position will be the same
+as above.
+
+## IX 11:36
+
+Sa[RJ23:45
+Vlll11:30
+Ke16:04
+Vll12:33:20
+Vl15:30
+Ju 17:27
+v 15:30
+Joint Period
+At the time of judgment
+(Balance dasa of Venus for 9Y
+6M OD), the joint period of
+t---------""1------t!'--------t- Venus-Jupiter-Jupiter
+is
+
+## X 13:30
+
+
+## IV 13:30
+
+running till 23-12-1974.
+Dasanath Venus is the sub
+lord of 5th and 11th . Bhukti
+nath Jupiter is in the star of
+t---------:::>1-------llo:--------.. Rahu, occupant of 2 and in
+
+## X115:30
+
+Xll15:30
+112:33:20
+Mo20:20
+11111:36
+Ve 09:15
+the sub of Sun, occupant of
+2 and owner of 11. Thus
+bhukti nath is the strong
+significator of 2. Joint period
+
+## JL--------+-----~,_.;...;.;.;..;;.. ____
+
+....;:,1... of Venus-Jupiter-Saturn is
+running from 23-12-1974 to 25-5-1975. Saturn is in the star of Jupiter,
+occupant of 5 and in the sub of Saturn, owner of 5. Thus Saturn is the strong
+significator of 5. Venus-Jupiter-Saturn-Saturn joint period is running from 23-
+12-1974 to 17-l-1975. Saturn is in retrograde motion. So she will have some
+difficulties in delivery and also take long time in child birth.
+Next Venus-Jupiter-Saturn-Mercury is running from 17-1-1975 to 8-2-1975.
+Mercury is in the star of own occupying 2 and in sub of Jupiter, occupant of
+
+## 5. Thus Mercury is the strong significator of 2 and connected with 5. So during
+
+this joint period she will deliver child. Actually on date 30-l-1975 she delivered
+a baby boy.
+Transit
+On 30-l-1975 Sun was transiting in Capricorn 17° in the sub of Antra nath
+
+## PRASHNA JYOTISH
+
+269
+
+
+Saturn. Saturn was transltmg in Gemini 20°.09' in the sub of Bhukti nath
+Jupiter. Jupiter was transiting in Aquarius 25° .37' in the own star. Venus
+and Mercury were transiting in Aquarius Antra nath's sign.
+Predicting the gender of a child is always difficult. In this case 5th cusp sign
+lord is Saturn. Saturn is in the star of Jupiter and sub of own. Saturn is in
+odd sign Gemini and occupant of odd house 9. Saturn was aspected by Mars
+and Jupiter, male planet. Star lord Jupiter is in odd sign Aquarius and occupant
+of odd house 5; Jupiter is male planet; thus we can say she will deliver a
+baby boy.
+270
+
+## PRASHNA JYOTISH
+
+
+
+Example 7 4. Child Birth
+Question. I am worried about my wife's delivery and her longevity, is there
+any problem?
+Number. 179 (out of 249).
+Time of Judgment. 16-09-1975, Tuesday; 05-15 PM 1ST
+
+## IST
+
+Place of Judgment. 23° N 02', 7r E 35', Ayanamsha 23°.24'
+Ve[RJ 02 Le 05
+
+## X 00:07
+
+Ko 01:30
+Xl28:07
+Xll22:36
+Ma24:51
+Ju[R]29:36
+
+## IX27:07
+
+Vlll21:07
+Mo 15:40
+Vl22:36
+v 28:07
+Vll17:20:00
+Re 01:30
+
+## IV00:07
+
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Sun
+Su
+Su
+Ra
+0
+Moon
+Sa
+Mo
+Sa
+1
+Me
+Ra
+Ve
+0
+7
+Ju
+Mars
+Ve
+Ma Ra
+2
+Mo
+Me
+Ve
+0
+8
+Sa
+Mercury
+Me
+Ma Ra
+3
+Su
+Su
+Su
+0
+9
+Jupiter[R] Ju
+Me
+Sa
+0
+Sa
+Venus[R] Su
+Ke
+Ve
+4
+Ve
+Ma
+Me
+0
+10
+Ma
+Saturn
+Mo
+Sa
+Me
+5
+Ve
+Ju
+Ve
+0
+11
+Ma
+Rahu
+Ma
+Ju
+Ra
+0
+Ketu
+Ve
+Su Ju
+6
+Ma
+Me
+Mo
+0
+12
+Ve
+Moon
+117:20:00
+Sa 06:32
+1121:07
+Vo[R] 02:05
+11127:07
+Su 29:35
+Me26:05
+Stl Sbl
+Ve
+Ma
+Mo
+Ve
+Ju
+Ve
+Ke
+Ke
+Su
+Mo
+Mo
+Ve
+In this horary map the husband put the query about his wife. So consider the
+7tlt cusp as the Asc. for the wife and proceed. For convenience each house
+counted from the 7th cusp. Moon is in the star of own and sub of Saturn.
+Star lord Moon is occupant of 7 (Badhaka) and owner of 2 (increase in family).
+Sub lord Saturn is owner of 8 (longevity, death) and occupant of Asc (health,
+longevity). Moon and Saturn aspect each other. Thus it indicates that the
+querent's question is related to child birth and her longevity, because Moon is
+querent's owner of 8 (tension) and occupant of Asc.
+Cuspal Sub Lord
+
+## Wife's Asc. Cusp (Gemini 17° .20):
+
+Wife's sub lord of the Asc is Venus. Venus is in the star of Ketu and sub of
+own. Star lord Ketu is occupant of 11. Sub lord Venus is owner of 5. Thus
+Asc sub lord Venus is the significator of 11 and connected with 5. Thus it is
+clear that there is no harm to wife's longevity.
+Star lord Ketu is conjoined with Mars, owner of 6 (disease) and 11 (delivery,
+cure). Sub lord Venus is owner of 5 (child birth), 12 (hospital) and occupant
+
+## PRASHNA JYOTISH
+
+271
+
+
+of 2 (increase in family). Venus is aspected by Mars. Thus Asc sub lord Venus
+is connected with 2, 5, 11, 6 ,12 and Mars; so delivery will be cesarean and
+hospital and illness are indicated.
+Wife's
+8th
+Cusp
+(Capricorn
+
+## 21°.07'}: The cuspal sub lord of the
+
+8'
+is
+also
+Venus.
+Thus
+as
+discussed above, his wife's delivery
+will be cesarean and hospital and
+illness are indicated.
+
+## Wife's 5th Cusp (Libra 28° .07):
+
+The cuspal sub lord of the 5th is
+Venus. Venus is retrograde. Venus
+is in the star of Ketu and sub of
+own. Star lord Ketu is occupant of
+11 and sub lord Venus is occupant
+of 2 and owner of 5. Venus is in
+retrograde motion. Venus is karaka
+of pregnancy, and significator of 11
+and connected with 5. So it is sure
+"r<::------:-:--t------+------~71 that she is pregnant.
+Ju[R] 29:36
+But star lord is Ketu and does
+not indicate normal delivery.
+
+## IX27=07
+
+Ketu is conjoint with Mars
+t-------.....:::.+------+<=-..,.-------+ (operation karaka) and owner of
+Sa 06:32
+1121:07
+Vlll21:07
+Mo 15:40
+
+## 6.
+
+Sub lord Venus is
+in
+retrograde motion and aspected
+by Mars; thus delivery would
+be by operation and not in
++-------~~-----~-----------+normal way.
+Vo[R] 02:05
+11127:07
+Su 29:35
+Consider 5th cusp as child's
+Asc. and proceed. Child's Asc
+v2s:01
+Vl22:36
+sub lord is Venus. Venus is in
+Me 26:05
+
+## IV 00:07
+
+
+## R 01 30
+
+J£.---.,...,....-----,-l---....,.-...,..--1--.,...,-•-=__,.....,.-.,......~ the star of Ketu and sub of
+own. Venus is owner of Asc, 12 and 8, alsoconjoined with Badhaka Sun and
+aspected by Mars, owner of 2, 7 (Markesh). Star lord Ketu is occupant of 7
+(Maraka) and conjoined with Mars, occupant of 8. Sub lord Venus is retrograde
+and owner of 12 and 8. Thus it is clear that child may be dead; let us say
+that at the time of question the child was death in womb.
+Joint Period
+At the time of judgment (Balance dasa of Moon for 5Y 9M OD), the joint period
+of Moon-Saturn-Saturn was running. Both Moon and Saturn are connected
+with Badhaka and I ,8, indicating danger to wife.
+Actually on 20-9-1975 night his wife was admitted in hospital and the doctor
+declared that the child was dead and it needed to remove the child immediately
+by operation. At that time of operation Moon was in Pisces 6° in the star of
+Saturn and sub of Mercury. In horary map Saturn signifies wife's I and 8.
+Mercury was the string significator of 12, 6, 11 and conjoined with Mars. So
+the operation was done and the dead child was separated from mother.
+272
+
+## PRASHNA JYOTISH
+
+
+
+Example 7 5. Child Birth
+Question. When will my wife deliver a child?
+Number. 111 (out of 249).
+Time of Judgment. 27-07-1978, Thursday; 07-11 AM IST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23° .27'
+
+## II 08:38
+
+Ill 06:38
+
+## IV07:38
+
+Mo 11:48
+Ju 28:06
+
+## I 07:46.40
+
+Ke06:09
+
+## V08:38
+
+Su 10:14
+
+## XII 08:38
+
+Me 06:26
+Se 08:37
+
+## VI 08:38
+
+Ve 23:24
+
+## XI 08:38
+
+Ma 01:27
+Ra 06:09
+
+## VII 07:46.40
+
+
+## X07:38
+
+
+## IX 06:38
+
+
+## VIII 06:38
+
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl Sbl
+Sun
+Mo
+Sa
+Ve
+0
+Moon
+Ma
+Ke
+Me
+1
+Ju
+Sa
+Ke
+0
+7
+Me
+Su
+Ve
+Mars
+Me
+Su
+Ju
+2
+Ma
+Ke
+Ra
+0
+8
+Ve
+Ma
+Mo
+Mercury Su
+Ke
+Ra
+0
+Jupiter
+Me
+Ju
+Ve
+3
+Ve
+Su
+Me
+0
+9
+Ma
+Sa
+Me
+Venus
+Su
+Ve
+Sa
+4
+Me
+Ra
+Ra
+0
+10
+Ju
+Ke
+Ju
+Saturn
+Su
+Ke
+Ra
+0
+5
+Mo
+Sa
+Ve
+0
+11
+Sa
+Su
+Ve
+Rahu
+Me
+Su
+Me
+0
+Ketu
+Ju
+Sa
+Me
+6
+Su
+Ke
+Ju
+12
+Sa
+Ra
+Ra
+Ill 06:38
+
+## II 06:38
+
+
+## I 07:46.40
+
+Moon
+Mo 11:46
+Ke 06:09
+In
+this
+horary
+the
+map
+
+## IV 07:38
+
+
+## XII 08:38
+
+husband put the query about
+Ju 28:06
+his wife. So consider the 7th
+cusp as the Asc. for the wife
+and proceed. For convenience
+v 08:38
+
+## XI 08:36
+
+each house counted from the
+Su 10:14
+7th cusp. In this horary map
+Moon is owner of 5 and
+occupant of 2 (increase in
+Me 06:26
+family); its sub lord Mercury is
+Sa 06:37
+occupant of 5 (conception,
+
+## VI 06:38
+
+child). Thus it indicates that
+Ve23:24
+the querent's question is
+
+## VIII 06:36
+
+related to child birth.
+Cuspal Sub Lord
+
+## Wife's 5th Cusp (Cancer 08° .38):
+
+The sub lord of the 5th cusp is Venus. Venus is karaka of conception. Venus
+
+## PRASHNA JYOTISH
+
+273
+
+
+is conjoined with Saturn, owner of 11. Venus is in the star of own and sub of
+Saturn. Saturn is occupant of 5 and owner of 11. Thus 5'h cuspal sub lord
+Venus is connected with 5, 11 and karaka of conception Venus. So the querent
+will have child birth for sure.
+
+## Wife's 11 1h Cusp (Capricorn 08° .38):
+
+The sub lord of the 11th cusp is Venus. Hence the position will be the same
+as above.
+Ruling Planets
+Day.
+As c.
+Thursday
+Cancer 22o .39'
+Moon. Aries 11 °.46'
+Day lord
+Jupiter
+Sign lord
+Moon
+Mars
+Star lord
+Mercury
+Ketu
+Ketu is in Pisces and aspected by Mars; thus Ketu represents the ruling planets
+Mars and Jupiter. Rahu is in Virgo, so Rahu represents Mercury. Hence the
+ruling planets are Moon, Mars, Mercury, Jupiter, Rahu and Ketu.
+Significators of 2, 5 and 11
+Blilava
+In the star of
+Occupant (B)
+In the star of
+Owner(D)
+occupant (A)
+owner( C)
+2
+Moo
+Mar
+5
+Mar-Rah
+Sun
+Moo
+Mer
+Sun-Ket
+Sat
+l1
+Sun-Ket
+Sat
+Thus significators are Moon, Mars, Rahu, Mercury, Sun, Ketu.
+The common planets between the ruling planets and the significators are Moon,
+
+## Mars, Mercury, Ketu and Rahu. So now we check these significators as below:
+
+Joint Period
+At the time of judgment (Balance
+dasa of Ketu for OY 9M 26D), the
+joint period of Ketu-Mercury-Ketu is
+running from 16-7-1978 to 7-8-
+
+## 1978.
+
+The joint period rulers Ketu and
+Mercury are in the significators and
+ruling planets. Thus during this
+joint period child birth is certain.
+Ketu Antra is up to 7-8-1978 and
+this Antra cannot give result
+because Saturn is in 11th house in
+querent's chart and owner of ll'h
+house in wife's chart; so there is
+delay in delivery.
+The next Antra are Venus and Sun.
+
+## PRASHNA JYOTISH
+
+
+
+However they cannot be considered, because they are not in the list of common
+planets between the RPs and significators (see above).
+After Ketu Antra it is Moon Antra. So during the joint period of Ketu-Mercury-
+Moon from 15-10-1978 to 24-11-1978, child birth is assured.
+During this joint period up to 7-11-1978, Sun is transiting in the star of Rahu.
+Rahu is in the ruling planets and significators; thus before 7-11-1978 she can
+deliver the child.
+Actually she delivered a baby boy during the joint period of Ketu-Mercury-
+Moon-Rahu on 4-11-1978.
+Transit
+On 4-11-1978 Sun was trans1t1ng in Libra 18°.16' in the star of
+Sookshma dasanath Rahu. Moon was transiting in Sagittarius 6° in the star
+of dasanath Ketu. Ketu was transiting in Pisces 00° .49' in the sub of significator
+Mars. Mercury was transiting in Scorpio 08°. 10' in the star of significator
+Saturn. Rahu was transit in Virgo 00°.49' in the own sub.
+Predicting gender of a child is always difficult. ln this ease 5th cusp sub lord
+is Venus; Venus is in the star of own and sub of Saturn. Venus and Saturn
+is in odd number sign Leo and occupant of odd number house 5. Thus we
+can say she delivered a baby boy.
+
+## PRASHNA JYOTISH
+
+275
+
+
+Example 76. Child Birth
+Question. When will my wife deliver a child?
+Number. 137 (out of 249).
+Time of Judgment. 21-09-1978, Thursday; 03-49 PM IST
+Place of Judgment. 23o N 02', 72o E 35', Aynamsha 23°.27'
+118:08:40
+Mo03:02
+11117:34
+1117:34
+Xll21 :34
+Ke03:08
+Ju09:27
+
+## IV 19:34
+
+Xl21:34
+Sa 13:38
+
+## V21:34
+
+Me28:49
+
+## X19:34
+
+Ra 03:09
+Su 04:38
+Va18:11
+Vl21:34
+Vl118:08:40
+
+## IX 17:34
+
+Vlll17:34
+Ma07:38
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+•
+Cusp Sgn
+Stl Sbl
+Sun
+Me
+Su
+Sa
+.
+Moon
+Ve
+Su
+Sa
+1
+Ma
+Ve
+Ra
+•
+7
+Ve
+Ra
+Mo
+Mars
+Ve
+Ra
+Ra
+2
+Ve
+Mo
+Sa .
+8
+Ma
+Me
+Me
+Mercury Su
+Su
+Su
+.
+Jupiter
+Mo
+Sa
+Ve
+3
+Me
+Ra
+Su
+•
+9
+Ju
+Ve
+Ma
+Venus
+Ve
+Ra
+Mo
+4
+Mo
+Me
+Ve
+.
+10
+Sa
+Mo
+Me
+Saturn
+Su
+Ve
+Ve
+•
+5
+Su
+Ve
+Ju
+11
+Sa
+Ju
+Ju
+Rahu
+Me
+Su
+Sa
+•
+Ketu
+Ju
+Ju
+Ra
+6
+Me
+Mo
+Ve
+.
+12
+Ju
+Me
+Su
+Moon
+In this horary map husband put the query about his wife. So consider the 7th
+cusp as the Asc. for the wife and proceed. For convenience each house counted
+from the 7th cusp. In this horary map Moon's star lord Sun is owner of 5 and
+11117:34
+Ju 09:27
+
+## IV 18:34
+
+Mo03:02
+118:06:40
+occupant of 5.
+Thus
+it
+1117:34
+indicates that the querent's
+
+## X 18:34
+
+question is related to child
+birth.
+Cuspal Sub Lord
+
+## Wife's 5th Cusp (Leo 21 °.34'):
+
+The sub lord of the 5th cusps
+is Jupiter. Jupiter is karaka of
+t-------"71-----;..-------+child and it is in the fruitful
+276
+Ve 18:11
+Vll18:08:40
+Ma07:38
+Vlll17:34
+sign Cancer. The querent asks
+
+## IX17:34
+
+about the third child birth
+and Jupiter is owner of 9 for
+his wife.
+
+## PRASHNA JYOTISH
+
+
+
+Jupiter is in the star of Saturn and sub of Venus. Star lord Saturn is owner
+of 11 and aspects on 11. Sub lord Venus is owner of 2. Thus 51h cuspal sub
+lord Jupiter is the significator of II and connected with 2; it is karaka of
+children and in the fruitful sign. So it is assured for the querent to have a
+child.
+
+## Wife's 11 1h Cusp (Aquarius 21°.34'):
+
+The sub lord of the 11'h cusp is Jupiter. Hence the position will be the same
+as above.
+
+## Wife's 91h Cusp (Sagittarius 170.34') :
+
+The sub lord of the 91h cusp is Mars. Mars is in the star and sub of Rahu.
+Star lord Rahu is occupant of 5; so having a third child is assured for the
+querent.
+Ruling Planets
+Day.
+Thursday
+Asc.
+Capricorn 13" .32'
+Moon. Taurus
+
+## 03".02'
+
+Day lord
+Jupiter
+Sign lord
+Saturn
+Venus
+Star lord
+Moon
+Sun
+Hence the ruling planets are Sun, Moon, Jupiter, Venus and Saturn. They all
+are also the significators of 2, 5, 11 houses.
+Joint Period
+At the time of judgment (Balance
+dasa of Sun for 3Y IM 19D), the
+joint period of Sun-Saturn is
+running from 16-9-1978. When
+Sun-Jupiter joint period was
+running his wife was pregnant.
+Running joint period of Sun-
+Saturn-Saturn is from 16-9-1978
+to 10-11-1978. Both period lords
+are in the ruling planets and also
+in the significators.
+Sun is in the own star and sub
+of Saturn. Star lord Sun is owner
+of 5 and occupant of 5. Sub lord
+Saturn is owner of II. Thus Sun
+is a strong significator of child
+birth.
+ln the wife's chart Saturn is in the star and sub of owner of 2 Venus; thus
+Saturn is also a significator of child birth.
+Dasanath Sun is the significator. Generally the significator gives the result
+during the joint period of its star lord and sub lord, in other words during the
+joint period of these three planets. Considering this rule we can assume that
+she delivered the child during the joint period of Sun- Saturn- Saturn.
+
+## PRASHNA JYOTISH
+
+277
+
+
+In Saturn antra we have first sookshma of Venus. Venus is owner of 2 and its
+star lord Rahu is occupant of 5. Venus is also star and sub lord of bhukti
+and antra Saturn. So Venus sookshma is very important. Thus during the
+joint period of Sun- Saturn- Saturn- Venus from 5-10-1978 to 14-10-1978,
+when transit agree, she will deliver a child.
+Actually she delivered a baby girl on 11-10-1978.
+Transit
+On 11-10-1978 Sun was transttmg in Virgo 24° in the star of Mars; Mars is
+the sub of wife's 9th (3rd child). Moon was transiting in Capricorn 25° in the
+star of Mars. Saturn was transiting in Leo 16° in the star of Sookshma dasanath
+Venus. Venus was transiting in Libra 28°.31' in own sub.
+Predicting a gender of child is always difficult. In this case 9th (3rd child) cusp
+sub lord is Mars; Mars is in the star and sub of Rahu. Mars is in the even
+number bhava 6, and conjoined with female planet Venus. Rahu is in the
+even number sign Virgo. Thus we can say she delivered a baby girl.
+278
+
+## PRASHNA JYOTISH
+
+
+
+Example 77. Child Birth
+Question. When will I deliver a child?
+Number. 133 (out of 249).
+Time of Judgment. 03-09-1979, Monday; 09-05 PM 1ST
+Place of Judgment. 23° N 02', no E 35', Ayanamsha: 23 •. 28'
+Planet
+Sgn Stl Sbl
+Cusp
+Sun
+Su
+Ve
+Mo
+Moon
+Sa
+Su
+Ke
+1
+Mars
+Me
+Ju
+Sa
+2
+Mercury Su
+Ke
+Ju
+3
+Jupiter
+Su
+Ke
+Ve
+Venus
+Su
+Ve
+Ra
+4
+Saturn
+Su
+Ve
+Sa
+5
+Rahu
+Su
+Ve
+Ve
+Ketu
+Sa
+Ra
+Ke
+6
+Moon
+Sgn
+Ve
+Ma
+Ju
+Sa
+Sa
+Ju
+Vl15:44
+v 15:44
+Ke 14:46
+lV13:44
+Mo 07:31
+Stl
+Sbl
+Ra
+Me
+Sa
+Mo
+Ke
+Me
+Mo
+Ra
+Ra
+Ve
+Sa
+Ju
+Vll12:33:20
+Vlll11:44
+0
+Cusp Sgn
+0
+0
+7
+Ma
+0
+8
+Ve
+0
+9
+Me
+0
+0
+10
+Mo
+0
+11
+Su
+0
+0
+12
+Me
+
+## IX 11:44
+
+Ma23:27
+
+## X 13:44
+
+Ju01:11
+Me 07:58
+Ra14:46
+Xl15:44
+Su 17:04
+Ve19:34
+Sa 22:55
+Xll15:44
+Stl
+Sbl
+Ke
+Me
+Mo
+Ma
+Ra
+Sa
+Sa
+Ra
+Ve
+Su
+Mo
+Sa
+In this horary map Moon is aspected by Mars, owner of 2 (increase in family);
+Moon is in the star of Sun, owner of 11. Star lord Sun is conjoined with
+Saturn, owner of 5. Thus Moon is connected with house 2, 5, 11 and so the
+querent's question is related to child birth.
+Cuspal Sub Lord
+
+## Wife's 5th Cusp (Aquarius 15°.44'):
+
+The sub lord of the 5th cusp is Venus. Venus is in the star of own and sub of
+Rahu. Star lord Venus is occupant of 11 and conjoined with Saturn, owner of
+5 and Sun, owner of 11. Venus is also conjoined with child karaka planet
+Jupiter, Venus is natural karaka of conception and aspects on 5th house. So
+the querent is pregnant and will have a child birth for sure.
+
+## Wife's 11th Cusp (Leo 15° .44):
+
+The sub lord of the 11'h cusp is Sun. Sun is in the star of Venus and sub of
+Moon. Star lord Venus is natural karaka of conception. Moon is also karaka of
+child birth. We have discussed above about Sun, Venus and Moon. Thus 11 <h
+cusp sub lord Sun is connected with 2, 5, 11 and Venus and Moon. So the
+
+## PRASHNA JYOTISH
+
+279
+
+
+querent will have a child for sure.
+Ruling Planets
+Day.
+Monday
+Asc.
+Cancer ooo.
+
+## 5 I'
+
+Moon Capricorn 07°.31'
+Day lord
+Moon
+Sign lord
+Star lord
+Mars
+Saturn
+Ketu
+Sun
+Rahu is in Leo and conjoined with Saturn. Rahu represents the ruling planets
+Sun and Saturn. Hence the ruling planets are Sun, Moon, Mars, Saturn, Rahu
+and Ketu.
+Significators
+Bhava
+In the star of
+Occupant (B)
+In the star of
+Owner( D)
+occupant (A)
+owner( C)
+2
+Mar
+5
+Sat
+11
+Moo
+Sun
+Moo
+Sun
+Sun-Ven-Sat-Rah
+Ven
+Sat
+Thus significators are Moon, Mars, Sun, Venus, Saturn and Rahu.
+Joint Period
+At the time of judgment (Balance dasa of Sun for 1 Y 1M llD), the joint period
+of Sun-Ketu is running.
+Dasanath Sun is the cuspal sub
+lord of 11th. Sun is also a strong
+significator and in the rulings
+planets. So Sun dasa is very
+important.
+Bhuktinath Ketu continues up to
+14-10-1978. Next Venus bhukti
+starts from 14-10-1978 to 14-10-
+
+## 1980. Venus is the cuspal sub lord
+
+of 51h and a strong significator of
+I 1. Venus is also Asc sub lord of
+horary map. So her delivery of a
+child during Venus bhukti is sure.
+Generally if we have Rahu or Ketu
+in the significator table, we give
+first preference to Nodes.
+In this
+horary map
+Rahu is in the
+srgnurcawr more anu arsu m we ruung pranets. Rahu is in the star and sub
+of bhukti nath Venus. So we consider Rahu antra. In the joint period of Sun-
+Venus- Rahu from 23-2-1980 to 17-4-1980 she will deliver a child.
+In Rahu antra first we have the significator Saturn. So we have to check the
+280
+
+## PRASHNA JYOTISH
+
+
+
+Vll12:33:20
+Vl15:44
+v 15:44
+Ke 14:46
+JOint period of Sun- Venus-
+Rahu-
+Saturn from 08-03-
+1980 to 16-04-1980. Saturn
+is in the ruling planets and
+1-------~------+"--------+ the significator. Actually she
+
+## X 13:44
+
+112:33:20
+
+## IV 13:44
+
+Mo07:31
+delivered a baby boy on 14-
+3-1980.
+Transit
+On
+14-03-1980 Sun was
+transiting in Pisces 00° .35' in
+the sub of Mars, a child birth
+karaka. Moon was transiting
+in Capricorn 29° in the sub
+of Sookshma dasa nath
+Saturn. Venus was transiting
+in Aries 15°06' in the star of own. Rahu was transiting in Leo 04°.31' in the
+sub of child birth karaka Moon. Saturn was transiting in Virgo 00°.08' in the
+star of dasanath Sun.
+Predicting a gender of child is always difficult. In this case 5th cusp sub lord
+is Venus; Venus is in the star of own and sub of Rahu. Venus and Rahu are
+in the odd number sign Leo, a male sign. Both are conjoined with the male
+planets Jupiter and Sun. Venus is occupant of the odd number house 11.
+Rahu is very near to odd number house 11. Thus we can say she delivered a
+baby boy.
+
+## PRASHNA JYOTISH
+
+281
+
+
+Example 78. Child Birth
+Question. My wife was pregnant since last 4 months, it will her second delivery;
+so will she deliver a baby boy or a baby girl and when?
+Number. 141 (out of 249).
+Time of Judgment. 17-01-1981, Saturday ; 05-15 AM IST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23° .29'
+
+## I 23:53:20
+
+1123:21
+Mo27:29
+
+## X1128:21
+
+Xl28:21
+
+## X 26:21
+
+Ma 20:30
+Ke18:10
+Me 14:40
+Su 03:44
+
+## IX24:21
+
+Va14:11
+Vlll23:21
+Vll23:53:20
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+lj
+Cusp Sgn
+Sun
+Sa
+Su
+Sa
+lj
+Moon
+Ve
+Ma Ju
+1
+Ma
+Ve
+Sa
+lj
+7
+Ve
+Mars
+Sa
+Mo
+Ve
+2
+Ve
+Ma
+Ma
+lj
+8
+Ma
+Mercury
+Sa
+Mo Ju
+3
+Me
+Ju
+lj
+9
+Ju
+Me
+Jupiter
+Me
+Mo
+Sa
+lj
+Venus
+Ju
+Ve
+Ve
+4
+Mo
+Me
+Ju
+lj
+10
+Sa
+Saturn
+Me
+Mo
+Sa
+5
+Su
+Su
+Mo
+lj
+11
+Sa
+Rahu
+Mo
+Me
+Me
+lj
+Ketu
+Sa
+Mo
+Me
+6
+Me
+Ma
+Sa
+lj
+12
+Ju
+Moon
+11124:21
+Ra 18:10
+
+## IV 26:21
+
+v 28:21
+Sa 16:18
+Ju 16:48
+Vl28:21
+Stl
+Sbl
+Ju
+Me
+Me
+Ma
+Ve
+Me
+Ma
+Ju
+Ju
+Ve
+Me
+Sa
+In this horary map the husband put the query about his wife. So consider the
+7th cusp as the Asc. for the wife and proceed. For convenience each house
+counted from the 7th cusp. In this horary map Moon is occupant of 2 (increase
+in family), and is in the star of Mars and sub of Jupiter. Star lord Mars is
+owner of Asc. and conjoined with Sun, owner of 5. Sub lord Jupiter is occupant
+of 5 (conception, child). Thus 5th cusp sub lord indicates 5 (conception, child),
+2 (increase in family) and child karaka Jupiter. So it is clear that the querent's
+question is related to child birth.
+Cuspal Sub Lord
+
+## Wife's 5th Cusp (Leo 28°.21):
+
+The sub lord of the 5th cusp is Moon. Moon is in the star of Mars and sub of
+Jupiter. Moon is occupant of 2. Star lord Mars aspects on 5th cusp and
+conjoined with Sun, owner of 5. Sub lord Jupiter is natural karaka of child
+birth and occupant of 5. Moon and Mars are also aspected by Jupiter. Thus
+5th cuspal sub lord Moon is karaka of conception and significator of 5, and
+282
+
+## PRASHNA JYOTISH
+
+
+
+11124:21
+1123:21
+Mo 27:29
+123:53:20
+connected with 2, 5 and Jupiter, the
+karaka of child. So the querent's wife
+is pregnant at the time of question.
+
+## Wife's 7th Cusp (Libra 23°.53'.20"):
+
+2nd child is considered from 7th
+house. 5th cusp is first child, from
+5th, 3rd is 7th, thus 7th cusp signifies
+2nd child. The sub lord of the 7th
+cusp is Mercury. Mercury is in the
+star of Moon and sub of Jupiter. We
+have discussed about Moon and
+Jupiter above. So 7th cusp sub lord
+Mercury signifies 2 and is connected
+with 5th. Both star lord Moon and
+sub lord Jupiter are karaka of child
+birth.
+Wife's 11th Cusp (Aquarius
+
+## 28°.21'):
+
+The sub lord of the 11th cusp
+is Venus; Venus is in the star
++-------....;:,+-------40::.....--------+ and sub of own. Venus is in
+Ra 18:10
+
+## IV 26:21
+
+
+## X 26:21
+
+Ma20:30
+Ke18:1D
+Me 14:40
+Su 03:44
+the sign of Sagittarius, the
+karaka of child. Venus is
+owner of 7
+(2nd child), 2
+(increase in family). Thus 11th
+cusp sub lord Venus is the
++---------,ol-------4.,...---------+ significator of 2. Venus is also
+
+## VII 23:53:20
+
+Vlll23:21
+Joint Period
+
+## IX 24:21
+
+Ve14:11
+karaka of conception. So the
+querent's desire of 2nd child
+will be fulfilled and delivery
+will be normal.
+At the time of judgment (Balance dasa of Mars for 4Y 9M 26D), the joint period
+of Mars- Jupiter is running up to 4-4-1981.
+From 4-4-1981 the joint period of Mars-Saturn will start. Both dasanath Mars
+and bhukti lord Saturn are the strong significator of child birth. Joint period
+of Mars- Saturn- Saturn will start from 4-4-1981 to 7-6-1981.
+Wife is going to deliver the second child and 7th cusp sub lord is Mercury.
+Mercury is the significator of child birth. Thus during the joint period of Mars-
+Saturn- Mercury from 7-6-1981 to 3-8-1981, she will deliver second child when
+transit agrees. Now let us check transit of Sun and Moon. Sun is transiting
+from 7-6-1981 to 20-6-1981 in Taurus sign in the star of dasanath Mars and
+will pass over 2nd cusp. Joint period of Mars- Saturn- Mercury- Mercury runs
+from 7-6-1981 to 15-6-1981; so we can assume that she will deliver soon after
+7-6-1981.
+Actually the querent sent news from Chicago that his wife delivered a baby
+boy on 9-6-1981 at 4.21 AM CST (DST) (Indian time 2.51 PM).
+
+## PRASHNA JYOTISH
+
+283
+
+
+Transit
+On 9-6-1981 Sun was transltmg in Taurus 24°.58' in the star of dasanath
+Mars. Moon was transiting in Leo 23° 19' in the sub of bhukti nath Saturn;
+Mars was transiting in Taurus 9° 29' in the sub of 2nd significator Venus. Saturn
+was transiting in Virgo 9°.32' in the sub of Venus. Mercury was transiting in
+Gemini 11°.44' in the sub of Saturn.
+Predicting gender of child is always difficult. In this case second child is
+indicated by 7th cusp. 7th cusp sub lord is Mercury. Mercury is conjoined with
+the male planets Sun and Mars and aspected by male planet Jupiter. Mercury
+is occupant of the odd number house 9. Thus we can say she delivered a bay
+boy.
+284
+
+## PRASHNA JYOTISH
+
+
+
+Example 79. Child Birth
+Question. Will I deliver a child normally?
+Number. 15 (out of 249).
+Time of Judgment. 09-02-1981, Monday ; 08-02 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23 •. 29'
+120:06:40
+1118:34
+Mo28:56
+Xll11:34
+Me[R]11:20
+Ma 08:38
+
+## XI 06:34
+
+Su 27:15
+Ke16:56
+Ve13:11
+
+## X08:34
+
+
+## IX 13:34
+
+Vlll18:34
+Vll20:06:40
+Planet
+Sgn Stl
+Sbl
+Cusp Sgn
+Stl
+Sb1
+0
+Cusp Sgn
+Sun
+Sa
+Ma Ju
+0
+Moon
+Ju
+Me
+Sa
+1
+Ma
+Ve
+Ju
+0
+7
+Ve
+Mars
+Sa
+Ra
+Ra
+2
+Ve
+Mo
+Me
+0
+8
+Ma
+Mercury[R]Sa
+Ra
+Sa
+3
+Me
+Ra
+Me
+0
+9
+Ju
+Jupiter[R] Me
+Mo
+Sa
+0
+Venus
+Sa
+Mo
+Ra
+4
+Mo
+Sa
+Ve
+0
+10
+Sa
+Saturn[R] Me
+Mo
+Sa
+5
+Su
+Ke
+Ra
+0
+11
+Sa
+Rahu
+Mo
+Me
+Me
+0
+Ketu
+Sa
+Mo
+Sa
+6
+Me
+Mo
+Ma
+0
+12
+Ju
+Moon
+11113:34
+
+## IV08:34
+
+Ra 16:56
+
+## V06:34
+
+Vl11:34
+Sa[R]15:53
+Ju[R]16:31
+Stl Sbl
+Ju
+Ju
+Me
+Ke
+Ve
+Ve
+Su
+Ve
+Ma
+Mo
+Sa
+Mo
+In this horary map Moon is occupant of 12 (worries). Moon is aspected by
+child karaka Jupiter and Saturn, owner of I 1. Thus it indicates that the querent
+is worried about having a normal delivery.
+Cuspal Sub Lord
+
+## 5th Cusp (Leo 06°.34'):
+
+The sub lord of the 5th cusp is Rahu. Rahu is in the star and sub of Mercury.
+Rahu is in the fruitful sign Cancer. Star and sub lord Mercury is occupant of
+
+## 11. Thus 5th cusp sub lord Rahu is a strong significator of 11. So it is clear
+
+that she is pregnant at the time of query. And child birth will be by normal
+procedure.
+
+## 11th Cusp (Aquarius 06° .34):
+
+The sub lord of the 11th cusp is Moon; Moon is in the star of Mercury and
+sub of Saturn. Moon is in the fruitful sign Pisces. Star lord Mercury is occupant
+of 11. Thus 11th cusp sub lord Moon is a strong significator of 11 and Moon
+is a natural karaka of conceptions. So it is clear that child birth will be by
+normal procedure. ______________ _
+
+## PRASHNA JYOTISH
+
+285
+
+
+Joint Period
+At the time of judgment (Balance
+dasa of Mercury for 1Y 4M l3D),
+the joint period of Mercury-Saturn-
+Venus is running.
+Dasanath Mercury is the cusp sub
+lord of 2nd. Mercury is in the star
+of Rahu and sub of Saturn. Rahu
+is in the fruitful sign Cancer. Rahu
+is aspected by Sun, owner of 5 and
+Venus, owner of 2. Thus Rahu
+represents 5 and 2. Sub lord
+Saturn is owner of 11
+and
+conjoined
+with
+child
+karaka
+Jupiter. Thus Mercury is a strong
+significator of child birth and
+connected with 2, 5, 11.
+Bhukti nath Saturn is owner of 11.
+Saturn is in the star of Moon and own sub. Star lord Moon is the cusp sub
+lord of 11. Thus bhukti nath Saturn is a strong significator of child birth and
+connected with 11.
+Child delivery will be normal which we can understand from 5th and 11th cusp
+sub lord. So delivery will be on due date. Now 11th cusp sub lord Moon's
+1118:34
+120:06:40
+11113:34
+Mo 28:56
+Xll11:34
+antra is from 20-4-1981 to 10-
+7-1981 and sookshma dasa of
+5th csup sub lord Rahu is from
+l-5-1981 to 13-5-1981. Thus
+1-------~------1'--------+ during the joint period of
+Mercury- Saturn- Moon- Rahu
+she will deliver a child by
+normal procedure. Actually she
+delivered a bay boy on 13-5-
+
+## IV08:34
+
+Ra16:56
+Su 27:15
+Ke 18:56
+Va13:11
+
+## X08:34
+
+t-------::ot-----""""------t 1981.
+v 06:34
+Vll20:06:40
+Vlll18:34
+
+## IX 13:34
+
+Transit
+On
+13-5-1981
+Sun
+was
+transiting in Aries 28° .47' in
+""--------+------1-------~ the
+star
+of
+child
+birth
+significator Sun. Moon was trans1tmg in Leo 24° in the 5th house of this horary
+map and sub of dasa nath Mercury. Mercury was transiting in Taurus 15°.29'
+in the star of Antra nath Moon. Saturn was transiting in Virgo 9°.57' in the
+star of child birth significator Sun. Rahu was transiting in Cancer 12°.02' in
+the star of bhukti nath Saturn.
+Predicting gender of a child is always difficult. In this case 5th cusp sub lord
+is Rahu; Rahu is aspected by Sun; male planet and owner of 5. Rahu is in
+the star and sub of Mercury. Mercury gives the result of the planet with whom
+it is conjoined with. Mercury is conjoined with the male planet Mars and
+occupant of the odd number house 11. Thus we can say she delivered a baby
+boy.
+286
+
+## PRASHNA JYOTISH
+
+
+
+Example 80. Gender of child
+Question. Will my wife deliver a baby boy or baby girl?
+Number. 170 (out of 249).
+Time of Judgment. 17-03-1981, Tuesday; 07-30 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.29'
+Xl14:45
+
+## XII 09:45
+
+
+## X 14:45
+
+Ma 06:53
+Su 03:24
+Ve 28:07
+
+## IX 10:45
+
+Me 05:52
+Ke 15:01
+
+## VIII 05:45
+
+
+## VII03:40
+
+
+## VI 09:45
+
+v 14:45
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+\)
+Cusp Sgn
+Sun
+Ju
+Sa
+Sa
+\)
+Moon
+Mo
+Me
+Sa
+1
+Me
+Ma
+Ve
+\)
+7
+Ju
+Mars
+Ju
+Sa
+Me
+2
+Mo
+Sa
+Me
+\)
+8
+Sa
+Mercury
+Sa
+Ma
+Mo
+3
+Su
+Ke
+Sa
+\)
+9
+Sa
+Jupiter[R] Me
+Mo
+Ra
+\)
+Venus
+Sa
+Ju
+Ve
+4
+Me
+Mo
+Ju
+\)
+10
+Ju
+Saturn[R] Me
+Mo
+Ra
+5
+Ve
+Ra
+Ke
+\)
+11
+Ma
+Rahu
+Mo
+Sa
+Ju
+\)
+Ketu
+Sa
+Mo
+Ju
+6
+Ma
+Sa
+Ve
+\)
+12
+Ve
+Moon
+
+## I 03:40
+
+
+## II 05:45
+
+Ra 15:01
+Mo28:14
+11110:45
+Ju[RJ 13:06
+Sa[R] 13:41
+
+## IV 14:45
+
+Stl Sbl
+Ke
+Mo
+Su
+Me
+Ra
+Sa
+Sa
+Ra
+Ve
+Ve
+Su
+Ve
+In this horary map the husband put the query about his wife. So consider the
+7th cusp as the Asc. for the wife and proceed. For convenience each house
+counted from the 7th cusp. In this horary map Moon is owner of 2 and occupant
+of 2 (increase in family). 2nd house is considered as increase in family, thus it
+indicates that the querent's question is related to child birth.
+Cuspal Sub Lord
+
+## Wife's 5th Cusp (Libra 14° .45):
+
+The sub lord of the 5th is
+Ketu. Ketu is in the star of Moon and sub of
+Jupiter. Star lord Moon is occupant of 2 in the fruitful sign Cancer. Sub lord
+Jupiter is a natural kaka of child birth. So having child birth for the querent's
+wife is assured.
+
+## Wife's 11th Cusp (Aries 14° .45):
+
+The sub lord of the ll'h cusp is Venus; Venus is in the star of Jupiter and
+sub of own. Venus is owner of 5. Star lord Jupiter is natural kaka of child
+birth. So the querent is assured to have the child.
+Querent asked about his wife's third delivery. Wife's 9th house is 3rd child.
+
+## PRASHNA JYOTISH
+
+287
+
+
+Wife's 11th cusp sub lord Venus
+indicates 3rd child by occupant of 9.
+
+## Wife's 9th Cusp (Aquarius 10" .45):
+
+The sub lord of the 9'h cusp is
+Saturn; Saturn is in the star of
+Moon and sub of Rahu. Saturn is
+owner of 9 and conjoined with child
+birth karaka Jupiter. Both star lord
+Moon and sub lord Rahu are in the
+fruitful sign Cancer, occupant of 2
+(increase in family). Thus the wife's
+delivery of third child is assured.
+9th cusp sub lord is Saturn. Saturn
+is the neuter gender planet. Saturn
+is in the even number female sign
+Virgo. Its star lord Moon is female
+planet. Both Moon and sub lord
+Rahu are in the even number female sign Cancer. Thus we can say she will
+deliver a bay girl.
+
+## XII 09:45
+
+Xl14:45
+Me 05:52
+Joint Period
+At the time of judgment
+(Balance dasa of Mercury for
+2Y 3M OlD), the joint period
+t-------__,"1-------t"'--------+ of Mercury -Saturn-Mercury is
+1105:45
+Ra15:01
+Mo 28:14
+Ko15:01
+
+## VIII 05:45
+
+running from 14-3-198.
+Mercury is sub lord of 2nd
+cusp. Mercury is in the star
+of Mars and sub of Moon.
+1---------,,f------+.,...--------+ Star lord Mars is occupant of
+11110:45
+v 14:45
+
+## VI 09:45
+
+Vll 03:40
+9 (3rd child) and owner of 11 .
+Sub lord Moon is owner of 2;
+thus both dasa lord and antra
+lord are the significator of
+""-------4-----~------~ child birth. Sub lord Moon is
+a fast moving planet. Mercury is also a fast moving planet. Mars by nature is
+fast worker, so child birth will be within a short period.
+Bhukti nath Saturn is the sub lord of 9th cusp and the significator of 3rd child
+birth.
+Thus running dasa and bhukti lords, Mercury and Saturn, are the 2nd cusp
+sub lord and 9th cusp sub lord. Now for fulfillment of desire of wife we need
+to check 11th cusp. 11th cusp sub lord is Venus which we have discussed in
+details above; Venus is owner of 5 and occupant of 9 (3rd child). Thus sookshma
+dasa of Venus will give the result. So during the joint period of Mercury-Saturn-
+Mercury-Venus from 11-4-1981 to 4-5-1981 she will deliver a baby girl.
+In selection of joint period we have considered 2, 9 and 9th cusp sub lord; for
+getting the proper date we check 5th cusp sub lord in Sun transit. During 14-
+4-1981 to 27-4-1981 transit Sun is in Aries sign and in the star of Ketu. Ketu
+is 5th cusp sub lord. Thus between 14-4-1981 to 27-4-1981 she will deliver a
+288
+
+## PRASHNA JYOTISH
+
+
+
+child. Actually she delivered a baby girl on 20-4-1981.
+Transit
+On 20-04-1981 Sun was trans1tmg in Aries 6°.20' in the star of Ketu. Moon
+was transiting in Libra 13°.37' in the sub of dasa-antarnath Mercury. Mercury
+was transiting in Pisces 2r .54' in the star of own. Venus was transiting in
+Aries 9°.35' in the sub of bhuktinath Saturn.
+
+## PRASHNA JYOTISH
+
+289
+
+
+Example 81. Pregnancy
+Question. Whether my cousin sister is pregnant?
+Number. 101 (out of 249).
+Time of Judgment. 02-02-1971, Tuesday; 08-15 AM IST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.21'
+Planet
+Sgn Stl
+Sun
+Sa
+Mo
+Moon
+Ma
+Ke
+Mars
+Ma
+Sa
+Mercury Ju
+Su
+Jupiter
+Ma
+Sa
+Venus
+Ju
+Ke
+Saturn
+Ma
+Ve
+Rahu
+Sa
+Ma
+Ketu.
+Su
+Ke
+Sbl
+Me
+Me
+Ra
+Mo
+Ve
+Ve
+Sa
+Me
+Ve
+Mo 12:58
+Se 22:35
+Vll24:55
+Cusp Sgn
+1
+Ve
+2
+Ma
+3
+Ju
+4
+Sa
+5
+Sa
+6
+Ju
+
+## V124:55
+
+Mo 12:58
+Vlll25:55
+
+## IX 26:55
+
+Sa 22:35
+Vll24:55
+Vl24:55
+
+## X 28:55
+
+v 25:53:20
+Ra 00:54
+Ke 00:54
+Xl25:53:20
+
+## IV 26:55
+
+Su 19:16
+Xll24:55
+Me28:30
+1125:55
+11126:55
+Ma 12:58
+Ve 02:50
+Ju 09:36
+124:55
+Stl
+Sbl
+¢
+Cusp Sgn Stl Sbl
+¢
+Ju
+Me
+¢
+7
+Ma
+Ve
+Me
+Me
+Ra
+¢
+8
+Ve
+Ma
+Ra
+Su
+Su
+¢
+9
+Me
+Ju
+Ve
+¢
+Ma Ju
+¢
+10
+Mo
+Me
+Ju
+Ju
+Ke
+¢
+11
+Su
+Ve
+Ke
+¢
+Me
+Ra
+¢
+12
+Me
+Ma
+Ra
+Hints
+If the cuspal sub lord of the
+V25:53:20 5th house occupies the fruitful
+Re 00:54
+sign Cancer, Scorpio or Pisces
+1-------_;::"1------~---------1 and is the significator (in the
+
+## X26:55
+
+
+## IV 28:55
+
+Su 19:16
+star of the occupant or owner)
+of 2, 5 or 11, the woman
+concerned is pregnant.
+If the cuspal sub lord of the
+t--------?1-------+::::---------t 5th house occupies the barren
+Ke00:54
+Xl25:53:20
+Xll24:55
+124:55
+1125:55
+Ma 12:58
+Ju 09:36
+Me28:3o
+sign Aries, Gemini, Leo or
+11126:55
+ve 02:5o
+Virgo and is in the star of the
+planet in the barren sign,
+then the woman concerned is
+""'"-------...._-----1-------~ not pregnant.
+If the cuspal sub lord of the 5th house occupies the star of the planet in dual
+sign Gemini, Sagittarius, Pisces or Mercury, the woman delivers twins or more
+than one child.
+290
+
+## PRASHNA JYOTISH
+
+
+
+Moon
+The querent put the query for his uncle's (his father's younger brothers)
+daughter. The 9th house denotes the querent's father, the 11th his uncle; so
+the 3rd house becomes the Asc. of
+the cousin sister and proceed. For
+convenience each house counted
+from the 3rd cusp. In this horary
+map Moon is in conj. with Saturn
+owning 5 (pregnancy to the sister).
+Thus it clearly shows that the
+query refers to the pregnancy of the
+sister.
+Cuspal Sub Lord
+cousin sister's 5th Cusp (Aquarius
+
+## 25°.53.20 "):
+
+The sub lord of 5th cusp is Ketu. It
+is in its own star which is in the
+barren sign Leo in 10. So Ketu is
+the significator of 10. For females
+Moon denotes fertility. In this case
+Moon is in conj. with Saturn, the
+obstructer in the barren sign Aries. Moon is in the star of Ketu and sub of
+Mercury. Star lord Ketu is occupant of 10 in barren sign Leo. Sub lord Mercury
+itself is eunuch planet. Thus Moon is the significator of 10 and connected
+with 12. Moon is also connected with barren sign and obstacle planet Ketu,
+Saturn, Mercury. Hence the querent's cousin sister is not pregnant at the time
+of judgment. Later on, in the medical examination it was revealed that she
+was not pregnant.
+
+## PRASHNA JYOTISH
+
+291
+
+
+Example 82. Adopting a child
+Question. I have no children. Will I be able to adopt my elder sister's boy?
+Number. 201 (out of 249).
+Time of Judgment. 06-01-1980, Sunday; 03-30 PM 1ST
+Place of Judgment. 23° N 02', 72° E 35', Ayanamsha 23°.29'
+Planet
+Sgn Stl
+Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl Sbl
+Sun
+Ju
+Ve
+Ju
+0
+Moon
+Su
+Ke
+Ju
+1
+Sa
+Mo
+Ke
+0
+7
+Mo
+Me
+Ve
+Mars
+Su
+Ve
+Ju
+2
+Sa
+Ju
+Ve
+0
+8
+Su
+Su
+Mo
+Mercury Ju
+Ke
+Me
+3
+Ma
+Ke
+Ve
+0
+9
+Ve
+Ma
+Ke
+Jupiter[R) Su
+Ve
+Mo
+0
+Venus
+Sa
+Ma
+Ra
+4
+Ve
+Su
+Ju
+0
+10
+Ma
+Ju
+Ra
+Saturn
+Me
+Su
+Sa
+5
+Ve
+Ma
+Ju
+0
+11
+Ma
+Me
+Ju
+Rahu
+Su
+Ke
+Ju
+0
+Ketu
+Sa
+Ra
+Ra
+6
+Me
+Ju
+Ju
+0
+12
+Ju
+Ve
+Ju
+Hints
+1. If 5th or 11th cuspal sub lord is retrograde; its star lord also retrograde; sub
+lord and/or its star lord is in barren sign; the cusp sub lord does not signify
+2, 5, 11 and be a significator of l, 4, 10, then there is no chance of child
+birth.
+
+## 2. Adoption: select the Asc. of a child which you want to adopt. 4th cusp is
+
+mother; 9th cusp is father; 8th cusp is inheritance and also separation from
+father (12th from 9). In adoption child is separated from father and stays
+permanently with adopted father. Adoption is considered from 4th cusp because
+mother delivered child; so motherhood is sure but not fatherhood.
+If 4th cusp sub lord is Mercury or it is in dual sign viz Gemini, Sagittarius
+and Pisces or 4th cusp sub lord is in the star of Mercury and also the
+significator of 8, then one can adopt a child.
+Adoption happens during the joint period of the significators of 4, 8.
+Moon
+In this horary map the lady put the query. Her elder sister is considered from
+11th cusp, and her child (5th from llth) is 3rd house. So consider the 3rd cusp
+292
+
+## PRASHNA JYOTISH
+
+
+
+as the Asc. (Aries 02° .35') of the
+child.
+In this horary rna p Moon is
+conjoined with Mars, owner of 3
+(child to be adopted). Moon is in
+the star of Ketu and sub of
+Jupiter. Star lord Ketu is aspected
+by Mars. Sub lord Jupiter is
+conjoined with Mars, owner of 3
+(child to be adopted). Thus it
+indicates
+that
+the
+querent's
+question is related to adopt of a
+child.
+Cuspal Sub Lord
+
+## 5th Cusp (Taurus 26°.35'}:
+
+The sub lord of the 5th cusps is
+Jupiter.
+Jupiter is in the star of
+Venus and sub of Moon. Jupiter is retrograde. Jupiter, Venus and Moon are
+~--------lr-------1-------~'l'f in the barren sign. Star lord
+
+## IV 01:35
+
+Ill 02:35
+v 26:35
+Vl21:35
+Venus is occupant of Asc. Sub
+lord Moon is conjoined with
+1127:35
+Jupiter, owner of 12 and
+Ke 08:08
+Rahu. Thus 5th cusp sub lord
+1--------"'t~-----t"'----------+ Jupiter is retrograde and the
+
+## V1119:40
+
+
+## IX 02:35
+
+Xl26:35
+
+## X 01:35
+
+
+## 4th Cusp of child (Gemini 21°.35'}:
+
+Ve 24:34
+119:40
+significator of Asc. So the
+querent has no child and the
+only alternative is to adopt a
+child.
+
+## 11th Cusp (Scorpio 26° .35):
+
+The sub lord of the ll'h cusp
+is Jupiter. Hence the position
+will be the same as above.
+The cuspal sub lord of the child's 4th house is Jupiter. Jupiter is in the star
+of Venus and sub of Moon. Jupiter is lord of dual sign Sagittarius and Pisces.
+Jupiter aspects on child's owner of 4th Mercury and is conjoined with Mars
+owner of 8 and Asc. Thus adoption of a child is assured.
+Joint Period
+At the time of judgment (Balance dasa of Ketu for 3Y OM 7D), the joint period
+of Ketu-Jupiter is running from 1-l-1980 to 7-12-1980. There is no control of
+ours on dasa-bhukt. Ketu is in the star and sub of Rahu. Rahu is conjoined
+with child's owner of 8 Mars. Thus Ketu is connected with 8. Jupiter is 4th
+cusp sub lord of child. So adoption will be possible during Ketu-Jupiter joint
+period.
+In this horary map Mercury is only one significator of 4, and significator of 8
+is only Venus. Thus during the joint period of Ketu-Jupiter-Mercury from 9-4-
+
+## PRASHNA JYOTISH
+
+293
+
+
+1980 to 25-10-1980 she will able to adopt her sister's child. Actually the querent
+adopted the child on 18-04-1980.
+Transit
+On 18-04-1980 Sun transit was in Aries 4° .38' and transit Jupiter was in Leo
+
+## 6°.52' in the star of dasanath Ketu. Mercury was transiting in Pisces 11 °.27'
+
+in the sign of bhukti nath Jupiter. Ketu was transiting in Aquarius 2°.42' in
+the sub of sookshma dasanath Venus. Venus was transiting in Taurus 19°.47'
+in the sub of Ketu. Moon was transiting in Taurus in the sign of Venus and
+passing over 5th house.
+294
+
+## PRASHNA JYOTISH
+
+
+
+Example 83. Purchase of a Car
+Question. When shall I be able to purchase a car ?
+Number. 110 (out of 249).
+Time of Judgment. 23-05-1970, Saturday; 07-00 PM 1ST
+Place of Judgment. 23° N 02', no E 35', Ayanamsha 23°.20'
+Planet
+Sgn
+Sun
+Ve
+Moon
+Ju
+Mars
+Me
+Mercury
+Ma
+Jupiter[R] Ve
+Venus
+Saturn
+Rahu
+Ketu
+
+## XI 08:00
+
+
+## XII 00:00
+
+Ke 14:24
+Me
+Ma
+Sa
+Su
+
+## IX06:00
+
+Su 08:39
+107:00
+Stl
+Su
+Ke
+Ma
+Ve
+Ma
+Ra
+Ve
+Ra
+Ve
+Sbl
+Ve
+Sa
+Me
+Ra
+Ve
+Ra
+Ju
+Me
+Ve
+
+## VIII 06:00
+
+Me18:55
+Sa 21:25
+
+## II 06:00
+
+Ju[RJ 04:08
+Cusp Sgn
+1
+Me
+2
+Ve
+3
+Ma
+4
+Ju
+5
+Sa
+6
+Sa
+
+## VII 07:00
+
+Ill 06:00
+
+## VII 07:00
+
+Ra 14:24
+
+## VI 09:00
+
+v 08:00
+Mo 10:25
+
+## IV07:00
+
+Stl
+Sbl
+Su
+Ke
+Ma
+Mo
+Sa
+Me
+Ke
+Ra
+Su
+Ve
+Ra
+Ju
+Ra14:24
+
+## VI 09:00
+
+v 08:00
+
+## VIII 08:00
+
+
+## IX 06:00
+
+Ma00:10
+Me10:55
+Su 08:39
+
+## X 07:00
+
+Sa 21:25
+ve 07:49
+
+## XI08:00
+
+
+## XII 00:00
+
+Ka 14:24
+
+## I 07:00
+
+
+## II 06:00
+
+11106:00
+Ju[R] 04:118
+
+## I)
+
+Cusp Sgn
+Stl
+Sbl
+
+## I)
+
+
+## I)
+
+7
+Ju
+Sa
+Me
+
+## I)
+
+8
+Ma
+Ke
+Ra
+
+## I)
+
+9
+Ve
+Su
+Me
+
+## I)
+
+
+## I)
+
+10
+Me
+Ra
+Ra
+
+## I)
+
+11
+Mo
+Sa
+Ke
+
+## I)
+
+
+## I)
+
+12
+Su
+Ke
+Ju
+Hints
+1)
+4th house and Venus
+indicate Vehicle. If the sub-
+lord of the 4th cusp is Venus
+being the occupant or owner
+of 4, one will have a vehicle;
+or
+If the sub lord of 4th cusp is
+the significator (in the star of
+the occupant or owner) of 4
+and also its star lord is
+connected with Venus and 4th
+cusp sub lord or its star lord
+is deposited in a movable
+sign, one will have a vehicle.
+If the significator of the 4th house promising purchase of a vehicle is deposited
+in the star or sub, the lord of which is in any of the bestial (animal) sign
+Aries, Taurus, Leo, second half of Sagittarius or Capricorn, then it is four
+wheeled vehicle.
+
+## PRASHNA JYOTISH
+
+295
+
+
+Moon
+If the significator of the 4th house
+promising purchase of a vehicle
+is connected with Venus and
+Moon (petrol or diesel oil) and
+Mars (machinery), it indicates
+vehicle.
+Venus-Moon-Mars
+cojointly indicate motor car.
+2) If 4th cusp sub lord is the
+significator of 4 (vehicle), 9 (luck),
+10 (status), 11 (fulfillment of
+desire) and connected with Venus
+(vehicle), Moon (karaka of 4th
+house) or Jupiter (wealth), then
+one will have a vehicle.
+3) During the joint period of the
+significators of 4 (vehicle), 11
+(fulfillment of desire) and 2
+(movable wealth), one will have a
+vehicle.
+In this horary map Moon is occupant of 4 and aspected by Venus. Thus it
+indicates the querent's desire to buy a car.
+Cuspal Sub Lord
+
+## 4th Cusp (Sagittarius 07° .00'):
+
+The sub lord of the 4th cusp is Rahu. Rahu is in the star of own and sub of
+Mercury. Star lord Rahu is occupant of 6; sub lord Mercury is occupant of 8;
+thus the sub lord Rahu does not meet the conditions as mentioned above; so
+the querent will not be able to purchase a car.
+296
+
+## PRASHNA JYOTISH
+
+
+
+Example 84. Purchase of a Bus
+Question. I want to purchase a bus; when shall I be able to purchase it?
+Number. 9 (out of 249).
+Time of Judgment. 22-08-1980, Friday; 03-05 PM 1ST
+Place of Judgment. 20° N 28', 85° E 54, Ayanamsha 23°.29'
+111:26:40
+1111:29
+Ill 07:29
+Ve 20:11
+
+## XII 03:29
+
+
+## IV 02:29
+
+Ra 25:29
+
+## XI 00:29
+
+
+## V00:29
+
+Me01:45
+Su 05:57
+Ju 22:37
+Ke 25:29
+
+## X 02:29
+
+Sa 02:53
+
+## VI 03:29
+
+Mo 16:41
+Vll11:26:40
+
+## IX 07:29
+
+Vlll11:29
+Ma 02:07
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl
+Sbl
+Sun
+Su
+Ke
+Ra
+0
+Moon
+Ju
+Ve
+Mo
+1
+Ma
+Ke
+Me
+0
+7
+Ve
+Ra
+Sa
+Mars
+Ve
+Ma
+Ke
+2
+Ve
+Mo
+Ma
+0
+8
+Ma
+Sa
+Mo
+Mercury Su
+Ke
+Ve
+3
+Me
+Ra
+Ra
+0
+9
+Ju
+Ke
+Ra
+Jupiter
+Su
+Ve
+Sa
+0
+Venus
+Me
+Ju
+Ju
+4
+Mo
+Ju
+Ra
+0
+10
+Sa
+Su
+Ju
+Saturn
+Me
+Su Ju
+5
+Su
+Ke
+Ke
+0
+11
+Sa
+Ma
+Me
+Rahu
+Mo
+Me
+Ra
+0
+Ketu
+Sa
+Ma
+Ra
+6
+Me
+Su
+Sa
+0
+12
+Ju
+Sa
+Sa
+Moon
+In this horary map Moon is in the star of Venus and own sub. Star lord
+Venus is karaka of Vehicle. Sub lord Moon is owner of 4. Thus it indicates
+that the querent's desire to purchase a bus is assured.
+Cuspal Sub Lord
+
+## 4th Cusp (Cancer or .29) :
+
+The sub lord of the 4th cusp is Rahu. Rahu is in the star of Mercury and sub
+of own. Rahu is occupant of 4. Rahu is in the movable sign Cancer and also
+represents Moon, and Moon is aspected by Venus. Thus Venus is connected
+with Rahu.
+Star lord Mercury is conjoined with Jupiter, owner of 9. We have discussed
+about the sub lord Rahu above. Thus 4th cusp sub lord is connected with 4,
+9 and planets Venus, Moon and Jupiter. Rahu is also connected with the
+movable sign, so vehicle purchase is assured.
+Additionally star lord Mercury is in the bestial (animal) sign Leo, indicating
+four wheeler vehicles.
+
+## PRASHNA JYOTISH
+
+297
+
+
+
+## lltb Cusp (Aquarius 00° .29):
+
+The sub lord of the 11th cusp is
+Mercury. Mercury is in the star
+of Ketu and sub of Venus.
+Mercury
+is
+conjoined
+with
+Jupiter, owner of 9. Star lord
+Ketu is occupant of 10 and
+aspected by Mars. Sub lord
+Venus is owner of 2. Venus is
+aspected by Moon, owner of 4
+and Saturn, owner of 10, 11.
+Thus 11th cusp sub lord Mercury
+is connected with 2, 4, 9, 10, 11
+and planets Moon, Venus and
+Jupiter, and also karaka planets
+of vehicle Venus, Mars and
+Moon. So Mercury is the strong
+significator of vehicle. Additionally
+star lord Ketu is in the animal
+sign Capricorn; so it indicates a four wheel vehicle. Thus the querent will be
+able to purchase a bus and fulfill his desire.
+Joint Period
+~-------t-----t-------?1'" At the time of judgment
+1111:29
+111:26:40
+
+## XII 03:29
+
+(Balance dasa of Venus for
+
+## 14Y
+
+11M 21D), the joint
+period of Venus-Moon is
+~------_;:,+------+.::.....-----'----+ running. There is no control
+of ours on dasa- bhukti.
+
+## IV 02:29
+
+Ra 25:29
+v 00:29
+Me 01:45
+Su 05:57
+Ju 22:37
+Sa 02:53
+
+## VI 03:29
+
+Vll11:26:40
+Ma02:07
+Vlll11:29
+Ke 25:29
+
+## X02:29
+
+Mo 16:41
+
+## IX07:29
+
+Dasanath Venus is in the star
+and sub of Jupiter. Star and
+sub lord Jupiter aspects on
+
+## 11'h.
+
+So
+Venus
+is
+the
+significator of 11. Bhukti nath
+Moon is in the star of dasa
+nath Venus and in the sub of
+Moon, owner of 4. Thus Moon
+.IL--------1--------1--------..:::..t. is connected with 4 and
+karaka of vehicle. So he will be able to purchase the bus during the jont
+period of Venus-Moon.
+11th cusp sub lord Mercury is a significator of vehicle. So during antra of
+Mercury, the joint period of Venus-Moon- Mercury period from 3-12-1980 to
+28-2-1981, he will be able to purchase the bus.
+Actually he took the delivery of the bus in January 1981.
+298
+
+## PRASHNA JYOTISH
+
+
+
+Example 85. Contract
+Question. I have signed a contract with a person for World Tour on 26-6-
+1981 at 2.45 PM. In this tour my aim is to earn money through Astrology.
+Will I succeed?
+Number. 187 (out of 249).
+Time of Judgment. 07-07-1981, Tuesday; 05-30 PM 1ST
+Place of Judgment. 23o N 02', no E 35', Ayanamsha 23°.29'
+Planet
+Sgn Stl Sbl
+Cusp
+Sun
+Me
+Ju
+Sa
+Moon
+Me
+Su
+Sa
+1
+Mars
+Ve
+Ma Sa
+2
+Mercury
+Me
+Ma Ve
+Jupiter
+Me
+Su
+Ve
+3
+Venus
+Mo
+Sa
+Ju
+4
+Saturn
+Me
+Mo
+Mo
+5
+Rahu
+Mo
+Sa
+Ve
+6
+Ketu
+Sa
+Su
+Ve
+Hints
+
+## IV 11:50
+
+11109:50
+
+## II 03:50
+
+Ke 09:06
+128:26:40
+
+## XII 02:50
+
+
+## XI 08:50
+
+Sgn
+Stl
+Sbl . .
+Ju
+Su
+Ma .
+Sa
+Ma
+Ve . .
+Ju
+Sa
+Ve
+.
+Ma
+Ke
+Me . .
+Ve
+Su
+Ve
+•
+Me
+Ma
+Ve
+•
+
+## V08:50
+
+Ma 29:07
+
+## X 11:50
+
+Cusp Sgn
+7
+Me
+8
+Su
+9
+Me
+10
+Ve
+11
+Ma
+12
+Ju
+
+## VI 02:50
+
+Me03:30
+su 21:47
+Vll28:26:40
+Ra 09:06
+Vo15:49
+
+## VIII 03:50
+
+Mo03:33
+Ju 09:19
+
+## IX09:50
+
+Sa 10:23
+Stl Sbl
+Ju
+Ve
+Ke
+Mo
+Su
+Ve
+Ra
+Sa
+Sa
+Ve
+Ke
+Su
+Contract is indicated by 3rd house. 11'h indicates fulfillment of desire and own
+favour is considered by 6th. Thus if 3rd cuspal sub lord signifies 6 or 11, then
+there is a chance of contract with others during the joint period of the
+significators of 6, 11.
+
+## When to sign the contract:
+
+Select the day when Moon transits in the star of
+planets which are the significators of 6, 11. For hour of the day, consider the
+time of transit of Moon in sub of the significators of 6, 11.
+If you want to further narrow down the time, choose the time when the rising
+Asc. is the significator of 6, 11 or consider Asc. star lord and sub of the
+significators of 6, 11; during that time you can sign the
+contract.
+Moon
+In this horary map Moon is in the star of Sun and sub of Saturn. Star lord
+Sun is conjoined with Mercury, owner of 7 (partnership/ a person with whom
+we sign a contract) and 6 (12th of opponent) (Mercury) (karaka of contract) in
+Gemini sign. Sub lord Saturn is conjoined with Jupiter, owner of 3 (contract)
+
+## PRASHNA JYOTISH
+
+299
+
+
+in Mercury sign Virgo. Thus it
+indicates that the question is
+related to contract.
+Cuspal Sub Lord
+
+## 3rd Cusp (Pisces 09° .SO':
+
+The sub lord of the 3 rd cusp is
+Venus. Venus is in the star of
+Saturn and sub of Jupiter. Venus
+is occupant of 7 (partnership/ a
+person whom we sign contract),
+owner of 10 (business). Star lord
+Saturn is occupant of 9 (long
+journey) and owner of 2 (money).
+Saturn has aspect on 3 (contract),
+6 (12th of opponent) and 11 (gain,
+fulfillment of desire). Sub lord
+Jupiter is owner of 3 (contract), 12
+(settle abroad) and very near to the
+cusp 9th (long journey). Thus 3rd cusp sub lord Venus is the significator of 3,
+6, 11 and connected with 3. So the querent will execute the contract. Venus
+is also the significator of 2, 9 and connected with 10, 9, 12 and 7. Thus
+foreign tour and partnership in earning money through astrology is assured.
+Ruling Planets
+Day lord
+Sign lord
+Star lord
+Day.
+Tuesday
+Mars
+Asc.
+Scorpio 25°.17'
+Mars
+Mercury
+Moon. Virgo
+
+## 03°.33'
+
+Mercury
+Sun
+Hence the ruling planets are Sun, Mars, and Mercury.
+Significators of 6, 11
+Bhava
+6
+11
+ln the star of
+occupant (A)
+Moo-Jup-Ket
+Occupant (B)
+Mer
+Sun
+ln the star of
+owner( C)
+Mar-Mer
+Owner(D)
+Mer
+Mar
+Hence Mercury, Moon, Jupiter, Ketu and Mars are the significators of 6, 11.
+Among the ruling planets and significators the common planets are Sun, Mars,
+and Mercury.
+Joint Period
+At the time of judgment (Balance dasa of Sun for 2Y lOM 250), the joint
+period of Sun-Saturn-Mercury is running from 2-6-1981 to 20-7-1981.
+300
+
+## PRASHNA JYOTISH
+
+
+
+
+## V08:50
+
+Ma 29:07
+
+## IV 11:50
+
+Remember there is no control
+
+## VI 02:50
+
+of ours on dasa. Sun and
+Me 03:30
+Mercury are the significators
+Su21:47
+Vll28:26:40
+of 6, 11. Saturn is conjoined
+with Jupiter, 6th significator.
+Ra 09:06
+Ke 09:06
+Thus Saturn gave the result
+Ve15:49
+of Jupiter. So during the joint
+period of Sun-Saturn-Mercury
+he will able to execute the
+contract.
+128:26:40
+Sun-Saturn-Mercury-Mars
+
+## XII02:50
+
+joint period starts from 22-6-
+1981 to 26-6-1981; during
+
+## X 11:50
+
+
+## XI 08:50
+
+this period the querent signed
+the contract on 26-6-1981, at
+
+## 02.45 PM at Lat/Long 23° N 02', 72° E 35'
+
+Transit
+On 26-6-1981 Sun was transiting in Gemini 11°.16' in the sub ofbhukti nath
+Saturn. Moon was transiting in Pisces 26°.56' in the star of antra nath Mercury.
+Mercury was transiting in Gemini 4°.30' in the star of sookshma dasa nath
+Mars.
+Time of Singing Contract
+Querent signed the contract when Moon was in Pisces 26°.56' .30" in sign of
+Jupiter, star of Mercury, sub lord Jupiter and sub sub lord Ketu.
+At the time when Moon passing through sub of Jupiter, Asc was in Libra
+
+## 9°.30' sign of Venus, star of Rahu and sub of Jupiter and sub sub of Ketu.
+
+Mercury, Jupiter and Ketu are the significators of 6 and 11. And the querent
+signed the contract when their star, sub and sub sub are ruling at that time.
+Rahu is in the sign of Cancer. Thus Rahu represents Moon, 6th significator.
+Venus is conjoined with Rahu. Rahu is in the sub of Jupiter, 6th significator.
+Additionally Libra sign of Asc is on lOth cusp sign of this horary map and
+contract is for business.
+I have no more information about this contract. So I cannot mention the
+outcome of this contract.
+
+## PRASHNA JYOTISH
+
+301
+
+
+302
+Part: 3
+Transit
+
+## PRASHNA JYOTISH
+
+
+
+Easy Transit System
+l. Saturn transits in one star for about 13 months. Rahu or Ketu 8 months.
+Jupiter for about 5 months and 10 days. Mars for 20 days or so. Sun is very
+regular in motion and stays in one star for about 13 days. Moon stays for
+about 24 hours in one star. Mercury and Venus are not uniform in their motion.
+To consider daily event we need to check motion of Sun and Moon.
+Saturn while transiting through one star remains in one sub for many weeks.
+Rahu, Ketu and Jupiter remain in one sub for many days. Especially transit
+of Saturn, Rahu and Ketu's motion in each sub is very important for daily
+event. Sun remains in one sub for one day to three days. Moon for about
+three hours. Thus sun and Moon indicate day and hours.
+2. Star lord of transiting planet is the deciding factor of happening events. For
+those bhavas signified by star lord, the transiting planet gives the result. Also
+if the sub lord of transiting planet agrees with star lord signification, then
+onlv the transiting planet gives the result of its star lord agreed by the sub
+lord.
+When the transiting planet passes through 9 subs, this sub lord indicates
+deferent results, because these 9 subs indicate different significations.
+What is not indicated in the birth map cannot be expected to materialize during
+the period of the transiting planets, to the extent desired.
+
+## 3. Rahu and Ketu travel with regular motion. Saturn is slow moving planet.
+
+Here an attempt has been made to read solely the cumulative influence of the
+slow moving planets in transit eg. Saturn, Rahu, Ketu and Jupiter. Their effects
+during the spread over of 5 to 13 months are observed. Suppose all the above
+transiting planets are moving in the stars of the significator of money (2, 6,
+11) and also in the subs connected with 2, 6 and 11 in the birth map, then
+they become coincided in their influence. So your monetary condition may
+improve during this part of the year. But during the time when the above
+transiting planets move in the subs connected with 8 or 12 and not 2, 6 or
+11 in the birth map, it is likely that you may lose money or you may have to
+spend much money on any account.
+Suppose all the above transiting planets are moving in the stars of the
+significator of traveling 3, 9, 12 and also in the subs connected with 3, 9 and
+12 in the birth map, then they become coincided in their influence. So you
+will enjoy traveling during this part of the year. But during the time when the
+above transiting planets move in the subs connected with 2, 8 or 11 and not
+3, 9 or 12 in the birth map, it is likely that you may not be able to travel.
+
+## 4. Note down the month when you benefited by monetary gain as discussed
+
+above. You might
+find that during particular month Sun must be transttmg
+in star or sub of significator of 2, 6, 11. And on that day Moon also transiting
+in star or sub of significator of 2, 6, 11.
+5. Suppose the above transiting planets move in the stars of the significator of
+2, 6 and 11 during a particular year under review. But their star lords remain
+in retrograde motion for some time, then it will not be possible to expect any
+desired result till they become direct in motion. More so, if they be in the
+retrograde subs.
+
+## PRASHNA JYOTISH
+
+303
+
+
+
+## 6. This transit system is very easy and gives the perfect result. This is my
+
+humble experience. Readers may watch transit during one year period,
+approximately 5 to 13 months of transit of Saturn, Jupiter, Rahu and Ketu
+could be watched. When Mars transits long time say 7 or 8 months in one
+sign, Mars' affect also needs to be watched.
+
+## 7. Generally how to check transit affect in the joint dasa period is discussed
+
+in my book 'Kundali Rahshya".
+304
+
+## PRASHNA JYOTISH
+
+
+
+Example: 1. Publication
+Date of Birth: 07-07-1912, Sunday; 08-42 PM 1ST, Gander: Male
+Place of Birth: 23° N 02', no E 35'. Ayanamsha: 22°.32'
+.-----~~----~~---..~~~
+
+## IV 25:44
+
+Sa 07:30
+Vl15:44
+v 21:44
+Su 22:34
+11125:44
+Vo 23:00
+Ra24:36
+Mo21:49
+Vll12:40
+Me 13:02
+1119:44
+Ma 01:40
+Vlll19:44
+112:40
+Ka 24:36
+
+## IX25:44
+
+Xl21:44
+Xll15:44
+Ju(R]14:02
+
+## X25:44
+
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+1,)
+Cusp Sgn
+Stl
+Sbl
+Sun
+Me
+Ju
+Sa
+1,)
+Moon
+Ju
+Me
+Su
+1
+Sa
+Mo
+Ra
+1,)
+7
+Mo
+Sa
+Ma
+Mars
+Su
+Ke
+Ve
+2
+Sa
+Ra
+Ma
+1,)
+8
+Su
+Ve
+Ra
+Mercury
+Mo
+Sa
+Re
+1,)
+Jupiter[R] Ma
+Sa
+Ra
+3
+Ju
+Me
+Ra
+1,)
+9
+Me
+Ma
+Ra
+Venus
+Me
+Ju
+Sa
+4
+Ma
+Ve
+Me
+1,)
+10
+Ve
+Ju
+Me
+Saturn
+Ve
+Su
+Ke
+1,)
+5
+Ve
+Mo
+Ve
+1,)
+11
+Ma
+Me
+Su
+Rahu
+Ju
+Me
+Ra
+1,)
+Ketu
+Me
+Ma
+Ra
+6
+Me
+Ra
+Ve
+12
+Ju
+Ve
+Su
+
+## 1. In this birth horoscope we may recognize the influence of the transiting
+
+Saturn, Rahu and Ketu during 1979 and 1980 in respect of the publication of
+books.
+ln 1979 transiting Saturn Leo·20°.25'(R) to Leo 13°.37' (D) to- Virgo 3°.30'.
+Rahu in Leo 27° .46' to 8°.29', Ketu Aquarius 27" .46' to 8°.29'.
+ln 1980 Saturn Virgo 3°.30' to 3°.32' (R) to Leo 26°.43'(D) to Virgo 15°.59'.
+Rahu Leo 8°.25' to Cancer 19°.15', Ketu Aquarius so .25' to Capricorn 19°.15'.
+
+## 2. ln this birth map the publication of books is indicated. Mercury (writing),
+
+Jupiter (publication), Mars (printing), the houses 3 (writing), 9 (publication),
+10 (publicity) and 11 (success) are connected with writing, publication
+and
+printing.
+Sun, Venus and Jupiter are the significators of 3 and 10, they are inter-related
+with one another. Rahu and Mercury are related to each other and also to
+Jupiter, they are thus the significators of 9. Ketu is the significator of 9 and
+11, it is connected with Mars and Mercury. Moon is also the significator of 9
+and connected with Mercury, Jupiter and Mars. Hence the writings and their
+publications are promised. So all these planets are the significators of the
+publication of books.
+When Saturn, Rahu and Ketu simultaneously transit in the stars and subs of
+these significators of writings and publications, during a particular year under
+review, the affairs of writing and publication will be active.
+
+## PRASHNA JYOTISH
+
+305
+
+
+
+## 3. In this birth map during 1979
+
+Saturn transits in the star
+Venus; from 4-10-1979 in the
+star Sun and from 20-10-1980 in
+the star Moon.
+During 1979 Rahu in the star of
+Sun; from 22-1-1979 in the star
+of Venus; from l-10-1979 in the
+star of Ketu and from 9-6-1980
+in the star of Mercury.
+During 1979 Ketu in the star of
+Jupiter; from 28-5-1979 in the
+star of Rahu; from 3-2-1980 in
+the star of Mars and from 12-10-
+1980 in the star of Moon.
+Thus the transits of Saturn,
+Rahu and Ketu coincided in their
+influence and they were also in
+k-------=i======::::::=-+--------:>"( the
+subs
+of
+these
+Vl15:44
+Su 22:34
+Ve23:00
+Vll12:40
+Me13:02
+Sa 07:30
+
+## V21:44
+
+
+## IV 25:44
+
+11125:44
+Ra 24:36
+Mo 21:49
+signific-ators. Hence books of
+the native were printed and
+1119:44
+published during 1979 and
+112:40
+
+## 1980.
+
+
+## 4. It was observed that if the
+
+planet in transit be retrograde,
+there was retardation in the
+progress of publications. In
+this
+case
+Saturn
+was
++---------.,.1-------k:---------+ retrograde up to 10-5-1979, so
+Ma 01:40
+v11119,44
+
+## XJI15:44
+
+the printing work was slow.
+Ke24:36
+
+## IX 25:44
+
+
+## X 25:44
+
+Xl21:44
+Ju[R]14:02
+But thereafter it was very
+swift and the books were
+comp-letely
+printed
+by
+_}1:;.-------+------+------......:::..t November 1979.
+Third book was under print during November 1979. The printing work started
+very fast. After that Saturn was retrograde from 07-l-1980, so delay started,
+but Saturn was not in the star of retrograde planet, so printing was not
+completely stopped.
+306
+
+## PRASHNA JYOTISH
+
+
+
+Example: 2. Death
+Date of Birth: 22-09-1925, Tuesday; 10-27 AM IST, Gander: Male
+Place of Birth: 23° N 02', no E 35'. Ayanamsha: 22°.43'
+r------,~V~I0-2:-17----~V~III~2~7:~17~--~I~X7
+28~:1~7~0
+v 03:17
+
+## IV 01:17
+
+Ke 08:56
+Vll28:00
+128:00
+Mo 24:13
+Sa 18:49
+Ill 28:17
+Ve14:33
+Ra 08:56
+
+## X 01:17
+
+Me23:36
+Ma 03:03
+
+## XI 03:17
+
+Su 05:57
+~----------------~~----------------~~J_u_2o_:1_4_:o_o~ll-27_:1_7 ____ ~x_n_o2_:1_7 ____ L-----~
+Planet
+Sgn
+Sun
+Me
+Moon
+Ve
+Mars
+Me
+Mercury
+Su
+Jupiter
+Venus
+Saturn
+Rahu
+Ketu
+
+## IX 28:17
+
+Ra 08:56
+
+## X01:17
+
+Me 23:36
+Ju
+Ve
+Me
+Mo
+Sa
+Vlll27:17
+Stl
+Su
+Ju
+Su
+Ve
+Ve
+Ra
+Ra
+Sa
+Su
+Sbl
+Me
+Me
+Sa
+Sa
+Ju
+Ke
+Mo
+Ve
+Ve
+
+## VI 02:17
+
+Vll28:00
+128:00
+Mo 24:13
+Sa 18:49
+Ve14:33
+
+## XII 02:17
+
+Cusp Sgn
+Stl
+Sbl
+()
+Cusp Sgn
+Stl
+Sbl
+1
+Ve
+Ju
+Ve
+2
+Ma
+Me
+Ju
+3
+Ju
+Su
+Mo
+4
+Sa
+Ma
+Me
+5
+Ju
+Ju
+Ra
+6
+Ma
+Ke
+Ve
+v 03:17
+
+## IV 01:17
+
+Ke 08:56
+11128:17
+Ju 20:14:00
+1127:17
+()
+()
+7
+Ma
+Su
+Mo
+()
+8
+Ve
+Ma Ju
+()
+()
+9
+Me
+Ju
+Ve
+()
+10
+Su
+Ke
+Ve
+()
+11
+Me
+Su
+Sa
+()
+()
+12
+Ve
+Ma
+Ke
+
+## 1. In this birth horoscope we
+
+may read the influence of the
+transiting Saturn, Rahu and
+Ketu
+from
+May
+1977
+to
+February 1978 in respect of
+the serious sickness of the
+native.
+
+## 2. Saturn Cancer 16°.52' to
+
+Leo 6° .43' (R)- 4° .48'(R), Rahu
+Libra 0°.6' to Virgo 15°.31'.
+Ketu Aries oo .6' -
+Pisces
+
+## 15°.31'.
+
+
+## 3. When Saturn, Rahu and
+
+Ketu simultaneously transit in
+the stars and subs of the
+Badhaka and Maraka significators in the birth map during a particular year
+under review the native is likely to suffer from serious sickness.
+
+## 4. In this birth map from May 1977 Saturn transits in the star Mercury, the
+
+significator of 11 (Badhaka), 8 (serious sickness), 12 (bedridden sickness), 1
+(longevity); from 7-9-1977 in the star Ketu, the significator of 11 (Badhaka)
+and 12 (Maraka).
+
+## PRASHNA JYOTISH
+
+307
+
+
+308
+From May 1977 Rahu in the star
+Mars, the significator of 2,7
+(Maraka) and 11 (Badhaka) and 6
+(sickness); from 23-9-1977 in the
+star Moon, the significator of the
+Maraka houses 2 and 12.
+From May 1977 Ketu in the star
+Mercury, the B adhaka and Mar aka
+significator and from 10-1-1978 in
+the star Saturn, the significator of
+
+## 12.
+
+
+## 5. Thus the transits of Saturn,
+
+Rahu and Ketu coincided in their
+influence and they were also in the
+subs ofthe above significators. The
+native fell seriously ill from May
+1977 and he died on l-2-1978.
+
+## PRASHNA JYOTISH
+
+
+
+Example: 3. Death of the Husband
+Date of Birth: 24-11-1932, Thursday; 00-12 AM 1ST, Gander: Female
+Place of Birth: 23o N 02', no E 35'. Ayanamsha: 22° .49'
+Planet
+Sgn Stl Sbl
+Sun
+Ma
+Sa
+Ve
+Cusp Sgn
+Moon
+Me
+Su
+Ve
+1
+Sa
+Mars
+Su
+Ke
+Me
+2
+Ju
+Mercury
+Ma
+Me
+Ju
+Jupiter
+Su
+Su
+Mo
+3
+Ma
+Venus
+Ve
+Ma
+Ve
+4
+Ve
+Saturn
+Sa
+Su
+Ke
+5
+Me
+Rahu
+Ju
+Me
+Ve
+Ketu
+Su
+Ve
+Ju
+6
+Mo
+Ill 03:11
+~----~----~~~--~~~--
+111 03:11
+
+## IV05:11
+
+
+## V08:11
+
+Stl
+Ma
+Ju
+Ke
+Su
+Ma
+Sa
+
+## II 03:11
+
+
+## VI 07:11
+
+Ra 20:08
+
+## I 05:58
+
+
+## VII 05:58
+
+Ma 11:49
+Ke 20:08
+Ju 27:22
+Sa 07:28
+
+## XII 07:11
+
+
+## VIII 03:11
+
+Mo09:20
+Me27:42
+Su 08:28
+Ve 03:13
+
+## XI06:11
+
+
+## X 05:11
+
+
+## IX 03:11
+
+Sbl
+•
+Cusp Sgn
+Stl
+Sbl
+Mo
+Ra
+Su
+Me
+Mo
+Me
+.
+•
+7
+Su
+Ke
+Ra
+.
+8
+Me
+Su
+Sa
+• .
+9
+Ve
+Ma
+Ve
+.
+10
+Ma
+Sa
+Sa
+•
+11
+.
+Ju
+Ke
+Ra
+•
+12
+Sa
+Su
+Ke
+I. In this birth horoscope we
+may study the influence of the
+transiting Saturn, Rahu and
+8
+8
+Ketu
+from
+May
+1977
+to
+~
+~------------~----------~-------------4 Feb-ruary 1978 in respect of
+
+## VI 07:11
+
+Sa 07:28
+
+## XII 07:11
+
+the serious sickness of the
+native's husband.
+
+## 2. Saturn Cancer 16°.52' to
+
+Leo 6° .43' (R) - 4 o .48' (R).
+t-----------..t-------t-~-------4 Rahu Libra 0°.6' to Virgo 15°
+~
+Ve 03:13
+.31', Ketu Aries oo .6' to Pisces
+
+## 15°.31'.
+
+
+## IX 03:11
+
+18
+2
+
+## 3. When Saturn, Rahu and
+
+Ketu simultaneously transit in
+~-----------~--------+------------~the stars
+and
+subs
+of
+Badhaka and Maraka significators of the husband in the birth map, during a
+particular year under review the native's husband is likely to suffer from serious
+illness.
+
+## 4. In this birth map from May 1977 Saturn transits in the star Mercury, the
+
+strong significator of husband's 8 (death) and from 7-9-1977 in the star of
+
+## PRASHNA JYOTISH
+
+309
+
+
+Ketu, the strong significator of the
+Badhaka 9 and Maraka 7 houses
+of the husband.
+From May 1977 Rahu in the star
+Mars, the strong significator of 7
+(Maraka) and from 23-9-1977 in the
+star Moon, the significator of 6
+(disease), 7 (Maraka) and 8 (death)
+of the husband.
+From May 1977 Ketu in the star
+of Mercury and from 10-1-1978 in
+the star of Saturn, the strong
+Badhaka and Maraka significator of
+the husband.
+
+## 5. Thus the transits of Saturn,
+
+Rahu and Ketu coincided in their
+influence and they were also in the
+subs of the above significators. The
+native's husband fell seriously ill from May 1977 and he died on 1-2-1978.
+310
+
+## PRASHNA JYOTISH
+
+
+
+Example: 4. Service, Journey, Marriage
+Date of Birth: 14-07-1952, Monday; 00-55 AM IST., Gander: Male
+Place ofBirth: 21° N 12', no E 52'. Ayanamsha: 23°.05'
+Mo 23:51
+
+## XII 01:45
+
+Ra 00:03
+
+## X128:45
+
+
+## X 00:45
+
+
+## I 09:43
+
+Ju 22:52
+1110:45
+11105:45
+Su 28:13
+
+## IV 00:45
+
+Va 03:27
+Me24:46
+
+## V28:45
+
+Ke 00:03
+
+## VI 01:45
+
+Sa 16:01
+Ma14:42
+~----------------~~----------------~~IX~05~:~~~~V=UI~10~:4~5----~V=II~09~:4~3~--~----~
+Planet
+Sgn Stl Sbl
+Cusp Sgn
+Stl
+Sbl
+0
+Cusp Sgn
+Stl
+Sbl
+Sun
+Me
+Ju
+Ve
+0
+Moon
+Ju
+Me
+Ma
+1
+Ma
+Ke
+Sa
+0
+7
+Ve
+Ra
+Ju
+Mars
+Mo
+Sa
+Sa
+2
+Ve
+Mo
+Mo
+0
+8
+Ma
+Sa
+Su
+Mercury
+Mo
+Me
+Ra
+3
+Me
+Ma
+Mo
+0
+9
+Ju
+Ke
+Ra
+Jupiter
+Ma
+Ve
+Sa
+0
+Venus
+Mo
+Sa
+Sa
+4
+Mo
+Ju
+Ma
+0
+10
+Sa
+Su
+Ra
+Saturn
+Me
+Mo
+Sa
+5
+Mo
+Me
+Sa
+0
+11
+Sa
+Ma
+Sa
+Rahu
+Sa
+Ma Me
+0
+Ketu
+Su
+Ke
+Ke
+6
+Me
+Su
+Ju
+0
+12
+Ju
+Ju
+Ra
+
+## 1. In this birth horoscope we may study the influence of the transltmg Saturn,
+
+Rahu and Ketu from January 1979 to March 1980 in respect of the service,
+long journey and marriage of the native.
+
+## 2. Saturn Leo 20° .25' (R) to 13°.37' (D) to Virgo 3° .32'(R) - Leo 28°.52'(R),
+
+Rahu Leo 2r .46' to 3°.39',
+Ketu Aquarius 2r .46'
+to 3° .39'.
+Ill 05:45
+Su 28:13
+
+## IV 00:45
+
+Va 03:27
+Me24:46
+
+## V28:45
+
+1110:45
+
+## I 09:43
+
+Ju 22:52
+Ra 00:03
+Xl28:45
+
+## X 00:45
+
+
+## 3. When Saturn, Rahu and
+
+Ketu simultaneously transit in
+the stars and subs of the
+significators of finance (2, 6,
+11, 10), long journey (3, 9, 12)
+and marriage (2, 7, 11) in the
+birth map during a particular
+year under review, the native
+is likely to get good results in
++-------.....,+-------fo..----------1- these affairs
+Ke 00:03
+
+## VI 01:45
+
+Sa 18:01
+
+## PRASHNA JYOTISH
+
+Ma14:42
+
+## VII 09:43
+
+
+## IX05:45
+
+Vlll10:45
+
+## 4. In this birth map Saturn
+
+from January 1979 to 4-10-
+1979 and Rahu from 22-l-
+1979
+to
+1-10-1979 both
+311
+
+
+transit in the star of Venus, the
+strong significator of 2, 6, 10 and
+
+## 11. From January 1979 to 28-5-
+
+1979 Ketu in the star of Jupiter,
+the strong significator of 2. So
+the native got a very good job on
+2-5-1979 during the transits of
+Saturn in the star and sub of
+Venus; Rahu in the star ofVenus
+and in the sub of Jupiter and
+Ketu in the star and sub of
+Jupiter.
+
+## 5.
+
+From 4-10-1979 Saturn
+transits in the star of Sun, the
+strong significator of 3, 9, 12;
+from 1-10-1979 Rahu in the star
+of Ketu, the representative of Sun
+and from 28-5-1979 Ketu in the
+star of Rahu, the significator of
+11 (meeting the kith and kin)
+and 8 (12th from 9 i.e. homeland). So the native started from U.S.A. on 18-
+12-1979 for India to meet his parents during the transits of Saturn in the
+star of Sun and in the sub of Saturn (owning 11); Rahu in the star of Ketu
+and in the sub of Jupiter (owning 9); and Ketu in the star of Rahu and in the
+sub of Jupiter.
+
+## 6. He also got married during the transits of Saturn in the star of Sun and in
+
+the sub of Jupiter, the significator of 2 and 7; Rahu in the star of Ketu, the
+significator of 5 (love affair) and in the sub of Rahu, the significator of 7 and
+11; and Ketu in the star and sub of Rahu, the significator of 7 and 11 in
+January 1980. It may be noted that Rahu and Ketu cause sudden happenings.
+312
+
+## PRASHNA JYOTISH
+
+
+
+
+## PRASHNA JYOTISH
+
+Part 4
+Miscellaneous
+P.314 is blank ... deleted
+313
+
+
+Additional House Grouping
+For the rules mentioned under, I did not get chance to check by horary.
+Hint 1: Appearance
+Planet gives the result of its star lord. Thus the sign of star lord of Asc. sub
+lord gives clue to the appearance of native.
+Hint 2: Saint
+If the sub lord of the Asc. (out-look) be the significator (in the star of the
+occupant or owner) of house 3 (mental trend), 10 (aims) and 12 (renunciation);
+or connected with 3, 10 and 12; also with Saturn, the native leans towards
+renun-ciation.
+If the sub lord of the 11th cusp (fulfillment of desires) be the significator (in
+the star of the occupant or owner) of house 5 and 10 or connected with 5 and
+lO the native achieves spiri-tual attainment.
+Hint 3: Political Career
+If the sub lords of the Asc, lOth cusp and 11th cusp be the strong significator
+(in the star of the occupant or owner) of 1, 6, 9, 10 and 11 the native plunges
+into the public life or he shines out as a statesman or politician. It may be
+remembered that a planet owning both the Trikona and Kendra gives prosperity
+in general.
+Hint 4: Criminal Mental Qualities
+The sub lords of the Asc, Moon and Mercury denote mental qualities. If they
+be in the star and sub of malefic connected with 6, 8 or 12, they signify
+computational, criminal, diplomatic, malicious, revengeful, relentless, shrewd,
+crafty and intriguing traits.
+Hint 5: Madness
+If the sub lords of the 6, 8,12th cusps
+be the significator (in the star of the
+occupant or owner) of house 6 , 8 or 12 and connected with Moon (mind),
+Mercury (brain), Saturn (sadness) and Ketu (craziness), and Moon , Mercury,
+Saturn and Ketu connected with house 6, 8, 12, one will have sign of madness.
+Hint 6: Suicide
+If the sub lord of the Asc. be the significator (in the star of the occupant or
+owner) of Badhaka, Maraka, 8 and its star lord is connected with Mars, the
+native will have a suicide tendency. Event will happen during the joint period
+of the significators of 8.
+If the sub lord of the 8th cusp be the significator (in the star of the occupant
+or owner) of Badhaka, Maraka, 8 and its star lord connected with Mars, the
+native will have a suicide tendency. Event will happen during the joint period
+of the significators of 8.
+Hint 7: Sports
+If the sub lord of the 5th cusp be the significator (in the star of the occupant
+or owner) of house l (player), 5 (sports), 10 (popularity) and 11 (success) and
+connected with fiery sign and Jupiter or Mars, the native gets success in sports.
+
+## PRASHNA JYOTISH
+
+315
+
+
+Hint 8: Imprisonment
+If the sub lord of the 12th cusp (jail) be the significator (in the star of the
+occupant or owner) of 3 (away from home), 8 (misfortune) or 12 (restrictions)
+and connected with malefic Mars, Saturn, Rahu or Ketu, one has to court jail
+during the joint period of the significators of 3, 8 and 12.
+Hint 9: Murder
+If the sub lord of the Asc, 8, 12 (murder) cusps be the significator (in the
+star of the occupant or owner) of Badhaka, Maraka, 8, 12 and
+connected
+with Asc, 6 and malefic planets and all these planets are in the violent sign
+Aries, Taurus, Leo, Scorpio, Sagittarius, Capricorn or Chara sign, then there
+is chance of murder. Mars and Ketu give murder by sharp weapon or revolver
+or pistol, Saturn and Rahu give murder by suffocation. Murder happens during
+the joint period of the significators of 8, 12 or during the joint period of cuspal
+sub lords of 8, 12.
+Hint 10: Criminal Proceedings
+If the sub lord of the lOth cusp (status) be the significator (in the star of the
+occupant or owner) of 7 (court
+proceedings), 8 (infamy) or 12 (crimes) and
+connected with malefic planets, the native will be involved in court proceedings
+relating to crimes, will be ill-reputed and will be inflicted with punishment,
+during the joint period of the significators of 7, 8 and 12.
+Hint 11: Inheritance
+If the sub-lord of 4th (inheritance property) cusp be the significator (in the star
+of the occupant or owner) of 8 (inheritance), one will have inheritance property.
+If the sub-lord of the 8th (inheritance) cusp is be the significator (in the star of
+the occupant or owner) of 11, then one will have inheritance property.
+Hint 12: Gain or Loss from Change of Place
+If the sub-lord of 3rd cusp be the significator (in the star of the occupant or
+owner) of house 2 or 10 or II, one will make money and improve a lot. If the
+sub-lord of the 3rd cusp be the significator (in the star of the occupant or
+owner) of 8 and 12, then the move adds more difficulties.
+Hint 13: Treasure in House
+If the sub-lord of the 4th cusp be the significator (in the star of the occupant
+or owner) of the houses 2 or 11 or 6
+and connected with Saturn in direct
+motion, one will surely have the treasure in house.
+Hint 14: Journalism
+If the sub-lord of the 11th cusp be the significator (in the star of the occupant
+or owner) of 3 (writing) and 9 (publication) and connected with Jupiter
+(publication) or Mercury (writing) or both, one will be a journalist.
+Hint 15: Exchanging Commodities
+If the sub-lord of the 6th cusp be the significator (in the star of the occupant
+or owner) of 6 or 11, you gain. But if it is the significator of 5 or 12, by so
+exchanging you must lose.
+316
+
+## PRASHNA JYOTISH
+
+
+
+lf the sub-lord of the 12th cusp be the significator (in the star of the occupant
+or owner) of 6 and 11, you gain. But if 12th cusp be the significator (in the
+star of the occupant or owner) of 5 and 12, definitely you must incur loss.
+During the joint period of 2 ,6, 11 you gain. But during the joint period of 5,
+8, 12 you must lose.
+Hint 16: Negotiation Successful or Not
+If the sub-lord of the 3rd cusp be the significator (in the star of the occupant
+or owner) of the houses 6 and 11, then one will have success. But if the sub-
+lord of the 3rd cusp be significator (in the star of the occupant or owner) of
+the houses 5 and 12, one cannot have success. The houses which have to
+take for judgment depend on the query. lf it is for marriage, consider 7, 3 and
+9; if it is for business judge houses 10, 6, 3, and 9; if it is for adoption of a
+child consider 5, 3 and 9.
+Hint 17: Accident
+If the sub lord of the Asc, 8th or 12th cusp be the significator (in the star of
+the occupant or owner) of 8 or 7 or 2, the native is likely to meet with an
+accident. lf the sub lord of the Asc, 8th or 12th cusp or if the joint rulers of
+the Asc, 8th or 12th cusp be the significator (in the star of the occupant or
+owner) of 8 or 12, the native is likely to meet with an accident.
+lf the sub lord of the Asc, 8th or 12th cusp be the significator (in the star of
+the occupant or owner) of 8 or 7 or 2, the native is likely to meet with a fatal
+accident and if it be a significator of 2 or 5 or 11, one will be safe from
+accidents.
+lf the sub lord of the 8th or 12th cusp be the significator (in the star of the
+occupant or owner) of 1, 5 or 11 the native will overcome danger, during the
+joint period of the significators of 1, 5 and 11.
+Accidents and unnatural deaths are caused during the joint period of the
+significators of 8 and 12 or of the cuspal joint rulers of 8 and 12.
+Planets, occupant of Aries, Gemini, Libra, Sagittarius and Capricorn are
+conducive to accidents. Malefic planet Mars, Saturn, Rahu and Ketu cause
+accidents.
+Hint 18: Astrology
+The sub-lord of the Asc, Jupiter and Moon be the significator (in the star of
+the occupant or owner) of 9, 12, then one will get mastery in astrology. Jupiter
+is a natural ruler of 9 and 12. Moon gives thoroughness. Saturn gives deep
+thinking. So if the sub lord of Saturn be the significator (in the star of the
+occupant or owner) of 9, 12, then one gets mastery in astrology. Ketu also
+indicates astrology.
+
+## PRASHNA JYOTISH
+
+317
+
+
+Number 1 to 249 Horary Calculation for latitude 2r N 33'
+Horary Calculation for Aries Lagna
+H.arary
+Nirayan
+Sayan
+Sayan
+Sayan
+Sayan
+Sayan
+No
+Lagna
+2
+3
+4
+5
+6
+Aries
+Taurus
+Gemini
+Cancer
+Leo
+Virgo
+1
+
+## 0 O' 0' 0"
+
+25 22
+22 22
+16 22
+12 22
+14 22
+2
+00 46 40
+25 56
+22 56
+16 56
+13 56
+14 56
+3
+03 00 00
+27 35
+24 35
+18 35
+15 35
+17 35
+4
+03 40 00
+28 04
+25 04
+19 04
+16 04
+18 04
+5
+04 46 40
+28 57
+25 57
+19 57
+16 57
+18 57
+6
+05 33 20
+29 30
+26 30
+20 30
+17 30
+19 30
+Gemini
+7
+07 33 20
+02 00
+28 00
+22 00
+19 00
+22 00
+8
+09 20 00
+03 21
+28 21
+23 21
+20 21
+23 21
+Cancer
+9
+11 26 40
+05 01
+00 01
+25 01
+22 01
+26 01
+10
+13 20 00
+03 26
+01 26
+26 26
+24 26
+28 26
+Libra
+11
+15 33 20
+08 19
+03 19
+28 19
+26 19
+00 19
+12
+16 13 20
+08 39
+03 39
+28 39
+26 39
+00 39
+13
+17 20 00
+09 38
+04 38
+29 38
+27 38
+02 18
+Leo
+14
+18 06 40
+10 16
+05 16
+00 16
+28 16
+03 16
+15
+20 06 40
+11 57
+06 57
+01 57
+29 57
+04 57
+Virgo
+16
+21 53 20
+13 24
+08 24
+03 24
+01 24
+07 24
+17
+24 00 00
+15 11
+10 11
+05 11
+04 11
+09 11
+18
+25 53 20
+16 49
+11 49
+06 49
+05 49
+11 38
+19
+26 40 00
+17 30
+13 30
+07 30
+06 30
+12 30
+20
+27 20 00
+18 07
+13 07
+08 07
+07 07
+13 07
+21
+28 26 40
+19 05
+14 05
+09 05
+09 05
+14 05
+22
+29 13 20
+19 43
+14 43
+09 43
+09 43
+14 43
+318
+
+## PRASHNA JYOTISH
+
+
+
+Number 1 to 249 Horary Calculation for latitude 22° N 33'
+Horary Calculation for Taurus Lagna
+Horary
+Nirayan
+Sayan
+Sayan
+Sayan
+Sayan
+Sayan
+No
+Lagna
+2
+3
+4
+5
+6
+Taurus
+Gemini
+Cancer
+Leo
+Virgo
+Libra
+23
+0° 0' 0"
+20 22
+15 22
+10 22
+10 22
+15 22
+24
+01 13 12
+21 33
+15 33
+11 33
+11 33
+17 33
+25
+03 00 00
+23 10
+17 10
+13 10
+13 10
+19 10
+26
+05 06 40
+25 09
+19 09
+15 09
+16 18
+21 03
+27
+07 00 00
+26 00
+20 53
+16 53
+17 53
+23 53
+28
+07 46 40
+27 20
+22 20
+18 20
+19 20
+25 20
+29
+10 00 00
+28 49
+23 49
+19 49
+20 49
+26 49
+30
+11 06 40
+29 63
+24 53
+20 53
+21 53
+27 53
+Cancer
+31
+11 53 20
+00 38
+25 38
+21 38
+22 38
+29 16
+Scorpio
+32
+13 53 20
+02 41
+26 41
+23 41
+25 41
+01 41
+33
+15 40 00
+04 28
+28 28
+25 28
+27 28
+03 28
+Leo
+34
+17 46 40
+05 37
+00 37
+27 37
+29 37
+05 37
+Libra
+35
+19 40 00
+07 36
+02 36
+29 36
+01 36
+07 36
+Virgo
+36
+20 26 40
+08 23
+03 23
+00 23
+02 23
+08 23
+37
+22 40 00
+10 48
+04 48
+02 48
+05 48
+11 48
+38
+23 20 00
+11 00
+05 31
+03 31
+06 31
+12 31
+39
+24 06 40
+11 23
+06 23
+04 223
+07 23
+13 23
+40
+26 06 40
+13 37
+08 37
+06 37
+09 37
+15 37
+41
+27 53 20
+15 33
+10 33
+08 33
+11 33
+17 33
+
+## PRASHNA JYOTISH
+
+319
+
+
+Number 1 to 249 Horary Calculation for latitude 2r N 33'
+Horary Calculation for Gemini Lagna
+Horary
+Nirayan
+Sayan
+Sayan
+Sayan
+Sayan
+Sayan
+No
+Lagna
+2
+3
+4
+5
+6
+Gemini
+Cancer
+Leo
+Virgo
+Libra
+Scorpio
+42
+0 ,, 0' 0"
+17 00
+12 56
+10 56
+13 56
+19 56
+43
+01 53 20
+19 08
+14 08
+13 08
+17 08
+22 08
+44
+02 40 00
+20 04
+15 04
+14 04
+18 04
+23 04
+45
+04 53 20
+22 00
+17 36
+16 36
+20 36
+25 36
+46
+05 33 20
+22 22
+18 22
+17 22
+21 22
+26 22
+47
+06 40 00
+23 45
+19 45
+18 45
+22 45
+27 45
+Sagit.
+48
+08 40 00
+26 00
+21 04
+21 04
+25 04
+00 04
+49
+10 26 40
+27 14
+23 14
+23 14
+27 14
+01 14
+50
+12 33 20
+29 42
+25 42
+25 42
+29 42
+03 42
+Leo
+Scorpio
+51
+14 26 40
+02 03
+28 03
+28 03
+02 03
+06 03
+52
+15 13 20
+03 01
+29 01
+29 01
+03 01
+07 01
+Virgo
+Libra
+53
+17 26 40
+04 40
+00 40
+01 40
+05 40
+09 40
+54
+18 06 40
+05 31
+01 31
+02 31
+06 31
+10 31
+55
+19 13 20
+06 55
+02 55
+03 55
+07 55
+11 55
+56
+20 00 00
+07 53
+03 53
+04 53
+08 53
+12 53
+57
+21 46 40
+09 01
+06 01
+07 01
+11 01
+15 00
+58
+23 53 20
+11 24
+08 24
+09 24
+13 24
+16 24
+59
+25 43 40
+13 59
+10 59
+11 59
+15 59
+18 59
+60
+26 33 20
+14 14
+12 14
+13 14
+17 14
+20 14
+61
+28 46 40
+16 38
+13 38
+15 38
+19 38
+22 00
+62
+29 46 40
+17 24
+14 24
+16 24
+20 00
+22 24
+320
+
+## PRASHNA JYOTISH
+
+
+
+Number 1 to 249 Horary Calculation for latitude 22° N 33'
+Horary Calculation for Cancer Lagna
+Drary
+Nirayan
+Sayan
+Sayan
+Sayan
+Sayan
+Sayan
+No
+Lagna
+2
+3
+4
+5
+6
+Cancer
+Leo
+Virgo
+Libra
+Scorpio
+Sagit.
+63
+0° 0' 0"
+18 10
+15 10
+17 10
+20 10
+23 10
+64
+00 33 20
+18 48
+15 48
+17 48
+20 48
+23 48
+65
+01 20 00
+19 44
+17 48
+18 44
+21 44
+24 44
+66
+03 20 00
+21 17
+19 17
+21 17
+24 17
+27 17
+67
+05 26 40
+24 12
+22 12
+24 12
+27 12
+29 00
+Capri.
+68
+07 20 00
+26 03
+24 03
+26 03
+29 03
+01 03
+Sagit.
+69
+08 06 40
+27 03
+25 03
+27 03
+00 03
+02 03
+70
+10 20 00
+28 49
+27 49
+29 49
+02 49
+04 49
+Scorpio
+71
+11 00 00
+29 27
+28 27
+00 27
+03 27
+
+## OS 00
+
+Virgo
+72
+12 06 40
+00 50
+29 50
+01 50
+04 so
+OS so
+Libra
+73
+12 53 20
+01 43
+00 43
+02 43
+
+## OS 43
+
+06 43
+74
+14 53 20
+04 01
+03 01
+05 01
+08 01
+09 01
+75
+16 40 00
+05 08
+05 08
+07 08
+10 08
+10 08
+76
+18 33 20
+07 19
+07 19
+09 19
+12 19
+12 19
+77
+19 20 00
+08 16
+08 16
+10 16
+13 00
+13 16
+78
+21 33 20
+10 46
+10 46
+12 46
+14 46
+15 46
+79
+22 13 20
+11 34
+11 34
+13 34
+15 34
+16 00
+80
+23 20 00
+12 51
+12 51
+14 51
+16 51
+16 51
+81
+24 06 40
+13 43
+13 43
+15 43
+17 43
+17 43
+82
+26 06 40
+15 58
+15 58
+17 58
+19 58
+19 58
+83
+27 53 20
+17 55
+17 55
+19 55
+21 55
+21 55
+
+## PRASHNA JYOTISH
+
+321
+
+
+Number 1 to 249 Horary Calculation for latitude 2r N 33'
+Horary Calculation for Leo Lagna
+Horary
+Nirayan
+Sayan
+Sayan
+Sayan
+Sayan
+Sayan
+No
+Lagna
+2
+3
+4
+5
+6
+Leo
+Virgo
+Libra
+Scorpio
+Sagit.
+Capri.
+84
+0 ''0' 0"
+20 14
+20 14
+22 14
+24 14
+24 14
+85
+00 46 40
+21 07
+21 07
+23 07
+25 00
+25 00
+86
+03 00 00
+23 34
+23 34
+25 34
+26 34
+26 34
+87
+03 40 00
+24 18
+24 18
+26 18
+27 18
+27 18
+88
+04 46 40
+25 27
+25 27
+27 27
+28 27
+28 27
+89
+05 33 20
+26 17
+26 17
+28 17
+29 17
+29 17
+Sagit.
+Capri.
+Aqua.
+90
+07 33 20
+28 26
+28 26
+00 26
+01 26
+01 26
+Libra
+Scorpio
+91
+09 20 00
+00 17
+00 17
+02 17
+03 17
+03 17
+92
+11 26 40
+02 32
+02 32
+04 32
+05 32
+05 32
+93
+13 20 00
+04 28
+05 28
+06 28
+07 28
+07 28
+94
+15 33 20
+06 47
+07 47
+08 47
+09 4 7
+09 47
+95
+16 13 20
+7 47
+08 27
+09 27
+10 27
+10 27
+96
+17 20 00
+8 47
+09 33
+10 33
+11 33
+11 33
+97
+18 06 40
+9 47
+10 22
+11 22
+12 22
+12 22
+98
+20 06 40
+10 47
+12 23
+13 23
+14 23
+14 23
+99
+21 53 20
+13 12
+14 12
+15 12
+16 12
+16 12
+100
+24 00 00
+15 46
+16 23
+17 23
+18 23
+18 23
+101
+25 53 20
+18 16
+18 16
+19 16
+20 16
+20 16
+102
+26 40 00
+19 02
+19 02
+20 02
+21 02
+21 02
+103
+27 20 00
+19 43
+19 43
+20 43
+21 43
+21 43
+104
+28 26 40
+20 48
+20 48
+21 48
+22 48
+22 48
+105
+29 13 20
+21 36
+21 36
+22 36
+23 36
+23 36
+322
+
+## PRASHNA JYOTISH
+
+
+
+Number 1 to 249 Horary Calculation for latitude 22° N 33'
+Horary Calculation for Virgo Lagna
+Horary
+Nirayan
+Sayan
+Sayan
+Sayan
+Sayan
+Sayan
+No
+Lagna
+2
+3
+4
+5
+6
+Virgo
+Libra
+Scorpio
+Sag it.
+Capri.
+Aqua.
+106
+
+## 0 c:
+
+0' on
+22 23
+22 23
+23 23
+24 23
+24 23
+107
+01 13 12
+23 35
+23 35
+24 35
+25 35
+25 35
+108
+03 00 00
+25 25
+25 25
+26 25
+27 25
+27 25
+109
+05 06 40
+27 28
+27 28
+28 28
+29 28
+29 28
+Capri.
+Aqua.
+Pisces
+110
+07 00 00
+29 20
+29 20
+00 20
+01 20
+01 20
+Scorpio
+Sagit.
+111
+07 46 40
+00 05
+00 05
+01 05
+02 05
+02 05
+112
+10 00 00
+02 18
+02 18
+03 18
+04 18
+04 18
+113
+11 06 40
+03 24
+03 24
+04 24
+05 24
+05 24
+114
+11 53 20
+04 10
+04 10
+05 10
+06 10
+06 10
+115
+13 53 20
+06 12
+06 12
+07 12
+08 12
+08 12
+116
+15 40 00
+08 03
+08 03
+09 03
+10 03
+10 03
+117
+17 46 40
+10 03
+10 03
+11 03
+12 03
+12 03
+118
+19 40 00
+12 02
+12 02
+13 02
+14 02
+15 02
+119
+20 26 40
+12 44
+12 44
+13 44
+14 44
+15 44
+120
+22 40 00
+15 01
+15 01
+16 01
+17 01
+18 01
+121
+23 20 00
+15 43
+15 43
+16 43
+17 43
+18 43
+122
+24 06 40
+16 53
+16 53
+17 53
+18 53
+19 53
+123
+26 06 40
+18 32
+18 32
+19 32
+20 32
+21 32
+124
+27 53 20
+20 20
+20 20
+21 20
+22 20
+23 20
+
+## PRASHNA JYOTISH
+
+323
+
+
+Number 1 to 249 Horary Calculation for latitude 2r N 33'
+Horary Calculation for Libra Lagna
+Horary
+Nirayan
+Sayan
+Sayan
+Sayan
+Sayan
+Sayan
+No
+Lagna
+2
+3
+4
+5
+6
+Libra
+Scorpio
+Sagit.
+Capri.
+Aqua.
+Pisces
+125
+0' '0' 0"
+22 34
+22 34
+23 34
+24 34
+25 34
+126
+01 53 20
+24 31
+24 31
+25 31
+27 31
+27 31
+127
+02 40 00
+25 19
+25 19
+26 19
+28 19
+28 19
+Pisces
+Aries
+128
+04 53 20
+27 40
+27 40
+28 40
+00 40
+00 40
+129
+05 33 20
+28 22
+28 22
+29 22
+01 22
+01 22
+Aqua.
+130
+06 40 00
+29 33
+29 33
+00 33
+02 33
+03 33
+Sagit.
+Capri.
+131
+08 40 00
+01 43
+01 43
+02 43
+03 43
+03 43
+132
+10 26 40
+03 37
+03 37
+04 37
+06 37
+06 37
+133
+12 33 20
+04 54
+04 54
+06 54
+08 54
+08 54
+134
+14 26 40
+06 58
+06 58
+08 58
+10 58
+10 58
+135
+15 13 20
+07 48
+07 48
+09 48
+11 48
+11 48
+136
+17 26 40
+10 18
+10 18
+12 18
+14 18
+14 18
+137
+18 06 40
+11 01
+11 01
+13 01
+15 01
+15 01
+138
+19 13 20
+12 20
+12 20
+14 20
+16 20
+16 20
+139
+20 00 00
+13 12
+13 12
+15 12
+17 12
+17 12
+140
+21 46 40
+14 11
+15 11
+17 11
+19 11
+19 11
+141
+23 53 20
+16 38
+17 38
+19 38
+21 38
+21 38
+142
+25 43 40
+18 46
+19 46
+21 46
+23 46
+23 46
+143
+26 33 20
+19 42
+20 42
+22 42
+24 42
+24 42
+144
+28 46 40
+21 18
+22 18
+25 18
+2718
+2618
+145
+29 46 40
+22 05
+23 05
+26 05
+28 05
+27 05
+324
+
+## PRASHNA JYOTISH
+
+
+
+Number 1 to 249 Horary Calculation for latitude 22° N 33'
+Horary Calculation for Scorpio Lagna
+Horary
+Niraylan
+Sayan
+Sayan
+Sayan
+Sayan
+SalJ'an
+No
+Lagna
+2
+3
+4
+5
+6
+S=rpio
+Sagit.
+Capri.
+Aqua.
+Pisces
+Aries
+146
+0° 0' 0"
+22 45
+23 45
+26 45
+28 45
+27 45
+147
+00 33 20
+23 24
+24 24
+27 24
+29 24
+28 24
+Aries
+148
+01 20 00
+28 18
+25 18
+28 18
+00 18
+29 18
+Pisces
+Taurus
+149
+03 20 00
+26 42
+27 42
+00 42
+02 42
+01 42
+150
+05 26 40
+28 15
+00 15
+03 15
+05 15
+04 15
+Capri.
+Aqua.
+151
+07 20 00
+00 32
+02 32
+05 32
+07 32
+06 00
+152
+08 06 40
+01 06
+03 06
+06 06
+08 06
+06 06
+153
+10 20 00
+04 00
+05 11
+09 11
+1111
+09 11
+154
+11 00 00
+04 00
+05 58
+09 58
+11 58
+09 58
+155
+12 06 40
+05 24
+07 24
+11 24
+13 24
+11 24
+156
+12 53 20
+06 20
+08 20
+12 20
+14 20
+12 20
+157
+14 53 20
+08 42
+10 46
+14 46
+16 46
+13 46
+158
+16 40 00
+09 58
+12 58
+16 58
+18 58
+15 58
+159
+18 33 20
+12 14
+15 14
+19 14
+20 14
+18 14
+160
+19 20 00
+13 15
+16 15
+20 15
+21 15
+18 15
+161
+21 33 20
+15 58
+18 58
+22 58
+23 58
+20 58
+162
+22 13 20
+16 48
+19 48
+23 48
+24 48
+21 48
+163
+23 20 00
+18 08
+21 08
+25 08
+26 08
+23 08
+164
+24 06 40
+19 00
+22 08
+26 08
+27 08
+24 00
+165
+26 06 40
+20 24
+24 24
+28 24
+29 00
+26 00
+Aries
+166
+27 53 20
+22 46
+26 46
+00 46
+00 46
+27 00
+
+## PRASHNA JYOTISH
+
+325
+
+
+Number 1 to 249 Horary Calculation for latitude 2r N 33'
+Horary Calculation for Sagittarius Lagna
+Horary
+Nirayan
+Sayan
+Sayan
+Sayan
+Sayan
+Sayan
+No
+Lagna
+2
+3
+4
+5
+6
+Sagit.
+Capri.
+Aqua.
+Pisces
+Aries
+Taurus
+167
+0' 0' 0"
+24 21
+29 21
+03 21
+03 21
+09 21
+Pisces
+Gemini
+168
+00 46 40
+25 14
+00 14
+04 14
+04 14
+00 14
+169
+03 00 00
+27 57
+02 57
+06 57
+06 57
+01 57
+170
+03 40 00
+28 42
+03 42
+07 42
+07 42
+02 42
+Aqua.
+171
+04 46 40
+00 01
+05 01
+09 01
+09 00
+04 01
+172
+05 33 20
+00 59
+05 59
+09 59
+09 00
+04 59
+173
+07 33 20
+03 21
+08 21
+12 21
+11 21
+06 21
+174
+09 20 00
+05 24
+10 24
+14 24
+13 24
+08 24
+175
+11 26 40
+07 50
+12 50
+16 50
+15 50
+09 50
+176
+13 20 00
+10 00
+15 00
+19 00
+18 00
+12 00
+177
+15 33 20
+11 32
+18 32
+21 32
+19 32
+14 32
+178
+16 13 20
+12 17
+19 17
+22 17
+20 17
+15 17
+179
+17 20 00
+14 31
+20 31
+23 31
+21 31
+16 00
+180
+18 06 40
+15 22
+21 22
+24 22
+22 22
+16 22
+181
+20 06 40
+17 45
+23 45
+26 45
+24 45
+18 45
+182
+21 53 20
+19 28
+25 28
+28 28
+26 00
+20 28
+Taurus
+183
+24 00 00
+22 26
+28 26
+00 43
+27 43
+22 43
+Aries
+184
+25 53 20
+24 40
+00 40
+02 40
+29 40
+24 40
+Gemini
+185
+26 40 00
+25 31
+01 31
+03 31
+00 31
+25 00
+186
+27 20 00
+26 14
+02 14
+04 14
+01 14
+25 14
+187
+28 26 40
+27 19
+03 19
+05 19
+02 19
+26 19
+188
+29 13 20
+28 07
+04 07
+06 07
+03 07
+27 17
+326
+
+## PRASHNA JYOTISH
+
+
+
+Number 1 to 249 Horary Calculation for latitude 2r N 33'
+Horary Calculation for Capricorn Lagna
+Horary
+Nirayan
+Sayan
+Sayan
+Sayan
+Sayan
+Sayan
+No
+Lagna
+2
+3
+4
+5
+6
+Capri.
+Aqua.
+Pisces
+Aries
+Taurus
+Gemini
+189
+oo 0' 0"
+28 56
+04 56
+06 56
+03 56
+27 56
+Pisces
+190
+01 13 12
+00 16
+07 08
+08 08
+04 08
+29 08
+Cancer
+191
+03 00 00
+02 49
+08 49
+09 49
+05 49
+00 49
+192
+05 06 40
+04 54
+10 54
+11 54
+07 54
+02 54
+193
+07 00 00
+06 52
+12 52
+13 52
+09 52
+04 00
+194
+07 46 40
+07 50
+13 25
+14 25
+10 50
+04 25
+195
+10 00 00
+10 32
+16 32
+16 32
+12 32
+06 32
+196
+11 06 40
+11 33
+17 33
+17 33
+13 33
+07 33
+197
+11 53 20
+12 18
+18 18
+18 18
+14 18
+08 18
+198
+13 53 20
+14 04
+20 02
+20 02
+15 02
+10 02
+199
+15 40 00
+16 36
+21 12
+21 36
+16 36
+11 12
+200
+17 46 40
+18 58
+24 29
+23 29
+18 29
+13 29
+201
+19 40 00
+21 04
+26 04
+25 04
+20 04
+15 04
+202
+20 26 40
+21 46
+26 46
+25 46
+20 46
+15 46
+203
+22 40 00
+24 37
+28 37
+27 37
+22 37
+17 37
+204
+23 20 00
+25 09
+29 09
+28 09
+23 09
+18 09
+205
+24 06 40
+25 46
+29 46
+28 46
+23 46
+18 46
+Taurus
+Gemini
+206
+26 06 40
+27 48
+02 24
+00 24
+25 24
+20 24
+207
+27 53 20
+29 51
+03 51
+01 51
+26 51
+21 51
+
+## PRASHNA JYOTISH
+
+327
+
+
+Number 1 to 249 Horary Calculation for latitude 22° N 33'
+Horary Calculation for Aquarius Lagna
+Horary
+Nirayan
+Sayan
+Sayan
+Sayan
+Sayan
+Sayan
+No
+Lagna
+2
+3
+4
+5
+6
+Aqua.
+Pisces
+Aries
+Taurus
+Gemini
+Cancer
+208
+oc 0' 0"
+01 31
+05 31
+03 31
+28 31
+23 31
+209
+01 53 20
+03 56
+06 58
+04 58
+29 58
+24 58
+Cancer
+210
+02 40 00
+04 36
+08 12
+05 36
+00 36
+25 36
+211
+04 53 20
+06 38
+10 19
+07 19
+02 00
+27 19
+212
+05 33 20
+06 38
+10 49
+07 49
+02 00
+27 49
+213
+06 40 00
+08 41
+11 41
+08 41
+02 41
+28 41
+Leo
+214
+08 40 00
+10 16
+13 08
+10 08
+04 58
+00 58
+215
+10 26 40
+12 28
+14 28
+11 28
+05 28
+02 28
+216
+12 33 20
+14 06
+16 03
+13 03
+07 23
+04 06
+217
+14 26 40
+16 24
+18 24
+14 24
+08 24
+05 24
+218
+15 13 20
+1711
+19 11
+15 11
+09 11
+06 11
+219
+17 26 40
+17 37
+19 37
+15 37
+09 37
+06 37
+220
+18 06 40
+19 02
+21 01
+17 01
+11 01
+08 02
+221
+19 13 20
+20 38
+21 49
+17 49
+11 49
+09 38
+222
+20 00 00
+21 23
+22 23
+18 23
+12 23
+10 23
+223
+21 46 40
+22 38
+23 38
+19 38
+14 16
+11 38
+224
+23 53 20
+25 06
+25 06
+21 06
+16 06
+13 06
+225
+25 43 40
+26 26
+26 26
+22 26
+17 26
+14 26
+226
+26 33 20
+27 00
+27 00
+23 00
+18 00
+15 00
+227
+28 46 40
+29 02
+29 31
+24 31
+19 31
+17 31
+Taurus
+Gemini
+228
+29 46 40
+00 00
+00 00
+25 00
+20 00
+18 00
+328
+
+## PRASHNA JYOTISH
+
+
+
+Number 1 to 249 Horary Calculation for latitude 22° N 33'
+Horary Calculation for Pisces Lagna
+iorary
+Nirayan
+Sayan
+Sayan
+Sayan
+Sayan
+Sayan
+No
+Lagna
+2
+3
+4
+5
+6
+Pisces
+Aries
+Taurus
+Gemini
+Cancer
+Leo
+229
+0 ° 0' 0"
+00 23
+00 23
+25 23
+20 23
+18 23
+230
+00 33 20
+00 47
+00 47
+25 47
+20 4 7
+18 4 7
+231
+01 20 00
+01 20
+01 20
+26 20
+21 20
+19 20
+232
+03 20 00
+03 26
+02 43
+27 43
+22 43
+20 43
+233
+05 26 40
+05 08
+04 08
+29 08
+24 08
+23 08
+Cancer
+234
+07 20 00
+06 27
+05 27
+00 27
+25 27
+24 27
+235
+08 06 40
+06 59
+05 59
+00 59
+25 59
+24 59
+236
+10 20 00
+09 33
+07 33
+03 33
+27 33
+27
+06
+237
+11 00 00
+10 00
+08 00
+03 00
+28 00
+28 00
+238
+12 06 40
+10 46
+08 46
+03 46
+28 46
+28 46
+239
+12 53 20
+11 48
+09 48
+04 18
+29 18
+29 18
+Leo
+Virgo
+240
+14 53 20
+12 40
+10 40
+05 40
+00 40
+01 20
+241
+16 40 00
+14 48
+11 48
+06 54
+01 54
+02 54
+242
+18 33 20
+15 4 7
+12 4 7
+07 47
+02 47
+03 47
+243
+19 20 00
+16 4 7
+13 4 7
+08 47
+03 47
+04 47
+244
+21 33 20
+18 23
+16 23
+10 23
+05 46
+07 23
+245
+22 13 20
+18 51
+16 51
+10 51
+26 10
+07 51
+246
+23 20 00
+19 37
+17 37
+11 37
+07 37
+08 37
+247
+24 06 40
+20 20
+18 10
+12 10
+08 10
+09 10
+248
+26 06 40
+22 36
+19 36
+13 36
+09 36
+11 12
+249
+27 53 20
+23 50
+22 50
+14 50
+10 50
+12 50
+
+## PRASHNA JYOTISH
+
+329
+
+
+
+## AYANAMSHA TABLE YEAR 1901 TO 2040
+
+Year Deg. Mnt.
+1901
+
+## 22.23
+
+1902
+1903
+1904
+1905
+1906
+1907
+1908
+1909
+1910
+1911
+1912
+1913
+1914
+1915
+1916
+1917
+1918
+1919
+1920
+1921
+1922
+1923
+1924
+1925
+1926
+1927
+1928
+1929
+1930
+1931
+1932
+1933
+1934
+1935
+330
+
+## 22.24
+
+
+## 22.24
+
+
+## 22.25
+
+
+## 22.26
+
+
+## 22.27
+
+
+## 22.28
+
+
+## 22.29
+
+
+## 22.29
+
+
+## 22.30
+
+
+## 22.31
+
+
+## 22.32
+
+
+## 22.33
+
+
+## 22.34
+
+
+## 22.34
+
+
+## 22.35
+
+
+## 22.36
+
+
+## 22.37
+
+
+## 22.38
+
+
+## 22.39
+
+
+## 22.39
+
+
+## 22.40
+
+
+## 22.41
+
+
+## 22.42
+
+
+## 22.43
+
+
+## 22.44
+
+
+## 22.44
+
+
+## 22.45
+
+
+## 22.46
+
+
+## 22.47
+
+
+## 22.48
+
+
+## 22.49
+
+
+## 22.49
+
+
+## 22.50
+
+
+## 22.51
+
+Year Deg. Mnt.
+1936
+
+## 22.52
+
+1937
+1938
+1939
+1940
+1941
+1942
+1943
+1944
+1945
+1946
+1947
+1948
+1949
+1950
+1951
+1952
+1953
+1954
+1955
+1956
+1957
+1958
+1959
+1960
+1961
+1962
+1963
+1964
+1965
+1966
+1967
+1968
+1969
+1970
+
+## 22.53
+
+
+## 22.54
+
+
+## 22.54
+
+
+## 22.55
+
+
+## 22.56
+
+
+## 22.57
+
+
+## 22.58
+
+
+## 22.59
+
+
+## 22.59
+
+
+## 23.00
+
+
+## 23.01
+
+
+## 23.02
+
+
+## 23.03
+
+
+## 23.04
+
+
+## 23.04
+
+
+## 23.05
+
+
+## 23.06
+
+
+## 23.07
+
+
+## 23.08
+
+
+## 23.09
+
+
+## 23.09
+
+
+## 23.10
+
+
+## 23.11
+
+
+## 23.12
+
+
+## 23.13
+
+
+## 23.14
+
+
+## 23.14
+
+
+## 23.15
+
+
+## 23.16
+
+
+## 23.17
+
+
+## 23.18
+
+
+## 23.19
+
+
+## 23.19
+
+
+## 23.20
+
+Year Deg.Mnt.
+1971
+
+## 23.21
+
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+
+## 23.22
+
+
+## 23.23
+
+
+## 23.24
+
+
+## 23.24
+
+
+## 23.25
+
+
+## 23.26
+
+
+## 23.27
+
+
+## 23.28
+
+
+## 23.29
+
+
+## 23.29
+
+
+## 23.30
+
+
+## 23.31
+
+
+## 23.32
+
+
+## 23.33
+
+
+## 23.34
+
+
+## 23.34
+
+
+## 23.35
+
+
+## 23.36
+
+
+## 23.37
+
+
+## 23.38
+
+
+## 23.39
+
+
+## 23.39
+
+
+## 23.40
+
+
+## 23.41
+
+
+## 23.42
+
+
+## 23.43
+
+
+## 23.44
+
+
+## 23.44
+
+
+## 23.45
+
+
+## 23.46
+
+
+## 23.47
+
+
+## 23.48
+
+
+## 23.48
+
+
+## 23.49
+
+Year Deg. Mnt
+2006
+
+## 23.50
+
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+2024
+2025
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+2035
+2036
+2037
+2038
+2039
+2040
+
+## 23.51
+
+
+## 23.52
+
+
+## 23.53
+
+
+## 23.53
+
+
+## 23.54
+
+
+## 23.55
+
+
+## 23.56
+
+
+## 23.57
+
+
+## 23.58
+
+
+## 23.58
+
+
+## 23.59
+
+
+## 24.00
+
+
+## 24.01
+
+
+## 24.02
+
+
+## 24.03
+
+
+## 24.03
+
+
+## 24.04
+
+
+## 24.05
+
+
+## 24.06
+
+
+## 24.07
+
+
+## 24.08
+
+
+## 24.08
+
+
+## 24.09
+
+
+## 24.10
+
+
+## 24.11
+
+
+## 24.12
+
+
+## 24.13
+
+
+## 24.13
+
+
+## 24.14
+
+
+## 24.15
+
+
+## 24.16
+
+
+## 24.17
+
+
+## 24.18
+
+
+## 24.18
+
+
+## PRASHNA JYOI'ISH
+
+
+
+Sub
+Ketu
+Venus
+Sun
+Moon
+Mars
+Rahu
+Jupiter
+Saturn
+Mercury
+Duration of Star
+
+## Explanation:
+
+Approximate Motion of Moon
+Daily
+Motion
+
+## 1ZO
+
+
+## H.
+
+
+## M.
+
+
+## 01.33
+
+
+## 04.27
+
+
+## 01.20
+
+
+## 02.14
+
+
+## 01.33
+
+
+## 04.00
+
+
+## 03.33
+
+
+## 04.13
+
+
+## 03.47
+
+
+## 26.40
+
+Daily
+Motion
+130
+
+## H.
+
+
+## M.
+
+
+## 01.26
+
+
+## 04.06
+
+
+## 01.14
+
+
+## 02.03
+
+
+## 01.26
+
+
+## 03.42
+
+
+## 03.17
+
+
+## 03.54
+
+
+## 03.29
+
+
+## 24.37
+
+Daily
+Motion
+14°
+
+## H.
+
+
+## M.
+
+
+## 01.20
+
+
+## 03.48
+
+
+## 01.09
+
+
+## 01.54
+
+
+## 01.20
+
+
+## 03.26
+
+
+## 03.03
+
+
+## 03.37
+
+
+## 03.14
+
+
+## 22.51
+
+Daily
+Motion
+15°
+
+## H.
+
+
+## M.
+
+
+## 01.15
+
+
+## 03.33
+
+
+## 01.04
+
+
+## 01.47
+
+
+## 01.14
+
+
+## 03.12
+
+
+## 02.51
+
+
+## 03.23
+
+
+## 03.01
+
+
+## 21.20
+
+If Daily motion of Moon is 12°, then Moon travels in one star for 26 Hrs
+and 40 Mnt. For sublord travel, we can find in under daily Motion 12° For
+daily motion 13° or 14° or 15° we can check from above table.
+Rasi
+Aries
+Taurus
+Gemini
+Cancer
+Leo
+Virgo
+Libra
+Scorpio
+Sagittarius
+Capricorn
+Aquarius
+Pisces
+
+## Explanation:
+
+Approximate Motion of Ascendant
+Duration
+of Rasi
+
+## 22°N 00'
+
+Hr.Mnt.Sec
+
+## 01.32.32
+
+
+## 01.47.09
+
+
+## 02.05.07
+
+
+## 02.11.04
+
+
+## 02.14.48
+
+
+## 02.09.20
+
+
+## 02.09.52
+
+
+## 02.14.08
+
+
+## 02.14.48
+
+
+## 02.01.36
+
+
+## 01.46.49
+
+
+## 01.32.47
+
+Duration
+of Rasi
+
+## 23° N 00'
+
+Hr.Mnt.Sec
+
+## 01.31.40
+
+
+## 01.46.35
+
+
+## 02.04.57
+
+
+## 02.11.10
+
+
+## 02.15.30
+
+
+## 02.10.08
+
+
+## 02.10.42
+
+
+## 02.14.47
+
+
+## 02.15.05
+
+
+## 02.01.16
+
+
+## 01.46.15
+
+
+## 01.31.55
+
+Duration
+of Rasi
+
+## 22°N 00'
+
+Hr.Mnt.Sec
+
+## 00.03.05
+
+
+## 00.03.34
+
+
+## 00.04.10
+
+
+## 00.04.22
+
+
+## 00.04.29
+
+
+## 00.04.18
+
+
+## 00.04.19
+
+
+## 00.04.28
+
+
+## 00.04.29
+
+
+## 00.04.03
+
+
+## 00.03.33
+
+
+## 00.03.05
+
+Duration
+of Rasi
+
+## 23° N 00'
+
+Hr.Mnt.Sec
+
+## 00.03.03
+
+
+## 00.03.33
+
+
+## 00.04.09
+
+
+## 00.04.22
+
+
+## 00.04.31
+
+
+## 00.04.20
+
+
+## 00.04.21
+
+
+## 00.04.29
+
+
+## 00.04.30
+
+
+## 00.04.02
+
+
+## 00.03.32
+
+
+## 00.03.03
+
+For temporary event, which can happen within some minutes or hours, we
+can use this table for transit of Ascendant Rasi. We can calculate approxi-
+mate time without calculations.
+
+## PRASHNA JYOTISH
+
+331

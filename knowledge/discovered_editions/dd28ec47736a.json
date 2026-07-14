@@ -1,0 +1,147 @@
+{
+  "title": "Bajrang Baan",
+  "discovered_at": "2026-07-13T12:42:39.851884+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Hanuman Chalisa and Bajrang Baan",
+      "authors": [
+        "Ekta Sharad",
+        "Amit Ranjan"
+      ],
+      "year": 2017,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9781521508299",
+        "1521508291"
+      ],
+      "publisher": [
+        "Independently Published"
+      ],
+      "ol_key": "/works/OL29434800W"
+    },
+    {
+      "source": "open_library",
+      "title": "Hanuman Sangrah",
+      "authors": [
+        "Anand PRAJAPATI",
+        "Tulsi Das"
+      ],
+      "year": 2020,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "1658370589",
+        "9781658370585"
+      ],
+      "publisher": [
+        "Independently Published"
+      ],
+      "ol_key": "/works/OL34502336W"
+    },
+    {
+      "source": "open_library",
+      "title": "Powerful Shri Hanuman Mantras",
+      "authors": [
+        "Bhagya Singh"
+      ],
+      "year": 2020,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9798625778817"
+      ],
+      "publisher": [
+        "Independently Published"
+      ],
+      "ol_key": "/works/OL30711448W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "2015.345554.-prashnaramayana",
+      "title": "\u0917\u094b\u0938\u094d\u0935\u093e\u092e\u0940 \u0924\u0941\u0932\u0938\u0940\u0926\u093e\u0938 \u0930\u091a\u093f\u0924 \u092a\u094d\u0930\u0936\u094d\u0928\u0930\u093e\u092e\u093e\u092f\u0923",
+      "creator": "Goswami Tulsidasa",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shri-bajarang-baan-prayog-evam-anubhav-dwara-swami-rupeshwaranand",
+      "title": "Shri Bajarang Baan Prayog Evam Anubhav Dwara SWAMI RUPESHWARANAND",
+      "creator": "Swami Rupeshwaranand Maharaj",
+      "year": 2025,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "Metadata"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shri-bajarang-baan-prayog-evam-anubhav-dwara-swami-rupeshwaranand_202511",
+      "title": "Shri Bajarang Baan Prayog Evam Anubhav Dwara SWAMI RUPESHWARANAND",
+      "creator": "Swami Rupeshwaranand Maharaj",
+      "year": 2025,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "Metadata"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2114136278",
+      "title": "Het ontstaan van een pogrom in Gujarat",
+      "year": 2009,
+      "is_oa": true,
+      "oa_url": "https://pure.uva.nl/ws/files/1457183/109095_343589.pdf",
+      "authors": [
+        "Ward Berenschot"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4412447008",
+      "title": "Exploring the Living Conditions and Structural Marginalisation in the Urban Slum Area of Tezpur\u2019s Sweepers Colony: Caste, Sanitation Work and Urban Exclusion",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://www.ijfmr.com/papers/2025/4/50071.pdf",
+      "authors": [
+        "Ashtha Dekaraja"
+      ]
+    }
+  ]
+}

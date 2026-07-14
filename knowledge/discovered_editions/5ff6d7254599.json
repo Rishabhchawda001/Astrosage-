@@ -1,0 +1,57 @@
+{
+  "title": "001-Garg-Sanhita",
+  "discovered_at": "2026-07-13T11:50:24.390516+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4244266805",
+      "title": "Organ Transplantation",
+      "year": 2015,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-319-18428-9_13.pdf",
+      "authors": [
+        "Mohammed Ali Albar",
+        "Hassan Chamsi\u2010Pasha"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4390917912",
+      "title": "Adaptation to mercury stress by nitrogen-fixing bacteria is driven by horizontal gene transfer and enhanced gene expression of the Mer operon",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://www.researchsquare.com/article/rs-3854515/latest.pdf",
+      "authors": [
+        "Timothy Paape",
+        "Aditi Bhat",
+        "Reena Sharma"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4244266805",
+      "title": "Organ Transplantation",
+      "year": 2015,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.1007/978-3-319-18428-9_13.pdf",
+      "authors": [
+        "Mohammed Ali Albar",
+        "Hassan Chamsi\u2010Pasha"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4390917912",
+      "title": "Adaptation to mercury stress by nitrogen-fixing bacteria is driven by horizontal gene transfer and enhanced gene expression of the Mer operon",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://www.researchsquare.com/article/rs-3854515/latest.pdf",
+      "authors": [
+        "Timothy Paape",
+        "Aditi Bhat",
+        "Reena Sharma"
+      ]
+    }
+  ]
+}

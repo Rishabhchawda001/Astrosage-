@@ -1,0 +1,5070 @@
+# Matasya Puran 1
+
+**Document ID:** DOC-0E8226563978
+**Language:** english (latin)
+**Pages:** 591
+**Class:** unknown
+**SHA256:** `0e8226563978ca789b0ce63f6978ab9e0a07e8a095e3f9deb84e79f49212b1a6`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+ao TA MTA aTAAATa
+MATSYA MAHAPURANA
+
+(An Exhaustive Introduction, Sanskrit Text, English Translation,
+Scholarly Notes and Index of Verses)
+
+Vol. I
+Chapters : 1-150
+
+Translated into English by
+A Board of Scholars
+
+An Exhaustive Introduction by
+Shantilal Nagar
+
+Edited with Scholarly Notes by
+K.L. Joshi
+
+PARIMAL PUBLICATIONS
+DELHI
+
+## Page 2
+
+Published by
+
+PARIMAL PUBLICATIONS
+Office : 27/28, Shakti Nagar, Delhi-1 10007 (INDIA)
+Retail Outlet : 22/3, Shakti Nagar, Delhi-1 10007 (INDIA)
+ph. : +91-11-23845456, 65441516, 47015168
+e-mail : parimal@ndf.vsnl.net.in
+url : http://www.parimalpublication.com
+
+© Publishers
+
+All rights reserved. No part of this publication may be reproduced or transmitted in any
+form or by any means, electronic or mechanical, including photocopy, recording or any
+information storage and retrieval system, without permission in writing from the publishers.
+
+First Edition : Year 2007
+ISBN : 81-7110-305-7 (Set)
+81-7110-306-5 (Vol. I)
+
+PRICE: Rs. 1600.00 (Set of 2 Vols.)
+
+Printed at
+
+J.N.Printers
+251, Street No.8, Padam Nagar, Delhi - 110007
+
+## Page 3
+
+CONTENTS
+
+Introduction
+
+CHAPTER 1
+The cause of the lord Visnu assuming the form of fish and other related details
+
+CHAPTER 2
+Conversation between Matsya and Manu
+
+CHAPTER 3
+The primary creation
+
+CHAPTER 4
+The story of Sarasvati
+
+CHAPTER 5
+Birth of the daughters of Daksa and Kumara K4rttikeya
+
+CHAPTER 6
+Description of the Kasyapa dynasty
+
+CHAPTER 7
+Birth of Maruts and description of Madana Dvadasi
+
+CHAPTER 8
+Presiding deities of each sarga and the crowning of Prthu as king
+
+CHAPTER 9
+Description of Manvantaras and seven Rsis
+
+CHAPTER 10
+The story of the king Prthu and the milking of the cow
+
+CHAPTER 11
+Genesis of the solar and lunar dynasties and the story of [la
+
+CHAPTER 12
+The story of [14 and description of Iksvaku dynasty
+
+CHAPTER 13
+Description of Pitr-vamsa and the hundred and eight names of the Goddess
+
+CHAPTER 14
+
+Fall of Acchoda from the heaven and her redemption at her prayer to the manes
+
+CHAPTER 15
+Description of Pitr-varnga and the method of performing Sraddha
+
+CHAPTER 16
+
+Different kinds of Srdddhas and the qualities of the Brahmanas to be invited in the Sraddhas
+
+Xill
+
+22
+
+28
+
+29
+
+32
+
+35
+
+4()
+
+45
+
+50
+
+52
+
+55
+
+## Page 4
+
+vi
+
+CHAPTER 17
+
+Performing of Sraddha for achieving prosperity and emancipation 61
+CHAPTER 18
+
+Method of Ekoddisti and Sapindikarana Sraddha 67
+CHAPTER 19
+
+Distribution of havya and kavya by Pitrs in Sraddhas 69
+CHAPTER 20
+
+Story of the sage Kausika and the ants 71
+CHAPTER 21
+
+The story of Brahmadatta and the four sheldrake birds 74
+CHAPTER 22
+
+The time suitable for the performing of srdddha and some rules connected with the same 77
+CHAPTER 23
+
+The origin of Moon, his marriage, performing of Rajasilya yajfa, his attraction for Tara, his fight
+with lord Siva, and ending of war at the instance of Brahma. 83
+CHAPTER 24
+
+Birth of Budha from the womb of Tara, the story of Urvasi and Purirava and that of Yayati 88
+
+CHAPTER 25
+
+Kaca and Devayani join Sukra for learning of Mrtasaiijivani after bearing painful situations 93
+CHAPTER 26
+
+Devayani proposes marriage with Kaca who refused and their mutual showering of curses 100
+CHAPTER 27
+
+Quarrel between Devayani and Sarmistha, Sarmistha pushes Devayani into the well, Yayati saves
+Devayani, conversation between Devayani and Sukracarya 102
+CHAPTER 28
+
+History of Yayati and dialogue between Devayani and Sukra 105
+CHAPTER 29
+
+Denouncement of Vrsaparva by Sukracarya and Sarmistha becomes the slave girl of Devayani 106
+CHAPTER 30
+
+Forest sports of Devayani and Sarmistha with their handmaids, arrival of the king Yayati- his talk
+with Devayani and his marriage with her. 109
+CHAPTER 31
+
+Birth of a son to Yayati from Devayani, meeting of Sarmistha with Yayati in seclusion and the birth
+of a son to her as well 112
+CHAPTER 32
+
+Talk between Sarmistha and Devayani getting annoyed at the birth of a son to Sarmistha, Devayani
+goes to her father with a complaint. 115
+
+## Page 5
+
+vii
+
+CHAPTER 33
+
+Yayati's efforts to exchange of old age with the youthful age of his sons who declined, but Puru
+accepted the old age of Yayati, earning the boons 118
+CHAPTER 34
+
+Enjoying of worldly pleasures by Yayati, and then his proceeding to the forest crowning Puru as the
+king 12]
+CHAPTER 35
+
+Performing of the tapas by the king Yayati and his reaching the heaven 124
+CHAPTER 36
+
+At the instance of Indra, Yayati repeats the advice given by him to his son Puru 125
+CHAPTER 37
+
+Fall of Yayati from the heaven and the question asked to him by Astaka 127
+CHAPTER 38
+
+Conversation between Yayati and Astaka 129
+CHAPTER 39
+
+Conversation between Yayati and Astaka 132
+CHAPTER 40
+
+Discussion of Yayati and Astaka on asrama dharma 135
+CHAPTER 41
+
+Discussion between Yayati and Astaka, Yayati refuses to accept the merits granted by others 137
+
+CHAPTER 42
+
+Refusal of the king Yayati to accept the offer of the kings including Astaka and others 140
+CHAPTER 43
+Description of Yayati's dynasty and the story of Kartavirya Arjuna 144
+CHAPTER 44
+Burning of the trees with lustre of Kartavirya, curse of Vasistha to Kartvirya and the description of
+Andhaka race | 147
+CHAPTER 45
+The story of Syamantaka gem 154
+CHAPTER 46
+Description of Vrsni dynasty 156
+CHAPTER 47
+Life story of Krsna, history of Daityas, battle of gods and the demons 159
+CHAPTER 48
+Description of Turvasu and Druhya, story of Bali and the birth of Karna 181]
+CHAPTER 49
+
+Description of Puruvarhsa, Bharatavarhsa and the birth of Bharadvaja etc. 189
+
+## Page 6
+
+Vill
+
+CHAPTER 50
+
+Comprehensive history of the rulers of Puruvamsa 194
+CHAPTER 51
+Dynasty, Origin and various names of Agni 201
+CHAPTER 52
+Description of Dharma and Adharma, the excellence of Karmayoga over Jnana-yoga 205
+CHAPTER 53
+Descriptions of Puranas and merit of making the gift of a Purana 208
+CHAPTER 54
+About the ordinance of Naksatra-purusa 214
+CHAPTER 55
+The merits of the vow of Aditya-sayana 218
+CHAPTER 56
+Krsnastami Vrata and the merits of adoration of Siva in different months 221
+CHAPTER 57
+Rohinicandra-sayana Vrata, The rules of performing different vows 222
+CHAPTER 58
+The rules of consecration of newly built tanks, wells, pools, temples etc. 225
+CHAPTER 59
+The rites of dedicating trees and planting groves 230
+CHAPTER 60
+About the ordinance of Saubhagya-sayana 232
+CHAPTER 61
+The birth of Agastya and the dialogue between Narada and Siva 236
+CHAPTER 62
+Description of Ananta-trtiya vow 241
+CHAPTER 63
+Vow of “Rasakalyanini trtiya” and rite of Sahasra Agnistoma 245
+CHAPTER 64
+About the ordinance of Ardranandakari trtiya 248
+CHAPTER 65
+Vow of Aksaya-trtlya and its merit 250
+CHAPTER 66
+Description of Sarasvata ordinance 251
+CHAPTER 67
+
+Merits of charity at the time of solar and lunar eclipses 252
+
+## Page 7
+
+ix
+
+CHAPTER 68
+Rituals of bathing on the seventh day of a bright fortnight
+
+CHAPTER 69
+Vow of Bhima Dvadasi
+
+CHAPTER 70
+Vow of Anangadana, the method of worshipping Kama
+
+CHAPTER 71
+Description of the ordinance known as Asiinyasayanadvitiya
+
+CHAPTER 72
+The vow of Angaraka, the dialogue between Pippalada and Yudhisthira
+
+CHAPTER 73
+Method of the pacification of planet Brhaspati and Sukra
+
+CHAPTER 74
+The vow and merits of Kalyana-saptami
+
+CHAPTER 75
+The merits of the vow of Visoxa-saptami
+
+CHAPTER 76
+The ordinance of Phala-saptami
+
+CHAPTER 77
+The vow and merits of Sarkara-saptami
+
+CHAPTER 78
+The vow and merits of Kamala-saptami
+
+CHAPTER 79
+The vow and merits of Mandara-saptami
+
+CHAPTER 80
+The ordinance of Subha-saptami
+
+CHAPTER 81
+The ordinance of Visoka-dvadasi, the method of worshipping Laksmi
+
+CHAPTER 82
+The merits of gift of Gudadhenu and other symbolic images of the cow
+
+CHAPTER 83
+The benefits and greatness of all gifts
+
+CHAPTER 84
+The description of gift of salt-hill
+
+CHAPTER 85
+The description of gift of raw-sugar-hill
+
+254
+
+258
+
+263
+
+269
+
+270
+
+275
+
+276
+
+278
+
+279
+
+280
+
+282
+
+283
+
+284
+
+285
+
+288
+
+291
+
+295
+
+296
+
+## Page 8
+
+CHAPTER 86
+The description of mountain of gold
+
+CHAPTER &7
+The description of mount of sesamum
+
+CHAPTER 88
+The description of gift of cotton-hill
+
+CHAPTER 89
+The description of mount of clarified butter
+
+CHAPTER 90
+The description of mount of gems
+
+CHAPTER 91
+The description of the mount of silver
+
+CHAPTER 92
+The description of the sugar-hill
+
+CHAPTER 93
+
+The performance of Santi and Pusti (Oblation to the nine planets)
+
+CHAPTER 94
+Description of the form of nine planets
+
+CHAPTER 95
+Method and merit of the ordinance of Siva-caturdasi
+
+CHAPTER 96
+The greatness of giving up of all fruits
+
+CHAPTER 97
+The method of Sunday ordinance
+
+CHAPTER 98
+The process of bringing Sarkranti to a close
+
+CHAPTER 99
+The vow of Visnu-vratam, known as the Vibhiti-Dvadasi
+
+CHAPTER 100
+Description of the vow of Visnu-vratam
+
+CHAPTER 101
+Prescribing of the sixty vratas and the related glory
+
+CHAPTER 102
+Method of taking bath and the performing of tarpana
+
+CHAPTER 103
+Anxiety of Yudhisthira, his meeting with the sage Markandeya
+
+296
+
+297
+
+298
+
+298
+
+299
+
+300
+
+301
+
+304
+
+318
+
+319
+
+322
+
+325
+
+326
+
+328
+
+330
+
+334
+
+341
+
+344
+
+## Page 9
+
+CHAPTER 104
+
+The glory of Prayiga and description of various sacred places 347
+CHAPTER 105
+
+Position of those who die at Prayaga and the importance of giving a cow in charity 348
+CHAPTER 106
+
+Glory of Prayaga and description of various auspicious places 35]
+CHAPTER 107
+
+Description of the various sacred places of Prayaga 355
+CHAPTER 108
+
+The glory of Prayagatirtha 357
+CHAPTER 109
+
+Glory of Prayaga in preference to other tirthas 360
+CHAPTER 110
+
+Dwelling of all the auspicious tirthas at Prayaga 362
+CHAPTER 111
+
+Stay of Brahma, Visnu and Siva at Prayaga 363
+CHAPTER 112
+
+Glory of Prayaga as described by Vasudeva 365
+CHAPTER 113
+
+The description of Jambidvipa and its mountains and varsas 366
+CHAPTER 114
+
+Description of Bharatavarsa, Kimpurusa and Harivarsa 373
+CHAPTER 115
+
+Story of the earlier birth of Purtrava 380
+CHAPTER 116
+
+Description of Airavati river 381
+CHAPTER 117
+
+Description of the astonishing splendour of Himalaya 383
+CHAPTER 118
+
+Description of the astonishing beauty of Himalaya and the hermitage of the sage Atni 385
+CHAPTER 119
+
+Entry of Purdrava in the hermitage, description of the grandeur of the 4srama and the tapas
+performed by Purirava 390
+CHAPTER 120
+
+Tapas of the king Purtrava, sports of Gandharvas and apsards, arrival of the sage Atri, the boon
+granted to the king 393
+
+## Page 10
+
+CHAPTER 121
+
+Description of Kailasa and Ganga besides Jambidvipa 397
+CHAPTER 122
+
+Description of Sakadvipa, Kusadvipa and Salmalidvipa 402
+CHAPTER 123
+
+Description of Gomedaka and Puskaradvipa 409
+CHAPTER 124
+
+Speed of the Sun and the Moon described 414
+CHAPTER 125
+
+Description of the movement of the sun and his chariot 421
+CHAPTER 126
+
+Riding of different gods over the Sun’s chariot in different months 425
+CHAPTER 127
+
+Description of the chariot of the planets and praise of Dhruva 431
+CHAPTER 128
+
+Movements of divine planets and the speed of the sun and the moon 433
+CHAPTER 129
+
+The building of Tripura 439
+CHAPTER 130
+
+Building of Tripura by Maya-danava 442
+CHAPTER 131
+
+Comfortable living of the Daityas in Tripura, witnessing of the dream by Maya 444
+CHAPTER 132
+
+Atrocities of the Daityas of Tripura, taking refuge of the gods with Brahma 448
+CHAPTER 133
+
+Building of a surprising chariot of Siva for the killing of Tripurasura | 450
+CHAPTER 134
+
+Attack on Tripura by Siva and other gods 455
+CHAPTER 135
+
+Attack on Tripura by Indra at the command of Siva, victory of the gods and the retreat of the
+Danavas to Tripura 458
+CHAPTER 136
+
+Anxiety of Maya, construction of a surprising stepwell, terrific war between Nandikesvara and
+Tarakasura 465
+CHAPTER 137
+
+Anxiety of Maya with the drying of the step-well, Danavas enter the nether world 470
+
+## Page 11
+
+xill
+
+CHAPTER 138
+Terrific battle between the gods and the Danavas and killing of Tarakasura
+
+CHAPTER 139
+Maya entrusts safety of Tripura to the Danavas convincing them again
+
+CHAPTER 140
+War between Gods and Danavas, killing of Vidyunmali by Nandisvara
+
+CHAPTER 141
+Purtirava’s union with the sun and moon
+
+CHAPTER 142
+Description of the Yugas
+
+CHAPTER 143
+Description of yajiia and its method
+
+CHAPTER 144
+The temperament of Dvapara and Kaliyuga, the story of the king Pramati, start of Krtayuga
+
+CHAPTER 145
+Changes in the bodies, varna with the change of the yugas
+
+CHAPTER 146
+Birth of Vajranga, his making captive by Indra and his release
+
+CHAPTER 147
+Birth of Tarakadsura with the boon of Brahma
+
+CHAPTER 148
+
+473
+
+478
+
+483
+
+489
+
+496
+
+502
+
+505
+
+505
+
+521
+
+526
+
+Performing of tapas by Tarakasura, receiving of his boon from Brahma and the preparations of war
+
+between the gods and the Daityas
+
+CHAPTER 149
+The start of war between gods and the asuras
+
+CHAPTER 150
+Battle between gods and the demons
+
+528
+
+536
+
+537
+
+## Page 13
+
+Introduction
+
+The Matsya Purdna earns its title from the fish incarnation of Visnu, the other nine
+being Ktrma, Varaha, Narasimha, Vamana, Bhargava Parasurama, Rama, Krsna, Buddha
+and Kalki. The Matsya Purdna is not all based totally on the life story of Matsya, but it
+deals with various other subjects, though in some of the chapters Matsya himself is the
+speaker. Before embarking on the subejct of the incarnation of Visnu, it would be quite
+pertinent to visualise the need for such an tncarnation. In this connection, there is the well
+known passage from Bhagavadgitd in which the lord Krsna declared that whenever the evil
+or adharma becomes predeomient, in the society and the virtues or dharma are on the
+decline, or are relegated to the background, the lord incarnates on earth in order to uphold
+the virtues and to destroy the evil forces, would be quite relevant :—
+
+aat sat fe ence tonfatate area
+MUA TAA GAAS TING It
+UAT AAT Farry Hy SEPA
+aT Mra a AN
+Bhagavadgita
+The same spirit has been conveyed in the following verses of the Brahma Purdna:—
+yo YfTMget: Waa ATA: |
+Baa BAA ATAAU TSA!
+qel qeraqea shatata st fet:
+eeay arama dal Sal WATT
+Ba Ala fe Heals sae!
+AAT AUN HAA Tt
+gert Feremta sratet a yefeary
+WATT TAU STAAS AT |A-AM (1811-4)
+The number of incarnations
+
+The incarnations of Visnu have been variously described in the Puranas, since the
+Matsya Purana relates to one of the incarnations of Visnu, it would be of interest to analyse
+the position of the incarnations in the Puranas:—
+
+1. Vayu Purana
+
+(a) Divine Incarnations
+
+## Page 14
+
+XVi
+
+(1) Vardaha (II. 36.73) In the fourth ywga, when Suras were in distress, he was born
+within the ocean for killing Hiranyakasipu.
+
+(ii) Narasirhha (II. 36.73) The second incarnation was that of Narasimha.
+
+(iii) Vamana (II. 36.74) The third incarnation, that of Vamana, took place in the
+seventh Tretayuga, when all the three worlds were overrun
+by the Daityas and were ruled by Ball.
+
+(b) Human Incarnation
+
+(iv) Dattatreya (JI 36.88) The fourth incarnation was Dattatreya, with Markandeya as
+his preceptor.
+
+(v) Mandhatr (II. 36.89) The fifth incarnation is Mandhatr
+
+(vi) Parasurama (II. 36.90) The sixth incarnation was that of Parasurama, son of
+Jamadagni.
+
+(vil) Rama (II. 36.91) In the twenty-fourth Tretayuga Visnu incarnated as Rama.
+
+(viii) Veda-vyasa (II. 36.92) Visnu took his eighth incarnation as Vedavyasa born of
+Parasara.
+
+(ix) Krsna (II. 36.93) Visnu was born as Krsna, son of Devaki and Vasudeva as the
+
+ninth incarnation.
+
+(x) Kalki (II. 36.165-120) Visnu in his future incarnation will be known as Kalki.
+
+(2) Varaha Purana
+
+The Vardha Purdna counts the ten incarnations of Visnu, in a chronological order as
+follows:—
+
+ARTHAS ASIST ATA: |
+TATA FONTPT Tae Ta TM (4.2)
+
+(Matsya, Kirma, Vardaha, Narasimha, Vamana, Parasurama, Rama, Krsna, Buddha and
+Kalki are the ten incarnations of Visnu)
+(3) Brahmavaivarta Purana
+
+The Brahmavaivarta Purdna, mentions mainly at two places about the incarnations of
+Visnu. Initially in the ninth Chapter of the Visnu Khanda, there is a mention of seventeen
+incarnations of Visnu as under:—
+
+TAMIaET: AaAissrs Tl
+Tey alfa SHOT at Aa
+Yau ae: alenatg: aAftertrra
+Ud Bi: Hes Bae HAT FAN
+
+## Page 15
+
+XVli
+
+aut greet way vacate facefay: |
+ufegulaa: emt agus gel ATI
+(Brahmavaivarta Purana, Krsna Khanda, 9/10,12/13)
+The above verses classify the incarnations of Visnu as follows
+(i) | Those which emerged Brahma, ISa, Vighnesa (Ganega), Karma, Nara-
+
+out of amsas of Krsna Narayana, Karttikeya.
+(or Visnu)
+
+Here Nara and Narayana have been treated separately,
+but elsewhere in this Purana, Nara-Nardyana have been
+treated as one incarnation (Krsna Khanda 22/28)
+
+(ii) Amsavatadras of Visnu Vamana, Kalki, Buddha, Kapila and Matsya.
+(1i1) POrandvataras Ktrma, Narasimha, Rama and Krsna.
+Irrespective of the above list of seventeen incarnations, the second Sthala of Krsna
+
+Khanda of this Purana (23/37; 41-49) mentions Vamana, Varadha, Narasimha, Kirma,
+Rama, Parasurama, Kapila, Nara-Narayana and Krsna.
+
+(4) Garuda Purana
+Chapter-14 of the Brahma Khanda of ithe Garuda Purdna deals with the incarnations of
+Visnu. The lord is described here not only the author of everything but also as the destroyer
+
+and as enjoyer of the best in everything. In this connection a number of things which are
+excellent in each class are mentioned and the Lord is said to be its enjoyer.
+
+Chapter-15 of the same texts provides the list of these incarnations which includes Vis
+nu-Vasudeva, Samkarsana, Aniruddha, Sanandana and others. Besides the names of
+Varaha, Narayana, Kapila, the expounder of Sankhya philosophy, Dattatreya (the propunder
+of Anviksiki to Alarka) Svayambhuva Manu, Ktrma, Dhanvantri, Mohini, (Sri),
+Narasimha, Vamana, ParaSurama, Vyasa, Raghava ( Rama), Krsna, Buddha and Kalki are
+also mentioned. Some of the relevant verses are quoted hereunder :—
+
+Tat et: mgerreren saat efeatorait:
+MUA UTES FA Tete Fig GTA:
+
+amt serge Mags safe waaha ca
+segurt fefgrarat Aeren Wada aafad efacrqi
+aa eft Mewar BaeAT WTS
+
+cen ferorenfgrasy aarece dente: aetclfcaas
+ail at wTaraneeat a ayameaga:|
+
+Sade agar: rg aed & ufaq afad an
+
+## Page 16
+
+XVill
+
+Tat Sha: Ua Yous Wa WTA aah
+Taga afrarnt a ats yfart-erat aay west:
+AMAA F oPaqat waareaha Tors
+TRI aya tenfetrdeumie aa
+(Garuda Purana, Brahma Khanda, 15.17-22)
+
+(5) Bhagavata Purana
+
+The texts in its first Skanda describes the number of the incarnation of Visnu as twenty-
+four as follows:—
+
+“At the time of the beginning, with the desire to create the universe, the lord assumed
+the form of a man (purusa) consisting the sixteen parts created from the fattvas (primary
+substances) of which Mahat (the great or intellect) is the first.
+
+Brahma, the head of the progenitor of the universe, was born of the lotus of the deep-
+lake-like navel of the Lord, who was lying on the waters (of the post-deluge ocean),
+extending his yogic meditation slumber. Verily that form of the lord on the formation of
+whose limbs is based the extent of the universe, is very pure, excellent, and full of sattva
+(goodness) they (i.e. yogins) with their vision visualise this form which is wonderful (on
+account of its having thousands of feet, thighs, arms, mouths, thousands of heads, ears, eyes
+and noses, shining on account of thousands of crown, garments and ear-rings):—
+
+TPIT MSTA MSA AAT
+WeaTaMerifad AeAMtera HUSA (1.3.4)
+
+At first, that very God manifested himself as a youth and becoming a Brahmana,
+practised unbroken celibacy which is difficult to practice. Secondly also the lord of
+sacrifices: (Narayana) with the object of creation, assumed the body of a boar, for raising up
+the earth which has sunk down to the lower region called Rasdtala. And thirdly, he having
+become the Divine sage Narada in the Arsa creation (pertaining to the sages) expounded the
+religion-mystical treatise pertaining to the satvatas (the devotees of Visnu), namely
+Pancardtragama by following which actions become void of their binding force. In the
+fourth incarnation, having been born of the wife of Dharma (namely Marti, daughter of
+Daksa-Prajapati) as the twin sages Nara-Ndarayana, He performed severe penance with fully
+pacified mind.
+
+The fifth (incarnation) was the name of Kapila, the chief of the Siddhas, who explained
+to Asuri, the Samkhya doctrine which determined all the principles, which were lost
+formerly in the course of time. In the sixth (incarnation), he being requested by Anasiya,
+became the chid of Atri, taught Metaphysics to Alarka, Prahlada and others. Then in the
+seventh incarnation, yajna was born of Huci and Akuti. He alongwith gods, of whom Yama
+was the first, protected the period assigned to Manu called Svayambhu. In the eighth
+incarnation, Lord Visnu, was born of Nabhi and queen Meru Devi. He as Rsabha showing
+
+## Page 17
+
+to the strong minded ones, the path of Sanydsa, the most respectable of all stages of life.
+Having been explored by sages, he assumed the ninth form known as Prthu. From this
+earth, he milked medicinal plants. Thereby he became most pleasant. At the time of oceanic
+deluge in the epoch called Caksusa, he assumed the form of a fish and protected Vaivasvata
+Manu, by making him board the earth boat. This was his tenth incarnation. In the eleventh
+incarnation, in the form of a tortoise, the Omnipresent lord supported the Mandra mountain
+on his back while gods and demons were churning the ocean. The twelfth incarnation is of
+Dhanvantri and the thirteenth, the female form of Mohini, who after deluding others,
+enabled the gods of drink nectar. Assuming the fourteenth man-lion form, he tore up the
+chest of the powerful king Daityas with his claws like the weaver of mats tearing the grass.
+Proposing to beg three steps of land, but desirous of recovering heaven, he assumed the
+Pigmy (Vamana) form and arrived at Bali's sacrifice. In the sixteenth incarnation, being
+angry at the hostility to Brahmanas, he extricated the warrior class form the earth twenty
+one times as Parasurdma. In the seventeenth descent on earth, he was born of Satyavati and
+Pardsara. Seeing the people of low intelligence, he divided the three in the form of Veda
+into several Branches. After this, in order to help gods or to kill Ravana, he assumed
+kingship and performed acts of valour such as the control of the sea by building a bridge
+over it. In the nineteenth and twentieth incarnations, having taken birth in the Vrsni family
+as Rama (Balarama) and Krsna, he lessened burden of earth. Then on the full advent of the
+Kali Age, he will be born as Buddha and as soon of Ajana in the Kikata country. Then in
+the twilight of the Kali Age, when the kings will be as good as robbers, this protector of the
+world will be born of Visnuyasa under the name of Kalki.
+
+(6) Agni Purana
+
+In the Chapter 48 of Agni Purdna stress is laid on the recitation of the Vaisnava mantra
+(3% FR Wad arqcara) from the number of Sanskrit letters entering into its composition.
+Then there is an elaborate description of the twenty-four forms of Visnu. The next Chapter
+(49) deals extensively with the iconography of Visnu, and his ten incarnations, Chapters 44-
+47 highlight the essential points in the making of an image of Vasudeva and any other
+deity; the essential points of the divine pedestal and its dimensions; the different kinds of
+Salagrama stones and the process of worshipping Salagramas. Then chapters 202 and 203,
+contain highlight on the worship of Hari and the fruits acquired by a man for worshipping
+Hari. Chapter-305 recites the fifty names of Visnu.
+
+The ten incarnations of Visnu are also found mentioned in the following Puranas,
+besides the Mahabharata:—
+
+(1) Varadha Purdna , 4.1-3; 48.16-23;112.27.
+(1) Brahmanda Purdna 2.73, 70-126.
+(111) Matsya Purana 47, 234-251.
+
+## Page 18
+
+XX
+
+(iv) Devi Bhégavata, 105, 1-15.
+
+But the subject of incarnations has been discussed variously in the Puranas as well as
+_ other religious literature as would be evident from the following facts.
+
+(1) The Reasons
+
+(a) Visnu is the only god of the Brahmanical trinity, who is known in the texts to
+incarnate not only in animal, or composite forms, (half animal and half human) but also in
+purely human form and even is born of human parents. The theory of incarnation of Visnu
+could also be traced in the Satapatha Brahmana, wherein the rescue of the Earth from the
+deep sea by Brahma in the form of a Boar has been discussed:—
+
+WY Aiea Saas AMfedtad sass wa sears west aaa she
+
+ag SHIA Ase: Uf: maTafadtaatags Hear arat waetatt Heat
+
+alfa Tae ase forteata saat yen WaT aT TET aT vinisgerarda Ty!
+(Satapatha Brahmana, 14.1.2.11)
+
+(Then, the earth, torn up by a Boar, he takes only thus large was she in the beginning,
+for, indeed only so large was this earth in the beginning of the size of a span. A Boar called
+Emusa, raised her up and he was her lord Prajapati, with that mate, her heart's delight, he
+thus supplies the complete him............ ).
+
+(b) The same version is repeated in the Vajasneyi Samhita (38.5) and some other texts as
+well. However, the Matsya Purdna also declares that whenever there 1s a decay of
+righteousness, Visnu takes birth in order to establish righteousness by destroying asuras :—-
+
+Wa WA: Wafawad wise wy:
+Hay MAT AATATO WONG (Matsya Purana 47.32)
+
+(c) It also testifies that Visnu's resorting to the various incarnations on earth is due to a
+curse pronounced by Bhrgu and that Visnu assumed most of these forms:—
+
+RIAA Heat Aaa
+SURE IER Gt cara Wali! (Matsya Purana 47.37)
+
+(At the same time on account of the curse of Bhrgu, there was destructive warfare
+between Devas and asuras to cause pain to Bali, when lord Visnu manifested himself in
+human form to establish righteousness, for the sake of the Devas and the asuras).
+
+(d) According to the above authority, it was Bhrgu who initially commanded Visnu to
+incarnate, in order to establish righteousness over the unrighteous deeds of the asuras. Thus
+the seeds of the theory of incarnation of Visnu could quite well be traced in the Vedic texts
+and the Satapatha-Brahmana, but the clear vision as to the need of such incarnations has
+been provided in the Matsya Purdna and the Bhagvadgitd as described earlier.
+
+(ce) Almost identical views are contained in Chapter-II of the Devi-Mahatmya wherein
+the goddess declares similarly.
+
+## Page 19
+
+Xxi
+
+(f) The Curse of Sukra, the priest of asuras
+
+The Matsya Purdna (Chapter-47) further goes on to testify that there were indeed twelve
+conflicts between the gods and the asuras. On one occasion when Prahalada had been
+overcome, Indra has gained the empire of the three worlds. Sukra, the priest of the asuras,
+left them and went to the gods. They however, entreated him not to desert them; when he
+reassured them by the promise of his support. They (the asuras) were attacked by the gods
+and they resorted to Sukra, when their assailants left them. Sukra then referred to their
+earlier discomfiture and advised them to wait for a more favourable time and resorted to
+Siva to obtain a sacred text for achieving their victory. On being praised by Sukra for the
+sacred book, Mahadeva advised him to practice severe austerities. The absence of Sukra
+entheused the gods to attack the asuras, who feeling insecure went to the mother of Sukra,
+to save them. Then mother of Sukra, was ultimately slayed by Visnu at the instance of
+Indra, quite hesitatingly because she was a woman. Visnu was thereafter doomed by a curse
+of Sukra to be born seven times in the world of men and in consequence of this, he
+appeared for the good of the world when unrighteousness prevailed. In the consequence of
+Sukra's curse, which operated periodically, Visnu had to be born seven times among men
+for a sin of killing a woman, knowing that a woman under no circumstances is to be killed.
+
+Ta wa ataaen eat Frafer
+THAR TAG AS ATATITTA! (Matsya Purana 47.103)
+
+Besides, Brahma had also decreed that all those asuras who should be disobedient to
+Prahalada should be slain by man. This also explains the reasons for Visnu's resorting to the
+human form for the destruction of the asuras:—
+
+were Fest J A wrerayTey a
+TyETaEITT aa Taft CMMSCHY: || (Matsya Purana 47.233)
+
+(ii) Types of Incarnations
+
+As to the types of incarnations of Visnu, they could be divided in following three
+types:—
+
+(a) Complete incarnations like Rama and Krsna.
+
+(b) Partial incarnations like Parasurama, who though a Ciranjivi was endowed with
+divinity for a short span of life and had finally to retire to the mountains, handing over all
+his divine powers to Rama, after his mission, the suppression of Ksatriyas was over. Thus
+with Parasurama the divinity was not a life-long endowment, but of a short-lived nature.
+This type is called avesa.
+
+(c) The third is characterised by a portion of the power as illustrated in samkha and
+cakra, the attributes of Visnu, who are occasionally ordered to be born among the men as
+embodies beings to improve them in their ways, by becoming devotional personages and
+achieve the purpose of their mission. Such incarnations are called amsdvatdras or partial
+incarnations.
+
+## Page 20
+
+Xxil
+
+(iii) The Classification
+
+These incarnations can also be classified, into human, animal and the composite forms:—
+(a) Human forms, include Rama, Parasurdma, Vamana, Krsna, Buddha and Kalki.
+(b) Animal forms, include, Matsya, Ktrma and Vardaha.
+
+(c) The composite forms include Narasimha, wherein the deity had the head of a lion
+placed on a human trunk. Sometimes even Varaha is conceived in the composite form of
+human with the head of a Boar.
+
+(iv) The Doctrine, its genesis and evolution
+
+As to the number of the incarnations of Visnu, the different texts speak variously on the
+subject. In this connection, J.N. Banerjea has observed as follows:—
+
+“The doctrine of the vibhavas (Avataras, 1.e., incarnatory forms) was no less component
+part of Paficaratra or Bhagavata creed than that of the Vythas. The difference between the
+two lies in the fact that we have some evidence regarding the existence of the former in the
+later Vedic texts, whereas there is none about the existence of the latter in them. The term
+avatdra is applied to the act of the god coming down in the form of a man or an animal to
+the earth and living there in that form till the purpose for which he had descended in the
+universe was fulfilled; it also sometimes denotes the assumption of different forms by the
+god for the attainment of particular objects. It is thus distinct form for the attainment of
+particular objectives. It is thus distinct form identification (where one deity is identified
+with another), or emanation (as illustrated by the Vyaha doctrine). It is also different from
+the possession of one individual entity by the divinity in which the latter takes up
+temporary abode in the former; but this idea of possession has to some extent been manifest
+in the story of Parasurama incarnation of Visnu. In the Paricaratra theology, the Vibhavas
+(Vi-bhu-as), i.e., the act of becoming in a special manner) being the Pure Creation
+(Suddhasrsti) to which the Vythas also belong; these incarnations, however, may not only
+be of a composite god Visnu himself, but also may be of his Vythas, sub-Vythas and
+Parsidas (companions), or even of his attributes and emblems. One of the earliest reference
+to the assumption of some forms by the divinity 1s to be found in the Satapatha Brahmdna
+and the Jaittiriya Samhita where Prajapati is said to have assumed the forms of Fish
+(Matsya), Tortoise (Kirma) and Boar (Varaha) on different occasions for the furtherence of
+creation and the well being of the created. When the doctrine of incarnations in association
+with Vasudeva-Visnu-Nardyana, was well established all these three were bodily
+transferred to that composite god, and were regarded as some of the celestial (divya)
+Incarnations......... ”
+
+On the question of the number of incarnations of Visnu, J.N. Banerjea has observed:—
+
+“A brief reference to a few of the Epic, Puranic and Pancardtra passages enumerating
+the various incarnations will be useful for our understanding of many Vaisnava images. If
+we study them together, we shall not only recognise in some of these enumeration all the
+
+## Page 21
+
+XXiil
+
+stereotyped ten (this list also some times varies in the north and south of India) whose icons
+are common, but also find the names of many Avatdras whose images, though not so
+common, are also known. The Narayaniya Section of the Mahabharata refers in one list
+(XII.349,37) to the Varaha, Vamana and Narasimha or the man-lion incarnations. The
+human incarnations refer no doubt to Vasudeva Krsna, Bhargava Rama and Dasarathi
+Rama, for in Chapter 389, (Verses 77-90) of the same section not only the stories about the
+first three in the list given above are briefly narrated, but also those about his incarnations
+as Bhargava Rama (Parasurama), Dasarathi Rama and Vasudeva Krsna are recounted. But a
+fuller list is given in verse 104 of the same Chapter which contains the name of Harsa,
+Kirma, Matsya, Varaha, Narasithha, Vamana, Rama (Bhargava), Rama (Dasarathi), Satvat,
+(Vasudeva or Baladeva for both of them are of Satvat race) and Kalki. The number of ten is
+to be noted here and the absence of Buddha in this list may show that Buddha has not yet
+been regarded as an Avatara. In the Vayu Purdna, mention is made of the ten incarnations
+of Visnu, of which the first three, Yajfia, Narasimha and Vamana are celestial, the rest
+being his human incarnations; they are Dattatreya, one unnamed, in the Tretéyuga simply
+called the fifth, Jimadagnya Rama, DasarathiI Rama, Vedavyasa, Vasudeva-Krsna and
+Kalki, the future incarnation. Here also the Buddha is conspicious by his absence, and a few
+other constituents of the stereotyped list of three- Matsya, Karma and Varaha are replaced
+by Yajna, Dattatreya and Vedavyasa........”
+
+The following tabulation shall provide a comparative picture of the number of avatdras
+as contained in different texts:—
+
+Mahabharata VayaPurdna Matsya Varaha Brahmanda Purana
+Narayanlya (Chapter-98) Purana Purana (Chapters 2.72:73-
+Section (Chapter-47) (Chapter-15) 126)
+Harhsa Yaja Dharma Matsya Narasimha
+(Partial)
+Ktrma Narasimha Narasimha Karma Vamana
+Matsya Vamana Vamana Varaha Varaha
+Narasimha Dattatreya Dattatreya Narasimha Karma
+Vamana Rama Parasurama § Parasurama Dattatreya
+(Jamadgnya)
+Rama Réma Rama Rama Rama
+(Bhargava) (Dasarathi) (Dasarathi) (Jamadagnya)
+Rama Vedavydsa Vedavyasa Krsna Rama
+(Dasarathi) Vasudeva
+
+Satvat Vasudeva Buddha undefined Vedavyasa
+
+## Page 22
+
+XXIV
+
+(Vasudeva or Krsna
+
+Baladeva)
+
+Kalki Kalki Kalki Kalki Krsna
+Dhanvantri Matsya Matsya Matsya Matsya
+Mohini Karma Hayagriva Kirma Kirma
+Narasimha Varaha Korma Varaha Varaha
+Vamana Narasimha Varaha Narasimha Hayagriva
+Kirma Vamana Narasimha Vamana Vamana
+Parasurama Parasurama Vamana Parasurama Narasimha
+Rama Rama Parasur4ma Rama Parasurama
+Krsna Krsna Rama Balarama Rama
+Samkarsana Buddha Vasudeva Krsna Kapila
+Buddha Kalki Buddha Buddha
+
+Kalki Kalki
+
+Dattatreya
+
+As to the number of the incarnations of Visnu, Gopinatha Rao has observed:—
+
+“Some Hindu authorities do not consider Buddha to be an avatara of Visnu and
+substitute in his place Balarama, the elder brother of Krsna, as an avatara.”
+
+But a comparative study of the above tabulation would reveal that there have been
+deviations in respects of the avataras, while some are omitted in one text the others are
+absent in the other lists. But ofcourse Buddha is found in a number of lists from various text
+describing the incarnations of Visnu. According to Hemadri, Harnsa is an addition and Krs
+na is an alternative of Balarama. In this connection D.N. Shukla has observed as follows:—
+
+“Thus the incarnations of Visnu are innumerable and those so far mentioned are only a
+few types. All these show philosophically the universal character of the god as all-
+pervading and all sustaining. These Avatdras are like rivulets flowing from one
+inexhaustible lake. Rsis, Manes, gods, sons of Manu-— Prajapatis are all his portions. Here is
+it enough to say about this great tradition of the Hindus, forming the very pillar of the high
+edifice of our religious life. The philosophical idea of incarnation is given in the oft-quoted
+verse— Yada yada hi dharmasya etc. Cosmologiclly if we take into consideration all these
+incarnations, we find that the first four are cosmogonic in nature. Manu says that in the
+beginning of the world, there was nothing but water. The fish was the first representative
+creature in the process of the evolution of the world. After water, mountains came out in the
+course of creation, and they are represented by the Ktrmavatara. The recovery of the land
+from the water as a next stage of evolution may be represented by the incarnation of
+
+## Page 23
+
+XXV
+
+Varaha. The Narasimha incarnation can also account for the animal and the man-kingdoms
+on earth. These varieties of the Dasdvataras again......... contains some sub-varieties also,
+e.g., Varahavatara in sculpture comprises three different conceptional types namely; Bhi-
+varaha or Adi-varaha, Yajfia-varaha, Pralaya-varaha. Similarly Narasimha avatara has also
+so many varieties. The sub-varieties of Krsna-Navanitanrtta, Venugopal, Goverdhana-
+dhara, Balakrsna etc. are a common property both of sculptors and painters.”
+
+Various texts describe the iconographical details of the Dasdvataras of Visnu, but the
+iconography of the images of these incarnations in the Agni Purdna is tabulated
+hereunder:—
+
+Incarnation Body Arms ___ Attributes and Remarks
+
+other details
+
+Matsya Resembling - -
+
+a Fish
+
+Kirma should Should be made to
+resemble look like the
+Tortoise. prototype of _ the
+
+animals from which
+its nomenclature is
+derived
+
+Varaha Composite Four Gada and other
+body with a arms weapons in his night
+boar's head arms; conch shell and
+fixed over a the goddess Laksmi
+human trunk. seated on lotus to be
+
+resting on the other left
+elbow.
+
+Narasimha Lion's head Four Gada, Cakra and the Daitya should be
+placed over a arms other two tearing the placed over the thighs
+human body belly of the demon. of the god.
+
+Vamana Human body Two Stick and an umbrella
+looking like a arms
+dwarf
+
+Parasurama Human body Two A bow, arrow and an
+
+arms axe.
+Rama Human body Two A bow and an arrow
+arms besides a sword and a
+conch-shell.
+
+Balarama/Krsna Human body Two Four or two arm or a
+
+arms conch-shell. A gada, or
+a plough.
+
+Buddha Human body, Two Should have Fair complexion,
+
+seated ona arms comparatively larger wearing a cloth
+
+lotus with ears and the calmness
+
+## Page 24
+
+XXVi
+
+petals turned should be made to
+upwards. reflect in his
+appearance.
+Kalki Human body, Not A bow and a quiver, a Should be mounted
+mounted on a defined $Sarmhkha, cakra, gad&é onahorse.
+horse. and padma
+
+Other lists also describe the iconography of the incarnations of Visnu and the account
+that follows, throws some light on each one of them.
+
+(1) Matsya
+
+While dealing individually with the ten incarnations of Visnu, it may be stated that
+according to most of the texts this incarnations comes first of all and accounts of
+Matsyavatara are found in the Agni, Bhagavata and several other texts. The texts in general
+prescribe that the representation in art of Matsydvatdra should resemble a fish:—
+
+‘Teaaentat ta Ua TeaeTaA|’
+The Mahabharata (Vanaparva 12.297 ff) also describes it and Matsydvatara is also a
+subject of discussion with the author of the Agni Purdna of the initial four of the ten
+
+incarnations of Visnu which are of cosmogenic nature, Matsydvatdra comes first as
+representing the acquitic animal.
+
+The Bhdgavata Purdna describes that after having been addressed by Visnurata the
+divine Badrayana related the deeds of Visnu achieved by him in his fish incarnation. At the
+end of the past kalpa there was a practical dissolution of the universe in which the earth and
+other worlds were submerged in the ocean. Then the powerful Raksasa named Hayagriva
+took away the Vedas from the mouth of the creator, who from the drowsiness, which had
+came on through the lapse of time, had became disposed to go to sleep. On discovering this
+deed of Hayagriva, the chief of the Danavas, the divine lord Hari, took to the form of a
+Saphari fish and recovered the Vedas.
+
+Though the Puranas in general agree about the number of the incarnations to be ten, but
+the Bhdgavata Purdna and other texts speak out differently on the subject, as would be
+evident from the following facts:—
+
+Avataras in the Bhagavata Purana
+
+The Bhdgavata Purdna enumerates the avataras thrice, in the first recounting (1.2.6-
+22), the number is twenty-two; in the second (11.7.1 ff) the number mentioned is twenty
+three and in the third list (X1.4.3 ff) the number of avatdras mentioned is sixteen. The
+names, common in these lists are as follows:—
+
+(1) Purusa, (ii) Varaha, (111) Narada, (iv) Nara and Narayana, (v) Kapila, (vi) Dattatreya,
+(vii) Yajfia, (viil) Rsabha, (ix) Prthu, (x) Matsya, (xi) Karma, (xii) Dhanvantri, (xi)
+Mohini, (xiv) Narasimha, (xv) Vamana, (xvi) Bhargava Rama, (xvi1) Vedavyasa, (xviil)
+Dasarathi Rama, (xix) Balarima, (xx) Krsna, (xxi) Buddha, (xxii) Kalki.
+
+## Page 25
+
+XXVil
+
+This enumeration includes the names of all the usual ten in the steriotyped list, but the
+Purdnakéra emphasises that the divine descents are innumerable (avatdrah
+hyasamkhyeyah). The difference of this list from the other two is tmmaterial; the last
+omitting some included in the first list, but none of them omits Rsabha (Adinatha or
+Rsabhanatha, the first Tirthankara of Jainas and Buddhists). The Vardha and Agni Purdnas
+contain the steriotyped list of ten incarnations while the Matsya Purdna lays down that
+Visnu was born seven times among the men because he was cursed by Bhrgu for killing his
+wife, the mother of Sukra. These are (1) Dattdtreya, (ii) Mandhata, (iii) Jamdagnya
+(Parasurama), (iv) Rama Dasarathi (v) Vedavydsa, (vi) Buddha and (vii) Kalki, by adding
+three others, those of Narayana, Ktirma and Varaha (probably meant to be the celestial
+ones), the number of ten is made up, though this list of Dasavatara widely differs from the
+usually accepted ones, as many as four here, Dattatreya, Mandhata, Vedavydsa and
+Narayana are the substitutes of Matsya, Kirma, Varaha and Balarama (or rarely Krsna) of
+the usual list.
+
+The evidence of the early and late Pancardtra Samhitds also refers to the incarnations of
+Visnu. The Satvat Samhita, one of the earliest in the series enumerates as many as thirty-
+nine incarnatory forms of Visnu. This list is copied verbatim in the Abhirbudhnya Samhita
+which belongs to subsequent period.
+
+(1) Padmandbha, (2) Dhruva, (3) Ananta, (4) Saktyatmana, (5) Madhusiidana, (6)
+Kapila, (7) Vidyadhideva, (8)VisSvaripa, (9) Vihangama, (10) Krodatman, (11)
+Badavavaktra, (12) Dharma, (13) Vagisvara, (14) Ekarnavasayin, (15) Kamathesvara, (16)
+Variha, (17) Narasimha, (18) Piyisahatana, (19) Sripati, (20) Kantataman, (21) Rahujita,
+(22) Kalanemighna, (23) Parijatahara,, (24) Lokanatha, (25) Santamna, (26) Dattatreya,
+(27) Nyagrohasayin, (28) Ekasrngatanu, (29) Vamanadeha, (30) Trivikrama, (31), Nara,
+| (32) Narayana, (33) Hari, (34) Krsna , (35) Parasurama, (36) Rama Dhanurudhara, (37)
+Vedavida, (38) Kalki, (39) Patalasayana.
+
+Matsyavatara destroyed by Siva
+
+This form of the deity is not available in the texts, but in the Ekambaresvara temple at
+Kanchi, Siva stands depicted as a mythological bird swallowing the Matsydavatara of four-
+armed Visnu having the human bust with lower part of a fish. The bird has four arms, two
+legs and a composite body, partly of a bird and partly human. The bust except the neck is
+human with four arms. The right hand carries an avikusa and an indistinct object, while one
+of the left hands holds an antelope and the other one projects varada-mudrd. The legs
+resemble those of a bird. The neck and the head too are like those of a bird; in the beak the
+Matsydavatara is held.
+
+The Matsyavatara on the other hand wears a Kirifa-mukuta and holds a club in his right
+hand. The fish part of the deity is slightly curved. A human devotee with hands folded
+against the chest stands to the left.
+
+poet UY
+
+— ee
+
+Oo nH On VY
+
+## Page 26
+
+XXViii
+
+The Matsydvatdra has been found represented in composite as well as the fish form.
+According to the Visnudharmottara, the image of the fish incarnation is to be made in the
+form of a fish, with a horn. The Mahabharata also describes the same legend in which the
+fish is described as ‘Srngi’, having a horn. Here he is considered to be more a form of
+Prajapati rather them Visnu.
+
+The fish incarnation found representation in the Indian art individually as well as in the
+Dasavatéra panels. A stone pillar from Sarnath depicts the Fish-god with two tails. The
+upper part of the figure is human, while the lower part is that of a fish. Another
+representation of the similar type is engraved on the belt of a human figure from Mathura.
+R.D. Banerjea has referred to an uncommon variety of the image of Matsya from
+Bajrayogini in Bengal. In this case, the bust of four armed Visnu issues from the fish
+enthroned on lotus. The god holds tn his four arms, the usual attributes viz., a mace, a
+conch, a disc, while the mutilated lower nght hand could be holding a lotus. The main
+figure is flanked by Laksmi and Sarasvati, each perched over small lotus springing from the
+main lotus stalk; on the pedestal, there is a small figure of Garuda, and a devotee flanks the
+main figure on either side. The representations of Matsyavatara of Visnu are found in the
+Dasavatara panels, but no individual shrine exclusively dedicated to this form of Visnu has
+come to light so far, indicating his subsidiary character. The specimens described above are
+mostly from the outer walls of temples. The incarnation of Visnu in the form of Matsya in
+the company of his consort Laksmi, is carved on a big boulder on a hillock at Kothagattu
+lying south of Karimganj in Andhra Pradesh. The shrine on hillock 1s known as Matsyagiri
+Svami temple. A big fish of 8 feet length in black granite is lying in the corridor of the
+temple at KalesSvaram. (Ramaiah, J., Temple of South India, p.186).
+
+A beautiful figure of Fish in stone comes from Kari Talai temple complex, dates back to
+the eleventh century A.D. This sculpture is carved exceedingly well in a most naturalistic
+manner. It is partly damaged but still the execution of the fish is commendable. Another |
+image of Fish incarnation of Visnu, comes from Himachal Pradesh. Here the Fish is also
+shown in quite a natural way surrounded by vartous deities.
+
+A painted jewellery box from Kangra, displays the ten incarnations of Visnu in a most
+lively manner. In these the Fish incarnation is also included. Four-armed Visnu here
+emerges from the fish in the ocean and is attacking the demon Hayagriva. The ocean is
+painted in silver grey colour. The demon is lying before him in the water and is holding
+back shield and a sword, while Visnu holds his usual attributes of samkha, cakra, gada and
+padma. Four devotees are shown against the yellow background paying tribute to the lord
+with folded hands.
+
+The story of Ekaérvava doctrine has been the subject matter of discussion not only in
+India but also in the foreign lands. In India, it is connected with the fish incarnation of
+Visnu.
+
+## Page 27
+
+XXxIX
+
+The Description of each incarnation
+
+Fish incarnation
+
+The Matsya Purana describes the fish incarnation of Visnu in the first Chapter,
+according to which, a certain king named Manu, leaving his kingdom went out to Malaya
+country to perform penances and there obtained a boon from Brahma that he should be able
+to protect all the creatures at the time of dissolution. The boon was granted and then the
+king one day at the time of offering oblation to Pitrs noticed a small fish in the palm of his
+hand. He put it in water pot which the fish fully occupied by waxing during the course of
+the day. Then the king threw it into a jar and the same thing happened again. The fish was
+then thrown into a well and then it could not be contained there and was thrown into a
+pond, after which into a river and finally the fish was consigned into the ocean. When the
+piscine form filled the whole ocean by its giant size, the king became perplexed and asked
+the fish of its true identity, saying, “Are you the lord of asuras or god Narayana himself.
+How can any one else behave like this? O, I have know the truth; you are certainly lord Vis
+nu, the cosmic deity in the form of fish.” The Fish replied, “Verily, O king, you have
+known the truth. Soon the earth will be submerged into the water. Look here at this boat
+which all the hosts all the Devas have improvised for the protection of living beings; place
+them on the ship and when the same is rocked by the furious winds of dissolution, then
+fasten it to my horn or cranial protuberance. When the storm is over, you will have saved
+the creatures and then the crowned as Prajapati of the universe.”
+
+Manu further asked as to how such a state of things would take place and was told that
+for hundreds of years there would be a severe famine and the solar disc also would emit
+such intense heat as would reduce everything on earth to ashes. The sea would emit the fury
+of its submarine fire and the nether world would throw up poisonous fumes from the
+thousand mouths of the cosmic serpent so that the three worlds, the sky, the gods and the
+stars would all the consumed. Then would appear the clouds which are produced at the end
+to time. They are of seven kinds viz., Samvarta , Bhimanada, Drona, Canda, Baldahaka,
+Vidvatapatakad and Sona. There would be condensation is all space and even the oceans
+transcend their limits creating a condition of watery flood technically called Ekarnava:—
+
+Wala we aheat WT TIT
+(Matsya Purana 2.10)
+
+The king was also told that the boat which would come to him was the ship of the Vedas
+(Vedanavam), that he should stock there seeds of all living creatures (Sattva-bijani), that he
+should pilot the boat by a rope to be supplied by the divine Fish and tie it to its horn to be
+protected by the glory of the divine creature. Things happened as was predicated and all the
+assurances given were fulfilled. The rope was the cosmic serpent and the Fish to whose
+horn the boat was enchored in the midst of watery floods was the divine creator himself.
+
+There are several symbolical terms which have been duly interpreted by V.S. Agrawala.
+(Matsya Purdna- A Study, pp.4-5) The first question is about the real nature of Matsya or
+
+## Page 28
+
+XXX
+
+the Fish. The fish is the symbol of Egg. The Cosmos is the Egg of Brahma (Brahmdnda).
+Here Brahma himself is the fish, and therefore the Brahmanda is the same as Matsy4nda.
+Somewhere in the golden egg produced by Brahma is a spec of life-principle which
+recreates and perpetuates consciousness on life or vitality from one aeon to another and the
+same process continues through successive ages of the universe during immeasurable units
+of time.
+
+The Vedic doctrine of Hiranyagarbha is here completely repeated in the story of Fish
+incarnation or Matsyavatara. The Fish is an appropriate symbol of the principle of egg; it is
+borne out of the scientific knowledge of the present day. The class is the largest of all the
+vertebrate classes including some 20,000 species. Within it is found a great diversity of
+structure than any other class of vertebrates. Fishes live under a great variety of conditions,
+at the surface of sea, in mid water, at bottom or buried in sand or mud. Their greatest
+quality is found in their capacity to produce eggs. Most of the important northern food-
+fishes produce a great number of eggs that float'in the sea, and in some species a single fish
+sheds millions of eggs annually (Encyclopaedia Britanica 14th edition, vol. IX, p.309).
+Moreover there is a resemblance between developing child in the womb called the foetus
+which is suspended by umbilical cord and floats freely in the amniotic fluid as the fish in
+water. The embryo assumes at a certain stage a cylindrical form, one end of the hollow tube
+thus formed is enlarged to form the head and neck; the other, the tail end, becomes curved
+forward and tapers to a point. Not only the tai! but also the circulation from the heart and
+blood vessels at first resembles that of a fish. It should not be presumed that the
+microscopic details had been observed by ancient writers, but there is no doubt that within
+their comprehension was rooted the belief that the fish was the most dominant symbol of an
+oviparous (Andaja) vertebrate producing a life-germ. Although human beings have
+developed to a placental stage (Jarayuja) still both belong to a common ancestory extending
+over geological times.
+
+The Fish incarnation of Visnu is directly connected with the deluge or the Flood waters.
+These deluge stories are commonly found in several countries of the world. The old answer
+about the flood myth was that such a catastrophs which overwhelmed the world actually
+occurred and many legends of the great flood which are so widely scattered among the
+mankind, embody more or less different versions of the same as would be evident from the
+following tabulation:—
+
+Motif Indian Sources Foreign and Other Parallels
+(1) Hero surviving with a Greece, Iceland, Greenland, Anals of
+woman. Assam, Lepchas of Sikkim, Entagno
+
+Islanders or Indonesia, Bataks of
+Sumatra, Benuajakam of Malaya
+
+Peninisula.
+
+## Page 29
+
+(ii)
+
+(iii)
+
+(Iv)
+
+(v)
+
+(vi)
+
+(vii)
+
+(viii)
+
+(1x)
+
+(x)
+
+(x1)
+
+Male or — Female
+surviving alone,
+counterpart appearing
+later.
+
+Incestuous Relations
+for re-creation
+
+Survival of a number
+of persons 1n pairs
+
+Survival of a Hero,
+couple of a group with
+several other things for
+recreation, e.g., seeds
+of every sort, various
+animals, birds, etc. in
+pairs.
+
+Flood warming given
+by animals or divine
+being in the form of an
+animal.
+
+Flood warning viven
+by Human hero
+
+Flood warning given
+by divine being
+
+Escape through an Ark,
+boat or Canoe
+
+Mountain of
+Deliverance
+Sacrifice of Thanks
+
+giving
+
+S.B.
+
+S.B.
+
+Mahabharata and
+Puranas
+
+Mahabharata and
+Puranas
+
+S.B., Mahabharata
+and Puranas
+
+S.B., Mahabharata
+and Puranas
+
+S.B., Mahabharata
+and Puranas
+
+S.B., Mahabharata
+
+and Puranas
+
+Pelew Islanders of Micronesia, Engano
+Islanders of Indonesia.
+
+Bhils of central India; Amis of
+Formosa and Chriguanos of Bolivia in
+South America.
+
+Babylonia, Egypt, Hebrew, Alfors of
+Ceram Islands (between Celebese and
+New Guinea); Tarahumares of Mexico,
+Indians of Brazil.
+
+Persia, Hebrew, Welsh, Bahnars of
+Cochin, China, New Guinea,
+Melanesians of New _ Hebrides,
+Michoacans of Mexico.
+
+Greece, Bhils of Central India,
+Papagos, Pimas and Charokee Indians
+of North America (Coyote, Eagle,
+Dog).
+
+Greece (father); Tinneh Indians of
+North America.
+
+Sumer, Babylonia, Hebrew, Persia,
+Huichol Indians of Mexico,
+Montagnais of Hudson Bay Territory.
+
+Greece, Egypt, Babylonia, Hebrew,
+Finnish, Welsch, Iceland, Singaphos of
+Burma, Benua-Jakun of Malaya
+Peninsula, Kanchadales in East Asta:
+Borneo, Figi, Newzealand, Australia,
+North and South American Indian
+tribes.
+
+Greece, Babylonia, Hebrew, Some
+tribes of North and South America.
+
+Greece, Babylonia, Hebrew.
+
+## Page 30
+
+XXXil
+
+(xii) Sin and wickedness as Mahabharata Greece, Rome, Egypt, Jews, Babylonia,
+the cause of flood (Kaliyuga ends Mexicans, North and South Indian
+
+with Deluge) tribes.
+
+(xiii) Excessive rain as S.B., Mahabharata Greece, Babylonia, Hebrew, Finnish,
+source of water. and Puranas Singhphos of upper Burma, [bans of
+Sarawak in Indonesia, Figi, Malaysia,
+
+Tribes of North and South America.
+
+(xiv) Rising sea as_ the Bahanirs of Cochin, China, Indonesian
+source of flood Islands, aboriginals of Australia,
+
+Eskimas in North America.
+
+Besides the above, it will be of interest to note as to what the Muslim historians speak
+about the incarnation of fish in the Hindu Pantheon. In this connection a passage from Aine-
+Akabari compiled by Abul Fazal during the time of Akbar, in the sixteenth century A.D. 1s
+reproduced here under:—
+
+“The deity was herein manifested under the form of a fish. They say that in the Dravida
+country at the extremity of the Dekhan in the city of Bhadravati, during the Satya Yuga, on
+the eleventh lunar day of the month of Phalguna (Feb.-March), Raja Manu, having
+withdrawn himself from all worldly concerns, and being then ten thousand years of age,
+lived in the practice of great austerities. He was performing his oblation on the banks of the
+river Krtamala, when a fish came into his hands and said— “Preserve me’, it remained in his
+hands for a day and night and as it increased in size, he put it into a cup, and when it grew
+larger, he placed it in pitcher. When the latter could not contain it, he put it into a well and
+hence transferred it into a lake and afterwards to the Ganga. As the Ganga could not hold it,
+he placed it in the ocean and when filled the ocean, the Raja recognised the origin of the
+miracle and worshipped it and prayed for a revelation. He heard the following answer. “I
+am the Supreme Being. I have assumed the form of this creature for the salvation and a few
+of the elect. After seven days the world will be destroyed and flood shall cover the earth.
+Get thou into an ark with a few of righteous together with the divine book, medicinal plants
+and fasten the ark to this horn which cometh out of me.” The deluge continued for one
+million, seven hundred and twenty eight thousand years after which it subsided. (This story
+slighty differs from the one available in the Mahabharata, the Matsya and other Puranic
+texts.)
+
+The Matsya Purdna also mentions about the sun worship and the building of a sun
+temple at Multan (Mulasthan) in Pakistan, with Iranian connection is widely known. In this
+connection it may be stated that the Mathura Museum, exhibit No. 894, belonging to the Ist
+century A.D. shows the Sun-god holding a dagger and wearing boots, long coat and
+trousers. Such motifs persist upto Gupta period in Mathura region. An image of Siirya from
+the same Museum, has a flaming halo, holds a staff and sword in its left head and a lotus
+bud with stalk in the right. The much damaged torso and head of an image of probably the
+Sun-god in the same Museum (No. D-1), has a remarkable circular halo. The face is
+
+## Page 31
+
+XXxiil
+
+considerably injured. He wears a hamlet fastened under the chin by means of a strap. Long
+curly locks falling down on both the shoulders. Wears thin moustaches (?) and is clad in
+Cuirass over which there is a very elaborate necklace. A scarf thrown over both the
+shoulders is fastened in a knot on the left breast. A double card girdle is tied round the loins
+and fastened in front.
+
+According to V.S. Agrawala, there is another example which reflects the intercourse
+with Iranians, thus:
+
+“Another example which reflects the intercourse with the Parsaika (Persians) is an
+imprtant bust which wears fizzled bushy hair, a bearded chin, knotted scari and a cuirass.
+The bearded head reminds us of the description of Persians given by Kalidasa in his
+Raghuvamsa, where the bearded heads of Persians are compared to the bee-hives carved
+with black laces:
+
+Toomer fratia: payer
+TRATT ALITTA: HAR Teeter: 1
+
+“Another marked Sassanian feature on this image 1s the Sun and the moon symbol on
+the Kulah cap.”
+
+Now the question arises, as to why this intercourse with the solar sect of Iran took place.
+Though India had normal trade and diplomatic relations with many countries of the world,
+but the follower of the Sun-Culi in Iran seem to be men of great significance and
+importance; and probably had some special features of their own. The Sun-worship was in
+vogue in India, ever since the dawn of civilzation, but in Iran, the Maga Brahmanas had
+developed some aspects of the cult practices which were possibly unknown to the
+contemporary priest-hood in India. That is why it became necessary to import the trained
+Maga priests from Iran to India, the evidence of which is provided by the Sdmba Purdna in
+the context of the episode of Samba, the Son of Krsna from Jambavati, who was inflicted
+with leprosy due to a curse. Though it has not been possible to categorically state that the
+Iranian Sun-cult was more emphatic on the healing power of the Sun, (which aspect is also
+brought out in the literary evidence) which necessitated the import of the qualified priests
+from Iran to rid Samba of the heinous disease, and of which he was ultimately cured: these
+imported priests were lodged in the Sun temple at Multan, as per the evidence of the
+Matsya Purana-
+
+Toa Tava Sea Tah
+ware fraft raed wearer esi
+Matsya Purana, 175.49
+
+The glimpses of other prominent episodes relating to the different gods are presented
+herunder quite briefly:—
+
+(1) Brahma
+(a) It has been stated in verse 7 of Chapter-167 Matsya Purdna that the Satvik
+
+## Page 32
+
+XXXIV
+
+Brahmanas who perform and direct the performance of sacrifice were born of Visnu. He
+created Brahma, Sdmagd, Hotd, and Adhvaryu.
+
+(b) The Chapter-168 of Matsya Purdna, states that the lord, selects out of the Jivas on
+the earth, a person for the position of Brahma for the creation of cosmos after the expiry of
+one thousand Mahayugas, (Each Mahayuga comprises of four yugas). The one who is a
+pure soul, endowed with the power of asceticism and the highest knowledge with the yogic
+powers and equipped with all the excellences, who 1s established in his self and is purified
+by many births is made a Brahma. In that great ocean, the great place of pilgrimage, the
+infallible Hari, the creator of the worlds plays for some time and brings forth out of his
+navel, a wonderful lotus of a thousand petals shining like the sun. The beautiful lotus
+looking like the hair of the high soul was brilliant like fire and bright like the sun. Then Vis
+nu out of the golden lotus begot Brahma, the creator of the universe. The lotus was many
+yojanas wide endowed with the qualities of earth, full of gunas and all the lustre of the
+golden colour.
+
+(c) In earlier times Brahma had five heads. Siva cut off his fifth head with the nail of his
+left toe. Then Brahma said— “You have cut off my head for no fault of mine therefore you
+shall keep on wandering in the sacred places. Hearing the curse Siva went to Himalaya and
+begged alms from Narayana, in the skull of Brahma which was stuck up with his arm. Lord
+Narayana cut off his finger nail and blood rushed out of it, but the skull could not be filled.
+Thereafter the stream of blood flowed for a thousand years. Then lord Visnu said to Siva—
+“How was this skull brought into existence, you tell me?” Lord Siva replied— “In ancient
+time Brahma was endowed with a divine form and after thousands of years, because of his
+tapas, fifth head appeared on his body which was shining like the gold. I cut it off in anger
+and now it follows like Brahmahatya.” Lord Narayana said— you go back and please
+Brahma and the skull will be removed from your body.” On hearing this I went to all the
+sacred places, but the skull did not depart. The moment he reached the AvnimuKta tirtha the
+skull left him for good. This episode is described in various other Puranas differently,
+where the skull is said to have disappeared at Kapalamocana-tirtha at Varanasi.
+
+(1) Visnu
+
+Lord Visnu is conceived in Matsya Purdna as the imperishable Brahma— Isvara.
+Brahman in the neuter form is abstract supreme spirit and Isvara is the deity in his active
+nature. He is the one who is able to do or leave undone, or do anything in any other manner
+than in which it is done. He having three qualities is the cause of creation, preservation and
+destruction; the parent intellect, nature and the other ingredients of the universe besides
+being the source of the final emanciation. There is a school of thought that Visnu is partly
+Aryan, a form of the sun god and partly atleast, the deity is of Dravidian affinity, as a sky
+god whose colour was the blue sky and the middle Indo Aryan or Prakrt form of Visnu,
+
+which was inhu or vehhu (Srinivas Iynger, P.T., Life in Ancient India is the Age of Mantras,
+p. 125.)
+
+## Page 33
+
+XXXV
+
+Indeed Visnu is a mild and benevolent deity who offers salvation through, personal
+devotion rather than the practice of rituals. Though the deity has its origin in the Vedic
+literature, still in the later vedic texts, his personality was deified into an entirely different
+deity, adding two or more arms to the existing one, making him four armed, or eight armed
+and ending in his having a thousand arms and heads. He indeed is the preserver of the
+world. According to Hindu ideology, at the end of the Kalpa, the universe is destroyed.
+Brahma is then reborn of Visnu and recreates the universe. In each one of these great
+cycles, in which is has rescued the cosmos, Visnu appeared in a different form. Among the
+popular subjects of Hindu art, are the representations of Visnu, in the form of Matsya—
+when he rescued the seven sages and others; then the form of Kirma, when he as
+instrumental in the churning of the ocean and without him the event could never take place.
+In the form of Boar, however, he rescued the earth from the depths of the oceanic water.
+
+Of several other subjects, Matsya Purdna also variously deals Visnu, occasionally
+besides his incarnations, a bird eye view of which is given here under:—
+
+(a) Matsya is the first of the ten incarnations of Visnu and the episode of his protecting
+the seven Rsis as well as the king Manu has been detalied already.
+
+(b) Karma
+
+In the Matsya Purdna too like other texts Karma performed a privatol role in the
+churning of the ocean and it was he who served as the base for the Mandaracala, which was
+used as a churning rod by the gods and the demons. Because without the base for the
+churning rod, there could be no churning of the ocean at all. Accordingly fourteen gems are
+said to have emerged out of the churning of the oecan:—
+
+TAT: BTS GUAT THe:
+sy: aay: fas shay watsyd urge
+Tart Uday Mates San Aer USAT
+
+Thus these were the gems emerging from the ocean as a result of the churning of the
+same. Thus as Karma, Visnu performed his job well.
+
+(c) Mohini
+
+In Chapter-251 of the Matsya Purdna, the incarnation of Visnu as Mohini is mentioned.
+The fascinated demons placed the nectar pot over the hands of Visnu, who being deluded,
+placed the nectar pot over the hands of Visnu, who being deluded, placed the pitcher of
+nectar into the hands of the lord and then ran towards the gods to fight with them holding
+various arms. In the meantime the lord, most ingeniously, brought the pot of the nectar
+before the gods and the demons and the gods started drinking the same. The demon Rahu,
+assumed the form of a god and seated himself along the gods and was about to drink the
+nectar. The sun and the moon drew the attention of the gods for their own benefit. When the
+nectar had gone into the neck of Rahu, Visnu severed his head with his Cakra. The severed
+
+## Page 34
+
+XXXVI
+
+head of Rahu fell down on earth shaking it, but remained alive and became immortal. It was
+known as Rahu. Thus he became the enemy of the sun and the moon and 1s said to torture
+them both during the solar and lunar eclipses. —
+
+(d) Vardha -
+
+Varaha-— the third incarnation of Visnu has been popular in the Brahmanical panthern
+from the remote past. It is not possible to give any specific date from which Varaha— the
+boar became popular in ancient India and when he penetrated into the religious or sacred
+annals. This would be evidenced from the fact that in the Reveda (1.6.1.7 and 8.77.10)
+mention is made of a myth in which Visnu is said to have carried away a hundred buffalos
+and cooked rice milk which were guarded by Emusa— the boar. This boar has been regarded
+as a fugitive designation of vrtra. In the same text a casual reference to Rudra as the boar of
+the sky (1.114.5) could leads one to believe that there existed an Indian counterpart of the
+German wodan with the boar. Yet this animal in some way or the other, is also associated
+with Brahmanaspati, Soma and other gods in the Rgveda (9.97.7 and 10.67.7). The
+Mahdvardhacarita has been described in Chapter 247-248 of the Matsya Purdna.
+
+According to V.S. Agrawala, the theme of Varaha is closely associated with the history
+of the country more so during the Gutpa period. He feels that Candragupta Virkramaditya
+was one of the great Gupta rulers, who annihilating the vestiges of foreign rule also
+extended the limits of his empire up to the ocean on the east, the sea on the west by his
+conquest of Vanga and Aparanta respectively. His gigantic programme of acquiring
+territory includes direct conquest of north-west up to Balhika or Bactria on the Oxus. He
+had a system of peaceful alliance with kings of south (referred to as by Kalidasa in
+Raghuvarhsa,7) i.e. restoration of their autonomy or sovereignty, which had been disturbed
+by Samadrugupta and by this his fame perfumed the waters of the south sea (Mehrauli
+Pillar Inscription of Chanda).
+
+Besides the symbolical and philosophical aspects, the Purdnas point to the sanctity of
+the episode of the rescue of the earth by Varadha. They testify to the actual place on which
+the Varaha emerged with earth. The Varha Purdna (Ch. 140.4) describes it to be a sacred
+place just where Koka emerged. This seems to be the location of Kokamukhasvamin. Infact
+the actual name of Kokamukha appears in the same Purdna. In Chapter 122, verses 19-22,
+the Varaha form of Visnu testifies to the rescue of Prthvi from the deep ocean. As to the
+place where the Varaha form of Visnu first appeared, it may be pointed out that the same
+text (140.24) testifies Visnusaras as the place where Varaha pulled out the earth with the
+stroke of the tusk. Cunningham believes Vardha-ksetra in basti district of Uttar Pradesh as
+it is the place where Varaha appeared with the earth.
+
+Varaha form of Visnu has also been known with the following epithets:—
+
+(i) Ekasrnga (Mahabharata, 13.149.70). Since the Varaha had a single tusk, he was
+called Ekasrnga.
+
+## Page 35
+
+XXXVii
+
+(ii) Mahasrnga (Mahabharata, 3.142.45) The one having a huge tusk.
+
+(iii) Nrvaraha:— The one who has the composite form of a man and a boar.
+
+(iv) Adivaraha:— The one who appeared to rescue the Earth from primeval waters.
+(v) Bhitvaraha:— The one who rescued the Earth from deep sea waters.
+
+(vi) Yajnavaraha:— The real meaning of the Varaha conception as applied to Yajna is its
+significance as a symbol of Vedic cosmogony.
+
+(e) Vamana:—
+
+The episode of the proceeding of lord Visnu in the form of Vamana has been contained
+in Chapter 244-246 of the Matsva Purdna. As Vamana's treads the whole earth shakes and
+Bali asks his preceptor Sukracdrya the cause of the shaking of the earth and why the fires
+do not accept the offerings of the asuras. He replied smilingly— “In Kasyapa's house, Visnu
+has taken birth. He will come to your sacrifice. The earth quakes at his strides, unable to
+bear his great weight. On his approach, the fire, refuse your offerings.” At this Bali felt
+delighted and asked his preceptor as to how the lord should be received and entertained.”
+Sukracarya said— “The lord arrives in the sattva quality, to preserve creation and to crush
+you. Beware of making any promises to him inspite of their being quite petty. Just say J am
+unable to give you anything.” Bali replied— “How can I refuse the lord anything when he
+directly makes a request. I shall not say no to him. Please do not stand in the way of my
+charity. You know, I am his devotee and he will never kill me. Of course he come in the
+form of a dwarf.” Bali was greatly delighted. On the arrival of Vamana, Bali picked the
+argha and said to the lord, I shall give you anything you like.”
+
+At this, the lord said— “O king give me three feet of earth for the worship of fire by me.”
+Bali gives him three feet of land. As the consecrating water falls on the hand of Vamana, he
+appears in his true form. Then assigning the three worlds to Indra and bestowing many
+boons to Bali, established him on his throne.
+
+(f) Narasimha
+
+(Chapter 161-163, Matsya Purdna) The episode about the lord has been stated in this
+Purana, according to which, once the gods under the leadership of Brahma approached lord
+Visnu with a prayer to deliver thern from the atrocities of Hiranyakasipu. Visnu comforted
+them, promising them to kill Hiranyakasipu. Then Visnu took to the form of a man-lion and
+went to the kingdom of Hiranyakasipu, who enjoyed all the worldly pleasure. His son
+Prahalada, who was against his father's way of life as a demon and was a great devotee of
+lord Visnu, described to his father about Visnu as the lord of the universe. Hearing that, the
+demon king commanded the Daityas to captive Narasirhha. All the demons therefore struck
+the lion variously with several types of weapons. Then in a moment Narasimha frightened
+al the demons. Still they made a fruitless effort of kill Narasirhha together with
+
+## Page 36
+
+XXXVill
+
+Hiranyakasipu. Suddenly Narasirmnha captured Hiranyakasipu, placed him over his thighs
+and tore him apart with his sharp nails. Then the man-lion was praised by Brahma and
+others. Narasimha as described is the fourth incarnation of Visnu.
+
+(iv) Siva:
+
+Lord Siva has been factually conceived on the one hand as the loftiest and the most
+transcendental of all the gods, dwelling in inaccessible heights of spiritual perfection and
+on the other hand, as the most liberal and popular of all the gods, easily approachable by
+men, women and children of all classes, castes, and races. He is called Asutosa or the one
+who gets easily pleased. He is not inaccessible to any one, however low he may be. The
+worship of Siva does not require any elaborate rituals or valuable articles for offerings. He
+is above all desires, likes and dislikes, besides the senses of worldly values. He is prepared
+to drink the poison produced by the vicious and indiscreet actions of people and to save
+them from distress and death, whenever they take refuge in him. He is self-absorbed, as
+well as an all-absorbing, all assimilating and all-unifying force. “He is spoken of as the one
+dwelling in cremation ground (smasana-— the abode of the dead), the region where all
+worldly differences vanish, where all diversities are reduced to unity, where all that in
+impermanent disappears any only the eternal and permanent remains. It is a place where all
+creatures ultimately must take refuge. Siva waits there to receive all into his loving arm and
+to bestow on them immortality and bliss.” This is the Saivite concept of the Supreme Deity
+and the Saivite ideal of spiritual life. According to this viewpoint, one who transcends all
+worldly limitations and attains spiritual perfection, becomes one with all in love and
+compassion and transcendental experience.
+
+Saivism had certain ideals which were alien to the Vedic society. For example, the
+Vedic ideology believed in the classification of the people into four-fold divisions (Varnas)
+according to their distinctive characteristics and capabilities. Saivism on the other hand
+disregarded all such barriers and treated ail as equals entitled to attain the highest spiritual
+good. Saivism extended identical treatment to the Aryan and the non-Aryan alike, which
+was not acceptable to the early Vedic society. Thus there was ample ground for Vedic
+society to disdain the ideals of Siva cult. The early attempts of the seers of both the school-
+Vedic and Saiva, at reconciliation between the two, could hardly produce any produce any
+positive results. The later Vedic literature as well as the Pauranic tradition kept up the
+memory of the early history and referred to many anecdotes connected therewith.
+
+He is the lord who has been mentioned not only in almost all the prominent Sakta or
+Saiva Puranas, but is also held in high esteem in the Vaisnava Puranas. In the Matsya
+Purdna, however, the following events of his life have been eloquently discussed:—
+
+(a) Destruction of Daksa's sacrifice (Chapter- 13)
+(b) Kalling of Tripura (Chapter-129,140,183)
+
+## Page 37
+
+XXXiX
+
+(c) Marriage of Siva and Parvati (Chapter-154)
+(d) Birth of Karttikeya in the reed forest (Chapter- 146-158)
+(e) Birth of Ganesa (Chapter-154)
+
+(f) Quarrel between Siva and Parvati, who goes for performing tapas to become Gauri,
+Mutual curse of Siva-Parvati, (Chapter-155)
+
+(¢) Killing of Taraka by Karttikeya. (Chapter-160)
+(h) Killing of Andhaka (Chapter-179)
+
+Besides the gods, the important stories about rulers of the past have also been included
+in this Purana:—
+
+(1) Story of Kartvirya Arjuna. (Chapter-44)
+
+(ii) Description of the Syamantaka gem and acceptance of Satyabhama as wife by Krs
+na. (Chapter-47)
+
+(iii) The story of Satyavan and Savitri (Chapter-209-214)
+(iv) Story of Yayati, Devayani and Sarmistha (Chapter-3 1-37)
+(v) Story of Kaca and Devayani.
+
+In Chapters 25-30 of the Matsya Purdna, there is the well known story of Kaca, the son
+of Brhaspati to receive the knowledge of elixir of life from Sukracarya, the priest of the
+Daityas. Inspite of Kaca being the son of the priest of the gods, he was welcomed by
+Sukracarya with open arms, and not only did he impart him the full Safijivini lore, he also
+saved him from the wrath of the Daityas a number of times, and who did not look kindly to
+Sukra's providing training to him out of the spite for Kaca, and in order to save themselves
+the demons killed Kaca who has grazing the cows and threw his dead body to the wolves
+and jackals to eat it up. At the instance of Devayani, Sukra brought him back to life. Kaca
+told his preceptor that he was killed by the demons. He was killed the second time when he
+was collecting flowers. This time the demons burnt him alive and the ashes of his body
+were mixed with wine and they made Sukra to drink the same. This time Sukra finding him
+in his own body imported knowledge of Safijivini to Kaca and asked him to bring him back
+to life after emerging from his belly. Kaca did as desired by his preceptor. Devayani, the
+daughter of Sukra when wanted to marry Kaca, ne refused to oblige her on the grounds that
+he had been in the same belly in which she herself was lodged. Then she cursed him that
+the knowledge he had gained from Sukracarya shall be of no consequence when used by
+him. He accepted the curse saying, “Though I may not be able to make use of the said
+knowledge, but the person to whom he will import the same shall make use of the same
+successfully. Then Kaca and Devayani curse each other in which Devayani was told by
+Kaca that she would never be married to a Brahmana. She was ultimately married to Yayat.
+This story is contained in the Siva Purana as well.
+
+## Page 38
+
+xi
+
+Besides these stories, Matsya Purana also contains a number of chapters on scholarly
+issues. Chapters 252-270 are dedicated to divine Vastusdstra or Ancient Architectural
+science including iconography and related subjects such as Pratimalaksana. These chapters
+describes in relative detail about the temple architecture, house architecture, town planning,
+various directions and various architectural norms. It also details some astronomical
+subjects such as various planets including sun and the moon, their distances from the earth,
+their relative sizes, etc.
+
+This is one of the series of the work of English translation of the Puranas, which has
+been undertaken by Parimal! Publications and I am sure, it will be of significant interest to
+the readers.
+
+Shanti La] Nagar
+
+## Page 39
+
+STATON TT A: 1
+stragurayfamruntdt
+Ace gO
+
+_
+
+~~
+
+MATSYA-PURANAM
+
+ao AMT Wad AACA
+
+Salutation to Lord Vasudeva
+
+CHAPTER 1
+
+Saunaka and other sages, questioned Sita,
+the cause of the lord Visnu, assuming the
+form of fish and other related details.
+
+Yausdsarey yaar aa fenrat:
+Verg fasta AAC ATUMAST: II VI
+
+Let lord Siva, with the force of whose
+tandava dance, the elephants of the directions
+are thrown away, let his lotus like feet remove
+all the obstructions.
+
+WATS AMARA ST Tea
+ga TenTsavccairatfatercrrraTat A
+FaMaA Hargis Sear
+PATRAS APTI TAT SAT AT SAT 2
+At the time of the incarnation of fish, while
+jumping above from the Patalaloka,! the oceans
+rise above with the strike of his tail after
+pervading in the form of the particles of the
+
+globe and fall on earth covering the whole of it.
+Let the words of the Srutis* (Vedic passage)
+
+|. The world of serpents or demons and thought to be
+under the earth, sometimes used as a general name
+for the lower regions or hells.
+
+2. All the sacred writings of the Hindus are divided into
+two classes namely Sruti (what is heard or revealed)
+and Smrti (what is remembered). The Vedas
+constitute the Sruti for they are regarded by them as
+revealed and the sacred Laws etc. now pass under the
+name of Smrti.
+
+emerging from the mouth of the lord, remove all
+your miseries.
+
+ANAT Aa AL da AAT
+cat areal da wat was Ta 3
+Offering salutation to Narayana and Nara,
+the best of the humans, besides Sarasvati, one
+
+should recite the Mahabharata? (or the other
+Puranas).
+
+sista a: Farrar sft wr:
+Fron freers Areal Taya 21
+
+The one who is unborn, is eulogised as
+Narayana because of his activities. He has
+threefold form, 1.e. sattva, rajas and tamas.* He
+has the form of the three Vedas viz. : Rk, Yajuh
+and Sdma.> Salutation to the selfborn lord.
+
+ava Afaarcoranheas: |
+
+Aa Sta aarT Upc ASAT 2
+Tey FUUity sary crferang a
+SUT VATE HAT WEdE 3
+BMA WON Aaa AAT
+TTA HOU MATT TAK
+
+Once at the conclusion of a long time yajna,
+
+3. This 1s a benedictory verse which occurs at the
+commencement of every Parvan of Mahabharata.
+
+4. An ingredient of nature, chief quality of all existing
+beings (viz. sattva, rajas, and tamas, i.e. goodness,
+passion, and darkness, or virtue, foulness, and
+ignorance).
+
+5. The Vedas which ts held in equal reverence will
+Brahman by the Hindus for its spiritual knowledge
+consisting in words.
+
+## Page 40
+
+the dwellers of the Naimisaranya! including
+Saunaka and other sages, felicitated Sita? again
+and again who had been seated with a
+concentrated mind and expressed the desire to
+reveal the mysteries of the religious Puranas,
+which happen to be quite beautiful and
+rewarding. Saunaka said, “O Sita, you have
+narrated to us several of the Puranas which are
+like the abode of nectar. We have developed a
+desire to listen to the same Puranas.
+
+ae WAS MAMTA
+HTT AT ACO RATATAT: 1 UN
+
+O Sage, how did the excellent lord create the
+mobile and immobile universe? How could lord
+Visnu take to the form of Fish?
+
+ard vaene Wate a a fe
+HY Sat: HUNTS WITT THAT: 1 E
+
+How could Siva, achieve the position of
+Puraritva as well as the one of Bhairava? How
+was the bull-bannered lord Siva, turned as a
+Kapali.?
+
+TaN ATT Ua fae: HATA
+aeleagaaa 7 dette aad ott
+
+O Sita, you kindly narrate the details of
+each one of the events in a chronological order,
+because we do not feel satisfied by listening to
+the nectar like narrations from you.”
+
+Ut sareI
+qos uaarrgertert syort Fes:
+TRS YUU SET MATA HS
+
+1. One of the five principal places of pilgrimage (viz.
+Visranti, Saukara, Naimisa, Prayaga, and Puskara). A
+most sacred place where all the Puranas are narreted.
+
+2. The word signifies the offspring of a Ksatriya by a
+Brahmin woman. This mixed caste used to keep
+horses and drive cars in the days of yore. A
+particular family of this caste however became
+famous for its knowledge of Puranas and other
+sacred writings.
+
+3. Bearing a skull in the hand.
+
+Matsya Puradnam
+
+Sita said— “O Brahmanas, lord Gadadhara,4
+in earlier times, I had narrated the Matsya
+Purana. You listen to the details about the same.
+It is meritorious, pious and prolongs the life.
+
+UT Tat AIA Aorathaget AT: |
+
+TA Wea GANTT Aaa SA: I 8
+
+ATA Y HAT AYOTT AT:
+
+WAS: GUEl aN: WHAT TAI 20 I
+
+In ancient times lord Vaivasvata Manu, the
+
+son of the Sun, who was merciful, possessing
+all the virtues, treated pleasure and the pain
+similarly, and possessed enormous prowess. He
+entrusted the kingdom of his son, went to the
+Malayacala mountain to perform severe tapas
+
+(penances). Performing tapas there, he achieved
+the best of success in the yoga.>
+
+aS ATEN THAT TA Aa
+At FATT YA Wht: A HATA VAN
+
+Then with the performing of the tapas by
+him, crores of years passed, after which
+Brahma, having the seat of lotus, getting
+delighted appeared before him in order to
+bestow a boon on him. He said to him, “Ask for
+a boon.”
+
+VaTRISTagRT VOT a Trae
+Vara eae A ATTA TTI 22 It
+TUM TA WAT AT ai
+UST TATA We AAUP 23 |
+When so inspired by Brahma, lord Manu,
+
+offering his salutation to Brahma- the grand
+sire, spoke, “O Lord, | would like to ask for a
+
+4. Bearing a mace in the hand.
+
+5. Yoga or union with the Supreme Being. The union
+can be effected by two-fold means first by a true
+knowledge of the nature and being of Brahma or
+impersonal Self, which is called Jnana-Yoga and
+Second by doing one's own duty and religious acts
+without any selfish motive which is called Karma-
+Yoga. This has been explained the Bhagavad-Gita in
+detail.
+
+## Page 41
+
+Chapter-1
+
+single boon from you, that at the time of every
+deluge, I should be able to protect the entire
+mobile and immobile creatures.”
+
+Vanteata fare daar
+TGS: Aad GTA TUTAT Ve
+
+At this Brahma, the soul of the universe,
+disappeared from the scene, saying, “Be it so.”
+At the same time the gods showered enormous
+rain of flowers.
+
+aaaIAN TT Had: FagaTary
+UOT WOT EUT PT ACTA AT 2h I
+SBI Ta A SAMS ah: |
+THOTT ela A Aaah 26 1
+
+Once, while performing oblation for the
+manes lord Manu, carried a small fish together
+with the water in the hand cup. Finding the fish
+there the king was filled with compassion.
+Keeping the fish in his kamandalu,! he tried to
+save it.
+
+HEAT UA WeSygeHaeyA: |
+ASM US Walt ATAU Vw
+
+In a single day and night the fish was
+enlarged to sixteen finger's breadth and started
+crying for safety.
+
+a Tes Ufa wieroweranor
+AAT VHA FATA TSAI VC I
+The king then placed the aquatic creature in
+
+a pitcher filled with water; where it was
+enlarged to the length of three hands.
+
+WA: Wenaled Asa UTA
+@ AA: Us Walla AMS SUT WaT Ve
+
+Again the same fish spoke to the son of
+Stirya in a pathetic voice, “O King, I take refuge
+in you. You kindly protect me.”
+
+aa: BU Tt Weer Wiener:
+eal A Mea AAT BT UT: WAT Volt
+
+1. A gourd made of wood or earth used for water by
+ascetics.
+
+faaisat vgaTarMaarr aera
+MATES WAS: Wife The TARTAN 2 aN
+aa: M UqaT feat wTaraerasal
+
+Fel aat AS Tt wieroafetafa: eH
+
+After this, the son of Sirya lodged the fish
+in the well, but when the fish could not be
+accommodated in the well, then it was lodged in
+a tank, where it grew to the size of a yojana
+(distance) and feeling miserable, it spoke, “O
+Best of kings, you save me, save me.” Manu
+then released the fish in the Gangd. When it
+further grew to a gigantic size in the Ganga,
+then the king released it in the ocean.
+
+Fel UyGAhaet Saree ayaa:
+TAT Wie Wait: ASH PagTAT 1 Bs t
+IA ATYCARAT SGA AAT
+AATF HAMA HA Tot TART VY
+
+When the fish expanded its size to a gigantic
+proportions, then Manu, feeling panicky asked
+it, “Are you a demon king? Or, are you lord
+Vasudeva? Otherwise how could anyone else be
+like that? How could anyone else attain the
+body of such an enormous proportions
+extending to crores of yojanas?
+
+Wied ARNO Ut eas Ayre
+SHAM VATA VTS AAISET TU RGN
+
+O Kesava, I have come to realise that you
+are teasing me taking to the form of a fish. O
+Hrsikesa, Lord of the universe, you are the
+abode of the universe, salutation to you.
+
+Wath: FTAA FATEA: |
+AY Mat Mar WAP MAKATI 2 & It
+
+At these word of Manu, lord Janadrdana in
+the form of Matsya, said, “O Sinless one, you
+are correct. You have well recognised me.
+
+aifattta aret Afet fetta
+Waa Het AAT AVCSAH ATH 29 th
+
+## Page 42
+
+O King, very shortly, the earth, together
+with the mountains and the forests shall be
+drowned in oceanic water.
+
+ata adearmt fara fatten
+TRA AHTeT TOT HATTA 2S
+Because of this, O Lord of the earth, in order
+
+to protect all the large creatures, the gods have
+made this boat.
+
+Wawessitaal I a J a sat WAT: |
+Tea FANT VareAMAAAras Fat 281
+
+All the creatures born of sweat, eggs, those
+which grow on earth and those which are
+covered by membrane, should all be lodged in
+this boat like orphans, and have to be protected
+by you.
+
+Parieea er vats AT
+Westar WA Wary Tet ParTApAN 3 0
+O King, when the boat starts shaking
+because of the winds of the time of dissolution,
+at that point of time, you connect it with my
+horn.
+
+ad Hat AA WAT UTA TI
+yaahaea swfaar aa: vista 3 a
+Ud HATTA Baal Pray:
+Terra saya wPaCTPA 3 VI
+
+Thereafter, O Lord of earth, at the end of
+dissolution, you will become Prajapati of all the
+living beings. In this way, at the start of
+Krtayuga in the form of a patient and
+omniscient ruler, you shall be the lord of
+Manvantara, and you would be adored by the
+gods even at that point of time.
+
+ofa stead Hergt snfeat wafrerdare
+PARTS: 1 I
+
+Matsya Puranam
+
+CHAPTER 2
+Conversation between Matsya and Manu
+Wt sara
+Wagrhl ATR WTS WYSE
+TTA HA AM ATT ALATA: 11 21
+Tea a et Ae ere HTS
+MN WE WHAT: SA aT Aaa AA VM
+Sita said, “O Sages, at these words of the
+lord Matsya, Manu put a question to
+Madhustidana. He said, “After how many years
+the deluge will occur? How shall I be able to
+save all the living beings? O Madhusidana,
+
+when shall I have the chance of meeting you
+again?”
+
+Weel Sar
+TIYAsefaeats Teta
+TART AT Shera yP Ta STN 3
+AaSTUATaTAST WHA: VA STaUT: |
+
+BATA aA WAATRTTATOTA 1 Yt
+
+Lord Matsya said, “O Great sage, for a
+hundred years from today, there shall be a
+rainfall on earth, as a result of which there
+would be terrific draught and famine. Thereafter
+at the time of the delusion at the end of the
+yuga, the seven scorching rays of the sun shall
+start destruction of the petty creatures.
+
+atarrenstt fash afer are
+famrente Waren Reo aA :
+TANT Aenea A aaeT: | Ut
+
+The submarine fire would also take to the
+horrible form. The poisonous fire emerging out
+of the mouth of Samkarsana and the fire
+emerging out of the third eye of the lord Siva,
+shall consume the three lokas raising high
+flames.
+
+famfaceant watt were
+
+Ua SM Wal Gat Fat TATRSTAAMTI & It
+STAT A MA TTT
+
+Ad: UCAAAT WTA PATTI 9 tt
+
+## Page 43
+
+Chapter-2
+
+O Great sage, when the entire earth 1s
+reduced to ashes, and the sky will be filled with
+heat then the entire universe with gods would be
+destroyed.
+
+Gant wires sowsUSl aes:
+aqras: Vlog Bad MaaTAT- Nc
+These are the terrific clouds of that time
+
+known as Samvarta, Bhimanada, Drona, Canda,
+Balahaka, Vidyutpataéka and Sona.
+
+sierra watered Aiea:
+
+AAT: ATA aHIT SrA TAT: 1 8
+
+Weald wd afeata sa
+
+Aearaaat Jal Brags WaT: 11 Qo lt
+
+IU WAI Ae Tae
+
+TAY Aa Teas ATTA TATA: 11 22
+
+They would spring out from the vapours of
+
+the heat and drop heavy rains when all the
+oceans are united into a great mass. All the
+seven oceans shall be turned into one vast
+ocean. At that poimt of time, you owning the
+boat in the form of the Vedas, and carrying all
+the living beings in the same, tie the rope, then
+provided by me, with my horn. By doing so, O
+Great ascetic, all the gods shall be reduced to
+
+ashes, but only you people shall be saved with
+my influence.
+
+Ua: Weare say TAT WATT
+WATAAE Tel UTTAR AT: | LI
+Tel a Act Yost wVSAT Tera: |
+
+Val Aer: WOT fren: Waa gTAAN 23
+ware Urge feat wrercaarcaere
+VAM Tet ATTA HATA 2
+daryanaenta cacantel wea
+UATRAT A MA AAAT TTA! 84
+
+During this horrible delusion, only moon,
+the sun, myself, Brahma with the four lokas,
+river Narmada- the Puranas possessing all the
+lores and this boat together with you shall
+
+5
+
+remain safe. O Great sage, during the delusion
+of Caksusa Manvantara, when the entire earth
+shall be submerged in the flood water, and the
+creation shall be started by you afresh. Then I
+Shall propagate the Vedic knowledge.” Thus
+speaking he vanished.
+
+Taek apt araeayarewy
+
+ITM AY TASS Tag PAT TI VEU
+
+Manu on his part, remained there and by the
+grace of lord Vasudeva, kept on practising till
+the advent of the time of destruction.
+
+caret ae ASA ATCT TATRA
+
+TH VSAM ATS TATA | VOM
+Gael WEST WAT: TTI
+TATA AAT Tafa Fe 1
+ASW AAT Ye TATA
+STARA: WOT SATETA 89
+
+Thereafter, when the time for delusion
+arrived, as foretold by the lord, Janadrdana, he
+appeared in the form of a fish with a single
+horn. At that point of time a serpent also in the
+form of a rope reached there floating over the
+flood waters at the living being over the boat.
+With the use of his yogic powers, the boat was
+tied to the horn of the fish using the serpent as a
+cord. Thereafter he himself also boarded the
+boat offering his salutation to the lord
+Janardana.
+
+ayers aferadia arena
+
+Qos WAT UR Yuet aeration
+
+Teer VARA SURAT AAT: | 20M
+
+aware: WU Ue: Ween faa:
+
+aeaeaTaa AA: UTS AMAA 2 2
+
+O Best of the sages, in this way, on the
+
+occasion of the ancient dissolution, the sage,
+who was well-versed in the yoga, at the instance
+or Manu, the lord Matsya had narrated the
+Matsya Purdna, and the same will the narrated
+by me, before you. Therefore you listen to the
+
+same quite carefully. O Brahmanas, you have
+asked me about the creation of the universe and
+
+## Page 44
+
+44
+
+MAE: WTAE ATTN ¥ 0 II
+
+Wal afpaeertar yas sare
+
+TRI AHA VAST STEEATRTI ¥ 2M
+
+Both of them adored Aurava Agni for
+
+begetting sons. Getting pleased with their
+adoration, Aurava said to them, “Either one of
+you two will get sixty thousand sons and the
+other one will have a single son who will
+expand the dynasty.” At this Prabha, accepted
+
+sixty thousand sons, while Bhanumati begged
+for a single son.
+
+Ch MAHL YaTTSIA TATA
+aa: afeaeeritr qed Aes WAT y VI
+
+After sometime Bhanumati gave birth to
+Asamafyasa while Prabha, the daughter of
+Yadu's race gave birth to sixty thousand sons.
+
+Gat: yfseat oer fart asyaarTn
+TAUAAY TTA Ais MaTATS Fay: 3
+
+When those sixty thousand sons of Sagara
+were digging the earth, they were reduced to
+ashes by lord Visnu in the form of Kapila. The
+son of Asamafjasa came to be known by the
+name of Ansuman.
+
+Ter at facitred facitarg waiter:
+OT ATTA AST TT: HeaTaeATATN ¥ vt
+
+He had a son named Dilfpa and Bhagiratha
+was born to Dilipa. It was Bhagiratha, who after
+performing hard tapas brought Bhagirathi
+Ganga from the heaven.
+
+TT TAT ATT She Pee:
+ATTA AAS HTT AIT RTS HATH BI
+
+Nabhaga was known as the son of
+Bhagiratha. Amabrisa was the son of Nabhaga
+who produced Sindhudvipa as his son.
+
+TAMA: Yas yequoberats sa
+TA HEMAN TAHA Ad: BANE M
+Ayutayu was the son of Sindhudvipa and
+Rtuparna was born to Ayutayu. Rtuparna had a
+
+son named Kalmasapada, to whom Sarvakarma
+was born as a son.
+
+Matsya Puranam
+
+TAMU: YASUPTAATA FaAtsTad |
+Peargt sraraataary Fat viet
+
+His son was Anaranya, who had a son
+named Nighna. Nighna has a son named
+Anamitra and Raghu, who was the king.
+
+staal aT Ra A Hd TT:
+Tareectag Petraes UM 6
+
+Out of them Anamitra retired to the forest,
+who would be the king in Krtayuga. Dilipa was
+born to Raghu, while Aja was born to Dilipa.
+
+UAT ETAT FT: |
+TATA AAA TAATTAAN ¥ 8
+Dirghabahu was the son of Aja, Aja had the
+
+son named Ajapala, while DaSaratha was born
+to Ajapala. Dasaratha had four sons.
+
+ARTA: Tal TRAITS TAA
+
+TAU ATRRAETE APTASA: 14 0
+All of them had been born of the amsa of
+Narayana. Rama was the eldest of all, who had
+
+been the destroyer of Ravana and expanded the
+race of Raghu.
+
+arene aftd aa were aTa:
+TET Ua Hoa aR HTT Y Vit
+Sifted SyNay FTE UTA:
+TAY TATA ATA TTT &4 2 It
+
+The Maharsi Valmiki of the race of Bhrgu,
+had described the life story of Sri Rama,
+exhaustively in the form of Ramayana. Sti
+Rama had two sons named Lava and Kusa, who
+expanded the race of Raghu. Atithi was the son
+of Kusa and Atithi had a son named Nisacha.
+Nala was the son of Nisadha. Nala's son was
+named Nabha.
+
+AWA: YOST ASAT AT: BT
+TA VASMAR SAMA: VATA & 31
+Pundarika was born as the son of Nabha.
+
+Pundarika had a son named Ksemadhanva,
+Devanika was the valorous son of
+
+## Page 45
+
+Chapter-13
+
+Ksemadhanva.
+WETTA Ya: ATATIETT: WTI
+AAT STACRT ATU SEATS AAT 4 VI
+
+Devanika's son was Ahinagu, who had a son
+named Sahasrasva; who had a son named
+Candravaloka. Tarapida was born as a son to
+him.
+
+TAAL TETAS TATA
+TATAAT TANT A FUTAAT: 1G GU
+
+From Tarapida was born Candragiri as his
+son who had a son named Bhanucandra.
+Bhanucandra's son was Srutdyu, who was killed
+in the war of the Mahabharata.
+
+Tet gaa feat fet Ava
+SAAT ARTA ATT 1 GU
+
+This dynasty which originated from the sage
+Kasyapa, had two kings known by the names of
+Nala. One of them was the son of Virasena and
+the other was the son of the king Nisadha.
+
+Ud darad IH Waa Leer:
+SATHAMTTA: WAT Veal eter: 11 4 9
+In this way, all the kings born in Iksvaku
+
+race of Vaivasvata, were extremely charitable. I
+have narrated their stories broadly.
+
+Sia sea TTT Waa AA
+BSI SEAT: 11 22M
+
+ke *
+
+CHAPTER 13
+
+Description of Pitr-vamsa, and the hundred
+and eight names of the Goddess, in relation
+to the episode of Sati
+
+Wears
+TAA THT PATO TT TATT
+Tay Magar arrest eT fared: 11 2
+Manu asked, “Now I would like to listen to
+the best of Pitr-vamsa. In that too I have the
+
+special desire to know as to how the sun and the
+moon became the Srdddha-devas?
+
+44
+
+Weel aS
+et 8 aafaents faut agree
+Fant Pago: Wet TARTS: 12 Ut
+Ufaeratsa Wea: WAaTATAA TA:
+STAT: FATTO ALTE WATT 113 0
+Wart arearron aera ster fase: |
+Fy Ua Bawer: We HARA
+aaa J Wet Tea:
+GMS at lt Yat AT ANETTA I
+fag senha arr Gatrahagerary
+ATTA CATT TAT HTSST STAT NG It
+
+Lord Matsya replied, “O Royal sage, it is
+quite blissful, that I am now going to narrate to
+you the story of the Pitr-varhsa. You please
+listen. There are the seven ganas of Pitrs in the
+heaven. Out of them three are formless, and the
+remaining four are with forms. All of them are
+immensely glorious. The formless! Pitr-ganas
+are the sons of Prajapati Vairaja. Therefore they
+are known by the names of Vairaja. They are
+adored by the gods. All of them after achieving
+the Sanatanalokas, fall from the yogic path and
+then at the end of the day of Brahma, are reborn
+
+1. The Vayu, Matsya and Padma Puranas and Hani
+Vamsa, profess to give an account of the original
+Pitrs. The account is much the same and for the most
+part in the same words, in all. They agree in
+distinguishing the Pitrs into seven classes; three of
+which are without form (#444:) or composed of
+
+intellectual, not elementary substance and assuming
+what forms they please; and four are corporal
+(aqda:). According to a legend given by the Vayu
+
+and the Hari Varnsa, the first Pitrs were the sons of
+the gods. Matsysa has Fanny aaa fiat caqaa: | 'The
+
+Pitrs are born in the Manvantaras as the sons of the
+gods. The Hart Varhsa has the same statement, but
+more precisely distinguishes the Vairajas as one class
+only of the incorporeal Pitrs. The commentator states
+the same, calling the three incorporeal Pitrs,
+Vairaias, Agnisvattas and Varhisads; and the four
+corporeal orders, Sukalas, Angirasas, Susvedhas and
+Somapas. The Vairajas are described as the fathers of
+Mena, the mother of Uma. Their abode is variously
+termed the Santanika, Sandtana and Soma loka.
+
+## Page 46
+
+46
+
+as Brahmavadins. Then they regaining the
+memory of the past, taking refuge in the
+excellent Sarmkhyayoga, achieve the siddhi
+which relieves them from the cycle of rebirth.
+Because of this, the donors should donate the
+offerings of the Srdddha! to the yogis.
+
+Uda Aa HA Ue feract wa
+THA SATE: ASIANS Wa
+RST: Vat AA Bal FarMsA: IV
+
+Mena, the mind-born daughter of the Pitrs is
+known to be the wife of Himavan. Mainaka
+happens to be her son. Kraunca had been born
+even earlier to him. On the basis of this same
+Kraufica, an island has been named after it,
+which is surrounded by the clarified butter
+(ghrta).
+
+Tal @ Wye fra: Ha aaa:
+SHHTTSTUT A MaAIAATT: 11 Hk
+
+Thereafter Mend gave birth to Ekaparna,
+Aparna and Uma- the three girls. All of them
+were engaged in yogic practices and performed
+severe tapas. They were considered to be the
+best of the female ascetics in the world.
+
+teen fadeter Seieerer ATT
+CCC GIR CMCC ORIN COMILE
+
+Out of these daughters, Himavan, gave one
+to Rudra, one to Siva, and the third to
+Jaigisavya.
+
+RAT Sd:
+HATA Yel AaTSIS SCHAATCAAT |
+feragetent AgrHs AAT WeleTetl go
+
+Rsis asked, “O Sita, why did Sati, the
+daughter of Daksa immolate her body? Then
+
+1. Sraddha is commonly an obsequial or funeral
+sacrifice, but it implies offerings to the progenitors
+of an individual and of mankind and always forms
+part of a religious ceremony on an occasion of
+rejoicing or an accession of prosperity, this being
+termed the Abhyudaya or Vrddhi Sraddha. As. Res.
+VIL. 270.
+
+Matsya Puranam
+
+how could she reappear in the same form as
+daughter of Himavan?
+
+Tera fase Tat at Tea
+BATT Seas Ga faereat ae eeH
+
+At that point of time, what did Daksa, the
+son of Brahma, speak to Sati, his own daughter,
+as a result of which she immolated herself? You
+kindly narrate the entire story exhaustively to
+
+39
+
+Qa sare
+Cae Ua faad wytataterch
+UMgay say wars frat BATU
+ferret ata vat FY agisfararheratar:
+SAT Slt ATE SA ART WTI 31
+TIAA ATA STAT
+FATT Tat Ss VAT AGHA VI
+
+Sita said, “O Rsis, in earlier times, Daksa
+organised a vast yajna, in which enormous
+riches were given away in daksina. All the gods
+had been invited to receive their shares of the
+yajna. (But Siva, the lord of the gods, remained
+uninvited. Sati finding the share of her husband
+in the yajna absent) asked Daksa, her father, “O
+Father, why has my husband not been invited in
+the yajna.” At this Daksa replied to Sati, “O
+Daughter, your husband carrying a trident,
+destroys the world in the form of Rudra. As a
+result of this he is considered to be inauspicious.
+Therefore he is not fit enough to be invited in
+the yajna.”
+
+SIM a a faa aq AS:
+eaaraS Aaa UT Gara ATSTAPAA Vk It
+
+On hearing this, Sati felt enraged and in the
+height of anger she uttered, “O Dear one, I shall
+finish this body born out of your sinful body.
+You will be the only son of the ten Pitrs and
+after having been born in the Ksatriya family, at
+the time of Asvamedha sacrifice, you will get
+destroyed by Rudra.”
+
+Sea ANTATTT Tace rea
+
+## Page 47
+
+Chapter-13
+
+Fregait dara aeargrfenat: 1126 i
+
+fen fentafefer sient weretrorrerdi
+
+SUT: Woraceny ¢:Raa: 1 V9
+
+Thus speaking Sati, burnt her body with the
+
+yogic power emerging out of her own body. At
+that point of time the gods, asuras, kinnaras and
+the Gandharvas cried aloud, “Oh, what is all
+this happening here? What is happening? They
+sounded miserable as they cried.
+
+aT WAY WaT TTRATASaAT
+efeged rear eft WaTUEATeATAT 2 1
+Observing all this Daksa went close to Sati
+and offering his salutation to her spoke, “O
+Goddess, you are the mother of the universe. Be
+graceful on me. You had been born to me at my
+request showering your grace on me. You are
+the deity showering your fortunes on the people
+of the world.
+qt waa tad fafrerave aac
+VAs He TN T Ai AHSAN eI
+O Goddess well-versed in dharma, you
+pervade in the entire mobile and immobile
+
+things of the universe. Be graceful on me. You
+should not desert me at the present moment.
+
+we edt wenet ans HT UT
+
+feRrrayes TAM Wel AAA BEM? ol
+
+Ware Hragead qa: ari wana
+
+waTafee AAT STATS AIS TLCTTI 2 2
+
+At this prayer of Daksa, the goddess said,
+
+“OQ Daksa, the task which has been started by
+me would surely be completed by me. After the
+destruction of the yajfa by the trident bearer
+Siva, and with the desire to create the universe,
+you should perform tapas for me. With the
+influence of the same, you would become a
+
+Prajapati named Pracetaé and become a son of
+ten fathers.
+
+Te Ufeifaeragaeta
+
+47
+
+Teal TT: HAMA ATTAIN 2M
+At that point of time sixty girls would be
+born to you out of my arsa. Because of you
+performing tapas for me, you would achieve the
+excellent position in yoga.”
+
+Ways TaEN: HY HY ASA
+aay eat SST Tale ST ATTA: 23
+
+At these words of the goddess, Daksa said,
+“Q Sinless goddess, for this purpose, which are
+the sacred places to be visited by me, to have
+the audience with you? Which are the names by
+which, you should be eulogised by me?”
+
+eeqarel
+Aaa HAYA RLM Aaa ya
+aaeteny ateateated 7 war ATU vit
+Tasha Ay AT Tee Fare aTCT AT: |
+Ben afeartat a seat ara G Hl
+
+The goddess said, “Though I pervade in all
+the living beings on earth, and you can visualise
+me everywhere. Because whatever exists in the
+universe is not separated from me. Or in other
+words I pervade in all the mobile and immobile
+beings, still a person desirous of success and
+riches or fortunes, should have an audience with
+me at the sacred places, the details of which are
+being given by me.
+
+anToreat fagrrenalt Afra fergenftoin
+TANT etferaT Sat ATATAM TTATETN GU
+WMa HII A fasHA TASTE
+At Varanasi, I live as  Visalaksi,
+Lingadharint in Naimisaranya, Lalitadevi in
+Prayaga,! Kamaksi at | Gandhamadana
+
+mountain, Kumuda at Manasarovara, Visvakaya
+at Ambara.
+
+TRS Wet ATT eet TATU
+Telenel Ua Wat Veg 2
+
+1. A sacred shrine of the Hindus the junction of the
+rivers Ganga and Yamuna.
+
+## Page 48
+
+48
+
+ar TAT AT TT eTTTS A
+WaT aalarat fast Faget fag: ei
+
+Gomati at Gomanta, Kamacarini at
+Mandaracala, Madotkata at Caitraratha, Jayanti
+at Hastinapura, Gauri at Kanyakubja, Rambha
+at Malaya mountain, Kirtimati at Ekambhaka
+(Bhubanesvara) and Visva at Visvesara.
+
+Gent Tegaid aent arterertt
+
+ver fenad: yes Maul agar; oll
+Tra Tart 7 facaet facaatran
+siretet Artal ATT AST ASAT TAT 2
+
+Puruhtté at Puskara, Margadayini at the
+Kedaratirtha, Nanda at the back of Himavat,
+Bhadrakamika at Gckarna tirtha, Bhavani at
+
+Sthanesvara, Bilvapatnké at  Bulvatirtha
+Madhavi at Srisaila, Bhadra at Bhadresvara.
+FAT ATE F HIST BUTT
+SAHIA A VITO Aleit sAteroe FrT13 VM
+Tettert J alten wate Ae
+Merge wereal Forafert seria 3 3 1
+Tragat Hart ¢ Part wfera sam
+
+TATA ACA HIT WITT} VI
+
+Jaya at Varaha mountain, Kamala at
+Kamalalaya tirtha, Rudrani at Rudrakoti-tirtha,
+Kali at Ka€lafijara mountain, Kapila at
+Mahdlinga tirtha, Mukutesvari at Markota,
+Mahadevi Salagramatirtha, Jalapriya at
+Sivalinga, Kumari at Mayapuri (Rishikesh),
+Lalita at Santanatirtha, Utpalaksi at Sahasraksa-
+tirtha, Mahotpala at Kamalaksa-tirtha.
+
+Tava Use ae fare Tear
+
+faUTeTATAn Teen Wee WUSaAS 4 IN
+
+anrauit Yuva J fame vaya
+
+Farge Fagen Art HEAT HeTATETCTN; EI
+
+aleat ated J PTI MId TA
+
+Ter Fea J Asta cA 3 ON
+
+Mangala at Ganga, Vimala at Purusotama-
+
+tirtha (Jagannathpuri), Amoghaksi at Vipasi,
+
+Matsya Puranam
+
+Patala at Vikiita, Vipula at Vipula, Kalyani at
+Malayacala, Kotavi! at Koti-tirtha, Sugandha at
+Madhavavana, Trisandhya at
+Ratipriya at Gangadvara.
+
+forage fraser afeat eferenrae!
+Sent Aa F VA FATT ANIC
+
+Nandini over to Devika river in Punjab,
+Rukmini in Dvarikaé and Radha in Vrndavana.
+
+gael Hy | Weel WT
+
+ferrepe cer tet fereer ferearrfereanFain3 8
+TaTAKaT F Beas T alsa
+
+THU Waa T AAA PNAATY 01
+
+Godasrama,
+
+I am Devaki in Mathura Puri, Paramesvari in
+Patalad, Sita in Citrakuta, Vindhyavasini over the
+Vindhya mountain, Ekavira at Sahyadn
+mountain, Candriké at MHariscandra-tirtha,
+Ramana at Rama tirtha, Mrg4vati in Yamuna.
+
+wlan Veleedtear eat fear
+
+SAT ASAT F UTA ASMA VU
+AITOMAAT Uy reat
+
+HUSA WSs AMT FaTaT TTVAT FU 2Mt
+
+Mahdlaksmi at Karavira (Kolhapura),
+Umadevi at Vinayaka-tirtha, Aroga at
+Vaidyanatha, Mahesvari at Mahakala, Abhaya
+at Usna-tirtha, Amrtaé in Vindhya_ caves,
+Mandavi at Mandava-tirtha, Svaha at
+Mahesvarapura.
+
+DTANVS IVS F BUsaT TATA
+SA TUT WAT YER TST Y 3
+CaN AAA UNTaTAS Hea
+Terra een waar faseATY v1
+Pracanda at Chdagalanda, Candika at
+Makaranda, Vararoha at Somesvara-tirtha,
+
+|. Kotavi is said to be an eighth portion of Rudrani, and
+the tutelary goddess of the Daityas The word in the
+lexicons designates a naked woman, and 1s thence
+appticable to Durga in some of her forms.
+
+## Page 49
+
+Chapter-13
+
+Puskaravati at Prabhasa-tirtha,! Devamata at
+Sarasvati, Mahabhaga at Mahdalaya-tirtha over
+the seashore, Pingalesvari in Payosni.
+
+Fafeear say g aarictchea werent
+TUTA AAT FAT MOTTA SG
+
+Treat fragt Beda TATA
+sree fara are fenfeereTaertiiy & It
+
+Simhika in the KrtaSaucatirtha, Yasaskari at
+the Karttikeya-tirtha, Lola at Utapalavartaka,
+Subhadra at the confluence of Sona, Laksmi at
+Siddhapura, Angand in Bharatasrama,
+Visvamukhi over the Jalandhara mountain, Tara
+at Kiskindhapura.
+
+Saale Yfteten aArgdAsel
+
+vita cat feast 7 yfefaydat camivien
+HUTA YfeKAAT TATA TT
+
+Wigan ara aft: Musee WMI
+alent 7 TTS Fyrerearheath
+SONATA ATT ATTA TATU 8 I
+
+Pusti at Daruvana, Medha in Kasmira
+region, Bhimaddevi at Himagiri, Pusti at
+Visvesvara, Suddhi at Kapalamocana, Mata at
+Kayavarahana, Dhvani in Sarmkhadvara, Dhrtt
+in the Pinddraka-ksetra, Kali at Candrabhaga,
+Sivakarini at Acchoda, Amrta in Vena, Urvasi
+at Badri-tirtha.
+
+eat AH HMI Hyrean
+
+WAM SHE T The ATAPI ol
+aye seta g Pfrdsraorera
+
+MAA Aaaed Vaal Forara Prati e
+Cae TA TAY AAT
+qelfarrs WT ATT ATO SeoTaT ATG 2A
+
+|. Prabhasa is a place of pilgrimage in the west of
+India, near the temple of Somanath, and town of
+Pattan Somanath. It is also known by the name of
+Soma-tirtha; Soma, or the moon, having been here
+cured of the consumption brought upon him by the
+imprecation of Daksa, his father-in-law,
+Mahabharata, Salya Parva.
+
+49
+
+Ausadhi in Uttarakuru, Kusodaka in
+Kusadvipa, Manmatha at Hemakita mountain,
+Satyavadini at Mukuta, Vandaniya in
+Asvatirtha, Nidhi? in Vaigravanalaya, Gayatri in
+Vedavadana, Parvati with Siva, Indrani in
+Devaloka, Sarasvati in the mouth of Brahma,
+Prabha in the solar disk, Vaisnavi among the
+mothers.
+
+eM Vat F Ware a fereeran
+Fart Ta ATT Vile: MACAO 31
+Arundhati among the chaste women,
+
+Tilottama among the beautiful women,
+Brahmakala in the mind and Sakti in the people
+of the universe.
+
+Wegeyr: Wa ATMS MTT TAT
+
+TSA MAA MATAAS ATTY BI
+
+a; WapUaTgIShe add: wyea
+
+Wy TAY A: Hea SA UPA AT ATU
+aauafarrieh: aed fragt qa
+
+Te AT Get HUAAT AAT NG G1
+
+a frat geet Veit MSTA
+
+AAS Ae Aaa aay 9 1
+
+In this way, I have spelt out a hundred and
+
+eight names of mine, together with an equal
+number of the holy places. Whosoever will
+recite my hundred and eight names or shall
+listen to them from the mouths of others, he
+shall be freed from all his sins. A person who
+having a bath at the above holy places shall
+have an audience with me, he, getting relieved
+of all the sins, shall reside in the Sivaloka for
+the duration of a kalpa. Besides a person who
+would remember these holy place at the end of
+his life, he piercing through the globe shall
+reach the place of Siva.
+
+TATA ARYA TAT: |
+TEM MSM A ACA A FTG CI
+
+2. Nidhi is a treasure, of which there are several
+belonging to Kubera; each has its guardian spirit or
+is personified. |
+
+## Page 50
+
+30
+
+taredafadt fagrra-renterrasta
+
+Ud aaah A Ta SAIS SHAAN 8 1
+A person who on the third or the eighth day
+
+of the moon, shall recite my hundred and eight
+names, he shall achieve a number of sons. A
+person who would recite these names at the
+time of donation of cow, Srdddha or daily at the
+time of adoration, he would achieve the position
+of the supreme Brahman.” Sati thus speaking,
+reduced herself to ashes in yajna-mandapa of
+Daksa.
+
+TATRA Srert aI: MTerTaIS AAT
+
+Wadd Uisuaeat frareerlanfaTtg o 1)
+
+TAMA ying hance
+AST AKAAAT ATTA TANG VU
+
+Then at the appropriate time, Brahma's son
+Daksa appeared as the son of Pracetds while the
+goddess Sati was reborn as Parvati to become
+the spouse of Siva. She was bom from the
+womb of Mena, who bestows pleasures as well
+as the salvation. By recitation the aforesaid
+hundred and eight names, Arundhati achieved
+the best of the yogasiddhi.
+
+TRA Taisete STAAL
+BM: FAT A MAEM DT APTA 1g VU
+The Royal sage became invincible in the
+
+world. Yayati achieved a son, while the son of
+Bhrgu achieved enormous riches.
+
+AMIS SAC GAIT: ef
+aval; Wee sea: fatguradaferarqug 311
+
+Thus several of the gods, Daityas,
+Brahmanas, Ksatriyas, Vaisyas and the Stidras,
+achieved success in various ways, in their
+desired wishes.
+
+aAdiectftad fasesat sadtreh
+Toa Wal etiet melfaete wraag XII
+
+Wherever the list of these names is kept or is
+adored keeping it near a god, the misfortunes or
+grief can never reach that place.
+
+sft sired vargur fagayraa
+TATE AT AHA ATT ASST SEAT 1123
+
+Matsya Puranam
+
+CHAPTER 14
+
+Fall of Acchoda from the heaven and her
+redemption at her prayer to the manes
+
+Ut sara
+cite: STAG ATA Ga ANAT:
+Seed Ca FU SAT APATITE 2
+
+Sita said, “O Rsis, the place where the
+manes of the gods of the descendants of Marica
+are lodged is known as Somapatha. The gods
+adore the manes.
+
+SSA Sit Gaal Baral aa Arar: |
+SBT AT VT | APTA Bley ASU!
+sree AG a at: ugha GT
+SHAT T AeA feet UAT TTT |
+BAT: TAT eT: feet a A at acy
+FERTRUET: We PEATATEA CTIA: 11
+
+The manes who are devoted to the yajnas
+are known by the name of Agnisvatta.! At their
+dwelling place, a river named Acchoda flows
+who happens to be the mind-born daughter of
+the manes. The manes had in the earlier times
+built a lake named Acchoda. In earlier times
+Acchoda performed severe tapas for a thousand
+years. The manes getting pleased with the tapas
+reached there, getting pleased in order to grant
+her the boon. All the manes were clad in divine
+costumes wearing the garland of divine flowers
+and their bodies were plastered with the divine
+paste.
+
+Ud Fal Gert: HEAT: |
+aareSTTaR ATT ATAt Tet ISSA Ut
+ad aust we agaredifeani
+ATES FAT AT Saferarcoy ATTN 1
+
+1. Agnisvattas—sons of Marici and Pitrs of the gods
+(Manu-Matsya, Padma) : living in Soma-loka and
+parents of Achchoda (Matsya, Padma, Hari Vamsa).
+The commentator on the Hari Vamsa derives the
+name from Agnisu (a9), 'in or by oblations to fire.’
+
+and Atta (arm:), ‘obtained,’ 'invoked.'
+
+## Page 51
+
+Chapter-14
+
+att q Ae WoT aren
+
+frmreamraqeentiast Ua A at wit
+aut TAT A Hreatarareta fase
+
+PAU ACTA THAT ATHRT TATA C UI
+
+All of them were quite young, valorous,
+besides being beautiful like Kamadeva. Among
+them there was a mane named Ama§vasu, the
+beautiful Acchoda, desirous of a mate, became
+excited and expressed her desire to live with
+him. Because of this mental folly the beautiful
+Acchoda, was deprived from yoga and fell on
+earth. She had never touched the earth earlier.
+The date on which she expressed such a desire
+and Amdavasu, the mane, did not yield to the
+passion, was subsequently known as Amavasya
+tithi. Amavasya is therefore quite liked by the
+manes and the offerings made to them on that
+particular day are heartily accepted by them.
+
+SBA TS GAT Mista ATA: aA
+OT faqaretararea ot MISSA EA It
+
+Acchoda after losing her powers acquired by
+hard tapas felt ashamed and crest fallen. She
+lowered down her head in shame and prayed to
+the manes for her salvation.
+
+facarart faghieqrar qateat
+afaerarciad cada a a Wall gol
+
+SoM: Waray FT
+fafa feeamriitur afeafatenad gat: 11221!
+ae THe FRI Aare
+Ga: Heth Halo Saead WT AMI
+
+Then the manes reassured the female ascetic,
+who had been crying in the lonely forest. The
+great manes, taking into account the future task
+of the gods with the speech filled with delight
+and welfare spoke to her, “O Auspicious one,
+whatever auspicious deeds are performed by the
+people with wisdom in the heaven, they enjoy
+the reward of the same with the same body,
+because the deeds performed in the devayoni,
+
+51
+
+yield the reward atonce. To the contrary, the
+deeds in the human life yield the reward after
+death.
+
+Ae Ys ATA: WT Wer ARTA
+
+area wife wa BITTEN PASAT 23 1
+
+SAHA ION wa He HeTraeay a
+
+TANT AR: HIT aS ASA ex II
+
+Therefore, O Daughter, you will reap the
+
+reward of your tapas in the next birth, after your
+death. In the twenty eight Dvdpara, you would
+be born as the fish. Because of your violating
+the norms of the Pitr-race, you will achieve that
+painful yoni. Then getting relieved of that yoni,
+
+you would be born as a daughter to the king
+Vasu.
+
+HAM YN A AAAI SAT
+UMS AAO YA AATCCTT 84 I
+
+ae 7 seta Te
+Baan ager faviseatt F Gage 1
+Inspite of your being a girl, you shall surely
+achieve to inaccessible lokas. When still a girl,
+you shall conceive a son in the island of Badari
+forest, who would be known by the name of
+Badarayana, besides being the incarnation of
+Narayana, who shall never fail in his duties.
+
+Your only son would divide the provisions of
+the Vedas.
+
+UCaRAISSeH Bt T MARTA VAT:
+fafaacteerrreim ferareet FTN Voll
+
+Thereafter, you will give birth to two more
+sons from the king Santanu of the race of Puru,
+born out of the amsa of the ocean. The names of
+the two sons would be Citrangada and
+Vicitravirya.
+
+SUTRA SMTA TAT:
+Weave fgets wfararan ei
+
+The intelligent Vicitravirya shall have two
+sons named Dhrtarastra and Pandu. Then on the
+full moon day of Bhadrapada, you shall be
+reborn in Pitr-loka.
+
+he
+er
+
+he
+ur
+ld
+Oe
+lat
+‘AL,
+Ns
+
+ly
+irl,
+art
+
+ru,
+of
+nd
+
+wo
+the
+be
+
+## Page 52
+
+knox
+ausy
+
+hts
+
+disa
+enjo
+beer
+
+52
+
+TT Uetadt ote fgets aatswa
+AAMT FT AATAHCTTAT 28
+
+Thus you will be known as Satyavati on
+earth, while in the Pitr-loka you shall be known
+as the goddess Astaka and you will bestow the
+desired wishes to the people.
+
+ufacata Ut are Acted | Taha
+Qua ATES Cte ESTSATAAANI ol
+
+In due course of time, you on earth would be
+known as Acchoda, the best of the rivers with
+auspicious water.”
+
+SOT WTO Ta
+ASHAMG U Aa thet Fated TT
+
+Thus speaking the group of manes,
+disappeared from that place, while Acchoda
+
+enjoyed the reward of all her deeds, which have
+been stated earlier.
+
+of sie wergeit Fogg rm
+ATA MNSEART: 1 2X UI
+
+***
+
+CHAPTER 15
+
+Description of Pitr-vamsa and the method of
+performing Srdddha
+
+aa sara
+faut ara art g fefa aha gaua:
+ciel afenet aa frat: art Waar: Ne
+
+Stita said, “O Sages, there is a loka in the
+heaven, which is well known as Vibhraja, being
+quite illustrious. The best of manes known by
+the name of Barhis! live there. Thousands of
+planes with Peacocks remain ready there.
+
+aa ateoyeAltr fara AeA: |
+
+1. Barhisads—sons of Atri and Pitrs of the demons
+(Manu) : sons of Pulastya. Pitrs of the demons,
+residents in Vaibhraja, fathers of Pivarl (Matsya,
+Padma and Hari Vamsa).
+
+Matsya Puranam
+
+daca afeat aa fasta meter: 120
+PACAMATY Wet HATA: |
+
+Ava SATION TATA TOT: 113 11
+qaramongda sated fafa cat:
+FARA: MARAT TAT: 8
+
+It is the place where barhi (kusa grass)
+remaining present there and are anxious to
+bestow the reward to the people, making
+offering to the manes of their ancestors, finding
+happiness there. These Pitrs are venerated by
+the gods, Asuras, Apsaras, Gandharvas, Yaksas
+and Raksasas. These Barhisadas  Pitrs,
+possessing the great power by Yoga, are the
+sons of the sage Pulastya.
+
+USI AAMT SATA AIT: I
+Waar Matt sea oat fafa fasraTiy i
+
+They bestow safety and freedom from fear
+to their devotees. They live there. These Pitris
+had a mind-born daughter, known by the name
+of Pivari.
+
+AAT area a TIPE TereUTy
+WHA WIAA AL TS | AT SN
+
+The said Yogini as well as Yogamata known
+as Pivari, performed hard tapas by which lord
+Visnu was pleased. He appeared before her and
+Pivari then begged for a boon from Sri Hari.
+
+aa Tad a art fatter
+tfe ta waaed Ut H aadt ATION
+She said, “O Lord, in case you are pleased
+with me, then you bestow a husband to me, who
+should be well-versed in the yogic practice,
+extremely beautiful, having control of his sense
+
+organs, best of the orators besides the one who
+should well look after me.”
+
+Jara Sat aaa STATA AaT Ya:
+Wad TA Wat wa AMI Yaa ct
+Wace Ua HM Seat AM a APTA
+Taga ATT AA TST I
+Wt Tec aa a at: BAM
+
+## Page 53
+
+Chapter-15
+
+POT MT: WY: MMe A YATUol
+
+Hearing this, lord Visnu said, “O Excellent
+one, when Suka will be born as son of the sage
+Vyasa, then you shall be the wife of the same
+yogacarya. By union with him, you shall have a
+girl born to you who shall be well versed in
+yogic practices. Then you should give away that
+girl to the king of Paficala of the human race.
+Your daughter being well-versed in yoga, shall
+be the mother of Brahmadatta. She wu be
+known by the name of Gau. Thereafter you
+shall have four sons known by the names of
+Krsna, Gaura, Prabhu and Sambhu.
+
+Teal Hern ater Ut Te
+MARTE TATA TATA 8 I
+
+They shall have enormous self confidence,
+possess enormous fortunes, and shall ultimately
+achieve the supreme position (salvation).
+
+aaftrd: frat ahaa Yat: yar:
+AAT FAA: Wel Hel F TATA
+waifanifag cag a cara fea: wey
+faURTAT: HlSha BaF srRaTAA 3M
+
+The manes who are the sons of the sage
+Vasistha are known as the beautiful form of
+dharma. All of them dwell beyond the heaven
+in the Jyotirbhasi lokas. This is the place
+wherein even the Siidras who perform Sraddhas
+mounted over the wish-fulfilling planes enjoy
+all the sports.
+
+Taarayag faareate west:
+
+fe UA: aTger fan aid: Feathaat: 1g
+
+Wala Gat Aa FT ara fefa wed
+
+Wes afaat vei Meat alta gu
+
+What to speak of the active and devoted
+
+people engaged in the performing of the
+Srdddhas? These Pitrs were born out of Gau,
+the mind-born daughter of the Pitrs who resides
+
+in the heaven; and happens to be the loving wife
+of Sukra and expands the glory of the Sadhyas.
+
+53
+
+acferrat Area I erat ATUSAUSeT
+faatt aa farsa efreratishet: Bars 2a 1
+Thus in the solar region, there are several
+
+other lokas known as Maricigarbha, where
+Havisman, the son of Angira,! live as the mane.
+
+aswel ad Ya area: |
+Tai F frared SF ar aAHE MAT: 11 V9
+
+They happen to be the manes of the Ksatriya
+kings. They bestow the heaven as well as moksa
+provider.
+
+Udat Ma HIT Agar AreaagzA
+Wet GMAa: Meat KT VST ANSI
+
+werag feces soirafoaret
+
+Clea: AUST ATT HTTATT CAAT: 1128
+
+_ Such of the Ksatriyas
+Sraddhas in the holy places, they achieve these
+lokas. These Pitrs have a well known mind-born
+
+daughter named Yasoda. She was the daughter- .
+
+in-law of Paficajana. She was the wife of
+Amsuman and mother of the king Dilipa,
+besides being the grand mother of Bhagiratha.
+There is another Pitrloka called Kamadugha.
+
+Gear ary fret aa fasta Gara:
+SITT AT AAT HEMT WATTS 2 oI
+
+who perform ,
+
+Te
+C.
+
+—
+
+N° =
+
+Va
+
+pa,
+ha.
+
+Where the Pitrs performers of the best of of
+
+vratas known by the names of Susvadha are
+dwelling. These Pitrs are known as Ajayapdas in
+the lokas of Prajapati Kardama.
+
+Tee gueael avareraaat
+
+TA Mgt: Wa Tahar PITTA: 12 VW
+Wguigugragahadarararsra4nrt|
+
+AAT TANS A TH? VU
+
+O Great sage, that Vaisyas, who had been
+born from the body of Pulaha, adore them. All
+the Vaisyas who are performers of the
+Sraddhas, reaching in these lokas, meet
+thousands of their relatives like the mothers,
+
+1. Havismantas—in the solar sphere, sons of Angiras
+and Pitrs of the Ksatriyas (Manu, Vayu. Matsya,
+Padma, Hari Varnsa).
+
+are
+> in
+
+‘iras
+sya,
+
+## Page 54
+
+bro
+rela
+sari
+
+Pitr
+and
+
+dev
+Bra
+Eke
+thre
+deti
+
+tt
+
+S]
+
+3}
+fA
+
+glo
+the
+oft
+the
+the
+Bré
+We.
+Bré
+res
+dw
+
+the
+flo:
+livi
+
+54
+
+brothers, fathers, sisters, friends, kins and
+relatives of thousands of births, at one and the
+same place.
+
+Wat AAA sea fare ara fag
+OT Ustt AGTAS SMASH TATU 3M
+
+Virajé is the mind-born daughter of these
+Pitrs, who happened to be the wife of Nahusa
+and mother of Yayaiti.
+
+Uaeasrapagreletics TAT at
+TT UA TUT: MPA F TAMIA UI
+
+Subsequently Virajé, who was immensely
+devoted to her husband, proceeded to
+Brahmaloka, where she was known as
+Ekastaka. Thus far I have discussed about the
+three pitr-ganas and now I am spelling out the
+details about the fourth one.
+
+CARY AAA A TaUSrare Aiea:
+
+Qa T AMA HAM AAT ATA FAT 4 I
+array arr fara aa ferear yrgaat: |
+qua: We UAT TAT: TATE
+SUA: TIT FT Teles WT AAT:
+Heal PEMieh Ad AAA Aid Faas Nl
+
+There is a Manasa-loka lodged over the
+globe, where the indestructible manes known by
+the name of Somapa, live. They are the manes
+of the Brahmans, while Narmada is the name of
+their mind-born daughter. All the manes have
+the form of dharma and are even beyond
+Brahma. They were born of Svadha and were
+well-versed in the yoga. All of them achieving
+Brahman, getting relieved of all the
+responsibilities of the universe, are presently
+dwelling in the Manasaloka.
+
+Tet aa Ast | HAM Aaaer Alea
+TA A UTA STOTT 2 oH
+
+Their daughters named Narmada, reaching
+the Daksinapatha became a river with water
+flowing in the same; which purifies all the
+living beings.
+
+Wa: Wa T Waa: WaT: TG Fa:
+Went asia Haha aatrasha waeniee
+
+Matsya Purinam
+
+With the tradition of these Pitrs, the Manus
+engage themselves in creation in_ their
+respective times. Knowing about this secret, the
+people at the time of the decline of dharma
+always perform the Sraddhas.
+
+Wey Wa YA: We Wareraraafery
+faqurenfeat gy sragva aay ot
+By the grace of these Pitrs, in order to again
+revive the yogic traditions, at the start of the
+creation, the performing of the Srdddha was
+brought in vogue.
+aaa Tard WTATaT Trea
+ad tae Ware fasion Waar vit
+For the sake of these Pitrs, in case a vase of
+silver or silver mixed with other metals, is given
+
+away in charity, reciting svadha, delights the
+Pitrs always.
+
+ATTA FT HATTA TT:
+arenas fared woTaty AersmATI; 2H
+AAHUS LAU AT MES AT Meteo
+Papo wars fe Fea OTEATS B11
+
+The intelligent performer of the Sraddha
+during the time of the performing of the
+Sraddha, the Pitrs should be pleased with the
+oblation of Agni, Soma and Yama. In other
+words, the food meant for the Pitrs should be
+dropped into the fire or in the absence of fire,
+the same should be placed over the hand of 4
+Brahmana, water over the ear of a goat, or a
+horse, in cow-shed or close to the river water.
+Sky has been prescribed to be the place of the
+Pitrs. The southern direction has been stated to
+be more auspicious for them.
+
+mrarayad fret: eae Tg a
+SU Aa A US Met HITT TAT N3 I
+CCUCIMIEE ECE NEIL CM IGG Ht
+
+q q T34I
+See Wee fagonirs Maat
+Placing the yajfopaviita in apasavya
+
+position, the offerings of water, sesame seeds,
+
+## Page 55
+
+Chapter-16
+
+Savyanga, green coconut, fruit pulp, cow's milk,
+sweet juice, iron, honey, kusa, Pathina, the flesh
+of rhinoceros, syamaka rice, barley, wild rice,
+kidney beans, sugarcane, white flowers,
+clarified butter etc. are liked by the Pitrs the
+most and should be offered to them. These are
+liked by them always.
+
+PEnfor Unaeait ares ATA AT TEM
+TACOMA TATA CTSA: |
+
+TefaeaAT HATTA AGI SSTAHT: 113 9 UI
+
+4 ta: fagardy wavannfad aa
+ATTA: Safe HATTA cI
+
+Now I am narrating the things which are not
+liked by the manes and should not be offered to
+them in the performing of the Srdddha. These
+include Mastra (lentil), hemp, ripe black
+musturd, black-gram, safflower, lotus, wood-
+apple, sun flower, white thorn-apple, fruit of
+neema tree, Vasa,' milk of she goat, split-
+chickpea, linseed and liquorice should never be
+offered to the Pics by one who is desirous of
+winning their favour. A person who pleases the
+Pitrs by devotion, they shower their blessing on
+him
+
+waraty 4 eats fags: frac
+FoearroTfet At aA A TA: MOTs ANE
+eater frat: Of TAM MATACTA!
+eacnratate wr: Fagard fafgrentiso i
+Saat Ut frat: Yaa BAA
+vihawarercacner fi: great: Fercateer: ts git
+VAM: Vira: Bad fraanfer: |
+TATA: YURI: AAT: YASAAT YI
+Casramafeaed srgea: Tal ta:
+Ua: Barret Faget Ty
+Yue Uae carat Wey TAT 1s Bt
+When the Pitrs are pleased, they bestow,
+
+good health, heaven and children to their
+devotees. The adoration of the Pitrs is more
+
+1. Adhatoda-vasica
+
+55
+
+important them that of the gods.* Therefore the
+Pitrs should be pleased first of all. They get
+pleased rapidly and preserve no anger. They
+cause no harm besides being affectionate. They
+possess the spotless and noble soul, they like
+purity in every respect. They are soft spoken
+and bestow happiness, prosperity to their
+devotees. The sun happens to be their lord.
+Thus I have narrated to you the family of the
+Pitrs and by listening to the same, one achieves
+happiness in life besides all the virtues.
+Therefore everyone should read and listen to the
+same.
+
+sta sitet Herget fagetenqatat ara
+TSSVISEAT AT: 12h I
+
+KKK
+
+CHAPTER 16
+
+Different kinds of Sraddhas, the time of
+performing them, and the qualities of the
+Brahmanas to be invited in the Sraddhas
+
+aa Sart
+gearranfact Wy: Wes cage
+sgearet  fafaet srgve wa agi
+say Marta FF a avat fT:
+
+aferareent aT faye: STEATATTN
+Hered KE Mad Mes T ATTA
+fate cot aad Geet Moret afer
+
+Stita said, “O Rsis, listening to the entire
+narration, Manu asked lord Matsya, O
+Madhusiidana, what are the best times for the
+
+2. They are said indeed by Manu (III. 203), in words
+repeated in the Vayu and Matsya and Hari Varna, to
+be of more moment than the worship of the gods :
+
+aa) Pagar fafseqd! These ceremonies
+are not to be regarded as merely obsequial; for
+independently of the rites addressed to a recently
+deceased relative and in connection with him to
+remote ancestors and to the progenitors of all beings,
+which are of a strictly obsequial or funereal
+description, offerings to deceased ancestors and the
+Pitrs in general, form an essential ceremony on a
+great variety of festive and domestic occasions.
+
+## Page 56
+
+56
+
+performing of the Srdddhas? What are the
+different types of Sraddhas? What types of
+Brahmanas should be invited in the Sraddhas?
+Which types of Brahmanas are forbidden for the
+purpose? During which time of the day,
+Sraddha should be performed for the Pitrs?
+What type of the suitability of a person should
+be there to be given the offerings of Sraddha?
+How does one get the reward for the same?
+What is the method of performing the Sraddha?
+How does the Srdddha please the Pitrs. All
+these details may kindly be explained to me.
+
+WRT TATA
+HACE: Agra? aT
+walgeractalste fag: wifes
+fret Afafaes areal fated orgy
+fret aacraaaht sreatareratstay 1
+
+Lord Matsya said, “O Royal ascetic, having
+faith in the Pitrs-srdddha which should be
+performed offering the water or the food items,
+the milk or the fruits. Srdddha has been
+described to be of three types viz : nitya (daily),
+naimittika (occasional) or kKdmya (optional). Of
+these the first one 1.e. nitya is being described
+by me. It is devoid of arghya or invocation.
+
+aed afgartrararet way BAT
+
+Traut fafa wry Woy araaretatg
+Traut & Freaker aeguper Thera
+usta: citasia frguut: wsafaqiin
+sifra: arargar fafrarrafagnee: |
+Waal Acasa aera: Hera NSU
+TTOTAAT TAT: TACT
+foranmn: agar: qaeratsa Sora: 118 1
+
+The Sraddha which is performed at the time
+of festivities is called Parvana. O Lord of the
+earth, the Parvana-Sraddha is known to be of
+three types. You please listen about the same. O
+Naresvara, I am going to spell out the person
+who should be deputed for the Pdrvana-
+
+Matsya Pura4nam
+
+Sraddha. You please listen. The person who is
+well known in the Pancagni lore, or adores the
+five fires! like Garhapatya, is a researcher, or a
+student of the Vedic lore, or is well-versed in
+the six angas of the Vedas, is a Srotriya, a
+scholar well-versed in the dharmasastras,
+omniscient, well-versed in the Vedas, who is
+the proper consultant, born in the well known
+family, belonging to the noble and spotless race,
+well-versed in the Puranas, devoted to dharma,
+engaged in studies* and japam, one who is
+devoted to Siva, one who is devoted to the
+parents, devotee of the sun, and is a Vaisnava.
+Tava afar fafa a yteary
+aeata tet Mert: TTCATATN Qo ll
+One who is devoted to Brahma, one who is
+well-versed in the Vedas, well-versed in the
+yoga, peaceful, one who could exercise his
+control over the souls and the one who is
+valorous, such types of Brahmanas should be
+invited in the Srdddha. (Now I shall narrate the
+names of the persons who should be offered
+food in the Srdddha.) They include the son of
+the daughter, one's own friend, preceptor,
+
+fate ager aeyfertreanerarrar
+
+Ay Alpert Ae BT AAT AASEATTN aM
+Aaa eA TSF HUTTU TAA: |
+
+AA SAM A ATTHIST TALATNL
+Gad Yord Meg Wea TAA!
+
+1. The Ahavaniya, Garhapatya. Daksina, Sabhya, and
+Avasathya, are the five fires; of which the three first
+have a religious, and the other two a secular
+character. The first is a fire prepared for oblations at
+an occasional sacrifice : the second 1s the household
+fire, to be perpetually maintained: the third is a
+sacrifical fire, in the centre of the other two, and
+placed to the south: the Sabhya ts a fire lighted to
+warm a party: and the Avasathya the common
+domestic or cultnary fire. Manu. II. 100,185, and
+Kullika Bhatta's explanation.
+
+2. Under Niyama are comprehended purity (Sauca),
+contentment (Santosa), devotion (Tapas), study of
+the Vedas (Svadhyaya) and adoration of the supreme
+(1Svara-pranidhana).
+
+## Page 57
+
+Chapter-16
+
+Us WIM: Wao aataraT We3 1
+
+Acarya, maternal uncle, kins and relatives,
+Priest of sacrifice and Somapayi. They should
+be invited making all the efforts and the food in
+Sraddha should be served to them. Besides a
+Soma-sacrificer, a grammarian, one who is
+well-versed in Mimamsa (commentary),
+performer of the Vedic sacrifice, one who is
+well-versed in Samaveda and the chanting of it,
+one who is quite well learned, one who is
+respectable or learned, whose presence could
+elevate and purify the people, the one who sits
+for the feast with him in the same row, the
+reciter of the Samaveda, a Brahmacari, a Vedic
+professor or the one who is known as Brahma.
+These are the sort of people who should be
+invited in the Sraddha feast. When such people
+are feasted, the Srdddha becomes real and
+earnest.
+
+Ufaastapred: Seite: Teer TOT: |
+HAG PATASAT HUSTMCTATAT: 1 UI
+Ufefaharararen Wear eT: |
+
+Sle Tenge ST SATHTST AG I
+
+Now you listen to the names of the people,
+whose entry is prohibited in the Srdddhas. They
+are the fallen people, the notorious ones, cursed,
+eunuches, backbiters, deformed because of
+ailments, the patients, having deformed nails,
+those having black teeth, bastards, bastards of
+widows, tamers of dogs, offspring of a younger
+brother married ahead of the elder brother, the
+servants or those who are attracted for service,
+lunatic, drunkard, mad men, stone hearted,
+cheats, swindlers, the conceited, the temple
+priests etc. All of them are prohibited from
+partaking the Sraddhas.
+
+Seach agree ATA:
+Papigea areca aSTZUIN eG I
+aaaferigt: Walsatgenret Fayre: |
+udeateat fattarcat Fraaaqii got
+
+57
+
+Similarly the ungrateful persons, the
+atheists, dwellers of the Mleccha country,
+Trigankus, Barbaras, Dravitas, Dravidas, people
+of Konkanas and the lingis besides the
+Sannyasis. These should all be particularly left
+out of the Sraddha feasts.
+
+Fatante fort softest crear
+
+SRA West AAISSHATTOTAAI Re I
+
+The performer of the Srdddha should invite
+humbly the Brahmana for the Sraddha feast, a
+day or two in advance, because the manes arrive
+on the particular day and remain with them.
+They follow the Brahmanas in the form of the
+wind. When the Brahmanas take their seat, the
+manes are also seated besides them.
+
+alerot STATE ea aT gy Fahad:
+
+Ua Frat Frat sraatfeagarearqi ett
+aT: Virerat: Wat Taree: |
+aA aE AAT AT AFATTTUMTN 2 of
+
+The performer of the Sraddha, touching the
+right knee of the Brahmana, should pray to him,
+“T am inviting you.” Thus extending the
+invitation, revealing the performing of the
+Sraddha of father, brother and other or the king,
+he should speak. (I shall perform the Sraddha
+on a particular day). Therefore you should
+remain without anger, purified, following
+Brahmacarya-vrata. I shall also follow these
+rules being the performer of Sraddha.”
+
+fagag faraet aunt 7 asfrary
+PHOSTATA HATTA AAT? 2
+
+Thus having been relieved of the Pitr-yajna,
+oblation should be performed. The performer of
+the  Srdddha should perform the
+Pindanvaharyaka Sraddha on the moonless day
+alone.
+
+WReaaferea I sferorraay we
+Me TAS MS aT Tera AHN VU
+
+A sloping place near the cow-pin or near a
+reservoir, should be plastered with cow dung
+
+## Page 58
+
+58
+
+and the Sraddha should be performed there with
+devotion.
+
+airfares We a aah:
+
+faq Freranifa wd aferoratt aq 311
+
+One who consecrates and maintains the
+sacred fire, should cook caru and after offering
+with equal handfuls, should say, “I am offering
+to the Pitrs.” Thus speaking he should place the
+caru to the Pitrs and the rest should be placed to
+his nght.
+
+awed at: HalaaaaayTd: |
+asta qeaaaT: aArat
+
+Salas J Hala lat wrathay
+Ua UV SATAN TTA 2G Hl
+
+JU FT areal a Beret wT Ala
+
+feret: UraTfoT AEray WATTS TTT EU
+Metaraed F Ua eA: Ye:
+
+VAM AE TATA Afar Volt
+
+Then the ghi (clarified butter) should be
+poured in the three plates. The Caru should be
+divided in three parts and one should place them
+in the front. These parts should also be stretched
+to the length of four fingers. After putting the
+sacred thread over the right shoulder, the
+performer of Srdddha, should put a water goblet
+and a vase of bell-metal and meksana,
+sacrificial wood, kusa-grass, sesamum, leaf
+plates, sandal, new cloth, scent, incense and
+
+sandal paste should be slowly placed to the
+night.
+
+Tera WATT F ATSeTA
+AMT: ATT AAA TAAL 2 6 1
+famrott aneraeurerahrral YA: TA: |
+area etary faaraq et
+sTRleanamsva yaya
+
+at ea fagard Areagwaa a3 01)
+aiaadatiswte 7 Halfgent ga:
+
+cand Fraivaes faureaiferr ge: 113 90
+
+oe
+
+aike-s)
+
+Matsya Puranam
+
+Thus collecting all the essential things, he
+should draw a mandala with the urime of the
+cow over the space plastered with the cow-
+dung. He should worship the mandala with
+unhusked rice and flowers. Then welcoming the
+Brahmanas repeatedly, he should wash their
+feet. Then the Brahmana should be made to sit
+over the seat of kusa-grass and should provide
+water to them for dcamana as well as the
+eatables. Then he should get their opinion for
+the performing of the srdddha. A person with
+intelligence should serve food to three
+Brahmanas in the Deva-kdryas or the Pitr-
+karyas. Or alternatively on both the occasions, a
+Brahmana each should be served with food.
+Inspite of one's possessing enough of riches, the
+expansion of Pdrvana-srdddha is not advised.
+Initially arghya should be offered to Visvedeva
+
+and the Brahmanas should be adored
+subsequently offering the arghya.
+ar Haleteet feawfest aenferfer
+TaVAaasy BAY Heat WS AT I
+AHA F HASTA FT: |
+
+afeoreal welt aT @ Wenitafesiery: 113 311
+
+Again the performer of srdddha should, with
+the permission of the Brahmanas, the Carw
+should be placed in the vase of bronze and then
+one should perform homa appropriately in the
+fire. Thereafter the learned person should
+perform oblation for Agni, Soma and Yama.
+Thus the best of a Brahmana who 1s devoted to
+Agni, and the wearer of vajnopavita, with the
+igniting of the Daksind fire, should complete
+the sraddha.
+
+aaa Faet at: wae
+Wetted Head: wa faa vi
+He should perform Paryuksana with the
+sacred thread on the left shoulder and one who
+
+knows all the rites should perform it with the
+sacred thread on the right shoulder.
+
+## Page 59
+
+Chapter-16
+
+Fe A TAHA: VASA AAA
+SASTRY Alter AETATATTATA & I
+Waray Wat Gert SHA faa:
+faara chat det Frahteratsrrq 3 § 1
+aI: Hatent cat Fear ah
+frara fqustches adaeaa ATA 3 911
+
+With the remaining havi, six pindas should
+be made and the sesamum with water be
+dropped with left hand. Then getting free from
+jezlousy, holding kusa in hand, turning the
+knee, draw a line over the pedestal making all
+the efforis or the kusa-grass should be spread in
+lines. Then turning his face to the right the
+pindas should be placed over the kuSa-grass in a
+sequence.
+
+fren sty ata: |
+ay SHY FT Tet PergRATeo OTT 6 I
+
+Then lifting up the pindas one by cne,
+speaking out the gotras and the names of the
+manes, the pindas should be placed over the
+kusa grass one by one. Then for the satisfaction
+ot the manes, the hands should be wiped out
+with the ends of the kusa-grass.
+
+Wag Wat: HAA: WITT
+TSQITATH TATUM: 113 8
+
+Thereafter the water should be sprinkled
+over the pindas as before. Then all the six Pitrs
+should be adored offering fragrance, incense,
+and other materials for adoration, offering his
+salutation to each one of the Pitrs.
+
+Wana aad aaa et: |
+Tarte Ua faaray afaet AUMTI¥ ol!
+They should then be invoked with the
+reciting of the appropriate Vedic hymns. Then
+the one who is Ekagni, or the performer of
+
+Agnihotra, should offer a pinda of rice with a
+ladle.
+
+39
+
+TAHA TMATAASA HIT A:
+Takase HalatatetfarasrTAy git
+
+After completing all these procedures, the
+performer of the Srdddha, should offer food for
+the wives of the Pitrs. The process of invoking
+and Visarjana! should again be repeated as has
+been done earlier.
+
+Aat Fela fAuSeay AAT: Hal: HAUT TI
+AS FAM WISTS ATS 2H
+The performer of the Srdddha, then picking
+up small portions from the pindas shall give
+
+them to the invited Brahmanas for eating, first
+
+of all.
+AMAeategat Atat waraer FETA: |
+AAU TAT PATTY 3
+
+Since the portion of the food taken out of the
+pindas is consumed by the Brahmanas on the
+moon-less day or Amdvasyd, therefore this
+particular Srdddha is known as Anvahdryaka.
+
+Ue ral J Tat Walaa freer
+aust weeda Taearah FATS XU
+qutinaed fire ut a aden
+FTAA SATAN STUY GU
+
+The performer of the srdddha_ should
+initially offer the ring of kusa-grass with
+sesamum seeds and water in the hands of the
+Brahmana and then the portion of the pinda
+should be offered. Then uttering the phrase,
+“Let it be svadha for our Pitrs, the food should
+be served to the Brahmanas. Then the
+Brahmana, discarding anger, remembering the
+name of Narayana, should speak out, “It is quite
+
+sweet, It is quite auspicious,” and then consume
+the food.
+
+1. A rite in which the life given is sent away and the
+idol is thrown away. These two peculiar religious
+rites distinctly show that the Hindus do not worship
+the idol but the spint which they temporarily invoke
+in that idol.
+
+## Page 60
+
+60
+
+Taare Wt: HaAliefaraaatoreay
+Wek wagers Ofer warteyfanis & 1
+
+Pleasing the Brahmanas, the host should
+place food on earth, with rice and water for the
+use of all other classes of people. This is called
+Vikira or scattering.
+
+AATY FACTAATMAA TAT
+Tateraraaé ad frost aaretqivi
+Ca WeHalat ASATNS AAT TIT
+fAQTT TeoTteteaat Hea Wefeorqs ci
+
+After the Brahmanas rinse their mouths, the
+host should drop the water, flowers and
+unbroken rice over the pindas and the reward of
+the Sraddha should then be dedicated to the
+lord, otherwise the srdddha becomes impure.
+Similarly, after going round the Brahmanas,
+they should be sent off.
+
+afar feyrmrang haart Ara:
+aa Asada Aat: Pafta Aue it
+TSI A Al UT aragag ea a atsfeafe
+ata BT ag Taaheaigs THATRIIG oN
+
+At that point of time the performer or the
+host, facing sought, should humbly pray to the
+Pitrs, “Let there be increase in our giving of
+charities, study of the Vedas, the progeny, our
+faith in lord should never diminish, we should
+have enough of niches for performing charities,
+we should have enough of cereals, crowds of
+guests should always visit our house.
+
+Maas A: Gy AT a Alera Her
+Unefeatt Tamrael YF WATT VII
+
+Many should ask favours from us, but we
+should never beg from anyone.” The
+Brahmanas should speak out at that time, “Be it
+so.” Thus the Anvaharyaka-srdddha also known
+as Pdarvana, which is performed on_ the
+moonless day has been completed. This
+Sraddha can be performed in other tithis as
+well.
+
+Matsya Puranam
+
+areca agente Farrer
+
+fausieg rafal seer Bershs ary VI
+famrrat or fafatgartretrargrerd
+
+Ue F wert frog wrprefgreniaaiy 31k
+arena frat mae Maa
+
+Trageant faeratem faatstar: ty vu
+
+After the concluding of the srdddha, the
+pindas should be given over to the cow, a goat
+or the Brahmanas. Or alternatively they should
+be consigned in water or fire. They can also be
+given over to the birds for eating in the presence
+of the Brahmanas. The middle pinda out of
+those should be consumed by the performer's
+wife herself saying, “O Pitrs, you kindly get me
+the conception for the increase of the progeny.”
+With this desire, the wife of the host should
+herself consume the pindas with all humility.
+The host should remain standing till the
+Brahmanas depart. He should then perform the
+remaining rites.
+
+avaed aa: Halfagd Trgaaton
+Se: We Ad: MAN oats PAPA TY GI
+
+After the Srdddha rites are over, the host
+should make and offering to the Vaisvadevas,
+by making oblation in the fire and then he
+should happily enjoy the company of his
+friends; concentrating his mind towards the
+Pitrs.
+
+(Aaa AAAS
+MEP EISAT TAA AT I & I
+
+On that day, the one who performs the
+Srdddha as well as those who participate in the
+feast, should not take the food twice. They
+should not go out of the village, after the
+Sraddha is performed. They should not use any
+conveyance, nor should they unite with their
+WIVES.
+
+Trad aeé aa fearact a aden
+ana fafert arg Fregrae Fataiy ot
+
+The recitation of the Vedas on that particular —
+
+## Page 61
+
+Chapter-17
+
+day is prohibited. The host should not pick up a
+quarrel with anyone on that day, nor should he
+sleep during the day. This is the manner of
+performing the Srdddha.
+
+SMSMGIASH AUIAT Tala
+GA AI Welded AUS TH TOTAT
+dart faa eaataaat eri
+
+Thus the Agnihotri should perform the
+Sraddha in the dark fortnight of the month,
+when the sun is in the sign of Virgo and Taurus.
+Whenever the Sapindikarana-sraddha' has to
+be performed, then also the above process
+should be followed by the one who adores the
+sacred fire.
+
+oft street teres Perea eS ATEN aT
+UIST SEATAT: 11 2E A
+
+** *
+
+CHAPTER 17
+
+Performing of Sraddha for achieving
+prosperity and emancipation
+
+Ua ave
+Ba: We Waaaa faa aeeiheay!
+Mg AAT ATT RHPA gH
+
+Sita said, “O Rsis, hereafter, I shall narrate
+about the Sraddha which bestows pleasures as
+well as the emancipation and had been narrated
+by lord Visnu himself.
+
+ar fay at ares ura
+ATTACH UHSING ANU
+SURAT SONY FETAL TA
+Tararareadard faftedgirarati3 i
+AMG TAMA ATH afdaes a
+UHM A AT AMA FT ASM
+FMEA: WM Val TAMA aT: |
+AM Weadtet a ee arg fasnratiiy i
+
+1. The Sapindas or those connected by offerings of
+cakes to common ancestors.
+
+61
+
+When the sun is in the equinoctial and the
+period when the sun passes from one zodiacal
+sign to another, the period when the planetary
+body passes from one Zodiacal sign into
+another, on the Amavasya or Astaka of the dark
+fortnight, and on the fifteenth day of the moon,
+the period of Ardra-sixth, the Magha-tenth,
+Rohini-fourth lunar mansions, the presence of
+materials and Brahmanas, the time of
+gajacchaya, the day of the full moon, or on a
+Monday, the days called vistis, and vaidhrtis,
+the third day of the bright fortnight of the month
+of Vaisakha, which is the anniversary day of
+Satyayuga, the ninth day of the bright fortnight
+in the month of K4rtika, the anniversary day of
+the Tretayuga, the fifteenth or the full moon day
+of the month of Magha- the anniversary day of
+Kalityuga, the thirteenth day of the month of
+Bhadra, corresponding to the August-
+September- the anniversary day of
+Dvaparayuga are the periods and occasions,
+when by performing of srdddha, one gets bliss
+and exhastless merits. In addition to the above,
+on the anniversary day of the beginning of the
+Manvantaras, as detailed above, the srdddhas
+can be performed.
+
+WIATAGSACHaAA Fay eAteles TAM
+GAA VAM TAT AIGUST ANE HI
+WITT AAA Utrera g Ta
+ATS SMA ATTA ATA 9 1
+
+On the bright ninth day of the month of
+Asvin, on the bright twelfth day of the month of
+Kartika, on the bright third day of the month of
+Caitra, on the bright third day of the month of
+Bhadrapada, on the moonless day of the month
+of Phalguna, on the bright eleventh day of the
+month of Pausa, on the bright tenth day of the
+
+month of Asadha, on the bright seventh day of
+the month of Magha,
+
+TATA FIT AaTssuTat A yor
+altel GIT cal Sasusreet faa
+WAAL SARE Cee NSH
+
+## Page 62
+
+62
+
+QE WAATAISSeY TTA Fea: t
+TATA AAT ATT ATSAATUT IS 1
+
+On the dark eighth day of the month of
+Sravana, on the full moon day of the month of
+Asadha, besides the full moon days of the
+months of K4rtika, Phalguna, Caitra and Jyestha
+are the fourteen fithis, of the fourteen
+Manvantaras and the srdddha performed during
+these tithis bestows everlasting reward. When
+the initial tithi of the month of Magha, falls on
+the seventh day of the bright fortnight, then lord
+Sirya mounts over his chariot. That day is
+known as Ratha-Saptami.
+
+ureregy fret first
+SEMA: Wa ATET: IN
+Meg Hi vA AN: aa
+TWRUNAART Taha I
+In case, during this tithi a person, making all
+the efforts, offers to his manes, a vase filled
+with water and sesamum or performs oblation,
+he achieves the reward for performing the
+
+Srdddha for a thousand years. The secret of the
+same has been told by the Pitrs themselves.
+
+AMAMTTTNG FaeAETCTA
+Tatarrrney Sturryey Tee
+fafermyuferaty srg Sa fac
+fanaa ut unig, fadtaren Frerqeei
+
+The intelligent performer of the Sraddha,
+should on the full moon day of the month of
+Vaisakha, during the solar or lunar eclipses, on
+special occasions, during the Pitrpaksa, at the
+holy places, in the temple of the god, or in the
+cowpen, lamp house, in the orchard, or a place
+in seclusion plastered with cowdung, perform
+Sraddha with dewotion. A day or two earlier to
+the srdddha, one should humbly invite the
+Brahmanas who should be humble, noble,
+virtuous, beautifiy] and quite aged.
+
+Wea aaa aa
+at da Fiera for wenger aT 93
+
+Matsya Puranam
+
+During the Devakdryas, two Brahmanas
+should be invited, while in the Pitrkaryas
+number of the Brahmana invitees should be
+three, or alternatively one Brahmana should be
+invited in each case and served with food.
+
+TATA AIST F wasate ferett
+fread: YoTats SMTTAH TI YY II
+
+Inspite of a person being financially well
+off, there should be no expansion. At that time
+offering seat to the Visvedevas, they should be
+adored with flowers and barley. Then keeping
+two terracotta vases, the kusa-ring should be
+placed in the same. Then the Brahmana invited
+for the Daiva Sraddha should be attended
+offering a seat of barley and flowers.
+
+: iy _ |
+Vt At cae: Hales SarAA ey
+Tay dye ayaed wit =A
+faya tara seamararara fafeterar 26 ti
+TQM ot aera
+anal TVATATS Higa WATTATI Vy 1
+
+Two vases should be placed with Kusa rings
+and water should be poured after uttering “Om
+
+Sanno Devi” etc. Flowers and sandal paste
+
+should also be dropped in the vases for
+
+Visvedevas uttering the mantra “Om
+
+Visvedeva” etc. who should be thus invoked
+
+pouring the barely at the same time. After the
+
+flowers and the sandal paste are offered, the
+host should offer Arghya water to them reciting
+the mantra, “Yadivye” etc. After the conclusion
+
+of the Visvedeva worship, the adoration of Pitrs
+should be started.
+
+Suet Y aratsset aftr oenfor Wea
+Aufaafer Heanssel Bi at satera: fardqgei
+farisaifa frerpateregented yA:
+
+Usd SARA Ta UOT TANS
+
+West AST Halt TAT APTTAAAT
+
+Saat Tart arse Faq UTt ATTA oN
+
+## Page 63
+
+Chapter-17
+
+In the Pitr-srdddha, the seat of kusa should
+first be offered. Then three Arghya vases should
+be readied and the rings of kusa-grass should be
+dropped therein, reciting the mantra “Sanno
+Devi” etc. Reciting this mantra, these vases
+should be filled with water. Thereafter reciting
+the mantra “Tilosi...' etc. the sesamum should
+be poured into them. Then pouring the water
+into the vases, the fragrance, flowers etc. should
+also be offered. The vases used for the purpose
+of the Pitrs should be of wood, or the tree
+leaves, or the leaves grown in water or the
+ocean. Or alternatively they should be of
+conchshell, gold or silver.
+
+THE SM AST att AAA aM
+THAMTTALETATAT Tata 112 2
+
+TAT HRA STATA THETA
+aNSeATS ATS FUE UTT Tat ATTN IH
+fread Tadtaraagacenry |
+
+SMAge TIE SATAY ATATI 3M
+
+In case one cannot afford the silver vase,
+then the worshipper may give away a little of
+silver.! In case he cannot afford it even, then he
+may simply look at it or merely mention its
+name. By offering even the water with devotion
+out of the silver vase or the vase of alloyed
+metals, the devotee gains everlasting bliss. The
+silver vase is the best to be used at the time of
+offering libation of pindas and of food to the
+Pitrs of water. Infect silver is said to have
+emerged out of the eyes of Siva and was
+subsequently appreciated by the Pitrs. But it
+should not be used at the time of the Deva
+
+worship, because it is considered to be
+inauspicious in that case.
+
+Ud Wala MHeer Bares faacay: |
+
+ar fecata faqaia mated aq wi
+farararefaeatr afedeqerg t: FA:
+SUTRA TATSSAY VATA ASAT AN 2 & UI
+
+Thus making appropriate arrangements for
+
+1. The notion originates with Manu, III. 202.
+
+63
+
+the vases as per one's own means, getting free
+from pride, holding Awsa in his hand, the
+performer, should recite the mantra, “Ya divye”
+etc. and should also recite the name and gotra of
+his father, place the vase on earth saying, “I
+shall invoke your Pitrs.” In reply to this the
+Brahmanas should say, “Do it.” After uttering
+of these words, the mantras like “Usantastva”
+and “Ayantu nah”, the Pitrs should be invoked
+through the Brahmanas.
+
+OT fea TANNA: |
+Sega Ta TAT MAAMMAAT UE M
+fagura Fara orqatat TAT
+
+fap: write Rare ofa 2011
+aaa yaarnaratrenrel faucet: |
+SNATAT FeMVATATSeT UAT ATI c 11
+Wadkerd: Aad SHUTiUTTeTTT:
+
+Toned: PUM AeA ag TT: 12 8 1
+a J Takeit Mat weaakaay
+
+ara wtonft a wathagheane S97a:113 of
+
+LS
+
+Then reciting the mantra “yd-divye” etc.
+Arghya should be offered to the Pitrs, besides
+the fragrance and flowers etc. adoring them
+drop it in the vase of Pitrs. Then the vase should
+be kept upturned before the pedestal; reciting
+the mantra, “Pitrbhyosthanamasi’ which means
+that the place is meant for the Pitrs. Thus
+uttering the mantra, water should be poured
+over it. In this case as well, one should perform
+the fire rites as explained earlier quite carefully.
+Then carrying kusa in his hand, the performer
+with a peaceful mind should serve the
+sumptuous food including pulses, vegetables
+and several other dishes, which should be
+brought by him carried in both the hands. In
+offering food, curd, milk, clarified butter of
+cow's milk and sugar should also be put in the
+dishes. The Pitrs are exceedingly fond of flesh.
+This has been stated by lord Kesava.
+
+at arat aeearnies Fare a
+AION AGL: WHAT VST S13 2H
+
+## Page 64
+
+64
+
+TOMS BMA Talhd Facer
+
+AA WAM AT TATU F113 21
+
+ae Tag Taha aeeAeaiae: |
+VMTSNTATAT AAMTE HT F330
+dant 7 Walt Waar Waa
+
+Tea a Fara wrarws FN VI
+aor aia aftretegranttent
+alee UA Geared da fs 4
+Fesferarefiet sheitt |
+enmaraiaeag: frat: Tae 113 GU
+
+The Pitrs say that the offering of fish keeps
+them satisfied for two months, the flesh of deer
+for three months, mutton for four months, the
+flesh of birds for five months, goat's flesh for
+six months, Parsat's flesh for seven months,
+Vena's flesh for eight months, ham and buffalo's
+flesh for ten months, hare and turtle's flesh for
+eleven months, cow's milk and rice cooked in
+cow's milk for a year, the flesh of Ruru for
+fifteen months, lion's flesh for twelve years,
+Kalasuka's (pot herb) and flesh of rhinoceros for
+a great number of years, the cow's milk mixed
+with honey and rice cooked in cow's milk,
+clarified butter made of cow's milk offered even
+in small quantity, satisfies Pitrs, the
+Pirvadevatas, to the maximum possible extant.
+
+as Tea TUOTaaenT A
+TafawaqHag Yeahs fataenfr A391
+SATA Ta Tag iHT
+FHA AHHASATT AAU CI
+ae VIPAT UATE
+
+HUSH TAO TRAN TF AAU
+famrormreragaa aad WyaT|
+Ya AY Usa FIN ok
+Adafttarar witasswerer arto
+AGAMA fatentayranns vi
+afraang & iar tsa: set wT
+
+Matsya Purdnam
+
+Yt Sat TARY War UTA TTS IH
+Qa A Ue Ft fae + ay-
+
+4 mage aasaateT
+aaasa ya SrA
+WARY Hay YET TAT?
+
+The Pitrs are the supreme divinities of the
+householders. Therefore at the time of srdddha
+the recitation of Pitr-sikta, all the Puranas, and
+the siiktas relating to the Brahma, Visnu, Sirya
+and Rudra, besides Agni, Indra, Soma,
+Brhadarathantara, Jyestha, Saman with Rohini,
+Santikadhyaya, Madhu Brahmana and Mandala
+Brahmana and other similar types of loving
+Siiktas, or Strotras should be recited by the
+Brahmana or by the performer himself. After
+the food is finished by the Brahmana, all the
+items of food should be brought and placed over
+the earth before those who are required to take
+food saying, “Such of the living beings of my
+race, who had been cremated in the past, or
+those who could not be cremated, all of them
+should get pleased with the food spread on the
+ground and achieve the supreme position
+(Salvation). Those who have no mother or
+father or brother, whose gotra has not been
+purified and those who do not possess the food,
+for their satisfaction, I have scattered the food
+on the ground. All of them should go to the
+heaven like my Pitrs for enjoying all the
+comforts.
+
+—— , Fry
+Sfeoreurnea: wet fafatatya a: 1x vi
+Similarly such of the brides of the race, who
+met with their death without purification, or
+those who had been discarded by the family, the
+remaining part of the food or that part which
+
+has been stuck to the Ausa-grass, is meant for
+their alms.
+
+Tanah AAEM TAM
+TUT METS AMP ASTATOTS & I
+
+## Page 65
+
+Chapter-17
+
+Then finding that the Brahmanas have been
+satisfied, the performer should pour water over
+their hands, Then the kuSa-grass should be
+spread towards the south appropriately over the
+ground, which has already been plastered with
+cowdung and the cow's urine.
+
+Freres aut Fea ferere FTO TTT :
+ada at fusteg Prgaqaqiis «lt
+
+Then the performer of the Sraddha, reciting
+the name of his father and his gotra sprinkle the
+water over the pedestal of kusa. Then he should
+place the pindas made of the several types of
+food over the kusa grass, as was done in the
+case of Pitr-yajna.
+
+sega J AAT Aa: |
+
+THU TAHA WATT 9
+ararea Tat Wat uiforaisa weterore)
+fruity acne fatercrestarforanis 21
+
+The pindas should then be adored offering
+the fragrance, flowers etc. sprinkling the water
+over them. Kneeling down, he should then
+adore them with folded hands. Then holding
+kusa in his hand, the Pitrs-yajfia should be
+completed appropriately.
+
+AMSAT TEHAT ATE TT:
+WASSUP ASST AT TENTH AALS 8 I
+The intelligent performer of the srdddha
+
+should light the lamp as prescribed earlier and
+adore the pindas with flowers.
+
+BT YATRA HAT TT
+After ANAT SETA FT STOTT 0 I
+
+When the Brahmanas have already rinsed
+their months, he would rinse his mouth himself.
+Then he should, placing the water, flowers,
+unbroken rise and sesamum seeds over the
+hands of the Brahmanas, offer daksinds to them
+according to one’s own means.
+
+Tyfetoaaraire wens we eT
+cereaas famrorarer: rata as vt
+
+65
+
+Again, discarding miserliness, pleasing the
+Pitrs, he should give away in charity things like
+the cow, land, gold costumes, beautiful beds, or
+the things in charity.
+
+fanoraat ted: fogs: wifes
+Wd: WMA fayeay aaaqNy UI
+Thereafter reciting Svadha, the intelligent
+performer of srdddha, facing the east, shall
+
+offer water oblation to the Visvedevas and
+receive blessings from them.
+
+Sasso: Mis taeasA: Weyl Fa:
+sat: frat: We Bia: Faery 31
+He should at that time tell the Brahmanas,
+
+“Let our Pitrs be comfortable.” The Brahmanas
+should ten repeat, “Be it so.”
+
+Ta wa ada THT A: TA:
+ata arstradeafats Aas IG wit
+
+Again the host should say, “Our gotra
+should flourish, and the donors in our race
+should prosper.” At these words of the host, the
+Brahmanas should say, “Be it so.”
+
+Ua: Veni: Wy Aas a: FA:
+Taferararrh Halervsrygrea fea &
+seq J arSeratem frais: |
+
+aat Tea walfefa enlorafeatt: yt
+
+The host should then say, “Let the blessing
+come true.” The Brahmanas should say, “Let
+them be true.” Then the Brahmanas should
+recite the svastivdcana. Then lifting the pindas,
+he should perform the graha-bali. This is the
+limit of dharma.
+
+TST YPMTTA TRIAS STAT TT
+
+STAT Aa MMT TeATT IG OH
+Till the Brahmanas are sent off, all the
+things become the left overs. The left over of
+
+the faithful and those devoid of deceitfulness
+and the food scattered on earth in connection
+
+## Page 66
+
+66
+
+with the Pitr-karya, forms the share of the
+servants, as is widely believed.
+fagietd yataarearet wer
+ATAU AYATOT ATTA TATA 21
+O Naresvara, the oblation prescribed by the
+
+Pitrs is also useful for those having sons or no
+sons besides the ladies.
+
+aaead: fear uftyenenrray
+
+aS aT Sher AAMT Fer ATA TY 8
+
+ale: Net Haters
+
+agate ated: Taratanrat: 18 0
+
+Then making the Brahmanas to stand in the
+
+forefront, holding the water vase in hand,
+uttering vdje-vaje the Pitrs should be sent off
+from the tips of the Kusd-grass. Then going out
+together with the kins and relatives he should
+follow-up to eight steps the Brahmanas and
+should then circumamublate them.
+
+frgea wforocaea wdeatia waa
+
+aed weit Aer aera UNE VI
+
+TY Aart WYATT: |
+
+Youlaidadge: Wa fagraraTS 1
+
+Returning from there, he should offer his
+
+salutation to Agni, he should perform
+Vaisvadeva and nitya-bali. Finishing — the
+Vaisvadeva-bali, he should take food with his
+
+servants, sons, brothers relatives and the guests,
+with all the items and padarthas.
+
+Urearqriash Haraady Wag
+MG MAU A WaAAHISANG 311
+
+This Pdarvana-srdddha, bestows all the
+desires, and can be performed by a person
+
+without having the sacred thread, on the
+occasions of festivals.
+
+MaAlfaanseraraenshs WTA
+VRS AAHAST PAA FTE VI
+
+The intelligent person who is devoted to his
+
+Matsya Puranam
+
+parents, but having no wife or when he ts in
+foreign land, can perform this srdddha. Even
+the Siidras can perform the same in the
+aforesaid manner, even without the reciting of
+the mantras.
+
+qiiaangetas searg AgeA
+THATTAAL ARSTEMGARCTUIE &
+
+Now I am going to narrate the third type of
+Parvana-Sraddha which is known as
+Abhyudayikavrddhi-srdddha. This srdddha can
+be performed on any one of the festive
+
+occasions or the joyful occasion, yajna,
+marriage or on any other auspicious occasion.
+
+WA: WOT Waa: Poa
+Aal ATATAT Waa eAT AAAS ANG & 1
+
+In this Srdddha initially adoring the mothers,
+the Pitrs have to be adored subsequently.
+Thereafter the maternal grandfather, and
+Visvedevas are to be adored.
+
+Weferanrecr see |
+mena fetfavergdar a asttarqig oll
+
+The host, should, facing east, perform the
+circumambulation, should offer to the pindas
+curd, unbroken rice, fruit and water with kusa.
+
+AANA SMe FART:
+aay faa: Te Tera AT: 1G 61
+
+In this Abhyudayika srdddha, the mantra
+Sampannam should be recited and arghya
+should be offered to both the types of Pitrs. At
+
+that point of time, the costumes, gold and other
+things should be offered to the two Brahmanas.
+
+faemeled aa: cal APSHA:
+Tees a vation arerafgryra: 116 81
+Uttering the word Nandi, barley should be
+substituted in place of sesamum. Then all the
+
+Brahmanas should be made to recite the welfare
+mantras and other stotras.
+
+Ua PRIS BMTaghgaregsht Wetan
+THER TAU HASTAAT: AATI9 ot

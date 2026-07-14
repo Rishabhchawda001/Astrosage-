@@ -1,0 +1,4110 @@
+# vimanika shaster
+
+**Document ID:** DOC-5885744E4931
+**Language:** unknown (unknown)
+**Pages:** 368
+**Class:** scanned_image
+**SHA256:** `5885744e49317ee1204f35e1e79e222a7f3ee0b948bd1dc20dd62d92ebc67b74`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+faagerarenget xe
+egitim —yeriet_te
+
+neha
+geq faaraaret
+waig
+
+arfiararanaa “arate” sara
+afatarrapamerzateatea “Gara waa”
+faa #—
+gqurera Farerawant aor Rarer ere ( aitere—firett ) & aoc men ( efeafrae) cea ord er Tat
+Sige &, ma verfeurn me i anc gee @ SF Gea aft © seaqta set &
+site sre % frnrdtere fier ag srenait & ce wate sae are et
+arertite Tarif eat, af Farga, 0%, TH, Geant wer meat
+sgrafadt & ak ata saat & cet Se ad water
+sata fra faa sagt ak sas Te ents TET
+ete nfrnras sraares sift at % ees ae aga,
+waa, get, Page ont Fan Peart et wept
+oar aia t 1
+
+eeues CF AINE
+
+art acai oars
+gepasinel (afizi)
+
+wraya I
+aeparitel
+RTE
+
+artafrs ard afatity at
+aaa aaa, ak feet &
+
+aera Rote fre
+“oS - geet tate fe { acme
+
+## Page 2
+
+auth ta, aRavis, fede Ht gfe
+
+## Page 3
+
+warata fates
+
+wd 078 fatty aetine wrdatafate ame ate a waht weatset
+a are eat 8 ge ver FamraTrer arene a aa B aE eA wT ET TR
+eat gamer & 1
+
+ae we fasta —fenifens rao eat & afeqel & fait se fact at eat
+aeaar & Fata ong Ei caer H faarat  agdews ver, aval, sx fan
+sive ayaa % Fafa seat & ada Scene aga reat en Ge fa at | EAT
+fora dt ae wea wafer She Para % Ba H os att atha at ene faz Bar |
+
+ara Hane gees Fran ar adda Fear & aftedt git witaeerar site
+white TA ae saauT B ger 2a ww wAAT aa At | wTEAAS see
+H sa Rane wed ana Baris weld qaeg ARTS ava we ea faa
+Aaa & ste wet afer wer “atafemeayfen” Hoe me ga rea e
+sade fear at Aanfaet a yeaa: qeara fazed a fea ager 1 og aia
+fagra site aeafaana a sat sit gala geet at mele gare & ert sranfiowar
+site arta ana # ga fran qai favre Mt aearaara’ sfaatea et ad sie 3 safer
+ane Fag faite cota Prediat & oekt H ea davaanalt Ft few gee eee we
+Fad fae gx —
+
+sega arta area oe Farr Har se oat Eve 3a HLA Safe
+Bei sears weye mer E faa Ha Baa gel haa & fee A sea) adios aera ae
+E vafeg sx eval wr att afer Feat nar fart wat fama Hae snoa Feat
+Xi fase, Rewer, eArgea Caner (eae ser ) we wa A At zor safest
+ara acta eet 1”
+
+waite ea Hoge wyst Hangar S aafeoen aaa Ewa
+save ge Fara rere Heh at aa aerate Aw Ta Fama <_srafigear
+she matt carer & ereasit aera BT eee GOT TET |
+
+etd aegrarga sega nee Faaken ageregh wear aah: | arti age aT
+
+## Page 4
+
+i)
+
+aaradereveg” wits H ea fear a acer 8g wera me 1 segs vaca acer Hehe
+cramer @ es eoreat a fe Fy ee ae Reel at ger ae earafear wT eT
+veara oe Bat Bache he way waren a aT? fea ere Ge mT A ae CTT
+@ tefews foe fraarfa to Aice aS oe Tir | Exh vee ae
+Prrafearienes wget ste wafavert tae Reo vera wt |
+
+2 end wagfa at Prorariog Ofte seqeeara a paar ard ec oe Eh ge aT
+sa aif gata eral ar grat fait fae ted ana she fase & waa
+wfterd {1 aiting aan oc aad ela pu ef ea Ewa al sae wae wait B
+soma eater rat, ca reg et gar A te a serfna Ge or facafinere weAT
+ra ae SPY eae se ate wr afera Fear site ma sep Fear EL
+
+a erm er sage at eA aN Ea wef A wa AE
+eer gE GE sr E ar CaN iter a I ear aT sLEUTE
+3 a ace al ere rg seat eA wee H BAH a ea |
+
+eon area Bre ae ree ed Rae oCATE Ht SE aT EE TT
+srs faite wise Ci way Free efor RE ces Reo ACE RT
+asd oem Fear & a cart. ew shee BY aera fra Gla | saree TTT we Fe
+woe Ache, eat & ea os wt gafea wT wor?
+
+aay aaa, Uaeter Hara, aaa
+sara wet
+rite ait afar aan, Fret
+
+TTA 3-2-geUE fo
+
+## Page 5
+
+ariferaren er gue fra stanza fea od deff @ Rt, ga:
+merrat ata % “aargaraN” wu Het ge a see Te Fea Re Ey, we a
+Mgfeaeren” #8 Pears @t sat srt te | ee Fee wt Freed Corea)
+ot quaaear Eset geawwanccere Hae sega weer A area fee | wd afi 3
+‘sae set er stereo B wits tr eat r— ewe gf B sree tort, a A
+‘arse ga nar Haat sae dat E—
+
+afearanarent aft we IRI
+
+arreat corre afer tit
+
+(agencies t)
+
+aiegat at adtgie, cereefawiet:
+
+fanaa afaat atarnfaafos yi
+
+ares sera wr fear eft afi zen
+
+area varaen genta var 1
+
+a Frater mare cawaiferteary |
+
+ken eqere ate femia TaT ge |
+
+Ataferefrg ad tc Freee
+(aire wo ereeto Yes)
+tt ayaree ngfeeg erafemgeg frre eet
+Sct carreras onermeTeng ae wuflnge
+(avengers watts ate)
+
+© steer fear at piatongtgar 1
+(gfereerats arate X«)
+
+## Page 6
+
+=]
+
+wen agaeiteetr afrafea: gett
+(afeeere)
+ran aefe nef at 3 asin et eet Pet ar ear enftosre HA at
+nah five ot 9B aguiiea ar sifees gor fea wet Ci aciveds aganes
+ont Bad Rearserarat sari aed oF" (Ro 2102) SH oT TT aT Egat
+fart cen san 8¢ EL avila oaTengw 7 A aguerE GER E Maar et
+aemneafeceta” (wegotaiteo) ark eae dra site aoa wae dewet eet et
+ser we mat B ae RR ark Feet se > Ae Aatgo) FaPecar aY seed
+ae wear & 1 ea oe ca wegA Paar Bate aL TRG Eee REGIE RA
+eB Param wr mrFtente Fear B faiber azereght wert nerata | aaah age
+vexerbene rag” (gfe {o) wUaT RIAA Ty aa a faiaa wee aRaaER”
+soe (Farrer G6 mia ae Rela Beey E) Hea H Fawr fear eRe H feara
+gat & fearae wae wes F, eereeend Zt a wer ae ga wt E—
+aa ad) dar ccxefetter saary |
+fer aa aafeat. (we tranie)
+A srerait set ge ofeat & eer A saat Fae aatemventta tate
+Be fama araet E
+aah gsogafeadtent ofa a efeaengat carzr
+apa frecifrcatetzeteaty
+[xe wets]
+anfee 3 arava arava ary ata (aera) saaegt & senaqe Ags ® wre,
+ee gen Renew sy Hy wet eT aT aE ge A ale dre tar Ea za
+araresre 1 sftedt vin ste cama at lesan xaercettia aaaal svattaat?
+coven H schon tens B ara eet Ever a art E
+aqemrer afer oe ae rg
+sie aad
+[xo urerte]
+sara ee-famra A aet H aor sea ae aD ite aE A wa Loafer
+oat 8 sant Fad tweet afoul faafeza weet Et Pe Sat afte” sree
+gat
+
+1 age oer” sfrts 218)
+
+## Page 7
+
+te
+
+seh ere ‘arnt, Preytan, frgn ata, rete! aie feitedt & ge
+Rearaeracias sea wi we E 1
+
+eft oft tenet A athe ah Peavey # ga oa H erat Een ex are
+RR ma” (seo igo), “AAT ax wad” (AZo Lee) CH Be mTOR aTA
+antl
+
+at Qafaesey “aaaiea” ou a oe am & frat ta A wafers
+yo wey Saeneea” mea caf neh agra AAR ea Aanfaw sea
+a afer wef eer Hah wear 8 GG Parad ave & cafaer_ sea
+ait gt € 98 arraaala, cias,a4, aaecia, werafingfeeane aife ane fearaafezes,
+ataaraaea, wae, aah aa, salvarsan | ga Falaas meat
+i eater Ay Fear & aatt ata Feevest, orm, wg, wa we Ge EE |
+
+ag doulas set” = seard too sbvetlt she uso ait rw ear
+acy, Sef wef warn eae GT MACE THA H ETE
+
+ato wertge antec
+
+menareamaRTAiT wa
+
+saivaten ag
+Fecearedearariy er eR TUR ART
+arewenatayee vt araesfaeaa 1
+sweating forareethh orexpaeeeag yen
+feraefizer atenrerenit ow
+comet amfeg gerade itt
+satecrardneree tr ener TEA
+aronfeatite ster mated wage
+fentafs fefeeg owe gate
+aufero wiser
+afonterets rarer Fearn
+(afenre)
+
+4 ferent erergenngrate 1
+(afer)
+
+wf ect fiat freveior 1
+fae nt erga’ sition sreramfererees S|
+(eee re ete «Ith2)
+
+## Page 8
+
+ia
+
+aafereer weatfery carat 1
+
+er Ts eI E ae A cat et are, GH Ree: wy AN aT CH
+few ga, watery eats dre Hat fea gu fat Ewe owas # fg gf
+aharaer & afeee @ fret U1 afemre deg aft By am dia wee wat EH
+& steae wou 23 afeat Homa get Eka aC at Siete ae gaat eT wT
+arom t, quem de ct ad fre Fey afafafe (Transcript) et fen C1 gies
+wat tote fo St edie cade dig arent) H feat oA ga tate fe
+afefate (Tranconpt) we wa fact tt ara Gyo we ga AE, Cen S aE Te
+git én EE eM ww wie A ala H Fae gx Et gar efx (Bare wit ) S
+Fees ar at sage E sae Fen Eat Myra a Cee Het, LETELE Ta
+fattest & 2 & | gat Ht Gear aitet Hot are qual wet 2, ‘ea’ ng eT rata ae
+sod dt Fey soa OR eH ore RP" aeatNa, aart | aera ot ware Oat
+sara sera, TT, weRcARy, wareqmIAENE,, Bey carte” wIP wat A EL aE
+ex, caseta, after’ wale aaa too Gurea salt seater a Fea Et aren aT
+safe 25 sera & at A famrawatleaee auatawiace site Mame aug HIE
+Fao ght are HE Fear H te maf ada wEyA er eaTC Ca wT Pra
+ait foarte gure wat aE
+
+fier wee at ed_—
+eid egret & age whe weer rend ferme wale wa H Pee aa
+
+mar Bw 4 Gar Io ow de S cat dy site cw ats a gat as IA eT
+Myon artaren ara Ot ae Fea Ber ae te | oe ats a TAT ate fA aT
+
+t settee at es ge
+ererere eter aferrer Tera t
+owe gate aerate |
+ame dnfreretees auf
+free ernregrarenr saree AATEC YL
+
+(frre)
+¢ ofr am, Prato gente af, confer wary, Bag are 1
+. Aerereay femeeerrmfAAE we
+arg terse ay a dere aT
+stersterré safe ast Rif
+se men afr se emer aR,
+(cs Feeeewa)
+
+## Page 9
+
+3]
+
+Ot wet era @ Gadi fog text be HA GALA aT aE “fram”
+ares werfna gers & rx 8 te at Ga Prarar she ow Be ar zifiare ( afafats)
+Rete fo wie wie & state ad gi adore ut ga am zilimce & ya Faghia Ha
+ant sa or gaat | wfeg aga, qu, ye wife oil ste agit @ seratadi Hs
+sai oe Faahieat & cart wr sei af seat 1
+
+Faava & arfae—
+
+afore (atnfat 8 naa), aa ( ibn od afew ergata & ave ),
+prt —afas (sat wala faa sag Baye) Tata wee BAA EL aw wile
+snp Pears (og % sae wr dagraatea fara), era Fema (wlan cerita a
+ees Ft a ea a re a ara), RT Fara (ee
+ware ce eataran Bz Fea) wi Ear tage feara (Aad saa xa ara at
+a seta Fara) whe a 8 Ea
+
+fama @ afiat site avi-—
+
+fama ot fie faa afaar ‘ara, 974, seiaaa, snitaaa, weEa ate-aanfa—
+anti, Refeania, sgatania—afemala, featanfa—araata, euegnata, emaaatia,
+fafa —feraafa, Pafeantt ar ara’ & at Fs faa & ata ar faya-ate Bate
+fro a sri H tease, wees, er, fe, eg, Tone se EI Fear
+sates ot serena ora sad (aeaeet) aaa E
+
+varia si aafirara——
+
+ralonfes sec aygrosge ene sud a ed semcha edt Bat
+after & cqtont Fear E  aat—ang A a ct Fama aH aes A RA
+are) wae Be Aa a ere H ae fer we Para Prat (Freak) we
+ara wet Fra @ ahaa Rei H fend wea TRA aR GR am —wRTET
+areat rarer fic H Rane ge sere stata site aera &t geese we B a
+wc aa 8 eaftara gar aan sa qa FY growed ar AB ea @ aed
+‘eat hia sexe ay Gr we 34 fait ge aerat at Faes H ferret E 1a eT,
+Hoa st ¥ oon} aah ate see eae € FA —, & fast H ahaa
+ay suit site Be far BT A TH Fara S) Faw sal SI wae | co fing (fat)
+mainte vez ert 58 Aree H garda ce na % faara case ze OA em
+eR wt gee, B Paar A wie vcs ach hn ee ae eH Head wa AR
+aah gt Rar He eafeara 8 er BRO-wMEINECHET Beat fee B Ata Hae RTE
+ack aad EeaeR ST aa TATE Ce eG TeTaE ae, Ta, fea ALIA, UE, eRT,
+
+## Page 10
+
+x)
+
+ramet 8 wadat au acagit M eqratedt 8 cat sent we EL aati R
+Feat crag ang soe ta & ante wih aad Gtera(aat araraterg) sia a IRR a
+ged faa rah Sn woe aftear Ena (ea) site st (shar ee)
+ga fea re wat a faa Senator fink wie a ater se WAT | AMAA & sera
+aed @ orranatieaa wx aera ga Fong et Paget aa geet Hw ge wT
+ar Pea. sare ht ge ear Foe hae we ara wee Haar at et
+2B ace go Fae are et TCU EL SHE CREATE) Bg B fara
+Br fee sree ae aera fre @ se aE MAT BITE BL TCT.
+views 8 mreoregt Taal BAT ca gfe a fear Mewar) Oey, we,
+qrararit % sath site wet a werabseat % sonal B fara St ae Fee fafa
+oer amar act enh we fee afc hearaen aa ay aeT ATE |
+* fr anefda se tater seata ara eer) Re cere eaehower eit aT
++ fat, Prafaartin, orageaa, yarn, steaaey (9 faa), fagefeaa
+
+2 aaa ice Herth afee a ary wt TNE Fa gear Fre @ Page
+sor ae Ft aor aw, aig fea a a wifes sen geafetr
+anne, eer steerer aoe ark i Fara sre ar Perera See ae we
+segs Fo mcd | fama % ot way a fa fr sia ate B Rare se aera, at
+va ha Gra al eg zat fa A er MTC eR a Hb eit
+Beat Cen cic 6A | coat a ca Route eee H yO Ga Hata ar FD 1
+
+AAI
+
+aeboran au inka qaaey a aeer aie oct & tet andals areagio
+site aqarra H ora oar ce Fautaata site ae are IRE FeO RET ET
+aria 8 maa if toy ate feat at ea aa aH tea aT Sea AT
+antes ait @ Het gt famrafana guia wait @t eis H em gaa gu aman axe wt
+qd aera uate deg geieata (artad) 8 gafatead ga alas seen et ga aT
+it got oa seer foe gag ‘tame’ ava @ ga setter et we Feat at ah
+‘e enaece meu vita gE ata, Gat, 3, Ties Te Bae at eH sing re
+A fanaa agree PHD srorg ratte sing erga aeigr toa ang ot
+scot gtorane tae mae water ea Oh ea aeRTAT eA EL GA TORR
+‘cid % cohrwifeit faiten aga gaia ot do Gx a Ferareet 61 aA A erates
+offs raay von ¢ healt ga age & erage ea ena ou Ge
+
+ft oafe cag & Reman Remeereeny Pemoarg—nee eee gy Pema” Gar A re
+ston fe Fann ach gq aa wh EE
+
+## Page 11
+
+=)
+
+(ordi) & gevdt & seta safe a at gfeae CH wera wet A edt TTA EL wT
+Hardt fing serdafafatis ear erat Baran wear feat are aafia pa ie a
+erg 8 £8 serfta feat Ee ga aaa agierad.afasant, yell, wi
+fence siti ce fas fro aergeta Ra at sate CAH a fafer weit
+ungvadt Fiqa feat Bet-atat waz at at at fest ac za aed Bae
+seein ard site mt Pree cee arctan cat ae Sta ae ae (ee Oe Ga
+3 fa errd at site x8 serifina Fat
+
+Feigao % afozor nett site mezit % mh aca deve fag? feat oat Es
+
+avia—
+
+rit agate aftaras
+to Etats bo
+
+## Page 12
+
+Faris eee i fale quad aa at aT
+
++ fararare
+
+e—ueraiheag ( scarves )
+po aladian (ataersa )
+ater,
+
+4 ater,
+e—faaraatezst
+
+6 — saa,
+
+aah
+faoanferazertter
+Rater,
+qyoafeaea
+ater
+eaten,
+te—argerieeg (aren)
+te eerecaTR
+
+te — afer
+Ro—aerHAtTfa.
+
+Sal
+
+ROTOR
+
+Ra eTeTAe ( STETATTAEAT )
+ay rand
+—anfaerae
+
+Rg —afenrieay,
+eget:
+
+cada
+
+| se—qgrivertinsr
+| to—eOaewer
+samc
+a aifawitacia,
+a—afnsseadifica
+WATE,
+
+Ma —atpertieray
+
+ag Referee
+as—aiferenet:
+qe—sfxsrerareraC
+
+ae afafaciarara’
+
+do ateaeaTCT,
+
+| vt—aitarfivttear ( terezat )
+waaay,
+
+wa fratarsar
+y—aranderaaan ( Pre )
+| wu—arhuerfaeraaa,
+
+| ee Beate
+
+## Page 13
+
+wage
+eaters:
+
+Ao:
+
+dear ar,
+sea gata
+foaeeeTt
+tated
+
+ao
+
+Ga aerereas ( aeaette: )
+ee —afercree
+
+fy aeeieeest
+
+6 —Prafacirficere
+
+foam
+
+somatarererteer (ahararxeat )
+ot aT,
+
+oe —aftararahz61
+
+soy —fieeraerfter (Ferree)
+
+‘ATAU
+ot reniits:
+
+(i)
+
+<= fee (sere)
+
+ee —gafearearg ( ererareBe )
+se—mureeae: ( sera, )
+stm gawag ( werTET )
+
+aR oaee tga ( cerreratta)
+ei atgd ( farstozat )
+
+se —erafiererag ( afceTT )
+Stace (AEE )
+
+ef area ( ETHER )
+somaitering ( Freeaga )
+ex—avewactt ( afersem )
+
+ce —ataerieay (faFtEAy )
+
+go —suitfonte (RRREAET ),
+et—eeeray ( wErzaT)
+EROAGTETHUOY ( TETTTETT )
+ager, (a5)
+
+ex THT ATE)
+eouiafeer (wire )
+
+eg —araiifenfoay ( areitfegay )
+go—attqnren ( mre)
+
+HDS
+
+## Page 14
+
+tara af [sor
+aoaae Roar
+ni (eater
+yore | Roar
+oe | a feeane
+after | ater
+ere | sa—arewarea
+cae | eee
+twa as
+te fare 35 fey
+owner sett
+eae ieee
+cite at—afacs
+pean saat
+uot amare
+owt | ye—aharea
+tema od
+te fiation Ae are
+
+DES
+
+## Page 15
+
+aay Para
+&
+
+afera fy aq { zy
+ait deat t-—
+faga
+
+neftugiaga “arate” wer st ce seq ae “Aanfae
+seen t fray RA xo we A. Mdeufas sewn” wx maT
+too whorl Yoo ait H Frag at wer aat Rt wera FA Ew Sout
+A safer er sree 6 Fae staat RAW Fro vA
+faites con F qi maates, aware, wren, Tae,
+aeaandifee, sttaarnéene’ ga forbes areata Bawa
+Far aS sam arog, alas, i, avert, semraf, gfetare
+efit & Ot gq aeht wart ante Ft fatiena wt erat”
+oq By ape & we Fae we Fe aL BMAL | Feat Tez
+srt aren weft agra aan ered feet she % AGAR fe-Ta A
+oft aft % ara & ee To 8 Gat Wa ew aT a Gat ae sae ae
+8 gat aw St every Hea AA — AEA Hot ara Efe eH,
+sro te wre HF a ema Hs ee arate ar (Ena a Fg
+fama ara far & ) ( Feara 23 ceed wt Ake se, TRF a
+ewsuy, TERT, aa, KEG, USTEIN, MyRE Ge aTATET
+a7 8 card Bt eafeara ot tgs em, 0g B Fearat gre ee a ae
+ere serauafie wetter seat, TC IER TAPIA He Yecs
+seg Se et 323 F wand 5c ta, era KNEE TEE dowET
+(oeq ew wets af Fic eer ata fen wear Ty |
+saree & fara & age Pearateaons sievety at wed (seezil) st
+
+Faber ae erage ware seat 1
+wedi agE wratOTER
+
+## Page 16
+
+@)
+
+ewe
+sara we saa Prorat cet er sare 1 feet feeatisaresen sal
+220 wat RIT GOT
+artt dem 2
+Praca aufeat & segit 34 Prefect & awa a aay
+Fak sag ang % segane afta he ste atow weal ie fa few
+taal ot fea, wa ata % war aew wale a wre ea
+rai edt cal ar fetta aaa wear | Fea H sega seaT ae & ata,
+stearate tae a As at st aiA eE IMA oT ae eT
+safe Hage sot oft ae ae Safed Seta ste Gifert
+apacorenst ea nit cone Fae emarat, Aa BE ET fas.
+Reactat a1 fade nat anal Rarer ata efaaistat H ata,
+ateaiay, aifae atat & vahe er wea I
+
+andl wea 3—
+ca fie fe weit, tat (iat) @t fim er aE A ga
+ww fear att @ aia & (gear aia aaare fra’ fe ‘ahaa,
+sxe, svar, gH, wf, GIA, EET, Kaa, KATH, GH" aT
+AE ok oe Eats ate eta stearate we site ach eas aT
+Wg a oe era En
+art dome
+fafa wait’ ara’ fea % eieaer ‘feeafeareia, omer.
+win, tearin, gedizia, freqaaia, aemigte, deem gare
+xa tt
+art deat y—
+feo ot Fe faa after aaa, erta, oka, sea,
+eeanft—senfa—qania, fafeania, sgdtsnia—afemate, Ate
+aia —atants, creganta, emannfa, frimia—fenatata, fateant ap
+aca’ Fear ata & ar Feeyrnfis aa Ea fee, Bai ar
+Poe. Faeatararest wate 4% wat wt adda (03 & crete awe fat.
+wane @ Reet ata Preafcarsiergad wr Fea I
+ard em §--
+aorta ar ot fears, fea art erereat ete raegit @
+OF cat Gla & fear ae rar E sar sfttefeater wT BU ate
+
+woe
+
+creas
+
+eee
+
+tose
+
+## Page 17
+
+(a)
+
+free
+faora % wt ng fect Seana we Fao faci afar
+wa ti
+art deg o—
+grag art oc ated & far ee sake si wt Fea! aaa,
+arene safe weit or fawian a atti eH iH wa oe
+aga  Feora 3 teense sean dar. aetafcaTaraaTT Fst
+@ asaataa yavare qafecareta way oat I
+aid deat c—
+dt are tre sty Patna aft sive B sere H eM
+ck Frente srmpcy a arr Feat srt Fen et Far
+sateen ot Fra wat ant & ace ite aPedt A aes a
+sree ga wiadt fared Feegmeaicarara wr area Nasi oe BE
+fafa qaaain a Gecagimare Se ee ve fet eT TST whe fae
+fie Ret Hen wear | ra ara Fae Gt ew fte
+cane ot B farce sat a0 ite ee Het Fee RTT A aT a aT.
+gar fara tt
+ard deat a
+Rear H seaecit Ra & fet are er Para a
+sera 5S ae sea AT ae Ea glecehnfenes & fate sitar
+Fat i at ly, a sta H Frege afr at AT afar fet
+crew Batt & at fe frat & tare ebay ek Reheat et
+fatten & 38 we WRF fot gloraoen (Grawe BIA) wa, at
+rei Feegeagar St anf Fawr tar Ei a aryst sete
+cea toed ied @ ac Fare wr oe AY TAT GeaT E Baa aT
+fn Reegareriaer or Feara H aT
+adh dem to
+209 are gf Hage ge enfin ar aetmie
+seen ( qed 3a ea) rer ata (BRE aay awe Ee H ae we
+rake oe fates (#21) BAT
+endl dem tt
+og oe ere a ar ate | wwe 3 aT H ge
+
+cord
+
+foortte
+
+tetas
+
+eset
+
+wey
+
+## Page 18
+
+(a)
+
+fra
+annead & feara ak ce eoeTaTTUER aay fra at a
+axaeenterar Frara & feat afte Fave ard | rae she (ee Set
+HE oe an arora cere E a ses eg H Fora @ anit &afaal
+fa & eourean & Fears Gaeta See Fae Fear FH Pear
+eA cedtez H aerseaara Sawer at aU ag H faa Ke
+sateen tne fergie et sar ae aT Zee ATA |
+wreithe gov nef H Romy ag fear weed & Fee Hohe.
+facher ste afeear sn ea 98 BY neeezgae aa
+
+ard dem TR
+
+ssrsin deh safe ¢& sR Fn.a a wile ea wT
+
+3 foe Fey mere Fao a fee Fea eareerweR_ A |
+fara # fora 9, fer site aig at feafeza «eer ste sedi # BA
+fea srg ea | Fs Fee ot Fa aa fn BN & 1
+
+arf dort ga
+
+susie ft gone a Fema H atacewr atargee
+sdreargare Bait er ara ee & a Fearn agate Fc it Pa
+8 erg a Paavo Gt eee ee Fear we EE fag we aT ae
+sere ah Fat oRGEeEHR EAT NsTE Hila (ast FA)
+sai Fears ons wo cafes art HR git a aM F fad
+aftara ot anata 32% fafa aesereeen eat | fers at wit
+Faso ies 0 fart faert-nfe 8 go ait & fear fsa Bar
+anfieacae anvar 1 Rat fara aaa Mt rng fasta fe oe
+aa see wr gam gar Fe Rao ara faa Feel wT are
+at cere Fale oti aver weit a ee ART whe a eA
+OTST AAT I
+ait dem tee
+fief ax fe sexe ot BA eS eH aT ET a
+sara Feonet oil ste Foudt t aforat gE wea CL ARC
+eer feng arg: E ana faa ot far we geared E aad a
+Feet eevee a
+att deat ty
+
+wit % aoa anit H net Brew, oe Lets a aeafa
+
+cd
+
+alt
+
+tented
+
+teetes
+
+REE
+
+## Page 19
+
+()
+face
+srengaticate & fread anit wc ni a6 & sa fewats % arm aff.
+wow aan) eg se Ror ag a Maar a fags wer fat
+agiorerrntes 3 grrat | ng % feardicry sear faara far att a
+sat sxe eeTEATETER weal eat an sMUMTERAATCETET
+aanuar | gsc oe argaadt % aed a feara Ot wears eat
+fect eeeacer sr frat sfiadtard site ard Stearate aera
+aad deat ¢§--
+
+afew, aifias, B78 ( uihaw ) aim & femal % aa arfate |
+Jaga wifas-—wrra atnfale 8, aie aras-wamae
+sires aft &, sfaan ge —aihas-eersarcerea | aiae fen
+exert Carrere” nou oh te mEME, Fog “acta”
+wer # fan & agar ® Eu
+
+Bil FET Yo-—
+
+aifas Fania % Fe us wt E1 sae seta aifas—eaeat &
+sufi Fra 3 sre & Ej gas ( aifeas) Paral Hee mga Feo
+Raab ds ca grag say 2c wat a aaia site ea fie fie irae
+vafan aqvit % ge 8 aan gu ftw fam phan at B wear | soa Fae
+as cea we wut aa, HH Para gat Se ae
+erat gat Ht rae & ae axa Gaz GI ae ( Compartments )
+at H fear % faa wer mnt ara | nga Plana are stom wr
+(fea ), ate raven wea a1 a ata Fa, fe oe BSE ET
+Sah we aa
+
+art deat gc-—
+
+ae ee Pa ait ate we Pte win Fe
+agers fa, fea A, spegtee x, Gat (aa fear) wT A WEA)
+faoya. eittrand afar sexe aamrd & Rae aera, arate
+weqc a a te ste Bok & and fala Tak aa Aa we aa ale
+axvan Aange She wae aE ake rea wae a vo THT
+pet feora 8 aerar | geert—ase Sar ger Cafes ater ¢3 afar
+aoa 3's1 Fred fear Ham gr ae aa gat qe Ay a
+fave Fade at wed Far we Gee areT mar | ea BR
+fora ke gat tak & gre Feo wr tara | ricky aera aT,
+
+URE
+
+FRE-RG
+
+RAR
+
+## Page 20
+
+(x)
+fave
+ata, Fecarara safe 33 Reqs 8 & seg fawra idles fee
+cra a anna stat eer teas TAN ee aA
+arit dem ta
+
+farya-ofie qs 0 wart arr, Fema ape sae aaTA
+fa aranenebarn (acy isha wea) ania, eae wean (sana)
+Barat ear, 0g & fawn & fect at Bn ear | geeetama
+er sraeat at gabrara aula raat & sara ata, sat site Hy ae,
+sare AR A ca | Fae sae Hye IE fara wr FzaTT
+afiva sea 3 fafeen fear arat, ow g2et and feat ara Rate
+aon ( infor ) & siren ha ayo Fag ( Feo) aay Het a1 ae Fae
+wre GAH Yoo aaa setia me GE H yoow Ma (AMAT cco
+sitar) fear & afar seat
+
+wid deat Ro
+
+atakt orafeara aaa @ ara sh. crefatte Bean sata
+eel ta nar aa wat a og sar era Pla a BT AAT
+canfaen ae het agen a var aA (eH) art wea aa B ge
+are oe afar den &, wag ere aefaer ea ae sare we
+area sit Fac ata Ba wt Meo (a6 ( Fest) RR stat weareA
+seat & sewn & Fat wr 9 sear | ea cH sw A fafa
+‘wate ware ara
+
+art eu We
+
+fiage Fania wah ta were ghd) wor sree H gay ata
+a 8 fage Pears ara @ fae Mar) gua am @ gfe we gat ae
+aH tat aa @ sem Hama wen Bi fage fear H fecmaer
+faa & wa Bar | fage fama & sae AT at Hofer HB sar
+ssiat ve ac Fae, wat H ad ar | age eH awS wt fre
+aan eu, ara waa Fea gz aT a eras G ae Ae se ag, ve
+waaay waa ofa det dey site ge ae NS aeTAT EL mE HES
+16, ara ae & te, ha wee He we TZ ABE CL HC age
+fia H Pears ae aR saat | aRT AH MITET AER ATT
+ga sai aera ete st ater ar 1 we mF ae AA GM
+ara Fat ah a ca at vegs Care wr er star aa FA.
+avi & gra ft wa Ht nfs erat
+
+RE
+
+ore
+
+BF REL-Rok
+
+FS BRAS
+
+## Page 21
+
+ca)
+
+fea
+met dou BE
+
+sea 8 ran mu eraey th se at Zee wae ANY
+weit eR war hates eae H seat | Tee at a aT RT fae
+that wea art Pret wi ary ate 1 fae Haha —Feear-
+afer at amar arenes femaeis, dhdlemeaniee ge a cet
+wa sera aed, a4, ye fe adhere we aA GA aaa Ta
+sro aieiee ae, seeerrafacet oom, sraitciercey ait ana
+1 wiferie ca wife (gfe) ate 8 aa Ta wer a fearaaeant
+soinnit arg % are gitara—aviara (gat ex) wine Gare B ghee za
+ah Porn ah are t at Fe mm 1 at et xa (sean) se eA
+Cater) Frere Prorat oe aa ce a ata sie 3 star a ae
+aban smmeatacera wer am ate cat Egat tga ata te
+ae erie H gat ca OF E Faas gra aerara @ erafen a a gee
+wc wrore Bo ar Ec aalateiere wor TIT Bhs aE B sara
+gait sitters a savas afeal ea a Cet TT WHS ae
+ant ara G1
+andt dear 23
+
+fag feora % Atak sree aia we sxe TA I ae.
+fFecet ot sete 6c art after wat af qa ae wfel ea Ga
+ana are site gat ar ara aft cee are Kaur Bares eras se
+ee ee ot apne xa a et a amt a fide
+fea tu
+
+ane gee
+
+NEW
+
+aw
+
+## Page 22
+
+aeafacarhia Prarie
+
+wong t 23—Rarfiecar|
+ye —aefirec |
+agar |
+2 —faranerraifirecny | ‘wey 3
+awe (77) enfereen) su —arerafitseny |
+e—arnifeseary | 24 —wrarfirsen |
+qareaifivecry | ae —frsenfaseny |
+Sefer | fe eheprafteeny |
+e—renfirerar | | ke—amembeecar |
+enero | sermfireas |
+e—enifeerafivecany Yo—seufecr |
+to— fantasy | tafe)
+—arafireary 1 | tetera (a 7) firsea |
+anita | R—fadewfieeag |
+wey 2 ae-—feattgenfieseang |
+ayers |
+Rimfire 24 arefieecaTz |
+eater | | as —emafireany |
+Yderafieary | }
+te—aterfirecag | See
+tecmaafeear | | Assn
+te—ranfirecr | tear |
+te—Fanfeseng | Yo —amfirer |
+Rom eirafaeTy | et emnfitecr 1
+Re arnfeeoT_ | wRaefirecaT |
+Re wTOfTETTT | vie -aefirerT |
+
+eerie H wiih och are ware 8 guetta b
+
+## Page 23
+
+ia}
+
+63 —afieanatfiewren |
+
+we areas |
+went ©
+vs —aficenfirwrr | wi—fafcerhaens |
+ve —ssranradtefireeart | we Aagafircar |
+—— oo gare |
+fae |
+to—aenfirwe | ee oarferafirecor |
+4 faernereair eco | sos areafirenfirere |
+ak earearfireeart | St area eeRE RE |
+sa —earamifieerg | ee —erargnfrecen 1
+ay —ateaifire sa eeranufestes |
+uy —Pemrafirge | ay-Aftfmifeerag |
+4g —featecsi antec | Si waeif6rg |
+o—etecanfireo |
+e—fcenfieerar | woud c
+de—arergatbrer | at fiewficbariren
+go saezrenfia (Fe 2) ee hake t cout
+et—geamnfrenny |
+
+eerie |
+
+ce —fagatranhrecart
+
+wera § co mA aE
+5 et aa waren |
+
+<a —eifearenfrees | onegeeafirece
+
+ey —aafeieteerar | fxoemetufeen!
+
+eg amrrafiee |
+
+ee erietiarhirerag |
+eu —erecggeeRt | a4 —afaterareigihaece |
+pan ababaahiy \ pommiinliiesas 1
+
+= eo au araeerarfrete |
+
+ge—factrgranfirerert | ex—aheanfteror |
+seowgunfrert | ae —afesarfrera |
+sera too—eerenfitera |
+eg rEeeNf ECOL | ‘ef rece ger 1
+
+fafa ag qfeer sate cade dopa geese & ara ge EL
+
+HOPS
+
+## Page 24
+
+ut dem (—
+
+waa
+hers
+
+* FNAB *
+
+ARAN
+afgaracread aft aa at eq
+amen gears [70 ?) frreredatq x
+qaierézar sreraaeiieg  gurafs 1
+saaaeeragy ainaferersy 1
+cigar [a ?) gareer gay
+qaoowaatde oonfaecierd
+prenraararg aera feee write 1p
+wmarmferaragrem = NT FAT
+sean BataraeweTaTTATAR |
+a@afasanen  petsfesq aerate
+
+agaracassat  aaraeeea Save —
+
+sgrearaTee: +
+were agitate emf ge
+areere rare sferren mera 1
+
+x pred 8G 8 soca eet Ber er et UPA serene 8 Farner
+2a fe aferere & ven fe gre dt eA eR aT THR
+
+rear age Meanfre wer’ at area), a fieera whe rs we # Feat
+aq eH ser Ree gab
+
+SE arewrce er aefeneniA Poerte rear afrre dee ar 8
+
+## Page 25
+
+a) ( ea fanaa
+
+exafengearamten arcaienfirt at 1
+afenaratizer = omramieerer iz
+vaere finale aermrrqarer 1
+arr gaara dereriiere 1 2
+amen amfrerfewenes —aifefie
+fer tararegearem satent wager 6
+sarear avamrdteares rfid | zar? Jogfetat 1
+cfonferereng eaeny aa cat ne
+er a acre neat rere areca, far gene naa St ea “a
+ier ane ona od wet Gstiae RoC cafa aehe weara sate eH
+ara ae 6 era fers TET aT TEAS aon ic afeurarategst TAL Ga
+anand sor &t ra are Face 6 HT Sake saree FarMfat  geVTT—wea
+a Fae aay wate Meals aoc aaeTA aS aeK sate
+ate & wafaa foe 1 ge er Meare aonieeRT Ha A end
+Fe gen aeiia Bee alt A aT aR EH 1 OL
+sritfeacrea weaea Fafa ae 1
+afeamfarsanerea — aafaf an gu
+fagareaforangaaT aT
+agre gararey facafeeiareerg ite 1
+aferrareraeraaranen 1
+Fpaanercenrgamaiy st
+wuiegaafa geureeraaqeey |
+raragrrtcais eae et
+seen eet H sae me A a Faden @ aantata afta Se Free
+ser fac ok Feat ot Fog & en ge wee H oer BA AAT.
+ey ar ere RTA we azarae” ae ete B serge fae Ge a MENTE
+eC ye a wee agra Hea feat Eocene wNS A aL Age ST aT
+2, 2g sacar fa mae egETgER w seo aa aeaR Gia weet E UP-EH
+fanier carafe wears erat 1
+adie mag waaieTETHR Ht to I
+eer gente A crferdremeneera * at Aten” erefece Bite tea we eet oe
+carat ®, @ wear 2 ag dat erferered gh
+peer wom or mes Faved rer wer yaTE garer ( eat aeegfA wr)
+
+## Page 26
+
+wu fara J le
+
+mersmaicternsiferanicame, 1
+
+afenq sentratreifaert oesefamm ney
+
+arateraerereraaTy 1
+
+smreqdfontes onfererigag 1 23 1
+
+at cnet trast |
+
+fairer are RC Ee
+
+etd migra 3 3a Yet ar or faibaa ee ae aged & he wary
+
+mean’ cece aaa wt Faure Prat | We iE ca ge 9a eRe
+seg fat fra Prorat fate sie exanes ware we meat Festa at
+safirecet ara a at at @ gs ximmara Pama ware @ Fra afer E Rear
+Gonkans aan sears mare seh seats Fem cl ae wet En o=F3 1
+
+ard wyaceten etd (ai, ?) afaecrt 1
+
+gat areata a stsaaet a mick (22?) wees
+
+auget w oaitgre caret 1
+
+SH carmen agarawimeaq nx
+
+fama frat aRavatwafiray
+viersareeerafa fe?) Fey (22) neg
+ada ox mead sored Art
+
+ataasdern connate to
+
+wra(a ?)arreaa nexfaemnts a (97 ?)famrat 1
+
+sear areRTaT WUT THAT te
+
+wa cera apace waved Fame far aia % ae area, fsa sea,
+
+cooling ste aregen aoe Ht singe oe wee Pea B afta Bae ste
+cook at sega Ah amare ave eee Be an Ey ata aha em aT
+seit stq_aw at feora ee atcha Fear t, sm aig we ae areand aire weed
+Bre Beary ace oe By wd B Free A eB se aia tw here
+wala api Baa et ar eT A meee E Ren eet EG wAE ow TTA E
+feanaf sar) af angiest saesa odes Esters i ives ga eee
+slay aseat  srenegee saree ar fis Hen wR ATG ae ae ae EU Ete HL
+
+savas ( ) senator Frere fr afin
+
+saree aarate geen aoa 1 te
+
+a fanfare maaifearery 1
+
+aaa mgacierter afamfer 1 a0 1
+
+## Page 27
+
+wy (ee Reaver
+
+ai arewes sty ft feora t er aft Fear E gear safes ond Baa we
+
+meagan site 6c at same aa MN Pe AINA BteE MMR BTA E ae Rar
+nace UG ngatareRT wea & Paar afte Feat F tees
+
+aetdaorrae eit afr fe
+
+faeta (ax ?)¢ qxaety weaaaaT age un ge
+
+eee eearet emrsateasi sisa8 1
+
+afemantarn mae maT zh
+
+femeraarn wanataoaffer 1
+
+om canfcanet wa ae fete 1 a2
+
+girs steamareaaeitae 1
+
+sertere TE ARMENIA gH
+
+srriaerivafafa  eraaemy 1
+
+serareafemia ama mesatfa 11 x
+
+aaftantina — rernderiany 1
+
+feaveefati sheer (4a w?)eamaeRa (a?) eReH REIL
+
+fedeneate ey deresera | +
+
+sfafa (37) eerie care qoifeam 1 30 11
+
+ata wage frareadlery 1
+
+efter oe as
+
+aa widas ors og agi sity H wea. fer nt Eat faa fade
+& agg veh reese Eh eA sierra wala. aaa ca TTS Ee
+dana sain ats st are af eer ater & 3, acl fra Fenravenfy cat sig a
+fates ©) ae agaraey # frases & ae Gh wet sen facie fear Tae A aie
+5 oe Ba UIERT BT a TE a EH wwf E 1 gE ee
+ph vg ar tg B saree Farah wie wa outer B alka aig atid site
+safe wees CoE Fe ATT RAEN Me | ae wee Ka HE AEE eH
+3 we Fear see fora & na wear ear at ta wear Hh aTE TE ATs
+
+48a fie’ xerere Ge A een aT
+
++ ner are ses Tew Hes ow UC Tw FIT GEE |
+
+SA Meera ear afreTe er TR EAT AG EAA Au ea TE
+fener
+
+## Page 28
+
+xo Feeaa J
+
+ae med wea A ae aT atIS
+Petey 2 sa &
+1 Rees wi atte.
+
+Bw Tu ze
+
+elf mere sina renga 1
+
+waa cearemfeaemdiermyoear] Re
+afemantcay area afr
+re ware echiifer ge 1
+aetdearamatiiste cartier |
+
+wet eahereetsfar arrardeafineia 1 3
+aetegeenterr gang 1
+
+cm fama fafeaergarecn aft nag
+gataraien aqueary fectaatentaet 1
+fecrarereraranfa Bar aed aun 1 3
+sere (ait ?) ater if argentine |
+somrafery feearaeais mreMEAEERA 13¢H
+fenraferer saiearrmeaeia 1
+vere arfieg @zmanaifier us ax
+sdtaararéaerats arenfer 1% HT |
+aromenfegtate stent arated wv a5 0
+fends fafa sear par 1
+aafesaver nidteteeray |
+ofenfaretar cwarare frererq ui ye tt
+
+a
+
+wa tae serasn 2 fare oe en amt da
+Rasa og stata quit & wi earner ty seh were are
+ete eroa og nner Reensiiaeg cat are aractaen & ea
+
+aga avait sacar ag eg st aegra af Hast Bae agefeaa are sy
+
+vais U cad ernfa’ ent safaag arearit @ oat get AG BAR AaEAT aufet
+‘afgara ome’ get ed aces & aefang aaa H ‘aeanfa caeay wer aa E fan’ ceri.
+se mares oe E Re war Bae ae ee Uo (tote Ae ) FAG REM
+eat rat Safe at ognianae & a eR ire & “aetna ar se Freer emt
+Ret were gfe ga ver fafven apaisen st 98 teed agOTTET aT
+oy Pere Feat & 11g saat site aa nat @ gat vate B ser, faa send &
+
+ber teres er wr Prater afore shares wr BEET a
+
+ager fear 8
+
+Raat rad wi
+
+## Page 29
+
+a] ( ae fares
+
+are et gu sa anit @ ew B efor aoe, has, ai, aan, steaha ae
+after @ ae eae mere E1 Praag, sitaarares, core, arafieg, Bea
+Over site sataararser oer a @ Feat mia are sae ata 3 ae
+Ei eatahe ware ate elt Swale Fear ae abaeETE nifA
+sy cafes es & Frere & et Es 1 EAN
+wy Rearaneqviteate —
+Amareay frmateesafafa 1 wo thd tN
+
+aqamernd reat era aft  Aerea B fears wea E
+aarexafa —
+sorta qifery yrer ofr FET 1
+sierra? ar anata tH
+a eal fader arg aframerar
+a fama sfc sive RreeMee aE Wg
+
+sents rave aearier ana
+a Rear fr ster (at?) rere wr 1121
+raat mena a Dae Pt ARE seta Beat
+
+oa ta ord eee gt ete a gfe ek Hse Bee Fea
+at ana GB aia Hratee B aC meagan ( aecaveaTga) fear wet at E 1
+swum rere pw afeat © Ba At aT ma Fa Ha BA aA E ae
+Frara wat vat E+ 3
+
+ears exten (xe 7) fesrarifateda—
+
+aah
+fecha (#) m1 aa Rafer rarer 1
+& fener cf sitar arenes’ une
+
+onaic mrcrn & ee nfae eee’ Age feamere eee Peace, ema T,
+sere, arafeg, Semahier, satearonsrera? @ a
+
+Sb oeke  eae tao ae Rf TSE OTT feet eave aT
+erm aie 1" (ore trtteit )
+
+Xe eee eft erernatt abrrd goer aT
+
+## Page 30
+
+fasua nent)
+
+areraaitfe—
+
+feorenafedg amine ea |
+meet ag eg Farr cfr FH eee HLH
+
+Ta
+
+euarennree ey TERME
+a fre cf teat ortaresfarreé nn gu cea
+
+Ferre —
+
+Rarganre meg dig Aree var
+atereaterere aft anat waif 1
+a Fer cfrstes (4?) @zenenfect at 101
+
+fearon % facia ge eee meaTeT ae Fea oo E 1 ave Ta 3 at
+ee B—-snereneea oa wea H afd % are fa seaT eae TTT.
+caren Faget gra faara 6 at 1 array rar 3 at we Eafe a TH
+feat & i @ aa eed ( wont are) Rt aa we MT aE ae Fee wet ATE
+ssid ng 3 af eq: t—erernneca Bas era & gate aaa a at aE eT
+ae wacrere Fearat are Feara wer nar E 1 od Feat rand Hof eat tere H
+Raa Roa aT a ae A sie ate 8 ate SA ar oe A ae cATTETN we fet
+ar Fara er at B19
+
+er Panraneerigneat arargarea
+arent azgeafearees wate —
+
+qeraafeant i to Qld 8
+
+anon teed ot sratarar fears sane # afer 1
+aerate —
+
+dtsafareegenta (feo?) afr ster Toe 1
+aifafefs andy arrarrerwafer
+sramiit weet ager anfafie ger
+aeqrenfenaregtan wai egg
+eargeafema fier a aren
+fedtaven sie aren’ wafefer 3
+
+qtr amt gee
+Pifawreatete Her avatar
+
+## Page 31
+
+e] ( eet fearaores
+
+fama eaten Tat ae 1
+
+erent amt fewafeefef nc
+
+Seufrergeaniarraeera |
+
+miifesrcatifs fir ater afer ug
+
+setferereafead — azgeqerery |
+
+were eae see TT oH
+
+aaaterefeenfs anger aarafi
+
+‘Ta rer merger feararernd wre ga wa Fearateee Fae aia Feat
+
+sro Raver grr 3 deus eee ate at ESA area H ares ETA Ee
+at Fecrit H gaara HoT ae are shea cy B ee afer eer Ei casa
+cee Fe ear ar fear Bag fas wt cert E ae festa ee Be
+Ei eR arama AH eam fe fewrafeee aE ae wet vee fe
+feo tu Fear & wa, ren Hee, ee, eA wfc Ha, oT
+erate site 3a safe 33 & feaia H ars eeardaraee ene % Pray frecefe
+ad tam at ar Ren ty) sftenatefa & fat ca weal a aa sie
+srardt 3 gaara Homan $2 eevee wer H wer EAT A dae a act
+eer, 50 EAT HH t= 1
+
+sae fe ceaaeatg—
+wife [817] afeveereRraTay |
+aa camer to cderareders tn [<]
+
+wget frearets freenemeraT |
+earregers sifrwiaerite
+say Prgwertt nerrecftiieg 1
+agaarinsacermenidt get un 2 ui [20]
+cement Sredera |
+faoregeanent faerie Tnx [et]
+
+* -
+aon Jat?) sieved egearl waren [t2]
+nf gifraxgennta [fer ?] getyerq x 0
+
+fe]
+
+fe cove Beaters get par ba Fed am wet awk er A, fee eater
+seiner, acer 2h gee a git weet 4, eT AR TTT ae
+meer Hay Sat ceed Pee gar 8
+
+## Page 32
+
+Freara  eEre ] Ce
+
+fren Fafrnent vey sri areag [22]
+cageanpad aenfer gear gi
+er stinaraifrert eardat amt (3) [re]
+qr feganteregearifeesean |
+ander rent oaarafeat [24]
+‘eeiaaed Huet ¢ Fema, meas, Bae, KONG, IE, BEFE,
+atta, weias, ait, ferrs, freaete, xara, gee, Bina, eat, saa, Fags,
+emecfeaie, aga, arin, ea, mdaGR, eNerMIES, KBMeT, faTeERATTT,
+Peeavaia, (sarsrarery, waves ), Fete, Goa | TIE EA aie teedt GL TFET
+rae ga faba. arr ard area wer ave an ater ge RE UTTITT
+fanat & ue A sataara sala suena Fron seat see ewe E see
+saad et ih
+waite re & fearaiecae eed & fermare rend grr ain Pts
+fr cerumratnds 3 fat we war eH
+
+(t) ae mihaeezedt aie—ararfenrtedea fam
+anicatatrafagirattearargertoracufaganiteaafe mangers.
+cafeafeatuer (fx a?) ar firgtear——sireter (doa? )
+alfenemgest eae sitafaharager (x0?) wedanficfing
+gti (a) alfemenrgsreenncrateaticaareatefiar rare)
+aaarrstacrreqaerrarafearfacnfenntatagtenacrantiea
+een x
+
+(ens ene Prare—nomnirare At Aa ere Fae eh lest
+firgrear + ony senrgearat A veaor ferent H WAL AE Glew, ERs, EEN EET
+sails & fete gr ea feraremn sia s ea alg enigearar Hater raft
+
+x rear Barer areas eaten eRe anes as P
+1 fenmear ene sr mere a Fee one aise vata ORE avon Rag
+caret
+1 aFeer fe afires reat sifoera am 1
+berating a facta’ are ofa are eae RY
+dawequmceent niet |
+fevers ques street sere
+avtaga va fiatofewarr (te fre )
+
+## Page 33
+
+te] ( 82% fearaerer
+
+cd at ew Bat he a Gea Reed safe eeTat Barer were ( feegT
+fecrentie) oe feacofie wale & wares sree arson sreigaen sir senfTat
+smife srofetng Peace fevareeea Fe 1
+() atfemegedt am —ngmanereafeenfineareste-
+Serenata eaNTTgTaTEETT
+(2) afareenafere—anarar nem safe arbre mer se ge aT
+a se ofea ot agarmatces fare E11
+(3) sree) ara —framiararqeamgeattcareargera-
+(4?) sre areaenegeaagte aemfernergeagarter fear
+ETRE I
+(2) eae cera free —fraeal, errgee, ag, way wt ( warfare
+aféat & )eveat wages rer Ta les wr siger x oT arse MET BT
+eon gy rea ga Fearatsa eee FATE
+(¢) mermaregedd ate —armrerafeennecrateratiarent
+faeramiaiy er war eter ( eer gaa? ) ferent fret
+maf met (a?) ferraed acafasaaqaaracercag fama
+sereafe MIE TTEETE 1
+
+(2) seaeraege Fran —srernefifterea oft afore Ha Fea
+aan dt aren at at afeat & ends H fee ye store ze mean i wa
+feora ae afar tsar 6G S34 seu fearmeesaear ee ee CE SI
+fexare tran fe |
+
+(2) serge are-argrearecaee aneereen-
+afefatereaes armnfearemarmfearantete gifecareata
+cafesnren aerate ret Pasraroareeregeny 1
+(4) qemneafran—argret ste #6 ff & sgere cima a wT
+afta Rend aren Preven Rarer safe Toit F ser ef seEETE
+Saf teres 6c sai edree Feerareare a ae” Er
+
+won Ger wr ara ree BT FT TR
+ freews, ergo, g, fe sud few fe an on aeeprew gar gH 9
+nem afer & arf are & gee Fearn sere freee er eh
+
+## Page 34
+
+fanra % eee] Ce
+
+(8) eeaeged) are——nrernaee feqgenfecaraenst
+rererriaarergafararsa frarrdtoyaraen Peatearientae
+fives peat amrmeatraataaarrarcer mranPemeaaestreeeRR It
+
+(4) exe era Frere —arseacen H Feqteee afer (arate
+at & ofmat & cea ahaa F seam gf faraes are Of @ faaradts B araa-
+ua ane Freatwaredeoes faa H afar gran eee OA TH GTM TRB HTT
+femal Paar aga wi tee Er
+
+(9) neergea am —aferteten gietaeresre:
+garcireaderentewcateafestacr (fi ar?) rma
+aiwangsren  arraccramghencnicatoret Prater
+agen (ar?) cetaramearer Rear azieconfzarareereeT
+EET 1
+
+(9) Rare gtr ners ee Ae & srqere fer F sTETT E
+suatt 9 Wx re aH egos rset me ah are F nie w
+sais we argc ce ah caer (carers ) een fe ci afevat Fag we
+sai gre athe ee aan we a ATR Para see wee at CTE is
+
+(5) sterged) ate —ihafeaeemercameenazty
+fedtar (2ar?) acer’ Featamenaia raaeaaneareieder-
+gicetrateaarger ceafsmrrafeaesreg fritade 1 Aa eee
+afesarcar ata, cearagar (a0?) a atweremafeareger
+
+(6) sttea fee ttaa ae at meg gH g Ravel &
+feta sae and # fara fare frarare aie or srw we TR cin & ge A
+‘ea Banfi, dt Bec ora fears & AE aa wage R fan st sat arent or
+are ah aran & ga se aver eawsavay vera a aren E
+
+(€) aeteegedt aia—-afertwateat faerie
+famranfagerentegar seasraciatnar ge 1
+(6) srt tera fare —afener Heft ied fem Gan By fama
+eat net elt eit er ong Peeearé Bar ee wT (Hea ) Feat eee
+a afied B ne feat fe tar agate nia era aT REE EaT crs, az AE
+sey femora afeanfoe are ver ar Bae tA whe ex dereee me
+sft Freer) 3a mre ofa ater tg
++e Ae Fry ave A arch ae atte A ete AM
+
+## Page 35
+
+a] (ee Fenrarer
+
+(to) Teer are——aenrgheagrafierderdear
+(wer?) safedta [ar ?) aoeraamarar faryateararars-
+qraaeat faarenacaadietarrasrer aeRlaaareearezeTH
+
+(to) aatea tera fea —aeitaeigrafaen Heft ffs sigan suet
+tea quay feat & sfatn A wet Gata Baer Sarasa eas ee fearaer
+cundt Soh aia geek (aaa) % sa are sae wet suet sala MgITA
+foear ea Ee
+
+(02) freareged ar acmrersetesaprtercer (ar at 7]
+aehargnafefemeeaearia [eq 7) qaavvafefataratemarar
+arsitfentenieatenancarctenteanaes fraraeter [ e
+ger] catargaearhadararaasra arenifasagraarernaes
+fenrafagaficareceregeay
+
+(00 Fras tea fare —arerawea it 6% serigert rain % ata ome
+afehemeeneadta gare oRfatezer fara ot ares atone a Fearagene er
+eeu ot gate 94 Fania taedt ten % ger al ye (aaa)
+saat rer esifas sage aa wT Ge BCE Para wr FeeER fat ae EH
+
+(tg) fretrcaregeat ara —gaaweatenrnitey gift
+aagrata ware afore afeag reRregerTafaraTeT
+fahren cemfganfatamentctanenfort ering ge
+segearagre qaleareraater ead stiagreremearar
+ang aforaarey af wearer agraanefeerererty aa
+fFaurazee mu aemeciagrer mentearsaed7aeay
+
+Oe ee
+afin aa gre eae we ae eR es at se Ae eT BE faNRE GATT
+Peon Fare arat tn H cee art Reh dat (ate fa Far a ee) searfer Fen
+atu ga Hous sage are sre git werent @ gm ae ow al aha At aT
+aa & 30.8 gana ce ita TE we & weraasy roe wr TE sam A rat B, Fea
+at ast @ se Fas | aerate ord wt ce EH
+
+(ea) Saracaed ae —dameeieaterter gate
+Sftagherag fetaacniitadeaadd-ceaterertags water
+afer araeapfecctatenctarrare featazce_ am eee
+ifnferetgenfefierten[ 9? Jraarefera waren eer
+
+© et eet, wt Feet wr reve fee hat BL
+
+## Page 36
+
+Fear cera J Le
+
+(08) Saat tea Praia seu HSE waar Tafa fea
+areagi ¢ wif Aa & deafea Fecrzdey H ava were © ga a Hig we se TATE
+ead feeiit a cra fasta Yaa ait St fee, arg, wr, AT. TTA, AD, oe
+ss Fear fear efi Raat Hey BE TEI
+
+(4) Sere aE —erereret heer
+ferarren fesigareangar ward aemnfearasfamteagateaagtor
+aifroamnfceimart qaterater awsawemaragrer aise afew,
+qemeafrreratis award agar (ar?) a famrsarcierat fafa
+qrmsdetfeatemerceaerrats [ats ?] creaciate.
+EET
+
+(ty) ger coon ean —srarerg Fo Fee vero eATie a ET
+eitgone 1g sain Foard g& sed are B are ge BC TCA Fema fan ez
+ge fen ieee Frege ile ( ) etaye Rg wf afew a ag Gar at
+at gi aay we aa gear (aia AMA a ) aa A Foca @ am we aa
+aie Faara Ret anata arr guerarsit B Blea free wa wer TA fase
+Qua mE
+
+(04) sitfaniagedt ame—agaifecars| ear 3 ? Jeaaerear
+amanfedteagieang sremartemaearaareier yeat—areta-
+sqivaerngamateraargrest fraiaag | is aregatermar
+niger arraneaaramaterearerteeat Aria | guiasahea-
+an famaeaaranarsste fanaggniicarnattan’ sea
+sagan (ar? ] a Penance ararernenmiaacciaegeny
+
+(qa) satan tort fare —agihead & sk serge GE A aa oe
+shag waist HH angst & ae aed a carat a oo ATT GE MEIN
+scepdee Hcg act fete eee at Foran W fera argues H faye @t 1 seh wwe
+srarnaey oft $ sr sm 6 MaTCeR T at HR H flga aural
+fan 1 cea ea TAL Ofer wt faonaer ars ata git PesteaRT aa eGR
+cata ote H ane vee gra fara Ga aw Ata AA A aT wee aA
+wa Ea -
+
+‘o argtfew Praeger gating are ANE wef dt a fry gar’ ( ger) ate
+eae (omg) 8B
+
+x gfeweitew (amasier ) aeang gfeaeh geitgoe Bee Great 8
+
+Seat ( afiestiee ) ot srergn neh 2
+
+Sp were daa af sere a won|
+
+## Page 37
+
+tw] (eee Faaracre
+
+(t8) wehaargead are—eduawceiterermen| att?)
+wear [eae 7] siueiesra savage fraraqecaraer-
+foxeceniteorgnerat fiat soara_gestetterernrneareRTa sar
+[ sar? ] afeachitfeerenzdincgeay
+
+(09) sate cee Ferre —chanreee # ft soreccafis ower (at a 2)
+sre wren afc or rec 6G Prara ® TasNieezer tees & yea R wT
+2B era H fra 300) Get ( gedact ) % ware B mA H wars hx
+@ wife serene fee & Hee wane
+
+(9) seaegedt ait —faranfaenaaredtestier aaa
+leiaednerenaracntagrarper cerita
+iss [ a? | aie sae feeeraticnemensaragg sari
+ager [ 30? ] cr aecratar seraearaerr cera
+
+(to) sore eer Prem —iegaas samen H wat Ale mga aa
+ra & ez HG aa ABIOE wa a a TLE yA SIRO RE TENE
+fete’ Hot Roya H fen ecsa ye a feadad B oweeT TA AAA ga H
+Gan ox sa are ad oqrit et aaa Seat arnisearegee E11
+
+(ts) fegeregedt areas, [07] xdierrerter pie.
+frqatenratetergetart [7] tatsterercettaar fren
+araeqeasidtaraaartt goaieaaiaa faacieenfearceeay 1
+
+(te) Aeagercea Perea ga 3 wz cerigant a fag Beara ent Fae.
+Ri @ san A fee ctorae adam H faafaa we Ta Mat F saan
+spaiaear aera wer & Feaabetetear age E 1
+
+(te) reget ae —arsaegifeemnnasar era
+sremrarg aaregarar aia asafes aregreierstcr Fag
+aerafierragenarcementar vertaceaaeniafearegeny 11
+
+(te) arg Praag, xa, qafermaar st ofieat F a0, aH, tea shat
+& seems Safe & age He ta im st aQaTig ae fea gee Heat
+rages &t Ga & aes agancea | ara seat freee E
+
+(30) Rerreefashgregedt arm —FaarrenacaararareT
+aschergiioa (sea?) win gear lat (fer?) serra aims.
+aamifrsadea feceenanarememaecanerie’l aad a2.
+
+0 phefiga dere a feed feugait & afontie are tt
+
+## Page 38
+
+feara % cet) Ce
+
+sacar, ada geaners wats feepramarensert ver wate
+egfecesrcer afr amar (st ?) cr veer Pentgatcaregery
+(80) marmeefeineacgra fra —faaraer ara arat ary ST aw Se TEE
+age He ok cesta Hal (Gua) Say, SHE TT HOTU Het Of
+% agen ares dak ae sare & dace my a) Bama aes sea NTE
+‘va ee  eaeey @ eae ar eee it ara, aa Feegst (ata fees aT Ata TET
+se)  aarey fice wera ae er ae epee ac see arr at Peat
+aftae we wt eT ET
+(at) Tee are argreareeeteeerter area
+afehrteng framaanees wet qiiteareargefecrsararray
+(a 7) feavaifaget was aa frame safe waft 1 9a
+afaarcat (af?) ftaraeateasratertetget fences
+pedtent ware oeng setae featftarsrer GETTER
+atand aren gatiearceery it
+(20) aga ee fee —ag aed ee HE aRUgET Tame afi
+Lest H faa cece ame ae qa  arEMANE (wt) For mATATE Feat Ta
+stam &, wa sa Feared Fearon Pee site arg afi st fare Fase a.
+weet oars ( at ain) gee wk Gy Gaga UA B Fema HENGE
+2gaH (Sumping) get age aa aaa wie qe Le a gait Tear ae aga we
+wert FA (Tamping) sr eeee E
+(aa) avdraacgedt ata —aceamfeacafernratecare cer
+aedtergea aragacaanaarertaga friton GMreTTge THIET
+(20?) wae stat aa aeftaarRafzsiTeR aie TH
+fieareger
+(22) arioaeeen Pree —aeH a ste ara Re tary she afer a
+aaftmat &t seta wc araaqea H fern em zere Tezge Haig et Ber aT Bz
+ge age ec ear cam src 6s fin At sam 6H Faw TR aT Hh
+5 0a 3a att ( gedtanen ) at wank & feo wt a TA ae eHeT EH
+(33) aorrged are—erifenaectiags®y ferent.
+eunfereredidtaratqneitenrafsanert aenetegrerqesen
+aegaet oat aerareisaferraneaa fea eeeay
+Bg wie Fearekd ahr oY Peacnares ot onde fe AE saree
+aren gt
+
+## Page 39
+
+te] (tego
+
+(28) srrersen Fesre—og ot Fears Prmard vee ce aH Prana & ay
+Seger after Sta waa Baw AeA (aE Es safA— gesl— OAT)
+oa & am can aan gt wa sae Haier Ea Gana @ aghemra S errata
+a saz fat are t
+(20) wagered ae—era’ eafearafaaran’ ef
+sir ( ar?) gt aft aeteafamrafere berets ate
+faenraaendctgerarefiear ge 1
+(24) aa gegen feared ari He Pana & feared gat ©
+Aidt fret & fe are ae sad Prana & foe Bat ( ge aza) Baa was
+Fenat 8 saft  aie sie 6c wr fpat tet
+(34) seamearenegest arm——ataifaetirateaertay fea
+earrexargnaengter refaartenmaeraicenfenetaecr eer geH
+(54) ee neces nea Fae —eteacvean’ ( Penceat gee) 8 8 eT
+gare fearaer meqares 4 % gre reine aa Hee Mt eee TE BC AT
+fea secede foram a eae wf RS TTT a Tm tera EI
+(38) Suvigred te —ferraearmedesrt oe
+Praraferraeseareceregeay 1
+(38) earebereeea Frere — Panis # fra eet sede easter cearafers
+gett ett sqete wt er EH
+(9) fiearmemregett are ——fasrara AAaraaisgane-
+saree wate 1 fovusinenniaera aferadiar ear aeaheaaca
+aagiferrig wari qalerqaza cienfagsterer gear argeTeg
+deraferrarengiataatdaranar fearnatnafenagtaes (2)
+safedlg wafemaregeuradt few (sien ?) 3 ceexesafalara az.
+oem actafatien (at 7) wafer ager [31] femzgereaea
+(3s) Beane cree fra —fora % AT HAGA E sas gee
+Ga wen t, fovadiaes ata radt @ # ofeciataa sce senfs St aasigaferit
+Fr aena ace Gite: a cee Seen & ares Sa ce sas ga 8 Gai: ate Bae
+ave see dt a Ga sat are Fees GAT oa H fers ghd, aa, wakes
+Hatt feareree sear ara fet at Eo vas eecafaler ga ea wate aT
+Fafaa et arr & sa arr fare ea TH
+
+9 cram Fest wr cae fs a av are are are at AB
+
+## Page 40
+
+Frara % cee J Cw
+
+(5) Feurrtregedt arm —famrrgeecetatreta fear
+safeciamterencter TeatmafeesceatieaTCEEa Ih
+(as) Reena epee Pran—fanragerting ot at wart & Peareafa’ ars
+(Crean oft) ae 3 srocen rer Gat ara saat wr eA eT EH
+(2e) sreemnerged anmersaeiteden gcureafcar
+Fegrecgegmemeetear ararersentzermnfaca afer aTgee-
+feceratenertaasrer Feararereeremsresta tera
+(Re) serene Prem —srenner HG df erg BE NE AT
+oar Reqeaga + ste am x Bes ca 8 ara & sree WerfyeT GAT CT
+@ sa gee H feccotidtaste rare % sarerarere eta wr eeetA eeeE EL
+(20) aaeerged ary —atareafacatemerarnTaTe
+ahawcaadafeestarrersaran areteaserter aI BAT
+geareaafece acne ait afore qerere Feat Pra
+aealafefeaatrcmargeardt-sauia galeay (9 mq?) RTT
+mater (# 4?) famareemtea oper agefe | qavaTeTErT
+wacrereafenraresiaegeay tt
+(20) xarecerea fra —ecere @ cafes (iene Aa), frevte,
+govern ( a 1 ae aad), ree ( EIR), REACT (gH ATE AT A
+sake rer), erdefag ( eat ttt ) stareecn (apt wr TC) EAE TEE ere
+racntet & Frarec greienticsr (ate at hit ) acre Hig ect afar af
+(Sr arate ee Feararsces & 5x ea FocTATgRah H fee eT IEC qa
+gare rae grat Peararveey & Kee Rea wes 3a AC TE Sara arr TTS
+safe (Revere) aera Pearaeeiaeres EH
+(a) eeueeedy are fenrdiercaredeaafergerreres—
+earega wane eTeerInaTe aaMaTETERT oefearTeMae TAT
+eaatwceregeay
+
+Sb engfew Freeze fier oom ot Shee a 8 Peng ogee ( Pree er) ar eee
+stars
+
+Xe hee are fog ate re ewe arg Ft rer, Rw ae AA ry
+ser erate ze wate #1
+
+eo feee fe, gov are, qa re, thee age amet, cr aTet (Fe oe Ferg)
+ange frat 8 renee mee Ah Reg ree” Rae B seven ane Fle # Fe
+ferer  gt ea terre Water whe TY
+
+## Page 41
+
+te] (ae Prarecre
+
+(C20) ere ecces Peer —feora & tae aeder aPageT 8 eT SIE
+ing 9c eae aor a 7a Ys Sa S aeons wHageal B eso we TH ae
+safe aan 33 sr eee TH
+
+(33) Sdeegedt arm —eafemramerend oefemra reer
+fearnfagaedearrerareiazafectiaeaias gear cemetery
+soreheey wat Ha war SacaMtereTy aafematehe ay at
+saitey asafeanarcargrer waftarearaatiea ee 11
+
+C8 ska free— nse feara & arark get faaraerat & aerate
+sar oe Fear eet a Beare ara sea ened aT aT ing: Fest)
+saree Osea eat ae AS at wt SD eh TaN are TafaaTAe He ATT
+3 ae of ot Bart are ogFReT & ace wee wt feet eee EH
+
+HET Io C1 do Bil
+aqanseni—eih cin er ra rat ‘efter?
+areca
+soregeafema igh Prefers
+corederere —riarfenfresnt ut
+qaaraafamrras | arqerarfirarg
+shepraafearatens wal (97) aC gt
+caraifeneg | atasterere |
+Renfermmmaignaes sated Wa
+‘eenaet weer weaeer (Yer?) farenda v1
+erat (52 7) far ferrmar aint @ gare yA
+
+cviegs 3 Fra sere crater Frei Feat aan & veh gore te a H omTed-
+
+exe (sia sredteid-eeeeit or ree) a feta fomr ator Eee site Tat =
+Fama 8 @ Ferree sna fear at awa E aca am eat ait & feare @
+Fafina fra earch Bt cured Prare ataw ate & ek ger tar wale ws ait &
+segare ci aia fear sat t 1 Taree, sea, wes, afte, ex F cis are a feat
+% wrere # aaae a Ei (vn
+
+agri ataa—
+
+nareroramfeagefiearst terarereeaatrtertere aerate
+
+sargarafargnicrareeren areraectewenfe & a ( fet)
+
++ face weit efter Ge
+
+## Page 42
+
+aie ered]
+
+Le
+
+eeed (27) sqmrmgerraagarercaerenis wafer aq gate
+seaeitafemiatenarcef 11
+
+ae ara shade oe Hatt
+
+sre serait 8 | ten, wees, wee, ait, Ber He 8 fee.
+ani gt @ ae rem cer ( orERiat or weard’ ga eR Gee AK) a BA
+awe eemedes (spain steamed! ray HA aw) aT (TET) I AUER
+se erate @ eared ag A oem srs at AR EL a a eae eraaexefeara
+
+war st Ei
+
+cay gaeeowaniter camera |
+eer gfrem’ay miter frecat—
+‘eararafeneaetfetaaerenary (a1?) Fat 1
+spaiferenemmetatces wee ATG Ht
+fevtferaerfrat mea fret |
+mastad eaters afravtfeat 301
+fragerenteafers execs |
+
+we tenfeterresredy TUTE 3 1
+sacsifenfirrenrierenr eaten (Fr?) ef |
+
+acai agi aie arte cepa gfeeare 3 38 ser & er Fees Feat met
+
+Sceran ea ale dia are suse a a8 &, aba Me ws are Oat ae?
+an 8, Dae Aare dia at ce H st Eom ale as ae Ga at alee’ &
+ve E, Aa es was ace Sh at Rezareet H ee vere ear Bae Bee’ ae HERAT
+Me sarge aris ft & ar eicar tet & avang ak Ey ta
+
+hy aireerrenrifctageTt
+
+secnraregater anit [nf?] tenet org |
+aateqaatengtstefrentiarg 1 ¢
+forrrasereniat xf arty afirat 1
+
+arc tefieararar na arifaeda 1 3 1
+fectararaarararg (a 3?) eT neage ATA |
+serararaaerreey (ar eg?) arvizafaarae arg 11 3 1
+adtaiefermrarnfiafe anefetrera 1
+
+aadtar (aar ?) erect eetefaaifer 1
+
+cs cer 8 ce! Hn tee ar ead Racy eT |
+Snfeor’ cetera Frame) aif eat aferer feet feof’ cere gereaty
+sedeercenemnpeerearet at
+
+## Page 43
+
+20] (Cay farearer
+
+fearaqarrcarat: Steer Bexait aeg 1
+armifenfoata afar ux i
+frmrnar were gat (a?) artefact 1
+
+sated ie —
+maT Wo C1 Go ¥ Ih
+
+agra femarat sararferaresy 15
+wert aciadfndiarataet ug 0
+surat (@ 7) agar sien aviseargarer 1
+ag aacaraat qoitata fataferat ite
+
+‘eat ara eer ot facie eet art
+
+saa ont woe sg 6 ai Tare Han Bye’ as, “ge! ats “ar?
+ats Faenfeat Fora ae A Ew BTC Te H aria, “aa? are FRart Sma
+3 ard rede Bs Fecte @ wale ae aan oe wee A ae Boer Es san whe
+em oe ai afer He BSE EI ae! ats feonar wr € ae Male E ata a
+senfy er ren ae ng’ ats Paenfedt % fear eam ard eae H we se EI
+sea were ares afte & efter et erga fasta Fearat st acifaeda ore
+gare Feat & tt
+
+saved Frie—
+
+ra nen fear Fare ened Sr wwayaME axe we Ta AAT Tenet
+sa facie Forgot Fear ran 1 aioe erga seraa aga wt E salt araea eed
+ai € facia fat E19
+
+age — . ;
+
+samgaaanierctatatis aregeticany | tent vera
+woes areca wed fvcemnd aera eared ed hema
+Frcaraat carat wach 1 ara og at Pf arena 11
+
+ag ag ahaa sea Ht eft t—
+
+Raat & deat —died S seed 24 F, FE an st | tarey 4 afsret,
+weet H armad, wer Ht Pocned, finer H dened, Bz Haters | xa eC
+swoad ote sere  & 1 sued aie H ais E Rar MG Hee H set E
+
+x eens, shercemgr 1
+area. weaned zara. 1
+ope ten eo 9 fet & eee wed en AAA Fe
+feared & Feros en
+
+ear mr ge er are or ate ere, af eR GR TA RL
+t sree |
+
+## Page 44
+
+ae
+
+we ci
+Fearafivies ered ] Au Ce
+ed fe aie
+
+aedagiets — agitegtera |
+
+aaaroruig merneal eifeat. ut 1 (srerifee)
+
+rere PANT ERTIEET FE |
+
+Aemesvererd tarmat (2) eaRET RL
+
+sreqaatederrared (a?) waa (ar?) fara 1
+
+axtatefenrart fener eis ffir
+
+weet afd earegererenat RAT!
+
+aaied arcarecray ster Prater
+
+aaaaiderraes waft 1
+
+sterafeamnar fraraety afer x
+
+wie agaerisar arearerd Pref
+
+mate meuntecetereasetfier: 11 gu
+
+vata frcamasieteagar  satea 1
+
+seit atefimarar Feary afer uw
+
+smifaeoa Hot
+cba c¥z, CRT, Cea, Ce wad Hommel a E ter
+
+sata a gist tie & seaman, ada & eee H tad wae
+Ci awned sat wae wea A ser Te EL Ae ae ypeleTat st Pee
+fafian & an Ei at weee g, € 8 eae: oe E sae aa H neces ard fea
+se RE aH wee ered fan B sca Dat E feat Aa AF feat wt
+Feare aaa oat 1 ee gore «ack Bary sreTT rahi Ft, se mH Ge
+and we, 1 aa ee Perce sist & ae Bet me E acl ea? aw Feat at
+fear aaa Fear Eto
+
+vaca ef act gaenierac ea (7) 1
+
+aah feast ager readtfeat: = 1
+
+seavaieag —afera antefetrr 1
+
+aerafia fetieg @earafierret ue
+
+meerivsafrceararer = ATCT |
+
+eetararsts afer eaeeTEAT tol
+
+mathe exami ager senate. 1
+
+vata icgrecicty wrmrger: Ty 11g
+
+## Page 45
+
+e) {eg Pearaerer
+
+weetefenar — femaetfretcr 1
+Sederafeeqnfafeearsat ariafag upg
+ae 8 ft om te at Bree waar ag, Pate ae ofiearl
+
+aga 6& & 1 sat dared afata & oft edad @ feta ees saw Hara Eat
+feamardt % mere OF Et meee afer carga a? B fear nen E wee a
+saree een & af Fe nk Esa Rat wea H Regard ara we E, saa wi
+aratmet @ a BER EL sa nats Peart w Peon Aaxsenaiedt apse
+BRB avtetdt H frelon feat aa En eR
+
+wargeuedtntnerada mmfefa 1
+
+ox tenfeanigerenteatreticn 11 03 11
+
+Afra fearernfifr arefarcia 1
+
+Pipheateaceamaemy ue
+
+amiadered ganar afwefaa +
+
+Geateafemrarefeerefrerag 1 tx.
+
+arate fefcaafers arrwdfer |
+
+sraaicafearargieanderaeret 11 te
+
+seared fafcatzareat fede |
+
+canreat ox areanieeser aa 1 t9 I
+
+Rsaret adie & Ba. B ead TA Eas Leaeanal Hwa seas Free
+
+fe Ei sa Peart wt Paarer tar & ar or wr Face Egle Hee ee eee
+seca ara cis rea terme me Ba qa H Pett fe ET eae att & fama a
+swfrore freee ter C2 it & Paha are aia fot, afi, aa, wa, Bee,
+wig darard Sree sz Eh ae ore H fafa fetter ara aha cig sea HE
+aoe fs 8 aramr dts | 1 22—to
+
+‘sx Feonaraacit —
+mgrasfiag Ho tae
+reer fara) org Coda BAT
+area —
+saved wafeorarara (ar 7) rgtareneeg (#9?) 2H
+sar enter ieararerePrea U1 1
+© carnievene qifteg afirefea’ wag a 1 °
+
+## Page 46
+
+fenra % oF ] La
+
+wer asigegnt teen (ge?) aided 1
+saacent (* eat ?) fame eat engrerat au
+freafemetemrarog warfafe |
+gefrafgarargenargerin yer 3
+ante watfer fefemeamter care |
+arangererabernters TT ut
+era Fit —
+ay ner Fert & wey eB age Tater gaa feral feo
+sore & feeder 6 8 aa eA Bw Re cabs aoa H aad AE Tet ATK
+Feora at ea wat & a CRE Ser E 1 eerie Feeafeertze wa eT Be
+ate Peararg ena &t fae ee see a seta aaa faery wae
+wren grargoeene Hk cer axl fia Fear aren EH eH
+ard feeafearesicarafncafintaa 1
+aecrmtedaent FX THA KI
+afeacearrger —— feararecaitafe ie
+srptomgreaerencrt fergie ut
+eafeerfemena téerernat 1
+drainer RHETT TU 8 tt
+feretart feortenfgmiver a: (it?) mar |
+= Ee shectaferanfeget ous
+qferehfregaradeas afer 1
+aurea arremreMregsRe uh 2
+safe Reafoergiens eet sare cat ort oeaeig wa att
+sfeteeaa (aftrea ) Femara % it ete ar see Plana % sat wt aBeaTT
+rad Peg tr Fer Fearon caret ten S aoe Hen wea, eearimeaTa
+area geet atat Flora & fata gfe ma aA | feara wes
+sfesabaieeara dia giamnat 3 ser & 1 gleutieogareat exer sheet Haare
+soarpeara (si at er ear) a aed He TAT EAE
+weurvieciaereart ghergt mary 1
+amiaoreg wea WAQ ATURNAT U1 fo I
+cargereraracar feet 1
+Maetgeen AreTUTENTTTT tf
+mated feortinfzaraen aareRy |
+ferent feare gecferetext 3 1
+x saver (fet) |
+ag feararegne & femneee fem dee Ferrers aRAe AG wwa & fe
+Re am ce m8 ar eet AT Te
+
+## Page 47
+
+wy] (ang Pears
+
+aetageent cent frefeoy 1
+fragt (a1?) eersears famrdereaete eat
+wr ea gftge Homme sett, aalees (eorwe stat
+
+wr) mr ea ave ey H Rlar UA | aarieorea wT TA ata eH
+Shade ena reed ams Sa Rona e wee H cae amet alee eT
+‘eeage cura ara aa Freee Flo E aree eer. ena Fear & Roeder H ear
+fe to ta
+
+mugesfreeery arent. freee
+
+steerer afte abe ute
+
+areca
+
+erat
+
+rene ageafereree tI
+
+eq fercatere waarafrtefes &
+
+mecretmarrer cart gfeerarea eg
+
+ered ta ays ATT |
+
+semana | aTATMTATTRYE to I
+
+renga ( frees ) ura % ag frets feat E aar orgzaee
+
+afin Hor & | sree era Fecramarcared H site femme et oR er H
+Bar aha | Freda aes ena aE fie Ba A, Teeter eA fea
+are B Gran oft ezcercnenr ra stay eH aT HBT tH Ke
+
+feareafaurneart aratergt fez 1
+
+sfpeommmears (47) armrest
+
+Femreadate qian orca |
+
+suemreqrent —afaragatat te 1
+
+meat erevarenarnematactia |
+
+aderrreraraea ear aig’ faz 1 Re
+
+iefraficenatrata fester 1
+
+Feavett (Remit % aie) wae ena amerye Hi ofims
+
+(were afger ) er eara rareey & sea H tat UA | fears see aE G_nfe
+Srey oe rar cH A, TUNE Sena abana e ane aM Hear
+soft | seta Hees ara ae oF UT Sar AMT E he Dera ATG aT ET
+safcger 3 a3 1 ay warts pert red we 1 tS=Re I
+
+ate cae Pe ire af we a gf Fk
+
+## Page 48
+
+sat deat 2
+
+9 TenP RTA |
+
+wa ar or finer sega a E 1
+
+araeaR ae THE TITAN He Fo KI
+tte ge
+
+rena eTETTA TYR. 1
+mer fer apie React Fareae u1
+AROTSAEATETTAAT ALT HT
+quiets | fetaveneret 2
+aur aeeracdgearenet apt
+qrefama oma Prefer 2
+wet gmdgrare feted fread 1
+
+seraqifvcratstteratcs wen
+meareragat weet 1
+agree gates? nx
+ag are be 8p satareareg ft |
+
+mgie 8 Pardes aft Saat Bades gaa qt TE Hs
+
+wed or fata Feat ara ti anfxat & oleae sie ates st wee ae eae
+wate og 8 6 gat oy 8 dew sat ae Te aT wale FE, tat ag a mete
+soe Ee core ad se we Pate et refer Fear ater &, sht-sara aS ea
+Bcd sears ese fat Fafa Be eave sate a ge ah Eagle
+seen Had Peet St ecru aferes 3 S Mag aa EE A TAA” (Ro wo 1
+gi ert te fee dot wea Eth ea wee mer Lf ara fear
+ntan
+
+rt
+
+## Page 49
+
+%] (ang Fearaerer
+aeremaguionagarragay
+fergatenria frat game ug 1
+Sfedteerartuterercen eT
+qeafanfomearer agar faved ie i
+eq mraterronfevcargeercenfesry 1
+aedenq waft ave ara 1
+aemeieatanfeceran’ safer
+cegaeragerter center frefiat uu
+a. sor at oferrye & fe hc wan Fra B args! fear
+fav U1 Blea esa sar, emcee an, Har we i Fea fa eC
+aedt an & ea aga A fevates! Ca fe srermah HF Reoraaaat & ere
+sie eg eared eft aret cea fee wale RCT me & aH Bae BEL wt
+aie & ait cer & ood edt F acgafer & sxgare zeit & He frefen Fe E Gel
+ad fe cerca er cece career A
+sgeniininacharaweenfcer 1
+seafeafrareregarmenfea 11 to tt
+cece oe ara ae ee TT
+araatefamta Tay aE ROTA EL
+FeteereantafeerreT 1
+arvafamerte steifecremrer 130
+tafemereertereees fefcay 1
+ararersarera wet argent (27) 11 02 1
+aaa send ara peat erat
+stata atiey gig teeneaTRR A tH
+gang aemrg wage Tata TAG |
+wecehgadhertestargestos 1 tt
+toa, et, xaUd, aa, eee mf Me dee TE SE et A oS.
+sa ay SYTa aT TCA see a een Ve eT Bare aT Tae
+Gi fafe & wet  a 1 BaG— ey, (sia Be) a, aT, wT, atfeaa, Be sae
+sa eat gfarer @ cam ainest (€ deol & falter ect ae a sak eee
+aoc age aiae wer eae TASH A eer ae eh Heer Tae wt
+court ceat & Bet cia Bat 8 ot H fo cis aE we, gael, Ne, TA, Ig
+sa gre, Festa 1 to
+
+## Page 50
+
+aeafirern ] La
+qetafiedarar feary eargarat 1
+
+aig COMMA TOR GAT TT TTT SH
+
+Aidenersmrsettaafaersrerey |
+
+arise Ceente aTTST ATTN te Ht
+
+wep fafeaq ad piemrafeerat |
+
+frava Prgetwerg  safeasatra ts
+
+cemsiafenrnren careater art
+
+niferermefasatoras grTTgt ween
+
+decargen fairy afesry seenfeantaty |
+
+Seay age aeHST Mie 1 go Ht
+
+wana adafaaaenmy amet 1
+
+ea aha & Mate Ha aatewe EH afahea sie ae TEL gar
+
+aha -fewr—peay after, aver ceege-gaeh, wa, foe—faw St aa, sre 3 ama BHC
+scare 7a efter wen ere Frm we eat ET ( Bh aie ) Bam H a
+ec plouraizasat & meas gee B exceed geal ste fsa?
+Sn 8 aa ot sat wer Roa Sat eke waa ecdies re
+Fessite? ae, gant, Ta —TEA? a aTE Tag ETS A faery Ae Ae TE
+Hata & ony ee anh wr H sa wren mR ae da B fed TAA NERO
+
+afeafiadfafien  qzarengarcr 1
+
+vequnigeits eeardtq  weeaq gt
+
+acenreifaary verererdty TUR |
+
+arerentnereafesedt ater Re
+
+ae erat FET eTECOTET |
+
+cer asiaty aaerentiy ge 3
+
+atafemaeay aag | aamiry
+
+adefanigalecagfecarea wen
+
+afta Oh faa Ht ce af sega wg aagare wee PE Aa, se
+
+sa wre aoa er sae wry aaa ate Frama afew HTT fet Fee
+rea TamOTiS Hi PE HER fara Te Hs wk, wt Tw Fee
+Bar weil 8 Praraantieat wr ar ay, Rarat, eg ate howe gfe eT ae he
+
+## Page 51
+
+x) C ag Peereerer
+
+arerP aR |
+ea ot ieee |
+SORT HTT NN Wo 8 Fo wl
+og
+weurmertefretart ger
+fen firs way, oedema 3x HL
+ecrreeters RTT |
+weg arargrctarfentiont ef faferat 11 2% 0
+sree aafat erences fed ca aa HT oe Ge E sae eee ara
+1 woe H oft Ofer 8 ati gut F agar as aa S wreredy aia gers
+Fra fiom & 11 BH—RE
+agnanaet—at atraer ser ott
+wert omfedtar entensemfaat 1
+artenfas (fs?) ara a aaraitenaifefa got
+wag cennear ort agragTeT. 1
+artg wramntte wheegmafy as
+dem wets arty ag.
+wrig wafeerea Gorath soar ye U1 Teh
+Feafiee feardiar afecrnfacifery 1
+waa H fa & ga ape H wee ot ea aidt H Yee aa ster E
+cea sted gt gt ats qeare FAC a wa H waerte-g st sia
+saat ate reg og Hat wet qe ot Ha Ta iat H Pelee SRT TH
+Ros fine sag wee Es feat ot aie & for ata ara eT TH — RE
+frvnafires: 1 fe t qo ch
+Reg
+qa ovr ied fevarartaiery |
+aed’ gexeenfn ana a feeaaq gen
+cafeafrrerst aga ferred 1
+qatergrctty fered mat arrer nag
+aan Ht Record thas oq st E ext ori oe Soft fea B ad
+
+## Page 52
+
+srerafiera } Le
+
+ag 8 seen DA art ee Fecanal Eat gk we mee Ye a fear Se ara
+wrath & sper AGE to 3g I
+gh frafidafirert—ae st Peafacienfrsre #—
+
+sernafefhareta srereures ware |
+
+age werfrert  caarearrar 3a
+
+weemrmeyads aste fg
+
+areararoitedeammreraiat ual
+
+whan aie meq eae |
+
+facta feunaates yet
+
+sfret fetta eg name
+
+arferttarfrareneaaigeresy wa
+ger eten wegereaat freer
+wereeme are aeTTET ir
+
+areca farar ster areitfenferat feat 1
+
+ferret? omfeareegieceren 130
+
+seqerangaréer weather 1
+
+araramrereierfche arena asi eft
+
+aemrergrctaifeng qa Tar Prefer 1
+
+seer wragfeegere TE LH UREN
+
+egy sete GE a8 antes sae HB ee — orem BH aa Ba
+cea Sea HOA seh eco Tete ny eee oer UE
+aren fea &§ wn (at) mrad wea HE aca af eat ae ea se a a,
+fadtatgat arven ee eg¢—ana sare & ata F Fee Ae ya eatin
+ord T 1 a ar Read a een aad gE E Tae waa ales Este sta
+Binet $3 a Reonteasi Ea otty wae aa me at maT faa E ate
+Bead few cee! es afer & sgt gt t, sat Riefrat x fronfeaai &
+
+Pargwagen vas aoa F Tew fea wa aed Ei sae are were a
+
+Barer RV ae F ge areca ah sr Ei we Ey ea as Ha TT
+Ke E, 348 ea B afaat Gt nitghe Fafew A TU AEH
+
+‘aeatergarnfeta un to Yo BN
+ogo
+
+## Page 53
+
+we]
+
+cere gait fereraticia
+Fae ey ener acieafereat vet
+rateatafiargrerersustars —aferat: 1
+afererafatrersot — fietaweary weet
+ecemitfayres earch erica 1
+sorgret aie aor are FH (|?) wreRtL
+
+[wet fasracres
+
+ea & atxreraticioney H dia og st &, wa cide 8 wee wet arr
+
+its ea ore & sere ae ee ae fees fox E aaa wt fara gat oe a
+coat, reerare ond 3 he ney bag cemnd Pada t, tas PRT ot see
+acl 3g 8 sig aere ot ett
+
+ag stadt ae war & stata a
+
+eq starerafaft erereare crarerafentt fear
+witefirde mentee agiater osrar aga aitey
+
+afar
+
+oa ata O Grafetis St ra sera fran & sear eet wr A sa oe HIM,
+
+dented 26 re, seat Te AT, Fea sie TERT er TT ATE CAT SC
+at or TarGAe SAT
+
+erates —aewafter E—
+
+wadifaafef | gNaTeUIgSTCH
+fag feetaarat eat avatar inegt
+wernt? agdfiear srafraia 1
+mernitat  taregrafeat wary ue
+fee eftaarman aquicafafer aps 1
+emarnfeerceay afer fe ex
+ngresfemia garda ia
+fg Preteen cenfats srafatreia wes
+ata arrester aie ser fag 1 cfr
+safeg Bra fee crane wer Ty
+carat afrrerrer Proia afewtfer invett
+
+qravenrgar a ol Hata 1 fea gat ec we Hf oe
+see & were Tet st wraficia er Stra H wis afew Te SC, TART Cw
+
+fereare why sitter ard
+
+## Page 54
+
+sree ] CR
+cae atrafatia  srere sites t fa H dtet ee B Rec wel oe a6 ot, defeat
+wr wm ae ara ot fee AT ce or oe A wea, aT wate wr a ata H fears
+& Pear @ Pra H aha are fe H ew ae ae srafaela , aaer ata H sa faaw
+adt witeg ata St rat Eh eae | fea Hata ac ae FT ae dea ore
+sree aft a mse & ter E athe ste are awa H srafaeie E ures
+reard aed aa ATM me Ce te TT
+oa
+era sereafeerrerererea ey |
+acd (@ 7) wenmearfie wad waTafa test
+srgreraent Rar eet FATE BLL
+sear, wafrearmrargrent —aanfafir nee
+ea aa a oe E omar ene A ST Aa Se AT a
+wed 1 F wana da 8 Shar, EK A ARTETA TA we HE AME aie
+at daa oahears—feed—aqest SF erent wefafia Final
+agmanased—ag sat & waawed ser H—
+sagt sorat steer tegfestrerat 1
+sereifasfresniferrarcer: iron
+ag dead seutarufate Oey
+ea gis at ara rer —attaa Te aE BEE |, efor
+(eal sata), fd-andt, Bees, ait-geiee H satt weaer-ge_-aET—an ste
+Ataeage se Etat
+sed fq Tent —on davai
+wramegreaegtt | PIETER AT |
+cue Fear Taareaqerae wenfafie x
+semett ores aeattarg aeraq
+gre omye Revenge ghar ay xg sft
+arg waht rene aes & yi are a eRe a AoC TAT aE
+wifi % cantatt are wee se TS wT Te a aeaAta—aeE aT, sai grey aye
+Feo rare fends rere ATT 1 Ee?
+SATE ATT AT Re Mo Wl
+te ge
+
+## Page 55
+
+eR] Corex Praraorer
+
+igh wanergroer fe Uy!
+itary wrrgreraeae hdd 1x21
+seq seamen ficid graeae: |
+camereataratets — qandfidd meen
+ai as Hore ah we gy a maf tr feoraaTas
+anfaat st sere sar nar 88 sa qa Her AG sae wget we a
+sree oat E 1 am rere gat aa a AEC atk oaaeT a ae eT TINK
+agree —ay oat t emer
+wart arameae | eng!
+aeeaetl queen caren ef smi IKI!
+frembracqemnirraret |
+FerilgeerengenEAUTETETT AIT NYGII
+qerate fete Faq astenq eae 1
+we Arere fag nytt
+fafeacqet 1
+ater erg fomfeveratagyfir wnesi
+Faterea cearg aemrcani wer aaTgt |
+arg, aa Premermarert q gia xe
+UaRagreREAT ARATE I
+vitor werenge Frearery femal 1 go 1
+sarceree sre Ht ware Ha feat oat eee ste Ea Ae wear,
+aes, exert wn & & fee Ret aed mre, eegfaer at eee? eae oe
+ait, te, 7a, Ta ale Fo Ba, 3-9, SR A, BZNAGT, HSTTR-TE TT
+adh argon, sae, Tea ms we ge? ha Raw A a ate A TAA ea
+Reece wea wre ar He hoa TAR EL EE weet fae
+gfe ara we FRA TE ale ait” egylA B frees SCE FA wT
+2 eayel ot ae wt we Faearsl_ are OT GH A wile Ea BE TEE TAT
+crit 8 cdo 6 soe, en wR HEE TE A —Ee I
+smreregranien mee aera eg
+aiaigreeaaniea sifrafs yar ge
+ae womfeadiater iat eae |
+sera) aermragfie arg Aenee wT 1 GR Mh
+
+## Page 56
+
+srerafirera ] CR
+
+eer afaindtemeatafier att
+sategiferammnenaa, —arafafret ug
+
+coarerg gfaitdteargearenfcr wr 1
+
+cmemearargrey maar itt gar gy
+sretareraig brgfeas fag 1
+
+weary wigacta mare amet git 1 gx ut cele
+
+sien ga ad at oer rege % ste AWA mere ia RE
+wrava 2 Re asa ef ha wife ack E qaaes 8 sits, aa wae gfe sre ae
+aif ag &, sorare & aa feat wr ara om are Tafoece wat & ter ote OTR
+eek &, ae ata sea sre Fears % srs aaa aa H Pasta He ETE
+if Hiesam ara Ewa ad aaa & glam aa eet wt dae BE GE
+
+aft TagaM Hef, Ao WV
+to gs
+eet eeqraaTTETT |
+easement araafenforecad ugg
+
+ad ae Hw ga ot ot ee er, cage Bea em oe mie wT eT
+fare Fe arn 1
+
+agrananat—ag sri t sanasse wer
+
+ampaaartar are wT
+gaisser, | tardtargenfend ag gen
+weary weantargawand ware
+wie qogn gon ata fe esi
+atedtemeanaier azn WZENE FHL
+angrra ty wReastaaT gen
+suited vated met sia 1
+ava mpdited) quar gaara nso!
+
+Fe, ge, aan wae wT art god aT a aif wT aa Ei gitar
+arte ae Fa & ea @ ala Te at sath rae wT ATI aa E wa (Taw)
+ea at award @ A gS aI, AHS win, Ber | MIT hedke — ease aT
+ead sata saa gar aa? aT, sene_—aatMTA & A, eet —eRfatet— RET
+qeredt 2 arn, aitaa H wears wee E | ete —eraet—ater star, Trae
+meh, wy Tesh —gaed, eye”, pte | grT—gaeh, Titel — aie —
+Steere 11 see
+
+## Page 57
+
+wy] C exg fiearerorer
+
+wt paren waitat gfewdar 1
+
+saci afeweghamrersicnet i1stit
+
+wereaferer tqaferer ferent 1
+
+ioe wxere Fee. gre Hog
+
+saat areq weear eftceamen, gfeiat 1
+
+qilesfrensqae' cat aaTENR thot!
+
+faferwaniee orenger aeat aft
+
+aan St ar wag gemarmgsien Ary Howth
+
+arargeeraheared aafefentr. |
+
+oregemeomeaaaat ade fe thoxtt
+
+wearget  feureart mqartafe
+
+2 apa ar stars carat ahaa H gone Ei dtavedt-ataaey, fice”,
+agfrrer-fien ate 2, caafeer ?, tar we wet, Eaaeaer-raTed —memetefeTT,
+Frereatt—feerd, géern—eaftrard, txerar—frqed\—anna, dear—Sin,
+ria, wedt—at, g—wre, aea—gew, Meera —gteget—oae, & gfe
+ade € qe st qo art —gesfen a aree aan Fete erga @ rr OR
+ETA GEA gem, oH, Ge sue Aen a aT AT aa eT Gage GA TA E
+save Gea oR Bloat ee sere H sak ea SY Pat see H TF 1 tse
+
+WT TeaTTTZ
+
+swe at a sfivwea sega feat sr
+nu mater He %, do 2V A
+ten
+wares, alfred ay |
+niet aranigernifenfires iio
+cee waefenqarasgfafcd
+aaterraiarst eneiferreerat teeth
+arafemésterit stent egfedtaa 1
+cite wfrs | fateretgrtert west!
+swift archer etavtit gare |
+arditerefeata fearrcentedt —ueett
+Fearenae arat wr smenite qt wfinerg H se fra) se ata & att
+sot exes a eT H fea Frat aren Ea ea gH A oe frereaty Breda HE
+
+## Page 58
+
+arafirea ] Cu
+
+wad t ents ot ee ead ot TE gate a Para ae aE
+Ei cat ord BS sree ma haters ser er Es caw ATH aa EE AT
+8 wenn at Pearaceenfata H sefor11 ¥t ue UL
+age dtastt—ae sq t tava qa A
+we aeifenrg. sterrpefacunrest apse faenifersred,
+meastaargententecar wards & aanfer ef
+we hafae Prana % (Case att @ SEAT Fe das, cteatfas, Hae E
+cae ara & were ate ce aT AT Ewa. Teifaw aE TT EH
+we afa—we a ar E—
+sererdanienerrarerag Meee freer
+eieaeategat freencfereagy feafieneadtent
+URN, Seay, SHURA, Taraae, de, Toma, fas, TEA, lag,
+aca, srra, Peer, Fereaga, featen Kafe I
+sfererertet—aferrretfeer—
+Fearargitin ster regent aes
+senregeifa gifeny atta AETEAT liso!
+retreat aaa |
+afceritr areitg fafermts mgfaft ue 1
+faona % ate area oe 6 Ei ea qT attes ace F sea se EF
+16 att raat ara carafe H aes & vest Ht aefeat Free fe E 11 22—et 1
+arate area wed 3 af rr t—
+Staaterasdfereacan —ataiger 1
+aeadiarearpaant sewer ef afar a
+sig edamanger ava wad cee
+ata, deere, sites & tae hr He E aa aaa a aera RET sea
+sian EBB A fear sgt co Se HA
+qagrerdienarat anion semen 1
+aan ere frag. giminigare neg
+aqdastgecermet army frit:
+qoifersatratarfat wa ican
+aiwafasea 8 atgesteored 1
+& eefrate tenet ater Ary newt
+senitgteafafant geaett fafafesar 1
+
+## Page 59
+
+#] (eg Fereerer
+
+re mere sea atet r Feara he Gra sa a wee AE TET at facie
+88 ghamiger arb fed Beepeeate & Reoe oe ee Ree fet
+rar & 1 apifias fier Rensit ht dfeaat & aad dfereae A Ata fa Teal
+AA Mame se ae A sePafle H gowea S fates fer etc
+egw ateert—ae ater to t—
+erscenea ghaataaater  covafrerarentearstaret
+ataater efit
+ard ten i fen dia ata aera cited B gah daavty
+ae at Ei
+arerernics emer
+ariafratenfexaeenfrereg 1
+Practercagetareagent RATE Nextt
+ees afrareafirefer 1
+ag wanterewatrmreafeate cgi
+ag ataatromietrarzat. \
+qevafernar & get ater Aza usoH
+ata ataateerrntfeeenice arate 1
+safer fatter stgaresferreet ssi
+sity ateardtargeefenesfacia
+stewearqartn fefewen free cell
+yest face tend ta ae a afte SEE, sat eB aw eae a a
+dara’ 30a E att Targa afar wt E sat ara Yer H fica alae as E sat
+a ofan widtat H sam OH wa se aed B ga A ae E se A aia aheara
+ites see att & arerene Fete we Eat ate safe B sah wr fat
+Satara’ are % wegen a wei refea fear wren E 1) st—ee 11
+as fe sere — ater # ot
+pivevariengrn ada fi 1
+RE GTTTAT T TUTEETTT ATE II go IH
+cadeaaqafenengivgerst 1
+afrarahitmanaeimacay uct
+sferteramea mister frat fe 1
+ax arenttiterarmregenfa aT eR UN
+
+## Page 60
+
+reese ] Le
+
+fafrear ste afer afew war 1
+Aachen atwetar ef Fafa ue 1
+ghar armararfefaciaes arnt +
+etesatren ater ware Freee ev 1
+Bi—ahrd af & ciety of, weet Safed sara, ater a
+feca ang, ag — rare fetta araane, x —aenfe, we —ad 1 sia sre
+nite, EE TRMT, eer TAT sc ated eB wa ged wae St eA
+ected of 18 an GR set WA Ba, 5 14, 38%) atom afar me
+aig fee & semi Bera TL AT feat moa wT he TE act Te
+ofa & ‘ates ar fevanies, to—Feceeats—fawt feetecanis, aa—fefaa-
+crag aftnat a seas B feet ate % ee St ta HAE FO ales ot ate a
+at cata att HA ata ae Fae Porat Ey EB ata tls mae Facia wara
+svt 3 6 € 48 Gt aei fret foot art E 1 eo —ev
+‘awe fe arandet—aar & & avant ser —
+Aacaleregeieay GaTTETAT |
+senfemearey gaa arate ex 11
+sremergetir sft arreaare 1
+sturendtaigen foray faa 1 e@ 1
+ata dadiger —ataaegarer |
+earaaeaeae fafirmeegoarfati 1 eo 1
+atavenarmeccerpaeetiafereaefea
+at qa afiecrd augren ATERAH Ue II
+ata, dtegs, aT, Ste, cA, soe, sae, TA, Stee, TNE, sfe,
+ra, mg, afta Rad came a aes dx HE SATA Aaa ay aa
+ret Faerea fesan at eh Baer ma Fates A wrt 1 e4-K5
+cw fe atanieet at & arardger war
+yo taen starry (gare?) afm fr
+aareraten—
+feorrcenaia tater ae aT |
+are atereat ate fa fafa 1 €€ 1
+a stafeariy (rgeare ?) afersimartaaiers 1
+sae aeMTeTT te RAPE Zoe
+og Fer eat wg stengs” (geo weitE)
+gene, eater Ramen et ( Bat a 12)
+
+## Page 61
+
+ws] [2c Rearaerer
+
+qandiger aediat wets atc 1
+sfomarsfixeerdtea fsffinestd tot 1
+Ferre % fait AT ea RE aa he aE at ihe Pafier Rot ae
+219, sh 9,” madt Sofie ait © Ra 8 eae eed Fare aeeT wT eT
+sa te pa ara Ber ner EH MEE el Mie or ea Facie E, aftoneTaereT
+8 Ofer & fetta fae Frat aren El €€=f0% 1
+aw fe sforrshxma—en & & cfearretze
+yo mg aereaghitar 1
+Faaeenifie—ra « Rremenice t—
+i fe awe
+waar Aastra aferenferafea 1 03 1
+éeniaergrray ert 1
+Behn | ART TSTRTATERTAT U1 to3 HI
+wart weragnienfer arg 1
+ate areifenferamarerry aferefear tt tov 1
+ag omreataier pieearafteg 1
+aerate afereent ints ut to%
+caret Pe erereay eTead aT 1
+arganeal owt amt afore tog
+read recat ste eqifota & va sere face eB ae ts Het ative
+swear 1 ce aw ai Peoren ver @ 30H afeaal ( are Go aE vat f= EAE
+cuca afta & Prete At nk Ei sat area i ploree ofieal GoM fer
+su atae Bini @ xan gi aed t cuit ret wie a afer sar tae
+seen @t faa Sa? wa H WA El toz=tok
+ssiget mimyreemratey 1
+qwacfrar afeaniieremerct aa 11 too i
+sfapreat yraftereren eeenfeaer |
+sat argaeta stot aah utes un
+atafefamierginenatery 1
+ageerear wad afercrfeeren ata fn toe
+een afer area GererematereT 1
+we agawen wertarfeafad 1 tte
+
+## Page 62
+
+ative } [xe
+
+ate eavierdwaresatony |
+wgateecateeren aateeamfener un gee tt
+‘afore & aries sie ait @ sen nfedt H ved afar aries Hwee t,
+
+afent ares aonfia (goat &, & atat aftaai ag aes & ‘sit’ or H fraené E sar
+sataent it Feen qaaeat i aperen stat ates sateen a Ret A ae fe tare
+tot eat, 8 Rat mea aia! ere & atten wt EFS oye eH H fea Bae
+anftstt & garam oft Aaa touat 6H En foo VEEL
+
+ate aremafenierren sich 1
+
+wat aretareret fret aferefet eee
+
+ax vente ieee eTeH |
+
+afaarat mista Fafererr wre: eRe
+
+atworiactes aisha, 7 wae |
+
+saigzaiah crete Fre wemgeme UL ERY
+
+canaeat atactigafeaag atreiag (a 7)
+
+sre ateereriger afirargamay ul gtK I
+
+wieaaat art afettercenfenet 1
+
+ary arg awry wertenfiaticar 1 eg
+
+a8 Qf arewatisitaa are (wil &, 2 dat afinal aes @ uel fra «7B
+
+ace OE 1 ea ore ae at H Fee Pea eRe aaa maT H Frere ITE
+Behe aufe B aheca ara OL aE ait ee adh | St fea feawe_ ew FT
+3 Peewee cad & 1 ea ae dha alcatieal & aga sr fda seat wa ateere ae
+Beat wr ag a Backer ara Es gee aT — BT a fin tea EC a HT
+©) aga 8 ae a wees HAT EUG
+
+seca arent afesdatercanfrer |
+
+ices feet eaterte ae HEE It
+
+safe age are andere sf 1
+
+smredh are ar erafesenenerfenT 1 gts Uh
+
+anfat argh’ srargeartr are. 1
+
+iedstarecravaits. erent gear 226 1
+
+aerate sfeeroafersifaeraer |
+
+Sal arg fat wre verte are N PRo
+
+Oy arathy aera cert eee |
+
+## Page 63
+
+(ae faerarer
+
+aia saadeanimarernteny |
+wheaqewen refer aT 1 te Hh
+argtrer rerdeaiertare ore |
+
+arena cmerrafes enfine aT 122 1
+
+FEE a Ta area fis to sere gH ae Shea we E sh ae
+
+Braver | aries @ aged ofes too wit an, retires yantes You witanh ga
+sme 8 tat afta acl gear <1 aitita VE, qa @ ve aia wear am HE,
+aeat ou ofeeai salsa E Sat aisha Es waa anew Wa A aad F
+fea ataaran af aoxar ae amet, eee KC Se aC ARTA Feat
+Berar a Yoo asa sree tts — TRH
+
+argh aerts aciegatett 1
+cage sterrmbaeet aaifafi 223 1
+ert sifeaestgaterergaysct 1
+Fradereageeearer fanfare tye
+wiofenierta qreangfrr sa!
+cmteefeaameret —wrenfear 1 ¢2y
+argh srerges aferdterererar 1
+mom srefeerraearer arenfaer 1 t26 1
+
+‘a mec R aieitafacie H anger edt Ei ra sere Aten afeadt &
+
+cnafatr exer ma ates ateateaat a aia ver ara E 1 Caco aera caida area
+Bini a ue 8 egies @ EGE oot HAAS SHAT G Him AE wa
+
+GH Be MTATATA HII WIR’
+
+ariveafecerg armada frefrar 1
+wafrafrrensr ay atafiret atu tye 1
+yeaftccrmrte wy anq atrefear |
+frocm reagamearer eweifnr 1 ¢ze tH
+rerrafenerg ng wert fra |
+aaaatrearrene Tema 1 P28
+wéafeaferree wear ar 1
+aairomgrrenet erent 11 p30 tt
+frefern aamferaten wert 1
+aectererprrerer gfe tat tt
+
+## Page 64
+
+aafeeca } Cw
+ardeenfis da 8 4’ wet 8 frefia at, ae aaah ame qanfie ‘a? ee
+ita & Pref 81 0082 were aie Tea fe aa BG’ ree a any afte Ee
+28 cen ae we af OP eee ate & exer arms faefier AE, Egon
+wae & t002 qfterer arm traf BH TH CRo HAL I
+aifrergerte aia oar
+ca freteaeitar  achatafaiam nn ¢33 01
+freq aedigafawnay or gH
+sergraraget — fefaren firecat ni ¢33 11 ef
+aibat & wgare 8 8 ai wae ca ger dha HE Gofal wee ats.
+facia reese ana st sa tet A gfe ei saMgeRR gH (aes A
+art E 232-483 11
+arafadaraeafisit ii tot de te tl
+Boge
+cecteafa frig ha ofevifier 1
+sven fer a fe fer mare 1 EY
+aenfenveresteraafatretin 1
+woghearercey, fedtares ee ERK
+aerdiesares 3 vitae ghey
+senita afer faderdigitend 935 4
+wesreciafafiragaen —warafa
+ataclerranifersstgrat afefaaia tae
+sa abet fer & Fra wt ae ae weet, ke a Hae TER ae
+© sat snfea a7 & cha whet fe Prefer SE caer ater se a gat oe F
+egg fer & sae cates revat Hat aq ae afer feat) cit a ei ca cae
+seer t faite md wa wer snar & 1 geare caffe at wagaea st aurea ada ateata,
+aber argt 1 agfar or facta art Fn eto HF
+pag gafermta ane afecnit 1
+aructatatgersiteavemgeal uh t2= 1
+ataahe amrges a mage
+scafearmedteartag aereig arg uh (38 1
+ardefagsearatamrageitat 1
+facqrreta areata feaarati ti peo th
+
+## Page 65
+
+R] (ae Feeraare
+
+aq ayers fafeey rafter a THY
+smddeaqatt ermdemataeran i get
+pee pe refer ag or HTT |
+Ps gee ore Pr Be B Prefer ear aren Es wait gaa he wT
+¥ haa aa Haq are, aio ale G Rec aE Ta HAT WTS eq IB
+awit a 8 wea far, fegrazanes, seer a are ces, Fete,
+req ange & cal & fee gee ara arate & Fea core a8 Falter a Dee
+Bat se age are sale Bare wr B aa Trew saree AA UteS HFT
+age cioretd—ar on t cia se H—
+Twrsnegyyroniciter 1
+srearefacfarergingzartes 72 ArT 1
+feqvitedifiewrccxerarat fecrat yen 1
+weemiteaceer ecg aTaTeaa
+gu —qed, eae ’—egt—siem, om—aeee, Gada a Seg”,
+weg ara safe % at S srevare—ataree, Fecha (esd ge Safe —aEET
+grond oa ges dia, oite-at8 mrad qreazss, diken-guétea, raid —aae,
+erated "Peeve —efane wot ge ar Peart ?, ears ah, ees R
+ara dat Re HBA
+eager slavtegfamrey ot
+atverereneigen — aMARAREMY UL tx
+cuvafefeareadarrararameaq 1
+alearrey marares weg alrmieaq i twa
+
+rasrqratenfeaesrd faa ai
+cundeeatir cad smfaerat pee i
+sree mney 4. amet ATE |
+caer dha ate S afaan oy oc sa wah these a sr ater eet
+ara Ey aera St area sy feat ae aTrH a She ita aT A ile cE
+sweet uf a rare Get whe ere At fee Glen &, & arat w Hat a eaTat & sete
+Bate tg HU RHE
+ved fe deoreeta—eat Ot densi H—
+Emanhdgrateerean weremateraaad. |
+ata argaggferg wearrersiafrearesd 1
+
+Fare ar meare are &, sree Te aT Te FATE RA Wa aTeT Te Ne
+gare, care, (Aree) sgereETeT” (Carre) |
+
+## Page 66
+
+atefirsco ) Le
+
+sfrafrarecainzengranaetat |
+aataty abeafirmsigate siete ater wary ue
+eee—tag, dtt—avts,  giiter—antee—atf,  ad—gaeer
+a qui tat & om Bee gaTe—2u, gle wa—TeaTy, UE, fret, Ta
+crate, Fees 7 2a & fer —arergeh, faces —ataraa, at, wR, TE
+swaral site anfemadt & arettea ard & atesra ate drat a AE ee B aH
+sear ebeaafste mengarer |
+witarh afewwtertanfaamtont ues 1
+fecremermarienay get
+ateererag sreemfefcareremnfe ara ug ei
+deaianta ca apr orergar wee He ties ae A fa a A Gaze
+serarat & sea, ahesrer afr hae area why fiat ot sent A E 1 wt EH
+aged dementia eer & eer
+ferafedan gave araery fecentteierarateeat aie
+sabfermaiga wa areas Feder gemnfe i
+ea acing wifeanate oar are |
+genre dtactgritasven anita it evo
+aterigemrageinergeat
+fonft ta? &, gex? & ae &, Fearn wi—freat ara? sre B
+dines 9 atte ates we reds aries @ ata we a 1 ate aha wt ster ee
+sare anf ee sa roe aah wr safes eet mat EU He 1
+
+Bet gee
+
+## Page 67
+
+Bt wrt (gar ) dear QE: rt eat
+sniveatraPafaia ore son atet a senha wr fade HE
+seqafeatteaa: Wo Ro Lit
+Row
+sonar gfe @ et gdeearatentint |
+aor ever faci. gate afevifen
+ween Waefeneguratenaieny |
+wafenrerg aretgrengtear ATT gH
+fedtavearter ereereria fg 1
+senarstonfieargafceatecaigT| i 3 th
+2 fiat: exer & sitet aoa 1
+ataahesreeitfexenfenstizerst aferat 11
+aan atgrarar g aarerate afi |
+acatgarrnearg Persrerd az ea HN x
+sone at od Prorat ara femnfatie H st E aver exes facia wet Tae aT
+1 kai soa ate & sates oe &, sat afc og & fara ma & aA GA
+fda oe 8 sa eres wre EE sea ata aE feud A gam eqs
+ta Ea beataat teen gat ise diem, aie a da a
+ety vga dha ate oo ae arene aes Froar &, aa tet & srw aA ToT - aay
+& Pewrnt % gaz sera ser aT Eu C4
+weary Pretgaiizatgeing arg
+_peeeerereny ret soa §
+
+Avge
+4 ule
+
+## Page 68
+
+ates ] Cm
+
+cerita xfs frtareigaterd 1
+simateeraahfere nearer: WAI Ng 1
+seaaran(at ?) dtaaterenafenatedtfeat 1
+Fred fratta abet dain cae seat Gare Ha Ese aaa fete
+ee nt C1 oil ar ved ox frat fated et rar tata, aera, dee wi OT
+caret ADE ee Smo Hea tat A ave 23 BE Hu Gs th
+ved fe agers ae & E aera gees FH
+senor dtastrerafernfedtfear is
+atuatorranifenaita ware |
+qeeniargaater gee WATE Ue I
+aan anita aranieeedvetfs, waren |
+arent saenfir wader vatefe nto
+song atet & as at 22 ve E, ata, ateara, stare wie A oa Os
+se Batra ME ww CCE) aa ane arom wee He auTRR (4012 )
+ame dae 8 ae earns fem Veto
+ataeateangrereneah omractery 1
+afr argfaw aeaaemgaTTT et 1
+waeeratmts —aftaataait 1
+adacadtachgrat stata meen 11 ¢2 1
+frfaetivergeengeafafast 1
+wydiunelediegegeeser te
+sitercrnfs  aretearax qaeq 1
+stedtenistgrar estes cae te
+wast rag wgwTERtaraT |
+Feed areiga) were 14
+ata, dras, ga, aa, cara, sa, nied, aigfie, weaa, nga e
+te ara afte abe % Lat B ge ata a ara chet eT FEE Fecha, atin, zig,
+saa, a, fata, €5, fue, deat, are, gees, 7 ty A eK sted (Stee)
+vi mame Ci sas, ays, Be ATES, CR, FEN, TAT, Hrs,
+ew TEE
+fergaters ectercaaimft qi |
+aiferwaiatgraryeareay FAIRE HL eg I
+
+## Page 69
+
+wi (eet rarer
+
+vaferndadter ot wisaery 1
+Giedemera qr ere un te tt
+commen rafrrgitaitonifear 1
+crgen daadgerer ateIT FREHA ts I
+oa aqromrea awed |
+feng, afer, 311 arm qian Alfts ai adel ae wer we EL ay ae
+aE SE ca gore da vi we ne | iter ata att A alam eras eG—faite-
+aa 3G 23 te Atel Hat wa ok Ei ea ser ate ae ro ET Ta zt,
+ra aa rare & fey Re ar wom BEA EW ets
+Hama i Ko Fe VU
+io go
+qalevdiaaigrn sergrmet arg tell
+aiiaaen rey ge sfewhfea
+fraicateche — seeneMgATeR—goit
+senahatafaech qarat—aiwafef
+aaiis  srgnaeafiefacig get
+cites da anit & sa 3a ann 3 an B Aan eH HawH eX Bae TT
+wat da cit 8 8 ce os ae a oa sad dou B agar ea ay A safelaie
+a 3B ger pttattate ata H crak ea Pee H se ger ara  weenahe wt Facia
+ar wet sat EH ERE
+ages aewat—ag wer steers H—
+aicrfigenciangeatatia 1
+ado duster oreteafamary 1g
+amsrerctar were finftae 1
+senigearrcenatgieafevemfany gt
+aiaslerrasdawaigaiat mary 1
+caferachgnag aw regatta get
+aan atta, gray <OTEMTETETET, |
+srabgesieefetant arerT WAI IRR!
+sgenmemg frei azgut
+fageaaccerenry aarar Rady AT. NEI!
+
+## Page 70
+
+mates ] Cvs
+
+atatemeeret Fauiig ware
+fersanamcieareray  aePaacaey zeit
+wa sat ait % refege fice Hae dx ait st metea fer
+& aera sa8 ander fora ah Ei xadt HY seaemaas aE a sale.
+fioatate % Fate eter sc Att areal Ht, 4, 9 det ga
+gear Fat gait fet safe Bact Hew Haws we Ce, 4, = sea a
+sen safe fears H trex Aa ay, Gc aheia St ata wit H gem me a
+3,4, oan stem wat aerate H giz feat a vere waTIE A she
+Bria ait H aan &, 4, € sgt Beat &, 3,6 ara HS
+gett qadr quar aadq a
+coreieratgrread meafaertt ae
+saefechemeray egret watery 1
+rar ea gear Praca ia Re
+alaraayeriger, TURN
+samcteaigray Prag egy i go 1
+erernemenrery quar afer |
+ate argreienrigrafairada uae
+ceag caraigrerry Peay. aeRAT |
+arenearévennery gat Paya ML aR A
+-20- gua 8 ge we T-ad Ar14 H faary, carersT aE A aah wd
+wafer & gut afer 3, 5,2 ate amidt at qe Hae carat ai A
+eh arte aa ez 2 tera a aT ea sate HT Hee
+eH, o, tae Oda aa & aur get fo, v, = doar Wer B ara, ae der
+aia 5em ac waa & Face 6, 4 ail aa at Bev, ee leat
+ger or Hae R=
+cmeareaieateant fraicafe qaary 1
+wecaemfedgararng zgenfaarg 0 33 1
+farereantgrerama afiaatatg 1
+sonication, wear fraig aay a 1
+cmfecasigrary Frafereertaary 1
+yaa era, ae, BATT ATA 2H
+cg aregiterat Stetg raramy |
+aeiereangstgarmar gute atu
+
+## Page 71
+
+avoneafeaearery Praiig anfafr 1
+ea Fat aeaerearins  geq RON
+war cheeiterengentg ary |
+corafemigrary —Praeafe gdaq yen
+eran Raa ea srfeereee Ary |
+cercactererstgreny gee 113e01
+meager Praia gia
+frofermesenery quar Aaadq A vot
+
+(eg ferere
+
+cara are sea safe ata ait H gee ane 5, 6,4 aga
+20, ts, & a geri fea apa ara 1 sare aet H wha.Z aa—vala Hala vt
+
+Ht aage 4, 3, to ais & ae, 20, to mM QTR
+
+gat Bq fear eet
+
+seer once arte Hee att H arg, 2, & ait aOR 4, 2, 6 Heat
+na get & anit ata ail H waa ger Haid B wed fen’, aa aes aE
+Gt raf sua attdl Haare Co, €, 3 atenit at da wit A qi a wie qe R
+fran 3, 5, to a 8 (eRU-Rerm) Feent 1 UR, to, te ate a wage mara
+rat @ safe Haat aa Gea MAB, ao, = Meant a eT HF gfaare
+
+Fan’ 118-von
+
+cameras refer
+ereererenfeaigarny | BERRI eet
+fraiicat Faurereaqefrrtrat |
+aver qe arafnf orenfaneia eau
+war fecertereargenig wie fi
+ceamcrticeny fanig egy neath
+cetafemecrqarar ai RATE!
+ferrursigaraiantg ade fe wea
+waar qeaq ara FeayereangeAr ties
+fsafeirafafamanty ait fe
+aebrerastieren Prag, arm 1e5it
+armeraenrery aarat Radq pi
+ata maferedcaraigfentidt ween
+Aviamerseheary zyban
+ear Rada aeay anfeareceRTE UesHI
+
+## Page 72
+
+anfeery ] (ve
+
+raat ataatgiaarteraoery |
+seri} mremnit,gurerrerged vet
+Ra rer sans ate safe sae ait Aaah te, sv, Met
+aha eit 8B Quien 2, £2, AG aT ATT Araa Ha ere ae Rael TeafaT
+0, on fawrae @ saft #4, v, & sem atgiat ST ta it gem te, 5, 12 AT
+fort Feat wee—seahn Hse att H 8,4, UL AME HIM AE Re, 2, &
+aot ggteretcn oper He wt 1 eaten t sefafaha H sea ahat Ho, 2, aterdt a
+aa wit HF waTGH 4, 5 Co (Gem) AU gaan Feat | aw wafer TAS
+‘wena at @ safe Fgura ta ait Hc, 6, x ater 22, 5, qe A GETON ANT
+fio fart ga wer a ate B Ra Tag ew we NANT E FT AT
+Daa wr ae HF Ey —ve
+aa qabrEeTy |
+wa qr or aire wet we EL
+qarmng fF 1 To 2 Ho Zl
+ag
+aareren freig gate afeetin 1
+cera waefeng  gufrcivaeem unyelt
+amnfeaqerqar  aearaeaferefia 1
+ade agiwen  fedtorerepeR xl
+cevita fax fataretat 1
+cteseraterarpred — mamET UxRHl
+qatertaatgritsenta afierq
+eres & facta we at ae a eet B, eat Dax quis & Ae EL
+saat aif 0g 8 er HT wou | frefea fear &, ae fata we -A saa cider wT
+vy fear | o@t at eri ge scene ag Far a Feat wed wer ara alae sea aT
+2B seten at rg iter haat ge Hor eT EH MoU
+age Faciaifvert—ag sar & facia sfrer #—
+SeaeEMArR ara afew 1
+nowacdiereagersiar —edifear, tix
+art grenanicegnifitnciaa mar)
+stig & Mamta aarti uxt
+fettmeiiergt cx esr etifear 1 eae
+
+## Page 73
+
+4) C eg Perares
+
+am eam eae HOR mew Gt B aS fae yoo te BU we
+netics teehee fede 8 Cad aa ae aR E sak otk Wee el
+Heft qare Fes Etat eet Ei U4
+reat ht area 3 at et
+eeeroeet eet afer |
+arar agurasdiateiofes zeit
+fietemreereareree rier eft wT |
+Bat great Tet aigaeafeer at yon
+caer me aT wei wiaeeAT 1
+ay fadtaniemmict ght xsi
+senfeatela stern qaimen targa |
+ag a ceattegen arf eerfier xen
+art fact amet eifer gon gente
+Ses, TOS, wer, wher ae, a, Sei, Afrs, ser, wy
+eras, seen 12 aE GH ren ae Sara aT A SE EL EAS vara T
+Fafa ae’ sete vi Bw G, aa factaaten qr He quer S og A
+eta & vo i E1 sait Howe oa eee eT wl EE at eH
+gore ft Bue —8e
+age erent ——ag oer teres
+frees fegager = alert areafewra a1
+Frafanes cence rerastafiersee’ ar 1g tH
+cRraze aligemeqas arigaaerageT T |
+face aingaa a afew gOTNE aT Ez
+ware waea oie gurea Sreqer ETA
+wae dara deaiga gaiq agen Hematey 1 3 1
+Pralegenmnger aacafeng ware gfraton ort |
+froea ararenara wnifeamifeterene ee Tq 11g¥I1
+ate ae Faery aoe eTge Tere TAT |
+qa sterdearrga gafrgar wate erat udu genet
+fe—fea war ser St Ta SARA cam, fey ame y
+a, aig 2 an, re nfies—areqs—anfermea {a ereiee—e % ax 3 arn,
+0 cian aft, agua? aferterte ere: 1 oO
+
+## Page 74
+
+sarafewifivers ) Ca
+
+facia aioe @ arm, eee 1 -antiter an, gn —arerecatere am at after
+ateare ger Fafa, site (Ag ara, Rr — aE RR SAA aT Te GATT
+afore (4 am, aeigemnn—mtara & gt Moa y ate, fom —gN TE a
+re 12 am, anger 7 arabe 1 qa? 8 an, eben C-aeegEE AETAT HIA, Ta—
+grererar 2 arn, ca 7 Farge at FoR x aim, TEaI—TeNt (Ade Ze?) za,
+agra ¥ arm | eg fearee deeara—aeel & exe ara T sree GE Sn TE ET
+swe 3a fg ste afer Cara, deh gh eee we Fa STE TeRATA wer
+atte 2 & ta cee cork, are 8 Renee me oe EST eT ata ara Tw
+en och ce eg ca Tg ETAT TATE HELL
+rqearay arerqatesrefic ary |
+irt saratemifatioes fread 1 §& 1
+Fa cen way wars qe Sh sete fafeen Bere wa serafewfahy
+peafie Freer dt 1165
+wa metearieaTy
+my pee AT | To Vde BH
+ore
+ery serra aaah 1
+aa saafeer vey gata ofestfar u gett
+aegfearcraterereary earTaIR A |
+aeraesdartt ereamx tf aT gs 1
+war suafemey fedtarernys 1
+haverereaninet — frefaer 1 ge
+den smafermaes agivesceya 1
+cenit fer fadaratyasat uve
+oh et wea eran wnat eget sarazer (gre) & ae & Fa
+agen t, 29% afea ag cat are waen st Eval we ney esd
+art 1 zat oe 8 orate wet wert, stat ex a sad aH eet feeang t,t
+a 8 saateegee a Hea 6A, Ta TUCTET aT eek wee Feit we eT TAL
+Tu gwen
+afsagrersrmagesr cf emit
+aga afomemet geeaeataaret 1 ot
+wie dace mat oes 1
+wiomafeer ara ag were frefiar 1 93 0
+
+## Page 75
+
+eR] [ee Fears
+
+aa geen Bare, ren H EET a HE MEL wea a
+nah Hevea tonsil Haat loaratzwr & eres wer Eu st —2 A
+ages reed —ae ant E eeser H
+adr drasterat rend aenfifie 1 03
+aifraqrecrmmenaferea 1
+aver aiframreg weaar fine (#7) gt ov
+adéeifeaemrats aT |
+ag weaaaiiageeg omer 1 oy 1
+soni fess ar ear aoarafetfa fe 1
+detect atactemeat rested 1 og 1 eft
+ae Gach & nah & fart eanheh ae emaheeegieeeafgar eA E sat ai.
+Page ato ere wr Pearat Her Ej eat aw cs aa H fea oe A Eat ae
+grat H reine atat gftesg TE ae gal erate Ae ae ava H eet
+Fh Tu weg
+areraaitft——areray 3 att et B——
+wag sig’g gdeuafeer fr 1
+sir darter aT a FATT 99 I
+Boualesiage grengarat |
+aeerevafemraniarer, FRET vs 1
+ara aa a H Biomater & fen aed ae wt vara wit ad dar
+smengan £a ser Giewafes Geet sae ee ava TR a wrk EN wos UL
+sri fe geafacia-guefinda # eer t-—
+ager agar psiore aaifafr |
+faafereas gre erty afer aT HH 9e 1
+aferoreneara —aeqaonnaeegeg
+aaigaemye dete wreraqui co
+aegerenerery q HUET TTT
+wafer afeait gerearecaey use
+earaqearaia garenaaretg |
+cuedaronaterea ToRENTT RHA Uz 1
+serine camera git |
+cen pigeon sete neff nc
+
+## Page 76
+
+caferenfirwea J i
+
+craven sarafemr aareTEN TaTET |
+ster argfereratatreiagsat it = 1
+
+seat ata aterm? & sree a eof ARH H to afin ge
+ee cor afezrearea & fied, vais erat a we gaia civ ge TAT aw ae
+var, 3a ge & aint nH ha gee aa we HEE Ga HT eee
+war St sit act SI aaes st, aah Tat eit Ham’ ge AEE RR a
+sect Fa ener eo | a TC aT pigs ce FA BA TE eer
+aaron dae & sareter a or se ia rad fener anf or fi et arm
+
+En se—ez
+7 afaariraryy
+wa afixer or afrery ora © 1
+wag aferared Heat n We Reo (Ho V1 Ao Vz Mt)
+te ge
+
+picateormpea qiqt wafer |
+ferried gate afeetfir ui ox
+wenratenrerating gt aq eT |
+aeafermery at fsaricataefir 11 5%
+fetter were afer Haq!
+ate apixen chtarereegar nt so 11
+og aferecea a pica mq
+creriita fat fatbardfgaea <x 1
+aifeagrermaamen —aifear |
+ehren ag pear atadiefeat nce
+gga & pi onaieer & cathe eee aferer Pedant we aa wet Eh ee
+aa B menmttas 1c of &, salt safe oe & feared wi free fear, Gat a
+wen 1 aga afea four, 82 saa wiaen Mat ax Bef Ei ca awe afexs!
+sigan it og & eoand 1 ga vere at re Fee, Pine med a we TT E | aR
+finer’ wa & salt gebnenr dix act nak H goa Rage E 1 ei—ce 1,
+age wferefaert—ae eer & fezerfierea
+career fener stereeracet fig weer |
+piven arg pigfrsera s¥ifea 1 eo 11
+faa ghee —saafene st € aad A afiree & E 1 sat ga afer
+pigfces—pi crater 8 68 E11 £0
+
+oe) wieatetagararee a er
+
+## Page 77
+
+wy) (Cea fear
+
+aerate are 3 8 ott
+wder stgenteor meet fates 1
+afsagremartet aif. et
+art witeeg mew ares
+wieseredtenfenerg TET eR I
+Fafera gigvera dre gtaferer | eft
+ster wfererat q comenfreia. 11 23
+ssfererireremenret arg refer. |
+eae warert fefwret Preai u ee
+aa deed & ort Bd age aire wehag f seer TiRy as ver
+wert, ott sri of @ sive ¥ eaen pipe pi octet a tH
+haters: sgn t 1 we afer st cxaen frig fever faeora ara wer
+aed sere oer t aed 8 ee ee—faret eat E seat—aei Prefer fea ara
+tuetevn
+sed fic ufrarfieeat—afererfreowa war 3 et —
+geebnivernd stufcatergrers |
+radtaiereracaiicetad exit
+sieqresreefeng sem caterent aA
+wie aticcrearafeeredtteges Taff ee 1
+seorifsteferracigentetieenfacraterer Arg tl G9 1h Temhe
+woh 20 6 ot, ci—aait, weit, go % qe A cet, aut Te a at
+Pra ued —anitgedt 7, gates at cha sreardh 2, crewet—ferne,
+teh, gare ya Bay, gfew a re, 0a 8 fer geen 8 sae of TH
+ok a aeit BB aS ed ered}, ae ¥ oat Gat —T G gee faa Fafa
+dn ge ont 8 epee afer ead i L—E0
+Bisfrwraed 7 atteq—piafere age at ai fo t—
+cergrmrenqrrrstiern steers ar |
+fafeorefenfrerticar ar sigiirenr ef afera arg
+sis sat ote gett wR oH Gis TB ae cis at Bye fab vat
+Bye ae a wheter a
+
+## Page 78
+
+afermfiece ] tw
+
+weit —aea 8 ont
+aretermnniiraferstg sare |
+an dteet aq wen tes ir AT AT HL es 1
+Risoraferrareg @e wer a grea ee 1 rene
+ser 8 si erat al and aftzerst # wares A tet wer Tae Rive
+eft t 1 plomratte gate ged @ afer ae wer a ce HL
+aft nafioearase ®t Rare eraser:
+gf anf aeara safe Qenfas see Hosea mere ware A nar” (ae
+edt eS 7 ot ea fees aT t)
+
+meee
+
+## Page 79
+
+sea chret ar seer 3 gE: BH Heat y—
+
+TalararamT:'
+adefreery
+
+aianfiwcy vga 1
+adres OTT 21 TE tH
+aharaezafroareararer 11
+qatent wfererageear hier |
+ora a (fe? )efeneqeart arate ng
+wou weeny reimaieTy |
+aafereery  aeetearegfecrerat 1 3
+afetasterarererer —afaefat |
+crite fas fataratgrtoat 3
+duafrergygaeacterceners ery |
+aa arent amie estes aR 1 ¥ 1
+ahaa # at @ aferereéea faa weet wa ga fedta sere fara %
+ake ot ort Era aa 8 og ch tes Esa ees ee cee fea
+fra &, ss Fait Src a" & Prema 1 cat or ot ge were ges, Fate at
+ma wat arr 1 fara Bay Ra ae Bara GE E ae ae wea BE ee
+rap BETH (—¥
+ori fs geceet gare # agi E—
+feeafeareiate — arareiete 1
+awacinemmgferteimena x
+tga 2 erga ag edt 3 aI aw Rectareara Fr Rog Ge A cfr wT Ae
+ater 1
+
+## Page 80
+
+freaigets — sgmrafeerdg. |
+Vitek HAAR? )aeaor ATARECT 1H
+ag feeatiemed xfs aeasaetie 1
+carviigecat ——wradawHT Ue
+saeeosnfofeadieed px wa!
+rearerg tere ag aeg.ea eae HAZ EU
+fecafeared cfs abarpiifer 1
+frafearria, nenetarta, teeta, gfextciy, fraweia, aeniia,
+diteia & ara feata & vty ve Ei sal Preainared at og Es fears & sera
+ sowera H sada wa BY aged gre sem —aen % False at wed Fear cer et ze
+sargia Reark & fae eat te & eka Rear stem Sofee, ER Ferateared weet
+Fertuecn
+age fearert—ae frarare sea H oer E—
+eee gfranan = gonfeaie acareraty |
+fosireatcienasa sa qarneee TUATTATT 1 11
+goes aleqiatanereargrenaeatey |
+sierrerstrend sar mrevaaR AeAET Le to Il
+armen aaaeT x Grey aeseeRTTT |
+Agen wea aur qeifs daaekegerasT 1 Ct
+cone action aanfafx wary arte TeATAPCRTATA |
+ogi wedtergrema feoren SeareacheaT 11 ¢
+argrafaear weeiereaaetietaraea 98 aqTaq |
+We a8 fecaferrenciet wag GIS APAET 11t3Ht
+ae Cogn —astien 12am, gfteas ‘menfigeerrs 3 aa? pain
+fr et at, Nema aon, Rast 2 Ber aT aIO, TE TAS
+§ on, ceteg— wre Fare a, AIA comm, teas aa AN? te wT, SATE
+ea Cara, akong tga cam, wreafee— gear gar, arge (—argen 2 are.
+reg an, eR TTT ET Re aM, GRETA Ss a, a —atat ya, FA
+agra 2 am, Tey aoea (reget wt wesa-fepe 7 3 ai, Qqers—anatea ov
+aaa, anced aka agen ara aT ag at Te 7A eH, EAA PR ATT et
+a Sc oaE areas A CoC Tea FEE NT Oc ET KOT T
+Bed corecey cea gues b ects 8 gu Hac hy er eae Feeterete
+BU Oy ee Te =
+
+## Page 81
+
+ae] (ex Pereer
+
+ee nemretorintria:—we amarete eho ot fig TE
+erat freafemedeven aaaeegy |
+we semmiaeiceataert 1 pvt
+Favaticarg—freaficaredy ot ered ore ag2 we ee A ONIN i
+Farefca Four ara E11 tw I
+aged rdowt—ag wo & ghee er
+aumraniatecteaamaata AE
+aerawr ot rafeeifamereg uty
+super mrearwar aatcatis Fama |
+asawarndered aft rennet 1 26
+sere fi Hz H Fen Fea % a HH Re ae wT aT
+fa Frenien t v8 sad afte Bea ale we at ae ar ae owes
+orig ore & faefea fear var Eu 14-te
+afesanitf—afteane 3 at wert
+arnviereraeare® fant cf aferar 1
+sfavinggyar waor ReMITET HN to
+aifangaeaaaeatet feauesa 1
+anvemrgcaieda exert Py tS
+asarmureieared chr arear sift ge
+sa aiifoca fia 3 ata a ci HE sfaad Had ge sae aA &
+Ye ¥ args E1122 ea aah fay nfai EP wee of ae via waa fee
+ae & ead ce ceed ci aa BET TAT EN WS-tE
+oregafe—oarga #8 en t—
+sayererf etched Teararnivafera ear
+ailaageesrmearer —— fraereey 11 30
+fanaameary sag facia |
+faarrfee Remreet fa aTeeyAT 1 gE I
+sercearg afeatard eewureimedar xf |
+cage cea mtafreimerraseepeR 1 33
+ta cearefafa, feforen recat 32 1
+
+## Page 82
+
+tafser ] Cae
+
+sremnefife Bit H cagifoce wha B ea GA at Feotiner (2x doar
+
+ae ER Free Prorat & aparece am ech E feoraS abate te Rae
+Oh nat oa at & sat Parned owrieta cig een t sae abs oe a
+eg 6 6 RR a cork tafe acl wet we Ey 3e—28
+
+canting soaftefanaen aren fresqea ¥ 1
+
+aeafes cfearatefirgrrareareargTay i 26 1
+
+satreaenea arefersg eae cI 1
+
+sayareensness azaf@nrenace GATENA 1 Re 11
+
+migediana saaens aatog ed eegaaed |
+
+aopeprereeneatee meq gar fafaag ee aT 1261
+
+aay ora TaAeORATIMTCATERFMTATETT |
+
+aararafaacaa aaerae tag fafeasatert | 2911
+
+aeqeig freqncienenaeitedarre 94 gaa |
+
+a Ba aooreimeieh way ageRETER WAT gen eee
+
+sofas —rfena x sin, Pfr ?—aend ores 1 ar, oR —getat =
+ain 1 ordi ee as eB arm, R—fea ay wm, ee fhe @ aT, tf.
+sras—ara 6 aT, som) er Rate ea, ke 2 ann, RieeEeE—eRT S
+ae or aed & aa arehig 7 —aei ane aC ae ae 3a, ET OT
+sara 3 arn, tema — dheet— Here er ar, aera ALT TN, BER —BeTT—
+AA ONG 2 aM, afew EAT A cra TAA GAA Ga, ee
+Ia BEI, ATA —HaeaT 2 wn, mA EAR Fore ETB mT
+H nage gee & tad toy H qa a ey Meas we AL gfaNML_ Tafa a
+doo ad a sear 8 aaa ete Aaedes card ga at gaa Ae fae
+adit at ea edge ame oer Bae BGA ge Hwy, Ber we
+samerveiey en fey ge avec 17 1 2W-Re
+way teeazhafacia —wa Tecate fala TF
+eRe aan awcTeieeiTy |
+fecriera rete warm ge
+afer Prog Avera aT 1
+ama atuafeer ardtaraftareer ut ge 11
+werqulfefiedar «safes Fregtig |
+stofarcin ef agalt gt nag
+
+## Page 83
+
+ee] (nex fester
+
+wafeafeerafer arent geen |
+serena ater Pret a3 1
+a en were oTretD Tey BER FeceTey wa aet TTAEA BE ATT
+Fara at Gee Bt aefeara Bate aT are aah wa arar saat H Goa TTA wT Te eT
+aaa favata at kt tart ag tafe cla —teaetg Pravat are eer vat Eaves
+29 few rama & sae exes sataand aes & frrefve Fear aren E 11 2-22
+aged aviteafenetet—ay on & eeiteaficarnen
+afirararsaafafeaggaerreriat |
+aégheensgefngeeremna 133 11
+yaisfersa offs argT |
+vfs acratennta frwrafg carer ae 1
+fa, arg, aa, sf —craatr Faeqn, feqa—aaet art fear, YH, BTA,
+cia, af afte, te, fle, ere eae ae aR, Ha, Feat at B te Feere TaER
+eu wn
+ven ederes qT HTT |
+eer searefafinednter recat i ax 11
+ea ran Tie F qe are wife wa a ex oe Be sae Gee a fate aE a
+frets @t aidt 11
+age clare ——ar se cia sera A
+aeaaré afer gre & arene ateeremey-
+oageherafngrrarnes | ZRUIITN aE Ht
+aeErageae ¢ mae cARgTTTTT |
+qerr recast arama deaager FH 38 11
+seus tenes a fer eewgeT
+maghearmrceme garter oaferq ate |
+age ary aaraeeregary anqeteqregtenrarg tl 36
+qureagrteraterneary warrantee th 36 1
+car qhear aeeiemeraenetarren Ba Prataa |
+om at deaneie exqacggeataatt afire Ut vo
+srerare-cfyat wr gre 4 ar, Rengr—attefaite eras: seat 3 HIM, are 3 aT,
+afer eft —afercit weay —
+2 98, Wey Feo age sere & 1
+
+## Page 84
+
+etaifitea J Ce
+dustoog arate Pete s am, on-te-rewte 2 ann, unghie detezafeer at
+ee 8 ate, eat ot are — ae & ar, Qe 3 ar, aa Sef & aT, ae, v HIN,
+arg errata & ar, ager —aeraay @ aim, AE STE aT AT
+fawg 2 a am, ger 24 aim, afearat 2 In, dear Tg ¥ AIM, MeaTZ Ce AIM, AEE
+regan & wim, Peg — Paar 2 an, EATER aT, TIRE ATA TTT
+‘ore ar ga ogy wt Ree 2 OT, GHANA AEM aT ARETE AhaTeC x aT, UT-eFe
+sora 24 are mem Bee BHC aT ewe BH TE flew ater H we TUTE gee
+H coo gd & mgm a aa fata aw ant aera Ree ee eke wer Sse a
+ge H Fagus ot) ten get & AaetO—Fecagde ga gen Tat E Revel
+seu sited fia a forint fae 8 t
+waren tuserrciy | merepy |
+wert gfentteewey eat vt th
+requiafaarng — wtafefarery |
+wiq sfeatiein fe det at ng
+Fa san trssearia—ieuzig ons 8 ge we Bn gfe cia oT
+weet BER E | sigur —Pocasaths & da B ew gfeat ot Peta arn we
+pftzedt adey Pacrat Far Eun wt-¥2 th
+
+aged crega——ag ser t rege H—
+2 srerefaaregatennt erate. |
+saaterad rafeersina TENA
+gafesereeat aret— freaez 1
+avat frareqraia aeper orefaet. nee
+aaftectcis egret PeaeT |
+err @ fequed & afeard H ence: o ater sued ght wk a
+cg & feceddta Bao gfx ar Pacater weA ar » Feenfic seem art Et aa
+feercrd st et Fhe 3 Foor, ce ghey ara fhe er Eze
+Rreafehfningn’ fr eniteafenset—fenfe fefiée a aia
+fieareree # sar t—
+Reerranenfeeerrgiat Freer.
+A, aecht gfecedy sretferogan seer 4 1
+
+## Page 85
+
+8) (rex feorserer
+
+mrsraferme garantie er 1
+waataretaafermrana AT IG
+emrees raTet garer fieaera |
+Bq—are & sec abe Pred ag, wae —Us, sia, onal, wfe—ef,
+an, af Fecha we 2 aca fea ghezeh wat Reger ee, a Bera at
+a ered 1g % fee aoa B a B sem Ferme & aad wae Hees ZA
+ares Pireanficat sore et rat Eun vv
+oageen gheqfieiaarea mq ui v9
+rent) aearsfafirensten fea ive 1
+a sr gftaaht che wale ata a B se RR Re HA om fale wae
+sé Ti vee I
+age cigrecd—ae or & cia aac 8
+san SEyRTTT T Farry egTaTTITER |
+fergien wera eITER TENTH a1
+HORE TRMETE MONIT THAETTG A xe
+roe area + gehereracrremria 1 6 11
+gerernefiar | afeare —begeaeT a1
+arg gary wach eter aeyaeaferoMTA! xy 1
+seaiea fasteegremst ward wamatared. |
+tewrries Pratatg ace aereneafearraert xq
+eneagen yee Wag wa arandag ferefiier shag La
+eacitey afr ary, sags —at Sy o ae, aga
+ww ar en Rep aber es nore ae
+eras aM aT TST GAB AE aM, Taw aT, THT Sa, TRY aM, ae
+sera —araga 2 am, ge efi 3 am, ax—nafead site apse aS a
+vam ata and she ga eft st ev a, gUhATT ae ae BT OT
+vs ar, daft a a, GI EA eee Sara, Blea wT Te a
+fam, PEON v1 Da ge wa Baer Foe eT we H we we freee
+Fe AH soo HA TOT a ary Gite aH a Red Ga mater @ fage
+wt, wares aye ng eT ta aS a gag feat aN ei a ATR HIVE WAHT
+se Regarrighide ere fagarete wt Fie tt
+
+## Page 86
+
+riarftvera ] Ce
+
+astqgararaafeceny froatta fe
+at Aaregercaremgt afer ye 1)
+ad fae wafer att wtaafea |
+ET TEATETNIT Tea AH
+freaarcier ft amr are Freier 1
+
+qifecdt % qx 8 rae of fra baz aa e wat ate ae Safe
+Sa aT ah wd, feed aod ae Bahra ¥ era FET SATB ae
+cara dt Eafe fg ain ae rea H af Eh yw
+agmighfivay—ae on & wag #—
+
+Za
+
+wrt gifenea caaaron gee |
+safeener emrateamemt fefiafaeir ws 4g
+aaron seaman ofan 1
+
+aefefa: awrat cart Pera u4o 11
+
+fe orev cafinrenaatin wife 1
+
+aqoramita cmnasaag xs 1
+aermeiteranit areata wag |
+
+sadtgar wy ye APeTacenRTTENTg ULE 11
+
+cen arene ery acefa Frtar
+
+amdeary wart wemfe. Pree Go
+searagretreqraren eft TL EAIT |
+oamecrrammaanfasy go gt 1 Renew
+
+sea win 9 fer cara St see wc eet A sale H EWE ear
+wea as crane & facie &, agile & mies H Poca & sala Pda H oar Eis ew
+Foor # seve Feed fra faea feat eit Hwa He &, age He & civ
+sage & sq 8 sae1 sete deat erent —deaeg qa ates & ain HoT wa
+fcc wt ge afesiee wren Gt rer Et amr gece 0 & 3a 38 fen H fae aioe
+fry Peantisa! san et nat Ewes, score, feoqR, eT 5a Bw TEC ATE MT
+at wiedl wr arm TERE
+
+we anitgafcarsreehe—ariteaiearsres #8 6 t—
+
+qatagary (=?) aerarerenfe Freer |
+weapaereiequtrer eft afirar 2 11
+
+## Page 87
+
+we] ( exg frercorer
+
+waaferifs weREET q aT!
+Frege pega Aner set GR
+fag are afereervtafeetr un gen eae
+ad fecal & ga 8 soe feentiral sen gE EE ws, weTeN, ReoqE, Baw
+sang Eee nfs eo ae wet t see a seh, Fea HeETOT a
+‘sahfe 8 site area fis waa fare 9a at ied a az we TH Gee IL
+ Fe(e?) saareteteepen arafatreta 1
+wert oaeuefafceantg fread nn gut
+Regret ar ara facia a mare oe ac we Tae owe at ff ae a we
+art TL
+age ciqascs—ar ser t aia sara
+analogs cena aTTER ATGEACAT 1
+frafagersnse gees cesferatezamETreeR 11 &§ iI
+aeiwe wearer gifaerrerageT 1
+aus ang fees amt wang franger Wii go 11
+area mifreacre  aetethitanges wT
+mreretiang wemeaeay aye aeag ofeateay ATT RSI
+aeqd ceerg goaragarge eakg saraferreat gay 1
+ania waeratemmeasaread AafaiereTy Ge
+aye amfeaars aticstetraea yang mya |
+cea ex geamdiagg mates Fregaciey WA 1 vo 1 Keafe 1
+sweats —afem ing a ga? § an, eahig erat Fee Lae, gR—aTOTC
+gain ar edt Oe as a an, te a, Frat —ay BI AIA ET 7 aT, BRIT
+ary, oie Fate or Ye 8, TT = wT, YK CaO AT
+2 mon, gina we (act ea at et aE ? vata, HATA = a, aT
+Few? arda—frdiara 23 ara, egret 3 a, fee—famera vam, efter
+ain, diarared o aia, geehMa 7 y aT ea te Te Age a Ree BOMAT Fe
+Bac ec smrateer & we aT | ooo HO sears Baarg yx gat as aay,
+cat geod ca deer Ween Rage ae AY Ae Gee CNS Ge
+arate Forgan hy Fae 1 §§-92 I
+we quniziattds:—we gond rig wt fede Tt
+aiaafecatearigemy 1
+1 sree rer Gam agar FreeTOET 1 vt
+
+## Page 88
+
+tafe ] ce
+
+areamaget te feeds gt
+7 ent gearaemmitafe fate 11 9g 1
+away gent Faeretmnfetneeee |
+wget fs gach wafer 1 62
+aredh—mafrqeates ng fer oftit & sed Bea Ye agedt a ta TR
+saat erty Feenfioar sea dt ara E1 vt feqa& sida & n& Hoe gat OFF
+ara ee wenfea we — eta 6a Ft HAE A Cat a RAE we ere —
+aeniedes wate ag? Fu ot-93 11
+agra armert—ae set & seman wer
+wy Fetterman Profs area 1
+QA eravecinet art omega i 90
+aig serqratefscermievte” |
+aesraamrainy fast Pecan Gt eK
+negitafachareat saat feta 1
+aferarargarat aa eg a TET VG 1
+weg ewer great fears
+suet Rnagrar a gygMTETAT 1 vo 1 fe
+ora & sec a saat Fw teat af wet tora she cect FT
+ane aca mgt Ea Grae wie Dae ars wily €, sa sng F ae | fee
+Focdd ore wore ait ste frat & are Fetter sat Esa fs are af a
+sate fecar ar ata rere H acre tan? ati weg ww Ta ART SMP fA
+dae aH acae B vif ed 38 F art TH we -08 11
+aatft—aa 4 at eer B—
+ealereaerarangee aM |
+7 steerer wer xafy A 1 os
+/ ser amin Aarafetng wfeeafir 1
+saree fer Fat ogre Frarert i oe
+sexitaregert ate aeataratfenraat un weae
+a7 erga wt amiss afr —aTedt of ty Sk fet wt aA
+etna ded seater ded 208 Gere mB, Tad fee Ure feeatee
+‘wee ret E sa sate B geal atts arf de TF w= ve
+
+## Page 89
+
+) Cg Fenraerer
+
+woftaaemaged sfirga—een feacare on t efits 3
+feardtaaferargaig sardtafematearargceara gainer ef i
+femrdta oft & angie & aarta feenie cae eae Bet &
+sara RY aT
+aged aedieafearee’—ae sar & arvitea fieareree
+Freeramagserar sate TTR
+JS afesaengaadiar — qerfanzma ti co 1
+Serer sat ager era |
+speoraearene (Fe 7)ehter (ar ?)amenrer sear Neti
+arg err owe tfc ene ofesiea |
+menrratmifa fafuaeanter rea 1 cz 11
+gett ier gar dat ger xfer sere |
+vaermieaasernt | aa S21
+aquemiede ge sneafee un eae
+ae ares is ae os a is fir area fer rg feet & cee aE
+ea erat 7 sale Fenner sea BF are E aI Fs gree, STA, eine,
+wich, ander ena Ei sat goa Te lt oO E sab aa Fala age aE
+wit E63 oe, ah, gm, OA, ae oe Ei EAs Bey B Nava aT fer Te
+aged ei esterase 28
+arate eit areregey ce
+aetertt arefafieamger sata 1
+Ta ser qertsiee Tengen ogzeT Bowe ee Ha sae curt Ft Fah dae
+aed aa Ei
+age carer —aq ea t ciaxera H—
+saferiaae nog ferrites Gres eat |
+RoRaZe TREN SraaT afore Aa cy
+ig SAPO BAT ATEN AATEETERA |
+feces qagras daca aifewcsfenta ui << i
+gufersigancarare gees enifcerme sar 1
+reer omRgTEAT TEN ACIHIETATATETHG |) 50 I
+garg arg aifraraegaaig ere Bare aah AT |
+wed weygegered seqqeeraferrat eaeq 1 ce 1
+
+/
+
+## Page 90
+
+wrarfiterg J imo
+
+arty aeatereeearenteeier faster |
+cory argent ag ware a Pra U8
+adh geontesiar wigs ER TT TAT 1 Go 1
+arate —ahh war, aga—astis Qa, fenhe 1—feede—agriha § an,
+cre tens —feimes © aT, EEE & BT, TE TT ea, ef 3 HT,
+aifast—aregt aa, ae —ee 2 a, FAS — UM = aA, ANTS —TE— Nee.
+em § mtn, reat tac a, Peete Ratt ar ew fon ( awa) sm, TBR
+AAPG y at, faada Ram, atles—athe grim <A wr, guonatzar eee?
+4 am, ga—atrgafer & arn, enfewnfin ar fezett 4 ara, Tea—egt oT Teese
+2 omen, Ege egere Fae TAL CL ae, eednfeeret (ater feat 4 a
+Wa 8 esa BT ga BOC UME AUTENT H Ge suraiee Swe ery | v0
+28 seer & ree wl Fai a nay, TT ACT AL ox & aera gM
+Ht ara & Fae gerond een a RH Ges NATE A ATT HL CLO I
+vay theta facia mes Deda 1 fade BRE
+ciate wir arm fa aa
+amici wit sactia iter et th
+aia 8 A aa a rim fea’ Der ae Dees Ear AAG wee E vet
+age wagt—ae cag ser t—
+samitceratag) ax wer aq
+‘atara wag wifeoafecetTef eg
+stqatneear @ waig wearata cay |
+aq exiedeerafargrar fiat ATT I 23 IH
+aq emratetn reyes arenfircr at
+ered ? ite srafing ? set fart ari Ot atae at fe amet awe
+ard C1 qafocat Bata B ag aa st zh ar &, wt fe errata whe wafing 3 ww
+2 feat aren € oe sareitedey corm Fearat# at Eu €2-€2 1
+(ows aheateneres or t aries
+Ah areata safer |
+feufererar — qéfrcqnafemena ex it
+mania geaafenray |
+aa waif Fectier aatdtedeit wafer ex
+AtetermotaT —Terfaf
+rewefefamare anter freent 1 eg
+
+## Page 91
+
+] ( eet Reamer
+
+AA aif & ata & safter ara fewatis san at rd E saa gece
+fear at safe O ardt Esai eeizae 3 cera wr Frain we tar E ae tA
+eta & ar BAH cha ara aly waa ae ae ae Ta A fae we dae e
+eft wat Ei eF-e6
+
+age atawerdt—ag ont E cia ser HF
+
+semen arenfaren amr gticcen pyftarcens |
+
+Aetafeafaganes  enfcadacactiaafs es
+
+ueueren relearn desta giaatrcene |
+
+aces deraane sar areca aefeferereay Hecil
+
+fergie wegen water fraiaaee septate
+
+dara afirerateatentareancn aeeEATERT | CC
+
+aeferenercors aT epee aa |
+exer Patra qe, wegeRy ReRTeeAT ATA I Om
+
+eamege? ger frog amiatzendtearead
+
+seifecreneagmtiar cw alee 98 FREI N tot 1
+
+ca ed Ofrerda way qeMEqTaraea wee tk 1
+
+arn —atar aig ar en ea & aM, eTeafane— Deer a ae, gale-gdearert
+
+6 am, gfe —ebat sr gen ty fc a, Helter Re wn, chrgere— Be
+ain, anf eraer o ma, Aare arerarae Zo aT NeaTE-eMAE aT ANTE am,
+A Reaecieere = araateafag? Yo aH, TC eeT BTS OE CE TG aH, AereTE—TaTkT
+ein, nae P ergeerare & a, aefefemer raters ge aE wt weit 8 ATRL
+aefede <a, weer Fytedt 12 wm, Fata ire & wm, aegPed ea.
+spree 3 atm, safes ater redo ay, arena Fare & we, eT
+sweat 6&2 sar Sefn - Farhan ata ar wea se, WET rH, Teac
+a, wry saan at erfae w a | ea Para ain gE 26 TN BETES
+Hach fee parees gee Ht gry aR too THA TA OM? wit wat oe
+nara pot caver % sod are & ge ate tna tar wd w MAeiO TET Ge
+2 RANE ET ATA E9— 122 I
+
+TrAETTT |
+softs sr sfirece sega t
+UETAT Ho v Ao TI
+Ho ge
+
+## Page 92
+
+ovcfirse J te
+
+cageear frmraen zie eTERaTEEER 1
+wer nsafetetaciaemeae 1 p02 1
+neaq waeferq  afedeaaana |
+aifearersawrrecemseat toe
+wearrevaiary fichaws eat 1
+cena fer frdritgtea nn poy
+samt omer a54 giaeTTetaatt
+vroreareciait Aa SIRT TWT Hh tog
+ghenit yaafetetareegeara crea |
+ear fasraerig ama afimar ut too 1
+ee sere Fama ich at ner Beas cee a Tae Ew Fade eR
+‘Cie aa Hale Bates a og take slew oe Fae wr me eahG fear
+seat a srt By fare Ey oat ek ce gene ae a Pte wet rE ETAT
+aan, Tinemefia, ceaETTefia, sree, sez, qanfes & o ofa ¥,&
+Feonaerdt H sora Bw Ei Costes 1
+famaeiteratig araenoratfafir |
+aman aframatiggr, aay ML fos
+rai teaterremaratgares 1
+fen oa eardt aaa st aaah Manan ote age sweet
+‘Pekan A elem B wegen eareg BE tes HL
+age waadd—ar tnt erate H
+aft reece 1
+avast ardfereateaarres ATE I tee tt
+aot y araerettar aearetr Paar
+amaergats = aasafeafemey tte tt
+afecarggaen afer omer omcfiear |
+aterary giseaéfaeht aferdfear weet
+somieari —ceamaefet 1
+arama areaareracafierefeat 11 229
+afeceinfirer afierenar criferefef 1
+
+## Page 93
+
+we] Cet Fearmerer
+
+afermemta — gaaferedtfonr nv tea
+wary aa were afeetfirs. 1
+afta, TH, Way, eTwis, arate, aifirs, afiereTE, to Fears aft
+& wer fads fet cE) weit B gad A sad oi a Fem sft itt & at fe
+aftza & sqaar oft, cae & own, afer & qahearetiat ‘afte, wants war 8 ee
+arenafteh, ea wa 8 mre nféasi, arias 8 gece awe nf, anfeararas
+@ ante wh bra aera 8 o wanfeani AE tee—ee9 1
+
+ab eine
+
+## Page 94
+
+sre fac ht em gE eet 4 —
+ar aerate Fear won A feat & ae H Shaw at
+afehremarentargereacanaaencs tantra fi ata ATT
+gefrans | sam cee qiaearetet feagreerer Ger
+fect gfeeeit aeafeaeatr
+icra, em —afi, 1g, a, FETA, wT, eK ere, &
+afi fa i ara wt —oek E at fe som, oH, AeiTERTNL eR, feqeaTETET
+reneaenfia, ghee, ante 11
+adhaficremarae ater Hat et
+go mameaaraady dante af 1
+eae
+woritereatrreeagnite wea 1
+ware gfadtafen cuteafinhaa 1 1
+wed ugafircanpinearstcat |
+rercegiafearearg Rregsreersee 2)
+worefeergafrrcemg seayera feat |
+aaaferdrercary gficafteahantad 11 3
+aerdercatenccargratents sr 1 eats |
+8 4, 3, 8, 5,4 ofa Pear AEs see — seo E ter eRe
+ahet-aga of art &, « g—apiaraeetiel, ¢ pi—feagareTs fe sft &
+eg —ceTesfie, « xentee—gfeemt wf art Ba were. gate we Tutt
+cagear wanfareres OTeAT FEET
+aera varemen anger freeat 1 «1
+t a ero eat ere a er B age OEE TA rd Ter BAT | SE.
+mets
+et ey
+
+## Page 95
+
+wz) ( aeg Pearrorer
+
+gm fcerart ae emer H ect t—
+fencreaedanragan ateaeegaT 1
+sucaigmas ser ama aU 1
+srt gerard cag Berea 1
+qemrandea radar ug
+faggarenery arfeernrr rary |
+aera adaferecrarar sa¥ifaan ih 9
+acaaftatiea cageear aITeR TIAA 1 = A
+wa firagareaeteae feat mart)
+fear wt 5at ara agra fee 7 nt, sat an AM Tie, Ue
+neaefidt-qiorarehich gated O sumer et risa, uaeaTetielt Ba
+aft tte tar dar G, feazcrems che & frais at fafeanna eer, quate
+ae ofedt sr qe at stat sale, ca were faa sty afeeat at fore oe a
+AS iol Golds
+aged Aatertearan—ae eur E dieiadteat gas
+femanfedferater are aT
+afeemeci frrsorraeanata fe ve 1
+aver ataifa mae afer Ar |
+ageaaifaecnrt ante oreAT 11 to 1
+sear Sera aT ASAT TAT
+ated met «fret cere HH te
+facta eer Farr arenes
+fears feet fRraeeH 1 23 1
+nerer fier serrate aq |
+fanrreateinnageriaestearg WAY 03
+anes faenewcefer amr 1
+femrarranfoieserafeaaeeat (7 ?) ute
+fara fafa fe 03 See ic E 3a fale nia iar wea fafa
+wet @ rai 8 fee a afem & 1 z4 fea oft site faara Safe & Fete aw
+em & con ea ire & acl aren faethe foe YE aaa, wre, Hee, sre,
+neem, Und, gata, fade, cagel, Faster, erect, Fane & Req aR! E |
+fora rae a art Faqs @ sr, seer Severe era Fer nea @ tet,
+
+## Page 96
+
+sreafireca J ims
+Fear or setora a sort fea afer Sean 8 dt t, feat st etna
+ec erat sw Frat Hr &, fear ReEaRt—weniameeat Fea
+safer & wer-ie tell
+
+aftrafert arafeitengert 1
+
+segeteng fearrenarefereanfieegar th 2x 1
+
+fedeaataengteniedtaterats 1
+
+seregettafeacceary FeraeT TORR t§ 1
+
+feataeveat  arrenaeTateegaT |
+
+exeuataeadt arrerean aoa I to 1
+
+feenreareat aivea aTfeenfseTyaT |
+
+sf faeggremmafreraionenen 1 ts
+
+rahe fenrenetegaen mefaf teu geal
+
+five & Fro aerate wet ae &, Fears eget B sree erat
+
+swept fa, Fara ot Freee aft fas fea % arene B, cereaehatea @ fear
+8 ccregenta G, feat fea & fears G saee—Reatante 6A E, eroraeten &
+ana 8 enema it &, Pera afer & fron a avufiee oft Ge ara) tae
+sore Freya. te mPa & wre ween SEE, fern a aftat wr ante aga
+
+see te
+WET PAT AUT: [1 Wo Bo VI
+tog
+aovacrarent gata afeaifer 1
+aedatawrergeaafeny 1 & FATE I Zo Il
+fearanfeiferafeaecamn 1
+metararencea wert eT CH FH Rt
+afer areramafarearpeandi, ET
+sexenfaraer qatfeny exer 11 33
+anfenvaisatererereatacfaa 1
+erat aeatcee, edlareaE. 11 2
+sarawrect — atareRET |
+wamadeger gaara wesefaay 1 3
+cavity fas federaigateat 1
+wet aTRER veraTT SANT FAT 1 RYN
+ferrorafdFasaicat carafe ft wea
+
+© feats ard 1 —
+
+## Page 97
+
+we) Cag feoraoret
+ava fastend ga qa Hare og st, fiers St fier fect 8 ect eet
+safer eearaaraen & som GEE ae ares ga we wgaE Beet Eee
+a afuara St ea get seit fear Feat safes oe 8 afeeres fewarat,
+Her 8 Fe at 7 8 90, Kaew RT FHT MET AT a, eee GT
+oe 8 Pemarar, Ra mate ceed 6 faded we se ater E, eet B saw GE ie
+arene feaay ah & a & fora ot aera leer aH Re=8K
+agei afraid —ae set t afer ser
+sremremamcentemeMTTe et |
+aed Fear arrester meffees 11g gee
+saa, ra, cued, corre, FaPernfa wear & are at Fara meat
+
+weet
+fafredafa eater: ie 2, de 2
+tea
+eeraras wag gta festa
+aciahaneeregraiateng S # ATT UQOIT
+
+aufescarsafetaciaeateatis '
+fetareaccafrateargereay ust
+atearraye ear adage Ty
+waacdegiomgives apr geit
+ox cert feat fart weet
+fearaatrétesatétatgetcat ren
+
+awar fafrafterar wacdafa fafrcra 1
+ea eaterea wea ea Fa Laat, sae ates aE RA a IE
+58 12a een cy en a Fda Frmaren gat oe @ alent Fcc eee,
+met oy 8 eevee wet nay, Sh oe A Haas BPH we Ea weTC ved ex Feet
+faareré war aren &, fara a fatten afar wid or? art fina Baa ce fahreh ofa @
+Bea eer fee EB FoH
+age afeariet—ar cet afer
+aarfrsaferdfacanfeatirarfatcaralt 1
+cea fatratereeratiate aret fatafrs wate 1
+renguamearenea eat epteraarard, gq rene in
+© fort ge and ~
+
+## Page 98
+
+eafie ] tw
+
+rrr 9 Fefeen fr suf 22 fivareit % eazy % ow et Fafa ea cater
+sae rent Frede & etrere ergo & ite ae & eRtereat se araet E 12tH
+‘rarer —fiearere # at sat t—
+fafret anfieer feesaferearremfentr 1
+gba aretPreenriftgrnerar 1a qu etfs
+Faro are Fearne Qo ee HE ars AE ae wie A feos az
+weit & fraiend aed EueeU
+aeaatary aa mIETa: wate B, ge BH
+ae
+sear quite} ware at
+eafagradiaant ita fede ua2n
+acidenrerafng om maf fr
+ronfeatereeraiaes wey afte gett
+qiqieraeiar seq aefar WATE
+wie grander rarer fader 11240
+sernifrater yo adie gt |
+sgivcrearafiersar weft 11241
+ata wearameryiry
+eafergreraare afer wale AT 1711
+edie wha fetorifgateaa
+aeharaRg ETON TERN Uz
+sandr weiter omeaferts fe 1
+sraeamrengeefeeesfirgar mar aq 13e01
+aia ard omcaltaaeeys |
+agit 8 weal na Sy we Ea AA Wea feaTA AE HAS OCT
+eer t, cat enfdtus og rat oa E sail afes oe @ serait ara afta HH Tar
+Rice ae A eh cafe raat ara MIO Re GAt ae a aH o afer
+saraan et dat ve & sk ent wr Pratea she age oe @ eereng Ba ua ga. itt
+oq & cara gia Ferg reat wae at es Fear fem EL Ka ee vit wt oe oe
+ear we fhe wer ater 1 aetna wea Bee iv neat A retsre seraeT
+
+ee
+
+## Page 99
+
+ve] C eg Peareeres
+
+& rmnies € Gt, aha 8 glam —Reamfadt Saale FAT BTA cart
+cwaftat safes cornea @ eft ER
+aged neat —ae er € ara ae
+setaaagggrreerfert eA
+sqamraardiarass — aeareafierd tivo
+sihare wer 8 ea gf cents Beam stacy afeadt Beef za
+aren % Fearat 3 dh E voit
+salary ayaamTafeaT ATE Net
+SremTaraggya eareenfeeter |
+fe aferateg |
+itn a 8 sera coxuatea 8 ena tas wale sez ge ww Be
+ara & 1 ae nesta war H wet Et
+ct amySTNTEMTET att
+eae TETET CGTTETTTT |
+ea, sarrenaie ater wafiray iret
+at ower fafa « galeracaafiag |
+seater, eect qr ETHER inet
+meee wurrer asafeas afer
+aaernwatafs secant ayTR exit
+aifareeritiaig gateaanter 1
+cfeaferarafat Bag achat fe iret
+a sre gorTaiea 8 v2 gt area enfe aferat sa wn ARB eevee
+0 epfing Set 6 Esa set career af acl emer &, oa gitar w feat Be
+goae sie Fafie sent A aura 8 eaaraa: eh % FR era cf Hse
+fifa fear t qa Rat wa de Tae wert, 38 rd asic H gta o eat Hew
+cow afta acter & Rar gm wet EH vR—"e I
+seagate ery writeneding |
+fermaisinratmTrR yell
+rarer maryTerteaT ERATE |
+qeheacreiter —rifindgerg. uecit
+Tee gee Pearart fafueeary saree |
+arferesrifaig, ed eutwaties. nee
+
+## Page 100
+
+werent terifasigeniet a fe
+srarerg ate gai merely eq 11x01
+weary vient gatenem teat |
+aiieeresritrait tear ft fret uxt
+ssg again ne wane At, feora or STC aRA aera nea wate
+xa wea sree 8 qanfea & Fat scan erate & ile o afeaat wt waPaRiE
+spas as Ficarere we Ht sare & Faeia we  2  Paig wB aw Hea a, eS
+cafes & srifeate eur aft @ sear, gong af wt a eee wend & Fa A, we
+sae ser & ater o aeaar 32 rd Fae Hat Bee EU es—UE
+
+wa Tey
+wa weit or afew aga 1
+ails || oy To Ru
+Wo qo
+adrereeg gig? araferfaat
+ada aitrarareafery aoa fafreaa 1 xz 1
+avian frefraq 1
+eonfenqere = Aferarescafnefine 11 43 11
+factored arargiereafin ATE
+erate sf fataratgareaa ye
+anfufeart afracerifraiget wit 1
+aoa mary igh aenE sefraT n xx
+aecardinearg aera |
+aifwafefe aren qa fey aemeTaa ug tt
+Frna fiwerfaf & fates gigs 4 93 oftaal 68 E38 C feareTa Se
+wait rca ga Hah ert fart Fear arr 1 sa edades | 97 aei Frehea fo
+sai ecfeee dfs er gat ot B Pears & eae a BSE EL Ta ewe
+eat oor sed ex Parr era Patter set oer are & fra feat & fara a= wrat wr Fei
+ew NA ae UF afeaal Gia H vel ven Pemaé ag, va wal sve BATT
+arate & were 33 ea aa H Pw aT Eu wR—UE
+aged fearent—ag ua figarere wer H ext t—
+fearargivaeatfic atfaafefa arent 1
+water gerade wee ART Hh x9

@@ -1,0 +1,21785 @@
+# Narad Puran 4
+
+
+## THE
+
+
+## NARADA-PURANA
+
+
+## PART IV
+
+
+## MOTILAL BANARSIDASS PUBLISHERS
+
+
+## PRIVATE LIMITED • DELHI
+
+
+
+First Edition: Delhi, 1952
+Reprint: Delhi, 1997
+
+## Also available at:
+
+
+## MOTILAL BANARSIDASS
+
+
+## 41 U.A. Bungalow Road, Jawahar Nagar. Delhi 110 007
+
+8 Mahalaxmi Chamber, Warden Road, Mumbai 400 026
+120 Royapettah High Road, Mylapore, Chennai 600 004
+Sanas Plaza, Subhash Nagar, Pune 411 002
+16 St. Mark's Road, Bangalore 560 001
+8 Camac Street, Calcutta 700 017
+Ashok Rajpaxh, Patna 800 004
+Chowk, Varanasi 221 001
+
+## PRINTED IN INDIA
+
+
+## BY JAINENDRA PRAKASH JAIN AT SHRI JAINENDRA PRESS.
+
+
+## A^5 NARAINA PHASE 1. NEW DELHI 110028
+
+
+## AND PUBLISHED BY NARENDRA PRAKASH JAIN FOR
+
+
+## MOTILAL BANARSIDASS PUBLISHERS PVT LTD
+
+
+## BUNG ALOW ROAD. DELHI 110 007
+
+
+
+
+## CONTENTS
+
+
+## TRANSLATION AND NOTES
+
+Chapters Part IV Pages
+
+## 92. The Brahmapurana : Contents and merit
+
+accrued 1345
+
+## 93. The Padma Purwa : Contents 1352
+
+94- The Vi§i?u Parana : Contents 1357
+
+## 95. The Vayu Puratia : Contents 1360
+
+
+## 96. The Bhagavata Puraim : Contents 1362
+
+
+## 97. The Naradiya Purana : Contents 1366
+
+
+## 98. The Markandeya Pura^.: Contents 1368
+
+
+## 99. The Agni Pur^a : Contents 1371
+
+
+## 100. The Bbavisya Purana : Cemtents 1374
+
+
+## 101. The Brahma-Vaivarta Purana : Contents 1376
+
+
+## 102. The Linga Purana : Contents 1379
+
+
+## 103. The Varaha Purana : Contents 1382
+
+
+## 104. The Skanda Purana : Contents 1384
+
+
+## 105. The Vamana Purana : Contents 1405
+
+
+## 106. The Kurma Purana : Contents 1408
+
+
+## 107. The Matsya Purana : Contents 1410
+
+
+## 108. The Garuda Purana : Contents 1413
+
+
+## 109. The Brahmanda Purana : Contents 1418
+
+
+## 110. The exposition of Vratas to be performed on
+
+Pratipad (the first day of the lunar fortnight) 1422
+
+## 111. Exposition of Vratas to be observed on
+
+Dvitiyas (the second day of the lunar fortnight) 1428
+
+
+
+## 112. Enumeration of Vratas to be observed on
+
+Trtiyas (the third day of the lunar fortnight) 1431
+
+## 113. The Exposition of the holy rites to be per¬
+
+formed on Caturthis (the fourth day of the
+lunar fortnight) 1440
+
+## 114. The Exposition of Holy Vratas to be per¬
+
+formed on Paheami days (the fifth day of the
+lunar fortnight) 1449
+
+## 115. The Exposition of the holy vows to be
+
+observed on Sasthi (the sixth day in the lunar
+fortnight) 1456
+
+## 116. The Exposition of the rites to be observed
+
+on Saptarni (the seventh day) 1462
+
+## 117. The Review of the Vratas to be observed on
+
+Astami (the eighth day of the lunar fortnight) 1469
+
+## 118. The Exposition of the Vratas to be observed
+
+on Navami (the ninth day of the lunar fortnight) 1480
+
+## 119. The Holy rites to be observed on Da^ami
+
+(the tenth day of the lunar fortnight). 1483
+
+## 120. The Exposition of the Vratas to be observed on
+
+Ekadasi (the eleventh day of the lunar fortnight) 1491
+
+## 121. The Holy rites to be observed on Dvadasi (the
+
+twelfth day of the lunar fortnight) 1501
+
+## 122. The Vratas to be observed on Trayodasi (the
+
+thirteenth day of the lunar fortnight) 1512
+123- The Vratas to be observed on CaturdasI (The
+fourteenth day of the lunar fortnight) 1521
+
+## 124. The Exposition of Vratas to be observed on the
+
+Full Moon and the New Moon days 1529
+
+## 125. The greatness of the Pur^a 1539
+
+uttarabhaga
+Chapters
+
+## 1. The greatness of Ekadasi day 1546
+
+
+## 2. Discussion on Tithis 1548
+
+
+
+
+## 3. Yama goes to the Region of Brahma 1554
+
+t
+
+## 4. An Appeal by Yaina 1560
+
+
+## 5. The lamentation of Yania 1563
+
+
+## 6. God Brahma’s Reply 1565
+
+
+## 7. The Statement of Brahma 1567
+
+
+## 8. The description of Mount Mandara 1574
+
+
+## 9. A dialogue between Rukrnahgada and Dharmah-
+
+gada 1577
+
+## 10. The dialogue between Rukrnahgada and Harsa-
+
+deva 1582
+
+## 11. Rukrnahgada meets Mohini 1588
+
+
+## 12. Stipulation of the Conditions 1593
+
+
+## 13. The Fascination of Mohini 1596
+
+
+## 14. The salvation of Godha (the Lizard) 1599
+
+
+## 15. The dialogue between the fatlicr (Rukinafigada)
+
+and the son {Dharmaiigada) 1605
+
+## 16. The Anecdote of a chaste lady 1610
+
+
+## 17. The Statement of Mohini 1617
+
+
+## 18. Honouring the Mothers 1622
+
+
+## 19. The love-making of Mohini 1627
+
+
+## 20. Dharmahgada’s conquest of quarters 1631
+
+
+## 21. Dhannaiigada’s marriages and hisorder as a Ruler 1634
+
+
+## 22. The glory of the month ofKarttika 1638
+
+
+## 23. Mohini’s dialogue with Rukrnahgada 1647
+
+
+## 24. Questions of Mohini 1656
+
+
+## 25. The story of Mohini 1662
+
+
+## 26. The story of Mohini (continued) 1670
+
+
+## 27. The story of Kasthila 1671
+
+
+## 28. Ka.sthila’s story (continued) 1685
+
+
+## 29. The description of Ka^i 1693
+
+3 The story of Kasthila (continued) 1701
+
+## 31. The glory of the month of Magha 1708
+
+32, The Narration by Sandhyavali 1713
+
+
+
+## 33. The Submission of Dharmahgada 1720
+
+
+## 34. The Vision of the Lord 1726
+
+
+## 35. Mohini incurs a Curse 1728
+
+
+## 36. Brahma intercedes for Mohini 1736
+
+
+## 37. Mohini regains her physical body 1742
+
+
+
+SECTION IVi
+
+## CHAPTER NINETYTWO
+
+The Brahmapurdna : Contents and merit accrued
+
+## SHta said :
+
+
+## 1. On hearing these words of Sanalkuniara joyously,
+
+the delighted Narada who was desirous of knowing the excellent
+thing that is conducive to welfare, said again.
+
+## Narada said :
+
+
+## 2. Well done, O blessed one. Well done. The great
+
+sacred (Tantra) text, that is the most excellent among the
+(Tantric) scriptural texts has been narrated by you. It renders
+great benefit to all the worlds.
+
+## 3. iNow I wish to hear the (Excellent narration of Puranas.
+
+O sage, tell me whatever (i.c. all legendary episodes) is narrated
+in each of the difl'erent Puranas, since you arc considered
+to be omniscient.
+Suta said ;
+
+## 4. O Brahmana, on hearing those auspicious words of
+
+Narad i, his enquiry regarding the stories in the Puranas,
+Sanatkumara replied.
+1 This section is historically very important as it records the detailed
+contents of each Afahdpurdpa as they stood before the final redaction of the
+present NP. As the notes below will show, the NP docs cover a//the
+contents of all the Puranas and the information regarding interlocutors etc,
+is at variance with the published editions of these Furdpas. But that docs not
+mean that whatever is not recorded in the NP. is spurious. Critical
+editions based on all-India Mss. of the Puranas will be more reliable in
+this matter.
+
+
+1346
+N&rada Purina
+
+## Sanatkumdra said :
+
+
+## 5. O Brahmana, the stories extant in the Puranas are
+
+miraculous and very detailed. 7"hcy have originated* in the
+different Kalpas^ and they include different stories and anecdotes.
+
+## 6. This sage Sanatana is the most excellent among
+
+the knowers of many Kalpas. Ask him about this. No one else
+knows as much as he docs.
+
+## 7. On hearing these words of the noble-soulcd Sanat-
+
+kumara, Narada bowed to Sanatana with great hurnilitv and
+
+## submitted :
+
+Namda said ;
+
+## 8-9. O Brahmana, the most excellent one among the
+
+knowers of the Puranas, interested in the discussion of the
+perfect knowledge, kindly recount to me the classification of
+the Puranas in their entirety, on hearing which everything
+becomes heard, on knowing which everything is known. It is
+by following the injunctions therein that everything meritorious
+is done.
+10-11. The duties of the diflercnt castes and stages of
+life are clearly understood from it. How many are the Puranas ?
+What is the magnitude (extent) of each ? What are the stories
+that they contain ? O holy Lord, tell me. So also recount to
+me the different stories based on the four castes of people, as
+well as the details of the different holy observances.
+
+## 12. Please reveal clearly the stories of the different races
+
+and dynasties in the order of their creation. O Holy Lord,
+there is no one superior to you in the knowledge of the stories
+contained in the Puranas.
+
+## 13a. Hence tell me the story (i.e. the content of the
+
+Puranas) that dispels all doubts.
+
+## SUta said :
+
+13b-14a. O Brahmanas, on hearing the speech (request)
+1, This is a convenient plea to reconcile different versions of the same
+story in different /’urdpas.
+
+
+IV.92.i4b-22
+1347
+of Narada, Sanatana, the most excellent one among the knowers,
+
+## meditated on Narayana for a short while and said :
+
+
+## Sanatam said :
+
+14b-16a. Very well ! O excellent sage, very nice!
+Since your steady inclination is diverted towards the knowledge
+of the stories in the Puranas. This is conducive to the help of
+all the worlds. I shall tell you what had been narrated by
+Brahma formerly. Urged by filial affection, he narrated to
+Marici and other sages.
+16b-18, Brahma’s son named Marici is well known as
+one richly endowed with Vedic learning. He is the master of
+the Vedas and the Vedangas (lores ancillary to Vedas). Once
+he approached his father Brahma, the creator of the worlds. O
+leading sage ! O bestower of honour ! He devoutly bowed to
+him and asked him the same question regarding the holy narra¬
+tive of the Puranas as you do now,
+
+## Marici said :
+
+
+## 19. O Lord, Lord of the chiefs of the Devas, the
+
+Creator and the annihilator of the worlds, O omniscient one, O
+presiding deity over all, obeisance be to you, who are gracious to
+all.
+
+## 20. O father, I am desirous of hearing. Kindly tell me
+
+the core of the Puranas, their definition, their authority, the
+narrator and the inquirer.
+
+## Brahma said :
+
+
+## 21. Listen, O dear child, I shall tell you the collective
+
+account of the Puranas. On knowing it, all the extant literature
+among the mobile and the immobile beings becomes known
+
+## 22. O bestower of honour, in all the Kalpas, there was
+
+only one Parana^ that was the very seed of the fourfold aims of
+life.- It extended to a hundred crores of verses.
+
+## 1. With due respect to P.V. Kane (H.D. V. ii.P. 829), I believe that
+
+originally there was a single text of literature called the Purdffa, on account
+
+## of the following reasons :
+
+
+
+1348
+Ndrada Purdifa
+23-24. It was from the Parana that all other sacred
+literature and sciences were evolved. As days passed by, people,
+could not grasp this Parana properly. On realising it, Hari the
+highly intelligent deity, incarnated himself as Vyaszf in every
+age. In the coarse of every Dvapara age, he reduced it to four
+hundred-thousand verses.
+(1) Not only the NP here but various other Puranas record the
+tradition that originally there was one Purdpa, vide Brahmdpda (BdP) I.l. 40-
+
+## 41., LP I. 2.3., Mt. P 53. 3-11, Pd. P V, 145-52, Va. P. I. 60-61. And They
+
+have a number of common verses. For example compare, NP I.92.22-2S
+
+## (our text) with the following from Mt. P. 53. 4-11. :
+
+Purdpam ekam evdsit tadd Kalpdntare' nagha /
+Trivarga-sddhanam pupyam iata-kofi-pravistaram //
+Pravxttih sarva-idstrdpdm Purdpasyd’ bhavat tadd /
+Kdlendgrahaparhdrffvd Purdpasya tato nrpa //
+Vydsa-ri^am aharh kftvd sathhardmi yuge yuge /
+Catur-lakfa-pramdpena Dvdpare Dvdpare sadd //
+Tad OffddaJadhd krtvd bhur-loke'smin prakdiyate /
+Adydpi deva-lokesmin iata-ko(i-pravistaram //
+(2) All Puranas conform in general to a uniform structure known as
+Paflca-lak^apa tr claim to have the following five characteristic topics viz.,
+the creation of the Universe {Sarga) after destruction or Pralaya
+(Pratisarga)
+(3) Genealogy of Sages and Kings (VarhJa) (4) the great periods,
+called Manvantaras, (5) history of dynasties both Solar and Lunar races, etc.
+(VamSdnucarita)
+(4) Not only verses but long passages of verses are found common to
+a number of Puranas.
+Thus each Purana tries to follow the proto-type of that ancient
+text called the Purana.
+(5) The Atharva Veda (AV. XI. 7, 24 and XV. 6. 10-11) mentions.
+Purdpa which shows that there was no proliferation of Purana upto the
+final redaction of the AV.
+It was by the time of the Dharma-Sutras of Apastamba and Gautama
+that Puranas jvilh different names came into existence “approaching in the
+contents to some extent at leaist of some of the extant Puranas” (HD. V. ii.
+
+## 318). Writers from the 2nd to the eighth cent A.D. from Sahara to iSankara
+
+show that the Purana texts before those authors exhibit the same contents
+and characteristics as many of the extant Purapas.
+The later proliferation does not disprove the existence of one single
+work called Pur&^a.
+For details, vide section 1 of the Introduction.
+
+
+
+## IV.92.25-3I
+
+1349
+
+## 25. He divides Purana into eighteen books and hands it
+
+over to the people of the Earth. Even today, original in the
+region of the Devas, the Purana extends to a hundred crores
+of verses.
+26-28. Of course, there is a condensed version in which
+the essence is described briefly in four hundred thousand
+verses.^ The following are the three times six (eighteen) books
+viz—^Brahma, Padma, Vaisnava, Vayaviya, Bhagavata, Naradiya
+Markandeya, Agneya, Bhavisya, Brahma Vaivarta, Lihgaka,
+Varaha, Skanda, V&mana, Kurma, Matsya, Garuda and
+Brahmanda.®
+
+## 29. The single narrative is called the thread that binds
+
+the narrator and the listener. I shall recount briefly. Listen
+with great concentration.
+
+## 30. It wais the Brahma Purana that was narrated at the
+
+outset* by the noble-souled Vy^a, the Vedic scholar, for the
+benefit of the whole world.
+
+## 31. Indeed, it is the foremost among all the Pura^s. It
+
+bestows virtue, love, wealth and liberation from Sarhsara. It is
+rich with various narratives and historical anecdotes. It consists
+of ten thousand verses.*
+
+## 1. The total number of verses in the extant Purdnas as enumerated in
+
+Mt. P. & Va.P. comes to 400600 which b approximately the same as ‘‘Four
+hundred thousand’* as mentioned here and in other Puranas.
+
+## 2. The Ibt of Puranas given here is the same as in the Bh. P XII.
+
+
+## 13. 4-8, VP III. 6.21.23, Mt. P. 53.11 ff Va. P. 104. 2-10, etc. But theru b
+
+some difference in the serial order. For example, NP. records the Fifjw P
+as the 4th in the Ibt, while a number of others substitute the Saioa as the
+4th instead of V&yu. A.O. Pusalkar has however, convincingly shown that
+the Vdjm b entided to be a Mahapurai^a and Not the Siva Purapa (Studios
+in tho Epics & Purdnas of India (SEP. Ch. 2 pp. 31-41) that the VP contains
+thb Ibt shows that these Puranas existed in the Gupta Age.
+
+## 3. Like the NP most Purdnas g^ve the Brahsna the first place in their
+
+Ibts. But the Vdyu 104,3 and the Dootbhdgaoata (13.3) put the Matsya as the
+first in their Ibt, while the Skanda-Prabhdsa Kha^do 2. 8-9 gives that honour
+to the Brahnd^d^
+
+## 4. The Bh. P. XII. 13.4 agrees with the NP about the number of
+
+verses (viz 10000) in the Brahsna i* but AP, 272.1 credits it with 25000
+verses while Mt, P. states 13000 as the total No. of verses therein. Actually
+
+
+1350
+N&rada PurSna
+
+## 32. O leading sage, in it is described the origin of the
+
+Devas, ♦Suras and Daksa and other Prajapatis.
+
+## 33. Then, there is the holy narration of the race of the
+
+Sun, the Supreme Atman, the lord of the worlds. The narrative
+is destructive of great sins.
+
+## 34. In the course of that narrative, the incarnation of
+
+the glorious Ramacandra^ has been recounted, Ramacandra of
+blissful form incarnating in four manifestations (vyuhas)
+
+## 35. Thereafter, the lunar race is described. There is the
+
+story of Krsna, the Lord of the Universe, that is destructive of
+sins.
+
+## 36. There is the description of all the continents and
+
+sub-continents without omitting anything. The description of the
+nether-worlds and the heavens is also seen (given therein).
+
+## 37. There is the enumeration of the Narakas (hells).
+
+There is a hymn and a narrative of the Sun. Parvati’s birth
+and marriage are described.
+
+## 38. Then there is the narrative of Daksa. There is the
+
+description of the holy centre of ‘Ekamra’® (Bhuvanesvara in
+Orissa). O Narada, the first part of this Purana has thus been
+narrated.
+
+## 39. In its second part, there is the description of Puru-
+
+sottama.* It is explained in detail along with the injunctions
+as to how a pilgrimage (of Jagannatha Puri) is to be conducted.
+the Anandasrama Edt. of this Purana contains 13,761 verses. In the
+Brahma P, Gautami-Mahatmya is given in 106 chapters but the NP.
+docs not record it—a big omission.
+* Probably a misprint. It should be cdsurdridm ca ‘and of Asuras*.
+
+## 1. Tliis story of Rama though included in the list of contents of the
+
+Brahma by the NP. is not found in the printed editions (both Anandasrama
+Poona and Gurumandal (GM) Calcutta.)
+
+## 2. Obviously the PaRcardtra doctrine of “Four Manifestations” is
+
+implied here as Rama is an incarnation of Vifiju (Vasudeva.)
+
+## 3. This is in Ch. 41 ofthc Bd. P. (GM. Edt). Ekamra is Bhuvanesh-
+
+vtir on the river Gandhavati in Orissa—Dc 59.
+
+## 4. The description of Puru?ottama Ksetra and how king Indradyumna
+
+of Avanti carved out three wooden images (of Jagannatha, Balarama and
+SubhadrS) is found in Ghs. 44-51 of the Bd. P. 'Phis Purusottama K^tra is
+Puri of Jagannatha Puri or Sri Ksetra in Orissa. Puri is the ancient Buddhist
+
+
+IV.92.40-47a
+1351
+
+## 40. It is here itself that the story of Krsna^ is explained
+
+in detail. There is the description of the region of Yama and
+the procedure of the l^raddhas of the Pitrs (manes).
+
+## 41. The duties of the different castes and stages of life
+
+liave been described in detail. There is the narration of Visnu-
+Dharina and the Yugas as well as the Pralaya (dissolution of
+the world).
+
+## 42. There is the narration of the Yogas and the Saiikhyas.
+
+There is the description of Brahmavada (Philosophy of the
+Brahman) and the eulogy of the Purana.
+
+## 43. Thus the Brahma Purana that consists of two parts
+
+ha.s been described. It is destructive of all sins. It bestows all
+happiness.
+44-46a. He who, after getting copied this Purana
+consisting of the dialogue of Suta and Saunaka that yields
+worldly pleasure (here) and release from Sariisara (hereafter),
+donates devoutly that manuscript on the full moon day in the
+month of Vaisakha, to a Brahmana well-versed in Puranas,
+alongwith gold, water and a cow, after propitiating him with
+garments, sweet dishes and ornaments,—(such a person) stays
+in the region of god Brahma as long as the sun, the moon and
+the stars shine.
+46b-47a. He who reads or listens to this index (table of
+contents) to the Brahma Purana, O Brahmana, shall attain
+the benefit of the reciter and listener of the entire Purana.
+Dantapura which got its name from the shrine of Buddha’s left canine tooth.
+The three images represent Buddha, Diiarma and Sahgha and there were
+car festivals of these when Fa Hian and Hiuen Tsiang visited thb place—
+Dc, pp 162-163.
+
+## 1. VV 40-42 give some of the main items in the Bd. P. such as the
+
+story of Krspa (Chs. 180-211), description of the region of Yama
+(Chs. 214-216). Pitr-iraddha (219-220), Varpasramadharma (Gh. 222),
+discussion of Yoga (Chs. 234, 238),Sahkhya (Chs. 235, 239) and eulogy
+of Puranas (Ch. 235). But a number of chapters on sacred places and other
+important episodes which find a place in every Purana and as such cannot
+be branded as ‘spurious’, are not mentioned in the contents of the Bd. P.
+as summarised in the NP.
+
+
+1352
+Ndrada Pur&na
+47b-48a. He who restricts his diet to rice soaked in ghee
+and subdues his sense-organs through (religious) observances
+and listens to the whole of Brahmapurana, shall attain the
+region of Brahma.
+48b-c. O dear one. What more needs be said ? By
+reciting this Purana a man obtains whatever he desires.
+
+## CHAPTER NINETYTHREE
+
+The Padma Purana : Contents
+
+## God Brahma said :
+
+
+## 1. O son, listen. I shall tell you the story of Padma
+
+Purana^ It bestows great merit on those men who joyously read
+and listen to it.
+
+## 2. Just as a man becomes complete with his five sense
+
+organs, so also is this Purana with its five sections. It is destruc¬
+tive of sins.
+
+## 1. This Vaisnava Purana is regarded as the heart of the Cosmic
+
+Hari {Pd. Svarga 62.22). There arc variations in the nomenclatures of the
+diflerent Sections (Khandas) and the total number of verses in this Purana.
+The NP. gives Srsfi, Bhumi, Svarga, Patdla and f7/tara as the names of its
+Khapdas and this is borne out by the Bengal Mss of the Padma P—another
+evidence to show that the author of the NP was an East Indian. The No. of verses
+is 55,000 according to the NP., Bh. P., Mt. P., VaP. but the Brahma
+Vaivarta credits it with 59000 verses. The Anandasrama edition (Poona)
+mentions six Khat^dos viz. Adi, Bhumi, Brahma, Patdla, Srffi and Uttara &
+contains 48,425 verses. The Guru Mandal edition (Calcutta) of the Pd. P.
+has seven Khand^ viz. Srffi, Bhumi, Svarga, Brahma, Patdla, Uttara and
+Kriyd-yoga-sdra and they tally with the statement of the Pd. P, Svarga-Khapda
+
+## 1.23-2.5 and the no. of verses is 55000. It is noteworthy that a number of
+
+topics in the published Padma Purdpa such as the characteristic of heretics
+(Pakhandas), condemnation of the M&ya-Vada, stories regarding wearing
+special Vai^oava marks like urdhva-Pupdra, greatness of Dvaitbm, etc. do
+
+## not form a part of Pd. P. as describad in the NP:
+
+
+
+
+## IV.93.3-8
+
+1353
+
+## 3. O Brahmana, the details of religious duties are
+
+narrated in it alongwith the accounts of various incidents,
+anecdotes, etc. by Pulastya to Bhisma with the orderly account
+of creation of the universe, etc.
+
+## 4. The greatness of Puskara^ is glorified in detail. The
+
+procedure of the Yajfia of Brahman and the characteristics of
+the study of the Vedas (are described).
+
+## 5. Various kinds of (charitable and religious) gifts and
+
+holy observances are severally glorified. The marriage of
+Parvaii is mentioned. There is the long narrative ofTaraka.
+
+## 6. The greatness of cows etc. that bestows all merits has
+
+been mentioned. The killing of Kalakeyas and other Daityas has
+been described separately.
+
+## 7. O excellent Brahmana, the mode of worship of the
+
+planets and the rite of Dana (religious gift) have been laid down.
+All these have been mentioned by the noble-souled Vy^a in the
+first part of Srstikhanda (Section on creation).
+
+## 8. In the context of the worthiness ofxnother, father and
+
+others of being worshipped, there is the story of Sivasarman* at
+first and then that of Suvrata.® Vrtra’s^ death is described
+afterwards.
+The sfiecial feature of the Pd P is that it was used by Kalidasa for
+the plot of the Sakuntala and the Raghuvamia. There is one special Tirtha
+Mahatmya in the Pd, P. which is not mentioned by the NP and is ignored
+by complacent editors of the Pd. P. at Bombay (The Vehkatesvara Press
+edition) and Poona ('I'he Anandasrama Edt.) and that h \hc Karavira
+Afdhdtmya of 7300 verses MSS evidence of which is unanimous in claiming it
+to be a part of the Pd. P. It is being edited by the present editor in the
+Sk-Pkt. scries of the Shivaji University Kolhapur.
+
+## 1. As in the case of the Br. P. in tlie case of the Pd. P, the NP
+
+mentions only a few topics practically as tokens in each Kha^da and passes
+to the next Purana (Viz. the Visriu)
+Thus the greatness of Puskara mentioned in this verse (No. 4) forms
+Chs, 11U117 and god Brahma’s sacrifice is in Chs. 124-131 and the Vrata
+topic mentioned in the next verse (No. 5) is found in Chs. 200-258 of the
+Pd. P.
+Hence non-mention of a topic in the NP. is not a proof that the
+particular topic in the Pd. P is spurious.
+
+## 2. vide PD P. (Guru Mandal Edition) BAumt Khanda (Ch. 1.4)
+
+
+## 3. ibid Ch. 11, 21, 22
+
+
+## 4. ibid Ch. 25
+
+
+
+1354
+Ndrada Pur&m
+
+## 9. There are the stories of Prthu, son ofVena^ of Suni-
+
+tha^ and of Sukala.® There is Dharmakhyana (narration
+ofVirtue) afterwards.
+
+## 10. There is the narrative of service rendered to the
+
+parents. There is the story of Nahusa. Yayati’s^ story is
+narrated. Gurutirtha® (Holy centre) is reviewed.
+
+## 11. There is the dialogue between the king and Jaimini
+
+in which there is a very wonderful story. The story of Asoka-
+Sundari® is mentioned alongwith the death of Daitya Hunda.
+
+## 12. The narrative of Kamoda^ alongwith the death of
+
+Vihunda and the dialogue of Kunjala* with Cyavana. the noble-
+souled (sage).
+
+## 13. Then there is the narration of the Siddhas,® The
+
+benefit of (listening and recounting) this section is narrated.
+Then there is the dialogue between Suta and Saunaka. This is
+remembered as Bhumikhanda.
+
+## 14. The origin of the Cosmic Egg is narrated by Sauti to
+
+the sages. The situation of all the worlds including the Earth
+is described. Thereafter, the holy centres are enumerated.
+
+## 15. Then there is the narration of the origin of
+
+Narmada. The stories of various holy centres in it are severally
+mentioned. The holy account of the holy centres like Kuru-
+ksetra etc. has been described.
+
+## 16. The narration of the merit of the Kalindl, the des¬
+
+cription of the greatness of Kasi and Gaya, and the merit¬
+giving glory of Prayaga.
+
+## 1. PD Chs 27-29, Vena story is scattered upto the er of
+
+Bh umi-Khaiida.
+
+## 2. ibid Chs 33-36.
+
+
+## 3. ibid Chs 41-GO.
+
+
+## 4. ibid Chs 64, 72-83.
+
+
+## 5. ibid Ch. 85.
+
+
+## 6. ibid Chs 103-116
+
+
+## 7. ibid Ch. 119.
+
+
+## 8. ibid Chs 86,90,122
+
+
+## 9. ibid. Ch 123.
+
+The above correspondence of topics in NP. verses 8-] 3 in this
+chapter and the various chapters in the Bhumi Khanda of the Pd. P, is
+enough to show the nature of the Anukramapikd Varpaham (The description
+of the Index or table of contents) of the Pd. P. and NP.
+
+
+IV.93.17-27a
+1355
+
+## 17. The review of the path of activity (Karmayoga) in
+
+accordance with the castes and stages of life. The dialogue
+between Vyasa and Jaimini is comprised of holy rites and stories.
+
+## 18. The story of churning the ocean, thereafter, the
+
+enumeration of holy vows. The greatness of Drjapaftcaha and
+the hymn that dispels all guilts.
+O Brahmana, this is the section called Svarga Khanda.
+It is destructive of all sins.
+19-21. The description of Rama’s horse sacrifice, Rama’s
+coronation at the outset, the arrival of Agastya and others, the
+narration of the family of Paulastya. The instruction regarding
+horse sacrifice. Then the description of rites regarding the
+sacrificial horse. The holy stories of many kings. The description
+of god Jagannatha (the Lord of the Universe) of Puri, the
+greatness of Vrndavana; it is destructive of all sins.
+
+## 22. The narration of the perpetual sports of the incarna¬
+
+tion of Krsna, the greatness of the ablution in the month of
+Vaisakha, the benefit of ablution, gifts and worship.
+
+## 23. The dialogue between the Earth and Divine Boar
+
+(Visnu-Varaha), the story of Yama and the Brahmana, the
+dialogue of the messengers of the king, review of the Hymn of
+Kfsna.
+
+## 24. The meeting of §iva and Sambhu (?), then the story
+
+of Dadhica, the incomparable greatness of the Bhasma, the
+excellent greatness of Siva.
+
+## 25. The story of the son of Devarata, the praise of the
+
+knower of the Puranas, the narrative of Gautama, then the
+Siva-Gita.
+26-27a. The story of Rama in another Kalpa, the stay in
+the hermitage of Bharadvaja. This is the Patalakhanda* (The
+section on Patala). It is destructive of all the sins of those who
+listen and recite. It bestows all desired benefits.
+•Some topics mentioned in the NP are found in the extant Pd. Purana
+e*g. greatness of Bhasma (chs 105-108), Praise of the knower of Puranas
+(chs 114-115), The story of Gautama (ch. 114)—V^^ide Pd. P. Pitdla
+(G. M. edition)
+
+
+1356
+N&rada Purdtna
+27b-28. The story of Parvata originally recounted to
+Gauri by Siva; then the story of Jalandhara, the narration of
+Sr!-Saila etc.; thereafter, the meritorious story of Sagara is
+narrated. '
+
+## 29. The merit of Gahga, Prayaga, Ka^i and the special
+
+merit of Gaya, the greatness (in efficacy) of the gift of cooked
+rice etc, the holy rite of Mahadvadaii (12th Tithi of Bhadrapada
+(Suddha) with Sravana Naksatra.)
+
+## 30. The greatness of twenty four Ekadasis (eleventh day)
+
+in each fortnight is described severally, the narration of Visnu-
+dharma, the thousand names of Visnu.
+
+## 31. The greatness of Karttikavrata, the benefit of
+
+ablution in the month of Magha. The greatness of the holy
+centres of the continent Jambudvipa, which destroys sins.
+
+## 32. The greatness of Sabhramati, the description of the
+
+origin of Nrsiihha, the narration of the story of Devasarma and
+others, the description of the greatness of Gita.*
+
+## 33. The description of devotion and the greatness of
+
+^rimad Bhagavata,** the greatness of Indraprastha with the
+stories of many holy centres.
+
+## 34. The mentioning of Mantraratna, the description of
+
+Tripadbhuti; thereafter, the holy stories of the incarnation of
+Matsya (fish) etc.
+35-37. The hundred divine names of Rama, O Brah-
+raana; thereafter, its greatness is described; then the testing of
+the greatness of Sri Visnu by Bhrgu. This is the holy fifth
+section called IJttarakhanda. The excellent man who listens to
+the Padma Purana comprising of five Khandas attains the
+abode of Visnu after enjoying all pleasures here that he desires.
+This Purana contains fiftyfive thousand verses. It is called
+Padma Pur^a.
+
+## 38. This must be written in full and handed over to a
+
+Brahmana well versed in the Puranas after honouring him
+suitably on the full moon day in the month of jyestha along-
+•Vide Pd. P. Uttara Khanda, chs. 175-192.
+•♦Vide ibid. chs. 193-198.
+
+
+
+## IV.94.1.4
+
+1357
+with a gold lotus. He who does so is bowed to by all the Devas.
+He goes to the abode of Visnu. He who reads this index to
+Padma Parana or listens to it attains the merit of listening to
+the whole of Padmapurana.
+
+## CHAPTER NINETYFOUR
+
+The Vi?m Purdna : The Table of Contents
+
+## isri Brahma said :
+
+
+## 1. O dear child, listen. I shall narrate the great Purana
+
+of Visnu.' It contains twenty-three thousand verses.^ It is
+destructive of all sins.
+
+## 2. In the first section, six divisions have been made by
+
+the descendant of Sakti i.e. Para^ara. In the first division the
+introduction to the Purana is made to Maitreya.
+
+## 3. The primordial causal creation, the origin of the
+
+Devas and others, the narrative of the churning of the ocean,
+the family-race of Daksa and others.
+
+## 4. The story of Dhruva, the anecdote of Prthu, the
+
+narrative of Pracetas, the story of Prahlada.®
+
+## 1. Probably this is the only Purana which conforms to the Paflca-
+
+lakfafia definition of a Purana. May be due to its being Pro-paHeardtra.
+Ramanuja regards it as an authoritative text. Though I have seen the
+Vei^katesvara Press edition and that of Gopal Narayan & Go. with the
+comm, Viftiucitti and Ratnagarbha’s Vaifxi^oa-kufa-Candrikd, I use here the
+Gita Press edition (Gorakhpur Samvat 2026)
+
+## 2. Though the NP. and some other Puranas such as the Vdjnt,
+
+Matsya, Bhdgavata and Brahma-Vaivarla state that VP consists of 23000 verses,
+the printed editions give only 6000 verses.
+The Gita Press edition has 6373 verses. It appears that the NP in
+in verses 17b* 18, regards VP and Vifftudharmottara Purdpa as one hook while
+Sahkara (800 A.D.) regards them as two separate works (PJ VIII 94-96)
+showing thereby that the present NP. was settled before 800 A.D.
+
+## 3. In this verse the NP. mentions topics discussed in VP 1.11-22
+
+
+
+1358
+Ndrada PurA^
+
+## 5-6. The narration of the separate rulership and
+
+administration. These are the topics in tjje first division.
+(The second division.) The narration of the family of
+Priyavrata, the review of the continents and the sub-continents,
+the narration of the nether worlds and hells; the review of
+seven heavens; the narration of (he day of the week like
+Sunday and others alongwith their separate characteristics.
+
+## 7. Then the story of Bharata, which points out the path
+
+of salvation, the dialogue between Rbhu and Nidagha—these
+are topics in (he second division.^
+
+## 8. ^ (The Third Division.^) The enumeration of the
+
+Manvantaras; the incarnation of Vedavyasa; (hereafter, the rite
+that lifts one up from hell is mentioned.
+
+## 9. The review of all the religious duties (Dharmas) in
+
+the dialogue between Sagara and Aurva; then Sraddha Kalpa
+(The ri(uals connected with Sraddha) is recounted; the classifi¬
+cation of the castes and stages of life.
+
+## 10. The conduct of life of the good is described; then the
+
+story of delusion due to Maya; thus the third division that
+destroys all sins has been explained.
+
+## 11. (The Fourth Division.) The holy story of the solar
+
+race, the narration of (he lunar race. Alongwith that there are
+stories of different kings. O excellent sage, these are the topics
+in the fourth division.
+12-15. (The fifth division.) The query about the incarna¬
+tion of Krsna; then the story of the family of cowherds; the
+death of Putana during his infancy; the slaying of Agha, etc. in
+the course of his boyhood days; killing of Karhsa during the
+youth; the story of his life in Mathura; then in the course of his
+prime of youth his sports at Dvaraka, the killing of all Daiiyas,
+the different marriages, staying at Dvaraka, the Lord of the
+Universe, Kr?na, the Lord of Masters of Yoga removed(lightened)
+
+## 1. This verse refers to topics contained in VP Amia II chs. 1-7,
+
+12-16.
+
+## 2. VV 8-10 mention topics described in VP AthJa H chs. 1-3, 8-9^
+
+13-16, 17-18.
+
+## 3. It appears that the NP is unaware of the chs. 21-24 which
+
+describe the future kings, in the IV Aihia of the VP.
+
+
+
+## IV.94.16-24
+
+1359
+the burden of the Earth through killing etc. of the enemies; the
+narrative of Astavakra. The fifth division is thus recounted.^
+16-17a. The story of Kali is mentioned, the four types of
+dissolution. The Knowledge of Brahman reviewed by Kesidh-
+vaja (for the benefit) of Khiindikya. So the sixth division is
+recounted.
+17b-18. Hereafter, the perpetual virtues called Visnu-
+dharrnottaras are mentioned by Suta on being respectfully asked
+by Saunaka and others. Many holy stories, holy rites, obser¬
+vances, and restraints were also described by him.
+19-20. Dharma-sastra (Code of Laws), Arthasastra
+(Political economy) Vedanta (Metaphysics), Jyotisa (Astrono¬
+my and Astrology), the narration of the races, hymns according
+to the context; and dynasties, Manvantaras(or Manus); differ¬
+ent vidyas (lores) that are beneficial to the worlds are describ¬
+ed. I'liis is verily the Visnu Purana which is a succinct collec¬
+tion of all the topics of sacred scriptures.
+21-23. In this, the events of the Varaha Kalpa^ have
+been narrated by Vyasa.-'^ He who reads this with devotion and
+he who listens to it wa'th respect goes to the world of Visnu.
+Both of them enjoy all pleasures there. This Parana must be
+written and given to a devotee of Visnu who knows the mean¬
+ing of the Purana on the full moon day in the month of Asadha
+alongwith ghee and a cow. O Brahrnana, he who does so goes
+to the abode of Visnu through an aerial chariot as refulgent as
+the sun.
+
+## 24. O Brahrnana, he who hears the contents of the Visnu
+
+Purana .shall attain the benefit of the Purana itself.
+
+## 1. VV 12-15 summarize the topics in Lord Krsna’s life and form
+
+the basis for the X Skandha of the Bh. P.
+
+## 2. The device to explain different veraions of the same story is to
+
+attribute it to a different Kalpa.
+
+## 3. In VP., Vyasa is not the interlocutor. It is a dialogue between
+
+Parlijara and Maitreya.
+It appears that the major portion of the present day VP is known to the
+NP and hence it obviously precedes NP in date.
+
+
+1360
+N&rada Parana
+
+## CHAPTER NINETYFIVE
+
+The Vayu Parana : The table of contents
+
+## God Brahma said :
+
+
+## 1. O Brahmana, listen; I shall describe the Vayavlya
+
+Purana^ on hearing which one attains the abode of Rudra,^ the
+Supreme Soul
+
+## 2. This Purana is reputed to comprise of twentyfour
+
+thousand® verses. In the context of ^vetakalpa, holy rites
+(dharmas) have been described herein by the wind-god.
+
+## 3-6. This Vayaviya Purana has two sections. (In the
+
+first section) the characteristics of creation etc. are mentioned
+in details. Kings and their dynasties in different Manvantaras
+have been recounted. The killing of the demon Gaya^ is describ¬
+ed in detail. The importance and glory of (different months and
+of) the month of Magha in yielding (religious) merits is men¬
+tioned. The merit accruing from charitable gifts and the duties
+of the kings have been described in detail. The precise descrip-
+
+## 1. This is called as god Vayu is the chief interlocutor. Tlie
+
+Mt. P. (ch. 53) declares that herein Vayu proclaimed dharmas pertaining to
+^veta-Kalpa. This Purana is published by Vchkatesvara Press Bombay,
+Asiatic Society Calcutta, Anandasram Poona and Guru Mandal Grathmala
+Calcutta (to mention a few).
+
+## 2. This Purana belongs to the Sa iva group and is characterised by the
+
+glory of Rudra as Mt. P. puts it. The elucidation of Pasupata Yoga and the
+emphasis on Siva Mahatmya made NP declare the attainment of Rudra’s
+abode as the fruit of listening to this Purina.
+
+## 3. Though Vayu, Mt. P., Bh. P and NP declare 24000 as the total
+
+number of verses in the Vayu, AP gives the 14000 as the number of verses,
+while according to the Devibhdgavata it is 24,600 verses.
+Actually the Anandasrama edition contains 10,991 verses. It appears
+that sections like Reva Mahatmya and other Mahatmyas which were originally
+in the Vayu P. when the NP wrote this chapter, later got separated as
+independent works (Pusalkar—Studies in Epics and Purdoas (SEP).—P. 7a).
+Pusalkar opines that the Vayu is a Mahapurana while the Siva Purana is an
+Upa-Purdoa (ibid 77).
+
+## 4. Kane (HD. vii p 906) and other scholars regard this Gzyk Maha¬
+
+tmya as a later addition to counter-balance the Saiva bias in such chapters as
+
+## 20.31-35, 24.91-165 {Sarva Stotra), 101.215. 33 etc.
+
+
+
+
+## IV.95.7-14
+
+1361
+tion of the beings wandering over the Earth, nether worlds,
+quarters and the firmament is made therein and all the holy
+vows and observances etc. are mentioned. Thus the first Section
+has been stated in brief.
+
+## 7-9. In the latter section, there is the description of the
+
+holy river Narmada.^ O leading sage, Siva’s Sarnhita (com¬
+pendium) is mentioned in detail. The eternal Deity who is ins¬
+crutable to all the Devas stays perpetually on the banks of
+Narmada wholeheartedly. The waters of Narmada are identi¬
+cal with Brahma, Hari, himself, the great Kara, the formless
+Brahman and the Kaivalya (salvation) itself.
+
+## 10. Verily Reva, (this Narmada) is a certain Sakti
+
+in the form of a river which has been brought forth from his
+own body by iSiva for the benefit of the worlds.
+
+## 11. Those who live on its northern bank are the followers
+
+of Rudra, Those who reside on the Southern bank go to the
+world of Visnu.
+
+## 12. Beginning with Omkaresvara and ending with the
+
+Western ocean, there are thirtyfive confluences with other
+rivers that destroy sins.
+
+## 13. There are eleven confluences on the Northern bank
+
+(the northern side) and twentythrce in the Southern bank
+(from the south) and the confluence of Reva with the ocean
+is the thirtyfifth.
+
+## 14. Together on both the banks of Reva, there are
+
+four hundred famous holy centres inclusive of the confluences.
+
+## 1. VV 7-15 : The Printed Texts (both Anandairama and Guru
+
+Mandal (GM) editions) do not give the chapters pertaining to the Rev4
+M&hatmya which might have been there when the NP was written. In stead
+of the division Purvardha and UttarSrdha as given in the NP (of the Vayu-
+Purana) the Vayu itself (in ch. 103.44) states that it has four sections {Pidas)
+viz. (1) Prakriyi (2) Anufanga (3) Upodgh&ta and (4) Upasamhdra and it calls
+the Purana as ‘Four-footed Purina narrated by Vayu* in the next verse (ibid
+
+## 103.45)
+
+
+## The Anandasrama edition gives the following division of chapters :
+
+
+## 1. Prakriyi(chs 1-6) (2) Anusahga (chs. 7-64) 3. Ujxxlghata (chs. 65-99)
+
+(Upasaihhira (chs. 100-112)
+The contents given in the NP are to a great extent different from those
+in the Printed editions of the Vdyu P.
+
+
+1362
+Marada Pur&na
+
+## 15. O leading sage, there are sixty crores and sixty
+
+thousand holy centres at every step on both the banks of the
+Reva.
+
+## 16. This Saihhita (compendium) of Siva? the great
+
+Atman, is very meritorious. In this the story of the river
+Narmada has been detailed by Vayu.
+17-18a. He who writes this Purana and gives the manus¬
+cript with great devotion to a Briihmana householder on the full
+moon day in the month of I^rfivana alongwith jaggery and a
+cow, lives in the world of Rudra as long as fourteen Indras rule
+over the Heaven.
+I8b-20. The man who narrates this Vayaviya Purana or
+listens to this, regularly, restricting his diet to cooked rice con¬
+secrated with ghee, is undoubtedly Rudra Himself. He who
+listens to or reads this index (or the contents of this Purana)
+shall obtain the benefit of listening to the entire Purana.
+
+## CHAPTER NINETYSIX
+
+^rimad Bhagavata : Contents
+
+## God Brahma said :
+
+
+## 1. O Marici, listen. I shall tell you (the story of) the
+
+Purana, I^rimad Bhagavata that has been composed by Veda-
+Vyasa and which is on a par with the Vedas.
+
+## 2. It consists of eighteen thousand* verses. It is glorified
+
+as destructive of sins. This is a veritable wish-yielding celestial
+tree with twelve branches (Skandhas—sections of the Bhagavata).
+
+## 3-4. O leading Brahmana therein in the first Skandha,
+
+when Suta and the sages meet together, the Lord is mentioned
+
+## 1. According to the Va. P., A.P., N.P., Br. V. & Devibhagavata and
+
+the Bh. P. itself, the Bh. P. consists of 18000 verses. But actually the Gita
+Press edition of the Bh. P. contains 14,579 verses.
+
+
+
+## IV.96.5-12
+
+1363
+as embodying the whole of the Universe, The holy life of Vyasa
+as well as that of the Pandavas (is recounted). Then the epi¬
+sode of Pariksit. This is cited as the first Skandha.
+
+## 5-6. In the course of dialogue between Pariksit and Suka
+
+there is the review of the two types of creation. In the course of
+dialogue between Brahma and Narada there is a nectarlike
+story of the Devas, the characteristics of the Purana and the
+cause and origin of the creation. This second Skandha is thus
+composed by the intelligent Vyasa,
+
+## 7-8a. The anecdote of Vidura, his meeting with Maitreya :
+
+The Prakarana (section) of creation from Brahman, the Supreme
+Soul; the Sahkhya doctrine propounded by Kapila : Thus the
+third Skandha is summarised.
+
+## 8b-9. The story of Sati at the outset and that of Dhruva
+
+thereafter : There the holy story of Pfthu as well as that of
+Pracinabarhis : Thus the excellent fourth Skandha is told, while
+narrating the gross creation (Visarga).^
+10-1 la. The meritorious story ofPriyavrata and the anec¬
+dote of the members of his family; thereafter, the description of
+the worlds included in the Cosmic egg. The condition of
+hells. This is considered (as the summary of) the fifth Skandha
+which is technically called Sarhsthana or Sthiti.*
+1 lb-12. The story of Ajamila and the review of the crea¬
+tion byDaksa. The narrative of Vftra and thereafter, the meri-
+
+## 1. The NP. upholds the view advocated by the Bh. P. II.90.1 that
+
+instead of the traditional five characteristics of a Purana, the Bh. P. redefines
+a Purdria as possessing the following ten characteristics.
+(1) Subtle creation [Sarga)-, (2) Gross creation {Visarga) (3) law and
+order ensured by God {Sthana)\ (4) Protection—welfare of all (Pofapa);{5)
+material lust for Karmas (Oti) (6) the periods of Manus and history of that
+epoch (Manvanlara); (7) accounts of the deeds of the Lord {lidnukathd,) (8)
+physical annihilation [Nirodha) (9) Liberation (AfuA(i); (10) the last resort of
+the Universe or the Ultimate reality (^Airaya),
+These characteristics occur with some variations in the Bh. P. XIL7.9-
+10 but as iSridhara points out the terms Vjiii and Rakfd stand for Sthdna and
+Pofapa. Vamianucarita is used for Isdnukatha, Samsthd includes Nirodha and Mukti;
+and hetu is substituted for Oti, Apdiraya for Airaya.
+
+## 2. Despite the efforts of Bopadeva in f/flrtVi/dmirla (and his able com¬
+
+mentator Madhusudana Sarasvati) to show how the contents of Skandha V
+demonstrate the characteristics of Sthdna^ a modern reader wonders how the
+
+
+1364
+Ndrada PurSm
+torious nativity of the Maruts. This is the sixth Skandha com¬
+posed by Vyasa in the course of the section known as Paripo§ana
+(or Protection and welfare of all by the Lord). *
+
+## 13. The holy story of Prahlada, the review of the castes
+
+and stages of life. O dear one, thus the seventh Skandha is men¬
+tioned in the course of the narration of the desire for action as
+directed by past Karman. (It is technically called Oti).
+14-15a. In the course of the narration of the part known
+as Manvantara comes the narration of the elephant-king, the
+churning of the ocean and the check on the prosperity of Bali.
+The story of the incarnation as Fish. This is the eighth Skandha.
+(It comes under Manvantara).
+
+## 15b. The narration of the Solar dynasty as well as the
+
+review of the lunar race. O highly intelligent one, the ninth
+Skandha is mentioned in the course of the narration of the
+dynasties.
+16-17. The story of the childhood of Krsna and his boy¬
+hood; his stay in thv, Vraja; his early youth and the stay in
+Mathura; his later youth and stay in Dvaraka and the removal
+of the burden on the Earth. This is the tenth Skandha in the
+course of narrating the characteristic section called Nirodha or
+control.
+18-19a. The dialogue between Narada and Vasudeva, the
+meeting of Yadu with Dattatreya and that of Uddhava with Sri
+Krsna. The mutual fight and the annihilation of the Yadavas.
+This is the eleventh Skandha which is designated as Mukti
+(liberation).
+legends of Friyavrau to Bharata (chs 1 to 13} followed by the mythological
+geography, ancient (mythical) astronomy and description of hells form an
+organic whole to be included under the characteristic Sthitu SathsthSna or
+Vrtti. Such doubts naturally arise when the text of the Bh. P. is stretched on
+the DaJa Lakfopa bed of Procrustes.
+It appears that the NP. accepts the traditional Skandha-yiiio
+
+## distribution of the topics or the ten Puriva takfapas of the Bh. P. as folows :
+
+^ame of the characteristic topic. No. of Skandha illustrating it.
+
+## 1. Sarga HI
+
+
+## 2. Viforga IV
+
+3« Sariuthdna or Sthitt V
+
+## 4. Pofopa VI
+
+
+
+IV.96.19b-24
+1365
+19b-21. The future Kali is prophesied; the liberation of
+Pariksit; the composition of the branches of the Vedas; the per¬
+formance of penance by Markandeya. The Vibhuti (elegance,
+glory) of Sura (Sun-god) and thereafter, that of the Satt-
+vatas. The narration of the number of verses in the Purana.
+This is the twelfth Skandha which is also called A^raya (sup¬
+port) , Thus the whole of Srimad Bhagavata has been narrated
+to you, O dear one.
+
+## 22. It is the bestower of devotion, worldly pleasures and
+
+salvation on the narrator, listener, instructor, supporter and
+the person who renders assistance.
+
+## 23. The manuscript of this book is to be given with
+
+pleasure to a Brahmana devotee of the Lord alongwith a replica
+of a lion in gold, on the full-moon day in the month of
+Bhadrapada.
+
+## 24. If anyone desires for the devotion of the Lord, (he
+
+must give it) after duly worshipping him (the Brahmana) with
+clothes, gold etc.
+That person too who reads or who listens to this index,
+attains the excellent benefit of listening to the entire Purana.
+
+## 5.
+
+Oti
+
+## VII
+
+
+## 6.
+
+Mmvantara
+
+## VIII
+
+
+## 7.
+
+lidnucarita
+
+## IX
+
+
+## 8.
+
+Nirodha
+
+## X
+
+
+## 9.
+
+Mukti
+
+## XI
+
+
+## 10. Airaya
+
+
+## XII
+
+This distribution is supported by later eminent writers like Bopadcva in
+Harililamxta\ Sridhara, Vira-raghava, Vijayadhvaja, Vallabha and others.
+As I have presented this traditional scheme and criticised it in details in
+my Introduction to the Bh.P. pp, xxii-xxxiv (AITM series vol. VII), I may
+briefly state that the claim of the Bh. P. as a Mah&pur&ipja with ten characteris¬
+tics is tolerably justifiable within the limits of the Bh. P. as an epic of growth.
+This traditional presentation of the contents of the Bh. P in the NP.
+shows that the major portion of the BH.P. belongs to the pre-NP. era.
+
+
+1366
+Ndrada Purdna
+
+## CHAPTER NINETYSEVEN
+
+The Ndradiya Purdna : Contents
+
+## ^ri Brahma said :
+
+
+## 1. O Brahmana, listen, I shall recount to you the
+
+Naradiya Purana comprising the twentyfive thousand verses,^
+based on the story of Brhat Kalpa.
+
+## 2-3a. In the first quarter of the earlier (first) division,
+
+there is a dialogue between Suta and l§aunaka, then there is
+a succinct description of Creation. Many holy religious
+stories connected with Pravitii (activity) have been narrated
+in the first quarter of the first division by Sanaka, the great
+soul.
+
+## 3b-4. In the second quarter called ‘Moksa Dharma’,
+
+there is the review of the means to salvation, the detailed
+narration of the aiicillaries of the Vedas and the birth of Suka.
+All these have been recounted to the noble-souled Narada by
+Sanandana.
+
+## 5-7a. In the third quarter, the following have been
+
+narrated to Narada by sage Sanatkumara ; Pasu’s (individual
+soul’s) liberation from Pasa (bondage of Sarhsara) as explained
+in Maha Tantra; the consecration of th(; Mantras, the initiation,
+ihe uplift of the Mantras, the mode of worship, practical appli¬
+cation, Kavaca (recitation of mantras as protection or coat of
+
+## 1. According to the Vdju, Mt. P., Dh. P. A.P., Br. Vaivarla and the
+
+statement of the J{P. here, this Purana consists of 25000 versc>. But actually
+the Vchkaicivar Press edition of tJic NPcontains 16550 verses (13H4 in the
+1 part and 5406 in the II Part) PJ. VII 2, p 349 states that it consists of 17549
+verses. According to Hazra, the Mt. P., AP and Sk. P. had a different—an
+earlier—version of the NP before them, as that NP (according to these
+Puriinas) was declared by Narada with reference to Brhat Kalpa which b
+merely mentioned here- In the present NP., Narada is a listener. Hence the
+present NP is different. Moreover, a number of Nibandha^writers quo'le from
+theNP but the quotations arc untraceable in this extant Purana. For example,
+the 47 lines quoted from the NP by Jimutavahana in Kdlavivskaarz not traced
+in this NP. It ap()cars that an earlier edition of the NP was a bigger one when
+the mediaval Dharma-sastra writers used it.
+
+
+IV.97.7b-I8
+1367
+mail), the thousand names, the hymns to Ganesa, Surya, Visnu,
+Siva and Sakti in due order.
+
+## 7b-9. The following topics have been recounted toNarada
+
+by Sage Sanatana in the fourth quarter : The characteristics of
+the Purana, the authorities and means of valid knowledge,
+charitable gifts, etc. have been mentioned separately alongwith
+the proper time for the gifts. The holy vows that destroy all
+sins and that have to be observed on the Pratipad (first day)
+and other (subsequent) Tilhis in all the months such as of
+Caitra etc.
+
+## 10. Thus the first division is summarised. It is called
+
+Brhadakhyana. In the second division there is the enquiry about
+the vowed observance of Ekadasi.
+
+## 11-18. It is a dialogue between Vasisdia and Mandhata :
+
+It contains the meritorious story of Rukmahgada, the origin
+and activities of MohinI, llic curse on Mohini by Vasu and
+then the way of extrication therefrom; the holiest story of the
+Gaiiga, the narration of the pilgrimage to Gayfi; the incom-
+parabh' greatness of Kasi; the description of Purusottama, the
+injunctions regarding the pilgrimage to the holy centres along¬
+with many incidental anecdotes; the greatness of Prayaga;
+thereafter, that of Kuruksetra; the description of Haridvara; the
+narration of Kamoda; the greatness of the holy centre liadarl
+as well as that of Kamiksa; the greatness of Pi'abhasa; then the
+description of Puskara; the story of Gautama afterwards and
+then the hymn called Vedapiida; the greatness of the holy
+centre of Gokarna; the narrative of Laksmnna; the narration
+of the greatness of Setu (the Bridge built by Riima from
+Bharata to Laiik.a) ; the description of the sacred river Narmada;
+the greatness of Avaiili; and that of M.ithura; the greatness of
+Vrnd.ivana; tlie approach of thcPa.su (individual soul) near
+Brahman, the story of Mohini thereafter. These are the
+contents of the Naradiya Purana.^
+I. Despite the difrcrence noted .above, tlie division of lli<? NP in five
+parts and the contents of each mentioned therein, do tally with the contents
+of the extant Puraiia.
+
+
+1368
+Ndrada Purdna
+19-21. The man who hears this with devotion or narrates
+it with great concentration goes to the abode of Brahma; no
+hesitation or doubt need be entertained in this respect. He who
+gives (the manuscript of) this book to an excellent.Brahmana
+on the Isupurna* (on the full moon day of the 5th month viz.
+Sravana) alongwith seven cows, attains salvation. He who
+describes this index of Naradiya Purana or listens to it with
+concentration attains Heaven.
+
+## CHAPTER NINETYEIGHT
+
+The Mdrkandeya Purdna : Contents
+
+## Sri Brahma said :
+
+
+## 1. O sage, henceforth, I shall narrate the Purana named
+
+Markandeya.^ It is highly meritorious to those who read and
+listen to it.
+
+## 2. All the Dharmas have been reviewed therein with
+
+reference to the wise birds (in the Vindhya mountains)^.
+Markandeya Purana is said to contain nine thousand verses.®
+•The correct reading should bePurmmd; it will mean “Full-moon
+day of Asvina (Srpteinber-October).
+
+## 1. This Purana is available in two cdition.s—B.I. (Bibliotheca Indica
+
+series) and Vehkatesvar Press. Both the editions, however, differ in the total
+number of chapters (viz. 137 and 134) and number of verses in many chapters.
+This Purana is noted for the Devi Mahdtmya or the famous SaplaSati which,
+though an interpolation, must have taken place long before 1000 A.D., as
+verses from the iS'a/'/afafi arc quoted in the Dadhimati Mata Inscription (in
+former Jodhpur state dated 289 of the Gupta era (608 A.D.) vide Epi. Ind. XI.
+299-303. This Purana is assigned a date between 400-600 A.D. (Kane HD.
+
+## V : 11. 903)
+
+
+## 2. VV 2-3. This refers to the introductory part (chs 1-7) of the Mk. P.
+
+in which Markandcya directs Jaimini to approach the wise birds in Vindhya
+mountain to get answers for his Mahabharara problems (about the Mahabha-
+rata story such as the reason of Nirguna Vasudeva’s assumption of human
+form, Balarama’s token expiation for a Brahmana-slaughter etc.) I wonder
+why Jaimini, a direct disciple of Vyasa, the author of the Mbh., approached
+Markandcya for problems about the Mbh and not to Vyasa himself. The
+wise birds called Dharmas explain his difficulties.
+
+## 3. According to the NP.. Vayu, Malsya, Agni and Bh.P the Markai>deya
+
+P. consists of 9000 verses but the Vchkatesvar edition gives only 6447 verses
+
+
+
+## IV.98.3-11
+
+1369
+
+## 3. At the outset, the question of sage Markan<^eya to
+
+Jaimini is mentioned. Thereafter, the nativity of birds designated
+Dharma is recounted,
+
+## 4. The story of their previous birth; the aberration of
+
+Divaspati (Lord of Heaven); the pilgrimage of Bala, the
+narrative of the sons of Draupadi.
+
+## 5. The holy story of Harilcandra; the battle named
+
+Adibaka;^ the narrative of the father and son (viz. Mah^ati
+and Suraati), then the story of Dattatreya.^
+
+## 6. Then the story of Haihaya alongwith the great
+
+narrative, (the story of Kuvalayasva ?) then the story of
+Madalasa is mentioned alongwith the story of Alarka.
+
+## 7. The holy glorification of the creation is made in nine
+
+ways; the end of the period of Kalpa is pointed out, the review
+of the creation of the Yaksas.
+
+## 8. The creation by Rudra and others is mentioned; the
+
+activities in the continents have been mentioned; the stories
+of the Manus, diverse and destructive of sins, have been
+mentioned.
+
+## 9. Among those stories, the story of Durga is exceedingly
+
+meritorious, in the eighth Manvantara. Thereafter, the origin of
+Pranava hailing from the brilliance of the three Vedas.
+
+## 10. The narration of the nativity of Martan<^a alongwith
+
+its greatness; the race of Vaivasvata; then the story of Vatsapri.
+
+## 11. Then the holy story of the noble-souled Khanitra is
+
+mentioned; the story of Aviksit and the glorification of
+(PJ. VIII.2. (349). It is possible that when NP. was finally redacted, the
+stories of Rama, Pururavas, Nahusa, Krsna etc. must have been in the then
+MSS of Mk. P., but they came to be deleted later and the printed editions
+of the Mk.P. do not include them. Hence the deficiency in the number of
+verses.
+
+## 1. The combat fought between Adi (an acquaiic bird) and a crane
+
+into which Vasistha and Visvamitra had been transformed respectively due to
+curses given by them to each other due to the harsh treatment given by
+Vi.svamitra to King Hariscandra. God Brahma intervened and stopped this
+duel.
+
+## 2. Gf. Bh. P. 1,3,52 where Dattatreya, the 6th incarnation of Vi?ou
+
+explained Anvikfiki to Alarka and Prahlada.
+
+
+1370 Jidrada Purdna
+“Kimiccha” Vrata^ (the vowed observance called “What do
+you wish ?”)
+
+## 12. The story of Narisyanta, then the story of Iksvaku,
+
+thereafter, the story of Nala, and then the excelleftt story of
+Ramacandra,
+
+## 13. The narration of the line of Kusa; the description of
+
+the lunar race; the holy story of Pururavas and the wonderful
+story of Nahusa.
+
+## 14. The holy story of Yayati, the enumeration of the
+
+scions of the family of Yadu; the story of infant Krsna and
+then the story of his life at Mathura,
+
+## 15. The story of his life at Dvaraka, the stories of all
+
+incarnations. Then the description of the Sahkhya philosophy,
+the glorification of Sattva quality in the world.
+16-18, Then the story of Markandeya; the benefit of
+listening to the Purana, The man who listens to this Purana
+called Markandeya with great devotion and respect, O dear
+one, attains the greatest goal. He who writes a gloss on this,
+attains the region of J5iva; lie wlio writes the whole Purana
+and gives it to an excellent Brahmana on the full moon day in
+the month of Karttika alongwith the replica of an elephant in
+gold, attains the region of Brahma. He who narrates or listens
+to this index (of topics in this Purana) shall attain the benefit
+desired as in the case of the whole Markandeya Purana.
+
+## 1. Kimiccha is given in the MkP. 122 8,17,20. Alilhi is asked
+
+what he wants and it is supplied to him. Aviksit, the son of Karandhama
+carried this i-ra/a of his mother and pjoclaimcd : “O beggars [nrthhmli), I
+have solemnly resolved to give you whatever you wish”.
+kimicchatha daddmyefa kriyam&ne Kimicchike —Mk, P, 122.20
+
+
+
+## IV.99.1-3
+
+1371
+
+## CHAPTER NINETYNINE
+
+The Agni Purdna ; Contents
+
+## ^ri Brahma said :
+
+
+## 1. Henceforth, I shall describe to you the Agni Parana.
+
+The Fire-god recounted the events of Isana Kalpa^ to Vasistha.
+
+## 2. It comprises fifteen thousand*® verses of various
+
+wonderful stories. It dispels all the sins of men who listen
+to this.
+
+## 3. At the outset is the enquiry about the Purana, then
+
+the story of all incarnations, then the chapter on the Creation
+and then the (mode of) worship of Visnu and other things.®
+
+## 1. This Purana is an encyclopaedia of the mediaeval India as stated
+
+by it : Agneye hi purdne'smin sarvd vidydh pradarSitah
+
+## AP. 383.52
+
+Although the JsfP is supported by the Mt P. and Sk.P. in connecting the
+events in the AP to Bdna fCalpa, the extant AP does not mention that Kalpa
+or that the incidents therein belong to that Kalpa. This is quite natural, as
+Hazra points out that the genuine. Agneya Purdm was forced to travel to the
+south and came to be known as the Vahni Parana and is awaiting publication.
+Hazra states that it is considerably free from the influence of Tanlrism
+while the extant AP is a spurious Agneya Purdna written under the influence
+of Tantrism in the 9th cent. A.D. He states that the extant A^ni Piirdpa is
+different from the AP which was before the writer of the NP. The Sk. P.
+states that glorification t)f the Agni is the aim of the AP but that is not
+found in the present text of the .\P. Moreover, a number of veiscs said to be
+quotations from the AP in Ballalascna’s Ddnasdgara are not traced in the
+present text of the AP.
+Hence, if is held that the published text of the AP is different from the
+text available to the writer of the NP (vide Hazra : Present Agni Purana”
+—///O.XII 683-691, ‘Oar Heritage' Vol. l.u 209. 45).
+
+## 2. The NP. is supported by the Bh. P, and Br. Vaiwirta in claiming
+
+15000 verses to theAP. The AP also calls itself to be PailcadaSa-sdhasram
+(382.04). The statements that it contains 16000 verses [the Vdyu, Mt.P
+Sk.P)%ho'Wi that those Puranas lefer to a different version The Anandas'rama
+edition has 11,457 verses. But Hazra has .shown that the Anandasrama
+edition is not the original but a late compilation, the original Agneya
+or Vahni Parana is unpublished (Hazra—“Discovery of genuine Agneya
+Putana”, Journal, Oriental Institute Baroda V, pp.411-416.
+
+## 3. VV 3-22 give the list of various topics described in the AP. As
+
+the Vahni Purdfta is not available in print, nothing can be said about the con¬
+tents of that genuine AP. But a comparison of the topics mentioned in these
+
+
+1372
+Ndrada Puribyt
+
+## 4. Then the rites of fire worship, thereafter, the
+
+characteristics of the Mantras and Mudr^ (gestures), etc., the
+injunctions regarding all initiations; the review of the procedure
+of ablutions.
+
+## 5. The characteristics of Mandala (mystic diagram)
+
+etc., then the rite of Marjana (wiping off) with the water from
+Kusa grass; the injunction regarding the wearing of the Pavitra
+(Kusa grass with a loop and a tail worn like a ring), and then
+the instructions regarding the temples.
+
+## 6-7. Then the worship of Salagrama etc., the separate
+
+signs and symbols of the Murtis, the injunctions regarding the
+Ny^a rites, the worship of Vinayaka etc. alongwith their
+Pratistha (installation), thereafter the rules regarding initiation
+of diverse kinds; the installation of all deities and the review of
+the Cosmic egg.
+
+## 8. The greatness of the Gaiiga and other holy rivers, the
+
+description of the continents and the sub-continents, the
+arrangement of the upper and the lower worlds, the review of
+Jyotiscakra (the circle of the luminaries.)
+
+## 9. Jyotisa (Astrology and Astronomy) is then described
+
+and then the scripture “Yuddhajayarnava” (Ocean of the
+conquests in battles), then the six holy rites are narrated and also
+the collections of Mantras and medicinal herbs to be used with
+Mantras.
+
+## 10. The rites of worshipping Kubjika (an unmarried girl
+
+of eight years) etc., then the six types of Nyasa rites, then the
+injunction regarding “kotihoma” (a crore of Homas), the
+review of the Manvantaras,
+
+## 11. The pious rites of Brahmacarya (vow of celibacy)
+
+etc., then the rules regarding the rituals of Sraddha, then Graha-
+yajfia (the sacrifice for the planets) is mentioned, then the
+various holy rites laid down in the Vedas and the Smrtis.
+
+## 12. The narration of expiatory rites, the Vratas etc. to
+
+be performed on the various Tithis, days of the week and the
+constellations.
+verses with those in the extant AP (GM;-edition) shows in majority of the
+topics mentioned in the NP are found in the extant AP,
+
+
+
+## IV.99.13-25
+
+1373
+
+## 13. The guidance regarding monthly Vratas, the rules
+
+regarding the charitable gifts of lamps, the worship of the
+Navavyuhas (the nine manifestations) and the review of
+hells.
+
+## 14. The review of Vratas (sacred vowed observances)
+
+and charitable gifts, the direction regarding Nadi Gakra (circle
+of nerves) and the excellent rules regarding the Sandhya
+prayers.
+
+## 15. The stipulation regarding the meaning of the
+
+Gayatri, then the hymn unto the Lihga, the specification of
+the Mantras for the coronation of kings; the righteous duties
+(and activities) of kings.
+
+## 16. Then the chapter on dreams is mentioned, the
+
+review of omens, etc., the specification regarding Mandala
+(mystic diagram) etc., then the rules regarding ‘Ratna Diksa’
+
+## 17. The guidance in polity mentioned by Rama, then
+
+the characteristics of Ratnas (jewels), then the science of
+archery is described, then the method of dealing is revealed.
+
+## 18. The narrative of the conflict between the Devas and
+
+the Asuras, the review of Ayurveda (Medical Science), the
+Veterinary science (e. g. the treatment of elephants etc., and
+their pacification).
+
+## 19. The treatment of cows, diagnosis and treatment of
+
+men, etc., then the different kinds of Puj^; different kinds of
+Santis (pacificatory rites); then the science of prosody.
+
+## 20. Then literature (literary criticism) and the (lexicon
+
+of) single-syllabled norms, thereafter, the enumeration of the
+formation of words, then lexicon according to the different
+groups and formations.
+
+## 21. The characteristics of dissolutions; the review of the
+
+iSariraka (limbs of the body in AP. ch. 370), description of
+hells, then the Yoga system of Philosophy.
+
+## 22. Thereafter, the knowledge of the Brahman, the
+
+benefit of listening to the Purana, O Brahmana, this is mentioned
+as the Agni Purana.
+23-25. He who writes this and gives it to a person who
+knows the meanings of the Purana, on the full moon day in the
+month of Margai$ir$a in accordance with the injunctions,
+alongwith a gold lotus and a replica of a cow in gingelly seeds.
+
+
+1374
+Mdrada Purina
+is honoured in the heavenly world. This index of topics in the
+Agni Purana narrated to you is the bestower of salvation unto
+the men who read and listen to this. It benefits them both
+here and hereafter.
+
+## CHAPTER ONE HUNDRED
+
+The Bhavisya Purana : Contents
+
+## Sri Brahma said :
+
+
+## 1. Henceforth, I shall recount to you the Bhavisya
+
+Parana^ which yields all Siddhis and which bestows the desired
+objects of all the worlds.
+
+## 2. In it, I have come up as the primordial maker of all
+
+the Devas. For the purpose of creation, there was born the
+Svayambhuva (son of the self-born) Manu formerly.
+
+## 3. He bowed to me and asked me about Dharma (pious
+
+and religious duties) that is the means of achieving all objects.
+
+## 1. This Bhavisya Purana is not what is mentioned in the Apaslainba
+
+Dharma (1.6.19.13) not the extant Vehkatesvara Edt. For the NP in the
+following verses (VV 411) mentions that Vyasa divided this Purarja into five
+divisions viz. Brahma, Vaifriava, Saiva, Saura and Praitsarga. But the published
+Bhavisya Purana has only fottr Parvas viz. Brahma, Madhyama, Pratisarga and
+Uttara. NP verse 5 states that the Bhavisya P. described the incidents of the
+Aghora Kalfia which is not mentioned in the Printed Edition. The NP in V 6.
+states that the 1st Parvan (Brahma) is a dialogue between Suta and ^aunaka
+which is not found in the printed edition. Pratisarga Parvan in the printed
+editions is a fabrication as it refers to the stories of Adam and Eve, Kabir,
+Nanak and Caitanya etc.
+Thus the account regarding the extent and contents of the Bhavifya P
+as given in the NP., Mt. P. 53. 30-31, AP. 272. 12 does not tally with the
+printed editions. The number of verses in the Bhavifya Pis 14500 according to
+Mt. P. and Vayu. P. but 14000 according to NP. verse 13 and Agni (272.
+12) but the Printed edition is much longer (25,936 verses). PJ—VII-2, p.
+
+## 349. Thus the NP describes a diflerent version of the Bhavifya P. than the
+
+published one.
+
+
+
+## IV. 100.4-14
+
+1375
+Very much delighted I expounded to him the Dharmasaihhita
+(a compendium on Dharma.)
+
+## 4. When the highly intelligent Vyasa classified the
+
+Puranas, thesage divided that Saihhita(of the Bhavisya Parana)
+into five divisions.
+
+## 5. The incidents of Aghora Kalpa are mentioned
+
+alongwith many wonderful stories. There the first Parvan is
+Brahma where the Upakrama (beginning) is mentioned.
+
+## 6. Tn the course of the dialogue between Suta and
+
+Saunaka* there is the transmission of the enquiry regarding the
+Purana. It is full of the stories of the sun and accompanied by
+all narratives.
+
+## 7. The entire form of the scripture is endued with the
+
+characteristics of creation etc. Thereafter, the characteristics of
+the calligraphy of the writers of books are mentioned.
+
+## 8. The characteristic features of all Samskaras (purifi¬
+
+catory rites) are mentioned here. Seven rituals regarding the
+Tithis of the lunar fortnight are mentioned.
+
+## 9-10. The Kalpas for the remaining Tithis beginning
+
+with Astami (eighth day) are mentioned in the section called
+Vaisnava Parvan. In the next Parvan called Saiva Parvan
+those who are different in bodies are mentioned. (?) In the
+Saura Parvan the final stories are mentioned. The next Parvan
+is called Pratisarga. It contains different stories alongwith the
+conclusion of the Purana. It is the fifth Parvan.
+11-12. Among these five, in the first Parvan, the glory
+of Brahma is very much greater than that of Visnu
+or Siva in regard to Dharma, Kama (love) and Moksa
+(salvation). Thus the story mentioned in the second, third and
+the fourth section (Varga) called Saura and in the last one
+named Pratisarga has been recounted.
+
+## 13. The Parvan alongwith the Bhavisya has been pro¬
+
+claimed by the intelligent Vyasa. The Purana consists of
+fourteen thousand verses.
+
+## 14. The Bhavisya is that Parvan (Purana) where the
+
+equality among all the deities is glorified. In the point of view
+•Not found in the published version of this Parana
+
+
+1376 Nirada Purdna
+of the comparison of the Gunas, the Sruti says that “Brahman
+is equal.”
+15-16. That a learned person who being free from
+jealousy writes or gets written this Purana and on the full
+moon day of the month called ‘Pausa’ (Decernber-January)
+worships duly both the reader (of this Purana) and the book
+(the manuscript of this Purana) alongwith the replica of a
+cow made of jaggery as well as gold, clothes, garlands and
+ornaments.
+
+## 17. Or a person who has subdued his sense-organs,
+
+observes fasts or takes only one meal per day of sacred Havisya
+food (food worthy of being oblated in sacrificial fire), hears or
+glorifies (recounts) this with concentrated mind becomes
+absolved of terrible sins and attains to the supreme region of
+Brahma.
+18-19. He who reads or listens to this index to Bliavisya
+Fhirana as mentioned here shall attain worldly pleasures and
+liberation.
+
+## CHAPTER ONE HUNDRED AND ONE
+
+The Brahma-Vaivarta Purana : Contents
+
+## Sri Brahma said :
+
+
+## 1. O dear child, I shall recount to you the tenth Purana
+
+named Brahmavaivarta.^ It jxjints out the path of the
+Vedas.
+]. This Purana is BrcJima-Vaivarta as the entire Brahman was mani¬
+fested by Kr?na ;
+viartam Brahma kdrUnyena Krffuna yatra Saunaka (
+Brahma-Vaivartakarh tena pravadanti puri-vidah //
+—Brahma-Vaivarta 1.1-10
+It is obviously a Vaifiuwa Purdtta—mainly devoted to the glorification of
+Ridha and as such is very p>opular with Gau^ya Vaifoavas. According to
+Wilson this work docs not deserve to be called a Purtnui (Vifpi^urdpa, Intro.
+
+## LXV—LXVII)
+
+
+
+IV.101.2-10a
+1377
+
+## 2. In it the Lord himself assumed the form of Savarna
+
+and narrated the subject matter of the Purana to Narada,^ the
+divine sage. He menlioned the entire miraculous non-mundane
+subject matter to him.
+
+## 3. The essence of virtue (dharma), wealth, love and
+
+liberation from bondage of sarhsara is the pleasure in and love
+for Hari and Hara. In order to establish their non-difference is
+meant the excellent Brahmavaivarta (transformation of
+Brahman).
+
+## 4. The events of Rathantara Kalpa narrated in details
+
+by me in the Purana of hundred crores of verses were condensed
+and narrated by the knower of the Vedas (i.e. Vyasa).
+
+## 5. In the Purana called Brahmavaivarta he condensed it
+
+into four parts. This Purana is reputed to contain eighteen
+thousand verses.®
+
+## 6. It consists of parts (sections) called Brahma, Prakrti,
+
+Ganesa and Krsna. There the Purana starts with the dialogue
+between Suta and Sages.
+
+## 7. The first chapter (prakarana) pertains to the crea¬
+
+tion; then there is a great verbal disputation between Narada
+and Vedhas (god Brahma) in which both of them met with a
+great defeat.
+8-lOa. Then the attainment of Siva’s world. The acqui¬
+sition of perfect knowledge through the realisation of S'va’s
+Atman through Siva’s exposition. Thereafter, O Marici, Narada
+
+## 1. Although the NP. states that this Purana is in the form of a dialogue
+
+between Lord Savarni and Narada, in the printed edition (GM) Sauti and
+^aunaka are the interlocutors in the 1st {^Brahma) Khanda while Narayana
+(and not Savarni) and Narada are the interlocutors in the rest of the
+khapdas.
+
+## 2. This statement of NP regarding the extent of the Brahma Vaivarta
+
+(18000 verses) is supported by the Vdyu, MT, P. AP., BH.P., &nd Brahmet
+Vaivarta itself.
+Afiddaia-sahasram ca Brahma-Vaivartam Ipsitam
+Br. Vai. IV. 131. 16
+But in the Anandasrama cdt. there arc 20,694 verses (PJ VII 2. p.
+349) and GM edt. adds an additional (spurious) khap^o—KdSirahasya.
+
+
+1378
+JVdrada Purdna
+goes to the hermitage of Savarni^ which was resorted to by
+Siddhas for the purpose of perfect knowledge. That is an
+exceedingly meritorious hermitage causing wonderment in the
+three worlds. This is well known as Brahma Khand^** It is des¬
+tructive of sins.
+lOb-11. Then the dialogue between Savarni and Narada
+is recounted. It contains the greatness of Krsna and a number
+of various different anecdotes, the greatness of the Kalas
+(digits) that are parts of Prakrti is described.
+
+## 12. The mode of worship in tlie precise manner has been
+
+described in detail. This is the well known Prakrti Khand^
+that brings about prosperity.
+
+## 13. The word of enquiry about the nativity of Ganesa :
+
+Parvati’s great and meritorious Vrata (holy vow) ; the birth of
+Vighnesa along with Karttikeya.
+14-15a. The wonderful story of Karttavirya andjarnada-
+gnya (Parasurama). A great dispute arises between Ganesa
+and Jamadagnya (Parasurama). This is the Vighnesa Khanda
+that dispels all obstacles.
+
+## 15b-l6. The enquiry regarding the birth of iSrikrsna :
+
+The narration of his birth in wonderful manner, his departure
+to Gokula (the cowherds’ colony), the miracles of killing
+Pulana, etc.; his sports during infancy and boyhood of
+diverse kinds, are described.
+
+## 1 7. The Rasa sport in the autumn alongwith the cowherd-
+
+esses is mentioned; his secret dalliance with Radha is described
+in detail.
+
+## 18. Thereafter, Hari goes to Mathura accompained by
+
+Akrura. After the killing of Kaihsa and others Krsna is con¬
+secrated as a twice-born (i.e. investiture with the sacred
+thread.)
+
+## 1. The Printed text of Br. Vaivarta Brahma Kha^i^a Ch. 28 docs not
+
+mention Savarni at all. God Sankara sends Narada to Narayapa in the
+Badarivana and the rest of the Purina is a dialogue between Narada and
+Narayana (and not Savarni though Savarni in the NP. is regarded as iden¬
+tical with Vi?nu).
+A detailed comparison of the contents of the printed Br. Vaivarta Purdvta
+and those given in the NP shows that the author of the NP had a difierent
+version of this Purapa before him.
+
+
+IV.lOl.19—102.2
+1379
+
+## 19. The wonderful learning of all lores from Sandipani
+
+ofKasi, the killing of Yavana, thereafter the departure of
+Hari to Dvaraka.
+
+## 20. The killing of Naraka etc, was wonderfully carried
+
+out by Krsna. O Brahmana, this is the Krsna Khanda that
+cuts at the root of worldly existence of men.
+
+## 21. This is read, heard, meditated upon, worshipped
+
+and saluted. Thus is the Supramundane Brahmavaivarta Purana.
+
+## 22. This is narrated at the outset by Vyasa. One who
+
+reads it and listens to it is liberated from the terrible ocean of
+worldly existence through the acquisition of perfect knowledge
+and the suppression of ignorance.
+
+## 23. He who writes this out and makes a gift of it on the
+
+full moon day in the month of Magha alongwith a cow attains
+Brahmaloka. He is liberated from the bondage of ignorance.
+
+## 24. He too, who reads or listens to this index (contents
+
+of this Purana) attains the desired benefit, thanks to Krsna’s
+grace.
+
+## CHAPTER ONE HUNDRED AND TWO
+
+The Linga Parana : Contents
+
+## God Brahmi said :
+
+
+## 1. O son, listen, I shall recount to you the Purana called
+
+Lihga.^ It bestows worldly pleasures and salvation on those
+who read and listen to it.
+
+## 2. It was while stationed in the huge fiery column that
+
+Hara narrated (the subject matter in the Purana) named Linga
+to me in order that virtue etc, may be realised. The story refers
+
+## 1. The LP is published by the Vehkateivara Press, G.M. Calcutta,
+
+and MLBD, Delhi. Its translation is published in the AITM, Motilal
+Banarsidass, Delhi. I have used the GM. edition for reference here.
+
+
+1380
+Nirada PurSno
+to the incidents of the Agni Kalpa.^
+
+## 3. The same thing was described by the holy Lord Vyasa
+
+in two parts. The Lihga Purana is mentioned to be miraculous
+with many narratives.
+
+## 4. It comprises of eleven thousand verses.® It indicates
+
+the greatness of Kara. It is greater than all the other Puranas.
+It is the essence of the three worlds.
+
+## 5. There is the enquiry at the start of the Purana. The
+
+former creation is succinctly described. Then the Yoga system
+is narrated; thereafter, the Kalpa is recounted.
+
+## 6. The origin of the Lihga; then Amba is glorified; then
+
+the holy dialogue between Sanatkiimara and Silada’s son i.e.
+Nandin.
+
+## 7. Thereafter, the story of Dadhica, the review of the
+
+Yugadharma (virtue peculiar to the different Yugas), then the
+narrative of the Bhuvana Kosa (The globe of the world), then
+the Solar and the Lunar races are described.
+
+## 8. Then the creation is described in detail; then the
+
+story of the Tripuras; the installation of the Lihga and then the
+liberation of the Pasu (individual soul) from Pasa (bondage i.e.
+from sarhsara)
+
+## 9. The holy rites of Siva, the survey of good conduct
+
+Expiatory rites; Aristas (evil portents, harassments etc.); then
+the description of Kasi and Sri Saila.
+
+## 10. The narration of Andhaka; then the story of Varaha
+
+(The Divine Boar), the story of Nrsiihha and then the slaying
+of Jalandhara.
+
+## 1. The NP states that the Linga Purd^a {LP) refers to incidents in the-
+
+Agnt Kalpa, but LP 12.1 states that it describes the incidents in the Ilana-
+Kalpa,
+Udna-Kalpa-vfttintam adhikrtya mahatmandj
+Brahma^ kalpitam purvam Purdpam Laingam uttamamjl
+It means that the NP used a different and older version of the LP than
+the extant published editions.
+
+## 2. This statement of the NP regarding the extent of the LP (viz.
+
+11,000 verses) has been endorsed by the Vdyu, Mt.P., Bh.P., A.P. etc. The LP
+also states that it consists of 11000 verses ;
+Asyaikddaia-sdhasram granthamdnam iha dvijdkl
+But actually the Vchkata Edt. of the LP contains 9185 verses (PJ VII—
+
+## 2. p. 349)
+
+
+
+IV.102.11-20a
+1381
+
+## 11. The thousand epithets of Siva, the destruction of
+
+Daksa’s sacrifice. Kama is burnt down, then the story of the
+marriage of Girija.
+
+## 12. Then the story of Vinayaka, that of the kings and
+
+that of Siva; then the story of Upamanyu. This is the summary
+of the first section.^
+
+## 13. The narration of the greatness of Visnu, then the
+
+story of Ambarisa, O sage, again there is the dialogue between
+Sanatkumara and Nandisa.
+
+## 14. The greatness of Siva, the mode of ablution and sacri¬
+
+ficial system (yaga) etc, the injunction regarding the worship of
+the sun-god. Then the worship of Siva that confers liberation
+from sarhsara.
+
+## 15. Many types of charitable gifts are mentioned; then the
+
+chapter onSraddha, the Pratistha Tantra (the ritualistic text of
+installation), then the glorification of Aghora,
+
+## 16. The great Vidya of Vajresvari, then the glory of
+
+Gayatrl, the greatness of Tryambaka, (the three-eyed Lord) as
+well as that of listening to the Purana.
+
+## 17. Thus the latter half of the Liiiga Purana as compos¬
+
+ed by Vyasa has been recounted by me and the greatness of
+Rudra is indicated.^
+18-19a. This Puraua must be written and gifted to a
+Brahmana with devotion on the full moonday in the month of
+Phalguna alongwith gingelly seeds and a cow. He who does
+so, attains Sayujya with Siva. He does not have to suffer from
+old age or death.
+19b-20a. The man who reads or listens to the Linga
+Purana that dispels sins, enjoys pleasures in this world and
+at the end attains to Siva’s city.
+
+## 1. Tliough the NP refers to a few topics in the Purva Bhdga, most of
+
+them are found in the extant editions.
+
+## 2. A comparison of topics given in the NP and those found in the
+
+printed (GM) edition shovs^ that the published LP has many topics common
+with the LP that was before the author of the NP.
+
+
+1382
+Ndrada Purdna
+20b-21. The man who reads the index and the man who
+listens to this —both of them are the devotees of Siva. They
+enjoy both the worlds through the Grace of the Lord of Girija.
+There is no doubt about this.
+
+## CHAPTER OP«: HUNDRED AND THREE
+
+The Vdrdha Purdna ; Contents
+
+## God Brahma said :
+
+
+## 1. O dear one, listen. I shall recount theVaraha Purana^.
+
+It is comprised of two parts and it continuously indicates the
+greatness of Visnu.
+
+## 2-3. The context of the Manasa Kalpa composed by me
+
+before, or description of the acts I did in the Manava Kalpa
+before was compiled by Vyasa, the most excellent one among
+scholars in this Purana that comprises twenty-four thousand
+verses. Vyasa is the incarnation of Visnu himself on the earth.
+There at the outset is the auspicious dialogue between the
+Earth and Varaha. (Divine Boar-Visnu).
+
+## 1. The Purana is extant in two recensions—The Northern and the
+
+Southern. The Northern recension published in the B I. (Bibliotheca Indica)
+series contains 217 chapters and 9654 verses (with some chapters c.g. 81-83
+in prose) and jVbt 24,000 verses as stated in the NP below (verse 2) and
+endorsed by the Vayu, MT. P., Bh. P. and while the Agni P (272. 16) credits
+it with 14000 verses. Though the NP states that the Vdrdha P. has two parts,
+the published edition has one part only, though there arc indications in ch.
+217 that there must have been a second part as well.
+This Purana is supposed to have been narrated by Vi?nu-Var.iha to the
+earth-goddess. Kane observes that it is remarkable that Vyasa does not
+appear in this Purana though Suta figures at the beginning of several chapters
+(HD V.ii, p. 904).
+It is obvious that the author of the NPhad a different and bigger version
+of the Vdrdha Purdna before him.
+
+
+
+## IV.103.4-17
+
+1383
+
+## 4. In the course of the incidents of the Cinrlier period,
+
+there is the story of Rambha and then that of Durjaya, there¬
+after ^raddha Kalpa (the rituals of theSraddha) is described.
+
+## 5. The narration of the great penance (Mahatapas)-then
+
+the origin of Gauri, Vinayaka, the Nagas, the commander-in-
+chicf (i.e. Karttikeya) and Aditya (the sun).
+
+## 6. Then there is the narrative of the Ganas of the .god¬
+
+dess, of Kubera and that of Vi sa; then the narrative of Satya-
+tapasa alongwith the narration of vratas.
+
+## 7. Thereafter, Agastyagita and Rudragita are narrated;
+
+then the glory of the destruction of demon Mahisa (Buffalo)
+brought about by the three Saktis.
+
+## 8. Then is the chapter on Parvaiis (religious festivals),
+
+the incidental narrative ofl^veta and the charitable gif*^ of cows.
+All these incidents had already been pointed out by me in the
+section on Bhagavad Dharma (virtuous pathway to the
+Lord).
+
+## 9-12. Thereafter, the narration ofVratas andTirtlias, the
+
+expiatory bodily rites for thirtytwo offences. The greatness of
+holy centres is mentioned separately and particularly of
+Mathura, thereafter, the rules of procedure regarding Sraddha
+etc., the description of the world of Yama, in the context of the
+son of the sage, the ultimate result of Karmans and the review
+of Visnu's Vratas, the greatness of Gokarna that is destructive
+of sins, is mentioned. Thus the early part (i.e. the first part) of
+the Pnrana is reviewed.
+13-14. In the latter part, in the course of the dialogue
+between Pulastya and the king of Kurus, the greatness of all the
+holy centres is mentioned in detail, severally.
+All the virtues too have been mentioned. The holy Parvan
+pertaining to Puskara is mentioned. Thus the Varaha Purana,
+that is destructive of sins is recounted to you.
+15-17. This increases devotion to the Lord, of those
+who read and listen to this. He who writes out this Purama
+an 1 gives it to a Brahmana with devotion, along with a gold
+replica of Garucia and gingelly seeds and a cow, on the full
+moon day in the month of Caitra, attains tlie abode of Visnu.
+
+
+1384
+Ndrada Purdno
+He is paid obeisance by the groups of Devas and sages. He
+who reads or listens to this index obtains devotion to Visnu that
+is the cause of dissolution of worldly existence.
+
+## CHAPTER ONE HUNDRED AND FOUR
+
+The Skanda Purdna : Contents
+
+## God Brahma said :
+
+
+## 1. O dear one,'listen. I shall recount Skanda Purana^
+
+wherein Lord Mahadeva is present in every word.
+
+## 2. In the Purana of a hundred crores of verses, I had
+
+described the story of Siva. In a hundred thousand verses, the
+essence of those topics has been described by Vyasa.
+
+## 1. The NP stales (vci't; 3) that the Sk. P {Skanda Purdna) consists of
+
+81,000 veises—a view sliaicO J)y tlic Sk.P. itself and by Alt. P. (53-41-42) Br.
+Vaiiarta and Devi Bhdgavata. The Vayu and the fiA. credit it with 81,000
+verses while JP (272. 17) and Skanda (cls< \vhere) state that the Sk. P. has
+84,000 verses.
+CaUirasUt—Sdhasram Skandam Skanderilam niahatU
+But the VChkatesvar edt. contains 04,343 vciscs (PJ VTI 2.349).
+According to the NP. the Sk. P. is divided in the following Khandas—Atdhei-
+vara, Vaifnava, Brahma, hair, Avanti, Ndgara and Prabhdsa. One more Khanda—^The
+Sahyadri—is separately published. But in the Stiia Samhitd the Skanda consists
+of 6 Satnhitds, Hfty Khavdas and a hundred thousand verses. The names of
+Samkitds being Sanatkumdra, Suta, Sdnkari, Vaioiavi, Brdhmi and Saura.
+The published editions—Venkatesvar, Bangavasi, Naval Kishur Press
+(Lucknow) and Gurumandal are not unanimous in contents. Thus in part I
+of Avantikhan^a 04 chapters of the glory of 84 Lingas {CaturaSili linga
+mdhdtmya) are not included in the Lucknow edition, while in the II Part of
+the Avantikhan<;ia, the Lucknow edition gives 110 different chapters. In other
+words, the Lucknow and Bombay editions differ considerably in the Avanti
+Khapda. The GM includes the spurious Satya-ndrdyaifa Mdhdtmya in the
+Read khanda (pp. 1122-2235)—and that too of 4 chapters while usually we
+find 5 chapters of the same.
+
+
+
+## IV.104.3-7
+
+1385
+
+## 3. He has named it Skanda. There arc seven khandas
+
+(parts) in it. It cbmprises eighty one thousand verses. It is
+destructive of all sins.
+
+## 4. He who listens to this or reads this becomes Siva
+
+himself. Therein all the rites and rituals regarding Mahesvara
+have been revealed by Sanmukha (Skanda).
+
+## 5-6. These incidents which bring about all Siddhis had
+
+happened in the Tatpurusa Kalpa. The Mahesvara Khanka-,
+the first Skandha of this (Purana) destroys all sins. It consists of
+a little less than twelve thousand verses. It is highly merito-
+tious and contains big stories. It contains hundreds of good
+stories. It indicates the greatness of Skanda.
+
+## 7. The following are the topics dealt with^ in the context
+
+of the greatness of Kcdara, the Purana has its starting point;
+thereafter the story of Daksa’s Yajna and then the benefit of
+worshipping l^iva Lihga.
+Although the V'chkatesvara Edt. contains more than 12,000 verses more
+than the extent recorded in the NP and other Puranas, the Vehkatesvare
+edition does not include the Mathura and Mdgha Alahdlmyas in the Vaisnavas
+khanda, though the NP mentions them as a part of that khc^ida. Needless
+to say that the author of the NP had a different edition than those before
+tiie modern editors of (he Bombay, Lucknow and Calcutta editions.
+As the SK. P. is a stupendously voluminous Puratia a detailed analysis
+of all its contents is not possible here for want of space.
+
+## 1. VV 7-19 mention Uio main topics in the Mahesvara khanda. In
+
+the GM editions it covers the following subparts, the total no. of pages of
+this khanda being 799.
+Sub part.
+
+## I
+
+No. of chs.
+35
+pages.
+1—254
+II Kauniaiika
+66
+255—683
+Khanda
+III Arupdcala—Mahdtmya—Purvdrdha
+13
+684—742
+IV —do—
+(Uttarardha) 24
+743—799
+Out of tlie vastness of this volume, the NP. merely mentions the topics
+contained in the following chapters.
+Section Chapters
+
+## I 1-7, 9-13, 27-?I, 34
+
+
+## II 3, 7, 8, 9,15, 16-33, 37,38, 39, 40, 53, 66.
+
+
+## III 10-11.
+
+
+
+1386
+Narada Purdna
+
+## 8. The narration of churning the ocean, then the
+
+story of Indra, the ruler of the Devas; the narrative of Parvati
+and her subsequent marriage.
+
+## 9. The birth of Kum.ira (Skanda) is narrated there¬
+
+after, then the battle wilh Taraka, then the narration of
+Pasupati, alongwith that of Canda.
+
+## 10. The narration of being engaged in the game of dice»
+
+the meeting with Narada. Then in the context of the great¬
+ness of Kumara, tlie story of five 7’Irthas (holy centres).
+
+## 11. The anecdote of king Dharmavarman; the enu¬
+
+meration of rivers and oceans; thereafter, the story of Indra-
+dyumna alongwith the story of Nadi-jaiigha.
+
+## 12. The appearance of the Earth, the story ofDamanaka,
+
+the contact between the Earth and the ocean, then the story of
+Lord Kumara.
+
+## 13. Then the fight with Taraka alongwith various anec¬
+
+dotes, the killing of Taraka, the installation of five Lifigas.
+
+## 14. The holy narration of the continents, the orderly
+
+arrangement of the upper worlds, the situation and magnitude
+of the Cosmic Egg, the story of Varkaresa.
+
+## 15. The origin of Mahakala and his extremely miraculous
+
+story, the greatness of Vasudeva, thereafter the Koti Tirtha.
+
+## 16. The narration of different holy centres, Gupta
+
+Ksetra (near the confluence of the Mahi with the sea) the holy
+story of the Pand'tvas and the achievement of great Vidya.
+
+## 17. The wonderful conclusion of pilgrimage to holy
+
+centres by Kumara; the greatness of Arunacala, the conversa¬
+tion between Sanaka and Brahma.
+
+## 18. The description of Gauri’s penance, the review of
+
+different holy centres, the narrative of demon Mahisa and his
+wonderful death.
+Actually we find that the NP touches a fringe of this part of the SkP
+and a great number of topics are not even mentioned.
+The same is the case with other Khapdas. One wonders whether a
+shorter version of the Sk. P. was used by the NP or a casual mention of a
+few chapters was looked upon as a table of contents in those days. Many of
+the topics not mentioned by the NP are found in other Parapas also and
+as such one should think thrice before branding them spurious.
+
+
+
+## IV. 104.19-26
+
+1387
+
+## 19. The permanent residence of Siva in Dronacala has
+
+ever been glorified. Thus the part of Maheivara Khanda has
+been recounted.
+
+## 20. The second part is called the Vaisnava Khanda.
+
+Listen to the stories contained in it. At the outset, the narrative
+of the Earth and Varaha.
+
+## 21. The greatness of the mountain Venkata, destructive of
+
+sins is mentioned therein; the holy story of Kamala, the resi¬
+dence of Srinivasa therein,
+
+## 22. The story of Kulala (potter), the story of Suvarna-
+
+mukhari,^ the wonderful tale of Bharadvaja alongwith different
+narratives.
+
+## 23. The dialogue between Mataiiga and Anjana that is
+
+destructive of sins, the greatness of Purusottama^ (Jagannatha)
+in Orissa thereafter.
+
+## 24. The story of Markendeya, the tale of king Ambarisa
+
+and the auspicious stories of Indradyumna and Vidyapati.
+
+## 25. O Brahmana, thereafter, there are the stories of
+
+Jaimini, Narada and Nilakantha, then the description of
+Narasirhha.
+
+## 26. The story of horse-sacrifice of the king and his
+
+attainment of Brahmaloka, the procedure regarding the Ratha
+Yatra (chariot procession), the rules regarding the abode of
+birth.
+♦The NP. refers to the following chapters from Sk. P. II in 9 1-11
+chs ; 3-8; 9-15, 16-32, 33, 36-40, 53, 66 (from the CxM edition)
+The GM text of the Sk. P, devotes the whole of III—Uttarardha to
+Arunacala.
+
+## 1. VV 22-23 refer to incidents in the Vetikafacala Mahatmya (sub-part
+
+I of this Khanda). The story of Suvarna Mukhari covers chs. 29-35 and the
+dialogue between Matahga and Afljana, chs. 39-40. Out of the 40 chapters
+of this Mahdtmya, only the above topics are mentioned.
+
+## 2. Ptmifoltama Kfetra is Jagannatha. Turi in Orissa though originally a
+
+Buddhist shrine but before the time of the NP. it was completely Brahmanised.
+This Kfetra-M&hitmya consists of 60 chapters which are briefly mentioned
+here in VV 24-28. Of special interest arc Ratha-YatrA (the procession of
+Jagannatha in a chariot) chs 33, 44. The Sayana-Utsava chs 43-44. NP men¬
+tions a few more stories e. g. that of Indradyumna and Vidyapati, Gundiva
+and Vratas like Akdmika PujA.
+
+
+1388
+Ndrada Purdna
+
+## 27. The anecdote of Daksinamurti, the tale of Gunc^iva,
+
+the arrangement for the maintenance of the chariot, the glorifi¬
+cation of the Sayana-Utsava (the festival of Deity’s going
+to sleep).
+
+## 28. The story of Sveta is mentioned here; then the review
+
+ofPrthutsava (the great Festival), the Dolotsava (Festival of the
+Swing) of the lord and the observance called annual Vrata, the
+Akamika Puja (worship without entertaining any desire in
+return) of Visnu. Different kinds of Yoga and means thereto
+according to the teaching of Uddalaka.
+
+## 29. The ten incarnations are enumerated; the rite of
+
+ablution etc. is glorified; then the greatness ofBadarika' that is
+destructive of sins.
+30-32. The greamess of Agni and other holy centres situ¬
+ated in the rock of Vainateya; the cause for the residence of the
+Lord; the holy centre named Paficadhara, the situation of
+Meru. In the context of Karttika, the glory of Madalasa.
+
+## 33. The narrative of Dhumrake^a, the daily rites and
+
+duties in the month of Karttika,^ the description of “Panca-
+Bhisma” Vrata that bestows worldly pleasures and salvation.
+
+## 34. Then in the context of the greatness of Marga-
+
+sirsa,® the rules of procedure regarding the bath, the
+glorification of Pundra (the mark on the forehead) etc., the
+meritorious nature of wearing garlands, etc.
+
+## 1. VV 29-32 adequately deal with the III section called Badarikdirama
+
+Mdhdtmya as most of the topics like holy centres of the rocks of Vainateya
+(ch. 4) Kapalamocana, Paficadhara (ch. 7)and Merii-Sariisthapana (ch. 8)
+are mentioned herein.
+
+## 2. VV 32-33 deal with the topics in the “glory of the month of
+
+Karttika” {K^rttika-mdsa-mdkdtmj/a). In the original Sk. P., this section con¬
+tains 36 chapters. Out of them chapters connected with the glory of
+religious rites in thb month and the Bhiftna paheaka vrata (ch. 32) are men¬
+tioned and the story of Jalandhara ignored unless we identify “Dhumrake^”
+(mentioned in the NP) with Jalandhara.
+
+## 3. VV 34-38 deal with the section MdrgaSirfa Mdhdtmya which consists
+
+of 17 chapters in the original. It contains the various rites regarding bath
+(ch. 1), the Punc^ra mark on the forehead (ch. 2), the details of worship
+(chs. 5, 7, 8, 9). The importance of Ekadasi and rules of observing that
+fast (chs. 11-13, 15 & 16) and the glory of Mathura (ch. 17).
+
+
+
+## IV. 104.35-42
+
+1389
+
+## 35. The merit in the ablution with Paficamrta, the bene¬
+
+fit originating from ringing the bell etc.; the benefit of wor¬
+shipping with different kinds of flowers, the benefit accruing
+from the Tulasi leaves.
+
+## 36. The greatness of Naivedya (food offering) to
+
+God, the glorification of Harivasara (Hari’s day i.e. Ekadasi)
+The Akhan<^aikadasi (the unbroken Ekadaii) as well as the
+merit of keeping awake during Ekadasi.
+
+## 37. The rules regarding the festival thereof, the narrative
+
+of illustrious names of God, recounting of the merit of meditation,
+the greatness of Mathura, etc.
+
+## 38. Thereafter, the greatness of the holy centre Mathura
+
+is separately mentioned, then the greatness of twelve forests is
+mentioned.
+
+## 39. In this context, the greatness of Srimad Bhagavata^
+
+is mentioned in the course of dialogue between Vajra and
+l§andilya, the inner sp)orts are revealed.
+
+## 40. Then the greatness of the months ofMagha^is review¬
+
+ed in ten chapters in regard to bath, charitable gifts and Japas
+alongwith suitable anecdotes connected therewith.
+
+## 41. Then in the context of the greatness of the devotees
+
+of Visnu the benefit of Sayyadana (charitable gift of beds)
+is mentioned; the rules regarding the gift of water are mentioned;
+then the story of Kama.
+
+## 42. The story of Srutadeva, the wonderful anecdote of
+
+the Vyadha (hunter), the special glorification of Ak§aya
+Trtiya* (the everlasting Trtiya i.e. the third day of the bright
+half of Vai^akha)
+
+## 1. That the SkP has a Bh&gavata Mih&tmya is less known as generally
+
+the Bhdgavata Mdhdtmya in the Padma P. is printed at the beginning of differ*
+ent editions of the Bh. P.
+
+## 2. The GM edition of the Sk. P. does not give Mdgha MShdtn^a but
+
+gives Vaiidkha Mihitmya instead. The Mdgha Mdhdtmya mentioned in the NP
+consisted of 10 chapters.
+
+## 3. The Sk. P. gives a section of 25 chapters for Vaiidkha Mdta
+
+Mdhdtmya. But the NP mentions only one topic viz. the glorification of
+Akfcya txtiyd (ch. 23 in the original Sk. P.) and ignores all other chapters.
+
+
+1390
+Nirada Pur&na
+
+## 43. In the context of the greatness of Ayodhya^ the two
+
+holy Tlrthas viz. Cakratirtha and Brahmatirtha are mentioned.
+These two bring about the liberation from the sin of drinking
+spirituous liquor; the heavenly door with a thousand ^pports.
+
+## 44. The description of Candrahari and Dharmahari, the
+
+anecdote of Svarnavrsti (shower of gold); the confluence of
+Tiloda and Sarayu.
+
+## 45. The holy pool of Sita, the lineage of Guptahari, the
+
+confluence of Sarayu and Gharghara; the holy centres of
+Gk>pratara, Dugdhoda and the set of five (Tirthas) beginning
+with Gurukunda.
+
+## 46. Thereafter, the description of thirteen Tirthas such
+
+as Soma, Arka etc., the greatness of Gaya-kupa (the well of
+Gaya) that causes all sins to recede.
+
+## 47. Thereafter, the holy spots beginning with the hermi-
+
+age of Mandavya, that of Ajita etc., and Manasa etc. are
+mentioned.
+
+## 48. Thus the second Khanda called Vaisnava is explained.
+
+Hereafter, O Marici, listen to the Brahmakhanda that bestows
+merit.
+(The summary of Brahma Khanda)
+
+## 49. In the context of the greatness of Setu (Bridge built
+
+by Rama over the sea), the benefit resulting from bath and
+mere sight; the penance of Galava, the story of Raksasas.
+
+## 50. The greatness of Cakratirtha etc, the greatness of
+
+Vetalatirtha which is in Devipattana^ (city of the Goddess), the
+
+## 1. VV 43-46 mention topics desenbed in the Ayodhyd Mdhdtmya,
+
+a section of 10 chapters in the Vaisnava Khanda of the Sk. P. But one
+wonders why the whole section called ^rf Vdsudeva Mdhdtmya in this Khatt^^
+of Sk. P. is completely ignored in the NP.
+The first two khapdas viz. Mahejvara and Vaifpava are compared in
+detail with the topics mentioned in the NP. The omissions of topics in the
+NP shows that the author of the NP had a different and a shorter edition of
+the Sk. P. when he enumerated the contents of the Sk. P. As sufficient
+«vidence for this finding is presented above, the comparison with other
+khandas of the Sk. P. is not given here.
+
+## 2. This is at a distance of 12 miles from R&mnad (Ramnath Pur).
+
+It is also called Devipura (Sk. P. Ill 1. 7. 57. 63) and also Devipuri (ibid
+'60). Here Durga killed the demon Mahi^^surau
+
+
+iV.104.51-61
+1391
+glorification of the holy place called Papana^a (the destruction
+of sins).
+
+## 51. The greatness of Maiigala etc., the description of
+
+Brahmakunda etc, the greatness of Hanumatkunda, the benefit
+resulting from Agastyatirtha.
+
+## 52. The narrative of Ramatirtha etc, the review of
+
+Laksmitirtha, the greatness of ^ankha and other Tirthas. So
+also the benefit accruing from Sadhyamrta etc.
+53-54. The greatness of Dhanuskoti etc. and that of Ksira-
+Kunda etc., the greatness of Gayatri and o'.her Tirthas is
+described here; the greatness of Ramanatha; the instruction in
+the perfect knowledge of Reality, the recounting of rules
+regarding the pilgrimage to Setu which yields salvation to
+men.
+
+## 55. Thereafter, the greatness of Dharmaranya^ (forest of
+
+Dharma) is mentioned. It was here that Lord Sthanu instructed
+Skanda in Tattva (Philosophic principles).
+
+## 56. The origin of Dharmaranya; the glorification of its
+
+merit, the narration of Karmasiddhi (achievements of the fruit
+of actions, the review of the family-lines of the sages.
+
+## 57. The greatness of main Apsarastirthas (Holy centres
+
+of the divine damsels) is mentioned; the review of the
+principles of Dharma (duties) of the castes and stages of life.
+58-59. The division of heavenly spots, the auspicious
+story of Bakularka, the goddesses Ghatrananda, Santa, Srimata,
+Matangini and Punyadaare stationed herein, the greatness of
+Indresvara etc., the review of Dvaraka etc.
+
+## 60. The narrative of the demon Lohasura, the review of
+
+Gangakupa, the story of Sri Rama, the description of Satya
+Mandira.
+
+## 61. The narrative of the repair to the ruins; the accep¬
+
+tance of seats, the mentioning of different castes, the
+review of the holy rites in accordance with the Smrtis.
+I. De. gives four locations of Dharmarai;iya but none of them is in
+the South. It may appear to be a mythological forest near Rameivara but
+the association of Brilhma^ of 24 gotras with it (Sk. P. HI ii. 9-27) shows
+the need of its correct location.
+
+
+1392
+Nirada Pur dm
+
+## 62. Then the holy rites prescribed for Vaisnavas are
+
+mentioned through different narratives, thereafter, the exposition
+of holy rites, observances etc., in regard to the holy
+Caturmasya (the four months of the rainy season when special
+Vratas are observed).
+
+## 63. The eulogy of charitable gifts, thereafter the greatness
+
+of Vratas, the narration of loop-holes (causes of failures)
+in penance and worship.
+
+## 64. The narration of making amends for them (loop¬
+
+holes); the review of Salagrama; the means for the destruction
+of Bharaka, the glory of the worship of trees.
+
+## 65. The cause of Visnu in regard to the state of being a
+
+tree, then Parvatl’s subsequent penance, the Tandava dance of
+Kara, the review of the name Rama.
+
+## 66. The fall of the Lihga of Kara, the story of Baijavana,
+
+the story of the nativity of Parvati, the wonderful killing of
+Tar aka.
+
+## 67. The narration of prosperity through the Pranava,
+
+the activities of Taraka, the conclusion of Daksa’s Yajfta, the
+mantra of Twelve syllables (viz. oiii namo bhagavate Vasu-
+devaya) which is its embellishment.
+
+## 68. The narration of the path of knowledge and the
+
+greatness of twelve-syllabled Mantra. The merit of Sravana
+(the means of hearing), etc. that causes happiness to men.
+
+## 69. Then in the latter half of the Brahmakhangla the
+
+wonderful greatness of Siva is narrated, then the greatness of the
+five-syllabled Mantra : Namah Sivaya and that of Gokarna.
+
+## 70. The greatness of Sivaratri, the glorification of
+
+Pradosa Vrata,^ the Vrata on Mondays, the anecdote of
+Simantinl.
+
+## 1. This Vrata is to be commenced on an auspicious day in the bright
+
+half of Caitra or Marganr^a. Its details are given in ch. 18 of OxcBrah-
+mottara Khaijtda of the Sk. P., Kane in HO V. I. 277 gives 6 varieties of this
+Vrata.
+
+
+
+## IV. 104.71-82
+
+1393
+
+## 71. The narration of the origin of Bhadrayu, the review
+
+of good conduct, the guidance of l^ivavarman (?) and the
+description of Bhadrayu’s marriage.
+
+## 72. The greatness of Bhadrayu, the glorification of the
+
+greatness of Bhasma (Sacred ashes), the story of Sahara
+(Hunter), the Vratacalled Uma-Mahe^vara.
+
+## 73. The greatness of the Rudraksa bead, the merit of the
+
+‘Rudnldhyaya’ Mantra, the merit of Sravana (hearing), etc.
+Thus the Brahmakhan^a has been recounted.
+
+## 74. Henceforth, the fourth part, the excellent Kasi
+
+Khanda' (is summarised). The dialogue between Vindhya and
+Naradais described.
+
+## 75. The greatness of Satyaloka, the arrival of the Devas
+
+in the residence of Agastya, the story of a chaste lady, the prais¬
+ing of the pilgrimage to holy centres.
+
+## 76. Then the narration of the seven cities, the review of
+
+Samyarnini, the attainment of the worlds of Budha (Mercury),
+Indra and Agni by Sivasarman.
+
+## 77. The origin of fire, the origin of Varuna from fire (?)
+
+the origin of the two cities Gandhavati and Alaka and the
+nativity of Hvarl.
+
+## 78. The description of these worlds, viz., the moon, the
+
+sun, the mercury, the Mars, Jupiter, Saturn, my world, Visnu’s
+world of Dhruva’s world (?) and the Tapoloka.
+
+## 79. The meritorious story of the world of Dhruva, the
+
+survey of Satyaloka, the conversation between Skanda and
+Agastya, the origpn of Manikarni.
+
+## 80. The prowess of the Gahga, the thousand names of
+
+the Gahga, the praise of Varanasi, the appearance of Bhairava.
+
+## 81. Thereafter, the origin of Dandapani and JhanavapI
+
+(the well of Knowledge), then the narration of Kalavati and
+the exposition of good conduct.
+
+## 82. The narration of a celibate, then the characteristics
+
+of women, the stipulation of what should be done and what
+should not be done, the description of Avimukteia.
+
+## 1. W 74-91 •utnnuu'iae the main topics in the fourth called
+
+Kdii khantda. It coven the main topics found in the ouant KsHkhapda.
+
+
+1394
+Nirada Purd^
+
+## 83. The duties of householders and the Yogins, then the
+
+knowledge of Kala (Time), the holy story of Divod^a, the
+description of KaiSika.
+
+## 84. The appearance on the Earth of Maya Ganapati,
+
+the Universe due to Visnu’s Maya, then the liberation of
+Divodasa.
+
+## 85. Then the origin of Paftcanada and that of Bindu
+
+Madhava; then the enumeration of holy centres belonging to
+Visnu, the arrival at KasI of the trident-bearing Lord.
+
+## 86. The dialogue between Jaigisavya and Mahe^a, the
+
+name Jyesthesa of Mahesa, the enumeration of holy temples,
+the origin of Kandukesa and Vyaghre^vara.
+
+## 87. The origin of Sailes'a and Ratnesvara as well as that
+
+of Krttivasas; the abode of the deities; Durga’s exploit over the
+Asuras.
+
+## 88. Dur^a’s victory, the description of Oihkaresa, then
+
+the greatness of Oihkara, the origin of the three-eyed Lord
+Siva.
+
+## 89. The narration of Kedara, the story of Dharmesa
+
+bom of Visnu’s arms (?), the narrative of \^resvara, the glori¬
+fication of the greatness of Ganga.
+
+## 90. The greatness of Vi^vakarrne^a, the origin of Daksa’s
+
+Yajfta as well as that of Satisa, Amrtesa and others, the benumb¬
+ing of the arms of Para^ara.
+
+## 91. The group of holy centres and shrines, the dialogue
+
+in the Mukti-Man<;lapa (The pandal of salvation) the prosperity
+of Vi^ve^a and then the circumambulatory pilgrimage.
+(Thus the fourth part is summarised)
+
+## 92. Hereafter, listen to the description of the fifth part
+
+called Avanti Khant^a.^ The narration of the forest Mahakala
+Vana; then the chopping off of the head of Brahma.
+
+## 1. W 92-141. mention the important topics in the fifth khan^a—the
+
+Avanti khajtda. One fails to understand why so much importance has been
+attached to this khoftda in the NP as it devotes 49 verses to this kha^^ as
+compared with the meagre 17 verses io K&ii Khapda which is now so popular.
+It may be further added that the geographical location of each
+Tfrtha mentioned here is expected in the annotations of the Skanda Purdm
+proper (translation or original text) and is thus beyond the scope of
+Tfdrada
+
+
+
+## IV.104.93-105
+
+1395
+
+## 93. TKe rules regarding expiatory rites.; the origin of
+
+Agni; the arrival ^bf the Devas, the initiation of the Dev^; Siva's
+hymn that is destructive of different kinds of sins.
+
+## 94. The narration of Kapalamocana, the situation of
+
+the forest Mahakalavana, the holy centre of the Lord
+Kanakhala that is destructive of all sins.
+
+## 95. The pool called after the Apsaras (celestial damsels)
+
+and the lake of Rudra that is meritorious, the holy centres of
+the Lord of Ku^ava, Vidyadhara, and Markatelvara.
+
+## 96. The holy waters of Svargadvaracatussindhu (the
+
+four rivers that constitute the doorways to heaven). Sank*
+aravapika (The tank of Sankara), Sahkararka, Gandhavati
+Tirtha, that is destructive of sins.
+
+## 97. DasaiSvamedhika and Anam^ Tirtha that bestow all
+
+Siddhis, the procession of Pisacaka, etc, Hanumadisvara, Kava-
+cesvara.
+
+## 98. The procession of or pilgrimage to MahakaleSa,
+
+the holy centre of Valmikesvara, the circumabulations of Kuias-
+thali in the fifth Tirtha called Sukra (?).
+
+## 99. The centres of Akrura, Ekapada and Candrarkavai-
+
+bhava; the holy shrine called Karabhesa and those of Laku^e^
+and others.
+100-101. Markandc^a, Yajfia-vapi-somesa, Narakantaka,
+Kedareivara, Rameia, Saubhagye^a, Nar^kara shrines. Then
+Ke^avarka, Saktibheda, Svarnasara, and other shrines, the
+holy spots of Oihkaresa etc, the glorification of Andhaka^ruti.
+
+## 102. The number of Lingas in the Kalaranya, the shrine
+
+named Svarga^rnga (gold horn), the names of Kusasthall,
+Avanti and Ujjayinl.
+
+## 103. The shrines named Padmavatl, Kumudvatl, axid
+
+Amaravati the names of Vi^ala, and Pratikalpa and
+Amaravatl, the subduing of fever.
+
+## 104. The benefit of the names of !§iva etc., the eulogy of
+
+Siva sung by the Nagas (Serpents), the narrative of killing
+Hirany&k^a, the holy centre of Sundarakunda.
+
+## 105. The holy centres of Vindhyavasin (residing in
+
+Vindhya) called Nilagahgapufkara, the holy centre destructive
+of sins, called Puru^ttama.
+
+
+1396
+Nirada VurlHia
+
+## 106. TheGomati river, the holy pool of V&mana, the
+
+thousand names of Vi?nu, the lake of Vire^vara, the shrine of
+Kalabhairava.
+
+## 107. The greatness of Nagapaftcaml, the Jayantika
+
+(birth anniversary) of Nrsimha, the procession of Kutumbe^vara,
+the glorification of divine Sadhakas.
+
+## 108. The holy shrine called Karkaraja, the bearing of
+
+Vighnesa and other Devas, the review of many holy centres in
+the Rudrakunda (the holy pit of Rudra) and others.
+
+## 109. The holy pilgrimage of the eight holy centres, the
+
+greatness of Rcva, the detachment of Dharmaputra, his meeting
+with Markandeya.
+
+## 110. Narration of the most excellent experience,* the
+
+glorification of Amyta; Different names of Narmada in the
+different Kalpas.
+
+## 111. The hymn of Narmada composed by the sages,
+
+the story of Kalaratri; thereafter the prayer of Mahadeva,
+the wonderful stories of several Kalpas.
+
+## 112. The story of Vitalya, the story of Jale^vara,
+
+the description of Gauri Vrata, the burning of Tripuras.
+
+## 113. The injunctions regarding the casting off of the
+
+body, then the confluence of Kaveri, the holy shrines of
+Danitlrtha and Brahmavarta, alongwith the story of livara.
+114-115. The following series of shrines are then
+described : Agni Tirtha, Ravi Tirtha, Meghanada Tirtha,
+Adidaruka Tirtha, Deva Tirtha, Narmadeia, Kapila Tirtha,
+Karafija Tirtha, Ku^dalesa, Pippalada, Vimale&i and
+Sulabhrt, then the story of abduction of Saci and killing of
+Abhraka. (v. 1. Andhaka)
+
+## 116. The Tirtha called iSulabhrdudbhava where different
+
+types of charitable gifts are to be given; then the story of
+Dirgha-tapas and that of R^ya^rhga.
+*v.I.-“ fifdg-LgfSiuibht0ikhifi$um The experience of the initisil
+dissolution (deluged univene)
+
+
+
+## IV.104.117-135
+
+1397
+
+## 117. Then the holy story of Gitrasena, the characteristic
+
+feature of the kingdom of Ka4i,* then the description ofDeva^k
+(The rock of the lord) alongwith the holy centre of 3abaii.
+118-121. Then the holy narrative of Vyadha (the
+hunter) ; then the holy centre of Pu?karinyarka; then the
+following holy pools and shrines—Apretyeivara Tirtha, Sakra
+Tirtha, Karo^ika, Kumareia, Agastyeia, Anandela, Matrja,
+Loke^ia, Dhanadeia, Mahgale^a, Kamaja, Nagela, Gopara.
+Gautama, l§ahkhacudaka, Narade^a, Nandikela, Varui^eivara
+Tirtha, Dadhiskanda and other holy centres; then Hanuma-
+te^vara, Rame^vara and other holy centres, SomeiSa, Pihga-
+le^vara.
+122-129. R^mok$a, Kapilela, Putikela, Jalciaya,
+Candarka, Yama Tirtha, Kalhodi^a, Vanadika, (v. 1. Nandika)
+Narayana, Ko):iia, Vyasa Tirtha, Prabh^aka, Nage^, Sahkar-
+^anaka, Pra^rayelvara Tirtha, the holy confluence of Airandi*
+Suvar^lila Tirtha, Karafija, K^aha, Bhandura, Rohini-
+bhava, Gakra Tirtha, Dhautapapa, Skanda, the holy place
+named after Ahgiras, Ko$i Tirtha, Tirtha called Ayoni, Angara
+Tirtha, Trilocana Tirtha, Indre^, Kambukeia, Someia,
+Kohanesa, Narmada, Arka, Agneya, the excellent BhargaveSvara
+Brahma, Daiva, M^gesa, Adivarahakesvara, Ramesa, Siddheia
+Ahalya, Kahkateivara, Sakra, Saumya, NadeSa, Toyc^a, Ruk-
+mi^ibhava, YojaneSa, Varahe^a, Dvadasi Siva Tirtha, SiddhcSa,
+Mahgale^a, Lihgatirtha, Varaha Tirtha, Kunde^, Sveta-
+varaha, Garbhavela, Rawivara.
+130-135. The holy centres of Sukla etc., Hunkarasvami
+Tirtha, Sahgame^a, Nahu^Sa, Moksana, Paficagopa,
+Nagasava, Siddhe^, Marka^d^tirtha, Akruratirtha, Kamo-
+datirtha, Sularopatirtha, Ma^avya, Gopakelvara, Kapilela,
+Pihgale^, Bhute^, Gahga Tirtha, Gautama Tirtha, Alvamedha,
+Bhrgukaccha Kedarela, the dispeller of sins, Kalakalela, Jale^a,
+i^alagrama, Varahaka, Gandraprabhasa, Aditya, Sripati Tirtha,
+Hamsaka, Mulyasthana (the original abode), Sulela, the
+Tirtha called Ugra, Gitradaivaka, Sikhhia, Koti Tirtha, Dala-
+kanya, Suvarioudca, ^^amok^, (that which liberates from
+*v.l. XiH-4ri^a^a mokfo^am—Salvation of K&fir&ja
+
+
+1398
+Ndtada PurSna
+indebtedness), Bharabhuti, Punkha Mun^i, pin^ima (a drum),
+Amale^j Kapalc^a, Sniga Brand! Bhava, Kofi Tirtha and
+Lotaneja. Thereafter, there is Phala^ruJi (A remark like the
+Vcdic passage indicating the benefit) (phalastuti-^praise of
+the benefit).
+136-140. In the context of the greatness ofDrmijaiigala,^
+there is the story of Rohitaiva, the narration of Dhundhumara
+the strategem of destroying Dhundhu; the killing of
+Dhundhu and the birth of Citravaha, his greatness,
+the prowess of Candida, Ratilvara, Kedare5^^ the Laksatirtha,
+the holy water originating from Visnupadi (Firmament),
+Mukhara, Cyavana, Andh^ya and the lake of Brahma,
+the Tirthas of Cakra, Lalita, the holy centres full of cows,
+Rudravarta and Markanda, the holy centres that dispel sins,
+^ravanesa, Suddhapata, Devandhupretatirtha, the origin of
+holy centre Jihvoda, Sivodbheda and their eulogy in regard
+to their efficacy.
+
+## 141. This is the summary of the part called Avanti
+
+Khanda;* it is destructive of sins of those who listen.
+Henceforth, the sixth part named Nagarakhanda* is being
+narrated.
+The ^dgarakhan^a*
+
+## 142. The narration of the origin of Linga, the aus¬
+
+picious story of Hariicandra, the greatness of Viivamitra, the
+attainment of heaven by Triianku.
+
+## 1. Tlie topics from DrmjaUgala upto Sivodbheda mentioned in VV 136-
+
+140 are not traced in any extant edition of Avanti Kha^da indicating that
+the author of NSrada Puraiia had a different version of Sk. P. than the
+present printed ones.
+
+## 2. The Vehkate^vara, Bangabasi and the GM editions of the Sk. P.
+
+give a big section of 84 chapten called CaturaHtuliAga-mdhatn^a. But the NP
+does not mention this whole section.
+
+## 3. It is surprising that theNP does not even mention the big RevSkhapda
+
+the Uttar&rdha of which consists of 232 chapters and skips
+to the ^fdgaradchapda.
+
+## 4. W. 142-167 give us the main topics in the JddgarOrkhapdot many of
+
+which are found in the extant Sk. P.
+
+
+
+## IV. 104.143-158
+
+1399
+
+## 143. In the context of the greatness of Hatakelvara, the
+
+killing of demon Vftra, the description of the holy centres
+Nagabila, Sarikha Tirtha and Acalesvara.
+144-I45a. The narration of the city of Camatkara, that
+is very interesting, then the description of these holy centres—
+GayasTrsa, Balasakhya, Balaman^a, Mrgahvaya, Visnupada,
+Gokarna, Yugarupa and Samasraya (that is the support of
+the people).
+145b-146. Siddhesvara, the holy pool ofNagas, the holy
+centre of seven sages, of Agastya as well as that of Bhruna-
+garta, Nalesa, of Bhisma, Vaic^uram, Arkaka (pertaining to the
+Sun-God), Sarmistha (related to Sarmistha), Somanatha,
+Daurga, Atarjakesvara.
+147-150. The story of killing of Jamadagni; the story
+of (Parasurama’s vow of) making (the country) devoid of
+Ksatriyas, the holy centres of Ramahrada, Nagapura, Sadlihga,
+Yajfiabhu, the three shrines of Trikarka beginning with
+Mun<^ira, the marriage of Satl, the shrines of Rudraslr^a,
+Yagesa, Valakhilya and Garuda. The curse of Laksmi, the
+twenlyseven palaces of Soma; the shrine called Pan^uka
+erected by Amba, Agneya (belonging to the fire God), Brahma-
+kunda, Gomukha, the shrine called Lohayasti, the goddess
+Ajapalesvari, the shrine of ^aniscara, (Saturn), the RajavapI
+(Royal tank) Ramesa, Laksmanesvara.
+151-158. The excellentmost among the excellent
+Lihgas—Kulesa and Lavesa. The story of Astasasti and that
+ofDamayanti, the origin of the holy centre Bhaktika Tirtha,
+Ksemamkari, Kedara, Sukla Tirtha, Mukharka, the narration
+of the shrine Satyasandhesvara, the story of Karnotpala,
+Atesvara, the shrines of Yajnavalkya, Gauri, andGanesa. Then
+the description of Vastupada, the narration of Ajagrha, Sau-
+bhagyajidhu (the well of good fortune), the shrine Sulesa<
+the story of Dharraaraja, the story of Lord the bestower of
+sweets, three shrines of Ganapati, the story of Jabali and
+the story of Makareia, the description of Kalesvari and
+Andhaka, the holy pool of Apsaras (celestial damsels), the
+shrines of Pufy&ditya and Rauhitasva, the narrative of the
+origin of NSgara, the stories of Bhrgu Visvamitra, Sarasvati,
+
+
+1400
+Ndrada Purdm
+Pippalada, Kaihsarisa and Pendaka, the story of the Yajiia of
+Brahma alongwith the narration of Savitri, Raivata, Bharata
+Yajfla and the survey of the important holy centres.
+
+## 159. The three Ksetras (holy shrines) of Kanrava, (i. e.
+
+the descendants of Kuru) Hatakesa and Prabhasa, the three
+forests of Pau^kara, Naimisa, and Dharma.
+
+## 160. The three cities viz. Varanasi, Dvaraka and Avanti,
+
+the three Vanas (Parks) viz. Vrndavana, Khandavavana and
+Advaika (?) [ta?] vana.
+
+## 161. The three excellent villages, viz. Kalpagrama,
+
+!§alagrama and Nandigrama, the three Tirthas (holy centres)
+viz. Asi Tirtha, Sukla Tirtha and Pitr Tirtha.
+162-63a. The three excellent Parvatas (mountains) viz.
+5ri Parvata, Arbuda Parvata (mount Abu) and Raivata
+Parvata; the three rivers Gaiiga, Narmada, and Sarasvati,
+each of these is glorified as yielding one and a half crore of
+benefits.
+163b-164a. The four holy centres of Kupika, Sankha-
+tlrtha, Amaraka and Balamand^na are said to yield the same
+benefit as Hatakesaksetra.
+164b-165. The iSraddhakalpa (rituals regarding Sraddha)
+according to Samba (alongwith Amba and Aditya ?), that of
+Yudhisthira and Andhaka; the holy rite of Alunya Dayana in
+the four months (of the rainy season), lying down on water.,
+the shrine of Maiikane^a, the festival of Sivaratri, Tulapu-
+rusadana rite.
+
+## 166. The gift of lands, the shrines of Vanakesa and
+
+Kapalamocane^vara, Papapinda (the lump of sins), Masalaiiiga
+(the worship of Liiiga for a month), the glorification of the
+extent and magnitude of Yugas.
+
+## 167. The narration ofNimbe^a and Sakambhari deities,
+
+the description of Rudraikada^a (the eleven Rudras), the
+narration of the greatness of charitable gifts and the glorification
+of twelve Adityas.
+The Prabhdsa khania^
+
+## 168a. Thus Nagara khanda (has been summarised).
+
+Now the part called Prabh^a khanda is being mentioned.
+
+## 1. W. 168 to 212 give the detailed contents of the \ast—Prabhasa
+
+
+
+IV.104.168b-180
+1401
+168b-169. The shrines Somesa and Viivcia, the great
+and meritorious holy centre called Arkasthala, the narration of
+Siddheivara etc., is made here separately; the shrines of Agni-
+Urtha, Kapardila and Kedareia and the bestowers of goals
+(heavenly abodes).
+
+## 170. The different forms of Kara—viz. Bhima, Bhairava,
+
+Caniji^a, etc., the planets viz. the Stm, Moon, Mars, Mercury,
+Jupiter, Venus, Saturn, Rahu and Sikhin (Kctu).
+
+## 171. Then five others Siddheivara and the forms ofRudra,
+
+are stationed there. The goddesses of excellent beauty—Aja,
+Pala, Mangala and Lalitesvarl.
+172-74. Then the shrines of Lak^mlla, Y^avela,
+Urvisa, Kamesvara, Gaurisa, Varuneia, Durvasela, Ganeivara,
+Kumare^a, Gan^akalpa and Sakulisvara. Then the holy story
+of Kotisa, Balabrahma, etc., then the stories ofNarake^a,
+Sarhvarteia and Nidhisvara, then that of Balabhadre^vara,
+Gaiiga and Ganapa.
+
+## 175. Then the good story of the river named Jambavati
+
+and the well called Pandukupa, the story of Satamedha
+(hundred sacrifices), Lak^amedha (hundred-thousand sacrifices)
+and Kotimedha (a crore of sacrifices.)
+176-177a. The prominent story of Durv^as, Arka,
+Ghatasthana (place of Water pot) and Hiranyasangama
+(confluence of the Hiranya), the separate stories of Nagararka,
+Krsna, Sankarsana and Samudra (sea), Kumari (Virgin),
+R?etrapMa (the guardian of the fields) and Brahmcia.
+177b-178. The glorification of Pingala and Sangameia,
+l^aiikara, Arkesa, Ghatesa, the holy centre Rsitirtha, Nandarka-
+tritakupa, the wonderful story of Parnarka and Nyankumati
+with Sopana.
+
+## 179. The news (or the details) of Varahasvamin and
+
+that of Ghayalinga and Gulpha, the story of Kanakananda as
+well as that of Kunti and Gange^a.
+
+## 180. Then the story of Gamasa, Udbheda, Vidura and
+
+TrilokciSa (Lord of the three worlds), then the stories of
+Mankaneia, TraipureSa and §an^Ja-Tirtha.
+JCkofi^a which agrees with the extant published Sk. P., showing the degree
+of authenticity of the Khait^a.
+
+
+1402
+Ndrada Purina.
+
+## 181. Then the stories of Suryapraci and TrJksana( three-
+
+eyed) as well as that of Umanatha, the stories of Bhuddara
+(the uplifter of the Earth), Sulasthala (spot of Trident), that
+ofCyavana and Arkesa.
+
+## 182. The story of the'holy spots of Ajapalela, Balarka
+
+and Kuberasthala, the meritorious story of Rsitoya, the glori¬
+fication of Sahgalesvara.
+
+## 183. The narration of Narada and Aditya, review of
+
+Narayana, the greatness of Taptakun^a, description of
+Mulacan^isa.
+
+## 184. The story of the four-faced presiding deity of the
+
+attendants and Kalambesvara, the story of Gopalasvamin and
+Vakulasvamin, as well as the Maruts (Winds).
+
+## 185. Then the stories of Ksemarka, Unnata Vighnesa
+
+and Jalasvami, the stories of Kalamegha, Rukminl, Durvasa,
+IlvaraBhadra.
+
+## 186. The stories of the shrines Sahkhavarta, Moksa-
+
+tirtha, Gospada and Acyutasadman ((Abode of Acyuta) and
+of the deities Jalesvara, Huriikaresvara and Can^isa.
+
+## 187. The wonderful story of Vighnesa stationed in
+
+Asapura and that of Kalakunda, the story of Kapilesa and of
+Jaradgava^iva (Siva with an old cow).
+
+## 188. The story of Nala and Karotesvara and that ofHata-
+
+kesvara, the Yantra and the Bhusa (ornament) of Naradesa,
+Durgakuta and Ganesa’s story.
+
+## 189. The story ofBhairavis called Suparna, Ela and that
+
+of Bhallatirtha, the glorihcation of Kardamala and Gupta
+Some S vara.
+
+## 190. The stories of Bahusvarnela (Lord of much gold),
+
+Srhgela and Kotisvara, the stories of Markan^esvara,
+Damodaragrha and Kotisa.
+
+## 191. Svarnarekha, Brahmakun<^a, the shrines of Kuntl-
+
+Ivara and Bhimesvara, the pit of MrgI (hind) is remembered
+in the temple of Sarvasva and Vastrapatha.
+
+## 192. The wonderful stories of Durga, Bhilela, Gahgela
+
+and Raivata, then the story of Arbudesvara, the glorification
+of Acalelvara.
+
+## 193. The story of Nagatirtha, the description of
+
+
+
+
+## IV.104.194-205
+
+1403
+Vasistha’s hermitage, the great eminence of Bhadrakarna and
+that of Trinetra (the three-eyed) thereafter.
+
+## 194. The greatness of Kedara, the glorification of the
+
+arrival at the holy centre, the stories of the holy centre in the
+form of Kotisvara and that of Arsikesa.
+
+## 195. The glorification of Siddhe^a, Sukresvara and
+
+Manikari^^a, the description of Pangutirtha, Yamatirtha and
+Varahatirtha.
+
+## 196. The greatness of Gandra Prabhasa, Pindoda,
+
+Srimata, Suklatirtha and Katyayani, then the greatness of
+Pindaraka.
+
+## 197. Then the glory of Kanakhala, Gakratirtha and
+
+Manusatirtha, the story of Kapilagnilirtha and that of Raktanu-
+bhandha.
+
+## 198. The pilgrimage to Ganesa and Parthesvara shrines,
+
+the story of Ujjvala, Gandisthana (abode of the Goddess), the
+greatness of l^ivakunda originating from Naga, the story of
+Maheia.
+
+## 199. The story of Rame^vara and the origin of Mark-
+
+andeya, the stories severally of Uddalakesa, SiddheSa and
+Gatatirtha.
+
+## 200. The origin of iSridevakhata and the shrines of
+
+Vy^atirtha and Gautama-tirtha, the greatness of Kulasantara
+and that of the Tirthas of Rama and Koti.
+
+## 201. The wonderful origin of Gandrodbheda, liana^rnga,
+
+and Brahmasthana, the auspicious stories of Tripuskara,
+Rudrahrada and Guhesvara.
+
+## 202. The greatness of Avimukta and Uma-Mahelvara,
+
+the glory of Mahaujas, the description of Jambutirtha.
+
+## 203. The story of Gangadhara and Misraka and the
+
+eulogy of the benefit (of reading this). In the context of the
+greatness of Dvaraka, the story of GandraiSarman.
+
+## 204. The holy rite of EkadaS and the narration of (the
+
+mode) of worship.and keeping awake (on Ek^a^i night), the
+description of Mahadvadalika and the meeting of Prahlada
+and the sage.
+
+## 205. The anecdote of Durvasas, the glorification of the
+
+beginning of Yatra (pilgrimage), the narration of the origin
+of Gomati and the benefit of ablution etc., therein.
+
+
+1404
+Ndrada Purdtia
+
+## 206. The greatness of Cakratirtha, the confluence of
+
+the river Gomat! (near Dvaraka) and the ocean (the Arabian
+sea), the narration of the Hrada (deep pool) of Sanaka and
+others, then the story of Nfgatirtha.
+
+## 207. The holy story of Gopracara, the arrival of
+
+cowherdesses at Dvaraka, the narration of Gopisaras (the lake
+of the cowherdesses); the glorification of Brahmatirtha.
+
+## 208. The narration of the advent of five rivers,
+
+alongwith different stories and the glorification of Sivalinga,
+Gadatirtha and the worship etc. of Krsna.
+
+## 209. The story of the Murti (the idol) ofTrivikrama,
+
+the conversation between Durvasas and Krs^, the benefit of
+the recital of death of Kula daitya and the special worship
+thereof.
+
+## 210. The glorification of the advent of all the Tlrthas in
+
+Gomat! and Dvaraka, the survey of Krsna’s temple and the
+coronation at Dvaravati.
+
+## 211. There the story of the residence (of all Tlrthas)
+
+that holy centre; the glorification of the merit of Dvaraka. O
+Brahmana, this is the summary of the seventh part called
+Prabhasika Khanda.
+212>213. In the course of description of the greatness of
+l^iva in the Skanda Pura^ with all the gloriousmost stories,
+he who writes this out and gives it to a Brahmana on the full
+moon day in the month of Magha, receiving him duly and
+with the charitable gift of a gold trident, rejoices in the region
+of Siva.
+
+
+
+## IV. 105.1-5
+
+1405
+
+## CHAPTER ONE HUNDRED AND FIVE
+
+The V&mana Purdna^ : Contents
+
+## Brakmd said :
+
+
+## 1. O dear one, listen, I shall recount to you the Purina
+
+named Vamana. It contains stories of Trivikrama and com¬
+prises ten thousand verses.
+
+## 2. It contains the narratives of events of the Kurma
+
+Kalpa; it has stories descriptive of Vargatraya (the three
+aims of life viz. virtue, love and wealth). It is in two parts.
+It is auspicious to the narrator as well as to the listener.
+
+## 3. At the outset, there is the enquiry about the Purana;
+
+the cutting off of the head ofBrahma, the story of Kapala-
+mocana, the destruction of Daksa’s Yajfta.
+
+## 4. The description of (and narration about) Kara in the
+
+form of Kala, then the burning of Kama, the fight between.
+Prahlada and Narayana, the war between the Devas and the
+Asuras.
+
+## 5. The narration of the story of Sukeiil and Arka, then
+
+the Bhuvanakoia (description of the worlds), then the des¬
+cription of Kamyavratas (Vratas performed with some desired
+object), then the*story of Sri Durga.
+
+## 1. According to the NP. V4yu, Mt. P., Bh. P. the Vimana P. consists
+
+of 10,000 verses. Further the NP states that the FdiRana consists of two parts
+Purvabh&ga and Uttara bhdga (or Vjddha Vdmaaa) the latter containing the
+following sarhhitis viz. the MiheSvart, Bhdgaoati, Sami and Gapeivari, each
+consisting of 1000 verses (W. 13-14). But the whole of the UttarabhOga is lost
+leaving the PurvUrdha of 6000 verses. But actually in Vehkatesvara edit,
+there are 5451 verses (chs. 26, 44 and 93 being in prose).
+There is a discrepancy in the total number of chapters in the MSS of
+this Purina c. g. Devanigari MSS (94 chs.), Tclugu MSS (89 chs.),
+Sirada code (85 chs.), Adyar Mss (67 chs.). (A. S. Gupta—PJ. V. pp. 360-
+
+## 66). Although many of the topics mentioned in the NP are found in the
+
+printed edition, the absence of the UUardrdha and the no. of verses in the
+extant Purftpa show that the NP refers to a different version of the Vimamt
+Purdoa.
+By the way it may be noted that though this was originally a Vaifoava
+Pur&pa, Saivism has considerably influenced it as the efusodes of Siva are also
+described in details. This synthetic tendency—harmonizing Vaiy^vism,
+Saivism etc. by r^arding these deities as representatives of due Brahman—^ia
+found pracdcsdly in all Pur&pas.
+
+
+4406
+NSraida Purd^
+
+## 6. Then the story of Tapati, description of Kuruksetra,
+
+the incomparable greatness of Satya, the glorihcation of the
+nativity of Parvati.
+
+## 7. Her penance, and then the marriage, thereafter, the
+
+story of Gauri, thereafter, the subsidiary story of Kau^iki and
+then the story of Kumara.
+
+## 8. Then the story of killing Andhaka, then the
+
+narrative of Sadhyas, afterwards, the story of Jabali, the
+wonderful story of Araja.
+
+## 9. The fight between Andhaka and Hvara, Andhaka
+
+given the status of a Gana (attendant of i§iva), the narration of
+the Maruts, then the story of Bali.
+
+## 10. Then Laksmi’s story, thereafter the story ofTri-
+
+vikrama, then auspicious stories are being narrated in the course
+of pilgrimage of Prahlada.
+
+## 11. Thereafter, the story of Dhundhu; then the story of
+
+the Preta (Ghosts), the story of Naksatrapurusa (The name of
+a Vrata), then the story of Sridama.
+
+## 12. At the end of the story of Trivikrama, there is an
+
+excellent hymn composed by Brahma. In the course of
+conversation between Prahlada and Bali in Sutala (Nether-
+worlds) , Hari is praised.
+
+## 13. Thus the story of the first half of this Purana is
+
+mentioned to you. Hereafter, listen to its latter half called
+Bfhad Vamana.
+
+## 14. There are four Sariihit^ (compendiums) therein
+
+each consisting of a thousand verses. They are Mahesvari,
+Bhagavatl, Sauri and GaneSvari.^
+
+## 1. According to the NP, the Kurma Purapa consists of Brihmi,
+
+Bh&gavati, Sauri and Vai^pavi Sarnhitas and has 17,000 verses in all (verse
+3), a figure endorsed by the Bh. P. (XII. 13, I). But the Vdyu and
+Mat^ credit it with 18,003 verses, while according to AP (272-10) it has
+8000 verses only. The Kurma B itself states that it consists of Brdhmf, BhdgaoaH,
+Sauri and Vaiffiatn Sarnhitas and the Brdhmi contains 6000 verses. But actually
+Vefikatefvara Press edit, gives 5925 verses. The NP. gives the topical analysis
+of each SaAhitd and states the sub-sections of each Sathhiti e. g. the Bh&gavati
+SathhitA has five sections (Paflcor-padi), the Sauri, six Vaifpavi, four
+{catufpadt). The total No. of verses in each section is given as 6000, 4000,
+2000 and 5000 verses respectively. Gh. 106.
+
+
+
+## IV.105.15-22
+
+1407
+
+## 15. In the compilation called Maheivari, there is the
+
+glorification of Krsna and his devotees. In the compendium
+Bhagavati, there is the wonderful story of the incarnation of
+the Mother of the Universe.
+
+## 16. In the compendium Sauri, the glory of the Sun is
+
+spoken (praised) which is destructive of sins. In the com¬
+pendium Ganesvari there is the story of Gane^a and Maheia.
+
+## 17. This is a wonderful Parana named Vamana. It is
+
+narrated by Pulastya to the noble-souled Narada.
+
+## 18. Then it was acquired from Narada by Vyasa, a
+
+very great Atman. From Yyasa his disciple Romaharsana
+acquired this.
+
+## 19. He will narrate it to the Brahmanas of Naimisa
+
+forest. Thus the auspicious Vamana Purana has been traditionally
+handed down and acquired.
+20-22. Those who read this or listen to this, attain the
+greatest goal. He who writes this out and gives it to aBrahmana
+Vedic scholar at the time of autumnal equinox alongwith ghee
+and a cow, uplifts his Pitrs (ancestors) from hells and leads
+them to heaven. After enjoying all worldly pleasures and
+dying thereafter, he attains the great region of Visnu.
+All this evidence shows that the author of the NP had positively a
+diflerent and a larger version than the extant KP.
+The extant (both Vehkatesvara and K&siraja) editions of KP tally to a
+great extent with the Brdhnl SamhiUt and the other Samhitds seem to have been
+lost.
+Hazra notes that ot%inally the Kdrma was a Pdheardtra Purdinia which was
+subsequently Paiupatised. (vide PR. pp. 57. AT.)
+
+
+1408
+Ndrada PurSna
+CaiAPTER ONE HUNDRED AND SIX
+The KUrmaPurd^ : Contents
+
+## God Brahmd said :
+
+i«2. O dear child, O Marici, listen to the Purai^ called
+Kurma. It covers the events of the Lak^mi Kalpa. In
+the context of Indradyumna, the merciful Hari, assuming the
+form of a tortoise, proclaimed it to the sages the respective
+greatness of virtue, love, wealth and salvation.
+
+## 3. It consists of seventeen thousand verses.^ It is very
+
+auspicious with four Samhitas. O sage, many of the Brahma
+dharmas (religious duties) mentioned formerly, have been
+explained in it.
+
+## 4. They are dealt with in the context of different
+
+stories. They are the bestowers of good position (hereafter) unto
+men. In the first subdivision there is the usual beginning
+at the outset.
+
+## 5. There is the dialogue between LaksmI and Indra¬
+
+dyumna and the conversation between the Divine Tortoise and
+the groups of sages. Then is the account of the four castes
+(Varnas) and stages in life (A^ramas, and their (prescribed)
+duties, the narration of the creation of the Universe.
+
+## 6. There is a brief description about the calculation of
+
+Time (such as Yugas, Manvantaras), at the end of the dis¬
+solution, there is the eulogy of the Lord (by Siddhas), then a
+brief description of the creation (of the universe) and the story
+of Sankara.
+
+## 7. The thousand names of Parvati, the exposition of the
+
+Yoga philosophy, the description of the family of Bhrgu, and then
+that of Svayambhuva (Manu).
+
+## 1. According to the VP, Vayu, Bh. P. (xii. 13. 4-9) and Mt. P,
+
+itself, this Puriqa consists of 14,000 verses while AP credit! it with 13000 (or
+13,003 as per A, S. Gupta) the BVP with 18,000 verses. The Anand&irama
+Press edit, contains 14,062 verses and its contents agree in general with
+given in the NP. ITiis agreement is probably due to its bdng the best
+preserved and the earliest of the 18 Puranas (Kane—HD. vu. p. 899). Kane
+also notes that it has perhaps the largest number of SmfH chapters among
+Purioas and assigns 200 A. D. to 400 A. D. as its probable date.
+
+
+IV.l06.8-19b
+1409
+
+## 8. The origin of the Devas and others, then the destruc¬
+
+tion of Daksa’s Yajfia, the story of the creation by Daksa, then
+the narration of the lineage of Ka^yapa (containing the account
+of the Solar and Lunar dynasties).
+
+## 9. The description of the family of Atri, the auspicious
+
+story of Kfsna, the dialogue between Krsna and Martand^t
+(The Sun-god) and the conversation between Vyasa and the
+Panda vas.
+
+## 10. The narration of the characteristic nature of different
+
+Yogas (Yugadharma), the glorification of Vyasa and Jaimini,
+the greatness of Var^asi and Prayaga.
+11-12. The description of the three worlds, the review of
+the branches of Vedas. In the latter half of the Purana there arc
+the Isvaragita and the Vyasagita. These two illuminate the
+different kinds of Dharmas; the greatness of the different holy
+centres is mentioned separately.
+
+## 13. Then there is the narration ofPratisarga (Dissolu¬
+
+tion of the Universe). This much is the summary of the first
+division named Brahmi Sariihita. Henceforth, the compendium
+Bhagavati Sarhhita is reviewed.
+
+## 14. In this division, the separate activities of the different
+
+castes are narrated. In the first quarter of this Sarhhita, the
+determination of duties etc. of the Brahmanas has been narrated.
+
+## 15. O dear one, it consists of good and disciplined life
+
+and it enhances their enjoyment and the happiness of worldly
+pleasures. In the second quarter, the functions of the profession
+of the K?atriyas are clearly enunciated.
+16-19a. Ifa (Ksatriya) abides by these, he shall eschew
+sins and go to heaven. In the third quarter, the fourfold acti¬
+vities of the Vailyas have been explained. If these are followed,
+one shall attain excellent salvation. In its fourth quarter, the
+activities of the l§udras are explained. If these are followed,
+Lord Vi?nu becomes pleased and increases the welfare of men.
+In the fifth quarter the duties and functions of the mixed castes
+are explained. If they are followed, one attains excellent state
+of future life.
+
+## 19b. O sage, thus is narrated the second compendium
+
+(Sarhhita) consisting of five sections (Paftcapadi).
+
+
+1410
+Ndrada Purdna
+
+## 20. The third compendium is called Sauzi. It lays down
+
+the various duties of men. To men who desire (to obtain some
+objects), it instructs the six karmans and their Siddhis in six
+different ways. *
+
+## 21. The fourth compendium is called Vaisnavi. It is
+
+glorified as the bestower of Liberation from Samsara. It con¬
+sists of four sections (Gatus-padi). It is veritable Brahma i.e.
+the Veda incarnate to the twicc-borns.
+
+## 22. The four Sarhhitas contain respectively six thousand,
+
+four thousand, two thousand and five thousand verses.
+
+## 23. This Kurma Purana yields the benefit of four
+
+Vargas (the aims of life) viz. Dharma, Artha, Kama, Moksa.
+It yields the best of all goals to the men who read and listen
+to it.
+
+## 24. He who writes this (Purana) with devotion and gives
+
+it to a Brahmana during the transit of the sun from the tropics,
+alongwith the replica of a tortoise in gold, attains the greatest
+goal.
+
+## CHAPTER ONE HUNDRED AND SEVEN
+
+The Matsya Purd^a : Contents
+
+## LordBrahmd said :
+
+
+## 1. O excellent Brahmana, I shall, henceforth, recount
+
+the Matsya Purana to you. In it, all the events of the seven
+Kalpas in the world, have been condensed.
+
+## 2. It has been composed by Vy^a, a scholar in the Vedas,
+
+in about fourteen thousand verses.* He has begun by describ¬
+ing Narasimha.
+•The Vdyu, the Matsya and the Bh. P. state this figure, but AP.
+gives 13000 and the Br. V. 18000 verses as the figure. Actually the Anand-
+asrama edition contains 14,062 verses. The contents of that edition tally with
+those given by the NP. here.
+
+
+
+## IV.107.3-15
+
+1411
+
+## 3. The discussion between Manu and Matsya, then the
+
+narration (description) of the Cosmic Egg; the creation of the
+Devas, Asuras and the Marut (wind) from the Brahman.
+
+## 4. Madana-Dvada^i (the twelfth lunar day in honour of
+
+Madana) and the worship of the' guardians of the worlds; the
+survey of the Manvantaras, the description of the government of
+the kingdom by the VaiiSyas.
+
+## 5. The birth of Vaivasvata (Manu) from the sun, the
+
+contact with Budha (Mercury), the narration of the lineage of
+the Pitrs; the opportune time for (performance of) Sraddha).
+
+## 6. The peregrination among the Pitr-Tirthas, the origin
+
+of Soma (the moon), the glorification of the lunar race and the
+story of Yayati.
+
+## 7. The story of Karttavirya, the narration of the created
+
+race, Bhrgu’s curse to Vi?nu to take ten births on the Earth.
+
+## 8. Then the glorification of Puru’s race, the race of Huta-
+
+sana (the fire), the path of activity. Thereafter, the narration of
+the Purana.
+
+## 9. The Vrata (holy rite) called Naksatra Purusa, Mar-
+
+tan<^a-^ayana, theVrataof Krsnastami (the eighth day of the
+dark half of l§ravana observance in honour of Krsna’s birth)
+and that of Rohinicandra.
+
+## 10. The greatness of constructing tanks; the gift of the
+
+trees, the Vrata called Saubhagya and Dayana Agaistya Vrata.
+
+## 11. The Vrata of Anantatrtiya, that of Rasakalyanini, that
+
+of Anandakari and then the Sarasvata (belonging to Sarasvati)
+Vrata.
+
+## 12. Uparagabhi^ka (Ablution at the time of eclipse
+
+Saptami Dayana, Bhima Dvadali, Anangasayana rite.
+
+## 13. Aiunyasayanavrata, Angarakavrata (holy rite of
+
+Mars) Saptami saptaka (seven Saptamis i.e. seventh lunar day)
+Vifokadvadaiivrata (holy rite on the twelfth lunar day for
+wiping off grief).
+
+## 14. The gift of Mcru, ten-fold specification of evil planets;
+
+the narration of the forms of planets, l^ivacaturdasi (the
+fourteenth day of Siva).
+
+## 15. The abandonment of all fruits, the holy observance
+
+of Suryavara (Sunday), the taking of bath at the time of
+
+
+1412 Ndrada Purdm
+Sankranti (Solar Transit from one sign of Zodiac to another),
+the holy riteof Vibhuti Dvada^L
+
+## 16. The greatness of IJasthivratas (holy rites on^the sixth
+
+Lunar day) (leading Sastivratas—sixty holy rites), then the
+rules of procedure regarding holy baths, the greatness ofPrayaga,
+the description of continents and the worlds.
+
+## 17. The movement in the firmament, the greatness of
+
+Dhruva (Pole Star), the abodes of the leading Devas, the illu¬
+mination of the three cities.
+
+## 18. The greatness of leading Pitrs, the description of
+
+Manvantaras, the creation of the set of four Yugas and the
+review of Yugadharma (the characteristics peculiar to the
+different Yugas).
+
+## 19. The birth of Vajranga and the nativity of Taraka, the
+
+greatness of the demon Taraka, the glorification of God
+Brahma.
+
+## 20. The nativity of Parvati, the penance-grove of Siva,
+
+the burning of the body of Ananga (Cupid) and the grief of
+Rati.
+
+## 21. The penance-grove of Gauri, soothing by Siva, the
+
+conversation between Parvati and the sages, the auspicious
+celebration of Siva’s marriage.
+
+## 22. The birth of Kumara and the victory of Kumara, the
+
+terrible killing of Taraka, the description of Narasiihha.
+
+## 23. The creation of the lotus-born deity; the killing of
+
+Andhaka, the greatness of Varanasi as well as that of Narmada.
+
+## 24. The description of Pitrs according to the Grotras and
+
+Pravaras, the glorification of the Pitrgatha (song of Pitrs)
+Ubhayamukhidanam (gift of a cow while giving birth to a calf
+and hence two-faced) and the gift of Krsnajina (deerskin of a
+black antelope).
+
+## 25. Then the story of Savitri, the duties of a king, the
+
+narration of different kinds of evil portents ending with
+eclipses.
+
+## 26. The narration of omens at the time of journey,
+
+the glorification of auspicious signs in dreams, the greatness
+of Vamanaand that of Varaha (Boar) thereafter.
+
+## 27. The churning of the ocean, the suppression (nullifica¬
+
+tion) of the poison KMaku(a, the clash between the Devas and
+
+
+
+## IV. 107.28—108.1
+
+1413
+the Demons; then the science of Engineering (planning the
+foundation and construction of a house).
+
+## 28. The characteristic features of an image (idol); then
+
+(the construction) of the temple, the characteristic features of
+a mansion, the characteristics of a pavilion.
+
+## 29. The indication of future kings, the glorification of
+
+great gifts, the narration of Kalpas—All these are narrated
+in this Purana.
+
+## 30. This Purana is pure and conducive to welfare; it
+
+causes increase in longevity and fame. He who reads this or
+listens to it, goes to Hari’s abode.
+
+## 31. He who writes this and gifts it over to a Brahmana
+
+after worshipping him on the equinoctial transit, alongwith a
+gold fish and a cow attains the greatest region.
+
+## CHAPTER ONE HUNDRED AND EIGHT
+
+The Garu<jia Purana : Contents
+
+## God Brahma said :
+
+
+## 1. O Marici, listen, I shall recount to you the auspicious
+
+Garuda Purana.^ Onbeing asked, the Lord Visriu, seated on
+Garuda, recounted this to Garuda.
+
+## 1. The GP [Garuda Pur<ipa) is an ancient encyclopaedia of Indian
+
+wisdom, though its Preta~kalpa section adds little to its glory. According to
+the NP. Bh. P. (xii. 13. 8) and BV. P., GP consists of 19,000 verses while
+according to the Vdyu and Mt. P the total no. of its verses is 18,000 (Kane
+HD. vii. 832) and according to AP 272, 21, 8000 verses. Kane's statements
+need revision as the V&yu 104.8 (GM. edt.) clearly states, 19000 as its total
+No. of verses.
+ekona-viihta-sdhasraih Vainatepan uddhftaml
+But GP (I. 1. 35) states 8800 verses as its extent.
+offau-Sloka-sahasriiii tatkd cdftau Jatdni caj
+Purdparb Gdruifaih Vydsah pwrd'sau tnd'braald idatn fl
+
+
+1414
+Ndrada Purdtfo
+
+## 2. It consists of nineteen thousand verses. The story
+
+deals with the events of the T^k^ya Kalpa. There is the usual
+enquiry about the beginning of the Purana, creation of the
+Universe is described svccinctly.
+
+## 3. O Brahma^, there are rules of the procedure of
+
+the worship of the sun; thereafter, the rules regarding initia¬
+tion ceremony; then there is the worship in connection with
+Sraddhas, after this (injunctions regarding) the worship of nine
+Vyuhas (manifestations of the Lord).
+
+## 4. Then the injunctions regarding the worship, the Paft-
+
+jara (ritualisticcage) pertaining to Visnu, the chapter on Yoga
+system and the glorification of Visnu’s thousand names.
+
+## 5. The meditation on Visnu, then the worship of the Sun,
+
+thereafter, the Arcana (worship) of Mrtyuftjaya, the Mala-
+mantra (Garland mantra), the worship of Siva and then the
+worship of his attendants.
+
+## 6. The adoration of Ciop^a, the worship of Sridhara, the
+
+fascinator of the three worlds, the worship of Visnu of the five
+Tattvas, the discus and the worship of the Lord.
+
+## 7. The rites ofNyasa, etc., the Up^ti, performance of
+
+Sandhya prayers, the worship of Durga and then the worship of
+the Devas, the worship of Mahe^vara, and then the rite of
+wearing the Pavitra (Darbha grass with a loop worn in the
+finger like a ring) and worshipping.
+
+## 8. The meditation on the idol of the Lord, the measure¬
+
+ments of the sites of the buildings; the characteristics of palaces,
+the mode of installation of all the Devas with the several
+modes of worship.
+The confusion is due to difference in Mss. or versions of the GP.
+available to the writer of the Purli^a, e. g. GP. i.eh. 107 (ref. to the Parfiiara
+Smi-ti) is not known to the NP. noted by Dr. Ramshankar Bhattacharya
+(GP. Intro, p. 14-15)the table of contents given in the NP screes more
+closely with the Jibanand cdt. of the GP. (though Venkafeivara edt. of GP
+also tallies with that of the NP).
+The Pretakalpa in the NP. differs in some respects from all the printed
+editions of the GP as accretions went on increasing in the Pretakalpa (R. S.
+Bhattacharya—ibid, p. 16).
+A few slips in the readings of the NP (Vehkatejvara) edt.
+NP. &rdddh<t (verse 3) for GP. I. 10 Sr^sdi Pi^A.
+NP. VidhiKriya (verse 9 for GP. I. 53) Pfidhi Kiiyd.
+
+
+
+## IV.108.9-17
+
+1415
+
+## 9. The Yoga with its eight ancillaries, the Dharmas re¬
+
+garding the charitable gifts, the activity and the rules of proce¬
+dure regarding the expiatory rites, the narration of different
+continents and their Lords, the description of hells, the solar
+system (planetary system around the sun) and Jyotisa (Science
+of Astrology and Astronomy.)
+
+## 10. The science ofSamudrika (Palmistry of prediction
+
+based on the characteristic marks on the body), the knowledge
+of the notes, scrutiny tests of the Navaratnas (the nine precious
+stones) the glory of the holy centres, the excellent greatness of
+Gaya.
+
+## 11. Then the description of the Manvantaras severally
+
+alongwith their divisions, the enumeration of the Pitrs, the
+duties of the different Varnas (castes), the purification of the
+materials of worship, the dedication of benefit unto God.
+
+## 12. I^raddha, worship of vinayaka, Grahayajfia (sacrifice
+
+for propitiating the planets), the A^ramas y(stages of life), the
+impurity due to birth and death (in the family), NitisMtra
+(science of Polity and Ethics), statements about the holy rites.
+
+## 13. The Solar race, the lunar race, the narration of the
+
+incarnations of Hari, the story of Rama, (the Ramayana),
+the genealogical line of Hari (the Harivarhsa) and then the
+story of Bharata.
+
+## 14. The science of life, pathology at the outset and (then)
+
+the treatment, then materia-medica (Dravyaja Gunah), the
+Kavaca (Mantras ascoatofmail) that dispels ailments and which
+pertains to Visnu and Garuda, the mantra pertaining to
+Tripura.
+
+## 15. Praina-cuda-mani (a treatise on answering astrologi-
+
+cally problems asked) at the end, the exposition of the veteri¬
+nary science branch about Horses, the enumeration of the
+names of drugs and then discussion about grammar.
+
+## 16. The science of prosody, good conduct and discipline,
+
+and then the rules regarding ablution, the rites of Tarpana
+Vaisvadeva, the twilight prayers and the holy rites (offering
+ablutions to Pitrs during Parvans such as the full moon and the
+new moon days and such other special days.
+
+## 17. Nityairaddha (the daily Sraddha), the description of
+
+
+
+1416
+JVdrada Purdna
+Sapin^a rite, the essence of Dharma, the atonement of sins, the
+secondary creation, the dissolution and the particular character¬
+istics of the Yugas are narrated, the benefit of religious
+rites.
+
+## 18. The system of Yoga philosophy, the devotion to
+
+Visnu, the benefit of obeisance to Hari, the greatness of Visnu,
+the excellent hymn to Narasimha.
+
+## 19. The nectar of perfect knowledge, the set of eight ver¬
+
+ses in praise of Guha (Karttikeya), the eulogy of Visnu, the
+principal tenets of Vedanta and Sariikhya, the knowledge of
+the Brahman and the Atman.
+
+## 20. The gist of the Bhagavadgita, glorification of the fruit
+
+thereof—these are the topics mentioned in the first section. Then
+in the second section Pretakalpa (the rituals after the death)
+is narrated.
+
+## 21. O Brahmana, on being asked by Tarksya (Garuda)
+
+the lord communicated all these things, the revelation of
+Dharmas, the cause of salvation of the Yogins.
+
+## 22. The benefit of charitable gifts etc. is mentioned and
+
+then the Mantras for the rites of obsequies, then the description
+of the path leading to the world of Yama.
+
+## 23. The details (regarding the performance) are stated
+
+alongwith the fruit of sixteen Sraddhas. Expiatory rites in
+regard to the path of Yama, then the greatness of Dharmaraja.
+
+## 24. Specific mention of the harassment of the Pretas
+
+(ghosts), review of the characteristic signs of the Pretas, the
+narration of the stories of the Pretas; the cause of
+ghosthood.
+
+## 25. Consideration of religious rites for the ghosts; state¬
+
+ments regarding Sapin(;Iikarana (the rite regarding the offer¬
+ings of the balls of rice to the departed), the description of the
+release from ghost-hood, the charitable gifts for the purpose of
+salvation (of the ghosts).
+
+## 26. The indispensable excellent charitable gift; the in¬
+
+ference of things causing happiness to the ghosts; the descrip¬
+tion of the embodied soul, the description of Yama’s world.
+
+## 27. The narration of the uplift from ghosthood; the
+
+specification regarding the holy rites and the doer, the narra-
+
+
+
+## IV.108.28.34
+
+1417
+tion of the rites to be performed before death, the exposition
+of subsequent rites.
+
+## 28. The ‘middle’ sixteen Sraddhas, the stipulation of
+
+activities for the attainment of heaven, the reckoning of Sutaka
+(period of impurity due to birth), the rite of Narayana Bali
+(oblation unto Narayana.)
+
+## 29. The greatness of Vr?otsarga (the rite of setting a bull
+
+calf free), the avoidance of forbidden activities, statement of the
+rites when accidental and premature death takes place, the
+fruits of human action.
+
+## 30. The consideration ofKrtya and Akrtya (what should
+
+be done and what should not be done), meditation on Visnu for
+the purpose of Salvation, narration of the rites laid down for
+the attainment of heaven, the description of happiness in
+heaven.
+
+## 31. The description of Bhurloka, (the Earth,) the
+
+description of seven nether-worlds, the narration of five
+upper worlds, the description of the position of the Cosmic
+Egg-
+
+## 32. Many stories concerning the cosmic egg, the exposi¬
+
+tion of the Brahman and the Jiva (the individual soul); the
+narration of the ultimate dissolution (of the Universe) and the
+narration of the eulogy of benefits.
+
+## 33. Thus is the Purana named after Garuda; it yields
+
+worldly pleasures and salvation; it is glorified as destructive of
+sins of those men who read and listen to it.
+
+## 34. He who writes out this Purana and gifts it to
+
+a Brahmana at the time of equinoctial transit, alongwith a pair
+of swans made of gold, goes to heaven.
+
+
+1418
+NSrada Purdm
+
+## CHAPTER ONE HUNDRED AND NINE
+
+The Brahmdnda Purina : Contents
+
+## God Brahmd said :
+
+
+## 1. O dear one, listen, I shall recount to you the ancient
+
+(Parana) named Brahman^a.^ It comprises twelve thousand
+verses. It deals with the events of the Adikalpa.
+
+## 2. It has four Padas (quarters), the first one is called
+
+Prakriyapada, then is the Anusahgapada, the third one
+is Upodghata Pada (quarter of Introductory matter) and the
+fourth one is Upasaihhara (conclusion).
+
+## 3. The first two quarters constitute the first or earlier
+
+section, the third quarter forms the middle section and the
+fourth quarter, the final section.
+
+## 4. At the beginning, there is the stipulation of duties,
+
+then the story of the Naimi^a forest, the origin of Hiranyagar-
+bha, the conception of the different worlds.
+
+## 5. This is the (summary of the) first quarter. O bcstower
+
+of honour, listen to the second. The narration of the Kalpas and
+the Manvantaras, the knowledge of the worlds, thereafter.
+
+## 1. According to the NP., Bh. P. (xii. 13. 8), AP. (272. 23), the Brah-
+
+manda P. consists of 12,000 verses and 12,200 according to Mt. P. 53. 54.
+But the Vehkatesvara edt. gives 14,286 verses. Its contents are divided into
+three parts (the preliminary {Purva) part containing 2 sections: Prakriyi
+(Introduction in 5 Chs.) and Anufahga (various kalpas, mam-ages, etc. in 33
+Chs.) Part II {Upodghata) deals with the genealt^ies of kings or dynastic
+history. Part III {Upa-samhira) is a recapitulation of the creation of the
+Universe, Manu-epochs, dissolution of the Universe). It is however, called a
+Purina with four piarts (catu^pada) v. 29.
+Kirfel in his Purdpa Paftcalakfapa has noted the close similarity in
+hundreds of verses in the Vdyu and Brahmdpda Purdpas and proposed a theory
+that they formed one Purapa originally.
+The Purdpa traces the tradition of authorship as follows: God Brammi—
+Vasistha—>-Para^ra->Jat(lkarnya—^-Vayu or Prabhafljana—►Vyasa (vv. 33-
+
+## 34).
+
+This table of contents in the NP tallies in general with those of the-
+printed editions of the Brahmanda Purina except the 40 chapters of the
+Laliti episode.
+(vide table of contents of the Purina Edt. Jagadish Sastri MUBD, Delhi,
+pp ix-xi,)
+
+
+
+## IV. 109.6-17
+
+1419
+
+## 6. The narration of the mental creation, the description
+
+of Rudra’s offsprings, the elegance and prowess of Mahadeva
+and thereafter, the creation by the sages.
+
+## 7. The conquest of fires, the description of the exis¬
+
+tence of Kala (Time), the specification of the family of Priya-
+vrata, the length and extent of the Earth.
+
+## 8. The description of the (sub-continent) Bharata and
+
+then the review of other sub-continents, the description of Jam-
+budvlpa and other continents, then the description of the
+nether-worlds.
+
+## 9. The enumeration of the upper worlds, and thereafter,
+
+the movements of the planets, the narration of the Solar Array
+(Planetary system), the enumeration of the Divine planets.
+
+## 10. The explanation of the name Nilakantha, prowess
+
+of Mahadeva, description of the New moon day, the review of
+the principles of the different Yugas.
+
+## 11. The institution of the Yajflas, the last two Yugas and
+
+their activity, the characteristic features of the human beings
+etc. in different Yugas, the description of the spiritual lineage
+of the sages.
+
+## 12. The narration of the classification of the Vedas, the
+
+description of Svayambhuva Manu and the enumeration of
+the remaining Manvantaras and then the milking of the
+Earth.
+
+## 13. The first part, the second quarter ends with the cur¬
+
+rent creation in the Caksusa Manvantara. Then in the Upod-
+ghata quarter, the glorification of the seven sages.
+
+## 14. The family of Prajapati; the birth of the Devas and
+
+others therefrom; the desire for victory, the narration of the
+origin of the Maruts.
+
+## 15. The narration of the descendants of Kasyapa, the
+
+review of the families of the sages, the narration of the Pitr
+Kalpa, and thereafter, the Sraddha Kalpa (the rituals regarding
+the Sraddha).
+
+## 16. The origin of Vaivasvata Manu and thereafter, the
+
+creation by him, and the family of Manu’s sons, ultimately the
+review of the Gandharvas.
+
+## 17. The narration of the family of Iksvaku, the family
+
+
+
+1420
+Nirada Purdna
+of the noble-souled Atri, the family of Amavasu and the wonder¬
+ful story of Raji.
+
+## 18. The story of Yayati, the review of the family of
+
+Yadu; the story of Karttavirya, thereafter, the story of Jamada-
+agni and his son,
+
+## 19. The description of the family ofVrsni, the birth of
+
+Sagara, the story ofBhargava (Para^u-Rama) subsequent to the
+killing of his father.
+
+## 20. The story of Sagara, the story of Bhargava once
+
+again, the story of the battle between the Devas and Asuras, the
+description of the manifestation ofKrsna.
+
+## 21. The meritorious hymn in praise of Indra glorified by
+
+Sukra, the narration of the greatness ofVisnu and the review of
+the family of Bali.
+
+## 22. The story of the future kings after the advent of the
+
+Kali age. This is the quarter of Upodghata in the middle
+section, the third quarter (in the Purana).
+
+## 23. I shall recount the fourth quarter viz. Upasarhhara
+
+(Conclusion) in the final section, the narration of Vaivasvata
+Manvantara precisely and in detail.
+
+## 24. What has been mentioned before is mentioned here
+
+succinctly; thereafter; the story of the future Manus.
+
+## 25. The specification of the Kalpas and the dissolution
+
+(then), thereafter the measurement of Time, then the fourteen
+worlds are mentioned along with their respective characteristics.
+
+## 26. The description of hells (attained) by impious
+
+activities, the narration of Manomayapura (City of Mind) and
+thereafter, the Prakrtika Laya (Dissolution within Prakrti).
+
+## 27. Thereafter, the description of iSiva’s city. The three¬
+
+fold goal of creatures, thanks to the contact with the Gunas,
+is described.
+
+## 28. Thereafter, the description by means of positive and
+
+negative assertions (i. e. invariable concomitance and logical
+discontinuance) of the Brahman, the great Atman, that is
+beyond specifications and argumentation.
+
+## 29. Thus the quarter section on Upasarhhara has been
+
+summarised. Thus the Brahmanda Purana comprising four
+quarters has been described to you.
+
+
+
+## IV. 109.30-42
+
+1421
+30-33a. O Brahmana, this Parana called Brahmanda is
+the eighteenth Parana, the most essential of all chief (Puranas).
+What is originally composed of foar hundred thousand verses
+has been narrated separately in eighteen books, O bestower of
+honour, by the sage Vyasa the son of Parasara who is the real
+instructor of all the sages of purified souls. Those sages who by
+nature practise religious virtues and bless the wretched ones,
+heard these Puranas from me and revealed them to the world,
+33b-36a. Formerly, this Purana has been narrated by me
+to Vasistha; it was passed on by him to his son l§akti, by him
+it was recounted to Jatukarnya, Then Vyasa obtained it from
+the mouth of the Wind-God, making it authoritative in the
+world; he propagated this excellent Purana in the Public (the
+world). O dear one, whoever glorifies this and listens to it with
+great concentration, dispels all sins and attains the world devoid
+of ailments.
+36b-37. He who writes out this Purana and gives it to a
+Brahmana after covering it with a cloth and placing it on a
+gold throne, attains the world of Brahman. No doubt need be
+entertained in this respect.
+
+## 38. O Marici, these eighteen Puranas narrated briefly
+
+by me to you should be heard in full.
+
+## 39. The excellent man who listens to the eighteen Puranas
+
+or narrates them in accordance with the injunctions, is not
+born here again.
+
+## 40. The Sutra (summarised form) of the Puranas
+
+which has been mentioned by me to you now, should be prac¬
+tised everyday by one who desires the benefit out of the Puranas.
+
+## 41. This should not be narrated to any one who is
+
+arrogant, hypocrite, sinful, malicious to the Devas and preceptors,
+knavish or one who hates good men.
+
+## 42. It must be imparted to one who is quiescent, of
+
+tranquil mind, interested in service, devoid of indecent rivalry,
+is pure and is a good devotee of Visnu,
+
+
+1422
+Nirada Purdm
+
+## CHAPTER ONE HUNDRED AND TEN
+
+The Exposition of Vratas to be performed
+on PratipadSy the first day of the
+Lunar fortnight
+
+## J^irada said :
+
+
+## 1. O holy sir, I have heard the full gist of all the
+
+Puranas, conveyed by you directly and orally in the same
+manner as it was narrated to Marici by Brahma, the highest
+deity.
+
+## 2. O highly blessed one, now recount to me, in due
+
+order, the story of the Tithis (i. e. the details of the different
+lunar days) whereby the holy rites and observances can be
+decided upon.
+
+## 3. Now please narrate to me the particular holy
+
+Vrata (vow or rite) alongwith its detailed procedure of worship
+etc, and enlighten me on what (particular) holy lunar day
+(tithi) and in what (particular) month that Vrata is to be
+performed.^
+
+## Sandtana said :
+
+
+## 4. O Narada, listen I shall recount to you the holy
+
+rites (Vratas) of the Tithis separately. They bring about all
+the Siddhis (accomplishments of objects) in the order of the
+Tithis and their lords.
+
+## 5-6. God Brahma created the entire Universe on the
+
+first day in the bright half of Caitra, at the time of sunrise.*
+It was in the beginning of the year and that of the spring in
+the kingdom of Bali (?). The Pratipad is to be taken always
+
+## 1. Vratas are of different tyjjcs. Some are to be performed on
+
+particular tithis, some on days, some depend on the constellation of the
+particular day etc. (AP. 175.1) AP later gives some general rules for observing
+Vratas.). Here Narada wants to know the details of Titki-vratas.
+
+## 2. The belief that the Universe was created by god BrahmS at the time
+
+of sun-rise on the 1st day of the bright half of Caitra, is common to other
+Puranas. CC on Vrata, pp. 360-65, Vrata-r^ja (VRJ.) ch. I., p. 21 quotes
+Bm, P and prescribes AfahdJdnti and ihc worship of god Brahma as in the NP.
+
+
+
+## IV.1I0.7-I6
+
+1423
+when it is in conjunction with the previous Tithi, by wise
+persons.^
+
+## 7. At that time, the great rite of Santi (the pacificatory
+
+rite) should be performed. It is destructive of all sins. It
+subdues all evil portents. It dispels the sins of Kali.
+
+## 8. It bestows longevity, causes nourishment and enhances
+
+wealth and good fortune. It is auspicious and holy and is
+conducive to happiness in both the worlds.
+
+## 9-10. On that day, at the outset, god Brahma who had
+
+assumed the physical body of the fire-god, should be worshipped
+with respectful formalities such as washing the feet with water
+and other respectful offerings (Padyasj Arghyas), flowers,
+incense, clothes, ornaments, meals, sacrificial oblations, presents
+and the propitiation of the Brahmanas. Thereafter, the worship
+of deities should be performed separately of each god.
+11-12. After paying obeisance to the Oihkara with (the
+offerings of) water from the Kusa grass, gingelly-seeds and raw
+rice-grains, (the devotee) shall give religious fee or gift
+(Daksina) to a Brahmana who is a Vedic Scholar, alongwith
+clothes and gold for the purpose of complete and perfect per¬
+formance of the Vrata. This Vrata that has such a special
+Puja in it, is called Sauri Vrata* (Vrata pertaining to the Sun).
+13-14a. O Brahmana, this holy rite yields good health
+to men. O sage, Vidyavrata* is also to be performed on that
+day. O sage, on the same Tithi, the holy rite called Tilaka^
+was told by Krsna to Ajatasatru (Yudhisthira).
+14b-16. In the month of Jyestha, in the bright half, on
+the first day at sunrise, one should worship the pleasing Karavira
+
+## 1. VRJ. quotes this as Vjddha Vasiffha Smrti and states that even if
+
+the Pronto//is associated with {purva-vrddkd), it should betaken as
+the proper beginning of the year.
+
+## 2. Probably the same as Arogyapratipad vrata (VRJ. I p, 23).
+
+
+## 3. NP gives no details of this Vrata, for which vide CC on Vrata I. 338
+
+40, VRJ. p. 23.
+
+## 4. After worshipping Saihvatsara (the year), the performer has to
+
+apply on his forehead a Tilaka with white sandal-wood paste lor one year
+(CC on Vrata I. 348-50.
+
+
+1424
+NSrada Purina
+tree that grows in the temple garden.^ It must be tied with a
+red thread, scents, incense and unguents must be offered along-
+with the germinating seven grains, oranges and pomegranates.
+It must be sprinkled with water mixed with unbtoken rice
+grain. The following Mantra should be uttered for praying for
+forgiveness.
+17-19a. “Obeisance to you O Karavira, the residence of
+meritorious acts, beloved of the sun, always liked by (one who
+wields thunderbolt Dambholi) i.e. Indra, Mrda, (§iva),Durga
+and other deities.” He should then crave forgiveness through the
+Vedic Mantra** “AKrsnena” etc. (RV. I. 35.2). After worship¬
+ping thus with great devotion and after giving due Daksina
+to a Brahmana, he should circumambulate and go to his house.
+19b-20. On the first day in the bright half of the month
+of Sravana, there is a great Vrata* that yields good fortune
+and intellect. It is the cause of all the Purusarthas) viz.
+virtue, wealth, love and liberation.
+O Brahmana, beginning on a Monday, this Vrata should
+be continued for three and a half months.
+21-22. After observing fast on the fourteenth day in the
+dark half of the month of Karttika, the devotee, earnest and
+interested in the Vrata, should worship Siva on (the following)
+full moon day. On the Pratipad following it He should offer
+Vayana (sweet-meats and other presents) alongwith a gold
+flute (?) to a Brahmana for the purpose of increase in the
+wealth. O leading sage, it is highly meritorious and it increases
+the pleasure of the deities.
+
+## 23. On the first day in the bright half of Bhadrapada,
+
+the Vrata named ‘Mahatma’ (the greatest one) should be
+
+## 1. VV 14-19a. describe the Karavira-pralipad-vrata It is observed on
+
+Vaiiikha Buddha Pratipad in Tamil Nad. Cf. CC. I. 353-
+
+## 2. V. 17 which is a prayer inPur&nic SK is said to be the ‘Mantra*
+
+it K^fpena etc. is a Vedic Mantra in RV. I. 35. 2.
+
+## 3. VV 19b-22 describe the Rofaka Vrata, although NP does not
+
+disclose the name of this mahdi/rata, Vrj., pp. 25-26 describe it as Rofaka
+Vrata. It is also called Bilvu-i^ ;aKa vrata.
+
+
+
+## IV. 110.24-33
+
+1425
+performed. Some call this Vrata by the name of Mauna^
+(silence). Siva is worshipped in this rite.
+24-27a. The devotee shall, in silence, cook three times
+sixteen fruits alongwith ground flour. He shall give one
+set of sixteen to a Brahmana. He shall give another set of
+sixteen to the Deity. One set of sixteen, he himself eats. Over
+the water pot, the knower of the injunctions worships a gold
+image of Siva and gives everything of it to the preceptor along¬
+with a cow. O Brahmana, after observing this Vrata of the
+trident-bearing Lord of the Devas forfourteen years, the devotee
+enjoys worldly pleasures, till his death (thereafter), he attains to
+Siva.
+27b-29. O Brahmana, a man who performs Alokavrata*
+on the first day in the bright half of the month of Asvina,
+(himself) becomes Awka (free from grief). He is endowed with
+riches and grains. The Araka tree must be worshipped by those
+who are exclusively devoted to these observances and rites.
+At the end of the Vrata in the twelfth year, he should offer
+the replica of an Aloka tree with great devotion to the pre¬
+ceptor, He is thereby honoured in Sivaloka.
+
+## 30. One shall begin Navaratra* (the festival of nine
+
+nights) on this very Pratipad. He should worship the goddess
+in the forenoon alongwith the rite of installing the water-pot.
+
+## 31. He should sow to germinate barley grains mixed
+
+with wheat. He should take only one meal once a day. The
+food consumed should not be one that is requested for.
+32-33. In accordance with his ability, he should observe
+fast. The worship of the goddess, repetition of the Mantras and
+recitation of the holy texts (the Sapta^ati) should also be done
+in accordance with one’s capacity. O Brahmana, the three
+Garitas (stories) mentioned in the Marka^dcya Purana should
+be read for all the nine days, by one who desires to get worldly
+
+## 1. VV. 23>27a detail the Manna VriUa. HD V. 383-384 gives a Vrata
+
+of a similar name but the details are somewhat different.
+
+## 2. VV 27-29 describe ASoka~vrdta, Thu is different from that given in
+
+CC 11. 279-283. HD V. i. 295 aUo differs.
+
+## 3. VV. 30-34 describe the Xavardtra or Durgd P^i which is observed
+
+all over India. It is described in details in HD V. i., pp. 154-187. The
+Carita in the Mk. P. mentioned in V. 32 is most probably Dtoi Mdhdtrnya
+(chs. 78-90) or the SaptaSatL
+
+
+1426 Mdrada Purda^a
+pleasures and salvation. The worship of virgins alongwith the
+rite of feeding, is praised.
+
+## 34. O Brahmana, after performing the Vrata thus, the
+
+man becomes a receptacle of all Siddhis on the Ear^h, by the
+grace ofDurga.
+
+## 35. On the first day in the bright half in the month of
+
+Urja (Karttika), one should perform all the rites mentioned for
+Navaratra. Particularly, the rite called Annakuta^ (a heap of
+cooked articles of food) causes the increase in the delight of
+Visnu.
+
+## 36. In the course of worship of Govardhana, Anna-
+
+kuta must be made with all cooked articles and with all milk
+products by everyone, for achieving all objects by the
+worshipper.
+
+## 37. In the evening the devotee should worship
+
+Govardhana mountain alongwith the cows, and offer suitable
+Daksina. He shall attain worldly pleasures and liberation.
+38-40a. The excellent Dhanavrata* is to be performed
+on the first day in the bright half of the month of Margasir§a.
+Visnu is to be worshipped at night alongwith Homas. The
+observer of the Vrata should give a replica in gold of the fire-
+god to a Brahmana after covering it with two red clothes. By
+performing this vrata thus, one becomes flourishing in wealth
+and food-grains on the Earth. With his sins burned in fire, he
+is honoured in the Visnuloka.
+
+## 1. VV. 35-37 describe the Govardhana Pigd (in the memory of Kfspa’s
+
+triumph over Indra) or Annakufa. Though v. 35 instructs “to perform all
+the rites mentioned for Navaratra,” the essential difference is that the
+^faoarStra is pertaining to Devi (S&kta) while Govardhana Puja is a strictly
+vegetarian Vaifoava Vrata. Vrj. p. 33 quotes Sanatktandra Samhitd to describe
+the procedure of worship of There are minor regional difTerences
+in performing the Annakufapiijd.
+
+## 2. W. 38-40a describe Dkana-vraia which is otherwise called
+
+Dhartya-vrata (AP. 167. 5-6) or Dhanpa pratipad Vrata. CG I. 355-56 bases
+its description on the Vardha Purdfui 56. 1-16 which is somewhat different
+from what is given here. HD. V. i. 320 lists a Dhana-vrata which begins on
+Ph&^una-Suddha-Trqjwdaif and is concerned with Kubera and as such is
+different from the Dhana-Vrata in the NP.
+
+
+lV.110.40b-48
+1427
+40b-4Ia. On the first day in the bright half of the month
+of Pausa, one should worship the Sun-god with devotion. The
+man must restrict his diet to one meal a day. Performing the
+Vrata thus, that mortal being shall attain the world of the Sun.
+41b-42a. On the first day in the bright half of the month
+of Magha, one shall worship the Fire god as Mahe^vara him¬
+self, in accordance with the injunctions. He becomes rich and
+flourishing on the Earth.
+42b-44a. On the first day in the bright half of the
+month of Phalguna, one should, with water, sprinkle Digambara
+(the naked Lord Siva), the Lord of the Devas, all of whose
+limbs have turned grey due to dust. He should sprinkle the
+water all over his body. Indeed, god Mahesvara is delighted
+even with such secular rites and activities. On being worshipped
+with devotion, he grants his own Sayujya (Salvation where¬
+in the devotee becomes one with the Deity).
+44b-46.^ On the first day in the bright half of the month
+of Vai^akha, one shall worship Visnu who sports in the Uni¬
+verse. He should worship in accordance with the injunctions.
+The man who observes the Vrata should feed the Brahmanas.
+Similarly, on the first day in the bright half of the month of
+Jyestha and Asadha, one shall worship Brahma, the preceptor
+of the worlds. Thereat, accompanied by Visnu, Brahma the
+Lord of the chiefs of all worlds, grants identity with himself.
+The devotee shall then attain all the Siddhis.
+47-48.® O excellent Brahmana, Vratas to be observed on
+the first day of the twelve months—Vratas bestowing worldly
+pleasures here and Liberation from Samsara hereafter have been
+recounted to you. Brahmacarya (observance of celibacy) is laid
+down in all these Vratas. The diet during these Vratas is pre¬
+scribed as Havisyanna (cooked rice soaked in ghee) as common
+to all.
+
+## 1. The last redactor of the NP seems to have rectified the missing
+
+Vratas cn Vaiiikha Sukla 1st, by adding vv. 44b-46.
+
+## 2. VV. 47-48 prescribe the general rules about observance of Vratas
+
+mentioned (vide AP. 175).
+
+
+1428
+Ndrada Purd^
+
+## C3IAPTER ONE HUNDRED AND ELEVEN
+
+Exposition ofVraias to he observed on DvitiySs (second Tithi in lunar
+fortnight)
+
+## Sandtana said :
+
+
+## 1. O Brahmana, listen. I shall recount to you the Vratas
+
+of Dvitiyas (to be observed on the second day of the lunar
+fortnight). On observing them with devotion, a man is honoured
+in the Brahmaloka.
+
+## 2-3a. On the second day in the bright half of the month
+
+of Caitra, the devotee should propitiate Brahma alongwith his
+&ikti. He should eulogise the deity and propitiate him with
+Havisyanna (cooked rice soaked in ghee), scents and other
+things. He shall thus attain the benefit of all sacrifices.
+After realising all desires, he shall attain the region of the
+supreme spirit in the end.
+3b-4a. O Brahma^, on this very day, others worship
+the rising crescent moon at the beginnii^ of the night. They
+attain worldly pleasures and liberation.
+
+## 4b-6. Or on this day, one shall devotedly worship the twin
+
+gods, Alvins and offer gold and silver eyes to a Brahmana
+covering them with a pot filled with curd or ghee ? O leading
+Brahmana, by performing this Netravrata^ for twelve years one
+becomes verily a king. He attains a comely form. He becomes
+valorous against the hosts of his enemies. He becomes
+interested in Dharma, and the chief of all kings.
+
+## 7-8a. On the second day in the bright half of the month
+
+of Radha (Vaiiakha), one shall worship Brahma in the form of
+Visnu in accordance with the injunction, over a pitcher contain-
+ing seven kinds of grains. After enjoying all desirable worldly
+pleasures here one attains Vi^nuloka thereby.
+
+## 1. VV 4b*6 describe the Nttra-vrata ox CakfUrvraU. CSC on Vrata I.
+
+392-93 mentions that the Vretin (observer of the Vrata) is to subsist on curds
+and ghee on this tithi.
+
+
+IV.111.8b-17a
+1429
+
+## 8I>9. On the second day in the bright half of the month
+
+of Jye^fha, one should worship the Sun-god, Lord of the worlds
+who has assumed the form of the four-faced Lord, in accordance
+with the injunctions. After feeding the Brahmanas with devotion,
+he shall attain the world of Sun-God.
+10-12. The second day in the bright half of the month of
+Asadha is very meritorious. On that day, the observer of the
+Vrata takes Balarama in procession alongwith Subhadra. He
+goes round the various parts of the city, alongwith Bridima^
+and others. After going near a tank or a river, he should
+celebrate the great festival. At the end of it, he should re-instate
+them duly in the Lord’s abode. He should feed Brahmanas for
+completing the holy rite.
+
+## 13. Prajapati or the creator of the universe sleeps on the
+
+second day in the bright half of the month of Nabhas (Sravana)
+That tithi is therefore very sacred. It is called Afokafayana.*
+14-16a. One should worship the four-faced deity lying in
+the bed alongwith his Sakti. After bowing down to the Lord of
+the worlds, one shall utter this Mantra : “O Srikanta (lover of
+Sri) O Srivatsadharin (one who bears the Srivatsa mark),
+Srivasa (abode of good fortune), O Sripati (Lordof Sri), O
+Dharmartha-Kamada (the bestower of virtue, wealth, and love)
+may not my wedded life perish.” Here the charitable gift of a
+crescent made of gold is recommended. It brings about aU
+Siddhis.
+16b-17a. On the second day in the bright half of the
+month of Bhadrapadk, one should worship the creator of the
+
+## 1. VV. 13-15 describe the Aioka-Sqyana-Vrata, also called Aiunya-
+
+^q^am-Vrata. It is meant for both men and women. NP prescribes the
+worship of the four-faced god Brahmft while he is lying in bed with his Sakti,
+in this Vrata. But in Vifpudharmottara. 1. 145. 6-20 and AP. 177. 3-12 the
+worahip of Vi?nu and Lak$mi is prescribed. Strangely enough after wor¬
+shipping Brahmi the prayer is addressed to Vifou in the NP (v. 15); the
+name of the Vrata is based on the prayer.
+Lakfmyd na iibtyaih varadayathA U Jeyanam vibhof
+Sajyd mamdpjfoiatffd' stu tathaiva madhusHdanalf
+—AP. 177. 7b-8a.
+It is to be observed for four months from Sravapa,
+
+
+1430
+Ndrada Purdi^a
+universe in the form of Indra in accordance with the prescrib¬
+ed injunctions. He shall obtain the fruit of the performance
+of all sacrifices.
+#
+17b-21.‘ The second day in the bright half of the month
+Alvina is very holy. The charitable gift made on this day is
+said to yield endless benefits. Formerly, Yama was fed by
+Yamuna in her house on the second day in the bright half of
+Karttika. Hence, this is called Yamadvitlya.i If one takes food in
+the house of one’s sister on this day, it is conducive to nourish¬
+ment. He must give her clothes and ornaments. It is the tithi
+on which Lord Yamaraja was fed by Yamuna with her own
+hand, out of sisterly affection. Hence, he who takes his food
+from the hand of his sister on that day, attains excellent jewels,
+wealth and food-grains.
+
+## 22. Pitrs should be worshipped through Sraddha on the
+
+second day in the bright half of the month of MargaS[rsa.
+Then the devotee obtains good health alongwith his sons and
+grandsons.
+23-24. On the second day in the bright half of the
+month of Pausa, the rite of sprinkling with the water a cow’s
+horns, is the bestower of all desires unto men. The sight of the
+rising moon is abo conducive to the attainment of all desires.
+For the purpose of achieving virtue, love and wealth, the
+devotee should restrict hb diet to cooked rice soaked in ghee
+and subdue his sense-organs and worship the rising moon by
+offering Arghya and flowers alongwith ghee.
+25-29a. On the second day in the bright half of the
+month of Magha, one shall duly worship Prajapati in the form
+of Sun, with red flowers and red unguents. He shall make an
+image of the deity in gold, according to his capacity. He
+should take a copper vessel full of wheat or rice grains. He
+should dedicate all these things to the Lord and offer the same
+to aBrahmana. If thb Vratab thus performed, the devotee shall
+
+## 1. VV. I8b-21 describe the Tama dvittyd Vrata. It was on the 2nd day
+
+of the bright half of K&rttika that Yama, the god of Death, was fed by his
+sister Yamuni that people are advised to go to their sisters on this day and
+take meal and gift her with clothes and ornaments. The story is told in Bf.
+
+
+IV.l 11.29b—112.1
+1431
+be like the rising sun. The man will be unapproachable and
+unthwartable in the world. After enjoying all excellent worldly
+pleasures here, he attains Brahma’s region in the end. He will
+be seated in an excellent aerial chariot, eulogised frequently
+by the Devas.
+29b-31. An excellent Brahmana should worship Siva
+with white and fragrant flowers on the second day in the bright
+half of the month of Phalguna. He should make a canopy and
+decorate it with flowers and ornamental fittings. He should
+propitiate the Lord with Naivedyas of various kinds. He should
+offer incense and lights. He should f>erform Nirajana rite
+(waving of lights). Prostrating on the ground with eight limbs
+touching it, he shall make obeisance to the Lord.
+
+## 32. Worshipping the Lord of the Devas thus, the man
+
+becomes free from all sickness. With plenty of wealth and
+food-grains, he shall certainly live for a hundred years.
+
+## 33. The injunctions regarding the Dvitiyas of the bright
+
+half of the month should be followed in the case of those of the
+dark half of the month also, by the people clever in the matter
+of procedures.
+
+## 34. It is the fire-god alone that is worshipped separately
+
+in the different months. He assumes different forms and so is
+worshipped on the Dvitiyas. The vow of celibacy etc. are to
+be observed as before.
+
+## CHAPTER ONE HUNDRED AND TWELVE
+
+Enumeration of Vratas to be observed on Trtiyds (third day of a lunar
+fortnight
+
+## Sandtana said :
+
+I. O Narada, listen. I shall recount to you the Vratas
+pertaining to Tftiya (third day in the lunar fort-night). On
+P. UUara 14. 18-23. It is also known as Bhrdif-doitiyd {BhaiyyA-duja
+and people make it a point to go to their sister’s place and oiTer her some
+gift. yrj. quotes CC. wherein the Bf. P. mentioned above is quoted. Vrj.
+quotes from the Sanatkumdra Sarnhitdt LP Sc Pd. P. in support of this Vrata
+which b an act of fraternal affection.
+
+
+1432 Ndrada Purd^a
+observing these Vratas perfectly, a woman shall attain married
+bliss and good fortune.
+
+## 2-5. An unmarried virgin desirous of a bridegroom, and
+
+one desirous of matrimonial bliss and good fortune fo*r her sons
+and husband, should perform Gauri Vrata.^ The image of
+Gauri is made of gold, silver, copper or clay along with that of
+her Lord (Siva) on the third day in the bright half of the
+month of Caitra. O Brahmana, she then worships it with scents,
+fragrant flowers, clothes, auspicious ornaments, and bundles of
+Durva grass. She observes fast. She propitiates Brahma^
+women whose husbands and sons are alive and girls with
+auspicious characteristics, by offering them saffron, collyrium,
+clothes and other things. Delighted ip her mind, she should keep
+awake that night with the desire to fulfil the Vrata.
+
+## 6. O Brahmana, she should give that image to the
+
+preceptor if it is metallic. If it is made of clay, she should
+immerse it in a tank or a river.
+
+## 7. She should perform this auspicious Gauri Vrata for
+
+twelve years. With the due formal resolve to donate, she
+should offer twelve cows also for the achievement of her
+desires.
+
+## 8. What more needs be spoken ? There is no other bes-
+
+tower of good fortune and matrimonial bliss to women in all
+the three worlds like Gauri.
+
+## 9. A woman attains wealth, good husband, sons,
+
+learning, ability to command, fame and happiness—in fact all
+desired happiness, by worshipping Gauri with devotion.
+
+## 1. VV. 2-9 describe the (?aurt Vrata which if observed for twelve
+
+years, confers a good consort to the lady observer if unmarried, uninterrupted
+matrimonial bliss, if married, good fortune and all desired happiness. HD V.
+i. p. 296 gives five varieties of this Vrata some of which arc to be observed in
+Aivina {Kxtyaratndkara 219), on the 4th day of Jyc9tha (Bd. p). It is similar
+to GauTl-txtiy&-\rata observed on the 3rd day of the bright half of Caitra,
+Bhddrapada, Magha—{Samaya-mqjfukha 36).
+There is another Gawi Vrata to be observed on the 4th day in the
+bright half of Magha. It is also called phupdhi Vrata, Ku^a Vrata, Lalitd
+Vrata and Sdnti Vrata, vide infra I. 113. 80.85.
+
+
+IV.l 12.10-14
+1433
+
+## 10. The third day in the bright half of the month of
+
+Vaisakha is glorified as Ak$aya Trtiya.^ That is the Tithi on
+which Tretayuga began. Whatever holy rite is performed on
+this day is made everlasting (Aksaya) by this Trtiya.
+11-12a. Wise men know that two inaugural days of
+Yugas (viz. that of Krta and Trcta) were in the bright half of
+the month, while those of the other two Yugas (viz. Dvapara
+and Kali) were in the dark fortnight (of the lunar month).
+The two (inaugural) days in the bright fortnight are to be
+accepted (observed) in the earlier half of the day. Out of the
+Yugadi days in the dark fortnight, Dvapara began in Magha
+while the Kali Age commenced in Bhadrapada. Thus commenced
+the Yugas* on these days.
+12b-13. The devotee should worship Narayana, the
+preceptor of the universe accompanied by Sri, with flowers,
+incense and unguents on the third day in the bright half of
+the month of Vaisakha. Or if he takes his holy dip in the waters
+of the Gahga, he is absolved of all sins.
+
+## 14. He should worship Visnu with unbroken rice-grains.
+
+He shall have his ablution with water mixed with unbroken
+
+## 1. VV 10-15 describe the Akfaya Txtiyi Vrata which falls on the
+
+3rd day of the bright half of Vaisakha. Any meritorious act performed on
+this day, becomes ever-lasting. Hence the epithet Akfaya. The speciality of
+this day is that it marks the beginning of the Tretd Tuga. The rite pertains
+to the worship etc. of god Vijnu accompanied by Sri. The performer
+devotee attains the region of Vispu. Cf. Vif(iu Dh. S. 90. 16-17: also Bhavif~
+voliara P. 30. 2-3 & 19.
+
+## 2. VV 11-12a. give the Yugadi/i/Aif vide / 56. 147-48 for the
+
+Tugidi Tiihis—the tithi on which a particular Yuga began. According to
+the NP. the following are the Yugidi tithis for the following Yugas.
+Tuga Tithi
+!• Kfta 9th day Karttika, 3u. (bright half) (3uddha)
+
+## 2. Treta — 3rd day Vaisakha, Su.
+
+
+## 3. Dvapara — 15th day of Migha (Vd—Vadya—dark half)
+
+
+## 4. Kali — 13th day of BhSdrapada, Vd.
+
+VP. III. 14. 12-13 supports this, though AP. 209. 14 differs about
+Kfta-Yuga.
+As Tugddi days arc recommended for the performance of Srdddha etc.,
+the first half of the day is preferable for Tugidi day in the bright half of a
+month, while the latter half is recommended for the Yug&di days in the dark
+half of the month.
+
+
+1434
+Ndrada Purdm.
+rice grains. He should feed Brahmanas with the flour of barley
+first fried and then ground. He himself shall partake of it.
+
+## 15. O Brahmana, the man who performs the rites thus
+
+and who is devoted to Visnu attains Visnu’s world. He is bowed
+to by all the Devas.
+
+## 16. The third day in the bright half of the month of
+
+Jyestha is well known by the name Rambha.' On that day, one
+should duly worship and honour an excellent Brahmana accom¬
+panied by his wife.
+17-18a. With the desire for conjugal blessedness a
+woman should perform this holy rite and worship the Brahmana
+couple with scents, fragrant flowers, silken garments, etc. O
+Br^mana, if this holy Rambha rite is duly observed, it yields
+wealth, sons, and auspicious inclination towards Dharma
+(virtuous and religious rites).
+18b-21a. The lady who desires conjugal bliss should wear
+white clothes in the third day in the bright half of the month of
+A§a«^ha and worship Kesava accompanied by Laksmi symbolised
+or represented in a Brahmana accompanied by his wife. She
+should propitiate them with meals, charitable gifts of cows,
+clothes and ornaments and pleasing words. By observing this
+Vrata, the lady shall be blessed with wealth and food-grains.
+By the grace of the Lord of the Devas, she shall attain Visnu s
+world.
+
+## 2lb. Svarna-Gauri Vrata® is to be performed on the
+
+third day in the bright half of the month of Sravana.
+
+## 1. VV 16-18 mention Rambhi Vrata which consists of worship
+
+of a Brihmana couple. It yields wealth, sons and inclination to Dharma.
+The Rambhd Vrata mentioned in the Bhavifyottara P. 18. 1-36 and CC on Vrata
+I. 426-430 is different, as it recommends that worship of Devi, and homa, etc.
+are to be performed therein.
+
+## 2. VV 2lb-29 describe the Svarpa G<mri Vrata to be performed by
+
+ladies, on the 3rd day of lSravat?a J§u. for the propitiation of goddess Gauri or
+Bhavini. In Karnataka it is observed on the 3rd day of Bhidrapada (Vrj.
+p. 45). Herein the number 16 is very significant. Goddess Gauri is worshipp¬
+ed with 16 upaedras and prayed for conjugal blessedness, sons and wealth. The
+Vrata is to be observed for 16 years at the end of which a gold image of
+Gauri is to be worshipped, 16 wickerworks filled with 16 edibles are to be
+given to 16 couples of Br§hmaims and the gold image to be given to the
+
+
+IV.112.22a-30
+1435
+22a-23a. The lady devotee should worship goddess
+Bhavan! by means of the sixteen Upacaras (articles and modes
+of worship and service) with the Prayer—“O goddess of holy
+rites, obeisance be to you. Be pleased to grant me sons and
+wealth, grant me conjugal blessedness. Do bestow on me all
+other desired things.”
+23b-24a. After praying thus to Bhavani the goddess of
+the Dcvas, accompanied by God Siva, the lady devotee, desirous
+of completion of the holy rite should make the gift of sweet
+meats etc. to Brahmanas.
+24b-25a. After performing this auspicious Vrata for
+sixteen years, she should perform the concluding ceremony of
+the Vrata (Udyapana) with great devotion. She should not
+exhibit stinginess in the matter of expenses.
+25b-28. In a pandal in a pure Mandala (mystic diagram)
+she should perform the worship of GanciSa and other gods. She
+should then place a flat saucer-like copper-dish over the water
+pot and worship a gold-image of Bhavani therein with scents
+and fragrant flowers. Thereafter, theHoma should be performed.
+Sixteen bamboo vessels (baskets) shall be filled with sweet
+dishes and cooked rice, offered to the Devi as Naivedya and
+distributed among Brahmanas, kinsmen and relatives.
+
+## 29. The woman interested in the observance of this
+
+Vrata shall attain the full benefit by giving the gold image
+to the preceptor and monetary gifts to the other Brahmanas.
+
+## 30. On the third day in the bright half of the month of
+
+Bhadrapada, the lady devotee should perform the Vrata of
+Haritalika^ with great devotion, in accordance with the in-
+prcccptor. The Vrj. quotes a story from the Sk. P. about this Vrata. The
+Udy&pam (concluding ceremony) of this Vrata agrees with that in the Sk. P.
+as quoted by Kr;., pp 46-47.
+
+## 1. VV 30-35 describe the Harit&lVcd Vrata. This is very popular in
+
+htaharashtra but not in Gujarat or Bengal. Only women are eligible for
+this and they observe a fast on this day and propitiate goddess UraS and
+Siva. This Vrata is found in late mediaeval digests like the Ninfaya Sindht
+(p. 133). Vrj. pp. 48 quotes the story of Harit&lik& from the
+Bhaoifyottara Purdtia. The Udj^^tana-ntc in the NP is similar to that in the
+
+
+1436
+Ndrada Purdjfa
+Junctions, along\vith the rites of Padya (viz. offering water for
+washing the feet, hands, worship) Arghya and Arcana.
+31-32. Then the cooked rice and the Daksina should be
+placed in a gold, silver, copper, bamboo or a clay vessol along-
+with fruits and clothes. The same shall then be given to a
+Brahmana. At the end of it, she should have the Parana (break
+the fast) alongwith the kinsmen.
+
+## 33. The woman who observes this holy rite shall enjoy
+
+all desirable pleasures. She shall become a friend and attendant
+ofGauri, thanks to the efficacy of this Vrata.
+
+## 34. Sixteen bamboo-baskets hlled with bliss-yielding
+
+articles and clothes should be enthusiastically given to a
+Brahmana in accordance with the injunctions.
+35-36. She should then give generous monetary gifts
+to the other excellent Brahmanas also for the satisfaction of
+the goddess. The woman who performs this holy rite of
+Saubhagya Vardhana (that which increases conjugal blessed¬
+ness) certainly attains it, thanks to the grace of the CJoddess.
+37-38. When the Trtiya in the month of Bhadrapada
+coincides with the constellation Hasta, the Vrata taught by
+J§auri (Krsna ? ) is called Hastagaurivrata'. The Vrata called
+Kotisvari and Lakse^vari^ has been proclaimed by Siva the
+
+## Pinakabearing Lord. Its rules of procedure are being mentioned:
+
+\RJ, pp. 48-52. Sixteen wicker-baskets containing 'bliss-yielding articles
+(indicating Satibhdgya—conjugal happiness) and cloth are to be given to
+Brahmapas. This Vrata increases conjugal blessedness. The term Satibhdgya
+Vardhana here docs not imply a new Vrata of that name. Dr. Kane in HD.
+V. 1., p. 456 mentions three Saubhdgya Vratas but they are quite
+different.
+
+## 1. VV 37-39 describe Hasta-Gaurl-Vrata which is to be observed
+
+when the constellation Hasta coincides with the 3rd day of Bhadrapada §u. .
+Krfpa has told this Vrata. The Vratdrka requires contemplation of Oauri,
+Hara and Gane^ in this Vrata, for 13 years and the Udydpana (conclusion)
+of this Vrata in the 14th year (HD. V. i. p. 462).
+
+## 2. W 38-45a describe the KofUvard alias LakfeJvari Vrata to be
+
+observed on the 3rd day of BhAdrapada Su. {SuddhaPakfa—The bright half).
+It is called Lak$ejvari as a paste of one hundred thousand grains of rice
+or Sesame seeds is used to form the image of F&rvati. Fast is to be observed
+on that day. CC on Vrata I. 459-461 quotes the Sk. P. for this Vrata. also
+vide HD. V-I. p. 290.
+
+
+
+## IV. 112.39-50
+
+1437
+
+## 39. On this day, the Vrata has to be taken up for four
+
+years. O Narada, every year it has to be performed alongwith
+the observance of fast.
+
+## 40. Unbroken rice grains or gingelly seeds should be
+
+selected, O leading sage, to the extent of one hundred
+thousand. They should be cleaned and put in boiling water.
+
+## 41. When the grains are cooked well, a splended image
+
+of the goddess should be made. It should be embellished with
+scented flowers and flower garlands.
+42-44. Goddess Parvati should be installed therein and
+worshipped with great devotion, with scents, fragrant flowers,
+incense, lights and detailed Naivedya offerings and fruits. O
+Brahmana, she should bow to the goddess and crave forgiveness.
+Then she should immerse the image of the goddess in the middle
+of a water-tank. Dak^ina is then offered to the Br^hmanas who
+are knowers of religious rites and procedures. She should then
+partake of her food the next day. Thus, O Brahmana, the Koti
+Lak^e^vari Vrata has been narrated to you.
+
+## 45a. In the end she goes to the world of Gauri, thanks
+
+to the power of this Vrata.
+
+## 45b. On the third day in the bright half of the month of
+
+Isa (ue. Asvina), the lady devotee should perform BrhadGaurP
+Vrata.
+
+## 46. O N^ada, this Vrata is to be performed for five
+
+years in accordance with the rules of procedure mentioned above.
+At the end, she should worship the main preceptor and other
+Brahmanas with cash presents etc.
+47-50. Five Suvasinis (married women whose husband
+are alive) should be worshipped asHaripriy^ (beloveds of Hari)
+with clothes, ornaments, sandal paste, bodices, earrings and
+necklaces; five bamboo baskets are used and they are tied round
+
+## 1. VV. 45 b*53 describe the Brhad-Gavrf-Vrata to be obsoved aa
+
+the 3rd day of Aivina 3u. (Aiddha) according, to NP., but on Bhidnu
+pada Kr. {Krfpa) Tft^d as per VBJ. In southern Maharashtra and in
+Karnataka, a plant Dorll or Ridga^ (in Marathi) is brought along with its
+roots, finaits and branches for worship. A thread is wound round the neck in
+the name of Gauri. V8J. (pp. 53-54) narrates the story about this VnUa
+from the Bhaoifyottara P.
+
+
+1438
+Nirada Purim
+with threads. The baskets are hlled with saffron, cumin-seeds,
+and bliss-yielding articles. Vayanas (preseyits of sweet-meats)
+comprising of ground wheat flour, fresh Apupa (biaked pies),
+fruits etc. These must be given to the Suv^inls who also* be fed.
+After giving as worshipful gift half the materials gathered as
+Vayanas, she shall silently take her food. For the increase of the
+desired objects, a fruit (out of the gift) should be worn round
+the neck.
+
+## 51. Getting up early in the morning, bedecked in
+
+ornaments and accompanied by her friends, she should go to a
+river to the accompaniment of songs and instrumental music.
+There Gauri image is ritualistically bidden farewell to (into
+
+## the river) with the prayer :
+
+
+## 52. “O gentle lady, you had been invoked by me and
+
+worshipped duly (as per procedure), you may be pleased to go
+away at will, for granting me conjugal bliss”.
+
+## 53. After observing the holy rite, thus, O Brahmana,
+
+and after enjoying all worldly pleasures, thanks to the grace of
+the goddess, she shall attain Gauri’s world after death.
+54-55. On the third day in the bright half of the month
+of Crja (Karttika), she (the lady) should perform Visnugauri-
+vrata.* After worshipping the goddess worthy of being saluted
+by the whole world, with different modes of worship and services
+and after feeding the suvasini (a married woman with husband
+alive) who has been honoured duly with auspicious articles, she
+should bid farewell to the goddess after bowing to her, for
+obtaining the grace of satisfaction of Visnugauri.
+
+## 56. On the third day in the bright half of the month of
+
+Margaiir^, a woman should perform the auspicious HaraGauri
+Vrata* in accordance with the injunctions laid down before, in
+the above-mentioned Vrata and should worship Jagadambika
+(Mother of the Universe).
+
+## 57. As a result of the prowess of this Vrata, she shall
+
+enjoy all charming worldly pleasures. Attaining the world of
+the goddess, she rejoices with her.
+
+## 1. VV. 54-55 briefly dcKribes the Vraia called Vif^u Gauri.
+
+
+## 2. VV. 56-57 deal with Hara-Gatiri Vrata.
+
+
+
+
+## IV. 112.58-63
+
+1439
+58-59a. On the third day in the bright half of the month
+of Pausa, a woman should perform the Brahmagaurivrata' in
+accordance with the injunctions laid down above. O excellent
+Brahmana, on being worshipped^rahmaGauri shall be delighted.
+Thanks to her grace, the lady devotee becomes associated with
+the goddess and rejoices herself.
+59b-60. On the third day in the bright half of the month
+ofMagha, (goddess) Saubhagya-Sundail* should be worshipped
+in accordance with the rules of procedure mentioned before, by
+means of offering Arghya with coconuts. Delighted and rendered
+pleased by means of the Vrata, the goddess grants her own
+world.
+
+## 61. The third day in the bright half of the month of
+
+Phalguna, is the bestower of family happiness. If the goddess
+is worshipped with scents, fragrant flowers etc., she shall be the
+bestower of all auspiciousness.
+
+## 62. O sage, in all these Trtiyas (vratas on the third days
+
+of the lunar fortnight) the rules regarding the Puja of the
+goddess, the honour to the Brahmana, the charitable gifts, Homa
+and the ritualistic dismissal of the goddess are the same.
+
+## 63. Thus the Vratas to be performed on Trtiyas have
+
+been narrated to you here. If observed with great devotion,
+they shall bestow all desirable objects cherished in mind.
+
+## 1. VV. 58-59a describeBraAiwa-Cawri Fra/a. It will thus be seen that
+
+the Gauri Vratas are the same but are associated with each member of the
+Trinity of gods and are performed on the 3rd days of lunar fortnights.
+
+## 2. VV. 59b-60 describe the Saubhigya-Stmdari Vrata (to propitiate
+
+goddess Um&, though the NP. is silent about the name of the deity). VRJ.
+prescribes its performance on M&rgasirsa or M4gha (Kr.) T>h>d, espwrially
+when it is conjoined with the next (4th) Tiths, and not with the previous
+one. VRJ (pp. 54-47) quotes a long story from the Bhavisyottara P.
+glorifying this Vrata.
+
+
+1440
+Ndrada Purdna
+
+## CHAPTER ONE HUNDRED AND THIRTEEN
+
+The Exposition of the holy rites to be
+performed on Caturthis (the fourth day in ,
+the Lunar fortnight)
+
+## Sandtana said :
+
+
+## 1. O Brahmana listen, I shall recount to you the holy
+
+vows and rites to be observed on Caturth! days.^ On observing
+them, men and women shall attain their cherished desires.
+
+## 2-3a. On the fourth day in the Lunar fortnight in the
+
+month of Gaitra,*, one should duly worship Ganapa (i.e.
+Gane^a) in the form of Vasudeva and offer gold as Daksina to
+a Brahmana. He will be bowed to by the Devas (thereby), and
+then go to Visnuloka.
+
+## 3b-4. On the CaturthI day in the month of Vaisakha, the
+
+devotee should pray to the deity called Sariikarsana. By giving
+a conch-shell to imp>orant Brahmana householders, the knower
+of religious injunctions shall attain the world of Sariikarsana
+and rejoice there for many Kalpas.
+
+## 5. On the CaturthI day in the month of Jyestha the per¬
+
+son should worship the deity in the form of Pradyumna. By
+giving fruits and roots to the herds (of cattle or beasts), he
+shall attain heaven.
+
+## 1. Just as all the third days in the lunar fortnights are sacred to
+
+the goddess (in any form of the Trinity), the fourth days of the lunar
+fortnights are sacred to god Ganeia. The Vrata gives sp>ecial merit or fruit,
+if the 4th Tithi falls on Sunday or Tuesday. {VV. 90-91 below).
+
+## 2. W. 2-6 synthesize the Catur-iyuha doctrine of the Paficaratrins
+
+with a iSaiva god like Gaoesa, by identifying him with Vifnu. This is
+Vaifnavization, as the NP. is a Vai^nava Furana, while in the Kurma P,
+we find Pi^upatization of an originally Vaif^ava Pura^a
+The Gatuia Vysha accepts the names of the Paiicaritrins.
+
+## Thus we find :
+
+God Gantta to bo worshipped on the Name of the Vyuha
+^th Tithi of;
+
+## 1. Caitra
+
+
+## 2. VaiiSkha
+
+3* Jye9tha
+
+## 4. Asadha
+
+This Vrata is to be observed for 12 years.
+Vksudeva
+Sankar$ana
+Pradyumna
+Aniruddha
+
+
+IV.113.6-18a
+1441
+
+## 6. On the Caturthi day in the month of Asadha, a man
+
+should worship Aniruddha. By giving pot>gourd-vessels to
+ascetics, he attains the cherished desires.
+
+## 7. After performing these holy rites of the four Murtis
+
+for twelve years, the Udyapana rite should be performed in
+accordance with the injunctions, by the devotee who wishes for
+the benefit thereof.
+
+## 8. On the Caturthi day in the month of Jyesfha, there
+
+is another Vrata viz. the excellent Sativrata. By performing it,
+the devotee rejoices in the world of the mother of Ganapati on
+a par with him.
+
+## 9-10. There is another auspicious Vrata on the Catur¬
+
+thi day in the month of Asadha, since it is the day on which
+Kalpa called Rathantara began. The man should worship
+Ganesa duly with his mind sanctified by faith. He shall attain
+the benefit inaccessible even to the Devas and others.
+11-17a. On the Caturthi day in the month of Srava^ia,
+O sage, when the moon has risen, the devotee, the most excel¬
+lent among the knowers of the procedure, should offer Arghya
+unto Ganesa. He shall meditate on Lambodara (Gk)d Ganeia),
+the three-eyed, four-armed deity who is red-complexioned,
+whose face beams with pleasure, and who is bedecked in differ¬
+ent kinds of jewels and ornaments. He should worship him with
+all modes of services such as invocation, etc. He should offer
+Modaka (sweet meat) as Naivedya which gives pleasure to
+Gane^. After performing the Vrata thus, he shall partake of
+the Modakas. During the night, after the worship, he should
+gladly sleep on the bare ground. Thanks to the power of this
+Vrata, he shall obtain all desires cherished in his mind in
+this world, and (after death) shall attain the region of Ganela>
+In all the three worlds, there is no other Vrata like this. Hence,
+it must be observed with all (possible) efforts by one who wishes
+to attain all cherished desires.
+17b-18a. O celestial sage, some wish that the holy rite
+called Durvaganapativrata^ should be performed on this very
+
+## 1. W. l7b-23 describe the Durod Gtastapaii Vrata. VRJ (pp. 60 fF)
+
+states that it commences on the 4th day of Sravaoa Su. 4 or K^rttika
+Su. 4, and quotes stories from the Saura P. and the SK.P. to glorify this-
+
+
+1442 NdradaPurdna
+same day. I shall tell you the injunctions regarding its perfor¬
+mance.
+18b-23a. The devotee should make the image of Gana-
+pati in gold and place it over a copper vessel after*covering it
+with a red cloth. He should worship the (entire set) on the
+mystic diagram called Sarvatobhadra, with red flowers five
+kinds of leaves viz. Bilva, Apamarga, Sami, Durva, and Hari-
+priya (i.e. Tulasi).With these leaves and other floweri he should
+perform worship. He shall offer fruits and sweetmeats as
+Naivedya. After that, O ascetic, with pleasure, he should offer
+the Arghya. Then, O sage, after praying to it, he should give
+the image of Vighneia (ganesa) alongwith the adjuncts to the
+preceptor who knows the rules of procedure. He should honour
+him befittingly and then give it to him. He should continue the
+Vrata for five years, after duly performing worship. After
+enjoying all pleasures here he will go to the world of
+Ganapati.
+23b-27a. On the Gaturthi day (in the dark half) of the
+month of Bhadrapada, is the holy rite called Bahuladhenuka.
+On this day, the deity cow is to be assiduously worshipped
+with scents, garlands, barley, and other things. After circumam¬
+bulating the cow deity, he should offer charitable gifts, if he
+can afford. If he cannot afford it, he shall bow to it and set it
+free. He should continue the Vrata for five, ten or sixteen years.
+He shall then perform the Udyapana rite and give a milch cow
+(as charitable gift). Thanks to the power of this Vrata, he
+shall enjoy all charming worldly pleasures, and duly honoured
+and greeted by groups of Devas, he shall attain Goloka (the
+world of cows).
+27b-30. On the fourth day in the bright half (of the
+monthofBhadrapada)is the holy rite called Siddha-Vainayaka-^
+Vrata. As per SK. P., the Vrata is to be observed from Srava^a Su. 4 to
+Magha Su. 4. VRJ. gives two more varieties, one allowing its commence¬
+ment on any &ukla Caturtki if it falls on a Sunday, and another prescribing
+21 days duration from Sr&va^a Su. 5 to Sriva^a Kr. 10.
+
+## 1. W. 23b-27 describe Bahuli~dhenuka Vrata to be performed on
+
+Bhidrapada Kf. 4, the deity being the cow.
+
+## 2. 27b-39 describe the Siddha-Vinilyaka Vrata so popular as Gaotia
+
+Caturthf in Maharashtra and other parts of India, though with some
+
+
+
+## IV. 113.31-37
+
+1443
+vrata (or ‘Siddhi-Vinayaka vrata). Through invocation and all
+other modes of service, the worship should be performed. Con¬
+centrating the mind, he should meditate on Siddhivinayaka.
+He should meditate on LordGanesaas Ekadanta (single-tusked)
+iSurpakarna (one with winnow-Iike ears), Gajavaktra (elephant¬
+faced), Caturbhuja (four-armed), Pasaiikusa-Dhara (one hold¬
+ing in his hand, a noose and a goad), the Lord resembling
+molten gold (in complexion). He should offer twentyone leaves
+uttering the twentyone names (one by one) with devotion.
+Listen to those names.
+31-37. Sami-leaf should be offered to Sumukha (the
+good-faced Deity), the Bhrhga-leaf to Ganadhi^a, the Bilva-
+leaf to the son of Uma, Durva-grass to the elephant-faced God,
+Badari to Lambodara (the big-bellied deity), Dhattura to the
+son of Hara (Siva), Tulasi-leaf to Surpakarna (God with ears
+like winnowing baskets) Sami-leaf to Vakra-tunda (God with a
+curved trunk), Apamarga leaf to Guhagraja (Elder brother of
+Karttikeya), Barhata leaves (those of brinjals) to Ekadanta
+(Single-tusked god), Sindura (saffron) to Heramba, leaf of the
+fragrant plant called Patra to Gaturhotra, the leaf of the Agas-
+tya tree which is pleasing to Sarvesvara (Lord of all).
+He should them take up a pair of the leaves of Durva
+grass along with scents, fragrant flowers and unbroken rice-
+grains. With great devotion, he should offer worship and
+five Modakas as Naivedya, After the rite of Acamana, obeis¬
+ance and prayer, he should ritualistically bid farewell to the
+Deity.
+O sage, he should give the image of Vinayaka, made of
+gold, to the preceptor along with adjuncts. He should then
+ditferent procedure than that given in the NP. VRJ (pp. 68 ff) quotes
+SK. P. from Hemidri {CC-Vrata 1.525-29). A strange restriction is that one
+should not look at the moon on this night, lest one should be accused of
+theft. It was due to this that Lord Krs^a was accused of stealing
+away Syamantaka jewel. If, however, one happens to catch a glimpse of
+the moon, he should repeat Verse No. 39 given below in’the NP. recounting
+the Syamantaka episode. This verse is quoted from VP. IV. 13.42 and b
+found in the P. 96. 42 and the BR.P. 16.36 referring to the
+same story.
+
+
+1444
+Ndrada PurSm
+give Daksi^ (religious gifts) to Brahmans. O Narada, one
+who performs worship with devotion like this for five years,
+shall attain all cherished desires as a result of his Upasana (de¬
+votion and worship) here, as well as all splend^ things
+hereafter.
+38-39. Never shall one look at the moon on this Gaturthi
+day (i.e. night). There is no doubt about this that, if one looks
+at the moon, he will be falsely accused. In order to mitigate
+the defect thereof (i.e. of looking at the moon this night),
+
+## this (following) Mantra from the Purana* should be recited :
+
+“The lion killed Prasena, the lion was killed by Jamba-
+van. O gentle boy, Do not cry. This Syamantaka jewel is
+offered to you.’*
+40-43a. On the Gaturthi day in the bright half of the
+month ofAsvina, one should worship Vinayaka (Kapardisa—the
+god with cowrie-like knotted hair) by means of the Purusa
+Sukta. He should render services without any reason (i.e. with¬
+out any ulterior motive). He should offer the rice grains along-
+with the shell-coins to a Brahmana religious student who is
+worshipped with scents and fragrant flowers with prayer : “The
+rice grains have Visve Devas as their deity. They are mixed
+with the shell coins whose presiding deity is Hara. May the
+leader of the Ganas of Siva (Kapardin) be pleased, when ( the
+couries) are so dedicated.”
+43b-44a. The holy rite called Karakavrata^ is to be p>er-
+formed on the Gaturthi day in the dark half of the month of
+Karttika. Only women arc authorised to perform this Vrata.
+The rules of the procedure on it are being mentioned.
+*Like other material, the NP. seems to have borrowed this verse from
+the VP. IV. 13.42. The verse appears in a similar context in the P. 96.
+42 and Br. P. 16.36
+
+## 1. VV. 43b-51a describe the Kaxaka Vrata. Kcaraka is a water-
+
+vessel for ascetics, (some times made of coconut shell also). Only women
+are e%ible to observe this. It is to be performed on Kfirttika Kf. Gaturthi
+(Aivina by amdnta reckoning followed in VRJ., pp. 81*82 which quotes
+the Vdmma P. for its details). VBJ. ( pp. 79) narrates a Dai^ratha LalitS
+Vrata on the same day, but does not mix up the two as is done in
+Purufdrtha Cintimaai. The NP. does not mention the picture of Gauri (and
+her family) as the main deity but treats it as a Ga^tia Vrata.
+
+
+IV.113.44b-59
+1445
+44b-45. The woman should take her bath and bedeck
+herself. She should then worship god Ganesa. In front of the
+deity ten bowls filled with cooked rice shall be kept and be
+dedicated to the Lord of the Devas with devotion and purity of
+the mind.
+46-47. She should utter (pray) :—“May the deity be gra¬
+cious unto me.” Saying this she should dedicate them to Gkxl
+Ganesa. Presents shall be given respectfully to Suvasinis (married
+women) and the Brahmanas according to desire. Then at night,
+when the moon rises, she should duly offer Arghya and partake
+of sweet-meats and cooked rice for the fulfilment of the
+Vrata.
+
+## 48. Or O sage, the bowls may be filled with milk or
+
+water alongwith a rice, a betel nut, rice-grains and jewels and
+gifted over to a Brahmana.
+
+## 49. The woman devotee should perform this holy rite for
+
+sixteen or twelve years. After making the due presents, she
+should ritualistically conclude this Vrata.
+50-51 a. Or the holy rite shall be observed by the woman
+throughout her life with a desire for conjugal blessedness. There
+is no other Vrata like this that yields conjugal blessedness to
+women. Hence it should be continuously performed.
+5lb-53. On the fourth day in the bright half of the
+month of Karttika, the holy rite Nagavrata^ is to be celebrated.
+The devotee shall perform the Samkalpa rite in the morning,
+and drink pure water from a cow’s horn. After the bath, he shall
+worship the serpents ^ankhapala and others as well as Sesa by
+means of diverse services (in worship) beginning with invo¬
+cation. He should make Apyayana (developing and nouri¬
+shing) by means of milk. This is known as Nagavrata.
+
+## 54. O leading Brahmana, if this auspicious observance of
+
+Nagavrata is performed thus by men, poisons perish ere long,
+and serpents do not bite them.
+55-59. O leading sage, this Vrata is to be celebrated on
+the fourth day in the bright half of the month of Margaiir^.
+
+## 1. VV. Slb-54 deal with the ^f&gavrata. CC~Vrata I. 5^ quotes
+
+this from the KP.
+
+
+1446
+Ndrada Purdm
+The full extent of the holy observance is for a period of four
+years, beginning with this CaturthI day. He must spend the
+first year, taking only a single meal per day. He must spend the
+second year by taking meal only at night every da^y. He shall
+spend the third year by taking in only the food obtained without
+solicitation. He shall spend the fourth year also similarly. If no
+food is offered, he observes a fast. After completing the vrala at
+the end of the fourth year, he should perform the rite of ablu¬
+tion. He is then a Mahavratin (a man of great Vratas). He
+shall then make the replica of the ‘mouse-chariot’ of Vighnes-
+vara (i.e. god Ganesa) made of gold. If he cannot afford this,
+he should make the mystic diagram of a lotus with good petals,
+by means of colours. The jar is placed over it alongwith a cop¬
+per vessel, that is filled with raw rice-grains. Image of Ganes-
+vara (i.e. Ganesa) is placed over it covered with two clothes.
+The devotee should worship the deity with scents and other
+things.
+
+## 60-61. Modaka is to be offered as Naivedya saying :
+
+“May Ganesa be pleased.” The night shall be spent by keeping
+awake through songs and instrumental music as well as in the
+narration of the Puranas. After the day has dawned, he should
+take bath and perform Homa in accordance with injunctions,
+with gingelly seeds, rice grains, barley grains and white mustard
+along with ghee and sugar-candy.
+62-64. The following sixteen names of the deity should be
+uttered in the dative case. Om is prefixed to them and Namah
+is added at the end. (For example, here the 1st name is Gana.
+It should be uttered and addressed as : Om Ganaya namah).
+The names of the god are : Gana, Ganadhipa, Kusm-
+and^j Tripurantaka, Lambodara, Ekadanta, Rukma-daiiistra,
+Vighnaha, Brahma, Yama, Varuna, Soma, Surya, Hutasana,
+Gandhamadin and Paramesfhin.
+With the utterance of each name, one oblation is offered
+into the fire. A hundred and eight Homas are performed with
+.the utterance of ‘Vakra-tunda’ and ‘Varman’ in the dative
+case (i.e. Vakra-tundaya and Varmane.
+65-66. Thereafter, he performs Homas with Vyahrtis
+to the extent of his capacity and then the Purnahuti is perform¬
+ed. After worshipping the guardians of the quarters, he should
+
+
+
+## IV. 113.67-75
+
+1447
+feed Brahmanas (twenty-four in number) with sweet-meats and
+milk-pudding. He should then give a cow along with its calf to
+the preceptor, along with monetary gifts.
+67-69a. He shall give cash presents to others also, accord¬
+ing to his capacity (the more the better). After obeisance and
+circumambulation (around the Brahmanas), the excellent
+Br&hmanas should be bidden farewell to. He should, then,
+with great delight in his mind, take his food along with his kins¬
+men. By performing this vrata, a man enjoys excellent worldly
+pleasures here, and attains the Liberation called Sayujya
+(absorption in the Deity) with Visnu, thanks to the Grace of
+Ganesa.
+69b-70a. O Narada, some call this by the name Vara-
+vrata.i Its rules of procedure and benefit are the same as in the
+case of the former.
+70b-71. On the Gaturihi dav in the month of Pausa, the
+devotee should pray to Vighnesa with great devotion. He should
+feed a single Brahmana with sweet-meats and offer monetary
+gifts also. O sage, if this is performed, the Vratin (the performer
+of the holy vow) shall become the recepient of riches.
+72-73a. The holy vow Saihkastavrata^ is to be observed
+on the fourth day in the dark half of the month of Magha. The
+Vratin should decide on observance of fast upto the rise of the
+moon, with his mind controlled.
+73b-74a. After the rise of the moon, the image of Ganesa,
+made of clay, should be placed on the pedestal alongwith his
+weapons and the vehicle.
+74b-75. It should be worshipped with the sixteen Upa-
+caras (modes of service) in accordance with injunctions. Modaka
+and ground gingelly seeds alongwith jaggery shall be offered as
+Naivedya. Arghya is offered in a copper vessel mixed with red-
+sandal paste.
+
+## 1. VV. 55-70 describe the Mahdvrata or Vara-Caturthl (in the SK.P..
+
+vide CC-Vrata, I. .530-31). The observer gets Sdyuj^a (identity) with Visnu
+by observing this Gaijesa Kra/a—a Vaisnavite tilt.
+
+## 2. VV. 72-79 prescribe the Sankaf(avrata on the 4th day in
+
+Magha Kr., but it is observed every montli on Kj. 4 in Maharashtra. VRJ.
+(pp. 82-88) calls it Sankaffa-hara Ga^iapati Vrata (a Ganesa Vrata destroying
+extreme calamities) and attributes the illustrative story to Ndrada P.
+
+
+1448
+Ndrada PurS^a
+76-78. Kusa grass, Durva grass, flowers, raw rice grains,
+^amipatra (leaves of the Sami tree) and curds should be mixed
+together and offered to the Moon (with the prayer), “Omoon,
+the ruby in the ocean of the Armament, O Lord of Daksa’s
+daughters, O representative of Ganesa, kindly accept the Arghya
+offered by me.” Uttering this he should offer the divine Arghya,
+that is destructive of sins to Ganeia. After feeding excellent
+Brahmanas in accordance with his capacity, he should take food
+himself with their formal permission.
+
+## 79. O Brahmana, by performing this auspicious Vrata
+
+called Samkasta, he shall become flourishing with wealth and
+foodgrains. He shall never attain difficulty or pain.
+80-82. The excellent holy vow Gaurivrata' is to be ooserv-
+cd on the fourth day in the bright half of the month of Magha.
+On that day, Gauri is to be worshipped alongwith the groups of
+Yoginis by men as well as by women in particular. The articles
+of worship are the following : Kunda flowers, Kumkuma, red
+threads, red flowers, Alaktaka (the juice of red lac), incense,
+lights, oblations, ginger with jaggery, milk and milk puddings,
+salt and the greens called Palakas.
+
+## 83. Married women who are not widows and splendid
+
+Brahmanas are to be worshipped for the increase in conjugal
+bliss. Gifts must be made. One shall take food alongwith
+kinsmen.
+
+## 84. O Brahmana, this Gaurivrata is conducive to the in¬
+
+crease of conjugal blesssedness. This must be performed every
+year both by men and women.
+
+## 85. The same holy rite is called Dhunc^hivrala by others.
+
+By some it is galled as Kundavrata. Others call it Lalitavrata
+and still others call it Santivrata.
+
+## 1. VV. 80-86 describe the Gauri alias phup^hi or Laliti or ^dnii
+
+Vrata. Though observed on Magha Su. 4, it is essentially a Devi Vrata, not
+directly connected with Ga^iesa, though the NP, attributes its fruits to the
+Grace of Gai^csa. In VRJ. (p. 82), it is called Gauri Caturthi Vrata and
+VBJ. quotes from Brahma P. from CC—Vrata I. 531.
+
+
+
+## IV. 113.86—114.1
+
+1449
+
+## 86. Ablution, charitable gift, japa and hojna, O sage,
+
+all these rites performed on this day shall become thousandfold,
+thanks to the Grace of Dantin (god Ganesa).
+
+## 87. On the fourth day in the month of Phaig^a falls the
+
+auspicious Vrata of Dhundhiraja. Brahmanas are fed with cakes
+of ground gingelly-seed flour. The vower should also partake of
+it himself.
+
+## 88. One who is interested in the propitiation of Ganesa
+
+shall attain Siddhi by oflering religious gifts, Homa and Puja
+with gingelly seeds alone, thanks to His grace.
+
+## 89. The image of the elephant-faced deity should be made
+
+of gold. After worshipping assiduously, it must be given to an
+excellent Brahmana, for the flourishing increase in all riches.
+
+## 90. If a Gaturthi day coincides with Sunday or Tuesday
+
+in any of the twelve months, O leading Brahmana, it yields
+special benefits.
+
+## 91. In all the Caturthis, whether of the dark half or of
+
+the bright half of the month, Vighnesa (God Ganela), the
+Lord of the Devas should be worshipped by those who are
+eagerly engaged in devotion.”
+
+## CHAPTER ONE HUNDRED AND FOURTEEN
+
+The Exposition of Holy Vratas to be
+performed on Paheami days {fifth days of Lunar fortnight)
+Sanatana said ;
+I. O Brahmana, I shall recount to you the Vratas to be
+performed on Paficamis^ (fifth days in the halves of
+Lunar months). On observing these rites with devotion, one shall
+attain all cherished desires.
+I. Just as Caturtht Vratas are mainly concerned with god Gaoeia,
+Vratas on the 5th days of lunar fortnights arc auspicious for the worship of
+
+
+1450
+N&rada Purdna
+
+## 2. The Paficami (fifth day) in the bright half of the
+
+month of Caitra is called Matsya jayanti. On this day, the
+worship of the incarnation of the Lord as (Divine) Fish is to be
+performed with great festivities, by devotees.
+
+## 3-4a. This is called Sripancamp also. On this day, the
+
+worship of Sri is to be performed by the articles of
+worship such as scents etc., and the Naivedyas of milk pudding
+etc., Laksmi never forsakes a person who worships Laksmi here
+(on this day).
+4b-5a. Prthvivrata, Gandravrata and Hayagrivavrata are
+also to be performed by those who wish to attain different
+Siddhis, in accordance with the respective injunctions.
+5b-6a. On the Paficami day in the month of Vaisakha,
+the man shall worship Sesa, endowed with the attributes of
+serpents. He shall attain the desired benefit.
+6b-7a. The intelligent devoitee shall worship the Pitrs
+(Manes) on the Paficami day in the month of Jyestha. He shall
+have the acquisition of all desired benefits through feeding the
+Brahmanas.
+7b-l la. O sage, Vayu who is present everywhere is to be
+worshipped on the Paficami day in the month of Asadha. He
+should go out of the village and climb up to the ridge of a
+mountain. To a bamboo pole he should tie a banner of five
+colours. It should be succintly high. He should fix the pole in
+the middle of the mystic diagram of a lotus. O Narada, at its
+root in all the quarters, he should worship the guardians of
+the quarters and test the direction of the blow of the wind.
+Beginning with the first Yama, (period of three hours), he
+shall duly worship the Lord of that quarter in which the
+wind blows.
+serpents (NP. verse 61 below), though worship of Sages (Rsi-paflcaini) in
+VV. 34b-48, and of goddess Lalita {Lalitd Paficami VV. 49-.')3) is also
+given importance in the NP.
+
+## 1. There arc a number of days (e.g. MSrgasir^a §u. 5, Magha
+
+Su. 5) on which a Sri Paficami Vrata is prescribed. The iVf Vrata
+described in the NP. is mentioned in the Smrti Kaustubka. 92. VPJ. is
+silent about it. On this day (Caitra iSu, 3) Vratas called PrthvI, Cdndra and
+Hayagriva are also observed.
+
+
+IV.114.11b-19
+1451
+lib. He shall thus stay there for four YaJtnas without
+taking food.
+
+## 12. He should then return home in the evening. He
+
+should partake light food. With concentration of mind and
+after bowing down to the guardians of the world, he should lie
+down on bare yet clean ground and go to sleep.
+
+## 13. The dream that comes to him in the fourth Yama
+
+(quarter) on that night shall come true. So says Siva.
+
+## 14. If anything inauspicious happens in the dream, the
+
+devotee should be engaged in the worship of Siva and observe
+fast for all the eight subsequent Yamas (i.e. 24 hours) or for the
+day alone (i.e. 12 hours).
+15-16a. He should then feed eight Brahmanas. Thereby
+he shall attain auspicious benefits. This holy rite is called “Subha-
+subha-Nidarlana”^ (The test for auspicious and inauspicious
+results). It causes blessedness to men in this world as well as
+in other world.
+
+## 16b. The auspicious rite called Anna-samrddhi-da^ (the
+
+bestower of plentitude of food) is to be observed on the Pafi-
+cami day in the dark half of the month of Sravana.
+17-19. O Narada, on the previous CaturthI day when
+there is yet some part of the day, the intelligent devotee shall put
+all cooked food in different vessels and pour water therein. Then
+he should put it in another vessel after draining off all water. The
+next day, after sunrise, he should worship the Pitis, the sages
+and the Devas after due ablution. He should then offer Nai-
+vedya to the Devas. With delighted mind, he shall give
+cooked food to beggars.
+
+## 1. VV. 7b-16a describe a peculiar Vrata leading to veridical or
+
+prognosticating dreams or omens by worshipping tlie wind-god. No
+primitive Meteorology should be read in the presci iption of .setting up a
+flag on a hill-top and notice the direction of the wind per three-hour
+period and worship the wind-god according to its direction of blowing.
+
+## 2. W. 16b-26b deal wtth a Vrata giving abundance of food in
+
+every birth and aptly called Ama-samfddhi-Vrata or briefly as Anna. The
+NP. prescribes this Saiva Vrata as goddess Annapurna is Parvati, the spouse
+of Siva. Kane (HD.V. i) does not mention it. It is probably an original
+contribution of the NP. to Vratas.
+
+
+1452
+JVOrada Purdm
+
+## 20. He shall spend the whole of the day in this activity.
+
+At sunset he shall go to Siva’s temple and worship the Lord
+Isvara in the form of Lihga.
+
+## 21. After duly worshipping Mahesvara with scents, frag¬
+
+rant flowers, etc he shall repeat the five-syllabled Mantra (Om
+Sivaya Namah) a hundred or thousand times.
+22-23a. After dedicating the benefit of Japa to Lord
+Siva, the embodiment of the universe, he should eulogise
+the Lord with all Vedic and Pauranic hymns. Without agi¬
+tation or perturbation, he should pray to Lord Isana for the
+sake of perpetual acquisition of cooked food.
+23b-24a. “In all my births may I be richly blessed with
+all those foodgrains whether harvested during the autumn or
+during the spring.”
+24b-26. After praying thus to the Lord of the Devas, he
+should come back to his own house. He should give cooked food
+to the Brahmanas and eat it himself silently. O Brahmana, this
+Annavrata (Holy rite of cooked food), if observed duly by
+men, is conducive to the production of all fobd and wealth in
+this world, and yields salvation in the other world.
+27-29. This rite (in propitiation of serpents) is perform¬
+ed on the fifth day in the bright half of the month of Sravana,
+by men firm in their belief in the Vedas. On either
+side of the door-way, figures of poisonous serpents should be
+drawn in cowdung. He should worship them with scents, etc.
+Thereafter he should worship Indrani with gold, silver, etc,
+curds, raw rice-grains, water from Kxiia. grass, scents, fragrant
+flowers, incense, lights and hoards of Naivedyas. After circum¬
+ambulating and bowing down, he should pray with great devo¬
+tion. He should give the articles of worship to leading
+Brahmanas.
+
+## 30. “In all my births, may these gold, silver, etc. that
+
+have been given to Brahmanas be productive of endless benefit.”
+
+## 31. O Narada, he who gifts away along with this utter¬
+
+ance, the articles with great devotion, will delight Kubera, the
+presiding deity of wealth, who bestows affluence like gold,
+upon his devotees.
+
+## 32. After observing the holy rite, the man should feed
+
+
+
+
+## IV. 114.33-39
+
+1453
+Brahmanas with devotion. Thereafter, he should partake of
+his food surrounded by his wife, children and friends.
+33-34a. The devotee should propitiate serpents with
+milk on the fifth day in the dark half of the month of Bhadra-
+pada, (thereby) the entire family upto the seventh generation
+shall be free from the fear of serpents.
+
+## 34b. One should worship the excellent sages^ on the fifth
+
+day in the bright half of the month of Bhadrapada.
+
+## 35.37a. In the morning, he should take his bath in the
+
+river etc. and perform Nitya rites, Sandhya prayers etc. He
+should then return home and make a platform with clay. He
+should smear and clean it with cowdung and decorate it with
+flowers. O Brahmana, he should then strew Kusa grass thereon
+and worship the seven sages, by means of scents, different
+flowers, incense and splendid lights.
+37b-39. The sages are Kasyaj a, Atri, Bharadvaja, ViiS-
+vamitra, Gautama, Jamadagni and Vasistha. Arghya should
+be duly offered to these. The intelligent devotee should cook
+
+## 1. This is the well-known fifi-pafkami Vrata. The NP. records an
+
+early stage when this Vrata was {Krformed both by men and women. Later
+on it came to be regarded as efficacious in warding off sin in ‘polluting*
+things with their touch by women in their menses, as monthly course or
+menstruation came to be regarded as part of the sin of Brahmai^jta-slaughter
+{^Brahmahatyd) committed by Indra in killing Vftra. Naturally women
+(especially in Maharashtra) Ix^in to perform it after attaining puberty.
+VRJ. (pp. 91-96) records a story from the Bfuwifyottara P. hovt iha sin of
+Br^mana-slaughter i>erpetrated by Indra (in killing Vrtra) came to be
+equally distributed in Fire, rivers, mountains and women (viz. the
+menstruation of women) to expiate which women should observe thu
+Vrata.
+VRJ-also quotes CC-Vrata 1. 568-572 which records the account of
+this Vrata according to the Brahmdtf^a P. There are some differences in the
+details of the worship as given in the NP. and other works (for example
+non-inclusion of Arundhati in seven sages in the NP.), prescription of this
+Vrata even to men. Vrat&rka and VRJ. specifically assert that this Vrata is to
+be observed by women only to ward off the sin of ‘polluting’ things by
+their touch during their monthly course.
+The prescription to cat food that is naturally grown without ploughing
+the field in this Vrata shows that it belongs to the period of food-gathering
+economy. This explains why men and women were eligible for this Vrata in
+the older stage.
+
+
+1454
+Narada Purd^
+^yamaka and other grains that have not been cultivated, as
+Naivedya. After the food offerings, he should ritualistically
+bid farewell to them and cat the same cooked grains himself.
+40-41. In this manner, he should perform this holy rite
+every year, for seven years. At the conclusion of the Vrata, he
+should choose seven Vedic scholars as his Acaryas (preceptors).
+He should make seven images in gold, according to his capacity.
+They must have matted hair, rosary and water pot.
+
+## 42. These images should be placed in copper vessels or
+
+clay pots and the rite of ablution is performed severally with
+Paficamrta.
+43-44. With sixteen types of services and articles of
+worship, they are worshipped with devotion. Arghya is offered
+then, and the homa is performed with gingelly seeds, grains, or
+barley grains etc. The Rk. ‘Sahastoma’ (RV X.130.7) should be
+used while performing homa or the names of the sages shall
+themselves be the Mantras. Or with other holy mantras also
+the homa can be performed. Then the Purnahuti is
+offered.
+45-46. He should then give seven cows as gifts, fully bedeck¬
+ed in ornaments and clothes. He should worship his preceptor
+also with clothes, ornaments, etc. With the permission of the
+preceptor, he should thereafter dedicate the images unto the
+Brahmanas. After feeding them with devotion, he should bow
+down to them and bid them farewell.
+
+## 47. Thereafter, the food left over by the Brahmanas con¬
+
+sisting of articles of six different tastes should be taken by him
+along with kinsmen.
+
+## 48. After performing this holy rite with its ancillaries he
+
+shall enjoy all desired worldly pleasures, thanks to the grace of
+seven sages. He shall go hence in an excellent aerial car.
+49-52. On the fifth day in the bright half of the month
+of Aivina, the holy rite of Upanga-Lalita-Vrata* is to be observed.
+
+## 1. W. 49-52 briefly describe UpiAga^Laliti-Vrata popularly known
+
+in Maharashtra as LalUd Paticaml. The detailed procedure of thja Vrata as
+observed in the Deccan is given in VRJ. (pp. 97-103) and the story about
+
+
+
+## 1V.U4.53-60
+
+1455
+O Narada, the image of the goddess should be made in gold in
+accordance with one’s ability. The devotee should worship her
+in accordance with the injunctions, with all the sixteen types
+of services. In order to make the Vrata perfect and complete,
+cooked rice alongwith fruits, ghee and monetary gifts should be
+given to an excellent Brahmana— “The boon-granting deity
+accompanied by Sakti has been worshipped by me alongwith
+her vehicle. O Mother, you may be pleased to go to your own
+abode after blessing me” (The foregoing is the final prayer).
+
+## 53. O excellent Brahmana, the holy rite of the excellent
+
+Jaya vrata is to be observed on the fifth day in the bright half
+of the month of Karttika with good faith, for the destruction of
+sins.
+54-55. O Brahmana, the devotee should, with great con¬
+centration, worship Jaya according to injunction. Clean
+(in body and mind) and bedecked in ornaments, he should wor¬
+ship her with sixteen types of services. He should feed a single
+Brahmana and give him monetary gifts. Then he should bid
+farewell to him and himself partake of his food silently.
+
+## 56. If any one takes his holy dip on the day of Jaya, with
+
+great devotion, all his sins perish like dear attacked by a lion.
+
+## 57. O Brahmana, the fruit that has been glorified as the
+
+result of the Avabhrtha (concluding) bath in a horse sacrifice,
+is attained by bath on the day of Jaya.
+
+## 58. One devoid of sons gets a son, a barren woman
+
+becomes pregnant, a sick man is freed from ailments and a
+prisoner is released from bondage.
+
+## 59. By worshipping serpents duly on the fifth day in the
+
+bright half of the month of Margaiirsa one attains fearlessness
+from serpents and rejoices alongwith the kinsmen.
+
+## 60. In the month of Pau^a too, on the fifth day in the
+
+bright half, one attains all cherished desires by worshipping
+Madhusudana. No doubt need be entertained in this matter.
+its importance is quoted from the SK. P. It is probably a later
+development.
+For Lalitd'^offhi Vrata vide infra Ch. 115.8-29.
+
+
+1456
+Nirada Purdna
+
+## 61. O Narada, the worship of the Pitrs and the serpents
+
+on the fifth day in the bright or dark half of any month is
+recommended in every respect.
+
+## CHAPTER ONE HUNDRED AND FIFTEEN
+
+The Exposition of the holy vdws to be
+observed on Saffhi (sixth) days
+(in lunar fortnights)
+
+## Sandtana said :
+
+
+## 1. O Brahmana, listen. I shall recount to you the holy
+
+rites to be observed on 3^sthi days^ (sixth day in the lunar
+fortnight). On observing them perfectly, one shall obtain all
+cherished desires.
+
+## 2-3a. On the sixth day in the bright half of the month
+
+of Caitra, the excellent holy rite of Kumara Vrata is to be
+observed. By worshipping the six-faced Lord on that day in
+accordance with the different injunctions of worship, one shall
+attain a son who is endowed with all good qualities and who
+will live for a long time.
+3b-4a. On the sixth day, in the bright half of the month
+of Vaisakha, the devotee should worship Karttika (Skanda). By
+doing so, one attains motherly affection and happiness. No
+doubt need be entertained in this respect.
+4b-5a. By duly worshipping Divakara (the Sun) on the
+sixth day in the bright half of the month of Jyestha, one attains
+all desired benefits, thanks to his Grace. There is no doubt about
+this.
+
+## 1. It u noteworthy that most of the sixth days in lunar fortnights
+
+are sacred to god Skanda and most of the Vratas have Skanda as the presiding
+deity, the main exception being Lolita ^OffhiiMd KapilA
+
+
+IV.115.5b-20
+1457
+
+## 5b-6. The excellent holy rite of Skanda is to be observed
+
+on the sixth day in the bright half of the month of Asac^ha. The
+devotee should observe fast and then worship the beloved son
+of I§iva and Uma. He attains all cherished desires and the
+continuation of the line of sons and grandsons.
+
+## 7-8a. On the sixth day in the bright half of the month
+
+of Sravana, the devotee, endowed with great devotion, should
+worship Sarajanman (i. e. Karttikeya) with the sixteen
+Upacaras (types of services). Thanks to the grace of the six¬
+faced Lord, he attains all desired objects.
+8b-10. The holy vow that has to be observed on the
+sixth day in the month ofBhadrapada, the Lalita Vrata' is being
+recounted. A woman devotee should take morning bath duly
+on that day. She should wear white cloth and white garlands.
+She should lake the sand from the confluence of a river, in a
+bamboo basket. She should then make five lumps of the sandy
+soil and meditate on goddess Lalita, the sportive lady of the
+forest.
+11-12. She should then take one hundred and eight flowers
+of each of lotus, Karavira Nepali, Jasmine, blue lotus, Ketaki
+and Tagara and twentyeight unbroken buds. With these
+she should worship the goddess.
+13-15. Sitting in front of the goddess, the beloved wife
+of Siva, she should pray as follows : “By taking bath in Kana-
+khala, on the mountain Nllaparvata, ih the Ku^avarta, in the
+Gangadvara and in the Biivaka you obtained Kara as husband. O
+blessed goddess Lalita, the bestower of happiness and conjugal
+blessedness, grant unto me endless blessedness. Obeisance, unto
+you again and again.” Uttering this Mantra, she should worship
+the goddess with splendid Gampaka flowers duly. She should
+then place the Naivedya in front of the goddess.
+16-20. The Naivedya should consist of Trapusa (a kind
+of fruit) Ku§man^a (gourd), coconut, excellent pomegranates,
+Tunj^ira, Karavella(the gourd Momordica charantia), Cirbhata
+
+## 1. VV. 8b<29a describe the Laliti ^af(hi Vrata. VRJ. (pp. 103-104)
+
+quotes Bhavifyottara P. from CC. Vrata I. 617-620). It is popular in
+Gujarat according to VRJ*
+
+
+1458
+Mirada Purdi^
+(a sort of cucumber) and other seasonal fruits taken fresh. The
+surroundings of the image of the goddess should be beautified
+with rows of excellent lights and germinating food grains. There
+should be incense of Sarganaka (?) alongwith Sauhalakha and
+Karaftjaka (?). Gudapuspa (Bassia latifilia) should be placed
+as ornament of the cars. According to one’s affluence, sweet¬
+meats of large and small varieties of various kinds should be
+used as Naivedya. After worship, she should celebrate the
+festival of keeping awake with songs and instrumental music,
+as well as dances and other scenic items of various types. The
+chaste lady should spend the whole of that night with her
+female friends.
+21-26a. The woman devotee shall not close her eyes
+throughout the four Yamas (yama—3 hours) (of the night).
+By closing her eyes, she will become sinful, barren and unhappy.
+After keeping awake thus, she should take (everything) to a
+river on the Saptami day (i. e. seventh day) to the accompani¬
+ment of songs and instrumental music. O excellent Brahmana,
+she should give that Naivedya etc. to a leading Brahmana.
+After taking her bath, she should return home and get the Homa
+performed in the fire. The Devas, Pitrs and human beings
+(i. e. guests) shall be worshipped. She should worship and feed
+married women, virgins and fifteen Brahmanas with various
+kinds of foodstuffs and edibles. She should give them various
+charitable gifts as well. Saying “May Lalita be pleased with
+me”, she should bid farewell to them.
+26b-29a. Listen to the merit of this Vrata that bestows
+conjugal blessedness whether performed by a man or a woman.
+O Narada, of what avail is much talk ? That benefit which one
+desires by means of holy rites, austerities, charitable gifts and
+observances is attained by this holy rite. After death, the
+devotee attains the eternal 8ivaloka and rejoices along with
+goddess Lalita like her companion in the world of 8iva for a
+long time.
+29b-30. The sixth day in the bright half of the month of
+Bhadrapada is called Candana $a§thi. By worshipping the
+goddess on that day, the devotee attains the same world as
+that of the deity. If the $a?thi coincides with the constellation
+
+
+IV.lI5.31-36a
+1459
+KohinI, the astronomical division called *Vyatipata' and
+Tuesday it is called Kapila$a$thi.^
+
+## 31. The observer of the Vrata devoted to the observance,
+
+should worship the Sun on that day. Thanks to the grace of
+Sun-God, he attains cherished desires.
+
+## 32. O excellent celestial sage, the charitable gift of
+
+cooked food, Japa, Homa, the rites of Tarpana to the Pitn,
+Devas and sages, when performed on this day, all these
+should be known as everlasting.
+
+## 33. After worshipping a tawny coloured cow with clothes,
+
+garlands and unguents, it shall be given to a Vedic Scholar for
+propitiating the s?m.
+
+## 34. On the sixth day in the bright half of the month of
+
+Asvina, O Brahmana, goddess Katyayani should be worshipped
+with scents and other auspicious articles and also with various
+kinds of Naivedya.
+35-36a The devotee should then crave forgiveness from
+the goddess of the Devas, bow to her, and bid farewell to her.
+
+## 1. On«; wonders why such a rare and important occasion like
+
+KapilS~$affh{ which comes but once in 60 years, is so casually treated here.
+*‘The bright half of Bhadrapada” given in the NP. is by aminta reckoning
+Bhddrapada Kffpa. The occurrence Rohim Constellation in combination
+with other five factors (Tuesday, Vyatip&ta yoga etc) is possible in amdnta
+
+## reckoning. Hemadri states the following combination as Kapili ^affhf :
+
+BhSdrapada Kr. 6th day, Tuesday, Vyatipata Yoga and Rohini Nak^atra.
+VRJ. confirms these by quoting from another source. But the Karastra
+Mdhatmya a Sthala Purdfta of Kolhapur (regarded as a part of the Pd. P.)
+
+## allows even Sunday as an alternate to Tuesday for Ke^ild §afthi. IT states:
+
+fofthi bhddre ca kfftid garaja-kfti yutd rohi^i-pdtqyuktd
+vdre Bhanau ca Bhaume' pyatka ca mrga’fire deva-pQjyetha samsthe
+
+## The commentator*Dajib& Joshi Rao*quotes from Puraatasamucct^:
+
+bhddra mdsyasite pakfe bhdnau caiva kare sthite
+pdte kuje ca rauhif^ydih sd fayfht kapUd bhavet
+The Com. concludes: **As the text {Karaoira Mdhdtnya) states that
+this (Kapila) Sa;thi can fall either on Sunday or Tuesday, even Sunday is
+important. {atra m9le bhdmt-bhaamaBdrayob katkandd bhdmi-vira-yoge^pi
+makkfoA.)
+As this Vrata is Ibr the propitiation of the Sun-god, Sunday might
+have been allowed for in the Karasdra Mdhdtmya. I could not
+trace it to any other authority. The giA of a tawny cow, being an integral
+part of this Vrata, it probably came to be known asKapild
+
+
+1460
+Ndrada Furlt^a
+On this day, either the image made of Sandy soil or the chaste
+wife of a Brahmana should be joyfully worshipped by means of
+clothes and auspicious ornaments, for the ^tisfaction of
+Katyayanl.
+36b-37a. No doubt need be entertained in this respect
+that, thanks to the grace of Katyayini, * a virgin shall attain
+the desired bridegroom and a woman the desired son.
+37b-39. The highly blessed army of the Devas was
+entrusted (dedicated) to him (Skanda) by the Devas and hence
+acquired by the nobleminded six-faced Lord on the sixth day in
+the bright half of the month of Karttika. Hence, on that day,
+the devotee should worship the army of the Devas consisting of
+excellent Devas as well as the six-faced Lord with all charming
+Upacaras. O excellent Brahmana, he shall achieve Siddhi
+mentally desired by him.
+
+## 40. The worship of the fire-god is also prescribed for
+
+this day. The devotee should carry it out perfectly alongwith
+the worship of fire, and Homas, with different kinds of articles
+of worship.
+41-42. The Asura Taraka was killed on the sixth day in
+the bright half of the month of Margasirsa. The Satkrti (honour
+and greetings) offered by Brahma and other gods were received
+by Skanda. Hence on this day, the devotee should worship
+Skanda with scents, fragrant flowers, raw rice grains, fruits,
+clothes, ornaments and diverse kinds of Naivedya.
+
+## 43. If the §a$thi coincides with Sunday or the constell¬
+
+ation Satabhisak or i^atatara^ O excellent sage, it is called
+Campasasthi.^
+*Thc NP uses both forms—Katyayani : Katyayini
+
+## 1. This delimitation of the term Campi ^offht is supported by
+
+Hemadri (CC-Vrata I. 590-596 wherein he quotes the SK.P.) and by
+Smfti Kaustubha 221-222. VRJ. (p. 108) requires Vaidhrti Y<^a, Tuesday and
+•Visakha Nak$atra on thb day to call it Can^d But this combination
+is so rare that it occurs once in 30 years or so. It is strongly recommended
+that god Maheivara should be seen on this day. But in Maharashtra,
+Margajir^ Su. Sa^flii is called Campd irrespective of the day or
+Yoga.
+
+
+
+## IV. 115.44-54
+
+1461
+
+## 44. On that day, Lord Vilvcivara, the destroyer of sins,
+
+should be seen, worshipped, known and remembered by one
+who wishes for happiness.
+
+## 45a. Holy dip, charitable gift etc., performed on this
+
+day are proclaimed to be everlasting.
+45b-47. O Brahmana, it was on the sixth day in the
+bright half of the month of Pausa that Dinapati (the Sun)
+manifested himself in the form of eternal Visnu, the protector
+of the Universe. Hence, on this day, he is to be worshipped
+with scents and other articles of worship, Naivedyas, clothes
+and ornaments by those who desire for all kinds of happiness.
+48-50a. The sixth day in the bright half of the month
+of Magha is called Vanina^ Sasthi. On that day, one should
+worship god Varuna who has the eternal form of Visnu, with
+scents, red silken garments, flowers, Naivedyas, incense and
+lights. By worshipping thus in accordance with the injunctions,
+the man obtains whatever he desires. After attaining all the
+fruits he rejoices, thanks to his grace.
+50b-51. On the sixth day in the bright half of the month
+of Phalguna, O Brahmana, the devotee should make an image
+of Lord Pasupati duly in clay and worship it with Upacaras
+(sixteen articles and modes). He should bathe the image
+with water or Paftcamrta while uttering l§atarudra mantra.
+52-53. While unguents shall be smeared over the image,
+the deity should be worshipped with raw rice-grains, white
+flowers and fruits. Different kinds of Naivedya should be
+offered. Nirajana (waving of lights) is duly performed.
+After bowing to and craving forgiveness of the Lord, he
+should be ritualistically sent to Kailasa.
+
+## 54. O sage, whether he is a man or a woman, whoever
+
+performs the worship of Siva thus, enjoys all worldly pleasures
+here and in the end attains the goal of Siva
+
+## 1. This seems to be a contribution of the NP. as Kane does not
+
+mention it in HD.V. i.
+
+
+1462
+Ndrada Purina
+
+## CHAPTER ONE HUNDRED AND SIXTEEN
+
+The Exposition of the rites to he observed
+on the Saptami (Seventh) day.
+
+## Sanitana said :
+
+
+## 1. O Narada, listen. I shall recount to you the holy
+
+rites to be observed on the Saptamp days (seventh day of a
+lunar fortnight). On observing them with devotion, the man
+attains Sayujya (entire identity) with the Sun-god.
+
+## 2-7. One shall take external (i. e. outside the village
+
+or town in a river or well) bath on the Saptami (seventh) day
+in the bright half of the month of Gaitra. He should draw the
+mystic diagram of the eight-petalled lotus on an altar on the
+dry ground smeared with cowdung and strewn with white sand.
+Vibhavasu (the sun-god must be placed in the pericarp. The
+two devas Krta, Dhatuka (?) should be placed in the eastern
+petal; the Gandharvas, Krta, Karaka should be placed in the
+South-east petal; two Raksasas shall be placed in the Southern
+petal. O excellent sage, the two Akrtas (?) shall be placed in
+the South-west petal, the two great serpents, the sons of Kadru,
+should be placed (as if they are) in motion in the Western
+petal, two Yatudhanas should be placed in the north-west petal,
+two sages shall be placed in the northern petal; O excellent
+Brahtnana, the devotee should fix one planet in the north¬
+east p>etal. Their worship is to be performed by means of scents,
+garlands, unguents, lights, incense, Naivedyas, petel leaves,
+areca nuts and other things.
+
+## 8-9. After worshipping them thus, the devotee should
+
+perform Homa with ghee. He should give one hundred and
+eight oblations to the sun-god and offer as oblations eight
+Ahutis for each of the others, in due order, uttering their names
+as mantras. Thereafter, he should perform Purnahuti on the
+, 1. Just as the 4th day of a lunar fortnight was sacred to god Ga^eia
+or the 6th day to god Skanda, the 7th day in a lunar fortnight has the sun
+as the special presiding deity. Hence the observance of Saptamt Vratas are
+saud to lead to siyujyatd (identity) with the sun^od. Hence in V.72 below,
+people are exhorted to propitiate the sun-god on all SapUmf days.
+
+
+IV.lI6.10-18a
+1463
+altar. O Brahmana, in accordance with one’s capacity,
+monetary gifts should be given to Brahmanas.
+
+## 10. After carrying out all these injunctions, the devotee
+
+shall attain all happiness. At the time of death, he pene¬
+trates his way through the disc of the Sun and goes to the
+greatest region.
+
+## 11. It was on the seventh day in the bright half of the
+
+month of Vaisakha that Jahnavi (the Gahga) was angrily drunk
+up by Jahnu himself and subsequently let off through the
+right ear.
+
+## 12. On that day, the devotee should worship Jahnavi
+
+after taking bath in the pure water, early in the morning. He
+should worship with scents, fragrant flowers, unbroken rice
+grains and other things, with all requisite upacaras (articles of
+worship), etc.
+
+## 13. Then, a thousand pots are to be given (as gifts) in
+
+the course of this Gahgavrata. If devotedly performed, this
+Vrata' is competent to take seven generations in his family to
+heaven.
+14-18a. The holy rite of Kamalavrata* is also recom¬
+mended on this day.® Its procedure is being proclaimed. An
+auspicious lotus is made out of gold of the weight of a gingelly
+seed. It is then covered with two clothes. The devotee should
+then worship it with scents, incense and other things, and pray
+as follows : “Hail to you the lotus-handed god; obeisance to
+you the supporter of the universe. O Divakara, (Sun-god)
+salutations to you. O Prabhakara (Sun-god), homage to
+
+## 1. Although the N.P. docs not disclose the name of this Vrata, it
+
+is called Gangd saptami (VRJ, p. 110; Smrti Kauslubka 112 where it quotes
+Br. P.). This is celebrated as Jahnu drank up the river Gahga and on prayer
+from King Bhagiratha, let it Bow through his right car (VR. I. 35*38)
+
+## 2. Although NP. prescribes this Solar Vrata on VaisSkha Su.
+
+Saptami, the Mt. P. 78. 1-11 and Pd. P. V. 21. 281-290 & following them
+Hemidri on Vrata I. 640-41 prescribe them on Caitra Su. Saptami.
+
+## 3. Mt. P. 77. 1-17 describe a Kamala Vrata to be performed on this
+
+(Vaisakha 8u. 7 and mt Caitra 8u 7 as Kane states in HDV. i. 422-23),
+but the procedure and details are different. Hemhdri {CC~Vrata I. 642-43)
+quotes from Pd. P-V. 21. 263-279.
+
+
+1464
+Ndrada Purdna
+you.” After praying thus to the Lord of the Devas, he should
+offer that lotus alongwith the water pot and a Kapila (tawny
+coloured) cow to a Brahmana, after sunset. He should observe
+fast throughout that day and take food only on the pcxt day.
+By feeding the Brahmanas with devotion, he shall attain the
+entire benefit of the Vrata.
+18b-21a. The holy rite Nimbavrata is also to be per¬
+formed on this day. Listen to its injunction even as 1 recount
+it. O excellent Brahmana, the worship of the sun is to be per¬
+formed with the leaves of Nimba (Margosa), uttering
+the Mantra ‘Khakholkaya’ (TA 10. 59. 1, TAA 10. 66) etc.
+beginning with the Pranava; O Narada, he should then eat the
+leaves of Nimba silently and lie down on the bare ground.
+After feeding the Brahmanas the next day, he should himself
+take food alongwith his kinsmen. This Nimbapatravrata bestows
+all happiness on those who observe it.
+2Ib-26a. The holy rite of Sarkarasaptami is also to be
+observed on this day. Listen to its procedure also from me.
+While the sun was drinking nectar by means of his hand,
+drops of Amrta (nectar) fell on the ground, and they grew
+into the plants of iSali rice, Mudga (greengram), Yava (barley)
+and Iksu (Sugarcane). Sarkara (sugar) is therefore the essence
+of sugarcane and nectar-like and so is liked by the sun. It is
+holy and used in Havya and Kavya. Sarkara Saptami yields
+the same benefit as the horse-sacrifice. It pacifies all miseries.
+It increases the line of sons and daughters. On this day sugar
+must be given as gift and taken alongwith food. This holy rite
+must be assiduously performed, as it is liked by the Sun-god.
+He who observes this with great devotion, shall attain the
+goal of the good (i.e. Heaven).
+26b-27. Indra himself was born as the sun on
+the seventh day in the bright half of the month ofjyestha. He
+should be worshipped according to the injunction. The devotee
+observes fast and subdties his sense-organs. O Brahmana, thanks
+to the grace of Devendra, he attains heaven.
+28-29a. On the seventh day in the bright half of
+the month of Asadha, the sun god became Vivasvan
+
+
+IV.ll6.29b-39
+1465
+(the refulgent Sun). The devotee worships him separately with
+scents and fragrant flowers. O leading Brahmana, he (the
+observer of this Vrata) attains identity with the Sun.
+29b-30. The auspicious holy rite called Avyahgavrata' is
+to be observed on the seventh day in the bright half of the
+month of Sravana. At the end of the Puja of Gopali (sun)
+in order to propitiate him, he must givt: a cotton cloth four and
+a half Hastas long. This Vrata is very auspicious.
+
+## 31. If this Saptami coincides with the Hasta constellation
+
+it will be destructive of sins. Charitable gifts, Japa, Homa,
+everything performed on this day shall attain everlasting status.
+32-33. The holy rite of Amuktabharana is to be observed
+on the seventh day in the bright half of the month of Bhadra-
+pada. The worship of Mahesa accompanied by Uma is glorified
+on this day. He is worshipped alongwith Gaiiga and others with
+the sixteen Upacaras. ^ After the prayer and (paying) obei¬
+sance, he should ritualistically bid farewell to the deity, for the
+flourishing increase of all desires.
+34-39. The holy rite of Phalasaptami* is also to be
+observed on this day. Its procedure is being described: The
+seven fruits are—a coconut, a brinjal, an orange, a pomegra¬
+nate, a white gourd, Brhati and areca nut. These are placed in
+front of Mahesa. A thread in which seven threads are turned
+and seven knots are made is also placed in front of Mahesa, O
+excellent Brahmana, after worshipping the Lord with great
+devotion, the woman-devotee shall wear the thread round her
+left hand and the man-devotee round his right hand.
+
+## 1. As Kane notes (HD. V. i., pp. 264), this form of sun-worship
+
+was imported from Iran (from Magas or Sakadvipiya Biahmanas) or
+borrowed from Parsis. Sk. Aojanga here is hyper-Sanskritisation of Avestan
+Aivyahghana ‘a girdle’. 'Aivyanga' is a hollow strip made of fine white
+cotton thread, resembling a serpent’s sloughy 122 fingers in length.
+The Brahmanisation of this Vrata becomes complete by Japa, Homa and
+Daksin^.
+
+## 2. This is a special variety of Phala-Saptaml. For other varieties vide
+
+HD. V. i, pp. 353-354. According to Pd. P. V. 21. 249-262 (quoted by
+Hemadri also) the Sungod, and not Mahadeva, is the chief deity as in
+the NP.
+
+
+1466
+N&radfl Purina.
+This shall be worn till the end of a year. He should feed
+seven Brahmanas with milk puddings and bid farewell to them.
+The intelligent devotee shall partake of it himself. In order to
+make Vrata perfect and complete, those fruits are given to
+seven Brahmanas. O Brahmana, the observer of thtf Vrata con¬
+tinues it for seven years with due observances of fast. Such
+an observer of this Vrata attains identity with Mahadeva.
+40-45a. The holy rite Subhasaptam? is to be observed
+on the seventh day in the bright half of the month of Asvina.
+On that day, the devotee should begin the holy rite by taking
+his bath and worshipping the deity. He should make excellent
+Brahmanas read the holy books. He should then worship a
+Kapila cow and pray thus—“O gentle one, I am gifting you
+away. May Aryama, the sun himself be pleased. Protect you,
+the entire Universe, since you are born of Dharma.” After
+praying thus, he gives the cow to a Vedic Scholar, alongwith
+the monetary gift. O Brahmana, after, bowing down to him, he
+himself should set the cow free. He should take in only
+Pafleagavya. Thus, the Vrata is concluded. On the next day
+he should feed Brahmanas. He should partake of that food that
+is left over by them. O Brahmana, this Vrata that is
+performed thus, is well praised. A person endowed with faith
+shall attain worldly pleasures and salvation, thanks to the grace
+of the Lord of the Devas.
+45b-47. The holy rite called Saka Saptami^ is to be
+observed on the seventh day in the bright half of the month
+ofK^ttika. On that day, the devotee should give seven different
+vegetables to seven Brahmanas alongwith gold lotuses. He
+himself shall take in only vegetable food. On the next day, he
+should feed the Brahmanas and give them monetary gifts as
+well. After bidding farewell to them, he himself should partake
+of the food silently alongwith his kinsmen.
+48-51. The holy rite of Mitravrata is to be observed on
+the seventh day in the bright half of the month of Marga^irsa.
+
+## 1. Cf. Mt. P. 79. 1-14.
+
+
+## 2. Tills is a difTerent variety of S&ka Vrata. For others vide
+
+
+## HD. V, 1. P. 423.
+
+
+
+IV.lI6.52-60a
+1467
+The sun was born of Aditi and Ka^yapa and was named Mitra
+and Visnu made him his right eye. Hence on this day, O
+Brahmana, the devotee shall worship him duly and feed seven.
+Brahmanas with sweets and other things. He should then bid
+farewell to them and take food himself. After duly performing
+this, the devotee shall certainly attain the world of the Sun. A
+Brahmana devotee attains Brahma’s world and a Sudra devotee
+takes his rebirth in a good family.
+52-54. The holy rite called Abhaya Saptami is to be
+observed on the seventh day in the bright half of the month of
+Pausa. The devotee observes fast and performs the holy rite
+standing on the bare ground (dhara-sthitah). He worships
+the sun during the three Sandhyas (dawn, noon and
+dusk), then gifts to a Brahmana a Prastha-measure of sweet
+meats alongwith cooked rice soaked in milk. Thereafter, he
+feeds seven other Brahmanas and gives Daksina to all the eight,
+which may be in the form of a piece of land or gold. He
+then bids farewell to them and takes food himself. This is the
+holy rite called Abhaya. It bestows fearlessness (or Liberation
+from Sariisara) on all.
+
+## 55. Other Brahmanas call this by the name of Martanda
+
+Vrata. But learned men say that both are the same, the deity
+being one and the same.
+56-60a. The holy Vrata called SarvaptP (Saptami) is to
+be observed on the seventh day in the dark half of the month
+of Magha. The devotee observes fast during the day and wor¬
+ships the disc of the Sun made of gold, with scents, fragrant
+flowers, etc. and keeps awake at night. The next day he should
+feed seven Brahmanas with milk-puddings and give them coco¬
+nuts as Daksina. To the preceptor, he gives the gold replica of
+the Sun’s disc alongwith other Daksinas. He should pray to him
+earnestly and bid farewell to him. Thereafter, he takes food
+himself. Thb is called the holy rite of Sarvaptida. It yields all
+cherished desires. Thanks to the power of this Vrata, dualism
+(Dvaitaih) is achieved in every respect (? desires are fulfilled).
+
+## 1. This is a special variety of this Vrata in the NP. For another
+
+variety vide HD. V. i. p. 444.
+
+
+1468
+Ndrada Purdayi
+60b-62a. The holy rite of Acalavrata is performed on the
+seventh day in the bright half of the month of Magha. This is
+also called Trilocana Jayanti (Birth anniversary of the three¬
+eyed Lord). It is remembered as the destroyer of all sins.
+62b-64. It is also Ratha Saptami^ that grants (even)
+emperorship. The devotee should worship the image of Sun
+made of gold. The image is placed in a chariot yoked to
+golden horses. Alongwith elephants, he shall give this (as gift
+to a deserving person). He who performs this Vrata devoutly
+joyfully enjoys all the pleasures in this world and goes to the
+region of god Siva. This Saptami is Bhaskarl Saptami and is
+comparable to a crore of shining planets. On this day, it is laid
+down that one shall take one’s bath at the time of Arunodaya
+(day-break). He shall place on his head seven leaves each of
+Arka and Badarl and take his bath for absolving the sins of
+seven births.
+65-68. Lord Sun has himself prescribed a Putraprada^
+Vrata (holy rite that grants sons) on this day. “I shall be born
+with a part of mine as the son of the person who duly worships
+me on the seventh day in the bright half of the month of Magha.
+I will be very much delighted.” Hence, the devotee should
+conquer his sense-organs and observe fast for a day and a night.
+On the next day, he should perform Homa and feed the
+Brahmanas with cooked rice mixed with curds or milk and
+puddings.He who performs the holy rite of Putra Saptami accord¬
+ing to these injunctions, shall get a good son who will be free
+from ailments and will live for a long time.
+69-70. One should perform the rite of Arkaputa on the
+seventh day in the bright half of the month ofTapasya (Phal-
+guna). He should worship the sun with the leaves of the Arka
+(the sun) plant. He shall eat the leaves of the Arka plant. He
+
+## 1. This is an important Vrata in the Deccan. VRj. pp. 115-116
+
+gives a different Vrata in detail and quotes Bhavifyottara P. story how
+son was restored to health thereby, vide HD. V. i. pp. 388-389.
+
+## 2. Kane records a number of Vratas to be observed on different
+
+days in different months, all granting a son as their fruit (vide HD. V. i.
+pp. 343-345) but this one in the NP is different from the Putra-Saptami Vrata
+in HD. V. i. 345.
+
+
+IV.l 16.71—117.3
+1469
+shall repeat the names of the sun continuously. Thus is the holy
+rite called Arkapujavrata. It bestows sons and wealth. It
+destroys all sins.
+
+## 71. O Brahmana, some call this holy rite Trivargada-
+
+Vrata (a Vrata that bestows Dharma, Artha and Kama the three
+aims of life), others call it Yajiiavrata on account of the rite of
+Homa duly performed in it.^ O excellent Brahmana, it is said
+that the sun is to be propitiated in all the Saptamis in all the
+months. It shall enable one to realise all desires.
+
+## CHAPTER ONE HUNDRED AND SEVENTEEN
+
+The review of the Viatas to be observed on Affami {eighth days
+of Lunar fortnights)
+
+## Sandtana said :
+
+
+## 1. Bhavani’s birth is reported to have taken place on the
+
+eighth day in the bright half of the month of Gaitra. The great
+festival of Yatra (procession) must be performed by making a
+hundred circumambulations.
+
+## 2. The vision of the mother of the Universe is the
+
+bestower of all joys and pleasures on men. On this very same day
+the holy rite of Asoka-Kalika-Pralana( drinking of water mixed
+with the tender sprouts of the Asoka tree) also has to be
+observed.
+
+## 3. Those who drink (water mixed with) eight buds of
+
+the Aloka tree on the eighth day in the bright half of
+
+## 1. With exception of Vratas like Krfoo-Jatimdffanf^ naajority of the
+
+Affami Vratas are for the propitiation of some female deity—be it Jagadamb&
+(P&rvati), Mahllakfmi or Reouki. The Bhavini Yatra is given in the
+Kisi Khaij(#a of the SK.P.—VJr,, P. 118.
+
+
+1470
+N^ada Purd^
+the month of Caitra, when the constellation of Punarvasu
+coincides with it, never experience any sorrow.^
+
+## 4a. This is also called Mahastaml since the worship of
+
+goddess is ordained. ,
+4b>7a. On the eighth day in the bright half of the month
+ofVai^akha, the devotee observes fast. He takes his bath (in
+cool) water and j>erforms the rite of ablution to the goddess
+Aparajita by means of the water from MaihsI (Indian Spike¬
+nard ) and Balaka (a fragrant root of the Plant Andropogom
+Muricatus. After worshipping with scents etc., Naivedya com¬
+prising of sugar is offered. Before performing breakfast on the
+following Navami day, he should feed some virgins. O
+Brahmana, thanks to the grace of the goddess, he will move
+about in the worlds (above) in a refulgent aerial chariot, him¬
+self brilliant like the sun.*
+7b-9a. By worshipping the three-eyed Lord on the eighth
+day in the dark half of the month of Jyestha, the devotee shall
+remain in the SivaLoka. He will be bowed to by all the Devas.
+The man who worships the goddess on the eighth day in the
+bright half of the month of Jyestha moves about in an aerial
+chariot alongwith the groups of Gandharvas and Apsaras.
+9b-12. On the eighth day in the bright half of the month
+of Asadha, the devotee takes his bath in water, mixed with
+turmeric powder. With the same water, he shall perform
+the rite of ablution of the goddess in accordance with the
+injunctions. After bathing the deity in pure water, subsequently,
+he should smear the deity with camphor and sandal paste.
+After offering Naivedya consisting of sugar, water for Acamana
+rite should be offered. He should then feed Brahmanas and
+give them suitable gold and monetary gifts. After bidding them
+fkrewell, he should take food himself silently. By performing
+this holy rite, the man shall attain to the world of
+the goddess.
+
+## 1. The NP has omitted the mantra at the time of worshipping Asoka
+
+as the worship of the Ajoka tree is deleted. But this verse (and the mantra
+4t>am a/oia hardbklffa) are given in the GP. I. 133. 1-2, and in the LP
+quoted in Hem^dri’s Vrata I. 862-63,
+
+## 2. This Vrata is not recorded in the VRJ and in Kane (HD. V. i).
+
+
+
+IV.l 17.13-21
+1471
+13-14* On the eighth day in the bright half of the month
+of l§ravana, tlie devotee should worship the goddess in accor¬
+dance with the religious injunctions. After bathing the idol
+in milk, he should offer sweet cooked rice as Naivedya. He
+^should feed Brahmanas on the next day, take food himself and
+conclude the holy rite. This holy rite increases the progeny.
+
+## 15. The holy rite called Dasaphala vrata^ is on the
+
+eighth day in the dark half of the month of Sravana. The
+devotee decides on fasting, takes his bath and performs the
+Nitya (usual, prescribed) rites.
+16-17. With ten leaves of black-coloured Tulasi, he
+worships uttering (in the dative case) these ten names of the
+Lord—Krsna (i.e. Kfsnaya namah) Visnu, Ananta, Govinda,
+Garudadhvaja, Damodara, Hrsikesa, Padmanabha, Hari and
+Prabhu. One should always worship Lord Kfsna by means of
+these names.
+
+## 18. He should then circumambulate the deity and pros¬
+
+trate himself before it. Thus he should perform the most
+excellent of all the Vratas for ten days.
+
+## 19. In the beginning, in the middle and in the end, he
+
+should perform homa in accordance with the injunctions.
+Uttering the Mantra of (the names of) Krsna, he should
+perform hundred and eight Homas with Garu (cooked rice
+soaked in ghee).
+20-21. At the end of the Homa, the intelligent devotee
+should worship the preceptor duly. He should get a replica of
+the leaf of Tulasi exquisitely made in gold and place it in a
+vessel made of gold, copper, clay or bamboo. He should get an
+*The text : nabhomdse sitaftamyam need be emended as nabkom&si*
+sitdffamydm. The avagraha (marked here as’) before sita is necessary as this
+Vrata falls on Sravai>a K. rSth (HD. V. i. P. 311, also VRJ. p. 122 If) If
+4zmdHta reckoning is not taken, it will fall on Bhadrapada which is not
+recognised in theNP here.
+
+## 1. W- 15-26 describe the DaSd-phala Vrata in honour of Lord
+
+Kr99a< The Vrata is detailed in VRJ. P. 122 If. and is briefly described in
+HD. V. i. 312. The misprint sitt for asite is pointed out in a footnote to
+that verse.
+
+
+1472 Ndrada Purina
+image made in gold and worship it in accordance with the
+injunctions.
+
+## 22. He should place the image in the vessel and offer it
+
+to the preceptor. A cow alongwith its calf, should *be given fully
+bedecked in ornaments and clothes.
+
+## 23. For ten days, he should offer ten Purikas (fried cakes
+
+of wheat flour) to the Lord Krsna. The observer of the rite
+shall either offer these Purik^ to a knower of the mode (of
+worship) or eat them himself.
+
+## 24. O excellent Brahmana, a bed also should be given as
+
+gift in accordance with his capacity. On the tenth day he
+should give the image to the preceptor.
+25-26. At the conclusion of the holy rite, ten Purikas
+should be given to each of the ten Brahmanas. He should con¬
+tinue this rite for ten years. After performing this excellent
+Vrata for ten years and after duly observing the fast, the devotee
+shall realise all his cherished desires. There is no doubt in this
+that in the end, he will attain Sayujya (One-ness) with Kfsna.
+27-28a. This day remembered as (Krsna-Janmastami) ^
+removes the sins of men. Merely by observing fast on this birth-
+
+## 1. VV 27-40 describe the Kr^t^-JanmA^tami V’rata, popular all over
+
+India. Not merely the NP but other Puranas like Pd. P. III. Ch, 13, Mt.
+P. Ch. 56, AP Ch. 183 highly glorify this Vrata. In the Bhavifyottara P. 44. 1-60
+Krjna himself narrates this Vrata to Yudhisthira : Mediaeval writers on
+Dharma S^tra relying on Puranas, other than the Bhagavata, have discussed
+a great deal about the procedure etc. of performing this Vrata and brought
+in the Mimamsa and Astronomy in distinguishing between the JaiiTndf (ami
+and Jq^anti-Vratas. But that is academic. The NP gives the main features
+of fast, worship, Jdgara (remaining awake that night), though he does not
+mention the breaking of the fast. By the way, it may be noted that the
+Vardha Purdiia (46.14) records that K|-st>a was born on 12 th day in the
+bright half of A;adha.
+In passing, I may record a peculiar custom called Gopdta-Vdla or
+Dahi-hajidi in Maharashtra. It is based on the Bh. P. X. 5.15 where the
+cowherds expressed their delight (at the birth of Krsna) by sprinkling
+curds, ghee etc. on each other. On this occasion, people in Maharashtra
+hang up earthen pots full of curds, butter milk etc. and celebrate with
+songs etc. the birth of Kr?na and some one breaks the pots and people vie
+with each other to get themselves drenched in the curds etc. falling from
+the holes in the pots.
+
+
+IV.117.28b-39
+1473
+day of Hari, one is undoubtedly liberated from the sins of seven
+births.
+28b-31a. The devotee who observes fast shall take his
+bath with gingelly seeds mixed in the pure water of a river
+etc. The intelligent devotee shall make a mystic diagram on
+the platform erected in a good place. In its middle, a Kalala
+(vessel) made of copper or clay is placed. Over this vessel,
+another copper vessel is placed. Above this latter vessel,
+the auspicious golden image of Kpsna is placed and
+covered with two cloths. With a pure mind, he should then
+worship it with Padya and other Upacaras.
+3lb-34. In the eight quarters he should worship DevakI,
+Vasudeva, Yasoda, Nanda, Vraja (colony of the cowherds),
+cowherds, cowherdesses and cows. Arartika rite (waving
+of lights before the deity) is performed. Forgiveness is
+craved for, by bowing down with devotion. The devotee
+remains thus till midnight, when he bathes Hari with Paficamrta
+and pure water. He should again worship the Lord with
+scents and other things. He should then offer the following
+things as Naivedya in a silver vessel : viz. Coriander, barley,
+ginger, sugarcandy, and ghee. O Narada, these should be
+offered as Naivedya.
+
+## 35. After performing the Arartika (waving of lights in
+
+front of the deity) rite once again, he should think of the Lord
+as assuming ten different forms. He should then offer
+Arghya to the rising moon.
+
+## 36. After requesting the Lord of the Devas for forgive¬
+
+ness the observer of the holy rite should pass the rest of the
+night by reciting hymns from the Puranas and sing diverse
+songs in accompaniment of instrumental music.
+
+## 37. After the daybreak, he should feed eminent
+
+Brahmanas with sweet cooked rice. Delighted in his mind, he
+should offer Daksina and bid them farewell.
+
+## 38. Thereafter, he should give that image of Vi$nu to-
+
+the preceptor along with gold, cow and plot of land as well as
+monetary gifts. After bidding farewell to him, the devotee should
+partake of his food.
+
+## 39. After performing thus the holy rite, the man attains
+
+Goloka itself, in the company of his wife, children, friends
+
+
+1474
+Ndrada Purdna
+and servants. He goes there, seated in an excellent aerial
+chariot.
+
+## 40. In the whole of the three worlds, there is no other
+
+holy Vrata equal to this. By performing this, the •benefit of a
+erore of Ekadasi Vratas is acquired.
+41-43. On the eighth day in the bright half of the month
+of Nabhasya (Bhadrapada) a person should perform the holy
+rite of Radhavrata.^ As before, he should perform the worship
+of the gold image of Radha placed on the pot. At mid-day,
+after worshipping her, the devotee sliould take in a single meal.
+The devotee who is physically strong observes fast (for the
+complete day). On the next day, he feeds the Suvasinis in
+accordance with injunctions. He then oflers the image to
+the preceptor. He shall partake of his food and formally
+conclude Vrata.
+
+## 44. O Brahmana sage, if this holy rite is performed
+
+duly, the observer of Vrata obtains the esoteric secret of
+the Vraja (of Krsna’s time) and stays among the followers of
+Radha.
+45-46. The holy rite of Durvastami^ too is to be observed
+on this day. Listen to it from me. O excellent Brahmana, the
+Liiiga is to be placed on the Durva-grass growing in a pure
+and clean spot. He should then worship it with flowers, incense,
+scents, lights and Naivedyas, viz. curds, raw rice grains and fruits.
+At the end of Puja, he should, with great concentration,
+offer Arghya uttering the two Mantras.
+47-49a.* “O Durva grass, bowed to by the Devas
+and the Asuras, your birth is from nectar. Grant blessedness
+and line of children to me. Be a bestower of achievements of
+
+## 1. Pd. P. III. 7.21-23. It is performed on the 8th day in both
+
+the fortnights of Bhadrapada (HD. V-1. 392).
+
+## 2. VV. 25-52 describe the Durviftami Vrata associated with 3iva
+
+Lihga. Women and men of all castes are eligible for this. The SmTti Kaustubha
+228-230 and the Bhavifyottara P. 56 give another variety in which the
+DurvS-grass itself (unassociated with any deity like Siva or Ganeja) is the
+deity—that tenacity of the Durva grass for its spread and survival is prayed
+for the spread of one's own race. VV. 47-49a are repeated as the prayer to
+Durva-grass,
+
+
+IV.117,49b-58b
+1475
+my works. Just as you are spread over the ground with your
+branches and branchlets, so also grant me growing progeny
+that shall be immortal and unageing.”
+49b-50. The devotee then circumambulates it, feeds
+Brahmanas, gives Daksina to the Brahmanas, takes food himself
+and returns home. Alongwith the monetary gifts, he should
+give Brahmanas splendid, fragrant and sweet fruits.
+
+## 51. Thus, O Brahmana, the holy rite of DurvastamI is
+
+sacred and destructive of the sins of men of all the four castes
+and particularly of the woman folk.
+
+## 52. If any woman, out of delusion, does not worship
+
+Durva duly, undoubtedly she becomes a widow for three births.
+
+## 53. O Brahmana, if the Astami coincides with the
+
+constellation Jyestha, it should be known as Jyesthastami.^ If
+worshipped, it is destructive of sins.
+
+## 54. The holy rite of MahalaksmI begins on this day and
+
+lasts for sixteen days. It brings about all riches.
+
+## 55. “O Mahalaksmi, I am devoted to you and I shall
+
+perform your Vrata. Hence, thanks to your grace, may it come
+to a conclusion (May it be completed) without any impedi¬
+ment.”
+
+## 56. After saying this, the devotee twists round sixteen
+
+threads to form a string. He ties sixteen knots therein and ties
+the string round his right hand.
+
+## 57. The observer of the holy rite should worship Maha¬
+
+laksmi everyday, with scents and other things, upto the following
+Astami in the dark half.
+
+## 58a. On that day the intelligent devotee .'should perform
+
+the rite of Udyapana (concluding rite).
+
+## 58b. Under the canopy of cloth, the devotee makes the
+
+mystic diagram called Sarvatobhadra. The Kalasa (vessel) is
+installed thereon and a lamp is lit.
+
+## 1. VV. 53-74a describe Jytffhdffami Vrata which is in honour of
+
+goddess Lak;mi. The wearing of threads with sixteen knots is still popularly
+practised by women in Maharashtra, but not other details of gold images,
+Homa etc. VRJ. (pp. 135-156) gives the details of this Kra/a, Pujd and
+(concluding rite) on the basis of the Biiuii;tj[yottora P. vide HD. V.
+
+## 1 pp. 304 and 376.
+
+
+
+1476
+Ndrada PurS^
+59-62. He should take off strings from the arm and
+keep it below the water pot. Four images in the form of the
+deity are made in gold, and they are bathed in water and
+Paficamrta. After worshipping them in accordance with the
+injunctions, with the sixteen types of Upacaras, the devotee
+keeps awake till midnight, to the accompaniment of songs and
+instrumental music. At midnight, when the nectar-rayed moon
+rises, Arghya is offered to Mah^aksml stationed in the middle
+of the moon’s disc, in accordance with the injunctions, together
+with ^rikhanda (sandal) and other material. The string is also
+offered.
+[ The following Mantras are utterred ]
+
+## 63. “O Moon, born of the ocean of milk, brother of
+
+Mahalaksmi, O storehouse of nectar, accompanied by Rohin!»
+accept my Arghya.”
+
+## 64. “O Kamala, bom of the ocean of milk, a resident of
+
+the Lotus, resting on the chest of Vis^u, be the bestower of all
+the cherished desires on me.”
+
+## 65. “O gentle lady Renuka, O beloved wife ofjamadagni,
+
+O Mistress of the Universe, having only a single Lord, O
+unchanging one, O mother of Parasurama, do what is
+auspicious to me”.
+66-69. The devotee should pray to the goddess Mahala¬
+ksmi with the above Mantras. He should worship Brahmana
+women duly with scents, lac juice and collyrium and feed
+them. He should perform Homa oblating in the fire
+Bilva, lotus and milk puddings. If they are not available O
+Brahmana, homa is performed with ghee. For acquiring
+houses, homa is performed with sacrificial twigs or gingelly
+seeds. For conquering (i. e. averting) death and for
+subduing ailments the following articles are offered as
+gifts viz.—sandal paste, palmyra leaf, flower-garland, raw
+unbroken rice grains, Durva grass, thread with saffron
+applied, two coconuts and foodstuffs. The food-stuffs should
+be placed in a new winnowing basket. There must be sixteen
+of them in each item.
+70-71. The observer of the holy rite shall cover it with
+another winnowing basket and present it uttering the following
+
+
+rv. 117.7 2-81
+1477
+Mantra : —**May Lak^mi, bom of the ocean of milk, sister of
+the moon and the beloved wife of Vi?nu be pleased with this
+Vrata”. He (the person performing this Vrata) should
+dedicate the four gold images to the Brahmanas.
+
+## 72. Thereafter, with sweet ccoked rice he shall feed four
+
+Brahmanas and sixteen Suvasinis (married women whose
+husbands are alive). He should bid farewell to them giving
+them their due Daksinas.
+73-74. After concluding the observances, he should take
+food in the company of the affectionate ones. By performing
+this Vrata of Mahalak^mi, O Brahmana, in accordance, with
+the injunctions, one enjoys all worldly desirable pleasures and
+one shall live in the world of Laksmi for a long time. This is
+called Asokastami also, and in it the holy rite of Rama (l^ri)
+is complete.
+75-76a. On this day, the Asoka tree is worshipped and
+only a single meal is taken every day. By performing the A^oka
+Vrata, the lady, wherever she is born in this world of sorrow,
+becomes free from sorrow. No doubt need be entertained in
+this respect.
+76b-78a. O Brahmana, Mahastami^ is to be observed in
+the bright half of the month of Alvina.
+On that day, Durga is to be worshipped with all Upacaras.
+By observing fast or taking a single meal on the Mahastami
+day, the devotee attains all round affluence and rejoices like a
+god for a long time.
+78b-80. The holy rite of Karaka Vrata is to be observed
+in thedark half of the month of Karttika. On that day, ^ambhu
+accompanied by Uma is to be assiduously worshipped. Arghya
+is also to be always offered, at the time of the moon-rise, by the
+observers of the Vrata who wish for a son endowed with all
+good qualities or happiness of diverse kinds.
+80b-81. Gopa^tami rite is to be observed in the bright
+half of the month of Karttika. On that day, one shall perform
+I. VV. 76b-78a describe Mah&stanu, the 8th day of Navar&tra in
+As'vina 3u.
+
+
+1478
+Ndrada Purd^
+the worship of cows; fodder is offered to the cows, cows are
+circumambulated and followed. Cows are given as gifts by
+those who desire all riches.
+82-85. A special holy rite is performed on the eighth
+day in the dark half of the month of Marga^ir§a. Tlie image of
+a couple is made out ofDarbha grass. They are named Anagha
+and Anagha. They are accompanied by many sons, (images
+are made of these as well). On a spot scrubbed and cleaned
+with cow dung and made auspicious, the couple are placed
+and worshipped with scents, fragrant flowers, and diverse
+kinds of Upacaras. The devotee feeds a Brahmana couple and
+bids farewell to them after giving them Daksinas. A man
+or a woman can perform this holy rite. By performing it in
+accordance with the injunctions, he or she gets a son endowed
+with good characteristics. There is no doubt about this.
+86-87. On the eighth day in the bright half of the month
+of Margasirsa, the devotee observes fast in the presence of
+Kalabhairava. By doing so and keeping awake for that night,
+one is liberated from great sins. Whatever inauspicious sin has
+been committed by a person in his birth as a human being, is
+dissolved entirely by seeing Kalabhairava image;
+
+## 88. The holy rite of Sraddha called Astaka^ is to be
+
+observed on the eighth day in the dark half of the month of
+Pausa. It makes the Pitrs (manes) satisfied for a year. It in¬
+creases the line of children in the family.
+
+## 89. By worshipping §iva devotedly on the eighth day in
+
+the bright half of the month of Pausa, one attains worldly
+pleasures and liberation by acting in pursuance of his (unflin¬
+ching) devotion.
+
+## 90. On the eighth day in the dark half of the month of
+
+Magha, one should, with great devotion, worship Bhadrakall,
+the destroyer of the hosts of enemies, and the bestower of all
+cherished desires to her devotees.
+
+## 1. Although the NP. limited the term Affaka to the 8th day in
+
+Pau$a, the AivaUtyana Gr. 5. II. 4. 1. states that the 8th tithis in the dark
+halves of Hmanta and SiSira (i.e. the months of MSrgasir;a, Pau;a, Magha
+and Phalguna) are Affakd days.
+
+
+
+## IV. 117.91-99
+
+1479
+
+## 91. O Brahmana, one who wishes for an unbroken line
+
+of children and absence of defeat in battle, should propitiate
+Bhisma on the eighth day in the bright half of the month of
+Magha.
+
+## 92. O Brahmana, on the eighth day in the dark half of
+
+the month of Phalguna, one should worship goddess Bhima.
+For the achievement of all cherished desires, he should be
+devoted to the Vrata.
+
+## 93. O Brahmana, by worshipping properly with scents
+
+and other things, ^iva and Siva on the eighth day in the bright
+half of the month of Phalguna, one shall become the Lord of all
+Siddhis (Super-natural Powers.)
+
+## 94. One should worship goddess Sitala* on the eighth
+
+day in the second fortnight of the month of Phalguna, with all
+kinds of cooked food prepared duly on the previous Saptami
+(seventh) day.
+
+## 95. “O Sitala, you arc the mother of the Universe. O
+
+^^itala, )ou arc the father of the Universe. O Sitala, you arc
+the support and base of the Universe. Obeisance, to you,
+salutations to you, O Sitala.
+
+## 96. I bow down to goddess Sitala, who is seated on a
+
+donkey, is naked, holds the broom and the water pot and who
+destroys swellings.
+
+## 97. Goddess Sitala shall be the bestower of calmness
+
+and queller of swellings to those who stand in water and repeat
+the name “Sitala, Sitala”.
+
+## 98. O Brahmana, thanks to the grace of goddess l§iiala,
+
+he (thedevotee) shall be tranquil for a year;—he who worships
+Sitala by means of these Mantras of Sitala.
+
+## 99. By worshipping Siva and Siva on the eighth day in
+
+any of the halves and in any of the months, one attains the
+desired benefit.
+
+## 1. Sitali is the goddess of Small Pox. According to aminta reckon¬
+
+ing the ^iuddffaml is on Gaitra Kf. 8.
+
+
+1480
+Ndrada Purina
+
+## CHAPTER ONE HUNDRED AND EIGHTEEN
+
+The Exposition of the Vratas to be observed on Navami {ninth)
+day {in the lunar fortnight)
+
+## Sandtana said :
+
+
+## 1. O leading Brahmana, henceforth, I shall recount to
+
+you the Vratas to be observed on the Navami day (i.c. ninth
+day in the lunar fortnight). On performing these rites, people
+in the world attain the desired fruit.
+
+## 2. The holy rite of Sri Rama Navami^ is on the ninth
+
+day in the bright half of the month of Caitra. A devotee who
+is physically strong, should duly observe full fast on that day.
+
+## 3. If he is incapable physically (to observe full fast), he
+
+should take a single meal on that day after the midday
+festival. He shall propitiate Rama, by feeding the Brahmanas
+with sweet cooked rice.
+
+## 4-5a. By means of {gifts of) cows, plots of lands, gingel-
+
+ly seeds, gold etc, and by means (of gifts of) clothes and orna¬
+ments, Brahmanas should be propitiated. He who devoutly
+performs the holy rite of Sri Ramanavami shall shake off all his
+sins in this world and attain the region of Visnu.
+
+## 5b-7. The holy rite of Matrvrata is also to be observed
+
+on this same day. The Yoginis, sixtyfour in number, accompa¬
+nied by Bhairava, are to be propitiated by means of garlands,
+scents, clothes and Naivedyas. O prominent Brahmana, it was
+on this day that Bhadrakali was crowned in the chieftancy of
+all mothers. Hence, one should worship her by observing fast
+and controlling his sense-organs, on this day.
+
+## 8. He who worships Gan^ika on the ninth day in either
+
+of the fortnights of the month of Vaisakha, in accordance with
+the injunctions in the matter, rejoices alongwith the Devas.
+
+## 1. VV. 2-5a briefly state the outline of Rdmanavamt Vrata. We find
+
+its detailed description in works like VRJ. (pp. 149-154) where the dialogue
+of Sage Agasti and Sutiksqa (regarding the observance of this Vrata) from
+SK. P. is quoted. Hemadri’s mention of the Vrata (CC. Vrata I, pp. 951-46)
+shows that it was popular in Maharashtra before 12th Cent. A.D. at least.
+NP.’s cursory treatment shows that it was not attached much importance
+then, though Rdma-navamf is now a national festival.
+
+
+IV.l 18.9-20
+1481
+9-1 la. On the ninth day in the bright half of the month
+of Jyestha, the excellent man who observes fast, should worship
+Uma duly and feed virgins and Brahmanas in accordance with
+his ability. He should give them monetary gifts to the extent of
+his capacity. He should partake of only cooked Sali rice along-
+with milk. O Brahmana, the man who duly performs this Uma
+Vrata^ enjoys great pleasures in this world. In the end, he
+attains the goal of heaven.
+1 lb-12. (Defective) O chief of Brahmanas, he who per¬
+forms (the following) holy rite on the ninth day in either of
+the fortnights in the month of Asaejha and worships the fair-
+complexioned goddess Aindri riding the elephant Airavata and
+and partakes food only at night, shall become the enjoyer of
+pleasures in the world of the Devas. He will move about in the
+vehicle of the Devas or he will proceed along the path called
+Devayana.
+13-15. In the month of Sravana, O leading Brahmana,
+the devotee should take food only at night, or he shall observe
+fast for two fortnights and worship Kaumari Can<jika. He
+should worship the goddess, the remover of sins, by means of
+scents, fragrant flowers, incense, lights and diflPerent
+Naivedyas. He should feed virgins. He who performs the excel¬
+lent Kaumari Vrata- devotedly in this manner, shall go to the
+eternal world of the goddess by means of an aerial chariot.
+16-17a. The ninth day in the bright half of the month of
+Bhadrapada is glorified by the name of Nanda Navami. He who
+worships Durga duly with all Upacaras (articles of worship and
+other formalities) on that day, attains the benefit of a horse-
+sacrifice and is honoured in the world of Visnu.
+17b-20. The ninth day in the bright half of the month
+of Asvina is glorified by the name Mahanavami.* On this day,
+
+## 1. VV. 9-1 la describe a special Umd Vrata not recorded by Kane
+
+in HD V. 1.
+
+## 2. VV. 13-15 describe a special Kaumdrf Vrata with Ca^^ikd as the
+
+main deity. This is not noted by Kane in HD. V. i.
+
+## 3. W. 176-22 describe the MahS-navaml in honour of Durgi. As a
+
+part of Nava-rdtra or the Durgd pQjd festival, it is observed all over India.
+VRJ, p. 158 gives a detailed procedure on the basis of the Bhavigya,
+
+
+1482
+Ndrada Purdna
+O Brahmana, the worship of the Sami tree should be performed
+in the afternoon in the eastern quarter. Then, at night, in the
+first watch (Yama) =3 hours), the following (pertaining to the
+goddess) should be worshipped viz— sword, bow, arrpws, iron
+club, trident, javelin, axe, dagger, leathern shield, and umbrella,
+banner, elephant, horse, cow and bull, book, balance,
+baton, noose and discus and the conch. After worshipping a
+buffalo with scents and other articles of worship (Upacara), it
+should be chopped off and dedicated to Bhadrakali.
+
+## 21. After offering oblations and after partaking of
+
+only cooked rice, the devotee should give the monetary gifts to
+the Brahmana and formally conclude the Vrata.
+
+## 22. He who thus worships Durga, the destroyer of mise¬
+
+ries and sufferings of men, enjoys excellent worldly pleasures
+here and shall attain heavenly region in the end.
+
+## 23. The ninth day in the bright half of the month of
+
+Karitika is glorified as Aksaya Navami (everlasting Navami)
+On that day, the devotee should perform the rite of Tarpana
+at the roots of Asvattha (the holy fig tree).
+
+## 24. O Narada, with mantras special to his own branch
+
+of the Vedas, that Tarpana rite of the Devas, sages and Pitrs
+should be performed correctly. Then the devotee should offer
+Arghya to the sun.
+
+## 25. Then he should feed Brahmanas with sweet cooked
+
+rice. After taking his food and giving Daksina to the
+Brahmanas, he should rest and relax, O chief of sages.
+
+## 26. It is the word (precept) of Vidhi (god Brahma)
+
+that, if anyone performs Japa, Dana, worship of the Brah¬
+manas, Homa thus, everything of such acts shall be
+entirely everlasting.
+27-28a. The ninth day in the bright half of the month
+of Margaiirsa is glorified as NandinI (Navami). He who
+Viftfu-dharma P. and Vdr&hl Tantra. Kane notes more varieties and records a
+grant by King Pulakesin (early CSUikya dynasty) on Mah^-navami in
+Karitika (HD. V. i. pp. 373-74). In Maharaslitra we worship the Sami tree
+and all our implements on this day.
+
+
+IV.lI8.28b—119.1
+1488
+observes fast on that day and worships elaborately goddess
+Jagadamba (the mother of the Universe) with scents and other
+things, attains the benefit of a horse-sacrifice. There is no doubt
+in this respect.
+28b-29a. Tlie devotee should worship Mahamaya on the
+ninth day in the bright half of the month of Pausa. O
+Brahmana, that is conducive to the acquisition of the fruit of
+a Vajapeya-sacrifice provided he takes only a single meal
+every day.
+29b-31a. The ninth day in the bright half of the
+month of Magha is worshipped by the people. It is called
+Mahananda as it always causes delight to men. No doubt need
+be entertained in this respect that the holy bath, charitable gift,
+Japa, Homa, observance of fast, everything performed on that
+day has an everlasting benefit.
+
+## 31b. O excellent Brahmana, the ninth day in the bright
+
+fortnight of the month of Phalguna is of a highly meritorious
+nature. It is called Ananda.^ It is remembered as the remover
+of all sins. O excellent Brahmana, he who observes fast on that
+day and worships goddess Ananda attains all desired benefits.
+It is the I'ruth. It is the Truth that is spoken by me.
+
+## CHAPTER ONE HUNDRED AND NINETEEN
+
+The Holy rites to be observed on Daiami (i.e. tenth) days {in The
+Lunar fortnight)
+
+## Sanatana said :
+
+
+## 1. Henceforth, I shall recount to you the holy rites to
+
+be observed on Dasami (tenth) days (of lunar fortnights). On
+observing them devotedly, man becomes a favourite of
+Dharmaraja.
+
+## 1. It appears that some navemi Vratas are associated with inandd vide
+
+Nandini in Mirgailrfa, mahdnandd in Mdgha and Anandd in Phdlguna. The last
+is recorded as Anandd by Hemadri (Vrata I. 948-850). The procedure
+in the NP. is different from the one recorded by Kane (HD. V. i. P. 270).
+
+
+1484
+Ndrada PwSxja
+
+## 2. On the tenth day, in the bright half of the month of
+
+Gaitra, the devotee should worship Dharmaraja^ by means of
+the seasonal flowers and fruits plucked for tlie nonce, and scents
+and other things
+
+## 3. He should either observe fast or take a single meal
+
+per day. After feeding fourteen excellent Brahmanas, he should
+give them monetary gifts according to his capacity.
+
+## 4. O Brahmana, he who thus performs the worship of
+
+Dharmaraja, shall at the behest of Dharma, attain similarity
+with the Devas—a position from which he will not fall.
+
+## 5-6. On the tenth day in the bright half of the month of
+
+Vaisakha, aman should worship god Visnu with scents and other
+articles of worship and formalities) as well as with
+white fragrant flowers. He should make hundred circumambula-
+tions, (round Visnu’s shrine) and assiduously feed Brahmanas.
+He (thereby) attains to the world of Visnu (Visnuloka). No
+doubt need be entertained in this respect.
+
+## 7. It was on the tenth day in the bright half of the month
+
+of Jyestha that the Jahnavi (the river Gahga), the most excel¬
+lent of all the rivers, came to the Earth from the heaven.
+Hence, the day is remembered as the bcstower of merit.
+
+## 8-9. The month of Jyestha,* the bright fortnight, the
+
+constellation of Hasta, Wednesday, Dasami Tithi, the Gara
+(Karana), Ananda (Yoga) and Vyatipata, the moon in the
+Zodiac of Virgo and the sun in the Zodiac of Taurus—the
+combination of all these ten, O Brahmana, is regarded to be
+
+## 1. This and the next Vrata is not recorded in the VRJ. or
+
+
+## HD. V. 1.
+
+
+## 2. This astronomical combination constituting Dasahard is repeated
+
+
+## in theSk. P. as follows :
+
+jytfthe mdsi site pakfe daJlamyambudha-hastayor-
+garinande Vyatlpdte kanyd candre vjfe ravifi /
+daSqyoge narafi sndtvd sarva-papai^ pramucyate If
+Kane says that the Vtvdha P. accepts Tuesday instead of Wednesday
+(HD. V. i. P. 91) but the actual quotation ofVardha P. in the VKJ. p. 165,
+states that it was on Wednesday on 10th Jyeftha 9u. that the GaAg^
+
+
+
+## IV.119.10-19
+
+1485
+highly meritorious. It removes ten kinds of sins.^ Hence it is
+called Da^ahara.
+
+## 10. On this day if a delighted devotee takes his holy dip
+
+in the Jahnavi in accordance with the injunctions, he goes to
+Hari’s abode.
+
+## 11. The tenth day in the bright half of the month of
+
+Asadha is remembered by Manu and others as highly meri¬
+torious. Holy dip, Japa, charitable gift, or Homa on that day
+is the bestower of heavenly goal.
+
+## 12. The tenth day in the bright half of the month of
+
+8ravana is the bestower of the fulfilment of all hopes. The
+worship of Siva, with scents and other articles of worship on
+this day, is praiseworthy.
+
+## 13. Observance of fast, taking of food only at night,
+
+feeding of Brahmanas, Japa, the charitable gift of gold, cow,
+etc. performed on this day—all these are destructive of all sins.
+14-19. On the tenth day in the bright half of the month
+of Bhadrapada, O excellent Brahmana, the holy rite called
+Dasavatara^ (the ten incarnations) is to be observed. After
+descended from heaven. The NP. limits the merit of this Vrata to bath in
+the Ganga but the Nir^ya Sindhu (P. 98), on the authority of the SK.P.,
+extends the merit of Daiahara to both etc. in all big rivers. A festival of the-
+Gahga is celebrated in towns and villages in big rivers like the Krishna
+and the Godavari in Maharashtra, though not on that big scale as found at
+Haradwar, Prayaga or Varanasi.
+
+## 1. The other derivation of Dasahara is "that which washes off ten
+
+kinds of sins”. The ten kinds of sins are given in Manu XII. 5-7 as
+follows ;
+(1) Mental Sins : Coveting another man’s wealth, wishing evil to-
+befall others, entertaining heretical ideas,
+(2) Vocal Sins : harshness of speech, speaking the untruth, back-biting,
+irrclevent speecli.
+(3) Bodily Sins : misappropriation of another’s wealth, injury to living
+beings, illicit intercourse with another’s wife.
+This efficacy of Daiahard is endorsed in other Puraiias also; vide Br.
+P, 63. 15, Miriusyasindhu (p. 98) quotes the SK. P and Vardha P to the same
+effect. The VRJ. (pp. 166 ff) gives details of this Vrata.
+
+## 2. VV. 14-19 describe the Vrata in honour of the currently believed
+
+ten incarnations of Vi^iju. The inchuion of the Buddha and Kalki in the list
+is comparatively late when people forgot that the Buddha was the propagator
+of a non-Vedic faith.
+
+
+1486
+NSrada Purdna
+taking his bath in a water-reservoir (i.e. a tank, a river etc.) and
+performing Sandhya etc. and the rite of T^arpana to the Devas,
+sages and Pitrs, he should, with great concentration, worship
+ten incarnations (of Visnu) viz. Matsya (the Divine Fish),
+Kurma (the Divine Tortoise), Varaha (The boar), Narasiriiha
+{Man-lion), Trivikrama (the religious student Vamana),
+Parasu-Rama, SrI-Rama, Ktsna, Buddha, and Kalki. O
+Narada, he (the observer of the Vrata) should worship ten gold
+images (of these incarnations) in accordance with injunctions.
+He should then give them to ten excellent Brahmanas after duly
+honouring them. After observing fast or taking one meal (on
+that day), he should feed the Brahmanas. After bidding fare¬
+well to them, he should enjoy a meal with his friends and
+relatives. By performing this Vrata with devotion, he shall
+enjoy all excellent pleasures here. In the end he will go to the
+eternal Visnuloka, in aerial chariot.
+20-22. The tenth day in the bright half of the month
+of Asvina is glorified as Vijaya.^ In the morning the devotee
+places four cow-dung balls in the courtyard of the house in the
+form of the horizon (i.e. semicircle). In their midst he should
+worship the four warriors Rama, Laksmana, Bharata and
+Satrughna. Four vessels with lids are taken and smeared with
+cow-dung. Grains and silver coins are put therein and closed.
+They are covered with white silken cloth.
+Hemadri {Vrata I. 1158-61) instructs to begin this Vrata on 12th
+Mirgaifrfa ^u. \’RJ (P. 168) on the authority of the P,, gives a
+■dififerent procedure though the Trata commences on Bhddrapada Su, 10th and
+the Vrata is to be observed for 10 years.
+
+## 1. VV. 20-25a describe one variety of daiamf Vrata allied with
+
+Rama but not connected with his victory over Ravana which forms the basis
+•of the present Rdmalila festival. This variety is not recorded by Hemadri
+{Vrata 1. BlQ-Ti), Nirmya sindhu (PP. 69-70), VRJ. pp. 169-170 or by Kane
+(HD. V. i. pp. 188-194).
+The other variety in VV 25b-3Ia, which is to be observed by kings
+or noblemen for securing conquest on the enemies, has been current all over
+India in slightly different forms. The worship of the Sami tree, royal
+procession of elephants, horses etc., waving of lights {Nir&jana) after return
+from Sami-Pi\jana etc. have been the common features. The NP. does not
+include the worship of the goddess Aparajiti (recorded in Dhama-sindhu, pp.
+
+
+
+## IV. 119.23-33
+
+1487
+
+## 23. The devotee then worships them in accordance with
+
+the injunctions with scents, fragrant flowers, Naivedyas, etc.
+accompanied by father, mother, brothers, sons, wife and
+servants.
+24-25a. After paying obeisance he feeds the Brahmanas
+who are duly honoured. By performing this holy rite, the man
+remains happy throughout the year. O Brahmana, he shall
+decisively become flourishing in wealth and grains.
+25b-31a. (Another holy rite) On the previous Navami
+day the devotee goes to a l§aml tree and chants Mantras : On
+the afternoon of the Dasami day, O Brahmana, the devotee
+goes again to the Sami tree which is on the eastern side (of the
+village etc) and takes mud from the foot of tree. To the accom¬
+paniment of songs and instrumental music, he brings the mud
+to the house. He worships the clay in accordance with the
+injunctions and arranges his army. He goes out of the village
+by means of the eastern gate without any perturbation. He
+should get the image of the enemy prepared by means of
+leaves, etc, or mentally fancy the same. He should feel mental¬
+ly delighted that the deity will hit the enemy with an arrow
+that has its tail of gold. He should then return home at night.
+Or after making all these arrangements he should proceed
+against the enemy to curb him. O Brahmana, this Dasami rite,
+performed always in accordance with the injunctions, shall
+bestow wealth, victory, sons, cows, elephants, horses, goats and
+sheep in this world. O Narada, at death he attains heavenly
+world.
+31b-33. One should perform the holy rite of Sarvabhauma-
+Vrata^ (Vrata for Sovereignty over the world) on the tenth day
+96 ft) though some features in Hcmadri {Vrata I, pp. 970-971) such as
+despatching an arrow at the effigy of the enemy or imagining him to be
+facing oneself, are common.
+In Maharashtra probably due to scarcity of Sami trees, they worship
+the Aptd tree or its branch on the eastern outskirts of the village. Going out
+of the boundary of the village is the technical Simollanghana (crossing the
+boundary for “invading” the enemy). People return home in the evening
+and lights arc waved round the men. {Nlrdjana) by women in the house.
+They distribute the leaves of the Apia tree as ‘‘gold coins".
+
+## 1. VV. 31-47 describe the S&rvabhauma Vrata primarily meant for
+
+kings. A similar Vrata is given in the Vardha P. 63.1-6 and Vifttud/uurma
+
+
+1488
+Ndrada Purib^a
+in the bright half of the month of Karttika. The devotee cither
+observes complete fast or takes only one meal a day. At mid¬
+night, outside the house or the city he offers oblations in all
+the ten directions with Apupa (baked pie) etc. On a level spot
+of ground smeared with cowdung, he draws 'a mystic
+diagram of a lotus of eight petals. After worshipping Gane^
+and other deities he (wipes off sins) by means of these Mantras.
+
+## 34. May God Indra, the king of the Dcvas, the granter
+
+of all desired things, destroy the sin that is to my cast as a result
+of my own sinful actions.
+
+## 35. May God Vahni (fire) the king of all splcndours,the
+
+granter of all desired things quell the sin that is to my south¬
+east as a result of my own sinful actions.
+
+## 36. May Yama, the king ofPretas, ghosts, the bestower
+
+of all desired things annihilate the sin that is to my south as a
+result of my own actions.
+
+## 37. May Nirrti, the king of Raksasas, the bestower of all
+
+desired things, wipe off the sin that is to my southwest as a
+result of my own actions.
+
+## 38. May Varuna, the Lord of aquatic animals, the
+
+bestower of all desired things, destroy the sin that is to my west
+as a result of my own actions.
+
+## 39. May Vayu, the king of Maruts (gusts of wind), the
+
+bestower of all desired things eradicate the sin that is to my
+north-west as a result of my own actions.
+
+## 40. May Soma (Moon), the Lord of Rksas (constella¬
+
+tions) and Yaksas, the bestower of all desired things, quell the
+sin that is to my north as a result of my own actions.
+
+## 41. May IiJana, the lord of Bhutas (goblins), the granter
+
+of all desired things, quell the sin that is to my north-east, as a
+result of my own actions.
+
+## 42. May Brahma (the Lord of the Prajapatis), the
+
+granter of all desired things annihilate the sin that is above, as
+a result of (my own) actions.
+P. III. 164. 1 >7. The guardians of the quarters are at times identified with
+the protectors of the world!;. Manu V.96 mentions SQrya (the Sun) as the
+protector of the South-W'-^t instead of Nirfti in the NP.
+
+
+lV.121.43-51
+1489
+
+## 43. May Ananta, the king of serpents, the granter of all
+
+desired things, quell (he sin that is stationed below me as a result
+of my own actions.
+
+## 44. After offering oblations in the ten directions thus,
+
+with great concentration, he should alertly offer oblations to-
+Ksetrapala externally.
+
+## 45. After having completed the rites thus the intelligent
+
+devotee should spend the remaining part of the night in mainly
+auspicious songs, recitation of hymns, Japas etc.
+
+## 46. In the morning, he should take bath, worship
+
+guardians of the worlds (quarters), and honour and feed
+twelve Brahmanas. He should give them Daksina according to
+his ability.
+
+## 47. O Brahmana, after performing the holy rite thus, the
+
+royal devotee shall enjoy all auspicious worldly pleasures. After
+enjoying heavenly pleasures thereafter, for the duration of
+a Yuga, he will become an Emp>eror.
+
+## 48. On the tenth day in the bright half of the month
+
+of Margaslr^, the devotee should perform the holy rite of
+Arogyaka Vrata' (health-giving Vrata). He should worship
+ten Brahmanas with scents and other things and drink the
+water with which their feet have been washed.
+49-50a. After giving Dak$ina to them, he should bid
+them farewell. He should take only a single meal. O Brahmana,
+after performing this Vrata the devotee attains health in this
+world. Thanks to the grace of Dharma-Raja, he rejoices like a
+Deva in the heaven.
+50b-51. On the tenth day in the bright half of the month
+of Pau^a, he should worship Viive Devas.^ They are Kratu,
+
+## 1. This is a special variety of VreOa in the NP. Kane records a
+
+number of Arogya Vratas on different Tithis, but none of them prescribes the
+Ttrtha (water after washing the feet) ci Brihmai^as. Even the Vrata on the
+Daiami day prescribes the worship of goddess Lakfmi and Hari.
+
+## 2. These gods are supposed to be the sons of Viiad. The list of
+
+their names differs e.g. Apte*s SK. Diet. p. 523 and MWP. 992 give the
+
+## following list :
+
+Vasu, Satya, Kratu, Dakfa, K&la, KUUna, Dhfti, Kuru, Pururavas and
+Afidraoas-^the Ust four are not found in the NP.^list.
+
+
+1490
+N&rada Pmifya
+Dak^a, Vasus, Satya, Kala, Kama, Muni, Guru, Vipra and
+Ram. Keiava has identified himself with these in ten different
+ways.
+52-54. He should make effigies of Darbha gfass to re¬
+present them as seated in their seats or lying down. O Narada,
+he should worship them with scents, incense, lights and Nai-
+vedyas. After giving them Daksina separately, he should ritual-
+istically bid farewell to them. The gifts that had been offered
+to them should be given to excellent Brahmanas or to the
+preceptor. O Brahminical sage, the observer of the Vrata who
+performs the rite thus, taking in only one meal a day, shall be
+the enjoyer of pleasures of both the worlds.
+55-58a. On the tenth day in the bright half of the month
+of Magha, the devotee should observe fast and conquer his
+sense-organs. He should properly and completely worship the
+ten Devas called Angiras after making their images in gold. He
+shall worship them with scents and other Upacaras. They are—
+Atma, Ayus, Manas, Dak^a, Mada, Prana, Barhisman, Gavistha,
+Datta and Satya. O Narada, as their representatives ten
+Brahmanas are to be fed with sweet cooked rice. For the
+purpose of acquiring heavenly world, the devotee should
+give those Brahmanas the golden image.
+58b-62. On the tenth day in the bright half of the last
+month, the devotee should worship the fourteen Yamas. They
+are : Yama, Dharmaraja, Mrtyu, Antaka, Vaivasvata, Kala,
+Sarvabhutaksaya, Audumbara, Dadhna, Nila, Paramesthin,
+Vrkodara, Citra and Gitragupta. He should properly and
+correctly worship them with scents and other Upacaras. He
+shall perform Tarpana three times for each with hand¬
+ful of water mixed with gingelly seeds. O Narada, thereafter,
+with a copper vessel he should give Arghya to the sun with the
+mixture of red sandal, gingelly seeds, raw rice-grains and barley
+in the waters with the following mantra.
+
+## 63. “O sun of thousand rays, come O huge mass of
+
+splendour, O Lord of the Universe, accept the Arghya given by
+me with devotion. Take pity on me.”
+64-66. The devotee should offer Arghya by uttering the
+above Mantra. He should feed the fourteen Brahmanas and
+
+
+
+## IV.119.66—120.4
+
+1491
+give them silver coins as Dak9i9&. After bidding farewell to
+them, he should partake of his own food. O Brahma^w, the
+devotee who performs the holy rite thus, enjoys ail worldly
+pleasures, inaccessible to the Devas, such a$ sons and riches. At
+the death of his body, he occupies excellent aerial chariot and
+attains to Vi^nu’s Loka.
+
+## CHAPTER ONE HUNDRED AND TWENTY
+
+The exposition of the Vralas to he observed
+on EkddaSi {eleventh) days^ {of the lunar fortnight)
+
+## San&tanasaid :
+
+
+## 1-4. On the eleventh day in cither of the fortnights of
+
+(any month), O sage, the devotee must desist from taking food.
+
+## 1. The NP. being a Vaisnava Purapa gives full details of Ekadasi
+
+Vrata. It has devoted the whole of Uttarirdha in glorihcation of this
+Vrata.
+The NP. follows POrvirndiUa reckoning. Hence the Ekadaii in the dark
+half is treated first. It is not known why Cailra Ek&daSis should be an
+exception and why Ekidati in Gaitra ^u. and Kr are so much bifurcated
+{Caitra Su in VV 5-8a and Caitra Kr in VV 80-82)
+The following is the Tabular statement of Ekadasis and the month
+and fortnight for their performance. The difference of name in the list in
+HDV. i P. 108 Note 278 is noted in the bracket.
+N. of the lunar Fortnight and jV. of the EkddaSi Vrata
+month
+
+## 1. Caitra iSu.
+
+
+## 2. Kr.
+
+
+## 3. Vaifakha Su.
+
+
+## 4. „ Kr.
+
+
+## 5. Jyeytha Su.
+
+Kamada
+Papamocani (VarOtfaSni)
+Mohini
+Varuthini (Apari)
+Nirjala
+
+## 6. Kr
+
+
+## 7. AfUdhft
+
+
+## 8. „ Kr.
+
+
+## 9. Sravana Su.
+
+»o. „ Kr.
+Apara (Yogini)
+^yani
+Yogini (KAmika or KAmadA}
+Putrada
+KamikA (AjA)
+
+
+1492
+Nirada Purdjfa
+With great concentration, he must construct an auspicious
+pavilion decorated with flowers of various kinds exquisitely.
+After taking bath perfectly in accordance with the injunctions,
+he should observe fast and conquer his sense-organs. With
+faith and great concentration he should duly wor^ip Visnu
+with various Upac^as, Japas, Homas and circumambu-
+lations. He should also recite different hymns in prayer to
+the Lord, along^ith songs and instrumental music that captivate
+the mind. He should glorify the Lord with charming shouts of
+Jaya (Be victorious). He should prostrate on the ground like a
+long staff. He should keep awake during the night. (By carrying
+out all these instructions) he attains the great region of Visnu.
+
+## 5-8a. On the eleventh day in the bright half of the month
+
+of Gaitra, the excellent man should observe fast and maintain
+these observances mentioned hereinafter for these days (the
+previous and the subsequent days included i.e. the 10th, 11th
++ 12th Tithis). On the Dvadali (twelfth) day, he should
+devotedly worship the eternal V^udeva with all the sixteen
+Upacaras.
+Then, he should feed his kinsmen. * After giving Dak§ina
+
+## 11. BhUdrapada $u.
+
+
+## 12. „ Kr.
+
+
+## 13. Aivina 8u.
+
+
+## 14. „ Kr.
+
+
+## 15. Karttika l§u.
+
+
+## 16. „ Kr.
+
+
+## 17. MArga^rfaSu.
+
+
+## 18. „ Kr.
+
+
+## 19. Pau^a Su.
+
+
+## 20. „ Kr.
+
+
+## 21. Migha Su.
+
+
+## 22. „ Kr.
+
+
+## 23. Philguna Su.
+
+
+## 24. .. Kr.
+
+Padma (Parivartini)
+Aja (Indiril)
+Pap^kuja
+Indira (Rami)
+Prabodhinl
+Rami (Utpatti)
+Mok$& (Mokfa^)
+Utpanni (Saphali)
+Putrada
+Saphala ($at-til3,)
+JayS
+$at-tiU (Vijayi)
+Amalak!
+Vijayd (PSpa-mocani)
+W. 1*4 give general instructions on the common ritual in the
+ISkadaH Vratas.
+*The wording in the next line shows that here the read^ should have
+been BrShmofin instead oS hdn^taoan. If the reading be Piffbaia it will do
+as Fiil(toiaasa Brikhmapa.
+
+
+IV.120.8b-16
+1493
+to them he should bid farewell to them and take food himself.
+This holy Ekada^ Vrata is called KamadS (the granter of
+desires). It destroys all sins. O Brahmana, if observed
+properly and perfectly, it yields worldly pleasures and salvation.
+8b-10. On the eleventh day in the dark half of the month
+of Vai^akha, a person should observe, with all formalities (of
+this Vrata), fast on this Varuthini (name of this Ekada§I.) (J)n
+the next day, he should worship Madhusudana. The charitable
+gift of gold, cooked food, cow and virgin on this day is highly
+commendable. By performing the holy Vrata of Varuthini
+(Ekadaii), the man devoted to the regular requisite observances
+is liberated from all sins. He attains the region of Visnu.
+ll-12a. On the eleventh day in the bright half of the
+month of Vai^akha, the devotee observes fast on this Mohini
+Ekada^I. On the next day, he takes his bath and worships
+Purusottama with scents and other things. By feeding
+Brahmanas, (thereafter), he shall undoubtedly be liberated from
+sins.
+12b-14a. On the eleventh day in the dark half of the
+month of Jyestha (which is called Apara,^ he should observe
+fast of the Apara Ekada^i, O king,* on the DvadaSi day, he
+performs the daily prescribed (Nitya) rites and worships
+Trivikrama. Thereafter, feeding prominent Br^manas and
+giving them Daksina, he becomes liberated from all sins and
+goes to Visnu’s Region (Vaikuntha).
+14b-16. On the eleventh day in the bright half of the
+month of Jyestha, the holy rite ofNirjala (Abstention from
+water) Ekada^I is observed. O excellent Brahmana, from the
+sun-rise to sunrise (i. e. through-out the Ekadasi day) (not even
+water is to be taken in). On the twelfth day in the morning,
+he performs the prescribed daily routine rites and worships
+Hrsike^a with all the Upacaras; (thereafter) he feeds
+
+## 1. As Apari is the name of Ekada» which follows Mohin!
+
+(HD VI. 1 p. 108 Ft. note 278), the reading in this verse should have been
+Samupofydpardm instead of Samupofya pavdan\ Here par&m is meaningless and
+syntactically imrelated to any substantive.
+
+## 2. This is an obvious quotation, as the epithet }(xpa is not appli¬
+
+cable to N&rada
+
+
+1494
+Xdrada PurSrfa
+Brahmanaiij with devotion. By observing this holy rite, the
+devotee attains the benefit of twcntyfour (Ordinary)
+Ekadalis.
+17-18. On the eleventh day in the dark half of the month
+of A^<^ha, the devotee observes the fast of Yogini Ekada^i. On
+the twelfth day, he performs his daily rites and worships
+Naraya^. Then, he feeds leading Brahmanas and offers Daksina
+to them. He attains the benefit of all charitable gifts and
+rejoices in the abode of Visnu.
+19-24. Listen to the injunctions regarding the holy rite
+on the eleventh day in the bright half of the month of Asa<Jha.^
+The devotee observes fast on that day in accordance with the
+injunctions. He should instal the image of Visnu made of gold
+or silver, on an auspicious pavilion. The image should be of
+exquisite workmanship, with the four hands shining with conch,
+discus, iron club and the lotus. A yellow silk-cloth should be
+wound round the image. O Brahmana, the image should be
+placed on a couch neatly covered with (silk) cloth. Uttering
+the Mantras he should bathe the Lord with Paftcamfta and
+pure water. The hymn ‘Purusa Sukta’ (RV. X. 90) is recited.
+The Upacaras (articles and modes or details of worship)
+begin with Padya (offering of water to wash the feet of
+the Lord) and end with Nirajana (waving of lights in front
+of the Lord’s image). Then he prays to Hari as follows “O
+Lord of the Universe, if you are asleep, this Universe too shall
+be asleep. When you wake up, the entire Universe consisting
+
+## 1. For the detailed discussion of the Vrata vide HD. V. 109-112.
+
+The details of this Vrata given in NP. (VV. 19-27) are rather different from
+these in HD (ibid).
+I doubt the Indo-European origin of this Sayani Vrata for lack of evidence
+in comparative mythology. Kane's other theory viz. the monsoons causing
+paralysis of activities, journey etc. is more plausible.
+In Maharashtra, this is treated as a Mahd-ekddaSi and perhaps the
+biggest pilgrimage is held at Pandharpur on this occasion. One wonders why
+*farmers who are normally very busy at this time of the year, leave aside
+their agricultural activities and gather at Pandharpur. Is it a continuation
+Q^luch gathering since the days of food-gathering economy ?
+
+## 2. This verse (No. 23) is probably a quotatiem as we find it quoted
+
+in the Dharma Sindhu (P. 53) and Ninfaj>a Sindhu (P. 102)
+
+
+IV. 120.25-3 la
+1495
+of the mobile and immobile being wakes up.’* After
+praying thus in the presence of the Lord, the devout man
+should adopt regulations (or Vratas) laid down for
+observance during the period of the Gaturmasya. He should
+adopt them to the extent of his capacity.
+25-26. On the morning of the Dvadasi day, he should
+worship Sesasayin (Lord Visnu reposing on the couch of the
+body of iSesa) with all the sixteen types of Upacaras. He should
+then feed the Brahmanas and propitiate them with Daksinas.
+After that he should take food silently. From that time on¬
+wards, O leading Brahmana, he should worship the Lord with
+scents and other things every day.
+
+## 27. By performing this holy rite of “Sayani-Vrata” of
+
+the Lord duly, O Brahmana, the man enjoys worldly pleasures
+and Salvations, thanks to the grace of Visnu.
+28-3la. O excellent Brahmana, the excellent man per¬
+forms the holy rite of ‘Kamika’ (also known as Kamada) on
+the eleventh day in the dark half of the month of Sravana
+alongwith due observances. On the twelfth day, after per¬
+forming the daily routine rites, he worships l^ridhara, Hari,
+with all the sixteen Upacaras.^ He then feeds Brahmanas,
+gives them Daksina and bids them farewell. Thereafter,
+he takes his food alongwith the kinsmen. O Brahmana, he who
+thus performs the excellent Kamika (Ekadaii) Vrata obtains
+
+## 1. The NP. constantly refers to sixteen Upac&ras. They are as
+
+follows : dvdhana (invitation), dsana (offering a seat), Pdtfya (water for
+washing feet), arghya (respectful offering of water with or without grains of
+rice, durva grass, flowers mixed in it), dcamanlya (offering spoonfuls of water
+for sipping), sndna {bath), vastra (cloth), yajflopavlta (the sacred thread).
+amdtpana or gandha (sandal paste or some fragrant paste), pufpa (decoration
+with flowers) dhupa (burning of incense), dxpa (waving of light), naivedya
+(offering of eatables, food) tdmbula (offering betel-leaves, just after dinner or
+naioedya), dakfipd (religious fee or monetary gift), pradakflpd (clockwise
+circumambulation).
+Many of these were current in Vedic times for receiving guests and
+pitrs at the time of Srdddha and these were extended to images when idol-
+worship came in vogue. It is a superstition to attribute all these to Dravidians
+(For details vide HD. V. i PP. 33-39).
+
+
+1496
+NUrada PutStm
+all the cherished desires in this world and attains the greatest
+region of Visnu. '
+31b-33. On the eleventh day in the bright half of the
+month of Sravana, the devotee performs the holy rite of
+“Pavitra* (prob. an alternative name for Putrada) Ekada^i”
+On the DvadasI day, he should worship Janardana strictly
+adhering to the rules, with all the sixteen Upacaras. Thereafter,
+he feeds Brahmanas and gives them Daksinas. He obtains
+a son endowed with good qualities and then attains Visnu’s
+region. He will be bowed to by all Devas.
+34-36a. On the eleventh day in tbe dark half of the
+month of Bhadrapada, the devotee observes fast of the holy
+rite named ‘Aja-Ekadasi’. On the Dvadasi day, he should
+worship Upendra with various Upacaras, He should
+feed Brahmanas with sweet cooked rice and bid farewell to
+them after giving them Daksina. O Brahmana, he who
+observes the holy rite in this way with great concentration and
+devotion to Aja, enjoys all worldly pleasures. In the end he
+attains the abode of Visnu.
+36b-41a. The devotee has to perform the holy rite of
+PadmWrata* (Ekadasi fast called Padma) on the eleventh
+day in the bright half of the month of Bhadrapada, After
+finishing the daily worship, he should perform the rite of
+KoUdana (giving of a crore of things). O excellent Brahmana,
+the image installed before is worshipped with great festivities.
+The image is taken to the water-reservoir and is touched with
+water and is then worshipped in accordance with the injunctions.
+It is then brought to the platform and laid to rest on the left
+side. On the morning of the Dvadasi day, he worships Vamana
+with scents and other things. The Brahmanas are fed, given
+Daksinaa and bidden farewell to. O Brahmana, he who
+•It is also called Parivartini sl% Lord Vi?nu is supposed to have turned
+on one side during his sleep on this day. (Kane—HD V. I. 109). The NP.
+subscribes to this supposition as v. 39a instructs that the image of Vi?pu
+should be laid to rest on the left side.
+
+
+IV. 120.41 b-56a
+1497
+performs the excellent holy rite of Padmavrata thus, enjoys all
+worldly pleasures. In the end he attains release from Sariisara.
+4lb-44. The devotee performs the holy Ekada^i rite
+called Indira, on the eleventh day in the dark half of the
+month of Alvina. He observes fast and at midday, he performs
+Sraddha rite in front of a l^aligrama stone. O Brahmana, this is
+highly pleasing to Visnu. On the next morning of Hari’s day,
+the intelligent devotee worships Padmanabha and feeds
+Brahmanas. After giving them Daksina, he bids farewell to
+them and takes food himself. The man who performs the holy
+rite thus, enjoys all desired worldly pleasures and uplifts a crore
+of his ancestors. In the end he goes to Visnu’s abode.
+45-47. O Brahmana, the devotee observes the holy rite
+called ‘Pasahkusa’, on the eleventh day in the bright half of
+the month of Asvina. After observing fast on this day, he should
+worship Visnu on the day of Visnu (i.c. Dvadasi day). He
+then feeds prominent Brahmanas, gives them Daksina and
+after bowing to them devotedly, he bids farewell to them.
+Thereafter, he takes food himself. The man who performs the
+holy rite of Pasankusa Vrata thus with devotion, enjoys excellent
+worldly pleasures and attains the Saloka Mukti i.e. residence
+in the same region as that of Visnu.
+48-50. O excellent Brahmana, the devotee performs the
+holy rite of Rama Ekadasi on the eleventh day in the dark half
+of the month of Karttika. After duly observing fast on that day,
+he worships Kesava on the morning of Dvadasi day. He
+worships Kesava, the eternal Lord of the Devas, the destroyer of
+Ke^in. He should then feed Biahmanas and bid farewell to them
+after Daksina has been given. O Brahmana, he who performs
+the holy rites thus, enjoys all desired pleasures here. He attains
+to the presence of Ramapati (Visnu) by means of an aerial
+chariot ! (This is known as samipata Mukti).
+51 -56a. On the eleventh day in the bright half of the
+month of Karttika, the devotee observes the fast of Prabodhini
+Ekadali. At night, the devotee wakens up the sleeping Kesava
+(Visnu) with auspicious songs, with Rk, Yajus and Saman
+Mantras and with various kinds of instrumental music. He
+propitiates the Lord presenting him grapes, sugarcane,
+
+
+1498
+Mirada Purina
+pome^anate and other fhiits and the plants of banana
+and Snigataka (Trapa Bispinosa etc). After the night
+is over, on the next day, he takes bath and performs
+his daily routine. He should then worship Gadadamodara
+with all the sixteen Upacaras and with the recital of the
+Puru^ukta. After feeding Brahmanas and giving themDaksinas
+to their satisfaction, he should bid farewell to them. He shall
+give that gold image to the preceptor alongwith a cow. He who
+respectfully performs this Bodhini Vrata with devotion, enjoys
+all worldly pleasures and attains the region of Visnu.
+56b-59a. On the eleventh day in the dark half of the
+month of Margasirsa, the devotee observes fast of Utpanna (or
+Utpatti) Ekadasi. On the Dvadasi day, he should worship Lord
+Krsna with scents and other requisites of services or upacaras.
+He then feeds leading Brahmanas and gives them Daksinas,
+After bidding them farewell, he should take food himself along¬
+with friends and kinsmen. He who performs the Utpanna (or
+Utpatti) Ekadasi Vrata with devotion, rides an aerial chariot
+and attains the region of Visnu.
+59b-62a. On the eleventh day in the bright half of the
+month of Margasirsa, the devotee observes the holy rite of
+Moksa (Moksada) Ekadasi by fasting. On the Dvadasi day, in
+the morning, he worships Ananta who is the embodiment of
+the Universe, with all the Upacaras. The Brahmana devotee
+then feeds the Brahmanas. He bids farewell to them after giving
+them Daksina. He then takes food alongwith the kinsmen. O
+Brahmana, by performing this Vrata, he enjoys all the desired
+worldly pleasures. He uplifts ten generations of his ancestors
+and ten generations of successors. He then attains Hari.
+62b-64a. On the eleventh day in the dark half of the
+month of Pausa, the devotee observes the holy Saphala Ekadasi
+rite. On the Dvadasi day, he worships Acyuta with all Upaca¬
+ras. After feeding Brahmanas with sweet-meats and giving them
+Daksinas, he bids them farewell. O Brahmana, after perform¬
+ing the Saphala Ekadail Vrata thus in accordance with the in-
+jimctions, he enjoys all worldly pleasures here (in this world).
+In the end, he goes to the region of Visnu.
+64b-67a. On the eleventh day in the bright half of the
+month of Pausa, the devotee observes the holy rite of Putrada
+
+
+IV.120.67b-76
+1499
+Ekadalt On the Dvadaii day, he should worship the discus-armed
+Lord with Arghya and other Upacaras. Thereafter, he should feed
+leading Brahmanas. After giving them Dak^ina, he should bid
+farewell to them and eat the cooked rice left over, alongwith his
+loving kinsmen. O Brahmana, he who performs the holy rite
+thus, enjoys all desired pleasures, in the end; he rides in an aerial
+car and goes to Hari’s abode (Vaikuntha).
+67b-70. On the eleventh day in the dark half of the
+month of Magha, the devotee obscr/es the holy rite of §attiia
+Ekada^L He takes bath with gingelly seeds; he makes gift of
+them; he uses them in the Tarpana rite; he performs Homa
+with them; he eats them and he worships with them on the
+morning of the Dvada^i day. After perfectly worshipping Vai¬
+kuntha (Visnu) with all the Upacaras, he feeds the Brahmanas.
+Then he bids farewell to them, after Daksina has been
+duly paid, O Brahmana, by performing the holy rite, thus in
+accordance with the injunctions, the devotee, with great concen¬
+tration, enjoys all desired pleasures here. In the end he attains
+Visnu’s region.
+71-73. On the eleventh day in the bright half of the
+month of Magha, the devotee observes the holy rite of Jaya
+Ekada^L On the day of Hari, in the morning, O Brahmana, he
+should worship Purusa, the Lord of Sri. After feeding, giving
+Daksina and bidding farewell to the Brahmanas, he should
+take in the food left over by them alongwith his kinsmen. He
+should be pure, in mind and body. O Brahmana, he who thus
+performs the holy rite that propitiates KeiJava, enjoys excellent
+pleasures here. In the end, he shall attain the region of Visnu.
+74-76. On the eleventh day in the dark half of the month
+of Phalguna, the devotee observes the holy rite of Vijaya
+Ekada^i. On the Dvada^I day, in the morning, he worships
+Yogisa (the Lord of Yogins) with scents and other things. He
+feeds Brahmanas and gives them Daksinas to their satisfaction.
+After bidding them farewell he should himself silendy take
+food in the company of his kinsmen ^ The man who performs
+the holy rite thus, enjoys the desired pleasures. After
+death, he goes to Vi^iju’s region. He is well honoured by
+the Devas.
+
+
+1500
+Ndrada Purdnia
+77-79. O excellent Brahmana, on the eleventh day in
+the bright half of the month of Phalguna^ the devotee* observes
+the holy rite of Amalaki Ekadaii. On the Dvada^i day, in the
+morning, he should worship Pundarikaksa with all Upacaras.
+With excellent cooked food, he should feed the Brahmanas and
+give them Daksina. By performing worship etc. duly on the
+eleventh day in the bright half of the month of Phalguna, that
+is called Amalaki Ekada^i, the devotee attains the greatest
+region ofVisnu.
+80-82. The eleven th day in the dark half of the month
+of Gaitra is called Papamocanika (that which releases one from
+sins). Having observed fast on that day, the devotee worships
+Govinda in the morning on the Dvada^i day, with all the six¬
+teen Upacaras. He should feed the Brahmanas, give them
+Daksina and bid them farewell. Then he should take food
+alongwith his kinsmen. O Brahmana, he who thus performs the
+holy rite of Papamocanika Vrata attains the world of Visnu by
+means of a shining aerial chariot.
+
+## 83. O Brahmana, thus the salvation-yielding holy rites
+
+on the Ekadasi days in both bright and dark halves (of all the
+months) have been extolled to you. There is no doubt at all
+in this (that they are conducive to the attainment of salvation).
+
+## 84. Since this Vrata is to be observed for three consecu¬
+
+tive days, it is glorified as the most excellent of all the Vratas.
+Hence, it must be known as highly fruitful.
+
+## 85. O Narada, the devotee should miss four meals in the
+
+course of these three days. On the first day and the third (i.e.
+on Dasami and DvadasI days) he shall miss one meal each (in
+the evening). On the day in the middle (i.e. Ekadaii day) he
+should miss both the meals.
+86-90. Now, I shall recount to you the restraints in regard
+to this Vrata in the course of these three days.' A true devotee
+
+## 1. VV. 86-90 lay down the restraints and rules to be observed on
+
+the three days of Ekidail Vrata. It is noteworthy that the number of
+restraints to be observed is the same as the number of Tithi. Thirteen
+restraints are prescribed for the Daiamlday (The 10th Tithi), eleven ones for
+the Ekadail day, and twelve for the DvddaSl day.
+
+
+IV.120.91—121.10a
+1501
+Visnu should always avoid ten things on the Dalami day :—
+Bell metal vessel, meat, cooked lentil, Bengal gram, Kodrava
+grains, greens, wine, food at others’ houses, the second meal and
+sexual intercourse.
+He should avoid these eleven things on the Ekada^i day :•
+gambling, sleep, chewing the betal leaves, washing the teeth,
+slandering, backbiting, stealing, injury to others, sexual inter¬
+course, anger and telling lies. He should eschew the following
+twelve on the Dvadas! day:— Bell metal vessel, meat, wine,
+honey, oil, conversation with outcaste people who remove ordure,
+physical exercises, journey, second meal, sexual intercourse,
+touching the untouchables and cooked lentil.
+91-92. A Brahmana should observe fast with due obser¬
+vances of all the restraints, if he is physically compietent.
+Otherwise, the intelligent devotee should take a single meal.
+He should not take food during the night, or he should perform
+the rite of Ayacitavrata (i.e. taking in what is not begged for).
+On no account should he miss such a Vrata as this.
+
+## CHAPTER ONE HUNDRED AND TWENTY ONE
+
+The holy rites to be observed on DoddaH {Twelfth)
+deys {in a lunar fortnight)
+
+## Sandtana said :
+
+
+## 1. Henceforth, O sinless one, I shall recount to you the
+
+holy rites to be olnerved on Dvadaii (twelfth) days (in a lunar
+fortnight). On observing these Vratas, in this world a man
+becomes more beloved of Vi^nu.
+2-lOa On the twelfth day in the bright half of the month
+of Gaitra, the devotee should perform the holy rite of Madana-
+vrata.^ A pot with no cracks, filled with white raw rice grains
+
+## 1. W. 2-10 describe the Mttinne ieOdaSi Vrabi. This is recorded by
+
+HemSdri (vreto I 1194-98} and VKJ. P. 230.
+
+
+1502
+Nirada Purdna
+is placed. Different kinds of fruits are placed nearby with
+stumps ofsugafeane plants. White sandal ^paste is applied over
+the pot and it is covered with two white clothes. Various dishes
+of foodstuffs are also kept nearby and gold according to one’s
+ability is also placed at its side. A copper vessel containing jag¬
+gery should be placed above the pot. It is there that Lord
+Acyuta in the form of Kama is worshipped with scents and
+other Upacaras. The devotee observes fast. On the next day in
+the morning, he should honour a'Brahmana and give all these
+things to him. He should feed and give Daksina to the Brahma-
+nas. After observing this Vrata thus for a year, the devotee
+should give the preceptor a bed accompanied by all the requi-^
+site adjuncts, together with ghee and a cow. A Brahmana
+couple should be worshipped, and presented with a gold image
+of Kamadeva alongwith a white milch cow and garments.
+While giving the charitable gifts he should utter : “May Hari
+in the form of Kama be pleased”. He who observes Madana
+DvadasI Vrata thus, becomes liberated from all sins. He attains
+equality with Hari.
+
+## 10b. It is on this very same day that Bhartr-Dvadasika
+
+Vrata is also observed.
+11-14. A bed is made with clean bed-sheets spread over
+it. A gold image of Hari accompanied by l^ri is placed over it.
+A pavilion is made of flowers over it. The observer of the
+Vrata worships the deity with scents and other things. He keeps
+awake at night by means of holy dances, songs, and instrumen¬
+tal music. On the next day, in the morning, he should gift away
+the gold image of Srihari alongwith the bed to a Prominent
+Brahmana. He should feed the Brahmarias and give them Dak-
+sin^ to their satisfaction. The married life of the person who
+performs the holy rite thus, becomes stable. He enjoys worldly
+pleasures in the course of seven births as well as the pleasures
+desired in both the worlds.
+15-16. On the twelfth day in the bright half of the month
+of Vai^kha, the devotee should observe fast and subdue
+his sense organs. With great devotion, he worships Madhava
+with scents and other Upacaras. He should duly present sweet-
+cooked rice to a Brahmana fill he is satisfied, along with a
+water-pot saying “May Madhava be pleased”.
+
+
+IV.121.17-35a
+1503
+17-19a. On the twelfth day in the bright half of the
+month of Jyesfha, the observer of the holy rite should worship
+Trivikrama with scents and other things. Then he should present
+Brahmana with a bowl containing sweet cooked rice. There¬
+after, he should take in a single meal (i.e. once in a day).
+Trivikrama, the Lord of the Devas, becomes pleased with this
+Vrata. O Narada, he will grant him extensive pleasures and
+salvation in the end.
+19b-21a. The devotee should feed twelve Brahmanas on
+he twelfth day in the bright half of the month of Asadha with
+sweet cooked rice. He should worship them severally with
+scents and other things in due order. Saying “May Lord
+Visnu be pleased with me’', he should devoutly give them the
+following things as gifts—garments, staff, sacred thread, ridges,
+and vessels.
+21b-23a On the twelfth day in the bright half of the
+month of l^ravana, the observer of holy rite should worship
+Sridhara with scents and other things. He should feed
+excellent Brahmanas with cooked rice in curds, and give them
+silver coins for Dak^ina. After bowing to them, he should
+bid them farewell saying, : “May Sridhara, the Lord of
+Devas, be pleased with this Vrata.’*
+23b-24. On the twelfth day in the bright half of the
+month of Bhadrapada, the observer of the holy rite should wor¬
+ship Vamana and in his presence feed twelve Brahmanas with
+milk puddings. By giving gold as Dak§ina, he delights Visnu.
+25-27a. On the twelfth day in the bright half of the
+month of Aivina, the devotee should worship Padmanabha
+with scents and other Upacaras. After that in the presence
+of the Lord, he should feed the Brahmanas with sweet cooked
+rice. He should present Dak^ina consisting of gold and (sup¬
+plement it) with clothes. O excellent Brahmana, satisfied with
+this Vrata, Padmanabha grants him the boon of going to
+^vetadvipa and the desired bodily pleasures.
+27b-35a. On the twelfth day in the dark half of the month
+of Karttika the devotee performs the holy rite of Govatsa-Dvada^i
+Vrata^ (the holy rite of cow and its calf). With fragrant sandal
+I. W. 276-35a dacribe a variety of Pro/a different from the one
+recorded in HD, V. i i.e. in the Bhavifya P. or Hemadri (Vrata 1. 1083-84).
+
+
+1504
+Ndrada Purina
+paste and other things, the devotee draws the figure of a cow
+alongwith her calf. He then worships it with flower garlands.
+With flowers, raw rice-grains and gingelly seeds he prepares the
+Arghya in a copper vessel in accordance with the injunctions, O
+Narada, the devotee should offer the Arghya at the feet of the
+cow uttering the following Mantra : “O Mother, O Mother of
+cows, born of the milk-ocean, bowed to by Devas and Asuras, O
+Goddess identical with the Devas, decorated by all the Devas,
+kindly accept the Arghya. Obeisance be to you”. Then he should
+offer Vatakas (pies) prepared from black gram and other pulses,
+as Naivedya. Their number may be five, ten or one in accor¬
+dance with one’s affluence. (The Mantra for Naivedya) *‘0
+Surabhi (divine cow), you are the mother of the Universe. You
+are always stationed at the feet of Visnu (in the region of
+Vi§nu). O Goddess identical with the Devas, please accept
+the mouthful of morsel given by me; O Goddess identical
+with the Devas, decorated by the Devas, O Mother Nandini
+(Divine cow), make my desire fruitful.”
+O excellent Brahmana, on that day the devotee should
+avoid foodstuffs fried in oil or cooked in mudpots; he should
+avoid cow milk, ghee, curds and butter-milk also.
+35b-38. On the twelfth day in the bright half of the
+month of Bhadrapada, O Brahmana, the devotee should worship
+Lord D^odara with scents and other Upacaras. With great
+concentration, he should feed the Brahmanas twelve in num¬
+ber with cooked rice in His (the Iiord’s) presence. Then, with
+great pleasure, he should offer them water pots duly worshipped,
+filled with water and accompanied by areca nuts, sweet-meats
+and gold. If the rite is performed thus, the devotee becomes a
+favourite of Vi?nu. He enjoys all worldly pleasures. There is
+no doubt in this that on death he obtains Sayujya (identity)
+with Vi?nu.
+39-42. The rite of Nirajana vrata^ is also recommended,
+to be observed on this day. Understand it from me. The devotee
+b The NP, gives two types of ^tfdjoiu Vfuta, VV. 39-43 >re for common
+people and VV. 44-50 for Kings and nobles. It is a S^i Vrata. K*"*-
+records other varieties of this Vrata (HD . V. 1. 334-335),^^
+
+
+IV.121.43-54a
+1505
+adorns (with ornaments) the Lord of the Universe, who has
+thus got up from his slumber. At night-fall the devotee bedecks
+himself and kindles fresh fires. He worships the Lord by means of
+Mantras and performs Homa in the fire kindled by a silver
+lamp that is worshipped by the people, with scents, fragrant
+flowers etc. O sage, the devotee should perform the Nirajana
+(waving of the lights) rite to Hari with that silver lamp. There
+itself he should perform the Nirajana rite for all these in the
+following order viz ; to Laksmi who follows him, to Brahmani,
+Gauri, to Yaksa, to Ganapati, to planets, to Mothers, to
+manes, to mountains and to all the serpents.
+
+## 43. To cows, he should perform the Nirajana (waving
+
+of lights) rite and to buffaloes etc. otht;r Maiigala (auspi¬
+cious) rites, with shouts like namah (obeisance),Jaya (be vic¬
+torious) etc. and with the sounds of bells, conchs etc.
+44-50. In this great festival of waving of lights, there
+should be tumultuous noise of the cows with their horn.s
+smeared with saffron and their limbs painted with diverse kinds
+of colours. The king should be accompanied by the chief priest,
+ministers and servants. He should duly worship horses
+endowed with all auspicious characteristic signs, the elephants
+overwhelmed by ichor in their rut, and the royal parapher¬
+nalia such as the umbrella etc. The auspicious character of
+atmosphere shall be increased with the sounds of conchs, and
+musical instruments. The king, adorned properly should occupy
+a newly made throne studded with various jewels. Then
+a courtesan or a woman of a noble family endowed with all
+auspicious characteristics should, slowly, perform the Nirajana
+rite above the head of the king. This rite is a great !§anti (that
+which subdues and pacifies evils). It should be performed every
+year by the king or any other rich man who wishes for good
+health throughout the year. O Brahmana, if the excellent Santi
+rite named Nirajana is performed in any country, city or
+village, the ailments of the people therein are quelled and cured.
+51-54a. The excellent holy rite of the Sadhya Vrata^ is
+
+## 1. This Vrata of semi-divine beings called Sidhya is recorded by
+
+Hemidri [CC-Vrata I. n73)on xhe A\xihonty of Vi^nudharmotlara (III. 181.1-3)
+
+
+1506 NSrada PurSna
+0
+to be observed on the twelfth day in the bright half of the
+month of Marga^Irsa. The Sadhyas are twelve in number. They
+are stated as follows : Manobhava, Prana, Nara, Yata (v.l.
+Apana) Viryavan, Giti, Haya, Nrpa (v.l. Naya) Harhsa,
+Narayana, Vibhu and Prabhu. These shall be represented by
+raw rice grains and worshipped with scents, fragrant flowers
+etc. He should then feed twelve leading Brahmanas. Good
+Daksinas are to be given to them. He should then bid farewell
+to them saying, ‘May Nai-ayana be pleased.’
+54b-61a. On the very same day, the holy rite of Dvadasa-
+ditya Vrata' is known to be observed. The intelligent devotee
+should worship the twelve Adityas viz : Dhata, Mitra, Aryama,
+Pusa, Sakra, Arhsa, Varuna, Bhaga, Tvastr, Vivasvan, Savitr
+and Visnu. Every month, on the twelfth day in the bright half,
+he should assiduously worship them and spend the year thus.
+At the conclusion of the holy rite, he should worship twelve gold
+images in accordance with the injunctions. He should feed twelve
+excellent Brahmanas with sweet cooked rice. The observer of
+the holy rite should honour them separately and offer the gold
+image to each. By performing the Vrata, called Dvadasaditya
+Vrata thus, the devotee attains the world of the sun and enjoys
+the pleasures therein for a long time. Then, he is born on the
+Earth among human beings as a pious soul, devoid of ailments.
+Thereafter, thanks to the merit of the Vrata, he shall accom¬
+plish the Vrata again (i.e. he shall perform it successfully
+again) O excellent Brahmana, thanks to its merit, he pierces
+the orb of the sun and attains the Brahman which is unsullied,
+formless and free from mutually clashing pairs (e.g. pleasure,
+pain etc).
+61b-67a. On this very same day is to be observed the
+Akhanda Dvadasi Vrata.* The devotee gets the replica of
+
+## 1. Also called JTdmadepa Vrata in HD. V. i., P. 318 on the authority
+
+of CC. Kra/a I. 1173.
+
+## 2. Hemadri on the authority of Vifpudharmottara extends this e£5cacy
+
+of removing the Vaikalya (deficiency) in performing penance or even
+sacrifices (Frata I. 1117-1124). AP. Ch. 190 limits the efficacy to seven
+births only (VV. 3 & 6), a view endorsed by Garu4a P. 118.
+Hemadri recommends another Vrata of the saffie name for the same
+purpose, but it starts on ASoina 11. (Ibid. Vrata I. 1103-1105).
+
+
+lV.121.67b-76a
+1507
+Janardana made in gold. He should worship it with scents and
+fragrant flowers as well as other things. In his presence, he
+should feed Brahmanas, twelve in number, every month. He
+should take food only at night and subdue his sense-organs. At
+the end of the year he worships that image in accordance with
+the injunctions and gives it to the preceptor alongwith a cow.
+He should pray thus; “O Lord, if, in the previous hundred births,
+any Vrata perrormed by me is broken, may it be rendered
+unbroken, thanks to your Grace.” Then he should feed twelve
+leading Brahmanas with milk puddings alongwith sugar-candies.
+He should give gold pieces as Daksina and make obeisance to
+them. O Brahmana, after observing the Vrata thus and pro¬
+pitiating Janardana, he shall go to Visnu’s great region by
+means of a golden aerial car.
+67b-76a. On the twelfth day in the dark half of the
+month Pausa, the holy rite RQpavrata^ (vrata for beauty)
+is said (to be observed). On the previous Dasami day,
+the observer of the holy rite should duly take his bath and
+collect cow-dung. O Brahmana, it should be of a white cow
+or that of a cow of a single breast. It should be
+gathered from the ether itself (i.e. before it reaches the
+ground after being evacuated by the cow). O Narada, he should
+make one hundred and eight balls out of the dung, and dry
+them in the sun after keeping them in a copper vessel or a mud
+pot. On the Ekadasi day he should observe fast and worship
+the image of Visnu made of gold, in accordance with the
+injunctions. He should keep awake during the nig^t by means
+of very auspicious songs,instrumental music, recitation ofhymns,
+japas, etc. On the Dvadasi day, in the morning, he should place
+the image on a vessal full of gingelly seeds. This latter vessel
+should be placed on a pot full of water. He should then wor¬
+ship it by means of all Upacaras. By means of attrition
+(or friction of wooden pieces) and other methods he should
+kindle a fresh Are. The intelligent devotee shall worship duly
+and perform Homas with the cow-dung balls one by one,
+alongwith gingelly seeds and ghee, after uttering the twelve-
+
+## 1. A special Vrata in the NP not recorded by Kane.
+
+
+
+1508
+Nirada Purina
+syllabled Mantra belonging to Visnu viz. Orii namo l^hagavate
+Vasudevaya. When hundred and eight oblations are completed
+he should perform Purnahuti. With an affable mind and
+great pleasure, he should feed Brahmanas with milk pud¬
+dings. He should offer the image to the preceptor alongwith the
+water pot. In accordance with his ability, he should give
+Daksina to the Brahmanas. He should bid them farewell
+after bowing to them. By performing the holy rite respectfully,
+the devotee, whether it is a man or a women, attains the
+blessedness of great beauty. No doubt need be entertained in
+this respect.
+76b-85. On the twelfth day in the bright half of the month
+of Pausa, the holy rite of Sujanma-Dvadasi Vrata,^ (the holy rite
+for the attainment of good birth and pedigree) is to be observed.
+After taking the holy bath the devotee takes the vow of Vrata
+for the whole year. After drinking water from a cow’s horn, at
+the outset, he should circumambulate the cow. Thereafter,
+every month, on the twelfth day in the bright half, he should
+offer charitable gifts (as follows):—APrastha measure of ghee,
+four Prasthas of grains and barley, two Ratikas (i.c. the weight
+of the seed of the Gunja plant (Abrus precatorious) of gold
+(1-16) grains, half an A(^haka of gingelly seeds, a potful of milk
+(or water) a Masa weight of silver, and sweet cooked-rice till
+satiety; umbrella and half a Masa of gold, a Prastha measure of
+excellent molasses; a Pola weight of Sandal, a fine thin cloth
+measuring five Hastas, these arc the articles to be given as
+charitable gifts month by month. He should feed himself on
+the following :— cow’s urine, water, ghee, four kinds
+of green vegetables well cooked, cooked barley grains
+mixed with curds, gingelly seeds with ghee and sugar, water
+from the Kusa grass and milk. After performing this holy rite
+for a year, the devotee should get the image of the sun made in
+gold. He should place it on a flat copper vessel, worship it
+in accordance with the injunctions, and give it to the preceptor
+•alongwith a cow. He should then bow down to him. Then
+
+## 1. Hem&dri recommends this vrata on the authority of Vifpi-dhatmottara
+
+P. (CC-Krato. 1174-75).
+
+
+
+## IV. 121.86-94
+
+1509
+twelve Brahmanas should be fed and presented with the due
+Daksinas. O Brahmana, he who performs the holy rite thus,
+takes his birth in a noble family. He shall be free from ailments.
+He shall be affluent in wealth and food-grains. His sense-organs
+shall be unimpaired (i.e. he shall be sound in body).
+86-89a. On the twelfth day in the bright half of the
+month of Magha, O Brahmana, the devotee shall duly and
+devoutly worship the Salagrama stone and place a piece of gold
+in its mouth. It is then placed in a silver vessel and covered
+with two white cloths. The devotee should then give this to a
+Vedic Scholarand thereafter feed him with milk-pudding along
+with sugar-candy and ghee (in a quantity) that is beneficial.
+After observing this, he should take only a single morsel a day.
+He should be interested in meditating on Visnu. After enjoying
+’ all desired pleasures here, he attains the abode of Visnu.
+89b-9Ia. On the twelfth day in the bright half of the
+final month (i.e. Phalguna), the devotee should worship the
+golden image of Hari with scents, fragrant flowers etc. He
+should then give it to a Brahmana, knower of the Vedas. After
+feeding Brahmanas, twelve in number, and giving them
+Daksina, he should bid them farewell; thereafter, he should
+take food alongwith his kinsmen.
+91b-92. The following eight Dvadasis arc days on which
+one should observe fast as they remove sins. The Dvadasis are
+Trisprsa, UnmilinI, PaksavardhinI, Vafijull, Jaya, Vijaya,
+JayantI and Aparajita.
+
+## ^ri Ndrada said :
+
+
+## 93. O holy Brahmana, what is the characteristic feature
+
+of these Dvadasis ? What is the benefit thereof ? Kindly explain
+these things to me as well as other things that may also be
+equally meritorious.
+
+## Sata said :
+
+
+## 94. On being asked thus by Narada, Sanatana, the
+
+excellent Brahmana sage praised his brother, a great
+
+## devotee of the Lord and said :
+
+
+
+1510
+JVdrada PurOiia
+
+## Sandtana said:
+
+
+## 95. O brother, the question has been pertinently put by
+
+you who clear the doubts of good men. I shall recount the
+characteristics and the benefit of the great Dvada^is separately.
+
+## (1) Tri-sprid :
+
+
+## 96. If Ekadasi ceases to be, before the sunrise, the
+
+Dvadasi is called Trispr^ (touching three^.) It is highly
+benevolent.
+
+## 97. O Narada, he who observes fast on this day and
+
+worships Govinda, certainly attains the benefit of a thousand
+horse-sacrifices.
+
+## (ii) Un-milini :
+
+
+## 98. If at the Arunodaya time (dawn), the Ekadasi Tithi
+
+is over-lapped by Dasami, that day is eschewed and fast is
+observed on the following Dvadasi day (This is called Unmi-
+lini — that which opens).
+
+## 99. If on the Unmilini day, the devotee worships Vasu-
+
+deva perfectly in accordance with the injunctions, he derives the
+benefit of a thousand Rajasuya-sacrifices.
+
+## (iii) Vanjulikd :
+
+100-102. When at the time of sunrise, the night
+touches Ekadasi, it shall be avoided and the subsequent Dvadasi
+which is called Vafijulika* shall be the day on which the
+devotee shall fast always. On this day, the devotee should
+worship Lord Sarhkarsana with scents and other Upacaras
+devoutly. He is the great Lord who bestows fearlessness or
+Moksa on all. This great Dvadasi yields the benefit of all Kratus
+i.e. sacrifices. It is said to be the remover of ad sins. It bestows
+all riches.
+Three tilhis are ‘touched’ on this day: Ekadaii before
+sunrise, Dv&daSi all the day and TrayodaJi in the last part of that night.
+Hence the name Tri-sp^id.
+. 2. This {Vafljuliki) dvddaSt exists the whole of one civil day (from
+sunrise to sunset) and extends over the next day, so that one can fast and
+the same Tithi—vidc Pfimya Sindhu,p.48, SmiH Kaustubka
+
+
+
+## IV.121.103-113
+
+1511
+103-104. O Brahmana, when Kuhu (new moon) and
+Raka (full Moon) become increased (i.e are of a longer dura¬
+tion), the Dvadasi is called Paki^vardhanika (that which
+increases the duration of fortnight) and it is highly beneficial.
+On that day the devotee should worship Lord Pradyumna, the
+Lord of the Universe, the bestower of all prosperity and the
+increaser of direct sons and grandsons.
+
+## 105. If, in the bright half, Dvadasi coincides with the
+
+constellation Magha it is called Jaya.^ It conquers all enemies.
+
+## 106. On this day, the devotee should worship Lord
+
+Aniruddha, the husband of Rama, the bestower of all cherished
+desires of men and the granter of all blessedness.
+107-108. If, in the bright half, Dvadasi coincides
+with the constellation Sravana, it is called Vijaya. On that
+day the devotee should worship Gadadhara, the besto¬
+wer of all happiness for ever, the greatest resort for all pleasures.
+O Brahmana, by observing fast on that day, a man shall attain
+the benefit of pilgrimage of all holy centres.
+
+## 109. If, in the bright half, Dvadasi coincides with
+
+the constellation of which Brahma is the presiding deity
+[Rohini ? ] it is highly meritorious. It is remembered by the
+name ‘Jayanti’.
+110-11 la. On this day the devotee should worship Lord
+Vamana the bestower of Siddhis on men. O leading Brahmana,
+if fast is observed on this day, it yields the benefit of all Vratas.
+If yields the benefit of all charitable gifts; it yields worldly
+pleasures and salvation.
+11 lb-113. If, in the bright half, Dvadasi coincides
+with the constellation Pusya it is called Aparajita. It is the
+
+## 1. The NP associates the following DoddaSis in the bright halves of
+
+
+## the month with the following Nakfatras coinciding on that day :
+
+N.of Doddaii
+Nakfdtra
+Jaya
+Maghi
+Vijaya
+l§ravai>a
+Jayanti
+Rohini
+AparlLjiti
+Pu?ya
+Expert opinions difler. For example ^iivaya Sindhu, p. 48 associates the
+constellation with Jayil, PtmanmH with Jayanti.
+
+
+1512
+J^drada Purdna
+bes tower of all knowledge. On this day the devotee shoyld wor¬
+ship Lord Narayana, devoid of ailments, the cause of liberation
+(severance) from the bondage of worldly existence, the ocean of
+perfect knowledge. O Brahmana, by the observance of fast alone
+on this day, people will be liberated.
+114, If, Dvadasi in the bright half of the month of
+Asadha coincides with the constellation Anuradha, two Vratas
+must be observed, I’here is no fault since the presiding deity is
+the same.
+
+## 115. Similarly, in the bright half of the month Bhadra-
+
+pada, if Ekadasi coincides with the constellation Sravana and
+if Dvada.sl coincides with the constellation Revati in the
+bright half of the month ofKarttika, two Vratas (viz. Ekadasi
+and Dvada.si are to be observed.
+116-117. O leading Brahmana, incases other than these,
+only one meal is taken on Dvadasi day. This is the natural
+Vrata laid down and it is destructive of sins. Since the Vrata
+of Ekadasi is always in conjunction with that of Dvadasi no
+rite of Udyapana is laid down. This Vrata has to be performed
+throughout one’s life.
+
+## CHAPTER ONE HUNDRED AND TWENTYTWO
+
+The Vratas to be observed
+on TrayodaH [thirteenth day of the lunar fortnight)
+
+## Sandtana said :
+
+
+## 1. Henceforth, therefore, I shall relate to you compre¬
+
+hensively the Vratas to be observed on Trayodasi days (i.e.
+thirteenth day of lunar fortnights). On observing these Vratas
+with devotion, the man becomes elegant and highly blessed in
+the world.
+
+## 2-3a. On the thirteenth day in the bright half of the
+
+month of Caitra, an image of Madana is mado. with sandal
+
+
+IV.122.3b-I4
+1513
+paste. After worshipping it assiduously, the devotee should waft
+it with a fan. K^rna excited thereby causes the multiplication
+of sons and grandsons.
+
+## 3b-4. The worship of Anahga too is to be celebrated on
+
+this day. O leading sage, understand it. The devotee should
+draw the figure of Anahgas on a wooden plank with saffron,
+turmeric and red powder. He should be depicted as endowed
+with the love of Rati, smart and elegant and holding the flowery
+arrows and bow.
+
+## 5. At midday, he should worship Kamadeva, Vasanta
+
+(presiding deity of the spring), Vajivaktra (the horse-faced
+Lord Visnu) and the bull-bannered Lord Siva with devotion,
+by means of scents, garlands, ornaments and silken garments.
+
+## 6-8. He should propitiate them with various kinds of
+
+foodstuffs. O Narada, in the meantime he repeats this Mantra
+“Obeisance to Mara, Kama, the deity of Kamadeva, the exciter
+of the minds of Brahma, Visnu, Siva and Indra.” Then in
+front of him, he should worship Anganapati (the husband of a
+woman) with devotion, garments, garlands, ornaments and
+other things. He should regard that he (the Brahmana so
+worshipped) is Kama himself. He should then worship a
+Brahmana couple with scents, garments and ornaments.
+
+## 9. O Brahmana, he who performs the great festival
+
+thus, every year, becomes always delighted and well-nourished
+at the advent of the spring.
+10-12a. Or he should worship the following (twelve forms of
+Kama month by month till the year comes to a close : Madana,
+Hrdbhava, Kama, Manmatha, Ratipriya, Anaiiga, Kandarpa,
+(the god with the epithet) Makaradhvaja, Kusumayudha,
+Manobhava, Visamesu and Malatipriya. O Brahmana he
+should worship these twelve forms of Kamadeva.
+12b-13. The charitable gift of a she-goat is also recom¬
+mended. After taking a holy dip in the river in accordance
+with the injunctions, the devotee should give milch goat to an
+indigent householder. Thanks to this charitable gift, he is not
+reborn in this world.
+
+## 14. If this Trayoda^i coincides with Saturday, it is
+
+Temembered as Mahavanipi. If the devotee is able to get an
+
+
+1514
+N&rada PurS^a
+opportunity to take bath in the Gahga, it is more efficacious-
+than a crore such baths at the juncture of solar eclipses *
+
+## 15. This is an auspicious combination in regard to the
+
+worship of Kama, viz : the constellation of l^atabhisak,
+Saturday and the bright half of the month of Gaitra. It is-
+famous by the name of Mahamaha.^ It yields salvation to a
+crore of the members of his family.
+16-18a. On the thirteenth day in the bright half of the
+month of Vai^akha, the holy rite of Kamadevavrata is to be
+observed. The devotee should observe fast and worship Kama
+with scents etc. Thereafter, every month, on the thirteenth day
+in the bright halves, he should perform the holy rite in the
+same manner. At the end of the year, in order to achieve the
+Sahgatva (the status of having the complete fulfilment of the
+Vrata) of the holy rite, he should give a cow bedecked with
+ornaments to a Brahmana after duly honouring him.
+18b-22a. The holy rite of a Daurbhagya-Samana-Vrata*
+(i.e. the holy rite for quelling misfortunes) is to be observed on
+the thirteenth day in the bright half of the month of Jyesfha.
+The devotee should take the holy dip in the river water and
+worship the following three plants growing in clean spots : the
+white Mandara, the white Arka, (the sun-plant) and the red
+Karavira (the oleander). Gazing at the sun in the sky, he
+should utter this mantra and pray : “O Mandara, O Arka, O
+Karavira, you are all born in the family of the sun. Worshipped
+by me, quell my misfortune; obeisance be to you all.” If any
+one devotedly worships the three plants thus every year, his
+misfortune is quelled. No doubt need be entertained in this
+regard.
+22b-28a. On the thirteenth day in the bright half of the
+month of Asadha, the devotee should take in only one meal a
+day. According to his ability, he should get the image of Uma
+
+## 1. The complete name of the Vrata \s Mahimahd Vdrupi vide HD^
+
+V. i. 405-406.
+2, This Vrata shows how the cult of ‘tree-worship’ of Pre-Aryans
+in India was observed in Hinduism. A number of trees e.g. The Pippala
+(A^vattha), Vata Bilva, Tulasi-Aioka {vide VV. 41-45 below) and others
+have been firmly established as 'deities' in Puranic Hinduism.''
+
+
+IV.122.28b-40
+1515
+and Mahe^vara made in gold, silver or clay. The goddess and
+the Lord of‘ the universe are represented as seated respectively
+on a lion and on a bull. O Narada, the images are installed
+and consecrated m a temple or in a cowpen or in the
+house of a Brahmana, by the divine Mantras. Then the
+worship is continued for five days and the Vrata (vow) of
+taking a single meal is kept up. On the Trtiya (third) day,
+the devotee takes his bath in the morning and worships the
+deities once again. The images are to be given to a Brahma^
+who is a master of the Vedas and the Vedangas (ancillaries of
+Vedas). This Vrata is continued from year to year for full five
+years. At its end, he should give those images (to a Brahmana)
+alongwith a pair of cows. If the devotee, whether a man or a
+woman, performs this auspicious Vrata thus, he never experi¬
+ences a break in the conjugal love in the course of seven births.
+28b-32. The auspicious, holy rite of Ratikama-vrata is
+to be observed on the thirteenth day in the bright half of the
+month of Sravana. It prevents widowhood of ladies. It is
+conducive to the increase in the number of children, O excellent
+Brahmana, the virgin or the woman devotee observes fast. The
+images of Rati and Kama are made of copper, clay, gold or
+silver and placed in a similar vessel. She should then properly
+(according to injunctions) worship them with scents etc. Then
+she invites a Brahmana couple for the following Caturdasi day.
+After honouring them and feeding them, she should give them
+images alongwith monetary gifts. This excellent Vrata is
+continued for fourteen years. For completing the Vrata, the
+images are to be given along with a pair of cows.
+33-40. The holy rite of go-tri-ratra' is to be observed on
+the thirteenth day in the bright half of the month of Bhadrapada.
+The image of Laksminarayana is made of gold or silver. On
+an auspicious Mandala (mystic diagram) of a lotus of eight
+petals, the image is to be placed on a pedestal covered with a
+
+## 1. K.ane records three varieties of Co-fn-rdtra Vrata out of which
+
+this is the second and is described by Hcmadri (Vrata II. 293-303). It is a
+synthesis of Vi^qu-worship and cow-worship.
+
+
+1516
+N&rada Purina
+cloth, after bathing the image with Paftcamrta. He shoi^d duly
+worship the deity with scents and other things. After the rite of
+waving the light, (Aratrika) he shoulcf make a gift of a pot
+of water and cooked rice. This rite is performed for three days.
+At the conclusion of the Vrata, he should worship the deity
+for a month. O Narada, after gathering enough wealth, he
+should offer it as gift alongwith this Mantra :— “When the great
+ocean was being churned, five cows were born. Nanda is in the
+middle of them. Repeated Obeisance to that cow.” After
+circumambulating the cow, he should give it to a Brahmana
+with this Mantra :— “May cows be in front of me. May cows be
+behind me. May cows be on my sides. I stay in the midst of
+the cows.” Thereafter, he should duly honour a Brahmana
+couple and feed them. After honouring them suitably, the
+devotee should give them an image of Laksmlnarayana. One
+shall obtain from the holy rite of Gotriratravrata, the same
+benefit as one obtains by performing thousands of horse-
+sacrifices and hundreds of Rajasuyas.
+41-45. The holy rite of Tri-ratafoka-Vrata^ is to be
+observed on the thirteenth day in the bright half of the month
+of Asvina. The replica of the Afoka tree is made in gold. The
+woman devotee observes fast. After worshipping the image in
+accordance with the injunctions, she should circumambulate it
+for a hundred and eight times every day. O Brahmana, she
+should repeat this mantra with respect—“O Afoka, formerly
+you have been created by Hara, the merciful deity ! You are
+the cause of rendering help to the whole world. O favourite
+one of Siva, be gracious unto me.” On the third day there¬
+after, she should worship the bull emblemed deity on that tree,
+in accordance with the injunctions. A Brahmana should be fed
+and given this as a gift. The woman who observed the holy
+rite thus, is never visited by widowhood. She will be blessed
+with sons, grandsons, etc. She will also be the great beloved
+of her husband.
+
+## 1. This is an amalgamation of the ancient cult of tree-worship and
+
+Saivism. This blesses one with Saubh&gya (life on one’s husband) and
+progeny. Kane records a number of Saubhigya Vratas (HD. V. i. 455-57)
+but this is not included therein.
+
+
+
+## IV. 122.46-54
+
+1517
+46-47. The devotee should take only one meal on the
+thirteenth day in the dark half of the month of Karttika, and
+with great concentration, he should light an oil lamp and
+assiduously worship it. Thereafter, he should keep it outside
+his front door saying “May Yama be pleased with me”. O
+leading Brahmana, if this is done, one is not afflicted by Yama.
+48-51 O excellent Brahmana, the devotee should take
+a single meal on the thirteenth day in the bright half of the
+month of Karttika. At sunset, he should take bath again and
+observing silence, light a thousand, a hundred or a row of thirty-
+two lamps for Siva. O Brahmana, he should do so with great
+concentration. He should light the lamp with ghee. With
+scents and other things he should worship Siva. O Narada, he
+should propitiate the Lord with fruits of various kinds and other
+items of Naivedya. Then, he should eulogise Siva, the Lord of
+the Devas, with the following hundred names.^ Those names,
+the bestowers of all desired benefits, are being detailed (as
+follows) ;
+
+## 52. Obeisance to Rudra, the terrible, to the bluenecked
+
+God, to the Creator, to one with matted hair, to the Lord of
+the Devas, bow to Vyomakesa (one whose tresses constitute
+the firmament.)
+
+## 53. Hail to the bull-emblemed one, to Soma (God
+
+accompanied by Uma), obeisance to Somanatha. Obeisance
+to Digambara (i.e. one with the quarters for garments i.e.
+Naked) ; Obeisance to Bhrhga; Obeisance to the deity who
+causes plentitude.
+
+## 54. Bow to the deity full of penance (Tapzis). Obeisance
+
+to the pervaded one. Obeisance to Sipivista (pervaded by rays)
+
+## 1. This ‘Century of Rudra’s names’ bears a strong influence
+
+of the Fifth Prapathaka in the IV Kanda of the Taittirtya Sdmhitdy
+popularly known as Rudrddhy^a. The so called Namakas beginning with
+nomas U Rudra manyave etc. have subsequently strongly influenced the
+‘century of names’ and ‘Thousand of names’ of Rudra or god Siva first,,
+then Vi9pu down to a river like the Gahga.
+It is significant that the author of the NP is not a fanatic Vaifi>ava like
+his later descendants in the south. He treats fiurly both the deities, as they are
+but two names of the Supreme Deity, Para Brahman.
+
+
+1518 Marada PurS^a
+#
+Salutations to one fond of serpents. Obeisance to Vyala. and
+to the Lord of serpents (Vyala).
+
+## 55. Hail to the supporter of the Earth, obeisance to
+
+(the god of the form of) Vyoma (ether), to the Lord of Pasus
+and to the lion that destroyed the three Puras (cities) (of
+asuras). Obeisance to Sardula (Tiger), Obeisance to Rsabha
+(the bull, the chief).
+
+## 56. Obeisance to Mita (the measured one), to Mita-
+
+natha (to the Lord of the measured ones); to Siddha (one
+who has realised the soul), to Paramesthin (one stationed in
+the highest being), Obeisance to one who is sung about by the
+Vedas; to one who is concealed in the Vedas; Obeisance
+to one who is worthy of being kept as a secret in the Vedas.
+
+## 57. Hail to the long one, to one of a long form, to one
+
+of large objects; to the greater one (than all); obeisance to the
+deity in whom the universe is installed; obeisance to one of the
+form of the sky.
+
+## 58. Obeisance to one who causes welfare; obeisance to
+
+one of special nature; obeisance to Sista (the disciplined one);
+to Paramatman (the reatest soul), to one who wears
+the elephant’s hide and to one who split the demon
+Andhaka,
+
+## 59. Obeisance to one who is blue, red and white (in
+
+complexion), to one who is the favourite of Ganda and Munda;
+to the Lord fond of devotion, to the destroyer of the Yajfia, to
+the unchanging one.
+
+## 60. Hail to you, O Mahadeva, to Mahesa; to Hara, to
+
+the three-eyed one; obeisance to Triveda (one described in
+three Vedas). Repeated obeisance to one who is the embodi¬
+ment of the Vedas.
+
+## 61. Obeisance to the Artha (wealth), to one whose
+
+form is Artha, to one who is in the highest reality; obeisance
+to one whose form is the Universe, to the Universe itself, to
+one who is verily the Lord of the Universe.
+
+## 62. Obeisance to l^ahkara, to Kala, to one of the form of
+
+the units of Kala, obeisance to Arupa (one without form), to
+Virupa (the deformed), to the subtlest of the subtie.
+
+
+IV.122.63-75a
+1519
+
+## 63. Obeisance to you the resident of the cremation
+
+■ground, to the wearer of the hide garment; to one with the
+moon for crest jewel, obeisance to one who has resorted to
+Rudrabhumi (i.e. cremation ground).
+64-66. Obeisance to Durga (very difficult to know), to
+Durgapara (one who is on the other side of Samsara), to the
+"witness of the limbs of Durga, obeisance to one of the form of
+Lihga, to Lihga and to the Lord of Lingas, obeisance to
+one of the form of Prowess; Obeisance to one whose object
+is prowess. Repeated salutes to the cause of causes, to you, the
+conqueror of Death, to one of the form of the self-born; obei¬
+sance to the three-eyed one; to the bluenecked, obeisance to
+one full of splendour; to one united to Gauri and the cause of
+auspiciousness.
+
+## 67. O Brahmana, this is the century of names glorifying
+
+the attributes of the Pinaka-bearing Lord. The devotee should
+recite this, make circumambulation and go back to his own
+abode.
+
+## 68. O Brahmana, by performing this holy rite, the devotee
+
+enjoys all worldly pleasures here, thanks to the grace of Maha-
+deva. In the end he shall attain the region of Siva.
+69-71. On the thirteenth day in the bright half of the
+month of Margasirsa, the devotee should duly worship Anaiiga
+who had become so, due to his contact with l§iva. He should
+worship him thrice or once per day. After worshipping with
+scents and other Upacaras in accordance with the injunctions,
+he should feed a Brahmana couple in a pot or on an auspi¬
+cious cloth. Then, he should give them Daksina and take only
+a single meal. If this vrata is duly performed, O prominent
+Brahmana, the devotee becomes the object of blessedness on
+Earth, thanks to the grace of Mahadeva.
+
+## 72. The devotee shall worship Hari—Acyuta on the thir¬
+
+teenth day in the bright half of the month of Pausa. For the
+achievement of everything, he should give a pot of ghee to a
+leading Brahmai^a.
+73-73a. O Brahmana, the holy rite of M^ha snana is to
+be observed for three days beginning with the thirteenth day
+in the bright half of the month of Magha. It is conducive to
+
+
+1520
+Mdrada Purdna
+the attainment ofmany desired benefits. On this earth even with
+a thousand horse-sacrifices, that benefit cannot be attained, which
+one gets on taking the holy dip in Prayaga for these three days
+in the month of Magha. The holy dip, Japa, Homa and charit¬
+able gifts on this day yields endless benefits.
+75b-84. On the thirteenth day in the bright half of the
+month of Phalguna, the devotee observes fast. After bowing to
+the Lord of the Universe at the outset, he performs the holy
+rite of Dhanada Vrata.' The picture of the great king, the Lord
+of the Yaksas, is painted in colours on a cloth. The devotee
+worships the Lord with scents and other Upacaras with noble
+emotions of devotion in the mind. O excellent Brahmana, in
+this same manner, he should worship the deity every month on the
+thirteenth day in the bright half, after observing fast or taking
+a single meal. At the end of the Vrata he gets the image of the
+Lord of wealth made along with the image of the lord of Nidhis
+(Treasure) made in gold. O excellent Brahmana, with all the
+sixteen Upacaras, with the ablutions with Paficamrta etc. and
+with different kinds of Naivedyas, he should with great con¬
+centration and devotion worship the deity. O Brahmana, there¬
+after, he adorns a cow with its calf by means of cloths, garlands,
+scents and ornaments. He then gifts it away to a knower of the
+Vedas. He feeds twelve or thirteen Brahmanas with sweet cooked
+rice. The preceptor is propitiated with clothes and other things
+and the gold image (Kubera) is given to him. According to his
+ability, he should give Daksina to the Brahmanas, bow to them
+and bid farewell to them. The intelligent devotee, thereafter,
+takes his food alongwith friends and kinsmen. O Brahmana, if
+the Vrata is performed thus, the indigent devotee attains great
+wealth. He rejoices in the world. He becomes well-known on
+the Earth as another Rajaraja (King of Kings or Kubera).
+
+## 1. This is Dhana Vrata given in the VifTtu-dharmoltara III. 184.
+
+1-3 and quoted by Hemidri as Nanda-Vrata. What Hemadri calls Dhanada
+Vrata (Vrata I. 1161-62), begins on the 11th of Mirgasir^ i§u. though
+both have Kubera as the deity to be propitiated.
+
+
+lV.123.1-13
+1521
+
+## CHAPTER ONE HUNDRED AND TWENTYTHREE
+
+Description of the Vratas to be observed on Caturdafi {fourteenth
+day in a lunar fortnight)
+
+## Sandtana said :
+
+
+## 1. O Narada, listen. I shall recount to you the holy rites
+
+to be observed on the Caturdafi (fourteenth) days (of lunar
+fortnights). On observing these holy rites, a man shall attain
+his cherished desires in this world.
+
+## 2>4a. On the fourteenth day in the bright half of the
+
+month of Gaitra, magnificent worship of Siva should be perform¬
+ed with saffron, agallochum, sandal paste, scents, and other
+things, clothes and ornaments. Erecting the canopy, the banner
+and the umbrellas, the mothers are to be worshipped. O Brah-
+mana, by performing the worship thus alongwith the observance
+of fast or taking a single meal on that day, the man obtains
+merit more than that of a horse-sacrifice, on this Earth.
+4b-5a. On this very same day, the devotee should per¬
+form Damanarca (worship by means of Damanaka leaves
+and fragrant flowers). When the Vrata is concluded the devotee
+should dedicate the fruit to Siva of auspicious form.
+5b-8a. On the fourteenth day in the dark half of the
+month of Vai^akha, the intelligent devotee should observe fast.
+At sunset he should take bath and wear clean white clothes
+and worship Lihga with scents and other Upacaras and
+the leaves of a Bilva tree. After giving invitation to a prominent
+Brahmami, he should take food on the next day. O excellent
+Brahmana on all Gaturdaifis in the dark halves of the months,
+the holy rites Sivaratra Vrata should be performed by one who
+wishes for wealth and progeny.
+8b-13. The devotee should observe the holy Vrata of Sri-
+Nrsimha' on the fourteenth day in the bright half of the month,
+of VaiiaUdia. If he is physically capable, he should observe fast.
+
+## 1. VV. 8b-13 describe what is popularly known as Nfsiihha JayantL
+
+as Vi$ou manifested himself on Vaif&kha Su 14 as Natrasiihha in the evening
+on Svkti Nak^atra. The NP. calls thU simply as Jfrsuhha-Vrala. a confusing
+designation, as we have Nirimha Vratas on 8th, 12th and the 13th TiUde
+of different months (vide HO. V. I, {^. 328-329}.
+
+
+1522
+Mdrada Purdna
+Otherwise, he should take a single meal on that day. At
+sunset he should worship Nrsiihha, the slayer of the Daityas,
+with all the sixteen Upacaras and ablutions with Paficamrta.
+Then, O Narada, with the following Mantra, he should
+crave forgiveness of the Lord—“O Divine Lion with the
+mane resembling molten gold, with eyes shining like fire and
+with the toucli of claws sharper than thunderbolt, obeisance
+be to you.” After praying thus to the Lord of the Devas, the
+observer of holy rite should lie down on the bare ground. He
+should subdue his sense-organs and anger and should eschew
+all worldly pleasures. O Brahmana, he who duly performs this
+excellent holy rite every year, attains all pleasures and (after
+death) Hari’s region.
+14-15. O leading sage, the pilgrimage to Omkaresvara
+is also to be undertaken on this day. The worship of that deity
+is very difiicult to be obtained. I'he vision of deity is destruc¬
+tive of sins. Of what avail is much talk ? Whatever is accessible,
+the worship of the deity, meditation, Japa or the vision of
+the deity is the bestower of perfect knowledge and salvation.
+16-18a. On this day, the holy rite of Lihga-Vrata is to
+be performed. It is destructive of sins. Lihga is bathed in
+Pancamrta and saffron is smeared over it. Fruits are offered
+as Naivedyas. Incense, lights, clothes and ornaments are offered
+duly. He who worships Lihga made of ground flour,
+attains worldly pleasures and salvation, thanks to the grace of
+Mahadeva. This Lihga is the bestower of achievements of all
+objects.
+18b-19a. On the fourteenth day in the bright half of the
+month of Jyestha, the devotee performs austerities in the midst
+of five fires, during the day time, at night-fall he should make
+a gift of a golden cow. This is called Rudravrata^.
+19b-20a. On the fourteenth day in the bright half of the
+month of Asa<^ha, the devotee should worship Siva by means of
+
+## 1. Rudra-Vrata: This i» PaAedgnitidhana. Kane notes another variety
+
+HD. V. i. 393-94.
+
+
+IV.123.20b-27
+1523
+the flowers of the season and clime. The man who performs
+worship thus shall attain all riches.
+20b-22. The holy rite of Pavitraropana is to be observed
+on the fourteenth day of the bright half of the month of
+Sravana. O excellent Brahmana, that has to be performed in
+accordance with the injunctions laid down in his own branch
+of the Veda. He should repeat the Mantra a hundred times
+and dedicate it to the Goddess. By performing the rite of
+Pavitraropana,! any person, be it a man or a woman, shall
+attain worldly pleasures and salvation by the grace of the great
+Goddess (Mahadevi).
+23-27. The excellent holy rite of Ananta Caturdasi* is to
+be performed on the fourteenth day in the bright half of the
+month of Bhadrapada. The devotee should take only a single
+meal on that day. He cooks the Prastha-measure of ground
+wheat flour smeared with ghee and mixed with sugar and offers
+it to Ananta as Naivedya after worshipping him at the outset
+with scents. The old thread worn round the hand is taken
+off and thrown into the water. A new thread of silken or cotton
+cord is taken and fourteen knots are tied. The woman devotee
+wears this on her left hand and the male devotee on his right
+hand. After cooking the ground flour, he should give it as gift
+alongwith Daksina. He himself shall take in moderate
+(quantity of) food. The intelligent devotee should perform
+this excellent Vrata for twice seven years and then perform
+Udyapana (Valedictory) rite.
+
+## 1. VV. 20b-22 mention the outline of Pavitrdropat^a Vrata. For
+
+<fetails vide HD V. i. 339-40. The NP does not clarify that Pavitra is the
+sacred thread Tajflopavtta.
+
+## 2. W. 23-33a describe Anaata-caturdaJi Vrata. Ananta is a form
+
+of Hari. It is a very popular Vrata and is described with slight variations
+in the procedure in AP. 192. 7-10, xhs Bhat/ifyottara and Vratirka. HemAdri
+(Vrata II pp, 26-36} gives an elaborate description of this Vrata quoting
+the story of KaupijUnya and his wife SltA Kaug^inya losing every thing
+by cutting the Anauita-thread from his wife’s hand and regaining it after
+propitiation of Ananta. Kane (HD. V- I. pp. 151-53) does not clartfy how
+a thread could represent Krfoa. Ananta is the name of Serpent 3efa. Is it
+an assimilation of the cult of serpen t-worship in Brahmanism ?
+
+
+1524
+Ndrada Purdifa
+28-33a. The devotee draws the mystic diagram Sarvato-
+Bhadra by means of coloured power and grains. O sage, after
+making it splendid, the devotee places a copj>er pot over it. The
+auspicious golden image of Ananta is then placed over the
+Kalaia (vessel) of copper and covered with a yellow silken cloth.
+He shall then worship the image in accordance with the injunc¬
+tions. He should severally worship GaneiSa, Mothers,
+planets and the ten guardians of the worlds, quarters.
+He then performs Homa with Havisya (cooked rice soaked
+in ghee) alongwith the Purnahuti. O excellent Brahmana, to
+his preceptor the devotee gives a bed with all adjuncts, a
+cow and the image of Ananta. With great devotion he should
+feed fourteen other Brahmail^as, with sweet cooked rice, and
+propitiate them with Dak^i^s. He who thus respectfully per¬
+forms the Ananta Vrata, directly enjoys worldly pleasures and
+attains salvation by the grace of Ananta.
+33b-39a. The holy rite ofKadali vrata^ is also to be
+observed on this day. Listen to its rules of procedure from me.
+The devotee may be a man or a woman. He should take his
+bath and worship the plantain tree in the garden by means of
+scents, fragrant flowers, germinating grains as well as curds,
+Durva grass, raw rice-grains, lights, clothes and diverse kinds of
+cooked food. After the worship, the observer of the holy rite
+should pray with this Mantra : ‘‘O plantain tree, who are
+worshipped by the Apsaras, Amara (divine) virgins and the
+serpent virgins, O goddess, obeisance be to you. Grant me
+freedom from ailment in the body and also loveliness.’* After the
+prayer the devotee should feed four virgins or Suv^inis (married
+women); they should be provided with silken cloth, saffron
+powder, collyrium and red lac juice. After bowing to them and
+concluding the observance, he or she should go back to the
+house. O Brahmaina, if this Vrata is performed thus the devotee
+obtains excellent conjugal bliss in this world. After death, he
+shall go to the heavenly world in an aerial chariot.
+
+## 1. W 336-39a describe the Kadalf Vrata—^wherein the plantain tree
+
+is the beauty-giving deity. Hem&dri, on the authority of Bhatdfyottara details
+it {Vrata II. 132-33}. This u another instance of assHttilation of the cult of
+tree worship in Brahmanism.
+
+
+IV.123.39b-52
+1525
+39b-43a. On the fourteenth day in the dark half of the
+month of Aivina, the Sraddha rites of the following categories
+of persons are performed viz. those who are killed by means of
+poison or weaptons; those who are drowned in water^ those who
+are burnt by fire, those who are bitten by serpents or mauled
+by beasts of prey, those who are killed by thunderbolt and those
+who murder Brahmanas. They are performed in accordance
+with the rules laid down in the case of Elkoddista Sr^ddhas.
+Brahmanas are fed with sweet cooked rice. The Tarpapa rite is
+performed, mouthfuls of fodder are given to cows and oblations
+are given to dogs and crows. After performing these rites and
+the Acamana rite, the devotee should take his food along with
+his kinsmen. O Brahmana, he who performs l§raddha in this
+manner alongwith the requisite Daksii^s shall uplift the Pitrs
+and go to the eternal world of the Devas.
+43b-45. On the fourteenth day in the bright half of the
+month of Alvina O excellent Brahmapa, the devotee should
+perfectly worship the image in gold of Dharmaraja^ with scents
+etc. After feeding a Brahmana, the image is given to him. O
+Narada, Dharmaraja protects everyone in the world. He
+who thus performs the'excellent rite of gifting away the image
+of Dharmaraja enjoys all excellent pleasures here and at the
+behest of Dharmaraja goes to the heaven.
+46-47. On the fourteenth day in the dark half of the
+month of Karttika, the devotee takes oil bath at the rise of the
+moon. After the bath he should worship Dhartna. The devotee
+shall attain fearlessness from hell. For the propitiation of Yama,
+he should light oil lamps at night fall. With great concentration
+the devotee should place the lamps at the cross-roads or outside
+the house.
+46-52. In the year called Hemalambi, on the fourteenth
+day in the bright half of the glorious month of Karttika, against
+the dawn. Lord Viiveivara took his bath in the holy waters at
+the Manikarpika Tirtha al(uig%vith the Devas. O leading sage,
+with Bhasma he applied the Tripundra (three parallel marks
+on the forehead). He worshipped his own self and performed
+
+## 1. This is not recorded by Kane in HD. V. i.
+
+
+
+1526
+Nirada PurStia
+the Pa^upata rite. Hence on that day, the devotee should p)er-
+form the great worship of the Lihga with scents and other things.
+He should offer worship with the flowers of Drona Bilva leaves,
+Arka flowers Ketaki flowers, fruits and different kinds of
+Naivedyas. If the Vrata is thus performed and only a single
+meal is taken on that day, it satisfies Vi^ve^a. O Narada, he
+attains all cherished desires, both here and hereafter.
+53-57. On this very day the holy rite of Brahma-
+kurca Vrata is to be observed by one who wishes for prosperity.
+Observing fast and controlling the sense-organs, the observer of
+the vow should drink Paflcagavya at night. The Paftcagavya is
+
+## made thus :
+
+The urine of a tawny-coloured cow; the dung of a black
+cow; the milk of a white cow; the curds of a red cow and the ghee
+of a cow of variegated colours.—all these are taken and mixed
+together. The devotee then takes his bath in the morning with
+the water sanctified by Kuila grass and performs the Tarpana
+rite to the Devas. After propitiating the Brahmanas, he should
+himself take his food silently. This is the Brahmakurca Vrata^
+that destroys all sins. The sin committed during the infancy,
+youth and old age, is dispelled instantaneously by means of
+the Brahma-Kurca vrata and the fast on that day.
+58-60a. The holy rite of Pasana-Vrata is also to be
+observed on this day. Listen to it, O Narada. The devotee
+observes fast during the day. He cooks ground flour in ghee,
+shaping it in the form of a brick. During the night, he worships
+Gauri with scents and other things and offers the flour-brick
+cooked in ghee as Naivedya. O excellent Brahmana, after per¬
+forming this holy rite in the manner mentioned above, the man
+attains glory, happiness, conjugal bliss and beauty of form.
+60b"63. On the fourteenth day in the bright half of the
+month of Marga^irsa the devotee takes a single meal or abstains
+from food and performs the holy rite mentioned before. He should
+make a gold replica of a bull, worship it and give it to a Brah¬
+mana. On the next day, he should get up early in the morning,
+
+## 1. Brahma^KSrca is treated here as a Vrata thou|;h it is really a
+
+Prdjaicitta.
+
+
+IV.123.64-73a
+1527
+take his bath and worship Mahesvara accompanied by Uma,
+with lotus flowers, scents, fragrant garlands and unguents. He
+should then feed the Brahmanas with sweet cooked rice and
+propitiate them with Daksinaetc. OBrahmana, this is called Siva
+Vrata. It is the bestower of worldly pleasures and liberation to
+the performers, to the instructors, to those who assist, and to
+those who approve.
+64-66a. On the fourteenth day in the bright half of the
+month of Pausa, the holy rite ofVirupaksavrata is to be observ¬
+ed. The devotee should think thus “I shall attain the presence
+of KapardiJvara.” Having thought thus, O Brahmana, he should
+worship Virupaksa Siva with scents, fragrant garlands, incense,
+lights, richly prepared cooked rice and obeisances. By giving
+what is contained therein, the devotee rejoices in the heaven
+like Deva.
+66b-68. On the fourteenth day in the dark half of
+Magha is prescribed the holy rite of Yainatapana.^ Before the
+sunrise the devotee must take his bath and perform the rite of
+Tarpana unto Yama with the fourteen names mentioned be¬
+fore (chap. 119 verses 59-90) for the purpose of liberation from
+all sins. The Tarpana rite is to be performed by means ofgingelly
+seeds, Darbha grass and waler. Krsara and cooked rice cons¬
+titute the meal of the Brahmanas. He himself should eat the
+same with restricted speech in silence.
+69-73a. O Brahmana, the holy rite of SivaratrP is to be
+observed on the fourteenth day in the dark half of the last
+month (i.e Phalguna). The devotee observes fast, even abjur¬
+ing water, during the day, and worships the deity at night in
+the self-born Lihga etc. or the Liiiga made of clay with deep
+concentration of mind. He worships the Lord with scents and
+
+## 1. Kane has recorded a number of ^iva Vratas (HD. V. i. pp.
+
+426-427), but this Vrata is different from them.
+
+## 2. This is the famous Alahdlivardlri-Vrata popular all over India.
+
+The NP follows PurpimdrUa reckoning and thus locates it in Phalguna.
+This Vrata is highly extolled in Garuda P. 1-124, SK. P. I-l. 33, Pd. P. VI.
+240 and AP. 193. The whole Kra/a is discussed in details by Kane HD. V.
+1-225-236. As compared with other Pur&Qas and digests, the NP. gives a
+bare outline of the Vrata.
+
+
+1528
+N-drada Purd^ta
+other Upacuas, the leaves of the Bilva, etc., water, incense,
+lights, recitation of hymns, Japa etc. as well as Naivedyas duly
+offered. On the next day too the deity is again worshipped with
+the Upacaras. After feeding Brahmanas with sweet cooked
+rice, he should give them the requisite Daksi^ and bid fare¬
+well to them. By performing the Vrata thus, the man obtains
+immortal pleasures, thanks to the grace of Mah^eva. He is
+well-honoured and respected by Devas.
+73b-74. On the fourteenth day, in the bright half of the
+last month, the devotee worships Durga with great devotion,
+offering scents and other Upacaras. Thereafter, he feeds the
+Brahmanas. O Brahmana, he should take only a single meal
+on that day. By performing the Vrata of Durga thus, he derives
+cherished desires, both here and hereafter, O Narada.
+75-76. The devotee shall observe fast on the fourteenth
+day in (he dark half of the month of Caitra. By drinking
+water from a rice-field on the day one derives the benefit of a
+horse-sacrifice.
+The general procedure regarding Udyapana^ (valedictory
+rite of conclusion) for all these holy rites is now narrated.
+77-79. Fourteen pots with areca nuts, unbroken raw rice-
+grains and sweet-meats, may be made of copper or clay.
+They must be fresh and uncracked. The Daksin^ and silken
+garments should also be placed there. Besides these the follow¬
+ing too are to be provided as necessary viz. fourteen bamboo
+poles, fourteen sacred seats, fourteen vessels and fourteen sacred
+texts. As for the other things, they should be performed in the
+manner mentioned before. The devotee should not be stingy in
+the matter of expenses.
+
+## 1. VV. 77-79 give the general procedure of the (conclud¬
+
+ing ceremony) cS these CatmUUf Vratas.
+
+
+
+## IV.124.1-9
+
+1529
+CaiAPTER ONE HUNDRED AND TWENTYFOUR
+Exposition of Vratas to be observed
+on the Full Moon and the Neva Moon days
+
+## Sandtana said :
+
+
+## 1. Henceforth, O Narada, I shall recount to you the holy
+
+rite to be observed on the Full Moon day. Listen. On observing
+these rites the performer of Vratas whether he be a man or
+a woman, attains series of happiness.
+
+## 2. O leading Brahmana, the Full Moon day in the
+
+month of Gaitra is the day of the inauguration of the Manvan-
+tara. On this day, the observer of the Vrata should gfive a pot
+of water with cooked rice, for the propitiation of Soma (the
+Moon).
+
+## 3. On the full moon day in the month of Vai^kha, the
+
+gift of all articles is the bestower of all things. Certainly, one
+attams those things which one bestows on a Brahmana.
+
+## 4-5a. The holy rite of Dharmaraja Vrata is also to be
+
+performed on this day.- Listen to it. One should give cooked
+rice and pot of water to an excellent Brahmana on the Full
+Moon day in the month of Vailakha. It is conducive to the
+propitiation of Dharmaraja and it yields the same benefit as the
+gift of a cow.
+
+## 5b-7. On this very same day, one should give the hide of
+
+a deer alongwith its horn and thehoo^ to a Brahma^ alongwith
+gingelly seeds and gold. They should be covered with clothes.
+He who gives, in accordance with the prescribed injimctions,
+the hide of a deer after honouring the scholar who knows
+the ^astras, is actually the donor of the whole of the
+earth consisting of the seven continents, and rejoices in the
+world of Vij^iu as long as the moon, sun and stars
+shine in the firmament.
+
+## 6. He who gives to prominent Brahmanas pots full of
+
+water alongwith gold never meets with sorrow.
+
+## 9. On the Full Moon day in the month of Jye^fha the
+
+holy rite of valasavitrika^ is to be observed. The woman devotee
+
+## 1. W. 9-12 briefly descrttie the famous Va^SivUrt-VratM, the
+
+main fimtures of which are sprinkling water at the foot of a banyan tree.
+
+
+1530 Ndrada Purina.
+observes fast and pours nectar like water at the root of the
+Vata (Banyan tree).
+
+## 10. She should encircle with threads the holy tree and
+
+circumambulate it one hundred and eight times. Thereafter, she
+
+## should pray to the divine and highly chaste lady Savitrl :
+
+
+## 11. “O Mother Savitri, who considered your husband
+
+a deity, you are the mother of the Universe. You are worthy
+of being worshipped by the whole universe. O gentle lady
+present in this Vata tree, obeisance to you. Grant me nonsepara¬
+tion from my husband.
+
+## 12. After praying thus she goes home. On the next
+
+day, she shall feed SuvasinTs (married women whose husbands
+are alive) and take food herself. She shall be blessed with con¬
+jugal bliss.
+13-15. The holy rite of Go-padma* is prescribed for
+performance on the full moon day in the month of Asadha.
+
+## After taking his bath the devotee meditates on Hari thus :
+
+“He has four arms and a huge body. He has the lustre
+of gold. He appears beautiful with the conch, discus, iron
+circumambulating the tree one hundred and eight times and weaving a
+thread round it all the while, prayer of Savitri (associated with the tree)
+for sparing oneself from widowhood and feeding Suvasinis the next day after
+which the lady observer of the Vrata breaks the fast.
+This Vrata is observed on Jyestha Kf. 30 also (infra verse 85), The
+story of Savitri who brought back her husband from the god of deatli is
+extremely popular (vide Mbh.-Vana Ghs, 293-299, Mt. P, Chs. 208-214
+the SK. P.-Prabhdsa Ch. 166). The Vrata consists of fast for three nights
+which the NP. fails to prescribe. Its mention in the AP. 194. 5-8 shows that
+the Vrata was in vogue before the lOth Gent. A.D. It is said that the Vrata
+is called Vafa-Sdvitri as it was under the shade of a Va(a tree that
+Satyavan (Savitri's husband) went and took hold of its branch before he
+collapsed.
+The banyan tree with its spreading branches symbolises the spread of
+one’s race. Perhaps pre-Aryans worshipped this tree for increase and spread
+of their race and the story of Savitri came to be associated with it while
+it was being Brahminised.
+
+## 1. VV. 13-17 describe the Go-Padma Vrata. The NP. fails to justify
+
+the title Go-Padma of this Visnu Vrata. The girl or woman has to draw
+33 figures of cows foot-print everyday during the Vrata. Hence its title
+Goptdma, For detaib vide VRJ., pp. 301-302.
+
+
+
+## IV.124.16-28
+
+1531
+club, lotus, goddess Laksmi and Garuda. He is served by sages,
+Devas, Yaksas, Gandharvas and Kinnaras.”
+(After meditation) he should worship the Lord by
+means of the PunisaSflkta, and with scents and other Upacaras.
+16 He should propitiate the preceptor with clothes, orna¬
+ments and other things as well as with affectionate mind. He
+should feed Brahmanas and others with sweet cooked rice
+according to his capacity.
+
+## 17. O Brahmana, by performing this Vrata, the devotee
+
+undoubtedly, derives his cherished desires both here and here¬
+after, thanks to the grace of the Lord of (Kamala) Laksmi.
+18-21. The holy rite of Kokila Vrata is to be observed on
+this very same day. The rules of procedure are now described.
+The observance is from this full moon to the next full moon in
+the month of Sravana. The woman should take her bath in the
+water outside the house (i.e. in a river or a tank). She should
+meditate on goddess Parvatl as follows : “Gauri has the form of
+a cuckoo with golden wings, jewelled eyes, louts-like face, having
+the lustre of coral and the complextion of musk. She is born in
+the heavenly Nandana Park, seated on mango and Campaka
+trees cooking out exquisite song.” Her figure is painted in
+colours on cloth. The devotee worships her every day with
+scents and other things.
+
+## 22. O Brahmana, when the Vrata is concluded, she de¬
+
+voutly should give a Brahmana the image of the goddess in
+gold or ground flour of gingelly seeds, alongwith a gold piece as
+Daksina. The following Mantra is uttered.
+
+## 23. “O Goddess Kokila, born in the park of Citra-
+
+ratha, O beloved wife of Hara, you have been worshipped and
+given to a Brahmana. Be the cause of happiness to me.”
+
+## 24. He should then feed the Brahmana and thirty Sanya-
+
+sinis if possible, otherwise one, and give clothes etc. and
+Daksina in accordance with her capacity. After bowing to them
+she should bid farewell to them.
+
+## 25. O Narada, the woman who performs this excellent
+
+Kokilavrata attains happiness and conjugal bliss in the course
+of seven births.
+26-28. On the full moon day in the month of Sravana is
+
+
+1532
+J^Srada Purdna
+the holy rite of Vedop^arma^ (i.e. inauguration ofVedic stu¬
+dies) . On this day the rite of Tarpana unto the Devas, sages
+and the Pitfs is to be performed throbgh the Mantras of the
+Yajurveda. (The followers of the Yajurveda perform this rite of
+Upakarma on the day). The followers of Rgveda (i.e. Bah-
+vfcas) perform this on the Caturdasi day and the followers of
+the Samaveda perform this in the month of Bhadrapada (on
+the Caturth! day). The worship of the sages is p)crformed in the
+manner laid down in one's own Sakha (branch of the Vedas).
+The Raksa (holy string) should be tied round the hand in accor¬
+dance with the injunctions.
+
+## 29. White Mustard seeds, unbroken raw rice-grains and
+
+black mustard are washed in water kept in a bell-metal vessel
+and then tied in a red silk cloth with a saffron-smeared thread.
+The devotee then worships Devas and prays to Visnu
+and others. Delighted in mind, the devotee should lay down to a
+Brahmana and get the thread tied round his wrist by him.
+30-31. Thereafter, he gives Dak^ina to Brahmanas and
+begins the study of the Vedas. After ritualistically dismissing
+the seven sages, he should wear a new sacred thread
+made by himself and coloured with saffron^ etc. According
+to his capacity he should feed the prominent Brahmanas and he
+himself should take only a single meal on that day.
+
+## 32. O Brahmana, if this Vrata is performed, it makes atone¬
+
+ment for all omissions and commissions in the Vedic study. If
+the Vedic rites are forgotten or are performed in contravention
+of the injunctions, this holy rite rectifies it.
+33-34. The holy rite of Umamaheivara Vrata is to be
+performed on the full moon day in the month of Bhadrapada.
+
+## 1. Vttbpdkarma u simply updkanna and means opening, b^inning.
+
+NariLya^a on AioaUtyana Gr. S. 111. 5.1 sUtei that i^tikarma or updkarmfa is
+the ceremony nr^riting the (re*) beginning of Vedic Studies. Various dates
+and varieties of details of the v^drkeama are given by Kane in HD. II. ii. pp.
+807-818. Due to its performance cm Nakfoira in the month of
+Srilvapa, it came to be knovm as ^rdoopo in MarathL The tradition of
+Vedic studies is lost and what the eldeiiy people do now is to change their
+TcolktpavUa on this day with or without the performance ot the rite of
+l^tkama. The ritual given by the NP is different from the traditional <me
+peescribed in the sUtns. ^
+
+
+
+## IV.124.35-45
+
+1533
+The devotee take^ a single meal on the previous day i.e. Catur-
+da^i day, assiduously worships l§iva. With palms joined in
+reverence he should pray thus : *‘0 Lord, I shall perform
+holy Vrata (vow) tomorrow.’* After intimating thus to the
+Lord, the devotee takes up the excellent Vrata-
+
+## 35. At night, he sleeps near the deity and gets up in the
+
+last watch (Yama) of the night. After carrying out the routine
+such as voiding of excrement and washing, etc. the devotee
+applies Bhasma and wears Rudrak^.
+
+## 36. He should worship Sankara correctly with differ¬
+
+ent kinds of Upacaras, fragrant flowers, leaves of Bilva, incense
+lights and diverse kinds of Naivedya.
+
+## 37. Then the scholarly devotee should observe fast till
+
+sunset. After the moonrise, he worships the deity once again
+and keeps awake at night.
+38-41. Carefully and alertly, the devotee should perform
+this rite for fifteen years. In the last year, in the course of its
+Utsarga rite (valedictory and concluding rite), he should get
+two gold images made, that of Uma and that of Mahesa. He
+should get ready fifteen excellent posts made of gold, silver or
+clay. In one of the pots should be placed the two images cover¬
+ed with a cloth. He should bathe them in Paflcamrta first and
+then in pure water. Thereafter he shall worship deity with
+the sixteen Upacaras. Then fifteen Brahma^as are fed with
+sweet cooked rice and Dak^in^ too are given.
+42-43a. He should give pots to the pieceptor. Each
+of the pots is accompanied by a Murti (image) of the Lord. By
+performing this holy rite named Uma Mahefvara, the
+devotee becomes famous in the world and the receptacle of
+all riches.
+43b-44. On this very same day, the holy rite of $akra-
+Vrata also is to be observed. Early in the morning, the devotee
+takes his bath and worships the ruler of the Devas, in accord¬
+ance with the injunctions, with scents and other Upac^as and
+different articles of Naivedya in heaps.
+
+## 45. Then O, Brahma^a, he should duly feed the invited
+
+Brahma^as and others who had come as visitors. He shall
+feed the indigent and the helpless also.
+
+
+1534
+NUrada Purda^
+
+## 46. O Brahmana, this ^akravrata must be pepformcd
+
+every year by a king or any other rich man who wishes for plenty
+of food-grains.
+47-48. The holy rite named Kojagara^ is to be observed
+on the full moon day in the month of Asvina. The devotee
+takes the holy dip in accordance with the injunctions. He
+observes fast and subdues his sense-organs. A gold image of
+goddess Laksmi is placed in a pot made of copper or clay» It
+is covered with a cloth and worshipped with different kinds of
+Upacaras.
+
+## 49. In the evening when the moon has risen, he should
+
+light lamps made of gold, silver or clay after tilling them with
+ghee.
+50-51. They should be a hundred thousands, fifty thou¬
+sand, ten thousand, one thousand or hundred in number. Milk
+puddings are prepared in a huge quantity with plenty of sugar
+and ghee. They shall be kept in many vessels in the bright
+moonlight. When the night has advanced by a full Yama (three
+hours), the devotee shall offer milk puddings as Naivedya to
+Laksmi.
+
+## 52. With great devotion he should then feed the
+
+Brahmanas with the milk puddings. All of them then keep
+awake for the whole of the night with songs and auspicious
+instrumental music and dances.
+53-54. The next day before dawn, the devotee takes
+his bath and dedicates the gold image to the preceptor. (It
+is said) that on this night goddess Mahalaksmi with the gestures
+of granting boon and fearlessness in her lotus-like hands moves
+over the Earth saying—ko jagarti (who is keeping awake)
+on this Earth ? I shall give wealth to that person who
+keeps awake and worships me.”
+
+## 55. This Vrata should be performed every year. It
+
+propitiates Laksmi. It yields prosperity in this world and bliss
+in the other world after death.
+
+## 1. W. 47-55 describe the Koj&gara Vrata or Kaumud! Mahotaava
+
+mentioned in Sanskrit and Prakrit Literature, Pura^as aaid mediaeval
+digests. The NP. docs not mention dice-playing on that night.
+
+
+
+## IV. 125.56-66
+
+1535
+
+## 56. On the full moon day in the month of Karttika, Lord
+
+Karttikeya should be visited for the attainment of Brahmin-
+hood again (i.e. in the next birth) and for the conquest of all
+■enemies.
+
+## 57. On this very same day, Tripurotsava (the festival of
+
+Tripura) should be performed by celebrating illuminations (of
+buildings, ghats etc.), O excellent Brahmana, this festival of
+light at night-fall is conducive to the happiness of all living
+beings.
+
+## 58. Insects, locusts, mosquitoes, trees and the living
+
+beings that move about in water or dry land are not reborn
+after seeing these lights. They attain liberation.
+59-61. O Brahmana, at the time of the moon-rise the
+six Krttikas must be worshipped. So also Karttikeya, Khadgi,
+Varuna and Hutasana (Fire-God) are to be worshipped with
+scents and fragrant flowers, incense, lights, extensive Naivedyas,
+excellent cooked rice, fruits, vegetable and by propitiation of the
+fire-god and the Brahmanas. Thus after bowing down and
+worshipping the Devas, light should be offered outside the
+house.
+62-64. Very near the lamps, a beautiful square-shaped
+pit fourteen Ahgulas deep should be made and sprinkled with
+sandal water. After filling it with milk of cows, the devotee
+should put in it an image of a fish made of gold and exquisite
+in every limb, and with eyes constituted of pearls. Uttering
+the Mantra, ‘Obeisance to the great Fish’ the devotee should
+worship it with scents and other things and offer it to a
+Brahmana.
+
+## 65. O excellent Brahmana, the charitable gift of the
+
+ocean of Milk^ has been recounted to you by me. Thanks to
+the power of this charitable gift, the devotee rejoices in the
+presence of Hari.
+
+## 66. O Narada, by performing the rite of Vrsotsarga
+
+(setting a bull-calf free) during the night, the devotee attains
+Rudra’s region. No doubt need be entertained in this respect.
+
+## 1. W. 62-65 describe the Kflra-sSgara ddna (gift of the milky
+
+ocean). The whole procedure is symbolic.
+
+
+1536
+Ndrada Purina
+
+## 67. For the profuse abundance of all desired benefits,
+
+an Adhaka-measure of salt should be offered to « quiet
+Brahmana alongwith gold, on the full moon day in the month
+of M^gailr^.
+68-69. Formerly, this universe was abandoned by Lak^mi.
+So Hari, Indra, Soma, Ti^a and Brhaspati—these five made
+the universe still more dignified and decorated by means of
+the sports of festivities of blessedness on the full moon day
+coinciding with the Pu^ya constellation.
+
+## 70. Hence, for the increase of all conjugal bliss and
+
+good fortune he (the Vratin) should smear his body with the
+Kalka (minced pieces after being boiled in a decoction) of
+white mustard and take his bath when there is the conjunction
+of Pu§ya and the .full moon.
+71-72a. He should pour over his body, water, in which
+all medicinal herbs are put. He should wear new silk clothes.
+After seeing, touching and bowing to all the auspicious articles,
+he should worship Hari, l§akra, Indu, Pusya and Ijya (i.e.
+Jupiter, Brhaspati) with scents and other Upacaras.
+72b-73. After performing Homa he should propitiate
+the Brahmanas by feeding them with milk puddings. O
+Brahmana, by performing this Vrata that increases the pleasure
+of Rama (Lak^nu) and destroys Alaksmi (Misfortune), the
+devotee rejoices here and hereafter.
+74-76a. On the full moon day in the month of Magha,
+the following should be offered as charitable gifts :— gingelly
+seeds, cotton or woollen blanket, jewels, bodice, turban, shoes
+or cash presents. By giving these charitable gifts according to
+his affluence, the devotee rejoices in heaven. He who worships
+Lord l^ankara duly, attains the benefit of a Horse-sacrifice and
+is honoured in Visnu’s world.
+76b-78. The holy rite of Holika-worship^ is to be observed
+
+## 1. W. 76b-81 deal with Holik&-worahip. The NP. says that it
+
+is the celebration of burning K&ma or the ogress HolikS. There is a
+little obscenity attended with this celebration, only Bengal is free from it,
+as they celebrate the DoU-yUtrS of KfSna on this day, and engage a priest
+to perform worship before the bone-fire. This religious element persisted since
+the period of the NP. (or even before) in Bengal.
+
+
+
+## IV. 124.79-85
+
+1537
+on the full moon day in the month of Phalguna. The devotee
+collects all types of wood and cow-dung cakes. After duly kind¬
+ling fire therein, by means of extensive Mantras destructive of
+Raksasas, the devotee repeats this Mantra—‘*0 Holi, you have
+been made by people of childish traits who are afraid of blood¬
+sucking Ogresses. Hence I shall worship you. Be the bestower
+of prosperity on the living beings.”
+
+## 79. By repeating this Mantra, more and more wood is
+
+thrown in and the fire is made brighter. The devotees go round
+it and carry on the festivities with songs and instrumental
+music.
+80-81. (There are two opinions about the burning of
+Holika).* (one opinion) : This ogress Holika was a terror to
+Prahlada. Hence, people burn her with wood to the
+accompaniment of songs and instrumental music. This is the
+burning of the Samvatsara (year). In the opinion of others,
+it is the burning of Kama. Thus O leading Brahmana, you
+shall know that there are many traditions in the world.
+
+## 82. The two days of festival at the end of a fortnight
+
+are the full moon and the new moon. Hence the Amavrata^
+(the holy rite on New Moon days) is described. O Brahmana,
+listen to their separate nature. This Vrata is a great favourite
+of the manes.
+83-84. On the new moon days of the months of Caitra
+and Vaisakha the worship of Pitrs is recommended. The
+8raddha in accordance with the injunction governing festival
+days and in accordance with one’s affluence is to be performed.
+The feeding of Brahmanas and charitable gifts of cows etc. in
+particular, are highly meritorious on the new moon days, in
+all the months.
+
+## 85. The Vrata of Savitri is to be observed on the new
+
+moon day in the month of Jye§tha. O N5rada, its rules of
+*It is a very ancient festival and was called Holika in east India
+(&ibara on Purvamlmdithsd 1. 3. 15-23). Hemidri calls this Hutateni as we
+do now.
+
+## 1. In W. 82-96 the NP, groups together Amd-VratM i.e. Vratas
+
+to be observed on the new-moon days. As this day is specially sacred to the
+nianes (Pitfs) different frdddhas are prescribed on these days.
+
+
+1538 Narada Purdna
+procedure are the same as for the festival of the full moon day
+in the month of Jyestha.
+
+## 86. O Brahmana, in the months of Asa^ha, Sravana
+
+and Bhadrapada (when Purnimanta or) ending with the full
+moon day, the following rites are to be performed, and they
+are endless in their benefits. The rites are Sraddha of manes
+(ancestors), charitable gift, Homa and the worship of the
+Devas.
+87>88a. O Brahmana, Kusas grow in the fields of
+gingelly seeds. In the afternoon of the new moon day in the
+month of Bhadrapada, the devotee repeats the Mantra of
+Viririci (god Brahma) and cuts those Kusa grasses saying ‘Hum
+phat’. These grasses can be used always in all holy riles. But
+the other Kusa grasses can be used only once.
+88b-89a. On the new moon day in the month of Asvina,
+Sraddhaand Tarpana of the Pitrsare particularly recommended.
+They must be performed in the waters of Gaiiga. In the holy
+centre of Gaya, it yields liberation.
+89b-91a. On the new moon day in the month of Karttika,
+lights should be offered as gifts in temples of gods, river banks,
+parks, tanks, cowpens, market places, monasteries and other places.
+Worship of LaksmI is performed on this day. Gold and silver
+whether made into ornaments or not (are dealt in on this day).
+Playing at dice throughout the year, predicts gain or loss
+exactly as one wins or loses.
+91b-92a. On this day, worship of cows is laid down in
+the following manner viz. : the horns and other limbs are
+painted; barley and other grains are given; cows are bowed to
+and circumambulated.
+92b-93a. In the month of M^gasirsa also, there is Pitf
+Puja (worship of the manes) by means of Sraddhas and feeding
+of Brahmanas, observances of the restraints of celibacy etc. as
+well as Japa, Homa, Arcana and other rites.
+93b-96. O leading Brahma^, in the months of Pau^a
+and Magha, the l§raddhas pbrform'ed to the Pitrs are more
+efficacious. If on the New Moon Day in the month of Phalguna,
+the day is combined with Karpapata (?) an^ the Sun (i.e.
+prob. Vyatipata, Sravana Naksatra and the Sun are found on
+
+
+
+## IV. 125.1.
+
+1539
+that day), performance of mere Sraddha or feeding of
+Brahmanas is more efficacious (in giving good fruit) than even
+at Gaya (their performance at Gaya); charitable gifts etc. arc
+the bestowers of all benefit if made on the new moon day. If it
+falls on a Monday the benefit is still more. O sage, thus in
+brief, I have recounted to you the duties on the different Tithis.
+In all these instances there are some special cases. Those arc
+mentioned in other Puranas.
+
+## CHAPTER ONE HUNDRED AND TWENTYFIVE
+
+The greatness of the Purdna^
+
+## Suta said :
+
+
+## 1. Having recounted thus (the matter in the foregone
+
+four Padas of this Purana) on being enquired (about it) by
+the sage Narada, it is reported that the (four) Kumaras
+(viz. Sanat, Sanaka, Sanandana and Sana tana) who were
+the most excellent ones among the knowers of the sacred lore
+(sastras) were worshipped by Narada. After performing their
+
+## 1. This is the concluding chapter of the original Ndrada Purdfjia
+
+which consisted of four pddas (^catufPddasamdyuktwn V. 26). Here the
+interlocutors disperse as follows.
+( 1) The Kumaras, the reciters of the NP. are worshipped by N&rada.
+They went to god Siva and learnt the Saiva Agama. After this they visited
+god Brahma and lastly god Vijnu at the Badari forest (W. 1-5).
+(2) Bidding good-bye to Saunaka and other Br^maijias, SQta went
+to his preceptor Vyasa (W. 48-49).
+(3) Saunaka and other Brahmanas remained there in the Naimi$a
+forest and resumed their Satra (sacrificial session) V. 49.
+(4) W. in this chapter 26-47 is the eulogy of the NP. and of the
+benefit denved form hearing NP. This is called phalairuti which marks the
+end of a particular work.
+These verses show that the original NP. was completed here at the
+end of this chapter.
+
+
+1540
+Ndrada Purdna
+prescribed daily routine duties, they went to the ' world of
+the Lord ofUma (i.e. god Siva).
+
+## 2. There (in the region of god Siva) they bowed down
+
+to Ugra (i.e. Siva), Isa, whose feet have been worshipped by
+the leading sages like Srivamadeva and others who resembled
+(in refulgence) the fire and the sun—Siva who is worthy of
+being adored by the leaders of the Devas and Asuras. At
+his behest, they sat on the bare ground.
+
+## 3. There, they heard the Saiva Agama which is the
+
+essence of all sacred lores, and which is conducive to the
+liberation of Pa^u (individual soul) from Pasa (bondage
+ofSamsara). After bowing to Purari (Siva) those sages who
+were the very concrete embodiments of Pure knowledge, went
+to the presence of their father (god Brahma).
+
+## 4. They bowed down to his lotus feet. They were duly
+
+honoured and welcomed by their father. Receiving his blessings
+they became holy and sacred. From that time onwards, they
+who are the embodiments of holy places, are continuously
+moving about in the holy centres in all the three worlds.
+
+## 5. Thereafter, they went to the holy forest of Badari,
+
+where they meditated for a long time on the immutable lotus¬
+like feet of Lord Visnu which are being resorted to by groups
+of leading Devas and on which the ascetics, devoid of passion,
+contemplate.
+
+## 6. After acquiring the spiritual knowledge along with
+
+sound wisdom and discrimination so longed for by him from
+those Kumaras (viz. Sanaka, Sanandana and others), Narada
+was highly pleased in his mind.
+
+## 7. From the banks of that celestial river, he returned to
+
+his father’s presence, where he was warmly welcomed by his
+father (god Brahma). After bowing to him he took his seat
+there.
+
+## 8. He described factually the spiritual wisdom along
+
+with sound knowledge that he had heard from the Kumaras.
+On hearing that, he (i.e. Brahma) too rejoiced.
+
+## 9. Then the excellent sage (Narada) bowed down (to
+
+Brahma) with his head and received his blessings. He came
+over to Kailasa which is frequented by sages and Siddhas.
+10-11. The place is continuously filled with different
+
+
+
+## IV.125.12-20
+
+1541
+kinds ofwonderful things. It is full of trees blossoming in all the
+seasons—trees such as Mandaras, Parijatas, Campakas, Asokas,
+Vaftjulas and many others. They are occupied by flocks
+of different kinds of birds. When their branches are shaken by
+the wind, they appear as though they are inviting the way¬
+farers.
+
+## 12. The place is full of different herds of deer. It is
+
+thronged by the Siddhas and Kinnaras. It appears splendid,
+thanks to the lakes with crystal-clear water where golden
+lotuses bloom with splendour.
+13-15a. It was reverberated with the sounds of
+various aquatic birds such as Sarasas, Gakravakas and swans.
+It was resounded with the tumultuous sound of the fall of
+heavenly river, by the sporting bevies of celestial damsels
+playing in the waters of the river Alakananda which had
+turned tawny-coloured through the saffron powders from their
+breasts. It was teeming with joyous elephants who bathed their
+mates and cubs with the waters taken up by their trunks.
+15b-16a. On a peak that resembled a white cloud, of
+that mountain, he saw a spreading banyan tree Which extended
+over a hundred Yojanas and which appeared like a black
+cloud.
+16b-18a, Beneath it, he saw Lord Siva seated in the
+middle of a group of Yogins. The lord had matted hair and
+unusual number (i.e. three) of eyes. He was clad in the hide
+of a tiger. He had smeared ashes all over his body. He was
+adorned with serpents as ornaments. He was perpetually reful¬
+gent with his necklace of Rudraksa-beads and he had a crescent
+of the moon on his head.
+18b-19a. On seeing (the moon-crested) Lord, O
+Brahmana, Narada bent down and lowered his neck with great
+devotion. He bowed his head down at the feet of the Lord of
+the Universe.
+19b-20. With a delighted mind, he eulogised the bull-
+bannered Lord, verbally. At the behest of Sthariu (Siva), he
+sat down. He was greeted and honoured by the Yogins. Then
+the preceptor of the worlds (i.e. Lord iSiva) enquired about
+the health and welfare of Narada.
+
+
+1542
+XSrada Purdna
+21-22a. He replied—“Thanks to your Honoyr’s grace,
+I am blest with everything.” O Brahmanas, even as all the
+leading Yogins were listening, (Narada) asked Siva about
+special knowledge of Sambhu, that is conducive to the liberation
+of the Pasu from the Pasa.
+22b-23a. Siva was highly delighted in his mind with
+his respectful devotion. The Lord favourably disposed towards
+those who bow down to him, recounted the Yoga philosophy
+with all its eight subsections, (or accessories)
+23b-24a. After acquiring the knowledge pertaining to
+Sambhu, from Sankara, the benefactor of all the worlds, Narada
+became delighted in his mind. After bowing to him, he went
+near Narayana.
+24b-25a. Narada who was accustomed to coming to and
+fro frequently, propitiated Narayana, who is served by the
+Yogins and the Siddhas.
+25b-26. Thus, O Brahmanas, the great narrative of
+Narada Purana has been recounted to you. It is on a par
+with the Vedas. It is a model for all sacred lores. It comprises
+four Padas (quarters, sections). It increases the perfect knowl¬
+edge of listeners.
+27-29. O Brahmanas, he who recites and glorifies
+devoutly this narrative pertaining to Narada, in a I^iva temple,
+in the assembly of prominent Brahmanas, in the temple of
+Kesava, in Mathura, in Prayaga, in the presence of Purusottama
+(or at Jagannatha Puri), at Setu (i.e. the bridge built by
+Rama onhisway to Lanka),in Kaftci, at Dvaraka, at Gaiigadvara,
+Kusasthala, on the banks of the lotus tanks (or at Puskara), on
+the banks of rivers—in fact, anywhere (he pleases) shall obtain
+the great benefit of performance of all Yajnas and the visit of
+all holy centres,
+30-31. He shall obtain the benefit of all charitable gifts
+and of performing all austerities. Both the listener and the
+propounder (narrator) should be devoted to Narayana or to
+Siva; He should either observe fast or take in only Havisya
+(bod (cooked rice soaked in ghee). He should subdue his sense-
+organs. Listening thus to this Purana he shall attain
+Siddhi (Mok^).
+
+## 32. It is in this narrative that all mt!!rits and Siddhis
+
+
+
+
+## IV.125.33-46
+
+1543
+originate. It is declared as destructive of all sins of those who
+read and listen to it.
+
+## 33. It removes the defects due to Kali’s harrassment; it
+
+is conducive to the increase of all riches of men. This is liked
+by everyone. It illuminates all knowledge.
+34-37a. It sheds light on the modes of austerities, holy
+rites and their benefits of the followers of Siva, Visnu, Sakti,
+the Sun god and Ganapati. It explains the duties of those who
+adhere to the system of disciplined life in accordance with the
+classification of various castes and stages of life. It throws
+light on the Mantras, Yantras and the ancillary subjects of the
+Vedas with their divisions. It is a brief digest of the Agamas,
+the Vedas and the Sarhkhya tenets. He who reads this devoutly
+or listens to it with great concentration, shall derive all
+cherished desires difficult of access, even to the Devas and
+others.
+37b-39a. After listening to this Narada Purana which
+is on a par with the Vedas, the devotee should worship the
+expounder with devotion, wealth, jewels, silk cloths, etc.
+and with the gifts of plots of land, cows, jewels etc. With the
+gifts of elephants, horses and chariots, he should ever please
+the preceptor.
+39b~40a. O Brahmana, who else can be a preceptor
+other than the person who comments on the Puranas wherein
+all dharmas (religious duties) have been collected together and
+which bestows all the fourfold aims of human life. (viz.
+Dharma, Artha, Kama and Moksa).
+40b-41a. The devotee should always do what is pleasing
+to the preceptor who instructs him in religious duties. He
+should render him service physically, mentally and verbally as
+well as through cash presents.
+41b-42. After listening to the Purana duly and after
+performing Homa and worship of the Devas, the devotee should
+feed a hundred Brahmanas, with sweet cooked rice and milk
+puddings. He should give them monetary gifts in accordance
+with his capacity. Madhava shall be pleased with his devotion.
+43-46. Just as Ganga is the most excellent among
+the rivers, Puskara is the most excellent among the lakes, (and
+just as in their respective categories the following are the best
+
+
+1544
+Nirada Purina
+viz.) the cityofKa^i, the mountain Meru, Lord Hari, Narayana,
+the Krta age, the Sama Veda, the cow, the Brahmana, the
+cooked rice, water, the month of Margasirsa, the lion, the
+(Cosmic Man) Purusa, the Aivattha (holy fig tree),
+Prahlada, the face, the horse Uccaissravas, the season
+Vasanta (spring), Japa, the serpent Sesa, Aryaman, the bow,
+the fire, Visnu, Indra, the sage Kapila, the Lord of speech
+(Bfhaspati) Kavi (poet, Sukra), Arjuna, Hanuman, Darbha
+grass, the mind, the gandharva Citraratha, the Lotus, the
+Apsaras Drvasi and gold—all these are the most excellent ones
+in their own groups.
+
+## 47. Similarly, the Narada Purana is the most excellent
+
+among all the Puranas. O excellent Brahmanas, peace be
+to you; welfare be to all of you.
+
+## 48. I shall now go to my preceptor Vyasa,of unmeasured
+
+splendour. After saying this, Suta was worshipped by Saunaka
+and other noble souls.
+
+## 49. Permitted by all of them, he went his way to sec
+
+his preceptor Vyasa.
+All those excellent Brahmanas, !§aunaka and others
+carried out the advice they had heard with great concentration
+and perfection in details. They remained there itself, per¬
+forming their Satra (sacrifice).
+
+## 50. He who takes (resorts) to meditating in the form
+
+of injunctions regarding the performance of Japa and
+worship of Hari, the destroyer of the poison of the sins of Kali,
+purges completely his mind of that poison (or Kali) and
+accomplishes Yoga and ultimately attains the ever-cherished
+region of Hari.
+
+
+uttarabhAga^
+
+## CHAPTER ONE
+
+Tile greatness of Ekadaii day
+Obeisance to ^ri GnneSa
+Obeisance to ^ri Kffim
+
+## 1. May the four arms of Hari protect you all—the arms
+
+dark like clouds in complexion, hardened by the friction (strokes)
+of the strings of the Sarhga bow and which are like columns
+supporting the big pavilion (-like structure) of the three
+worlds.
+
+## 2. May the lotus-like pair of Hari’s feet be the bestower
+
+of desires on us—the pair of feet refulgent with the brilliance
+of the polished crest jewels of Devas and Asuras (as they bow
+to him).
+
+## Mdndhitc^ said :
+
+
+## 3. O excellent Brahmana, It behoves your honour to
+
+tell me what that fire is that burns both dry and damp fuel of
+terrible sins.
+
+## 1. Although the last redactor of the NP. tries to show that this Part
+
+{Uttara Khapdo) also called Uttara Bhiga in colophons of chapters) is an
+integral part of the NP {vide Supra 10-18), the whole setting of this
+part is diflferent, showing that it must have been an independent work to
+glorify EJtadaii Vrata and to illustrate it with the Rukmahgada-Mohini
+episode. But this unification of the two parts took place before the 10th
+cent. A.D. (Kane HD. V. ii. pp. 892-93), An early digest writer like
+Devana Bhatta (1200-1223 A.D.) quotes many verses from the Uttara-
+Khaoda of the extant NP. in his Smrti-C/tandrikd. Earlier still, Apararka
+(1100-1130 A.D.) quotes from it two verses on Ekadasi (HD. V. ii. 892).
+Hence, though apocryphal, the Uttara-Khapd^ has been regarded as the
+integral part of the NP. for the last 1000 years. By any standard, it is a
+good story and the writer of this part is a gifted story-teller.
+
+## 2. Mdndhdtd—An cmpieror of the solar race, son of king Yuvanaiva,
+
+He was born from his father’s belly. When the problem of feeding him
+
+
+1546
+Mdrada Purina
+
+## 4. O sage, born of the four-faced deity (Brahma),
+
+there is nothing that is unknown to you in the three w(frlds. O
+prominent Brahmana, the three - fold things (of the past, present
+and future time) are precisely known to you.
+
+## 5. The sin committed unknowingly is called §uska (dry)
+
+and the sin committed knowingly is cited as Ardra (wet).
+Please tell us the three events: that which are yet to be (future),
+that which has passed by (past), and that which is current
+(present).
+
+## 6a. What is that fire whereby the sin may be reduced
+
+to ashes? This is esteemed by me (i.e. what I want to know).
+
+## Vasiftha said :
+
+
+## 6b-9. O mighty king, may it be heard what that fire is
+
+whereby it is possible to reduce to ashes completely the dry as
+well as the wet kinds of sin. A person who, on the day of Lord
+Visnu (i.e. Ekadali day) with due control of sense-organs
+observes fast, worships the killer of demon Madhu (i.e. God
+Visnu), takes bath in water containing Emblic Myrobalan and
+keeps awake during that (Ekadasi) night, completely absolves
+himself of all sins like a gambler losing all his wealth.
+
+## 10. O king of kings, the fuel of sins even though
+
+accumulated (lit. generated) in the course of hundred births, is
+reduced to ashes through the fire called Ekadasi.
+
+## 11. O king, there is nothing that sanctifies men so much
+
+as the day of Padmanabha (i.e. Ekadasi) that destroys sins.
+
+## 12. O ruler of men, sins remain in this body, only so long
+
+as the creature (i.e. man) does not observe fast on the auspi¬
+cious day of Padmanabha.
+arose, god Indra came forward and said, ‘*He will luck me” {mimdhitd).
+The Pd. P. tells us that when there was a drought for the continuous three
+years, the sages advised him to observe Ekadasi Padma-nabha (i.e. Padm&).
+He observed Ekadasi Vrata and made all his subjects to follow it. Rains
+showered, p>eop]e became happy and the king prospered (Pd. P. VI—Uttara
+Khan4a, Gh. 58. 33-38.
+A proper setting for glorifying the Ekadail Vrata with Mandhata as an
+interlocutor. But it is after two benedictory verses that Mandhata is abruptly
+introduced. In fact no background is provided to this dialogue between
+Miindhata and Vasistha, his family priest.
+
+
+Uttarabhdga 1.13-23
+1547
+• 13. Thousands of horse-sacrifices and hundreds of Raj-
+asuya sacrifices do not deserve even a sixteenth part of the fast
+observed on the Ekadaii day.
+
+## 14. O Lord, all the sins that have been committed by
+
+the eleven sense organs shall be dissolved, thanks to the fast on
+the Ekadasi (eleventh) day.
+
+## 15. O king, there is nothing equal to EkadaiSi that is
+
+destructive of sins. Even if it is observed under a pretext
+it exempts one from seeing the son of the Sun-god (i.e. Yama,
+the god of death and Hell).
+
+## 16. It bestows heavently pleasure and salvation; it yields
+
+kingdom and sons; it grants good wives and freedom from
+ailments to the body.
+17-18. O king, neither Ganga, nor Kasi, nor Gaya, nor
+Puskara, nor Kuruksetra nor the river Reva, or theDevika,^ and
+neither the Yamuna nor the Candrabhaga are more meritorious
+than the day of Hari. O leading king, Hari’s abode is attained
+without any strain.
+
+## 19. By observing fast during the day on the day of Hari
+
+and by keeping awake during the night, a man is liberated
+from sins and he goes direct to the region of Vimu.
+
+## 20. O leading king, it uplifts ten generations on the
+
+mother-side, ten generations on the father’s side, and ten
+generations on the wife’s side.
+21-23. O Sovereign king, he leads his own soul to the
+city of Vi§nu. This rite of fast is like the Cintamani (wish-yield¬
+ing stone) or it is equal to a Nidhi (treasuretrove) or it is like
+the Sarhkalpapadapa (wish-yielding tree). O the most excel¬
+lent one among kings, those who resort to Dvada^i (i.e. after
+observing fast on the previous day who break fast on this day)
+put forth two more arms (become like visnu four-armed), they
+ride on the enemy of serpents (i.e. Garuda) as their vehicle,
+they will be having garlands and yellow garments (like Visnu).
+Thus they go to Hari’s abode.
+
+## 1. The southern portion of the river Sarayu—Oe. p. 55. According to
+
+Kdlika P., (Ch. 53), Devika is a distinct tiver between Gomati and Sarayu
+and joins at the confluence of Ga9d<>k and Ganga and the confluence is
+called Triveiii.
+
+
+1548
+Mdrada Purdna
+
+## 24. Thus the power of Dvadasi has been glorified by me,
+
+O king, it is called the fire that consumes the terrible Tuel of
+sin.
+
+## 25. Always the day of Hari should be observed as a day
+
+of fast by men, devoted to holiness and piety, who wish for
+abundant worldly pleasures as well as sons, grandsons etc.
+
+## 26. The man who observes the day of Hari (Ekadasi)
+
+with great respect, O most excellent one among men, never
+enters the womb of a mother even if he has committed many
+sins or even if he observes the fast with or without intention.
+He goes to the endless region of Visnu, the Lord of the
+world.
+
+## CHAPTER TWO
+
+Discussion on Tithis^
+
+## Vasiffha said :
+
+
+## 1. It was bearing on this same topic that the saintly
+
+residents of the Naimisa forest asked the highly intelligent
+Suta, the disciple of Vyasa.
+
+## 1. Tithi is the period required by the moon to gain twelve degrees
+
+on the sun to the east {Surya-siddhanta, Tithi Tattva p. 2.). Due to the
+irregular motion of the moon, the tithi varies between 67 to 50 ghafikds—a
+finding recorded in the maxim.
+Sapta-vfddhir daSa kfayafi
+As a Tidti is not coterminus with a ‘civil day’ and as every religious
+rite, be it Vrata, Dana etc. must be done at the exact time of the
+Tithi (otherwise it becomes fruitless), this topic has been discussed since
+very old times. As the word is used in theand Grhya and
+Dharma sutras, the belief in Tithi exists since the 8th Gent. B.C. Works
+have been devoted to the discussion of the correct time on a Tithi for
+observing Vratas. For example, Jimuta-vahana’s Kila-viveka, Hemadri’s CC.,
+Kdla-mddhava, Nll<dca^fha's Kdla-may&kha, Dharmasindhu and others.
+But this very topic has been discussed previously in NP. 1. 29 and
+elsewhere and the technical terms like Pui^, ^uddhd, ViddhA etc., the
+Tt^ma-Vdiya and rules for deciding the Ekadafi fsist etc. have been
+discussed in details in the annotations to those CShapters and verses. Hence,
+they are not repeated here.
+
+
+Uttarabhiga 2.2-9
+1549
+
+## 2. On being asked, that highly pleased one recounted the
+
+greatness of Ekadali^ in detail and also the rules of procedure
+regarding the observance of fast.
+3“4a On hearing that statement of the son of Suta, as
+well as the greatness of the wieldcr of discus (god Visnu) that
+subdues vast multitudes of sins, O king, the excellent Brahmanas
+again asked Suta who is devoid of impurities and who is well
+versed in the Puranas.
+
+## 4b-5. “O bestower of honour, you krtow the eighteen
+
+Puranas. Thanks to the favour of the son of virgin* ‘(i.e.
+Vyasa) you know the Mahabharata too. Hence, there is noth¬
+ing in the Puranas or the Smrtis which you do not know.
+
+## 6-7a. A doubt is produced in our minds in the story of
+
+Raghunatha that is very extensive, containing hundred crores
+of verses. It behoves you to dispel it by means of factual and
+detailed explanation.
+7b-8a. Is it the end of the Tithi that has to be taken up
+for the observance of fast. Or is it the root (beginning) ? What
+is the rule regarding this in the rites pertaining to the Devas
+and those pertaining to the Pitrs (manes) ? Kindly narrate it as
+there is nothing that is unknown to you.
+
+## Sauti said :
+
+
+## 8b. In regard to the Devas (i.e. rites pertaining to Devas)
+
+the end-period of the Tithi is to be taken for observing fast. Then
+it is conducive to the increase of their pleasure.
+
+## 9. The root (beginning) of the Tithi is declared by the
+
+knowers of Time as pleasing to the Pitrs. Hence, the tip is
+
+## 1. In the previous Chs. in the NP. I discussed Ttthis with reference to
+
+the religious rites like ^raddha, Vrata etc., but this verse and the following
+discussion makes it clear that the object of this part is disquisition on all
+aspects of Ekddadi Vraia only.
+Another impiortant point here is the conspicuous absence of Narada.
+He is neither a listener nor a narrator of NP. Uttarardha as contrasted
+with NP. Purv&rdha where he is at least the listener.
+
+## 2. KdnOut—A child bom of an un-married women. AIbh. Adi. 60.2 tells
+
+us that Vy£sa alias DvaipSyana was born of an unmarried girl
+(Matsyagandhk or Satyavati) on an island in the Yamuna.
+
+
+1550
+jsfdrada Pur dm
+taken up for the observance of fast by those who wish to * obtain
+tenfold benefits.
+10-12a. The root is to be known for being taken up (for
+fast) by those who desire for virtue and piety, for the purpose
+of propitiation of the Pitrs. Neither Dvitiya (the second
+day) nor the Astami (the eighth day) nor Sasthi (the sixth day)
+nor Ekada^i (the eleventh day) in a human fortnight, O king,
+should be taken up by those who wish for virtue, love and
+wealth, if it overlaps (lit. is pierced by) the previous one.
+
+## 12b. O excellentBrahmanas, SaptamI (the seventh day)
+
+in lunar fortnight is always to be taken up only when it over¬
+laps the previous one. If any one eschews the following, when
+they overlap the previous ones, he falls into hell. Those
+Tithis are Darsa, (the New Moon day), Paurnamasa (the Full
+moon day) and the anniversary day of the father.
+
+## 13. O king, he will be visited by misfortunes and loss of
+
+progeny. O Brahmanas this has been heard by me formerly
+from Krsna Dvaipayana.
+
+## 14. That Tithi is called Purvaviddha (overlapping the
+
+previous one) if there is even a slight trace of it at the time of
+sunrise. That Tithi should be considered Prabhuta (full) (if it
+extends throughout) not excluding the time of sunrise.
+
+## 15. In the rite of Parana (break-fast) and in the case of
+
+death of men, that Tithi is remembered which exists at that
+particular time. In the case of rites pertaining to Pitrs, if
+there is contact of the Tithi at the time of sunset, it is called
+Purna (full).
+
+## 16. In that case, the Tithi at the time of sunrise is not
+
+taken into account. But in the case of rites of the deities, the
+Tithi at the time of sunrise must be taken into account. The in¬
+telligent devotee should get the Tithi confirmed through a
+thoughtful astrologer.
+
+## 17. O leading Brahmanas, the bases for the extent of the
+
+Tithis are the sun and the moon. The knowers of the time
+reckon it through the movements of moon and tlyp sun.
+
+
+Uttarabhdga 2.18-3la
+1551
+18, Due to the fault of the contact of the previous
+Tithi, these arc not worthy of being taken up for worship.
+Those who know about this matter eschew them, O Brahmanas,
+they eschew all the four Yamas.
+19-20.^ Henceforth, I shall recount the orderly procedure
+for bath and worship. If they do not attain purity during the
+day time, the injunctions are so observed for the night. All the
+duties of the day must be completely performed at night-fall.
+This rule has been laid down by me in the case of men who
+observe fast.
+
+## 21. O leading Brahmanas, if there is even a little of
+
+Dvadasi at the time of dawn, the rites of ablution, worship,
+charitable gift, Homa etc. are to be performed then.
+
+## 22. The breaking of the fast on a pure Trayodasi day is
+
+conducive to the attainment of benefit of (a grant of) land
+and performance more than a hundred of Yajftas. There is
+no doubt about it.
+
+## 23. For this reason, O Brahmanas, the ablution is to
+
+be performed alongwith the rite of Pitr-Tarpana, early in the
+morning, without reckoning the day of Dvadasi.
+
+## 24. This Dvadasi, if transgressed (?) by men causes great
+
+loss. Like the Sarasvati who is not washed, it dispels virtue and
+piety.
+
+## 25. If there be a loss or increase in the period of Dvadasi
+
+or if it is available at the sunrise, Dvadasi should be taken ad¬
+vantage of for the purpose of fasting. It is meritorious. One
+should eschew that Tithi if that overlaps the previous one.
+
+## The Brdhamana submitted :
+
+
+## 26. O Suta, kindly explain to me how can there be a
+
+fast on the Dvadasi day if the previous Tithi happens to ex¬
+tend to Dvadasi.
+27-31 a. When the day of fast becomes overlapped by the
+previous Tithi and when there is not even a trace of Ekada^i on
+
+## 1. W. 19-32 lay down the rules of observing Ekadau fast by
+
+Vai^navas.
+
+
+1552
+NSrada Purana
+the next day, how is the observance of fast enjoined on that
+day ? O son of Suta, pray explain to me.
+
+## Sauti said :
+
+O Brahmanas, when on Dvadasi the previous Tithi is not
+at all obtainable and the day of the week is Saturday, Sunday
+or Monday (?) the next day is to be taken up for fasting.
+Even when there is the risk of contravening many Agamas and
+when the Brahmanas raise arguments against it, the holy Dva¬
+dasi should be observed as the day of fast and the break fast
+(Parana) is on Trayodasi (the Thirteenth day of the lunar
+fortnight).
+
+## 31b. When Ekadasi is Viddha (i.e. it is overlapped by
+
+the previous Tithi) and it is the month of Sravana, it is the
+holy Dvadasi that should be observed as the day of fast, in
+both the fortniglits. This decision, arrived at in accordance
+Avith the Saslras (sacred lore) has been announced to you
+by me.
+32a, What else do you wish to hear? You may be pleased
+to tell me the same.
+The sages said ;
+32b-33a. O Sauti, tell us the rules regarding the obser¬
+vances on the inaugural days of the Yugas precisely and factually.
+Similarly, tell us the rules regarding the transit of the sun etc.
+There is nothing that cannot be understood by you.
+
+## Sauti said :
+
+33b-34a. Wise persons know that two of the inaugural
+days of the Yugas fall in tlie bright half of the month and two
+in the dark half. The Tithis in the bright half are to be taken
+up when they exist in the forenoon, those in the dark half are to
+be taken up when they exist in the afternoon.
+34b-35, The Ayana (the tropical transit) has the part of
+the day as the basis and the transit time is sixteen Palas (certain
+unit of time). In the southern portion (transit from the tropic
+of Cancer) the former one ( ? the forenoon) is tQ, be taken and
+in the northern (transit from the tropic of Capricorn) the past
+
+
+Uttarabhdga 2.36-46
+1553
+one (the afternoon) is considered (for acceptance). In the
+middle period of Visuva (equinox), it is glorified as Aksaya
+(imperishable).
+
+## 36. O Brahmanas, fast is to be undertaken after knowing
+
+precisely the Tithi mentioned for the full year. Otherwise,
+one is likely to fall into a hell.
+
+## 37. The man observing fast when it is Purvaviddha
+
+breaks Dharma. It is likely to result in death of the progeny
+and loss of wealth.
+
+## 38. Just as one eschews the water of the Gaiiga if it is
+
+contaminated by even a drop of liquor, O leading Brahmana,
+one should avoid the Ekadasi day even if there is the overlapping
+of Dasami by a single pala (a small unit of time).
+
+## 39. O excellent Brahmanas, just as one should throw
+
+away the Pancagavya if it is defiled by a dog, so one should
+do, if Ekadasi in both the fortnights, is defiled by Dasami.
+
+## 40. O excellent Brahmanas, the Purvaviddha Ekadasi
+
+Tithi (i.e. the eleventh day with the overlapping of the tenth
+day) had been formerly given to the Danavas by the scion of
+the family of the Yadus (i.e. Visnu) for the propitiation of the
+noble souls.
+41-44a. O e.xcelicnt Brahmanas the following gifts arc
+no better than gifts offered to Asuras : the monetary gift given
+at the wrong time, the gift to the undeserving, what is given by
+the angry donor, what is given after dishonouring the recipient,
+the gift on a I’ithi ‘pierced by’ the previous Tithi; the gift
+offered by one who is defiled by ucchista (leavings of food),
+what is given unto the fallen ones, what is gifted to the hen¬
+pecked ones, what is given without water offerings and what is
+offered with subsequent and frequent allusions to it. Hence, O
+Brahmanas, the Ekadasi Tithi should not be observed if it is
+Viddha (i.e. when Dasami overlaps it).
+44b-46. Just as the paramour of Sudra woman defiles
+the previous merits, Sraddha, charitable gifts, Japas, Homas
+and holy dips, so also the Puja offered to Hari in a Tithi over¬
+lapped by the previous one, undergoes rapid decline like
+darkness at sunrise. Women proud of their blooming youth and
+overwhelmed by the fish-bannered Lord (i.e. Kama or sexual
+
+
+1554
+Ndrada Purdna
+passion) abandon their ageing husbands. So also the learned
+men should eschew theTithi that has the Vedha (overlapping).
+For the enhancement of Dharma tliey always adopt other Tithis.
+
+## CHAPTER THREE
+
+2~a;iw goes to the Region of Brahma^
+
+## The sages said :
+
+
+## 1. Kindly narrate in detail the rite of propitiating Visnu,
+
+whereby he becomes satisfied and bounteously bestows the
+cherished desire.
+
+## 2. The Lord of the Universe, the consort of Laksml, is
+
+the destroyer of all the vast multitudes of sins. By what rite
+will he be pleased alongwith all the mobile and immobile
+creation (which he pervades through his omni-presence).
+
+## Sauti said :
+
+
+## 3. Hrsikesa (Visnu) can be captivated by devotion and
+
+not by riches. O Ruler of the Earth, Visnu when duly wor¬
+shipped with devotion, grants all desires.
+
+## 4. Hence, O Brahmanas, the devotion to the discus¬
+
+bearing Lord should always be practised. The Lord of the
+universe worshipped even by ordinary people, shall be the des¬
+troyer of distress.
+
+## 5. Just as a thirsty man immediately derives satisfaction
+
+with water, so is the Lord pleased immediately (with activities
+of devotion). O Brahmanas, in this connection, a mythological
+narrative that is destructive of sins, is heard.
+
+## 1. It is an interesting introduction to the story of Rukmahgada and
+
+Mohini. This chapter emphasizes the efficacy of the EkddaSi Vrata by
+describing how Yama has to close his Office as all men, being compelled
+to observe Ekadasi by Rukm&hgada, straightway went to Vaikuntb^*
+
+
+Uitarabhdga 3.6-14
+1555
+
+## 6. It is in the course of conversation between
+
+Rukmahgada and sage Gautama.
+There was a king named Rukmahgada.^ He was an
+Emperor endowed with the quality of patience and forgiveness.
+
+## 7. He was a beloved devotee of the deity lying in the
+
+Milk Ocean (i.e. Visnu). He was devoted to the day of Hari
+(i.e. Ekadasi). The Lord of the Earth does not see anyone
+other than Padmanabha (Visnu), Lord of the Devas.
+
+## 8-11. On the day of Hari (Ekadasi), he used to pro¬
+
+claim through his servants by beating a drum kept on an
+elephant—“If any man (or woman) aged more than eight years
+and less than eightyfive years takes food on the day of Visnu,
+that stupid fellow will be punished, killed or banished out of
+the city, even if it be my father, brother, son, wife or friend.
+The person who takes food on the day of Padmanabha (i.e.
+Visnu) will be worthy of being punished like a robber.^ Give
+gifts to leading Brahmanas, have your holy dip in the waters
+of Jahnavi. Listen to my words and enjoy my kingdom.”
+
+## 12. Thus on every day of Visnu (Ekadasi day) in the
+
+bright half of the month and especially in the dark half also,
+the king proclaimed thus through the drums with golden
+coverings.
+
+## 13. O excellent Brahmanas, when this was announced
+
+by the king throughout the land, the pathway leading to
+Hari’s world (Vaikuntha) was thronged by the people going
+there.
+
+## 14. All the men who died in the realm of the king
+
+(observing Ekadasi) whether knowingly or through error, went
+to the abode of Hari.
+
+## 1. Rukmangada the son of B^tadhvaja, the King of Vidisd. He is
+
+the hero of this story.
+
+## 2. Hemidri on Kdla (p. 172) quotes these verses >vith a slight
+
+difference, but in Kdlanirpi^a (p. 257) a different text of the same imF>ort is
+
+## quoted as from the NP. The verse is as follows :
+
+atra Niradah
+Offdbddd atUiiko martyo hyapSrtt&lHi-hdyanab /
+bhuAkU yo mdnavo mohid tkidaSyim sa pdpakft 11
+
+
+1556
+Nirada Pur&na
+
+## 15. O Brahmanas, the world of Visnu is definitely
+
+attained by men even if they fraudulently observe the rite of
+EkadasI that is destructive of sins.
+
+## 16. He who takes food on the day of Hari consumes the
+
+sin of the whole of the Earth. He who does not eat food on
+the day of Hari, attains the virtue (religious merit) of the
+entire Earth.
+
+## 1 7. The Smrti following the Vedas says :
+
+“A Brahmana should not be killed so also Food should not
+be taken on the Ekadasi day in both the fortnights.”
+
+## 18. O excellent Brahmanas, the king, the son of the
+
+Sun (i.e. Yama) became embarrassed. Citraguptai had ample
+rest in his writing activity.
+
+## 19. Everything that had been written by him based on
+
+the activities of the previous births was erased and struck off
+by him (since) the men instantaneously went over to Visnu’s
+abode through their holy rites.
+
+## 20. All the hells became devoid of sinful creatures. The
+
+pathway leading to Yama’s world became scorched by the
+twelve Adityas and delapidated.
+
+## 21. All the people went to Hari’s region riding on
+
+Garuda. The worlds of the Devas also became vacant and
+tenantless.
+
+## 22. The sacrifices to the Pitrs and the Devas, pilgrimage
+
+to holy centres, charitable gifts and other holy rites became
+out of vogue. Excepting Ekadasi, men did not know any other
+Vrata.
+
+## 23. When the heaven and the hell became empty,
+
+N arada went to Dharmaraja (Yama) and said :—
+
+## N&radasaid :
+
+
+## 24. “O King, no cry is heard in your court-yard and
+
+in the hells. Nothing is being noted down in writing about the
+evil-doers.
+
+## 25. This Gitragupta^ is sitting silent like a sage. What
+
+is the reason whereby no sinner comes to your abode ?
+
+## 1. Gitr^upta—the record-keeper of merits and sins of human beings,
+
+in Yama’s Office.
+
+
+Uttarabhaga 3.26-36
+1557
+26-27a. No one engaged in wicked actions comes to
+your threshold. None in the grip of deception and arrogance
+comes to your abode.”
+When these words were uttered by the noble-souled
+Narada, Vaivasvata (son of the Sun), the king of the world of
+
+## Death said with a little disconcertedness :
+
+
+## Tama said :
+
+27b-28. O Narada, the King who is now ruling over
+the Earth is a great devotee of Hrsikesa (Lord Visnu). This
+leading king instructs the people announcing on the beating of
+the drum.
+
+## 29. “Nothing should be eaten, nothing should be eaten
+
+at all on the day of Hari. The men who take food shall be
+liable to punishment.”
+30-31. Being afraid of him, all the people observe fast
+on the Ekada^i day. O excellent sage, those who even
+fraudulently observe fast on the Ekada^i day, go to the world
+of Visnu which is devoid of burning and dissolution (at the
+end of Kalpa). Byresorting to Ekada^i (Vrata) people go to
+Hari’s palace.
+
+## 32. O excellent Brahmana, the paths leading to my
+
+world have been made empty by that king now. The hells as
+well as the worlds of heaven-dwellers have been made
+vacant by him.
+
+## 33. The writers (Yama’s accountants of deeds of men)
+
+are taking rest. O excellent Brahma^, what has been already
+written is erased and written off, thanks to the greatness of the
+fast on the EkadaiSl day.
+
+## 34. O Brahmana, without experiencing the fruits of
+
+Brahmana-slaughter and other sins, people go to Hari’s
+mansion by observing fast on the day of Visriu.
+
+## 35. O great sage, I have become one resembling a wooden
+
+deer. I am like a person devoid of eyes and ears, like a Brahmana
+who has eschewed Sandhya prayers.
+
+## 36. I am like a hen-pecked husband, or like an impotent
+
+husband of a youthful woman. I have abandoned all
+desire for such a post of guardianship of the world.
+
+
+1558
+NOrada Purdm
+37-38a. I shall now go to the region of Brahma to report
+to him about my misery. If an employee who is to abide by the
+behest of his master does not work actively but goes on eating
+the wealth of his master, he shall certainly go to hell.
+
+## Sauti said :
+
+38b-41. O Brahmanas, after saying this, Yama went to
+the abode of Viraflci (god Brahma) accompanied by Narada
+and followed by Citragupta. He beheld there seated the great-
+grand-father of all, surrounded by both embodied and bodiless
+people—Brahma the seed of the universe, the support of the
+universe, the self-born deity, the abode of all living beings. He
+was free from sin, and was designated as Orhkara. He is Suci
+(pure) and Sucipada (ofpure region). Brahma, the Supreme Soul
+(Harhsa) holding Ku&i grass was being worshipped by the
+different guardians of the quarters and rulers of the worlds.
+42-47. He was being served by all these (in person) ; viz
+—the Epics, Puranas and Vedas in their embodied forms;
+he was served by the oceans, the rivers and the lakes that had
+assumed bodily forms; the trees such as the holy fig tree and
+others served him by taking up human bodies; so also the tanks,
+wells, lakes, mountains, days and nights, fortnights, months,
+years, Kalas, Kasth^ and Nimesas (units of time), seasons,
+transits of the suns, Yugas, Manvantaras, Kalpas, closing and
+opening of the eyelids (the smallert unit of time) constellations.
+Yogas (combinations) Karanas, (astronomical divisions),
+full-moon days, declines of the moon, new-moon days,
+Dvandvas (i.e. mutually clashing opposites such as happiness
+and misery, profits and loss, success and failures, truth and
+falsehood—all these were serving the deity. The Lord of the
+Devas, the sanctifier of righteousness, was surrounded by
+them. He was being served by persons who knew the holy rites
+and who were befitting him. The grandfather was being served
+by Sattva, Rajas, and Tamas Gumis.
+48-50. The lord was served and surrounded by the
+emotions suefi Santa, (calm), Mudha (confused) and Ati-
+ghora (exceedingly terrible); by the wind, phlegm and bile (the
+humours), by the embodied Atanka (agony)etc. and by Ananda
+
+
+Uttarabhdga 3.51-64
+1559
+bliss; the soul of the universe had recourse to the greatest
+Dharma; the creator of the worlds himself was surrounded by
+other living beings not mentioned here; he was being served
+by the embodiments of evil words and harsh statements etc.
+Yama the son of the Sun, entered the place amidst them like a
+bashful bride.
+51-55. With his head bent down and glance directed
+beneath to the floor, he appeared before them. On seeing
+Yama entering alongwith Narada and his Kayastha (accoun¬
+tant i.e. Gitragupta) the people there were surprised. With
+surprised looks they spoke to one another—“Why ? How
+comes it to be that Bhaskari (son of the Sun i.e. Yama) has
+come here to see the Creator and the grand-sire of the worlds ?
+This son of Sun never remains inactive even for a
+moment. He is always active. Then how is it that he has come
+now. I hope everything is all right with the heaven-dwellers. I
+consider this as the wonder of wonders, that the clerk (Ghitra-
+gupta) has come with his (writing) cloth completely erased and
+clean. He is full of great distress. No person who performs holy
+rites has ever erased his cloth. What has never been seen or
+heard is being seen now.”
+56-58. O Brahmana, even as they were speaking mutual¬
+ly thus, the son of Sun (i.e. Yama) who used to chastise all
+Jiving beings, fell in front of god Brahma, just like a tree the
+root of which is cut. He cried aloud “O save me, O save me,
+O Lord of the Devas, I have been overwhelmed and oppressed
+since my writing cloth has been erased clean. While you are
+my Lord, O Lotus-seated one, I find myself distressed.” O
+excellent Brahmanas, after saying this he became unconscious,
+motionless.
+59-61. Then a tumultuous commotion arose in the
+assembly, “He who makes all the worlds consisting of the mobile
+and immobile beings, is himself distressed and is crying.
+Why is Yama, the son of the Sun, crying? Or this common
+saying seems to be a statement of truth—the saying “He who
+distresses the people ere long is distressed himself. No man who
+commits an evil action ever attains auspicious results.”
+62-64. Thereafter, knowing the view of god Brahma,
+Vayu the Wind-god, silenced the talk of those people of the
+
+
+1560
+Narada Purina
+same mind (i.e. holding the same opinion regarding Yarna and
+his arrival there) The liberal-minded Vayu raised Yama slowly
+with his brawny well-developed hands. He placed him on a seat
+even as he was agitated and was about to run away. He spoke
+to Yama the son of Sun, having the Ethereal form and ac¬
+companied by his Kayastha (Accounts-clerk Gitragupta).
+65-67. “By whom have you been attacked? By whom
+have you been displaced and banished ? By whom has your
+cloth (record) of the world, the divine cloth, been erased ?
+Speak out everything completely. Or may this god Brahma
+say ? O dear one, he who is the lord of all, shall grant you the
+uplift. O son of Martanda (Sun), he will remove all the
+misery in your heart.”
+
+## 68. On being addressed thus by the Windgod, Yama,
+
+the son of the Lord of Day (the Sun), looked to the face of
+Narada, the son of Brahma and slowly uttered the following
+words in a voice choked with tears.
+
+## CHAPTER FOUR
+
+An Appeal by Tama
+
+## Tama said :
+
+
+## 1. O Lord Pitamaha, Grandsire of the world, listen to
+
+my words. O Lord, humiliation of one’s exploits is worse than
+death.
+
+## 2. O lotus-born deity, he who is devoid of selfish
+
+motives and desire, and does not carryout his appointed task,
+falls into hell which is like a blind well.
+
+## 3. O lotus-seated one, the employee who does not
+
+implement the direction, but continues to consume the wealth
+of his master, shall be a worm in the decaying wood.
+
+## 4. The employee who, out of greed, consumes (i.e.
+
+misappropriates) the wealth of the common subjects or the
+king falls into hell for a period of three hundred Kalpas.
+
+## 5. He who is interested only in selfish gains and so robs
+
+
+
+Uttarabh&ga 4.6-19
+1561
+his master, shall be a slow-witted mouse in the house for three
+hundred Kalpas.
+6, The employee who, enjoying himself in his house,
+shirks his own work and compels the king’s servants to do his
+work also, shall take the birth of a cat.
+
+## 7-8a. O Lord ! It is at your behest that after due con¬
+
+sultation with sages and texts on DharmaSastra that I had been
+administering justice and governing the subjects commending
+the merit of the meritorious and condemning the sin of the
+sinners.
+
+## 8b-9. Since the beginning of the present Kalpa so long
+
+as it is your day, I can carry out my duties by dint of
+your command. But today I have been defeated (and over¬
+powered) in my work by King Rukmahgada.*
+
+## 10. O Lord of the Universe, afraid of' that king, the
+
+entire ocean-girt Earth does not eat anything on the day of
+Visnu (the EkadasI day) that is destructive of all sins.
+
+## 11. People eschew all holy rites; they abandon the wor¬
+
+ship of Pitrs, they do not worship Devas, they neglect
+pilgrimages, holy ablutions and other good rites.
+
+## 12. O bestower of honour, they eschew both the systems
+
+of philosophy—Yoga and Saiikhya. They neglect the perfect
+knowledge and the knowable; they abandon self study of
+Vedas and the performance of Homas; (over and above all
+these) they commit many number of sins.
+13-15a. Still they go to the region of Visnu by observing
+fast on the day of Hari. They go to the world of Visnu
+alongwith their fathers and grandfathers. Their fathers and
+father’s fathers, mother’s fathers, their fathers and their ances¬
+tors—all these go to the world of Visnu.
+
+## 15b. 19. O Lord, this is the misery that cuts me to the
+
+quick wiping off my writings (i.e. decrees), the fathers of their
+beloved ones go to the abode of Visnu (?). A man is bom of the
+seed of his ancestors, he is held in the belly of the bearer
+(woman). He who commits any sin, has to experience the fruits
+
+## 1. VV. 9-25 a; This is another way of describing the glory and
+
+efficacy of the EkSdail Vrata.
+
+
+1562
+Ndrada Pur&na
+thereof. But O Brahma, the seed that originates from tlie nurse
+is sown by another. It may perhaps redeem both the sides, the
+one wh(3 is olTered the Pin^la and the one to whom the body
+belongs. But the wife has no seed nor the wife holds him in her
+womb. Then, O Lord of the Universe, how does her side attain
+the greatest region through the greatness of the merit of the
+son-in-law ? Therefore, my head aches.
+
+## 20. O Lord, no purpose of mine is served, thanks to this
+
+sort of employment, whoever observes fast on the Ekadasi day
+leaves me olf and goes to Hari.
+
+## 21. O Lotus-born deity, he uplifts three generations in¬
+
+cluding himself. After leaving olf my path, he goes to Hari’s
+mansion.
+22-24. No man attains such a destination as that of a
+devotee who performs the holy rite of Vi‘^nu—Not even if he
+performs sacrifices (Yajnas), goes on pilgrimage to the holy
+centres or gives charitable gifts or performs those Vratas
+with the exception of those pertaining to Visnu. No one giving
+up life in water or fire attains such a goal. O god Brahma
+neither the person who gives up his body by the Yoga practice
+nor he who falls down from a precipice attains that goal. O
+most excellent one among those who attain good goals, it is the
+truth that has been uttered by me.
+
+## 25. Any human being, even if he perpetrates extremely
+
+wicked actions, goes to the world of Dharanidhara (Visnu who
+holds and supports the Earth). If the man smears his limbs with
+the fruits of embylic myrobalan and if he has no interest in
+sweet juices and meals on the Ekadasi day.
+
+## 26. I have become disappointed because I have no work
+
+on the Earth. Hence, I have resorted to your pair of lotuslike
+feet. O cause of creation, sustenance and dissolution (of the
+universe) make time propitious for the attainment of fear¬
+lessness on this mere intimation. *
+*But if the reading is sarga~sthiti-ndia~helofi as in my text, the verse
+means.
+“O Lord, who grant immunity from fear by mere request, fix up
+the lime for atiaininc; creation, svjslenance and destruction.’^'
+
+
+Uttarahhdga 4.27—5.8a
+1563
+
+## 27. May not the sinful men be devoid of restraint
+
+through my Bhutaganas (attendants). Let them be chained or
+tied with ropes. Let them come near me and be under my
+control.
+
+## 28. The path oppressed by the heat of the sun is broken
+
+because crowds of people are being released very quickly at
+the hands of Visnu’s attendants from the hell Kumbhi.
+They go to the splendid abode of the lord who is greater than
+the greatest.
+
+## CHAPTER FIVE
+
+The lamentation of Tama
+
+## Tama continued:
+
+
+## 1. The path of the discus-bearing lord has been furnish¬
+
+ed and rubbed, O deity worshipped by the three worlds, by
+men who pass through it without break.
+
+## 2. O Lord of the Universe, I consider the world of Vi?nu
+
+to be infinite in magnitude, since it is not filled with the floods
+of people with all living beings cropping up like lotuses.
+
+## 3-4. O Pitamaha, (Grandsire of the universe) people
+
+adhering to their duties, people following other men’s duties,
+pure people and impure people, every one observes fast on the
+day of Visnu and goes to the world of Visnu, at the behest of
+the king. The entire world is accommodated only in the resi¬
+dence of Madhava. This king is hence our great enemy. He is
+particularly your enemy as well.
+
+## 5. O Lord of the worlds, undoubtedly he must be curbed
+
+and restrained. For the last one thousand years, he has ruled
+over the sphere of the world.
+
+## 6-8a. Immeasurable number of persons have been taken
+
+over by him to the world beloved of Hari. They were enabled
+to ride Garu<Ja. They were given forms having four arms;
+they were neatly clad in ydUow garments; they were
+garlanded and smeared with sweet-smellix^ unguents. If he
+
+
+1564
+Ndrada Purdna
+continues to abide by the holy rite of Ekadasi, O Lord of
+Devas, this beloved devotee of Visnu will take the entire
+world to the region of Visnu free from ailments.
+
+## 8b-9. This staff of justice and this cloth (the scroll
+
+recording details of acts of omission and commission of men)
+have been released by your feet (i.e. byyou). My incompar¬
+able guardianship of the world has been nullified by that king
+RukmMgada. Blessed is that lady who has borne him.
+
+## 10. If the son is superior to others in good qualities^
+
+he becomes competent to destroy the miseries of his mother.
+Of what avail is a child that is born, if it brings distress to
+its mother ?
+
+## 11. If the son does not harass his enemies like the sun
+
+in the month of Jyestha, the labour pain of the mother has
+gone in vain. O Lord, she is one having a bad son.
+12-13a. That son is called the ailment or diseased part
+from the mother’s womb bom on this earth, if his fame does
+not shine like the lightning among the clouds, the son who docs
+not uplift his father’s side through learning or strength.
+13b-16. The son who is deprived of virtue, wealth and
+love, though bom on the Earth is only an ailment in the belly
+of his mother. His life is futile. O Brahma, there is undoubtedly
+one heroic mother—the lady from whom is born Rukmangada
+for the purpose of erasing my writings. Such a thing as this
+has never been accomplished by any king. O Lord of the Universe,
+even in the Puranas (or even since ancient times) this wiping
+off of the cloth has not been heard of. Seeing this king adhering
+to his service to Hari, proclaiming aloud by means of drum
+and destroying the path leading to my mansion, I cannot
+continue to be alive.
+
+
+UttarabhSga 6.1-9
+1565
+
+## CHAPTER SIX
+
+God Brahma's Reply
+
+## Brahma said :
+
+
+## 1. What surprising thing has been seen by you ? Why
+
+do your feel distressed ? Distress at the good points in others
+is an agony that lasts till death.
+
+## 2. O Sauri (Son of the Sun), how does a man not attain
+
+the highest region by observing fast on the day of the Lord,
+the mere utterance of whose name enables one to attain the
+same ?
+
+## 3. A single bow offered to Krsna is on a par with the
+
+sacred final (Avabhrtha) ablutions in ten horse-sacrifices.
+Moreover, the person who performs ten horse-sacrifices may be
+reborn in this Sarhsara, but the man who makes obeisance to
+Krsna is never reborn.
+
+## 4. If at the tip of one’s tongue the two syllables HARI
+
+are present, what has one to do with the holy centres of
+Kuruksetra, Kasi and Vraja ?
+
+## 5-6. A Brahmana who indulges in sexual intercourse
+
+with a Gan<;iala woman, especially during her monthly course,
+and eats food cooked in spirituous liquor, can eschew heaps of
+sins accumulated by perpetrating forbidden acts of eating the
+forbidden food and of cohabiting with a forbidden woman, if
+he but remembers Hari at the time of death. He (thereby)
+attains (Sayujya (complete identity) with Visnu and is
+liberated from the bondage of worldly existence.
+
+## 7. If one gets salvation on uttering his name, how is it
+
+that he should not get it by observing fast on his day ? He who
+is sung about in it (fasting period), is the Purusottama
+who becomes contemplated.
+
+## 8. Even if he were to utter the name of Lord Janardana
+
+sportingly or listens to it, a man acquires equality with the
+waters of Ganga in regard to sanctity and meritoriousness.
+
+## 9. Purusottama, the Sovereign Lord of the worlds, is the
+
+cause of our birth. How can a wicked-minded fellow (like
+
+
+1566
+N&rada Purdna
+you) chastise the person who observes fast on his (Visnu’s)
+day ?
+
+## 10. That you have not been ground down into powder,
+
+that you have not been tightly bound by them, is due to the
+honour bestowed on us. You are not trying to understand the
+real point from me.
+
+## 11. The employee who does not know the most excellent
+
+and loyal devotees of the king on the Earth is subjected to
+arduous exertion and is again kept captive by them.
+
+## 12. Persons favourite with the king should not be appre¬
+
+hended as culprits by an employee (a servant of a king).
+Achieving their objects through the favour of the master, they
+may get the employee dismissed.
+
+## 13. Similar is the position of the sinners who bow down
+
+to Janardana. How will you restrain them out of foolhardiness,
+O son of Bhaskara ?
+
+## 14. O son of Divakara (Sun-god), O son of Bhaskara
+
+I may help you with the devotee of Siva or Bhaskara
+(Sun-god) or my own devotees, but never with the devotees of
+Hari.
+
+## 15. Piirusottama is the Primordial deity among all
+
+Devas.
+
+## 16. Restraining the devotees of Madhusudana (God
+
+Visnu) is not proper even if they fraudulently observe the
+holy rite of Ekadasi during the lunar fortnight.
+17-18. If they have slighted you, I cannot help you.
+O son of the Sun, if any help is rendered to you that will be
+injustice to me. It may even destroy my body. There
+may even be reversion from the post of Brahma that is attained
+through high merit which I have achieved during the course
+of my life in the company of Visnu’s devotees.
+
+
+Uttarabhdga 7.1-9
+1567
+
+## CHAPTER SEVEN
+
+The statement of Brahma
+
+## Tama submitted :
+
+l-2a. Dear grand-sirc, in bowing down at the feet of
+the Veda, the benefit has been achieved by me. O Lord of
+the Universe, I shall not go again and join my duties while the
+king called Rukinaiigada is ruling over the world,
+
+## 2b-3. O e.xcellent one among the deities, if when the
+
+day of Ilari arrives, you are able to shake him from his
+courageous resolve, I shall be your servant. O Lord, he is my
+great foe. My cloth (account of merits and sins) has been
+rubbed (and erased) by him.
+
+## 4. By making him take his food on the day of Krsna
+
+(i.c. Ekadasi), I shall feel as if I have accomplished all my
+objects like a person who has offered balls of lice to the
+manes at Gaya.
+
+## 5. From today onwards, those persons cannot be rest¬
+
+rained by me—those persons by whom Hari, the Lord of the
+Devas, is remembered or eulogised or by whom the fast is under¬
+taken on his day.
+
+## 6. 7’hose men who burst into ejaculation, even frau¬
+
+dulently, with the word ‘Hari’, arc liberated from the path
+leading to the mother’s womb. They are clever people. They
+do not enter the sphere of writing on my cloth (of virtue
+and sins). They are worthy of being bowed down to by the
+excellent groups of heaven-walkers (i.c. gods).
+
+## Sauti said :
+
+
+## 7. In connection with the affair (problem) of the son of
+
+Vivasvan (i.e. Yama), the Kusa-emblemed god Brahma had a
+desire to do something in his honour. He therefore pondered
+thus.
+
+## 8-9. The Lord, adorned by the Bhutas (living beings)
+
+pondered for a moment. The omnipresent Lord thereafter
+assumed a form that would terrify all living beings. He, there¬
+after, procreated therein a young woman who fascinated
+the worlds. That gentle lady, mentally created by him, the
+most excellent of all beautiful women, appeared splendid.
+
+
+1568
+Ndrada Purina
+lO-Il. Fully bedecked in all ornaments, she stood in
+front of him. On seeing her fully endowed with the wealth of
+beauty, he (Brahma) spoke to his own people w'^ho being
+deluded by lust for her, were ogling at her. Brahma closed
+his eyes for fear of committing a sinful offence.
+12-13. He who looks with lustful eyes or thinks about
+with lascivious mind, at one’s own mother, or daughter,
+daughter-in-law or brother’s wife, preceptor’s wife or the king’s
+wife falls into the terrible hell; by thinking about a Candala
+woman also, the man falls into a hell.
+
+## 14. The man who becomes perturbed on seeing these
+
+young women, loses all his merits acquired in the course of
+various births. His merits thus become futile but not otherwise.
+
+## 15. If he indulges in sexual intercourse with them, ten
+
+thousand merits of his are wasted away. As the merit goes on
+diminishing he becomes more and more sinful and eventually
+he is born as a rock-rat.
+16-17. Hence no intelligent man should think about
+them or see them with lustful eyes. Once the sons have
+attained their twelfth year, they must not stroke the feet of
+even their mother. The mother should not get herself applied
+with oil over her body by sons who have reached the age of
+youth then. A clever son may engage his mother whose age is
+more than sixty, in anointing his body with oil.
+
+## 18. Whether an old man ora young man, no one shall
+
+ask his daughter-in-law to massage his feet. It is proclaimed
+that both of them will fall into the Raurava hell full of burning
+coal.
+19-20. O king, the daughter-in-law who shows her
+uncovered limbs to her father-in-law shall be knocked and
+kicked and will be eaten by worms therein in the hell.
+The same goal awaits that sinful man who gets his feet cleaned
+by the hands of his daughter-in-law or makes her bathe him or
+smear oil over him. In the hell, he shall be eaten by worms
+with needlelike snouts and black faces, for a period of one full
+Kalpa.
+
+## 21. Hence no man shall glance at other’s women, or
+
+one’s own daughter or daughter-in-law with lustful eyes and
+thoughts. Immediately the man falls or incurs sins.
+
+
+Uttar a Bhaga 7.22-33a
+1569
+22-23. It was because he thought over like this that he
+looked at her, with a subtle, penetrating view-point. It is
+nothing but a mere skeleton (lit. cage) of bones covered
+with flesh and skin that appears a face, lofty, circular and
+splendid. The shining eyes seen present in women comprise
+suet and flesh.
+
+## 24. The extremely protruding mass of flesh has been
+
+piled up over the breasts. The three folds of skin on the upper
+part of the belly (which are regarded as a mask of beauty)
+show lesser (distribution of) flesh.
+
+## 25. In the buttocks again, more flesh has been stacked.
+
+This is the passage for urine. It is a private part, of which
+the three worlds are enamoured.
+
+## 26. It is joined with the Apana wind (i.e. this wind
+
+functions there). It is always vile (with bad odour) and
+contemptible always. More flesh is heaped up than the swollen
+bellows in the part of the buttocks.
+
+## 27. Just as a log of wood is sawn into two (half way
+
+through), so also is the region of shanks (thighs ? ). It (the
+body) is filled with semen, flesh, bone, fat and marrow.
+How can it be beautiful ?
+
+## 28. What is there by way of essence, in the body of
+
+men wherein the main constituents are flesh, fat and marrow ?
+Tell me which man will be enamoured of the body, nourished
+and grown plump by means of faeces, urine and other dirts.
+
+## 29. Virifici (God Brahma) pondered thus, after seeing
+
+everything with his vision of knowledge. He took courage and
+spoke to that lady whose gait was like that of a female elephant.
+
+## 30. “O fair-complexioned lady, since you have been
+
+created by me mentally you have become a lady of beautiful
+limbs, competent to madden the minds of men.”
+
+## 31-33a. Then she bowed to the fourfaced God and said :
+
+“O Lord, see the entire universe consisting of the mobile and
+immobile beings deluded and falling unto senselessness. It
+includes even the Yogins who are totally sinless. O lotus-born
+deity, keeping you in the beginning (inclusive of you), there
+is no man in the three worlds who does not get agitated and
+perturbed on seeing me.
+
+
+1570
+Ndrada Purdna.
+33b-34. Boasting about oneself should not be indulged
+in by one who wishes for one’s own auspicious welfare. Even an
+extremely pure man falls into hell due to selfpraise. Still, O
+Brahma, the glorification or self-praise must be stated to
+achieve some special end.
+
+## 35. O Brahma, indeed, it must be to make some one
+
+excited and perturbed tliat I have been created by you. O Lord
+of the Universe, command me. Mention who he is. I shall
+definitely make him excited.
+36-37. O Lord, on seeing me even a mountain becomes
+infatuated. What then of an ordinary man endowed with
+consciousness who inhales and exhales ? The description of
+the powerful impact of a woman’s glance is described in the
+Puranas. It causes madness in men and is destructive of all
+holy vows and rites difficult to be observed.
+
+## 38. Till then the man treads the path of the good, till
+
+then the man has perfect control over his sense organs, till then
+he retains his humility and sense of shame, till the shaft-like
+glances of dalliance-minded damsels pieice his heart
+and destroy his fortitude. The shafts that are discharged
+fiom the well-drawn bow of the eye-brow, the eyes having
+blue lashes, roach up to the ears.^
+
+## 39. Fie upon the poetry of that stupid ill-informed poet
+
+who equates the face of a lady to the moon. Is there any of
+these in the moon—viz. the knitting of the eyebrow, the side-
+glances expressing the wounding look, fury, pleasure and
+laughter ?
+
+## 40. O Lord, only when it is drunk does the spirituous
+
+liquor cause delusion in the mind of a clever man. But a youth¬
+ful maiden excites delusion even when she is seen or remembered
+by a man. So she is more powerful than the spirituous liquor.
+
+## 41. O great grand sire of the world I have been created
+
+
+## 1. Just as an archer bends his bow stretching the bow-string up to
+
+his ear and discharges the arrow winch pierces the heart of the enemy, the
+shaft-like glances are discharged from the bow-like bent eye-brows of women
+with blue eye-lashes—eyes which are long upto the ears. Such longish eyes,
+were traditionally regarded beautiful.
+
+
+Uitara Bk&ga 7.42-52
+1571
+by you for fascinating men. Command me. Who is it ? I shall
+enchant even the three worlds.
+
+## Brahma said :
+
+
+## 42. O Lady with thighs like the trunk of an elephant, O
+
+fortunate one with the gait like that of an elephant in rut, the
+truth has been expressed by you. There is nothing that cannot
+be achieved by you in the three worlds.
+
+## 43. O fair-complexioned lady, you are defiling even my
+
+mind also although I control and steady it by means of the goad
+of perfect knowledge.
+
+## 44. Such being your charm how then will you not
+
+captivate the minds of people ? O large-eyed lady, truly your
+beauty of form is seductive.
+
+## 45. I find that the entire Universe including the immor¬
+
+tal being, is motionless. O excellent-faced lady, achieve that for
+which you have been created.
+
+## 46. O auspicious lady, on the earth, in the city of Vidisa^
+
+there is a king named Rukmahgada whose wife Sandhyavali is
+comparable to you in beauty.^
+
+## 47. His son Dharmahgada was born of her. The son
+
+surpasses the father. He is endowed with the strength of a
+hundred elephants. He is like the sun in exploits.
+48-52. In forbearance he is equal to the Earth; in pro¬
+fundity he is comparable to the ocean; like the fire, he shines
+with his brilliance, he is comparable to Vaivasvata Yama,
+God of Death in fury; he is like Bali in munificence; he is
+comparable to the wind god in mobility; in gentleness he is
+equal to the moon; he is as handsome as Manmatha the god of
+love; the prince is equal to Jiva (Brhaspati) and Bhargava
+
+## 1. A few years back (under the British) it was called Bhilsa. Now
+
+its old name Vidiu has been adopted. In the NP. here and in the Devi
+Pur&^ (Ch. 76) it is called Vidisa.
+
+## 2. VV. 46-73 contain instructions and guidance given by god
+
+Brahmi to Mohini how to make king Rukmangada break his Ek&dasi Vrata
+and thereby make people go to the region of Yama. This plot in a nutshell
+is developed in details in subsequent chapters. The denouement is very
+interesting.
+
+
+1572
+Ndrada Purdna
+(Sukra) (preceptors of Devas and Daityas) in statesmanship. O
+fair-faced lady, the entire Jambudvipa alone is enjoyed by his
+father (Rukmahgada). But the other Dvipas (continents)
+are conquered by Dharmahgada. He has not yet known the
+thrill of a contact with a youthful maiden due to his bashfulness.
+Thousands of women come to him of their own accord but they
+are avoided by him. He does not move astray from his pledged
+word.
+
+## 53. O fortunate lady with sweet smiles, in his father’s
+
+house three hundred mothers look upon him equally without any
+difference in their affection, O lady with gold-like complexion !
+
+## 54. O woman of beautiful limbs ! On the excellent mount
+
+Mandara, approach the King to whom Dharma is of prominent
+importance and who is adorned with the jewel of a son.
+
+## 55. The king carried away to that place by his horse will
+
+stay there enamoured of your song, O woman of beautiful
+limbs, even leaving off his horse.
+56-57. Climbing on to the top of the mountain he will
+come into contact with you. On meeting the king there, O gentle
+lady, you must say thus ; — O king, undoubtedly, I will become
+your wife. But O lord, whatever I say must be definitely carried
+out by you.
+58-62. Enamoured of your beauty the king will promise it to
+you. Thereupon, after a few days have elapsed you shall hold him
+by the right hand with imprecations. O woman of lovely eye¬
+brows and charming limbs, when the king appears to be raptu¬
+rously eager for cohabitation with you, you shall laughingly
+remind the king of his earlier words : “O King, you have
+sworn that you will abide by my word. Hence, O king, keep
+your promise. I think the time has now come for the same.”
+When this is said by you, the king will certainly say thus on
+account of the high value and importance of the promise. “There
+is no doubt about it, I shall keep it. Tell me what shall I give
+you?” When he replies thus, O auspicious fair-faced lady, Ruk¬
+mahgada, the king and father of Dharmahgada must be
+addressed thus by you.
+63-68a. “Never should the fast be observed on the
+Ekada^i day of Hari. O my darling, your fast is & hindrance to
+
+
+Uttara BfUlga 7.68b-73
+1573
+my sexual intercourse with you. He who does not attend to his
+own wife who is charming and who is endowed with youthful
+virility, he who expects another opportunity (i.e. he who post¬
+pones) is a man of wicked actions. Certainly, he goes to hell.
+Due to your fasting, I am abandoned by you for three nights.
+But actually I am incapable of staying even a moment without
+you. When the time of Sraddha has come and the Brahmanas
+sit and wait (for the performance), if the wife solicits the
+husband for cohabitation, she must be enjoyed at the very
+same time.”
+O woman of sweet limbs, even after being urged thus, if
+the king does not carry out your request, you shall say thus
+
+## thereafter:
+
+68b-69. “O King if you do not abandon your fast on the
+day of Hari, cut off the head of your own son Dharmahgada
+with an excellent sword, and place it on my lap.
+
+## 70. O king if you do not carry out this loving wish of
+
+mine, you shall become deficient in virtue, merits and you will
+undoubtedly fall into hell.”
+71-72. O excellent lady, if, on hearing your words, he
+does not injure his son who is like his own vital breath unto him,
+he shall pay heed to the advice of the Brahmanas and shall
+take food on the day of Ekadasi. Thereupon, the people will
+go near Yama as before after being tied with ropes by the
+attendants. Taking the writing (of Chitragupta) as authority,
+there will be persons occupying hell. Thus what you do will
+be splendid.
+
+## 73. Or if the glorious king, abiding by the promise, really
+
+kills his son he will go to the region of Padmanabha, that is
+worthy of being worshipped by the immortal beings
+wholly.
+
+
+1574
+N&rada Purdm
+
+## CHAPTER EIGHT
+
+The description of Mount Mandara
+
+## Sauti said :
+
+
+## 1. On hearing the words of Brahma, that lotus-eyed
+
+woman said—“Give a name unto me with which I should go
+to Mandara mountain.
+
+## 2. O Lord of the Universe, children must be named by
+
+the father. The name is said to be destructive of sins. O Ku^a-
+emblemedGod, kindly do so.”
+
+## Brahma said :
+
+
+## 3. Since, O beautiful woman, the entire universe is
+
+■enchanted by you. O gentle lady, Mohini (enchantress) as your
+name shall be true to your attributes.
+
+## 4. O woman of lovely eyebrows, if he comes into a plea¬
+
+sure-giving contact with you, thanks to a clear vision of yours, he
+will have to experience all the ten states of a love-lorn
+lover).
+
+## 5. On being thus commanded, the fair lady bowed down
+
+to the lotus-seated deity and set off to the mountain Mandara
+wistfully gazed at on the way by the immortal ones (gods).
+
+## 6. By the third Muhurta (one Muhurta— => 48 minutes)
+
+she reached the summit of the mountain. It had been impossi¬
+ble for Vasuki to go round it once (i.e. to encircle it bodily),^
+
+## 7. It was this mountain that was formerly lifted up by
+
+Hari (in the form of Divine Tortoise) and used for churning
+(the milk ocean) by the Devas and Danavas. Sindhu (the
+■ocean) which extends to six hundred thousand Yojanas is the
+<leep pit made by this mountain.
+
+## 1. This refers to the churning of the ocean by gods and demons for
+
+attaining nectar. Mount Mandara was used as the churning rod and
+.serpent Vasuki as the string to wind round it for churning (Mbh-i4di-Gh.l8).
+The Mbh. regards mount Mandara of the Himalayan range as the real
+Mandara. The claim of a hill 30 miles to the south of Bhagalpur in
+Bhagalpur district, with grooves of artificial chiselling to indicate the
+impression of the coils of a serpent, disqualifies its claim of being the real
+Mandara—De. 124-125.
+
+
+Uttara Bhdga 8.8-17
+1575
+
+## 8. This great mountain was not broken even when it rub¬
+
+bed against the physical body of the Divine Tortoise. O lead¬
+ing king, when it fell into the ocean all the hidden parts of
+the ocean were exposed by this mountain.
+
+## 9. O Brahmanas, water gushed out from this mountain
+
+went up through the path of the Brahmanda (Cosmic Egg).
+Great fire was generated by this mountain due to attrition when
+it came into contact with the bony shell of the (Divine)
+Tortoise.
+
+## 10. It is on this mountain that Lord Digambara (naked
+
+deity i.e. Siva) resides along with his goblins, but, O exellent
+Brahmanas, he is not visible either to the Devas or to the
+Danavas.
+
+## 11. It was for a great period of time viz. ten thousand
+
+years that this mountain ground and rubbed the armlets
+of the discus-bearing Lord.^
+
+## 12. This is a veritable mansion of jewels equipped
+
+with many kinds of minerals.
+
+## 13. It is the sporting ground of the heaven-dwellers; it is
+
+the place for penance of the sages, it enhances the zest of the
+divine maidens for sexual dalliance; this great mountain is the
+source of jewels and medicinal herbs.
+
+## 14. Its girth at the root is ten thousand Yojanas, its
+
+width at the top is also that much. With the length too being
+as many Yojanas, it rises up as the measuring rod of the three
+world.
+
+## 15. It illuminates the surface of the Earth and the sky by
+
+means of its golden peaks full ofjewels and gems. On reaching
+it the son of Kasyapa (i.e. Sun) loses his splendour. He
+becomes devoid of rays.
+16-17. The lady of golden splendour reached the Man-
+dara mountain whose parts are the abodes of gold (ingots).
+Endowed with her own splendour she made the mountain Man-
+dara the destroyer of the brilliance of the sun, (i.e. surpass it)
+
+## 1. The description of the churning for Amjla differs slightly in the
+
+Mbh and other Puranas in minor details. But the object of the NP. here is
+to describe the glory of mount Mandara and not the churning of the
+nectar.
+
+
+1576
+Narada Purdm
+with her own lustre. For the purpose of exciting the lustful pas¬
+sion of the king, she sat on the rocky surface of the mountain
+that extended to seven Yojanas and that had a divine bluish
+splendour.
+
+## 18. O leading king,^ there stands on that rocky
+
+surface an adamantine Lihga, ten Hastas in height as well as
+in girth.
+
+## 19. It is famous by the name of Vrsalihga. It appeared
+
+like a great palace among the clouds. O excellent Brahmanas
+that girl gave a sweet and excellent performance of music,
+
+## 20. That charming lady sat near that Lihga and played
+
+on the strings of the lute beating time harmoniously. Her
+songs were exquisitely destructive of tedium.
+21-22. It had the Murcchana (the regulated rise and
+fall of sounds) and the Tala (beating time). It had the
+Gandhara note inits composition. O leading king (?), when
+the song that heightened passionate love flowed forth from her
+like this, O leading sages, even the immobile beings began to
+desire it. Neither divine nor non-divine music had ever been
+like that before,
+23-24. On hearing that sweet note flowing out of the
+mouth of MohinI, the note that enchanted all living beings.
+Lord ^iva became lustful and wanted to enjoy her in that very
+form of Digambara (nakedness). But, on being seen by Parvati
+he felt ashamed.
+
+## 1. Wc are to suppose that the worck of address ‘O king’ in such
+
+contexts, are addressed to King Mandhata by Vasiftha.
+
+
+Uttara Bhdga 9.1-11
+1577
+
+## CHAPTER NINE
+
+A dialogue between Rukmdngada
+and Dharmangada
+
+## Sauti said :
+
+
+## 1-3. O Brahmanas, the leading king Rukmahgada enjoy¬
+
+ed all human pleasure. In diverse ways he worshipped the
+yellow-robed Lord Hari. He had already plat ed his feet on the
+heads of his enemies who dared to fight him. By making the
+pathway leading to Yama’s land empty he conquered Yama,
+the son of Vivasvat (Sun). He made the path of Visnu’s
+world thronged with human beings. At the proper time, he
+
+## called his son Dharmangada and spoke thus :
+
+
+## 4. “O son, protect this earth full of wealth all round,
+
+with your own rnigfit. B'' firmly resolved in your own duties.
+
+## 5. If the father does not hand over the kingdom when
+
+the son has become competent, there is no doubt in this that
+his merits and fame perish.
+
+## 6. The father who does not feel happiness, thanks to his
+
+efficient son, must be certainly known as the greatest sinner
+in the three worlds.
+
+## 7. The son who, after becoming strong enough to do so,
+
+does not take up the burden of his father, is no better
+than the excrement of his mother. He is a two-tongued serpent
+devoid of poison.
+
+## 8. He is the real son who becomes more famous than the
+
+father on this Earth and illuminates the places like the sun
+with his rays.
+
+## 9. If the father keeps awake during the night due to the
+
+sorrow resulting from the misdemeanour of the son, the son
+stays in hell till the final dissolution of all living beings.
+
+## 10. He who honours the words of his father and carries
+
+out his behests in the house, attains Sayujya with the deity,
+while he will be eulogised by the gods stationed in the
+heaven.
+
+## 11. O son, as for me, I have been attracted by holy
+
+actions in the world for the sake of subjects. Stationed
+
+
+1578
+NSrada Purdna
+in the activity of protection (i.e. abiding by my duty as their
+protector) I have never enjoyed or slept of my own accord.
+
+## 12. O son, As long as you were unable to shoulder the
+
+responsibilities of the kingdom, ease and happiness was
+not attained by me, as I was determined to restrain those
+who partook of food on the day of Lord Visnu (i.e. on
+Ekadasi days).
+
+## 13. Among the people some (i.e. J^aivites) followed the
+
+path of the devotees of Siva. Some abided by the path of the
+Sun, others were the followers of Brahma, while others (i.e.
+iSaktas) stood in the path of Parvati.^
+14-16. (Many excuses were offered by people for eating
+food on Ekadasi day). “In the morning and in the evening, we
+are sitting up and performing the Agnihotra (Fire-worship)
+rites. Moreover a small boy, a young man, an old man, a
+pregnant woman, a small girl, a sick man or a physically
+handicapped person cannot undertake a fast.” When people
+protested like this, I refuted them everywhere by means of
+words mentioned in the Puranas. I spent many days over
+this. For the purpose of abiding happiness of the subjects, I
+enlightened them in various ways.
+17-18. I chastised them and made them desist from
+taking food. The scholars were made to refrain from food (on
+the authority of sacred scriptures (i.e. they were convinced
+that sacred texts prescribed the Ekadasi rite). The ignorant
+people were made to refrain from taking food by chastising
+them by means of deterrent punishment. Thus all were forced
+to observe fast on the day of Hari. Thereby being thus
+engaged I did not enjoy any personal happiness on the
+Earth.
+
+## 19. O dear son, the king who wishes to protect his sub¬
+
+jects shall not inflict on them miseries from himself or from
+others (from his own people or officers or through enemies).
+
+## 1. This shows that at the time of the NP, the sects of god Brahma
+
+and Sun were equally prominent like the Vaisnava, Saiva and Sakta
+sects.
+
+
+Utiara Bhaga 9.20-30
+1579
+20, To such a king ever-lasting worlds have been declared
+(as a reward) in the Puranas. I exist for the sake of the subject
+O gentle boy, and never for myself.
+
+## 21. I wish to enjoy the pleasures derived from hunting
+
+and other strenuous exercises. O son, I never desire the pleasures
+of drinking bouts and gambling.
+22-23. Dear son, a king indulging in these vices will
+perish ere long. Through your favour, my dear son, I wish now
+to roam about the mountains, forests, rivers and lakes of
+diverse kinds under the pretext of hunting. Aftfer entrusting you
+with the burden of kingdom, I am desirous of enjoying
+covetable pleasures.
+
+## 24. All these things which I had in my mind have been
+
+disclosed to you. If they are carried out, you will earn a great
+fame; if they are not done, you will fall into hell.
+
+## Dharmangada said :
+
+
+## 25. “I shall do all these things. Enjoy the plea¬
+
+sures that appeal to your mind. O dear father, I shall bear
+the heavy burden of kingdom with pleasure.
+
+## 26. No other holy virtue except the execution of your be¬
+
+hest is acceptable to me. A son who does not act ac¬
+cording to the directives of his father incurs fall, though he
+may be performing holy rites.
+
+## 27. Hence, I shall carry out your order : Here have I
+
+joined my palms (in reverential promise).” When these words
+were spoken, the king became delighted.
+
+## 28. Learning again the availability of the game, Ruk-
+
+mahgada became desirous of going to the forest. Dharmah-
+gada was delighted in his mind. He summoned his subjects
+
+## and said :
+
+
+## 29. “I have been commanded by my father to strive
+
+for your protection and welfare. My father’s behests must be
+carried out in every respect by me who wish for the attain¬
+ment of Dharma.
+
+## 30. O subjects, a son has no other Dharma (holy duty)
+
+except the execution of the directives of his father. When I
+hold the rod of justice, even Yama cannot be the chastiser.
+
+
+1580
+N&rada Purdna
+
+## 31. After realising this, the Garu^a-cmblemed Lord (i.e.
+
+Visnu) should be remembered by you all. Janardana is to be
+worshipped by you after dedicating the fruit thereof to the
+Brahman.
+
+## 32. You must eschew the sense of my-ncss, and
+
+the feeling of possessiveness). You must worship in the manner
+laid down for your caste. Thereby, you will gain everlasting
+worlds. There is no doubt about this.
+
+## 33. O subjects, something in addition to the path of mv
+
+father has been pointed out to you, since you will be endowed
+with the rite of dedicating the fruit to the Brahman. May all of
+you be adapts in perfect knowledge.
+
+## 34. You must not take food on the day of Hari. This
+
+is the permanent path in accordance with the injunction of my
+father. A special additional thing has been mentioned to you by
+me viz. abidance in the Brahman.
+
+## 35. This adherence to the Brahman is to be practised by
+
+persons who know the truth. It is rare to be achieved. There is
+no return therefrom. As for the observance of the fast, the sti¬
+pulation is that it must be observed necessarily.”
+
+## 36. Dharmahgada had no rest or sleep by day or at night.
+
+He spent his day in consoling and cajolling his subjects again
+and again.
+
+## 37. He used to tour everywhere, through his heroic
+
+valour. He weeded the earth of all the thorns (undesirable
+elements). The following loud proclamation used to be announced
+daily with the beating of drums placed on the heads of
+
+## elephants :
+
+38-41. “O people of the world, may Hari the Lord of
+the Devas, be contemplated while engaged in the threefold ac¬
+tivities (?) Refrain from taking food on the Dvadaji day; be
+free from the feeling of possessiveness. The Lord partakes of
+oblation offered to gods and manes. He alone is the Sup¬
+reme person. The Lord of the worlds is to be remembered in
+the Sun, in the Krsakasa (in the minutest of Ethereal space)
+and in the Visarga (subsidiary creation) by all men who are
+desirous of accomplishing virtue, love and wealth. Worship
+of Visnu has been enjoined among the duties of one’s
+
+
+Uttara BhSga 9.42-50
+1581
+own caste. It is in the path of the good. Madhava himself is
+the Enjoyer and (the object of enjoyment. He alone is the
+supreme Man (Purusottama). Employment of him alone in
+all holy rites is the proper thing.
+42-43. Thus it proclaimed to the people by means of
+beating of drums with the rumbling sound of the cloud, O lead¬
+ing Brahmanas. Thus the father of Dharmahgada realised the
+virtue of his son. O Brahmanas, on realising that his son was
+equipp)ed with the practical holy rites even more than himself,
+the delighted king said to his wife who stood there like another
+Laksmi.
+
+## 44. “O fair-complexioned Sandhyavali, I am blessed.
+
+You too are blessed. To both of us is bom as son white
+as the moon on the Earth.
+
+## 45. Salvation has never been seen by anyone anywhere.
+
+Much about it has been heard by the ears. But the birth of
+our good son is the super-salvation that has been attained by
+us.
+
+## 46. O fair lady, if the son is richly endowed with humi¬
+
+lity, good conduct and heroism, if he is valorous, certainly it is
+salvation obtained by the father in his very house.
+47-48. Bliss is the form of the Brahman. Hundred such
+blisses are acquired by the father through his son, O woman
+of beautiful limbs, by his auspicious and holy rites,
+
+## 49. O gentle lady, there is nothing on a par with this in
+
+the whole world consisting of mobile and immobile beings,
+if the good son takes over the burden of his father and lifts it
+himself.
+
+## 50. So, I am delighted now. I shall go to the forest for
+
+hunting the deer and have some good sports. O woman of wide
+eyes, I am freed of my sins by affording protection to the j>coplc.
+I shall now freely move about.
+
+
+1582
+Ndrada Purina
+
+## CHAPTER TEN
+
+The dialogue between Rukmangada
+and Vamadeva
+
+## Vasiffha continued :
+
+
+## 1-2. On hearing the words of her husband, the wide-eyed
+
+lady said : “O king, the truth has been spoken by you. O lead¬
+ing king, just as the sages say, there cannot be a greater happi¬
+ness than that of a son. In this world it is equal to that of
+the greatest being named Visnu.
+
+## 3-4. The burden of responsibility arising out of the
+
+administration of the seven continents has been placed on the
+son by you. Abstaining from the violence to the deer, worship
+Janardana by means of sacrifices; abandon desire for worldly
+pleasures; serve the celestial river; this is the proper and justi¬
+fiable course of life to you but not the killing ofthedeer.
+
+## 5. O king, resorting to worldly pleasures by fathers hav¬
+
+ing grown up sons is like leaving the amorous marks with the
+nail on the breasts of an old woman.
+
+## 6. O ruler of the Earth, worship Lord Hisikesa (Visnu)
+
+in the house. It is not proper on your part to kill innocent
+herds of deer.
+
+## 7-8a. Non-violence has been glorified as the greatest vir¬
+
+tue in the Puranas. One who maintains himself through violence
+pursues holy rites in vain. He who follows the path of violence
+docs not gain anything, even if he follows the righteous path.
+O king, good men do not enjoy those things polluted and hurt
+by others.
+
+## 8b. Violence to living beings is said to be of six types, O
+
+king.
+
+## 9. The first man responsible for violence is the person
+
+who approves of it; the second one is the actual killer; the third
+one is the person who believes in it (who has faith in it) ; the
+fourth man (guilty) of violence is he who eats (the meat) ; the
+fifth man is the person who cooks and O king the sixth one is
+the person who is a participant in it. Learned men know the
+Dharma connected with violence is Adharma.
+
+
+UUara Bhiga 10.10-21
+
+## 158S
+
+
+## 10. O king, a father who resorts to Dharma and who has
+
+become old in age, does not commit sins after entrusting the
+burden to the son.
+
+## 11. Eschew the emotional feeling connected with the
+
+violence done to the deer. O king, hundreds of kings addicted
+to the vice of hunting deer have perished.
+12-13. Hence I consider the act of striking down deer as
+wickedness. Excellent deep sympathy and mercy towards deer is
+seen in the righteous kings. It is with the earnest desire for your
+welfare that you are being prevented by me.” To his wife who
+
+## repeatedly urged thus, the king spoke these words :
+
+
+## 14. O gentle lady, I do not wish to hurt or kill the
+
+deer. Under the pretext of hunting deer, I will wander in the
+forest weeding out thorns (undesirable element) with the
+bow kept ready in the hand.
+
+## 15. May my son be among the people, O fairfaced lady,
+
+and may I be in the forest. The subjects must be protected from
+both the beasts of prey and the robbers, by the king.
+
+## 16. O auspicious lady, the subjects must be protected by
+
+oneself or through one’s son. The king who docs not protect his
+subjects faces downfall, though he may be virtuous or
+religious.
+17-20. O beloved lady, it is with the protection of
+people in view that I will be going to the forest. I am devoid
+of false emotions and feelings. After saying this to her, the
+king climbed on to an excellent horse like the sun on the peak
+of the Meru mountain. The horse was defectless, lustrous like
+the moon, and was as it were the ornament unto the Earth. It
+was like the celestial horse Uccaihsravas in respect ofits beauty;
+it was like the Wind God in its speed. Paying respect to the
+Earth the king offered his right hand (?) which had given
+gifts of thousands and crores, which used to press and rub the
+breasts of beautiful ladies, which had the shape and appearance
+of the tender sprouts of the Asoka tree and which bore the
+marks of a thunderbolt and goad.
+
+## 21. The ruler of the Earth set off on his journey making
+
+the ground quake (beneath him). The excellent king passing
+many lands reached the forest.
+
+
+1584
+Ndrada Purdna
+
+## 22. Elephants, horses and chariots were shaken eff due
+
+to the velocity of the horse. The foot soldiers fell unconscious on
+the surface of the Earth.
+
+## 23. O king, after traversing hundred and eight Yoja-
+
+nas (one Yojana= 12 kins.) that king all at once reached the
+great Asrama (hermitage) of the sages.
+24-27. He entered the beautiful hermitage abounding in
+trees such as clusters of plantain trees, Asoka, Bakula Mimusops
+Elengi), Punnaga (nut-meg), Sarala (pine trees), Matulihga
+(citron trees), Kapittha (feronia elephantum), date palms,
+jack trees, [coconut palms, palmyra, Ketakas, Sinduvaras,
+Sandalwoods, Tamalas (Xanthochymus epictorius), Pippalas,
+Campakas, Areca palms, Dadimas (pomegranates), thousands
+of embylic myrobalans, margoas trees, mango trees, Lodhras
+(a tree with red-white flowers) and many other trees full of ripe
+fruits. They bent down due to the weight of fruits and many
+birds perched on them.
+28-29. Sweet smelling wind gently blew, wafting the frag¬
+rance of the flowers. Searching for the sages therein the king
+saw Vamadeva^, the most excellent Brahmana who had the
+lustre of fire and who was surrounded by many disciples. On
+seeing him the king got down from his horse and bowed to him
+with great respect.
+
+## 30. The king was honoured and greeted with Arghya and
+
+other things by that sage. Sitting on the Kusa grass scat he
+said in a delighted tone :-
+
+## 31. “On seeing today the lotus-like feet of yours who are
+
+ever engrossed in deep meditation, my sins have been eliminat¬
+ed and fruition of my meritorious deeds has been achieved.”
+
+## 32. On hearing the words of king Rukmangada, sage
+
+Vamadeva rejoiced much. After enquiring about his health and
+
+## welfare he said thus:
+
+i. This is not the Vedic scer V&madcva but some other sage of the
+same name. A number of sages of thU name are mentioned in the AfM.
+(SaiAd. 7. 17, Vana. 192. 43 H, 92-94) and VJt. (I. 7. 4. II.
+
+## 67. 3 etc.)
+
+
+
+UttaraBhdga 10.33-45
+1585
+
+## 33. O highly blessed king, my hermitage visited by
+
+you, a highly meritorious devotee ofVi§nu, has become the
+most sanctified on the surface of the Earth.
+
+## 34. Which other king on the Earth can attain equality
+
+with you by whom Yama has been vanquished and the path
+leading to his abode has been broken.
+
+## 35. O king, by compelling them to observe fast on the
+
+DvadasI day that is destructive of sins, the entire world has been
+led to the imperishable region of Vaikurifha.
+
+## 36. After controlling and restraining the subjects on the
+
+surface of the Earth soundly through the four splendid Upayas
+(means of success, viz. Saman, dana, danda, bheda) they have
+been led to the region of the slayer of Madhu (i.e. of Visnu)
+whether they abide by their duties or carry on the duties of
+others.
+37-38. O king, you have come within our view and we had
+been desirous of seeing you. O king, even a Cantjala who is a
+devotee of Visnu is superior to a Brahmana. Even a Brahmana
+devoid of devotion to Visnu is inferior to a Ganqlala. O king,
+rare indeed are those kings who are devoted to Visnu on the
+surface of this Earth.
+39-40. No king who is not a devotee of Visnu can be
+the person who embellishes the glory and splendour of the
+Earth. If the king is not devoted to Hari but is devoted to
+other Deities, that king is like a woman who has abandoned her
+husband and is attached to her paramour. Certainly this kind
+of adverse behaviour affects that king.
+41-43a. His behaviour will be contrary to virtue, wealth,
+love, intelligence and salvation.
+Hence, the worship of Visnu that is reasonably laid down
+has been performed by you. Hence, O king, you arc blessed. We
+too arc blessed since we have seen you.
+Even as Vamadeva spoke thus to him, the excellent king,
+naturally endowed with humility bowed down humbly and
+
+## said :
+
+43b-45. O excellent Brahmana, I crave your forgiveness,
+O holy Lord, I am not like this. O Brahmana, I am not equal
+to even the dust of your feet. Never can even the Devas be
+
+
+1586
+N&rada Purdna
+superior to Brahmanas. A creature (i.e. the individual soul)
+becomes devoted to Madhava through the Brahmanas who are
+satisHed. If they are furious he becomes worthy of being hated
+(by Madhava). This is the truth that has been stated by me.
+
+## 46. Vamadeva then asked him— Tell me. What shall
+
+I give you? O king, there is nothing that cannot be given to you
+who have come to my house as my guest now.
+
+## 47. O king, if he gives anything on the earth, it must
+
+be that which is the most pleasing to him like the announce¬
+ment through drums on the day of Visnu which prevents
+people from taking food.
+
+## 48. The king thereupon joined his palms in reverence
+
+and said to him— I have achieved everything by the sight of
+the pair of your feet.
+
+## 49. O Brahmana, I have a doubt that has persisted for
+
+a long time. I am asking you the same since you are a lead¬
+ing Brahmana, who dispel all doubts.
+
+## 50. By what meritorious deed has my wife become the
+
+most beautiful lady in the three worlds. She looks upon me as
+though I am superior to Manmatha.
+
+## 51. Wherever the fair-complexioned gentle lady sets her
+
+foot, the earth reveals its great treasures.
+
+## 52. Her limbs are devoid of the symptoms of old age.
+
+There arc neither wrinkles nor greying hairs. O excellent sage,,
+she shines always like the lustre of the autumnal moon.
+
+## 53. O Brahmana, even without fire she prepares dishes
+
+of six tastes. Grores of men take their meal out of the little
+quantity of food that she cooks.
+
+## 54. She is a chaste woman. She is by nature munificent;
+
+she causes happiness to all living beings. O Brahmana, dis¬
+respect is not expressed by her through words even when she is
+asleep.
+
+## 55. My son who is born of her abides by my behest
+
+always. O excellent one among the leading Brahmana, on the
+surface of this earth, I am the only one who have a son in the
+sense of the term.
+
+## 56. My son is a great devotee of his father. He
+
+surpasses me by means of his attributes. It is well known
+
+
+Uttara Bhdga 10.57-68
+1587
+on the surface of the Earth that I am only the ruler of a single
+continent.
+57-58a. My son has surpassed me in this respect as he
+is the protector of all the seven continents. O leading Brahmana,
+for my sake, the princess well-known by the name of Vidyul-
+Ickha, had been brought by him after conquering many kings
+in the battlefield.
+58b-59a. In the course of six months that Lord equipped
+with the wealth of beauty conquered those kings and made
+them stripped of their weapons.
+59b-60. He went to the realm of damsels and conquered
+them in the battle. He brought eight excellent ladies from among
+them with force and presented them to me with repeated
+obeisances.
+
+## 61. Urged by his mother, my son brought and handed
+
+over to me the divine and exquisite garments and jewels on
+the surface of the Earth.
+
+## 62. Within a day he takes a round of many Yojanas
+
+over the Earth and returns to me by nightfall for the purpose of
+massaging my feet.
+
+## 63. After ma.ssaging my feet, he stands at the threshold
+
+at midnight with his coat of mail on. He wakens and pulls up
+the attendants and servants who are overwhelmed by drowsi¬
+ness.
+
+## 64. That is why, O excellent sage, this physical body of
+
+mine is free from sickness and ailments. My happiness is im¬
+measurable. My beloved in the house is fully subservient to me.
+
+## 65. I have numerous horses and elephants. The food-
+
+grains and riches I possess are infinite. All the people on the
+Earth obey my behests.
+
+## 66. My present happiness is infinite. What is that
+
+meritorious action thanks to the power of which I possess it ?
+Is it what has been performed in the course of this birth or the
+previous one ?
+67-68. O Brahma^, recount to me about my merit after
+pondering over it in your mind. There is no ailment in the
+body: the beloved wife is submissive; there is affluence in the
+
+
+1588
+Nirada Puribta
+house, devotion to Hari and reverence to scholars as well as
+capacity to give liberally lo the Brahmanas. I consider this as
+originating from my merits.
+
+## CHAPTER ELEVAN
+
+Rukmdngada meets Mohini
+
+## Vasiffha said :
+
+
+## 1. On hearing the words of the king, the excellent sage
+
+of sound and perfect knowledge thought for a moment. He
+understood its real cause and said thus : —
+
+## Vdmadevasaid :
+
+
+## 2. O king, formerly you were born of the iSudra caste.^
+
+You were oppressed by poverty and harassed by a wicked wife.
+
+## 3. You sustained yourself by serving others and receiving
+
+wages. O king, thus you continued to live for many years,
+distressed due to misery.
+
+## 4-5. Thanks to your coming into contact with some
+
+Brahmanas, once, your honour went on a pilgrimage to holy
+centres. O king, after going over all holy centres you reached
+the holy centre Mathura and became interested in serving
+Brahmanas. There, in the company of Brahmanas, you took
+bath in the waters of the Yamuna.
+
+## 6-8. At the holy centre named Vifranti which is the
+
+most excellent of all holy centres, in the temple of the Divine
+
+## 1. The motif of re-birth as an explanation of events in the present
+
+birth has been very popular in ancient and mediaeval Indian literature.
+The soul-denying Buddhists have extensively used it in J&taka tales on the
+authority of the Buddha. Jtunas used it widely in their Sanskrit-Pr&krit-
+Apabhraihia narrative literature. Brahmanical Purai>as are no exception.
+The NP. used it in Part-I Chs. 20, 23 with reference to Fi/pii Vratas. Here
+too the same device is used to explain the exceptional luck of RukmShgada.
+
+
+UttaraBh&ga 11.9-14
+1589
+Boar (Varaha), O king you heard the Puranic story being
+recounted. The holy riteof Alunya Sayana,* was being explain¬
+ed. As the Vrata is to be observed for four months on the 2nd
+tithi of the dark half of each month from l^ravana onwards,
+there are, for the completion of the Vrata four parai^—one
+breaking of fast per month. Hence for its conclusion there are
+four Paranas (breaking of the fasts). By its observance the Lord
+of the Devas, Hari, with the lustrous complexion like the cloud
+who is the Lord of the worlds and the consort of goddess Laksmi
+and the destroyer of all sins, is pleased.
+
+## 9. Coming again to the temple that holy rite was
+
+performed by your honour. This observance called A^unya-
+§ayana (non-vacant bed) is highly conducive to prosperity at
+home.
+10-1 la. If any one continues the life of a house-holder
+without observing this rite that destroys sins, O great king, his
+life is rendered ihiitless like that of a barren woman. It appears
+to me that a happiness of this sort is very rare.
+lib. O king, this holy rite must be undertaken on the
+Dvitiyaday** in the month of Sravana.lt is destructive of
+rebirths, death and old age.
+
+## 12. O king, on this day the Lord of the Universe should
+
+be worshipped in the company ofLaksmI with fruits, flowers,
+incense, sweet-smelling red unguents, charitable gifts of beds
+and clothes as well as by feeding Brahma^as.
+
+## 13. O king, everything of this Vrata has been performed
+
+by you though they were difficult. O king, this is the full
+fruition of the same holy rite called Affinya. Listen to the
+other sacred rites mentioned (or observed) by you in detail.
+
+## 14. It is certain that these results will not have
+
+taken place, if the Lord of the Universe had been displeased.
+The Lord of the Devas had been worshipped by you in the
+previous birth through the observance of A^unya rite.
+*(Fonnerly this was menUoned n^Aioka i^ajwaa, mtk supra 1.111.13.
+**In the region of the author of the NP a month is PAittmAila. Hence
+tbe word 'dark half* is not probably used.
+
+
+1590
+Ndrada Purd^a
+
+## 15. O leading king, in this birth, you arc worshipping
+
+Hari by means of the holy rite of Dvadaii. Surely you will
+attain the identity with Visnu.
+
+## 16. O king, thus your enquiry of auspicious nature has
+
+been explained by me regarding the origin of your affluence
+and leading to prosperity of your kinsmen.
+
+## 17. O king, what else shall I give you or do for you ?
+
+By all means you are worthy of everything, as you are a
+devotee of Janardana.
+The king submitted :—
+
+## 18. O excellent Brahmana, I am eagerly desirous of
+
+visiting the Mandara mountain. With your permission , I wish
+to see the various miraculous things there.
+19-20. O excellent Brahmana, after transferring the
+weighty burden of administering the kingdom that other kings
+find unbearable, to my son, I have become light(less burdened).
+I am free to roam about as I please. My duty will be looked
+after by my son. On hearing the words of the king, Vamadeva
+
+## spoke thus :
+
+
+## 21. O prominent king, this is the highest duty of the
+
+son that he should always extricate his father from distress, out
+of affection.
+
+## 22. He who carries out the order of his father to the
+
+best of his mental, verbal and physical capacity, shall derive the
+benefit of having a holy dip in Gaiiga every day.
+
+## 23. It is heard mentioned in the Vedic text that if the
+
+son goes to Ganga for a holy dip against the expressed
+desire of his father, he will not attain the usual purity and
+sanctity.
+
+## 24. O king, you are contented and blessed. Go as you
+
+please. Thanks to the favour of Hari, a meritorious son has been
+born in your family.
+
+## 25. After this had been spoken by the sage, the glorious
+
+king mounted his horse and rode swiftly like the Wind God
+himself.
+26-27a. Looking at and observing all the mountains,
+forests, rivers and the wonderful lakes and parks, the king
+ere long reached the mountain Mandara.
+
+
+UttaraBhOga ll-27b-37
+1591
+27b-28a. On his way he went round the white mountain
+'‘Gandhamadana’,^ crossed the Mahameru and saw the
+northern Kurus.
+28b«30. He reached the Mandara mountain refulgent with
+the splendour of a hundred suns and covered in gold all round.
+On being rubbed with the hands of Hari it had generated liquid
+gold. The whole region there was full of trees and decorated with
+many metals and minerals. With many fountains over it, it was
+embellished with many caves. It was full of ten thousand
+rivers and was washed by the auspicious waters of the river
+Gahga.
+31>32a. It was frequented by bevies of youthful maidens
+with rendezvous for serving their lovers.
+The mountain was adorned with ripe, sweet smelling,
+potlike big fruits of trees which resembled the breasts of
+youthful damsels.
+32b-33. The place was resonant with the buzzing sound
+of the bees and was reverberating with the cooing of cuckoos.
+On seeing the mountain resound with the cries of many living
+beings all round, the king entered the great mountain.
+34-35. He desired to climb on to the top of the mountain.
+He was curious to find out the path whereby he could climb up.
+As he spied allround, he saw fiocks of birds from the trees
+moving out attracted by the charming voice of an enchanting
+lady. He saw the birds fiying quickly over the trees and he
+too went swiftly alongwith them.
+36-37. The enchantingly sweet sound coming out of the
+mouth of that bewitching beauty entered his ears also.
+Fascinated by it, he left off his horse that had crossed the
+path as if in three steps. The whole path of the moun-
+
+## 1. The location of Gandhamadana is disputed. M. Ali {Thi Geography
+
+cf the Purdpas, Fig. 7—the sketch of the Hindukush Range) shows it to be the
+Khwaja Mohammad Range while De identifies it with Rudra Himilayas—a
+part of the Kailasa range. But in either case it is difficult to understand why
+a traveller from India (Vidiji, in the case of King Rukm&hgada) need
+cross or visit in passing Uttara Kuru ^modern Kiighizia, Samarkand and
+Turkemenistan-t;i<ik D.P. Mishra's Studies tn Proto-history of India, pp. 17:18
+and the map of Uttarakuru facing p. 17) and Mah&meru (the Pamirs) to
+reach Gandham&dana. It appears that the author of the NP. had some
+vague ideas of the locations of these places.
+
+
+1592
+Ndrada Purdna
+tain was spell-bound by the sweet song of the enahantress.
+Instantaneously^ the king saw a lady stationed on the mountain.
+She had the lustre of molten gold. She was created like the
+staff of Kama.
+38-40. She was worshipping the Lihga that rose
+high into the sky, for the welfare of the world. She was
+like the embodied form of the Earth and she was as it were
+the culmination of beauty like a Parvati, the daughter of
+the mountain Himalaya. She had the beauteous form of the
+seashore. Her body could be called the very mansion of sexual
+pleasure. She appeared to drag even the three-eyed lord
+stationed in the Linga, suddenly for the pleasure of the Lord.
+She was the personified form of the mental wish of a
+meritorious person. On seeing the beautiful form ofMohinI, the
+king was enamoured by the enchanting arrows of the god
+of love and the king fell down senselessly.
+
+## 41. Regaining consciousness again as if his body
+
+was seized with a very high fever, he moved swiftly to her
+presence. The lady of beautiful eyes noted the approaching king
+with her side-glances.
+42-44. She stopped singing and kept lute aside. She
+thought of her duties for the occasion. She drove off the flocks
+and herds of birds and animals. She covered her cheeks and arms
+with a fine cloth. She shook off the bees that were attracted by
+the fragrance of her breath. The gentle lady then went near the
+king after leaving off the worship-worthy Lihga. After going
+near him, the enchanting lady of elegant movements and eyes
+like the petals of the lotus spoke these sweet words to Rukmah-
+gada who had already been scorched by the arrows of Kama—
+O king, get up, I am under your control.
+45-47. Why do you waste this body of yours by falling
+in a swoon. You are a person who bear the burden of the
+Earth as though it was only a blade of grass. Why do you, on
+seeing my enchanting form, lose sense, like a weak cow sinking
+beneath the mire ? Be steady and firm. You are bold. You are
+a brave warrior. Why do you make yourself ridiculous ? You
+of elegant activities. O Lord of kings, if you have any desire to
+have extremely pleasant and favourable sexual intercourse with
+
+
+UttaraBhdga 11.47—12.7
+1593
+me as a willing partner, after giving charitable gifts with
+due rites, you' can do so. You can freely enjoy me like
+your own slave. I am an adept in the sexual act.
+
+## CHAPTER TWELVE
+
+Stipulation of the conditions
+
+## Vasiftka said :
+
+
+## 1-3. When these splendid words were uttered by Mohini,
+
+the leading king opened his eyes resembling a lotus. Deluded
+by the sight of Mohini, he uttered the following words in a
+faltering tone “O young woman, many ladies with
+faces like the full moon have been seen and enjoyed by me.
+But I have never seen such a beautiful person like yours; such
+personal beauty as you have, fascinates the whole world.
+
+## 4. O fair-faced lady, by your sheer sight I have been
+
+struck and hit by the arrows of Cupid. I have suddenly fallen
+on the Earth. O gentle lady, I prattled much on being fascinated
+by your brilliance.
+
+## 5. O lady of beautiful thighs resembling the trunk of
+
+an elephant, be favourable to me. I shall grant you whatever
+you have in mind. My mind has been bound by your love and
+as such there is nothing in the three worlds that is not worth
+giving to you.
+
+## 6-7. O lady of beautiful eyebrows, I am ready to give
+
+you this entire Earth whose limbs are bedecked in the
+mountains, whose garments are the oceans, whose eyes are the
+moon and the sun, whose bosom are the clouds (or is supple
+and firm), whose body is well set with the firmament (?), whose
+face is a gold coin, whose nature is beautiful, whose private
+parts are the nether worlds, whose hair is constituted by many
+trees and who has seven mountain lips (?). O beautiful lady I
+will give you the Earth alongwith my treasury, elephants, horses
+and cities accompanied by the ministers and therefore hearty.
+
+
+1594
+Marada Purina
+
+## 8. O Mohini of charming limbs, for a contact with you
+
+I will give even my soul; what then about wealth, gems etc ?
+Be favourable to me.
+
+## 9. On hearing the words of the king Mohini smiled,
+
+raised the king up and said in sweet voice.
+
+## 10. O king, I do not wish to choose the Earth along-
+
+with the mountains and oceans.. Whatever I say on a certain
+occasion must be carried out without hesitation.
+11-12. I will resort to you. There is no doubt about it.
+Enter into this agreement with me.
+
+## The king said :
+
+O gentle lady, I will enter into that agreement whereby
+you shall be satisfied. For want of the sexual contact with you
+my body has attained well nigh the tenth state (of a loveborn
+person).
+
+## Mohini said :
+
+
+## 13. Give unto me your right hand that has practised
+
+many holy rites, whereby I will be able to believe in your
+words, O king.
+
+## 14. You are a king. You practise religious and holy
+
+rites regularly. You have won fame for truthfulness in the three
+worlds. You will never utter a lie on any occasion. Still this is
+a worldly convention of making you promise which has been
+followed by you.
+
+## 15. When Mohini said these words, the king who was
+
+overwhelmed with mental agony said with a delighted heart.
+
+## 16. O beautiful lady, I have never uttered a lie since
+
+my birth. O fair-complexioned lady, even in the course of fun
+and sports I have never spoken a lie.
+
+## 17. Or of what avail are these words uttered by me by
+
+way of convincing you in so many words ? Look that my right
+hand, marked by merits, is offered to you.
+
+## 18. O beautiful woman, of lovely thighs, if I do not
+
+carry out your words, whatever merit has been accumulated by
+me ever since my birth shall become yours.
+
+
+UttaraBhiga 12.19-30
+1595
+
+## 19. (In case I fail to carry out your words) my virtue
+
+and piety have been given in exchange to you. O lady become
+my wife. I have been forcibly and extremely perturbed and
+excited by your beauty.
+
+## 20. I am a king by name Rukmahgada, the son of
+
+Rtadhvaja, bom in the race of Iksv^u. Dharmahgada is my
+son.
+
+## 21. O lady of charming eyes, under the pretext of
+
+hunting the deer, I have entered the forest. Then the pleasant
+hermitage of Vamadeva was seen by me.
+
+## 22. Something was mentioned by that sage. Thereafter
+
+I was bid adieu by him. Riding on my excellent horse I came
+here to see mount Mandara.
+
+## 23. With my mind curious and enthusiastic I was roaming
+
+over the excellent mountain, when the sweet song emanating
+from your mouth reached my ears.
+
+## 24. Attracted by that song, I have approached you, O
+
+lady of charming eyes, you have come within the range of my
+vision.
+
+## 25. Thereafter, O gentle lady, I fell unconscious on the
+
+ground. Now I have regained consciousness, thanks to your
+nectarine words.
+
+## 26. O enchantress of the worlds, I consider myself as a
+
+person born again. It behoves you to favour me by replying to
+me suitably.
+
+## 27. On being requested by the king thus, Mohini spoke
+
+in reply :—
+O king, I am born of God Brahma and have come here
+for your sake.
+
+## 28. On hearing about your fame, I was overwhelmed by
+
+Cupid. I have forsaken all gods, the chief of whom was Indra,
+and come to the golden mountain of Mandara.
+
+## 29. With my mind in concentration, I stayed here engaged
+
+in penance. I am worshipping God Sankara, the Lord of the
+Devas, by offering (singing) songs unto him.
+
+## 30. I consider presentation of music is the great favourite
+
+of the deities. O king, it is superior to all other Danas
+(charitable gifts) and it is the bestower of endless salvation.
+
+
+1596
+NArada PurA^
+31 >32. Pa^upati (god Siva) is satisfied with it and has
+immediately granted me the boon. You, |he king of the Earth
+have been attained by me and this was what I had liked. O
+king you are loved by me and I am loved by you.
+
+## 33. After saying thus to him, Mohini caught hold of
+
+the hand of the king and quickly lifted him up even as he was
+lying on the ground like the thunderbolt of Indra.
+
+## CHAPTER THIRTEEN
+
+The Fascination of Mohini
+
+## Vasiffha said :
+
+
+## 1. Lifting up the king, Mohini spoke these words : O
+
+leading king, do not entertain any doubt. Know me to be a
+virgin without sins.
+
+## 2>3a. O king, marry me in accordance with the injunc¬
+
+tions laid down in the Grhyasutras. If an unmarried virgin
+becomes pregnant, she delivers of a son of ill fame who will be
+despised by the people of all castes.
+
+## 3b-4. In the Purana, the wise know (i. c. say) that
+
+there are three types of Ca^d^l^s. One is the child bom of an
+unmarried virgin; the second type is the progeny of Sagotra
+marriage (i.e. marriage between a man and a woman of the
+same Gotra or lineage). O leading king, the third type of
+Candala is the progeny of a Brahmatia lady begot by a
+Sudra.^
+
+## 5-6a. For this reason, O king marry me a virgin.”
+
+Thereafter, King Rukmangada married that lady of tremulous
+
+## 1. Cf Veda~Vj>dsa Smrti I. 9-10
+
+Kumdrf-Sambhavas tvtkah sagotrdy&m doitiyakafi /
+Brdhmaoydm Sudra-janitai cip^Uu trividhah smxtah //
+
+
+Uttara Bhiga 13.6b-16
+1597
+side-glances, on that mountain itself, in accordance with the
+(Grhya-sutra) injunctions. United with her the king said
+
+## smilingly :
+
+
+## The king said :
+
+6b-7a. O fair-faced lady, attainment of heaven is not as
+much conducive to happiness as winning you, O gentle lady,
+on this Mandara mountain. It does not please me so much
+as this meeting with you.
+
+## 7b-8. O gentle lady, even though I am on this Earth
+
+I consider myself superior to Purandara (god Indra) since I
+have obtained O fair-eyed lady, you, the most beautiful lady
+in the three worlds as my wife. Hence I shall do whatever is
+favourable to you. Command me.
+
+## 9. Tell me whether you wish to sport about here itself,
+
+O young lady, or in my palace or on the Malaya mountain or
+on the top of the Meru or in the Nandana park.
+
+## 10. On hearing the words of the king that were indi¬
+
+cative of his close attachment to her, Mohini spoke these sweet
+words that increased the pleasure of the king :—
+
+## 11. O king, in your capital city I shall be the
+
+victim of wounding side-glances of my co-wives. How can
+I, therefore, go over to your city ?
+
+## 12. Let there not be, in the whole of the Earth, any
+
+woman who will be facing the misery originating from co-wives,
+throughout her life (till death).
+
+## 13. O king, I have been obtained by you. From the
+
+bottom of my heart, I am subservient to you. It was after
+understanding that there would be the misery from co-wives
+that you have been wooed as my husband by me.
+
+## 14. I will be able to reside on the excellent mountain
+
+that contains many miraculous features. But, O leading king
+the only thing is you cannot stay anywhere without
+Sandhyavali.
+
+## 15. On being separated from her and her son, you will
+
+be de6nitcly unhappy. Your sadness, O king, will increase
+my sorrow.
+
+## 16. I shall establish myself soundly wherever you will
+
+derive sufficient happiness. O king, where you are happily
+
+
+1598 N&rada Purdtfa
+diverted, I shall also be happy, feeling that your place of
+residence is mount Mandara to me.
+
+## 17. The wife must live in the place where her husband
+
+stays, even if it is not an affluent one. They say (i.e. wise
+people say) that, in the proximity of her husband that place
+is the veritable mountain Meru of gold,
+
+## 18. O Lord, where you feel happy is surely my Meru,
+
+the place of my desire. Staying in the place of one’s father
+after eschewing that of one’s husband, is to be avoided.
+
+## 19. A woman interested in staying permanently in the
+
+abode of her father sinks in darkness of hell. All her holy
+rites shall be fruitless and she shall be born as a sow.
+
+## 20. I know such evil consequences. How, then can I
+
+stay on in the Mandara mountain ? I will go along with you.
+You are the Lord of my happiness and misery.”
+
+## 21. On hearing the words of Mohini, the king was
+
+delighted in his mind. After embracing the beautiful, lady,
+he spoke these words : —
+
+## 22. You will be above all my wives. O lady of beautiful
+
+thighs, do not have any doubt that you will have to face
+misery !
+
+## 23. O lady of beautiful eyebrows, in my house you will
+
+be far superior to my own life. O lady of slender frame, come
+on. We shall proceed to the city for our mutual happiness.
+
+## 24. O my beloved wife, staying there, enjoy freely all
+
+the worldly pleasures along with me.
+
+## 25. It was eventually for his own destruction that
+
+Rukmahgada told her thus. Mohini whose face was as white
+and fair as the moon, started from there producing the tinkling
+sound of her anklets. It seemed that she even dragged the
+beauty of the mountain too after her.
+
+
+UttaraBhdga 14.1-13
+1599
+CnHAPTER FOURTEEN
+The salvation of GodhS, {the lizard)
+
+## Vasiffha continued :
+
+
+## 1. O king, both of them set off from the top of the
+
+mountain towards the surface of the Earth, surveying the
+various features of the mountain that captivated their mind.
+
+## 2. Some of the regions resembled corals, some were white
+
+like silver, some had the blue lustre of sapphire and some
+regions had golden hue.
+
+## 3. Some of them were crystal-coloured and others
+
+resembled the yellow orpiment. All the immobile beings were
+as if closely knit together.
+
+## 4. After reaching the foot of the mountain (ground
+
+level), the king saw his excellent horse scrapping the ground
+with his powerful hoofs that resembled the thunderbolt.
+
+## 5. As it scrapped and dug up the Earth with its sharp
+
+hoofs, a domestic lizard that had been beneath the ground came
+out.
+
+## 6. While coming out, O king (?) it was crushed beneath
+
+the hoof of the horse. The kind-hearted king saw it being
+crushed.
+
+## 7-8. Crying out to his beloved wife *‘Alas it is crushed !’*
+
+he rushed to it. Then, with the tender leaf of a tree the king
+scrapped it from the hoof and threw it on a plot of grassy land.
+Seeing that it had become senseless he spoke to Mohin! :—
+
+## 9. “O lady of beautiful limbs and lotus-like eyes ! Bring
+
+some water immediately so that I can sprinkle it on the lizard
+that has become unconscious due to its being crushed.
+
+## 10. At the instance of her husband, she brought some
+
+cool water immediately. With that the king sprinkled the
+unconscious domestic lizard.
+11-13. O king. Being sprinkled with cold water the
+lizard regained consciousness. In all cases of smiting blows,
+sprinkling with water is recommended. Or it is beneficial if it is
+immediately bandaged with a damp cloth. O king (?), af^er
+regaining consciousness the lizard spoke these words. Seeing the
+king in front of her, though it was distressed with (acute) pain
+
+
+1600
+NSrada PurQm
+it (the lizard) spoke out slowly : “O mighty-armed Rukmah-
+gada, listen to my story of life. •
+
+## 14. O Lord, I was the wife of a Brahmana, in the beauti¬
+
+ful city of iSakala,^ I was endowed with beauty and youth. But I
+was not liked much by him.
+
+## 15. O king, that husband of mine did not hate anyone
+
+else, but he was always full of hatred towards me. He invariably
+spoke harsh words to me.
+
+## 16. I was furious on account of this. In order to attain
+
+the power of Va^I-karana (attraction), O king I consulted those
+young women who had been abandoned by their husbands,
+(but who later on controlled them).
+
+## 17. O king, I was informed by them—“Your husband
+
+will be subservient. We have been convinced (because once) we
+too had been abandoned and slighted by our husbands.
+
+## 18. Indeed our husbands became meek and submissive
+
+through the medicines and potions given by an ascetic woman.
+O beautiful lady, you too ask her. She will give you the
+auspicious medicines.
+19-20. You need not entertain any doubt. Your husband
+will be obedient like a slave. O king, at their instance I
+started from the place immediately. As I asked the people on
+the way, they pointed out her palace consisting of hundred
+columns and white-washed in a shining form.
+
+## 21. After entering it, I saw the brilliant woman under the
+
+vow of celibacy. She had covered herself with a long cloth. She
+had the tawny coloured complexion like that of the dusk.
+
+## 22. The refulgent lady wore long matted hairs; a num¬
+
+ber of attendants were waiting upon her; she was being fanned
+gently by them.
+
+## 23. With a rosary of beads in her hand, she was repeat¬
+
+ing the Mantra that was Vasyakara (conducive to attract and
+subdue people), that could cause excitement which could be
+verified (and hence was convincing.) She had the garland of
+happiness giving beads (?) round her neck).
+
+## 1. S&kala—Capital of Madra desa of Mahabharata fame, and also of
+
+Indo-Greek King Menander alias Milinda of the Buddhist work Milinda-
+PatMha. Identified with mod. Sialkot in Pakistan.
+
+
+Uttara BhSga 14.24-35
+1601
+24-25. Thereafter, I placed a soft lustrous ring of fine
+gold with superb brilliance at her feet and bowed to her. On
+seeing the ring placed at her feet she become delighted. Even
+before being asked, she had understood the disrespect to me by
+my husband.
+26-27. Then, O king, I was advised by the ascetic lady
+when I bowed to her and stood by. “This medicinal powder
+alongwith this amulet brings all living beings under control. The
+powder must be given to your husband (for being taken in) and
+the amulet must be worn round the neck. Certainly the hus¬
+band will become submissive. He will not go to any other
+beautiful woman.
+
+## 28. Taking the medicinal powder and the amulet, I soon
+
+reached the house of my husband. At nightfall, the powder
+was mixed with milk and given to my husband.
+29-30. The amulet was tied round the neck and I ceased
+to be anxious over anything. O excellent king, when my hus¬
+band drank the potion with the medicinal powder, the consump¬
+tive disease took possession of him the same day. My husband
+became weaker and weaker day by day. Worms originating
+from cuts and putrefying wounds abounded in his private
+parts.
+31-32. Within a few days, he became pale and dim like
+a lamp when the sun has risen. My husband became agitated
+and perturbed in his sense organs. Lamenting over his lot day
+and night he told me : O splendid lady, I am your slave. I
+seek refuge in you. Save me. I will never approach another
+woman.
+
+## 33. O king, on hearing his lamentation I became much
+
+terrified. I informed the ascetic lady about everything and asked
+her. How shall my husband be happy ?
+
+## 34. A second course of medicine was given by her for
+
+subduing the burning sensation. When the medicine was ad¬
+ministered, my husband attained normal health instantaneously.
+
+## 35. The burning sensation originating from the previpus
+
+powder was nullified by that medicine. Thereafter, my husband
+became subservient to me. He abided by my words and
+advice.
+
+
+1602
+Ndrada Purdna
+
+## 36. In due course of time, I passed away and^fell into
+
+the hell called Tamrabhrastra (Copper frying pan) where I
+underwent torture for the period of fifteen Yugas.
+
+## 37. Pieces as subtle and minute as gingelly seeds were
+
+cut off from my body and I was tortured; When a little of my
+sin remained still, I was born on the Earth.
+
+## 38. The form of a lizard was given to me by Yama (the
+
+son of the Sun). Thus, O king, I have been here for the last
+ten thousand years.
+
+## 39. Oking, if any young maiden were to perform Vasikarana
+
+rite to attract and control her husband, all her holy rites will be
+futile; she will be considered wicked and sinful in action and
+she will be burned and tortured in Tamrabhrastraka (hell).
+
+## 40. To a lady the husband is the Lord, he is the goal;
+
+he is the deity and he is the preceptor. If she were to perform
+the Vasikarana rite in respect of him, how can she attain
+happiness?
+
+## 41. She is born among hundreds of species of
+
+animals and creatures including the germs of leprosy. Hence, O
+king, the behest of the husband must always be carried out by
+a woman.
+
+## 42. O king, unless you redeem me who have sought
+
+refuge in you, I shall have to be born again as a despicable
+creature with all my sins.
+43-44. You can redeem me by giving me the merit acquir¬
+ed by you by observing the holy rite of Vijaya Dvada^P asso¬
+ciated with the constellation (Naksatra) Sravana at the
+confluence of Gahga and Sarayu. This confluence is
+destructive of sins. The holy rite is conducive to the redemption
+of ghosts. It is the bestower of all mentally cherished desires.
+
+## 45. On that day, O king, even if Hari is remembered
+
+in their own house by men, there is no doubt about it that he
+enables them to attain the merit accrued by visiting holy centres.
+
+## 46. O king, whatever meritorious act like charitable
+
+gifts, oblations to fire, worship of gods, is performed on the
+day of Vijaya it has ever-lasting beneficial effect.
+
+## 1. There are eight kinds of Dvadasis, Vtjayd Dv&iail has Srava^ux
+
+Naksatra vide Hemadri on KSla, pp. 260-263, Smrti Kaustubha, pp. 250-.54.
+
+
+UttaraBhiga 14.47-58
+1605
+47-49a Please do grant unto me that merit. If one obser¬
+ves fast on the Dvadasi day and performs Parana on the Trayo-
+daii day, one acquires the benefit of observing fast for twelve
+years. O king, take pity on me and pass on that merit tome.
+On the Earth, you are the very physical manifestation of
+Dharma (virtue). You are the destroyer of the path of Yama.
+O save me. I am utterly miserable.
+
+## 49b. On hearing the words of the lizard, MohinI spoke
+
+
+## these words :
+
+
+## 50. O Lord, whether happiness or misery one experi¬
+
+ences, it has the result of his own actions. Hence, what have
+you to do with this sinful creature who had been wicked to her
+own husband ?
+
+## 51. O king, by means of amulets, medicinal powder and
+
+other things she gained control over her husband. O king,
+whatever is given to good men may be conducive to fame and
+heavenly pleasure.
+52-53. What is rendered as a gift etc to the sinners
+causes downfall of both (the giver and the receiver). It falls off
+both the worlds. If milk mixed with sugar is given to a serpent,
+it will certainly increase its poison. Similar indeed is the help
+rendered to the sinners. Leave off this sinful creature. Let us
+go to the city.
+
+## 54. If one delves into the births and dealings of others
+
+one’s happiness perishes.
+
+## Ruhningada said :
+
+O daughter of Brahma, how is it that these things were
+uttered by you ? O fair-faced lady, how can you say that this is
+not the conduct or way of life of good men.^
+
+## 55. O fair lady, those who arc opposed to helping others
+
+are sinners. They do everything for their own happiness
+and harass others. They are opposed to rendering obligation
+to others.
+
+## 56. The moon, sun, cloud, earth, fire, water, sandal,
+
+trees and good men are always for helping others.
+57-58. O fair-faced lady, it is heard that there was a
+king named Hariicandra. Afraid of uttering a lie he experienced
+
+
+1604
+Mdrada PurOiyi
+various miseries one after the other. He had to stay ^in the
+house of a Can^Ma. He had to sell his wife and son. Thanks to
+his steadfast adherence to truth, §akra and other Devas became
+satisfied.
+
+## 59. They asked Hariscandra^ the king to choose any boon.
+
+Brahma and other Devas were given this reply by that truthful
+king—If the Devas are satisfied it behoves them to grant this
+
+## boon :
+
+60-62. May this entire city alongwith its trees, reptiles,
+children, young men, old men, women, and quadrupeds go to hea¬
+ven. Even if it had committed sins, I shall take over the entire sins
+of Ayodhya and would like to go to hell. I do not wish to
+go to heaven alone after leaving people on the Earth. O
+great Devas, this is the truth, I utter.
+
+## 63. On seeing his steadfastness, Indra and others permit¬
+
+ted it. The entire city went to the heavenly world alongwith
+him.
+
+## 64. The king is stationed in heaven in the company
+
+of his city. He moves about in the aerial chariot that goes wher¬
+ever he pleases. He is being worshipped even by the immortal
+beings.
+
+## 65. O gentle lady, on hearing that the Devas had been
+
+defeated by the Daityas, the gift of his own bones was made by
+Dadhici for helping the Devas.
+
+## 66. O fair lady, his own flesh was given to the hungry
+
+vulture by king $ibi formerly, for protecting a dove.
+
+## 67. Formerly, there was a king over this earth named
+
+Jimutavahana*. O fairfaced lady, his own life was given up by
+him for the sake of serpents.
+
+## 1. Son of King Trisahku of the solar-race. His truthfulness and
+
+harassment by Viivamitra mentioned here is described in details in DB. VII
+Chs. 20.27. The readiness of Hariscandra to go to hell for the sins of others
+probably discloses the influence of Buddhist ideal expressed through
+B odhisattvas,
+
+## 2. The story of Jimutavahana's self-sacriBce probably formed a part
+
+of Gui>d4hya*s Brhat-KathS, a Paiiief work now lost forever. It is recorded
+in its Sanskrit version KathdsariU&gara (Sa^hkavati Lambaka, Taranga 23).
+Har^ selected him as the hero of his play Nig&nanda for propagating the
+Buddhist ideal of self-sacrifice.
+
+
+UttaraBkiga 14.68—15.1
+1605
+
+## 68. Hence, O gentle lady, a king should be kind-hearted
+
+and sympathetic. O splendid lady, the cloud showers its
+waters equally on an unholy and pure spot.
+69-70. The moon should delight even the Gani^alas and
+the fallen persons through his rays. Hence, O fair lady, I shall up¬
+lift this distressed lizard by means of my own merits in the same
+way as Nahu|a through his daughter’s descendant (?).* Dis¬
+regarding the enchantress thus, he spoke to the lizard,
+
+## 71. My merit originating from the holy rite of Vijaya
+
+is given, (I repeat) is given unto you, by me. Be free from all
+sins and go to the world of Visnu.
+72-74. O king, on his uttering this, she eschewed the
+old and emaciated form of the lizard and became a beautiful
+lady bedecked in celestial ornaments. She took leave of the king
+and went away brightening the ten quarters and making (as
+if) a wonderful boundary line to the region of Visnu, It is the
+place approachable only by Yogins. It is an excellent region
+brilliant like fire. It is the greatest Atman. Hence she is also like
+the lamp of fire for the illumination of the universe and was
+transformed by the king.
+
+## CHAPTER FIFTEEN
+
+The dialogue between thefather
+{Rukmdhgada) and the son {DharmdAgada)
+
+## Vasiftha said :
+
+
+## 1. After setting the lizard free from the sin, the delighted
+
+king laughingly said to Mohini—May the horse be mounted
+instantaneously.
+
+## 1. Dauh^aib^Mx.. by dau|^tcr’i sons. Nahufa after his fall from
+
+heaven, was redeemed by Yudhi?tlura (Mbh. Vana, Ghs, 179-181). Yudhijt-
+hint was not exactly his daughter’s son but the tcitn is used here loosely
+to express a descendant.
+
+
+1606
+Ndfada Purdifa
+
+## 2-3. Like Krsna’s horse (?) this can go ten thousand
+
+Yojanas in a moment. On hearing the words of the* king,
+Mohini, the ardently passionate lady, climbed on to the horse
+which was as swift as the wind, alongwith her husband. The
+lady of sweet smiles spoke these words to the king her husband.
+
+## 4. O king, drive this horse towards your city. My desire
+
+to see the face of your son is intense.
+
+## 5. O excellent king, I am at your disposal. You may go
+
+wherever you are inclined to go. On hearing the words of
+Mohini, he started towards his city.
+
+## 6-9. With great delight he observed the trees, the moun¬
+
+tains, the rivers, the different kinds of forests, the animals of
+various sorts, villages, forts, lands, splendid cities, lakes of
+variegated nature and the charming plots of lands on the way.
+On seeing the hermitage of Vamadeva soon, the king who was
+in a hurry, bowed down from the firmament itself. Again the
+king proceeded on his way on his horse that was as swift as the
+wind-god. Observing many lands fully endowed with riches and
+food grains.
+10-12. The king reached Vidisa (a city in Madhya
+Pradesh) that was under his control. His son Dharmangada had
+already heard through his spies that the king, his father,
+was coming. With great delight he spoke these words to
+the vassal kings :— O excellent kings, this northern quarter is
+becoming brighter on being illuminated by his splendour and
+on being occupied by my father’s horse. Hence, let us all go to
+greet the king face to face.
+
+## 13. If the son does not come face to face with (i.e. does
+
+not personally go to receive) his father immediately on his
+arrival, he falb into the terrible hell and stays there as long as
+fourteen Indras reign.
+
+## 14. The Brahmanas well-versed in the Puranas say ihat if
+
+the son goes ahead to receive hb father face to face, (personally
+^he derives the fruit of a Yajfia for every step he takes).
+
+## 15. Get up. I shall go to greet him lovingly surrounded
+
+by you all. He is my deity of deities.
+
+## 16. When the king approved of hb words saying **So
+
+be it,” the prince accompanied by all of them went on foot for
+
+
+Uttar a Bh&ga 15.17-28
+1607
+a distance of a Krosa (3 km.) to greet his father personally
+face to face.
+
+## 17. Appearing like the embodied form of Manmatha
+
+and accompanied by a thousand kings, he went a long
+distance and met the king on the way.
+
+## 18. Meeting his father, he prostrated to him by falling
+
+at his feet on the ground affectionately. Alongwith the vassal
+kings, he bent his head down and made obeisance.
+19-20. With great love the king observed his son falling
+at his feet immediately after arrival along with the vassal kings.
+The king got down from the horse. With his brawny arms he
+lifted up his son and warmly embraced him closely. Sniffing at
+his head the king then spoke to his son.
+
+## 21. O son, I hope you are protecting your subjects. I
+
+also hope you are punishing the enemies. 1 presume you fill the
+treasury only with such amounts as are earned by justifiable
+means.
+
+## 22. I hope, never failing maintenance amounts that are
+
+more than sufficient have been handed over to the Brahmanas.
+1 hope you practise attractive and pleasant manners, and that
+you do not speak harsh words.
+
+## 23. 1 hope cows are now milked in the houses of Ca^-
+
+dalas and sons carry out the behests of their fathers always.
+
+## 24. I hope the daughter-in-law obeys the mother-in-law
+
+and her own husband. O son, I hope you never enter into
+verbal disputes with the Brahmanas.
+
+## 25. I hope the cows are not restrained in the land and
+
+are fed on different kinds of grass. I hope you scrutinise the
+weights and balances of foodgrains and other things.
+
+## 26. O son, I hope you do not impose too much of a
+
+burden on the householder by means of taxes. I believe game
+of dice and over-addiction to liquor are not present in your land.
+
+## 27. I hope there are people of different tastes and
+
+different opinions expressed in words in your city. I (further)
+hope the men do not maintain themselves on liberal gifts of
+others and do not wear old ragged clothes.
+
+## 28. O son, 1 hope you personally survey the elephants
+
+and horses in your army and protect them. I hope you look
+after all your mothers without partiality.
+
+
+1608
+Ndrada Purina
+
+## 29. O son, I hope men do not take food on the day of
+
+Visnu(on the EkadasI day). I hope men are interested lin per¬
+forming Sraddha when the moon is waning (on the New Moon
+day).
+
+## 30. I hope you always eschew slumber in the latter
+
+halves of the nights. Slumber is the root of sins.
+
+## 31. Slumber is the mother of poverty. It is destructive of
+
+prosperity and welfare. No king who is a slave unto slumber
+rules over the Earth for a long time.
+
+## 32. Just as an unchaste woman destroys both the worlds
+
+of her husband so also slumber destroys both the worlds of the
+king.
+When the father said all these things, the son spoke these
+words.
+
+## 33. The son Dharmahgada bowed to the king again and
+
+again and said.
+O dear father, all these things have been done by me. I
+shall again carry out your behests.
+
+## 34. In all the three worlds those sons who carry out the
+
+instructions of their fathers, are blessed. O king, what is more
+sinful than not carrying out the directives of one's own father?
+
+## 35. If the son disobeys his father and goes to Gahga
+
+for his holy dip, he does not attain the benefit of the holy river.
+He who does not carry out his father’s directives does not enjoy
+the fruits of pilgrimage to holy centres.
+
+## 36. My body is subservient to you; my life is at your
+
+disposal.^ My duty is subservient to you. You are my great
+deity.
+
+## 37. A son cannot free himself from indebtedness to his
+
+father even by making a gift of the three worlds. O Lord, what
+then by means of physical strain, monetary gift and other
+things.
+38-39. Even as his son surrounded by many kings said
+thus, Rukmahgada embraced the son and spoke these words : O
+
+## 1. Henceforth every now and then Dharmdiigada and Sandhy&vali
+
+unknowingly and unintentionally huit the future tragedy—Dharmangada’s
+death at the hands of his father.
+
+
+Uttara Bhdga 15.40-47
+1609
+son, you have spoken the truth. You are the knower of virtue.
+There is no othdr greater deity for a son than his father. If the
+son disrespects the father, even the gods turn their faces from
+him.
+
+## 40. Since you have conquered the Earth consisting of
+
+many continents and possessing many kings and since you pro¬
+tect that Earth, I have been held by you on your head.
+
+## 41. This is the greatest happiness in the world, certainly
+
+this is the heavenly region on the surface of the Earth, that the
+son is superior to the father.
+
+## 42. O son, I liave been made contented by you who
+
+traverse the path of good qualities and who make all the kings
+observe holy rite on the auspicious day of Hari.
+
+## 43. On hearing these words of his father, Dharmahgada,
+
+the son said
+‘‘O father, where did you go after depositing all the riches
+in me ?
+
+## 44. At what place was this lady with the lustre of ten
+
+thousand suns attained by you? I think, after creating her Praja-
+pati (Brahma) had become disgusted with the world and de¬
+tached from it.
+
+## 45. O king, in the whole of the three worlds there is
+
+no other woman with this form and beauty. I think she is born
+of the mountain or originated from the ocean.
+46-47. Or she may be the Maya (illusion) of the Daitya
+Maya, with the form of a young woman assumed by her. OLord,
+indeed, Brahma by whom she has been created is very clever.
+There is no slightest defect even to the extent of a hundred
+part of the tip of a hair. O Lord of the kings of the Earth, she
+is worthy of being the heroine of your house since she is as
+pure as gold. If I were to have a mother of such a type, which
+man is more meritorious than I ?”
+
+
+1610
+N&rada PurSm
+
+## CHAPTER SIXTEEN
+
+The Anecdote of a chasle Lady
+Vasiftha said ;
+
+## 1. On hearing the words of Dharmahgada, Rukm^gada
+
+became delighted and said : It is true, O son, your new
+mother has been obtained by me on the Mandara mountain.
+
+## 2. She is the daughter of Vedasraya (support of the
+
+Vedas i.e, Brahma). Formerly, O dear son, she had been
+performing a terrible penance on the divine mountain Mandara,
+with the determination of attaining me.
+
+## 3. Some fifteen days before I started from here, riding
+
+on the horse I reached the Mandara, the most excellent of the
+mountains, containing many metals and minerals.
+
+## 4. This damsel of comely appearance was seen by me
+
+seated on the top of the mountain, propitiating Mahesvara
+and engaged in singing.
+
+## 5. Hit by the arrows of Anaiiga (the God of Love), I
+
+became unconscious and fell on the ground like the deer hit by
+a hunter.
+
+## 6. Thereafter, I had been shaken (and revived into) con¬
+
+sciousness )by this gentlelady of charming eyes; with some impor¬
+tunity I have been chosen as her husband.
+
+## 7. I too have taken the pledge with offering of my
+
+right hand. This lady of large eyes has been made my wife
+by me on the top of the mountain.
+
+## 8. Descending to the ground level (at that foot of the
+
+mountain), we got up on to the horse. Hurried (travelling
+therefrom) we have come to you within three days.
+
+## 9. -11. On my way I had the pleasure of seeing
+
+mountains, different lands, lakes and rivers. O son, she is your
+mother. She would heighten your pleasure. Make obeisance to
+this lady of charming limbs as though to your own natural
+mother. On hearing the words of his father, the son, the
+suppressor of his enemies, bent down his head as far as the
+ground level and spoke these words :— O gentle lady, O dear
+mother, favour me. I am your son, servant and slave.
+
+
+Uttara Bh&ga 16.12>2 7
+1611
+12-13. Accompanied by many kings I make obeisance to
+my mother. On seeing the son prostrating on the ground and
+thanks to the chivalry of her husband, the king, Mohini got
+down from the horse, raised up the son and embraced him with
+her hands.
+14-16a. Embraced by his mother, he saluted her once
+again. He adorned her with nice clothes and charming orna¬
+ments. Dharmahgada, the son with eyes like lotus, requested
+her to place her legs on his back and mount the horse. In the
+same manner, he made his father too mount the horse.
+16b-17a. He himself walked on foot surrounded by the
+vassal kings. On looking at his step-mother he was delighted
+and had his hair standing on their ends. Praising himself in a
+resonant voice like the rumbling sound of the cloud he said.
+17b-21a. Blessed is the son who has many mothers in
+the world, new, fresh and charming beloved wives of his father.
+If one has only one mother, one’s father is miserable. If the
+father is miserable what happiness can the son have in the
+heart ? By saluting one mother the son has only the merit of
+bowing to one earth. By saluting many mothers I will have
+greater benefit day by day.
+2lb-22. Saying thus he entered the city surrounded by
+the vassal kings. He entered the beautiful city ofVaidila
+endowed with (i.e. abounding inj all prosperity. Seated on
+the horse alongwith Mohini the king too followed instantaneously.
+
+## 23. Then he entered the excellent mansion. On being
+
+greeted and honoured by the people, the king got down from
+the horse and spoke these words to Mohini.
+
+## 24. O charming one, go to the house of Dharmangada
+
+our son. In accordance with his attributes, he will render
+service to you as befitting an elderly person.
+
+## 25. Neither a chaperon nor a servant can render such a
+
+willing service ! On being thus advised by her husband,
+she started for the mansion of their son.
+26-27. She was seen entering the mansion by Dharman¬
+gada, at the instance of her husband’s words. He thereupon
+left the vassal kings saying—“All of you stay here. At the
+
+
+1612
+N&rada Purdifa
+behest of my father, I shall render personal service unto her.
+On saying this he entered the mansion an^ grasped the • hands
+of his step-mother. After walking fifteen steps, they reached
+the cot. He made Mohini sit there.
+28-29. It was made of gold with silk cloth spread over.
+It was soft and firm. A soft bed-sheet was spread over it. It
+was bedecked in gems and jewels. Many jewelled lamps having
+the refulgence of the sun, were fitted on to it. Thereafter, the
+prince who had virtue as his ornament (i.e. Dharmahgada)
+offered water for washing the feet of Mohini.
+30-31. The prince considered her even elderly to
+Sandhyavali. His mind did not have any ignoble feelings
+towards Mohini. Though he was beautiful and graceful and
+she a charming lady with plump and stout thighs, buttocks
+and breasts, he considered her a lady ten thousand years old
+and himself a boy of three years.
+
+## 32. After washing her feet, he applied (sprinkled) that
+
+watet on his head. With the head bent down in humility he
+said : Mother, I am meritorious (with you as my mother).
+
+## 33. After saying this, he dispelled her fatigue by his own
+
+efforts and by those of men and women (servants). With great
+joy he placed all means of pleasures at her disposal.
+34-35a. At the time of the churning of the milk ocean
+two earrings were produced. They used to emit nectarine
+juice. These were acquired by Dharmamurti.^ After con¬
+quering Danavas in the Patala (nether worlds). Vrsangada
+(i.e. Dharm^gada) himself put these in the ears of Mohini.
+35b-36a. A necklace of a thousand and eight auspicious
+white pearls each like the fruit of the embylic myrobalan was
+put on the bosom of the gentle lady.
+36b-37. Then the prince offered her a subsidiary light
+necklace of gold coins of a hundred Palas inset with ten
+thousand diamonds to his mothers. He gave her twice eight
+
+## 1. W. 34-46 contain reference to the history of some rare ornaments
+
+acquired by Dharm&hgada and gifted to Mohini. 1 could not trace it in
+other purai;ias.
+
+
+Uttara BhSga 16.38-50
+1613
+bangles (i.e. sixteen) studded with diamonds for both the
+hands.
+38-43a. They were made by men who knew their value.
+For each of the hands, a crore of gold coins was spent. The
+prince gave invaluable armlets and anklets to the beloved wife
+of his father as ornament. They had the refulgence of the sun.
+The girdle of fiery refulgence that Sarvani (Parvatl) had, fell
+off as she was extremely terrified in the course of the fight
+called Tarakamaya (pertaining to the demon Taraka) while
+Kalanemi was ruling over the kingdom. It then fell into
+Mulapacana (original fire), Thereafter, it was picked up by
+the demon Maya who wielded his power of illusion over the
+whole world. Dharmangada had killed that Daitya on Mount
+Malaya although he had been surrounded by a crore of Daityas.
+At the instance of his father, he had killed him in the course
+of a terrible war that lasted for a year (on the mountain
+Malaya). He got the girdle that the beloved of the king of
+the Daityas had on her person. The king gave that to his
+father’s beloved great queen with his hair standing on their
+ends out of delight.
+43b-46. Formerly, HiranyakaiSipu’s queen who was an
+outstanding beauty in the world, had a crest jewel that had
+the refulgence of lightning. She immolated herself in her
+husband’s funeral pyre. Before dying, the extremely distressed
+lady had cast her crest-jewel into the sea. The sea collected
+the excellent jewel and presented it to Dharmangada on being
+delighted at his prowess. The delighted prince now gave that
+jewel which had the brilliance of a crore of suns to his step¬
+mother.
+
+## 47. He gave MohinI two auspicious clothes sanctified in
+
+fire and two charming bodices, a thousand crores in value.
+48-49. Dharmangada then gave the gentle lady Mohini,
+the divine garland and the sweet-smelling divine unguent that
+was very rare and had been acquired from the accomplished
+hands of the preceptor of all the Devas by the heroic Dharman¬
+gada in the course of his conquest of all the continents. He gave
+her the unguent that enhanced her love.
+
+## 50. After embellishing her with great devotion, he fed
+
+
+
+1614
+Mdrada Purd^o
+her with meals consisting of dishes of six tastes and brought
+by his natural mother herself
+
+## 51. Even before this, he had addressed his natural
+
+mother and enlightened her by means of many words. There
+is no doubt about this that the behest of the king must be
+carried out by me as well as by you.
+52-53a. O gentle lady, she who is the king’s beloved is
+a highly respectable woman for us. The wife who acts wickedly
+against the lady-love of the king, her husband, falls into
+hell and stays there till fourteen Indras reign.
+53b-54. She who nurses feelings of enmity against the
+lady-love of her husband and tries to separate them in their
+love, is fried in Tamrabhrasfa hell (the frying pan made of
+copper.) Everything that is conducive to the happiness of her
+husband, should be done by the wife.
+
+## 55. O fair-complexioned lady, she must view her as she
+
+views her husband. She must do what is favourable and
+beneficent to the lady-love of her husband.
+
+## 56a. Even if she (the husband’s lady-love) happens to
+
+be of a lower caste, the wife who renders service to her, goes
+to heaven.
+
+## 56b. Afterwards she will occupy the same loving place
+
+in the mind of her husband.
+
+## 57. After acceding to the wish of her husband she
+
+derives all worldly pleasures. By eschewing the feelings of
+malice and jealousy, she attains the region of the Lord of
+every one.
+
+## 58. On seeing a cowife to be the most beloved of her
+
+husband, if a woman renders service to her, she will attain an
+eternal place in heaven.
+59-60. There was a very wicked man of the Sudra caste.
+He had abandoned all holy rites.^ He had a wife and also a
+
+## 1. W. 59-89 give an illustration of a chaste I^Qdra lady who served
+
+her depraved husband and his keep who when be was ailected by fistula
+left him penniless. This chaste lady borrowed money from lather, gave
+medical treatment to him, personally nursed his wound. When he died,
+she immolated herself on his funeral pyre and washed off her husband’s
+dns by her merits; both of them went to heaven.
+
+
+Uttara Bhdga 16.61-71
+1615
+beloved lady, a prostitute whom he kept in his house. The
+wife who wante'd to please her husband served him as well as
+the prostitute. She washed the feet of both of them. She
+partook only of the leavings of the food of both of them.
+
+## 61. Though she was prevented from doing this by the
+
+prostitute, she continued her activities of service. She ever
+remained in the path of the good. She was engaged in what
+was beneficent for both of them; while both of them lay on
+the cot, she used to lie down beneath on the bare ground.
+
+## 62. Thus she served her husband alongwith the
+
+prostitute for a long time, wading through the ocean of
+misery.
+63-64. Without caring for the advice of the chaste wife
+the man committed many blunders in the matter of his diet
+etc. He drank the milk of the buffalo alongwith radish. The
+foolish fellow ate the winnowings (of corn) mixed with oil.
+As a result of this he had a terrible fistula in the anus.
+65-66a. He was extremely distressed by day and night.
+The prostitute took everything valuable that the house con¬
+tained and went over to another young man. The lustful
+woman gave him all the wealth.
+66b-67. Now the Sudra man became much ashamed.
+With distress evident in his face, he lamented and spoke thus
+to his wife : O gentle lady, save me though I had been very
+cruel to you and much attached to a prostitute.
+
+## 68. O beautiful lady, the sinner that I am, I have
+
+never done a good thing to you. O lady of slender waist, for
+many years I sported about alongwith the prostitute.
+
+## 69. The sinful haughty man who does not console his
+
+wife who bows down to him, attains all inauspicious things in
+the course of fifteen rebirths.
+
+## 70. O gentle lady, since I had disrespected you, 1 shall
+
+attain the despicable birth in the house of a Gaigt^ala. But your
+mind has not been turbid despite insults.
+
+## 71. On hearing these words of her husband, the wife
+
+spoke to the husband. It is the sins committed in the previous
+births that yield miseries. A learned man who bears them
+
+
+1616
+M&rada Purdna
+with fortitude, should be known as the most excellent ^among
+men.
+
+## 72. I had been sinful in the previous births. Now I
+
+experienced the fruits thereofin this birth. Hence, I have neither
+sorrow nor misery.
+
+## 73. By saying this she consoled and cautioned her
+
+husband. The fair-complexioned lady brought some money from
+her father and other kinsmen.
+74-75. The chaste lady considered her husband a Visnu,
+the resident of the milk ocean. She cleaned his anus and other
+private parts assiduously by day as well as by night, by means
+of turmeric juice and water. She scraped the germs and worms
+in the body of her husband, by means of her nail.
+
+## 76. She fanned him with peacock feathers. O gentle
+
+lady, the fair-faced lady slept neither during the day nor at
+night.
+77-78. Distressed by the misery of her husband, she felt
+that the whole universe was blazing (?) . She said—If there is
+goddess of earth, if there arc manes, if there arc deities, may
+they make my husband free from ailments. May he be free
+from sins. I shall give unto Goddess Candika blood mixed
+with flesh.
+
+## 79. I shall offer the flesh of goats, buffaloes and even
+
+human beings for the well being of my husband. With great
+respect I shall observe ten fasts.
+
+## 80. I shall place my body on a bed of sharp-pointed
+
+thorns. I shall not take sweet things. I shall not take ghee.
+
+## 81. I shall remain for days together without anointing
+
+the body externally with oil. May my husband live for a
+hundred years without any ailment.
+82-83a. As day followed day, she blurted out like this
+in her agony. Within a short while, all the three humours
+in his system were upset. With great effort she gave her
+husband the three astringent medicines (black and long pepper
+and dry ginger).
+83b-84. Once due to chilliness the man was quaking
+and shivering. His jaws suddenly came together and the finger
+of the wife was bitten off by the teeth coming;^ together. O
+
+
+Uttarabh&ga 16.85—17.4
+1617
+queen of the Lord of men, the piece of finger remained within
+the rigid mouth.
+
+## 85. She sold off her bangle and brought a great deal of
+
+fuel. She prepared the funeral pyre. After placing her dead
+husband on it, she poured ghee over the pyre (fuel).
+86-89. She too climbed on the funeral pyre joining her
+face to his face, her heart near his heart and O gentle lady, her
+buttocks near his buttocks. With her foot she dragged the fire.
+The auspicious lady of charming limbs set fire to the ailing
+body of the husband alongwith her body. As the fire blazed
+brightly, she cast off her body and went to the world of the
+Devas taking her husband with her after annihilating many
+of his sins by means of her holy rites very difficult to be
+performed.
+
+## CHAPTER SEVENTEEN
+
+The statement of Mohini
+
+## The son (Dharmdfigada) said :
+
+
+## 1. Hence, O Mother, eschew jealousy and feed Mohini.
+
+A holy rite (dharma) like this cannot be attained in the three
+worlds.
+
+## 2-3. The wife who, with her own hands, feeds the beloved
+
+lady love of her husband, the co-wife who gives a little quantity
+of cooked rice to the co-wife shall, O gentle lady, O dear
+mother, become immortal—So says god Brahma. O Mistress (of
+the Mansion) be favourable to me carry out what has been
+related by me.
+
+## 4. O fair-complexioned lady, what is conducive to the
+
+happiness of my dear father must be performed by both of us.
+The sins shall be exterminated perfectly. Similarly, the attain¬
+ment of heaven shall be everlasting.
+
+
+1618
+N&rada PufSa^a
+
+## 5-6. On hearing the words of her son then, the queen
+
+Sandhyavali invited* her son and embraced him a|[ain and
+again. She sniffed at his head and spoke these words : *‘0 son,.
+I shall carry out your words pregnant with dharma (virtues).
+
+## 7. Eschewing jealousy and false prestige I shall feed
+
+Mohini. I have the pleasure of being the mother of a hundred
+sons, O son, with you as my only son.
+
+## 8. It was after observing many holy rites and restraints
+
+causing bodily exertion, that you were born. Since I observed
+the holiest of holy rites, the ‘king’ of holy rites, you were
+attained by me as my son.
+
+## 9. In this world there is no other holy rite that is seen to
+
+be yielding benefits like this. This gives convincing proofs
+immediately. This is destructive of great sins.
+
+## 10. Of what avail is it if many sons who cause sorrow
+
+and distress are born ? It is better to have one son, as the main
+prop of the family, where the entire family takes comfortable
+rest.
+
+## 11. On attaining you as one stationed in my womb, I
+
+have reached the top of the three worlds (I am above the three
+worlds). Osinless one, blessed are those pains of labour where¬
+by you are born as rny son.
+
+## 12. You are the son who delight both father and mother,
+
+you are the heroic son who have become the Lord of seven
+continents; you have carried out the words of your father.
+13-15. Poets (Learned Philosophers) call only that
+person real son—the person who delights both the father and the
+mother. Others are only ‘so-called’ sons.
+After saying these words, queen Sandhyavali just
+glanced at the pots and utensils for the purpose of a meal consis¬
+ting of dishes of all the six tastes. By her very glance the uten¬
+sils were full of dishes that would be pleasantly warm and that
+would be as tasty as Nectar, which she wished that Mohini
+should partake of.
+•A better emendation : abhirumdya ‘‘praised”, ‘approved of’ in stead of
+ahhi-mantrya in the text.
+
+
+UttarabhSga 17.16-28
+1619
+
+## 16. She took a golden ladle studded with jewels. Smiling
+
+sweetly, she served food to Mohini without any pertur¬
+bation.
+
+## 17. She slowly ate the desired and well cooked food in a
+
+polished excellent vessel, all round which beverages and edible
+dishes had been placed.
+18-19. The gentle lady, the daughter of Brahma, sat on
+an auspicious golden seat and took food that was compar¬
+able to nectar. While taking food, the fair lady was fanned with
+a fan of peacock feathers held by Dharmahgada, in accompani¬
+ment of music.
+20-21. After washing with cool water (her hands and
+mouth gurgling four times), she accepted the fragrant Tambula
+(chewing betel leaves) given by her (step)-son. The fair-com-
+plexioned lady took it with her hand over which excellent sandal
+paste had been applied. Then O king, she laughed and said
+slowly to Sandhyavail.
+
+## 22. “O gentle lady, are you the mother of king Vr$^-
+
+gada (i.e. Dharmahgada) ? O auspicious lady, due to perspiring
+tiredness you cauld not be recognised by me.”
+
+## 23. O king, while the daughter of Brahma was
+
+speaking thus to Sandhyavali, the son of the king bowed to her
+and spoke these words.
+
+## 24. ‘*I had been held in her belly (womb) by this gentle
+
+lady for three years. I flourished thanks to the favour of your
+husband.
+
+## 25. O Beautiful lady, 1 have hundreds of mothers.
+
+But much milk flowing out from the breasts of this lady out of
+(motherly) affection has been drunk by me.
+
+## 26. That severe pain which more or less amounts to
+
+old age has been endured by her. It was after giving birth to
+me that she had become disjointed in her limbs.
+
+## 27. A son has nothing in possession in all the three
+
+worlds by giving which he can be free from the indebtedness to
+his mother. O lady of sweet limbs, this is the truth that has
+been pronounced by me.
+
+## 28. I am the most blessed one in the world. No man is
+
+superior to me. Everyday I sit on the lap of groups of mothers.
+
+
+1620
+Ndrada Purina
+
+## 29. If anywhere the son does not sit on the lap of his
+
+mother, he does not become aware of the happiness of
+motherly affection like a virgin who remains unaware of the
+love of a husband.
+
+## 30. A son who has climbed on to the lap of his mother
+
+may become very proud, and wish to snatch the necklace from
+the excellent body of his mother, with his hand.
+
+## 31. Maternal milk is .so powerful that even if any body
+
+is bereft of his father, he desires to seize the whole world on
+being duly reared and brought up by his mother.
+32-33. (?) My love toward this lady is due to the contact
+of the belly. My love towards the other mothers is due to the
+contact of the lap. If it be true that I do not cherish any
+difference (or partiality) between this (mother) and (my)
+other mothers may my father live for hundred years, thanks to
+that truth.” When her (step) son said thus Mohini was wonder-
+struck.
+34-37. ‘‘Ruthless as I am by nature, how can I strike
+him who is so humble and sinless. This would have been proper
+in the house of a tinner (?) If a boy is regularly rendering
+service to his father, there is no one on Earth on a par with him.
+It is for perpetrating a despicable act with regard to such a
+boy so superb in virtue (as compared with others) and by nature
+so virtuous and inclined to religion that I have become a step¬
+mother unto him, in this world.” After reflecting like this in
+various ways, Mohini the most beautiful woman in the world
+spoke to her step-son : “Fetch my husband quickly. Without
+him I cannot stay even for a Muhurta (i.e. 48 minutes).
+38-39. Then, O king (?), he hastened to his father and
+bowed to him. He said—O dear father, the younger mother
+desires to see you immediately. Be favourably disposed
+towards her. May Brahma’s daughter be greeted and honoured**
+At the instance of the son the king got ready to go instan¬
+taneously.
+40-42a. With pleasure evident in his face, the king
+entered the apartment of Sandhyavali and saw Mohini the
+enchanting lady having the luster of molted gold lying on the bed
+and being served slowly by his beloved Sandhyayali eschewing
+
+
+Uttarabhdga 17.42b-54a
+1621
+at the advice of her son the natural anger and jealousy felt
+towards a co-wife.
+42b-43. On seeing Rukmahgada come, the beautiful
+lady on the bed, Mohini, delightedly said to the king who had
+a great deal of chivalry—” O husband, be pleased to sit here
+on the cot spread with soft cotton (cloth).
+
+## 44. O king, the affairs of the kingdom have been looked
+
+after by you for a long time and in their entirety. Still your
+desire for the administration of kingdom does not cease.
+
+## 45. O king, I consider you the most sinful one on the
+
+surface of the Earth since you yourself look after the royal
+glory (affairs of the state) although you have been aware
+that your son is efficient.
+46-47a. Hence, there is no one more miserable than you in
+all the worlds. O king, the time of those fathers who have good
+sons passes happily and that of the experiencers of the fruits of
+sins, whose mind is drawn towards worldly pleasures passes in
+misery.
+
+## 47b. All the Prakrtis (the elements of the statecraft)
+
+(or subjects), O king, are fond of you. This is the result of
+your full meritoriousness.
+
+## 48. When Dharmahgada is protecting this kingdom
+
+and the subjects, why should you also see to it now after
+eschewing the pleasure of your beloved wife like a weak
+niggardly fellow.
+
+## 49. If you are going to look after the kingdom, of what
+
+use am I to you ? In vain have I been brought from the head
+Mandara, the churning rod of the ocean of milk (?)
+
+## 50a. Just as flesh is to birds I shall be turning food
+
+to faeces (?)
+50b-52a. If any foolish person, too much interested in
+carrying out his duties, does not take to his wife endowed with
+blooming youth, whence can he expect to have the beloved ?
+If the wife is not enjoyed, she may go away; if the wealth is not
+given in charity, it may go (disappear); if the kingdom is not
+protected well it may go (to ruins); if the learning is not recited
+and revised, it may (be forgotten and vanished).
+52b-54a. Learning is not acquired by idle persons; a wife
+is not acquired by persons always observing holy vows; good
+
+
+1622
+N&rada Purina
+fortune is not obtained without regular and assiduous per¬
+formance (of good deeds); glory is not attained by persons who
+are not devotees, an industrious man docs not get happiness; a
+person who has no wife cannot obtain children, an impure
+person does not attain virtue (dharma) and a Brahmana of
+unpleasant words does not attain wealth.
+34b-56. Without asking no one understands things;
+without walking (i.e. moving forward) no one reaches
+destination; a person who is not a disciple does not understand
+the holy rite; a wakeful person knows no fear. Why should you,
+Oking, leave me alone in the splendid house of Dharmahgada
+and look after the affairs of your kingdom, O lord, when your
+son is competent (to do it himself) ?
+
+## 57. When the daughter of Brahma, who was fond of
+
+sexual intercourse and who had large charming eyes spoke thus,
+the king who was standing by the side of his son became
+ashamed. He spoke thus to his beloved.
+
+## CHAPTER EIGHTEEN
+
+Honouring the Mothers
+
+## 7^he king said :
+
+
+## 1-3. “O timid lady, I did not assume authority to take
+
+up the duties of the king. Since I was very tired, I was over¬
+
+## powered by a pleasing slumber. 1 told Dharmahgada thus :
+
+“Take Mohini to your apartment that is bedecked in all jewels,
+that could be ventilated or controlled (and protected from)
+wind (at will) and that is pleasing in all the seasons. O son of
+beautiful eyes resembling the petals of a lotus, worship her duly.
+She is my most beloved wife.”
+
+## 4. After commanding my son thus, I went to sleep after
+
+reaching the bed with great difficulty like a man of ill-luck
+attaining wealth.
+
+
+Uitarabhdga 18.5-15
+1623
+
+## 5. The moment I woke up I have hastened to your
+
+presence at once. O gentle lady, there is no doubt about this
+that I shall carry out whatever you say.”
+
+## Mohini said:
+
+
+## 6. O leading king, appease these wives of yours who are
+
+very miserable. They are dejected by your marrying me.
+They have lost all hopes of satisfying their passionate desire for
+worldly pleasures.
+
+## 7-8. O king, O Lord of the subjects. If any one were
+
+to strike and pierce into the heads of the Senior wives of comely
+appearance, the wedge known as the younger wife, he will not
+have salvation nor will she attain the final beatitude. What
+peace can I have when I have been burnt in the scaldii^
+tears of chaste women ?
+
+## 9. O king, the gentle and chaste ladies may reduce even
+
+my procreator (Brahma) to ashes. What then about an ordinary
+persons like you or me ?
+
+## 10. O king, there is no woman like Sandhyavali in all
+
+the three worlds. With all her limbs bound by love towards
+you, she had been feeding me with food-stuffs having all the six
+tastes.
+11-12. Thanks to the honour and weightage given to you,
+she spoke pleasing and coaxing words to me. There are hundreds
+of women like these in your abode and O king, I am not even
+equal to the dust of their feet.”
+On hearing these words of Mohini, the king became
+ashamed.
+
+## 13. The king was then standing near the eldest wife who
+
+was accompanied by her son. The son who was a person
+understanding the inner feelings of other persons, knew that the
+king had gone through all the ten states of love-lorn persons.
+
+## 14. He understood that his father was overwhelmed by
+
+passionate love and was fascinated by Mohini. He called
+together all the mothers, (i.e. the queens of Rukmangada)
+beginning with SandhyavaU.
+
+## 15. With palms joined in reverence, he spoke to them
+
+these pleasing words—Mohini, the daughter of Brahmi and
+the newly wedded wife (of my father) is my (step)' mother.
+
+
+1624
+Nirada Purina
+
+## 16. O gentle ladies, she yearns for a secret meeting with
+
+the king for dalliance with him. Hence delightfully approve
+of it.
+
+## The Mothers said :
+
+
+## 17. O son, who will approve of and encourage the
+
+swallowing of oneself by a serpent? O foremost one among
+embodied beings, who will place fire over himself and kindle it ?
+
+## 18. Who will swallow the terrible poison ? Who will cut
+
+off one’s own head ? Who will tie a terrible stone round one’s
+neck and try to cross the sea ?
+
+## 19. Who will enter the jaws of leopards. Who will try to
+
+pluck hairs from the manes of a fierce lion ? Who will sit
+over the sharp edge of a sword that dazzles in the sky.
+
+## 20. Which lady will approve of the dalliance of her co¬
+
+wife with her husband (?) One would rather give everything
+that one has than entertain thoughts about this in the mind.
+
+## 21. Which woman will see with her own eyes her husband
+
+respected (and openly loved) by another woman ? It would be
+by far the better that her head is cut off with an excellent
+sharp-edged sword.
+
+## 22. Who is that lady, if at all any one is like that any¬
+
+where, who will be able to bear that her husband whom she
+considers her own vital breath is pressing and caressing the
+breasts of another lady ?
+23-25a. Much less who will be able to see it with her own
+eyes. This is the most miserable of all miseries bringing in end¬
+less grief if a woman is compelled to sec with her own eyes her
+husband enamoured of another woman. O son, it is even
+better if all your mothers die simultaneously; but the king, our
+husband, should not be seen united with Mohini.
+
+## DharmShgada said :
+
+25b-26a. O ladies of splendid faces, If you are not pre¬
+pared to accord happiness to my father, I will mix poison and
+drink it. After I die you can have the happiness.
+26b-27a. If any lady were to carry out anything mentally,
+verbally or physically causing misery to my father, she is my
+
+
+Uttarahhdga 18.27b-38
+1625
+enemy, she deserves to be killed by me even if she were
+Sandhyavali,
+27b-28a. That gentle lady Mohini is superior to all. She
+is the most beloved of my father. The maiden has come from
+her abode on the mountain Mandara for the purpose of
+dalliance.
+28b-29. On hearing these words of their step-son, the
+mothcr-(jueens trembled with grief In a faltering tone they
+spoke wishing for the benefit of their step-son.
+“Your statement must of necessity be executed. It is
+reasonable by all means.
+30-32. But your father may approach Mohini after giving
+gifts duly to his other wives. If any husband wishes to marry a
+second or a subsequent wife, he must give the eldest wife twice
+the amount (ofdowry received from her ?) Otherwise he is a
+debtor. If the husband takes the permission of the eldest wife
+and marries another lady, he must give what the eldest wife
+desires and demands—so opine the persons who know the tradi¬
+tional customs and manners. The excellent man must perform
+Istapurta (i.e. sacrifices, digging of wells and charitable rites)
+in the company of the eldest wife.
+
+## 33a. This is the Dharina (religious practice). Otherrwise
+
+it will be injustice and there will be complete destruction of
+Dharma as well.
+33b-34. On hearing the words of the mothers the son
+(i.e. Dharinahgada) gave with a delightful heart each of them
+many presents. The prince gave them more than a crore each.
+He gave away a thousand cities and a thousand villages to
+them as well.
+
+## 35. To each of them he gave eight chariots fitted with
+
+garlands of gold and yoked to four female mules.
+36-37. He gave them ten thousand garments the price of
+each of which was more than a hundred coins. To each of
+his mothers the prince gave a hundred thousand pure gold
+pieces of everlasting (lustre) excavated from Mount Meru.
+The son of the king gave each of them more than a hundred men
+servants and women slaves.
+
+## 38. To each of them he gave ten thousand cows, each of
+
+which yielded a big potfull of milk (at a time). He gave them
+
+
+1626
+N&rada PurSna
+a thousand good poles to which the yokes are to be fixed,
+severally. •
+
+## 39. The son of the king gave each of them ten kinds of
+
+grains. Laughingly he gave a hundred thousand gardens.
+
+## 40. He gave ten thousand pots of ghee and oil separately.
+
+To each of them he offered inumerable goats and ewes.
+
+## 41. The highly devoted son presented them (the queen-
+
+mothers) thousands of gold ornaments studded with diamonds
+(and precious stones).
+
+## 42. He gave them necklaces made of brilliant pearls of the
+
+size of embylic myrobalan fruits. He gave them five and seven
+(a dozen) bangles each.
+
+## 43. Sandhyavali was already wearing on her person two
+
+hundred and fifty pearls resembling the moon.
+
+## 44. The son presented each of them two necklaces that
+
+captivated the mind. He gave them Prastha measures of
+Saffron, sandal paste and camphor.
+45-46. The son gave them huge quantity of musk. Desi¬
+rous of the happiness of his father he impartially distributed to
+them different kinds of vessels, water pots, ghee pots, milk pots,
+and pots for different kinds of beverages,
+
+## 47. The prince gave them gold plates, pots and vessels
+
+one thousand and fourteen hundred in number (?)
+
+## 48. To each of them he gave three hundred to five
+
+hundred she-elephants of great speed with muscular and fleshy
+shoulders.
+
+## 49. He gave them twenty she-camels each and hundred
+
+palanquins with brawny men with excellent dress (uniform).
+50-51. To the mothers he gave seventy horses of happy
+pleasing trot. After giving thus to tliem much wealth, the blessed
+prince who had the affluence and brilliance ofKubera circum¬
+ambulated them. With palms joined in reverence he addressed
+these words.
+52-53. 1 bow down to you with my head bent low. It
+is my importunity to you all that all of you should say thus to
+my father.— O king, enjoy Mohini freely. We have no trace
+of malice towards you nor should you be malicious towards us.
+Sport with Mohini the good natured daughter of Brahma, with
+hundreds of secret pleasures from her.
+
+
+Uttarabhiga 18.54—19.6
+1627
+
+## 54. On hearing the statement of the son, all of them
+
+were thrilled with delight,.They spoke to their husband the
+king. “Sport with the daughter of the self-bom deity for a long
+time like the leading scion of the family of Raghu, (Rama) with
+the daughter of the king of Videha (i.e. Sita ).
+
+## 55. There is no doubt about it that the daughter of
+
+Brahma cannot be a cause of poignant grief to us because of her
+sexual connection with you. Know that these words are uttered
+by us without any heart-burning misery. Thanks to the brilli¬
+ance of your son.
+
+## CHAPTER NINETEEN
+
+The love-making of Mohini
+
+## Vasiffha continued:
+
+
+## 1. The king who was passionately fond of his lady¬
+
+love, on being permitted by his wives, derived incomparable
+delight. He spoke to Dharmangada thus :—
+
+## 2. “O son, protect this Earth consisting of seven
+
+island-continents after slaying the wicked at the outset. Be ever
+vigilant and alert and active.
+
+## 3. Always make use of the best opportunites. Be a super¬
+
+visor of good conduct. Be always conscious of everything and
+alert, be favourable to good business transactions.
+
+## 4. Be moving continuously; always be interested in
+
+charitable gifts; always eschew crookedness, be always engaged
+in the disciplined life of the good.
+
+## 5. O son, listen to another thing which should be pursu¬
+
+ed by you now. Lack of trust and confidence in everything and
+everyone is recommended in the case of kings.
+
+## 6. O popularly loved one, (you must possess) the accu¬
+
+rate knowledge of the treasure and of the (assets of the) people.
+
+
+1628
+Ndrada Purdna
+You should elicit money (taxation) like the (absorption of)
+flowery juice by a bee gathering honey (fr<^m flowers). *
+
+## 7. Through you as my son, I feel that youth has been
+
+regained by me.
+
+## 8. After delightfully entrusting you with the burden of
+
+the earth with its seven oceans and continents and having
+obtained this moon-faced wife of excellent and rare beauty and
+seductive charms, I shall enjoy myself in dalliance.
+
+## 9. In the human world, a father overcome with wrinkles,
+
+shaking old teeth and white greying hairs becomes a cause of
+shame and (derisive laughter) if he is desirous of sexual inter¬
+course, when the son has attained maturity and is competent.
+
+## 10. Though aged, I am not weak and infirm; I am flou¬
+
+rishing in happiness, I desire this fair lady the most beautiful
+in the world, who for my sake has forsaken even the Devas;
+this lady of sweet and charming eyes, who has been smitten by
+the arrows of Cupid, has come to me (of her own accord).
+
+## 11. I will engage myself at will in sexual dalliance with
+
+this lady of the lustre of molten gold, my mind shall then be full
+(thanks to the realisation of my cherished desires). After hiding
+myself on the banks of rivers of divine beauty as well as sylvan
+fountains and rivulets (I shall enjoy myself with this lady).
+
+## 12. This lady is dearer to me than my life. She is the
+
+sole lady ofheaven who can easily be held by me. For her sake
+even the Devas lost their sense like groups of kings over Rama
+(goddess LaksmI).
+
+## 13. On hearing these words of his father, the prince of fine
+
+intelligence devoutly bowed down to the excellent king who was
+in the company of his step-mother and gave him much wealth
+for the sake of enjoying pleasures.
+
+## 14. For the happiness of his father who was distressed,
+
+thanks to the activities of the fish-bannered deity (i.e. Cupid),
+he engaged men-servants who would comply with the commands
+and women-servants who had gold necklaces.
+Thereafter, the son protected the Earth.
+
+## 15. Dharmavibhusana (i.e. Dharmaiigada) was eulogis¬
+
+ed by the kings who surrounded him. He moved about in the
+whole of the Earth consisting of many continents. At that time,
+O king, (?) the people had no inclination towards sins.
+
+
+Uttarabhiga 19.16-24
+1629
+
+## 16. The trees were never devoid of fruits and flowers; the
+
+fields were never devoid of barley and rice grains. Cows yielded
+potfulls of milk sweet like sugar and productive of ghee.
+
+## 17. Under his rule Milk was a good beverage, des¬
+
+tructive of all distress, dispelling sins and increasing the deve¬
+lopment of the body. No man saved and hoarded wealth
+(for his selfish purpose); no wife spoke harsh or bitter
+words.
+
+## 18. The son was humble (all sons were humble) engaged
+
+in carying out the behests of his father; the daughter-in-law
+remained perfectly obedient and submissive to the mother-in-
+law; the common people abided by the advice of Brahmanas;
+excellent Brahmanas performed holy rites mentioned in the
+Vedas.
+
+## 19. People never took food on the day of M^hava
+
+(Visnu) i.e. on the Ekadasi day; the rivers never went dry; riches
+did not get exhausted although they were enjoyed by men
+in the course of their enjoyment of pleasures.
+
+## 20. When Dharniahgada engaged himself in the pro¬
+
+tection of his kingdom, the people were contented, as the
+Durva grass flourishes when watered well and a fine grassy
+plain is evolved, so people flourished.
+
+## 21. By observing fast etc. on the day ofHari, men
+
+enjoyed pleasures and attained the region of Hari. People,
+not being afraid of robbers (due to security measures and
+police protection prevalent then), did not bolt their doors
+even in dark nights.
+
+## 22. Cows did not give extra trouble to the cowherds in
+
+looking after them; they went to graze according to their own
+wish and returned to the abodes as usual. They yielded
+potful of milk in plenty. They were fond of their calves and
+they spread peace everywhere.
+
+## 23. The Earth grew plenty of grains etc. without being
+
+ploughed. All plants and trees grew up without the use of
+ploughshare. Infants were nourished by the breast-milk of
+their mothers. Young damsels were developed and nourished
+thanks to the activities of their husbands.
+
+## 24. The people well protected by the king, were fully
+
+developed. Virtue in the company of truth was fully developed;
+
+
+1630
+Ndrada Purdna
+when the people who were endowed with devotion to Hari
+and who had the great interest in virtu? were being protected
+by the king's son, time passed on causing happiness to all.
+
+## 25. The king was free from ailment. He was endowed
+
+with riches; showering much (i.e. spending a great deal) he
+celebrated great festivals; he was much enamoured of Mohini
+and all her activities gave him happiness.
+
+## 26. Neither of the day nor of the night was he aware. He
+
+was not conscious of the fortnights and months that passed by;
+even years went by unnoticed; he was so enamoured of the
+sexual dalliance of the daughter of Brahma of auspicious
+activities.
+
+## 27. The king’s virility increased with the loving union
+
+with Mohini; the more he resorted to her with the backing of
+Kama (God of Love), the sexual potency increased all the
+more like the moon in the bright half of the month; it never
+got exhausted by the frequent indulgence in sex.
+
+## 28. Just as the Devas become stronger and stronger by
+
+imbibing the nectar juice, so also the more he touched her the
+fresher he became. Drinking charming beverages and listening
+to sweet songs consisting of melodious tone (he increased in
+virility and strength).
+29-32. Even while glancing at the beauty of the
+(attendant) women, he touched and caressed the moon-like
+face of Mohini. With delight he pressed and caressed her stout
+breasts resembling gold pots and covered with necklaces and
+other ornaments. The three curly lines of hair that grew round
+her navel app)eared splendid and charming. On seeing the all¬
+round beauty of the breasts of the fair-limbed lady of splendid
+eyes, the king thought thus (?) “No other women has a beauty
+like this. It is charming and pleasing to mind. The way in
+which the features of Mohini have been created by Brahma
+(is not found elsewhere). It is very fascinating to look at her
+calves that have the lustre of molten gold, that resemble the
+paws of a lion and that have no hair on them.”
+33-34. The row of her teeth had the lustre of the moon.
+Her hidden ankles had been created for fascinating the
+people. After seeing the beautiful form, from head to foot of
+
+
+Uttarabhiga 19.35—20.5
+1631
+the lady of large charming eyes, the king considered himself
+superior to the Devas. He was delighted and considered him*
+self blessed much—O ! whatever this lady of slender frame
+and large eyes may request me should be given to her.
+35-36. For the sweet and charming sexual intercourse
+with this splendid lady, I will give her in the end all the wealth
+I possess. Even rare things should be given to her, those things
+which cannot be given by others, I will give her even those
+things which should not be given. For example, my life should
+not be given. But if the gold-complexioned lady requests for it,
+I will definitely give it to her. I will never think over it
+hesitatingly. Excepting my son, there is nothing which should
+not be given to her.
+
+## CHAPTER TWENTY
+
+Dkarmangadd*s conquest of quarters (world)
+
+## Vasiftha said :
+
+
+## 1. Thus eight years passed on happily during which
+
+king Rukmahgada was deluded by the sexual intercourse with
+Mohini.
+
+## 2-3a. In the course of the ninth year, the king’s power¬
+
+ful son Dharmahgada attacked and conquered five Vidyadharas
+on the Malaya, the excellent mountain. He brought as booty
+five splendid jewels that bestowed all cherished desires.
+
+## 3b-5. One of the jewels yielded crores and crores of gold
+
+pieces, and was very auspicious. The second jewel bestowed
+lakhs and crores of garments, ornaments etc., the third jewel
+exuded nectar that rejuvinated the people: the fourth jewel
+could erect assembly halls and present cooked accomplished
+food and the fifth enable one to move about anywhere in the
+three worlds and range through the sky.
+
+
+1632
+Mdrada Purdna
+
+## 6-7. Taking with him those five jewels, tl^e prince
+
+instantly came near his step mother and father Rukmaiigada
+accompanied by those defeated Vidyadharas and their women
+folk whose eyes were filled with tears. He bowed down to them
+and dedicated the five jewels at their feet. With the head bent
+down in humility he said :—
+
+## 8. “O king, O dear father, these five Vidyadharas have
+
+been defeated by me in battle by the miraculous missile
+pertaining to Visnu, on the Malaya, the excellent mountain.
+
+## 9. O excellent king, these (Vidyadharas) and their
+
+women folk have come here as your servants. Please present
+the jewels to MohinI as ornaments for her arms.
+10-11. They arc the bestowers of all cherished desires;
+they cause rejuvination. By wearing the jewels, old shaky teeth
+become stronger once again. They yield garments, mansions,
+gold pieces, movement through heaven and nectar. I had to
+fight them for a month and thanks to your brilliance, these
+jewels were obtained by me.
+
+## 12. With great difficulty, O king, the seven island conti¬
+
+nents were won by me and thanks to your brilliance the people
+there arc compelled to pay tributes.
+
+## 13. A year elapsed since I entered into the ocean, and
+
+the city Bhogavati surrounded by serpents has been conquered
+by me.
+
+## 14. Serpent virgins numbering to ten thousand have
+
+been brought over by me. Necklaces and jewels are brought
+by me in plenty.
+15-17a. Thereafter, O dear father, I went to the great
+city of Danavas. After defeating them, eight thousand
+beautiful girls of great splendour are brought by me. O king,
+ten crores of jewels that carry on the duty of illumination at
+nightfall have been brought into your mansion.
+17b-19. Then I went to the world of Varuna situated
+beneath Rasatala (netherworlds.) There Lord Varuna who
+was puffed with pride of his power and influence, although he
+deserves to be the servant of your feet, was intimated by me
+thus — “Stay under the control of my father, King Rukmangada
+
+
+Uttarabhaga 20.20-30
+1633
+if you wish to remain alive. At my words Varuna was infuriated
+and he came to fight with me.
+
+## 20. Then a fight ensued with him terribly at Rasatala
+
+and continued for a year. The leader of aquatic forces was
+defeated by me by means of the miraculous missile pertaining
+to Narayana.
+
+## 21. At the supplication of young women (his wives),
+
+he was not killed. For the protection of his life, ten thousand
+horses as fast as the wind were given (as tribute) by the defeated
+(lord).
+
+## 22. These horses were white in colour with the refulgence
+
+of the moon but had one of their ears dark in colour. With¬
+out grass and water they could live for many years.
+
+## 23. A beautiful and fully bedecked virgin was presented
+
+to me. Varuna gave her to me as my wife. That auspicious
+girl also has been brought by me.
+24-25. The girl was brought by me alongwith much
+wealth. O dear, there is no spot in the three worlds which
+had been difficult of access to me and which had not been con¬
+quered by me because of the merit of serving your feet. Hence
+get up and inspect carefully the great fortune earned by me
+through your grace.
+26-27. O Lord of the subjects, myself, all my riches,
+everything is subservient to yo^ The son who says “This
+fortune has been earned by me, it shall not be given to
+Brahmanas,” will fall into hell. O dear father, self-esteem
+should not be indulged in by the son.
+28-30. In regard to the hoarded wealth, the son is like a
+dagger or a sickle. It is thanks to the heroism of the father that
+the hoards of wealth of the son increase. Taking a sharp-
+shining sickle, one cuts off clusters of grass.
+If the cloth (mast) is filled with wind, one is enabled to
+cross a river etc. in a boat. (The sails filled with wind (i.c.
+the force of wind enables the man in the boat to cross the
+river (lit. water). Just as the wooden doll of a woman
+moves and dances in accordance with the desire of the (wire¬
+pulling) juggler, so also the sons are instilled with brilliance and
+strength through the virility of the father.
+
+
+1634
+Ndrada Purdna
+
+## 31. Hence this good fortune that has been brought by me
+
+may be viewed at by you. You may distribute or preserve
+your riches as you wish or they may be given to the most
+excellent one among the groups of mothers.
+
+## CHAPTER TWENTYONE
+
+Dharmangada*s marriages and his
+order as a Ruler
+
+## Mdndhdtd enquired :
+
+
+## 1. What did the king do on hearing the words of his
+
+son ? O Brahmana, what did the daughter of the creator,
+Mohini, the beloved of the king, do ?
+
+## 2. A particularly wonderful and holy narrative that is
+
+comparable to the nectar and is destructive of all doubts has
+been told by you.
+
+## Vasiffha said :
+
+
+## 3. On hearing the words of his son, the prominent king
+
+became delighted. He got up alongwith his beloved wife and
+surveyed the wealth (the booty brought by Dharmahgada).
+
+## 4-6a. Instantaneously, O king, the delighted king who
+
+was a great devotee of Visnu, joyfully and lovingly gave to his
+son Dharmahgada, all those serpent-girls alongwith the
+daughter ofVaruna, for the purpose of becoming his wives. All
+the remaining things, the king who was overwhelmed by the
+arrows of Kama gave to Mohini along with many jewels and
+the D^ava women (?)
+
+## 6b. Thus the father distributed the wealth brought by
+
+Dharm^gada.
+
+## 7-8. At an opportrme time, the king called his priest
+
+and said this : *‘0 Brahmana, may my son take in marriage
+the hands of all the virgins in accordance with religious rites*
+
+
+Ultarahhdga 21.9* 19
+1635
+under the ascendancy of the star propitious for marriages and
+on the Muhurta that confers all cherished desires.
+
+## 9. Having performed the initial religious rite of the
+
+proclamation of propitiousness (known as Svasti-Vacana) through
+Brahmanas and after propitiating them with the gifts of cows,
+gold, clothes, celebrate the rite of marriage ceremony of my son
+Dharmahgad a.
+
+## 10. The foolish father who does not celebrate the
+
+marriage of his son, will sink down in the terrible bottomless
+hell and remain there for ten thousand Yugas.
+
+## 11. Hence, the father endowed with (i.e. following)
+
+religious rites should celebrate the marriage of his son. He who
+has settled his son, has also established his own self.
+
+## 12. O god on the earth (Brahmana), when the marriage
+
+of a son is celebrated, a person derives the benefit of all sacri¬
+fices irrespective of the son being endowed with good attributes
+or devoid of attributes.
+13-15a. The marriage of the son must be celebrated
+by the father who wishes for gaining merit and piety. If the
+father does not unite (i.e. endow) his sons with wealth and a
+spouse, he is despised both here and hereafter, and he should
+not be considered a good man. Hence sons must be settled
+in avocations and be provided with wives, (they must be given
+these facilities) so that the sons are satisfied and well honoured
+and are able to sport (spend their life) happily.”
+15b-16a. On hearing these words of the king, the
+Brahmana his priest, exerted himself assiduously for the
+celebration of the marriage of Dharmangada, with great,
+delight.
+16b-17a. Though he did not crave for the happiness of
+contact with women, on account of his bashfulness, the son
+accepted the betrothal ceremony at the behest of his father.
+17b-18a. The prince of mighty arms, unequalled on the
+Earth in beauty, married the charming serpent-virgins along-
+with the daughter of Varui^.
+18b-19. After marrying all of them in accordance with
+the injunctions of the sacred texts, he joyously gifted wealth,
+cows and jewels to the Br^manas. After the marriage rite, he
+joyously bowed down to the feet of his mother and father.
+
+
+1636
+N&rada Purdna
+
+## 20. Then the son Dharmahgada spoke to the gantle lady
+
+Sandhyavali—“O gentle lady, my marriage rite has been
+celebrated at the instance of my father.
+
+## 21. I am not retaining the memory of this fact in my
+
+mind that my marriage has already been celebrated by my
+father. O gentle lady, I shall serve as before my unchanging
+father who is a man of perfect wisdom.
+
+## 22. I have nothing to do with divine enjoyment of
+
+pleasures. I don’t have any use even for heaven. Service must
+be rendered by me to my father as well as to you both by day
+and at night.
+
+## Sandhydvali said :
+
+
+## 23. O son, live long. Live happily. Enjoy all pleasures
+
+in accordance with your mental inclinations (i.e. as you
+please). May you be long-lived, thanks to the grace of your
+father. O my son, delight my mind.
+
+## 24. O son, with you as my son of good qualities, I have
+
+become Suputrini (mother of a good son). I have got a special
+place in the hearts of all my co-wives (i.e. all of them love
+me).”
+
+## 25. After saying this, the lady embraced him, sniffed
+
+many times the crown of his head and finally discharged him
+to resume his duty of looking after the administration of the
+kingdom.
+
+## 26. After being discharged by his mother, he bowed
+
+to all the other mothers. Abiding by the advice of his father,
+the prince looked after the problems of government adminis¬
+tration.
+
+## 27. He chastised and restrained the wicked ones; he
+
+protected the good and the well-disciplined men of virtues;
+he toured over all his lands and personally looked into all
+affairs.
+
+## 28. He inspected all the affairs in each place once in a
+
+month; he looked after the breeding and rearing of elephants
+and horses; he surveyed the troops of spies.
+
+## 29. He observed the arguments (going on in the courts
+
+of justice); everyday he examined the measures and balances;
+he protected men in every house.
+
+
+Uttarabhdga 21.30-35
+1637
+
+## 30. No infant in the arms accustomed to suck the breasts
+
+cried for want of breast milk; nowhere did a mother-in-law
+lament and complain of being disrespected by the daughter-in-
+law,
+
+## 31. No competent and efficient son begged of his father;
+
+there was no mixing and mingling of castes in any group
+again.
+
+## 32. No man kept any concealed income; no man blamed
+
+Dharma; no woman remained without bodice if her husband was
+alive.
+
+## 33. “May not there be the coming out of women from
+
+their houses in my country. May not the widow keep her tresses
+in tact,^ May not the ladies with their husband alive be
+devoid of hair on their heads.
+
+## 34. May not the devotee observing holy rites be one who
+
+reviles always; may not the forest-dwellers permanently dwell
+in the city. Let there not be any ruthless person who does not
+give even ordinary maintenance.
+
+## 35. Let these not stay in my kingdom—A cowherd
+
+desirous of urban life; an advisor devoid of good attributes; a
+Rtvik who has not learned the sacred texts.
+
+## 1. This reference to tonsure of widows shows the lateness of this
+
+portion of NP. in date (not earlier than the 10th Cent. A.D.). There
+is no injunction or reference to such tonsure in the Vedas, the Grhya and
+Dharma Sutras or in the old Smrtis like Manu & Yajhavalkya. The
+prohibition of widows from “adorning the hair, chewing the betel-nut, using
+perfumes or decking in flowers and ornaments
+{keia-raf^jana-tdinb ula-gandha-pufpddisevanam )
+in the Vjddha~Hd.rUa VIII. 203, shows that tojisure of widows was not
+in vogue then. References to K^atriya widows of the Kaurava and Yadava
+families in the AfM. 17.25, 21.6; Afdujra/a 7-17) shows no reference to
+their tonsure. Vijhanesvara, on Yajflavalkya III. 32S, approvingly quotes in
+
+## the Mitdkfard Manu’s prohibition of tonsure of women :
+
+uidvad-vipra-n(pa-stTividin rutfyaU ktSa-vipanam /
+A late work or a late interpolation in the Sk. P. gives us its first
+indication in AViif Kha^i^ 4*75 ff.
+hraso vapamm tasmdt k&tyam oidhavayd sadS)
+Restriction on wearing on bodice along with this shows that both NP
+& Sk. P. record a period when widows came to be looked upon as Tatis
+(NP. II. 24.15). Kane conjectures that this shows a society in the 10th or
+11th cent. A.D. (H.D. II. i. P. 592).
+
+
+1638
+Mdrada Purdna
+
+## 36. The man who grows the indigo plant, the m^in who
+
+sprinkles profusely, the blue colour; these two sinners must
+be banished and so also the man who brews the liquor.
+
+## 37. A back-biter, a slanderer who is fond of eating the
+
+fish on the back—may he not find a residence in my kingdom.
+So also the man who forsakes his own wife.
+
+## 38. These persons are to be punished and given capital
+
+punishment—he who eschews Visnu the foremost among the
+gods and worships any other deity; he who cohabits with a
+pregnant woman and he who has sexual intercourse with a
+young woman who has recently delivered of a child.
+
+## CHAPTER TWENTYTWO
+
+The glory of the month of Kdrttika
+
+## Vasiffha said :
+
+
+## 1. Thus, O leading king, at the behest of his father,
+
+Dharmangada ruled over the kingdom on the earth, observing
+fast on the day of Hari.
+
+## 2. There was no such man as was not stabilised in virtue,
+
+no one was unhappy, no one was devoid of issues, O king,
+there was no leper in the kingdom.
+
+## 3. The Earth yielded treasures to the people who were
+
+joyous and well-nourished. O king, even after the calves were
+fully satisfied, the cows yielded pots full of milk.
+
+## 4. In every leafy cup there was honey; every tree
+
+yielded a Drona measure of honey ? The earth being highly
+delighted, all kinds of grains were produced.
+
+## 5-14. It was the Dvaparayuga at the end ofTretabut
+
+It vied with Krta age (in piety). The danger due to clouds
+disappeared; the sky and the house became free from clouds or
+impurities. The fragrant rice grains had ripened. The
+star Canopus (Agastya) surveyed the world (was in ascendancy).
+
+
+Uttarabhdga 22.15-18
+1639
+Everywhere the rivers had medium flow of water currents
+(neither too much nor too little). With the white Kasa flowers
+growing on the banks, the rivers appeared like whitehaired
+ladies, the whole world was whitened by the rays of the moon,
+the sun was not very fierce; the people in variegated dresses
+and features thronged rivers and tanks for their holy ablutions;
+everywhere the kings were eager to go on campaigns of con¬
+quests; at the end of Alvina month, during the period of
+wakening of Visnu, the preceptor of the Universe, Mohini the
+beautiful lady who had delighted the king with nice feelings
+and different kinds of pleasures (acts of service) was oppressed
+by mental yearnings. She delighted the king in the forests, on
+the peaks of mountains, in the confluences of rivers, in the
+different kinds of lakes, abounding in lotus flowers, on the
+mountains of Malaya, Mandara, Vindhya, Mahendra, the
+abode of the Devas, the Sahya, the Himalayas and the
+auspicious mountain of the sky-clad (naked) God viz.
+Siva—i.e. Siva’s mountain of Kailasa. She gave delight to
+the king in the heavenly abodes, and other places. O
+leading king, assuming her divine form, she delighted him day
+by day. On obtaining Mohini, the king forsook all holy rites
+but not the observance on the day of Hari (i.e. the Ekadasi)
+that is destructive of births and deaths. Though excessively
+enamoured of her, the king did not forsake this Vrata.
+15-16. The king used to eschew sexual dalliance for
+three days beginning with Daiami (the tenth day). Even as he
+sported like this, one full year elapsed and the auspicious
+month of Karttika, the most excellent one in the view of those
+who know time, arrived once again. This month is highly
+meritorious, because it puts an end to the slumber of Vi?nu.
+
+## 17. O king (Mandhata), whatever is done in this month
+
+is meritorious; the holy rites performed by those men who arc
+the devotees of Visnu shall yield everlasting benefits; they take
+one to Vi§nu’s world.
+
+## 18. There is no other month equal to K^ttika; there is
+
+no other Yuga equal to Kpta; there is no other holy rite that
+is equal to mercifulness; there is no other Jyotis (luminary)
+equal to the eye.
+
+
+1640
+Ndrada Purdna
+
+## 19. There is no sacred text equal to the Veda»; there is
+
+no holy river equal to Gahga; there is no other charitable
+gift equal to that of lands; no other pleasure is equal to that
+derived from one’s wife.
+
+## 20. There is no other valuable possession equal to agri¬
+
+cultural lands; there is no other profitable acquisition equal to
+a good cow; there is no greater austerity than abstaining from
+taking food; there is no other auspicious thing on a par with
+self control.
+
+## 21. No other gratification is equal to that of the palate;
+
+no one is equal to a Brahmana; there is no other friend on a
+par with Dharma (virtue) and there is no other fame equal to
+that of truthfulness.
+
+## 22. No other Aisvarya (prosperity and glory) can be
+
+equal to the freedom from ailments, no other deity greater than
+Kesava. The learned and wise men know of no other thing as
+sacred as the month of Karttika in this world.
+23-24. Karttika is the most excellent of all months of
+which God Visnu is always fond. He who passes this favourite
+month of Damodara without the observance of holy rites, is
+reborn in the wombs of animals and other creatures. He is
+excluded from all holy religious rites.
+Mandhata enquired :—
+25-26. O sage, when the month of Karttika arrived, how
+did king Rukmahgada enjoy Mohini of highly fascinating
+features ? Tell me. The excellent king was a devotee of Visnu,
+a follower of the Vedas and the foremost among kings. What
+did he do in that holiest month ?
+
+## Vasifiha replied :
+
+
+## 27. On seeing that the month of Karttika had arrived
+
+for the awakening of Hari, the excessively enamoured prominent
+king spoke these words to Mohini.
+
+## 28. O gentle lady, I have had sexual dalliance with
+
+you for many years, but nothing against you had been
+mentioned to by me so far because I had been afraid of being
+disrespected by you,
+
+
+UUarabh&ga 22.29-39a
+1641
+
+## 29. I am desirous of telling you now. O splendid
+
+fair-faced lady, know it. O gentle lady, many Karttika months
+have gone by since my infatuation over you.
+
+## 30. I did not observe any holy rite except the single
+
+holy vow of the day of Hari. But now I wish to observe the
+holy vow of the month of Karttika.
+
+## 31. If mortal beings spend the Karttika (month without
+
+observing the holy vows, O daughter of Brahma, all their
+righteous activities and the Isjapurtas (cliaritablc rites such
+as digging wells, tanks etc. and sacrificial rites) are futile.
+
+## 32. O blessed lady, even those kings, who are addicted
+
+to non-vegetarian diet and who are too much engaged in
+hunting have eschewed meat in the month of Karttika and have
+gone to Visnu’s abode.
+
+## 33. If the aspirant abstains from those foodstuffs to
+
+which he is addicted in the month of Karttika, certainly he
+attains the form of Visnu.
+
+## 34. O fair-complexioned lady, let alone the charitable
+
+gifts involving the expense of great amounts of wealth and causing
+great mental strain, one can go to heaven merely by means of
+the charitable gift of lamps.
+
+## 35. If that is not available, O blessed lady, one shall
+
+kindle the lights offered by others with great devotion. It is
+superior to all charitable gifts.
+
+## 36. If one were to weigh all the charitable gifts placed
+
+on one side and the charitable gift of lamps on the other side.
+Lord Karttikeya has said that the charitable gifts of lamps and
+the kindling of lamps are on a par with each other.
+37-38a. This kindling of lights must be performed with
+the feelings of devotion. Then it is superior to all kinds of
+charitable gifts. There is no doubt about this that, by
+observing the holy rite (by fasting etc.) on the full moon day
+in the month of Karttika, in the holy centre of the umbilical
+lotus of Visnu (i.e. Puskara), one is liberated from the sins
+committed ever since the birth.
+38b-39a. He who observes holy vows, fasts and other
+restraints throughout the month of Karttika shall become a
+
+
+Kdrada Purdva
+Deva with an aerial chariot and he attains the hjghest
+beatitude.
+39b-41a. Hence, O Mohini^ eschew your delusion and
+fascination over me; command me immediately. I shall per¬
+form the holy rite of Karttika Vrata. O lotus-eyed lady, I
+shall desist from the worship of your breasts and I shall observe
+the vows for the worship of Hari.
+
+## Mohini said :
+
+4Ib-43. Narrate in detail the greatness of Karttika. O
+excellent king, this month is said to be the receptacle of all
+merits. O highly intelligent one, what are the special features
+mentioned and where ? After hearing about the greatness of
+Karttika, I shall perform it as desired.
+
+## Rukmdngada said :
+
+
+## 44. O fair-faced lady, I shall tell you the greatness of
+
+this month,' whereby you will have devotion (engendered in
+you) for the performance of the worship of Hari.
+45-46. The man who performs the Kfcchra penance or
+the Prajapatya rite2 in the month of Karttika or observes fast on
+alternate days or once in three days, or for ten days, or for a
+fortnight or for the whole of the month, O fair-complexioned
+lady attains the greatest region of Visnu.
+
+## 1. The month of K.arttika is regarded as the holiest month, holier
+
+than all TwAoj (sacred places) and great sacrifices. The glory of Karttika
+is detailed in Pd. P. VI. Ghs. 92-95. A number of vratas are prescribed
+for performance in this month, vide CG. Vrata II. 769-784, Smrti-Kaustubha
+358-427, Nir^faya Sindhu 192-208. For their alphabetic list HD V. 1. 283-285.
+
+## 2. The Pr&jdpatya Vrata consists of donation of a cow at the end of
+
+Kruhra penance and feeding Brahmanas according to one’s ability. Fruit—
+a place in god Siva’s region.
+Kfcchrante gopradab kurydd bhojanarh iaktitah padath
+Viprdpdih SdAkaram ydti Prdjdpatyam idarh vratam
+- Mt. P. 100.66
+It may be noted that this Vrata is different from Pregdpati Vrata which
+(according to Prainopattifad 1. 15) means 'indulging in sexual intercoune
+only at ni^t’. ^
+
+
+UttarabhUga 22.47-55
+1643
+
+## 47. If in this month one takes only one meal per day
+
+or takes food at night only, or takes only what is received
+unsolicited, the whole Barth consisting of a series of continents
+is obtained by the vow-observing men.
+
+## 48. This month is said to be the bestower of devotion
+
+through Vratas, charitable gifts, worship etc. especially in the
+holy centre of Puskara, the city of Dvaravati and in !§aukara
+(Soron on the Gahga near Itah).
+49-50a. In this month the day of Hari is sacred; so also
+the five days called Bhismapaficaka^ (i.e. from the eleventh
+day to the full moon day of the Karttika). If the Prabodhini
+(wakening, the eleventh day or Ekadasi called the “wakening
+of the Lord”) day is spent by observing fast alongwith keeping
+awake at night, even a sinful man will never stay in the womb
+of a mother.
+50b-51a. O fair lady, a person who sees a Mandala
+(halo, disc of the sun) on that day attains the greatest region
+without having recourse to the systems of Sarhkhya and Yoga.
+51b-52a, O auspicious lady, by seeing Mandala in the
+month of Karttika, or Sukara in the holy centre of Saukara or
+by seeing Kokavaraha (the Boar incarnation of Visnu) one
+does not become a son once again (i.e. one attains Moksa).
+52b-53. O lady of unsteady side glances by seeing
+Mandala or Sridhara in Kubjaka, men are liberated from the
+three types of sins. One shall avoid oil and honey in the month
+of Karttika.
+54-55. One should avoid meat in the month of Karttika,^
+one shall also abstain from women in the month of
+
+## 1. Bhlfma-pafUaka is a special Vrata to be performed for five days
+
+from the Karttika Su. 11 to the Full moon day. The performer has to take
+three baths per day, perform Tcarpajfay Japas or 108 umes repetition of the
+mantra, 0th namo bhagavaU Vdsudtvdva, worship of Vi?i^u and Noma with the
+mantra Orh namo Vifnaoe and partake of the five components of Pattca-
+gaoya resi>ectively on each day of the Vrata: feeding of Br^ma^ias and
+giving of religious fees.
+
+## 2. Abstindice from flesh-eating in K&rttika is regarded as equivalent
+
+to performance of severe penance for one hundred years {ICftya Ratndkara
+397-99). Abstinence of meat-eating during the Bhifma paficaka period is
+cadled Balut-PaSeaka {K^tya-ratnikara 425).
+
+
+1644
+J{drada Purity
+Karttika. O gentle lady, in the month of Kai%dka a
+person devoted to Vis^u shall avoid Nispava (? the bran
+blown away by the winnowing siev). He shall instantaneously
+be liberated from the sins committed in the course of the year.
+By taking a meal once a day the devotee attains royal womb
+(i.e. is born in a royal family).
+
+## 56. The foolish person who partakes a bacon in the
+
+month of Karttika is cooked (or roasted) in the Raurava hell
+for sixty thousand years.
+57-58. Having been liberated from it, the sinner is bom
+as a rural pig that eats faeces. No man shall eat fish or the
+flesh of a tortoise or a dear in the month of Karttika. O gentle
+lady, by eating flesh in the month of Karttika one is born as
+a Gandala. Even if one observes a minor Vrata, Karttika
+destroys all sins.
+
+## 59. The initiation undertaken in the month of Karttika
+
+is destructive of births of men. Hence, one shall assiduously
+undertake initiation in the month of K^ttika.
+
+## 60. O lady of beautiful thighs, every thing performed
+
+by one who has not undergone initiation is futile. A man
+devoid of initiation attains the womb of an animal.
+
+## 61. The Karttika Vrata shall not be performed at home
+
+especially on the eleventh day of the Karttika month. A man
+who performs the Karttika Vrata in a holy centre attains the
+region ofHari.
+
+## 62. A man shall observe fast on the eleventh day in the
+
+bright half of the month of Karttika and on the next day, in
+the morning, he should give auspicious pots whereby he
+attains the abode of Hari.
+63-65. The conclusion of all the Vratas in the course of a
+year is laid down in smrtis in the month of Karttika. In the
+holy centre of Pu^kara marriages are seen performed even
+without insisting on Uttarayana (northern transit of the sun)
+and the auspiciousness of Lagna (astrological division of
+time) especially during these four days in this month, O
+lady of fair complexion. The connections entered into during
+that period cause the increase of sons and grandsons. Hence, O
+MohinI, I shall perform the holy rite in the montH^of Kkrttika
+
+
+Uttarabhdga 22.-66-74
+1645
+for the destruction of all sins and for the crease of your
+love”.
+
+## Mohini said :
+
+66-67. O The incomparable greatness of the month
+of Karttika has been described by you. Kindly recount the rules
+of procedure of the concluding rites of Caturmasya Vratas (holy
+rites during the four months of the rainy season) O Lord of the
+earth, whereby the Vratas shall be complete and there will not
+beany deficiency or omission in the Vrata or in the benefit,
+thereof.
+
+## The king said :
+
+
+## 68. O beloved wife, the devotee who performs the Nak-
+
+tavrata (i.e. taking food only at night) should feed a Brahmana
+with food-stuffs consisting of all the six tastes.
+
+## 69. If he performs the rite of Ayacita (not begging for
+
+anything) he shall give a bull as gift along with gold. A person
+who does not eat flesh ( meat) shall give a cow as gift alongwith
+Daksina.
+
+## 70. In the rite of ablution with embylic myrobalan, the
+
+man should give curds and milk-puddings. If the person observes
+the vow of abstaining from fruits, O lady of good eyebrows, he
+should make gifts of fruits.
+
+## 71. If one has eschewed oil, one shall make gifts of ghee
+
+and if one has eschewed ghee, one shall make gifts of milk. If
+there is a vow restricting the eating of grains, one should give
+Sali (rice) or the respective grains of corn.
+
+## 72. If the vow is for laying down on the bare ground,
+
+he should make gift of a mattress filled with cotton alongwith four
+cowries as Daksina. If the devotee has vowed to take food on
+leaves, he shall give a vessel full of ghee.
+
+## 73. If the devotee has vowed silence, he should give
+
+either a bell or gingelly seeds alongwith gold. He should feed
+a couple and give beds for both.
+
+## 74. Theenjoyment of pleasures shall be alongwith Dak^i-
+
+nas for the sake of completion of the Vrata. If the rite is regular
+morning ablution, he should offer a horse; if the vow is for es¬
+chewing oily stuff, he shall offer ghee and barley.
+
+
+1646
+Ndrada Pwrd^
+
+## 75. If the rite is for growing nails and hair hgi should
+
+give a mirror as a gift. If the rite is for eschewing foot-wear he
+should give a pair of shoes.
+
+## 76. If one has vowed to forsake salt, a good cow is to be
+
+given; if one has eschewed meat eating, one should give a tawny
+coloured cow with its calf.
+77-78. If one has vowed the offering of the lighted lamp
+in one’s favourite temple every day, one should give a lamp
+made of gold or copper alongwith ghee. O beloved one, for the
+completion of the Vrata he should give an umbrella to a devo¬
+tee of Visnu alongwith a cloth. One who has undertaken fast on
+alternate days, should give silk-garment as a gift.
+
+## 79. If one has undertaken fast once in three days one
+
+should give a fully bedecked bed accompanied by gold. In the
+fasts such as one for six successive days etc., one should give a
+palanquin alongwith umbrella.
+
+## 80. If the vow is for a single meal per day, one should
+
+give stout bull alongwith a man to look after the same, or goats
+and sheep. If one has vowed for a fruitarian diet, one shall give
+gold as gift.
+
+## 81. If one has vowed vegetable diet one shall give fruit
+
+as gift alongwith gold and ghee. If one has eschewed all tasty
+beverages, one shall give even what is not mentioned here as a
+gift.
+82-84. One must give silver or gold vessel as gift in accor¬
+dance with one’s capacity. If one does not follow the injunc¬
+tions in the performance of these riles or if one does give
+things mentioned as gifts (one will incur sin). O beautiful lady
+of good eyebrows, one must abide by the advice of the Brah-
+mana priest and perform the rite with the remembrance of
+Visnu. O auspicious lady, if one considers the statement (i.e.
+advice) of the B^ahmana futile and does not give Daksinas, one
+certainly falls into hell, if there is omission or deficiency in the
+Vrata the man becomes a leper and a blind fellow.
+85-86. The heaven-dwellers, the group of holy centres,
+the sacrifices of all these are well established in the words of
+Br^mai^s. O beautiful lady, who will transgress their words,
+if he desires welfare and if he is a sensible scholar and knowl-
+edgeable person.
+
+
+Uttarabhdga 22.87—23.8
+1647
+
+## 87. This is the secret of Dharma (holy rites) that has been
+
+mentioned to you in the same manner as it had been mentioned
+to Brahma by Lord of Sri (Visnu). It should not be divulged to
+others. It is beneficial and it is the cause of Madhava’s
+satisfaction.
+
+## CHAPTER TWENTYTHREE
+
+The dialogue with RukmMgada
+
+## Mohini said :
+
+
+## 1. The statement made by you about the observance of
+
+fast in the month ofKarttika is quite excellent. But the obser¬
+vance of Vrata etc. by kings is not found anywhere in the
+sacred texts.
+
+## 2. In fact, excepting for a Brahmana, it has not been
+
+prescribed for anyone else; not for the Sudras and the Vaisyas
+too. (As the duty) of the kings, charitable gifts, protection (of
+subjects) and fighting are laid down (in Smrtis).
+
+## 3. If you wish to retain me as your beloved, the Vrata
+
+should not be observed by you. O leading king, I cannot remain
+without ou even for a Muhurta.
+
+## 4-5a. O dear king having the lustre of god Brahma,
+
+how can I remain separated for a period of month ? O ruler
+of the Earth, where you think of observing fast, food should
+rather be offered in lieu of it to Brahmanas of noble souls. Or
+may the eldest of all your wives observe the Vratas.
+
+## 5b-6. When this was argued by Mohini, Rukmabhu^na
+
+(i.e. Rukahgada) called his auspicious and beloved wife Sandhya-
+vali. The instant she was called, she came near the king who
+was one who had distributed religious gifts and fees in plenty.
+
+## 7-8. He was seated on a divine like splendid bed clasp¬
+
+ed between the arms of Mohini. The tip of her breasts resem-
+
+
+1648
+Mirada Purina
+bled golden pitcher when rubbing against him. ,0 king
+(Mandhata) he was seated on the mattress of the lustful lady of
+charming eyes. With the palms joined in reverence, Sandh-
+yavali stooped down her neck in bowing down to her husband.
+
+## 9. She said to the king, “ O darling, why have I been
+
+called ? Being completely free from the jealousy usual among
+co-wives, I have always abided by your order.
+
+## 10. There is no doubt about this, O king, that the more
+
+you indulge in sexual dalliance with Mohini the more my
+pleasure increases.
+11-12. O king, the woman who becomes miserable at
+the personal pleasure of her husband is reborn as a shc-falcon
+for eight years (?). Command me, O king, do not get abashed
+due to your lustfulness.
+Rukmangada said ;
+
+## 13. O fair lady, I know your good conduct, and the
+
+nobility of your birth. It was at your instance that sexual dalli¬
+ance with Mohini for a long time was indulged in by me.
+
+## 14. Many Karttika months have gone by while I indulged
+
+in sexual dalliance. Though I have been enamoured of the
+happiness derived from my beloved, the day of Hari (i.e. Eka-
+dasi) did not slip by.
+
+## 15. By my frequent enjoyment of lustful pleasures I have
+
+achieved satiety. This month of Karttika is known to be the
+destroyer of all sins.
+
+## 16. O gentle lady, I am desirous of observing the holy
+
+vow of Karttika Vrata that yields great merit. But O
+auspicious lady, this daughter of Brahma prevents me from
+observing it.
+
+## 17. O fair-complexioned lady, by no means should any¬
+
+thing displeasing to her be committed. Hence you take up
+my Vrata called Krechra that dries up the body.
+
+## 18. On being urged thus by her husband, the lady whose
+
+complexion was like that of newly burnished gold, whose breasts
+and other limbs were plump and whose face resembled the moon
+spoke these words :— ‘*I shall observe the holy Vrata for your
+satisfaction.*’
+
+
+Uttarabhdga 23.19-29a
+1649
+
+## 19. O Lord of rulers of men, I shall perform only those
+
+things whereby you will have fame and renown, whereby you will
+have happiness without prejudice to your good reputation. I
+shall even cast off my tender body into the fire for your
+sake.
+
+## 20. O king, at your instance, I will even kill my son.
+
+I will not consider it as something that should not be done.
+All the more, O ruler of men, I shall perform this simple holy
+rite.”
+
+## 21. After saying this and after bowing to the king who
+
+was the enemy of the son of the sun (i.e. Yarna), the gentle
+lady of charming large eyes performed holy rite for the
+destruction of sins.
+
+## 22. When the excellent holy penance called Krcchra was
+
+begun by his beloved wife, the king derived much pleasure. He
+spoke these words to the daughter of the Kusa-emblemed deity
+(Brahma)—“O lady of beautiful eyebrows, your suggestion has
+been carried out in accordance with your desire.
+
+## 23. O beautiful lady with thighs resembling metacarpus,
+
+sport as you please with the gladness of your heart. Leave off
+your cares and concentrate your ambitions and desires in
+me. O lady of sweet eye-brows, for your sake I have eschewed
+my duties. There is no other woman to give me happiness.”
+
+## 24. On being thus addressed by her Lord, she attained
+
+great pleasure. She spoke to the king thus :— “O Lord, It was
+after knowing that you are exceedingly loving (and tender)
+that 1 had come to you from the heaven.
+
+## 25. * I had forsaken the immortal ones, the groups of Dait-
+
+yas, Gandharvas, Yaksas, serpents and Riiksasas, who were
+awaiting me. Overcome with love, I approached you at the
+mountain of Mandara.
+
+## 26. The like-mindedness of both (husband and wife) is
+
+the real fruit of passion. Passionate union with the mind else¬
+where is no better than the union of two corpses.
+
+## 27. Fruitful is my body. Fruitful is my beauty. O lover,
+
+with you full of love towards me, I have acquired that which
+is very rare in the three worlds.
+28-29a. When the heart clasped within plump protrud-
+
+
+1650
+Mirada Purina
+ingbreasts does not relent (break), I think it is certainly like
+Indra’s thunderbolt. The nectarine juice from the lips of
+beautiful ladies is the very ambrosia in the world. It is being
+drunk with the breasts pressed close to the heart.”
+29b-30a. After saying this, the lady of slender limbs em¬
+braced the king who was in the secluded spot and delighted him
+in accordance with the injunctions of Vatsyayana^ the author of
+erotic science (Kama-sutra).
+30b-31. Even as he was diverting himself in the company
+of Mohini, the sound of drums which were placed on an
+intoxicated elephant according to the decree of Dharmahgada
+reached his ears.
+
+## 32. “O people, the day of Hari dawns tomorrow. Remain
+
+with only a single meal.^ All shall eschew alkaline salts, taking
+in only Havisya (cooked rice soaked in ghee).
+
+## 33. You must lie down on the bare ground. You must
+
+avoid sexual union with your beloved wives. Remember the
+Lord of the Chief of the Devas, the ancient and excellent
+Purusa.
+
+## 34-3.5a. Either take a single meal or observe fast. You
+
+will thereby be able to go to the region of Sri Hari without per¬
+forming a series of Sraddhas, without oifering or taking Pinzas
+and even when your sons have not gone to Gaya.®
+
+## 1. Vatsyayana (Circa 300-400 A.D.) is the author of the famous treatise,
+
+Kama Sutra. The instructions on erotics mentioned here are given in the
+Adhikarana (section) on Sdmprayogika. For dcinih vide Kama sutra ■widx com.
+Jayamarigald. (Ghowkhamba, 1912.)
+
+## 2. Compare the procedure of the Ekadasi Vrata Supra I. Ch. 23.
+
+
+## 3. A famous sacred place in Bihar. It is supposed that by performing
+
+Srdddha and offering Pindas on Visnupada at Gaya one redeems one
+thousand generations and takes them and himself to the world of Visnu.
+The sacredness of the place and its efficacy to redeem the ancestors of
+the pilgrim is glorified in many other Puranas like AP., Vdyu etc. Thus the
+Vdyu 105.30 states he who performs Sraddha at Gaya repays his debts to
+his ancestors.
+Sraddha-krdyo Gayd-kfetre pitrndm anrpo hi sah j
+For details vide infra Chs. 44 to 47 with annotations.
+
+
+Uttarabhdga 23.35b-47
+1651
+351>38a' This is the eleventh day in the bright half of the
+month of Karttika, which dispels the slumber of Hari. The
+EkadasI dawns tomorrow. Do not take food at all. If one observes
+fast on the Prabodhini Ekadasi day, all the sins such as the
+slaughter of a Brahmana and the like which one might have
+committed wilfully, disappear. This is called Prabodhini Ekadasi
+because it enlightens virtuous persons and those who practise
+just activities. Also it wakens Hari from slumber.
+38b-39a. The man who at least once observes the fast on
+this day that dispels the slumber of Hari, does not become a
+son once again. He is not reborn in any womb.
+39b-40. O men, perform the worship of the discus-bearing
+Lord with your own wealth, clothes, flowers, incense, lights,
+excellent sandal paste, saffron, sweet fruits and scents. All of you
+worship the feet of^ri Hari.
+
+## 41. He who does not carry out my instructions, conducive
+
+to the attainment of piety and salvation (attainment to the
+vision of Visnu), is liable (lit. deserves) to be killed, banished
+from the realm or certainly punished (otherwise) by me.”
+
+## 42. While the drum that had the sound of the clouds was
+
+being beaten to proclaim as before, the most excellent king
+dropped down the chewing betel along with camphor from his
+hand.
+
+## 43. Withdrawing his chest that was in contact with the
+
+breasts of Mohini, the king (though) of enhanced appetite for
+sexual pleasure, stood up from his bed.
+
+## 44. With bland speech he consoled Mohini who was
+
+afflicted with delusion and passion :— ‘‘O gentle lady the day
+of Hari that is destructive of sins dawns tomor ow.
+
+## 45. I will be observing restraints. May I be forgiven.
+
+May I be excused. At your behest the Krcchra penance is
+being caused to be performed by Sandhyavali.
+
+## 46. But this Ekadasi vow that is called Prabodhakarani
+
+should be performed by me. It cuts off bonds of all sins. It
+bestows salvation.
+
+## 47. To all the three worlds, it is the cause of celebrating
+
+great festivities. Hence, O lady of elated gait, I will partake of
+only Havisya invariably.
+
+
+1652
+Ndrada PurOna
+
+## 48. O lady of large eyes propitiate Adhoksaja (Visnu)
+
+Hrsikesa along with me, by being engaged in the observance of
+fast. Thereby, you will attain salvation devoid of burning
+sensation and dissolution.
+
+## Mohini said :
+
+
+## 49. O king, you have spoken pertinently. At your behest,
+
+I shall perform the worship of the discus-bearing deity, that
+dispels births, deaths and old age.
+50-52a. The time of fulfillment has come for that vow
+(promise) that had been undertaken by you formerly on the top
+of (he Mandara mountain, along with the offering of the hand.
+It was marked by staking your merits. Hence, may that be
+given to me. If you do not grant me that boon, all the merits
+tlu't you have accumulated since your birth with great difficulty,
+ulll perish instantaneously.
+
+## Rni mdngada said :
+
+52b-r.3. Come on, O lady of charming limbs I will carry
+out whatever you entertain in your mind. There is nothing
+which should not be given to you. Even my life shall be given
+to you, O beautiful lady—what then of villages, wealth etc.
+including the earth.
+
+## Alofiini said :
+
+.ll-o?. O Lord, C) love, O powerful king, O Lord of my
+life fond of'sexual intercourse, if I, your beloved wife, am to be
+enjoyed, no fast should be observed on the day of Visnu.
+O king, am I not your beloved wife ? I do not wish to spend
+even a Muhurta without contact with you, O excellent one. So
+O king, devoted to truth, if you wish to enjoy me, give up this
+vow of fast. May food be taken on the day of Hari.
+57-58a. It is this boon that should be granted to me.
+This is what had been requested for by me formerly. O leading
+king, if you do not grant it (this boon) to me, you will become
+a man of falsehood. You will fall into a terrible hell (and
+remain there as long as all living beings are dissolved, (upto
+the end of the world). ^
+
+
+Uttarabhdga 23.58b-70
+1653
+
+## The king implored :
+
+
+## 58b. O auspicious lady, please do not speak like this.
+
+This is not proper on your part ?
+
+## 59. Why do you, though a daughter of god Brahma,
+
+create obstacles in the observance of holy rites. Ever since iny
+birth I have never taken food on the day of Hari.
+60-6la. O auspicious lady, now that my hairs have begun
+to turn grey, how shall I take food ? Having recourse to the
+heavenly river (i.c. the Gahga) or the worship of Hari is proper
+in case of a man who has gone beyond the prime of youth and
+the power of whose sense-organs has dwindled.
+61b-62a. This (i.e. taking food on the Ekadasi day) is
+what has not been committed by me whether in boyhood or in
+youth. It is a despicable act. How can I perform it now, when
+I have become feeble and am lacking in virility ?
+62b-63. Be pleased, O lady of roving side-glances, be
+pleased, O fair-complexioned lady. Do not create obstacles in
+my Vrata. I shall give you the riches of the kingdom. O lady
+of beautiful eyes, if you do not wish for it, I shall do another
+thing.
+
+## 64. 1 shall make you seated in a palanquin that is very
+
+splendid and resembling the aerial chariot. Accompanied by
+my wife, I shall walk on food and take you wherever you wish.
+65-66. If you do not like the aerial chariot made by me,
+I will make two pillars of gold adorned with corals. O my
+beloved wife, I will prepare a swing of pearls for your sake. I
+shall swing you therein day and night for many months.
+67-68. O my beloved lady, O beautiful one, do not
+create obstacles in the performance of my holy rite. If food is
+taken on the day of Hari, O fair-faced lady, it is more
+despicable than eating the flesh (from the hands) of a Candala
+or that of a dog. If one indulges in sexual intercourse when the
+moon dwindles (i.e. on the New Moon day), one incurs the sin
+of destroying the three worlds.
+
+## 69-70. A man incurs sins in the following circumstances:
+
+—if he gets himself shaved on the Bhuta day (i.e. the fourteenth
+day in the dark half of the month of Karttika); if he takes food
+on the day of Visnu; if he takes oil bath on $asthi (sixth day of
+
+
+1654
+J^drada Purd^a
+a lunar fortnight); if he takes salt, O auspicious lady, on
+the Trtlya (third) day and meat on the Saptami (seventh) day
+if he takes in ghee on the full moon day and drinks liquor
+during the transit of the sun from one sign of zodiac to another.
+71-73. On the day of Hari, food (to be taken in)contains
+the sin accrued in the following acts viz.—if one sp>oils the pasture-
+land of cows., if one commits perjury; if one misappropriates a
+deposit, if one causes hardships to a virgin (e.g. making her mar¬
+riage impossible), if one commits breach of trust; if one milks a
+cow the calf of which is dead; if he does not give an excellent
+Brahmana what he solemnly promises to give saying ‘I will give
+you”, in Manikuta (fraud committed in regard to a precious
+gem), in Tulakuta (in using false weights), in Kanyanrta (in
+uttering a lie about a virgin) and in Gavanrta (in uttering a
+lie over a cow). Hence, O fair-eyed lady, how shall I take food
+knowing that it is a great sin?
+
+## Mo hint said :
+
+74-77. While I was in the mountain of Mandara,
+Gautama told me thus : O leading king, one shall not pass
+an Ekadasi day by taking in single meal throughout the day
+or a nocturnal meal or unsolicited food^ or by observing fast.
+Observance of fast is not proper for women advanced in
+pregnancy, for Grhasthas (worshippers) of domestic sacrificial
+fires), Krsas (worn-out weaklings), sick men, Sisu (children)
+and the wrinkled worne-out bodied (old people). O leading king,
+those who are engaged in Yajfias and their enjoyment, those who
+serve the Earth, those who fight and the Pativratas (chaste
+ladies) must not observe fast.
+
+## 1. This verse is found in other Pura^as e.g. Mk. P. quoted by
+
+Hcmadri otiKdla p. 170, Gd, P. 1. 136. 2-3. The snag in Mohini’s argument
+is that she applies these to an ablebodied person like Rukmahgada. Manu
+X 1.28 & 30 forbids an able-bodied capable person to resort to these
+alternatives. Mbh. ^inti 165.17 supports this. The terms ekabhakta or abhukta
+(taking meal after mid-day-</tnjr</Aa-sama)vtfte), noAta (taking food after the
+appearance of stars after the sun-set) and aydeita (subsistence on food not
+obtained by begging or soliciting) were used formerly mth rderence
+to Prdyakittas like Kfcchra. They came to be applied to fasts in Puri^as
+later on.
+
+
+Uttarabhdga 23.78-88
+1655
+
+## 78. O excellent man, the day ofVisnu must not be spent
+
+without the observance of Vrata. Those Brahmanas who have
+maintained the sacred fire should be known as Grhasthas
+(householders).
+
+## 79. Those who abide by the duties of protecting the sub¬
+
+jects should be known as Rajas (kings). Gurvini is the lady who
+is pregnant for eight months. Sisus are children upto their eighth
+year.
+
+## 80. Ksinas arc those who observe too many fasts. Vali-
+
+gatras are those old men (whose body contains wrinkles)
+Mahotsavas are those who arc busily engaged in auspicious
+rites such as marriage etc.
+81-82. Those who arc engaged in Yajiias arc the persons
+who refrain from worldly activities. (Defective) The woman
+who is engaged in the welfare of her hnsband by means of the
+three Karanas(organs etc) (i.c. mind, body and speech) shouKl
+be known as Pativrata (chaste lady). So also the woman who
+protects her vaginal passage. O king, of what avail arc the
+many utterances I may indulge in ?
+
+## 83. I will be pleased if you take food on the Ekada.si day
+
+but I won’t by pleased even if you cut off your own head and
+give it to me.
+
+## 84. O king, if you do not take food on the day of Hari,
+
+I will not touch the body belonging to you who are untruthful
+in your words.
+
+## 85. O leading king, truthfulness is revered among people
+
+of all stages of life and castes. O king, especially it is so among
+rulers of kingdom like you.
+
+## 86. It is through truth that the sun blazes;^ the moon
+
+shines through truth. O king, the Earth is established in truth.
+It is the truth that upholds the universe.
+
+## 87. The wind blows through truthfulness and the fire
+
+burns through truth. This entire Universe consisting of the
+mobile and the immobile beings has truth for its support.
+
+## 88. It is through truth that the ocean does not move
+
+
+## 1. It appears that in W. 86-89 the Vcdic concept of is extended
+
+to Satya (Truth).
+
+
+1656
+Narada Purina
+(away from its place). O king (for the same reason) the Vindhya
+mountain does grow (rise) up. Never does a yonng woman
+carry the child in her crossing the time limit (i.e. beyond a
+stipulated period of about ten months, she does not hold it.)
+
+## 89. It is only when they are abiding by truthfulness that
+
+trees put forth flowers and fruits. O king, the means of Divine
+judgement, etc. of men has for its basis, truthfulness alone.
+
+## 90. Truthfulness surpasses thousands of horse-sacrifices.
+
+Through falsehood you will be tainted with such a sin as that of
+drinking liquor.
+
+## CHAPTER TWENTYFOUR
+
+Questions of MohinV-
+
+## The king said :
+
+
+## 1-2. You mention that it had been recounted to you by
+
+Gautama on the excellent mountain Mandara that food be taken
+on the day of Hari. But this is contrary to the opinion of the
+Puranas. O fair-faced lady, it has been mentioned by that Brah-
+inana who indulges in spreading the insignificant sacred texts
+out of greed.
+
+## 3-5. The following decisions have been proclaimed in the
+
+Puranas by learned men viz—one should not drink water with
+
+## 1. This chapter describes a typical conflict between parochical
+
+VedisLs and Vaifijiavas. This part of the NP. is meant for the glorification
+of the Ekadasi Vrata. Though this topic is discussed in Part I Ch. 23 (and
+elsewhere), a detailed description and importance of this Vrata is found
+(sometimes repeated in this part also. This chapter emphasizes the import-
+tance of complete fasts of Ekadasi and the acceptance of the authority of
+Puranas in interpreting the Vedas. The medieval writers who compiled
+treatises on Ekadas'i (e.g. Sulapani’s Ekddaii Viveka, Raghunandana’s Ekddaii-
+tattva) and on JTd/a (e.g. Hemddri on Kdla, M&dhava on Kilanirjfaya) have
+profusely quoted the NP as an authority on Ek&dasi. Hence the importance
+of these chapters.
+
+
+Uttarabhdga 24.6-10
+1657
+a conch shell; one must not kill* ‘tortoises’ and ‘pigs;’ food
+should not be.taken on the eleventh day in either half of
+the month. The sin of taking food on that day, O gentle lady,
+is the same as that of the sexual intercourse with a forbidden
+woman or that of eating forbidden food or that of doing a pro¬
+hibited act. It is also equal to the slaughter of a thousand cows.
+O, gentle lady, how can I take food on the day of Hari in
+spite of my knowledge of this ?
+G. O lady of charming thighs, when the dayofllari
+has dawned, even the Purodasa (the sacrificial oblation of
+ground rice) is declared to be equal to the forbidden food.
+What then about the (ordinary) food taken in by way of
+regular meal ?
+
+## 7. O fair-complexioned lady, roots, fruits, milk and
+
+water are mentioned by leading sages as favourable foodstuffs
+of feeble men. They can be eaten.
+
+## 8-9. But taking full meal on the Ekadasi day has not
+
+b(‘en recommended by anyone, .\bslinence from food is recom¬
+
+## mended iii ihe ca^e of persons .suffering from fever, and obser-:
+
+vance of full fast in the case of righteous persons, when the day
+of Hari has dawned. 'I’his is auspicious and conducive to the
+attainment of salvation. Even if Pathya (wholesome) food is
+taken in the middle of fever, it is likely to result in death.
+
+## 10. If food is taken on the day of Visnu (Ekadasi) it
+
+leads only to a fall in hell. O lady of beautiful thighs, please
+don’t insist, let there be no breaking of my holy vow. If there
+is anything else that appeals to you I shall undoubtedly
+do it.
+*Khddel slu^ulcl be the reading in the NP. as it is found in this verse in
+KP- and Dcvala Smrti. For discussion vide note below.
+This verse is attributed to the KP and Devala Smrti in the
+j^ir^aya Sindhu, p. 35, and to Vimudharmottara P. by Hemftdri in Kdla. But
+those verses read
+tui khddet Kufvux-Sukarau
+The reading na khddet is better as Kurma and Sukara are the bulbous
+roots called Kadgar and Kon in Marathi and the question of ‘killing* bulbous
+roots does not arise. Moreover, the reading in the NP. will amount to a
+license in killing other animals including cows. But the reading should be
+decided on the MS evidence of the NP.
+
+
+1658
+JfSrada JhtrSrut
+
+## Kfohinl insisted :
+
+11-12. “O king, nothing else appeals to me except your
+taking food. No purpose of mine is served even by your dedica¬
+tion of life. Moreover, the observance of fast on the day of
+Hari is not found in the Vedas.
+
+## 13. The Brahmanas maintaining the holy sacrificial fires
+
+do not accept the observance of fast. How is it that you wish to
+practise a rite that is outside the pale of the Vedas. ?”
+
+## 14. O King (Mandhata), on hearing the words of MohinI,
+
+the king who was the most excellent one among the knowers of
+the Vedas said laughingly though he got furious in mind.
+15-17, “O MohinI, listen to my words. The performance
+of sacrifices has its procedure in the Veda (Kriya Veda) and in
+the stage of life of a householder the Smrtis are like the Vedas.
+The Vedas in the form of Smrtis and the Kriya Vedas are based
+on the Puranas. Just as this wonderful universe is born of Pura-
+napiirusa (the ancient Purusa or Being) so also the whole range
+of literature undoubtedly originates from the Puranas. O fair¬
+faced lady, I, therefore, consider the meanings of the Puranas
+superior to the meanings of the Vedas,^
+
+## 18. All the Vedas are ever established in the Puranas,
+
+The Veda is afraid of a man of deficient learning, thinking “O,
+this man will strike me.”
+
+## 1. VV. 15-22 establish the authoritative nature of the Puranas and their
+
+relation vis-d~vis the Vedas. The NP regards Puranas as the essence of all
+the Vedas (supra I. 1. 61-62), nay their import ss superior to the Vedas.
+And the NP is not the only Purana to hold this view. For example, theSk. P.
+repeats the very wording of these verses : c.g.
+Vedah pratiffAitdti saroe purd^ ndtra sarhi(^ah /
+bibhetyalpa~irutdd Vedo mdm ayam praharifyati Ij
+yan m dxftam hi Vedtfu tad dTffam smrtibhih kUa /
+ubhibkyam yan na dxftaih hi tat purifiefu glyatt If
+purSpuh sarm-t&trii^am prathamam Brahnuu^i smTiamJ
+—Rtod Kkatf^a I. 20-23.
+The equivalence of Puranas with the Vedaa has been stated in the
+Bxhad-drapyaka Up. (11. 4. 10) where both of them are regarded as the
+exhalation of God. This authority of Puri^ias is confirmed by V&tsyiyana in
+his com. on Ny&ya Sutra IV. 1.62, Kumirila in Tantra-VurtHka. On Jaimini’s
+Purva-mtmSmsi siitra I. 3. 1 and Sahkara on Br. Sutra 1.3.33.
+
+
+UttarabhUga 24.19-28
+1659
+
+## 19. There is no mention about the movements of the
+
+planets in the Vedas there is no indication of the time that is
+endowed with purity; nor (can we find these things therein)
+viz. the increase and the decrease of the Tithis nor the decision
+about the Parvans (New Moon and full moon) or the position
+of the planets.
+
+## 20. Formerly, these had been decided by means of the
+
+Itihasas and the Puranas ; what is not seen in the Vedas is
+observed fully in the Smrti.
+
+## 21. What is not seen in both of these is explained by the
+
+Puranas, as for example, the expiatory rites in the cases of kill¬
+ing. O beloved wife, it is like the medicine in the case of a
+seriously ill patient,
+22-25a. (If the Puranas had not explained the expiatory
+rites)it would not have been possible to have purification from
+sins in one’s own case or in the case of others. O lady of beauti¬
+ful eyebrows, what is sung about by the Vedas, what is recount¬
+ed by the Vadahgas (ancillaries) is explained in detail by the
+Puranas and Smrtis. O fair-faced lady, the Puranas repeat often
+like this—“when the day of Hari has arrived, food should not be
+eaten, food should never be eaten.” By disregarding the Pura¬
+nas one will attain the womb of animal. Even if one has taken
+holy ablutions, even if he has perfect self-control he will not
+attain salvation if he disregards the Puranas.
+25b-26. Who will not salute his father ? Who will not
+worship his mother ? Who will not go to Ganga the
+holiest of all rivers. Who will eat food on the day of Hari ? Who
+will slander the Vedas ? Who will cause the downfall of a
+Brahmana.
+
+## 27. Who will have sexual intercourse with another man’s
+
+wife ? Who will take food on the day of Hari ?
+
+## 28. O beloved one, there is no other sin for a creature
+
+of muddleheaded nature, than taking food on the day of Hari.
+O lady of bright eyes, it is the cause that makes one fall into
+the pit (hell) of Yama.
+
+## 1. W. 19-22 state what topics are not mentioned in the Vedas but
+
+are decided in Puranas. Hence their superiority in some respects.
+
+
+1660
+Ndrada Purina
+
+## Mohini said :
+
+
+## 29. “O Ghurnika (the name of,the female attendant)
+
+bring here immediately those Brahmanas who arc the masters
+of the Vedas. It is likely that on being convinced by means of
+their words, the king may take food.”
+
+## 30. On hearing her words she (i.e. Ghurnika) brought
+
+Gautama and the other Brahmanas who were masters of the
+Vedas, near Mohini.
+
+## 31. On seeing the Brahmanas, the experts in the Vedas
+
+and the Vedahgas come, Mohini who was interested in her own
+affairs saluted them in the company of the king.
+
+## 32. O king, all of them had the refulgence of the blazing
+
+fires. They sat on seats made of gold.
+33-34a. Gautama who was the oldest among them spoke
+these words :“0 queen, we experts in the different branches of
+sacred literature who dispel all doubts, have come here, for the
+purpose wc have been called by you.”
+34b-35a. On hearing the words of those (Brahmanas),
+Mohini the daughter of Brahma, spoke to them who were engag¬
+ed in doing what was impossible for others.
+
+## Mohini said :
+
+35b-36. The doubt here is whether this man is stupid or
+deficient in intellect (?) The king says—‘Twill not take food
+on the day of Hari.” (But) this entire universe consisting of the
+mobile and immobile beings has food as its support.
+37-38a. Even the dead persons, the Pitrs (manes) in
+the heaven are delighted with cooked food. O excellent Brah¬
+manas, the Devas desire for cooked rice, the Puroda^a [sacri¬
+ficial oblations with ground rice) of the size of Jujube fruit.
+Hence cooked rice is the greatest nectar.
+38b-39. Even the hungry man takes a bit of rice in its
+mouth and enters its crevice with great strain. To whom
+does not the food appeal ? But this king docs not eat cooked
+rice and other edibles, when the day of Hari has arrived.
+
+## 40. He has forsaken his own holy duties and abides by
+
+other peoples’ Dharma. It is but proper on the part of widows
+and ascetics to observe Vratas.
+
+
+Uttarabhdga 24.41-51
+1661
+
+## 41. The man who is devoted to other peoples’ Dharma
+
+and averse to his own Dharma, sinks deep down into blinding
+darkness of hell and remains there as long as fourteen Indras
+reign.
+
+## 42. It has not been mentioned anywhere that kings
+
+should abandon their legitimate duty of protecting their sub¬
+jects that bestow on them the fourfold aims of life, and perform
+the vow of fasting.
+
+## 43. (The following arc the legitimate duties of the con¬
+
+cerned persons). Service to their husbands by women; service
+to their parents by sons; service to the twice-born by the ^udras
+and the protection of the world by the kings.
+
+## 44. If out of blunder or ignorance, a person forsakes his
+
+duties and applies his efforts elsewhere, he shall undoubtedly
+face a downfall,
+
+## 45. O Brahmanas, this king of good intellect and of
+
+excellent conduct practises Dharma of ascetics and forsakes
+w'hat his dharma is laid down in the Vedas,
+
+## 46-47a. O Brahmanas, the following fall into hell :
+
+viz.—a woman who behaves according to her own sweet will,
+an impudent son, a king who practises isolation, a servant
+who shirks work, and a person who has no steadiness and
+stability.
+47b-48. Suppose the king is engaged in the worship of
+Hari and maintains all observances and also suppose some one
+cries out in distress. At that time, if he does not rush out leav¬
+ing aside his worship of Hari, he will surely incur the sin of a
+Brahman a-slaugh ter.
+49-50. n the day of Hari, if he is weak in the body, how
+can he restrain (his enemies) ? It is from the food that the
+Prana (vigour) is evolved. The activities of the body are based
+on the Pranas, The destruction of the enemy is through the
+activities of the body. If one is devoid of them, one is harassed
+and overpowered. I have realised this. Though I try to en¬
+lighten the king, he does not wake up, or realise it.
+
+## 51. If the king protects his subjects that alone constitu¬
+
+tes his Vrata. O excellent Brahmanas, a king has no other holy
+Vrata (except this).
+
+
+1662
+Ndrada PurdJfa
+
+## 52. Of what avail are devotion and worship of
+
+gods to a king after spreading disaffectioo and wrath among
+his subjects staying in the realm. If there is no bloodshed in his
+kingdom that alone is on a par with Yajfias, Homas and
+services to gods.
+
+## CHAPTER TWENTYFIVE
+
+The story of Mohini
+
+## Vasiftha said :
+
+
+## 1. On hearing the words uttered by Mohini the
+
+Brahmanas said—‘True’, and addressed these words to the
+king.
+
+## The Brdhmanas said :
+
+
+## 2-3. O king, you have taken up the holy vow that food
+
+should not be taken in on the Ekadasi day in both the fortnights
+(of every month). This vow is not taken from the point of view
+of the scriptural texts. It is evolved out of your own intellectual
+fancies. It has been laid down that those who maintain holy fires
+should take in (the food offered as oblation) during both the
+junctions of a day. (i.e. morning and evening.)
+
+## 4. Three castes are glorified as the partakers of the leav¬
+
+ings of Homas. Hence, how shall it be considered proper if
+they observe fast, particularly in the case of kings ?
+
+## 5-6. The kings, O lord, are always up in arms. They
+
+are the persons who restrain the wicked. Whether with the
+backing of the scripture or without it, may the vow that you
+have taken up be concluded today through the words of the
+Brahmanas. You will not incur (the sin of) breaking the holy
+vow. Eat in the company of the Brahmanas.
+
+## 7-8a. You need not regret or repent it. The wprds of a
+
+Brahmana are impiortant (weightier) and valuable. O excellent
+
+
+Uttarabhdga 25.8b-19a
+1663
+king, he who disregards the statements of a Br^mana takes
+birth as a Raksasa fifteen times.
+8b-9a. On hearing those words the king became terribly
+furious but with throbbing lips, he spoke to the Brahmanas in
+soft and bland speech.
+9b-ll. ‘‘O Brahmanas, you are the guides for all living
+beings. You have cited a verse regarding ascetics and widows.
+But when you say that observance of fasts is not laid down for
+kings, it is but the opinion of those who traverse the wrong
+path and not that of the Vaisnava persons. In that connection
+listen to the statements in the sacred text book “Vaisnavacarala-
+ksana” (or pertaining to the characteristics of the conduct of
+life of a devotee of Visnu)—
+
+## 12. “One shall not drink water by means of a conch
+
+shell; one shall not kill “tortoises” and “pigs”, in both fortnights
+food should not be taken on the Ekadasi day.
+
+## 13. Liquor should not be drunk; nowhere should a Brah-
+
+mana be killed; a knower of Dharma shall never play the game
+of dice; no one should take food on the day of Hari.
+
+## 14. Eating of the forbidden food is sinful; violating the
+
+chastity of another man’s wife is sinful; taking food on the
+Ekadasi day is definitely the cause of downfall.
+
+## 15. Should any one live fora hundred years after per¬
+
+forming an action that should not be performed. Which active
+man takes food on the day of Hari ?
+
+## 16. Fodder should not be given even to the quadrupeds
+
+on the day of Hari by the Brahmanas staying in the northern
+4«gion who are devoted to the holy rites of Visnu (Vaisnava
+rites).
+
+## 17. How can I eat the forbidden food today ? I am not a
+
+man physically weak and feeble.‘ O excellent Brahmanas, I am
+not afflicted by dyspepsia.
+18-I9a. How can I therefore eschew the holy vow merely
+at the instance of the Brahmana following the wrong path. When
+
+## 1. In W. 17-20, the king is perfectly right on Gastric grounds,
+
+(vide Manu XI. 30.) He hit the week point correctly in the arguments of
+Gautama and Mohini.
+
+
+1664
+Ndrada Purdm
+the whole earth is being protected by the king^ Dharma-
+bhusana (i.e. Dharmaiigada) I am not without sufficient protec¬
+tion. I have no enemy.
+19b-20a. After knowing all these things, O excellent
+Brahmanas regularly practising the holy rites pertaining to Visnu,
+it is not proper on your part to speak against me decrying my
+holy vow.
+20b-21a. The Brahmanas who observe (give) expiatory
+rites without carefully examining (the case) will incur sin
+due to the breaking (of injunctions of) the Smrtis.
+21b-23a. I will not take food on the day of Hari even if
+the following persons urge me to do it viz. — devas,
+Danavas, Gandharvas, Raksasas, Siddhas, Brahmanas,
+my own father himself, Hari, Hara, the father of Mohini, the
+sun or any of the guardians of the world’s quarters.
+23l)-25. O Brahmanas, the king who is well-knowm on
+the Eartli as Rukmahgada will never make his truthful pledge
+fruitless. Even the refulgence of the sun may vanish, even the
+Himalayas may crumble, even the ocean may dry up, even the
+fire may eschew its heat; still, O Brahmanas, I will not break
+my Vrata on the day of E.kadasi.^
+26-28. O Brahmanas, this is well-known in the three
+worlds. This is being proclaimed by the beating of drums
+—“Those who take food on the clay of Hari, which is the
+most important of all Yajfias, which dispels sins, increases
+piety, bestows salvation which is called the severer of
+the chain of births, which is the receptacle of refulgence
+and is popular and established among all people in th^
+villages and lands of Rukmahgada and others deseryj^,
+to be killed or punished (otherwise) alongwiih their sons.
+They will not be allowed to reside in the whole of the realm.”
+When this has been announced loudly, if I were to take food,
+I would be committing a sin.
+29-30a. It would be as though the drum was tarnished
+with filth or muffled with a blue cloth. The creature that has
+
+## 1. W. 2Ib-25 show the firm determination of Rukmahgada which
+
+acts as a challenge to Mohini to demand the head of his only son
+DharmShgada.
+
+
+Uttarahh&ga 25.30b-39
+1665
+earned renown but spoils it by itself committing sin due to
+the fear of life stays in the hell called Krmidarh^a for sixty
+Yugas.
+30b-31a. As soon as I break my solemn vow of the holy
+rite, the delivery of my mother would be futile; the Brahmanas,
+the Pitrs and the Devas would be disappointed and Vaivasvata
+(Yama) would be delighted alongwith his scribe namely
+Citragupta.
+3lb-32. Of what avail is the birth of that evil-minded
+being who delights the beautiful wives of his enemies (by
+refraining from killing their husbands). He takes delight in
+sins by means of evil actions; he is no better than a man of
+low caste; he is the destroyer of every thing. He is unclean
+and foolish. He does not have regard for the Vedas,
+Puranas and scriptures. In the end, he goes to the city of
+the son of the Lord of the day (i.e. Yama).
+
+## 33-.34a. He who breaks his pledged word or solemn
+
+vow is no better than one who vomits his food and eats it
+again. Neither the Vedas, nor the. scriptures, neither the good
+men nor the Puranas and Smrtis advocate the act of
+taking food on the pure day worthy of holy rites pleasing to
+Madhava.
+34b-35. If Sraddha is performed on the day of Hari,
+the Pitrs will not be satisfied thereby. The Ekadasi Vrata is
+one that bestows the region of Visnu. Only foolish persons
+will mention it alongwith Ksayaha (the new moon day when
+3raddha is to be performed).
+
+## 36. On hearing his words Mohini burned within herself.
+
+With eyes turned red with anger, she retorted to her husband
+
+## 37. “If you do not act in accordance with my advice you
+
+will be out of the pale of Dharma. A man excluded from
+Dharma shall be no better than dust.
+38-39. The dust, at least, fills a pit whereas this sinner of
+a man is the digger of a pit. O king, for the purpose of
+granting the boon you extended your hand and offered it to
+me (by way of taking a pledge). You have now broken that
+pledge. If you do not keep up that promise my responsibility
+is over. I shall go away, I have obtained your Dharma (i.e.
+you are deprived of it.)
+
+
+1666
+Ndrada Purdija
+
+## 40. I am not your beloved wife any more. O king, you
+
+are no longer my husband. I shall have my own arms as my
+head-rest and not yours; (even) in case of fighting (I shall not
+depend on your protection.)
+
+## 41. Fie upon you the destroyer of piety, the breaker of
+
+your own promise. Even among the MIecchas (alien outcastes)
+a heretic like you cannot be seen.
+
+## 42. I will forsake you today since you have moved away
+
+from the truth sinfully.” After saying this the fair lady hurriedly
+stood up.
+
+## 43. Just as Satl went away leaving off Hara, so also
+
+the slender-bodied lady bedecked in divine ornaments started
+from there accompanied by those Brahmanas.
+
+## 44. “Better to touch liquor than have contact with
+
+this king. Better to wear the blue cloth, rather than have the
+touch of this king who has swerved from virtue.”
+
+## 45. Lamenting thus, the infuriated MohinI cried much
+
+and went out of the abode accompanied by Gautama and
+others.
+
+## 46. “O father, O Lord of the Universe, the cause of
+
+creation, maintenance and dissolution (of the worlds),” cried,
+the mentally created daughter of Brahma.
+
+## 47. In the meantime, Dharmangada who was seated on
+
+an excellent horse returned to the palace after touring over
+the entire Earth.
+48-49. Coming in a hurry, the renowned Prince
+Dharmangada the son of Rukmangada, a prince devoid of
+rivalry and favourite with his father, the very embodiment of
+virtue came face to face. The words coming out of the
+mouth of MohinI, endorsed by the words of the Brahmanas
+reached the ears of the prince.
+
+## 50. Dismounting hurriedly from the horse, he went near
+
+his father and fell at his feet. Getting up again he bowed down
+to the leading Brahmanas with palms joined together in
+reverence.
+51-52. Then, observing that MohinI was mentally furious
+and she was hurrying out, he went over to her and with
+folded palms, he said to her in reverence. “Q Mother, O
+
+
+UttarabhAga 25.53-63
+1667
+gentle lady, O beloved wife of my father, by whom have you
+been insulted ? Why are you angry ? Where have you set off
+now alongwith these Brahmanas ?”
+
+## 53. On hearing the words of Dharmahgada, MohinI
+
+
+## spoke these words :
+
+**0 dear son, your father is a liar. Falsely did he offer
+his (right) hand (to me).
+54-55. The hand that always performed holy rites, has
+the shape and features of red Asoka tree, the glorious right
+hand wearing gold armlet and is marked with lines in the
+form of a banner and a goad is by your father Rukmahgada
+withdrawn—Hence I am not enthused to stay here.”
+
+## DharmMgada said :
+
+
+## 56. O gentle lady, whatever you say, I shall do. There
+
+is no doubt about it. O mother, do not be angry. O beloved
+wife of my father, return.
+
+## Mohini said :
+
+
+## 57. By this father of yours, I have been made his
+
+wife on the mountain Mandara with this (certain) stipulation;
+jSiva, the Lord of the Devas, was standing witness thereof.
+
+## 58. Your father, Rukmahgada, has gone astray breaking
+
+those stipulations. He does not give me what should be given
+to me. It is not his flourishing prosperity that I am thinking
+about.
+
+## 59. O prince, I do not beg for gold, nor for foodgrains
+
+nor for horse, elephants, villages nor clothes whereby he might
+incur any loss.
+
+## 60. O foremost one among embodied beings, O son,
+
+only that was requested for by me whereby he could please his
+own body. But out of delusion, he does not give it to me.
+
+## 61. O prince, the excellent king was requested for by
+
+me to help his own body for his own happiness.
+
+## 62. The Lord has now landed himself in a terrible
+
+mess of falsehood on a par with imbibing liquor.
+
+## 63. I will have to forsake your father who has fallen
+
+off from truthfulness, who speaks harsh words, has eschewed
+
+
+1668
+Ndrada Purdna
+and is false, roguish and base. My stay alongwith him is
+impossible.
+
+## 64. On hearing the words of Mohini, the son Dharmah-
+
+
+## gada said :
+
+“As long as I am alive, my father cannot be false in
+respect of anything.
+
+## 65. O fair lady, return. I shall do whatever is desired
+
+by you. O gentle lady no falsehood has ever been uttered
+before by my father.
+66-67. How can that king speak falsehood, now that I
+his son, am here ? The whole world consisting of the Devas,
+Asuras and human beings is established in his truthful¬
+ness; the abode ofVaivasvata (Yama) has been made void of
+sinners and cleared of sinners by him. His fame spreads every¬
+where. The whole sphere of the Cosmic egg has been pervaded
+by his fame.
+
+## 68. How can that king get involved in false utterances.
+
+I have not heard my father’s words. How can I believe in an
+indirect (reported) statement (said to have been uttered in
+my absence) ?
+69-70. O splendid-faced lady, take mercy on me and
+return.”
+On hearing these words of Dharm^gada, O king,
+Mohini returned with (her hands) resting on the shoulders of
+her son to the place where Rukmahgada, as refulgent as the
+sun, was lying down as though dead.
+71-72. She made her son sit on the bed of Rukmahgada
+which was equipped with gold, was brightly illuminated by
+gemset lamps, and decorated in variegated forms by corals; its
+extremely tender (soft-looking) legs were fashioned out of
+adamantine jewels. It was long and wide and charming beyond
+comparison.
+73-75. With palms joined in reverence, he spoke to his
+fath er with bland speech. “O dear father, this mother of
+of mine, here says that you are a liar. How can you be, O
+king, a liar on this Earth ? When the kingdom consisting of
+the treasury hoarded with gems, possessing el^hants, horses,
+chariots, etc., extending over the whole world containing the
+
+
+UUarabhAga 25.76-82
+1669
+seven oceans is being ruled by you, O Lord, give everything
+to her, everything whatever has been promised to her.
+
+## 76. O dear father, as long as I hold the bow who can
+
+act against you ? Give even the post of Indra to the gentle
+lady. Know that Indra has been defeated.
+
+## 77. The region of Brahma, which is difficult of access,
+
+is unsullied and can be approached only by Yogins. I am
+willing to give that too to her after propitiating the lotus-
+deity born by means of penance.
+
+## 78. After conquering human beings, Devas and
+
+Danavas, I will give whatever my mother wishes for in
+the nether worlds, on the Earth, in the heaven or in any
+other region.
+
+## 79. O king, since I am your slave, I may even be sold.
+
+If I am considered insigniheant, may I be entrusted to a sinful
+Gandala.* I shall be his servant and be fed by him.
+Or
+
+## 79. O king, since I am your slave, sell me or my mother
+
+and propitiate the daughter of Ku.sa-emblemed deity (i.e.
+Brahma) lest there should be, O Lord of men, the (stigma) of
+falsehood on you in the world.
+
+## 80. O Lord of the Earth, there is nothing in the three
+
+worlds, which is difficult for me to do and which hence cannot
+be given to her, should she like it. O leading king, give her
+even my life or that of my mother.
+
+## 81. O Lord of kings, by that very thing, be endowed
+
+with good renown for ever. You can illuminate the groups of
+kings with your attributes (like the moon) that brightens the
+sky by means of its rays.
+
+## 82. It is true what Manu has said that there will be sin
+
+in the destruction of one’s reputation as killing of one’s own
+progeny (or the subjects). But O king, how can I otherwise,
+wipe off the pure (stainless) fame and be happy ? Hence this
+course is proper.
+!. This it mn obvious reference to king Hariicandra who for sage
+Viivkmitra sdd his wife and ton to stick to the truth.
+
+
+1670
+JfitFad^ Pur^
+
+## CHAPTER TWENTYSIX
+
+The story of Mohini
+
+## The king said :
+
+
+## 1. O son, may my fame perish. May I be called a liar.
+
+May I even fall into a terrible hell. But how should I take
+food on the day of Hari ?
+
+## 2-3. O son, let this gentle lady, Mohini go to the abode
+
+of Brahma. This lady says to me foolishly and childishly for
+many times. “Excepting your taking food on the day of Hari
+that is destructive of sins, I do not wish for anything else such
+as kingdom, Earth, wealth, etc.’*
+
+## 4. Even If I am to be born in the despicable species of
+
+a germ, I will not take food on the day of Hari.
+
+## 5. This Dundubhi (drum) has loudly proclaimed (my
+
+views) and has instructed the people. How can it be made
+false ?
+
+## 6. Is it desirable to live for a hundred years after taking
+
+the forbidden food, after approaching a forbidden woman and
+after drinking the prohibited beverage ?
+
+## 7. Even if I were charged with falsehood and have
+
+strayed away from the royal policy and am insulted and
+rebuked by the people, I will not take food on the day of
+Hari.
+
+## 8. Even if I were to die due to the separation from the
+
+lady of tremulous side-glances, that is preferable, but I will
+never take food on the day of Hari.
+
+## 9. How can I give excessive delight to Yama by
+
+making the miserable men proceed alongwith the path
+leading to hell ?
+
+## 10. O dear son, the rows of hell which had been made
+
+empty by me, will be filled with people if I take food.
+
+## 11. Let not any lady bear in her womb such a son as
+
+would cause delight to the enemies though he is efficient
+enough to destroy them.
+
+## 12. She requests only for this viz : taking food on the
+
+day of Vi^u. I shall not grant the request of Mohini even if
+I am requested for it by the Devas and Asuras.
+
+
+UttarabkSga 26.13—27.5
+1671
+13-14. He may even drink poison, he may enter fire, he
+may jump down from a lofty mountain; he may cut off his
+head with an excellent sword that brightens the sky; but king
+Rukmangada will never take food on the day of Hari, on
+this Earth. My name Rukmangada is famous in the three
+worlds.
+
+## 15. How can I, by taking food on the Ekadasi day,
+
+destroy the reputation earned by me—accumulated by me
+through the observance of fast on the Ekadasi day.
+
+## 16. Even if it dies, goes off, falls down, perishes, breaks
+
+into pieces, my heart shall not desist from this for the sake of
+Mohini.
+
+## 17. I may even forsake my life along^ith the worlds,
+
+my wives and servants. But I will never resort to the taking
+of food on the auspicious day of Visnu.
+
+## CHAPTER TWENTYSEVEN
+
+The story of Kdsfhild*
+
+## Vasiftha said :
+
+
+## 1-2. On hearing the words of his father, the son
+
+Dharmahgada called his mother named Sandhyavali who was
+auspicious, lustrous like ten thousand suns, of beautiful breasts
+and who protected the entire earth by the pacing of her steps
+over it.
+
+## 3. At the instance of her son, she immediately reached
+
+the presence of the king. The words of Mohini as well as those
+of his father were repeated to her.
+
+## 4-5. Get an agreement effected between these two—con¬
+
+sole Mohini who tenaciously clings to (the stipulation of)
+*Standard dictionaries like SKD, MW, give a ‘plantain tree” as the
+meaning of Kaff/nii but the story shows it to be a worm in the wood.
+
+
+1672
+Ndrada PurSna
+taking food by the king on the day of Hari. Let something be
+done so that my father does not swerve from truth and
+also does not take food. Let there be happiness to both.
+
+## 6. O king, (Mandhata), on hearing the words of her son
+
+the gentle lady Sandhyavali spoke these soft words to Mohini,
+the daughter of Brahma ;
+
+## 7. O beautiful lady, do not be importunate. By no means
+
+will the king taste the sinful food (cooked rice when the day of
+Hari has arrived.
+
+## 8-9a. Closely follow the king. He is the eternal preceptor.
+
+Just as the worlds of Savitrl were free from impurities,
+so also will be the worlds of that woman who always
+carries out the directions of her husband.
+9b-l0a. O gentle lady, formerly, he was overwhelmed by
+passion and beguiled. If then, he had offered his hand to
+you, on the mountain, that should not be thought much of
+(no capital be made out of it). He does give what should not
+be given. Do not beg for what should not be given.
+10b-12. Even an adversity is beneficent to one who
+strictly adheres to the path of the good. O blessed lady, even
+during his boyhood, food has not been taken by him during
+the day of Hari. How will he then take food now on the day
+of Visnu (EkadasI). O lady of sweet and charming thighs,
+you may very well choose some other boon for something
+rare.
+13-14. The king will definitely give it to you. Desist
+from the insistence on the taking of food. If you are convinc¬
+ed, O gentle lady, that it was I who brought up Dharman-
+gada, choose the kingdom alongwith our own lives, O lady of
+auspicious holy rites. (Choose the entire worlds) consisting of
+seven continents and many rivers, forests and mountains.
+
+## 15. O lady of large eyes, and slender waist, for the sake
+
+of my husband I shall bow down to your feet though I am the
+eldest and you are the youngest.
+
+## 16. The woman who traps and gets her husband involved
+
+in the faults due to the verbal pledge and makes him do what
+should not be done is sinful and she will stay in the hell.
+
+## 17. After falling off from the terrible hdl, she takes
+
+
+
+Uttarabhdga 27.18-27
+1673
+twelve successive births as a sow. Thereafter, she is born as a
+Can(^alL
+
+## 18. It is after knowing this aberration resulting from
+
+sins, that O gentle lady, O lady of beautiful thighs, O charming
+lady, you have been prevented by me with the feelings of a dear
+friend.
+
+## 19. Good counsel must be given to an enemy by one who
+
+wishes for piety. What then, O lotus-faced lady to you who
+remains as a friend of mine ?
+
+## 20. On hearing the words of Sandhyavali, Mohiiii the
+
+fascinating lady spoke to the eldest wife of her husband whose
+complexion was lustrous like gold.
+21-22. Mohini said—“O lady of beautiful eyebrows,
+you are worthy of being honoured by me. I shall carry out
+your instructions. If the king does not wish to do what is
+being sung about by Narada and other scholarly sages, viz taking
+food on the day of Hari, O gentle lady, may another thing,
+greater than your death, (?) be pursued.
+
+## 23. O ble.ssed lady, this is indeed painful to me also, but
+
+I prattle thus, thanks to divine intercession. Who likes self-
+slaughter? Who desires to swallow poison ?
+
+## 24. Who wishes to fall down from the lop of a mountain ?
+
+Who wants to play with snakes living in burrows ? Who likes
+to rush at lions and tigers ^ Who wants to swim across the sea ?
+
+## 25. Who wants to indulge in harsh words and false state¬
+
+ments? Who is fond of outraging the modesty of another man’s
+wife ? Who likes to eat unwholesome food ? Who desires to eat
+the forbidden food in the world ?
+26-27. Who wants to go hunting deer ? Who likes to
+play the game of dice ? Who likes to enter into risky adventure?
+Who wants all these such as cutting of grass and hewing of
+wood; trampling and holding of clods of earth, harassing of minor
+deities* (?), playing in water or with fire and similar things ?
+Yet O beautiful lady, urged by the deity (or Fate) a man does
+all these things.
+* In the reading deh&nitn instead oi dev&nam, it means‘'minor beings-
+(such as poor worms, etc.)
+
+
+1674
+N&rada Purdna
+
+## 28. A man who deserves to be in the hell, does all
+
+inauspicious things that destroy his body in the form of fame
+and that make him fall off from the three aims of life.
+29-31. I am naturally sinful and wicked in my eviP
+actions. I am desirous of saying extremely harsh words. The
+child is born with the same emotions and feelings as the
+progenitor has at the time of discharging semen into the
+vaginal passage. I have been created by the lotusborn
+deity Brahma who had his emotions disturbed by arguments
+against king Rukmahgada. I have the form of a fair-
+complexioned lady but defiled in emotions. I shall be the per¬
+petrator of some evil action in regard to the king.
+32-34. O gentle lady, it is neither the Lagna nor the
+planet, nor the Hora (the hour, the rising of the zodiacal sign)
+that can indicate the future nature. The emotional feeling at that
+time (i.e. the time of conception) should be taken up (for con¬
+sideration) The son is also born with the same emotion. In a
+son born with that ill feeling, there is no courtesy or kindness,
+there is neither shame nor affection nor any Dharma (piety)
+also, O gentle lady. In spite of his knowledge about his
+evil tendencies he pursues the same feelings.
+
+## 35. I am going to say something that will take away
+
+your life, that of our husband and that of all women folk along-
+with the world. It spoils my merits (dharma) and may cause
+slander against me. O timid lady, it is impossible to conceive
+mentally about it.
+
+## 36. If you do according to my suggestion, your fame in
+
+the world will be great. It will cause the fame of your husband
+to spread; it is conducive to the attainment of heaven; your
+son will be praised and thereby my lot will be controversial
+and full of condemnation.
+
+## Vasiffha said :
+
+
+## 37. O Lord, on hearing the words of Mohini the gentle
+
+lady Sandhyavali (screwed up all her courage) and urged that
+young woman saying “Tell me, Tellme”^.
+
+## 1. This sinister confession of Mohini—the pangs of conscience
+
+(whether sincere or hypocritical) prepares the tense background for the
+terrible catastrophe which U impending.
+
+
+Uttarabhdga 27.38-47
+1673
+
+## 38. “Of what nature are the words you are going to
+
+speak which will cause sorrow to me ? In making my husband
+truthful, misery cannot be caused to me by any means. If it
+is done for the name of my husband, I am not distressed at my
+death, or at the death of my son or at the destruction of my
+kingdom.
+
+## 39. If the wife is affluent but sinful, and hence, O fair-
+
+complexioned lady, the husband is miserable (it is proclaimed
+that) she will have a downfall (in hell).
+
+## 40. That sinful lady falls into hell called Puya (of
+
+foetid things) and remains there for seventy Yugas. Thereafter,
+she is born as female musk-rat in the Bharata land for seven
+births.
+41-42. Then she is born as a female crow and then a
+female jackal* and mungoose. After taking the birth of a cow,
+she becomes purified. O beautiful lady, she who does not give
+wealth she possesses or her own life for the sake of her husband,
+is born as a worm in the faeces. O splendid lady, after being
+released from the womb of a worm, she is born as a
+Kasthila^ (plantain tree ?)
+
+## 43. This happened during my girlhood days. A splitter
+
+of wood at my father’s place was chopping the wood for fuel
+for a long time.
+
+## 44. Inclined to play alongwith my girl friends, I went
+
+near him as he was splitting the wood.
+45-46. O lady of fair eyebrows, there a worm was seen
+by me coming from between the wood. Its body resembl¬
+ed butter and it had the lustre of collyrium. It had the length
+of the little finger and the thickness of a finger. On seeing it
+fallen on the ground, a crow came there to peck at it.
+
+## 47. Even as the hungry crow was about to peck at it
+
+with its beak, it was prevented by me instantaneously with a
+lump of clay.
+is a hyper-Sanskritisation of Pkt. Siydti. SK. Srgiili'
+
+## 1. A Prakritic formation in Sk. meaning “one who lives in a log
+
+of wood {kdffhay\
+
+
+1676
+Ndrada Purdrut
+
+## 48. O fair lady, it was let off by the crow that was thus
+
+hit; but it had been pecked at by the beak and wounded. It
+was not able to run away,
+
+## 49. It began to tremble. It was about to die. But
+
+sprinkled with water a little, it regained its normal health.
+
+## 50. Then O fair-complexioned lady, the Kasthila spoke
+
+to me in human voice. She addressed me bymy name Sandhya-
+vali, while I was in the midst of my friends.
+
+## 51. “O splendid-faced lady in my previous birth I
+
+was the daughter of the sage named Sumantu who was omni¬
+scient. 1 was the wife of Kaundinya.
+.52. I lived in Kanyakubja (Kanauj in U.P.). I was
+affluent, hence, very arrogant. I was the favourite darling of
+my mother, father and other kinsmen.
+
+## 53. Then I was given in marriage to the noble-souled
+
+Kaundinya who was born of a noble family, was celibate (lit.
+who had no physical contact with any other women) and
+befitting me in every respect.
+
+## 54. Bed and other things were given to me by my father
+
+as dowry and present. Ten thousand gold pieces too were given
+to me at the outset by my father-in-law.
+
+## 55. I was fully satisfied with the wealth obtained from
+
+my father as well as father-in-law. I had cows, buffaloes etc.
+I was endowed with affluence (wealth) and foodgrains.
+
+## 56. I was liked by my parents-in-law and the common
+
+people, on account of my good conduct. In due course of time,
+my father-in-law, the knower of the real meaning of the Vedic
+texts, passed away.
+
+## 57. Taking the dead body of her husband my mother-in-
+
+law entered the funeral pyre. Thereafter, my husband offered
+water libations to his parents and performed their Sraddha.
+
+## 58. Within two months of that, O gentle lady, my
+
+husband went to the Royal palace out of curiosity but was
+afterwards overwhelmed by love passions of the heart.
+
+## 59. Beautiful courtesans in the prime of their youth
+
+were seen entering the royal palace by that Brahmana.
+
+## 60. With gifts of profuse wealth two of them were taken
+
+from there and brought to his house. My evil-minded husband
+retained them in his house for dalliance.
+
+
+UUarabh&ga 27.61-74
+1677
+
+## 61. Using it up the entire wealth of my husband was
+
+wasted by both of them. O gentle lady, by the time three years
+elapsed, my husband became indigent.
+
+## 62. Then he requested me “Give me your ornaments”.
+
+Those were not given to my husband by me as he was addicted
+to vice.
+63-65. O blessed lady, I took everything and went to
+my father’s abode. (He too followed me there). At my house he
+sold the slaves and other possessions and the money (received
+thereby) was given to the two courtesans. That also was
+exhausted. Whatever was left such as the fields, grains, etc. was
+sold off at throw-away-prices alongwith the garments, utensils
+and other personal effects. My husband thereupon entered the
+great ocean by means of a boat. He went oversea.
+
+## 66. He went a long distance seeing wonderful things
+
+and miracles on the way. O splendid lady, he saw many animals
+of the sea and all their activities.
+
+## 67. By the time it had gone a hundred Yojanas, the boat
+
+was caught in a violent storm. It broke into pieces and all others
+on the boat were killed.
+68-69a. As providence would have it, and urged by his
+Karmans of the previous births, my husband clung to
+a long piece of wood. O gentle lady, led by the wind he reached
+a mountain bedecked with adamantine peaks.
+69b-70. That mountain contained many rivulets and
+fountains, many birds and many trees full of fruits and flowers.
+With its three prominent peaks, it scraped the middle of the
+sky.
+
+## 71. O lady of beautiful eyes, on seeing the divine,
+
+wonderfnl mountain my husbund left off the piece of wood
+(that brought him there) and jocously climbed on to it, as he
+was eager to earn some wealth.
+
+## 72. He rested there for a while. When he was over¬
+
+whelmed with hunger and thirst, he got up in search of food
+and surveyed the trees all round.
+73-74. He saw ripe grape vines there and ate the grapes
+joyfully. He was a bit assuaged and he saw a very clean big Sida
+tree with a thick shade and its thick foliageTesembling the
+
+
+1678 Ndrada PurH^o
+spreading clouds, and had the height of fifty men. Spreading
+his upper cloth he went to sleep under its shade.
+
+## 75. Overcome by fascinating sleep his eyes began to roll.
+
+By the time the sun had set the excessively tired (Brahmana)
+went to sleep.
+
+## 76. When the sun had set and the night had set in, a
+
+terrible Raksasa roaring like the cloud came there rushing in.
+
+## 77. Like the ten-headed Ravana who had abducted
+
+Sita, he had carried the slender-1 imbed auspicious daughter of
+the ruler ofKaii, named Ratnavali on his lap.
+
+## 78. Without washing her feet, she had gone to sleep with
+
+her head directed towards the north. The virgin of beautiful
+buttocks was desirous of obtaining a husband, but did not obtain
+one befitting her.
+
+## 79. That girl was the foremost among all women. Over¬
+
+whelmed by slumber she was crying. In the matter of giving
+her in marriage, her father had been extremely anxious day
+and night.
+
+## 80. O lady ofslender limbs, this beautiful girl, occupying
+
+a bed spread in the shadow of the lamp was seen by the sin¬
+ful demon who was roaming about.
+81-83. He saw her in the light of gems and jewels
+that were shining like lamps. She was wearing two
+bangles well studded with bright gems and jewels. In each
+bangle there were ten jewels, and in the necklace of gold
+coin (?) there were fifteen jewels. On the crest, there were
+seven jewels. On the armlets there were eight and five
+(thirteen) jewels. The demon abducted such a virgin bedecked
+in jewels and with gold-like lustrous complexion. He carried
+away the girl of sweet smiles from the palace of the king.
+Through the aerial path he reached his own abode in a
+moment.
+84-87. He came to that mountain where my husband
+(was sleeping) beneath the l§ala tree. There she saw his cave
+that had the lustre of gold. Unable to bear the terror struck
+by him, she entered the cave even as he was looking on. The
+cave had been beautified by many jewels and itdiad mansions
+of variegated colours. Many articles lay scattered here and
+
+
+Uttarahh&ga 27.88-98
+1679
+there. It contained beds and seats. Pols of beverages and
+edibles with various kinds of dishes had been kept there. After
+entering the cave, the demon placed that weeping girl of lily¬
+like eyes, the excessively frightened girl of plump bosom and
+buttocks, on to a bed.
+
+## 88. On hearing the weeping of the girl, his wife the
+
+ogress hurriedly came to the place where the demon was
+standing.
+
+## 89. On seeing that girl whose lustre was like that of
+
+molten gold and everyone of whose limbs was beautiful, she
+
+## became infuriated. Rebuking her husband she asked thus :
+
+
+## 90. “O ruthless one, why is this girl brought here when
+
+I am alive ? Do you wish for another wife ? I will no longer
+be your wife then.
+
+## 91. That demon joyously spoke to his beloved wife of
+
+beautiful eyes, the ogress of black eyes who had spoken to him
+thus.
+
+## 92. “O splendid-faced lady, this pabulum (eatable)
+
+prey has been brought by me from Kasi for your sake. A
+second one is standing at the gate. It has been brought to me
+by providence.
+
+## 93. O fair-faced lady, a Brahmana is lying beneath the
+
+Sala tree. Bring him here quickly so that I can make a meal
+of him.
+
+## 94. On hearing the words of the Raksasa that virgin
+
+spoke thus :— “O Raksasi, out of his fear for you, your
+husband utters a lie.
+95-96. He knows that you are old in age, hideous in
+form and torturous in your gait. At night when I was soundly
+sleeping in my father’s house, he came to me passionately. O
+gentle lady, since I am not married he has brought me here
+to make me his wife in spite of my cries.”
+
+## 97. On hearing these words uttered by the princess, the
+
+ogress became extremely infuriated. On seeing the beautiful
+form (of the princess), she decided that it was the truth. In her
+anger she hurled words (at her husband).
+
+## 98. She thought thus—“She has been brought here to
+
+be made his wife. Of necessity, this demon will strike a wedge
+in my head.
+
+
+1680
+NOrada Purdna
+
+## 99. Let there not be any woman in the tj^ree worlds
+
+who undergoes the misery of having a co-wife. There will
+hardly be any woman in the three worlds who will survive the
+harassment due to the misery of being a co-wife.
+
+## 100. There is no doubt about this that it is the greatest
+
+of all miseries when there is another woman to have a share
+in the wealth and enjoyment of pleasures.”
+
+## 101. After thinking much like this, she spoke these
+
+words to her husband, “This girl is mine, as this lady of
+charming eyes has been brought by you as food for me.
+102-103a. I shall bring that Brahmana to be your prey,
+O Suvrata (one of holy rites)”. Then the Raksasa urged “Go,
+go quickly. The corner of my mouth drips too much of saliva
+due to my desire to eat him.”
+103b-104. Thereafter, on hearing the words uttered by
+her husband, the terrible Raksasi set out with infinite hope. She
+saw the excellent Brahmana endowed with comely features and
+blooming youth as well as adorned with the jewels of
+learning.
+
+## 105. On seeing him she was overwhelmed with love
+
+pangs in the heart. Through her Maya (power of illusion), she
+became a beautiful maiden of sixteen years and approached
+him.
+
+## 106. The maiden of large buttocks spoke to the
+
+Brahmana with great pleasure—“Who are you ? Whence have
+you come here ? Why do you stay here ?
+
+## 107. I ask you this as I am desirous of making you
+
+my husband. I am an ogress overcome with pangs of love. 1
+have been abandoned by my husband. I have come here to
+make you my husband.”
+
+## 108. On hearing her words my husband was frightened.
+
+O splendid lady, yet he emboldened himself. The intelligent
+(Brahmana) spoke these words :—
+
+## 109. “O Ogress, how can there be the copulation of a
+
+Rak$asi and a human being ? There is no doubt about this
+that men are remembered as the prey of Rak?asas.”
+
+## 110. On hearing those words she spoke to him again
+
+respectfully—“The impossible is made possible, thanks to the
+intercession of the Providence.
+
+
+Uttarabhdga 27.111-120
+1681
+111: This is heard in the Parana. This is a future in¬
+cident mentioned in the Bharata, O Brahma^, Hidamba an
+ogress will become the wife of Bhima.^
+
+## 112. The son procreated by a human being will be
+
+Ghatotkaca. He will be one who cannot be killed by any
+other weapon. He will attain death through the weapon
+called Sakti (of Indra, hurled by Karna against Ghatotkaca).
+
+## 113. Hence, O Brahmana, do not grieve. It is through
+
+Providential intercession that I have become your wife. Fate
+is indeed very powerful.
+114-115. When Indra went to the mortal world to meet
+Bali, my husband, the terrible Raksasa had a convenient
+opportunity. He stole Sakti from his abode as though it
+were the blazing flame. And that Sakti belonging to Indra
+has been kept here in the Sala Tree.
+
+## 116. O excellent Brahmana, without killing at least
+
+one it does not go back to Indra. The person for
+whose slaying it was hurled will perish even if he be immortal.
+
+## 117. Hence, I shall climb up to the top of this Sala tree,
+
+bring the shining l^akti to you and hand it over to you with
+a desire for the death of my husband.
+
+## 118. If you do not hit and injure the night-prowler
+
+with this l§akti, there is no doubt that the evil-minded one
+will swallow you as well as me.
+
+## 119. He is a great enemy of yours as well as that of me,
+
+O scorcher of enemies, since, by that foolish fellow, a virgin
+has been brought here for being made his wife.
+
+## 120. Hence, an enmity (inimical feelings) has been
+
+generated in me against my husband of the wicked soul. If
+he is killed, it will be possible for both of us to have sexual
+dalliance.
+
+## 1. The future tense in W. Ill and II2 regarding Bhima’s marriage
+
+with Hidambi and the birth of their son Ghatotkaca and his death by a
+8akti in the Bh&rata war is used to show that this Kk;thil& incident (csp. her
+previous birth) is more ancient than the Mahabh^rata-history-(mentioned
+only as Bhdrata in the N.P.).
+
+
+1682
+KdradaPurdna.
+
+## 121. O Rativardhana (one who intensihes, lustful¬
+
+ness) if I am making a false statement to you, may I not
+be the partaker of benefits of the merit performed by
+myself.
+
+## 122. If this were to be a lie, may I attain that condition
+
+
+## of a despicable nature which is attained by men on committing:
+
+Brahmana slaughter.
+
+## 123. O Brahmana, may I get that state, the terrible
+
+state that is laid down in the case of an evil-minded Brahmana
+who drinks liquor.
+
+## 124. By uttering a lie, may I attain that fate, O-
+
+excellent Brahmana, of that creature that is engaged in
+seducing the preceptor’s wife and that resorts to sinful
+actions.
+125-126. If I tell a lie, may I incur that sin which the
+following undergo viz he who steals gold and misappropriates
+the sum given on trust; he who forcibly occupies another
+man’s land; he who commits suicide; he who cats meat on.
+the Paftcami (fifth) and Astami (eighth) day, of a lunar
+fortnight.
+
+## 127. The man who commits the sin of cutting off a
+
+tree or cohabiting with a woman on the new moon day, the
+sin acquired by taking in ghee while one is defiled by Ucchista,.
+the sin of sexual intercourse during the day time.
+
+## 128. The householder Brahmana who does not perform
+
+the holy rite of Vaisvadeva, the person who does not give alms
+to the mendicant, the widow who takes meal twice a day.'
+
+## 129. The person who uses gingelly oil on the day of
+
+Samkranti (the transit of the sun from one sign of Zodiac tO'
+another), the person who goes to the holy centre along with
+the cows (?), the person who takes bath in another man’s tank
+without taking out mud therefrom.
+
+## 130. The person who chews the tooth stick twig from a
+
+forbidden tree; the person who docs not serve cows, but binds
+them; the person who treads the heretic’s path.
+
+## 1. Formerly, widows were looked upon as Yatis and all the
+
+reitrictions of a Sannyisin were imposed on them. Hence this restrictioffc
+of limiting to one meal for widows.
+
+
+UttarabhUga 27.13U141
+1683
+
+## 131. The person who performs the worship of the Pitrs
+
+and the Devas standing on a piece of wood or rock (?), the
+person who keeps only a buffalo without a cow also, the
+person who takes food off a bell metal vessel that is broken.
+
+## 132. The person who performs holy rites clad in un¬
+
+washed or tom clothes or those belonging to others. The
+person who stares at a naked woman and the person who
+partakes of forbidden food.
+
+## 133. O Brahmana, if I tell you a lie, may I be tarnished
+
+with the same sin as that of a perscm who creates obstacles in
+the discourse about !§iihari.
+
+## 134. O Brahmana, if I tell a lie, may I be the person
+
+who incurs all these sins^ that 1 have mentioned and also those
+I have not mentioned.’*
+
+## 135. O gentle lady, my husband who was thus addressed
+
+by that sinful woman was deluded by the inevitable future,
+and he decided accordingly, saying "So be it."
+
+## 136. That indigent Brahmana who had been indulging
+
+in vices and so perturbed extremely due to my harsh words
+spoke thus to the ogress. His words (proved to be) the best-
+ower of all achievements.
+
+## 137. "Bring that ^akti quickly. I shall carry out your
+
+directions. When the Raksasa is killed, all these things should
+be given by you to me.
+138-139a It is with a keen desire for wealth that I
+undertook (the voyage) through the sea full of whales and
+sharks". On hearing these words, the ogress brought the Sakti
+that was on the top of the tree and that emitted brilliant lustre.
+She gave it to my husband for the realisation of their desire.
+139b-140. In the meantime, the Raksasa who was over¬
+whelmed by passion attempted to rape the virgin. She became
+terrified and spoke these words—"O Raksasa, there is a great
+sin in cohabiting with a virgin.
+
+## 141. While I was sleeping 1 had been fraudulently
+
+brought here from my father’s house at Kaii. It is not your
+fault in this regard. My fate is evidently of this nature.
+
+## 1. W. 122*134 record a eeriet of acts which were regarded as sin»
+
+or undesirable ones in the riite Indian society of the NP-Period.
+
+
+1684
+Mibrada Pur&ifa
+
+## 142. I am in the middle of a cave. Who v^ll be the
+
+protector here ? It is through fate that one gets a husband. It
+is through fate that one gets a wife.
+
+## 143. Fate alone plays the chief part in the matter of
+
+acquiring learning, house, happiness, wealth and nobility of
+birth. It is urged by the fate that man goes anywhere.
+
+## 144. O night-prowler, of necessity you alone will be my
+
+husband. When the path is traced out by fate, what will (even)
+a schcilar do ?
+
+## 145. Hence bring that Brahmana who has resorted to
+
+that Sala tree. Fetch ghee, water, Ku^a grass and fire.
+Celebrate marriage in accordance with the injunctions.
+
+## 146. Even without the Darbha grass, water and fire,
+
+even without the traditional rites laid down, a marriage may
+be fruitful if it is blessed with the permissive statement of a
+firldimana.
+
+## 147. O R^sasa, if that Brahmana has not already been
+
+killed (bring him here quickly). When the holy rites of Homa
+have been performed, you will be able to eat him up.
+
+## 148. When these words were addressed by that princess
+
+the Rak^asa had full belief in his mind. He set out proudly.
+
+## 149. Afflicted by pangs of love he hastened out to bring
+
+that Brahmana.
+
+## 150. O gentle lady, as he was setting out he himself
+
+sneezed, his left eye throbbed and his own clothes dropped
+down.
+151-153. Unmindful of everything, he set out from the
+cave. There he saw his wife in human form engaged in that form
+of union as is usual between a husband and a wife. She said—
+*T am abandoning you, a sinful Raksasa of ruthless action.
+You are enamoured of a young woman of human species.
+You are the defUer of my body.” On hearing these terrible
+words uttered by his wife, the night-prowler (demon) became
+infuriated and malicious. He rushed at her.
+
+## 154. He lifted up his arms. He kept his mouth wide
+
+open. He rushed at them to devour both of them. Uttering
+curses of harmful nature, he rushed at them like a violent
+storm, that blows in the proper season.
+
+
+Utlarabhdga 28.1-12
+1685
+
+## C3I1APTER TWENTYEIGHT
+
+Kdfthild's story {Contd.)
+
+## Kdsthild said :
+
+
+## 1. On seeing the Raksasa, comparable to the black anni-
+
+hilator Yama, rushing at them, the Ogress became afraid and
+spoke thus to my husband.
+
+## 2. “Hurl this Sakti that is as refulgent as fire and
+
+bedecked in gold. May this husband of mine die and become
+the beloved ofDigambara’s enemy (i.e. Yama).
+
+## 3. At her instance, my husband assumed great manliness
+
+and hurled the massive l§akti at the chest of the Raksasa.
+
+## 4-5. The Sakti that blazed brilliantly like fire and illu¬
+
+minated the ten quarters, the point of which was sharp and
+emitted divine rays and was jingling with hundreds of tinkling
+bells fitted into it, the body of which was smeared with red san¬
+dal paste, and was beautified with (the covering) of red cloth.
+It went off from the hands of the Brahmana, pierced into the
+heart of the Raksasa.
+
+## 6-7. After reducing the Raksasa to ashes, it went up into
+
+the sky. After felling (killing) her husband through the hands of
+the Br^mana, the ogress considered herself as having achieved
+her goal. Hairs stood on end due to her delight. The delighted
+ogress then spoke to the splendid-eyed Brahmana.
+
+## 8. “O my lover, come on. Enter freely my beautiful
+
+cave. Enjoy all the great pleasures, divine as well as human, in
+my company.**
+
+## 9. “So be it’* said my husband who was extremely de¬
+
+lighted. Then she took my husband and entered her cave joy¬
+fully.
+
+## 10. Without caring to look at the ashes to which her
+
+husband's body had been reduced, she clasped my husband
+with her protruding breasts.
+11-12. She pointed out to him that maiden ofslender body
+who was lying down on the bed.—“O excellent Brahmana,
+this lady of black side-glances, with lips red like the Bimba
+ihiit and of gold-like lustrous complexion had been brought (by
+
+
+1686 SSrada PurSm
+my husband) to make her his wife, from Varanasi, the city
+whose limits arc not transgressed by all sins.
+
+## 13. That city is called Sakti Ksetra (the sacred
+
+place of Divine Power) and is holy and destructive of sins. It is
+the abode of Tripurari (God Siva) and it extends to five
+Gavyutis (i.e. fifteen Kilometers).
+
+## 14. Men who die therein are never reborn into any
+
+womb. Kindly take this lady of bright eyes to her father’s
+house.
+
+## 15. These jewels, beds and seats are at your disposal. If
+
+you wish you can sell all these things including myself.
+
+## 16. O Brahmana, for your sake the terrible Raksasa was
+
+slain by me who am enamoured of your comely features. He has
+been sent to the abode of Yama.
+
+## 17. Hence, O Lord, have confidence in me. O large-
+
+eyed one, I am your devotee. I can assume any form I like.
+‘Enjoy me.’
+
+## 18. O lady of beautiful eyes, on hearing these words of
+
+the love-lorn ogress, my husband spoke these words to the
+Rak^sl in the presence of that virgin.
+
+## 19. As he was guarded and suspicious he spoke sweet
+
+words—
+“O blessed lady, (it is mentioned) in the treatises on polity
+and ethics that women should not be trusted.
+20-21. How will she not injure me, she who kills her
+husband ever since her girlhood days ? Considering another
+man more handsome, this lascivious woman (may cause my
+death). O fair-faced lady, still I continue to believe in you.
+
+## 22. O beautiful woman, I have sought refuge in you,
+
+kill me, if you please, to-day or tomorrow or after a fortnight
+or a month or a year.
+23-24. This must be done by you only thus (as though)
+I have not helped you today (?) For the sake of vengeance
+(help in return ?) the soul must be offered by you. (You must
+give yourself up). Since you unhesitatingly killed your husband
+for my sake, O lady of good eyes, I do not say anything
+more.’*
+
+## 25. On hearing the words of my husband, she sp>oke
+
+
+
+Vttarabhiga 28.26-32
+1687
+thus : *‘0 Brahmana, killing some one who has trusted in one
+is on a par with the slaughter of a Brahmana.
+
+## 26. If, on account of this, you consider me a cruel Rak-
+
+sasi, the destroyer of her husband (my reply is) I hate my
+husband. How will I kill one who confides in me and believes
+in me?
+
+## 27. The way of Dharma (virtue and piety) is very subtle.
+
+It cannot be understood by any means, by any one anywhere,
+whether Daitya or Raksasa or others. But some men are
+clever in thinking about the subtleties of Dharma.
+
+## 28. (Those who know Dharma) attain Naiskarmya
+
+(freedom from the Karmans i.e. Moksa) through their perishable
+physical body. This is heard in the Pur^as. Same thing is being
+mentioned here.
+
+## 29. It is through the favourable nature of Dharma that
+
+Visnu the powerful God could assume ten incarnations. But
+in them much misery was experienced by him.*
+
+## 30. Where is Rama, the abode of Sri, who for the sake
+
+ofSita, accompanied by Laksmana lamented in the course of the
+events and they were bound by the serpentine nooses ?
+
+## 31. Where is Vasudeva’s son, the lord of Devas, of the form
+
+of perfect knowledge ? And where is the fully worldly man who
+sheds tears saying “O what a pity ?” who makes signs and ges¬
+tures with his eyes and who acts as servant unto Partha (i.e.
+Arjuna), Ugrasena and others ? (What a lot of difference there
+is !)
+
+## 32. O Brahma^, the activities of the Lord are beyond
+
+human scrutiny* though he abides by the favourable Dharma.
+Vy^a® the son of Paraiara, is himself the classifier of the Vedas.
+He was a man of truthful vision. His very form is worthy of being
+worshipped. (But) he was born of the semen virile of one who
+destroyed the virginity (of a woman). Hence he is called a
+Kanina (son of an unmarried girl). Moreover, he had sexual
+intercourse with the wives of his younger brothers.®
+
+## 1. VV. 29-47 give instances of adkama passed on as Dharma. The
+
+Rikfost describes the power of fate over all beings.
+
+## 2. Hiis refers to the births oH Dhrtar^9tra and from the
+
+queens of Vicitraviiya, the son of Satyavatl and Santanu. To have a heir
+
+
+1688
+Ndrada Puram
+
+## 33. i^ntanu was a Parivettr (one who had married before
+
+his elder brother Devapi). He was the second husband of a lady
+(Satyavati who married twice). At first he was the husband of
+the heavenly river. His son was the veritable Vasu (Bhisma), the
+unmarried elder brother (whose younger brother vicitra-Virya
+was married before him); he attained death due to the argu¬
+ments of a woman (Amba) who became Sikhandin in the next
+birth.
+
+## 34. The Pandavas were born of adultery (as each was
+
+born from a different person other than their legal father
+Pandu. Thus they were actually bastards. All of them cohabit¬
+ed with the same woman, viz. Draupadi. Still their glorification
+is considered holy and sacred. It is destructive of sins.
+35-37. Visnu whom people meditate upon and truly
+remember, who is called Yogamurti ( Embodiment of Yoga)
+and who is eternal, was enamoured of courtesans. Srinrsimha
+who advised Prahlada and others and who destroyed Asuras is
+considered as the deity and Lord of the Dcvas (Defective). He
+is the destroyer of even the impression of worldly existence, he is
+the deity and Lord of the Devas. He was the destroyer of
+Hiranyaksa (Hiranyakasipu ?) but he stayed in his abode (?)
+
+## 38. The son of Jamadagni(Para5urama) had realised his
+
+soul himself. He had destroyed his sins by means of his austeri¬
+ties. He was Lord himself. But he was the perpetrator of such
+deeds as massacres of Ksattriyas and killing of children in the
+womb.
+
+## 39. He himself was a leading Yogin. He was a Brah¬
+
+ma^ engaged in educating people, but acting within the
+p)crview of Dharma, he became one who brought agony into the
+world.
+
+## 40. Narada was a Narada (destroyer of groups of men)^
+
+again and again. Narada was devoted to N^ayana. Nara
+to the Throne, Satyavati requested Vyasa who was bom of her from
+Parasara, to have sons from the queens of his younger brother Vicitravirya.
+{Mbh-Adi). 104 and 105).
+
+## 1. These difierent connotations of Nirada are peculiaP.
+
+
+
+Uttarabhdga 28.41-48
+1689
+means one who is a benefactor of men and also one who is
+immortal.
+
+## 41. Gautama was Gotama (most timid like a cow). O
+
+Brahmana, he was devoted to the activities of a cowherd. He
+had written a treatise (i.e. Nyaya sutra) the topics of which are
+beyond the pale of the Vedas; (but he is called) one who helps
+the Vedas.
+42-44a Vasistha and even Agastya, who were born of
+Urvasi, are considered to be masters. By Vasistha a sacred trea¬
+tise of excellent nature named Vasisthasmrti had been com¬
+posed for helping the whole world. In that work the Puranas
+and the Vedas are considered to be equal. He was himself
+the preceptor of iSri Rama who was none other than the
+Almighty (Visnu). Why was he cursed by Gadhija (Visva-
+mitra) ?* Why was he born in the womb of a lower animal ?*
+44b-45a The powerful Agastya had overpowered the Vindhya
+mountain, the demon Vatapi and also the ocean. How is he
+the receiver of hire money (?) ® He served in the way that
+is difficult for others to do.
+45b-46a. The creator is worthy of being worship¬
+ped by the sun etc. and is the honourable grandsire of the
+world. How did he become enamoured of a lady of fascinating
+beauty and give up his body ?
+46b-47a. God Siva, the bestower of auspicious things, is
+the lord of Prakrti. He is greater than the greatest. How
+did he carnally approach the wives of the Devas ? How does
+he pursue inauspicious activities in the cremation ground ?
+47b-48. Hence, O Brahmana, it is the prescribed rule
+that good conduct must be pursued duly. He who is the foremost
+among the knowers of things shall not abandon good conduct
+by having the egotist feeling, (then) he will obtain the highest
+peace conducive to virtue here and hereafter.
+
+## 1. when Vasistha learnt how Visvimitra persecuted his patron-
+
+disciple Hariscandra, he cursed Vi^vamitra to be a stork. In retaliation
+Visvamitra cursed him to be a kingtisher, (DB. VI. 13. 34-47).
+
+## 2. This refers to ^astya’s employment as a bearer of the palanquin
+
+of Nahu$a while he was in the position of Indra. Agastya however cursed
+Nabu?a who was then transformed into a serpent.
+Mbh. Udyoga ch. 17; Sdnti 342-51.
+
+
+1690
+Ndrada Purina
+
+## 49. Dharma is remembered as conducive to Apavarga
+
+(salvation). Wealth is the only thing through which Dharma
+can be achieved. That Dharma I have achieved in the form of
+wealth that is the greatest of all.
+50-51. O Brahmana, listen. In this connection, I shall
+recount to you the subtle way of Dharma. Abducting a girl,
+my husband was coming this way. He saw you were involved
+because you were brought there by your Karman. That was
+not his fault. He was asked by me—“Why was this girl
+brought ?“
+52-53. Then a lie was uttered by him that it was for his
+food. On hearing that, the girl in bondage told me everything
+pointing out his desire. Those who say that in wedded life the
+wife is a hindrance to salvation, cannot be understood as
+knowers of reality. Since the wife is not an obstacle.
+
+## 54. Only she is the real wife who is able to uplift a
+
+husband falling into the hell. Any other woman is like a
+twining creeper of Karman, the bestower of worldly bondage.
+
+## 55. What is sinful in this you hear from me, O my
+
+bridegroom who have come to me by yourself. Even if the vital
+breaths come to the throat, falsehood should not be uttered.
+
+## 56. One must always be truthful. Dharma is directly
+
+based on Truth. God Brahma is based on Truth. All good
+men abide by Truth.
+
+## 57. The entire universe is established in the Truth, the
+
+universe consisting of the mobile and the immobile beings is
+always based on Truth. The words “One shall always speak the
+Truth”^ are proclaimed in the Vedantas.
+
+## 58. The Truth is of the form of Brahman. We call
+
+Brahman by the word Truth. O Brahmai^, the Truth is
+always auspicious. It is the bestower of everything that
+is auspicious.
+
+## 59. Untruth is the bestower of self destruction though
+
+immediately it may breed the confidence of belief. But
+
+## 1. In various Upani$ads such commandments are found e.g.
+
+Taittiriya I. 11.1, Kau^itald 1.6.
+
+
+Uttarabhiga 28.60-69
+1691
+Truth should not be spoken to women. Listen to the reason
+thereof.
+
+## 60. In such directives as *‘Do not reveal to the woman
+
+(the extent of) the treasury”, it prevents future faults. That
+is said to be the cause of Dharma which reveals the subtlety of
+Dharma.
+
+## 61. That is called wedded life where the witnesses of
+
+marriage had been Ku^ grass, Brahmanas, water, fire, Vedas,
+Earth, time, space and Devas.
+
+## 62. The rite of acceptance is laid down -in the celebra*-
+
+tion of marriage. If the woman and the man are consecrated
+by Brahmanas, they are regarded as the teacher and the
+disciple.
+
+## 63. Hence, the bride and the bridegroom are mutually
+
+related as teachers and disciples. No difference at all, even
+to the minutest extent, should be understood by a discriminating
+man as existing between these two.
+
+## 64. The importance of women and employees is in ac¬
+
+cordance with the difference in rites. If there is the defect of
+contrariety (in relations etc.) anywhere, the cause of it is fate
+alone.
+65-66. The entire universe consisting of gods, Asuras,
+and human beings is subservient to Fate. Fate is the accumula¬
+tion of impressions of Karmas in the previous births. He
+who enjoys and experiences whatever comes to his lot, whether
+auspicious or inauspicious and behaves spontaneously with both,
+is called a quiescent p>erson by the learned knowledgeable
+men.
+
+## 67. A quiet person whose activity is based on the Truth
+
+enables the world to cross mundane existence. It is by knowing
+such and other details that my husband was prevented from
+falling into hell.
+
+## 68. He was sanctihed by me by preventing him from
+
+committing the sin of violating virginity. That is the help
+rendered by me. He has now attained the goal of the
+virtuous and lucky men after having been struck down by you.
+
+## 69. My husband was helped by me who know the sub¬
+
+tlety of Dharma. O excellent Brahmana, I have acquired merit
+(Dharma) in saving your life.
+
+
+1692
+Nirada PurSna
+70-71 a. What has been achieved by that Dharma > Know
+it properly from me. I who am born in the species of an
+ogress, I who have been the wife of a Raksasa, have now become
+a Brahmana woman who can assume any form, the reason
+being Dharma.
+7lb-72. Dharma is the wish-yielding cow (K^adhenu).
+Satisfactions the heavenly Nandana park. Vidya is the cause
+of salvation and Trsna (insatiable thirst) is the river
+Vaitaranl. My husband who was about to fall into Vaitarani
+has been redeemed by me.
+
+## 73. O Brahmana, I have helped this fair-faced girl also
+
+because she has been placed near a person who is the highest
+of all castes. She will be your wife in her father’s house.
+74-75. I will be guarding her and you for ever enlighten¬
+ing you with Dharma. Before my contact you had a wife, O
+Brahmapa, who will be born as a being in lower animal species.
+Later on, as a result of my blessings, she will be released.
+
+## 76. O Brahmana, in my previous birth I was the most
+
+beautiful woman in the world well-known as Kandali. I was the
+daughter of the sage Aurva.
+
+## 77. By the power of penance I was born as one of a
+
+twin. My brother born along with me, was suppressed by
+Aurva himself for the cause of Dharma.
+78-79. I was educated and given in marriage to Durvasas.
+O leading Brahmana, it was a result of my previous Karman
+that I attained him as my husband. I quarrelled with my
+husband. Hence, I was cursed by him and reduced to ashes. As
+a little of my sins remained, I was bom as ogress.
+
+## 80. In that birth this brilliant leader of demons Gobhila
+
+was attained by me as my husband but he has been struck
+down by you.
+
+## 81. O excellent Brahmana, in his youth he had incurred
+
+a curse “Your death will be initiated by your wife on account
+of a certain princess.”
+
+## 82. As a result of my previous Karman, I have been
+
+bereft of the nature of an ogress. Being powerful on account
+of the auspicious actions, 1 become your helpmate. ^
+
+## 83. At the outset my husband abducted a virgin and I
+
+
+
+Uttarabhdga 28.84—29.3
+1693
+had been made miserable by him. Hence, O Brahmana,
+he has been killed by me.
+
+## 84. O lover, since you put trust in me with all your
+
+heart and soul in every respect I shall protect you in every
+respect.
+
+## 85. This is my binding by oath with five elements as my
+
+witness and uttered in the presence of the all-pervading person.
+It is the truth.
+
+## 86. O excellent Brahmana, you will not alter this agree¬
+
+ment in any respect. O bestower of honour, you must abide by
+me in all activities.”
+
+## 87. On hearing the words uttered by the ogress, the
+
+noble Brahma^ carried out all instructions and she did
+accordingly.
+88-89. Thereafter, the demoness gathered together all
+wealth from the cave. She assumed the form of a she-elephant
+and kept my husband on her back along with Ratnavali, the
+large-eyed girl. Joyously she went through the path of
+firmament, O lady of good eyes, towards Kasl.
+
+## CHAPTER TWENTYNINE
+
+The description of Kiii
+
+## Kdffhild said :
+
+
+## 1. Thus, O lady of beautiful eyebrows, that ogress who
+
+had assumed the form of a she-elephant, reached the temple of
+Vi^veia at Kaiil within three Muhurtas.
+
+## 2. On reaching that city, the lady of black eyes spoke
+
+to her husband—“O Lord, this (city) is glorified as the
+axe for the cutting of the tree of sin.
+
+## 3. O beloved, this is said to be the dice box for the gold
+
+of six types of distresses (?) It is destructive of all seeds of
+Karmans, and it is the bestower of salvation on all.
+
+
+1694
+Ndrada Purd^
+
+## 4. The Puranas say that it was at first the abpde of
+
+Visnu.^ No one can ever have salvation in a holy centre not
+belonging to Visnu.
+
+## 5. O excellant Brahma^, this was formerly a city of
+
+Visnu, the bestower of salvation on all creatures and the
+destroyer of every one’s sin.
+
+## 6. Once Lord Sankara went there to see Pitamaha (god
+
+Brahma) the sole creator of all worlds, shining with his own
+splendour.
+
+## 7. After going there, Mahadeva bowed down to Brahmi.
+
+the preceptor of the worlds. He stood in front of him listening
+to the recital of the Vedic lore.
+
+## 8. He was delighted on seeing the Lord of the Universe
+
+joyously reciting the four Vedas by means of the four wonder¬
+ful faces.
+
+## 9. Thereafter, the leader of goblins saw the fifth face of
+
+Brahma. On observing him to be impudent and arrogant, he
+became malicious instantaneously.
+
+## 10. O leading Brahmana, the three-eyed deity, born of
+
+anger could not brook his audacity. Hence with the tip of
+his nail he cut off the head stationed above in the
+firmament (?)
+
+## 11. O excellent Brahmana, the head of Brahma that had
+
+been severed, stuck up to the sproutlike left hand (of Siva). It
+did not fall off though shaken frequently.
+
+## 12. Brahma became sad. He stood there staring at l§iva.
+
+Siva became ashamed and he hurriedly went out of the place.
+
+## 13. Though he tried in many ways impatiently to cast
+
+off that head, he could not get rid of it. It was a great mystery.
+
+## 14. Being perturbed and worried he remembered Vis^u,
+
+the Garuda-emblemed deity. The moment he was remembered,
+Visnu manifested himself.
+I. 'rhe claim that K&was originally an abode of Vi^^u and that
+Siva begged of him to give that place to himself as a permanent residence
+as a protection against Brahma-hatyd is a Vaifij^avite tilt in the NP. The
+assertion that liberation in sacred place is possible only if it is presided over
+by Visnu u a part of sectarian propaganda. It is also an explanation why
+a particular Tirtba at K&fi was called Kapila-mocana.
+
+
+Uttarabhdga 29.15-26
+1695
+
+## 15. O Brahmana, on seeing the omnipresent Visnu the
+
+Lord of the chiefs of the Devas, the bull-emblemed deity who
+had turned pale became humble and bent down his head.
+
+## 16. On seeing (Siva) the antagonist of Brahma, sick and
+
+frightened, Hari consoled him and spoke these words that made
+him satisfied.
+
+## 17. “Inasmuch as the head of Brahma had been cut
+
+off, O Sambhu, the omniscient one, you have committed a sin.
+Experience the fruit thereof for a short while.
+
+## 18. O beloved one, a Karman performed by one, whether
+
+auspicious or inauspicious will yield its fruit which one must,
+of necessity, experience. Even if hundreds of births are to be
+taken, a Karman does not perish without being experienced.
+
+## 19. What Can I do ? Where shall I go ? On seeing you
+
+miserable, O Sambhu, at the sight of your misery, my Pranas
+are agitated and dispirited.
+
+## 20. It is my opinion that even the most heinous of all
+
+great sins are not equal to Brahmana-slaughter.
+
+## 21. You are the preceptor of the whole world. You are
+
+the instructor in Dharma. But, overpowered by the sin of
+Brahmana-slaughter you are incapable of remaining quiet even
+for a moment.
+
+## 22. This extremely terrible Hatya (the sin of Brahmana-
+
+slaughter) emits fish odour; she is senile and sick; she has put
+out her tongue. O Lord of Devas 1 She is running after you
+to catch you.
+
+## 23. Hence you must not stay in any single place for a
+
+while. For the sake of your benefit you have to be wander¬
+ing (continuously) for twelve years, with the desire for the
+destruction of sins.
+24-25. You must wander for twelve years with the skull,
+begging for alms, washing your left hand in the holy rivers and
+tanks. Then, O Lord of the Devas you will become pure and
+be liberated from this sin.” O Brahmana, on being advised
+thus by Visnu, Siva went over all the places.
+
+## 26. In order to get rid of the skull he washed his left
+
+hand in every sacred water. Wandering thus for three years he
+reached the penance grove of Badarikaframa.
+
+
+ie96
+Ndrada Purdm
+
+## 27. O bestower of honour, for the sake of alms he stood
+
+at the threshold of Dharmaputra,^ the lord of the Devas and
+repeatedly said—‘‘Visnu, give me alms.”
+
+## 28. On seeing Siva stationed at the threshold, Lord
+
+Narayana said—“Take the alms”. After saying this he offered
+his right hand.
+
+## 29. On seeing Hari attempting to give the alms, O excel¬
+
+lent Brahmana, Siva struck his right hand with his trident.
+30-33. Through the three wounds inflicted by (the three
+points of) the trident, three streamlike jets came out. They
+were terrifying to the worlds. They had different colours; they
+were twelve Hastas high. One of the streams was of blood. It
+fell on the skull. The second, a milky stream, reached his face;
+the third, a stream of water came up to Siva in front of him,
+for the sake of saving Siva. Siva resorted to these three
+streams in accordance with the injunctions for the duration
+of three years. Becoming a little delighted, O Brahmana, he
+went to the holy centre of Kuruksetra. Having gone there, he
+became a pillar and fell down.
+
+## 34. In the holy centre of Brahma-hrada, he lay immersed
+
+in the waters of Brahmahrada. When a period of three years
+had elapsed he came out with half of his body wounded (?)
+
+## 35. He eulogised Visnu the Lord of the Devas, abiding
+
+in the cavity of the heart of everyone, for a long time. Then
+the Lord of the Universe who was pleased with him granted
+him the boon,
+36-38. “O Hara, after wandering over many holy centres
+go to Kasi.”
+Thereafter, he bowed down to Hari and circumambulating
+him wandered over many places. Making his pilgrimage duly
+he reached the city of Avimukta (Ka^i). After entering the
+limits of Avimukta, when Dhurja^i (Siva) observed, he did not
+see Brahmahatya following him. She was standing outside.
+Knowing that it was a holy centre belonging to Visnu and
+
+## 1. N&rayaqa was the son of Dharma and Murti.
+
+(Bh. P. I. 3.9, II. 7.6, Mbh. Santi 334.9-12).
+
+
+Uttarabh&ga 29.39-43
+1697
+destructive of sins he became satished in mind and enthusiasti¬
+cally eulogised Vi§nu, the Lord worthy of being saluted.
+
+## 39. “Be victorious, be victorious, O Lord of the universe
+
+O Lord Visnu, the storehouse of bliss of the entire universe,
+knowable only through the Vedas; O suppressor of demon
+Madhu, O Nrsimha, O yellow-robed one, O One riding on
+Oaruda, O Madhava, O primordial Lord.
+
+## 40. O liOrd of Rama, the lover of Vrajas, (cowherd’s
+
+colony), Lord of Radha, Lord of the Devas, the fulfiller
+of the desires of all, O Krsna, O foremost among the Devas, O
+ocean of kindness, O destroyer of anguish, O lotus-eyed, O
+Lord of the greatest beings.
+
+## 41. O Ornament of the family of Yadu, O resident of
+
+the milky ocean, O Sauri, O archer, O expert in the art of
+uplifting the mountain (Govardhana), O deity having a
+pair of the lotus-feet that destroy the sin of Kali age, O deity
+who bestow favour on those who eulogise thee, O Kurma
+(Divine Tortoise), O son of Kasyapa (Vamana).
+
+## 42. O Parasurama—the fire for the forest of wicked
+
+kings, O Buddha with a saffron cloth that cleaned off blood
+from all sacrifices, O Kalkin, O remover of the fear of worldly
+■existence, O deity governable by (i.e. under the influence
+of) the devotees, O cowherd, who lift up those who bow
+down to you, O Lord of sacred fame and name.
+
+## 43. O remover of the burden of the Earth, O Lord
+
+worthy of being worshipped by the enemies of Asuras, O Lord
+of Prakrti, O residential abode of the whole universe, O Rama, O
+Lord of the mobile and immobile beings shining with many
+attributes, O Lord who are beyond the three Gunas., O eternal
+one, O Lord worthy of being worshipped at the head of all,
+O Lord who protect the enemy of the annihilator Yama
+through your own people, O Lord with lotus-like feet, O
+beautiful Padmanabha, O lotus-palmed Lord, O Lord favour¬
+ite of the resident of the lotus (i.e. God Brahma), O Lord,
+worthy of being saluted by the destroyer of Kama and the Lord
+■of three worlds (.^)
+
+
+1698
+Ndrada Purd^
+
+## 44. O remover of sins, O Lord of the Raghus, O Lord of
+
+the Yadavas, one who are fond of Brahmanas, O greater than
+the greatest one, O Lord worthy of being worshipped by the
+immortal beings, O wielder of the ploughshare, O remover of
+sins, O Lord, worthy of being bowed to ; O Lord pervaded
+by the three Gunas, O cleverest one in the three worlds and
+three units of Time. ‘
+
+## 45. O Lord with the sole duty of destroying the hosts
+
+of demons, O sinless one, O Lord lying on Sesa, the king
+of serpents, O destroyer of Kaihsa, O Lord having the sun and
+the moon as eyes, O Lord of powerful activities, O Lord hav¬
+ing the lustre of fresh clouds, O Lord of the Goddess of
+Fortune.
+
+## 46. O sacrifice, O Lord maintaining sacrifice, O Lord
+
+who were bound with a rope by your mother, O Lord fond
+of fresh butter, O Lord of groups of cowherd lasses, O destroyer
+of demons Agha, Baka, Vrsa, Kesin and Putana, O destroyer
+of Trisiras, Bali and the ten-headed Ravana.
+
+## 47. O destroyer of Naraka and Mura, O Lord who cut
+
+off the hands of Bana, O Lord worthy of being worshipped by
+the enemy of the Tripuras, O friend of Sudaman, O Lord
+worthy of being served, O Lord whose lotus-like feet constitute
+a raft that takes one across the ocean of worldly existence, O
+Lord whose Aisvarya (Lordship and prowess) is manifest, O
+ancient one, O One whose arms are full.
+48-49, O Lord who can be attained only through the
+merits of many births, O Lord worthy of all auspicious things,
+knowable through the Vedas, O receptacle of Srutis (Vedas),
+O quiescent, pure, bestower of boons, I seek refuge in your
+excellent pair of feet; it destroys sins, protect me.
+
+## 50. There is none who can grant salvation to me
+
+other than the ancient Purusa. Be pleased with me with this
+request.*’ The Lord of the universe, who was thus eulogised
+with great devotion by Lord Sambhu, Visnu favourably
+disposed towards the devotees manifested himself suddenly.
+
+## 51. On seeing Hari, Hara fell on th^ ground like a staff.
+
+O leading Brahmana, he got up again and with palms joined in
+reverence he bowed down to him.
+
+
+Uttarahh&ga 29.52-63
+1699
+
+## 52. Visnu spoke to that leader of Bhutas (goblins) who-
+
+had bowed to him—“Choose a boon, I will give it to you. I am
+pleased with your eulogy.*'
+
+## 53. On hearing the words of the Lord, Bhuteia, Lord
+
+of the goblins who had been harassed by the evil of the slau¬
+ghter of a Brahmana spoke this to Hari who is the bestower of
+worldly pleasures and liberation.
+
+## 54. “O wielder of discus and iron club, I wish to stay
+
+in your holy centre since the ‘brahmana-slaughter’ is seea
+stationed outside the limits of your holy centre.
+
+## 55. O Garuda-bannered deity, be merciful to me by the
+
+gift of this holy centre. On my going out, the evil of Brahmana-
+slaughter will harass me again.
+
+## 56. Stationed in your holy centre, I will derive worship
+
+in all the three worlds.”
+After saying this to the Lord of the Devas the bull-bannered
+deity kept quiet.
+
+## 57. The lover of Laksmi, the daughter of the milk ocean,
+
+said “So be it” and accepted the proposal. O leading Brah¬
+mana, ever since then, this place is mentioned as the holy centre
+pertaining to Siva.
+58-59. But poets knew this as the ancient holy centre of
+Kclava. O excellent Brahmana, water (tears) gushed out of the
+eyes of Visnu overwhelmed with sympathy. Thereby the
+lake called Bindusaras originated. At the behest of Visnu,
+the bull-bannered Lord took his ablution there.
+
+## 60. No sooner did Hara take his holy dip therein, then
+
+the skull of Brahma fell down from his hand. That sacred
+lake became famous by the name of Kapalamocana.
+
+## 61. Bound by the emotional feelings of devotion of iSam-
+
+bhu, Visnu is stationed there by the name of Bindu-Madhava after
+giving his own abode to the Trident-bearing Lord.
+
+## 62. He was resorted to by the Sky-clad Siva; he had
+
+the lustre of ten thousand suns. In this manner, Brahma and
+other Devas residing in Heaven ever see him.
+
+## 63. O darling (husband), obstacles are put by the tri>
+
+dent-bearing Lord (in the lives of people) so that they will serve
+him. People who are overwhelmed by these obstacles will eulo¬
+gise Visnu and then worship l^iva.
+
+
+1700
+N&rada Purd^a
+64-65. All those people dwell here thinking “Lord is
+Siva: the city is Kasi. O Brahmana, by thinking about Siva,
+the devotees of Siva are free from perturbation. They go to
+Siva’s world devoid of old age and death. Good men endowed
+with many merits stay here free from ailments.
+66-67. O lover of Kali, those who partake of the leav¬
+ings of sacrifice become endowed with prosperity. O excellent
+Brahmana they do not extol ablution here nor Japa, nor the
+worship of the Devas nor charitable gifts. Excepting the aban¬
+doning of one’s physical body nothing else is praised. After
+courting death here a man certainly becomes contented and
+blessed.
+
+## 68. O Brahmana, such a city full of palaces, has been
+
+reached by us. It is conducive to the salvation of even those who
+indulge in worldly pleasures: what then of those who observe
+holy vows.
+
+## 69. May this maiden who had been formerly separated
+
+from her parents by that wicked Rak^a be left in the palace
+of the Lord ofKasi.
+70-72. This virgin who had been practising observances
+had been abducted by that Raksasa for sexual intercourse.
+Thus the power of this holy centre has been described, O excel¬
+lent Brahmana. All Karmans auspicious and inauspicious, of
+past, present and future, perpetrated knowingly or un¬
+knowingly do perish here. It is for the destruction of Karmans
+that this city was formerly built by (Visnu). Men who die
+therein never experience fierce and endless misery nor the
+tortures of Yama.
+
+
+Uttarabhdga 30.1-10
+1701
+
+## CHAPTER THIRTY
+
+The story of Kdffkild (Contd.)
+
+## Kdfthild said :
+
+
+## 1. On hearing these words based on (and approved by)
+
+Dharma of his wife, the ogress, the Brahmana and girl descend¬
+ed from the back of the ogress who had assumed the form
+of ashe-elephant.
+
+## 2. When the Brahmana got down, that ogress became
+
+once again a beautiful young woman with her face resembling
+the moon and with plump and protruding breasts.
+
+## 3. On reaching the splendid city of her own father, that
+
+virgin spoke to the city governor who had come there in
+the course of his duty of guarding the exterior limits of the
+city.
+
+## 4-7. O city Governor, go to my father the king Sudyumna
+
+and tell him that I Ratnavali alias Ratnasala* who had been
+abducted from his city, from my bed, have come back. O
+Brahmana, (you remember) that I had been abducted though
+I had been considered the jewel of the king Sudyumna. His
+daughter has come back alive and safe and sound. (You te]l
+him as though I say) *‘0 dear father, be consoled. Do not
+feel sorry on my account, O leading king, I have never been
+ravaged. I am like the pure water of the Gahga. I have brought
+about your fame (I have not marred your fame). I am the
+index of the good nature of my mother.**
+
+## 8. On hearing the words of the virgin, the city-governor
+
+who was well known as Abahu reached the presence of Sudyu¬
+mna in a hurry.
+
+## 9-10. He made obeisance and on being asked spoke to
+
+the king respectfully. **0 king, O bestower of honour, your
+daughter well known as Ratnavali, who had been lost has
+come back. She is accompanied by a Brahmana in the company
+of a woman. She was seen by me standing outside the city limits
+but could not be recognized.
+in the Text. It should have been rather Rataa-iSl&yah
+who was abducted from RatHo-iUA. She was sleeping in RatnattU. The
+Accusative is used for Ablative in the text, [vide v. 17 below]
+
+
+1702
+Nirada Pur&na
+
+## 11. Urged by her, O Lord, I have come to * report
+
+the matter to you. She says “I am unravaged. May my father
+Jcnow that I have come back.
+12-13a. O father no doubt need be entertained in respect
+to my good action.” On hearing these wonderful words of the
+city Governor, the king instantaneously set offalongwith his wife,
+ministers and the Brahmana priest.
+13b-14a After going out of the city the king saw his
+<laughter comfortably seated on the banks of the Gahga. She
+was as refulgent as the sun. She was accompanied by a Brah¬
+mana alongwith a woman.
+14b-15. She was bedecked in her natural dress though
+she was fond of ornaments. She had the lustre of unfading
+flowers. She was refulgent like molten gold. After seeing
+her from a distance, the king hurriedly went near her and
+embraced her.
+
+## 16. Over-joyed she too embraced her father and bowed
+
+down to him. Then she met her mother with great delight
+within her heart.
+17-18. Addressing her father, the king, the large-eyed girl
+spoke these words. “Surrounded by my female friends I was
+sleeping in the Hall of Jewels. O dear father, without washing
+my feet I lay with my head directed towards the north on the
+couch anxiously pondering over a possible alliance with a
+husband. I was abducted during the middle of the night.
+
+## 19. Taking me with him, the demon went to his city
+
+beyond the ocean on a mountain full of different kinds of jewels.
+I was confined in a cave.
+
+## 20. There he was thinking deeply within himself about
+
+the means of a marriage with me. This lady of beautiful eye¬
+brows and slender waist who stands here, is his wife.
+21-22. She is an ogress who has assumed a human form.
+She had been the wife of that demon. O King, using the Sakti
+of god Indra intelligently she caused the death of her own husband
+of ruthless actions, at the hands of the Brahmana. It was through
+the intercession of fate that even before me the Brahmaria had
+reached the mountain.
+23-24a. This ogress found that her husband was a
+defiler of virtue. Moreover, she became enamoured of the hand-
+
+
+Uttarabhdga 30.24b-34
+1703
+some features of the Brahmana. Urged by her own Karman)
+she entered into an agreement with the Brahmana, for wedded
+Jife (with him) and brought about the death of the Raksasa.
+24b-26. Thus, after having made the Brahmana her
+husband, she assumed the form of a she>elephant. The wealth
+.got in exchange of all the articles of the house was kept on
+her back alongwith the Brahmana and myself. O king, she
+has now come here to your mansion. O king, it was by this
+RaksasI that I had been saved from that demon. Hence,
+honour and worship her alongwith the Brahmana.
+
+## 27. With her permission give me in marriage to this
+
+Brahmana. I shared the same seat with him. Hence he has
+become my husband.
+
+## 28. “He alone shall be the husband of a woman,
+
+with whom she shares the same seat. No one else, so we
+hear in the Puranas and Agamas.
+
+## 29. 1 had occupied her back with delight alongwith
+
+this Brahmana. Hence, in my opinion he must be my husband,
+according to Dharma.
+
+## 30. Hence, dear father, console this lady and give me
+
+to the Brahmai^a in accordance with the injunctions in the
+Agamas and other scriptural texts. 1 do not wish to choose
+any other husband.”
+
+## 31. On hearing these words of his daughter, Sudyumna
+
+the king, consoled the ogress in the form of the lady of slender
+waist. He stood bowing down with humility.
+[Sudyumna requested : ]
+
+## 32. “This, my daughter, afraid of losing her merits
+
+(Dharma), has sought refuge in you alone. For that reason O
+chaste woman, your previous husband was killed by you.
+
+## 33. Hence, O gentle lady, she has become one subservient
+
+to you. This, my daughter wishes to have as her husband the
+same gentleman who had been made by you your husband.
+
+## 34. O Ogress, you have been requested by me by means
+
+of obeisances and gifts. O lady of beautiful eyes, give your
+consent to my daughter by extending your help to her.
+
+
+1704
+Ndrada Purdna
+
+## 35. At your instance, may ray daughter be even the
+
+hand-maid of the Brahmana. Eschew the feelings of rivalry
+common among co-wives and protect my daughter.
+
+## 36. There is no doubt about this that you are the
+
+mistress of myself, my daughter, my wife, my army, my people,
+my city and even the whole of my kingdom.
+37-38. She will always abide by your instructions.’* On
+hearing these words of Sudyumna, the ogress approved his
+statement with a pure conscience mentally (deciding to be)
+her co-wife. She spoke thus to the king who was ready to give
+her in marriage.
+
+## 39. “O excellent king, since you bowed to me with
+
+pure feelings, may this lady be the second wife of the
+Brahmana.
+
+## 40. In the bright half of the month of Phalguna,
+
+I must be worshipped in the temple by you alongwith all the
+citizens.
+
+## 41. Beginning with AstamI, the eighth day and ending
+
+with Caturdasi, the festivities must be conducted by means of
+songs and instrumental music alongwith actors and dancers.
+42-43a. Oblations of intoxicating beverages, meat, blood,
+etc. must be given in the course of worship. If you continue
+to do in this manner I shall always be the cause of your welfare.
+O leading king, keep your own words.”
+43b-44. On hearing these words of the ogress, Sud¬
+yumna, the king, accepted everything that had been proposed
+by that delighted lady. When it had been agreed to by the
+king, the ogress became satisfied.
+
+## 45. She lovingly spoke to the Brahmana *‘0 excellent
+
+Brahman.';, make this splendid princess also your wife in the
+manner laid down in the Grhya texts.
+46-47. I shall eschew jealousy and malice and be a
+sister to this large-eyed girl.” At the instance of the ogress, the
+Brahma];ia, married the daughter of the king who had been
+endowed with much wealth. Seated on the ogress who assumed
+the form of a she-elephant, he went to the city of Mahodaya
+(KanauJ) instantaneously.
+
+## 48. Then 1 heard thus—gentle lady, yow husband
+
+
+
+UttarabhAga 30.49-59
+1705
+has returned with plenty of wealth and jewels with two wives
+also in the bargain,”
+
+## 49. Thereupon, I was rebuked and cursed by the
+
+kinsmen, parents and friends with harsh and wounding
+words.
+
+## 50. “O lady greedy of money, how will you go to your
+
+husband who is endowed with fortune now, but who had
+been abandoned by you before since he was indigent and
+wretched ?
+
+## 51. O blessed lady, in case of woman the riches in¬
+
+herited from parents are fickle and unsteady. It is stated that
+the riches earned by her husband are permanent.
+
+## 52. He had once been rebuked by you with harsh
+
+words. How can you dare to speak to him now ? Your entry
+into his house is also difficult.
+
+## 53. Granting that you are able to go there, O woman
+
+of evil actions, sharing the bed with your husband can never be
+conducive to your happiness.
+
+## 54. If out of fear for the public censure your husband
+
+accepts you (once again), he will never have intercourse with
+you, because he is devoid of affection in the heart.
+
+## 55. There is nothing else in the world so miserable as
+
+the coming together of a man and wife who are mentally far
+apart. It is exceedingly agitating and crippling.”
+
+## 56. I heard these and many other similar words uttered
+
+by the kinsmen. On hearing these I became extremely grief-
+stricken. With tears filling the eyes, I kept my face bent
+down.
+57-58. I thought within myself thus :— “Formerly, I
+had been deluded by greediness. Hence neither the bangle of
+the hand nor the girdle round the waist nor the anklets round
+the legs were given up so that my husband could be satisfied.
+The husband is regarded in the world as the master of both
+wealth and life.
+
+## 59. That wealth has been taken away by me. What
+
+will be my future ? How can I go to his abode ? How shall 1
+speak to him again ?
+
+
+1706
+Narada PurUna
+60-62a. How can he who had been wickedly al^andoned
+by me believe me now.” Even as I was 4hinking thus in my
+perturbed mind, the palanquin surrounded by kinsmen arrived
+there. It was tender and elegant. It shone with an umbrella,
+resembling the moon in lustre. Deer skins were spread within
+it. Stout men bore it on their shoulders.
+62b-63. Those men came in and requested me again and
+again: “O splendid lady, you have been invited by your husband.
+Hasten there with glee and joy. Your husband has returned
+endowed with plenty of wealth and jewels as well as two
+other wives.
+
+## 64. O fair-faced lady, we had been sent by your husband
+
+immediately after his arrival, to fetch you who have been
+staying in the house of your parents.”
+
+## 65. O gentle lady, on noting that act of my husband I
+
+became ashamed. I did not say anything in reply to them. I
+remained silent.
+
+## 66. Thereafter I was urged and enlightened again and
+
+again by the kinsmen. “You have been called by your husband
+with due honour. Hence go back to him.
+
+## 67. O daughter, if the wife does not rejoin her husband
+
+when invited (to do so) she is born as a female crow for
+fifteen births.”
+
+## 68. They said thus and assuaged my grief. They took
+
+me hurriedly and made me sit in the palanquin with affection,
+they repeatedly said, ‘Go*.
+
+## 69. Thereafter those men placed the palanquin on their
+
+shoulders and started immediately with speed. They reached
+the city ofMahodaya where my husband was staying.
+
+## 70. That his house had been surrounded by gold (i.e.
+
+full of articles, pots etc. of gold) was seen by me. It
+was fully equipped with furniture, foodstuffs, riches and
+raiments.
+
+## 71. Then, O beautiful woman, that ogress and the
+
+gentle lady, the princess bowed to me with love and devotion.
+
+## 72. I was befittingly greeted and honoured with love
+
+by those two ladies. Respected, and so delighted with the
+Avords of my husband, I took my bath and maal.
+
+
+Uttarabh&ga 30.73-85
+1707
+
+## 73. Thereafter, soon after sunset my husband called me
+
+%
+and immediately clasped me within his arms. He made
+me sit on the couch and kept me within his embrace for a
+long time.
+
+## 74. Then he called the ogress and the princess and said ;
+
+■“Service to this lady’s feet should be rendered by both of you
+with due devotion.
+
+## 75. She had been my wife previously. Hence she is
+
+certainly the eldest and senior-most to both of you.” Then at
+the instance of our husband, my feet were touched by those two
+ladies.
+
+## 76. O lady of beautiful eyes, they eschewed (completely)
+
+the jealousy and malice originating from the feeling that I am
+a cowife. Then, my husband called the servants and spoke those
+words.
+77-78. “O servants, whatever wealth had been acquired
+by me at the outset from the possessions of the Raksasa, what¬
+ever had been received by me when I wedded the daughter of
+the king, bring these things respectfully. Do not delay. This
+lady is the mistress of everything of those riches.”
+79-81. O splendid lady, at his words the wealth was
+immediately brought by the servants. My husband offered the
+entire wealth to me with love and mind untarnished by decep¬
+tion. He honoured me with ornaments and garments, even as
+the two ladies, the ogress and the princess were looking on.
+
+## 82. O splendid lady, he kissed my lips and embraced me
+
+as I was seated on the couch. On seeing this wonderful dedi¬
+cation of his self and wealth unto me by my husband, (and on
+hearing) his words that thrilled me and (feeling excited) be¬
+cause his hands pressed my breasts, I fell down dead like a cow
+struck down by a sword. My vital breaths left me.
+
+## 83. Then 1 attained the torture in the hell assigned to me
+
+by Yama. O splendid lady, after covering that period I experi¬
+enced anguish and misery and was born as a Ka^lhlla.
+84-85. I shall have to be born in the animal kingdom
+thousands of times. O splendid-faced lady, the woman who does
+not dedicate her wealth and life to her husband will undoubtedly
+attain this state. By understanding this, one should save the
+wealth and life of one’s husband.
+
+
+1708
+N&rada Purdna
+
+## 86. Husband is both father and mother, wealth and life,
+
+preceptor and salvation.
+
+## 87. With a gfreat deal of merits the woman goes to the
+
+region of Visnu alongwith her husband if her body is cremated
+alongwith him. But a woman greedy of wealth and of her
+body (?) attains Yama’s torture and the affliction of being bom
+in base wombs in lower species.
+
+## CHAPTER THIRTYONE
+
+The Glory of the month of Mdgha
+
+## Vasiffhasaid :
+
+
+## 1-4. On hearing the words of that Kasthlla, the lady of
+
+pure smiles named Sandhyavali became extremely surprised
+and addressed her with respect. “O Kasthila, by your words
+I am much surprised now. Why at all did I happen to see
+you attaining the base mode of existence ? By what Karman
+can your liberation be effected from this base birth ? O, one
+of large limbs, please tell this to me. On seeing you I have
+become miserable. O excellent one, pity is roused in my heart,
+on seeing your body resembling a lump of meat that is smooth
+and comparable to a lump of butter.
+
+## Kdsthildsaid :
+
+
+## 5. O lady of charming eyebrows, even if you arc going
+
+to give the entire earth for my sake, I cannot all of a sudden
+extricate myself from this base birth.
+
+## 6. O blessed lady, listen, I shall point out that holy rite
+
+(from which accrues merit) that bestows the great goal,
+whereby I can liberate myself from the bondage of Karmas.
+
+## 7. What is called the month of Magha is remembered
+
+as the most excellent of all months. In it, Br&hma^i-slaughter
+
+
+UUarabhdga 31.8-18
+1709
+and other sins cry out in distress (as they arc annihilated
+therein).
+
+## 8. Rare indeed is the month of Magha; rare indeed is
+
+the human birth; rare indeed is the ablution early in
+the morning and rare indeed is the opportunity to serve
+KfS^.
+
+## 9-12. Rare still is the day of Visnu (ie. the Ekada^I
+
+Tithi) that is duly observed as the day of fast. Their own
+splendour has been cast off into the water by gods during the
+month of Magha. Here water is very particularly sacred
+during this month. The goal that is obtained by persons
+who maintain regular observances by means of bathing
+into the water early in the morning, is the bestower of happi¬
+ness, and is never attained by even heroic warriors (after death)
+in the battle. If one takes one’s bath in the waters of rivers,
+lakes or tanks it is called the most excellent. If the bath is
+taken in the well water kept in a vessel, it is of mediocre bene¬
+fit. If water that is warmed in fire is taken for bath, it is of
+the least benefit. Merit cannot be attained through pleasures.
+It is obtained only through distress and exertion.
+
+## 13. Bath is taken for the purpose of observing holy and
+
+virtuous rites and not merely for the sake of purity and
+cleanliness of the limbs. Fire is resorted to for the purpose
+of performing Homas and not for removing chillness,
+
+## 14. Bath should be taken before the sunrise. If the sky
+
+is overcast with clouds, one should pray and request the sun
+who is going to rise.
+
+## 15. If rivers etc. are not available, water should be kept
+
+over-night in a fresh mud-pot. Wind must blow over it during
+the night. People know such water to be equal to the Gahga
+for the purpose of holy ablution.
+
+## 16. O fair lady, a person who regularly takes bath in
+
+the month of M%ha, never sees misery and misfortune. There
+exists no such sin as cannot be wiped off by the holy bath
+during the month of Magha.
+17-18. Taking the holy dip into water in the morning
+during the month of Magha is better than entering fire (?)
+Misery is experienced if one survives (after entering fire) but
+
+
+1710
+Ndrada Vurdxia
+if one dies one enjoys happiness. For this reason, O ggntle lady
+the bath during the month of Magha is of special significance
+Everyday gingelly seeds along (or coated ?) with sugar must
+be given as charitable gifts.
+
+## 19. O lady of slender waist, Homa should be performed
+
+with cooked rice as white as hail or with barley grains foil wed
+by the oblation of cow’s ghee on the full-moon day in the
+month of Magha.
+
+## 20. At the end of the holy observance of (pre-sunrise)
+
+bath in the month of Magha one shall give food consisting
+of the six tastes (such as sweet, sour and others) and say “May
+the lord, the sun-god be pleased with me—Lord sun who is
+unsullied and the embodiment of Visnu.
+
+## 21. To a Brahmana couple, clothes should be given
+
+along with seven kinds of food. Thirty sweet-meats too must be
+given as well as gingelly seeds and cooked rice along with sugar.
+
+## 22. The gingelly seeds and sugar must be in the ratio of
+
+three to one. The devotee who knows the procedure must give
+Tambula (betel leaves) and other sources of enjoyment with
+devotion.
+
+## 23. One should face the current when one bathes in a
+
+river, if it be in any other place (tank etc.), one should face the
+sun. There he must invoke Gaiiga and other holy rivers from
+the disc of the sun (and then take bath).
+24-25. “There are thousands of sins originating in the
+course of many births, some knowingly committed, some un¬
+knowingly committed. But may all those be dispelled by your
+brilliance, O sun, O Lord of the worlds, O Prabhakara (cause of
+lustre), obeisance be to you. O Acyuta, make my (observance
+of) holy dip in the month of Magha well accomplished and
+complete.”
+
+## 26. O fair lady, the devotee who takes bath in the holy
+
+centres gets lesser benefit than the devotee who takes holy dip
+in the month of Magha. One may go to heaven by means
+of baths in the holy centres. One goes to the highest region
+(Moksa) through the bath in the month of Magha.
+
+## 27. The eleventh day in the bright half of the month of
+
+Magha is the destroyer of great sins, if it coincides with a
+Sunday.
+
+
+Uttarabhdga 31.28-41
+1711
+28-36. Even without the conjunction of the constellation
+Pleiades, the eleventh day in the bright half of Magha burns
+the sins of men in the same manner as a base king spoils the
+kingdom, or as a bad son the family, or as a vicious wife the
+husband, or as sin the virtue, or as the wicked minister ruins
+the king, or as ignorance disp>els (i.e. vitiates) knowledge, or as
+complete uncleanliness mars purity, or as untruth dispels truth,
+or as a controversy spoils a conversation or as heat dispels snow
+or as misfortune spoils fortune, or as a sin mars fame or arro¬
+gance vitiates austerity. Just as Rasas (medicinal potions)
+destroy great ailments, just as l§ahkara (fixing of rendezvous)
+spoils sraddha (?), so also the Dvadasi, if properly observed,
+destroys heaps of sins. The day of Hari (Ekadasi) quickly
+destroys the great sins such as Brahmana-slaughter, imbib¬
+ing of liquor, stealing, and outraging the modesty of the
+preceptor’s wife. The collections of these sins are not quelled by
+bath in Puskara. Neither the holy centre of the Naimisa
+forest nor Kuruksetra nor Prabhasa, Gaya, Reva, Sarasvatl,
+Gahga, Yamuna, Prayaga nor the river Devika nor the
+lakes nor rivers nor Homas, gifts and austerities (can dispel
+these sins). Excepting the only (auspicious) day of Hari i.e.
+Ekadasi no other day can destroy the multitude of sins; no
+other merit is clearly mentioned in the Purana O lady of
+charming eyebrows, for the purpose of destroying aggregates of
+sins.
+37-40. O gentle lady, by observing fast even for once,
+heaps of sins do perish. On one side of the balance the gift
+of the whole Earth and on another side the day of Hari, it is
+declared by Brahma that they are not equal. The day of Hari is
+superior. On that day, the devotee should make a gold image
+of the Lord in the form of a Boar. An auspicious new copper
+vessel shall be kept over a jar. Into that vessel the image of
+the lord should be placed, so also all the seeds. It must be
+covered with a white cloth. Gold pieces, bright lamp etc.
+should be placed, and the vessel be decorated with flowers. The
+observer of the holy rite should worship the Lord in accordance
+with the injunctions and keep himself awake.
+
+## 41. In the morning, the devotee should gift away the
+
+jar alongwith the Boar image and all the things within it and
+
+
+1712 }{Q.rada Purina
+also the Naivedyas and other ancillary articles to a Sr^mana
+householder who is a devotee of Visnu.
+
+## 42. After feeding Brahmanas, he should break his fast
+
+surrounded by his friends. O fair lady, if this observance is
+performed, he is never born again anywhere.
+
+## 43. The sin accumulated in the course of many births
+
+whether knowingly or unknowingly committed, is wholly
+destroyed like the darkness at sunrise.
+
+## 44. O splendid lady, the holy rite of Ekadali has been
+
+recounted to you by me in accordance with the (description
+of the same in the) scriptural texts. O gentle lady, this is the
+same as had been performed formerly by you in the course of
+another birth.
+45-46. As a result of this holy rite, you have derived
+incomparable nourishment. It will be enhanced further later
+on. It is the bestower of happiness on your husband and son
+always. If, out of that merit a fourth part is willingly and
+respectfully given to me, I will become delighted and will go to
+the greatest region of Visnu.
+
+## 47. O beautiful woman, I had incurred a sin due to the
+
+denial and concealment of the wealth. In order to sanctify it
+(i.e. in order to dispel it and sanctify me) kindly give me one
+fourth part of your merit as I just now requested for.
+
+## 48. The woman who deceives her husband with regard to
+
+the life or wealth undergoes hundred births in the wombs of
+germs and is reborn ultimately as a Pulkasi (Candala woman).
+
+## 49. O honourable lady, the woman of perverted mind who
+
+does not yield herself up for sexual intercourse when the hus¬
+band requests for the same or does not give him wealth (when he
+needs it) certainly is reborn as Kasthila (a worm ?).
+
+## 50. If you have any mercy on me, give me a fourth part
+
+of y'our merit accruing from the observance of the holy rite of
+Ekadasi for the purpose of dispelling the sin, which I had
+incurred.
+
+## 51. O lady of good eyes, on hearing the words of that
+
+Kasthila, I took water in my hand and gave the (required)
+merit to her.
+
+## 52. “By one-fourth of the merit accrued to me former¬
+
+ly by observing a fast on the Ekadasi day, may this Kasthila be
+
+
+Uttarabh(lgM^\.b2h—32.1 1713
+liberated from the sins committed by her in the previous birth.
+What I have averred is truth and nothing but the truth.”
+53b-54a. When those words were uttered by me, she was
+seen going to the region of Visnu seated in a divine aerial
+chariot. Her lustre was like that of lightning.
+54b-55. The husband is a deity in the visible world. He
+should not be deceived by the wife either through her body or
+through her wealth, if she wishes for splendid existence (in the
+next birth). Hence, you speak out. I shall give you what is
+desired by you for the sake of our husband.
+56-57. O fair-faced lady, I shall give up wealth, body,
+my own son or anything else (if you desire it). Who else
+is a deity unto the women in this world except her own husband ?
+O lady of beautiful eyes, the woman who sacrifices her wealth
+or life for his sake, is honoured in the world of Visnu for the
+duration of a hundred crores of Kalpas and more.
+
+## 58. The wife of the Brahmai^ saw her husband, who
+
+had wooed her with fire etc. as witness, indulging in terrible
+vices. So she became ruthless. Although she was requested, she
+did not give him wealth, as a result of that sin she became
+a worm.
+
+## 59. During my girlhood days this flag-staff of Kama was
+
+seen by me when I was at my father’s place. After knowing
+that it is beneficial to the husband, I give up everything. O lady
+of beautiful eyebrows, take it.
+
+## CHAPTER THIRTYTWO
+
+The Narration by Sandhydvali
+
+## Vasiffha continued :
+
+
+## 1. On hearing the words of Sandhyavali, Mohini the
+
+daughter of Brahma who was Mohakararw^M (a box of delu¬
+sion ?) said thus, as she was interested in her own mission.
+
+
+1714
+J^arada Purdna
+
+## 2-3. “O splendid lady, if thus you know the ways of
+
+Dharma and Adharma, and if for the sake of your husband you
+will readily give up your wealth and life, I beg of you then, O
+splendid lady, a wealth that is superior to life. Give me the head
+of your son which is liked by you more than the heart.
+
+## 4-8a. If your husband, the king does not take food on the
+
+day of Hari (Ekadasi), may he take the sword in his hand and
+cut off the beautiful head of Dharmahgada, which is splendid,
+which is comparable to the disc of the moon, which is decorated
+with two ear-rings and in which the moustache has not yet
+grown. O lady of beautiful eyes, may he cut it off and let it
+fall on to my lap. If he does not take food, O gentle lady, at
+least do this on the day of lord Visnu, that is destructive of
+heaps of sins.”
+On hearing these words of Mohini couched in bitter
+words, (Sandhyavall) the gentle lady shivered for a short
+while like the plantain tree blasted by chillness.
+8b-14. Thereafter, Sandhyavall, the fair-complexioned lady
+mustered courage and composure and spoke these words to
+Mohini, smilingly and preserving gentle expression on the face,
+—“O lady of beautiful eyebrows, these verses are heard mentioned
+in the Puranas. They are connected with Ekadasi. They are the
+bestowers of heavenly bliss and salvation. (They are as follows :)
+“One should abandon wealth, one should eschew one’s wife, life
+and house. One should abandon one’s land, king, heaven,
+friends, and preceptor. One may leave off the holy centre,
+Dharma and whatever one is most fond of. One shall eschew
+Yoga, charitable gifts, perfect knowledge and holy rites. One
+should leave off austerities, Vidya (learning), Siddhi (achieve¬
+ment of supernatural powers) and even salvation, O splendid
+lady. But one shall not leave off the holy Ekadasi rite in both
+fortnights. Sons, brothers, friends and beloved ones, all are but
+persons with whom we come in contact only here (in this world).
+But Ekadasi is remembered, O gentle lady, as the means of
+achievement of pleasures both here and hereafter (in this
+world and the other world). Thanks to the power of Ekadasi,
+everything will become beneficent.
+
+## 15. O blessed lady, I shall make him give you the head
+
+
+
+Uttarabh&ga 32.16-24
+
+## 171S
+
+of Dharmaflgada for your satisfaction. O splendid lady, believe
+in my statement and be happy.
+
+## 16. In this matter, O gentle lady, this traditional mytho¬
+
+logical story is heard. I shall tell you, O gentle lady, listen with
+attention.
+
+## 17. Formerly, there was a Daitya devoted to virtuous
+
+activities. (His name was) Virocana.^ His wife, a lady of large
+eyes, was interested in the worship of Brahmanas.
+
+## 18. O lady of beautiful eye-brows, every day in the
+
+morning, she used to worship a sage in accordance with the in¬
+junctions. With great devotion and a delighted mind, she used to
+drink the water with which his feet had been washed.
+19-21. (Defective) The Devas became apprehensive of
+the son of Prahlada (i.e. Virocana) in the same manner as they
+were, while Hiranyakasipu of fierce valour was ruling over the
+kingdom. Even when he was dead, they moved about on the
+Earth with great anxiety when the son of Prahlada (i.e. Virocana)
+was himselfdelighted. Once those Devas the chief of whom was
+Indra, consulted Brhaspati, the preceptor of the Devas
+and said ; “We arc oppressed by the enemies. What is it that
+should be done by us ?” On hearing those words of the
+
+## Devas, the preceptor Brhaspati said :
+
+22-23. “Visnu must be respectfully informed by the
+Devas (gods) who have become miserable.” On hearing
+the utterance of their preceptor, the Devas of unmeasured splen¬
+dour went to Vaikuntha for securing the death of Virocana.
+After going there, they eulogised Visnu, the most excellent of
+all Devas, by reciting hymns.
+
+## The Devas said :
+
+
+## 24. Obeisance to the overlord of the Devas, to Visnu of
+
+unmeasured splendour. Repeated salutes to the destroyer of
+obstacles of devotees, to Vaikuntha (Visnu).
+
+## 1. Virocana was Bali’s father. As such he preceded Visnu’s incarna¬
+
+tion as VSmana. Strictly speaking, reference to V’isnu calling him by his
+future incarnation as Paras'urama, Kffpa, Buddha etc. is anachronic. But
+the Purina-writers have not developed that sense. To the author of the NP.^
+Visrtu is Para-Brahman. Hence addressing him as Siva, the universe, Kala
+etc., is natural (vide VV. 30-40 below).
+
+
+1716
+Ndrada Purdna
+
+## 25. Obeisance to Hari, the miraculous lion. H&il to the
+
+noble-^uled V^ana. Bow to the deity of the form of a Boar.
+Obeisance to the Divine Fire, the resident of the ocean (at the
+time) of dissolution of the universe.
+
+## 26. Obeisance to the Tortoise, the upholder of the Man-
+
+dara mountain. Kail to Bhargva; obeisance to the deity lying
+in the ocean; Bow to Rama the lord of all; obeisance to the
+lord of the universe, the cosmic witness.
+
+## 27. Obeisance to Dattatreya, the pure one; obeisance to
+
+Kapila, the remover of distress; Bow to the sacrifice the upholder
+■of Dharma; obeisance to the deity of the form of Sanaka and
+others.
+
+## 28. Hail to the deity who granted boons to Dhruva;
+
+to Prthu of plenty of activities; to Rsabhathe pure one; obei¬
+sance to the Atman bearing horse’s head.
+
+## 29. Bow to Hamsa (the swan), the embodiment of Agama,
+
+to the deity holding the vessel of nectar; obeisance to Krsna, to
+Vasudeva, to the deity who assumes the form of Saihkarsana.
+
+## 30. Obeisance to Pradyumna, to Aniruddha, to Brahma,
+
+Sankara, to Kumara, to Gane^a, to Nandin, to Bhrngin.
+
+## 31. Obeisance to the deity staying on the mountain
+
+Gandhamadana, obeisance to Nara and Narayana. Bow to the
+lord of the universe; obeisance to R^esvara.
+
+## 32. Hail to the resident of Dvaraka; obeisance to the
+
+resident of Tulasi grove. Obeisance to the deity having the
+lotus in umbilicus. Bow to you the lotus-footed.
+
+## 33. Obeisance to the Lotus-handed deity; obeisance to
+
+you, the Lotus-eyed one. Hail to the protector of Kamaia
+(Lak§mi). Repeated obeisance to Ke^ava.
+
+## 34. Bow to the deity having the form of the Sun; obeis¬
+
+ance to the deity assuming the form of the moon; obeisance to
+the deity having the form of the guardians of the worlds (quar¬
+ters). Hail to the deity assuming the form of Prajapati.
+
+## 35. Obeisance to the deity of the form of the groups of
+
+■elements (or mass of living beings); obeisance to the splendour
+in the form of the Jiva (individual soul); obeisance to the Vic¬
+tory, to the victorious, to the leader, to the dei^ in the form of
+observances and holy rites.
+
+
+Uttarabhdga 32.36-45a
+1717
+
+## 36. Obeisance to the deity devoid of attributes, to the
+
+deity without desires, to the deity the knower of ethics, to the
+Atman devoid of motion, to Buddha, to the deity of the form of
+Kalki, to Ksetrajha; obeisance to the imperishable.
+
+## 37. Obeisance to Govinda; to the lord of the universe,
+
+to the infinite one, to the primordial one; obeisance to the deity
+having the bow l^arnga; to the deity wieldii^ the conch and the
+iron club. Bow to the deity holding the discus.
+
+## 38. Hail to the deity having the sword; obeisance to the
+
+Trident-bearing deity: obeisance to the deity striking with all
+weap)ons and missiles; Bow to the deity worthy of being a refuge;
+obeisance to the transcendental deity. Bow to the great Atman.
+
+## 39. Obeisance to Kpsikesa; to the deity identical with the
+
+universe; obeisance to you of the form of the universe. Hail to
+the deity having the Time as his umbilicus; salute to Kala
+(Gk)d of Death, Time). Bow to the deity having the moon and
+the sun for his eyes; obeisance to the perfect one; obeisance to
+the deity worthy of being served. Hail to the deity who is
+greater than the greatest.
+
+## 40. Obeisance to the maker of the universe, to the uphol¬
+
+der of the universe, and to the annihilator of the universe; obeis¬
+ance to one who fascinates, to one who agitates, to one who assu¬
+mes the form as he desires; obeisance to the unborn, to the poet
+(the wise one).
+
+## 41. O lord, on being oppressed by the Daityas, we have
+
+sought refuge in you. Hence, O supporter of everything, do that
+whereby we may be happy.
+
+## 42a. May we sport about accompanied by our sons,
+
+friends, wives and others.”
+
+## 42b.-45a. On hearing their hymn of praise, Vaikuntha
+
+(god Vi^nu) was delighted in his mind. He granted personal
+vision to those Devas who were distressed and harassed by the
+Daityas. On seeing Vaikuntha (God Vis^u), the lord of the
+chiefs of the Devas very affectionate at heart, they respectfully
+prayed to him for the destruction <»f Virocana. On hearing the
+main task of those Devas the chief of wbnm was Indra, the
+lord who is the foremost among those who know their duties,
+consoled the Devas with Love and let them off fully delighted and
+joyous.
+
+
+1718
+Ndrada Purina
+
+## 45.B-48. When the groups of the Devas had gone, the
+
+lord who is the foremost among the knowers of all expedients,
+assumed the form of an old Brahmana and went to the abode of
+Virocana. He, the achiever of the missions, reached the place at
+the time of the worship of the Brahmanas. On seeing him,
+VisalaksI (a lady of large eyes) became delighted in her mind.
+After greeting and honouring the extra-ordinary Brahmana
+with devotion, she gave him the seat. Without accepting the seat
+given by her, he told her :— “O splendid and gentle lady, I am
+not accepting the great seat offered by you.
+49-50.A Listen. The mission for which I have come here
+is incomparable. O woman of honour, he who understands the
+task kept in my mind must agree to its fulfilment. Then, O
+fairfaced lady, I will accept his wor hip.”
+
+## 50.B-51.A On hearing the words of the old Brahmana the
+
+lady (though) an expert in understanding the deep significance
+of expressions, was deluded by the Maya of Visnu, as she was a
+woman. She spoke with great delight.
+Viidldkfi said
+51-55. A “O Brahmana, I shall give you whatever may
+be in your mind. Take it from me. Here is the seat. Here is
+the water for washing the feet. Give unto me the desired object
+(viz. the water where-with you wash the feet)”. On being
+requested thus, the Brahmana said, “I do not believe in the
+words of a woman. If your husband says it I can believe.”
+On hearing the words spoken by the Brahmana, the mist¬
+ress of the abode of Virocana invited her husband there itself,
+in the presence of the Brahmana.
+At the instance of the messenger, the delighted son of
+Prahlada came to the harem where his wife VisalaksI was
+present.
+
+## 55.B-57.A On seeing her husband arrived, the lady
+
+engaged in holy rites got up, bowed to the leading Brahmana
+and offered the seat. When he did not accept the seat offered
+respectfully, she informed her husband, the king of the
+Daityas.
+57B-61.A. On coming to know of the incident, Virocana,
+the king of Daityas, was swayed by his love for his"^ wife. With
+
+
+Uttarabhdga 32.61-68
+1719
+mind deluded, he accepted the (proposal of the Brahmana).
+After understanding the mental idea when the Daitya accepted
+the suggestion, the Brahmana became delighted and said,
+Offier me your age and longevity”. Then the couple became
+deluded due to the grief caused by themselves. After medita-
+ing for a short while and joining the hands together, they spoke
+to the Brahmana, “O Brahmana, accept our life. Give us the
+water from your feet. We shall make your utterance true. Be
+delighted”.
+
+## 61.63 A. Janardana who was delighted by their devotion,
+
+gave her the water from his feet. Visalaksi became joyous by
+washing the feet of the Brahmana. Along with her husband, she
+sprinkled water with which his feet were washed, over her
+head.
+
+## 63.B. 65. O lady of beautiful eyebrows, the couple
+
+thereupon suddenly assumed divine forms, climbed into the
+excellent aerial chariot and went to the region of Visnu.i There¬
+after, the lord became delighted by uprooting the cause of grief
+to the Devas. He went to his abode in Vaikuntha. He was
+eulogised by all the groups of Devas. Thus, O gentle ledy,
+what has been promised to you must be given to you by me.
+66, O gentle lady, I will not make my husband
+Rukmahgada move away from truth. It is truth alone that has
+been glorified as the bestower of salvation on men.
+67-68. They know that the man who has fallen off from
+truth is baser than a Candala”. After speaking thus to MohinI,
+the daughter of the lotus-born deity (Brahma), Sandhyavali as
+refulgent as gold, and having beautiful eyebrows touched the
+feet of her husband with both of her hands, the feet that were
+copper-coloured with red toes.
+
+## 1. The account of the deatli of Virocaua given here—the self-sacrifice
+
+of Virocana and queen Vi^lak$i—is not complimentary to Vi^i^u. In the
+Mbh. Sinti. 98. 49-50, he was killed by Indra in the battle with demon
+Tiraka. This second version of Virocana's death is supported by Mt. P.,
+Pd. P. and Brahm5i[»d<t P«
+
+
+1720
+Ndtada Pur&na
+
+## CHAPTER THIRTYTHREE
+
+The Submission of Dharmdngada
+
+## Vasiffha said :
+
+
+## 1. Thereafter, O king, Sandhyavali clasped the feet of her
+
+husband. The gentle lady spoke these words about the (immi¬
+nent) death of Dharmahgada (at his hands).
+
+## Sandhy&vali said :
+
+
+## 2. “O king, just as by you, so also by me, this lady has
+
+been advised in many ways. But nothing else appeals to Mohini,
+the very embodiment of delusion.
+
+## 3. She wants you to take food on the day of Visnu or to
+
+kill your son. O lord striking the son down is better than
+violating the holy observance.
+
+## 4. O king, the affliction of the father is not as severe as
+
+that of the mother in giving birth to the son.
+
+## 5. Since the mother undergoes misery in holding the
+
+son in her womb, O king, her affection is excessive. O king, the
+affection of the father cannot be as much as that of the
+mother.
+
+## 6. In the world, O leading king, the father is said to be
+
+the person who sows the seed, the mother is the porson who
+holds it within her womb. In protecting and nourishing the
+child, the mother is sujDerior to the father.
+
+## 7. The affection of the mother is hundred times more than
+
+that of the father. It is in view of this abundance of love and
+affection that they recognise that the mother is greater.
+
+## 8. In spite of that, I have become devoid of affection to¬
+
+wards the son, O leading king, because of my desire to win the
+other world through the maintenance of the truth of the words
+uttered.
+
+## 9. Eschewing all your affectionate feelings O king, kill your
+
+son. Do not transgress the truthfulness of the words uttered. On
+my very soul, you are bound by an oath.
+10-14. Hr^ikeSa will be the bestower of fruits (after test¬
+ing persons) on touch-stones (of holy rites), if, after observing
+them, O kin^, no pain is felt in the body. There is no doubt about
+
+
+Uttarabhiga 33.15-23
+1721
+this that it is through Adharma that a man falls off from
+heaven. The man who takes off his life or that of his son or sacri¬
+fices his possessions O king, and follows fate, is sung about
+as a great man. O king, blessed are those adversities which make
+men truthful. In viewof their purpose of keeping up truthfulness,
+they may be the bestowers of salvation on men. In order to
+spread and guard their fame, holy rites must always be perform¬
+ed by men in the manner mentioned in the scriptures, with¬
+out being swayed either by love or by hatred. Hence, O king,
+enough of your distress and anguish. Keep up the truth.
+
+## 15. O king, by keeping up the truth, a man becomes
+
+united with Visnu’s person. This Mohini (enchantress) is a
+touchstone created by the Devas for you.
+
+## 16. O king, I consider that she has been made your wife
+
+(for this purpose), but you do not understand that. By your act
+of killing your son, the Devas will hang down their heads (in
+shame).
+
+## 17. Placing your foot on their heads, you will attain the
+
+highest region. The Devas are the antagonists of those who have
+devotion towards Visnu.
+18-19. What has been made clear is that there will be
+blindness in the world. O king, the Devas along with the deities
+are antagonistic to you. With their activities, they break (obs¬
+truct) your path towards salvation. They cause you to drop
+down your resolve. Hence, O king, be steady and firm. Kill
+your dear son.
+20-21. Garry out the directions of Mohini by way of keep¬
+ing up your own vow. O lord of kings, if the directives are un¬
+heeded, you will incur a terrible sin equal to that of Brahmaria-
+slaughter. O ruler of the earth, you will be going to the world
+of Samana (i.e. Yama) and there will be damage to your
+reputation on the earth.”
+
+## Vasiftha said :
+
+
+## 22. O king, on hearing the words of his wife, the king
+
+Rukm^gada spoke those words to Sandhyavali in the presence
+of Mohini :—
+
+## 23. “O beloved wife, the slaughter of one’s own son is
+
+an exceedingly sinful act. It is worse than Br&hma^a-
+
+
+1722
+Ndrada Purina
+slaughter. What will be my future destiny in the worlci after
+killing my own son ?
+
+## 24. Wherefore did I go to the Mandara mountain ?
+
+Wherefore did I meet with Mohini ? O gentle lady, this is verit¬
+able Kala or god of death in the form of the beloved (Mohini),
+for the destruction of Dharmangada.
+
+## 25. What will be my future state by killing my son who is
+
+conversant with Dharma, who is endowed with humility, who
+reconciles and delights the people and who has no issue of
+his own ?
+26-31. O gentle lady, the father incurs great misery
+even by killing a vicious son. What then if he happens to be by
+nature righteous and rendering regular service to his elders ? O
+fair-complexioned lady, this continent of Jambudvipa alone is
+enjoyed by jne. But all the seven continents are being enjoyed
+by your son now. O fair lady, he is a part of Visnu. He will
+surely be superior to his father. O fair lady, this son of mine,
+Dharmangada who has been highly extolled in Puranas by poets
+(O wise sages) is superior to all on this earth.
+O lady of charming limbs, he is the bestower of honour on
+my family as well as on me. Alas ! In this matter I am faced
+with a greater misery than even my son. O fair lady, with your
+auspicious utterances speak again to Mohini who is deluded and
+so who gives me much grief”
+
+## 32. After saying thus to his beloved wife Sandhyavali,
+
+the king came near Mohini and spoke this :—
+33-34. “O splendid lady, I will not take food on the day
+of Visnu nor will I injure my son in any way. I would rather
+tear up my own self or the gentle lady Sandhyavali. At your
+behest, I may even do any other terrible deed. But, O lady of
+charming eyebrows, leave off your stubbornness in regard to my
+son.
+
+## 35. What benefit will you attain by killing my son Dhar¬
+
+mangada ? What do you gain by compelling me to take food on
+the day of Visnu ? Tell me.
+
+## 36. O fair-faced lady, I am your servant. I am your
+
+slave. I am subservient to you. O blessed lady request for
+some other boon, I submit to you.
+37-40. O lady of beautiful limbs, your feet are equal
+
+
+UUarabh&ga 33.41-48
+1723
+to the red ASoka flowers. I am absolutely obedient to you. I
+shall carry out some other purpose of yours.
+I am subservient to you. O genth lady, be pleased with me.
+Give me the alms in the form ofmv own son’s life. A virtuous
+son is very rare to be obtained. TliC day of Hari (Ekadasi) is
+a rare day of holy rites. Rare indeed is the water of
+Gahga. Rare is a beloved mother on the Earth. Rare is the
+birth in a noble family. Rare is the beloved wife bprn of a good
+family. Rare is the charitable gift of gold. Rare is the facility
+(o worship Hari. Rare is the initiation pertaining to Visnu.
+Rare is the collection of Smrti texts ?
+41*45A. Rare is the residence in the holy centre ofSauk-
+ara.* Rare is the opportunity to meditate on Hari; rare is the
+holy rite of keeping awake on the day of Visnu; rare Is the
+purification of the self (or getting honour to oneself); rare is
+the attainment of the birth of a son; rare is the holy water of
+Puskara; rare is the contact with virtuous eminent people; de¬
+votion is said to be rare; rare is the charitable gift of a Kapila
+(tawny) cow; rare is the (facility to) set a blue (calf) free. O
+fair-faced lady, rare is the Sraddha performed on Trayoda^i
+(Thirteenth day). Rare is the Earth (as an object of charitable
+gift). Rare is the observance of holy rite that destroys sins.
+O woman of sweet eyebrows, rare is the replica of cow made of
+gingelly seeds and given over to a Brahmana. O fair lady, rare
+is the bath with the embylic myrobalan. Rare is the day of Hari.
+
+## 45B.-46. Rare indeed is bath in cold water at the aus¬
+
+picious time of the passage (Parva-kala) of the moon, especially
+at the auspicious time of dawn in the month of Magha. O
+queen, rare is the performance of a religious rite punctiliously
+in conformity to Gastric injunctions.
+
+## 47. Rare indeed is the wholesome diet and efficacious
+
+medicine that dispels sickness. Rare is the procedure along the
+path of scriptures.
+
+## 48. Rare is the remembrance of Visnu at the time of
+
+death, O fair-complexioned lady. Thus, O fair lady, carry out
+my words that protect Dharma.
+*\fod. Soron on the Ganga, 27 miles NE ofltah (U.P.). Vif^u in the
+Sukara (Boar) form killed Hiranyakfa here—DE 195.
+
+
+1724
+N&rada PurSna
+
+## 49. O lady of beautiful limbs, of what advantage is the
+
+killing of my son to you ? It behoves you to be pleased. The
+worldly pleasures have been duly enjoyed. The kingdom has
+been made free of thorns.
+
+## 50A. I have placed my foot on the heads of those (i.e.
+
+surpassed those) who protect Devas, cows and Brahmanas.
+50B-51. A. I will never injure with my hands my son
+who is the object of my destiny.**
+
+## Mohtni said :
+
+52-53. Dharmahgada is not my enemy, nor do I kill
+your son. I have told you at the outset, “Eat on the day of
+Hari*’. O king, rule over the earth as you please, for many
+years. I do not kill your son. My object of accomplishment lies
+in your taking food. O king, I have no interest in the death
+of your son.
+
+## 54. O king, if the son is dear to you, may the food be
+
+taken on the day of Hari. O king, of what avail are these laments
+which are beyond the pale of Dharma.
+55-56. Keep the truth assiduously. Carry out my word.
+“Dharm^gada who was standing in front, observed Mohini, the
+lady with slender waist, speaking thus. After bowing to her he
+said. It is this (here). Take it. Do not entertain any fear or
+suspicion, O beautiful lady.
+57-60. He drew out his stainless glistenting sword and
+placed it in front of the king. He placed himself too in front of
+the king and said with a steady resolve in truth and virtue.
+
+## DharmSAgada requested :
+
+*‘0 my father, delay should not be made by you in striking
+me down. O king, make my mother’s words true. Keep up your
+promise. The Atman should be protected even at the sacrifice of
+wealth, wives or sons.
+To a king who is desirous of welfare, the progeny is for the
+purpose of preservation of Dharma. Death for your sake is the
+bcstower of ever-lasting salvation on me. You too will attain the
+pure worlds in virtue of your keeping of your own promise.
+
+
+Uttarabhdga 33.61-69
+1725
+61-62A. Eschew the deep overwhelming sorrow originat¬
+ing from killing your own son. O lord, (even if) this body
+is abandoned, it will lead to the creation of another body, that
+is devoid of all sorts of ailments and equal to that of Indra.
+62B-64. Those who are killed for the cause of their
+fathers, or for their mothers, or for cows, Brahmanas, young
+women. Earth, king, or the deities, or for the sake of their
+children or the handicapped, attain the excessively brilliant
+worlds. Hence enough of your worries and anxieties. Kill me
+with your excellent sword.
+
+## 65. O leading king, stick to your vow. Do not take food
+
+on the day of Hari. O king, one may kill one’s own son or wife
+for the sake of Dharma.
+
+## 66. It is heard in the Vedic texts : A person (i.e. a king)
+
+who sits consecrated for the performance of horse-sacrifice
+may kill his son in that excellent sacrifice and no sin is
+incurred thereby.
+
+## 67. O king, whatever, Mohini, my mother, says must be
+
+carried out unhesitatingly by you.
+
+## 68. O leading king, be pleased. Garry out the suggestions
+
+made by me, in regard to my own death. O king you will then
+release yourself from the terrible utterance of falsehood through
+the interference of Mohini.
+
+## 69. O king, as a result of the killing of your own son, your
+
+fame will be illuminated. Thanks to the splendour of your fame,
+your reputation and esteem will be very high and ever-lasting. O
+dear father, no doubt should be entertained in this matter.”
+
+
+1726
+Ndrada Purdna
+
+## CHAPTER THIRTYFOUR
+
+The Visions of the Lord
+Vasif}ha said :—
+
+## 1-4. On hearing the words of his son, the king Rukmah-
+
+gada glanced at Sandhyavali’s face resembling a lotus and
+became glad. (It seemed as though her face urged) : “listening
+to the words of Mohini, do not take food. Kill the boy born of
+your body. Do not take food. Rather kill your son”. This
+importunity was evident in her face. In the meantime, the
+Lotus-eyed Lord (Visn.’,) came there and stood in the sky but
+in an invisible state. He began to watch the courage and for¬
+titude of the three persons—the heroic king, Sandhyavali and
+Dharmahgada. O leading king, the unsullied lord Visnu having
+the colour of the cloud, seated himself on the Lord of birds
+viz. his vehicle Garuda.
+
+## 5-9. When the words “Eat, Eat” were uttered by
+
+Mohini, the king took up the stainless (bright) sword to kill
+his son Dharmahgada, With a delighted mind, he made obei¬
+sance to the Garuda-emblcmed lord. On seeing his father armed
+with the sword, Dharmahgada bowed down to his parents and
+to the discus-bearing Lord without any feelings of sorrow, he
+looked at the face of his mother, O great king. *
+Dharmahgada who was endowed with devotion to his
+father and who was superior to all in his devotion to his mother,
+kept his neck close to the ground. His neck resembled a
+conch-shell. It was tender with tite lustre of gold. It was plump
+and it contained many lines. He placed his neck on the path of
+sword.
+
+## 10. O king, (Mandhata), when the son offered his ntck
+
+with delight in the face that resembled the beautiful moon, and
+when the lord of the Earth (i.c. Rukmahgada) took up his sword,
+the entire Earth along with the mountains began to quake.
+
+## 11. Immediately the ocean tides arose as if to submerge
+
+the three worlds. Hundreds of meteors fell on the Earth with
+*Nrpa-Pufigavah in the text has no predicate, hence taken in the Voc. as
+Nrpa-PuAgava (Mandhata) “O king” is repeared even out of context in
+this part of the NP.
+
+
+Uttarabhdga 34.12-22
+1727
+violent gusts of wind and thunder-bolt’s stroke from the middle
+of the sky.
+12-14. Thinking (to herself) : “O the mission of the
+Devas has not been accomplished by me. My birth has been
+thus fruitless. It has been made so by the fate that had created
+the universe. My enchanting beauty has been only a fraud,
+since the food is not taken in by the king on the day of Hari—
+the day that dispels the fear of sins. In the Heaven, I will be
+treated as equal to grass.
+He who has abundance ofSattva qualities will go along
+the path of salvation. But I, the sinner, will fall into the terri¬
+ble hell.”
+
+## 15. O leading king, when the sword was lifted up by the
+
+king, MohinI endowed with delusion over-came with swoon
+fell on the ground.
+16-18. Shining with that sword, the king attempted to
+cut off the neck of his son Dharmahgada. When the courageous
+king Rukrnahgada, with great delight, was to cut off his son’s
+head alongwith the ear-rings the head that was beautiful,
+had the brilliance of the moon that was shining. But im¬
+mediately the king was caught in his hand by Visnu, the
+lord of the daughter of the Milk-ocean”. I am pleased I am
+delighted. There is no doubt about this. Olord of the people, go
+to my region.
+19-20. O king, establish on the Earth your fame that is
+worthy of being worshipped in the three worlds and that is
+white and pure. Set your foot on the head of Yama. O king,
+thereafter, accompanied by your beloved wife and son you go to
+my residence called after my body (i.e. Vaikuntha)”. The
+moment he was touched with the hand of the discus-bearing
+lord, the king became free from sins in the company of his wife
+and his son.
+21-22. Approaching quickly, the noble-souled king
+entered the divine body of the lord, leaving off the Royal glory
+originating from the Earth abandoning the slaves, riches and
+treasury, elephants, horses, chariots, wives in the harem and
+the kinsmen. He became one with the body of Visnu. Then a
+shower of flowers fell from the sky.
+
+
+1728
+Ndrada Furdna
+
+## 23. O king (Mandhata), the large drums callod Dundu-
+
+bhis were sounded by the delighted Siddhas, and the guardians
+of the divine world. The celestial ladies sang sweet songs and
+danced joyously.
+24-26. The daughters of the Gandharvas were satisfied
+with the action of the king. The son of the sun (i.e Yama) too
+observed this wonderful phenomenon viz. the king entered the
+divine body of Visnu accompanied by his wife and son after
+wiping off the writings of Yama. He placed all the people in the
+path leading to the world of Hari. The people followed the
+path pointed out by the king and were grateful to him. Yama
+became frightened again. He came to the four-faced lord
+Brahma and spoke to him crying “O lord, I will not be a
+mere employee without the power to command. O lord of
+Devas, create another post for me. I shall do my best. Let not
+my baton of punishment be a thing of mere show.”
+
+## CHAPTER THIRTYFIVE
+
+Mohini incurs a cause
+
+## Tama said :
+
+
+## 1. “O lord of the Devas; O lord of the universe ! O
+
+lord and preceptor of the mobile and immobile beings
+Mohini has become unsuccessful like a barren woman in the
+matter of giving birth (to childern).
+
+## 2. O Kula-emblemcd one the entire world goes to
+
+Vaikunfha along the path advocated by Rukmangada. No one
+comes to me.
+
+## 3. Although the lord of kings entered the body of the
+
+discus-bearing lord (Visnu), the mind of all the living beings
+has not changed.
+
+## 4. O grand-sire of the universe, after observing fast on
+
+the day of Vifi^u, all men including young children, go to the
+greatest world with their sins dispelled.
+
+
+Utiarabhdga 35.5-23
+i729
+
+## 5. Your daughter, Mdiiiii, the gentle Udy is iA«firi#d
+
+and has been in swoon. She is not coming near you because
+she is despised by the world. She does not even take food.
+
+## 6. 1 have become jobless, what am I to do?Guide me.*'
+
+
+## On hearing the words of Yama the lotus-seated deity said:
+
+7-8A ‘*We all shall go together to bring Mohini to con¬
+sciousness. Afler she has got up (regained normalcy) O son
+of the sim, we shall perform your task. There is no doubt about
+it. May excitement and agitation be eschewed.
+
+## 8B-9. Then all the groups of Devas led by Indra
+
+and others accompanied by Brahma, came down to thh
+Earth in their aerial chariots as refulgent as the sun, in order
+to rouse that woman to consciousness O king (M^dhata).
+10-23. With their aerial chariots they surrounded the
+auspicious (beautiful)-faced lady (who was in a swoon then).
+She was devoid of brilliance and bliss. She resembled (the
+following) : a river the water of which had dried up, the night
+without the moon, a holy rite Without the Rtvik priest, a man
+who is defeated in a battle, a flower that has faded, the date
+where-ftom the celebration of the festival has ceased, the Coral
+that has become white and colourless, the grain-field irom-
+where the grains have been removed, the light that is dim, thC
+churning rod O king, when the butter is taken out,* the speech
+that is not refined, the army that has been crushed (severely
+defeated), a young woman whose husband has been killed, the
+subjects deprived of food grains, the sacred-rite without Mantras,
+the war waged in violation of its prescribed code and without
+mercy, the Earth without a king, the king without a minister,
+O excellent king, the house devoid of wealth and food-grains,
+the pot without water, the lordly bull stuck in mire, the
+householder without his wife, the king banished from hte
+kingdom; the physician whose medical treatment has failed,
+the tree whose branches have been cut, the house without
+fire, the cloud without water, the fire with plenty of smoke,
+the sun without his rays, the man who has gone out of his
+senses, the man who indulges in sexual intercourse on Parvan
+*Here the text is defective.
+
+
+1730
+Ndrada PurSna
+days (the new moon, the full moon days etc), a lover wh<i is not
+satisfied with his beloved, (or with no favourable response from
+his beloved), the serpent deprived of its poison, the bird
+whose wings have been clipped, the Brihma^ who has no¬
+means of sustenance; the garland that has been dropped down
+from the head, the mountain without metals and minerals,
+the scriptural text the script of which is distorted, the Rk and
+Yajus Mantra that is recited in wrong notes, the Saman verse
+recited with a discordant note, a lake devoid of lotuses, the
+pathway overgrown with grasses, the lotus devoid of petals,
+knowledge (vitiated) by the feelings of egotism, the Puru§a
+without Prakrti, the Sahkhya philosophy minus the Tattvas-
+(principles), and the Dharma (Virtue, piety) (tarnished)
+with arrogance, thus the heaven-dwellers saw Mohini devoid
+of brilliance.
+24-25. The Devas, on arrival, spoke to that fierce lady'
+who was meditating (brooding) and lacking in enthusiasm; who-
+was viewed by the people as one with (the stigma of) the
+murder of her son; who was criticised in cruel rebuking terms
+as a woman of bad conduct; who had been abandoned by the
+virtuous people; who had been stubborn in clinging to her own.
+words and had been defrauded by those very words (?)
+
+## 26. “O fair lady, do not feel aggrieved; you have put
+
+in manly efforts. Indeed, there is no question of wounded
+prestige in regard to the devotees of Visnu.
+
+## 27. O fawn- eyed lady, it is for the fulfilment of the
+
+work of the Devas that you have come (here). O fair lady,
+that is not fulfilled, now that he (king RukmMgada) has.
+attained absence of birth (i.e. salvation).
+28-29. (Defective) O Mohini, the Ekada^i in the
+bright half of the month of Vail^ha has been previously
+observed by Rukmangada (as a day of fast). It destroys all
+obstacles, and it is highly meritorious. O lady of large eyes,
+he observed the rite continuously for a year with very great
+strain. The fact that he did not swerve from truth is an act
+without a parallel.
+30-31. A woman is described as the queen of obsta¬
+cles (except in your case). The king decided on killing his
+son without reservation in mind, thought or "^spccch. He
+
+
+Uttarabhiga 35.32-43
+173t
+cast off his affection and lifted his sword. The lord Vi?nu
+observed that (the king’s steadfastness had been proved)
+on that touch-stone.
+32-33. For he was prepared to kill his son but he would
+not take food on the day of Hari. Hari (Visnu) saw the real
+feelings of the king, his wife and his son. He was extremely
+pleased (with them) and so all the three were taken to his own
+abode along with their physical bodies like coals deposited
+(ignited) with fire, as their Karmans were exhausted.
+
+## 34. O blessed and gentle lady, if the work is begun in
+
+earnest and performed assiduously but the fruit is not derived,
+what is your fault in it now ?
+
+## 35. For this reason, O splendid lady, Devas have
+
+come as granters of boon. Whether it fructifies or not, one
+should engage oneself in an activity. One must not remain
+idle.
+36-38. All his attendants must be properly maintained
+by a king, who wishes for piety. If, even after an honest effort,
+the servant is not able to accomplish the task, at least the
+remuneration must be paid. There may not be any gratuity. If
+a man (i.e. the master) does not give the (servant) living
+sustenance, he attains the sin of a cow-slaughter. There is no
+doubt about this. Hence, O fair lady, O excellently beautiful
+woman, what is desired by you must be given.
+39-40A. (Defective) the task of heaven-dwellers had
+been to create the obstacle. Since you have endeavoured with
+sincerity what is it that the Devas will not do. But O fair¬
+faced lady, along with you, they toO have been frustrated by
+the brilliance of fast which they call the destroyer of
+obstacles.”
+40B-4I. On being told thus by the Devas, Mohini the
+enchantress of the worlds, who was bereft of her husband and
+so was cheerless and extremely distressed, spoke thus ‘*Fie
+upon this life of mine, inasmuch as the entrusted work was
+not achieved.
+42-43. O lords of the immortal beings, the path of the
+world of Yama has not been rendered thronging with people.
+The vow of the day of Hari was not violated. Food was not
+taken by that king. His own son was executed by that hero
+
+
+1732 Ndrada Purdrfa
+joyously. After placing his foot on my head, Rukman^ada has
+attained Visnu.
+44-47. He has attained Visnu of immeasurable attributes,
+who is free from impurities, who is the support of pure ones, who
+is called Hariisa, Sucipada (of pure region), Vyoman (firma¬
+ment), Pranava (OM) the imperishable seed; who is formless,
+without any appearances; transcendental to the universe;
+perfectly pure and unsullied and of the nature of void (firma¬
+ment), who is worthy of being meditated upon; who is beyond
+contemplation; whom they call both the Existent and the non¬
+existent, who is neither far off nor close by; who is the great
+splendour and capable of being grasped only by the mind; who
+is identical with the universe and is called Purusa; who is
+abiding in the lotus of the heart; who is the embodiment of
+splendour and eternal. When the king has already dissolved
+himself in the lord, what benefit do I derive from life ?
+
+## 48. The man who accepts his salary when the (appoint¬
+
+ed) work is not accomplished, goes definitely to the hell
+leaving off his master.
+
+## 49. O heaven-dwellers, the servants who do not accom¬
+
+plish the tasks of their masters but still enjoy the salary, are
+reborn in the Earth as horses.
+
+## 50. I am the destroyer of my husband as well as of my
+
+son. I am not successful in accomplishing the task. How can I
+accept the boon from you, the dwellers of Heaven ?”
+
+## The Devas promised :
+
+
+## 51. “Speak out, O Mohini, I [we] shall give what is
+
+desired by you in your heart of hearts. After helping you, we
+shall free ourselves from indebtedness to you,
+
+## 52. O gentle lady, endeavour has been made by you
+
+in motivating the king to take food. O gentle lady, when
+such task has been accomplished, you deserve a share in the
+benefit.”
+
+## 53. O king (Mandhita) ! When the Devas were
+
+speaking thus, the priest of the king (Rukmangada) resplen¬
+dent like fire, arrived there.
+
+## 54. The sage who had been engaged in Pranayama,
+
+had been living under water. When the twelve-year-period of
+
+
+Uttarabh&ga 35.55-61
+1735
+this penance was completed, he came out of the water.
+
+## 55. O king (Mandhata), as soon as he came out of
+
+water, the actions of Mohini were heard by him. The in¬
+furiated prominent sage approached that group of the
+Devas.
+
+## 56. He condemned all those Devas who were about
+
+to grant boons to Mohini. “Fie upon this (woman) ? Fie
+upon this group of Devas ! Fie upon this action that should
+be called a sin.
+
+## 57. The boon that is desired by Mohini and that you
+
+are about to give her is detrimental to your very existence (or
+feeling of devotion about you) and promotes that growth of
+Purusartha * (Kama ?).
+
+## 58. She who has killed the son of her husband (and her
+
+husband as well) is no better than one who has killed ten
+thousand persons. She is like a man-eating ogress of the meanst
+conduct (?). O Devas, even by immolating herself into a well-
+kindled fire, she cannot gain in purity.
+
+## 59. These three have been considered equal to one-
+
+another by the ancient excellent Brahmanas, Viz. Killing ten
+thousand persons; slaughter of the husband, and the slaughter
+committed without any purpose. O Devas, even by falling into
+a well-kindled fire, she cannot purify herself. She had with
+her nectar-like sweet words deluded Rukmahgada, and
+Dharmangada. Rukmahgada killed his son and attained
+salvation accompanied by his beloved wife. She (Mohini)
+has made the Earth bereft of its rulers, the protectors of
+men.
+
+## 60. She cannot have her residence even in the hells, O
+
+Devas. How can she, who is intellectually deficient (and per¬
+verse) stay in heaven ? O Devas, nor can she stay near
+the king; she may not attain the eternal region of Visnu.
+
+## 61. Nowhere in the worlds can she have her residence
+
+since she has been defiled (and condemned) by the public
+*The text parufArtha-prarohakam is obscure as pra-rohaka means
+‘causing to grow’ (MW. p. 689). How could the boon to Mohini promote
+the germination of any Puruf&rtha except K&ma ?
+
+
+1734
+J^drada Furdna
+censure. Fie upon the life of this lady of despicable activities
+who was always Indulging in sinful actions, O Devas.
+
+## 62. After killing her husband, after taking away the
+
+life of her son, after murdering her co-wife who was just like a
+mother unto her and after destroying the entire Earth, O
+Devas, what sort of existence or fate will she attain ?
+63-64A. (Defective) O Devas, this lady is a greater
+sinner (than others). She has destroyed the holy observances
+of Hari. She always advocated “May food be taken on the day
+of Hari.” Downfall is suffered even by those who take food (to
+relish it and not) for the sustenance of life. (?)
+64B-65. How can one get residence in heaven by
+propagating “May food be eaten on the Ekadasi day. May
+a cow be killed along wifh Brahmai^. May undrinkable
+liquors be drunk”. Such is spoken by the ignorant. This is
+not the decision of the learned.
+
+## 66. If out of ignorance the statement viz :— “May the
+
+food be taken on the day of Hari*^’ is made, there is an expi¬
+ation for it with a hundred Pranay^as.
+67-68A. O heaven-dwellers, they can atone for it by
+observing fast on the Ekadasi day, or by taking a bath in the
+lake Puskara when the star under which one is born is asso¬
+ciated with it (?), or by touching the Deity (Visnu) in the Boar
+form or by the worship of God.
+68B-69A. This expiation has been recounted by the
+Brahmanas if the words arc uttered (as mentioned before).
+This lady was ruthlessly engaged in sin. She insisted on food
+being taken on the day of Visnu which is difficult of perfor¬
+mance to sinners.
+69B-70. She did not pay heed to the words of her
+husband. She got the favourite son killed—the son who knew the
+fitting words, who abided by the advice (of elders) and who
+was engaged in suctivities beneficial to his mothers. This
+woman has violated the Dharma of Visnu. She is burdened
+with many sins.
+
+## 71. O lords of the Devas, she is not worthy of even
+
+being touched. How then 'can you bestow boons on her ?
+Indeed your excellencies are interested in persons endowed
+with the qualities of justice and piety.
+
+
+Uttarabhiiga 35.72-84
+1735
+
+## 72. Heaven-dwellers do not accord protection to
+
+sinners. Devas are remembered as the supp>orters of Virtue. And
+Virtue (Dharma) is enshrined in the Vedas.
+
+## 73. Service unto the husband is glorified as the duty
+
+of woman by the Vedas. Whatever the husband says must be
+carried out unhesitatingly by her.
+
+## 74. If the husband says that anything is wliite she must
+
+also say that it is while. If he says that it is black, she must
+also say that it is black. This is to be known as real Susru^
+(service) and mere menial action of attendance is not
+^usrusa.
+75-77. O Devas, her husband’s orders were disobeyed
+by her with a view of her desire to establish her own command.
+Hence there is no doubt that Mohini is the most sinful of all
+women. In order to achieve truthfulness, the king, who had
+been restrained by imprecations, said different kinds of words
+(i.e. offered various proposals). But this lady, the murdress
+of her son, did not like them. Hence the king relegated the
+sins to her and attained salvation. Thus she is indeed a
+woman of sinful physical body responsible for ten thousand
+murders.
+78-83. This woman of evil activities had repudiated the king
+who was the donor of various charitable gifts; who was a patron
+of Brahmanas; whose deity was Hari; who invai'iably delighted
+his subjects; who regularly observed fasts on the days of Hari;
+who cherished no indecent Love towards the wives of others;
+who had no desire for worldly pleasures; who eschewed his
+passionate love for the sake of others; who always performed
+sacrifices; who continuously maintained the suppression of the
+wicked ones on the Earth, and who was never overwhelmed by
+the seven terrible vices. How can she be worthy of being granted
+the boons ? O excellent Devas within a trice I shall reduce to
+ashes the person who is likely to side with her, whether he is a
+Deva or Danava. O gods, if anyone endeavours to protect
+Mohini, he incurs that sin which is fixed in Mohini.”
+
+## 84. O king (Mandhata), after saying this and taking up
+
+water in his hand, the eminent Brahmana furiously looked at
+the daughter of Brahma and violently hurled it on her head.
+The water then shone like fire.
+
+
+1736
+JVdrada Purina
+
+## 85. O king, no sooner was the water cast on her, her
+
+body blazed like a bundle of straw licked up by the flames of
+fire, even as the residents of heaven were (helplessly) looking on.
+
+## 86. “O Lord, check your anger; check your anger,’*
+
+even as these words of the Devas rose up in the sky, that
+(violent) fire created by the utterance of the Brahmana reduced
+that young woman to ashes.
+
+## CHAPTER THIRTYSIX
+
+Brahma intercedes for Mohini
+Vasiffha continued'.
+
+## 1. Recovering herself from her unconscious senseless
+
+condition, Mohini went to the mansions of the Devas, (the
+Heaven), She was then rebuked by the messenger of the Devas,
+“You are a sinning woman and you have no place here.
+
+## 2. O foolish woman, a habitual sinner, O woman
+
+indulging in censuring your own husband, you have no place
+for staying in the heaven, since you have violated the day of
+Hari (the Ekadasi Vrata).
+
+## 3-5. It is in the hell that the residence of those averse
+
+to Dharma is recommended.” Vayu said thus to her in
+cruel and unexpected words. Beating her with a baton, he
+pushed her to (the place of) torture. O king, beaten thus by the
+celestial messenger and completely over-powered by the
+Brahmadan<^a (the baton i.e. curse of a Brahmana), Mohini
+reached the hell. There, at the behest of Dharma (i.e. Yama),
+she was beaten by the messengers for a long time.
+
+## 6-7A. She was taken to hells in the order and made
+
+to fall therein. They rebuked her, “O sinful woman, your
+son Dharmangada had been killed by you through the hands of
+your husband. Hence experience here the evil effects of the
+sinful actions perpetrated by you.
+
+
+Uttarabhdga 36.7B-18
+1737
+7B-8A. You are the experiencer of such fruit as this, inas¬
+much as you have brought about the death of your son who was
+a benefactor of the subjects, whose intellect was stable and firm,
+who was comparable to Mahendra and Varuna and who was
+the overlord of seven continents.
+8B-9A. If one violently injures even an uncultured son,
+one becomes the murderer of a Brahmana. What then, O sinful
+woman, if one injures a son like Dharmahgada endowed with
+all piety ?”
+9B-10A. O excellent king, she was thus expostulated by
+the messengers of lord Yama. She experienced one by one all
+the tortures suggested by that lord.
+1 OB-11. Since she had already been struck down by
+Brahmadandn (the curse of a Brahmana), the tortures (or the
+hells)themselves became scorched due to their contact with her.
+They became unable to detain her (within themselves). Then,
+O king, those hells approached Dharmaraja.
+
+## 12. They were afflicted due to the contact with her limbs.
+
+They were frightened. With palms joined in reverence, they
+said, “O Lord of the Devas, O Lord of the universe, O Dharma¬
+raja, be merciful.
+
+## 13. Take away this lady from the place of tortures im¬
+
+mediately for the sake of our relief. O lord, at her very touch,
+we are being instantaneously reduced to ashes.
+
+## 14. Hence banish her from all hells.” On hearing
+
+their words, Dharmaraja was mnch surprised.
+15-16A. Dharmaraja then commanded his messengers,
+“This woman is to be banished from my mansion. Tortures (in
+my hell) do not wish to have any contact with that sinner who
+is burned by aBrahmana’s imprecation, whether such a sinner is
+a man or a woman or even a thief (?)
+
+## 16B. Hence banish from here this excessively sinning
+
+woman, who had disobeyed her husband’s words, who had
+caused the death of her son; who has destroyed Dharma and who
+is already struck by Brahmadan<^a. Even my body burns at her
+sight”.
+17-18. O king, thus commanded by Dharmaraja, those
+emissaries struck her with weapons and missiles and threw her
+out of Yama’s abode.
+
+
+1738
+Nirada Purina
+
+## 19. Thereafter, O king, the distressed woman of delusion,
+
+Mohini went to the nether-worlds. She was prevented (from
+entering the region) by the people there.
+
+## 20. Extremely ashamed due to this, Mohini, the daughter
+
+of Brahma, went to her father’s presence and intimated her own
+grief to him.
+
+## 21. “O father, there is no place of rest for me in all the
+
+three worlds consisting of mobile and immobile beings. Wher¬
+ever I go they throw me out after rebuking me.
+
+## 22. I have been banished by the people of the world who
+
+struck me hard with weapons. It was at your behest that I had
+gone to Rukmahgada at the outset.
+23-24A. (For the same reason) this sinful activity was
+indulged in by me though that course of action was despi¬
+cable to the entire world. I had caused distress to my husband;
+I had got my son killed with sword; I had made Sandhyavali
+perturbed. Hence, O father, I am reduced to this plight.
+24B-25A. O lord, there is no redemption at all now, for
+me who am the sinner. Particularly due to the curse of the
+Brahmana I have had to experience the misery.
+25B-26. O father, the celestial river (Gaiiga) is the besto-
+wer of liberation to those who have been struck down by the
+imprecation of a Brahmana, to those who have been
+burnt by fire, to those who are killed by a Cant^ala, to those
+who are eaten by animals etc. and to those who have been struck
+dead by lightning.
+
+## 27. If out of love for me, you, accompanied by gods, can
+
+propitiate and persuade the Brahmana who had cursed me,
+then alone any better state of existence can be brought
+about.”
+28-29. O king, when she said thus, Brahma, the grand¬
+father of the worlds, started from there accompanied by Siva
+Indra, Dharma, Sun, Fire, and other lords of Devas, and sages.
+With Mohini at the head (of deputation) he went to the
+presence of the Brahmana.
+29B-30. After going there, O king, god Braljma, surround¬
+ed by gods, paid obeisance to the Brahmana with great dignity,
+
+
+Uitarabh&ga 36.31A-42
+1739
+even though it is true that god Brahma, the creator (of the
+universe), is the grandsire of the world and is worthy of respect
+and worship by all gods of whom Rudra was prominent.
+31A-32A It was out of his affection for Mohini (and for
+her consolation and pleasure) that god Brahma got perplexed
+and presented his solution. O king, when a great work is at
+hand and if it is impossible to get it accomplished in the three
+worlds, the obeisance offered to a younger person is not
+censured,
+32B-33. On seeing the creator of all the worlds arrived
+there alongwith the Devas, that Brahmana who was a master
+of the Vedas and the Vedahgas and who was absorbed in per¬
+forming austerities, got up and bowed down to god Brahma,
+those sages and the Devas.
+34, With great devotion, he made all of them sit and
+eulogised the lotus-born deity. Then the lord and creator of the
+worlds, the preceptor of the universe became delighted.
+
+## 35. 36A On behalf of Mohini, they requested the
+
+Brahmana who had been honoured by the king before, “O dear
+one, O Brahmana of good conduct, O helper of the other
+world, O Ocean of mercy, please show some compassion. Be the
+bestower of salvation on Mohini.
+36B-38. O Brahmana, it was for deluding Rukmahgada
+that she had been deputed by me. She is my daughter. O besto¬
+wer of honour, on seeing the world of Yama empty and Vaiku-
+ntha full of unperturbed people this gentle lady, the benefactress
+of the Devas, was mentally created by me. O Brahmana, listen
+to what I am explaining to you.
+39-40. The way of Dharma is verysubtle.lt brings about
+the welfare of the entire world. I had tested Rukmahgada
+through this lady who acted as the touch-stone. Thus along
+with his wife and the son, O Brahmana, he was enabled to at¬
+tain Hari*s abode through the unflinching and imobstructable
+devotion and the observance of fast on the day of Hari.
+41-42. Yama's abode was made empty by the activity
+of wiping off the lines in the record of Citragupta—^Yama*s
+accountant of human deeds. O Brahmana sage, it is not proper
+on the part of a Ksatriya to be critical and antagonistic to the
+
+
+1740 Mirada Purity
+Devas. Particularly to the Brahmana they render .great
+assistance.
+
+## 43. It (the place in Vaikuntha) is attained neither by
+
+the knower of Sariikhya, nor through the Yoga system consist¬
+ing of eightfold paths.lt is to be attained only through devotion.
+O Brahmana, the husband who was the king (Rukmangada),
+the son (Dharmarigada) and the cowife (Sandhyavati) were
+enabled to reach it.
+
+## 44. What she had done against the crestjewel of a king
+
+who was extremely meritorious was a sin by which she was
+cursed and reduced to ashes by your imprecations.
+
+## 45. This woman strove for the Devas, for the
+
+increase of worldly existence and for rendering help to the
+king. She is not selfish. O Brahmana, how can she incur dis¬
+respect ? If at all there is any disservice on her part, kindly
+forgive it.
+
+## 46. Be merciful, resort to tranquillity and quiescence,
+
+the grinding of the pounded flour (i.e. superflous exertion) is not
+justifiable. This woman was struck down by your cursing her.
+Be pleased. Be the bestower of salvation. O Brahmana, if this is
+performed, this Mohini will eschew her cruel grudge against
+you, who are worthy of being worshipped.”
+
+## 47. On being urged thus by the lotus-seated deity, he
+
+(the Brahmana) thought intelligently and abandoned his anger.
+Then the leading Brahmana said to the lord of the Devas
+(Brahma) who created the body of Mohini.
+
+## 48. “O lord, inasmuch as your daughter Mohini is
+
+burdened with so many sins, she has no place in this world teem¬
+ing with living beings.
+
+## 49. *‘It is out cf my affection for you that I shall
+
+state before you what has been thought of by me after much
+critical deliberation in the case of Mohini, and you are certainly
+worthy of respectful worship by me all the more.
+50-53A O lord of Devas, I shall see that your words
+turn out to be true as well as those of mine. The affairs of the
+Devas and duties of Mohini must go on. Hence let Mohini
+stay in such a spot as has not been occupied by any
+
+
+Uitarabh&ga 36.53B-60
+1741
+living being. The Earth consisting of seven continents is
+inhabited fully by the mobile and immobile beings for ever.
+The nether-worlds are occupied by the Daityas and others. The
+firmament has been occupied by the birds etc., heaven is
+occupied by the meritorious beings. Hells are teeming with
+persons of sinful actions. The oceans have been full of the fish
+and other animals. Hence it is not possible for this woman
+to stay in these, as she is not worthy of being touched.
+53B-54A Then, O exceellent king, Brahma took coun¬
+sel with the Devas and spoke to Mohini. “Gentle lady there is no
+space anywhere for you”.
+45B-58. On hearing the words • of her father Mohini,
+the obedient lady who wanted to destroy the observance of
+the day of Hari bowed down to all and said “O leading
+Devas, I hereby join my palms in reverence to you all includ¬
+ing the priest, and to the Devas who are the witness of the
+worlds. O Devas, with delighted heart, thanks to the hundred
+obeisances, what has been requested for should be granted to
+me. It is conducive to the pleasure of everyone. Salvation of
+all the sinners is achieved through the power of Ekada^i. My
+purpose is to increase it further. I have enabled my husband,
+co-wife and the son to go to Vaikun^ha.
+59-60. I shall stay behind in the world of Earth, the
+widow that I am. I shall stay there for your sake, so that, O
+bestowers of honour, the day of Hari associated with me may
+not become defiled. For the sake of gaining my own selfish
+end I request for this. Not otherwise. Kindly grant it.”
+
+
+1742
+MSrada Purina
+
+## CHAPTER THIRTYSEVEN
+
+Mohini regains her physical body
+
+## Mohinl said :
+
+
+## 1-2A. “O Devas, there cannot be anything else so sancti¬
+
+fying as the Ekada^i (Vrata). Even great sinners go to the
+abode of Hari, on being sanctified by it. It seems to me proper
+to have my abode in its vicinity. Let this proposal be
+considered.”
+
+## Devas said :
+
+
+## 2B-3.1 O Mohini, the Vedha (overlapping of the previous
+
+Tithi) at mid-night or at the Sunrise is conducive to the help
+of the Devas as ordained by Hari. The breaking of the fast on
+the Trayodasi day is destructive of the benefit of the fast.
+
+## 4. The eight days, remembered in the Agamas (Scrip¬
+
+tures), of the devotees of Visnu as ‘Mahadvada^is’ are those
+days wherein Ekadasi is also present. They are observed as the
+days of fast by the devotees ofVisnu.
+
+## 5. This observance of Ekadasi is different in regard to
+
+the noble souls, the followers of Visnu. In both the fortnights,
+it is observed alike for three days together.
+
+## 6. In the evening of the previous (i.e. Dasami) day and
+
+in the morning of the following (i.e. Dvadasi) day meal is
+missed. (Of course, both the meals are eschewed in the middle
+day i.e. Ekadasi day). But if Ekadasi is overlapped (by the
+previous Tithi), the observance of full fast is on the next day.
+The holy rite, in that case, should be performed on the Dvadasi
+
+## 1. VV, 2B*18 discuss the proper Tithi for observance of Ekadasi.
+
+This topic has been treated in detail in the Purvdrdha of the NP. Shorn of
+mythological paddings, it means that an Ekadaii when affected by
+Aruvodqya-Vedha should not be observed i.e. if the 10th Tithi, Daicani, extends
+on a civil day beyond 56 ghafikis from sunrise and Ek&daS follows and
+continues for the whole of the next day, there is Arupodaya-Vedha and
+such affected or penetrated (itiddhd) Ekadasi u not to be observed. This
+period of two muhurtas before the sunrise (i.e. Aruvodaya Vedha) is assigned
+to Mohini for occupation and the merit of people observing Arunodaya-
+Viddh& EkadaiO goes to Mohini. (vv. 8>18 also V. 22).
+The Smdrtas (non-Vai:;navas) however, are not govemed^^by the doctrine
+of Arupodaya-Vedha.
+
+
+1743
+UttarabhAga 37.7-17
+day by fasting and even by eschewing water.
+
+## 7. Those who are physically incapable of observing full
+
+fast can take water, vegetables, fruits, milk or the Naivedya offer¬
+ings of Hari. In any case the quantity must not exceed a fourth
+of the usual diet.
+
+## 8. O chaste lady, the Smartas (those who follow Smrtis)
+
+eschew the EkadaJi that is overlapped (by DaSan^) at sunrise.
+Those who are devoid of any desire (from this Vrata) leave off
+(the EkadasI) that is overlapped by Dasami even at midnight.
+
+## 9. It is wellknown in all the worlds that the DaiamI
+
+Tithi belongs to Yama. O sinless lady, you must station your¬
+self in its vicinity on the border.
+
+## 10. O splendid lady, thanks to this, even the task of the
+
+Devas can be realised. Staying along the border of Dasami, you
+will traverse along with the Sun and the Moon too.
+
+## 11. In order to dispel your sins, you move about the
+
+various sacred places on the Earth. You can have the benefit
+of the rite of Ekadasi witliin the period of time between Aruno-
+daya (dawn) and sunrise.
+
+## 12. If any one observes the holy rite of Ekadasi on the
+
+day when it has been occupied by you, he will be the person
+assisting you, O beloved one of the Devas. The period of two
+Muhurtas of the dawn should be known (as your period of
+occupancy).
+13-14. The number of Muhurtas of the day and of the
+night are remembered to be fifteen for each. They vary when
+the extent of time of the day and the night varies becoming
+short and long (by turns). This extent of time should be
+understood by the process of TrairaiSika (Rule of Three) .
+
+## 15. You come (and occupy your place) after the thir¬
+
+teenth Muhurta of the night. O lady of pure smiles, deriving the
+merit of those who observe fast on that day, be happy.
+16-17 O Mohini, the time marked by the early dawn has
+been assigned as the abode to you for the purpose of re-establish¬
+ing Yama, to destroy the path to Vaikutilha, to increase the
+number of heretics and to accumulate sins.
+
+
+1744
+Ndrada Pur&m
+
+## 18. O splendid lady, enjoy the benefit of the merit of
+
+those persons who assiduously observe the holy rite of Ekadasi
+on the day of your occupancy and overlapping. Be gracious
+unto this Brahmana (?)
+
+## 19. Thus advised and guided by the lotus-seated deity
+
+(Brahma) and others, Mohini became inuch more delighted.
+She considered her life contented and blessed by the opportu¬
+nity to resort to holy centers for wiping off her sins.
+
+## 20. “Although my body had been reduced to ashes, this
+
+task of the Devas has been achieved. Although the body is
+reduced to a mere mass of ashes and consciousness of aerial
+nature (Linga-Sarira) remains, the path made by the king is
+swept clean.
+
+## 21. What has been stated by me when I was delighted
+
+has been carried out by myself” After thinking thus, the
+delighted lady bowed down to the Devas, who protected the
+earth as well as the priest.
+
+## 22. For the delusion of the people, she stationed herself
+
+in the transition period of time of Dasami (that is called Surya-
+vihlna (devoid of the Sun or Arunodaya Vedha). She enjoys
+the whole day (?) in the form of Krcchranta for the downfall
+into hell of men (?)
+23-24. On seeing her staioned on the border (of his Dasami
+Tithi) the son of Sun (Yama) became delighted as (was)
+evident from his face. He spoke these words r- “O lady of beauti¬
+ful eyes, my re-establishment here, in this world, has been pro¬
+perly made by you. The sound of the drum placed on an
+elephant belonging to Rukmaiigada has been silenced, (i.e. no
+longer do they announce the necessity of observing fast as
+before) . Now all people place their faith only in the affairs they
+see.
+
+## 25. If Dasami touches Ekadasi at the time of Sunrise
+
+what is called Suryodaya Vedha it is always condemned. The
+sunrise that is not touched will be conducive to the fasci¬
+nation of men.
+26-27. (Defective) That Daiami day must be eschewed
+even if it extends to a fourth of the period and is also in¬
+visible (?) if enjoyment of the favourable Yoga is desired (?) O
+large-eyed lady, your name Mohini, as people call you, is
+
+
+UttarabhUga 37.28A—36
+1745
+significant indeed. After deluding the people you get them
+recorded on the canvas (i.e. the record of their acts kept by
+Citragupta.) ”
+
+## 28A. After saying this, the son of Vivasvat (i.e. god
+
+Yama) bowed to the daughter of Brahma. Delightfully, he
+went to the heavenly world along with the Devas holding
+his scribe, Citragupta by the hand.
+28B-29. After the Devas had departed, Mohini approach¬
+ed Brahma, the lord of Devas and Asuras, and entreated him
+thus : O father, this priest is fiercely angry with me, O lord of
+the worlds, my body has been burnt by him. Do something
+whereby I shall regain my physical body.
+
+## 30. By stationing myself on the border of Yama’s Tithi,
+
+the universe has been deluded by me. O dear father, thanks to
+your power, Yama who had been formerly conquered by the
+king is now made victorious.
+
+## 31. O dear father, now it is your duty that I should
+
+become one who am embodied. O lord of the universe, appease
+the Brahmana.’*^
+
+## 32. On hearing those words of Mohini, god Brahma
+
+the ordainer of the worlds, mollified the Brahmana once again
+for the sake of his daughter.
+
+## 33. “O deer one, O Vasu, understand this that I speak
+
+which is beneficial to this lady. O blessed one, this is conducive
+to the benefit of all the worlds.
+
+## 34. Out of anger, this Mohini was reduced to ashes by
+
+you. She requests you for the restoration of her physical body
+once again. O bestower of honour, give commands for the
+same.
+
+## 35. She is my daughter and your Yajya (one on whose be¬
+
+half you must perform Yajftas). O dear one, she has attained
+misfortune. This pitiable lady who has accomplished her task
+(assigned to her by me) must be protected by you.
+
+## 36. O bestower of honour if with pure feelings you
+
+inform me, I shall, thereupon create her physical body
+again.
+
+
+1746
+Nirada Purd^a
+
+## 37. But she became a sinner inasmuch as she was* anta¬
+
+gonistic to Visnu’s day. O leading Brahmana may something
+be done immediately so that she is sanctified.”
+
+## 38. On hearing god Brahma’s words of request, the
+
+sacrificial priest (ofMohinl’s family) delightfully passed orders
+for reunion of the physical body (after its creation) with (the
+jiva) of his Yajya.
+
+## 39. On hearing the words of the Brahmana, Brahma,
+
+the gfrandfather of the worlds, sprinkled water from his waterpot
+on the ashes of the body of Mohini.
+
+## 40. When the ashes were sprinkled with water by
+
+Brahma, the maker of the worlds, Mohini was endowed with a
+physical body. After bowing down to her father, she humbly
+bowed down to Vasu, the priest and grasjjcd his feet.
+
+## 41. Then Vasu, the Yajaka (priest) of the king, became
+
+joyous. He spoke these words to (Mohini) who was the wife
+of his Yajya (one on whose behalf he had to perform a Yajfta),
+whose prowess was wellknown and who had been abandoned by
+her husband and son.
+
+## 42. Vasu said:- “O gentle lady, anger has been abandon¬
+
+ed by me at the instance of Brahma. I shall facilitate your
+salvation by means of such rites as visiting holy centres and
+taking holy dips’*.
+
+## 43. Afler saying this to Mohini, the Brahmana joyously
+
+bowed down to Brahma, the lord of the worlds, and the father
+of Mohini, and bade goodbye to him.
+
+## 44. Bidden farewell by Mohini and Vasu out of affection
+
+Brahma went to the world beyond darkness through the
+unmanifest path.
+45-46. Vasu the excellent Br^mai^ who was the priest
+of Rukmangada considered Mohini worthy of being blessed
+and pondered. After meditating for a Muhurta he understood
+the way to her salvation.'
+
+## 1. This chapter serves as. a. background ibr the Twkm TtMt (PUfrimagie
+
+to holy places) section that follows. ^

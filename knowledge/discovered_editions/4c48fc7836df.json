@@ -1,0 +1,159 @@
+{
+  "title": "Prasad",
+  "discovered_at": "2026-07-13T14:41:56.899785+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Principles and Practice of Management",
+      "authors": [
+        "L. M. Prasad",
+        "L.M. Prasad"
+      ],
+      "year": 2019,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 3,
+      "isbn": [
+        "9351610500",
+        "9789351610502"
+      ],
+      "publisher": [
+        "Sultan chand & son",
+        "Sultan chand and sons",
+        "Sultan Chand & Sons"
+      ],
+      "ol_key": "/works/OL24999187W"
+    },
+    {
+      "source": "open_library",
+      "title": "Rise and fall of the Mughal Empire",
+      "authors": [
+        "Ram Prasad Tripathi"
+      ],
+      "year": 1956,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 4,
+      "isbn": [],
+      "publisher": [
+        "Central Book Depot"
+      ],
+      "ol_key": "/works/OL332629W"
+    },
+    {
+      "source": "open_library",
+      "title": "The Legend of Lakshmi Prasad",
+      "authors": [
+        "Twinkle Khanna"
+      ],
+      "year": 2016,
+      "languages": [],
+      "ebook_access": "borrowable",
+      "public_domain": false,
+      "ia_identifiers": [
+        "legendoflakshmip0000khan"
+      ],
+      "edition_count": 1,
+      "isbn": [
+        "9789386228055",
+        "938622805X"
+      ],
+      "publisher": [
+        "Juggernaut Publication"
+      ],
+      "ol_key": "/works/OL24340969W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "towardswirelessi0000pras",
+      "title": "Towards the wireless information society",
+      "creator": "Prasad, Ramjee",
+      "year": 2006,
+      "language": "eng",
+      "formats": [
+        "ACS Encrypted PDF",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "EPUB",
+        "Item Tile",
+        "JPEG Thumb",
+        "LCP Encrypted EPUB",
+        "LCP Encrypted PDF",
+        "Log",
+        "MARC",
+        "MARC Binary",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "PNG",
+        "Page Numbers JSON",
+        "RePublisher Final Processing Log",
+        "RePublisher Initial Processing Log",
+        "Scandata",
+        "Single Page Original JP2 Tar",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Title Page Detection Log",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "india.highcourt.judgement.hbhc010483232005",
+      "title": "High Court for State of Telangana - HBHC010483232005 (2005-04-15)",
+      "creator": "High Court for State of Telangana",
+      "year": 2005,
+      "language": "English",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "india.highcourt.judgement.cghc010101492007",
+      "title": "High Court Of Chhattisgarh - CGHC010101492007 (2007-04-30)",
+      "creator": "High Court Of Chhattisgarh",
+      "year": 2007,
+      "language": "English",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

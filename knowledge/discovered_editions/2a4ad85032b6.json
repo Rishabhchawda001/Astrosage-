@@ -1,0 +1,87 @@
+{
+  "title": "2015.405980.Science-In",
+  "discovered_at": "2026-07-13T12:08:51.149458+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.405980",
+      "title": "Science In The Vedas",
+      "creator": "Hans Raj",
+      "year": 1930,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.405980",
+      "title": "Science In The Vedas",
+      "creator": "Hans Raj",
+      "year": 1930,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2726350043",
+      "title": "ADSORPTION OF COOMASSIE BRILLIANT BLUE R-250 DYE ONTO NOVEL ACTIVATED CARBON PREPARED FROM NIGELLA SATIVA L. WASTE: EQUILIBRIUM, KINETICS AND THERMODYNAMICS RUNNING TITLE: ADSORPTION OF BRILLIANT BLUE DYE ONTO NIGELLA SATIVA L. WASTE ACTIVATED CARBON",
+      "year": 2017,
+      "is_oa": true,
+      "oa_url": "https://scielo.conicyt.cl/pdf/jcchems/v62n2/art16.pdf",
+      "authors": [
+        "Nour T. Abdel\u2010Ghani",
+        "Ghadir A. El-Chaghaby",
+        "El-Shaimaa A. Rawash"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3210238643",
+      "title": "Biomass-Derived Adsorbents for Dye and Heavy Metal Removal from Wastewater",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://downloads.hindawi.com/journals/ast/2021/9357509.pdf",
+      "authors": [
+        "Kashir Ali",
+        "Muhammad Ussama Javaid",
+        "Zaman Ali"
+      ]
+    }
+  ]
+}

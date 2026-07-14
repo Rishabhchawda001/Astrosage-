@@ -1,0 +1,29 @@
+{
+  "title": "\u0938\u0924\u0940 \u0938\u093e\u0935\u093f\u0924\u094d\u0930\u0940",
+  "discovered_at": "2026-07-13T17:41:22.096055+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7118137792",
+      "title": "\u0938\u0935\u0924\u0930 \u092c\u0908 \u092b\u0932 \u0915 \u092e\u0939\u0932 \u0938\u0936\u0915\u0924\u0915\u0930\u0923 \u092e \u092f\u0917\u0926\u0928 : \u090f\u0915 \u0935\u092f\u092a\u0915 \u0905\u0927\u092f\u092f\u0928",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.17264441",
+      "authors": [
+        "\u0930\u0947\u0916\u093e \u092c\u0948\u0930\u0935\u093e"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7118139472",
+      "title": "\u0938\u0935\u0924\u0930 \u092c\u0908 \u092b\u0932 \u0915 \u092e\u0939\u0932 \u0938\u0936\u0915\u0924\u0915\u0930\u0923 \u092e \u092f\u0917\u0926\u0928 : \u090f\u0915 \u0935\u092f\u092a\u0915 \u0905\u0927\u092f\u092f\u0928",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.17264442",
+      "authors": [
+        "\u0930\u0947\u0916\u093e \u092c\u0948\u0930\u0935\u093e"
+      ]
+    }
+  ]
+}

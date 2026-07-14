@@ -1,0 +1,69 @@
+{
+  "title": "Narad Puran 3",
+  "discovered_at": "2026-07-13T14:14:14.719964+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "nama_mahatmya_padma_purana",
+      "title": "nama mahatmya padma purana",
+      "creator": "Lord Shiva , Sanat Kumar , Narad muni, Vyas dev",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "oYUe_kalyan-narad-vishnu-puran-ank-year-28-no-1-ed-by-hanuman-prasad-poddar-gita-press",
+      "title": "Kalyan Narad Vishnu Puran Ank Year 28 No 1 Ed By Hanuman Prasad Poddar Gita Press",
+      "creator": "Gita Press",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "narada_purana_purva_202001",
+      "title": "narada_purana_purva",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    }
+  ]
+}

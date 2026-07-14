@@ -1,0 +1,25 @@
+{
+  "extraction_date": "2026-07-13T20:52:30.667308",
+  "total_ckus_extracted": 63360,
+  "unique_ckus": 61357,
+  "by_type": {
+    "shloka": 56896,
+    "heading": 4461
+  },
+  "by_book": {
+    "Bhagavat Purana Part 1": 8082,
+    "Bhagavat Purana Part 2": 633,
+    "Valmiki Ramayana": 21622,
+    "Rigveda Hindi": 273,
+    "Atharvaveda": 2504,
+    "Samaveda": 835,
+    "Shiv Puran": 1223,
+    "Tukaram Gatha": 1562,
+    "Brahmasutra": 520,
+    "Harivansh Puran": 12438,
+    "Vaman Puran": 767,
+    "Brahma Vaivarta Puran": 941,
+    "Naradiya Puran": 9957
+  },
+  "sources_processed": 13
+}

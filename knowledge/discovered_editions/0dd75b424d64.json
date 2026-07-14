@@ -1,0 +1,321 @@
+{
+  "title": "science-in-vedas",
+  "discovered_at": "2026-07-13T17:00:59.175424+00:00",
+  "edition_count": 16,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Human Physiology",
+      "authors": [
+        "Tony Nader"
+      ],
+      "year": 1995,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 3,
+      "isbn": [
+        "8175230177",
+        "9781895958065",
+        "9788175230170",
+        "1895958067"
+      ],
+      "publisher": [
+        "Maharishi Vedic University",
+        "Atrium Publishers Group"
+      ],
+      "ol_key": "/works/OL5979130W"
+    },
+    {
+      "source": "open_library",
+      "title": "Sciences in the Vedas",
+      "authors": [
+        "Vaidyanath Shastri"
+      ],
+      "year": 1970,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Sarvadeshik Arya Pratinidhi Sabha"
+      ],
+      "ol_key": "/works/OL297100W"
+    },
+    {
+      "source": "open_library",
+      "title": "Positive sciences in the Vedas",
+      "authors": [
+        "D. D. Mehta"
+      ],
+      "year": 1974,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Arnold Heinemann"
+      ],
+      "ol_key": "/works/OL374265W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "nalapat-notebook-1926-27",
+      "title": "Nalapat Notebook 1926 27",
+      "creator": "Dr Suvarna Nalapat",
+      "year": 2020,
+      "language": "english-handwritten",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ijels-13-july-august-2024",
+      "title": "Significance of Vachanas",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "TheSatanicVersesOfBhagavad-gita",
+      "title": "The Satanic Verses of Bhagavad-gita",
+      "creator": "Kedar Joshi",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Word Document"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2165090314",
+      "title": "Design Science in the Information Systems Discipline: An Introduction to the Special Issue on Design Science Research",
+      "year": 2008,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "March March",
+        "Veda C. Storey"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W592553992",
+      "title": "Oriental and linguistic studies: The Veda, the Avesta; the science of language.",
+      "year": 1873,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "William Dwight Whitney"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Human Physiology",
+      "authors": [
+        "Tony Nader"
+      ],
+      "year": 1995,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 3,
+      "isbn": [
+        "8175230177",
+        "9781895958065",
+        "9788175230170",
+        "1895958067"
+      ],
+      "publisher": [
+        "Maharishi Vedic University",
+        "Atrium Publishers Group"
+      ],
+      "ol_key": "/works/OL5979130W"
+    },
+    {
+      "source": "open_library",
+      "title": "Sciences in the Vedas",
+      "authors": [
+        "Vaidyanath Shastri"
+      ],
+      "year": 1970,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Sarvadeshik Arya Pratinidhi Sabha"
+      ],
+      "ol_key": "/works/OL297100W"
+    },
+    {
+      "source": "open_library",
+      "title": "Positive sciences in the Vedas",
+      "authors": [
+        "D. D. Mehta"
+      ],
+      "year": 1974,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Arnold Heinemann"
+      ],
+      "ol_key": "/works/OL374265W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "TheSatanicVersesOfBhagavad-gita",
+      "title": "The Satanic Verses of Bhagavad-gita",
+      "creator": "Kedar Joshi",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Word Document"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "on-hinduism-reviews-and-reflections-ram-swarup",
+      "title": "On Hinduism: Reviews and Reflections by Ram Swarup",
+      "creator": "Ram Swarup",
+      "year": 2000,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "the-fundamental-message-of-islam",
+      "title": "The Fundamental Message Of Islam",
+      "creator": "fmoislam@protonmail.com",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2165090314",
+      "title": "Design Science in the Information Systems Discipline: An Introduction to the Special Issue on Design Science Research",
+      "year": 2008,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "March March",
+        "Veda C. Storey"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W592553992",
+      "title": "Oriental and linguistic studies: The Veda, the Avesta; the science of language.",
+      "year": 1873,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "William Dwight Whitney"
+      ]
+    }
+  ]
+}

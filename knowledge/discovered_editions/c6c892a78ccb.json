@@ -1,0 +1,211 @@
+{
+  "title": "agni-puranam (1)",
+  "discovered_at": "2026-07-13T15:51:16.966241+00:00",
+  "edition_count": 10,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "aayurved-saar-darpan-nepali",
+      "title": "Aayurved Saar Darpan Nepali",
+      "creator": "",
+      "year": null,
+      "language": "nep",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "aalvandar-stotram-nepali",
+      "title": "aalvandar-stotram in nepali",
+      "creator": "\u0915\u0941\u0932\u0936\u0947\u0916\u0930 \u0936\u0930\u094d\u092e\u093e",
+      "year": null,
+      "language": [
+        "nep",
+        "Sanskrit"
+      ],
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ramayan-in-nepali",
+      "title": "Ramayan In Nepali 2.4GB",
+      "creator": "Translate in nepali: \u092d\u093e\u0928\u0941\u092d\u0915\u094d\u0924 \u0906\u091a\u093e\u0930\u094d\u092f",
+      "year": null,
+      "language": "nepali",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4205347741",
+      "title": "Exploring the Science of Marma - An Ancient Healing Technique - Part 1: Its Mention in Ancient Indian Scriptures",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://osf.io/e6mhy/download",
+      "authors": [
+        "Alka Mishra",
+        "Vandana Shrivastava"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4385384359",
+      "title": "Pharmacological Importance of Ghrita in Ayurveda",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://ijraps.in/index.php/ijraps/article/download/143/140",
+      "authors": [
+        "Shilpa Shankarrao Walkikar"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "aayurved-saar-darpan-nepali",
+      "title": "Aayurved Saar Darpan Nepali",
+      "creator": "",
+      "year": null,
+      "language": "nep",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "aalvandar-stotram-nepali",
+      "title": "aalvandar-stotram in nepali",
+      "creator": "\u0915\u0941\u0932\u0936\u0947\u0916\u0930 \u0936\u0930\u094d\u092e\u093e",
+      "year": null,
+      "language": [
+        "nep",
+        "Sanskrit"
+      ],
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "antya-karma-paddhati-pdf",
+      "title": "Antya Karma Paddhati in nepali",
+      "creator": "",
+      "year": null,
+      "language": [
+        "nep",
+        "Sanskrit"
+      ],
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4205347741",
+      "title": "Exploring the Science of Marma - An Ancient Healing Technique - Part 1: Its Mention in Ancient Indian Scriptures",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://osf.io/e6mhy/download",
+      "authors": [
+        "Alka Mishra",
+        "Vandana Shrivastava"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4385384359",
+      "title": "Pharmacological Importance of Ghrita in Ayurveda",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://ijraps.in/index.php/ijraps/article/download/143/140",
+      "authors": [
+        "Shilpa Shankarrao Walkikar"
+      ]
+    }
+  ]
+}

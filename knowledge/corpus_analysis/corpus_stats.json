@@ -1,0 +1,13 @@
+{
+  "total_books_analyzed": 8,
+  "language_distribution": {
+    "mixed_hindi_english": 7,
+    "english": 1
+  },
+  "tier_distribution": {
+    "tier1_english_hindi_sanskrit": 8
+  },
+  "books_with_gaps": 8,
+  "books_verified": 8,
+  "books_with_conflicts": 0
+}

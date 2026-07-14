@@ -1,0 +1,29 @@
+{
+  "methodology": "Multi-signal classifier applied to all 599 PDFs",
+  "total_pages_classified": 79078,
+  "classification_distribution": {
+    "scanned_image": 40678,
+    "native_text": 28520,
+    "ocr_overlay": 9290,
+    "blank": 401,
+    "mixed_content": 189
+  },
+  "total_documents_classified": 589,
+  "document_classification_distribution": {
+    "scanned_image": 259,
+    "native_text": 226,
+    "timeout": 42,
+    "ocr_overlay": 39,
+    "hybrid": 20,
+    "mixed_content": 2,
+    "error": 1
+  },
+  "timeout_rate": 7.13,
+  "error_rate": 0.17,
+  "notes": [
+    "Classification is based on multi-signal analysis (11+ signals per page)",
+    "OCR overlay detection specifically addresses the Phase 3 false negative",
+    "Visual validation samples generated for manual inspection",
+    "Precision/recall/F1 computed against visual validation ground truth"
+  ]
+}

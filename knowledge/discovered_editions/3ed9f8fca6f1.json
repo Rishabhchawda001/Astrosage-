@@ -1,0 +1,39 @@
+{
+  "title": "Copy of \u090f\u0915\u0932\u0935\u094d\u092f",
+  "discovered_at": "2026-07-13T12:57:09.751784+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "gurutva-jyotish-july-2020-free-copy",
+      "title": "GURUTVA JYOTISH JULY 2020 Free Copy",
+      "creator": "",
+      "year": 2020,
+      "language": "English",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4410303551",
+      "title": "\u0936\u0915\u0937\u0923\u0936\u0938\u0924\u0930 \u092a\u0926\u0935 \u0938\u0924\u0930\u0935\u0930\u0932 \u0935\u0926\u092f\u0930\u0925\u092f\u091a \u092e\u0915\u0924 \u0936\u0915\u0937\u0923\u0915 \u0938\u0938\u0927\u0928\u092c\u092c\u0924\u091a\u092f \u091c\u0923\u0935\u091c\u0917\u0924\u091a \u0905\u092d\u092f\u0938",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://gurukuljournal.com/wp-content/uploads/2025/05/2504I5VXIIIP0045.pdf",
+      "authors": [
+        "\u0938\u0941\u0928\u093f\u0932 \u092f\u0936\u0935\u0902\u0924\u0930\u093e\u0935 \u0926\u0947\u0938\u0932\u0947",
+        "\u091c\u0917\u0926\u0940\u0936 \u0930\u093e\u091c\u093e\u0930\u093e\u092e \u0915\u093e\u0933\u0947"
+      ]
+    }
+  ]
+}

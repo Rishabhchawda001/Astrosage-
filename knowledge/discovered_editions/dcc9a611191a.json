@@ -1,0 +1,91 @@
+{
+  "title": "\u0917\u0930\u0941\u0921 \u092a\u0941\u0930\u093e\u0923",
+  "discovered_at": "2026-07-13T17:18:54.361290+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "garuda1_202112",
+      "title": "\u0917\u0930\u0941\u0921 \u092a\u0941\u0930\u093e\u0923",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wg1006",
+      "title": "2000 -Garuda Puran",
+      "creator": "",
+      "year": 2000,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "pishachoddharanavidhi-CGV-PSS-0791-1114",
+      "title": "pishachoddharanavidhi-CGV-PSS-0791-1114",
+      "creator": "Chunilal Gandhi Vidyabhavan Surat",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7133354426",
+      "title": "\u092a\u0930\u0923\u0915 \u0915\u0925\u0913 \u092e \u091c\u0935\u0928 \u0915 \u0928\u0924\u0915 \u0924\u0924\u0935",
+      "year": 2026,
+      "is_oa": true,
+      "oa_url": "https://www.allstudyjournal.com/article/1885/8-2-50-350.pdf",
+      "authors": [
+        "\u0921\u0949. \u0938\u093e\u0902\u0924\u094d\u0935\u0928\u093e \u0926\u094d\u0935\u093f\u0935\u0947\u0926\u0940"
+      ]
+    }
+  ]
+}

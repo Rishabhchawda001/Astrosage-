@@ -1,0 +1,28 @@
+{
+  "total_documents": 751,
+  "documents_with_issues": 751,
+  "total_issues": 1202,
+  "issues_by_severity": {
+    "info": 751,
+    "warning": 451
+  },
+  "issues_by_field": {
+    "publisher": 751,
+    "author": 444,
+    "title": 6,
+    "page_count": 1
+  },
+  "completeness": {
+    "uuid": 100.0,
+    "sha256": 100.0,
+    "original_filename": 100.0,
+    "language": 100.0,
+    "extension": 100.0,
+    "title": 99.3,
+    "author": 40.9,
+    "publisher": 0.0,
+    "edition": 0.0,
+    "subject": 9.1,
+    "page_count": 100.0
+  }
+}

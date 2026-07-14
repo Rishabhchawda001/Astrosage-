@@ -1,0 +1,77 @@
+{
+  "title": "Padma Puran 3",
+  "discovered_at": "2026-07-13T14:28:53.425902+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "wg1012",
+      "title": "2011 Or Before -Padma Puran",
+      "creator": "",
+      "year": 2011,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "DrtR_shri-padma-maha-puran-bhumi-khanda-shri-venkateswar-press-mumbai",
+      "title": "Shri Padma Maha Puran Bhumi Khanda Shri Venkateswar Press, Mumbai",
+      "creator": "Shri Venkateswar Press, Mumbai",
+      "year": null,
+      "language": "",
+      "formats": [
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "vasishtha-ramayan-by-ved-vyas-from-padma-puran",
+      "title": "Vasishtha Ramayana (\u0935\u0936\u093f\u0937\u094d\u0920 \u0930\u093e\u092e\u093e\u092f\u0923) By Veda Vyasa From Padma Purana",
+      "creator": "Maharishi Veda Vyasa",
+      "year": 1908,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

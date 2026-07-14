@@ -1,0 +1,101 @@
+{
+  "title": "\u090f\u0915\u0932\u0935\u094d\u092f",
+  "discovered_at": "2026-07-13T17:16:55.612332+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "apu.anuvadasampada.hin.2975.1",
+      "title": "\u0938\u094d\u0915\u0942\u0932\u0940 \u0938\u093e\u092e\u093e\u091c\u093f\u0915 \u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u0915\u093e \u0935\u093f\u0935\u093e\u0926\u093f\u0924 \u0915\u094d\u0937\u0947\u0924\u094d\u0930",
+      "creator": "\u092c\u0924\u094d\u0930\u093e, \u092a\u0942\u0928\u092e",
+      "year": 2011,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "chakmak-217-oct-2003",
+      "title": "\u091a\u0915\u092e\u0915 - \u092c\u093e\u0932 \u092a\u0924\u094d\u0930\u093f\u0915\u093e \u2013 \u0911\u0915\u094d\u091f\u094b\u092c\u0930 2003",
+      "creator": "\u090f\u0915\u0932\u0935\u094d\u092f",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "chakmak-219-des-2003",
+      "title": "\u091a\u0915\u092e\u0915 - \u092c\u093e\u0932 \u092a\u0924\u094d\u0930\u093f\u0915\u093e \u2013 \u0926\u093f\u0938\u092e\u094d\u092c\u0930 2003",
+      "creator": "\u090f\u0915\u0932\u0935\u094d\u092f",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4403502877",
+      "title": "\u090f\u0915 \u0914\u0930 \u0926\u0930\u0923\u091a\u0930\u092f :\u090f\u0915 \u092e\u0932\u092f\u0915\u0928",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://www.ijfmr.com/papers/2024/5/28827.pdf",
+      "authors": [
+        "\u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u091c\u093e\u092f\u0938\u0935\u093e\u0932 -"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7128047798",
+      "title": "\u090f\u0915\u0932\u0935\u092f \u0906\u0926\u0930\u0936 \u0906\u0935\u0938\u092f \u0935\u0926\u092f\u0932\u092f \u090f\u0935 \u0917\u0930-\u0906\u0935\u0938\u092f \u0935\u0926\u092f\u0932\u092f \u0915 \u0935\u0926\u092f\u0930\u0925\u092f \u0915 \u0936\u0915\u0937\u0915 \u0909\u092a\u0932\u092c\u0927 \u092e \u0924\u0932\u0928\u0924\u092e\u0915 \u0905\u0927\u092f\u092f\u0928",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.18503610",
+      "authors": [
+        "Rupal Thakur",
+        "Bela Mery Joseph"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "pipeline_name": "Document Intelligence v1.0",
+  "pipeline_version": "1.0.0",
+  "validation_timestamp": "2026-07-12T00:29:46.969206+00:00",
+  "documents": {
+    "processed": 40,
+    "failed": 0,
+    "failure_rate_pct": 0.0
+  },
+  "pages": {
+    "total": 4721,
+    "native": 12,
+    "scanned": 14,
+    "ocr_overlay": 3,
+    "mixed": 11,
+    "blank": 0,
+    "text_success_rate_pct": 69.5
+  },
+  "extraction": {
+    "total_chars": 7309635,
+    "avg_chars_per_page": 2227
+  },
+  "quality": {
+    "avg_quality_score": 85.0,
+    "documents_above_80": 40,
+    "documents_below_50": 0
+  },
+  "output_validation": {
+    "unicode_integrity_pct": 100.0,
+    "broken_unicode_pages": 0,
+    "devanagari_pages": 268,
+    "latin_pages": 2328
+  },
+  "knowledge_lake_validation": {
+    "bronze_files": 40,
+    "silver_files": 40,
+    "integrity": "PASS"
+  },
+  "provenance_validation": {
+    "integrity": "PASS"
+  },
+  "performance_extrapolation": {
+    "estimated_total_time_hours": 61.8,
+    "estimated_throughput_pages_min": 52.5
+  },
+  "go_nogo": {
+    "recommendation": "GO",
+    "blockers": []
+  }
+}

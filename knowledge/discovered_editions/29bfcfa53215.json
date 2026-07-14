@@ -1,0 +1,117 @@
+{
+  "title": "Sunderkand_Path",
+  "discovered_at": "2026-07-13T15:24:47.424137+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "sundar-kand-path",
+      "title": "\u0938\u0941\u0928\u094d\u0926\u0930\u0915\u093e\u0923\u094d\u0921, \u092e\u0942\u0932 \u092a\u093e\u0920 Sundarkand (\u0917\u0940\u0924\u093e\u092a\u094d\u0930\u0947\u0938)",
+      "creator": "\u092d\u0935\u093f\u0924\u0935\u094d\u092f \u092e\u093f\u0936\u094d\u0930",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "hanumanChalisa_201701",
+      "title": "hanumanChalisa",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "sundar-kand-path",
+      "title": "\u0938\u0941\u0928\u094d\u0926\u0930\u0915\u093e\u0923\u094d\u0921, \u092e\u0942\u0932 \u092a\u093e\u0920 Sundarkand (\u0917\u0940\u0924\u093e\u092a\u094d\u0930\u0947\u0938)",
+      "creator": "\u092d\u0935\u093f\u0924\u0935\u094d\u092f \u092e\u093f\u0936\u094d\u0930",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "hanumanChalisa_201701",
+      "title": "hanumanChalisa",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4302293538",
+      "title": "The concept of life skills employed in the epic Ramayana: A theoretical perspectives",
+      "year": 2022,
+      "is_oa": true,
+      "oa_url": "https://www.allmultidisciplinaryjournal.com/uploads/archives/20221007102623_E-22-57.1.pdf",
+      "authors": [
+        "Mamta Rani",
+        "Anil Kashyap Yogi",
+        "Guru Deo"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4402217626",
+      "title": "Demystifying Maternal Sex and Sexuality: Rhetorical Choices of a Situated Mother",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://journals.publishing.umich.edu/sdi/article/id/6768/download/pdf/",
+      "authors": [
+        "Zairu Nisha"
+      ]
+    }
+  ]
+}

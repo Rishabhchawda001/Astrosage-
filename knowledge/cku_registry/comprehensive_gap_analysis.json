@@ -1,0 +1,8 @@
+{
+  "download_ckus": 151873,
+  "silver_ckus": 78266,
+  "missing_from_silver": 96972,
+  "silver_only": 23365,
+  "common": 54901,
+  "silver_completeness_pct": 36.1
+}

@@ -1,0 +1,3837 @@
+# Sushruta-Samhita
+
+**Document ID:** DOC-F5F80A2314BE
+**Language:** english (latin)
+**Pages:** 534
+**Class:** ocr_overlay
+**SHA256:** `f5f80a2314bea8ba21811f49e9b098077d9f6dbd18560b6ab4f7f23b4684e6dc`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+|
+
+TNA
+
+b
+
+GR
+
+WISH)
+
+‘
+
+US
+
+## Page 2
+
+THE LIBRARY
+OF
+THE UNIVERSITY
+OF CALIFORNIA
+LOS ANGELES
+
+## Page 3
+
+Digitized by the Internet Archive
+in 2008 with funding from
+Microsoft Corporation
+
+http:/www.archive.org/details/englishtranslati03susr
+
+## Page 5
+
+AN ENGLISH TRANSLATION
+THE SUSHRUTA SAMHITA
+
+Vol. Ill.
+
+UTTARA-TANTRA
+
+## Page 7
+
+AN ENGLISH TRANSLATION
+or
+
+THE SUSHRUTA SAMHITA
+
+WITH
+A FULL AND COMPREHENSIVE INTRODUCTION, ADDITIONAL
+
+TEXTS, DIFFERENT READINGS, NOTES, COMPARATIVE
+VIEWS, INDEX, GLOSSARY AND PLATES
+
+(IN THREE VOLUMES)
+
+EDITED hy
+
+KAVIRAJ KUNJA LAL BHISHAGRATNA,
+M. R. A. S. (LoND.)
+
+Vol. III.
+
+ARA-TAN TRA
+
+PUNLISHED BY
+
+S. L. BHADURI, B. L.
+10, KASHI GHOSE’S 1,ANE, CALCUTTA
+
+1916
+
+All Rights Reserved.
+
+The Oriental 2ook-Supplying Agency, Poona.
+
+## Page 8
+
+PRINTED AT THE BHARAT MISIIR PRESS BY M. BHATTACHARYYA OF
+Messrs. SANYAL & Co.,
+25, ROY BAGAN STREET, CALCUTTA.
+
+## Page 10
+
+Kaviraj Kunja -Lall Bhishgraina, M.R.A.S. ( Lond.)
+
+## Page 11
+
+PREFACE.
+
+oa
+
+It was some years ago that we took upon our-
+selves the rather ambitious task of bringing out
+the Sushruta Samhita in English. And we may
+
+mention that the appreciation the first instal-
+
+ment of our undertaking met with at the hands of
+scholars at home and abroad considerably encour-
+aged us in completing this huge undertaking.
+
+We desire to record here our deepest feelings
+of gratitude towards His Highness the Maharaja
+Sir Sawai Jai Singh Bahadoor, K. C. S. 1, of
+Alwar (Rajputana), who has, by his princely
+donation, enabled us to bring this highly import-
+ant work toa completion. —[t is known through-
+out India that the illustrious Ruler of Alwar
+a great patron of letters and a lover of 4
+
+yurvedic
+Science, and many noble undertakings in our
+country have depended largely upon his liberal
+
+support. No words of mine can adequately ex-
+
+press my admiration for the good he is dving to
+our country,
+Now that the whole work is before the public.
+
+its worth and importance will be duly judged
+
+Our translation does not claim to have any  liter-
+ary excellence, as our sole aim has been to render
+as faithfully as we could the original into one
+
+of the European languages. The technical terms
+
+occurring in the Sushruta Sambitt cannot be
+
+## Page 12
+
+il
+
+accurately translated into English, as there are
+ho corresponding words in that language which
+would convey the exact meaning of the original.
+We have therefore retained the Sanskrit terms,
+and have in some cases put within brackets such
+English words as may approximately render the
+meaning of the original.
+
+No apology is needed for placing before
+the learned world of the West a scientific treatise
+of ancient India. We may only mention that
+the Hindu system of medicine is not a thing
+of mere antiquarian interest. It is a living sys-
+tem, and even to-day millions of people in India
+are being treated according to this system. A
+system which has stood the test of centuries, and
+which still holds its own against rival systems of
+the day, cannot be lightly brushed aside as wholly
+unscientific. It has been said that a system
+which recognises prayer as one of the means
+of curing human ailments, can lay no claim to
+any scientific character. All that we need say
+in answer to this criticism is that humanity has
+not yet risen above prayer in any country in the
+world, and faith in the efficacy of prayer in curing
+diseases is, instead of dying out, gaining ground
+in the modern scientific world. Whatever that
+may be, in actual practice, Hindu medical men,
+like their brethren of Europe, rely chiefly upon
+medicine and surgery, but occasionally prescribe
+prayer also as an efficient form of remedy, While
+recognising the influence of mind on body, and the
+
+## Page 13
+
+iii
+
+efficacy of faith in certain
+treat it as a special method
+
+forms of disease, they
+. falling more properly
+
+within the province of priests.
+
+A few words, howev
+
+show what abiding interes
+
+in such a work as the Sus
+not wish to enter into an
+prove that the different s
+other countries, new or o|
+than a mere stimulus fro:
+
+er, seem necessary to
+t there is for all time
+hruta Samhita. We do
+y historical criticism to
+ystems of medicine in
+d, have received more
+
+m the Indian System,
+
+and that many foreign discoveries may be traced
+
+to the work we are now
+
+presenting to the world.
+
+‘The opinions of some modern men of science. who
+
+cannot be accused of having any bias in favour
+of our system, will demonstrate its abiding value.
+Surgeon General Sir Pardey Lukis, M. D.,
+
+I. M.S. Kk. C.S. 1., Director-General of Indian
+Medical Service, was pleased to remark in the
+course of his speech in the Imperial Legislative
+Council :—" Many of the so-called discoveries of
+recent years are merely re-discoveries of the facts
+known centuries ago to the ancients (Indians).”
+In noticing the first volume of this very work, the
+3ritish Medical Journal observed in its issue of
+
+vember, 1912: It is certain that in this an-
+cient medical book there are traces of knowledge
+which is comparatively recent in the West.”
+
+We do not know what reception will be ac-
+corded to this work by the public, but we may
+fairly hope that now that the ancient Indian
+Medical System and the Indigenous Drugs of
+
+## Page 14
+
+iv
+
+this country are being investigated by scientific
+
+experts under the direction of the Government
+of India, this ancient system of Medicine and
+Surgery will attract the attention of those who
+hitherto neglected it as unworthy of notice.
+The encouragement which we have received
+
+hav
+
+from the Governments of Bengal and Nepal and
+from the States of Baroda and Mysore, has helped
+us a great deal and we take this opportunity
+of expressing our gratitude towards them. The
+active help extended to us in the preparation
+of this work by VWaidyaratna NKaviraj Jogindra
+Nath Sen, Vidyabhusan, M. A., Kaviraj Madhav
+Chandra Tarkatirtha, Kaviraj Jnanendranath Sen,
+Kaviratna, B. A., Prof. Satyendranath Sen, Vidys-
+vagis’a, M. A.. and Babu Sachindralal Bhaduri,
+B. A., B. L., we also specially and thankfully
+acknowledge. We offer our sincerest thanks also
+to Dr. U. D. Banerjee, L. R. C. P., M.R.C. S.
+Dr. Y. M. Bose, M. D. (Chicago), and Kaviraj
+Surendranath Goswami, Vidyavinode, B. A.,
+L. M. S. who have never failed to give us_ their
+valuable suggestions whenever we have sought
+their advice.
+
+10, KASHI GHOSR’S LANE, i)
+CaicuTta, KUNJA LAL BHISHAGRATNA,
+May 25, 1916. J
+
+## Page 15
+
+CONTENTS.
+
+(Urrar.
+
+‘ANTRA.)
+
+CHAPTER IL.
+
+Diseases of the eyes, etc. ;—Discases of the eye and its append-
+ages—Description of DrishtimMandalas and Sandhis—Description of
+Patalas—Premonitory symptoms—Causes of cye-liseases—Classification—
+of Vétaja—Pittaja—Kaphaja—Raktaja and Tri-doshaja_eye-
+
+1-8
+
+CHAP
+Pathology of the diseases of the eye-joints :—Thcir nomencla-
+ture—Number—Symptoms. —... “0 ss On
+
+CHAPTER IIL.
+Pathology of the diseases of the eye lid:
+
+Specific symptoms of Utsangini—Kumbhika—Po
+
+Causes and names:
+
+Anjana—Klishta-vartma—Vartma-bandhaka, ete. ete. a 115,
+
+CHAPTER IV.
+
+Pathology of the diseases of the sclerotic coat
+ymptoms of S'ukhirma—Lohitirma—S’uktiks
+
+grathita, cles ete.
+
+CHAPTER V.
+
+Pathology of the diseases of the black part of the eye :—
+anastukra Jitas p
+
+Nuwber—Names—Symptoms—Prognosis—\
+
+Stukra—Akshi
+
+18-19
+
+## Page 16
+
+ii CONTENTS,
+
+CHAPTER VI.
+
+Pathology of the diseases affecting the eyes as a whole :—
+Names and Causes—Symptoms of Vataja—Pittaja—Kaphaja and Raktaja
+Abhishyanda—Causes of Adhimantha—Symptoms of Vdtaja—Pittaja—
+Kaphaja—and Raktaja Adbimantha—Prognosis—Symptoms of Sa-s‘opha
+and A-sfopha Akshi-péka—Symptoms of Hatddhimantha—Vata-pary4ya
+—S'ushkakshi-péka—Anyato-véta— Amli-dhyushita — S’irot-pita—Sird-
+harsha. on an oD on v1 2024
+
+CHAPTER VII.
+
+Pathology of the diseases of the Pupil :—Description of Drishti
+—Symptoms—When first—second—third and fourth Patola attacked—
+Blindness—Specific symptoms of VAtaja—Pittaja—Kaphaja and Sdnni-
+pitika Timira—Pariml4yi—Different colours of the pupil in cases of
+Linga-nds'a—Specific traits of Vétaja—Pittaja—Kaphaja—and Sénnipatika
+Linga-nis'a—Traits of Vataja—Pittaja—and Kaphaja Vidagdha-Drishti—
+Smoky  sight—Hrasva. EE SEIS po See of
+traumatic Linga-nds'a. oe + “0 ws 25-31
+
+CHAPTER VIII.
+
+Classification and treatment of ocular affections :—Classi-
+fication—Names of Chhedya—Lekhya—Bhedya—Vyddhya eye-diseases
+—Names of eye-diseases where operation not to be risked—Names of
+
+curable and incurable eye-diseases. 32-33
+
+CHAPTER IX.
+Treatment of Vataja Ophthalmia :—Tarpana—Puta-paka—
+Fumigation —Snuff—Wash—Eye-drop—Collyrium—Treatment of Anyato-
+vata—Vata-parydya—S'ushkakshi-pika, os 34-37
+
+CHAPTER X.
+Treatment of Pittaja Ophthalmia :—Tarpana measures—Wash
+Snuff—Anjana—Rasa-kriyé—A's/chyotana—Treatment of | Stukti-paka
+and Dhuma-dars’i. we o os as 3840
+
+## Page 17
+
+CONTENTS. iii
+
+CHAPTER XI.
+
+Treatment of Sleshmaja Ophthalmia :—Fomentation—Anjana
+—Treatment of Balésa-grathita—Pishtaka—Praklinna-vartma, ... 41-46
+
+CHAPTER NII.
+
+Troatment of Raktaja Ophthalmia :—Venesection—Inhalation
+—Eye-drop—Snuffs— Plaster— Vartis— Treatment of Stirotpéta— Siré-
+harsha—Arjuna.—Scarifying— Anjana—Treatment of S‘ukra— Kshéra-
+Anjana—Soothing applications—Treatment of Ajaka—Akshi-pika—Puyd-
+Jasa—Praklinna-Vartma and Aklinna-Vartma, ai oe 4753
+
+CHAPTER XIII.
+
+Treatment of Lekhya-roga :—Mode of treatment by Scarification
+—Satisfactory—defective and excessive scarification—Names of diseases
+
+54-56
+
+amenable to scarification,
+
+CHAPTER XIV.
+Treatment of eye-diseases which require Incision :—Treat-
+ment of Visa-granthi—Lagana—Anjana—Krimi-granthi and Upandha.—
+
+Application of Sneha and Sveda. oD oD 57-58
+
+CHAPTER XV.
+
+Treatment of eye-diseascs which require Excision :—Treat-
+ment of Armans—Preliminary actions—Mode of operation—Medicinal
+treatment—Treatment of Sird-j4la—Sirdija-pidakd—Parvanik 4. —Churna-
+Anjana—Treatment of the inner part of the eye-lids. ws 59-63
+
+CHAPTER XVI.
+
+Treatment of diseases peculiar to eye-lashes and eye-lids :—
+Surgical treatment of Pakshma-kopa—Preliminary actions—Mode of
+operation— Cauterisation and other measures. i vs 6465
+
+## Page 18
+
+iv CONTENTS.
+
+CHAPTER XVIL
+
+Treatment of diseases of pupil and crystalline lens :—General
+treatment of Pitta and S'leshma-Vidagdha-Drishti,—Pushp4njana—
+Dravanjana—Gudikdnjana — Treatment of Day-blindness — Nocturnal
+blindness—Application of | Vartis —Rasa-kriyénjana—Kshudranjana—
+Treatment of a palliative type—Triphalé-Ghrita—Névana-errhines—Puta-
+pika—Pratyanjana—Treatment of Pittaja—VAtaja—Kaphaja and Tri-
+doshaja Kacha—Pumigation—Treatment of Parimlyi—Diet—Blood-
+letting—Treatment of Timira—Prognosis—Surgical treatment of Kaphaja
+easures—Symptoms and treatment of the disorders
+
+Linga-nasa—lis after
+resulting from an injudicious operation—Causes of relapse—Symptoms
+produced by the defects of the S’aldk4—Description of the S'aléké—
+Derangements due to defective operations—Their treatment—Eyessigit-
+66—S3
+
+invigorating Anjanas and Vartis. . aD
+
+CHAPTER XVIIL
+
+Preparations and medicinal measures for ocular affections
+in general :—The Tarpana measures—Mode of application—Symptoms
+of satisfactory excessive and defective Tarpana—Treatment of excessive
+and defective Tarpana—Cases of ‘Tarpana—The Puta-paka measur
+Emulsive—Scraping and Healing Puta-péka—Preparations of Snehana—
+Lekhana and Ropana Pata-péka—Prohibition and Remedies for infringe-
+ments—Symptomis of satisfactory —excessive—and defective applications of
+Puta-paka—Mode of preparing Puta-paka—Mode of application—As‘chyo-
+tana and Seka—their classes— Maximum time for Seka—Time for appli-
+cation—S'iro-vasti—Lekhana—Ropana and Prasddana Anjana—Forms of
+Anjana—Their size and dose—Materials of vessels and rod for the use of
+Anjana—How to apply Anjana—Forbidden cases for the application of
+Anjana—Symptoms of satisfactory—excessive and deficient use of
+
+Lekhana Anjana—D'rasddana Anjana—Ropana Anjana—Recipe of several
+principal Anjanas—Bhadrodaya-Anjana—Vartis—Pinddnjana. ... 84—101
+
+CHAPTER NIX.
+
+Treatment of hurt or injnry to the eye :—General Treatment—
+Prognosis—Treatment of sunken eye—Symptoms and treatment of Kuku-
+se 102 105
+
+naka—Conclusio
+
+## Page 19
+
+CONTENTS. v
+
+CHAPTER XN.
+
+Causes and symptoms of Ear-disease ;—Classifications—Symp-
+toms of Karna-s‘ula—Prandda—Vddhirya—K shveda—Karna-srava—Karna-
+kandu—Karna-gutha—Karna-pratingha — Krimi-karna—Karna-vidradhi—
+Karna-pika—Pati-karna. oo an ve 106-108
+
+CHAPTER XXI.
+
+Medical Treatment of Ear-disease :~ General Treatment—
+Treatment of Vataja ear-disease—Karna-s'u!a—Prandda—and Vadhiryya.
+—S'iro-vasti—Dipiké-Taila—Different kinds of Ear-drop=-General and
+specific treatment of Pittaja car-ache and Kaphaja Karna.s‘ula—
+Treatment of Deafnes
+ava Krimi
+
+-—General and Special Treatment of Puti-karna—
+
+Karna-sr: arma — Karna-kshveda — Vidradhi, etc. ~ Karna-
+
+kandu—Karna-paka. ve aS on ws 1OQ—117
+
+CHAPTER NNIL.
+
+Causes and symptoms of diseases of the nose :— Nomenclature
+and Classification—Symptoms of | Apinasa—Puti-nasya—Niisi-paika—
+Rakta-pitta—Puya-rakta— Kshavathu—Bhrams’athu — Dipti—Pratinéha—
+
+Parisrdva—Pari-s’osha—Ars’'as—S’opka—Arvuda—ratis’yiiya 118120
+
+CHAPTER XNIII.
+
+Apinasa
+rakta—Kshavatha—Bhrams’athu—Dipti—Nasdniha — Nasi-s
+sfosha ete.
+
+CHAPTER XXIV.
+
+Symptoms and treatment of Catarrh :—Causes—Premonitory
+symptoms--Specific symptoms of Vataja —Pittaja—Kaphaja—Tri-doshaja
+Vrognosis— General treatment of Pratis'ys
+
+types—Raktaja-pratis'ya
+
+Regimen of diet and conduct—reatment of V'étaja—Vittaja—Kaphaja—
+and Tridoshaja types... om os we 12}=130
+
+## Page 20
+
+vi CONTENTS.
+
+CHAPTER XXV.
+
+Symptoms of diseases of the head :—Classification—Symptoms
+of Vataja—Pittaja— Kaphaja—Tri-doshaja—Kshayaja—Raktaja—Krimija
+Stiro-roga—Symptoms of Suryvarta—Ananta-vata—Ardhiva-bhedaka—
+and S‘amkhaka, a ED Bb as 131133
+
+CHAPTER XXVI.
+
+Treatment of diseases of the head:—Treatment of Vataja—
+Pittaja—Raktaja S'viroroga—Food—Treatment of Kaphaja—Tri-doshaja
+Kshayaja—Krimija—Ardhdva-bhedaka— Ananta-véta—and S'amkhaka, —
+Conclusion... bo oo ao ws 134-140
+
+Here ends the Saldkya-Tantra.
+
+CHAPTER XXVII.
+
+Specific features of nine malignant Grahas :—Different names
+—General course of attack—Symptoms of attack by Skanda—Skandapa-
+ra—S’akuni —Revati—
+
+sn
+
+mandiké—Naigamesha —Prognosis—Rules to be observed.
+
+CHAPTER XXVIIL
+
+Therapeutics of an attack by Skanda Graha
+ment—Fumigation—Mantras ws 145146
+
+seneral treat-
+
+CHAPTER XNXIX.
+
+Therapentics of an attack by Skandapasmdra :—General treat-
+{—prinkling—Anointment— Utsddana—Fumigation—Religious pro-
+ve 147-148
+
+jation—Mant!
+
+CHAPTER »
+
+Treatment of an attack by Sakuni graha :—Sprinkling—Anoint-
+ment—Pradeha—Fumigation—Religious propitiation—Mantras. 149150
+
+## Page 21
+
+CONTENTS. vii
+
+CHAPTER XXXL.
+
+Theraputics of an attack by Revati-graha
+ment—Plaster—Religious propitiation— Mantras.
+
+-—Sprinkling—Anoint-
+151152
+
+CHAPTER XXXII.
+
+Treatment of an attack by Putana-graha :—Washing—Anoint-
+ment—Fumigation—Religious propitiation—Mantras. we 153154
+
+CHAPTER XXNXIII.
+
+Treatment of Andha-putana-graha :—Sprinkling—Plaster—Fumi-
+gation—Religious propitiation—Mantras. om a 155156
+
+CHAPTER NXNIV.
+
+Treatment of an attack by Sita-putand :—Sprinkling—Fumi-
+gation—Anointment—Religious propitiation—Mantras. rn 157
+
+CHAPTER XXXV.
+
+Treatment of an attack by Mukha-mandika :—Spriokling—
+Anointment—Fumigation—Religious propitiation—Mantras ... 158
+
+CHAPTER XXXVI.
+
+Treatment of an attack by Naigamesha
+ment—Utsdana—Fumigation—Religious propitiation—Mantras. 159—160
+
+prinkling—Anoint-
+
+CHAPTER XNXVIL.
+
+Origin of nine Grahas :—The nine presiding deities. ... 161-163
+
+CHAPTER XXXVIIL
+
+Symptoms and Therapeutics of the diseases of the female
+organ of generation :—Causes.—Enumeration—Classification—Names
+—Symptoms of Vataja—Pitt Kaphaja—and Tri-dosbaja types—
+Medical treatment.—Internal and External treatment, vs 164-168
+
+Here ends the Kaumara-bhritya-Tantra.
+
+## Page 22
+
+CONTENTS.
+
+CHAPTER XXXIX.
+
+Symptoms and Treatment of Fever :—Descriplion of Jwara—
+Definition and classification—Pathology—Premonitory symptoms—Symp-
+toms of Vétaja—Pittaja—Kaphaja and Tri-doshaja fever—Abhiny.sa-
+fever—Hatanjas — Sannyésa—Dwandaja_fever—Vata-pitta-fever — Vata-
+S'leshma-fever—Pitta-S'leshma fever—Pralepaka—Tritiyaka (tertian) and
+Chaturthaka (quartan) fever—Vishama-fever—Seat and duration of Vishama-
+jwara—Satataka—Anyedyushka—Tritiyaka—Chaturthaka —Action—Influ-
+yu on Vishama fever—Agantuka fever duc to the effects of poison
+neral treatment— Fast-
+
+ence of
+—Hay-fever—Gambhira fever and its prognosis—
+ing—Probibition of fasting—Effect of fasting—Satisfactory and exces
+fasting—Tepid water—Cold water—Peyé—Vavgu—Symptoms of Vakva
+vara—Time for administering febrifage—Preliminary treatment
+—Application of Vasti_ and S'iro-virechana—Administration of Ghrita—
+Diet—Léja-tarpana—Mitk as a dict—Meat-diet—Prohibitions in fever—
+Sams'amana decoctions for Vataja—Pittaja and Kaphaja fever—Treat-
+ment of Kapha-Vata—Pitta-S'leshma—Viita-pitta fever and Tridoshaja
+shama-jwara—Chrita in cases of Vishama fever—
+kalydna-ghrita — Panch
+
+ive
+
+fever—Treatment of
+Guduchyddi-ghrita — Kalasydi-ghrita — Mah
+gavya ghrita— Triphald-ghrita—Pancha-sira—Medicated Tailas—Fumig
+tions and Anjanas—Treatment of shivering and burning sensation—General
+and specific treatment of the complications—A pplication of Vastis—Symp-
+169—211
+
+toms of the remission of fever.
+
+CHAPTER XL.
+
+Symptoms and treatment of Diarrhoea, ete :—Causes—latho-
+logy—Dremonitory symptoms—Symptoms of Viitaja—Pittaja—Kaphaja
+and Tri-doshaja types—Symptoms of S’okaja and Amaja Atisira—Symp-
+toms of Ama and Pakva Atisira—Prognosis—Ueneral treatment—Twenty
+different Recipes for Amétisira—Fasting—Six Yogas for Pittaja Atisdra—
+Astringent remedies—Application of Ghrita—Putapéka-preparations—
+Treatment of thirst—Use of milk—Asthpana and Anuvisana Vastis
+—Pichchhii-Vasti—Diet — nd symptoms of Pakviitisira—Trcatment
+and Symptoms of Pravahika—General Treatment—Application of Vastis
+—Diet—Medical treatment—Yavagu—General principle of treatment—
+Indications of cure—Static or dynamic causes of diseases and treatment—
+Grahani—Premonitory symptoms of —Grahani—Symptoms—Specific
+symptoms of Vétaja—Pittaja—Kaphaja and Tri-doshaja Grahani—Treat-
+212-236
+
+a:
+
+ment and dict. ...
+
+## Page 23
+
+CONTENTS. ix
+
+CHAPTER XLI.
+
+Symptoms and Treatment of Phthisis :—Nomenclaturc—S’osha
+—Kshaya—Réja-yakshu tivlogy and general symptoms—Specilic
+symptoms of Vitaja—Pittaja and Kaphaja types—Prognosis—Other causes
+of S’osha and their symptoms—Premonitory symptoms—Prognosis—Treat-
+ment—Diet—Meat, etc. —Utsddana— Medicated Ghritas—Elidi-mantha—
+Use of goat’s flesh, milk, etc.—Rules of conduct. vee 237-245
+
+CHAPTER XLII.
+
+Symptoms and Treatment of Gulma :—Detinition and Number—
+Localisation and Nomenclaturc—Premonitory Symptoms—Specific Symp-
+toms of Vétaja—Pittaja—Kaphaja and Tri-doshaja types—Symptoms of
+Raktaja Gulma—General Treatment of Viitaja—Pittaja—Kaphaja—Tri-
+doshaja and Raktaja types — Uttara-Vasti — Anuvasana — Chitraka-
+ghrita — Hingvadi-ghrita — Dédhika-ghrita —Rasona-ghrita,—Ghritas in
+Pitlaja—Raktaja and Kaphaja Guhna.—Intcrnal use of Kshara—Vris'chi-
+ratishta—Blood-letting—Diet and Sveda,—Peyi—Khada-yusha—Fomenta-
+tion—Medicated plugs—Supervening symptoms — Prohibited articles—
+Causes and Symptoms of Sula—Symptoms of Vataja—Pittaja—Kaphaja
+and Sdnnipdtika S’ula.—General treatment—Treatment of Vataja—
+Pittaja—Kaphaja and Tri-doshaja S'ula.—Symptoms and treatment of
+Pargva-S’ula.—Symptoms and treatment of Kukshi-S’ula.—Symptoms
+and treatment of Hrich-chhula, —Symptoms of Vasti-S’wla—Mutra-S’ula
+—Vit-S’ula and Annaja s‘ula.—Their treatment. ve 246264
+
+CHAPTER XLII.
+
+Symptoms and Treatment of Heart-disease :—WMticlogy and
+Nomenclature—Number—specifie Symptoms of Viitaja—Pittaja—Kaphaja
+and Krimija_ types—Supervening — Symptoms—Medical treatment of
+Vataja—Pittaja—Kayhaja and Krimija types... 265-268
+
+CHAPTER XLIV.
+
+Symptoms and Treatment of Jaundice, etc. tiology and
+Nomenclature—Premonitory Symptoms—Specific Symptoms of Vétaja—
+Vittaja — Kapbaja and Tri-doshaja types — Symptoms of Kémaléi—
+Kumbba-K dimalé—Lagharaka and Halimaka.—Supervening Symptoms
+
+## Page 24
+
+CONTENTS,
+
+General treatinent ~Treatment of — Kéiali—Kumbba-k4malé—Ligha-
+raka,—Articles of Diet—Treatment of Supervening Symptoms — Prog-
+nosis. oo to c. a sss 269-276
+
+CHAPTER XLV.
+
+Symptoms and Treatment of Hemorrhage :—Cause and Patho-
+logy—Prognosis—Premonitory Symptoms—Supervening Symptoms—Symp-
+toms of incurable types—General principles of treatment.
+Purgative—Fasting—Articles of fare—Diet—Lambatives—The best. six
+Yogas—Asthdpana and Anuvésana—Treatment of down-coursing type—
+Uttara-vasti. ... ke ee oe vee 277-284
+
+imetic—
+
+CHAPTER XLVI.
+
+Symptoms and Treatment of Fainting fits :—Detinition—Classi-
+fication—Premonitory symptoms—-Specific symptoms—Gencral treatment
+Specific treatment.—Symptoms of Sannyasa—Treatment—Incurable
+type—Diet. an on aD vs 285—288
+
+CHAPTER XLVII.
+
+Symptoms and Treatment of Alcoholism :—Propertics and
+action of wine—Evil effects of drinking—Thrce stages of Alcoholic intosica-
+tion—Cases where wine is probibited.—Specific symptoms of Pdndtyaya
+symptoms of Vétaja—Pittaja— Kaphaja and Tri-doshaja types—
+nada—Pandjirma—and Péna-vibhrama —Prognosis—
+
+doshaja and Dvi-doshaja
+-Paéna-vibhrama and
+
+Symptoms of Par:
+Treatment of Vataja—Pittaja—Kaphaja—Ti
+types, —Panaka—Treatment of Para-mada—Panajima
+fityaya—Treatment of Thirst—Remedics for Diha,—Symptoms and
+treatment of Raktaja.-Diha.—Diiha due to  thirst—Accumulation of
+blood—Due to Kshaya—Due to hurt of Manna,—Their Treatment—
+Mode of drinking wine. ... ee ce vs 289—301
+
+CHAPTER XLVIIIL.
+
+Symptoms and Treatment of thirst :—Etiology—Classification—
+Premonitory symptoms—Symptoms of Vataja—Pittaja—and Kaphaja
+types-—Symptoms of Kshataja—Kshayaja—Amaja and Annaja thirst.—
+Prognosis—General treatment—Speci fic treatment—Treatment of Kshataja
+—Kshayaja and Amaja thirst.—General treatment. ws 302-308
+
+## Page 25
+
+CONTENTS. xt
+
+CHAPTER XLIX.
+
+Symptoms'and Treatment of Vomitin;
+clature—Premonitory symptoms—Specifie symptoms of Vitaja—Pittaja—
+Kaphaja—and Tri-doshaja types—Traumatie cases—Prognosis—General
+treatment—Treatment of Viitaja—Kaphaja and Pittaja types. —Vomiting
+due to pregnancy. —Treatment of traumatic and Krimija types.—General
+treatment—Diet. ves ey vo 309313
+
+Causes and Nomen-
+
+CHAPTER L.
+
+Symptoms and Treatment of Hic-cough :—Causes—Derivation
+—Classification—Premonitory symptoms—Symptoms of Annajéd—Yamala
+—Kshudrikéa—Gambhiri—and Mah4-hikkaé.—Prognosis—Their treatment
+—Four liquid compounds—Meat as diet. a ve 314318
+
+CHAPTER LI.
+
+Symptoms and Treatment of Asthma :—Etiology—Classification
+—Premonitory symptoms—Specific symptoms of Kshudra—Tamaka—
+Pra-tamaka—Chhinna—Mahi—and_Urdhva-S’visa.—Prognosis—General
+treatment, — Hinsrddi-ghrita — S'ringvadi-ghrita—Suvahddi-ghrita—Tali-
+sfédi-ghrita — Meat as diet.—The five Lambatives—Utkiriké—Articles
+pplication of Sneha and Dhuma — Purging and
+
+319-325
+
+recommended —
+Vomiting.
+
+CHAPTER LIL.
+
+Symptoms and Treatment of Cough :—Causes and E
+Classification—Premonitory symptoms.—Specific symptoms of Vataja—
+Pittaja—Kshataja and Kshayaja types.—General Treatment—Inhalation
+of Dhuma—Treatment of Vitaja — Pittaja — Kaphaja—Kshayaja and
+Kshataja Késa.—Kalyana-gnda—Agastya-leha.... ss 326-337
+
+iology—
+
+CHAPTER LIL
+
+Symptoms and Treatment of Hoarseness :—!tivlogy—Symptoms
+of Vétaja — Pittaja — Kaphaja and Tri-doshaja types. — Symptoms of
+Kshayaja and Medoja types —Prognosis—General Treatment—Treatment
+of Vataja -- Pittaja — Kaphaja — Tridoshaja — Kshayaja and Medoja
+types. on an 335-337
+
+## Page 26
+
+xii CONTENTS.
+
+CHAPTER LIV.
+
+Symptoms and Treatment of Worms :—Causes—Classification—
+Namesand symptoms of Purishaja—Kaphaja—Raktaja worms.—Specific
+causes—Genetal symptoms — Prognosis—Thcir Treatment. —Treatment of
+Romada and Dantdéda worms—Diet. ... os wee 338-343
+
+CHAPTER Lv.
+
+Symptoms and Treatment of Udavartta :—Causes—Classifica-
+tion—Symptoms of Vtaja—Purishaja—Mutraja Udavarta, Repression of
+Yawning—Tears—Sneezing—Eructation— Vomiting — Seminal discharge
+—Hunger—Thirst—Breath and Sleep.—Prognosis—Their General Treat-
+ment—Their Specific treatment.—Treatment of Adhména.—Udavartta due
+to errors of diet—Its treatment. - oy see 4435S
+
+CHAPTER LVI.
+
+Symptoms and Treatment of Visuchika :—Causes—Definirion
+—Symptoms—Alasaka—Vilambika —Prognosis — General Treatment
+—Kshérdgada—Kaly4na-lavana—Dict.—Causes and Symptoms of Andha
+Treatment, ... om ap oD se 352356
+
+CHAPTER LVIL
+
+Symptoms and Treatment of Arochaka :—Etiology—Classifica-
+tion—Symptoms of VAtaja—Pittaja— Kaphaja and Tri-doshaja types.
+—Their Treatment — Four specific Lambatives — Regimen of diet —
+Use of decoction — Arishta and Asava, — Treatment of Mdnasa
+Arochaka. ap on a vs 357-360
+
+CHAPTER LVIIL.
+
+Symptoms and Treatment of suppression of rebuitize =Classifi
+tion—Symptoms of Vita-kundaliki—V4
+—Mutra-jathara—M utra-sanga—Mnutra-kshaya — Mutra-granthi — Mutra-
+sarkaré—=-Ushna-véta and two kinds of Mutranka-shda,—General treatment
+—Application of Uttara-Vasti. se 361368
+
+## Page 27
+
+CONTENTS. xiii
+
+CHAPTER LIX.
+
+Symptoms and Treatment of the defects of Urine :—Classi-
+fication—Symptoms of Vitaja—Pittaja—Kaphaja and Sinnipitika types
+Ulcer or injury in the Urethra—Mutré-ghéta due to Stone or Gravel—
+General Treatment—Treatmet of Vataja—Pittaja—Kaphaja and Tri
+doshaja types. —Treatment of Abbighstaja and Purishaja types. 369-372
+
+Here ends the Kaya-chikitsd.
+
+CHAPTER Lx.
+
+Symptoms and Treatment of the diseases brought on through
+Superhuman influences :—Action of Graha—Causes of influence by a
+Graha—Indications of attack by Grahas—Deva-graha— Asura-graha—Gan-
+dharva-graha—Yaksha-geaha—Pitri-graha— Bhujanga-graha — Réksbasa-
+graha and Pis'4cha-graha.—Progonosis—Times of their Possession—Ex-
+planation of Bhuta-vidya.—Gencral and religious treatment—Their specific
+
+religions treatment—Medical treatment—Special treatment. ... 373-380
+
+CHAPTER LXI.
+
+Symptoms and Treatment of Apasmara :—Derivative signi-
+ficance—Causes—Nomenclature—Premonitory Symptoms—Symptoms of
+Vataja—Pittaja— Kaphaja and Sannipdtaja types. — Discussion on its
+causes. — General treatment—Specific treatment — Siddhdrtha.ghrita—
+Pancha-gavya-ghrita—General treatment—Preparation of special wine—
+Venesection. ... on a on ass 381=386
+
+CHAPTER LNII.
+
+Symptoms and Treatment of Insanity :—Derivation—Classi-
+fications of VAtaja—Pittaja—Kaphaja and Tri-doshaja types—Symptoms
+of Sfokaja and Vishaja types—General treatment—Treatment by. fri
+ing acts—Diet—Mah4-Kaly.ina-ghrita — Kalysna-ghrita — Pha
+Vartis—Venesection, on oe
+
+Here ends the Bhuta-Vidya-Tantra.
+
+## Page 28
+
+xiv CONTENTS.
+
+CHAPTER LXIIIL.
+
+Different Combinations of six different Rasas :—Taken two at
+a time—Three at a time—Four at a time—Five at a time—Six ata time—
+One at a time. wo . xo see 392-395
+
+CHAPTER LXIV.
+
+Rules of Health :—Indications of Health—Its importance—Regimen,
+of diet and conduct in the rainy season—Rules for autumn—Hemanta—
+Winter—Spring—Summer and for Privrit.—Different kinds of food—
+When and how to be taken.—Ten proper times for administration of
+Medicines—Their names—Definitions and Effects—Droper time for taking
+
+food. a 396—405,
+
+CHAPTER LXV.
+
+The Technical terms used in the treatise :—Names of the
+Technical terms—Necessity—Thcir definitions and examples. 406413
+
+CHAPTER LXVI.
+
+The different Modifications of the different Doshas :—
+Number of different diseases. —Number of drugs,—Different_ combinations
+of the three Doshas—Their number... bee wee 41G—416
+
+End of the Contents of the Uttara-Tantra.
+
+## Page 31
+
+.
+THE
+SUSIIRUTA SAMHITA.
+UITARA-TANTARAM.
+
+(SUPPLEMENTARY PART OF TILE TREATE
+
+CHAPTER I.
+
+Now we shall discourse on the chapter which deals
+with the discases, viz., of the eye, etc. (Aupadravi-
+kam adhyayam). «.
+
+Here commences that portion of the Susruta
+Samhita which is known as the Uttara Tantra (the
+supplementary part) to which references have been often
+
+‘made in the preceding one hundred and twenty chapters,
+as the fit place wherein to revert in detail to the topics
+cursorily mentioned therein. ‘This part comprises
+within it the specific descriptions of a large and a varied
+number of diseases, viz., those which form the subject
+matter of the Sdldkya-Tantra (Diseases of the cyc,
+car, nose and throat) as narrated by the king of
+Videha ; the «xtiology and symptomatology, etc. of
+diseases peculiar to infants and women (Kaumdra-
+bhritya), the pathology, ctc., of those diseases mentioned
+in the six books of the Practice of Medicine par
+excellence (Kaya-chikitsd) compiled by the holy sages of
+old and diseases known as Upa (eg. Bhutopasarga
+
+## Page 32
+
+2 THE SUSHRUTA SAMHITA, (Chap. I.
+
+—Demonology) as well as diseases of traumatic origin
+are also included in this supplementary text*. Herein
+are also mentioned the sixty-three combinations of the
+six different Rasas (tasces) as well as the laws of health
+and hygiene with their rationale (rules, interpretation
+
+ifications of different
+
+and reasonings) and the ci:
+Doshas and organic principles of the body and various
+accessorics and remedial agents required for their
+
+successful treatment and cure. 2.
+
+I shall now begin with the description of the num-
+bers, the pathology and the curability or incurability
+of those specific ailments of the body which are peculiar
+to the region of the head out ofa myriad of other
+distempers reserved for treatment in this portion of the
+work (Uttara-tantra) which may be compared to the
+unfathomable deep in respect of the vastness of its
+depth and magnitude. 3.
+
+Diseases of the eye and its append-
+ages :—The cyc-ball (Nayana-Budbuda) is two
+fingers (about an inch) in transverse diameter, about the
+breadth of one's own thumb in depth (Sagittal diameter),
+and two fingers and a half all round (in circumference).
+The eye-ball is almost round in shape and resembles
+the teat of a cow. It is made up of all the (five)
+elements of which the universe is built up. The element
+of the ‘soiid’ earth (Bhu) contributes to the formation
+of its muscles, the element of ‘heat’ (Agni cr Tejas)
+
+is in the blood (that courses in its veins and arteries),
+‘the gaseous element’ (Vayu) contributes to'the formation
+of the black part (Iris, ete.) in which the pupil is situated,
+the fluid element (Jala) preponderates-in the -lucid
+
+(1) The text has A’gantuka (traumatic ‘diseases). Gayadiisa explains
+
+it to mean Apasméra, UnmAda, etc. (Hysteria, insanity, etc. ),
+
+## Page 33
+
+Chap. I. ] UTTARA-TANTARAM. 3
+
+(white) part (Vitreous body) and the void (ethereal)
+
+Space (Al
+ducts or s
+
+a) is there to form lachrymal or the other
+cs (Asrumarga) through which the secretions
+are discharged. 4. :
+
+I shail now proceed to describe the Drishti (the cen-
+tral part of Retina—Macula Lutea’) as set forth by
+expert ophthalmic physicians. The black portion of the
+eye (Krishna-mandaia—Choroid) forms one third part
+of its whole extent whiic the Drishti, according to them,
+occupies only one-seventh part of the Krishna-mandala.
+The Mandalas or sub-divisions or circles of the eyc-bail,
+the Sandhis or Joints (parts where these sub-divisions
+meet with one another) and the Patal:
+
+as (layers or coats)
+of the eye are respectively five, six and six in
+number. 5-6.
+
+Mandala and Sandhi :—The Mandalas of
+the eye are the following, viz, (1) the Pakshma-mandala
+(the circle of the eye-lashes), (2) the Vartma-mandala (the
+eyelid) (3) the Sycta-mandala (the Sclerotic and Cornea),
+the Krishna-mandala (the choroid) and (4) the Drishti-
+mandala (the pupil). These circles are so arranged that
+the one preceding lics within the next in the list.* The
+Sandhis (which serve as lines of demarcation of the
+circles) already pointed out are six in number, the first
+binding the eye-lashes (Paksha-mandala) with the eye-
+lids (Vartma-mandala), the second the eyelids and the
+Sclerotic coat (Sveta-mandala), the third binding the
+latter with the Krishna-mandala (choroid), the fourth
+situated between the latter and the Drishti-mandala,
+the fifth lying in the interior corner (Kaninakas) and the
+last (sixth) in the exterior (posterior) corner (Apdngas)
+of the cye. 7-8.
+
+* Evidently some line or lines are missing here as the line cannot
+
+give a complete sense by itself. Ed.
+
+## Page 34
+
+4 THE SUSHRUTA SAMILITA, { Chap. I.
+
+The Patalas :—Of the Patalas, two are in the
+eyelid (Vartma-mandala) and four in the eye proper,
+wherein occurs the dreadful disease known as the
+Timira (loss of vision). Of these four the first or ante-
+rior coat (Patala) supports the humour Jala and
+light (Tejas), * the second coat or Patala (choroid) is
+supported by muscles ; the third coat or Patala (Sccroim
+and Cornea) consists of Medas (lit. fat) and there is the
+fourth which is a fifth part of the whole and is known
+as the Drishti. There are, however, divisions and sub-
+divisions of these coats. 9.
+
+The different parts of the eye-ball are held together
+by the blood-vessels, the muscles, the Vitreous body
+and the choroid+ Beyond the choroid, the cye-ball
+is held (in the orbit) by a mass of Sleshma (viscid
+substance—capsule of Tenon) supported by a number
+of vessels. The deranged Doshas which pass upward to
+the region of the eyes through the channels of the up-
+coursing veins and nerves give rise to a good many
+dreadful diseases in that region. 10.
+
+Purva-rupa, etc. :—Cloudiness of vision,
+slight inflammation, lachrymation, mucous accumulation,
+heaviness, burning sensation, sucking pain (D. R-aching
+pain) and redness in the eyes are indistinctly manifest
+(in the incubatory stage) in such cases. In cases of an in-
+flammation of the Vartmas (cyc-lids) the eye seems as if
+studded with the bristles of worms (Suka) and attended
+with pain (as if pricked into with thorns) and a_ sensible
+impairment of the faculty of the eyes in detecting
+
+* By “Jala” is meant here the serum (Rasa) in the skin, and by
+“Tejas” the blood in the veins (Siré) carrying the (Tejas) known as the
+Allochaka.
+
++D. R. vessels, muscles and aqueous humour (Medas) arc most
+important for the maintenance of Krishna-mandala,
+
+## Page 35
+
+Chap. I. J UTTARA-TANTARAM. 5
+
+colours and in closing and opening the ecye-lids frecly.
+An intelligent physician will conclude from these symp-
+toms that the eyes have been affected by the (deranged)
+Doshas, with a due consideration whereof the remedies
+should be (carefully) administered, otherwise the eye-
+diseases might become too serious. The simpie maxim
+or principle to be followed in the treatment of a disease
+is simply to forego the primary pathological causes of
+that disease. The special remedial measures that would
+pacify the different Doshas, Vayu, etc. have been des-
+criked in detail. 12-13.
+
+Causes of Eye-disease :—The local
+Doshas deranged and aggravated by such causes as
+
+diving in water immediately after an exposure to the
+heat and the glare of the sun, (constant) gazing at dis-
+tant objects, sleep in the day time and keeping up
+late hours in the night, fixed and steady gaze, excessive
+weeping or over-indulgence in gricf, worry and fatigue,
+a blow or a hurt, sexuai excesses, the partaking (in inor-
+dinate quantities) of Sukta, Aranala (fermented rice-water),
+acid grucl, Masha pulse, and Kulattha pulse, voluntary
+repression of any cali of nature, exposure (of the eyes)
+to smoke or dust, trickling down of the drops of sweat
+(into the eyes), excessive or impeded vomiting, re-
+pression of tears, constant contraction of the eycs to
+adjust the sight to extremely small objects, etc., beget
+disorders of the organs of vision. 14.
+Classification of the Eye-diseases :
+—Seventy-six different kinds of cyc-diseases have been
+come across in practice ; of these ten are originated by
+the deranged Vayu, ten by Pitta and thirteen by
+Kapha. Sixteen are produced by vitiated blood, and
+twenty-five by the concerted action of the deranged
+Doshas (Tri-Doshaja), and lastly, two are produced by
+
+## Page 36
+
+6 THE SUSHRUTA SAMHITA. (Chap. I.
+
+external causes i.e, they are traumatic in their
+origin. 15.
+
+Prognosis of the Vataja Type :—Of the
+diseases of the eyes which are due to the action of the
+deranged Vayu, those known as Hatddhimantha, Nimi-
+sha, Gambhii affecting the vision, and Vata-hata-
+vartma (Vayu-afflicted Sclerotic coat) is said to be incur-
+able. A temporary cure (YApya) is all that can be effected
+in a case of Kacha (cataract) due to the action of the
+deranged bodily Vayu ; while the affection of the eyes
+known as the Anyato-Vata, Adhi-mantha (ophthalmia),
+
+Sushkakshi-pAka, Abhishyanda and Maruta-Paryaya
+are curable. 16.
+
+Prognosis of the Pittaja Type :—Of
+the diseases due to the deranged action of the Pitta
+known as Hra: ‘a and Jala-
+
+ive me sare the only
+remedies in cases of Kacha, Parimlayi and Nila, while
+Abhishynda, Adhi-mantha Amlddhyushita, Siktika,
+Pitta-Vidagdha-Drishti, Pothaki and Lagana are cur-
+able. 17.
+
+Prognosis of Kaphaja Type :—Of the
+diseases duc to the aggravation of Kapha, the one known
+as the Srava-roga is incurable and (Kaphaja) Kacha
+(cataract) admits of only palliative treatment, while a
+cure may be be effected in the following cases, viz,
+Abhishyanda (conjunctivitis), Adhi-mantha, Balasa-
+Grathita, Sleshma-Vidagdha-Drishti, Pothaki, Lagana,
+Krimi-granthi, Pariklinna-Vartma, Suklérma, Pishtaka,
+Sleshmo-pandha. 18.
+
+Prognosis of the Raktaja Type:—Of
+the diseases of the eyes due to the vitiated condition
+of the blood, those known as Raktasrava, Ajakajata,
+Avalambita (pendent), Sonitargas and Sukra-roga should
+
+rava should be deemed
+
+incurable ;
+
+## Page 37
+
+Chap. I.) UTTARA-TANTARAM. 7
+
+be regarded as incurable, and the type of sKacha (cata-
+ract) due to the same cause admits of only palliative
+measures, while the diseases known as Adhi-mantha,
+Abhishyanda, Klishta ha and Sirotpata,
+Anjana, Sirajala, Parvani, Avrana (non-ulcerated), Sukra-
+roga, Sonitarma and Arjuna may be included within
+
+tma, Sira-hars
+
+the group of curables. 19.
+
+Prognosis of the Tridoshaja Type,
+etc. :—Of the eye-discases due to the concerted action
+of the three aggravated Doshas, those known as Puya-
+srava, Nakulandhya, AkshipAkatyaya and Alaji are
+incurable and palliative measures are only possible in
+cases of Kacha (cataract) or Pakshma-kopa ; while those
+known as Vartmavabandha, Sirdja-pidaka, Prastar-
+yarma, Adhi-mansirma, Snayvarma, U a
+
+ngini, Puy
+lasa, Arvuda, Syava- artma, Kardama-vartma, Arso-
+vartma, Sukrargas, Sarkard-vartma, the two forms
+of inflammation with or without local swelling known
+as) Sasopha-paka and Asopha-paka, Bahala-vartma,
+Kumbhika and Visa-vartma yeild to the curative
+efficacy of appropriate remedial agents. Both the forms
+of eye-disease due to the external causes* should be
+considered as incurable. 20—21.
+
+Their Localities :—Thus we have finished
+enumerating the seventy-six types of eye-discases, of
+which nine are confined to the Sandhis (binding
+unions), twenty-one to the Vartma (cye-lids), eleven
+to the Sukla-bhaga (the Vitreous body), four to the
+Krishna bhaga (the region of the Choroid), seventeen
+to the entire region (cye-ball) and twelve to the-:region
+of the Drishti (pupil or the ‘crystalline lens, ete). The
+
+*The one due to any external blow or hurt (Sa-nimitta) and the other
+originating from the stulden sight of any celestial being of extreme brillj-
+ancy (A-nimitta).
+
+## Page 38
+
+8 THE SUSHRUTA SAMHITA. (Chap. I.
+
+two cases due to the extraneous cause (are chiefly
+located in the Drishti though affecting the whole of
+the eye-ball and) are very painful and incurable. The
+characteristic symptoms of all these will be hereafter
+described in detail. 22—23.
+
+‘Thus ends the first chapter of the Uttra-tantra in the Sus'ruta Samhitd
+which deals with the disease:
+
+i of the eye, ete.
+
+## Page 39
+
+CHAPTER LL.
+
+Now we shall discourse on the chapter which deals
+with the pathology of diseases which are peculiar to the
+joints or binding membranes of the cye (Sandhl-
+gata~Roga-Vijnaniya).
+
+The names of those diseases :—Discases
+peculiar to the joining (Sandhi) of the eye are nine in
+number and are named Puydlasa, Upandha, (the four
+kinds of) Srava (viz. Puya-srav srava, Rakta-
+srava, Pitta-srdva), Parvani, Alaji and Krimi-granthi. 2.
+
+Symptoms of Puydlasa and Upa~
+ndha :—A suppurated swelling occurring at any of
+these joining and exuding a sort of fetid and dense *
+pus is called Puydlasa. A painless cyst (Granthi) of
+considerable size occurring at the union of the pupil (with
+the Krishna-mandala) and attended with an itching sensa-
+tion and a little suppuration is called Upangha. 3. A.
+
+Symptoms of Srdva :—The ( deranged )
+Doshas + of the locality passing through the lachrymal
+ducts into the binding tissues of the four different
+
+Sandhis (joinings) set up a painless ¢ secretion (Srava)
+
+a, Sleshma
+
+from the localities characterised by the specific symp-
+
+toms of the different Doshas involved. These are known
+as Srdvas, which according to some, are also called
+
+* According to Médhava’s reading, the swelling should be painful
+(waiz:)- There is no mention whether the pus should be dense (ara) or
+otherwise.
+
++ The term “Dosha” here means S'leshmé, Pitta, Rakta (blood)
+and the concerted action of the above three Doshas. It should be noted
+that Vayu is excluded from the list as it docs not produce any secretion,
+
+$ Madhava does not mention this (painlessness) to be a symptom.
+
+2
+
+## Page 40
+
+To THE SUSHRUTA SAMHITA. (Chap. I,
+
+Netra-nadi and are classified into four different groups,
+the different symptoms of which will be described
+presently. A suppuration (D. R. swelling) in any of the
+unions (Sandhi) of the eye marked by a discharge of pus
+is called Puyd-srdva. This is due to the concerted action
+of the Doshas (Kapha, Pitta and blood). The secretion of
+slimy, white and thick muco-purulent discharges marked
+by the absence of pain * is called Sleshmd-srdva. The
+flow of thin, warm+ and blood-streaked copious discharge
+due to a contaminated state of the local blood is called
+Raktd-srdva. A warm, water-like and yellowish blue
+(D. R. reddish yellow) discharge from the middle part
+of the union (owing to the deranged condition of the
+Pitta) is called Pittd-srdva. 3.
+
+Symptoms of Parvani, etc. :—A small,
+round and copper-coloured swelling occurring at the join-
+ing of the Krishna-mandala and Sukla-mandala, duc to
+the vitiated state of the local blood and attended with a
+burning sensation and aching pain, is called Parvani.
+A swelling possessed of the preceding features and
+occurring at the very same joining is called Alaji (Kera-
+titis) tA cyst or swelling (Granthi) characterised by an
+itching sensation appearing on the joining of the eye-lids
+and eye-lashes owing to the germination of parasites
+(Krimi) in those localities, is called Krimi-granthi.
+Parasites of different forms in such a case are found to
+infest the regions where the inner lining of the Vartma-
+
+* According to Madhava’s reading, the absence of pain is not a
+
+necessary concomitant in this case.
+
++ According to Madhava’s reading thinness and warmness are not
+essential.
+
++ The difference between a case of Parvani and that of Alaji is
+that the swelling in a case of Parvani is smaller, and that in the Alaji is
+larger.
+
+## Page 41
+
+Chap. I. } UTTARA-TANTARAM. 11
+
+mandala (eyelid) is connected with the Sukla-mandala
+(Sclerotic coat) of the eye and to invade and vitiate the
+substance of the cye-ball. 4—5.
+
+Thus ends the second chapter of the Uttara-Tantra in the Sus‘ruta
+
+Samhita which deals with the pathology of the diseases peculiar to the
+Sandhi (unions) of the eye.
+
+## Page 42
+
+CHAPTER HI.
+
+Now we shall discourse on the chapter which deals
+with the pathology of diseases peculiar to the region of the
+eyelids (Vart magata- Roga-Vijndniya.. 1.
+
+Causes and Names :—The Doshas of the
+body jointly or severally expanding through the nerves
+and_ veins, (Sira) of the eye-lids (Vartma) bringing about
+an augmentation of the quantity of the blood and
+the growth of the flesh in the localities (determina-
+tion of blood toward formation of fleshy growth in
+the affected parts) give rise to a host of local diseases
+which are known as Utsangini, Kumbhika, Pothaki,
+Vartma-Sarkara. Arso-vartma, Sushkargas, Anjana,
+Bahala-vartma, Vartmavabandha, Klishta-vartma, Kar-
+dama-vartma, Sydva-vartma, Praklinna-vartma, Pari-
+Klinna-vartma, Vatdhata-vartma, Arvuda, Nimisha, Soni-
+tarsas, Lagana, Visha-vartma and  Pakshma-kopa.
+These twenty-one diseases are restricted to the eye-lids
+(Vartma). 2.
+
+The Specific symptoms of the dis-
+eases of the eye~lids :—The names of these
+have been enumerated ; now hear me describe their
+specific symptoms. A (rolled up and indented) boil
+or eruption (Pidaka) appearing along the lower eye-lid
+on its exterior side with its mouth or head directed
+inward is called Utsangini. A number of boils or
+pustules (Pidaka) to the size of a Kumbhika seed ap-
+pearing on the joint of the eye-lids and the eye-lashes
+and becoming inflamed after being burst is called
+Kumbhikd *. 3—4.
+
+* This disease (Kumbhikd) is due to the concerted action of the
+three Doshas.
+
+## Page 43
+
+( Chap. IIL. UTTARA-TANTARAM. 13
+
+A number of red and heavy (hard) boils or pustules
+(Pidaka) resembling red mustard seeds attended with
+pain, itching and exudation is called Pothaki. A rough
+and large pustule (Pidaka) surrounded by other very
+small and thick erythematous pustules (covering the
+entire length of the eyelid) is called Vartma-sarkard.
+5—6.
+
+Vegetations of small (D. R. soft) and rough papila
+(Pidakas) on the eyelid resembling Erodruka seeds and
+attended with very little pain are called Arsgo-vartma.
+Long, rough, hard, and numbed papil«e (Amkura) on the
+eyelid (2) are called Sushkdrsas. 7—S.
+
+A small, soft, copper-coloured pustule (Pidaka)
+appearing on the eyelid and attended with burning,
+pricking sensation and a slight pain is called an Anjana.
+Vegetations of pustules (Pidaka) of equal size (D. R—
+attended with hardness) occurring all along the eye-lid
+and resembling it (or each other) in colour are called
+Bahala-vartma. 9-10.
+
+Such swelling of the eyelid attended with an itching
+sensation and a slight pain as impedes or interferes with
+its being evenly opened is called Vartma-bandha. A
+mild and copper-coloured inflammatory swelling of both
+the eye-lids simultancously attended with a slight pain
+and changing suddenly into redness (D. R.—suddenly
+discharging blood therefrom) is called Klishta-
+vartma. 11-12.
+
+A case of Klishta-vartma in which the Pitta
+has deranged and affected the blood and much dirty
+matter (mucus) is discharged as a consequence is called
+a case of Vartma-kardama. A dark brown colour of
+the eye-lids both internally and externally marked by a
+
+(2) According to Madhava, the papile in such cases occur in the
+inner side of the cye-lid.
+
+## Page 44
+
+14 THE SUSHRUTA SAMHITA. [ Chap. 111.
+
+swelling (D. R—pain) and attended with a discharge of
+pus and with burning and itching sensations is called
+Sydva-vartma. 13-14.
+
+An external swelling of the eye-lid with a deposit of
+mucous matter in its inner surface accompanied with a
+little pain aswell as a discharge, itching and pricking
+sensation, is called a Praklinna-Vartma. A sticking to-
+gether of the eye-lids even in the absence of any suppura-
+tion and in spite of the eyes being constantly washed
+(with water) * is called Pariklinna-vartma. 15—16.
+
+The drooping down (lit—inactivity) of the eye-lids,
+whether attended with any pain or not, (so as to
+obstruct the opening of the eye-lashes) where the eye-
+lids seem to be out of joint is called Vatdhata-vartma.
+A red and knotty swelling (Granthi) of an uneven size
+or shape, growing hastily on the interior side of the
+eyelid and attended with a little pain is called an Arvuda
+or tumour. 17—18.
+
+Constant wrinklings of the eye-lids owing to the
+incarceration of the (deranged) Vayu within the nerves
+or veins (Sir) controlling their wrinkings (closing and
+opening) are known as Nimesha. Soft and fleshy
+growths (Amkura) on the eyelid which reappear even
+after being removed with a knife, and are attended with
+pain, itching and burning sensation are called Sonitarsas
+and should be ascribed to the vitiated condition of the
+blood. 19-20.
+
+A thick, slimy, hard and painless nodular swelling
+(Granthi) on the eye-lid resembling a Kola fruit in size
+and marked by an itching sensation and absence of sup-
+puration is called Lagana +. An inflammatory swelling
+
+* A different reading reads ‘whether washed or not.’ This, however,
+not a good reading.
++ Certain editions read Nagana.
+
+## Page 45
+
+Chap. TI. J UTTARA-TANTARAM. 15
+
+of the eyc-lid dotted with minute punctures like the pores
+in the stem of a water-soaked lotus plant is called
+Visa-vartma. 21-22.
+
+An accumulation of the deranged Doshas about the
+eyelashes makes them rough and sharp-pointed, which
+give pain tothe cye and give relief when drawn off.
+The disease is known as Pakshma-kopa in which the
+eye cannot bear the least wind or heat or the glare
+of fire. 23.
+
+Thus ends the third chapter of the Uttara-Tantra in the Sus'ruta
+Samhit4 which deals with the pathology of the diseases of the eye-lids.
+
+## Page 46
+
+CHAPTER IV.
+
+Now we shall discourse on the chapter which deals
+with the pathology of discascs of the Sclerotic coat
+(white coat) of the cye (Suklagata-Roga-Vijndniya). I
+
+Names :—The eleven different forms of diseases
+which are peculiar to the Sclerotic coat (white) of the
+eye, are Prastaryarma, Suklarma, Kshatajarma (Rakta-
+rma), Adhimansarma, Snayvarma, Suktika, Arjuna,
+Pishtaka, Sir ira-pidaka, and Balasa-grathita. 2,
+
+Symptoms: thin and extended glandular
+swelling (Granthi) coloured reddish blue and apearing
+on the Sclerotic coat (Sukla) is called Prastdryarma.
+A crop of soft and whitish growths slowly extending
+over the entire length of the Sclerotic coat is called
+Suklarma. The fleshy growth on the white coat of the
+eye resembling a (red) lotus flower in colour is called
+Lohitarma. The soft, extended, thick and dark-
+brown and liver-coloured growth of flesh on the white
+coat is called Adhi-mdnsérma. The rough, yellowish
+(D. R. white) growth of flesh on the white coat, and
+gaining (slowly) in size, is called Sndyvarma. 3-7.
+
+The appearance of dark brown specks resembling
+flesh in colour or of those having the colour of an
+oyster-shell on the white coat (Sukla) of the eye is
+called Suktikd. The appearance of a single dot or
+speck on the Sclerotic coat (Sukla), coloured like a
+(drop of the) hare’s blood, is called Arjuna. A raised
+and circular dot or speck appearing on the white coat
+and coloured white like pasted rice and (as transparent
+as) water is called Pishtaka. Red and extensive
+patches of hardened veins spreading over the white coat
+and looking like a netsvork is called Sird-jdla. The
+
+## Page 47
+
+Chap. IV, UTTARA-TANTARAM. 17
+
+crop of white pustular growths (Pidaka) on the Sclerotic
+coat (Sukla), near the limit of the black coat (Lris) and
+covered over with shreds of veins are called the Sird-
+Pidakd. The disease in which a speck coloured like the
+Indian bell-metal (Kamsya) and covered over with a
+vein (Sir4) appears on the region of the Scleratic coat is
+called the Baldsa*. 8-13.
+
+Thus ends the fourth chapter of the Uttara-Tantra in the Sus'ruta Sam-
+hité which treats of the pathology of the diseases of the Sceloretic region
+of the eye.
+
+* The reading in Madhava’s Nidana is quite different here, and
+Dallana seems to support that. It is defined as the disease in which a hard
+speck appears like a drop of water on the white coat and looks like
+bell-metal in colour.
+
+## Page 48
+
+CHAPTER Y.
+
+Now we shall discourse on the chapter which deals
+with the pathology of the diseases of the black part of
+the eye—Choroid including the Iris (Krishna-gata-
+Roga-Vijnduiya). 1.
+
+The diseases which are found to invade the region
+of the Choroid including the Iris (Krishna-mandala)
+have been briefly said to be four in number. Their
+names are Sa-vrana-Sukra, A-vrana-Sukra, Pakatyaya
+and Ajaka. 2,
+
+Symptoms :—A puncture-like dip in the region
+of the (Krishna-mandala) with a sensation there as if
+the part has been pricked with a needle and attended
+with an excruciating pain and a hot exudation is called
+Sa-vrana-Sukra. If the seat of this discase consider-
+ably remote from the pupil—entire part of the Drishti
+(Retina) be marked by the absence of pain and discharge
+and be not deep-seated and if there be not double
+spots, it offers very little chance of remedy. 3-4.
+
+Symptoms and Prognosis of A-vra-
+na-‘Sukra :—A whitish film appearing on the
+region of the Choroid including the Iris (Krishna) like
+a speck of transparent cloud in the sky, and attended
+with lachrymation and slight pain due to the eye-disease
+known as Abhishyanda (Ophthalmia—lit. secretion) is
+called the A-vrana-Sukra. This is easily curable. A
+case of Ayrana-Sukra (non-ulcerated film) which is
+thickened, deep-seated and long-standing, may be cured
+only with the greatest difficulty, while an long-standing
+case of this disease, if it is mobile, covered with shreds
+of ficsh, vein-ridden, stretching down to the second
+layer of skin (in the eye) and obstructing the vision,
+
+## Page 49
+
+Chap. V.J UTTARA-TANTARAM, 19
+
+severed in the middle and marked witha reddish tint
+in the extremities, should be deemed as incurable.
+Several authorities aver that the appearance of MJudga-
+like specks or films on the region of the Iris, attended
+with growths of pustules and hot lachrymations, should
+be like-wise regarded as incurable. The fact of its (speck)
+assuming the colour of the feather of a Téttira bird
+is an additional indication of the incurable nature of
+this disease. 5.
+
+The appearance of a whitish milky film over the
+black part of the eye slowly shrouding it entirly with its
+mass and attended with acute pain is known as the
+Akshi-Pakdtyaya. This is invariably found to result
+from an attack of Akshi-kopa* and is due to the
+concerted action of all the Doshas. A painful reddish
+growth, like the head of a goat, found to shoot forth
+from beneath the surface of the black part and attended
+with reddish slimy secretion is called an Ajakd. 6-7.
+
+Thus ends the fifth chapter of the Uttara-Tantra in the Sus’ruta Sam-
+hita which treats of the pathology of the diseases of the black part of the
+eyes
+
+“ According to Madhava’s reading in his Nidana, this
+
+isease need
+not necessarily result from an attack of Akshi-kopa, and there need not
+be an acute pain, and it would be incurable.
+
+## Page 50
+
+CHAPTER VL
+
+Now we shall discourse on the chapter which deals
+with the (symptoms and) pathology of the discases
+affecting the eye asa whole (Sarva~gata~Roga~
+Vijndniya). 1.
+
+Names and causes :—The four types of
+Abhishyandha (Ophthalmatis), the four types of Adhi-
+mantha, the two forms of Akshi-paka (suppuration of
+the eye) attended with or without swelling, these ten,
+as well as Hatddhimantha, Anila-Parjaya, Suskakshi-
+paka, Anyato-vdta, Amlddhyushita, Drishti, Sirot-
+pata and Sird-Harsha are the names of the (seventeen
+kinds of) diseases which affect the eye as a whole.
+Nearly all these forms of eye-diseases may result from
+the Abhishyanda (Ophthalmitis). Hence a wise physician
+shall try speedily to remedy a case of Abhishyanda
+)as soon as it is found out. 2.
+
+c symptoms of Abhishya~
+nda :—The symptoms which mark a case of Abhi-
+shyanda duc to the action of the deranged Vayu are
+pricking pain (in the eyes), numbness, horripilation and
+
+irritation in the eyes, roughness and parchedness of the
+organ, cold lachrymations and headache. A case of
+Pittaja-Abhishyanda exhibits the following features,
+viz. burning and inflammatory suppuration of the eyes,
+longing for coldness (in the eyes), excessive hot lachry-
+mations, cloudy vision and a yellowness of the eye. In
+the Kaphaja type of the disease, the affected organ
+longs for the contact of warm articles and is attended
+with a heaviness, itching sensation, swelling, excessive
+whiteness and a constant deposit and discharge of slimy
+mucus. The special type of this disease which has
+
+## Page 51
+
+Chap. VI. ] UTTARA-TANTARAM. ar
+
+its origin in the vitiated condition of the blood, « e., the
+Raktaja type is marked by redness of the eyes, flow of
+copper-coloured tears, as well as the symptoms of the
+Pittaja type of the discase and the presence of deep red
+stripes all along. 3-6.
+
+Causes of Adhimantha :—All the (four)
+forms of chronic Abhishyanda, if not properly attended
+to and remedied at the outset, may run into as many
+cases of Adhimantha which is attended (invariably)
+with an excruciating pain in the eye, which seems as if
+being torn out, the pain extending upward to and crush-
+ing, as it were, the half the region of the head. The
+characteristic symptoms of the Doshas involved in each
+case are also seen to supervene. 7.
+
+Symptoms of Vataja Adhimantha :—
+Inthe Vataja type of Adhimantha the eye becomes
+cloudy and seems as if being torn out and churned as
+with an Arani (fire-producing wooden stick) attended
+with an irritating, piercing and cutting pain, as well
+as with a swelling of the local flesh, and a half of the
+head (on the side of the affected eye) is afflicted with
+a twisting and cracking sensation as well as with local
+swelling, shivering and pain. 8.
+
+Symptoms of Pittaja Adhimantha:
+The symptoms which mark the Pittaja type of Adhi-
+mantha are the blood-streaked eye attended with secre-
+tion and a sensation thercin of being burnt with fire,
+as weil as swelling, perspiration and suppuration in the
+affected organs, yellowish vision, fainting fits and a
+
+burning sensation in the head. The eyes in this case
+become liver-coloured and seem as if ulcerated or rubbed
+with an alkali. 9.
+
+Symptoms of Kaphaja Adhimantha:
+—In the Kaphaja type of Adhimantha the eye is
+
+## Page 52
+
+22 THE SUSHRUTA SAMHITA. [ Chap. VI.
+
+swollen with a slight congestion (inflammation). Dis-
+charges with a sensation of itching, coldness and heavi-
+ness in the localities set in, and there is horripilation.
+The eye becomes slimy with deposit of mucous matter.
+The sight becomes cloudy, the nostrils are dilated, the
+head aches and all objects seem to be full of dust. 10.
+Symptoms of Raktaja Adhimantha:
+—A pricking pain in and a blood-streaked secretion
+from the affected organ which looks (bright red) like a
+Bandhwjiva flower, are the symptoms which mark the
+type of Raktaja Adhimantha (due to the vitiated blood).
+The eye becomes painful and incapable of bearing the
+sion seem as
+
+least touch or contact, and the objects of vi:
+if enveloped in flames. The extremities of the eye
+become red and the whole origin of the cornea (black
+coat of the eye) looks like an Arishta fruit submerged
+in blood. 11.
+
+The prognosis :—A course of injudicious diet,
+conduct or medical treatment may usher in the blindness
+of vision in seven days from an attack of the Kaphaja
+type of Adhimantha (Ophthalmia) and in five days from
+that of the blood-origined (Raktaja) type, in six days
+in a case of the Vataja Adhimantha and instantaneously
+within three days of the attack) in the Pittaja type of
+(4. e, Adhimantha. 12.
+
+Symptoms of Sa-Sopha and A-sopha
+Akshi-pdka :—A case of Sa-sopha-Netra-pdka
+exhibits the following symptoms, v/z., itching sensation,
+deposit of mucous matter (in the eye), lachrymation and
+a redness of the eye like the colour of a ripe Udumbara
+fruit. There is a burning sensation in the eye-ball which
+becomes copper-coloured, heavy, and attended with a
+pricking pain and horripilation. The eye becomes
+swollen and constantly sceretes either cold or hot slimy
+
+## Page 53
+
+Chap. VI. ] UTTARA-TANTARAM. 23
+discharges, and ultimately suppurates. All these symp-
+toms except swelling mark the (non-swollen) A-sypha-
+Netra-pdka type of the disease. 13.
+
+The deranged Vayu getting incarcerated in the optic
+nerve (Sird) impairs the faculty of sight, and gives rise to
+an incurable disease which is called Hatddhimantha
+(blinding Ophthalmia). A shifting pain experienced
+sometimes in the region of the eye-lashes* or of the
+eye-brows and sometimes in the region of the eye,
+owing to the coursing of the deranged and incarcerated
+Vayu in those localities, is called Vata-Parydya. 14-15.
+
+The disease in which the eye-lids become dry and
+hard and remain always closed, the v
+
+ion becomes
+cloudy and hazy, and it becomes very painful to open
+the eyelids, is called the S$ ishkakshi-paka.+ The
+excessive pain in the eyes or in the eye-brows due to
+the action of the deranged Vayu incarcerated in the
+region of the head, the cars, the cheek-bones, the back
+of the neck (Avatu), the Manydé (a particular nerve
+on cither side of the neck), or in any other (adjacent)
+place, is called the Anyato-vata. 16-17.
+
+The swelling of the eye attended with a bluish red
+tint all about, owing to the partakings of meals com-
+posed of an unduly large proportion of acid articles, or
+of such food as is followed by a digestionary acid re-
+action, is called the Amlddhyushita-Drishti. The
+disease in which the veins all over the eye become
+copper-coloured and are frequently discoloured, whether
+attended with pain or not, is called the Sirotpata. 18-19.
+
+* Madhava in the Niddna does not mention the
+
+ryeelashes.
++ Madhava in the Niddna reads “gagqqq” which means that a highly
+
+burning sensation is produced in the affected eye, in place of “Faaijqa-—
+a word which seems redundant.
+
+## Page 54
+
+24 THE SUSHRUTA SAMUITA. (Chap. VL
+
+A case of Sirotpata, if not attended to and remedied
+in time through ignorance, gives rise to transparent and
+copper-coloured discharges in copious quantities from
+the eyes and produce a complete blindness of v
+This is known as the Sird-harsha. 20.
+
+Thus ends the sixth chapter of the Uttara-Tantra in the Sus‘ruta
+Samhit4 which treats of the diseases affecting the eye as a whole.
+
+## Page 55
+
+CHAPTER VI.
+
+Now we shall discourse on the chapter which deals
+with the pathology of the diseases which are peculiar to
+the Drishti (pupil) of the cye (Drishti-gata-
+Roga-Vijndniya). 1.
+
+Experts well-versed in the anatomy of the eye ayer
+that the Drishti (pupil) of the eye is the quintessence of
+the five material clements with that of the ctcrnai light
+predominating therein—this principle of light neither
+increasing nor decreasing in this case. It is naturally
+accustomed to cold from the very nature of its tempera-
+ment and is covered by the outer coating (Patala) of the
+organ proper. It looks like a hole and is equal in
+dimension to that of a Aastra secd or pulse*. The
+pupil of the eye resembies in its action the phosphores-
+cent flash of a glow-vorm or that of a minute particle
+of fire (in not burning the things coming in contact with
+it). Now we shall describe the pathology of the twelve
+kinds of disease peculiar to the region of the Drishti
+(pupil), as well as of the one which is known as Timira
+(loss of vision) affecting the Patala (coating over the
+pupil). 2.
+
+All external objects appear dim and hazy to the
+sight when the deranged Doshas of the locality passing
+through the veins (Sir) of the cyc, get into and are
+incarcerated within the first Patala (innermost coat) of
+the pupil (Drishti). 3.
+
+Symptoms—when- second Patala
+attacked :—False images of gnats, flics, hairs, nets or
+cob-webs, rings (circular patches), flags, car-rings appear
+
+* According to Nimi, quoted in Madhava’s commentary by S‘tikantha,
+the dimension of the Drishti is equal to only a half of that of a A/asura-
+pulse,
+
+4
+
+## Page 56
+
+26 THE SUSHRUTA SAMHITA. (Chap. VIL.
+
+to the sight, and the external objects seem to be enveloped
+in mist or haze or as if laid under a sheet of water or as
+viewed in rain and on cloudy days, and meteors of differ-
+eem to be falling constantly in all directions
+in the event of the deranged Doshas being similarly con-
+fined in the second Patala (coat) of the Drishti. In
+such cases the near appearance of an actually remote
+object and the contrary (A/opia and Biopia) also should
+be ascribed to some deficiency in the range of
+
+ent colou
+
+ision
+
+(error of refraction in the crystalline lens) which in-
+capacitates the patient from looking through the eye
+and hence from threading a needle. 4.
+Symptoms—when third Patala
+attacked :—Objects situate high above are seen and
+those placed below remain unobserved when the de-
+ranged Dosha are infiltrated into the Third Patala (coat)
+of the Drishti. The Doshas affecting the Drishti (crystal-
+line lens), if highly enraged, impart their specific colours
+to the objects of v
+
+ion. Even large objects seem to be
+covered with a picce of cloth. The images of objects and
+persons with ears and eyes, etc., seem to be otherwise
+Ze, bereft of those organs. The deranged Doshas
+situated at and obstructing the lower, upper and lateral
+parts of the Drishti (crystalline lens) respectively shut
+out the view of near, distant and laterally-situate objects.
+Adim and confused view of the external world is all
+that can be had when the deranged Doshas spread over
+and affect the whole of the Drishti (crystalline lens). A
+thing appears to the sight as if cutlinto two (bifurcated)
+when the deranged Doshas affect the middle part of the
+lens, and as triply divided and severed when the Dos
+are scattered in two parts ; while a multifarious image
+of the same object is the result of the manifold distribu-
+tions of movability of the Doshas over the Drishti. 5.
+
+## Page 57
+
+Chap. VII. ] UTTARA-TANTARAM. 27
+
+Symptoms—when fourth Patala
+attacked :—Loss of vision (Timira) results from the
+fact of the deranged bodily Doshas being confined within
+the fourth Patala (choroid) of the organ. When the vision
+is completely obstructed by the aforesaid cause, it is
+called a case of Linga-ndsa (blindness). Only a faint per-
+ception of the images of the sun, the moon and the stars,
+
+the heaven, a flash of lightning or any other such highly
+brilliant objects is possible in a case of superficial (not
+deep-seated) Linga-nd4sa. The Linga-ndsa (blindness) is
+
+also called Nilika and Kacha. 6.
+
+Specific traits of Timira :—All external
+objects are viewed as cloudy, moving, crooked and red-
+coloured in the Vataja type (of Timira), while in the
+Pittaja type they appear to be invested with the different
+
+colours of the spectrum or of the rain-bow, of the glow-
+worm, of the flash of lightning, or of the feathers of the
+pea-cock, or with a dark bluc tint bordering on black ;
+while in a case of Kaphaja Timira, a thick white coat
+like that of a pack of white clouds or a deep white
+chowri (Chamara) scems to intervene in everything which
+look white and oily and dull and appear hazy and cloudy
+in a fine day, or as if laid under a sheet of water. In a case
+of the Raktaja type of Timira, all objects appear red or
+
+ssume a greyish, blackish
+se of Sdnnipatika Timira,
+the outer world looks vareigated and confused, appears
+as doubled or trebled to the vision (of the patient), and
+stars and planets, cither defective or supplied with addi-
+
+enyoloped in gloom, and they
+or variegated colour. Ina ca
+
+tional limbs, seem to float about in the vision. 7-11.
+Parimlayi :—The quarters of the heaven look
+yellow and appear to the sight as if resplendent with
+the light of the rising sun, and trees seem as if sparkling
+with the tangles of fire-flics in a case of Parimldyi,
+
+## Page 58
+
+28 THE SUSHRUTA SAMHITA. (Chap. VIL.
+
+which should be ascribed to the action of the deranged
+Pitta in concert with the vitiated blood. 12.
+
+The different colours of the pupilin
+cases of Linga-naSa :—Now we shall describe
+the colours of the pupil in the six different types of
+Linga-nasa. The pupil assumes a reddish (Aruna) colour
+in the Vataja type of the disease ; looks blue or bluish
+yellow in the Pittaja, white in the Kaphaja and blood-
+red in the blood-origined one, while it assumes a varic-
+gated hue in the Sdnnipdtika type of Linga-ndsa. A cir-
+cular patch (Mandala) tinged with a shade of bluish or
+bluish yellow colour and looking like fire or a piece of
+thick grass, is formed on the pupil owing to the diseased
+and agg cd condition of the blood (with pitta) in a
+case of Parimldyi. In this case the patient is sometimes
+permitted to catch faint glimpses of the external objects
+owing to the spontancous and occasional filtering away
+of the deranged Doshas obstructing the vision. 13-15.
+
+Specific Traits of Linga-ndaSa :—The
+circular patch (over the pupil) in a case of Vataja Linga-
+naga is red-coloured, and is moving and rough to the
+touch, while that ina case of Pittaja Linga-ndsa is bluish
+or yellow or coloured like bell-metal. The circular patch
+in a case of Kaphaja Linga-nasa is thick, oily and as
+white as a conch-shell, a Aveda flower or the moon—
+resembling a white drop of water on the moving lotus
+leaf and moving away to and fro when the eye is rubbed.
+The circular patch over the pupil in a case of Raktaja
+(blood-origined) Linga-ndsa is red-coloured like a coral
+or a (red) lotus-petal. A Sdnuipdtika type of the
+disease is marked by a variegated colour of the Drishti
+(pupil) and by the specific symptoms of the different
+Doshas. 16.
+
+The total number of diseases peculiar to the Drishti
+
+## Page 59
+
+Chap. VIL J UTTARA-TANTARAM. 29
+
+is twelve. The six types of Linga-ndsa (Drishti) have
+been described above. The six other forms of the
+discase, peculiar to the Drishti (pupil) are named
+as Pitta-vidagdha-Drishti, Sleshma—vidagdha-Drishti,
+Dhama-darsin, Hrasva-Jatya, Nakulandhyata and Gam-
+bhirika. 17.
+
+The disease in which the region of the Drishti (pupil)
+assumes a yellowish colour, and all external objects
+
+appear ycllow to the sight owing to the presence of the
+vitaited (and augmented) Pitta in the region of the
+Drishti is called Pitta-Vidagdha-Drishti. It is due to
+an accumulation of the deranged Dosha (Pitta) in
+the third Patala (coat) of the eye, and the patient
+cannot see anything in the day, but can see only in the
+night. 18.
+
+The external objects appear white to the sight when
+it is affected by the accumulation of the deranged Kapha.
+The deranged Dosha (Kapha), in this ca: simulta-
+neously divided over all the three Patalas (coats) of the
+e. In consequence of this the patient is attacked
+with nocturnal blindness, being able to see only in
+the daytime owing to the (melting and) decrease of the
+deranged Kapha through the heat of the sun. This is
+known as Sleshma-vidagdha-Drishti. 19.
+
+The external objects appear dusky or smoke-coloured
+when the sight is affected through gric
+tracted) fever, over-straining or cx
+cise, or injury to the head, ete. The affection of vision
+thus engendered is called Dhuma-Drishti (smoky
+sight). 20.
+
+The discase in which small things can be viewed
+only with the greatest difficulty (even) in the daytime,
+but can be viewed (casily and clearly) in the night owing
+to the subsidence of the deranged pitta through the
+
+(high and pro-
+ve physical exer-
+
+## Page 60
+
+30 THE SUSHRUTA SAMHITA. { Chap. VII.
+
+coldness of the atmosphere (and a general cooling of the
+Earth’s surface)* is called Hrasva-jdtya}. 21.
+
+The form of occular affection in which the colour
+of Drishti (pupil) of a man affected by the Doshas resem-
+bles (and is found to emit (luminous) flashes like) that
+of a mungoose in consequence of which the external
+objects appear multi-coloured in the day time,* is
+called Nakuldrdhya. The form of occular affection
+due to the action of the deranged Vayu, and in which the
+Drishti (pupil) is contracted and deformed and sinks
+into the socket, attended with an extreme pain in the
+affected parts, is called Gambhirikd. 22-23.
+
+Besides the above, there are two more forms of
+Linga-uaga of traumatic origin, v/s., Sa-nimitta (of ascer-
+tainable origin) and A-nimitta (without any manifest or
+
+ascertainable cause). Under the first group may be
+
+arranged those which are produced by such causes
+an over-heated § condition of the head (brain, ctc.), and
+marked by the specific symptoms of (blood-origined)
+Abhishyanda, while the second comprises
+which the loss of one’s
+the witnessing of divine halo or effulgence emanating
+from the ethereal person of a god, or a Gandharva (demi-
+god),a holy saint, a celestial serpent, or such other
+
+as
+
+those in
+
+ion is due to causes, such as
+
+vii
+
+"The latter part of the text here seems to be incongruous.
+Madhava does not read the last line in his Niddna, nor does Dallana
+include it in his commentary. Dallana, on the other hand, says that some
+read this line, but holds, on the authorityof Vidcha, that the reading is
+incongruous, in as much as “Hrasva-jétya” is said to cause one of the
+four types of night-blindness.
+
++ Some read Hrasva-jédya in place of Hrasva-jatya.
+
++ This shows that a man affected with this form of disease cannot
+see anything in the night.
+
+§ The head is liable to be over-heated by the smelling of poison or
+poisonous objects or any other strong-scented flower, etc.
+
+## Page 61
+
+Chap. VII] UTTARA-TANTARAM. 3
+
+highly bright object. In this case the eye is not out-
+wardly affected and the pupil (Drishti) looks as bright
+and clear as a Vaiddrya gem, while in the former case
+
+(of ascertainable origin) the eye is characterised by a
+sunken or pierced or impaired aspect of the pupil. 24.
+We have thus finished describing separately the
+diagnostic traits of the sevent; forms of disease
+which affect the organ of ion. We shall hereafter
+separately deal with the nature of the medical treatment
+
+to be pursued in cach case.
+
+Thus ends the seventh chapter of the Uttara-Tantra in the Sus‘ruta
+Samhité which treats of the pathology of the diseases peculiar to the
+pupil of the eye.
+
+## Page 62
+
+CHAPTER VIL
+
+Now we shall discourse on the chapter which deals
+with the classification of occular affection according to
+the different modes of treatment (Netra-~Roga-~
+Chikitsa-Vibhaga-Vijndniya). 1.
+
+Classification :—We have already described
+the names and symptoms of the seventy-six kinds of
+
+eye disease. We shall now briefly and severally deal
+with the nature of treatment to be pursued in them.
+Of these seventy-six kinds eleven should be treated
+with incision operations (Chhedya), nine with  scarifica-
+tion (Lekhya), five with excision (Bhedya), fifteen with
+venesection (Vyddhya) ; twelve cases should not be
+operated upon and seven admit only of palliative
+measures (Yapya), while fifteen should be given up by
+an experienced physician (Ophthaimic surgeon) as in-
+curable. The two kinds of eye-discase of traumatic
+origin should be likewise held as incurable or admitting
+
+only of palliative measures at the best. 2.
+Names of the Chhedya and Lekhya
+eye-diseases :—Discases which should be treated
+
+with incision are Arso-vartina, Sushkarsas, Arvuda, Sira-
+
+Pidaké, Sirajala, the five types of Arman*, and
+Parvaniké (thus numbering eleven in all), Diseases in
+which searification should be resorted to (numbering
+
+seven in all) are Utsangini, Bahala-vartma, Kardama-
+
+vartma, Syava-vartma, Vaddha-vartma, Klishta-vartma,
+
+Pothaki, Kumbhikini, and Sarkaré-vartma. 3-4.
+Names of Bhedya and Vyddhya eye-
+
+diseases :—Optical diseases in which the affected
+
+* See Chapter IV, para 2, Uttara-Tantara.
+
+## Page 63
+
+Chap. VIII. } UTTARA-TANTARAM. 33
+
+localities should be treated with excisions, are Sleshmo-
+panaha, Lagana, Vi
+
+-vartma, Krimi-granthi and
+Anjana—thus numbering five in all. The two kinds of
+eye-discase beginning with Sira v7s., Sirotpita and Sira-
+harsha, the two kinds of Akshi-paka attended or un-
+attended with swelling, és. Sasothakshi-paka and
+Asothakshi-paka, and Anyatovdta, Puydlasa, Vata-
+viparyaya and the four types of Abhishyanda and the
+four types of Adhimantha should be treated with
+Venesection (Sird-vyadhana). 5-6.
+
+Eye-diseases—not to be operated :—
+Operations should not be resorted to in cases of Sushké-
+kshi-paka, Kapha-Vidagdha-Drishti, Pitta-Vidagdha-
+Drishti, Amladhyushita-Drishti, Sukra-roga, Agjuna,
+Pishtaka, Aklinna-vartma, Dhuma-darsin, Suktikd, Prak-
+linna-vartma and Valdsa—thus making twelve in all.
+In the traumatic forms also of ceye-diseasc surgical
+operations are not advised by experts. 7.
+
+Names of Curable and incurable eye-
+disease :—Palliative or temporary relief is ail
+that can be offered in any of the six types of Kacha
+described before, as well as in the affection known as
+Pakshma-kopa, if the patient retains the faculty of
+sight. Lour of the Vayw-origined, two of the Pittaja,
+
+one of the Kaphaja, four of the blood-origined and four
+of the types caused by the concerted action of the three
+Doshas, as well as the two traumatic forms of optical
+affections should be regarded as beyond all cure. 8-9.
+
+Thus ends the eighth chapter of the Uttara-Tantra in the Sus'ruta
+Samhité which deals with the classification of eye.
+the different modes of treatment,
+
+es according to
+
+## Page 64
+
+CHAPTER IX.
+
+Now we shall discourse on the remedial measures of
+Abhishyanda (Ophthalmia) due to the action of the
+deranged Vayu (Vatdbhishyanda-~Pratish-~
+edha)* 1.
+
+The patient should be treated with old and matured
+clarified butter, both in a case of (VAataja) Abhishyanda
+(Ophthalmia) and (Vataja) Adhimantha (Conjunctivites).
+The diseased organ should be then duly* fomented
+and local venesection resorted to. Then after having
+effected full purging with the help of a Sneha-vasti
+(oleaginous enema), such measures as Tarpana, Puta-
+pika, fumigation, sprinklings (Aschyotana) +, snuffing
+(Nasya), oily washings, Siro-vasti (errhines) or washing
+the organ with Kanjika (Amla) or with any decoction
+prepared with the drugs of the Vdyu-subduing group
+or with that of the flesh of any aquatic (Jalaja) animal,
+or of one frequenting the marshy places (Anupa), should
+be resorted to. A compound consisting of clarified
+butter, curd, fat and marrow should be applied luke-
+warm to the affected organ, which should also be
+
+* It should be noted that the part of the forehead adjoining the eye
+and not the eye itself—should be fomented, since fomentation should not
+be applied directly over the eye.
+
++ As'cnyoraNa (Evr-pRop)—Consists in dropping into the eye
+with the two fingers, honey, A’sava, drug-decoction or any oleaginous sub-
+
+stance. Its doses are cight drops for scarifying purposes, ten drops for
+lubricating the part with any oleaginous substance (Snehana), twelve drops
+for the healing of any local ulcer (Ropana). They should be dropped luke-
+warm in winter and cold in summer into the eyes. In diseases of Vataja
+origin they should be of a bitter taste ; oleaginous in diseases due to the
+Pitta ; and bitter,—warm and parching in diseases due to Kapha.
+—VaIDyAKA NIGHANTU as quoted in the Vaidyaka-S’abda-Sindhu. Cf
+also Chapter XVIII, Uttara-Tantra.
+
+## Page 65
+
+Chap. IX.J UTTARA-TANTARAM. 35
+covered with a compress or linen soaked with the preced-
+ing lardacious compound. Milk, Vesavara, Salvana
+Poultice, Porridges (Payasa), etc. should be used by a
+physician in poulticing the affected organ. A portion of
+clarified butter cooked with the decoction of Triphala,
+or simply old and matured clarified butter, or milk duly
+cooked with the drugs of the Vayu-subduing group, or
+of the first group (viz., Viddri-Gandhddi Gana) should
+be taken after the meal. 2. A.
+
+The application of any lardacious substance other
+than oil cooked with the admixture of the Vayu-sub-
+duing drugs will prove beneficial for Tarpana purposes
+in such cases. The use of medicated Sweha in the shape
+of Putapdka, Dhuma (fumigation) and Nasya (snuffs) is
+likewise recommended. Oil (duly) cooked with Sthird,
+milk and the drugs of the Madhura group should be
+employed as a snuff (in such cases). The milk of a
+she-goat duly cooked with the admixture of the leaves,
+roots or barks of Eranda plants, or with the roots of
+Kantakdri, should be employed lukewarm in washing
+(Sechana) the affected organ. A liquid compound con-
+taining half milk and half water, and boiled together
+with Saindhava, Vdld, Yashti-madhu and Pippali, should
+be used in washing the eye as well as an Aschyotana
+(eye-drop). A liquid compound consisting of the milk
+of a she-goat diluted with the addition of water, boiled
+with the admixture of //rivera, Chakra (Tagara), Man-
+jishthd, and Udumbara-barks is considered to be the
+best eye-drop in cases of there being any pain (Sula) in
+the eye. 2. B.
+
+A thin plaster compound of Vasthimmadhu, Rajant,
+Pathyd and Devadéru, pasted together with the milk
+of a she-goat should be used as an Anjana (collyrium) in
+a case of acute Ophthalmia (Abhishyanda), and it proves
+
+## Page 66
+
+36 THE SUSHRUTA SAMHITA. [ Chap. IX.
+
+very effective. Gairika-earth, Saindhava, Krishna,
+(Pippali) and S’wxthi—the quantity of each subsequent
+one being double of that of the one preceding it in the
+order of enumeration, should be pasted together with
+water, made into Gutikd (a large pill) and be likewise
+applied (to the cye) in the manner of the application
+of an Anjana. The use of Snaihika (lardacious) Anjana
+(Collyrium) is beneficial in such cases. These will be
+duly dealt with later on. 2.
+
+Physicians should likewise adopt this method in
+treating cases of Anyato-vata and Vata-paryaya.
+Draughts of (medicated) clarified butter and of milk
+before the meal, are highly efficacious. Clarified butter
+duly cooked with (two parts of) Vrikshddani, Kapittha
+and major Pancha-mula, (one part of) the expressed
+juice (or decoction) of Karkata and (one part of) milk
+should be taken in such cases*. In the alternative,
+Ghrita duly cooked with (the decoction of) Pattura,
+Agnika (Ajamodé) and Aytagala and with milk, or
+clarified butter duly cooked with milk and (the decoc-
+tion of) Mesha-s'ringi, or of Viratara should be simi-
+larly taken. 3.
+
+Treatment of Sushkakshi-pdka:
+Saindhava, Devaddru and S'unthi and the expressed
+juice of Mdétulunga, water, breast-milk and clarified
+butter mixed together and duly prepared (in the manner
+of Rasa- ‘4) should be prescribed as an Anjana in
+cases of Sushkdkshi-pdka. The taking of clarified
+
+* According to Dallana and Gayaddsa, this Ghrita should be pre-
+pared without any Kalka. S'rikanta holds that the drugs Vridshaddni,
+Kapittha and the Pancha-mula should be taken as Kalka and the Ghrita
+prepared with three parts of milk, Stivadasa also seems io support this
+view.
+
+## Page 67
+
+Chap. IX.} UTTARA-TANTARAM. 37
+
+butter cooked with the drugs of the /7vaniya group and
+the filling of the cavity of the eye with the same, as
+well as snuffing with the Azz-ta‘la* are also efficacious
+in such cases. Washes composed of cold milk with the
+admixture of Saindhava salt or of milk cooked with
+Rajani and Deva-ddru and mixed with (a little quantity
+of) Saindhava are efficacious. Afahaushadha (Sunthi)
+rubbed over a stone-slab with clarified butter and breast-
+milk is also recommended as an Anjana (cyc-salve)}.
+The Vasa (essence of the flesh) of aquatic animals or of
+those which frequent swampy grounds, mixed with a
+little quantity of powdered S’unthé and Santdhava salt
+(and rubbed on stone-slab) should be applied to the
+eyesas an Anjana (collyrium) in a case of Sushkakshi-
+paka (Non-secreting type of conjunctivites). Let the
+intelligent physician treat the sight-destroying Vataja
+affections of the eye of what-soever kind in accordance
+with the principle herein inculeated. 4-5.
+
+Thus ends the ninth Chapter of the Uttara-Tantra in the Sus‘ruta
+Samhita which deals with the medical treatment of Vataja Abhishyanda.
+
+* According to Dallana, this Anu-taila is not the onc described in
+Chapter V of the Chikitsita Sth4na ; but the one described in the S‘élékya-
+Tantra.
+
++ This couplet may also be translated as follows :—Anjana (black-
+antimony) rubbed over a stone-slab with clarified butter and breast-milk
+
+is also recommended as a best remedy in stich cases.
+
+## Page 68
+
+CHAPTER X.
+
+Now we shall discourse on the curative treatment of
+Abhishyanda (Ophthalmia) duc to the action of deranged
+Pitta (Pittd-bhishyanda~Pratishedha). 1.
+
+General Treatment :—Blood-letting and
+purgatives, cye-washes and plasters round the cycs,
+medicinal snuffs and Anjana (collyrium), as well as the
+remedial measures for Pittaja-Visarpa (Erysipclas)
+should be employed in a case of Pittaja Abhishyanda
+(Ophthalmia) and Pittaja Adhimantha (Conjunctivites). 2.
+
+Clarified butter or goat's milk duly cooked with
+Gundrd, S'dli (paddy), S’aivdla, S'aila-bheda, Ddru-
+haridrd, Eld, Vtpala, two parts of Lodhra, Abhra (Mus-
+taka), Padmaeaves, sugar, Durvd, Ikshu, Tdla, Vetasa,
+Padmaka, Drdkshd, honey, (ted) Chandana, Vashti-
+madhubreast-milk, Havidrd and Ananta-mula, should be
+employed as a Tarpana measure* or as a wash or
+snuff in the present casc. As an alternative, all the
+preceding drugs or as many of them as would be avail-
+able should be daily used in the manner of any of the
+four forms of Nasyat. 3.
+
+Anjanas :—All the Pitta-subduing measures,
+may be employed in such cases. Application of medi-
+cinal snuffs (as well as eye-drops, etc.) with Ashiva-
+Sarpih (clarified butter churned from milk) at the
+interval of three days, as well as that of Anjana (colly-
+rium) with the expressed juice of Palés‘a or of S’allaki,
+mixed with honey and sugar, should be likewise resorted
+
+® See Chapter XVIII, ibid.
++ The four forms of Nasya are (1) Pratimarsha. (2) Avapida (3) Nasya
+(snuff) and (4) Stiro-virechana.
+
+## Page 69
+
+Chap. X. ] UTTARA-TANTARAM. 39
+
+to. The thick liquid extract (Rasa-Kriyd)* of Palind?
+or Yashti-madhu mixed with honcy and sugar, should
+be likewise employed. As an alternative, a com-
+pound consisting of Afusta, Samudra-phena, Utpala,
+Vidanga, Elé, Dhdtri and Vijaka and prepared in the
+manner of Rasa-kriyA should be employed (as an
+Anjana). 4.
+
+Acompound of 7é/isa (D. R—Kasisa), E/é, Gairika,
+Ustira and S'amkha (conch-shell) pasted with breast-
+milk should be applied to the affected organ in the
+manner of an Anjana (cyc-salve). As an alternative,
+the powder or the Rasa-kriya of Didtaki and Syandana
+(D. R.—Chandana) mixed with breast-milk should be
+used as an Anjana. Gold-leaf rmbbed with breast-
+milk, or the flowers of Avms’uka rubbed with honcy,
+or of acompound of Rodhra, Drdkshd, sugar, Utpala,
+Vacha and Vashti-madhu vubbed with breast-milk
+should be used as an Anjana. Barks of Varnakat pasted
+in cow's milk, or (red) Chandana wood, Udumbara and
+Toya (Vala) pasted in the same, or Samudraphena
+rubbed either in honey or breast-milk should be like-
+wise applied to the eyes in the manner of an Anjana. 5.
+
+ASchyotana :—Rodhra, Vashti-madhu, Drdkshé,
+sugar and Ufpala should be soaked in breast-milk. It
+should then be folded inside a picce of silk (Ashauma)
+and employed as an Aschyotana (cye-drop). A compound
+of Vashte-madhu and Rodhra rubbed in clarified butter
+should be similarly used. A compound of Kés’mart
+(Gamthari) Dhdtr?, Pathyd (Haritaki) and Zoya (Vala),
+
+* Fou preparation of Rasa-kriyd sec Chapter NVI, ibid.
++ According to Dallana, ‘Varnaka’ Imeans ‘Kochanifa’. It may
+
+also mean ‘Aarnita'ra’ which is not accepted either by Gay or by
+Dallana, It may also mean ‘Chandana’ which is most probably the
+meaning here.
+
+## Page 70
+
+40 THE SUSHRUTA SAMHITA. { Chap. X.
+
+aswell as that of Aatphala and Amdbu (Vala) should
+be similarly* prepared and applied. 6.
+
+All the above remedial measures with the exception
+of blood-letting should be resorted to in a case of Amld-
+dhyushita-Drishti and Sukti-pika. The medicated
+Ghritas known as the Traiphala Ghrita or the Tilvaka
+Ghrita* should be prescribed, or simply old and matured
+clarified butter should be given in such cases. 7.
+
+Ina case of Sukti-pdka an Anjana with cooling drugs
+should be speedily employed in the event of the Doshas
+being located in the lower part of the eye. Fine powder
+of Vaidurya gem, Sphatika (crystal), Vidruma (coral)
+and Muhtd (pearl), Samkha (conch-shell), silver and gold
+mixed with sugar and honey and used as an anjana
+would prove a speedy remedy in a case of Sukti-paka. 8.
+
+Clarified butter should be administered in a case of
+Dhuma-darsin and the procedure and the remedial mea-
+sures laid down in connection with Rakta-pitta and
+Pitta-origined Visarpa (Erysipelas) as well as the Pitta-
+sub-duing remedies * should be likewise employed there-
+in. 9.
+
+Thus ends the tenth chapter in the Uttra-Tantra of the Sus'ruta Samhita
+which deals with of the curative treatment of Pittabhishyanda,
+
+* In the first two compounds, some take ‘Toya’ and ‘Ambu’ for
+water. But Dallana having explained ‘Zoya’ as ‘Valaéa’ in a preceding
+compound we adopt that meaning of the word here also.
+
+} Traiphala-Ghrita is prepared by duly cooking clarified butter with
+the Kalka and decoction of 7ripkala’. For Tilvaka-Ghritaisee chapter III.
+Chikistsita-Sthéna.
+
++ By Pitta-subduing remedies Dallana means the remedial measures
+laid down in connection with the treatment of Pitta-Vidagdha- Drishti.
+
+## Page 71
+
+CHAPTER XI.
+
+Now we shall discourse on the chapter which deals
+with the curative treatment of Abhishyanda due to the
+deranged action of Sieshma (Sleshmabhishya-=
+nda-Pratishedha). 1.
+
+General Treatment :—An attack of Slesh-
+maja Abhishyanda or Adhimantha during the stage of
+acute aggravation should be treated by opening a local
+
+vein® or by the employment of fomentation, Avapida-
+
+a, Anjana, fumigation, washes, plaste:
+non-fatty (Ruksha) eye-drops (Aschyotana) and Puta-
+paka. The patient shou'd be made to fast on cach
+fourth day and to take a potion of Tikta-Ghritat+ in the
+morning, and his dict should consist of such articles as
+
+urgles or
+
+do not lead to the aggravation of the bodily Kapha. 2-3.
+
+Tender twigs or leaves of A'utannata, Ashpotd,
+Phanijjhaka, Vilva, Pattura, Pilu, Arka and Kapittha’
+should be employed in (mildly) fomenting the affected
+eye. A thin plaster composed of Malaka, S'unthi, Deva-
+dadru and Kushtha, should be likewise applied to the
+affected eye. 4.
+
+Hingu, (Asafeetida), Triphald, Yashti-madhu, Sain-
+dhava, Prapaundatka, Anjana (black Antimony), Tuétha
+(Sulphate of copper), and copper pasted together with
+
+The word ‘Atha’ (37) in the text. means says Dallana, that the
+
+local vein should be opened as the best resource, when fomentation, ele.
+
+would fail to effect a cure.
++ See Chikitsita-sthana, chapter IN.
+$ In place of “Kiwtannata” and “Arba” both Vrinda and Chakrapéni
+
+read “Surasa® and ©Arja”. S'rikantha the commentator of Vrinila how:
+ever is of opinion that Arka should be better reading in place of that of
+“Anja”.
+
+6
+
+## Page 72
+
+42 THE SUSHRUTA SAMMITA, (Chap. XI.
+
+water and made into a stick (Varti) should be applied as
+an Anjana to the affected eye. As an alternative, sticks
+(Varti) composed of Pathyd, Haridrd, Yashti-madhu and
+Anjana should be similarly applied. Compounds made
+of the equal parts of Pippali, Maricha, S'unthi, Haritaki,
+Amalaki, Vibhitaka, Haridré and Vidanga-seeds, or of
+Vélaka, Kushtha, Deva-déru, (burnt) conch-shell, Pdathd
+(Akanidhi), Anala (Chitraka roots), Pippali, Maricha,
+S'unthi and Manah-s'ildé (Realgar) and the flowers of
+Jati, Karanja and S obhdnjana* pasted together with
+water should be applied to the eye. The secdst of
+Prakiryé (Karanja), or of S’igrw with the seeds and
+flowers of the two kinds of Vrihati mixed with Rasdn-
+jana, Chandana, Saindhava-sait, Manah-s'ild, Haritaki,
+and garlic taken in equal parts and pasted together
+with water should be made into sticks (Varti) and used
+as an Anjana in all form
+
+The following medicinal compounds should be pres-
+
+of Kaphaja eye-diseases. 5.
+
+cribed by experts as an Anjana (cye-salve) in a case of
+Valdsa-Grathita after the system of the patient had
+been properly cleansed by means of blood-letting. A
+quantity of blue barley with the horns should be soaked
+(for a week or two) in milk and dried (after the manner
+of Bhavana saturation). It should then be burnt into
+ashes. These ashes should then be mixed with an
+equal part of burnt ashes of Azjaka, Ashphotaka,
+Kapittha, Vilva, Nirgundi and /dti flowers and an alka-
+
+* Dallana quotes the reading of “Panjika’éa’ra” (another commen-
+
+tator of Sus‘ruta) according to whom J/urva’ and the flowers of /a’ti only
+should be taken instead of the flowers of Jal, Karanja and S'obha'njana.
+This reading seems to be the correct one inasmuch as this makes the
+number of the drugs in the list twelve in all, as given by Dallana himself.
+
++ According to some commentators both the seeds and, flowers of
+Prakirié and of Stigru should be taken.
+
+## Page 73
+
+Chap. XI.) UTTAKA-TANTRAM. 43
+
+line solution should be duly prepared therewith. Saéx-
+dhava, Tuttha (Sulphate of copper) and Rochand should
+now be added to the above a'kaline solution and duly
+boiled. The compound thus prepared should be appilicd
+as an Anjana with an iron pipe (Nadi). This is’ pr
+cribed in a case of Va'asa-Grathita. Alkaline prepara-
+
+tions may be similariy prepared with (the flowers, ete.
+of) Phanijjhaka ctc., and may be employed ina similar
+manner. 6.
+
+A (thin) plaster composed of S’uuthi, Pipfali, Musta,
+Saindhava and white Maricha® pasted with the
+expressed juice of J/dtu/unga and applied to the eye as
+an Anjana, would bring about a speedy cure of the eye-
+disease known as Pishtaka. 7.
+
+Vrihati fruits shou'd be gathered whea ripe and a
+pas’. compound of (the equal parts of) Pppali and
+Sroténjana should be kept inside those scedless fruits for
+seven nights. The (preserved) paste shou!d then be
+taken out and applied to the eye asan Anjana. It
+proves beneficial in a case of Pishtaka. Paste may
+similarly be preserved inside a Mdrtdhu (brinjal), S'igru,
+Indra-Vérunt, Patola, Kirdta-tikta and Amalaki and used
+for the same. 8
+
+Kasiga (Sulphate of iron), Samudra, Rasdujana
+and buds of /d#-fiowers pasted together and rubbed in
+honey, is advised to be prescribed as an Anjana ina
+case of Praklinna-Vartma. 9.
+
+A single application as an Anjana of the compound
+composed of excellent Nddeya (Saindhava){ — salt,
+
+* Dallana explains white aricha as S'igru sceds.
++ Samudra may cither mean Samudra-phena or Samudra salt, i.e.
+‘lent on this point.
+
+Karakacka salt. The commentators are
++ Dallana explains Nédeya as meaning Saindhava, but it generally
+cans Srotanjana (black antimony).
+
+## Page 74
+
+44. THE SUSHRUTA SAMHITA. { Chap. NI.
+
+white pipper* and Nepdla-jdta (Realgar-lit, that which
+is produced in Nepala) taken in equal parts and_ pasted
+together with the expressed juice of J/dtulanga, would
+alleviate the itching scnsation (Kandu) in the eyes.
+Similarly a compound of S’ringa-vera, Deva-ddru, Musta,
+Saindhavé salt and buds of Jét flowers pasted together
+with wine and used as an Anjana would prove effica-
+cious in a case of swelling (Sopha) and itching sensa-
+tion of the eyes. The above ceye-diseases should be
+judiciously treated in accordance with the principles
+laid down in the treatment of the cases of Abhi-shyanda
+and Adhi-mantha. to.
+
+Thus ends the eleventh chapter of the Uttara-Tantra in the Sus'rata
+Samhita which treats of the curative treatment of S'leshmabhishyanda.
+
+* Dallana explains “‘S’veta-Maricha” as *S'igru-seeds”, but there is a
+
+particular kind of Maricha which is white in colour and this is also
+supported by some commentator.
+
+## Page 75
+
+CHAPTER XII.
+
+Now we shall discourse on the curative treatment
+of the type of Abhishyanda (Ophthalmia) which has
+its origin in the vitiated condition of the blood
+(Raktabhishyanda-Pratishedha). 1.
+
+General Treatment :—A wise physician
+shali pursue the same course of medical treatment in
+those four diseases known as Adhimantha, Abhishyanda,
+Sirotpata and Sird-harsha due to the vitiated condition
+of the blood. Persons suffering from any of the afore-
+said four compiaints should be first anointed and lubri-
+cated with old and matured clarified butter technically
+known as Aawabha Ghrita®, or with a copious quantity
+of clarified butter. Venesection should then be resorted
+to. The patient, having been made thus to bieed as much
+as required, should be treated with clarified butter duly
+ccoked with Siro-virechana drugs and mixed with sugar,
+
+as an errhine for cleansing the head. Piasters, washes,
+snuffs (Nas: inhalations (Dhuma) of medicated smokes,
+schyotana), Abhyanjanat, Tarpana (sooth-
+
+ing measures), Sneha-
+
+eye-drops (
+
+arma (cmulsive measures) and
+Puta-paka should then be prescribed according to the
+nature of the deranged Dosha involved in cach
+case. 2-3.
+
+A piaster (Pralepa) composed of NVilotpala, Cs'ira,
+Dérwharidra, Kaliya, Vashti-inadhi, Musta, Lodhra and
+Padma-Késhtha (taken in equal parts and) snixed with
+Ghrita—duly washed, should be applied round the region
+
+* See Chapter XLV, sutra-Sthéna,
++ Dallana explains “Abhyanjana” as collyrium, but he also says. that
+some commentators take it in its usual sense of ancintment with clarified
+
+butter washed hundred times in water, or such other Sncha.
+
+## Page 76
+
+46 THE SUSHRUTA SAMHITA. (Chap, XII.
+
+of the affected eye. Mild fomentations (Sveda), or
+leeches should be applied to the region around the eye
+in the event of there being intolerabie pain (due to any
+defect in bleeding) in the affected organ. Large draughts
+of clarified butter tend to alleviate the pain. Remedial
+measures and agents mentioned in connection with
+Pittabhishyande
+
+Rain-water with powdered Aas‘eru and Yashti-madhu
+
+should be as well employed. 6-7.
+
+added thereto may be squeezed with benefit through a
+piece of linen into the affected organ* as an Aschyotana.
+Flowers of Pdtald, Arjuna, S'riparni, Dhdtaki, Dhétri,
+Vilva, the two kinds of Vrihati,and of Vimbi-lota and
+Manjishthé taken in equal parts and pasted together
+with honey or expressed juice of sugar-cane and applicd
+to the affected organ as an Anjana (Collyrium) is said
+to bea curative in cases of Raktabhishyanda. 8-9.
+
+A. similar compound consisting of Chandana,
+Kumuda, Patra, Stilégatu, Kumkuma, powders of dead
+iron and dead copper, Zuttha (Sulphate of copper), lead,
+bell-metal, Rasdujana and the resinous exudation of a
+Nimba tree taken in equal parts should be pasted with
+honey and made into large Vartis (sticks). These are
+always recommended to be applied to the affected eye
+as an Anjana. 10.
+
+Treatment of Sirotpata :—A compound
+isting of honey and clarified butter and applied as
+an Anjana should be regarded as a patent cure in cases
+of Sirotpdta cyc-discase. A compound composed of
+Saindhava (salt), Kds‘is'a (Sulphate of iron) and pasted
+together with breast-milk should be similarly used. The
+
+* Both Dallana and Stivadasa say that pure transparent water may be
+used in preparing the compound ifrain-water is not available. Dallana
+says further that the affected eye should also be washed with the liquid
+compound thus prepared. Sfivaddsa, however, supports this latter view.
+
+## Page 77
+
+Chap. NU] UTTARA-TANTRAM, 47
+
+application as an Anjana of S’amkha (ccnch-shell),
+Manah-s'ilé, Tuttha, Déru-haridré, and Saindhava pasted
+with honey, or of (white) Jaricha pasted with the juice
+of SYérisha flowers, honey and wine, or of Svarna-Garika
+pasted with honey would be attended with beneficial
+results in cases of Sirotpdta. 11.
+
+Sird-harsha:—A compound consisting of
+Phénita( treacle boiled down to a sticky consistency)
+and honey should be applied to the affected organ as
+an Anjana in a case of Sird-harsha. Similar applications
+of compounds composed of Rasdujana (Antimony) pasted
+with honey, or of Saindhava and Kéds‘és‘a (Sulphate of
+iron) pasted with honey, or of Vetrdila* and Saindhaza
+pasted with Phduita and breast-milk wouid likewise
+prove highly efficacious. 12.
+
+Treatment of Arjuna :—.\'! the measures
+and remedies for Pittébhishyanda should be employed
+in cases of Arjuna cyc-discase. The expressed juice of
+sugar-cane, honey, sugar, breastmilk, Ddsw-haridra,
+Yashti-madhu and Saiindhava should be used in combi-
+nation as a wash (Seka), or an Anjana. <lmla
+(Kanjika, &c.) should also be used as an Aschyotana (eyc-
+drop) in such ca:
+
+The following drugs, 77s., sugar,
+Yashti-madhu, Katvanga, Mastu, Ala, honey, Saindhava,
+Vija-puraka, Kola and Dddimba of acid taste and other
+acid fruits cither singly or in combination of two or
+three should be judiciously used (as an Aschyotana
+with a due consideration of the vitiated Dosha in cach
+case). 13-14.
+
+These two following compounds viz., of Sphatiha
+
+* Dallana explains “Vetrdmla”
+
+“Amla velasa”. Some, however,
+divide it into two words 7s. “Vetra” and “Ainla” meaning thereby
+sprouts of Vetra (canc) ant Amla-vecasa respectively.
+
+## Page 78
+
+48 THE SUSHRUTA SAMIITA, { Chap. NIL.
+
+stal), Védruma (coral), S'amkha (conch-shell), and
+Vashti-madhu, pasted with honey, as well as of S’amkha,
+sugar, and Samudra-phena pasted with honcy, if used as
+an Anjana would prove curative in a case of Arjuna eye-
+disease. Satndhava and Kataka pasted with honey, or
+Rasdjana pasted with honey, or Kds‘isa (Sulphate of
+iron) pasted with honey, shouid constantly be applied
+as an Anjana to the affected organ. 15.
+Scarifying-Anjana :—All kinds of powder-
+ed (dead) metals (Gold, Silver, Iron, Copper, ete.) and
+metallic substances (Manal-s'ild, Gairika, etc.), (the five
+officinal kinds of) salt, all kinds of gems (Vaédurya, coral
+etc), the teeth (of cows, horses, etc.), the horns (of cows,
+etc), the drugs of the sedative (Avasddana) * group,
+pulverised shells of hen’s eggs, Las‘una (garlic), Trikatu,
+
+Karanja sceds and E/d (cardamom) mixed together and
+used as an Anjana, should be regarded as Scarifying
+(Lekhya) in their action. 16.
+
+Treatment of Sukra:—In a case of non-
+ulcerated (A-vrana) Sukra (milky film or white fleshy
+growth in the eye) a skilful physician shall (first)
+adopt all the preceding measures prescribed in the
+
+treatment of (Blood-origined) Abhishyanda,} beginning
+with Rakta-vi
+Puta-pika (and these failing, the Lekhydnjana—
+collyrium fer scarifying) should be adopted. A case of
+ulcerated (Sa-vrana) Sakra whether superficial or deep-
+seated t or rough should be treated in the same
+
+‘avana (Venescction) and ending with
+
+manner. 17-18.
+
+The group beginning with Kés'is’a—See Chapter NNNVI, Sutra-
+
+Sthana, page 334, Vol. I.
+
++ See paras 3 and 4 of this Chapter.
+
+$ “Superficial” (Uttana) is here used in the sense of “seated in the
+
+first layer” andl
+
+## Page 79
+
+Chap. XIL J UTTARA-TANTR.
+
+f. 49
+
+In a case of Sakra the affected part should be
+rubbed (scaritied) with a compound consisting of S‘irisha-
+seeds, Murtha, Pippali and Saindhava pounded together,
+or with Saizdhava a'one. A compound composed of
+powdered copper, Manah-s'ild, Marichaand Saindhava
+each preceding drug being taken ina quantity double
+the one immediately succeeding it in the order of enu-
+meration*, should be pounded together and made into a
+thin paste. Applied as an Anjana to the seat of the
+disease, it will cure a case of Sukra. As alternatives,
+the two compounds composed of S’amkha, stones of
+Kolas, Kataka, Drdksha, Vashti-inadhu, Mékshika (honey),
+orof teeth (of cows, cte.), Sanudra-phena and S'irisha
+flower anil honzy should be applied to the affected
+locality inthe manner of applying an Anjana. The Kshd-
+rdujana (alkaline collyrium) mentioned in connection
+grathita,t may
+as well bz profitab'y employed as an Anjana (eye-salve)
+in the present disorder. Eye-salyes made of fried husk-
+
+with the medical treatment of Vals:
+
+less Vadyr pu'se, (burnt) Samkha and sugar mixed with
+honey, or of the pith of Madhuka pasted with honey,
+or of the inner pulps of the stones of Iibhitaka pasted
+with honey should be constantly used as an Anjana, in
+Sukra. A compound
+shd, Vashti-
+madhu, Kataka and honey may be used and soothing
+application (Tarpana) antidotal to the deranged bodily
+Vayu, should be resorted to in cases of Sukra, if the
+second layer (Patala) of the cye is attended with pain
+(Sula). 1g 26.
+
+cases of the eye-disease known
+consisting of conch-shell, oyster-shell, Dra.
+
+* One part of Saindh iva, two parts of Alaricha, four of Manaks'ilt,
+eight of S'amfha and sixtecn parts of copper should be taken in the pres
+paration of the compound.
+
+f See Chapter Ny para 6.
+
+“
+
+## Page 80
+
+50 THE SUSHRUTA SAMUI TA. ( Chap. NIL
+
+Young bamboo-sprouts, Arushhare, Tals (palm) and
+Nérikela (cocoanut)* should be burnt to ashes and
+alkaline water shou'd be duly pzepared therewith. The
+burnt ashes of clephant’s bones should be soaked several
+(seven) times with the above alkaline preparation in the
+manner of Bhavana saturation. The application of this
+preparation in the manner of an Anjana tends to
+remove the discolouring nature (whiteness) of a case
+of Sukra +f. 22.
+
+Treatment of Ajaka :—The thin watery
+matter accumulated in the eye in a case of Ajakd
+should be drained by making a puncture on either side
+(of the cornea ) with a needle after which the incidental
+ulcer should be filled with powdered beef mixed with
+clarified butter, Scarification shou'd be many times
+made in the event of the ulcer becoming raised. 23.
+
+Treatment of Akshi-pdka :—Applica-
+tions of Sneha and of Syeda (fomentation) to the affected
+locality should be made in cases of the two kinds of eye-
+disease known as Sa-Sopha and A-sopha Akshi-pdka
+(inflammation of the eye-lid whether attended with any
+local swelling or otherwise). Vencsection should then be
+resorted to. Eye-washes, eye-drops (Aschyotana), errhi-
+nes (Nasya) and Puta-pdka measures should also be
+
+employed. 24.
+
+After having cleansed the systein of the patient both
+internally and externally the following compounds
+should be used as an Anjana (in cases of the two kinds
+
+* The spathe (Jat4) of the palm tree and the shell of the cocoanut
+fruit should be taken in preparing the compound —S’iva‘lasa.
+
++ The prepar.d powder of clephant’s bone should be mixed with
+honey and rubbed over the affected part (S’ukra) with the tip of the finger
+ye should then be washed with the in-
+
+or witha Sfalakd (rod). Ti
+fusion of 7riphald.—Dallana.
+
+## Page 81
+
+Chap. XII) UTTABRA-TANTRAM. St
+
+of Akshi-paka). Serndhava and clariticd butter pasted
+together in a copper vesse! with flesh or AZeévera or curd
+n Anjana.
+AAs an alternative, the rust of bell-metal pasted with
+
+or with curd-cream  shou'd be used as
+
+clarified butter, or Safndhava pasted with breast-milk,
+or equal parts of the pith of JWathuka tree and Gairika
+
+pasted with honey, or Savdthava and copper pasted
+
+with breast-milk and clarified Lutter should be used as
+Anjanas. The compounds of Dadiviba, Araveta, As’
+manta, Kola, and Saindhava pas:ed with any acid juice*
+should be applied to the affected organ in the manner
+of a Rasa-kriyd measure for the cure of (the two kinds
+of) Akshi-pika. 25-26.
+
+Animal flesh and Saéndhavs salt soaked in clarified
+butter and mixed with S’wz/h/ and breast-nilk should
+be applied to the affected org:
+Aschyotana or as an Anjana. .\ compound consisting
+of Jat flower, Saindhava, S'unthi, Pippali and huskless
+Vidanga pasted together with honey, may as well be
+
+san in the manner of an
+
+used as an with advantage in a case of
+Akshi-paka. .
+Treatment of Puydlasa :—Blood-letting
+
+(after the application of Sncha and Sveda) and_ poultic-
+
+ing (Upantha) of the affected lecality are efficacious
+in the affecticn of the ey nown as Puydlasa. The
+measures and remedies which prove curative in cases
+of Aksk
+cretion in this case by a_ physi
+(cy
+(Sulphate of iron), or Ads
+and copper dust pasted together with honey, should be
+
+paka should as well be employed with dis-
+ian. An Anjana
+salve) composed of Ardraka, Saindhava and Kas'tsa
+
+sa Saindhava, cirdraka, ivon
+
+applied to the affected eye in the manner of an Anjana
+(in a case of Puydlasa). 29 30.
+
+* Some add honcy in the list
+
+## Page 82
+
+A SAMEITA, (Chap. NUL
+
+THE SUSHK
+
+Treatment of Praklinna-vartma :—
+The deranged Doshas of the system should be duly*
+removed (corrected) and the patient should be duly
+soothed in a case of Praklinna-vartma, after which
+washes, eye-salves, eye-drops (Aschyotana), snuffs (Nasya)
+and fumigation (Dhuma) should be resorted to according
+to the Dosha involved in each case. A compound
+composed of Musta, Haridrd, Vashti-madhu, Priyangn,
+Siddhartha, Rodhra, Utpala-sdrivd + pasted together *
+should be employed in the manner of an Aschyotana
+measure. As an alternative, the compound consist-
+ing of Rdsdujana and honey
+Anjana. 31-32.
+
+* The decoction of the leaves ‘and fruits of Arlaka
+should be duly prepared (in the manner of Rasa-kriya)
+
+should be used as an
+
+and used as an Anjana. Rasa-kriyd preparations pre-
+pared with (the expressed juice of) the roots of bamboo,
+or Vartis prepared with the same by (condensing it by)
+cooking it (again) in a copper vessel, should be used for
+the above purpose. Rasa-kriyA preparations prepared
+with 7riphald, flowers of Paldsa, or Khara-imanjari,
+
+should be similarly applied to the affected organ. FE
+
+salves made of powéered Adis’ va-it/a and cotton fibres
+(Tantu) burnt together and pasted with the miik of a
+she-goat and mixed with (white) March1 and powdered
+copper should be used as a Pratianjana to the cye
+(already weakened by the use of Anjana.) 33 34.
+
+* Dallana says that the
+cleansed with the application of Sneha, Venesection, purgative, errhines
+and A’sthépana.
+
++ In place of ¢
+
+deranged Doshas of the system should be
+
+aaa aticaifa: som: read ‘aparfaaaifcarfa:, meaning
+the term ‘Asita-sériv:
+—Dallana.
+
+in this case ‘Syima-laté’ b Others again mean
+
+‘Rasdnjana’ by the term ‘Asi
+
+$ Dallana recommends ‘rain water’ as the liquid for the preparation.
+
+## Page 83
+
+Chap. NII. J UTTARA-TANTRAM.
+
+3
+
+An eye-ssalve or an Anjana made of Samudra-phena,
+Saindhava, conch-shell, Mudga and white Waricha mixed
+together (in the shape of a powder) should be prescribed
+in a case of Aklinna-vartma as it would promptly
+alieviate the local itching. The foregoing measures
+
+and remedies shou'd be likewise emp'oyed in a case
+of Praklinna-vartma according tothe nature of the
+deranged Doshas involved therein. An Anjana pre-
+pared with the admixture of Kajjala and Tuthhaka
+(Sulphate of copper) rubbed in clarified butter on the
+surface of a copper
+such cases). 35-36.
+
+a
+
+ssc!, would be similarly used (in
+
+Thus ends the twelfth chapter of the Uttara-Tantra in the Sus'ruta
+Samhita which treats of the curative treatment of Raktabhishyanda.
+
+## Page 84
+
+CHAPTER NILL
+
+Now we shall discourse on the curative treatment of
+
+eye-discases in which Si cation should be resorted to
+(Lekhya~-Roga-~Pratishedha). 1.
+The general course of treatment to be adopted in the
+
+nine kinds of eye diseases which are amenable to Scari-
+
+fying (Lekhana) operations is as follows :—The patient
+should be laid ina chamber not exposed to the sun
+and the gales of wind, after having been treated with
+proper emulsive measures (Sncha-karma)* and sub-
+jected to a course of emetics and purgatives. The cye-
+lid should be over-turned with the thumb and the index
+fir
+picce of linen soaked in lukewarm water and squeezed.
+
+yer and should be very carefully fomented with a
+
+The eyelid should be covered with a piece of linen and
+over-turned with the thumb and the index finger at the
+
+time to guard against its movement and enclosing. The
+(part of the) eyelid to be scraped, should be wiped
+with a linen and marked with a surgical instrument and
+the scraping should be effeeted therein with a scraping
+knife or any (rough) leaf according to the exigencies of
+the case. After the subsidence of the bleeding, the
+part should be fomented and then gently rubbed (Prati-
+sdrana) with a medi
+silé (Realgar), Ads'isa (Sulphate of iron), Trihat, Aiyjana
+(black antimony), Saindhava salt and JJékshika finely
+pounded together. After this the part should be washed
+
+inal compound consisting of Aanah-
+
+with Jukewarm water and lubricated with clarified
+
+butter. The subsequent treatment thereof should he
+
+* It should be noted that the patient should also be fomented (Sveda)
+
+after being treated with the emulsive measures.
+
+## Page 85
+
+Chap. XIII. ] UTTARA-TANTRAM, 5
+
+like that of an u'cer (Vrana).* Fomentations, Avapida,
+etc, should also be employed after three days. Thus
+Thave described to you the general measures to be
+observed in scraping an affected locality in the eye. 2.
+
+Satisfactory and deficient scari-
+fication :—Stoppage of bleeding, subsidence of the
+swelling and itching, a smooth level aspect of the part
+like the surface of a finger nail are the features, which
+mark a proper and satisfactory scarification. Red-
+ness of the eyes, swelling and discharge of blood
+from the operated locality, occurrence of Timira (blind-
+ness or darkness of vision), non-amcliorations of the
+
+disease under treatment, brownn
+itching, horrip
+matter) of the eye-lids and a consequent high inflamma-
+tion of the eye if not attended to in time, are the symp-
+toms which attend an incomplete and unsatisfactory
+
+scarification, and this should be remedied by anointingt
+
+s, heaviness, numb-
+
+ness ation and coating (as if with foreign
+
+and scarifying the affected part again. 3-4.
+Excessive Scarification :—lixcessive dis-
+charge and pain in the locality together with an
+upturning of the cye-lids and spontancous uprooting of
+the eye-lashes should be ascribed to excessive scraping.
+Fomentation, application of Sncha and employment of
+
+Vayu-subduing measures should be resorted to in such
+cases. 5.
+
+In the following discases of the eye, 77s. Vartma-
+yabandha, Klishta-vartma, Bahala-vartma and Pothaki,
+
+the affected part shou'd first be gently scraped and then
+
+* For the first seven days the treatment should be like that of an
+incidental ulcer (Sadyo-vrana) after which period, the case should be
+
+Ircated, if necessary, a5 a case of Sfitira
+
+t Dall:
+‘@efaqear’ (anointing).
+
+a says that some read ‘ea!
+
+(lomenting) in place of
+
+## Page 86
+
+56 THE SUSIRUTA SAMIIITA, — [ Chap, XIIL
+
+scarified. In Syava-vartma and Kardama-vartma, the
+intelligent physician will gently scarify the affected
+part neither dceply nor superficially. In cases of Ut-
+sangini, Sarkaré and Kumbhikini, the seat of the discase
+should be first cut (with a knife) and then carefully
+scarified. An incision shou'd be followed by a scarifica-
+tion in the case of small, very hard, supperated, copper-
+coloured, Pidakds ((quiatles) occurring on (the inner
+membrane of) the ey: Small and slightly swelling
+Pidakds (pustules) occurring on the exterior surface
+of the eyelid should be remedied with fomentations,
+plasters and the general corrective remedies. 6.
+
+Tantra in the Sus’rata
+
+Thus ends the thirteenth chapter of the Uttai
+Samhita which treats of the curative treatment of (eye-) diseases amenable
+
+to scarification,
+
+## Page 87
+
+CHAPTER XIY.
+
+Now we shall discourse on the curative treatment of
+eye-diseases which require surgical incisions (Bhedya=
+Roga-Pratishedha). 1.
+
+Treatment of Visa-granthi :—In a case
+of suppurating Vis1-granthi, it should be first fomented,
+and its puncture-like holes should be completely incised
+(so as to remove any swelling in the affected part). It
+should then be dusted with Sacudhava, Kés'ts'a, Mégadhi,
+Pushpénjana, Manah-s’ilé and Elé pounded together*.
+Honey and clarified butter should then be applied (over
+the dusted part), and it should be duly (loosely) bandaged
+(for the complete union of the parts). 2.
+
+Lagana :—An incision should be made into
+the aflected part in a case of Lagana, and any of the
+following drugs, 7s. Rochand, Vava-kshdra, Tuttha,
+Pippali and honey should be applied to the incised
+part; while in serious (lit—big) cases cauterization
+with alkali or with fire will be the remedy. 3.
+
+Anjana :—In a case of Anjana, the affected part
+should be duly fomented and if it spontancously bursts
+open, it should be well pressed and rubbed (Pratisdrana)
+
+with a plaster-compound of -Wanah-s'ild, Hid, Tagara-
+padukd and Saindhava, pasted together with honey.
+If, however, the surgeon wants to open it, it should be
+rubbed with honey and Rasdujana mixed together and
+
+* Both Vrinda and Chakradatta read only the first two lines of the
+text and hold that the incision should be dusted with Saindhava only,
+‘Their commentators, however, accept the ceading there to be Sus’ruta’s.
+‘They supply the next two lines of Sus'ruta, and notice the consequent
+alteration in the sense.
+
+8
+
+## Page 88
+
+58 THE SUSHRUTA SAMIII { Chap, XIV,
+
+then coated with a warm collyrium made with the
+lamp-black collected from a burning lamp flame. 4.
+
+Krimi-granthi :—Ina case of Krimi-granthi,
+the affected part should be duly fomented after it has
+been incised and it should then be treated with the
+Rasa-kriyé solution prepared with (the decoction of)
+Triphaldé (with the addition of) Tuttha", Kd-sisa and
+Saindhava. Ina case of Upandha (in the cye) due to
+the action of the deranged Kapha, the affected part
+should be opened and rubbed with powdered Pippalé and
+Saindhava mixed with honey. It should then be scraped
+with a Mandaldgra instrument. The surrounding parts
+should also be gently seratched all around. 5.
+
+In the foregoing five cases of incisable cye-discase,
+until the setting in of suppuration therein, the affected
+eye should first be treated with Sneha and then with
+light fomentation with (the help of) tender leaves (as
+a cover over the eye). In all the remedies to be adopted
+in the treatment of these (incisable eye) diseases, the
+application of a Sneha should be first adopted. In
+cases, however, where suppuration had already set in,
+the remedies for the healing up of the ulcer, should be
+carefully adopted. 6.
+
+Thus ends the fourteenth chapter of the Uttara-Tantra of the Sus‘ruta
+Samhita which deals with the curative treatment of (ey
+
+) diseases requiring
+incisions.
+
+* Both Vrinda and Chakrapdni read ‘4/ufya’ (cow’s urine) in place of
+
+‘Tuttha’, Voth of them also recommend the addition of Rasdujana in
+the compound.
+
+## Page 89
+
+CHAPTER XY,
+
+Now we shall discourse on the curative treatment of
+cye-diseases, which should be cured with excisions
+(Chhedya-Roga-Pratishedha). 1.
+
+Treatment of Armas :—The patient should
+be first treated with a Sneha-predominating food
+before being surgically operated upon ina case of Arman
+marked by the manifest vegetation or polypus (on the
+affected eye). The patient should then be made care-
+fully to sit at ease and the affected eye should then
+be irritated by casting powdered Satndhava-salt into
+its cavity after which the cye-ball, without any loss of
+time, should be duly fomented and rubbed with the hand.
+The intelligent physician will then ask the patient to
+look at his Apdnga (the interior corner of his own affeet-
+ed eye) and the cyst or the polypus (thus turned up),
+should be carefully secured with a hook (Vadisa) and
+held with a Muchundi instrument or with a thread-
+needle. It is dangerous to suddenly uplift the eye-lid
+under the circumstances. The two eye-lids should be
+firmly drawn asunder so as to guard against their being
+anywise hurt during the operation. The  polypus,
+thus made flabby and pendent with the means of the
+three aforesaid accessories, should be fully got rid of
+by scraping it with a sharp Mandalagra instrument.
+The root of the polypus should be pushed asunder
+from the Krishna-mandala (Sclerotic region) and the
+Sukla-mandala (1
+of the Kanina!
+
+sion of the cornea), to the extremity:
+(pupil) and then removed. The
+Kaninaka (pupil) should be duly guarded so as not
+to be hurt. A quarter layer of the flesh (of the polypus)
+should be lefi back and then the operation won'd not
+
+inany way hurt or injme the eye. An operation at
+
+## Page 90
+
+60 TIL SUSURUTA SAMIITA. { Chap. XV.
+
+a point beyond the aforesaid limit of the Kaninaka
+(might hurt the pupil and) would set up a hemorrhage
+and beget a sinus (as well as ptin) in the locality.
+The vegetation or polypus is sure to grow up again to
+its former size if it is cut off insufficiently. 2.
+
+A shreddy or netted Arman in the form of a mem-
+branous growth (Jala) in the eye should be made pen-
+deat by rubbing it (with Saézdhava-salt) and then cut
+with a bent Vadisa instrument at the junction of the
+Sukla-mandala (cornea) and the Vartma-mandala (con-
+junctiva or eyc-+tid). The affected part should then be
+rubbed with a compound consisting of VYava-kshdra,
+Trikatu and Satndhava-salt (pounded together) and
+then (duly) fomented and bandaged up by the skilful
+physician. Lardaceous or oily (Sneha) application
+should thereafter be prescribed with due regard to the
+nature of the place*, the season, the time (day or
+night) and the strengih of the patient, and the incidental
+wound should be treated as an ulcer. The bandage
+should be removed after three days and the affected part
+should be (mildly) fomented with the application of
+heated palms of the hands and treated with corrective
+or purifying remedies. 3.
+
+Milk duly cooked with Karanja seed, Amalaka and
+Vashti-madhu and mixed with honey (when cold),
+should be dropped twice a day (morning and evening)
+into the affected eye in the event of there being any
+pain in it. A cold plaster composed of Vashti-madhu,
+polens of lotus (U¢pa/a) and Durva-grass pasted together
+with milk and mixed with clarified butter is recom-
+mended in such cases to be applied to the scalp. 4.
+
+* In place of ‘gy—the particular part and nature of the country,
+
+some real (3pq'—the par
+
+cwlar Dasha involved in each case.
+
+## Page 91
+
+Chap. XV.) ULTARA-TANTRAM, or
+
+Any residue of the Arman, left after the excision,
+should be removed with the application of Lekhya*
+(scraping) Anjana or eye-salve. An Arman (Cyst-like
+papilla or protruberance) which is as white as curdled
+milk (Dadhi), or which looks blood-red or blue or grey,
+should be treated like a case of Sukrarman (Opacity of
+the cornea or a flimy and fleshy growth in the eye). An
+Arman which is very thick and looks like a piece of skin
+
+and covered over with fibres of flesh and nerves +, as
+well as one occurring on the Krishna-mandala (region
+of the iris) should be excisioned. The eye asst nes its
+former and natural colour and function, and becomes
+free from pain and other complications by the proper
+excision of an Arman. 5-8.
+
+Treatment of Sird-Jdla and Sira-
+pidaka :—In a case of Sird-Jdla, the hardened veins
+(Sira) should be hung down with a hook (Vadisa) and
+scraped with a Mandaldgra (round-topped) instrument.
+
+Cysts or pimples (Pidakas) appearing on the diseased
+veins in a case of the aforesaid Sira-Jéla and not prov-
+ing amenable to the application of medicines, should
+be excisioned as in a case of Arma with a Mandalagra
+instrument. Pratisdrana (rubbing) as in a case of Arma
+and Lekhana (scraping) with due regard to the nature
+of the deranged Dosh
+
+nyolved in each case, are also
+recommendad in both the diseases (Sird-Jala and
+Sjr4-Pidaka) under discussion. 9.
+
+Treatment Of Parvanikd :—In a case of
+Parvanika the place of junction t (of the lachrymal
+
+* For Lekhya Anjana sce Chapter NIL, para 16 of this Uttara Tantra,
++ Some hefe read ‘faz? (veins) in place of ‘qa? |
+“fThe function’ is the junction of the Krishna-mandala and the
+Sukla-mandala of the cye.—Dallana.
+
+## Page 92
+
+62 PHBE SUSIKUTA SAMILUDA, [ Chap. XV.
+
+sac and the cornea) should be duly fomented. A
+quarter part only of the protuberance or growth should
+be kept apart, while the remaining upper three quarters
+should be secured with a hook and cut with a knife.
+Half of the aforesaid quarter part should then be cut
+away (very carefully), as lachryma! sinus (and conse-
+quent lachrymation) would otherwise set in. The seat
+of operation should be subsequently rubbed (Prati-
+sdrana) with a compound of honey and Saindhava-salt.
+
+rifying (Lekhana) powders should then be applied
+to the affected part for the complete recovery of the
+disease (any complaint still remaining), ro.
+Churna-Anjana : —Powde!
+(conch-shell), Samudra-phena, marine oystershell, or
+
+of — Samkha
+
+ruby, coral, As’mantaka, Vaidurya (Lapis lazuli), pearl,
+iron, copper and Srofonjana (antimony) taken in equal
+parts and mixed together, should be stuffed in a ram's
+horn* and then lect the intelligent one apply this Churna-
+anjana (powder) to the affected locality, morning and
+evening everyday, as such applications are extremely
+
+efficacious in all types of Armans, Pidakds, Sird-jéla,
+Arsas, Sushkarsas and Arvuda, etc. in the eye. 11.
+Treatment of inner part of the eye-
+lids :—The mode of treatment in a case of any affec-
+tion in the inner lining of the Vartma (eye-lid) is given
+below. The affected part should be first fomented and
+then the eye-lid should be over-turned (held at an angle),
+and the diseased growth or swelling should be carefully
+lifted up with a needle, when an experienced physician
+
+should cut it at its root or base with the help of a sharp
+Mandalagra instrument. After that the affected pari
+should be rubbed with a pulverised compound consist-
+
+Dallana explains UWeska-s'ringa’ as a kind ot Zugusté tree.
+
+## Page 93
+
+Chap. XV. ] UTTARA-TANTRAM. 63
+
+ing of Saindhava, Kdsisa (Sulphate of iron) and Pippati.
+The affected eye-lid should then be carefully cauterised
+with a (red-hot) rod after a complete) cessation of the
+bleeding. The residue of its root or base, if any, should
+be scarified with a scarifying alkaline (caustic) prepara-
+tion. Decoctions of strong emetic and purgative drugs*
+
+should be (internally) administered for the climination
+of the Doshas (from the Vrana—ulcer). The measures
+and remedies mentioned in connection with Abhi-
+anda (Ophthalmia) should also be prescribed with
+gard to the nature of the bodily Doshas involved in
+the case. The patient shall observe strict regimen ot
+dict and conduct for a month after the surgical opera-
+
+tion. 12.
+
+Thus ends the fifteenth chapter in the Uttara-Tantra of the Sus'ruta
+Samhita which treats of the remedies of eye-diseases requiring excisions or
+surgical operation.
+
+* Some commentators say that emetics and purgatives should be inter
+
+nally administered, but Dallana and the Panjiké-kéra oppose this view.
+
+## Page 94
+
+CHAPTER XVI.
+
+Now we shall discourse on the curative measures for
+the remedy of dis s occurring on the eyelashes and
+hence on the eyelid (Pakshma-kopa Prati-
+shedha). 1.
+
+Surgical Treatment:—In a case of
+Pakshma-kopa which is an affection of the eyelid and
+which has been described before as admitting only of
+palliative treatment, the patient should be first treated
+with a Sneha and made to take his
+
+eat (in a proper
+position). A cut in the shape and size of a barley corn
+should be made in the eyelid horizontally parallel to
+(the part of the eye-ball lying between) the Kaninaka
+(pupil) and the Apanga (exterior corner of the eye)
+leaving two parts below the eye-brow and one part
+above the eye-lashes. The surgeon should then diligently
+suture up the two edges of the incisions with (horse's)
+hair. After the application of honcy and clarified butter
+to the operated part, it should be treated in the manner
+of an (incidental) ulcer. A picce of linen should be tied
+round the forehead and the horse's hair sewing up the
+operated part should be attached thereto. The stitching
+hair should be carefully remoyed after the complete
+adhesion* of the two edges of the incidental ulcer. 2.
+
+Cauterisation :—In case of the failure of the
+preceding measure, the eye-lid should be carefully exa-
+mined and lifted up in an inverted posture and the
+diseased cyst (Bali) should be very carefully cauterised
+with fire or alkali, As an alternative, the Pakshma-
+
+* According to Vagbhata, the stitching hair should be removed on the
+fifth day.
+
+## Page 95
+
+Chap, NVI. J UTTARAY
+
+NTRAM. 65
+
+mala (eye-lashes) should be all removed and the affected
+eyelid having been carefully secured with three hooks
+(Vadisa) should be rubbed with pasted Haritaki and
+Tuvaraka (Lodhra). The four aforesaid measures* as
+well as purgatives, eye-drops (Aschyotana), medicinal
+s, Collyrium,
+Sneha and Rasa-kriyd, should be likewise held as
+beneficialt in cases of Pakshma-kopa. 3-5.
+
+snuffs, inhalations (fumigations), Plaste
+
+Thus ends the sixteenth chapter of the Uttara-Tantra in the Sus’ruta
+Samhité which treats of the remedies of Pakshma-kopa.
+
+* The four measures are (a) operation, (4) cauterisation with fire,
+(c) cauterisation with alkali, and (@) application of medicinal drug:.
+
+} It should be noted that this disease cannot be radically cured, but is
+amenable only to palliative treatments (qr).
+
+## Page 96
+
+CHAPTER XVIL
+
+Now we shall discourse on the curative treatment
+of the diseases of the pupil and the Crystalline lens
+(Drishti-gata-Roga-Pratishedha). 1.
+
+Of the diseases included within the present group,
+three are curable, three are incurable, while the remain-
+ing six admit only of palliative treatment. The cura-
+tive remedies of the discase known as Dhuma-darsi
+(smoky or dusky vision) has been already described
+(in connection with the medical treatment of Pittaja
+Ophthalmia) *. All the remedies applicable in cases
+of deranged Pitta and Kapha as well as application of
+Nasya (snuff), Seka (sprinkling), Anjana (Collyrium),
+A'‘lepa (plaster), Puta-paka and Tarpana (soothing
+remedies with the exception of surgical operation should
+be respectively administered in cases of Pitta-affected
+(Pitta-vidagdha) and Kapha-affected (Sleshma-vidagdha)
+vision. Traiphala-Ghrita should be prescribed in a case
+of Pitta-vidagdha-Drishti and Traivrita-Ghrita in a
+case of Sleshma-vidagdha-Drishti. Potions of old and
+matured clarified butter as well as of Tailvaka-Ghrita
+are ‘equally efficacious in both cases +. Collyriums
+(Anjanas) should be prepared with Gairika, Saindhava,
+Pippali, and the charred remains (Masi) of cow's tecth,
+or with beef, Maricha, S'irisha-sceds and Manah-s'ild,
+or with the stalk of a Kapitthi fruit together with
+honey, or with Atmaguptd pasted with honey ; these four
+
+* See Chapter X, 9, Uttara-Tantra,
+
++ Traiphala-Ghrita, Traivrita-Ghrita and  Tailvaka-Ghrité shéuld
+be prepared with both the decoction and Kalka of Triphalé, Trivrita and
+of Tilvaka respectively.
+
+## Page 97
+
+Chap. XVIL UTTARA-TANTRAM. 67
+
+Anjanas may be used with advantage in both the types
+under discussion. 2-3.
+
+Pushpa’njana :—Powders of the flowers of
+Kubjaka, Asoka, S'dla, Amra, Priyangu, Nalini and of
+Vipala, as well as powdered Renuka, Pippali, Haritaki
+and Amlaki mixed with honey and clarified butter,
+should be kept inside a hollow bamboo and applicd
+to the eye in the manner of a collyrium (Anjana) in
+cases of Pittavidagdha and Sleshmé-vidagdha cye-
+diseases. 4.
+
+Dravanjana and Gudikdanjana :—As
+an alternative, Renukd pasted with the expressed juice
+of the flowers of Amra (mangoe) and Jambu (black-berry)
+and mixed with honey and clarified butter, should be
+used in both the above cases as an Anjana. Pollens of
+Nalini (red lotus) and of Uépala (blue lotus) as well as
+Gairika * pasted together with the Rasa (watery secre-
+tions) of cow-dung + and made into large pills (Gudika)
+may be profitably applied to the eye as an Anjana alike
+
+in cases of day-blindness and night-blindness. This
+Anjana is called the Gudikanjai 5.
+
+Treatment of Day-blindness :—Rasdu-
+jana, Rasa (Juice) %, honey, Talis‘a-patra and Svarna-
+
+gairika should be pasted together with the Rasa of
+cow-dung and applied (in the manner of an Anjana) in
+cases of Pitta-affected vision 7e. day-blindness. S’éta
+
+* Chakradatta does not read *Gairika’ in the list.
+f In place of “ataaq” some real “apapRA” é
+which may mean a cow or any animal, such as goat, sheep, ete,
+—Juice) means the juice of
+According to others, however, it means the juice of the leaves
+Chakradatta, however, reads “gq” (clarified butter) in
+
++y the liver of a ay”
+
++ According to Dallana, §
+
+A'malak:
+of fiiti flo
+place of “rq”,
+
+## Page 98
+
+68 THE
+
+SUSHRUTA SAMIIITA. ( Chap. XVI.
+
+(Rasanjana, or according to some Camphor), and
+
+Sanvira should be soaked in Rasa (meat-j
+
+nice) * and
+then pasted together. It should then be soaked again
+in the bile of a tortoise or of a Rohita fish and dried
+and reduced to powder. The present compound is called
+the Churna-anjana (powdered Collyrium) and may be
+used beneficially for the pacification of Pitta (in cas
+Pitta-vidagdha-Drishti). Ads'’mavi flowers, Vashti-
+Déarvi, Rodhra and Rasdnjana, should be pounded
+together and mixed with honey. Used as an Anjana it is
+always efficacious in the affections of the eye. 6-8.
+Treatment of nocturnal blindness:
+—The application of a medicinal Varti (stick) composed
+of Sanvirdujana, Saindhava, Pippali and Renukd pasted
+together with the urine of a she-goat would prove
+highly beneficial in cases of nocturnal blindness. Simi-
+larly the application of a medicinal Varti (stick) com-
+posed of Kaldnu-Sdrivd, Pippali, S'unthi, Vashti-madhu,
+Télis'apatra, the two kinds of Haridrd, and Musta,
+pasted with the Rasa of cow-dung + and dried
+in the shade, proves beneficial in such cases. A/anah-
+s‘ild, Haritaki, Trikatu, Bald, Kalanu-siriva and (S’amu-
+dra-) Phena pasted together with the miik of a she-goat
+and similarly prepared in the shape of a Varti is also
+
+s of
+
+recommended. 9-11.
+
+Rasa-Kriya’njana :—The urine, bile and
+
+dung of a cow * together with wine, should be boiled
+
+(in the manner of Rasa-kriydnjana preparation) in the
+
+* Rasa may also, from the context, mean the watery secretions of
+cow-dung.
+
++ Dallana’s reading is evidently ‘ijagqza’ which he explains as
+meaning the juice or serum of the liver of a goat, &c.
+
+$ The text has “taqafm” | The term “jy” which literally means
+cow, here stands for any female quadruped, such as a she-goat, ete.
+
+## Page 99
+
+Chap. XVIL ] UTTARA-TANTRAM. 69
+
+expressed juice of D/dtri, or in the Rasa (serum) of the
+liver of an animal (¢.g.a goat), or in the decoction of
+Triphala. (tis called the Kshudrdnjana, and should
+be applied to the affected organ in the manner of an
+Anjana (collyrium). An Anjana consisting of cow's
+urine, clarified butter, Sasedra-phena, Pippali, Katphala,
+Saindhava and honey mixed together should be first
+kept inside a hollow bamboo and subsequently applied
+(in night-blindness) as @ collyrium. The Medas (fat)
+‘and liver of a goat, together with a quantity of clarified
+butter skimmed out of the milk of a she-goat, mixed
+with Pippali and Saindhava should be boiled and cook-
+ed with the (expressed) juice of Amataka (in the
+manner of Rasa-kriyd preparations). It should then be
+mixed with honey and kept in a closed vessel made
+of Khadira (Catechu) wood. The use of this (com-
+pound), known as the Kshudranjana, as an Anjana
+(collyrium) would be attended with good results.
+Harenn, Pippali-secds (without pericarps), E/d and the
+liver (of a goat, ctc.) should be pasted with the Rasa of
+cow-dung. Used as an Anjana, it would prove efficacious
+of Kapha-affected vision (Sleshma-Vidagdha-
+Drishti). 12-14.
+
+The liver of a Godha (a kind of wild lizard) should be
+partially opened and stuffed with Pippali and roasted
+in fire (having been coated with clay ). The use of the
+compound * for only once + as an Anjana (with honey’)
+
+in a ca
+
+* According to Dallana the Pippali so roasted should be used with
+honey as an Anjana.
+
++ Voth Vrinda and Chakradatta read ‘aga in place of “azxq and the
+commentators of both of them say that “the sentence means—the liver
+should be taken internally and the Pippali should be used as an
+Anjana. The commentator of Vrinda farther says that the practice is to
+use both of them together ay an Anjana.
+
+## Page 100
+
+7o THE SUSHRUTA SAMHITA, { Chap. XVII.
+
+would be found to be highly beneficial in cases of
+
+night-blindne Similarl
+
+ngle application of an
+
+Anjana made of a goat’s liver stuffed with Pippali *
+and roasted in fire as in the preceding case would
+specdily and certainly cure an attack of night-blindness.
+Asan alternative, both the spleen and the liver (of a
+goat or of a lizard) wouid be cut into pieces, mixed with
+oii and clarified butter, and roasted on a spit. Used
+internally or used as an Anjana with mustard oil, it
+
+15-17.
+pill composed of Nadija (Saindhava),
+
+would speedily cure an attack of night-blindnes
+
+An Anjana or
+S'inbi (D. R—Samkha—conch-shell), Kataka, Anjana
+(Rasnjana), Ianah-s'ild, the two kinds of Nis’d, pasted
+together with the juice of the liver + (of a cow) and
+
+mixed with red-sandal paste is recommended in a
+case of day-blindness. 18.
+
+Treatment of palliative types :—
+Bleeding by opening the (local) veins should be resorted
+to in the six kinds of ocular affections in which the
+palliative treatment is all that is open to us. The
+patient should be as well kept constantly purged with
+draughts of matured ciarified butter duly cooked with
+the admixture of suitable purgative drugs. In a Vataja
+
+* Voth Végbhata and Dallana plainly say that the roasted Pippali
+only should be used with honey as an Anjana in cases of night-blindness.
++ There is a confusion in the reading of this couplet. In place
+
+of “amizé
+other animal), Chakradatta reads “aaj qaiq?
+
+ise. pasted with the juice of the liver (ofa cow or any
+
+to say—the liver of
+a cow (and of no other animal) should be taken. Vrinda, however,
+reads and his commentator accepts the reading “sqaqj qziq? (the liver
+ofan animal other than a cow).; but this reading is objectionable on the
+ground of a faulty construction. “maga? i. e. pasted in the watery
+secretions of cow-dung, is yet another variant noticed by both the
+commentators of Vrinda and of Chakradatta.

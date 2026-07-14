@@ -1,0 +1,245 @@
+{
+  "title": "Narada_Bhakti_Sutra",
+  "discovered_at": "2026-07-13T14:18:33.678294+00:00",
+  "edition_count": 12,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Love-divine (Narada bhakti sutra)",
+      "authors": [
+        "Chinmayananda Swami"
+      ],
+      "year": 1970,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 2,
+      "isbn": [],
+      "publisher": [
+        "Chinmaya Publications Trust",
+        "Central Chinmaya Publications Trust"
+      ],
+      "ol_key": "/works/OL3587492W"
+    },
+    {
+      "source": "open_library",
+      "title": "Aphorisms on the gospel of divine live",
+      "authors": [],
+      "year": 1967,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Sri Ramakrishna Math"
+      ],
+      "ol_key": "/works/OL15003281M"
+    },
+    {
+      "source": "open_library",
+      "title": "Na\u0304rada-bhakti-su\u0304tra",
+      "authors": [
+        "Na\u0304rada."
+      ],
+      "year": 1991,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Bhaktivedanta Book Trust"
+      ],
+      "ol_key": "/works/OL339291W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cwll_narada-bhakti-sutra-sarala-bhashanuvada-sahita-by-narada-sanskrit-and-hindi",
+      "title": "Narada Bhakti Sutra Sarala Bhashanuvada Sahita By Narada Sanskrit And Hindi Bhakti Gorakhpur 2021 Gita Press",
+      "creator": "Urmila Sharma Collection Varanasi",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "WyWG_narada-bhakti-sutra-with-commentary-by-rai-bahadur-pandya-vaijanatha-1933-benare",
+      "title": "Narada Bhakti Sutra With Commentary By Rai Bahadur Pandya Vaijanatha 1933 Benares Master Kheladilal And Sons",
+      "creator": "Master Kheladilal And Sons",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "gaudiya-vaishnava-book-collection",
+      "title": "Gaudiya Vaishanav book collection",
+      "creator": "Vishal Maurya",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "Image Container PDF",
+        "Metadata",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Love-divine (Narada bhakti sutra)",
+      "authors": [
+        "Chinmayananda Swami"
+      ],
+      "year": 1970,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 2,
+      "isbn": [],
+      "publisher": [
+        "Chinmaya Publications Trust",
+        "Central Chinmaya Publications Trust"
+      ],
+      "ol_key": "/works/OL3587492W"
+    },
+    {
+      "source": "open_library",
+      "title": "Aphorisms on the gospel of divine live",
+      "authors": [],
+      "year": 1967,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Sri Ramakrishna Math"
+      ],
+      "ol_key": "/works/OL15003281M"
+    },
+    {
+      "source": "open_library",
+      "title": "Na\u0304rada-bhakti-su\u0304tra",
+      "authors": [
+        "Na\u0304rada."
+      ],
+      "year": 1991,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Bhaktivedanta Book Trust"
+      ],
+      "ol_key": "/works/OL339291W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "plad_narada-bhakti-sutra-evam-bhakti-vishayak-pravachan-aur-akhyan-by-swami-vive",
+      "title": "Narada Bhakti Sutra Evam Bhakti Vishayak Pravachan Aur Akhyan By Swami Vivekananda Hindi And Sanskrit Bhakti Yoga Illustrated Nagpur 1972 Sri Ramakrishna Ashram",
+      "creator": "Urmila Sharma Collection Varanasi",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "gaudiya-vaishnava-book-collection",
+      "title": "Gaudiya Vaishanav book collection",
+      "creator": "Vishal Maurya",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "Image Container PDF",
+        "Metadata",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "joshinilesh60_gmail_201810",
+      "title": "\u0928\u093e\u0930\u0926 \u092d\u0915\u094d\u0924\u093f \u0938\u0942\u0924\u094d\u0930",
+      "creator": "Dr. Nilesh Joshi",
+      "year": 2018,
+      "language": "mar",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

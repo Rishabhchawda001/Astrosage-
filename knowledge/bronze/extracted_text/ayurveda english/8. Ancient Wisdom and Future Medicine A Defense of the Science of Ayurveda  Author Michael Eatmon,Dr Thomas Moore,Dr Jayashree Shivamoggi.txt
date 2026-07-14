@@ -1,0 +1,2546 @@
+Rollins College 
+Rollins College 
+Rollins Scholarship Online 
+Rollins Scholarship Online 
+Master of Liberal Studies Theses 
+Spring 2020 
+Ancient Wisdom and Future Medicine: A Defense of the Science 
+Ancient Wisdom and Future Medicine: A Defense of the Science 
+of Ayurveda 
+of Ayurveda 
+Michael Eatmon 
+meatmon@rollins.edu 
+Follow this and additional works at: https://scholarship.rollins.edu/mls 
+ Part of the Alternative and Complementary Medicine Commons, Philosophy of Science Commons, 
+and the South and Southeast Asian Languages and Societies Commons 
+Recommended Citation 
+Recommended Citation 
+Eatmon, Michael, "Ancient Wisdom and Future Medicine: A Defense of the Science of Ayurveda" (2020). 
+Master of Liberal Studies Theses. 91. 
+https://scholarship.rollins.edu/mls/91 
+This Open Access is brought to you for free and open access by Rollins Scholarship Online. It has been accepted 
+for inclusion in Master of Liberal Studies Theses by an authorized administrator of Rollins Scholarship Online. For 
+more information, please contact rwalton@rollins.edu. 
+
+
+ 
+  
+  
+   
+Ancient Wisdom and Future Medicine: 
+A Defense of the Science of Ayurveda  
+  
+  
+A Project Submitted in Partial Fulfillment 
+of the Requirements for the Degree of  
+Master of Liberal Studies  
+  
+by  
+Michael Eatmon  
+April 2020 
+  
+  
+  
+  
+  
+Mentor:  Dr. Thomas Moore  
+Reader: Dr. Jayashree Shivamoggi  
+  
+Rollins College        
+Hamilton Holt School  
+Master of Liberal Studies Program   
+Winter Park, Florida 
+ 
+
+
+2 
+ 
+ 
+Heart disease, stroke, obesity, and diabetes are chasing modern humans to the 
+grave. A month rarely passes without alarming news of the population’s declining health. 
+Ancient hunter–gatherers suffered from lifestyle diseases, too, but rarely. This started to 
+change when our ancestors left plains and forests for farms and cities. Rates of these and 
+other so-called diseases of civilization began to rise.1 Many modern people, especially 
+those in the West, have come to see these diseases as part of life. 
+Too many see these conditions as normal. They do not recognize the connection 
+between lifestyle choices and poor health. They eat a lot of salty, sugary, highly 
+processed foods. They get no regular exercise, and they do little to relieve stress. They 
+smoke or drink more than they should. Sooner than their socio-economic status predicts, 
+they succumb to a lifestyle disease.2 
+ 
+When they do, most in the West turn to modern medicine for solutions. The 
+decline in their health took years, but they hope to find a quick fix, even if not an 
+inexpensive or painless one. Their conventional family physician prescribes pills and 
+procedures to ease their symptoms. The physician often fails to investigate their 
+condition’s potential causes, though. Physicians often fail to explore what roles diet, 
+ 
+1. S. Boyd Eaton, Melvin Konner, and Marjorie Shostak, “Stone Agers in the Fast 
+Lane: Chronic Degenerative Diseases in Evolutionary Perspective,” The American 
+Journal of Medicine 84, no. 4 (1988): 739–49, doi.org/10.1016/0002-9343(88)90113-1. 
+ 
+2. Andrea S. Wiley and John S. Allen, Medical Anthropology: A Biocultural 
+Approach (New York, NY: Oxford University Press, 2017), 120. 
+
+
+3 
+exercise, and state of mind play in illness.3 This treat-the-symptoms approach is common 
+in the West. It also tends to minimize or ignore underlying causes of disease. Some 
+Westerners have concluded that modern medicine offers only band-aids, not cures. 
+ 
+What is more, some wonder whether healthcare professionals have incentives not 
+to heal. They wonder whether physicians knowingly prescribe ineffective or unnecessary 
+pharmaceuticals or surgeries.4 The treatment of acute illnesses and long-term diseases 
+generates staggering revenues. In 2018, Americans spent about $3.65 trillion on 
+healthcare, the most spent in the developed world.5 Big pharma, medical supply 
+companies, insurance companies, hospitals, and physicians benefitted. Patients, however, 
+did not benefit so much from the boon. In the same year, the US ranked twenty-seventh 
+in the world for overall health.6 
+ 
+3. Jennifer Sinclair, Beverley Lawson, and Fred Burge, “Which Patients Receive 
+Advice on Diet and Exercise? Do Certain Characteristics Affect Whether They Receive 
+Such Advice?” Canadian Family Physician • Le Médecin de Famille Canadien 54 
+(2008): 406. 
+ 
+4. David Epstein and ProPublica, “An Epidemic of Unnecessary Treatment,” The 
+Atlantic, March 20, 2017, https://www.theatlantic.com/health/archive/2017/02/when-
+evidence-says-no-but-doctors-say-yes/517368/. 
+ 
+5. Erik Sherman, “U.S. Health Care Costs Skyrocketed to $3.65 Trillion in 2018,” 
+Fortune, February 21, 2019, https://fortune.com/2019/02/21/us-health-care-costs-2/. 
+ 
+6. Aria Bendix, “The US Was Once a Leader for Healthcare and Education - Now 
+It Ranks 27th in the World,” Business Insider, September 27, 2018, 
+https://www.businessinsider.com/us-ranks-27th-for-healthcare-and-education-2018-9. 
+
+
+4 
+ 
+Some Westerners decide to look elsewhere for solutions to their chronic health 
+problems. They turn to complementary or alternative approaches to conventional Western 
+medicine.7 Some people abandon conventional medicine altogether. They turn to 
+alternatives, instead, such as chiropractic, homeopathy, and energy healing. Others who 
+are dissatisfied with their conventional healthcare aim only to supplement it. They may 
+give the latest trend in diet, exercise, or supplements a go. They may consult an herbalist 
+and schedule regular sessions with a massage therapist. They remain under the care of a 
+conventional physician, as well. 
+ 
+Some Westerners seeking unconventional solutions to chronic healthcare 
+problems look to the East. Many of them explore traditional systems of medicine 
+originating in China or India. A growing number look to Ayurveda as a complement, or 
+even an alternative, to Western medicine.8 Ayurveda is one of India’s traditional systems 
+of medicine.9 Its history stretches back millennia, into the mists of Vedic antiquity. 
+ 
+7. “Complementary, Alternative, or Integrative Health: What’s in a Name?” 
+National Center for Complementary and Integrative Health, April 2, 2019, 
+https://nccih.nih.gov/health/integrative-health. 
+ 
+8. V. Sajeev Kumar, “Europe Fast Embracing Ayurveda alongside Modern 
+Medicine,” The Hindu BusinessLine, January 12, 2018, 
+https://www.thehindubusinessline.com/news/variety/europe-fast-embracing-ayurveda-
+alongside-modern-medicine/article9481575.ece. 
+ 
+9. Ayurveda is not India’s only traditional system of medicine (TSM). Unani and 
+Siddha are, too, though neither plays so prominent a role. Further information is available 
+at the website for India’s Ministry of AYUSH: http://ayush.gov.in. AYUSH stands for 
+Ayurveda, Yoga (and Naturopathy), Unani, Siddha, and Homoeopathy. 
+
+
+5 
+Though ancient, many view it as viable modern medicine. Generations of Indians have 
+depended on its practitioners for advice, diagnosis, and treatment. Millions turn to 
+Ayurveda, but what are they turning to? Are they relying on a bona fide medical science 
+or on a patent medical pseudoscience? 
+ 
+The answer to that question must take four key prior questions into consideration. 
+One, what criteria distinguish a genuine science from a pseudoscience? Two, how 
+compatible with genuine science are Ayurveda’s history and philosophy? Three, how 
+compatible with genuine science are Ayurveda’s methods, results, and research? Four, do 
+significant, even determinative, differences exist among ancient, traditional, and modern 
+“Ayurvedas”? Once these questions are answered, Ayurveda’s scientific status will 
+become clearer. “Clearer” does not mean settled. The East and West have different 
+understandings of important terms in the discussion. Indian approaches to metaphysics, 
+epistemology, and methods differ from those in the West. A brief paper cannot work 
+through all such differences. 
+Still, answers to these three key questions will caution the critic. Answers will 
+show that Ayurveda’s modern expression ought not to be dismissed. It is neither outdated 
+nor irrational. Evidence will support the claim that Ayurveda is maturing in, and because 
+of, the modern age. The modern expression of Ayurveda is a genuine science with a 
+promising future. Ancient and traditional approaches to Ayurveda may not be defensible 
+as modern sciences. This thesis of this paper, though, assumes Ayurveda’s modern 
+expression. Thus, the Ayurveda being defended is one that values modern, Western 
+
+
+6 
+education. It values modern Western medicine, even while pointing out some of its 
+shortcomings. This paper does not defend every Ayurvedic folk healer throughout the 
+world. 
+ 
+THE PROBLEM OF DEFINING SCIENCE10 
+ 
+ 
+The claim that Ayurveda is a genuine science may stand or fall on the definition 
+of science.11 People use the term regularly enough. Defining it should be straightforward. 
+In the early 1960s, many Americans thought the same thing about the term obscenity. In 
+1964, the Supreme Court handed down its ruling in the Jacobellis v. Ohio case. The case 
+involved the questionable obscenity of Louis Malle’s film The Lovers. In question was 
+whether the film constituted hard-core pornography. The Court found that it did not meet 
+the criteria. 
+Justice Potter Stewart was among the decision’s majority opinion. He was 
+reluctant to define hard-core pornography. Still, he denied that Malle’s work crossed the 
+ 
+10. Massimo Pigliucci and Maarten Boudry, ed., Philosophy of Pseudoscience: 
+Reconsidering the Demarcation Problem (Chicago: University of Chicago Press, 2013). 
+This section is especially indebted to Pigliucci, Mahner, and Hansson for many general 
+insights into the demarcation problem. Helpful, too, is Sven Ove Hansson, “Science and 
+Pseudo-Science,” Stanford Encyclopedia of Philosophy, April 11, 2017, 
+https://plato.stanford.edu/entries/pseudo-science/. 
+ 
+11. This paper italicizes terms when discussing their definition or etymology. 
+ 
+
+
+7 
+line. Famously, he said of what he demurred from defining, “I know it when I see it.”12 
+Stewart might not have been able to define the sort of obscenity in question. He claimed 
+to be able to recognize it when in front of him, though. 
+ 
+As Stewart felt about obscenity, many Americans feel about science. They believe 
+they intuit what science is and can recognize it when they see it. Recent surveys reveal 
+otherwise.13 They reveal deep illiteracies about both the facts of nature and the methods 
+of science. Advertising claims about “evidence-backed” or “scientifically proven” 
+products add to the confusion. Op-ed columns and political statements from non-
+scientists do, too.14 
+Many non-scientists play fast and loose with the terms science and scientific. 
+Professional scientists use the terms with frequency and ease, of course. Still, some might 
+feel at a loss if asked to define them.15 Intuiting the meaning of a crucial term may have 
+sufficed in the Jacobellis case. Intuiting the meaning of science will not do as a sorting 
+ 
+12. “Jacobellis v. Ohio,” Legal Information Institute, accessed March 16, 2020, 
+https://www.law.cornell.edu/supremecourt/text/378/184. 
+ 
+13. Henry I. Miller, “Scientifically Illiterate America,” Hoover Institution, 
+November 29, 2017, https://www.hoover.org/research/scientifically-illiterate-america. 
+ 
+14. Lawrence M. Krauss, “Trump’s Anti-Science Campaign,” The New Yorker, 
+June 19, 2017, https://www.newyorker.com/news/news-desk/trumps-anti-science-
+campaign. 
+ 
+15. Miller, “Scientifically Illiterate America.” 
+
+
+8 
+criterion for the purpose at hand. Evaluating whether Ayurveda is a genuine medical 
+science requires conceptual boundaries. 
+ 
+A logical place to look for an answer is a dictionary, and there are many to choose 
+from. One could compare and synthesize the entries for science in the most reputable of 
+them. One could also select a leading reputable dictionary and then weigh its helpfulness. 
+For the present illustration, this approach will prove sufficiently effective and more 
+efficient. One such leading reputable dictionary is the New Oxford American Dictionary, 
+3d edition. It defines the term in this way. Science is “the intellectual and practical 
+activity encompassing the systematic study of the structure and behavior of the physical 
+and natural world through observation and experiment.”16 
+This seems to settle the issue until one considers a dictionary’s limitations. Chief 
+among them, a dictionary’s definitions are descriptive, not prescriptive. That is, 
+dictionaries do not provide authoritative and unchanging meanings of words. Rather, they 
+provide dynamic descriptions of how terms are commonly used. Dictionaries show how 
+speakers use terms in different contexts. As terms’ uses change over time, a dictionary’s 
+entries change to reflect their evolution. 
+ 
+Clarifying a term’s meaning in a particular context, though, is a different matter. 
+A term can mean one thing in one setting and something else in another. This is true 
+ 
+16. Angus Stevenson and Christine A. Lindeberg, The New Oxford American 
+Dictionary: Third Edition (New York: Oxford University Press, 2010). Abbreviated as 
+NOAD in subsequent footnotes. 
+
+
+9 
+about the term science, and it is true about all the words the dictionary uses to define 
+science. Clarifying a term’s meaning requires input from linguistics, psychology, and 
+philosophy. Scrutinizing what the dictionary says about science answers some questions 
+but prompts others. 
+What sort of “intellectual … activity” is science? Empirical and rational only or 
+intuitive and imaginative, as well? Must science always and everywhere be a “practical” 
+activity? Can a field’s foundation not be observational but the rest of it only theoretical? 
+Science studies “the structure and behavior of the physical and natural world.” Does that 
+imply that the only world that exists is one that is physical and natural? If science studies 
+the “structure” of the world, does that mean that science reveals what is? Alternatively, 
+does science merely create effective models to account for observational data? How can 
+someone know which? Is science itself competent to say? The definition speaks of 
+observation and experimentation as science’s instrumental means. Are these reliable 
+means of learning about the natural world? Are they the only two? How does someone 
+know? One cannot intuit the semantic scope of science, nor can a dictionary settle the 
+issue. 
+ 
+The problem of defining science proves even more complicated. To determine its 
+semantic boundaries, one must know the contours of related concepts. Where do the 
+
+
+10 
+boundaries of pseudoscience and nonscience begin and end?17 Could the definitions of 
+pseudoscience and nonscience clarify what science is? Could one best define science in 
+the negative, as the anti-pseudoscience and anti-nonscience? Or must one begin with the 
+question of what science is to see how the others differ from it?18 
+ 
+Philosophers refer to this science-definitional conundrum as the demarcation 
+problem. Philosopher of science Karl Popper (1902–94) was first to call attention to it. 
+Many intractable issues surround discussions of demarcation. The preceding several 
+paragraphs raise only a few. Doing the problem justice requires a book, and many 
+scholars have taken up the challenge. One helpful contribution is Philosophy of 
+Pseudoscience: Reconsidering the Demarcation Problem.19 An introduction to the topic, 
+such as this paper provides, can only scratch the surface. 
+ 
+Popper’s basic question addresses a fundamental concern in the philosophy of 
+science. Do criteria exist that can differentiate science from both pseudoscience and 
+nonscience? How can one distinguish scientific claims from claims that merely purport to 
+be? How can one distinguish scientific claims from those that do not purport to be 
+ 
+17. The contours of protoscience are worth exploring, too, but not for the same 
+reason. Protoscience differs from genuine science mostly by degree, not by kind. 
+ 
+18. This approach has prima facie plausibility. The terms pseudoscience and 
+nonscience are back-formations of the term science. Science, that is, has lexical and 
+semantic priority. 
+ 
+19. Massimo Pigliucci and Maarten Boudry, ed., Philosophy of Pseudoscience: 
+Reconsidering the Demarcation Problem (Chicago: University of Chicago Press, 2013). 
+
+
+11 
+scientific at all? Einstein’s relativity and Freud’s psychoanalysis make claims about the 
+world. Wordsworth’s poetry does, too. 
+Into which category—science, pseudoscience, or nonscience—does each belong? 
+What sorting criteria does one use to decide? Solving the demarcation problem would 
+permit the objective answering of these questions. It is important to note where 
+demarcation focuses its efforts, though. Pondering what distinguishes poetic claims from 
+scientific claims can prove fascinating. Such an investigation explores the boundary 
+between science and nonscience. More relevant to the demarcation problem is what 
+differentiates science from pseudoscience. 
+ 
+Popper argued that the distinguishing characteristic of scientific claims is their 
+falsifiability. A scientific claim, that is, has the potential to be proven incorrect. A 
+genuine science makes hypotheses or predictions that evidence can, in theory, refute. 
+Claims that cannot be disproven—claims that are non-falsifiable—are not scientific. 
+They are either nonscientific or pseudoscientific. Popper’s falsificationism contrasts with 
+the verificationist view of demarcation. According to verificationism, science makes 
+claims that empirical evidence can, in theory, prove.20 Following David Hume’s insights, 
+ 
+20. Jacqueline McLaughlin, “A Gentle Reminder That a Hypothesis Is Never 
+Proven Correct, nor Is a Theory Ever Proven to Be True,” Books & Resources: NSTA 
+WebNews Digest, August 14, 2006, 
+https://www.nsta.org/publications/news/story.aspx?id=52402. Popper and others refuted 
+verificationism long ago. Science cannot prove hypotheses, theories, etc.; it can only 
+support them. Verificationism’s view of science has persisted, though, among scientists 
+and nonscientists alike. 
+ 
+
+
+12 
+though, Popper denied that this was possible. Verificationism’s proofs rest on logical 
+induction, which has fatal inferential flaws. 
+Among them, induction attempts to justify universal claims with particular 
+observations.21 One may observe many instances of phenomenon P, all with 
+characteristic C. It does not follow, however, that C holds for all possible instances of P. 
+Further, one cannot know in fact whether C holds for every instance of P without 
+observing each P. Without omniscience, this verification is impossible. A simple 
+illustration from history will underscore the problem with inductive inference. 
+Medieval Europeans had seen swans for centuries, and all were white. Their use 
+of induction led them to conclude that all swans are white. Problem was, their 
+observations—like all observations—were limited to particular instances. Limited 
+observations of a phenomenon cannot entail universal statements about that 
+phenomenon.22 Centuries later, Europeans discovered black swans in Australia. As the 
+ 
+21. Stephen Phillips, “Epistemology in Classical Indian Philosophy,” Stanford 
+Encyclopedia of Philosophy, February 13, 2019, 
+https://plato.stanford.edu/entries/epistemology-india/. The ancient Indian Cārvāka 
+materialist school recognized induction’s weaknesses, too. Induction rests on an inference 
+from perceptual experience to the unexperienced. Making generalized claims about the 
+unexperienced is unwarranted because it lacks empirical evidence. Striking about 
+Cārvāka’s insights is that they predate Hume’s by more than 2,000 years. 
+ 
+22. Under one condition, limited observations can entail universal statements. The 
+condition is that the limited observations happen to include all instances of P. In this case, 
+induction’s problem becomes less one of logic, more one of epistemology. Observers 
+cannot know whether they have observed all instances of a phenomenon. 
+
+
+13 
+illustration shows, verification fails as science’s demarcation criterion. It relies on an 
+unreliable logical foundation. 
+ 
+Popper’s criterion of falsifiability rests on a different logic, the hypothetico-
+deductive method. Falsifiability’s logic moves from a hypothetical premise to a 
+(hypothetically) certain conclusion. If X is a sufficient cause of Y, then whenever X is 
+present, Y will be, too. What can we conclude, then, if data from many experiments often 
+show X but no Y? First, we conclude that the data disprove the hypothesis. X is not a 
+sufficient cause of Y. 
+The second conclusion we draw is a key feature of the falsifiability doctrine. 
+According to Popper, a disproven hypothesis does not reveal a failure of science. It shows 
+that a proper science is at work. However counterintuitive, the disproving of a hypothesis 
+demonstrates the essence of science. Science makes testable claims that specific 
+empirical evidence, if found, can refute. This, Popper claimed, is the criterion that 
+separates genuine science from all pretenders. 
+ 
+Many philosophers and scientists find both verificationism and falsificationism 
+inadequate lines of demarcation. They agree with Popper’s criticism of verificationism, 
+while not embracing his solution. Some, such as science historian Michael Shermer, 
+challenge falsificationism’s starting point. They agree that generating and testing 
+hypotheses fits well with some scientific disciplines. They deny that this method fits well 
+
+
+14 
+with all scientific endeavors.23 Shermer points to string theory and the extraterrestrial 
+hypothesis as examples.24 (Some challenge whether these examples are themselves 
+scientific.) A simple, noncontroversial illustration can convey Shermer’s concern equally 
+well. 
+A biochemist combines compounds to see what effect the result has on cancer 
+cells. Such an approach need not begin with, or ever produce, a clear if–then hypothesis. 
+Instead, the researcher might pose a series of open-ended questions of scientific 
+exploration. “I wonder what will happen when I … ?” The results of such 
+experimentation may be only observation, analysis, and recommendations. It may show 
+the researcher whether a line of cancer research is worth the pursuit. This sort of 
+scientific exploration need not end in the support or refutation of a claim, though. The 
+requirement that genuine science makes falsifiable claims is too narrow a constraint. 
+Others see a different problem with viewing falsifiability as science’s defining 
+characteristic. It allows patent pseudosciences to be classified as scientific. Astrology, 
+phrenology, and homeopathy are prime examples. All make falsifiable claims, claims that 
+ 
+23. Ashutosh Jogalekar, “Falsification and Its Discontents,” Scientific American 
+Blog Network, January 24, 2014, https://blogs.scientificamerican.com/the-curious-
+wavefunction/falsification-and-its-discontents/. 
+ 
+24. Michael Shermer, “What Is Pseudoscience?” Scientific American, September 
+1, 2011, https://www.scientificamerican.com/article/what-is-pseudoscience/. 
+ 
+
+
+15 
+empirical evidence can, in theory, refute. According to Popper’s model, we may view 
+them as genuine scientific endeavors. 
+The problem with classifying them as such is that all make claims that have been 
+proven false.25 Evidence has disproven both particular hypotheses of these 
+pseudosciences and their theoretical foundations. Of course, even mainstream biology, 
+chemistry, and physics make claims that prove false. While true, pseudoscience and 
+genuine science respond to falsification in different ways. A genuine science abandons a 
+failed hypothesis because refuted by empirical evidence. A pseudoscience, by contrast, 
+often modifies the hypothesis to accommodate confounding evidence. An excellent 
+example is genuine science’s challenge to homeopathic preparations. 
+Homeopathy adds a purported medicinal agent to water.26 The mixture is then 
+“activated” by diluting it thousands of times. Chemists have pointed out a significant 
+problem with these dilutions. None of the original medicinal agent survives the process. 
+Skirting the apparent falsification, homeopathy modifies its claim. A homeopathic 
+ 
+25. Tania Lombrozo, “What Is Pseudoscience?” NPR, May 8, 2017, 
+https://www.npr.org/sections/13.7/2017/05/08/527354190/what-is-pseudoscience. 
+ 
+26. Homeopathy (from Gk. for “like/similar + sickness/disorder”) owes its name 
+to how it treats sickness. Conventional medicine identifies a pathogenic cause of sickness 
+and then counteracts its effects. If harmful bacteria are the cause of illness, then it 
+prescribes an antibiotic. By contrast, homeopathy does not treat sickness with 
+countermeasures. Instead, it treats a pathogen or sickness with an agent that causes 
+similar symptoms. Homeopathic theory claims that like cures like—pathogen defeats 
+pathogen, as it were. Though not a defense of homeopathy, biomedical vaccinations work 
+on the same principle. 
+
+
+16 
+preparation’s mechanism of action is not in the medicinal agent. It is in the dilution 
+water, which retains the “memory” of the medicinal agent no longer in it. One should not 
+consider it any more scientific than the refuted claim it replaces. Contra Popper, 
+falsifiability is too broad a criterion to distinguish science from pseudoscience. 
+ 
+As demarcation candidates, verificationism and falsificationism focus on 
+science’s relationship to claims. One says that science proves them; the other, that 
+science disproves them. Some philosophers see essential definitions as better approaches 
+to the demarcation problem. They frame the discussion as a more fundamental question: 
+what is science? Once science is defined, it can be distinguished from what merely 
+purports to be. 
+This approach is not the effortless consulting and comparing of reputable 
+dictionaries’ entries. It does not attempt to ascertain the most common uses of the term 
+science, either. Instead, the essential-definition approach is self-consciously prescriptive, 
+not descriptive. It makes lists of characteristics that render a field, claim, or community 
+scientific. The characteristics tend to focus on empirical methods and epistemic warrant. 
+On the lists appear qualities like “observation-based,” “replicable,” “evidence-directed,” 
+“probabilistic,” and “cause-seeking.” Essential definitions sound promising, but they tend 
+to have significant shortcomings. 
+ 
+The first is that some essential definitions exclude fields most recognize as 
+scientific. If hypotheses need to be lab-testable and their results reproducible, what about 
+cosmology? How does one conduct and replicate experiments that show how the universe 
+
+
+17 
+came to be? How does one replicate the conditions of the primal universe, of its first few 
+seconds? Physical conditions were vastly different then from what they have been since. 
+Physical processes operated by (or, at least, within) a different set of rules. What about 
+the claims of string theory or the multiverse hypothesis? 
+An essential definition can broaden to suit more hypothetical/theoretical fields, of 
+course. Such adjustments can prove problematic, though. They can lead to a second 
+potential defect of essential definitions. Some could legitimate fields, claims, and 
+communities that most scientists view as pseudoscientific. Certain definitional lists would 
+qualify cryptozoology, ufology, and panspermia as genuine sciences. 
+ 
+The third defect of essential definitions is the most problematic. No authoritative 
+science-definitional list exists. It exists neither among scientists nor among philosophers 
+of science. Different experts view different characteristics as necessary to the essence of 
+science. Some require that scientific claims be peer-reviewed, and some do not. A simple 
+illustration can show how this common feature of modern science can be arguable. 
+Does any philosopher or scientist question whether Isaac Newton was a 
+scientist?27 Was his work peer-reviewed, though? Did a contemporaneous community of 
+scholars critique all his work? Did teams of fellow astronomer–physicists recreate his 
+experiments, rework his math? If not, can his work be considered scientific? Can he be 
+ 
+27. Newton considered himself not a scientist, but a natural philosopher. This 
+point is irrelevant, though, for the current discussion—whether genuine science requires 
+peer review. 
+
+
+18 
+considered a scientist? Some of Newton’s contemporaries interacted with his ideas. The 
+interaction hardly constituted a scholarly scrutinizing by a global community of peers. 
+Still, who argues that Newton was not doing science? 
+ 
+Some thinkers see as essential to science one or more qualities that others dismiss. 
+Others disagree over whether certain characteristics are jointly sufficient to define 
+science. One philosopher claims that her list of characteristics is sufficient to define it. 
+Another philosopher strikes two qualities from her list and adds three more of his own. 
+Proposed essential definitions sometimes overlap, but no unified, incontestable 
+description has arisen. This definitional ambiguity leads to further disagreements when 
+assessing a claim’s scientific standing. 
+Whose definition should the scientific community use when evaluating a 
+controverted field? Evolutionary psychology, for example, aligns with some, but not all, 
+essential-definitional lists. Is it a science, and on what grounds does one say so? Whose 
+essential-definitional list is the standard by which its claims are judged? Essential 
+definitions address some of the weaknesses of other approaches to demarcation. They 
+create their own complex problems, however. 
+ 
+Falsification, verification, and essential definitions fail as solutions to the 
+demarcation problem.28 No framing of these approaches garners the consensus of all 
+ 
+28. Thomas Nickles, “History and Future,” in Philosophy of Pseudoscience: 
+Reconsidering the Demarcation Problem, ed. Massimo Pigliucci and Maarten Boudry 
+(Chicago: University of Chicago Press, 2013), 1928–2353 (Kindle edition). 
+ 
+
+
+19 
+philosophers and scientists. Philosopher Massimo Pigliucci underscores how much of a 
+conundrum demarcation is. “The boundaries separating science, nonscience, and 
+pseudoscience are much fuzzier and more permeable than Popper (or, for that matter, 
+most scientists) would have us believe.”29 Science’s boundaries are more like a chain-link 
+fence than a concrete wall. Wherever the fence is placed and however tight its mesh, one 
+can count on two outcomes. Something desirable will be excluded, and something 
+unexpected will get through. What is more, the demarcating fence is susceptible to being 
+moved. Where today’s thinkers place it, tomorrow’s thinkers may upend. 
+Some maintain that the boundary problem is even worse than the fence image 
+suggests. Philosopher Larry Laudan concludes that the entire demarcation project may be 
+futile. He finds the question “both uninteresting and, judging by its checkered past, 
+intractable . . . . We ought to drop terms like ‘pseudo-science’ and ‘unscientific’ from our 
+vocabulary; they are just hollow phrases which do only emotive work for us.”30 Some 
+uses of the terms unscientific and pseudoscientific may be shallow and subjective. Some 
+demarcation solutions may be little more than self-serving turf protection, too. 
+ 
+29. Massimo Pigliucci, Nonsense on Stilts: How to Tell Science from Bunk 
+(Chicago: The University of Chicago Press, 2010), quoted in Michael Shermer, “What Is 
+Pseudoscience?” Scientific American, September 1, 2011, 
+https://www.scientificamerican.com/article/what-is-pseudoscience/. 
+ 
+30. L. Laudan, “The Demise of the Demarcation Problem,” in Physics, 
+Philosophy and Psychoanalysis: Essays in Honor of Adolf Grünbaum (Vol. 76 of Boston 
+Studies in the Philosophy of Science), ed. R. S. Cohen and L. Laudan. (Boston: D. 
+Reidel, 1983), 125. 
+ 
+
+
+20 
+Shermer agrees. “The boundary problem between science and pseudoscience, in 
+fact, is notoriously fraught with definitional disagreements because the categories are too 
+broad and fuzzy on the edges, and the term ‘pseudoscience’ is subject to adjectival abuse 
+against any claim one happens to dislike for any reason.”31 Some use the term more as 
+(subjective) pejorative than as (objective) classification. Labeling something 
+“unscientific” or “pseudoscientific” may reveal much about someone’s biases. It may 
+reveal little about what makes science, science. Laudan and Shermer make sound, 
+cautionary points. 
+ 
+Still, their observations do not make the demarcation effort impossible. Ask 
+educated people whether physics and astrology are sciences. They may not label one as 
+science and the other as pseudoscience. Nor, likely, will they say anything about 
+boundary criteria. Nonetheless, they will recognize physics as scientific and astrology as 
+something else. They will intuit one or more key differences, even if unable to identify 
+them with precision. 
+The critic may protest that this illustration uses extreme examples. Anyone can 
+distinguish an obvious science from an obvious pseudoscience. The demarcation 
+problem, the critic maintains, lies nearer the boundary between the categories. This is a 
+valid concern, but it concedes the point that demarcation is possible. People can 
+distinguish a genuine science from a field that only purports to be. This does not imply 
+ 
+31. Shermer, “What Is Pseudoscience?” 
+
+
+21 
+that they always sort correctly, nor that they use a sound method for sorting. Nor does it 
+imply that people’s categories are not sometimes fuzzy around the edges. People do have 
+the ability, though, to differentiate a sham or a superstition from a science. 
+ 
+Attempting to distinguish science from pseudoscience is not always pointless, 
+either. Sometimes, it helps people stay out of harm’s way. An increasing number of 
+claims purport to be evidence-based, lab-tested, or research-confirmed. Touting a claim 
+to be scientific, even if unsubstantiated, gives it an air of credibility. In some areas, a 
+person’s belief in a pseudoscientific claim has little practical effect. What harm is done 
+when someone attributes her stress relief to vibrating crystals? What does it matter that a 
+couple of Himalayan hikers claim to have seen a yeti? 
+In other areas, such as healthcare, believing in a sham science can have dire 
+consequences. Relying on aromatherapy to cure cancer or homeopathy to cure Ebola 
+could prove fatal. This is why investigating Ayurveda’s scientific standing is important. 
+How does one do that, though, if common demarcation solutions have been ruled out? 
+What approach can garner enough agreement to be an effective boundary criterion? 
+ 
+One robust and helpful approach to demarcation is to think of science as a cluster 
+concept. A cluster concept is an idea best described by means of connected attributes. 
+These attributes are not like essential definitions’ necessary and sufficient characteristics, 
+though. With a cluster concept, no attribute is always necessary to describe it. There may 
+be rare situations in which common attribute Z, for example, does not apply. Nor is any 
+combination of attributes always sufficient to describe a cluster concept. Under some 
+
+
+22 
+conditions, attributes A, B, and C will be enough to identify the concept in question. 
+Under other conditions, attributes B, C, and D will suffice. 
+Cluster concepts differ from essential definitions in another important way. 
+Cluster concepts do not allow for either–or evaluation. Taking a definitional approach, a 
+field or claim either is or is not scientific. The field or claim either meets the definitional 
+threshold, or it does not. Cluster concepts, in contrast, are not semantic binaries. Rather, 
+these terms’ descriptions represent a range of qualitative possibilities. Evaluating a term 
+as a cluster concept yields semantic probabilities, not certainties. The more concept X 
+descriptors we can attribute to an undetermined Y, the more likely Y is to be an instance 
+of X. 
+ 
+As illustration, someone would like to know what a family is. She wants to know 
+what demarcates a genuine family from a non-family or a family falsely so called. The 
+dictionary tells us that a family is “a group of people related to one another by blood or 
+marriage.”32 This captures a common use of the term, but it says at the same time too 
+much and too little. The definition allows, in principle, for an unlimited number of family 
+connections. If Q and R are distant family members and R and S are, too, then Q and S 
+are themselves distant family members. What is more, this applies to all combinations of 
+Q’s, R’s, and S’s relatives, present and past. With so many “family” relationships, the 
+term loses its distinctness and usefulness. The dictionary’s definition says too little, as 
+ 
+32. Stevenson and Lindeberg, ed., NOAD. 
+
+
+23 
+well. Where do adoptive families fit, for example? Adopted children have no biological 
+or marital connection to their adopting parents. 
+The dictionary cannot serve as a comprehensive, authoritative demarcator of 
+family. An essential definition would fare no better. Both approaches run into the same 
+sort of problems as when attempting to define science. A better way to understand the 
+term family is to view it as a cluster concept. The term appears in different contexts, and 
+each context can change its meaning. Still, each use of the term shares important 
+conceptual attributes with all other uses of it. The more familial attributes a group of 
+people shares, the more likely it is to be a family. 
+ 
+The cluster-concept method can help distinguish genuine sciences from 
+pseudosciences. Approaching the problem this way aims to describe science, not define 
+it. It also aims to say that an undetermined claim or field X either is likely or is not likely 
+to be scientific. Science philosopher Martin Mahner takes this approach. To assess the 
+scientific standing of some claim, field, or community, he asks a series of questions. The 
+questions arise from a modern Western understanding of science. A few address 
+psychological or sociological concerns. Most focus on epistemic justification or empirical 
+methods. Most, that is, address the justification for a belief and how the belief was 
+arrived at. Mahner’s questions are illustrative rather than comprehensive, indicative 
+rather than determinative. Still, how a claim, field, or community answers them shows 
+how likely it is to belong to science’s family. 
+ 
+
+
+24 
+Do they form a research community, or are they just a loose collection of 
+individuals doing their own thing?33 Is there an extensive mutual exchange 
+of information, or is there just an authority figure passing on his doctrines 
+to his followers? Is the given group of people free to research and publish 
+whatever they want, or are they censored by the reigning ideology of the 
+society they live in . . . ?34 Does the domain of study consist of concrete 
+objects, or does it contain fuzzy “energies” or “vibrations,” if not ghosts or 
+other spiritual entities?35 What are the philosophical background 
+assumptions of the given field?36 Does its ontology presuppose a natural, 
+causal, and lawful world only, or does it also admit supernatural entities or 
+events?37 . . . Does it accept the canons of valid and rational reasoning? Do 
+the principles of noncircularity and noncontradiction matter? Does it admit 
+fallibilism or endorse dogmatism? Occam’s razor or unfettered 
+speculation? How important are testability and criticism? How important 
+is evidential support?38 Can the reliability of its methods or techniques be 
+independently tested? Do the theories have genuine explanatory or 
+ 
+33. History provides many examples of pioneer scientists who tended to work 
+alone. They worked alone because they were opening a new field of scientific discovery. 
+A research community in that field did not yet exist. Examples include the early modern 
+astronomers Copernicus, Brahe, and Kepler. 
+ 
+34. This does not address the scientific standing of the community in question per 
+se. The Nazis censored research that did not conform to their ideology. This does not 
+entail that suppressed researchers were not conducting genuine science. 
+ 
+35. More precisely, this question asks whether the claim in consideration posits 
+metaphysical causality. Genuine science may investigate whether evidence substantiates 
+the existence of ghosts. 
+ 
+36. This question should be taken to mean current, not historical, philosophical 
+assumptions. Many modern sciences were born in historical contexts that made 
+unscientific/pre-scientific assumptions. 
+ 
+37. The real question here is not whether a community in question believes in a 
+god. The question is whether that community attributes physical causality to a 
+metaphysical entity. 
+ 
+38. This is an important question, of course. A more important question may be 
+“What counts as evidence to justify, or support, a claim?” 
+ 
+
+
+25 
+predictive power, or both? Are the theories fruitful?39 Are the data 
+reproducible? Are there mechanisms of error elimination? Are its claims 
+compatible with well-established knowledge, in particular law statements? 
+Does the field borrow knowledge and methods from adjacent fields? Does 
+it in turn inform and enrich neighboring fields, or is it isolated? Do the 
+problems tackled in the field spring naturally from research or theory 
+construction, or are the problems pulled out of a hat? Is the corpus of 
+knowledge of the given field up to date and well confirmed, or is it 
+obsolete, if not anachronistic? Is it growing or stagnating?40 
+ 
+ 
+How Mahner words his questions points them toward his view of the “right” 
+answers.41 That is, his questions’ substance and phrasing reveal how he understands 
+science. Still, he does not suggest that all genuine sciences answer each question in the 
+way he hints they should. Answers may differ here and there in details, but they will have 
+much in common at their core. None of Mahner’s questions is overwhelmingly more 
+important than the others, either. Nor are all the implied right answers, taken together, 
+sufficient to define science. The more a field looks like the family of implied right 
+answers, though, the likelier it is to be science. Genuine sciences will share many family 
+resemblances that pseudosciences lack. 
+ 
+39. Here Mahner asks whether the field’s theories give birth to further research. 
+ 
+40. Martin Mahner, “Science and Pseudoscience: How to Demarcate after the 
+(Alleged) Demise of the Demarcation Problem,” in Philosophy of Pseudoscience, ed. 
+Massimo Pigliucci and Maarten Boudry (Chicago: University of Chicago Press, 2013), 
+752–77 (Kindle edition). 
+ 
+41. One might point out that Mahner’s implied “right” answers beg the question at 
+hand. “Right” answers assume a definition of science, which the cluster sets out to 
+establish. 
+
+
+26 
+ 
+Mahner’s family-resemblance questions can help us consider the claims of 
+Ayurveda. The answers it gives, taken individually or as a whole, may not determine 
+whether it is scientific. Cluster concepts are not essential definitions, and they offer only 
+probabilities, not certainties. Still, how Ayurveda answers will provide a strong indication 
+of its scientific standing. Ayurveda is a broad and deep topic. Its history, philosophy, 
+diagnostics, therapeutics, research, and sociology are complex. Examining any aspect of 
+Ayurveda could produce its own book. 
+The discussion below is limited. It will focus on Ayurveda’s philosophical 
+framework, clinical practice, and research methods. This focus cannot provide a full-
+orbed view of Ayurveda. It can, though, provide sufficient evidence to argue that 
+Ayurveda is a member of science’s family. 
+ 
+FOUNDATIONS: HISTORICAL, PHILOSOPHICAL, THEORETICAL42 
+ 
+ 
+Ayurveda is Sanskrit for “knowledge of life.”43 For centuries, millions have 
+viewed it as a heaven-sent system of healing arts. Systematized Ayurveda may date only 
+ 
+42. For this section, I borrowed from many sources. Payyappallimana and 
+Venkatasubramanian were of special help. 
+ 
+43. Jivananda Vidyasagara Bhattacharya, Shabda-Sagara, or a Comprehensive 
+Sanskrit-English Lexicon Chiefly Based on Prof. Horace Hayman Wilsons Sanskrit-
+English Dictionary, version: scan (Calcutta: Ashu Bodha Bhattacharya and Nitya Bodha 
+Bhattacharya, 1900), https://www.sanskrit-lexicon.uni-
+ 
+
+
+27 
+to the first few centuries CE. Its roots, though, stretch much further back. Tradition says 
+that the god Brahmā revealed this knowledge of life to ancient sages.44 They in turn 
+preserved these insights in the Vedas. The Vedas are collections of sacred Hindu texts 
+written approximately 1500–500 BCE. 
+In the centuries that followed, a class of healers called vaidyas emerged.45 These 
+were the first of those later called Ayurvedic practitioners or Ayurvedic physicians. Early 
+systematized Ayurveda (c. 500 BCE–c. 500 CE) did not develop in a worldview vacuum. 
+Growing in influence at the same time was Sāṅkhya, one of six “orthodox” (āstika) 
+schools of Hindu philosophy.46 Sāṅkhya may have shaped Ayurveda’s philosophical 
+ 
+koeln.de/scans/SHSScan/2020/web/webtc/servepdf.php?page=097-a. Ayurveda is a 
+compound formed from ayus, “life,” and vēda, “knowledge.” Many Sanskrit terms will 
+appear in the discussion that follows. Unless otherwise indicated, translations will come 
+from the Shabda-Sagara. Sanskrit, one of India’s most ancient languages, is the language 
+of classical Ayurveda. Many key Ayurvedic terms are still considered foreign—i.e., not 
+part of standard English. This paper will italicize foreign terms only when introducing or 
+translating them. 
+ 
+44. Yogini S. Jaiswal and Leonard L. Williams, “A Glimpse of Ayurveda – The 
+Forgotten History and Principles of Indian Traditional Medicine,” Journal of Traditional 
+and Complementary Medicine 7 no. 1 (2017): 50–53, doi:10.1016/j.jtcme.2016.02.002. 
+ 
+45. Vaidya is Sanskrit for “physician.” Sanskrit and English inflect their 
+vocabularies differently. For ease of use, though, this paper inflects Sanskrit as though 
+English. The plural of vaidya will appear as vaidyas. 
+ 
+46. Cārvāka, one of Indian philosophy’s “unorthodox” (nāstika) schools, did not 
+view inference (from the perceived to the unperceived) as a valid means of knowledge. 
+ 
+
+
+28 
+foundation more than any other school.47 A comprehensive system of thought, its 
+doctrines address metaphysics, ethics, and epistemology. Most relevant to Ayurveda are 
+the school’s views on the natures of knowledge and reality. 
+Important to note first is how Sāṅkhya’s rationalist epistemology influenced 
+Ayurveda. Indologist–philosopher Ferenc Ruzsa summarizes the school’s doctrine. 
+“Sāṅkhya recognizes only three valid sources of information: perception, inference and 
+reliable tradition. The ordering is important: we use inference only when perception is 
+impossible, and only if both are silent do we accept tradition.”48 Traditional authorities, 
+such as the Vedas, can be trusted as a source of knowledge. The principal sources of 
+knowledge, though, are experience and reason. 
+Early vaidyas incorporated Sāṅkhya’s epistemology into their medical practice. It 
+provided an empirical framework for their diagnostics and therapeutics. They observed 
+and compared the signs and symptoms of health and disease. They made inferences about 
+the causes of each. Then, they designed systems of disease-prevention, diagnosis, and 
+treatment based on those conclusions. Ayurveda researcher Christian Kessler, MD, et al. 
+emphasize the value of the vaidyas’ early scientific methods. “(Proto)scientific concepts 
+ 
+47. Some argue that Nyāya exercised a greater influence on Ayurveda. Exploring 
+the argument would take the present discussion far afield. What is most relevant about 
+the present discussion is Ayurveda’s metaphysics and epistemology. On these points, the 
+Nyāya and Sāṅkhya schools are in sufficient agreement. 
+ 
+48. Ferenc Ruzsa, “Sankhya,” Internet Encyclopedia of Philosophy, accessed 
+March 17, 2020, https://www.iep.utm.edu/sankhya/. 
+ 
+
+
+29 
+have had a firm place in mainstream Ayurvedic medicine ever since around the beginning 
+of the common era . . . and are centered around designated disciplines of logic and 
+methodology.”49 The vaidyas often turned to the Vedas for inspiration, insight, and 
+instruction. They turned first to sensory information, logical implication, and material 
+causality. 
+Vaidyas studied what the Vedas have to say about healthy bodies and healthy 
+living. They also observed and made inferences about the health of humans and other 
+animals. How do creatures remain strong and sickness-free? How do they treat 
+themselves when ill? Apparent cures observed by a vaidya might become subjects of 
+rudimentary, small-scale experiments.50 
+One can imagine an illustrative scenario. A monkey eats a rotten egg and gets 
+sick. In response, she gathers a handful of leaves from a tree she never uses for food. She 
+seems to know (expects, at least) that the particular tree’s leaves will have a healing 
+effect. She swallows the leaves, nurses her belly, and vomits on occasion. Within a few 
+hours, the monkey appears normal again. The vaidya wonders whether the leaves will 
+ 
+49. C. Kessler et al., “Ayurveda: Between Religion, Spirituality, and 
+Medicine,” Evidence-Based Complementary and Alternative Medicine 2013 (2013): 1–
+11, https://doi.org/10.1155/2013/952432. 
+ 
+50. Experimentation may seem a surprising feature of early-CE Indian 
+civilization. It was a logical result, though, of prevailing schools of philosophy. Several 
+schools placed the highest epistemic value on direct perception of phenomena. In these 
+schools, comparisons, inferences, and authorities played secondary roles at best. If 
+perception is paramount, then experiments are efficient ways to expand its reach. 
+ 
+
+
+30 
+have the same effect on humans. He administers some to a villager made sick by eating 
+rotten food and observes what happens.51 If the treatment works, he makes a mental note 
+of his findings as a future prescription for the ailment.52 
+He considers other animal cures and folk remedies, too, and seeks to validate 
+them. He shares his findings with students and other healers. Other vaidyas share their 
+observations and inferences, as well. The oral tradition that emerges spreads knowledge 
+about health and disease. This collective wisdom becomes a sort of diagnostic and 
+therapeutic manual for vaidyas. How can people remain healthy? What are various ways 
+they can get sick, and how should a vaidya treat them? The knowledge and methods of 
+these early healers becomes the foundation of Ayurveda.53 
+ 
+During the first millennium BCE, two vaidyas stand out: Suśruta (c. 600) and 
+Charaka (c. 250).54 Like other early vaidyas, they studied the Vedas. They observed how 
+ 
+51. The pronoun “he” is used for the ancient vaidya only for historical purposes. 
+ 
+52. The vaidya concluded that what worked in one instance will work in others. 
+The use of this type of reasoning was a point of contention among early Indian 
+philosophies. Critics, such as the Cārvāka school, pointed out a problem with induction. 
+It draws conclusions based not on sensory input, but on something not perceived. The 
+vaidya observed a cure in one villager's instance. He then drew a conclusion about others 
+whom he had not yet observed. 
+ 
+53. “Journey of Ayurveda,” YouTube, accessed March 17, 2020, 15 min. mark, 
+https://youtu.be/1y5VhRDM6QU. 
+ 
+54. Estimates for Suśruta’s and Charaka’s lifespans vary widely. What 
+complicates matters is that works attributed to one or both may be synthetic. They may 
+owe to an original author, disciples’ modifications, and later redactions. This paragraph 
+ 
+
+
+31 
+humans and other animals maintain health. They attempted to validate apparent cures for 
+various ailments. They studied other vaidyas’ work, too, seeking to confirm their 
+findings.55 Unlike earlier healers, they aimed to codify and comment on all that was 
+known about health. Suśruta focused on surgery; Charaka, on the causes, symptoms, and 
+cures of disease. They compiled their knowledge into compendia known as the Suśruta 
+Saṃhitā and the Charaka Saṃhitā.56 Many regard these as the bibles of Ayurveda and 
+their authors as the fathers of Indian medicine. Between them, the texts outline eight 
+medical specialties. They are internal medicine, otorhinolaryngology, pediatrics, 
+psychiatry, rejuvenation, surgery, toxicology, and virilification.57 
+The Suśruta Saṃhitā, Charaka Saṃhitā, and other early Ayurvedic texts have 
+much to say about human health and sickness. They also have much to say about human 
+nature itself. Ayurveda’s perspective on the subject owes much to Sāṅkhya’s 
+metaphysical dualism. Sāṅkhya views human beings as part prakriti, part puruṣa. Puruṣa 
+ 
+eliminates timeline and authorship ambiguity for simplicity’s sake. Admittedly, historical 
+accuracy may suffer. 
+ 
+55. In most instances, other vaidyas’ experiences were captured only in oral 
+tradition/accounts. 
+ 
+56. A saṃhitā is a collection of post-Vedic texts. 
+ 
+57. Gopi Warrier, Ayurveda: The Right Way to Live (London: Carlton, 2002), 11. 
+Virilification is the “use of aphrodisiacs and fertility-boosting agents to improve sexual 
+function and generative issues.” 
+ 
+
+
+32 
+can be understood as “person,” “soul,” “consciousness,” or “self.”58 It is the immaterial 
+principle that infuses humans with personality and uniqueness. Prakriti, by contrast, is 
+the set of physical constituents that make up a human being. Prakriti is the sum total of a 
+person’s material existence. 
+Anything about a person that may be seen, heard, touched, tasted, or smelled is a 
+product of prakriti. So are the mental faculties that allow humans to interpret such 
+sensory information. Perception and reason, that is, also arise from prakriti, not puruṣa. 
+Puruṣa “is pure consciousness: it enjoys and witnesses Prakṛti’s activities, but does not 
+cause them.”59 Most striking about Sāṅkhya’s metaphysical dualism is the profound 
+inactivity of puruṣa. Ruzsa emphasizes the point: 
+ 
+It is a notable feature of Sāṅkhya that its dualism is somewhat unbalanced: 
+if we dropped puruṣa from the picture, we would still have a fairly complete 
+picture of the world, as Prakṛti is not inert, mechanical matter but is a living, 
+creative principle that has all the resources to produce from itself the human mind 
+and intellect. Sāṅkhya thus looks like a full materialist account of the world, with 
+the passive, unchanging principle of consciousness added almost as an 
+afterthought.60 
+ 
+ 
+58. The literal Sanskrit meaning of puruṣa (sometimes transliterated purusha) is 
+“man.” In Sāṅkhya philosophy, though, as Ruzsa explains, “it often is used for the wider 
+concept of person.” 
+ 
+59. Ruzsa, “Sankhya.” 
+ 
+60. Ruzsa, “Sankhya.” 
+ 
+
+
+33 
+It is this “unbalanced” dualism that shaped Ayurveda’s understanding of human nature. 
+Vaidyas saw the causes of human health and sickness as material and sensate. They 
+viewed the proper treatment of illness to be material and sensate, as well. A modern 
+physician may point out that they knew little about the actual causes of sickness. Early 
+Indian healers knew nothing about bacteria, viruses, parasites, and prions. Still, vaidyas 
+embraced the idea that material causes account for material effects. 
+They sought to explain human health and sickness in terms of the only material 
+agents they knew. To an ancient vaidya, these material agents were earth, water, fire, air, 
+and space.61 Ayurveda refers to them as the pancamahabhutas, the five fundamental, or 
+“great,” elements. All natural things—that is, all things with a prakriti, a material 
+nature—are made of them. Human beings are puruṣa–prakriti composites. The puruṣa, 
+having no material existence, is not a product of the five elements. It is a preternatural 
+entity. Only the prakriti is deemed to arise from the natural elements. 
+In humans, the pancamahabhutas combine to form the doshas. A dosha is one of 
+three basic bodily humors: vata, pitta, and kapha.62 The original meaning of the Sanskrit 
+dosha had scant connection to a bodily humor. Pre-Ayurvedic use of the term often 
+ 
+61. These “classical elements” appear in early Western metaphysics, as well. 
+ 
+62. Most today pronounce the ph in “kapha” as /f/. In ancient Sanskrit, it would 
+have sounded like a breathier, more plosive /p/. Early Western medicine had a similar 
+belief in basic bodily humors. Hippocrates referred to them as blood, yellow bile, phlegm 
+and black bile. 
+ 
+
+
+34 
+pointed, instead, to a fault, defect, or blemish.63 Early vaidyas began to use the term to 
+refer to “fault lines” in the body’s health.64 In this early sense, the doshas were where a 
+defect in human health—a disease—could occur. When vata, pitta, and kapha are in 
+balance, humans remain healthy. When diet, activity, emotional state, or environment 
+becomes unbalanced, however, people become sick.65 
+Doshas regulate all systems of body and mind, from gross-motor movement to 
+imagination.66 Like the pancamahabhutas, the doshas are understood to be material 
+entities. They are not new material entities, but arrangements of the five basic elements. 
+Vata dosha blends air and space, and classical Ayurveda links it to bodily movement. 
+Vata regulates locomotion, as well as respiration and blood circulation. Pitta is the fire 
+dosha, and it is linked to metabolism and the digestive and endocrine systems. Kapha 
+dosha blends the elements of earth and water, and Ayurveda links it to chest, torso, and 
+back. Kapha regulates growth and strength. 
+ 
+63. Shabda-Sagara, “doṣa.” 
+ 
+64. Robert Svoboda in Doctor from India, directed by Jeremy Frindel (New York: 
+Kino Lorber, 2018), https://www.kanopy.com/product/doctor-india. 
+ 
+65. Marc Lallanilla, “Ayurveda: Facts About Ayurvedic Medicine,” LiveScience, 
+January 7, 2015, http://www.livescience.com/42153-ayurveda.html. 
+ 
+66. Many Ayurvedic practitioners would protest this sentence’s Cartesian mind–
+body dualism. They would argue that body and mind are not the human being’s bipartite 
+constituents. Nature and consciousness are. Under the head nature fall all aspects of 
+human psychology and anatomy/physiology. 
+ 
+
+
+35 
+Ayurveda sees the doshas as more than human beings’ material causes, though. 
+The doshas’ permutations and combinations also constitute psycho-physical human types. 
+Pitta is not only the fire-dosha, for example. It is also represents a particular anatomical, 
+physiological, and psychological makeup.67 When a vaidya says that a person has a pitta 
+constitution, it means that pitta dosha predominates. Doshic types may be single-dosha or 
+dual-dosha dominant. Someone’s doshic type, then, may be vata only, pitta only, kapha 
+only, vata–pitta, pitta–kapha, or vata–kapha.68 Everyone fits into one of these six general 
+doshic categories. 
+Sorting people by doshic type has analogs in the West. Westerners often sort 
+people using physical and psychological criteria. For example, an exercise physiologist 
+might classify clients according to body type. She might see clients as ectomorphic, 
+mesomorphic, or endomorphic. The mesomorphs will have “a compact and muscular 
+body build.”69 She will use the term mesomorph as shorthand for a set of anatomical 
+features. 
+ 
+67. Unnikrishnan Payyappallimana and Padma Venkatasubramanian, “Exploring 
+Ayurvedic Knowledge on Food and Health for Providing Innovative Solutions to 
+Contemporary Healthcare,” Frontiers in Public Health 4, no. 57 (2016), 
+doi:10.3389/fpubh.2016.00057. Some Ayurveda researchers link doshic types to discrete 
+phenotypes. See Periyasamy Govindaraj et al., “Genome-Wide Analysis Correlates 
+Ayurveda Prakriti,” Nature News 5, 5786 (2015): 1–12, doi:10.1038/srep15786. 
+ 
+68. Ayurveda outlines doshic subcategories, as well, but their discussion is not 
+relevant here. 
+ 
+69. Stevenson and Lindeberg, ed., NOAD. 
+ 
+
+
+36 
+Psychologists often sort people, too, but according to personality type. They view 
+people as either more introverted or more extroverted. Some are concerned more about 
+their own thoughts and feelings. Others are concerned more about external things or 
+objective considerations. Both terms, introvert and extrovert, represent a complex of 
+psycho-emotional and psycho-social characteristics. Combining body–mind 
+classifications, some people are introverted mesomorphs. Body and personality typing are 
+convenient ways to convey information about someone.70 
+The six doshic types play a similar role in Ayurveda. They summarize common 
+features of categories of human beings. All human beings share many characteristics. 
+Those of the same doshic type share even more. Still, no two human beings ever have 
+identical physical and psychological constitutions. No two bodies, no two minds work 
+exactly alike, not even in twins. Each human being has his or her own unique prakriti, 
+and that prakriti determines his or her doshic type. Even within the same doshic type, 
+though, people’s psycho-physical makeups vary. Among vata–kaphas, for example, some 
+are more vata dominant, some more kapha. 
+When people live compatibly with their doshic type, they remain healthy longer. 
+Their psycho-physical constitution is in equilibrium. People rarely live in harmony with 
+their doshas, though. They eat what they ought not to and do not sleep as they should. 
+They get too much physical activity or too little, and they deal with stress poorly. They 
+ 
+70. They are convenient. They are not always so precise as a physician or scientist 
+might like. 
+
+
+37 
+live in geographies or climates unsuited to their constitutions. Those with pitta dosha, for 
+example, should reduce or avoid hot and spicy foods.71 Most people on the planet, 
+however, know nothing of their doshic type. Ignorant of Ayurveda’s advice, many pittas 
+routinely eat hot and spicy meals. Soon, many develop acid reflux and other digestive 
+difficulties. The added heat in their diet—thermal and chemical—cause a pitta imbalance. 
+When people live incompatibly with their doshic type, they are more likely to 
+become ill. Various factors, some controllable and some not, affect the balance of 
+individuals’ doshas. A change in one’s doshic balance results in a change in one’s 
+physical or mental well-being. Ayurveda calls a person’s present state of health, whatever 
+it is, his or her vikriti.72 The wider the gap between one’s prakriti and one’s vikriti, the 
+more likely illness will be. 
+ 
+Ayurveda sees human health as a balance in the doshas, illness as an imbalance.73 
+Too much pitta can lead to inflammation. Too much kapha can express itself as sinus 
+congestion or edema. Like Western medicine, Ayurveda treats these conditions in an 
+effort to restore full health. Unlike much Western medicine, though, Ayurveda focuses on 
+maintaining health, not curing disease. This may be part of what makes Ayurveda 
+ 
+71. Vasant Lad, “Ayurveda: A Brief Introduction and Guide,” The Ayurvedic 
+Institute, accessed March 17, 2020, https://www.ayurveda.com/pdf/intro_ayurveda.pdf. 
+ 
+72. Ayurvedic literature sometimes transliterates this word vikriti, sometimes 
+vikruti. 
+ 
+73. Jaiswal and Williams, “A Glimpse of Ayurveda.” 
+ 
+
+
+38 
+attractive to many Westerners. Why pay the cost of treatment, they wonder, if one can 
+prevent many illnesses in the first place? Vaidyas may prescribe tulsi tea as an anti-
+diabetic.74 Their counsel to the patient, though, will focus on changes to diet and activity. 
+Keeping people healthy is more important to Ayurveda than prescribing medicine. 
+ 
+PHILOSOPHICAL & THEORETICAL FOUNDATIONS: OBJECTIONS 
+ 
+ 
+For some critics, Ayurveda’s religious foundation disqualifies it as a science. The 
+concern seems to be that its worldview is incompatible with modern thinking. To many 
+modern thinkers, all things that exist are reducible to the natural and physical. A god that 
+transcends nature cannot exist because the supernatural cannot exist.75 Even if such a god 
+did exist, that god could have no causative effect on the natural world. Ayurveda’s 
+mythic foundation and religious ties to Hinduism seem insuperable obstacles. One can 
+excuse ancient vaidyas who attributed Ayurvedic healing to the gods. The problem is that 
+many of today’s practitioners do, too. 
+ 
+74. Lesley Braun and Marc Cohen, Herbs & Natural Supplements: An Evidence-
+Based Guide, vol. 2 (Sydney: Churchill Livingstone, 2015), 997. “Tulsi has been found to 
+have effective anti-diabetic activity in human trials.” 
+ 
+75. This statement begs the question. Its premise assumes what its conclusion 
+asserts. 
+ 
+
+
+39 
+ 
+This line of objection is an unfair disqualification. Many modern sciences were 
+born in a mythic, pre-enlightened past. One should not dismiss them for how their 
+embryonic versions understood the world. Who discounts astronomy, for example, 
+because its intellectual ancestors were religious astrologers? Who disregards chemistry 
+because its pioneers practiced alchemy? Hippocrates and Galen believed that four fluids 
+control the body. Should one dismiss modern medicine on account of their humoral 
+theory? Ancient physicians and natural philosophers accounted for the world as best they 
+could.76 They could explain reality only with the concepts and information available to 
+them. This is no less true for ancient Ayurvedic physicians. 
+ 
+Other critics are concerned that Ayurvedic practitioners attribute natural 
+phenomena to metaphysical entities. This concern sounds religious, but it is more 
+philosophical or methodological. Before addressing the objection, it is necessary to 
+qualify the term Ayurvedic practitioner. This paper addresses beliefs and practices of 
+ancient healers and present-day vaidyas. Its discussions of history and philosophy are 
+helpful and important for understanding Ayurveda. The thesis, though, defends 
+Ayurveda’s modern expression. The vaidyas being defended are modern practitioners 
+with modern Western educations. 
+ 
+76. Lawrence Principe, Scientific Revolution (Oxford: Oxford University Press, 
+2011). Principe traces the development of science from myth (pre-science) to 
+protoscience to modern science. 
+
+
+40 
+This qualification does not detract from the critic’s contention, however. Some 
+practitioners today do indeed see metaphysical causes behind natural effects.77 This 
+objection is insufficient to disqualify Ayurveda as a genuine science, though. Stating the 
+concern more precisely will help explain why. Some modern practitioners see 
+metaphysical causes behind the natural causes of natural effects. They believe that there 
+is a God or a nonphysical “energy” at work in the universe.78 They believe that this 
+metaphysical entity interacts with the physical world. Some believe that this entity 
+interacts with the physical world in a sustaining way. Others believe that the entity 
+interacted with the world only to bring it into existence. 
+Many of today’s Ayurvedic practitioners hold such views. Still, modern vaidyas 
+practice medicine within a natural effect–natural cause framework. In this way, some 
+modern Ayurvedic physicians are like some Western scientists. Many a biomedical 
+physician believes that God performs medical miracles. In one poll of 1,100 US 
+physicians, nearly three out of four do.79 One ought not to dismiss modern medicine 
+because of these doctors’ metaphysical beliefs. Regardless of those beliefs, they approach 
+ 
+77. Vasant Lad may be an example. 
+ 
+78. Some view the metaphysical as plural: gods, for example, or “energies.” 
+ 
+79. Shoba Sreenivasan and Linda E. Weinberger, “Do You Believe in Miracles?” 
+Psychology Today, December 15, 2017, 
+https://www.psychologytoday.com/us/blog/emotional-nourishment/201712/do-you-
+believe-in-miracles. 
+ 
+
+
+41 
+medicine as methodological naturalists.80 The same can be said of the Ayurvedic 
+practitioners this paper defends. Some twenty-first-century vaidyas believe that Vishnu 
+enlightens their minds and guides their hands.81 Some believe that Ganesha removes 
+obstacles to good health.82 Even so, these vaidyas research, diagnose, advise, and treat as 
+if the gods did not exist. 
+ 
+Another line of objection to Ayurveda focuses on the pancamahabhutas, doshas, 
+and prakriti. Some critics are concerned that they seem to have immaterial natures. 
+Granted, modern scientists may believe God to be working behind natural causes. May a 
+genuine scientist interpret an immaterial “substance” as a natural cause, though? If the 
+pancamahabhutas are immaterial, how can they account for humans’ physical existence? 
+If the doshas are immaterial, how can they be biological mechanisms of action? If the 
+prakriti is immaterial, how can it produce human beings? Ayurveda cannot be a genuine 
+science if its core concepts have no physical existence. 
+ 
+80. David Papineau, “Naturalism,” Stanford Encyclopedia of Philosophy, 
+September 15, 2015, https://plato.stanford.edu/entries/naturalism/. 
+ 
+81. Vishnu is “a god, originally a minor Vedic god, now regarded by his 
+worshipers as the supreme deity and savior, by others as the preserver of the cosmos in a 
+triad with Brahma and Shiva. Vishnu is considered by Hindus to have had nine earthly 
+incarnations or avatars, including Rama, Krishna, and the historical Buddha; the tenth 
+avatar will herald the end of the world” (NOAD). 
+ 
+82. Ganesh/-a is “an elephant-headed deity, son of Shiva and Parvati. Worshiped 
+as the remover of obstacles and patron of learning, he is usually depicted colored red, 
+with a potbelly and one broken tusk, riding a rat” (NOAD). 
+ 
+
+
+42 
+Other critics grant that the pancamahabhutas’, doshas’, and prakriti’s natures are 
+material. These critics challenge their identities. Ayurveda teaches that every natural 
+thing is made of earth, water, fire, air, and space. How can a genuine science cling to 
+these five “elements” as the building blocks of the world? These two objections to the 
+pancamahabhutas, doshas, and prakriti are formidable. Clarifying how Ayurveda sees 
+their natures and identities requires a careful response. That response needs to consider 
+three different Ayurvedic mindsets: ancient, traditional, and modern.83 
+ 
+Ancient vaidyas are those of the premodern world. They recognized no separation 
+between the metaphysical and the physical. Their worldview saw gods and mortals 
+playing on the same cosmic stage. They saw their minds as receptacles of divine 
+revelation and reflectors of its truth. Their scriptures were sources of knowledge and 
+arbiters of experience. Ancient vaidyas were children of their time. Their Ayurveda 
+cannot determine the scientific standing of today’s Ayurveda. The same cannot be said 
+for the beliefs and practices of traditional and modern vaidyas. 
+ 
+Traditional vaidyas are practitioners of the modern era who ignore modern 
+Western education. Traditional vaidyas downplay or deny the insights of modern medical 
+science. Their training derives from the tenets and practices of ancient Ayurveda. Most 
+traditional vaidyas study under traditional gurus, who themselves learned from traditional 
+gurus. Traditional vaidyas overlook or look askance at biomedical principles, diagnostics, 
+ 
+83. Nishal Ramnunan. Personal interview. 8 Dec. 2018. Thanks to Ramnunan for 
+outlining this delineation. 
+
+
+43 
+and therapeutics. They have little regard for methodological naturalism and modern 
+clinical methods. A Western analog is the zoologist who denies and resists evolutionary 
+theory. The resistance stems not so much from scientific considerations as from ante-
+scientific commitments. Those prior commitments may be philosophical, religious, 
+societal, or even political. 
+Traditional vaidyas view the pancamahabhutas, doshas, and prakriti as the 
+ancients did. Defending their Ayurvedic practice as a genuine science would prove an 
+exceptional challenge. Traditional vaidyas are by no means rare in the global Ayurvedic 
+community. Writing for the WHO in 2011, P. N. V. Kurup estimated their number at 
+300,000 worldwide.84 Still, their non-modern views do not represent most Ayurvedic 
+schools and hospitals today.85 
+ 
+The third Ayurvedic mindset the critic of Ayurveda must consider is the modern. 
+Modern practitioners represent a minority, but a growing and influential one. Given their 
+ 
+84. P. N. V. Kurup, “Ayurveda,” in Traditional Medicine in Asia, ed. Ranjit Roy 
+Chaudhury and Uton Muchtar (New Delhi: World Health Organization, 1990), 3. 
+ 
+85. “Courses in Ayurveda,” Ministry of AYUSH | Courses in Ayurveda, accessed 
+April 5, 2020, http://ayush.gov.in/courses-ayurveda. According to Nishal Ramnunan, 
+however, India’s current prime minister wishes to see this change. A defender of Hindu 
+nationalism, Narendra Modi advocates Ayurveda’s returning to its Vedic roots. His 
+concern seems to have little to do with medicine, more to do with casting off Western 
+thought. 
+ 
+
+
+44 
+roles in colleges and hospitals, they are poised to shape Ayurveda’s future.86 Modern 
+Ayurvedic practitioners and teachers embrace modern Western education. They view 
+Ayurveda as a complement, not an alternative, to biomedicine. Still, typical modern 
+vaidyas receive premedical educations in anatomy, physiology, and pharmacology.87 
+They learn the scientific method, and they learn to value it in the practice of medicine. 
+Modern vaidyas recognize the importance of methodological naturalism and the modern 
+worldview. 
+When they describe the doshas, for example, they characterize them in biological 
+terms. Modern Ayurvedic literature characterizes vata, pitta, and kapha as confluences of 
+bodily systems. Alex Hankey of the Institute of Ayurveda Integrative Medicine, 
+Bangalore, provides an example: 
+ 
+In an age where validity of concepts is judged by their scientific relevance, 
+establishing the scientific validity of Tridosha is a program of significance. It 
+requires translating concept and practical application into the idiom of modern 
+biology and medicine. Four different complementary approaches have been 
+proposed to do so: factor analysis of human physiology; systems analysis of 
+organism function; correlation of Dosha and genomic variations - Ayugenomics; 
+and correlation of Dosha and cellular function.88 
+ 
+86. Bhushan Patwardhan, “Bridging Ayurveda with Evidence-Based Scientific 
+Approaches in Medicine,” EPMA Journal 5, no. 19 (2014), doi.org/10.1186/1878-5085-
+5-19. 
+ 
+87. Kurup, “Ayurveda,” 14. 
+ 
+88. Alex Hankey, “Establishing the Scientific Validity of Tridosha: Part 1: 
+Doshas, Subdoshas and Dosha Prakritis,” Ancient Science of Life 29, no. 3 (2010): 6, 
+ 
+
+
+45 
+ 
+The doshas comprise complex interactions among biological, chemical, and mechanical 
+systems. Physical things, such as food, medicine, exercise, and weather, impact the 
+doshas.89 The right medicine for the right person at the right time brings bodily balance 
+and health. The wrong food or medicine can have the opposite effect. Modern vaidyas 
+make these causal connections based on the doshas’ physical nature. 
+ 
+Modern Ayurveda sees an individual’s prakriti in a similar physical way. The 
+prakriti is a person’s unique combination of doshas. The prakriti is understood to have a 
+biological basis because the doshas do. US-based researchers Yogini Jaiswal and Leonard 
+Williams describe scientific studies of Ayurvedic principles. Their integration of 
+Ayurvedic and biomedical terms is typical in modern Ayurvedic literature. (The topics of 
+their discussion will be taken up in the next section.) Their uses of prakriti and dosha 
+lack precision. The concepts’ biological nature is apparent, though. 
+ 
+Rotti et al, have published several studies correlating the concept of prakriti in 
+Ayurveda to present-day science. A report indicating the correlation of dominant 
+prakriti with the Body Mass Index (BMI) and place of birth in individuals was 
+ 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3336287/pdf/ASL-29-6.pdf. For further 
+information on the “Ayugenomic” approach, see Bhushan Patwardhan and Gerard 
+Bodeker, “Ayurvedic Genomics: Establishing a Genetic Basis for Mind–Body 
+Typologies,” The Journal of Alternative and Complementary Medicine 14, no. 5 (2008): 
+571–76, doi.org/10.1089/acm.2007.0515. 
+ 
+89. Kurup, “Ayurveda,” 6. 
+ 
+
+
+46 
+published.90 Studies involving subjects of various prakriti types viz. Vata, Pitta 
+and Kapha, were carried out to identify molecular differences that affect 
+susceptibility and responses of individuals to various environmental or disease 
+conditions. A classification method for human population, with respect to DNA 
+methylation signatures is reported based upon traditional Ayurveda concept of 
+prakriti.91 In a study involving genome-wide SNP (single nucleotide 
+polymorphism) in 262 male individuals from three different prakritis, it was found 
+that PGM1 gene is associated with energy production. PGM1 was found to be 
+more homogeneous in Pitta prakriti, than the Kapha and Vata prakriti.92, 93 
+ 
+The authors discuss doshic types alongside BMIs, molecular characteristics, and DNA 
+methylation. They mention a correlation between pitta dosha and the homogeneity of the 
+PGM1 gene. The article does not address the prakriti’s or the doshas’ natures per se. Still, 
+the authors’ language assumes that the doshas are complexes of biochemical systems. 
+The doshas are neither metaphysical entities nor literal earth, water, and the rest. The 
+authors’ approach to Ayurveda frames ancient medical ideas within modern scientific 
+understandings. Later sections on methods show how this approach affects clinical 
+practice and research. 
+ 
+90. Harish Rotti et al., “Determinants of Prakriti, the Human Constitution Types 
+of Indian Traditional Medicine and Its Correlation with Contemporary Science,” Journal 
+of Ayurveda and Integrative Medicine 5 no. 3 (2014): 167–75, 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204287/pdf/JAIM-5-167.pdf. 
+ 
+91. Harish Rotti et al., “DNA Methylation Analysis of Phenotype Specific 
+Stratified Indian Population,” Journal of Translational Medicine 13 no. 151 (2015): 1–
+12, doi:10.1186/s12967-015-0506-0. 
+ 
+92. Periyasamy Govindaraj et al., “Genome-Wide Analysis Correlates Ayurveda 
+Prakriti,” Nature News 5, 5786 (2015): 1–12, doi:10.1038/srep15786. 
+ 
+93. Jaiswal and Williams, “A Glimpse of Ayurveda,” 52. 
+
+
+47 
+Some Ayurvedic practitioners today hold metaphysical views like those of their 
+ancestors. They understand prakriti, puruṣa, pancamahabhuta, and dosha much as Suśruta 
+and Charaka did. Others have more modern perspectives. To assess Ayurveda fairly, one 
+needs to consider the views of both sorts of practitioner. Various sections below will 
+highlight important developments in Ayurvedic understanding. Some of these discussions 
+use five-elemental language, but only because Ayurveda does. “Earth,” “water,” “fire,” 
+“air,” and “space” appear in contemporary discussions of the pancamahabhutas. The 
+classical elements are implicit in every mention of the doshas and the prakriti, as well. 
+What is meant in each instance depends upon the “Ayurvedist” using the terms.94 
+The use of ancient terms by today’s Ayurvedists represents a hermeneutical spectrum. 
+Some speak of the five elements and their doshic combinations as literal earth, water, etc. 
+An increasing number of Ayurvedists use the elemental terms more like metaphors. Talk 
+of air does not mean “the invisible gaseous substance surrounding the earth.”95 Instead, 
+air points to some biology-based principle or process associated with vata dosha. This 
+literal-to-figurative hermeneutical divergence represents a key development in Ayurvedic 
+ 
+94. “Ayurvedist” is shorthand for Ayurvedic theorist, educator, practitioner, or 
+researcher. 
+ 
+95. Stevenson and Lindeberg, ed., NOAD. 
+ 
+
+
+48 
+thought.96 Its relevance to the question of Ayurveda’s scientific standing may be 
+apparent. 
+Of course, using language that points to a biological process is not the same as 
+defining the process. To a modern Ayurvedist, pitta is not, of course, made of what 
+consumes wood in a fireplace. Rather, it signifies a complex of biological, chemical, and 
+physical mechanisms. This statement is vague and easy to make. It is more challenging to 
+translate the concept of pitta into biomedical terms. Some Ayurvedists, such as 
+Jayakrishna Nayak, have called special attention to the problem.97 They want to see 
+greater dialogue between Indian Ayurveda and Western biomedicine. For that to happen, 
+these Ayurvedists realize, both sides must agree upon terminology. 
+ 
+The descriptions above characterize Ayurvedists delineated as modern. Without a 
+couple of caveats, though, the response would be incomplete. The first concerns the 
+confusing language used by some modern Ayurvedists. Ayurveda instructor Justin 
+Robertshaw provides a clear example of the problem. He refers to the doshas as 
+ 
+96. “Figurative” here means “representing a physical substance (or system) that is 
+not literal earth, water, etc.” “Figurative” does not mean metaphysical. Some Western 
+Ayurvedists refer to the pancamahabhutas and doshas as “energies.” This notion is a 
+novelty in Ayurveda’s history. It will be addressed below. 
+ 
+97. Jayakrishna Nayak, “Ayurveda Research: Ontological Challenges,” Journal of 
+Ayurveda and Integrative Medicine 3, no. 1 (January 2012): 17–20, 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3326789/pdf/JAIM-3-17.pdf. 
+ 
+
+
+49 
+“energies.”98 By logical implication, then, the pancamahabhutas are energies. After all, 
+the doshas are mere combinations of those five fundamental elements. 
+Some critics view an Ayurvedist’s use of the term energy as a telltale sign of a 
+medical pseudoscience. If doshic “energies” are real but nonphysical, however, then they 
+must be metaphysical. If metaphysical, then they cannot be the basis of a genuine medical 
+science. A conceptual framework that incorporates metaphysical entities betrays 
+methodological naturalism. Other critics view such a use of the term energy as indicative 
+of shoddy scientific thought. If Ayurveda says “energy” when it means a complex of 
+biological systems, then it is doing bad science.99 Alternatively, does “energy” refer to 
+electricity, magnetism, or the like? If so, then Ayurveda posits a sort of scientific magic 
+in its theoretical foundation. These concerns are understandable, but they prove less 
+substantial than they first seem. 
+ 
+Calling the doshas “energies” need not indicate either bad science or 
+pseudoscience. It may indicate, instead, a failure to find more precise, less misleading 
+language. Indeed, Robertshaw elsewhere defines a doshic type as a person’s “biological 
+constitution.”100 Ayurveda conceives of the doshas (and underlying pancamahabhutas) as 
+ 
+98. “Q&A with Ayurvedic Lifestyle Mentor, Justin Robertshaw,” Mala Love, 
+January 24, 2017, https://www.lovemalalove.com/questions-answer-with-justin/. 
+ 
+99. Of course, charging Ayurveda with doing bad science entails that it is doing 
+science. 
+ 
+100. “Q&A with Ayurvedic Lifestyle Mentor.” 
+
+
+50 
+material. It views them as comprised of, influencing, and being influenced by biological 
+processes. The doshas are neither electromagnetic energies nor esoteric metaphysical 
+entities. 
+Modern Ayurvedic literature explores the doshas’ biological basis. It seeks to 
+isolate the doshas’ mechanism of action. Are the doshas rooted in people’s genes? That 
+is, do the doshic types represent six common genetic variations among humans? Are they 
+rooted, more proximally, in six principal species-wide metabolic variants? Questions 
+such as these will be taken up in the next section. What modern Ayurvedic literature 
+makes clear about the doshas is this. Whatever they are in precise scientific terms, they 
+are neither immaterial nor electromagnetic. 
+ 
+The second caveat about modern Ayurvedists concerns the “mystical outliers.” 
+Vasant Lad and Deepak Chopra are notable examples. These contemporary Ayurvedists 
+incorporate into their views metaphysical, paranormal, or otherwise unscientific ideas. A 
+scene from the documentary film The Doctor from India demonstrates the problem.101 
+The film spotlights the work of Vasant Lad, a vaidya trained in Pune, India. In the late 
+1970s, he was one of the first to bring Ayurveda to the West. The illustrative scene’s 
+context is Lad’s seeing of patients in his Pune clinic. To diagnose and treat, a vaidya must 
+ 
+101. Doctor from India, directed by Jeremy Frindel (New York: Kino Lorber, 
+2018), https://www.kanopy.com/product/doctor-india. 
+ 
+
+
+51 
+first determine a patient’s prakriti and vikriti. One traditional means of doing this is by 
+examining the patient’s pulses (more on this in the next section). 
+In the scene, Lad examines a man who has come to him for treatment. By 
+checking the man’s pulses, Lad claims to know his mother’s present health condition. In 
+another scene, Lad talks about feeling nature’s “vibrations” while sitting under a tree. 
+Popular Ayurveda teacher and yoga guru David Frawley explains Lad’s abilities.102 No 
+ordinary Ayurvedic physician, Vasant Lad is a physician, a yogi, and a psychic.103 The 
+film presents remote diagnosis and “vibrational” perception as normal for Lad. Such 
+purported abilities are not claimed by the typical modern vaidya, however. Neither Lad 
+nor Chopra is representative of the modern Ayurveda this paper defends. 
+ 
+METHODS: DIAGNOSIS & TREATMENT 
+ 
+ 
+When one evaluates the methods used by a field of practice or research, what is 
+one aiming to assess? One is aiming to determine how the field views the epistemic 
+warrant for its claims. On what grounds, that is, do its practitioners and researchers 
+believe its claims to be sound? When one asks about Ayurveda’s methods, one asks 
+questions such as the following. Are its diagnostic and therapeutic methods recognizable 
+ 
+102. David Frawley is one of Deepak Chopra’s longtime teachers. Information 
+about Frawley is available at https://www.vedanet.com. 
+ 
+103. David Frawley in Doctor from India. 
+
+
+52 
+as scientific? What is the role of empirical evidence? What is the role of logical 
+reasoning? What is the role of critical review? We can explore Ayurveda’s answers by 
+considering two groups, practitioners and researchers. 
+ 
+A visit to an Ayurvedic practitioner (AP) is like a visit to many a modern 
+physician.104 The practitioner takes the patient’s medical history. She notes the patient’s 
+age, sex, place of birth, current address, and illness history. She notes what medications 
+the patient has taken and what surgeries he has undergone. She notes diseases and 
+conditions common in the patient’s family, too. The practitioner makes clinical 
+observations, as well. She observes the patient’s gait and demeanor. She attempts to 
+discern his mental and emotional states. She examines hair, skin, teeth, eyes, tongue, 
+urine, stool, pulse, and respiration.105 She asks about diet, rest, voiding, sex, work, and 
+exercise. 
+ 
+Then, she makes a diagnosis based on prakriti assessment and symptom 
+presentation. What she prescribes as a treatment may vary by patient because no two 
+ 
+104. Kurup, “Ayurveda,” 7. 
+ 
+105. An AP takes note both of the cardiac pulse and of the doshic pulses. The 
+question of the doshic pulses’ clinical, or sensory, content is intriguing. What exactly is 
+an AP assessing when checking doshic pulses? The question is intriguing, but it also lies 
+outside the scope of this paper. Whatever is being evaluated, the vaidya assumes it to be 
+biological in nature. The vaidya also uses the doshic pulses to help determine prakriti and 
+vikriti. Also interesting is the high concurrence rate of prakriti determination by 
+experienced vaidyas. For further information on this last point, see Harish Rotti et al., 
+“Determinants of Prakriti.” 
+ 
+
+
+53 
+patients are ever the same. Indeed, diagnosis and treatment may vary with the same 
+patient on different occasions. According to Ayurveda, one’s prakriti adapts to one’s age, 
+the time of day, and the season of the year.106 Two hypothetical patients’ symptoms lead 
+the AP to diagnose arthritis of the knee. For the inactive, pitta-dominant patient, she 
+might advise short walks in the cool of the day. The kapha-dominant patient, though, 
+might receive a turmeric decoction as an anti-inflammatory. 
+Ayurveda does not assume that the same treatment will work for everyone. This 
+stands in stark contrast to the standardized approach of much Western medicine. 
+Ayurveda researcher Shailaja Chandra describes Ayurvedic diagnostics and therapeutics 
+this way. “Each individual is believed to have a special and unique constitution and the 
+choice of therapeutic treatment is individualistic and holistic. Diagnosis is done in a 
+patient specific manner and treatment is custom-made.”107 Some people will respond well 
+to a certain treatment. Others will be unaffected by it or may even be harmed. Vaidyas 
+need to know what can cause human illness, but they need to know their patients, as well. 
+Biomedical protocols tend to look for and treat disease. Ayurveda aims to treat persons. 
+ 
+106. Warrier, Ayurveda, 23. 
+ 
+107. Shailaja Chandra, “Ayurvedic Research, Wellness and Consumer Rights,” 
+Journal of Ayurveda and Integrative Medicine 7 no. 1 (2016): 7, 
+doi:10.1016/j.jaim.2016.05.002. 
+ 
+
+
+54 
+ 
+Remarkably, the Vedas and Samhitas describe many modern medical conditions, 
+including arthritis.108 Modern APs do not rely on ancient texts to justify their treatment 
+protocols, though. They turn first to Ayurveda’s history of clinical presentations and 
+treatment results. They know that APs have used X to treat Y for centuries and with 
+effective result. They understand this history to serve as a diagnostic–therapeutic 
+baseline, though. What worked for many people a century ago may not work for many 
+today. Diets, psychological stresses, and the environment change over the years. Those 
+changes affect an individual’s prakriti. They also affect the collective prakritis of a 
+people. 
+ 
+To diagnose and treat, modern APs rely on observation, logic, and Ayurveda’s 
+history. They base diagnoses on sensory data and abductive logic. A patient presents with 
+a handful of symptoms. The vaidya evaluates the patient’s history, lifestyle, prakriti, and 
+vikriti. The AP renders a diagnosis that makes best sense of the information available. 
+ 
+108. Ayurveda has long treated inflammatory and arthritic conditions. For 
+information about treatment history and current research, see the following. Kumar P. R. 
+Krishna, “The Efficacy of Ayurvedic Treatment for Rheumatoid Arthritis: Cross-
+Sectional Experiential Profile of a Longitudinal Study,” International Journal of 
+Ayurveda Research 2, no. 1 (2011): 8–13, 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157120/. See also Ali Mobasheri, 
+“Intersection of Inflammation and Herbal Medicine in the Treatment of 
+Osteoarthritis,” Current Rheumatology Reports 14 (2012): 604–16, doi:10.1007/s11926-
+012-0288-9. See too Subramani Parasuraman, Gan Siaw Thing, and Sokkalingam 
+Arumugam Dhanaraj, “Polyherbal Formulation: Concept of Ayurveda,” Pharmacognosy 
+Reviews 8, no. 16 (2014): 73–80, doi:10.4103/0973-7847.134229. Helpful also is Ramar 
+Perumal Samy, Peter Natesan Pushparaj, and Ponnampalam Gopalakrishnakone, “A 
+Compilation of Bioactive Compounds from Ayurveda,” Bioinformation 3, no. 3 (2008): 
+100–10, doi:10.6026/97320630003100. 
+
+
+55 
+Then, the AP determines a course of treatment based on (probabilistic) induction. The 
+vaidya prescribes curatives that have a long, successful track record. If panchakarma has 
+worked for so many with a similar prakriti in the past,109 it is likely to work again today. 
+ 
+One Ayurvedic remedy that has received much recent attention is turmeric. Not 
+only a cooking spice, the orange powder has played a prominent role in Ayurveda for 
+centuries.110 Vaidyas often prescribe turmeric-rich polyherbal decoctions to reduce 
+inflammation.111 Inflammation can be “a localized physical condition in which part of the 
+body becomes reddened, swollen, hot, and often painful, especially as a reaction to injury 
+or infection.”112 Inflammation can also cause chronic disease, such as rheumatoid arthritis 
+ 
+109. L. A. Conboy, I. Edshteyn, and H. Garivaltis, “Ayurveda and Panchakarma: 
+Measuring the Effects of a Holistic Health Intervention,” The Scientific World Journal 9 
+(2009): 272–80, doi:10.1100/tsw.2009.35. “Panchakarma is one of the prominent 
+Ayurvedic tools used to restore balance to the body,” Conboy and team explain. 
+“Through the use of herbalized oils, body treatments (including oil massage), steam 
+therapy, herbal paste therapy, nasal therapy, vomiting therapies, enema therapy, and 
+purgation therapies, Panchakarma is designed to allow the body to rid itself of wastes that 
+have accumulated and lodged in the body, creating blockages in the intelligent flow of 
+the various systems, including the circulatory, nervous, and digestive systems. Once this 
+cleansing process is complete, the body can resume its natural functioning without 
+interference” (“Ayurveda and Panchakarma,” 274). 
+ 
+110. Samy, Pushparaj, and Gopalakrishnakone, “Bioactive Compounds.” 
+ 
+111. Parasuraman, Thing, and Dhanaraj, “Polyherbal Formulation.” Vaidyas 
+sometimes prescribe a single-herbal remedy for a particular condition. Often, they 
+prescribe a polyherbal formulation. “This key traditional therapeutic herbal strategy 
+exploits the combining of several medicinal herbs to achieve extra therapeutic 
+effectiveness,” explain Parasuraman, Thing, and Dhanaraj. 
+ 
+112.  Stevenson and Lindeberg, ed., NOAD. 
+ 
+
+
+56 
+or inflammatory bowel disease. One group of turmeric’s key phytochemicals, the 
+curcuminoids, have piqued biomedical interest. 
+Some laboratory research appears to support the Ayurvedic remedy’s claim. 
+Musculoskeletal researcher Ali Mobasheri and team provide an example of supporting 
+evidence. He and his team were investigating herbal medicines as potential treatments for 
+osteoarthritis. They conducted in-vitro research into curcumin’s biological action. 
+Mobasheri concluded that “results indicate that curcumin is a safe and promising herbal 
+medicine for treatment of OA [osteoarthritis]. However, its efficacy and bioavailability 
+must be studied in greater detail in-vivo.”113 Mobasheri recognizes the need for more 
+research into curcumin’s potential in humans. Still, he finds promise in the principal 
+phytochemical of a key Ayurvedic remedy. 
+Another example of supporting laboratory evidence comes from a team of oral-
+medical researchers. Syeda A. Ara and his team reviewed studies of curcumin, turmeric’s 
+key curcuminoid. They were investigating its use for treating oral submucous fibrosis 
+(OSMF). The researchers did not find the evidence they sought. “There is a lacunae [sic] 
+for scientiﬁc review of curcumin for … OSMF,” they write.114 They did, however, find 
+support for curcumin’s anti-inflammatory usefulness. “By modulating the activation of 
+ 
+113. Mobasheri, “Inflammation and Herbal Medicine,” 608. 
+ 
+114. Syeda Arshiya Ara et al., “Research on Curcumin: A Meta-Analysis of 
+Potentially Malignant Disorders,” Journal of Cancer Research and Therapeutics 12, 
+no. 1 (2016): 175–81, doi:10.4103/0973-1482.171370. 
+ 
+
+
+57 
+various transcription factors,” the team explains, “curcumin regulates the expression of 
+inﬂammatory enzymes.”115 Though recent and still scant, research is starting to show how 
+turmeric’s curcumin works. 
+ 
+Many practitioners in complementary and integrative medicine tout turmeric’s 
+curcumin as an anti-inflammatory. Many on the Internet tout it as an anti-bacterial, anti-
+fungal, and anti-viral, as well. More extreme voices claim that it cures cancer, 
+Alzheimer’s disease, and baldness. Some researchers find no evidence for any such 
+curcumin claims. Medicinal chemist Kathryn M. Nelson and her team counter them in the 
+strongest terms. 
+ 
+The likely false activity of curcumin in vitro and in vivo has resulted in >120 
+clinical trials of curcuminoids against several diseases. No doubleblinded, placebo 
+controlled clinical trial of curcumin has been successful. This manuscript reviews 
+the essential medicinal chemistry of curcumin and provides evidence that 
+curcumin is an unstable, reactive, nonbioavailable compound and, therefore, a 
+highly improbable lead.116 
+ 
+ 
+Nelson and her team dismiss curcumin claims as nearly groundless. Curcumin is 
+“a highly improbable lead.”117 If so, then Ayurveda’s claims about turmeric’s 
+ 
+115. Ara et al., “Research on Curcumin.” 
+ 
+116. Nelson et al., “The Essential Medicinal Chemistry of Curcumin,” Journal of 
+Medicinal Chemistry 60, no. 5 (2017): 1620, doi:10.1021/acs.jmedchem.6b00975. 
+ 
+117. Nelson et al., “Chemistry of Curcumin,” 1620. 
+ 
+
+
+58 
+effectiveness would appear to be baseless. This may seem a clear implication, but 
+Nelson’s team stops short of drawing that conclusion. Researchers admit they “do not 
+rule out the possibility that an extract of crude turmeric might have beneficial effects on 
+human health.”118 The researchers’ study describes the lack of supporting evidence for 
+curcumin claims. It does not rule out the potential effectiveness of turmeric itself. Nelson 
+and her team may have intended only to refute claims about turmeric’s key 
+curcuminoid.119 To be clear, Ayurveda has had much success with turmeric as an anti-
+inflammatory. It has never attempted to isolate and prescribe the chemical constituent 
+curcumin. 
+ 
+Turmeric is one plant-based Ayurvedic treatment among thousands. Laboratory 
+research has begun investigating the biochemical basis of claims made for it. Research 
+has begun to investigate claims for other Ayurvedic medicinals, also. PubMed searches 
+for “ashwagandha,” “tulsi,” and “bacopa monnieri,” for example, bear this out.120 One 
+early Western investigation involved the Ayurvedic herb sarpagandha, or Indian 
+ 
+118. Nelson et al., “Chemistry of Curcumin,” 1631. 
+ 
+119. Bhushan Patwardhan, “Ayurvedic Drugs in Case: Claims, Evidence, 
+Regulations and Ethics,” Journal of Ayurveda and Integrative Medicine 7, no. 3 (2016): 
+135–37, doi:10.1016/j.jaim.2016.08.005. Patwardhan has a similar concern about how 
+Ayurvedic medicines are advertised in India. He criticizes the “blatant cheating through 
+misleading commercial advertisements claiming cure for many incurable diseases (135).” 
+ 
+120. PubMed is a service of the U.S. National Library of Medicine’s National 
+Center for Biotechnology Information. It is available at https://pubmed.ncbi.nlm.nih.gov/. 
+ 
+
+
+59 
+snakeroot. Ayurveda has used the herb to treat fever and insanity. Western researchers 
+isolated the herb’s chemical mechanism of action. From the isolated chemical, the 
+reverse-engineered pharmaceutical reserpine was produced. Reserpine is now used to 
+treat hypertension and schizophrenia.121 Conventional medicine has only recently started 
+paying attention to Ayurveda’s herbal medicines. This fact is not tantamount to there 
+being no strong evidence for Ayurveda’s claims. It is only a recognition of biomedicine’s 
+longstanding lack of interest. 
+ 
+Sometimes, critics deny the effectiveness of Ayurvedic remedies. Sometimes, 
+they issue stern warnings about those remedies’ potential harm. An example is the 
+warning about the toxicity of certain Ayurvedic preparations. Most Ayurvedic medicines 
+are herbal blends solely. Some, though, are prepared as rasa shastra. Rasa shastra 
+preparations combine herbs with metals, minerals, or gems. Most often, the metals used 
+ 
+121. Bhushan Patwardhan and Raghunath Anant Mashelkar, “Traditional 
+Medicine-Inspired Approaches to Drug Discovery: Can Ayurveda Show the Way 
+Forward?” Drug Discovery Today 14, no. 15-16 (2009): 804–11, 
+doi:10.1016/j.drudis.2009.05.009. See also R. D. Lele, “Beyond Reverse Pharmacology: 
+Mechanism-Based Screening of Ayurvedic Drugs,” Journal of Ayurveda and Integrative 
+Medicine 1, no. 4 (2010): 257–65, 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3117317/. Reverse pharmacology is one 
+new avenue of investigation that shows promise. Researchers have begun to study 
+successful Ayurvedic medicines’ mechanism of action. The hope is that this may lead to 
+new drugs and treatment protocols. Turmeric has been mentioned as a classic Ayurvedic 
+treatment for inflammation. Another is frankincense, the aromatic gum resin. One 
+research team at the University of Tübingen (in 2011) found it as effective as cortisone, 
+but safer. The researchers hypothesized that its mechanism of action owed to its 
+Boswellian acids. See The Secret World of Wellness: Ancient India, directed by Peter 
+Bardehle (Langbein & Skalnik Media, 2007), https://youtu.be/1QYhh5bmQcE. 
+ 
+
+
+60 
+are lead, mercury, and arsenic.122 Some traditional vaidyas claim that rasa shastra 
+enhances herbal medicinals’ therapeutic effect.123 
+ 
+Western medicine disagrees. Notable are the concerns and conclusions of two 
+studies, one in 2004 and one in 2008, led by Robert B. Saper. Both studies set out to 
+“determine the prevalence and concentration of heavy metals in Ayurvedic HMPs [herbal 
+medicine products].”124 The 2004 study looked at HMPs sold in the Boston area; the 
+2008 study, at HMPs sold on the Internet. Both studies’ conclusions were similar. “One-
+fifth of … Ayurvedic medicines purchased … contain detectable125/potentially harmful 
+levels of126 lead, mercury, or arsenic.” In 2012, the CDC issued a related report about six 
+cases of lead poisoning in New York City.127 Six pregnant women had ingested toxic 
+ 
+122. Technically, arsenic is a metalloid. 
+ 
+123. Parasuraman, Thing, and Dhanaraj, “Polyherbal Formulation.” 
+ 
+124. Robert B. Saper et al., “Heavy Metal Content of Ayurvedic Herbal Medicine 
+Products,” JAMA 292, no. 23 (2004): 2868–73, doi:10.1001/jama.292.23.2868. 
+ 
+125. Robert B. Saper et al., “Lead, Mercury, and Arsenic in US- and Indian-
+Manufactured Ayurvedic Medicines Sold via the Internet,” JAMA 300, no. 8 (2008): 
+915–23, doi:10.1001/jama.300.8.915. 
+ 
+126. Saper et al., “Heavy Metal Content.” 
+ 
+127. “Lead Poisoning in Pregnant Women Who Used Ayurvedic Medications 
+from India — New York City, 2011–2012,” Morbidity and Mortality Weekly Report 61, 
+no. 33 (August 24, 2012): 641–46, 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6133a1.htm. 
+ 
+
+
+61 
+levels of the metal in rasa shastra medicines. Such findings have caused many physicians 
+and officials grave unease about Ayurvedic preparations. 
+ 
+Ayurveda’s responses to concerns about heavy-metal toxicity appear to be 
+mixed.128 It appears that the responses tend to fall along the traditional–modern divide. 
+Some modern Ayurvedists raise the same alarm as Western physicians and health 
+officials. Others see the issue from a more traditional Ayurvedic perspective. Traditional 
+Ayurvedists have concerns about some rasa shastra preparations, too. Their complaints 
+are not about the use of metals in Ayurvedic medicinals per se. They point out that some 
+medicines are designed to include metallic ingredients. Instead, they question why the 
+metals remained toxic after the rasa shastra process. Some of these Ayurvedists attribute 
+residual heavy-metal toxicity to improper production.129 Others attribute it to 
+environmental contamination of botanical (or other) ingredients. 
+Rasa shastra medicines should be safe and effective, traditional Ayurvedists 
+maintain.130 They must be prepared correctly and administered properly, though.131 Rasa 
+ 
+128. An interesting question is whether AYUSH—and, thus, the Indian 
+government—approves the use of rasa shastra preparations. 
+ 
+129. Parasuraman, Thing, and Dhanaraj, “Polyherbal Formulation.” 
+ 
+130. Ayurveda: Art of Being, YouTube, accessed March 18, 2020, 
+https://youtu.be/VgJJlceH-vA. At the 34-min. and 55-min. marks, Brahmanand Swamigal 
+explains the shodhana process and provides a demonstration. 
+ 
+131. Janmejaya Samal, “Can the Recent Public Notice by the Ministry of 
+Ayurveda, Yoga and Naturopathy, Unani, Siddha and Homoeopathy Be Helpful in 
+ 
+
+
+62 
+shastra preparations undergo a blending process called shodhana. This process involves 
+blending, heating, cooling, and pulverizing. Shodhana, according to classical Ayurveda, 
+purifies, potentiates, and detoxifies ingredients. Ancient vaidyas discovered curious 
+chemistries when combining various botanicals with certain metals. According to 
+classical texts and Ayurvedic custom, the metals activate the botanicals. The botanicals, 
+in turn, buffer the metals, rendering them no longer harmful. 
+ 
+Traditional Ayurvedists are not clear about how rasa shastra preparations enhance 
+therapeutic effect. In what way do metals augment beneficial phytochemical activity? 
+Nor are traditional Ayurvedists clear about shodhana’s mechanism of action. How 
+exactly do chemicals in some plants detoxify chemicals in some metals? If some plants 
+can detoxify some metals, why do the plants not render the metals altogether inert? A 
+typical Western critic might counter that shodhana cannot detoxify heavy metals. The 
+suggestion that it can is (pseudoscientific) alchemy by another name. The criticism is 
+understandable. 
+Still, the traditional Ayurvedist’s claims about shodhana have a prima facie 
+plausibility. Neurologist Bala Manyam explains. “Ayurvedic drugs have been taken for 
+thousands of years, mostly in India, and if the lead in [these medicines] was poisonous, 
+ 
+Combating the Irrational Use of Herbal Drugs?” Journal of Family Medicine and 
+Primary Care 5, no. 3 (2016): 732–33, doi:10.4103/2249-4863.197286. 
+ 
+
+
+63 
+we should have an epidemic of lead poisoning. But we never had anything like that.”132 
+Millions of Indians have taken rasa shastra medicines for millennia. If they are essentially 
+poisonous, then India should have experienced a metal-toxicity epidemic. India has not; 
+therefore, rasa shastra medicines are not essentially poisonous. 
+Manyam makes a valid modus-tollens argument, though it is sound only if its 
+premises are true. His argument is sound, that is, only if no metal-toxicity epidemic has 
+ever existed in India. Manyam’s premise has prima facie plausibility. It is possible that 
+India has suffered many an epidemic of heavy-metal poisoning. One wonders, though, 
+where the evidence of such epidemics is. Surely, there should be plenty after millennia of 
+rasa shastra use, but this does not appear to be the case. Critics may dismiss Manyam’s 
+view, but they will need to answer his implied question. Why do only a relative few 
+develop heavy-metal poisoning from rasa shastra medicines? The answer may be that 
+shodhana is not alchemy, but a chemistry not yet understood. 
+The clinical practice of today’s APs is like that of Western physicians.133 Vaidyas 
+diagnose patients based on self-reports and presenting symptoms. They weigh their 
+ 
+132. Bala Manyam, qtd. in Lallanilla, “Ayurveda.” 
+ 
+133. Kishor Patwardhan et al., “The Ayurveda Education in India: How Well Are 
+the Graduates Exposed to Basic Clinical Skills?” Evidence-Based Complementary and 
+Alternative Medicine (2011): 1–6, doi:10.1093/ecam/nep113. According to Patwardhan et 
+al., the AP described here is unlike some graduates of Ayurveda programs. They lack 
+basic knowledge and skills, both in biomedicine and in Ayurveda. Their lack of 
+preparation risks both Ayurveda’s integrity and patients’ health. 
+ 
+
+
+64 
+knowledge of how a patient’s body should function against how it is functioning. They 
+assess observed and reported empirical evidence and draw a diagnostic conclusion. They 
+prescribe a remedy that has a well-demonstrated therapeutic effect. Unlike some Western 
+physicians, though, APs advise patients on how not to be patients. They counsel them on 
+lifestyle choices that will help balance their psycho-physical constitutions. The vaidya’s 
+aim, says Ayurveda, is not so much to treat disease as it is to heal persons.134 
+ 
+METHODS: RESEARCH & REVIEW 
+ 
+ 
+Randomized, double-blind, placebo-controlled studies (RCTs) are the gold 
+standard in biomedicine.135 RCTs test drugs, validate therapies, and provide parameters 
+for future, more targeted testing. In a basic RCT format, a cohort of test subjects is sorted 
+at random into two groups. Everyone in Group 1 receives the target treatment; everyone 
+in Group 2, a placebo. Researchers do not know which group receives what, nor do test 
+participants. A successful RCT is one that shows significant therapeutic benefit to those 
+in Group 1. Those in the target group, that is, need to have benefitted more than those in 
+ 
+134. Ramnunan. 
+ 
+135. Eduardo Hariton and Joseph J. Locascio, “Randomised Controlled Trials - 
+The Gold Standard for Effectiveness Research,” BJOG: An International Journal of 
+Obstetrics & Gynaecology 125, no. 13 (2018): 1716, doi:10.1111/1471-0528.15199. 
+ 
+
+
+65 
+the placebo group. RCTs standardize medical testing to reduce both experimental error 
+and researcher/participant bias. 
+Randomized control trials present challenges for Ayurveda’s holistic, prakriti-
+tailored treatment approach.136 They are also contrary to a core Ayurvedic principle. 
+Ayurveda tailors its treatment protocols to the individual’s psycho-physical constitution. 
+Ayurvedic practitioners and academics alike see this as a system strength.137 Rarely does 
+any symptom, condition, or disease present in every person the same way. Rarely does 
+any drug or surgery have identical effects on all who receive them. Ayurveda recognizes 
+the medical significance of individuals’ anatomical, physical, and psychological 
+differences. 
+Western physicians do, too, but biomedical testing methods often belie that 
+recognition. The RCT’s methods are standardized, but its human test subjects are not. 
+Even those who defend the RCT as biomedicine’s gold standard admit this deficiency. 
+Eduardo Hariton and Joseph J. Locascio are examples. In an article defending the RCT, 
+they call attention to three of its “drawbacks.”138 They are costly and are often not 
+ 
+136. Holistic is used in a technical sense. Holistic systems of medicine are 
+“characterized by the treatment of the whole person, taking into account mental and 
+social factors, rather than just the symptoms of a disease” (NOAD). 
+ 
+137. Chandra, “Ayurvedic Research.” 
+ 
+138. Hariton and Locascio, “Randomised Controlled Trials.” 
+ 
+
+
+66 
+followed up. RCTs also have “problems with generalisabilty.”139 The authors clarify this 
+point, writing that those “that volunteer to participate might not be representative of the 
+population being studied.”140 Test members may not be the sort of subject the trial 
+intends to study. This is problematic, because an RCT purposes to study the effects of X 
+on population Y. 
+The drawbacks Hariton and Locascio mention are not the RCT’s only 
+complications. Another is that researchers cannot count on the consistency of cohorts 
+across RCTs. This is true even when the cohorts are representative of the studied 
+population. An RCT’s success depends upon predictable responses in a target population. 
+Different cohorts for different RCT phases, though, may be more homogeneous or less 
+so. Their basic demographics, medical histories, and treatment responsiveness will not be 
+identical. This sort of variability introduces a confounding element not easily 
+compensated for. RCTs may speak of “populations” and “cohorts,” but all groups are 
+made up of individual persons. What is true of a whole will not always be true of its 
+parts. 
+ 
+Still, many Ayurvedists see value in substantiating Ayurvedic claims using 
+modern methods. Many appreciate the rhetorical persuasiveness that biomedical 
+validation would provide. If modern methods can show Ayurveda’s effectiveness, then its 
+ 
+139. Hariton and Locascio, “Randomised Controlled Trials.” 
+ 
+140. Hariton and Locascio, “Randomised Controlled Trials.” 
+
+
+67 
+influence will grow. Conventional medicine will begin to take its diagnostics, 
+therapeutics, and research seriously. It will have a greater impact on global healthcare by 
+supplementing conventional options. RCTs present an exceptional challenge for 
+Ayurveda, though. They presuppose and require standardization; Ayurveda, 
+individualization. This does not imply that RCTs are of no potential benefit to Ayurveda. 
+Nor does it imply that Ayurvedist researchers cannot devise a satisfactory 
+alternative. Former Indian-national public health minister Shailaja Chandra has suggested 
+two alternatives.141 The first focuses on numerous careful case studies. Invite volunteer 
+patients at allopathic hospitals to receive Ayurvedic treatment at government expense.142 
+Patients would be sufferers of common conditions, such as arthritis, hypertension, and 
+IBS. APs could treat them as they saw fit, and biomedical researchers could review 
+results. They would assess relevant health parameters from before, during, and after 
+treatment. Reviewers would use whatever diagnostic and laboratory tools needed to 
+render an evaluation. 
+ 
+141. Chandra, “Ayurvedic Research.” 
+ 
+142. In India, conventional Western medicine is often referred to as “allopathic” 
+medicine. The term derives from one of biomedicine’s foundational principles. Treat 
+illness with its cause’s opposite (from Greek allos, “other”). Chandra recommends that 
+these RCT alternatives be conducted at government expense. This recommendation owes 
+to at least three considerations. One, the government has an interest in validating what is 
+in its people’s best medical interest. Two, research studies are expensive; government 
+funding removes the financial burden. Three, patients are not likely to volunteer for a 
+study at their own expense. 
+ 
+
+
+68 
+Chandra’s second suggestion of RCT alternative focuses on reviews of clinical 
+cases. She estimates that key Ayurvedic hospitals hold tens of thousands of patient 
+records. Certain medical conditions presenting and treated could be targeted for 
+retrospective analysis. Studies could target those treated for the amelioration of 
+tuberculosis, for example. Relevant pre- and post-treatment data could be gathered and 
+input into analytical software. The software could show which treatments appeared to 
+provide significant improvement.143 Treatment data would prove valuable for use in 
+reverse pharmacology, as well. Chandra’s suggestions of RCT alternatives may not 
+satisfy all Western researchers. Still, they demonstrate the possibility of using modern 
+methods to validate Ayurveda. As important, they show that objective validation need not 
+violate core Ayurvedic principles. 
+ 
+Advocates are eager to test Ayurveda because they believe in its benefits. They 
+want to share its insights with wider audiences, too, popular and medical-scientific. 
+Distinguished Ayurvedist educator Ram Harsh Singh sees great promise in recent 
+research efforts. “The demand for new scientific evidence for the efficacy, safety, and 
+quality of [Ayurvedic] medications is gaining momentum. Such a demand has motivated 
+a large number of investigators to launch ambitious research and development activities. 
+ 
+143. “Significant improvement” does not imply “better than conventional 
+approaches.” This phrase means only that patients were medically better off (relative to 
+the target condition) upon discharge. 
+
+
+69 
+This is definitely a welcome development.”144 Singh mentions efforts to validate 
+Ayurvedic medicines. Ayurveda’s remedies are not limited to its pharmacopeia, though. 
+Substantiating Ayurveda’s broader claims will need to include treatments such as 
+panchakarma. 
+One important component of biomedical validation is critical review. Ayurvedic 
+research needs expert scrutiny from those within the system and outside it. Practitioners 
+need to share their studies with other trained APs. They need to dialogue with 
+conventional physicians and biochemical scientists, as well. One common (some say 
+crucial) means of critical examination is the peer-reviewed journal. Rigorous, reputable 
+journals allow researchers and practitioners to share their hypotheses and findings. They 
+also invite the careful analysis, and disagreement, of other experts. Many Ayurvedists 
+have only begun to see the value of such constructive-critical communities. 
+When Ayurvedists do publish robust articles, they tend to appear in Ayurvedic 
+journals.145 These articles rarely enter into conversation with those outside the Ayurvedic 
+community. Ayurveda educator Kishor Patwardhan and his team value the rigors of peer-
+reviewed journals. They also observe that Ayurvedic journals have not yet reached their 
+academic-scientific potential. This is due in part to a deficit in Ayurvedic education. 
+ 
+144. Ramharsh Singh, “Exploring Larger Evidence-Base for Contemporary 
+Ayurveda,” International Journal of Ayurveda Research 1, no. 2 (2010): 65, 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2924985/. 
+ 
+145. Within India, this means that they tend to appear in AYUSH-related journals. 
+ 
+
+
+70 
+Future APs need training in anatomy and physiology, diagnostics and therapeutics. They 
+also need “frequent training programs on research methodology and scientific writing 
+skills.”146 To be successful in a peer-reviewed community, researchers’ methods must be 
+sound. Their writing must be skillful. Until these are the norm in Ayurveda, its critical 
+review will not be as fruitful or respected as it desires. 
+ 
+Some seek to disqualify modern Ayurveda as a science on methodological 
+grounds. It is difficult to see the strength of that case, though. Modern Ayurvedic 
+methods display the characteristics of many a scientific community. It bases its 
+diagnostics and therapeutics on empirical evidence and sound reasoning.147 It uses logical 
+tools common to modern sciences: induction, abduction, and hypothetico-deduction. It 
+values the testing of hypotheses and the validating of results by modern means. 
+Granted, Ayurveda does not fit well within the testing confines of biomedicine’s 
+RCTs. Its peer review is largely internal, too. It lacks the rigorous scrutiny of medical-
+scientific outsiders. These concerns are valid, but they do not warrant the dismissal of 
+Ayurveda as a genuine science. Ayurveda’s deficits in biomedical validation and review 
+do not stem from resistance. They stem from an old-world science attempting to align 
+itself with the modern world. Ayurveda considers itself a genuine science and a 
+ 
+146. Kishor Patwardhan et al., “Peer Reviewed Journals of Ayurveda - An 
+Appraisal,” Journal of Research and Education in Indian Medicine 20, no. 3-4 (2014): 
+148, doi:10.5455/jreim.82-1434000477. 
+ 
+147. Singh, “Exploring Larger Evidence-Base,” 66. 
+
+
+71 
+biomedical complement. As a community, it looks for ways to demonstrate the rationale 
+for its beliefs. Modern Ayurveda invites the efforts of both the verificationist and the 
+falsificationist. Their attempts to disprove Ayurveda show the Ayurvedic community 
+what needs scientific reinforcement. These behaviors would be unusual for a 
+pseudoscience. 
+ 
+RESEARCH CAVEATS & CONCESSIONS 
+ 
+ 
+Researching Ayurveda for this paper was like tiptoeing around the ocean. Then 
+falling in. The topic is vast, stretching beyond where newcomers’ eyes can see. 
+Ayurveda’s contours cover history, religion, philosophy, language, society, economics, 
+and … medicine. Each one of these areas is in turn its own deep sea. Beneath the surface 
+of Ayurvedic philosophy bubble ancient Hindu schools of thought. Beneath the simplicity 
+of Ayurvedic terms swirl millennia of Sanskrit scholarship. Beneath the clear waters of 
+anti-inflammatories churn the opacities of Ayurgenomics. Ayurveda is a worthy topic for 
+a beachcomber’s research. The researcher should be warned, however, that its depths are 
+deceiving from the shore. 
+ 
+Deceiving views of one’s topic are not uncommon in research. Deceiving views 
+are unintentional, but they are no less distorted. Often, these distorted views owe to 
+various cognitive biases. Cognitive biases are unintentional, usually unexpected 
+malfunctions in our thinking. FUTON—“full text on the Net”— is one. Unfunded 
+
+
+72 
+researchers do not wish to pay to read this journal article when that one is free. Another 
+common distortion is the “not invented here” bias. This clouded view of research affects 
+the sources a researcher uses. A source may have an aversion to an idea merely because it 
+came from a different community. A third common distortion is the confirmation bias. 
+Research aims to be as objective as possible. Sometimes, though, researchers read 
+research in the way they want it to be read. Cognitive biases are avoidable, but rarely 
+entirely so. Doubtless, I have fallen prey at times to all three, so I ask the reader’s 
+understanding. The distortions were unintentional. 
+ 
+The decision to omit a discussion of the placebo effect was not. Some critics 
+maintain that Ayurveda is an ineffectual medical pseudoscience. It does no one any good. 
+Other critics recognize that Ayurveda has worked for millions of people. These critics do 
+not attribute its success to science, however. They attribute any therapeutic benefit from 
+Ayurveda to the placebo effect. The turmeric worked, they would insist, because the 
+patient believed it would. Western medicine has long disparaged the placebo effect, 
+which is puzzling. If biomedicine’s aim is to heal patients, then it should applaud and 
+marvel at it.148 What is not to like about an inert X that brings people relief from their 
+suffering? An interesting topic, the placebo effect is tangential to this paper’s 
+ 
+148. Dominik Wujastyk, “Medical Error and Medical Truth: The Placebo Effect 
+and Room for Choice in Ayurveda,” Health, Culture and Society 1, no. 1 (2011): 221–31, 
+doi:10.5195/hcs.2011.14. Wujastyk points out the therapeutic—and, thus, medical—
+value of the placebo effect. “The fact is, patients get well for many reasons, only some of 
+them connected with the therapies administered by doctors” (224). 
+
+
+73 
+investigation. The question being considered is not whether Ayurveda works for people 
+and if so, how. The question is whether Ayurveda is a genuine science. 
+ 
+The evaluation that follows this section will provide an answer to that 
+question. The answer can be only provisional, though. This paper’s exploration of 
+Ayurveda has been a mere introduction. That is, the conclusion this paper reaches reflects 
+the limited scope of its research. Important questions for future exploration include at 
+least these two. First, what are the doshas? What is their biological basis? What accounts 
+for some studies’ abilities to predict doshic types? Second, what protocol can be 
+developed to validate APs’ diagnostics and therapeutics? If a given therapeutic success 
+does not owe to the placebo effect, what accounts for it? What is the successful 
+treatment’s mechanism of action? Ayurveda is an ocean. Exploring its breadth and depth 
+will take teams of researchers years. This researcher hopes only to have made a partial 
+map of its seas. 
+ 
+CONCLUSION 
+ 
+This paper has sought to defend the claim that Ayurveda is neither superstition 
+nor sham. More than a traditional system of medicine, it is a genuine medical science. 
+Some critics will remain unconvinced. They will argue that a strong enough case has not 
+been made. The claim has not been scientifically proven with irrefutable empirical 
+evidence. These critics, though, may need a reminder of where the discussion began. 
+
+
+74 
+Distinguishing science from pseudoscience is an elusive endeavor. The effort has taxed 
+some of the best minds in philosophy and science. Various thinkers have offered 
+solutions that other thinkers have rejected. One of the rejected solutions is the critic’s 
+verificationism. 
+Martin Mahner provides the demarcation disagreement a reasonable compromise. 
+He has suggested that science be thought of as a cluster concept of connected attributes. 
+The more of them a given claim, field, or community possesses, the more likely it is to be 
+scientific. The attributes he suggests can be inferred from his list of foundational 
+questions. Most of Mahner’s questions target epistemic warrant and empirical methods. It 
+seems unlikely that philosophers or scientists would object to any of them. It seems as 
+unlikely that any would object to his questions’ implied answers. His questions are 
+repeated here for convenience. 
+ 
+Do they form a research community, or are they just a loose collection of 
+individuals doing their own thing? Is there an extensive mutual exchange 
+of information, or is there just an authority figure passing on his doctrines 
+to his followers? Is the given group of people free to research and publish 
+whatever they want, or are they censored by the reigning ideology of the 
+society they live in . . . ? Does the domain of study consist of concrete 
+objects, or does it contain fuzzy “energies” or “vibrations,” if not ghosts or 
+other spiritual entities? What are the philosophical background 
+assumptions of the given field? Does its ontology presuppose a natural, 
+causal, and lawful world only, or does it also admit supernatural entities or 
+events? . . . Does it accept the canons of valid and rational reasoning? Do 
+the principles of noncircularity and noncontradiction matter? Does it admit 
+fallibilism or endorse dogmatism? Occam’s razor or unfettered 
+speculation? How important are testability and criticism? How important 
+is evidential support? Can the reliability of its methods or techniques be 
+
+
+75 
+independently tested? Do the theories have genuine explanatory or 
+predictive power, or both? Are the theories fruitful? Are the data 
+reproducible? Are there mechanisms of error elimination? Are its claims 
+compatible with well-established knowledge, in particular law statements? 
+Does the field borrow knowledge and methods from adjacent fields? Does 
+it in turn inform and enrich neighboring fields, or is it isolated? Do the 
+problems tackled in the field spring naturally from research or theory 
+construction, or are the problems pulled out of a hat? Is the corpus of 
+knowledge of the given field up to date and well confirmed, or is it 
+obsolete, if not anachronistic? Is it growing or stagnating?149 
+ 
+The questions are repeated here for the critics’ review and reflection, as well. 
+Mahner pointed each one toward the answer most genuine sciences would provide. He 
+also pointed them, unintentionally, toward how modern Ayurveda aims to answer them. 
+Modern Ayurvedists value and require empirical evidence in support of medical claims. 
+They embrace and employ the hypothesis testing of the scientific method. They 
+understand the need to validate medical claims through experimentation and critical 
+review. They seek to benefit and be benefited by rigorous interaction with conventional 
+biomedicine. Their use of reason’s different modes of logic mirrors Western approaches. 
+Modern Ayurveda provides the “right” answer for most of Mahner’s questions. A couple 
+will take more time, though. As Ayurveda matures, it needs to grow in the areas of peer 
+review and experimental validation. This growth will come as Ayurveda and biomedicine 
+deepen their dialogue. 
+ 
+149. Mahner, “Science and Pseudoscience,” 752–77 (Kindle edition). 
+
+
+76 
+The cluster-concept approach to describing science cannot provide demarcation 
+certainty. It cannot define what always and everywhere constitutes a genuine science. It 
+can, though, provide an indication of whether a given field is likely to be a member of 
+science’s family. The curious might ask how many family characteristics a genuine 
+science needs. This is a good question, but a debatable one. Its details are best left to 
+philosophers and historians of science. For present purposes, it is safe to say that a 
+genuine science should possess most of the family’s features. 
+Current literature shows that modern Ayurveda meets that criterion. Ayurveda’s 
+modern expression shows a reasonable number of family-resemblance characteristics. 
+This researcher finds that its chief deficits lie only in the two areas mentioned above. 
+These areas, modern Ayurvedists see both as needs and as opportunities for growth. 
+Ayurveda may not possess all the same modern scientific characteristics as biomedicine. 
+It does not answer all of Mahner’s questions in exactly the same way as conventional 
+medicine. Still, Ayurveda answers enough of them the “right” way. The platypus does not 
+give birth to live young; still, it is a mammal. 
+Born in the mists of antiquity, Ayurveda is an ancient healing art. Long before 
+Hippocrates said, “First, do no harm,” it was promoting health and happiness. More than 
+a medical tradition, though, Ayurveda is a genuine medical science. It is a viable, and 
+justifiable, complement to modern Western medicine. It is coming of age in the modern 
+world. Ayurveda values the well-being of individuals, not merely the treating of their 
+diseases. It seeks to keep them healthy, to keep their psycho-physical constitutions in 
+
+
+77 
+balance. To millions around the world, Ayurveda is a respected system of medical 
+practice. It has become part of their and their families’ health and wellness. To an 
+increasing number, even in the modern West, Ayurveda is becoming a science of life. 
+
+
+78 
+Bibliography 
+ 
+ 
+Ara, Syeda Arshiya, Jayashree A. Mudda, Ashok Lingappa, and Purushottam Rao. 
+“Research on Curcumin: A Meta-Analysis of Potentially Malignant 
+Disorders.” Journal of Cancer Research and Therapeutics 12, no. 1 (2016): 175–
+81. doi:10.4103/0973-1482.171370. 
+ 
+Ayurveda: Art of Being. YouTube. Accessed March 18, 2020. https://youtu.be/VgJJlceH-
+vA. 
+ 
+Bardehle, Peter, dir. The Secret World of Wellness: Ancient India. Langbein & Skalnik 
+Media, 2007. https://youtu.be/S6RJaZ_Drmw (part 1), 
+https://youtu.be/Ys2CfFQyclE (part 2), https://youtu.be/c3s3rqfCXgk (part 3), 
+https://youtu.be/1QYhh5bmQcE (part 4). 
+ 
+Bendix, Aria. “The US Was Once a Leader for Healthcare and Education - Now It Ranks 
+27th in the World.” Business Insider, September 27, 2018. 
+https://www.businessinsider.com/us-ranks-27th-for-healthcare-and-education-
+2018-9. 
+ 
+
+
+79 
+Bhattacharya, Jivananda Vidyasagara. Shabda-Sagara, or a Comprehensive Sanskrit-
+English Lexicon Chiefly Based on Prof. Horace Hayman Wilsons Sanskrit-
+English Dictionary (version: scan). Calcutta: Ashu Bodha Bhattacharya and 
+Nitya Bodha Bhattacharya, 1900. https://www.sanskrit-lexicon.uni-
+koeln.de/scans/SHSScan/2020/web/index.php. 
+ 
+Braun, Lesley, and Marc Cohen. Herbs & Natural Supplements: An Evidence-Based 
+Guide, vol. 2. Sydney: Churchill Livingstone, 2015. 
+ 
+Chandra, Shailaja. “Ayurvedic Research, Wellness and Consumer Rights.” Journal of 
+Ayurveda and Integrative Medicine 7 no. 1 (2016): 6–10. 
+doi:10.1016/j.jaim.2016.05.002. 
+ 
+Chaudhury, Ranjit Roy, and Uton Muchtar Rafei, ed. Traditional Medicine in Asia. New 
+Delhi: World Health Organization (1990). 
+ 
+Cohen, R. S., and L. Laudan, ed. Physics, Philosophy, and Psychoanalysis: Essays in 
+Honor of Adolf Grünbaum. Dordrecht, Holland: D. Reidel, 1983. 
+ 
+“Complementary, Alternative, or Integrative Health: What’s in a Name?” National Center 
+for Complementary and Integrative Health. April 2, 2019. 
+
+
+80 
+https://nccih.nih.gov/health/integrative-health. 
+ 
+Conboy, L. A., I. Edshteyn, and H. Garivaltis. “Ayurveda and Panchakarma: Measuring 
+the Effects of a Holistic Health Intervention.” The Scientific World Journal 9 
+(2009): 272–80. doi:10.1100/tsw.2009.35. 
+ 
+“Courses in Ayurveda.” Ministry of AYUSH | Courses in Ayurveda. Accessed April 5, 
+2020. http://ayush.gov.in/courses-ayurveda. 
+ 
+Eaton, S. Boyd, Melvin Konner, and Marjorie Shostak. “Stone Agers in the Fast Lane: 
+Chronic Degenerative Diseases in Evolutionary Perspective.” The American 
+Journal of Medicine 84, no. 4 (1988): 739–49. doi.org/10.1016/0002-
+9343(88)90113-1. 
+ 
+Epstein, David, and ProPublica. “An Epidemic of Unnecessary Treatment.” The Atlantic, 
+March 20, 2017. https://www.theatlantic.com/health/archive/2017/02/when-
+evidence-says-no-but-doctors-say-yes/517368/. 
+ 
+Frindel, Jeremy, dir. Doctor from India. New York: Kino Lorber, 2018. 
+https://www.kanopy.com/product/doctor-india. 
+ 
+
+
+81 
+Govindaraj, Periyasamy, Sheikh Nizamuddin, Anugula Sharath, Vuskamalla Jyothi, 
+Harish Rotti, Ritu Raval, Jayakrishna Nayak, et al. “Genome-Wide Analysis 
+Correlates Ayurveda Prakriti.” Nature News 5, 5786 (2015): 1–12. 
+doi:10.1038/srep15786. 
+ 
+Hankey, Alex. “Establishing the Scientific Validity of Tridosha: Part 1: Doshas, 
+Subdoshas and Dosha Prakritis.” Ancient Science of Life 29, no. 3 (2010): 6–18. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3336287/pdf/ASL-29-6.pdf. 
+ 
+Hansson, Sven Ove. “Science and Pseudo-Science.” Stanford Encyclopedia of 
+Philosophy. April 11, 2017. https://plato.stanford.edu/entries/pseudo-science/. 
+ 
+Hariton, Eduardo, and Joseph J. Locascio. “Randomised Controlled Trials - The Gold 
+Standard for Effectiveness Research.” BJOG: An International Journal of 
+Obstetrics & Gynaecology 125, no. 13 (2018): 1716. doi:10.1111/1471-
+0528.15199. 
+ 
+“Jacobellis v. Ohio.” Legal Information Institute. Accessed March 16, 2020. 
+https://www.law.cornell.edu/supremecourt/text/378/184. 
+ 
+Jaiswal, Yogini S., and Leonard L. Williams. “A Glimpse of Ayurveda – The Forgotten 
+
+
+82 
+History and Principles of Indian Traditional Medicine.” Journal of Traditional 
+and Complementary Medicine 7 no. 1 (2017): 50–53. 
+doi:10.1016/j.jtcme.2016.02.002. 
+ 
+Jogalekar, Ashutosh. “Falsification and Its Discontents.” Scientific American Blog 
+Network. January 24, 2014. https://blogs.scientificamerican.com/the-curious-
+wavefunction/falsification-and-its-discontents/. 
+ 
+“Journey of Ayurveda.” YouTube. Accessed March 17, 2020. 
+https://youtu.be/1y5VhRDM6QU. 
+ 
+Kessler, C., M. Wischnewsky, A. Michalsen, C. Eisenmann, and J. Melzer. “Ayurveda: 
+Between Religion, Spirituality, and Medicine.” Evidence-Based Complementary 
+and Alternative Medicine 2013 (2013): 1–11. 
+https://doi.org/10.1155/2013/952432. 
+ 
+Krauss, Lawrence M. “Trump’s Anti-Science Campaign.” The New Yorker (June 19, 
+2017). https://www.newyorker.com/news/news-desk/trumps-anti-science-
+campaign. 
+ 
+Krishna, Kumar P. R. “The Efficacy of Ayurvedic Treatment for Rheumatoid Arthritis: 
+
+
+83 
+Cross-Sectional Experiential Profile of a Longitudinal Study.” International 
+Journal of Ayurveda Research 2, no. 1 (2011): 8–13. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3157120/. 
+ 
+Kumar, V. Sajeev. “Europe Fast Embracing Ayurveda alongside Modern Medicine.” The 
+Hindu BusinessLine, January 12, 2018. 
+https://www.thehindubusinessline.com/news/variety/europe-fast-embracing-
+ayurveda-alongside-modern-medicine/article9481575.ece. 
+ 
+Kurup, P. N. V. “Ayurveda.” In Traditional Medicine in Asia, edited by Ranjit Roy 
+Chaudhury and Uton Muchtar, 3–16. New Delhi: World Health Organization, 
+1990. 
+ 
+Lad, Vasant. “Ayurveda: A Brief Introduction and Guide.” The Ayurvedic Institute 
+(Accessed March 17, 2020). https://www.ayurveda.com/pdf/intro_ayurveda.pdf. 
+ 
+Lallanilla, Marc. “Ayurveda: Facts About Ayurvedic Medicine.” LiveScience (January 7, 
+2015). http://www.livescience.com/42153-ayurveda.html. 
+ 
+Laudan, L. “The Demise of the Demarcation Problem.” In Physics, Philosophy and 
+Psychoanalysis: Essays in Honor of Adolf Grünbaum (Vol. 76 of Boston Studies 
+
+
+84 
+in the Philosophy of Science): 111–27. Edited by R. S. Cohen and L. Laudan. 
+Boston: D. Reidel, 1983. 
+ 
+“Lead Poisoning in Pregnant Women Who Used Ayurvedic Medications from India — 
+New York City, 2011–2012.” Morbidity and Mortality Weekly Report 61, no. 33 
+(August 24, 2012): 641–46. 
+https://www.cdc.gov/mmwr/preview/mmwrhtml/mm6133a1.htm. 
+ 
+Lele, R. D. “Beyond Reverse Pharmacology: Mechanism-Based Screening of Ayurvedic 
+Drugs.” Journal of Ayurveda and Integrative Medicine 1, no. 4 (2010): 257–65. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3117317/. 
+ 
+Lombrozo, Tania. “What Is Pseudoscience?” NPR. May 8, 2017. 
+https://www.npr.org/sections/13.7/2017/05/08/527354190/what-is-
+pseudoscience. 
+ 
+Mahner, Martin. “Science and Pseudoscience: How to Demarcate after the (Alleged) 
+Demise of the Demarcation Problem.” In Philosophy of Pseudoscience, edited by 
+Massimo Pigliucci and Maarten Boudry, 565–885 (Kindle edition). Chicago: 
+University of Chicago Press, 2013. 
+ 
+
+
+85 
+McLaughlin, Jacqueline. “A Gentle Reminder That a Hypothesis Is Never Proven 
+Correct, nor Is a Theory Ever Proven to Be True.” Books & Resources: NSTA 
+WebNews Digest, August 14, 2006. 
+https://www.nsta.org/publications/news/story.aspx?id=52402. 
+ 
+Miller, Henry I. “Scientifically Illiterate America.” Hoover Institution (November 29, 
+2017). https://www.hoover.org/research/scientifically-illiterate-america. 
+ 
+Mobasheri, Ali. “Intersection of Inflammation and Herbal Medicine in the Treatment of 
+Osteoarthritis.” Current Rheumatology Reports 14 (2012): 604–16. 
+doi:10.1007/s11926-012-0288-9. 
+ 
+Nayak, Jayakrishna. “Ayurveda Research: Ontological Challenges.” Journal of Ayurveda 
+and Integrative Medicine 3, no. 1 (January 2012): 17–20. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3326789/pdf/JAIM-3-17.pdf. 
+ 
+Nelson, Kathryn M., Jayme L. Dahlin, Jonathan Bisson, James Graham, Guido F. Pauli, 
+and Michael A. Walters. “The Essential Medicinal Chemistry of 
+Curcumin.” Journal of Medicinal Chemistry 60, no. 5 (2017): 1620–37. 
+doi:10.1021/acs.jmedchem.6b00975. 
+ 
+
+
+86 
+Nickles, Thomas. “History and Future.” In Philosophy of Pseudoscience: Reconsidering 
+the Demarcation Problem, edited by Massimo Pigliucci and Maarten Boudry, 
+1928–2353 (Kindle edition). Chicago: University of Chicago Press, 2013. 
+ 
+Papineau, David. “Naturalism.” Stanford Encyclopedia of Philosophy (September 15, 
+2015). https://plato.stanford.edu/entries/naturalism/. 
+ 
+Parasuraman, Subramani, Gan Siaw Thing, and Sokkalingam Arumugam Dhanaraj. 
+“Polyherbal Formulation: Concept of Ayurveda.” Pharmacognosy Reviews 8, 
+no. 16 (2014): 73–80. doi:10.4103/0973-7847.134229. 
+ 
+Patwardhan, Bhushan. “Ayurvedic Drugs in Case: Claims, Evidence, Regulations and 
+Ethics.” Journal of Ayurveda and Integrative Medicine 7, no. 3 (2016): 135–37. 
+doi:10.1016/j.jaim.2016.08.005. 
+ 
+Patwardhan, Bhushan. “Bridging Ayurveda with Evidence-Based Scientific Approaches 
+in Medicine.” EPMA Journal 5, no. 19 (2014). doi.org/10.1186/1878-5085-5-19. 
+ 
+Patwardhan, Bhushan, and Gerard Bodeker. “Ayurvedic Genomics: Establishing a 
+Genetic Basis for Mind–Body Typologies.” The Journal of Alternative and 
+Complementary Medicine 14, no. 5 (2008): 571–76. 
+
+
+87 
+doi.org/10.1089/acm.2007.0515. 
+ 
+Patwardhan, Bhushan, and Raghunath Anant Mashelkar. “Traditional Medicine-Inspired 
+Approaches to Drug Discovery: Can Ayurveda Show the Way Forward?” Drug 
+Discovery Today 14, no. 15-16 (2009): 804–11. 
+doi:10.1016/j.drudis.2009.05.009. 
+ 
+Patwardhan, Kishor, R. Galib, Pratap Thakur, and Suresh Kumar. “Peer Reviewed 
+Journals of Ayurveda - An Appraisal.” Journal of Research and Education in 
+Indian Medicine 20, no. 3-4 (2014): 141–52. doi:10.5455/jreim.82-1434000477. 
+ 
+Patwardhan, Kishor, Sangeeta Gehlot, Girish Singh, and H. C. S. Rathore. “The 
+Ayurveda Education in India: How Well Are the Graduates Exposed to Basic 
+Clinical Skills?” Evidence-Based Complementary and Alternative Medicine 
+(2011): 1–6. doi:10.1093/ecam/nep113. 
+ 
+Payyappallimana, Unnikrishnan, and Padma Venkatasubramanian. “Exploring Ayurvedic 
+Knowledge on Food and Health for Providing Innovative Solutions to 
+Contemporary Healthcare.” Frontiers in Public Health 4, no. 57 (2016). 
+doi:10.3389/fpubh.2016.00057. 
+ 
+
+
+88 
+Prasher, Bhavana, Sapna Negi, Shilpi Aggarwal, Amit K. Mandal, Tav P. Sethi, Shailaja 
+R. Deshmukh, Sudha G. Purohit, et al. “Whole Genome Expression and 
+Biochemical Correlates of Extreme Constitutional Types Defined in 
+Ayurveda.” Journal of Translational Medicine 6, no. 48 (2008). 
+doi:10.1186/1479-5876-6-48. 
+ 
+Phillips, Stephen. “Epistemology in Classical Indian Philosophy.” Stanford Encyclopedia 
+of Philosophy. February 13, 2019. 
+https://plato.stanford.edu/entries/epistemology-india/. 
+ 
+Pigliucci, Massimo. Nonsense on Stilts: How to Tell Science from Bunk. Chicago: The 
+University of Chicago Press, 2010. 
+ 
+Pigliucci, Massimo, and Maarten Boudry, ed. Philosophy of Pseudoscience: 
+Reconsidering the Demarcation Problem. Chicago: University of Chicago Press, 
+2013. 
+ 
+Principe, Lawrence. Scientific Revolution. Oxford: Oxford University Press, 2011. 
+ 
+“Q&A with Ayurvedic Lifestyle Mentor, Justin Robertshaw.” Mala Love (January 24, 
+2017). https://www.lovemalalove.com/questions-answer-with-justin/. 
+
+
+89 
+ 
+Ramnunan, Nishal. Personal interview. 8 Dec. 2018. 
+ 
+Rotti, Harish, Ritu Raval, Suchitra Anchan, Ravishankara Bellampalli, Sameer Bhale, 
+Ramachandra Bharadwaj, Balakrishna K. Bhat, et al. “Determinants of Prakriti, 
+the Human Constitution Types of Indian Traditional Medicine and Its Correlation 
+with Contemporary Science.” Journal of Ayurveda and Integrative Medicine 5 
+no. 3 (2014): 167–75. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4204287/pdf/JAIM-5-167.pdf. 
+ 
+Rotti, Harish, Sandeep Mallya, Shama Prasada Kabekkodu, Sanjiban Chakrabarty, 
+Sameer Bhale, Ramachandra Bharadwaj, Balakrishna K. Bhat, et al. “DNA 
+Methylation Analysis of Phenotype Specific Stratified Indian Population.” 
+Journal of Translational Medicine 13 no. 151 (2015): 1–12. doi:10.1186/s12967-
+015-0506-0. 
+ 
+Ruzsa, Ferenc. “Sankhya.” Internet Encyclopedia of Philosophy. Accessed March 17, 
+2020. https://www.iep.utm.edu/sankhya/. 
+ 
+Samal, Janmejaya. “Can the Recent Public Notice by the Ministry of Ayurveda, Yoga 
+and Naturopathy, Unani, Siddha and Homoeopathy Be Helpful in Combating the 
+
+
+90 
+Irrational Use of Herbal Drugs?” Journal of Family Medicine and Primary Care 
+5, no. 3 (2016): 732–33. doi:10.4103/2249-4863.197286. 
+ 
+Samy, Ramar Perumal, Peter Natesan Pushparaj, and Ponnampalam Gopalakrishnakone. 
+“A Compilation of Bioactive Compounds from Ayurveda.” Bioinformation 3, 
+no. 3 (2008): 100–10. doi:10.6026/97320630003100. 
+ 
+Saper, Robert B., Stefanos N. Kales, Janet Paquin, Michael J. Burns, David M. 
+Eisenberg, Roger B. Davis, and Russell S. Phillips. “Heavy Metal Content of 
+Ayurvedic Herbal Medicine Products.” JAMA 292, no. 23 (2004): 2868–73. 
+doi:10.1001/jama.292.23.2868. 
+ 
+Saper, Robert B., Russell S. Phillips, Anusha Sehgal, Nadia Khouri, Roger B. Davis, 
+Janet Paquin, Venkatesh Thuppil, and Stefanos N. Kales. “Lead, Mercury, and 
+Arsenic in US- and Indian-Manufactured Ayurvedic Medicines Sold via the 
+Internet.” JAMA 300, no. 8 (2008): 915–23. doi:10.1001/jama.300.8.915. 
+ 
+Sherman, Erik. “U.S. Health Care Costs Skyrocketed to $3.65 Trillion in 2018.” Fortune, 
+February 21, 2019. https://fortune.com/2019/02/21/us-health-care-costs-2/. 
+ 
+Shermer, Michael. “What Is Pseudoscience?” Scientific American, September 1, 2011. 
+
+
+91 
+https://www.scientificamerican.com/article/what-is-pseudoscience/. 
+ 
+Sinclair, Jennifer, Beverley Lawson, and Fred Burge. “Which Patients Receive Advice on 
+Diet and Exercise? Do Certain Characteristics Affect Whether They Receive 
+Such Advice?” Canadian Family Physician • Le Médecin de Famille Canadien 
+54 (2008): 404–12. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2278358/pdf/0540404.pdf. 
+ 
+Singh, Ramharsh. “Exploring Larger Evidence-Base for Contemporary 
+Ayurveda.” International Journal of Ayurveda Research 1, no. 2 (2010): 65–66. 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2924985/. 
+ 
+Sreenivasan, Shoba, and Linda E. Weinberger. “Do You Believe in Miracles?” 
+Psychology Today (December 15, 2017). 
+https://www.psychologytoday.com/us/blog/emotional-nourishment/201712/do-
+you-believe-in-miracles. 
+ 
+Stevenson, Angus, and Christine A. Lindeberg. The New Oxford American Dictionary: 
+Third Edition. New York: Oxford University Press, 2010. 
+ 
+Warrier, Gopi. Ayurveda: The Right Way to Live. London: Carlton, 2002. 
+
+
+92 
+ 
+Wiley, Andrea S., and John S. Allen. Medical Anthropology: A Biocultural Approach. 
+New York, NY: Oxford University Press, 2017. 
+ 
+Wujastyk, Dominik. “Medical Error and Medical Truth: The Placebo Effect and Room 
+for Choice in Ayurveda.” Health, Culture and Society 1, no. 1 (2011): 221–31. 
+doi:10.5195/hcs.2011.14. 

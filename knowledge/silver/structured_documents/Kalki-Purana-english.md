@@ -1,0 +1,4510 @@
+# Kalki-Purana-english
+
+**Document ID:** DOC-7F0FF99B5230
+**Language:** english (latin)
+**Pages:** 374
+**Class:** ocr_overlay
+**SHA256:** `7f0ff99b52306e8b2d80d106910bcabc8dd3645dc0b891f429b3ce1d5863becf`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 2
+
+ACKNOWLEDGEMENTS
+
+It is with great satisfaction that I present this English
+edition of Sri Kalki Purana, which was compiled by Srila
+Vyasadeva for the pleasure of the devotees. I pray that this
+presentation will be accepted as a sincere attempt to glorify Lord
+Kalki, the incarnation of Godhead. My Godbrother, Laxman Das,
+inspired me to undertake this translation of Sri Kalki Purana and
+so I first wish to thank him. He has also paid the total amount
+required for the publication of this book. Without his assistance,
+this book would not have been possible to publish. I also wish
+to thank Purnaprajfia Prabhu for editing and proofreading
+this book, Kurma Ripa Prabhu for doing the layout and cover
+design, and Anjana Dasa for painting the cover illustration. I
+also wish to thank my wife, Caitanya Devi Dasi, and son, Bhakti
+Siddhanta Das, for typing the manuscript into the computer. I
+thank Giridhari Das for typing the roman transliteration of the
+
+verses.
+
+Bhumipati Dasa
+Completed on the disappearance day of Srila
+Bhaktisiddhanta Sarasvati Thakura 8/12/2006
+
+## Page 3
+
+CONTENTS
+
+Introduction vii
+
+CHAPTERS
+
+1. A Description of Kali-Yuga..i..ccceccesesssesessesssessesnesnesseecssneentenseeneeseeens 1
+2. The Birth and Sacred Thread Ceremony of Lord Kalki... 14
+3. Lord Kalki Receives Benedictions From Siva and Parvati... 27
+4. Padmavati Receives a Benediction From Lord Siva....sssssssssesseees 40
+5. Padmavati’s Svayamvara...cccseccesssssssssecsesseseeecseeseesnsnecrescseeateacenseneeneeseaee 52
+6. Suka Goes To Sithhala as the Envoy of Lord Kalki
+Conversation Between Padmavati And Suka....csssssssssssussesssseecssssen 60
+7. The Procedure for Worshiping Lord Visnu......c.ccsesceeseseeeeeneseeeee 70
+8. Conversation Between Padmavati and Suka
+Lord Kalki Goes to Sitthala..cccccecsecessecsseesseessneesessnnssssessesssneseees 79
+9. The Meeting of Lord Kalki and Padmavat?.........scsecsssssecssiesesseessess 91
+10. The Marriage Of Lord Kalki To Padmavati
+Prayers of The Kings To Lord Kalkic..sc.ccessecsesssessssssserseseesneennesenes 100
+ll. The Story of Ananta and How He was Influenced by Maya... 110
+12. The Meeting of Amanta And Hathsa....ccssscssssssssssessssecsssieecssecessiecesvecs 125
+13. Visvakarma Reconstructs the Village of Sambhala
+The Arrival of Lord Kalkicsesscsssssssssssssssssssisisnensssvsnsssnssvsssnsvssssnssssnesse 137
+14. Lord Kalki Conquers the Buddhists Who Opposed Him........0000+ 148
+15. Lord Kalki Is Attacked By The Mleccha Women
+Instructions by the Weapons Personified.......csssscsssssesseesesssessseeeeeeen 161
+16. The Killing of the Raksasi, Kuthodarin...cccccccceccscessessevesesesssessssesseseeees 173
+17.
+
+The Descendents of the Sirya Dynasty
+
+Lord Ramacandra’s Pastimies...ccccsssscsssssssesssssssssssecesesessssvesssssrsssnsesectesees 185
+
+## Page 4
+
+18. The Descendents of Lord Ramacandra
+
+King Maru and King Devapl.......eccesesseesseecsseseesieesiee sessseesteenee scenes 204
+19. The Appearance of Satya-Yuga
+
+Description of the Different Manus.....-cccccsecsssces coecctesseecssecneeneeenees 214
+20. Lord Kalki Goes Out to Conquer Kali and His Allies .......cececeees 219
+21. The Followers of Kal: Are Defeated
+
+The Killing of Koka And Vikoka..sesecseeeesesssssseseesseaneenense eeenees 231
+22, Lord Kalki Travels To Bhallatanagara Ruled By Sasidhvaja
+
+A Great Battle Takes Place....ccccsesssssecsssesssessssessearestescssesessessesesseseens 241
+23. King Sagidhvaja Brings Lord Kalki to His Palace..essscscsssssessssesssneees 253
+24. The Prayers of Suganta
+
+Lord Kalki Marries King Sasidhvaya’s Daughtet.esccccssscsssssssseeeesees 259
+25. The Devotion of Sasidhvaya And His Previous History... 268
+26. The Glories of the Devotees of Lord Hart... ecsesceeneseseneseene 281
+27. The Story of Dvivida Gorilla
+
+King Sasidhvaya’s Previous Birth as King Satrajit.sce csccccssses eee 289
+28. Kalki Travels to Kaficananagara and Delivered Visakanya...........0+ 299
+29, Prayers Offered to Maya-Devi,
+
+The Deliverance Of King SaSidhvaja...sss cesses senses 308
+30. Lord Kalki And Visnuyasa Perform Sacrifices
+
+Instructions by Narada Mun... seseesesesseencseseesesscseenessenssnesneeee 313
+31, The Vow of Ruk mini. cicccccce ccccccescsccccscsees sssssesssrssesesesscsessnssescseensessesees 327
+32. Lord Kalki Enjoys Pastimes With His Consomts.....ecsecsseeecesneeens 339
+33. The Demigods Arrive at Sambhala
+
+The Disappearance of Lord Kalki... ciccecesssecssecsteeesneessee neeenseeess 346
+34. Prayers Offered to Mother Ganga... cesses csssesssesssses « ssesseesneeseessess 356
+35. The Glories of Hearing Sri Kalki Purana vc. ceccscssssees scssseeeeseesseseees . 361
+
+## Page 5
+
+INTRODUCTION
+
+About five thousand years ago, Sri Krsna Dvaipayana Vyasa, an
+empowered incarnation of Lord Krsna, appeared 1n the holy land of
+Bharatavarsa. Realizing that as the four yugas progress, the human
+beings’ power of understanding gradually diminishes; He divided the
+one Veda into four and imparted them to His four principal disciples.
+These four Vedas are the Sama, Rk, Yajur, and Atharva. Later on, His
+disciples again divided the Vedas into many branches.
+
+Even after dividing the Vedas, Srila Vyasadeva did not feel
+satisfied. Thinking that it will be impossible for the people of Kali-yuga
+to understand the actual purport of the Vedas, He took the essence of
+that understanding and compiled a simple literature called the Purana
+Samhita, in story form. Based on this literature, His three principal
+disciples wrote three more sarnhitas: Sdvarni-samhita, Samsapayana-
+samhita, and Akrtavrana-samhita. The eighteen Puranas and thirty-six
+sub Puranas were later compiled, being based on these four samhitas.
+Because Srila Vydsadeva’s Purana Samhita 1s the source of these
+literatures, all the Puranas and sub Puranas are attributed to him.
+
+Among the upa-puranas or sub Puranas, the Kalki Purana ts most
+sacred and widely respected. At the end of Kali-yuga, the Supreme Lord,
+Hart, will incarnate as Lord Kalki and kill all the mlecchas, yavanas,
+atheists, and Buddhists of the world that defy the Vedic authority. The
+pastimes of Lord Kalki are the subject matter of this literature, which
+1s presented in story form. Exalted personalities can see everything,
+past, present, and future. For this reason, there 1s no fault in narrating
+these future events as if they had already occurred. The Kalki Purana
+
+consists of thirty-five chapters.
+
+## Page 6
+
+1 offer my respectful obeisances unto Lord Acyuta, the unborn,
+omniscient, and unlimited Supreme Personality of Godhead, who 1s the
+destroyer of all obstacles, the shelter of all living entities, and the original
+speaker of the Vedic literature He 1s worshiped with great devotion by
+the demigods, headed by Indra, the foremost of sages, and by the rulers
+of the various planetary systems, for the purpose of attaining all kinds of
+perfection tn life
+
+Before reciting this Kalki Purana,, which 1s the verv means of conquest,
+one should offer respectful obeisances unto the Personality of Godhead,
+Narayana, unto Nara narayana Rs, the supermost human being, unto
+mother Sarasvati, the goddess of learning, and unto Srila Vyasadeva, the
+
+author
+
+CHAPTER ONE
+A Description of Kali-Yuga
+
+Text 1
+sendra devagana munisvarajana
+lokah sapalah sada yam sarvartha
+susiddhaye pratidinam bhaktya
+
+bhajantt uttamah tam
+
+vighnesam anantam acyutam
+gjam sarvajfia sarvasrayam
+vande vadika tantrikad: viidhah
+
+sastrath puro vanditam
+
+Text 2
+narayanam namaskrtya
+naram caiva narottamam
+devim sarasvatin caira
+
+tato jayam udirayet
+
+Text 3
+
+yad dordatida karala sarpa kavala
+
+jvala jvalad vigraha netuh satkarah
+
+## Page 7
+
+Sri KALKI PURANA
+
+vala danda daha bhiipah ksitt ksobhakah
+sasvat samdhava vahano duya
+janth kalkth paratma harth
+parat satyayugadikrt sa
+bhagavan dharma pravrtti prryah
+May the Supreme Personality of Godhead, having assumed the form
+of Kalki, who 1s the Supersoul of all living entities, establish the eternal
+principles of religion Having appeared in a family of brahmanas, He wiil
+annihilate the sinful kings of Kali-yuga by the fire of the poison emanating
+from His ferocious serpent-like hands while riding on the back of an
+excellent horse of the Sindh province. In this way, He will protect the
+pious and re-establish Satya-yuga
+
+Text 4-5
+11 sutavacah srutva
+nammisaranya vasinah
+saunakadya mahabhagah
+papracchustam katha mimam
+
+he suta sarvadharmajfia
+lomaharsana putraka
+trikalayfia puranayiia
+vada bhagavatim katham
+
+After Sri Sita Gosvami had offered his obeisances to the Supreme
+Lord in this manner, the sages at Naimisaranya, headed by Saunaka Rsi,
+said: O Sita Gosvami! O son of Romaharsana! O knower of religious
+principles! O seer of past, present and future! O learned authority of the
+Puranas, please continue narrating to us the pastimes of the Supreme
+Lord.
+
+Text 6
+kah kalth kutra va jato
+jagatam isvarah prabhuh
+katham va nitya dharmasya
+vinasah kalina krtah
+
+## Page 8
+
+A DESCRIPTION OF KALI-YUGA
+
+Who 1s Kali? Where was he born? How did he become the master
+of the world? How does he destroy the observance of eternal religious
+
+principles?
+
+Text 7
+iti tesam vacah srutva
+stito dhyatvaé harm prabhum
+saharsa pulakodbhinna
+
+sarvangah praha tan munm
+
+After hearing these words of the great sages, Sita Gosvami became
+so ecstatic that the hairs of his body stood on end He then absorbed his
+mind in remembrance of Lord Hari and continued to speak to the sages
+
+Text 8
+suta uvaca
+srnudhvam idam akhyanam
+bhavisyam paramadbhutam
+kathitam brahmanaé purvam
+naradaya viprechate
+
+Sita Gosvami said: Please listen attentively as I describe wonderful
+pastimes of the Lord that will be revealed at a future time. These
+transcendental pastimes were previously glorified by Lord Brahma, who
+was born from the universal lotus flower, when he was requested to speak
+by the great sage, Narada
+
+Text 9
+naradah praha munaye
+vyasaya amuta tejase
+Sa vyaso nyaputraya
+brahmarataya dhimate
+
+Thereafter, Narada repeated what he had heard to the unlimitedly
+powerful Srila Vyasadeva, who in turn narrated these topics to his exalted
+son, Brahmarata
+
+Text 10
+sa cabhimanyu putraya
+visnurataya samsadi
+
+## Page 9
+
+Sri Karki PuRANA
+
+praha bhagavatan dharmaénn
+astadasa sahasrakan
+
+Brahmarata then described these topics of bhdgavata-dharma to
+Abhimanyu’s son, who was known as Visnurata, as he was seated in the
+royal assembly This narration consists of eighteen thousand verses
+
+Text 11
+tada nrpe layam prapte
+saptahe prasna sasitam
+markandeyadibhih prstah
+praha punyasrame sukah
+
+After hearing for one week without interruption, the saintly king
+relinquished his material body and departed from this world, although
+the discussion of the glories of the Lord had not ended. After the passing
+away of Abhimanyu’s son, great sages, headed by Markandeya, continued
+to inquire from Sukadeva Gosvami in that sacred aframa
+
+Text 12
+tatraham tadanu jfiatah
+srutavanasmi yah kathah
+bhauvisyah kathaya masa
+punya bhagavath subhah
+
+I was present at that time, and so I heard everything from Sukadeva
+Gosvami, by his order | will now narrate to you these most auspicious
+pastimes of the Supreme Lord that will take place in the future
+
+Text 13
+tam srnudhvam maha bhagah
+samahita dhiyo‘nsam
+
+gate krsne svanilayam
+pradurbhiito yatha kahh
+
+O greatly fortunate sages, please listen attentively as | describe to you
+how Kal: appeared in this world after Lord Krsna had returned to His
+own abode
+
+## Page 10
+
+A DESCRIPTION OF KALI-YUGA
+
+Text 14
+pralayante jagatsrastah
+brahma loka pitamahah
+sasarja ghoram malinam
+prsthadesat svapatakam
+
+After the annthilation, the secondary creator of the universe, Lord
+Brahma, the grandfather of everyone, who was born on the universal
+lotus flower, created Sin personified, having a black complexion, trom
+his back.
+
+Text 15
+sa cardharma i khyatas
+tasya vamsanu kirttanat
+sravanat smaranal lokah
+
+sarva papath pramucyate
+
+The name of Sin personified was Adharma By faithfully hearing
+about, chanting, and remembering the descendents of Adharma, one
+quickly becomes freed from all sinful reactions.
+
+Text 16
+adharmasya priya ramya
+muthya marjara locana
+tasya putro’ttejasvr
+dambhah parama kopanah
+
+The wife of Adharma, (Irreligion), was named Mithya, (Falsehood)
+She was very beautiful, and had eyes like those of a cat They had a son
+named Dambha, (Pride), who was always very angry and energetic
+
+Text 17
+sa mayayam bhagyantu
+lobham putrafica kanyakam
+nikrttm janaya masa
+
+tayoh kodhah suto’ bhavat
+
+Dambha had a sister named Maya, and within her womb, he begot
+a son named Lobha, (Greed), and a daughter named Nikrti, (Cunning)
+Lobha begot a son named Krodha, (Anger), in the womb of Nikrtt
+
+## Page 11
+
+Sri KALKI PURANA
+
+Text 18
+sa himsayam bhagmnyantu
+jJanaya masa tam kalim
+vamahasta dhrtopastham
+tailabhyaktanyana prabham
+
+Himsa, (Envy), was Krodha’s sister. From the womb of Himsa, Krodha
+begot a son named Kali. Kal: 1s always seen to be holding his genitals in
+his left hand. His complexion 1s very black, like black ointment that has
+been mixed with oil
+
+Text 19
+kakodaram karalasam
+lolanhvam bhayanakam
+putigandham dyittamadya
+
+strt suvarna krtasrayam
+
+Kali’s abdomen 1s like that of a crow, his face 1s frightening to behold,
+and his tongue 1s red and appears to be full of greed. His appearance 1s
+very fearful and a bad smell emanates from his body. Kali ts very fond of
+playing chess, drinking wine, enjoying the company of prostitutes, and
+associating with gold merchants.
+
+Texts 20-21
+bhagmyantu duruktyam sa
+bhayam putrafica kanyakam
+mrtyum sa janayamasa
+tayosca murayo’ bhavat
+
+yatanayam bhaginyantu
+lebhe putrayutayutam
+utham kahkule jata
+vahavo dharma nindakah
+
+Kali’s sister was Durukti, (Harsh Speech). From Durukt1’s womb,
+Kal: begot a son named Bhaya, (Fear), and a daughter named, Mrtyu
+(Death). Bhaya begot a son named Niraya (Hell) from the womb of Mrtyu
+and Niraya begot ten thousand sons in the womb of his sister, Yatana
+(Excessive Pain). Thus I have described the destructive progeny of Kali,
+who were all blasphemers of genuine religious principles.
+
+## Page 12
+
+A DESCRIPTION OF KALI-YUGA
+
+Text 22
+yaya adhyayanadi dana
+veda tantra vinasakah
+Gdhi vyadh jaraglann
+duhkhah soka bhayasrayah
+
+All these relatives of Kali were the destroyers of sacrifice, study of
+the Vedas, and charity, because they transgressed all the Vedic principles
+of religion. They were reservoirs of mental distress, disease, old age,
+destruction of religious principles, sorrow, lamentation, and fear
+
+Texts 23-24
+kaliraya anugascerur
+yuthaso lokandsakah
+babhivuh kala vibhrastah
+ksankah kamuka narah
+
+dambhacara duracaras
+tata matr vihimsakah
+
+vedahinad dvya dinah
+sudraseva parah sada
+
+These descendents of Kalt are found wandering everywhere
+throughout the kingdom of Kali, destroying the people of the world They
+are misguided by the influence of time, very restless by nature, full of
+lusty desires, extremely sinful, very proud, and violent even to their own
+father and mother Those who are known as twice-horn among them are
+devoid of all good behavior, without any observance of proper etiquette,
+and always engaged 1n the service of Sadras.
+
+Texts 25-27
+kutarka vada vahula
+dharma wikraymo’ dhamah
+veda vikraymo bratva
+rasa vikrayinas tatha
+
+mamsa vikraymah krurah
+sisnodara parayanah
+paradara rata matta
+
+varna sankara karakah
+
+## Page 13
+
+Sri KALKI PURANA
+
+hrsvakarah papasarah
+satha matha nivasinah
+sodasabdayusah syala
+
+bandhava nicasangamah
+
+These fallen souls are very fond of dry arguments, and they use
+religion as a means of livelihood, teach Vedic knowledge as a profession,
+are fallen from the execution of their vows, and sell wine and other
+abominable things, including meat. They are cruel by nature, and very
+fond of gratifying their bellies and genitals. For this reason, they lust
+after the wives of otners and are always seen to be intoxicated They were
+not born from a father and mother who were properly married, and they
+are short in stature and always engaged 1n sinful acts, such as cheating
+others They generally reside in a sacred place, live for only sixteen years,
+associate with wretched people, and only consider a brother-1n-law to be
+a friend and relative
+
+Text 28
+vivada kalaha ksuvdhah
+kesa vesa ubhusanah
+kalau kulina dhaninah
+piyya vadardhusika duyah
+
+The people of Kali-yuga are accustomed to quarrelling and fighting
+amongst themselves. They go to great lengths to groom their hair, wear
+the best of clothes, and decorate themselves with costly ornaments.
+
+Text 29
+sanyasino grhasakta
+grahasthastva vikinah
+gururninda para dharma
+dhvayinah sadhuvaticakah
+
+In Kali-yuga, a person with a lot of money will naturally be respected
+as a great soul. If a twice-born person earns his livelihood by lending
+money on interest, he will be considered a pillar of society. The sannyadsis
+of Kali-yuga will be attached to home and property, and householders will
+become devoid of all power of discrimination. In Kali-yuga, people will
+blaspheme a spiritual master or other elderly person without hesitation.
+
+## Page 14
+
+A DESCRIPTION OF KALI-YUGA
+
+Indeed, people in general will simply become hypocrites, liars, and
+cheaters
+Texts 30-37
+prangraha ratah sudra
+parasva haranadarah
+dvayoh svikaram udvahah
+sathe maim: tadanyata
+
+pratidane ksama’ saktau
+viraktu karanaksame
+vacdlatvafica panditye
+
+yasor’'the dharma sevanam
+
+dhanadhya tvatica sadhutve
+diire mire ca tirthata
+
+sutramatrena vipratvam
+
+dandamatrena maskart
+
+alpasasva vasumati
+naditire’varopita
+
+strvyo vesyalapa sukhah
+svapupmsa tyaktamanasah
+
+paranna lolupa vipras
+candala grhayayakah
+
+striyo vaidhavya hinasca
+svacchanda acarana privah
+
+citravrsti kara megha
+mandasasya ca medini
+
+prayabhaksa nrpa lokah
+karapida prapiditah
+
+skandhe bhéram kare putram
+krtva ksuvdhah prayajanah
+ginidurgam vanam ghoram
+
+asravisyant: durbhagah
+
+## Page 15
+
+10
+
+Sri Karki PurRANA
+
+madhu mamsar mulaphalarr
+ahdrath prana dharinah
+evam tu prathame pade
+
+kaleh krsna vinindakah
+
+In Kali-yuga, Sudras will accept charity from others, or else plunder
+others’ wealth without discrimination. Mutual agreement will become
+the sole criteria for solemnizing the marriage of a boy and girl. People will
+show sympathy and magnanimity, but it will simply be a form of duplicity.
+Forgiveness will be granted only when a person 1s unable to harm the
+offending party. In a society of might makes right, people will easily
+become annoyed with those in a weaker position. Even fools will be very
+talkative in an attempt to prove that they are learned. People will engage
+in religious ceremonies, but simply to acquire a reputation. If one has got
+wealth, he will be considered to be a saint. Just to bathe 1n a holy place,
+people will travel a great distance and undergo much trouble. Simply by
+putting on a sacred thread, one will be recognized as a brahmana. Simply
+by carrying a staff, one will be recognized as a sannyasi.
+
+The earth will restrict the production of food grains. The currents of
+rivers will flow very rapidly, and even married women will behave little
+better than prostitutes, because they have practically no attachment for
+their husbands. Those who are twice-born will be dependent on others,
+so much so that they will not hesitate to engage as priests for Sudras.
+Women will become promiscuous, so that will be easily abandoned by
+their husbands. Clouds will shower rain very irregularly, and the land
+will not yield sufficient crops. Kings will whimsically torture and kill
+their subjects, and burden them with excessive taxes. Such unfortunate
+subjects will finally take their family and belongings and take shelter of
+mountains and dense forests. The people of Kali-yuga will sustain their
+lives by eating flesh, honey, fruit, and roots, without discrimination.
+Almost everyone will take pleasure in blaspheming the Supreme Lord,
+Sri Krsna These are some of the symptoms that will manifest at the
+beginning of Kalt-yuga.
+
+Text 38
+dviteye tannama hmas
+
+trtrye varna sankarah
+
+## Page 16
+
+A DESCRIPTION OF KALI-YUGA 11
+
+ekavarnas caturthe ca
+
+vismrta cyuta satkrivah
+
+In the second quarter of Kali-yuga, people will no longer chant the
+holy names of Lord Krsna. In the third quarter of Kalt-yuga, there will be
+an upsurge of unwanted population, and in the final quarter of Kali-yuga,
+there will be only one class of human being, because God consciousness
+will have been long forgotten.
+
+Text 39
+nihsvadhyaya svadha svaha
+vausadom kara varyitah
+deva sarve nvaharah
+
+brahmanam saranam yuyuh
+
+When the study of the Vedas, performance of sacrifice, chanting of
+mantras, and other religious practices thus disappear from this world during
+Kali-yuga, the demigods, being afflicted due to not receiving their share
+of sacrificial offerings, will take shelter of Lord Brahma, the grandfather
+of the universe, who was born from the universal lotus flower
+
+Texts 40-43
+dhantrim agratah krtva
+ksinam dmam manasvimim
+dadrsur brahmano lokam
+
+vedadhvani nnaditam
+
+yanadhumath samakirnam
+munivarya nisevitam
+suvarna vedikamadhye
+
+daksinavarttam wjvalam
+
+vahnim yupankita udyana
+vana puspa phalantitam
+sarobhth sarasair hamsarr
+
+ahvayantam watithim
+
+vayu lola lata jala
+kusumali kulakulash
+
+## Page 17
+
+Srt Kaki PuRANA
+
+pranamahvana satkara
+
+madhuralapam tksanath
+
+Keeping mother earth, who had become emaciated due to great
+distress in front, all of the demigods went to the abode of Lord Brahma
+There, they experienced that the entire atmosphere was surcharged with
+the sounds of the chanting of Vedic mantras, and every where was smoke
+pouring from the sacrificial fires Lord Brahma, the leader of all the sages,
+was sitting upon his throne, conducting a fire sacrifice on an altar made
+of gold Here and there were many gardens and orchards full of flowers,
+fruit, and wood for performing fire sacrifices. Swans, cranes, and other
+aquatic birds made wonderful sounds, as 1f they were greeting their guests
+with joy The swans, cranes, and other aquatic birds were surrounded
+by intoxicated bumblebees hovering around innumerable creepers and
+flowers, swinging to and fro in the cool breeze Thus, it appeared as if they
+were all offering obeisances and speaking very sweetly while greeting
+their guests with great pleasure
+
+Text 44
+tad brahma sadanam devah
+sesvarah kinnamanasah
+viisustadanuyfata
+
+nyakaryam niveditum
+
+Thus, all the demigods, headed by Indra, arrived in the abode of
+Lord Brahma in a distressed state of mind By the order of Prayapati, they
+entered the assembly hall of Lord Brahma, so that they could disclose to
+him to cause of their grief
+
+Text 45
+tribhuvana janakam sada
+sanastham sanaka sanandana
+sanatanaisca siddhath
+panseuita pada kamalam
+
+brahmanam devata nemuh
+
+The demigods first offered their respectful obeisances to Lord Brahma,
+whose lotus feet were being served by perfected beings such as Sanaka,
+Sanandana, and Sanatana as he sat in meditation Lord Brahma 1s the
+
+## Page 18
+
+A DESCRIPTION OF KALI-YUGA
+
+secondary creator of the three worlds who acts under the direction of the
+Supreme Personality of Godhead
+
+Thus ends the translation of the first chapter of Sri Kalki Purana
+
+13
+
+## Page 19
+
+CGuAPTEFR Two
+The Birth and Sacred Thread Ceremony of Lord Kalki
+
+Text 1
+suta uvaca
+upavistas tato deva
+brahmano vacanat purah
+kalerdosad dharma hanm
+kathaya ma swadarat
+
+Sata Goswamt said Thereafter, by the order of Lord Brahma, all the
+demigods sat in front of him and then explained how the observance of
+religious principles was declining at an alarming rate in Kali yuga
+
+Text 2
+devanam tadvacah srutva
+brahma tanaha duhkhitan
+prasadayitva tam visnum
+sadhayisyami abhipsitam
+
+After hearing their words saturated with anguish, Lord Brahma said
+Let us all approach Lord Visnu We should please Him with our prayers
+so that He may act for our welfare
+
+Text 3
+in devath pari rto
+gatva goloka vasmam
+stutva praha puro brahma
+devanam Indavepsitam
+
+Atter saying this, Lord Brahma took all the demigods and went to the
+abode of Lord Ham known as Goloka There, he offered prayers to the
+Supreme Lord, informing Him of the plight of the demigods
+
+Text 4
+tacchrutva pundarikakso
+
+hyahmanam idam avravit
+
+## Page 20
+
+THE BirTH AND SACRED THREAD CEREMONY OF LorD KALKI
+
+sambhale «isnuvasaso
+
+grhe pradurbhabamyaham
+
+sumatyam matan vibho '
+kanvayam teannidesatah
+
+After hearing everything in detail, lotus eyed Lord Hari said O
+Brahma, rest assured that [ will soon descend to the earth and appear
+in the village known as Sambhala | will take birth in the house of a
+brahmana named Visnuyasa, from the womb of his wife, Sumati
+
+Text 5
+caturbhir bhratrbhir deva
+Aarisyame kaliksavam
+bhavanto bandhava devah
+svamsena atatarisvatha
+
+My mission will be to eliminate the wicked Kali, with the help of My
+four brothers O demigods, your expansions should also take birth on the
+earth to assist Me in My mission
+
+Text 6
+ryam mama priva laksmih
+simhale sambhatisvati
+brhadrathasya bhupasya
+
+haumudvam kamaleksuna
+
+bharyyayam mama bharvatsa
+
+padma namm janiyyatt
+
+My consort, the beloved lotus eyed Kamala devi, will also appear on
+the earth, having the name Padma She will be born from the womb of
+Kaumudh, the wife of Brhadratha, the king of Simhala
+
+Text 7
+vata suvam bhucam devah
+stamsavatarane ratah
+yaanau maru dervapi
+
+sthapayisyamt aham bhutt
+
+15
+
+## Page 21
+
+16 Sri KALKI PURANA
+
+O demigods, you should not delay. By your plenary portions, take
+birth on the earth Later on, | will entrust the responsibility for ruling the
+earth to two powerful kings named Maru and Devapi.
+
+Text 8
+punah kratayugam krtva
+dharman samsthapya purvavat
+kalivyalam sannurasya
+
+prayasye svdlayam vibhoh
+
+1 will then again establish Satya-yuga, and thus reinstate the principles
+of religion as they were before. Rest assured that | will return to Vaikuntha
+only after destroying the poisonous snake, Kali.
+
+Text 9
+iyud wnitam akarnya
+brahma devaganair urtah
+jagama brahmasadanam
+devasca tridevam yuyuh
+
+After Lord Hari assured the demigods in this way, Lord Brahma,
+surrounded by the other demigods, departed for his own abode. From
+there, the demigods returned to their respective abodes.
+
+Text 10
+mahimna svasya bhagavan
+nya janma krtodyamah
+viprarse sambhala gramam
+
+abu esa paratmakah
+
+O greatly powerful brahmana, thereafter, with a desire to make
+His appearance within this world in a humanlike form by His own
+transcendental potency, the Supreme Lord, Har, the Supersoul within
+the heart ot everyone, entered the village of Sambhala.
+
+Text 11
+sumutyam visnuyasasa
+garbhamadhatta vaisnam
+graha naksatra rasyadi
+
+sevita srt padambyyum
+
+## Page 22
+
+THE BIRTH AND SACRED THREAD CEREMONY OF LorD KALKI
+
+Meanwhile, in due course of time, Visnuyaga’s wife, Sumati, became
+pregnant so that all auspicious symptoms began to appear in her body.
+Thereafter, all the presiding deities of the planets, stars, and constellations
+began serving the lotus feet of the child within her womb.
+
+Text 12
+sarit samudra grrayo lokah
+samsthanu jangamah
+saharsa rsayo deva
+
+jate visnau jagatpatau
+
+On an auspicious day and at an auspicious time, Lord Hani, the master
+of the universe, took birth within this world. At this time, all the lakes,
+rivers, oceans, mountains, demigods, and sages, and indeed all moving
+and non-moving living entities, became filled with ecstasy.
+
+Texts 13-14
+babhuvah sav vasatvanam
+ananda vwidhasrayah
+
+nrtyanti pitaro hrstas
+
+tusta deva jaguryasah
+
+cakrur vadyam gandharva
+
+nanrtuscapa saroganah
+
+Every living being began to display symptoms of happiness upon the
+appearance of the Supreme Lord. The forefathers danced 1n ecstasy, the
+demigods sang the glories of Lord Hari, the Gandharvas played musical
+instruments, and Apsaras danced with great jubilation,
+
+Text 15
+dvadasyam sukla paksasya
+madhave mast madhavah
+jate dadrsauh putram
+
+pitarau hrstamanasau
+
+In this setting, Lord Hart incarnated within this world in His form
+as Kalki on the twelfth day during the fortnight of the waxing moon in
+the month of Vaisakha Upon seeing the beautiful baby, the hearts of
+Visnuyasa and Sumati became filled with great happiness.
+
+17
+
+## Page 23
+
+18 Sri KaLkKt PuRANA
+
+Text 16
+dhatri mata mahasasthi
+nabhicchetri tadamvika
+gangodaka kleda moksa
+sdvitri marjanodyata
+
+When Lord Kalki appeared, Mahasasthi was His nurse, Ambika cut
+His umbilical cord, and Savitri cleansed His body with water from the
+Ganges.
+
+Text 17
+tasya visnor anantasya
+vasudha’dhat payahsudham
+matrka mangalya vacah
+
+krsna janma dine yatha
+
+On the auspicious day of Lord Kalki’s advent, mother earth showered
+nectar in the form of an abundance of milk, and the elderly ladies blessed
+the child with auspicious words.
+
+Texts 18-19
+brahma tadupadhdr yasu
+svasugam praha sevakam
+yahiti sutika garam
+
+gatva visnum prabodhaya
+
+caturbhujam idam rupam
+devandm api durlabham
+tyaktva manusa vad rupam
+
+kuru natha vicdritam
+
+Lord Brahma, who knew the mystery of the Lord’s appearance, hastily
+called for his servant, Pavana, and told him to immediately go to the
+maternity home and offer the following prayer to Lord Visnu: O Lord,
+please consider how this four-armed form of Yours is rarely seen, even by
+
+the demigods. Please assume a two-armed form like that of a human being
+and then carry out Your mission.
+
+Text 20
+iti brahma vacah srutvd
+
+pavanah surabhi sukham
+
+## Page 24
+
+Tue BirTH AND SACRED THREAD CEREMONY OF LorpD KALkt
+
+sasitih praha tarasa
+
+brahmano vacanadrtah
+
+Without delay, Pavana-deva, whose cooling body has a very pleasing
+aroma, went to the maternity room of Lord Kalki and submitted Brahma’s
+appeal.
+
+Text 21
+tacchrtva pundarikaksas
+tat ksanat dvibhujo’bhavat
+tadat tat pitarau drstva
+
+vismaya panna manasau
+
+When the lotus-eyed Lord heard this request, He immediately
+assumed a two-armed form. His father and mother were certainly struck
+with wonder upon seeing this wonderful pastime of the Lord.
+
+Text 22
+bhrama samskara vattatra
+menate tasya mayaya
+tatastu sambhala grame
+
+sotsava jivajatayah
+
+mangalacava babhulah
+pdpatapa vivarjitah
+
+The parents could not understand the actual truth regarding their
+son because of being bewildered by the Lord's yogamdya potency. They
+considered that their vision of the Lord’s four-armed form had been
+a hallucination, and that all along they had witnessed His two-armed
+form. Thereafter, all the inhabitants of Sambhala celebrated the Lord's
+appearance by performing auspicious rituals, completely forgetful of their
+material miseries.
+
+Text 23
+sumatistam sutam labdhva
+visnum jisnum jagatpaum
+purnakama vipra mukhyan
+
+ahityadat gavam satam
+
+19
+
+## Page 25
+
+Sri KALKI PURANA
+
+Having received the all-glorious Lord Visnu, the master of the three
+worlds, as her son, mother Sumati’s happiness knew no bounds. She
+invited the brahmanas and gave them each one hundred cows in charity.
+
+Text 24
+hareh kalyanakrd visnu
+yasah suddhena cetasa
+samarg yajur vidbhir
+
+agrayais tannama karane ratah
+
+For the welfare of his child, the pure-hearted Visnuyaga invited many
+brahmanas that were expert in reciting the Rg Veda, Yajur Veda, and Sama
+Veda, and had them perform the child’s name-giving ceremony.
+
+Text 25
+tada ramah krpo vyaso
+draunir bhiksu sarirmah
+samdyata hartm drstam
+
+balakatvam upagatam
+
+At that time, Lord Rama, Krpacarya, Vyasadeva, and Agvattama
+came there in the guise of brahmanas to have the darsana of Lord Han,
+who has assumed the form of child Kalki.
+
+Text 26
+ianagatan samdlokya
+caturah surya sannibhan
+hrstaruma dvyavarah
+
+pwayancakra isvaran
+
+As Visnuyaga, the foremost of brahmanas, gazed upon those four
+exalted brahmanas whose effulgence was equal to that of the sun-god, his
+hair stood on end. He then worshiped these four exalted personalities,
+offering them nice prayers
+
+Text 27
+pujitaste svasanesu
+samuistah svasukhasrayah
+harm kodagatam tayya
+
+dadrsuh sarva murttayah
+
+## Page 26
+
+THe BirTH AND SACRED THREAD CEREMONY OF LorD KALKI 2]
+
+Atter being worshiped by Visnuyasa, these four who were disguised as
+brahmanas, who could indeed assume any form at will, sat at ease in their
+respective places. While seated, they gazed at child Kalki as He was seated
+upon the lap of His father
+
+Text 28
+tam balakam narakaram
+visnum natvd munisvarah
+kalkt kalka vindsartham
+avirbhiitam vidurbudhah
+
+The four exalted brahmanas offered their obeisances unto Lord Visnu,
+who had assumed the form of a human being. They very well understood
+that Lord Kalki had appeared to rid the earth of all those who had become
+degraded to the level of sinful demons.
+
+Text 29
+nama kurvams tatastasya
+kalki ritya bhivisrutam
+krtva samskara karmant
+
+yayuste hrstamanasah
+
+The four exalted brahmanas named the transcendental child Kalk.
+They happily performed the child’s birth ceremony and then departed for
+their own abodes.
+
+Text 30
+tatah sa bavrdhe tatra
+sumatya partpalitah
+kalenalpe kamsanh
+suklapakse yatha sas
+
+Thereafter, as the moon in the fortnight of the waxing moon increases
+day by day, Lord Kalki grew up under the care of His affectionate mother,
+Sumat: Within a very short time, the Lord grew up to become a young
+boy.
+
+Text 31
+kalker yesthastrayah surah
+kaviprayfia sumantrakah
+
+## Page 27
+
+22 Srt Katki PurANA
+
+pitrmatr preyakara
+guru vipra pratisthitah
+
+Before Lord Kalki’s birth, three sons were born to Sumati, named
+Kavi, Prajfia, and Sumantra All of them were heroic warriors who always
+acted for the pleasure of their spiritual master and their parents. They
+were highly praised by all elderly respectable people and brahmanas
+
+Text 32
+kalkeramsah purojatah
+sadhavo dharmatatparah
+gargya bhagya uisaladya
+Jnatayas tadanuvratah
+
+Great saintly persons like Gargamum, Bhagya, and Visala had also
+appeared in the family of Lord Kalki All of them were parts and parcels
+of Kalki, and His obedient servants.
+
+Text 33
+visdkhay ipa bhupala
+palitas tapavarjitah
+brahmanah kalkim alokya
+param pritim upagatah
+
+These exalted personalities were maintained by the king, who was
+named Visakhaipa. After having the dargana of Lord Kalki, all these
+bradhmanas felt jubilant and relieved of all material miseries.
+
+Texts 34-35
+tato visnuyasah putram
+dhiram sarva gundkaram
+kalkim kamala patraksam
+provaca pathanadrtam
+
+tata te brahma samskaram
+yajnasutram anuttamam
+savitrim vacayisyamt
+tato vedan pathisyasi
+
+After some time, when Visnuyaga saw that his lotus-eyed child, Kalk1,
+who was a reservoir of transcendental qualities, was ready to begin His
+
+## Page 28
+
+Tue BirRTH AND SACRED THRFAD CEREMONY OF LoRD KALKI 23
+
+education, he called him and spoke with a gentle voice. My dear child, |
+will now arrange for Your sacred thread ceremony so that you can chant
+the Gayatri mantras and begin Your study of the Vedas
+Text 36
+kalkiruvaca
+ko vedahka ca savin
+kena sutrena samskratah
+brahmana widita loke
+
+tat tattvam vada tata mama
+
+Lord Kalki said: My dear father, what are the Vedas’? What are the
+Gayatri mantras? How 1s it that one can become a braéhmana simply by
+undergoing some ritual and putting on a thread? Please describe all this
+truthfully.
+
+Text 37
+pitovaca vedo harervak
+savitrt vedamata pratisthita
+trigunaiica trivrt sutram
+tena viprah pratisthitah
+
+Visnuyaga said: My dear son, the words of the Supreme Lord constitute
+the Vedas, and the Savitri, or Gayatri, mantras are the mother of the
+Vedas. The sacred thread represents the three modes of material nature,
+which are controlled by the Supreme Brahman. When a brahmana wears
+
+his sacred thread, he becomes highly respected within society.
+
+Text 38
+dasayayfiath samskrta ye
+brahmana brahma vadinah
+tatra vedasca lokanam
+
+trayanam tha posakah
+
+Brahmanas who have duly undergone the ten samskdras and have
+studied the four Vedas thoroughly are qualified to protect the principles
+
+of the Vedas.
+Text 39
+yajnadhyavana danadi
+
+tapah svadhyaya samyamath
+
+## Page 29
+
+24 Sri KALKI PURANA
+
+prmayant: harm bhaktya
+cedatantra uidhanatah
+
+Only brahmanas can please Lord Hari by their unshakable faith and
+devotion They study the Vedas, perform fire sacrifices, give charity,
+undergo penance, and carefully control their senses
+
+Text 40
+tasmat yathopanayana
+karmane’ ham duyath’saha
+samskarttum bandhava janais
+tvamicchami subhe dine
+
+Therefore, on an ausprcious day, I would like to invite all my relatives, as
+well as qualified brahmanas, and perform Your sacred thread ceremony
+
+Text 41
+putra uvaca
+ke ca te dasa samskara
+brahmanesu pratisthitah
+brahmanah kena va visnum
+
+arcayant vidhanatah
+
+Lord Kalki said: My dear father, what are the ten samskaras, which by
+observing a brahmana becomes highly regarded 1n society’ Tell Me how a
+brahmana engages in the worship of Lord Visnu.
+
+Texts 42-43
+
+putovaca
+brahmanavam brahmanayjato
+
+garbhadhanad: samskrtah
+sandhya trayena savitrt
+
+puja Japa parayanah
+tapasvi saryavan dhiro
+
+dharmatma trati samsrtm
+visnavarcanam idam jitatva
+
+sadananda mayo duyah
+
+Visnuyasa said One who is born of brahmana parents who had
+observed the garbhadhana samskdra, worship the Supreme Lord according
+
+## Page 30
+
+THE BIRTH AND SACRED THREAD CEREMONY OF LorD KALKI 25
+
+to the prescribed rules and regulations, chant the Gayatri mantra three
+times a day, undergo austerities, always speak truthfully, and are patient,
+will happily rise above the modes of material nature and thus be able to
+deliver other living entities from the ocean of material existence
+
+Text 44
+putra uvaca
+kutraste sa dvyo yena
+tarayati akhilam jagat
+sanmargena harm prman
+
+kamadondha jagattraye
+
+Lord Kalki said. Where can that brahmana be found who pleases
+Lord Visnu by following the path of devotional service, who works for the
+welfare of all living entities within the three worlds, and who 1s capable
+of delivering all the people of the world?
+
+Text 45
+pitovaca
+kalina balina dharma
+ghatina duya patina
+mrakrata dharmarata
+
+gata varsan tarantaram
+
+Visnuyasa said: At present, the pious brahmanas have left this country
+(India), having been chastised by the powerful Kali, who 1s envious of
+saintly persons, and who destroys the practice of religious principles
+
+Texts 46-47
+ye svalpa tapaso viprah
+sthitah kalryugantare
+stsnodara bhrto’dharma
+nurata viratakriyah
+
+papasara duracaras
+tejohinah kalavitha
+
+atmanam raksitum nawa
+saktah sudrasya sevakah
+
+## Page 31
+
+26 Sri Karki PURANA
+
+Only those brahmanas who have not become very powerful as a result
+of their performance of austerity are still under the control of Kali. They
+are simply engaged in eating, sleeping, enjoying sex, and acting sinfully
+in other ways, thus avoiding their duty to perform the Vedic rituals. Such
+brahmanas are sinful and powerless because they whimsically engage
+in the service of Sudras. Thus, they are completely unable to protect
+themselves from the influence of Kal.
+
+Text 48
+itt janaka vaco nisamya kalkth
+kahkula nasa mano' bhilasajanma
+dvya nya vacanais tadopanito
+gurukula vasam uvasa sadhunarthah
+
+When Lord Kalki, the maintainer of the devotees, who had taken
+birth with a desire to destroy the influence of Kali-yuga, heard these
+words of his father, he underwent the sacred thread ceremony and then
+left home to live at the dsrama of His guru
+
+Thus ends the translation of the second chapter of Sti Kalki Purana
+
+## Page 32
+
+CHAPTER THRFEE
+Lord Kalki Receives Benedictions From Lord Siva and Parvati
+
+Text 1
+suta uvaca
+tato vastum gurukule
+yantam kalkim nimiksya suh
+mahendradn sthito ramah
+
+samantya asramam prabhuh
+
+Sata Gosvami said: Thereafter, Lord Kalki went to live at the gurukula.
+Upon seeing Him approach, the greatly powerful Parasurama, who lives
+at Mount Mahendra, took Him to His agrama.
+
+Text 2
+praha tvam pathayisvamu
+gurum mam viddh: dharmatah
+bhrguvamsa samutpannam
+
+jamadagnyam mahaprabhum
+
+Lord Parasurama said: My dear child, I will act as Your teacher and
+so You may treat me as Your dcarya. | am the son of the greatly powerful
+sage, Jamadagmi, and thus | belong to the Bhrgu dynasty ~
+
+Texts 3-4
+veda vedanga tattavaynam
+dhanurveda visaradam
+krtva nhksatreyam prthi im
+dattva upraya daksimam
+
+mahendradrau tapastaptum
+agato'ham dvydtmaja
+tvam pathatra nyam vedam
+
+yaccanyacchastram uttamam
+
+I am well-versed in the four Vedas, the literature dealing with
+grammar, and the six branches of the Vedas. | am very expert in the art
+of shooting arrows. Previously, I made the entire earth devoid of ksatrivas
+
+## Page 33
+
+28
+
+Sri KaLkt PURANA
+
+and then gave the southern portion of the country to the brahmanas
+Thereafter, I went to Mount Mahendra to perform austerities O son of a
+brahmana, you may stay here and study whatever scriptures you like
+
+Text 5
+it tadvaca trprasrutya
+samprahrsta tanuruhah
+
+kalkih puro namaskrtya
+vedadhiti tato’ bhavat
+
+Stta Gosvami said: Upon hearing these words of Parasurama, Kalki
+became very pleased and immediately offered His respectful obesiances
+to Him Thereafter, He began to study the Vedas under the direction of
+his spiritual master.
+
+Text 6
+sangam catuhsastikalam
+dhanurveda adi kafica yat
+samadhitya jamadagiiyat
+kalkth praha kratatyalth
+
+Kalki mastered the sixty-four arts under the tutelage of the son of
+Jamadagni. He also learned the Vedas, the branches of the Vedas, the
+Dhanurveda, and other departments of knowledge. Thereafter, He folded
+His hands and spoke to His guru as follows.
+
+Text 7
+daksimaém prarthaya vibho
+ya deya tava sannidhau
+yaya me sarva siddhithsyad
+
+ya syat tvattosa karmi
+
+Lord Kalki said: O my Lord, please tell me what kind of daksina I
+should give You so that You will be pleased, and I will thus be able to
+achieve complete perfection in life.
+
+Text 8
+rama uvaca
+
+brahmana prarthito bhumana
+
+kah mgraha karanat
+
+## Page 34
+
+BENEDICTIONS FROM LorpD SIVA AND PARVATI 29
+
+visnuh sarvasrayah piurnah
+sa jatah sambhale bhavan
+
+Parasurama said: O great soul! Long ago, Brahma prayed to Lord
+Visnu, the shelter of all living entities and the Supreme Personality of
+Godhead, to destroy the influence of Kali. I understand that You are that
+same Supreme Personality, appearing 1n the village of Sambhala.
+
+Text 9
+matto vidyam sivadastam
+labdhva vedamayam sukam
+stmhale ca prryam padmam
+dharman samsthapayisyast
+
+You have learned the art of discharging arrows from Me. You will
+imbibe transcendental knowledge from Sukadeva Gosvami, and You will
+be awarded a powerful weapon by Lord Siva. Thereafter, You will marry
+a woman named Padma from the island of Simhala Your mission 1s to re-
+establish sandtana-dharma.
+
+Text 10
+tato digvyaye bhiipan
+dharmahman kalipriyan
+nigrhya bauddhan devapm
+marufica sthapayissyasi
+
+Thereafter, You will set out to conquer the entire world and in
+the course of that conquest, You will defeat many sintul kings who
+are representatives of Kali. You will also annihilate many followers of
+
+Buddhism and finally, You will entrust the responsibility of ruling the
+world to Devapi and Maru
+
+Text 11
+vayame taistu santustah
+s@dhukrtyath sadaksmah
+yayfiam danam tapah karma
+karisyamo yathocitam
+
+lam fully satisfied just to know that You will perform these pastimes
+and so there ts no need for any other daksina When the principles of
+
+## Page 35
+
+30 Sri KALki PURANA
+
+religion are re-established, then people will perform sacrifice, give charity,
+and undergo austerity without impediment.
+Text 12
+ityetat vacanam srutea
+namaskratva munim gurum
+viuvoda kesvaram devam
+
+gatva tustava sankaram
+
+After hearing these words of Parasurama and offering him obeisances
+three times, Lord Kalki, the master of the demigods, approached Lord
+Mahadeva and began to offer him prayers.
+
+Text 13
+pwayitva yathanyayam
+sivam santam mahesvaram
+pranipatyasu tosam tam
+dhyatva praha hrdi sthitam
+
+After offering His respectful obeisances to Lord Siva, who 1s very
+easily pleased, and worshiping him with devotion, Lord Kalki began to
+speak, keeping His mind fully under control.
+
+Text 14
+kalharuvaca
+gaurmatham visvanatham
+_smanayam bhiitavasam
+vasuki kanthabhusam tryaksam
+paticasyadi devam puranam
+
+vande sandrananda sandohadaksam
+
+Lord Kalki sard: O Lord Sankara, you are the oldest of all, the husband
+of Gauri, the lord of the universe, the only protector of the living entities,
+and the shelter of everyone. Your neck 1s decorated with the serpent,
+Vasuki, you have three eyes and five heads, you are always absorbed in
+transcendental ecstasy, and you award liberation to your devotees I offer
+my obeisances unto you
+
+Text 15
+yogadhisam kamanasam
+
+karalam ganga sangaklinna
+
+## Page 36
+
+BENEDICTIONS FROM LORD S1tvA AND PARVATI 31
+
+murddhanamisam jatajutato
+pariksipta bhavam mahakalam
+
+candrabhalam namami
+
+You are the lord of mystic yoga and the destroyer of lusty desires.
+Your form 1s fearful to behold, your head 1s always wet with the water of
+the Ganges, the matted hair on your head looks most enchanting, your
+forehead 1s decorated with a mark of the halt moon, and you are the
+personification of mahda-kdla. | offer my obeisances unto you.
+
+Texts 16-17
+smasdnastham bhutavetala sangam
+nana sastrath khadaga suladibhisca
+vyagrat yugra vahavo lokandse
+yasya krodhad dhataloko’stameti
+
+vo bhittadih patica bhutath
+sisrksuh tanmatratma kalakarma
+svabhavath prahrtyedam prapva
+jivatvamiso brahmanando
+
+ramate tam namamt
+
+You frequent crematoriums in the company of ghosts and hobgoblins,
+and you carry a trident and other weapons in your hands At the time
+of annihilation, the entire creation 1s burnt to ashes by the blazing fire
+emanating from your anger. The conditioned souls are born in this world
+under the influence of false ego, and their bodies are made of the five
+gross material elements. You are the lord ot the mode of ignorance, and
+thus you are one of the directors of the material universe Although you
+are involved in universal affairs, you always remain aloof from material
+association as you remain absorbed in transcendental ecstasy | offer my
+obeisances unto you
+
+Teat 18
+sthitau cisnuh sare ayisnuh
+suratma lokan sadhun
+dharmasetun vibhars:
+brahmadyase yo'bhimant
+
+## Page 37
+
+32 Sri Karki PURANA
+
+gunatma savdadyangaistam
+paresam bhajami
+
+I worship Lord Siva, the protector of the universe and the Supersoul of
+all living entities He 1s always victorious, being a qualitative incarnation
+of Lord Visnu, and He delivers saintly persons by protecting the principles
+of religion. He 1s the personification of transcendental sound, a reservoir
+of divine qualities, and the possessor of great intelligence.
+
+Text 19
+yasyajnaya vayavo vant
+loke yvalatyagnth savita yan
+tapyan sutamsuh khe tarakath
+sagrahaisca pravarttate
+tam paresam prapadye
+By your order the wind blows, fire burns, the sun distributes heat
+and light, and the moon, planets and stars illuminate the sky. I offer my
+obeisances unto you.
+Text 20
+yasyasvasat sarvadhatn dharitrt
+devo varsat yambu kalah pramata
+merurmadhye bhuvandanajica bhartté
+
+tamisanam visvarupam namami
+
+By your order, the earth sustains all moving and non moving entities,
+Indra showers rain, the time factor divides the duties of everyone, and
+Mount Sumeru, which 1s the shelter of the universe, remains fixed at the
+center I offer my humble obeisances to the universal form of Lord Siva.
+
+Text 21
+itt kalkistavam srutea
+suvah sarvatma darsanah
+saksat praha isannisah
+parvati sahito’ gratah
+
+After hearing these prayers, Lord Siva, being omniscient, appeared
+before Lord Kalki with Parvati and spoke to Him while smiling grandly.
+
+## Page 38
+
+BENEDICTIONS From Lorp Siva AND PARVATI 33
+Text 22
+kalkeh samsprsya hastena
+samasta vayavam muda
+tamaha varaya prestha
+varam yatte’ bhi kamksitam
+
+Lord Siva caressed the entire body of Lord Kalki with his hands and
+then said: O foremost of all beings, please ask from me the benediction
+You desire.
+
+Text 23
+tvaya krtamidam stotram
+ye pathant jana bhuvr
+tesam sarvartha siddhihsya
+Gdtha loke paratra ca
+
+Anyone on this earth who faithfully hears the glorious prayers that
+you have offered me will achieve all kinds of perfection, both in this life
+and in the next.
+
+Text 24
+uidyarthim capnuyad vidyam
+dharmarthim dharmam apruyat
+kaman avapnuyat kam:
+
+pathanat srvanadapr
+
+If a student recites these prayers, his education will become fruitful,
+if a plous person recites these prayers, he will attain pious merit, and
+if a sense enjoyer recites these prayers, he will enjoy all kinds of sense
+gratification. Anyone who recites or hears these prayers will have all his
+desires fulfilled.
+
+Text 25
+tvam garudam ida casvam
+kamagam bahurupmam
+sukamenafica sarvayiam
+maya dattam grhana bhoh
+
+This horse was manifested from Garuda, and it can go anywhere at
+will and assume many different forms. Here also 1s a parrot that knows
+
+## Page 39
+
+34 Sri Karki Purana
+
+everything—-past, present, and future. I would like to offer You both the
+horse and the parrot and so please accept them
+
+Text 26
+sarvasastrastra vidvamsam
+sarvavedartha paragam
+jayinam sarvabhutanam
+
+tvam vadisyanti manavah
+
+By the influence of this horse and parrot, the people of the world will
+know You as a learned scholar of all scriptures who 1s a master of the art
+of releasing arrows, and thus the conqueror of all.
+
+Text 27
+ratnat sarum kardlafica
+karavala mahaprabham
+grhana gurubharayah
+prthwya bhara sadhanam
+
+1 would also like to present You this sharp, strong sword and so please
+accept it. The handle of this sword 1s bedecked with jewels, and it 1s
+extremely powerful. As such, this sword will help You to reduce the heavy
+burden of the earth.
+
+Text 28
+itt vaca asrutya
+namaskrarya mahesvaram
+sambhala grama gamat
+
+turagena tvaranvi tah
+
+After hearing all this, Lord Kalki offered His obeisances and then
+departed for the village of Sambhala, riding on the back of the horse
+given by Lord Siva.
+
+Text 29
+pttaram mataram bhratan
+namaskrtya yathavidhi
+sarvam tadvarnaya masa
+
+jamadagnyasya bhasitam
+
+## Page 40
+
+BENEDICTIONS From Lorp Siva AND Parvati 34
+
+Upon arriving home, Lord Kalki offered his respectful obeisances
+to His father, mother, and brothers. He then narrated whatever had
+happened and told them about the orders of His guru, Parasurama
+
+Text 30
+sivasya varadananca
+kathayitva subhah kathah
+kalkth paramatejasut
+ynatbhyo’ pyavadan muda
+
+The unlimitedly powerful Lord Kalki also described the benedictions
+He had received from Mahadeva. Thereafter, the Lord happily met the
+other brahmanas of the village and also informed them of all that had
+transpired.
+
+Text 31
+gargya bhargya visalad
+yasta cchrutva nanditah sthitah
+kathopa kathanam jatam
+
+sambhala gramavasmam
+
+When great personalities, such as Gargya, Bhargya, and Visala heard
+about these pastimes of Lord Kalki, they became extremely pleased.
+From that time onwards, the inhabitants of Sambhala simply absorbed
+themselves in repeatedly hearing and chanting the glories of Lord Kalki.
+
+Text 32
+visakha yupa bhiipalah
+srutva tesafica bhasitam
+
+pradurbhavam harermene
+kalinigraha karakam
+
+King Visakhayiipa also came to hear these wonderful discussions of
+Lord Kalki and thus he became convinced that the Supreme Lord Hari
+had incarnated in this world to destroy the influence of Kali-yuga.
+
+Text 33
+mdahismatyam nyapure
+
+yagadana tapobratan
+
+## Page 41
+
+36 Sri Karki PURANA
+
+brahmanan ksatrvyan vaisyan
+sudranapi hareh priyan
+
+King Visakhayapa could see that the people of his capital, Mahismati,
+including the brahmanas, ksatriyas, vaisyas and Sudras, had suddenly
+experienced a change of heart so that they were now performing sacrifices,
+giving charity, and undergoing austerities.
+
+Text 34
+svadharma nuratan drstava
+dharmastho’ bhunnrpah svayam
+prayapalah suddhamanah
+pradur bhavacchriyah pateh
+
+Due to the influence of the incarnation of the Supreme Lord, the
+husband of goddess Laksmi, everyone tn the capital became a follower of
+religious principles The king also became pious, so that he maintained
+his subjects with a pure heart.
+
+Text 35
+adharma vamsyastan drstva
+janan dharma kvyaparan
+lobha nrtadayo jagmus
+tadesat duhkhitan bhrsam
+
+Those who had been born in sinful families also became inclined to
+executing religious principles. When the greedy, wretched people who
+were totally devoid of truthfulness, being servants of Kali, saw this change
+of heart, they became very unhappy and left the country.
+
+Text 36
+Jaitram turaga maruhya
+khadagatica vrmalaprabham
+damsitah sasaram cépam
+
+grahitvagat puradvahih
+
+Thereafter, Lord Kalki picked up His brightly shining trident and
+bow and arrows and set out from His palace, riding upon His victorious
+horse and wearing His amulet.
+
+## Page 42
+
+BENEDICTIONS FROM LORD SIVA AND PARVATI
+
+Text 37
+visakhayupa bhupalah
+prayat sadhwana priyah
+kalkim drastum hareram sa
+méavirbhiitarica sambhale
+
+When the king of that country, Visakhayipa, who was very dear to
+saintly persons, realized that Lord Kalki, the incarnation of the Supreme
+Lord, Hart, had appeared, he went to see Him
+
+Texts 38-39
+kavim prayiam sumantufica
+puraskratya mahaprabham
+gargya bhargya visalaisca
+jnaubmh parwantam
+
+uisakhayupo dadrse
+candram taraganairwa
+puradvahth surair yadvad
+
+mndramuccaih sravahsthitam
+
+The king saw that, just as Indra, the king of heaven, rides on the back
+of his horse, Uccahisrava, 1n the midst of the demigods, and as the moon
+is surrounded by all the stars, Lord Kalki was seated on the back of His
+horse, surrounded by many greatly intelligent and powerful personalities,
+including Sumanta, Gargya, Bhargya, and Visala.
+
+Text 40
+usakhayupo'vanatah
+samprahrasta taniuruhah
+kalkeralo kanat sadyah
+
+piurndtmam vaisnavo’ bhavat
+
+As soon as King Vigakhayiipa saw Lord Kalki, he became stunned in
+ecstasy and the hairs of his body stood on end. He offered his obeisances
+
+to Lord Kalki so that by His mercy, the king became a devotee of the
+Lord.
+
+37
+
+## Page 43
+
+38 Sri Karki Purana
+
+Text 41
+saha rayna vasan kalkth
+dharménaha puroditan
+brahmana ksatriya visima
+
+asramanam samasatah
+
+Lord Kalki lived with King Visakhayiipa for some time In the course
+of his stay, Lord Kalki briefly described to the king the principles of four
+varnas and four dramas.
+
+Text 42
+maméamsan kali wbhrastan
+itt mayjanma sangatan
+raga sinyasca asvamedhabhyam
+
+mam yajasva samahitah
+
+(Lord Kalk: said:) Many pious human beings have become degraded
+in this age of Kali. But because of My presence, they will all become
+plous once again. Now I would like that all of you worship Me by the
+performance of a Rayjasiiya sacrifice and a horse sacrifice.
+
+Text 43
+ahameva paroloko
+dharmascaéham sandtanah
+kala suabhéva samskdrah
+karmanu gatayo mama
+
+I am the supreme destination for everyone. | am the objective of
+eternal religious principles. Religion, sin, destiny, the time factor, nature,
+deeds, and samskdras are My followers.
+
+Text 44
+soma suryakule jatau
+devapi marusamynakau
+sthapayitva kratayugam
+
+krtva yasyam sadvatim
+
+I will install King Devap: of the Candra dynasty and King Maru
+of the Sirya dynasty upon the throne to rule the world, and after
+the commencement of Satya-yuga, I will return to My own abode,
+
+Vaikuntha.
+
+## Page 44
+
+BENEDICTIONS FRoM LoRD SIVA AND PARVATI
+
+Text 45
+itt tadvacanam sratva raja
+halkim harm prabhum
+pranamya praha saddharman
+
+vaisnavan manasepsitan
+
+After hearing this, King Visakhayipa offered his respectful obeisances
+to Lord Kalki and then further inquired about Vaisnava dharma from
+Him.
+
+Text 46
+i nrpavacanam msamya kalkih
+kalikula naésana vasanavatarah
+
+nyqjana parisad vinodakan
+madhura vacobhiraha sadhurdharman
+
+After hearing the king’s inquiries, the Supreme Lord, Kalki, who had
+incarnated to destroy the dynasty of Kali, began to speak very sweetly
+about the religious principles that are followed by saintly persons, just for
+the pleasure of His servants.
+
+Thus ends the translation of the third chapter of Sr7 Kalki Purana.
+
+39
+
+## Page 45
+
+CHAPTER FOUR
+Padmavati Receives a Benediction From Lord Siva
+
+Text 1
+suta uvaca
+tatah kalkth sabha madhye
+rajamano raviryatha
+vabhase tam nrpam dharma
+mayo dharman duyapriyan
+
+Siita Gosvami said: O great sages, thereafter, the Supreme Lord, Kalki,
+who 1s the personification of religious principles, described to the king
+the duties of brahmanas while sitting in the royal assembly, appearing just
+hke a brilliant sun.
+
+Text 2
+kalkiruvaca
+kalena brahmano nase
+pralaye mayi sangata
+ahameva samevagre
+nanyat karyamidam mama
+
+Lord Kalki said: When the final dissolution of the universe will take
+place, everyone, even Lord Brahma, will be annthilated. At that time, the
+entire universe will become merged within Me. In the beginning, only I
+existed, and thereafter, all living entities and elements emanated from
+Me.
+
+Text 3
+prasupta loka tantrasya
+dvata hmasya catmanah
+mahanisante rantum me
+samudbhuto virat prabhuh
+
+After the final dissolution, the entire universe remained unmanifest
+and there was no one except the Supersoul. Then, at the end of that long
+and dark night, | manifested My universal form in order to enact the
+pastime of material creation
+
+## Page 46
+
+PADMAVATI RICEIVES A BENEDICTION FROM LORD SIVA
+
+Text 4
+sahasrasirsa purusah
+sahasraksah sahasrapat
+tadangajo’ bhavat brahma
+vedavakro mahaprabhuh
+
+That universal form of Mine has thousands of heads, thousands of
+eyes, and thousands of legs. From the mouth of the universal form came
+the supremely powerful Brahma, who spoke the four Vedas
+
+Texts 5-6
+jwopddher mamamsacca
+prakrtya mayaya svaya
+brahmopahih sa sarvajiio
+
+mama vagveda sasitah
+
+sasarja pvajatant
+kalamavasa yogatah
+deva manvadayo lokah
+
+sapraja payah prabhuh
+
+In accordance with My order, which 1s as good as the Vedas, the
+omniscient Brahma began his work of creating the living entities, who
+are My separated parts and parcels, as well as the time factor, and the
+
+planetary systems In the beginning, Brahma created the progenitors,
+Manus, demigods, and human beings
+
+Text 7
+gunmya mayayamsa me
+nanopadhau sasarjire
+sopadhaya ime loka
+deva sasthanu jangamah
+
+Although all of them are My parts and parcels, they engage in different
+kinds of activities by the arrangement of mayd, under the dictation ot the
+three modes of material nature As a result, all moving and non-moving
+living entities are materially designated.
+
+41
+
+## Page 47
+
+42 Sri Karki PuRANA
+
+Text 8
+mamamsa mayaya srsta
+yato mayyavisan laye
+evam vidha brahmana ye
+
+macchartra madatmikah
+
+All moving and non-moving living entities are My separated parts
+and parcels, although they appear to be products of maya. At the end,
+everyone will merge into Me. The brahmanas and other members of the
+social order are just like parts of My body.
+
+Text 9
+mamuddharant bhuvane
+yaya dhyana satkiyah
+mam prasevanti samsantt
+tapo dana kryasviha
+
+The brahmanas always worship Me by the performance of devotional
+activities, such as sacrifice, study of the Vedas, undergoing austerities,
+and giving charity.
+
+Text 10
+smarant amodayanty eva
+nanye devadayas tatha
+brahmana vedavaktaro
+veda me mirttayah parah
+
+The twice-born devotees who preach the purport of the Vedas, and
+who are themselves personifications of the Vedas, please Me to such an
+extent that none of the demigods or anyone else can.
+
+Text 11
+tasmadime brahmana jastath
+pustastni jagayjanah
+jaganti me sariran
+
+tatpose brahmano varah
+
+The Vedic knowledge has spread only by the work of those who are
+twice-born. All of the living entities in this world, who are My parts
+and parcels, are being protected by the Vedas Therefore it 1s to be
+
+## Page 48
+
+PADMAVAT! RECEIVES A BENEDICTION From Lorp Siva 43
+
+concluded that those who are twice-born are the principal instruments
+for maintaining My body
+
+Text 12
+tenaham tan namasyami
+suddha sattva gunasrayah
+tato jaganmayam purvam
+
+mam sevante’khilasrayah
+
+That 1s why | offer My obetsances to the brahmanas from My position
+in the mode of pure goodness. Those who are twice-born are the shelter
+of everyone and they serve Me, considering Me to be the basis of the
+entire universe.
+
+Text 13
+visdkhayupa uvaca
+viprasva laksanam bruhi
+tvadbhaktth ka ca tatkrta
+yatas tavanugrahena
+vagvana brahmanah krtah
+
+Visakhaytpa said: My dear Lord, kindly describe to me the
+characteristics of a genuine brahmana. In what way do they render
+devotional service unto You? It appears that their words carry the weight
+of Vedic injunctions, by Your mercy.
+
+Text 14
+kalkaruvaca
+veda mamisvaram prahur
+avyaktam vyaktimatparam
+te veda brahmana mukhe
+nana dharme prakasitah
+
+Lord Kalki said: I exist bevond the realm of visible moving and non-
+Moving entities, as described 1n the Vedas | am celebrated as the non-
+manifested Supreme Personality of Godhead. The Vedas are manifested
+in various forms through the mouths of the brahmanas
+
+Text 15
+yo dharmo brahmananam hi
+sa bhaktir mama puskala
+
+## Page 49
+
+44 Sri KALKI PURANA
+
+tayaham tositah srisah
+
+sambharami yuge yuge
+
+The religion of the brahmanas 1s to render pure devotional service
+unto Me Being pleased by their devotional service, {| incarnate, along
+with Goddess Laksmi, in every millennium
+
+Text 16
+urdhtantu trirtam sutram
+sadhava nirmitam sanath
+tantu trayam adhowrttam
+
+vyfiasutram vidurbudhah
+
+A sacred thread should be prepared by either married or unmarried
+brahmana ladies They should take three strands ot thread and fold them
+to make six circles
+
+Text 17
+trigunam dadgranthi vuktam
+veda pravara sammitam
+strodharan nabhimadhyat
+
+prstharddha parmanakam
+
+According to the injunctions of the Vedas, the sacred thread should
+consist of six circles of thread. It should divide one’s back into two halves
+as 1t hangs from the shoulder to the navel
+
+Text 18
+yaquurvidam nabhimitam
+sama gana mayam vidhih
+vamaskandhena «idhrtam
+yajnasutram balapradam
+
+Such a sacred thread should be worn by brahmanas who study the
+Yajur Veda The sacred thread for those who study the Sama Veda should
+hang below the navel This is the Vedic injunction When the sacred
+thread 1s placed over the left shoulder, 1t gives one strength
+
+Text 19
+madbhasma candanadyaistu
+dharavet tilakam duyah
+
+## Page 50
+
+PADMAVATI RECFIVES A BENEDICTION FROM Lorb Siva
+
+bhale tripundam karmangam
+
+kesa paryantam wyralam
+
+It is the duty of those who are twice-born to mark the forehead with
+tilaka made of clay, ash, or sandalwood paste Marking the body with tilaka
+is a limb of devotional service The bradhmanas decorate their toreheads
+with taka, beginning from the nose up to the hair line
+
+Text 20
+pundram anguli manantu
+tripundram tat tridha krtam
+brahmavisnu sivavasam
+
+darsanat papa nasanam
+
+The length of one’s tilaka should be three fingers It 1s said that Brahma,
+Visnu and Siva reside within the marking of tulaka. Theretore, simply by
+seeing a person’s tilaka, one becomes freed from sinful reactions
+
+Text 21
+brahmandnam kare st arga
+vaco veda kare havih
+gatre trthani ragasca
+nadiyu prakrus trvrt
+
+The heavenly planets are present in the hands of a brdhmana Their
+worlds are non-different from the Vedas Sacriticial ingredients also exist
+in the hands of a brahmana In his body reside all the holy places, and
+attachment for religious principles, as well as the three modes of material
+nature, resides within his navel
+
+Text 22
+savitrt kantha kuhara
+hrdayam brahma samyfiitam
+tesam stanantare dharmah
+
+prsthy dharmah prakn ttitah
+
+The Gayatri mantra ts a brahmana’s necklace, and his heart 1s the
+tesidence of the Supreme Brahman Religious principles reside on a
+brahmana’s chest and irreligion resides on his back
+
+45
+
+## Page 51
+
+46 Sri KaLki PuRANA
+
+Text 23
+bhudeva brahmana rajan
+pujya vandya yaduktibhih
+caturasramya kusala
+
+mama dharma pravarttakah
+
+O King, the brahmanas are considered to be the real leaders of society
+and so it 1s the duty of everyone to worship them, and show them respect
+by greeting them cheerfully. Even though the brahmanas may belong to
+
+any of the four dsramas, they always preach My mission as their prime
+occupation
+
+Text 24
+balascajx jana urddhas
+tapourddha mama prryah
+tesam vacah palayitum
+
+avatarah krta maya
+
+Even young bradhmana boys are enriched with transcendental
+knowledge and austerity. For this reason, they are very dear to Me.
+Indeed, I incarnate within the material world just to show the truth of
+their statements, which are always based upon the Vedas.
+
+Text 25
+mahabhagyam brahmananam
+sarva papa pranasanam
+kalidosa haram srutva
+
+mucyate sarvato bhayat
+
+By hearing these discussions of those who are twice-born, good
+fortune will prevail as all of one’s sinful reactions are vanquished. Indeed,
+by such submissive hearing, one can be freed of the contamination of Kali
+so that no anxtety or fear will be able to enter his heart.
+
+Text 26
+itt kalkiwacah srutia
+kalidosa vindsanam
+pranamya tam suddhamanah
+
+pravyayau vaisnavagranh
+
+## Page 52
+
+PADMAVATI REVLEIVES A BENEDICTION FROM Lorp Siva 47
+
+After hearing these discussions, which destroy the contamination of
+Kali, from the lotus-like mouth of Lord Kalki, the exalted Vatsnava king,
+Visakhayiipa, departed with a purified mind.
+
+Text 27
+gate rajani sandhyayam
+swadatta suko budhah
+canttva kalkipuratah
+stutva tam puratah sthitah
+
+The day passed and evening approached when the supremely
+intelligent Suka, who was favored by Lord Siva, arrived before Lord Kalki
+after wandering about at his will. He offered his obetsances to Lord Kalki
+and then stood before Him with folded hands.
+
+Text 28
+tam sukam praha kalkistu
+sasmitam stutt pathakam
+svagatam bhavata kasmad
+desat kim khaditam tatah
+
+Upon seeing Suka, who was reciting prayers, Lord Kalki smilingly
+said: May you achieve auspiciousness. Where are you coming from? What
+
+have you eaten?
+
+Text 29
+suka uvaca
+srnu natha vaco mahyam
+kautuhala samanvitam
+
+aham gatasca jaladher
+madhye stmhala samyniake
+
+Suka said: My dear Lord, I will tell You something of great interest
+and so please hear me with attention | have just visited the island known
+as Simhala, which 1s situated in the middle of the ocean
+
+Text 30
+yathavrattam duipagatam
+caritram sravanapriyam
+brhadrathasya nrpateh
+
+hanyayas caritamrtam
+
+## Page 53
+
+48 Sri Karki PuRANA
+
+Please listen to the wonderful characteristics of that island, which 19
+ruled over by a king named Brhadratha. He has a beautiful daughter whose
+qualities are like nectar, and which are very pleasing to hear about
+
+Text 31
+kaumudyam tha jataya
+Jagatam papa nasanam
+caritam simhale duipe
+
+caturvarnya janavrte
+
+This girl was born from the womb of Queen Kaumudi. One who heas
+of her divine qualities 1s relieved of all sinful reactions That island 1s
+inhabited by the members of all the four varnas
+
+Text 32
+prasada harmya sadana
+pura raji virajate
+ratna sphatka kudyadi
+
+svarna bhati virajte
+
+The island ts decorated with beautiful palaces, residential quarters,
+agricultural fields, and cities. Many gates and pillars bedecked with jewels
+and crystal have been erected here and there. Indeed, the entire island
+shines like gold
+
+Text 33
+seribhir uttama vesabhih
+padminibhih samavrte
+
+saobhth sarasair hamyair
+
+upakula jala kule
+
+On that island reside many nicely dressed women who are decorated
+with auspicious characteristics There are many beautiful lakes in which
+cranes and swans are seen playing.
+
+Text 34
+bhrnga ranga prasangadhaye
+padmath kalhara kundakath
+nanambuja latajyala
+
+vanopa vanamanidate
+
+## Page 54
+
+PADMAVATI RECEIVES A BENEDICTION FROM Lorp Siva 49
+
+These lakes were filled with lotus flowers and water lilies, and they
+are surrounding bv gardens filled with jasmine and other varieties of
+flowers. Bumblebees hover over those flowers, being intoxicated by their
+aroma and honey Everywhere there are seen beautiful gardens, bushes,
+and creepers
+
+Texts 35-36
+dese brhadratho raja
+mahdavala parakamah
+tasya padmavat: kanya
+dhanya reje yasasvint
+
+bhuvane durlabha loke
+pratuma varavarnint
+kama moha kan cdru
+
+caritra citra nirmita
+
+That beautiful island 1s ruled by the pious King Brhadratha. His
+daughter, named Padmavati, 1s certainly glorious and possessed of a
+spotless reputation. Such a talented girl, possessing matchless beauty,
+1s very rarely found within the three worlds. Just by seeing her, one 1s
+reminded of Rati, the enchanter ot the mind of Cupid She 1s a wonderful
+creation of the creator and her characteristics are simply wonderful.
+
+Text 37
+siva seva para gaurt
+vatha piya susammata
+sakhibhth kanyaka bhisca
+
+japa dhyana parayana
+
+She worships Lord Siva, along with her companions As Parvati ts
+respected and worshiped by all, this princess 1s adored by one and all
+In the association of her friends, she remains fully absorbed in chanting
+mantras and meditating on the Supreme Personality of Godhead
+
+Text 38
+jratva taica harer laksmim
+samud bhutam varanganam
+harah pradura bhuta saksat
+
+parvatya saha harsitah
+
+## Page 55
+
+50 Sri Karki PurRANA
+
+Understanding that Kamala, whose face 1s exquisitely beautiful and
+who 1s very dear to Lord Hani, had incarnated within this world, Sankara,
+the lord of the demigods, along with Parvarti, joyfully came to see her.
+
+Text 39
+sa tamalokya varadam
+SIvam gaurt samanvitam
+layttadho mukhi kificm
+ovaca puratah sthitah
+
+Upon seeing Lord Siva and Parvati before her, eager to bestow upon
+her a benediction, Padmavati shyly stood with her head bent down, being
+unable to utter a sound.
+
+Text 40
+haras tamaha subhage
+tava narayanah panh
+panim grahisyati muda
+nanyo yogyo nrpatmajah
+
+Lord Siva said: O fortunate one, you will recerve Lord Narayana as
+your husband. He will joyfully accept your hand 1n marriage. Rest assured
+that there is no other prince on earth who 1s a suitable match for you.
+
+Text 41
+kamabhavena bhuvane
+ye tvam pasyanti maénavah
+tenaiwva vayasa naryo
+
+bhavisyantyapt tatksanat
+
+Anyone who lustily casts his glance upon you will immediately be
+transformed into a woman, regardless of his age.
+
+Text 42
+deva suras tatha naga
+gandharvas caranadayah
+tvaya rantum yata kale
+bhavisyant: kila strvyah
+
+## Page 56
+
+PADMAVAT! RECEIVES A BENEDICTION FROM Lorp Siva
+
+Whether they be demigods, demons, Nagas, Gandharvas, Caranas,
+or anyone else, if they simply desire to enjoy a conjugal relationship with
+you, they will immediately transform into women
+
+Texts 43-44
+vina narayanam devam
+tvatpant grahanarthi nam
+grham yahi tapas tyaktva
+
+bhogayatanam uttamam
+
+ma ksobhaya hareh patni
+kamale vimalam kuru
+
+itt dattva varam somas
+tatrawvantardadhe harah
+
+However, this curse 1s not applicable to Lord Hari, who 1s your only
+husband. It 1s only applicable to others. Now, you may give up your
+penance and return home. Do not give any further trouble to your tender
+body, which ts the object for the attainment of great happiness. O lover of
+Hart! O Kamala! Please take care of your soft and gentle body
+
+After awarding his benediction to Padmavati, Lord Siva disappeared
+from view.
+
+Text 45
+haravaram iti sa nisamya padma
+samucitam atma manoratha prakasam
+vikasita vadana pranamya somam
+
+nygjana kalayam avivesa rama
+
+Having received her desired benediction from Lord Siva, Padmavats's
+happiness knew no bound, so that her face blossomed brightly. She then
+offered her obeisances to Uma and Mahadeva and returned home
+
+Thus ends the translation of the fourth chapter ot Sri Kalki Purana
+
+51
+
+## Page 57
+
+CHAPTER Five
+Padmavati’s Svayamvara
+
+Text 1
+suka uvaca
+gate bahutithe kale
+padmam wiksva Brhadrathah
+nirudha yauvanam putrim
+
+uismitah papasankaya
+
+Suka said: After a long time had passed, King Brhadratha realized
+that his daughter, Padmavati, had grown up. Fearing some misbehavior
+on her part, the king began to consider the matter very seriously
+
+Text 2
+kaumudim praha mahicrm
+padmodvahe’tra kam nrpam
+varayisyami subhage
+
+kulasila samanvitam
+
+He addressed his queen: O fortunate one, I am considering handing
+over my daughter to a pious king who belongs to a noble family and thus
+accept him as my son-in-law.
+
+Text 3
+sa tamaha patm dew
+sivena pratibhasitam
+visnurasyah patiriti
+
+bhavisyati na samsavah
+
+However, the queen said. O King, the lord of Parvati has already
+assured us that Padmavati’s husband will undoubtedly be Lord Hart
+Text 4
+ut tasya vacah srutia
+raga praha kadet tam
+visnuh sarva guhavasah
+
+panimasva grahisyat
+
+## Page 58
+
+PADMAVALIZUS SVAyaMVARA
+
+Upon hearing this, King Brhadratha said: When will Lord Hari, who
+1s present within the hearts of all living entities, accept our daughter as
+His wife?
+
+Texts 5-6
+na me bhagyodayah kascid
+vena jamataram harm
+varayisyamt kanyarthe
+
+vedavatya muneryatha
+
+imam svayavaram padmam
+padmamuva mahodadheh
+mathane’suradevanam
+tatha visnur grahisyatt
+
+I do not feel that I am so fortunate as to be able to hand over my
+daughter to Lord Visnu. What piety have I accumulated so that I will be
+able to accept Lord Hart as my son-1n-law? Therefore, just like the Munt’s
+daughter, Vedavati, or Laksmi, who appeared from the ocean of milk as it
+was being churned, | would like to arrange a svayamvara for my jewel-like
+daughter, Padmavati. Let Lord Hari come and accept her in this way.
+
+Text 7
+wt bhupaganan bhupah
+samahiiya puraskrtan
+gunasila vayoripa
+
+vidyadravina samurtan
+
+Having made this resolution, the king invited all the other kings of
+the country who were adorned with good qualities, of good character,
+learned, very wealthy, and in the prime of their youth
+
+Text 8
+svayamvarartham padmayah
+stmhale bahumangale
+
+vicarya karayamasa
+
+sthanam bhupa nwesanam
+
+To insure the svayamvara’s grand success, King Brhadratha
+made auspicious arrangements throughout his kingdom. He ordered
+
+## Page 59
+
+54 Sri Katkt PURANA
+
+religious rituals to be performed throughout the land, and he also made
+arrangements for the stay of the invited guests
+
+Text 9
+tatrayata nrpah sarve
+viwwaha krta niscavah
+nyasamnyath parwrtah
+svarna ratna vibhusitah
+
+Meanwhile, many kings having the desire to accept Padmavati’s hand
+in marriage arrived in that island fully decorated with golden ornaments
+and accompanied by their armies.
+
+Text 10
+rathan gaya nasvavaran
+samdarudha mahabalah
+svetacchatra krtacchayah
+svetacamara vyitah
+
+Some kings and princes arrived on chariots, some on elephants, and
+yet others came riding on beautiful horses. A white umbrella was held
+over the heads of these powerful kings as they were fanned with white
+cadmaras
+
+Texts 11-13
+sastrastra tejasd dipta
+devah sendra wabhavan
+rucirasvah sukarma ca
+madirakso drdhasugah
+
+krsnasarah paradasca
+jemutah kruramardanah
+
+kasah kusambur vasuman
+kankah krathana safyayau
+
+gurumitrah pramathi ca
+vyrmbhah sriyayo’ ksamah
+ete canye ca bahavah
+
+samayata mahabalah
+
+## Page 60
+
+PADMAVATI™S SVAYAMVARA
+
+wn
+wr
+
+Because of the brightly shining weapons in their hands, these
+princes appeared as beautiful as Indra, surrounded by all the demigods
+Among the kings who arrived there were Ruciragva, Sukarma, Madiraksa,
+Drdhasuga, Krsnasara, Parada, Jimuta, Kriiramardana, Kaga, Kusambu,
+Vasuman, Kanka, Krathana, Safiyaya, Gurumitra, Pramathi, Viyrmbhah,
+Sriiyaya, and Aksama
+
+Text 14
+ulisuste ranga gata
+svasva sthanesu piyitah
+vadya tandava samhrstas
+
+citra malyam baradharah
+
+When the kings arrived at the svayamvara, they were respectfully
+greeted and thus they took their seats in a happy mood. A dancing and
+singing program then commenced for their pleasure Because of the
+presence of these illustrious rulers of men, the arena looked very colorful
+and enchanting
+
+Text 15
+nanabhoga sukhodriktah
+kama rama ratipradah
+tanalokya stmhalesah
+
+svam kanyam varavarnimim
+
+The eyes and minds of everyone who saw these aristocratic and
+powerful kings became filled with yoy. When everyone was comfortably
+seated, Brhadratha requested his associates to bring his uniquely beautiful
+daughter onto the stage.
+
+Text 16
+gaurim candraénaném syamam
+tarahara vibhusitam
+manimukta pravalaisca
+
+sarvamga alankrta subham
+
+Padmavati’s complexion was golden, and her face resembled the full
+moon She possessed all godly qualities, and she was decorated with a
+
+garland of flowers Her entire body was covered with jewels, pearls, and
+coral.
+
+## Page 61
+
+56 Sri Katkt PURANA
+
+Text 17
+kim mayam mohajananim
+kim va kamapriyam bhuvt
+rtipa lavanya sampattva
+
+na canyamtha drstvan
+
+When | saw Padmavati, I considered her to be the personification of
+maya, which bewilders everyone. Then again, | wondered whether she
+was Rati-devi herself, the beloved consort of Cupid, appearing upon the
+earth Although | have traveled throughout the heavenly planets, as well
+as on this earth, and indeed throughout the entire three worlds, | had
+never seen a more beautiful girl than Padmavati.
+
+Text 18
+svarge ksitau va patale’
+pyaham sarvatrago yadi
+pascad dasiganat kirnam
+sakhibhih parwaritah
+
+When Padmavati came out from the palace, hundreds of her
+companions and maid-servants surrounded her on all sides.
+
+Texts 19-21
+dauvarika vetrahastath
+sasitantah puradvahih
+purovandi gandkirnam
+
+prapaya masa tam sanaih
+
+nupurath kinkin bhisca
+kvanantim janamohinm
+svagatandm nrpandaiica
+
+kulasila gunén bahun
+
+srnvantt hamsa gamana
+ratnamdla karagraha
+
+ruciva panga bhangena
+
+preksant: lolakundala
+
+When the princess left the palace, she was protected by her personal
+guards, who were equipped with various weapons. Professional singers
+
+## Page 62
+
+PADMAVATI’S SVAYAMVARA
+
+walked before her as she arrived at the svayamvara arena An enchanting
+sound was created by her ankle bells and her earrings swung back and forth
+as she slowly entered within the midst of the assembled kings and princes,
+gazing in all directions, a flower garland in her hand. Padmavati was then
+informed of the family background and distinguishing characteristics ot
+all those who had come seeking her hand in marriage
+
+Text 22
+nrtyat kuntala sopana
+gamda mandala mandita
+kaficit smerollasad vakta
+dasana dyotadiputa
+
+Her hair swung to and fro as she glanced about the arena, and this
+increased the beauty of her cheeks. Her face appeared even more beautiful
+when she smiled, so that she resembled a fully blossomed lotus flower
+
+Text 23
+vedi madhydruna ksauma
+vasana kokilasvara
+riipa lavanaya panayena
+kretukama jagattrayam
+
+The waist of the princess was very thin, she was dressed in red garments,
+and her voice was pleasing to the ear, like the singing of acuckoo When |
+saw all of these manifestations of feminine attractiveness, | thought that
+the princess had decided to purchase the entire three worlds by paying
+the price of her exquisite beauty.
+
+Text 24
+samagatam tam prasamiksya bhupah
+sammohmim kama vimidha cittah
+petuh ksttau vismrta vastra sastrah
+rathasva matta dvipa vahanaste
+
+As soon as the assembled kings saw the jewel-like Padmavati, they
+became greatly afflicted by the arrows of the Cupid Indeed, they were so
+struck with wonder that that their weapons fell from their hands
+
+5
+
+4
+
+## Page 63
+
+58 Sri KALKkr PURANA
+
+Text 25
+tasvah smaraksobha niriksanena
+strtyo babhuvuh kamanwya rupah
+vrhannitamva stanabharanamrah
+
+sumadhyamas tatsmrt jatarupah
+
+However, as the kings gazed upon the princess with lusty desires,
+they suddenly transformed into females, much to their astonishment.
+Their bodily features, characteristics, and personalities became just like
+women. Their waists were thin and their figures were beautiful. Indeed,
+their beautiful bodies bent slightly forward due to the weight of their
+heavy breasts.
+
+Text 26
+vilasa hasa vyasanati citrah
+kantananah sona sarojanetrah
+strirupam atmanam aveksya bhiipah
+
+stémanva gacchan visadanuvrttya
+
+Their movements and smiles, as well as their dancing and singing
+skills became that of a woman. Their faces appeared charming, just like
+blooming lotus flowers. Upon finding themselves to be beautiful women,
+the kings followed Padmavati as 1f they were her companions.
+
+Text 27
+aham vatasthah paridharsitatma
+padma vivahotsava darsanakulah
+tasya vaco’ntarhrdi duhkhitayah
+
+srotum sthitah seritvamitesu tesu
+
+At that time, I climbed up into a banyan tree, desiring to watch the
+svavamvara of Padmavati. | was already very upset after seeing all that
+had taken place. 1 waited just to hear if Padmavati would express her
+unhappiness because all the kings had turned into women.
+
+Text 28
+janthi kalke ' kamala vilapam
+srutam vcitram jagatama dhisa '
+gate vivahotsava mangale sa
+
+sivam saranyam hrdaye nidhaya
+
+## Page 64
+
+Papmavati’s SvayamMvara
+
+O Lord Kalki, You are the master of the universe. Let me disclose to
+You the lamentations of Your consort, Kamala. while she was meditating
+upon her worshipable lord, Sankara.
+
+Text 29
+tan drstva nrpatin gajasva
+rathibhis tyaktan sakhitvam gatan
+stribhavena samanvitan anugatan
+padmam vilokyantike dina tyakta
+vidhusana vilikhat padamgulath
+kamint isam karttum nyanatham
+
+isvara vacasthathyam harim sa’smarat
+
+All the kings who came there, hoping to marry Padmavati, were
+rejected by their respective carriers, the elephants and horses, and even
+their soldiers. When they followed the princess as her companions, she
+took off all her ornaments and began to write something on the ground
+with her right toe. With a desire to make the words of Lord Siva come
+true, Padmavati fixed her mind on her own beloved Lord Har, the
+
+supreme controller
+
+Thus ends the translation of the fifth chapter of Sri Kalki Purana.
+
+## Page 65
+
+CHAPTER SIX
+
+Suka Goes To Simhala as the Envoy of Lord Kalki
+Conversation Between Padmavati And Suka
+
+Text 1
+suka uvaca
+tatah sa vismita mukhi
+padma nyqjanair vrta
+harim patim ctayantt
+provaca vimalam sthitam
+
+Suka said: Thereafter, while surrounded by her relatives and
+companions, and herself highly astonished, Padmavati addressed one of
+her friends, named Vimala, while still remembering her husband, Lord
+Hart.
+
+Text 2
+padmovaca
+trmale kim krtam dhatra
+lalate bkhanam mama
+darsanadapr lokanam
+
+pumsam stribhava karakam
+
+Padmavati said: O Vimala, 1s it my destiny, dictated by providence,
+that any man who desires me will turn into a woman?
+Text 3
+mamapt manda bhagyayah
+papinyah swa sevmam
+viphalatvam anupraptam
+
+vyamuptam yathosare
+
+lam extremely unfortunate and sinful. Just as sowing seeds on barren
+land 1s useless, my worship of Lord Siva has proved futile
+Text 4
+har laksmipath sarva
+Jagatém adhpah prabhuh
+
+## Page 66
+
+CONVERSATION BETWEEN PapDMAvaTit AND SUKA
+
+matkrte’pyabhilasam
+km karisyati jagatpatth
+
+Will the Supreme Lord, Hart, the master of the universe, controller of
+all controllers, and husband of Laksmi, ever accept me as His consort?
+
+Texts 5-6
+yadi sambhor vaco mithya
+yadi visnur namam smaret
+tada hamanale deham
+tyqjam han bhaévita
+
+kva caham manus dima
+kvaste devo janardanah
+nugrhita vidhatraham
+
+sivena parivanicita
+
+If the words of Lord Siva prove false, and if Lord Hari does not accept
+me, | will certainly end my life by entering fire while remembering the
+lotus feet of the Lord. Alas, 1 am a lowly human being. How insignificant
+lam and how great 1s Lord Hari, the master of the demigods! The creator
+must be angry with me, otherwise why would Sankara, whose forehead 1s
+decorated with the mark of the moon, deceive me?
+
+Text 7
+visnuna ca parityakta
+madanya katra pwat
+
+Iam still living, even after being reyected by Lord Hart. Who other
+than me would remain alive in such a situation?
+
+Text 8
+i nanavilapnya
+vacanam socandsrayam
+padmaya sdrucestayah
+srutvayda tastavantke
+
+O Lord Kalki, when I heard these lamentations of Padmavati, whose
+character 1s spotless, I could not wait any longer, and so I approached You
+without delay.
+
+## Page 67
+
+62 Sri KALKI PURANA
+
+Text 9
+sukasya vacanam srutva
+kalkth parama vismitah
+tam jagada punaryahi
+padmam bodhayitum privam
+
+After hearing these words of Suka, Lord Kalki felt elated He said My
+
+dear Suka, you must go at once and pacify my beloved Padmavati
+
+Text 10
+matsandesa baho bhutva
+madrupa guna kirttanam
+sravayitva punah kira
+
+samayasyast bandhava
+
+I consider you to be My best well wishing friend Please go to
+Padmavati as My messenger, and after describing My beauty and qualities
+to her, return to Me
+
+Text 11
+sa me priva patiraham
+tasya deva vinirmitah
+madhyasthena tvaya yogam
+
+avayosca bhavisyan
+
+Padmavati 1s very dear to Me Indeed, | am her eternal husband Our
+union has already been destined by providence Therefore, you act on My
+behalf so that we can meet one another
+
+Text 12
+sarvajno st uidhyno’st
+kalayfio’ pr kathamrtath
+tamasvasva mamasvasa
+
+kathastasyam samahara
+
+You are the knower of everything You know all the rules and
+regulations prescribed in the Vedas You also understand about the proper
+time and circumstances Therefore, pacify Padmavati with your nectarean
+words and then return to Me with her assurance
+
+## Page 68
+
+CONVERSATION BETWEEN PADMAVATI AND SUKA
+
+Text 13
+it kalker vacah srutva
+sukah parama harsitah
+pranamya tam prita manah
+prayayau simhalam tvaran
+
+Being instructed by Lord Kalki in this way, Suka became jubilant as
+his entire body became filled with ecstasy He offered his obetsances to
+the Lord and quickly departed for Simhala
+
+Texts 14-16
+khagah samudra parena
+snatva pittamrtam pavah
+vya pura phalaharo
+
+vayau rdja nivesanam
+
+tatra kanvapuram gatea
+vrkse nagesvare rasan
+padmam alokya tam praha
+
+suko manusa bhasaya
+
+kusalam te vararohe
+rupa yauvana sali
+wam lola nayanam manye
+
+laksmi rupam waparam
+
+Thus, Suka, the great parrot, crossed the ocean Upon reaching
+his destination, he first bathed, drank some water, and ate many sweet
+and ripe fruit After that, he entered the king’s palace and sat at the
+top of a ndgakesara tree, which was situated within the compound of the
+ladies’ quarters After some time, the magnanimous Suka saw Padmavati
+approach, and so he addressed her in a human voice O beautitul lady
+with a most charming face, your eyes appear to be very restless By seeing
+you, I feel that you are Laksmui, the goddess of fortune
+
+Text 17
+padmananam padmagandham
+padmanenram kar ambuje
+kamalam kalayantim tam
+laksayami param srivam
+
+## Page 69
+
+Sri KALkxi PURANA
+
+Your face resembles a lotus flower. The aroma of your body ts like the
+scent of a lotus and your eyes are just like lotus petals. Your hands are
+reddish, like lotus flowers, and you hold a lotus in your hand.
+
+Text 18
+kim dhatra sarva jagatam
+rupa lavanya sampadam
+nirmutasi vararohe
+
+jivanam mohakérmi
+
+O beautiful one with a charming face, you simply bewilder all living
+entities I think that the creator had made you after collecting all the
+beautiful objects of the world.
+
+Texts 19-20
+itt bhdsitam akarnya
+kirasya amutam adbhutam
+hasant praha sa devt
+tam padma padmamdalint
+
+kstvam kasmad agato’st
+
+katham mam sukarupadhrka
+devo va danavo va
+
+tvam agato’st dayaparah
+
+Upon hearing these sweet words of Suka, Padmavati, whose navel
+resembled a lotus, smiled and said: Who are you? Where have you come
+from? Are you a demigod or demon who has taken the form of a parrot? Is
+it out of compassion tor me that you have come here?
+
+Text 21
+suka uvaca
+sarvajiio’ ham kamagami
+sarvasdstrartha tattvavit
+deva gandharva bhupanam
+
+sabhasu paripujitah
+
+Suka said: I am the knower of everything, and so I know the intensions
+of everyone. I am well aware of the real purport of all scriptures. | am
+highly regarded in the assembly of demigods, Gandharvas, and saintly
+kings.
+
+## Page 70
+
+CONVERSATION BETWEEN PADMAVATI AND SUKA
+
+Text 22
+carami svecchaya khe tuam
+tksanartham thagatah
+tvamaham hrdi santaptam
+
+tyakta bhogam manahsvmim
+
+I travel in outer space of my own free will. | have now come her just to
+see you. Although you are very learned, at present you are afflicted with
+grief, and thus you have given up all thoughts of enjoyment.
+
+Texts 23-24
+hasyalapa sakhi sanga
+dehabharana varjtam
+vilokyaham dina cetah
+
+prechami srotum initam
+
+kokila lapa santapa
+
+janakam madhuram mrdu
+tava dantaustha jhva
+
+agra lulitaksara panktayah
+
+yat karna kuhare magnas
+
+tesam kim varnyate tapah
+
+You have given up smiling, joking, speaking with others, the company
+of your friends, and all kinds of jewelry. By seeing you 1n such a pathetic
+condition, I feel morose and so I would like to hear your sweet voice,
+which defeats the song of a cuckoo. Only one who has undergone great
+austerities 1s able to hear the words that are produced by the combined
+effort of your teeth, lips, and tongue.
+
+Texts 25-26
+saukumaryam sirisasya
+kva kantirva nisdkare
+pryusam kva vadantyeva
+
+anandam brahman: te dhunah
+
+tava bahulata vaddha
+ye pasyant: sudhananam
+tesam tapo dana japair
+vyarthar kim janayisyati
+
+65
+
+## Page 71
+
+66 Sri Kaki PURANA
+
+For you, the tenderness of a Sirisa flower and the brightness of the full
+moon are most insignificant. People always glorify the nectar and bliss of
+Brahman, but to you even this seems insignificant The pious exalted soul
+who will drink the nectar of your face while being held in the creepers
+of your arms does not require to perform any religious duties, such as
+performing penance, chanting mantras, and giving charity.
+
+Text 27
+tlakalaka sammisram
+lola kundala manditam
+loleksanollasad vaktram
+
+pasyatam na punarbhavah
+
+Anyone who once beholds your beautiful face decorated with marks
+of tilaka, curly hair, swinging earrings, and beautiful eyes, will no longer
+have to accept another matertal body.
+
+Text 28
+brhadrathasute svadhim
+vada bhévini yatkrtam
+tapah ksmamiva taniim
+
+laksayami rujam vina
+
+kanaka pratima yadvat
+
+pamsubhir malmukrta
+
+O daughter of King Brhadratha! O well-wisher of all! Please tell me
+the cause of your mental agony. You have no material attachment and yet
+you have become very weak because of mental distress. At present, you
+look like a golden deity covered by dust.
+
+Text 29
+padmovaca
+kim rupena kulenapi
+dhanena abhyanena va
+sarvam msphalatam eti
+
+yasya devam daksinam
+
+Padmavati said: If Lord Hari 1s against someone then what 1s the use
+of beauty, opulence, and a prestigious lineage?
+
+## Page 72
+
+CONVERSATION BETWEEN PADMAVATI AND SuKa 67
+
+Text 30
+srnu kira mamakhyanam
+yadi va viditam tava
+balyah pauganda-kaisore
+
+harasevam karomyaham
+
+My dear bird, if you do not know why I am suffering then kindly hear
+with attention. I engaged 1n the worship of Lord Siva as a child, and also
+when I became a mature girl.
+
+Text 31
+tena pujavidhdnena tusto
+bhutva mahesvarah
+varam varaya padme '
+tvamityaha priyaya saha
+
+As a result of my worship, Lord iva, whose head 1s decorated with
+the sign of the moon, appeared before me along with Parvati and said: O
+Padmavati, ask me for a benediction.
+
+Text 32
+layayadho mukhim age
+sthitam mam viksya sankarah
+praha te bhavat: svami
+harwnarayanah prabhuh
+
+When he saw me standing before him, my head hung low due to
+shyness, and my body fully covered, he assured me, saying: The Supreme
+Lord, Har, will become your husband.
+
+Text 33
+devo vd danavo vanyo
+gandharvo va taveksanat
+kamena manasa nari
+
+bhavisvati na samsayah
+
+Whether he ts a demigod, Gandharva, asura, or any other creature,
+if a male looks upon you with lust in his heart, then he will immediately
+
+turn into a woman.
+
+## Page 73
+
+68 Sri KALKI PuRANA
+
+Text 34
+i datvd varam somah
+praha visnurcanam yatha
+tathaham te pravaksyami
+
+samahita manah srnu
+
+(Padmavati said to Suka:) Let me tell you about the procedure for
+worshiping Lord Hari that Lord Siva described to me after awarding me
+that benediction.
+
+Text 35
+etah sakhyo nrpah purvam
+ahrta ye svayamvare
+pura dharmarthina drstva
+
+ramyam mam yauvanan vitam
+
+These companions of mine that you see here—they were all great
+kings at the time of my svayambara, which was arranged by my father.
+
+Texts 36-37
+svagataste sukhasina
+vivaha krta niscayah
+yuvano gunavantasca
+rupadravina sammatah
+
+stayamvara gatam mam te
+vilokya rucwraprabham
+
+ratnamala sritakaram
+nipetuh kama mohitah
+
+These kings were very handsome, highly skilled, and unlimitedly
+powerful After they had assembled here with a desire to marry me, I
+entered the arena of my svayamvara, holding a necklace of jewels in my
+hands. Although these kings had been sitting at ease, as soon as they saw
+me, their hearts were pierced by the arrows of Cupid, and some even
+fainted, falling onto the ground
+
+Text 38
+tata uttthaya sambhrantah
+
+samprecya stritvamatmanah
+
+## Page 74
+
+CONVERSATION BETWEEN PADMAVATI AND SUKA 69
+
+stanabhara nitamvena
+gurund parmamitah
+
+However, as soon as they stood up, having regained their composure,
+they where aghast to find that they had been transformed into women
+with rounded hips and heavy breasts.
+
+Text 39
+hiya bhiya ca satrunam
+mutranamita duhkhadam
+stribhavam manasa dhydtva
+
+mameva anugatah suka
+
+O parrot, upon seeing themselves in this way, the kings became
+highly embarrassed and afraid to look at one another At last, with broken
+hearts, they decided to follow me as my companions.
+
+Text 40
+pancarya hare ratah
+sakhyah sarva gunanutah
+maya saha tapodhyana
+piyah kurvant: sammatah
+
+Since that time, all these kings have been living with me as my
+companions. They are very talented women and are living under the
+shelter of my affection. Along with me, they also engage in worshiping
+Lord Hart, rending service unto Him, meditating upon the Lord, and
+performing austerities for His pleasure.
+
+Text 41
+taduditam itt samnnisamya kirah
+sravana sukham nyamanasa prakasanam
+samucita vacanath pranksya padmam
+
+murahara yajanam punah pracaste
+
+After hearing this wonderful story from the mouth of Padmavati,
+Suka continued to speak with her in a very pleasing manner, and then
+brought up the subject of Lord Hari’s worship
+
+Thus ends the translation of the sixth chapter of Sri Kalki Purana
+
+## Page 75
+
+CHAPIER SFVEN
+The Procedure for Worshiping Lord Visnu
+
+Text 1
+suka uvaca
+visnurcanam sevenoktam
+srotum icchamyaham subhe
+dhanast krtapunaydst
+
+siva sisyatvam agata
+
+Suka said: O auspicious lady, you are certainly most glorious and pious,
+and thus you exhibit unalloyed devotion for Lord Siva. Now I would like
+to hear about the procedure for worshiping Lord Hari as instructed by
+Lord Siva.
+
+Text 2
+aham bhagya vasadatra
+samagamya tavantikam
+srnomi paramascaryam
+
+kwrakara nwaranam
+
+It is my good fortune that I have met you here today. Please describe
+in detail the worship of Lord Har, for by hearing such topics, | will be
+freed from having to endure life in the lower species.
+
+Text 3
+bhagavad bhakti: yogarica
+japadhyana vidhim muda
+paramananda sandoha
+
+dana daksam srutiprryam
+
+Worship of Lord Hart ts a limb of pure devotional service, and it
+includes meditation upon the Lord and the chanting of His mantras.
+Discussions of Lord Hart are always very pleasing to the ears and heart.
+
+Texts 4-5
+padmovaca
+srl visnorarcanam punyam
+
+## Page 76
+
+THE PROCEDURE FOR WORSHIPING LorD VISNU
+
+sivena paribhasitam
+yat srddhayanusthi tasya
+srutasya gatitasya ca
+
+sadyah papaharam pumsam
+guru go brahma ghatinam
+samahitena manasa
+
+srnu kira yathoditam
+
+Padmavati said: The procedure for worshiping Lord Hari that was
+described by Lord Siva 1s most sacred. By performing such worship, or
+even hearing about it with faith, one ts immediately freed from all sinful
+reactions, even those for killing a spiritual master, cow, or brdhmana. O
+parrot, hear attentively as I describe the procedure for worshiping Lord
+Hari that was instructed by Lord Siva.
+
+Text 6
+krtva yathokta karmani
+purvahne snanakrta sucth
+praksdlya pam padau ca
+sprstvdpah svdsane vaset
+
+Early in the morning, one should bathe and perform his other daily
+duties. He should then wash his hands and feet, perform dcamana, and sit
+on a proper asana to begin his worship of the Lord
+
+Text 7
+pracimukhah samyatatma
+sanganyasam prakalpayet
+bhutasuddhim tato’rghasya
+sthapanam vidhi vaccaret
+
+With a controlled mind, one should sit facing east and then perform
+the various nyasas and other required rituals Thereafter, one should
+place all the articles for worship, such as arghya, 1n their proper places.
+
+Text 8
+tatah kesava krtvadi
+nyasena tanmayo bhavet
+atmanam tanmayam dhyatva
+
+hrdistham svasane nyaset
+
+71
+
+## Page 77
+
+72 Sri KALKI PURANA
+
+Before beginning, one should think of himself as being qualitatively
+one with Lord Visnu while displaying the keSava-kirti-nydsa One should
+then invite Lord Hari to be seated on a lotus dsana within his heart
+
+Texts 9-10
+padyardhya dcamanvyadyath
+sndna vaso vibhusinath
+yathopacaraih sampujyya
+
+mulamantrena desikah
+
+dhyayet padadi kesamtam
+hrdayambuja madhyagam
+
+prasanna vadanam devam
+bhakta bhista phalapradam
+
+One should then worship Lord Hart by offering Him various articles,
+including pddya, arghya, dcamantya, sndniya, and ornaments. Next, one
+should meditate on the Lord, beginning from His lotus feet, gradually
+raising one’s attention to His face. The Lord should be meditated upon as
+being situated in one’s lotus-like heart He should be seen smiling as He
+fulfills all the desires of His devotees.
+
+Text 11
+om namo narayandya svaha
+yogena siddha wbudhath
+panbhavya manam laksmyalayam
+tulast kacita bhaktabhrngam
+
+prottunga rakta nakharamguli patracitram
+bhangarasam haripadambujam asraye’ ham
+
+One should then chant om namo nérayanayu svahda and recite the
+following prayer: I take shelter of the lotus feet of Lord Har, who 1s
+constantly meditated upon by learned mystic yogis He 1s the shelter of
+Goddess Laksmi, and the bee-like devotees drink the nectar of the tulasi
+buds at His lotus feet. His reddish nails have colored the water of the
+Ganges
+
+Text 12
+
+gumphan mani pracaya ghattita rajahamsa
+sifyat sunupura yutam padapadma vrntam
+
+## Page 78
+
+THE PROCEDURF FOR WORSHIPING LORD ViSNU
+
+pitamvara aficala vilola calat patakam
+svarna trivaktra balavayafica hareh smarami
+
+1 meditate on the lotus feet of Lord Hart, which are decorated with
+varieties of precious jewels, which resemble the feet of a swan, and which
+are decorated with tinkling ankle bells. His cddara hangs to His lotus feet,
+and it appears like a flag flapping in the wind His lotus feet are adorned
+with three golden bangles.
+
+Text 13
+jamghe suparna gala nilamani pravrddhe
+sobhaspada aruna manidyut caticumadhye
+arakta padatala lambana sobhamane loke
+
+ksanotsava kare ca hareh smarami
+
+I meditate on Lord Hart’s lotus feet, which are the color of the blue
+sapphire worn by Garuda Just as the beak of Garuda 1s reddish, so the
+toenails of the Lord are tinged with a pinkish hue The Lord’s lotus feet
+thus increase the beauty of the lower portion of His body, and are very
+pleasing to the eyes of His devotees
+
+Text 14
+te janunt-makhapater bhuja mula sanga
+rangotsavavrta tadid vasane vicitre
+cancat patatru mukha nirgata samagita
+
+vistarit atma yasasi ca hareh smarami
+
+I meditate upon Lord Hart’s knees, the beauty of which 1s enhanced
+because the end of His cddara, which 1s draped from His shoulder, resides
+there. The Lord’s carrier, Garuda, reveals His transcendental glories by
+singing narrations of His pastimes.
+
+Text 15
+visnoh katim vidhikrtanta manoja bhumum
+jwanda kosa ganasanga dukula madhyam
+nanaguna prakrtt pita vicitravastram
+dhyayen mbaddha vasanam khaga prstham
+
+1 meditate on Lord Hart’s waist, which 1s decorated with the three
+modes of material nature 1n the form of colorful cloth, which 1s the shelter
+
+73
+
+## Page 79
+
+74 Sri KALKI PuURANA
+
+of Lord Brahma, Yamaraya, and Kamadeva, and which ts the resting place
+of His marginal energy, the living entities He 1s seated upon the back of
+His carrier, Garuda
+Text 16
+satodaram bhagavata stnvah prakasam
+avartta nabhi tikasad vidhyanma padmam
+nadi nadi gana rasotthasitantra sindhum
+
+dhyaye nada kosa mlayam tanu lomarekham
+
+I meditate upon Lord Hart’s thin abdomen, which 1s decorated with
+three lines From His abdomen, a lotus flower sprouted that was the birth
+place of Lord Brahma and thus, the origin of the universe The Lord’s
+abdomen 1s the place of generation of the oceans, and 1s adorned with
+fine hair
+
+Text 17
+vaksah payodht tanaya kuca kumkumena
+harena kaustubha mani prabhaya vibhatam
+sravatsa laksmu haricandana prasunam
+
+alocitam bhagavatah subhagam smarami
+
+Lord Hart’s chest 1s decorated with kunkuma from Laksm1’s breasts, as
+well as a beautiful necklace and the effulgence of the Kaustubha gem It
+1s also adorned by the mark of Srivatsa, sandalwood paste, and a beautiful
+flower garland I meditate on the expansive chest of Lord Har
+
+Text 18
+bahu suresa sadanau balamangadadi
+sobhaspadau duhitva vinasadaksau
+tau daksmau bhagatatasca gadasunabha
+teyantau sulalitau manasa smarami
+
+I meditate on Lord Hani’s charming right arms, which are decorated
+with bangles and a source of great beauty, and are expert in killing sinful
+demons The Lord’s right arms shine brightly because they hold a club
+and disc
+
+Text 19
+
+vamau bhwyau muran pordhita padmakhankhau
+syamau karmdra karavan mani bhusanadhayau
+
+## Page 80
+
+THE PROCEDURF FOR WORSHIPING LoRD VISNL 75
+
+raktamguli pracava cumbita janumadhyau
+
+padmulaya privakarau ructrau smarami
+
+I meditate on Lord Murart’s left arms, which appear blackish like the
+trunk of an elephant The Lord’s left arms carry a lotus flower and conch
+shell, and are decorated with yeweled ornaments The reddish fingers of
+those long arms touch the Lord’s knees The enchanting hands of the
+Lord are very pleasing to Goddess Laksmi
+
+Text 20
+kantham mrnalam amalam mukhapankajasva
+lekhatrayena tanamalikaya nivitam
+kimva vimukt vasa mantraka satphalasva
+
+vrttam ciram bhagavatah subhagam smarami
+
+] meditate upon Lord Hari’s beautiful throat, which 1s like the stem of
+His lotus-like face, which 1s decorated with three perfect lines, which 1s
+adorned with a flower garland, and which 1s like a stalk of delicious fruit
+in the form of mantras that award one liberation
+
+Text 21
+raktambwam dasana hasa vikasaramyam
+raktadharaustha vara komala caksudhadhvam
+sammana sodbhava caleksana patracitram
+
+lokabht ramam amalafica hareh smarami
+
+I meditate upon Lord Hart’s lotus face, which 1s tinged with the
+color of a red lotus flower and has beautiful by red lips The Lord’s face
+appears even more enchanting when He smiles, thus reve aling His teeth
+Nectarean words emanate from His face, which 1s pleasing to the heart,
+decorated with restless eyes, and enchanting to the mind
+
+Text 22
+suratmajava satha gandhaiidam sunasam
+bhrupallavam sthitt lavodava karmadaksam
+kamotsavaiica kamala hrdava prakasam
+samemtayami hanwaktra vilasadakyam
+
+By the influence of Lord Hari’s eyebrows, one 1s relieved of entering
+the abode of Yamaraja Below the eyebrows are two enchanting nostrils,
+from which the creation, maintenance, and annihilation of the universes
+
+## Page 81
+
+76 Sri KALKI PURANA
+
+are enacted The Lord’s eyebrows are the impetus for many passionate
+pastimes They enhance the beauty of the Lord’s face and they bring
+ecstasy to the heart of Laksmi
+
+Text 23
+karnau lasan karakundala gandalolau
+nanadisaiica nabhasasca tikasagehau
+lolalaka pracava cumbana kuficitagrau
+
+lagnau harer mamkirita tate smarami
+
+I meditate on Lord Hart’s ears, which are adorned with fish-shaped
+earrings that swing to and fro on His cheeks and illuminate the four
+directions Hits ears appear slightly wrinkled due to carrying the burden
+of many ornaments
+
+Text 24
+bhalam cicitra tlakam priva caru gandha
+gerocana racanaya lalanaks: sakhyam
+brahmaka dhama mankamta kirita yutam
+
+dhyaven manonayana harakam tsvarayya
+
+I meditate on Lord Hart’s forehead, which 1s decorated with marks
+of beautiful tilaka, which 1s very attractive, and which emits a very sweet
+aroma The Lord’s torehead 1s also adorned with beautiful leaves painted
+with cow’s urine that captivates the hearts of all women His forehead 1s
+the shelter of Brahma, decorated with a jeweled crown, and 1s pleasing to
+the eyes and hearts of all
+
+Text 25
+srt vasudeca cikuram kutilam nibaddham
+nana sugandht kusumath svajana darena
+dirgham rama hrdaya gasamanam dhunantam
+dhyaye mbu vaha ruciram hrdavabja madhye
+
+I meditate upon Lord Hari’s long black curly hair, which His
+associates lovingly decorated with fragrant flowers, which breaks the
+chastity ot Laksmi, which trembles 1n the wind, which resembles the color
+
+of a dark monsoon cloud, and which ts most enchanting
+
+## Page 82
+
+THE PRocEDURE FOR WORSHIPING LoRD Viswne 77
+
+Text 26
+meghakaram soma suryaprakasam
+subhrun nasam sakracapaika manam
+lokatitam pundartkavataksam
+
+uidyuccailanc asrave ham purtam
+
+I take shelter of Lord Har, who possesses a most attractive form,
+whose complexion 1s dark like a cloud, whose eyes resemble the moon
+and sun, whose eyebrows are charming like a rainbow, whose nose 1s long
+like the beak of a bird, whose eyes are broad like lotus petals, and whose
+yellow garments are the color of lightning
+
+Text 27
+dinam ham sevava vedaratva
+papaistapath puritam me sariram
+lobhakanta soka mohadhi 11ddham
+
+krpava dystaya paht mam vayudcra
+
+I am a fallen soul who 1s devoid of devotional service to You as
+prescribed in the Vedic literature My body 1s filled with sinful propensities,
+and ts a reservoir of misery | am under the control of greed, lamentation,
+and illusion, and thus overwhelmed by mental agony O Lord Vasudeva,
+kindly deliver me by Your merciful glance
+
+Text 28
+ve bhaktavadyam dhyayamanam manojyiiam
+vyakum visnoh sodasa slokapuspath
+stutta natta pujavitea uidhynah
+
+suddha mukta brahmasaukhyam pravanti
+
+Those exalted souls who diligently follow all the prescribed rules and
+regulations, who repeatedly bow down before the original Personality of
+Godhead, who worship Him and offer Him this garland of sixteen prayers
+with unalloyed devotion, will be purified of all sins and thus merge into
+the ocean of transcendental bliss
+
+Text 29
+padmeritam idam punyam
+
+stucna partbhasitam
+
+## Page 83
+
+is Sri KALKI PURANA
+
+dhanyam yasasyam ayusyam
+
+svargyam svastyanam param
+
+This prayer spoken by Lord Siva to Padmavati ts supremely pure, most
+glorious, and the giver of fame. It awards one a long duration of life full of
+peace and prosperity, and residence in the heavenly planets after death.
+
+Text 30
+pathann ve mahabhagaste
+mucyante’ham so’khilat
+dharmartha kama moksaném
+
+paretreha phalapradam
+Simply by reciting this prayer, a fortunate soul will achieve all four
+objectives of life, both in this world and the next.
+
+Thus ends the translation of the seventh chapter of Sri Kalki
+Purdna.
+
+## Page 84
+
+CHAPTER EIGHI
+
+Conversation Between Padmavati and Suka
+Lord Kalki Goes To Simhala
+
+Texts 1-2
+suta uvaca
+itt padmavacah srutva
+kiro dhivah satam matah
+kalkidutah sakhi madhye
+sthitam padmam atharrarit
+
+vada padme sangapujam
+harer adbhuta karmanah
+yamasthaya vidhanena
+
+carami bhuvanatrayam
+
+Sita Gosvami said: After hearing these instructions fiom the mouth
+of Padmavati, Sika, who 1s honored by all saintly persons, very sober,
+and a representative of Lord Kalki, said: O Padmavati, kindly describe
+the various limbs of Lord Har1’s worship. | will perform them as | travel
+throughout the three worlds
+
+Text 3
+padmovaca
+evam padadi kesantam
+dhyatva tam jagadisiaram
+purnatma desiko mulam
+
+mantram japati mantrauit
+
+Padmavati said: A devotee who 1s well-versed in the chanting of
+mantras should meditate on Lord Hartas | have described, beginning trom
+His lotus feet and gradually rising to His head, while accepting Him as the
+Lord of the universe and the Supersoul of all living beings Thereatter, he
+should faithfully chant the mila-mantra
+
+Texts 4-5
+Japad anantaram danda
+
+pranatum matmamscaret
+
+## Page 85
+
+Sri KaLkit PURANA
+
+visvaksenadi kanantu
+
+datva visnu niveditam
+
+tata udvasya hrdaye
+sthapayen manasa saha
+nrtyan gayan harernéma
+
+tam pasyan sarvatah sthitam
+
+A pious devotee should offer his obeisances to the Lord after chanting
+the mila-mantra, falling flat onto the ground. He should then offer the
+remnants of Lord Visnu’s food to His associates, such as Visvaksena,
+and atter doing so, perform sankirtana by chanting and dancing, while
+perceiving the all-pervading Lord within his heart.
+
+Text 6
+tatah sesam mastakena
+krtva nawedya bhug bhavet
+ityetat kathitam kira
+kamalanatha sevanam
+
+Thereafter, the devotee should touch the remnants of the Lord’s
+flower garland to his head and then honor His remnants of food. This 1s
+the proper way to worship the Lord of Laksmi.
+
+Text 7
+sakamana kamapurama
+kamamrta dayakam
+sronananda karam deva
+
+gandharva navahrt priyam
+
+By worshiping the Supreme Lord 1n this way, a matertalistic devotee
+will have all of his desires fulfilled, and an unalloyed devotee will attain
+liberation from material existence. Such worship 1s very pleasing to the
+demigods, human beings, and Gandharvas
+
+Texts 8-9
+suka uvaca
+saminitam srutam sabdhi !
+bhagavad bhakti laksanam
+tvat prasadat papmo me
+kirasya bhuvi mukudam
+
+## Page 86
+
+CONVERSATION BETWEEN PADMAVATI AND SuUKA
+
+kintu tvam kaficanamayrm
+praumam ratnabhusitam
+sajivamiva pasyami
+
+durlabham rupinim srryam
+
+Suka said: O chaste one, I have heard with full attention your
+description of the characteristics of devotional service to the Supreme
+Lord. Now, by your mercy, I will be able to free myself from all sinful
+reactions, even though | am not a great devotee. I now see you as a golden
+deity decorated with jeweled ornaments and full of life. By seeing your
+form, which 1s very rarely visible in the three worlds, | am convinced that
+you are none other than Laksmi.
+
+Text 10
+nanyam pasyami sadrsim
+ripa sila gunaistara
+nanyo yogyo gunt bhartta
+
+bhuvene’ pi na drsvate
+
+1 cannot think of any woman whose beauty, characteristics, and
+personality are equal to yours. For this reason, it would be very difficult
+to find a suitable husband for you within the three worlds.
+
+Texts 11-12
+kintu pare samudrasya
+paramascarya rupavan
+gunavan isvarah saksat
+
+kascid drsto’timanusah
+
+na hi dhatrkrtam manye
+sarivam sarvasaubhagam
+
+yasya srt vasudevasya
+nantaram dhyana yogatah
+
+And yet, I have found a suitable match for you across the sea. He
+1s all-attractive, extraordinarily qualified, and non-different from the
+Supreme Personality of Godhead While gazing upon His enchanting
+body, one cannot imagine that it had been made by the creator. After
+lengthy deliberation, I have concluded that He 1s directly the Supreme
+Lord, Hart.
+
+8
+
+## Page 87
+
+82 Sri Karki PuRANA
+
+Text 13
+traya dhyatam tu yadrupam
+visnor amuta tejasah
+tat saksat krtam ityeva
+
+na tatra kryadantaram
+
+I feel within the core of my heart that | have seen the supremely
+powerful Lord Hani, upon whom you always meditate. I do not find any
+difference between His form and the form of Lord Har.
+
+Text 14
+padmovaca
+braht tanmama kim kutra
+jatah kira paracaram
+janasi tatkrtam karma
+
+ustarenatra varnaya
+
+Padmavati satd: O parrot, please tell me—where 1s His place of birth?
+If you know more about Him then tell me what He has accomplished in
+
+His life.
+
+Text 15
+urksadagaccha pijam te
+karomi vidhivodhitam
+vyapura phalaharam
+kuru sadhu payah pra
+
+O bird, why are you sitting at the top of this tree’ Please come down
+and sit next to me. I will treat you with respect and so do not be afraid.
+Come and have some sweet juicy fruit that | brought and drink some pure
+
+water
+Texts 16-18
+tava caficuyugam padma
+ragada arunam wealam
+ratna samghattitam aham
+
+karomi manasah priyam
+
+kandharam suryakantena
+
+manina svarnaghattma
+
+## Page 88
+
+CONVERSATION BETWEEN PADMAVATI AND SUKA
+
+karomydcchadanam caru
+muktabhih paksatim tava
+
+patatram kunkumena mgam
+saurabhena aticitritam
+karomi nayana ananda
+
+dayakam ripamidrsam
+
+Alas! How beautiful 1s your beak, so bright and redder than a ruby! I
+would be happy to plate your beak with gold Indeed, | will decorate your
+neck with a sunstone set in a gold locket. | will cover your wings with
+pearls and decorate your entire body with marks of fragrant kunkuma.
+Thus, anyone who sees you will become very pleased
+
+Text 19
+puccha maccha manwrata
+ghargharena atisabditam
+padayor nupuralapa
+
+lapmam tvam karuomvaham
+
+I will decorate your tail with a strand of precious jewels. When you
+fly through the sky, this strand of jewels will make an enchanting sound. I
+will decorate your feet with ornaments so that when you walk, there will
+be the beautiful sound of tinkling bells.
+
+Text 20
+tavamrta kathavrata
+tyaktddhim sadhi mamiha
+sakhibhih samgatabhiste
+him karisyami tadvada
+
+My distress has been dissipated by hearing your nectarean words.
+Now, kindly instruct me—what can I do for you? | and my companions
+are prepared to do whatever you ask.
+
+Text 21
+wt padmavacah srutva
+tadanukam upagatah
+kiro dhirah prasannatma
+
+pravaktum upacakrame
+
+83
+
+## Page 89
+
+84 Sri Katkt PURANA
+
+Upon hearing these words of Padmavati, Suka descended from the
+treetop and spoke as follows.
+Text 22
+kira uvaca
+brahmana prarvitah sriso
+maha karuniko babhau
+sambhale visnuyasaso
+grhe dharmam riraksisuh
+
+The parrot said: The supremely merciful Lord of Laksmt has already
+made His advent at the house of a great brahmana named Visnuyaéga in
+the village of Sambhala He has appeared to re-establish the principles of
+religion, having been requested to do so by His exalted devotees.
+
+Texts 23-25
+caturbhir bhratrbhir yiau
+gotrajath paricaritah
+krtopa nayano vedam
+adhitya ramasannidhau
+
+dhanurvedasca gandharvam
+swvadasvam asim sukam
+
+kavacatica varam labdhva
+sambhalam punaragatah
+
+visakha yupa bhupalam
+prapya siksavisesatah
+
+dharmanakhyaya matiman
+adharmamsca nirakarot
+
+He 1s residing with His brothers and other relatives. After His
+sacred thread ceremony, He went to the @srama of Paragurama of the
+Bhrgu dynasty, where He mastered the Vedas. He also mastered the arts
+of discharging arrows and music. He received a sword, horse, parrot, and
+shield from Mahadeva, as a benediction. Thereafter, He returned home
+to Sambhala and began helping the king, Visakhaydpa, protect religious
+principles and destroy those who practice irreligion.
+
+## Page 90
+
+CONVERSATION BETWEEN PADMAVATI AND SUKA 85
+
+Text 26
+iti padma tadakhyanam
+misamya muditanuna
+prasthapaya masa sukam
+kalker anayanddrta
+
+After hearing this from Suka, Padmavati’s happiness knew no bounds.
+
+Her lotus-like face brightened and she immediately sent Suka to bring
+Lord Kalki.
+
+Text 27
+bhusayitva svarnaratnas
+
+tamuvaca krtanyalih
+
+She decorated Suka with golden ornaments and spoke to him with
+folded hands.
+
+Texts 28-29
+padmovaca
+niveditam tu janasi
+kimanyat kathayamyaham
+stribhava bhayabhitatma
+yadi nayati sa prabhuh
+
+tathapi me karmadosat
+pranatm kathayisyast
+sivena yo varo dattah
+
+sa me sapo’ bhavat kila
+
+Padmavati said: O parrot, you know the request that I will make of
+you. What more can I say? If the Lord refuses to come here, fearing that
+He might also turn into a woman, then simply convey my obeisances to
+Him and describe everything that has happened as a result of my past
+misdeeds. Also, inform Him of how the benediction that Lord Siva
+
+awarded me has now become a curse
+
+Texts 30-32
+pumsam maddarsane napi
+stribhavam kamatah suka
+srutvett padmam amantraya
+
+pranamya ca punah punah
+
+## Page 91
+
+86
+
+Sri KALki PURANA
+
+uddiya pravayau kirah
+sambhalam kalkipaltam
+tamagatam samakarnya
+
+kalkth para puranyaxah
+kode krtva tam dadarsa
+
+svarna ratna vibhusitam
+sanandam parama ananda
+
+davakam praha tam tada
+
+The benediction | received from Lord Siva was that any male who
+looked at me with lust would immediately turn into a woman
+
+After hearing these statements of Padmavati, Suka pacified her and
+repeatedly offered his obeisances After giving her sufficient assurances,
+he flew into the sky and within a short time, arrived at the village of
+Sambhala, which was protected by Lord Kalki When Lord Kalki, the
+destroyer of demons, heard the news of Suka’s arrival, He became jubilant
+When they met, Lord Kalki placed Suka upon His lap and thus saw that
+his entire body was decorated with golden ornaments
+
+Texts 33-34
+kalkth paramatejasi
+tarasmmnam alam sukam
+pujayitua kare sprstva
+pavah panena tarpayan
+
+tanmukhe svamukham tattva
+papraccha vwidhah kathah
+
+kasmad desaccanttva tuam
+drstva purvam kimagatah
+
+The all-powerful Lord Kalki caressed Suka’s body with His left palm
+and offered him some water to drink Indeed, the Lord almost touched
+Suka’s lips with His own as He said My dear Suka! Where have you been
+during your travels’? Where are you coming from just now’? What are the
+wonderful things that you have seen’
+
+Text 35
+kutrosttah kuto labdha
+
+manikaficana bhusanam
+
+## Page 92
+
+CONVERSATION BETWEEN PADMAVATI AND SUKA 87
+
+aharnisam tvanmilinam
+
+vafichitam mama sarvatah
+
+What were you doing for such a long time’ How did you get these
+jeweled ornaments’? | have been longing to meet you, throughout the days
+and nights
+
+Text 36
+tavanaloka nenapi ksanam
+
+me yugavad bhavet
+
+Indeed, even a moment of separation from you seemed to Me more
+than a yuga
+Texts 37-38
+wt kalkervacah sruttva
+pranipatya bhrsam
+kathava masa padmayah
+kathah purvodita yatha
+
+samvadam atmanastasya
+nyalankara dharanam
+
+sarvam tadvarnaya masa
+tasyah pranati purcakam
+
+When the magnanimous Suka heard these words of Lord Kalki,
+he repeatedly offered his obeisances and then began speaking, telling
+everything about his meeting with Padmavatt He described their
+conversation, and told the story of how she had given him the jeweled
+ornaments
+
+Text 39
+srutveti vacanam kalkih
+sukena sahito muda
+jagama tvarito’svena
+swadattena tanmanah
+
+After hearing everything about Padmavati from Suka, Lord Kalki
+became very attached to her Without further delay, the Lord mounted
+the horse that was given to Him by Siva and happily departed for the
+Stmhala island
+
+## Page 93
+
+88 Sri KALKI PURANA
+
+Text 40
+samudraparam amalam
+stmhalam janasamkulam
+nana trmana bahulam
+
+bhast aram mankaficanath
+
+This island was situated far across the ocean, and thus surrounded
+by water on all sides It was thickly populated, many airplanes were seen
+there, and it shone with the splendor of countless yewels and gold
+
+Text 41
+prasada sadanagresu
+pataka toranakulam
+sre sabha panattala
+pupra gopura maudatam
+
+The city was decorated with many palaces and massive gates On
+top of the gates and palaces were placed colorful flags that increased
+the beauty of the island There were assembly houses, raised platforms,
+memorials, domed buildings, and concrete roads Indeed, there was no
+end to the beauty of this magnificent city
+
+Texts 42-43
+purastri padimm padma
+gandhamoda duirephium
+purim karumatim tatra
+dadarsa puratah sthitam
+
+marala jala saficala
+vilola kamalantaram
+unmulitabja malalt
+
+kalita kulitam sarah
+
+Soon after Lord Kalki’s arrival at Simhala, He gazed upon the city,
+which was known as Karumati This city was adorned with a nice lake
+filled with lotus flowers The water of the lake was never still, due to the
+swans that were always swimming here and there Swarms of humming
+bees came from the nearby forest to drink the honey of the lotus flowers
+
+## Page 94
+
+CONVERSATION BETWEEN PADMAVATI AND SUKA
+
+Text 44
+jala kukkuta datyu
+hanaditam hamsasarasath
+tadarsa s.accha pavasam
+lahart lola tyitam
+
+Many swans, cranes, and other aquatic birds that were swimming in
+the lake created a very pleasing sound The cooling breezes skimming
+across the waves of the lake gave pleasure to the trees and plants growing
+on the shore
+
+Texts 45-47
+canam kadamta kuddala
+sala talamra kesarath
+kapitthasvattha kharyura
+vya pura karatyakath
+
+punnaga panasair nagarat
+angatr arjunasimsapauh
+kamukarr narikelaisca
+
+nanairksaisca sobhitam
+
+tanam dadarca ruciram
+phalapuspa dalavrtam
+
+drstva hrstatanuh sukam
+sakarunah kalkth purante cane
+
+praha pritikaram caco tra sarasi
+snatat yam itvadytah tacchrtva
+
+emayaniitah prabhumatam vamuti
+padmasramam tatsandesamtha
+
+pravanam adhuna gatva sa karo vadat
+
+The forests surrounding the lake contained many varieties of trees,
+including kadamba kuddala and sala While walking in the forest Lord
+Kalki became jubilant by seeing its beauty With great affection He said
+My dear Suka, I want to bathe at this place
+
+89
+
+## Page 95
+
+90 Sri Katki PURANA
+
+Understanding the Lord’s intention, Suka humbly said My dear
+Lord, permit me to go and meet Padmavati
+
+Thus Suka came before Padmavati and informed her of Lord Kalki’s
+arrival
+
+Thus ends the translation of the eighth chapter of Sri Kalki Purana
+
+## Page 96
+
+CHnarpTer Nine
+The Meeting of Lord Kalki and Padmavati
+
+Texts 1-3
+suta uraca
+kalkth sarovarabhyase
+jalaharana vartmam
+svaccha sphanka sopane
+
+pravalacita vedike
+
+saroja saurabha vyagra
+bhramad bhramara nadite
+
+kadamva pota pavali
+varitaditya dan sane
+
+samutasa sane citre
+sadasvenava taritah
+
+kalkih prastha payamasa
+sukam padmasramam
+
+Sita Gosvami said Lord Kalki dismounted and sat on a divine altar
+that was bedecked with emeralds, crystal, and other precious stones,
+which was situated by the pathway used by people to bring water from the
+lake The Lord saw swarms of humming bees hovering around the fully
+blossomed lotus flowers 1n the lake, fully intoxicated by their fragrance
+The forest was cool because of the shade provided by the kadamba trees
+After sitting down comfortably, Lord Kalki sent Suka to see Padmavati
+
+Text 4
+sa nagestaram madhvasthah
+suko gata dadarsa tam
+harmyastham «sini patra
+
+saximim sakhibhn vitam
+
+Suka flew to the residence of Padmavati and sat at the top of a
+nagakesara tree From there, he saw Padmavatt ling down on a lotus
+shaped bed inside the palace, surrounded by her companions
+
+## Page 97
+
+92 Sri Katkt PuRANA
+
+Text 5
+nisvasa vata tapena
+layatm vadanam bujam
+utksipantim sakhidatta
+kamalam candanoksitam
+
+Her face looked dry and pale, due to her warm breathing, which was
+a sign of her intense separation from the Lord. She held a fully blossomed
+lotus flower smeared with sandalwood paste, slowly moving it from side
+to side.
+
+Text 6
+reva vari parisnatam
+paragadhyam samdgatam
+dhrtanvam rasagatam
+
+nindantim pavanam priyam
+
+Although a gentle cooling breeze blew, carrving fine drops of water,
+the pollen of lotus flowers, and the aroma of various other flowers, which
+was certainly very pleasant, Padmavati did not take any pleasure in it at
+all, but instead criticized tt.
+
+Text 7
+sukah sakarunah sadhu
+vacanals tamto sayat
+sa, tvamehyeht, te svasthi
+
+sudgatam svasti me subhe
+
+When Suka saw Padmavati’s pathetic condition, he attempted to
+pacify her with sweet words. Padmavati then said: O Suka, may you
+achieve auspiciousness. | hope that you journey has been fruitful. The
+bird said: Yes, I feel that everything ts going as planned.
+
+Text 8
+gate tvayyati vvagraham
+santiste’stu rasayanat
+rasayanam durlabham me
+
+sulabham te sivasraye
+
+Padmavati said: O parrot, since your departure, I have simply been
+waiting anxiously for your return Suka said: J think that there 1s a remedy
+
+## Page 98
+
+THe MEETING OF LorD KALKI AND PADMAVATI 93
+
+so that all of your misery will be vanquished. Padma said: | must be very
+unfortunate because I am not able to gain any relief from my suffering.
+The bird said: O devotee of Lord Siva, it will not be difficult to dispel
+your anguish.
+
+Teat 9
+kva me bhagya vihinaya
+thatva varavarnint
+dew tam sarasastne
+
+prausthapya gata vayam
+
+Padmavatt said: O Suka, I am so unfortunate. How will my desire ever
+be fulfilled? Suka said: O gentle lady, your desire will be fulfilled very
+
+soon. | have brought the Lord of your heart and He ts waiting by the side
+of the lake.
+
+Texts 10-12
+evamanyo'nya samvada
+muditatma manorathe
+
+mukham mukhena nayanam
+
+nayane sadyta dadau
+
+vmala malin lola
+kamala kaémakandala
+vilasmt carumati
+
+kumudetyasta nayikah
+
+sakhya eta matustabhn
+jalakrdartham udyatah
+padmd praha sarastiram
+
+ayantu sa maya strryah
+
+Upon realizing that her long cherished desire would soon be fulfilled,
+Padmavati became filled with joy and the hairs of her body stood on end
+She touched her lips to the lips of the parrot and fixed her eyes on his eyes
+Padmavati’s eight principle companions—Vimala, Malini, Lola, Kamala,
+Kamakandala, Vilasini, Carumati, and Kumuda—were preparing to go to
+the lake to enjoy playing in the water Padma addressed her companions:
+My dear friends, let us go now to the lake and enjoy ourselves
+
+## Page 99
+
+94 Sri KALKI PURANA
+
+Text 13
+ttvakhya yasu suakam
+aruhya parwarita sakhibhis
+carurvesabhir bhutia
+
+stantah puradtah.h
+
+pravavau traritam drastum
+
+bhaismi yadupatim vatha
+
+After saying this, Padmavati hurriedly mounted a palanquin and left
+the palace, along with her nicely dressed companions She was ina hurry
+to see Lord Kalki, and she reminded one of how Rukmini had left her
+palace to meet Sri Krsna, the Lord of the Yadus
+
+Text 14
+janah pumamsah patht ve purasthah
+pradudravuh stritva bhavad digantaram
+srmgatake va vipanusthita ve
+
+nyamgana sthapita punayakaryah
+
+While Padmavati was going to the lake, all the male citizens ran away,
+here and there, fearing that they might turn into females 1f they looked
+at the princess After their wives had seen that they had returned home
+safely, the men peacefully engaged in the worship of the Supreme Lord
+
+Text 15
+nivaritam tam siwikam vahantyah
+narvo ti matta valavattarasca
+padma sukoktava taduparyupastha
+
+jagama tabhih parn aruabhih
+
+In this way, the road became devoid of men Padamavati's palanquin
+was carried by young, strongly built women According to the plan of
+Suka, Padmavati traveled to the lake by palanquin, surrounded by her
+companions
+
+Text 16
+sargjalam sarasa hamsanaditam
+praphulla padmodbhava renuaasitam
+cerurvt gahyasu sudhakaralasah
+
+kumudvatt namudayaya sobhanah
+
+## Page 100
+
+THt MEETING OF LorD KALKI AND PADMAVATI
+
+Soon, Padmavati and her companions, whose faces resembled full
+moons, and whose forms were very charming to behold, arrived at the
+lake The water of the lake was fragrant because of the presence of many
+fully blossomed lotus flowers The swans and cranes created a beautiful
+sound In this setting, all the girls entered the water and began playing
+with great merriment
+
+Text 17
+tasam mukhamoda madandha bhrngah
+thava padmani mukharat mde
+lagnah sugandhadhi kamakalasva
+
+nivaritas capi na tatvayuste
+
+Bees became captivated by the aroma emanating from the girls’ lotus
+like faces Indeed, they became so intoxicated that they gave up enjoying
+the nectar of the lotus flowers Although the girls repeatedly tried to drive
+the bees away, they kept coming again and again bec wise of the heavenly
+fragrance and beauty of their faces
+
+Text 18
+hasopahasath sarasa prakasath
+vadvaisca nrtvaisca yale atharath
+karagrahaista jala yodha narttas
+
+cakarsa tabhn vanitabhn uccath
+
+At this time, Padmay ati enjoyed playing with her friends Their minds
+became enlivened by dancing, singing, playing musical instruments
+clapping their hands, joking, smiling, and teasing one another
+
+Text 19
+sa kamatapta manasa sukokum
+artcya padma sakhibhth sameta
+jalat samutthaya maharhabhusa
+
+jagama nirdista kadamta sandam
+
+Thereafter, Padmavati, who was becoming afflicted by the arrows of
+Cupid, remembered the words of Suka and then came out of the water,
+followed by her friends She changed her clothes and decorated herself
+with beautiful ornaments, and then went underneath a kadamba tree
+that had been appointed as the place of rendezvous
+
+95

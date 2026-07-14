@@ -1,0 +1,212 @@
+{
+  "title": "agni-puran (2)",
+  "discovered_at": "2026-07-13T15:50:50.242601+00:00",
+  "edition_count": 10,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "aayurved-saar-darpan-nepali",
+      "title": "Aayurved Saar Darpan Nepali",
+      "creator": "",
+      "year": null,
+      "language": "nep",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "aalvandar-stotram-nepali",
+      "title": "aalvandar-stotram in nepali",
+      "creator": "\u0915\u0941\u0932\u0936\u0947\u0916\u0930 \u0936\u0930\u094d\u092e\u093e",
+      "year": null,
+      "language": [
+        "nep",
+        "Sanskrit"
+      ],
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ramayan-in-nepali",
+      "title": "Ramayan In Nepali 2.4GB",
+      "creator": "Translate in nepali: \u092d\u093e\u0928\u0941\u092d\u0915\u094d\u0924 \u0906\u091a\u093e\u0930\u094d\u092f",
+      "year": null,
+      "language": "nepali",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4396639696",
+      "title": "Ashwamedha Yagya in Puran",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://dsiij.dsvv.ac.in/index.php/dsiij/article/download/341/246",
+      "authors": [
+        "Manisha Bhardwaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3048487338",
+      "title": "Comparison of Properties of Naveen, Puran and Suryatapi Guda (Jaggery) with Respect to Guru and Laghuguna- An Observational Study",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.31782/ijcrr.2020.121514",
+      "authors": [
+        "Prashant Umate",
+        "Meena Deogade",
+        "Akshay Pargaonkar"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ramayan-in-nepali",
+      "title": "Ramayan In Nepali 2.4GB",
+      "creator": "Translate in nepali: \u092d\u093e\u0928\u0941\u092d\u0915\u094d\u0924 \u0906\u091a\u093e\u0930\u094d\u092f",
+      "year": null,
+      "language": "nepali",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shri-vaishnavas-archiradi-marga-nepali",
+      "title": "Shri Vaishnavas Archiradi Marga Nepali",
+      "creator": "\u0936\u094d\u0930\u0940 \u0936\u094d\u0930\u0940\u0928\u093f\u0935\u093e\u0938 \u0906\u091a\u093e\u0930\u094d\u092f",
+      "year": null,
+      "language": [
+        "nep",
+        "Sanskrit"
+      ],
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shrimad-bhagwat-gita-in-nepali",
+      "title": "Shrimad Bhagwat gita in Nepali",
+      "creator": "vyasa",
+      "year": null,
+      "language": "nep",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4396639696",
+      "title": "Ashwamedha Yagya in Puran",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://dsiij.dsvv.ac.in/index.php/dsiij/article/download/341/246",
+      "authors": [
+        "Manisha Bhardwaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3048487338",
+      "title": "Comparison of Properties of Naveen, Puran and Suryatapi Guda (Jaggery) with Respect to Guru and Laghuguna- An Observational Study",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.31782/ijcrr.2020.121514",
+      "authors": [
+        "Prashant Umate",
+        "Meena Deogade",
+        "Akshay Pargaonkar"
+      ]
+    }
+  ]
+}

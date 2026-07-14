@@ -1,0 +1,429 @@
+[
+  {
+    "scripture": "Bhagavat Purana",
+    "editions": 6,
+    "publishers": 3,
+    "goal": 5,
+    "coverage": 100
+  },
+  {
+    "scripture": "Rigveda",
+    "editions": 6,
+    "publishers": 5,
+    "goal": 5,
+    "coverage": 100
+  },
+  {
+    "scripture": "Vachanamrut",
+    "editions": 4,
+    "publishers": 1,
+    "goal": 5,
+    "coverage": 80
+  },
+  {
+    "scripture": "Vishnu Sahasranama",
+    "editions": 3,
+    "publishers": 3,
+    "goal": 5,
+    "coverage": 60
+  },
+  {
+    "scripture": "Atharvaveda",
+    "editions": 3,
+    "publishers": 3,
+    "goal": 5,
+    "coverage": 60
+  },
+  {
+    "scripture": "Valmiki Ramayana",
+    "editions": 3,
+    "publishers": 2,
+    "goal": 5,
+    "coverage": 60
+  },
+  {
+    "scripture": "Nitnem",
+    "editions": 3,
+    "publishers": 1,
+    "goal": 5,
+    "coverage": 60
+  },
+  {
+    "scripture": "Padma Purana",
+    "editions": 3,
+    "publishers": 1,
+    "goal": 5,
+    "coverage": 60
+  },
+  {
+    "scripture": "Vidur Niti",
+    "editions": 3,
+    "publishers": 3,
+    "goal": 5,
+    "coverage": 60
+  },
+  {
+    "scripture": "Durga Saptashati",
+    "editions": 2,
+    "publishers": 1,
+    "goal": 5,
+    "coverage": 40
+  },
+  {
+    "scripture": "Sadhak Sanjivani",
+    "editions": 2,
+    "publishers": 1,
+    "goal": 5,
+    "coverage": 40
+  },
+  {
+    "scripture": "Samaveda",
+    "editions": 2,
+    "publishers": 2,
+    "goal": 5,
+    "coverage": 40
+  },
+  {
+    "scripture": "Shiv Purana",
+    "editions": 2,
+    "publishers": 1,
+    "goal": 5,
+    "coverage": 40
+  },
+  {
+    "scripture": "Skanda Purana",
+    "editions": 2,
+    "publishers": 2,
+    "goal": 5,
+    "coverage": 40
+  },
+  {
+    "scripture": "Tukaram Gatha",
+    "editions": 2,
+    "publishers": 1,
+    "goal": 5,
+    "coverage": 40
+  },
+  {
+    "scripture": "Vishnu Purana",
+    "editions": 2,
+    "publishers": 2,
+    "goal": 5,
+    "coverage": 40
+  },
+  {
+    "scripture": "Yajurveda",
+    "editions": 2,
+    "publishers": 2,
+    "goal": 5,
+    "coverage": 40
+  },
+  {
+    "scripture": "3.implementationofdual.full",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "bindu320_201403",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "educationandgurushipvaisnavi",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "educationandgurushipvaisnavi",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Gurbani",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "historyofdetroitandmichiganv",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Kriyodish Tantra",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "thedhammaofgotama",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "theindianantiquaryvolvi",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Upanishads",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Agni Purana",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "b29980343_0002",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Bhavishya Purana",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Veda Rahasya",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "brahma_puran_gita_press",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "brahma_purana_part1_djvu",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "brahma_vaivarta_puran",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "brahmasutra_gita_press",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "brihaspatisutrao00brharich",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "chanakya_sutrani",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "dasgilgameschepo01jensuoft",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "englishtranslati02susr",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "garbhopanishad_djvu",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Garuda Purana",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "gc-sh10-0055",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Harivansh Purana",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Konkani Hindi",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "historyofworldsf00trum",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "indianphilosophy02radhuoft",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Kurma Purana",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "lekamasoutraregl00vats",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Linga Purana",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Matsya Purana",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Naradiya Purana",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "naturalreligion0000mlle",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "pubmed-pmc4043480",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Ramcharitmanas",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "srimarutimahatmy0000srim",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "udhak0000dana",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Vaman Purana",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Varaha Purana",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "vishnupurnsyst01wils",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Yoga Sutras",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  },
+  {
+    "scripture": "Yogavasishtha",
+    "editions": 1,
+    "publishers": 1,
+    "goal": 4,
+    "coverage": 25
+  }
+]

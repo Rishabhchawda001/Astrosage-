@@ -1,0 +1,102 @@
+{
+  "title": "\u0935\u0930\u093e\u0939 \u092a\u0941\u0930\u093e\u0923",
+  "discovered_at": "2026-07-13T17:35:51.821564+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.342580",
+      "title": "\u092a\u0941\u0930\u093e\u0923-\u0924\u0924\u094d\u0935-\u092a\u094d\u0930\u0915\u093e\u0936 \u0915\u093e \u0924\u0943\u0924\u0940\u092f \u092d\u093e\u0917",
+      "creator": "\u0935\u0948\u0936\u094d\u092f, \u091a\u093f\u092e\u094d\u092e\u0928\u0932\u093e\u0932",
+      "year": 1924,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "varahapuran_202409",
+      "title": "varahapuran",
+      "creator": "\u0935\u0947\u0926 \u0935\u094d\u092f\u093e\u0938",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wg1017",
+      "title": "2011 Or Before -Varah Puran",
+      "creator": "",
+      "year": 2011,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7118089664",
+      "title": "\u092a\u0930\u091a\u0928 \u0928\u0917\u0930 \u092e\u0925\u0930 \u0915 \u0910\u0924\u0939\u0938\u0915 \u0938\u0928\u0926\u0930\u092d : \u090f\u0915 \u0905\u0935\u0932\u0915\u0928",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.17086265",
+      "authors": [
+        "\u092d\u0930\u0924 \u0938\u093f\u0902\u0939"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7118096744",
+      "title": "\u092a\u0930\u091a\u0928 \u0928\u0917\u0930 \u092e\u0925\u0930 \u0915 \u0910\u0924\u0939\u0938\u0915 \u0938\u0928\u0926\u0930\u092d : \u090f\u0915 \u0905\u0935\u0932\u0915\u0928",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.17086264",
+      "authors": [
+        "\u092d\u0930\u0924 \u0938\u093f\u0902\u0939"
+      ]
+    }
+  ]
+}

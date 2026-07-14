@@ -1,0 +1,72 @@
+{
+  "title": "\u091c\u0917\u0926\u094d\u0917\u0941\u0930\u0941 \u0936\u0902\u0915\u0930\u093e\u091a\u093e\u0930\u094d\u092f",
+  "discovered_at": "2026-07-13T17:20:02.122975+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "BrahmaSutraShankaraHindi",
+      "title": "Brahma Sutra Shankara Bhashyam (Hindi)",
+      "creator": "Swami Hanumandas Shatshastri",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "dakshinamurti-stotra-hindi",
+      "title": "Dakshinamurti Stotram Hindi Translation",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ratharudha-sri-jagannathadi-ke-darshan-mimansa",
+      "title": "Ratharudha Sri Jagannathadi Ke Darshan Mimansa",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Metadata"
+      ]
+    }
+  ]
+}

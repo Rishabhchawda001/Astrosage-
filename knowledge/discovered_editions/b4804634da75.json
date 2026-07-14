@@ -1,0 +1,323 @@
+{
+  "title": "rigveda_english",
+  "discovered_at": "2026-07-13T16:57:38.827771+00:00",
+  "edition_count": 14,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Rigveda Samhita",
+      "authors": [],
+      "year": 1977,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Veda Pratishthana."
+      ],
+      "ol_key": "/works/OL20900185M"
+    },
+    {
+      "source": "open_library",
+      "title": "The Rigveda",
+      "authors": [],
+      "year": 1974,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Sarvadeshik Arya Pratinidhi Sabha"
+      ],
+      "ol_key": "/works/OL20900108M"
+    },
+    {
+      "source": "open_library",
+      "title": "Rig-Veda Sanhita",
+      "authors": [
+        "H. H. Wilson",
+        "Edward B. Cowell",
+        "William Frederick Webster"
+      ],
+      "year": 1850,
+      "languages": [
+        "san",
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "rigvedasanhitc01wils",
+        "rigvedasanhita01wils",
+        "rigvedasanhitac01websgoog",
+        "rigvedasanhitac00websgoog",
+        "rigvedasanhitac00unkngoog"
+      ],
+      "edition_count": 21,
+      "isbn": [
+        "1019914467",
+        "0342704540",
+        "1844530647",
+        "8170200709",
+        "1021466581",
+        "9781844530649",
+        "0342704524",
+        "101853833X",
+        "9781019914465",
+        "9780342704514",
+        "1021412651",
+        "9781022260115",
+        "9781021466587",
+        "9780342704538",
+        "9788170200703",
+        "0342704532",
+        "1018542647",
+        "9781018542645",
+        "1377802493",
+        "0524073058",
+        "9780342704521",
+        "1022260111",
+        "9780342704545",
+        "1376828510",
+        "9781018538334",
+        "9781021412652",
+        "9781376828511",
+        "9780524073056",
+        "0342704516",
+        "9781377802497"
+      ],
+      "publisher": [
+        "Cosmo Publications",
+        "W. H. Allen and co.",
+        "Tr\u00fcbner and co.",
+        "N. Tr\u00fcbner and co.",
+        "W. H. Allen and co. [etc]",
+        "Wm. H. Allen",
+        "Cosmo (Publications,India)",
+        "Creative Media Partners, LLC",
+        "Franklin Classics",
+        "Trubner & Co"
+      ],
+      "ol_key": "/works/OL8720692W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "nhdx_rigved-english",
+      "title": "Rigved English",
+      "creator": "Granth-Nidhi",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "rigveda-tom-9-1",
+      "title": "Rigveda Tom 9 ( 1)",
+      "creator": "Genoveva Dimcheva Sotiriova",
+      "year": 2025,
+      "language": "bul",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "rigveda_202003",
+      "title": "RIG VEDA",
+      "creator": "",
+      "year": null,
+      "language": "English",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Rigveda Samhita",
+      "authors": [],
+      "year": 1977,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Veda Pratishthana."
+      ],
+      "ol_key": "/works/OL20900185M"
+    },
+    {
+      "source": "open_library",
+      "title": "The Rigveda",
+      "authors": [],
+      "year": 1974,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Sarvadeshik Arya Pratinidhi Sabha"
+      ],
+      "ol_key": "/works/OL20900108M"
+    },
+    {
+      "source": "open_library",
+      "title": "Vedic hymns",
+      "authors": [],
+      "year": 1897,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Clarendon Press"
+      ],
+      "ol_key": "/works/OL14291445M"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "nhdx_rigved-english",
+      "title": "Rigved English",
+      "creator": "Granth-Nidhi",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "rigveda-tom-9-1",
+      "title": "Rigveda Tom 9 ( 1)",
+      "creator": "Genoveva Dimcheva Sotiriova",
+      "year": 2025,
+      "language": "bul",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "rigveda_202003",
+      "title": "RIG VEDA",
+      "creator": "",
+      "year": null,
+      "language": "English",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1684349371",
+      "title": "Negation in English and other languages",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://refubium.fu-berlin.de/bitstream/fub188/48038/1/501-Jespersen-2025.pdf",
+      "authors": [
+        "Otto Jespersen"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1502724890",
+      "title": "Approaching second : second position clitics and related phenomena",
+      "year": 1996,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Aaron L. Halpern",
+        "Arnold M. Zwicky"
+      ]
+    }
+  ]
+}

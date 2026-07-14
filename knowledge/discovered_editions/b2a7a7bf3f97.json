@@ -1,0 +1,180 @@
+{
+  "title": "\u092a\u0902\u0921\u093f\u0924_\u0926\u0940\u0928\u0926\u092f\u093e\u0932_\u0909\u092a\u093e\u0927\u094d\u092f\u093e\u092f",
+  "discovered_at": "2026-07-13T17:23:04.598073+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "trainingforanewindiahindi",
+      "title": "\u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u0923: \u090f\u0915 \u0928\u090f \u092d\u093e\u0930\u0924 \u0915\u0947 \u0932\u093f\u090f [Training For A New India]",
+      "creator": "Bharatiya Janata Party (BJP) - Hemant Goswami, R. Balashankar",
+      "year": 2020,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Windows Executable",
+        "Windows Screensaver",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "trainingforanewindiaenglish",
+      "title": "Training For A New India [ English]",
+      "creator": "Bharatiya Janata Party (BJP) - Hemant Goswami, R. Balashankar",
+      "year": 2020,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Windows Executable",
+        "Windows Screensaver"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.gazette.chhattisgarh.eo.2024-01-23.16",
+      "title": "Chattisgarh Gazette - Extraordinary, 2024-01-23, Extraordinary, Number 16",
+      "creator": "Government of Chattisgarh",
+      "year": 2024,
+      "language": [
+        "eng",
+        "hin"
+      ],
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "trainingforanewindiahindi",
+      "title": "\u092a\u094d\u0930\u0936\u093f\u0915\u094d\u0937\u0923: \u090f\u0915 \u0928\u090f \u092d\u093e\u0930\u0924 \u0915\u0947 \u0932\u093f\u090f [Training For A New India]",
+      "creator": "Bharatiya Janata Party (BJP) - Hemant Goswami, R. Balashankar",
+      "year": 2020,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Windows Executable",
+        "Windows Screensaver",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.gazette.chhattisgarh.eo.2024-02-28.72",
+      "title": "Chattisgarh Gazette - Extraordinary, 2024-02-28, Extraordinary, Number 72",
+      "creator": "Government of Chattisgarh",
+      "year": 2024,
+      "language": [
+        "eng",
+        "hin"
+      ],
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.gazette.chhattisgarh.eo.2024-01-23.16",
+      "title": "Chattisgarh Gazette - Extraordinary, 2024-01-23, Extraordinary, Number 16",
+      "creator": "Government of Chattisgarh",
+      "year": 2024,
+      "language": [
+        "eng",
+        "hin"
+      ],
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4393156177",
+      "title": "\u092a0 \u0926\u0928\u0926\u092f\u0932 \u0909\u092a\u0927\u092f\u092f \u091c \u0915 \u0938\u092e\u091c\u0915 \u090f\u0935 \u0930\u091c\u0928\u0924\u0915 \u0935\u091a\u0930 \u0915 \u0938\u092e\u0917\u0930 \u0935\u0936\u0932\u0937\u0923",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://www.ijfmr.com/papers/2024/2/15559.pdf",
+      "authors": [
+        "Gopal Prasad -",
+        "Rajan Gond -"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3130864461",
+      "title": "\u092a\u0921\u0924 \u0926\u0928\u0926\u092f\u0932 \u0909\u092a\u0927\u092f\u092f \u0930\u091c\u0928\u0924 \u091c\u0935\u0928",
+      "year": 2020,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "\u0921\u0949. \u092a\u094d\u0930\u0935\u0947\u0936 \u0915\u0941\u092e\u093e\u0930 \u092a\u093e\u0923\u094d\u0921\u0947\u092f",
+        "\u0930\u092e\u0928 \u0909\u092a\u093e\u0927\u094d\u092f\u093e\u092f"
+      ]
+    }
+  ]
+}

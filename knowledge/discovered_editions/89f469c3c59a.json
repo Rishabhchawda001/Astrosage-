@@ -1,0 +1,353 @@
+{
+  "title": "Patanjali Yoga Sutra by Swami Vivekananda",
+  "discovered_at": "2026-07-13T14:35:30.853309+00:00",
+  "edition_count": 11,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Patanjali Yoga Sutras",
+      "authors": [
+        "Swami Vivekananda"
+      ],
+      "year": 2020,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9798612017837"
+      ],
+      "publisher": [
+        "Independently Published"
+      ],
+      "ol_key": "/works/OL30556393W"
+    },
+    {
+      "source": "open_library",
+      "title": "Patanjali Yoga Sutras",
+      "authors": [
+        "Swami Vivekananda"
+      ],
+      "year": 2025,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9798895410387"
+      ],
+      "publisher": [
+        "Jha, Jaya"
+      ],
+      "ol_key": "/works/OL42568252W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "RajaYogaSwamiVivekanandaOdia",
+      "title": "Raja Yoga Swami Vivekananda Odia",
+      "creator": "Swami Vivekananda",
+      "year": null,
+      "language": "ori",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "yoga-aphorisms-ed-2",
+      "title": "Yoga Aphorisms",
+      "creator": "Swami Vivekananda",
+      "year": 2025,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "RajaYogaBySwamiVivekananda",
+      "title": "Raja Yoga By Swami Vivekananda",
+      "creator": "Ramakrishna Mission",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Yogas\u016btra",
+      "authors": [
+        "Patan\u0303jali."
+      ],
+      "year": 1890,
+      "languages": [
+        "guj",
+        "nep",
+        "spa",
+        "lat",
+        "eng",
+        "rus",
+        "pra",
+        "san",
+        "hin",
+        "pan",
+        "fre"
+      ],
+      "ebook_access": "printdisabled",
+      "public_domain": false,
+      "ia_identifiers": [
+        "yogadisciplineof00patarich"
+      ],
+      "edition_count": 50,
+      "isbn": [
+        "502017601X",
+        "0520201906",
+        "8186955178",
+        "9780892812622",
+        "8175257253",
+        "9780873957281",
+        "9788186955178",
+        "9780873957298",
+        "8421102753",
+        "0553374281",
+        "9780712909150",
+        "9788175257252",
+        "8187594004",
+        "9782268004297",
+        "9789684610552",
+        "9785020176010",
+        "9781881552109",
+        "0873957296",
+        "071290915X",
+        "9788185120522",
+        "0892812621",
+        "9780520201903",
+        "9788187594000",
+        "9684610556",
+        "9788421102756",
+        "8185120528",
+        "1881552101",
+        "9780553374285",
+        "0873957288",
+        "2268004295"
+      ],
+      "publisher": [
+        "Surendra \u015aa\u1e45kara \u0100nanda",
+        "Ritambhara, Inc.",
+        "Praka\u0304s\u0301aka evam\u0323 Vitaraka Surendra S\u0301an\u0307kara A\u0304nanda",
+        "Manorama\u0304kuma\u0304ri\u0304 Sva\u0304ra",
+        "Paine theg\u0101n\u0101 Ratna Pustaka Bha\u1e47\u1e0d\u0101ra",
+        "exclusively distributed by Indian Books Centre",
+        "Dawson",
+        "Viraj\u0101nanda Vaidika (\u015bodha) Sa\u1e43sth\u0101na",
+        "Barral",
+        "Pra\u0304ptistha\u0304na Bhu\u0304pes\u0301a Bha\u0304ya\u0304n\u0323i",
+        "Prabhu Premi\u0304 Sama\u0304ja",
+        "Printed at the Bachaspatya Press",
+        "University of California Press",
+        "Sva\u0304mi\u0304 Kes\u0301ava\u0304nanda Yoga Sam\u0323stha\u0304na",
+        "Bh\u0101rat\u012bya Vidy\u0101 Prak\u0101\u015bana",
+        "\u015ar\u012bmadanal\u0101la Lak\u1e63m\u012bniv\u0101sa Candaka",
+        "Yoga Niketana T\u0323rast\u0323a",
+        "Viraja\u0304nanda Vaidika (s\u0301odha) Sam\u0323stha\u0304na",
+        "A\u0301rbol Editorial",
+        "Indological Book House",
+        "Caukhambha\u0304 Sam\u0323skr\u0325ta Sam\u0323stha\u0304na",
+        "Bantam Books",
+        "Jamana\u0304da\u0304saputra Man\u0307galagupta",
+        "S\u0301ri\u0304kr\u0325s\u0323n\u0323avallabha\u0304ca\u0304rya Sva\u0304mina\u0304ra\u0304yan\u0323ena",
+        "Published by Clarion Books associated with Hind Pocket Books",
+        "Paine thega\u0304na\u0304 Ratna Pustaka Bhan\u0323d\u0323a\u0304ra",
+        "Editions du Rocher",
+        "A\u0304nanda\u0304s\u0301rama",
+        "Dars\u0301ana Yoga Maha\u0304vidya\u0304laya",
+        "Caukhamb\u0101 Sa\u1e43skrta S\u012brija \u0100phisa",
+        "Ka\u0304roneshana Print\u0323in\u0307ga Warakasa",
+        "Sri Satguru Publications",
+        "Pravacana Praka\u0304s\u0301ana",
+        "Bha\u0304rati\u0304ya Vidya\u0304 Praka\u0304s\u0301ana",
+        "Theosophical Publishing House",
+        "Susil Gupta (India) Private",
+        "\u0100nand\u0101\u015brama",
+        "Vajra Press",
+        "Motilal Barnarsidass",
+        "Bha\u0304rati\u0304ya Sam\u0323skr\u0325ti Vidya\u0304pi\u0304t\u0323ha",
+        "Pramukha vitaraka, Caukhamba\u0304 Vidya\u0304bhavana",
+        "\"Gujara\u0304ti\u0304\" Print\u0323in\u0307ga Presama\u0304m\u0323",
+        "Sa\u1e43sk\u1e5bti sa\u1e43sth\u0101na",
+        "\"Gujar\u0101t\u012b\" Prin\u1e6di\u1e45ga Presam\u0101\u1e43",
+        "S\u0301ri\u0304 A\u0304tma\u0304nanda Jaina Pustakapraca\u0304raka Man\u0323d\u0323ala",
+        "State University of New York Press",
+        "Manoram\u0101kum\u0101r\u012b Sv\u0101ra",
+        "K\u0101roneshana Prin\u1e6di\u1e45ga Warakasa",
+        "Caukhamba\u0304 Surabha\u0304rati\u0304 Praka\u0304s\u0301ana",
+        "Inner Traditions",
+        "\"Nauka,\" Glav. redakt\u0361s\ufe21ii\u0361a\ufe21 vostochnoi\u0306 lit-ry",
+        "Distributed to the book trade in the U.S. by Harper and Row",
+        "Deh\u0101t\u012b Pustaka Bha\u1e47d\u0101ra",
+        "Mukhya Vitaraka A\u0304rya Ran\u0323asim\u0323ha Ya\u0304dava",
+        "S\u0301a\u0304rada\u0304bena Ci\u0304manabha\u0304i Ejyukes\u0301anala Risarca Sent\u0323ara",
+        "University of Calcutta",
+        "Ran\u0323adhi\u0304ra Praka\u0304s\u0301ana",
+        "Ka\u0304s\u0301i\u0304 Hindu\u0304 Vis\u0301vavidya\u0304laya, Va\u0304ra\u0304n\u0323asi\u0304 evam\u0323 Ratna\u0304 Pablikes\u0301ansa",
+        "Chowkhamba Sanskrit Book Depot"
+      ],
+      "ol_key": "/works/OL300151W"
+    },
+    {
+      "source": "open_library",
+      "title": "The Yoga Sutras of Patanjali",
+      "authors": [
+        "Sri S. Satchidananda"
+      ],
+      "year": 1990,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9780932040381",
+        "0932040381"
+      ],
+      "publisher": [
+        "Integral Yoga Publications"
+      ],
+      "ol_key": "/works/OL8708299W"
+    },
+    {
+      "source": "open_library",
+      "title": "Patanjali Yoga Sutras",
+      "authors": [
+        "Swami Vivekananda"
+      ],
+      "year": 2020,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9798612017837"
+      ],
+      "publisher": [
+        "Independently Published"
+      ],
+      "ol_key": "/works/OL30556393W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "Book4SuperEnergyAndSacredSymbolsForPerfectWisdomEnlightenment",
+      "title": "Book 4 Super Energy And Sacred Symbols For Perfect Wisdom Enlightenment",
+      "creator": "Swami Satchidanand",
+      "year": 2009,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "RajaYogaBySwamiVivekananda",
+      "title": "Raja Yoga By Swami Vivekananda",
+      "creator": "Ramakrishna Mission",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "RajaYogaVivekananda",
+      "title": "Raja Yoga",
+      "creator": "Swami Vivekananda",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "JPEG Thumb",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    }
+  ]
+}

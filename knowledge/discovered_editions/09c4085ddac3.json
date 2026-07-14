@@ -1,0 +1,249 @@
+{
+  "title": "Caitanya-caritamrita_Madhya_Lila",
+  "discovered_at": "2026-07-13T12:54:06.656315+00:00",
+  "edition_count": 10,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Sri Caitanya Caritamrita",
+      "authors": [
+        "A. C. Bhaktivedanta Swami Srila Prabhupada"
+      ],
+      "year": 1974,
+      "languages": [],
+      "ebook_access": "printdisabled",
+      "public_domain": false,
+      "ia_identifiers": [
+        "sricaitanyacarit0004krsn"
+      ],
+      "edition_count": 4,
+      "isbn": [
+        "9780912776699",
+        "0912776692",
+        "0912776641",
+        "9780912776538",
+        "0912776536",
+        "9780912776644",
+        "9780912776668",
+        "0912776668"
+      ],
+      "publisher": [
+        "Bhaktivedanta Book Trust",
+        "Bhaktivedanta Book Trust, US"
+      ],
+      "ol_key": "/works/OL8673694W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "CCBSSTAntya",
+      "title": "Sri Caitanya Caritamrita (Antya Lila) with Amrita Pravaha Bhasya & Anubhasya",
+      "creator": "\u015ar\u012bla K\u1e5b\u1e63\u1e47ad\u0101sa Kavir\u0101ja Gosv\u0101m\u012b, \u015ar\u012bla Bhaktivinoda Th\u0101kura, \u015ar\u012bla Bhaktisiddh\u0101nta sarasvat\u012b Th\u0101kura",
+      "year": 2016,
+      "language": "ben",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "CCBSSTMadhya",
+      "title": "Sri Caitanya Caritamrita (Madhya Lila) with Amrita Pravaha Bhasya & Anubhasya",
+      "creator": "\u015ar\u012bla K\u1e5b\u1e63\u1e47ad\u0101sa Kavir\u0101ja Gosv\u0101m\u012b, \u015ar\u012bla Bhaktivinoda Th\u0101kura, \u015ar\u012bla Bhaktisiddh\u0101nta sarasvat\u012b Th\u0101kura",
+      "year": 2016,
+      "language": "ben",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "CaitanyaCaritamrtaMadhyaLilaMSS",
+      "title": "Caitanya Caritamrta Madhya Lila MSS",
+      "creator": "",
+      "year": null,
+      "language": "Sanskrit",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "JPEG Thumb",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Sri Caitanya Caritamrita",
+      "authors": [
+        "A. C. Bhaktivedanta Swami Srila Prabhupada"
+      ],
+      "year": 1974,
+      "languages": [],
+      "ebook_access": "printdisabled",
+      "public_domain": false,
+      "ia_identifiers": [
+        "sricaitanyacarit0004krsn"
+      ],
+      "edition_count": 4,
+      "isbn": [
+        "9780912776699",
+        "0912776692",
+        "0912776641",
+        "9780912776538",
+        "0912776536",
+        "9780912776644",
+        "9780912776668",
+        "0912776668"
+      ],
+      "publisher": [
+        "Bhaktivedanta Book Trust",
+        "Bhaktivedanta Book Trust, US"
+      ],
+      "ol_key": "/works/OL8673694W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "CCBSSTMadhya",
+      "title": "Sri Caitanya Caritamrita (Madhya Lila) with Amrita Pravaha Bhasya & Anubhasya",
+      "creator": "\u015ar\u012bla K\u1e5b\u1e63\u1e47ad\u0101sa Kavir\u0101ja Gosv\u0101m\u012b, \u015ar\u012bla Bhaktivinoda Th\u0101kura, \u015ar\u012bla Bhaktisiddh\u0101nta sarasvat\u012b Th\u0101kura",
+      "year": 2016,
+      "language": "ben",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "CaitanyaCaritamrtaMadhyaLilaMSS",
+      "title": "Caitanya Caritamrta Madhya Lila MSS",
+      "creator": "",
+      "year": null,
+      "language": "Sanskrit",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "JPEG Thumb",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "CCBSSTAntya",
+      "title": "Sri Caitanya Caritamrita (Antya Lila) with Amrita Pravaha Bhasya & Anubhasya",
+      "creator": "\u015ar\u012bla K\u1e5b\u1e63\u1e47ad\u0101sa Kavir\u0101ja Gosv\u0101m\u012b, \u015ar\u012bla Bhaktivinoda Th\u0101kura, \u015ar\u012bla Bhaktisiddh\u0101nta sarasvat\u012b Th\u0101kura",
+      "year": 2016,
+      "language": "ben",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3197224148",
+      "title": "The Breathing Body, Whistling Flute, and Sonic Divine: Oneness and Distinction in Bengal Vaishnavism\u2019s Devotional Aesthetics",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://www.mdpi.com/2077-1444/12/9/743/pdf",
+      "authors": [
+        "Sukanya Sarbadhikary"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2200167287",
+      "title": "Rasa and personhood in the Bh\u0101gavata Pur\u0101\u1e47a",
+      "year": 2005,
+      "is_oa": true,
+      "oa_url": "https://ora.ox.ac.uk/objects/uuid:eb1244c5-adad-4435-abbc-82a6d4603d72",
+      "authors": [
+        "Ithamar Theodor"
+      ]
+    }
+  ]
+}

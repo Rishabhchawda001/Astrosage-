@@ -1,0 +1,168 @@
+{
+  "title": "Durga Chalisa",
+  "discovered_at": "2026-07-13T13:10:56.224898+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Durga Chalisa",
+      "authors": [
+        "Manoj Publications"
+      ],
+      "year": 2004,
+      "languages": [],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9788181338174",
+        "8181338170"
+      ],
+      "publisher": [
+        "Manoj Publications"
+      ],
+      "ol_key": "/works/OL26718938W"
+    },
+    {
+      "source": "open_library",
+      "title": "Maa Durga Puja",
+      "authors": [
+        "Bhagya Singh"
+      ],
+      "year": 2019,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 2,
+      "isbn": [
+        "1695632362",
+        "9781695632363",
+        "9781650734071",
+        "1650734077"
+      ],
+      "publisher": [
+        "Independently Published"
+      ],
+      "ol_key": "/works/OL30219458W"
+    },
+    {
+      "source": "open_library",
+      "title": "Shri Durga Charitra Aivam Chalisa (Hindi)",
+      "authors": [
+        "Nil"
+      ],
+      "year": 2024,
+      "languages": [
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9358565403",
+        "9789358565409"
+      ],
+      "publisher": [
+        "Prakash Book Depot"
+      ],
+      "ol_key": "/works/OL41897421W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "handwritten-2025-04-02-164230",
+      "title": "Durga Chalisa, Vindhyawasini Stotra, And Others",
+      "creator": "Shri Durga Pustakbhandar",
+      "year": 1980,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "best-stotra-ratnavali",
+      "title": "Best Stotra Ratnavali",
+      "creator": "raushan",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shri-durga-chalisa_202311",
+      "title": "Shri Durga Chalisa",
+      "creator": "Om Prakash Singh",
+      "year": 2023,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7140121698",
+      "title": "\u0926\u0930\u0917, \u0935\u0928\u0927\u092f\u091a\u0932\u0935\u0938\u0928 \u0914\u0930 \u091a\u092e\u0923\u0921 \u091a\u0932\u0938 \u092a\u091c\u0928 \u0935\u0927 \u0938\u0939\u0924",
+      "year": 2026,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.19186039",
+      "authors": [
+        "Acharya Pt. Dr Avdhesh Kumarr"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7140140334",
+      "title": "\u0926\u0930\u0917, \u0935\u0928\u0927\u092f\u091a\u0932\u0935\u0938\u0928 \u0914\u0930 \u091a\u092e\u0923\u0921 \u091a\u0932\u0938 \u092a\u091c\u0928 \u0935\u0927 \u0938\u0939\u0924",
+      "year": 2026,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.19186040",
+      "authors": [
+        "Acharya Pt. Dr Avdhesh Kumarr"
+      ]
+    }
+  ]
+}

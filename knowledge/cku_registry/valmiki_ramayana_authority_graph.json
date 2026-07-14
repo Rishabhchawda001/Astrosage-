@@ -1,0 +1,50 @@
+{
+  "editions": [
+    {
+      "file": "ramayana_part2_gita_press.txt",
+      "publisher": "Gita Press",
+      "year": 1980,
+      "editor": "Gita Press",
+      "commentator": "Gita Press",
+      "language": "Hindi",
+      "authority_score": 60
+    },
+    {
+      "file": "kalyan_ramayan_ank.txt",
+      "publisher": "Gita Press (Kalyan)",
+      "year": 1960,
+      "editor": "Hanuman Prasad Poddar",
+      "commentator": "Various",
+      "language": "Hindi",
+      "authority_score": 55
+    },
+    {
+      "file": "ramcharitmanas_djvu.txt",
+      "publisher": "Tulsidas",
+      "year": 1950,
+      "editor": "Unknown",
+      "commentator": "Tulsidas",
+      "language": "Hindi",
+      "authority_score": 65
+    }
+  ],
+  "families": [
+    {
+      "name": "Gita Press",
+      "editions": [
+        "ramayana_part2_gita_press.txt",
+        "kalyan_ramayan_ank.txt"
+      ]
+    },
+    {
+      "name": "Tulsidas",
+      "editions": [
+        "ramcharitmanas_djvu.txt"
+      ]
+    }
+  ],
+  "primary_witness": "ramcharitmanas_djvu.txt",
+  "canonical_reconstruction": "Tulsidas as primary (traditional authority), Gita Press as supporting",
+  "scripture": "Valmiki Ramayana",
+  "date": "2026-07-14T09:15:38.591309"
+}

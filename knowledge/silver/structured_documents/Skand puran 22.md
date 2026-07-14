@@ -1,0 +1,7759 @@
+# Skand puran 22
+
+**Document ID:** DOC-A0D64DA996BF
+**Language:** english (latin)
+**Pages:** 203
+**Class:** native_text
+**SHA256:** `a0d64da996bfa581e6aad45434782fe5d5043d04567e28c60a30d9a5602b1694`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+ANCIENT INDIAN TRADITION 
+AND MYTHOLOGY 
+Translated by 
+A BoARD oF ScHOLARS 
+Edited by 
+DR. G.P. BHATI 
+VOLUME 70
+
+## Page 2
+
+ANCIENT INDIAN TRADITION AND 
+MYTHOLOGY SERIES 
+[PPASINTRANSLATION] 
+Volumes Released 
+SIVA 1-4 
+LINGA5-6 
+BHAGAVATA 7-11 
+GARUI;>A 12-14 
+NARADA 15-19 
+KURMA20-21 
+BQA22-26 
+AGNI27-30 
+VARAHA31-32 
+BRAHMA 33-36 
+VAYU37-38 
+PADMA39-48 
+SKANDA,PARTSI-XXIll,49-71 
+V AMANA 72-73 
+Volumes Under Preparation 
+BHAVIRYA 
+BRAHMA V AIV ARTA 
+DEviBHAGAVATA 
+KAuKA 
+nEYA 
+MATSYA 
+m 
+VIRSHARMOTTARA
+
+## Page 3
+
+THE 
+SKANDA-PURANA 
+PART XXII 
+Translated and Annotated by 
+SHRIDHAR BALOONI 
+PRATOSH PANDA 
+Book VII: Prabhasakhal}cJa 
+Section III: Arbuda Khal}cJa 
+• 
+MOTILAL BANARSIDASS PUBLISHERS 
+PRIVATE LIMITED • DELHI
+
+## Page 5
+
+First Edition: Delhi, 2010 
+© MOTILAL BANARSIDASS PUBLISHERS PVT. LTD. 
+Au.RIGIITSREsi!RVED 
+ISBN: 978-81-208-3426-2 
+MOTILAL BANARSIDASS 
+41 U.A. Bungalow Road, Jawahar Nagar, Delhi 110 007 
+8 Mabalaxmi Chamber, 22 Bhulabhai Desai Road, Mumbai 400 026 
+120 Royapettah High Road, Mylapore, Chennai 600 004 
+236, 9th Main DI Block, Jayanagar, Bangalore 560 011 
+Sanas Plaza,' 1302 Baji Rao Road, Pune 411 002 
+8 c;:amac Street, Kolkata 700 017 
+Ashok Rajpath, Patna 800 004 
+Chowk, Varanasi 221 001 
+UNESCO COLLECTION OF REPRESENTATIVE WORKS-Indian Series 
+This book has been accepted in the Indian Translation Series 
+of the UNESCO Collection of Representative Works, 
+jointly sponsored by the United Nations Educational, 
+Scientific and Cultural Organiwtion 
+(UNESCO) and the Government of India 
+Printed in India 
+BY JAINENDRA PRAKAsH JAIN AT SHRIJAINENDRA PRESS, 
+A-45 NARAINA, PHASE-I, NEW DELHI 110 028 
+AND PUBLISHED BYNARENDRA PRAKASH JAIN FOR 
+MOTIIAL BANARSIDASS PUBLISHERS PRIVATE LIMITED, 
+BUNGALOW ROAD, DELHI 110 007
+
+## Page 6
+
+PUBLISHER'S NOTE 
+The purest gems lie hidden at the bottom of the ocean or in the 
+depth of rocks. One has to dive deep into the ocean or delve 
+into the rocks to find them out. Similarly, truth lies concealed 
+in the language which keeps on changing with the passage of 
+time. Man has to learn that language before he discovers that 
+truth. 
+But he has neither the means nor the leisure to embark on 
+that course. We have, therefore, planned to help him acquire 
+knowledge by an easier course. Our goal is to universalize knowl­
+edge through the most popular international medium expres­
+sion. Therefore, we have started the series of Ancient Indian 
+Tradition and Mythology under which we plan to publish Puml}.as 
+in English translation. 
+Acknowledgement 
+It is our pleasant duty to put on record our sincere thanks to Dr. 
+R.N. Dandekar and the UNESCO authorities for their kind 
+encouragement and valuable help in the publication of the 
+volumes in this series.
+
+## Page 7
+
+PUBLISHER'S NOTE 
+ABBREVIATIONS 
+CONTENTS 
+SKANDA-PURAA 
+BOOK VII: PRABHASAKHAr:t4A 
+SECTION III: ARBUDA KHlQA 
+Chapters 
+v 
+xi 
+1 . A Hollow Near the Hermitage of Vasi{tha 
+1 
+2. The Acts of Uttailka, A Disciple of Gautama 
+4 
+3. Vasiੂha's Order to Nandivardhana to Fill 
+Up the Cleft 
+9 
+4. Origin of Acalesvara 
+1 3 
+5. Greatness of Naga irrtha 
+1 5 
+6. Greatness of Vasi{tha's Hermitage 
+1 8 
+7. Influence of Acalesvara 
+1 9 
+8. Greatness of Three-eyed in the pond of 
+Bhadrakaqta 
+22 
+9. Eminence of Kedara 
+2 3 
+1 0. Pilgrimages in the Arbuda 
+Region during Kali Yuga 
+29 
+1 1. Eminence of Koͷisvara 
+3 5 
+1 2. Greatness of Riipa Tirtha 
+37 
+1 3 . Greatness of Vi{QU 
+41
+
+## Page 8
+
+viii 
+Contents 
+14. Greatness of Siddhesvara 
+4 7 
+15. Greatness of Sukresvara 
+49 
+1 6. Greatness of Mat:tikੁ
+ikesvara 
+5 I 
+1 7. Greatness of Pailgu Tirtha 
+54 
+1 8. Greatness of Y ama Tirtha 
+55 
+1 9 . Greatness of V araha T"rrtha 
+57 
+20. Greatness of Candraprabhasa 
+5 9 
+2 1 . Greatness of Pit:tcJodaka Tirtha 
+62 
+22. Greatness of Gracious Mother 
+64 
+23 . Greatness of Sukla T"Irtha 
+7 2 
+24. Greatness of Katyayani 
+74 
+25. Greatness of Pindaraka T"rrtha 
+7 7 
+26. Greatness of Kanakhala Tirtha 
+79 
+27 . Effect of Cakra Tirtha 
+8 1 
+28. Greatness of the Manu{ya Tirtha 
+8 1 
+29. Greatness of Kapila Tirtha 
+83 
+30. Eminence of Agni Tirtha 
+93 
+3 1 . Greatness of Raktanubandha 
+9 8 
+32. Greatness of Vinayaka 
+1 02 
+33. Greatness of Parthesvara 
+1 06 
+34. Greatness of Kr{t:ta Tirtha 
+1 08 
+35. Otigin of Mamu lake 
+1 1 3 
+36. Origin of Eminent Asrama of Candi 
+1 1 8 
+3 7. Origin of Eminent Naga T"Irtha 
+1 3 7 
+38. Origin of Eminent Siva Ganga Pool 
+1 40 
+39. Importance of Offering Barley to the worshipable 
+Liilga of Siva 
+1 44 
+40. Eminence of Kamesvara 
+151 
+4 1 . Markandeya: the Origin of His Place of Hermitage 
+1 54 
+42. Eminence of Udalakesvara 
+1 58 
+43 . Eminence of Siddhesvara 
+1 5 8 
+44. Effect of Gajatirtha 
+1 59 
+45. Origin of Eminent Devakhata 
+1 59 
+46. Eririnence of Vyasa T"Irtha 
+1 60
+
+## Page 9
+
+Contents 
+ix 
+4 7. Greatness of the Hermitage of Gautama 
+1 60 
+48. Eminence of Kulasantavana Tirtha 
+1 62 
+49. Eminence of Rama Tirtha 
+1 66 
+50. Impact of Kotitirtha 
+1 68 
+5 1 . Greatness of Candroudbheda Tirtha 
+1 69 
+52. The Commanding Peak of the Mountain 
+1 7 1 
+5 3 . Origin of Centre of Pilgrimage with Brahma's foot 
+1 74 
+54. Eminence of Tri-Pukara 
+1 76 
+55. Greatness of Riidra Lake 
+1 78 
+56. Greatness of the Lord of Caves 
+1 78 
+57. Greatness of the Undivided Region 
+1 79 
+5 8 . Majesty of Umamahesvara 
+1 79 
+59. Impact of the Mahoujasa Tirtha 
+1 80 
+60. Impact of Jambii Tirtha 
+1 8 1 
+6 1 . Eminence of Gangadhara Tirtha 
+1 83 
+62. Eminence of Katesvara-Gangesvara 
+1 83 
+63 . Eminence of fruits of Arbuda as heard of 
+1 85 
+INDEX 
+1 86
+
+## Page 11
+
+ABBREVIATIONS 
+Common and self-evident abbreviations such as Ch(s)­
+Chapter(s), p-page, pp-pages, v-verse, vv-verses, Ftn­
+Footnote, Hist. Ind. Philo.-History of Indian Philosophy are 
+not included in this list. 
+AGP 
+AIHT 
+AITM 
+AP 
+AV 
+BdP 
+BG 
+BhP 
+Br 
+BsP 
+BVP 
+cc 
+cvs 
+DB 
+De or 
+GDAMI 
+DhS 
+S.M. Ali's The Geography of PuriilJ(ls, PPH, New 
+Delhi, 1 973 
+Ancient Indian Historical Tradition, F.E. Pargiter, 
+Motilal Banarsidass (MLBD), Delhi 
+Ancient Indian Tradition and Mythology Series, 
+MLBD, Delhi 
+Agni PuriilJO, Guru Mandai Edition (GM), Calcutta, 
+1 957 
+Atharva Veda, Sviidhyiiya MaQ.4al, Aundh 
+Brahmii7J.4a PuriiiJ.a, MLBD, Delhi, 1 973 
+Bhagavadg'itii 
+Bhiigavata 
+Purii7J.a, 
+Bhagavat 
+Vidyapeeth, 
+Ahmedabad 
+Briihma7J.a (preceded by name such as Satapatha) 
+BhaviBya PuralJO, Vishnu Shastri Bapat, Wai 
+Brahma Vaivarta PuriiTJ.a, GM, 1 955-57 
+Caturvarga CintiimaTJ.i by Hemiidri 
+Cara7J.a Vyuha Sutra 1;>y Saunaka, Com. by 
+Mahidiisa 
+Devi Bhiigavata, GM, 1 960-6 1 
+The Geographical Dictionary of Ancient and Medi­
+eval 
+India, N .L. De/Dey, Oriental Reprint, Delhi, 1 97 1 
+Dharma Sutra (preceded by the author's name such 
+as Gautama)
+
+## Page 12
+
+xii 
+Contents 
+GP 
+Garu4a 
+Purii1J.a, 
+ed. 
+R.S . 
+Bhattacharya, 
+Chowkhamba, Varanasi, 1 964 
+GS 
+HD 
+JP 
+KA 
+KP 
+LP 
+Manu 
+Mbh 
+MkP 
+MN 
+Mtp 
+MW 
+NP 
+PdP 
+PE 
+Grhya Sutra (preceded by the name of the author 
+such as Apastamba) 
+History of Dharma Siistra, P.V. Kane, G.O.S. 
+Purii1J.a (Journal of the Kashiraj Trust), Varanasi 
+Kau(ilya Arthasiistra 
+Kiirma PuriiQa, Venkatesvara Press Edn., Bombay; 
+also Kashiraj Trust Edn., Varanasi, 197 1 
+Li"nga Purii1J.a, GM, 1960; also MLBD, Delhi, 198 1 
+Manusmrti 
+Mahiibhiirata, Gitii Press, Gorakhpur, VS 2014 
+Miirka1J.4eya Purii1J.a 
+Mahiibhiirata Niimiinukramarfi, 
+Gitii Press, 
+Gorakhpur, VS 201 6 
+Matsya Purii1J.a, GM, 1 954 
+M. Monier-Williams' Sanskrit-English Dictionary, 
+MLBD, Delhi, 1976 
+Niiradiya or Niirada Purii1J.a, Venkatesvara Press, 
+Bombay 
+Padma Purii1Ja, GM, 1 957-59 
+Purii1J.ic Encyclopaedia, V. Mani, MLBD, Delhi, 
+1 975 
+PR or 
+Puranic Records on Hindu Rites and Customs 
+PRHRC 
+R.C. Hazra, Calcutta, 1948 
+, V 
+J!.g Veda, Sviidhyiiya MaQgal, Aundh 
+Sat Br 
+Satapatha Briihma1Ja 
+SC or SMC Smrti Candrikii by Devanna Bhatta 
+SkP 
+Skanda Purii1Ja 
+SP 
+Siva PuriiiJ.a 
+ViiP 
+Viiyu Purii1Ja 
+VR 
+Viilmiki Riimiiyana 
+V dP 
+ViğT}udharmottara Purii1Ja 
+VmP 
+Viimana Purii1Ja 
+VP 
+ViBIJ.U Purii1Ja 
+VrP 
+Variiha Purii1Ja
+
+## Page 13
+
+SKANDA PURATA 
+Book VII: Prabhasakhai}«Ja 
+Section III: Arbuda Khai}«Ja 
+CHAPTER ONE 
+A Hollow Near the 
+Hermitage ofV asiUtha 
+Obeisance to gracious Gat:te8a. Now the third section of 
+Prabhasa KharJ4a entitled Arbuda KharJ4a starts. 
+Vyasa said: 
+1 . Obeisance to that endless, subtle, pure, God of gods, the 
+creator knowable through the means of knowledge, and the 
+cosmic-formed Samkara. 
+The Sages said: 
+2-3. 0 Siita! You have already described the Lunar and Solar 
+races in a detailed manner. You have also described all the 
+Ages of Manu and the different types of creations. Now, we 
+want to hear about the greatness of the principal places of 
+pilgrimage. 0 Siita of great intelligence ! which are the 
+auspicious places of pilgrimage on this earth? 
+Suta said: 
+4. There are many centers of pilgrimage in this world which 
+cannot be counted. Their number has been stated to be three 
+and a half crore in olden times.
+
+## Page 14
+
+2 
+Skanda Purii1J.a 
+5-7. Different regions, rivers, mountains and large rivers have 
+attained distinguished and exalted position through the 
+austerities and heroic acts of sages. Among these is a place of 
+pilgrimage named Arbuda which is free from sins, destroyer of 
+all sins and exempted from the touch of vices of the Age of 
+Kali through the influence of Sage VasiCüha. All places of 
+pilgrimage purify by means of offering of free gifts and bathing. 
+But all the sins of humans get destroyed by a mere sight of 
+Arbuda from a distance. 
+The sages said: 
+8-9. What are the dimensions of this Arbuda mountain? 
+Where is it situated? How could it get the fame by the greatness of 
+VasiCýa? Which are the main places of pilgrimage on this Arbuda? 
+Please explain in details. We have a great curiosity to know. 
+Suta said: 
+10. 0 great BdihmaQas! I describe the sin-destroying story 
+of Arbuda mountain, the way I have heard. 
+1 1 - 1 3 . VasiCtha, the son of Brahma, was a divine sage. 
+Descending on earth, he performed severe austerities. He used 
+to live in open during rains and in water during winter. He 
+used to take fixed food and kept himself engaged in the welfare 
+of all living beings. Undergoing the pain of self-torment under 
+five fires during summer, he used to keep himself continuously 
+engaged in muttering names of deities and in making offerings to 
+fire. He had a wish-fulfilling milch cow named Nandini with him. 
+14. Once while wandering about on earth, she fell into a 
+deep and dark cleft affected by extreme thirst. 
+1 5. Coinciding this, the Sun god set down but the cow did 
+not return to the hermitage. 
+16. Everyday in the morning and in the evening VasiCtha, 
+the observer of religious vow used to perform the ritual of 
+offering oblation to fire with the milk of that cow. 
+17. Now worried with the fear of atonement, VasiCþa went in 
+search of the cow in the higher and lower regions of that mountain.
+
+## Page 15
+
+vii.lll. I. I 8-32 
+3 
+1 8. Going near that ditch, he heard the painful voice of the 
+cow. He asked the auspicious cow, "How could you fall down 
+here? 
+1 9-20. Becoming nervous as to how offering oblation to the 
+sacrificial fire could be continued, I have come out to see you." 
+The cow said, "I have fallen down here due to my desire to 
+have grass. Please save me from this difficult, intolerable pain." 
+Having heard those words of hers, Sage VasiCtha, resorted to 
+meditation. 
+2 1 -23. He meditated on the (divine) river Sarasvati, the 
+purifier of all the three worlds. She on being meditated on by 
+that sage filled the ditch completely at once with pure water. 
+The ditch having thus been completely filled, Nandini then 
+came out of it. Becoming happy, the cow came back to the 
+hermitage with the sage. 
+24-27. That great sage saw depth in the middle of the ditch 
+and he, the wise one, thought of filling it up. 0 Brahmar:tas! a 
+thought that this ditch be filled up with stones brought from the 
+mountain dawned on Vasiÿtha and he thought, "Let me proceed 
+towards Himalaya soon. Himalaya will send stones here. This 
+ditch will get filled up by this great soul." Sage VasiCtha then 
+went to Himalaya. Having seen VasiCtha coming, the Himalaya 
+mountain became happy. Then having received him by washing 
+of feet and making deserving offering he said: 
+28-29. "Welcome to you, 0 great sage! My life has become 
+fruitful today that you, the one adorable to all gods, have arrived 
+at my house today. 0 great sage! Tell me the job to be done, 
+any job, which I, of course, will do, even by sacrificing my life 
+for your sake." 
+30-32. VasiCtha said: "There is a dangerous hollow near my 
+hermitage. Nandini, my best cow, had fallen into it. I took her 
+out with great effort. I have come to you with the fear that she 
+may fall into it again. 0 Lord of the Earth! No one else is able 
+to accomplish this task (of filling the hollow). Hence, 0 great 
+one, please send any mountain there, by which the hollow gets 
+filled up. Send something like this."
+
+## Page 16
+
+4 
+Skanda Puriil')a 
+33. Himalaya said: "0 great Sage! how does that hollow 
+measure? I will send a mountain after considering the size equal 
+to the same measurement." 
+34. VasiHha said: "Its breadth and length measure 
+respectively 2000 and 3000. I cannot tell its depth." 
+35. Himalaya said: "What could be the cause for the formation 
+of a hollow of such measurement. I have a.great curiosity. 
+Describe this in greater details." 
+VasiB{ha said: 
+CHAPTER TWO 
+The Acts of Uttaiika, 
+a Disciple of Gautama 
+1 . There was a great sage named Gautama in earlier times, 
+who had practised severe austerities. His wife was renowned 
+by the name Ahalya. * 
+2. This sage· had taught crores of disciples and he used to 
+send them back home after making them accomplished in the 
+learning of sacred texts. 
+3 . Attached firmly with faith in the teacher, one of his 
+intelligent disciples named Uttanka used to stay in his (the 
+teacher's) house. 
+4. Despite old age afflicting him (i.e., the disciple), he was 
+not sent back home. His hair turned grey. But as he (Uttanka) 
+was the best disciple, he used to put up there. 
+5. Proficient in studies and remaining engaged in all activities, 
+some time he went out to fetch firewood. 
+6. Collecting a heavy load of firewood he came back to the 
+hermitage and the firewood fell down on the ground. 
+• The text has Ahilya.
+
+## Page 17
+
+vii.l/1. 2. 7-22 
+5 
+7- 1 1 . Seeing one of his hair stuck to the wood Uttailka 
+became very sad and worried. He began to think, "My life is 
+ruined and has become a matter of reproach! What use has it 
+been left with! As a person devoid of intelligence, I have not 
+got married even. Cursed have I become to waste my life and 
+with my thoughtless action my lineage will come to an end." 
+Ahalya, the wife of the teacher noticed that Uttailka was very 
+unhappy. As she informed the great Sage Gautama about 
+Uttailka's pain, with a soft voice the Sage said, "0 Son! go 
+home and together with your wife perform Agmnotra (offering 
+oblation to fire) etc. as prescribed and without any hesitation." 
+1 2- 1 3. After the teacher said like this Uttailka said, "Tell me 
+the fee which I will definitely give." Gautama said, "0 dear 
+son! You have already served me in a big way and my fee has 
+been paid through the same. There is no doubt in this." Uttailka 
+said, "Of course, you have to take something by which I will 
+have my satisfaction. 0 best Sage! I have already become 
+proficient in studies with your grace." 
+14::-16. Gautama said, "0 son! I have nothing to take. I am 
+pleased with your service and I have no desire for your wealth. 
+Go back to your own house with all happiness." After the 
+utterance of words 'Service to teacher' Uttailka told the wife of 
+the teacher, "0 Mother! I have to make an offering by which I 
+will have my satisfaction." 
+1 7- 1 8. The wife of the teacher said, "0 son! you go to 
+Saudasa and follow my orders fast. His wife is renowned as 
+Madayanti 0 pupil! get the earrings of Madayanti fast. I will 
+curse you if you do not turn up by the fifth day." 
+1 9-20. Uttailka left and reached Saudasa's house as soon as 
+the tea਽her' s wife said so. He saw Saudasa having the face of 
+tiger. Having seen this Brahmal}a, Saudasa said, "You have 
+arrived for my food. 0 Brahmal}a! I will undoubtedly eat you 
+up." 
+21 -22. Uttailka said, "0 King! you, of course, eat me up but 
+before that listen to these words of mine. You give me both of 
+your earrings. After giving them to the teacher, I will come 
+back and then you can eat me up."
+
+## Page 18
+
+6 
+Skanda Puriif}a 
+Saudasa said: 
+22-23. You go to the temple difficult to approach where my 
+wife stays. With fear of your own life, you go there carefully 
+and ask her for the earrings as per my words, which she will 
+give you. 0 BrahmaQa! you do not have to do anything other 
+than this truth. 
+VasiBtha said: 
+24-25. Going near Madayanti, the best Brahmal}a said, "0 
+revered lady ! Please give me both the earrings as per the 
+command of Saudasa to you." Madayanti said, "0 BrahmaQa! 
+I have doubt whether to give you the earrings. Please show me 
+a token of proof with regard to the identity of the King." 
+26. Instantly he rushed to the King and asked for his identity. 
+Saudasa said: 
+27. Go and tell that righteous lady these words of mine: "One 
+without whom welfare cannot be attainable and only misfortune 
+awaits." She in turn will, of course, hand over to you the 
+bejewelled earrings. 
+VasiB{ha said: 
+2 8 - 3 0 . Having taken such identity Uttailka went and 
+communicated it to her. Then having said, "0 BriihmaQa! take 
+the earrings," she gave the earrings. She also said, "You must 
+carry these earrings with great care. 0 BrahmaQa! the goldsmith 
+always had the desire for these two earrings." Having taken 
+these, the BrahmaQa became wonderstruck with wide open eyes. 
+However, he was perplexed over the words of the King for 
+which he proceeded to the King again with curiosity. 
+He said: 
+31 -32. After bringing to notice your identity, I have obtained 
+the two glittering earrings. But I could not understand your 
+statement, for the comprehension of which I have come to you
+
+## Page 19
+
+vii.lll. 2. 33-44 
+7 
+again. 0 King! I was settled in whichever way in my own work. 
+But I have curiosity to know as to the reason for which welfare 
+or well-being cannot be possible and one is driven towards 
+misfortune. 
+Saudasa said: 
+33. The act of worship causing pleasure to a BdihmaJJa brings 
+in welfare while the same act resulting in displeasure causes 
+misfortune as was my previous (old) condition. 
+34-35. I had a curse of Sage Vasi{tha on me, according to 
+which, I would be released from the sins of my vices when 
+someone could only enable an unpressed declaration of this 
+question from me. 0 best BrahmaJJa! I have become free from 
+the curse today by your kindness and have attained the sacred 
+Abode. Take leave from me and my due respects to you." 
+Vasi{ha said: 
+36-38. Thereafter becoming free from Saudiisa, Uttaiika took 
+to his way swiftly. While on way, becoming intently troubled 
+with hunger he happened to see a Bilva fruit (a wood-apple) 
+on a tree. Then tying up both the earrings with the haired skin 
+of a black antelope, he kept them on the ground and climbed 
+up the tree. In the intervening period, Taਾ{aka, the Niiga prince, 
+taking away both the earrings went away in the Southern 
+direction of the grassland. 
+39. Having eaten the fruit, Uttailka descended to the ground 
+and began to look intently for the earrings on all sides. He saw 
+Takaka, the King of Niigas in front entering a frightening dark 
+hole. 
+40-44. Picking up a stick lying nearby in hand Uttailka 
+entered the hole full of darkness and got engaged in searching. 
+Seeing Uttaiika to be sad and stressed due to the teacher's job 
+Indra put the mighty thunderbolt onto the stick and Uttailka 
+could dig up to the bottom of the earth very soon. Ha.ving 
+entered the lower region of earth, i.e., hell, he went on moving 
+around with an eye upon the earrings. He saw a horse of superior
+
+## Page 20
+
+8 
+Skanda Puriil}a 
+quality of full white colour there. The horse told him, "You 
+touch my private part and your job will be done." 
+45-4(). Smoke soon spread across there after its saying so. 
+The fire engulfed all places in the nether region including the 
+ffi'Juntains supporting the earth. Then agitated snakes began to 
+run here and there. Along with the earrings, Tਿaka, the king 
+of Nagas, was there before them. Then he handed over the 
+earrings to Uttanka and after paying his respects left for home. 
+VasiBtha said: 
+47-54. Now Fire said to the assured best BrahmaQ.a, "I am 
+Agni, whom you had worshipped earlier as per the direction of 
+your own teacher. Out of mercy, I have come here seeing you 
+sad. You sit on my back fast. I will take you to the teacher the 
+storehouse of all qualities." Then Uttaiika seated on his back 
+started heading towards the teacher's hermitage and instantly 
+reached near the abode of Gautama. At that time, after having 
+a bath and getting herself dressed up Ahalya was by the side of 
+her husband and happened to be saying, "Uttaiika has not come 
+today. I am determined to curse him. He shows laxity in 
+performing the teacher's assignment." Hardly had she spoken 
+like this when Uttaiika appeared before her with a bright face. 
+He had brought both the earrings and after paying respects 
+gave those with faith. Having taken those earrings, Ahalya wore 
+them on her ears at that time and then sent Uttaiika back home. 
+Vasik(ha said: 
+55. Thus that cleft was caused by Takǚaka and Uttaiika. Intent 
+upon thinking like this, I am, therefore, for it to be filled up due 
+to my cow. 
+56. Hence, you please fill it up quickly for no one else other 
+than you is able to do this even with one hundred meritorious 
+actions. 0 Himalaya, 0 King of mountains, complete my worੀ 
+without any hesitation.
+
+## Page 21
+
+vii.lll. 3. 1 - 1 0 
+Suta said: 
+CHAPTER THREE 
+VasiUtha's Order to Nandivardhana 
+to Fill Up the Cleft 
+9 
+1 -2. Having listened to this statement of the great soul 
+Vasitha, Himalaya began to think how to fill up the cleft. After 
+thinking on the matter for a long duration Himalaya asked Sage 
+Vasitha to tell the way mountains can be brought there. 
+3. He continued, "Indra had cut off the wings of all mountains 
+since olden times. Hence, 0 best Sage, make this work certain." 
+Vasitha said: 
+4-6. 0 great mountain! there is a way to fit mountains there. 
+You have the son famous as Nandivardhana. His best friend is 
+of the name Arbuda. He is the best among all bearir.g life. He 
+is powerful, and roams about in the sky. As one always on the 
+move to higher regions, he must have reached there fast and 
+there is no doubt about it. I have come here having known that 
+all works are his sport. 
+7. You give him orders and do not get worried. If you are a 
+devotee of mine, send him fast there, of course. 
+Suta said: 
+8- 1 0. After hearing the words of Vasi{tha, Himalaya, 
+affectionate toward son became very sad and thought: "Our 
+son Mainaka has entered the sea and Vasi{tha has arrived to 
+take away the eldest one. Now what should we do that will be 
+for the good of all of us. There was fear of curse on one side 
+while on the other was excessive sorrow of separation from 
+son. But then separation from son is right while incurring the 
+curse of a Brahmal)a is not."
+
+## Page 22
+
+1 0 
+Skanda Puriif}a 
+1 1 - 1 2. Resolving like this he told Nandivardhana, "0 Son, 
+go to Vasitha' s hermitage obeying my words. There is a 
+frightening cleft there. Fill it up fast. Take along Arbuda, and 
+the Naga best among your beloved living beings. 
+Nandivardhana said: 
+13-14. 0 Lord! that country is full of sinners. No fruit or 
+flower appears there. Only Pala§a, Khadira and cotton trees 
+(Salmali), etc. grow there. There is no river there. All inhabitants 
+there are wicked. 0 King of mountains! I am in no way fit to 
+go there. 
+15-1 8. Vasitha then told the nervous Nandivardhana, "There 
+is no need for you to fear or to be affected by anyone' s 
+wickedness there, for there will always be my abode on top of 
+your head. Places of pilgrimage, rivers, gods, auspicious 
+mansions and many kinds of trees having fruits, foliage and 
+flowers will be there. As good signs, there will be deer and 
+birds there. I will get Lord Sarllkara there for your need, as a 
+result of which along with Indra all gods will shine forth there. 
+Suta said: 
+1 9-26. Nandivardhana became exalted after hearing the 
+statement of V asitha. Going near the Arbuda mountain and 
+repeating the same statement he said, "0 friend! we will go 
+there. Let there be good fortune for you. I consider this time to 
+be fit for the job related to the Brahmal}.a". Arbuda said, "0 
+son of Mountain! with myself originated from mountain, I will 
+come there due to my love for you and will undoubtedly dwell 
+there with you till the accomplishment of your job. But, 0 
+brother, due to my love, I want to say something. Till my voice 
+lasts, I am speaking out of love and if you feel I am right, do 
+not think differently. May this place earn its fame by my name 
+and I do not have any other debt." Then after admitting, and 
+bowing down to mother and father, he left along with the sage 
+getting mounted on Arbuda.
+
+## Page 23
+
+vii.lll. 3. 27-37 
+11 
+27. Possessed of heavenly trees, rivers, fountains, deer and 
+full of the melodious sounds af birds, Arbuda stayed on top of 
+the fissure as per the words of the sage. All of these arrived 
+there and the great soul Arbuda, left all in the fissure. Sage 
+Vasi{tha became satisfied with the fissure filled up. He told 
+Arbuda mountain to ask for a boon saying he was fully pleased 
+with his actions. 
+Arbuda said: 
+28-3 1 . 0 great Sage! You are pleased. This is the best boon. 
+However, 0 Brahmal}a! If you have to give something then 
+listen: Let there be a stream of clean water on the peak of this 
+mountain which be renowned by the name 'Nagatirtha' in all 
+directions of the land. Due to love for my friend I will always 
+dwell there and with your kindness let all humans attain the 
+heavenly world after having a bath in this place of pilgrimage. 
+Let a barren woman taking bath in this place of pilgrimage get 
+happiness, good fortune and children. 
+VasiBtha said: 
+32-35. A barren woman who takes a bath only once in this 
+whole water will obtain a son endowed with all good features. 
+A woman worshipping with fruits on the fifth day of the brighter 
+half of the lunar month of Sraval}a (July-August) will obtain 
+sons despite being one hundred years old. The humans who 
+take bath with faith in fuis place of pilgrimage will attain the 
+highest place after getti11g exempted from old age and death. 
+Those performing the ceremony in honour of the dead 
+forefathers here on the fifrh day of a month with all strictness, 
+will get the complete fruits ,1f pilgrimage performed in the month 
+of Sraval}a. 
+Suta said: 
+36-37. Sage Vasi{tha after having given boon in this way 
+came near Nandivardhana and said these words, "0 Son! ask 
+for a boon. 0 sinless one! I am pleased with you. Because of
+
+## Page 24
+
+1 2 
+Skanda Puriif}tl 
+your humility and good-heartedness, I am giving you 
+whichever object that is difficult to obtain." 
+Nandivardhana said: 
+38-39. 0 Best one of Sages! Your earlier statement is true. 
+Your presence be always here by virtue of which I and Arbuda 
+earn fame on the earth. It is established in my mind that all 
+these happened by your grace. 
+Suta said: 
+40-47. The blessed sage Vasi{tha told him that it would be 
+like this and inspired by his statement he built up his own 
+hermitage there. Trees like Pansa (bread fruit), Campaka (a 
+tree bearing yellow fragrant flowers), mango, Priyaiigu, Bilva, 
+three leaved Bela (asafoetida) . and pomegranate etc. are there 
+on this mountain. Many kinds of birds also dwell here. Gods 
+and the heavenly musicians (Gandharvas) serve it. Sage 
+Vasi{tha dwells there along with Arundhati. Through (the power 
+of) penances, Sage Vasi{tha had brought the river Gomati here 
+by bathing in which the extremely vicious humans also go to 
+the heavenly world. Those who take bath in the month of Magha 
+(corresponding to the months of January-February) especially 
+during the period when the Sun remains in Makara (the Zodiac 
+sign of Capricorn), attain the highest status. Especially, a human 
+being making offering of sesames in the month of Magha dwells 
+for a number of years equal to the number of sesame grains in 
+Heaven. What more to say ! One should take bath here. A 
+human being does not take a rebirth after seeing the face of 
+Sage Vasi{tha. Arundhati is worshipped particularly here.
+
+## Page 25
+
+vii. III. 4. I -9 
+1 3 
+CHAPTER FOUR 
+Origin of Acale8vara 
+Suta said: 
+1. Sage Vasi!?͵ha made his own hermitage on that Arbuda 
+mountain and began the pursuit of intense religious austerities 
+for making the dwelling of God Samkara on it. 
+2. The sage continued to have fruits for food as per rule. He 
+remained dependent on having leaves for food for two hundred 
+years. 
+3. He spent five hundred years drinking water only and 
+another ten hundred years by breathing air only. 
+4. He practised Paficagni (remaining in the middle of five 
+fires) during summer and stayed under water during winter. 
+He stayed in the open for a thousand years during rains. 
+5. Then being pleased with the austerities of that great sage, 
+the Liilga of Siva worshipped in the form of a stone came up 
+instantaneously piercing the mountain. Then witnessing the 
+presence of that Liilga of Siva, Sage Vasi!?਻a began recitation 
+of hymns in wonder. 
+6. He recited: "Homage to you, 0 holy one! 0 Lord Siva! 
+whose sacredness everyone praises, 0 bearer of braided and 
+knotted hair and the bearer of the image of three gods. 
+7. Homage to you, having the gross form yet omnipresent 
+through the fine form and the bearer of bow and arrow and the 
+three-eyed one. 
+8. Homage to you, 0 Sarilkara holding the crescent moon 
+and pervading all directions! Homage to you, 0 bearer of the 
+Pinaka bow and one having the body of eight forms! 
+9. 0 Samkara! You are of the form of knowledge, you are 
+comprehensible through the path of knowledge. You are the 
+embodiment of knowledge. Homage to you- the image of all 
+wisdom.
+
+## Page 26
+
+14 
+Skanda PuriirJa 
+1 0. Obeisance to you, 0 ruler of Kasi and the God of 
+mountains! Homage to you, 0 great Lord! 0 creator of this world! 
+1 1 . Homage to you, 0 husband of Gauri, 0 one of the image 
+of well-being! I bow to you, 0 bearer of the image of Vi{t:tu 
+and Brahma and the Three-eyed one. 
+1 2. Homage to you, 0 Great Soul! 0 bearer of the image of 
+universe and holiness! I bow down to you, 0 bearer of all images 
+including images of gods. 
+Suta said: 
+13. In the meantime a statement issued from the Incorporeal, 
+saying that it was pleased by the gentle behaviour (of the 
+worshipper) and that he could ask for any boon for well-being. 
+14. Having said so, the Liilga of Siva worshipped in the 
+form of a stone pierced out from within the body of the 
+mountain. 
+VasiBtha said: 
+15. 0 God Samkara! You please dwell for ever in this Liilga. 
+I have prayed for the same at this great soul earlier. If you are 
+pleased then, 0 Samkara! let my words be true. 
+The gracious God Siva said: 
+1 6. I will have my appearance in this Liilga from today 
+onwards. 0 best Brahmat:ta! everything true happens as per 
+your words. 
+17. Everything true will happen whenever any human sings 
+this hymn with faith on the fourteenth day of the waning period 
+of the moon in the month of Asvina (i.e. September-October). 
+18. 0 best of Sages! to please me, Indra, the King of gods 
+has sent the famous river Mandakini here, which makes the 
+three worlds holier. 
+19. As a reservoir holding water it will always remain on the 
+northern side of the Linga. That human who after taking a bath 
+in it has a look at the Liilga everyday will obtain the ultimate 
+place becoming free from old age and death.
+
+## Page 27
+
+vii. III. 4. 20-24 - 5. 1 -3 
+15 
+20. Having pierced this immobile mountain, my Liilga has 
+come up. Hence it will be renowned in the world by the name 
+Acalesvara. 
+2 1 . The greatness of this (Acalesvara) Liilga will never 
+dwindle. Even its greatness will not loosen up till the time of 
+final destruction of this world. 
+Suta said: 
+22. Having said this much, the great God stopped. The great 
+soul Vasitha became pleased in heart followed up by Sages 
+like Gautama etc. 
+23. Gods like lndra etc. were also happy. The Brahmal}.a 
+sage had brought other places of pilgrimage, temples and 
+mansions on this mountain through his own austerities. 
+24. Now becoming happy, the great God got settled down 
+here. 
+CHAPTER FIVE 
+Greatness of Naga Tirtha 
+The Sages said: 
+1 . 0 Siita! describe to us in detail the greatness of Arbuda. 
+We have a great curiosity. Please tell us this auspicious tale. 
+Suta said: 
+2. Pulastya, the illustrious sage, in ancient times, came to the 
+house of king Yayati. After paying homage, the king told the 
+sage. 
+3. 0 best of the sages! welcome to you. My life has become 
+fruitful. With pleasure, please let me hear the story of the Arbuda 
+mountain.
+
+## Page 28
+
+16 
+Skanda Puriil'}a 
+4. There is a renowned mountain by name Arbuda on the 
+surface of this earth. 0 best one o( the BrahmaQas! please narrate 
+the sequence of visits to this mountain and their fruits. 
+5. Undertaking pilgrimages has been your principal object. 
+Please describe all in details. Please tell me so that I can 
+undertake pilgrimage in a befitting manner. 
+Pulastya said: 
+6. 0 king Y ayati ! this best of the mountains-Arbuda has 
+abundant religious merit. A detailed description of it is not 
+possible in hundreds of years. 
+7. Hence, I am describing only the principal centers of 
+pilgrimage on it in brief. Among these in the very beginning is 
+Naga Tirtha which fulfills desires of all people. 
+8. This center of pilgrimage especially grants the good 
+fortune of gift of children to women. Due to this, its ancient 
+history is a matter of great wonder. 
+9. There was a loyal, faithful and virtuous BrahmaQa lady 
+by name Gautami who had made visits to places of pilgrimage 
+the principal objective of life for becoming a widow in 
+childhood. 
+1 0. She had come to Arbuda and had approached Naga 
+Tirtha. She had taken a dip in its water with all her mind. 
+11 . A woman named Nayaka had also come here with her 
+son for the purpose of pilgrimage. 0 king ! that son had 
+performed many kinds of services here. 
+1 2. He performed service with all paraphernalia. But 
+becoming sad wiL'l separation from son, Gautami began to worry 
+(thinking). 
+1 3 . "Fortunate is that child always engaged in service. 
+Fortunate is she having a son like this. I am reproachable for 
+being devoid of child. 
+14. I, a widow, am very sad without a child." 0 king! she 
+then came out of the reservoir. 
+15-16. Without union with husband she became pregnant 
+immediately. As a virtuous lady she got ashamed for being
+
+## Page 29
+
+vii./11. 5. 1 7-28 
+1 7 
+enjoined with all traits of pregnancy. Driven by the idea to kill 
+herself s਼e kindled fire. At the sametime bodiless voice arose. 
+17- 1 9. It said: "0 Gautami! do not enter into the fire of this 
+worry. There is no fault of yours. Your pregnancy is due to the 
+influence of pilgrimage. Standing in this water whatever any 
+human desires (in mind), all those women or men obtain all 
+those desires without any doubt. Having seen the Nayaka' s 
+child, you had nurtured the desire for a child in your heart. 
+Hence 0 daughter! a son which has come in your womb will 
+be born. 
+20-22. Hence, stop worrying. There will be your welfare. 0 
+you! having fidelity to your husband, you are blameless." 
+0 king ! then the virtuous Gautami restrained herself from 
+death. Having heard this statement from the heavenly 
+announcement made by a divine messenger and having seen 
+the pregnancy without husband she said, "The unusual effect 
+of this place of pilgrimage never occurred in my mind where 
+women can bear foetus without semen and Rajas (menstrual 
+fluid) getting mixed. 
+23. I shall not go anywhere else leaving this best centre of 
+pilgrimage." 
+Having said so the virtuous lady Gautami settled there 
+forever. 
+24-25. She gave birth to a son endowed with all traits. 0 
+king Yayati! 'the lineage' of people who perform the Sraddha 
+(ceremony connected with memory of the dead relatives in a· 
+family) at Arbuda during the waning period of the moon in the 
+month of Asvina (September) never gets destroyed. 
+26. No one in their family becomes a Preta (ghost). The man 
+who takes a bath and performs Sraddha there without any desire 
+obtains the eternal world. 
+27-28. A woman who immerses fruits and flowers in this 
+place of pilgrimage is blessed with a son. She obtains the celestial 
+world of the gods difficult to attain even without a desire for 
+the same. Hence, one must perform pilgrimage to this place 
+with all efforts.
+
+## Page 30
+
+1 8 
+Skanda Puriif}a 
+CHAPTER SIX 
+Greatness ofVasiçtha's Hermitage 
+Sage Pulastya said: 
+1 -3. 0 best king ! thus humans need to go near Vasi{tha­
+the storehouse of austerities-a sight of whom enables humans 
+to attain their objects. There is a pond full of water there which 
+takes away sins of humans. The great soul Vasi{tha had brought 
+the river Gautami in this pond through perseverance. Humans 
+become completely free from their sins with a bath in this pond. 
+4. An individual performing Sraddha here with ͹{i dhanya 
+(coarse grain. used by ͹{is) will be free from the bondage of 
+the ancestors on both maternal and paternal sides. _ 
+5-6. The great soul Narada had sung fully the glory of this 
+place. A bath in the auspicious water followed by a sight of the 
+best Sage Vasi{tha is much more meritorious than the Sraddha, 
+performed by offerings made and yajiia conducted with 
+extensive details at Gaya. 0 King ! the human being who 
+conducts Sraddha on coming to this hermitage of Vasi{tha 
+suitably ensures the cross-over of his ancestors along with his 
+ownself. 
+7-13. Objects of all desires are obtained through the special 
+worship of virtuous Arundhati after coming near Vasi{tha here. 
+All wrongdoings of individuals committed during childhood, 
+youth and old age get wiped out instantly by the sight of sage 
+Vasi{tha. One who, becoming aware, lights an earthen lamp 
+before Vasi{tha attains happiness and good fortune and becomes 
+a bright man. One observing fasting and having a sojourn for a 
+night here, reaches the ultimate place of the Seven Sages. One 
+who observes fasting carefully for three nights before Vasi{tha 
+attains Mahaloka getting exempted from old age and death. 
+Emancipation is obtained by one who observes the ritual of 
+fasting for a month before Vasi{tha. He does not return to the 
+river of worldly existence. One who propitiates Sage Vasi{tha
+
+## Page 31
+
+vii.l//. 6. 14- 1 7-7. 1 -5 
+1 9 
+on the full-moon day of Sraval}.a. (July-August) goes to 
+Brahma' s world. 
+1 4- 1 5 . All the sins of a human being get destroyed 
+instantaneously when he recites the Gayatri mantra eight 
+hundred times before Vasi{tha. 0 king! one who performs the 
+ritual offering to fire with regard for Vamadeva obtains the 
+fruits of the 'Agni¯toma Yajna'. 
+16- 1 7. Hence, the ultimate position is obtainable by all those 
+who have a sight of this great sage with all sorts of efforts and 
+with purity and faith. Hence, 0 King! with a wholehearted 
+devotion, worship Vamadeva here. 
+CHAPTER SEVEN 
+Influence of Acale5vara 
+The sage Pulastya said: 
+1 . 0 king ! after this one needs to go to the good giving 
+Acalesvara, a look of which with faith accrues accomplishment. 
+2 . Any human who performs Sraddha (i.e., ceremony 
+connected with death of family members) of his paternal ancestors 
+near the Acalesvara on the fourteenth day of the waning period 
+of moon in the month of Asvina (i.e., September) or in Phalguna 
+(i.e., February-March) attains the ultimate passage. 
+3. The fruits of Asvamedha Yajfia accrue to the human who, 
+while remaining in the Southern direction performs the worship 
+with fruits, flowers and leaves and with due faith. 
+4. The human who propitiates his forefathers with the 
+presentation of mixture containing equal quantities of milk, 
+curd, ghee, honey and sugar, gets closer to the World of Siva 
+and obtains it. 
+5. The human who after taking a round of this pays his 
+homage, all his sins get destroyed on each of his step involving 
+the right tum or clockwise tum.
+
+## Page 32
+
+20 
+Slwnda PuriiT}a 
+6. 0 intelligent king! listen to a wonderful thing which had 
+happened here earlier. I had heard that Niirada happened to tell 
+it to Indra in Heaven. 
+7. A parrot happened to have made its nest on a tree there 
+before and while moving to and fro to its nest, it used to take a 
+clockwise tum around the nest. 
+8. 0 king! it had no devotion due to being born in the species 
+of birds and it was obtained to death as time had approached. 
+9. Later, it became renowned as King Ver:tu among the royal 
+families. Having memory of his own clan, he achieved victory 
+over all his enemies. 
+10. Remembering that his influence could have arisen from 
+taking a round of the Acalesvara, he began to take a clockwise 
+tum of Acalesvara by going near it. 
+1 1 . 0 king! day and night, he did not do anything other than 
+this. Neither did he make any special effort as a measure of 
+austerity. He did also not make any offering of edible. things to 
+gods. 
+12. He did not make any offering of flowers or incenses. He 
+was only engrossed in taking the round. Sages came there after 
+sometime. 
+1 3- 1 9. Narada, Saunaka, Harita, Devala, Galava, Kapila, 
+Nanda, Suhotra, Kasyapa and many kings were getting the 
+Liilga of Siva on that mountain bathed with faith. Apart from 
+them other people were engaged in many kinds of worships 
+and in recounting repeatedly names of gods in their minds. 0 
+King ! some were dancing while some others were singing. 
+Some were presenting the sacrifice in the form of food while 
+some others were singing praises to god. They were surprised 
+to see Ver:tu taking rounds. Filled with curiosity they said, 
+"While doing this act of taking round we must know the reasons 
+behind this act." The sages said, "0 king Ver:tu! why are you 
+taking the clockwise tum of this God specially? Please tell us 
+the truth." 
+20. They continued, "You are not offering water onto this 
+beautiful Liilga of Siva. You are neither lighting earthen lamps 
+nor incense nor are you reading out hymns in praise of God. 0
+
+## Page 33
+
+vii./11. 7. 2 1 -27- 8. I 
+2 1 
+king! you are capable of making all gifts. Please speak out as 
+we have a curiosity in this matter." 
+VeiJU said: 
+2 1 . 0 BdihmaQas! listen to what am I saying. This description 
+of my past life is specially true. 
+22. A bird by name Suka used to stay here in this palace in 
+olden times. Then I used to take round of the God day and 
+night. 
+23. I have become one having memory of one's family by 
+its grace and influence. I am now doing this act of taking round 
+out of Supreme faith. 
+24. I do not know what fruit will accrue out of the influence 
+of this God. 0 sages! I am not doing any other thing due to this 
+reason. 
+Pulastya said: 
+25-26. After hearing these words of king VeQu, with wonder 
+and exhilaration, the sages said, "all right! all right!" Then all 
+the great sages continued keeping themselves engaged in the 
+act of taking round. They got imbued with great faith. 
+27. With the grace of God Sartlkara, the fortunate king VeQU 
+obtained that difficult place in comparison with gods. 
+Pulastya said: 
+CHAPTER EIGHT 
+Greatness of Three-eyed in the 
+Pond of Bhadrakaqaa 
+I. 0 best of kings! then one needs to visit the great pond 
+known as BhadrakaTQa where the bearer of the three lustrous 
+eyes is even visible now-a-days in many stones.
+
+## Page 34
+
+22 
+Skanda PurfuJa 
+2. There is the Linga of Siva on the Western side of that 
+Bhadrakaqta pond by seeing which a human being becomes 
+like the Three-eyed One. 
+3. There was one by name Bhadrakan:ta in olden times who 
+was counted among those dear to Siva. He had founded this 
+Linga and constructed this pond. 
+4. At some point of time, he had gone along with many 
+others to fight the demons counted as dear to Siva. 
+5. Being frightened, they all left. Skandha fled away from 
+the scene when other solders got killed. Virabhadra lost out 
+and the final victory appeared imminent. 
+6. The demon Namuci by name and stronger among the 
+demons ran towards Samkarji with sword and spear in hands. 
+7. Seeing the demon coming from the front, Bhadrakart}a 
+told him 'Stay where you are.' 
+8. This stronger one cut his spear and sword by his own 
+sword. 0 king! then the demon got wounded under the influence 
+of anger. 
+9. The wounded demon then entered the dense darkness 
+(i.e. became unconscious) and fell down on the ground like an 
+axed tree. 
+10. Then coming near Lord Siva the hurt demon stood up. 
+God Siva got pleased to see that the demon was still remaining 
+steadfast on the observance of religious and moral duties. 
+The benevolent God said: 
+11. 0 demon! I am satisfied with your power and especially 
+your adherence to moral and religious duties. You can ask for 
+that specific boon in your mind. 
+BhadrakariJa said: 
+1 2. 0 great God! let there be your closeness to the Linga I 
+have founded on this Arbuda mountain and you remain fixed 
+in this pond.
+
+## Page 35
+
+vii.lll. 8. /3-/5 - 9. 1-7 
+23 
+The gracious God said: 
+1 3-14. There will be my closeness to this Liiiga and pond on 
+the fourteenth day of the waning period of moon in the month 
+of Pausa i.e. January. One who takes a bath in this Bhadrak.an:ta 
+pond and follows it up with a look of Sarllk.ara diligently, will 
+certainly attain that eternal place. 
+15. Hence, with all efforts one needs to have a bath there. The 
+man who worships this Liiiga of Siva goes to the abode of Siva. 
+CHAPTER NINE 
+Eminence of Kedara 
+Pulastya said: 
+1 . 0 king ! then one must visit Kedara-the place of 
+pilgrimage renowned in the three worlds, a visit to which takes 
+away all sins of human beings. 
+2. The river Ganga known as Mandilini has arrived here by 
+joining the river Sarasvati. 0 king ! the human being, after 
+having a bath here, ·gets free from all sins. 
+3. 0 king! listen to.the old historical description of this place 
+of pilgrimage. The sages have sung this in many ways in this 
+mountain of Arbuda . 
+. 4. AjapaJ.a-the best of kings born in the Surya dynasty was 
+undoubtedly the protector of this earth comprising seven islands. 
+5. This king neither had elephants nor any infantry nor did 
+he have any horse with him. He also did not have a chariot and 
+treasury in any form. 
+6. The king never used to collect excess taxes from his 
+subjects. By this, he used to rule in the welfare of people. 
+7. If there was any individual committing offence of any 
+kind, he used to go immediately and bring that rogue to book.
+
+## Page 36
+
+24 
+Skanda PuriiT}a 
+8. People used to live happily and without any difficulty 
+with such a king on earth. 
+9. There used to be adequate rains resulting in flow of crops. 
+Cows used to give milk in abundance with such a king around. 
+1 0. Now the God-like sage Vasi{tha came to his house 
+sometime in connection with pilgrimage. 
+1 1 . Seeing him, the king got up from seat, welcomed him 
+after paying due homage as per the prescribed rituals in Siistras, 
+and offered him all goods as necessary adjuctants of the activity 
+of worship. 
+12. Pleased with the homage offered with highest faith, the 
+good mannered Vasi{tha sat down to take rest. Then he started 
+to speak out the stories of all royal as well as divine sages. 
+1 3. After the completion of speech of the Sage, the well­
+disposed king with all humility and in some context asked the 
+sage as to what could be the well-settled practice of religious 
+activity in connection with undertaking of austerity. 
+Ajapiila said: 
+14. 0 Briihmar:ta! you know everything-the past, the present 
+and the future through the influence of your perseverance. 
+15. 0 Sage! I have a curiosity in heart. With grace towards 
+me and pleasure in mind, please explain me. 
+Vasitha said: 
+16. 0 king! please speak out everything that is in your mind. 
+I will let you know all those difficult things. 
+The King said: 
+17. What could be that deed of mine as a result of which this 
+kingdom of mine is running in the best possible manner without 
+any difficulty and with all actions getting accomplished with 
+results? 
+1 8. 0 great Sage! neither there are the poor, the pitiables, 
+the unhappy souls nor are there souls affected with diseases in 
+this kingdom of mine.
+
+## Page 37
+
+vii.lll. 9. 1 9-30 
+25 
+19. This virtuous wife of mine is more important to me than 
+even the life-giving breath. I accept that her mind is with me 
+and her life is dependent on me. 0 Brahnuu:ta! please tell me in 
+details all that she has thought about me. 
+20. 0 Sage ! are these due to the influence of my giving 
+gifts, or conduct of Yajiia, or perseverance or due to the 
+observance of rules connected with performance of religious 
+austerities? 
+21 . I have a curiosity that all these may be due to the good 
+work done in my previous birth. 0 best BrihmaJ).a! kindly speak 
+out to explain me. 
+Vasi(ha said: 
+22. 0 king! listen in details as' I say. Do not get hurt or feel 
+ashamed. 
+23. 0 king! in the other previous body (i.e., past life), you, 
+were born in the last, i.e., the Sudra Varna of the four-fold 
+V art).a system. So was also your virtuous wife. 
+24. At certain juncture of time in that period, famine had 
+occurred. Everywhere in the world, there was suffering from 
+hunger due to the destruction of crops. 
+25. At that time you had proceeded to another country. In 
+that country, ascending a range of mountains, you had crossed 
+over a fountain. 
+26. There, after seeing an auspicious pond full of an enticing 
+forest of lotus, you took a bath there and offered libations of 
+water to your parental ancestors. 
+27. You thought 'let me take these lotuses and sell them so 
+that we could arrange our food.' 
+28. 0 king! then carrying along many lotuses, you went to a 
+place where many people were already there. 
+29. Being sufferers of famine, no individual purchased the 
+lotuses. Moving around in the four directions you got tired and 
+became dejected. 
+30. With the day ending you took rest in a cave. Putting the 
+lotuses down on the ground you receded into sleep overtaken 
+with hunger.
+
+## Page 38
+
+26 
+Skanda Puriii'}Q 
+3 1 . In the meantime, the reverberating sounds of best 
+BdihmaQas reading out the Veda and the PuraQas reached out 
+to your ears. 
+32. Hearing that you became alert and got up. Carrying the 
+lotuses, you went to the Siva temple along with your wife. 
+33. A prostitute by name Nagavati engrossed in devotion 
+towards Siva was sitting awake there in the Kedara temple 
+throughout the night. 
+34. Then 0 king! you asked the maid putting up beside the 
+temple as to what for such religious activity of staying awake 
+in front of this God is being performed. 
+35. She said: "This beautiful prostitute Nagavati is performing 
+the religious activity of staying up for the night with faith and 
+devotion to comply with the stipulations required for the ritual 
+conducted in honour of Siva on the fourteenth day of the waning 
+period of the moon in the month of Chaitra, i.e., March. 
+36. Any individual who performs the religious activity of 
+keeping awake in the night and worships Siva with faith and 
+devotion attains that ultimate position. 
+37. One who observing the religious ritual of keeping awake 
+in the night worships the three-eyed Siva obtains the service of 
+divine beauties and attains that world of Siva representing His 
+lower image. 
+38. Obtainance of desires even of those difficult for gods do 
+materialise. Hence you give me the lotuses in exchange of three 
+grams of gold. Protect your life taking this much as value for 
+the lotuses. 
+39. Then while accepting the value in the form df gold, your 
+wife said, '0 Lord! do not accept the value for these. 
+40. 'In any case, with scarcity of grains, there has been 
+fasting for both of us under compulsion. Today, both of us will 
+worship Siva with these lotuses with a11 certainty. 
+4 1 . 'It is our duty today to worship Siva. Hence foresake the 
+value offered in terms of gold.' After hearing the words of 
+wife, Siva was worshipped with lotuses. 
+42. 0 king! along with wife, you performed the religious 
+activity of staying up for the night with faith before Siva in the 
+Siva temple.
+
+## Page 39
+
+vii.lll. 9. 43-53 
+27 
+43. So 0 great king! having got up after hearing the PuriiQ.as 
+you the well-behaved in the earthly world worshipped Siva 
+with lotuses on the fourteenth day of the waning period of moon 
+in the month of Chaitra (i.e., March). 
+44. 0 king ! with the mind centered and with faith, you 
+performed the religious activity of keeping awake throughout 
+the night in front of God at Kediira. 
+45. Then when the morning set in 0 king! you, after begging, 
+had food along with wife before Siva. 
+46. Then with the passage of time death obtained you. Your 
+wife as representing your other half entered into the fire along 
+with you. 
+47. Then you got birth as son of king of Da8arna, and became 
+the best king of the city of Vaideha. 
+48. Becoming dear to all living beings you became renowned 
+by the name of Ajapiila on earth. 
+49. It is due to this reason that your wife has been born 
+dearer to you more than your own life. Hence, what has 
+happened, is solely due to you which you are asking me. 
+50. Hence, 0 king ! it is due to the greatness of the God 
+Kediira that people are happy in your kingdom and it has been 
+divested of all difficulties. 
+5 1 . You have got thi.s kingdom out of pleasure of the great 
+God Kediira and it is due to this that despite having no soldier 
+you have become the full-fledged protector of this region on 
+earth. 
+Pulastya said: 
+52. The king got into a state of astonishment hearing these 
+words of Vasitha. The king then made up his mind to visit 
+Kedara. 
+5 3 . Then having gone to the mountain and having 
+worshipped Lord Kediira, the king remained engaged for years 
+in observance of the religious ritual undertaken on the fourteenth 
+day of the waning period of moon in the month of Chaitra, 
+(i.e., March).
+
+## Page 40
+
+28 
+Skanda Puriif}a 
+54. The king went to the Arbuda mountain after handing 
+over the kingdom to son. Then along with wife, he obtained 
+salvation. 
+55. 0 king ! I have described all this with regard to the 
+greatness of Kedara. It is an agent of goodness for all and the 
+destroyer of sins. 
+56. The religious ritual undertaken on the fourteenth day in 
+between the period of Magha and Chaitra (i.e., February and 
+March) is well-known on earth. 
+57. 0 king! You thus need to observe visiting Kedara by all 
+means on that day. You must worship Kedara in the best possible 
+way and manner. 
+58. By observing the ritual of staying up the night on the 
+fourteenth day of the waning period of the moon in the month 
+of Magha (i.e., February) and by fasting, 0 king! you can attain 
+the world of Siva. 
+59. Those who after taking a bath in the wish-fulfilling 
+confluence of Ganga and Sarasvati take a look of Kedara obtain 
+the ultimate passage. 
+60. Those who drink the clear water of the pond named 
+Kedara, fix the cross-over of seven ancestral generations before 
+and after them. 
+6 1 . 0 king ! one who hears this story with supreme faith 
+becomes free from all sins. This is the impact of the great God 
+Kedara.
+
+## Page 41
+
+vii. III. 10. 1-9 
+Yayiiti said: 
+CHAPTER TEN 
+Pilgrimages in the Arbuda region 
+during Kali Yuga 
+29 
+1 . You have heard about Kedara in the supreme mountain 
+Himalaya. The river Ganga has come out of it and has entered 
+the sea in the east. 
+2. And the river Sarasvati has come out of the mango groves. 
+Absorbing the heat of big fires, it has flown into the sea on the 
+west. 
+3. How could a place Kedara come up there? This is very 
+astonishing and I have a curiosity. 0 BrahmaQa! please narrate 
+all these strange things in details. 
+Pulastya said: 
+4. 0 king! what all you are asking are true. Listen carefully 
+to the way it has been and as I have heard. 
+5-8. In olden times, centres of pilgrimage like Ganga, resting 
+places of gods like Kedara along with gods like Indra and others 
+and with other great sages went to Brahma. All of them 
+conducted many and different types of religious discourses 
+there. 0 king ! all places of pilgrimage, regions, forests and 
+gardens belonging to gods were present in this congregation. 
+Eventually, in the course of discussion, Indra told Brahma, "0 
+king! this be happened to utter in curiosity." 
+Indra said: 
+9. 0 God! now I desire to hear about the greatness of good. 
+As a matter of proof please tell me about the distinction of 
+'Krta yuga' amongst all.
+
+## Page 42
+
+30 
+Skanda Puriif}a 
+Brahmii said: 
+10. 0 Indra! Yugas have been said to comprise 70 lakh years. 
+From these, one half of twenty eight thousand years is said to 
+constitute the Krta Yuga. 
+1 1 . Twelve lakh years from that stated above is named as 
+Treta Yuga. In mutual give and take in commercial exchanges 
+it has been measured to comprise more than one hundred 
+thousand years. 
+1 2. There has been a Yuga renowned to comprise eight lakh 
+and sixty-four thousand years. This has been proclaimed as 
+the Dvapara Yuga by gods. 
+1 3 . There has been still another Yuga well-known as 
+comprising four lakh and thirty-two thousand years which is 
+called the Kali Yuga. This is how it has been the established 
+practice of laying down Yugas in thousands of years by the 
+best God. 
+14. There were four steps of righteousness and ViI}U was 
+having a fair complexion in the Krta Yuga. There was hardly 
+any famine or disease in this Yuga. 
+15. With religious and moral duties being performed, there 
+was no untimely death of humans at that time. Crops could be 
+yielded without ploughing and the cows used to give abundant 
+milk. 
+1 6. Bad qualities like lust, anger, fear, greed and jealousy 
+could hardly be possible in that Yuga. 
+1 7 . Then ushered in the Treta Yuga in which there were 
+three steps to righteousness. With people having a long life 
+ViI}U was of red complexion in this Yuga. 
+1 8. There used to be Yajiias as a measure of fulfilling peoples' 
+aspirations. People did not have the disposition towards 
+enjoyment of desires. 
+1 9 . People' s occupation in that Yuga happened to be 
+remaining engaged in austerity, observance of chastity, having 
+a bath as fulfillment of religious activity, making offerings, 
+having a different type of Yajiia, making of sacrificial offerings 
+to fire and taking the name of God repeatedly in one's mind.
+
+## Page 43
+
+vii.lll. 10. 20-32 
+3 1 
+20. Then the third Yuga named as Dviipara let people little 
+loose. In this Yuga there were two steps to religious 
+righteousness and Vi{I}.U was yellow complexioned. 
+21 . Repeatedly taking of name of God within one' s mind, 
+Yajiias and religious austerities were all conducted with desire 
+for fruits. People were followers of truth and were equally 
+inclined towards dance (Merriment) and the King was well­
+disposed during this Yuga. 
+22. The kings on earth at this time were fighting among one 
+another. They used to go to the heavenly kingdom after attaining 
+purity through worship of Vi{I}.U by Yajiia. 
+23. Then the fourth Yuga, i.e., Kali Yuga starts in which 
+there is only one step to religious righteousness. People remain 
+fearful in this Yuga and regular worship is undertaken. 
+24. ViI}.U becomes of a black complexion and there is 
+relatively a greater prevalence of sins. So also cheating, 
+jealousy, greed, anger and fear prevail. 
+25. Becoming followers of greed and desire, people in the 
+kingdom remain occupied with how to gain wealth. The age 
+(Longevity) of life with people reduces and the earth also yields 
+less crops. 
+26. Cows give less milk and the Briihmal}.as become bereft 
+of truth. People cheat and stay assrued under the garb of 
+happiness of taste and sex. 
+27. With deterioration of truth, sins proliferate in Kali Yuga 
+and hairs of people get gray at the age of sixteen. 
+28. Women get pregnant at the age of twelve and 0 Indra! 
+people become of a dirtier and mixed complexion at this time. 
+29. All Varl}.as and ASI'amas become one in this age. Yajnas 
+and the regular rituals followed for ages in a family head towards 
+ruination. 
+30. All places of pilgrimage become meaningless due to their 
+coming in contact with outcastes, non-Aryans. Even the best 
+of kings become bereft of influence. 
+3 1 -32. Having heard these statements of Brahmii whose birth 
+is unknown, the centers of pilgrimage stationed there told 
+Brahmii, "You have stated what our position will be in the
+
+## Page 44
+
+32 
+Skanda Puriil)a 
+difficult Kali Yuga. With no place for us 0 God! please tell the 
+selected places that could always be ours in this Yuga." 
+33. Brahma said, "there is the best of mountains by name 
+Arbuda where Kali cannot prevail. Hence that is the destination 
+for all centres of pilgrimage to have their station. 
+34. "Any individual who, despite having committed the 
+biggest of sins, takes a look of the Arbuda mountain, obtains 
+the ultimate passage becoming free from all the shortcomings 
+of Kali Yuga." 
+Pulastya said: 
+35. Saying like this 0 king! Brahma then went to the Brahma 
+world. Then all the centres of pilgrimage went to the Arbuda 
+mountain in the Kali Yuga. 
+36-37. With the presence of Arbuda, the Chief of Mountains 
+on earth, the rivers Ganga, Yamuna, Sarasvati and even the 
+ponds and places of pilgrimage such as Kuruketra, Prabhasa, 
+Brahmavarta including all other pilgrim centres, spread over 
+three and a half crore lands went to the Arbuda mountain out 
+of fear of Kali Yuga. 
+38. This is how every pilgrim centre could have its place of 
+fixation on the Arbuda mountain and this is how Ganga and 
+Sarasvati also came there. 
+39. People with their minds bent upon peace attain 
+emancipation from rebirth with all certainty there. All ancestors 
+of a family go to heaven by conduct of religious ceremony 
+there in honour of the departed souls. 
+40. 0 king! there was some astonishing happening there. 
+There was a sage by name Mankana staying on the banks of 
+Sarasvati. 
+41 . Giving up desire and anger that pure soul was engaged 
+in perfo:mance of religious austerity. While continuing in that 
+state once shivering with cold he began to sneeze. 
+42. There was some bile lying there. That was appearing 
+like red in colour. Having seen that the sage Mankana became 
+pleased.
+
+## Page 45
+
+vii.Jll. 10. 43-53 
+33 
+43-44. ' Perceiving (Thinking) that I have become 
+accomplished he began to dance.' With him continuing in that 
+condition, the entire world both mobile and immobile as well 
+as the seas got excited. The seas began to sprinkle water out. 
+Everyone ceased to attend to his household duties and remained 
+astonished. 
+45. 0 best king! with his dancing like this everyone in the 
+world too began to dance influenced by the truthful and best of 
+sages on earth. 
+46. Then all gods went near Salilkara and said, "0 Great 
+God! please do something so that he does not dance." 
+47. Then assuming an image of BdihmaQa, Siva told that 
+best of Brahmal}as, 'Why are you dancing while pursuing the 
+highest perseverance?' 
+Mankana said: 
+48. "0 BrahmaQa! is it not visible to you that my bile has 
+turned red? I have attained that accomplished fulfilment as my 
+bile has already become red. 
+49. 0 BrahmaQa! due to this reason, I am dancing out of 
+pleasure." He told in this way to the Great God. 
+50. 0 virtuous king! Salilkara struck his thumb with the index 
+finger of his own and then white-like ash similar to the fibre of 
+lotus came out of his thumb. 
+Then he said: 
+5 1 . 0 BrahmaQa! look at this feat of mine with all curiosity 
+where white ash is coming out of my finger. 
+52. Pulastya said, "That Brahmal}a got preplexed after 
+witnessing this and then having recognized him as the image 
+of Siva, kneeled down and bowing before him started saying 
+like this. 
+Mankana said: 
+53. You are of course the Great God. I am seeing you directly. 
+Please be pleased with me. My heart says that I have perhaps 
+recognized you.
+
+## Page 46
+
+34 
+SICLJnda Puriif}Q 
+54. Whatever you exhibited before me cannot be possible 
+under anyone else's influence. 0 Saiilkara! be kind and rescue 
+me. 
+The great God said: 
+55. 0 Bdihmal).a! You have recognized me correctly and 
+there is no doubt about it. Let there be your welfare. Ask for a 
+boon as you have already danced excessively. 
+Mankana said: 
+56. Let the fruits awaiting that specific worship in which 
+horses are offered to the fire or the one in which a king makes 
+offerings to fire to win the consent of everyone for his 
+coronation be obtainable by a mere bath in the Sarasvati river 
+undertaken with undivided sincerity of mind. 
+Sri Mahiideva said: 
+57. Those who take a bath in this Sarasvati with undivided 
+attention will obtain that ultimate position becoming free from 
+old age and death. 
+58. 0 Briihmal).a! those who perform the religious ceremony 
+in this confluence of the Ganga and Sarasvati in this world in 
+remembrance of their family ancestors, will attain that ultimate 
+passage. 
+59. Those who donate gold to the good Briihmal).a as per 
+their abilities will attain that ultimate passage getting free from 
+all sins. 
+60. 0 king! having said in this manner, Mahiideva-the God 
+of all gods disappeared from sight.
+
+## Page 47
+
+vii.lll. 1 /. I- 1 / 
+35 
+CHAPTER ELEVEN 
+Eminence ofKotisvara 
+Pulastya said: 
+1 . 0 foremost king! then one needs to visit the supreme God 
+Kotisvara by having a look of which humans definitely attain 
+fulfilment. 
+2. Before that 0 king! listen to one astounding incident that 
+happened there. It was a proven fact that one crore prominent 
+sages used to live in its southern side .. 
+3-4. Competing among one another like in a game of play 
+they all came to this Arbuda m()untain presupposing within 
+themselves that the sage arriving last would become a dog, 
+and become devoid of devotion and faith. 
+5. In this way, playing in mutual competition like in a game, 
+they all came to Arbuda mountain and then in conformity with 
+time they all got themselves engaged in the performance of 
+worship as a fulfilment of some mental resolve made 
+respectively in their minds. 
+6. All the Brahma1,1as were composed in mind, devout in 
+religious austerities and adroit in the learning of Veda. Sarilkara 
+became eager to know their wish. 
+7. Driven by their feeling of devotion, Sarilkara placed there 
+with great kindness a crore of Litigas of Siva worshipped in the 
+form of stone separately from one another. 
+8. The glimpse of Salilkara in crores of number could be 
+seen by everyone distinctly. 
+9. Seeing Salilkara all together, all the sages then keeping 
+their eyes wide open in wonder said 'excellent! excellent!' 
+1 0. All the Brahma1,1as with devotion sang the Vedic hymns 
+meant for Salilkara. Being pleased, Sarilkara started to say; 
+The gracious Mahiideva said: 
+1 1 . 0 Sages! I am pleased with your highest faith. Now each 
+one of you can have boon from me.
+
+## Page 48
+
+36 
+Skanda PuriiTJa 
+The sages said: 
+1 2. We all wish for a single boon in our minds that the good 
+fruit be received by all of us taking a look of yours together. 
+The gracious Mahiideva said: 
+1 3 . A look of mine never goes in vain for. a Brahmar:ta in 
+particular. The fruit of pilgrimage is obtainable for those who 
+have a look of mine. 
+The sages said: 
+14- 1 5. 0 Samkara! if it is definite that you have to give us a 
+boon please make crores of Liilgas like this worshipable in the 
+form of stones and by taking a look of which people will get 
+the fruits of crores of Liilgas worshipped. 0 Sarilkara! we desire 
+such a type of boon. 
+Pulastya said: 
+1 6. With the sages making such a prayer together, the 
+worshipable Liilga of Siva pierced out of this best mountain all 
+of a sudden. 
+1 7-20. Just at that moment a voice from the bodiless came 
+out and told those sages, "This Liilga of mine will be famed by 
+name Kotisvara in the world. Crore times fruits will be attainable 
+by all those Brahmal)as who will worship it on the fourteenth 
+day of the waning period of moon in the month of Pausa (i.e., 
+January) . Whichever Brahmal)a from the Southern country 
+performs the religious ceremony in memory of his ancestors 
+here will get crore times fruits equal to the same such religious 
+ceremony performed in Gaya. Therefore, people should worship 
+this Liilga of mine." 
+Pulastya said: 
+2 1 . The voice stopped after sounding like this. Then the 
+sages with faith worshipped (the Liilga) with incense and 
+flavoured oil.
+
+## Page 49
+
+vii.lll. I I. 22 - 12. 1 - 7 
+37 
+22. 0 king! the act of worship was done with great faith in 
+this way and all the BrahmaQas after worshipping attained 
+fulfilment with the grace of the worshipable Liilga. 
+CHAPTER TWELVE 
+Greatness of Riipa Tirtha 
+Pulastya said: 
+1 . 0 best king! after this go to the centre of pilgrimage with 
+good appearance, i.e., Rupa Tirtha. All sins of men go away 
+by a visit here and good appearance and fortune is attained. 
+2. 0 king! in a place by name Vapu there was a renowned 
+divine beauty. It is mentioned that she had attained fulfilment 
+there. 
+3. Earlier there was an ugly woman having a disfigured face 
+for whom fear was unknown. Having a fat belly and crooked 
+neck, she had such hom-like big teeth that the same appeared 
+as if piercing out of her head. 
+4. Once she was roaming about in the Arbuda region in 
+search of fruits. That was the third day of the rising period of 
+moon in the month of Pau{a (i.e., January). She fell off into a 
+fountain in the mountain਱ 
+5. In that beautiful and bright reservoir she got enjoined with 
+a beautiful complexion, with lotus eyes, good hairs and with 
+all traits pronounced. 
+6-7. 0 king! the emergence of hers with such a body was 
+out of the influence of this centre of pilgrimage. Iri the meantime, 
+a King arrived there in the same pronounced mountain for the 
+purpose of playing. But then by beholding such a beaਲtiful 
+sight in that auspicious moment the king got pierced with. an 
+arrow of lust.
+
+## Page 50
+
+38 
+Slwnda PuriiT}a 
+lndra said: 
+8. Tell me who you are like a diamond? What for have you 
+come here? Are you a goddess or the daughter of King of snakes 
+Naga or are you the embodiment of fulfilled knowledge? 
+9. I have been hijacked in mind by your well-moving brows 
+and lotus eyes. I am the King of all gods. 0 beauty with a 
+pleasing smile! entreat me. 
+The woman said: 
+10. I am a woman having thirty husbands and hence fearless. 
+Having come here with the aim of fruits, I have fallen into the 
+fountain in the mountain. 
+1 1 . I have got this beautiful and good appearance by dint of 
+a bath here. You, yourself is even difficult to obtain for gods. 
+So what to speak of the mortals subject to repeated births and 
+deaths? 
+1 2. Having all gods under your control what for are you 
+desiring me? As the Lord of gods, you can have a share of 
+mine according to your desire like my thirty husbands. 
+Pulastya said: 
+13-14. After her saying like this the King, i.e., Indra possessed 
+with desire and desirous of winning her over, told her, "0 giver 
+of welfare! ask for the boon that is in your mind. I am pleased 
+with your polite behaviour. I wili give you a good boon." 
+The woman said: 
+15. Let all the gods be pleased by any man or woman taking 
+bath here with faith on the third day of the rising period of the 
+moon in the month of Pau{a (i.e., January). 
+1 6. Let the unattainable beauty of gods be obtainable for 
+them. 0 King of gods! please take me along to the Heaven.
+
+## Page 51
+
+vii.Jll. 12. 1 7-29 
+39 
+Pulastya said: 
+17. Saying 'let it be so' the King of gods, taking her along 
+left for the heavenly kingdom in a space vehicle. 
+1 8. This is how after having got a pure body while on earth, 
+the place is renowned as Vapu and she has got the same name 
+as a divine beauty. 
+1 9. The gods with faith take bath in that pond in morning on 
+the third day of the rising period of the moon in the month of 
+(Paua. i.e., January). 
+20. 0 king! the other divine unmarried girls as well as Yaka 
+girls taking a bath there at that time also attained fulfilment. 
+21 . Appearance is gained over there as she got it completely 
+there. Everyone becomes accomplished there endowed with 
+learning. 
+22. There is a beautiful cave on the eastern side where the 
+unmarried girls inhabiting hell take bath. 
+23. After taking a bath there, they proceed to the cave carrying 
+a bit of water with them. From there they take a bit of water 
+from the stone at the sitting place of Lord GaQesa. 
+24. After mixing both the water humans become accom­
+plished. The living beings carrying that water go here and there. 
+25. There is a tree by name Tilaka on the doorway of that 
+cave which cannot ·be seen anywhere either in heaven or on 
+the surface of earth. 
+· 
+26. All works get accomplished by its flowers and fruitsਲ਼ 
+The man becomes fulfilled by eating or bearing those on the 
+body. 
+27. The stones in that cave spread across all directions are 
+like conches. It appears they wish to have a touch of that water 
+through which they tum golden. 
+28. If a woman sterile for years and centuries drink the water 
+mixed with sandalwood, she becomes pregnant. 
+29. By practising to take bath there, a man suffering from 
+diseases becomes free from ailments and one, afflicted with 
+planetary debilitations, slows down the same affectations 
+through such a practice.
+
+## Page 52
+
+40 
+S!«Jnda Puriil}a 
+30. A touch of that water throws instantly away the afflictions 
+in the form of ghosts, satans etc. and all bad deeds get ruined. 
+3 1 . Even worms, flies, satans, birds, deer etc. will attain the 
+ultimate passage instantaneously by touch of this water. 
+Yayati said: 
+32. This very strange and supernatural greatness of this 
+pilgrimage centre as told, has impressed me. It has neither any 
+past nor a future. 
+33. What could be the specific reason about this place so 
+that its supernatural greatness is being remembered? I have a 
+great curiosity. Please describe in detail. 
+Pulastya said: 
+34-35. In earlier times, with the downfall of the kingdom of 
+Indra followed by the demon Bala becoming king of three 
+worlds, the mother Aditi observed severe penance here. Then 
+the four-armed ViQU descended into the womb of Aditi. Then 
+the great ViQU came out but afraid of the terror of the demon, 
+remained clandestinely inside the pond on the doorway of the 
+cave. 
+36. So that way as soon as Hari took birth, he placed himself 
+in that pond. Due to that the pilgrimage acquired its sacredness 
+and people's wishes get actualised by a visit here. 
+37. 0 King! there is no other reason. I have narrated the 
+truth to you. On the third day of the rising period of moon in 
+the month of Paua (i.e., January) the dwarf Trivikrama was 
+born here. 
+38. The tree Tilaka placed ahead of all trees was brought up 
+here like a son by Aditi. She had served it with the auspicious 
+water everyday in her own hands. 
+39. In this way, I have narrated to you the greatness and 
+goodness of this centre of pilgrimage as mentioned by all. 
+Hence, everyone must make good effort to have a bath there. 
+It fulfills desire of all people in this world as well as in the next 
+world.
+
+## Page 53
+
+vii.lll. I 3. I -9 
+41 
+CH/_PTER THIRTEEN 
+Greatness of ViçQu 
+Pulastya said: 
+1 . 0 best king ! after this one should go to that excellent 
+centre of pilgrimage situated in the north-east direction 
+established by the royal sage Ambarla famed in the three worlds 
+as the destroyer of all sins. 
+2. In this place of pilgrimage, even in the time of Kali Yuga, 
+AmbarlŎa himself continued to stay respecting that particular 
+saying. 
+3. In old times during Satya Yuga, a king named Ambarla 
+having undergone an impregnable penance, had pleased God 
+ViQU. 
+4. Frugal, the king of kings Jitendriya survived on eating 
+fruits for one thousand years in this place of pilgrimage. 
+5. Then for two thousand years he ate only dried leaves. For 
+another two thousand years more he had only water. 
+6. Then remembering God ViQU and inclining the mind 
+with faith he lived on breathing air for another three thousand 
+years. 
+7. Then God ViQU was pleased to come before his sight 
+after ten thousand years. 
+8. Bearing the form of Indra and seated on the back of 
+elephant Airavat, ViQU came and told King Ambarla. "I want 
+to give you boon." 
+lndra said: 
+9. 0 King! ask for the best of boons as desired in your mind. 
+I have come here after having seen you enga'ked in the act of 
+devotion without any doubt.
+
+## Page 54
+
+42 
+Skanda PuriifJ.fl 
+Ambaria said: 
+10. You cannot give me salvation. I have killed the demon 
+Vrtra. By your grace, 0 God! the running of affairs in the three 
+worlds is done according to me. 0 King of Gods! welcome to 
+you; but you please go as boons do not interest me. 
+1 1 . By getting pleased in all ways, the four-armed Vit:tu 
+will only give me a boon. That only I will accept. 0 King! 
+please go. Homage to you. 
+Indra said: 
+12. 0 King! ask for the boon there in your mind. I am even 
+the Lord of Brahma, Vi{t:tu and Sarilkara. 
+13. I am the Lord of the other gods and of the three worlds. 
+Therefore, ask for the difficult boon with pleasure from me. 
+14. All gods remain pleased with my getting pleased. Act as 
+per my words and ask for the good boon, 0 King! 
+Ambaria said: 
+15. You are the king of all gods and the lord of the three 
+worlds. I am the king of land having seven islands and I have 
+killed the demon Vrtra. 
+16. 0 Father! it is for sure that I am a true devotee of Vit:tu 
+in accordance with perceived ways. You are the ViQU and 
+will give me a boon. 
+Indra said: 
+17. 0 King! if you do not accept the boon as given by me, I 
+will apply my weapon of thunderbolt and kill you definitely. 
+1 8. Having said like this Indra took out the thunderbolt 
+weapon in the right hand and moved it around itself like a 
+snake with skill. 
+1 9. Great disorder began to happen with his circling the 
+weapon around in this way. The mountains including the peaks 
+as well as rivers got affected.
+
+## Page 55
+
+vii.lll. /3. 20-29 
+43 
+20. With the sky covered with dark clouds, the ground below 
+got under its shadow. Nothing· was visible as everything got 
+covered with darkness. 
+21 . In the meantime that king-the devotee of God sat in 
+concentration with closed eyes. 
+22. Then becoming pleased, the God of the world came to 
+direct manifestation. Airavata-the elephant became Garu4a­
+the king of birds. 
+23. Vir.m-the bearer of conch, cakra (a discus) and mace 
+(a weapon) told that king engaged in concentration with a deep 
+and vibrant voice like the clouds. 
+The gracious God said: 
+24. There is no other devotee like you the king. 0 son! I am 
+fully satisfied with you. Let there be your welfare. You can ask 
+for the most difficult thing as a boon. 
+Ambaria said: 
+25. God! if you are happy to give me a boon, kindly give 
+me such a boon which will enable me to swim across this sea 
+of world. 
+Pulastya said: 
+26. Then God ViI)U, as a grant of boon, instructed King 
+Ambaria about the well extensive Jfiana Yoga that operates as 
+the cause behind obliteration of the world. 
+27-29. Like a man born leaves the world instantly, the King 
+Ambaria after hearing this properly paid homage to ViI)U 
+and said, "0 God! this path of Yoga which you have narrated 
+to me is specially beyond the comprehension of people in the 
+Kali Yuga. If you are pleased with me, kindly instruct about 
+the Kriya Yoga, 0 bearer of conch, the discus and the mace! 
+This will be meaningful for the people to swim across this 
+world."
+
+## Page 56
+
+44 
+Skanda Puriif}ll 
+Pulastya said: 
+30. Then God Kesava, i.e., ViQU appropriately narrated the 
+Kriya Yoga to the king. 
+3 1 -33. Pleased within heart having listened to the same king 
+Ambaria said: "If God Madhava! You are satisfied with me­
+the king, let there always be the proximity of the King of Gods 
+with my hermitage. There, I shall be worshipping the idol of 
+yours according to established rules and procedure. People all 
+over the world will be worshipping you- the bearer of conch, 
+discus and the mace." 
+Pulastya said: 
+34. With Madhava granting permission in this regard, 
+Ambaria started to construct a temple for Hari · and began to 
+worship the idol with offerings of flowers, incense and oil. 
+35. Then after passage of a long time, the God Himself in 
+His own body along with son and other kith and kin came to 
+that ViQU temple. 
+36. Even today, in the Kali Yuga, God ViJ.lU, keeping with 
+the truthfulness of words given to the king has permanently 
+positioned himself here. 
+37. 0 Great King! from then onwards till the present time in 
+this Kali Yuga, the ritual of making and fixing of idols on the 
+surface of earth has started. 
+38. Those who worship Lord ViJ.lU here on this Arbuda 
+mountain with faith go to the same world as of ViJ.lU with His 
+grace. 
+39. Placing the self in front of ViJ.lU, one who performs the 
+activity of keeping awake throughout the night and that too 
+without food on the eleventh day of a month goes to that place 
+of ViJ.lU which is even difficult for gods to attain. 
+40. The same fruit is obtained by the mortal men by having 
+a look of God ViJ.lU, as is obtained by gifting of the Kapila 
+cow at the pre-eminent Pukara (a celebrated place of pilgrimage 
+at Ajmer in Rajasthan) in the month of Karti.ka (i.e., October).
+
+## Page 57
+
+vii./11. 13. 4 1 -50 
+45 
+4 1 . The fruits of the sacrificial activity of offering of horses 
+to fire, i.e., of the Asvamedha Yajiia are obtained by having a 
+look of ViQU on the specific day demarcated for him either in 
+the rising or waning period of moon in a month. 
+42. Hence with all efforts there should be worship of ViQU 
+and with due procedure. One who adheres to the vowed 
+observance of religious austerities for four months and worship 
+God ViQU, does not get rebirth. 
+43. 0 virtuous king! only one pilgrimage of this kind fulfills 
+all pilgrimages undertaken. A look at ViQU assembles together 
+the vowed observance of religious austerities of four-month 
+period. 
+44. Some people gift everything to BrahmaQas. Some others 
+worship God ViQU carefully during the vowed religious 
+observance for four months. 
+45. Some make a gift of one thousand unmarried girls as per 
+established rules and practices. Still others serve ViQU with all 
+sincerity during the period of four months of vowed observance 
+of religious austerities. 
+46. Some make the offering of best of all gifts on the occasion 
+of solar eclipse at Kuruketra. Others serve ViQU with all 
+eagerness during the four-month period of vowed observance 
+of religious austerities. 
+47. Some worship God ViQU through the Agnitoma Yajiia* 
+followed up with offering of presents to BrahmaQas at the end 
+of the sacrificial rite. Some others worship ViQu with all 
+eagerness during the four-month period of vowed observance 
+of religious austerities (i.e., the Caturmasya). 
+48. Someone, after going to the Himalaya, gives up his body. 
+Ahother individual serves God ViQU with care during the four­
+month period of vowed observance of religious austerities. 
+49. Some leave their bodies aside falling at the feet of Sage 
+Bhrgu in the Uttana pilgrimage. Other men remain engrossed 
+in the service of ViQU during the four-month period of vowed 
+observance of religious austerities. 
+50. Someone gives up life through continuous fasting for 
+days together. Someone else remains engaged in the service of
+
+## Page 58
+
+46 
+Slwnda PuriiTJa 
+ViQU during the vowed observance of religious austerities in 
+the four-month period. 
+5 1 . One man proficient in knowledge listens to the factual 
+reports related to the Supreme Being while another takes a look 
+of ViQu with care during the four-month period of vowed 
+observance of religious austerities. 
+52. 0 king! some perform the religious rite connected with 
+remembrance of their ancestors during the period meant for 
+paternal side, i.e., Pitru Paka while some others bringing all 
+forces of their minds together within do service of ViQU. 
+53. Some undergo (crores of) the vowed observance of the 
+religious austerity of CandrayaQa as per established rules. Some 
+others do service to ViQu during the four-month period of 
+vowed observance of religious austerities. 
+54. Some remain adherents to the vowed observance of 
+religious austerities for thousands of years while some others 
+visualize the opportunity of service to Vi{QU during the four­
+month period of vowed observance of religious austerities. 
+55. Some Brahmat:tas read the four Vedas as per rule. Others 
+serve ViQu during the four-month period of vowed observance 
+of religious austerities. 
+56. 0 king! there is no need for more description here. Hence 
+listen in brief. There are all these things of the world on one 
+side· while on the other there is vision. 
+57. Hence everyone, with efforts must remain close to ViQU. 
+All sins get destroyed by residing in this place of Ambaria. 
+58. On one side there is ViQU. On the other side there is the 
+line of 'action/work' . 0 king! taking shelter under Him is the 
+best. 
+59. 0 king ! even one going nearer to ViQU even after 
+committing great sins becomes free immediately by a sight of 
+ViQU. 
+60. One who places one piece of flower on God Vi{QU, attains 
+all good fortune in this world as well as in the next. 
+· 6 1 . One who massages the idol of God Vi{QU with scented 
+oil and with faith, goes to that ultimate place becoming relieved 
+of old age and death.
+
+## Page 59
+
+vii.IIl. 13. 62-67 -14. 1 -3 
+47 
+62. Leaving behind every thing, one who entreats Him 
+remaining engrossed and with an undivided mind, gets 
+liberation immediately by a sight of Him. 
+63-64. 0 good king! one who lights earthen lamps before 
+ViI)U in connection with the vowed observance of the religious 
+austerities meant solely for Lord ViI)U (i.e., Pravodhini Vrata) 
+on the eleventh day of the rising period of moon in the month 
+of Kartika (i.e., October), happens to witness sins committed 
+in previous birth .and as one after the other sin comes before 
+his eyes, all his sins get effaced from the body at that time. 
+65. One who employs the mixture containing equal parts of 
+five contents, viz., milk, curd, ghee, sugar and honey in the 
+worship of ViI)U or worship with curd or milk, does not get 
+rebirth. 
+66. It is due to this that Vi{I)U must be worshipped with all 
+efforts. 0 King! man attains freedom from the worldly bondage 
+through this. 
+67. It is the duty ever to specially worship Vi{I)U. 
+CHAPTER FOURTEEN 
+Greatness of Siddhe8vara 
+Pulastya said: 
+1 . Then, 0 best of kings! one must visit the place of supreme 
+God Siddhesvara. He is the giver of fulfilment to living beings. 
+This was founded by a Siddha long ago. 
+2. A Siddha (accomplished one) by name Viswavasu had 
+practised penance here for many years and had set up the idol 
+of Siva here. 
+3 . He had won over anger, arrogance and all sensuous 
+actions. Then after a thousand years Salilkara, i.e., the God 
+having the bull on His emblem came to his sight on His own in 
+the form of a king.
+
+## Page 60
+
+48 
+Skanda Puriif)a 
+4-5. The great God Mahadeva in the form of King said: "I 
+have come to this earth to give you a boon. You can ask for 
+any auspicious boon in your mind. As I am pleased, I shall 
+grant you the same even if that may be difficult to attain". 
+Viswavasu said: 
+6. 0 best king! let there by fulfilment of desires of people by 
+the grace of Samkara after bearing this worshipable Liilga in 
+the mind with all certainty. 
+Pulastya said: 
+7. After saying 'let it be so' Siva then disappeared from sight 
+there. Since then thousands of people have attained fulfilment 
+after going to the Siddhesvara temple. 
+8. By the influence of the worshipable Liilga: all desires have 
+been fulfilled. Therefore, all righteous actions have disappeared 
+from the surface of the earth. 
+9. Neither anyone has any need to perform sacrifice (Yajiia) 
+nor has to make any offering as charity. By Siddhesvara' s 
+courting of God's favour like this, humans on earth can be 
+equally entitled to reach that stage of fulfilment. 
+10. 0 virtuous king! with the uprooting of Y ajiias and charity, 
+all gods along with Indra became unhappy. 
+1 1 . Learning about the destruction of the Yajiia, Indra put 
+across his weapon thunderbolt as an impediment so that 
+fulfilment could not be attained. 
+1 2. Even then, with the place being in proximity of 
+Siddhesvara there, 0 best king, all actions meet with fulfilment 
+and all sins get destroyed there. 
+1 3 . 0 king ! One who touches this, on the fourteenth day 
+either during the waxing period or the waning period of the 
+moon in the month of Pau{a (i.e., January), that man becomes 
+a Siddha (accomplished). 
+14. Even today also Siddhi (fulfilment) happens there. I have 
+told this truth to you. Therefore, Sadgati (a good or happy state) 
+can be possible (for you) by going and bowing down there.
+
+## Page 61
+
+vii. Ill. I 5. I -8 
+49 
+CHAPTER FIFTEEN 
+Greatness of Sukresvara 
+Pulastya said: 
+1 . Then one has to go to Sukresvara established by Sukra in 
+ancient times. By having a look of this, a man instantly gets rid 
+of his sins. 
+2-3. 0 virtuous king! seeing the demons who were defeated 
+once by gods, Bhargava, the intelligent BrahmaQa was prodded 
+to think as to how could the demons win over the gods and 
+attain great fame? Thinking that by worshipping Salhkara he 
+could proceed on the path of fulfilment, he began to nurture 
+such a desire in mind. 
+4. Having decided like this, he proceeded towards the high 
+region of Arbuda and finding a cave in the valley began 
+performance of difficult austerities. 
+5. Having installed the worshipable Liilga of Siva he got 
+himself intently engaged in worship with incense, perfume and 
+by anointing the Liilga with scented oil. 
+6. Then after a thousand years of nurturing such a desire, 
+the God finally came before him and said: 
+Mahiideva said.: 
+7. 0 good BrahmaQa! I am satisfied with the faith of yours. 
+You can ask for that auspicious boon even if that is difficult to 
+obtain. 
+Sukra said: 
+8. If Mahadeva is satisfied, the great God may grant me that 
+learning by which I may bring to life the living beings who 
+have met with death in a battle.
+
+## Page 62
+
+50 
+Skanda Purii1Ja 
+Pulastya said: 
+9. 0 virtuous king! having imparted him that learning, Siva 
+told Sukra that he could enjoy and ask for yet another boon. 
+Sukra said: 
+1 0- 1 1 . Whoever touches or worships this Liiiga on the eighth 
+day of the waxing period of Moon in the month of Kartika 
+(i.e., October), let there be no fear for him or her of untimely 
+death by your grace. Let them all obtain their wishes nurtured 
+in the mind. 
+Pulastya said: 
+1 2. Saying, 'it will be so', Siva then disappeared from sight. 
+Sukra also got demons killed by gods many a time. 
+13. By the power of that learning, the sage brought many 
+back to life. On the head of that Sukresvara temple there is a 
+great pool with clean water which is the destroyer of sins. 
+14. A human being gets completely free from sins by having 
+a bath there. 0 king! the grandfathers become pleased by the 
+. performance of Sraddha here. 
+15. They become satiated with the water alone here. So the 
+need for making the offerings again in the form of cooked rice­
+balls becomes superfluous. Hence everyone, with all possible 
+efforts, needs to observe the ritual of having a bath there.
+
+## Page 63
+
+vii.lll. 1 6. I - 10 
+5 1 
+CHAPTER SIXTEEN 
+Greatness of MaQikan,tike8vara 
+Pulastya said: 
+1 . 0 best king! then one has to go to that sin-destroyer centre 
+of pilgrimage widely heard of and known by the name 
+Mar:tikaqtika. 
+2. 0 king! the great Balakhilya and other sages had attained 
+Siddhi (perfection) here. The pond they had built up inside a 
+cave in the charming mountain is a remover of sins. 
+3. 0 king! by their taking a seat, a great astonishing event 
+happened there. Listen to that. 
+4. There was a Kiriita woman (i.e., belonging to the degraded 
+mountain tribe) named Mar:tikarr:tikii who was very dark, ugly, 
+having a horrible shape. 
+5 . Once, with the sun right over head during noon, she 
+became thirsty. She came there and entered into the water. But 
+soon Rahu had a mouthful of the sun (i.e., leading to solar 
+eclipse). 
+6. In the meantime she got a body of celestial appearance. 
+When the sages saw, they found her coming out of the middle 
+of the water. 
+7-9. Her husband who was in a hurry to look for her came 
+there and unhappy with the sorrows of separation from wife 
+asked that woman, "My wife had come here. If you happened 
+to see her please tell me fast. This boy is born out of her. He is 
+crying repeatedly affected by thirst and hunger. If you beautiful­
+eyed woman have seen her, please tell. Without her this boy of 
+mine will die." 
+The woman said: 
+10. 0 my husband! I am that wife of yours. By the power of 
+this centre of pilgrimage, I have got this celestial appearance 
+which is even difficult for gods.
+
+## Page 64
+
+52 
+Skanda Puriil}a 
+1 1 . You also go and have a bath quickly in the water. You 
+will also obtain that excellent appearance like me. 
+12. Then he, along with his son entered into that water for a 
+bath. But, 0 King! with the Sun coming out coincidentally at 
+that time, he again got back his usual ugly appearance. 
+1 3. With sorrow, he embraced death in that condition in the 
+pond. On her part, overwhelmed with grief for the husband's 
+death, she decided to die. 
+14. Having prepared the pyre with selected pieces of wood 
+to bum the dead body she set fire to it. 
+15. 0 good king! it was a matter of great surprise for everyone 
+to see her courage and her being full of mercy. 
+The sages said: 
+16. You have got the wonderful appearance which is even 
+difficult for gods to get. So, 0 beautiful woman! Why are you 
+following this sinful man? 
+The woman said: 
+1 7- 1 9. 0 great Brahmal}.as ! I am a devoted wife always 
+engaged in the service of my husband. What shall I do with the· 
+beautiful appearance without my husband? Ugly or beautiful, 
+poor or wealthy, whatever one may be, there .is no other way 
+than this singular aspect of having a husband for women in the 
+three worlds. 0 eminent sages! this boy of mine has come to 
+you as resort. Joined as I am with my husband, I will enter the 
+funeral fire. 
+Pulastya said: 
+20. This is how she brought it to the notice of the sages as 
+well as of all others about her decision made with full 
+determination. In return, all assembled there became full of 
+mercy within themselves and began to look in the direction of 
+the body on the pyre. 
+21 . Then at that time, the great sages brought her husband 
+alive. He was endowed with saintly appearance and with all 
+supernatural traits.
+
+## Page 65
+
+vii.lll. 16. 22-32 
+53 
+22. In the meantime, as desired in their minds a space craft 
+full of celestial maidens arrived there. 
+23. So in this way the sages on their own brought the couple 
+back to life. The couple then offered to the sages their homage 
+and started for Heaven. 
+24-25. Then all those sages told that woman MaQikan:tika, 
+"0 auspicious woman! please ask for boon as we have been 
+pleased with you. We are pleased with your quality of 
+devotedness to your husband and especially your truthfulness. 
+A sight of us never goes in vain." 
+MatJ.ikartJ.ikii said: 
+26-27. 0 Sages ! if you are pleased, grant me the boon too 
+with pleasure. Let the great worshipable Linga here be named 
+after me. Such is the wish in my mind at this time. I do not 
+need any other thing. With all your blessings, I am going to 
+Heaven now. 
+The sages said: 
+28. 0 one with a beautiful face! let this centre of pilgrimage 
+be known as having the worshipable Linga after your name. 
+This pilgrimage centre goes by your name as MaQika£Qika. 
+Pulastya said: 
+29. She went to Heaven along with husband and the sage, 
+Balakhilya, sincere in observance of religious austerities stayed 
+there with the boy. 
+30. Religious duties like taking a bath and making of charities 
+here in MaQikan:tika on the day of solar eclipse produce the 
+same fruits as in Kuruk{etra. 
+3 1 . 0 King of kings ! taking a bath here with the mind 
+centered, results in simultaneous realization of desires of the 
+mind alongside the very action of bathing. 
+32. It is due to this that everyone with all efforts must ntirture 
+the habit of taking bath here. One must make charities here in
+
+## Page 66
+
+54 
+Skanda Puriif}a 
+this pilgrimage centre according to one's capacity and offer 
+libations to godly sages and forefathers. 
+CHAPTER SEVENTEEN 
+Greatness of Pailgu Tirtha 
+Pulastya said: 
+I . Then one should go to the Pailgu Tirtha-the destroyer of 
+all sins. Earlier a Briihmat:ta named Pailgu had performed 
+austerity here. 
+2. In earlier times a Briihmat:ta by name Pailgu was born in 
+the lineage of Sage Cyavana. Due to his disability, he was unable 
+to walk. 
+3. Once while occupied with some household work, he was 
+unable to go with friends and family relatives. 0 king! he felt 
+very sad. 
+4. Given up by them, he then went to the Arbuda region. 
+There on the banks of a pond, he began performing penance. 
+5. Having installed a Liilga of Siva there, he began to worship 
+it. He used to offer perfumes, flowers and other associated items 
+to it with due faith. 
+6. Moved by devotion to Siva he used to subsist only on air. 
+The good Briihmat:ta Pailgu was invariably engaged in offering 
+oblations to sacrificial fire and in muttering the God's name. 
+7; Then, 0 great king! Mahiideva satisfied with the Briihmat:ta 
+spoke thus to Pailgu: 
+The God said: 
+8. 0 Pailgu! Mahiideva is pleased with you and you can ask 
+for a good boon. I shall grant you all that even if the same may 
+be difficult to have.
+
+## Page 67
+
+vii.lll. 1 7. 9- 14 - 18. 1 -2 
+55 
+Pangu said: 
+9- 1 0. 0 God of gods! let this sacred place be famous after 
+my name. 0 Sarilkara! I, being disabled, have come here for 
+your blessings. Let there always be your presence along with 
+your wife here." With him saying like this, the Lord said the 
+following to the BrahmaQa. 
+The God said: 
+1 1 - 1 2. This centre of pilgrimage will be named after you 0 
+best of Brahmar:tas. This pilgrimage will acquire its popularity 
+by the fame of your religious austerity.There will be my 
+presence in this place on the fourteenth day of the bright period 
+of moon in the month of Phalguna (i.e., March). 
+Pulastya said: 
+1 3- 1 4. By a mere bath only the Brahmar:ta acquired 
+supernatural appearance. This God of gods and the greatest 
+God, i.e., Mahesvara dwells here with Gauri. 0 best of kings! 
+one should take bath there on that day when the lame Brahmar:ta 
+getting free from his disability had attained supernatural 
+appearance there. 
+CHAPTER EIGHTEEN 
+Greatness of Yama Tirtha 
+Pulastya said: 
+1 . Then, 0 best of kings, one has to go to that good place of 
+pilgrimage known as Y ama Tirtha. It is a destroyer of sins of 
+living beings and giver of freedom from hell. 
+2. In olden times, there was a king named Citrailgada who 
+was excessively greedy. Neither did he do anything good nor 
+was good behaviour known to him on earth.
+
+## Page 68
+
+56 
+Skanda Purii1Ja 
+3. Extremely cruel, wicked, he was a pain-giver to gods and 
+Briihmat:tas. He used to embezzle others' wealth and kidnap 
+others' wives. 
+4. Devoid of truth and honesty and at the same time full of 
+cunningness and insatiable greed, once, he went to the Arbuda 
+mountain as addicted he was to hunting. 
+5 . Roaming about here and there, he got agitated with 
+excessive hunger and thirst. Then he found a lake full of clean 
+water. 
+6. It was full of lotuses as well as of crocodiles and turtles. 
+Full of different kinds of birds it was well spread out and enticing. 
+7. 0 virtuous king, as he entered the pool to quench his 
+thirst, a crocodile caught him and devoured him. 
+8. Y ama had created terrible hells for him. The Messenger 
+of Y ama hurried and took him, the perpetrator of evils, there. 
+9. However, coming in contact with him, everyone in hell 
+became happy. With his eyes struck with wonder on seeing 
+everyone happy in a place like hell, the Messenger described 
+such state of affairs before Y ama, the king of righteousness. 
+Then Yama said: 
+10- l l a. The Arbuda mountain is there on this land where 
+this centre of pilgrimage dear to me is situated. Observance of 
+religious austerities by me has materialised here. It is certain 
+, that he has met with death there for this reason. As per saying, 
+truthfulness is only the foundation for death at the region of 
+Arbuda. 
+The Messenger said: 
+l lb. But 0 king! such a lower man has attained death there 
+by the crocodile catching him. 
+Yama said: 
+12. Leave him aside. In any case there are different types of 
+wickedness. He has died in this place of my pilgrimage which 
+is the destroyer of all sins.
+
+## Page 69
+
+vii./11. 18. 13- 16 - 1 9. 1-3 
+57 
+1 3. 0 best king! following such words of Yama and his 
+servant leaving him free, he went to Heaven getting served in 
+tum by the divine damsels. 
+14. Hence there is a need of having a bath there enjoined 
+with devotion. One who does so, goes to that ultimate place 
+becoming free from old age and death. 
+1 5 . Therefore, everyone needs to follow the practice of 
+having a bath there with all efforts. Y ama had attained fulfilment 
+there on the thirteenth day of the bright fortnight of the Moon 
+in the month of Caitra i.e. March. 
+1 6. The human being performing the appropriate religious 
+ceremony connected with remembrance of his near and dear 
+ones (Sraddha) there gets blessed with residence in Heaven 
+along with his paternal ancestors. 
+CHAPTER NINETEEN 
+Greatness of Variiha Tirtha 
+Pulastya said: 
+1 . After that, 0 best king, one needs to go to that place of 
+pilgrimage which Hari, i.e., Vi{J.lu in His incarnation of Variha 
+(i.e., boar) inhabited and which always gives happiness and 
+destroys all sins, 
+2. In the V araha incarnation, Vi{J.lu had rescued the Earth 
+there and Hari (i.e., an epithet of Vi{J.lU) had stayed back there 
+in that unchanged form. There is no need of fear for anyone at 
+anytime. 
+3. In this part of Earth, Vi{J.lu told Earth herself to ask for 
+any boon-even the one difficult to attain-:-as He had to go 
+back again to the auspicious VaikuJ.lͷha. (i.e., the abode of 
+Vi{I}.U)
+
+## Page 70
+
+58 
+Skanda PurW}a 
+The Earth said: 
+4. 0 Bearer of Conch, Discus and Mace, if you have to give 
+me a boon, then always remain in no other body than this in 
+this place. 
+Hari said: 
+5-8. 0 Goddess! I shall stay with this body in the Arbuda 
+mountain as per your statement and will remain incessantly 
+engaged in the welfare of people. This lake in front of me is 
+full of clear water. The human being undergoing the religious 
+duty of taking a bath here with devotion on the eleventh day of 
+the bright period of Moon in the month of Magha (i.e., January­
+February) will free him from the sin of murdering a person 
+having knowledge of Veda. Men performing Sraddha with great 
+faith will give satisfaction to their ancestors, which will continue 
+till the time of final destruction of this world. Hence with all 
+necessary efforts everyone must have a bath here with all 
+sincerity. 
+Pulastya said: 
+9. Having said this, 0 king, Govinda, i.e., Vi{QU disappeared 
+from sight on the Garu<Ja, i.e., the kiQ.g of birds (which is the 
+insignia with which God Vi{QU has always been associated 
+with). · Hence 0 best king! take the ceremonial bath specifically 
+on that day there. 
+1 0. Any inhabitant on earth who makes offerings with 
+libation of water and rounded balls of cooked rice to his 
+ancestors with all eagerness through devotion goes to a place 
+nearer to Vi{QU along with his ancestors. 
+1 1 . Going there and making offerings as donations is always 
+praised. 0 best king, also present cows here. 
+1 2. 0 king! all humans making gifts of cows here stay for as 
+many years in Heaven as the number of hairs on the cow's body. 
+1 3. Fulfilling the religious dqty of having a bath and of making 
+gifts according to one's capability specially on the eleventh
+
+## Page 71
+
+vii./ II. 20. I - 7 
+59 
+day of a Lunar month results in attainment of the highest spiritual 
+status for one. 
+CHAPTER TWENTY 
+Greatness of Candraprabhasa 
+Pulastya said: 
+1 . Then, 0 virtuous king, one needs to go to the radiant 
+Candresa Tirtha where the great soul Candra had attained 
+brightness completely. 
+2. 0 king! Candra had married twenty-seven daughters of 
+Dak{a. Aswini being the first among the stars. 
+3. Amongst them, he always used to remain engaged in 
+making love with Rohii}I. (Hence) all other daughters of Dak{a 
+finding themselves rejected by Candra were very unhappy. 
+Crying, they went and surrendered themselves to their father. 
+They said: 
+4-5 .. 0 lord of the citizens! despite being blameless, we have 
+been rejected by our husband. Hence with sorrow, we have 
+come seeking a respite under you relying on your greatness. 
+You, the best of kings, always do welfare of all. Hence improve 
+our current state. Chalk out a middle path by which our situation 
+will improve as well as Candra can be dissuaded from his 
+obsession with Rohii}I. 
+Pulastya said: 
+6. After hearing them, he then went to Candra and told him 
+to behave equally with all his daughters. 
+7. Then ashamed of himself Candra told Dak{a that he would 
+act as per his words and then after paying homage he asked 
+Dak{a to let him take leave.
+
+## Page 72
+
+60 
+Skanda PurarJa 
+8. As soon as Dal5{a left, Candra got back to his usual 
+excessive involvement with Rohir:ti and continued with rejection 
+of all those daughters born of Prajiipati. 
+9. Thus, being unhappy, they all went to Dal5{a again and 
+told him that Candra had not fulfilled the words given to him. 
+1 0. They said: "We are unfortunate and tormented with 
+sorrow. It is beyond doubt that death is the only way out for us 
+than having such a life." 
+· 
+Pulastya said: 
+1 1 - 1 2. Thus being angry, Dal5{a went to Candra and told 
+him, "You have committed a sin by not honouring my words. 
+Hence, undoubtedly you will have death by tuberculosis." 
+Giving such a curse, Dal5{a returned to his own place. 
+13-14. Subsequently by suffering from tuberculosis and the 
+gradual spread of the same disease throughout his body, Candra 
+became emaciated and bereft of his usual brightness. Then he 
+began to deliberate telling himself, "What could then be my 
+duty with such a difficult and cruel curse on me? Why should 
+I not worship Siva who fulfills all desires?" 
+15. Resolving like this and winning over anger, he then went 
+to the peak of Arbuda and got sincerely engaged in performing 
+austerities, offering oblations in sacrificial fire and muttering 
+names of God. 
+1 6. Then after passage of years together, Mahiideva being 
+pleased, appeared before him saying, "I have come to grant 
+you a boon." 
+God said: 
+17. Let there be your well being. You can ask for a boon 
+cherished in your mind. I shall grant the same to you, 0 Candra, 
+even if it may be very difficult to attain. 
+Candra said: 
+18. 0 best of Gods and the destroyer of the three worlds! 
+Please kill my disease. 0 Lord of the world! Tuberculosis has 
+spread throughout my body.
+
+## Page 73
+
+vii.lll. 20. 19-28 
+6 1 
+The God said: 
+1 9-2 1 . 0 Candra, the tuberculosis in your body has been 
+due to the curse of Da͸a. Nothing can be done about the curse 
+of this great soul. Hence, you adopt all those daughters as your 
+own as per my words. By looking upon them with an equal 
+mind your disease can be cured. During the waning period of 
+moon your condition will deteriorate further while the waxing 
+period will bring an increased aggravation of the same. You 
+ask for a different boon desired in the mind even if that may be 
+difficult to attain. 
+Candra said: 
+22-23. 0 Samkara, a man who takes a bath on Monday with 
+all devotion in the pool meant for Candra attains the ultimate 
+status. 0 God of gods! let the ancestors of one offering balls of 
+cooked rice here go to Heaven. Let this centre of pilgrimage, 
+by your grace, bestow liberation on one. 
+The God said: 
+24. That will materialise completely for human beings in 
+exchange for a bath here. As you have obtained radiance here, 
+so there will arise purity through this centre of pilgrimage. 
+25. This place of pilgrimage accordingly will earn fame by 
+the name Prabhasa. The planet Soma will specially be available 
+here on Monday. 
+26-27. Those humans who will have a bath here, will attain 
+the highest status. Similarly, the observance of religious activity 
+by human beings in memory of their ancestors (i.e., Sraddha) 
+and the offering of balls of cooked rice (i.e., PiQda) will yield 
+the same auspiciousness that comes by performing Sraddha at 
+Gaya. Hence it is the most desirable duty to make presents 
+here keeping with fitness of the Soma planet. 
+Pulastya said: 
+28. Having said like this, the God having manifold forms 
+disappeared from sight. Candra also keeping with the desire of
+
+## Page 74
+
+62 
+Skanda Puriil}ll 
+D਴a began to treat all his daughters equally as wives as could 
+be possible. 
+CHAPTER TEWNTY ONE 
+Greatness of PiJ.lcJodaka Tirtha 
+Pulastya said: 
+1 . After that, 0 good king! one has to visit the Pil:uJodaka 
+Tirtha. PiQ<Jodaka, a BrahmaQa, had performed religious 
+austerities in this centre of pilgrimage. 
+2. In ancient times, there was a BrahmaQa by name PiQ<Jodaka 
+on this great earth. Though taught by a teacher, he turned out 
+to be less intelligent and less meritorious. 
+3. 0 king! he could not succeed in study due to his idiocy. 
+Then adopting the path of ultimate renunciation he went inside 
+a cave in a mountain. 
+4. Just at the same juncture of time, Goddess Saraswati 
+entertainingly playing the VIna and roaming around arrived 
+there. 
+5-6. After seeing the BrahmaQa quite depressingly engaged 
+in the pursuit of renunciation the great Goddess Saraswati got 
+carried with kindness and said, "Why are you so sad and appear 
+to be displeased? You are not smiling from within your mind. 
+What for have you come here? Tell me fast. I am there near 
+you." 
+7-9. -PiQ<Jodaka said: "Due to being condemned by the 
+teacher, I have embraced renunciation. Madam, as one without 
+learning, I am seeking death at the moment. Goddess Saraswati, 
+does not dwell at the tip of my tongue. 0 beautiful-faced one, 
+tf:lere is no other reason for my death than this. I have to go to 
+another place, as you have seen me all of a sudden. Death is
+
+## Page 75
+
+vii.lll. 21. 10-15 
+63 
+desirably the best for me rather than living the life of a dumb 
+one." 
+Saraswati said: 
+10. I am Goddess Saraswati who always dwells here in this 
+mountain as the night sets in on the thirteenth day of each 
+month. Hence, you can pray for the desire nurtured in the mind 
+even if that may be very difficult to obtain. 
+Pi1J.4odaka said: 
+1 1 . 0 Benevolent one ! by your grace let me have the 
+knowledge of all that desired in the mind. 0 goddess with pure 
+smile! let this place of pilgrimage acquire fame by my name. 
+Saraswati said: 
+1 2- 14. Starting from today you will be the bearer of all 
+knowledge in this world. As you have wished, this place of 
+pilgrimage will be renowned by your name. One who performs 
+the religious act of having a bath here with the setting in of the 
+night on the thirteenth day of a Lunar month, will be a bearer 
+of all knowledge despite of him lacking in intelligence. 0 good 
+BrahmaQ.a! my association will always be there with this place 
+of pilgrimage. Hence it is your duty to have a bath here with all 
+earnestness. 
+15. Having said like this, the Goddess disappeared from sight 
+then and there. Becoming all-knowing, PiQ.4odaka returned to 
+own home. All were surprised to know the impact of drinking 
+the water as well as of taking a resort to this place of pilgrimage.
+
+## Page 76
+
+64 
+Skanda Purii'}a 
+CHAPTER TWENTY TWO 
+Greatness of Gracious Mother 
+Pulastya said: 
+1 . Then, 0 best king ! you go to the place of SriMਵWi 
+worshipped by gods also. It is a giver of fulfilment to actions 
+; of human beings in this as well as the next world. 
+2. She is also the all-power spread across this world. She has 
+on her own chosen to dwell on this mountain. 
+3. There was a demon by name Kalinga in the ancient Deva 
+Yuga. Free of old age and death, he was a threat to the gods. 
+4. His actions had extended over the three worlds. He had 
+won over the Heaven along with its king Indra by dint of his 
+power. He had reached the Brahma World along with all gods. 
+5. The gods as well as humans were all terrorised by that 
+demon. That demon named Kalinga had himself become Indra. 
+6. Then that demon appointed all demons, as per their abilities 
+in the place of Vasus, Maruts, Sadhyas, Vi§vadeva and of the 
+divine sages. 
+7. The demons themselves ate up all those shares of Yajiias 
+intended for the gods. Then all the gods went to the Arbuda 
+mountain in pursuit of austerities. 
+8. Even now this place is famous in the three worlds as one 
+where the gods tilled the land, and subsisted on leaves, flowers 
+and fruits as a part of their observance of religious vow. 
+9. It cannot be spoken as to what extent they were equally 
+engaged in the activity of meditation while in a state of utter 
+fear. Some of them were sincerely engaged in the observance 
+of religious vow by practising penance in the midst of five 
+fires. 
+1 0. Some were having food only once a day while some 
+were not taking food at. all and were subsisting only on air. 
+Some others were fasting for a month altogether and were 
+observing the religious vow called candrayaQ.a.
+
+## Page 77
+
+vii.l/1. 22. 1 1 -22 
+65 
+1 1 . Some having the eligibility to cross over were engaged 
+in the observance of the most painful and arduous religious 
+vow while others were excessively engaged in having water, 
+air, foam or heat as food only. 
+1 2. Some were doing the religious activity of conducting 
+the sacrificial fire with repeated pronouncements of names of 
+gods within their minds, while some, with all intensity, were 
+engaged in meditation. Some were making sacrifices, giving 
+presents and offering edible things while others were trying to 
+please through offering perfumes and incense. 
+13. 0 king! they were worshipping the supremely powerful 
+Goddess to accomplish their own works for by observance of 
+religious vows and austerities in this way all get free from the 
+bondage of work. 
+14. Then, 0 virtuous king! after completion of a thousand 
+years the Goddess appeared before them in the manifested fmm 
+of an unmarried young girl. 
+15. 0 king! earlier (i.e., initially) she was a frightening smoky 
+statue. Then she became a bright girl draped in a white dress. 
+Seeing her and becoming pleased, the gods got up with folded 
+hands out of sheer gratefulness. 
+The gods said: 
+1 6-22. Homage to you, 0 Goddess ! in motion everywhere 
+and worshipped by everyone. · Homage to you, 0 Goddess ! 
+who is always invoked for fulfilment of all desires. Homage to 
+you, 0 giver of resort to all gods. Homage to you, the Supreme 
+Goddess to whom homage is also offered by all those keeping 
+association with Brahma. Homage to you, the inhabitant in 
+less than half a space, in half a space of a letter. Homage to you 
+having eyes like lotus leaves and the mother of the Universe. 
+Homage to you, 0 Goddess, 0 granter of all boons, 0 one 
+being the essence of Sattva, Rajas and Tamas. Present in distinct 
+forms of your own, you, the Goddess, represent the traits of the 
+material world. You are the bearer of intelligence. Side by side 
+patience is your own nature as part of the disposition of tolerance.
+
+## Page 78
+
+66 
+Skanda PuriiT}ll 
+0 Goddess ! you are intelligence, you are the motion and the 
+agent. You are also Saci, Lਸ਼{mi. Parvati, Siivitri, Giiyatri, the 
+invulnerable one and destroyer of all sins. Whatever different 
+names, 0 Goddess! may be taken of you in places in the three 
+worlds other than this mountain, those are of the same form in 
+which you have placed yourself in this mountain. As fire pervades 
+wood or threads constitute cloth, so are you encompassing the 
+entire world with yourself present everywhere in disguise. 
+Pulastya said: 
+23-24. After such hymns were sung in praise of her, the 
+Mother of the world told all the good gods, "Do ask for the 
+boon fast as desired, 0 best gods. Why are you all putting up 
+here clandenstinely in the middle, in such a poor and helpless 
+state? There is no fear for my devotees with me ever present in 
+the three worlds-both living and non-living." 
+The gods said: 
+25-27. 0 Goddess ! we have been repeatedly defeated by 
+the demon Kalinga in wars. His influence has spread out in the 
+three worlds encompassing both the living and the non-living. 
+Having usurped our share of Yajiia, he has brought it under 
+the control of the demons. By his occupation of the Heaven all 
+gods have been ineffective. In no other way can Indra regain 
+his own position than the murder of the demon. Hence, 0 highly 
+fortunate one! do something like this. We desire a boon like 
+this. 
+The Goddess said: 
+28-29. As I have created you, so also this great demon. Hence 
+there is nothing which I can do specially for both you as well 
+as the demon, 0 best gods. Therefore I will prevent those 
+demons from entering Heaven and make Indra as well as other 
+gods inhabitants of Heaven again. 
+Having said so the best Goddess sent for a messenger with a 
+rider.
+
+## Page 79
+
+vii.l/1. 22. 30-39 
+67 
+30. She sent the message through the messenger asking the 
+demon Kalinga to leave Heaven fast. Going to the demon 
+Bakali, (son of Baskala, i.e., Kalinga) i.e., the messenger 
+conveyed the same with all sobriety. 
+The Messenger said: 
+3 1 -32. That Virtuous Mother, all-encompassing, having the 
+appearance as manifested power, with a pure smile, the mother 
+of world worshipped by all gods is telling this to you for being 
+pleased with the gods, "You hurry and get back to your own 
+place so that Indra can return to Heaven. 0 best of demons! do 
+not be excited as you cannot attain godhood". 
+Pulastya said: 
+33-37. After having heard the words of the messenger, the 
+demon, thinking of himself as the Lord of the world and self­
+conceited as he was in excitement said, "Who is this virtuous 
+lady or who even are the gods? I do not know anything or 
+anyone of that sort, nor am I going to give up Heaven. Go and 
+tell this order of mine to her. I shall not part with Heaven under 
+any circumstances out of fear. Even the King does not kill the 
+fearsome/difficult enemy. For this reason, 0 messenger! I am 
+not depriving you of life. 0 messenger! after this, if you enable 
+me to have a look at the gracious mother, I shall present to you 
+the thing as per desire of your mind. This statement of mine is 
+true. I shall accompany you there where she is putting up and 
+making my statement true, I will subjugate her." 
+Pulastya said: 
+38. After saying like this the demon, wild in excitement went 
+swiftly to the Arbuda mountain along with the messenger with 
+anger. 
+39. Seeing (i.e., noticing) the arrival of Ba{kil, the gods along 
+with Indra began to retreat despite the Goddess asking them 
+not to do so.
+
+## Page 80
+
+68 
+Skanda Puriif)a 
+40. Possessed by fear, the gods in any case, had already run 
+away equally in all directions. Then Bakali arrived along with 
+a great army. 
+4 1 . Then king, Kaliilga through the messenger, told the 
+gracious Mother after whom that particular region of Arbuda is 
+named. 
+Biiskali said: 
+42-44. 0 best messenger! go and tell the gracious Mother 
+having a beautiful smile that "let her be my wife and I shall 
+ever remain under her control. The entire kingdom of mine 
+will be there under her control. Otherwise, by winning over all 
+the gods, I shall take her forcefully. 0 one with the best face! 
+What need have you of the less powerful Indra and of other 
+gods similar in that respect. Neither the thol}sand-eyed 
+God nor the other gods nor any other demon are comparable 
+to me." 
+Pulastya said: 
+45 . Having heard all this਷ the messenger then went and 
+conveyed the same. 0 King! he conveyed all that as told to 
+him. 
+46. After hearing all this, the Goddess began to deliberate 
+with a gentle smile on her. She thought that the king of demons 
+had been made free from old age and death, is the doing of 
+Sambhu, i.e., Lord Siva. 
+47. As per what action to be initiated by me, could I kill him 
+and oblige the gods. When the Goddess was deliberating like 
+this once and again with regard to the course of her action in 
+respect of the demon, he (i.e., the demon) restless with desire 
+came towards her in a hurry. 
+48. Learning that the Lord of the demons was having such a 
+lowly vision, she decided for all certainty on her part to bring 
+his downfall as far as possible. 
+49. Then, 0 virtuous king! as the Goddess began to laugh 
+slowly, ferocious soldiers began to creep out of her mouth.
+
+## Page 81
+
+vii.///. 22. 50-57 
+69 
+50. In that army of soldiers there were separate groups of 
+elephants, cavalry and infantry. There were also thousands of 
+other fighters seated on chariots. 
+5 1 . The soldiers of the demon were all brought down by 
+weapons of such soldiers before the demon himself who became 
+still to witness this. 
+52. After the killing of his soldiers, the gods as well as Indra 
+told the Goddess, "0 Goddess! kill this demon for neither can 
+we live nor can there be our reign in the Heaven with his 
+remaining alive." 
+Pulastya said: 
+53. After hearing such words of theirs, despite their awareness 
+of him (i.e. the demon) being free from death, the Goddess 
+gave them the great peak of the ·mountain with herself placed 
+on top of that. 
+54. Since then, has this gracious Mother of the world who 
+can assume a form as per her own sweet will, been dwelling on 
+this best mountain and, 0 king! she is still present there even 
+today for the welfare of the world. Her dwelling there is 
+manifested through the fulfilment of desires of human beings. 
+55. At that time, becoming pleased all gods began to sing 
+hymns in honour of that supremely powerful Goddess who 
+took away all their fears. 
+56. 0 king! the Goddess became fully pleased with the hymns 
+of gods in her praise. With their pain/difficulty gone away, the 
+gods-all of them, retreated to their own places. They all went 
+back. to places of their own with the obstruction on the way 
+taken away and with all their difficulties gone away. 
+57. 0 Iildra! 0 King of Gods! ask for any boon that your 
+mind is cherishing. Saying so the Goddess assured that she 
+would grant all his boons, herself being satisfied with his 
+devotion.
+
+## Page 82
+
+70 
+Skonda Puriif}a 
+lndra said: 
+58-6 1 . If you are satisfied with me, 0 Goddess ! who is 
+eternally fond of devotion, please stay here till I am the lord of 
+Heaven. I am ruling over the gods, 0 one eternally fond of 
+devotion. I am the Indra as this demon is immortal and free 
+from old age. Made by Hara (i.e., Siva) earlier he has remained 
+unmoved by old age and death. Let there be no disease in the 
+three worlds by your grace. We all will be worshipping you 
+equally here. Let them, who worship you on the fourteenth 
+day of the bright fortnight of moon in the month of Caitra 
+(March) go to that supreme position free from old age and death. 
+Pulastya said: 
+62. After saying like this, the thousand-eyed, i.e., Indra 
+together with other gods became pleased to get back Heaven 
+and returned to Heaven. 
+63. She__:_the Goddess also stayed back there for the welfare 
+of gods. 
+64. One who takes a look of her, 0 king! on the fourteenth 
+day of the month of Caitra (i.e., March) when the earth is 
+bedecked with the white rays of moon, attains that ultimate 
+place becoming free from old age and death. 
+65. So 0 king! what values the observance of religious vows 
+or regulations or making of charities can have. All these cannot 
+even equal one-sixteenth part of the results that awaits taking a 
+full and complete look of her. 
+66. 0 king! the divine foot-wear of hers there even sets a 
+pathway of vision. Taking a look at it is relatively more 
+important for one doing so does not have to look forward to 
+the world again. He attains all desires of this world as well as of 
+the other world. 
+Yayiiti said: 
+67. At what time in the past, a best BrahmaQa attained freedom 
+by the footwear of the Goddess? Please tell me in great details 
+as to how could it be and what were the reasons behind it?
+
+## Page 83
+
+vii.lll. 22. 68-81 
+7 1 
+Pulastya said: 
+68. 0 virtuous king ! men attain two kinds of supreme 
+fulfilment accruable to the conduct of a religiously righteous 
+deed by seeing that Goddess. 
+69. At this time, 0 king! with the evolution of undertaking 
+of pilgrimages and observance of religious vows on earth, such 
+activities like conduct of sacrificial fires, i.e., Yajiias and the 
+offering of presents disappeared. 
+70. All the hells of King Y ama became empty and difficulties 
+arose without gods having the participatory shares of Yajiias. 
+7 1 . Hence all gods, 0 best king! assembled there and went 
+to the Supreme and graCious Mother on top of Arbuda. 
+The gods said: 
+72-74. 0 queen of gods! all actions like conduct of offerings 
+to eight sacrificial fires (Agnitoma Yajiia) have gone to dogs. 
+We are therefore affected by such severe activities in the mortal 
+world. All beings with sins along with their ancestors are 
+attaining the passage of fulfilment by having a look at you, 0 
+Goddess. Hence by your grace let us also attain that prosperity. 
+The demon Biikila is not moving out from here. Hence please 
+do something of this sort. 
+Pulastya said: 
+75-8 1 . After hearing like this from them, the Goddess then 
+began to deliberate deeply and after making a footwear for her 
+out of stones, she left the same there. Then, 0 king ! coming 
+nearer to the gods and with her body bowed down, the Goddess 
+said, "As per your statement, I have left this best of Mountains 
+and have left my footwear there for your protection from the 
+demon Biikila. 0 best gods! under the weight of my footwear 
+that demon has become unable to move and henceforth is like 
+an immobile pole there by my power. For the purpose of this 
+footwear, I have made the rules in Siistras. These rules are for 
+the spiritual well being of living beings on the surface of earth. 
+One who worships the footwear with utmost devotion and
+
+## Page 84
+
+72 
+Slaznda Puriil)a 
+according to the path laid down in Sastras and in no other way, 
+fulfilment will await him as an evolution from that sight. I shall 
+be ever present in guise, in the caves of this mountain on the 
+fourteenth day of the bright period of moon in the month of 
+Caitra (March). I love this mountain and am not giving it up 
+out of my own will. However, I am leaving this for all of your 
+welfare." 
+Pulastya said: 
+82. After saying like this to the gods and all others having 
+deformed bodies, the Goddess left for heaven listening to the 
+hymns in her praise and leaving the pair of her footwear there. 
+83. Even today, the yogis acquire fulfilment here through 
+well-intended meditation. The meditation conducted with all 
+sincerity of mind is like having a sight of Goddess. 
+84. I have described all this as you asked me. Welfare is also 
+possible on _the land by the worship of footwear of the gracious 
+Mother. 
+85. 0 king ! reading of this with devotion and extolling it 
+with faith relieves one of all sins and makes him inclined towards 
+wisdom with all sincerity. 
+CHAPTER TWENTY THREE 
+Greatness of Sukla Tirtha 
+Pulastya said: 
+1 . Then one has to go to the Sukla Tirtha which is good. In 
+olden times, it acquired fame by its association with a tribe of 
+fishermen who were staying in the vicinity of the pilgrimage. 
+2. In olden times, 0 king! there was a washerman by name 
+Sanlaksha. He used to rinse clothes dipping them in indigo, 0 
+great king.
+
+## Page 85
+
+vii./11. 23. 3-14 
+73 
+3. While doing so, fear engulfed him once with his becoming 
+aware of the paradoxical situation with the clothes. Accom­
+panied by his own kith and kin, he left for some other land. 
+4-5. As a result, 0 king! his daughter became very sad and 
+going near one of her good friends among the daughters in the 
+community of fishermen, she began to describe her about the 
+fear arising out of clothes and with a choked voice told her the 
+same reason for which they were heading for a foreign land. 
+6- 1 1 . The fisherman-girl became equally sad by her sorrows 
+and with repeated beating of heart as well as with a wet voice 
+began to say, "There is a great way out of this as per my 
+knowledge which is good. It is certain that by doing so all of 
+you as well as your father will be fearless. There is a waterfall 
+here in this Arbuda mountain which bestows one with the · best 
+of fair complexion and appearance. I, my brother as well as 
+others go there to catch fishes. All other things apart from this, 
+i.e., fish thrown into the auspicious water here turn into white 
+as can be seen in his (i.e., the brother' s) body. Like the 
+fishermen, all your sins will go away by having a dip in this 
+water. Like that by putting all your clothes well in the middle 
+and by washing those swiftly, those would also become white. 
+There is no need to fear for your action in the mind here and 
+stop your father from going elsewhere. Do not leave for any 
+foreign land nor do you nurture any consideration of getting 
+your work accomplished anywhere else other than here." 
+Pulastya said: 
+1 2. After hearing such words of hers, she went and conveyed 
+it to her father. Her father got into a feeling of self-contentment 
+by this. 
+1 3 . With the ushering in of morning, he hurried to the 
+waterfall and got himself wet. Then, 0 king! he threw those 
+clothes he had carried along as well as his ownsP.lf into the 
+waterfall. 
+1 4. Then all those clothes quite plenty in number became 
+white there, so also his own appearance. He became happy to 
+witness such a supremely beautiful sight.
+
+## Page 86
+
+74 
+Skanda Purii.t;a 
+1 5. Struck with astonishment as a result, he, carrying along 
+the clothes, hurried and went to the king and described him the 
+happening as unfolded there. 
+1 6. Then taken by surprise, the king himself went to the 
+waterfall and threw all clothes both indigo and red in colour 
+into the water there. 
+17. It happened so that all those specially turned into white. 
+Then havmg a realisation that, this is a supreme place of 
+pilgrimage, he had a bath there as per laid down procedures. 
+1 8. Then giving up his kingdom, the king practised penance 
+there. As a result, the king attained ultimate fulfilment by the 
+impact of this centre of pilgrimage. 
+19. 0 king! the human being who observes here the religious 
+act connected with remembrance of his ancestors (i.e., Sraddha) 
+on the eleventh day of a month, he enables attainment of the 
+divine place for his forefathers extending over ten generations 
+before his birth. By a bath here also, all sins go away 
+instantaneously. 
+CHAPTER TWENTY FOUR 
+Greatness of Katyayani 
+Pulastya said: 
+1 . Then 0 best king! one must visit the Goddess dwelling 
+inside the cave. The Goddess Katyayani, the killer of demon 
+Sumbha abides here. 
+2. In olden days, there was a demon by name Sumbha on 
+the surface of the earth. With his victory over the gods, his 
+influence had spread throughout the world. 
+3. Blessed with a boon by Lord Sarilkara, he was free from 
+getting killed by gods, demons, satans and all other creatures 
+on earth except a woman.
+
+## Page 87
+
+vii.///. 24. 4-/4 
+75 
+4. Then all the gods went to the summit of Arbuda and began 
+penance in the first half of the day with the sole aim of bringing 
+down Sumbha to earth. They began to worship the Goddess of 
+gods in her well-manifested form there. 
+5. Thus being pleased she appeared before them and told, "I 
+will grant you all a boon. Tell as to what you all want to get 
+done." 
+6-7. The gods said, "This bad soul demon Sumbha, 0 
+Goddess ! has snatched away everything of ours. 0 giver of 
+welfare! please kill him for he cannot be killed in a war. We 
+have been earlier protected by you from Ba{kila. 0 Goddess 
+with a beautiful smile! there is no other way for our freedom 
+than your protection." 
+Pulastya said: 
+8. After the gods said like this, the Goddess went to the 
+dwelling of Sumbha and began to humiliate him repeatedly so 
+that he would be instigated into a war through anger. 
+9. 0 king! after having come to know that he is being incited 
+for a war by a woman, the demon as well as his fellow demons 
+began to nurture a sense of utter disrespect. 
+He said: 
+10. Catch hold of that wicked and bad-mouthed woman and 
+bring her alive to me. Then, give her the harsh punishment 
+beyond any doubt, and without waiting for my orders. 
+1 1 . Then all the demons having faith in the calling as per 
+their master' s orders went hurriedly, encircled her from ten 
+directions and called her bad names. 
+1 2. The Goddess reduced the demons to mere ashes by 
+merely looking at them. Then Sumbha, as it is, got enraged 
+and arrived himself. 
+13-14. Raising his powerful sword he said, 'Wait! wait' . But 
+then, 0 great king! as soon as the Goddess looked at him, he 
+met with his final destruction by turning into ashes instantly 
+like a kite on fire. Then with the killing of the demon, the
+
+## Page 88
+
+76 
+Skanda PuriiT}a 
+remaining demons who used to be continuously there on earth, 
+left it and like the wind having no existence in the lower region 
+of earth, went to the nether world, i.e., Hell out of fear. 
+1 5. Then becoming pleased and uttering hymns in praise of 
+the Goddess of gods, the gods told the Goddess to ask for 
+whatever boon occupying her mind. 
+The Goddess said: 
+1 6. 0 good gods ! let me always be here in this Arbuda 
+mountain. As I desire this mountain within, let it be named as 
+Arbuda. 
+The gods said: 
+1 7. With you present there and after having a look at you, 
+the mortals will go to heaven. The road to Heaven will be shorter 
+without the religious conduct of Yajiia, i.e., the sacrificial fire 
+and offering of presents. There is no other reason which can 
+prevent us to deny this to you. 
+The Goddess said: 
+1 8. 0 gods! there, I shall be staying inside the charming but 
+desolate cave. Only a living being miniature in shape can have 
+access to me there. For the purpose of having a sight of mine, 
+people need to proceed ahead towards the mountain only. 
+1 9. The gods said, "Let it be so as desired by you and let 
+you, 0 Goddess with a gentle smile do accordingly. We shall 
+ever come there to have a look of yours on the eighth day of 
+the bright fortnight of moon every month. 
+Pulastya said: 
+20. Mter the Gods having said like this, they pleased as they 
+were, entered the heaven. The Goddess also, 0 king! went there 
+to the inountain Arbuda.
+
+## Page 89
+
+vii.J/1. 24. 2 1 -22-25. 1-7 
+77 
+21 . She got well settled for ever there inside the cave for the 
+welfare of the world. Separated from all but truly happy within 
+herself, she is difficult to attain for gods as well as humans. 
+22. Thus having a look of her on the eighth day of the rising 
+period of Moon with the mind completely withdrawn towards 
+her always results in the attainment of desires nurtured in the 
+mind, 0 king! even though those may be difficult to attain. 
+CHAPTER TWENTY FNE 
+Greatness of Pindaraka Tirtèa 
+Pulastya said: 
+1 . Then the king, one has to go to the Pindaraka Tirtha which 
+takes away sins. A BrahmaQa by name Manki had earlier 
+attained fulfilment here by the influence of this place of 
+pilgrimage through penance. 
+2. Manki was a BrahmaQa by name only in old times. 0 
+King ! as an idiot, he was ignorant of the observance of the 
+generous activities of the BrahmaQas. 
+3. 0 virtuous king! he used to remain engaged in grazing 
+the buffaloes of people in this beautiful mountain. 
+4. In course of time, he earned some money through that. 
+Then once, he was carrying a pair of cows back home with 
+great difficulty and with the little money that he made for that 
+day. 
+5. Then 0 virtuous king! he tied a pair of cows to a camel. 
+As a result, the cows became afraid as per the circumstances so 
+provided to them. 
+6. Now with its neck region thus obstructed and pressurised 
+out of situational force, the camel, 0 king! got up swiftly and 
+stood up. 
+7. With the camel's getting back into its usual (and normal) 
+posture of long and erect neck, the pair of cows having their
+
+## Page 90
+
+78 
+Skanda PuriirJa 
+safe protection on that camel, got killed which the BrahmaQa, 
+witnessed, 0 king. 
+8. Then 0 virtuous king! Manki embracing non-attachment 
+left for forest giving up his village. He went and began to put 
+up near some waterfall in the Arbuda mountain. 
+9. Having a bath three timਸs in a day, he repeatedly recited 
+the Gayatrl Mantra well within mind with the intention that by 
+doing so he would get rid of sins and have a divine vision 
+while on earth. 
+10. In the meantime Lord Sarilkara came along his way. He 
+had stepped out along with Gauri for sport in that beautiful 
+mountain. 
+1 1 . Then 0 king! that great soul Pindaraka, i.e., the grazer 
+of - buffaloes, having seen him, instantly paid homage to 
+Sarilkara. 
+Theil Samkara said: 
+1 2. Having a sight of me does not go in vain. 0 Brahmal}a! 
+I have accepted your homage from a distance. 0 priest! you 
+can ask for the thing desired in the mind, even if that may be 
+d: fficult to attain. 
+Pitdaraka said: 
+1 3-14. 0 God of gods! let me be your follower till the end of 
+the three worlds. Please do accordingly. There is nothing other 
+than this prevailing in my mind. Let this Pindaraka centre of 
+pilgrimage _ here be famous after my name. 
+The God said: 
+-
+1 5- 1 6. 0 good Briihmal}a! you will remain my follower till 
+the end of thjs body of yours. There will be a centre of 
+pilgrimage by name Pindaraka here. 0 great mind! I shall be 
+present here on the eighth day in each month. Those who 
+Qndergo the religious activity of having a bath here on the 
+eighth day of a month, will go to that ultimate place with myself 
+ever present here on the same day.
+
+## Page 91
+
+vii. III. 25. 1 7 - 20. 1-5 
+79 
+Pulastya said: 
+1 7 . Having said like this, the great God Mahadeva 
+disappeared theri and there. The grazer Manki remained 
+engrossed day and night in penance there. 
+1 8. With passage of time that great soul went to that divine 
+place giving up body. Becoming His follower, he went and 
+remained there where God Rudra, i.e., Salilkara stays. 
+19. Therefore with all efforts and with incantation, there should 
+be the observance of the religious rite of having a bath here. 
+20. 0 king! buffaloes need to be presented specially here on 
+the eighth day of a month so that all desires wished for within, 
+of this world as well as of the after-world get materialized. 
+CHAPTER TWENTY SIX 
+Greatness of Kanakhala Tirtha 
+Pulastya said: 
+1 . Then 0 best of kings ! one has to go to that centre of 
+pilgrimage which is heard of in the three worlds. As a aestroyer 
+of sins, it is known by the name Kanakhala in the Arbuda 
+mountain. 
+2. 0 king! listen to the astonishing incident here earlier. A 
+king by name Sumati had happened to come to the Arbuda 
+mountain. 
+3. The king had gone to the Kanakhala Tirtha during solar 
+eclipse and by prayer, he got gold produced there. 
+4. But due to lack of caution on the part of the king plenty of 
+the same fell off somewhere. Despite the king's earnest efforts 
+to retrieve them, he could not get them. 
+5 . Then after having a bath, he returned home equally 
+burdened with repentence. After passage of substantial time, 
+he again came there.
+
+## Page 92
+
+80 
+Skanda PuriiTJ.a 
+6-7. Setting out to have a bath there on the day of Solar 
+eclipse, he began to look at the region. He, the meritorious one 
+began to recollect as to how could he never gain back the gold 
+fallen off his hands in that region. 
+Pulastya said: 
+8- 10. While thinking like this, a voice came from a formless 
+body which said, "0 king! nothing of this or the other world is 
+destructible here. The gold you had managed to obtain earlier, 
+and the loss of which you have already repented vehemently, 
+have grown by a crore more times. From their original quantity, 
+they have also grown into numbers beyond imagination. Those 
+who observe the religious act connected with remembrance of 
+their ancestors, i.e., Sriiddha, need to do so with faith, 0 virtuous 
+king. Hence, you perform the Sriiddha carefully and specially 
+with gold. If you make them as presents to BriihmaQas, their 
+numbers grow into such countless proportion which cannot be 
+imagined. If you look for them in this region, there is no doubt 
+of your getting them." 
+12. Hearing the flow of that voice emerging from the sky, 0 
+king, he began searching for the gold and got them back in 
+that region. 
+13. Bestowed with gold endowed with brightness of crore 
+times, he got joined with pleasure. Thus learning the effect of 
+the centre of pilgrimage, he distributed them benevolently to 
+thousands of BriihmaQas with the intention of uplifting his 
+ancestral forefathers equal to gods. 
+14. Thus with the effect of that and by his making of gifts, 
+the king got reborn with the name Ya͸a meaning the giver of 
+wealth and himself becoming a giver of many types of wealth. 
+15. 0 king! one who performs Sriiddha here on (day of) the 
+Solar eclipse with libation of water joined with all good 
+intentions, his forefathers attain that degree of unimagined 
+satisfaction. 
+1 6. The sages, the gods and the divine snakes with human 
+faces become happy through a ਹath here. It leads to germination 
+of forces forever that kill sins on the surface of earth.
+
+## Page 93
+
+vii./ II. 26. I 7 - 27. I -3-28. I -2 
+8 1 
+1 7. Hence, 0 virtuous king! with all earnest efforts, one needs 
+to undergo the religious activity of having a bath there. One 
+must also make offering through charity as per one's ability 
+and conduct Sraddha here. 
+CHAPTER TWENTY SEVEN 
+Effect of Cakra Tirtha 
+Pulastya said: 
+1 . Then the best king, go to the Cakra Tirtha, in comparison 
+to which there is no other better place of pilgrimage. The 
+influential God Vit:tu had left his Cakra, i.e., His discus here. 
+2. Killing the demons, the God Vit:tu entered into the beautiful 
+torrent here and had washed Himself completely by a bath. 
+3. Those who perform the Sraddha here both in the retiring 
+i.e. the sleeping place of Hari as well as in His place of 
+contemplation, get their forefathers contented till the persistence 
+of the Creation, 0 king. 
+CHAPTER TWENTY EIGHT 
+Greatness of the Manuçya Tirtha 
+Pulastya said: 
+1 . Then 0 best king! one has to go to that pool known as 
+'human pool' which is very auspicious. By having a bath there, 
+man attains humanness for ever. 
+2. Despite having committed great sins, he does not become 
+a foetus in the wombs of animals and birds. There was an 
+astounding happening there in this regard which has no 
+comparison. 0 king! listen to that.
+
+## Page 94
+
+82 
+Skanda Puriil}a 
+3. Following a flock of deer, the hunters had spread out in 
+all directions and they were present everywhere. Frightened, 
+those deer then entered into middle of the water. 
+4. But then as soon as they remembered their previous birth, 
+they instantly attained humanhood. Coinciding this, the hunters, 
+altogether appeared before them. 
+5 . Bearing bows and arrows in hands, all the hunters 
+appeared as if they were servants of Y ama. Then they asked all 
+those deer the bearers of human bodies as to how could 
+humanhood arrive on them. 
+6. We had come here to get hold of the deer who have taken 
+resort in the middle of water. By which way could we bring 
+their end by swiftly killing them for we all have been tired of 
+hunger and thirst in particular? 
+The deer in human bodies said: 
+7. While being deer, all ofus have become humans by taking 
+a resort here: This has been possible as an effect of this place 
+of pilgrimage. This is the truth beyond any doubt. 
+Pulastya said: 
+8. Then having foresaken all their bows and arrows and 
+having had a bath in the water there, all those earthly beings, 0 
+king! who had come to the mountains, attained fulfilment. 
+9. Thereafter 0 king ! Indra having seen this place of 
+pilgrimage as taking away sins of all, embanked this pool with 
+earth completely and from all sides, so that it does not get polluted. 
+1 0. 0 king! even today, human beings who take a bath here, 
+never follow the pursuit of animalhood. 
+1 1 . Through Sraddha accompanied with charities and a bath 
+here, the results equivalent to that of the sacrificial fire conducted 
+in memory of one's forefathers, can be obtained here.
+
+## Page 95
+
+vii./11. 29. 1 - 10 
+83 
+CHAPTER TWENTY NINE 
+Greatness ofKapilii Tirtha 
+ulastya sai¢: 
+1 . Then, 0 best king! one has to go to the Kapila Tirtha. By 
+having a bath here, the human being definitely becomes fit to 
+get rid of all sins. 
+2. There was a powerful king by name Suprabha in earlier 
+times. Very fond of deer he used to remain engaged in their 
+hunting/killing. 
+3. He had no interest in women or in luxuries or in horses or 
+in elephants. With such an unusual obsession, he accordingly 
+became a killer of deer. 
+4. 0 best king! given such an indulgence for hunting deer, 
+once upon a time, he went to the Arbuda. There, in a lower 
+region of the mountain, he found a doe surrounded with her 
+babies. 
+5. With all affection and love, she was feeding milk to her 
+babies. To kill her, the king immediately took out a weapon. 
+But then that fell down the mountain. 
+6. Then the doe saw the earthly being, i.e., the king taking 
+out another arrow which after fixing on the bow, he struck at 
+her babies. 
+7- 10. Thus saddened with pain to see the anger on king, she 
+told him, "Today, the action you are pursuing cannot be 
+remembered to have ever been followed by a Katriya. 0 king! 
+it is in vain to kill the doe as well as her babies asleep, suffering 
+from diseases and clinging onto the nipples inseparably with 
+fidelity. 0 very bad king! all those born of me have met with 
+death. Your weapon has activated (i.e., actuated) the same 
+situation for the children without me-the doe-mother. Due to 
+this, 0 king ! as you have killed me quite unrighteously, you 
+will, therefore, become a ferocious tiger, here-on this mountain."
+
+## Page 96
+
+84 
+Skanda PuriiiJa 
+Pulastya said: 
+1 1 . After hearing that he has committed a great sin, the king 
+became full of fear. Then he thought of invoking mercy of the 
+doe till her last breath left over. 
+12. "My killing of you-the auspicious, clearly shows my 
+lack of consideration and the lowest degree of cruelty. 0 good­
+self doe ! please consider and do something by ·which I shall be 
+free from your curse and that too a pitiable one like this." 
+The doe said: 
+1 3. When you will happen to see a milch cow by name Kapila 
+and then enter into a conversation with her on an equal footing 
+you shall again get back your natural form. 
+14. Saying like this, the doe, with unbearable pain of the 
+wound by the weapon and with her left-over affection for her 
+offsprings parted with life before the king. 
+· 
+15. Soon after, the earthly king got instantly animated into 
+that ferocious form. Becoming a tiger with big and ferocious 
+teeth as well as with sharp nails, he stepped out to harm his 
+own soldiers by devouring them with himself remaining 
+unconscious with anger. 
+1 6. Then those soldiers who got left out from being killed 
+by the king got back to their own homes with sorrow and 
+narrated the things as happened to others in the palace. 
+1 7. They described in details and brought it to the notice of 
+all as to how the king attained tigerhood in the Arbuda mountain 
+while taking a round of it for hunting with his weapons. 
+1 8. After hearing those words of their's, his son named Asu 
+and renowned for his great power and strength enthroned himself. 
+19. 0 good king! once in the course of time, it so happened 
+that in a cowshed on the summit of the mountain, some milkmen 
+along with their womenfolk as well as their flock of cows had 
+died badly affected with thirst. 
+20. One cow in the same fleet however, had got waylaid for 
+grass out of hunger and had proceeded much ahead of the 
+flock of the cows. She was famous as Kapila.
+
+## Page 97
+
+vii. Ill. 29. 2 I -30 
+85 
+21 . 0 king! this cow always used to eat those grasses with 
+their top uncut or not severed. In the process, she had got into 
+a deep, desolate and hence frightening cave in the mountain. 
+22. There the same tiger with visibly great teeth attacked 
+her. The cow got frightened in the same way as the doe was 
+terrorized when the king took out arrows to kill her. 
+23-24. Remembering her calves left behind in the cowshed 
+and dependent on her milk, she began to weep. Seeing her 
+condition, the master of deer, i.e., the tiger said, "Why are you 
+crying in vain 0 cow, for it is well known that one coming in 
+the vicinity of my mouth can not remain alive. Hence remember 
+your favourite God." 
+Kapilii said: 
+25-27. 0 tiger! One never cries out of fear for one's own 
+life. My baby calf feeding on my milk is waiting for me in the 
+herd. Even till now, she does not take grass. This is the reason 
+behind my sadness for I shall be leaving my duty incomplete. 
+0 tiger! my crying out is solely out of affection that my own 
+offspring will get killed. So, the powerful, after feeding my 
+small children, then seeing and speaking to my own people, I 
+shall come back if you agree. 
+The tiger said: 
+28-29. I cannot believe that after going near your offspring 
+and after seeing your own kith and kin in the cowshed, you 
+will come back again. You are speaking like this out of fear of 
+me. There is nothing that can equal the fear for life. Therefore, 
+out of fear for life, it is certain that you shall not come back. 
+Kapilii said: 
+30. I vow to come back. You can take it as the truth on my 
+part. If you have your faith in what I say, you-the lord for 
+deer, may grant me this much liberty.
+
+## Page 98
+
+86 
+Skanda Purii'}a 
+The tiger said: 
+3 1 . Proclaim truthfully with a vow again that I shall come 
+back. Then sensing whether to believe you, I may or may not 
+let you leave. 
+Kapilii said: 
+32-47. Let the sin for not following the words given to a 
+BrahmaǙa adept in the learning of Vedas wait upon me, if I do 
+not come back again. Let the sin of disobedience or sedition 
+against the teacher await me, if I do not come back again. Let 
+the sin evolving out of killing a BrahmͶa or a cow also apply 
+to me if I do not come back again. Let the same sin that befalls 
+cheating friends and the elderly people apply to me if I do not 
+come back again. Let the sin that awaits crushing a cow, or a 
+BrahmaǙa with feet or the fire with feet, engulf me if I do not 
+come back again. Let the sin that accrues to humans for 
+dismantling ·a well or a pool or a garden also take me within its 
+hold, if I do not come back again. Let the sin that happens to 
+the ungrateful and also to those who bring bad name, also affect 
+me, if I do not come back again. Let the sins that come to 
+people through indulgence in wine and meat also take me within 
+hold, if I do not come back again. Let the sin that arises out of 
+the action of dethroning or disrobing a king, take me in its 
+wrap in equal proportion, if I do not come back again. Let that 
+sin that generates from sale of Veda, also take me within its 
+hold, if I do not come back again. Let the sin that awaits one 
+who prevents even a lesser amount of charity to Brahmaȇa. 
+take me in its grab if I do not come back again. As the sin of 
+killing the faithfuls burns all completely and without any 
+distinction, let the same sin also cover me if I do not come 
+back again. Let that sin which follows indulgence in enmity 
+towards the Brahmaȇas also cover me, if I do not come back 
+again. Let the sin that awaits those who remain engaged in 
+condemning others or those bad souls, may cover me if I do 
+not come back again. Those who commit the sinful act of eating
+
+## Page 99
+
+vii.lll. 29. 48-55 
+87 
+barley with curd at night, let the fruit of that sin cover me if I do 
+not come back again. Let that sin which arises after having 
+brinjal, raddish, white onion and red carrot, may cover me if I 
+do not come back again. 
+Pulastya said: 
+48. After hearing such a vow of hers, the tiger got his eyes 
+exalted with wonder. Then developing faith in her, the tiger 
+accordingly made the following statement. 
+The tiger said: 
+49-5 1 . 0 good self! please go to the cowshed and come 
+back again. But never think that acceding to such a request of 
+yours is any indication of my being deprived. 0 affectionate 
+KapiHi! go, have a look at your male calf. Feed milk to him 
+fully and have a smell of his forehead. Meeting your mother, 
+brothers, partners, own kith and kin and friends, come back 
+truthfully and do not do anything otherwise. 
+Pulastya said: 
+52. This is how, after getting the permission of king of deer 
+i.e. the tiger, KapiHi having deep affection for children, left for 
+the place where the herds of cows were placed, with tears rolling 
+down her face and evoking pity for herself. 
+53. Trembling with fear like an elephant in face of a ferocious 
+lion and well in the middle of the ocean of sorrow, she entered 
+the place where the herd of cows were putting up making sounds 
+repeatedly. 
+54. Then hearing her voice and becoming aware that it was 
+his own mother, the calf got incited to hurry up and arrived 
+before her raising its tail. 
+55. Seeing her coming in an odd time and that too hearing 
+her making difficult sounds, the calf became apprehensive and 
+asked her.
+
+## Page 100
+
+88 
+Skanda PuriitJa 
+The calf said: 
+56. I do not see you in a pleasant mood. You appear to be 
+depressed. Tell me what for have you come here untimely? 
+Kapila said: 
+57-60. 0 son! first have milk. After that you will hear the 
+reason from me. I have come here out of sheer love for you. 
+Get satisfied as per your desire. This is my last appearance 
+before you for after this 0 son! your having a look of your 
+mother will be very difficult. Right now I have to return, 0 
+son! as per my vow. The tiger which can assume form as per 
+his sweet will, has granted me life for the time being. He has 
+granted me to meet you, the son only after my having 
+proclaimed a vow before him. Now, I have to go near the king 
+of deer i.e. the tiger. As bound by vow, I have to, 0 son! offer 
+this body of mine to him. 
+The calf said: 
+61 -66. I shall also follow you along there where you desire 
+to go for it is beyond doubt that praises will be sung in respect 
+of my death beside you today. As it is, I have to die all alone 
+without you. Hence, if it could be that the tiger kills me along 
+with you. It is certain that I shall also attain that divine passage 
+which accrues out of devotion for mother. It is due to that I 
+shall of course, go with you without any doubt. Otherwise you 
+stay back here and I shall fulfill your vow then. I shall take up 
+the venture in your place, 0 mother! if you permit me from 
+within your mind. Separated from mother, life will no more be 
+dear to me. There is no one like mother nor can babies sustain 
+life without milk. There is no one good like mother nor is there 
+any better way than engagement in mother's service. The sons, 
+engaged ceaselessly in the mother's service attain the ultimate 
+passage.
+
+## Page 101
+
+vii./11. 29. 67- 78 
+89 
+Kapilii said: 
+67-75. It has been destined for me to die in this way. For 
+you- the son, it is not fit to die at the moment. Death of any 
+living being cannot be visualized on the basis of someone else's 
+· death. 0 son! this is the best message of the mother and it is 
+also final. Listen to this carefully and this bears conducive 
+results. 0 son! always graze in the forest, but while doing so, 
+be above carelessness. For there is no doubt that danger is the 
+cause behind destruction of all living beings. Never graze in 
+dangerous places in greed for grass. Greed is the cause behind 
+destruction of animals in this as well as in the other world. 
+Prompted by greed, people enter into the oceans, the forests 
+and the battles. Carried by greed their actions get added with 
+cruelty of the highest order. Hence give it up. Men are tied up 
+to these three viz. greed, carelessness and assurances. Hence 
+neither greed nor carelessness nor reliance on assurances should 
+be anyone's duty. 0 son! always be careful to protect yourself 
+from the preying, violent and ferocious animals. One also needs 
+to protect one's self from the crooked and those born of sins 
+who roam about in the forest. It is not your duty to grieve also 
+as death is certain for all. Listen to this statement of mine which 
+takes away all sorrows. As a traveller tired of journey looks for 
+the shade of a tree, takes rest under it and resumes the journey 
+again after having rest, so is the coexistence of all living 
+creatures. 
+Pulastya said: 
+76. Speaking like this to her son and then kissing his 
+forehead, she proceeded ahead to meet her mother and other 
+friends. 
+77. Grieved with separation from her son, she then told her 
+own mother 'please listen to these last words of mine.' 
+78. You all have to rear this weak son of mine, awaiting 
+orphanhood, pitiable with foam coming from mouth as if on 
+the eve of his final end.
+
+## Page 102
+
+90 
+Skanda Puriif)Q 
+79. With such a state of affairs going to happen for my child, 
+please rear him specially and befittingly by feeding him your 
+own milk like you feed your own. 
+80. Friends ! stop him from grazing in uneven surface or 
+among other strange species. Also stop him from doing 
+undesirable activities. 
+8 1 . 0 greatly fortunate ones! pardon me. I have to follow 
+the truth. At present as it is, I have to go to the tiger staying 
+here for he has left me free for the time being. 
+82-84. All were taken with sadness after hearing her words. 
+Possessed with sorrows of the highest order they then said with 
+overwhelming unhappiness, "0 Kapila! you need not go and 
+there will be no sin on your part by not going for no sins happen 
+to those who flee away with an eye to life in difficult battles. 
+The sages known for their observance of righteousness have 
+already stated one thing in this context since old times. The 
+saying is that 'no sin awaits one who fails to adhere to vows at 
+the stake of life.' 
+Kapilii said: 
+85-87. I can only drive at this point for the sake of protection 
+of life of other living beings. I cannot drive at this even to the 
+slightest for the sake of self. A thousand of the religious acts 
+where sacrifices of horses are made to the fire have been 
+weighed up with truth and it has been specially found out that 
+truth outweighs thousands of sacrifices of horses made at the 
+altar of fire. I cannot drive at hither and thither in the hope of 
+life. Please accord me the necessary permission so thaਥ I can 
+go near the king of deer, i.e., the tiger. 
+88-89. Her peer friends said: "Kapila! you will command 
+homage of all including gods and demons as you are giving up 
+life in the pursuit of the supreme truth even though that is highly 
+painful. This truth can, of course, never be the cause for your 
+death . . You can proceed if you have to prove the truth and cannot 
+retreat from the same path. Let there be happiness for you.
+
+## Page 103
+
+vii.lll. 29. 90-97 
+91 
+Pulastya said: 
+90. Having said like this, Kapila then went to the place where 
+the king of deer, i.e., the tiger was. Then seeing Kapila, the 
+tiger became astonished and its eyes remained wide-open 
+exalted with happiness. Then brimming with happiness it made 
+this statement humbly: 
+The tiger said: 
+9 1 -93. Welcome to you! 0 good and truthful Kapila. Can 
+anything inauspicious ever happen to those who always speak 
+the truth? 0 Kapila! as per your vow, you had stated to come 
+back and have come back also. My curiosity is how having 
+gone once, you could come back. again. I left you free because 
+you could go there, i.e., the cowshed where your son stayed, 
+who, as it is being dependent on your milk, would otherwise 
+have been very sad. 
+Pulastya said: 
+94. In the meantime, it, i.e., the tiger regained its previous 
+natural form of the king by getting free from the curse of the 
+deer and became a bearer of good and divine body with 
+matching appearance. Then with happiness, he told Kapilii­
+the speaker of truth. 
+The king said: 
+95. By your grace, I have got free from the curse which was 
+equally painful. Tell me fast what is dear to you-the cow, so 
+that I can do it. 
+Kapila said: 
+96-97. I have been gratified 0 king! that you have been 
+free from your sin. As thirst is hurting me at the moment, please 
+get some water for me. I do not know how to beat about the 
+bush. Hence, I only speak the truth.
+
+## Page 104
+
+92 
+Skanda Puriil}a 
+Pulastya said: 
+98. Then the earthly being, i.e., the king raised his bow swiftly 
+in hand and after that tightening up the string put the arrow 
+onto it and then struck it into the surface of earth after holding 
+the arrow at its hindmost point. 
+99. Then auspicious, clear and cool water sprang up and 
+Kapilii having her bath there got her thirst quenched. 
+1 00. The God of death, Yama appeared there in the 
+intervening period and seeing the grateful and happy Kapilii 
+there, he told her to ask for a boon. 
+He said: 
+101 . I am pleased with your observance of truth. There is 
+hardly anyone who can be like you in this regard. _There can be 
+hardly any other cow in the three worlds which can be so 
+complete in grace. 
+Kapilii said: 
+102- 1 03. By your grace let me along with the king as well 
+as with the other herds of cows attain that divine position 
+becoming free from old age and death. Let this pool-the giver 
+of all good, acquire fame by my name. Let it also take away 
+sins of humans and fulfill all their wishes. 
+104- 1 08. The God of death (i.e., Yama) said: Those who 
+take a bath here in this auspicious and well-being causing water 
+especially on the fourteenth day of a month, will attain that 
+ultimate passage. It will happen that this place of pilgrimage 
+which is an inducer of all goodness will be named after you. 
+The mortals who come here for the sake of having a look at 
+this pilgrimage will obtain a thousand of cows. By having a 
+bath here lakhs of qualitative traits will be earned and the 
+goodness that is earned through the religious deed of making 
+presents/donations here will be imperishable. If men perform 
+the religious ceremony connected with remembrance of their 
+family ·members, i.e., Sraddha here with all earnest application,
+
+## Page 105
+
+vii.lll. 29. I 09. I I I - 30. 1-2 
+93 
+those great souls will obtain the fruits of both enjoyment and 
+liberation accruing to the attended act of making presents I 
+donations in Sraddha. The insects and the birds having a dip 
+here in this good-giver water out .of thirst will also go to 
+Heaven- the abode of gods. So what to speak of humans 
+enjoined with full devotion and those who are the speakers of 
+truth. Similar will also be the case with the wise, the highly 
+fortunate, the utterly faithful and the farsighted 
+109. Pulastya said: At this conjucture 0 king! thousands of 
+winged vehicles arrived there as a result of the impact of Kapila. 
+1 1 0. Then ascending onto them, Kapil a, the milkman and 
+the herds of cows, all together enjoined with good radiance 
+attained and reached that ultimate position. 
+1 1 1 . It is due to this that the religious activity of taking a 
+bath there should be observed with all efforts. The earthly beings 
+should truthfully conduct the religious ceremony connected 
+with remembrance of their family members and must make 
+presents/donations there as per their ability. 
+CHAPTER THIRTY 
+Eminence of Agni Tirtha 
+Pulastya said: 
+1 . Then 0 king! one has to go to that supremely pure centre 
+of pilgrimage known as Agni 1Irtha. Fire had become obsolete 
+there but the gods brought it back. 
+The King Yayiiti said: 
+2. 0 best of BrahmaQas! how could and what for the fire get 
+completely obsolete? (And if so) how could the fire be brought 
+back again there? Please tell as I have the curiosity in this regard, 
+0 great Sage.
+
+## Page 106
+
+94 
+Skanda Purll'JQ 
+Pulastya said: 
+3. In old times, once it had stopped to rain on earth for twelve 
+years and beyond any doubt, the condition of all in the world 
+had become pitiable with hunger. 
+4. Almost all living beings were dead and those who were 
+left out were on the brink of death. Forests, villages, animals, 
+birds and deer-all were ruined. 
+5. Seeing such hardships befalling the mortal world, 0 king! 
+the best of sages Viswamitra became very apprehensive. 
+6. Given the scarcity of water, the left-over medicinal herbs 
+appeared as if they were fanning out in the air waiting for a 
+spark of fire. On another day, while roaming about in another 
+direction, he saw the parched land having dust enough to cause 
+sneezing. 
+7. Then being excessively affected by hunger and thirst, the 
+sage reached the house of an outcaste. There he saw a dog 
+lying dead on the dry earth giving an impression as if it was 
+characterised by some good actions. 
+8. Taking hold of it, he brought it home and washed it with 
+water. Hungry as he was. he then put it on fire so as to make it 
+digestible. 
+9. Then 0 king! becoming aware that the thing that cannot 
+be eaten is being converted into something eatable by offering 
+it to the fire, the fire God got enraged with Indra. 
+1 0. With the vanishing away of medicine and water from 
+the world, it appeared that whatever was available as per time 
+could be deemed as appropriate food for fire. 
+1 1 . "I may better give up this land, but shall never eat the 
+uneataਦle. By my doing so, Indra and other gods will have that 
+painful situation of a high order." 
+1 2. Thinking like this and with heightened anger in mind, 
+the Fire God ascending onto his bearer disappeared completely 
+from the mortal world consisting of the living and non-living. 
+. 
+1 3 . With the disappearance of fire, all religious activities 
+specially connected with offering of oblations into fire like the 
+sacrificial fire and the Agni{toma Yajiia disappeared
+
+## Page 107
+
+vii.III. 30. 14-22 
+95 
+immediately. With ruination of such activities people specially 
+became apprehensive. 
+14. As a result, all gods receded into a state of severe doubt. 
+Deprived of their share accruing from the conduct of sacrificial 
+fires, i.e., .Yajfia, all gods, grouped together began to chalk out 
+a plan clandestinely amongst themselves. 
+15. They began to deliberate that with the desertion by fire, 
+men have gone to a state of ruination in the mortal world. We 
+are left out awaiting destruction and there is no doubt that we 
+will be destroyed. 
+16. Hence let fire be looked for at the moment wherever it 
+may be. Let a law be worked out by which, it may move about 
+in the mortal world. 
+Pulastya said: 
+17. After deliberating like this, all gods along with Indra, 
+then spread themselves out in all directions of the earth in search 
+of fire. 
+1 8. Then seeing a parrot before them, the gods tired as they 
+were, asked it with due regards to say, if at all, it has seen the 
+fire. 
+The parrot said: 
+19. I have seen the great and lustrous fire disappearing only 
+in this burnt out log of big bamboo lying in the front. 
+20. With the parrot saying like this the Fire God got argry 
+and then cursing it saying that 'You would have a stammering 
+voice', he left quickly. 
+2 1 . Then he entered deep into the middle portion of the 
+auspicious pipal tree which is usually stated to contain fire deep 
+within itself. This was brought to the notice of gods by the king 
+of elephants. 
+22. Then cursing the elephant that let its tongue tum upside 
+down, the Fire God entered into the pool in the mountain called 
+Arbuda.
+
+## Page 108
+
+96 
+Slulnda Puriil}a 
+23-25. The Fire God entered there without the gods noticing. 
+A frog coming out from there brought it to the notice of the 
+gods by saying, "With the fire putting up there in the mountain 
+brook, all living bodies in the water got burnt out with the water 
+becoming hot. 0 gods! I have extricated myself from the face 
+of death in that painful fire."_ After learning this, the Fire God 
+then entered into the sacrificial oblation to fire with all care. 
+26. 0 king ! then the Fire God cursed the frog that you be 
+deprived of your tongue. 
+27. Then 0 king ! all gods stepped out of that pool and 
+encircling it began to recite hymns of Veda to please the Fire God. 
+The gods said: 
+28-3 1 . 0 Fire! you precede others in staying inside all beings. 
+Without you, everything in the world will get destroyed fast. 
+You are the giver of happiness to all gods. On you are founded 
+the worlds. With your giving up the earth, all of us along with 
+Indra will meet with destruction. Hence you save us. You are 
+the Brahma. You are also the Vi{ȇu, the Mahadeva and the 
+Sun. You are also the Lord of Moon, wealth and the wind. 0 
+Fire! Indra etc. as well as all other gods are your inheritors. 
+"Why have you placed yourself here leaving the mortal world? 
+0 God! what for do you intend to leave innocents like us? 
+Pulastya said: 
+32-34. When the gods, thus encircling the mountainous brook 
+were singing hymns with all sincerity, the Fire God appeared 
+on the shore of the brook and said, "0 Indra! you have propelled 
+me to eat the non-edible. Due to that the God of gods! I have 
+stopped it to rain in the mortal wodd. I have entered into the 
+brook here giving up the land. With the drying up of water in 
+the human world I am left with no will to put up there." 
+Indra said: 
+35-37. 0 Fire! listen, as to why have I stopoed it to rain. 
+Devapi, the king so named and a learned man in the field of
+
+## Page 109
+
+vii.lll. 30. 38-43 
+97 
+scriptures was instrumental behind spreading the fame of 
+K{atriyas. His son Prateepa was a noble soul and was best among 
+those bearing good nature. (But) with Devapi' s passage to 
+Heaven, putting aside his eldest son, Santanu, his younger son 
+began to rule over his kingdom. Due to this reason, I have 
+expelled rains from his kingdom. However, 0 Fire! as per your 
+orders, I will actuate rains there. 
+Pulastya said: 
+38. Saying so, the Thousand-eyed, i.e., Indra commanded 
+the clouds Pu{kara and Avarta to arrive fast for the purpose of 
+raining on the surface of earth. 
+39. Ordered so by Indra, rows of heavily thunderous clouds 
+with lightning began to fill the surface of earth with abundant 
+water. 0 king ! it appeared as if they were out to fill with all 
+intensity the surface of earth with water with themselves ablaze 
+with lightning. 
+40. Then the Fire God became supremely satisfied and as 
+per gods' wishes made the earth pleasurable by settling down 
+on it. 
+Then the gods said: 
+4 1 . 0 Fire! as per your wishes rains have been brought into 
+action i.e. restored. If you have any other work dear to you, 
+please plead for the same hurriedly. 
+Fire said: 
+42. Let this pool yield goodness and be a good centre of 
+pilgrimage named after me. Let it attain fame on the surface of 
+earth by all of yours grace. 
+The gods said: 
+43. This centre of pilgrimage will acquire fame by your name. 
+By having a bath here man will proceed to the world of fire.
+
+## Page 110
+
+98 
+Slwnda PuriiTJQ-
+44. The fruit of sacrificial fire called Agni{toma Yajfia will 
+happen to that man who makes the offering of sesame with all 
+sincere application of mind. 
+Pulastya said: 
+45. Having said so all gods went back to their respective 
+places. And the Fire God also, 0 king! remained present there 
+for having no other way out. 
+46. One who after getting up in the morning regularly reads 
+the hymns in honour of Fire here becomes free from all sins by 
+virtue of the greatness of Fire. 
+47. By listening to the same day and night, one also gets 
+free from the sins so committed. 
+CHAPTER THIRTY ONE 
+Greatness of Raktinubandha 
+Pulastya said: 
+1 . Then one has to go to that place of pilgrimage which is 
+related to blood and which is heard of in the three worlds. The 
+man taking bath here generally gets free from the (sin oO murder 
+of Brahmal)a. 
+2. In olden times there was a king on earth by name 
+Indrasena. His dear wife named Sunanda was very beautiful. 
+A devoted wife treating her husband as holding an important 
+part of her life force, she used to remain engaged in such actions 
+by which she could always be dear to her husband. 
+3. At a certain time, the same king along with family went to 
+a foreign land to kill his wicked enemy Sandha. 
+4. Killing him and winning over plenty of wealth, he was 
+returning home. On his way back 0 king! he sent a fictitious 
+messenger.
+
+## Page 111
+
+vii.J/1. 31. 5-15 
+99 
+5-6. He asked the messenger to go near Sunanda and tell her 
+that "the king got killed in the war" which as per king' s 
+commands was a pointer to her bad actions not in commensurate 
+with the qualities of a devoted wife. If she, the beautiful queen 
+decides to go for death, save her with all earnest efforts keeping 
+in view the fact that such words of mine were adequate enough, 
+i.e., just intended to generate laughter. 
+7. 0 virtuous king ! after the king (having) said so, the 
+messenger went immediately to convey the words so told to 
+the queen. 
+8. 0 best of kings! hearing such words of his, the life force 
+went out of Sunanda-the queen with a beautiful smile, the 
+devoted wife and the great Sat"i. 
+9. As Sunanda endowed with good nature died, the king at 
+the same time came equally under the burden of sin for that. 
+1 0. Then another shadow became visible to the king from 
+above his body. With that heavy body, the king became 
+immobile like a tree. 
+1 1 . 0 virtuous king! then becoming devoid of lustre, with a 
+colourless body and emitting foul smell, the king reached home 
+(palace) and heard of his wife's death. 
+1 2. Submerged in sorrow for causing the annihilation he in 
+any case had to perform the sacred ritual bound up with death. 
+He realized to have polluted himself by the killing of a woman 
+and to have made the sin his own creation. 
+1 3. Then after performing the activity of cremating the 
+corporeal body on fire, he made himself to feel light and 
+undertook pilgrimage as per the direction of Brahmaȇas. He 
+went to Varaȇasi first and made lot of presents. 
+1 4. Kapalamocana, i.e., place of pilgrimage takes away all 
+sins. The three-eyed, i.e., Lord Siva had made himself free from 
+the sin of Brahmanicide there in ancient times. 
+15. 0 king! the second shadow of that did not get destroyed 
+there. Then the king proceeded to the Kanakhala Tirtha which 
+is auspicious and a giver of purity to men.
+
+## Page 112
+
+1 00 
+Skanda PuriiT)ll 
+16. After that he visited Pu{kara and following that he visited 
+Amarakantaka. After that 0 virtuous king ! he arrived at 
+KurukŎetra. 
+17. Then he went to the Prabhasa Tirtha and the centre of 
+pilgrimage known as Soma. Thereafter, he proceeded to a 
+barbarous place full of worms. Then he went to the undulating, 
+auspicious and prime Hamsa Tirtha, 0 king. 
+1 8. Then 0 great king ! after acquiring a great deal of 
+goodness for himself after visiting Rudrakoti, Virupak{a and 
+thereafter the five rivers, the king became tired. 
+19. Then after a lapse of one thousand years, the king reached 
+the Arbuda mountain where he took a sight of the centres of 
+pilgrimage and the temples (i.e., visited them). 
+20. The king made many charities to the communities of 
+hermits and many types of BrahmaQas including those astutes 
+in the Vedas as per their wishes. 
+21 -22. There in that Arbuda mountain, the king arrived at 
+that particular place of pilgrimage connected with a continuous 
+flow of blood, i.e., Raktanubandha. Then after having a bath 
+there, as the king came out, he saw that second shadow which 
+had erupted before him following the sin accruing from the. 
+evil of killing of wife. Sighting this, the king then felt light and 
+relaxed in his entire body. 
+23. Then the foul smell on the body of the king disappeared 
+and he came under the influence of bright intelligence. 
+Witnessing such a happening he made abundant gifts. After 
+that, inspired by the praises of his followers he left for home. 
+24. Then 0 leading King! hardly had the king crossed over 
+the boundary of Raktanubandha, he got back his previous state 
+of condition as it was. 
+25. 0 virtuous king ! the alternate second shadow became 
+again visible in the body of the king. The same foul smell again 
+engulfed his body and the brightness also disappeared. 
+26. Then getting distressed, he got back there immediately. 
+After arriving at Raktanubandha, he got into that repulsive and 
+venomous state again.
+
+## Page 113
+
+vii.l/1. 31. 27-35 
+1 0 1 
+27. Then realizing the greatness of the place of pilgrimage 
+as the best option for the virtuous on earth, the king with all 
+intention collected pieces of wood and set them on fire. After 
+that making charities to the foremost BdihmaQas, he entered 
+into the fire to make a sacrificial offering of himself. 
+28. Then ascending onto the winged vehicle, giving of his 
+temporal body and endowed with a beautiful garland, the king 
+went to the world of Siva. 
+29. With his, i.e., the earthly being's obtaining the world of Siva, 
+the divine sages uttered the following statement with great wonder. 
+They said: 
+30. This centre of pilgrimage will always remain on the top 
+among all centres of pilgrimage in ensuring freedom from sins, 
+because lndrasena became free from his sins by coming in 
+contact of this pilgrim centre. 
+3 1 . Since then, that centre of pilgrimage has acquired fame 
+on the surface of earth. It reminds the living beings of their 
+relationship with blood. 
+32. It is a rule that its fame is derived from such a relationship 
+based on blood. 0 king! those who offer libation of water here 
+as part of the religious activity connected with remembering 
+their forefathers, i.e., Sraddha can claim to have equally 
+worshipped the gods. 
+33. The man who takes a bath here with utmost faith on that 
+day from which the summer solistice begins indicating the 
+ascension of Sun in the northern hemisphere, becomes free 
+from Brahmanicide. 
+34. The m+n who performs Sraddha here connected with 
+remembrance of his family members during the time-zone meant 
+for forefathers, i.e., Pitru Pak{a and in a similar fashion as in 
+Gaya, he gets the same fruits from such a religious ceremony 
+here like in Gaya. 
+35. 0 virtuous king! the man who makes a present of cows 
+here either on the Solar or the Lunar eclipse, ensures liberation 
+for seven generations in the family.
+
+## Page 114
+
+1 02 
+Skanda PuriiiJa 
+CHAPTER THIRTY TWO 
+Greatness of Vinayaka 
+Pulastya said: 
+I . After this, the earthly beings need to go to the Great 
+Vinayaka. By taking a look here, men can generate those forces 
+that do away all impediments. 
+Yayiiti said: 
+2. How could there be the greatness of Vinayaka and when 
+did it happen? 0 best of the Brahmat;tas! please tell me all those 
+in details. 
+Pulastya said: 
+3. 0 king! in old times, Parvati, for amusement, had made a 
+youthful boy from some good quality smear meant for 
+application on the body. 
+4-5. But due to exhaustion of the smear she could only give 
+shape to a form of body having complete limbs but without a 
+head. Then she told Skanda, "0 Skanda! please arrange for 
+some smear fast for the head. Herein lies your welfare, for by 
+this, the invincible son of mine, your brother can be devised." 
+6. Then 0 virtuous king! following the instructions of Gauri, 
+he stepped out to get the smear and finding a furious yet chief 
+of the elephant got back with its head. 
+7. Then when it was taken for fixation on the body given 
+shape out of the smear, a question was put to him as to 
+wherefrom had he brought that heavy head for her son. 
+8. Then 0 chief of kings! when the same head was fixed 
+upon the body despite Parvati' s repeated pleading not to do so, 
+a good fortune occurred. 
+9. With the head going well with body, the same appeared 
+specially like a master and the statue of the boy with a handsome 
+body endowed with all qualities came to the fore.
+
+## Page 115
+
+vii.IIl. 32. 10-2/ 
+1 03 
+I 0. 0 king! with thickness in three regions, with four hands, 
+with red colour in seven portions, with a high head, with five 
+long limbs and equally with five subtle limbs, the body was 
+very beautiful. 
+1.1 - 1 2. 0 great king! seeing him with a body extending over 
+the three worlds, Gauri became very astonished and as the 
+powerful Goddess put life-force into it, he got up instantaneously 
+and solicited for orders humbly with bowed head. 
+1 3 . Seeing him having such a miraculous appearance she 
+said 'son' and 'son' repeatedly. Then very elated within, she 
+took him near Sambhu. 
+14. She told him, "0 God! grant a boon to this son born out 
+of my body smear so that he can attain the passage to greatness." 
+The gracious God said: 
+15- 1 9. As the head remains master of the body, so this head 
+will have prominence, 0 daughter of the hills! as told by you 
+to have been fixed onto the body by Skanda. With his existence 
+in this body in this manner, he will be the ruler in all speciality. 
+Due to that his name will be the great Vinayaka. He will also 
+be the superintendent of the attendant demigods on Siva. With 
+this boon of mine, he will happen to be the ruler of demigods. 
+Mortals have to remember this ruler of demigods, i.e., GaQe8a 
+on the eve of commencing any fresh work so that there will be 
+no hurdles before their actions. As the hammer has been given 
+to him by Skanda for sport, that will remain inseparably dear to 
+him for ever. 
+20. Then Gauri gave him a plate full of edible ladoos out of 
+affection for son. Getting that he began to dance gently. 
+2 1 . A rat came out of the hole with the flavour of edible 
+ladoos. It became immortal after eating that and became the 
+carrier for Gar:tesa.
+
+## Page 116
+
+1 04 
+Skanda PuriirJ.a 
+Pulastya said: 
+22. 0 king ! this is how the birth of the Great Vinayaka 
+happened there. Listen with undivided attention to the welfare 
+that accrues after having a look of him. 
+23. 0 king! a man gets free from all sins committed either in 
+childhood days or during the period of youth and old age (by a 
+look of him). 
+24-25. Coming here on the fourth day of the bright period 
+of the moon in the month of Magha (i.e., January) one who takes 
+a look of it, becomes a good speaker with a fairly wide range of 
+knowledge arising in him. There is a great pool full of clean water 
+in front of it. All in a family of the man become knowledgeable by 
+his taking a bath here, 0 king, and then following it up with taking 
+a look of Vinayaka with faith. 
+26. Mter uttering the incantation that ''you are this among the 
+demigods", one who takes a round of this place thrice and takes a 
+look of him, sins do not remain visible to him from a far off distance. 
+27. Therefore, with all efforts, one needs to take a look of 
+Vinayaka here. By doing so, all desires of one in this world as 
+well as the other get fulfilled. 
+28. The worldly individual who remembers him with all 
+devotion on the eve of executing any work can get all those 
+accomplished completely. 
+29. A mortal being remembering Vinayaka after waking up 
+in the morning can get accomplished all activities coming forth 
+on the same day. 
+30. Remembering Vinayaka on the eve of marriage or battle 
+or war or in setting forth on a voyage or before commencing 
+any agricultural activity and the auspicious entry to a new home, 
+can get all these activities successfully accomplished by his 
+grace. 
+3 1 . One who appeases the great Vinayaka with all earnestness 
+and as per prescribed procedures can hardly be disturbed by 
+the departed spirits, planets and diseases, by his grace.
+
+## Page 117
+
+vii.III. 32. 32-44 
+1 05 
+Yayiiti said: 
+32. 0 virtuous Sage! please tell me about the appeasement 
+of great Vinayaka. How can this be, by which invocation and 
+by which procedure as laid down? I have great curiosity. 
+Pulastya said: 
+33. In the rising period of the moon on that particular 
+auspicious day when the star is free from any malefic effect 
+and when the force of the moon is at its pre-eminence, one has 
+to observe the religious conduct of appeasing Gal}e§a. 
+34. Erect a temporary hall on the plain land in the north-east 
+direction. Then make an altar for the conduct of ritual sacrifice. 
+Place a lotus with eight petals in the middle of the altar tied 
+with a thread. 
+35. 0 king ! after taking the initial consecration, place all 
+god-rulers like Indra etc., and Gal}e§a and the sixteen mother 
+goddesses and then specially perform the activity of worship. 
+36. Placing a couple of pitchers full of water and covered 
+with white cloth, make oblation to him through offerings of 
+scented garland and gifts as laid down in details. 
+37. After this put a golden fruit on the eastern point of the pitcher. 
+38. Then 0 virtuous king! taking the invocation repeatedly 
+upto one thousand eight times within that 'you are this among 
+the demigods' worship him as agreeable to the Hindu calendar. 
+39. Then folding your own hands together to form a circle, 
+make a girdle on the four sides of the pool and decorate it with 
+the female organ of generation. 
+40. After the conduct of the sacrificial fire with honey, bent 
+grass and offering of whole grains, make the invocation that 
+'you are this among the demigods' ten thousand times. 
+4 1 -44. Then be seated facing the Brahmal}as from the 
+direction of North. Then putting on the yellow cloth_ having a 
+yellow mark applied on the forehead by the four astute 
+Brahmal}as and putting on a gold finger ring perform the act of 
+sacrificial fire. Then 0 best king! after the completion of the
+
+## Page 118
+
+1 06 
+Skanda PuriiTJa 
+sacrificial fire be seated on the deer skin while making the 
+invocation as per accepted practice and procedure. Then getting 
+covered with white dress, remain calm facing the East. Keep 
+reciting the hymns in praise of Ganga, Yamuna and the Pu{kara 
+along with the well-spoken hymn in honour of Vi{QU and the 
+purifying hymn in the name of Taurus. 
+45. All hurdles follow the path of destruction by a proper 
+pronunciation of it. The planets mellow down and all that might 
+have occurred in the past get destroyed instantly. 
+46. Mental agonies, all diseases including those tormenting 
+and persistent get eclipsed fast. So also any havoc having 
+dimensions of affecting all severely. 
+47. All these are the details which I have described to you as 
+you have asked about the greatness, importance and the ways 
+to appease Vinayaka. 
+48. 0 best of kings! one who sings his praise with undivided 
+attention on the fourth day of a month or even listens to the 
+same celebrated songs gets all hurdles away from the path of 
+his actions. 
+49. One who perseveres through actions according to the 
+nurtured desires within that regard while keeping him unabatedly 
+in mind, gets the desired fruits with all certainty by his grace. 
+CHAPTER THIRTY THREE 
+Greatness ofPartbe5vara 
+Pulastya said: 
+1 . Then one has to go to Parthesvara- the destroyer of all 
+sins. By having a look of it, a human being usually gets free 
+from all sins. 
+2. 0 king! Parthi- a virtuous woman was the faithful wife 
+of Devala. She had earlier undergone penance there.
+
+## Page 119
+
+vii.lll. 33. 3-13 
+1 07 
+3. She- the famous wife of the Sage was sterile and thus 
+had no child. Thus becoming highly dejected, she went to the 
+Arbuda. 
+4. Subsisting only on air, she remained without food. But 
+then she remained fixed on her seat. Then 0 king! a thousand 
+of years passed in the pursuit of devotion of hers in this manner. 
+5-8. Then tearing apart the surface of earth, a procreative 
+Siva Liilga came up instantaneously. Coincident with such 
+happening, a voice came from the incorporeal saying, "0 greatly 
+fortunate lady! worship this purifying Liilga of Lord Siva. It 
+has come out from within the surface of the Earth by virtue of 
+your devotion and to fulfill your great desire. Whoever human 
+being worships keeping this in mind and in pursuit of his 
+desires, not only his but also of others including the desires of 
+the bodiless spirit get fulfilled and there is no doubt about this. 
+This will be renowned in this world by the name Parthesvara." 
+Having said so, 0 king! the voice then stopped. 
+9. Then completely taken over by wonder, she began to 
+worship that then and there. Then getting onਧ hundred sons, 
+she got the beautiful line-up to foster/perpetuate her future 
+family generations. 
+10. Beginning from that, this worshipable Liilga has acquired 
+fame on the surface of earth. Since then also, clean water has 
+been springing up from inside the cave in this mountain. 
+1 1 . A human being if, after having a bath here takes a look 
+of that (i.e., the worshipable Liilga of Siva) can never have 
+sorrow accruing due to lack of children. Otherwise, he will 
+have the same sorrow. 
+1 2. One who worships it, remaining awake throughout the 
+night and that too without food on the fourteenth day of the 
+bright period of moon, is sure to get a son. 
+13. One who performs the religious activity of offering balls 
+of cooked rice here in remembrance of one's forefathers with 
+all sincerity, will welcome fatherhood by the grace of one' s 
+forefathers.
+
+## Page 120
+
+1 08 
+Skanda Puriil}a 
+CHAPTER THIRTY FOUR 
+Greatness of K"J}.a Tirtha 
+Pulastya said: 
+1 . After that go to the l(r{l}a rrrtha which is always dear to 
+KrŎl}a. 0 king! Vi{l}U always remains close to it. 
+Yayiiti said: 
+2. 0 virtuous Brahmal}a! how could this place of pilgrimage 
+so-called after Kr{l}a come up and when did it come up? 0 
+Sage! please narrate this in detail to me. 
+Pulastya said: 
+3. When both the movable and the immobile met with great 
+destruction due to lightning and storm then all the planetary 
+bodies had also got ruined due to the· same reason. 
+4. Then after passage of time-span of thousand years the 
+enlightened and lotus-seated Brahmii began to deliberate all 
+alone as to how could Creation materialize. 
+5. Then moving about here and there, the four-faced Brahmii 
+saw the Supreme Soul of the Universe in the form of large­
+eyed and four-armed Vi{l}U, to be present in a far off distance. 
+6. Then the four-faced (Brahmii) told him, "From where have 
+you come and how have you been made? For what purpose 
+have you come here? Please tell me all in details." 
+7-8. Then to tell him, Govinda keeping aside all deceit and 
+mockery said, "I am the Supreme Soul since the beginning and 
+you are also created by me. I am wishing to create four types 
+of creatures." 
+Pulastya said: 
+9- 10. Then hearing these words of his, the great Father and 
+God, i.e., Brahmii became very angry and mockingly repeated 
+'the Supreme Soul statement' once and again. He said, "0 fool!
+
+## Page 121
+
+vii. III. 34. I I -2 I 
+1 09 
+I have only created you in the first place. There is no doubt 
+about this and I can make thousands like you without any 
+doubt." 
+1 1 . In this way, 0 king! the two wiUt great brilliance remained 
+mutually engaged in a verbal duel with each others eyes 
+reddened with anger. 
+1 2. Pulling each other's arms and clenching fists as well as 
+bringing nails and teeth as under, the mutual fight between the 
+two continued for thousands of years. 
+1 3. Then 0 good king! after a thousand years, appeared in 
+the interval, a great worshipable Liilga- celestial, bright and 
+auspicious. 
+14- 1 6. Coinciding with the time, a voice came from the 
+incorporeal saying, "You, i.e., Brahma as well as VigJ.U, please 
+disengage from war as per my command. This is the Liilga of 
+Great God. He who, from both of you can make it to its endpoint 
+will without any doubt be the higher, powerful and the chief 
+creator here. As per my orders let one of you proceed to the 
+lower region while the other go to the higher/upward region." 
+Hearing this, Brahma took recourse to the pathways of space 
+swiftly. 
+1 7. Tearing apart the Earth, Kr{Qa went down and after 
+penetrating down he reached the seventh lower region of the 
+Earth, He- the great soul could see the ferocious fire supposed 
+to come at the time of final destruction of Creation. 
+1 8. With desire to go there, as he speeded up in that direction, 
+he got burnt up by the fire and his body became black. 
+1 9. After getting burnt up fast by fire and becoming 
+unconscious with pain, when Vi{QU came out, he attained that 
+ultimate state when his body became devoid of any distinctive 
+sign/quality. 
+20. Then 0 king! taking recourse to that worshipable Liilga, 
+Vi{QU began to worship it with devotion reciting the series of the 
+subtle hymns of praise as per the supreme utterances in the Veda. 
+2 1 . Seated on his bearer Swan, Brahma followed the path in 
+the sky. But for thousand years, he could not reach his 
+destination.
+
+## Page 122
+
+1 1 0 
+Skanda PuriitJa 
+22-23. Then after a thousand years, he saw Ketaki coming 
+before him in the path of sky, who happened to ask him, "0 
+Brahm੃i! what for have you been roaming about in such a 
+deserted place? Seeing a wise man like you moving about in a 
+vacuum, I am having a great curiosity." 
+Brahma said: 
+24-26. 0 beautiful and fortunate lady! it has arisen from my 
+contest with Vi{QU as to who can reach the final limit of the 
+worshipable Siva Liiiga to finally get it. Between two of us one 
+is relatively less while the other is better and more powerful. 
+These are the words of Siva after hearing which, I proceeded 
+towards the higher regions while Vi{QU has proceeded to the 
+lower, i.e., nether world. After covering the entire circum­
+ference of the worshipable Liiiga, I shall return to the world." 
+After hearing these words of him, the flower (i.e., Ketald) said: 
+27-30. 0 Brahma, 0 Lord of the World! all efforts will be 
+vain for I am yet to comprehend the final limit of the worshipable 
+Liiiga, despite my passage for thousands of years constituting 
+a major period of the Creation by remaining on top of it. After 
+falling down from the top of the worshipable Liiiga; I kept 
+reciting the hymns in praise of Lord Sarhkara, 0 Lord of great 
+radiance. But I could never get to the bottom of the world. I 
+travel hundred times the distance that is 8 miles that you take 
+to move on the back of your Swan. Hence basing yourself 
+firmly on what have I said you go and citing me as a proof 
+vindicate your point having greater power in comparison to 
+Vi{I)U." 
+3 1 . Then with all happiness and carrying that (flower) the 
+four-faced, i.e., Brahma appeared again on the surface of the 
+Earth after a thousand years to show it to Vi{QU as proof of 
+being there above the worshipable Liiiga. 
+Brahma said: 
+32. I have got this white garland 0 Four-armed (i.e., Vi{Qu), 
+after making it to the ultimate point. 0 best of the male force! 
+do not tell me a lie as to whether you have got it or not.
+
+## Page 123
+
+vii.lll. 34. 33-44 
+I l l 
+Vi.pJu said: 
+33-35. 0 Brahma! I could never succeed in crossing over 
+the limitless limit of Salhkara. Brahma! if at all you have 
+succeeded in crossing over the boundary, Mahesvara-the God 
+of Gods must certainly have been pleased by that. The boundary 
+in no other way than this has ever been seen by anyone else. 
+Therefore you- the elder have become the superior and better. 
+Pulastya said: 
+36. In the meantime, the God having bull as His insignia (in 
+other words the God Siva) got angry instantaneously, 0 great 
+king! with Brahma. 
+37-40. Then coming before his eyes (i.e., sight) to condemn 
+such childishness he said, "How could you fare such a thing 
+falsely and uncautiously. For this untrue statement of yours to 
+have seen my complete stretch over Creation, you can never 
+be worthy of worship of all classes. Those men who worship 
+you, unaware of this, will get difficulties of highest order with 
+themselves getting completely destroyed. As whatever you said 
+has been impelled by the wickedness of Ketaki, hence anything 
+you touch in the world will become severely inferior. 
+41 . After giving such a curse, the great God then spoke to 
+Kesava (the other name of Vi{l}.u) being pleased with him and 
+with a smiling face. 
+42. The God said, "0 strong and powerful Vasudeva ! 
+(another name of Vi{J).U) I am pleased with your great mind 
+speaking the truth. You can ask for a boon for your following 
+the resolution in a good manner." 
+43-44. Sri Vasudeva said "Your, i.e., the great God' s 
+appreciation of mine as well as being pleased with me, is itself 
+a boon. 0 God! you can never be pleased with one having no 
+credit of goodness for oneself nor can you be so pleased. 
+However, 0 God of gods! if you still have to give me a boon 
+then let this so-called and ever eternal Liilga get little smaller in 
+size and spread across the happening world to make the 
+expansive Creation just indicative of your universal mind."
+
+## Page 124
+
+1 1 2 
+Skanda PuriiTJD 
+Pulastya said: 
+45-48. After that having made that procreative Litiga shorter 
+and bearing it, the great God said, "0 Hari (another name of 
+Vi{Qu)! listen to these words of mine. 0 Hari! place this Litiga 
+of mine in sacred places. Worshipping it as per laid down 
+procedure will result in highest welfare of yours. You had got 
+burnt up and got blackened by the heat erupted out of me. 
+Hence you will be renowned in the world by the name Kr{Qa. 
+Any human being who after getting up in the morning, sings 
+your name as 0 Kr{Qa! 0 ਨQa! with all faith, will attain the 
+supreme passage" 
+Pulastya said: 
+49. Having said like this !San (the other name of Siva) 
+disappeared. Carrying that Litiga, Vasudeva arrived on the 
+Arbuda mountain and placed it in a mountain's brook having 
+good and clean water. 
+50. That is how got born the centre of pilgrimage known as 
+Kr{Qa pilgrimage on the surface of earth. Now 0 prominent 
+man on earth! listen to the fruits of taking a bath there, 
+5 1 . Taking a bath in the ਩Qa lake and after that having a look 
+of that worshipable Litiga results fittingly in accrual of well-being 
+for mortals equal to the results of all pilgrimages together. 
+52. Those who make charities without being attended with 
+desire can derive results. Even those with desires, happen to 
+derive results difficult to attain. 
+53. Therefore, one needs to undergo the religious ritual of taking 
+a bath here with earnest efforts. One having a desire for incessant 
+welfare must do it without giving heed to any other activity. 
+54-55. 0 the winner over senses! one who remaining awake 
+throughout the night and observing fasting pays homage to the 
+worshipable Litiga with all faith and devotion and observes the 
+Sriiddha in the following morning, enables emancipation of all 
+those learned in righteous conduct as well as of one' s own 
+forefathers.
+
+## Page 125
+
+vii.lll. 34. 56-57-35. 1 -6 
+1 1 3 
+56. Any mortal being who makes offering of black sesame 
+to BrahmaQas here is certain to get free from the sin of 
+BrahmaQicide etc. 
+57. 0 King of kings! taking a look of the worshipable Liilga 
+here at the KrŎQa Tirtha absolves a man of all sins and there is 
+no need for thinking about any other action in this regard. 
+CHAPTER THIRTY FIVE 
+Origin of Mamu Lake 
+Pulastya said: 
+1 . Then 0 best of kings! go to that centre of pilgrimage 
+renowned as Mamu Lake situated on the outskirt of the 
+mountain which kills all sins. 
+2. A bath there by a human accompanied with desirable faith 
+relieves him of the deeper sins of previous lives. 
+3. 0 king! there, on the Western side of the mountain is a 
+worshipable Liilga. The same-a fulfiller of all human desires, 
+is founded there by a BrahmaQa named Mudgal. 
+4. If a human being takes bath in the Mamu Lake on the 
+fourteenth day of the bright period of Moon in the Month of 
+Phalguna i.e. February and takes a look of the Liilga there, he/ 
+she obtains superiority and best result difficult even in all centers 
+of pilgrimage. 
+5 . One who performs the ceremony, connected with 
+remembrance of forefathers, i.e., Sraddha near the statue 
+situated on the Southern direction, happens to get his forefathers 
+inundated with pleasures which seem to have not happened 
+before. 
+6. Eulogy of great sages and mendicants for making offering 
+of gifts there is already there. 0 king! conduct of Sraddha with 
+edible leaves and fruits is a source of great contentment.
+
+## Page 126
+
+1 14 
+Sl«lnda Purii'}(l 
+Yayiiti said: 
+7. How could the manifested Miimu Lake as such derive its 
+name in the first instance? What is the Mudgal hermitage? 
+Please narrate all methodically. 
+Pulastya said: 
+8. 0 king! in olden times, a Divine Messenger had come in 
+a winged vehicle to Mudgal-the great soul residing there. 
+He said: 
+9. 0 virtuous Sage! this winged vehicle has been sent to you 
+as per the orders of Indra- the King of gods. This is meant for 
+you to ascend onto it and proceed to the Heavenly Kingdom. 
+Mudgal said: 
+10-1 1 . 0 Messenger! please tell me the qualities and lacunas 
+of Heaven as proclaimed to be. After hearing the same, I will 
+act fittingly. 0 messenger! after your detailed description of all 
+those, I shall proceed on my own. 
+The Divine Messenger said: 
+1 2. As per Indra' s words there has been enough of your 
+arrogance. 0 best of Brahmar:tas ! by virtue of your earning 
+enough of goodness, follow there as a result. 
+Mudgal said: 
+1 3. Without listening to those, I shall not go. This is my 
+mental resolve for all certainty. I shall continue with my severe 
+penance and keep worshipping Mahesvara-the great God. 
+The Messenger said: 
+14-24. The qualities of Heaven cannot be counted even in a 
+hundred years. However, if this is your firm decision, I shall 
+narrate them in brief. There are very beautiful and excellent
+
+## Page 127
+
+vii.lll. 35. 25-27 
+1 1 5 
+forests in the Heaven which cause happiness in the mind. 0 
+good Brahmaਪa! there are so many incomparable and unique 
+enjoyments to give contentment in the Heaven. Hunger, thirst, 
+lethargy and idleness do not prevail there. Divine beauties like 
+Rambha and chief among divine singers like Tumbura are there. 
+Songs and dances enchant human beings there. 0 Sage-the 
+bearer of wealth of penance! human beings stay in this way in 
+the Heaven. The moment, goodness declines with them there, 
+starts their downfall. 0 Sage! if one fault manifests itself in the 
+Heaven, that leads to the ferocious downfall of the inmates of 
+Heaven. 0 BrahmaǙa! there is never any opportunity to earn 
+goodness there. 0 BrahmaǙa! this land is the place for work 
+while Heaven is to be remembered as the place for enjoyment. 
+The fruits of good work done here can only be enjoyed there. 
+Hence look at the breathing beings enjoined with abundance 
+of righteousness there on the winged vehicle. 0 good 
+BrahmaǙa! those with lesser volume of goodness in their favour 
+remain always in state of sadness repenting in comparison to 
+those having relatively brighter goodness. He or she keeps 
+deliberating for not doing plenty of good deeds in the mortal 
+world. This way seeing his own downfall from the Heaven in 
+comparison to thousand others, he gets into more sadness within 
+a faster way. I have narrated to you all these about qualities 
+and faults and as these evolve. Now 0 BrahmaǙa. engaged in 
+the endeavour for attaining Heaven, do as you wish. 
+Mudgal said: 
+25-27. There is fear of downfall as well as that of abatement 
+of goodness there. Hence 0 messenger! I shall never try for 
+Heaven. You go back as per my orders and tell (Indra) the 
+King of gods very clearly that I may be pardoned for my mistake 
+that I do not have any desire for the Heaven. I shall keep on 
+doing the fitting work in which there is no fear of downfall. I 
+shall persevere for a different world free from downfall.
+
+## Page 128
+
+1 1 6 
+SI«Jnda PurarJa 
+Pulastya said: 
+28. Saying so, 0 best of kings ! Mudgal disinterested in 
+Heaven, continued to put up there keeping himself incessantly 
+and devotedly engaged in meditation on Siva. 
+29-3 1 . Then after hearing the words of the messenger in 
+details, Indra told him with a relatively higher equanimity, "0 
+Divine Messenger! you have disproved the heavenly winged 
+vehicle which has hardly been done by anyone before nor can 
+anyone ever do so in the future. Therefore hurrying up, you 
+go and bring the Sage by force, otherwise, I shall curse you 
+beyond any doubt. 
+Pulastya said: 
+32. So hearing Indra, the Divine Messenger was taken over 
+with fear. He left swiftly for the place where Mudgal was putting 
+up. 
+33. Seeing the arrival of the occupied winged vehicle, Mudgal 
+entered into the water in Mamu Lake. 
+34. The Messenger as it is, stunned with the words of the 
+Sage as if they were written, was unable to walk. 
+35. Learning that it is too long since the Messenger left, 
+lndra-the ruler of three directions, i.e., Heaven got very angry 
+and seated on his bearer elephant Airvata came there. 
+36. Then seeing the Messenger to be made immobile by 
+Mudgal, he took out his thunderbolt and began to move it 
+around in circles to kill him. 
+37. Coinciding with the time, a severe chaotic scene came 
+up. The deer, the animals and the birds began to move in reverse 
+direction. Witnessing all these, Mudgal began to worry and 
+became astounded. 
+38. Seeing lndra coming in the sky with his thunderbolt raised 
+in hand, Mudgal made him still and stationary like a pole by 
+merely looking at him. 
+39-4 1 . Then 0 good king! with his enthusiasm broken, lndra 
+began taking to the series of hymns in praise of the BrahmaQa
+
+## Page 129
+
+vii. II/. 35.42-49 
+1 1 7 
+pleading "0 best of Brahmal).a! please release me so that I can 
+get back to the heaven. 0 BrahmaQa! stay either in the Heaven 
+or in the mortal world according to your sweet will. All these 
+efforts of mine have been made keeping in view your, i.e., the 
+Sage's welfare. 0 virtuous ! . ask for the boon that is always 
+there in your mind. I shall grant all those to you even if those 
+may be difficult to attain." 
+Mudgal said: 
+42-46. This itself is an adorable boon for me that 0 King of 
+gods! you have become visible before me. 0 Thousand-eyed! 
+a vision of yours even in dream is difficult. However, 0 Killer 
+of the demon Vrutra! if you have decided to grant me a boon, 
+let me then get liberation fast by your grace. After coming to 
+this Mamu Lake, the Messenger spoke to me as I also did to 
+him. That is how this Mamu Lake got its fame on the earth's 
+surface. Let this centre of pilgrimage, 0 Thousand-eyed! be 
+the destroyer of all sins and 0 King of gods! a bath here yields 
+one the divine passage by your grace. Let the offering of cooked 
+balls of rice by one here yield the pleasure of forefathers. 
+lndra said: 
+47-49. This centre of pilgrimage named Mamu Lake will 
+acquire fame by this name and 0 good Brahmal).a! there will 
+be no doubt that it will be the highest among all centers of 
+pilgrimage with my grace. Those who take a bath here on the 
+full moon day in the Month of Phalguna, i.e, February with all 
+earnestness will attain that ultimate passage. Offering of balls 
+of cooked rice to forefathers (connected with religious activity 
+of remembrance of forefathers i.e. Sraddha) here will yield good 
+results comparable to the fruits obtainable by the same such 
+act at Gaya. 0 good Brahmal).a! the results of maki •• g good 
+gifts here are countless.
+
+## Page 130
+
+1 1 8 
+Skanda Purii'}Q 
+Pulastya said: 
+50. Having said so and getting hold of his Messenger, lndra­
+the bearer of thunderbolt left for Heaven. Mudgal in turn 
+continued to remain engaged in deliberating upon the Supreme 
+Brahma. 
+5 1 . Observing meditation with all purity, Mudgal obtained 
+undecaying liberation. 
+52. The great Narada had sung the poem in praise of this 
+episode. A congregation of a good number of Brahmal).as 0 
+king! had listened to this here in this mountain. 
+53. After taking a bath in the Mamu Lake and by following 
+it up with taking a look of the godly Mudgal, a human being 
+gets liberation after enjoying all desires. 0 king! it is due to this 
+reason that the Mamu Lake is remembered. 
+54. It is heard to be the best among the centres of pilgrimage 
+in the world. Hence with all care and earnestness, one needs to 
+fulfill the religious ritual of having a bath here. 
+55. Those having a desire particularly to attain the ultimate 
+state of liberation can obtain the same and be contented by 
+visiting the hermitage of Cancfi here. 
+CHAPTER THIRTY SIX 
+Origin of Eminent Asrama of Candi 
+Yayiiti said: 
+I . 0 foremost BrahmaQa! when did the hermitage of Cancfi 
+happen to come up there? What is the time in which by taking 
+a look of it, fruits can accrue to human beings? 
+Pulastya said: 
+2. Listen 0 king! I am narrating the story of it as a destroyer 
+of sins. By listening to it, a human being can definitely get free 
+from all sins.
+
+## Page 131
+
+vii.lll. 36. 3- 1 7 
+1 19 
+3. In olden times, in the Divine Age, 0 king! there was a 
+demon named Mahi{a. By a boon of Brahma he had turned out 
+to be ferocious for all gods. 
+4. He had earned victory over lndra as well as thousands of 
+other gods. With his fear, the gods had moved about hither and 
+thither for their own welfare. 
+5. Having subjugated the three worlds, he had become like 
+Indra. 
+6. He had put demons forcefully above Vi{l}u, Siva, the semi­
+gods, Maruta (the king of solar dynasty) and the Earth. 
+7. Getting distressed with fear, Fire also then gave up the 
+company of gods and began to accept the offerings to it by the 
+demons. 
+8. The Sun also radiated in accordance with his will. The ਫis 
+also got affected deprived of their share accruing from the conduct 
+of Yajiias i.e. the religious ceremony of sacrificial fire. 
+9. All kings in the world got meddled up in the wheel of his 
+deeds. The best on earth deprived of their share of offerings 
+made to sacrificial fire began to live like slaves. 
+1 0- 1 1 . Then once, all the gods assembled together and 
+approached Brhaspati, the best among the Brihmar:tas and 
+asked him very humbly, "0 Godly Self! what shall we do­
+destitutes as we have become? Therefore, suggest the way to 
+destroy the bad soul Mahi§a." 
+ 
+1 2- 1 7. 0 king ! when the Teacher of gods was so told, giving 
+hope of life to the residents of heaven, he said, "The demon 
+has got firmly settled on power after getting a boon from 
+Brahma. He cannot be killed by all gods together. Only a young 
+woman can free you from him. Hence, all of you together 
+proceed to the Arbuda-the foremost of all mountains. By your 
+observing penance for a considerable time in the lake there 
+you will make your goal. The goddess Candi will assume the 
+form of a powerful, yet enthralling beauty. Worship her in a 
+distinct manner as this world is encompassed by her. She needs 
+to be pleased for the killing of the bad soul Mahi§a. She ·will 
+make her endeavour by descending in her incarnation. By her
+
+## Page 132
+
+1 20 
+Skanda Purii'}a 
+hand the wicked-minded will of course, be killed. I shall narrate 
+you the befitting incantation to invoke her power as a means of 
+solution. I shall also do so with regard to the procedural worship 
+by which the auspicious liberation can be availed of. 
+Pulastya said: 
+1 8. After his saying so, all gods were taken over by a sense 
+of happiness. Then along with him, 0 king ! all of them 
+proceeded to the Arbuda mountain. 
+1 9. Making them to take a bath there, Brhaspati got them 
+purified. Then 0 king ! imparting them the incantation of 
+supreme power, he made them accomplished. 
+20. Then along with family, the gods worshipped there with 
+flowers, incense, oil, garlands and with offering of sacrifices 
+for three hours per day. 
+2 1 . With different incantations and by taking enchanting 
+hymns with · all devotion they continued to pray there regularly 
+by lighting up earthen lamps. 
+22. Without cheating, without ego, intent on faith in the Teacher, 
+enjoined with the congruent incantations keeping in mind the 
+placement of gods in different parts of the body, the gods appeared 
+to be on the threshold of having equanimity of vision. 
+23. 0 virtuous earthly being! with their remaining engaged 
+like this and after a lapse of seven months, the Goddess of 
+gods became pleased. 
+24. 0 king! with brightness similar to an assemblage of lamps 
+together coming onto their bodies and with purity acquired 
+through incantation, the brightness of gods' bodies appeared 
+to increase. 
+25-30. Within six months, the gods had acquired more than 
+the brightness of twelve Suns together. Then the king, noticing 
+that they had thus been endowed with brightness Brhaspati, 
+giver of all fulfilment, who was present there created a circle 
+and made all the gods-inhabitants of Heavan sit in its 
+circumference. He pulled together the brightness of their bodies 
+0 king, through invocation of the right incantation for the
+
+## Page 133
+
+vii./11. 36.31-38 
+1 2 1 
+purpose of placing them in the circle as conceived. Then a lustrous 
+and beautiful girl came alive there. Having a great body, she 
+was the apparent form of power endowed with all divine qualities. 
+lndra gave her his thunderbolt. The God of oceans gave her the 
+net. The Fire God also gave her the power. The Chief of Wealth, 
+Kubera, gave her the vehicle, i.e., the carrier in the form of lion. 
+All other gods also gave their weapons with pleasure. 0 best of 
+kings! their offering of weapons to her was accompanied with 
+earnest recounting and recitation of hymns. 
+The gods said: 
+3 1 . Homage to you 0 Goddess of gods! having the golden 
+resplendence. Homage to you, 0 Lotus-eyed! and the Mother 
+of the World. Homage to you through whom the world is 
+exhibited and homage to you also for whom hymns have been 
+rendered world-over. In your heart, you are the abode of beauty 
+and for gods you are like an offering of beverge for the night. 
+0 Goddec;s ! in your different forms, you are the image of 
+tolerance, prosperity and radiance. You are also the wife of 
+Fire. You are Savitri, Kamala, Sati, Gauri, Mahamaya, 
+Chamunda and Sarasvati. You are Bhairavi having that ferocious 
+form and the bearer of Chanda, Munda and the sword. You are 
+the darling of Siva and having a great body you are greater in 
+courage than an army of elephants. You are always fond of 
+meat and wine and always devoted to the protection of your 
+devotees. You encompass both the living and the non-living in 
+the three worlds. 
+Pulastya said: 
+36. With such singing of glory by all the gods, the Goddess 
+became pleased and told them to ask for a boon from her. 
+The gods said: 
+37-38. Mahi{a-the demon so named among all the demons 
+has become invincible to all living beings as well as even to 
+gods by a boon of Brahma. We can only be liberated by a 
+woman. Hence 0 Goddess! you therefore kill him.
+
+## Page 134
+
+1 22 
+Skanda PuraT}a 
+The Goddess said: 
+39-40. 0 Gods! you go back to your own places happily. I 
+shall kill him when the appropriate time comes. Having been 
+said so, all gods then became pleased and went back to their 
+places. 
+41 . Given such a liability, the Goddess stayed back there in 
+the mountain with all pleasure. Then in due course of time, the 
+godly saint Narada came there. 
+42. As devoted he was to undergo pilgrimage, he, after 
+having a look of the Goddess there, then followed his way to 
+Heaven where Mahi{a was (forcibly) putting up. 
+43. Seeing the Sage there, the demon Mahi{a got up and 
+paid homage bowing down with all humility. 
+44-46. Then he offered him his worship with the mixture 
+containing equal proportion of five ingredients viz. milk, curd, 
+ghee, honey and sugar etc. and gifts and then offered him a 
+seat. Then seeing him receding well into rest after getting 
+comfortably seated, he made the following statement: "0 
+virtuous Sage! wherefrom and to gain what have you come 
+here? I have no sorrow. I have my sons, wife, kingdom and 
+wealth too. I have also servants attending upon me. But 0 good 
+BrahmaQa! what shall I do with all these ! I shall give you 
+everything and you can have it from me as per your need. 
+Niirada said: 
+47-48. I greet you. You are fit for all these. Having taken 
+recourse to the regular pursuit of duties as part of sagehood, 
+we have become desireless. Coming from the mortal world, I 
+am on my way to the place of Brahma. Your place has come in 
+between my way and I have become curious after seeing you. 
+49. The demon Mahiǚa said, "0 Sage! has anything surprising 
+been ever seen by you on the surface of the earth? Did you 
+ever come across any powerful godly figure or man or for that 
+matter any demon?"
+
+## Page 135
+
+vii. III. 36. 50-71 
+1 23 
+50-7 1 . Narada said, "0 King of demons ! I have seen 
+something very astonishing on the surface of the earth which I 
+never saw either among the mobile or immobile in the three 
+worlds. There is a mountain famous by the name Arbuda on 
+the earth's surface which like the Heaven is ornamented with 
+trees yielding fruits and flowers in all the seasons. Trees like 
+Bakul, Champak, Mango, Ashok, Kaner, Palm, Date palms, 
+Banyan, Bhallataka and Dhabala are there in this mountain. 
+There are also the trees like Saral, Jackfruit, Ninduka, Karveer, 
+Hibiscus, Parijata, Malaya and Sandalwood in the mountain. 
+There are also many kinds of flower trees with different types 
+of fragrance. The mountain is · also full of many types of edible 
+fruits. There is no such tree, creeper and medicinal plant on the 
+plains, 0 Primus among the demons! which I did not find on 
+this mountain. The place is full of the melodious sounds of 
+birds like Chakor, Peacocks, Chatakas, Cuckoos, Swans and 
+birds with white feather. With such sounds dropping in the 
+ears, the sages engaged deeply in meditation get pierced with 
+the arrow of amorosity. With brooks offering a sight of high 
+delight to the eyes, the mountain also has rivers with clean 
+water and is enjoined with pools full of thousands of lotuses. 
+Men with large eyes like the lotus leaves but with slender waists 
+and sweet smile intent upon observance of religious vows as 
+per the scriptures are to be found there. What more do I say 
+about it? The insects born out of heat here, the birds, the trees, 
+the plants, the animals and the human beings on this mountain 
+are among the best in the world. Having a breadth of ten 
+Yojanas, two times as much of the same for length and five 
+Yojanas in height, this mountain is similar to Heaven in the 
+mortal world. While roaming about here and there in the 
+mountain out of sheer curiosity, I saw a beautiful and powerful 
+woman who appeared to be a matter of wonder to me from all 
+respects. I have never seen nor heard of such a goddess, a 
+divine lady singer, a demoness, a woman or of any such best 
+woman. All women even Rati, Preeti, Uma, Laਬ{mi, Savitri 
+and Sarasvati can (only approximate) a fraction of this woman 
+as far as beauty is concerned. Then after seeing such a beautiful
+
+## Page 136
+
+1 24 
+Skanda Puriil'}a 
+woman, I, 0 prominent demon! got afflicted with desire and 
+became highly excited. Then after composing the mind, I 
+resolved that I would never get into any conversation with this 
+woman. A mere sight of this woman is hightening up desire in 
+the mind. So, I cannot be sure as to what will happen to me by 
+getting into a dialogue with her. I have adapted myself to 
+celibacy in the long and enduring process of pursuit of penance. 
+Further continuance of mine at this place may nullify my victory 
+over the sense objects obtained through perseverance. I better 
+proceed to some other place so that my penance does not go 
+waste. Brahma has created the woman as a name for 
+impendiment in the path of penance. She is not only like a lock 
+on the door to Heaven but is very much a step on the road to 
+Hell. Forbearance, penance, truth and persistence of family 
+name remain as long as a woman is not sighted .especially in 
+isolation. Keeping my eyes closed and after repeatedly thinking 
+like this, I have come here and stayed put without speaking to 
+that beautiful woman. 
+Pulastya said: 
+72. After hearing such words of Niirada, Mahiǚa got affected 
+with desire and to hear again, 0 king! he asked the Sage again. 
+73-74. The demon Mahiǚa said, "0 Narada, the best of 
+Briihmal}.as! where is that beautiful woman by the sight of whom 
+you got afflicted with desire? Whether she is a goddess or 
+having a human form or is she a female Yakǚa or a female 
+Serpent or is she a maiden or simply a woman with a beautiful 
+body? Please narrate in greater details to me." 
+75-77. Niirada said, "I do not know anything about her 
+including her lineage, as I never asked her anything in this 
+regard. Simply this much I can tell that the same glorious woman 
+has occupied my mind fully. She bears the garland made of 
+rosaries and she has been carrying that earthen or wooden water 
+pot generally borne by the ascetics. She appears to be engaged 
+in penance on that mountain for some good cause. 0 Lord of 
+the deinons ! I am now proceeding to the primeval world of
+
+## Page 137
+
+vii. lll. 36. 78-90 
+1 25 
+Brahma. I shall not speak anything about her lest the fear of 
+physical desire may overtake me." 
+78. Then the king, having said like this, the Sage (Niirada) 
+proceeded to the perpetual world of Brahman. Remembering 
+quite attentively as to what did the Sage say, the demon MahiŎa 
+commanded his messenger to go to her. 
+79. (MahiŎa commanded his messenger) saying, "Go there 
+quickly, have a glimpse of the glorious woman there and be 
+seized of the matter as to for what purpose has she been engaged 
+in penance there." 
+80-8 1 . As per the orders of Mahi{a. the messenger went 
+quickly to the Arbuda region and sighted her having the beauty 
+similar to the interior portion of a lotus. Then after gathering all 
+information about her with due efforts, he came back and told 
+Mahi{a. the chief of demons, with a sense of astonishment that 
+he happened to come across a woman endowed with all good 
+qualities. 
+The messenger further said: 
+82-84. Born of the might of gods and blessed with all boons, 
+the girl, taking resort to virginity, is practising penance to kill 
+you. I asked all the ascetics engaged in penance there who 
+happened to state the same to be true. Now you Great King, do 
+as you please after hearing this. Her beautiful form appearing 
+to be an act of weaving cannot be described. 0 King! the girl 
+does not speak to anyone there. 
+Pulastya said: 
+85. After hearing those words, Mahi{a was again overpowered 
+with desire. He sent an able-bodied demon as messenger there. 
+86. (MahiŎa told his messenger ) "0 able-bodied! go quickly 
+and bring that female ascetic to me either by treachery or by 
+force". 
+87-90. Then the able-bodied demon messenger after paying 
+homage to the King stepped out quickly and reached that region
+
+## Page 138
+
+1 26 
+Skmlda Puriil}a 
+of the Arbuda mountain where that all-mighty Goddess was 
+putting up. Then after paying his homage to her, he spoke out 
+gently: "0 Goddess ! there is a powerful king named Mahi{a 
+who is quite famous in the three worlds. He is born in the lineage 
+of Danu and in appearance, he is as handsome as Kamadeva. 
+He desires to have you as his. wife through all righteous means. 
+Your welfare lies in this and he will fulfill all your desires as 
+his wife. If you become his dear wife and he, your handsome 
+husband, it will fulfill both of yours' youthhood. There can be 
+no doubt about this." 
+9 1 . After his saying like this, the Goddess got angry and 
+with movements of her lips said: 
+The Goddess said: 
+92-94a. It is universally known that an envoy is not fit to be 
+killed. Hence in the present situation, I am not turning you into 
+ashes. You go back and tell the mischievous and stupid demon 
+Mahi{a that no one like him would ever get me. All this strategy 
+of mine has been to kill him. 
+94b. After hearing these words of hers, the envoy returned 
+to Mahi{a. 
+95 . Taken aback completely by her beauty as well as 
+overtaken with great fear, the envoy narrated all his efforts (to 
+convince her ) to Mahi{a. He described the details of his dialogue 
+with her as well as her unwillingness. 
+96. As it is, already affected with severe desire (for her), the 
+King MahiŎa after hearing those words of the envoy, called for 
+the General of his forces and conveyed what the envoy stated 
+before-him. 
+97. MahiŎa told the General, "Proceed to the Arbuda mountain 
+with the invincible army and let the forces be fully equipped 
+with cavalry, elephantry, infantry and charioteers." 
+98. Then the General constituted an army with four divisions 
+having defenders with powerful weapons and decorated with 
+flag carriers.
+
+## Page 139
+
+vii.lll. 36. 99- 1 1 1 
+1 27 
+99. Mounted on elephants, the brave soldiers appeared as 
+fully prepared. They appeared as if carrying the mountains on 
+their heads while running hither and thither. 
+100. The marvellous horses of variegated colour with speed 
+similar to. the wind, a swollen army comprising thousands of 
+soldiers with their bodies equipped with defensive guards, was 
+presenting a scene of vigour and energy. 
+1 01 . The chariots were designed in the shape of mansions. 
+Decorated with tinkling bells, banners were fluttering on them. 
+102. The infantry was strong with erect bodies and equipped 
+with bows and sharp arrows and with spears. 
+103. There were one lakh elephants and chariots numbering 
+three times of the same. There were ten times the horses and 
+innumerable infantry. 
+104. Then encircling the Arbuda mountain from a distance 
+he (i.e. Mahi{a) confronted the Goddess along with some of 
+his close Ministers. 
+1 05- 1 08. Beholding the Goddess in a meditative posture, 
+he, got pierced with the arrow of cupid, but with all humility 
+said, "0 Goddess with a beautiful face! I have come here after 
+hearing about your glorious beauty. Hence you take me as 
+your husband as per the Gandharva ritual of marriage. 0 you, 
+having a gentle smile, I have sixty thousand wives. Making me 
+feel proud, you be my mistress. 0 virgin girl! penance is not fit 
+for you. Have all enjoyments as per your desire. By sharing 
+days and nights with me, be the mistress of three worlds." 
+109. She did not respond despite his saying like this. Then 
+completely taken over by physical desire, he approached nearer 
+to her. 
+1 10. Then becoming aware of his eager desire, the Goddess 
+got seized with anger and began to be reminded of her carrier, 
+the lion. Then as soon as the lion came, the Goddess got herself 
+mounted onto it. 
+1 1 1 . The Goddess said repeatedly, "Go back, go back from 
+here. Otherwise, I shall kill you, the stupid demon, here itself."
+
+## Page 140
+
+1 28 
+Slwnda Puriif}a 
+1 1 2. Then he (i.e., Mahi{a) along with his Ministers encircled 
+her from all sides. Afflicted with the weapon of desire, his aim 
+was to take her in confinement. 
+1 13. Coinciding this, the Supreme Goddess made sounds of 
+derisive laughter when a number of violent and impenetrable 
+male figures erupted out. 
+1 14. Holding weapons and brimming with anger they were 
+eager to fight. The Goddess then asked them to strike down 
+that (demon) of heinous crimes. 
+1 15. Then they all together confronting Mahi{a from close 
+angles began to let loose their large number of weapons slowly 
+and steadily. 
+1 1 6. Then happened the war between the followers of the 
+Goddess as well as the demons resulting in all the Ministers (of 
+Mahi{a) heading towards the domain of Y ama, i.e., the death God. 
+1 1 7. With all his Ministers struck down, Mahi{a became 
+angry and then moved ahead to the mountain along with his 
+troops of soldiers. 
+1 1 8. Then mounting on the best of his chariots, he directed 
+his charioteer to take turn towards that particular place in the 
+mountain where the Goddess had stationed herself. 
+1 19. He said, "I shall kill her today and get relieved of my 
+severe anger." No sooner did he say so than the charioteer, 0 
+king, had prepared himself fully on the chariot to proceed. 
+120. He (the charioteer) steered the chariot on the path that 
+would definitely take to the place where she (the Goddess) was 
+putting up. In the meantime, disorder of the highest order 
+happened there. 
+1 2 1 . 0 king, strong and unbearable wind was blowing on 
+the way, he was taking. 
+1 22. Striking the solar system, a large meteor fell onto the 
+earth. Deer were running on the left side of the road, 0 king, 
+the demon Mahi{a was following. 
+1 23. Either sitting or flying, the birds were excreting plentiful 
+urine. Sitting on the flag staff of the chariot, the vulture was 
+making sound.
+
+## Page 141
+
+vii./ II. 36. I 24- 1 37a 
+1 29 
+124. Without taking any note of the severely disorderly scene, 
+he (MahiŎa) proceeded ahead and confronted the Goddess with 
+anger. 
+1 25. Releasing arrows in plenty, he was uttering 'stay fixed, 
+stay fixed' (to his adversaries) and the king! nothing was visible 
+amidst the rows of arrows. 
+126. Any one from the group of the opponent troop coming 
+face to face to check the angry Mahi{a, got killed by him and 
+the entire scenario was converted with the area full of red-dyed 
+(i.e. soaked with blood) mud. 
+1 27- 1 3 1 a. Then approaching the Goddess, 0 king ! he 
+(MahiŎa) said with all pride. 
+"0 coward! it would definitely not be fit for me to fight and 
+kill you. It is your childishness that you neither gave any 
+weightage to my heroism, my good fortune and wealth nor did 
+you pay any heed to my words. With all certainty, I know it 
+correctly that you-the beautiful woman has become very 
+proud and haughty. You can follow my words even now and 
+become my dear wife. After having firmly established myself 
+in virility, I do not want to kill you-a woman. In any case I 
+have already earned the fame of victory many a time in wars 
+with Indra-the King of Gods. 0 ignorant woman! there is no 
+man equal to me in the three worlds." 
+1 3 1 b- 1 3 7 a. When he said like this, the Goddess got possessed 
+with the highest degree of anger. Then lifting the bow and arrow 
+in hands, the Goddess said, "I should not commit the sin by 
+getting into a dialogue with you. It is not in the fitness of things 
+for a virgin to speak to a lecherous man. Despite this, listen to 
+what I say, "It is never that you at all won over lndra in a war 
+by virtue of your own courage. 0 stupid demon! the gods 
+consider that the boon of their forefather, i.e., the Brahma is 
+usually more powerful. Glorified by the power of that boon of 
+Him that you are reckoning yourself to be quite superior. As 
+per Brahma, only a beautiful woman arousing libido can make 
+the world free from your sins. As it is, He has made you 
+invincible to all men on earth. It is Brahma's boon which has 
+brought victory to you here on Earth. If you have any virility
+
+## Page 142
+
+1 30 
+Skanda PuriilJO 
+of your own, show it quickly. I shall send you to the Abode of 
+Yama (i.e., God of death), by sharp weapon." 
+1 37b- 1 39. Saying like this, the Goddess released a cluster 
+of eight arrows. With four arrows, she immobilised the four 
+horses pulling the chariot and the severed head of the charioteer 
+by another arrow of hers got thrown up to a distance. One 
+arrow tore apart the banner on the chariot while with the other, 
+his (MahiŎa' s) chest got wounded. With pain due to his body 
+being so pierced, he took support of the flag staff on the chariot. 
+140. Then 0 king! being unconscious for a while, he remained 
+still with his. face downward. However, after sometime, he 
+regained consciousness and released arrows towards the Goddess. 
+1 4 1 . The Goddess as well as her companions got every 
+region of their bodies thrashed (as a result). Then releasing her 
+sharp-edged best weapon, she broke open his bow. and arrow 
+into two pieces. 
+142. When his bow and arrow got broken, the demon took 
+up spear and shield in hand instantaneously and proceeding 
+towards the Goddess shouted 'wait' and 'wait' . 
+143. Then the Goddess cut. down his sword swiftly with her 
+weapon. She also made his shield immobile with the other half 
+of her arrow. 
+1 44. Then the ignorant demon, 0 king, devoid as it is of 
+weapons and chariot, began to remember various arms and 
+weapons. 
+. 
+145. Then taking a stick of grass in hand and invoking the 
+Brahmastra (i.e., the weapon given by Brahma) in mind, he 
+released the same towards the Goddess for his own rescue. 
+However, as soon as he released it, the same appeared like a 
+darkened blown off wick of an earthem lamp. 
+146. All gods along with Brahma were taken over with 
+extreme fear at this time to see her courage. 
+147. Then the king! the Goddess after concentrating for a 
+while, cut off that Brahmastra swiftly and the same became 
+defunct evidently.
+
+## Page 143
+
+vii./11. 36. 148-161 
+13 1 
+148. When the Brahmastra became a failure, the best of 
+demons got infuriated and released the weapon of fire which 
+the Goddess also defused with a water cannon. 
+149. In this way he (i.e., Mahi{a) employed different kinds 
+of weapons, all of which, running into thousands were defused 
+by the circular weapon in the hand of the Goddess. 
+1 50. Thus all the weapons of the strong demon got exhausted. 
+Then he employed the highly divine, yet magical weapon on 
+the Goddess of Gods. 
+1 5 1 . Then assuming the form of a buffalo with long and 
+incisive hom and tooth, he appeared like one having a huge 
+body like that of a mountain and came before the Goddess. 
+152. Mounting herself on the lion, the Goddess then severed 
+his head with her sharp spear. 
+153. As the Goddess pierced the back of Mahi{a with spear, 
+then a huge masculine body emerged out of his body. 
+154. Holding onto the shield and sword, the ferocious Mahi{a 
+shouted 'wait' and 'wait' when the Goddess of gods held onto 
+his hair in her hand. 
+1 55. Then with the sharp sword, the Goddess struck the 
+demon which took away the life-force from his body. When 
+this happened 0 king! the lion beside the Goddess tore apart 
+the body of the demon into two pieces. 
+1 56- 1 59. After that, assuming the appearance as if seated 
+on excessive anger, the Goddess struck down the remaining 
+demons who out of fear for life ran for and entered the 
+impregnable region beneath the earth. Then all Gods including 
+Maruta, Aswini, Viswadeva, Sadhya, Riidra, Guhwaka, 
+K.innara, Aditya appeared making offering of beautiful flowers 
+to the Goddess. They recited several hymns paying their 
+respectful homage to the Goddess with intense admiration. 
+160-161 . They said, "0 Piirvati! you have done the befitting 
+job by rooting out the severity of sins. You have exquisitely 
+destroyed the sins pervading the three worlds. You have got 
+lndra back his kingdom again encompassing the three worlds. 
+Let there be your welfare for such act of redemption. You please
+
+## Page 144
+
+1 32 
+Skanda Puriil}a 
+ask for the desired boon in your mind. All the gods will be 
+pleased to grant the same to you without any doubt." 
+The Goddess said: 
+162- 1 63. If the gods are indeed pleased and desire to grant 
+me a boon, let goodness accrue to this hermitage of mine here 
+and let its fame spread with such an enjoinder: 0 gods, I shall 
+remain for ever in this prominent mountain. 
+Brahmii said: 
+1 64- 1 69. 0 Goddess! human beings after seeing your face 
+in this form here will obtain that supreme passage by virtue of 
+the greater goodness of the hennitage here. Those humans will 
+be endowed with the knowledge of Brahmanhood. As you have 
+performed the ferocious deed of killing the demon-s here, you 
+will therefore be famous in the world by the name of Candika. 
+This hennitage of yours here will be renowned as per the same 
+name of yours. 0 beauty! those who after taking a bath here on 
+the fourteenth day of the waning period of the moon in the Month 
+of Asvina, i.e., October perform the ritual of offering of balls of 
+cooked rice in memory of their deceased forefathers, will obtain· 
+the same fruits like that of Sriiddha conducted at Gaya. Taking a 
+look of yours here will also absolve one of all sins. 
+KrBTJ.a said: 
+170- 1 7 1 . Sins of those who spend a night here with full faith 
+and due observation of fasting, will get completely wiped 9ut 
+and for all times to come. It is beyond doubt that a childless 
+man or woman perfonning the ritual of offering balls of cooked 
+rice here in memory of his/her forefathers with all sincerity of 
+mind and as per prescribed procedure will definitely be blessed 
+with a child very quickly. 
+lndra said: 
+172. If a king deprived of his kingdom observes the ritual of 
+taking a bath here followed up with making of charities will
+
+## Page 145
+
+vii.lll. 36. 1 73- 1 79 
+133 
+not only get all his enemies dissipated but his kingdom will 
+also expand. 
+Agni (i.e. Fire God) said: 
+173. A man doing Sraddha here with all purity and in terms 
+with his financial capability will accordingly derive the fruits 
+of the same Yajiia. 
+Yama said: 
+1 74. Untimely death will never occur to those who after 
+taking (the ritual of) bath here offer sesame to BrahmaJ.las. 
+The demons said: 
+175. 0 Goddess! the human beings who observe the ritual of 
+offering of cooked balls of rice to their forefathers in your 
+hermitage here will never be affected by the fear of rising of ghosts. 
+VaruiJa said: 
+1 76. Those who offer water to the BrahmaJ.las here after taking 
+bath, will attain purity for all time to come in this as well as the 
+other world. 
+Vayu said: 
+1 77. Those who offer specially the flavoured paste of 
+sandalwood to BrahmaJ.las will remain free from all diseases. 
+The Giver of Wealth (i.e., Kubera) said: 
+1 78 . Those who donate wealth to BrahmaJ.las here in 
+commensurate with their capacity will never be deprived of 
+wealth in society. 
+/Svara said: 
+179. One who observes the religious rite of conducting yajiia 
+here with all resolution and sincerity at the interval of every
+
+## Page 146
+
+1 34 
+Skonda Purii1Ja 
+four months will obtain happiness for ever in this as well as the 
+other world. 
+Indra said: 
+1 80. A man who, after observing fast for three nights, 
+performs yajiia here will be free from all sins starting from his 
+birth till death. 
+Aditya said: 
+1 8 1 . Men making gifts of umbrellas and footwear (which 
+relieve the feet) here in this auspicious hermitage with all 
+devotion and faith, will obtain the eternal world. 
+Aswini Kumar said: 
+1 82. Those who offer sweets to BrabmͶas here with utmost 
+regards will _be bestowed with the supreme and undying love. 
+Tirtha said: 
+1 83- 1 84. Today onwards, there will be presence of all centres 
+of pilgrimage here. This hermitage will specially earn a place 
+of renown and will be heard from the mouths of people. 
+Following the (religious) ritual of taking a bath with fasting 
+here on the fourteenth day of the waning period of moon in the 
+Month of Asvina, i.e., October will result in attainment of fruits 
+encompassing fruits of all centres of pilgrimage. 
+Gandharva said: 
+1 85. Those who undertake the religious activity of Bhajans 
+and Kirtans here will attain the appearance of beauty for seven 
+life-times to come. 
+The Sage said: 
+186. One observes the ritual of fasting here for three nights 
+will attain the fruits equivalent to a thousand Candrayana Vrata 
+(i.e., the Yajiia accompanied by reduction in intake of food
+
+## Page 147
+
+vii.IIl. 36. 187- 1 94 
+1 35 
+progressively on each successive day culminating in no food 
+on the New Moon Day). 
+Pulastya said: 
+1 87. Thus all gods bestowed their blissful boons on the 
+Goddess. 0 best of kings, and that is how the Goddess has 
+been present here as per the direction of gods. 
+1 88. As a result of taking a look of the Goddess in the 
+hermitage here and empowered with her blessings, the mortals 
+started to proceed to the Heavenly Kingdom which in turn 
+became full of the mortals without any difficulty with their 
+penetration. 
+1 89. In the wake of this, religious rituals including the 
+relatively longer cycle of Yajfia connected with making 
+offerings to the Fire God lost vitality on the surface of earth. 
+Same also became the fate of other religious activities. The 
+gods became deprived of their due worship. 
+1 90. Then becoming scared, the Thousand-eyed i.e. Indra 
+through connivance with Bphaspati made a quick invocation 
+of desire, anger, fear and excitements. 
+1 9 1 - 1 92. Then instructing them he said, all of you along 
+with thirst, deceit and qualities to induce attachment towards 
+offsprings, proceed quickly to the mortal world so as to incite 
+desire in mortal beings both men and women so that they can 
+stay back (instead of proceeding to the Heaven). All of you, as 
+per my orders, be there in the auspicious hermitage of Candi in 
+her service and especially remain there upto the last day of the 
+fourteen day period of the waning period of moon in the Month 
+of Asvina, i.e., October." 
+193. Your Highness, thus directed, all of them (i.e., desire, 
+anger, attachment, etc.) hurriedly proceeded to the mortal world 
+and kept themselves engaged in its upkeep and preservation. 
+194. After knowing all this, you-the virtuous earthly being, 
+also proceed quickly there, if at all, you desire the best of both 
+this and the other world.
+
+## Page 148
+
+136 
+Slwnda PuraT}a 
+1 95. 0 king he who visits Arbuda mountain and takes a 
+look of Candi, his forefathers get elated and dance, while his 
+great grandfathers get into an uproarious mood. 
+196. The son (of an individual) who performs Sraddha (i.e., 
+the religious ritual performed in memory of one's forefathers) 
+in this hermitage here with all sincerity, besides his forefathers, 
+he enables all of us to successfully cross over this worldly life. 
+1 97. 0 king! one obtains a kingdom from a maiden visit 
+here while the second and third visits enable attainment of the 
+Heaven and Liberation respectively. 
+1 98 . Therefore, with all sincere efforts, one needs to 
+undertake a pilgrimage here in this Arbuda mountain-the best 
+of the mountains and the best among centres of pilgrimage for 
+results of goodness and welfare. 
+1 99. The great Sage Narada had sung the glory of this 
+hermitage after taking a bath here and in an assembly of 
+Brahmat:tas. 
+200. It is of course beyond doubt that the act of taking a 
+bath followed up with making offering of gifts in other centres 
+of pilgrimage give results. But with a look of the Arbuda, all 
+sins fade away. 
+201 . One who listens to its proclaimed greatness with all 
+faith, that human soul attains excellence with all desires nurtured 
+in his mind getting fulfilled. 
+202. In all homes where the text on the greatness of Arbuda 
+is preserved 0 king! all desires of the inmates not only get 
+fulfilled but also it begets wealth and prosperity for them. 
+203. 0 king! even a human being who reads this with faith, 
+that best of men obtains fruits of pilgrimage and attains 
+prominence.
+
+## Page 149
+
+vii.lll. 37. 1 -9 
+1 37 
+CHAPTER THIRTY SEVEN 
+Origin of Eminent Naga Tirtha 
+Pulastya said: 
+1 . Then one needs to go to that centre of pilgrimage-the 
+destroyer of sins, called the Niiga (i.e., cobra) lake. There in 
+some beautiful interior region of the mountain, one can come 
+across the Niigas, i.e., the cobras engaged in penance. 
+2-3. It is said that in olden times hearing about the curse 
+inflicted on Kadru (i.e., their mother) all the Niigas became 
+fearful and then headed to see S_e{aniiga. Bowing before him 
+they all asked him, "Where shall we go and what should we do 
+0 virtuous King of the Niigas! so as to free her from the curse? 
+As it is we are heavily depressed with the curse on our mother." 
+Se¯a said: 
+4-8. I had to initially satisfy the Mother Goddess to get rid of 
+the curse, who in tum, exhorted me that the self-righteous souls 
+who as it is observe self-control and remain incessantly engaged 
+in penance, must never raise the fire in the Yajiia of Parik{ita. 
+A mountain called Arbuda is there on the surface of earth for 
+this purpose. The Goddess Candi remains there on her own. You 
+proceed there and get yourself engaged in penance as per the 
+laid down procedure. Prayers to and before her definitely root 
+out all dangers. Hence as per my words, you remain engaged in 
+her worship day and night. It is her blessings by which only all 
+distress can be put an end to. He further said that he would not 
+visualize any other alternative. For him neither gods nor the 
+humans nor could there be any other means to liberation. 
+Pulastya said: 
+9. After the King of Niigas said so, all the Niigas, 0 king! 
+after paying their homage to the King, proceeded towards the 
+Arbuda mountain.
+
+## Page 150
+
+1 38 
+Slwnda PuriitJa 
+10. Digging up the earth on the mountain they made their 
+own extended pathway in the form of a hole. 
+1 1 . Then making a resolution in mind and with sincere 
+devotion they began to dwell there engaged in the worship of 
+the Goddess. 
+12. Observing the ritual of making offerings to the Fire God, 
+muttering the name of Goddess repeatedly in a befitting manner 
+and either having food once in a day or observing fast or simply 
+subsisting on air, they began to put up there for good. 
+13. For some of them, the mere mastication of teeth was 
+agreeable as having taken food, while for some grated stone 
+was acceptable as food. Some were subsisting on the offerings 
+made to five fires set up for performance of yajfia while some 
+remained occupied with only washing themselves. 
+14. Seeing the incomparable devotion of those good snakes, 
+the gods got pleased and began to sing accompanied with 
+musical instruments in their kingdom. 
+15. Then the Goddess, herself becoming very pleased made 
+this statement: 
+16. The Goddess said, "I am pleased, my dear children. What 
+for are you all doing such arduous penance? You can ask for 
+the desired boon in your mind." 
+17- 1 8. The Nagas said, "0 Goddess! distressed with the curse 
+on our mother, we have become destitutes for having no support. 
+Directed by the King of Nagas we have come here and taken 
+refuge under you. You can only rescue her (i.e., our mother) 
+from the fear of the fire of sin engulfing her. Due to some reason 
+our mother has been cursed in some time in the past as per 
+which the fire from the yajfia of Parik{it will swallow her up." 
+1 9-23. The Goddess said, "You all stay here, near me till his 
+Yajfia finishes. Without any fear, have full enjoyment of the 
+adequate amenities here. As the Yajfia gets over, you proceed 
+to your own abode for you have already made a hole inside the 
+cave of this mountain. This place on earth will be known as 
+Naga Lake pilgrim centre and men complying with the religious 
+practice of taking bath here with sincere faith on the fifth day
+
+## Page 151
+
+vii. II/. 38. 24-28 
+1 39 
+during SravaQ.a (i.e., July-August) every year will never be 
+taken over by the fear of Nਭgas. Following it up with the 
+performance of Sraddha (i.e., the religious activity connected 
+with remembrance of one's forefathers) will help their forefathers 
+to swim across (the worldly existence). All those enjoyments 
+which are renowned both on the Earth as well as in the Heaven 
+will always be attainable for human beings without any doubt." 
+Pulastya said: 
+24. Then the persisting fear (in the minds) of the Nagas faded 
+away and they became happy. Taking the shelter of Goddess 
+as their own, they began to roam around there (in the Arbuda 
+region). 
+25. Then in the inevitable course of time, which supercedes 
+everything, the (procedurally fixed) duration of Pan""kǚit's Yajiia 
+got over. All the Nagas feeling peace within enteਮ the region 
+under the surface of the earth. 
+26. 0 king! with the grace of Goddess they, i.e, the Nagas 
+became free from the frightening curse. Therefore paying their 
+homage repeatedly to the Goddess they remainਯ<! unmoved in 
+their faith and devotion for her. 
+27. Even today, 0 king! they come there especially on the 
+fifth day of the waning period of Moon dunng SravaQ.a (i.e., 
+July-August) to get a look of the Goddess with all eagerness. 
+28. Hence, with all sincere efforts, 0 best of kings! one needs 
+to conduct the ritual of Sraddha observed in remembrance of 
+one's forefathers here. The best wishes of one's self get 
+materialized by the ritual of having a bath here.
+
+## Page 152
+
+140 
+Sklmda PuriiFJQ 
+CHAPTER THIRTY EIGHT 
+Origin of Eminent Siva Gangi Pool 
+Pulastya said: 
+1 . Thereafter 0 king! head towards the pond having a similar 
+appearance of the worshipable liilga of Lord Siva. 0 virtuous 
+king, Ganga puts up here clandestinely. 
+2. The fruits of all pilgrimages accrue to a man by a bath 
+here. Besides, he gets free from all sins committed since birth 
+till death. 
+Yayati asked: 
+3. 0 great preceptor! what for Ganga happened to be there? 
+In which Age did she come there? There is an intense curiosity 
+within me. 
+Pulastya said: 
+4-7. Once upon a time when the gods after appeasing Lord 
+Siva, who usually mounts upon a bull, asked him to remain 
+ever present in the Arbuda mountain, the radiant God himself 
+proceeded to put up there. On his own he founded his 
+worshipable Liilga there. But that worshipable Liilga was 
+brought down by the great sage Valakhilya. The Sage had done 
+so due to excess anger for some reason. Then Lord Siva made 
+a promise before all gods saying that he would not move out of 
+there under any circumstances and would stay there beyond 
+any doubt. Since then and in the unchangeable march of great 
+Time he has been present there. 
+8. Then the thought of Ganga occurred in the mind of the 
+everlasting God impelling him to think as to how could togetherness 
+of his other half (i.e., Ganga) be there at that place forever. 
+9. Then he thought of great ways of bringing along the caring 
+and supreme Goddess Gauri Accordingly he ordered his loyal 
+followers waiting upon him.
+
+## Page 153
+
+vii.lll. 38. /0-/8 
+141 
+10. Zeroing on one way by which togetherness with Ganga 
+could be possible in that lake, he then ordered his followers 
+viz., Nandi, Bhrungi, the Ganga and other fountains. 
+1 1- 1 2. He told them, "I have a feeling that by taking resort 
+to water, performance of the religious activity of penance can 
+be possible. Hence all of you go and try to make a proper pool 
+there in the interior region of the mountain. There, I shall put 
+myself in the middle of the pool to observe the religious penance 
+which can not be possible without water." Hearing this, the 
+group of his attendants hurried up towards the mountain region 
+to make a good number of pools, which they finally made. 
+13. There was clean water in those pools where one could 
+swim well. Taking a bath there was good enough to give 
+pleasure. Then with the desire for company of Ganga, he sought 
+due permission of Gauri. 
+14. Then with a view to observing the religious ritual 
+associated with giving effect to his mental resolve, the God 
+entered into the water and began to meditate on Ganga-the 
+purifier of the three worlds with its flow of water. 
+1 5 . With his earnestly holding Ganga within mind, Ganga 
+immediately appeared to give company to Siva. As per 
+Pulastya's words, the God has been uninterruptedly making 
+his entreaties to Ganga there. 
+1 6. 0 king! Gauri could not fully make out the purpose behind 
+Siva's persistently observing the religious ritual connected with 
+giving effect to his mental resolve. In the course of time, the 
+Gods' Sage Niirada happened to come there at a certain juncture 
+while he was moving about herਰ and there in the pursuit of 
+Kaivalya Yajna. 
+17. He was taken aback to see Mahiideva in penance in the 
+midst of water and his life-force to be completely taken over 
+by desire. 
+1 8. How could the performer of Vrata (i.e., the religious 
+activity connected with fulfilment of a mental resolve) be 
+afflicted with desire as Siva's eyes evinced? How could it be 
+possible? Thinking like this the Sage (i.e., Niirada) began to 
+ponder.
+
+## Page 154
+
+142 
+Skonda Puriif)Q 
+19. Visualizing that Maheswara's (i.e., Siva's) enamourment 
+of Ganga was only through meditation which could be due to 
+fear of Gaurl, he (i.e., Narada) got surprised. 
+20. Then he narrated all efforts of Hara, i.e., Siva and the 
+intention behind it to Gaurl. 
+2 1 . Then the Goddess hun:ied to the place where Maheswara 
+was. Her eyes were red and so also her body trembling with 
+anger. 
+22. Seeing Maheswari (i.e., Siva's better half) coming towards 
+the place where Siva was, with anger, Ganga with her devout 
+mind could understand everything and with fear spoke out. 
+23. She said, "With the Goddess being told about our being 
+together by Narada, she seemed to have come here with anger. 
+Hence, you please do whatever you consider fit in the 
+meantime." 
+24-25 . The gracious Mahadeva said, "0 Jahnavi! (i.e., 
+Ganga) the best action will be to go to my own abode in the 
+mountain i.e. the Himalaya and bring the sensitive lady (i.e., 
+Parvati) under control by propitiating her. Her loyalty to husband 
+will be evoked by such action instantly. Otherwise, along with 
+me, she will give a curse to you also." 
+26. 0 virtuous king! as Rudra (an epithet of Siva) said so, 
+Jahnavi came out of the pool and then proceeding towards 
+Gaurl, appeared before her. 
+27-3 1 . Ashamed of herself and with folded hands, Ganga 
+bowed down before her to pay homage and then spoke these 
+golden w(lrds, "In olden time, when I fell off onto the Earth, 
+your beloved upheld me on his head. You must be aware of 
+this. As a result, he had a developed affection for the name 
+Bhagiratha. It was solely due to fear of you that our togetherness 
+was not possible. Now, 0 Goddess of gods! either as per your 
+words or as per the good and pure wishes of Rudra, i.e., Siva 
+that I have been called for here. It is as per the directions of the 
+Lord of the three worlds that I have come out before you to 
+bare open the truth."
+
+## Page 155
+
+vii.lll. 38. 32-41 
+143 
+Pulastya said: 
+32. The Goddess became glad to hear such words of hers 
+and told her politely that she had put forth the right positioQ. 
+33. Hence you may ask for any good boon as desired in 
+your mind. Leaving aside the beloved Maheswara who is the 
+only medium of my pursuit of duty of loyalty to husband, you 
+may ask for anything else. 
+34-36. Ganga said, "Is it my misfortune that as wife of Siva 
+I have to be put on the sharp-edged iron-bar. Hence, grant me 
+at least one day when I can have my playful fun with him. 0 
+Goddess of gods ! let the road of Siva to his abode take tum 
+towards this pool especially on the thirteenth day of the rising 
+period of moon in the month of Caitra, (i.e., March-April) when 
+this pool becomes my abode. 0 daughter of the mountains ! let 
+this pool here in this mountain acquire fame with your grace, 
+by the name of Siva Ganga on the surface of earth". 
+Pulastya said: 
+37. Let this be so, said the Goddess to the great river Ganga 
+and then embracing each other, both parted. 
+38. Then as Ganga left, Gauri bringing her face down and 
+after holding the hands of Siva for a while, left for her abode 
+moving around here and there. 
+39-40. 0 king! this is how the old story of this pool has been 
+described. With sincerity and with all efforts, one needs to 
+observe the religious ritual of taking a bath here especially on 
+the fourteenth day of the rising period of moon in the month of 
+Caitra, (i.e., March-April) as togetherness of both the God Siva 
+and Ganga remains here on this day, the virtuous king_ 
+4 1 . (A bath) here dissipates all bad deeds and by donation 
+of bulls to Brahmar:tas here 0 best of kings! one is sure to attain 
+residence in heaven for as many years as the number of hairs 
+on one's body.
+
+## Page 156
+
+144 
+Skanda Purll'}ll 
+CHAPTER THIRTY NINE 
+Importance of Offering Barley to the 
+Worshipable Liilga of Siva 
+Yayati said: 
+1 -3. 0 bearer of spiritual knowledge! on the sidelines of 
+narrating the glory of this (the centre of pilgrimage) you had 
+stated in the very beginning that as a matter of obliging the 
+satisfaction of gods, Mahesvara founded his worshipable Liilga 
+here permanently. The great soul VaJ.akhilya had uprooted the 
+worshipable Liilga at some juncture of time. But then how and 
+when Mahesvara again came back there? I have a great curiosity 
+in this regard. Accordingly, you the Great Sage, please speak 
+out appropriately. What goodness awaits upon men by a visit 
+there and by having a look of it? 
+Pulastya said: 
+4. The virtuous earthly being, now listen to the greatness of 
+Mahesvara. I shall bring to you another version of the glorified 
+story in this regard which has been narrated. 
+5-6. When due to humiliation of D਺ya for not being invited 
+to Yajfia, Sat!, i.e., the manifested force exhibiting the power 
+and victory of truth got consumated by death, Kamadeva taking 
+his bow and arrow of flowers in hand arrived there swiftly. 
+Seeing the .invincible Kamadeva, Siva then put him as an arrow 
+onto his bow. 
+7-8. Apparently out of fear Siva disappeared. Then he, i.e., 
+Kamadeva moving about here and there, reached the hermitage 
+of Valakhilya which was bearing a beautiful look with a good 
+tree outside it. Valakhilya's wives then got a glimpse of the 
+handsome Kamadeva . 
+. 9. Seeing the bare-bodied and amiable Siva, all those women 
+got enamoured and leaving their sons and homes behind 
+followed him continuously making entreaties like 'make me/ 
+us your own.'
+
+## Page 157
+
+vii. III. 39. J0-22a 
+145 
+1 0. The group of same women began to embrace the 
+worshipable Liitga following it up with kissing and repeated 
+touching. 
+1 1 . Yet, he is the detached supreme Sage and God Sambhu. 
+Pervading the entire world, he remains present in all living 
+beings with their bodies serving as his dwelling unit. 
+12. He, the Lord Sambhu therefore, was taking them ahead 
+with himself remaining in the front and all those women were 
+simply following his steps afflicted as it was with being 
+enamoured by him. 
+13. The Sage saw change in the women manifesting all the 
+possibility of their going wayward. Unaware as he was, the 
+great soul simply got enraged with Mahideva. 
+14. Heated up with distress, he (i.e., the Sage) therefore, to 
+save his wives took out his curse on the worshipable Liitga of 
+Siva saying 'let this worshipable Liitga fall down for having 
+caused such evils/sins' . 
+15. A mere sight of the worshipable Liliga which is reason 
+enough for causing deceit among women is an immediate 
+enemy of the body. Hence, there should be a downfall for this 
+and let this Liitga fall down. 
+1 6. With the omnipotent, i.e., unchangeable words of the 
+royal Sage, the Earth then began to shudder. The peaks on the 
+mountains began to crumble and with their submersion under 
+water, the land gave a terrible sight. 
+17. Then considering that the prevailing situation is adequate 
+enough for an untimely annihilation of the three worlds, all the 
+gods, 0 king! got frightened enough. 
+18- 1 9. Then going to their grandfather, i.e., Brahma, all gods 
+said, "0 supreme God! signs of final destruction are visible. 0 
+best of gods and our Lord! we do not know what is this for"? 
+After hearing such words of theirs, Brahma receded into his 
+usual state of contemplation. 
+· 
+Then he (i.e., Brahmil) said: 
+20-22a. All these difficulties and chaos having portents of 
+giving rise to fear, have been solely due to Valakhilya bringing
+
+## Page 158
+
+1 46 
+Skanda PuriiTJO 
+down the worshipable Litiga of Pinaki (an epithet of Siva). 
+Hence, all of you gods accompany me there. The purpose of 
+our journey there is to restore the worshipable Liliga to its pre­
+designed place. Until that is done, the possibility of final 
+destruction of the world will continue. 
+22b-23. Speaking to one another like this, all of them i.e. the 
+gods reached the Arbuda mountain. The fallen worshipable 
+Litiga was lying there in the hermitage of Valakhilya. To please 
+it the gods began to recite the varied hymns of the Veda. 
+The gods said: 
+24-29. Our homage to you 0 God among gods and the giver 
+of fearlessness to the faithful followers. Homage to you who 
+dwell in all and a reflection of all yajiias. Homage to you, 0 
+God of all gods as well as the Supreme Light. Homage to you 
+0 Creator! fit to be comprehensible either in the broadest or 
+subtlest way. 0 Trayamvaka, 0 Bhima, 0 the Bearer of the 
+best bow and arrow or the Trident in hand, all these are like 
+pearls tied up in a thread (of yours). Either the manifest 
+diversities in the world in their best forms including the mobile 
+as well as the immobile or hardly there is anything coarse or · 
+subtle in the three worlds which is not encompassed by you. 
+The creation ranging from its evolution to dissolution can have 
+no other causal agent behind it except you, 0 Lord Sarilkara. 
+The world with its attendant difficulties and sorrows is but a 
+device as per your will. It will merge into your body subsequent 
+to its dissolution. Hence 0 God of gods ! replant your 
+worshipable Liilga in the same region of the mountain where it 
+was there already for the welfare of subjects. Till. that 
+materialises, damages will continue to accrue for the subjects. 
+The God said: 
+30-34. It is out of sheer indifference that Valakhilya has 
+uprooted this worshipable Liliga of mine. How can I accept it 
+any further without its necessary purification. I can punish 
+Valakhilya appropriately as per my sweet will. But I consider
+
+## Page 159
+
+vii./11. 39. 35-41 
+1 47 
+Bdihmar:tas worthy of respect, 0 virtuਞus gods. My worshipable 
+Liilga here is unmovable. This is the only fixed place for it and 
+I cannot think of any other way out. 0 Brahma! if you have 
+worshipped this worshipable liilga previously, then all gods 
+followed by Brahmar:tas in due course will worship it here, as it 
+is. As a result, peace will return to the world encompassing the 
+mobile as well as the immobile. 
+Pulastya said: 
+35. As Samkara said like this, then Brahma, 0 best of kings! 
+first of all began to worship the samਟ (i.e., the worshipable 
+Liilga) then and there with sincerity of faith and devotion. 
+36. After Brahma, Vi{r:tu did the same. Subsequently, lndra 
+followed up. Valakhilya and other Brahmar:tas also worshipped 
+it reciting the difficult Satrudriya incantations from the Veda. 
+37. Then the terrible disorderly situation soon began to 
+recover. Happy days returned to the world with people becoming 
+good-natured and gentle and fragrant breeze began to blow. 
+38. Then Mahadeva asked all the gods to seek boons as 
+desired in their respective minds. 
+The gods said: 
+39-40. 0 God of gods! let the hurdles for all those evil-doer 
+humans on their road to Heaven be destroyed by a simple touch 
+of the worshipable Liriga of yours here. 0 Lord and King of 
+the gods! let you wish so that Indra's sword of thunderbolt acts 
+as a protective shield to this beneficial worshipable Liriga of 
+yours. 
+The God (Siva) said: 
+4 1 . 0 God born of the lotus (i.e., Brahma)! such ·a Wish has 
+been equally gaining ground in my mind. Let lndra-the King 
+of gods do so in the interest of growth and development of all 
+religions.
+
+## Page 160
+
+1 48 
+Skanda Puriif}a 
+Pulastya said: 
+42. Hence, lndra-the King of three worlds covered the 
+worshipable Liilga with his sword of thunderbolt which require 
+to be won over or brought under control for any mortal being 
+to get a look of the same (object of worship). 
+43 . Even now, a mere touch of the (same) sword of 
+thunderbolt entitles a man acquire proximity (to the worshipable 
+Liilga). It is beyond doubt that he gets liberated not only from 
+sins but also from the cycle of birth and death. 
+44. So Samkara has sung the glory of the worshipable Liilga 
+while it is lndra who by his thunderbolt gives it the protective 
+cover on the surface of Earth. 
+45 . Since then worshipping of Lord Sarilkara has been 
+commenced in the mortal world. Before this either his idol or 
+some form of stone as a symbolic icon of him .used to be 
+worshipped in the three worlds. 
+46. This is the account, as to how the worshipable Liilga 
+used to be worshipped before and after its downfall since 
+ancient days in this best of mountains called the Arbuda which 
+you were asking. 
+47. One who makes offering of cooked food made of freshly 
+harvested wheat to the unmovable worshipable Liilga on that 
+particular fourteenth day of the waning period of Moon in the 
+month of Phiilguna (i.e., February), which is (considered as) 
+the great destroyer of all sins, will never have rebirth. 
+48. One who makes offering of food prepared of the same 
+freshly harvested wheat to Briihmat:tas with due faith will be 
+entitled to enjoyment of the Heavenly World amounting to the 
+same number of years as per the counted number of wheat 
+seeds. 
+49. The offering of barley here by the sages observing 
+austerities is specially appreciated. This the God Siva has 
+himself stated. 
+50. So why to undergo the religious act of making offering 
+of various gifts or conduct of yajiias with greater details or 
+undertake several pilgrimages or undergo penance?
+
+## Page 161
+
+vii.ll/. 39. 51 -59 
+149 
+5 L Tb_ਠ_results_Q{ all these (given above) cannot even equal 
+a sixteenth part of the effect that accrues to one by obtaining 
+proximity of Maheswara on that particularly auspicious 
+fourteenth day of the waning period of Moon in the month of 
+Phalguna (i.e., February). 
+- 52. 0 king ! listen to an amazing incident which happened 
+there in olden time. Once upon a time, a man due to some sin 
+on his part got down with leprosy as a result of which his body 
+became frail and feeble. 
+53. For the sake of seeking alms, he came there joining a 
+crowd of people. Then there O_king! he earned twelve anjali* 
+- barley as alms. 
+54. But due to pain in his body because of the disease, he 
+could not eat it. His body as it is was quite hot. So without 
+devotion he entered the water there for a bath and as the night 
+descended, he went up to sleep, keeping the barley beside his 
+head. 
+55. A dog came there when he was asleep and pulled it (i.e. 
+the carry-bag containing the barley) away and began to eat it 
+along with other hungry dogs. 
+56. But then 0 king! it is a matter of great wonder that he got 
+reminded of his belonging to the lineage of king of Vidarbha 
+and got born in the .same king's home. 
+57. He was the best of kings by name of Bhlma and was the 
+father of Damayanti. He was already aware of the effect of 
+barley there in that mountain. 
+58. Every year on the fourteenth day of the month of 
+Phalguna (i.e., February), he used to go there and observing 
+fasting and remaining awake throughout the night he used to 
+make invocation to the God. 
+59. He used to make offering of (plenty of) barley as well as 
+of gold to Brahmar:tas there nearer to the abode of unmovable 
+God. He also used -to feed the same to animals including deer 
+as well as birds. 
+* Aiijali refers to the cup-shape that is formed after lossely bringing together both 
+palms of the hands.
+
+## Page 162
+
+1 50 
+Skanda PuriiT}a 
+60. Then the king, all sages with the prominent sage Galava 
+among them out of curiosity asked the king as to what could 
+be the reason behind his making offering of barley there. 
+6 1 . The sages asked, "You have got amazing power to make 
+gifts of elephants, horses and chariots. Thus 0 king! why are 
+you not willing to make offering of anything other than barley?" 
+Pulastya said: 
+62. After their (i.e., the Sages') asking like this, the king 
+then narrated the details of his previous life and impressed upon 
+them the value of offering of barley in his context. 
+The King told them: 
+63-64. In the form of dog, I had previously stolen barley 
+without faith. As a consequence of that I have got this life, 0 
+best of Brahmal}as. Now I am making the offering of barley 
+here with due faith. I do not know what fruits shall be reaped 
+out of this. (But) I am offering barley here out of this reason. I 
+am only doing this here in this centre of pilgrimage with the 
+sole purpose of regaining my faith." 
+Pulastya said: 
+65. Then with pleasure, the sages uttered, "let there be your 
+well being". They began to make offering of barley there for 
+themselves in a befitting manner and as per ·their affordability. 
+66. 0 king! this is all about the glory of making offering of 
+barley. This is also how the truth of the greatness of Mahe§vara 
+has been acclaimed. 
+67. There is no doubt that one who listens to the glorified 
+story of this with faith from the BrahmaQas will certainly get 
+rid of his/her incessant sins.
+
+## Page 163
+
+vii.l/1. 40. 1-7 
+1 5 1 
+CHAPTER FORTY 
+Eminence ofKamesvara 
+Pulastya said: 
+1 . Then one has to go to Kamesvara established by 
+Kamadeva. By taking a look of it, the mortal being always 
+attains good appearance as well as high influence. 
+Yayiiti said: 
+2-3. You had earlier stated that Sambhu (i.e., an epithet of 
+Siva), taken over with fear by the weapon of Kama had fled to 
+the hermitage of Valakhilya where he had seen his worshipable 
+Liilga fallen down and lying on the ground. Now, I have a 
+great curiosity as to why he, i.e., Kamadeva worshipped 
+Sambhu. 0 best of Briihmal}as! do also narrate all the details 
+about the abode of Kamesvara (here). 
+Pulastya said: 
+4. Even after the downfall of the worshipable Liilga, 
+Kamadeva had not given up following Siva. Carrying his 
+weapon in hand and aiming it at Siva from behind he was 
+following him. 
+5. Then out of fear, the Lord of the ultimate dissolution of 
+the three regions, i.e., _
+Siva went to Viiriil}asi. On his way he 
+also saw Kamadeva following from behind with a similar 
+mindset carrying his bow and arrow in hands. 
+6. Then Siva changed his onward journey and via Prayag, 
+he reached Kedarnath. Then through Naimi{ya and Bhadra­
+kafl}a and taking route of Jambu he entered Tripu{kara. 
+7. Then passing through the sacred Gokafl}a and Prabhasa 
+as well as through the savage water bodies full of worms and 
+insects, he went to Hardwar that forms one of the pathways of 
+Ganga, Gaya that is the master of all the centres of pilgrimage 
+and the Vatesvara of which hymns of praises have been sung 
+through Ages.
+
+## Page 164
+
+152 
+Skanda PuriiTJ.ll 
+8. What more to mention about so many places of pilgrimage. 
+On his way to the countless centres of pilgrimage, the God saw 
+Kiimadeva following from behind. 
+9 . So 0 king ! wherever the God went out of fear of 
+Kiiniadeva, he saw Kiiniadeva with his bow and arrow on his 
+(i.e. God's) heels behind him. 
+10. As time moved on he (i.e., the God) reached the Arbuda 
+mountain again. There also he saw Kiimadeva with his bow 
+and arrow pulled up in hand and intent for a fight. With his 
+focus fixed and himself following one path single-mindedly, 
+he (i.e., Kiiniadeva) seemingly emerged as an impediment, 0 
+best of kings. 
+1 1 . (As it is) the God was distressed for his beloved and his 
+peace of mind was disturbed. So seeing him (i.e., Kiiniadeva) 
+the God became angry in particular. 
+1 2. Then 0 king! due to excessive anger, fire emitted out of 
+the third eye of the Lord in which Kiiniadeva got burnt out 
+completely and turned up into ashes. 
+1 3 . Then the king, with the extermination of Kiiniadeva, along 
+with his bow and arrow, the anger of Saiilkara subsided and 
+happiness again dawned on him. 
+14. Then evoking reverence of all gods, Saiilkara went to 
+the best of the mountains- the Kailiisa. But Rati, the devoted 
+wife (of Kiimadeva) got tormented within and remained 
+immersed in pitiable fear due to sorrow resulting from loss of 
+her husband. 
+1 5 . Then the depressed woman after preparing the funeral 
+pyre for her husband ascended onto it to get herself dissolved 
+in the radiant fire for she was so distressed (by the loss of her 
+husband, 0 King). But as she stepped out to do so, a voice 
+echoed from above for the reputed lady. 
+1 6. The voice exhorted, "0 daughter, do not get into any 
+such misadventure. Rather you, the beauty, get into arduous 
+penance by which you can appease Sarilkara and get back 
+Kama, your husband."
+
+## Page 165
+
+vii.lll. 41. 1 7-25 
+153 
+17. As she heard such words, she got up well in the middle 
+and began to worship the God, day and night incessantly and 
+without retiring to bed for sleep. As part of her resolve, she 
+remained fully engrossed in activities such as making offer of 
+gifts, muttering the name of God repeatedly in mind, pacifying 
+the Fire God through offerings and observation of fasting. 
+1 8. Then after a lapse of thousand years, Mahesvara became 
+gratified and asked her to solicit the boon in her mind which 
+might cause her welfare. 
+19. Rati said, "If God Siva___.:the Creator of three worlds is 
+pleased with me, let my husband Kama regain life with all his 
+limbs of body intact and without any handicap or disability." 
+20. As soon as she completed saying so, the great king (i.e., 
+Kamadeva) instantly came to preSence before her with his usual 
+beaming appearance as if freshly awaken from a deep sleep. 
+2 1 . Equipped with the bow resembling the pole of sugarcane 
+and with flower-like arrows and the bow-string appearing like 
+a row of black bees, he (i.e., Kamadeva) was presenting a 
+captivating sight. 
+22. Thereafter paying homage to Mahesvara along with Rati, 
+Kamadeva proceeded on his work after seeking permission of 
+the Lord. 
+23. 0 best of kings! thus after experiencing the greatness of 
+Lord Siva, he (i.e., Kamadeva) with full faith accompanied with 
+complete awareness founded (the idol of) Siva there '?n the 
+Arbuda mountain. 
+24. 0 great king! bad fortune never touches either a man or 
+a woman for a time span of seven rebirths after taking a look of 
+Siva here. 
+25. This is how I narrated to you (i.e., the King) the much 
+recounted story with regard to the burning down of Kamadeva 
+and the greatness of Kamesvara which you were asking for.
+
+## Page 166
+
+1 54 
+Pulastya said: 
+CHAPTER FORTY ONE 
+Markar,uJeya: the origin of his 
+place of hermitage 
+Skanda PuriiTJa 
+1 . Then the best of kings, head towards the hermitage of 
+Markai).Q.eya where the great soul/Sage Markai).Q.eya had 
+undergone penance. 
+2. In olden time a Brahmal).a named Mrukando got blessed 
+with the birth of a very handsome son for him towards the 
+ultimate years of his life through observance of a religious vow 
+here. 
+3. Full of all qualities, he was sober and had the brilliance 
+like Sun. Once, in course of time 0 king! a passerby came on 
+the pathways of their hermitage. 
+4. The incomer Brahmal).a was somehow well acquainted 
+with and had good knowledge of all things that have some 
+linkage with the sea or having origin from the sea. At that time, 
+the boy who was five-year old, was playing. 
+5. (That Brahmal).a) watched the child from nose to the string 
+of hair on top of his head for a little longer and then began to 
+laugh instantly. Mrukando was equally watching him (i.e., the 
+Brahmal).a) at the same time. 
+6. He (i.e., Mrukando) said, "0 Brahmal).a! you saw my son 
+and after that you have been laughing continuously and 
+relatively excessively. Would you please tell me the reason for 
+the same?" 
+7. When Mrukando asked the best Brahmal).a the reason 
+behind his stop-over once and again, the Brahmal).a began to 
+speak out his purpose. 
+8-9. He said, "0 best of Brahmal).as! the signs on the body 
+of this boy indicate that something unageing and unfading is 
+definitely going to happen. But somehow it is ਡgain definite 
+that this boy is going to have death in the normal battle of life.
+
+## Page 167
+
+vii. II/. 4 I. /0-20 
+155 
+It is due to this reason that I laughed. I never pretended to act 
+as if I am on a stage with my 'enemies." 
+Pulastya said: 
+I 0. After saying like this, the wise BrihmaQa spent the night 
+there and as dawn broke in the next day, he proceeded ahead 
+towards the region of his wish and desire. 
+1 1 . Though got hurt to learn that his son had a short life, 
+Mrukando, however, 0 king! performed the ritual of sacred 
+thread ceremony of his son when he was five years old. 
+12. "(He told him ) Whenever you 0 son! come across anyone 
+accomplished in the learning of Scriptures, always greet him 
+and try to share and have the taste of his knowledge." 
+1 3. The son followed such advice of his father in particular. 
+14. Then the boy paid his reverence to everyone whether 
+old or young whom he came across with all politeness. 
+15. Once, in the course of time, seven sages who had made 
+up their mind to undergo pilgrimage with all sincerity arrived 
+there near their (i.e., Mrukundo's) hermitage. 
+16. Then the king, the boy hurried and moved towards them 
+to pay his homage. He offered his reverence to all those sages 
+one after another in due order. 
+17. Seeing the zeal on the part of the boy (to pay reverence) 
+they (i.e., the sages) became pleased. And then blessing him 
+saying 'let you have long life' they all moved ahead on their 
+way to the region as already planned in their minds. 
+1 8. There was (the Sage) Agira adept in spiritual knowledge 
+among them who observed the boy in a relatively more 
+absorbing and intense manner. 
+1 9. With surprise he told the other sages that they were 
+blessing the boy with long life while he was not going to have 
+that in any way. 
+20. (He said): ''This prince-like boy was going to have death 
+on the fifth day then onwards. Hence, as virtuous sages their 
+words should not prove to be untrue. Hence, some way should 
+be found out by which this boy would really have a long life."
+
+## Page 168
+
+156 
+Skanda Puriif}a 
+Hence the king, all the sages became fearful deliberating that 
+their words would not be true. 
+22. Then taking the boy along, they all headed for the world 
+of Brahma. There after seeing Brahma all of them-the god­
+like sages paid their reverence to the Four-faced God (i.e., 
+Brahma). 
+23. Following them, the boy also conveyed his greetings to 
+Lord Brahma. Brahma also blessed the boy saying 'let you live 
+long' . 
+24. The virtuous king, the seven sages then felt quite happy 
+for themselves within. Brahma after resting (i.e., sitting quietly) 
+for a while to relieve his tiredness began speaking to them. 
+25. Brahma said, "Speak out as to what work is intended to 
+be accomplished through me for which all of you have come 
+here." 
+The Sages said: 
+26-28. We were taking a round of the Earth in the context of 
+undergoing pilgrimage. In the course of our journey, we reached 
+the various centres of pilgrimage on the mountainous region 
+of Arbuda. When we reached here, this boy hurried up, came 
+before us and began to worship us. We blessed him saying 
+repeatedly 'let you have long life' . But the God, on the fifth 
+day from now, death will occur to him. So let all of us including 
+you, the Four-faced Brahma, be not liars. 0 God! therefore 
+devise some way out. 
+29. Then with all pleasure Brahma looked at the sages, the 
+boy and said, "With my grace, this boy will attain life-time of 
+an era." 
+30. Then all the sages with pleasure within paid their 
+reverence to the Four-faced God (i.e., Brahma) and returned 
+from Brahma' s kingdom taking the boy along towards his 
+abode. 
+3 1 . Back at home, his father, the virtuous sage Mrukundo 
+highly distressed was weeping along with wife.
+
+## Page 169
+
+vii.l/1. 42. 32-41 
+157 
+He i.e. Mrukundo said to himself: 
+32-33 . 0 son ! a great lover of religion, how could you 
+proceed on the great path of death leaving us behind. How can 
+you surrender to death without fully complying with and 
+completing the worldly duties? I can never live without you, 
+my son. 
+34. When the boy was on his return-path to home, his parents 
+stay put in their abode in the kingdom weeping continuously, 
+0 virtuous king. 
+35. Very happy within, the boy returned back and seeing 
+him on the road back home, his father became very happy. 
+36. Then taking the boy onto his lap, the father asked him 
+the reason behind getting back so late. Then the boy began 
+narrating to him all the efforts of the sages, his taking a look of 
+the kingdom of Brahma and the Lotus-handed God, i.e., 
+Brahma' s boon. 
+37-38. The boy said, "The Creator (i.e., Brahma) himself 
+has made me ageless and immortal. This is a fact. Thus the 
+fever of fear will end from your mind now. Henceforth, I shall 
+also worship the Four-faced God, i.e., Brahma in a similar' way 
+(i.e. the way the sages did in the kingdom of Brahma). I shall 
+make this seat of hermitage of mine quite attractive in this good­
+giver Arbuda mountain." 
+39. Fully pleased hearing those nectar-like words from the 
+son's mouth, the Brahmal)a Mrukando started to speak to him 
+like this. 
+40. He said, "I shall also hurry up and go there to the beautiful 
+mountain of Arbuda." Thus MarkaQ<Jeya went up there to the 
+mountain and kept himself engaged and engrossed in 
+meticulously meditating on the Forefather of gods, i.e., Brahmii. 
+4 1 . 0 king! fruits equivalent to the Pitrumedha Yajiia (i.e. 
+the religious activity of making offerings to fire in connection 
+with remembrance of one' s forefathers) accrue to one by 
+observing the ritual of offering of water to one's forefathers 
+here especially on the full moon day in the month of Sraval).a, 
+(i.e., during July-August).
+
+## Page 170
+
+1 58 
+Skanda Purii1Ja 
+42. 0 king ! one who observes the ritual of offering water 
+here to Bdi.hmal).as by the particular method whereby Rusiyoga 
+(i.e., the yajiia completed the same day) is performed, achieves 
+permanent abode for himself/herself in the kingdom of Brahma. 
+43. The fear of short life to anyone in his/her lineage will 
+never happen to him/her, who undergoes the religious ritual of 
+taking a bath here with usual faith. 
+CHAPTER FOURTY TWO 
+Eminence of Udalakdvara 
+Pulastya said: 
+1 . Then the best of kings, visit the place of worshipable Liilga 
+of Siva which takes away all sins. It is popularly heard to have 
+been founded by the Sage Udalaka. 
+2. A mere touch of this (i.e., the worshipable Liilga) or a 
+look of this or the worship of it specially relieves man of all 
+diseases and makes him entitled to happiness as a house-holder. 
+3. Becoming free of all sins, one attains the greatness of the 
+world of Siva. 
+CHAPTER FOURTY THREE 
+Eminence of Siddhdvara 
+Pulastya said: 
+1 . Then the best of kings, visit the place having the 
+worshipable Liilga of Siva-known as the giver of all fulfilment. 
+Siddha had founded this worshipable Liilga that destroys all 
+sins.
+
+## Page 171
+
+vii. III. 43. 2-3- 44. 1-2 -· 45. 1 
+1 59 
+2. An auspicious pool full of clean water is there where 
+observance of the ritual of bath by man relieves him generally 
+of the crime of Brahmicide. 
+3. 0 king! if a man nurturing any desire in the mind goes 
+there to meditate on the same and after that observes the ritual 
+of taking a bath there, he not only attains the fulfilment of his 
+desires, but the sincerity of his faith enables him attain the 
+supreme passage. 
+CHAPTER FOURTY FOUR 
+Effect of Gaja Tirtha 
+Pulastya said: 
+1 . Then the best of kings, follow the undertaking of 
+pilgrimage towards Gaja rrrtha. In ancient times eight competent 
+elephants had undergone penance here. 
+2. To bear the burden of Earth, Airavata along with other 
+elephants had adopted penance here onto the self, the king. 
+Observance of the religious ritual of taking bath here brings 
+the same results as that of donating elephants. 
+CHAPTER FOURTY FIVE 
+Origin of eminent Devakhata 
+Pulastya said: 
+1 . Then visit the welfare-causing and good centre of 
+pilgrimage called the 'Devakhata' (i.e., God's fame). All the 
+gods here had acquired fame for themselves on their own.
+
+## Page 172
+
+1 60 
+Skanda Puriif}(l 
+2. 0 king ! one who observes the Sraddha ceremony here 
+especially on the New Moon day when the Sun is believed to 
+take its transit along four zodiac signs, attains that supreme 
+position. His forefathers falling victims to their respective bad 
+deeds are also facilitated to tide over the same. 
+CHAPTER FOURTY SIX 
+Eminence of Vyasa Tirtha 
+Pulastya said: 
+1 . Then visit Vyasesvara founded by Vyasa. By having a 
+look of it, the mortals become meritorious and their minds 
+become pure. And this condition/state of affairs continue with 
+one for life-times encompassing seven rebirths. This is how 
+Vyasa himself has stated it to be. 
+CHAPTER FOURTY SEVEN 
+Greatness of the Hermitage of Gautama 
+Pulastya said: 
+1 . Then the best of kings, visit the best hermitage of Gautama 
+which is a giver of fulfilment. The great soul Gautama had 
+earlier undergone penance here. 
+2. In ancient time, there was a highly religious Sage named 
+Gautama. With faith and devotion, he had worshipped the God 
+ਢf gods, Mahesvara. 
+3 . 0 king ! as a result of his devoted worship, a huge 
+worshipable Liilga of the supreme Mahesvara erupted piercing 
+out of the surface of Earth.
+
+## Page 173
+
+vii. III. 47. 4-12 
+1 6 1 
+4. In coincidence with the same, an incorporeal voice was 
+heard from the above saying, "As a result of your devoted 
+worship the big worshipable Liilga has come into presence. 
+You may ask for the conducive boon that is persisting in your 
+mind." 
+5-6. Gautama said, "Let it be one of your volitions Sambhu, 
+the Lord of the World, to remain always close to this hermitage, 
+if you are pleased with my devotion, 0 Lord. May those who 
+look at you here with all truthfulness of devotion, go to the 
+world of Brahma." 
+7. The voice from above said, "One coming here to take a 
+look of me on the fourteenth day in the waning period of Moon 
+in the month of Magha (i.e., January) will obtain the ultimate 
+passage, the best of Brahmal)as." 
+8. 0 king! having said like this, the voice went into abeyance 
+i.e. stopped and the pool there got filled with sacred water. By 
+fulfiling the religious ritual of taking a bath there, a man always 
+facilitates the members of his entire clan cross over the worldly 
+river. 
+9. If one performs the religious ceremony of Sraddha here 
+especially in the waning period of Moon, one is sure to attain 
+the same fruits successfully as that of Sraddha performed at 
+Gay a. 
+1 0. The Sages have sung the glory of making offer of sesame 
+here. The king, it is said that a man is entitled to a stay of 
+equivalent number of years· in the heaven matching the number 
+of the sesame made in the offering. 
+1 1 . Jupiter remains on transit in the Zodiac sign of Leo on 
+the New Moon day falling specially on Monday during the 
+pilgrimage of the hermitage - of Gautama. Availing the 
+opportunity of a bath here especially on that Monday results in 
+obtaining the same result as that of the twelfth bath in the river 
+Godavari. 
+1 2. The outcome of the ritual performance of taking bath in 
+the Bhagirath river for sixty thousand years gets accomplished 
+by a single bath here in Godavari river on the day when Jupiter 
+transits in the Zodiac sign of Leo.
+
+## Page 174
+
+1 62 
+Skanda Puriit}a 
+CHAPTER FOURTY EIGHT 
+Eminence ofKulasantivana Tirtha 
+Pulastya said: 
+1 . Then follow the pilgrimage by visiting that known for its 
+enabling all members of one's lineage to successfully cross 
+over the worldly life. A bath here helps the same. 
+2. Observance of the action/ ritual of making gifts here by a 
+man with due faith leads to the release of his previous ten 
+generations as well as of his ten forthcoming generations in the 
+future, the best of kings. 
+3. In olden time there was a king by name Aprastuto who 
+was fond of sins. Neither did he make any charity . nor did he 
+engage himself in the pursuit of knowledge or meditation. He 
+never used to do any good work. 
+4. People were hardly happy during his reign. His interest 
+was always in others' wives and in meeting out severe 
+punishments to others. 
+5. He used to acquire wealth by both just and unjust means. 
+He also used to kill both the sinners and the non-sinners. 
+6. In course of time old age dawned on him. However. he 
+did not sober down. Then his forefathers exhorted him saying 
+he was only giving effect to the sorrows of Hell by remaining 
+unawakened. 
+His Forefathers said: 
+7-9. Following good dealings, we have always remained 
+intent followers of religious righteousness. Inclined to make 
+offering through charities, performance of Yajiia and penance, 
+we uninterruptedly observe the principle of generosity. By our 
+own deeds we have got the Heavenly Kingdom. But the same 
+is getting shattered by you as a black sheep. As a bad son, you 
+are giving effect to the advent of Hell for us. Hence, you must 
+at least perform something good and adorable. Otherwise all
+
+## Page 175
+
+vii.J/1. 48. /0-20 
+1 63 
+our good deeds cannot be saved. Your evil deeds have already 
+made Hell to be our abode. Side by side the same fate awaits 
+the next ten coming generations of ours. 
+10. Saying like this, all the forefathers extremely depressed 
+as they were left for Hell presuming the same to have been 
+obtained by them. But the king got awakened. 
+1 1 . Then remembering the words of his forefathers he became 
+very distressed and began to cry aloud after getting up early in 
+the morning. His wife began to say: 
+1 2. Indumati said, "What for are you crying aloud, the 
+powerful king? Is everything fine with your body and your 
+kingdom and your palace?" 
+1 3- 1 6. The King said, "0 queen! just now and at the end of 
+my dream, I saw my father and grandfather to be unhappy. 
+Alongwith them I also saw my forefathers in a similar state. 
+My deeds have been visualized to have harmed them. My 
+remaining active in unrighteous deeds has yielded the painful 
+hell for them. This will also be the fate for another ten future 
+in-coming generations. Hence by virtue of good deeds I have 
+to draw them out of such downfall. I awoke by my forefathers 
+saying so. I am sad by rememberitig such words of theirs 
+within." 
+lndumati said: 
+17- 1 9. The king, whatever the grandfathers et. al. have stated 
+are true. I cannot remember you to have done anything good 
+in the past. 0 king! like enabling forefathers to crossover (the 
+worldly life) gets actuated by good sons, spoilt sons get them 
+the passage to Hell and there is no doubt about this. Hence, 
+you send for the prominent Brahmal}as and those adept in 
+religious scriptures and after consulting them do the desirably 
+best in which lies the welfare of forefathers. 
+20. Then the king invited several Brahmal}as adept in both 
+the Veda or in parts of it and those enlightened in religious 
+knowledge and began to entreat them with all humility along 
+with his wife.
+
+## Page 176
+
+1 64 
+Skanda Puriif}tl 
+2 1 . The king asked, "0 best of Brahm;u:tas! please describe 
+with all clarity as to how one's forefathers already in the Hell 
+can successfully cross it over to reach Heaven by fitting deeds 
+as a good son." 
+22. The Brahm;u:tas said, "0 king! with the performance of 
+Pitrumedha Yajfia (i.e., the Sraddha ceremony connected with 
+remembrance of one ' s forefathers) as per due religious 
+· procedure (by a son) forefathers, even of those committing 
+sins, obtain the passage to Heaven." 
+23. The king said, "0 BrahmaQas ! (please) give me the 
+necessary instructions by which I can fulfill the resolve taken 
+up in mind for the same. Whatever duties that may be required 
+on my part for that purpose and to be followed serially, please 
+speak out." 
+24. As the king said like this to the BrahmaQas-the adherents 
+of truth, they explained to him the necessary details and about 
+the rituals of yajiias in totality. 
+25-29. (They, i.e., the BrahmaQas said): The best of kings, 
+first of all, you need to acquaint yourself with the lessons (of 
+Veda) in this regard and have to adopt yourself to the same 
+completely. By this your body will be purified and become. 
+desirably fit for the same. You, the king, have embraced evil 
+deeds since childhood and have committed innumerable sins. 
+Hence, you engage yourself in pilgrimages. With the sprinkling 
+of water on yourself through a bath in all centres of pilgrimage 
+and the attended repentance, you, the king can be virtuous and 
+fit to perform yajfia. There is no other way than this. You go to 
+all centres of pilgrimage including the one by name Prabhasa 
+on the surface of Earth. After visiting all such places of 
+pilgrimage, have a bath everywhere with good faith. With heart 
+within visit tbe centres of pilgrimage accompanied with making 
+offering of gifts/presents there. Whatever bad deeds, get 
+destroyed by this with the arousal of the perception of Brahma 
+within. 0 king! without the observance of ritual of taking a 
+bath through pilgrimage, no fruit accruing to bad deeds of men 
+can be destroyed.
+
+## Page 177
+
+vii.lll. 48. 30-39 
+1 65 
+Pulastya said: 
+30. After listening to the BrahmaQas, the king began to get 
+inclination towards faith. With a keenness for pilgrimage, he 
+began to take a round of such places on Earth. 
+3 1 . Having food as per need, he began to make charities in 
+plenty. Giving due/rightful place to children of subjects in the 
+kingdom, he began to pursue the all powerful truth. 
+32. In course of time and during the coਣuse of pursuit of 
+pilgrimage, the king reached the pool with clean water on the 
+Arbuda mountain. 
+33-34. With devotion within he underwent the ritual of bath 
+there. And as soon as he took the bath there, he became free 
+from the sin of bringing the tormenting Hell for his forefathers 
+and became very happy. Embellished with beautiful garlands, 
+his forefathers began to ascend onto the divine airplanes. 
+35-37. Then the forefathers said, "0 son! you have enabled 
+us to cross over the worldly life through your pilgrimages. Not 
+only we, the same will be the case with the ten forthcoming 
+generations due to the effect of your pilgrimages. 0 best of the 
+earthly beings! by the very activity of taking bath as well as by 
+making offering of water, you have also taken your own self 
+successfully across (the worldly existence). By virtue of your 
+pilgrimage, you have taken our entire clan across as well. 
+Henceforth this centre of pilgrimage will be known as 
+'Kulasantavana' . Now you also leave for Heaven along with 
+us. You can accompany us with your body due to the effect of 
+the pilgrimages." 
+Pulastya said: 
+38. After the completion of dialogues (between both the 
+sides) in this manner, the king then got onto the airplane and 
+went to Heaven along with them (i.e., his forefathers). 
+39. I have narrated to you, the royal Sage, the influence of 
+'Kulasantavana' . I have described you the normal influence 
+that this (the place of pilgrimage) bears on itself. Now if you 
+have anything to ask, please go ahead.
+
+## Page 178
+
+1 66 
+Skanda Puriil}ll 
+Yayiiti said: 
+40. By virtue of which influence could the king attributed 
+with sins go to Heaven along with his body at the end? I have 
+a great curiosity in this regard. 
+Pulastya said: 
+4 1 . On the Full Moon day of Somvati coinciding the time 
+when Moon remains in the most chaotic state, the king had 
+undertaken the religious ritual of bathing here by virtue of 
+which welfare and wellbeing accrued to him. 
+CHAPTER FORTY NINE 
+Eminence of Rima Tirtha 
+Pulastya said: 
+1 . Then one has to visit Rama T"Irtha which the sages have 
+made it their own. The mortals get their sins destroyed by a 
+bath here. 
+2. A bath here keeps one's forefathers satisfied till the time 
+of the final deluge of the world. In ancient times, Para¨urama 
+the best of the bow and arrow bearers and hailing from the 
+lineage of Bhfgu was born here. 
+3. Initially he had undergone penance here with the motive 
+to destroy his enemies. The supreme weapon 'Pa¨upata' was 
+obtained by him here. 
+4. Mahadeva was pleased with his penance after three 
+hundred years and had told that he would be blessed with the 
+enemy-destroyer weapon. 
+5. Accordingly he was handed over with Siva' s supreme 
+weapon called Pa©upata. A mere recall of this (weapon) leads 
+to wearing out of enemies.
+
+## Page 179
+
+vii. Ill. 49. 6-16 
+1 67 
+6- 10. With a gentle smile on him, he, the Bearer of a flag, 
+post on the back of a bull (i.e., Lord Siva) told him (i.e. 
+Parsudima) '0 son of Jamadagni! listen to these powerful words 
+of mine. When you carry this weapon, you will remain invincible 
+to anybody corporeal. This will happen out of my grace 0 
+Bhargava. There can be no doubt about this. This waterpool 
+will bring about welfare of both the mobile and immobile in 
+the three worlds out of my grace. It will be famous as 'Riima 
+tirtha' . The fruits of Pitrumedha Yajiia will accrue to one who 
+performs the 'Sraddha' ceremony here with mind and body 
+together especially on the Full Moon day in the Month of 
+Kiirtika, i.e., November having conjoining of the Krutika Star. 
+All enemies of a king will get destroyed with him having 
+unfading years of stay in the Heaven." 
+Pulastya said: 
+1 1 . After saying like this Mahadeva then disappeared from 
+sight on his own. Pariudima also got distressed with the sorrow 
+of death of his father. 
+1 2. As per his, i.e., the great soul ' s vow subsequent to 
+J amadagni ' s death, he made the offering of blood of his 
+enemies twenty-one times to his forefathers with all pleasure. 
+1 3 . Twenty-one K{atriyas having the mindset to harm, to 
+wound, had killed his father when he was in meditation and 
+not in a condition to retaliate. This is how one bearing weapons 
+arrived in the community/society of Briihma1,1as. 
+14. To avenge the killing of his father he thus got enraged 
+with the Katriyas and undertook penance to kill them. Blessed 
+to be invincible he thus made the offering of blood of twenty­
+one Katriyas to his forefathers. 
+1 5 . He (i.e., Parasurama) made offering of water to his 
+forefathers due to the sole purpose of making the Earth free of 
+Katriyas. From all this that the eminence of this place of 
+pilgrimage has arisen. 
+1 6. Hence with all efforts towards compliance with the 
+procedure, one must observe Sraddha here. This phce has
+
+## Page 180
+
+1 68 
+Skanda PuriitJ.a 
+significance specially in fulfilling the goal of destruction of the 
+K{atriyas. 
+CHAPTER FIFfY 
+Impact of Koti Tirtha 
+Pulastya said: 
+1 . Then one has to go to Koti Tirtha which is a destroyer of 
+all sins. Among the centres of pilgrimage, the king, the birth of 
+Koti was not preceded by any special effort or by undertaking 
+any specific perseverance. 
+2. The king, when the difficult Kali Yuga came on earth, 
+most of the_ people became mean and most of the places of 
+pilgrimage began to lose vigour and shake with agitation. 
+3. There were about three and a half crore places of pilgrim­
+age on Earth. From them about one crore places of pilgrimage 
+were situated on the Arbuda mountain. 
+4. There were one crore in Pu{kara followed by another one 
+crore in Kuruk{etra. There were about half a crore in Varal}asi. 
+Such is the figures of centres of pilgrimage as sung by the gods 
+themselves. 0 king! all gods together used to protect them. 
+5. Whenever they (i.e. the places of pilgrimage) got seized 
+with the fear of pollution by the touch of meanness, they be­
+gan to shift and got stationed here (i.e., at Kop) in greater num­
+ber. 
+6. There .are three and a half crore centres of pilgrimage on 
+this Earth which take away all sins. 
+7. Hence with due endeavour one needs to follow the reli­
+gious ritual of having a bath there especially on the thirteenth 
+day of the waning period of Moon in the month of Bhadrapada 
+(i.e., September). 
+8. 0 king! it is beyond doubt that activities such as taking a 
+bath here or taking the name of God repeatedly or conduct of
+
+## Page 181
+
+vii.l/1. 51. I - l l 
+1 69 
+sacrificial fire here yield three crore times the results/fruits in 
+comparison to other places ofpilgrimage. 
+CHAPTER FIFTY ONE 
+Greatness of Candroudbheda Tirtha 
+Pulastya said: 
+1 . Then the best of kings, follow up your pilgrimage by a 
+visit to that place where the Moon pierces out to bloom. Brought 
+into being by the Lord of the night (i.e., Moon) this centre of 
+pilgrimage takes away sins of humans. 
+2. 0 king ! after Lord Vi{1,1u severed the head of Rahu, he 
+out of enemity had taken the vow on himself to eat away the 
+Moon and the Sun to cause eclipse. 
+3. Then visualising that the demon (i.e., Rahu) was on a 
+venture to drink the unobtainable nectar, the Moon was taken 
+over by fear and he headed towards the interior region of the 
+Arbuda mountain. 
+4. Then piercing the surface of the mountain he made a well­
+entrenched burrow and remaining inside the pit he kept himself 
+engaged in austere penance. 
+5. Then in the course of all-mighty time Mahesvara became 
+pleased to appear before him and said that he might put forward 
+the boon wished for in mind towards his welfare. 
+6-1 1 . The Moon said, "0 the best of gods! Rahu has taken 
+the vow to devour me. He is very strong and as a son of lioness 
+he is indomitable by nature. The virtuous God, he has at present 
+drunk the nectar and has taken hold of me who, as it i s 
+unaccessible. Earlier, when he failed i n the race for nectar 
+among the gods, he tried his best and entered the same race in 
+the guise of assuming the form of God onto himself. However, 
+as he, the rogue, managed to have the nectar for himself, he 
+became free from death. That is how he became a source of
+
+## Page 182
+
+170 
+Slwnda Purii'}a 
+fear for gods themselves. To pacify him, the gods then granted 
+him the worshipable position of a planet and established him 
+as such. I am afraid as he has promised to devour me on the 
+Full Moon day. Out of fear of him, the best of gods, I have 
+made this pit in the peak of this mountain through digging into 
+it. Being deeper in shape, this pit is the best place, the God, for 
+pursuit of penance. Hence do grace me and kill him." 
+1 2- 17. The God said, "He is very strong and tough, cannot 
+be killed by gods and is non-contestable. It is certain that, taken 
+over by anger, Rahu will take you, in custody. However, for 
+the upholding of your image, I shall devise some alternative. 
+Whenever your eclipse (i.e., Lunar eclipse) occurs, people in 
+the World will observe fittingly and desirably the religious 
+activities of taking bath as well as making charities etc. As a 
+result, there won't be the slightest degree of grieving on your 
+part. All such activities of them (i.e., the people) will lead to 
+good deeds which cannot perish. My words will fructify beyond 
+any doubt during the time of Lunar eclipse. There will be nothing 
+different here due to the sole purpose of your undergoing 
+penance on the peak of the mountain here. The Moon pierces 
+out to bloom (i.e., Candroudbheda)-by this name, this centre 
+of pilgrimage will be famous in the world. Those who will 
+observe the ritual of taking a bath here on the day of your 
+eclipse will never have rebirth in this world. It is certain that 
+those who, after taking a bath here on Monday, take a look of 
+the Moon, will earn a place of residence in the world of Moon. 
+1 8. Having said like this the God Hara (i.e., Siva) disappeared 
+from sight. The Moon also, the virtuous king, getting assured 
+and pleased left for his own place.
+
+## Page 183
+
+vii./11. 52. 1-9 
+1 7 1 
+CHAPTER FIFfY TWO 
+The Commanding Peak of the Mountain 
+Pulastya said: 
+1 . Then the best of kings, proceed to the commanding peak 
+of the mountain. Here Gauri had undergone penance and 
+earned her well-being. This is how it has been heard of in the 
+world. 
+2. A man becomes free from all sins by just having a look of 
+it. He also attains fortune of the highest order surpassing a span 
+of seven rebirths. 
+Yayiiti said: 
+3. 0 chief of the Sages! when did the Goddess undergo severe 
+penance there? What for and what is the significance of this ? I 
+have a curiosity. Please speak out. 
+Pulastya said: 
+4. 0 king! listen to the god-given and wonderful story of 
+this as heard of in the world. By merely listening to this one 
+gets relieved of all sins. 
+5 . In olden times, after learning about Siva' s intense 
+attachment with Gauri, all gods taken over with fear, sat down 
+in a group and began to consult one another. 
+6-7. Sitting in separate groups they told themselves that "if 
+the semen of the Three-eyed, i.e., of Lord Siva fell in the region 
+of Gauri, definitely ours as well as of the entire world's downfall 
+would happen. Hence, let all of us step out on the mission of 
+killing the offsprings." 
+8. Discussing amongst themselves like this, all gods then 
+reached the Kailiisa mountain. But there Nandi stopped them 
+from moving ahead without losing any time. 
+9. Nandi said, ''The God is spending time with Gauri in seclusion. 
+Hence all of you please return to your respective abodes."
+
+## Page 184
+
+1 72 
+Skanda Puriif}Q 
+10. Without reacting to the attendant, the gods left quickly. 
+But they sent 'air' in disguise there asking him to tell (Lord 
+Siva). 
+1 1 . They told, "Air, go near Siva and ask him not to produce 
+offsprings for the gods themselves are pleading for the same 
+out of fear." 
+1 2. Then 'Air' hurried to the place where Mahesvara was 
+there for the time being and told him the words aloud as desired 
+of him by the gods. 
+1 3 . The God (i.e., Siva) then became very ashamed of 
+himself. He immediately left the company of Gauri, got up and 
+proceeded ahead saying it would be like that. 
+14. Gauri then became too unhappy to curse the gods. 
+1 5- 1 6. Gauri said: "Like the gods having come here, have 
+deprived me of offspring, similarly they would also be deprived 
+of children. As Air has come to this place which is prohibited 
+for people, he will thus remain without body forever." 
+17. After saying like this, the Goddess who was full of anger, 
+took a deep breath, left her husband behind and headed for the 
+meritorious Arbuda mountain. 
+1 8-20. With her body and mind together, she engaged herself 
+in penance there for a son. Then after a passage of thousand 
+years, Mahesvara along with Indra and other gods came before 
+her. Indra told her with all humility, ''The God Siva out of his 
+own feeling of shame desisted from getting intimate with you. 
+Now he has come back. You evince your greatness by making 
+him your own gracefully." 
+21 . The Goddess said, "The King of gods, my husband left 
+my side as per your words which was conveyed to me in the 
+flow of time. Only after getting a son that I shall again come 
+near him." 
+22. Apprised of her determination in this manner, the God 
+(i.e., Siva) himself came before her and asked her with a gentle 
+smile to be kind towards him. 
+23-27. (The God said): 0 beautiful-faced Parvati! the all­
+round welfare of gods has always remained my pursuit either 
+(be it) as a gift of vision on my part or as my words. I have only
+
+## Page 185
+
+vii. III. 52. 28-36 
+1 73 
+prevented you from having an untimely son. 0 Goddess of 
+gods ! your efforts at our physical union were only in the 
+direction of having a son. Darling, a son will be born out of 
+your own body. Without any doubt, it is going to materialize 
+on the fo1,1rth day (from now) by virtue of my grace. The 
+Goddess of gods, putting together the dirt collected from 
+different parts of your body, you can give shape of a form and 
+appearance as per your sweet will. Assuming many forms, he 
+will be the cause of fulfilment of all gods and especially of the 
+demons as also of the mortals. 
+28. After the Three-eyed God's (i.e., Siva's) saying like this, 
+the Goddess of gods (i.e., Gaurl) became satisfied and began 
+getting into rounds of conversation with her husband in an 
+effective manner. 
+29. Then the king, as the fourth day approached Piirvati taking 
+the body smear with all curiosity in her hand, gave shape to 
+Four-handed Vinayaka as per the words of Hara (i.e., Siva). 
+30. The given shape got life coincidentally as per the words of 
+Hara. Then the great king, the same turned out and became the 
+leader of all mortals on earth. That is how its fame began to spread. 
+3 1 . Glorified as Vinayaka, he became an object of worship 
+of the inhabitants of three worlds. From the mouths of all gods, 
+he was named 'Vinayaka' . 
+32-36. Then all gods got themselves engrossed in 
+performance of activities dear to the Goddess. Then the king, 
+to bless the Goddess with a boon they said, "This son of yours, 
+the Goddess, will always remain in the forefront of us. After 
+complying with his worship at ਤe first instance that all gods 
+will be fit for acceptance of their respective worship. The very 
+act of worship here in this pleasing summit of the mountain is 
+auspicious. Taking a look of it takes away all sins of humans. 
+Those who take a bath here in the good and welfare-causing 
+water of the pool will attain the ultimate place, devoid of old 
+age and death. A bath here, backed with all sincerity and 
+earnestness on the third day of the waxing period of Moon in 
+the month of Magha (i.e., January) will be like welcoming 
+happiness beyond the span of seven rebirths."
+
+## Page 186
+
+1 74 
+Skanda Purii1Ja 
+37. Having said all this, the gods then left for their respective 
+abodes. The God (i.e., Siva) also left for the Kailasa mountain 
+along with the Goddess (i.e. Gauri). 
+CHAPTER FIFTY THREE 
+Origin of Centre of Pilgrimage with Brahma's foot 
+Pulastya said: 
+1 . Then one has to visit the centre of pilgrimage where 
+Brahma was stated to have put his foot, i.e., the Brahmapada 
+Tirtha. This is heard of in the three worlds. Brahma, the Creator 
+of the world had placed his foot here initially. 
+2. Once in the past, Brahma came along with other gods to 
+the beautiful Arbuda mountain to meet the Sages, who were 
+spotless in their disposition/dealings. 
+3-6. The king! after their, i.e., the Gods' pilgrimage to the 
+stationary worshipable Liilga there with due. devotion, the Sages 
+got influenced and in tum began to ask the grandfather god, 
+i.e., Brahma, "With full compliance of the rules and procedures, 
+we have been daily performing the sacrificial fire, observing 
+the ritual connected with fulfilment of our mental resolve, the 
+religious ritual of bathing and fasting. But when shall we be 
+liberated from all these, 0 Brahma? 0 Lord of gods! provide 
+us with the suitably higher instruction in this regard if any, by 
+which we can successfully be able to swim across this fortress 
+of worldly ocean. Suggest us the way to the attainment of 
+Heaven other than the very difficult means of recounting the 
+name of any God repeatedly in the mind or the performance of 
+sacrificial fire or invocation or the ritual connected with 
+fulfilment of a resolve of the mind or making offering of 
+gifts etc." 
+. 7. After hearing those words of them, the God then got an 
+inclination towards beco'lling gracious. He began to deliberate
+
+## Page 187
+
+vii.lll. 53. 8-16 
+1 75 
+on it for a little longer while retaining a bit of smile on his 
+person at the same time. 
+8. Then leaving his own appointed place Brahmii came to 
+the pleasing interior of the mountain. Then as Brahmii began 
+to speak to all the Sages, the characteristic definition with all 
+associate attributes followed. 
+Brahma said: 
+9-14. The Sages! this beautiful Arbuda mountain has a high 
+position as the destroyer of all sins. All of you will attain the 
+divine passage by coming in touch of this. There is no need for 
+observance of the ritual of taking a bath (in religious places) or 
+of making offerings of gifts or for that matter of observance of 
+ritual connected with execution of a mental resolve or of 
+sacrificial fire or of recounting the name of any particular God 
+repeatedly in the mind of one ' s self. I have placed my 
+auspicious foot here for the welfare of the entire world. The 
+insignia of my foot here is itself an indication for thousands of 
+people to attain that ultimate passage. You, the Sages as well 
+as all the gods even can attain the same by a touch of this (i.e., 
+the foot). There is the need of only one duty here, i.e., of ardent 
+faith without any deviation. One attended with reverence here 
+will attain the ultimate position, the distinguished Sages. Those 
+who worship here with water, fruits, varieties of garlands with 
+scented flowers, and apply the perfumed smear followed up 
+with feeding sweets to the Briihmar:tas as per affordability, on 
+the specific Full Moori day in the month of Kiirtika (i.e., 
+November) will obtain the world of mine which, as it is, is 
+difficult to attain without any doubt. 
+Pulastya said: 
+15. After that, all the Sages by worshipping the Foot there 
+attended with complete faith, proceeded to the world of Brahmii. 
+16. Hence the king, the Foot is worshipable with all efforts. 
+The worship of the Foot of the grandfather God, i.e., Brahmii 
+with full faith is a giver of Heaven.
+
+## Page 188
+
+1 76 
+Skanda Puriif}a 
+17. 0 king! there is another highly unusual thing about the 
+Foot here after listening to which people get very surprised. 
+1 8. 0 king! despite the opportunity for expansion in the epoch 
+of Krta, the numerical growth of the white-complexioned 
+among the human race could not be ascertained (who might 
+have paid their homage to Bਜahma's Foot here). 
+1 9. As the epoch of Treta approached then humans with 
+brown complexion could be visible. About them it is well-stated 
+that most of them and in good number used to pay their homage 
+to the Brahma's Foot here. 
+20. In the epoch of Dvapara it (i.e., the worshipable Foot) 
+became light bearing a reddish tinge while in the epoch of Kali 
+this became very small with a black colour in this pleasing 
+interior of the mountain. 
+CHAPTER FIFTY FOUR 
+Eminence of Tri-Puækara 
+Pulastya said: 
+1 . Then go to the place having confluence of the three 
+Pukaras, a celebrated place of pilgrimage which materialized 
+as per the wish of Brahma. It is understood that Brahma had 
+brought them over here to the Arbuda mountain in its honour. 
+2. The king ! in olden times, Brahma as well as other best 
+gods had together come to the summit of the mountain in the 
+context of Vasitha's conducting of a sacrificial session (i.e., a 
+Yajfia). 
+3. Then the great king, taking a vow onto himself Brahma 
+whose birth is unknown, stated that as long as he would remain 
+in the human world, he would keep giving salutation here, every 
+evening, with all earnestness in this confluence of the three 
+Pukaras.
+
+## Page 189
+
+vii./11. 55. 4- 10 
+1 77 
+4. After this as the Lotus-born, i.e., Brahma began to take 
+steps towards PuŎkara, VasiŎ͵ha then began to tell him. 
+VasiBtha said: 
+5-6. The virtuous God ! the time as per the part of your 
+associated role and actions in this Yajiia has arrived. Without 
+compliance of that specific ritual associated with you, this yajiia 
+cannot be completed in a wholesome way. Hence the Lotus­
+born (i.e., Brahma) bring the confluence of the three PuŎkaras 
+here. By this, after enabling yourself to pay the evening 
+reverences here, you, the Lord of gods, can comply with the 
+greatness of your Brahmanhood and be kind enough to 
+discharge the part of your rituals in this sacrificial fire. 
+7. Soon after Vasi{tha said so, Brahma, the grandfather of 
+the world after meditating for a while, brought the three, i.e., 
+the largest, the larger and the smallest Pu{karas and placed the 
+confluence of auspicious water-body there. 
+8. That is how the emergence of the confluence of the three 
+Pu{karas in the Arbuda mountain having such a backdrop to 
+their foundation has been understood to have happened since 
+then. 
+9. One who with utmost sincerity undergoes the religious 
+ritual of taking a bath here on the Full Moon day in the month 
+of Kartika (i.e., November) and complies with the activity of 
+making charities, attains the Eternal World, i.e., the World of 
+Brahma. 
+10. There is an uppermost pool called Savitri on the Northern 
+side of this. Fulfilment of the religious rituals of taking a bath 
+followed up with making offering of gifts lead one to attain the 
+path which promotes happiness.
+
+## Page 190
+
+1 78 
+Skanda Puriil}a 
+CHAPTER FIFTY FIVE 
+Greatness of Riidra Lake 
+Pulastya said: 
+1 . Then the best of kings, visit the auspicious lake, equally a 
+promoter of happiness which is called Riidra. A bath , here 
+attended with devotion results in a man attaining the chief 
+position among attendants. 
+2. In olden times, the God-bearer of the flag on the back of 
+a bull (i.e., Lord Siva) along with his attendants killed the demon 
+Andhaka and thereafter took a bath here in the lake. That is 
+how this lake acquired the formidable name Riidra. 
+3. The virtues of all the centres of pilgrimage accrue on their 
+own to a man, the great king, by virtue of his having a bath 
+here on the fourteenth day of a Month. 
+CHAPTER FIFTY SIX 
+Greatness of the Lord of Caves 
+Pulastya said: 
+1 . Then the best king, follow your visit towards the prominent 
+and Lord of the caves lying hidden. In olden times, people 
+acknowledged to be accomplished in their objectives, used to 
+worship the worshipable Liiiga of Siva placed inside the cave 
+there. 
+2. A man who worships here with whatever wish and longing 
+in the mind, the same goes on getting realized one after another 
+and in the process, he attains liberation, the king, becoming 
+free from all desires at the end.
+
+## Page 191
+
+vii. lll. 57. I -6-58. 1 
+1 79 
+CHAPTER FIFTY SEVEN 
+Greatness of the Undivided Region 
+Pulastya said: 
+1 . Then the virtuous earthly being (i.e., the king), go to the 
+united and undivided forest region. By taking a look of this, a 
+man can never be separated from his fondly desired objects 
+and people. 
+2. Sac'i, the wife of Indra had come here grief-stricken when 
+Nahusa seized the kingdom of the great God Indra. 
+3. Due to the influence of this, she (i.e., Sac'i) could again 
+happen to get back Indra from whom she was incidentally 
+separated. Thus, she had granted a boon to the forests, 0 king. 
+4-5. (The boon is as follows) "Separated from each other, if 
+a man or a woman spends a single night here in this forest, he 
+or she will then get back each other's company as happened to 
+me." Thus a single night's stay (in the forests) can lead to get 
+back one's dear ones, the king. 
+6. The great Brahmat:tas have already sung the glory of this 
+centre of pilgrimage in respect of its granting of fruits. Even 
+the barren women in particular get blessed with offsprings here. 
+CHAPTER FIFTY EIGHT 
+Majesty of Umamahe8vara 
+Pulastya said: 
+1 . Then the king, visit the well-being causing Umamahesvara. 
+Dhundhumana, with sincere devotion, had established this in 
+olden times.
+
+## Page 192
+
+1 80 
+Slamda Puriil'}a 
+2. 0 king! those who worship the matrimonial relations here 
+with utter faith and belief will never have misfortune to affect 
+them beyond the span of seven rebirths. 
+CHAPTER FIFfY NINE 
+Impact of the Mahoujasa Tirtha 
+Pulastja said: 
+1 . Then one has to go to that centre of pilgrimage which is a 
+symbol of great victory and the destroyer of all sins called the 
+Mahoujasa. The king, conforming to the religious ritual of a 
+bath here definitely endows man with brightness. In old time, 
+Indra, tormented with Brahmicide, had made a very pitiable 
+situation for himself. 
+2. Deprived of the splendour, his body began to give a bad 
+smell. Deserted by all godsਝ he became very depressed and 
+began to lament. 
+3. Then the God Indra desired to ask the best Brahmat:ta 
+Brhaspati in this regard. He asked him " 0 Godly Sage! please 
+tell me as to how could there be an increase in my lustre so that 
+I regained my old form completely." 
+4. Brhaspati said, "The best of gods, undertake pilgrimage 
+on the surface of Earth for without this it is certain that there 
+would be no enhancement in your lustre." 
+5. Then the king, Indra moved about several places of 
+pilgrimage and in course of his journey reached the Arbuda 
+mountain. There, he came across a water pond. Out of 
+exhaustion he entered into the ring of water there for a bath 
+and regained his greater brightness. 
+6. Then becoming free from the bad smell on his body, he 
+turned back towards the gods and told them in a jocular manner 
+0 gods, listen to me.
+
+## Page 193
+
+vii. II/. 59. 70. I -5 
+1 8 1 
+7. (He said): "Those who take bath here on the eve of day of 
+the festival observed in honour of lndra (i.e., on the twelfth 
+day of the bright period of Moon in the month of Kartika i.e. 
+October-November) will attain the ultimate passage on the last 
+day of the rising period of moon (i.e., on the Full Moon day) in 
+the same month. They will also be blessed with beautiful bodies 
+for ever in the cycle of repeated births." 
+CHAPTER SIXTY 
+The impact of Jambii Tirtha 
+Pulastya said: 
+1 . Then the best of kings follow up your journey with a visit 
+to the centre of pilgrimage called Jambii. A bath there enables 
+a man to give effect to the earnest desires of mind. The upliftment 
+accruable through Jambii Tirtha is equivalent to all pilgrim 
+centres, the virtuous king. 
+2. There was a K{atriya by name Nimi hailing from the Surya 
+dynasty in olden times. Under the aftermath of age (i.e., at old 
+age) he proceeded to the Arbuda mountain. 
+3. Making a seat for himself there he stayed put there with 
+all sincerity. (In course of time) like the flow of wind, thousands 
+of sages came near him. 
+4. They used to dis-cuss recurrently the good religious 
+discourses of the royal sages amongst themselves . The 
+discourses also included those of the godly sages, from the 
+Purinas as well as those stated by other great minds. 
+5. At some juncture during the course of summing up 
+discussions, a sage named Loma8a present amidst them began 
+to present the account of glorified greatness rising out of all 
+centres of pilgrimage. 
+·
+
+## Page 194
+
+1 82 
+Skanda PuriifJ.£J 
+6. The earthly being! hearing that, the king Nimi became 
+mentally very upset, as he, on his part, had never taken a dip 
+before in the pools of water at centres of pilgrimage. 
+7. Then he asked the best of Brihmar:tas to suggest him a 
+way out with regard to any particular centre of pilgrimage which 
+would yield him the results equivalent to all centres of 
+pilgrimage. 
+8- 10. Lomasa said, "A sense of mercy for you has got onto 
+me, for as I look at you the king, I understand you to be 
+excessively sad. I shall do all that dear to you to help you on 
+pilgrimage. Through the power of invocation, I can bring forth 
+all places of pilgrimage here on this island of Jambu without 
+any doubt. 0 king! have a bath here in this conjunction of all 
+centres of pilgrimage. It is a fact that a bath in the pool of water 
+here in this island beckons welfare." 
+1 1 . Having said so the Brihm81}.a Sage got engrossed in the 
+cycle of meditation. Then all the centres of pilgrimage instantly 
+became evident there. 
+1 2. The manifest Jambu tree there strengthened the faith of 
+the king in the Royal Sage's efforts. Then becoming convinced 
+that the place has a confluence of all centres of pilgrimage, the 
+king took bath there. 
+1 3. After completing the religious ritual of having a bath 
+there, the king then could be able to proceed to Heaven along 
+with his body in fact.· Since then this place of pilgrimage has 
+been remembered as the Jambu T"Irtha. 
+14. The fruits of the Sriddha, i.e., ceremony conducted in 
+connection with remembrance of one's forefathers by a man 
+here on that particular day of Sun transiting in the Zodiac sign 
+of Virgo has been described to be of same importance as that 
+of fruits accruing to the same ceremony at Gayi by the Great 
+Sages.
+
+## Page 195
+
+vii.lll. 61. 1 -3-62. 1 -3 
+1 83 
+CHAPTER SIXTY ONE 
+Eminence of Galigiidhara Tirtha 
+Pulastya said: 
+1 . Then go to the place of pilgrimage holding the clean water 
+of Ganga known as the place bearing Ganga or Gangadhara. 
+Here, the king! Ganga has been held up before its descending 
+down to the earth's surface. 
+2. After invoking Ganga, the God among gods, i.e., Siva 
+after assuming the stationary form of a mountain had held her 
+forcibly under captivity which has already been narrated before. 
+3. Conforming to the ritual of taking a bath here with all 
+sincerity and earnestness on the eighth day of Month accrues 
+one that supreme and ultimate place which is even difficult for 
+gods. 
+CHAPTER SIXTY TWO 
+Eminence of Kate8vara-Gange8vara 
+Pulastya said: 
+1 . Then go to the pilgrim centre known as Katesvara where 
+Gauri herself had built up the worshipable Linga of Siva. And 
+Gailgesvara (i.e., an epithet of Siva) was made by Ganga herself. 
+2. In olden time, there was a conflict between Gauri and 
+Uma. The king, their mutual clash was only in respect of 
+reclaiming each one' s fortune. In this regard Gauri happened 
+to put forward a condition. 
+3. Gauri said, "In our mutual contest through the platform of 
+worship she, before whom Sambhu, i.e., Siva appears in person, 
+will be certainly considered very fortunate."
+
+## Page 196
+
+1 84 
+Skanda PuriirJ.ll 
+4. After saying so, Gauri then hurried up and went to the 
+mountain in search of the worshipable Liilga (of Siva). After 
+making efforts for a long time in this regard, she could finally 
+get hold of one. 
+5. That is after coming across a hollow space in the beautiful 
+mountain resembling the shape and size of the hollow space in 
+the human body above the hip bones, the king, Gauri thought 
+that the same would serve her purpose of a worshipable Liilga 
+of Siva and she began to worship it for a month. 
+6. Then seeing her earnest love Mahesvara became pleased 
+and appeared in person before her asking her to put forward 
+the boon sought by her, to him. 
+7- 10. Gauri said, "0 God, out of jealousy for a rival wife, I 
+perceived this hollow space in the mountain similar as a 
+worshipable Liilga and then prepared myself to worship it. 
+Hence let this be worthy of worship in the world as Katesvara. 
+Let any woman either deserted by her husband or very distressed 
+for having a rival counterpart of hers in matrimony be freed 
+from torment soon after her visit here and having a look of 
+this. Blessed with the fortune of a son, let her son be as dear to 
+her as her husband. The God! you had already granted a similar 
+boon consequent to Ganga' s worship. Hence, let the two 
+worshipable Liilgas here deserve a look of the rulers of men, 
+i.e., the kings equally. Let it, in particular, kill the weak point 
+of any woman regarding a rival wife in matrimonial relations. 
+Always a giver of happiness and good fortune, let this confer 
+wish fulfilment on all men."
+
+## Page 197
+
+vii./11. f.3. /-9 
+Pulastya said: 
+CHAPTER SIXTY THREE 
+Eminence of fruits of 
+Arbuda as heard of 
+1 85 
+I . This is all that I have summarised to you about the 
+eminence of Arbuda which has been proclaimed and which 
+you were asking for. 
+2. Describing about them including their number will take 
+hundreds of years. There are numerous centres of pilgrimage 
+as well as sacred places in the mountain of Arbuda. Step by 
+step one can come across hermitages put up by prominent 
+Sages. 
+3. The king! there is no such place of pilgrimage, no such 
+place endowing one with perfection, no such force, river or 
+God in the world, which cannot be found out there in the Arbuda 
+mountain. 
+4. The king! those who definitely put up here in this beautiful 
+Arbuda mountain by virtue of their good deeds, do not have 
+any visible inclination even for Heaven. 
+5 . What utility can be in his remaining alive, i n his 
+accumulation of wealth or in his continuous muttering of God's 
+name within himself, the king, if he does not subdue his intellect 
+and take a look of the Arbuda which is complete in itself. 
+6-7. 0 king! whether they are insects or flies, or are animals 
+or birds or deer or are born out of heat or eggs or plants or from 
+the womb, when they die on this Arbuda mountain either with 
+desire or without desire, they attain proximity of Siva becoming 
+free from old age and death. 
+8. The king, one who listens to this Puril}a everyday attended 
+with due faith will attain the same fruits of pilgrimage to Arbuda. 
+9. Hence with all care and efforts, one needs to undertake 
+pilgrimage there (i.e., to Arbuda). By such desire, the self attains 
+spiritual fulfilment in this as well as the other world.
+
+## Page 198
+
+1 86 
+Skanda Puriif}Q 
+INDEX 
+A 
+Acalesvara 1 3, 15, 19, 20 
+Aditi 40 
+Aditya 1 34 
+Agnihotra 5 
+Agni 8, 93, 133 
+Agni_`oma Yajiia 19, 
+45, 7 1 , 94, 98 
+Ahalyii 4, 5, 8 
+air 1 3, 4 1 , 54, 64, 65, 94, 107, 
+1 38, 1 72 
+Airavat 4 1 , 1 1 6 
+Ajapiila 23, 24, 27 
+Ambari_a 4 1 , 42, 43, 44, 46 
+Andhaka 1 78 
+Aprastuto 1 62 
+Arbuda l , 2, 9, 10, 1 1 , 12, 
+13, 15, 
+16, 17, 22, 23, 28, 29, 32, 35, 37, 44, 
+49, 54, 56, 58, 60, 64, 67, 68, 7 1 , 73, 
+75, 76, 78, 79, 83, 84, 95, 100, 107, 
+1 1 2, 1 1 9, 1 20, 1 23, 125, 126, 127, 1 36, 
+1 37, 1 39, 140, 146, 148, 1 52, 153, 1 56, 
+157, 165, 168, 169, 172, 174, 175, 176, 
+1 77, 1 80, 1 8 1 , 1 85 
+Arundhat'i 1 2, 1 8 
+Asu 84 
+Asvamedha 45 
+austerities 2, 4, 3, 15, 1 8, 25, 3 1 , 35, 
+45, 46, 49, 53, 56, 60, 62, 64, 65, 148 
+Asvina 1 7 1 34, 1 35 
+Aswin! 59, 1 34 
+B 
+Bakali 67, 68 
+Bakila 75 
+Bala 40 
+Bela 1 2 
+Bhlma 149 
+Bhadrakan:la 2 1 , 22, 23 
+Bhiidrabh 1 68 
+Bhiirgava 49, 1 67 
+Bhfgu 1 66 
+Bilva 7, 1 2 
+bird 10, l l , 1 2, 20, 2 1 , 40, 43, 56, 58, 
+8 1 , 93, 94, 1 1 6, 1 23, 1 28, 149, 1 85 
+Biilakhilya 5 1 , 53 
+body 166 
+Brbaspati l l9, 120 
+Brahmii 2, 14, 19, 29, 30, 3 1 , 32, 42, 
+64, 65, 96, 1 08, 1 09, l l O, I l l , l l 8, 
+1 19, 1 2 1 ; 1 22, 1 24, 125, 129, 1 30, 1 32, 
+145, 147, 1 56, 1 57, 
+1 6 1 , 164, 1 74, 175, 176, 177 
+Brahmicide 159, 1 80 
+Brahmastra 1 30, I J I 
+brown complexion 1 76 
+buffaloes 77, 78, 79 
+c 
+Caitra 57, 70, 72, 143 
+Cakra 43, 8 1 
+calf 85, 87, 88 
+camel 77, 78 
+Cand'i 1 1 8, 1 19, 1 35, 1 36, 1 37 
+Candiki 1 32 
+Catunnasya 45 
+celestial appearance 5 1 
+centre of pilgrimage I , 1 6, 17, 29, 32, 
+37, 40, 4 1 , 5 1 , 53, 55, 56, 6 1 , 62, 74, 
+78, 79, 80, 93, 97, 100, 1 0 1 , 1 1 2, 1 1 3, 
+l l 7, 1 1 8, 1 34, 1 36, 1 37, 144, 1 50, 
+1 5 1 , 1 52, 156, 159, 164, 165, 1 68, 169, 
+170, 174, 1 78, 179, 1 80, 1 8 1 , 1 82, 1 85 
+Chaitra 26, 27, 28 
+Cleft 9 
+cleft 2, 8, 9, 10 
+country 1 0, 25, 36 
+cow 2, 3, 8, 24, 30, 3 1 44, 58, 77, 84, 
+85, 86, 87, 9 1 , 92, 93, 101 
+Con 8 1 , 1 08, 1 09, 1 10, I l l , 146 
+con I , 99 
+Curse 5, 7, 8, 9, 60, 6 1 , 84, 9 1 , 96, I l l , 
+1 16, 1 37, 1 38, 1 39, 142, 145, 1 72 
+Cyavana 54
+
+## Page 199
+
+Index 
+D 
+Dak_ya 1 44 
+Damayanti 149 
+Da5arna 27 
+Deer 1 28 
+deer 10, 1 1 , 40, 82, 83, 85, 87, 88, 90, 
+9 1 , 94, 1 05, 1 1 6, 1 49, 1 85 
+Devala 20, 1 06 
+Devlipi 96, 97 
+Dhundhumiina 1 79 
+disorder 42, 1 28, 1 29, 147 
+doe 4, 1 2, 18, 33, 45, 47, 57, 62, 67, 70, 
+78, 8 1 , 82, 83, 84, 85, 1 24, 1 25, 147 
+1 85 
+• 
+dog 35, 7 1 , 94, 149, 1 50 
+donation of bulls 143 
+Dvlipara 3 1 , 1 76 
+Dvlipara Yuga 30 
+E 
+earrings 5, 6, 7, 8 
+F 
+famine 25, 30 
+fire 2, 8, 1 3, 17, 1 9, 27, 29, 30, 34, 45, 
+52, 64, 66, 75, 86, 90, 93, 94, 95, 96, 
+97, 98, 99, 1 0 1 , 1 09, 1 19, 1 3 1 , 1 33, 
+1 35, 1 37, 1 38, 152, 153, 1 57 
+firewood 4, 1 1 
+G 
+GIU}e8a 1 , 39, 1 03, 105 
+Gandharva 1 34 
+Gandharvas 12 
+Gangi 23, 28, 29, 32, 34, 106, 
+140, 14 1 , 142, 143, 1 5 1 , 1 83, 1 84 
+Garuda 43 
+Gauri 1 4, 55, 78, 102, 103, 1 2 1 , 140, 
+141, 142, 143, 1 7 1 , 172, 173, 1 74 1 83 
+1 84 
+• 
+• 
+Gautami 1 6, 17, 1 8 
+Gautama 4, 5, 8, 15, 1 60, 1 6 1 
+Gayi 1 8, 36, 6 1 , 101, 1 17, 1 32, 1 5 1 , 
+1 6 1 , 1 82 
+Given'>f Wealth 1 33 
+Gilava 1 50 
+Godavari 1 6 1 
+gold 6, 26, 34, 79, 80, 1 05, 1 49 
+Gomali 1 2 
+Giyatrl Mantra 1 9, 78 
+H 
+Hara 70, 142, 1 70, 173 
+Himilaya 3, 4, 8, 9, 29, 
+45, 142 
+Hollow 1 
+hollow 3, 4, 1 84 
+1 87 
+horse 7, 8, 23, 34, 83, 90, 127 1 30 
+150 
+• 
+• 
+human race 176 
+humanhood 82 
+Hunger 1 15 
+hunger 7, 25, 5 1 , 56, 82, 84, 94 
+I 
+in 1 6 1 
+lndra 7 , 9 , 10, 1 4, 1 5, 20, 29, 30, 3 1 , 
+38, 40, 4 1 , 42, 48, 64, 66, 67, 68, 69, 
+70, 82, 94, 95, 96, 97, 98, 101 , 105, 
+1 14, 1 15, 1 16, 1 17, 1 1 8, 1 1 9, 1 2 1 , 129, 
+1 3 1 , 1 32, 1 34, 1 35, 147, 148, 1 72, 179 
+1 80, 1 8 1 
+• 
+Indumati 163 
+Uvara 133 
+J 
+Jamadagni 167 
+Jambu 1 5 1 , 1 8 1 , 1 82 
+Jitendriya 41 
+Jfiiina Yoga 43 
+Jupiter 1 6 1 
+K 
+ya 83, 97, 1 67, 1 68, 1 8 1 
+a 1 08, 109, 1 1 2, 1 13, 1 32 
+Kadru 1 37
+
+## Page 200
+
+1 88 
+Kailasa 152, 1 7 1 , 1 74 
+Kali Yuga 29, 30, 3 1 , 32, 4 1 , 
+43, 44, 1 68 
+Kalinga 64, 66, 67, 68 
+Kanakhala 79, 99 
+Kapilii 44, 83, 84, 85, 86, 87, 88, 89, 
+90, 9 1 , 92, 93 
+Kapiilamocana 99 
+Kediira 23, 26, 27, 28, 29 
+Kediirniith 1 5 1 
+Ketaki 1 1 0, I l l 
+Kesava 44, I l l 
+King 2, 3, 4, 5, 6, 7, 8, 1 0, 14, 15, 1 8, 
+19, 20, 2 1 , 22, 23, 24, 25, 26,27, 28, 
+29, 3 1 , 32, 33, 34, 35, 37, 38, 39, 40, 41 
+42, 43, 44,45, 46, 47, 48, 49, 50, 5 1 , 
+52, 53,54, 55, 56, 57, 58, 59, 62, 64, 65, 
+67, 68, 69, 70, 7 1 , 72, 73, 74, 75, 76, 
+77, 78, 79, 80, 8 1 , 82, 83, 84, 85, 86, 
+87, 88, 90, 9 1 , 92, 93, 94, 95, 96, 97, 
+98, 99, 1 00, 1 0 1 , 1 02, 103, 104, 105, 
+106, 107, 108, 109, 1 1 1 , 1 1 3, 1 14, 1 15, 
+1 1 6, 1 1 7, 
+1 1 8, 
+1 1 9, 1 20, 1 2 1 , 1 23, 
+124, 125, 1 26, 128, 129, 1 30, 1 3 1 , 132, 
+135, 1 36, 1 37, 1 38, 1 39, 140, 141, 142, 
+143, 145, 1 47, 1 48, 149, 150, 152, 153, 
+154, 155, 1 56, 1 57, 158, 1 59, 160, 161, 
+162, 1 63, 1 64, 1 65, 1 66, 167, 1 68, 1 69, 
+1 70, 1 7 1 , 1 72, 1 73, 174, 175, 176, 1 78, 
+179, 1 80, 1 8 1 , 1 82, 1 83, 1 84, 1 85 
+Kiirnadeva 126, 144, 1 5 1 , 1 52, 153 
+Kotisvara 35, 36 
+Kriyii Yoga 43, 44 
+Kiirtika 44, 47, 50, 1 67, 175, 177, 1 8 1 
+Krutika Star 167 
+Kurukãetra 45, 53, 168 
+L 
+Leo 1 6 1 
+leprosy 149 
+Liiiga 13, 1 4, 1 5, 20, 22, 23, 
+35, 36, 37, 48, 49, 50, 53, 54, 107, 109, 
+1 10, 1 1 1 , 1 1 2, 1 1 3, 140, 144, 145, 146, 
+147, 1 48, 1 5 1 , 1 58, 1 60, 1 6 1 , 174, 178, 
+1 83, 1 84 
+liars 156 
+Loma8a 1 8 1 , 1 82 
+M 
+MBI}ikarl}ikii 5 1 , 53 
+Madayanti 5, 6 
+Mahaloka 1 8 
+Skanda PuraT}a 
+Mahiideva 34, 35, 36, 48, 49, 54, 60, 
+79, 96, 141, 142, 145, 
+147, 1 66, 167 
+Mahe8vara 55, 1 1 1 , 1 14, 144, 150, 153, 
+1 60, 1 69, 172, 1 84 
+Mahi 1 19, 1 2 1 , 122, 1 24, 1 25, 1 26, 
+1 28, 1 29, 1 30, 1 3 1 
+Mahoujasa 1 80 
+Mainiika 9 
+Makara 1 2 
+Mandikini 14, 23 
+Mankana 32, 33, 34 
+Manki 77, 78, 79 
+Miigha 1 2, 28, 58, 104, 1 6 1 , 1 73 
+Miirnu lake 1 1 3, 1 14, 1 1 6, 1 17, 1 1 8 
+Moon 
+50, 57, 58, 77, 96, 1 1 3, 1 35, 
+1 39, 148, 149, 1 60, 1 6 1 , 166, 1 67, 1 68, 
+1 69, 170, 1 73, 175, 1 77, 1 8 1 
+moon 1 3 , 14, 17, 1 9, 23, 26, 
+27, 28, 36, 37, 38, 39, 40, 45, 47, 48, 
+55, 6 1 , 70, 72, 76, 
+104, 105, 1 07, 1 17, 
+1 32, 1 34, 
+1 35, 143, 1 57, 1 8 1 
+Mother ofthe World 67, 66, 69, 1 2 1 
+Miirk81}4eya 1 54, 1 57 
+Mrukando 1 54, 1 55, 1 57 
+Mudgal 1 1 3, 1 14, 1 1 5, 1 1 6, 1 17, 1 1 8 
+N 
+Nahusa 1 79 
+Namucchi 22 
+Nandi 1 4 1 , 1 7 1 
+Nandini 2 , 3 
+Nandivardhana 9, 1 0, 1 1 , 1 2 
+Niiga 1 37 
+Niiga Lake 138 
+Niiga T"Jrtha 15, 1 6, 1 37
+
+## Page 201
+
+Index 
+Nigas 7, 8, 1 37, 1 38, 1 39 
+Nigatirtha 1 1 
+Nigavati 26 
+Nimi 1 8 1 , 1 82 
+non-attachment 78 
+non-edible 96 
+Narada 1 8, 20, I I 8, 1 22, I 23, I 24, 
+I25, 1 36, 141 , 142 
+Niyaki 1 6, 1 7 
+0 
+offering of barley I48, 1 50 
+outcaste 3 1 , 94 
+p 
+Para8urima 1 66, 167 
+parrot 20, 95 
+Parthi 106 
+Paiicigni I 3 
+Pauãa 23, 36 
+1 89 
+69, 70, 7 1 , 72,2, 3, 4 73, 74, 75, 76, 77. 
+79, so; s t . s2. 83, 84, 87, 89, 90, 9 I , 
+92, 93, 94, 95, 96, 97, 98, 1 02, I 04, 
+105, 1 06, 108, 1 1 I , 1 1 2, 1 1 3, 1 14, 1 1 6, 
+I I 8, I 20, I 2 I , I 24, I 25, I 35, I 37, 1 39, 
+I40, 14I, 143, I44, I47, 148, 1 50, I 5 I , 
+I 54, I 55, I 58, I 59, I 60, I 62, 
+I 65, 166, 
+I 67, I 68, I 69, 1 7 1 , I74, I75, I 76, I 78, 
+I 79, I 80, I 8 I , I 83, I 85 
+Puskar 97, I 06 
+Q 
+qualities of Heaven 1 1 4 
+R 
+åãi dhinya 1 8 
+Riidra 1 3 I , I 78 
+rain 2, I 3, 24, 94, 96, 97 
+Rajas 17, 65 
+Rihu 5 1 , 1 69, 1 70 
+righteous 6, 48, 7 1 , 1 1 2, 1 26, 137 
+righteousness 30, 3 1 , 56, 90, 1 1 5, 1 62 
+Rupa Tu1ha 37 
+Philguna 1 9, 55, 1 1 3, I I 7, I48, I49 
+Pilgrimage I 6, I 7, 24, 29, 3 I , 36, 37, 
+40, 45, 53, 54, 55, 56, 7 I , 72, 92, 99, 
+I I 2, I 22, 1 36, 1 40, 148, I55, I 56, I 59, 
+s 
+1 6 I , l 62, 1 64, 1 65, I69, I74, I 80, I 82, 
+I 85 
+Pindaraka 77, 78 
+Pitrumedha 1 57, I 64, 1 67 
+place ofpilgrimage I , 2, 10, 1 1 , I5, I6, 
+I7, 23, 29, 3 1 , 32, 4 I , 44, 55, 57, 6 I , 
+63, 74, 77, 8 1 , 82, 92, 98, 99, I OO, I O I , 
+I 08, I 52, I 64, 165, 1 67, I68, I 76, I 80, 
+I 82, I 83, I 85 
+Prabhisa I , I OO, I 5 1 , I 64 
+Prateepa 97 
+Pravodhini Vrata 47 
+prostitute 26 
+Parvafi 66, 102. I 3 I , I72, I73 
+Pisupata I 66 
+Puãä 44, 100, I 68, I76, I 77 
+Pulastya 15, 16, I 8, I 9, 2 I , 23, 27, 29, 
+32, 
+33, 35, 36, 37, 38, 39, 40, 4 I , 43, 
+44, 47, 48, 49, 50, 5 1 , 52, 53, 54, 55, 
+57, 58, 59, 60, 6 1 , 62, 64, 66, 67, 68, 
+Sambhu 68, 103, 1 45, 1 5 1 , 1 6 1 , 1 83 
+Sarillcara 1 . 10. 13, 1 4, 2 1 . 23, 33, 34, 
+35, 36, 42, 47, 48, 49, .55, 6 1 , 74, 78, 
+79, 1 10, I l l , 1 46 
+Sanlaksha 72 
+Sachi 1 79 
+sacrificial fire 3, 54, 60, 65, 7 1 , 76, 82, 
+94, 95, 98, 105, 1 19, 1 69, 174, 175, 177 
+Sadgati 48 
+Sage VasiOtha 2, 3, 7, 9, I I , 1 2, 1 3, 1 8 
+sage VasiOtha 1 2, 1 8, 24 
+Sandha 98 
+Santanu 97 
+Sarasvau 3, 23, 28, 32, 34, 1 2 1 , 1 23 
+Sriddha 1 7, 1 8, 50, 57, 58, 6 1 , 74, 80, 
+8 1 , 82, 92, 93, 1 0 1 , 1 1 2, 1 1 3, 1 17, 132, 
+1 33, 1 36, 
+1 39, 1 60, 1 6 1 , 1 64, 1 67, 1 82 
+Sriv&J}a 1 1 , 19, 1 39, 1 57
+
+## Page 202
+
+190 
+Se}anaga 1 37 
+Sati 144 
+Saudlisa 5, 6, 7 
+sea 9, 29, 33, 43, 1 54 
+semen 17, 1 7 1 
+sesame 1 2, 98, 1 1 3, 1 33, 16 1 
+Siddha 47, 48, 1 5 8 
+Siddhesvara 47, 4 8 , 158 
+Skanda Puriif}Q 
+Teacher 1 19, 120 
+teacher 4, 5, 7, 8, 62, S6 
+Thousand-eyed 97, 1 1 7, 1 35 
+thousand-eyed 68, 70 
+tiger 5, 83, 84, 85, 86, 87, 88, 90, 9 1 
+Tilaka 39, 40 
+to Heaven 53, 57, 6 1, 67, 70, 
+76, 93, 97, 1 22, 123, 1 24, 147, 164, 
+165, 1 66, 182 
+to heaven 32, 76 
+Treta Yuga 30 
+Trivikrama 40 
+sin 2, 7, 1 8, 1 9, 23, 28, 3 1, 32, 34, 37, 
+4 1 , 46, 47, 48, 49, 50, 5 1, 54, 55, 56, 
+57, 58, 60, 66, 72, 73, 74, 77, 78, 79, 
+80, 8 1 , 82, 83, 84, 86, 87, 89, 90, 9 1, 
+92, 98, 99, 1 00, 1 0 1 , 104, 106, 1 13, 
+u 
+117, 1 1 8, 1 29, 13 1, 1 32, 134, 136, 1 37, 
+138, 1 40, 1 45 , 148, 1 49, 150, 158, 
+162, 164, 1 65,166, 1 68, 169, 171 , 173, 
+175, 180 
+Siva 1 3, 14, 1 9, 20, 22, 23, 26, 27; 28, 
+33, 35, 36, 47, 48, 49, 50, 54, 60, 68, 
+70, 99, 10 1 , 103, 107, 1 10, 1 1 1 , 1 12, 
+1 16, 1 1 9, 12 1, 1 40, 14 1 , 142, 143, 
+144, 145, 1 46, 147, 148, 15 1 , 153, 1 58, 
+1 66, 167, 1 70, 1 7 1, 172, 173, 174, 1 78, 
+1 83, 1 84, 1 85 
+sinners 10, 1 62 
+Skanda 1 , 1 02, 103 
+Skandha 22 
+Solar eclipse 80 
+solar eclipse 45, 5 1, 53, 79 
+Sukra 49, 50 
+Sukresvara 50 
+Sumati 79 
+Sun 2, 1 2, 5 1 52, 96, 101, 1 19, 1 20, 
+154, 1 60, 169, 1 82 
+Sunandii 98, 99 
+Suprabha 83 
+Surya 23, 18 1 
+Siivitri 66, 12 1 , 123, 177 
+T 
+,-utha 
+16, 37, 54, 55, 57, 59, 62, 72, 
+. 77, 79, 8 1, 83, 93, 99, 100, 108, 1 13, 
+1 34, 1 37, 159, 160, 162, 166, 168, 169, 
+174, 180, 18 1, 182, 1 83 
+Tagaka 7, 8 
+Udiilaka 158 
+Umii 1 83 
+Uttalika 4, 5, 6, 7, 8 
+Asvina 14, 19, 1 32 
+v 
+Vrtra 42 
+Vaideha 27 
+Vapu 37, 39 
+Avarta 97 
+Varul}a 1 33 
+Vasi~tha 1 , 2, 3, 4, 6, 7, 8, 9, 10, 1 1 , 14, 
+1 8, 1 9, 24, 25, 27, 176, 177 
+Vei}U 20, 21 
+Vi~J}U 1 4, 30, 3 1 , 40, 41 , 42, 43, 44, 45, 
+46, 47, 57, 58, 8 1 , 96, 106, 108, 109, 
+1 10, 1 1 1 , 1 12, 1 19, 147, 169 
+Vidarbha 149 
+Viniiyaka 102, 103, 104, 105, 106, 173 
+Virabhadra 22 
+Virgo 1 82 
+Viswiimitra 94 
+Viswiivas 47, 48 
+Viilakhilya 140, 144, 145, 146, 147, 1 5 1 
+Viimadeva 19 
+Viiriil}asi 1 5 1 , 168 
+Vrutra 1 17 
+Vylisa 1 , 160 
+Viiyu 133
+
+## Page 203
+
+Index 
+w 
+Welfare 2, 6, 7, 1 7, 23, 34, 38, 43. 58, 
+59, 69, 70, 72, 75, 77, 1 02, 1 04, 1 12, 
+1 17, 1 1 9, 1 26, 1 3 1 , 1 36, 146, 153, 159, 
+163, 1 66, 1 67, 1 69, 1 72, 173, 1 75, 1 82 
+white-complexioned 1 76 
+with 1 66 
+without body 1 72 
+woman I I , 1 6, 17, 37, 38, 39, 5 1 , 52, 
+53, 74, 75, 99, 1 06, 1 19, 1 2 1 , 123, 124, 
+1 25, 1 29, 1 32, 1 52, 1 53, 179, 1 84 
+Women 1 6, 1 7, 3 1 , 52, 83, 84, 
+1 23, 1 35, 144, 145, 179 
+y 
+Ya 80 
+Yama 55, 56, 57, 7 1 , 82, 
+92, 1 28, 1 30, 1 33 
+Yayati 1 5, 1 6, 17, 29, 40, 70, 108, 1 14, 
+1 1 8, 140, 1 44, 1 5 1 , 1 66, 1 7 1

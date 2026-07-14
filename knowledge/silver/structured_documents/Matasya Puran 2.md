@@ -1,0 +1,5814 @@
+# Matasya Puran 2
+
+**Document ID:** DOC-6B5B595C4272
+**Language:** english (latin)
+**Pages:** 587
+**Class:** ocr_overlay
+**SHA256:** `6b5b595c427268883fe8ff8e424a54b96be1c16761c9b21015f011dc38138771`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+Parimal Sanskrit Senes No. 93
+
+ao TM Tad aTYSaTA
+MATSYA MAHAPURANA
+
+(An Exhaustive Introduction, Sanskrit Text, English Translation,
+Scholarly Notes and Index of Verses)
+
+Vol. il
+Chapters : 151-291
+
+Translated into English by
+A Board of Scholars
+
+An Exhaustive Introduction by
+Shantilal Nagar
+
+Edited with Scholarly Notes by
+K.L. Joshi
+
+PARIMAL PUBLICATIONS
+DELHI
+
+## Page 2
+
+il
+
+Published by
+
+PARIMAL PUBLICATIONS
+Office : 27/28, Shakti Nagar, Delhi-110007 (INDIA)
+Retail Outlet : 22/3, Shakti Nagar, Delhi-110007 (INDIA)
+ph. : +91-11-23845456, 65441516, 47015168
+e-mail : parimal@ndf.vsnl.net.in
+url : http://Awww.parimalpublication.com
+
+© Publishers
+
+All rights reserved. No part of this publication may be reproduced or transmitted in any
+form or by any means, electronic or mechanical, including photocopy, recording or any
+information storage and retrieval system, without permission in writing from the publishers.
+
+First Edition : Year 2007
+
+ISBN : 81-7110-305-7 (Set)
+81-7110-307-3 (Vol. I)
+
+PRICE : Rs. 1600.00 (Set of 2 Vols.)
+
+Printed af
+
+J.N.Printers
+251, Street No.8, Padam Nagar, Delhi - 110007
+
+## Page 3
+
+lil
+
+CONTENTS
+
+CHAPTER 151
+Collective attack of Danavas over Visnu ]
+CHAPTER 152
+Terrific battle of Visnu with Mathana and other Daityas 4
+CHAPTER 153
+Dialogue between Visnu and Indra, battle of gods and Daityas— defeat of gods 6
+CHAPTER 154
+Taraka commands to free gods captured by, description of marriage of Siva and Parvati 21
+CHAPTER 155
+Quarrel between Siva and Parvati 65
+CHAPTER 156
+Secret consultations between Kusumamodini and Parvati and other related events 68
+CHAPTER 157
+Parvati’s curse on Viraka and boon to Ekanarhsa 70
+CHAPTER 158
+Parvati’s prayer by Viraka 72
+CHAPTER 159
+Birth of Skanda and his praise by the Siddhas 76
+CHAPTER 160
+Battle between Skanda and Taraka and death of the demon 719
+CHAPTER 161
+Tapas of Hiranyakasipu, arrival of Narasimha in the court of Hiranyakasipu 82
+CHAPTER 162
+Description of the form of Narasirhha by Prahlada 88
+CHAPTER 163
+War between Narasimha and Hiranyakasipu 91
+CHAPTER 164
+Emerging of the universe out of the golden lotus 98
+CHAPTER 165
+Arrangement of all the four yugas 100
+CHAPTER 166
+Description of delusion 102
+CHAPTER 167
+
+Visnu sleeps in the ocean 103
+
+## Page 4
+
+iV
+
+CHAPTER 168
+
+Emerging of the five Mahabhitas and a lotus from the navel of Narayana 108
+CHAPTER 169
+
+Manifestation of Brahma from the lotus of the navel 109
+CHAPTER !70
+
+Birth of Madhu and Kaitabha 111
+CHAPTER 171
+
+Emerging of the mind-born sons of Brahma 113
+CHAPTER 172
+
+The gods pray to Visnu against the atrocities of Taraka | 117
+CHAPTER 173
+
+Preparation of war by the Daityas and Danavas 121
+CHAPTER 174
+
+God’s compaign for war 123
+CHAPTER 175
+
+Battle between the gods and the Danavas 127
+CHAPTER 176
+
+Conflict between gods and Tarakamaya 132
+CHAPTER 177
+
+Conflict between gods and Tarakamaya 136
+CHAPTER 178
+
+Conflict between gods and Tarakamaya 140
+CHAPTER 179
+
+The killing of Andhaka 145
+CHAPTER 180
+
+Glory of Varanasi and the granting of boon to Yaksa by Lord Siva 15]
+CHAPTER 181
+
+Mahatmya of Avimukta Ksetra 159
+CHAPTER 182
+
+Mahatmya of K4si-tirtha 161
+CHAPTER 183
+
+Mahatmya of K4si-tirtha 163
+CHAPTER 184 |
+
+Mahatmya of Avimukta-tirtha 171
+CHAPTER 185
+
+Mahatmya of Avimukta-tirtha 175
+
+## Page 5
+
+CHAPTER 186
+
+Narmada Mahatmya
+CHAPTER 187
+
+Narmada Mahatmya
+CHAPTER 188
+
+Narmada Mahatmya
+CHAPTER 189
+
+Narmada Mahatmya
+CHAPTER 190
+
+Narmada Mahatmya
+CHAPTER 191
+
+Narmada Mahatmya
+CHAPTER 192
+
+Narmada Mahatmya
+CHAPTER 193
+
+Narmada Mahatmya
+CHAPTER 194
+
+Narmada Mahatmya
+CHAPTER 195
+
+Narration of Pravaras of Bhrgu race
+CHAPTER 196
+Descriptions of Angira Family
+CHAPTER 197
+Description of Atn family
+
+CHAPTER 198
+Description of Visvamitra family
+
+CHAPTER 199
+Pravaras of Maharsi Kasyapa
+
+CHAPTER 200
+Description of Vasistha family
+CHAPTER 201
+
+Description of Parasara family
+
+CHAPTER 202
+The description of the Pravaras
+
+CHAPTER 203
+The families of Dharma
+
+180
+
+184
+
+188
+
+194
+
+195
+
+197
+
+205
+
+208
+
+214
+
+217
+
+220
+
+223
+
+224
+
+225
+
+226
+
+228
+
+230
+
+231
+
+## Page 6
+
+CHAPTER 204
+Narration of the pitrs (manes)
+
+CHAPTER 205
+Benefits of donation of cows
+
+CHAPTER 206
+The gift of a black deer skin
+
+CHAPTER 207
+The signs of an auspicious bull
+
+CHAPTER 208
+The anecdote of Savitri
+
+CHAPTER 209
+The anecdote of Savitri
+
+CHAPTER 210
+The anecdote of Savitri
+
+CHAPTER 211
+The anecdote of Savitri
+
+CHAPTER 212
+Third boon to Savitri from Dharmaraja
+
+CHAPTER 213
+The resuscitation of Satyavan
+
+CHAPTER 214
+The anecdotes of Savitri
+
+CHAPTER 215
+Description of the duties of a King
+
+CHAPTER 216
+The qualities of the king’s servants
+
+CHAPTER 217
+
+The ways of protecting the fort and the city of a king
+
+CHAPTER 218
+
+Things to be preserved by a king in his fort
+
+CHAPTER 219
+The protection of the king
+
+CHAPTER 220
+The duties of a king
+
+CHAPTER 221
+
+The fate and the result of one's own effort and energy
+
+232
+
+234
+
+234
+
+237
+
+240
+
+242
+
+244
+
+246
+
+248
+
+250
+
+252
+
+253
+
+261
+
+264
+
+269
+
+272
+
+274
+
+278
+
+## Page 7
+
+CHAPTER 222
+The Dharma of the kings and the policy of conciliation
+
+CHAPTER 223
+Raja Dharma- the policy of Bheda
+
+CHAPTER 224
+
+Raja Dharma- the policy of Dana
+CHAPTER 225
+
+Raja Dharma- the policy of Danda
+CHAPTER 226
+
+Description of Raja Dharmas
+CHAPTER 227
+
+Rajadharma— his inflicting punishments
+CHAPTER 228
+
+The propitiatory rites or Santis
+CHAPTER 229
+
+The Santi Offerings
+
+CHAPTER 230
+
+The propitiations for the bad omens
+CHAPTER 231
+
+Santi rites
+
+CHAPTER 232
+
+Graha Santis
+
+CHAPTER 233
+
+Santi rites
+
+CHAPTER 234
+
+The extraordinary peace offering when reservoirs of water go bad
+CHAPTER 235
+
+The extraordinary Santi during pregnancy
+CHAPTER 236
+
+Unusual peace offerings
+
+CHAPTER 237
+The extraordinary Santis due to birds and deer, etc.
+
+CHAPTER 238
+Santis on unlucky signs
+
+CHAPTER 239
+Description of Graha-yajnas, etc.
+
+279
+280
+281
+282
+284
+285
+301
+303
+305
+306
+307
+308
+309
+310
+310
+311
+312
+
+313
+
+## Page 8
+
+CHAPTER 240
+The march of a King
+
+CHAPTER 241
+Vibration of different limbs and their effects
+
+CHAPTER 242
+Dreams and Marching
+
+CHAPTER 243
+The auspicious signs at the time going out
+
+CHAPTER 244
+The story of Vamana incarnation
+
+CHAPTER 245
+The incarnation of Vamana
+
+CHAPTER 246
+The incarnation of Vamana
+
+CHAPTER 247
+Varaha incarnation
+CHAPTER 248
+
+Varaha incarnation
+
+CHAPTER 249
+The churning of the Amrta
+
+CHAPTER 250
+
+Vill
+
+The description of the churning of the milk ocean
+
+CHAPTER 251
+The churning of the ocean
+
+CHAPTER 252
+The Vastu Deva
+
+CHAPTER 253
+
+Ascertaining of Vastu site for construction of buildings etc.
+
+CHAPTER 254
+The Vastu Vidya
+
+CHAPTER 255
+The Vastu Vidya
+
+CHAPTER 256
+The Vastu Vidya
+
+CHAPTER 257
+The Vastu Vidya
+
+316
+
+318
+
+320
+
+322
+
+324
+
+328
+
+334
+
+34]
+
+344
+
+349
+
+355
+
+359
+
+362
+
+363
+
+367
+
+370
+
+372
+
+375
+
+## Page 9
+
+ix
+
+CHAPTER 258
+The measurements of limbs of the images of the Devas, etc.
+
+CHAPTER 259
+The characteristics of the images of the Devas
+
+CHAPTER 260
+The forms of the images of the several Devas and their characteristics
+
+CHAPTER 261
+The forms of Gods, etc.
+
+CHAPTER 262
+The pedestals on which the Gods are placed
+
+CHAPTER 263
+The dimensions of the Phallus
+
+CHAPTER 264
+The consecration of the idols
+
+CHAPTER 265
+Adhivasana Vidhise
+CHAPTER 266
+Installation of an image
+
+CHAPTER 267
+The bathing of the idol
+
+CHAPTER 268
+Propitiating the Vastu Deity
+
+CHAPTER 269
+The dimensions and related characteristics of temples
+
+CHAPTER 270
+The characteristics of Mandapas
+
+CHAPTER 271
+The genealogies of future Iksvakus and Brhadrathas
+
+CHAPTER 272
+
+Pradyota, Sisunaka, the Nanda, the Maurya, the Sunigas and the Kanvayana dynasties
+
+CHAPTER 273
+
+The reigns of the Andhras, Yavanas and the Mlecchas, the end of a Yuga, origin of Kaliyuga
+
+CHAPTER 274
+The Tuld Purusa Mahadana
+
+CHAPTER 275
+Hiranyagarbha Mahadana
+
+377
+
+382
+
+384
+
+389
+
+393
+
+394
+
+396
+
+399
+
+403
+
+407
+
+410
+
+412
+
+416
+
+419
+
+421
+
+424
+
+431
+
+437
+
+## Page 10
+
+CHAPTER 276
+Brahmanda Dana
+CHAPTER 277
+Kalpapadapa Mahadana
+CHAPTER 278
+
+Giving away of one thousand cows
+
+CHAPTER 279
+Kamadhenu Dana
+
+CHAPTER 280
+Hiranyasva Dana
+
+CHAPTER 281
+The gift of Hiranyasva Ratha Mahadana
+
+CHAPTER 282
+
+The giving away of golden chariot and elephant known as Hema Hasti Mahadana
+
+CHAPTER 283
+The giving away of land with five ploughs
+
+CHAPTER 284
+The giving away of the golden earth
+
+CHAPTER 285
+The giving away of the wheel of universe
+
+CHAPTER 286
+Kanaka Kalpalatapradana
+
+CHAPTER 287
+Saptasagara Pradana (giving away seven oceans)
+
+CHAPTER 288
+Ratna Dhenu Pradana
+
+CHAPTER 289
+Mahabhitaghata Dana
+CHAPTER 290
+
+The narration of Kalpas
+
+CHAPTER 291
+
+The conclusion and narration, in brief, of the contents of the Purdna, the end
+
+440
+
+442
+
+444
+
+446
+
+447
+
+448
+
+450
+
+451
+
+453
+
+455
+
+457
+
+458
+
+460
+
+46]
+
+463
+
+465
+
+## Page 11
+
+MATOS TA:
+siregureara fran
+Ae U UOT
+
+]
+
+~\
+
+MATSYA-PURANAM
+
+CHAPTER 151
+
+Collective attack of Danavas over Visnu
+Ua sara
+a GBI aaa: Hawe: aaetgar:|
+UTM Sa Mrelmewy Waal feeq gi
+
+Sita said— O Rsis, at the arrival of lord
+Visnu, all the demons, together with their
+respective armies, filled with rage, pounced
+upon the lord, as bees, surround the person at
+the time of the extracting of honey form the bee
+hives.
+
+POAT Sa Gatfartraaige
+farsa J MARTTI 2 i
+Tada as ay Weanfafor sath
+area fren aft wegerat aeitn 3
+
+At that point of time, Nimi— the king of
+Daityas adorned with black flywhisks, whose
+forehead had been decorated with leaves of the
+trees, from whose temple and the face, the fluid
+was emerging, who had a gigantic body like the
+mountain and five different types of flags were
+fluttering on him, he mounting over such a
+terrific king of elephants, attacked over lord
+Visnu.
+
+TRA SAAT Tay TST TATRTTT
+Wafamitaea: fattenaasaen: xi
+
+For the protection of Nimi’s elephant,
+
+twenty seven thousand terrific warriors had
+
+been engaged, who had been adorned with the
+bright diadem (Kirita) and the armour (kavaca).
+
+BIST TAY WTAE: |
+Wash Faget Ae WAKES AAU G I
+
+At the same time Mathana riding a horse,
+
+Jambhaka riding a camel and Surhbha, riding
+over a gigantic he-buffalo, arrived in the -
+battlefield.
+
+AN FAG BAT AAAI: |
+
+BAA: WA Hal fanfecweanforqn § i
+
+Other enraged Danava warriors, equipped
+with different types of weapons held in their
+
+hands, kept on attacking lord Visnu in the »
+
+battlefield.
+Ufa Prada ae YRtOT FI
+YT: Wert MV WAT TATE II
+Tent fee: Hal HST: PAT TATU
+HATA Hel PAT RMATT PTT Ic Ut
+
+In the terrific battle, getting alert, Nimi
+attacked Visnu, with Parigha, Mathana with
+
+Mudgara, Surnbha with trident, Grasana with i
+
+sharp edged spears, Mahisa with cakra, enraged
+
+Jambha with Sakti and the rest of the Danavas °
+
+with sharp arrows.
+ATA WET MAT fafagyet: |
+TRIER Arey eaTfaraT 8
+
+The weapons used by the Daityas, were
+entering the body of Hari in such a way as the
+word spoken by the preceptor enter the ears of
+the disciple.
+
+AAMT TW fas TE AAT
+Se IMICE CONES UICICIN BIER ET
+aashreea SearearRUT ATS
+MAGA Hl Seats F VAAN vei
+
+## Page 12
+
+16
+
+aafead ef ofe W warfaareniear: |
+
+Wsade wiforan wary arya: It
+
+Faery weet SCORE CCIGECIELA
+
+TRAST Yaherarencat MUTT FETH Vwi
+afar TERS GUAt YAR
+
+TH UY GIMAT Het: Thelet ATI wa A
+
+Some Kinnara women catching hold of her
+husband’s hand, said- “O beloved! Bring the
+blood of those who are just dead with their eyes
+and hairs all intact. The blood juices of the
+carcasses of the burning ground do not taste so
+well,” and thus made the Kinnara go away.
+Some women again said- “Though the elephant
+is dead, yet it terrifies me. I cannot look even at
+a dead elephant.” Thus the Yaksa’s woman
+addressed their husbands and so forth. The
+fiends, the Yaksas and the Raksasas holding the
+skulls of men in their hands asked for
+something to eat. Many of them bathed in the
+river of blood and offered libations to their Pitrs
+and then they worshipped the Devas with
+offering of flesh. Some Raksasas riding the
+boat-like carcasses of the elephants were
+thinking of crossing the river of blood. When
+the battle between the Devas and Danavas grew
+so grim, the warriors began to fight fearlessly
+with all their might and main.
+
+Aa: Wea GAT ARO: TAS ACT: |
+
+anista Faaefesnte fecarentr weraem: tl 2x6 I
+
+STATS YAY: Ad AAA aeA A
+
+a sada Wyat Bary whet evil
+
+Afterwards, the Dikp4dlas, Indra, Kubera,
+
+Varuna, Vayu, Agni, Dharmardaja, Nirrti, etc.,
+let out of the best of their weapons which
+proved fruitless while in the air. None of the
+Devas could mark the whereabouts of the
+Daityas though they fought furiously.
+
+TUT ga PEMA al
+
+Tifa a fafagenta sara teres Sa Ww
+
+oreaaraaalet elenfernwat Tat: |
+
+Matsya Puranam
+
+Ua Aoikerd Ma: viata san ewe it
+
+The bodies of the Devas began to be
+shattered by the arms of the demons at which
+they hide themselves like the cows drawing
+themselves together in the herd when oppressed
+with cold.
+
+TEAAPSGR CATARYATE Bl
+Tere UN tay Tee A feet
+facopt fet: Wh: WENT FARTATI AY ot
+
+aafed arora
+qqenra fafratea gfanry
+
+STATA AAT ATTAPT ET 1 2G VI
+@ WARNS AANA
+
+aaa @era fernfirees a
+fap auiqueditata
+
+TAT STATA TTS: 1h 24 2
+TAGE: WET META eet
+
+faera Wratadt ates
+HATTON GSA YRAAT
+
+TET TAT | MTA By 3
+
+Tareafaes ayeT PASTAS TN VG Vit
+
+quiere aerartary
+
+UOT TTT HPT: AAHVSETAN 2G 4 I
+
+Seeing this plight of the Devas, Visnu said
+
+to Indra— “Use the Brahmiastra. It is invincible.”
+Following the advice o the Lord, Indra, for the
+destruction of the enemy, after performing the
+prescribed worship and reciting the sacred
+
+mantra with a concentrated mind put on the
+exceedingly powerful Brahmastra arrow to his
+
+## Page 13
+
+Chapter-153
+
+bow; and after drawing the string to his ears
+discharged the exceedingly luminous arrow
+with his face turned towards the heaven. The
+supreme weapon, thus discharged, took the
+form of a half-moon and defied the rising Sun
+by its lustre and brilliancy. That demon on
+seeing the discharge of that missile threw off his
+Maya and shivering with dismay, his mouth
+being dried up, became motionless and void of
+all strength. Afterwards the missile of Indra,
+thus electrified with mantra, became like a red
+crescent and then the head of Jambha adorned
+with coronet, with his long luxuriant tawny
+hairs waving about in the air and perfumed with
+high class scents and with the ears adorned with
+ear-rings, fell on the earth.
+
+arery farted WA SAAT: TUgh Gy: |
+AAA ATIC: MATIT ATTA: 1 NG GU
+TY TRARY Sea TTT
+
+O WMS FT Yt WS FAT Gol
+
+Now on Jambha being thus killed, all the
+Danavas fled broken hearted, from the field of
+battle and went to Tarakasura. He seeing them
+running away from the battlefield and hearing
+the news of Jambha’s death became much
+enraged and assumed an_ indescribable
+appearance, out of sheer wrath and hatred.
+
+Wad VAT Ws ATH
+
+PIC AEC ICRC TRICK ICH GU RIPAT
+Q ot WA ACA Wea
+AUOTEMAH Ft WTS TANG eI
+Waqaufteant: areata: |
+AeA: Ua: | Rg ol
+THATATTA TOT at AeA Ta:
+WTAATAA ES: PAAT AAS PAT LN VE 2
+Bost Wafer Wa Tatas Aare
+
+Boiling with rage, he got into his victorious
+chariot and appeared in the field. That
+Tarakasura, armed with various kinds of
+
+17
+
+weapons, lord of the niches of the three worlds,
+having a huge mouth wide open, seated in a
+chariot drawn by thousand Garudas, and
+followed by a large army, instantly, made his
+appearance in the field. Indra then left his
+Airavata elephant, wounded by Jambhasura and
+got up on the chariot driven by the charioteer
+Matali.
+
+AHUUREA Taner aATN 2G 21
+
+aqaisatactot fagagutenny
+
+TAHA ATT AAP T TN 2 3 tl
+
+walgaraae fafaarantracry!
+
+ROR CUO COMICCIOR Co CMEC E |
+
+Sforet TTT TY: WTS:
+
+The chariot of Indra, which was of the
+colour of burnished gold extended to four
+yojanas and bedecked with precious jewels,
+shining with the glory of Indra, controlled by
+Matali and guarded by the Siddhas. It was
+furnished with all sorts of weapons and
+wondrously variegated with many pictures, and
+filled with Gandharvas, Kinnaras and Apsaras
+who were ready for dancing music. Then all the
+Lokapalas with Visnu amongst them, armed
+with bows and arrows and other weapons came
+and took their stand in battle.
+
+TTA THAT AAT REN WEA Vg 4
+AASTHNT SEYATETA THT Taw
+ATTA: ATS AAS SPAT ATLAT 11 RE Gt
+
+At that time the earth trembled, high winds
+blew, the sky was covered with clouds, the
+ocean swelled, the Sun became void of lustre, it
+became dark and the stars were also eclipsed.
+
+Ta VACANT ase ATS
+WRT ST: YCAR A AHA LE Vit
+MRAM AHA WTA: |
+STAT TT AAT: 1 NG CI
+afgerclaat ad Sey: Nera sa
+
+## Page 14
+
+18
+
+aa fafacctag fay waaay
+aaaleraahact Racityatanicrarq Ve 8 I
+
+Afterwards there was a flash of arms and the
+Devas began to shiver. At that time Tarakasura
+was one side and the army of the Devas, the
+protectors of the world, on the other. All the
+beings in the Universe, then, anxiously watched
+the result of the battle. The two armies, then,
+also, had their eyes turned towards the result
+and seemed, as if one, in this respect. All the
+being in the three worlds became hampered in
+their dealings with one another.
+
+arentor aaife rarest al
+
+Sraet aredutreant ai
+ware arat aya
+
+GUN ATA TCH 290!
+
+There became, then, a strange combination
+of the weapons, arms, energy, wealth, fortitude,
+valour, strength, array of forces, the fire and
+spirit of the Devas and the Asuras that they had
+acquired by their Tapasyds (meditations).
+
+SURAT Aaa: |
+aT CTHCTTA aS EMT Sl VW 2
+
+Afterwards Indra came face to face with
+Tarakasura and hit him with nine arrows
+blazing like fire in his chest.
+
+@ Afar des: QTaOTATArata
+
+Fahrafiratal: quiaqena Sa: 9 2M
+
+WTEMUTA: Wedhta Wet: |
+
+Aastra WaT AA FT: FT Vos
+
+WEA FT HPA ATTA AAMT
+
+Aenea feats ALAA SAA: 11 VOI
+
+Vier Hatt: wea VTATTTTI
+
+Qhrdet HA YA: Ta TeTHETTH VGN
+
+The latter, however, did not mind them and
+
+pierced each Deva with nine mountain-like
+
+arrows capable to destroy the world. The Devas,
+then, hurled volleys of arrows continuously, like
+
+Matsya Puranam
+
+women folk shedding tears constantly, but, the
+Tarakasura cut these arrows while in the air like
+a great family being ruined by a vicious son.
+
+dat Frard aero TAT
+ariteata feet; yest UCATATA Sa: gO I
+The demon king after driving away the .
+
+arrows of the Devas covered the earth and sky
+in all quarters with his own.
+
+farsa YeeNy tah WI FT STANT
+
+TOA: Yael: BsAoranfarad: 1 Voit
+
+Haare: Yaa TACT
+
+Wren: Ueramarsaars fareafert: 1 9c
+
+He shot his sharp-pointed arrows after
+
+skilfully mounting them on his bowstring and
+drawing it right up to his ears glittering white
+with the ear-ornaments, and made the weapons
+of the Devas futile, just as the arguments of the
+Sastras are rendered futile by counter-
+arguments.
+
+aa: MAA AU Yes fares ara:
+
+ATA I AAA AAT A FAITH V9.8 I
+
+auiatedt Wet aa avira a
+
+te At MAM THU AT TATA Ve oll
+
+fagren Frafa da: qaarerirta a
+
+feroaret Yates eyriiceriz: tsi ee gh
+
+He hit Indra with 100 arrows, Visnu with 70,
+
+Agni with 90, the head of Vayu and 10, Kubera
+with 70, Varuna with 8, the Raksasa Nirrti with
+
+another 28, and Yama’s head with 10 arrow. He
+again hit them each with another the arrows.
+
+aM a Atatet Seay facara fairey:
+Ted eet a faere watatirs ec 2
+
+Then the demon wounded Méatali, the
+charioteer of Indra with three arrows and hit
+Garuda with ten.
+
+ey Seat carat fererg ATTA:
+Tan arnt fede a adie gt
+cat ferneret Sat faeryeat: Pt: HATS 3M
+
+## Page 15
+
+Chapter-153
+
+IMA ATTA AAT
+
+TW MART Tear AAA
+wteertetrasy aTAey-
+
+Wl SAAISHGA THAIS YI
+WA PeRearaaa aa
+
+Aa AO HCUACT|
+Tare farairsy Garg
+
+ASASARUNTA Wall 2 & it
+
+Afterwards he cut the arrows and broke the
+quivers and the bows of the Devas into pieces,
+when the latter became bereft of their bows and
+quivers. The Lokapalas and the Devas,
+afterwards, angrily came out armed with fish
+bows and arrows and began to shower
+innumerable arrows on Tarakasura. At that time
+the demon with his eyes turned red with wrath
+let out his arrows like fire, on the volleys sent
+forth by the Devas, he then shot violently one
+arrow like the fire at the time of dissolution on
+the chest of Indra. When Indra was hit on the
+chest, he began to shiver and sat dawn in his
+chariot.
+
+facttearahe wearcnfara
+
+reba fayqayretey
+
+TA: HMA S TT 86 & I
+AARNE: Nea YaS-
+
+Se TA Tel MITA!
+miata Be
+
+TWHSMNTASSTAA ST: 1 Re 9k
+miirartseanty sea-
+
+TAT Terai aeTa
+
+GAN et PATA TT: RS Cl
+
+Afterwards, Tarakasura shot two arrows on
+the shoulders of the most valiant Lord Visnu
+shining like thousand of suns. The Sarmga bow
+of Visnu dropped. Then the Vasus and Yama to
+
+19
+
+the left of Visnu were hit with arrows like fire.
+He then hit Varuna, the lord of waters and
+began to dry him up. Afterwards Tarakasura
+caused the horrified Raksasas to fly about in
+each direction and caused alarm also to Vayu
+with his very hard arrows.
+
+TOTeEN eM: Tas eT yTaT-
+Tee: FAST Tent: YEA: |
+WAG: WAVSA Ae ATS
+ASIAAL APTATAACTTI 8¢ 8 tl
+Then, after a short time, Visnu, Indra and
+Agni, on coming to their senses conjointly,
+began to fight severely with sharp-pointed
+arrows. Tarakasura looked like a great Kala at
+the time of the great dissolution at the end of a
+Kalpa.
+BIT aT Blrelenrarat-
+eres ses TTT
+ert cag: fate wes
+IM MY: ASAT ISA
+PTO TNT FAH 8 oN
+Visnu picking the His bow killed the
+charioteer of the demon king with his pointed
+arrows. Agni blew away his banner and Indra
+smashed his coronet, Yama broke the rod 1n his
+hand, Vayu broke away the chariot wheels,
+Kubera broke his bow and quiver plated on the
+back with gold with Nirrti, the lord of the
+Raksasas, broke his arrows.
+
+SBT MKT
+
+STN: Set WT TAMA MATT 11 28 a
+Water Yat At Beare WT
+
+SBT ARCATA ATA TATAT 88 2
+THAT ATU ATG: |
+
+TRUST TAT TOT THAR: LS BI
+BW QUT FAA a ater: |
+
+ire.
+ind
+ura
+
+in
+yu
+
+ind
+tly,
+ted
+
+| at
+fa
+
+the
+ted
+dra
+his
+als,
+the
+the
+
+## Page 16
+
+20
+
+Tarakasura, seeing the valour of those
+Devas, threw his terrible club with great force at
+Indra who seeing it coming towards him in the
+air, at once Jumped down from his chariot. The
+club, falling on the chariot, broke it into pieces
+but the charioteer Matali escaped his death.
+
+Teen ufset sea warareha eayraq ee vi
+Teel weed: ashe Frerare facta:
+
+GE WATS Praant a aTETTN ee 4
+ae a UIT ya seat AEPTSAM
+
+afe a fafaureta aSarara Tah ee I
+
+ara Bt eteargerer waaay yao
+
+TAM DT ATERSM HSATATA ALTA:11 LF Ht
+aa eahrararvach Wat Aa: |
+
+HATRAT ETAT TTT: | 28 CH
+
+Afterwards the demon king hit Visnu’s chest
+with club and Garuda as well. And the lord and
+Garuda fell down and lost their consciousness;
+He fell down on the neck of Garuda; he cut
+down the Vahana of Nirrti, the lord of the
+Raksasas with his sword, knocked down
+Dharmaraja with Bhusundi (missile) and Agni
+by the point of his bow and knocked down to
+the ground Lord Vayu with his two arms and
+Kubera with His bow and arrow. He then
+attacked and wounded severely the other Devas.
+
+Cera: AURA VTE FATT
+areata Fat srarerraraPSAN ve 8 it
+Waa eraKer Fe aaa eye:
+TUT Teh STA FEA ATATAPA 20 ot
+
+Visnu, afterwards, revived and He took up
+His invincible quoit of the splendour of the Sun
+and threw it at the chest of the demon. It
+seemed that the cakra was anxious to devour the
+flesh, fat and marrow of the demon.
+
+SAMA AA: HT Aenea eA
+
+aa ae Wee WyRrafelt FATA 20 2
+ACARI Wawa SAAT ATT!
+
+Matsya Puranam
+
+AR FAM MAL MMT 20 VI
+eapirad faatountet: yee USAT WAAL
+FETT AATATAAT A 2 0 Bt
+Talore TACHA ASH HoH FAM
+PHATE SET ATS MATRA 2 0 XA
+eB: Merayeed yfragrac
+
+fade Sages UaAMAT Jo GN
+Wéet Ta eer: aaa
+
+WME AEA Tete SaHHTAMI 2 0G I
+
+That quoit shining like the sun dashing
+against the chest of the demon became smashed
+like a blue lotus falling on a bed of rock.
+Afterwards Indra threw his thunderbolt but the
+missile by means of which he thought of
+conquering the demon was also blown to pieces
+on hitting the demon. Then Vayu hit the chest
+of the demon with his goad burning like fire
+which was also rendered futile; then He
+uprooting a mountain along with trees
+measuring five yojanas hurled at the demon
+who on seeing it advancing towards him caught
+it like a ball in his left hand.
+
+al BOS WNT Hart: Heres:
+
+errs afer faera wre ate essa: Qo
+asqreanarea tert a A Tear
+BRUTE TATRA I 20 CI
+Tal PAS ANA FTAA 20 8H
+CORRCRAR SC ORM IC IMIE ETL
+afaataaternt ctrnareiste Frat: 2 got
+
+faera aaa wea yfet ware a
+UAIPTAST: FT VT WASVSATAA 2 V2
+Then, Dharmaraja, also  wrathfully
+
+brandishing His mace with great violence, hit
+the demon on his head. It also did not affect him
+in the least; and then, Agni discharged His
+formidable Sakti, blazing like a fire at the end
+of a Kalpa, at him which also struck his chest
+
+## Page 17
+
+Chapter-154
+
+like a flower, without causing him any pain,
+when Nirrti unsheathing his keen sword
+inflicted blows on the head of the demon, which
+was also divided into pieces.
+
+Weg aY fara
+
+AT Ue STAT YTS MTTTS 11 2 22
+
+a CMT AT: We SITET
+
+WpfeeHelH SPAT RTT It 2 83 UI
+
+aaistart Waedt: WAM: WATT:
+
+ATA FATA ATION: 11 2 VI
+
+WAC Ws UBT YAeAeT: |
+
+FT AAA USAT WA TATAATTAI 2 Bu It
+
+Varuna threw His fearful snake noose
+hissing with venom to tie the arms of the
+demon. That, too, became distressed on getting
+round the arms of the demon. The saw-like
+teeth and lower jaws of the snakes were broken.
+Then the powerful Asvinikuméaras, the Maruts,
+the Sadhya Devas, the Serpents, the Yaksas the
+Raksasas, and the Gandharvas taking up their
+arms of various kinds began all at once to inflict
+repeated blows on the demon. Even then no
+appreciable effect was produced and could not
+penetrate his rock-like solid body.
+
+TA WHATS AeA SATE:
+HU allem SarHCUTENTALT AM 2 LE It
+
+Afterwards, Tarakasura alighting from his
+chariot belaboured billions of the Devas with
+his fist and blows and heels.
+
+Baty Aan tart fawega:
+fog Se ATT TOTAL TU 2 VII
+
+Then the remainder of the army of the Devas
+abandoning the field flew in every direction
+with horror.
+
+AMC Cet TE TH
+GMA SS: TG: THAT: THA yee
+
+The demon, then, captured Indra and the
+Lokapalas and tied down Visnu etc., as a hunter
+
+21
+
+takes hold of the wild beasts.
+OYA WA SN aT
+PATS AT SATA TATA 2 89
+
+Tarakasura mounted on his chariot with his
+prey and returned to his abode. The Siddhas, the
+Gandharvas, the Daityas, the Nymphs, etc. sang
+the praises of the demon king.
+
+aqannt fefergarerttntete:|
+AMET MATRATT TAT 2 Ro th
+The demon king in company of all those
+
+entered into his city; it seemed then, that the
+Goddess Laksmi, in full possession of the riches
+of all the three worlds was entering there. The
+city looked like the summit of a very high
+mountain.
+
+Prater wermnetatatare
+ad: feacradarrarifantted:
+SUT FATTY Were aOTaUSeT: 1 2 2 a
+
+Going there he took his seat on a throne
+studded with lapis-lazuli and other precious
+stones. His coronet and ear-rings looked highly
+beautiful when the Kinnara and the Gandharva
+began to please him.
+
+Stet ATR ATT SaTTAATA ATCT ATT
+FATS Toe eH TATA SEAT: 1h VG 3H
+
+KX
+
+CHAPTER 154
+
+Taraka commands to free gods captured by,
+description of marriage of Siva and Parvati
+
+Wt sara
+WTA: WAT ArAy: |
+a a Tet rat fafearea: taurforati VN
+SAAT ATTA TTA HST I
+Ceara PaM faut weat ays
+STA: GUAM Ale fain
+a fanaa we sa atefattit wat 3
+
+th his
+is, the
+. sang
+
+those
+at the
+riches
+. The
+
+high
+
+hrone
+>C10US
+ughly
+lharva
+
+d by,
+rvatl
+
+Il
+
+## Page 18
+
+22
+
+Stta said- “O Rsis, thereafter, the
+gatekeeper, clad in blue dress, appeared before
+Taraka. Both his hands and face were covered.
+He knelt before the demon king offering his
+salutation to the Daitya king whose body was
+issuing lustre like the sun. Then he spoke short
+and clear words— O Lord, Kalanemi has brought
+the captive gods, who 1s waiting at the gate.”
+
+afaerarsaiect: weiter wifey
+
+WIE WATS WYATT AN VI
+Listening to the words of the gatekeeper, the
+Daityas king said— “They should at once be
+released and they can live wherever they like,
+because presently, all the three worlds happen
+
+to by my home. In other words I am the ruler of
+the universe.”
+
+act Uae fagrhtfacitrar
+
+Ue Hd AA Sa STAT VATAT GI
+WATTS FE VOT HIATT
+frafecret venta: foreteelsfor wat: |
+Teg: WPA: ATTAIN E I
+
+Thus having been released of the bondages,
+the sorrowful gods went to have an audience
+with Brahma, the preceptor of the universe and
+born out of lotus and also to take refuge with
+him. Reaching there Indra and other gods,
+offered their salutation to Brahma, placing their
+heads on earth and narrated to him the tale of
+their sufferings. Then they offered prayer to
+Brahma with clear and meaningful words.
+
+eal SY:
+HGS Wat aT Yar
+AOA Way Mente TH STH VN
+The gods said— O Lord, you are the form of
+sattva, form of omkdra, you are the first sprout
+for the creation of the universe. You are the soul
+of the universe. As form of Rudra, you also
+
+destroy the universe at the end. Salutation to
+you.
+
+Matsya Puranam
+
+af Area wa ay: Ta UfeeT
+TATU STRAT MATS Fe
+Sasa FATT BUTI SU
+Your form is inconceivable with the glory of
+your own, you convert your body in the form of
+
+the golden egg and then divide it in two parts of
+the sky and the earth.
+
+Sh Wet Way eTay-
+
+ta faareaeruitesrantten
+Oh cana: WITT
+
+aed Wegherat wat 8 tt
+
+We people, clearly know about the same that
+whatever the age limit had been fixed by you
+over the Meru mountain, the same tradition 1s in
+vogue even at present. O Lord it is evident that
+you are beyond birth and indestructible. The sky
+is your forehead and the sun and the moon are
+your eyes,
+
+Set: BMT: Mae feat
+uret WPathaTa WAST: |
+WA: Bat wa WAT
+de: Pa Satter es fa: gon
+She serpents are your hair, the directions are
+your ear holes, the earth is your both the feet,
+while the ocean is your navel. You are creator
+of Maya, and are well known as the cause of the
+
+creation of the world. The Vedas conceive you
+as the supreme flame and peaceful in nature.
+
+aang cat faquatat Fat
+UIT: aay FUT
+MAM Hea yet
+USAT: TA PEAT: OAT: Veit
+aa aqareat ala ata
+Tai TAA Was F aya
+Gel aft WerIaAT we
+cava: BU: AfByeenr: 1 Vt
+
+## Page 19
+
+Chapter-154
+
+The learned people search you in _ the
+interpretation of the Vedas and after knowing
+you, they call you as Purana Purusa. Those
+people well versed in the yoga, take you to be
+the form of self. There are seven images in the
+Samkhya-yoga and the eighth one 1s the cause
+thereof, your position is considered to be the
+last of all of them, observing this you created
+the moveable and immovable beings. Because
+of some unknown reasons, the gods have
+spoken about those feelings.
+
+waged wae Tenfeert
+
+TA A Aaa AseqUy:
+TARTS OUTTA :
+
+CTC HA SAAT ASAT ACT: 11 23 1
+MAMTA HAE
+
+Re UTES Safa aT
+USA YAM: At Mears here:
+
+PCMTAENTAT ARTA XI
+WT: Weed: WUT: weiteit
+
+ae wed carey ferarare
+Ta we wfad at Tah
+
+ah Ih Ahararatacea
+
+AAT ANAT AY TARTAR TH RG I
+
+All of them had emerged out of you at the
+time of creation and at your desire, they
+developed similar type of desire. You are
+beyond measure, you are hidden by Maya,
+boundless, form of Kala and are beyond the
+imagination of others. You are the form of
+cloud. You are the creator of gross and subtle
+and can also cover them. You are also praised
+by them. Whatever is solid and ancient beyond
+them, you have been known by them as well.
+For progressive people, you are the past as well
+as the future. You enter in every element and
+then appear out of it, and remain present in the
+same. Thus O Lord, you have the endless form
+
+23
+
+and are known as the god of gods. O Lord, you,
+for the devotees like us serve as refuge,
+protector as well as the helper.
+fatter: erat gerorafaanforr
+TRH ATRL TMT MTT RTA: 1 RE, It
+The Devas thus chanted the praises of
+Brahma and waited there to get what they
+desired.
+Ua wen fafa were wer a:
+amMratene amaeent Fafeyrqi go
+Thus praised by Devas, Brahma became
+
+greatly pleased and spoke to them raising His
+left hand.
+
+Taara
+ANAS AGAISHAMTT RT ATOM
+A Wad TA Yew MTAaeAa STA SMT VC It
+garerfagenishe a er ferrer
+RTT Wirewal SeTeTATATATT: 11 V8
+aaa Aa wt wt fame
+RUSTING WHY US WI oll
+Trreraiste fae sitet ga saree
+TRAITS TATA ANAT TAT 2 vik
+
+Brahma said— “O Indra! how is it that you
+are bereft of all splendour like a woman who
+has been suddenly deprived of her husband, has
+given up all ornaments, is pale and whose hair
+is rough. This Agni, though free, is devoid of
+smoke and He is not radiant. He looks like a
+forest burnt and covered with ashes. He looks
+like cinders embedded in ashes. Dharmaraja!
+inspite of your being armed with Your mace,
+You are also deprived of lustre and seem to be
+diseased. You seem to come with great
+difficulty. O Nirrti, Indra of the Raksasas, the
+tormentor of the enemies! How is it that you,
+being the lord of the Raksasas, are speaking so
+timidly as if you are pained by the enemies, the
+Demons.
+
+## Page 20
+
+24
+
+TTA THUR Tiree SEAM
+farrrefat ret waftTisT: wfeaetrnaTi 2 2
+O Varuna! Your body looks dried up as if
+consumed by fire. The serpents in your noose
+are vomiting blood.
+aR valertcare feratte ais:
+fea va faite ane Wareta HATATTI 23 11
+
+QO Vayu! You also appear to be quite
+senseless as if subdued by oily substance. O
+Kubera! Why are you so much afraid? and
+given up your office of Kuberahood.
+
+VaeAM CH: Veit Teel ACY CTA!
+Wed: Sr alert aa TaATAAT awit
+
+O Rudras! You are all armed with trident but
+seem to have been pierced by many tridents.
+Who has snatched away all Your splendour?
+
+aifenfseatat ad: cet A fara
+
+Set ATT VAT AT TST 24
+
+fen AAT TRATES AM eT
+
+ferad feaftrnevor sverat fasta 2 &
+
+Vag: FUR TAO TATA
+
+TA TATA AST THATS TN Vt
+
+It appears as if nothing has been
+
+accomplished by You. O Visnu! How 1s it that
+your hands have become useless. What is the
+use now in your holding the disc, of the lustre
+of blue lotus. O all-faced one! why are you
+
+absorbed with closed eyes in looking at the
+worlds, in your own belly?
+
+ory faruppacat ret: wfctea fer: |
+GTS AIMS MTATTS TAN VI
+
+On Brahma thus addressing all the Devas,
+Visnu, etc., prompted the garrulous wind to
+answer; who said to Brahma the Lord of AlJ-
+
+TT ater aT
+TETAS Aether: WaT: |
+
+Matsya Puranam
+
+FEMOCEINGICES (|
+EC WIPECOGC RICCO MET
+
+aad HUT WaT
+
+AON fay THAT: 1 3 ol
+
+© Brahma! You know the wishes of all and
+even then You are asking us to tell you the
+object of our coming here. You had created the
+Universe including the Devas by the division of
+the three Gunas, Sattva, etc., in due proportion.
+You are the Father of all, inspite of this is there
+doubt in Your mind? You are great and are
+placed in the highest office. But it seems You
+keeps very little information of the Universe.
+However, when You are now anxious to hear
+our troubles it indicates that there 1s curiosity in
+You. Devas and Asuras are equal before You,
+for You are the father of them all, yet a father
+feels differently for them according as they are
+weak or strong, or with or without possessing
+special merits.
+
+Tad AAMT:
+qlerergget fetes tract: |
+
+a arene fafata
+fencarea set farfeat tara 3 eh
+
+The Demon T4arakasura is grinding the
+world after being favoured by You. Had You
+made that treacherous being so lofty, fearless
+and omnipotent?
+
+ary ae Hd: year
+fateat fara SaTOT: 113 2
+
+O Deva! You have created the Devas
+endowed with special qualities to maintain the
+
+## Page 21
+
+Chapter-154
+
+universe and to fulfil its missions.
+
+ate ATA Tenet AST
+
+vad fararragnearteny
+sued faaATut A sal
+
+fefrsrt Terre ireary: 113.30
+grata weryonfetyra
+
+ATTA
+aafafeanarata: a fi
+
+Tra Aeradt fe We 3vN
+sfrarataeriaargrant fafrsrs UfeereygrTe: |
+unaftartenyeaal ager TT: |
+
+The celestial world is ordained by You for
+the Devas who partake of the sacrificial
+offerings; but now it has been laid waste like a
+great wilderness by Tarakasura. The mountain
+that was made by You as the King of the
+mountains, on account of its possessing all the
+good qualities, is now looking lofty and has
+touched the sky; it has become now the
+habitation of the demons; Tarakdsura has
+broken down its summits by his thunder-bolt,
+and has made it as his residence. Its caves filled
+with precious jewels have been plundered.
+Many demons live there.
+
+Gat 8 aes waa Ta
+AAMTEMAT SASH Fa
+saree fear Bia
+fearmrererattataraaryit 3 & 1
+wana fafatraafeat
+Tefragerzerray
+falas wreeraTey T
+WaT AMSAT: tt 3191
+
+O Deva! Our old mountain has, out of fear,
+accepted his supremacy. He has now lost every
+thing of his former grandeur. Whatever wealth
+we had, the mountain has given that away to the
+Demon. Now the ten quarters are being
+
+25
+
+illumined by the splendour of his lustrous
+jewels. In the beginning of the Yuga, You gave
+us weapons and missiles; they were not used
+before. Now those weapons broke into hundreds
+of pieces on their coming in contact with the
+Demon’s body, just as the mind of a weak-
+brained person becomes distracted into
+hundreds of directions.
+
+ARCATA BIT: TA: HELA: |
+MEAN: Fregyur AT TRTATGA 3 ci
+
+We are able to enter into the city of that
+hater of the Devas with great difficulty and after
+great humiliation when our bodies are covered
+all over by the shower of dust there.
+
+aaa ta apseaatyray: |
+SAMA TACT ATTA S TS aT A113 8
+neal: fagealat wart: carrie: |
+ETHAN HY PAT AE WTA volt
+WS SaaS AeA J AAA: |
+aedfa a crag telfdefaar agus en
+maa ORT Belen
+
+HAUTAAA A Asia HSA ¥ 2
+
+O Deva! We cannot help speaking before
+them. That demon allots us low seats in his
+assembly and reprimands us severely after
+holding a cane in his hand. He chaffs us by
+saying ‘Devas! You are held in very high
+esteem and you have accomplished all your
+objects. So you speak little.” When the Devas,
+out of fear, converse with the Daityas in
+flattering tones they chide us again saying: “The
+Devas are talking too much.” Sometimes, out of
+sport, they engage us in some work or other.
+Why are you now afraid of Tarakasura? What is
+the fear when you are sitting so close to Indra?
+Tarakasura belittles us in these ways and O
+Deva! all the seasons are dancing attendance,
+with their forms incarnate, on him and do not
+out of fear, abandon him inspite of his
+committing so many sins.
+
+## Page 22
+
+26
+
+datraeranad fragrant: |
+aerrgaen Fret that TET APTA YB
+The Siddhas, the Kinnaras and _ the
+
+Gandharvas sing melodiously in his house
+without any remuneration.
+
+SAHA TH Ao THT:
+
+PRUNTAAT PHAT ST: 1S
+
+sfa fa:sranaan fase ot 7 prea
+
+AMAT AST TA WATT Yu I
+
+sah: Tarde: Yidrafaatae
+
+Gaara Ware: FAST: 1 EI
+
+He does not give alms to beggars and he
+
+does not consider who is high and who 1s low
+and thus does not reward merits. He is the
+destroyer of well-wishers and friends and
+deserts him who seeks shelter under him and is
+the refuge of him who has abandoned Truth.
+Thus we have described some of his
+wickedness. None can describe fully his
+misdeeds. Only the Creator knows it in full. On
+
+hearing such words of the Devas, Brahma said
+smilingly—
+
+gelara
+WASATA ea: TaTT Barge: |
+Tl GA: A AMT MAAS TAT Sol
+TM 8 ater welaar Fare:
+ATT: A TAT ACNAASEATATAITI YC
+Ba ad ad der: free: aaaTaTT
+B aaeaal Tear: VET wae se
+Tae Feat oT MRI sacait
+AAG MUSH: VIEW WABI: G ot
+TAIT HATA TAARIT Aa
+SAA ae: wiforte Seat: Wes FI i
+
+Brahma said— O Devas! This Tarakasura is
+not destined to die at the hands of any one in the
+world. His destroyer has not yet been born in
+the three worlds. That demon has been granted
+
+Matsya Puranam.
+
+a boon by virtue of his asceticism, but I have
+skilfully managed it. He is a most powerful
+Lord and can consume all the three worlds. He
+sought his death at the hands of a seven day’s
+old infant. This babe, illustrious as the Sun, well
+be born of Sankara and when he will be of
+seven days, he will kill the Demon. The Son of
+Siva shining like the sun will be the annihilator
+of Tarakasura. At present, Lord Siva is without
+any consort.
+
+fenraerest Sfarr at aq eat aaa
+
+TAM: VAM: MARAT Tera TAT G VA
+
+wafaeata a wer arceatstastfacaia
+
+TATU: FT Get aaa fe afer 4 31
+
+vagrarer frat faapad dea
+
+Tener wetland Fafeytens eran & vit
+
+I spoke to you before of the Devi with raised
+
+hands. This Goddess will be the daughter of the
+Himalaya. Her hands will always be raised to
+grant boons to others, and the son born of her
+by Siva like a fire from pieces of wood, will
+destroy the demon king. I have formed the plan.
+The demon has yet to enjoy a little store of his
+
+splendour, you should, therefore, be patient for
+some time to come.
+
+SPARTA MATH
+
+aye wforoetet aarant fealera 4 4
+
+AA AIT SAT Teron ITATTS |
+
+FM MEANT Waa: YA ATATTI GE I
+aal Wad Urea HTareT
+
+ai fafarh aaretas gelrara fara 4 ol
+
+On hearing those words of Brahma, all the
+Devas returned to their regions after which
+Brahm recalled into His memory Ratri’ (night)
+that had emanated from him first. At that
+instant, the Goddess Ratri appeared before Him
+and the Lord thus addressed her-
+
+1. Ratri, one of the four forms of the bodies of Brahm.
+
+## Page 23
+
+Chapter-154
+
+Tears
+fauraft Herat fagararqareny
+reenter STO] aT PTAA YC
+Brahma said— “ O R&tri! the great work of
+
+the Devas is pending and O Goddess! You,
+alone, are able to do it.
+
+areal AT ees: Yrs:
+
+CPORUCIDESUCI RII mC Cag
+
+ea A Maa Ter AHA: |
+
+VARATATS Wat SAGA FJ ATU ol
+
+a Ger altar tat aheaferarcorn
+
+The demon Tarakdsura cannot be subdued
+
+by the Devas and has now become a source of
+torment, like a comet, to the Devas. Siva will
+beget a son to destroy him. Sati, the daughter of
+
+Daksa was the consort of Siva who consumed
+Herself out of wrath, for some reason.
+
+vfaat feasteres afeat crenwrferti & gi
+fatgU FURAN HAN STAT
+area fanstera arat fagafern & 21
+WHAT fa alet Frareate
+aa: YaATT Afar A Hera: 1G 31
+a oferta cera anner farrere:
+
+She will be born in the house of Himacala
+from his wife Menaka, and Lord Siva, feeling
+the pangs of separation from His noble consort,
+looks upon the three worlds as deserted and is
+practising austerities in the caves of the
+Himalayas where He will wait for sometime in
+expectation of Sati and where by Their united
+glory, a valiant son will be born who will
+undoubtedly kill Tarakasura.
+
+WITHA F AT eat TaeTe AT A TPT MI
+farelenftont me BtasueHeTaM
+
+TA: YAAATA: TAT: TATA & &
+TARA YF Ma: Wea areHeel WAT
+TASTY Tyrat serene MAT VAAN GE I
+
+27
+
+TA: MAHA TATA AATTTT
+farereaer faarteat Far AeA AIT TTI gO
+THA TA: TA BU WR
+
+aay fererear vrata feast agen g 2
+aeufacata at eat aa: aT after wat
+TTA MI AAT TAG Ih
+wareatt F yateraeratesty
+
+4B afar eat SF AUTOMATA PATTI 9 o 1
+
+O beautiful faced one! Sati, soon after Her
+birth, will, by Her previous Sarnskara,' be in the
+expectation of Siva and will practise severe
+austerities, when they will be united. There will
+be no difference between Them at that time.
+Even then, the destruction of Tarakasura looks
+improbable. When, after their marriage, both
+will practise again severe tapasyd and after that
+when by their union, the son will be born, that
+will be also to destroy Tarakadsura. You should,
+therefore, interfere with their amorous
+enjoyment; after a short quarrel, the Devi will
+go to perform tapasya. Therefore, get into the
+embryo of Sati’s mother and make Sati’s colour
+black. Siva will, then, after marriage, chide Sati
+out of joke when the latter will angrily go to
+practise austerities. After this, when they unite,
+the son, born of Her from Siva, will be the
+destroyer of demons.
+
+crea are Ofer Sate Cireg TTA:
+Mae T Ma CEASA 9 2
+TOA Tae SIT Se A MET
+Ua Hea AeA Ble aercanfeait o 2
+O Goddess Ratri! You should also kill the
+invincible demons in this world but You shall
+
+not be able to do so unless You shrouds the
+body of Parvati, and Her qualities penetrate
+
+i. The faculty of memory, mental impression or
+recollection, impression on the mind of acts done in
+a former state of existence.
+
+## Page 24
+
+28
+
+within You; You should, therefore, do exactly
+what I have just told You.
+
+eee eat ger aan afaeatay
+
+TET TANS AGU VreTAT MATAR 9 3 1
+
+aerate Beat Searten wrest
+
+Suge J Wet ayaa vfarafanoxi
+
+Varivit carat are qafecaia
+
+‘eae aaeAlt: WAM ATTATETN 9 & Ut
+
+When this will be done, that Devi after her
+
+asceticism, will be know as Uma. Afterwards
+when the course of P§rvati’s asceticism 1s
+complete she will assume her fair complexion.
+Your form will be known by the name of
+Ekanamsa, on account of some of Her qualities
+being imbibed in You. O Granter of boons! The
+people will worship You as Ekanamsa. You
+shall travel all over the world and will be
+
+worshipped under various forms and You shall
+gratify the desires of all persons.
+
+Bae Maat cata Teeatata: |
+STRATA TTT TST 119
+va afeta fagit area ya: Prati afar
+enaarmensan car Frataartafan ov i
+
+You shall be worshipped as the Gayatri
+prefixed with ‘Om,’ so the knowers of Brahman
+will worship You. The Kings will worship You
+as Urjita Akranti. The Vaisyas will worship
+You as Bhiimi, i.e., mother like the mother
+earth; the Sudra will worship You as Saivi, ice.,
+the better half of Siva and the sages know You
+as Forbearance and Clemency to those who
+follow rules.
+
+cf Heer afetafearattrorg
+ufifarearatat wauter wiforeasarin 9 ¢ it
+va Uf: Taya a aft: Pacheary
+cao alfinat alfted WRT: Pacer tt
+You are the great path to logicians and
+moralists; You are the great Siddhanta in all the
+
+Matsya Puradnam
+
+objects in question and are perfect. You are the
+desire in the hearts of all beings. You are the
+salvation of all the beings and the way of all.
+You are the Fame of the renowned and You are
+the forms of all the embodied.
+
+fread cafes sified eeeher
+
+ea lhl: PNT Tl Miiaig HAITIAN Coll
+
+a ot waar wa aft: aqaArT
+
+Wea weraen at a otter faenfaarqc git
+
+You are like Rati to the sensuous, love to the
+
+happy, splendour to those who wear ornaments
+and the subduer of wicked deeds. You are the
+delusion of all intellects, the soul of those who
+
+perform sacrifices, the tide of the ocean and the
+pastime of the sportive men.
+
+aerfred veal Raft crater
+
+a HOTA eSATA TATA ¢ Rt
+franuarerrcertet wt favratt
+SraHladela Wieticn AMAT ¢ 3
+
+a ot hata are Gatreata aft a
+
+A Maa aera Fa AT APTS
+
+You are the essence of all things, the
+protectress of all, the destroyer, the Kalaratri of
+all the worlds, the night, the giver of satisfaction
+to the embracing friends. O Devi! You are thus
+adored in the world under various different
+forms. O giver of boons! those who will adore
+You or sing Your praises will get all thetr
+objects fulfilled without the least doubt.
+
+seal g fren eat wegen sateet:|
+Ty wahtat Tot We feahrt: TTT C4
+CATA Heteet THAT ATA
+
+MR CIR IMIUCE SIE CC OECTA
+
+The Goddess RAtri thus adored by Brahma
+went, without any delay, to Himacala, saying, “I
+will do as you order,” where She beheld the
+handsome Mena sitting on the side of a wall
+shining with jewels. Her face looked pale and
+smiling and her breasts were high.
+
+## Page 25
+
+Chapter-154
+
+CAD DIRE ICIP LCE R ING RUE RIL |
+TROT ATA aA ¢ 9 tt
+SHEAR AS MATT TT
+
+TOTST TULSA AST ONATAATISTATN ¢ C1
+valolaghrge Haat tacc
+
+fara HATA ATAU C8
+PRIEI CE ho REUSCH
+
+aa: HAT feae Ta et fase e oll
+GM Yala Tat TATA TE
+TAMA EN FATATEMATH I ¢ 8
+pele MPa baraiatarezA
+THAT AT PATA TACATIL F 2
+TMSHUSTTTAG TET TT: |
+feafareraretat WTA TAT FATE 8 3
+onlay we Ufa: YrarepeaAA
+TACT SATAN: HAT ASTI F Vil
+SMAAMA TAT AAT AUT F Al
+THA Se TeTCTy Faas 4H
+
+A serpent shaped necklace, with a golden
+amulet, containing within it high class drugs
+and electrified with mantra was hanging round
+her neck; the room where she was sitting was
+illumined with the light of gems; various
+medicines capable to satisfy one’s desire were
+scattered there; the bedding of fine cloth and
+plushy cushions were spread there and the room
+was scented with high class perfumes. When the
+Sun set, night gradually set in Mena’s blissful
+room. By and by, the person felt sleepy; their
+beds were spread; the Moon began to shine
+distinctly; the birds made a rustling noise and
+the public squares were haunted with ghosts and
+goblins. When the favourite couple embraced
+each other and Mena felt sleepy, the Goddess
+Ratri entered into her mouth. By and by, Ratri
+entered within her womb and coloured the
+embryo black and remained there till delivery.
+
+29
+
+det Sreafrmrorea fetes
+Ta Yet HAT STAT TERHOP TN gl
+
+Mena gave birth to Parvati, the dear one of
+Siva, the Lord of the universe, at a very
+auspicious moment.
+A T MAA Aaa: SNS SAT: |
+sMarahad: Ud Waeteaahas: 11 eo
+ATTY Tel Has TaTAG VER
+SMATATAM UT: VT A SATAN 8
+The universe rejoiced at the birth of Parvati.
+Even the dewellers in the hell felt the celestial
+comforts at that hour. The wicked beings, the
+
+venomed serpents became peaceful and well-
+behaved.
+
+TH ATATT Tae Ceara
+
+Seas: Waeatal HNP AN eI
+
+Tara a went fared a aswad
+
+UST FSA FET FANT: I Ro ol
+
+Ot Sear fore a ALOT
+
+sacra Tat orferareHeAT A Yo git
+
+auifa deioniis yatat faery
+
+aaa Aes caret FaeTATATTN Qo VMI
+
+The stars and the planets became more
+
+brilliant. The Devas felt exalted. The flowers
+and the herbs of the jungle became sweet and
+tasteful. Pleasant wind began to blow. The sky
+became quite clear in all directions; and through
+the glory of Parvati the whole cultivation of the
+universe blossomed and the asceticism of the
+
+pious sages, carried on since ages and ages, was
+fructified with their desired objects.
+
+faa a grantor wena wafer
+WHATS TET FUAAAIS HATH 20 3
+The forgotten Sastras (weapons) made their
+
+appearance by being recalled to mind and the
+sanctity of many sacred places was enhanced.
+
+## Page 26
+
+Thereafter lord Visnu, concentrating his
+mind in the battlefield, took up the bow and the
+serpentine arrows in his hands and aiming the
+arrows at the Daityas, he stretched the cord of
+the bow upto the ears and shot the arrows
+thereafter in the battlefield over the Daitya
+
+army.
+fafafaena fag srorarataadtar,
+TH ayfratot: Yt WEHAta A VI
+_ He shot fire like twenty arrows at Nimi, ten
+
+at Mathana and five at Surnbha, injuring them at
+the same time.
+
+Tet afes mat facranfa ufaum
+a gepfireient: watstcrnys ety: 1193 1
+Then getting enraged, he shot an arrow at
+the chest of Mahisa and with twelve sharp
+arrows, injured Jambha. He then shot eight
+
+arrows each one of the remaining Déanava
+warriors.
+
+TT TMTS SBT SAAT: ALTAR AT: |
+
+ACHAT: WAR UHTATSA TTI Voit
+Observing the proficiency of the shooting of
+lord Visnu, all the demons were immensely
+
+enraged and uttering the lion’s roar, started
+waging a terrific war, making all the efforts.
+
+farsa aqfawifataeett ata:
+TATA He Tet Ferede ASAT AT: 1 Vu It
+At that point of time the Danava king Nimi,
+shooting the Bhalla-arrow cut off the bow of
+lord Visnu. Then Mahisdsura cut off the arrow
+held by lord Visnu, in his hand with which he
+was going to shoot at the Daityas.
+Wsaara Tes TETEhy ATG: |
+YH TRASAATS PST TATA: 1 2G I
+Jambha tormented Garuda with  sharp-
+
+pointed arrows and the mountain like Surnbha
+pierced the arm of Visnu by his arrows.
+
+fora aie Maat Tet sare SEO
+at Maun B Ata TATA WeTEaI Vo It
+
+Matsya Puranam
+
+When the bow of Visnu was torn asunder,
+He picked up His club and, after brandishing it,
+struck Mathana with it.
+
+aramtat fafratitisrase fer wh
+at Agata SBT eet wrelaa gc
+
+But Nimi smashed the club to pieces on the
+mid-way by his arrows and it was shattered like
+the prayers made to a destitute person.
+
+WE FRt at feerreraftepay
+a qatar ate Ffryfeya era kei
+
+Seeing this, Lord Visnu took up his dreadful
+club studded with precious stones and violently
+struck Nimi with it.
+
+Tad fara war deaTaaa
+TEM WS TAA: VEIT FN Po
+WM BT Ueat eet: TaURTTATAT
+Prtead Taeaa SH WOT BAT 2 Vh
+At that time the three demons smashed that
+club while in the air. Jambha threw his club at
+it, Grasana his sharp-edged spear and
+
+Mahisdsura his trident. They shattered the club
+like the entreaties made to the wicked.
+
+Tae HATTA ESAT
+TTT At AEA WSO SUTATTTT: 11 2 I
+
+Visnu, seeing the destruction of His club,
+threw his trident bedecked with bells at the
+demon Jambha.
+
+AAA ANE Weil SAAS: |
+Telat at waretret frente fearafaer:1 230
+The Danava Gaja, seeing the trident coming
+
+flying into the air, caught hold of it as a
+righteous person grasps a piece of good advice.
+
+SS UNAS ANAC TAHA
+
+Ugremnireraa ae aot FAT Si VI
+
+AMSAT Us SM lh MTIATT!
+
+at TO AAMT AAVAA 24 I
+
+Then the Lord enraged took His ponderous
+bow and shot Raudrastra at him. All the
+
+## Page 27
+
+Chapter-151
+
+universe pervaded with the power of that
+weapon and the whole sky was full of arrows.
+
+ales fafeysla aoa Ty:
+
+SBT ASANTE SATA TEN 2 & I
+TAI waa Tateataranory!
+
+OF A MOTE Ae Tare SileHeTaTATN VII
+area wiaed afer fewer: |
+HAUSA, TAHSIN VC
+
+When all the quarters and space of the earth
+were covered with arrows, then the general
+Grasana came and discharged his Brahmastra
+which drove away the effects of the Raudrastra.
+On the Raudrastra being thus rendered useless
+Lord Visnu let out His formidable K4ladanda
+weapon, the terror of the whole universe.
+
+Beara afer red: Teat aati
+
+WHA MT Wel Sat CAAA AAT 28
+
+AeA GET Y TAT FaHCT:
+
+aac fen AArAafET FPN 3 ol
+
+When lord targeted that weapon, a terrific
+
+wind began to blow and the earth began to
+quake and all the demons were at their wits’
+end. Seeing that invincible missile, the haughty
+
+Danavas discharged various kinds of weapons
+in the battlefield.
+
+ARTA TAY Tateat
+ash Fafa; warerat Fara
+Wilate U Wa WAT
+TAAIACUSTRAATATLUTTAT! 3 11
+
+To thwart that Kaladanda weapon, demon
+Grasana used his Narayandstra and Nimi his
+Cakra weapon, subsequently Jambha used his
+Aisika weapon of arms.
+
+Waa TIA WaT
+SRAM A ATCO
+TAA WA chlet-
+LAAT WATS] ARPT 3 VI
+
+The army of the Daityas with billions of
+
+elephants and horses was destroyed in the
+
+3
+
+twinkling of an eye before the Daityas could use Juse
+
+their arms.
+ST PTAA
+STRAT J ATCTAUST
+Wert TaleaT Blt: Taye
+Tefen weg i: 3 3 1
+We Uh AHTTATH-
+ICRI EIR HEIDE
+faery dararasterres
+AUS AAHSATAN 3 VII
+
+After use of many divine arms by the the
+Daityas the Kdladandastra became appeased. ased.
+Then furiously enraged lord Visnu has seen his 9 his
+weapon worthless, he aimed his famous quoit of >1t of
+hard like like
+thunderbolt and of sharp spokes, at the neck of ok of
+
+the lustre of thousand suns,
+
+the commander of demon army.
+Tah ATHENA facies
+Gale cera: Taal:
+Traqrantag was
+da Ga Hy WaT WEAN BG
+
+Then all the demons, seeing the quoit quoit
+dashing through the air, tried their best to thwart 1wart
+it, but could not check, it as the decree of fate fate
+
+cannot be evaded.
+WIS WAT
+Uh Ud WHAT GUS
+feet F Hea TAT HIS
+ASCENT GUT TATA
+TH ash HATTA
+UOT WAST TeaSTA: 11 3G 1
+
+That unconquerable fiery quoit violently fell y fell
+down on the neck of Grasana and severed the 4 the
+neck of that demon, that Cakra went back to the [0 the
+
+hands of Visnu besmeared with blood.
+Sia stared aerguel caraTaaT wera
+AA HAA SAH HATA SEAT: 11 4 VM
+
+## Page 28
+
+30
+
+SARA GUITARS ASAT: |
+TASTE ATMATAA STATA: | 0 YI
+pags maygeeng fenyet
+WPA SM ATTRA TT: 11 20 4 A
+
+Thousands of Devas began to roam about in
+the firmament seated in their Vimanas. Brahma,
+Visnu, Indra, Vayu and Agni also felt extremely
+delighted and began to shower flowers on the
+Mount Himalayas. The chief Gandharvas began
+to sing and the groups of nymphs began to
+dance.
+
+Temata frat Aetaer: |
+
+aferaraieaa WIA FTMTATATOTA: 1 20 & I
+
+ata: ara way Tay: |
+
+feagletswaectica AM WasTaAt:11 Ro It
+
+Tea T TaeTaeTA: |
+
+AAAS SAT ANY: TATA ACTH Yo CU
+
+The great mountains like the Sumeru, etc.,
+
+manifesting themselves in human forms
+presented themselves to the Himalaya with
+offerings of various articles and all the rivers
+and the oceans did similarly. The Mount
+Himalaya became adorable and pleasing and the
+
+Devas after adoring him returned to their
+abodes.
+
+PCH eSCE INES MICICCINU
+fanglergat eat eacgfelenar AA: 20 8H
+HUT Barta Matlarerage |
+
+HUT BTAMTAMAEAYAATTTTI 20 I
+TATRA FA MAN TTT
+UAHA Peat ALS CAAA 8 VI
+Lae WANT BAMA TAT
+
+Taft Wms Fa Sat | ATaTETATI Vez Mt
+AAT Yet FHT ASAT Fraeray
+
+aT SBT AeA: ATMA WATAATI 2231
+TMS J WEA WHATS aT: |
+
+Matsya Puranam
+
+VAHATAT a TT Waar Tertafer 2Iv i
+AN: HMC CANT UTAITATT|
+UD A Hel Me: WaT TST WYN LI
+
+Parvati, the daughter of the Himalaya,
+endowed with the good qualities and the
+modesty of the Devas, the Gandharvas, etc.,
+began to thrive and conquered the three worlds
+and adorned them with Her beauty, intelligence,
+fortune and good qualities as the Laksmi
+(fortune) of the ever-vigilant sages thrives. At
+this moment, the clever Indra thought of Narada
+for the accomplishment of His ambitions who
+suddenly appeared in his mansion, when Indra,
+instantly, leaving his throne, stood up and
+received Narada befittingly by offering him
+water and washing his feet. The sage also duly
+accepted his hospitality and then inquired after
+his welfare.
+
+34 Jara
+
+HUTA HL MAYA Ya
+AHA Sl MATA AT AT 82K I
+
+Indra said— O sage! now the germ of the
+welfare of the three worlds has sprouted; so you
+should cast off your lethargy for the fulfilment
+thereof.
+
+aiea daraeed wa aante ufvatea: |
+Frafa went anit Freerf Gest geo
+TIM Bote Vat AT Arafura
+
+Vita Age: Macereaatfee rag 8 eC I
+
+Although you know everything, still I beg of
+you, for one feels gratified after making his
+object known. Please, devise means so that the
+daughter of Himalaya may, without delay, be
+united with Siva.
+
+HATA Ad STA ATS: |
+We AIT TTA FeaeteTSa ATTN 828
+
+On hearing those words of Indra, Narada
+bade farewell to Indra and instantly went to the
+
+## Page 29
+
+Chapter-154
+
+Himalayas.
+
+aa Et @ farxeaarcact
+
+afadt feastert Fries gt AA 22 on
+We ways Tat Yat TIA TAT
+Frafed ert BA feaetort fereqan 92 en
+
+The Himalaya, himself received and saluted
+the sage at the gate adorned with creepers. He
+then took him inside his mansion and seated
+him on a throne of gold.
+
+Tenet grad Frerarererayia:
+
+GM MAU BT Vetere ara 22 2
+
+WPrgq whrsene ard faferaq aan
+
+Tears aRarrperareeT Fra gz 3 It
+
+Hye TTA: Vie: Vt: HEAT: |
+
+GAIT GSH CT TST LIVI
+
+On Narada’s taking his seat in the beautiful
+
+mansion, Himacala adored him after offering
+him water and washing his feet. The sage
+accepted the host’s offer of hospitality. Then
+
+Himacala very gently enquired after the sage’s
+welfare and the latter also did the same.
+
+ANE Fava
+
+SAMA: Wa Bary Tafa
+
+YIea ATA ToT HATO TATTCTH 224 It
+Tee t Tolar wraefatter
+
+WHAT A ATT TATA THAT A AN LEH
+Trea: very fer sever
+
+TT Pee Tat Garferaay FART 2291
+
+Narada said— O Himacala! You are the store
+of all goodness. Your caves are of wide expanse
+like mind. You are the mightiest of all the
+immovable thing and hold the crystal water
+more clear than the mind. I do not see the end of
+the belly of your caves and I do not see a store
+of riches elsewhere. There is not the same
+charm and Laksmi even in Svarga as exists
+here.
+
+31
+
+ATTA sete aA
+Wat: Ulead Fred aaa LVI
+
+You are always sanctified by the ascetics
+practising various kinds of penances and
+shining like fire.
+
+sane faa entarafeatro: |
+fagye saraat terrerafeatt: 11 222 It
+
+The Devas, the Kinnaras andthe
+Gandharvas scorning their Vimanas reside in
+your realm making themselves quite at home.
+
+Tel TASHA Vers TT T Heal FTI
+STATE HAAS PATA ATTUT: 11 23 0 Ih
+
+O King of mountains! You are indeed
+blessed, for in your cave, Mahadeva, the lord of
+the universe, is practising austerities, and is now
+in Samadhi.
+
+saad saat ae et firm
+feasteres ufeit tar afafeqerari 93 et
+BATA seat FT Taeateratcartea
+
+ARNOTT Maret Fag 23 VI
+
+aa Tera Yfrax: stort alee ayit
+
+SBT g aaral Ter Pt verirar wUTu v3 an
+sere Teme UTfUTo arse:
+
+at facies werent weft: 93 xi
+STMT AAT
+
+cat fatenafern fer feratatra fren 93 41
+Seerag tat gFrayahtory
+
+Ue acetic repeat sefron Fererar Frm 93 & 1
+
+After Narada had thus addressed him, Mena,
+the consort of Himacala also came to meet the
+sage. She bashfully took her seat along with her
+daughter, attended by a few companions. With
+her face covered, she folded her hands to salute
+the sage sitting close to Himacala. Seeing her
+the illustrious sage showered his nectar-like
+benedictions on her. Then the daughter of
+Himdacala began to gaze on the Muni with a
+
+ICS
+nd
+
+he
+
+## Page 30
+
+32
+
+very curious mind when the sage very gently
+asked her to go to her father.
+
+aus Tera frrrgers ayaa
+TATA Ula At Saas WAI 2300
+Then Parvati went and sat in the lap of her
+father by throwing her tiny arms round his neck.
+Her mother then said, “O Daughter! salute this
+sage.
+
+Wad tal st ufrarceata AAT!
+SYM J AA TAT Tara a fsa 83
+
+By saluting him you will get a worthy
+husband.” Hearing those words of the mother,
+the daughter of Himacala covered her face with
+a cloth.
+
+fafseattarrgt q aret stare fast
+A: YASATS ATE ATA Yat TAIN VIR Ut
+at aaa cate dat erent FT YT
+TSA TA WHT Treat WAT Y¥ oI
+She shook her head but did not say anything
+when her mother again said, “O Daughter! you
+salute this sage and I shall give you a beautiful
+
+toy of gems that I have kept for you since a long
+time.”
+
+SOM I Aal AMigager ait aan
+Aad Yet WANA HTMUSAASACTA| 2 Vl
+Hearing those words, she instantly got up
+and raising her clasped palms made a bow to
+him.
+GA Y FAA TA Wea TSG FI
+DAA VAHAM: AAPA 2% 2
+wer Y FaATATA Y BIGHT
+BRAMaSseqeara Te ATRL Lv 3
+aren afefadt viet afgen Fae TI
+TRS Aa TAMAS TATT I BYU
+ated: verafediaen afraceen
+After Parvati had made her salutations, her
+
+mother gently enquired from the sage through
+her maids about the auspicious marks on her
+
+Matsya Puranam
+
+daughter’s body and waited with feverish
+
+anxiety to hear the verdict of the sage. Himacala
+
+also appreciated the question put by His noble
+consort.
+
+FATA TTA ATE Wares ATS Ow GM
+A Hatstat: Utes carta faafsstar
+AMER Aad BTS: |
+
+Tareas afta faratey ATA eve It
+
+Afterwards Narada smilingly replied. He
+said— Her husband is not yet born. She is void
+of any auspicious marks. Her hands will always
+be raised and her feet will go astray her shadow.
+What more can I say?
+
+gece AAA AEA ETAT:
+ANSE WATT THUS TVeAAT: 1 vio
+
+Hearing such words, Himacala became
+broken hearted and he lost all presence of mind.
+His eyes were moist with tears.
+
+ferarqara
+Tarrenfaetrer stage afta:
+GEM Mavala HATA PATA P¥ CI
+at Wontar Water Tere Hanrconfaery
+a wtad fe aah ae: WT Tass eve
+wfrat Ute are A alaifata AraHNr
+Taanuta aA fafa YeATAT RG ol
+emt PUSAN: PART Aa:
+TATE MAE AYR FTTH Ny I
+Tae HeTat qeaeRO TI
+AYA: VT: WATT: ATATAT RG 2
+TAMA Wed Tat A WeaeAT: |
+HAUT OM TRE eaATET | BG 3 Ul
+
+In that condition, Himacala said to Narada—
+“This world is full of defects; its ways are
+mysterious. The flow of creation must go on;
+there is, no doubt, a Superior being who ordains
+the destinies of beings. The effect comes from
+the cause; but, thereby, the cause has no
+
+## Page 31
+
+Chapter-154
+
+importance attached to it. So it is clear that the
+father is nobody to the son. The beings are born
+on account of their past kKarmas. Egg-born ones
+become again egg-born; they may also be born
+among men. Human beings may be born again
+as reptiles; and reptiles can become again men.
+These superior births are according to their
+greater merits (in Dharma). It is owing to the
+difference of Dharma that differences of castes
+and Asramas take place.
+
+Te atari Want Aa afer:
+
+Tae Hat Shag: Wa waefewNT: 1 Ve wi
+
+a: HAT YF MAY Yao: Web ae:|
+
+MUTA AeA ATH ATO STATI 4 4 I
+
+The orders of Brahmacarya, etc., are
+
+established in their turn to make the world
+flourish. If all were to attain the highest in
+virtue or vice how would the world prosper?
+The doctrine that creator has ordained in the
+
+Sastras that one should beget progeny to be
+saved from hell is simply deluding people.
+
+Tern fartert ofeseqat Arava
+anireg wala goon santa
+Waa A aA ATA SEAT 24 & I
+
+No progeny can be born without a woman.
+Woman are by their very nature meek and
+weak. Woman cannot study SAstras.
+
+WRATH Uae Aga WENA
+SGA HA A A Aras orasatATH V4 Ol
+
+All that has been stated in the Sastras, are
+quite true. The karmas yielding great fruits are
+repeated often. In the Sastras, at many places, it
+has been said, that a girl 1s equal to ten sons.
+
+TMAHATS Ya tot Tey
+
+aren fe RIOT vier frag wafaatsahn ey ci
+ate eareureateat wfergreraret:
+
+fee Gagan star wiraTASAA: NR BH
+
+If she is not modest and good, she is the
+cause of pain to her people and is useless. The
+
+33
+
+birth of such a girl who is a source of pain and
+disgrace to her parents is always repented and
+regretted. The woman who its blessed with her
+husband, sons and wealth, etc., is completely
+fortunate and the one bereft of them is
+extremely unfortunate.
+
+ea ahrary Gare & erat etree
+oral Genta wreate renter Aeris ATTN Ve ot
+
+You have described my daughter as
+possessing inauspicious marks consequently |
+have been astonished, disappointed and
+distressed. I am being burnt with anxiety.
+
+THA AHIMA ATTA
+SAA T Pea SF BATT TAH VE ll
+Though improper, I am compelled to speak
+this to you. O sage! You better be kind enough
+
+to obviate this misery of mine regarding my
+daughter.
+
+Unhaasearee wa: Uva
+TOT TTA POTASH VE 2 Ik
+
+My mind acknowledges defeat in things
+where I have no doubt and which are all settled.
+The hope of good fruits is deceiving me.
+
+water fe We eT HATTA
+SATA YS Tea 2G 3 It
+
+The woman who get good husbands give
+peace and comfort to both their paternal and
+maternal families and their lives become
+crowned with success.
+
+Se: Beat: eat fasta aft: fer
+
+Tomer fat god: uferarat wearer eg XI
+aa fremerat at: ufcarontserat wa:
+
+et vifadrate wat aval: wifes eg & I
+
+Peat aint ye: waeennratied:|
+
+cad UH Aral: Ufa: ee fen esgi
+
+7 |
+nd
+
+Tes
+ad.
+
+Ive
+nd
+
+It is difficult for a woman to get a good ‘od
+
+husband. Without virtue, even a tolerable
+husband 1s not obtained, because, the natural
+
+dle
+ral
+
+## Page 32
+
+34
+
+course of women is to enjoy the company of
+their husbands for all their lives. The husband
+of a woman inspite of his being poor,
+unfortunate, illiterate and void of all fortune is
+like a God to her.
+
+aM ars fe tad A aratsea Ula: fae
+
+Uda AAT TH ST ASAN LG Vl
+ATA AMT AEM A At AA
+
+TO Met Shr GS AAW SaHet TA NG CI
+Dharma without any effort, unlimited
+
+pleasures and wealth to maintain one’s life, are
+all found in husbands. O Devarsi! You have
+said that her husband is not yet born which 1s a
+most unlucky and unbearable thing. You have
+also said that her Lord is not born in the
+universe of three worlds which has caused a
+great agitation in my mind.
+
+Teed yaya
+
+PAT TTUTTal FafetoraTt: Fert ge VN
+
+Tae waKA WGA
+
+SAAT Weal AAAS FTAA 9 0
+
+WMI GAM FT Halaska
+
+TEDTAMAAU ASL SATEMATUTA BW 2
+
+TAN STAT MTG BAF where At
+
+WATT Gra HAaaT: 1 V9 2
+
+Saray: Uf STAT
+
+Gg alder AAT GAYS 2930
+
+The auspicious sings of men, Devas, etc.,
+
+are found in their hands and feet and you have
+described my daughter’s hands to be always
+raised. The fortunate, the rich and those who do
+not accept presents in return for anything, have
+no such hands. You describe Her feet to be
+astraying which also indicates a bad sign and
+has caused me disappointment. The signs on
+one’s body indicate separate fortunes, husbands,
+sons, wealth, fortune, life. etc., But O Muni,
+
+you have said that my daughter has no such
+signs.
+
+Matsya Puraénam
+
+a 8 ad faarita aaarifa aren:
+Gant afrenget ea Sheatiiat An Yow
+
+O Sage! You are truthful. You know all my
+inclinations. I am being deluded and my heart is
+breaking.
+
+sya fart: vet veg afrarcond
+
+srarehaet AAS
+
+ferareyarad areal Serarfea: 1 B94
+ANE sare
+
+areas weft aa e@ Freer
+
+suftreraaraaet We AAT ASIATTH V9 G I
+
+After saying so, Himacala held his peace
+and the Sage Narada, astonished at His speech,
+rejoicingly said~ O Himacala! You are driven to
+anxiety even in midst of good fortunes and all
+good luck.
+
+Sat yey fre wat TeeaahePreaTA
+
+wate merger Tae feTATTUTH Yo It
+qT WiaseM: Ufaden sara feat
+TA Tat Mele Yaa AA: |
+
+VU: VTA: VIA VST: WTAATH OC
+
+OQ mighty mountain! You have been
+deluded, because, you have not been able to
+interpret truly. Now hear the hidden truth from
+me. Be careful in deciphering what [ have said.
+Her Lord is not a born one. Because Sankara,
+
+the Eternal Lord, Protector of the past, future
+and the present is never born.
+
+Taatwargaa ways: |
+
+Tea UTA Ae sstetaat PTT Vos
+
+SA TAM AHA: WTA TTT: |
+POY St Stat ATTA TAT: 11 B¢ o Mt
+Tae Wee are fal aie ar yA
+SAAT A PATO TT ATATRASTT STAT Re UN
+
+He is the refuge of all, the Immutable and
+the God. Brahma, Visnu, Indra and Muni are all
+subject to the cycle of birth, death and old age.
+
+## Page 33
+
+Chapter-154
+
+They are the playthings of Mahadeva. It is
+through the wish of Mahadeva that Brahma is
+the Lord of His domain and Visnu manifests
+Himself in various ways amongst different
+bodies during different Yugas. The several
+incarnations of Visnu are effected through
+Maya. Otherwise Atma never dies.
+
+want waar frerarores oes:
+
+AVAt AF Wa AAA ATT FEA 2s 2M
+
+TMlemarass Hany a: wear:
+
+OB WAVY GaN: Ua Be 3
+
+TRCASAA: LAO Aa AARISAT: |
+
+afaeata aft: ASTM era Fremara 9c wt
+
+O Himacala! Even if the birth takes place in
+
+immoveable things the soul does not perish.
+From Brahma downwards to immoveable
+objects like trees, etc., are subject,
+unconsciously, to the pangs of birth and death.
+Mahadeva is free from disease and death, fixed,
+immoveable and is never born. He is not subject
+to old age and is free from all diseases. Rather
+from Him spring all things. Such Mahadeva, the
+
+Lord of the universe, will be the husband of
+your daughter.
+
+Teh A AT sat TaTlafatar Aa
+
+STO] RAT ATT RTT FRATTON 8 4 It
+wernt thant we: VeTasaTa: |
+
+CUE RIE ROMICRIWEC TK A RYAAT
+VTA ATR YET
+
+TAHT PAT: PTY AfeHAA Ve
+STASTA HATH MT Yet Aer Tera
+BMTETHATA YAAK Aad Vo CI
+
+TAY ate: Uiforte sa Bea TI
+Aurgryfrardarea wafer 22 8 i
+
+Now hear why I said that she— Parvati was
+void of marks. The marks on the body indicate
+longevity, wealth and good fortune. She 1s full
+of everlasting infinite good fortune and
+
+35
+
+therefore, no marks can express that; therefore,
+Her body is void of marks. The reason of my
+
+saying that hands will remain aloft is that this
+
+Goddess will always keep Her hands raised to
+grant boons to the Goddesses, Devas, demons
+and sages.
+
+AT Whe Tel Wel Tareas
+
+STAT: TO] HUTATY argh WTA 28 ott
+
+TUN WAZA: WITaet
+
+ATA Ta fercteatorenrray: 11 Ve Vit
+
+fafarautatard waresrarafefattardt
+
+TTA ATTA FATS RT TATA Re 2
+
+St TAT MAT ATEN
+
+NCD RICE CRE BICC TIC ARLE
+
+qa viretaer art arenferanfepart
+
+aT fae fafearcar verre
+
+erat fe Ueenrd Sarat fara ee vik
+
+The reason of my having described Her feet
+
+as astraying is that Her lotus like feet will shine
+with the radiance of Her toe nails where will be
+reflected the shadow of the crowned heads of
+the Devas and the Demons. She will be the
+consort of Mahadeva, the Lord of the universe.
+This Siva is born as the mother of the virtues of
+the worlds and the progenitor of the beings, and
+is shining like fire in your lap. You should do
+exactly what would facilitate her union with
+Siva. O Himacala! a most important work of the
+Devas is pending at present.
+Ud sate
+
+Ua Feat | Vers Aneradda fe
+
+A aati TY Faraferetar 284
+
+THERA FUG Tel cars seat
+Jara MST AeBr ane 7 AIT: Legit
+
+Sita said— On hearing all that form Narada,
+the mighty Hirnacala considered Himself as if
+born again. Afterwards, making His salutations
+to Siva, he very delightfully said to Narada—
+
+la,
+if
+ns
+
+## Page 34
+
+36
+
+fevaryara
+SATAATAS TAS AT IA
+WANE STeA AAT: FA: VAN
+fenraciister faarreaar Grae
+fara TTT UT wifas her MEAN Nec
+arrefearatettt Cat ASIA FN
+TeaaaAts Fart wavwrfsgeareorqil 82 8 il
+fe Grae: Tat ATTA FarANTAT 20 of
+water Fraaaare at WA
+TATA ATT SAH AT UTAH 20 VI
+Tafata Halse Parararerefqory
+WAT gaara @ tas GallT HoT 2o Vi
+aay aeenrerareM A WeretaTATAR
+SHA ery A Tal FAA 20 3M
+
+Himalaya said— “O Sage! you have,; indeed,
+rescued me from an awful hell. You have lifted
+me up from Patala and made me king of all the
+seven realms. O good sage! now my name is
+famous as Himacala, but you have made me
+posses all the moveable good qualities. Now |
+have become the store of good qualities and my
+heart is dancing with joy. I do not know now
+what to do and what not to do. The divisions of
+duty are inconceivable. Even Brhaspati cannot
+describe you virtues. O Sage! to have to
+privilege of meeting the sages like you is very
+rare and propitious. Your conversation is highly
+beneficial and soothing to me. Through your
+favour 1 am blessed. I am guilty; yet you all
+have made me the abode of the sages and the
+Devas; now be pleased to command me
+thinking me to be your most devoted and
+obedient servant.”
+
+AM WAN aad Hd alah wan
+Wa TF WaAAATT YASAT: Voit
+Sy Ae: Vite eH fafeat via
+A Wea MAHATMA WAT TN Voki
+ashradt B yfeaUfasl Were
+
+Matsya Puranam
+
+UB: Men Ware (EATaSTAT HATTI 20&
+
+When Himacala said all that cheerfully,
+Narada replied— “You have done everything
+and the work of the Devas that I told you before
+is also a great work to be done by you also.”
+Having said so, the Sage immediately returned
+to the Heaven where He met Indra in his
+mansion. On Narada’s taking his seat, Indra
+said— “What is the news,” in reply to which the
+sage related the whole history.
+
+Ate Said
+ye Ay Adel Tra Hada fe
+faq WsIeaa WAM SAAUAT: tl Qo
+Narada said— “O Indra! I have done what
+
+was necessary, now the rest has to be
+accomplished by the God of love.”
+
+Sart Ca AAT areata
+
+AMET TANT ATA ATH ITAA: tl 20 CU
+
+Aaya Tal fest Aeeraror straw
+
+STA Uta: Bfaerat SVT: |
+
+Wedd FF SBT MH: Wart AST 208
+
+sae aga fe cat wit ae fre
+
+TAaTaa at a Stee MATATTTTI 2 Voll
+
+TAMARA TH HE ArHael freq
+
+wgt ana fast Pega vara
+
+AAA TPA Aa RATS SHAT 2 Val
+
+At the same instant, Indra thought of Cupid
+
+whose banner is fish; he instantly appeared with
+His consort Rati to whom Indra said fondly— “O
+Manobhava!' what shall I tell you particularly
+because you originate from the mind and,
+therefore, you know what is in everybody’s
+mind? You can fully espouse the cause dear to
+the gods. Bring about the union of Siva and
+Parvati without any further delay. Array
+
+yourself with Madhu the Vernal Season, the
+king of all seasons.
+
+1. Mind-born, Cupid.
+
+## Page 35
+
+Chapter-154
+
+SM UEATR PHT TAA
+WaT USAT ATT Stat: PAHATN 2 22M
+When Indra thus besought Cupid to fulfil his
+
+desires, afraid Cupid, holding of five arrows
+said this word to Indra —
+
+ala sata
+
+aT saa "arate “
+SrA: VIE Sa: fen AT Aict TTS & N31
+Cupid said— “O Lord of the universe! Lord
+Siva is unconquerable by my resources which
+are terrifying to the Munis and Danavas and do
+you not know this?
+
+qe tay aa et Gt F aera
+
+WT: Ware: Arash wat fe Weal WAN 2 exit
+varanrrannt fe Gat: KaTASTaT:
+ATT TAA Maa ARATATTI 2 BA
+marered fesrperctet wf fafarcrary
+
+Me Ue SPAT MATA HAAS: 1 2 2 I
+fasted caietat Yeh ATTA eT
+TATA WHATATAAAT: I 2 oA
+
+You know the glory of the mighty Siva very
+well. Perhaps the blessings and wrath of the
+great are also great, there is always greatness in
+the great. You have thought of your ‘advantage
+in the enticement of Siva. This is not right, for,
+such schemes against Isvara, launch one into
+utter ruin. It had been witnessed many tirnes
+before that. The intentions of the beings become
+known and those who are over-anxious to gain
+their ends, do not attain their ambition.”
+
+Wa sara
+TT MTORR BA UeteaT A ATT:
+WaT faa MTR ATT
+Heel Tafsees ATA AT Waa 2k
+Hearing those words, Indra said to Cupid-
+
+“Q Lord of Rati! we are your Superiors here.
+No doubt, the ironsmith has no other power
+
+37
+
+than to make weapons. Every man has some
+particular capacity; but no one can possess all
+the capacities.”
+
+Saye: Waat arr: Wert wes: |
+Cee STATS wet gy SATA: Ve Ht
+Hearing those words, Cupid instantly went
+
+to Himacala in company of His wife Rati and
+the companion Spring season.
+
+ag dante areearoregidary
+Teal & fe Freanea area YET 2 ol
+Tataraa Be Fret Yaa Te
+
+tfafg weqasia ve apes WAT 2 eI
+aus fafatutagar faa
+
+HT: AUATAST AUT STATA 2 22M
+anemia fereaant Weary
+
+aaa fatraeanta war fast TAN 2 231
+Faerrer eeigravOT SATTTET TT
+
+serred fe at aa a aafsretratosa 1 2 evil
+Para Aaa WA Tae
+
+WATT HAST TSA SEAT | VAN
+Stente arene Te PT:
+STAT TTA earer: 11 2 2G Ut
+Arriving there, He began to think of the
+means for the accomplishment of His mission.
+He thought to Himself that the minds of the
+great who are engaged with immoveable
+determination in doing great works and who are
+energetic, are hard to be shaken. He also
+thought that it would be better to move His
+mind first, and there by victory would be
+certain, the work of the mission would be
+achieved by the shaking of his firm resolution.
+Before, many persons accomplished their ends
+by changing the minds of the opposite party.
+Unless jealousy be aroused, anger does not
+come in; and without anger, envy, the roof of all
+attachment, does not set in. He said to Himself,
+“How should I direct fickleness, jealousy and
+anger to disturb His mind? Those, who are
+
+## Page 36
+
+38
+
+enduring and contented, do not know my
+influence, but a doubtful mind is sure to be
+changed. A doubtful mind is always restless,
+then the beginnings of success are seen and
+great obstruction is placed. I shall, therefore,
+interfere with the asceticism of that fixed-
+minded Siva. I shall place tempting things
+before the Lord.”
+
+Ferafercetict MEAT ya RTT
+TTT STATA ALATA THT 2 POM
+VIR AA ATAU eLCAMTOT TA
+TATA TTT 2 26
+
+With that idea, Cupid went to the hermitage
+of Siva. This hermitage is the essence of the
+universe. It was surrounded with tall trees;
+altars were there; peaceful beings occupied that
+place. It was adorned with flowers and creepers.
+All sorts of moveable beings reigned there.
+There the Ganas, the attendants of Siva were
+moving to and fro.
+
+Pedrgaeqyaternecraryay |
+
+Taree fae vat afsafgtrranq 2 28H
+ates Menai toriterrarae eerie
+WAIHH a aerhUAUsAeASTI 2 3 1k
+SAUTE TAT ATION
+
+Aa Fen feraagaereAT aT 2 3 2
+ATqTOT ART AA TAT aA
+TATA ASTANA AAU AHA 2 3
+FAUT SHH ATA aT |
+WGA Teg ea ETSTETATTN 2 3 3
+Haag rarasar eet ra Tay
+
+TAM AAT UATE TAU 2 3 ¥
+
+The bull was bellowing on the green verdure
+of the tableland on the peak. Cupid saw the
+three-eyed Siva as the incarnate of the
+Beautiful. He also noticed that the Lord Siva
+had matted hair on His head, of the lustre of
+saffron and was adorned with terrible serpents,
+
+Matsya Purdnam
+
+and with cane in His hands. He was sitting there
+as the great hero. Kamadeva, the god of love,
+gradually advanced and saw His lotus like eyes
+half open and intently gazing on the tip of His
+straight nose. He saw that the lion skin was
+hanging from His shoulders. It was oozing
+watery juice. The snake, with their hoods raised,
+were curling round His ears and were breathing
+life fire. His matted hair came down to the
+ground to the cup consisting of skull and his
+Turnbi vessel. He was seated on the coils of the
+Vasuki, navel deep, and was holding the tail by
+His hands. The snakes were ornaments all
+round his body.
+
+aavt Vist @TA: HAMA VA:
+
+AM VATS TAT aAG TAT THAI 2 34 Ut
+
+Way: HoregU yaw Weal AA:
+
+VSTAAMATS TL ASAT 23 GU
+
+WAM eased ead THAT: |
+
+Aa: OT A PHARMA TAS M 2 3
+
+AOA TA eA TUT
+
+AAA ATA: WeTSASATITT: 23S
+
+afered galeen fait weaterary
+
+SUCHITAMTaBT Aare alle: 23 VI
+
+Fra Feat Aaa:
+
+O Fal AAAAB HIATT WEATEAT YOM
+
+SOIT SHA WHT: |
+
+SEMANA: ASA AAAS 31 2 ¥ 2
+
+fe: et WATT AUT STITT: |
+
+He approached the Lord silently where He
+
+was sitting on the peak with trees all round and
+black bees buzzing. He then went through His
+ears inside the Lord who, afterwards under
+Kamadeva’s influence, became enamoured of
+the daughter of Daksa and then involuntarily
+His Samadhi vanished. He tried to collect His
+mind but Cupid began to throw obstacles. Then
+
+the Lord, knowing Himself to be betrayed by
+Cupid, most angrily summoned up His
+
+## Page 37
+
+Chapter-154
+
+Yogamayaé and His presence of mind and
+despised the God of love and again plunged
+Himself in His Yoga. Cupid began to be
+consumed by Yogamaya, the cover of Lord’s
+asceticism and Cupid who was full of anger,
+came out of His body.
+
+AAAS EM PAA AAT AE Vi
+TEA BET Te aTeA TT!
+
+Ta TEA TA Ba WATT Vv 3
+Ware Bret ATA UPTO Waa:
+
+FART CLA Weg AMM ASITT: 1 PI
+Ura Vea yore faatet: |
+
+aa: BOTA frag WaA WAU WWI
+aya wentradaistt weataya:
+
+AA: WHATRIAMAT ATA AAT BYE It
+Te Ag AAA WeEHAaAA|
+
+AA: AUCH TATESTAMATTT 2 YI
+aye aed Aa Tae
+
+BRA UGAYM WACTTTATAA 2 ¥ CI
+
+Cupid, taking His stand with His friend the
+spring season, made an enchanting arrow of a
+cluster of sweet smelling flowers over which
+the gentle breeze was blowing; then He hit it at
+the heart of Siva. At that hour, the Lord was
+deeply struck with this greatly enchanting rough
+arrow and His pure mind was shaken. Though
+He was firm like a rock, yet He felt somewhat
+distracted. But by His great will force, He
+restrained himself and seeing the great obstacles
+outside, shouted out with anger a loud sound
+“Hum.” Afterwards the third Eye of the lord
+became ablaze as if it was going to consume the
+world and a terrific fire of wrath was produced.
+
+Tee Wed SMA Tale:
+
+a Aafreperst AUG AeA 2X8 I
+faa Maa TUt ad: afta:
+
+OF Ui AAA SHA RANSAT 24 ot
+YT MT ATCA CAT: |
+
+39
+
+Al Tal WT SA SATAAS AAI V4 VI
+Tear Tat we BNAey Teast
+yey aifaereay fara STEN 24 VI
+
+By the opening of that Eye, sparks of fire
+began to fall in showers and Cupid’ was
+instantly burnt and reduced to ashes when the
+Devas cried out “Alas! Alas! What is this.” The
+fire of the third Eye then appeared terrible as if
+it would burn the three worlds. Afterwards, the
+Lord distributed the fire of Cupid amongst the
+mango trees, the month of Caitra, the moon, the
+flowers, the black bees and the nightingale
+allotting them each different places.
+
+@ Hardt BOT CAAT:
+
+TURE ECAR ICES ECIME AT ELE ET]
+
+farcnetadanian caregrerd: |
+
+GM MSA aifsat wea fH avin
+
+THA ATA Sierra aTATS |
+
+FAME SESTOACATAT AGT PATTI 24 4 A
+
+He also consumed the arrows of Cupid
+
+which rushed to and fro in the form of fire and
+occupied the place where the remains of Cupid
+were distributed before and became severely
+tormenting to the people. It also occupied the
+hearts of sensuous people and began to bum
+
+there day and night violently and without any
+hope of remedy.
+
+faced Ut: HL WIA AGA Tel
+
+cet freer aM HEAT UTA ATATH 2G & It
+ST PUT atteguiter FacTraTy
+Y_TTAT ATe YSIA ACA 24
+cat Uaraar wot Teya BETA
+Frater q Were cpfeetterh TA RG Ci
+
+!. He was reduced to ashes by a fiery glance from Siva,
+in resentment of his inflaming him with passion for
+Uma. This legend is a favourite with the Saiva
+Puranas, and is told in the Linga and Kalika, also in
+the Padma Purana.
+
+## Page 38
+
+4()
+
+TeGeT WA YM Fat TAVTSMM
+APIS Wea WearessfayTOrTI 24 8 it
+
+Seeing the destruction of Kamadeva, His
+wife Rati, along with her brother the month of
+Caitra, began to weep. After a long period of
+waiting she eventually went to the Lord by the
+advice of her brother; and getting hold of the
+blossoming creepers and the mango twigs and
+rubbing over her body the ashes of her lord, she
+spoke to Siva with bended knees-
+
+Terwaret
+77: frag Farmar
+7a: farang BATT
+TH: forarareg Futeia4rs
+TS Fel THAWATAI 2 ofl
+AM Way WalRaTs
+TASTE FT RATATAT
+AMISeY t Teresa
+TASTY WTAPTEATATAH 2 & 8
+
+Rati said— I salute You, that are free from all
+diseases. I salute You who pervades the
+universal mind. I salute You, Lord who is all
+mind and who are worshipped by the gods and
+who are always merciful to your devotees. |
+salute You, Bhava, Bhavodbhava, Cupid, the
+God of Love, has been defected by You. Your
+vow is very firm; You resides in the forest of
+Maya. Salutation to You!
+
+THIS Vala TH: fear
+THSey Fara Fu
+TUSEY HTT AA: HET
+TASER T AACA 2 E 2
+
+My salutations to You, O Sarva, O Siva, O
+ancient Siddha, O You who are great Kala, who
+are all the Digits, who gives highest knowledge,
+Salutations to You.
+
+AMIS T HrevHenferra
+Ta Fre eTRUT|
+
+Matsya Purdnam
+
+TUISTANIRTH AHS
+AG: MUA AMSTUTAT 2 3
+MSE F ATO TT
+TAS ANTS ee
+AMS AANA faa
+TMISET Ft fermHeTTAaaA 2G YIN
+Walaa Drags
+TANSEY Fea
+TMSEY MeATTTTTETA
+TT: el A MTA SAN VE UM
+STRUT Aes T-
+TATRA TSE TAT
+WeMStaea Aes FPA-
+TAA TA: TATA VE EM
+Gea Was
+aa; wfargra wetearea
+TAS TaATETA
+TAS Palhtaws PAT PEON
+aureatrartfaantad-
+Ura
+carftreuifer yreot WAT
+frat Wet ASIAN VE Cit
+My salutations to You, who are beyond Kala
+(Time) and Kala (Digits); pure nature is your
+omament, the great annihilator, the destroyer of
+Andhaka, the great Protector and without
+attributes. Your attendants, your Ganas are very
+terrible; I bow down to You. You have created
+different universes; salutations to You. You are
+the Creator of various worlds; You awards
+reward to good deeds; salutations to You. You
+are the head of all; salutations to You. Your eye
+is never destroyed. You are the enjoyer of
+sacrifices; You fulfills the desires of the
+devotees and removes away the attachment of
+
+this world; salutations to You. My salutations to
+You of infinite forms, the most wrathful, the
+
+## Page 39
+
+Chapter-154
+
+one decorated with the crescent of moon and the
+magnanimous. Your glory is immeasurable and
+You are adored by all; salutations to You. My
+salutations to the rider of the bull, the destroyer
+of Tripura, the fulfiller of the devotees'
+ambitions, the great remedy of everyone’s
+troubles, the Lord of the Creation, the Greatest
+of the great, I am at your mercy. You are the
+great Acarya, that is, teacher of the rules of
+conduct of all the beings, animate or inanimate;
+You are the Creator of all the beings; You are
+great, dear and immeasurable; You holds the
+Moon on Your forehead; I take refuge in You.
+
+wares Yaa: aghe
+WA: WA lad area:
+firé far wat frenifaty
+TAMISUT: BH YaST 2G SI
+Wy: fara: waa: Traratt
+HOTA TTT:
+anata YATE ATA
+SAT HMMA I 219 0M
+QO Lord! Grant me back the life of Kama.
+None in the three worlds, excepting You, can
+restore Cupid to life. You are the Lord of the
+dear ones; You produces the dear ones; You
+have created all the objects high and low. You
+are the only Lord of the universe. You only
+seem to me the merciful. You are the Lord of
+the three worlds and You drives away the fears
+of the devotees.
+Ud sate
+SUA TA THAT
+aaa SerearauSaa
+ara Dat Ht Fret Vo gi
+Stta said— After Rati, the wife of Cupid, had
+
+thus prayed the lord Siva, the latter was greatly
+pleased and sweetly said—
+
+4]
+
+W_Et sata
+Mfadit WU Brass srementatsferraya
+wg sta cay Blawanta Waa 29 2
+Sakara said— “Your husband will be born
+after a short trme when He will be known as
+Ananga.”
+Seyret force aa Fae arracerm
+WTAE Ts Uiereg FeTTo 3
+ele ale age sar Tat wet TF AM
+MUTT ASA AT SUMAAT VOI
+Hearing those words of the Lord, Rati
+saluted Him and then went into the enchanting
+groves of the Himalaya. There, in the beautiful
+spot, for a long time, she wept bitterly over the
+
+destruction of Her Lord. She desisted from
+committing suicide only by the words of Siva.
+
+wy Aaa atfeat fem:
+
+FANT PAAAAATTAMTN Ve tt
+NAAT St MraigyAraTTy
+WENA Wyat Vet PAT WGat AA WEI
+WT YA TAT AOA: |
+FEMA SATIVA Tl VOI
+
+Afterwards Himacala, prompted by the
+words of Narada, gladly took his daughter at an
+auspicious hour to the hermitage of Siva, after
+performing all the necessary ceremonies and
+dressing Her nicely, making Her put on
+handsome ornaments, decorating Her hair with
+flowers, and followed by a train of maids.
+
+east vadt aaedaehray
+BUOTASH Sa TAY GATTI VVC
+alge Wyss at spt Geel fae:
+STA AAaTAN Frame BisATSIAI 29211
+
+ferarara
+
+anf aenfa aeeniin feo ante Testa
+ATCATTS WA ANT AFA Ie oll
+
+## Page 40
+
+42
+
+Crossing through the dense forests, he found
+a weeping damsel in a beautiful grove on the
+Himalayas. Seeing such a lady of unsurpassing
+beauty and of extraordinary lustre, weeping so
+bitterly, he was astonished and being curious
+went to Her, and said “O Kalydnini! Who are
+you? Whose wife are you? Why are you
+weeping? It appears that your grief is great.”
+
+MM Tal Aa Meal SarT AAT Wel
+Set MR Ad CATSATN 26 2
+O hearing such words of Himiacala, the
+
+crying Rati explained to him the cause of Her
+wailings.
+UWtearel
+
+ame staat arat tit at fats waa
+
+Frraterarenre Fiftererares FAA Rs 2
+
+a wens faenatetas cre
+
+SANSA ATATS AT BAST: VS
+
+He T Mot Meat F ea Tafagem
+
+AAT AEN sal Ut Piftetsaaq eeu
+
+Biss arated Hass F vfacate
+
+TATA ATT AAT AR RAT STAT:
+
+wees agent ar Fraed weonfaa V4
+
+Waleidt Be agerarenaenfatrey
+
+Wee UTTerey afr Het WeTAN 20
+
+She said— “I am the wife of Cupid.
+
+Mahadeva is practising austerities in this
+mountain and He has reduced my Lord to ashes
+by opening His third wrathful eye. Afterwards, |
+sought His shelter through fear and began to
+pray when the lord said that He was pleased
+with me and that my husband would be restored
+to life and one who would repeat the prayer
+uttered by me would get his objects
+accomplished and advised me to desist from
+
+death. Relying on His words I shall keep my
+body anyhow till then.”
+
+SHY Ta TAT Ser: MTA: |
+ToTarares fe Yat Tete Tah FTN Veo
+
+Matsya Puranam
+
+WMfatsapamtacrataat waaay
+eR Bhavana fiat fr eect
+
+Hearing those words of Rati, Himacala
+began to shudder with fear. He thought of
+returning to his city and became ready to carry
+his daughter in his arms when Parvati said
+through her maids.
+
+SHAT PAT fee ATT ATCO
+
+aa OT May wt Wa Fa ufadtaq Vee
+
+qa: Wrerswe Arad fe aA:
+
+guid Gat ciel aed Alt ATF olt
+
+witfarregrreday Oy MTT:
+
+fasta a weet Frat: viet ATAU 28 ei
+
+aufa weeds seatsaferteran
+
+We aT: Bins Aas wer Ter 28 VM
+
+Parvati said— “What have I done to win to
+
+good husband? What is the use of having this
+unfortunate body? Desired objects are obtained
+by asceticism and there is nothing impossible
+for an ascetic. The world suffers pain in vain
+when there is such a way to fulfil one’s desires.
+Death is preferable to living the life of the
+unfortunate and not practising asceticism. [
+shall, certainly, consume my _ body by
+austerities. [ have no doubt, that by this practice
+
+to Tapasya, I shall attain my desired object and
+so, I shall certainly practise penances.”
+
+sam: Venn sea Hefaaera:
+SATA ATA VWerst STREATIATI 2.2 3
+
+Hearing such words of Parvati, Himalaya,
+the king of mountain, feeling affection told her
+with emotion.
+
+feraryara
+Mf aUet Ufa A at Aah ay:
+WS FMA TTT: Aaa 22 vil
+wMaratafaaraitar weit ata gh
+Mfeaisat Wats ToalreaashT a 24 I
+
+## Page 41
+
+Chapter-154
+
+aaa ata aster atet fafa WaT
+Yaa Weare at au eee il
+
+Sey J Aal Aa TETANAhs PTT
+
+aa: O farreaaet yfeat werera AN Vol
+aS Rear AAVTSyaATTATC
+
+Bf AT UT AAT AAA ATVI
+Safe aM Tare Targa
+
+fats a ufiaerer crefrerta farang 2931
+
+Himalaya said~ “O Daughter! O Uma! O
+Capala!! Your body is too delicate to bear the
+brunt of asceticism. Do not make such an
+attempt. Tapasya is very hard and painful
+indeed. What will be done will surely come to
+pass without fail. Even without any attempt,
+future things suddenly come to pass. So, O
+daughter! get up; let us go home. We will then
+think what ought to be done. Even at this, the
+daughter did not agree to return home. He was
+then plunged in anxieties and at that every
+instant, a voice from the welkin was heard “O
+Himacala! Your daughter will be known in the
+world under the name of Uma and Capala. Your
+daughter shall attain by her mere thinking, all
+the desires.”
+
+Sha eat YF TAT ATMTUTT ET: |
+ATTA Yat Vet ATA TAGFETTI 3 0 ol
+
+Hearing the words created from space,
+Himalaya, the purely white like Kasa flower
+gave her permission and returned to his abode
+after taking leave of His daughter.
+
+Wa sara
+
+Vomnty wat srerareaafy tact: |
+CENAATAA J FAA AAT 3 © 2
+Tq Terat: Yor Arranging
+TATA PTT A ATTN 3 0 VI
+ARTO, WATT UTETA
+
+1. Moving to and fro, Unsteady.
+
+43
+
+fecameraunadt Sfeatacerperq 3 0 311
+
+ARTaeT TUTTO eva TT
+
+HARM: YE: MARS STMT 3 0 VI
+
+—— —
+
+TaAGSAGATS HOTVETAHSAI 304 Il
+
+Sita said~ Parvati went to practise
+
+austerities to a beautiful part of the mountain
+impassable even to the Devas. Parvati
+accompanied by Her maids went to that peak of
+the Himalaya that was very beautiful and
+resplendent with various ores, blossoming
+creepers, Siddhas, Gandharvas, herds of deer,
+and various birds, buzzing of the black bees,
+cascades, trees, smelling with the aroma of
+flowers, having beautiful caves, groups of
+chirping birds, adorned with Kapla trees, gay
+with the flowers of all the seasons, loaded with
+various kinds of fruits, illumined by the rays of
+the Sun and full of different kinds of animals.
+
+TATA MST Blea
+TACHA TATRA ACTH 3 0
+TATA Aa aT
+
+Ta TAT Va eAICAA 3 019 1
+TATA GATT HOT aT Beta
+Uae aeHeteatsiA aa 3 061
+ATAU YT VILST. PTTL
+Waar Vlotsy WUTa AAT 3 0 8H
+PUTS Bit SNTRTATAT aTaT Fafa:
+
+She saw a big tree with many large
+branches, having yellow leaves, flowering in all
+the seasons, adorned with all sorts of flowers,
+and various fruits and bright as Manoratha.” The
+Sun’s rays fell on the tree and it seemed that the
+Sun was also overpowered by the brilliancy of
+the tree. There, Parvati discarding Her
+
+ornaments and dress, donned the bark of tree,
+and began to bathe thrice daily. She passed a
+
+2. Whose wishes are fulfilled.
+
+## Page 42
+
+44
+
+century living on the leaves of trees, another
+century on the fallen leaves of trees; and
+observed a fast for another century. She thus
+continued Her penances observing similar
+ordinances.
+
+Aa SEAM: Me WOT ETATIS AAT 3 Qo MI
+dd: TAN WAR AA Mech”:
+
+Then the creation began to tremble by the
+power of Her asceticism when Inara thought of
+the seven Rsis.
+
+A AAT HAT: We AAPA 1 3 V2
+
+Ufa ASAT UNG WaT
+
+feared F WIS Waa Fa AAT 3 VMI
+
+Wea: Ward YOaY wat: TATA
+
+fener AT at TAA TTT
+
+TAT AAA GM WaT: HAASAN 3 23 I
+
+They appeared before Indra with great
+
+pleasure and were adored by him when they
+asked him the reason of his having thought of
+them Indra said— “O Rsis! hear my object.
+Parvati is practising severe austerities on the
+
+peak of the HimAlaya, and I want you to fulfil
+Her object.
+
+ad: AAU Wee aaa: |
+
+aaa F Vers Frgrertatar 3 evi
+FETT TATRA TTA)
+
+Ufa fa 8 ahaa: BMT: HAST | BG I
+ayaa Aa Sat AeA MARAT
+AURAL HRM: WET AT ATES 3 26 I
+aaa Fae at: weraataraterry
+WAS KAA FHA: 11 3 Vo
+SUPART: AAPA: WaT ATT: |
+SYR OM Ah HATTA 3 Vc I
+
+Hearing which they repaired to the spot
+where Parvati was practising asceticism and
+said to Her- “O Daughter! what is your wish?”
+Then Parvati bashfully said— “It is wise to
+
+Matsya Puranam
+
+observe silence before the great sages like you.
+Those who salute sages like you are purified by
+you and you question me night in the face.” She,
+then, offered them a seat and said— “After you
+have rested and when the toil of your journey
+has disappeared, you better question me.”
+
+a 7 Mrafraeary wafer fara: |
+SAMS TAHTTAAA Tet YT 3 V3
+wea Sa Ue ae see eT!
+
+Wa TARY AAR AAT: TATA BAM 3 oll
+TAT TAT: UE PTET
+
+AUT MATA TAT UTSATL ATI 3 2
+TAPArTHA Cie Wet Water ara
+Waal far Wort we far 3 22
+Taare aed fe eter:
+
+afery Pyrat wert feraqavert: 113 231
+TTS STRAT: |
+
+ATL F UAT AAT TAAT: 13 VSI
+CEMA feaMay
+TTT ITAA TESTA ATTA I 3 2% It
+SANG WHT FA: WATT FE:
+
+Then she worshipped them according to the
+prescribed rituals and though Uma shining like
+the Sun, cast off Her vow of silence for a while,
+she again held by her peace of mind : when the
+sages began to question Her with regard to Her
+object, She putting on a smile, bashfully said in
+a gentle voice. “You know the hearts of all
+beings. It is pleasing to hear words when they
+express what one wants most dear and sweet to
+one’s heart. The beings are always eager to
+attain what they hold dear and love it most.
+Some clever persons resort to divine means;
+others resort to various pleasant deities and
+ceremonies as ordained in the Sastras. But my
+mind always rushes to attain my dear wish, like
+
+a barren woman desiring a son; or, one longing
+Heavenly flowers.
+
+## Page 43
+
+Chapter-154
+
+arg fenct Wea Sat Olt WT AAAS BEI
+TSA SUS AUT | AAMT
+AAU AACA HATTA 3 V9
+
+ard aie Fraeret strato
+SUMATTAAST AGN atest Fea Ve
+seen Ware g Peat wae:
+
+WGA TA: Wey: WHATHAMAHAN 3 28
+
+I am now making earnest attempt to have
+Lord Siva as my husband who is naturally very
+difficult to be attained and who is moreover at
+present engaged in His tapasya. This is very
+difficult thing indeed, for how can Siva devoid
+of delusion and passion, devoted to asceticism,
+Whose actions cannot be discerned even by the
+Devas and the demons and Who has consumed
+Cupid not very long ago, be attained by a girl
+like me?”
+
+Ara ag:
+falad g Ye magia eiteay HrcA
+waa Tate Fgh: 3 3 ot
+wpe Ag ferarar vita: fgautyrea:|
+emUTett ferereny ATay ferenarer Fereiona: 113 3
+Waa HAN TAATHTaIS: |
+Ufa FT HSA WeilaefaerenrhSeAT: 11 33 I
+afe we wits BTS BATT
+A SM A RATT FATA 3 3 3
+AAKHAAMAHATAPATTIT!
+PUSMYAS ATTTONTOTT I 3 3 VI
+SME CHC CIC CLOICUGIE MIG
+FORIRCA ATTACH TTI 3 34
+Bteaet Sega Mears ATTRA
+TA BANTATATRT AAR: WH PTAA: 11 3 3G Ut
+taami ffashta wae: Waa
+AQUA HTS A; WT: WaehearqN 3 390
+Aa SHAT Ta Barra, Fay: |
+WY WAT HANA A AMAT 3 3c
+
+45
+
+TAACEAMT YE F waaay
+Vane TATA Wal AHA
+SS AS WAT HATTA TTA! 3 3 8 II
+faqranrter aq wa tet aa feet
+HAMASAAY FIM: A ATAATHETAA! 3 Xo ll
+
+MATT wif AR Yeaea Mhrgery: |
+srg a fafaarre ara aaa da fF 3 v eI
+
+Hearing those words the sages controlling
+Their mind and realizing her object said~ “O
+Daughter! There are two kinds of comforts in
+the world and the first one 1s the gratification of
+the body; the second is the peace of mind. Lord
+Siva is, by nature naked, ferocious, dweller of
+the cremation ground, the carrier of skulls, a
+hermit, statue-like in action, a beggar, mad,
+fond of collecting ugly and terrible things, and
+inauspiciousness incarnate. What advantage
+will you get in having Him as your husband? If
+you, perchance, wish the gratification of carnal
+desires how can it be gained? He is the source
+of fear and an object of aversion and censure.
+He is the wearer of a necklace of gory heads,
+adorning Himself with terribly hissing snakes,
+living in the cremation ground, moving about
+with His ferocious attendants. How then can
+you expect to derive comfort from Him? Why
+do you not marry one of These, viz.— Visnu,
+the protector of the universe, the destroyer of
+the enemies, adorned by the Devas and the Lord
+of Laksmi and sacrifice; Indra, the Lord of the
+Devas; Agni, the giver of every thing; Vayu, the
+soul of every being; and Kubera, the Lord of the
+riches. And if you desire the happiness in the
+next world in another body, even then the
+Devas are capable to give you that. There is no
+chance of getting any happiness in this world or
+in the next from Siva. Again what the Devas do
+not possess, your father has got that; so by the
+grace of your father, you can get happiness
+without any trouble. So it is useless for you to
+undergo so much trouble. You will have to
+undergo sufferings for the attainment of Siva
+and no good will result. Even a trifle sought
+
+## Page 44
+
+46
+
+With great eagerness becomes unattainable.
+Only Brahma can fulfil your desire.”
+
+aa sare
+SETHI AT Y Hiv Pray ev
+Sara HTH BARS ASHS 13 ¥ VM
+
+Stita said— Hearing such words of the Rsis,
+Parvati got very angry with them and with red
+eyes and trembling lips said.
+
+eeqara
+
+TAHA Hl Wielka Fa ATOM
+
+Ferrers: ATT HT ATT BY 3A
+
+Ua Ot aa sae MIATAaS ANA
+
+T Ut wie fraister aatsesTetH 3 wx
+
+Devi said— “How can those who hanker after
+
+unreal objects and are subject to vices, be
+devoted to a high Deva? What pleasure is there
+in getting an unreal object? And what pain is
+there when one is devotedly attached to an
+object? You are on the right path and yet how
+do you come to such a contrary conclusion. You
+should know that I am a fool and I want to get
+an undesired object.
+
+warafra: Ud ast: Tae:
+
+Ti A der at ta Wad ATA: WETS wa
+SATA STHAAT SMS AA N 8 ¥ & It
+SMA THAR WANTATASSTA |
+faga 3 afta fe WAT: 3 von
+
+You all are like Prajapati and see aJl things;
+but it 1s quite certain that you do not know that
+eternal Isana, the Lord of the world, unborn
+unmanifested, of immeasurable glory. The
+Devas, Visnu, Brahma, etc., do not know Him;
+then what use 1s there in judging of His essence.
+
+area fava wate yey fagrerry
+
+Whe MAYA AeA A AT FAN 3 vei
+Hea Hf: BAM: HT WTS
+SAY: HAT THT: BAPTA: 3 V8 Il
+
+Matsya Puranam
+
+But are you not aware even of His glory that
+is manifest in all the beings, and all the
+Universe? Whose are these forms— sky, fire, air,
+earth and water? Whom do they manifest? Who
+has got the Sun and the Moon for his Eyes?
+
+HAMA CHG fers MAT FTAA: |
+
+G Jarier tar fasta Weta: 34 ot
+
+ward wad da aerate a der far
+
+afett: BLA WAT HEAT SATS 34
+
+aed: APTA SAT ATTA:
+
+Wid: BAT: Yar Mfehrarg raw 3 & VN
+
+Whose phallus do the Devas and the demons
+
+worship devoutfully? Do you not know His
+glory who is called Mahadeva by Brahma and
+Indra, etc.? Whose mother 1s Aditi and who has
+given birth to Visnu? Narayana and other Devas
+have been born of Aditi from Kasyapa. Kasyapa
+
+has been born of Marici. Aditi is the daughter of
+Daksa.
+
+Tiifeaenft east yal at garor: fae
+
+TEM farorarraverteearareg ayaa 3 & 3
+HAY MST UATE: WHAT: |
+
+Wait ¢ ddlarat vafgearafeaan 34 vt
+Te Wass TSAR yary THAT
+
+Marici and Daksa, both of them, were born
+of Brahma and by praying Whom did Brahma
+get His birth from the golden egg? By whose
+meditation, the part of Prakrti was agitated and
+was turnred into the golden egg? From whose
+Third Prakrti', the slayer of Madhu was born?
+Whose Buddhi has created these six vargas’ out
+of their own Karmas?
+
+BATAISHAGA TRON SST HAA: 113 & 4 Ut
+
+q: Vane Gaba wed adateq
+
+var: faguateted cirmendarq 3 & & it
+“Brahma, of unmanifested birth is not born;
+
+1. Third Prakrti, i.e., Tamasa.
+2. The six classes of objects of wordly existence.
+
+## Page 45
+
+Chapter-154
+
+by His power He disequilibriates the Gunas and
+creates this material universe. Brahma is the
+lord of the universe and has extraordinary
+powers.
+
+faghawarcat ae xaufern aca fe
+
+Hara CeIMEH Meh Hea Wee: 34 oll
+
+Hed Wd: PATA TAAL)
+
+Vata fe Wad Bl HATO 1134 ot
+
+Visnu and other Devas assume different
+
+shapes by their extraordinary powers. Visnu
+also enters others’ bodies through His Maya and
+does the wuttama (excellent), madhyama
+(middling), and adhama (inferior) karmas of the
+
+world. The world is liable to perish and to be re-
+born
+
+SHUR Het MAA ea
+
+BT ATA Sa: Wahl BAT AATATI3& Ft
+Taha: Weed FAT AAT
+
+Te BOT WaleaT WUT faaRTIAATATH 3 & oI
+qwrreeqee ufita fe a war
+
+SEraa sarah faattar waa 3 & eh
+
+The fruits of Karma are also various. Many
+classes of men are born in it by virtue of their
+deeds. Narayana relying on and propelled by
+His shadow takes various kinds of births and
+that shadow impels people unconsciously to
+actions. Being thus impelled people, like
+lunatics, consider what is good to be bad and
+what is bad to be good.
+
+eae AaEy YY Ted Tari
+emierdinetrarat fara Fratfert: 113 & 211
+VIASAT eA AAA TET
+
+4 OS silat ste ee ee 7 Hafeaqss si
+Wafer A SPaATAAaTT aT
+
+Sfeat ent uae safessaafeeradi 3 & YI
+FARA TA Aaa errata TTT:
+FAIA: Vel Silarrafergied famanti 3&4 It
+
+47
+
+So Visnu is the sole cause of the so-called
+Dharma and Adharma seen in these created
+customs and usages. Though this Karma,
+Dharma and Adharma is beginningless, yet in
+ordinary bodies, it is not seen of long duration.
+You also have not seen the beginning nor the
+end of Visnu. Corporal bodies perish
+somewhere and are re-born at another place.
+Sometimes they die in the womb, sometimes,
+they live up to old age, sometimes, they go on
+up to a hundred years, and sometimes they are
+nipped in the bud in their early ages.
+
+Wag: Tea AY ASAT: TCA:
+sifaat + fray aeeaisat Tea 3g El
+
+“One, who lives a hundred years, is said to
+enjoy a full life and is said to live for an infinite
+period with regard to a short-lived man. One,
+who ts born first and does not die early, is said
+to be Amara (Immortal).
+
+sepa ea faenreat war:
+URdyeas Tar at oes 3g 0
+a eafearnyg Areata
+
+TANEATT Wao ACUN APTI 3G CI
+We Tai facta wa valine:
+Peat & aaa wiforat wer frre 3 & 8H
+
+In this way, the Devas like Visnu, etc., are
+said to be immortal. Who can attain such pure
+bliss and powers in this universe so full of
+various wonderful things? I do not, therefore,
+feel inclined to marry the Devas predominant
+with trifling transient glories like Sattva, etc. I
+shall only marry, Siva who is the most supreme
+among the Devas and all the beings. This idea
+of difference is the special characteristic of the
+worldly people.
+
+actA eM Heat We
+
+Tena fant We TATA 3901
+eA ANE SOT TAM
+
+Ue Y aaaray cats fafa: 111 319 a
+
+to
+
+id
+
+re
+re
+of
+e.
+nt
+
+1e
+el
+1e
+
+## Page 46
+
+48
+
+I take refuge unto Him, the Lord Siva whose
+intelligence, strength, extraordinary power and
+excellencies are greater than those of the great;
+beyond whom nothing exists, from whom all
+this universe has originated and whose good
+qualities have neither beginning nor any end.
+
+ara a frgdara Waat Ufgereranr: |
+Ud Fryrg set Soa YPaTETATN 319 21
+
+This is my determination; it is very strong
+and seems to be contrary, and the sages offering
+me advice may go or stay.”
+
+AAAI: VeaeM TUT
+HIT TAMA: He HTL Fe 3 3
+
+Hearing such words of Parvati, the sages
+
+were overcome with emotions and spoke to the -
+
+ascetic Parvati in very sweet words.
+RAT dd:
+BAM Ya AAA are
+WAC Ae TAMTAM ATA H 3 19% I
+The Rsis said— “O daughter! It is highly.
+
+astonishing. You are the incarnation of pure
+undefiled wisdom; be pleased with us.
+
+1 ¢ frat aa wea taeteaneaay
+aTTT Sat Ay TASMAN Be tt
+afeared wae arreisd afeeata
+SAAT WHT UT THT; Fa Eh: YAR
+alsat auifernreann: ae et Pritt frm
+aa Tanga TA ATTN ZV
+
+We are very pleased to see your firm,
+unshakeable faith in Mahadeva; at this, our
+inner natures are highly purified. Indeed, we
+could not realise the extraordinary glory of that
+Mahadeva. We have come here to see only how
+firm are you in your Tapasya. Your object will
+very soon be accomplished. As the radiance of
+the Sun and the jewels is inseparable from them
+and as the purpose of writing is inseparable
+from the letters, similarly you are not apart from
+Siva.
+
+Matsya Puranam
+
+sernay a ae: gat we ada
+saeIna OM afd Areas fF 3c ii
+amt frei ar wgistt faaeat
+STRAT Ufa AAT Brat PA AzTAT 3198 tk
+
+This belief is firmly implanted in our hearts.
+When you, who are full of intelligence and
+morals, have made such an attempt to get Siva,
+then He will certainly see to it. Siva will
+undoubtedly accomplish your object.” Parvati
+again adored those sages on their having said
+SO.
+
+weahitet 38 wet feradt wee
+Taree Nas SEERA ol
+
+“oN?
+
+Prt: ATT TWAT SEY: VFUWTAAN 6
+PCN ECCI CIEE CCIEE LT
+Frprecrearateremand Waaeyrqn 32 UI
+AAUP Be ate STTTA
+
+Ga Ft Waa: Ween fata: area 32 3
+TYAN SPAT TATA SAT
+
+3B AAAS: MU AUTH AN 3 2 vi
+frees fannie qrertweticat:t
+
+ca AY fete PERC 13 ¢ 4 Ul
+AU MATT HOT WATS : |
+
+Seren Ufa: Bisa WaTATATT FN 3c EI
+
+The Saptarsis, then, went to Siva. They
+arrived at a beautiful tableland on the top of the
+Himdlayas. There, they saw that the tableland
+had put on the yellow matted hairs and were
+shedding showers of the knowledge of Self; and
+the mountain was holding the garland of
+Mandara it its hands composed of the swarms of
+bees. There, they saw Siva’s hermitage and the
+Lord with His conscience purified by the sacred
+waters of the Ganga, with His yellow plants of
+hair, wearing the garland of Kalpa flowers and
+surrounded by a swarm of black bees. There
+they found all the animals in a_ peaceful
+
+## Page 47
+
+Chapter-154
+
+disposition. The cascades of water were also not
+agitated. The attendant Viraka was standing at
+the door with a cane 1n his hand and adored the
+seven sages when the latter said that they had
+come there to meet the Lord Siva on some great
+business of the Devas. They said that they
+wanted to see Siva for the fulfilment of the
+purposes of the Devas. He was to be their
+intermediary, so that they might not be put to
+unnecessary delay. He was to kindly inform
+Him of their arrival.
+
+ATAU eA EAT Wefan
+
+QU wear fanaa FAT Ble 3 Cl
+
+Viraka gave them seats and replied- “O
+
+Brahmanas! You can meet the Lord after He
+has finished his bath in the waters of the
+Mandakini and finished His Sandhya, wait for a
+while.”
+
+SETA ATT RT TATA TUT:
+TARGA Weeqataytat FAT Fo Ci
+
+The Rsis waited and remained fixed on the
+spot like Cataka bird during the rainy season to
+get drops of rainwater.
+
+ad: aor Ferrameanrfnarfare: |
+arreat fakest prePartarqi 3c 8
+aa facta Srp Teta
+Tara AAT Sa MOHANTA: 113 8 ol
+GMAT FAT: GA AT FE StasaTA: |
+
+fertt waar sere Tee a|
+ASTACAHTAT Ta SPACTCTAT: 11113 & Vt
+SIT Teal ACU ASAT
+SHFATA TA WAV Fat ATS S VM
+Teas a Aarateantshs wary
+ARTA ATAPA MAT FATA: 13 8 3
+UTS GIS AAMT AT: |
+fafagretfeen farat frfteree feryaty: 13 evi
+TUTOR OAT RTT:
+
+49
+
+Poatfnargerret GAT ATE: 13.8 4 th
+
+aa: Fereterar: PAT FAA: WeTATorM
+
+THOT Ta EM: AARHLAT SAT: 1 3 3G it
+
+After a short while, Lord Siva after finishing
+
+His bath, took His seat on a deer skin when the
+attendant Virabhadra bowed down and meekly
+said— “O Lord! the seven illustrious sages have
+come to see you on the errand of the Devas and
+they are eager to be ushered in your kind
+presence.” At that, the Lord made a sign to
+Virabhadra to let them come. Then Virabhadra
+beckoned to the sages standing at a distance to
+come in.-The sages, with their matted hair tied
+up into a knot and with long deerskins hanging
+on them, appeared before the lord with folded
+hands, and approaching Him, removed the
+celestial flowers presented to His feet by the
+Devas, and bowed down and touched His feet.
+Lord Siva cast an affectionate glance towards
+them when they gladly chanted His praises.
+
+RAT Hd:
+al FBNA TIA TEA
+qanisea yt afar
+TATARSTAN eae:
+tert afer ATA PAPATT 2891
+Thus Munis said- “O Lord Siva! we are
+highly gratified, so is Indra. The lord of the
+Devas is sitting before us. What better fruit can,
+
+one, practising a hard Tapasya, expect than
+one’s getting Your favour?
+
+TATA Gat fearae
+Wea TAT Ya TTA
+
+a cessty werneteat
+fanferarsrrgy fe AHN 38 cl
+
+This Himacala is blessed whose daughter is
+practising devout asceticism to get You.
+Tarakasura, the annihilator of the Devas, 1s also
+blessed for he will leave his body through Your
+son.
+
+—-
+
+ng
+the
+kly
+
+ind.
+ind
+
+to
+dra
+to
+ied
+ing
+led
+the
+the
+et.
+
+iQ
+
+are
+he
+‘an,
+han
+
+fom
+
+r is
+ou.
+ilso
+our
+
+## Page 48
+
+50
+
+ARTA Waa HOHATT
+Tah at ufemead fe a:
+a aeettatae saat
+Seay TeATTTAaTRCH AT: 13281
+
+Brahma and Visnu, who are now being
+highly tormented by the power and influence of
+Tarakasura, are also blessed on account of Their
+contemplating on You, the Destroyer of ills.
+
+aehgt waa faut
+TerfererangT STH
+ata wat fafaeratna:
+ferctft aren fagtfasrerai x 0 01
+wa Waearaly ART
+WRT FLOAT Ta TST
+T atea at gate wares
+fase t Ge Waa: FRAT Xo VI
+
+You are described to be the Doer of many
+things under many forms. The stupid persons
+chant Your name only under various words.
+You are the oniy one who knows all about the
+Universe; else You would be known as pitiless.
+Or, it can be said You knows nothing of this
+painful world. For You are actionless.
+
+SAS ATTA TRA
+
+aa Waa Ta St HEA
+TAPTATATA eae
+
+7 fae Frtergferitrar x o 211
+aa a a aera: waft
+
+Talay cat Wace
+wed Ft TAA wer
+
+WA WATT AAPA ¥ 0 31
+amfgarafaat saree
+
+BLAIS Tee TAT!
+
+And if You do remain indifferent, seeing all
+these pains and troubles, then, how can we call
+You merciful. You do rest on Your yoga-maya;
+
+Matsya Puraénam
+
+hence, You are pure and undefiled and You do
+take no pride in good deeds, powers and
+Vibhitis.: We are blessed among the corporal
+beings, otherwise, how could we have met
+You? Now this is our prayer— That our desires
+may be fulfilled by meeting You. Now it is upto
+You to act in such a way that this universe
+which is now in trouble many come to peace.
+We are the messengers of the Deva Indra. We,
+consequently, bow down to You.”
+
+ferrgftet yet faye ai
+Prt Pretoreafesyftratae
+THERA SAAT
+Tas WHA HLA: 1 Xo ¥I
+
+The seven sages expressed their prayers
+sweetly as a good farmer scatters his seeds in a
+well-ploughed field and then bowed down to
+him.
+
+AUT Seat Tay Tat Wena ANT
+ares areata a Wart TAIT Yo 4
+
+Hearing the meaningful and sweet prayers of
+
+the Rsis, the Lord smilingly said like Brhaspati.
+
+Wa Sara
+WM HRM BAM AAT TAT
+SIGUBIGCHIGCOR CU CTCtOUA haeAy
+aayenltedt: aad Sarena yer:
+aat ath aaite fad art faaferrq x oir
+erate fart facet: |
+Gat I aat I Terao Frat: so cl
+
+Sankara said— “I know the excellent work
+that has cropped up for the preservation of the
+world, and that a daughter has been born in the
+house of Himacala. You are also doing your
+best to promote the cause of the Devas. True!
+Every one is anxious to fulfil God’s purposes;
+but though one desires quickness, yet there is
+some delay here. It is necessary, that the wise
+
+1. Superhuman knowledge.
+
+## Page 49
+
+Chapter-154
+
+should follow the rules and customs; for the
+ordinary people will follow that.”
+
+sae Wal geattard fearacry
+aa at Ufrarety Peavey BET
+Sarat: Wat: <araeUt aTAATI vo 8H
+Hearing those words of Siva, the seven
+sages saluted Him and went to Himacala where
+they were adored by Him with great hospitality
+and endearment after which the sages uttered a
+few words hurriedly.
+Ta Sd:
+cat Sfeat Manica cat ATTA
+TAHT WAM AAS AAAATIUTAI ¥ RoI
+areicer carat Bat afta
+WIggrnde feat t ATTA: 1s V2
+The sage said— ““O Himacala! Mahadeva, the
+Lord Himself, asks for Your daughter. You
+should, therefore, make over your daughter to
+Him in the presence of Fire. The great work of
+
+the Devas 1s pending long since, and you should
+fulfil it for the salvation of the universe.”
+
+SAAT Vet salfassaeATT
+HAAMSMARH ATL MAT PATI Y 2
+aat WaT FAY aT Ware Ciefaacran
+Sagar Wiga eorsrermelferq v 23 1
+
+Hearing those words, Himacala tried to
+speak, but could not give a reply distinctly,
+being overcome with emotions. He mentally
+approved of it. The clear Mend, then saluting
+the Munis, began to speak out Her mind, deeply
+affected by her love towards her daughter.
+
+Waar
+aed gfegara tascaft HeraCTA
+Tea Was WHA ATMA ¥ Vw
+HMA AU ayeaagasea at
+STARA ATA Ya SAT SAAT: HY BG A
+TORT a ae Yat wareafen
+
+Wataresrercatted feaeret afgerreaarq & 26 tt
+
+Ser Greet gy freer fer:
+
+HA: WSC ANAT ATH ¥ 29 1
+
+Mena said~ Though the birth of a daughter
+
+is highly meritorious, yet, what people do not
+like, has just taken place with regard to my
+daughter. One ought to marry one’s daughter to
+a man who is well-qualified as regards his
+family, birth, age, beauty, good qualifications
+and wealth and who does not himself seek for a
+bride. How, then, can I give my daughter to one
+whose only qualification is his asceticism. Now
+do according to the wishes of my daughter. The
+Munis then replied in words suited to please
+women.
+
+Wa: ad:
+UPTTTAT ET MATT HTT: |
+AAMTATT STON TAAL, Aad ¥ Ve Ut
+TANT IgG UT a Toray far
+Ot Wed Sent at BIT sa: ¥ Ve 1h
+
+Tea goats aTearerta GATETY |
+
+aa Wale Mad AMT Ba vfaeaer x 2 01
+
+sec fatten arg 4 ayaa vient
+
+The Munis said— Hear now about the
+
+qualifications of Sankara. The Devas and the
+Asuras worship, with great devotion, His feet.
+Whoever wants anything, gets that from Him.
+Therefore, this girl has practised severe
+austerities long since to attain Him. She, the
+Devi, will be greatly pleased on anybody who
+will enable Her to attain the fruits of Her vow.
+Having said so, the Saptarsis took Himiacala
+with them and repaired to Parvatt.
+
+FAATSACATATOM TART SATIS 2 2
+Men Wa: Pere TTT
+
+Tey ret Talent aT ST ATAT ENS?
+UTE VST: uiforag Ufa aerate
+aera Pat TAA UY 23
+
+## Page 50
+
+32
+
+frat We Ve Wes Ta TT: AMPSTTN vi
+
+The sages sweetly addressed the auspicious
+Parvati who was radiant like the Sun with her
+fire of asceticism. They said, “O Beautiful one!
+do not consume yourself any more with such a
+rigid asceticism. Early in the next morning Lord
+Siva will accept your lotus hands. We had first
+gone to pray to Your father and You should
+now return home with him.”
+
+SH AA: Te Heit Fas AM
+TaTATON Bat AeA FghecoertAT Ny 24 I
+Ol wa Wet Wy aaa Tet
+
+TEMAM SAM THTST FATA YE I
+
+Hearing those words Parvati exclaimed-
+“Oh! Tapasya yields fruit,” and instantly went
+to Her father’s home considering Her asceticism
+as accomplished. There she felt a single night
+like a long period of 10,000 years and became
+greatly eager to meet Siva.
+
+aa Wed Tel FT TH: Tea:
+TABATA SUTSAAN ¥ VI
+feaMUSTtsTt Wat Age
+sured fat wal sera: Arai: nx eI
+Afterwards in the auspicious moment in
+early morning (Brahma-muhirta), the dear
+friends of the Devi performed various
+auspicious ceremonies, adorned Her body with
+various ornaments and took Her to a temple
+filled with auspicious things, where the seasons,
+
+incarnate in their proper forms, worshipped
+Himacala.
+
+areal after warestafaat fit:
+aay St: Tae Sat HATTA 2 2
+The wind accompanied by clouds came and
+
+began to work as sweepers and the Goddess
+Laksmi came herself in all Her riches.
+
+ait: Wag May sehgerraarem
+faafUrAa Tt: Vet AAAS 3 oll
+STATE HEUTE: |
+
+Matsya Puranam
+
+seer aftacasy feeatafererat ara: i v3 gi
+Tay masa ad vera FRSA:
+FRSTET Me STATA: 3 VM
+
+Lustre and affluence pervaded everywhere.
+Fortune and success reigned. Cintamani’ and
+other gems, Kalpa trees and trees yielding all
+desires, appeared in Himalaya’s room. All the
+mountains and Divine herbs presented
+themselves there personified. The Rasas’ and
+the ores also turned up there and acted as
+servants.
+
+Ta: Vag Maer: Wat AEH A Ad
+acda fausterel afer gadi ¥ 3 3 11
+
+The rivers and the oceans and all things,
+moveable and immovable, also went there
+personified and the whole Sthavara and the
+Jangama’ worlds added to the lustre of that
+mountain.
+
+TAA AT TAT Ta HAT:
+MST faa WMTSATTSAI Y 3 II
+Ue MOSTAR ATTA |
+The seers, the serpents, the Yaksas, the
+Gandharvas, the Kinnaras, and the Devas, all,
+came to the Gandhamadana mount, well
+arranged and became the attendants of Siva and
+
+assuming beautiful forms, began to arrange the
+mandana (head ornaments).
+
+Waenty wee waaus fra ¥3 4
+qa Woraerfacatafactrat
+HUTA FATA ATTOST HEAT ¥ 3G At
+
+owt
+
+. Cintamani = Philosopher's stone.
+
+2. Rasa = Sap, Potion, taste, delight, They are six in
+point of taste, viz— hd, Ai, FAYL, cidy, fath and
+Ha. They are eight in point of sentiment, viz. J,
+ara, wen, de, dk, ware) Srey
+AR TH: But sometimes their number is nine by the
+wid ta being added and sometimes aee4 is also
+added making them ten.
+
+. Immovable and movable property
+
+ane
+
+## Page 51
+
+Chapter-154
+
+Jara ANY eA Ya SAT VISTI
+a debsaci seat ot THendfaeafan x3 01
+Brahma very lovingly decorated the plaited
+
+hair of the Lord with the moon and infused love
+and generosity into the fire of the Third eye of
+the Lord. The Goddess Camunda tied several
+garlands of heads on Her neck and said to Siva,
+“Please, beget a son who may be the destroyer
+ot Tarakasura and thus I may be gratified with
+the blood of the demons.
+
+iain YHe Ua
+THT Ye Haat MST: WUSHTATN ¥ 3 cI
+Visnu, then, stood before the Lord Siva
+holding the crown decorated with fiery serpents.
+Val Tas TA TAVAATTTeTaA
+ae awed Raaigeitoratasrgi x3 ei
+arqa faget deoryg feataitar
+qe farwarra start weRTAT sv ott
+fatyqa ARTE: PS: Taree:
+Tat eft eRe TTT: SHUATATTT: 11 w¥ 2
+Indra held before Him the elephant skin,
+Vayu nicely decorated the sharp horned
+Nandisvara and the Sun, the Moon and Fire
+(Agni) inherent in the eyes of the Lord and the
+
+witness of the actions of all beings enhanced
+His lustre.
+
+FIAT AUT HUT THT
+TMM WATT FT UTA YY 2
+ata: 7 Bt We: Wada
+ATTA SATS TTI BY 3 Ul
+fererraregncat TaUorM
+
+HUTA TAM AYles Aah TATA YY
+WAM EM MATA sa TA
+
+aT AF TOOT fara SHAN Y ¥4 It
+wyetrad a At aaraas wert
+PANU St WANG WATT IY EI
+
+33
+
+We aay: Ay TIT
+
+Cat fattened Hereafesrctrat ¥ vio it
+MAST AAT ATT Wars Hyra: |
+Wa SARI WTSI wc It
+
+Yama, the Lord of the departed, waited,
+holding mace in one hand and the silvery ashes
+of funeral pyre in the other; he put on the
+wreath of skulls on his neck and arms. Kubera
+presented to Lord Siva various kinds of
+ornaments studded with precious stones. Varuna
+presented an excellent wreath. But Siva did not
+mind it; he put on the bracelet made of furious
+snakes and His two ear-rings were made of the
+snakes Vasuki an Taksaka. In that way, all the
+Devas went and said to Virabhadra “Please
+announce us to Siva. Now let Him be
+decorated.” Afterwards the seven oceans
+became ready to serve as mirror. When Lord
+Siva saw himself there, the Lord Visnu bowing
+down on His knees said to Siva “O Deva! You
+do look exceedingly beautiful in this Your
+Jagadananda form, the form that gives great
+bliss to the Universe.”
+
+Tet: Weare dacafateary
+ISAT UTA WaT ATA YX 8
+aeMaiad CayT: Melaaray:
+Tet: CRA MAT ATTA WEASSTATI 4 © II
+At this time, all the Devas sent the Divine
+Matrkds' to Rati, the wife of Cupid, who
+brought Her to Siva and said “Rati 1s standing
+
+in your presence; but she does look well in that
+Cupid.”
+
+|. Mex: = The Divine mothers said to attend on Siva
+
+but usually on Skanda. They are generally said to be
+8 in number. viz., owen, mead, usl, ANTE, awat
+a a da ae] apache AG but
+sometimes they are said to be only 7 in number, viz.,
+Tet wat ta Bard dod gem mest da are
+ATS dq AI: 11 and sometime their number is
+increased to sixteen.
+
+— #& S&S UW Wn OO O O OO DW
+
+Dm ON s
+
+=
+
+UY OO ©
+
+## Page 52
+
+34
+
+ade Aiaarates ASR TAT
+Tae fifraqaare saya: Y 4 Vik
+
+Hearing those words, Siva gave Her hopes,
+raising His left hand and felt anxious to see the
+face of Parvati.
+
+aat ett fenfattecugh
+
+aqad Yona: wale
+mergt TUG |
+
+F MAAMART THTTATI YY 21
+
+Then riding on His lofty bull He made a sign
+to His ganas to march slowly and made a move
+towards the abode of Himacala. The earth
+trembled under the weight of the followers.
+
+aa aftgarerastine:
+wi: saTgaraAty fase
+AUTH: WMaherayAsS Ta
+WATT HoT WAST THEA Y4 3M
+The road became very dusty and Visnu’s
+
+ornaments became all covered with dust. He felt
+fatigued and sat down under a tree to take rest.
+
+wa: qT: WIAA TTL
+
+Uaisvarayaferaistt area:
+ferret faafa fated arth
+
+ware Teaco feargta: liv 4 Bh
+Terra: aed Perea
+
+UA: Aegan WHAT
+TOMTTATA AF TTA
+
+atat: Fereafeaha teat v4 1
+
+He began to say— “Please move on quicker,
+do not tarry in way,” when Viraka, the son of
+Siva, said looking scornfully— “‘O roamers in the
+sky! What beautiful thing is there that you are
+delaying? O mountains! Go at a distance, O
+oceans! Convert your waters into stones. O
+Demons and Pretas! Clear out the mud in the
+streets. Ganesvara, and others do not be restive.
+The patient Devas are watching. Devas! You
+
+Matsya Purdnam
+
+should also move calmly.
+4 yfgon waarqaaer Arad
+forafet: Wy aAvSaaT: |
+gat aA; wenfendacntert
+aaa Asha fag WT SG Gl
+We + agg: YxtaaT
+WT aga AITAET!
+at AT: yaratfatsrsa:
+warrant Feporaey SAT: GON
+
+Bhrngi, the attendant of Siva, is taking the
+broad mouthed skull for Siva; he is so much
+absorbed that he does not mind his own body. O
+Yama! It is useless for you to hold a club
+instead of a human skeleton. Being encumbered
+with the horses of chariots and Matrkas, Siva is
+going slowly. The Devas, attended by their own
+follower, are marching separately. The
+Pramathas, the favourites of Siva, have already
+marched twice the distance.
+
+Tae: varfaepramy-
+
+sequal ferercerntetta: |
+au: wae feature a wry
+
+frat FaaraaaTT TAN YG C1
+
+O Devas! go on your own vehicle, with
+cdmaras and banners streaming in air. Why are
+you not paying heed to the tunes tn your songs?
+
+4 feattiafag fe wear
+
+FATT RA Sa:
+Tauictar: faite at TesTEATA
+
+GT GATT SAAN SY BI
+TAMA aaa TAT:
+
+Yaa Maha fata
+fagigat varahaiayntert:
+
+TART FATA MSA: NYE oN
+fatten: teafatt + aTgarey:
+
+Ta Tenet S ATS
+
+## Page 53
+
+Chapter-154
+
+WT: Yet Tata fe Tea aera
+AGRA TATA ¥ & RM
+at gatas Tah
+facnfatt agraaRtaaay|
+waa fafeererenferenteat
+WHI AKAM TATTT: YE 2
+eta a fafaraafatataen: |
+TWA arya 7
+Yasar: fenfata a wedarictrer: ws 3
+sfatraanriatearert
+ddan fatter + qatar
+1 ead agfarareetat
+variants AT ATU YE ¥ II
+
+The Kinnaras, ornaments are making noise
+too much. The Gandakas are moving swiftly
+playing quite in three respective tunes
+harmonious to each other. Why do not the
+singers, the Svangavadins go in front, singing
+harmoniously? These pleasure loving Naga men
+are singing various songs illustrating the praises
+of the Lord. Why are the voices of the celestial
+ladies heard on this side so often? Various
+tunes’ are being played— Muraja, etc; but why
+not even one Mircchana’ is being heard here?
+Play on your tambourines and Vinas directed by
+the Gandharvas. Play your various kinds of
+drums.”
+
+safe fataargnier:
+QUA: Als F ACHAT: |
+
+ed
+
+. The fourth or first of the seven primary notes of the
+Indian gamut so called because it is derived from the
+six organs. It ts said to resemble the note of a
+peacock.
+yeay= Mean time in music
+
+~
+
+A duly regulated rise and fall of sounds conducting
+the air and the harmony through the keys in a
+pleasing manner, changing the key or passing from
+one key to another.
+
+35
+
+Praifiat: weradta efaar-
+Sa Wehaet WITT YE 4 I
+Sf waaay Taree
+WA faeferagtetarat
+WIRY sae:
+Forte ARIAT TAT NYE EM
+Hearing those words the Devas, enjoined by
+Virabhadra, drowned the universe with their
+music and joy. The oceans and the clouds both
+
+began to roar. At that time, Himacala was
+agitated by the quick march of Siva.
+
+UAHA Aaa
+qafarreratenrayra tena
+FAITH & & 9 It
+Qeyretaalaatoracacy
+fraisraet WaaaRPTTTTN YG CI
+ara: Waa
+
+att warfiham waraaT
+AOA WATT ATTA: i SG Bt
+
+Afterwards the Lord Siva and the Devas
+entered in a moment the mansion of Himacala,
+which was conspicuous with thousands of
+golden gateways and streamers, having many
+houses studded with various kinds of precious
+stones, floored with Vaidirya gem, trickling
+with showers and cascade waters, the squares
+looking charming with Kalpavrksa _ trees,
+gleaming with white, black and red: ores, the
+pathways shining white like Laksmi, pervaded
+
+with the odour of flowers diffused all round by
+the wind. ,
+
+a wasrarameafactes
+eaperat AM FAT: |
+
+## Page 54
+
+56
+
+ar waar
+MATA AAAI 89 0 I
+
+All the citizens became very eager to see the
+Lord Siva on His entering the town. The elderly
+matrons became anxious; the people thronged
+and rushed to and fro. The streets were over-
+crowded.
+
+PU RCIOURICC SIS
+Greer TAGAT arf
+ATU faa AAATSTII Yo VI
+
+The Divine ladies peeping through the air
+holes were looking on the huge crowd; and
+hidden in their own garments and ornaments
+witnessed the lotus-like eyes of the public.
+
+MARact Haas THAT
+
+AHA WAT START
+aagara Het AAT
+
+SA A A HS Fv
+Sea Wa TATA
+
+armed wae fared
+aiferata tae Tetctt
+
+We Wet fareeatcrargTTN vio 3 I
+Tl Met Hereataag
+
+Vg CH ag AT
+AUT FAAAITATSET
+
+aframiarten STA vox
+UT A AT AAMT
+
+TRaerafa: TAT: |
+
+WAHT AAT TERT VV
+Wa Tae HUT aay
+
+educa: vifyraten
+grata SAISHT
+
+Try ferqetacoTe! v9 It
+
+Matsya Puranam
+
+Some were showing off their beautiful
+omaments. Some, putting on _ beautiful
+ornaments, abandoned the company of their
+maids and began to look at Siva. Some maid
+said to her mate “O Companion, do not be
+restive in having a glimpse of the Lord. He
+himself consumed Cupid and has now of His
+own accord felt inclined to enjoy the company
+of woman.” Some woman knocked down
+during the bustle said to another burning with
+the pangs of separation from her husband.
+“What are you looking? Do not speak, out of
+mistake, any love expressions to Siva.” Some
+woman would not see Sankara on account of
+distance; but said after some reasoning “Siva is
+here where Indra and other celestial Devas are
+standing. Other ladies began to salute Lord
+Siva, taking their respective names and praying
+for desired objects. The worship of Siva bears
+fruit. Some lady exclaimed- O! There is Siva
+whose forehead is adorned with the Crescent
+Moon. Indra, the Lord of the Devas is
+perspiring and is going ahead of the Lord
+making way for Him.
+
+UT F TaTasTyas
+WME TTAPTTS : |
+fafagara fra giryeti vow
+; " |
+, Ff
+WaTHeL Us feat Uv
+O! There is Brahma, with matted hair and
+wearing deer skin. He is whispering something
+in Siva’s ears.” When the Lord reached the
+Himalaya, the Divine women raised the
+
+following chorus “Through the union with Siva,
+the birth of Parvati has become fruitful.”
+
+am fenftaden fasantratar
+TAA TIT AT SAH SAT V9 8
+
+## Page 55
+
+Chapter-154
+
+Hear a eae Seaterata erat aT
+
+AISIMaCaTST Arar galeAAN ¥ co tt
+
+TEATGT: Hea YU SBT AeyTA
+
+Sartor ane Ta AT aT eS 8
+
+Afterwards, the Devas saw the house of
+
+Himalaya and were gratified to see the mansion
+designed and built by Visvakarma looking
+majestic with its pillars of white sapphire,
+decorated with golden chairs and pearl
+hangings, resplendent with herbs and beautified
+with many pleasure gardens and lakes. They
+thought that their minds and eyes had become
+blessed with that wonderful sight.
+
+farrqantutenaye |feort are eer:
+
+ata Ware fafagataenfar: ss 2
+TUAATACTUT Ustasa ATS:
+
+dant fata wa falerragTere ¥ ¢ 31
+aT UOTE ere
+
+Hari then went and stood at the gate, so that
+any body might not enter. The rush, in
+consequence, was tremendous; his armlets were
+broken and powdered to pieces. Then Himiacala,
+meekly and appropriately, adored the four-faced
+Brahma, who repeated all the mantras and
+performed all the marriage ceremonies, making
+fire as witness.
+
+Sle Elgar Tet Var SaITHG ve vi
+A: UYUld: any aa ferureforetam
+AUT TAT FUQTATOT BNSC 4 I
+carat Frauat ere STR: |
+FaRNRAar Ware Tae Yc & I
+oT F Ufsat eat WaMranan
+
+Jalal FHT: PAIRING ASC
+Want a ofa Tae TI
+
+TA ATU sat Bde: Wacker xe ci
+weane fonts saraeonts a
+arecfaferanttr wad: MAU AT:Uws 8
+
+57
+
+arqdat qa: gad fay:
+
+SASHA Yat A WaT on
+
+WME Glad: arat argferergyaTt
+
+Siva, then married Parvati. Everything was
+
+performed without any hitch. At that instant, the
+King Himacala began to bestow lavish charities
+on the deserving. In this marriage, Himalaya
+was the giver. The four-faced Brahma
+performed the part of Hota the Lord Siva was
+the bridegroom and Uma, the representative of
+the universe, the bride, and all the beings, along
+with the Devas and the Raksasas became fixed
+with attention. At the same time, the Earth also
+brought forth new produce and herbs. Varuna
+appeared before Siva holding various gems.
+Kubera brought ornaments of gold, pleasing to
+everyone, for the Lord Siva. Vayu began to
+blow gently to soothe everyone. Indra with
+garland round his neck and with arms decorated
+with many ornaments spread an excellent white
+umbrella shining like the moonbeams, over the
+lord. Then the Deva Sankara adorned with all
+omaments, enhanced the delight of all the
+beings.
+
+ATTA TIGA TOT: 1 ¥ 8 vit
+aTeetshgt ap rlafeaat: |
+
+Wes AAA TTT ATA SU Xe 2
+SUT TOT eaA PATI
+
+SB HAVA FSO TATTATSTIL Xe 3
+warteed Het UM we satay
+aaret fates qracidatfaa:u vex
+
+The chief Gandharvas began to sing and the
+nymphs started dancing. The Gandharvas and
+the Kinnaras danced and sang exquisite music.
+The six seasons appeared incarnate to
+participate in the universal rejoicings and
+danced and sang. The sportive attendants of
+Siva paused on the Himalaya, after being
+exhausted by their pastime. At the same time
+the Lord Mahadeva fuifilled duly all the rites of
+
+## Page 56
+
+38
+
+the marriage in conjunction with His noble
+consort Parvati.
+
+NAGA AIT AA Tera As WAH:
+Aa TIAMAT JIATCATATATTN ¥ BGI
+
+On the completion of marriage, the Lord
+stayed in the Mansion of Himacala along with
+His consort for that night. The Gandharvas
+entertained them by singing and the nymphs by
+dancing.
+
+wafatrdaceart fragt fagentern:
+oral feagtersy wat UrTAT Tel
+WM We aga PFTOT ¥ eG 1
+
+He got awakened early in the morning by
+the praises of the Devas and the Daityas, Then
+the Lord Siva with His father-in-law’
+permission started to the Mandaracala mountain
+in company with His divine Consort, riding on
+His bull swift like the wind.
+
+aa Ue Wale Alerenfed
+TATA TATA YET:
+Waa Taft A HAA Tl
+fags wf fe arenritg: seo
+
+After the departure of Mahadeva and Uma,
+Himacala felt very lonely and dejected in the
+absence of Parvati as often is the cases with the
+father of the bride.
+
+vartafrenfengieanime
+Megha waleatyt FH
+
+Be fret farenqetead ae
+farafsstaratPragis tar TRAY 8c
+
+Then Himacala bade adieu to the Devas and
+entered into His city naturally resplendent, and
+adorned with Gopuras made of jewels, and
+beautiful internally with diamonds, gold and
+other precious gems.
+
+malaratedt cat ferent werfeten
+Weng way fafawy a4y Ae i
+
+Matsya Purdnam
+
+Here, on the other hand Mahadeva with
+Parvati sauntered about for a long time in the
+charming groves and solitary forests of the
+mountain.
+
+GORE TAT THTHITA: |
+
+aat agiaa ater YAaATAT FL: YATUY ool
+waif: ate atst aa Higa:
+HEART MAA PST 4 o 2
+qUregdarnre Ufeattat ATA
+
+AEA Te Al Wa TATA 4 0 VM
+Yad chisdt eal J areata
+weer frarawareadt: ASTETEAT: | o 3A
+Saas WaT ATT
+
+Tagara f at Yaa TATRA G o VI
+TAA She Setey yas TATA:
+faa MT SeTaCa TAATAS: 14 OG I
+
+In course of such pastimes, Parvati felt
+inclined to have a son. She made several dolls
+and began to play with them in company of Her
+maids. Sometime P&rvati rubbed scented oiled
+mixed with powder over Her body and made
+with the dirt of Her body a human form with an
+elephant’s head on his shoulders. Parvati
+sportily threw that son into the Ganga river
+where he became enlarged in body. So much so
+that he extended himself as big as the world,
+when Parvati addressing him as son called him
+to Her. The Goddess Ganga also, at the
+sametime, addressed him similarly whence he is
+known as Gangeya; then the Devas worshipped
+him and Brahma named. him Vinayaka and
+made him the head of all the attendants. Ganesa
+was thus born from Parvati.
+
+WA: Ot wlsd Meh Yat aratorn
+TAAL BEAM YMA G 0G it
+
+Again, Parvati longed for a son and began to
+play similarly. She planted a sapling of Asoka
+for the pleasure of Her son and took very good
+care of it.
+
+## Page 57
+
+Chapter-154
+
+agaara Ft AT HaaeArearen
+qemahryearaneareatrgery: tt | ott
+
+aat caer Afar: Wr cat freare ate
+TAA Aa WMT WAT STATA G 0 CI
+
+The tree soon grew by being watered and
+looked after so carefully. Then once on an.
+occasion, Brhaspati, the Devas, the Brahmanas,
+the sages came there and said to Parvati- “O
+Bhavani! You have been born for the benefit of
+the world and all desire the birth of a son.
+
+Wa; YT cits: YaaayT oad
+
+START WAT: Wet BIRT SaCATT IG ott
+ae ate Art watet agrefan
+
+wet fer afar ofa aafeuceTEg aa:
+
+Sa AUST Maratea yet FTN gol
+
+Most of the creation seems eager for
+progeny. The people consider their births
+successful by seeing sons and grandsons. O
+Devi! What object can be gained by creating
+and rearing up trees like sons? Those who have
+no issue usually become dispassionate to the
+world and try their best to obtain Devahoods.
+Now you ought to set a value on actions like
+this.”
+
+coqaret
+Ud Preah oy a: He Haga: |
+fart fast a drrea adedarat fefany een
+SMART AG SATU AA Be:
+CVSeaM: YaT SMYAAAIGT: |
+Wheat UT Hater Fraat MTA & VIE
+
+Parvati said— “One who makes a well in a
+place where there is scarcity of water, lives in
+heaven for as many years as there are drops of
+water in it. One large reservoir of water 1s worth
+ten wells. One son is like ten tanks, and one tree
+is worth ten sons. This is My moral and I am
+prepared to protect the universe to the same
+end,”
+
+39
+
+spre aa fam geeafee: |
+WY: TaPaTTa MAT ST AST 23 11
+Hearing such words, Brhaspati and other
+
+Brahmanas returned to their places after
+saluting Parvati.
+
+TAG Ay SarSTT Prat: Tae
+UOT TATA PA: MAMET ATTN OE
+
+When all of them returned to their abodes
+Mahadeva gently took Parvati by Her hands and
+made Her enter slowly into His palace.
+
+PRAMAS WATT NAT
+orale Ufererenerateanyn & Bu It
+Pafracatd a alergenarcry
+
+TRUS TET eer ATA & VE I
+
+She went inside the mansion which was
+pleasing to the mind, the doors of which were
+decorated with hangings of pearls, the walls
+were of gold; it was full of pleasure courts and
+looked most enchanting by the buzzing of the
+black bees over the floral wreaths.
+
+Ferartr aera Teer caer
+Qua: WATCTETTTH & V9
+HerAniaad & aarfehe: |
+FAASIAHSYS Taifemerareaayn & ec it
+SANTA AMA TEM: FA THeTA!
+
+NC DELOR MONUICICCC A TELE]
+frat atfsaurcen wfcfaftarct fren: |
+AMSA Cat STII 4 Yo
+VSR Hiss aa fats
+
+ay: aera weit faataratrdatn s 2 git
+Wa wealsdhera Salerstareren
+
+MSHA ARTA ST TAT 4 2 VI
+age aigerrect fartafat METH
+Wrest YMaet faaraqdaqy 231
+
+There the Kinnaras were singing, the whole
+place was well scented and the peacocks were
+
+## Page 58
+
+60
+
+sporting, the cranes were throwing out their
+notes, the pillars of gems were dazzling with
+lustre, the parrots were sporting on the walls of
+lapis lazuli. At some places the ladies of Yaksas
+were playing on lutes and sporting. The
+Kinnaras were constantly singing and dancing
+at various places; cranes and Sdrasas were
+moving at other places; at other places the
+pearls were reflected on the floors made of
+gems; and Suka birds thinking them to be
+pomegranates were striking them with their
+beaks. Within such a mansion, Siva and Parvati
+began to play dice. When both of them were
+engaged in play on a floor made of Indranila
+pearl, there was a tremendous uproar all at once
+and the delicate Parvati enquired out of
+curiosity from Siva the reason of it.
+
+sara eat Aad gEyd glare
+Ue WUT: StS BMerwshery af: WaT & 2X
+
+Then Siva told her- “O astonished one! My
+dear attendants, the GaneSvaras, are sporting on
+this mountain. You have not seen before them.
+
+qa geaaur Fra: aaa: |
+
+Ae afar: a TU APATATING VI
+AAAUTAMAT HT FE YM
+
+SUT RAST STATON AAT 1 2K I
+
+Those excellent human beings who have
+won my pleasure and appreciation by observing
+austerities, fasts,celibacy and pilgrimages to
+sacred places have now acquired my Ganatva
+(office of attendants) and they can assume any
+form at will.
+
+auMfaaa set wats aerenferary
+
+ATA WTA: OT AST NG Vl
+
+Weratwarread: Vera: |
+
+faassen Fred Afhfacfedt Ty 21
+
+en F aredaigrat wt aifeat firth
+
+SIM F Tat Sal aa aeeTaHT G 281
+They are full of enterprise; they are highly
+
+Matsya Puranam
+
+energetic and endowed with great forms and
+virtues. I am also astonished at their deeds.
+They are powerful enough to annihilate the
+universe including the Devas. I may forsake
+Brahma, Visnu, Indra, Gandharva, Kinnara and
+the serpents but I cannot live without these
+attendants. They are all enshrined in my mind
+and they always play in this mountain.”
+
+Taal Nera feareraran
+
+MAT HM at FAT: WET AIA 4 3 oll
+STEMS: ahferen aay: |
+
+SAAMI TATA: FONTSSM: IN & 3 VU
+ater sie: Papa: Fonfrgaeraen:
+AAMAS TAGA AAMT AG 3 UU
+aaaniagen Aaa fers: |
+
+THAT WAHT ACAIATOTAT: 14 3 3
+
+Hearing that Parvati felt astonished and
+leaving off play began to peep at them through
+the air holes. Some of them were lean, others
+corpulent, some tall, others short with big
+stomachs, with their faces like those of tigers,
+lions and elephants. Some of them were like
+sheep and goats. Some had variegated features.
+Some were blazing like fire. Some were dark,
+others yellow. Some were gentle, others grim.
+Some were of smiling disposition. Some had
+black and some brown hair. Some were like
+birds in appearance. Some had faces like those
+of the various kinds of deer. Some were dressed
+in the Kusa fibre and skins; some naked and
+some of deformed appearance; some with their
+ears like those of the cow, some had ears like
+those of elephants.
+
+UgUer aya TeeaaUTITA:
+SAHHYAGST APTATOANAATT: | & 3M
+FATA AMTHACTSOT |
+fafararearnct Teerear Tea 1G 34 II
+SOTATENSY SST AAT
+TOA SBT Sat WaT PSTN Y BEI

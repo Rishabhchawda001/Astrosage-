@@ -1,0 +1,101 @@
+{
+  "title": "Brahma-Sphuta-Siddhanta_VOL_I",
+  "discovered_at": "2026-07-13T12:46:34.654013+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "xnoo_brahma-sphuta-siddhanta-vol-2-vasana-vigyana-by-brahmagupta-ram-swarup-shar",
+      "title": "Brahma Sphuta Siddhanta Vol 2 Vasana Vigyana By Brahmagupta Ram Swarup Sharma Sanskrit Hindi Astronomy 1966 Indian Institute Of Astronomical And Sanskrit Research",
+      "creator": "Indian Institute Of Astronomical And Sanskrit Research",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "brahma-sphuta-siddhant-vol.-1",
+      "title": "Brahma Sphuta Siddhanta",
+      "creator": "",
+      "year": 1966,
+      "language": "eng",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "brahmasphutasiddhantawithvasanavigyanaramswarupsharmavol2_512_r",
+      "title": "Brahma Sphuta Siddhanta With Vasana & Vigyana Ram Swarup Sharma Vol 2",
+      "creator": "Pramoda Chowdhury",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3012558706",
+      "title": "Pendidikan Ilmu Astronomi Dari Historis Sampai Heliosentris",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "http://dx.doi.org/10.38153/almarhalah.v2i2.18",
+      "authors": [
+        "Nabil Nabil"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3027770854",
+      "title": "Perspectivas hist\u00f3ricas y epistemol\u00f3gicas del n\u00famero cero",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://revistas.uptc.edu.co/index.php/praxis_saber/article/download/9847/9288",
+      "authors": [
+        "Jonathan Steven Villamil",
+        "Lida Esperanza Riscanevo"
+      ]
+    }
+  ]
+}

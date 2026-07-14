@@ -1,0 +1,335 @@
+{
+  "title": "the-secret-of-the-veda-sri-aurobindo",
+  "discovered_at": "2026-07-13T17:06:41.233035+00:00",
+  "edition_count": 15,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Veda Rahasya",
+      "authors": [
+        "B. H. Shridhara"
+      ],
+      "year": 2017,
+      "languages": [
+        "kan"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "bhs.vedarahasya0000bhsh"
+      ],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Shiva Offset Printers & Publishers"
+      ],
+      "ol_key": "/works/OL43010317W"
+    },
+    {
+      "source": "open_library",
+      "title": "The Secret of the Veda (Guidance from Sri Aurobindo)",
+      "authors": [
+        "Sa Ashram"
+      ],
+      "year": 1998,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9788170581925",
+        "8170581923"
+      ],
+      "publisher": [
+        "Sri Aurobindo Ashram",
+        "Lotus Press"
+      ],
+      "ol_key": "/works/OL9087350W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "the-secret-of-the-veda-sri-aurobindo",
+      "title": "the-secret-of-the-veda-sri-aurobindo",
+      "creator": "Sri Aurobindo",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "vedic-and-philological-studies-sri-aurobindo",
+      "title": "vedic-and-philological-studies-sri-aurobindo",
+      "creator": "Sri Aurobindo",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "secretofveda0010sria",
+      "title": "The Secret of the Veda",
+      "creator": "Sri Aurobindo",
+      "year": 1971,
+      "language": "eng",
+      "formats": [
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "JPEG Thumb",
+        "JSON",
+        "LCP Encrypted EPUB",
+        "LCP Encrypted PDF",
+        "Log",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "PNG",
+        "Page Numbers JSON",
+        "RePublisher Corrections Processing Log",
+        "Scandata",
+        "Single Page Original JP2 Tar",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Title Page Detection Log",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2180382370",
+      "title": "Toward a new Hermeneutics of the Bhagavad G\u012bt\u0101 : Sri Ramakrishna, Sri Aurobindo, and the Secret of Vij\u00f1\u0101na",
+      "year": 2015,
+      "is_oa": true,
+      "oa_url": "https://muse.jhu.edu/pub/5/article/596337",
+      "authors": [
+        "Ayon Maharaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2172207084",
+      "title": "Sri Aurobindo, India, and ideological discourse",
+      "year": 2013,
+      "is_oa": true,
+      "oa_url": "https://internationaljournaldharmastudies.springeropen.com/track/pdf/10.1186/2196-8802-1-1",
+      "authors": [
+        "Debashish Banerji"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Secret of the Veda",
+      "authors": [
+        "Sri Aurobind"
+      ],
+      "year": 1982,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 2,
+      "isbn": [
+        "0897449754",
+        "9780890713020",
+        "9780897449755",
+        "0890713022"
+      ],
+      "publisher": [
+        "Sri Aurobindo Assn",
+        "Auromere Books"
+      ],
+      "ol_key": "/works/OL9217565W"
+    },
+    {
+      "source": "open_library",
+      "title": "The secret of the veda",
+      "authors": [
+        "Aurobindo Ghose"
+      ],
+      "year": 1971,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Sri Aurobindo Ashram"
+      ],
+      "ol_key": "/works/OL10461682W"
+    },
+    {
+      "source": "open_library",
+      "title": "Secret of the Veda",
+      "authors": [
+        "Aurobindo Ghose"
+      ],
+      "year": 1971,
+      "languages": [
+        "fre",
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 3,
+      "isbn": [
+        "9782213002767",
+        "2213002762",
+        "0914955195",
+        "9780914955191"
+      ],
+      "publisher": [
+        "Lotus Light Publications",
+        "Fayard",
+        "Sri Aurobindo Ashram"
+      ],
+      "ol_key": "/works/OL308331W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "the-secret-of-the-veda-sri-aurobindo",
+      "title": "the-secret-of-the-veda-sri-aurobindo",
+      "creator": "Sri Aurobindo",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "secret-veda-sa-telugu",
+      "title": "Secret Veda SA Telugu",
+      "creator": "V Srinivasa Chakravarthy",
+      "year": null,
+      "language": "tel",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "secretofveda0010sria",
+      "title": "The Secret of the Veda",
+      "creator": "Sri Aurobindo",
+      "year": 1971,
+      "language": "eng",
+      "formats": [
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "JPEG Thumb",
+        "JSON",
+        "LCP Encrypted EPUB",
+        "LCP Encrypted PDF",
+        "Log",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "PNG",
+        "Page Numbers JSON",
+        "RePublisher Corrections Processing Log",
+        "Scandata",
+        "Single Page Original JP2 Tar",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Title Page Detection Log",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2180382370",
+      "title": "Toward a new Hermeneutics of the Bhagavad G\u012bt\u0101 : Sri Ramakrishna, Sri Aurobindo, and the Secret of Vij\u00f1\u0101na",
+      "year": 2015,
+      "is_oa": true,
+      "oa_url": "https://muse.jhu.edu/pub/5/article/596337",
+      "authors": [
+        "Ayon Maharaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2172207084",
+      "title": "Sri Aurobindo, India, and ideological discourse",
+      "year": 2013,
+      "is_oa": true,
+      "oa_url": "https://internationaljournaldharmastudies.springeropen.com/track/pdf/10.1186/2196-8802-1-1",
+      "authors": [
+        "Debashish Banerji"
+      ]
+    }
+  ]
+}

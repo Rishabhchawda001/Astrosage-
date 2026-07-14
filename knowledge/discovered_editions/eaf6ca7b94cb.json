@@ -1,0 +1,55 @@
+{
+  "title": "17. Introduction to system of medicine Author  Department of Collegiate Education Government of Karnataka India",
+  "discovered_at": "2026-07-13T12:02:54.606350+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2137916586",
+      "title": "Dynamics of Biotechnology Research and Industry in India: Statistics, Perspectives and Key Policy Issues",
+      "year": null,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Sachin Chaturvedi"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2767977166",
+      "title": "Factors associated with <scp>HIV</scp> testing among young men who have sex with men in Myanmar: a cross\u2010sectional study",
+      "year": 2017,
+      "is_oa": true,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jia2.25026",
+      "authors": [
+        "Minh D. Pham",
+        "Poe Poe Aung",
+        "Aye Paing"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2137916586",
+      "title": "Dynamics of Biotechnology Research and Industry in India: Statistics, Perspectives and Key Policy Issues",
+      "year": null,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Sachin Chaturvedi"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2767977166",
+      "title": "Factors associated with <scp>HIV</scp> testing among young men who have sex with men in Myanmar: a cross\u2010sectional study",
+      "year": 2017,
+      "is_oa": true,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jia2.25026",
+      "authors": [
+        "Minh D. Pham",
+        "Poe Poe Aung",
+        "Aye Paing"
+      ]
+    }
+  ]
+}

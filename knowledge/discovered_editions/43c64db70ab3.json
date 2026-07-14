@@ -1,0 +1,136 @@
+{
+  "title": "Linga-Puranam",
+  "discovered_at": "2026-07-13T13:45:40.622170+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "shiva-sahasranamam-tamil_202303",
+      "title": "Shiva Sahasranamam Tamil",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "balija-varu-puranamu-sri-selam-pagadala-narasimhalu-nayudu-garu-1905",
+      "title": "Balija Varu Puranamu \u0c2c\u0c32\u0c3f\u0c1c \u0c35\u0c3e\u0c30\u0c41 \u0c2a\u0c41\u0c30\u0c3e\u0c23\u0c2e\u0c41",
+      "creator": "sri selam pagadala narasimhalu naidu garu",
+      "year": 1905,
+      "language": "tam",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "MHtT_sri-linga-maha-puranam-commentry-by-kalyana-gargya-1996-delhi-nag-publishers",
+      "title": "Sri Linga Maha Puranam Commentry By Kalyana Gargya 1996 Delhi Nag Publishers",
+      "creator": "Nag Publishers",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shivasahasra-nama-stotram",
+      "title": "Shivasahasra Nama Stotram",
+      "creator": "PAPU!",
+      "year": 2022,
+      "language": "kan",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "JPEG",
+        "JPEG Thumb",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Word Document",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "bKVa_linga-puranam-sanskrit-missing-pages-subject-puran-author-unknown-gurukul-kangri-collection",
+      "title": "Linga Puranam ( Sanskrit, Missing Pages, Subject Puran, Author Unknown) Gurukul Kangri Collection",
+      "creator": "Gurukul Kangri Collection",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "tdl.39748-a-descriptive-catalogue-of-the-sanskrit-manuscripts-in-the-tanjore-mah",
+      "title": "\u0ba8\u0bc2\u0bb2\u0bcd - A Descriptive Catalogue of the Sanskrit Manuscripts : in the Tanjore Maharaja Serfojis Sarasvati Mahal Library, Tanjore - Vol. 15",
+      "creator": "",
+      "year": null,
+      "language": "tam",
+      "formats": "Metadata"
+    }
+  ]
+}

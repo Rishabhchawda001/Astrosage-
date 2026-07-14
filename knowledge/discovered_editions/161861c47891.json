@@ -1,0 +1,104 @@
+{
+  "title": "\u0938\u094d\u0935\u093e\u092e\u0940 \u0935\u093f\u0935\u0947\u0915\u093e\u0928\u0902\u0926 ( Hindi )",
+  "discovered_at": "2026-07-13T17:43:48.218548+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "swami-vivekananda-hindi-premchand",
+      "title": "\u0938\u094d\u0935\u093e\u092e\u0940 \u0935\u093f\u0935\u0947\u0915\u093e\u0928\u0902\u0926 - \u0939\u093f\u0902\u0926\u0940 - \u092a\u094d\u0930\u0947\u092e\u091a\u0902\u0926",
+      "creator": "\u092a\u094d\u0930\u0947\u092e\u091a\u0902\u0926",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "20200916_20200916_1231",
+      "title": "\u0930\u093e\u091c\u092f\u094b\u0917 (\u0938\u094d\u0935\u093e\u092e\u0940 \u0935\u093f\u0935\u0947\u0915\u093e\u0928\u0902\u0926)",
+      "creator": "\u0938\u094d\u0935\u093e\u092e\u0940 \u0935\u093f\u0935\u0947\u0915\u093e\u0928\u0902\u0926",
+      "year": 2020,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "20230302_20230302_2325",
+      "title": "\u0938\u0924\u094d\u092f \u0915\u0940 \u0916\u094b\u091c \u0915\u0948\u0938\u0947 \u0915\u0930\u0947? (\u092e\u0939\u0930\u094d\u0937\u093f \u0917\u094c\u0924\u092e \u0915\u0943\u0924 \u0928\u094d\u092f\u093e\u092f \u0926\u0930\u094d\u0936\u0928 \u0915\u0947 \u0906\u0927\u093e\u0930 \u092a\u0930)",
+      "creator": "\u0935\u093f\u0935\u0947\u0915\u093e\u0928\u0902\u0926 \u092a\u0930\u093f\u0935\u094d\u0930\u093e\u091c\u0915",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4399927626",
+      "title": "Relevance of Swami Vivekananda's philosophy in India's renaissance",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "http://dx.doi.org/10.31305/rrijm.2024.v09.n06.007",
+      "authors": [
+        "Karamjeet Singh"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4400812777",
+      "title": "Comparative Study of Swami Vivekananda\u2019s Educational Philosophy and Modern Educational Systems",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "http://dx.doi.org/10.31305/rrijm.2024.v09.n07.004",
+      "authors": [
+        "Prabhas Mishra",
+        "Pratap Singh Rana"
+      ]
+    }
+  ]
+}

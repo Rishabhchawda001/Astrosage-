@@ -1,0 +1,54 @@
+{
+  "title": "\u0935\u093f\u0915\u094d\u0930\u092e \u0914\u0930 \u092c\u0947\u0924\u093e\u0932",
+  "discovered_at": "2026-07-13T17:36:19.185011+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "reg.-vikram-betal-ki-ankahi-gatha",
+      "title": "Reg. Vikram Betal Ki Ankahi Gatha",
+      "creator": "Shrikant Vishwakarma",
+      "year": 2025,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "20250806_20250806_0459",
+      "title": "\u0935\u093f\u0915\u094d\u0930\u092e \u092c\u0947\u0924\u093e\u0932 \u0905\u0928\u0915\u0939\u0940 \u0917\u093e\u0925\u093e",
+      "creator": "Shrikant Vishwakarma",
+      "year": 2025,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Word Document",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

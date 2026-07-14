@@ -1,0 +1,14 @@
+{
+  "pipeline_version": "1.0.0",
+  "processing_time_sec": 19311.8,
+  "total_pdfs": 599,
+  "already_done": 417,
+  "newly_processed": 179,
+  "failed": 1,
+  "quarantined": 2,
+  "total_pages": 77175,
+  "total_chars": 15734277,
+  "pages_per_minute": 239.8,
+  "books_per_minute": 0.6,
+  "avg_time_per_book": 106.1
+}

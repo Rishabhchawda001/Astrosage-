@@ -1,0 +1,55 @@
+{
+  "title": "Brahma Sutras - According to Sri Sankara by Swami Vireswarananda [Sanskrit-English]",
+  "discovered_at": "2026-07-13T12:46:08.244604+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3209945385",
+      "title": "Neuroscience of the yogic theory of consciousness",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://academic.oup.com/nc/article-pdf/2021/2/niab030/56988472/niab030.pdf",
+      "authors": [
+        "Vaibhav Tripathi",
+        "Pallavi Bharadwaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3162516408",
+      "title": "Neuroscience of the Yogic Theory of Mind and Consciousness",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://psyarxiv.com/ka73h/download",
+      "authors": [
+        "Vaibhav Tripathi",
+        "Pallavi Bharadwaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3209945385",
+      "title": "Neuroscience of the yogic theory of consciousness",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://academic.oup.com/nc/article-pdf/2021/2/niab030/56988472/niab030.pdf",
+      "authors": [
+        "Vaibhav Tripathi",
+        "Pallavi Bharadwaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3162516408",
+      "title": "Neuroscience of the Yogic Theory of Mind and Consciousness",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://psyarxiv.com/ka73h/download",
+      "authors": [
+        "Vaibhav Tripathi",
+        "Pallavi Bharadwaj"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4228 @@
+# 235056697-Rudrayamala-tantram-रुद-रयामल-तन-त-रम (1)
+
+**Document ID:** DOC-4ED39FB2B2D4
+**Language:** unknown (unknown)
+**Pages:** 306
+**Class:** scanned_image
+**SHA256:** `4ed39fb2b2d4bfebe65905c69afa38fcb1bd95466a8df3a6b5398e434f2903c2`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+a og fae a
+“ \ * \ |
+
+YAMAL ur
+
+in
+| aio ta fram
+
+bee
+
+## Page 2
+
+shrinath.udupa@ gmail.com
+
+TAWA Br seya freer
+(addtis renal or fafasre de)
+
+ran va wae :
+Slo wxea faarct
+ww (sepa va fet), d-vwe FF. SH. fae.
+
+aren vd fafe an ae aa aren oft weil o daw)
+
+Vora Ufetasrra
+16, Wa wre, aRaria
+ag feceft—110002
+
+My heartly thanks to SRI HARSHA SHARMA
+
+;
+
+## Page 3
+
+shrinath.udupa@ gmail.com
+WORT :
+
+Yor Ofer ea
+16, ani Us, eRaria
+
+ag feeeh—110002
+WIA : 327 88 35
+
+© water verreda
+
+Urpry : 1994
+
+yer: 100 waa
+
+wor erga fer : l
+aan wewmeftra, Pee-32
+
+Yaa:
+firta freed feeett—32
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 4
+
+shrinath. udupa@ gmail.com
+
+“aRaa—faart
+
+1. Sara ATT
+2. cara fraaantt sik waet ag 24
+
+(®) ara went wea srry
+
+4. ume oi are ufeea—sraee 29 UTA
+
+5. UxarMa #1 fear
+
+6. VRPT : SI alt
+
+7. Saad Fi aegfahtrai—13. weal er utara
+
+8. PRA GT WMisea—wsesl—192 Epa a WIA
+aRaa ued Ararat |
+
+9. aracia sore gfte—aea, vefa, aa, weaara
+ak eia—oRag
+
+10. SRAM F aflia Searatwarh aw—s—p—s_—y aie
+6aal er arauRaa)
+
+11. ama—sienfed safes vd pf wreta fra
+
+12. wxaTTe sk UAT AAT
+
+13, INiRa as sk arern—aar
+
+14. Qusferi—arer went ee ala
+
+15. are—faen afk ya et afe—-area—fae, =e
+ered, wage vd fate fraa—frar asa
+
+16. THe AR VATA
+
+17. TASER Bt seafereg
+
+18, STAM ad GaSe KAT
+
+19. arrel @ fay ararap freer |
+
+18
+19-20
+21-28
+10-11
+
+32
+
+SBR
+
+51
+
+37
+
+63
+67
+69
+71
+74
+
+U3)
+
+81
+82
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 5
+
+shrinath. mt a@ = com
+
+. war-wRaa at od afar
+Proetyer— wea, eed eet, Gaere fra,
+we: wreafati—ieeaa, ware wearfai—akeay,
+ard wearfakt—wRaa, qQerapret wearaky — aaa,
+Tao weafae ~— weag, Wa Wa VER,
+fafarfte oo var, a ae wea, Tata Yor fra |
+
+_
+
+2. Pare BIRT ST Tet we: ARPS CORA
+
+(1) aye CIR @ ver, (2) Joust ak
+qen—faars, (3) Ye-TgaT AAA |
+
+3. Qusferht war wee sie wit
+(1) qusferieadares (af ue vd ure fate afea) |
+
+4, arora—sra_—fafa af ster @rfer
+
+5. Fervrafa—anrn sie wear
+DIR S aH WHR-(1) FI Aes, VERA, MA
+ares, (2) Wraft Ferra, (3) Wre—Ktaret, (4)
+aM @ Were, (5) aerrrafa—ai fae,
+(aaa, eA AR SIA HH) THT S ay WANT, (7)
+ves qof—wa, (ff wat) Aa
+fours |
+
+6. rary Aaa BY aa—wits
+
+89-100
+
+101-106
+
+107-109
+
+110-112
+
+112-123
+
+123-150 :
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 6
+
+(1) Axa—aRaes (Epa PARTS A) HS FETA
+axaamaracht (4) fe-dt araraett are (5) agaraea —
+wa — fear © vxarreted eriody Aa MTA
+?a fear ak wis afta wierd Arar
+waa, Mo Fo Ga (7) We WARSI
+aaa, teresa qatar wa wa, Proe—
+Seas |
+
+Torre fire A mPa SIT
+
+(1) wfa—yon—faars (2) AerIRyTA UTE S TVA
+aoa (3) Fegegaa BAA Vural areal PAPA
+AAS MASI27 TSR (4) aera aoleti—warT
+(5) Aerargaa Aa aR wey Aaa |
+
+8. Vifat SIT she Wear
+(1) wea or ag Arena (2) orate oa ak ea
+ASAE WEI (VS Aa S TA Wd) (2) Ta Aerlaerait
+é atte aed (3) ca Aefeensit ar wear |
+Lawadt aerate sie Tas TIRANA ;
+(6) FGA (a) Sra ws—Alerciedes |
+2. MT A SIRT
+(#) vecers fra (a) sirfreraceadt «ita, (71)
+ara Aa—ae ane sae |
+3. Sreei—siften & yt she erate
+(#) siten or sori—ahaa (za) at caer Wer
+(1) a4 WSR (2) Pragi—-weea (WUT), 21 7A,
+far sareet ent ge (71) Hegegeadt : shfaer
+(aferea oftaa) (a) saan, (S) shearers
+al fear (a) veurer—ora : we fi (8)
+area—qon—faears (afer srrsargem) arf |
+
+150-164
+
+164-170
+
+170-175
+
+175-179
+
+179-191
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 7
+
+4, ArT eh MUA pa @ gmail.com 191-194
+(#) yafara (a) vane aor fears (71) aretha
+arrea (4) ae FaA-TANT |
+
+sige aed et SoM 194-195
+(*) oRaa vd wera oF fears (a= GRaa ated)
+
+6. fearren Tat A sR 195-198
+(#) waer-aea vd Gast Raa (@) fT
+CARATS (71) WYRTATIRATT |
+
+7. wpa at aera 198-201
+
+(*) W-oRaa (@) wafers (1) wa, waaTle
+ata (a) steparadt aren—a |
+
+8. Are area wi seer 201-206
+(®) qafara cen ar oRag (@) at Amt & fas
+(71) ahr TMS Kats: |
+
+9. area} at arr 206-208
+(*) uRPa® oRaa (@) wafer (7) spare
+eae |
+
+10. Ferften store at sar 208-212
+(®) qa aaa (a) aa fear (A WER) (1)
+Venere (2) agatorers (3) aaa (41) AAT
+feet (a) aeteqa—faars (=) aetfaras fase
+sraey (4) ware ceh—pafeer ak eR-A |
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 8
+
+AL mente Ae HF AA, wdupa@ gmail.com xa
+
+12. gikaarnt ae sad wera wart 214-221
+(®) guivcarrd (a) aRaaa a ara—area afr
+(4) Raza e 360 wera a seat yor (a)
+afare gt ok wend (Ss) wari (a)
+MITSrHa (BS) Saale (F) Fara & at ore
+wl Ha (a) ve ofa Ferret ‘arf aaavsl—ais’
+(wxarretaa) |
+
+13. nPagiife a quis & wafers 221-236
+
+() (QenFa gif 2)afagal 3)argat (4) fiRgat
+G)ataargrt (6) aftsargat (7) Hferatet gut (8)
+wag (9) Taentgat (a) sareitgat or arqd—wart
+(aa vaa 6 Wa Va eta fea) (7) Aerfaer,
+agi—wa—war—(s) yaiare, () Aaa (71)
+an — of —asa—wart —(1) uefa ofa (2)
+anRRgit—aafeart (3) aa watt (S) ANt yor
+a ee wal ? (2) qurfears (3) eat
+
+l : i
+
+14, TraA—arern she BATA 236-249
+(>) frafeen wei or ve (a) afeaferarafi—
+Tht baa (1) faa meet war (8)
+Traaea (Ss) waeharrraer—araat TT |
+
+15. Vea FATE AAT 250-257
+(6) vet oF farsa (a) Yatra S FT (71)
+TUS THR (1) FAH TACHI (S) see! S
+fafae sora—wahinr uaa ufea (a) TamE—eNST |
+
+| My heartly thanks to SRI HARSHA SHARMA
+
+## Page 9
+
+16. Yq SarAAy
+
+(®) Serarect
+ey ee
+efertacad aa—faar (a) fie eres A-afater
+SO ae) cameras: Sania:
+TEM, Ad dk WAH GS AT |
+
+258-263
+
+olina Ti idan ast ae —_*
+
+17.879 TIT ot wae afrafaa | 263-270
+
+(®) War Bar S As (G) sa walt, 9 wT
+Wd 5 wxarreia fare var (4) daqhadR sqaa
+waa tala, (8) aqaa fre a aT |
+
+18. waver aa— wine—dre 270-286
+(6) Fa Ud Saat at ator (a) Tafa atk
+SAT (HOTS TAT ATA TATA) (71) Gea TAA
+wart (a) ear ceti—eita, (Ss) wxarret vied gfe
+aa & UTI -wsTaty Es sirwet Weal Kats,
+qart wat ufia ayesrars (uz) were oS
+
+(1) aerhi—qRaa, wile afeoh S wal or daze |
+
+19, Saarra—aRfa vaaed sik ad wart 286-292
+() Vaoed tae a Ray, ‘ag—-aony Woe wT
+aftag, 7
+(@) warfawed ar oftaa-(1) teafrees! (2)
+sepoey (1) Tra (sal, fron, facara,
+Prfest ven are gerd @ wart) |
+We wa ar 293-303
+wee—aRaa wd epee 304
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 10
+
+shrinath.udupa@ gmail.com
+
+aNd aa—aees + OR ak waar dane Teg fee
+Was S Wa 21 eet alles sik uci agaia } a at
+ae sere @, fired wa gfe ae went Tet weal S sat
+ai & sofort ofa & ager yea age a7 wit 3
+art—frear oer ee Wed FI onftre—sd A ara aren tt
+Wa RR Temes 8 tl wi-ad a fen M4 ae ara ah
+Wea Ta S wie sat wad ak deyqa arent wd UT Ww
+oq ya ot eg ese wy at dane 4
+aad ad %, we feet U fea adi 2 |
+
+TARNA-1. APTA 2. ara, ait 3.64 } wa Ff fanaa 2 ot:
+qe wenn, freq ok Rra an ‘farqfe arar ore @ | Sze ‘araer Tt
+
+. oT. Few galery A afte 2 f a ‘ra ok afta at we
+
+weiter € | are a) wdereal or aterm At wer var 2 | ta ale
+aa rel F aT eR ‘wrarrege | Ue Ta sik ged WE
+wat areata uipasit or ase ett 8 canfre—faeaarer a 2
+
+WYN ‘Vasa: walvarht areas’ wer exarra S
+Aa Soret oa we Gers ak gett weal sie egfaftal $ we
+wen & frida 2, fd arm at fgrt $ ga 8 gaa A ond
+%, ferg aeafied a am ae et ore om |
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 11
+
+ual THE. AIRED SHOR eI A TIX
+ae v4 aa arn a fava ot wasn aw Wg ware feat wa 2
+exam & rere watt ot ara asrereat eH weracr @ fate
+afta Wega Bea gy ae & art wt caaftad ws fear 8 | we Ah
+eq & war var 2 fi arazae fren 4 2, ga git 4 oT
+wr ert waka wrefta, aarefea (at Arm) worfes,
+“mergercgaa wear ‘age aa are’ onfe 4 ot fers fear 2
+sen wei Wat wa fear 2 ok ei A YS ToT Ba
+axe udu @ fay fru, afifre sik era—pat a) aed A
+wa aaa a deat saat ot fatten at 2 af, we
+A i Wate ada wah a A we ws a eaite fou
+mar 2, frat worere wea at exer 4 on, fog Te fe
+wel wet Stet aT |
+
+ai yor yrofia 8 sat & fey vel aga waferd vari at
+aal ferar ran 2, wate gota vd ae BRT Sores erTT_faera
+at aera Rar O et aS Pra Ta 8 | da oI Vw ef ‘fT
+fea a 2 oie ett afte 8 vxara A aso S “Wait ok
+Sa S wT Oh ate afte ad aaeng & frre fon wet
+A wate goin sai art ore 2 | ot: set ‘wetferrereita Agats
+am, wie ad—ad— orenfe sm, abrerefa aed alk
+araar ahem, teen area sites—fiera, wares fast wd
+sere Oe foal w A ava SIE fades wega feat Ta
+2 |
+ae ade fava ar ta ager decd Tae a fae 4 Tet
+adver gor 2, ve med A afte fh ofeeraiied set 2 |
+
+dae # oferta aren, (ereie West det TET
+afte $ wa a ye am a vata Fer axe ora fear TH ae
+qe “Prarahr 3 BAM Teel St wh forse ot ye 4 arava
+weras etm, ter ea og fava 2 |
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 12
+
+RTT Ter Sei aT are epee Meet RCS arrests
+are ead wei ot ord | wate 4 ye va Hered arf ar arpa
+ow By gece cen oNcios wy SF we oe S gH
+RIP T TAa aA Tor, fry ae saea ear we fH feet aba
+farm or Arteta sara ura ox a, fire aig gle a at
+
+Wy TS yx F waa qe aged wea z ut fS
+ara Ort Fl Met: Wes Ss YAR we Tore wt an gad Ry
+7 wat S aR 4 ats fate saa we 7H a, a va dae
+al aa a we at, ire aa Fy ateteref daft a
+wera ox fern are |
+
+BU Fecal wey S ASA BRN AA vere ero et wea
+TM Vas wad age S a ae fran A aa | we whe
+Gaxgatord wi 8 ga vor A fear i aga: ant BH ga
+meme 4 ardfren } fa aged aaa F aeanfeea ver
+wt efi or dt ue Ge 2 fS ae we vera et wat! Vac A
+Vere @ wea aR aad axa eae wl S Ane Bt Sr
+era & |
+
+a yore faevicae
+13/8/1990 Blo wxea Farad}
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 13
+
+4
+
+AANAAARAAAAAAS SAAR ARATE ATER LEER ARERR LARA RARE ERE
+
+com
+
+Talay MAKI
+
+were :— slo grea fis, sararard, TACT, T.zqogio
+
+ware ve waph ured 2 | aero whe a wena a4
+aan arate arg a al aa faa we Pig caifes a
+frat aed 21 vats a angie wrrankal 8 gad sie wet
+OS we wh frat a saab am 2 ae ga da 4 unas,
+ued, qed, afore (ad) wd frarad 3 wh snare ¢ otetoartt
+val or fay maar @ fata fea var z
+ara fexh ast 4
+Sa aaa we A ag ae?
+O wa va frat 3 wht eget or faega 4. alarer fades weaTa
+
+SAAT SAAT AAR ATA AAA AAA
+S frratupa
+
+DO wet wear } wh wer | fier wel HT WaT aR |
+
+D wed fra, aren a ye fratr oe festa arnt |
+
+O anda a sfivt vaftal a wera Prear ¢ gece aeqa |
+O wa dat va ot fare |
+
+O we wit ei ? #8 ? a wren, sie anfe |
+
+O am of gerret, aa a afte wegit | wa a1 FT aya
+
+PPLPEEETELPETIEPEPEPERPEEEEPLEPIPPTLTESEPEPEPEEEPLELELEPLEPLPLLEOPEPEEEPLELEELEEEEEEEE
+
+: am 3 ayea at ona Ff tira da
+
+x wafers am & fora wept
+
+Sapa 150 wad are ary yer, wa fraax fto flo a amy
+FY
+
+Panceneernereeeeeetd cee Peete capareeertredesresrecetiserert
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 14
+
+7
+¢
+é
+é
+3
+v4
+4
+H
+H
+¢
+,
+é
+é
+i
+é
+3
+A
+;
+3
+H
+H
+3
+;
+:
+;
+é
+4
+;
+;
+i
+;
+3
+;
+:
+¢
+oA
+é
+e
+¢
+¢
+;
+:
+i
+i
+3
+é
+;
+4
+4
+i
+‘
+s
+‘
+,
+é
+6
+;
+i
+s
+é
+4
+i
+é
+¢
+;
+6
+
+SRR BRR Ree eae:
+
+WRRUARE BEE e een eennnensenennnenanan:
+
+S Teg Parte) GARB! CN
+
+wary ears feta
+Wa UA oT waya—de
+
+es o> —
+
+Pusraeaeaenaanencaseanncccnn:
+
+wae- slo wxea Bradt
+
+iE
+
+wa wet a
+wa wel fra
+
+ra oft weft
+yeaa Fa at
+
+Wee et | fag cee 4 and ehfarcia
+W walt ph am a ore fea 21
+
+¢
+re
+Ep
+Eas
+EF
+e£
+EE
+ee EE
+Ee ae
+EER RP
+
+t
+EE F
+
+eeessersssssscoseseseetreerersnnsreseeies inl llalalailahalelah shall EESTI OEP TOT TTT ESTEE:
+
+FI 80.00 wry Se SA 10.00 Va sat
+
+Sua firaree sind
+
+PABWRAUVASeueERee eT
+
+wr
+
+ag feeeh-110002
+
+lalallala hehehehehe ie eT LLL OEP PLL EPL TLE P TTT TTT
+
+16, dant we, ear,
+
+a
+
+-e, ae aecrred
+My heartly thanks to SRI HARSHA SHARMA
+
+Seerssrrssserseccesck
+
+## Page 15
+
+shrinath.udupa@ gmail.com
+
+ara Sata a a oH wf oro we 21 eat aie star F
+afne qeal owha, qa-aefa wi wets facfral & aaa
+mama wae St asae 3 fae it weil ar wan aga eI ZI
+Waa Tra dee Aenea sera va Sharla aye aT Ga eI
+fag den 3 sera aie 8 oh et a ongfae Ta Gist &
+SUR W FA WI Bt Ta Ht B-
+
+Tear A We sreHstT
+Aateil (Precious) @ Jaret (Semi-Precious) al Wra UG,
+vehfaa & aret tt ter afte, wit an fafecet H yam, eat vier
+a ated, TEIra Teil wT Tact (Substitute) Fa 2? ge ta
+areuaiet arava, wg Wo F aacart,
+
+fafas fad aed! wa ahaa
+ag eres Be Saar aeysit Be fora arteet He Sh, ara et wafers
+dfndi, fateraat o wa ated arett & fae ot yet were eI
+aaa FH, aaa tet am are, trees 3 sah ore ga
+at user fatrad 1 aig rs, Hes OTE!
+Tra: 80/- Bua B 3278835
+
+tart Ufscrayt
+
+16, start ts, afcarts, wal faeett-2
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 16
+
+shrinath.udupa@ gmail.com
+
+Uh
+
+O wa ulecr or faraarer |
+
+0 aren a fife we ag ara |
+
+O weirs aa afeca a ade |
+
+O fragt wees 4 ce aerfteny : fife d wor |
+D wrt art $ asadget fas |
+
+O sem wy, erat os a ta aT SD yar |
+O wrefa—aa-fera—arerht a fafser are |
+O gat wearer @ are weer |
+
+O wre weit w anga ‘exarray |
+
+O satel ora at afafe |
+
+QO af, fron (ai), fea va } afare watt |
+O Pepsi a are geet 3 Re yar |
+
+O wdahrs aren a fife dae |
+
+O oa a aga gu, ws ata at tet a
+O wept ca a vegft |
+
+OC feof Prareor : ara at after : wareer fae |
+
+(wa ar ad a reread : chefercia sr)
+
+3 My heartly thanks to SRI HARSHA SHARMA
+
+## Page 17
+
+oO
+
+onaoooo
+
+oooo0
+
+boo fo eee we ee we
+
+(ara Rt aTET fea)
+
+Bet Yarit 1 Tet eT, oO
+(aaea_ BENHAM) p amt ¥,
+
+450 Ret Sa) 05
+aTaaTH at wfaeranieral -7rereTT 40
+aim fren tera (AoA) 405
+BRL aT arent #(CHEIRO) 40
+aiet & fiat afasr-(CHEIRO) 40
+ara BH - (CHEIRO, 404
+aa so yearaa Prt 40
+BIT UM MAST BH TAT
+
+- So grsas Fr 40
+ae aa Wena 12
+
+g (
+
+am AGRE a (CHEIRO) 12
+
+Fae BNL MHA -so Metra HA 12
+
+sates aiferG - sfo MlaHT HR 12
+
+wa wat a,
+
+- fo yterdy Pre 12
+
+TAT WA Yaa GA
+
+sto gearas Prat 40
+
+rar wt, a. (oat wTAhi)
+-sfo gtsras Pray 25
+faa aT. Gl. (segue Tae
+
+Wa) -so gearas Prt 40
+
+ag Hata aaa
+
+- fo gears Fr J 40
+fara -sfo teraz Par
+
+(Aa WEBCT) . 40
+
+Te ar -3fo gree 40
+
+Rergge (AAT Ta
+
+-3fo exe Braet 40
+
+arra ga (maths & wa a)
+
+-3fo yeret agaat 40
+
+Raa TeerT-aTEPeT 40
+
+wer Prem (sear area FA)
+
+- Ho gia ar 40
+
+AeA Ga Iso Wine a 40
+
+aT aa
+
+aren - sto geariz Per 100
+
+areaat Tet
+
+- sto tera Per 200
+
+wa (Advanced Study of
+
+Gems)
+
+aren gesras Fr ae 100
+aren tea Prax 200
+Se AACA TE (TIAA)
+giaas Prt \ 00
+
+fiera - sfo gtsrax Fra 60
+SRR TATA (fa arfererea Fe) >
+
+APT (2 aS a
+aa rse
+
+TART
+mest dat-sfo eee Brat = 10
+wauriat-sio gerag Pry 25
+
+ara atenrsio Wigae BY 25
+gsi zim (Horary Astrology) 25
+aaa AS-wTeT we 25
+attra Rares ret 25
+
+am (Horary Astrology)
+
+Yo gata 25
+ART A TA
+Gey Astrology) - Watt = 25
+
+sqtfast (Kerala Jyotish) 25
+We wet Fan-so yaer gad 25
+SAHA TERE ATMS TET 25
+araz fae (Planetary Transit) 25
+
+wafers
+
+niger att
+-sfo ywea 5 25
+Ba ET RAT arr watt 25
+
+ata (2 ait # )
+- So axed Prat 50
+wafer Gl - ITT TTT 25
+aire Weare ate Fraret
+aA aT 25
+araara at gata atte nfl Fear 25
+Tw Waa TTT 25
+
+## Page 18
+
+shrinath.udupa@ gmail.com
+
+atcay-faart
+
+‘waa -aaT-fad WaT
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 19
+
+shrinath.udupa@ gmail.com
+
+arataa-aaatta
+arSr: AGATA TTT ANTT: aaat,
+
+: eg fT TET ATA ATT: '
+aienfefaata oa: FARA: aeasaat | -ATAS:,
+gavaciefanfea: “a feud aa: aa fagqe nw
+frat: aaa faa gafacfant <TIe aA,
+afeaq feed TEM facanta wacasaaataers |
+gea sea sata acta afa aa: aITt aga: aut,
+frearataad aagacaacin: dfaaat || Eee URN
+ garat wafaarai, facitara-aataat A
+afeaatare aferat, fag Faqraarsy UAV
+wamianasfa weaaafeg Tea Aaa,
+ate | geari-meataet aad gat
+a wealiae-wea-cea-fafaat aataatssattsat,
+arasa- fafa-xufsarsqarat fad aa fasafa nen
+aeachacza | aT aa wad fen,
+faraai Farrar fare AAT fataq
+atari. feravaama Gat MATRA aaat,
+quia: afafaqam: a: ATA we: Fat AITUAN
+
+WAT ATIEAEHA, fafarar-aeai,
+faite ow, | ae ATT!
+anaat-fadaei sated gfarad;
+
+aio gxeistwate ATED SRATATT UKU
+
+qq qeaaca-waatad, aeaitt aetaeta feaayt
+
+goa: Ga: AIAAteATz, qiciaat aq Afa ‘eaarrarq’ NoN
+—agaa facifoa:
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 20
+
+shrinath.udupa@ gmail.com
+
+Us aaa Facwareaed 1
+frais faara-faraaitn faenfaay a
+aatta gtatsetd ease GRATE A
+
+qarag faoq aradt atx gaat aad aa
+
+aU Seas Tass wradt fear site fra a
+ane aes F seers 1 gaat Hare garife 2a afta a Det
+mMeMgar efee, feats site def F wad @a 81 afer
+aazafasr wad vd afea aes STAT. THST
+Ha eu it Margug % fac fee wr ws BaF ale fesq-
+ara S STH qeariad aise aa faafaa wa a1aa
+TAACT F, AA: faa ae aye a afer gay grer él g
+Sl Tan, faom aan fea as az Ast Ae ates fae
+BT TaH-TaR freq Fear ga @, fg aeaa: gaat TAHA
+Wl 81 Fa ag eqs 8 fH ak aa & afaa at afe ace
+@, frat ater caeor-faate & fac aa-afee gf 21
+
+ea Meal] ET a afs arqat Ma Hear s arr
+Waa F FWA Hats BIH, seakae |q F adoq aut ar
+faraa sega Hwa tea B 1 gad aacaEMaTH AAA St TAT
+aieal at sana Aart tard ag aiasag Ne, acife arat-
+fru ate nasi a feesasen aaa szata at? wa
+tar wets aa Ht eT a AAS eae aa as wife aise
+SUMAN: BH TAA aA are: gene ag aa TTT
+we Tt eegt A Saas aa fara fran az array &
+Uraee H Aaleataaay’ ar eqex ae af
+
+fara fraaaaeat Tara fafa |
+a: etargaaeq qeafang geal 1
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 21
+
+shrinath.udup@® gmail.com
+
+qar—iarra: fraaaaea’ ceria 1 gah GATT lay St MET.
+faa att faftar & anfaa faa at ofenfa s ate WATT
+fas gah aenfa-aanfa rar & 1 arrat ar faes< qrerale
+aia-sara & altar terSi aavaa argea A fara-araa %
+ara BY GAT | SeRlA TM BY FATAT ST THT A TERIAL ay
+Ba HHT AAT: MATT ATT Te TT Tea aT TAT ATA
+mical ay azeqer H fara wes BT areas ‘Aa’ ATT TAT s AIK
+ATA Mee THT aa Wea Teal aT WTAE AAT ATAT
+al :
+
+get ae wt adt gear arian fe fra-afaa aren Fae
+array at sara aat feat var, afr ara % afateaa
+rae, STAX AMT dea FAIA sareag ae aries Hr asa
+eee & are e881 wea-arfee Beary, ga, afear, seta
+ata, Hou, Ha, aes, werafr, Fararafr anfe sit fafa
+THIET BI Arfeea BIAET Pare, aga za fasa-aeait FT
+gar ar gl af Bl aaa Gea MS TART ATT 2A I
+
+alan # eat wuaT H sfag 1 “HAY aaa safaafa
+gara a wafa’ ag sfaa aaia Hae 1 AMAT fara ‘ater
+ara’ #1 sad Sor wr aay asia fear any? Ta gra STA
+madi at Haart Ha A w!Na Fi sat avafars earefas
+gafa & arco aah F areas F aaa THT aa AVA FT
+afss wa are feen-aradt al gare aife-wife soa F—
+aati aad anafaaaiast a_et Agta,
+meat arated = fafaafafead =| te-MRAAT
+facateqgi | arqdteat | azasenaissqfavaisa alsa,
+alas: ag waar faaafaar: stem a: sotat: 1
+
+ka:
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 22
+
+shrinath.udupa@ gmail.com
+
+MITA ate seria attgea
+
+ea OE ATA saa H Beret F argon fire ot F meq
+HTATATT HY seer aera-Tafaat & ata F I aaa & BAe
+faaa ara aiea HITT Tl ea Mea Tez, eqex gar 33q
+Fara % srt & 1 aenfe ‘aeaara’ ar at wa Ta: whee site
+BT (aTeAT) & He H fora strate & qe fara sae 2) <q
+STAD TAK BT fra Vy F few gay ae medley areag
+Faas eT Fae: aqtar TeATATyR St aa wee ay
+afadar va earqnar & qfehra at 3 faq sae nested sr
+farce sft frat stat aifge 1) adifas aca weg faearx Ga aF-
+sfag a4 % afafesa dtermfirg 3 qa % aaa afrgqer qart
+al ft oad azar 21 att at cay wal } ate auf at quater
+fafa 21 arta-sitaa % metare agar A-ReyTT BH aaa
+aa & atag onagiicn citi ® ateq aret gam faaara Fy
+
+walters eqzearar, AAa-IAC, TTT, farsa,
+Tae, ardiee arador aay fafeer arat a frafaqear ater-
+Ai ST TTA aeal BT TEE Tey Xl 8, Pag Ter Teal a
+TS aadfan ara F Hea BY SAB TUT a1 adtfag gaz-
+aifaal at ate ara-mreal F at ga-aa 48 Hat Bu &, frrar
+eqafeae areagt qeeqer & a araeq 81 asia arcfee ag
+dim ware fe—aea sqfeaeg ® fasta ¥ fafga fafaeq
+THT H afar ae cafe wr vata ait
+
+WA SEIR aaa F wafaaater F saq oq
+HITT BY sey 1 ag sit Pel Sa & f—‘araaread gerd
+faar-faaaay-arrmarra arate: |’ Ae ATT Aeqeey
+¥ ge faarc agi wag F—
+
+a. aefaret ait Ha, To 1
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 23
+
+shrinath.udupa® gmail.com
+
+anma— faa s ga Barra, fafeor F Fe H a att.
+fasoy H eter SEAT AAA TAHT ETE! aTTal al AAT
+argo aifas arena # anfe ae aIG-weal ET A ear g I
+Sfea-arfgea & aera gf arrat ay sate ait aay art TES
+afz ae wait B esata g A aT TAT faa seaats &
+TET
+
+MAMET TEATS WHAT gearat Fa:
+
+a aha ofcarat F AZaTT ‘qat fa adea wat
+
+at ara So seg AN TTT BAT a aay aeaae V aerfas
+
+- alfger aafe aged FA St alata, aarft sae ate awa
+
+fag 3 faerfat wal & ST GS TAT sarfine fear 2,
+SAAT AIT SI FHIT F—
+
+artes atfgea— Fa ae WAT ATTA faa * dayat
+& fga wa HAT! FAA, IGE, aaa, aaea AT
+aqnw—faa ea sia Yas) st at a sam: fag, Aaa,
+Zeer, aa ate fao—3 afaaat sae aki 2 1 aah F
+qaqa & daer a Az, jerde aat aa cata at aifaata
+Slat F 1 ABST HT AS TATA Ro, darae saa ys HK AMT
+wart &¥ TaTATE ATA ae 31 FA aaTAG aaa afeca
+al ara sat St ,
+
+qza-fara gt aa ear H faa, Harts zAT Hee aar
+aaa cat ¥aea’ dat STITT ST TI gaa arag araat
+at rer: Here’, RAM ATT AAT FET TUT a1
+
+Hama—TaITA AEA F Qo Fl FAT GAT @ fa ana
+ay afce B qe TURAL A waoaH go fadt ay afte Het
+sah 8 reds HATA AHAMAT AIA FT CH-TH aim fear
+gat met finearreraly #Y GeaT TAT ATA A TTC a
+
+q. eifaea—aa fal F eas ATA g—sua fara y
+quasat & Se es aT HAAG’ 2 ea ary at a fara
+& fana asra fearal< fast FATA ‘PEUNTA TAT
+carfaarae’ 3 aed BT TA HIfaa’ st fafase @, ferg Tae
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 24
+
+shrinath. udupa@ gmail.com
+aU sae ‘Mavsdigar F aqare ga ATT BT aa “BTA
+
+at
+
+2. abst THA ee aT F gala at ea UH Ss
+Fag GTA St Sas Gist Fee) TIA a adoas sa grays
+al gar ave fra tora fear) gare wear atc were
+HEH ATE SLE ATT BE TLET Te AT TST
+
+3. fan anma—ea any Fp caat at dear UE
+ASIANS HAT + TIA sear Hl asa F ear F
+wen fear, dice F atefs Tale atafe F afeaar X ce
+arf are BE TCE RAE ATT aT aSTAE Y
+
+S. BIR AVIA 4 TTT A eels a Gea Tas BUS
+aarg TI St Se are F ara Aeet sa arr-ara at
+aaIae aT Force Fear, Hives as Fak ws ®
+woah Se ara BY eet FAT
+
+¥. afere aeTa— ze ary Haale at deat oH are
+TMT TA Else aT F aT Fes) ae afas cep
+ofare, Ste gar aegg BF Hy: ah aed TEs |
+
+&. Faas aA — ae racial at dear wa are
+aaS Wet F) ae arTG Fat Fez sa arifas aaa
+was ‘ey tore faary fe & faaia F ate frais
+garaet ge Te BY sree Eat
+
+©. Ger aerR—saeaqrs ar at afar wp ATS aarar
+Has) Ae Tefrs Tee AA: gen, wa, TAT arf
+arene & faafaa ge
+
+S. ASA AMA ae HTH Hea Fe Tae aa Et a
+aT BY aaITe ‘Sra’ F orca Feary ara a dba A ale site
+& am 3 ora fear)
+
+&. Gras aT — sa aT H aalal at Ge ala HS
+aware ore Ft ear as ae ast feaary agar ate,
+faster aan afer & fasfae gar
+g. a atte are areal ar farasia, To Go TT TET
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 25
+
+shrinath.udu s@ m
+Qo. AAA st — ee arte ae are Hz Tay Tet
+
+2) ca aay aa Bl Taam a A area PHar | aH aT AY
+
+a aa aaa aga cies ga ara wl area fear |
+
+earra—
+aafng at Faria sural Te aga earTAY BT Tea
+¢s Fars Tat Bt aVl Te MATT H ara Ta say aTfaaias
+at 9am Tat aT eae fHat at Tet e—
+9. fasa—aarfe ez—ItAaaT |
+2. fa Raa — aa — AAT |
+3. TAAL —SI— TMA |
+‘4. Maha—actl— Fas |
+y. Fa fara—sarea—aera |
+&. fag—farg—anseaz
+vy. aeara—fana far—s aaa |
+5. aItag—atra—a lag |
+&. HeatY— ard —aAgertlea
+Qo. ALAZ—AAAT ALAS AAIAT
+ee. calaeaa—fraa—aqaa |
+gz. favat—aa—aeeria |
+93. HVA —aITI—aAraHeaz |
+gy. AIK aT BRE —fararer ar Lara —agIea CTSTAT
+gy. favr—aafrar—exaea |
+ee. TiTI—Araa sara |
+ge. araa—aara—fara |
+gc. ala (4S Weal F go earTAy ar deat faerct g)
+Manat aga’ FH facaa, steer AIH! TAT AATF
+eara az Ua, fara, faert aa deat ary first S 1
+aexaa fe fefae 2, gafag arg Vaal 3& ararat FF
+
+fanaa ata atar21 aa faaraat aiaat sat ga: fafa, ;
+aaa TT abr BWA IR fT AY Zo TT eMIT a TAF ar aa
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 26
+
+R
+
+X
+« - Shrinath udupa@ gmail.com
+SMHTT ATT fargted-atat at eat & Bat a aaa a1"
+
+fazara dfear F earral at Faet Qo eat Aas e—
+farsara, cararaa, aga, Tea, Uta, ZR, fata, serge,
+
+ala, Fafara, Teta, afaa, faa, ware, aatetta, fart
+aT TARATT) AT THIT za faa arqal F aA ga THT
+fac ae g—aifaa, aaa, faeq, area, afaa, Sea, ger,
+AA, ALAA TAT FIAT | BIT HAT Vo arTAl eT arfaata
+faa % gia gal & gaat sat J—
+
+.. aaNTA—ariae, ars, Prea, ere, aha
+
+2. AAA AA, FEW, AA, ATAT, ATA |
+
+3. wa —fasa, fazara, caraeaa, TAT, AZ
+
+¥. SUA Ue, Fae, fara, wera, fara
+
+weep —MNaia, afta, fag, aaa, aataa,
+
+qUAVay, FHT AIT ATTA |
+
+BA Qs VITA H Ces faural wt wal it wel-vel
+fara ev
+azar
+
+qzH fra at ade aq A gy sHre F Arama FT
+arfaata ara arar & 1 fara & aferoht aaa ar ara “afray’ 2,
+oT fra erga er gl aeaer aral Hote SH saudleqa,
+saya, fatraega aar froze anfa v-v wT Fi TA MHIZ
+ET At azal & Ha eg STE! BA azal F araciia gat
+TeETT fay gs ev THI Hl asT Fra aaemd THE STs |
+wa iat aaa tos aaa F weg ae gal ar aa gare
+aa aearaAl sr afta gat z 1
+
+ata amt faa at rea amr aarag2 i aet fat ale
+afer at tax caters fear arate) ge aaa sla aa
+AIS FT FI THT F—
+
+g. area afte ara Meat wT fees, To ELI
+2. al, To &¥ I
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 27
+
+shrinath. pees ena com
+
+4. ATaANTH—TATT, VS, Bla, GAT, afaait,
+AAS, HHT (AST HT ATA set Feat) 1
+
+Ramatesa—aq, fasn, afar, a, AAT, ce,
+FAA, CATT |
+
+3. AAAS H— WITT, ATITIET, Ment, Aa, arfear,
+fara, sacar, fazer
+
+we anacen— acy, frre, awyqua, qallsat,
+fanart, FeRIeat, ATA, AAA}
+
+4. aReeH—ara, ay, ufsa, Hert, fars, are TEE,
+@ TF |
+
+&. faanea—axdi, ator, dyorafir, acme, STAs,
+Naa, Hae, FAST 1
+
+9. AESUAT— AIH, KLIS, IT, FA, ATA, fas,
+salir, ATU |
+
+5. anitencea— Freeh, Fafart, gar, Braleanr, Cera,
+aatrat, faacear, faarara |
+
+% ey Aras aa Yaray ay y afaare WaT ATHY
+w qa alae at udl J) aedlea aca (qeaa ¢)
+AAT Tt MIT Teal H areaiag ey area, Fo TIA, AAT,
+Srat oat Sfgaratt BY sit carare Beare Grae St
+
+Falaa AA away AMA
+
+4S AIMA-TUTT Bet Arca at at Tat J ass
+faa-afaa % afafeaa dena, ate ale ge aa a ager
+mca ala 1 gat THI seqrey Vaarat Tar wa-Ale sevaray
+Haft array ara BY eae HVA ge weal ar AHaA Sat si
+gat Goug-arral F ay FasHa Aa Ty s—2. Setevi aat
+a. gaa) FAA aaa A agar ge areas Fi ara aTAT
+faga afar ud aag orate aeegTr HS ae atface fear
+at aaa Genat F Tar fag wea qongl F cafaa saa 3
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 28
+
+shrinath. udikpa @ gmail.com
+ara cadara J FST ATTA B go WIHT TAT AAAs
+farg ast go wee oTea DAZ) Faraa alse ¢ facr—
+9. e1aag, 2. ofa, 3. 7ofe, v. afr, yx. aire, &. 47,
+9. THe, 5. Tas ATC. HR BS FEM arrays Ads
+st WA F Hes, gear, Sizar Ate dea’ AAT Hr TANT BAT
+dearest at are afaai eae gs, fae wa aa sar 2
+fr gat ee are val F fagn-aeg ar facade To aT eI
+qoorgl ay Gasra-chwaY Fe aT Fe Tafas IATTA-
+amy ‘wara-aer Tt fafase cia ufaal F arses BF ae
+Oat HUTT HY THT AEUAH HAT S| ATTA BY faeaSrar
+ar dha say gla X qaraaqa: sal Harare I< ‘Tia
+aiea’ at safe gg at faont ara B eqar<—'sea}, Ta, aT,
+af att arare atta ula eee afar S1 za ara F
+g. FAIS, 2. Fae, 2. TRUS, v. ATT aT Y. EHTS
+DAs AH aca’ HI 19 Fi ea arra ar arfeca ‘Alaa,
+af, safraq’ anfs meat & ot afea 31 aa fara-faet weak
+Haqiaua wea B aes farea-Fara wa B ot feara Weg t aeqa:
+HAA AMATI MAAR IH Ber ahaa gl AHA
+afgar ¥ wer war & fa—
+ardaferamta afad ae fasare
+ufafa: daft: ag cisterna: TAT ht
+(2/22-23)
+qaI— wag afaata care waarat afararare
+aqufaatias met ciauanraferds tt
+(qastar Uf_aAT, Fo. gy, Alo ¥)
+aa airy at afagig F A aAcHAre, ARE, ATHVST,
+afuss, fasaifaa, afaea, geax, arcane anf aaa qafoat
+Br aimara 2) aooral at Ganache A ora: F AE HT
+ufa % sat arr ea fafar arare aroat % fearc—
+‘e afaana, 2. BUSTA, 3.8597, ¥. careaTa gary. at
+areal at feat gt
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 29
+
+Qo
+shrinath,udupa@ gmail.com | ;
+qarq BT a cigua st at wad ge. asad
+
+(alate att) Tat 2. Zena (efermrer ata) | eat ATTA
+amarg % favel at atar % fafae caret} ara dl ara de
+a BY STA are TAIT B sit fate 31
+
+araat at anraar HA armel’ se afee eB agar
+faqa-area Qa a ara a qrqa-aeat ay Taam it wal ATA
+Sa, TAT aA Az F areal a eaaea aa ae ATAT
+areal 4 sfatifed 8, fraaranfaa faare afira dfaaal F
+TITS |
+
+aaa att araa-arface
+
+Teal al SAC ‘2. Ma, a. TM ste 3. aTAa’ EI Tat
+a Mt atang 21 aagare taaca F fara WSTTH BT, WT TT
+4 feat wgrfear ar cat arma ara # fina afte frat Day aT
+ava frefaa gargs agi fra rh ere ale afer gezeq
+Ql Ha: ea H eral Faq Hogar adar gagdta 21 ‘sit mse z
+ael Ht %, HCA ae S Tal wes e’ za sfte a alsa ate fra
+Hat ‘ot afaa gaat faa 8 aa A fra 8 aay alae 2’, <a
+Tat HT fagra ame-aa F ofaafer 81 ast arava ate
+
+fate at aara feafa?, qa, ata arfz zseres qari at
+
+afaarara & feafa 2, sdf aimee or ered ofcafira dat
+@ adlaca ofeafatat tar 21 ealfac ama at qaraaca’
+at mar ware) “faa ate afer & arazeq ar feta sores
+Faqer gars, al aaa wr sears grea Hear 8” qe tag
+waIAe FRET TAT a
+fasarx: guseit afea: atatea Aglaa: 1
+Maia  fqereaamat ATU
+(2&/138)
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 30
+
+shrinath.udiiga@ gmail.com
+ga agg afsar & afte ‘aaa’ aa real F Aeraqt
+
+a
+
+art mel sam fafaer caec, fafaed faag cd fafaca
+areas A saath AeA BY aaaT HLA H ayo S1 ara Haz
+grea eqarat gree alas att % HIV At afin area Arar
+OTA ITH cara IT a aal at safe ara a A azaarg
+7g ¢—‘armang Aa: aoa: gearfz | (aafcaraaa, 9/22)
+
+aMa— qa’ wee ‘Ne’ BT MaaTaH & (aHaT+
+AN) ame ar ee S faa’ | arqa’ ar oifeaes art @ ‘fra
+ara’) af arma wee un fata mea & far wy zB,
+aalfay gaat aqafa at ariaar ee ad Fa) andl 2 fe at
+Tea at dat afarat & weeny F gre fasaaqeq aT
+TaaAT HWA F VA AAA’ HAT TT awa a1 ag ag safac
+Wadtela ana 2, wife fray At are gee ¥, tga Feat
+HRI, ATI-ATA, Sar-aeaay, fra-waM, aTee-awIza, aa
+ageat ante adt-aaaral & qzeqe aratare-saMaza faga
+ar afamiad 82a @ | fasta ata ca Rett H qe ‘TTA
+weg Hr Te AHIHITA “ee alt saat afer ar arazeq”
+frat @! | Gar vata gar & fH fer vax afm areaqa ara,
+area sat sritae BT TUG A aqera a, vet gHTT
+a fere ASAT HUTT ATH, ATTA ate ee AY HT eETTT
+Sb TA AT ASAT H TAT Sa AeaT HY SH TTT TET a |
+maar alas A alas FeaTal B aeaia ars yar F
+aaa BY TAT BTS, ATT at arfare aria’ H sey ae
+aga d ane geal ar aralede it frag, frat & go ar
+sedge aa at faaar sy Aue Ga’ F agar< fra mea F
+g. afte, a.satfag, 2. frcracr ar saée, v. am, y. qa,
+&. T-Aa, ©. Wate aT os. IT ai—za as fagat qx
+wal al Tal St, Sa AAA’ Hea F—
+
+t. faatraxa, To 81
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 31
+
+Ro
+shrinath, udupa @ gmail.com
+
+afera satfameata farapea start
+
+wagqd avdal wifatearta wu
+
+qiatet aeardt = aTacaeaerny
+
+‘qaicara wa A aataeaaa A armaafa az Tare
+
+state) sein ae edlate fear 2 fe cerafaa ger Sa A
+fade car era we F araa (faga) eT gi sa eat ar fang
+eq at arma’ 21 arse weg ast Meal BT AT ST E—
+
+geasta fader ar a eae ara faa
+
+amie twaSI aaMaeT aaaAT
+ataa aifeca—
+
+ataaa F areata qraaises F ga, fas, afd, es,
+
+HAG, Re, AaTA ae eaweHea’— gq o aTAAT BY TAT BY
+mE Si TAA (ATMA AAT ATZAT F BIAS) A TH TW0s-
+fafa 3 en, care, gar, fam, an, arg, HAT Tal gx’ Fa
+arma at sere fear Tar zs, fas aaa HAM: ASST, Be,
+SAT, BT, Be, aa, tar aarfanas vt fears
+ATAASSH H TTAT ‘HAT AAT, Faso] AAA, RW AAA, FART
+MAA, THE AAT, SAT ata, AeA aA HT TT aA’
+al ecarntz fear) faarie’ Fez arma, eaea, aa, fae,
+AM, AY, HAL HT VA ATA HT SerS gar S Arwost afear’
+¥ ‘aa, fas, cavara, Be, aTAIT, wa TaT aaa’ arfe aa
+aaa FT TAS FAT si ‘MIRA aaa’ HF ag, We, eH,
+mad, <e aareft’—ea a: aratbar fade fear aar 24"
+aad cas gia 2 fe aaa gw: gua aT aA H eT 4
+‘qed ce FT aa grag, TH Ag AAA, TAT BIA
+
+g. Ta BeIME, Jo FE WC SFT |
+2. TA FITS, To SE I
+
+3. faersiefanria sea, 2/24 Wl 14 Laat AH, To ¥3 1
+V. CAT AA TTA, AT 2, To 22V
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 32
+
+. ag .
+shrinath.udupa@ gmail.com
+
+TAT TH TA ATAA BT Bowe garg ‘ama aca faara’ F
+‘aa, wife, ee, Taq aa fas ara’ ar sere fraat gs 1
+
+Fo Ho Miata afaus Aaa wey ‘afan aie’ F
+aga & area eal ar faa sea fear’, frat & ge at
+satfaag, aoa ssfafrat savers aa ae ar fafrer
+PAF aaa Ma gat s 1 saa faa ga HTT S—
+
+4. aac aa aa (fafaa), 2. afeer aaa (aaaIZ
+wat qaaaita # sfeafaa), 3am ara (aTUHiaT
+gaia + sfeafac), v. satatea (fafaa), x.atet aet
+(aaqaa afaat # vfeafad), g. Her aime (fafaa),
+9. TIT Tae (fafa), o. We area (TTUTAfeA Gams TAT
+qraaita  sfeafaa), &. ag ataa (fafad), 1o.aee ATA
+(aruafea gata # sfeafat), 99. waza ataa (fafaa),
+92. fa ame (Fa salt FH vfeafaa), 93. fag arma
+(fafaa), av. aga ea aaa (fafad), 14%. aa ata (fafa),
+44. salts ata (fafaa), Ye. Aza alae (fafaa), 40. oF
+araa (fafad), 18. waa sae sea (fafa), 20. aeHt
+aia (fafad), 29. faon aaa (fafac), 22. ate ara att
+(aroretfaoy aa fastadza Asafa), 23. ateaz greet
+(fafaa), vv. arcaraa (faata axa at faatoreaa sa
+Arar % sfeafaa), wy. asa ataat (fafa), 2%. fag (fafe)
+gran (fafat), wo. cara ataet (TIT aifaot FH sfeafaa),
+Qa. cass oINe aa (Alfa Zar H sfeafaa), re. ga aaa
+(fafaa)) tao Homa J ashe Gea aera’ FH saree
+RAAT Aa BTARafHar gs i
+
+qaa-aieea at ga ald waar 4 eae’ at
+fafascar aataft 21 ag ‘Sataea’ aalt AF TAA SACHA
+FY afsa daaar ‘Tats’ Her H Her TITS | RaaAaA FH
+agers fasy aaa st aTaTAT F Va TIVT gla sit
+RATA HI SAAT HRT WAT S | SAH ATT Sl sy WAM
+& fe waraa F aaa saa geal at eaiat at Aeat
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 33
+
+shrinath.udupa®gmail.com
+
+aafora & | aa: eRaTAeT BY fasrar, cad UF aifaca-aeqas
+
+qt faa franz fear a are 1
+
+ezataa wl fesqart
+
+‘eaalae Fam aAa-weal a A agt, afte anz
+araa-aea weal aT aera wea Ji ag feet a aa-
+ara wey ar aamtaa alfa feeal-a-faly er F ar
+ward at atett aaa faa oradt) ‘afagiier aaa
+angifer a aq aafaa’—'st get gag att adl’, HA
+@ ait aati adt %, ae aeaa adh adt 2 ag ofa
+gas far qed & aa faa set 81 gatfay at eaaraa at
+
+UH GaH ATA AAT aay FB) AeaeaT ATA Bl Aa Va BT
+
+aTara fra 3 cae Here f—
+Sit AA A WATAT-JeTHA t
+wana «= aleafaaciar:
+(ast faarta)
+wate gat at ata at fret at aaa, ears al tas ATA
+SHAT AM Hea Hl AAT ATS SHAT Hl FT TAT HLAT FAT
+afa azarae 1
+RAAT FH TT: AIH ST H Gatet weyrari A sat
+fear 214 fava aa, faraartart aa, eaaTaa-aeaa”
+arf arat & sh acatfra ewes sa areal F ag ane
+aealTA Wat BH ATT AIaT ‘ARISIX z, Fe ease THT
+dla 21 ara at gah are & faa are gaag-gaa vata, way
+ate waren & tar sala glare fag uw saara aaa ws
+at, at fe aea-araeel, caer SfHATAT BT NTT BWA ATAT
+ua ‘attaa-fagaate’ aT |
+agar ag Wear Farad fH gatas earma F
+far ae aiftan faut & aeons cacttal BY THReAT
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 34
+
+shrinath. udiipa @ gmail.com
+& Fare HE TTT Tea US CATA TAT Tafaay J it Tee
+qeafaa fear 29 wird & fafaen. aosral 8 fac-qzfaad e
+ara at qsfafaat F UAW aqd sett facac z fF
+farat ana aaaa za aye A Haat Tea Tal 21 sae
+ara a ag ot enzoita 2 fe sme ara wrea F arwrara A
+eaaraa & ara 8 faa avi al aa-aa sede far Y, 3 ait
+afe dafaa fan se dl gah ate giv aat a gical
+aaa ze |
+gat sega deers F oroal at afaeta cd qe-arezar
+
+al cata Haat ag sara fear 2 fe faeaa sraarel & ara-
+ara afaqa stating satel at sit ofeara |t, ate a sae
+ararfeaa a |
+
+AIT BT aAIT aIA-Aa fefa A Ht A araar-
+suiaar safe amar altar agar 2 saat erat aide waters,
+aer-mat ay ofa & fare at oe arelt ernae it aifaa g |
+grata ara at aration feafer site ara at tizfeafa a at
+gaia wat aar 8 at ea aah afafat aaa F
+qari AAT TAAL FY MT eTAAT-gerMAT Tea: eTHT S| VA
+feafa ¥ gna fays, ava va wea araar-raia #1 at sat
+aqat HA Hl Aer AI Aaaaa ararad at sfeaar, arat
+at aataat aa ifesacefa& ata a faar waar cata a
+araad gat aaa aafad ze, ae aar eT waar aifcay
+aaat SA aa H FAT SAT Ay AT TAT S |
+
+ag fratea eqce 2 fH gaa fama ‘aifar-fazaaia’ a
+gu aifaa teat Hafenfar Hear TH get ah z, FHA
+gant grerigafafad wa-aa-ara aiaar at saris Teaat
+al Gent cad qizal A det ag ares Hea st Fear AT I
+gan ara & fan sfta Hwa aa THIN A ala J 1 TAHT AS
+BIFIT A Hae HS Taal aa A aifaa wW, ales T4-44 TH
+ant safe er aaa we, cacfaa aaa A eAITRA ET
+
+My heartly thanks to SRI HARSHA SHARMA
+
+@)
+
+## Page 35
+
+shrinath. udupad® gmail.com
+
+agar & Fe way aya aqafag dqdta He Bay |
+afefaa HUA St sare ge wee A aac FY
+
+RAIA BH STA HT AT fafa ofcaa ét wet fear ar
+aat &, aalfe gat ona ate aea-ava fraral & afateat
+SHAT, a Mea, TUT, SHS, aA car Wat I ars
+faarat % araea & fata smear PAT: Tr gee Hawt
+ATTA —UTAT, ASAT, HART, ATA BT SAT azar sfha-
+qa gat & ate aaegfe-faara, Wae-faaa, Fafacar-faaa
+anfa fara at at aaa aae eal F oqat ay TE fet, STAT
+waea @ fe ag ea-aifsa carers afer & afeqee’, |
+zafay wet afafaeart a, wal aeafacae a ale val Fae
+qaer & ai favat ar fade gat orca B 1
+
+gal Ta am GHag FH ear-sqr tel star ae ael. eT
+aT ana, fer de-qale ara Ha aa ae fafars aaTy
+atest Fare st sca 8, saat aries faa’ at seat 31
+AAT FAST ALATA TIT HT |
+
+STATA : CAST-TAT
+
+aiyag ara fra F aT Hs TT aeal at Fear
+
+alas wat 7E2 ale cat at ‘craved atfeat-ad ezaraa-
+HAA’ HEAL CHITA Tea HT GAT TTATAT J 1 Fora AaTIT
+Hara mea ay afefer F ara ater car sa-sa fasai & arag
+ara weal & saat fasat ar sratfors aot gar HY, Ge
+san’ dt al ‘qeatad’ wear afeg | gaara BT ara aT
+aan a TS 8, aa: ara a Thea It HS fase wt atferT
+tiagaaa sfaa f fa—
+
+adfa faqamala avaaa-aateaara |
+
+am @ Hea genta arafacafaetaa we
+
+Q. BIPTH MTA, TaaACIeet t
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 36
+
+shrinath.udypa@ gmail.com
+
+SAA: HAA AAAI BAATH-aWIAT |
+gearfa-reriigact wrafacafaditaa tt
+saa aragt aaiifarat & aaa faga sat ar
+faent va wae dt meam YX araal ar away Hw aay
+West Ta Heara f1 sal TH y. Tage BT HAA Ale
+2 HEATH BT aT arf BVA ara Area Mh ara’ Br AAT
+lt ogee at gfe Fe. cataray, x. aastafa aay,
+3. TAT Taq, v. Toaasrafe wage y. ad aaa
+fe wean’ & argare it gery aa ara at afsz AAI aeaaT:
+eel aa rat at cara F waar ser Tare fe—
+aasal at aera area a waTSHAT: |
+fa aaa weed aaa: feat
+Sal THe aa fae Saal ar aeay AA SAF GIT SAA
+wa & ala at wert A ara aT ATH ate Tea Tem Fraifes at
+TAT Ta SI aa afew faoal ar afarrea aor faearwqgss
+fataa sceqa GA aa Aa yea eh aaa’ Aaa sea at
+TE 1 aT aT BY Te HVA yu wer Tas fe—
+wa aiteaanit zaarai safe:
+a weet arafreng:  qeraa-aeda: ut
+ae afte & exaraa a ‘aea’ wear at ards ea, ata
+lag cer H cqres at F ary are ae fray sya aay
+HaAS ET si FI eae 9. aa, 2. ata, 3. Peat ale v. at
+a arag fagal oz cata faataa orca dat 21 ava at faa aar
+% mat arearfns-aeta ar faeqa fase’ | asta aT TAS eT
+‘Mer A aap aaa HT aT TET TATA sU ada TIT
+art ager at ter ATES. AT aT a ga wes F gaa afers
+att san fever war & fe wena ora: ag fase gee As ara
+SAAT BT Ta aTee At aT’ fas fear war g ate ‘Aea ale’
+ay afar oz mien wat ar fazer fear var 81 Peat—ara at
+
+Sat antes weg & foe lar PRAGA TR
+
+## Page 37
+
+shrinath.udupa®& gmail.com
+
+araianat weet e1 “frareett wer:’, ‘Peat, HaAATATT TAT.
+‘geq fara gua: a geatfe afaaat feat at afzar
+aaarat 1 aa: set aAH THIET BT TATTWT FHaTe faaarg
+%) aat—ara, arate Peat A freacar Arar Me tay
+HIATT gIU Ba Agua H sarzar Wl araeas FEI TAT 21
+gat 94, saa, aa, aT ae Arar fine agears A aarface
+ala fat fe czars F recta carTgars afne g |
+
+garal agit & aett ar at area TEETTIST Fe, BTA
+ua cafer &t fafarrar % aren gare areal F aT eat FT
+qa aa earfewat wt ag Bi Area TIT a MT ATA aT
+ava & fre qatarat A wal SHAT AT aE BT 4
+fava ar free fears at eel wore aiait at at dt alg fear
+& agar sé aoa Tafa fate & saat fader fear & 1
+qrerafes saat & amg H ea feos carga alt carta
+gat HB Ta IT HY ca AT TAT VY VNl S, SA STHTLATAT
+fageaa Ga Weal H veda BA 2 F, Fe ATT ATT FI
+
+‘eaqraa’ amare F aatfrs aacaqt fi zat
+adua-alasat & ah assay BT sATTT HTT A aafas
+sao & 1 fares fatet weer Fara Har a sea Slat aTaAT
+avefafaat % ezaraa & saa aiees afrat at aeat gore
+at qear A ata Fi SAH Sa THT HT ARAT AAA:
+safau frat arar <a fe cafeana saat A Gt aes BT ATA
+waar waa asl ari Mt fra yce Saar HY SITAAT HLAT AT,
+ag aa a aim at ray fan fre Mar ari aa BIT x fF
+adt Ban wafers dt agi saa, ageay aries Set
+Rae casas & a aaa aafaeray gt aaar aatat
+eq—afaa eq fran azar far cart ara at oF afer
+TAIT HT TA TAT SI
+
+areal ara  aqart eaaTae TATA H Alar arAaAT-
+aad catan aife, fase ale wararaal F Tear safsse
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 38
+
+Re
+
+shrinathudupa@ gmail.co A
+Bea F HILT ‘TAT ag Hel TaT et Seat Sate ASAT BT
+
+adi fata & fe—
+wiadertagetfn «= aaeiearmafa a
+qaaftecant ter afass GAT
+SAH ATATT BEY ValH VaaTAa F aay aT F, fag
+ag waa fade alae, walfe ‘aerfag-areead-aea’ H eqsz
+wal TaT & fE—
+a mad faeree asqaia adaacii
+aa: fea & cama’ Hara faeqa wes TET SAT TAY
+atfaca arqar & ait at warfira stare |
+‘STATA SAC Gea Parag a area F THtfaaT WT
+Weoqeress saad ad weal F afeafaa aatat at deat
+woo SHahH aearey TTH-TIaH MIF aiT-eala -AAAT ANS
+al ca tear feat ait? ag agarar fader sist si zx
+aq F gets gee F art Ha ag gferarai a ara gary
+fa—ag aeealdaa, aeraratatca gar Aaraatete,
+aaaargysera alt seas care ta fafaen faral at off
+% qera: att weds araat-faaral & afer J 1 aferor alte
+ara araral at faa ata & saga BA gu A athe ataar
+az fate aa fear At ara ate’ at ofHat at Vea A gT
+Ha, tha ws azaara arfe F gral ar wh aearaeaay fas
+frat di
+MT asa F aHaar sta ww F ardfes ai
+qearaeas f1 ga afee F gat was carat TT aitee-satT vit
+seine fer % ale vat aradca ales st area Hwa F
+fac masoifa & gre afraca ar at area fear F 1
+BATH GATT BT AST fatreeaTaeasy gs, Tet
+aeat ofa d, cater é ale areafaa ate 1
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 39
+
+shrinath.udupa@ gmail.com
+
+eaataa Bt avsfataat
+
+mea & ga F ala cvesfafeat at aqfaa
+away fara & aa ar xe 2, faeg ata-ata Sa It AIT
+fantaal & dae ae aA H HITT BATT FA TI TT
+farse gla ter 3 1 gas ara at faa aaa H Har H Hfags
+nacaqe qwefafiat fatal Faeit ag 1 eT at at ST ES
+aat ga seat ay tert at gMz grat eaafead SF ae St
+a1 tal &, 4 ga aT fags S1
+
+grasa Tvefafral Ft ear’ at geafafad sfaat
+at stea & Saar Gear ‘afaw arfgea’ wea F arate Ix
+Herd: 23 Sarasa: Hoare AM slaai Mell, Peeq saa TA
+afeaa aat sea star | aa feat He at fasargara g at<
+HS CATA THAT H Es sb AST F Aferca ara TAT ai HT
+ar Seq Mt gah MT aeat fears rss ale wrasa ofeaa
+wt ge fear wat e—
+
+VATA AAA VAATAS Ara
+
+2. AT-M (SAT ASAT) TalawT age AGT Tea
+
+MTC TAT Tea He S At art HF ferwaa Fi sal FH Ha arse
+
+us Teas —To Fo Y5ER, XSER
+
+2. FE HLA-A TaraST’ J 1 ATA TeA-HAT AT HAT
+
+TAT Bt TTA 1 Matas, faspataa, wafers alt TaT-
+
+qiaa 1 TT ANAL HT GaTHIVS ST VAATAT ZT 1 FAA e3
+
+cea ie —Ho Fo YRve (B)
+3. Aea-s aT dared ag AVIeM ATT SI
+
+Ho Fo WRv¥e (€):
+
+¥.ag qv teal Foor Fi gaw sfatifea fara araea-
+
+area & ofa araeatieal at afta ea ag fara 2 gat aaa
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 40
+
+&
+
+3
+meq Bt aarti paelnat Ge ear “ats ee BT faaaay,
+
+arc fafa, feer, xc alraqara F Iza wae sat vara
+
+are, aife afore & . Flo Ho 8/32
+4. Agleaadt Fareet | gay wat agraw wT .
+afar & | sete Ho ORY —fEo Fo goow (@)
+
+&. AAA GTaTAST | FAH go00 WF, FTA
+
+1 eat sfaarfes fasat % afer qea-qer fay §—faz-
+
+Ara TSW, ARTE THT, Waaiy THT, WHAT
+THU, FA srt farara sae, Hardtgsarfe fea,
+
+grdaay, Fat F aeetat wa ale age ara, WAT
+
+frat, ara anf, fasra saw, aATawAI< Tha
+FIT, WT ahs Aas aatal F GaGa at saa, Iz
+THU, TAM Se, AIFS HVT, TTR eaTA TA |
+To Alo VEZ
+
+. ae Alfers aa 81 sah oa: seq araa-fearea,
+
+ama, aifae att ararfarn tifeeen, fafarat, wfeat, de, aa
+
+sea afe afta & 1 —to Fo 230k
+
+5. HVT MAT, SIT HOS ATT | — sho HTo Yow
+
+&. ATH To GI, TH I —Xo Ho ¥eYo
+
+to. (#) RAF Fo ATMT ooo, TaiamerHaT THA
+Tor |
+
+(@) TF Fo ATAT exo, TTF |
+
+(7) Seite Fo ATAT Q¥o, TT |
+—to fo (&) R3a¥s, (@) WARE, (T) RRo0G
+So—atrad atl car wetted, Fast, ATRTEA-
+aft, musnfaqeia, amacafaara, adieaa, wferat-
+aqaifafa, aan (mae aed at ater) sar aaare
+
+a
+
+88. alae (SaACIes)—aL-agiea Saleeq waa
+‘STITT BT GAT at gaat H fanaa 8 star fee gee ser vat
+& | Saag SATs’ we Teal H yor 81 saw fae Fe
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 41
+
+*
+; shrinath.udupa @ gmai Loom
+wean-cara, fate veal wr facia, sraceaarat, faq
+wr eae, faieat atte farerrate | Gar rar J fe ReATAT TAT
+
+ares RSIS B —Wo Zo ¥920-22
+QR. MATS TraA— AEs ‘aTyReT’ Hr sfattan aa si
+SAH Ter HF TaTt-aeTAT ST TAF |
+
+(ae Gaitae exaraet & fare wala Hate) 1 = to Ho EUY
+23. AAAAAMCAT AA —GAI-ASRAT TATTST |
+—To Fo yas
+eae afaftaa waaay & are & ot fama area
+meq stat &, saat Frawia freafefad Ft
+
+arama st aifeca-arqat
+
+aTRa aH ore TeaTTT H eases & saga area
+ai caletaa Hwa S ara Hare faa aera FX gray
+fasat at aintcia fader fear mar ari araaa: area
+anifers arcara a cafaa ast wieata soraar-faerat ates
+srafera TTT HI TTA Sar RAAT H ga Far HTT
+met gar Ts ATI YE HETIL THAT a frarag aret
+feat vata ararH HT tte THSHT ATT feara F gars g
+qx freee ant feaerrar & \ ars gant aaa ae wT AIT
+qt caer H srerer aah HET Mra 8 fis MxaTAT BT TT
+meat eat ae Tail a aeHT aT Agraa Hoare Tal
+St feater wr setter sea Alar, sae wT ay EMT Ta eae
+afrs &) araraat F ag aT alfger aa aa feat rar 2)
+Sat ra H wT aaa BT UH wT ea AfeT MIT Aare
+fineq vat afafcea warfas 88 sarfira asanrfire wee vit &
+faratt qoaat erat Fe sal T exaraalad afer Bl TAs
+faerat 't 1 gan fats afar gar oiesfafrat H qxfat
+afer 1 Tea TeTTAT wea gras Ue a weal ay oF aat
+aarz at 3 fad creat ¥ ofeea F fre sagt sar sage
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 42
+
+shrinath. udup't @gmail.com
+
+aaRg Ae Tat qera: fafaer averd F fera reser
+aa.
+
+anedain — (RRTAATEATa) #7 Bz0 Fz a/v
+
+2. ANCA Taha
+
+Mw
+
+Ho fo fo ato away
+
+(seAgAHeTTT ATH 202, Tr)
+
+3. HT-A TT
+
+¥. HATTA HoT
+
+%. TeaqT AAA
+&. HATTA T-TAT
+(9. HAEATATSTRET
+
+n
+
+G.
+
+8. aagae-rafa
+o. MISC HAT
+28. arera-talt
+
+22. RATT ATT
+Q2. MATT AIST
+
+”
+
+7 FZo Ho 9/89
+"fee
+We
+
+” ”
+
+”
+
+ewMrdaaieed,
+UMA To Yoo
+FEo AZo 3/9
+
+FY HEo HE YLRR
+
+WTF To QYoo,
+Ho To 2oRey
+Ho fro ATo RENO
+FRE FZ 2 2¥
+
+Q¥. Beare F aT ‘ To Fo FYB
+QX. SAATT-TaT ” go Fao fao alo 2Y0GR
+QE. SUATU-Lalar wv Wo Fo &322
+Ro. ” ” a Fo Ho 2/25
+25. STAT Gap a taara GIS
+Re. ares ae ‘i -
+Ro. afrar aa i m
+2%. Ta STT " Sarageat dareeq,
+
+eae agrgarareaer ay aH, BAR arATe gar fafer-
+faara ar acta 21 azarae fora H fer ae fadarqare
+Rew Gaaras ate Mase za wat F ara—e. usta,
+R. AIT, 2. aaa, v. AaB TAT y. Taam fafa
+faera & Gor BAS as aa F 1 eal wea H Gert ad quit
+
+| My heartly thanks to SRI HARSHA SHARMA
+
+## Page 43
+
+¥R
+ay amtcit Agar ar Hee GG att, wal,
+wage ale Heats Ht Hear, Fis afsaat wat TE Fi SAB:
+ware & qararer aife at Beat H TAT BT A fraTaA J ara-
+Us Ht GT H—e. gaalaa, 2. faeraa aa 3. atdlaet FT
+wai |r F sre fats sea sa ar vl Tha S|
+QP. AW AATITSAT ai To Fo YGER
+gad avet & aaroiaea 8 arag faeqa wats |
+23. wean “2 Flo Fo 2ARZ
+gad ve qzal aaa fava afar fag exaraat
+
+afafeat va, fron, set gar agate & sit frat Tar zg |
+
+ay. Paearafa-satt 4 ara aaat
+2Y. ParTATAT HET " qza 2a Yu, Fo Fo YER
+
+AM Ho To WaRs, NH Ao Yoo:
+Qk. SATAT-HAFT - Fo Fo ws
+Qo. FAAT-FeT a "Ge
+qs. sara yaa Tait” ”  &e
+
+Re. FATATFRT FATT
+
+QR AIF, To Ho YSRX
+30. Saal ATAATA a
+
+32. TIU-FATT ” 205 TH, do fate fro ato
+32. fagraratrart
+aeaara | sf Ho Fo Yeeo
+
+33. faner-weer To Fo Yaar
+ay. fareaad at
+faarafa-aeerarat
+
+ay. farwaratT
+
+”
+
+" AERER, To Ho &90
+
+adrrarafa tir . -
+aq.fagwgrad ait =” Bio BY”
+30. faqeqreti get =” » Fo Fo Yak
+
+3c. faqeaeatt qarfafr
++ 38. faqeqrad aia
+vo. faqu teat
+
+Ho Fo Woe
+fTTAT, Ho Bo ZY
+Ho fro fo ATo BULA
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 44
+
+¥3
+shrinath. udupqg@ gmajl.com
+
+%e. fara et 0 Zo Alo &/2R0e
+we. fare ger 4 Fo Ho 2/V~E
+wR.amaaaed aq” Xo Ho
+yeaa atftarray ” Ho F 3/"R
+vy.amar fara aq "allo 20, Fo To RYRP
+&. cafe eafaeta ” Rilo 232,
+Ho fao ATo RBaY
+
+we. tfarraifaar daa |” RAYo QYoo,.
+Ho Fo PUSR
+
+”
+
+vo. afernarfenr etter
+ag UIUSTIaT aires Tea aferornrferar Sah sr
+
+AAA TH eA FI Wo Fo E30
+we. afarornrett waa t Ho Ho 3/Y2
+
+- Xo, Taser ” Flo V2, Alo Fo WR
+XQ. SalaTa-aTETeey 2 Fo Jo RR q
+XQ. TTT ATT * eal Ata Gare SI,
+Ho Fo PQVRay
+
+43. Ot ToT Gea " BAaUs Fao ¢ aH,
+Wo fFo Ato B¥LeY.
+
+xv. Qagetgsnfafar ” Wile 28G  ”  2¥RRO
+XY. tal ae * RATo Yooo,
+Yo Fo Xow
+
+Fe TAT AAT TT aT STA are gaiger ar sfaaes
+Wt RTT yy Tea g frat gar gor fafa, Fy waa,
+
+eat-reea onfe fae afore |
+4. Sal Weeq aeyaT
+queer z Fo Alo WE
+of aa go Tea g Tar ag sah ake sed wT al ATT
+' j
+Xo. Sat teem (aalaa- '
+fade sfeareq) to Ho RE
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 45
+
+we
+shrinath.udupa@ gmail.com
+Ys. tat WET To Fo G/Roo
+Qxdeat A macsa  yea-qer acal ar faraway |
+aaa 3y Teal H fafaer Baal at Gat Qooo Tata afta
+
+g1 Xo Ho YRko
+Ye. SAEA-TT ” gd ct aoa yar ated,
+Ho Fo P3R50
+
+go. TagqaT ” Ho Fo (HF) Bvys
+& %. SalyaT TA ~ lo Yo,
+Zo Ho Yors (a)
+
+qr aadl arart TaT Glo Ho PIL
+&3. athae-TatT ” gai¥o ¥G5, To Ho aR
+aX. TAMVASAATAT “ To Fo Yack
+GY. TATA TAT TERA 22 Tee
+-&&.aagat gon fafa ce” REX Ta,
+zaget-qorfafir to fifo ATo R¥ZRo
+
+&9. TAUAHT 2X0 Ta,
+(savaver) 7 Fo fo ATo WRG
+
+&o. TAT ATSY-T ATT ” walo GRR, Co Ho ¥5kS
+ae. freargar-met @ Ie,
+Fo fao ATo RoR
+
+wo. faeaate fafer G0 TH, Ho To B¥NE
+98. Haaeact sant fates” &o Fa Ala,
+Ho Fao Alo WUYGo
+
+Or. Taw THT Fo Fo YR
+193. Taam ara fray 2 92 Ta,
+Ho fao aro AEVR
+
+ov. Gamtafeaear weer” [Ro Fo WAVY
+O%. TAHT TATU as Lo Ho ¥¥e5 TAT
+Ho Fo YRVR
+
+(aent-aat) Ho Ho 3/3
+
+”
+
+Ot. Tat BACH TT Ho Fo Fook
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 46
+
+shrinath.udupa@ gmail.com
+
+oo. TAA-Aea Tsay PIO ATO 2/3 O-
+95. TTAa Tat, To Fo GYRE, EGO,
+TWAT Feat, Tet atfs.” Yo Fo 2/22, Wo Ho
+VER, Fo Ho ay
+Ho fo VU¥33,
+
+ho Ho 9/2 2%:
+
+So. Ta-aeat-aaeMa =” No Fo Alo R/To Row:
+
+a”
+
+,
+
+98. TUS TEA, TH RY”
+
+52. Ma-eaa-fafa, Tt 2¥o ” to fro 2¥032
+sR. ga, Tt eR do fao 2¥333
+53. ofaafat gon fafs =” Fo Fo ¥ie-
+oy. Taare Tart fafiz,
+Ta 9% . Fo Fo Woy
+
+oy. cea firer-TaiaT "Yo Fo E¥Z0, FORK.
+\ Do Fo 202R2, Ao feo
+Res6c, (@) Woy,
+
+. RYURR
+5%. Mae ” Fo fo WwExy, WEXR
+ay. eHIUfe aretifaTe
+
+Gal LeeT 4 Toto 9233:
+ae. eH Ser-saTT OO” Ho Ho Wor
+sk. gan Aa-TaiT, Ho fao R¥o08,
+
+RQRVIa a Xo H¥aYo
+80. Fee-ACE-TST aT” Ho fTo Qyows:
+88. Fem HVA TH TIE
+
+SAAN —_ To Fo KwXo
+82. aah Aa aga” Ho Ho War
+83. aaa ea-aeeaa Ol” ” 2g:
+ay. Tae -agaaTa” Fito To B/avg
+&Y. ATAT-HaT e " Fo To 22¥Ro
+&&. TAT ASTATAT, GY Ta” feo Ho 9206 —
+
+ao. Tea faqweeet
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 47
+
+shrinath.udypa@ gmail.com
+
+frarqattata, & 00 va” ‘
+&c. ATA SATA
+RR. TAT FAT AIT
+Ta 20
+goo. stat faqat TEM,
+TH @Yo
+Qo. TAT TAM, TA SAR
+Qor. AAT TA-Tale,
+qq goo
+203. WaTA-HaT
+Qo¥. AATA-TaiT, TA & Ro
+Qo. HATA THT-Tate,
+Ta RRo
+Qo. MATA AZAATA TET,
+qa os
+Qov. Talal AAA A Kila,
+Ta Rw
+Qou. Mala CATT,
+Ta ko
+Qok. HIATT HET +
+go. qanead reagan Tate ”
+AUR. TaARTY ATTA ”
+2YR. qaaeadt qatt -
+223. qareadt tafe 7
+QW. qaaeadt Tera,
+RE TEM TT Boo
+22K. qavaadl Kila CRo TT”
+22G. TUS ASAT
+20. Hae fafa
+205. AAT -
+228. HElHTa-TAIT, TA YY”
+
+red
+
+”
+
+”
+
+”
+
+”
+
+Ho Fo Govy
+Fo Flo &
+
+%
+fEo Fo (G) VRok
+
+Ho To Pfkv¥
+Lo Ho ¥aRE
+
+To To YQaR
+7 399
+Lo Ho VaV&
+
+”
+
+¥aRR
+Fo fo REROK
+Lo fao x3v¥
+
+Yo Alo ec
+Ho to 3/vew
+Ho fro 2RR03
+alo Fo RRXw
+
+To Fo KR5¥
+
+Wo To Goue
+
+Ho Jo 2oRko
+Zo Ho Y¥RR
+ho Fo were
+To Fo VaR
+” Yoke
+
+Xo Ho ¥aRs
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 48
+
+shrinath. Maupa@ gmail.com
+20. ARH TAT TTT
+
+” ”
+
+eae 2tRM
+RRR. ARTHTAT THT, TA Yoo” Bo Fo Rey
+RRR. Terror fa cam,
+
+TH Rok ” Ho fo Rvooy
+823. Renate faara . Wo To yoxs
+Rv. Hefaqeaed qaft to fro 3euye
+RX. Herfatwaaea
+
+TgaTsaT TATA Me
+te. Ferfaqwaed wrdafe ”
+
+Re. merfaqweadt qarfafer ”
+Rs. Felfaqeprad afeacar
+fafir n Tevies
+
+” a
+
+2Re. AaIMsa aeaATA Ho Ho 2/2 gg
+230. ARI HIT
+
+(ate Ro) ‘ Xo Ho Ho geyuy
+R32. Aaa Aaa fate ” alo Fo apa, QRRE
+222. TATA, 22 TeaTT ilo Ho Rey
+833. afte aur, wae esg Ho Fo €IY
+22. ATH Fart (Yow a0)” Xo Fito Fito ato RvaRy
+234. aft agerara,
+
+”
+
+Rae Roo . ' Wo ATo sien
+PRE. WRATMT HAISIT
+
+Wilo Yo 7 Ho fo Ryoko
+220. WRAAT Sala 7 To Fo Foz
+235. WaT & Go Fo yawsg,
+
+FoF
+
+R38. CARAT Boyes = go ea: 8
+Q¥o. WZ, es Tea, Ho fFo REwox,
+
+TA RY ; foo Ho geoeq -
+R¥%. TANT T-HeT (TAHT) To Fo yao
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 49
+
+shrinath. udupa gmail.com
+(area & farfaer tal aT faato-miea, arcofa)
+
+UVR. Tait TAT, To ¥EY Lotto ¥oXe
+
+x3. UAT ACAATA, TS FLW z Zo Alo RWW
+
+gyre. aT fra Fatt sd Wo. ATo VRYG
+
+Q¥Y. UAATA TAT TH “ Xo Ho VLR,
+
+Ho fao VVoRs
+
+eve. um ara fat i Ho fro wRRWY
+gvig. UA TAA
+
+(aarufe HAT) e To Fo FEY
+
+pve, seavet (areata) ” Uo Fo ¥a8R,.
+
+. Ho fete QURRL
+
+Q¥e. HAV FIA - Ho To VY¥S
+
+QYo. RAATAA- AA 4 (qfeaa Hae, ah
+
+_ sferat sea &)
+
+242. AM FAT ” Fo Fo ¥3RF
+
+Qyr. TATE way . GoTo Fo
+
+QYR- AMAA ATT ” lo Ho YIRG
+
+Qu. TUATHA AHA To Fo FRCL,
+
+faaa Fas e Lo HYGYR |
+
+GUY. STATS TAT eo Ho fao 2¥RoX
+
+QY&. ATATAT TEET es Ho Fo YOK
+
+guy. TAIL Tt FIT = To Fo ak
+
+Qs. TTETAN-TATT uy Wo Fo RPRE,.
+
+Ho fao BURY
+
+Que. AMIPHETA, Te R&o ” To Fo KR
+
+do fao R¥ovd
+ako. fama FtA/
+fara Atta r Ho Zo Ave So
+2% g. faart-gaaraat
+(Ge Ato AAA) *
+9x, faratay TAIT TA 7 Ho fao QUEL
+
+” ”
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 50
+
+shrinath.uduffu@ gmail.com
+
+VER. THT
+gay. alae at fafa
+
+Ry. Malate ae Faq
+
+2&&. MIAT-TaiT
+
+gto. wfaraTad Gate,
+TT YoY
+
+2s. faarait, Ta yoR
+
+9&8. fat azarae cata
+
+geo. fraageary TaAT
+ATASET
+
+yoy. firarta wer, Ta gow
+
+”
+
+”
+
+RoR. RaTaTeaT a (Hee fasta) ”
+
+203. TeTHIT T
+Qo. yeaRIgg frac
+Vox. TSfaer TAT
+(22XoRo BATH)
+LOR. TISIFATT Fo Yoo,
+Wo Qo
+Vow. dfad afaat aa
+tec. warfra-aay
+208. TAMA Tear
+Qoo. AAAs (HATATT
+BW AATATZ)
+952. aasaz faota
+sat fafrear
+252. SaNTs ea Iza
+953. aTHIsa Tsut
+AIARVS Tila
+@a¥. TAMA TH
+¢5y. Tyga Faiz,
+
+”
+
+”
+
+”
+
+To Ho Yok
+Yo Jo &YG0
+Xo ATo &ko
+
+Lo Wavy
+
+Fo ATo QUVE
+Xo H ¥a2o
+To To YRo/A v¥e
+
+To Fo Ko¥R
+To Ho 22Rz,
+Ho fro AYYNR
+Yo Fo &RRY
+mots (LER
+ao fro 2vEwe
+
+Ho Zo 2/3&2 Sto
+
+Ho To oV¥?, Loo
+Ho Fo 533¥
+
+FoFo ceR
+
+Ho fae 2RaRy
+
+Ho fo Au RER
+
+‘Glo Ho VBLy
+Lo Ho WRX
+
+Lo Ho 2oRv
+Lo Fo ARB
+Wo Jo egw
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 51
+
+shrinath.udupd® gmail.com
+
+ese. areas
+(fesse araiit arf)
+
+”
+
+gay. aye frat 2 Ro Jo BERR
+ges. ga Tait ” Ho fto ARE
+@S&. Gada 7 Go Fo Yaas
+Qko. TAMTHGT
+
+TAD T-T HTT "4 Fo fo yay
+28k. STACHET 7 Ho fo RVG
+Ver. SAAHTT ” Wo Fo RyG0
+
+safe afoa aeatat gat % afafeaa Mt ata eala az
+arara afan favale fatan ale-ag geal 3 at aaa
+at faa sfaarfad 21 ag we cara Tago aT fauna ge fe
+wart Satadl ararat A aga aaa dat fataa at qfse F
+fan aei-ret saarae F aaa at saa feat 1 gH gal TCT
+aa s areanwat as araeaa, wafa sfag ate aatrarat
+wera salat ar afta afeaa ct satrfafa afer aa-
+WTS F BIH eT HL WEI ’
+
+fasa ai fafasat, great a} aragqacar, ea ay
+sqalfirar va eaeq sata a auile faa at agra F are
+ars ataa-ciearat ar ofeaa arfers areal ay sret
+at ate a aaah araar-azion & ofeoare ara ga fareeat at
+ag—ae fee ca fataa F seqa ea a aia g 1
+
+AIT aH ‘Bat Ta’ FH aA a ‘VAAAA’ BT THTTA
+garg faad aca ar & afas faearea aia gar 8
+ga geg H gay saad azarae % arr & faeaa ave-
+fafaal arofeaagds aaelar HUH saH A agra sani
+at facaa fare, fafa ate arate ara weal # gad arag
+wearfa ar ft afeam gat as feared ageaifan & fH
+eae sat & aeit ar TAY ATAA-azeIT. A araal BY TR-Har
+& sca att carvan & fag fafe-faatal a aaaa qarfanar
+sfasz gg a, fara saat aa waaraa A fafead & fears a1
+
+My heartly thanks to SRI HARSHA SHARMA
+
+Yo Fo F¥oe (2)
+
+## Page 52
+
+shrinath.udiipa@ gmail.com
+
+qaara Harare a afte & ganar af ante ar
+THT aaa ararH fear wet A ale ag AqTAIT TAT alasy FH
+HreitaqaNrz 1 at Fase ary ‘Tara | Geaeaaear F ear.’
+ga ofat % aaart Tl aafaa faa sae BT AIX ad a, F
+aai al ada at afta aa 3, & cea art feafe tet wal 21
+Ha: ae wa fagal & 1a az aay ar sara frat 21 a2
+aferorrare ar at oat ara &, ae al cae UH HIT FI
+
+aretha saraatt-e fez
+
+‘arma’ weg wy Taare F vs CTT TT ae AT Hl
+var é f—anfadt-fafgenfa saifor ansitardt aq aa ata
+aaa’ —aaia ofa 4 fates eat an frat arta faa are
+ag aa ‘aaa’ 21 ga waar tag afamafaat ara ze fH
+afan aad aa wait aifed, ga afse & araatat
+sqraarne fa F a aT fag @1 saa ae at afin
+anifase & fe ue mangas afer meat at ofeaT
+arma & wat ag 24 Har F area —ar faa aaqarat aati
+
+arate taht gad 2g nat warg1 ag at wer Sa 8
+fa faa ar aaxger afea ate ufas ar aca teed faa at
+aaa 2, ae fara-orfaet F ear WET HT SH TAA Y, TY aay
+MAA STATA BL WHAT & HITT PIT Si ana BY fear
+qa BUA ST A Har TIT 3—
+
+- eer AAAS HATAATT |
+megeacaaga st aa a aan
+TNE GAY wasetal aarararaaTet: |
+afatfafet =a aaaafanear
+Raaeied ae | WaaeaTaS THA |
+aged atfea Rare | afeaa ea gaaaar uu
+aal mada aaa war!
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 53
+
+shrinath.udupa® gmail.com
+afe at qead ard aad aagarq
+aat ta sare aa: fafeurt waa
+za afte & faa-mfaa st ava waar aaela saaa4r
+Hr rey gs AT VAY AAA Bl TTA Ie AMS BY safe ways
+sah TI Ig J SI Agra Ga fara J cal ag Meat TeaT HAT FI
+2a FT MTG, HAMS, WSITS, aa A Alea aH PAA A aerA
+ary Hare favfana qa a Mer st seed Hats ate
+fal Ae Tea Mea gee TaaTa ATA BT aT slat su wl aAET
+aares sfassrar Ta faa site saat si afar ed faqe-
+wav % aasa % fact arearfad gar waafa araa aval B 1
+HA: AAA MFA SITAAT srasAyH SI
+ana Saat F ferences’ aar Haga’ sr
+fade wecaqt o 1 aa atat aera aT ofa H araeita sTaAr-
+afce’ aatenar afacaaa 3) frcraca & waged 8 mearcart
+Ha SUNT HHT ar eaalead Haar TAI EC arqey faa
+at aatal ar we faiase gaat water aH BT TA feat IT
+qe aintain fare sega se ate saraart a fafaerar ay wer
+HF waatangal A dain’ saa af aacage 1 ‘Tata H
+fasat ar agra alt easdlawy ‘Gaia’ A—'9.qeq, 2. TAT
+qald, 3.844, ¥.ageata WT yeaa’ za ait aa ar
+aaat tar 21 stdta wal F za cial faaal at aaa
+MU F AI IFA AT AAT TAT SAAT |
+eet aaat-ma yafadaarfanc: 1
+wad @aaaa agat ag eTaqn
+wild ada maar dainfaedifean i gearfe
+wat Fea saar ar WU, Tafa faz sg, waa Dal Aa Z,
+Fe TZN (AsAalH) ale ela saa Hy taar—fagr z |
+4. FeM—Aee Mee aT cea far E—Tafa Aeaa a: a:
+qa ‘qe’ ag a Hay oeaT aA Trae mea fas gare
+are aay aaa a alt sar x fe—aea F oon-fafa, ara
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 54
+
+il.
+MT FaTAT a Gena ue yaa Shag at wat tga
+
+weqaa & aAl Ts taea cag carina Mat alay F AAT AT
+wa € 1 saraar & arag fafa-faarat at aaa faq geet
+HT Ma TearaITH &, afar ga aar F WAL aH Gar at TE
+21 aa fart aeg al caarat F fae aacra Gast ATHTT-
+Tat, asta ate a oeataAT arazarH Alar ze Gat THT
+qa F Asal F TAT Hl ala araRTH F |
+
+2. tefa—rafa wr ae FANT) ae MSE HVTa: TSHT-
+qafa & ea F sgaa star 31 ea sare ge ale saat Tala
+at Tita ag wer aIa HIT Haga s fagat ay aATT ET
+Sra ar afearar gatas aa F ce cat F—
+
+TaMATINTATTTAAAATT =
+aray-aeatated Tala wferart fae |
+
+watt Ja oH Fe aya wat ar aaa, aay wT frarcor
+Ta SETH Ha ays aH ara Ts’ Bi Tat at CH fafase
+qafe fratfea 3 frat afetsaa, git qa, area carr
+Ga, Araat-eaTTAaT ig A ATT BL arag TH Ht FATT BT
+aaram garg 1 3 faaa garteargs wa sea — fe gray
+caaea Teas aa = fay Gfer, cd ate aan cafaai
+aafaa é1 rsrvefa & arafan earar< (farweart) F
+waa sat aaa ar ad 1 ara dt ww ofaa eaaear
+wa ar say gitar @, faad fata at gq na F Qaargqeraa &
+ay AATMTAaT Hl Aaa BT faara sare Fa AKATA-
+Was HY sfasar a Haaaay Hea aalfen aeaar at wey
+are at rea Bat Jr aTAcafaarey ale View, arafora
+qty aT saat at FAT a ead faa siqatay safaal F aA
+ahearor att ara arare at ara &, faararfataa aarana fear
+FIAT |
+
+3. waa — Ha’ TET aig & fara ag Mer TAAT BI
+arall ara at Star & Har & fe—are va areata wraatait
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 55
+
+red
+qz nee et (Ee Pu Cort an & 1 ae Faq
+agra aaarat ar.aras % aaer WaT F waaay Tar
+feurat HeqTa HAA ast areas ae sa we, sila
+alfa ofee Sarg st aver ast sin-meaal st aT fag
+Je ToT a sae Has AT HAT A ZI
+TaR Ica HI TIRea eH ara MT awe HTT AlsT
+qt aranfea 81 sa cafas ufaa ar at sitfad oifiat F
+frara 2, sat ara sai wala a|@ sea gat zs, Agl AT
+tet Ht sara Heat Fi satfan gi cu-vala wars ea IX
+frarau waa & fare sria aafeal a aalfan aa fear g at
+eas ate saa Mt aaa S 1 Haa-TIS Tas sa waar J
+ag aga area 21 gfeaa wraaral ate afase afeorai &
+AWA Tear HLA HT AST sara ‘siferara H 2aca aha taar
+ate cag ay 2q wa ara’ fag HaA-TS FTA SI
+wae & gate at fea —sata saat F STH ara F
+marae a oat & frat fear waar f fe. ca FAA H TS
+& cert ala B12. saat frat fafarse og ae ystga aia eT
+weg oe eaal aife & feast aren arar aifeas 3. Haa-
+OS BEAL | ¥. HAS-T1S SIT Mea AaAT, Fea AA AT
+wae (arate) fant, yx. saa gre afaarsia, ¢. aeatfe &
+agai anf 1 cae afafead wa srdita geafafad rafa a ag
+‘Wi sree garg fe waaois F aca gaat ae seatH cara FH
+tat & fag sifaa gear & weal ar rg sit gaw fear ara zg
+ae sadtawn’ ser qa 81 ‘sadt-wraron’ ar area
+MATT Hea THAT Va J 1 TexAa: gatfae gaiaaaTt
+® ‘agaaa’ & area FH Her arf fe—
+FAAS A AVSS SF AAG TOMA: |
+we AIA Haat Wa AgzT
+saamadt faet aa aatfa azofa
+aaaamenaa fanaa: agains: ue gcaife
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 56
+
+¥Y
+
+Pil SHEA CUPS YM Citra aq aft
+exon F oorca gar 3, wt fe waxeq wal F sqares aT
+SIAAT ST Braeeyl Tat F 1"
+
+¥. AAA —ATTWeT SAT HTH Asa, AVtaTe awa
+agar afaa aral sr aug ‘Agaala’ HealaT sy | Fe ays
+frat fasts afee 8 aa eral safes Ft grHr araea
+TAT araaifedl J at Arar 7a zg | wo sare aTfeal aret
+a FT agaaifeal at oq@ar aaa sas sAMaaT sa ATA
+eA a sar J Brarare A gaca sa arfsal Hr vateaa Vr
+& araar 8 agar faa 21 aean F fers agaaa-aae at
+qafeat & sit guar araee 31 8 Ard at gah CUT a aya
+ar oifta let 2, tar area arfec 1 ie ae A gar a frat.
+qaea up at Ca oma Wear 8, TT Ta, Mar ate gear
+arar edi F get aaa gar é, Sal wary faa Hows alsa
+ala wat F He Slats, Tar HI aerafat Teas + fawat
+caer Ha HH AAS HILT FA: TH A BT FATA BW Ti
+azgal & areahta atfaen att arafas farer-aaer & ag
+UH A AAG ATC HAH A TH Sl HA Bl Fes! AAT HITT. J 1 aT
+
+sara ara afar 1 THA aaK aT aAe F cH VA aT
+azar faa aatea acr at g sal % qrare at ag faea
+SITTT AH We Sal Galea Tar HT Agat aval J say,
+fag aaa taaa BW Fi VA eaaal F wa AMVAN faa
+lar gam gaa qa afer F ofa afaastfa seat stats
+faah gra ga dare & faeait ayat ga: Va aa A a7
+arya zt
+
+Fagaara sifas ale ateizal FB aqare afase-
+aifcoy seem, aeaear aife F afasel at aifea var Seat
+Hr-sifta & gears sa Si ‘agtaafequres fasparsas AIq,
+faaargat a9d, qiagas Tig’ safe aaT BAH TAIT FI
+
+R. RAHI Aa WS wt ait aitfaat sala FH fear aa gt
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 57
+
+acorns illegal corn seeds at
+fafrat at 8, fara & sate vt faaaz az fafiren @Teq- °
+war it gaa grafag me & fares ea nevafer att area
+ATTA Tat TIca HT THA E I
+
+y. MNa—Haiszaea F oot Terra H Her ware
+fr—
+
+eae waa: | TTAstfrRTTOTA
+Fawacng fa! watafacafadiia® uv
+
+ah AAT adit & aa at saeaar, Heh a aereo ot
+ase fq at Sfa-aar sree Vet 1 ala H Saar Hr qoraare,
+arenfaaad Ta geet aeaiftea BY ITAAT aT Lea A g, ag st
+sat aaa ara daaa, awa, aa alle fara vt xe G,
+faaar afaora ag wate fede ass ara a waste
+glare) eMawsa sar ara aris, aeafavara a
+Briar S she ga Da sree a afs ate facia er sea oTet
+gate) safes afta a fasta ar adt wet ararxt Bl Aa:
+eala TS BI SUT A Agraqe cara fAaT S|
+
+AATAT FI SUAAT-Sise Bl TTTTT aaa fac ate
+aaaat F Gaal Hr qrera HAT Fi Ta TAA BI TEA TAT
+& qeama giar aifau, aaetea sat arfeg tar eae fafase
+Weal Hl TATA- aaart & fac qe aval at eaTeaTa STAT
+arfer |
+
+qaa-aeat at sqraar-ahe afa faa gi eae Fae
+Wea AT waar cata os arf at cake at at ag, aire
+soraar & fafae sett at carat HUA BT Aas Tata fear
+Tae) aaa sHaqa-cafa H TAA Tet BT AATTT BWA F
+fag agi ate alias Pratl var aitga-sait aT wT Hat
+gard. adararensat a4, ara, ad, ta, wheats,
+
+2. gad agaapeadia’ 1 faeate a faaaa frag, fare att ae
+Aea-ararat ate cataract at afraratt H Saar aka
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 58
+
+EAC)
+
+—_ shrinath. udupa@ ginail. com,
+
+4H, TATA, FTI, STATE A HEAA HT AA HTH FT
+ea at araataar at Tl fag fear Tare: gaat TH ale
+fagtaar ag 2 fe cad faat sare at artsarfan guage vat
+SAT AT BS AAT HT HITS J SITAAT BT THAT Tata
+&, fra Te Te HT AAT A TAG aA IT Agate ale Teal
+aal # avitse-fafa fradt oi aa: ag faitsarwdta ser oT
+ama g fe—
+
+‘gy fasmvza: Te: UA Ty: AaTaa
+ag HoeH-Uze AM g, As AAA ATT S |
+
+ezataa a afna ara am
+
+ara-araar & fore dere farcr at we fea ®aar
+wee By det sara HY, ae face farce F aret fea st ears
+Haart qe aT Sra afer pga sfee J cagA H faearc a
+ava fear amare. gaara at facta aa % far aface qat
+el MAT Ma HAT Bet sys ST a ee aH AAT
+ara BF a Fo Hea qa Hara site arafafa sfeafaa z 1
+Ta
+warased mad stay RAHAT
+aaa UMAR BAAR AIT TTA
+forza fanaa aaat fanen
+garam sefeafa gepram aa: Tt
+aaat aGras Bras aAat aeq
+ausHagas a wy sted satu
+vagdimaasa 2 agafia aaa
+aamacd safe a fafa aaa aq
+feneaq suarite Raat ada waa
+feata qzq—qree a2
+aa sal FH aar-aHTT Maal fears aa 81 afaard
+Waza sai st seanfiar feast ge wer qar e fa aona
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 59
+
+4s
+
+malt fee aren ate, Sf RS He Aeoats, era Hat
+fan afe gfe, tora weal Rife siven-gis aafaT er
+get sare ara, teat gare, afaar, Fegear aria ¥
+ataa 8 atta, atfret anfe & area H araas, SAT AAT
+faer arfe ® area ¥ ufeaw, safer ate sear anfe
+faarai & araa % ciara, frase atferar, fare, aFICTeT
+dxdt aes aaa % faspas, faranear, afaet, Fea,
+aaa faa, srareat ate gael F aaa FH waas, AT-
+sara, Helaar, Taare ale gferer F aaa H Fara,
+aeerar aragaty, cfs, afer aife sara Fafrafa
+am car fifaar, qaasae, SAY geal, torr, ara arf Ft
+aear H genta HT Tay BA BT aaa fears fe st
+aa aai i afan aera ‘aaug aw arg aaaaT Fl a
+ag ST waar za ae Ge Trea HUH ae HT Aer AT
+met HC aT & 1 Var HET TAT FI
+4. AHSATH
+
+ag aaa RvSe H aeTe H aaray HAT F Tar
+cad a & at aa Haart (HA ¥s) fra TAZ 1 AAT —
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 60
+
+4
+
+£8 ee ee eo The area ara
+
+aaa F ATA HT aN gaat aS Be eal BH aA F
+
+(2) fafa, (2) area, (3) afaa ate (wv) afte waa fra
+
+ea ToT a ae eae ay FazaT HY SSHe TT Slag, fag
+AT AT TIA, HET TAT AAA ATA TT Fi
+
+R. ATA-TEA TH
+
+Ra aw BH VIA aeaa HA H arHTe Fay TAT
+aa—
+
+gaa WH ara} ara ar sag aac aera F aa
+STAT TAT H HAT TAT SY TT | YS, Ts, aA, fer,
+Raraasa, fat alt avr F eH a saat war F a
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 61
+
+shrinath.udu me gmail. com
+eq BT ATA ATT HL TZ ala carat F aad FT
+
+HATTA FET HE 1 FAA an ara cara aataa aarar
+Tar g1
+3. RAHA-TR
+
+aga Broil ater ara F arHIT A gaa aa GAT
+at atat ates (2) qeat, (2) aa, (3) as, (¥) ary az
+
+(x) arr & sete araet sat yo gar fad aa ZI
+aat—
+
+f/ zszem
+
+Emenee
+
+gant sogaa cafe 8 at stat & ararard F ararz
+IU ATA at ATT ate ate cH AT aca B Bat sare at Ta
+aaa Ha ga A sas, Tet ar ae faa, afta ar ary
+faa, arate adt ar faa @—tar tant fears
+saraar at safe at TE) Maes at qHA ATATT BIS
+feat TC 1
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 62
+
+shrinath.udupt @ gmail.com
+¥. aa :
+afar anfe aera att act ager at za erst &
+aon & at aH gra ag fatwa dat 21 wet sqa'aa cafe
+& aearct at mar % (9) eanft saa ate (2) fart orf
+WET ATT 7S S| AEST at Tera F are, Paar ste wera F
+
+4% TH aaa Br cart arte fares TAT WA TAT PLAT
+arfer
+
+YX. erfit-aep
+Sa TH Bl aa F eg ufMal dary ‘qosedy’ B arare
+
+¥ freacsas ara aia } aac fe wR &, aT ga
+THTT F—
+
+RTH ATT FT AAA ATA HT arf soy ae Hea BT af
+aot eax aot Uist & ara ae at Ufa aw THAT BUH Ure
+gfe ta eats, 5 ae 22 sag i Tarte fear wae
+fafa 1 aa cara & aa orfta oa aq carat a sa-ga cara
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 63
+
+shrinath.uduph® gmail.com
+
+AFA GA HATAT AE | A CITA HAT: TY, TF, TCA, TEL
+qa, feg, air, qey, ae, wa, aT aE a FET FH ATT
+mae:
+& HATER
+
+ag aH AAA MATT TT aAT J TAT gan fad
+aot ® ararcat wa ar faare fear sat 31 aay FATT
+BI ISAT AAT TAM Ara BT TAT AAT TH acon Tana IT
+eaqet aT aI ae TITS Hea Hresal F aGATe— Teal FT
+oat fara, afer at arg fata, geal & arg car after Tq, Tet BT
+afer aq ate area aaar fra @ 1 Var FaHr Fea TST HT |
+Hq A I HA-MM AC BAT AUPE | cane atx fara att
+Aatag ated saa sar F1 Ara Aaa a RaTHT fasta
+aft caw fear sat & | FAA HT CAST FT THT F—
+
+ary ata qedt wat : aTRTT
+a at gf Ts me | TT
+a x at ait a
+5 a 7 a s
+qT BS a a a
+z 3 s z- wT
+a q = a a
+A 5 a CT a
+“= z a a a
+iy a (zz qT a
+9. THAY-AH
+
+dag Stoel & fated ga aH H aciaTeT F HAT BY
+TaTTAT HE (2) fas, (2) ates, (2) afas az (¥) aes
+HAA AIH S ATH MAAC TT Ara FH ATAAC FT Tet
+Sar sat & 1 gaat Ga fea—araa, ea—aas, afaa—
+qs ac afc ar eras anna afer. aa al arafa ga
+WHIT F—
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 64
+
+shrinath.udkpa@ gmail.com
+
+ee .
+faz | Bree | afag ae ;
+
+i R 3 ¥
+TIE z att E
+Fy | az aG
+
+x & | 9 5
+
+yi ¥ | a q
+
+sq aq i =m ae
+
+|
+
+g to ee aR
+
+= R | oF %
+
+aa aw rs, oq
+
+a ae | gy t
+
+a z | a u
+
+ava sa ; 09 zx
+
+ta a aq aal & faator ate sad ararz gz Ha qEeq
+a fraer ezaraa # fasta wa & gezeq 3
+
+ara dagt ag aaa fear aware fe—afaaac,
+aU, FF, Tara, aera, areft-arad arfe & aat sr
+say aa afse & alas afta sat 2
+
+‘ataa-sfaatiea satfag va
+aamedta faarz
+aait & wa F ygar ged salfag area at aaa at
+meat t edtaa at 21 salfay fara at Aad freak Bez
+
+WTA MEHL Fl TUAVsT Tr Fea AT gal wren 81
+sare at cafe, cael st afa sitet act ar srfirma & are
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 65
+
+shrinath.udupa@ gmail.com
+
+ararey, TATA MT TTA AIT BAT sarfaa Br AAT A.
+salfaamea afia att ofa S wo HF faafas aA Hara et
+quite wel at af % start Ie aes ate qt ang aT fram HY
+ava fi anana H feratarh qe Ga as & AT ATA
+aaa Haya ga qfee Hl ATA-Aea TAT ATA weal A Tot
+areaar at & | Sa HTL SMTAT HT IZ AT TH at Tq Tate |
+
+eqa STS aa raT TT AHeT FRAT AAT a, sam fafa,
+aie, aerate HT ATT ATA ATAT TWAT GI fafaat at qaT-
+querer Br heats AT TELAT HT feafaat aat saw FETT ATT
+Az ala 74, HATA GT GATT fahaa ara aaa % far
+safes at va asa 1 fea aaT SlA-al HY BAT TAA
+agar ? fra are & faa goa ata wats arait ? aed, ATA, Te,
+fafa, arz, aaa, aa UF aeaaet aris aT facia satay
+Sa TX Ma HUH TH ATE HAT aed, war aa
+arieedl ar vorer ardor 21 ata: waar H oY eaaT qu frat
+gate |
+
+gener Faraw AITAT qa, aa At aft FT
+MHC FAT TALATT ATCT ATT HIT BT art 21 weaves F
+Prarie eet, fara site ayrar—ga, wea A tea % seis
+fy cafes sr WaT AIA are FH aeGy TACT JI TAT a
+fafaes ain ga Sar: Gait & et fafae ard wea E 1 ai frw TAT
+at agife ar sara fart HTT BAT &? ga weer ar aah
+qfse & rgaraat sats area H werfe® avery & STAT
+feat var &) Bra H AeTA FT aaa sat BA ET
+saifaa urea X saat aeatfa Ger aqaeae a $1 eatfag
+gscta- al arafaa cata AIT aga a-Al rar fT ST
+HAH SAT CGA BAT F |
+
+agaraa H satfan area at Agee aa gE eH Za aT
+fafarse at sca HA H fre TA AAT ala-TlA-T SF FATT
+fade fear 21 STAT ATEN ST TAT saat fafa
+fac qd-feaat at saaeat & ara et fafarse agat at si
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 66
+
+aX
+
+ewan at 8 TUM aun Bepmiail co Baavit & ere
+# safaa cant & afafear arg taal %, facarsit ®
+THATTHIA F ste wag, aa, ser, fate, are ante ¥ ary.
+fade vd saat arafafs e sata gt it aa fear d 1 eta
+SR Hae’ THT TF VA a fara ax daha 3
+
+aaaiea ae Saas F area A HE HA GT A araAr
+at arctan fre Bra Bu eaaTAe H fafnse calf & qea-froiy
+wh fea 1 eat sat aalfas sfee aavafae & csc ak
+arely satfayaredia afsarzal ar fataa ft oat facarca
+gar 1 aaT——-
+
+anfeat atfa arsed qracet facifeafion |
+
+Sea Aaa TIE gat eat og aaa
+
+searfe sat 8 area Hh ga aqufa B featF
+Sra ae UH are asa F fray, Ge as aaar a} fea ar
+STAT TIT TT HWA BT Ga fase, art stata Hrar
+TAT Hs, aTaTAY BY Gre fear sre sear away By’ scarfs
+faaat oz faeare & wal wea gu frig fear 2) gar —
+
+giiat ocyd fal osqnaea aaa
+
+weet feat geese: fefaq g wate
+
+MR Me awl gate and ead fant!
+
+ae use armaafa afaenfe waa fen
+
+vate a saiftrmea % aafse qenar de fase
+feat ward) agi wer var 2 fe faa sare araae
+fasrrgarct ca fea uae ae afaaia Hag, sal cart
+taarat & cw adie fea-wa F ot are afaara Bass
+a at aaaafaia saan ale afitoaa BEBE ASF
+
+‘Qa Fi uw ad HA aaachada A aha ake Ama.
+
+oftada at afeaat dt aacfaat & aa a qaqa zg 1 aa1—
+Q. Mataret (Tet afer) aaa |
+R. Meare Bret (aaa afer) aera aaa
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 67
+
+Ra
+shrinath.udupa@ gmail.com
+3. alana (ala Afra) alka AAT |
+
+v. neatifa (aaa afer) are aaa |
+
+gaat aaufaat ®t aaa a faufaat Fa atk
+ateaa ma are ot far faer agua % ora: ate aratsrt
+at afer 8 arat 21 ee sant gat fasta wa 8 aaa aT fara
+& aredta soraat-faarat F afanral at fae aera frat
+8, adife ga ara taal & aad, safe % gen aca ale
+ae-frost at eferat & axa, TART TeaTaaT TAT THAT qeal
+® anea wifrat ay varfar Hat Bi afsrelal HT AST
+qiaa ar afeass ga ana afte, feafe ote darx #1 afaa
+ataa azar, zalfarg faroritaar wfaa at saraat FT ag
+gaa aia mat mare. saat qaaseita afasar & acest
+aa ar ana aera AT Tails H AAT aHTTATT Hag fave
+weg FL ga cfeaal a sad SIX ahaa HLA AAT Mla &, AT:
+ag aaa eat arena & feat eatery AAT TAT a”
+
+sama Hara faa ar stata Tat qeedl F gat F
+qa TUT HVA wT fade safe tar AeA a Bl at aaa
+al area aa ar ft gaa frat 2 feeg fat aia act aT a
+qt facta at feat F—
+
+‘q gatg ferafé ¢ qatar: qt faat aati |
+qaiziaa AY Aga, WAH Ta H AAT TT fastu, data F
+
+_ adeq-nat ar fade, fafr az fadat ar fata atfa fag
+
+ashe gaat ahar-vafa a faa aa ARAT I TU AA
+adi dt var 21 vat are & fe TaaTAA H—TaATTAT ST
+fauat at wt ger sere Sra aar ge! aaa AH eat-qat
+} fase Fate At araea atal BT Sera GA art caar- fara
+H qatacandl & wat HHH, oa: gat a aq |
+
+amafa, dza, esata ara Bat ar sara H fet TSA,
+fafase Tat, Geez, Ahaha FST AIT HIFATTT F GRANT
+aeal Ft ATT UAT AIT eat-qarall F IAN FATA-THT FT
+ararera Al aea-AEAT Fl Aa: VATA % ea fava ge it
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 68
+
+&0
+shyinath.udupa@ gmail.com
+faart frat wat fin qat-faara ate TAT cette at fae F
+
+ara & [ataraadt garfaat a Tat aT sar Ay facarz a
+FARIA e |
+
+Qe ete stead frag Recary fagal at salfary aitz
+ataea Farqarcara wa gu afew ana aaa aq
+wey aa eta Fea fafase cara waar
+
+meas Ara Hat ae ara fafase qaratt F elas
+Wt aeg aranio dar aren, ae ama ® far vet atfaar-
+aa i seta fearaar & aa fea aca Raa a aT aa
+Say weet eae ameat TAA aT ATT Got Tea PRAT
+TAT eI
+
+VRATAA BIT AlT-ATATAT
+Wafer aeaag a aaca sata fear di za faa
+wr faeart rae edt F gar 8) aire araar & faea-farer
+THT EAR Aa Hoafsa we F ae weet F ararx Tal
+arrarat Bl eqaea wee fasra At cater arar F gat war
+@ latr-ant at at ered sae art arat & fara eg. faagqfa
+fata att 3. ardfer frat aeqaa yaa a TAT
+@ 1 aa shat ay ofaare stat care at & fal eat & hae
+afear sein ale gad & waraad daa sfeatsatr
+wa alt gas Fae arden fearsit aver tfaa frarait at ;
+Sag qa BI TATA Brae alas say AfE Br Tae aTAT
+wa &, he Ga sa fear F araeara ese wea agar Tee
+taal a afacsrdt afeaal ar aq a azar dal ag fadta
+alfe ® sare H arar 2
+HAA-Teal F A Ae Bl Ta J ag Fae ate ade’, afag
+sat wa ao-faara’ at oil cqaar fi ware BT TATA
+aa fear tat ag sare at fafase ate area ® fade wea
+1 eam faer, ate, atx TUM Gi fataqq HW EC Agacat
+A aaa aH BT aT Fare sat adaan evel
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 69
+
+shrinath.udupa © gmail.com
+
+Raat cagA Fl HAT Fl TeARATT aeafaen’ HT RAT HUET
+wvsel-wfaa FT gt ‘araalt wfea’ wars ate ‘wet, Fae, &,
+faz aa faa atc ae fra’ eS: Raerait sy ‘oavie’
+aaarant ease frat 2 fir & ETAT ET ‘TETRA % faust
+mag att X92 farsa 92 wal & ageaal FH ‘avert
+qos ay feats aTTHX THAT Ua F VAST TTT Ha EI
+
+anaat geet aeat aretencifrads |
+
+safer TURaTaet: |8z fast: wat gwRvt
+
+gat sat H dena, arias, aifae ca anil cat
+at fagata 21 avi Bare Her TAT & fe—
+
+tarastal, fafaaar, asettayT TAK, ada eaat THT
+Hala TEX TAT, WAS, TAMA, AAAS, VAKAT, STA
+adaat, ofaa, facfaats, rater, arwadl FI FINIUTA, SS
+arent at des, HAVA, TTA, araTTs HAT STS
+grata a feat aut BY ATTY BLA ATA TAT fad Ft as-
+HIaT HT TT HWA AAT MIF APT SAT SI (Q4¥/42-KX) Tt
+
+dar aitsata: wat F Hvefet BY AAT SAT
+® efaadte, tesa BT Fe, STITH at Gem, FEAT HT
+Raarfe shard, wal at afaserdt ta-Rfaat aa aa
+auife ar face ata agt aeaeT AETATT F | VAATAS FT
+afaaa % fe—‘aadae & aaa ET TAIT TIT EA,
+armada F aesTMST ATTT TIA FAT TAT aga & NYT
+wey mere sera ga | ae: AUTH awa, TAI Gat
+ale wat frara BT ETAT ‘agifaat, faat ate gafaa’
+at gat % fatima & (go/¢Vy)1 wet aqaqaean
+aqusfaat reagan feat § 1 aT guefart afaa a afgat airs
+2) ag aaah afar STA Ta TET art & av. va a
+RAM. TTT gat f ate Ta graaTarfa & aren Ra Var
+gu araat wife FT % aeafacea dat 2 al ae att
+qusa—agant feag aya HT TT HUA fry segs Bio 1
+ag amaatt st feafe a qznfafa 21 ea afer & Roetert-
+araar ® sfara Mal It Fai AeraTe faare gargs
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 70
+
+shrinath.udupa@ gmail.com
+
+writs aw ale saat arerat-afear
+
+wa Bn Hosta at ara Hea S at aaa al aa grag
+Mote seam att area qatar fears at arat 81 eaaTAeT
+F geae ak ak daa at agar fears ser aara fH
+
+azanaat sifaaea ATAATR: |
+daz at at ashe afagt waft anu
+(ze 24, TANG 93)
+
+afa sfag seam BAT: 2. HATATZ, 2. carfassra,
+2. afrg, v. wares, x, fare att ¢. ara aa 1 freq
+waa eae THT Ba ceil FR arare aes ara wat
+ar frag fat 81 qerare ® are ail F wae: g. afar,
+2. tai, 3. Gara wa wv. arfeas at fea @ oat waa
+feos aot a7 & seat H faama ate gad) ® dea ar
+wt dda fear) setae aa ar aie afte sat aq at fafarsz
+ware at ret aie faeaa 81 (x eat gear) |
+
+areas cee FH qeaa-paley ara BW au sadaT
+val tal at feafa, arafa gak Baar, act ate ga cara
+‘wr fan sage far var | ga aah aia H quater at aat
+qatar wary afag ara-d-ara sak aracy F st eaait
+fata fad 81 cal al F fausara 2a ate gaat arfafrat
+Baal wea F afew faeare a acta fear Tate
+mMfifrat—e. arfaet, 2. arf, 3. aifret, ~. ufRoty,
+4. Sheet ate g. arfmet F1 sat saa B aaraar HG
+BT BTS ARTA A-ewTe H AT HTAaT aT S—
+
+ata amada a: sitet aeitar: |
+alatwatd aat mata @ aaz atfitacaw: 1 RRIR0
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 71
+
+shrinath.udupa@ gmail.com
+
+HAM: ASAT HWA FT waTo-faaA, AAAT AM,
+qaaan, waa, atafaoia tat macagt areal Sr eats
+aar Het ala atfaw wat ar fee exaAT A fear aar gt
+wat BT areafas Tea aTeTHTAT & a fear are at ag
+afaa ara  garer va rar S 1 eat ‘pratta-ageta  faar
+ar a Ha fear at THAT gs?”
+
+geal at wta-fafe % faa arg % are at asa fear
+arat 21 HaTATe a AAT TH TAHT HG-TI Zar % Baw HET
+% feaa aforaral F Wt aca sal a wraar aati fafase zt
+aa, fas att HSM ITAA & wax saat aa F fer
+HITS, fey HEMH FIT AACS Al ATA TL TATA fafa cart
+way Fie Slat av a-S-y’ AAT: ATT, AT HEA
+alc att Paw Rarer eel A’ Tar ‘a! AeA rar
+1 sedi weal Baar gar “Fee SAA’ at agi feaarar 7at
+1 gat — es ga: TRATES aquaria 3% Ha’ | Sa Hea BT TT
+HUA HIS AHL HT ASA GAT Ft ATT fafg ar dt adt aad
+
+anaes faragi aa aaa otal ar at sera &
+faatt ara-tia at dan, fated area, wre, FAT ua fara
+area Ht & 1 vega: fore sare aT gare F goat, UTA,
+acaatT AT aaa FaH-TAR ela ge At fafaa eat ait
+saad ala &, sat HTT aH TR saat araar Hal ae TAT
+gaafaa saint alat £1 wat Fears araatfeat Fr CaS,
+sara aT Baa Gras Bea Atal Hr TAT A et fafase & t
+agered afnfaal & agaary al arwaa: Wala qa
+
+‘Saad, St fe aera gt G1 qofafe, eats, AT, ATE
+
+fafa, edia, werara arte B araara arated FI HUA
+ata atoe-sattl pr fade ga AAAI HT ATT GH CATT
+fastaat 31
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 72
+
+shrinath.udupa@ gmail.com
+
+Rosterat aera ae ela
+
+areargy fa at saragifte ara aeawtea H grey great
+Slat &1 arava ar wae Fa-nfex aa sax geetaq wy
+fax frara &, fart aerrae gaat sat ¥ aany Ted F 1
+Reeag at rare alae al arat fara faa ¥ ater TEaAy AT
+Vaal gyfta at tay TATHT seMReATT gTT HA % fia
+qatarat a ata art ata frente 8 fora wa ara 2 ‘qustarit-
+WAT | BeaTAe (SALaea) H Hosfadl-gateaa F fad cata,
+EAT, AE, Hea, HAT MT Tear aris wr geist gar 81
+‘quefadt at gt arta at haal-afear wr Hal TAT S | Ts
+TUATY FANT Bae ae gers wag-wacsy eer,
+Famer atte qyrar are at ata gen arfeat 8 ead eer a
+Tae Waa g fate FMT BT aeaea gag Ta 8 | VAT
+TIS Mea TSH FITS ger ate fora ara qaranreaHsy
+
+“TaST YaeT H alet es war we aH cadre set warez
+
+TUA are vt arnt (seq a Aaa Ay ateqara
+at aiqea TIT) ears B fame yaer Fae gf ae as
+Tea Fyre A ea Hal arfeal ar aaa gare) gafac
+Se AM BT HTTAT BT HALT ATA HAT STAT FI
+asad aarareasr # feat crary far at ard
+a sant 8 nates Heh a9 Tad qqrar ga FHA
+Tyaraea H fea sag Hoeft eget 2a va: oH ae
+aT 4g Hea BY VeHHT aE cat 2 ate qat Was qesled
+waifrd & aart wre eara-aeara HT dala HTT S| At
+Sta at faeara seara 8 1 ate arfa ate faarail gre aera
+eat Gye afer Bt TT RT EGET Ta Bae gH agar
+BT TAS BAT 1 Sa Alar F Hosa at HF gfeaeq earl
+& TAA Tea Fatt ag ager H agast agaaa Aa at
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 73
+
+shrinath. udupg@ gmail.com
+
+afornt® feqa Geaaeay TATA FATT THT TTT
+BUT STAT JA: AATATT pua et ale ahs | ag THT
+at fira-a fea eT ATASA weatat ft _veferat By un eta %
+Hel TAT gs f—
+
+qatfarq agus agut andl gyFATec |
+
+facarareaqenny, facag atarfaet aferery
+
+adtareitanagasamag = fasarqata: aia,
+
+ararer eaqamiat gafeat afearat mosey
+
+areas quested at ata Sat F saat feat sae
+FATA TF TEA a AT: ausfady Bead & aafs agare a
+ue ate auefeaay aT Ararat AIT TAT 2, faa ‘wer-
+guefadt! set G1 AeA HA % afee wA F aaw TE:
+qusfadtt FY Haart H  SSTHT HABIT BUA FT
+sear agence Hes Hrefatt A air ea F Alt AEWA
+e aqrax Hed Buel at agent a aadfet BUT Fe
+yeae Har gan qarart FH aw: quefatt & are date
+HUA FI
+
+ayarta aca’ Ht wer var 3 fe—
+
+mavet — quefaet mrafamfuet set! |
+
+ataa fafa faaaq mra-araraataer Ut
+
+ana afe a zat agfa goaded: |
+
+aq waTantatfa Ara-UeAaATaA TAHA
+
+aata ‘Rarer ¥ qusfadt afar Tt TF ag eee
+aaanna, waud wariaafe go Mt fae aal sia atk
+wa sat quale vara & ag 2a HTT ar ardt & TN saat
+Bat & ara, wea ATT MTA ToT AS a TTT at aa eV’
+
+gafac gadat aaa AH TAAX aa & afeerdt
+qusfaat at aTeaT & far aaa Sa ara § 1 frat areas
+faa, aera, vearafa Ae TART wT TA BAT
+qeere fafase art & agsort BRAT FAT AHAAT ATT
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 74
+
+shrinath.ud¥pa@ gmail.com
+
+azar 2 | faa aaa aosfadt aaa cara BY StsHr Sfeag Heit
+TMAH CHT aa amar fi aes ag agiataa wat
+HT Ha BAT ge HIT HY SA TTA J TT SN WAT A THETAT
+aq aiediaar at aaa ast STAT 1 AeaTT qusterit Ey
+agaa at fafaaet aarfa car F MIT aI alae faatara
+at orftr HAT Fae Alaa HT afar weg |
+uefa at caet-ata SaaS F RQa Za F
+Hwa gu ser aa & fe—ag Bat aaa Sat, TaeT Hat BT
+Haq HWA are gat Hfeweay BT AT BTR Wer eA Tet
+2." saat gaaar & fac eda, cara, ata att wea BT TT
+at aal arare teat aaarat 81 Rosh at araat F eat
+STAAL BT Ala AAT A Ha BT faa HATS | alaH AAT
+area Y aeata araraafad fate wt tote He Fars
+ag AMA AT aTAS ST TATA BT TAT HAF BC ag
+VATA TAT SoSaTT HAT F SIT WW IST AorTa F MFT
+slat Fay SIT gt ATS 1 Hoferal Tweaar 8, TareETx F
+fausara ae Hosfaal @feqa stare AAS, CATA-ATA-
+safe, Taq, Aiearcafsen, Hesarata, afta ar cs
+weamifady arfs agate caer arett 7 \
+gusta ares eta 99 Tal Br oat eaarae H fear
+&, fran cae Tea Za THTT B—
+atte ataat «Waa: Hest aat,
+Faratafertaat fannararraqoaferat |
+aateafrafaat faraot at atfaat atfaat,
+ar & arquaferat |  FaqaAaraHataTAAT UW AR/Re
+aa cate Bl 104 & aegfed BT TS HW alae Aer
+sca BAH ara at oval ‘Hueiiga’ saa arate avi
+arat Husfaat Saal ara Fat st 2Ra Tea F Hoscitaaa’
+afoa & | BTA HT ITT: BATT, HEATER FY AT TA TAHA
+Fg args wey ar faa ot sa: yo Tal A Hoefer F
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 75
+
+shrinath.udupax gmail.com
+
+ATA, BT, TT CF aA BT TT HUA are aTal H aval T-
+ainar arnéé fe ‘ag a sin-scdal H faea-fara, He-as
+eqa qagal at aa arafes gen wamat BY TAT ST
+aat—
+
+a Seadt wnat arat afsat grath ae)
+
+meet HAC A gg at Heraforsr yi }3/k I
+
+aa waa arearaaiar FH wa ET Mavi aes Hear F
+aar ee qaita 7 frase aren stat %, se aafafe er
+HAT F-1 ,
+guefadt ari at % far arama Faye TAT
+ate saral & sft fader PRIS 1 TeaH AraATTTUA aeaaTa BY
+ara-arn afte atzaala dite at fara cafes et agacr
+wrasse set sfee F aI ArIAagAT avt al eaArAT
+dart at agar arfge 1 fara-farr aeseral Baraat gre
+faface sat ar ozeat areata afta HH AAA HA
+aT mreaarel a adar fate fear’, sat sare guste >
+ate Ht et arae.
+
+eaaraa at aga os fafase cafe) eat aeararz
+at aan. 3 wast wag & ara a alvesaat ar at
+AGAIN GAG sa Tl Fel ST CH AAT BI TACT AGT FT.
+Ws, T fHeaara araars far acer Hosfaat arava % fav,
+HAT STAT F
+
+rare-faat att azrsit at AfZAT
+
+ara arun ay faeat ate ag faeart aT AIT
+ama a ate eta afterae gate. atfaa, afan atx
+aafan fear & aafaa cara & a areas area arse
+aeat ti sat arfan waft F fafa wa aftufaa Fi caw
+MAT a TA TATA DATTA FET TAT Tea ala HY afar
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 76
+
+shrinath.udugsa@ gmail.com
+
+area azar ate gaa are ce a ot aractioah Peart
+Harafaaa % fawe sea ma Fi za afee F aaa
+STMTATH; cata, asa BR HAY H cara’ ar vt get Heras!
+feet dad & far at fafaate fear arar 2, saz at Ara,
+wa, waa aife wget gla {sa at F cara’ aravasy aay
+7a % 1
+
+Ray year BF ag’ — Va qaHT aT BT GST HL— AT
+ate Haag At eaTAT TT A ararfea si set ea sat BT
+aad t fa aaa wae H taal at frugaTs Fear ale
+safe, ea, 2aat, ata faa, Maw ate fafrata % earat
+gIet HeaaT BATA | SVATA, Hreqa, WwTaAsaya,
+AAA TAT ATT HT ARATAT ATS H ears AAA & aA
+ants at faceteor area gfe sare.’ ga egcafe. AAT
+fifeaa carat ox fafeaaa-acheal at carga a aTaAT FY
+ooh RLS ST ea aA grTaTA HF, ave aeqaral # AAA ST
+a cage gz |
+
+araaran % arafaara at. cara, faa’ sare
+‘agrnra-afear Her TAT g PHA THT. BT fafgat faar
+gat ave ad 2 1 eeltfad. ear gar ara: “feafaer’ 7g |
+atfaatl stag facta 2 fs aa afe are wae 1 Tae aT
+carer & ike rare & are AeaAT Sea BT HEAT H TAHT HT
+arauar af sret at ore 1 earaeararar-afa: ’ VeaTAeT
+Rat fafa seat agar eal. ar saa gat g, saw
+fafaatit afaad 9. sesarfe vata, weaiTyT TT
+QR. BEATA, 3. Cearfarsa vara wT aafafaa g a, gah afa-
+frat afara fafarse satel ar at geer| ganz |
+
+ware fafa—araraa: at care fafir # afaa carat
+ar acayar (aatfaar ate cass % aqarat % afeafra ST)
+& eae Bray aT faara f1 faeg aafaal F eat F Fae aysoT
+TAI a sg aT oH cae, sar J 1 eat THT TSS
+Hastat sre qaerst Hwa 1 ae cara a afse wag fare
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 77
+
+shrinath.udup&® gmail.com
+alas HATHA AIA Balqaat eqral F aaaT aya
+am way & qarteara att Aeq oe A aTeANA eae ager
+feafa cara awa fi gaarfearat F afer ered area
+gard, ag faea-fort gareil ere aeaet dtar & 1 sah
+afafar WM eaaea fase cara ae 1d s say wax} fafase
+aan at cay WealsaT-Gaa sa eaqral F sar Baar FT
+arated, agi feat ar Ht orga ate ey fera stays tdat
+WIAA BH Bee TA HAT | stat Pearce ow ara geal |
+Feara Ta aT Tg Her F A afer Gar, faave Yar, CHEF
+aiqet-qar, aitt srr dere aat arrfe aie wie quid
+aarat fat aa ZI
+
+wara-eaeq—raral at ag fativar & fee ¢. wel al
+
+safce we F Teas ate wal aalte ws HF Ta aafse Set 8 at
+RAH THT TS HETT SI TAT 1 sarecrreg—aet vara sy
+a1 eae we TTH-TIH cara Sa F fart ¢. aia, 2. Te,
+2. Aaa, ¥. DTH, y. Ufa ate g. Het Fear PAazi ag,
+TIT THT ATMS Beata sy wa fe feta ‘age ser sara’
+He. 944, 2. 74a, 3. aft, v. Wea, y. Aaa ae <.. ATTHT
+Ata H eave tad Ft Fara afsarfagegeed & &, eat Tare
+wea Zaarat B eqral AT wa-gheada aar fava-qfeada sat,
+Wa Fl aay ara, aqrat F gra, daar F angel ar
+7aTa, WU F fafase eat Beata, Tal F ararc qT gay a
+aaa rae, Aea-ITa, Tat eara, whst cara, sift cara aifs
+ave faa ara & faaar faare awh saat sant FAT
+afer i'
+
+1. gat qsq feast agra (gators) a gar & teat aeT-
+faenat at vare-dae arafaa st ‘afeavernd-faara’ & ara
+Orara %, ae Teer Baa zg fe cars A aai are ara Faferse
+wa ag fear S| aa FA A Caaea ST A way at ft sacar
+ac aei ;
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 78
+
+ae ae hyn it anal cout OTB apet
+Saw] Get cea at war 2, aurfe ag fase eazcita 3 fa—
+faa care gn frat wa BT FWRI HTS, fads agsart
+Hw sare fast fae saat & yaar walt wwe g, sat
+gare Rae care a at YX fafaat at qr aad Fi gaafse J
+g. faeaTasard BIT 2. HIeaTGsara WT carat gre Bast
+tiga ale creetian sal ware FATT Fae qre-aaat &
+st sea fer ar aaa gs) go raral F awa at ag al wer
+war & fa— ai faatiarsfe cara fafa: arafaat qora’—
+mals ares BU Ht Fear S A Avil F avec fas a ara F
+BAT FATA BT FLAALT (Qoos MUA AAT HEM BeA-Ti TAT.
+arer) HUB ATT HA S faaeT AT VAT | aT HY ariqatfe
+qt gaara & fant sag Reg FT ay Hey at ot qtea-
+BTU A AAT AVS 1 AVIMSr F TaT A ae wl fader 2 fe Ger
+ag faa ott va fear oar 3, agi aafaer dna ar arfaraa
+alte frat At sears & faeal ar aaar aa sare
+ware fafe & faw faaa—eara grt alae Ta aay
+MAL FH aca Bl Alaa HC Mar %, AY saw eseza sr
+qfarvated fara Baa sas far sa: sag HY TAT FLAT
+feat at are aaa arsitata ear ual feedl at arent HAT
+afaa &1 0a aga-e saree g fH eara-faa wergeat gx
+THT T BW TL GAT BO! VHC BS-TIH TNA Hara J
+soratet ar afase gare Aaa a saat afeat Fora
+THT at shear st afesa stat gar AreHe way AY grey
+THA HW FT gE HT azar aie ahaa F
+
+amet at afgar
+
+aaa BA Tee salad F fra ag arazas g fH ag
+maar ¥ atfars, arfaa ate arate fare 1t TU fraser
+wWanaqaifadr afar sfearett art waaay srar
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 79
+
+BU -9
+
+2B ca ofl eA ROR HG, aria onfe
+frarait at fara & Tat HIRT BAR BTA HS AAT AAA FT.
+fania 21% qard yer we B gra att saa aia feral F TAT
+& aad FHS Sa WAT Gates aa 8 Fa A gia aafaat
+aft daacarera &1 aa: wreaarel a vars fH ea tafral %
+gata & ga aca a eqarfawar ee at aT aad ge aar aeat
+at anar-fagaar & aa areft wat at aitferat at gar Aaa
+aqarat at aware) gaat gaat, Va qaral Basalt a IA
+aval at aearyda serar-agrar Wh aT aware! A Ia
+are: ass H arfta, asaT H ary, wera H arrarar, TAT AaT
+Hqedt ate afafsaar tga F wr H foarte waa E |
+qd walfa aay’ ea oaeafa R pares gard carat
+
+HF ane aarar fear & GS MATA Tara HAT. F | TST
+faaral Haar cH araeTe AT AAT TAT S| Val-Aaatat F
+aa sae Ht TIA are Gare TIH-TaH HA as efor J gare
+qarat Ha ¥, feat go soinges Age araiaag |
+ge ar sale wifaae sae H Alar gt He AlAs ToT AT
+MT HA THA H ara yaar Tet Si VaaTAa Fara: TAB
+aq-qaife faarat H eae & aged qar feat ar qa feat
+21aa ate gar H wwarat gar, ATT gar, AHN FT,
+tilan Har arta | Ba at fra, fase, ahaa, aaife sal st AaIe
+& caer fra, afafaa att srea-sats a afte & at Aea-
+qaa aaa alat &, ate fas at art Te AF TANT S aitsz
+gat sed dat 21 Vaaa aarAtea, amtarofe % fag wt
+Eaqw TAT Sila E |
+
+TA-MEA BMT AATAA
+
+fet at, Or gar agar awe Met-afea F
+areal BT TogT BLA FE AMAT TRA Ta-aaT HT frat fear
+& ga fag at acne Cane TAT GIT ATAT BT ATH AT
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 80
+
+we
+
+wear TA Be FE: HURRAH ROM at & ger.
+
+mag care fear ate sax aaa sea at aaa HT F
+ca-ared ar fare sare ara fear, ga ataeET UH ASAT ITA
+tar & fa—
+
+aad garda mafea & fae gash aren ara area
+aa coat & Ta a-gqrea ar ara orca fear a saa age
+aa & zeala als H aga vfacar age ag 1 wage bz RTT
+am ates at ot eat gt sfasar siea Hey at gear es al ag
+frasht & ara rat gars F aa TAT ste aeAAT HY, THT
+
+walt F vel fe HA ag faa get at oer AB, ga: aa gre aeat
+
+Tel THAT | gaa Sfat slat Fewza Raraw gar ar faz
+
+iz fear fax ag cet FH ra Tar ate saa ta-faar ry FT
+
+amg fear at saa at afeatgared at cert & area fata
+a#x fear, da sa at area at fears et aaa afeaet gare
+ByTaarz fart F sega arHr Sat F caeg Hr fear | aa
+
+Aeag aga afsaa gar ate ararfaa stat fast & sear
+
+a fe arrat aafaar qed aa: ang gt ala Area CAAT
+HUH FT HeaT HUTA TA ATATA J TATRA | WTATA VE HT
+
+Sar AT TR ANT Sela Ca-aieal Br faator fear ate HAE
+
+ay TSTAaT
+
+at weal ® ala 4. wade, 2. waraa aarfafe,
+3. aes afean, ¥. caara, y. tataara aife 1 aT a Teg
+qe & sraee ae &, fee eaw wet|e aa Ta seat Bla S
+ae A ara slats forasht F Laas Hl ATA TT HTH FITAT
+a at arta geal at caar at at
+
+areas fafaa xa ale cataaaea farafafaa F—
+&. HAA, 2. Veag-areHt, 3. AWAIT, ¥. HAVA,
+X. THR, & Talat, o. Aa, o. THRAY, &. TAS
+AA, Yo. TTA, Ve. fatara, ev. aAsay, 93. Aaa,
+Q¥. HAAG, YY. GAT AEH, OR. FAA, go. Taz,
+ts. WRIT, 2e. aft FATT, Yo. aaa HFIATHY,
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 81
+
+Go
+
+RR. crf! RAE Geet, Q¥. AP,
+Q¥y. BAAGTA, WE. AHWAR, Yo. TalTGact ta,
+ac. Heraent facta, xe. fana Wya, Ro. IIHT,
+32. AAA, 22. ATA, 23. VSEAT Wa, B¥. Gatad,
+ay. fararafir, 3¢. TemTeT WW, 30. giaeat <a,
+ac. Gaaza TH, 28. TINTTHT a, vo. Galea %,
+¥2. TaaaT TH ATs |
+
+sat ara F Lames HY TeETU Hl qviatT aa ET
+qaaaaa aquat ar aaa al gar cer | taal aT Car
+acuarafan sfpar er aeaea eaT: ov fast J rer g, Aa.
+Saal STAT BT Fe A gas ASAT TAT HIT TSA aeal-areray--
+araat # fafga arattaanit ta-frar er sai firs Tet BT
+aa ara a aarfase far
+
+zararat at geeaer Tears fara F sveea ger Fz,
+wal, cazare ata, AeA Hea, HIRATA, ATTA,
+aeeg-3iT, Tatsz, staat arf feed gaat rer fawax
+gatfga git at 21 VaaTAe H seat far ca-caraat ake
+atgatt & caviar aura gar 8, ag sae gl AEraTT @, Frey
+gaat salt Fae wea Zant agl Hear arfer, aaifs ag ws
+aqeara sifan & wer gar Ts Si ara aA Tera F az A
+arag gat 2, fag arfa gesa It AA BT Fa TAT Ml LST
+$) gaat araar-cafa ot Derarar ater s alt ara gt Aea-
+faata sit artfera & 1
+
+GaAHIT Bt aregierTat
+
+aaa at Aart a Afaa aaat ¥ fag Aaa’
+anin att aa ar faa aeat FH sea star 8, farg 72 aa-
+arate % fag fade a sax fafase araal H fare fafea SF
+alc sah aago at afaar< at ast at area aal altar, aft
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 82
+
+shrinath. udu a@ gmail. cor
+frat area #t T4-fafase PAA BT BAM: STAAL
+
+Bre are HE fezaT 2, weal & fare afirea 31
+
+‘eaataa’ F ga arara FH aed at arin or & ataw
+al ATaaTT BWI ET ‘ATTATaT  TaABTT- eata’” Her TAT S
+sat amadt Taat frasht & star weet F 3 TTFATa,
+aa a4, 7¢! BT HW a aM AHA AT aA Se
+afcarfira Hee areree | ee fara Hed & fa—2 afa | acaee
+PAT HE Te FAC PRAT AAT HT Alay stare, aA say
+Hata Se ater a afeetaTa EI aT ST FH TT BA
+HT STITT BTA sara HUA &, ag fedta warw-aia
+z 1 ora a Hae AHATETTT Si WASH meq ar aaa HT
+oud & CweTl BY WSHT ACTH Fer HT HET STAT TAT
+TRTTART Fl Ue Me ata HEAT 8, seq al | ATT TAHT
+URI AGT: He, wisa, seq ate efexal aT ferme & 1 sit att
+Hy Asal ar araT at F aIaT vast ya Has &
+erzmnt f are ‘Ea: ase eared faa-afaa ar get Sag
+aay st TAH HHIT—AA ZI WT Fae Faaeht nas
+SHAT HY TAT BT HTT FA aat qo Pars saatearHe set at
+AAT BW FAH THT Ae TH ara A gaa Pata
+THATS IT Hea & Tar Het F eqaaer ASlars BT ATT
+HUT Fi Ad: Tet TaAaTe aNd gar Aaa ar aha B set
+ET CHT HT MATH CATT HT I
+
+MANA TARRTT TAA
+Tae
+qata sata! gatec! afa sat!
+aiteaaaiva aaron afe Aug
+g. agi a’ set aT aed aa al & fier dec daa aah
+Hera FT ASAT F |
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 83
+
+GR
+shrinath.udupa@ gmail.com
+
+frax sara
+HAT: AAT MATT AAA AAA TAT
+saat at fasritarzat werarfa: wan
+RARAITA geal AMaTia aa fei
+feeta fared aa gat atawerer u3n
+Rata aA A FAT AHET-HeIAT: |
+TaSTIHIe afara Ts Wht aZeaa vi
+aga nequisd a—aeufafza-frneq |
+at agat fasrdtarfeat eocareat: uy
+da: atsd fare: ufsanta sraratatar: |
+fasiar oSaritditafaat fararfaa: nen
+MT RAAT Wad wy TAA |
+feartarinatat areaad srarerat: uot
+quncraarrd: = qsa-qanafaa: |
+eadaa-AgiTaeaeAa «SAA AAT USI
+Vi afa stares Sarapeatda’s Gaaareedtal APTA U
+
+aeal & far araran free
+
+FTAA at ATT ST ate favara afar qornat st
+TAA S STON Tar aay MeHAT FAT ATATA-Te BT ATCT
+HUTS aTAa-aeA FT aTHr vy gare at fafae safrat F
+qs gareafat Ts gain FX arfeaw Tara si eat A ar
+ale aeitead fat ory are ala-cand-erd-aatgsorat & sft
+afweta a FA-aeATeaT H Goat wT gt GAT TAA A ATTA
+aaa, aa aife at cafe @ soraar aca acafas aera aT
+HT Sl AS AT-M Alert SAT BY arferaHT aTATS 7e @, Freq
+SAH ATA-AT Tel Aaa Ata gs, Tal ala for At | aa:
+ATH BY THVT F ATT ATT HLA LAA TATA BAT ATA |
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 84
+
+shrinath.udugg @ gmail.com
+
+wane & aaa H aaa gee aed afte Ft
+Celt Bre are eet StS ae 8 fis Foren oe eat HF ae aE
+Bar Bhi weer at Ferrera F wre A set Fea fret gas qe
+srfena fat 1h F car ara eaeit-teal-srareated 3
+aT see HF aga a sarear & ered weit HT SACS HY
+fear 1 agate 79% & fir far qafacaraey & agar qaqa
+Wealselt S aeay Trea H Ve TVA are TAL HE
+wél-ofst Bt oat F1 gare aet & ait a Wet arfears TE
+TWIT BT AT FAA To aes sar 3 Ray are st araat
+al aiafe it gah fore araeae 8, aaife fafa TEIT TUT
+Fafa naam ae-aS ada cei s fear ag,
+was ara wakfaarwar AA a afer azar frefaa
+wfeat wt sey F acer aeraar frat F 1
+‘aga a areal ar agar ®t fis arafers cara-saufs a
+aus %, are-ca-faa arerax ara & feeqag eat
+areafaaa 8 ged cara F gqaraay are deh?
+FET e fe
+qr fafad tet aa: ang wate
+were alfivart siteet arerey gat ag set
+TAY aaa Tt enfrai wat weg Gea R
+aatgq—or ata sare at ateat B: 9. area, 3. AAT
+ate. arfaaty sat alfiral 3 faq araat iss &, qeeat
+& ferg arearg gar sara Bake 7a aor araraadl araa-atat
+& fare afas gor F058 |
+wel Ist F aaa sraqaa wt agi’, faa Tent F
+faq qarana gat, waard % fac faara ua afral & fa
+aaaiea HIaT HA wr Free ae: Wieargared yaa faa
+wae antes Heat af,
+Tet wah faq aware 8; fee ag Wt ada ena
+‘wart aifeg fe—te faeref At ra aT 22 F, a3 fare Tar
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 85
+
+shrinath.udup#® gmail.com
+
+at aa aaal 2, sat aT aT TaTT Sea FAK BAP AS
+favara wear 2 fr gaa Ga Ses a fae ora Rama fat
+alti ca afte & aaa FT SSH PAM: ATT ara Ba gla
+qattat at ag 1 cea raat Fog wa, TTT Afahas
+aut at fated at HTATHT TAG TAT BT AT FH TATAGAT
+are TET TANT BT aE STTIAT ST TTA & |
+
+arfes ataat ¥ arer-zar & fu vara alt tar-wat-
+are meat & 1 etter alk arent erat A teaThs TTL
+gaan Sea aise i aie HE ATT F TATA arate az
+dea aren d fact ase ala Z, aa: GATT CAT FUT
+qa vate feet geaa 8 os HW a NIT FAH HAT
+HU Bl saa aAwad F ST q Gama BX 1 AAG AeA UIT
+fart 74 eraat a enfra ate dtfaa az fear diate sat
+feafe at at saat ara-faritaa ate rata A BAT AAAS
+di qate ate qagta & are ea araes afe ae 31 aret
+Bara Wat saey aA HaT Si ast aTTET FaaT eat
+fausara AIH aca F aa-seaT Get sfeafaa di, agi.
+gaat fadarrane at at ate fafratnfa it qarad FT t
+qreasral a weit fataat & qemnfagen fade wea gE SAR
+fafa ® are searfed fat &1 SAT TATEATA HUA YT Wal-
+qa aacort Hwa ATT |
+
+eel get AIA TAHT HY FAA F HITT TT TAT.
+aaa 1 Mt aGaar H waar | oat Si Vet feake F
+afasata, ater aaat farar afe ae peat alfeg at Tt
+ak at feared fae ‘aaa A ate eA aii’, AT: FA: ATA
+att aifge aa sriar aeit afeq fafa % ofa argear,
+fageran arora Farretar Ba Hafaera ag ATA | Se: TT,
+aifet Ud ai at oxy AaeAHAT yl
+
+aarart, tfaaat, sara, Taree, Fate
+aife daar A aaa a agas Aas qx arat % fre
+daar al ase far Haas 1 TAT TAIRA BT TY
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 86
+
+5y
+art aca at hf EE LRG PSE AS oon are cet
+aia & ate feu are ? ag fadaa oer afer 3 1 et feafa F
+Aa WIT FLATT IX SSHT Fae HAT BL HiT HLA HT
+ZAI HEAT 2, AS A Tet
+a3 favafafa a aenfara vai carisaerrg t
+afd a: acarafa saat cartrafast Aa
+vara aeafa ‘cummed’ aq aatarieoaa nq
+Tad gaa AMT, Sat Ml IAT FA, APTITT
+farara, 3 afa od aad H aaa Aer TT FSA
+onfea waa ara & frsar waa gu Tear A fsa wt aSTaT
+2 vad fac ag ‘exarre’ ae aaa aT FeT STAT TI
+way ofan ste Seet Gra |
+aaa anaaed <agia afar 2 u
+Waea-TAA waea-fauifeat t
+tag wares Gd AZ GTA wat NR Ut
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 87
+
+shrinath.udupa@ gmail.com
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 88
+
+shrinath.udupa@ gmail.com
+
+TAT -faary
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 89
+
+shrinath.udupa@ gmail.com
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 90
+
+shrinath.udupa@ gmail.com
+
+‘ga-aftaq’ at aa aha
+
+facanatacoa
+
+AAT F aqsart HW aa wat A Gagan’ sT
+fara &1 gat 9. 2aag, 2. faqaa, 3. TIA, ¥. APSITA UF
+y. aaa at G1 Aoitad was fet Teer s far way
+Hier g1 eae san Fage—al F oft afer a gaa BAT |
+gaa sfafer aaqsara & tanfer ate Sania at aqarat
+mea Hats. gaa frqaa—eartqast a qfea F sear a
+fear qrat g1 gat faaet ar don, ave cd vat fafaa
+aearfe art ar faara f1 gaa ga aw afaata att seaft
+Slat S 1 aeake site Neat softer frat H argue a seat Vet ZI
+Hare qara—faeard ara AT ITT At MTaAT Aa, Tet
+ua Hat aris at sah sogad sist BA aT fears st Atar
+ayaa —ad ama at dra tat Tas) eas aT ITH,
+areas Stat at aera ate Hier aera Ht fet At BI
+qaat a@aa—aarfe wreal sr tateqa, aT Tar
+qeIT-Ta aa J arqed Gat s 1 facraw sfaa aazeat ar
+TATA HWA S Ha HY afaaar, Ter sl arcar, at at HIT,
+mrtifta arava wd aa, aa, alfa aife sree ga Ft
+
+aaHe Fe Tar sar s fe AT wT Hat Bl THAAT F
+fan wea, ara, ara ata & ofa At faeor waa & ferg reat
+¥ ofa age wal tad Tale areaard y ease sere fa—
+“sit facand araté, ag afafan aa wea wr aferaret gat
+& att al afafas ae weal gag Brera aT afereret gat
+2 aa: ga aca BT CaaTA BH aA TSA ST TATA HeAT
+aifeg, frae faq ort are wat  anaar seat daar
+waHaa gs aearfaH Ber aT Vr
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 91
+
+shrinath. udupad® gmail.com
+
+qa’ Haat HWA HM Ta Bal TSB, ag farses,
+& sae gaa a1 at Sha aal 8, afag “saa cea qaiar a gs
+gaat, ara-earatfe & afaa star, aeear Hear, arszal wy,
+ai, -G9a aa aa Ts are Fs saws aAal FT
+ayer Herat sat afeafad e1” gat arear wr yet
+aaifan &1 aalfe accarata wat al eaar wer sl ae Hea
+Gi sare ga waleat a ot eraig, Tea ate fafeat sea ay
+of, sah year F aa THT TAT TeEATTAT BAT sl WAT
+H fearar war faa: TAH ATTA TAT HY ATATL-ATAT TAFT TT
+HAGAT Great aT HEA ATT |
+
+SEAT CAST-A
+
+Bre Al Biss F area F Itsy Her F—k. HTa:, 2. HEAT,
+3. aa, ¥. Toa ale yy. daar ara) eae aula Baga aT
+aaa gia ate 2y ATA v aH AH BI AAT TAT HA HAT
+HAT Fst HAT ay A ara areas sr fart afer faeqa
+& format Gear are sear Gea A feat B fg agi gaat aaa
+tar arava anna g fe “aceasil } aaa saA sat a
+afafeora dara Facer ead ata area enfta wer FY afte
+& feacrrrel-faraa BT 1” eae fac rea Hare ararat
+ot area fafa aaarg &, saat cays Maa eT FH agGawy
+He aor Tale F ararca afer Hy atarfertt, aay
+Readta aft 2, dt arcat 8, ag Ararat TAT BT
+
+satae coal & few aeer F ta era ale Baa faw
+
+er SEAT TANT Ht Tats TA Iai st Gr WIT Tew
+TH E—
+
+q: ere gears ‘oadt-aftaea’ Hae ‘Gaara aca: ow fasta
+Wa ag gets “st areagrge aredt Fella dea faaris,.
+‘wearfzar Tera, aE fait FaT-2QooQv” F gfzT gs 1
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 92
+
+{
+
+ag
+7 .udupa@ gmail.com
+
+iuemetaie shrinath pa@ g
+
+Hea BT HTa-FT asta ATHY F Is HTT B fea TAT
+@, fora aaa: 9. sree, 2. weaTEg, §. aang, ¥. gitar
+wrt (ndtifa FIs) Tat y.dawera (Ui s e2 TY
+aH TH) HT TAITIaTA fawraa 1 arafics meal F wel BT
+9. afte, 2. fafa, 3. dare, ¥. waTeM gar Y. MATERA ET
+ora 1 eet Brat Faraway a area & gs aeeay’ ay
+wT SIae UF Tas faeral art areal F age: faze fear
+1 Sat area ratl F arear at afresret Bfaat ga TAT t—
+
+BIT afassrat tat az
+g. Bfsewar ra: arEaT Tait FEO
+2. feafrrer meats arear Goudy AT:0
+3. AILSA GF Arey awa aIAo
+
+¥. Tae gare aeat Te GaAs =—- Fao
+x. TaHTeT ara wea | aaa fauseq | adaaanfer
+(afagia TuUTzaT)
+
+% otal area are-areal H areaeat at faea-faer
+areal ate areas H agar A HATS BT TAT HAT!
+ararat at aa g fH—“aeear F araata a gaat ae aay
+amrat faaar fs Pearce wea & aaa 81 wa: BTU aeAT
+aftfeafaaa afe warfag ana ¥ aa-fae-feafa ar ag at
+sat farafafad er & fear aett arfge—
+
+8. TABS BY EAT To BUA H TTT are I Asay
+WEA BL oF IAT AHA H arses gear 4 wea
+UEAT HLH ALT AAT HT |
+
+R. OTe aregr F FRAT ars A Lar areal HTT |
+
+3. Taal arear nerufa F aw at aR at waigd
+WMH F TF HTT"
+
+X. ae araraa: freer 81 Fa caer wet Vea arfee fe cet aaa ait
+ea fer oe 1
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 93
+
+shrinath.udupa @ gmail.com
+sia: areat-fafa-afvaa
+
+a are et area BT Tate ‘Meare Ta STACETTT
+Va area A ways aay Fa mage F faa a
+goat Fat ag VATA TT, A. FATA-TAAT, 3. FATT
+AAaraPaTeaTAT, ¥. BVATAM HA, ¥. TEAUZH-LATT—
+(&) fafaeitr, (a) aesatfarara, 1) HTeaTA, (a) cearfe-are,
+(s) carat’, (=) qaT, (B) Aer TT aE (aT) TAIT, | Fesfacit-
+was (rarafe afga), 0. aror-faara (raratfeater arcr-
+SUA, AAT TAT AI TaATATT F ASATT TAT TAIT) TAT
+a. ate, GF, gaat, at, fas, Sat, fara, aaye, els, 7
+eel Ter Ua ease are BT Ma: CATT SV TaAAT MMA:
+aa afaeria & eararfecied fafa at agaet Hp
+aearazaa % far ara It aS |
+
+Sta: aeeat aa rat F aat aa Hal FH saat CF
+afaard aaarévé 3, aalfae ga area FH Hea F seaIT VT
+aratea aregaralt Br Wt sea Par 31 aa: ae afer, AT
+ate saa fafa at fate qf ct eafrarei + fear gt
+arrat # at axe Aecaqe daa arcarfafer % far fafase
+2 ae: fanaa arre-aena’ ora: wert at face fae
+wage aei TIT BTW F—
+
+g. At TREAT, RAT TTGT-TATT, 3. aaa-fafa,
+¥. ear Mangas TaATTaAHUT, ¥. AAT (fafaatr-
+qaa Saaareaoife aatset), |. HATE HTETATA (ATTHT-
+auf &), vo. gutfaaaren, s. fraraeara (fafaart afea
+cqraeata’ car ‘fag foi’ &), ¢. wen aa Farge fora aremr,
+Qo. SIAAIAT MITT, 22. 2 Tas fau afafaata ‘aafaa:
+qfaat av aad ofadtaeo, 92. wears aaa (aaa
+Hea EIT), 23. aatfase arakeag ATUATA (acaearefa vara,
+aiqett Tat Ie aeteate Tar ae aaferay Te MTA SM TT ATT
+
+g. vet emgeiamedta’ Ct ATTA TATT- IAT whander g!
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 94
+
+shrinath.udespa @ gmail.com
+
+PH WHAT, aceatefa wat frtinaqds aradr
+WaAs Tar staTatat freneieara wat wads
+afea), ev. waffaare ma % fac disaa aT, WY. HA-
+atfatca % fore aH UH Aad, 2¢. AeM-THET, Qo. sfixz
+yqens (‘<> faoufaeny.’ § emia cqefa aar ‘rufa aca aqieta’
+ad ‘a aq’ a aszin) asa, 95. Tas (faerad. qarcarzo
+TA Aa THEHTRAAT) Ve. TrMhs, ro. HeH-TTOTASST,
+Re. HeaTATar-eare (afee Ha a), 22. afentaarare (afte
+#A F), 23. TWagalea (aaa sao B ), WS. TeqrETeT Ay
+(Gaza Ato Hea a), Qy. ATTA (ATT f Sato &), 2&. TaTa-
+TET (Gfafaato 4), Wo. erat UF qTIqes fata (xTaT-
+feqo aur at 4 aad Fo A), ec. TIAA (aarTtfao
+I), Ve. aTafaaaateharcores featared', s—fafaa
+a—avafeare, aca, e—gearfeara, s—eara-
+Tah ALTA), Ro. TATE Aa ST ATTTATT aT AFAT-
+HU, 39. cetaredara (wenea & qaifeaea arma ® far
+fafratnfaqas car acaqar'sasta afsa faate fare ara
+Wea QIU Hey VHC Fqeqea saz UF AraTHYT) 32.
+agi aeaara (Tees a qaifearga-faara & fan fafaatafe-
+qae car aeeqar’ sasha afer agoae fata aad ae
+EI Hey HT TF aAT TOMATA Ve AeaTHHOT), 3 3. TaATEF-
+ara (aerate & qatfearaa & farc fafratrfagda aseqgr
+
+&. wel a ‘seed-frara’ aad aed aw 81 acdara aril ® eaeq
+fof 21 wt et Faas adsea ‘ee eal ate aeat F
+‘8 apdatet a: aed ae erefia aga: wet aT aaa Te |
+
+X. TIA GI— SHG SAL Faq ww ane qet aan
+
+aan faqes da saeaer a afar:
+
+2. TH Te T aA aT GET TaiKUT
+gaa. Fat Fa sMeVseT YRET: 11
+
+¥. Prato Gat aaa atta: atet aarere |
+aege Tat aa caetGer gfe: 1
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 95
+
+shrinath.udupa®& gmail.com
+
+Frater facarefa, frciaea, GATT Ta facat maa aret,
+weg Bat aad STATA Ta aearaio), 3¥. TSreaatay
+(wafer & qaife wea area ara afrT arsfaafa & faz
+fafaaimfaqaat gar-sasia afedt aca eateta, frat maa,
+quia ara, fardtaea oa artafed’ Hea F agate fate ater
+meq BHC (TAT TTT CF HratHsem), ZY. TAA aA
+(gaara at gaeqat ae fae fafadtafe afer facareta,
+fagar aradt, gota oF frtiara & ara eaafeto Ha a at
+aaxt Wad way Ut araTHun), 2%. ASTAMASIA
+(GeadarHtT TAAAMATTAS GAATTAT BT FATT > fag
+argeia’ ara & aed Bac s garafaal Tay ea wea &
+aga art Ae waist J mare as) TaARAT AGAS-
+zaefaot qradt, atfadt, azeadt ale TAT ATAYSATET
+gaa agerar maa Fat aust F AIA FT qaad
+grarararfe ez 1)° ae. qatreara (BaTygetia AFA agseT
+&), 35. wraeaeaaieer (ear ae TTF faz), 38. Wazat-
+ated (Asisfto ZIT.) Yo. Wa-gIealA, (TABATA TAT o
+gir), ¥9. aaa amg faniaa (wa, afass, AItA, ART,
+facaifaa, ataa ate atarafa) vy. awadt aq-fafaatt,
+43. 7aTa (g. silane, 2. sarefa, 2. AAT, ¥. ARATE,
+y. HATA AT & TATE ara afea) vv. Tatifaetearat
+(aarreht «= ATTIAATo «= &), YY. aaragat | aera,
+4%. MIRAAT, Vo. TAG -qaahagiaaa 47, ¥o. mat
+gaa Ws, ¥e. TWAT TT (qat1—g. aTadt atq—eqig,
+2. maa Ta TA—aMia, 3. Fa wa-Tara, fads,
+facnrefa, fara tat AAs, ¥. TAaTe-aIT, 4. fara-
+
+g. Tearaae genie (Gok: Tat a ase) |
+2. sa aed et aeafa sree ate at faqfa dg et ay TeETTT
+& af avada Prat ora g at ag arek Bat HTAWTH aE Et
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 96
+
+shrinath. riba @ gmail.com
+Saat Hea—aaia era aa aT HF ATT — Faas
+Wa TT, SHAT AeaT TT, ase qarada, Taal wera as ait<
+wafiaer), Yo. madara, arsfa, yaferor tar qaife taar
+AHEHTY, YR. TTT, faasta, afearad, PATAT TELAT A
+(va¥), fwargiea, qa: far aera, aar araare:feaa
+afar & fara arco |
+
+wea aeat-fafe aizaq
+a Bret Sl area F Hig wat at arfear sa wart
+
+g. ater, 2. Aarorgfaeqzor, 3-22. aTaatfz-
+fafa & aecarenqa araaafat ae ota: aeat ® TATA, 23.
+TTT, (aarfass qrafeaqareaay qaad eararfe afga), ev.
+WEATSTATET, VY. ceiTETeA UF aca, e¢. aaatgq-
+arrare, (feafa FAA) ev. afeniqareara (feafe aa &),
+ts. waaraet (‘aifaat gafe qaarg’o B) ze. wea
+erat (afATT Ato B) 20. asta (aT fesat &), 29. waTa-
+WET, YY. ATATT Va Tage frraa, 23. araqAT (waRa-
+aft Go) ev. garda, (feafeaacns aad da @) 2.
+mMafTaesas, Wo. AAT TAT TTTTATH, Rs. Falreara,
+RE. MATT, Jo WAAIEMTA, 32. maar fafa,
+RR. FATA—(2) AHI, (2) saTeft o, (3) HaTeo, (¥)
+wraTize (fetta), (x) AraTato, 33. WATE Taasteare,
+y. Tate arrest (Meare yet cafe B), ay. mrad
+feafa wa, (¢) Trade aoeTig, (2) fadtaqre aq-
+eater, (3) TeaTaa TT (2-3-2 WaHBAITE IAT fasta
+
+R. aaa-et HT aE Tae TTaa Tera, afacs eafa, farafaa
+
+cafe ut aria arcar fafaadl ® ara qx aude 21 ditaz
+aegfed ara & frane-araast ar ore slat & | eae gusfet Aa,
+qamad da, ara ater anfe aeft-aot Serr & TIAN ST
+aa ZI
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 97
+
+shrinath. udupa' & gmail.com
+
+antsa mad da ei (x) Ganeara ws Tawar
+
+aseie, (y) faatsarrtara Wo-MiT; ¥&. TTY ATT
+ua warded, Bo. TAA ATT asta safer, 35. Gatte tara
+
+anentz, 3¢. staat, faasia, afaares, faarafaa vt
+CaGeaA, Vo. AAT H TILT APTHT STAT faa ITT |
+
+ara acat fafa-aizaa
+
+wa ara ay aceat H faa-fora wait ar faerra Tea BAT
+&, saat afeaarers-qat farafafaa wo H seqa —
+
+g. ATEEATT, R. MTTITATT, 3-82. araaifa-
+fafr-qaad (4g SatHet Fer 7£ 8), 93. TEITAT AANA,
+gx. srorara (rararfa afat) ¢y. areaT-aaeg, 9G. Efexa-
+afenas AIA, %v. araniqarara (aeItsr F) es.
+afgniaarara (agit FH &), ¢e. arazarared, (Fat
+azeadto), Yo. AITEIRA (afiasae ), 22. Alsat (ATTE
+fesat), WY. AAAS, 22- aqady aa aagesy frTaa, Vv.
+AAA, BY. TAS HAA TIARA, RE- qalrs-AeA a
+fadtareiara, 2c. TENT AeA a qaraedaiat, Xs- aafaar
+Hea AIM AAAEASTA, VE. Usrdara, Ro. AAMAFAT at
+qe TafeaaTearata, 32. ATA TAT ATTA, RR- qata-
+TAT, BR. WTATPARATTLT, Bw. WAPATATST ud SIeaTa,
+3y. maatrafaara (fafratt, sqra-dafaa agicaA 8),
+3%. TIAAEATA, 20. Salayarrewra Talk FA &) 35. 7aal-
+aq-aPaat—(2) aaa Heawa-eetie, (2) aaa THN WS
+qa-amie, (3) aa TAAaTAA AT (3-2-8 TS A a Tas,
+fadta, faoarefa ua aaitsra), (x) TT Taras TAT qaa-
+grasa aszia, (x) faatarert AeATT-SMMT: FE. ATS aatait
+BT Tea, Vo. Ta TAA qs, ¥. HT fAaA, ¥R. Bipcigs
+ain, asta, safer, qathe Saat TACHIT TAT ITAA, ¥ 3.
+faada aa afaaraa, xv. BATeaATTA, faarafaa Tat
+Gaara, VY. AAA TATHTL ud arearafayfaar saa |
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 98
+
+shrinath.udiiga@ gmail.com
+acta wre aem-fafir-cfvag
+
+qa ar at are dar 21 aa: sa aay Fa TA ateit
+Trea HY Tar Faas | el BT aaa are ‘aerate’ aera
+‘area vt Sag aeeatHre THe ETA afeemtax ag ar
+@; farq ufaarea & seer ® FS WANT a: 8 aa ar aAT
+Rae far meafatga 8 1 erage > AJA SF AG-aeEAT
+qt wee wt fear or asad. ge area FH adeq zat ay
+at farafafad &—
+
+g. aTeeATT, 2. sftrngfercoy, 3. aeqingT
+STATA, STATA, Y. aeeqeReT, y. wes FaTa,
+& SATRATATT TT FATE, 9. TAMAR, 5. Uae TATA,
+&. AANA UF TITATA, 20. aa GeATA, 8k. Taraatzor,
+22. Tarawa, 93. Tae, ev. Tar #7 sat
+(9) fafratr rare, sore, aatela va Tolar gaara, aeaqa-
+AT, AATAT ATT TAT THAT Wreraleart; gy. aga AAT
+meee, 2&. Toate se, Ta a2 ag, FUT Tat sT,
+{ear qrast-aeetr ae faavarerz WAAT-SMT, Vo. Tar
+Taal Weta WS, to. TT fata, ee. aah as AHEHIZ,
+Ro. MAA Tar y4. frasharfe |
+
+qae are-acear-fafa-qiag
+
+Se Bre Ht Meat H mene & afar ae ar ga
+Agi Qlar 8; ails ag ara aaa ey qa at ort dea
+7 aaa ufsaea wart awh US FA MW Ht gaat
+AAT Yt gaat waufage donc farafafea fafir ar
+JAC FI—
+
+8. TRENT, 2. fate aoafs ca, 3. TeaTTT
+mafee-snaqa, x. sTOTATA, y. aTET-arcat aT Arata
+
+8. Raat Sa at ae at RITae Tea gaae RETA
+(Wet Tem) HT |
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 99
+
+shrinath.udupa@ gmail.com
+
+daea, ¢. aeratqerara (aa gfearens) wo. Tater
+sara (atarataarens), 5. ATaTEATA, &- aITST, §o- ATTA
+THT, 2. AAT FAT TAHT, 22 crafataararttc (Aesatfarates
+EVITA, WAATAZHM) 22- darava (tartar aaa aT)
+ges. mararet maa fafa, (fafaarara afed), 2aT7 wat
+aa, 9x. TATaT Wat fafa (fafae ware oF sara)
+9%. TT I '
+
+aa ara F araaTy at TATE ae ep. ara 4
+2. fafarse |
+
+(4) APA AT AHL
+
+g. Tarat Way awu-ia aie a @ Fal
+
+2. Hagar MTA BT APATE - ast sardto
+a ee da dacargqet |= TAFT
+
+ve ” ” Tay Te Asta ’ arat satito
+y, faata TaTaT aaret aaa: fraTt
+
+(2) fafarse ay THT
+
+gail ad samt facie eo Frater raat BT TAT TAT
+ATFAT-aTeaeat BT ATTA  eqta BUR ATTIRE AT frat
+rat & 1 eas ATT HY aifaat a HIT =.
+
+HT AT aa eara =| aTraTe afar afer
+
+g. eaart Aaa HEAT ATT qiiaa <fer
+2. aaart afGT waaeret <<
+3. HaTaay CAAT», aprnatfaat ats
+%. Taare FATT aferat awe »
+y. qeare fate — » Te wifast AAT
+q MANS AAT TTT fag = -ATAaIe
+. Waalt Agale. war fe et aalfito ,
+
+g. aa afaal % avai at miadt Hara AeTT eat
+
+ata art afeer HLH TT wer at faa 1 deer fafa are
+} AAA TAA |
+
+My heartly thanks to SRI HARSHA SHARMA
+
+## Page 100
+
+shrinath.udupa @ gmail.com
+
+2. sangre & Aft ‘anagrfaerad ara’
+BT SIT HUH TAT Vat araafera mrad Ht 7a Hz
+
+3. aac saree at ag We Wet UF AE Gar
+ATS TVATT TT HAT Bt
+
+¥. TATA SNe sf Faqs gene Fre aaa
+& Hat oral A afore HUH Tr HWE ;
+
+y. Tara & dearsra adaet daa mat
+aa daa at sora frdara ‘aritsa@tat walsya war
+aaa cache’ car ‘artafea au: aed we area ag aca are
+BT THE }
+
+ait aaa ware mada ar at faart 2197 &
+TATE Yo. AYA wwe, ec. 57 fraaa, ve. near aar
+Ro. frase RUT aH Brea aT aca ara HT aT Yare
+qadeaey ft afrssiie qedtaca & aad F atc 3 afasarfe
+aqfaat qaerafe anee st erat gent Fa TATA
+atfsat & atega & ea wal A Gaea ara @) Fast arfeat
+gefattarae & aa: qa gefadsated ¥ aeras
+ate St gatfae gar-nasta aragrs TaqaTaT ZI
+
+atfrare-eecat
+aut afefad Afra sorast aa areas areal ®
+fag afew aeeat wet ear ‘aifas arom Hr aT faaTa
+Gt atest anrey aifaat aaraty’ az qa-aag 1 ea
+faa araat & fra ag faded fF TEI FH AGar
+SIC Ha BY aeeqr wt) ga gare frcawA SA Faas
+aT: WeTTSEt garfafeara wrar3 1 sel areata F
+OTe Hea-T TAG HT AA F
+aaa area Faq gezna F ¢. MIAH, 2. HTTATA,
+Vasiwaeg gt al wed, y. qeatg ar eq, y. seta
+al qe ad atu, ¢. aana % fafaatiafe ai gaat
+My heartly thanks to SRI HARSHA SHARMA

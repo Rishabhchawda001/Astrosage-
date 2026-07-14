@@ -1,0 +1,23 @@
+{
+  "filename": {
+    "total_queries": 15,
+    "avg_latency_ms": 1.25,
+    "avg_results_per_query": 7.8,
+    "queries_with_results": 15,
+    "recall_rate": 100.0
+  },
+  "metadata": {
+    "total_queries": 15,
+    "avg_latency_ms": 1.31,
+    "avg_results_per_query": 7.9,
+    "queries_with_results": 15,
+    "recall_rate": 100.0
+  },
+  "bm25": {
+    "total_queries": 15,
+    "avg_latency_ms": 0.67,
+    "avg_results_per_query": 10.0,
+    "queries_with_results": 15,
+    "recall_rate": 100.0
+  }
+}

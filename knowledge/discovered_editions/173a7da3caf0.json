@@ -1,0 +1,79 @@
+{
+  "title": "Caitanya-caritamrita_Adi_Lila (1)",
+  "discovered_at": "2026-07-13T12:52:02.641757+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "acbspcaitanya-caritamrita-adi-lila-1",
+      "title": "ACBSP Caitanya Caritamrita Adi Lila 1",
+      "creator": "A.C. Bhaktivedanta Swami Prabhupada",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "acbspcaitanya-caritamrita-adi-lila-1",
+      "title": "ACBSP Caitanya Caritamrita Adi Lila 1",
+      "creator": "A.C. Bhaktivedanta Swami Prabhupada",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2288165915",
+      "title": "Characterization of the White-rot Fungus, Phanerochaete carnosa, through Proteomic Methods and Compositional Analysis of Decayed Wood FibreCharacterization of the White-rot Fungus, Phanerochaete carnosa, through Proteomic Methods and Compositional Analysis of Decayed Wood Fibre",
+      "year": 2012,
+      "is_oa": true,
+      "oa_url": "https://utoronto.scholaris.ca/bitstreams/2ced0be9-14d6-4e13-8fd9-756b2016fe67/download",
+      "authors": [
+        "Sonam Mahajan"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2092709986",
+      "title": "Between Heaven and a Hard Place: Inhabiting the Space Between an Enchanted Past and a Utopian Future",
+      "year": 2014,
+      "is_oa": true,
+      "oa_url": "http://journals.ed.ac.uk/unfamiliar/article/download/1113/1716",
+      "authors": [
+        "John Fahy"
+      ]
+    }
+  ]
+}

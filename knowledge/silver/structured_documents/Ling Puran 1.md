@@ -1,0 +1,4946 @@
+# Ling Puran 1
+
+**Document ID:** DOC-18850720A070
+**Language:** unknown (unknown)
+**Pages:** 518
+**Class:** scanned_image
+**SHA256:** `18850720a0707e7f60cad28030a88e914bdb4f25e184891989b0c46583df6f15`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+THE
+
+LINGA-PURANA
+
+Part I
+
+MOTILAL BANARSIDASS PUBLISHERS
+PRIVATE LIMITED
+DELHI
+
+## Page 2
+
+First Edition: Delhi, 1951
+Reprinted. Dethi, 1982, 1990
+
+Also available at:
+
+MOTILAL BANARSIDASS
+Bungalow Road, Jawahar Nagar, Delhi 110007
+Chowk, Varanasi 221 001
+Ashok Rajpath, Patna 800 004
+24 Race Course Road, Bangalore 560 001
+120 Royapettah High Road, Mylapore, Madras 600 004
+
+PRINTED IN IND
+
+8Y JAINENDRA PRAKASH JAIN AT SHRI JAINENDRA PRESS, A-45 NARAINA
+INDUSTRIAL AREA, PHASE I, NEW DELHs 110 028 AND PUBLISHED BY
+NARENDRA PRAKASH JAIN FOR MOTILAL BANARSIDASS PUBLISHERS
+PVT. LTD., BUNGALOW ROAD, JAWAHAR NAGAR, DELH! 110 007.
+
+## Page 3
+
+Section I
+1. Introductory
+2. Index of Content
+3. Primary Creation
+4. Inauguration of Creation
+5. Creation
+6. Glory of Siva
+7. Esoteric secret of Siva
+8. Yogic Zones
+9. Obstacles and Portents
+10. Means of Direct Perception
+ll. Sadyojata
+12. Glory of Vamadeva
+13. Glory of Tatpurusa
+14. Origin of Aghora
+15. Glory of Aghoreéa
+16. Glory of Isana
+17. Origin of Linga
+18. Visnu’s praise of Siva
+19. Enlightenment of Visnu
+20. Enlightenment of Brahma
+21. Eulogy of Siva
+22. Creation of Rudras
+23. Kalpas
+24. Incarnations of Siva
+25. Mcthod of Acamana and Ablution
+26. Procedure of Sacred Ablution
+27. Worship of Linga
+28. Mental worship of Siva
+29. Victory over Death
+30. Story of Sage Sveta
+31. Hymn to Siva
+32. Hymrto Siva
+
+CONTENTS
+
+## Page 4
+
+Statement of the sages
+Praise of the Yogin
+Deteat of Ksupa
+
+Dialogue between Ksupa and Dadhica
+
+Grant of boons to Brahma
+Creation of Brahma
+
+Specific Dharmas of Four Yugas
+Extent of four Yugas
+Nativity of Brahma
+
+Origin of Nandifvara
+Coronation of Nandifvara
+Coronation of Nandisvara
+Description of Nether worlds
+Dvipas and their lords
+Bharata sub-continent
+
+The mountain Meru
+Ilavrta sub-continent
+Abodes of Devas
+Continents
+
+Geography of the World
+Geography of the World
+Movements of Luminaries
+The Sun’s Chariot
+Description of the Moon
+Movements of the planets
+Coronation of the Sun and others
+The form of Solar rays
+
+The Solar Sphere
+
+The situation of the planets
+Situation of Dhruva
+Origin of Devas and others
+Grant of boons by Pulastya
+Thousand names of Siva
+The narrative of Yayatu
+The narrative of Yayati
+The race of Jyamagha
+Srikrsna, his birth and life
+Various Creations
+Statement of Nandikesvara
+
+130
+
+333
+
+## Page 5
+
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79,
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+
+89.
+
+90.
+91.
+92.
+93.
+
+94
+
+95.
+
+Construction of Rudra’s Chariot
+Glory of Worshipping Siva
+Description of Siva Lingas
+Monism of Siva
+
+Installation of Siva’s image
+
+The Temples of Siva
+
+Scrubbing and cleaning the shrine of Siva
+
+The mode of worship of Siva
+
+The holy Pasupata rite
+
+The holy rite for the release of Pasgus
+Hymn of purification
+
+The holy rites of Siva
+
+The holy rite of Umi-Maheévara
+
+The glory of the five-sy]llabled Mantra
+The sacrifice of meditation
+Suppression of delusion
+
+Review of Pagupata yoga
+Characteristics of good conduct
+
+The expiatory rites of the ascetics
+Portentous phenomena
+
+Glory of Srigaila
+
+The narrative of the Asura Andhaka
+Uplifting the Earth
+
+The Exploits of Nrsimha the Man-lion
+
+347
+364
+366
+369
+373
+378
+387
+389
+392
+
+397
+
+402
+41)
+
+416
+422
+44]
+
+455
+458
+466
+478
+480
++86
+502
+304
+507
+
+## Page 7
+
+CHAPTER ONE
+
+Introductory
+
+1. QObeisance to the Supreme Soul, Rudra, Visnu and
+Brahma,! the lord of Pradhana and Purusa?® and the cause of
+creation, sustenance and dissolution.
+
+2-4. The sage Narada® went to Naimisa‘ after worshipping
+Siva, in all the holy centres,’ viz. Saileéa, Sangamce$vara,
+Hiranyagarbha, Svarlina, Avimukta, Mahialaya, Raudra, Gopre-
+ksaka, the excellent Pagupata, Vighnegvara, Kedara, Gomiayu-
+keSvara, Hiranyagarbha, Candrega, [sanya, Trivistapa and
+Sukresvara.
+
+5. On seeing Narada, the residents of Naimisa were delight-
+ed in their minds. After honouring him they offered him a
+befitting seat.
+
+1. The Saiva Puranas trace the origin of Brahma, Vignu and Rudra
+to the Supreme Spirit (Maheévara) and assign the functions of creation
+existence and dissolution of the universe to each respectively. In fact,
+the three gods represent the three attributes—sattva, rajas and tamas which
+together form Pradha4ana—the original source of the universe. Thus, the
+trinitarian pattern of the Cosmos is a single whole at its base. Cf. Devi
+Bhaga. 1.8. 2-4.
+
+2. Pradhana—the primary or unevolved matter, the original source
+of the material world.
+
+Purusa—the twenty-sixth principle represented as passive and a spec-
+tator of the working of Prakrti—the creative force. He is distinguished
+from the personal soul (jiva) as the latter is the enjoyer of the fruits of the
+World-Tree. Cf. I. 28.7; II. 17. 26-27.
+
+3. Narada—the mind-born son of Brahm and a divine sage who
+acts as a messenger between gods and men.
+
+4. Naimiga or Naimiéa, mod. Nimsar. It is situated in the Sitapur
+district in the Uttara Pradeéa, on the left bank of the Gomati river. The
+place is so called because the rim (nimi) of the revolving wheel of virtue
+was shattered here and virtue had to make a permanent abode in this
+region (Vdyu 2.7). Or the place is so called because here an army of
+asuras was destroyed by the sage Gauramukha in a twinkling of eye. (Cf.
+Vardha quoted in ST.) On the authority of the Matsya Purdva, A Borooah
+(Ancient Geography of India) places it about the confluence of the Gomat! and
+the Ganges. It was sacred in the Krta age, as Puskara in the Tret4, Kuru-
+keetra in the Dvadpara, the Ganges in the Kali age.
+
+5. For detail about the holy centres, see part I. Ch. 92.
+
+## Page 8
+
+2 Lingapurdna
+
+6-17. He too being pleased accepted the seat offered by
+the excellent sages. Seating himself comfortably on the excellent
+seat and duly worshipped by the sages he discussed with them
+the holy narrative of the Lingas, the narrative consisting of
+wonderful anecdotes. At the very same time, the intelligent
+Sfita who was well-versed in the Purdnas came to Naimisga for
+offering homage to the sages. The residents of Naimisa greeted
+him duly with holy songs and adorations, (since) he was the
+disciple of Krsna Dvaipayana.® On seeing the truly trustworthy
+and scholarly Sita Romahargana’ there arose in them the desire
+to hear the Purana. They, thereafter, asked him about the
+meritorious Purana that contained the glory and greatness of
+the Lingas.
+
+The residents of Naimisa said :
+
+“O Sita, of great intellect, after adoring the sage Krsna
+Dvaipayana for the knowledge of the Puranas you have obtained
+the Puranic lore from him. Hence, O Sita, the best among the
+Pauradnikas, we desire to hear from you that Puranic lore
+illustrating the glory of the Lingas. Narada, the glorious son of
+Brahma, after completing his pilgrimage to the holy centres of
+the supreme lord Rudra and worshipping the Lingas therein, has
+arrived here. You are a devotee of lord Rudra. So also are we
+and Narada. It behoves you to recount the meritorious Purana
+containing the glory and greatness of the Lingas® in the
+presence of this sage. Since, everything (relating to Dharma)
+has been successfully achieved by you, it should all be well
+known to you.”
+
+Thus told, Sita, the most gifted among the Pauridnikas was
+delighted in his mind. He, the meritorious one, made obeisance
+
+6. Krsna Dvaipiyana Vyasa was the son of Paraiéara by Satyavati
+who later on married king Santanu. He composed the Mahabharata end
+the Puranas and arranged the Vedas into four compendiums (Vayu 1.60. 11ff)
+
+7. Romahargana or Lomahargana was one of the five disciples of
+Vyasa (Vayu. 1.60. 19; SP, Vidyesvara-Sathhitd, 4.7). He was assigned the
+duty of preserving Purdnic tradition while the other four Paila, Vaisampé-
+yana, Jaimini and Sumanta were entrusted with the task of preserving the
+Vedas. He is called Sita but he is a brahmin. He should not be confused
+with the Sita of mixed caste who was the offspring of a kqtriys father and
+brahmin woman as described in Manu (Aanusmrti X. 11.17)
+
+' 8. Repeated in verse 10 of this Chapter.
+
+## Page 9
+
+Introductory 3
+
+first to Narada, the son of Brahma and then to the ascetics of
+Naimiga and began narrating the Purana.
+
+Sita said :—
+
+18. After bowing to Siva, Brahma and Visnu, I remember
+the leading sage Vy4sa in order to recount the Lifga Purana.
+
+19-24. I bow down to the supreme lord whose body is
+Sabda-Brahman, who is the revealer of the Sabda-Brahman,
+whose limbs are the letters whose characteristics are unmanifest,
+but who menifests himself in diverse ways, who is constituted
+by the letters a, u, m, who is gross as well as subtle, who is
+greater than the greatest, who has the form of Om, whose face is
+the Rgveda, tongue the Samaveda, throat the Yajurveda, and
+heart the Atharvaveda, who is the lord beyond Pradhana
+and Purusa, who is devoid of birth and death and who is
+called Kalarudra when he assumes tamoguna and Brahma when
+he assumes rajoguna and the all-pervading Visnu when he
+assumes sattvaguna, who is Mahe:vara when devoid of all the
+gunas®, who manifests first in seven’ forms by enveloping the
+body of Pradhana, then in sixteen! forms, and finally in
+twentysix!? forms, who is the source of origin of Brahma, and
+who assumes the form of the Linga merely for the sport of
+creation, sustenance and annihilation (of the universe). After
+bowing down faithfully to that supreme lord, I begin recounting
+the auspicious narrative of the Lingapurana.
+
+g. Repeated in I.6.30.
+
+10, saptadh4a—a group of seven tattvas consisting of intellect (buddhi),
+ego (ahamkdra) and five subtle elements (tanmAtras).
+
+11. godasadh’—five senses of action (Karmendriyas), five senses of
+knowledge (jfidnendriyas), five gross elements (mahabhitas) and mind.
+
+12. To the twentythree categories (supra Nos. 10, 11) are added
+Pradhana (twentyfourth), Jiva (twentyfifth) and Puruga (twentysixth)-
+To this group of twentysix is added another (the twentyseventh) namely
+the supreme lord, (maheévara).
+
+## Page 10
+
+4 Lingapurdéna
+CHAPTER TWO
+
+Index of Content
+
+Sita said :—
+
+1-3. Formerly the excellent Lingapurana was composed by
+Brahma, the great soul. It was based on the events that
+happened in the Igana_kalpa, and originally it contained a
+crore of verses among a hundred crore that comprised all the
+Puranas. The Puranas were abridged into four hundred thou-
+sand verses by Vyasas in the different manvantaras. Later in
+the beginning of Dvapara, they were classified into eighteen
+parts, beginning with Brahmanda among which this Linga-
+purana ranks as the eleventh. Thus I have heard from VyAsa.
+
+4. O brahmins, the number of verses in this Purana is
+eleven thousand. I shall succinctly narrate it now, as it has not
+been heard by me in detail.
+
+5. When the Puranas were abridged into four hundred
+thousand verses by Krsna Dvaipayana, the Linga was abridged
+in eleven thousand verses.
+
+6. At the outset the creation of Pradhana is mentioned,
+then the primary and secondary creation and then the origin
+of the cosmic egg, enveloped by eight sheaths.*®
+
+7. Then, the evolution of Brahma through the cosmic egg,
+by the force of rajoguna, the evolution of Visnu and Rudra,
+and Visnu’s lying down in the waters.
+
+8. The creation of the Prajipatis; the uplifting of the earth,
+the duration of Brahmi’s day and night, the reckoning of his
+whole span of life.
+
+9-10. The savana of Brahma; his yuga and kalpa; the
+divine and human years; the years of sages, Dhruva and
+Pitrs; the nativity of Pitrs; the duties of the people in their
+respective stages of life; the decrease of population in the
+Universe; the manifestation of the creative energy.
+
+11. The male and female nature of energy; the creation of
+Brahm; the birth of twins; the eight names of Rudra in the
+course of weeping.
+
+1g. But in I. 3.33 the Purina refers to the seven sheaths of the Cosmic
+
+## Page 11
+
+Index of Content 5
+
+12. Thedispute between Brahma and Vignu ; the mani-
+festation of the Linga once again; the penance of Silada; the
+vision of Indra, the slayer of Vrtra.
+
+13-14. His request for a son not born through a womb ; the
+impossibility of getting such a son, the dialogue between
+Silada and Indra; the birth of Brahma from a lotus; the
+manifestation of Bhava in the Kali age; the preceptor and the
+disciple ; the incarnations of Vyasa ; the kalpas and the
+manvantaras.
+
+15-18. The nature ofthe kalpas and their different names ;
+Vignu in the form of Varaha in the Varaha kalpa—meghavahana;
+the grandeur and majesty of Rudra ; the manifestation once
+again of Linga in the midst of sages ; the propitiation of Linga;
+the injunctions regarding ablution ; the nature of purity ; the
+glory of Varanasi and of the holy centres ; the shrines of Rudra
+and Visnu on the earth as well as in the firmament.
+
+19. Tha fall of Daksa on to the earth in the Svarocisa
+manvantara; the curse on Daksa and his release from the curse.
+
+20. The description of Kailasa ; the yoga pertaining to
+Pasupati (Siva) ; the extent of the four yugas ; the detail of the
+duties assigned to each yuga.
+
+21-22. The magnitude ofthe interval between the yugas ;
+the activities of Rudra during these intervals ; his residence in
+the cremation ground ; the origin of the digit of the moon on
+his forehead ; his marriage ; birth of his sons ; the fear of the
+people in anticipation of destruction due to excessive indulgence
+in sexual intercourse.
+
+23-24. The curse pronounced by Sati on the Devas and on
+Visnu who was, later on, absolved by Rudra ; Rudra’s dis-
+charge of semen; the birth of Karttikeya; the merit of perfor-
+ming ablution to the Lingas during the eclipse ; the dispute
+betwecn Ksupa and Dadhica as also between Dadhica and
+Visnu.
+
+25-27. The incarnation of the trident-bearing lord Nandi ;
+the narrative of the chaste lady ; the discussion about the
+individual soul and avidya or ignorance ; the nature of worldly
+activities and of perfect knowledge ; the characteristics of those
+entitled to liberation ; the birth of Vasistha’s sons; the descrip-
+tion of the families of the great sages in the spiritual lineage of
+
+## Page 12
+
+6 Liigapurdna
+
+Vasigtha ; the devouring of Sakti by a demon-king duc to the
+wickedness of Visvamitra ; the capture of the divine cow
+Surabhi.
+
+28-29. Vasistha’s grief over the loss of his son ; lamenta-
+tions of Arundhati; the course of their daughter-in-law ; the
+words of the child in the womb ; the birth of Paragara, Vyasa
+and Suka ; the destruction of the Rakgasas by Sakti’s son Para-
+fara.
+
+30-31. The truth about the deities ; the perfect knowledge
+as the grace of the lord ; the composition of the Puranas at the
+behest of the preceptor Pulastya ; the magnitude of the worlds ;
+the movement of the planets and luminaries ; rules of procedure
+about Sraddha for living ones ; those who deserve Sraddhas ;
+the description of Sraddha.
+
+32. Rules of procedure about Nandisraddha ; the method of
+studying the Vedas ; the efficacy of the five yajfias and the
+rules of their performance.
+
+33. Theconduct and behaviour of women during their
+menstrual period ; the birth of excellent sons due to that conduct;
+the rules about sexual intercourse in regard to persons of diffe-
+rent castes in due order.
+
+34. The injunctions regarding what should and what
+should not be eaten in respect of the people of all castes ; the
+expiatory rites for the general as well as for the particular sins
+severally and in detail.
+
+35. The form and features of the hells ; crime and punish-
+ment; signs of men destined to be heavenly or hellish in later
+births.
+
+36. Kinds of charitable gifts ; the city of the King of the
+Dead ; ritualistic detail of the five-syllabled mantra ; the
+greatness of Rudra.
+
+37. The fight between Vrtra and Indra ; the suppression
+of Vrtra in his universal form; the dialogue between Sveta and
+Mrtyu; the destruction of Kala on behalf of Sveta.
+
+38-41. The arrival of Siva in the forest of cider trees; the
+narrative of Sudarfana; the characteristics of Krama-sannyasa;
+the statement of Brahma that Rudra could be propitiated by
+devotion and faith; the incident of Brahm’ scized by Madhu
+and Kaitabha; then in order to impart the highest perfect
+
+## Page 13
+
+Index of Content 7
+
+knowledge to Brahmi, the story of Visnu assuming the form
+of a fish; in all conditions the incarnation of Vignu just as a
+matter of sport; the birth of Srikrsna’s son Pradyumna by the
+grace of Rudra; Visnu as a tortoise for holding the churning
+rod.
+42. The birth of Samkarsana; the rebirth of Candika; the
+birth of Krsna among the Yadus.
+
+43. The wickedness of Kumsa, the uncle of Krsna; Krsna’s
+sporting activity during infancy; his worship of Siva for
+obtaining sons.
+
+44. The origin of water from the skull of Siva in the form
+of Visnu; Visnu’s propitiation of Rudra for lessening the
+burden of the earth.
+
+45. The milking of the earth, at the outset, by Prthu the
+son of Vena; the curse of Bhrgu incurred by Visnu in the
+course of conflict between Devas and Asuras.
+
+46-47. In his incarnation as Krsna his residence in
+Dvaraka; the curse of Durvasas as conducive to his welfare;
+the curse on Yadavas for their destruction; the growth of reeds
+and javelins.
+
+48. The annihilation of the Yadavas in mutual quarrel by
+using reeds and Krsna annihilating his tribe sportively through
+that very reed.
+
+49. Krgna’s vuluntary departure from this world; the
+perfect knowledge of Brahman and salvation in detail.
+
+50-51. The subjugation of Andhaka, Agni and Daksa who
+had assumed the forms of Indra, elephant and the deer; the
+description of the primordial Brahman; subjugation of Kama
+by Siva, and of the enemies of devas, of the daitya Halahala in
+particular; the destruction of Jalandhara and the origin of
+Sudariana discus.
+
+52-53. The acquisition of that excellent weapon by Visnu;
+Rudra’s activities; thousands of his adventures; the activities
+and the powers of Visnu, Brahma and Indra; the description
+of the world of Siva.
+
+54-56. Rudra’s world on the earth; HatakeSvara in the
+nether worlds; the nature of austerities; the power of brahmins;
+Linga’s excellence over all other images of deitics—all these are
+
+## Page 14
+
+8 Lingapuréna
+
+recorded in their proper order and in detail in this Purana.
+He who after knowing the gist recites it, is liberated from sins.
+He goes to the world of Brahmi.
+
+CHAPTER THREE
+Primary Creation
+
+Sita said:
+
+1. The non-characterized is the root uf the characterized.
+The manifest Prakrti is the characterized, while Siva is the
+non-characterized, but the characterized (Prakrti) is said to be
+related to Siva.
+
+2-4. They call the characterized by thc name Pradhana or
+Prakrti. But the non-characterizecl, devoid of smell, colour,
+taste, sound, touch and attributes, is Siva who is stable and
+everlasting. [On the contrary] the characterized Pradhana
+or Prakrti is endowed with smell, colour, taste, sound and
+touch; it is the source of origin of the universe; it is elemental
+both in subtle and gross forms, O excellent brahmins; it is the
+physical body of the worlds; it has originated from the non-
+characterized, of its own accord.
+
+5. [Formerly] it split itself into seven as well as eight and
+then into eleven. The non-characterized, thus, becomes chara-
+cterized through maya.
+
+14. ST. adds another interpretation. ‘The order of contents (as
+stated in this chapter is not observed here (i.e. in this purana) nor are the
+
+contents described in detail’, 431 TY JtTHaATATA aTTeaF TATATT
+THT HAT ATT: STIL aT argyere a faertor ws eereqay ster: |
+15. The twentysi principles emanate from the Saptavirhéaka tattva:
+a: aefaerey Prem: TeTTTAT: THY: (1. 71.51). In this formulation, Pra-
+dhina(the twentyfourth), the source of twentythree principles is insentient;
+Jiva (the twentyfifth) is the knower of Pradhina; Puruga (the twentysixth)
+has the perception of the two lower categorics— Jiva and Pradhina, but he
+cannot bestow grace (Qefataaiteacy 1.17.109). Maheivara (the
+
+## Page 15
+
+Primary Creation 9
+
+6-9. From them took shape, the trio of the important deities.
+From one of the three the universe arose; it is protected by
+another; by one (i.e. the third) it is destroyed.?® In this manner,
+the universe is pervaded by Siva. Thus the three mirties have
+been classified as alinga, linga and lingdlinga. Brahman itself is
+the universe. The non-characterized lord is the source of the seed.
+He, the Supreme lord, is both the seed and the womb as well as
+the seedless. Being seedless he becomes seed, i.e. the cause of
+the universe. The term Atman applies to the seed (bija),
+womb (yoni) and the unmanifest matter {pradhana).
+
+10. He who is Rudra, Brahma and Visnu is called Siva
+in the Puranas by virtue of his eternally and intrinsically enligh-
+tened and pure nature.
+
+11. Prakrti, when observed by Siva became Saivi. O
+brahmins, formerly it was unmanifest, but being intrinsically
+endowed with the attributes it became manifest at the begin-
+ning of the creation.
+
+12. The entire universe beginning with the unmanifest and
+ending with the gross elements originated from it. That Saivi
+Prakrti, the creator of the universe is known as aja (the un-
+born).
+
+13-14. ‘The individual soul is devotedly attached to that
+aja (the unborn Prakrti) of red, white and black colour—the
+aja that is single, though the mother of many. He resorts to her
+in her manifest form, and having enjoyed eschews her when he
+becomes unattached. This Prakrti is the creator of worlds when
+she is presided over by Purusa.
+
+15. At the time of the creation, mahat was evolved, at the
+behest of Purusa, out of Pradhana consisting of the three gunas
+and presided over by Puruga.
+
+16. Being urged by the desire to create, the mahat when
+
+twenty-seventh) alone is capable of extending gracc to his devotees. In this
+context, Pradhana or Praksti is apratibuddha, Jiva is buddhiman, Purusa
+is buddha and Mahefévara is prabuddha,
+
+16. Brahm4, Vigsnu and Rudra—the personified cntities of the three
+gunas—rajas, sattva and tamas that constitute, Pradhina or Prakgti, the
+material cause of the universe—are responsible for the creation, sustenance
+and destruction of the universe. The three emanate from the transcendent
+reality Maheivara. (Cf. Devi Badge. 1.8.4; Brahmanda 1.4.6; Visnu 1.2.66)
+For detail see V.S. Agrawal : ALP—A Study, pp. 37-41.
+
+## Page 16
+
+10 Lingapurdga
+
+presided over by Purusga enters the unchanging, unmanifest Pra-
+dhana and effects the creation of the manifest.
+
+17-18. Out of mahat evolved (1) sattvika aharmkara chara-
+cterized by conception and determination, (also) (2) rajasa
+ahamkara consisting of three gunas but with rajas as pro-
+minent, (also) (3) tamasa aharhkara with tamas as prominent.
+The subtle elements evolved out of mahat and became the
+nucleus for all creation.
+
+19. The subtle element-sound evolved out of ego and from
+it the unchanging ether. Thereafter the ego, the cause of sound
+enveloped the ether.
+
+20. O brahmins, the creation of the gross elements from
+the subtle elements is expounded in this manner. O great sages,
+the subtle element ‘touch’ evolved from the ether and the air
+evolved from that.
+
+21. From the air evolved the subtle element colour and
+therefrom agni (fire), whence evolved the subtle element taste,
+whence the waters. From these evolved the subtle element
+smell and from it the earth.
+
+22-23. Oexcellent brahmins, the ether enveloped the sub-
+tle element touch. The air with the activity of blowing enve-
+loped the subtle element colour. The fire enveloped the subtle
+element taste. The waters having the nature of taste enveloped
+the subtle element smell.
+
+24-25. Hence the earth has five qualities; the waters have
+four; the fire has three; the air has two, the ether has one qua-
+lity. Thus the creation of the elements originated from the
+subtle elements through their mutual interaction.
+
+26. The Vaikarika as well as Sattvika creation takes place
+simultaneously, yet, here, it is explained as evolved gradually in
+the manner described above.
+
+27. For the purpose of perceiving sound and the rest there
+are five organs of sense and five organs of action. Mind (which
+is also a sense) belongs to both categories. (These eleven
+senses evolve out of ego.)
+
+28. The constituents of creation beginning with mahat
+(intellect) and ending with Vigesa!? (earth) generate the cosmic
+re 17. The group of seven beginning with with mahat t (intellect), and endi
+
+“with viéeqa (bbitas) constitutes the Cosmic Egg which is Sp material,
+‘it derives its potency of consciousness (cetanat&i) from
+
+## Page 17
+
+Primary Creation ll
+
+egg, whence Brahma arose like a water-bubble.
+
+29. He alone is Rudra and Vignu pervading the universe.
+These worlds are within that cosmic egg and this universe is
+within it.
+
+30-33. The cosmic egg is externally enveloped by water
+ten times its magnitude. The water is externally enveloped by
+fire ten times its mass. The fire is externally enveloped by air
+ten times its mass. The air is externally enveloped by the ether
+ten times its magnitude. The ether is enveloped by ego the
+cause of sound. The ego is enveloped by intellect and intel-
+lect is enveloped by Pradhana. They say that the coverings of
+the cosmic egg are seven!*. There within is Brahma seated on
+the lotus. There are crores and crores of such eggs in exis-
+tence.
+
+34, In ali these cosmic eggs there are four-faced Brahmas,
+Vignus and Rudras. They are all created by Pradhana after
+coming into contact with Siva.
+
+35. The dissolution is also mutual but it begins from the
+end and goes up to the beginning. The great lord is the sole
+agent for this creation, sustenance and dissolution.
+
+36. In creation he is endowed with rajas, in sustenance with
+sattva and with tamas in dissolution. He alone possesses this
+subtle nature in due order.
+
+37-39. He is the first creator of all beings, their protector
+and annihilator. So lord Maheévara is the overlord of Brahma.
+He is also known as Siva, Sadasiva, Bhava, Visnu and Brahma
+since he is aJl. All these worlds are in this egg, so is the creator
+Brahma. Thus the elemental creation of Prakrti has been des-
+cribed by me. It is presided over by Puruga; O brahmins, this
+auspicious creation with intellect (mahat) at top is primordial.
+
+18, The Seven sheaths of the Cosmic Egg consist of intellect (mahat),
+ego (aharhkira), and five subtle elements (tanmitras). (Vayu. 4.87. Kiérma
+1.4.46). “<
+
+## Page 18
+
+12 Lingapurdna
+CHAPTER FOUR
+
+Inauguration of Creation
+
+Sitta said :
+
+1-2. The period of the duration of the Prakrita creation is
+said to be a day of Brahma. There isa similar period constitut-
+ing the night. The lord effects creation during day time and
+dissolution during the night. He has neither a day nor a night
+(as we understand the terms). The time-duration by day and
+night is used in a secondary sense.
+
+3-6. During the (so-called) day all the Vikrtis—the Vis-
+vedevas, the Prajapatis and the sages stay by. During the night
+all of them are dissolved. They are produced (again) at the end
+of the night. A day of His constitutes our kalpa, His night too
+similarly another kalpa. There are fourteen Manus by the time
+a thousand sets of four yugas come to a close. O brahmins, the
+Krta yuga consists of four thousand years. Four hundred, three
+hundred, two hundred and hundred years respectively constitute
+the period of transition both at the beginning and end of a yuga."®
+
+7-9. The améfaka, therefore, is one-sixth of the duration of
+each yuga. The period of duration of Treta, Dvapara and Kali
+is respectively three thousand, two thousand and one thousand
+years without their amsaka parts. That of Krta has been men-
+tioned above. O men of holy rites, fifteen winks in the eyes of a
+man of normal health in normal condition constitutc a kastha.
+Thirty such kasthas make one kala. Thirty such kalas make
+one muhirta.
+
+10-12, The night contains fifteen such muhirtas and the day
+another fifteen muhirtas. A (lunar) month according to human
+
+19. Each yuga is prefixed and suffixed by a sandhyé which specifies
+the advent and culmination of a yuga. The two sandhyais of a yuga are of
+equal length though their period of duration differs from yuga to yuga.
+Thus Krtayuga lasts for four thousand divine years and its sandhyas for
+eight hundred such years; Tret4 lasts for three thousand divine years and
+its sandhy4s for six hundred such years; Dvapara lasts for two thousand and
+its sandhy4s for four hundred; Kali lasts for one thousand and its sandhyas
+for two hundred such years. The total pcriod of duration for the four yugas
+is ten thousand divine years and that for their sandhyas is two thousand
+divine years.
+
+## Page 19
+
+Inauguration of Creation 13
+
+reckoning constitutes the night and day of the pitrs. Divided
+further, the dark half constitutes the day and the bright half
+constitutes their night when they go to sleep. Thirty human
+months make one month of the Pitrs. The period of three hun-
+dred and sixty months calculated according to human reckon-
+ing makes one year of the Pitrs.
+
+13. A hundred years calculated according to human
+reckoning make three years of the Pitrs.
+
+14. Twelve months according to human calculation make
+one year (of the mortals) ; twelve months of the manes (accor-
+ding to their own calculation) constitute their one year.
+
+15. According to Lingapurana one human year constitutes
+the period of day and night for the manes. Their days, nights
+and years and their further divisions are as follows:
+
+16. The period of Uttarayana (northern transit of the
+sun) is the day for the manes; the period of Daksinayana (south-
+ern transit ofthe sun) constitutes their night. These days and
+nights are calculated in accordance with the reckoning of
+the devas.
+
+17-23. Thirty human years constitute a divine month.
+O brahmins,a hundred human years constitute three divine
+months and ten days. Three hundred and sixty human years
+constitute a divine year. Three thousand and thirty human
+years constitute a year of the seven sages. Nine thousand and
+ninety years, according to human calculation make a year of
+Dhruva. Thirty six thousand human years make a century of
+divine years. The people who know arithmetic say that the
+three hundred and sixty thousand human years constitute the
+period of a thousand divine years.
+
+24-35. The duration of a yuga is calculated according
+to the divine reckoning. The first yuga is named Krta;
+thereafter comes Tretaé and then Dvapara and Kali. O men
+of holy rites, these are the (names of the four) yugas. Hence-
+forth the number of years of each yuga which have been
+mentioned earlier in divine reckoning are now being counted
+according to human reckoning. The Kyta consists of one
+million four hundred and forty thousand human years; Treta
+of one million eight hundred thousand years; Dvapara of seven
+hundred twenty. thousand years and Kali of three hundred and
+
+## Page 20
+
+14 Lingapurdna
+
+sixty thousand human years. Thus the duration of the four
+yugas, without the period of junction and transition totals to
+three million six hundred thousand human years. If Sandhya
+periods are included, the set of four ages will consist of four
+million three hundred and twenty thousand years. A little
+over seventy one sets of four yugas—Krta, Treta, Dvapara and
+Kali—constitute a manvantara.™ The number of human years
+in a manvantara are thirty crures six million and seven
+hundred and twenty thousand, O excellent brahmins. The
+period of a manvantara, according to this Purana, is not more
+than this.
+
+36. The number of years in one set of four yugas have
+been mentioned carlier. O excellent brahmins, a thousand such
+sets of four yugas constitute a kalpa (of Brahma).
+
+37. During Brahma’s night the creatures perish; at the
+end of the night they are created again. There are twenty-eight
+crores of gods who move in aerial chariots.
+
+38. During the manvantaras and the intermediary periods
+their number increased to three hundred and ninety two
+crores.
+
+39-40. O brahmins, during the last kalpa their number
+came to seventy-cight thousand. In all kalpas this is the position
+in brief. When the dissolution is imminent people abandon the
+persons surviving the last day of the kalpa and go to Janaloka
+from the world Mahar.
+
+41-42. The number of years in half a kalpa by divine
+calculation is two thousand eight hundred and sixty two crores
+and seven millions. The kalpa too shall be similarly calculated.
+A thousand such kalpas make a year of Brahm.
+
+43. Eight thousand years of Brahma make his yuga. A
+thousand yugas of Brahma constitute a savana.
+
+44. Nine thousand such savanas constitute a day of
+Rudra.
+
+45-49. O great sages, the following are the names of some
+kalpas of Brahmi, viz—bhavodbhava, tapas, bhavya, rambha,
+
+ao. A manvantara comprises about seventyone mahiyugas which
+are equal to 12,000 years of the gods. The Puranas mention fourteen
+manvantaras. These derive their names from fourteen successive mythical
+progenitors and sovereigns of the earth.
+
+## Page 21
+
+Inauguration of Creation 15
+
+kratu, rtu, vahni, havyavaha, sdvitra, fuddha, maijjaliya,
+madhyama, vairaja, nisida, mukhya, meghav4hana, paficama,
+citraka, Akrti, jfiana, manas, sudarga, brmha, évetalohita,
+rakta, pitavasas, asita, and sarvariipaka. O excellent sages,
+thousands and crores of such kalpas have already elapsed.
+
+50. Atthe dissolution of a kalpa, whatever remains of
+creation produced during day and night is destroyed.
+
+51-53. The destruction is subject to the behest of lord Siva.
+When the creation is annihilated and the Pradhana is stationed
+in itself, both Pradhana and Purusa come to a standstill or
+remain inactive. O brahmins, it is only when the three gunas
+are not in equilibrium that creation takes place. When they
+are in equilibrium the creation is dissolved. The great lord is
+the cause of both. The creation is effected by him sportively
+in this manner.
+
+54-56. Such creations, effected through the agency of
+Pradhana are innumerable. The kalpas together with their
+Brahmas and Visnus are innumerable. But lord Siva is only
+one. The activities of Prakrti emerging from Pradhana are due
+to His sport. The activities as characterized by the gunas are
+threefold and destructible but the (uncreated) Atman has
+neither a beginning nor a middle nor an end.*!
+
+57. The life-time of Brahma consists of two halves called
+parardhas.** What is created during His day time is destroyed
+during His night.
+
+58-61. The worlds bhiir, bhuvah, svar and mahar perish;
+only the worlds above remain intact. At night, when the mobile
+and immobile perish and a vast sheet of water® spreads like a
+single ocean, Brahma goes to sleep in the water. He is there-
+
+a1. Creation is the result of stimulation (kgobha) of the gunas.
+When there is no stimulation, creation does not exist; consequently, the time-
+units—kalpas, manvantaras, yugas, sarnvatsaras and other relatively bigger
+and smaller units disappear as a matter of course.
+
+22. A kalpa (a period of four thousand cycles of four yugas) consti-
+tutes a day of Brahma. It is divided into two halves : 2 parirdhas. A half
+kalpa covers a cycle of two thousand caturyugas. At the end of a full kalpa
+a great fire consumes the world.
+
+23. Ekdrnava symbolises the state of the universe during the period
+of dissolution when the divided units are drawn together forming a single
+watery mass. For.detail see MP—A Study. PP. 9-10.
+
+## Page 22
+
+16 Lingapuréna
+
+fore known as Narayana. At the end of the night he wakes up
+and beholds a void what used to be the world of mobile and
+immobile beings. Then he, the most excellent among the
+knowers of Brahman decides to create. He assumes the form of
+a boar®‘ and lifts the earth submerged in the waters. He lifts it
+up and places it as before, together with all the rivers, rivulets
+and oceans.
+
+62-63. With great effort he makes the earth even. He
+gathers together all the mountains burned by fire on the earth.
+He establishes the four worlds, bhuh, etc. as before. He, the
+lord creator, then decides to create everything afresh.
+
+CHAPTER FIVE
+Creation
+
+Sita said :
+
+1. Obrahmins, while Brahma of unknown origin pondered
+on creation he became manifested as delusion enveloped in
+darkness.
+
+2. Ignorance originated from the self-born Brahma in
+five® forms:—-darkness (tamas), infatuation (moha), the great
+infatuation (mahamoha), gloominess (tamisra), and blinding
+gloominess (andhatamisra ).
+
+3-4, This creation of Brahma which 1s enveloped by igno-
+rance is declared to be primary. From this creation emerged the
+immovables (plants, mountains etc. ). He considered this creation
+incapable of causation. He thought of creating yet. While he
+thus meditated, his neck turned horizontally.
+
+5-8. At first the horizontal creation named _ tiryaksrotas
+emerged from him; the next was urdhvasrotas chiefly characte-
+
+24. The Purdpas often mention Varéha (Boar incarnation of Vignu)
+lifting the earth from the depth of the Ekarnava ocean.
+
+a5. Avidya, also designated as viparyaya is fivefold. Cf. IT.9.30.
+Its fiwe kinds are defined in the Devi Bhdga, These are subdivided into sixty-
+‘two kinds. Cf. II. 9. 34-35.
+
+## Page 23
+
+Creation 17
+
+rized by goodness. Then came arvaksrotas, after that anugraha,
+and lastly bhitédi. The first creation of Brahma is known mahat;
+the second of tanmatras as bhautika; the third of the sense-
+organs as aindriya; the fourth of the immovables as mukhya;
+the fifth of animals as tiryagyoni; the sixth of gods as daivika;
+the seventh of mankind as mdnuga; the eighth (of emotions)
+as anugraha; the ninthof Kumaras as Kaumarya.** These are
+Prakrta and Vaikrta creations.
+
+9-11. Formerly, O excellent sages, Brahma created Sananda,
+Sanaka and Sanatana. By refraining from worldly activities
+they attained the Supreme Being. By his yogic accomplishment
+he created Marici, Bhrgu, Angiras, Pulastya, Pulaha, Kratu,
+Daksa, Atri and Vasistha. These nine sons of Brahma were the
+knowers of Brahman and excellent brahmins. They are known
+as expounders of brahman and were equal to Brahma himself.
+
+12. [He had three more sons] Sankalpa, Dharma and
+Adharma. Adharma is always present near Dharma. Thus there
+were twelve progenies of Brahma of unknown origin.
+
+13-14. The eternal lord had at the outset created Rbhu
+and Sanatkumara. These two eldest sons became the divine
+expounders of Brahman. Being free from sexual desire they
+remained bachelors and rose equal in wisdom to Brahma. They
+were omniscient and possessed of all merits. I shall now state
+succinctly the names of the wives of the brahmanical sages and
+the birth of their progenies, O excellent sages.
+
+15-17. The lord created Viradja (Manu) and Vairajii
+Sataripa who was not born of womb. She bore two sons and
+two daughters to Manu. The elder was the intelligent Priyavrata
+and the younger Uttanapada. The elder daughter was Akiti
+and the younger was Prasiti.
+
+18-26. Prajapati Ruci married Akiti and lord Daksa mar-
+ried Prasiti the mother of the worlds and a great Yogini. Akiti
+gave birth toa son Yajfia and a daughter Daksinaé. Dakgina
+gave birth to twelve illustrious sons. Prasiiti of great penance
+bore twentyfour daughters to Daksa viz.,—Sraddha (faith),
+
+26. Ninefold creation : The Puranic cosmology divides the cosmic
+creation into nine classes. For detail, see SP. (English trans. p. 248 note
+214). -
+
+## Page 24
+
+18 Lingapurdna
+
+Lakgmi (good fortune), Dhpti, Pusti, Tusti, Medha, Kriya,
+Buddhi (constancy), Lajja (Modesty), Vapus (beauty), Santi
+(tranquillity), Siddhi (perfection), Kirti (fame), Khyati (cele-
+brity), Sati (truth), Sambhiti (fitness), Smrti (memory),
+Priti (affection), Kgama (patience), Sannati (humility),
+Anasiya (sincerity), Orja (strength), Svah& (oblation to the
+gods), Arani and the blessed Svadha (oblation to the pitrs).
+He gave them duly in marriage. The first thirteen daughters
+Sraddha to Kirti married the patriarch Dharma. The wise Bhrgu
+married Khyati; Bhargava (Sukra) married Arani; Marici
+(married) Sambhiti ; Angiras (married) Smpfti. The other
+married pairs were: Priti and Pulastya, Ksama and Pulaha,
+Sannati and Kratu, Atri and Anasfiya, Urjai and Vasigtha,
+Svaha and Vibhavasu, Svadha and the Pitrs.
+
+27-28. Sati the mental creation of the lord was adopted as
+his daughter by Daksa. She the mother of the worlds attained
+Rudra as her husband. At the beginning of the creation
+Brahma had created a Being (Rudra) possessed of a body half
+man’s and half women’s?? and then the Creator said, ‘Divide
+thyself.”’ And he being accosted thus, divided himself into two.
+It was then that she was born.
+
+29. All the women in three worlds are born of the female
+part. Similarly, all the eleven Rudras?® originated from his
+male part.
+
+30-33. Everything feminine in gender is she herself and
+everything masculine is Rudra himself. Keeping Rudra in view,
+lord Brahma looked at Daksa and said, ‘‘Worship her, she is of
+good holy rites, the mother of all the worlds, of mine as well as
+yours. Ifthe word putri (daughter) is interpreted as ‘one who
+
+27, This half-male and half-female form of lord Siva is most popular
+in ancient sculpture. The concept has its basis in the Purusa-Prakrti doctrine
+of the SAmkhya philosophers.
+
+28. Eleven Rudras. For the names of eleven Rudras, see I. 82. 40-41.
+Their names are variously mentioned in the Purfnas. For instance, Matsya
+has two lists (5. 29-30; 153. 19) which differ from each other. Vayu agrees
+with Matsya only in three names. Bhavisya(125.7) gives a different list.
+For the interpretation of these names and other detail, see MP. A Study
+PP, 65-67.
+
+## Page 25
+
+Creation 19
+
+saves from the hell “put” she will become the excellent wife of
+Rudra and the mother of the Universe. She shall be your
+daughter and known as Sati.
+
+Thus urged by Brahma Daksa obtained her as his daughter
+and respectfully gave her to Rudra (in marriage) .
+
+34, The thirteen wives of Dharma, Sraddha and others have
+already been mentioned. I shall now mention the progeny of
+Dharma from those wives, in due order.
+
+35-36. They are Kama (love), Darpa (pride), Niyama
+(restraint), Santoga (contentment), Lobha (covetousness),
+Sruta (learning), Danda (punishment), Samaya (agreement),
+Bodha (wisdom), Apramada (non-erring), Vinaya (humility),
+Vyavasaya (industry), Kgema (welfare), Sukha (happiness)
+and Yagas (fame). These are the offspring of Dharma.
+
+37-40. Dharma begot of Kriya (activity) and Buddhi (in-
+telligence) two sons each viz..—Danda (punishment) and
+Samaya (agreement) of the former, Apram4da (non-erring) and
+Bodha (wisdom) of the latter. Hence the sons of Dharma and
+Adharma are fifteen in all. Bhrgu’s wife KhyAti gave birth to Sri,
+(who became) the wife of Visnu and to two sons Dhatr and
+Vidhatr who later became the sons-in-law of Meru. Prabhiti,
+wife of Marici, gave birth to two sons: Pirnamasa and Marica
+and four daughters: Tusti, Drsti, Krsi and Apaciti.
+
+41-45. O great sages, Ksama bore to Pulaha three sons :
+Kardama, Variyas and Sahisnu and onedaughter Pivari, golden
+in colour and stout as the earth. Pulastya begot of Priti two
+sons Dattorna and Vedabahu and a daughter Drsadvati. Sannati,
+wife of Kratu gave birth to sixty thousand sons who are known
+as Balakhilyas. Smrti, wife of sage Angiras, gave birth to four
+daughters: Sinivali, Kuhu, Raka and Anumati after obtaining
+three sons: Anubhava, Agni and Kirtiman, O sages of holy
+rites.
+
+46-50. Anasiiya, the wife of Atri, gave birth to six children,
+a daughter Sruti and five sons: Satyanetra, Bhavyamiarti, Apa,
+Sanai‘cara and Soma; the sixth was Sruti (mentioned above).
+The affectionate mother Orja bore to Vasigtha seven handsome
+sons: Rajas, Suhotra, Bahu, Savana, Anagha, Sutapas and
+Sukra. To the god of fire who identifies himself with Rudra
+and is the eldest.son of Brahm and also the very life of the
+
+## Page 26
+
+20 Lingapurdna
+
+people, Svaha bore three sons, for the welfare of the three
+worlds.
+
+CHAPTER SIX
+
+Glory of Siva
+S@la said:
+
+1-3. The three sons of Agni® are Pavamana, Pavaka and
+Suci. The fire produced by attrition is called Pavamana; that
+from lightning is named PAvaka; that from the sun is known as
+Suci. The three were the sons of Svaha. Together with their
+sons and grandsons their number goes upto fortynine (= 7 x 7).
+The fires are produced in sacrifices.
+
+4. All these are ascetics and observers of holy rites. All of
+them are prajapatis identical with Rudra.
+
+5. The Pitrs are of two categories: yajvans and non-yajvans.
+Yajvans are also called Agnisvattas, the non-yajvans as Barhi-
+sadas.
+
+6. Sraddh& gave birth to the mental daughter Mena. This
+mental daughter is well known in the world.
+
+7-8. Mena gave birth to Mainaka Kraufica, his (Mainaka’s)
+younger sisters Uma and Ganga. The latter became the holiest
+by virtue of her contact with the body of lord Siva. Svadha
+gave birth to a mental daughter Dharani (earth) who became
+the support of sacrifices. That lady (Dharani) of lotus-face
+became the wife of Meru, the king of mountains.
+
+9-10. The Pitrs are amrtapas (imbibers of nectar). Their
+account in detail, together with that of the sages and their fami-
+lies I shall narrate in a separate chapter, later on.
+
+29. For agnivarhéa see Vayu I. 29; Brahmdpda I. 1.10; Mérkagdeya
+52. 20-21, Vignu 1.10. 14-17. According to Linga (11.12.93) agni is the
+creative force that permeates the Cosmic Egg and effects the work of crea-
+tion.
+
+There are fotynine agnis (II.12.35) which are the different forms
+wef Rudra (1.6.4), while according to Harivaméa they are the attendants
+of Rudra (2.122. 17-40). Though there is a general agreement in the
+Puriinas in regard to the number of agnis there is a wide disagreement
+about their names.
+
+## Page 27
+
+Glory of Siva 21
+
+Sati, the (adopted) child of Daksa, the future daughter of
+Himavat, married Rudra.
+
+11. Later, she cursed her father Daksa [and immolated her-
+self] Rudra who thought on her created many Rudras.
+
+12. He created them in the form of his own person and
+they were honoured by all the worlds. O leading sages, it was at
+the behest of Brahma that lord Rudra created them. The
+lord had laughed and they were created immediately.
+
+13-16. The fourteen worlds* were completely covered by
+them. They were of different sort, devoid of impurities, death-
+less and ageless. On seeing these Rudras in front Brahma spoke
+to them :
+
+*O Rudras, obeisance to you. O three-eyed gods, you are
+omniscient, omnipresent and splendid. Some of you are long,
+some short and dwarfish. Your hair are golden. You dazzle
+our eyes by your splendour. You are eternal, enlightened, devoid
+of impurities and dvandvas. You are passionless sons of Rudra.
+You are the universal souls. Thus, after eulogising Rudras,
+lord Brahma circumambulated them and spoke to Rudra.
+
+17. ‘© lord, obeisance be to you; O great Rudra, it does
+not behove you to create subjects devoid of death. O lord, you
+should create mortal subjects.”’
+
+18. Then the great lord Rudra replied thus, ‘‘My position
+is not of such a nature. O Brahma, you should create such sub-
+jects endowed with death.”
+
+19. Thus, at the will of Rudra, the four-faced Brahma
+created the Universe, of the mobile and immobile beings, en-
+dowed with death and old age.
+
+20-24. Thus, as Rudra desisted from creating mortal sub-
+jects he obtained the title ‘sthanu’. O Brahmins, Rudra alone is
+capable of that. He is the supreme and unsullied soul who can
+assume physical bodies when he wills. The lord bestows happi-
+ness on all living beings mercifully and without strain. He has,
+therefore, acquired the title Sankara. He is the all-pervading
+
+go. The universe is comprised of fourteen worlds, seven rising above
+the earth and seven lying below. The seven upper regions are (i) bhir,
+(ii) bhuvah, (iii) svar, (iv) mahar, (v) janah (vi) tapas, (vii) satyam
+and the seven lower are (i) atala,. (ii) vitala, (iii) sutala, (iv) rasitala,
+(v) tala, (vi) talatala, (vii) patala.
+
+## Page 28
+
+22 Lingapurdaa
+
+soul who bestows blessings upon the person who out of the fear
+of worldly existence has resorted to yoga whereby he has become
+detached eschewing worldly activities and pleasures. [It is en-
+joined that] detachment can be produced by perfect knowledge
+as well. The indiscriminate eschewal of this knowledge is mea-
+ningless and is contrary to the purpose. It is through his grace
+that the confluence of knowledge and detachment takes place.
+
+25-26. Virtue, knowledge, detachment and prosperity are
+the result of his blessing. By taking recourse to him one can be
+easily liberated. Even if he is engrossed in sin he does not fall
+into hell.
+
+27-31. Hence, by resorting to him, people can attain
+eternal release from worldly existence.
+
+The Sages said :
+
+There are twenty-eight crores of hells from ghora to maya
+where the sinners are tortured, if they do not seek refuge in Him.
+He is the support of all living beings. He is unchanging. He is
+the lord of the worlds. He is Purusa, the great Atman. He is
+often invoked and often culogised. He is named Kala Rudra
+when he assumes tamoguna, and Brahma when he assumes
+rajoguna and Vigsnu when he assumes sattvaguna. When devoid
+of attributes he is called Maheégvara. O intelligent Sita, now
+tell us, by doing what or by neglecting what do men go to hell.
+We are eager to hear it.
+
+CHAPTER SEVEN
+The esoteric secret of Siva
+
+Sata said :
+
+1. I shall recount to you, at the outset, the esoteric secret,
+in brief, of the all-knowing Siva of unmeasured splendour.
+
+2-3. The yogins who are conversant with the tenets, who
+have adopted great detachment, who are constantly associated
+
+## Page 29
+
+Esoteric secret of Siva 23
+
+with the eight®!means of Yoga, such as the control of breath and
+who are endowed with the attributes of mercy** etc., go either
+to hell or to heaven according to their deeds.
+
+4. By virtue of his grace, knowledge arises and yoga func-
+tions through knowledge. By dint of yoga, liberation is effected,
+and everything is achieved through his grace.
+
+The sages said :
+
+5. O best of yogins, if perfect knowledge comes through
+grace, you shall tell us about the form and feature as well as the
+divine yoga of lord Siva (through which that grace is attained).
+
+6. How does the lord devoid of anxiety bestow his grace on
+men by means of the yogic path and at what time.
+
+Sitia said:
+
+7. May you all hear what had been formerly mentioned
+by Nandin to Sanat kumfra, the son of Brahma, in the pre-
+sence of devas, Sages and pitrs.
+
+8. O sages of good holy rites, listen to the incarnations of
+Vyasas, at the end of Dvapara and the incarnations of lord
+Siva as Yogacaryas in the kali age. -
+
+9. In different areas, the four disciples of the lord, fully
+endowed with mental control spread the doctrines of Siva.
+There grew up many disciples of disciples and the lord was
+pleased at this.
+
+10. The perfect knowledge of the lord had been tradition-
+ally and gradually transmitted orally to men of the first three
+castes from brahmins to vaisyas in the manner befitting them.
+It was done so out of mercy.
+
+The sages said :—
+
+11. It behoves you to tell us who those Vydsas were who
+
+gi. The eight ancillaries of yoga constitute (1) yama, (2) niyama,
+(3) dsana, (4) pranfyima, (5) pratyihira, (6) dharani, (7) dhy&na,
+(8) samadhi. Cf SP. Véyaviya samhité, ch. 37.
+
+g2. For the cight virtues of the soul, compare Agnipurdga as quoted
+in ST. SOT MAMTA AF AATATAIST AAT | THTTeTTETy at weTs
+
+wqwqr ~
+
+## Page 30
+
+24 Lingapurdna
+
+incarnated during every Dvapara age and furthermore, in which
+manvantara and kalpa they incarnated.
+
+Sita sard :
+
+12-13. O brahmins, may you be pleased to listen. I shall
+duly recount the Vyasas in the Varaha kalpa of the Vaivasvata
+manvantara which is still current. I shall recount the Rudras in
+all the manvantaras. They had been the guides and instructors
+of perfect knowledge of the Vedas and Puranas in all the circles
+of yugas.
+
+14-18. O brahmins, these are the Vyasas: (1) Kratu,** (2)
+Satya, (3) Bhargava, (4) Angiras, (5) Savitr, (6) Mrtyu, (7)
+Satakratu, (8) Vasistha, (9) Sdrasvata, (10) Tridhaman, (11)
+Trivrta, (12) Satatejas, (13) Dharma who is known as Nara-
+yana, (14) Taraksu, (15) Aruni, (16) Krtafijaya, (17) Rtafi-
+jaya, (18) Bharadvaja, (19) Gautama, (20) Vacafravas, (21)
+Sugmayani, (22) Suci, (23) Trnavindu, (24) Ruksa, (25)
+Sakti, (26) Pardsara the son of Sakti, (27) Jatukarnya, (28)
+Krsna Dvaipayana who was Visnu himself.
+
+Now listen to the yogesvaras in due order in the Kali age.
+
+19-20. They are innumerable in the various kalpas and the
+manvantaras. Since the incarnations of Rudras and Vyd4sas in the
+Kali age are too many, I shall recount the incarnations in the
+Vaivasvata manvantara, in the Varadha kalpa and in all the
+other manvantaras falling therein.
+
+The sages said :
+
+21. O Sita, it behoves you now to recount the manvan-
+taras in the Varaha kalpa and in all the later kalpas as also
+recount the Siddhas in the Vaivasvata manvantara.
+
+Sita said ::
+
+22-28. The first Manu was (1) Svayambhuva son of
+Brahma. Then, O brahmins, was the Manu (2) Svarocisa. The
+subsequent Manus were: (3) Uttama, (4) Tamasa, (5) Raivata,
+(6) Cakgusa, (7) Vaivasvata, (8) Savarni, (9) Dharma, (10)
+Savarnika, (11) Piganga, (12) Apisangabha, (13) Sabala, and
+
+33. identical with ‘Prabhu’, Cf. ST. quite wf wafcegee: |
+
+## Page 31
+
+Esoteric secret of Siva 25
+
+(14) Varnaka. The Manus are also designated according to the
+vowels beginning with ‘a’ and ending with ‘au’. O excellent
+brahmins, they are also classified according to their colours as
+(1) tveta (white), (2) pandu (grey), (3) rakta (reddish), (4)
+tamra (copper-hued), (5) pita (vellow), (6) kapila (tawny),
+(7) kygna (black), (8) Syama (dark), (9) dhimra (light-smoke-
+coloured), (10) sudhimra (deep smoke-coloured), (11) api-
+Sanga (non-tawny) (12) pisanga (tawny), (13) trivarna sabala
+(three-coloured) and (14) kalandhura (extreme black). Thus
+all the holy Manus have been mentioned by (1) name, (2)
+letters, and (3) colour. Those identical with the vowels are, in
+brief, mentioned as the leaders of the manvantaras. Among
+them, the seventh Manu is Vaivasvata represented by the vowel
+‘r’ and colour black. This seventh Manu is also a leader among
+devas. I shall mention the yogins in this repeated cycle of yugas
+in the kalpas that have passed by and those thatare yet to come.
+
+29-35. The current kalpa in the seventh manvantara is
+known as Varaha. Now listen to the yogic incarnations of the
+lord and their line of disciples in due order, in all the kalpas
+and manvantaras. In the first Kali of Svayambhuva Manu they
+were (1) Sveta, (2) Sutara, (3) Madana, (4) Suhotra, (5)
+Kankana, (6) Logaksi, (7) Jaigisavya, (8) Dadhivahana, (9)
+Rsabha, (10) Ugra, (11) Atri, (12) Subdalaka, (13) Gautama,
+(14) Vedasirsa. (15) Gokarna, (16) Guhavasin, (17) Sikhanda-
+bhrt, (18) Jatam4lin, (19) Attahasa, (20) Daruka, (21) Languli.
+(22) Mahakavya, (23) Salin, (24) Dandin, (25) Mundisvara,
+(26) Sahisnu, (27) Somasarma, (28) Lakuliga. O men of holy
+rites, the incarnations as Yogacaryas of the lord in all the cycles
+of four ages in the Vaivasvata manvantara have been recounted
+(as twentyeight) .
+
+36. O excellent sages, in every Dvdpara age, there are
+Vy4sas in the same manner. The following are the recurring
+disciples of these Yogesvaras, each of whom had four disciples.
+
+37-51. They are;—(1) Sveta, (2) Svetasikhandin (3) Sveta-
+éva, (4) Svetalohita, (5) Dundubhi, (6) Sataripa, (7) Rcika,
+(8) Ketuman, (9) Visoka, (10) Vikega, (11) Vipaga, (12)
+Pa’anasana, (13) Sumukha, (14) Durmukha, (15) Durdama, (16)
+Duratikrama, (17) Sanaka, (18) Sananda, (19) Sanatana, (20)
+Rbhu, (21) Sanat, (22) Sudaman, (23) Virajas, (24) Sankhapada,
+
+## Page 32
+
+26 Lingapurdna
+
+(25) Vairajas, (26) Megha, (27) Sarasvata, (28) Suvahana,
+(29) Meghavaha, (30) Kapila, (31) Asuri, (32) Paficagikha,
+(33) Valkala, (34) Paragara, (35) Garga, (36) Bhargava (37)
+Angiras, (38) Balabandhu, (39) Niramitra, (40) Ketusrnga
+(41) Lambodara, (42) Lamba, (43) Lambdaksa, (44)
+Lambakesaka, (45) Sarvajfia, (46) Samabuddhi, (47) Sadhya,
+(48) Sarva, (49) Sudhaman, (50) Kaégyapa, (51) Vasistha,
+(52) Virajas, (53) Atri, (54), Devasada, (55) Sravana, (56)
+Sravisthaka, (57) Kuni, (58) Kunibahu, (59) Kuégarira,
+(60) Kunetraka, (61) Kafyapa, (62) Uganas, (63) Cyavana,
+(64) Brhaspati, (65) Utathya, (66) Vamadeva, (67) Maha-
+yoga, (68) Mahadbala, (69) Véacafravas, (70) Sudhika,
+(71) Syavasva, (72) Yatifvara, (73) Hiranyanabha, (74)
+Kausalya, (75) Logaksi, (76), Kuthumi, (77) Sumantu,
+(78) Barbari, (79) Kabandha, (80) Kusikandhara, (81)
+Plaksa, (82) Dalbhyadyani, (83) Ketuman, (84) Gopana,
+(85), Bhallavin, (86) Madhupinga, (87) Svetaketu, (88)
+Taponidhi, (89) USika, (90) Brhadagva, (91) Devala, (92)
+Kavi, (93) Salihotra, (94) Agnivesa, (95) Yuvanasva, (96)
+Saradvasu, (97) Chagala, (98) Kundakarna, (99) Kumbha,
+(100) Pravahaka, (101), Uliaka, (102) Vidyuta, (103)
+Mandika, (104) Asvalayana, (105) Aksapada, (106)
+Kumara, (107) Ulika, (108) Vatsa, (109) Kusika, (110)
+Garbha, (111) Mitra, (112) Kaurusya. These noble souls are
+the disciples of the yogins in all cycles of four yugas.
+
+52-55. They are all devoid of impurities, almost identical
+with Brahman, and engaged in the path of knowledge. They are
+devotees of Pasupati, great Siddhas and have ashes smeared on
+their bodies. There are hundreds and thousands of disciples
+and their disciples. They attain the Pasupata yoga and Rudra’s
+world. All beings from Devas to Pisacas are said to be Pasus.
+Since Lord Rudra is their overlord he is called Pasupati. O
+Brahmins, the yoga evolved by Rudra, the overlord of the
+Pasus is known as Pagupata yoga, which leads all persons to
+their blissful prosperity.
+
+## Page 33
+
+27
+CHAPTER EIGHT
+
+Yogic zones
+
+Sila said :
+
+1. I shall succinctly mention the yogic zones now. They
+have been established by Siva himself, O brahmins, for the
+welfare of men.
+
+2. The portion covered by a vitasti beneath the throat and
+above the umbilicus is the excellent zone of yoga; so also the
+curling lock of hair below the umbilicus and middle portion
+between the eye-brows.
+
+3. The knowledge of all topics that arises in the soul is
+called yoga.*4 The concentration of the mind is possible only
+through his grace.
+
+4. O excellent brahmins, the form of his grace can be
+realized by the individual alone. It cannot be imported by
+Brahma or any other. It arises itself in the individual gradually.
+
+5. Yoga indicates the region where the Supreme Lord
+dwells.** For the attainment of that region, knowledge is the
+cause, and this knowledge comes through his grace alone.
+
+6. One should abstain from sensual activities and burn
+sins by means of perfect knowledge. The achievement of yoga
+shall be possible only to one who has restrained the activities of
+his sense-organs.
+
+7. Oexcellent brahmins, yoga is restraining the function-
+ing of the mind.** Eight means have been mentioned for the
+achievement of yoga.
+
+8-9. They are(1l) yama (restraini), (2) niyama ( obser-
+vances), (3) dasana (a particular posture), (4) pranayama
+(restraint of breath) (5) pratyahara ( withdrawal of the senses) ,
+(6) dharana (retention), (7) dhyana (meditation) and (8)
+samadhi (ecstatic trance) .
+
+10-11. Abstention by way of austerity is called restraint
+(yama) ; O foremost among those who have restraint, the first
+
+34. Yoga is defined as the achievement of knowledge of ali objects
+by the personal soul (jiva).
+
+35. K. reads frafo for Fratory |
+
+36. Cf. PéteAjala Yogasitra UvrfeTaafafrAe: 1 1.1,
+
+## Page 34
+
+28 Lingapurdna
+
+contributory cause of restraint is non-violence (ahirhsé), truth-
+fulness, non-stealing, celibacy and non-acceptance of gifts are
+the other causes The root of niyama (observances of vows} is
+undoubtedly yama alone.
+
+12. Considering all living beings as one’s own self and
+working for the welfare of all living beings is called non-viol-
+ence. It helps in achieving the knowledge of self.
+
+13. Retelling precisely what has been seen, heard, inferred
+or experienced is called truthfulness (satya). It is devoid of in-
+jury or infliction of pain on others.
+
+14. The Vedas declare. “One should not utter what is
+obscene in the presence of the brahmins’’. ‘‘Even after knowing
+the defects of others one should not proclaim them to others’’—
+this is another passage in the Sruti.
+
+15. Not stealing the possessions of others purposefully, even
+in emergency, mentally, physically and verbally is non-stealing
+in brief.
+
+16. Not indulging is sexual intercouse,®”? mentally, verbally
+or physically is the vow of celibacy, with reference to the asce-
+tics and the religious students.
+
+17. This holds good in regard to the anchorites, forest-
+dwellers and widowers. I shall now tell you about the vow
+of celibacy of the householders who live with their wives.
+
+18. In their case, as prescribed, indulgence in sexual inter-
+course with their own wives and abstention from it with other
+women mentally, physically and verbally should be understood
+as brahmacarya.
+
+19. The householder shall take ablution after indulging in
+sexual intercourse with his own wifc. If he is in yogic commu-
+nion with his self he is undoubtedly a celibate.
+
+20. Inthe case of non-violence (ahirhs4) too, the same
+rule is applicable. Violence sanctioned by Sruti, in regard to
+the brahmanas, preceptors and sacrifice comes under ahimsa.
+
+21. Women are always to be avoided. One should stay
+
+37. For eight kinds of maithuna, cf. ST, A{UT] #7 afte:
+Tare yA | aHeTserTaraey Perf fata aw 1 CAATETAST
+saat aatfa: | fart AETAA TAA eR 1) Brahmacarya
+
+(celibacy) is defined as the reverse of maithuna (sexual indulgence) and
+it imparts vigour and force : Cf. Yogasiira : seraasfarcsrai array: |
+
+## Page 35
+
+Yogic Zone 29
+
+far off from them. A shrewd person views them as he views
+the corpses.
+
+22. He should have the same attitude in the sexual inter-
+course with his own wife, as when discharging the faeces and
+urine on the ground. There should be no attitude other than
+this.
+
+23. Woman is like a burning coal; man is like a vessel of
+ghee. He should always avoid contact with women therefore.
+
+24. Ifwe ponder over this, we shall know that there is no
+satiety in sexual pleasures. Hence, one should practise detached
+attitude mentally, physically and verbally.
+
+25. Lust is never suppressed by indulging in sexual plea-
+sures. Just as fire burns vigorously if ghee is poured in, so also
+lust is increased by means of indulgence.**
+
+26. Hence the yogin should always practise renunciation
+for achieving immortality, since he who is not detached is born
+and re-born in different wombs.
+
+27. The Vedas" declare thatit is only through renunciation
+that immortality is attained. O brahmins, the most excellent
+among the knowers of Sruti and Smrti, it is not possible
+through rites, through progeny or through offerings of materials
+of worship.
+
+28. Hence one should practise detachment, mentally, ver-
+bally and physically. Abstention from sexual intercourse, except
+during the prescribed period, after menstruation is stated as
+celibacy in the case of householders.
+
+29-31. Thus the restraints (yamas) are succinctly men-
+tioned. I shall now tell you the observances (niyamas). They
+are ten in number : (1) cleanliness (Sauca), (2) sacrifice (ijya),
+(3) penance (tapas), (4) charitable gift (dana), (5) study
+of the Vedas (svadhydya) (6) restraint on the organs of gener-
+ation (upasthanigraha), (7) holy rites (vrata), (8) fast
+(upavasa) , silence (mauna), and holy bath (snana). Accor-
+ding to some, observances (niyama) mean (1) absence of
+craving (anihi), (2) cleanliness (Sauca), (3) satisfaction
+(tusti), (4) penance (tapas), (5) muttering of Siva’s mantra
+
+38. Paacada$i. 7. 47.
+39. Na karman4 na prajay4 dhanena, TA. 10.10.93; Mahda. U. 10.5
+
+## Page 36
+
+30 Lingapurdna
+
+(japa), (6) meditation on Siva and (7) postures such as pad-
+maka. Of these cleanliness is twofold : (1) external and (2)
+internal. Of the two the internal is superior to the external.
+
+32-35. One who has external cleanliness should practise
+internal cleanliness too. The holy bath should be conducted in
+accordance with the injunctions. It is threefold : (1) Agneya
+(fiery), (2) Varuna (watery) ‘and (3) Brahma (consisting of
+Brahman). It is only after he has practised the external bath
+that he should practise the internal. If he is devoid of interna]
+purity, he is still dirty even if he applies clay over his body
+and plunges into the waters of the tirthas. O excellent brah-
+mins, the moss, the fishes, the sharks and the animals that prey
+upon fishes remain ever in water. But are they pure ? Internal
+cleanliness should always be pursued in accordance with the in-
+junctions.
+
+36. Internal cleanliness is mentioned as follows. One
+should apply the holy ashes of detachment with a feeling of
+devotion. One should take a holy dip into the waters of know-
+ledge of the soul. This is how one can attain purification.
+
+37-39. Siddhis are accomplished only in a pure and not in
+an impure person. A person of holy rites who is satisfied with the
+sustenance he gets by justifiable means has the characteristics
+of satiety (tusti). He is not worried about his needs. Austerity
+is the right observance of the holy rites Candrayana, etc.
+Svadhyaya is the threefold repetition of Omkara mantra,
+i.e. (1) Vacika—oral utterance which is the basest of the three;
+(2) Upamsu—slow muttering which is better than Viacika;
+(3) Manasa—when the sound does not come out of the throat
+which is the best of all, This is stated in detail in the ritualistic
+text on the five-syllabled mantra.
+
+40-43. Siva-pranidhana (contemplation of Siva) mentally,
+physically and verbally, unflinching devotion to the preceptor,
+withdrawal of the organs of sense from the objects of worldly
+pleasures—this in brief is called pratyahara (withdrawal).
+Dharana (retention) is the fixation of the mind in the proper
+place. Dhyana (meditation) comes through the normalcy of
+Dhiarana (retention). If it iscoupled with thought, it issamadhi
+
+an
+
+(ecstatic trance). In samadhi there is concentration of the
+
+## Page 37
+
+Yogic Kones 31
+
+mind and meditation; herein the perception of object is entirely
+excluded.
+
+44. In samadhi“ the supreme consciousness alone shines, as
+though it were devoid of physical body. Pranayama (control of
+breath) is the root of dhyana, samadhi, etc.
+
+45. The wind within the body is prana. Itsrestraint isyama.
+As stated by the brahmins itis threefold: (1) slow (manda), (2)
+middling (madhya) and (3) uttama (superior).
+
+46. The restraint of the prana and apana is called prana-
+yama. The magnitude of the restraint of breath is stated to be
+twelve moments.
+
+47-50. The slow (manda) consists of twelve moments
+which form one stroke or blow (udghata). The middling con-
+sists of two strokes. The superior has three strokes, i.e. thirty
+moments. The three respectively generate sweating, shivering
+and rising up. When the following symptoms areseen the prana-
+yama® is excellent, for it denotes the onset of bliss. The symp-
+toms are: reeling due to drowsiness, horripilation, sensation of
+hearing some sound, pressing of one’s own limbs, shivering,
+
+40. Samadhi is a fixation of the mind on the personal soul (jiva),
+and further, of the personal sou] on the supreme soul, so as to identify the
+contemplator with the object meditated upon. This is the eighth and last
+stage of yoga. Of. Hathayogapradipikd :
+
+afer aay arcane wafer Are: |
+Taree TarfachrdaT 1
+
+TTTT ACT HATTA: |
+waseararger earta: aishrstras i
+
+With Buddhists it is the fourth and last stage of dhyana.
+
+41. The time of matri is that of a winking and opening the cye-lids
+once, or that of a prosodial instant. The udghata prandyima extends
+
+during twelve m&tr4s or twelye prosodial instants. It is defined in the
+Markandeya thus :
+
+fafaeetect arar aat wert eer |
+ATTATHET ACATS: SY ATLRTAT AH: 1
+SP, defines matrii as a unit of time required for the snapping of the
+fingers after moving them round the knees neither speedily nor slowly.
+(Vayaviya 37.31).
+42. For the kinds and characteristics of Kumbhaka prandyimma, see
+Hafhayogapradipika. .
+
+## Page 38
+
+32 Lingapurdna
+
+vertigo born of sweating, fixation, absence of knowledge and
+unconsciousness.
+
+51-54. Pranayama is of two types: sagarbha and agarbha.®
+If it is pursued with japa, it is sagarbha; if without japa, it is
+agarbha. It is like an elephant, oran eight-fuoted animal Sarabha
+or a formidable lion. When caught and tamed properly it hecomes
+submissive. Similarly, for the yogins, the wind which is by nature
+unstable and uncontrollable becomes normal and subservient by
+proper practice. Just as the lion or the elephant or the Sarabha,
+though ferocious, is tamed after a whilc with a proper training,
+so also the wind attains normalcy and equanimity due to con-
+stant acquaintance and practice.
+
+55-57. He who practises yoga never suffers calamity. When
+the prana is properly trained it turns the defects of the mind,
+speech or body, preserving the body of the practiser. Thus, if
+the devotee perfects himself by taking recourse to the pranayama
+his defects perish; the very breath is conquered by him, and the
+divine quiescence etc. are achieved.
+
+58-62. The attributesof the pranayama are four, viz, Santi,
+praianti, dipti and prasada. They are explained in order: O
+brahmins, the first of these four is :anti. It means the suppres-
+sion of sins congenital or adventitious. Pra‘anti is a perfect
+restraint in speech.“ All round, all time brilliance, O brahmins,
+is called dipti. Prasada is the clarity of the mind which is of four
+types. It is the clarity of the sense-organs, of the intellect and the
+organic winds. The organic winds —prana, apana, samana, udana
+and vydna have their functional names : Naga, Kiirma, Krkala,
+Devadatta and Dhanajfijaya respectively. The clarity of these
+winds is called prasada.
+
+43. According to ST. sagarbha is a variety of Kumbhaka that includes
+puraka (inhaling) and recaka (exhaling) varieties of pranayama.
+ard: THRCTENRE:, TTT: Fare: | SP. defines agarbha as the kind of
+Pranayama wherein the breath is restrained without meditation and japa,
+and sagarbha as that wherein meditation and japa are allowed. (Vdyaviya
+
+$7- 33> 34)-
+44. Praéintib—restrained or restricted speech. ST. quotes from
+
+the Mahabhirata :
+HUTT ATA SATE: Ter ade aarear aqfadiay |
+ad adq carga aeeia fra atq onge aaa UI
+
+## Page 39
+
+Yogic Zones 33
+
+63-67. ‘Che wind which traverses through the body is called
+prana; that which brings down food and drink is called apana;
+that which enables the limbs of the body to bend is called vyana
+which incites the ailments too; that which excites and afflicts
+the vulnerable points (in the body) is called udana. That which
+normalizes the functions of the organs is called samana. Thus
+the first set of five winds has been explained to you. The wind
+Naga functions in the act of belching; the Karma in the opening
+of eyes; Krkala in sneezing; Devadatta in yawning and Dhanafi-
+jaya in making a loud report. It is present even in the dead
+body. By restraining these winds, one can attain prasada. O
+brahmins, in the fourfold set of attributes, prasada figures as
+the fourth.
+
+68-69. O brahmins, the intellect has these synonyms—viz.,
+visvara, mahat, prajfia, manas, brahma, citi, smrti, khyati,
+samvit, IS$vara and mati. It is through pranayama that the
+clarity of intellect is achieved.
+
+70-74. O excellent sages, Visvara is so called because it com-
+promises between two conflicting opposites. Since it is the first
+and the greatest of all the tattvas arising out of Prakrti it is
+called mahat. It is called prajiia because it is the repository of
+all means of knowledge. It is manas because it thinks. It is
+Brahmi because it is big and swells up. O most excellent
+among the knowers of Brahman, it is called citi because it
+gathers together all activities for the sake of enjoyment. It is
+called smrti because it enables one to remember things. Since
+it obtains everything it is called Samvit. Because it is known
+everywhere by means of knowledge it is called khyati.© It is
+called Ivara because it is the overiord of all elements and
+comprehends everything. O sages, most excellent among the
+intelligent, it is called Mati because it is the instrument of
+thought subjectively and objectively. It is called Buddhi
+because it enlightens things and is itself the instrument of
+enlightenment.
+
+75. The perspicuity of this Buddhi is achieved through
+
+45. khy&ti—a category of intellect (MP. 3.17). It is so called be-
+cause it is the source of the perceived creation or the cosmos which becomes
+visible or the gbject of perception by the mind and the senses.
+
+## Page 40
+
+34 Lingapurdna
+
+Pranayama. By restraining himself one shall burn all defects
+by taking recourse to pranayama.
+
+76. By means of pratyahara (withdrawal of sense-organs)
+and Dhiaranas (retentions) one shall destroy sins. By medi-
+tating on the mundane objects as if they were poisonous one
+destroys all ungodly qualities.
+
+77. O excellent ascetics, one should increase the power of
+intellect by means of samadhi. The eight ancillaries of yoga
+should be practised only after securing the proper place for
+yogic practice.
+
+78. The knower of the Atman shall then duly secure
+Asanas (correct postures) for achieving yogic results. If the
+place and time are not suitable he cannot have even a glimpse
+of yoga.
+
+79-86. The yogic exercises should not be practised in the
+the following places or circumstances—near the fire, within
+water, on a heap of dry leaves, in a place infested with crea-
+tures, in the cremation ground, in a dilapidated cowpen, in
+the four crossroads, in a place full of noises, in a place
+generating fear, in a monastery, or the anthill, in an in-
+auspicious place, in a place inhabited by wicked men and in
+a place infested with mosquitoes. One should not practise
+yogic exercises when there is some ailment in the body or
+when the mind is in dejection.
+
+The devotee shall delightedly practise the ancillaries of
+yoga in the following places. It should be a well protected
+place, auspicious and pleasing; or acavc in a mountain or
+shrine of Siva, or a well-guarded park or a forest, or a corner
+in one’s own house devoid of people and animals. It should
+be scrupulously clean, well scrubbed, smeared with cowdung
+and rendered beautiful in diverse ways. It shall be spotlessly
+clean like the surface ofa mirror. It shall be fumigated with
+black agallocum. Different kinds of flowers should be strewn
+all round. A canopy should adorn the whole place. It should
+be endowed with roots, fruits, tender sprouts, ku’a grass and
+variegated flowers. The practitioner of yoga should sit in a
+balanced posture. He should practise the ancillaries of the yogic
+exercises with delight in his mind. He should pay reverence to
+the preceptor Lord Siva, Goddess Uma, Vinayaka, the leading
+
+## Page 41
+
+Yogic Zones 35
+
+yogins and their disciples. He should practise the posture of
+svastika*® padma*’ or ardhdsana.#
+
+87-90. He should sit with the knees on a !evel or kneel on
+one of the knees. Whatever the posture may be he shall sit
+steadily withdrawing his feet. He shall keep his mouth shut,
+eyes closed, chest projected in front. With his heels he should
+cover the testicles and the penis. With his head somewhat
+lifted up and the rows of teeth not touching each other, he
+should observe the tip of his nose. He shall not look at the quar-
+ters. He shall cover up his tamas by means of rajas and the
+rajas by means of sattva. Then stationing himself in the
+sattva he shall practise meditation of Siva.
+
+91. With great concentration, he shall meditate in the
+pericarp of the lotus, on the Supreme Being which is symbo-
+lised by Ornkara and is as pure as the candle flame.
+
+92-95. He should meditate within three angulas below the
+umbilicus, on the excellent lotus having (at its centre) an
+octagon, a pentagon or a triangle. He should also meditate on
+the fire, moon and sun together with their consorts; or the order
+may be : first thé sun, then the moon, and then the fire. Or
+the order may be first the fire, then the sun and then the
+moon as prescribed in the Sastras. He should conceive the
+four® aims—Virtue etc. beneath the fire and ponder over
+
+46. svastika—a posture of sitting practised by a yogin in which the
+toes are placed in the inner hollow of the knees. SP. lists eight types of the
+yogic pose : (1)svastika, (ii) padma, (iii) ardhendu (iv) vira, (v) yoga,
+(vi) prasadhita, (vii) paryanka, (viii) yathegta.
+
+47. padm4sana—a particular posture of the body in religious medi-
+tation. Cf.
+HOTS AAT FACT, The TAA
+arene earafacan JF Teareafata ayer
+
+ST. quotes from HYP, pp. 25-26 :
+HVAT TATA TY Hear TAT FAY |
+arene faertarrearqge g fergat i
+SHET FTH AHN Ta TA: |
+I TqaTaa Meet TeV OTTATT 1
+48. Construe ‘ardhdsanam’ with ‘padmam’ i.e. the lotus half seat.
+It is also called siddhdsana.
+49. This group of four consists of (i) dharma, (ii) jfidna, (iii) vairigya
+and (iv) aijvarya.
+
+## Page 42
+
+36 Lingapuréna
+
+the three gunas over the zone. He should then think of Rudra
+stationed in sattva and adorned by Uma.
+
+96. He should perform the rite of meditation in the umbi-
+licus or the throat, or the middle of the eye-brows or on the
+forehead or on the crest of the head in accordance with the
+injunctions.
+
+97. He should meditate on Siva (sitting in the lotus with
+two, sixteen, twelve, ten, six or four petals in due order).
+
+98-100. He should meditate on Him in a spot as lustrous as
+gold or as splendid as burning coal or very white or as reful-
+gent as twelve suns or as brilliant as the disc of the moon or
+as flashing as millions of lightning streaks or as lustrous as fire
+or as glittering as a circle of lightning or as refulgent as a crore
+of diamond pieces or as brilliant as a ruby. He should practise
+meditation on the image of blue and red coloured lord (Siva).
+
+101. He shal] meditate on Mahefvara in the heart; on
+Sadafiva in the lotus-like umbilicus ; on Candraciida on the
+forehead and on Sankara in the middle of eyebrows.
+
+102-108. He shall meditate on Siva on his forehead; on
+Mahadeva (the great lord) in his lotus-like heart and in the
+mind. The great lord is of the following description : He is
+devoid of impurities. He is unsullied. He is the quiescent
+Brahman in the form of knowledge. He has no specific charac-
+teristics. He cannot be particularly pointed out. He is minuter
+than the atom. He is splendid and supportless. He cannot be
+reflected upon. He is devoid of death and birth. He is liberation
+itself. He is ambrosial, imperishable and unborn. He is mira-
+culous, the greatest and the largest bliss. He is devoid of
+defects and qualities. He is subtler than the subtlest, auspicious,
+self-cognizable, incomprehensible. He is the greatest lord
+identical with perfect knowledge. He is beyond the scope of
+sense-organs. He has no semblance. He is the greatest prin-
+ciple, greater than the greatest, devoid of conditioning
+adjuncts, comprehensible through meditation, non-dualistic,
+beyond all darkness and the greatest Being. The devotee should
+meditate in the umbilicus on Sadafiva, the lord identical with
+devas.
+
+109-111. He shall meditate on lord Siva identical with
+
+## Page 43
+
+Obstacles and Portenits 37
+
+pure knowledge, in the middle of the body through sugsumna®
+pass or through the Kumbhaka. He shall then perform thirty
+two recakas (respirations) concentrating on the heart and
+umbilicus. O excellent brahmins, then eschewing Recaka and
+Piraka®! respirations and taking recourse only to Kumbhaka
+he shall meditate on Siva in the middle of the body with
+normal elegance.
+
+112-116. After identifying with the lord he will compre-
+hend the bliss of Brahman emerging from elegance and the
+state of perfect equanimity.
+
+Twelve pranayamas make one dharani; twelve dharanas make
+one meditation and twelve meditations make one Samadhi.
+O brahmins, one may attain yogic realization by contact with
+wise men or by his own efforts, gradually. Of course, even as
+he practises yoga, there may be obstacles in this path. But
+they perish through constant practice by the direction of the
+preceptor.
+
+CHAPTER NINE
+Obstacles and Portents
+Sila said :
+
+1-3. Obstacles to yogic practice take shape in ten different
+ways. They are (1) lethargy, (2) ailment, (3) negligence,
+(4) doubt, (5) unsteady mind, (6) lack of faith, (7) illusion,
+(8) misery, (9) dejection and (10) indulgence in sensual
+
+50. HATA: =ALFATTSTSA ATT: | Cf. Sivagité as quoted in
+ST. : maeqTHleTT ae GATT ATHMAT | YL Eafe gatfacer Tar THAT
+faqeart 1) It is a vein of the body lying between those called id& and
+pingala and supposed to be one of the passages for the breath or spirit.
+51. recakam pirakarh tyaktva. Kumbhaka alone is recommended
+for the attainment of spiritual goal; recaka and piraka are excluded. Cf.
+Hathayogapradipikd p. 70
+gram dae fas taqepatad |
+a wer ary fefeaq fre ag fret
+
+## Page 44
+
+38 Lingapurana
+
+pleasures. Of these lethargy means abstention from work due
+to the bulkiness of the body and mind.
+
+4. Ailments originate from the imbalance of the consti-
+tuent elements. They are the outcome of the defective previous
+schemes as well as of bad habits. Negligence constitutes
+omission to secure the means of yoga.
+
+5-6. Doubt is a double perception—‘this or that’. Un-
+steadiness is the instability to stabilize the mind. The mind
+remains unsteady due to its engrossment in mundane affairs
+even when the ground is achieved. Lack of faith is the un-
+emotional attitude towards the means of yoga.
+
+7-9. Illusion is misconception of the mind as regards one’s
+aim, the preceptor, right knowledge, good conduct and lord Siva
+as also in the apprehension of self in non-self even when it
+is nearby. Misery is threefold : spiritual,5? material’ and
+divine. There is also a natural misery due to the agitation of
+the mind through the frustration of desires.
+
+10-12. When the mind is affected by tamasor rajas it is
+afflicted. The state of the mind at that time is called dejection.
+Dejection should be eschewed by strict detachment from the
+material objects. When one can discriminate between what is
+worthy and what is not worthy but still stubbornly clings to
+the unworthy, engrossed in diverse mundane affairs his mind
+becomes fickle then. These are the impcdiments in the reali-
+zation of yoga for a yogin.
+
+13-15. To the devotee who practises yoga excessively en-
+dowed with zeal the obstacles subside but other impediments
+in the form of siddhis begin to appear.» The siddhis arc six :
+
+52. adhydtmika—this misery procceds from bodily and mental
+causes within one’s self. Cf. Visnu aeatfaat @ fefaa: aa
+WlAASTAT | quoted in ST.
+
+53. adhibhautika—this misery is produced from external causes:
+aarifrgey ST.
+
+54. ddhidaivika—this misery proceeds from the influence of the at-
+mosphere or planets, from divine or supernatural agencies: sfrerrerri fron
+ST.
+
+55. Upasarga—It is an ailment in the soul of a yogi and, if unchecked,
+it will hinder his progress in the path of self-realization. Linga records
+sixtyfour upasargas.
+
+## Page 45
+
+Obstacles and Portenis 39
+
+(1) pratibha, (2) ‘Sravana, (3) vartaé, (4) dargana, (5)
+asvada, and (6) vedana.
+
+16. These siddhis if avoided initially when their pot-
+cncy is very little, lead to better results. Pratibha (keen intel-
+lect) is the disposition (of the mind), resting on one’s power
+of understanding.
+
+17-20. Buddhi (intellect) is the faculty of discrimination
+by which anything knowable isknown. If one has knowledge of
+things subtle or hidden far or near, past or future, at all times
+and places, that knowledge is called pratibha. Ifthe yogin is
+able to grasp without effort, the import of all words by merely
+hearing a concealed or indistinct syllable, whether short, long
+or prolated that ability is called sravana. The perception of
+touch without actual contact is called Vedana (awareness).
+The ability to see divine forms without effort is called dargana.
+Asvada (appreciation) is the ability to taste divine delicacies
+without strain.
+
+2i. Varta is the intellectual perception of divine smells
+and subtle clements. O brahmins, through yoga, the yogins
+attain the knowledge of everything about the embodied beings.
+» 22-25. In this world there are sixty four qualities present
+in the body. O brahmins, among these, the aupasargika quali-
+ties should be eschewed. In the region of pisacas, O brahmins,
+the qualities of carth (should be eschewed) ; in the region of
+raksasas the qualities of water; in the region of Yakgsa the
+qualities of fire; in the region of Gandharvas the qualities of
+breath; in the region of Indra the qualities of ether; in the
+region of Soma the qualities of the mind; in the region of
+prajapati the qualities of ego; in the region of brahman the
+qualities of intellect should be eschewed.
+
+26-29. In the first region (earth) there are cight qualities;
+in the second (water) sixteen; in the third (fire) twenty four;
+in the fourth (gandharva) twentytwo; in the fifth (Indra)
+forty. Each of the five subtle elements—smell, taste, colour,
+touch and sound is evolved eightfold. O excellent brahmins,
+there are fortycight qualities in the region of the moon, fifty-
+six in the region of Prajapati, and sixtyfour in the region of
+Brahman. In all the regions ending with that of Brahman, the
+
+## Page 46
+
+40 Lingapurana
+
+yogin should discern obstacles through yoga and eschew them.
+He can realize the supreme brahman thus.
+
+30-31. The yogic siddhi p&rthiva (pertaining to the earth)
+is eight: {}) bulkiness, (2) leanness, (3) infancy (4) youthful-
+ness, (5) old age, (6) ability to assume different shapes, (7)
+ability to hold body by means of (only) four elements without
+the part of the earth and (8) having perpetual sweet scent.
+
+32-35. The yogic siddhi apya (pertaining to the water) is
+sixteen : (1) He can stay under water as long as he wills; (2)
+he can come out of water whenever he wills; (3) he can drink up
+even the ocean and be none the worse for it; (4) he can let the
+water spring up wherever he wills; (5) whatever he wishes to
+eat he can transform it into tasty substance; (6) he can hold
+body with only three elements, viz. fire, air and ether; (7) He
+can hold a mass of water by the bare hands without any con-
+tainer; (8) he can have a body free from cuts and wounds.
+These eight powers together with the eight qualities of the earth
+constitute aigvarya pertaining to the water.
+
+36-38. The yogic siddhi taijasa (pertaining to the fire) is
+twentyfour: (1) ability to create fire from the body; (2)
+absence of fear from being scorched by it; (3) ability to arrange
+something unburnt even when the whole world is burnt; (4)
+ability to keep fire in the water or (5) hold it in palms, (6)
+ability to create fire by merely remembering it; (7) ability to
+re-create at will what is reduced to ashes; and (8) ability to
+have the body with two elements—air and ether, to the exclu-
+sion of the other three.
+
+39-41. The yogic siddhis pertaining to the air are : (1)
+ability to move as fast as the mind; (2) ability to enter the
+bodies of living beings; (3) ability to hold weighty things like
+mountains on shoulders; (4) lightness, (5) weightiness, (6)
+holding the air with palms; (7) ability to shake the earth with
+the tip of the finger and (8) to create bodies with the air.
+
+42-43. Ability (1) to have no shadow of oneself; (2) to
+see the subtle elements; (3) to walk over the ether; (4) to have
+the objects of desire at will; (5) to hear sound from a distance,
+(6) to comprehend all types of sounds; (7) to have a body
+composed only of subtle elements and (8) to see all living
+
+## Page 47
+
+Obstacles and Portents 41
+
+being—these are the powers pertaining to Indra whois so called
+because he creates bodies by means of these powers.
+
+44-45. Ability (to acquire whatever he desires), (2) to
+wander wherever he pleases, (3) to overpower all, (4) to
+perceive all secret things, (5) t> create according to desire,
+(6) to bring others under control, (7) to see things at will, (8)
+to perceive the whole world—these are the powers pertaining
+to the mind in the region of the moon.
+
+46-47. Ability to cut, (2) strike, (3) bind, (4) create
+and (5) destroy, (6) bless, (7) conquer time and (8) death—
+these are the qualities pertaining to the ego in these regions of
+Prajapati.
+
+48-49. The following powers pertain to Brahma—(1)
+creation of the world by mere conception, (2) protection, (3)
+dissolution, (4) exercise of authority, (5) functioning the
+world at will, (6) dissimilarity with all, (7) creating separately
+all visible things and (8) the creatorship of the universe.
+
+50. The power greater than and beyond this is the one
+pertaining to Visnu. It is the source of the power of Brahma.
+It can be understood by Brahma alone and not by others.
+
+51. There is another greater power pertaining to Siva. It
+is not understood even by Vignu. Who else can know lord
+Siva—the pure entity possessed of many qualities.
+
+52. In the course of practising yogic exercises*’ these impe-
+diments in the form of attainments do often take place. The
+impediments should be checked assiduously by complete
+detachment.
+
+53. Knowing that worldly pleasures are highly ruinous, the
+detached yogin should eschew everything without the least
+sense of fear.
+
+54. Absence of desire is, indeed, commendable. It is
+through the absence of yearning for the attainment of powers
+
+56. It refers to the eternal transcendent spirit placed in the twenty-
+seventh category beyond the influence of sattva, rajas and tamas, and re-
+garded as higher than the highest. Cf. a: qcefaarat fier: TTETTAT:
+LL & | 1.77.5!
+
+57- STM —2TaRITHTS ST, The sixtyfour attainments (siddbayah)
+are useful from the materialistic point of view but they are obstacles (upa-
+sargas) to yoga. ~
+
+## Page 48
+
+42 Lidgapurdpa
+
+and it is by complete detachment that the calamities can be
+eschewed.
+
+55. In all the worlds, upto the world of Brahma, onc should
+avoid obstacles. Checking up all desires one should totally
+abandon them. The great lord is delighted thereby.
+
+56-61. When the lord is delighted liberation becomes easy
+to attain, by virtue of complete detachment. In some cases, a
+sage (after getting His grace) may roam about without
+eschewing the Siddhis for the sake of blessing others or for mere
+sport. Then also he can be happy.
+
+In some places leaving the Earth he may sport in the sky
+with splendour; in some places hc may utter the Vedas or their
+subtle meanings succinctly; in some places he may compose
+verses based on the meaning of the vedic passage;.in some
+places he may compose poems in the Dandaka or other meters
+in thousand ways. He may obtain knowledge of the cries of
+beasts and birds. Everything beginning with Brahma and
+ending with the immobile beings may become perceptible to
+him like myrobalan fruit in the palm.
+
+O excellent sages, of what avail is much talk ? Knowledge in
+many ways and forms will risc up within that sage of great
+soul. It is only by practice that perfect knowledge becomes
+pure and stable.
+
+62. The knower of the yoga can perceive thousands of
+images of devas and their splendid aerial chariots. Everything
+can come within the range of his ken.
+
+63. He can see Brahina, Visnu, Indra, Yama, Agni,
+Varuna and other deities. He can see thousands of planets, stars
+and luminaries as well as their regions.
+
+64-65. Entering the state of ecstatic trance he can sce the
+dwellers of nether regions. He can dispel darkness ( = igno-
+rance) by the steady influx of his inmost spiritual light—glowing
+with divine grace and characterized by goodness—which he can
+see within himself.
+
+66-67. No doubt need be entertained that by virtue of
+His grace, one can attain Dharma, riches, knowledge, detach-
+ment and salvation. The details of his grace, one cannot
+describe cven in ten thousands of years. O leading sages, one
+should steadily Adhere to the yoga pertaining to lord Siva.
+
+## Page 49
+
+43
+CHAPTER TEN
+Means of Direct Perception
+Sita said :
+
+1-9. O great brahmins, lord Siva becomes delighted with
+all these persons : those who desire to be liberated, who have
+conquered self, the twice-born, the virtuous, who have attained
+sadhanas, the noble-souled, kind and merciful, the ascetics,
+who have renounced the world, who are detached and endowed
+with perfect knowledge, who have self-control, the three kinds
+of donors, who have subdued senses, who speak truth, who are
+liberal, endowed with yogic practice, conversant with érutis and
+smrtis and<who do not come into clash with the éastric injunc-
+tions. The word ‘sat’ refers to the Brahman. Those who are
+likely to attain Brahma in the end are called liberated. They
+who are neither angry nor delighted in regard to the ten types
+of sensuous objects®® and eight types of means*®® are called
+self-conquerors. ‘The brahmins, ksatriyas and vai$yas are called
+twice-born because they have special consecratory rites. The
+virtuous is the one who has acquired the knowledge of dharma
+explained in Sruti and smrti which is proper for different castes
+and stages of life and which brings about happiness in heaven
+and other worlds. One who acquires learning by serving his
+preceptor is asadhu (among the religious students) . The house-
+holder is also a sadhu when he performs holy rites (ordained
+for him). The forest-dweller becomes a sadhu when he achieves
+penances.
+
+10. The striving ascctic is called a sadhu when he
+achieves yogic power. Thus the persons who achieve Dharma
+relating to ashramas or the various stages of life are called
+sadhus.
+
+11-13. ‘The pcrsons in the different stages of life arc: the
+religious student, the householder, the forest dweller and the
+ascetic. The two words Dharma and Adharma mentioned here
+
+58. daésdtmake vigaye—objects that can be accomplished through
+ten urgans of sense, i.c. five organs of action and five organs of knowledge.
+59- This,group of eight is explained in the preceding chapter.
+
+## Page 50
+
+44 Lingapurana
+
+denote activities. Auspicious activities constitute Dharma and
+inauspicious activities Adharma. The word Dharma is explained
+as that which is great in the task of Dharana (holding up, or
+uplifting) and Adharma (its opposite) as not holding up. In this
+context Dharma is instructed by the preceptors as one that
+takes to what is desired.
+
+14-16. Adharma, as taught by the preceptors, is one that has
+as its fruit what is not desired. ‘] hey call those persons Acaryas
+(preceptors) who are elderly, not greedy and _ self-possessed;
+devoid of arrogance, well disciplined, and straight forward. He
+who practises (Dharma) himself who establishes others in
+dharma and who gathers together the meanings of the scrip-
+tural texts is called acarya. What should be known or what is
+worthy of knowledge is srauta if it is heard and smarta if it is
+remembered.
+
+17-21. Asacrifice when it pertains to Vedas is called srauta,
+and when it pertains to the varnagramas is called smarta. One
+who has found truth and does not hide it when asked for, is called
+an 4carya. Truth, as defined in this purdna, is the statement of
+facts exactly in the manner seen. Tapas (penance) constitutes
+celibacy, silence, observance of fast, abstention from injury of
+all sorts and quiescence. When a person behaves towards all
+living beings like unto himself® both for welfare or otherwise
+that attitude is called kindness. Whatever one has obtained by
+justifiable means, whatever one likes the most, should be given
+to ameritorious person. This is the characteristic feature of the
+charitable gift of the donor. Charitable gift is of three types
+viz.—the lowliest, the highest and the middling.
+
+22-27. The sharing (of possessions) with all living beings,
+out of sympathy is the charitable gift of the middling order.
+The rites laid down by Srutis and Smrtis in regard to persons
+of different stages in life and castes constitute dharma. Dharma
+that does not come into clash with theconduct ofthe persons of
+disciplined life is held to be righteous. —
+
+That person is glorified as one of auspicious soul who eschews
+the fruits of his illusive activities.
+
+One who has refrained from all attachments is glorified as a
+
+60. This ethical code places this cult at par with universal religion.
+
+## Page 51
+
+Means of Direct Perception 45
+
+Yogin. He who ponders over the risks involved in sensual plea-
+sures and remains unattached to them even though pressed
+importunately from all round is called self-controlled.
+
+The characteristic feature of perfect control constitutes the
+fact that sense organs do not function falsely or improperly
+whether for one’s sake or for others.
+
+The following is the detached state:—The person is not
+excited when calamities occur nor is he overjoyed when he has
+pleasant results. Absolute cessation of joyousness, affliction and
+despondency is detachment.
+
+Renunciation of the fruits of all activities committed or
+omitted is called Sannyasa.
+
+28-31. The eschewal of both joy and misery is called
+Nyasa. All created things from the unmanifest to the manifest
+gross elements are insentient. Perfect Knowledge is_ the
+discrimination between the sentient and the insentient. Lord
+Siva, no doubt, bestows his grace on him who is endowed
+with such perfect knowledge. So also dharma bestows grace.
+Yet I shall tell you a great secret. One who is endowed with
+devotion to the lord is undoubtedly liberated. It is certain that
+lord Siva checks the different sorts: of delusion of the devotee
+and is delighted with him even if he (the devotee) lacks full
+accomplishments for yoga.
+
+32-37. Perfect knowledge, teaching of the Vedas, offerings
+to the gods, ineditation, sacrifices, penance, charitable gifts,
+study of the Vedas, all these undoubtedly contribute to the
+devotion of Lord Siva. O excellent sages, devotion results
+from thousands of Candrayanas,*! hundreds of Prajapatyas,**
+monthly fasts and other holy rites. Those who lack in devotion
+to the lord fall into a mountain cave and undergo the results
+
+61. Candrayana : Cf. Yajfiavalkya 3. 324 et seq; Manu 11.217. It
+is a religious observance or expiatory penance regulated by the period of the
+moon’s waxing and waning. Herein the daily quantity of food consisting
+of fifteen mouthfuls at the full moon is diminished by one mouthful every
+day during the dark fortnight till it is increased in like manner during the
+bright fortnight.
+
+62. Prajapatya : It is a religious fast or penance. Hercin onc shall
+take food for three days in the morning, for three days in the evening, and
+thereafter shall abstain from food for three days.
+
+## Page 52
+
+46 Liigapurdna
+
+of their karman.** A devotee is liberated through his devotional
+emotion. O brahmins, there is no doubt in this that heavenly
+pleasures are not difficult of access even to ordinary men, by
+the mere sight of the devotee; what doubt then in regard to
+the devotee. It is only through devotion that Brahma, Visnu,
+gods, sages, and others stabilise themselves and attain strength
+and fortune. This has been stated by the lord himself while
+addressing Uma.
+
+38-41. O brahmins, these words were spoken by the lord to
+the goddess Uma at Varanasi, in the Avimuktaka® region
+While the lord was sitting with her, she addressed him thus:
+“O great lord how can you be realised and worshipped. O
+Lord, tell me, is it by penance, or Jearning, or yoga ?
+
+Sita said:
+
+On hearing her words and looking at her with a face
+resembling the full moon the lord with the crescent moon for
+his ornament laughed boisterously and recollected what had
+been formerly mentioned by Mena, the consort of the
+Himalaya when she saw that her daughter had overstayed there.
+
+42-47 The lord said: ““O gentle lady, O sportful one, now
+that you have obtained a beautiful city for your abode, do you
+forget what was mentioned by your mother in regard to the
+selection of a site for abode. O foremost among those who ask
+questions, formerly I was asked by Brahma in the same
+manner as I have been asked by you. O splendid lady, in the
+Sveta kalpa, Brahma saw me in the white colour as Sadyojata;
+in the Raktakalpa in the red colour as Vamadeva; in the
+Pitakalpa in the yellow colour as Tatpurusa; in the Aghora-
+kalpa in the black colour as f§vara; in the Visvaripa kalpa as
+the multi-coloured Igina. Then hc said to me: O Vama, O
+
+63. MTA —ATAIT TAT ST. in expectation of en-
+joying the objects of senses.
+
+64. Avimukta—same as K4éi (Mbh. III. Ch. 84. 79-8; Visnu 5.34.
+go, 54; Matsya 180.54, 94 ff; Vayu. 106. 69). For detail, vide P. V. Kane,
+History of Dharmaéastra (Vol. iv. pp. 618-642). But in the Kali age it
+has lost its original form. Cf. Brahminda 2.3.67, 60-64. It is called Avimukta
+or Avimuktaka, for it is the permanent abode of Siva (1.92.45-46) :
+
+Faget TAIT TENA AT HATTA |
+
+wa atufae werrefagertate aay i
+
+## Page 53
+
+Sadyojdta 47
+
+Tatpurusa, O, Aghora, O Sadyojataé, O Mahefvara, O lord
+of Devas,O great lord, you have been seen by me along with
+Gayatri. O great lord, by what means and by whom can you be
+controlled ? O storehouse of mercy, wherein are you to be
+meditated upon ?”’
+
+48-53 “O lord, how can we see you along with the
+goddess ? How can we worship you. It behoves you to recount
+it.”
+
+The lord said to the goddess :
+
+I said (then to Brahma), ‘O lotus-born one, I can be
+controlled by faith alone. I am to be meditated upon in the
+Linga which both you and Vigsnu beheld in the ocean. I am to
+be adored by the twice-born in the form of the five-taced deity
+with the five-syllabled mantra. O preceptor of the universe, born
+of the cosmic egg, I have been seen by you to day by virtue of
+your devotion to me.’ He (Brahma) then asked me to create
+in him a feeling of further devotion which I readily granted.
+O goddess, with that increased devotion he saw me clearly in
+his heart. I declare that I am subject to control by means of
+devotion alone. I can indeed be seen thereby, O daughter of
+the Himalaya ! And, indeed, | am always to be worshipped in
+the linga by the brahmins full of faith. Faith is the greatest and
+the subtlest virtue. It is perfect knowledge and sacrifice; it is
+penance, heaven and liberation. I am always seen through
+faith.
+
+CHAPTER ELEVEN
+Sadyajata
+The sages said :
+
+1-2 How did Brahmé see the great lord as Sadyojata,
+Vamadeva, Tatpuruga, Aghora and Is4na? It behoves you to
+recount it precisely.
+
+## Page 54
+
+48 Ligapurdna
+
+Sta said :
+
+The twentyninth kalpa should be known as évetalohita.
+
+3. In that (kalpa) when Brahma was pursuing intense
+meditation a son with tuft was born unto him. He was
+called Svetalohita
+
+4-5. On seeing that Purusa, the glorious lord Brahma
+with faces all round, thought of the noble-souled lord in the
+form of Brahman. Brahma retained Sadyojata in the heart and
+became engaged in meditation. After realising the greatest being
+through meditation Brahmi, the lord of Devas, saluted him.
+
+6-7. Brahma contemplated again over Sadyojata. There-
+upon from his sides were born Svetas (white ones) of great
+fame, viz. Sunanda, Nandana, Visvananda and Upanandana;
+these noble-souled ones were thedisciplesof Brahma by whom
+he was always surrounded.
+
+8. In front of him the sage Sveta, glittering in his white
+colour, was born, Then there was born Hara of great splendour.
+
+9-11. There all the sages resorted to the great lord Sadyojata
+with perfect devotion. They praised the eternal Brahman.
+Hence all those persons O brahmins, who resort to lord Visve: -
+vara after being engrossed in breath-control and mentally
+devoted to Brahman, become liberated from sins, They will
+have the splendour of brahman and be free from impulses.
+They will go beyond Vignu’s abode and enter Rudra’s
+world.
+
+CHAPTER TWELVE
+Glory of Vamadeva
+Sita said:
+
+1. Thereafter the thirtieth kalpa is called Rakta. In this
+kalpa, Brahma of great splendour had the red colour.
+
+2-5. Even as Brahmé desirous of a son was meditating,
+a boy of great splendour menifested himself : He was adorned in
+red ‘ornaments. He wore red garlands and clothes. His eyes
+
+## Page 55
+
+Sadyojata 49
+
+were red. He was valorous. On seeing that noble boy in red
+clothes, Brahma resorted to great meditation and understood him
+to be great Lord. Brahma, of self control bowed to Vamadeva.
+and contemplated on him. Thus eulogised by Brahma, the
+supreme lord Siva was delighted at heart. He addressed
+Brahma thus.
+
+6-9. ‘Since, O Brahma, I have been seen by you medita-
+ting on me with the desire for a son, with great devotion, and
+since I waseulogized with the mantra beginning with ‘“‘brahmane
+Vamadevaya” you will attain the strength of meditation and
+will realize me as Isvara, the assiduous creator of the worlds,
+in every kalpa. Thercafter four sons were born to him who
+were as pure and splendid as brahman. They were named as
+Virajas, Vibahu, Visoka and Visvabhavana.
+
+10. They were pious and on a par with Brahma. They were
+heroic and enterprising. They wore red garments and red gar-
+lands and applied red unguents.
+
+11-13. Their bodies were smeared with red saffron; they had
+applied red ashes over their bodies. At the end of a thousand
+years they re-entered the great eternal lord. In the mean-
+time they attempted to realize brahman. For blessing the worlds
+and with a desire for the welfare of their disciples they imparted
+instructions in dharma and became favourites of Brahma.
+Ultimately, at the end of a thousand years, they re-entered the
+great lord.
+
+14-15. Allother brahmins who practise yoga and repeat
+the sacred formula ‘namo brahmane Vamadevaya’® and who are
+devoted to him as their greatest resort are liberated from sins.
+They become devoid of impurities and they attain the strength
+of Brahman. They achieve the blessed region (rudraloka)
+whence there is no return to this (mortal) world.
+
+65. Vamadeva form is represented by the back-face of Siva. In
+Hindu Mythology God Siva has five faces named [idna, Tatpuruga,
+Aghora, Vamadeva and Sadyojéta, representing the five elements:
+ether, air, fire, water and earth. Of. part II. ch. 14. A statue of Siva
+in the Elephanta caves represents this form in which the frontal view depicts
+three heads only, the fourth one on the back is concealed from view and the
+fifth one on the tep is dropped out as the symbol of invisible ether.
+
+## Page 56
+
+50 Lingapurdna
+CHAPTER THIRTEEN
+
+Glory of Tatpurusa
+Sita said:
+
+1, The thirty first kalpa is known as Pitavasas. Therein,
+the blessed Brahma was clad in yellow garbs.
+
+2. Even as Brahma desirous of a son was meditating, a boy
+of great splendour, wearing yellow robes, appeared before.
+
+3. He wasayouth with the body smeared with yellow
+scents. He wore yellow garlands and dress. He had long arms,
+a golden sacred thread and yellow turban.
+
+4. On seeing him, Brahma, endowed with meditation men-
+tally resorted to and sought refuge in the overlord, the creator
+of the worlds.
+
+5. Thereafter Brahma went on meditation. He saw the
+excellent cow of the great lord. In her universal form it had
+come out of his mouth.
+
+6. It had four feet, four faces, four hands, four udders,
+four eyes, four horns, four teeth and four mouths.
+
+7-10. The cow was goddess herself who had faces all round
+and who possessed thirtytwo qualities. On seeing the great
+goddess in the form of the cow, the great lord who is wor-
+shipped by all devas said again repeating the words : ‘O great
+goddess, symbol of intellect and memory, comeon, come on.’
+{Thus addressed] she joined her palms in reverence to the lord
+and stood there. Then the lord of devas spoke to her. [O
+goddess,] enveloping the universe by your yogic power you
+should keep it under your control. You will be Uma for the
+welfare of the brahmins and for the attainment of their goal
+(of liberation) .
+
+11. The lord of devas, the preceptor of the universe gave
+her to Brahma who was meditating on the lord for obtaining
+a son.
+
+12. By practising meditation Brahma realized that she was
+the great goddess and he accepted her from the preceptor of
+the worlds.
+
+13-14. After meditating on Gayatri pertaining to Rudra
+Brahma became self-controlled. By performing the japa of
+Rudra-Gayatri as instructed by the lord and realizing that it
+
+## Page 57
+
+Origin of Aghora 51
+
+was Vedic knowledge, Brahma who is worshipped by the whole
+world, resorted to the great lord with his mind fixed in
+meditation.
+
+15. The lord then granted him a divine yoga, great
+learning, riches and glory, wealth of knowledge and detach-
+ment.
+
+16-21. Thereafter from his sides there emerged divine
+sons who wore yellow garlands, yellow garbs, yellow necklaces.
+They had yellow unguents on their bodies and yellow turbans
+on their heads. Their faces and hair were all yellow. For a
+period of thousand years, these persons of great power and
+splendour who were devoid of impurities spent their time for the
+welfare of brahmins. They were yogic souls delighting in penan-
+ces. They were endowed with virtue and power of yoga. They
+instructed the sages engaged in long sacrifices in the system
+of great yoga and (finally) entered the body of the lord. Thus
+others too who seek refuge in him in this manner, who have
+restrained their souls, who have- conquered the sense organs
+and who are engaged in meditation will become sinless. They
+will have the splendour of Brahman and be free from
+impurities. They will enter Rudra the great lord and be relea-
+sed from re-birth.
+
+CHAPTER FOURTEEN
+Origin of Aghora
+
+Sita said:
+
+1-2. When the kalpa of yellow colour passed by and an-
+other of the self-born lord was ushered in by the name of Asita
+and when the universe became a vast sheet of water®* and a
+thousand years by the divine reckoning passed by, Brahma be-
+came desirous of creating the subjects. He was dejected and
+began to ponder.
+
+3. Even as he was meditating with the desire for a son,
+his colour was changed into black.
+
+66. See note 23 0n p. 15.
+
+## Page 58
+
+52 Lingapurdaa
+
+4-6. Thereupon he, the lord of great splendour, saw a
+boy fn front of him. He had black colour but he was refulgent
+with his brilliance. He had great prowess. He wore black gar-
+ments, black turban, black sacred thread, black crown and black
+garlands. He had black unguents on his body. On seeing this
+noble-souled Aghora of terrible exploits, Brahma saluted the
+miraculous lord who had the black and tawny colour.
+
+7-10. | Then the glorious lord Brahma became engaged
+in Pranayama. He thought of the supreme lord Siva within his
+heart. With his mind engaged in meditation he resorted to
+lord Aghora. He contemplated on him in the form of Brahman.
+When Brahma was meditating thus, lord Aghora of terrible
+exploits granted him vision. Thereupon four noble sons appeared
+from his sides. They were black in colour and they wore black
+garlands and unguents. They were Krsna, Krsnagikha,
+Krgnasya, and Krgnavastradhrk.
+
+11-13. By resorting to yoga they adored the great lord for
+a thousand years. They imparted instruction in supreme yoga to
+their disciples. By resorting to yoga these persons, endowed with
+yogic powers, thought on Siva. They entered the region of lord
+Siva, the region devoid of impurities and free from attributes.
+Those others too, who contemplate on him by resorting to yoga
+can go unto the region of that eternal lord.
+
+CHAPTER FIFTEEN
+Glory of Aghoresa
+Silla said :
+
+1. When the terrible kalpa of black colour passed by,
+Brahm eulogised the supreme lord in the form of Aghora.
+
+9-6. Thereafter the delighted lord Aghora blessed Brahm&
+and said to him: “Do not doubt that I, assuming this form,
+destroy all kinds of sin, including the terrible sin of brahmin
+slaughter. O blessed one, O deity of virtuous sacred rites, I
+destroy all minor and major sins of small or great power and
+
+## Page 59
+
+Glory of Aghoresa 53
+
+poignancy. O Brahmi, I destroy verbal, physical, mixed and
+incidental sins committed wantonly and consciously. I dispel
+the natural and adventitious sins inherited from either parent.
+O lord, do not doubt that I destroy all miseries originating
+from sins.
+
+7-13. O lord, by repeating one hundred thousand times
+the mantras of Aghora, even a brahmin-slayer is liberated
+from sins. O dear, for verbal sins half of this number is recom-
+mended. For mental sins, half of the previous number. If the
+sin is committed consciously the japa shall be four times
+that number. If the sin is committed out of fury, eight times
+that number. A slayer of a hero shall repeat the mantra a
+hundred thousand times; the destroyer of a child in the womb
+acrore times; a matricide a hundred thousand times; a
+destroyer of cows and women or an ungrateful wretch by repeat-
+ing ten thousand times; a willing or unwilling drinker of
+liquor by repeating a hundred thousand times or half that
+number and the partaker of meals before taking bath a thou-
+sand times. The brahmin who abstains from japa or who takes
+meals before performing the daily sacrifice or abstains from
+giving charity should repeat this mantra a thousand times.
+The base man who steals the property of a brahmin or who
+steals gold is released from sin by repeating this mantra
+mentally a hundred thousand times. A person defiling the
+preceptor’s bed or slaying his own mother ora brahmin shall
+repeat this mantra mentally the same number of times, O
+Brahma.
+
+14-17. The sin resulting from contact with the sinner
+is equal to the sin of the original sinner. Still by repeating the
+mantra ten thousand times he is liberated from sin. The person
+imbibing sin by the contact with the sinner shall repeat the
+mantra a hundred thousand times if done mentally; if done in
+low tones four times that number ; if in high tones eight times
+that number. It is enjoined that persons guilty of subsidiary
+sins need repeat the mantra only half the number enjoined for
+the main sinner; half that number if the sin is committed
+unconsciously. O brahmins, if a brahmin sinner commits the
+sin of brahmin slaughter, liquor drinking, theft of gold or
+defiling the preceptor’s bed he should do as follows:
+
+## Page 60
+
++4 Lingapuriga
+
+18-22. He should gather together (i) urine of a tawny
+coloured cow repeating Rudra-Gayatri,® (ii) freshly laid dung
+of the same or similar cow repeating the mantra Gandhadvara,“
+(iiij) ghee made from a similar cow repeating the mantra
+Tejosi gSukram,® (iv) milk from the same or similar cow repeat-
+ing the mantra ‘Apydyasva’? and (5) fresh curds made from
+the milk of the same or similar cow repeating the mantra
+Dadhikrana.7! To this mixture water taken with a tuft of
+kuga grass should be added by repeating the mantra Devasya
+tva,”* and the mixture should be well stirred in a vessel made
+of gold, silver or copper, or in a cup made of lotus or palaéa
+leaf, repeating the aghora mantra. In this vessel he should place
+(different) gems and a piece of gold along with a tuft of kuéa
+grass.
+
+23-26. He should repeat the mantra of Aghora a hundred
+thousand times and perform homa with ghee, cooked rice,
+sacrificial twigs, gingelly seeds, barley grains and unhusked
+gtains. He should perform homa, seven times separately with
+each one of these materials. Ifthe materials are not available he
+should perform homa with ghee alone. O brahmins, he should
+perform homas as well as ablution for the lord with ghee while
+repeating the Aghora Mantra. He should bathe the lord with
+eight drona”* measures of ghee and wipe it off. He should then
+observe fast for a whole day and night, take holy bath and
+drink kirca before the image of Siva. After performing the
+rite of Acamana he should repeat Gayatri.
+
+27-32. By performing this the following sinners become libe-
+rated form sins:—an ungrateful person, a slayer of brahmin, a
+destroyer of a child in the womb, a murderer of a warrior, a slayer
+of preceptor, a betrayer of faith, a thief, a gold-stealer, a defiler
+of the preceptor’s bed, a liquor-addict, a paramour, a low-caste
+woman, a ravisher of other men’s wives, a destroyer of brahmin’s
+property, a cow-killer, a matricide, a patricide, an idol-breaker
+
+67. Rudra-Giyatri : TA I. 10.5 : ‘tatpurugdya dhimahi tanno rudrah
+
+pra codayit.
+68. TA. 10.1.10; Mahan. U. 4.8.
+69. VS. 22.1.
+
+90. VS. 12.114; TA, 3.17.1.
+
+71. VS. 23.92; TS. 1.5.11.4
+
+ja. VS. 2.11; TS. 2.6.8.7.
+
+73. Itisa measure of four Adhakas equal to 1024 muftis.
+
+## Page 61
+
+Glory of Itaéna 55
+
+and particularly the person who destroys linga images. If one
+who commits these sins is a brahmin, no matter if his sins are
+mental, verbal, physical or of any other type, even if he
+commits these a thousand times he is liberated from these
+by performing the aforesaid rites. Even if the sins are accumu-
+lated in hundreds of births he is liberated. This secret has been
+divulged by me in the context of lord Aghora. Hence a brahmin
+shall repeat the Aghora mantra perpetually for the expiation
+of sins.
+
+CHAPTER SIXTEEN
+Glory of Isana
+
+Sita said:
+
+1. O leading sages, there was a kalpa of Brahma known
+as Visvariipa. It was exceedingly wonderful.
+
+2-7. When the period of dissolution passed by, when again
+the universe of mobile and immobile beings came into existence
+Brahma began to meditate with a desire for sons. Then
+Sarasvati of universal form and loud sound manifested herself.
+The universe constituted her garlands, garments, sacred thread
+and turban. The mother of the universe with all universal
+scents and long lips manifested herself. Brahma meditated on
+lord Igana resembling pure crystal and bedecked in all orna-
+ments. With concentrated mind, Brahm4 paid homage to Isana,
+the omnipresent lord of all—Om O [éana, O Mahadeva,
+obeisance be to you. O lord of all learning, obeisance be to you.
+O lord, with the bull as your conveyance, obeisance be to you.
+O lord of living beings, obeisance be to you.
+
+8. O overlord of Brahm, obeisance be to you. Obeisance
+to Brahman in the form of Brahma. Obeisance to the overlord
+of Brahma. O Sadaéiva, may auspiciousness befall me.
+
+9. O lord representing omkara in a physical form, O lord of
+devas, O Sadyojata, obeisance be to you. I resort to you. I have
+resorted to Sadyojata. Obeisance to Sadyojata.
+
+## Page 62
+
+56 Lingapurdga
+
+10. Obeisance to you, the unborn, the source of birth and
+who are not beyond the worldly existence. O Bhava, O Isana,
+O source of the worlds, O deity of great lustre, bless me.
+
+11. O Vamadeva, obeisance to you, the eldest being, the
+granter of boons. Obeisance to Rudra, Kala the reckoner of
+time.
+
+12. Obeisance to the lord as the mind, to the lord black
+in colour, to the lord as a religious student, to the lord as the
+strength of the strong and to the lord devoid of organs and
+their function.
+
+13. Obeisance to the suppressor of Bala, to the strong, of
+the form of Brahman. Obeisance to the overlord, the suppressor
+of living beings.
+
+14, QObeisance to the lord the impeller of the mind,
+obeisance to the lord of great lustre, obeisance to the refulgent
+Vamadeva and to the supreme soul.
+
+15. Obeisance to the eldest and the greatest ; obeisance to
+Rudra the bestower of boons. Obeisance to you the slayer of
+Kala. Obeisance to you possessed of the noble soul.
+
+16. With this prayer he bowed to the lord of Devas, to the
+God with the Bull as his emblem. He who reads this narrative
+even once becomes entitled to the world of Brahma.
+
+17-23. He who narrates this to the brahmins at the time of
+Sraddha attains the greatest goal. When Brahma thus paid
+homage to him, lord Siva spoke: “I am delighted with you.
+What favour do you seek from me ?”
+
+Then Brahma who bowed to the delighted Rudra said with
+a delighted mind in clear words: know O lord, I wish to see
+this universal form of yours. Here is the universal cow’
+Goddess of welfare. Who is she possessed of four feet, four faces,
+four horns, four mouths, four curved fangs, four udders, four
+hands and four eyes? How is she known as Vidvaripa (of
+universal forms) ? What is her name? What is her lineage ?
+To whom does she belong ? What is her power of action ?” On
+hearing his words the bull-bannered lord Isana addressed
+Brahmi the best of Devas, born of himself, in words full of
+
+. 74. Viévagauh : She is identical with Prakyti or Pradhina. Com-
+prising thirty two qualities she is described as the source of this universe. See
+below, verses 29-35.
+
+## Page 63
+
+Glory of Isdna 57
+
+the secret of all mantras which being pious are conducive to
+prosperity.
+
+24-25. Listen to a great secret. As in the first creation, the
+kalpa that is current now is known as Vifvaripa. O lord
+(Brahma) there is the region of Brahma which you have
+attained. O lord ! beyond that region there is an auspicious
+region occupied by Visnu born of my left limb. Since that
+time, this the thirtythird kalpa has begun.
+
+27. O lord of Devas possessed of great intellect, before you,
+hundreds and hundred thousands of Brahmas have passed
+away. Now listen.
+
+28. You who are a devotee of the spiritual lineage of
+Mandavya have attained the state of my son by practising
+penance. Stabilised in bliss you can realize the supreme bliss.
+
+29-31. Olord, you are characterized by the following
+qualities: (1) Yoga, (2) Sankhya, (3) penance, (4) learning
+(5) Sastric injunctions, (6) holy rites (7) pleasant speech,
+(8) truth, (9) mercifulness, (10) Vedic knowledge, (11) non-
+violence, (12) wisdom, (13) forbearance, (14) meditation,
+(15) proximity with the lord, (16)control of the senses, ‘17)
+quiescence, (18) intelligence, (19) illusion, (20) intellect, (21)
+fortitude, (22) splendour, (23) ethics, (24) fame, (25) intelli-
+gence, (26) modesty, (27) vision, (28) auspicious speech,
+(29) satistaction, (30) skill in the exercise of sense-organs, (31)
+performance of Vedic rites, and (32) pleasure. While she, the
+goddess, has these thirtytwo qualities recognizable in her
+appellation of thirtytwo syllables.
+
+32-34. O Brahmi, the goddess Prakyti, the source of your
+origin has been created by me. She is the overlord of Visnu
+and other gods. She is my progeny. Philosophers call her by
+various names, the four-faced deity, the origin of the universe,
+primordial nature, cow or speech, Gauri, Maya, Vidya, Krsna,
+Haimavati, Pradhana or Prakrti.
+
+35-39. She alone is unborn.” She is red, white and black in
+colour; She creates subjects in the universe that are of the form
+as she herself. I am unborn, know me to be omnipresent and
+know her to be Gayatri of universal form.
+
+75. TA.10.1; Mahan. U. 9.2, Svet. U 4.5.
+
+## Page 64
+
+58 Litigapuriga
+
+After saying this, the lord created four sons. They were boys
+of all forms, who stood beside the Goddess. They were known
+Jati Mundi, Sikhandi Ardhamunda. Resorting to the yaugic
+practices they of great splendour worshipped the lord. They carri-
+ed out their task of instruction in dharma. They followed the
+path of yogic practice. These controlled souls of good conduct
+entered lord Rudra at the end of a thousand divine years.
+
+CHAPTER SEVENTEEN
+Origin of the Linga
+
+Sita said :—
+
+1-5. Thus the origin of Sadyojata has been succinctly
+narrated. He who reads or listens to or narrates this to excel-
+lent brahmins attains identity with brahman by the grace of the
+supreme lord.
+
+The sages satd :
+
+How did Linga originate ? How should lord be propitiated
+in Linga ? What is this Linga ? What its substratum ? O Sita,
+you should narrate all this to us.
+
+Romaharsana said:
+
+Formerly, Devas and Sages had, in reverence, asked Brahma
+thus : “O lord, how did Linga originate by itself ? How should
+lord Rudra be worshipped in the Linga. What is Linga? What
+its substratum ?
+
+Brahmé said :
+
+Pradhana is Linga and lord Siva is its substratum.
+
+6-13. O excellent Devas, it was for us both—Vigsnu and
+myself that Linga manifested itself in the ocean. It was when
+the aerial charioteers had gone to the Janaloka together with
+the Sages and when the period of sustenance being over the
+creation was withdrawn and when at the end of a thousand
+sets of four yugas, they had gone to Satyaloka and in the end,
+except their overlords, had attained identity with me, then all
+
+## Page 65
+
+Origin of the Linga 59
+
+immobile beings had dried up due to all-round drought and
+other beings like men, animals, Pig4cas, Raksasas, Gandharvas
+including plant life were scorched to death by the rays of the
+Sun. Everything was a single vast sheet of water. It was terribly
+dark all round. In that vast sheet of water, the lord devoid of
+impurities and free from calamities had gone to sleep. He had
+a thousand heads,” a thousand eyes, a thousand feet and a
+thousand arms. He, the universal soul, omniscient, the source
+of origin of all, was characterized by the qualities of rajas, tamas
+and sattva in the form of Brahm4, Rudra and Visnu. He was
+omnipresent and the supreme lord in view of his being the
+soul of all. He was in the form of Kala with K4la in his umbi-
+licus. He was white, black, pure, of huge arms, the soul of all
+and identical with Being and non-Being.
+
+14. On seeing the lotus-eyed deity lying thus, I was
+deluded by his mdyd. I asked him angrily :
+
+15-16. Who are you? Tell me. Then with my hand I
+raised up the eternal lord. Due to the severe and firm blow of
+my harids he woke up from sleep and sat in his serpent couch.’”
+Within a moment he regained control of himself and with his
+lotus-like bleary eyes he looked at me.
+
+17. Enveloped that he was by a halo of brilliance he spoke
+to me as I stood before him. He got up from bed and laughing
+awhile addressed me sweetly.
+
+18-32. ‘I welcome you, O dear Brahma of great bril-
+liance.” O leading Devas, when I heard his words uttered
+smilingly my arrogance was provoked by rajas and I spoke to
+him thus: “With smiles within, you call me by the appellation
+‘Dear’ (as if I were inferior to you). But know that I am the
+cause of creation and annihilation of the universe. O sinless one,
+you address me as apreceptor would address his disciple. But
+I am the creator of the universe, the promptor of Prakrti, the
+eternal, unborn Brahma, the origin and soul of the universe. I
+am the lotus-eyed lord. Now tell me quickly why you speak
+thus in utter delusion.
+
+76. RV. X. go. 1.
+
+77- In Hindu Mythology Vignu is represented as reclining on the
+serpent Sega. A vivid picture of Segaéiyi Vigpu is depicted on the outer
+wall of the Dagivitira temple at Deogarh.
+
+## Page 66
+
+60 Lingapurdga
+
+He then replied to me—‘See for yourself that I am the
+creator, sustainer and destroyer of the universe. You are born
+of my eternal body. You forget that I am the lord of Universe,
+the Supreme soul invoked and culogised. I am Vignu, Acyuta,
+Tgana, the origin of the universe. It is not your fault that you
+have forgotten me. This has been effected by me through my
+maya. Listen to the truth, O four-faced’® deity. Indeed, I am
+the lord of all devas. Iam the creator, leader and destroyer.
+There is no other lord like me. I alone am the Supreme
+Brahman. O Brahma, I am the greatest principle, the greatest
+luminary, the supreme soul. O four-faced lord, whatever is seen
+or heard in this universe—the mobile and immobile, is
+identical with me and permeated by me. Formerly the unmani-
+fest pradhana the twenty-fourth principle” from the gross to
+the indestructible atom was created by me. Out of fury were
+Rudra and others created. Outof joy and sport you were born as
+also the Cosmos: Intellect, the threefold® ego, subtle elements
+sense-organs including the mind; and gross elements were also
+created by me.
+
+As he finished his speech, a terrible, thrilling fight ensued
+between us. In the middle of that ocean of dissolution we were
+engaged in fight, instigated by rajas.
+
+33. In the meantime a brilliant Linga appeared in front of
+us in order to suppress our dispute and enlighten us.
+
+34. It had thousands of clusters of flames. It was comparable
+to hundreds of (all-consuming fires). It was stable, with no
+decline or increase. It had neither a beginning nor an end nor
+a middle.
+
+35. It was incomparable, inexplicable, and indistinct. It was
+
+78. Brahmi is four-faced (Caturmukha). It is stated that originally
+he had five heads but one was cut off by Siva for telling a lie. According to
+another version, the fifth head was burnt off by the fire of Siva’s eye for
+speaking disrespectfully of Siva, We read in the Satarudra sarhhitd that
+it was Kalabhairava, a terrible form of Siva who cut off the fifth head.
+Visnu Purina (ch.8) however gives a different version. It states that
+Bhairava attempted to cut off the fifth head of Brahm4 at the instance of
+Siva but gave up the attempt when Siva intervened at the behest of Visnu.
+
+79. It refers to the invisible (avyakta) Pradhina, the twentyfourth
+category in Sdrhkhya philosophy.
+
+80. Aharhkira (ego) is threefold : sittvika, rijasa and timasa.
+
+## Page 67
+
+Origin of the Liga 61
+
+the source of the universe. Lord Viggu was deluded by its
+thousand flames.
+
+36. I too was deluded. Then Vignu said to me—‘‘Let us test
+this fiery Being. I shall go to the root of this incomparable
+column of fire.
+
+37-38. You should go up assiduously”. After saying this,
+Visnu assumed the form of a boar. O Devas, I assumed the
+form of a swan. Ever since they call me harsa (swan) or
+Virat harmsa (cosmic swan).
+
+39-43. Hewho repeatedly calls me swan, shall himself
+become a swan of bright and white colour, with fiery eyes and
+feathers. O gods | I assumed the speed of the wind and _ the
+mind and went higher and higher. Visnu the all-pervading soul
+assumed the form of a black boar and went lower and lower.
+The boar looked like a heap of blue collyrium. It was a hund-
+red Yojanas in length, ten Yojanas in girth. Its body was huge
+as the mount Meru. It had white and curved teeth. It had
+the refulgence of all-consuming sun with long snout and loud
+grunt. Its legs were short and its body of diverse colours. It was
+victorious, firm and incomparable. Assuming this form of a
+black boar, Vignu went lower and lower, hurriedly, for a period
+of one thousand years.
+
+44. Still he could not reach the root of the Linga. O des-
+troyer of enemies, throughout that period of time I was going
+higher and higher.
+
+45. I hurried up my efforts to see the end of that Linga.
+I was tired. Arrogant that I was I could not see the end and
+returned to the place of my start.
+
+46. Similarly, Lord Visnu was also tired. His fear was
+evident in his eyes. He, the origin of all Devas, immediately
+came up there
+
+47, We bowed to lord Siva. The noble-minded Visnu was
+deluded by Siva’s May4 and he stood there in mental dejection.
+
+48. We bowed to lord Siva at the sides, behind and in front
+and wondered what that was.
+
+49. O great Devas ! then a loud sound Om®! issued (out
+of the column), It was clearly a prolated sound.
+
+8:1. Om is a mystic syllable consisting of three sounds a, u, m. It
+is the object of profound religious meditation. The highest spiritual efficacy
+is attributed not only to the whole word but also to each sound separately,
+
+## Page 68
+
+62 Lingapurdna
+
+50-51. Thinking what it could be, Visnu stood there together
+with me. Then he saw the eternal first letter ‘a’ on the right
+hand side of the Linga; then on the left the letter ‘u’; there-
+after, the letter ‘m’ in the middle and the vibratory tone in
+the end. That tone was ‘Om’.
+
+52-55. Visnu saw the first syllable ‘a’ in the south, like the
+disc of the sun, the second syllable ‘u’ as refulgent as fire in the
+north, the third ‘m’ in the middle as refulgent as the sphere of
+the moon; above it, he saw the lord like the pure crystal. It was
+the fourth entity, devoid of attributes, nectarine, unsullied,
+undisturbed, devoid of mutually clashing opposites, unique, void,
+without an exterior or interior but still endowed with exterior
+and interior, as it was stationed both without and within. It was
+devoid of beginning, middle and end, it was the cause of
+bliss.
+
+56-62. The three matraés and half a matra called nada,
+together constitute Brahman. The three Vedas Rk, Yajus and
+Saman are in the form of the three matras. Visnu contemplat-
+ed on Siva, the universal soul, through the words of the Vedas.
+The Vedas became a sage. Visnu understood the glorious
+essence of the Vedas—the supreme lord through that sage
+alone.
+
+Brahma said :
+
+Rudra is free from anxieties and worries. Speech recede:
+along with the mind being unable to attain him. He is ex
+pressible through the single syllable (om) **, which is the Divin
+order, the supreme cause, truth, bliss, nectar, the suprem:
+Brahman, greater than the greatest. Out of that single syllabl:
+‘om’, the syllable ‘a’ is Brahm4; ‘u’ Visnu, and ‘m’ is Rudra
+‘a’ is the cause of creation, ‘u’ of illusion and ‘m’ of bliss.
+
+63-65. The syllable ‘m’ is the sower, ‘a’ is the seed and ‘u
+is the womb. The three symbolise the lord, Pradhanaand Purusa
+Thus the sower, the seed and the womb, together with nada,
+
+82. Om is a symbol of Brahma : Cf. Yogasdtra : ‘tasya vicakah pra-
+navah’. In later times it came to represent the Hindu triad, viz., a(Visnu),
+u (Siva), m (Brahm4). But this order is not followed in some Purdyas.
+For instance, according to Linga ‘a’ represents Brahm4, ‘u’ Vignu and ‘m,
+Rudra.
+
+## Page 69
+
+Origin of the Liriga 68
+
+constitute lord Siva. The sower divided itself out of his own
+free will. Out of the linga of the lord the sower created the seed
+‘a’ which he discharged into the womb ‘u’ where it increased all
+round.
+
+66. It turned into a golden egg enveloping the first letter
+‘a’, This divine egg was ensconced in the water for many
+years.
+
+67-68. Then at the end of a thousand years the egg that
+had evolved out of the unborn and stationed in the waters was
+split into two by the primeval lord himself. The splendid
+golden skull of the egg became heaven and the base became
+the earth.
+
+69. From the egg the four-faced Brahma was born. He is
+the creator of the universe, the lord of three forms.
+
+70-72. The wise exponents of Yajus say that Om is Brah-
+man. The Rk and Saman Srutis too have declared similarly. On
+the lord of Devas precisely we meditated and we eculogised him
+by reciting the Vedic mantras. Delighted by our eulogy the
+unsullied lord delightfully stationed himself into the divine
+Linga after assuming the form of sound.
+
+73-82. The letter ‘a’ was his head; ‘a’ the forehead; ‘i’ the
+right eye; ‘i’ the left eye; ‘u’ the right ear; & the left ear; ‘y’ the
+right cheek; 7 the left cheek, ‘Ir’ and ‘lz’ the pairs of his nostrils;
+‘e’ the upper lip, ‘ai’ the lower lip; ‘o’ and ‘au’ the two rows of
+teeth; ‘am’ ancl ‘ah’ the palates; the five letters beginning with
+*k’ his five hands on the right side; the five letters beginning
+with ‘“c’”’ his five hands on the left side; the five letters begin-
+ning with ‘t’ his right leg; the five letters beginning with ‘t’ his
+left leg; the letter ‘p’ his belly; ‘ph’ his right side, ‘b’ his left
+side; ‘bh’ his shoulder, ‘m’ his heart; the letters ‘y’ to ‘s’ the
+seven dhatus; ‘h’ his soul and ‘ks’ his anger. On seeing the
+great lord along with Uma, Visnu bowed and then looked up
+at him. He sawa mantra emerging from ‘Om’ with five digits.
+Resembling pure crystal it contained thirty eight syllables. It
+was conducive to the increase of knowledge, and it was the
+means of achievement of all righteous matters. He saw the Rk
+of twenty four syllables and four digits in Gayatri metre and in
+green colour, with the efficacy for gaining control. He saw the
+Atharvan magtra of thirty three syllables, eight digits, black in
+
+## Page 70
+
+64 Lingapurdga
+
+colour and with its efficacy of black magic. He saw the Yajus
+mantra of thirty five syllables, eight digits, white in colour, with
+the efficacy for peace. He saw the Saman mantra of sixtysix
+syllables, of thirteen digits, in the jagati metre, in the coral-red
+colour, with the efficacy for creation and dissolution of the
+universe.
+
+Having obtained these five mantras, lord Vignu performed
+japa. He saw lord Siva in all digits and syllables (constituting
+the limbs) with body consisting of Rk, yajus, and siman, with
+Igana for his coronet, Tatpuruga for his face, Aghora for his
+heart, Vamadeva for his private parts, sadyojata for his feet,
+serpents for his ornaments, with eyes and hands all round. On
+secing the great lord (of above description) the overlord of
+Brahma, the cause of creation, sustenance and dissolution and
+the granter of boons, Vigsnu eulogized him with pleasing words.
+
+CHAPTER EIGHTEEN
+Visgu’s praise of Siva
+
+Visnu said :
+
+1. Obeisance to the single-syllabled Rudra, ‘a’ in the form
+of Atman; obcisance to the primordial deity whose physical body
+is learning.
+
+2. Obeisance to lord Siva, the supreme soul in the form of
+the third syllable ‘m’. Obeisance to the lord who is as lustrous as
+the sun or the fire or the moon. Obeisance to him in the form of
+yajamana who performs sacrifice.
+
+3. Obeisance to fire in the form ot Rudra. Obeisance to the
+lord of Rudras. Obeisance to Siva of auspicious mantra. Obei-
+sance to Sadyojata. Obeisance to Vedhas, the creator.
+
+4, Obeisance to the illustrious Vamadeva, the granter of
+boons and the immortal lord. Obeisance to Aghora, Atighora,
+Sadyojata and the deity of vehemence and impetuosity.
+
+5. Obeisance to Igana, Smagana (i.e. the lord of crema-
+tion ground ); obeisance to one of high velocity. Obeisance to the
+speedy lord whose foot is the Vedas, who has an upward Linga
+and who is Liga himself.
+
+## Page 71
+
+Visnu’s praise of Siva 65
+
+6. Obeisance to him who has a golden Lingaor who is gold
+himself or who is of watery Linga or who is water himself. Obei-
+sance to Siva, the Linga of Siva. Obeisance to one who per-
+vades all, including the firmament itself.
+
+7. Obeisance to the wind or to one who has the velocity of
+the wind, and who pervades the wind. Obeisance to the fire,
+the lord of all fiery articles and who pervades the fire.
+
+8. Obeisance to the water and to one who has become
+water. Obeisance to one who pervades water. Obeisance to the
+earth or the atmosphere. Obeisance to one who pervades the
+earth.
+
+9. Obeisance to one, of the form of sound and touch, taste
+and smell and to one who has smell. Obeisance to the lord of
+Ganas, and to one who is the most secretive.
+
+10. Obeisance to the infinite. devoid of forms, obeisance
+to the infinite, devoid of ailments; obeisance to the permanent,
+the most excellent, who is in the womb of waters, and who is
+the Yogin.
+
+11. Obeisance to one who is stationed in between Brahma
+and Vignu in the midst of waters; obeisance to the splendour,
+the protector, the destroyer, the perpetual maker and the Death.
+Obeisance to lord Siva.
+
+12. Obeisance to the insentient, worthy of contemplation
+who removes the stress and strain of the sentient, who is form-
+less or of good forms, who has no limbs or who is attractive with
+limbs.
+
+13. Obeisance to one who has smeared ashes all over the
+body; obeisance to the cause of the sun, moon and fire; obei-
+sance to the white, of white colour; and to one moving about on
+the mountain of snows.
+
+14. Obeisance to one of excessively white complexion,
+white face, white tuft, and white blood.
+
+15. Obeisance to one who Jacilitates easy crossing (of the
+ocean of mundane existence), obeisance to the splendid one,
+obeisance to one having two forms, to one of hundred forms, to
+one devoid of forms and to one holding a banner.
+
+16. Obeisance to one who has prosperity, grief and absence
+of grief; obeisance to the Pindka-bearing lord, with matted
+hairs, devoid of noose, holding a nuose, the destroyer of noose.
+
+## Page 72
+
+66 Lingapurépa
+
+17. Obeisance to one of good sacrifice, to one having sacri-
+ficial offering, to one favourably disposed to the Brahmins.
+Obeisance to one who is a poet. Obeisance to one having good
+face and good mouth; who is difficult to be suppressed and who
+is of good mental control.
+
+18. Obeisance to one who assumed the form of a Brahmin,®*
+who is Yama™ and who has made serpent his bangle. Obeisance
+to one who is Sanaka, Sanatana, Sanandana and Sanat.
+
+19. Obeisance to one who hunts the deer,® who is the great
+atman, and the eye of the world. Obeisance to one who has
+three abodes and to one who is devoid of rajas.
+
+20. Obeisance to Sankhapala, Sankha, rajas and tamas.
+Obeisance to Sarasvata, the cloud and the cloud-vehicled.
+Obeisance be to you.
+
+21. Obeisance to one of good vehicle, devoid of vehicle, the
+bestower of boons to the devotee, to Siva, Rudra and pradhana.
+
+22. Obeisance to you, possessed of three gunas, having the
+nature of the four vyihas, the cause of existence and dissolution.
+
+23. Obeisance to you of the form of salvation, the granter
+of liberation, the supreme soul, the sage and the all-pervader.
+
+24. Obeisance to you the holy lord, the lord of serpents,
+of the form of ‘Om’ and the omnipresent lord.
+
+25. Obeisance to you identical with all,®* all-pervader, and
+the primordial lord.
+
+26. Obeisance to the unborn, the lord of subjects, the cause
+of vyiihas and the great lord of Devas.
+
+27. Obeisance to Sarva, Satya, (truth) and Samana (the
+subduer) and Brahma. Obeisance to the omniscient deity of
+living beings.
+
+28-29. Obeisance to you, the supreme soul. Obeisance to
+one invested with the form of intellect, consciousness, memory
+and knowledge. Obeisance to onecomprehensible through know-
+ledge. Obeisance to one in the form of concord and summit.
+Obeisance to one whose neck is blue.
+
+83. It refers to Siva disguised as a Brahmana. ST.
+84. i.e. Yama, the god of death and destruction. ST.
+85. as a hunter kills the birds and animals. ST.
+. The epithet is applied to Vignu because the waters (nara) were
+his first place of motion (ayana). (Cf. Manu : Apo nari iti prakt&), but
+here, as applied to Siva it means ‘one who lives among the people :
+
+TUT ATR AL AIA SIT TET IST st,
+
+## Page 73
+
+Visnu’s praise of Siva 67
+
+30. Obeisance to one whose half body is female®’, who
+though unmanifest has eleven forms. Obeisance to one who is
+immovable.
+
+31. Obeisance to the sun, the moon, who establishes and
+destroys the universe. Obeisance to one who is the cause of
+fame, who brings on peace and is the lord of all.
+
+32. Obeisance to the lord of Ambika, and the lord of Uma.
+Obeisance to one of golden arms and of golden semen.
+
+33. Obeisance to the blue-tressed one who is wealth. Obeis-
+ance to the black-necked deity with matted hairs Obeisance to
+one with the serpent for his ornament.
+
+34. Obeisance to one riding the bull; obeisance to the creator
+and destroyer ofall; obeisance to one who excelled even the
+heroic Rama in prowess; obeisance to you, the lord of Rama.
+
+35. Obcisance to the Emperor of kings, to one attained by
+kings, to the overlord of protectors; obeisance to you, O Destroyer
+of demons.
+
+36. Obeisance to one bedecked in keyiiras (armlets). O
+lord of cows, obeisance be to you. Obeisance to lord Srikantha
+holding a Jikuca fruit in the hand.
+
+37, Obeisance to the lord, the chief of the worlds; and to
+one whose Scripture is the Veda; obeisance to you, to Saranga
+the Royal Swan.
+
+38. Obeisance to one with golden necklaces and shoulder-
+lets; to one with serpents for sacred thread, ear-rings and
+garlands; obeisance to one who has made a serpent his waist-
+band.
+
+39-42. O Siva, obeisance to you, having the Vedas in the
+womb. Obeisance to the foetus containing the entire universe.
+
+Brahma said :
+
+After having culogised thus, Vignu ceased along with
+Brahma. This excellent hymn is holy, it is destructive of all
+sins. He who reads this himself or narrates this to the brah-
+mins well versed in the Vedas goes to BrahmAa’s region though
+he might have incurred sins. Hence one should perform the
+Japa of this, read this or narrate this to splendid brahmins for
+washing off his sins. It has been so ordained by Visnu.
+
+87. Cf. note 27. on p. 18.
+
+## Page 74
+
+68 Lingapurépa
+CHAPTER NINETEEN
+Enlightenment of Visnu
+
+Sita said:
+
+1. The Supreme Lord said : O excellent among the Devas,
+I am delighted with you. On beholding me, the great Jord, you
+should cast off all fear.
+
+2-3. Both of you very powerful were born of me formerly.
+Brahma, the grandfather of the universe was born from my
+right side; Visnu, the soul of the universe, sprang from my left
+side. I am extremely pleased with both of you. I shall grant you
+the boon of your choice.
+
+4. After saying this, the lord, the storehouse of mercy patted
+Visnu with his gentle and smooth hands out of compassion.
+
+5. Then with a delightful mind, Visnu bowed and spoke
+to the great lord who though devoid of Linga was stationed in
+the Linga.
+
+6. If love has been generated in you, if boon has to be
+granted to us, may our devotion to you remain perpetual and
+unswerving.
+
+7. O Devas. the moon-crested lord accordingly granted
+them an unswerving devotidn and faith.
+
+8. Then Visnu knelt on the ground and bowed to the lord.
+With perfect control over himself he spoke to the lord in low
+tones.
+
+9. O lord of the Devas, our controversy has borne splendid
+fruits, since you yourself have come over here to remove the
+same.
+
+10. On hearing this, Lord Siva again spoke smiling to
+Visnu who bowed to him with his head bent down and who
+stood with palms joined in reverence.
+
+Lord Siva said ;
+
+11. O lord of earth, you are the projector of dissolution,
+sustenance and creation. O dear Visnu, protect this world
+with all its mobile and immobile beings.
+
+12. OVisnu, I am lord Siva, the unsullied, I divided my-
+
+## Page 75
+
+Enlightenment of Brahma 69
+
+self into three forms*® under the names of Brahma, Vignu and
+Rudra with the activities of creation, protection and dissolution.
+
+13. O Visnu, abandon your delusion. Protect this Brahma,
+who in the Padmakalpa, will become your son.
+
+14. Then you will see me thus, so will the Jotus-born
+Brahma too. Thus saying the lord vanished there itself.
+
+15. Ever since then the worship of the Linga was well
+established in the world. The great goddess is the altar for the
+Linga. The Linga is the great lord himself.
+
+16-17. Linga is so called because, O gods, everything gets
+dissolved in it. The brahmin who reads this narrative of Linga,
+in the presence of the Linga image attains Siva-hood. No
+doubt need be entertained in this respect.
+
+CHAPTER TWENTY
+The enlightenment of Brahma
+
+The sages said :
+
+1-6. How did Brahma become the lotus-born (deity),
+formerly, in the Padmakalpa ? How did Visnu and Brahma
+see lord Siva? Please recount all this particularly now.
+
+Siita said :
+
+It was one vast sheet of water, terrible, undivided and full
+of darkness.
+
+In the middle of that vast sheet cf water lay Lord Visnu
+holding the conch, discus and the iron club. He had the lustre
+of the cloud. His eyes resembled the Jotus. He wore the coro-
+net. He was known as Hari, lord of Sri, Narayana and
+Purusottama. From his mouth emerged all souls, all beings. He
+had eight arms and a large chest. He, the source of origin of
+the universe, the yogic a4tman, the knower of the yoga,
+adopted an inconceivable yoga and occupied the lofty body of
+
+88. The supreme lord in his qualified (sakala) state is characterized
+by three functions : viz. creation, sustenance and destruction. The idea
+is often repeated in the Puranas.
+
+## Page 76
+
+70 Lingapurdna
+
+a huge serpent that had a thousand hoods and whose splendour
+was incomparable. In that vast sheet of water, the lord lay on
+that great couch of serpent.
+
+7-8. A tall and lofty lotus was sportively created in his
+umbilicus as he lay there all-powerful self-contented but un-
+wearied in activities. It was hundred Yojanas long. It resem-
+bled the mid-day sun. It had adamantine stalk.
+
+9-11. Evenas the bountiful lord was playing (with the
+lotus), Brahma, who was born of the cosmic Egg of golden
+womb, who had golden colour, who was beyond the pale of the
+sense-organs, who had four faces and large eyes came near the
+lord casually. On seeing Visnu of splendid eyes sporting with
+the lotus that was glorious, divine, splendid and fragrant,
+Brahma was surprised and asked in a tone filled with gentle-
+ness—
+
+‘‘Who are you lying (here) in the middle of the waters?”
+
+12-16. On hearing the splendid words of Brahma, Visnu
+got up from his couch and with his eyes beaming with surprise
+replied: —
+
+“In every kalpa this is my shelter and asylum. What had
+been done, whatever is being done and what would be done
+(everything is done here itself). The heaven, the atmosphere
+and the earth everything is my region.”’
+
+After saying thus, lord Visnu addressed him again—‘Who
+are you? Whence do you come near me? Where do you in-
+tend to go ? Where is your abode ? Who are you that have the
+universe for your physical body? What can I do for you ?”
+
+17-24. Thereupon Brahma replied to Visnu. Being deluded
+by the Maya of lord Siva, he could not fully comprehend
+Visau who himself was deluded by the Maya of Siva and
+hence unknowable.
+
+Brahma said :
+
+‘Just like you I tooam the Prajapati, the primordial creator.”
+On hearing with wonder the words of Brahma the creator of the
+worlds and on being permitted by him, the source of origin of
+the universe, the great yogin, Visnu entered through the mouth
+of Brahmi, out of curiosity. Within the belly of Brahma he saw
+
+## Page 77
+
+Enlightenment of Brahma 71
+
+the eighteen continents™® together with the oceans and moun-
+tains. On entering the belly of Brahma, Visnu of great splen-
+dour and brawny arms saw the eternal seven worlds” up to the
+column of Brahma in which the people of the four castes®!
+stayed. Then uttering repeatedly, ‘How powerful is his
+penance” he wandered through different worlds of diverse
+creation. Though he wandered for a thousand years, he could
+not reach the end. Then he (Visnu) the support of the worlds
+who had Sega the Jord of snakes as his bed, came out of
+Brahma’s mouth, and addressed him thus:
+
+25 “O sinless one! You are the beginning, the end and the
+middle of the universe. You are Time, the quarters and the
+ether. O sinless one, I do not perceive the limits of your
+belly.”
+
+26-28. After saying thus, Visnu spoke to Brahma again—
+‘In the same manner as you, I also am a lord. O illustrious one,
+please enter my belly and see the wonderful worlds therein.”’
+On hearing these pleasant words of Visnu, Brahma of truthful
+exploits approved of them and entered his belly. Then he saw
+those very worlds stationed inhis womb.
+
+29-30. He roamed about therein but hecould not find the
+end. Then on observing the movement of Brahma, lord Vigsnu
+closed the openings of the passage and slept a perfect sleep.
+
+On seeing the openings closed Brahma assumed a subtle
+form and found an opening in the umbilicus.
+
+89. Dvipa in the broader sense signifies a continental division of the
+terrestrial world. The number of such divisions varies according to diffe-
+rent authorities being four, seven, nine, thirtcen or cighteen. According
+to the Puranic tradition dvipas are situated round the mountain Meru like
+the petals of a lotus flower and separated from one another by a distinct
+ocean. In the restricted sense dvipa is a land enclosed between two rivers
+(mod. doab). The word ‘dvipa’ is used in both these senses in the Puranas.
+
+go. Seven regions. Cf. 1.23.53-54. The three—Bhi, Bhuva and
+Svar are separated from thefour higher regions—Mahas, Jana, Tapas and
+Satya by a mountain Lokdloka. The light of the luminaries illumines the
+three worlds but fails to reach the four higher regions.
+
+gi. Caturvarnya. ‘The concept of fourfold social organization is
+already found in the RV. (x.gv.12). The idea is developed in the Purinas.
+Vaéyu (Ch.g) speaks of the cosmic origin of society (113-114; 139-140).
+Siva is the originator, Manu the founder and Bali the propagator of Varna
+(Ibid. 1.30.218; §9, 35-36; 61-98, 95-32).
+
+## Page 78
+
+72 Lirtigapurdga
+
+31. Then the four-faced Brahma came out of the stalk of
+the lotus and assumed his own form.
+
+32. The Seif-born Brahma, the source of the origin of the
+universe sat in the lotus, resembling in lustre the interior of the
+lotus itself.
+
+33-37. In the meantime, even as either of them was wholly
+engaged in a struggle with the other in the middle of the
+ocean, lord Siva of immeasurable soul, the lord of living beings
+appeared there itself. Holding a trident in hand and clad in
+garments of pure gold he came to the place where Visnu was
+lying on Segsa—the lord of serpents. As he waded through the
+waters quickly, big drops of water rose up in the sky, kicked up
+by his feet. The wind that blew was very hot and cold. On
+perceiving this wonderful phenomenon, Brahma spoke to Vigsnu
+‘See how hot and cold waters make the lotus shake.
+
+38-40. Clear this doubt of mine and tell me what else
+you wish to do now.”’
+
+On hearing these words uttered by lord Visnu, the destroyer
+of Asuras and of unequalled exploits meditated thus :—‘‘ What ?
+Who is this great being occupying my umbilicus? He speaks
+pleasing words though I have been angry with him.” After
+thinking thus, Visnu spoke in reply :—
+
+41-48. “O Sir, are you in a perplexed state inside the
+lotus ? O lord, what is it that I have done wherefore O excellent
+one among men, you speak to me thus: What is it for? Tell
+me factually.’ Lord Brahma, the storehouse of the Vedas,
+replied to the lutus-eyed lord of Devas who spoke thus in
+accordance with the activities of the world:—‘“‘It wasI who
+formerly entered your belly in accordance with your wish. Just
+as all the worlds within my belly were seen by you O lord, so
+also all the worlds in your belly are seen by me. O sinless one
+after a thousand years I returned. With a spirit of rivalry and
+a desire to subject me to control, all the openings were closed
+suddenly by you. O blessed one, I pondered over it. By dint of
+my own splendour I gained exit through the umbilicus by the
+lotus stalk. Let there be no dejection in your mind : O Visnu,
+this is the sequence of events in their gradual advancement.
+What should be done by me hereafter, kindly tell me : What
+shall I do?”
+
+## Page 79
+
+Enlightenment of Brahma 78
+
+49-51. On hearing these loving, pleasing auspicious and
+irreproachable words of Brahma, Visnu the destroyer of Hiranya-
+kagipu and of immeasurable soul, spoke sincere and simple
+words. This type of adverse action was not envisaged by me.
+I closed all the openings sportivcly and casually out of a desire
+for enlightening you.
+
+52. You should not mis-understand me. You deserve my
+respect and worship. O auspicious one, forgive if at all I have
+committed any offence against you.
+
+53-58. You are borne by me, O lord, descend from this
+lotus. I cannot bear you. You are refulgent and weighty.
+Thereupon Brahmi said once again: ‘Tell me, what boon you
+desire to have. O lord, take me down from the lotus’. Then
+Visnu said : ‘O slayer of enemies, you should be my son. You
+will attain splendid pleasure. Speak agreeable and loving words.
+O lord, descend from the lotus. You are a great yogin. You
+are worthy of our worship. You are the Pranava itself. Hence-
+forth you will be the lord of all; adorned with a white turban
+you will be known as ‘padmayoni’**—one whose source of origin
+is a lotus. O Brahma, O lord, as son to me, you will be the
+overlord of seven worlds’.
+
+Thus the lord granted him the boon and Brahma accepted
+the same cheerfully and spitelessly. Just then on seeing the mir-
+aculous, huge-faced Siva with the lustre of the rising sun,
+Brahma said to Visnu.
+
+59-62. ‘O Visnu, who is this incomprehensible person with
+a huge face and curved fangs ? With hairs dishavelled, with ten
+arms stretched and holding a trident, with all-round eyes he
+seems to be the lord of the universe. He has a deformed body
+and a girdle of Mujfija grass. With huge penis lifted up, he is
+roaring loudly and terribly. With a mass of splendour and
+lustre he has enveloped the quarters and the firmament. He
+comes this way itself.”” On being addressed thus by Brahma, lord
+Visnu replied as follows:
+
+92. The Purapas describe the golden lotus flower of one thousand
+petals sprung up from the navel of Visnu while he lay recumbent in the
+ocean, Cf, Matsya 168.15. According to Harivamsa (Bhavizya-parva, chs.
+7-14) the golden lotus became the seat of Brahma and also his birth-place.
+Hence Brahma is called padmayoni.
+
+## Page 80
+
+74 Lingapurana
+
+63-66. “He is wading through the ocean with great speed.
+When his feet press the surface of water, as he wades through
+the ocean with great speed, masses of water rise up even to the
+sky. O lotus-born one, you are being sprinkled from all sides
+with a heap of water. By the wind coming out of his nostrils, this
+great lotus emerged out of my navel is being shaken. It is lord
+Siva who has no origin and who destroys the world that has
+come. Let us eculogise the bull-banncred lord with hymns of
+prayer.”
+
+67-68. Then Brahma who was infuriated spoke to Visnu
+whose eyes resembled the lotus:—‘‘Indeed you do not know
+yourself as the lord of all the worlds. You do not know me also
+as Brahmi, the eternal creator of the worlds. Who is this Siva
+apart from us both ?”
+
+69-73. On hearing these words of Brahma uttered in rage
+Vigsnu spoke: ‘O auspicious one, bestower of welfare, do not
+speak ill of the great soul. Here is he who has the lustre of the
+splendid yoga, who is the invincible bestower of boons, who is
+the unchanging ancient Purusa, the cause of this universe. He
+is the sower of seeds and the refulgence of seeds, shining by him-
+self. He, the lord, plays with toys as do the childern. Pradhana,
+the eternal womb, the unmanifest Prakrti and the quality
+tamas—darkness-——these are my names, since I perpetually give
+birth to creation. The person of your query is lord Siva who
+is the goal of the ascetics who, being afraid of the pangs of birth
+and death resort to him. He is the sower of the seed; you are
+the seed itself and I am the eternal womb.’’®? On being addressed
+thus, Brahma, the soul of the universe asked again:
+
+74. ‘How is it that you are the womb, I am the seed and he
+
+93- According to the Puranic account of creation (sarga), in the begin-
+ning, the Cosmic Egg which arose out of the waters was insentient. It
+remained in this state for thousands of years until it was activated by the
+sentient principle which entering divided it into two parts. One of the two
+halves became the celestial and the other the terrestrial sphere.
+
+The creation is traced to the seed, personified as Brahma, deposited
+in the foetus personified as Visnu, by Siva the sower of the seed. In fact,
+both the insentient egg and the sentient principle that activates it belong to
+Siva himself who out of sheer will and sportively too, creates, dissolves and
+then re-creates and re-dissolves the universe.
+
+## Page 81
+
+Enlightenment of Brahma 75
+
+(lord Siva) the sower. This isa puzzle which you alone can
+solve.”
+
+75-79. After thinking about the multiformed creation,
+Visnu spoke in answer to this specific query of Brahma, the
+creator of the worlds.
+
+There is no other greater living being than him. He is a
+great mystery, the dimensional abode of intellect and _ the
+coveted goal of spiritualists. He split himself into two. His un-
+qualitative part remained unmenifest; the qualitative one came
+into appearance. Of him who was aware of activities of Prakrti
+and who was inaccessible and fathomless, the seed was born,
+formerly, at the first creation. This seed was laid into my womb
+which, after the lapse of some time, grew into a golden egg in
+the ocean.
+
+80. For a thousand years the Egg lay in the waters. There-
+after it was split into two by the force of the wind.
+
+81. The upper lid of the Egg became the heaven and _ the
+lower lid became the earth. The foetus became the lofty golden
+mountain Meru.
+
+82. Then with the soul entering the womb, you, the lord,
+Hiranyagarbha the most excellent of the lords of Devas, and
+of four faces were born.
+
+83. On seeing that the world with stars, sun and moon,
+was void you meditated. Then the kumaras were born to you.
+
+84. Pleasing to look at, they became ascetics, the predece-
+ssors of yatis. Thus at the end of a thousand years they were
+born as your sons.
+
+85-87. They resembled the terrestrial fire in brilliance.
+They had eyes large as the petals of a lotus. Sanat and
+Rbhu remained celibate having sublimated sexuality; the other
+three were Sanaka, Sanatana and Sanandana who were born
+simultaneously and who could visualize things even beyond the
+scope of sense-organs. They possessed great intellect; they were
+the cause of the sustenance of the worlds. They were devoid
+of the threc types of miseries and they desisted from worldly
+activities.
+
+88-90. Seeing that life and death in the world yield but
+little pleasure, that itis attended with great strain and pain,
+that births and deaths recur again and again, that there is little
+
+## Page 82
+
+76 Lingapurdna
+
+pleasure in heaven, that miseries abound in hell, knowing the
+S4straic injunctions about the inevitability of the future as also
+that Rbhu and Sanat were under your control, the three—
+Sanaka, Sanatana and Sanandana of great prowess eschewed
+the three gunas and took to spiritual life.
+
+91-94. Thus in the functioning of the kalpa, when the
+three sons—Sanaka and others took to detachment you will
+become confused and deluded through the illusory power of
+lord Siva. Then O sinless one, your consciousness will perish.
+In the present kalpa, the elements both gross and subtle will
+be affected by his maya who, in fact, is the activizer of these
+elements. This great and glorious account of the most excellent
+of all Devas is as famous as the golden Meru—the mountain-
+ous abode of Devas.
+
+95-97. Knowing him as the great lord and knowing me
+as the lotus-eyed Visnu, knowing also that the lord is the
+greatest of all living beings, the bestower of boons and the
+preceptor of the universe, you should bow to him, uttering the
+pranava (orhkara) mantra and the Saman verses. If he is
+infuriated he will burn us both by his very breath. After
+realizing the lord of great strength and yoga, I shall keep
+you in front and eulogize him who is of fiery and dazzling
+splendour.
+
+CHAPTER TWENTY ONE
+Eulogy of Lord Siva
+
+Siita said:
+
+1-3 Thereafter keeping Brahma in front, the Garuda-emble-
+med deity Visnu recited the hymn to lord Siva, containing
+his past, present and future names as enjoined by the Vedas.
+
+Visnu said :
+
+Obeisance to you, O deity of holy rites, of infinite splendour,
+the overlord of the field (kgetra), the sower of the seed, the
+trident-bearer, of excellent penis deserving worship, the staff-
+holder and of dry and arid semen.
+
+## Page 83
+
+Eulogy of Lord Siva 77
+
+4. QObeisance to the eldest, the excellent, the foremost
+and the first; Obeisance to one who is worthy of honour and
+worship. Obeisance to Sadyojata.
+
+5. Obeisance to the unfathomable and the lord of jivas
+(personal souls). Obeisance to the naked and the lord of all
+created beings.
+
+6. Obéisance to the lord of the Vedas, the Smrtis and the
+lord of activities, charities and substances.
+
+7. Obeisance to the lord of Yoga and Sankhya. Obeisance
+to the lord of the sages who are bound together by the Polar
+Star.
+
+8. Obeisance to you, the lord of stars and planets;
+obeisance to the lord of thundering sound of lightning, thun-
+derbolt and clouds.
+
+9. Obeisance to the lord of great oceans and their islands.
+Obeisance to the lord of mountains and continents.
+
+10. Obeisance to the lord of the rivers and rivulets, to the
+lord of medicinal herbs and plantations.
+
+11. Obeisance to the cause of Dharma, piety and righteous-
+ness, to the lord of maintenance (of all created beings), to the
+lord of Parvati and her eternal associate.
+
+12. Obeisance to the lord of ‘rasas’, jewels, and the units
+of time.
+
+13. Obeisance to the lord of day, night, fortnights and
+months; Obeisance to you, the lord of seasons and the lord of
+number.
+
+14 Obeisance tothe lord of ‘aparardha’ (half of Brahm4a’s
+age) Obeisance to the lord of Parardha (the other half of
+Brahma’s age) ; Obeisance to the lord of Puranas and to the lord
+of creation.
+
+15-17. Obeisance tu the lord of the Vyantaras, of yoga,
+and of fourfold creation. Obeisance to one of infinite vision;
+to the lord of all occupations that have sprung up from the
+beginning of kalpa (that is creation itself). Obeisance to the
+lord of the universe and to the overlord of Brahma. Obeisance
+to the source of origin of sacred lores and to the overlord of
+holy rites.
+
+18-19. Obeisance to the source of origin and the overlord
+of mantras, pitrs and the individual souls. Obeisance to you,
+
+## Page 84
+
+78 Litgapurdpa
+
+the deity of righteous speech, the ancient bull and the lord of
+souls. Obeisance to the deity who has Nandin, the leader of
+cows and bulls, as his banner.
+
+20. Obcisance to the lord of Prajapatis, to the lord of the
+Siddhas, to the lord of daityas, danavas and raksasas.
+
+21. Obeisance to the lord of gandharvas, yaksas, garuda,
+snakes, serpents and birds.
+
+22. Obeisance to the overlord of the guhyas and pisacas,
+to Gokarna, to the protector, to Sankukarna (one whose ears
+resemble the pike) .
+
+23. Obeisance to the incomprehensible varaha (boar) ; to the
+star bear, devoid of rajas, the lord of Devas and asuras and ganas.
+
+24. Obeisance to the lord of the waters; the lord of reful-
+gence; the lord of Laksmi (glory and splendour) and the lord
+of the earth.
+
+25. Obeisance to one who unifies the strong and the weak;
+to the agitator who cannot be excited; to the bull (Nandi)
+who has a single illuminated horn; and a huge hump.
+
+26. Obeisance to one who is stable in the body; to
+one enveloped in halo; to one who represents the past, future
+and present.
+
+27. Obeisance to the brilliant and virile, to the heroic and
+the unconquered, to the bestower of boons, to the best of
+persons of great soul.
+
+28. Obeisance to mahat (the first evolute of Prakrti) in all
+its 3 stages, past, present and future;™ obeisance to you repre-
+senting the people; to penance, to the bestower of boons.
+
+29. Obeisance to the minute as well as the great; to the
+all-pervading lord. Obeisance tv bondage and liberation; to
+heaven and hell.
+
+30. Obeisance to lord Siva, who is worthy of worship.
+Obeisance to the sacrifice, and to the deity of effulgent
+brilliance. Obeisance to the principle beyond all attributes.
+
+31-32. Obeisance to the noose, to the weapon, to one
+equipped with missiles as ornaments; to one who is the
+material for sacrifice; to one invoked; to one who partakes of
+what is offered in the sacrifice; to one who does desirable acts;
+to one who does acts of charity, such as digging wells; to the
+
+94. The 26b, 27 and 28a are repeated in 34 and 35 of this Ch.
+
+## Page 85
+
+Eulogy of Lord Siva 79
+
+brahmin performing agnistoma; to the member of the assem-
+bly; to one who does the sacrificial ablution after giving
+rewards to the sacrificers.
+
+33. Obeisance to one refraining from violence, to one
+devoid of temptations, to one who is a redeemer of souls (Jivas) ,
+to one who bestows nourishment, to one who habitually re-
+presents and practises good conduct.
+
+34-35. Obeisance to one who represents the past, future
+and present. Obcisance to the brilliant and virile, to the
+heroic and the ungonquered, to the bestower of boons and to
+the best of persons of great soul. Obeisance to ‘mahat’ the first
+evolute of Prakrti in all its three stages: past, present and
+future. Obeisance to one without a fear.
+
+36. Obeisance to the ever young, of golden form, the
+bestower of boons, the lower, the upper and the lord of the
+sleepers-on.
+
+37-38. Obeisance to the wearer of garlands, to the enjoyer
+of objects through the vehicle of sense-organs. Obeisance to one
+representing the universe, to onc who is universe-formed arid
+to one with heads, handsand feet all round. Obeisance to Rudra
+the unsurpassed. Obeisance to one who receives offerings
+poured into the fire. Obeisance to one who represents fire that
+carries oblations to the gods.
+
+39. Obeisance to the holy one who has all attainments.
+Obeisance to the sacrifice and to one devoted to the sacrifice,
+to one who isa good warrior, to one of terrible aspect and to
+one who agitates persons who cannot be easily excited.
+
+40. Obeisance to one of good progeny, to one of good
+intellect and to one who is the brilliant sun. Obeisance to the
+enlightened, pure and all-pervasive and to one who is contem-
+plated on by all.
+
+41. Obeisance to one who is both gross and subtle, to one
+who is both visible as well as invisible. Obeisance to one who
+showers and blazes, and who is both the wind and the winter.
+
+42. Obeisance to you, of curly hairs, of great chest and
+tuft, of golden colour, or resembling gold.
+
+43. Obeisance to one who has odd eyes, to one assuming
+the form of Linga, to one of tawny colour, to one of great
+prowess and to the destroyer of rain, to one of gentle eyes.
+
+## Page 86
+
+80 Lingapurdga
+
+44. Obeisance to one of brown, white, black, red, tawny
+and yellow colours. QObeisance to one who is possessed of a
+quiver.
+
+45. Obeisance to you, marked and not marked by special
+traits; Obeisance to one worthy of worship and adornment,
+Obeisance to one who is a suitable patron.
+
+46. Obeisance to one befitting welfare. Obeisance to the
+elderly one. Obeisance to one favourably disposed. Obeisance
+to One representing the past, to the truthful one. Obeisance to
+one who is both true and untrue.
+
+47-48. Obeisance to one of lotus colour, to the destroyer
+of death, the lord of death, to one of white, dark, tawny and
+red colours and to one having the colour of a charmingly
+brilliant cloud at dusk, to one initiated, to one having lotus-like
+hands; to one without garments and to one with matted hair.
+
+49-50. Obeisance to one without magnitude; to one iden-
+tical with all; to the unchanging and immortal one; to one
+who represents colour and smell; to the eternal and to the
+uninjured one; to the huge one in front; to one without illusions;
+to one full and satisfied; to one difficult of access; to one re-
+presenting anger and to the tawny coloured one.
+
+51. Obeisance to one whose physical body is capable of
+being known and (at the same time) not known; obeisance to
+the powerful, to the brave; and the speedy one; obeisance to
+the deity behind sandy soil and behind current of water; to
+one stationed, extended and stretched.
+
+52. Obeisance to you the intelligent potter; obeisance to
+you, with the crescent Moon on the forehead. Obeisance to
+the wonderful one of variegated dress and colours and of the
+form of intellect.
+
+53. Obeisance to one, of great consciousness and alertness;
+obeisance to you, the most satisfied‘one and the best bestower
+of favours; obeisance to the forbearing one, to one having self-
+control; and to one of adamantine body.
+
+54-55. Obeisance to the destroyer of the Rakgasas, to the
+dispeller of poisons, to the bright-necked one and to one who is
+above anger. Obeisance to the all consuming God of Death; and >
+to one holding sharp weapons, to one cndowed with great joy,
+to one with great gaiety, to one comprehensible only to the
+
+## Page 87
+
+Eulogy of Lord Siva 8]
+
+ascetics; to one devoid of ailments, to one identical with all
+and to the great god of Death.
+
+56. Obeisance to Pranava; to the lord of Pranava; to the
+destroyer of Bhaganetra; to the hunter of deer; to the diligent
+one and to the destroyer of Dakga’s sacrifice.
+
+57. Obeisance to one, the soul of all creatures, to one who
+excels all lords, to the destroyer of the Puras, to one having
+good weapons and to one having bow and axe.
+
+58. Obeisance to one who destroyed Piisadanta and
+Bhaganetra; to the bestower of desires; to the excellent one;
+to one who burnt the body of Kama.
+
+59. Obeisance to one of terrible face in the battlefield; to
+one having face of a great elephant; obeisance to the lord who
+destroyed the Daityas and to one who caused distress to the
+Daityas.
+
+60. Obeisance to the destroyer of snow; to the severe one;
+to one wearing wet hide; to one having perpetual interest in
+the cremation ground; to one holding the fire-brand.
+
+61. Obeisance to you the protector of lives; to the wearer
+of skulls and to one surrounded by care-free goblins of different
+classes.
+
+62. Obeisance to one having male-cum-female body; to
+one who pleases the Goddess; to one having matted hair; to one
+having tonsured head and to one having the serpent for sacred
+thread.
+
+63. Obeisance to one the habitual dancer, to one fond of
+dance and music, to the lord of anger, to one practising
+music and to one who is sung about bv the sages.
+
+64. Obeisance to one in the form of a lion, to one of sharp
+nature, to one both pleasing and not pleasing, to the horrifying
+and the terrible one, to the suppressor of Bhaga demon.
+
+65. Obeisance to one praised and sung about by the en-
+lightened souls. Obeisance to the highly blessed, to one who
+laughs boisterously, who roars like a lion and who flaps and
+blows.
+
+66. Obcisance to one whoroars and jumps; obeisance to
+the joyous soul, to the benevolent, to one who breathes,
+runs and controls all.
+
+## Page 88
+
+82 Lingapurdga
+
+67. Obeisance to one who meditates, yawns, cries, runs,
+gallops and sports about; to one who has a protruding belly.
+
+68. Obeisance to one who has functions and no functions to
+perform, to one who has a thousand heads, to one who is poor
+or miserly, to one who has an impassioned body, to one who
+has small anklet-bells.
+
+69. Obeisance to one of deformed dress; to the ruthless
+and unforgiving; to one who cannot be measured; to the pro-
+tector; to the illuminated and devoid of attributes.
+
+70. Obeisance to one fond of the elegant, to the beautiful,
+to one adorned with a crest-jewel, to the minutest of the minute
+and to one who cannot be measured or known by qualities.
+
+71-74. Obeisance to one possessed of good qualities; to the
+secret one, to one who goes to impassable places. This earth is the
+mother of worlds. Your feet are resorted to by good men. Your
+belly, the support of all Siddhis, contains the wide firmament be-
+decked in clusters of stars. Just like the galaxy of stars the glori-
+ous necklace shines on your chest. To you, the ten quarters
+are the ten arms bedecked in shoulderlets and bracelets. Your
+neck has great girth and extent; it is comparable to the blue
+collyrium; it is adorned with golden threads.
+
+75. Your face is irrepressible; it is terrible due to the cur-
+ved fangs; it is incomparable. Your head which is heaven it-
+self shines all the more with its turban of lotus garlands.
+
+76-81. Refulgence in the sun, brilliance in the moon, firm-
+ness in the mountains, strength in the wind, heat in the fire,
+chilliness in the waters and sound in the firmament—the wise
+know these qualities to be due to the internal throbbing of the
+imperishable !ord.
+
+The following names of lord Siva are to be used for Japa,
+viz.—Mahadeva, Mahayoga, Mahesvara, Purisaya (lying in
+the city of mind), Guhavasin (dweller in the cave), Khecara
+(moving about in the sky), Rajanicara (walking at night),
+Taponidhi (storehouse of penance), Guhaguru (Sire of Guha),
+Nandana (delighter ), Nandavardhana (the increaser of delight) ,
+Hayafgirga- (horse-necked ), Payodhata (yielder of milk), Vidhata
+(dispenser of justice), Bhitabhavana (activiser of living be-
+ings), Boddhavya (the object of knowledge), Bodhitd (the subject
+of knowledge) Neta (leader), Durdharga (invincible), Duspra-
+
+## Page 89
+
+Eulogy of Lord Siva 83
+
+kampana (unshakeable), Brhadratha (having a great chariot) ,
+Bhimakarman (of terrible activities) Brhatkirti (of great fame),
+Dhanafijaya (conqueror of wealth), Ghantapriya (fond of bells),
+Dhvajin (one with a banner), Chatrin (one with an umbrella),
+Pinakin (bearer of the bow Pinaka), Dhvajanipati (Lord of the
+army) Kavacin, (having armour), Pattigin (having the iron club) ,
+Khadgin (having sword) ,. Dhanurhasta (having the bow in the
+hand), Paragvadhin (having the axe), Aghasmara (non-des-
+troyer), Anagha (sinless), Sara (heroic), Devaraja (king of
+Devas), Arimardana (Supressor of enemies).
+
+82-83. Formerly, after propitiating you the enemies were
+slain by us in the battle. You are a submarine fire. Not satiated
+by drinking all the waters of the ocean, you are infuriated in
+form, but delighted within. You are the bestower of desires;
+you can go as you wish; you are fond (of us) ; you are the
+celibate religious student. You are unfathomable and
+favourably disposed towards the Brahmins; you are adored
+by the society.
+
+84. You have made sacrifice the everlasting treasure of the
+Devas. The fire-god bears to you the offering, as mentioned in
+the Vedas O supreme lord, if you are pleased we too become
+pleased.
+
+85. You are the lord of Parvati, you are beginningless.
+At the time of first creation you are Brahm, the maker of
+worlds. The followers of the Samkhya system realise you as
+one beyond prakrti and at the close of meditation they enter
+you, devoid of death.
+
+86. Those who meditate on you, understand you as
+perpetual siddha through yoga and then eschew those yogas.
+Those enlightened persons who resort to you through their
+actions enjoy divine bliss.
+
+87. The greatness of yours has been glorified in accor-
+dance with what we know according to our capacity. Your
+reality and principles cannot be enumerated; you are the
+supreme soul who cannot be easily crossed.
+
+88-91. Be auspicious towards us everywhere. As you are
+so you are; obeisance be to you.
+
+## Page 90
+
+84 Lingapurdna
+
+Sia said:
+
+He who recites this prayer by Brahma and Visnu, he who
+narrates this to the brahmins, or he who listens to this with
+concentration shall obtain that benefit which one attains after
+performing ten thousand horse sacrifices. Even a man of
+sinful activity who listens to this in the temple of Siva or
+respects this will be liberated and will live in Brahma’s world.
+He who recites this at the time of érdddha or a divine rite or
+during sacrifice or during the sacred ablution or in the midst
+of good men reaches the proximity of Brahma.
+
+CHAPTER TWENTY TWO
+Creation of Rudras
+
+Sata said:
+
+1-2. On seeing both of them extremely humble, the lord of
+Umi with eyes tawny as honey, was much delighted, thanks
+to the exposition of truth. The three-eyed, the pinaka-bearing,
+and the trident-holder lord Siva, the destroyer of Daksa’s sacri--
+fice became very glad.
+
+3. On hearing their nectar like words lord Siva sportingly
+asked them though he knew their intentions.
+
+4-7. ‘Who are you noble souls eagerly yearning for each
+other’s welfare ? You lotus-cyed ones have somehow met together
+in this terribly cxtensive flood.”
+
+Glancing at cach other, the noble souls replied: ‘‘O lord,
+what is there that remains unknown to you? O lord Rudra of
+great ‘Miya’, we two have been created by you willingly.”
+
+On hearing their words and having honoured and greeted
+them the glorious lord spoke sweetly in smooth words :—
+
+‘OC Brahma ! O Visnu ! I am speaking to you.
+
+8. Iam delighted by your devotion couched in words of
+perpetual value. Both of you are endearing to my heart.
+
+9. What shall 1 give you now ? Which is sweeter boon you
+desire ?”? Then the blessed lord Vignu spoke to lord Siva :
+
+## Page 91
+
+Creation of Rudras 35
+
+10. O lord! everything has been granted by you. If you
+are so pleased with me, O lord ! grant that my devotion for you
+remains stable.
+
+11. On being requested thus lord Siva realised it. He
+honoured Visnu and granted him devotion to his lotus-feet.
+
+12. “You are the creator of this world. You are its presi-
+ding deity. Hail unto you, O dear, O lotus-eyed lord, I shall go
+(now).’’
+
+: 13-15. After saying this the great lord blessed Brahma too.
+Greatly delighted he patted Brahma with his auspicious hands
+and said:—‘‘O dear, surely you are cqual to me. You are my
+devotee too. Hail unto you. I shall leave now, O deity of good
+rites, may there be perfect awareness in you.”’
+
+16-17. After saying this, the lord of the Ganas bowed to by
+all Devas, vanished there itself. After attaining perfect know-
+ledge from Visnu, Brahma whose source of origin was the lotus,
+performed terrible penance with a desire to create. Even as he
+performed this penance, nothing resulteds
+
+18. After a great deal of time his misery turned into anger.
+From the eyes overwhelmed with anger drops of tears fell
+down.
+
+19-20. From those drops of tears, huge poisonous snakes
+appeared. They had all the three humours, the wind, bile and
+phlegm. They were highly blessed; they were adorned with
+Svastika marks. Their hairs were dishevelled and scattered.
+On seeing the snakes born at the outset Brahma censured
+himself.
+
+21. O fie upon the fruit of my penance of this sort, if it
+were to be like this. Even in the beginning, my progeny has
+become the destroyer of the world.
+
+22. Originating from anger and fury a severe loss of sense
+overwhelmed him. Out of the distress resulting from his loss of
+sense, he lost his life.
+
+23. From the body of Brahma of unequalled valour, the
+eleven Rudras® sprang up crying, out of sympathy and mercy,
+
+g5. The word Rudra is derivable from4/ru to cry and 4/dru to move.
+The Puranas make frequent reference to the crying of Rudras. SP. (Vdyaviya
+12, 25-30) identifies Rudras with the life principles, i.e. the prinas that acti-
+vate the insentient-matter for creation. Assoon as Rudra or Prana becomes
+
+## Page 92
+
+86 Lirigapurdna
+
+24. They became known as Rudras due to their crying.
+The Rudras and the pranas are identical with each other.
+
+25-28. The pranas are stationed in all living beings. The
+trident-bearing lord Siva who enforces strict discipline granted
+him ‘ife again. After obtaining life, lord Brahma saluted lord
+Siva, the lord of Devas. By means of Gayatri he perceived him
+as identical with the universe. On seeing and eulogizing him
+as such, Brahma was struck with wonder. Bowing to him again
+and again, he proclaimed : ‘O lord ! how is it that you have
+assumed such forms as Sadyojata and others.”
+
+CHAPTER TWENTY THREE
+Various Kalpas
+
+Sitta said:
+
+1. Onhearing the words of Brahma, lord Siva in the
+form of Brahman spoke to him smilingly, in order to enlighten
+him.
+
+2-3. When the Sveta kalpa was current, it was I who
+existed then. I had white turban, white garlands and white
+garments. I was white myself with white bones, white
+hairs, white blood and white complexion °° So the kalpa too was
+known as Svetakalpa.
+
+4. Gayatri, the goddess of Devas, born of me, had white
+limbs, white colour, white blood. She was known as Brahmani.
+
+5. O lord of Devas, that was why I had been understood
+by you as the secret deity. By my penance I had assumed the
+form of Sadyojata.
+
+manifest in the organism it cries for food. Cf. Harivamsa 2.74.22; 3.14.39.
+Another characteristic of the Rudras is their rhythmic movement (dravana,
+from 4/dru to move) which is responsible for the incessant flow of
+creation represented by the Satarudriya or Kofirudriya concept. Cf.
+TREAT Aeafer Tsar seh Peary VV. 16.4; Vayu 10.58.
+
+y6. Svetalohitah—nitana-iveta-ripah ST., of new white complexion.
+For ‘‘lohita” as a synonym of ‘new’ sce Visca: ‘lohitah syin nave bhaume’.
+
+## Page 93
+
+Various Kalpas 87
+
+6. The title Sadyojata is a secret Brahma ; the twice-
+born who know me, who have assumed secret nature, shall
+attain nearness to me whence there is no return.
+
+7-12. When the next kalpa known as lohita, asa result of
+my colour, came, Gayatri glorified as a cow, born with red flesh,
+red bone, red blood, red milk, red eyes and red udders was
+known as Brahmani. Since the colour was changed into red and
+since the lord was Vama, I was known as Vamadeva. O deity
+of great strength, then also I, who was in a different colour, was
+recognised by you who had practised self-control by resorting to
+yoga. I was then known as Vamadeva. The twice-born who
+realise my V4Amadeva form shall go to Rudra’s world whence
+there is no return.
+
+13. When the yuga gradually changed and I became
+yellow in colour, the kalpa was known as Pita—the name
+assigned by me.
+
+14. Gédyatri, the goddess of Devas born of me was named
+Brahmani. She was yellow in body, yellow in blood and
+yellow in colour.
+
+15-17. O deity of great strength, there too, I was
+realized by yogins devoted to the practice of yoga, through
+your yogic mind. I was realized by you in the form of Tatpu-
+rusa. Hence, it was, O deity born of the golden egg, I got the
+Tatpurusa form. Persons endowed with penance, devoid of
+impurities, who are in contact with Brahman and who know
+me as Rudra, and Rudrani as Gayatri—the mother of the Vedas
+go to Rudra’s world whence there is no return.
+
+18-21. When I became terrible and black in colour
+the kalpa was known as Krsna after the colour assumed by
+me. There I resemble K4la (god of death). I am Kala (Time),
+the reckoner of the worlds. O Brahma, I was then known by
+you as Ghora (the terrible) with terrible exploits. O lord of
+Devas, Gayatri, bora of me, was black in body, black in blood,
+black in form and was named Brahmani. Hence to those
+who know me that I have assumed the ghora form, I, the
+changeless one, shall be Aghora (non-terrible) and Santa
+(quiescent) .
+
+22-25. O Brahma, when I assumed the universal form I was
+realized by you by means of the yogic trance. Gayatri, the
+
+## Page 94
+
+88 Liigapurana
+
+sustainer of the worlds®’, also assumed the universal form. To
+those who know me as having assumed this universal form,
+I shall always become auspicious and gentle. That Kalpa too
+will be known as Viévariipa ( =of universal form).
+
+26-29. These four who are of all kinds of forms will be-
+come popular as my sons. Since they are of different colours,
+their subjects too will be of different colours or castes (Varnas) ,
+and allowed the use of Gayatri. Man’s aim of life will be four-
+fold: virtue, wealth, desire and liberation. All living beings
+will come under four groups®, four stages of life. The feet of
+Dharma will be four®® since my sons are four in number.
+
+30. Hence the universe consisting of the mobile and im-
+mobile beings is stationed in the four yugas. Since it is stationed
+in the.four yugas it shall have four feet.
+
+31-32. There are eight worlds: Bhih, Bhuvah, Svar, Mahar,
+Janar, Tapas, Satya and Visnu. These are established in the eight
+substratums each of which is imperishable. Bhuh, Bhuvah, Svar
+and Mahah constitute the four substratums.
+
+33. The first is Bhih, the second Bhuvah, the third Svar
+and Mahar is the fourth.
+
+34-35. The fifth is Janah, the sixth Tapas, the seventh Satya
+whence people do not return to this world. The world of Visnu is
+the eighth. It is also the spot whence a return to this world is
+difficult. Beyond that is the world of Skandha and Uma endow-
+ed with all attainments.
+
+36-39. Beyond that is the world of Rudra—the splendid
+region of yogins. The twice-born who are devoid of ego, who
+have neither lust nor anger and whose minds are devoted to
+yoga alone can enter it. Since Gayatri was seen by you as four-
+footed, the worlds are also four, viz. the world of Uma,
+Kumara, Mahesvara and Visnu.! Again, since Gayatri was
+
+97. Sarvabhaksa—'‘resorted to by all’. S7. interprets differently:
+sarvam pitAlajdtam bhakgayati ndéayati si—one who consumes all the
+products of the nether regions.
+
+g8. catvdrah—four classes of living beings as mentioned by S7:
+jariyuja-andaja-svedaja-udbhijjaripah.
+
+g9. The four feet of righteousness, according to ST. comprise daya
+: (compassion), dinam (charity), tapah (penance), satyam (truth).
+100. péddnta—the ultimate region, i.e. the world of Visnu.
+
+## Page 95
+
+Various Kalpas 89
+
+seen as four-footed, the animals shall also be four-fovoted.
+Their udders too will be four.
+
+40-41. Since the Soma-juice, which is the life of living
+beings, accompanied by Vedic chants, fell off from my mouth,
+the cows came to be known as those whose udders are sucked.
+Hence the nectar in the form of the Soma-juice is known as
+the life of living beings. Hence too, the animals became quadru-
+peds; the whiteness of their milk is also due to that.
+
+42-44. Since the great Goddess was seen as biped in the
+course of the rites, Gayatri the creator of the worlds is also of
+the same nature. Hence all human beings are bipeds, endowed
+with two breasts. Since the great goddess, the unborn deity of
+great strength, was seen by you as supporting all living beings,
+therefore, the subjects will have all kinds of form.
+
+45-51. The unborn deity shall have great splendour and
+universal form and from his face there will come out the
+fire-God whose energy will be unfailing. Hence, the pure and
+all-pervading fire-god has the form of living body. The pure-
+souled men of two births who see me as endowed with the
+faculties of overlordship, sense-control and omnipresence
+become liberated from rajas and tamas. Eschewing physical
+body they attain my vicinity and never return to this earth.
+
+O brahmins, lord Brahma who was thus addressed by Rudra
+bowed to him. Becoming purified in the mind he spoke to him
+again. “‘O lord, you are aware of the greatness of Gayatri as
+well as the glory of the Supreme lord (Maheévara). O lord,
+may you kindly grant me the highest abode of Gayatri and
+that of yourself’’. The lord then granted the boon to him,
+Hence, he who knows the multiformity or the universality of
+the supreme lord as also of Gayatri attains identity with
+Brahman, as stated to Brahma by the lord himself.
+
+## Page 96
+
+90 Lingapurdpa
+CHAPTER TWENTY FOUR
+Incarnations of Siva
+
+Sata said:
+
+1. On hearing everything uttered by Rudra, Brahma the
+Prajapati bowed to Rudra, lord of Devas and spoke thus :
+
+2. “O lord, lord of the chiefs of Devas, O multiformed,
+O Mahefvara, O husband of Uma, O great god, honoured by
+all, obeisance to you.
+
+3-4. O multiformed, O highly blessed god, when and in
+which age (yuga) will these bodies honoured by all be seen by
+the brahmins and by what penance or meditation of yoga ?
+Obeisance to you, O lord Mahadeva”.
+
+5. On hearing his words and seeing him in front, the great
+lord Rudra revealed by Rk, Yajus and Saman smiled and
+said :—
+
+6-9. Except through meditation, neither through penance
+nor by conduct nor through gifts and holy rites nor by visits to
+pilgrim centres nor through sacrifices with ample monetary gifts
+nor through the study of the Vedas'® nor through wealth nor
+through knowledge of various kinds is it possible for men to
+see me.
+
+O Brahma, in the Varaha kalpa—the seventh in number,
+Varaha, will be the illuminator of the kalpa and your grandson,
+Vaivasvata, will be the Manu.
+
+10-13. In the course of that kalpa containing the four yugas,
+towards the end of Kali, I will be born to bless the worlds and
+for the welfare of the brahmins, O Brahma. As the yuga
+proceeds further, when the great lord himself becomes Vyasa,
+during the first Dvapara age I will be born at the end of Dva-
+para!°2 as sage Sveta. I will be endowed with a tuft and will
+stay on the excellent mountain Chagala!®® a beautiful peak of
+the Himalaya mountain.
+
+101. Vedanaih—éastraih ST. by sacred books.
+soz. Yugintike—dvapara-samiptau S7.—at the end of Dvapara
+
+see:
+103. Chigala: This peak of the Himilayas has not been identified so
+far.
+
+## Page 97
+
+Incarnations of Siva 91
+
+14-18. Then my disciples will be four noble brahmins, the
+masters of the Vedas and having tufts. They will be Sveta,
+Svetagikha, Svetdsya and Sveta-lohita. After attaining Brahman’s
+goal, they will approach me and will be devoted to the path
+of meditation and yoga. O Brahmi, in the second Dvapara age
+lord Prajapati will become Vyasa, known as Sadya. Then, in
+the Kali age, I will be born by the name Sutara for the wel-
+fare of the world, with a desire for blessing the disciples. My
+disciples then will be known by these names:
+
+19-24. Dundhubhi, Satariipa, Rcika and Ketuman. After
+attaining yoga and meditation and after establishing the Brah-
+ma} on the earth they will attain the region and companion-
+ship of Rudra. In the third age, Dvapara, Bhargava will be the
+Vyasa. Then, at the end of Dvapara 1 will be born as Damana.
+There too four boys will be born to me, namely, Vikega, Vikoga,
+Vipasa and Sapanasana. These four of great prowess will go
+to the world of Rudra through the same yogic path and will
+never return. In the fourth Dvapara yuga, Angiras will become
+Vyasa. At that time I shall be born by the name Suhotra.
+There too, four ascetics will be born as my sons.
+
+25. They will be excellent brahmins of steadfast rites and
+yogic souls. They will be known as Sumukha, Durmukha,
+Dardura and Dhrtikrama.
+
+26-28. By performing subtle yogic practices they will be-
+come pure and shall wash off their sins by taking recourse to
+the subtle yogic practice. Endowed with yoga and through
+the same path (as described above) these courageous souls will
+go to the world of Rudra and never return. In the fifth Dva-
+para age Savitr will be the Vy4sa. At that time, I shall be born
+as a person of great penance with the name Kanka for blessing
+the worlds and propagating yoga among the people.
+
+29-30. Four blessed persons of pure origin shall be my disci-
+ples. They will be yogic souls with steadfast rites. They will be
+known as Sanaka, Sanandana, Sanatana and Sanat. They will be
+devoid of ego, altogether.
+
+31-38. In the end they will come to my abode and never
+return. In the sixth yuga, Mrtyu will be the Vyasa and I shall
+
+104. Brahma-jiianam S7T.—knowledge of Brahma, the impersonal
+spirit, the supreme soul.
+
+## Page 98
+
+92 : Lingapurana
+
+be known as Laugaksi. Then also my disciples will be four, all
+yogic souls with steadfast rites, all blessed and popular. They
+will be known as Sudhama, Virajas, Sankhap4da and Rajas.
+They all will be yogic, noble souls, pious and sinless, and en-
+dowed with yogic practices. Through the path of meditation
+they will come near me and never return.
+
+In the seventh cycle of yugas, Satakratu, who was famous
+in the previous birth as Vibhu the shining one, becomes the
+Vyasa. Then at the end of Dvapara and the advent of Kali I
+shall be born as Jaigisavya, the omnipresent, renowned, and the
+best of yogins. There too four sons will be born to me. They will
+be known as Saérasvata, Megha, Meghavahana and Suvahana.
+Devoted to the path of meditation those noble souls will,
+through the very same path, go to Rudraloka devoid of
+misery.
+
+39-42. In the eighth cycle, Vasistha will become the
+Vyasa. I will be born by the name Dadhivahana. There too my
+sons will be yogic souls of steadfast rites and great yogic prac-
+"tice. There will be none equal to them. They will be known as
+Kapila, Asuri, Paficasikha! and Baskala. These will be
+righteous souls of great prowess. After attaining the yoga of
+the lord they will burn their sins and come near me, never to
+return.
+
+43-47. In the ninth cycle when Sarasvata will be the
+Vyasa I will be born by the name Rsgabha. There too, my
+sons will be persons of great prowess. They will be Paraéara,
+Garga, Bhargava and Argiras—all brahmins well versed in the
+Vedas, exalted with the strength of their penance, and capable
+of cursing and blessing. Attaining the path of meditation in the
+the manner prescribed in the yogic system those ascetics will
+go to Rudraloka never to return.
+
+48-51. In the tenth Dvapara age, the sage Tripada will be the
+Vyasa. Then I will be born as a brahmin sage on the excellent
+
+105 Kapila is considered as the founder of the Samkhya system of
+philosophy. Asuri and his pupil Pajicadikha, like the founder-teacher Kapila,
+are known only by their names. Perhaps they preached their cult by oral
+transmission, Their works, if any, are lost to us.
+
+## Page 99
+
+Incarnations of Siva 93
+
+hill Bhrgutunga,!°* a beautiful peak of the Himalayas. That
+peak adored by Devas is well known through the name of sage
+Bhrgu. There too my suns will be steadfast in their holy rites.
+They will be known Balabandhu, Niramitra, Ketubhrnga and
+Tapodhana. They will be yogic and noble souls, endowed with
+penance and yoga. With their sins burned through penance
+they will go to Rudraloka.
+
+52-54. In the eleventh Dvapara age, Trivrata will become
+Vyasa. Then I will be born at Gangadvara in'®? the Kali age
+as a person of great splendour named Ugra, famous in all the
+worlds. There too I will have four sons of great prowess, viz.—
+LamLodara, Lambaksa, Lambakega and Pralambaka. After
+attaining the yoga of MaheSvara they will go to Rudra’s
+world.
+
+55-58. Inthe twelfth cycle the sage Satatejas of great splen-
+dour, the best among the wisc, will become Vyasa. At that time,
+when Dvapara ends, and Kaliyuga starts, I shall be known by
+the name Atri in the forest Haituka!*. There too will be born
+my sons who will have ashes for ablution and unguent, who will
+be such yogins, and who will be devoted to Rudra’s world.
+They will be known as Sarvajfia: Samabuddhi, Sadhya and
+Sarva. After attaining the yoga of Mahe vara they wil] go to
+Rudraloka.
+
+59-62. When the thirteenth cycle sets in due order, Dharma
+under the name Narayana will be the Vy4sa. At that time, I
+will be born as the sage Vali in the holy penance grove of Vala-
+
+106. Bhrgutunga is one of the peaks of the Himalayas. According
+to Vardha (ch. 146, 45-46) itis a mountain in Nepal on the eastern bank
+of the Gandaka river where the celebrated sage Bhrgu had a hermitage. The
+Va. (81. 33) locates it near the Vitasté (Jhelum) and Himavat. See GEA MI
+part 1. p.70.
+
+107. Ganhgadvara represents modern Haradvara. It is also known
+by other names like Haridvira, Mokgadvira, Mayadvara. Cf. SK iv.
+1.7.314:
+
+’ But according to SP. KRS.(25.3) Ganga is said to have descended from
+Brahmagiri situated in the south (Jbid. 24. 3) in the proximity of Nasik
+near Tryambaka. This place of Ganga’s descent is said to be Gangidvira
+(Ibid. 27. 6).
+
+108. Haituka vana. It is not identifiable.
+
+## Page 100
+
+94 Lingapurdna
+
+khilya on the mountain Gandhamadana!™. There too those
+ascetics will be born as my sons. They will be known as
+Sudhama, K4syapa, Vasistha and Virajas. They will all be en-
+dowed with the power of great yogas, be devoid of impurities
+and will remain celibate. After attaining the yoga of Mahesvara
+they will go to the world of Rudra.
+
+63-66. Inthe fourteenth cycle Taraksu will be the Vy4sa.
+There too in the final yuga, I will be born in the excellent family
+of Angiras under the name Gautama. That penance grove!!®
+too will be named after Gautama. There too my sons will be
+born in the Kali age. They will be known as Atri, Devasada,
+Sravana and Sravisthaka. They will be yogic noble souls, and
+endowed with yoga. After attaining the yoga of Mahevara they
+will go to Rudraloka.
+
+67-71. When the fifteenth cycle comes in due order, Tray-
+yaruni becomes the Vyasa.
+
+I will be born as a brahmin by name Veda iras. Then I
+shall have a powerful missile known as Vedasiras. There will
+be a hill named Vedafiras!!1 on the banks of the Sarasvati!!2
+behind the Himflayan slopes. There also four ascetics will be
+my sons, viz., Kuni, Kunibahu, Kuéarira and Kunetra. All of
+them will be yogic and noble souls who will remain ascetics
+throughout. After attaining the yoga of Mahe‘vara they will go
+to Rudraloka.
+
+72-75. In the sixteenth cycle of four yugas when Deva is
+the Vyasa, I shall be born by the name Gokarna!! in order to
+
+109. Gandhamiadana. Its location is highly controversial, According
+to the Pauranic account this mountain forms the division between Ildvrta
+and Bhadraiva to the south of Meru and is renowned for its fragrant
+forests.
+
+110, Gautamavana can be placed in the proximity of Brahmagiri near
+Tryambaka in which God4vari has its source where the sage Gautama had
+its hermitage.
+
+111. Himavat or HimalJaya. This most celebrated mountain forms
+the northern boundary of Bharata extending from the eastern to the wes-
+tern sea.
+
+112, Sarasvati, This sacred river rises in the Sirmur hills of the
+Sivalika range in the Himalayas.
+
+113, Gokarna. The Gokarna forest referred to here is located in the
+Western Ghat. This place is sacred to Siva and is celebrated for a jyotir-
+linga of Siva. There is also another Gokarna in Nepal on the Bagamatt
+river,

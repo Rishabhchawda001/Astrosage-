@@ -1,0 +1,3829 @@
+# Bhavishya-Malika-in-Hindi
+
+**Document ID:** DOC-A88F1782C6B2
+**Language:** unknown (unknown)
+**Pages:** 130
+**Class:** scanned_image
+**SHA256:** `a88f1782c6b23107bf26e027547e51f11a9ad407e4876f29bd151fdfe81448a0`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 2
+
+i ara a
+a eI :
+
+WA
+Ns) oy Ay
+
+## Page 3
+
+Her dey dfes aa sorrara Afaz, TA
+afrarratet at
+
+T FATA Sz,
+ewer C8,
+4. BeRY
+are ate tarts »
+‘a infin & Ser atic lena +
+
+renga ww ered, ebedl: vane: X
+
+we Ae Tee, ASM FH aaa ae Aaa AT ATT
+
+afia arefttar & fats Pa a2 azar gaat Ware eee aR
+SRN ah gry coe Saas wer ale ised
+uc S Sera 1. SaTRT ATE A TAT aT
+
+>
+
+Tara A HS AS HTS UH Pee ELSL. ae
+aenaet Weare “aS Tare 1 art ae a
+
+at re ol saa Pea aa aT AS, Wet AAAS AT
+anfaata, fra a ar aaa Heat aa arte ar ata Par
+
+ey secs afeaerar ft area et. arg varat Ft aerear
+wed fA Ses ATT Heftate Sq FI . noon
+
+Wig sexees
+
+setter Ha war, TH
+
+## Page 4
+
+BE9S
+2Es2 ele
+!
+
+aye,
+
+## Page 5
+
+arene are at ret eave pete Tes" At TAIT
+
+## Page 6
+
+afar & are Ft aa
+‘Aas
+
+*ATEATA STAHL TATE ATE TART ATT EH HT
+aad PRAT Sl Sa AST Aegass Taha Tae Ate 17 |
+apfaat & alae Are FT AT HET AT AAT FI
+
+Aa 10 Ft Bl HEH H VASAT Are Te WH AAT SHAT
+arattsra frat war. saat st. are Ft aot Aer Geen ar aT
+
+wat & Tort UST LE eas & aca ami fee 14
+
+ate oH Se ae F are aT He ae ate ee. Hera Ft
+
+ee ee es
+Weld APY Ts TST at ay
+
+saat FT Pera A aT Geers Prat z, St. arg +t ah
+
+At yearaat & 'aeqara Paar Het! ae
+eel aca coe a ee ees
+Hoa: wre Fa
+
+A HEAT Z...14-6-84
+‘aga
+WThaz St =a
+a aoreret atfeerr ey eee a oar a |
+
+oe FATA ST, AMAT ST, APTS STAT, MITAT
+AT AAT TT afaoraa rat aT TA: Ta eA
+eo acer me aa Bre at ATE WAT ATS Sl AT
+ales © wat Heat after Hecagel Sl Ahern Al WeaTAAT,
+eae Ht rare at al’
+
+O198-9-TS
+
+## Page 7
+
+Tet ACT
+
+3 fer Aras
+
+atfean 4 ae carat oe ‘afer are H aretha
+
+ant TAA TT TOUT AT eH a STH THT He HT
+aera Pram sat fra ee aut oh AAT aoe Te ST. TATA
+TH BT ATT WeHe A Ha HET SS HSA Sa! ‘ATT
+SRI Nee eA eer eel Rel PEST ETA
+ax fear Saar Ha aT PH are sre & fore aga wa Ata Te aT
+scarry sare St Meare Ba AL ea citar Rhee 3 eet
+
+eG EL SL a ary TAT
+a at at fates arfeat at ararhire uigteartiat 3 2
+ores HT HT eT ae fear ale sara TTA ATT F
+are sant sented Peat ar) sae fre F eT. et ae
+OT ST AS ATT HEAT AT STH AEA HT ASS ATTA
+Zl
+
+Faferar & are Fara gera & fare Saas ;
+= erate At feeag ca ar sae AT,
+arate Fert F layed piiry Pearesivt
+faacor vara fear g1 cae fee F sa ea A arart Zi
+
+wetter afaaar 4 sa Gera F ae Haare Heer Wa aT
+H Sa were feerae are eT Bh tee BT roth Tene St
+Tarte atta pra = ae Saat aerate AeA Zl
+
+a ofea ft aca fer At Gere "Bree ae TAT
+sre weg set ee ean cee ee
+Fterafir fra, agpartt verte pare frs, Feros At tera
+arg ua oft faarataert aren At eon Aer are att aT
+aise aatt ae ara &.
+
+aaa Al Sea Sa, saa aH Pa Het se ST ETH HT HAT
+Aare ae & form, A ses HTT SAT ZI
+
+## Page 8
+
+ate ce pear & fer Sat eT
+Pr eae a a ae
+arm
+
+arert Pty
+TATHE ATR
+
+## Page 9
+
+at oa aferat at rae FS strarite sat aet se z.
+fregtt ot fleas & be Fer S Ae Tala aT Tees eT Sl TS
+AMT Aferat HT Mara HT ALAS Sl ahah Sa AhawT AT
+wea & aearat ata ae ada Ft cee ft args arc
+@l Tet He Trasttfaat ar Aaa | fe Aferar way
+THA AL ASA CAAT Z, Set eh See Sanit A
+ufderts aa area frat 21 ae Aft ast ware 2 PH afore
+arfeer At Toor S ar ae. Tarhs aot site areas
+ele EA a fire ft cat arearicaenat a cea
+ATAT STAT Sl Act: SA AeNl Te at Pee faa aha
+farenisat siz afer at facets wast acorn face aa Peet
+AAG HT AT ATH Tat SI
+
+artga aed ae aay a aa Ft ah a eo Ft ofaor
+Tel Zl Fat ae oat, ods yet az aarat & Ste ae-aheacs
+az arr Fart % arara-waret arr FH Sat aoa Ft airarat
+Faorvarat HT sat te At aatas she Sr AF Tea Sat aTfeT
+dat wr Her aes aad catered feat At aeare Pau feat
+aS eaT wh fers aah ST ae AAT BH eae A ST
+Ht Ue at aeSt cea fear 21 wate At Beers ass east
+al aae a rarerae aefert East TE AAT Sl Hla Tet Ta B; Ae AT
+apfet Fe HATA Ae aaa Asi HT aah SPE (Sezer)
+aT ake a fratera aed J ate ae aa art ste S ae Patera ar
+fata at te aan , at sa Stee ee er Ta aT 1 Sas fer aera
+5 ere a at arerisee tag ar ere fs aay ara 2
+
+afore ar ATT at hae HATS AT SAT AT SAT TTS AT
+afaorantt carat ax arts ares ar wpe fear aa Te 21 ATTA, HeTATTT
+i
+3 ago, Tet te afaata art F aga art
+UL eS ld ab alee
+
+## Page 10
+
+eps Breath TIT, Tes TMT, TATA, Sat WTA ste
+Hearrqey Haas sas Sl Feat oH PH ate aaara H ATA II
+Heaney, Ale TAT Ae Set Shes Tet H Ah we afaerarhirat
+pig chal Wai dali
+ae wed ae ae Fh
+& fer afacrarfirat $71 ion aa 204 at
+FS ariet ORAL aaa
+ud tee of a aferrr-ariecs At wa fatere afer
+aferat ft opcata & ara star & fH 'Aferar sree HEH
+Fiera gc a al fen std,
+aT ATT aan es STAT arial
+afacy te
+ai ag eiuaa: =e
+fered ae sa aye h areas a aa aaa At aan afer
+frodt ace 2, sat A aes ae arate ft 21 ca Afra are F
+HAA Fer HET yh fara z ake sas are agpetttn
+ATA A Te St Aaa Fe Foes HT AAT Tar ZI AferaT F
+wraret Ft Preare oer a endian aaa HT Ca
+fares oft ates &, oe Pee ater ar oe oe OR
+fret AAT ST HT Sl Ahora H ATE A STAT
+Serial st tiga ag ol Pay a gael go sratoat
+aaah Fea Woh HATA AT TdT J SETA A Ha STS
+ae area ate aaa as, aadit arr sarara HAST
+Al eae az Arad, Herne STH ares FT Aaa, TT arafas
+at Tras ea reared, aA 0
+site are Ft ferent area, Sate a
+frat sie arate ore & fara aor atfeaa afera Here eT a
+ara are #1 Hs ofrarat & ation crate & arat
+ft at otter aT Tet ZI
+
+PIA HATTA F TAT Pea HT ATT ST ATA
+am 21 ssa ® atat F tea are att at aR, Sea a aT
+
+## Page 11
+
+saan faeare a ate Pear war @. arfeent & saat Aisnrarsy
+afer artes Ft area 21 ftserara ast 7h Aerea atx fserarst
+AT ax often ar afer a Tea ade Bl cast Tara Zt Ae Aaa
+ary Raa atte aera FAL ATS aes AT ETT HAT, Te AleraT
+arfecs Ft aris areft S1 aarst qare & fer afer ar art ft
+are aera ae GU LS LL cel
+a fera aferar At arastierat ated
+petal SINE ad at afra, we gu ate gah ae FS
+oa Aes See AVATAR * reat Hera a sia wed F Hee
+HCA 21 Ae Afra atleast Bet Aaa HB Sash a, HST
+ae Sefer ar areara 21 erate F area, free wart F
+STE HT TS, Tia Ft Baa, aratt site areat ar ote
+%, afta ara sera & ferme & Sax ar fra 21 cater afer F
+yfa sat we area ae Peeara art ft azar 2.
+ait AAS Bl oe eA & fore afer F
+afta aia he ponravare dy feo area Paae andra
+BT FH ATTA TA al Sat ITA BT ALS eT ST AAT
+al arettacnea FT arearferss afafataat F ofa tea aie tent
+APT ea, ATT faafera ate Sara Zrae fea fats FT
+freer fear war 21 aa HT AAI AMT Tat F Aas
+TOA Sl AAT BT ARI, Fat Ae Gagged sara *& fer aferar
+wore at afacrarttrat aat At feraca arett vet ZI
+
+Hferar F afte oraz ar faze
+
+aferet # aferpr are 2 Afa-frarsit & are Ft ar
+Hel TAT z, Ag faa Hea HT ATs FZ Hels aes aa AF
+Bee ely A ales aig a
+far @1 ence watera a Pear a arereit are
+Haars wea ae are, “S Tera sa are Praha ares aa Sa pT
+waa 4 aH, ae, Tear, aA, sar, sftaa, aa aie ays
+Te St ara Berar aren feat HF pets eer at
+
+## Page 12
+
+ae oat Hea; HT A HT Tears aT arf Ae ATT AT ATATT |
+adit, fearadt anit az oat at et ae aT ST A
+AMAT ST! Fah art TT F aT HITT; TS ra a
+qe Ft Sea BT Ath SAT TAT Alas Ha ATP HT
+
+aa SET aartt ae a Ae F ATs HAST SET se TT
+FATS Fae BUT Ae PSA AAT STAT AS TAT AT ATT
+freer AAT) aor AT aT TAT aT atta frat
+EIEN! AT, AA, Fea AT eH A GT afew oreo
+SUT Tet MAT HAT YAH TTLEM HEAT A AST WIT
+at Oa Ta Saat HT AT TAT FT fer Fra,
+
+a ae Ft afoareat a Te St STU, ax ATT Se, Zar,
+
+TI TS d
+SAT Sat Tee, Hear afar feat F, 1H
+At dist a Aiea att, ate arava at Ft tar ate wee FT ea TAT
+2 fam aaatta aim" (1)
+
+BUA AT BT TATa AePA AeTared F Ah eae Si Ag
+H par war & Ph, St AAT HOT aera, Tet ae rT SPT
+ae Wa-gae & oft Tree FAT Te Arta lS ee
+qa, TAS TT a TS Bare seh, aferat serra
+arafti so arfedt feat F ara. & are ferat ar
+et Ae Ae ST TH ae TH ATT TTT Se Tey AT
+ae et STAT PT eather ret A Par Gat ATT aT
+ara Sora ae oat Fra ATT aT ATS TOTO Sa TT rE AT |
+aatg art ara at art aeer artt aeath cat ait ar et
+aT; HT Te SAS SAT Ale TT HST HLT HT ATT
+Wrenn aes APA AT AST A AT TVA are, Tae ATT aT ST,
+aed Hohe Peart & cra! avapy, eter ate ea ar aT
+ft aa dam art area aaa BA afar wae are & aaa oft
+
+2 ATERTaT Aer, 12a he, fats aera
+
+## Page 13
+
+ee sag ay AAT TAT Site PVT HT Tat LT
+\z loa art gest ae at ae
+arg ax aa eee at aaa Pact ate Sacra at vas aT
+HAT BT HT AT BAIA HTAL AT are Patera
+Pear ATOM Ae AAA AT are SPH AM HT et Ta SMT Ha AT
+, weet, ora aie Fearet St SET Ta AAT
+aat oroft facta At aratr, aot Pern variate St Tat
+ae art ft aa aa at ae afeat area aes Ft
+Aa Tel ATA, Sate TS Sa AraT-Pra HT ATA F AAT
+feafrantin seat ares ot ares Pera ofa At geo ae Sat
+= ual sree oie ala ore aa
+Fe ee oh ge ae a ne es Set aT
+aere Ht TAT ATT AaB
+Sen aa aaa eae ea Sas ;
+Sr, Tor Ft wT ag coat, Tafa a TETETee ae
+fast Ft ararst tare Sf, az aS STAT SST) ATTA!
+wea Se ae Ft Pert FATT et TS TPMT, aa Aaa
+aft & ara ft ada bat wea ate ave! Sah are ara
+ee cae ee ae goer ME
+am tte at aa oot atart ds
+oe heat we teen
+
+ee
+ay sale Ba Pal "area Usd, WIA, Ache Fe
+
+Za FAT
+sir a mer et OPE at wer ae gH a aq
+
+H ara At Fi Wa. else or ag SE
+
+aa ZI foal fae Hager qs a ara F
+ears aaa. Sat arfeat arcat enti. + tat ar crane Fafa
+
+TaN AT SAM Ta F TAM Sach feet Far HT SAT.
+
+pela LSE OR EG oe (2)
+
+1. , 1604.
+
+8 aerator ee gata st, at, 122-125
+
+## Page 14
+
+eat ace ar acm sera, whan aie adercafear A oat
+ST AAT Sl SAT Are HHT Teftara at ara ata
+HAT H SATS H HTATAST FH HSA WE TAT | Aa AT Mawar
+At Sl Ag A |r WaT g, ‘AAT TOT et aT TTT
+farm faa Sat fee Bet eT aa aa at
+afte Ca aT AT TT TA Bas TAY HIT PATA FT
+ale Tel ATT. ST HAA ATA Ba AT ATA Hac S AS AAI aPlastH
+ann az ot aftr & ae fara srl Be ares aret Sahey Ht aT
+MT Ta Art HT) TTSTS IT ATT ae AAT ATA STAT aT
+atcare saree ateaet Ara ST ST ae sete ara
+al AeAHTS FLAT @, SA aed F earth ase F wey aes aa
+AAT STUTTI" (1)
+Frat
+
+ate F ft plaster TAT are attr
+AT wert ar seera Pear war 21 Sat ws A, "St
+an Pa tom att F fra Sh, ae araret
+ant, aTeare & oft wast, weet site wert eit" (2)
+
+ep a
+
+at carat F ag Saat ter 21 Ata FT
+
+seit fre yet ar acts en saat & as rae othe aa a fT A
+
+qoat haet fro ga saree dia feos,
+fear oT aerate
+
+1. ae ah a orepatt 1 ate facta so aeartt u
+fact carer fe eet afato fea ot
+ee 4
+Ut ead: ad =
+ee ee ee won
+aafa ved at aed Tid wefera ats afar, Fe TAT es I,
+
+2. ARTA TTT HT He S PH AST AHS Aa Aa St TAT 1
+
+TT aftera aaerrart
+EW Aaa as Ba ay aa a : ,
+
+ia a le ee ul
+
+## Page 15
+
+Barat ITT Ft ALTHT py
+
+aed Aas Sit. Bre Peet ITs Ae ATT.
+Sah ore adit & fro sare et So ave Fe EF ul
+fear at ya ae aera aT TET SSF aay aaa Far ar ATs AMT
+atta aet Ta SAT FS eR AT TMT AIT
+fea Hare sea erm. qae At Taw eh
+ee eS STURT. |
+feat fis Ha ar oe Ral core a ae aT aT Tg
+at addict az ais. aré-aet F feats ST
+ump forea Te Ft aT HAT Ss. TAT THAT
+
+We Al FA TS. We SAAT AAT Ae SOT.
+
+aaaraes At TA TAT
+
+afta aaa HT UTS Be AS TTS ATT AT AAT)
+fear ae at at, whet afte ara ze dt arch she ary
+wet From ate ha ater hard Hae deer A aaTe.
+
+° ° °
+
+ae aaa HASTE SET. TT fret Te At ye a8
+HAT, As SAAT AT ASAT AST ATT ST SAT Te HT aT aT fees WaT
+
+TTT APT BAT, TAT TAT FAY TTS TTA
+
+° ° °
+
+FATA TST AT SAT AMT SET. TST ATT FT waa aT TAT
+° ° °
+
+FATS Al St H Tae AT, 1 Bree e-qea aT aa aT TST
+
+° ° 3°
+
+## Page 16
+
+r afer
+araax fraat ft wa sat a ST Sa Ye eT a a
+aet aT fart aefardt raat TTT
+
+° ° °
+
+aa at Ft ea areath slo i
+se ote cea. |
+
+cere tre cont rm u
+
+ae perHMaRT nt
+Fa RSS aE NH ae
+
+sore ae ghee at ae El :
+
+warara are Ft wep aesz
+
+ae aa aT Late at attra eft at i
+art etTat ot Fm giv sreears ger FETT i
+asat area at oat ae at ae atte area at mn
+Sor ere em i are eT ary gaet A
+TH HUT! AT TET He BAT. ATH T IoHT "
+aa a Fle Aad Tawra ASt ST. ALA Ts: mT
+a ofa ge ua Pret etn we He HF fet f
+Qt H areet | qartin gar fasreft Ft ace rT
+atten vet ert area att oret 3 ar AT
+AE Sl TT, AMT ATH ATT HAT ATAT Fe AMT |
+Sei Ue ATT eal ATT TOT A Ta
+[wht Bhat aon als St ae ae ae eT TT
+
+° ° °
+
+## Page 17
+
+Aalget
+
+Herat ara eae TT oh ar Hea STN
+Tat TT TT AP ATT . ATT Ue Sa TT i
+
+(aeaTs 2)
+
+Teas F pe 0S aeat ar ae 2 raat adres aearsit yy
+a art TAae Sl STH IAT A UH ASAT AST ST
+(1) site Sar ary sterare aT (2) ehera veh art F secre
+
+frat ar Fer Hecayel Tete Sar ZI
+
+we ant F fre Sa aga are Ft Cae aT afer ATTA
+cararfee 21 aaa SP tet rat wee aren A Ret %, cafe
+aa fore & arae Foret Pear or apa 2 A eas
+A cara F Peal aer Sor ar seers Pau fat Haat Ba aT
+sera @, safer ag ar ara @ PH BPA eT Tar aT PH area
+ATF A aT OH ATT TT SA site Sat are A, STA SAT ATT
+were Her Hears Tal Pearl SAH TATA MSTA FH TST AT
+
+aaa St (3), Sat FR F sara HT AAT (4), Hee A Teas Fer
+
+« faear et oat. SeeTA TA aH HET
+secant oft ait, ag drat at aie,
+
+2. Sa Uo at ares Stadarea F rat eat
+eae Pratt, FS ATT Te SAH AT A aH TAT
+
+Ae er Ae THT ST STENT
+at en a Fart
+We HAT. Ve, SA TT aes AT AM
+3. are ft ame ae ST. TT
+are A eH aT Fes
+4. a Tah A sare we. Braart ares we ati
+TST AS SAL A AT. AeA aT aS ATT
+
+## Page 18
+
+ats fircat (1), aa Afez F sacra (2), WH AaTE * Fare,
+EAT TET (3), ATA Are Freat (4), BE aTet * fre sears Ft
+aaret eH ITAT (5) TS A AAS BT ATT (6), Area ATT TH
+
+#t TaT (7), ESL UE az ga 1 fitg aT asat (9),
+toate Rarigea a
+
+iF
+
+Wet We qu HT ISAT (10), avatar +
+
+a4 ae as oe 4 fie ores. sa faa a aa at eT.
+(ePrft frat: s=qara)
+
+az AA agit as Be 4 Fiz
+
+9.
+
+smth ra arent daz faerstin =
+eure far aia Se Bea ah a
+strat 32 2a fiat areata te ATE
+agra aren eet weg are ch
+(4; qa, Teel grates)
+are fea aa stare team fase AT
+(ere: eeqaraa, ArsT sratest)
+(ater fres ae: ftiare, sat dz)
+adtara - (ara ava Ait aferar)
+Ua Tat abt ST Tea at aT not
+at, NASER AAO \
+aan: TATA, 7A vast)
+Um aT HT SNM. wag yd toot
+(SR: agar, SAT Afra)
+
+aritar ata oe, art fare cea Wt SaMT AT STATI (eater Ft afer) ate
+
+artter aot atc sat orga a sorosth (fear Prahran: arian)
+
+hi
+
+9.
+
+Haat F vse aT St
+AUT AL-AL STS AS aT I
+(sferaierr:serara a1. 47 7)
+
+Tom foreret welt oT A oar (HetTaraferet: THAI)
+
+10. Roafieta titer | gar ee Ses ATM |
+
+(ferret: sega, drat ce)
+
+## Page 19
+
+fasctt fia 4 aie sorara Ft af F art art A (1), ATz, TAT
+afte acho & at-aret Ft atl Stat Z (2), FETA hey
+& (3)i Wert & rarer % Sieve Afearat % Faas fear
+# (4), H Set Heat (5), TET AT
+
+(6), Faz F ala, 49 aie ot ava aft ar was AAT (7)
+
+1 oper ar Pa ate '
+adtean tat avatar FST "
+
+ais fag ter arate ats Far 21 after
+ta Aga ahT Ta Te FA
+ate ara terra a ATT HAT ATET el!
+
+aaite, fact pe areat A TATA SAT ATT STATS
+a EE AE lee
+dtaraa tis a aera & oe ape FT ATT & are A Sararaz ANT STA ZI
+
+WET AAA ST. 9. PH AAA TST. tl
+ore fe 4 att . PS UE Ae at TAT ul
+
+arg ae oer & get ae at sath (aT Ae A AT TTT!)
+
+9. ag ert 1 aay BAS ATT, Fe STAT Ie ATE BT
+AAT, AT Fe Aa HPS AAT BATT, Mae F - TTTTT
+H, saat Fo aei-tis ea Ht
+
+a mathe ott gt con aft. st ge cea, TA anette revi
+
+5. ae var & Ph gates & tet ae.
+6. pat seas % ara F ars aft. rec aaa FT gat aT acarats I
+
+7 ot ez at arent ale AeaaTS AAT SMT mM
+
+## Page 20
+
+TATA HT SSA (1), AAR SIT TAPAS HT FAT ST AAT
+ae Aaa HASTE (2), HHT Tet HT HEAT (3), avant
+afro ata 7 ae Fl aH (4) ar Aferar A octet Pear aT
+fag wa a, sate gat a sa ara & var Prat PF
+
+H oat At feate ar aote Bred aret & Pera Sl TH
+
+nett Fa Tent six a TEM (5), ae are
+
+«0 afte sett aT aa afer fee At aie errr. |
+aie aet am aie ait Riot ait oS aT Sar A WAST SST TANTS!
+
+9. area ge Ft Haelt ot fered ae aca Ft after Parc 21
+wat aan Ft too ag eo ate art are STATI
+
+az oat aa F area an, Tae H area Shr. Ha ae ATA
+Homa a tae se Partita asda i
+
+3 HET ATE Tat HE HTS SAT.
+
+arigadt t afar a cara Hf waa gu II
+yen aaa a ze arrears ae fee ae PAT STTT.|
+WAS SI Jo se sat ATT Stee
+
+Sal Fy Tel. artis STAT
+
+———————— ft fax
+st cont Serger eave Sa ae aS Ber # a
+ll ee
+
+a ated Arht oes saath. aor I AAT. 1
+
+swe Ada afresh Hara Sar
+IAAT HST eT Tal TA TAT
+
+## Page 21
+
+sarfafiat + secre Prat @ Pe afe ae fafa =
+
+(1), ore fer firect (2), ae (3) ster sed HTT TT
+
+@, GH Ta TAS, STS AT AaTS AIA aA (4) F
+
+Bld @, Att Ae Het SET TA (5) HATTA Ss, A TG STAT
+wera at werfita erat z (6), Se tear Pawar
+
+i san a ayfarr ad 10627 ae Usa Te 1967 Hn
+
+Aare are orate Weare, areat 1982 HAT i
+
+oft ant, arax 1982 % 13 fax, 15 sree 12 HAF 1983
+
+1. Feary sega Ft eheretittar & arf Hts cher F araT
+
+war me er eH ga ala eee a See ry,
+aa aed Ft at art at tt
+cater afer are ate Hartt ;
+
+98 Fa Was Teast 8 \
+aa ae Tat BT Heart aT AA |
+STATA SBT HAHEI TAT
+Hfsrt oe @ - afe ave faa Stl are afew ar Ror art
+and Wadia % fiat as yer rears F fora z- aT
+13 fea 4 ter eer sa fea var sen fH ae Prat arf 2. |
+ae STAT TT ‘ofrroft afer
+
+3 Chena waaresh Safe
+
+faaen saa Hart at araret HEA)
+4 afe ages ar ase afeaferan qa
+
+Tear qaersreaahrartt ATT Sa
+5, etary stam y
+
+H, aa H, aa A, Aer TAT
+
+Hi acome wet eu ata
+
+a a Fate St WAT Zl \
+6. “frrgrrad Ferqeory’ 104 che F ag aet sara war S PH aT aT
+wan ara Ape Ht yey a Veet HTH AM AT TAHT Sera AeA 82 |
+Fel
+
+## Page 22
+
+ATA ATA AT A, 31-10-82 FT TaTeH! TAT
+
+13-11-82 al Ale Us ANTS, 1982 HAM A ASH
+ara oft wat Hare ara F fase HT ATar TAT 16 l
+ar sei a ee Ae yor at
+erent! Safa raat aren fafire arfaa4,
+
+Rieema tet tae
+
+et ee ait az, Pitan ate
+afirt site eq, arsacyet fot ae eat aT
+faarer BOT Ha AAA (1) Te aT aT Het Pare Sat
+Coe aa ae oe
+wa wa are fears TTT ll
+Elst GTM eA) ae Pal Se ae 4
+‘wa (5) H tat Fat STAT @, ae aoa Ss
+Frets oe Fao ae A ae et 6)
+ih ve af ere ae oy
+wep fear 1 ahd. Alera Ter srrarire J, Ta
+dated h Tay sata Blew ATA AAA SAT TTHST
+ENT ate aT Sa Ts BET (7)
+
+z aah are fee are Bett tT (frat acta At afore, SAT erated)
+2 Ferry Haar Hla (a1)
+3. aware are fears at (ate)
+
+%  ardt Ararat 4 FAT Gora! SAH SIT eG
+(aferaca; aeqaria dha cara) 21
+
+swat afer sta eon. aaa Afra F Sr "
+(Part: weqaTts Aq)
+
+6 carat med & ace ATA AT Para eared PrStere Ae Tz Sl
+
+AIA Att AL aver A area F Pres ATT. |
+(HoT: aeqaTs Bost Afra)!
+
+2 a ST Si, a ag Sem Ga A oT eo aay
+
+afer, af sratedt)
+
+## Page 23
+
+Fel ee ae ara fagat oe sat art 2. aatt
+are a tt F Ha Hee SSM sie wloar ars Hh
+TAT BAT GAL AMT Ae HS AT As, HTATAT TAF
+Soe ee MAN ay AF Seater a tak A oe aaa,
+STATA STAT ATA PT RTT GSS HET AS TST STAT =|
+Aa H UT Sareea HATA Thea HT eat
+sftarraret Ft sat & cat aerar 3 Pe os az et, we are,
+STATA Peay AAT AT He CIMTAT Te ST TAT aT ite Pe ST
+Aa el ara arae Ataris H cari He AT
+gare Pear vam ere HS HA STAT HT eT THT TTT
+Ff werd wae Sa ATs aT art AT Tet Pea ae A TTA
+cars 2a FHT TS Faia arg aR aT Petes eat
+fran, Sarg aot Fe) eT
+STATS BAe A Tara Bh fer Ses STATIS AH THATAT TAT
+aml sorara Peat & rat ST STH SI ae aT Het AT at,
+afe are see arava A qerar 3 at a ata & 3a AI Tht
+Pract & f afar anstt & ara a ahaa aa eat aT
+TQM Al ta aa aH aeal fora Te aH afer FT
+ae sates arat wa A Rr at ra WH are FY ara @ Blea
+PAT AT Sea ATS Bh eH SF WH Ae tet AAT AT.
+
+aad & afear anc Paar Agaz Ware
+wor. Wa Hea aia H ara Herds aay
+AT ATE SAAT Sa ATA HT SHAT Sat
+tat. ofan war aa Ft arta teh ate aarm(1)
+
+zl At arerpet aferar F He
+cs aE slay arat are arse Ft il
+ter F fren I
+area, Get tary afer F averse aia Acar AT
+fear ar secre Prat é -
+ASM Fe Wee Fe AH 21 set aa efter at are 21
+(ater aft)
+
+## Page 24
+
+aferary @
+
+aifaan, dapor aa aT arat TA
+afar aa seared ar ae PATA, HT Tea TT, AT Aes are A a Pa |
+afta Freer aca ft aftrrefee star & carr 2 fe we a sea
+
+Araraaeara GSH, a aH AST aaa ara feat (1) % fers tz
+oat Ream arm oars sat IT A, BATT HeTATAS St eT oT
+apfaat at ara Ft 2 fe ses Are Pat aH ae TMT ATE
+ea ara feat & Sea, ate ta AT ge eT a are a oro, sae aT
+AT Te AT TATA A TT Sat TT TH Ser Ft Fears aT
+anit ae afaat % frafate aco & gar aaa 2
+arétara aft Pater at faar yy
+
+araat fea ate Az ert
+qa aH TT A I
+afertta ara Ft aferat yy
+ara faa tate TE aay aeart tl
+urfear eet fae atau amaranft = 4
+sfrraré aT ATRAAT jy
+
+att at ara fea aH at FT Aaa ST
+
+rang eh gee
+
+qq stv | afeat
+
+al wet dia arm.
+
+oa wart, aeqarda Fea ate F ferar 2 fH, sate
+Aaa, Fa So HAT Aes A TAT FH eae Hl AA AT
+Tone Tara Hat, ar Sah WaTa Hefty ae ST (2)!
+eo ava fea ae are fir team Bor Oe oe aS Tre eT ET.
+
+(afrareras star, 8at de)
+2 waar Prat 2 f ae wea
+At arfat a STEM. tr
+(aR: TeqaAs, 74F sravedt)
+
+## Page 25
+
+ere afer
+
+afar az a art are aan ft got ea & fern dterae fis oe waar
+
+i li ili gle atta ft at ta
+areal were at seat, er At eet aire Aare" (area) At was
+
+Sear ah CALNE coe ot mare farmer
+
+arava Tea Het ate Hat eT rest wet eae ST TTT
+
+foe a eee aed eT
+
+Brat Sey TST Bret BT AT AT AHA AALAT (2)
+wel TT THAT || sat aaa Pra Za fas war ait aaa HI
+as fare oe fata At aa at (3) ASH Her Ta ae PH A AAT
+
+@. UAT al SM AAT. Sas We Tet Ua TART
+qa 4 va fea wat
+At aa aia gaat & mn
+art aiTh Te aT i
+Ta) We sara wT tet
+&. HaaTs areaey ATT Te ae ST I
+(TaTaTA TH, 21 7)
+
+0 See HEAT, "fre fea SH aaa ST TT"
+9 Weare tad ara. sa ars ear ae aT.
+
+(aside ara Ft TET)
+wer ofe antl. cases od St ate ain
+anit t ePearcai wera ett. | (aeqaraes Ft ata):
+fra aa ata Hares arfeeni
+oa aie Ff Get aga i. I
+
+(ar Tae A Were: = Stas sa, ae 1)
+ft star Hi Ate Peet
+
+ora at aft 11
+fafira ate re ft afar a zgort Sa at Hl
+wa are TE Pett Et pes aT HT TOT. |
+
+(aati: qaTAs VI)
+
+## Page 26
+
+afraty en
+
+areca 8, Parts fans ar aren Pratita vet ae
+ce akg Ne Pa
+aL Avan St, afar saa See Hat
+ieee beter Oy cares caper
+fea as ga F sftomr site we Tae > Seftsa AeA (3)
+zpraen Fret Aer, fac (4) Ht ate serge H aA
+arattera ft srustt at seat Ft Wears Hara Fat (5) H Ta
+A sruafh 2a was ATT HA ATA A rarer A ATTA AT
+a at aeara ate a Ft ate & arco aa At are a Aas
+TAT-ATT ST AAT Ate wa ATT Ta ATUATT (6)!
+
+1. ara ar ara A Star St A eT HTT 1 Ser TSA A Rea AT. |
+(ears ate: SSIS, BU, 13) TH TE
+
+a antag gree qe aati at aaa a
+
+mer area fH afaey aract Hara F STAT. |
+
+afe ag rei afte a para vat azar 2, at sa qeepa Pe aT" |
+(aateadt; sqaTAs, 3e7, 227 7.)
+3. act at aaa aie fra aint. arerrdta farar aa ara om feat |
+(fearract: aeqarts, fret aeara)
+
+«4 tararge det A Aar
+Bol sara Haat Tat
+
+(aeqarars A after)
+8. aa fe Fer TT F aratisrs Fear se,
+oat # Frerar @ Way ah AT ATA ||
+(atfee afar: fr aareta)
+
+dees gern aero Pee eT eh! (qa
+spaar: agt aT aria, Sat team)
+6. aA-arst Ai faht Fae eat aT
+ara att & fae are ae aatt TT
+(ae area At TeTH: STATA, 167)
+
+## Page 27
+
+90 Feat
+
+eS aa E Si ASR
+ata Aart ate ofery a Aart Far F
+pre ei Sei el Ne
+aft eat (1) able i i
+are (aeaaets *) eee
+gr Be et re weg
+STeHtee FI
+
+aera & oa Fret ararisrs shart aT Os
+feaccttat Clg Pare: Gee or alin
+geaaey ve cara FH aed aat art 21 aeqarda
+aad & fH ye-forer F fafea wah afaa Ger aT Te ee Tet
+aH-seaT ate areafeaat A are adara ret Hae aa
+az afeacar at wet Bt (3)!
+fx aetraar area ft aferar Ft are & arr & PR aed At arta
+fern eat sorara ies ea H paar AT (4) BATT HH oT
+TAT ATA ALT HT ATT SAAT STAT AUNT SMT (5) PHT
+
+«afer a arnft aera ares. Far aa a ar
+
+ag Bea ATE ul
+—
+
+a are aor ae ait, aera ara aT :
+
+(aut Ft Tere, 14 qT).
+
+a ag stadt ert. feed tae ware f
+ATT fora 1S Taree, ferey ATTA, wre fT
+qe a ae ara fara, aa ae Be Are aT
+
+(ator: a=TaTAs, a 4
+4. 4
+(aaitaa ara Ft ara, FATT wea)
+
+5s. wera A yaa eon, Ra 1
+
+ara oats & are AT eT TA AT
+(Tes Ataen: are ava)
+afar (ahr vera: afta)
+
+## Page 28
+
+ATSET DY 9e
+
+wa SAAT DH waa Vea aT aga AB aT HT aaa Tease VT TAT Ate TAT
+
+ATT TATA IH ATTA At AT FT ST TAT
+
+SEA HT AAT
+
+sfrresradin & wa at ft afar area Ft ofa ah oe
+
+wee are &, Ta aT-Ae HATA Set aT ATT ae Ge AST AT aS
+amen & fer ge etd S Ate set at Perec aes At PATI He BI
+aan ® efter a faa aed oe ara Zar = PH we fea art
+a dia af aera saat yea ar orqata eta 21
+airs fra ft ae opie afar aaa Ft yeah ar ae 21 ae
+aT area fae atest Se ara Fre TAT Pera | FH aT
+arora & Page areas ate ata Fe Ht aaa ar eat os-
+wo ant ae at ata 21 a dae Ff arend Arrerad Fer
+F fafore warn frear 21 Aa ar Hear S Pe era cs TT
+a ae dacs & fers 3 aot aw AT raf 1115 at 2%, aata
+
+senfed At area ae
+
+Sir sr ee snp (2)
+
+ait sera & Ph wa walt araaera F argo ae eS
+
+q, 3a Sl ala a al
+ag fia ae ra ar aaT
+
+zat aa Hee faraz fe
+a (3)
+0 ag dat ft carrer eer. savas at Ft ars Maes ST
+
+Aer Te aa He, (HeTATAS aT ATT ASAT 0)
+1241 Har, ZA et. arath,
+are 26 #, Prey qerar ft sa areaior aT wae rere aA Tea
+ara &, ata - wad Tera
+waamfefaaraaal ae Sart Tat HT at 21 (ATT 4 24 104)
+
+4 12af Harr, 227 Ars, ATH 31
+fire aeqaraa At ae fear an aco ft eet ware 2-
+
+2
+
+## Page 29
+
+9 faliecal
+
+oa gfe 4 aa at aa & eras We ae ae ahr
+are ft ara fet 1200 + 1115 = 2315 af 2)
+fh ta aor ar aera HTT 100 ae ar (1) site Fe cA
+400 at Ya aaa HE TST AT, SAT HATH HTT HT
+ara wafer 2315 + 100 + 400 = 2815 ae 41 aa:
+aster (1984 =.) aH Bferar BT Get AT 2815+1984=4799
+
+| Fel Fe TATA ST Aaa S PH
+aq a Ata rary aT seers PAT AT
+
+=f |
+
+svat ore aft ara At att ahs F SqeTeT ely
+
+eat F aq sffaat Fret 4000 at
+sat Mea ee atl tl te ton oor oe
+ware, fran At fafere safer 4800 at fh sae sear thread
+H ff 24 4800 at ara WaT ZI AS Tea Fe
+
+arent Sit acatt soa eerat ater:
+(2)
+
+wate aredta-at az wae Soe aa aH Sa eat AT AAS
+ferar STAT 1 SAH ATATS BT FT aA aH BATT TT
+oa faa, Fa sa ae a Her ST amet Hara far AS 1 aaT
+& fea, wa seaia ae ee Fer rat afaeqarctt Ft ae ot, ga faa, sorara az]
+eared aa Wl Sa aaa, are at erage aah aT aie A aT 1
+fron ag at arr ST a age are a STAT STAT AT
+1. aa FT re 322 £7. Fara Bea area Pan sae
+aaa at deterey oie sae are ya 4, Brae are Ht eT
+rat & fe seats WH at at tH pest aT ats Fern
+(atta Dhtrerhtre aeaere wee. Ue fer are, wae pepe 1922.
+7 172)
+9, razr far, 11 v, Tar 19
+
+arate, aeert ® fore art carat ar sitet at 12,000 at
+@l Walaa, TAT, HEAT 188, ATH 27 ate wears 1
+711 afer Per aa H, faarat Ft Sa 12,000 ae et Saaratt HT
+are ferar afte reper Ht arate Patter eet H ert St are
+
+## Page 30
+
+afer ml
+
+i al be ll eo le
+
+100 at siz 100 a4 sits & at Paferga ar
+apse anil zat wr Hate 1984 ¢. F afer aT
+ant art 4799 ae & at saht oT saris Saft arate 1985 F<.
+#4800 att ar att Zr (1)
+
+areerart at eae Raia Prete % 2000 £. % ara erat
+At oars ar ware fara 21 SestT
+
+aarearraraa Breqeaest wearacare: feral
+
+Fay Meat H, Mrs ser HUTA HAT HH AY BT FH
+a ee
+At aoa aed BT Herat Ar at ant (fara aTAAT TT) TAT
+STAT 21 Sa fe A Baa Te AaTSMAET' (TaT+ASTH SSH TAT) AT
+ai az Sten (waa 3 area ae oe SAR as Ha) adh a art B
+waa (Jet saga Hala- Hes, Heat, faa, afeATA,
+za, Pater ate aftara (sasha sree taT-
+aifrac faferaea amet), tz (ASHI ET WH ores HET 2)
+weTsH , GS 1, 78 205) ste am (‘ahadt waa anferera alas 2a,
+area, cera ofa a afeartray' (ernergH, Gs 2, TE 293)
+379 am) ftara & sare frat 2 PH ae feds at ovat at
+aaifara et are 380 €. Hf arsrret fA fh
+
+Heenan (esi Nirthe ee
+al za ae al at Stas FIAT 3179 + 1605 =
+Sus FE Se doo Seg ya aT
+al Aa AT, ARTA BH AATATE SAAT AT 1984+16=2004
+Sema
+
+Ag atfeen & tat + aad ais shear a afraT
+} are ate ver teearates * fare 48000 at at afew 5000 at eT 21
+
+1 araith, aa cst at fen & aritre faa anit ates Fae
+wa ore Ht 7e & Ph are 1985 At are eg ater Fears Sah
+(= ztea ate afr, 18-7-69)
+
+## Page 31
+
+98° arfaat
+
+wr ah 2 ca aad Faery acqares Hr arn setadi 21 az
+art afacr ft afte F fora cee
+TAT Tay,
+amet FF oraz freectt, F aes,
+FATA Fl
+Aart Tat Tera &
+Taare Tart era A os order ce Fh
+WH AT CATT TE SEA FET:
+ae ae dat F Ara Stat 21
+ar at dia gen saat & sear @ raat
+om fren &1 ag are aera ate Har
+ser Aare Ata arate aasT SF sett
+ATH UIT TS AAT HT eT Afaor He fae’ FH
+eaters az ferat 21 ferett ara siz ae ata ts fare F Pee ae aT
+afaa are fratita frat war a1 sa-
+aot araz ater ararg aac fot et
+Bl era Aaa afen sa Ha Eh? agTI
+yd “He, Ta a ay "wa ots eae aT
+tera fe arnt ators aya Se \
+a He at A Ta Gag Taz, aT
+FE HAT Sl HA Te HAHA St AAT S Ta AS
+Sr ah Gl ST A] GTS
+faa et oa aa Prat AAT |
+at Sa ace at Ha aaa Fer = bin
+aa ea are fea Fae, a bly 1889- |
+usa aaeTaa, Teta)
+Harqe ardtara & aaet “aret aia Hae At sara Pe
+srrear rsa con sete Harr setae ere
+
+## Page 32
+
+aire 98 +
+
+arden ft ot gore Pett aaa
+at AT Aaa HT TAT Tat ST (1)
+Satay Ate Teas STs (STSaTAT Ae AST 7) AT FATT
+are afer are are afer aaa Ht creat % aaa F ohtat
+mee a ate Par WaT 21 Metta Para # efter. Tava war
+@ f are 2000 am Prett aa ar aT eH at STAT siz ATA 1989
+am Preft et areas arom Say
+frraraa aTe-d7e We AT SI
+at Bl We TH eas Bl ATTA! (2)
+eqs Fat Het aarti ate arr ea! Hag At
+ferat @ fe ar aa Ft iT rahe war: 5000 at anf site aiear
+aaare At efter HAM: 23 at aw vee Salt (aS Heat aaa TAT
+arate At feats 2a & firth seat) ett aaretta A 2"
+10 fart eae ata UAT as TTT.
+Re ah aa a Praet ae
+afar arfect are Fa gar AT.
+att thera aaa za z |
+qa HAT TA (TH, MEAT, ET ate Ada) ahs aT H AT IT
+ata & at aeat (4) orf, watt 4:4:4=641 fhe fart st
+H Her sez Te Z, safer 64 Fara We Ae 46 ANH Sat 46 FA 11
+arate, aras Tara afer yer! H aafergT aret
+ft vate ata sore at art we 21 ae fora cet 2~~~~ Ft
+Hum vat H arftar ar zat V1 FA SF 5000 TG HT az l
+(12 sara);
+9 - BAHT Adaa z 19+29+52 (134) =
+100,200 aitz a Hear FH we AT ATEA Ie 2000
+far adie at eaters ® garite 3 set aa z. aie ate art 2000
+F 13 oS ate Ag F 14 ae, aT ae 1989 sett erm,
+fart af 2 fH ales aa aH ATA BT wee He SAT STAT hs,
+arafter ona aera Tea art Hera Sdtara A aT FT AT
+Sar wate & at at feat
+
+## Page 33
+
+~” anfaat
+
+al Bisae 35 fifaa 21 sa 35 8 5 art ae ae 3
+
+art ate #1 aa: wagers A afeft art 5 ota
+5 soe ag aera ar ae fear 21 Sa aaa arf 5000 aut
+ATT are safer ar aa aa ara A afaoraroft Ft
+Te él
+
+‘aferned F ft tet A ara at we 21 sega
+aaa & aia fae are are Hoe fare fear ate eT -
+aaa & aa ata oft a sa dae HAT et.
+
+Fai 5 (Waar) aT et & Iz, 8 (aeTAA) HT AF 2 aa,
+4 (eR, aaT, ea a) eee
+(fter, auf, aa aed, BHA, ofa aie ada) six dear 23 arf
+
+tar Arar ara @ fH af agar At feats ar 1647 daz
+fiz qT z, lh lal ote 90 €. # Zen ae sa aa aT
+
+at WAT ATA ATT
+
+aei 0H ale ware Soar &. AeA Fras Hares HF oaPa
+aaa tra et Pere FAT A ATA ST eT z, saa ere frac
+aroqaraa Ft ‘arte afear’ H Frerar 21 eat seziet fora
+
+aeiamett aT? = ter ofa vere "
+are Wt ae eT \ ee OEE W
+A Route ara | senator ge Wl
+r I ae 198 wat
+eo 1 bara Nl
+°
+ag area ait # 1 "a ) "
+7 Waa Wea! H wer ware P oeae fea are
+aa aS At ae AAS AT TT
+
+‘Wa Teas Tet TAT a Aas aT TAT AE
+
+A are & area’ dat wet dana Pear st aeat & Fe ett
+av, sate 1984 $.1 23 wezaz ft wearer H, ae 1984-85 Bferr afeer
+alee a cieez F art arfter aie are Ft aaa TE
+
+## Page 34
+
+TPraTy ro)
+
+Taras F sas % fsa are Ht Reahigear
+ART TAT Te Se AT HT Hae SAT SaTATasy FI
+waite adara wrote ated aa cH are feos ea cs aa aes,
+oot aug a aa Tec 2 fH ea ae PRoafts 24 Z eS TT
+ar aTfaet cat Hal Aa 2? Ta dae F, arava cra Ft :
+aeftarierar ar frac sera 2 ae aed Frere & fH ae Preah
+2a (Aten) Fare aa art ta HF Para Fe eT aT, ea ee TOT PH
+Sa agt SHAT TAT AT HATA BTA A HET AT——.
+
+Ta & Yea Ba. set A Sadrarat
+SEAT EH) WERE ALTE
+
+sainer, aan aT ada a Tea.
+sree frac ar cara F Tag ET, wr rad eft 1
+
+ee
+OT AT WATTS Ta BT
+lb SA ae lal lle a
+arta a aorafe Peters at attra Pro, afer 1568 €. Fate
+Sa er ora se. 8 aes ag TeATTs,
+sr a er BLAM ae (1) TAT
+aa: TTaTa are Ft fers fora h ATA, Ae AAT
+faottigea afer at afte za 2 (2)!
+Boater cer a yeaa, acigea, aeraaea, wera,
+WHPaea (1341), eases (wa7AA), zz J artars-24,
+waasea (fedia), dPretteea (94H), ig-24 (fect),
+apeea (fedia), THaesea (tan), Sie Peatreea (facta),
+frorftieza (fac), weaka ( tae), ca aka (Aan), APA - Fa
+(ff) att erie (aTaT)I
+°. Rearfteta & aaa aaa er ate ae arearaear H At ot aT
+ara Fara hr at Prafafaa fac F ere
+
+i frerr ert TT ST. Ta aaa Sr.
+
+(waz gaz afar, 14 7)
+
+## Page 35
+
+or afraTy
+
+alem aaare Ft sereaett
+
+qeroraret a apie earae Hare HOT HET = ST
+ATT SH OTH Aa A AAT Hae ATA ATT
+facoprent ATA Patan Adar
+pica)
+afer arahare ’
+aT (1)
+fog qe ft arrad oa eae aT aA FATS) SaTET OT
+fern, ARTad ATASAETA TFACTITA TATA 8
+arenes faopran BY agprrerd SPT eH ATs
+ware ft anfeara ae ert 21
+Felt araaa 4 aes Heras HAMA F ST fae
+fear 2 ae TAT Sate Aa FH ATA FH 21 F foray 2
+afer frcoprart facta ver vatfeate
+sera Hersrat wera WaT 8
+TEA MITA TTA ATA TST TT 1(9)
+eae TAA Bat ana F face ar ara wes rate
+aaa ara ata ar aot Tet F fran | steer Aaaret
+a aaa aferarat 4 dae ares ca ata Ft aoe ae
+wart then % oe Za a Seca Peay 21 ergs aes TTT
+‘eeTHey 7a Ge A frat ze
+weit oq rats ae aera ea a em a aT da eftet ae
+
+gl ASH UT Fel SMM. TA STA ara tT |
+(aferaed; separ ara, drat
+arara) arate, ata a1 ar faroattges aa os rea 2 te ag ahr
+al Fal UT zl
+Ry Atrgrraa, 124¢ rarest, part aes, ATs 181
+8 werarea araraa, 161 =.
+
+## Page 36
+
+HEET | 9¢
+
+Oe ald Sah OH wen faraey ore! F oft aT ve 21 Serer fer,
+aaa aia & Proren  ae arare FT HH SPT
+arava cae Atos F sree at aT aT HAT (1)
+
+at qeate tar at eat aa ar ras BT
+
+& awa Ta a dae Taz fac
+amet eae AT aS
+WET ATA Seats WH AT ATHTMT FIAT AST THT THAT
+waa’ a aft wet -
+afta an ava far ats at gare gate set fafa F oT
+F heran ara afeera a ga: Strat % az & Sa
+
+aoftarect 4 5a Aare FT WoT Mer STF eta Pear ZI
+STA. 24 area & efter aa ae savant ate ey after ear arar
+Bl AAS TT aaa, WH are arias A arava fra Hae Afearae
+a yer fe arava fore ate ore aor et ar aif aa area F tet fea
+2, ae Seta sara fH ag ‘fara aa am Sa aa aT aT ‘ate
+am cafan & ait aet Sora FST A are ate ao
+ea Fat os ary tea SI a
+
+ila eS re Ra ku
+
+zat oreat H, cat Praraarftr fora, eat a ate 2a cards Ft St
+al AST AT
+
+afte afar & facade a sara FT
+fa za ataey att ate aT frqarat
+samara eae end
+afta aT
+ATA -AAMTTT \
+
+1 gat ya, avfae ane, Fe-10 art warfare
+s ware fara, 74H Bi. ite 37
+
+## Page 37
+
+ara y
+
+aaaa Brerceat Sat
+varfeas art dee Pear rar 4 (2)
+
+Ba areuit &, att dae aia ara aa aie eftee Ba A oaaTT
+eT, Ta ATT wT FH dias ee Sra aTAT SI MAS EAT
+aren & fatirs difear af sarge aT fem H Treas HBT A Pater
+fear war 21
+
+aera ara at fae
+
+tr, AEA THA FET 1 wat EF tat eu.
+F araat aaa g Pe rere oe taf
+wai ATE HT aT _saarara far aietz=
+
+ae aan rare at {oo afe veradt are ul
+(wear 5)
+
+facseg Hetedt fasrarer Azar (FT, 51, Ferraeft)
+aoa art At UAT
+wat dea ara. arity
+
+wa at ae eT
+aamrraaam aoaahearsia
+(wears 1)1
+aeqatta fer 1
+asiavaaarae ar ot ATT FTA TT
+(4= 3, wear 9)
+aoyaas HT Paarrae ray
+AST FT TA STSTAT F APTI
+AE Was aT ATs ars THE lg TAT BT
+(aeaTa 6)!
+1. arate, afar
+
+afear 6-4, ‘eas FETah' F sate ea F oars
+wra etree 21 sat ae @ -'soret aaaerarfa faerera aa”
+
+## Page 38
+
+afereTyy ne
+
+aeaTs HT BOTH ACT
+
+favor deat eft fig after F 21 2a Harerqe wer aTaT 2
+(1) are Stara Si (Tee iPr)
+aren ata At Pras aferaT
+
+TOT FAT, TS TAF ATA BT TT SI
+ra Pra aor ar eH AT fare SAT
+
+; (#057 1)
+SHTaTA ara Ht HATE »y
+
+ga sadia Haat ge are fora Fer. |
+waged eat aserat. aren aefift a sara FAS)
+(Cy. No.355 stat a4 Arete)
+aeal STA (ATaaT) FT aera
+aaa ear aamet es = fe A Aart ad ea |
+foot ara ora afc oat art F
+ditto ferme: § MAT AT AT Sar
+
+(42417 1)
+SHOT ATA HT ATAT ay
+Tee ECE Bee aT ae oy wee
+
+cee ef gar a |
+pic ll Tat ast
+1 fatar arat fret
+iene lag v4 ar ata erat SI |
+sername afieqra wa at ead Sf
+(aeaTs Tt)
+
+1. SAE el er TT NE PATATE ATH AT OH Ta Sl SA
+aia oe Ft STE BT AT aT 21
+
+at dara & era’ A Her are @ fH ae Hae Tia Aa:
+rye & ara wea ata Pare fea 21
+
+## Page 39
+
+19 afrary
+
+ATT are HT ATPAAT
+
+A ee TTT
+
+moter cree ean 1
+aeftat, frat efarat ae ar
+ara iz afar Ft are eT
+
+SAT AIT AT Z?|4
+
+Wa BF at Bist ZF TTT
+
+asa ate ae teat! H
+
+Te FT aT He AT HS, SA TAT.
+
+fafirs spare F avers & arar-Prar ar ara wearer et
+wart fear ara 2 Hea AT SA aaa Ae aera He eae
+fear 2, aa 4 sate ait aad & e7 F, gas fas ier sie dapat
+ere ae es a ada fre ate vaya & So A afer HE ea Ie
+aferett arart % arar-ftar ar sere aia Fes atte geqradt Fea
+fren war 31 aerge sega A aoe wafer Fra at wT ge TAT
+al sare ee fear a1 ca dae F seete aaa foo freq cas A eT
+
+ETA AAT HSS WH UH eae
+feet H sarara Hecht wa aaafta Zit t
+ae trait Geax daa aia a eT
+ati an nea 14a F fees ze aT (1) ATAaT aT
+ava vayradt, far ar ara aaa 21
+Aan ee ee oe
+
+wp dat waa aT te 21 herr
+
+BH fterer (2) strane we ater |
+
+1. afem qe (a.) H afte 2 fH sare aT stat FT
+wa aaa ahem saat Ht aT ore Aes Tae Te TAT
+are Prstrht weepra A anes agirs fra ahaa ate gears ore FAT
+
+9. ra qe
+
+## Page 40
+
+aferat ™m
+
+Tea AH WTA Fea Fl SATA AT |
+gaa Aha THETA ET Fer, FA aI Fea H TaN. |
+
+o o °
+
+‘award FT ee Tae ATE Fara F SET AH
+#t fa weet ar are Hier STI I
+Se ero AS SR ETT
+oft ara gectht wae
+Heed anee oe tora og co ate
+Te Ua at Tz ST ate SPS AT.
+za dad F, nerqe sega 4 ah fear ef aera aT
+ore pales F Uo Weppa' AT ger ararfaar ‘arara wa"
+arr sat oot saredt a a, ‘sear! are cara oe ae pet
+safer rn sare of ara At (oreo a aaa) Fea
+am
+
+WIT FAT?
+
+SITE (SAT areas ATA SsATTT 2) HT HS Tat
+Hara at op ope site aaa Gert Ale wa F ATeqaT
+tars 31 dopa Terarea TAT (HEAT 85 Ae 14) H Qa
+aacoft def atc fara dts an ania 21 ca aaa
+erage taf va tf reap eer ae
+
+a a SB i
+z am ee ara & fau agetata oadt
+qa at favor ara 4 earita fear 21 set ware, aad yates
+arr are aariaa ser ort F Te ea! ate ‘spr sez
+sn fee ee der ar a
+SAT aT
+
+aftard & agers & qari art gat afar ae gor AB A
+watt orate & atte eft ofeare area F acta F1 sre
+afrortt aa fear at anit f ad ge & ste Sar od ae raed
+
+## Page 41
+
+m8 aferat
+
+tfearas cwara aa A aa Pear 2. aca ta ae ae aa eT
+pre Se ret ee ene Re. qa a art
+
+ae Taya ATA FH Tad STI (fait
+Oa 8) Sar eet] ie aise aere he her a
+Te AAAS F AT ATTA F SAH Hey ar Seats afer FY
+fran waré, aca da # ea wear ara Saat Al Bat
+MAT AT HATTA ATS FH TST TAHT Ta SA AAT TT
+Be Ss RITE AT FOV Si TAT SETTAB AME
+Fe coe aah are Smet ast A AT ata
+feat 2) wer arar 2 PH sa aa H saa aac At afer STs
+At Pe taco aah ar ort o-t ra At aT aie HS ANAT A
+arett oft fear ait Ses Tor STA AT TT BH TAT ae Ha
+aaa wae aT Slay Ae aT Atay Toe Ft oS fis eT
+zat ft vara a ert aa: oe ect faeon Ft ae fis qat-ait
+a aot * aatg att & ee F afore we ofafee wet
+21 fra var orfee & fear fora F ae tae aT 2, AAT I
+ar wefe At atfere orth ae fara, toraey ate ar Para AT
+Ha pal FB ital ils Sl dal
+@ Pe Aaant & fare & fac et ar area aT TTT
+aaa yetia adie F sarara chara at afer tara
+
+AaTaT STAT
+
+varies Ft we afar zat
+
+ara at daar a afer Tat ae aT
+
+At ofear at trea fro at Ft earqat & fero wH aaa
+aft % Saga a gear a rare Tar a1 eat acafararet
+
+aeftrat $t { AAT-AaAT AAT Ae FATT TE TH
+Be al Tals Fer carat Ve atest wat Tega
+
+firaar z, waht ger wer fear wa aaa zl
+sade & ardarraral fear, ayarfaa et ate arariore sitaa + aor
+afaca 5 fafere caren FT cada at eet ST a ore Paz
+
+## Page 42
+
+Afar] ae
+
+aor Ht eee aie Pararer At ofa & Para Fars Aa siz aa AT 8
+faa att atafer caer A serrate areas a rea BT a THT
+ey fear @! faeaaat arhfifear ate a-aedaa-aite, Peat te az
+aprareed area At qare afroates sfearet aa alates F TST
+qaera & ret cre after ater det & Frat
+ia ae after & oftada ar ore aia ate oa a a ahh aT
+ere ante aferar arfecd At are 2, faaraae eat TATA
+aera a fran arises aearenare Ae arar-aTA TX aTaTAea (1)
+ae aaa wh ths Us TE ATS ATT Ft Wat sfrat 21
+
+We aT Sa HEThrat HT AST ae HAs
+Se dt aaa = fH aeaat ar Stra BATT
+mT afacraritrat & az Sar
+
+oe et TAT
+
+aa ETF FA F fA Ses ET TSI zeftfert
+a ae aferarttrat ar ware aes ae
+
+Wa As WT a AT ATT afe
+ary at Haz z, Sadar ee
+
+Wt rgt 9 NTT Prat 4 pect wT
+1 ae 5 er 1 3 aev el ae was
+rn | ae are.
+° 9 o
+2a ara Ft Bhat ) We sar te t
+FATT ITAA, AT EA fear at fefeat
+at at ara Pe ts fee ae.
+
+e ° °
+garter a aaa eras er ae aT TT
+(qtataett, Fe 3, ae 6, HTT)
+é Tarr favo ae FI
+a art Ft at FT sa ae
+
+ae F ted Zl 3 te att. etere ate
+
+## Page 43
+
+22 aferery
+
+‘et Te HON! ar TT se eave aTfyda ar TT art HT HoT
+erat afer (1) ar, aac Ht aaa, aeteat ar arene aera,
+ara # aecaratean att Jerr A tear aaa & ofa ates af ate oa aT
+afer & ae 4 ARE ar Ua SUT ZI
+
+al Ae TAT aT eat Sea FH SAT TAeTATOT
+AAA AF Tal HTATT BT ARS F SCAT HT Bh a ST
+Hite fear, wel Sarna cere dat antes
+ofafaa & so H era Ft ate ca aa sftaz aeqists ofraralt & er ate
+
+Aen are Hl TIT F Vani SA Ha arises H Aar * fore aferar
+ft faire asearat & frac ft srt fret z, aera =a 4 fac
+maa Fs sae, TAT A aaa Gert afeetis, aie geo aa
+fart (2)
+aefrat Ft ae at areaar 2 fe sen sansa ae rast seat
+ee ee ee a
+asa wed fata aer atx ate ferom ines sete
+amftat ate qergfeat wert eettates aT yee
+pl i le PIES
+foro oR Rafases ae HT STH ATA STAT SI atfeert
+ies lea
+ate fare morphs
+fans Tt att sat in ere roa
+Hae H FATT H ATT H Aba Pl
+Se areas BT Aa Par ar afar FH Tet HAT
+ee YN OL TE ST YAS fear & aeart
+aaa cat wa ear fare 21 Para at aT aT
+1. “areca fae’ F gtera ate eepon wenia ae site Rat war
+2, atrgrrad merger Hf goo art ftda ST Waa FETA TT
+ate afer ft ast azreat A arex fraert ar TAT TAT TAT 21
+8 FATA STAT. AT Aegan a erie. tar zeTl
+aa eda a aa. ora & fF az ater 41 1
+(marsha: aeqaraa, sat afar)
+
+## Page 44
+
+afore y a
+
+areata antasts ft frtae arate tect 21 cafe
+ofan wat oe went Ths, F fg arfaa
+ee an ae ee
+
+we wate aa Hoa ae Prat at aera Hea H aA Fray Sf
+at Prara orfte - vata ergen aaaaar ar et StF Aart
+aera & fem saga AT Aa eae: ST AAT Fa Sl Sa SoM
+4 aq oz, are ft Pare wet ae aa Pe a ferar vata aT eeeTaTS
+Ut eae fea edt ZI
+
+ait & are dae oz Paes a area & fare
+
+angie vara &, fara aH arht gare srr araas AA FT
+oife wat St art Ch afrar om as ave A oper cet &. fet ae az FTE
+ard & ant ag tar é, Sat ae aT Barat afaer Ft alorat ar ara
+FAH AA A GMT Soa 2 aaa, Ae, Hraransirt,
+infiretart att ara & ofa Star anfe Ft sare AAT AT ATA TAT
+fear 2) ac ae St, afeara ate are ft cee 2. aerate
+ar, iat & dim, ae & die aiz cet ® fis feat, waa, FT
+ate tad 21 alah ata ae ae ehare WH Ser a ae Sa FT
+TSF Fel Sa TAT Sat ae othe He aT, aT aa
+tay Srae A carr Fe rae oe ae a eT AT ae ora F aed aT
+are Sor Faraz Sarat A ata & fare ts Aare Hea HF SET ZI
+aan, aft, aT ate eyes AT we oat aT aera ate Teast
+aa edt 21 wHerarare At HAT Aaa 2 ST ee AT area, fora
+ae Hat SAE ST TAT SI 13-sftaq ot a rita eae
+eer ake aera Sen ch cae fh er oo
+
+ania | ant at asia
+
+fee aS ("Ae arerar arg & aft TIT AT") (1).
+
+1 eff amare ra a act fae eda eadt-wree 8 atara araeet
+A avert scpft ar arr
+
+Peat é - at a4 atx ward yor aT AI
+
+ware avs ge arent & fers wh aT APH 2
+
+## Page 45
+
+ar HPraT |
+
+faaett araat % aerate aH Ta or Hare Ht aaa aT
+frre at ara @1 ahaa stat aaa orqait & area tea Z,
+ira att aan Ft aaerat 1 aa aga sia Peale tar ae 4 2 aie ee
+fafa anit Fatah attrat et ve Z, frre ser FT
+aafa We ae vara IST @l ara, 2041 TA Aeron, aH, sare, |
+aio ae afeara ft at 21 cart yeahh og, arraar, ear, fet
+afte area 81 art Pea Haron, avarae ate Sarat Ft Trart
+aaa a aarscarfeat At arate ws arenes teqaear 7 art
+Haws ar re ate fear Star seal araracor a Paar az Pear
+Bl aa: are ar ahs ee ae Parra At area aT @ site ae aT
+Al AeTAT FLAT vu) seat. AEA (1888-1965) Ft
+afaat 'u fag! ate 's as BT ca aT
+
+ware At gare Tea aT eS BT A zat Sl at fore Ter e
+
+‘Star aot ot ad; a_zea at aT,
+gitar a Hae aera ett ge Bl UH Ae ST TAT
+2, sare Gren at ar 2, are ae org Arar aT
+aarle SF Tar 21" (SAT APTA)
+
+Wea SRT ZF AT
+ace 16 aig ater an sams 1984 ea Taft
+wars Ft fer ait ast & oftaa ar wife
+gata i fea eetet F eat 5744 ar da
+za ay 1984 ¢, faa ‘aera! BT A aatar
+qar 2, fora st ‘2 fare ar TI
+SAAT AST FAM ST, FAT
+Se area A ae aT a A Get, TT SMT...”
+fi. aft wearer Ta WETTTA % Meat
+
+fx at aHat e UH AAT aaa,
+
+ad zat Seat
+
+@, aaa wat aA Aart GT AT 21 (AT TA)
+a “Seftaren” Tfarare 25 fearax 1983.
+
+## Page 46
+
+snare me Teva :
+9 Tar ]
+Srv ae ag fen ae ao a
+
+ia tramioan dl mrecciestiteores frava
+af per & fe few Aa 1985 TH ATA ATT ae ae
+
+1979 £. t oecia ian Hf att equ aT garam ft a Pa
+arat are at aaa fam Sia ae 4 areft Gere =
+
+araifeen ate = ware & fea At Rafe oe sat Ft 2 site serra
+fran @ fe gar fea at zat
+Haz farrast (sem 1488 €. F eres * athorar Fi)
+a afacrartt Ft oft fe 1994 Het afar at fare aT ATAAT |
+aa TST SAAT eT A-
+adit raat
+far ar ata at ar
+St. waft. arse Ft are Gece “SAT Sara sht" FS
+aroun ft @ Pe art ra ae arse ofa & fers wh Va AAT
+arm, Pra dae ators At ahh, eps Sarr HT att, tars
+ira B crane PEATCAT ea AT SATA, TA aa
+Prasat ar start, teary faeare ate arer-aare Ht aft eA
+afanred fratrancra a TtHaz ote Fifer H TAT, 2000 =. THI
+
+&.  gaaadaadem aart | TATA eT, FTE fore |
+
+= atom’ area a, afar arr ETT
+
+l
+Rea, wrt Hae HET e | aR (62 218)
+
+## Page 47
+
+se) afar
+
+tet aearaat & Pe yet oe are te aH AT TT TEE
+waft, tea Tvs sos ate sea Gers Ft eT z, ‘afar
+art vet sta oz 2, ee va art aT
+aa fart an ofan ted 2 ae Fa 2, raat ast chat
+wet & aa aH ves Te @ at rt ae aie sitar Hee Fae
+arr ert ara 21 reat F fered we Pravat ‘area Braet
+gard gor aie Wearaqaaae Parad’ F sag area HST A TT
+aftada ar are fear am tar Pear war M1 sat ave Ft afaeraritrat
+Aaa ae Bl Feat aH ate Tea a i sara He ae eTA I
+AAT, Ht ae afar Ata Pea Te A ava aI (1) 1
+sate sarfact ateeceta oft ca cae tf aeee 21 arte ara
+H ferdt we ore Pron searactt area Ft afaorareft H Het yar 2
+ao asa aatear diaz fea aa F ot ate wa fare ATT
+amigas 9 tetae Sed a etree fer 2 fH at 2000 Fett
+F area H we Saar Far St atte iA ar Aaa SA sz oA sr Ao TM
+Weal anft acfars & arqare area ad Ho oe areas sath aT
+am Prarantias area At wpe efter Fea sarah FT
+araat 2 f ar afada are 2) sat era &, "ee Sere ea fre Saar
+ama wat 8 site amt & aE cite aw AT aE
+
+ areft ae" (2) ea hear F Usrar Wecert
+
+ofa foam, Pra sist oat site ard At tact ata area
+far aaa avat wera oar & are FH aa AEH ZI
+
+arard tortion + aaa aaa A we aera TaTAT
+AT SAAT ATA AT ATT Oe Torey! Tari Sea ATAAT ZR
+“Prat afer Sor H oar fede
+Ops @f seat" (3) Saft Saris w. Apieeht a eT PH, aa a eT FT
+aa Proot & arco He ave AT caret wath Oat wep sr
+e. soft araradt, 4. 17-10-80
+9. wa fraia, ai 1. 7-65
+a. -zffare ATs. 1983
+
+## Page 48
+
+fara y we
+
+Sai Aart apt caret aeet of 1
+satan see ex or f& fae after F cara
+
+leben mie tiatriae
+
+aT ple eballs Veil
+Ee
+AATe St ae & oie hee qaqa ar
+
+Sea Bl ter al Os, Ht. srrarest Ft aaa Te
+fata # <a gies at
+
+aATATATI(2)
+
+Hare At ater aherar F varias ate Paes site yet
+See PRES Ss TT 4
+ae san TRUSTS WATS AeaTat Hales ST
+ara at 1s 21 (3) sara arcrefaes FH aca ARS at Ht ae
+ae Se at erat ate arearer Team car rat arity classe
+Hea Fe ATA, Wa et ae aa Stet Z, TT ae Test az
+altar arent ard @ ate gest oe aaa PTT SAT TATA
+afta 1 Feat al eee Tyrie, att & acai, wa
+
+at. peat att areata, catects & AT site water & art
+ely 2000 % aorH h HET HA, Seats aT Wades ar ae Pear! ST
+ata tet arerart 2 f fea ag fas aor aie aga a
+aT ATS STUNT, eT Paar we aa BH refs ST TOT Be
+area tar gar va wera Bien afer ait aT ear Pear
+afte wares orf At earrat aT (4)
+
+za at aeart 5000 at vee ated ge aT ote Tee
+
+500 at Haare BT A ares ST far Tae TAHAT
+83, av. Tha Aare sere aoree-AT. Fe. Sere az.
+
+2. ater. fiety, 1-93 :
+
+ay@  sarforn wea 1981.
+
+8, afie cr, 17-3-84
+
+## Page 49
+
+v9 afer
+Sa Taal Cara F Vad H Ale HT Soe
+
+aU SU a
+qa A aretat 21 Tet safe F 1980 4 2000 &.
+TH Sas FTTH SATA AT AT eT TAT Bl Feectt
+a Atararatel Thtseta! ar Ara & PH ;
+AMAT HT AAA A WAT Zl ASTTS SH ATT
+Te aTaeT AT HTT BT SATA Tt FT
+fora & fe godt oe arvar & dt eae St 5
+att 1980 siz 1989 % ata erm, 1989 4 1996 |
+Sr Ee pect 10008 2000 fe oy Gran ree ghar
+H HS Teas ATT
+sitet % aqare WH Ae aT Us ae Gta F ar
+# as-az ae ate crits ahada ete Z (2)1 Sa
+gfe a az cararias 2 f 1947 act & are 2047 aat aT ara
+UUs BS 6 Oe aa eae gee
+At UT aT HT ATT Zl Sega HET - "AT at 2000
+a oe dar, afar a qa att
+
+ate wR eaUt AT HT Taq SPIT" (3) APTLY Hava TA AT ATT
+
+@. frarer ar aif, 73-779.
+9. sftera Fae aTares ara 2 fH HaTA Aa,
+fase ar crrfifee aPeadea wa aT a PATA ae IT
+SATOH AT aT Ft eas Fe | AT OH TA
+uftada ea @, ate wafer warsres oe fatter A area 7
+am ar ft qeare tres. We Ater-arts Ther
+weuent 19221 j
+aaa terres ath ares, T-26 (rT
+7)
+
+## Page 50
+
+aPary mt
+
+afera, sax, afern ae fefar l
+weft ara ge daa St STH ST a AT) TATA |
+Ay ett avs aT aeeT Ae ara
+alfagt warara ot amet oz faetfiar =
+wait aayT a ent Aaase) BAST GT
+ara pal-aty & ye fis ae za Ge FH ea elt
+ALA Ae SAT efter are aa ATA
+aa: Hava H ATA A - 2000 (1) F gett ax
+wa a Sar ieew ear Crit we 10D WN STR
+Aaa ar saa Sh wear orfest earftta Shh wha At eT
+H faz At ca afteotsry aa Bl Fre TH AT TH Ae AAT
+Sater Aaarerat Faery H att se TAT
+arma Ft Ost agar & ara FT 21 ea Aaa A erat
+aaa, ediara aie arqara watt seater 2
+
+ara art ara ah ea ae vert H Fae
+ag ae Aer 2 a TATA ae Ara Tae fe Ul
+(fmt, 227 T)
+att Tels He TST. aaa ae ara faat u
+Aiea aeeracare \
+(SOOT BT STA) |
+agian Tat
+saa dae a at Ph oe fea et ee
+Wh SAM st Sas HTS.
+eatare Faz 1 (Aref Are) F !
+aarradt at art H adh ore ar aaa aT
+QNeG- aaa Paaafeca ar ar ae, it Sat
+daa 4 56 ad 74 wees Za ZI
+ae SepA-AISA TATA, TAT! FEAT
+
+## Page 51
+
+rd HFT}
+
+alaeia
+
+zac @, fra faa
+om ga weqe Tet Pear
+saa orm St wer FH aes aT ACT ZI (aa)
+WaT H THe SA IT Tae HA ST STU (1), Frat
+AT dear qeat a ae Zt seat (2), aret wat aH Te AUT
+att ate peat strate Bt area (3), aT Tat Ta eT
+ait ate at art aeraret Bit (4) ate ater Hort FH overeat
+F aoft 4 att (5)!
+atfear # we enn, * anit
+art Hare err aaa || (FT
+UT: wat set, 1447 grates?)
+aia H ate aa. ge aera Perfh.
+(Prgata after, star sea)
+0 aa ea Tent At ten faery ert.
+are Perit 3 afra et sree ate sort orf ze zt ore” |
+(are aaretia, garde, aeqaTtz)
+3 afer ag ararartt 20m. arit at at er ara atm te ant ert. |
+—
+5. ard oe ge ca a ate AT oa
+We aaa dar ward hae AT
+(af vert, a fran, aver errata)
+aia Saar art aS 1
+ford arar-aret wat fret or tet e u =
+(Areastaz sitar: ferax art, Frey AEA) |
+5. peat ae are ft tear vet @ at tar rar aT
+aftag fie ae tom, Fae OF sat aT aT
+(wee atten; fA: aara)
+ae aaa Pe ARI AT HATH oat
+qat 20m fra fea ae wet ae }
+dom, oa faa ae vas Erm
+
+## Page 52
+
+afer] ¥8
+
+aferar tae at wae Stat ae Ma site ara
+& (1)| stair ae Vee fae fae sree AT
+
+pected: banda afrarat ar verrert
+az vata wa aaa & forfera aah art Prat
+pa per iaenraigaep ny sagem
+
+sete gery lle
+; Prefer oe wre Fe
+
+Scucacisita ci
+aor F uta At arez, pealabiycy Ucecll Bel
+WAST H Bt MAT TT ATA, TT Sarah ft ang tae,
+illic Sialic Mad sdadihabal Sl
+oad aaa fare arr. ae are a AT SAT
+art 2a az Faro eet) arf zoe H eararee Saft.
+(aeara art ae 3, Ge 1, AqATA)
+ae ae sera Pear ot aaa @ Pe fae aia & fred fg aot art
+a a aad Hort tate aad afaorah F Prafetas acne sere
+far F-
+ere ITH TATE ATT ah fat tear aatiare aes |
+faarra 21 sa fea aa afaorae HT Sz STAT Tl
+saat ara art &. sari feo soot rT
+e. grates, tor A aaraear F ade F St aa ares aT STE.
+HAly APTA S FT ATI SLT B—
+NAT ATTAT. FT ATATATT HT TET. }
+aga FATT Sy ATA. u
+aeae aT. \
+
+## Page 53
+
+i) aferaty
+
+aioe The RT I POEL MT Se ee A,
+ae Pe ears SATA a ST ae ret ae A TOT TAT F
+fora cant @, Saat os a aH A ach on AT TAT A Ter Gat
+TS, Ae Fa aT hee, HES te saris 21 Ott fae aaa
+& feaeat wrart Sap saps avert see
+al fader fear war @ fH a eae ar ae, if, za ate
+erat ae earftta ach Gaz at yo BTS afta Fz AI (1)
+star fr ast weiter Start @, fara 3 areata fora site Aree
+ omeara sores afew aaa At Fast a adhe Fz
+Te el Sa aaah, AAT Ae ASST TATA FT HIT ITT 4
+arr ate at FT carrer H Heart aT
+
+afe Bre ara HTT Aa a SR ATT AT
+sitz crete a& dt sh da adie Ht aren H cat Aaa Sa TAT
+
+etn Ft ae Yet aes are F aT GAT
+Twa pasate eet aT
+arte at ATA ST AT AT TAT FBT, TA Sa TTT
+63ST arvar Get ares fore Her Sh, AP Sa Het aS aT He AT
+ae aI
+
+ara
+
+t wen, wife, 241, TAT, Y
+afar sa sent a fire At 2, ae SA
+oem, AAT A aTaTT (areata At afer) |
+
+## Page 54
+
+aferar
+aaa Ta
+afaor Far 2?
+reary aTt
+qarat Ht art TAT . Ware wars Hea Se
+
+rimakaaoa aaRAagTaT
+afe arcdit ear at at aatet qT WTA tl
+
+eae clad Fea Fe OAT, Far Tears tl
+ea (1) caer er) ce ft ara wa aT tt
+ag SAT He TAT Lary aaa ae at aa "
+ape fae ath aT _ Saar STAT HH Bae tl
+forties safera afer 1 ave aat ° il
+
+HATA TST ATH (2 ~ por aa hat
+Reg adore. rena) grate
+at ag areqareft arr ul
+ae aret Reraed at | ate ata oem "
+aa ara & arad far
+
+anras 3 aat eT La ca ' Wi
+qa at WTA feet ar var atet rer]
+
+ary aia & fe SAAT 1 Fae sat Far, it
+faaar eerie ert (5)I } 0 Rendtear art tl
+a . BHA (6) HE Fer TT u
+WaNeE Ble TT | edt dat at az ere W
+afary Peer Had (7) cea | se eat oH aera (8) FAT 1190
+ant at Ft waa ag from "
+AEE AA TE 1 arf u
+S5 APTA HAT ar art t
+aren oat & at cate . Pathe Bor Hare HteaT ye tt
+TST ATE AT ATT 1 ara (9) Tat watz
+
+(1) SPAT, (2) aersrrar, acrsract, (3) fata arate zat a cea,
+{4) afer, (5) va, (6) TAT, (7) Fz, (8) AT aT Arey,
+(9) sftara ea aarar @ fe arava ara aT Os Ee eT HATA AT
+
+## Page 55
+
+or aferery
+
+adh oe gare det art Tae aTee ATT i"
+AMT ware AeA (10) Br ATTA V1 Ae afer aT aTTAT "
+sharia iat & rar aor 24 pitt crys tl
+qa hare ag ares (11) aH as ea ETA aA WW
+
+fare art aera TAT ate are Part A ara vet 00
+after a fe an arom | Wear at s8 ae eer aa NW
+faaat are srt | Fede aT a aT ny
+é tar at atm. wa fet aor ; i
+ae oat aera a ate eT BAT {0 Were aed at aT tt
+seal a Aa ST | Tit aret Aer TT ll
+waite aie wife Bt aT . ele ul
+=a vane Sitaat aiet er Saat FET, ' tl
+ataz aad Sot ag saa teat mn
+qa at fara aa ad eT _ fers aT TAT TE i
+
+aa # a-ar nem, 44 a an ft Sh seas aT vo
+3 age eet ara uN
+
+nfm, ae err gi (12) hte i
+az ATAST ( ra i
+aan
+
+Ua (14) AT art dt argo dt ae at ar il
+ag aeT fae aT TET Z | Foret aa wet tl
+wae amit la n
+aga Saag att H tl
+agar dtgon qq tart } ae fer fre Tet Ss tl
+frpon arma et ae ae eT TT | ! A TT AT u
+a et et | We weet u
+(15) HAART | meaty err 8
+
+en
+HTsal FT Aer ores HT Seat Pear z, (toy set, (11) aH aT
+onset. (1 (12) sar Saw ae oS (13) Aer,
+(14) are, (15) ‘Aart Sat : TT mae Zl
+
+## Page 56
+
+aFraT)|
+
+wears ae
+ag aRaa (aera em ae
+See aw ache
+adh Prat fetta . sat aradt Fe
+aasent et STAT | aed eon vant
+(1) ae Sat Sit Tee At oe BT HTS
+are ate vet aaaT 0h Fat Hea A BT
+gam at RM ae Wars Fare
+area Pf st ate set From ag Aig (2) Af ar
+afin aa & aerare arf | #t-area (3) se arte
+rt oie athe aT Lo aetna em Shar
+feetrarft art | Peat zara e
+agi as Pears _ aaa eat & aT
+we aaare far ant _ ae ar feet eT ATT.
+a0 A oa Sr farm (4) ara farefere et
+ain arf ae ata ara & Pe
+int ae ea fas erm Aer HH ST
+at Pex 3 at aed
+Wa We Fed Et at PH aT ATA
+ae ary Fr ATA Sl A At AeA aera eT Te
+econ tive t dices Fa faa iad esd
+tel onrg & stat fear Tea afer = (areata barat area? |
+After ent etree ant . rarer a: ast Prat
+aust aan @. wa faara & fern ae oT aT 2
+zaa are fata 1 ae arr Tae
+ate air @ at ett aed & aa a Te.
+setae | aa aaa art aT
+
+(1) 93g at 8 2 MeEA, (2) AAT, (3) ATA, (4) TTT
+
+U
+i]
+tl
+U
+a
+it
+il
+il
+W
+eo
+
+Igo
+
+## Page 57
+
+88 Agel
+
+ae eorardt ae aaT TH Ee At tea F ager 0
+ag ead eat aT AT PRCICCECCIMCIED f
+ATT MTT TE até arate i
+Pravft agar are . Hat ar are *
+agiqaate | ae BTA "
+az aH at zara 1 arrifecfahes (6) aoa
+aaare wate aT 2 ag WS aa eae PAT Ib.
+afiaqaerm wa HOT BTS Ae Te AT 1
+fae sath are AAT | ae ate are arf u
+aera gaz yy . ay Ft ara at 1,
+sare ent i are of 40 ad ar ae
+ora a fh a ait | wera toes. ll
+aprerare AUT ATA AS Siearz weastee antt Hl
+art &t arr 1 Bre, “ai, atte mT
+earrarar wa tet at pat waz ul
+2 ot part 21 Prava Fat nae nT
+ag arate Pe ae esi M
+farate wa rare Bert (6) Ze Sagdaaaae y il
+aaa Tr aft HE ) wwe Tiare I
+ant a F afer saat fact
+wa forest Wate ) (7) afeat ea fear afer 1180
+waa ae net Ae pS fer at avr ste fT
+Srarvaa wag afer J aii terra far anar 6 ll
+Hae rate . Hae F flax (8) Ge zat? il
+Va tare HUH eaaT Ss . afm tara at aT Il
+at sa eae ar afer é ay A err at aT TF If 0
+afm art ven safer, 1 Feae Ae eas i]
+H areat art are F aaa ZI sal AY area AT i
+ag ear et aneratt . (9) aa i
+
+Tell Sela le del cnc Sa
+6) taedt gat, (7) frare, wz, (8) 14, (9) Fa FATT s
+Fh rere ee tl
+
+## Page 58
+
+ateraT ee
+
+wat aes Hr are e weet fe Seg ze ul
+fag aT ae eat I wea Fatt 190
+lial as 1
+aa aot Ea aT TTT HA at AT W
+are feet rat a fant 1
+frat aa aa Sl Fe Pas Hat HATA F TT
+fraré ae ft tizarstt ° «wat om are Fat HT Ee W
+Harel Hea &, Fe THA Se PH aa Ft aT zt u
+stata sat & tax ) tae ar zeae fT
+fara oft faa agit 1 wat heard op (20).
+Pratt arr art 1 ate zetere :
+at Hedt (11) arf esiiol 1190
+atee aa a aa we Hate il
+at aftrar avert 6 (12)
+feat fries Fra aa . Bait At tt der ara aT Ul
+qe ear? © “ea AAT, ass"
+pet eH BT TAT AT heft (13) at sare SA TSI
+aad are BT ara e aay Prater aah arte ie a
+sire wat & tra Prarat & Pro ger At ate |
+aaa arr faa ata Hat rT
+ale cara & ST 1 tafe aft at genet u
+ae 8 Fe ara I wat Pr aaa aro
+aay atx warara ate ' et ate '
+ee ora t at tere art . wife tea erat nt
+are ata wat & omfg Hf Pratt a1 ret i
+atcaia At at & ) Paar zra at arse WW
+
+aat tat Aer St ATTY TAT & fe BT Mm
+org wat siarer Bh afaera ait f I
+aT oT Hea & a ae a are aa, Tat u
+aa arr fara a. arew arava 8 aatt ater "
+
+(10) atsaT, Cie (12) safea, (13) efter gers, efearar
+ur Brett eaear a Ape FT ATT STATI
+
+## Page 59
+
+89 $ afar |
+
+aed Waa gt oat = aa aa FS
+aaa Fire aT | ae ae aat SA aT
+aA, Te Tare fre ey TAL eT
+Se 4 asta At arars. aera Sarat Ze STAT
+ofan qa + _ area ae 2 fh aT TT
+aa aa anit. Peet ar Ae aaTAT
+ape A ae FPR | . ata var
+amare ope at or fwtaina =
+oa fea arate . HRen F vate eat
+ee or eer et ao 1 aq (14) Aor Ga STAT
+ne ls . eer ata & Par STAT.
+art Te 1 ag aga ast ara ent
+Prava tat at ert | 1 tear are A ore
+wa ua aa att yah ad ett arf
+weft a art det aaa ake qatar afer
+Sa ears Bt aT fear are até
+aat at at oT RT } Stare Tar wet
+Ferre ar eat (15) 210 an re Pet fa ee
+He ae aA oft wet 21 alton gaa ee Eye
+ag wg Sat Fett 2 Prieta apraat Atet Il
+
+hae ata a far ant
+raat A A Aaa
+Pret Ft wa Fray. ret (17) AaAT ATE STAT»
+
+aat, wee TAA eT BATT sey PAH STI 1 ye
+AT ST FETS SA aT 1 Sete aT Ta
+wet arey at ate saat ava fagavs &
+sae oftare ar are art | 1 aft carat arr
+
+Sah at aT. Ft are Fat Shit
+TAR AT Sa aH SOT, F aet TAH. ae eat
+; qiea tat at set vapadt a sq ArT
+(14) qar ain, Aeros at qaaeea, (15) ae eae,
+(16) arst feafeat, (17) are ‘
+
+go
+iF
+i
+i]
+ul
+il}
+il}
+
+u
+i]
+
+I e20
+"
+W
+iH
+it
+ul
+ii
+ul
+i]
+ll
+
+## Page 60
+
+afta
+
+ag eT aH aet SN, stati nea at oe
+
+ae aa ay PH ag Gara e _ saat are asta &
+ae AAT Fas TST | aaaat ate Far aa
+ae fee a aes HE SH aaa Sri fret aati
+ora fe Ha eT, gt ae atte siait ara
+He Te ae Fer sre (18) tar att aa aT
+ary ett arat arrd ¢ . et edt a are eer are dor
+ae Gat AAT &. AeA AT aE
+Star fe erst ret eT ane Eat Az aT
+WE we Trarcarees Brat | Beer see are ae
+ayeft ava Fer arn ar aa BIT
+arent ars . ae Pee ara eae TE
+SNe EhIT . aren ter ae aT
+aarst (19) art St AeA few zara wa STAT
+ware 3 ea ale FET Wife et ar
+aet art SP? ae ant aH TET
+SA THe aT as ate BUT BATT A eT STAT
+aa Fl watt = arr aed tre ae at ae
+frat art aaa 2, ah . WTS Salt Fa:
+an faate dar vat StaT araet avast ar Peart
+aa re oft frat saat ate gaz aad ara @
+er I
+# aaa AAT Tea E . Set Far, "TAT, EFT"
+aie at 9e art (Fars wea
+fart gt ae 4 at 13 Aare eT
+SF att ast aasft cra | {0 Srarara aq fer =
+Wet FE FATH (20) aT Fz FE AM Fl TS He BAT
+yedtag art at ain qe fara cet
+rie tet at one | Fe arare he ag
+
+(18) ZaTaTeT, (19) Text # ferr aah, (20)
+Ferm pent eB at rere ates aT
+
+## Page 61
+
+8 wfTET
+
+Raa ah tah ftgen sa aeuit i fire "
+eae Ta oe aT 1g Fe Se areraret Hh 2? ul
+Zaa alert Sa aa anit zat Te aT YY i]
+Agvs wary Fea SF . ag afer a at i
+Wa a ye ar ar eit . ea array ae fre var ]
+arfaat 4 & eT 1 agtt ae aa aT "
+Tae STAT ATEAT jf | Fst dart ag tary tl
+ay, Argon eft v2 Te i often aera eed
+At afger orem ant aie, At pon oH Aa T
+amt are afacg ft ert ar iaat earn |
+aaraa ara At UAT
+
+ratte | afen egg arator il
+WT YA Tear. TAT HT HT ATT ATT oT ATT (1).
+sartaran areca ara at are. AE te H fre os tate. (9)
+
+facan niet & ahaaqharupae
+lial Pose al ae u
+a | Fel HSATAT
+
+aR HAH TAZ :
+a ate Wo f aarefre wee ora” i
+
+Hert aH at
+“Ura Sate ser at oe we AF 2
+arrards sea @ afte . WHIT F le TET SVT.
+WaT F a 2, Bt _araretier siseit a1" 1
+& arat ate aeeadt Ht AT Top ata fat pet tar are ara aT 10
+aa Parra Fal ATT #1 aeattaareeseieae
+a aradt gat sore aaa aa STS
+
+(1) oat, (2) TERT
+
+## Page 62
+
+“afer cs)
+wep care fart area et & are ray rar By Pera oes Atay aaa & Ml
+va dit arg afte fen ae ai eal ‘|
+TAIT TAT HUT. TAAATC W
+a hc
+ae aa & fer at tea %..20 8 att araet A
+Se ae tg) rear frag fame S I
+ara fat wens TIA SAT |
+srg a arora ae |
+
+Pisoni he Flos ll
+wa adt de oe sara. we S aaa aett aie u
+awh Te BT a eT aerahtg Aart ATT a TTT
+aes aA aA aa al GHA aT TAT Ft
+ae BMAAT Ae eS WATT ATA TT M
+Ta Aft & ITA. 30
+penn kc alk
+ace Wa Bl ATaTe Hel Atay =. (4)
+wer ovat & PH et saeeat aaah se war ara At oH TAT S u
+aaa ah sal fates var a Aer ac tee
+ah hee ad ae as a At Cue Qual j
+tear ett arare. apa fen 6) ae
+wey fee FUE AT ITT ul
+wet set tet. HAT ea Sa i
+WE UF ua Tae 8 Pe are om orate sere ae a
+Qo ag aeitara cere 21 at va zat tT PH eT aT 4° AT AE
+az, Fa area Pear wot &. Peet 4 fever ar aren FAT
+faatvecdser amaaatfraa:
+
+wae tear ate 81 Is & Aa atta va :
+
+ra a tae atest & aver} aa aera
+aa are arate eft ' frat ex ate
+eras a1 aa weyT Te art 1 orrart Wad é
+
+(3) af, (4) waar, vat, (6) aan
+
+## Page 63
+
+a feTrT
+
+ate aét tem. afeat ast, ar ae
+ae FEAT (6) vafear frat | ASST GAT ATS AAT |
+
+eal 21 Wat, areas, { a ara arare Fit. I
+aradt, art at Fe aaa {| Fea arr dare ora PT 4180
+ae-aee A SIT { €aeantsineer a freer fara are |
+ee erie aaa saat
+& atrat Para wares SM (8)! 1
+
+ee ee : arta gary fi aTat
+
+ovat tra aa ee, cera at Ha fea i
+ahtax oat ar aarar eter ara & aetaet ul
+
+“H are aft H TAT " (9)! 1
+pi Ned | qe tear fore :
+Tel z, ae Ae sere ae ; mT
+
+aya aa feare et Sa are 4 Sara 9°
+
+areata
+CET |
+
+arate Atoad |. atstcaraare ear
+fist arr Ft far F eri setter Aa a Tae . 1158
+
+AAAs FT AAT eS
+
+HEAT Be
+
+TH aT Tae I
+Wa arfert aia u
+efter FT STAT !
+2ifratent tt
+UA wh Ae AHS (1) ZI t
+
+(6) Hea gaaa-faatan, (7) aaa ar araita fg arf, (8)
+
+ae Ae, (9) Fara aH, (10) Few
+(1) war,
+
+## Page 64
+
+faa
+
+aferery
+
+mart at qeeat
+alle ee
+Het | AACAT
+ft adt wear
+enfi_efa fear
+aa & fre
+afr at ETT
+pa
+Bl TAAL
+earat f yest
+HT eae ASAT
+21 Brant fara
+afarct aT TAT ST
+aa a Sor fH eer
+dra ar Peart
+arett (2) Tere
+atte gem Sarr
+AATe FT AT
+arfort aera
+alah cara & err
+at ae ae ITT
+BATAS BT ATH SAT
+al Weld alt
+a0 tat
+Wa art vet
+arm wart SAT
+arr Ae aT ale ATS
+aT
+
+arya
+Aare Tear
+
+ere at ag anit
+
+## Page 65
+
+or afer yy
+
+wet oH Sa Ba aT ara Se t
+set) qed Sara Fret tl
+(3) '
+
+ara uae diz cat pe AT TTT 90
+” fea tiepia wa vasa er. |
+fre ars wae vet FC TOT.
+ae aati a = 1
+ae aaa SAAT ST ATTA u
+aga aH an se Tear she art arse t
+€saht Far HTT GT SA BTS EMT, ATH ti
+frafrt art ara raed an cara & (
+anrarat ee at ae afer F at Ul
+ary arr afer ae aT TY
+TAT FT EAT AAT TT u
+TT ST a ae tar St aad = 1
+Wears ATA ae 4
+or aria & are arta 1
+Ware any site wera eae ETT Y U
+aa F Wert WATT HT TT 1
+aes aes Farad asa st
+ASAT BT AT TEATAT ’
+Wa We Fer ara & PH ae ast AT IT Wl
+efter sear at Patt at aa vet art.
+
+ATel Ta AE Ae ae IAT Aled Fz
+are (4) TH TA: rial
+wa aay re ona art i
+adh deat trae erat '
+Aa arqaa TH ASIA WAT | f
+UWA TIFT t) 1
+. afaar ara oat atte ate areata NW
+ae Ft faarraed sega eraeaal aa HATA AT DoT AEATA ZI |
+
+(3) StSTAT, AAT aT Taraedt HAT, (4) ATS
+
+## Page 66
+
+AfraT |
+
+AAS AT HHACT
+fret afar
+
+HaHa ARIS | xaaacgqa arate
+afar a fread}. ce aT
+
+AVPATAA SHC FAT ALT? AS HEAT @, TAT HTT
+Agr ASAT TAT SIA. AA ATH ATH ATT ATT BUT
+ware At reat fat. aes eras aaa oreo.
+qa phe ae at oer Recisiee ’
+
+aaa ast TAT area aa at
+
+ert saith gras eameestin
+
+area aeattt ite Saar ara. area a TE
+
+Ha Seo greg
+ary Peer atte FPrger cea Ue ara Fe oq Freer =
+
+ata afar at th _ area aT aT at S
+
+Ape HH are era TET
+
+Ha (1) Tears aT oat aha 1 are ater oe apie amet
+SAAT aT aS. | AMAT PATENT
+a F art zfs er: | ve afgar fred et frerrr
+zaaeantrgrae aia ar eof at a ATT
+_ (ag um CAT TT aT aT
+tren aetat Ar | awe toot a aaa at
+wet "Sart at serht at em
+Tasty rare ta at frat
+
+aret fat arate ae at eo
+
+faerat avant aett. ts hte az frat ret
+wear edt Fl THSaT ATT
+aed tare fait dt araht atae va Tat TTT
+re Prat arepht if Sch safe 46 dit aera tate
+
+(1) aq aT a4 2 AT ATA
+
+"
+WW
+i
+W
+I
+u
+1190
+&
+‘1
+
+## Page 67
+
+30: aft}
+
+ae ya fear # u
+
+seats anm. artt ae Sear soreht cites A vite Fat rT
+Ford oe eth faaft F arg cat agt
+300 arte & aa # oa aE | oe ae "
+aver wa fora oTaT eae tt
+
+ara || teat ait of eat. sa aT
+
+are Haat ot are sa fea Ga wat 1
+HA OT tel Zl He at at F Tart tl
+STE et SeeIT weer gente
+araare aToTe Tear aM 1 aaa aaa cas Tere Hl
+
+es lel '
+Sites etal Ca cont Hay STAT Ae
+rasa 474 ftom cet ert a AS TT
+ST Fours ST ITC HOT, HT SA aT Soro, Tas Ul
+
+are Fara A SET ED Bee eT u
+
+erty ete "
+
+Bare ae a Alas are HT ata fora = uot
+ater Fert Ge AT ANATH TAIT TT aT
+gitar Raa daa or aE STAT ATT Z — igo
+site eB Ate aot fartt 8 | Frat ait aa aE. |
+
+ate ag wart Rargaronf st arifer cea + tl
+at ( (4)I Ware _ TST HT TTT TTT AST ATT |
+ali agaadt aaa, 4
+
+ie ace AUB Ab all \
+cach Lat |
+
+Be pars rao mart a
+
+12) watt, (3) Hr, (4) afr, (5) Forraz - Teste ATT Sf,
+
+(6) fart, (7) fidaz - araaee aa att
+
+## Page 68
+
+aferaty
+
+sree fae eae orfee aenrt
+=a aaa, weft ts et ares arent ate reat fe a ara ||
+or set . ee feat TH aI tear
+wat ate aT ant Ag FS PAT:
+afrare & tenft ee
+feeafiz 24 a war . aha a ea
+saz of He gt TET Asereee
+ae FG aA | &aacq ar Hara asa
+atat sat . Fel ASH TT SPT. F
+Aer aa Gear ara afta at asa
+ann, 4 az aah ara Hf fara ar Part
+a aT TST Sharm ar at aa se Tat
+
+wl acta Wa cad Zl alenaed a Aes THAT
+
+we
+
+Ul
+il
+po
+It
+il
+i]
+tl
+il
+i]
+|
+uw
+WW
+"
+
+cleat afearacs titer Gad aoa Tas TSA ATH Ta TaTaTI
+
+ayaa At Tart
+
+(art Ill) wearer tt
+
+TWAS TAT AAT [ara Pennie ft fafa oft
+
+HF PH AE aT Het BTU AT ara AT ara FEAT.
+we ware & fe asa are iste fae ae SY TT
+atari, aa am gedtareft seanfiis et
+
+ag ae TT "AT FAT HEAT"
+aa, az toga ft atta et
+are FAT . rae FT ATT
+
+aa Sa , are z
+often # at soap entt tran aire vet & oT free at
+
+Haga Sat was FT aR orvaa years, |
+at ofa aret wat & ara aera aa cea aT Ste TAA HT AT
+
+20
+
+## Page 69
+
+asat aera a ares. anit M
+% faa até ara az zat vet "
+ant semen aaa & art Win
+
+rave Ht et Weald Fea TAT STMT i}
+a vet ateae oet aot fear "
+pl A
+
+a a
+
+oe a i
+qt ae ve
+
+eT 6 Aa vent at a Fe Fe Fea aT. |
+
+## Page 70
+
+aire y
+
+alga vafea 1 ea 4S F Fat aes
+
+aeneacag azar | —— ;
+TE ea ta, ag ea Bre HT
+
+Ha Al SAT TAA GT, tar anitaat
+
+Tre eT AT ee TT . 2a Tat sarat Peart
+See eT MA eT
+he qsar og | ae eter fer fare ee
+att agits Ht Fa {oo arden tag tea ar
+Soa gaa as ea earns aa att
+a ware & oea ST ae HT ee 1 aera aa ar
+; wa pa Tar ate
+
+ea aa ars - wrafee dasa
+aTat at rocclipli Wk as
+faa ota 4, Sa aaAT aT Haat
+
+4 We Fer, pepe ree Sl ae TAFT AT
+sft again sip Sol mas Dinnisow >]
+HHH) HSS ATT ATT HATA PT ST TAT z.
+
+rare At aie aferrs tat
+
+aH ame, 1
+
+art
+ar, saat vol
+3 \
+SIT St ut
+wa aT eT
+—___ Tat
+(1) af.
+
+on
+
+## Page 71
+
+iH
+t
+il
+
+Neo
+
+## Page 72
+
+aferer
+
+afte aTtat AT |
+WaT at AAS 1190
+aearat '
+H ferar it
+area teat aT |
+ek
+T {
+ay, wea |
+Waa, ATH, ul
+fare Fea {
+wa & tort \
+. afi, 11 ° u
+Aa Ate TS
+Bt (3) AT-Az, WE
+Ptr eas ;
+
+an aa er i
+\ 3a 1
+AAT AFA SUT. it
+
+ofa ft afairarse tar ft For qaeaz aa
+AS APTS SET HIT ATH Tat Fer APT I
+
+(3) aerate ar ferara, (4) Fafa, (5) ear
+
+## Page 73
+
+» airaT >|
+
+aredt aft
+
+ian ra ar
+
+faeqate wa arrest
+Ata vat neta ar ate afi site ?
+are fa ae azar ae tea 1
+afta oe are cea vet ee i
+FT Ale TS TT ATT j
+aay orftrat A afaat wat ata tl
+Pr (2) aqeatt tata sta |
+aon farm ta aie fer ee A area aT (3)1 |
+Haar at oft aa ate '
+waa Sort (4) Yt Ys F TSATI |
+At ace arieat eri I
+ehh Sarat A — il
+ania yt cart sat
+aat ar det wer fear HTT ae Tat ATE |
+area 1 icf (5) of
+AUT ret TAIT (6) a FRAT i
+Weaetee At arart 1
+aft, 8 20
+TT HT i
+fracas area sferar vat il
+aett vert ar ers TTT !
+aearen ara F we sey af aE SrTTH|
+
+(1) a1a ar ae S aware, (2) At ar atea, (3) WaT,
+(4) ae ear aT are At avert aca 21 ava & fet oe aaa arte
+aa ATA STAT z. (5)
+aa Afra F ATSTTE Hel STAT @, AAT STS aT Bera
+(qaaar ar facse Tet aes T) *
+(6) aa aH Hata Waa art aH
+
+## Page 74
+
+aferanyy bY
+
+afi saz yf ore Haart (7)
+za fatatit diet vara tet il
+sry ata #, 1H Prara eet ot Het are e 1
+WSyl Ard HT ATH ora (8) H fera. |
+amet HANA pH aTA TT |g
+ae De aga a a ara ae & fee eT tl
+at arar faferferar Ars(9) FT STATI
+ee is eee eG)
+
+H ANH AMT TaTAT i
+welta ate arate
+aera & FeTATE TH 1
+oraa H fa csft er (12). M
+Teifasrarr spare (13) #7 garg fear are I
+aaa sat aaa are (14) arf.
+(16) aeatere 4 (15) Feat TAT ZI
+aT SaT oe }
+aerarfear et ve aif
+afas ata [aut (18) ae
+Aaa HT AQ AAed OS TASS 1
+Hara Hat afaars rae TTT SAT | 1199
+
+eft aftnatinres after aan ares aoe
+gen afte arse rp a Ta TH Bat TH
+
+(7) ara-ara, (8) feraar, (9) Fare Ft Tht aA, (10) TATA,
+(11) Afra H seore SP ae ws sare aa z, (12) qa ar after
+(13) arraest ct zara Hert are ar FH SFET AT TAT FT
+AAT TAT UA TTA!
+
+(14) za = ante & fore afer" & 31 Are sfeaferd &
+
+(15) Tez afar TH, (16) TeeTaTeM, (17) AAT’ Mer AT ATT ST
+(18) fireraret
+
+## Page 75
+
+or afer |
+
+ari sfra |
+
+a aT é
+be
+a1 eat
+
+ATTA T i
+Wal SUT, ul
+oa fea a after I
+mr at arent, ul
+wa Tat Wat '
+a afar t tl
+At az wat Sea, I
+ae aa FAT tl
+feenm (2) siz Wi 4
+are Sa Tear 4 tt
+et WET! (4) !
+ae saat wea ae |
+Sam at aaeft I!
+a fra ah ae FT (
+aT GT SITUTT, I
+ait ag ATST aT rT
+fraaz aa Fr I
+afoare a aa 10
+amet (5)1 (6) E7eT
+PAA EMIT, ||
+Kl :
+i (8 "
+wea ee att
+
+afer (9) erft i
+
+(1) ara, (2) saToT, TaHTEMATA, (3) ATSTTT, (4) aerft,
+
+(5) aisar, sirearr wear, (6) aA ETAT; Teter, (7) ares ae & afr
+arm, afer eat seer avert aeatere ar aro aaa AT art
+
+I (8) ava at wa, (9) avat aT (TAH 20 FET)
+
+## Page 76
+
+afar] cy
+
+art az aaheat aga ast ahh ae
+ara @rnn at aa ea aT rT
+
+aafad at at ag aft I
+ret Ht at aar svat ag aeraz Ul
+(11)aTe Arar aa faar at da sa deft
+H are Hat pei wet Pera?
+
+(12) art F areata frera)
+wa TT et fore att ore, W
+at aa we ca ah Te aT \
+tar ATA Stat @ fH ae sae ATT Fe 4
+afger drat ay (13) at see Sh
+
+Um Beare Bl ATe fear aT” J
+
+Tea, Tea BTA TAA 1
+
+adt ana afea aaraa are W
+rar fH aaqr at WeT, ATS HT TT 1
+fe agrada aft % arate use
+
+i
+
+ait ft afar farcine tian agg ares aivar Argo
+frarfe after afetee ae are alates We St aT a |
+
+“TATA ST
+
+ust ras ot afaey &
+
+eate ae fer (1). (2) are A SP a ah
+as am 0 Opes ar i.
+
+at
+adel ace aege aerate art
+Ue 2) a sa “ at s
+13) aft are at aie aeqards Stara HAT aaTe--
+me “oa a da qa, Pret Ft ate gaa" - faarahey, 1 se.
+(1) fer, (2)aar an
+
+## Page 77
+
+5° HfrET yy
+
+saa aa aaa Rar. cafe as afar at ars saa eTAaT
+
+arapit Hf SH, afer 1 wrara aa are tl
+
+ee es Era a ;
+
+ara eat to ra ar ararer Zl wee ATA AST sO
+foorar ara afsra 21 ara fora aa Aas
+faare aT ae ( 3) zl ara an arora frat e yieo
+aq of, ate eer hnere era
+
+aU 1
+Seto amair nanometre ate Satie |
+acdt a aa Ta wer &. Bae Blew aie SHH
+ware aa Hat area. wars safe at aaa sha cee ae are K
+See or sraErer ave (6) GEG! I NRE wt STA.
+Hat HT Tafa, Fe Hers AfeaT a RTs
+
+war a Tar gat : | are arate Shfaa ear 1190
+ait F were STAT) WTA SA HATA STA AT fT
+aa 4 Wjaq aed Se at oat
+
+art Tet arare aT | sega piart arama nt
+BL SORA HAT ECHO Ten ACN Sev Yoo
+eT Tet ATAT FT FATAT SVT "
+
+wy at ser arfard He att FH ae afearps F "
+fea gaat ada afar sfetamiaticae 4
+afar Ft are afedte rar a1 ga Hera zy
+ami az qayan fae At raat oa 2, ST n
+cae gre an Taare
+
+a ATATATT
+ol 1 a de 7 oars Az aT, et
+
+se ate ake oT tl
+frre + ya arat fh afew often frat ferry
+
+(3) aaa, aera, (4) Arras aT oa, (5) afta aT ara
+
+## Page 78
+
+Pel
+
+aaife qa ATA aaah on
+TSA ae ets sears
+ae ara gat aaa faqs ar
+orate ae aH. aaa afte serrarh (6) afr er ||
+ATS aes (7) STAAL AT HATA ATT FH BAT
+anfeor aftr # at creaye aaa ara arate (8) USO
+ara oat saa aa freee =| ftaT aTepara aPLAT (9) FETT
+as ant Fe FATT (10)| Fe AT Hera St A aH
+afartt arm aga dit) TH ae seat eT ny
+att oa art amaretto
+
+ae Hae HTT! Tras HH ATs PTT r)
+Safer aries es agree areadt WaT:
+eats gr ra rea a art i]
+
+Fett, Are ae Tea STA H ATS TAA TAT (11) HATA
+ania fra eitaa oa Fr ae ago (12)1
+‘aTs-aer AST Bore ate Pee ara frat 4180
+
+WaT TAT HT Era i"
+FST AMAT AST HS HEAT! ALSAT Hl He AMT ATA TTT.
+Tate wae ToTPTaT ava (13) Ht aS att sat
+aaedieart (14) dfra oe. ror AAT AT Boe TH SPT
+anrad ger ream Bre ft sat oP AST HAT (15) 1
+
+fear, a9 ate afe dt aoe Te aoa fafea ot W
+Sa HAH FAA Whe ST ATT ste .
+ag ast aaa care || aa Ae eT TAH
+
+a ae sat ETCH Pa Fae) eshere |
+forrg aatarr 2 oadt oroft ae at ore, at
+
+aay ATTA H ATT BAT GAS. TY SIT SSH,
+
+(6) sativa, faite, 17} asa, (8) trad art aa, (9)
+aftrara, (10) #r, CY aS rent Bm (12) aa, (13)
+areal & aaa & oft water at
+
+coaearasicpastaendaeelt feet een aa oe
+
+@, (15) wetfe ar frara, (16) zaz,
+
+## Page 79
+
+99 HTH yf
+
+aren shit a afro aft. arr saa afer art
+aa FST Hae arnt afte & at aT eT
+pails arth saa ary ae att
+aet (17) ars HST tt
+ate taal aft we arfeart & at eu
+are Preft #1 Fea aet waar. afta Zit,
+ae ae ait are omifta ae
+Space fea 11 er Fer eres area
+Fae eae ara BT aT! PHT AAT AST ATA =~— 199
+vii te 1 cere te. ng
+Rat - WAS TF (18) F AHTT SEM |
+aa Hea aa TEM, al u
+art aca sae @. sae aca of ahr i
+(19) Fa wrrara Bh |
+
+aa ea wart aa aa WW
+ofr aga oir Peat Wt
+
+wee SOT,
+a zor fom (20) ae ara fears Sar. }
+
+— ( fenafteeraiae tl
+sat Tea a ag & fataa sect Ft scat gs Z fT
+sq aft steer are ar cgT ATR wa area ya: fers
+aft afre & aeia we sorara at re Pra as
+
+(17) Pear cee are Afra Fr (18) Hava Tear TAA,
+
+(19) ‘arenTrs rea Fa, arene aa Ba all al
+Are. atar are Paar ft Are aT ST TET ae, ae ae
+
+ATAT STAT, sat ware fear & dae wa & Be aaa ae ara fare
+mT a, Ae Aa AAT AAT BTA! (20)
+
+cafe, wiaefte e-rait
+
+## Page 80
+
+aferar
+aerate are Ft aeHAT AAT PI
+FATA aS
+
+evar Taare 323 # fara aa afenia TA!
+Wee Fe Ards T 1 ¢ Aerara et TAT "
+rein fiers erat aoa ana aad ft a
+fara afar a ara at 1 Gaara (1) Pea ate arate ae fea}
+sadist gett ater | wim, wee i
+ae FFA 21 Aa aa 1 edt arg aedid at ae
+
+Horr at eg Vo aeratenarati i
+ait eat i, \. 3a, agra az +
+Rea aairdrerae I sit aa H fa?
+Tart Fa ) dar araat art eo
+arga wea & f 6 tama ate Ra aT ll
+ag arta art & . WA ge Tet er I
+ee #4 aniet saa i
+aed ast erat jain arf ste afer 50 "
+meq at ae eT 1 rat att wtaft cea fe arse mM
+Heist Aare (art, wat a4 l
+aet Patra ara afaat % fi sete aft ara avr aT 8
+feet azar ae at "
+ farqat aret ot aT = \
+waa at _ Be ea TATA U-
+cate FH GT at "Fat aT" !
+aga aie at tte Ae TAT YI _ Tver fit ate ae HorEe aT aT s]
+ag fae at ett a are . ad HAT ATT HITZ. ‘|
+
+ene) Tae el et
+ WeTHTe
+mite a aa at gh Ber
+
+ae fen area
+
+(1) afear, as
+
+## Page 81
+
+Db afar y
+
+aged Tarr . oH are Bat aT aT "
+aefaa a aa TAT I wm edt aot gaat edt & 4
+arate & aa I oat ft iar aa "
+are, AAT HT TE eat aearT :
+agit arg tt Pertwee fore ) “setae sate
+Ma RMT MTA TAT eR ene R Te
+arate orart | adt oz frat St- tl
+
+zaant #, sat capi ar azar Pat eae a al Pare "
+
+(3) az ga aT Free APT i
+Ser ae 14 ert eT
+
+PAT AST aT fen qeat sr efrere att n
+ary fart tet ert war anf & i
+wa ta oie ett ! 340. ATH ya Ta STAT
+at am (4) SAT to arrarthy svar? tl
+at ast arr | ach dar ara tl
+after + frat «areca a er FR ae ATH z ll
+ft cra at, ta Hae SAT ate Sarat oA FIT aT 1
+fae ae oe St ett # 9a & ora fe wat i
+
+wa Araqaal \ sae errr ul
+
+ee a TAT 1 ata a aa ere u
+sat tat 1 aa ATTA ATT ST SF "
+
+aa toe afta anata ;
+AMAR Ft Aer FT ATT. eine emerce
+Wet PU ETAT TEM? | a et ay at oH hh
+seer oil Braet eo . at (5) HST TATAT (6) ||
+Hag att as a ) date a are fx ora fl
+afty a Pera TAT TTT? piled ale
+baba saab ey aa Aaa, AAT W
+
+walt Ser oar alt at Pe gaa Tee AT TTT
+
+er wey aif arr arn a A are Ae re eae awe ea Far RTT n
+aT Aeet H TAT, aya ot At ara att H
+(3) wat, (4) Tet, (5) at aT gar,
+
+(6) Sara-aat sata Hare ar af, (7) Aer
+
+## Page 82
+
+fara ara ar gare (12) Fer ara 21. PT aT AT AT SPT?
+
+after
+ana a at ma (arttames |
+Ravi g, Tare 4 Peer ar earett 90
+aa Se [So aaa } aedaad teat gram: soy
+afa & fore Aare aT . Bl, ATE TAA AAT TAT a N
+ae aetae Aher et aem aT Wa TAT 2 AE AAT Z| i
+ara arg Fate wert safes 43 Fire wat tl
+aaa Paar wife Bt et arn gfe at at mT
+sae 81 77 Fe FET ) (9) W
+AAT FT ATET ATST Fe ae a eT TAT (QO) (F
+afiar 3s ae eT . afe ame ll
+aH Tey HATAT are Z | Gaerne tron after & U
+arena HR are ot eT em 1 we rest arco 1%
+wa at aT ou | Agr arar aa aay t
+a Hea H ae HAA e ofa ar az aat frat: it
+atfear seat alte Att Fara ae Hl
+TAT AT FT A Rete aati eat ae = M]
+aa frac rac . tar eet oat @ fe fiat "
+ge ae sitar a eae {acta aan rT]
+Boa, ate a ae Ae et aes ST, TT A eT aT fT
+faaar aH STA AT, TA TATA SN Ta aT aT eas aT i"
+aa ana afer aah: | tava afta Fa eer ate "
+wen aa fm ahr at ora & | Pear fea at ar areeft? iro
+ar ae a TT fi aT 4 yaaa aT 4
+orga wa at Fait ft ees aT GAT M
+aeaataat | seta ae oat H
+ter ara & Pag TH aaa e . War Heat 1st it
+(11) Tarai tt peer rr gon ar H
+FE UH EH AT AHS _ HFA aT ATH FAT 8?
+
+8 , (9) TET, (10) HEATH, (11) EAT, (12) i aha Tr
+Cath ere # aa wat eta aaeh
+wat & =a Faron fear, fever rt 2 arava aeot Ft art ar arti
+
+## Page 83
+
+» wfraT Dy
+
+areerdt Ft at frat JATH aT Ae Tee aT "
+forerar oer fer ata # gear, ea vay aa af
+6 afi sae Pie gt f Pang aisles
+seat art ae eras & va wre at HT
+aatt sprara aH | aegaaditae on
+ap eT HAT FT _airara fhacay at af ae
+ray a  revtt ay att , Stare arate "
+@ ate sae a ares Sar 21 aa aaa AE ae "
+Wave YAH aa TAT | Brita Bree gare sreuit oe fee et tl
+‘gat aie wa ara Farge . fe afer W
+zat arczat sear afar ore ar 2, az aa fi
+aft afar 3 afta Jee a aa afta St at 7
+afar hasaraa | pre a agit Roo
+Areaarferer ara far st aera, sara ar ara seater ZI |
+arerant ft Peet Sear
+TATA Se
+
+eft ara Saag Ata ateae afar Beet a
+
+ST ara 4 fear-sarg, Fer I
+aay rears ery, sera aT aaah aera Pe TATA |
+
+adiafif ais fear, ae
+TAT BT AH TATA Te Te ETS H ET AT
+
+Sea BT TAT aT Ae eT AT ATT a
+A eT aS ATS, TH STA SeaTs Tee Fora e
+
+arma aatge H, A TAT
+acta aife aaa, ofr peat FH,
+
+ae Taare, TATA THe 1
+
+serra Prat 2 afaaey, Wer so, etter ate Arrays FT
+be SL Sa a PA :
+
+## Page 84
+
+afta 3]
+
+attag aH raf (1) ates aa ahh (1)
+stag aife tafe (1) azz
+
+alte att Tae TAT Az Ta, FATT
+fear ara Pept
+
+Faz, ila cling a
+TH, TT Aare F ST,
+az az areaft, Fegan a 1
+ot afar
+
+At aaa, coger
+
+faa F Pelt stern
+, aa a ellie
+Roe
+an) Heat att
+ant afert feer F at, wT, ST
+He we Ft ara aT, Sarat,
+TPSTST Rr ee AS ae
+TH HT Aaa IT
+OM, Ha He AE AMT STMT, TT TAT
+area (4) arf, At TI
+ware a area fear, Ae cr PR] ST
+Ty ATaMet %, as ate
+set FT wag Ha, ae at HE
+*  Hadt cea, Ae TH, aT
+CIA, Fer Fre aet se TT fae
+ara Te aT Patz, AT
+Ta arara Ft areer fear, Fae aT 1
+
+aa traf a eat, At ht om
+
+(1) Breathe ores ar et TAT! Sat THT BT aT aT aT
+AH HET STAT Vl See FH | ais Aha H arast aT Aa
+
+ate vale areatrt Ft aft 21 (2) tart, ofr ar
+
+99
+
+afta (3) qacttrft & acre, _ Barerar ar 8 ort, aaa, 34, aet
+
+@, (4) ara, () a> a> a> ta
+
+## Page 85
+
+or afar)
+
+At pa ar aren aa, Ate oath aarae fs eT I
+
+ufcadt ara, aaa I Hoo
+araa 8 potter don, ata ar rarest area ate
+
+Fara eT (6) Tat aT, ATT AT TT
+
+uae fae & aa ddtare wa fer
+
+wa USS Tar ST, AT eA WaT HET
+ora & fe Sra at aay Te BE AVS SA TAT
+
+TATE FH ALOT HT ATA FAT, AL ATA AT 23
+
+oft Arrgarad-wae Ferre oe ae aT
+ava Pret yaa oT eT"
+
+SHOT AT FT
+qaredt FIAT STAT
+
+Arafrtt ar ae ahtart eo a zz are I
+ae ate sex Ft att ET u
+Seat, ate rer ft ast aT |
+eft ar tear for ater Ht feria FS u
+wea (1) torres ft ara ae cate
+aa St sar ye alas At eT wera 82 il
+ae a8 F aed Ft ate fe er l
+aed TT TT ATT ST u
+aa SAT AGT A EV 1
+a ars arava et Sa, The tt
+ga arom, fq rr za aT !
+§ ava ae @ ofa ar fre set EP s
+Parqsr siz era Pea ite rset 1d
+awe, pT aaa z iw
+
+(6) eevars et FT
+
+(1) sae.
+
+## Page 86
+
+afar]
+
+ate '
+aay efor il
+ft t
+cata ' il
+aati an “ot
+PATA ATAT noon
+are Fai 1
+aaarart oot
+wet '
+ann ait va sas !
+wat ATA 4
+aT et vat W
+erm 1
+Ea fT
+aq le Il
+area vet "
+anf sat n I
+Tr carol | TT
+WaT |
+amt I
+att 33T hoot
+aaradta et nou
+soft avast 4 |
+ferret 1 0
+Ff gearae + I
+al Tet "
+qeart
+aro Ta t il
+mem fe
+whet Tat ZI ry
+
+(2) Bet EAM, (3) tear, (4) FAeRtes ar srs, (5) FAT
+
+## Page 87
+
+(6) 2 ar HATE, (7) Tat gata fret ea, (8) Sava Fara
+(9) great, (10) Saar
+
+## Page 88
+
+Pra at at STAT
+
+ate ont aah vat a8 Z, aT Wea FEA Tort
+afea aia sacred, sit
+FOR GSH ATT TAT TT
+srrafere Sat aa FS
+
+Heal aa Fat HTS eT
+ar aa are ot ast
+aight afta ana a
+fafea ara anfe arat (3) sy
+ec ad el
+pet czar diac,
+qemd seat aed eee ae TAT
+araara aa Tae Fae ETT
+ator s fart draarait at ag wear
+at , ferret
+ae le WES
+
+(1) setter, aterm, (2) aerate aor afr sent are Hm ee AT eet
+
+%, (3) am
+
+aaa YY
+
+6 Fa ea,
+
+€ 7ST]
+
+ome |
+gat at
+FAST.
+644 SA.
+G74 Fea.
+€ ea Baz.
+
+7 after.
+
+re
+
+## Page 89
+
+r9 uferer)]
+
+sar (4) 1 ar (5) arc ate Peat are ate ee ax Rear ary
+
+para sete F fe aa, afeara wer € Fa Fal
+ward (6) eHTAT (7) saa Tar Pram caret
+aaiare at gat At rata 2 6 TAS.
+act qarfaar & vet aidtaa 1
+pe ae se sara dt afte rr,
+art waa (8) Pratt I
+arate aft sft a era
+pareel ret FAT Fer HS |
+tar oft cra are fea a ert G37 year.
+aaa Tae TAA I erent I
+aT eT aE Te PT eer e 6 aA.
+aad & ora aret a Peart z I
+Arai yen &, wera at tar 6 Pas.
+fan Fa gar at a TT \
+(9) & PAS.
+aa (10) a1 ater a
+veftar (11) TH int sero & fare ger sat aT & FAs.
+fata ave weft gar arent |
+fare az aya aa TT Gey area.
+ay aT ae Fats FAT (12).
+ar are wa 48 Hf oe at ara aT 6 tT5T
+ros (Ses) ae ot gest ae
+G34 Fear.
+a 9 Oa
+any ait TT rg ava det F ST Gea areay.
+
+oat oe cf
+
+ara 21 (6) TET 17) ga, (8) =
+
+Tey 9 aie Ao aa, (11) Beart, (12) tet
+ee EL are ata yeh. arte set Arat att
+
+oy ar "TTITATH" HEH TAT A ahora He
+fern (13) Sg sez Gera
+MAH FT, (14) TATA BT Ata S
+
+## Page 90
+
+aATaT}y
+
+acatt aia az a3 F '
+(15) ae ordt rerrrstt ar eat vat TAT Gan year.
+(15) fer er (16) afta are
+atafret afeat ae ag aT A Ea.
+arora args At fra a eT, A 1
+waa aeer afear a eT ey : 6 Fass.
+UST ASA Seu ART ATATT I
+OAT HAA BT ATT AAT TET AT 6 fear
+ad, aor F fae aa I
+ard are qat ait oe, Sr ——
+Aal a ats ae thera SF AT |
+Ald Ue StS TAT rep (17) 1 getter.
+gherq A frrentt qerari arar | ]
+aie ft waft get z= ram
+ag (18) ater atte St arr,
+ae feapom ara fara atect (19) G44 TET.
+foraz are ft fterqeaz frat
+aera 0
+
+afar Ft FET, AAT Va, SAA FAT Yar ze, ATA AT )
+aag aaa, Breet aa ate after ce aaa STAT WW
+A afegn & area aera afeafa art ,
+Frate Fam az Ff veaht area u
+at Praradt ar arta car sit Ae Bee '
+Ue eared FATT A Te at SPT m
+
+(15) wet 4 ste, (16) wae Troe gat Brae apt
+sara aa sian % atera ae aaa aea-arr fegarae Tad A
+
+17) azar, (18) faefrar, (19) arefti
+ea ald SAL Silas
+
+## Page 91
+
+(2) =a, am, fra, (3) Tarra, (4) arg, (5) Fez
+
+## Page 92
+
+Cee re
+
+ae 4a Hag eat y
+art PTT ate Foy u
+fart 4 az aru (6)! W
+oO oO co]
+
+afar 1
+re I
+cand
+az rT
+aa i
+QO it
+
+1
+Hae Wt
+
+Oo fe]
+aan art n j
+ao att. iW
+aerate sa ar afar qe
+RATA 3
+
+aaah ater wet SH <a aa eT M i
+att aerr arft. vet aga a ert eit |
+seed FT . OHA Ser ret Se ‘owt
+aay Brea (1) SPT. SA ATT (2) He A!
+Wey FT ant azrat sara |
+forer azen arepr 2 il
+a Tart ararst Tet 1 gem are are att ™
+trot sparta (4) oe aT .(3) wa tat ae oe
+ariahta? eo «oe AAT
+
+(6) arate, Hea, (7) Fae, (8) TA Att Hate as Ara wT
+PATA! (1) AEM, ATA, (2) WHHLA Us MTA BTA, (3) FATA
+(4) bat Fist ot at & fers afer at ari fea eT 2 .
+
+## Page 93
+
+rm
+
+HATAT
+
+ora fire ort ai Sat . art att ort ara tt
+atest . et H arezat gat (5) at
+EAT FT ATT AT? ata orca ata at 1
+ag ft gem, aieen Ft gt A ata rat art tl
+Ya vere as A ares ae ae at ae at TTT. tt
+Ata fetta ata eit 6agqrewaAaaT
+war afar a rat | gitaahaatawsnt 4
+ae eiteet ata AT ATS fe Dee oat Tt ae ae AT Te STAT rT]
+ee ara a tet Ae _ Fer arfatt tax er tl
+any anne SAT . raat hae oe eT W
+WT Way AT TAT | after ora & farera 21 "
+fafa saga = atfearaadty arery fT
+ae ets 0S a art Tae "
+ash ars far etm eae wT Area FLAT (7)!
+ate ar ast Sear "
+
+a wetter ge "
+Tet ehr 1 \ ;eEer arte] sont | It
+alae atta $a ATA (8) § Wel asy saz sae "
+
+9 Pera a ue ares TS i
+ate (10). lai aa aT n
+
+lala STAT AT AT THAT u
+
+. Baa a TE STAT W
+wenie ovieniisy are & ta Fara "
+me & feet art ara WT Baa Fat ara Z| I.
+ag area go vit fh ag arte Uh Halt AAT ATAT
+
+ara. wee (14) are (12) FT
+
++ \ Cicceeme et u
+
+Frater qo FH fer ara tadt aearag Fears at
+(5) &t, (6) ate, (7) Ta, (8) HIATT
+aa, (9) "Iter 4, tsa aT Wer ahaa, (10)
+
+afta, (11) fez, Bz, (12) arte
+
+## Page 94
+
+arty
+
+are ara HT Sherr
+
+HAT AS
+
+efrott sara:
+wheat anftian eect 3 ° a afer ana =
+
+0 ae Sie are afer qAtere
+
+om rene 4. aifire af eT
+ay 4 Sal TAT AAT aT AT
+ps silat z . FA wet Teta 2?
+
+aes AAT (2) Aret eT tare ava are Ft aT oT.
+tare tr qe farm aaa ae ait
+
+ara ag 8 ara a eT | ag aa fret a aet een
+per aT Te a a» aaTadtaazear .
+
+fae a ara art at Loar at Pe ara get eta
+ae site a Laat fret, aa aia
+
+ay Fe Wea but a2 ara at att
+ave art & aaeett aexerett feased fen fore a
+
+are & arent fearr 1 Feta ren eet
+
+at AT ATE TAT TT art sa ot at
+
+ag wa det ae aa wat
+efrft sara:
+
+sofa vedi @ Pe afar i
+a oeoft avert ate at
+
+aaa FT arent Fat FT. gare oh cae
+Atpon Fede ATA aA ae ae area Hae e
+paren wa aay, afaara aa are ara. SeraT TAT
+ae fige ot aa z fera-fra AT at
+
+See
+(1) Prerar, aren, aaa, (2) aera, pet
+
+W
+ul
+tf
+u
+u
+it
+
+## Page 95
+
+Tr Afaary
+ae ma ar ace e (3). farsa etter (4) fafa e
+Ae Ha ATT SH Freer Fem Hears Ht aes He aT Ss
+Tara ft Par aca & | andi sao
+frate ft an ara aa 2 _ sare foro ates
+
+' | wear arte
+At ara aT _ae-AT Sea Te
+rare Zt TEST | aaoe fa arett
+vast Props art _ at sa 24 at raat
+Sa ara site az TEA afm feat veers eat
+oft & aa 4 oft saad vat fren
+arara aa Ft ata TAT . fee Frese a ast
+ae et ae erm, & wafers aot,
+saat ¢ 8 eat ae aT <A TST aT ATT HAT.
+ang Fore aréte ere et fara eT ST ae HAT
+aferar ara (5) ST CIMT Bea Tat FT
+avait arat Bey ETAT, ae 1 aT
+fiat aaah at _ fea ee & Sta
+4 ter cen at aaa . atfert (6) #FaT (7)
+area St AAT A aT _ H0T TA Areal AT TAT
+ag at . aT TF UST
+am | aaa VET tee
+aare HAs TH AT | tracer ier
+afte ait ar eat 1 Weer ara es
+aa ye at ate . fea F ater
+ag aaa oat FETA Hazy are afer &
+eam fate shrew tong Tare H fart = '
+
+fet tte araz
+
+afer area aaa
+
+bit cia SATAN |
+
+(3) arearst, are, (4) Rrearrarat (5) wera Ear, TAT gar, Tr, (6)
+ara H, (7) afearafea, watt 34 ara
+
+## Page 96
+
+HPTET
+
+SHOT aT AT ATT ly
+
+aaa oe
+
+eT ahr WH aT ae S. S
+
+set oT aay AT TT TAT!
+a2 ta eater . ET AP HT AT ATT
+wag iar 3 ) Wasa
+& aera, HA wea oe ay | Saf Pret sacar
+ST aval Waaea aarat & | aft gaa atte for
+Garo zit ior Ft tat 1 "UR At ae Th"
+aa ta eae 1 9a oro awe
+afer anne a ate eFax (1)1
+ae area at wat aT aTe
+) Pe Fase ara
+aratichie Weare aint
+TH a TET, | Wwe
+carara ot fits ara aa AT TAS ATT TT TT
+araet Ft Star _ oa Fr at rar aT ART
+Rare tart Hy Raa arg ara Het
+aa war sat feat {eo Taral
+artes are at ae qe (2) Wat FET AAA
+afer) are wer ara Fae argh a =
+oa aft Pe qarat arara Fr ht pea e
+he Ba ;
+aa ae tree at ha TATE area a Fafa (3)!
+al TATA BT, {1 TAR at TF ae
+AAT are mitt . Pst at ye ar aa at
+ss 2? eae aaa Fedt &
+sat ov A aT. (4) "Tee
+6a aT aa" | wet ard &
+
+(1) waz, (2) Fafae®, (3) areat, (4) Fe
+
+re
+
+## Page 97
+
+Wel) afer
+
+ara At ara AAT (sear, atten aa at 4
+¢ Wt earata as. ae ter TT (5)
+Fate re at at ire ae ae : arse arare ar eH Ea % HT]
+Ae ae Ft Bat faarat (6) ¥ arapr afar 4
+aatt a az 7A are rary art at 1 "
+ae arqnararat & ara "SAT," aat 7 wen |
+are wae sae ae We ar are 4
+ast vr erat arvar | gt famtanativam |
+
+oa A ata 3 3 ard at jp seRe Rag ee vader af "
+are it ata AAT ae 4
+Saat aft & sar Tan eH TST atu n
+Sah ae aaa aa | arava & frater u
+(7) 3 Tas FT Sarat | aie arte eA?
+€ ersitar are aa sat te ea u
+Fe FET SHUTT A AET io mimrkizeemrdte YU
+aft ant TAT + ort (9) H ara faz at fear |
+Wa SARE TAT wa ar ate feat 4
+TUT aa P a at oat 1 aT aT N
+SSS HUEL ONE IFT FT | feet ge war i
+ae tea 2 PH dare | eRe, 38 arr at i
+wr oT Aer wae I fax rar aaa TT
+a8 eri frag tat | Fae eas mn
+farentt fe atae art qepae ate fie a ater 4
+Bra F TTT = . Fate fase arate "
+Sorat a em ee aa gare aa eT "
+fae ge ae atti at aaa gaat Peart Fe "
+aivtrara ef Fat 4 feravac a Po, et 1"
+va are faearar. at Fort F oe fear fear u
+(10) art F gore, eae Pavdta eat ;
+CHUA SAT 1 fea vét aera "
+
+(5) 49H, 414, (6) FU, aTfaet, (7) +e, (8) APTA Fz,
+(9) zr, (10) sara
+
+## Page 98
+
+ease
+atfea 3 are aratt
+reat at
+wart 2a
+aa oe rp art
+STAT ATA HAT
+eat & AAT STA!
+att yea, Prat era St Sta TAT
+Aperraa F ara
+o
+aren aga afar & (13)! |
+ara tard arena #1
+ag ava faa qa a faa
+arava #2 are Par
+ee dias ft ara ae
+are aera ara aa TS
+o
+AL aaa THT:
+Wat WTA
+ae é fe fra Ht
+ayeAT aTET, ATAYT,
+avert,
+ATAyT FT Aa Zl
+
+°
+ST ae FH, TH
+
+Qaraae FT Are ere, erat
+
+At TST FTA AT
+arayn Prva at ate TM
+
+Seqx waratez
+°o
+
+afer
+
+| asqe steterar
+
+. aeter (11) BT OH eH BTAT
+
+u
+ll
+
+ag ataeat FF fear Fea (12) Il
+OTT FT eT SAT WATT. |
+
+| saat aer att # ae
+. Pra 2a fafa)
+Arad Hed aat es
+
+°
+| aaa ait '
+| watt art
+ae aS Tae
+| aredtasa aaa
+<a are Para & aT
+1 at agqerfer
+
+°
+
+oO
+
+. Peat art rear
+
+| aan gare gerara & are, oe
+arary ft ata at Fat vet TTT
+sae at art &
+adaaaa. |
+qe Sa SA ATT
+° °
+
+10 ara as eae
+{| Fea a a aT
+f
+
+onra H gar gar
+ae ater ae Ratt
+rare wa aT
+
+o o
+
+(11) afarer, (12) era, (13) aere 4 ATE
+
+il
+i]
+i
+u
+
+M4
+
+## Page 99
+
+nr) Afra
+
+freafgar arar Lear tar ata
+Ares fara, wear “ia Bras 8 ae fae
+wareat teara aa rent ao a aia a, aaa A eT
+fame are areyt (14)! a ar
+°o
+wt eer ot Te gt ATT rere
+at atratea fet ee gether a1 ar
+ae ga 8 ya fea att aa, Fars TATA =
+ey fare 1 ofate fret
+°o oO o
+SATTaTe TEAT 1 ata
+° e °
+aaa aT Qa ream A ATT
+yen arafead et , Jota aon, at oa eee
+TT aa Se TATA: { %, oat git
+o
+Treats srranr wet @ _ are a aa aT!
+aon ara A FET at aor frac Fz |
+aaa arn aa att Rare dan arian |
+ate At Pater arta ager are aor
+Apron afer sat ATs BT ATA ASATATA ZI
+
+(14) trae eam
+
+## Page 100
+
+aeraT}}
+
+fares ara ft areas fea
+Fey TEA
+
+Bs TF Beas Tz St aT {
+aa Ae FA TAT Ul
+aa fetta fan atom 1
+ae aht F ace ATT aT as ATI |
+carer ore are afatte af ett i
+adi a aghaare At qearat arte)
+oat A aga Tet aft |
+Sa aay ae ar Parr FAT St ST il
+rae there F ont qfatee ar areas Z I
+"afear hea" !
+ead rer FT ATT STAT TT 1
+TT atfert aa t
+papilla FEY 1
+gaan war Fag ft art "
+sara wet 8 ara, Weare Fr 1
+wt fea fia # adits srt It
+oo °o o
+oa fea, dor ate Hos aaa I
+Us at aS are FF St aT WW
+oH fa, ae Ua aaa fafa I
+ara & sftoar fe ae Sito tl
+Fe stra (1) & ote art t
+Masa aT
+ST att aatear & |
+ee BATT GBH ITA TT 1
+za oe ft afar dara tet arf, |
+aad at oa Ft tar omferara (2) ett ul
+
+(1) re earea ar Hem, (2) af wet seer ae far are at area at SAT

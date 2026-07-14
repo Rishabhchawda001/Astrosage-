@@ -1,0 +1,11 @@
+{
+  "checkpoint_id": "CP-54e5297f3c5d",
+  "phase": "test",
+  "completed_tasks": [
+    "T1"
+  ],
+  "failed_tasks": [],
+  "current_queue": [],
+  "worker_states": {},
+  "created_at": "2026-07-13T20:39:27.554297+00:00"
+}

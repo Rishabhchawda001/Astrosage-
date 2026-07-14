@@ -1,0 +1,2980 @@
+{
+  "generated_at": "2026-07-11T17:25:59Z",
+  "dataset_version": "1.0.0",
+  "total_documents": 751,
+  "subjects": {
+    "GRANTHS(Hindi&amp;English)": 94,
+    "Biography (hindi)": 80,
+    "Purans (english)": 66,
+    "sanskrit course": 66,
+    "Puran (hindi)": 48,
+    "ayurveda english": 19,
+    "Panini": 18,
+    "Chalisa (Hindi)": 16,
+    "Famous stories": 16,
+    "Tantra mantra books": 15,
+    "Mahabharat (English)": 13,
+    "Raag mp3": 13,
+    "Puran (telugu)": 12,
+    "kannada books": 12,
+    "Ramayan (telugu)": 11,
+    "Upnishads": 11,
+    "Vemanic sashastra": 11,
+    "astrology hindi": 11,
+    "Astrology (English)": 9,
+    "Ayurveda hindi": 8,
+    "Yoga": 8,
+    "Ravan samhita (hindi)": 6,
+    "Brahma sphutha sidhantha": 5,
+    "Hindu rituals": 5,
+    "Kamasutra": 5,
+    "Malayalam": 5,
+    "Shri yogavashisht maharamayan": 5,
+    "Ved (hindi)": 5,
+    "Bhavishya mallika": 4,
+    "Devnagri": 4,
+    "Kundalini": 4,
+    "Ved (English)": 4,
+    "Ved (gujrati)": 4,
+    "Ved (telgu)": 4,
+    "Astang hridyam hindi": 3,
+    "Bhagwat geeta (English)": 3,
+    "Geeta (Gujarati)": 3,
+    "Ram raksha strotra": 3,
+    "Science in vedas": 3,
+    "Sundar kand": 3,
+    "Swar vigyan": 3,
+    "Vigyan bhairav tantra": 3,
+    "bhramcharya english": 3,
+    "Aatmbodh hindi": 2,
+    "Aryabhatta (English)": 2,
+    "Bhagwat": 2,
+    "Bhagwat Geeta as it is (Prabhupada)": 2,
+    "Bhagwat geeta (punjabi)": 2,
+    "Bhaktmal": 2,
+    "Bhramcharya": 2,
+    "Bhrigu samhita": 2,
+    "Chakras": 2,
+    "Chanakya niti": 2,
+    "Guru Geeta": 2,
+    "Hanuman ashtak": 2,
+    "Mahabharat (hindi)": 2,
+    "Narayan kavach (hindi)": 2,
+    "Odia books": 2,
+    "Raag chikitsa hindi book": 2,
+    "Ramayan (English)": 2,
+    "Ramayan (hindi)": 2,
+    "Ramayan (tamil)": 2,
+    "Sadhak sanjivni": 2,
+    "Sangeet riyaz": 2,
+    "Shata chakra nirupama": 2,
+    "Shiv geeta": 2,
+    "Shrimad bhagwad geeta (English)": 2,
+    "Surya suktam": 2,
+    "Sushruta samhita english": 2,
+    "Sushruta samhita hindi": 2,
+    "Vedic science": 2,
+    "Vidur niti": 2,
+    "Vigyan bhairav tantra (English)": 2,
+    "source_library": 2,
+    "aatmbodh english": 2,
+    "narad Bhakti sutra hindi": 2,
+    "narad bhakti sutra english": 2,
+    "Abhigyan shakuntalam": 1,
+    "Akash bhairav kalpam": 1,
+    "Ancient Indian scientist": 1,
+    "Arthshastra": 1,
+    "Baglamukhi sahstra naam": 1,
+    "Bhagwat geeta (Telugu)": 1,
+    "Bhagwat geeta (hindi)": 1,
+    "Bhagwat gita (bengali)": 1,
+    "Bhraspati sutra eng": 1,
+    "Brahma sutra (English)": 1,
+    "Brahma sutra (hindi)": 1,
+    "Chakras hindi": 1,
+    "Dhanurved samhita": 1,
+    "Durga saptsati": 1,
+    "Garg sanhita": 1,
+    "Hanuman bahuk": 1,
+    "Hanumat rahasyam": 1,
+    "Hasthrekha book": 1,
+    "Kamakhya sadhna": 1,
+    "Mayamatam": 1,
+    "Narayanneeyam (eng)": 1,
+    "Nitya karm puja": 1,
+    "Paka darpanam": 1,
+    "Raag chikitsa English book": 1,
+    "Ram raksha strotam": 1,
+    "Ramcharitra manas": 1,
+    "Ramcharitramans hindi": 1,
+    "Shabar mantra": 1,
+    "Shakta pramod tantra": 1,
+    "Shiv sarvodya (hindi)": 1,
+    "Shiv sarvodya English": 1,
+    "Shiv sutra (English)": 1,
+    "Shiv sutra (hindi)": 1,
+    "The secret of vedas": 1,
+    "Vat savitri vrat katha": 1,
+    "Vedic maths": 1,
+    "Vedic physics": 1,
+    "Vishnu shahsranama english": 1,
+    "shrihari tika (bhagwat)": 1
+  },
+  "languages": {
+    "hindi": 273,
+    "english": 243,
+    "unknown": 100,
+    "sanskrit": 97,
+    "gujarati": 6,
+    "telugu": 18,
+    "punjabi": 3,
+    "bengali": 1,
+    "malayalam": 3,
+    "tamil": 1,
+    "kannada": 6
+  },
+  "media_types": {
+    ".pdf": 602,
+    ".jpeg": 63,
+    ".docx": 1,
+    ".zip": 1,
+    ".jpg": 5,
+    ".mp3": 12,
+    ".png": 1,
+    ".mp4": 66
+  },
+  "processing_status": {
+    "pending": 751
+  },
+  "duplicate_groups": 0,
+  "missing_metadata": [
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "WG463-1981-AkashBhairavaKalpamOfUmaMaheshwara.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Ancient Indian Scientific Thought (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Arthasastra Hindi Translation Udayvir Shastri.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Aditya Hridyam Stotram.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Hindi Book-Astanga-hrdayam.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "28Nakshatras-TheRealSecretsofVedicAstrologyAne-book.docx",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "BPHS - 1 RSanthanam.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "BPHS - 2 RSanthanam.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Nakshatras complete.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Prashna Jyotish ( PDFDrive.com ).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "SadhakSanjivani.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Bhagavad-gita-Swami-BG-Narasingha.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Telugu-Bhagavad-gita-His-Divine-Grace-AC-Bhaktivedanta-Swami-Prabhupada (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Bhagavad-gita Bengali.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Bhaktmal.pdf",
+      "missing_fields": [
+        "title",
+        "author"
+      ]
+    },
+    {
+      "filename": "श्रीभक्तमाल.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Bhavishya-Malika-in-Hindi.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "instapdf.in-bhavishya-malika-book-691.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Brahmacharya Ki Shakti by Swami Rama Tirtha.pdf",
+      "missing_fields": [
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Copy of _सत्यवादी_राजा_हरिश्चंद्र_की_कथा.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of आर्यभट्ट.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of एकलव्य.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of कार्तिकेय.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of छत्रपति शिवाजी.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of जगद्गुरु शंकराचार्य.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of जीजाबाई.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of डॉ. हेडगेवार.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of नेताजी सुभाषचंद्र बोस.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of पंडित_दीनदयाल_उपाध्याय.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of भक्त प्रहलाद.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of भगत सिंह.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of भगीरथ.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of महर्षि अगस्त्य.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of महर्षि वाल्मिकी.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of महर्षि विश्वामित्र.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of महर्षि वेदव्यास.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of महाराणा प्रताप.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of महासती द्रोपदी.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of मीराबाई.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of राजा राम मोहनराय.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of रानी लक्ष्मीबाई.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of वीर अभिमन्यु.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of वीर सावरकर.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of श्री कृष्ण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of श्री राम.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of सती अनुसुइया की कहानी.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Copy of सती सावित्री.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "_सत्यवादी_राजा_हरिश्चंद्र_की_कथा.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "आर्यभट्ट.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "एकलव्य.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "कार्तिकेय.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "छत्रपति शिवाजी.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "जगद्गुरु शंकराचार्य.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "जीजाबाई.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "डॉ. हेडगेवार.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "नेताजी सुभाषचंद्र बोस.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "पंडित_दीनदयाल_उपाध्याय.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "भक्त प्रहलाद.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "भगत सिंह.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "भगीरथ.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "महर्षि अगस्त्य.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "महर्षि वाल्मिकी.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "महर्षि विश्वामित्र.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "महर्षि वेदव्यास.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "महाराणा प्रताप.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "महासती द्रोपदी.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "मीराबाई.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "राजा राम मोहनराय.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "रानी लक्ष्मीबाई.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "वीर अभिमन्यु.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "वीर सावरकर.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "श्री कृष्ण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "श्री राम.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "सती अनुसुइया की कहानी.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "सती सावित्री.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Brahma-Sphuta-Siddhanta_VOL_I.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Brahma-Sphuta-Siddhanta_VOL_II.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Brahma-Sphuta-Siddhanta_VOL_III.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Brahma-Sphuta-Siddhanta_VOL_IV.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Chakras.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "hanumanchalisa_Marwadi_Sanskrit.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Chanakya Niti Darpan.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "3374.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Deskbook on Orthography of Devanagari Script (2)_compressed.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "ebharati-pdf-1674278317DhanurvedaSamhita-Sam-1958.pdf",
+      "missing_fields": [
+        "language"
+      ]
+    },
+    {
+      "filename": "durga-saptashati-hindi.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "_कर्ण_से_जुडी_कुछ_रोचक_बातें_.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "क्यों_है_ब्रह्मा_जी_का_पुरे_भारत.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "महाभारत For Students.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "महाभारत_में_वर्णित_ये_35_नगर_आज.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "रामायण For Students.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "समुद्र_मंथन_से_निकले_थे_ये_14_रत्न.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "006_Arun_Sanhita_Lal_Kitab_Hare_Krishna_Trashta.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "ArthurAvalonKularnavaTantraEng.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Ashtadhyayi_Padanukram_Kosh_016112_std.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "BhaiBaleWaliJanamSakhi.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "BhaiBaleWaliJanamSakhiPunjabi.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Caitanya-caritamrita_Adi_Lila (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Caitanya-caritamrita_Antya_Lila.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Caitanya-caritamrita_Madhya_Lila.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Chakraca.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Concepts of Space, Time, and Consciousness in Ancient India.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Gheranda Samhita_sanskrit_Eng.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Gita-Sadhale.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Harivamsha-Purana-Gitapress.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Karmvipak samhita.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Laghu-yoga-vasishta-English.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Power of Mantra.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "RekhaganitaVOL_II_DLI.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Satyarthaprakasa.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "ShivaSahinta_WithHindiTika.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Shiva_Sahinta_WithHindiTika.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Tukaramgatha_hindi.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Vrddhayavanjataka of Minaraja 1.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Vrddhayavanjataka of Minaraja 2 (2).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Yogi Kathamrita.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "bhavanbhaskar-vastu-shastra (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "bhavanbhaskar-vastu-shastra.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "bijak_kabir-_saheb.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "bramsutr.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "bramsutrSanskrit.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "chanakyasutrani-skt-text-with-hindi-commentary-1946.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "charaksamhitaatridevajigupt-vol-1.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "charaksamhitaatridevajigupt-vol-2.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "dasamgranth_all.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "durga-saptashati-hindi.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "from Vedic Science to Vedant.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "harinama-mahamantra 10th ed (hindi)-1-.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "mantra-vigyan.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "panchatantrasanskrithindi-jpmishra1910.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "selected Mantras_English.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "shiva-swarodaya-sanskrit-hindi.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "suryaSiddhantaEnglish.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "vivakchudamani.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Srimad-Bhagavad-Gita-in-Gujarati.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "GuruGita.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "hanuman-bahuk-gitapress.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "WG989-1988 -Hanumad Rahasyam.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "हस्तरेखा विज्ञान और पंचांगुली साधना.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Hinduo Ke Riti Riwaj Tatha Manyatayein (Hindi).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "हिन्दू धर्म.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Kamasutra of Vatsyayan with Hindi Trans. by Ramanand Sharma Series No. 4 - Bitthal Das Sanskrit Series.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "instapdf.in-kamasutra-132.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "kamasutraofvatsy00vatsuoft.pdf",
+      "missing_fields": [
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Kundalini Yog - Dr. Rakesh Giri.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Kundalini eng.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "कुंडलिनी जागरण एक अद्भुत यात्रा (Hindi Edition) (Sharma, Rahul [Sharma, Rahul]) (Z-Library).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "महाभारत (Vol-1 to 12) गोरखपुर प्रेस.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Dwadasa_Jyotirlinga_Stotram_Malayalam.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Mayamatam.zip",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Narayaneeyam Bhagavata Condensed Of Meppathur Narayana Bhattatiri Traslated By Swami Tapasyananda - Sri Ramakrishna Math, Madras.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "nity-karm-puja-prakash.pdf",
+      "missing_fields": [
+        "language"
+      ]
+    },
+    {
+      "filename": "Paka Darpana of Nala Madhuri Hindi Commentary Indra Deva Tripathi Ed. Vamcharya Bhattacharya Chowkambha............pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "panini_Mahabhashya_I.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "panini_Mahabhashya_II.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "panini_Mahabhashya_III.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "panini_Mahabhashya_IV.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "panini_Mahabhashya_V.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "panini_Mahabhashya_VI.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "panini_TheDhatupathaOfPanini.pdf",
+      "missing_fields": [
+        "language"
+      ]
+    },
+    {
+      "filename": "panini_kashika.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "1hFBrGP2e8hyd1wmah5YaWfVE6wQZWevL_210828_120700.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Agni_Puran_of_Maharshi_Vyas_Mansukh_Ray_Mor_Guru_Mandal_Granth_Mala.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "agni-puran (2).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "bavishya-puran (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "bhagwat-puran (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "brahamand (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "brahamandp (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "bramha (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "garuda1 (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "kurma (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "ling (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "markende-puran (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "matsya-puran-1 (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "matsya-puran-2 (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "nard-puran (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "padam-puran (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "sakand-puran.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "vaivtpuran (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "vamanpuran (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "varaha-puran (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "vishnu-puran (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "अग्नि पुराण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "कूर्म पुराण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "गरुड पुराण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "नरसिंह पुराण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "नारद पुराण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "ब्रम्हा पुराण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "ब्रह्म वैवर्त पुराण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "भविष्य पुराण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "मत्स्य पुराण 1.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "मत्स्य पुराण 2.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "वामन पुराण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "विष्णु पुराण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "शिव पुराण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "श्री गणेश पुराण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "स्कन्द पुराण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "VaisakhaPuranam-1.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "basava-puranam-telugu.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "bhavishyapuranam-telugu.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "karthikapuranam.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Brahm Vaivart Puran 1.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Brahm Vaivart Puran 2.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Brahm Vaivart Puran 3.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Kalika Puran.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Kalki-Purana-english.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Kurm Puran.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Ling Puran 1.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Ling Puran 2.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Ling Puran Sans Eng 1.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Ling Puran Sans Eng 2.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Narad Panchatatra 1.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Narad Panchatatra 2.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Shiv Puran 1.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Shiv Puran 2.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Shiv Puran 3.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Shiv Puran 4.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Skand puran 1.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Skand puran 2.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Vaman Puran.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Varah puran 1.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Varah puran 2.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "vayu puran banaras.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Ragachikitsa.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "08. Dr. Mohini Mehrotra.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "60. Rashmi Yadav, Gwaliar (M.P.) .pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "A Read it before listening .jpg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Bhairav.mp3",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Bhairavi.mp3",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Bhoop.mp3",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "DARBARI.mp3",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Darbari.mp3",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Jaijaiwanti.mp3",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Khamaj.mp3",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Lalit.mp3",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Madhuwanti.mp3",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Malkauns.mp3",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Pilu.mp3",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Shivaranjani.mp3",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "231_Ramraksha_Stotram_Web.pdf",
+      "missing_fields": [
+        "language"
+      ]
+    },
+    {
+      "filename": "राम-रक्षा-स्तोत्र-PDF.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "श्रीरामचरितमानस-Ramcharitmanas 2.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "ravan-samhita-1.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "ravan-samhita-2.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "ravan-samhita-3.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "ravan-samhita-4.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "ravan-samhita-5.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Importance_Of_Riaz_In_Indian_Classical_Music.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "2015.405980.Science-In.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "science-in-vedas.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "shabar-mantra-sadhna-evam-siddhi-in-hindi-pdf.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "SHAKTA PRAMOD TANTRA.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Shata-Chakra-Nirupana-of-Shree-Purnananda-Yati-Goswami-Prahlad-Giri-pdf.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "SHIVA GITA (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "yShiva Svarodaya Text With English Translation - Ram Kumar Rai.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "ShivaSutras.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Shiva Sutra Spanda Karika (Samvat 2031 Edition) - Daita Swami.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Shrimad bhagwat geeta.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Sunderkand_Path.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "2015.540437.Sushrut-Sanhita.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Jyotish Mein Svara Vigyan Ka Mahatva - Kedar Nath Joshi.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "2015.539126.Indrajal.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "2015.541564.Uddish-tantram.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "235056697-Rudrayamala-tantram-रुद-रयामल-तन-त-रम (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Guru Sadhana (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Mantra Rahasya.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Siddha Rare Sadhanas (2).pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Sri Vidya Nityarchan Saparrya Paddhati - Pt. Hari Om Shukla.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Swarn Tantram.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Urvashi Sadhana.pdf",
+      "missing_fields": [
+        "language"
+      ]
+    },
+    {
+      "filename": "dlscrib.com-pdf-kriyodish-tantra-rare-book-dl_db8277b362f0ed55d2d0058c81c3e763.pdf",
+      "missing_fields": [
+        "language"
+      ]
+    },
+    {
+      "filename": "vishwa-ki-alokik-sadhnaye_compress.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "लक्ष्मी_प्राप्ति_के_दुर्लभ_प्रयोग.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "हिमालय के योगियों की गुप्त सिद्धियां .pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "108 Upanishad Part-1.PDF",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "108 Upanishad Part-2.PDF",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "108 Upanishad Part-3.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "108-upanishads-with-upanishad-brahmam-commentary.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Katha Upanishad  - Gita Press Gorakhpur.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Kena Upanishad - Gita Press Gorakhpur.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Mandukya Upanishad - Gita Press Gorakhpur.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "instaPDF.in-mandukya-upanishad-718.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "yajur-vedam-telugu.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "वैदिक गणित सूत्र.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "science-in-vedas.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "The Vimanika Shastra by Maharshi Bharadwaaja,Propounded by Venerable SUBBARAYA SHASTRY (z-lib.org).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Types-of-ancient-vimanas7.png",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Vimana.jpg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "image-of-vimana.jpg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "indian_pushpaka_vimana.jpg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "the_vimanika_shastra.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "vimana101.jpg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "vimanika shaster.pdf",
+      "missing_fields": [
+        "language"
+      ]
+    },
+    {
+      "filename": "vimanikaShastraEnglish.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Vigyan bhairav (bapulal).pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "Vigyan Bhairav Tantra, Vol 1 (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Vigyan Bhairav Tantra, Vol 2 (1).pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Sri_Vishnu_Sahasranama_Stotram.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "तुलसी के चमत्कारी गुण.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "हमारी_हिन्दू_संस्कृति_पूर्णतः_विज्ञान.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "You Can Pay Any Amount.jpeg",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "2015.341974.99999990234752.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "2015.342017.99999990234792.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "2015.342293.Sachitra-Jyotish.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "2015.342310.Sugam-Jyotish.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "2015.378893.Bhartiya-Jyotish.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "2015.464310.Dynamic-Astrology.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "2015.538690.Ratna-Parichay.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "2015.545358.Ank-Vidya.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "2015.553830.Bhrigu-Sanhita.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "vastu shastra hindi.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "1. Ancient Remedies for a Modern You An Introduction to Ayurveda Author Premal Patel.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "10. Ayurvedas Perspective on Healing Mental Illness Author AdPurkh Kaur Khalsa, Emily K Smith.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "14. A Study of Ayurvedic Style of Cooking and It’s Influence in Day to Day Life (Article) Author Dr Kiran Shende,Mr Rahul Bhalekar.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "4. An Ayurvedic Approach to Losing Weigh Author Banyan Botanicals.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "5. Ayurveda Kapha Daily Routine Author Yoga Veda Institute Educational Programs.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "6. Accounts of Pathogenic Organisms in the Early Texts of Ayurveda Author P Ram Manohar.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "7. Ontology of Personhood in Ayurveda from the Perspective of Patients and Physicians in Palampur Himachal Pradesh An Independent Stud Author Denise DeFelice.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Strength+of+Brahmacharya.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Valmiki Ramayanam Baalakanda- N Ranganatha sharma.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "ಬೃಹಜ್ಜಾತಕ ಕನ್ನಡ.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "ಸಂಪೂರ್ಣ ಋಗ್ವೇದ ಕನ್ನಡ .pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "D48AE4C9-6BBA-409E-BBF1-535B6DC6C971.jpeg",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "Narada_Bhakti_Sutra.pdf",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् - पाठ 1 संस्कृत वर्णमाला Learn Sanskrit_ Alphabet.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् - पाठ 11, सर्वनाम, लट् लकार. Learn Sanskrit_ Pronouns &amp; the Present Te.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 10, उत्तम पुरुष Learn Sanskrit_ First Person.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 12, अश्वः Learn Sanskrit_ Masculine Nouns.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 13, नपुंसकलिंग Learn Sanskrit_ Neuter Gender.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 14, अकारांत नपुंसकलिंग Learn Sanskrit_ Neuter Nouns in -A.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 15, लृट् लकार Learn Sanskrit_ Future Tense.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 16, लङ् लकार Learn Sanskrit_ Past Tense.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 17, विधिलिङ् लकार Learn Sanskrit_ Should.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 18, लोट् लकार Learn Sanskrit_ Orders, Requests.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 19, आकारांत स्त्रीलिंग Learn Sanskrit_ Akarant Feminine.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 2, मात्राएँ _ Learn Sanskrit_ Vowel Marks.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 20, अस्मद् Learn Sanskrit_ I, We.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 21, अस् धातु Learn Sanskrit_ The Copula –Is, Am, Are.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 22, युष्मद् – तुम Learn Sanskrit_ You, Your etc.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 23, सः तत् Learn Sanskrit_ He, his, him, they, them etc.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 24, किम् के कानि Learn Sanskrit_ Who,What, Whom,Whose.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 25, यत् ये यानि Learn Sanskrit_ Who, Whom,Whose.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 26, सा, या, का Learn Sanskrit_ Feminine Forms of Pronouns, She.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 27,इकरान्त पुंल्लिंग Learn Sanskrit_ Masculine Nouns in –i.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 28,उकरान्त पुंल्लिंग Learn Sanskrit_ Masculine Nouns in –u.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 29,संस्कृत धातुपाठ Learn Sanskrit_ List of Verbs_ Part 1.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 3, संयुक्त वर्ण –1 Learn Sanskrit_ Consonant Clusters.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 30, संख्याशब्द Learn Sanskrit_ Cardinal Numerals संस्कृत में गिन.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 31, संख्याशब्दों के लिंग Learn Sanskrit_ Gender of Numerals.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 32, ऋकारांत शब्द Learn Sanskrit_ Nouns ending in –ri.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 33, संस्कृत धातुपाठ Learn Sanskrit_ List of Sanskrit Verbs Part .mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 34, पूरणी संख्याएँ Learn Sanskrit_ Ordinal Numbers.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 35, आत्मनेपदी धातु Learn Sanskrit_ Atmanepadi Verb.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 36, आत्मनेपदी धातुएँ Learn Sanskrit_ More Atmanepadi Verbs Part.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 37, संस्कृत धातुपाठ Learn Sanskrit_ List of Sanskrit Verbs Part .mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 38, ईकारांत शब्द Learn Sanskrit_ Nouns ending in –ई.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 39, उकारांत शब्द Learn Sanskrit_ Nouns ending in –उ.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 4, संयुक्त वर्ण –2 Learn Sanskrit_ Consonant Clusters.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 40, हलन्त शब्द Learn Sanskrit_ Nouns ending in a Consonant.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 41, संस्कृत धातुपाठ Learn Sanskrit_ List of Sanskrit Verbs Part .mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 42, द्वितीया विभक्ति कर्म कारक Learn Sanskrit_ Accusative Case.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 43, तृतीया विभक्ति करण कारक Learn Sanskrit_ Instrumental Case.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 44, क्त्वा प्रत्यय Learn Sanskrit_ The Suffix Ktva.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 45, संस्कृत धातुपाठ Learn Sanskrit_ List of Verbs_ Part 5.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 46, ल्यप् प्रत्यय Learn Sanskrit_ The Suffix Lyap.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 47, संप्रदान कारक Learn Sanskrit_ The Dative Case.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 48 अपादान कारक Learn Sanskrit_ The Ablative Case पंचमी विभक्ति.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 49 संबंध कारक Learn Sanskrit_ The Possessive Case षष्ठी विभक्ति.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 5, एषः कः Learn Sanskrit_ Who is.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 50, क्त प्रत्यय Learn Sanskrit_ The Suffix Kta.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 51, क्तवतु प्रत्यय Learn Sanskrit_ The Suffix Ktavatu.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 52, शतृ प्रत्यय Learn Sanskrit_ The Suffix Shatri.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 53, शानच् प्रत्यय Learn Sanskrit_ The Suffix Shanach.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 54, तुमुन् प्रत्यय Learn Sanskrit_ The Suffix Tumun.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 55, ल्युट् प्रत्यय Learn Sanskrit_ The Suffix Lyut.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 56, अ, अच् और क्तिन् प्रत्यय Learn Sanskrit_ The Suffix A, Ach a.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 57, तव्यत् अनीयर् यत् ण्यत् प्रत्यय Learn Sanskrit_ The Suffix T.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 58, ण्वुल् तृच् णिनि प्रत्यय Learn Sanskrit_ The Suffix Nvul, Tr.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 59 अधिकरण कारक Learn Sanskrit_ The Locative Case सप्तमी विभक्ति.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 6, सः किम् करोति Learn Sanskrit_ Who does.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 60 सन् और णिच् प्रत्यय Learn Sanskrit_ The Suffix San &amp; Nich.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 61, कर्म वाच्य Learn Sanskrit_ Passive Voice Part 1.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 62, Learn Sanskrit_ Passive Voice Part 2.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 63, चित् प्रत्यय, सर्वः Learn Sanskrit_ Sarva, Chit Pratyay.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 64, अव्यय Learn Sanskrit_ The Adverbs Part 1.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 65, अव्यय Learn Sanskrit_ The Adverbs Part 2.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 66, लिट् लकार Learn Sanskrit_ The Remote Past.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 7, कर्ता, कर्म व क्रिया Learn Sanskrit_ Subject, Object &amp; Verb.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 8, वचन Learn Sanskrit_ Number &amp; Third Person.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "संस्कृतम् – पाठ 9, मध्यम पुरुष Learn Sanskrit_ Second Person.mp4",
+      "missing_fields": [
+        "author"
+      ]
+    },
+    {
+      "filename": "2015.327535.Shrimad-Bhagwad.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    },
+    {
+      "filename": "test_download.pdf",
+      "missing_fields": [
+        "author",
+        "language"
+      ]
+    }
+  ],
+  "pipeline_status": {
+    "classifier": "0.1.0",
+    "language_detector": "0.1.0",
+    "ocr_router": "0.1.0",
+    "text_extractor": "0.1.0",
+    "ocr_engine": "0.1.0",
+    "metadata_extractor": "0.1.0",
+    "chunker": "0.1.0",
+    "embedder": "0.1.0",
+    "vector_store": "0.1.0",
+    "retriever": "0.1.0",
+    "reranker": "0.1.0",
+    "grounding_engine": "0.1.0",
+    "duplicate_detector": "0.1.0",
+    "provenance_graph": "0.1.0",
+    "knowledge_registry": "0.1.0",
+    "manifest": "0.1.0"
+  }
+}

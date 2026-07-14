@@ -1,0 +1,172 @@
+{
+  "title": "Gheranda Samhita",
+  "discovered_at": "2026-07-13T13:13:34.190748+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "The Gheranda Samhita",
+      "authors": [
+        "James Mallinson"
+      ],
+      "year": 2004,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "printdisabled",
+      "public_domain": false,
+      "ia_identifiers": [
+        "gherandasamhitao0000unse"
+      ],
+      "edition_count": 1,
+      "isbn": [
+        "0971646635",
+        "9780971646636"
+      ],
+      "publisher": [
+        "YogaVidya.com"
+      ],
+      "ol_key": "/works/OL19171089W"
+    },
+    {
+      "source": "open_library",
+      "title": "The Gheranda samhita",
+      "authors": [
+        "Gheran\u0323d\u0323a."
+      ],
+      "year": 1996,
+      "languages": [
+        "san",
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9788121507349",
+        "8121507340"
+      ],
+      "publisher": [
+        "Munshiram Manoharlal Publishers"
+      ],
+      "ol_key": "/works/OL2311013W"
+    },
+    {
+      "source": "open_library",
+      "title": "Ghera\u1e47\u1e0da sa\u1e43hite",
+      "authors": [
+        "Gheran\u0323d\u0323a."
+      ],
+      "year": 1995,
+      "languages": [
+        "kan"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Medha\u0304 Pablis\u0301arsa"
+      ],
+      "ol_key": "/works/OL23633610W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "mexg-the-gheranda-samhita-by-gheranda-edited-by-m-vijay",
+      "title": "The Gheranda Samhita By Gheranda Edited By M Vijayalakshmi Translated By Sris Chandra Vasu Sanskrit And English Yoga Delhi 2003 Shivalik Prakashan",
+      "creator": "Shivalik Prakashan",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "GherandaSamhita_201707",
+      "title": "Gheranda Samhita - Hindi",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wynv_gheranda-samhita-yoga-books",
+      "title": "Gheranda Samhita Yoga Books",
+      "creator": "Yoga Books",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2792022784",
+      "title": "An Overview of Hatha Yogic Practices in Hatha yoga Pradipika, Gheranda Samhita and Shiva Samhita",
+      "year": 2017,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5958/2321-5828.2017.00053.5",
+      "authors": [
+        "Satyanarayan Mishra",
+        "Subash Chandra Dash"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W563763824",
+      "title": "The Gheranda Samhita : the original Sanskrit and an English translation",
+      "year": 2004,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "James Mallinson"
+      ]
+    }
+  ]
+}

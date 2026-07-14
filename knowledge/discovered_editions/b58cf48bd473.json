@@ -1,0 +1,142 @@
+{
+  "title": "Shrimad bhagwat geeta",
+  "discovered_at": "2026-07-13T15:13:59.391869+00:00",
+  "edition_count": 7,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Shrimad Bhagwat Geeta - Roopkavita",
+      "authors": [],
+      "year": 2017,
+      "languages": [],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9788192373089",
+        "8192373088"
+      ],
+      "publisher": [
+        "Panchshil Prakashan"
+      ],
+      "ol_key": "/works/OL18819495W"
+    },
+    {
+      "source": "open_library",
+      "title": "Shrimad Bhagwat Geeta and Ashtavakra Gita - a Comparative Study",
+      "authors": [
+        "1st Ashish Semwal"
+      ],
+      "year": 2023,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9781685764470",
+        "1685764479"
+      ],
+      "publisher": [
+        "Selfypage Developers Pvt Ltd"
+      ],
+      "ol_key": "/works/OL36856506W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "qybe_shrimad-bhagwat-geeta-part-005-urdu-hindu-mat",
+      "title": "Shrimad Bhagwat Geeta Part 005 Urdu Hindu Mat",
+      "creator": "Mat",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "httpswww.ijtsrd.commanagementbusiness-ethics31237spirituality-in-management-a-ke",
+      "title": "Spirituality in Management A Key for Corporate Excellence",
+      "creator": "Ankita Ochani",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.242135",
+      "title": "Shrimad Bhagwat Geeta",
+      "creator": "Gandhi Mahatma",
+      "year": 1948,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4414949328",
+      "title": "Analogy of Some Concepts of Quantum Mechanics with Indian Spiritual Writing-Shrimad Bhagwat Geeta)-II",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://www.ijsr.net/archive/v14i10/SR251003121014.pdf",
+      "authors": [
+        "Kishor Arora"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4396881979",
+      "title": "Study of Relationship between Some Concepts of Quantum Mechanics and Indian Spiritual Writings (With Special Reference to Shrimad Bhagwat Geeta)-I",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.21275/sr24418105553",
+      "authors": [
+        "Kishor Arora"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pymupdf": {
+    "total_tests": 23,
+    "successes": 23,
+    "failures": 0,
+    "success_rate": 100.0,
+    "avg_processing_time_s": 1.934,
+    "avg_characters_extracted": 491577,
+    "avg_words_extracted": 83986,
+    "avg_confidence": 1.0
+  },
+  "tesseract": {
+    "total_tests": 3,
+    "successes": 3,
+    "failures": 0,
+    "success_rate": 100.0,
+    "avg_processing_time_s": 75.622,
+    "avg_characters_extracted": 25579,
+    "avg_words_extracted": 4485,
+    "avg_confidence": 0.766
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "title": "GuruGita",
+  "discovered_at": "2026-07-13T13:14:58.748522+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Nothing exists that is not S\u0301iva",
+      "authors": [
+        "Swami Muktananda"
+      ],
+      "year": 1997,
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9780911307566",
+        "0911307567"
+      ],
+      "publisher": [
+        "SYDA Foundation"
+      ],
+      "ol_key": "/works/OL1858391W"
+    },
+    {
+      "source": "open_library",
+      "title": "Guru-g\u012bt\u0101",
+      "authors": [],
+      "year": 1991,
+      "languages": [
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Santa Niran\u0307ka\u0304ri\u0304 Man\u0323d\u0323ala, Praka\u0304s\u0301ana Vibha\u0304ga",
+        "Distributors, Bookwell"
+      ],
+      "ol_key": "/works/OL23529510W"
+    },
+    {
+      "source": "open_library",
+      "title": "\u015ar\u012b Guru-G\u012bt\u0101",
+      "authors": [],
+      "year": 2000,
+      "languages": [
+        "eng",
+        "san"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Sajit Print"
+      ],
+      "ol_key": "/works/OL23793021W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "sri-gurugita-by-sri-dadana-chinnaiah-in-telugu",
+      "title": "Sri Gurugita By Sri. Dadana Chinnaiah In Telugu",
+      "creator": "Sri. Dadana Chinnaiah",
+      "year": 2000,
+      "language": "Telugu",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.266748",
+      "title": "Amrita-dhara Ed. 2nd",
+      "creator": "Swami Biswajit Brahmachari",
+      "year": 1960,
+      "language": "ben",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "GuruGita",
+      "title": "Guru Gita-Hindi",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2794706707",
+      "title": "Journeys Across Territories: A Comparative Analysis Of The Literary And Cinematic Texts Of Eat, Pray, Love.",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "https://zenodo.org/record/1199477",
+      "authors": [
+        "Meera Babu"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4237738565",
+      "title": "JOURNEYS ACROSS TERRITORIES: A COMPARATIVE ANALYSIS OF THE LITERARY AND CINEMATIC TEXTS OF EAT, PRAY, LOVE.",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "http://www.journalijar.com/uploads/628_IJAR-22003.pdf",
+      "authors": [
+        "Meera Babu"
+      ]
+    }
+  ]
+}

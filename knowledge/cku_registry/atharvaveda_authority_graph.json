@@ -1,0 +1,49 @@
+{
+  "editions": [
+    {
+      "file": "atharvaveda_vol1_sayana.txt",
+      "publisher": "Sayana",
+      "year": 1895,
+      "editor": "Sayana Acharya",
+      "commentator": "Sayana",
+      "language": "Sanskrit-Hindi",
+      "authority_score": 75
+    },
+    {
+      "file": "atharvaveda_samhita_sanskrit.txt",
+      "publisher": "Unknown",
+      "year": 1900,
+      "editor": "Unknown",
+      "commentator": "Unknown",
+      "language": "Sanskrit",
+      "authority_score": 45
+    },
+    {
+      "file": "atharvaveda_jayadev_part1.txt",
+      "publisher": "Jayadev Sharma",
+      "year": 1975,
+      "editor": "Jayadev Sharma",
+      "commentator": "Jayadev Sharma",
+      "language": "Hindi",
+      "authority_score": 50
+    }
+  ],
+  "families": [
+    {
+      "name": "Sayana Bhashya",
+      "editions": [
+        "atharvaveda_vol1_sayana.txt"
+      ]
+    },
+    {
+      "name": "Jayadev Sharma",
+      "editions": [
+        "atharvaveda_jayadev_part1.txt"
+      ]
+    }
+  ],
+  "primary_witness": "atharvaveda_vol1_sayana.txt",
+  "canonical_reconstruction": "Sayana Bhashya as primary (highest scholarly authority)",
+  "scripture": "Atharvaveda",
+  "date": "2026-07-14T09:15:38.592931"
+}

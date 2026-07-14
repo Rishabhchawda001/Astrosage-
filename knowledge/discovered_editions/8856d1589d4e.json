@@ -1,0 +1,220 @@
+{
+  "title": "Ancient Indian Scientific Thought (1)",
+  "discovered_at": "2026-07-13T12:39:41.060306+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "The history of Detroit and Michigan",
+      "authors": [
+        "Silas Farmer"
+      ],
+      "year": 1884,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "HistoryOfDetroitAndMichiganV2",
+        "historyofdetroit02farm",
+        "historydetroita01farmgoog",
+        "HistoryOfDetroitAndMichiganV1"
+      ],
+      "edition_count": 6,
+      "isbn": [],
+      "publisher": [
+        "Silas Farmer & Co.",
+        "S. Farmer & Co.",
+        "S. Farmer & co."
+      ],
+      "ol_key": "/works/OL161752W"
+    },
+    {
+      "source": "open_library",
+      "title": "Natural religion",
+      "authors": [
+        "F. Max M\u00fcller"
+      ],
+      "year": 1888,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "naturalreligion0000mlle",
+        "NaturalReligion3rdEd",
+        "naturalreligion00mulluoft",
+        "naturalreligiong00ml",
+        "b24858481"
+      ],
+      "edition_count": 16,
+      "isbn": [
+        "1345013604",
+        "9781417974030",
+        "9780790575360",
+        "9781421273198",
+        "9781345082524",
+        "9780404114503",
+        "1345082525",
+        "9781345013603",
+        "0548052336",
+        "1345107048",
+        "1421273195",
+        "0404114504",
+        "9781345107043",
+        "0790575361",
+        "1417974036",
+        "9780548052334"
+      ],
+      "publisher": [
+        "Kessinger Publishing",
+        "AMS Press",
+        "Longmans, Green, and Co.",
+        "Longmans, Green",
+        "Longmans",
+        "Adamant Media Corporation",
+        "Arkose Press"
+      ],
+      "ol_key": "/works/OL310503W"
+    },
+    {
+      "source": "open_library",
+      "title": "History of the World's Fair",
+      "authors": [
+        "Benjamin Cummings Truman"
+      ],
+      "year": 1893,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "historyofworldsf00trum",
+        "historyofworldsf01trum"
+      ],
+      "edition_count": 5,
+      "isbn": [
+        "0665486960",
+        "0405077149",
+        "9780405077142",
+        "9780665486968"
+      ],
+      "publisher": [
+        "H.W. Kelley",
+        "Sine nomine",
+        "J. W. Keeler & Co.",
+        "Arno Press",
+        "Mammoth publishing company"
+      ],
+      "ol_key": "/works/OL1618262W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "thought-booksoft-copy",
+      "title": "Nature of Human Thought",
+      "creator": "Anil K Rajvanshi",
+      "year": 2010,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "TheSatanicVersesOfBhagavad-gita",
+      "title": "The Satanic Verses of Bhagavad-gita",
+      "creator": "Kedar Joshi",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Word Document"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "conquestofcontin00gran",
+      "title": "Conquest of a continent: or, The expansion of races in American",
+      "creator": "Grant, Madison",
+      "year": 1933,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Grayscale PDF",
+        "JPEG Thumb",
+        "MARC Source",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Original JP2 Tar",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2099025649",
+      "title": "Indian Herbs and Herbal Drugs Used for the Treatment of Diabetes",
+      "year": 2007,
+      "is_oa": true,
+      "oa_url": "https://www.jstage.jst.go.jp/article/jcbn/40/3/40_3_163/_pdf",
+      "authors": [
+        "Manisha Modak",
+        "Priyanjali Dixit",
+        "Jayant Londhe"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3129075539",
+      "title": "Ancient DNA analysis",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://hal.archives-ouvertes.fr/hal-03143766/file/Orlando-2021-NatRevMetPrimers-aDNAanalysis.pdf",
+      "authors": [
+        "Ludovic Orlando",
+        "Robin G. Allaby",
+        "Pontus Skoglund"
+      ]
+    }
+  ]
+}

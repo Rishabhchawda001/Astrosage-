@@ -1,0 +1,102 @@
+{
+  "title": "vastu shastra hindi",
+  "discovered_at": "2026-07-13T17:09:20.929696+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "pandulipi-vigyan_202311",
+      "title": "Pandulipi Vigyan",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "gwpw_vastu-shanti-pradip-by-phulchandra-edited-by-shri-ram-mishra-sanskrit-vastu",
+      "title": "Vastu Shanti Pradip By Phulchandra Edited By Shri Ram Mishra Sanskrit Vastu Shastra Howrah 1979 Udayachal Press",
+      "creator": "Udayachal Press",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "hBFt_samarangan-sutradhar-vastu-shastra-bhavan-nivesh-part-1-with-deep-explanation-hi",
+      "title": "Samarangan Sutradhar Vastu Shastra Bhavan Nivesh Part 1 With Deep Explanation Hindi Translation By Dr. Dvijendranath Shukla New Delhi 1994 Meharchand Lachmandas Publications",
+      "creator": "Meharchand Lachmandas Publications",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1819357769",
+      "title": "Building science of Indian temple architecture",
+      "year": 2008,
+      "is_oa": true,
+      "oa_url": "http://hdl.handle.net/1822/17470",
+      "authors": [
+        "Shweta Vardia"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7153742493",
+      "title": "Advanced Vastu Techniques: Case Studies and Contemporary Applications",
+      "year": 2026,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.19545212",
+      "authors": [
+        "Acharya Pt. Dr Avdhesh Kumarr"
+      ]
+    }
+  ]
+}

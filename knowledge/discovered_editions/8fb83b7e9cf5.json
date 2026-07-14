@@ -1,0 +1,183 @@
+{
+  "title": "Vidur-Niti_sanskrit",
+  "discovered_at": "2026-07-13T15:32:57.697374+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "20220412_20220412_0437-vidur-niti-in-nepali",
+      "title": "\u0935\u093f\u0926\u0941\u0930 \u0928\u093f\u0924\u093f-Vidur Niti in Nepali",
+      "creator": "",
+      "year": null,
+      "language": [
+        "nep",
+        "Sanskrit"
+      ],
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wgqw_niti-vidur-chanakya-ra-bhartrihari-commentary-mero-abhivadan-commentator-ka",
+      "title": "Niti Vidur Chanakya Ra Bhartrihari Commentary Mero Abhivadan Commentator Kamal Dikshit By Madan Prasad Aryal Sanskrit Translated Into Nepali Niti Shastra Kathmandu 2006",
+      "creator": "Madhav Lamichhane",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "CSDN_vidur-niti-by-nand-lal-1914-venkateshwar-mudran-yantralay-bombay",
+      "title": "Vidur Niti By Nand Lal 1914 Venkateshwar Mudran Yantralay, Bombay",
+      "creator": "eGangotri",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "20220412_20220412_0437-vidur-niti-in-nepali",
+      "title": "\u0935\u093f\u0926\u0941\u0930 \u0928\u093f\u0924\u093f-Vidur Niti in Nepali",
+      "creator": "",
+      "year": null,
+      "language": [
+        "nep",
+        "Sanskrit"
+      ],
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wgqw_niti-vidur-chanakya-ra-bhartrihari-commentary-mero-abhivadan-commentator-ka",
+      "title": "Niti Vidur Chanakya Ra Bhartrihari Commentary Mero Abhivadan Commentator Kamal Dikshit By Madan Prasad Aryal Sanskrit Translated Into Nepali Niti Shastra Kathmandu 2006",
+      "creator": "Madhav Lamichhane",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "CSDN_vidur-niti-by-nand-lal-1914-venkateshwar-mudran-yantralay-bombay",
+      "title": "Vidur Niti By Nand Lal 1914 Venkateshwar Mudran Yantralay, Bombay",
+      "creator": "eGangotri",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4414680905",
+      "title": "Mantralens: A Window into the\u00a0Emotional Depths of Sanskrit",
+      "year": 2025,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Prajakta Deshpande",
+        "Divya Kasat",
+        "Shrushti Mahadik"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4398234457",
+      "title": "Human Values and Ethics in Organization: Insight from Scriptures",
+      "year": 2024,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Pawan Kumar Singh"
+      ]
+    }
+  ]
+}

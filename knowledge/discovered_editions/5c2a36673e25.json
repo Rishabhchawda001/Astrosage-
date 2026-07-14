@@ -1,0 +1,29 @@
+{
+  "title": "\u092e\u094b\u0915\u094d\u0937\u0926\u093e\u092f\u093f\u0928\u0940 \u0917\u0902\u0917\u093e",
+  "discovered_at": "2026-07-13T17:30:35.439376+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7126220889",
+      "title": "ayodhya aur kashi me paryatan vikas:ek tulnatmak adhyyan",
+      "year": 2026,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.18441690",
+      "authors": [
+        "KM Radhika"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7126217263",
+      "title": "ayodhya aur kashi me paryatan vikas:ek tulnatmak adhyyan",
+      "year": 2026,
+      "is_oa": true,
+      "oa_url": null,
+      "authors": [
+        "KM Radhika"
+      ]
+    }
+  ]
+}

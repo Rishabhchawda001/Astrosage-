@@ -1,0 +1,30 @@
+{
+  "title": "Copy of \u0936\u094d\u0930\u0940 \u0915\u0943\u0937\u094d\u0923",
+  "discovered_at": "2026-07-13T13:07:21.795633+00:00",
+  "edition_count": 1,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "gurutva-jyotish-aug-2020-free-copy",
+      "title": "GURUTVA JYOTISH AUG-2020 Vol 1",
+      "creator": "GURUTVA KARYALAY",
+      "year": 2020,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

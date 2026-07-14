@@ -1,0 +1,111 @@
+{
+  "title": "\u092e\u0939\u093e\u092d\u093e\u0930\u0924 (Vol-1 to 12) \u0917\u094b\u0930\u0916\u092a\u0941\u0930 \u092a\u094d\u0930\u0947\u0938",
+  "discovered_at": "2026-07-13T17:27:23.479752+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "vol-1-to-12_202304",
+      "title": "\u092e\u0939\u093e\u092d\u093e\u0930\u0924 ( Vol 1 To 12) \u0917\u094b\u0930\u0916\u092a\u0941\u0930 \u092a\u094d\u0930\u0947\u0938",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "vol-1-to-12",
+      "title": "\u092e\u0939\u093e\u092d\u093e\u0930\u0924 ( Vol 1 To 12) \u0917\u094b\u0930\u0916\u092a\u0941\u0930 \u092a\u094d\u0930\u0947\u0938",
+      "creator": "Tribhuvan Rai",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 Tar",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "vol-1-to-12_202304",
+      "title": "\u092e\u0939\u093e\u092d\u093e\u0930\u0924 ( Vol 1 To 12) \u0917\u094b\u0930\u0916\u092a\u0941\u0930 \u092a\u094d\u0930\u0947\u0938",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "vol-1-to-12",
+      "title": "\u092e\u0939\u093e\u092d\u093e\u0930\u0924 ( Vol 1 To 12) \u0917\u094b\u0930\u0916\u092a\u0941\u0930 \u092a\u094d\u0930\u0947\u0938",
+      "creator": "Tribhuvan Rai",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 Tar",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

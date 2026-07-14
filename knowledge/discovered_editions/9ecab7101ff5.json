@@ -1,0 +1,269 @@
+{
+  "title": "Padma-Puranam",
+  "discovered_at": "2026-07-13T14:32:29.355953+00:00",
+  "edition_count": 12,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Padma Puranam Vol - 2",
+      "authors": [
+        "Singanna. M"
+      ],
+      "year": 1993,
+      "languages": [
+        "tel"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "padmapuranamvol2015115mbp"
+      ],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "TTD Tirupati"
+      ],
+      "ol_key": "/works/OL43299036W"
+    },
+    {
+      "source": "open_library",
+      "title": "Padma-pur\u0101\u1e47am",
+      "authors": [],
+      "year": 1927,
+      "languages": [
+        "ben"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Natabar chakravorty"
+      ],
+      "ol_key": "/works/OL21739067M"
+    },
+    {
+      "source": "open_library",
+      "title": "Padmapur\u0101\u1e47am",
+      "authors": [
+        "Vyasa"
+      ],
+      "year": 2007,
+      "languages": [
+        "san",
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9788170802385"
+      ],
+      "publisher": [
+        "aparam\u0323 ca pra\u0304ptistha\u0304nam, Caukhamba\u0304 Kr\u0325s\u0323n\u0323ada\u0304sa Aka\u0304dami\u0304",
+        "Caukhamba\u0304 Sam\u0323skr\u0325ta Si\u0304ri\u0304ja A\u0304phisa"
+      ],
+      "ol_key": "/works/OL18813236W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "PadmaPuranamuBhumiKhandamuMOHANPUBLICATIONS",
+      "title": "Padma Puranamu Bhumi Khandamu",
+      "creator": "www.mohanpublications.com",
+      "year": null,
+      "language": "tel",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Djvu XML",
+        "Image Container PDF",
+        "JPEG",
+        "JPEG Thumb",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "Saab_padma-puranam-vol-3-by-krishna-dwaipayan-vedvyas-missing-pages-mumukshu-bhavan-b",
+      "title": "Padma Puranam Vol 3 By Krishna Dwaipayan Vedvyas Missing Pages Mumukshu Bhavan Book Collection, Varanasi",
+      "creator": "Mumukshu Bhavan Book Collection, Varanasi",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "dpfJ_padma-puranam-missing-pages-vashishta-tripathi-ji-collection",
+      "title": "Padma Puranam Missing Pages Vashishta Tripathi Ji Collection",
+      "creator": "Vashishta Tripathi Ji Collection",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Padma Puranam Vol - 2",
+      "authors": [
+        "Singanna. M"
+      ],
+      "year": 1993,
+      "languages": [
+        "tel"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "padmapuranamvol2015115mbp"
+      ],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "TTD Tirupati"
+      ],
+      "ol_key": "/works/OL43299036W"
+    },
+    {
+      "source": "open_library",
+      "title": "Padma-pur\u0101\u1e47am",
+      "authors": [],
+      "year": 1927,
+      "languages": [
+        "ben"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Natabar chakravorty"
+      ],
+      "ol_key": "/works/OL21739067M"
+    },
+    {
+      "source": "open_library",
+      "title": "Padmapur\u0101\u1e47am",
+      "authors": [
+        "Vyasa"
+      ],
+      "year": 2007,
+      "languages": [
+        "san",
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9788170802385"
+      ],
+      "publisher": [
+        "aparam\u0323 ca pra\u0304ptistha\u0304nam, Caukhamba\u0304 Kr\u0325s\u0323n\u0323ada\u0304sa Aka\u0304dami\u0304",
+        "Caukhamba\u0304 Sam\u0323skr\u0325ta Si\u0304ri\u0304ja A\u0304phisa"
+      ],
+      "ol_key": "/works/OL18813236W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wahd_the-padma-maha-puranam-part-4-ed-by-nag-sharan-singh-1984-delhi-nag-publishers",
+      "title": "The Padma Maha Puranam Part 4 Ed By Nag Sharan Singh 1984 Delhi Nag Publishers",
+      "creator": "eGangotri",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "uAYZ_thiru-thonda-puranam-tamil-by-rumukanavaralavar-chennai-chidambara-shaiva-prakasha-vidya-shalai",
+      "title": "Thiru Thonda Puranam Tamil By Rumukanavaralavar Chennai Chidambara Shaiva Prakasha Vidya Shalai",
+      "creator": "Chidambara Shaiva Prakasha Vidya Shalai",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "EfEF_kurma-puranam-by-veda-vyas-missing-pages-vashishta-tripathi-ji-collection",
+      "title": "Kurma Puranam By Veda Vyas Missing Pages Vashishta Tripathi Ji Collection",
+      "creator": "Vashishta Tripathi Ji Collection",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

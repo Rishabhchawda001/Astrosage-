@@ -1,0 +1,59 @@
+{
+  "title": "BPHS - 2 RSanthanam",
+  "discovered_at": "2026-07-13T12:42:27.769397+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2895877601",
+      "title": "Effect of exosomal miRNA on cancer biology and clinical applications",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-018-0897-7",
+      "authors": [
+        "Zhenqiang Sun",
+        "Ke Shi",
+        "Shuaixi Yang"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2507643563",
+      "title": "Protein arginine methyltransferase 5 functions as an epigenetic activator of the androgen receptor to promote prostate cancer cell growth",
+      "year": 2016,
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/onc2016287.pdf",
+      "authors": [
+        "Xiangbing Deng",
+        "Gang Shao",
+        "H-T Zhang"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2895877601",
+      "title": "Effect of exosomal miRNA on cancer biology and clinical applications",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "https://molecular-cancer.biomedcentral.com/track/pdf/10.1186/s12943-018-0897-7",
+      "authors": [
+        "Zhenqiang Sun",
+        "Ke Shi",
+        "Shuaixi Yang"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2507643563",
+      "title": "Protein arginine methyltransferase 5 functions as an epigenetic activator of the androgen receptor to promote prostate cancer cell growth",
+      "year": 2016,
+      "is_oa": true,
+      "oa_url": "https://www.nature.com/articles/onc2016287.pdf",
+      "authors": [
+        "Xiangbing Deng",
+        "Gang Shao",
+        "H-T Zhang"
+      ]
+    }
+  ]
+}

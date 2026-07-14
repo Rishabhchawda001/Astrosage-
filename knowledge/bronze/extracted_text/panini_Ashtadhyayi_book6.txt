@@ -1,0 +1,1759 @@
+=== PAGE 1 ===
+
+This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project
+to make the world’s books discoverable online.
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books
+are our gateways to the past, representing a wealth of history, culture and knowledge that’s often difﬁcult to discover.
+Marks, notations and other marginalia present in the original volume will appear in this ﬁle - a reminder of this book’s long journey from the
+publisher to a library and ﬁnally to you.
+Usage guidelines
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to
+prevent abuse by commercial parties, including placing technical restrictions on automated querying.
+We also ask that you:
++ Make non-commercial use of the ﬁles We designed Google Book Search for use by individuals, and we request that you use these ﬁles for
+personal, non-commercial purposes.
++ Refrain from automated querying Do not send automated queries of any sort to Google’s system: If you are conducting research on machine
+translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the
+use of public domain materials for these purposes and may be able to help.
++ Maintain attribution The Google “watermark” you see on each ﬁle is essential for informing people about this project and helping them ﬁnd
+additional materials through Google Book Search. Please do not remove it.
++ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other
+countries. Whether a book is still in copyright varies from country to country, and we can’t offer guidance on whether any speciﬁc use of
+any speciﬁc book is allowed. Please do not assume that a book’s appearance in Google Book Search means it can be used in any manner
+anywhere in the world. Copyright infringement liability can be quite severe.
+About Google Book Search
+Google’s mission is to organize the world’s information and to make it universally accessible and useful. Google Book Search helps readers
+discover the world’s books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web
+at http://books.google.com/
+
+=== PAGE 4 ===
+
+diatizes ty GOORTe
+
+=== PAGE 5 ===
+
+diatizes ty GOORTe
+
+=== PAGE 6 ===
+
+diatizes ty GOORTe
+
+=== PAGE 8 ===
+
+BOOK VI.
+
+The
+ASHTADHYVAYI
+Of
+PANINI.
+
+PARIS XXI—XXIV.
+
+S.C. VASU.
+
+Price Rs 3.
+
+=== PAGE 9 ===
+
+OPINIONS OF DISTINGUISHED PROFESSORS OF SANSKRIT.
+
+Professor Max Miiller, Oxford, 9th February, -1892—* ® * From what,
+I have seen of it, it will be avery useful work, What should I have given for
+such a work forty years ago when I puzzled my head over PA&nini’s Sftras and
+the Commentaries. * * ® I hope you may succeed in finishing your work.
+
+Professor Gopalji S. Desat, Rajkot in Kathiawar, 20th February, 1892—* *
+* The first part that has already been out before the Public shows clearly
+- that the author has spared no pains to make the translation as exact and pithy
+as possible. The work when completed will no doubt claim a high place
+amongst the best works by European scholars on Sanskrit Grammar. The
+paper, printing and the general get-up of the book are excellent,
+
+Professor T. Jolly, Ph. D., Wiireburg, (Germany), 23rd April, 1893—* *
+* Nothing could have been more gratifying to me, no doubt, than to get hold
+of a trustworthy translation of Panini’s Ashtadhyayi, the standard work of
+Sanskrit literature, and I shall gladly do my best to make this valuable work
+known to lovers and students of the immortal literature of ancient India in
+this country.
+
+Professor W. D. Whitney, New Haven, U.S. A., 17th June, 1893—* * *
+The work seems to me to be very well planned and executed, doing
+credit to the translator and publisher. It is also, in my opinion, very
+valuable undertaking, as it does to give the European student of the native
+grammar more help than he can find anywhere else. It ought to have a good
+sale in Europe (and correspondingly in America).
+
+Professor V. Fausbol, Copenhagen, 15th June, 1893.—*  * It appears to
+me to be a splendid production of Indian industry and scholarship, and I value
+it particularly on account of the extracts from the Kasika.
+
+Professor Dr. R. Pischel, Hlale (Saale), 27th May, 1893—* * * I have
+gone through it and find it an extremely valuable and useful book, all the more
+so, as there are very few Sanskrit scholars in Europe who understand Panini.
+
+Pandit Lalchandra Vidyabhaskar, M. R. A. S.(London), Guru to H.H.
+the Maharaja of Jodhpur.
+ere toTe Herter rene etre AAT FaTAt |
+Pronfrareatatrangny sertatetterrwmtaraters yw
+
+Teta areatetregeraaty TeSTeTT TTS: |
+PARAL TAMATTARM: ATAPHAMAHATTTACT Ut QU
+TaTEN Proven emreteaterratt entre |
+
+eeqiaerTaas The agescaretesr Tay see aera Nt <
+
+=== PAGE 10 ===
+
+diatizes ty GOORTe
+
+=== PAGE 11 ===
+
+Harvard College
+
+Bibrary
+
+THE BEQUEST OF
+
+Chars Rd paman
+
+PROFESSOR OF SANSKRIT
+1880-1926
+
+=== PAGE 12 ===
+
+OPINIONS OF THE PRESS.
+
+The Indian Union, (Allahabad), 26th November, 1891.—* * * The original
+Text and Commentarics, carefully edited with English notes and explanations,
+bespeak of much diligence, care and ability ; and those of the English-reading
+public who have a taste for Sanskrit cannot be too thankful to Babu Sris
+Chandra for offering them so easy an access to the intricate regions reigned
+over by that Master Grammarian, * * * We recommend this book to all
+English-knowing lovers of the Sanskrit Language.
+
+The Tribune, (Lahore), 9th December, 1891—* * * The translator has
+spared no pains in preparing a translation which may place Panini’s celebrated
+work within the comprehension of people not decply read in Sanskrit. The
+paper, printing and the general get-up of the book before us are admirable,
+and considering the size of the book (it is estimated to extend 2000 pages)
+the price appears to be extremely moderate,
+
+The Amrita Bazar Patrika, (Calcutta), 18th December, 1891.—* * * Judging
+from the first part before us, we must say that Babu Sris Chandra has suc-
+ceeded well in the difficult work of translation, which seems to us to be at
+once lucid, full and exact. It is no exaggeration to say that Babu Sris Chandra’s
+translation, when completed, will claim a prominent place among similar works
+by European Sanskrit Scholars.
+
+The Hope, (Calcutta), 20th December, 1891—* * * The get-up of the
+publication is of a superior order, and the contents display considerable pains-
+taking on the part of the translator.
+
+The Arya Patrika, (Lahore), 22nd December, 1891.—* * * The talented
+Babu has rendered a great service to the cause of Sanskrit literature by produ-
+cing the sort of translation he is engaged upon. * * * Hiseffort is most
+laudable and deserves every encouragement.
+
+Karnatak Patra, (Dharwar), 7th February, 1892—* * * Mr. Vasu gives
+ample proof of his competency to undertake the work which is not an easy task
+even to learned Sanskritists,
+
+The Punjab Times, (Rawalpindi), 17th February, 1892—* * * Babu
+Sris Chandra is well-known for his scholarly attainments. He has done the
+translation in a lucid and clear English. We can strongly recommend it to those
+who wish to study Sanskrit Grammar through the medium of English.
+
+The Mandalay Herald, 31st December, 1891—* * * Students and readers
+of classic language of India are much indebted to the Icarned Pandit for his
+translation of this scientific work on the grammar and philology of the Sanskrit
+language.
+
+The Arya Darpan, (Shahjahanpur,) February, 1892—* * * Such a work
+has been a desideratum. It is well got up, and praiseworthy. We wish it every
+success.
+
+=== PAGE 13 ===
+
+OPINIONS OF THE PRESS (continued).
+
+The Allahabad Review, January, 1892.—* ® * The translator has done
+his work conscientiously and faithfully. The translation of such a work into
+English, therefore, cannot but be a great boon to all students of the science
+of language and of Sanskrit literature in special. The translator deserves the
+help of the Government and the Chiefs of India.
+
+The Maharatta (Poona), 4th July, 1893—* * * If we may judge from
+the first part which lies before us, it will prove a very valuable help to the stu-
+dent of Panini. * * So far as it goes it is creditably performed, and there-
+fore deserves patronage from all students of Sanskrit and the Education
+Department.
+
+Indian Mirror (Calcutta), 17th March, 189g—* * * The manner in
+which the publication is being pushed through, speaks volumes in favour of the
+learning and patriotism of its editor, Babu Sris Chandra Vasu. The whole
+work when completed will be an invaluable guide to the study of Sanskrit litera-
+ture and especially to the English speaking students of the Sanskrit language.
+
+Lucifer (London), March 1896.—* * * We are pleased to find
+that the translation is clear and easy and the extracts from the KAashika are not
+only very numerous but also valuable. The large number of references to the pre-
+ceding sdtras for the formation of ‘padas’ will save much time and_ trouble,
+and obviate a difficulty which discourages many from the study of Panini.
+Indeed the English translation of the grammar could rightly be called “ Panini
+Made Easy.” * # * It can be recommended as of great impor-
+tance, not only to all who wish to have a general knowledge of Panini but also
+to the few who desire to master the great grammar thoroughly and enjoy all
+its benefits.
+
+te _
+
+RATES OF SUBSCRIPTION
+Payable in advance, for the complete work, including postage.
+Indian oe oe » Rs. 2000
+Foreign we ae ow ZB 200
+
+Payable by instalments, per volume, excluding postage.
+
+Indian - » Rs, 300
+Foreign a ~ o60
+- Payable at the end of publication, Jor the complete work, excluding postage.
+Indian we « Rs. 83000
+Foreign gz 38300
+
+All communications to be addressed to
+SINDHU CHARAN BASU,
+PUBLISHER OF PANINI,
+Benares Cantonment,
+N.-W. P., India,
+he Tara Printing Works, Benarca.
+
+=== PAGE 14 ===
+
+BOOK VI.
+
+THE ASHTADHYAYI OF PANINI.
+TRANSLATED INTO ENGLISH
+
+SRISA CHANDRA VASU, B. A.,
+
+Provincial Civil Service, N. W. P.
+
+Benures:
+PUBLISHED BY SINDHU CHARAN Bos,
+at the Panini Office,
+1897.
+
+=== PAGE 15 ===
+
+HARVARD
+
+UNIVERSITY
+LIBRARY ‘
+
+=== PAGE 16 ===
+
+Gon'dle Sir John Gdge, Bi. . G.,
+
+CHIEF JUSTICE OF THE NORTH-WESTERN PROVINCES,
+THIS WORK
+
+Is,
+
+WITH HIS LORDSHIP’S PERMISSION,
+AND IN RESPECTFUL APPRECIATION OF HIS LORDSHIP’S
+SERVICES TO THE CAUSE OF ADMINISTRATION OF
+JUSTICE AND OF EDUCATION
+
+IN
+THESE PROVINCES,
+Dedicated
+BY HIS LORDSHIP’S HUMBLE SERVANT
+
+THE TRANSLATOR.
+
+=== PAGE 17 ===
+
+diatizes ty GOORTe
+
+=== PAGE 18 ===
+
+atagq |
+MT FETAL AAA: AW: |
+ee ee
+
+BOOK SIXTH.
+
+Cuarrst First.
+
+wera & cater nl cater i om, eet, Bf, rere, Il
+aft uu airart sant gata da ak waa ranean a fraanited Bitar | et
+wat aa: srRrarnPraar TaATT: TET ETT Tae aE | TENT AT
+AAT ATA | TT TATTTATTP ATR TTS HATA
+1. In the room of the first portion, containing a
+
+single vowel, there are two,
+
+Upto Sdtra VI. t. 12 inclusive it is to be tinderstood that for the first
+syllable two are to be made, i, e, the first syllable is to be reduplicated. This
+is an adhikara sdtra: all the three words viz gard:, and & and qumeq are to be
+read in the subsequent s(tras upto VI. 1. 12, before the rule of Sampras4raga
+begins, Thus Sdtra VI. 1. 8 says “ when fa follows, of an unreduplicated verbal
+root”. The sense of this stra .is incomplete, unless we supply the three
+words of this sQtra, when it will read thus: “when fag, follows, there aré two
+in the room of the first portion, containing a single vowel of an unredupli+
+cated verbal root”. Thus from sry:—arsirare (ary + 1 LV. 3. 82 art ary + oT
+satamtte VIL 4. 59=marme “he awoke”), So also gy, qara, BNC from
+the roots TZ, gand gu The rcduplication takcs place through the force of the
+affix that follows. Thus the affixes of the Perfect Tense (farm); the Desidera-
+tive (a), the Intensive (ag), the >gy vikarapa, the Aorist in we ; all cause
+reduplication,
+
+The word yara means that which consists of one vowel (srt) | When
+a stem or root consists of more than one vowel (is a dissyllabic or polysyllabic
+root), then the gare wz: will be the first sy//able: as in sry the portion wr is
+the sua gare ‘the first portion consisting of one vowel’: When a root con-
+sists of a single vowel, as q ‘to go’, then strictly speaking there cannot be
+any portion which may be called first (wut) of ckAch consisting of a single
+
+=== PAGE 19 ===
+
+1038 REDUPLICATION. (BK. VI. Cn. §. 2.
+e
+
+vowel). Here, however, will this rule be applied and _ will be reduplicated,
+according to the maxim “ sqqgftreyafaray”—“ An operation which affects
+something on account of some spccial designation which for certain reasons
+attaches to the latter, affects likewise that which stands alone and to which
+therefore, just because the reasons for it do not exist, that special designation
+does not attach”. So also in gq there is no first syllable strictly speaking,
+but still the rule will apply under the above maxim. In making Reduplications
+the Rule I. 1. 59 should always be borne in mind, Thus qa+st (og of fE)
+=TLUT+ Ag Tet (VII. 4. 59 and 60)=qIraq ut
+
+The word fg in the stra indicates that the very word-form is to be
+doubled or pronounced-twice, and not that another word of similar meaning is
+substituted. In fact this is not a rule ordaining substitution of two, in the
+room of one; but of the repetition of the one. Compare VIII. 1. 1.
+
+srorefacitres WRN cari hare, arg: fardrrea tt
+aR rrnfiterarrerd san) srsrtitaeeanrdh Aetaratarad | reenter eit-
+exqrares ftataeraret & aa tt
+2. Of that whose first syllable begins with a
+vowel, there are two in the room of the second portion con-
+taining a single vowel.
+
+This debars the reduplication of the first syllable. In a verbal root
+beginning with a vowel, and consisting of morc than one syllable, the second
+syllable is to be reduplicated and not the first. Thus the qara root waft,
+(met aa=ae+ tag VII. 2. 35=afeq), reduplicatcs the second syllable fee
+and the 3rd per. sing is we féqfa, the q being elided by VII. 4.60: and =
+changed to q by VIII. 3. 59. So also syfafirat®, wtftitera The last form is
+thus evolved, @+aq="+eCt+aq (VIL 2. 74)=at+et+a (VIL. 3. 84, and VI.
+1. 51). Here now we have to make reduplication, and if I. 1. 59 be applied,
+then since a vowel affix g follows, the reduplication of wz should take place
+f.e. the @ the sthant should be reduplicated. But we have explained the
+sdtra fdwasfr I. 1. 59, by the phrase faetawatafrasit, i.e. the vowel-affix
+causing reduplication. Here the vowel-affix gz docs not cause reduplication,
+but the consonant-affix aq that does so. Therefore rule I. 1.59 does not
+apply, for gg itself is a qraf, and the maxim applies aninqvatey arat ftrttar
+ardtae “surely that which undergoes an operation can, so for as it undergoes
+that operation, not be made the cause of the application of a grammatical
+rule”, Thus from the root ete is formed qftet ; here the root qt is gunated
+before the augment x. Rule I. 1. § declaring the prohibition of gunation
+with regard to fayeq or faq words does not apply here, For though gtg has
+an indicatory @, yet as it. undergoes an opcration itself, it cannot be the cause
+of the application of another rule,
+
+=== PAGE 20 ===
+
+BK VI. Cu. 1. §. 3] REDUPLICATION. 1039
+
+Some persons explain the word staiy% as the Ablative singular (and
+not Genitive Singular) of sr: and they consider the word as a Karma-
+dharaya compound and not a Bahuvrthi compound. According to them the
+word means:—“ The syllable following the initial vowel is reduplicated”.
+(serena, waigeacagarat FAA) According to this interpretation,
+the word fadtaea is merely explanatory.
+
+weg: SaTTT: WV Tea a, eaT:, GeitTTe:
+
+aa: u fadteeae vita 1 fttaerardt srergartt aro aganirany ama fetes afar
+Sl tarcearter fitter: srr: eared 7 ewe
+enftrany u warceareaa afar THEA Ut
+Ao Mt CRTUTHATTT FT THT: Ao N aTTTTET Ter TAIT aT TAA THEA I
+are u ReaRegata EAT TA THT Te Ogata Taree aR ate A HOTTA
+are w arrargat gatreenreay Kota OR THETA are tl ate ATTTTATONs TeHETT H
+3. The letters 4, ¢ and ¢ being the first letter of
+a compound consonant and being part of the second syllable,
+are not reduplicated.
+The word dvittyasya “of the second syllable”, is understood. here.
+This sQtra debars the doubling of the consonants n, d, and r when forming
+parts of the second syllable, provided these letters occur in the beginning of a
+conjunct (sanyoga) letter. Thus the Desiderative root of aq is afaq, formed
+by adding aqand gen The second syllable here is fegg which is to be redupli-
+cated by the last rule. But in doing so, % will not be doubled. Thus we get
+the form gPaftaa; so also from sg¥ and sre we have uighesfa, and ufiraqte u
+Why do we say “when 4, ¢ and tare the letters’? Observe éfafarqa
+from in which a is the initial letter and has been reduplicated in to =u
+Why do we say “ being the first letter in a conjunct consonant”? Observe
+aififreia from the root srg ‘to breathe’, the q being changed into y by VIII.
+4.19 and 21, The phrase srg: of the last s(tra is understood in this stra
+also. Thus aftgrara | Some explain the word stay understood in this stra —
+in the same way as in the last, namely as a karmadharaya compound in the
+Ablative singular. They do so, in order to explain the form yfagtfaw®, which
+is thus evolvedgg® wit=eR+ arg IIL 1. 8=eaftau Then wftagtrest =
+wfta+aqi Here though the second syllable consists of n,d and r, yet q alone
+is rejected in reduplication and not ¥ and ¢ also, as ¥ and ¢ are not immediately
+after the initial vowel (srmf€) ¢ in this case,
+Vért :—This prohibition should be stated with regard to the letter q
+also. As aay—aefaferata i! This prohibition applics when the word is taught
+primarily as having a penultimate qu But when it is taught as primarily
+
+=== PAGE 21 ===
+
+1040 REDUPLICATION, ( Bk. VI.Cu. 1. § §
+
+having a penultmate gq, then the rule does not apply: the q should then be
+ordained as a substitut: of gu See Tudadi root 20.
+
+Vart:—There is no prohibition of the ¢ when it is followed by au
+Thus eyagq ut This is the Intensive form of the verb @, and is thus evolved: +
+we (IIL. 1. 22. Vart)=arg+a@ (VII. 4. 30)=eg, then follows reduplication by
+the rules of this sitra, The second syllable 4 has an initial ¢ which is not
+however rejected in reduplication,
+
+Vért:—In the case of the verb fedf the third should be reduplicated.
+“Third of what’? Some -say the third of the consonants, and according to
+them the form is éfeanaar@ ) Some say the third syllable, therefore of the root
+ditaq ( fet + e+ GA), the third syllable q is reduplicated: Thus giedey, eaTT
+(VII. 4. 79) the st of ¢ is changed jnto shart ¢ by VII. 4. 79.=éftafqqta
+
+Vért:—The third syllable of the verbs qega &c. is to be reduplicated.
+Thus qoga+ q+ aa = Ho gfag = Hogfalaaha; so also HATA &c.
+
+Vdrt;—The third syllable of verbs derived from nouns is optionally
+
+-seduplicated. Thus epgriafagfar or eferdifaata 1
+
+Vart:—Others say, any syllable of a arrarg (verbs derived from nouns)
+may be reduplicated, Thus from the noun gw is derived the root gfta, the
+desideratiye root of which is gwW¥, which requires reduplication. Here any
+syllable may be reduplicated; as. 1, gqwhtef, 2, gfavifasfa, 3. gétiaramia, 4.
+qehtartaf Or there may be double and treble reduplication simultancously
+as. gafastrarasta 0
+
+qatsares WO carer Ned: arearer: Il
+att: 0 Ee cers TAT ATA ee Gees WAT | TT Ta ATT aE RT
+ward: Gat sree: Gt HATE TTT
+4, The first of the two is called the Abhydsa or
+the Reduplicate.
+
+The ward ¥in the nominative casc is understood here, but for the
+purposes of this sitra it is taken in the Genitive case i.e, gar: ga! “the first
+of the twa” ordained above. The ward Abhyfsa accurs in stras HI. 1, 6,
+VIL 1. 7 &o,
+
+Se TTT NG NAAN TH, were NN
+ge: WR Re TH Ny TCH Gere | BE ART A gr OTe agfey wPAET
+Sats
+
+5. The both are collectively called Abhyasta.
+Though the word ¥ was understood in the sitra, the use of the word
+w® 'hoth’ indicates that the word Abhyasta applics to the two taken together
+and not to any one of them separately. The word abhyasta occurs in sOtras
+II, 4. 109, VI, 1. 32 &e, Thus sdtra VI, 1, 189 declares “the first vowel of
+
+=== PAGE 22 ===
+
+BK. VI. Ch. I. § 8] REDUPLICATION. 1041
+
+an Abhyasta gets the udatta accent”. The Abhyasta being the collective
+name of the both, the accent will fall on the first and not on the second, as
+in $n@ dddati, the accent is on the first == So also by VII. 1.4 wa takes
+the place of @ after an Abhyasta, therefore, aq + fat=9q+8T@ =F So also
+weg (VI. 4. 112),
+aftrerga: Fz NGM cle Nl sre, LETT, TEM
+
+TAT STRATES THT | Heer KET Tae TE TAA SETA HART | TH TAT
+at urgarnaerdenfritay u spree tera: rare wate tet Teahe ara
+
+6. So also the six roots beginning with jakshi are
+called abhyasta.
+
+The word abhyasta is understood here. The verb jakshi and the six
+verbs that follow it in the Dhatupatha, in all seven verbs, get this designation.
+These are are, Sy, SU, TATE, wre, Ht, and wt = Panini has overlooked wf
+and mentions only the first six. By getting the designation of Abhyasta
+these verbs get acute accent on the first syllable when followed by a s4rva-
+dhatuka Tcnse-af—ix not having the intermediate y¢ and beginning with a
+vowel. Thus staf jégrati, Sena jakshati, Sena daridrati, Parate chakAsati,
+raf 64Sati, Yaw didhyate, and *Ssqq vevyate, The present participle grag
+is irregularly formed by adding the affix wg (sr) and when so formed it does
+not take the augment a by VII. 1, 78.
+
+gardiat frat ssarerer WO TUT as, arta, hh:, ssareer it
+ata: U caret faeg: | are HG | Tatibaraed + iga:, Cea aT, Be
+ware TarerereTPareTes Oe: ara safer tt
+7. In the room of a short vowel of the Reduplicate
+of the roots aw &e, a long is substituted.
+
+There is no list of gstft verbs given any where. The word eft in
+ante therefore should be construed as “verbs /#ke tuj”. So that wherever we
+may find a word having a long vowel in the Reduplicate, we should consider
+ita valid form, Thus ggara (qat+arrg III. 2, 106=Raart Rig. I. 3. 6).
+AAT: AGL TAG erat Atara, e Yara! This lengthening only takes place in
+the Vedas before some special affixes, and not every where or in secular literature,
+As gars raerg eft tt
+
+fet aratervareres Wh werfe  feafF, eret:, erryarerer Ul
+aha: u fare reat Spareer aratcrarer Teese: feefrerear a aaa H ra:
+arity u ference See Be Tee are ul Perera wags TeNCTT
+8. When the tense-affixes of the Perfect follow,
+there is reduplication of the root, which is not already
+
+reduplicated,
+
+=== PAGE 23 ===
+
+1042 REDUPLICATION. [ BK. VI. Cu. I. §.9
+
+The reduplication is either of the first syllable or of the second syllable
+according as the root begins with a consonant or a vowel. Thus qa+1g=
+TL TL+ AA=TUT So also gare, Headers u In the case of gat, Rule III. 1. 36
+does not apply, so the Perfect of this word is not formed by adding syrq, and the
+auxiliary verbs g, ¥ and #q; but regularly. In fact af is regarded as if it was au
+See sQtra III. 1, 36 Vart. qreq aotteiag arat ag state: ware, are giatrarga-
+areaerrere tl
+
+Why do we say when rag follows? Observe aren, gat! Why do we
+say “of a Dhatu”? Observe ayatar Foqteaz, arafirarrga i The question
+arises from the fact that the root (dhatu) always directly precedes the affixes
+of the Perfect, no vikarana intervenes as in the case of other tenses. So there
+was no necessity of using the word dhatu in the sdtra. To this it is replied
+that by III. 4. 117, sometimes fae is treated as sarvadhatuka, and then it takes
+vikarana. As ¥ taking the vikarana gq becomes oy; (III. 1. 74) this whole
+éase is not a dhatu, therefore when the affixes of Perfect are added there is no
+reduplication, and we have sgfeit See III. 4. 117.
+
+Why do we say ‘ofa non-reduplicate’? Observe geo itara avin agt-
+LI Atgraatara, i.e. it is the Perfect Tense of the Intensive verb ra, and
+is not reduplicated again, ~~ having already caused reduplication, ‘So also
+errrar wen afiirg: ending in the gq of the Perfect.
+
+Vért :—In the Chhandas there is optionally reduplication of the root
+in the Perfect and other tenses. As wnftara afrarig or Fram @rarig; erarit mz
+Grarfr or gene Prenton u veer ere or garg, Aeqa AteaT UTg or TATE
+
+Vért:—The root sr is optionally reduplicated in the Perfect, As,
+@ sree (or WAN) HTT: RTA
+
+STS UL CATT NT TST,
+Rt u urdronaraeafer Tae | aead rita w Cea | TEL ae TEPATTEE
+wreterarren rareearat Rataen aT qarart Hera:
+9. Of.a non-reduplicate root ending in a (Desi-
+derative) or ae (Intensive) affixes, there is reduplication.
+
+The word ga agt: should be construed as genitive dual and not as
+Locative dual. In the latter case, the meaning would be “when the affixes
+ea and am follow, a non-reduplicate root is reduplicated”, The difficulty
+would be that while the root alone would be reduplicated, the augment 4z
+would not, as in.wfefewfa, sifinrtrefiy :
+
+The phrase yratrerataea is understood here also, The reduplication is
+of the first or second syllable, according as the root has an initial consonant or
+vowel. Thus qyt+aa (IIL. 1.7) qa, reduplicate faye (VII. 4.79). So te
+
+=== PAGE 24 ===
+
+Bx. VI. Crt. 1. §. 1) REDUPLICATION. 1043
+
+fafana, «—aftivata, r—aPafeefa So also of agar:—as, qreae (VIL. 4.
+83), sereaa, arasae, sreraa, Wer [fa root is already a reduplicated one,
+there is no reduplication : as qaraqa, arataqe being the Desiderative forms of
+ware (already formed by svarthika aa III. 1. 5), and of atga (the Intensive
+form of g) See III. 1. 22.
+
+St WN Ro Waar HRS
+gat 0 8t qett sparaes wrdrorerres srepretanrely Faeiteres ar erate eet: tt
+10. Ofanon-reduplicate root there is reduplica-
+tion when the vikarana $lu (gg) follows.
+
+The agqis the characteristicsign of the roots of the third class, and causes
+the elision of the vikarana qztt The reduplication is of the first or second
+syllable, according as the root has an initial consonant or a vowel, Thus
+
+Werf (from g), Faria,” Farata u
+
+cafe WRN Tart NaS
+gr: wate qed spareer urdtererres reeenrey ficefteret ay aera & eae:
+
+11. Ofa non-reduplicate root there is reduplica-
+tion when the affix a& of the Aorist follows.
+
+The reduplication is of the first or second syllable according as the
+root begins with a consonant or a vowel. Thus erdtyeq, siftasq, (VII. 4. 93
+and 94). So also smfteq, snftraa, siffaq tt These are aorists of the causative
+roots aft &c. .
+
+When the Reduplicated Aorist of the Causative (amar) verbs ry &c
+is to be formed, as here, we should first elide the causative sign ft, then shorten
+the penultimate vowel, and then reduplicate. Then by VII. 4.93 the effect
+would be like as if a had followed, and this would not be prohibited by the
+short vowel being consdered sthanivat. For rule VII.4.93 says “Let the effect be
+as if aa had followed, on the reduplicate, if followed by a light vowel, of an in-
+flective base to which fet followed by w& is affixed; provided there is not the eli-
+sion of any letter in the pratyahara 87% occasioned by the affixing of fr w” One
+of the conditions for the application of this rule is that the reduplicate must
+be followed by a /ight vowel. We have said above that the long penultimate
+is to beshortened before wa Now arises the difficulty. Should this light vowel
+coming in the room of a heavy vowel be considered like the heavy
+vowel by the rule of sthanivat AdcSa (I. 1. 56), or not? It should not be con-
+sidered so, for the reasons given in I. 1.57. For it was established there that
+the sthanivadbhava_ will arise then only when some operation is to be done to
+a thing anterior to the non-substituted i. e. original vowel. Here no operation
+is to be applied to something anderior to such original (sT@Tze) vowel, but to
+
+=== PAGE 25 ===
+
+1044 Repvrication. ( Bk. VI. Cu. 1. § 12
+
+a form consisting of such substituted (safe) vowel, Therefore, the light vowel
+is not considered non-existent for the purposes of aqaara it If this order of
+operation is not followed, there would arise incongruitics. The order must be
+this: rst the elision of r (VI. 4.51) 2nd the shortening of the penultimate
+(VII 4.4) 3rd the reduplication. If the reduplication take place first and the
+vowel be shortened, then the reduplication having taken place before the subs-
+titution of the vowel had taken place, such substitute will now be considered
+as sthAnivad: the /ight vowel being considered as still Aeavy, will prevent the
+application of aerara The difficulty will be in the form of sireftwra, where
+the short is ordained after the for If this be the order of operations, there
+will not be the reduplication of the second syllable f@ in the word wtfzeq? This
+is, howwer, done by I. 1. 59. which see.
+
+ATRL GENT rgiar NRL TT ATR, BrETE, ATE, aN
+air weary ered aigntas MoTTOae raat ATT farTTeTEe
+enftrann u agsirdtat ae ara ef eRe ate UW aftaietfaatat rerreaaraparaea tt
+aro afer Te Tre a TH Ten TAG Aras eParaes tt
+12. The participles dasvin, s&hvan and midhvan
+are irregularly formed without reduplication.
+
+The word gpaty is from the root gpg ‘to give’ with the affix eg (III. 2. 107),
+here the reduplication and the augment gare prohibited irregularly. As qratat
+qwaw: gay (Rig I. 3,7). The word argrg is derived from the root ae ‘to
+endure’, by adding the affix gg (III. 2. 107), the irregularity being in leng-
+thening the penultimate, not allowing the augment ¢< and the reduplication.
+Thus agra seten: So also stzarg comes from fag ‘to sprinkle’ with the
+affix yg (III. 2. 107) the irregularity consisting in non-reduplication, non-
+application of xg, the lenthening of the penultimate vowel, and the change of
+gintown As Ateretrara aaa await It is not necessary that these words
+should be in the singular always, in their plural forms also they do not redu-
+plicate.
+
+Vért:—Reduplication takes place when gq &c, are followed by the
+affix au Thus feta waa=gta=aan, fatt+a—fafeeu The affix &
+comes after gsz and fez with the force of the affix au
+
+Vést:—The roots "4%, TL, and ag take reduplication when follow-
+ed by the affix era (III. 1. 134) and the reduplicate (abhyasa) takes the aug-
+ment wre The final consonants of the Abhy4sa (reduplicate) are not elided
+in these verbs, in order to give scope to the augment, for if the final conso-
+nants be elided by VII. 4. 60, then the addition of the augment becomes
+unnecessary; as there is no difference between the augment and the
+Adesa (shortening of the vowel) taught in VII. 4.59. Thus @aat:, ‘qeres,
+TATA, TTTT
+
+=== PAGE 26 ===
+
+BK. VI. Cu. 1 § 13.) VOCALISATION. to4s
+
+Vdrt:—The above vartika is optional, so we have the forms @t Tey,
+Sar ca, wit AAMT KE.
+
+Vari :—The root 9a is reduplicated before the affix srg, and the aug+
+ment wre conies after the Abhy4sa, and @ Is the substituié of @ of the
+Abhy&sa. Thus 4+ 8t{= a+ ore t+ q+ ere= aATam: (The sécond g is chang
+ed into 4 by VII. 3. 55), as in the phrase garaa: inraedettars, tl .
+
+Vétrt :—The causative root q@ is reduplicatéd before the affix srt,
+there is elision of for (sign of the causative), and #¥ is the ailgment of the
+AbhyAsa, and it is lengthened. Thus qf@4-erq= gaz:
+
+CTS: Sra GarateaegTSyT QM TTT Nl STS, Grater, Fs,
+wett:, age ;
+UP u gen He CRrraremeTareteqet TNS Cas: Gace TTT
+eriern u cae: eeqercn eRreTaT: TAHT:
+13. There is vocalisation of the semivowel a of
+the affix ete (IV. 1. 78) when followed in a Tatpurusha com-
+pound, by the words g@ and «fal
+
+When the words ga and q@ are tlie second members, forming a Tats
+purusha compound, there is samprasdrana (vocalising the semi-vowels) of the
+affix 7m of the preceding. That is @ is changed intog t Thus &Qqeey Teg:
+sea=atterieg: (a Bahuvrihi_ compound taking the sam4santa affix or rather
+substitute ¢ by V. 4. 137) antrrrtreqrent= atrefea + rt (LV. 1. 92) = anttreerey? tt
+The feminine of this will be formed by adding tag (IV. 1. 78). Thus we have
+wrdtqeat (see IV. 1. 78). Now in forming the Tatpurusha compound of this
+word with 94 or qi, the final a will be changed into ¢ and we have sraqaeft-
+oe, anteredtefe: The et of at becomes merged into g (VI. 1. 108), and
+the short ¢ is lengthened (VI. 3. 139). So also Mamefge: o Faget a
+
+Why do we say “of the affix tq”? Observe pang’, @rrag™ 0
+
+Why do we say “when followed by 4 or W@%”? Observe aniqraar-
+BOL, MITA
+
+Why do we say “when forming a Tatpurusha compound”? Observe
+artrrearaacer saa = arterearafaea ara: It is a Bahuvrihi compound.
+
+The affix sag is here the feminine affix q followed by ay (si) (see
+IV. 1.77 and 74).
+
+A general maxim relating to all affixes is “an affix denotes whenever
+it is employed in Grammar, a word-form which begins with that to which
+that affix has been added, and ends with the affix itself: sarang gene @
+Piitrentearrars agers,” 0 This maxim, however, does not apply in case of
+feminine affixes, where we have this rule “a feminine affix denotes whenever
+
+2
+
+=== PAGE 27 ===
+
+1046 VOCALISATION (Bx. VI. Ci b. § 14.
+
+it is employed ina rule, a word-form which ends with that affix, but which
+need not necessarily begin with that to which the affix has been added, but
+where the word form is subordinate: witty argvasa ~” Thus we have
+qorartenearen gH: =qorateradfige: and so also qorartaraftafe: i Not so
+when the word is an upasarjana or subordinate in a compound. As wifaeteat
+erturearn= sfrartarmar, reagy: = arate, wftartrerea4ne:
+
+This vocalisation takes place when gw and q@ alone, not compounded
+with any other word, stand at the end: not so when a word beginning or
+ending with these words follows, Thus antqrmeangwas, arirarmarrgy: &c,
+
+Though a word ending in em may have may semi-vowels, yet the
+vocalisation takes place of the affix 4 (sre) only, according to the maxim
+fattsaarteatrar waite “substitutes take the place of that which is actually
+enunciated ”,
+
+The word awarer has regulating influence upto VI. 1. 44 inclusive.
+The rules of vocalisation (change of semi-vowels into vowels) is contained in
+these sitras,
+
+Vart:—Prohibition must be stated when qf and gw follow the word
+Graz un As trararge:, Strearearara: instead of drarafyw: &c.
+
+wratt waettet nee aan argh, wget
+At ures: Sree | egUETTTTTy TEA ANA Cee! eTETCeT TAT
+Ae WATT ATERATA Al
+14. Thore is vocalisation of the affix *T# when the
+word arg follows in a Bahuvrihi compound.
+
+Thus artqraarrgrer = artteredtarg: So also araqreftarg:
+
+Why do we say “when the compound is a Bahuvrihi’? Observe srét-
+qregrar eg! = artreaaraeg:, which is a Tatpurusha compound. Like the last
+stra, we have here also qorartynraferg:, but wfaariqmarey:, srtrerrmaresg-
+war, qrdqrearqererg: tt
+
+Though the word avgft is exhibited in the stra in the neuter gender,
+it is in fact a masculine word.
+
+Véart:—There is vocalisation of sag in a Bahuvrihi compound with
+arr, ATT and Are optionally: as artrqraftaray: or ertrerraarara:, arderreutanyan:
+or aritereararga:, ateratarar, arteregrarar The indicatory w of aray
+makes the word take the udatta on the last syllable (VI. 1. 163), thus debarr-
+ing the especial accent of the Bahuvrihi (VI. 2. 1), All Bahuvrihi compounds
+ending in % take the samAsAnta affix ay, so Rtg would have become argx by
+force of V. 4. 153, so the separate enumeration of arg and "gai here shows that
+az is also optional.
+
+=== PAGE 28 ===
+
+KK. VI, Ci. L § 15) VOCALISATION. 1047
+
+areaftararatat Are Weg care af, cate, aargraraz, faa
+Re n areca vata | ore wa Prot Re eer gore wit ahaha Tens
+Beryl wa ware, aa FraOTAaa Tas HT EAT, CAT TET TIT-
+rat fart rea ger: arate ATT
+15. The semivowels of the roots &¥, vay and aang
+verbs are vocalised when followed by an affix having an
+indicatory ©
+The anuvritti of vg does not run into this sdtra, The root qq in-
+cludes the ra qftargt of the Adadi class (II. 54) and the wy substitute of &
+(IL 4. 53) eag is the root fiyeqq gw of the Adadi class (II 59). The awttq verbs
+are the last nine roots of the Bhvadi class viz. ay, 4y, 9%, 4@. TH, SQ, ER WT
+and fig The semivowels of these eleven verbs are changed into the cor-
+responding vowel, when an affix having an indicatory @ is added to them. Thus
+with the Past Participle affixes * and saq we have the following forms:—
+1. oa —em:, HT, (VITL 2.30). 2 eq—aqn:, GHA 3 ake: Cea. (VILL. 2.
+36) 4 19—an:, THA, § W—aHe!, Reay (VII. 2. 31, 40, VII. 3. 13 and VI. 3. 111)
+6 wa—aiea: sitar, (VIL. 2. 56 VIII. 3.60) 7 a —aa:, waary, 8 siete,
+Stray 9 LT, CaM, 10 a — ae: SeaMA, 1 BPE, Pa
+
+rat TR TER ATTA ATA PraTaa!—When in a Grammatical rule, an operation
+(dependant on an affix) is tanght with regard to a root (dh&tu) by mentioning
+particular verbs (dhatu) specifically,and not by using the word “dhatu” generally,
+then the operation takes place only when the root is followed by such an affix as
+can be added to roots by emunciating the word yrat: The existence of this
+maxitn is inferred in the formation of the word ¥togery in VI. 4. 174, which see.
+Therefore, there is no vocalisation of ¢@ in the following areafa, wPara: Here
+areata is formed by adding eay_to ara (arairesta) ara is formed by iy
+added to qq, the vowel being lengthened and samprasarana being expressly
+prevented by Unddi II. 57. Now, it is a general rule that a root taking the
+affix fasq, faz, or docs not lose its character of a dhAtu. Therefore Tz
+is a root (arg), and it ought to take vocalisation before the affix era But
+rq is not enunciated to come after a dhatu, but after a gra (green: aE
+TIL. 1. 8) in the rule ordaining its affixing. So also af?a: formed by adding
+w% to qa (See Vart. V. 3. 83).
+
+sitwarahreaftrafthrafagafagesenrsndtat Peter a nee aah
+me, oar, aft, sate, a, Pratt, gat, gots, asordtare, eR, @ th
+Ae wey TTA, sar Tara, HHT Ta, oT ATR, TT ATT, Sa caste, Greg
+SF wee Stearat, wen Thx, caatet urea AER Tea ceETRTTT RR TET Te |
+SROTET frente: qereroTeRAPTA AT FATT
+
+=== PAGE 29 ===
+
+1048 ‘VOCALISATION. ( Be. VI. Cu. I. § 16
+
+16. There is yocalisation of the semi-vowels of the
+following verbs, when an affix haying an indicatory = or €
+
+~
+
+follows:—ag ‘to take’, sqr ‘to become old’, Asx ‘to weave’, ant
+‘to strike’, aa ‘to shine’, ca@ ‘to deceive’, Har ‘to cut’, sew ‘to
+ask’, and ges ‘to cook, to fry’.
+
+By force of the word “@’ ‘and’, the anuvritti of rar& is read into this
+sftra, Thus 1. we—éte:, pera (by s§ and eaq), aeonft (I. 2. 4), wirera
+(by a of the Intensive). 2. sat—sftqt, srapy (VIII. 2. 44 @ changed to a),
+farm (I. 2. 4), the short gis lengthened by VI. 4. 2 and is shortened again
+by VII. 3. 80. Ssitay (ag, 3. afa—The root yx is replaced by qq when
+
+‘fire follows (II, 4. 41), This af can have no fey affix after it, it takes only
+fsx terminations, which as we know are fay (1. 2. 5). The examples, thereforg
+given will be of faq affixes only. Thus mag:, agi Now arises this ques-
+tion ‘why do you enumerate aff, for is not 4x (for which afy is substituted)
+already included in qamf class of verbs given in the last sQtra, and by force
+of that sQtra, af& will get samprasarana before fq affixes”, The reply is
+“ata is numerated here in order to shaw that the prohibition of sampra-
+sdrana with regard to {yas taught in VI. 1. 40, does not apply to its substi-
+tute gq in the Perfect Tense”. Thus while the Perfect of 4m is wat, a4q:, Ty,
+the Perfect of its substitute aya is sara, jaa? and Hq More over VI. 1. 38
+teaches that the @ of qq is not vocalised in faz affixes, which therefore, implics
+(jfi4paka) that the other semivowel i. e. 7 of aq will be vocalised. 4. spy—fae,
+freara, and with feq affixes Freie, afraa un 5. ca—afee:, afraarg, and with
+feq affixes ae:, cuiea 6. era ara, rrTaaTT facta, afrede in By a Var
+tika under I. 2, 1, the word eq is considered to belong to getfe class, and
+therefore all affixes after it, other than those having an indicatory 4, 3] or the
+affix we, are considered as ea, and therefore, there will be samprasdrana
+before these affixes: as, afatwar, sftaay, spartan 7. TER, [RATT
+How is the final gw of aq changed into &, for by VIII. 2. 36 @ ought to have
+been changed into gq before the genft affix wm? To this we reply the affix =
+is replaced by 4 (VII. 2. 42) and as this 4 is not a qeity affix, Rule VIII. 2,
+36 does not apply. This is done on the following maxim: “The substitute
+of the Njshtha should be cansidered ta be siddha or effective when applying
+the rules relating tq the change of a |ctter into g, to accent, to affix, and ta
+the addition of the augment 5%”. Byt when wis to be changed into m, the
+substitute is cansidered asiddha (ngt to have taken place). Thus we have the
+forms Pog &o, Before feq affixes we have pata, atqeeaau 8. qes—ge:
+(VIL. 2. 36), qeara, feq—qeon®, Tigesd u The forms que and quse would
+have been evolyed by the simple rules of Reduplication even, without the
+
+=== PAGE 30 ===
+
+BK, VI. Cu. 1. §. 17 J VOCALISATION. 1049
+
+application of this rule. But qey+ae (III. 3.90)="en Here there is no
+vocalisation, because Panini himself uscs the word set in sitra IL. 2.117
+showing that this is the proper form though irregular. 9, wEa—we: (VIII.
+2. 36), gaara, feq—osnia, wt assaeu The aw of waw is changed first into q
+by mat wu ee (VILL. 4. 53), and then gis changed into = by eft: eqar eq
+(VILL 4. 40).
+
+feeusrreaetratara won wal un fae, ayaa, sate,
+(@srarcra) tt
+att: 0 aaagt areardtat werdtat we gan Sareer GET ATT
+17. There takes place vocalisation of the semi-
+vowel of the reduplicate (abhy&sa) of both vachyadi (VI. 1.
+
+15) and grahfdi (VI. 1.16) words, when the affixes of fea
+follow.
+
+Thus qy—aare, waray, e—gqan, gefiy, T—are, cafes, gy—
+wag, waft As regards aeity verbs; me—smre, ania (there is no speciality
+in case of this verb, as these forms would have been evolved without even this
+rule), wa—faysi, farsa, aft—aare, and safer; say—fcara, freafiry, eo—
+wre, ziftu, @ra—freare, freartra, a—aaw and qafwrit Some say that
+with regard to mw, it is equal whether there existed this present rule or not.
+For they argue thus, aw+ R= a+ aTEt+ TH T+ Pate (ete VIL 4.
+60)=gaa To this we reply, this form would be evolved no doubt had this
+rule not existed. But when this rule is applied, and you make reduplication
+without first vocalising the ¢, then you will have to vocalise q by force of this
+rule. Hence the necessity of this rule with regard to mw also, for having
+changed ¢ into %, we have gpa and then change ¢ into # by VII. 4. 66.
+Then this yy substitute becomes sthanivat to % (I. 1. 59), and therefore there is
+no vocalisasion of this q, for rule VI. 1. 37, prevents the vocalisation of a letter
+standing before one which has already been vocalised. There is no speciality
+with regards to wep and wes verbs.
+
+This vocalisation of the reduplicate is taught with regard to those
+affixes which are not fag. With regard to faq affixes, the Rule VI. 1. 15
+will apply. And as the rule of vocalisation is subsequent to that of redupli-
+cation in order, therefore by the maxim of qxeq I. 4. 2, vocalisation will take
+place first and then reduplication, according to the maxim Wa: Tay Pravarfecret, .
+“occasionally the formation of a particular form is accounted for by the fact
+that a preceding rule is allowed to apply again, after it had previously been
+superseded by a subsequent rule”. Thus yq+wg? (which is faq L. 2. 5) = 7%
+FAY OFTATTt AT = HAT, HF Wl
+
+=== PAGE 31 ===
+
+1050 VoCALISATION. ( Bk. VI. Cu. 1. § 20
+
+Though the phrase gwraqra could have been supplied into this sQtra
+‘by the context andthe governing scope of the preceding sitras, its express
+mention in this stra is for the sake of indicating, that the rule of vocalisation
+supersedes even the rule of genft: tq: VII. 4. 60, the vocalisation must take
+place at all events. Thus ey+ag=eq+eqy+erit Here by VII. 4. 60, the
+second consonant @ of eq ought to have been elided, and the equation would
+have stood 4+ *qy+, and there would have been vocalisation of q by this
+rule. But that is not intended; there is vocalisation of q and we have fasarg
+In fact, the universal maxim of vocalisation is :—“ The samprasdrana and the
+operations dependent on it possess greater force than other operations which
+are simultaneously applicable”. dwarct agrrd W AML ATT I
+
+wearers neem cant Wo eare:, fe, (@erercora) It
+af: UW eNaUR extedeqen Teo TER AAS Gea: SraTCe ae
+18. Of the causative verb waft “to cause one to
+sleep”, there is vocalisation of the semivowel, when the affix
+@w¥ of the Reduplicated Aorist follows.
+
+Thus the Aorist of emg is ATM, HATTA, ATT! The vocalisa-
+tion takes place before reduplication, then there is guna of the penultimate
+short vowel, then this is again shortened by VII. 4. 1, then there is reduplica-
+tion, and then lengthening of the vowel of the reduplicate by VII. 4. 94.
+Thus emt +e Ot +e =ET (VI. 4. 51)+4e (VI. 3. 86) - ay 4+ WE att
+
+we (VIL 4. egt+ggtwe( VI. 1. 11)= agra (VIL. 4. 94) which with the
+augment w becomes wagya I!
+
+Why do we say ‘when qe follows’? Observe eqraa, eqfta: 1 The
+anuvritti of faaf has ceased, that of fef@ however is here.
+
+caftrenitretett af ne wait kare, ENS, sore, MS, (Ararcora)t
+
+a: u Freee oe bag TT OT RY, Say aT, eT UTgaT aS Ter: AAT TT
+
+19. There is vocalisation of the scmivowel of the
+
+verbs eau ‘to sleep’, era ‘to shout’, and & ‘to cover’, when
+followed by the affix a¥ of the Intensive.
+
+Thus arqrad, Sera, état (VII. 4. 25 the short ¢ is lengthened). Why
+do we say ‘when a follows? Observe eqmaj formed by afwe IIL. 2. 172.
+
+TTT WRU
+ater: 0 ete eae | airaardte gear: orarcot a Te
+20. There is not vocalisation of the semi-vowel
+ot TT, when the affix ae follows.
+
+=== PAGE 32 ===
+
+Bx. VI. Cu. L. §, 23.) VOCALISATION, 1051,
+
+The word afy is understood here. As apract, sraaaa, sraqeeae ns Why
+do we say “when a@ follows”? Observe a#:, vufta i See VI. 1. 16 to which
+this rule is an exception.
+
+are: SEW RL TATA are, Art
+TR 0 ate Tea a CeProrraat aes ras Ter ere wae
+21. The verb # is substituted for the verb ata ‘to
+worship, to observe’, when the Intensive affix T& follows.
+
+The phrase af& is understood here. Thus @aitaa, @ataa, Satta u
+The exhibition of af in the stra with a long € indicates that there is long vowel
+even in tenses where a@ is elided, as afta: For if the sQtra had enunciated
+®s with a short ¢ as the substitute of aa, the forms aitaa &c would have
+been still valid. Thus f&&+agehr+Prt+a=%+Pt+a=atat+a (VIL 4.25
+causing the lengthening of the short ¢). But then the Nishtha would have
+been Sire: which is wrong.
+
+zara: St Prevage TaN eAr:, Shr, Prerane
+TRG 0 earth strat gers aritterat sea: etter ane
+22. The eer is the substitute of egret ‘to swell’,
+when the Nishtha affixes follow.
+
+Thus eete:, ehrerarg it) Why do we say “when the Nishtha affixes
+follow”?Observe eatfit: formed by fxg In the phrase exrat wate, the word eanit is
+the feminine of the word eatft formed by fu The phrase Freram “when
+the Nishtha follows” governs all the subsequent sQtras up to VI. 1. 29.
+
+eer: ater WA oA eee, 9, Gate, (@eTETCONT) Ht
+WRG u Prorat Tae arcana wl ear CTT era 1 Cero eaeaa-
+& ater: eearRTAT Ta ara EOE | Rear Tee TPE eTAerat Tea! srETT-
+wae
+23. The verb wat (eq and az) when preceded by
+3 changes its semivowel to a vowel, when a Nishth& affix follows.
+
+The phrases “when the nishtha follows”, and “there is vocalisation” are
+understood here. The anuvritti of eff does not run here. The roots e& and
+s¢q both assume the form tat and are included here. Thus {+ 8at+ =a + fet
++a (VI. 1. 108)=sefta: (VI. 4.2), and geftrargu The @ of nishtha affix
+would have been changed into q by VIII. 2. 43 in as much as the root ear has
+a semivowel and ends in long 8 But by the vocalisation of a, the condition
+of awa for the application of VIIL. 2. 43, no longer existing, the affix @ is not
+changed to 4 U But ais optionally changed to # by VIII. 2. 54 as sedta: and
+sedtrarg
+
+Why do we say “when preceded by 9?” Observe &eeartt (VIII. 2 43),
+@earraa = If it was intended that vocalisation should take place when q
+
+=== PAGE 33 ===
+
+1052 VOCALISATION. [Bx. VI. Cu. 1. §. 24,
+
+singly stood before, then the sQtra could well have run thus fe: fi The use
+of the word g¥€q implies that the rule applies when w stands first, though other
+upasargas may intervene between it and the root. Thus qeredta?, weedrerarg Wt
+The compound rye should be explained as a Bahuvrihi=9: gat aaa ararat-
+eaqraea & Ts (that which consisting of root and upasarga is preceded by q is
+called rq). Therefore the rule is made applicable to qeedta: &c.
+wangttrersrat: fare we gare N eager, kadar, ea:
+an un rege weranse ert Trartes Se cranes aratiterat cer: ATA TAH
+24, There is vocalisation of the scmivowel of
+the root war (xt) ‘to go’ when the nishthd affixes follow,
+when the sensc is “ coagulation” or “cold to touch”.
+The word gagft means hardening of a fluid, by coagulation &c.
+Thus wftt ga, stat tat, dh we “a coagulated butter, grease &c”, The # of
+nishtha is changed to 4 by VIII. 2. 47. But when the sense is that of ‘cold’,
+the @ is not changed ; as wftt ata, star arg:, Stagyna «The word afta is here
+used both as a noun meaning ‘cold weather &c’,and an adjective denoting ‘cold’,
+There is no vocalisation when the sense is not that of ‘coagulation’ or ‘cold’,
+as dqarit gam: ‘the rolled up scorpion’. The short _ is lengthened in Witt
+&c, by VI. 4. 2.
+waaT GN TTA Neat, a, (GorETCTAT)
+gt nae gfe rea | caer garaarterat Tea: SATE ANT
+25. ‘There is vocalisation of gay preceded by the
+upasarga sfa, when the nishtha affixes follow.
+
+Thus fait: sfastrargu This sdtra applies to cases where the words
+need not have the meaning of “coagulation” or “cold”,
+
+Rrava ssrarqaer een canal Reaver, anh, aa, Grex, (Gorereoa
+are: ua gfe aera wi arr CeeT TEA Paraafierat FT SAAT AAA
+26. There is optionally the vocalisation of gat
+followed by the Nishth4 affixes, when the upasargas aft and
+ara precede it. ©
+Thus afitea or aire, yd, oredr, or eraqqray afira: This
+option applies even when the word means “coagulation” and “cold”. As
+erat or errant ya, EW errata or samara ara’, &c. Waite or TTATTTTH It
+The g4 in this sQtra serves the same purpose as in VI. 1. 23. Thus
+safacatat or aftasard, svrdefty, erraqart | According to the author of Sid-
+dhanta Kaumudi, the word v4 shows that it is a vyavasthita vibhasha, hence
+there is no option allowed when sf and 8tq are in the middle, as, TApPar,
+amaagart Here we cannot have the alternative forms aafritt &c.
+
+=== PAGE 34 ===
+
+Bx. VI. Cit. 1 §. 29. ) VOCALISATION. 1053
+
+wet TH WV NW TEMA Nl ozera, aS, tl
+aftr u Reneag rae TT TR TET ATT MTOMTE TT SHIA Ty Tet
+rar Paved fore .
+27. Optionally et is formed in the sense of
+‘cooked’, by the vocalisation of the semivowel of wr before
+the nishth® affix & tt
+The word faris understood here. The roots 8 ‘to cook’ of the
+Bhvadi class, and "at ‘to cook‘ of the Addi class, and "st ‘to cook’ of the
+Bhvadi sub-class Ghat4di, are meant here. In all these, >¥ replaces »ar, whether
+causative or not. Thus °yq eft, >ga eat This is a vyavasthita vivhasha ;
+so that »gt is invariably changed to xy when referring to yftt and @f¥, but not
+anywhere else. Thus aot aary:, strat wary: (VII. 3. 36 and VI. 4.92). This
+word does not take double causative though the sense may require it. As
+waite Ott Favs aaa “ Devadatta through Yajfiadatta has caused the milk
+to be cooked”. The » is intransitive, When the sense is that of Reflexive, or”
+Causative, there the form »q@ is to be used. As oy Ort eran, "Tet ht Pra a
+
+cara: RN Tart care, dn
+aft: u Prayer strardt Tandeer wreatfisrat Prarar fterantat wens
+28. dt is optionally the substitute of the root cara,
+*to increase’ before the Nishthé affixes.
+
+The root sireardt Tar belongs to BhvAdi class. The indicatory wt shows
+that the affixes a and aaq are changed into # and aaq (VIII. 2.45, Thus
+ft gat, dr arg, tage The option here is also a regulated option (vya-
+vasthita-vibhasha). The substitution takes place invariably when the root is
+without upasarga, and never when it is preceded by an upasarga. Thus qtara:.
+wrcarraeHT: tt The substitution, however, must take place when the preposition
+wre precedes the root, and the words wry! and aye are in composition: as
+erttirg:, ard
+
+fearster Wen caf nl fz, tet, a, (fi) 0 :
+oft u Ronee frqara cara: ftetaernsrargeran | fate afe ae cer: cara: dterontat |
+wae w
+
+29. There is substitution of for ara when the
+affixes of the Perfect (f##) and the Intensive (a=) follow.
+
+The anuvritti of the word faarat ceases. The phrase cara: ft of the”
+last sQtra is drawn into this by force of the word q ‘and’; thus wrfae®, sqt-
+facara, srfaiet The substitution of a subsequent rule, would have debar-.
+red reduplication which precedes it in order. The reduplication, however,
+takes place after the substitution, by force of the maxim of qa: wag &c men-
+
+3
+
+=== PAGE 35 ===
+
+1054 VOCALISATION. Bk, VI. Cut. 1 § 31.)
+
+tioned in VI. 1. 17. Thus @+fPe=@+Ht+aef+aqte (VI. 4. 82 the q
+
+being substituted) = errfteq with the affix er. So also in the Intensive, as wfifta,
+
+arrdas, aries
+
+© f&rarar ea Qo Nara Ut erate, 93:
+
+gu RrerenNs vee erarconals wt fle ake we eet atarfrrer errarcot wars 1
+30. There is optionally the vocalisation of the
+
+semivowel of fia before the affixes of the Perfect and the In-
+
+tensive.
+
+The phrases farg qet: and ean are to be read into this sitra. Thus
+wm or firara, TyrG: or faraag: u So also in the Intensive as Grass or udt-
+ua The root fig would not have taken vocalisation before ag by any pre-
+vious rule, this stra teaches optional vocalisation. The root would have
+taken vocalisation before faz, which is a fay affix, invariably by VI. 1. 15, this
+sQtra modifies that by making the substitution optional. In the alternative,
+when the root does become vocalised, the reduplicate is also not vocalised in
+spite of VI. 1.17. This explains the form fapara, which by VI. 1. 17 would
+have been garg fer+om=(qQag+me VI. 1. 30)=q+ ma (VI. 1. 108) 9g
++3+8 (VIL 1. 8) ogera
+
+of & Soret: ag nena ee, Sy, aL, TST, ( ETCH, )
+he Ut Rorrge SNA TH aT TE Te ot Te: aM aerarcot rae
+31. There is optionally the vocalisation of the
+semivowel, in the causative of ff, when followed by the Desi-
+derative #& and the Aorist ag affix.
+
+The phrase fear %& is understood here. In forming the Desiderative
+and the Reduplicated Aorist forms of the Causative of fag, there is optional
+vocalisation. Thus geratatfa or ferarafagta So also in the Reduplicated
+Aorist w@, as wyarg or wfirrag | By the maxim awarct erarconad ara
+wafer (see sitra VI. 1. 17), the antaranga substitution of Viiddhi &c is supers-
+eded by the sampras4rana and the subsidiary operations relating to it here.
+The vriddhi and the substitntion of sq take place after the samprasdrana has
+taken place. The stra VII. 4. 80 teaching the substitution of { for the ¢ of
+the reduplicate, when aq follows, shows by implication that the substitution
+caused by fe is sthAnivat though it itself does not cause reduplication (I. 1.59).
+Thus fir+fr=%+q=rg+e=enta it In reduplicating »afa we cannot form
+sarara, but must consider the substitute equal to the original x of f and must
+reduplicate it. We thus get ferarafagfa tt In the case of vocalisation, the
+rules of Vriddhi &c are postponed. Thus fiz +r@&+ea( VI. I. 108 Jeo g+fart+
+are tet aa = TE FTF E+ GAA t+ aqcarnat+agin Herewe requ-
+
+=== PAGE 36 ===
+
+Bx. VI. Cu. 1 § 34. J VOCALISATION. 1055
+
+ire reduplication. Here the substitute erg in wry though not caused by aM, is
+treated sthAnivat under I. 1. 59 tog, which iscarricdin reduplication. Similarly
+the Aorist: fy + f+ TE T+ C+ MH T+ G+ C+: THUA+ e+ Ag+ oe
++ereagtoutese (VIL 4 1 sgtaateta (VI. 4. 51) =ayar
+(VIL 4.94)
+&: Graco WN TATA Nw, Srercory |
+
+Qe: We aMSNTT THT | GT AA FC ot Tea: Arar TT
+
+32. There is the vocalisation of the semivowel of
+the causative of Ave (%) before the Desiderative and the Redu-
+plicated Aorist affixes.
+
+The whole of the last sftra {s to be read Into thls stra. Thus ggra-
+fagit and qerafaca:, werafeeta; seer, wEETaTT and eragay The root gr does
+not take the augment @ required by VII. 3. 37 before the affix fa, because the
+Sampras4rana rule is stronger. The repetition of the word qyar in this
+sfitra, though its anuvritti was present, indicates that the force of the word fearqr
+has ceased. Though this and the next sQtra could well have been made one,
+their separation shows that the samprastrana does not take place when ano-
+ther affix, not causing reduplication, intervenes. As grawtesta = gravtart; the
+Desiderative of this verb is fargraaitaafe ut
+
+APIAM DAN AWN Tana i ayreTer, @, ( arearcorz ) t :
+aR ue a Tae, ePaETED Var sarRCML, ePAETET At KA, APAETEA Kae:,
+are, Fagen KAT: Tire KeTarETATC aT Ht
+33. There is vocalisation of the semivowel of gr in
+the reduplicated form, in both the syllables.
+
+The abhyasta means the reduplicate and the reduplicated,both the
+
+syllables. The vocalisation takes place before reduplication. Thus qere, Sige,
+
+and qgarfa tt! This and the last sdtra are one, in the original of Panini, they
+have been divided into two by the authority of a Vartika.
+
+age OAte 8 Tana N agen, orate, ( @rarcery ) tt
+aft: uw fe Tas | oat fate Ratarat Fes araret aN tt
+34. In the Chhandas, the semivowel of this root is
+diversely vocalised.
+
+Thus g% or garft, as gearedt ge ‘Invoke Indra and Agni’. Yt cent
+gx The form gis Atmanepada, Present tense, st Pers, sing. the vikarana
+az is elided, then there is vocalisation and substitution of gg So also ganfy
+net fires, wartt Peay tarq So also eq: as —ftera( Rig I. 2. 1. ) ‘hear the
+invocation’.
+
+=== PAGE 37 ===
+
+“1056 VOCALISATION, ({ Bx. VI. Cu. I § 36.
+
+are St aan gana i arg: a
+ORT gs orate THT Cae oars fay AEs Aran Tae
+35. For ara is diversely substituted # in the
+Chhandas.
+
+Thus fayar mfeeg:, area fragt PiPregean it These are forms ending
+in the affix zq of the Perfect. Sometimes there is no substitution, As eri
+
+satfattrarca:
+
+areas guaghregaeanna: Preece: ag i
+cafe i arregramt, ag: wag: fea’, fears, wra:, Aran,
+araft:, arattat:, tt
+TAT uw errentarn age: Tye: reg’ frars, wrar:, Pree, orret:, errett:, CefraTeae
+Sues FTA
+
+36. In the Chhandas, the following irregular forms
+
+are met with :—aqertura, ogy, ange: (ea%, fart, ean,
+firera, aratt: and arafta:
+, The word weqfe is understood here, From the root eg ‘to chal-
+lenge’, is formed erqeqyura, being the Imperfect (#®), 2nd Pers, Dual, Atmane-
+pada: there is reduplication of the root, vocalisation of {, and the elision of
+@ irregularly. As, gaa fasor ayqegiare uu In secular language the form is
+wrerigna i! Some say, it is derived from epg with the preposition qq, the
+vocalisation of ¢, the elision of st, and the non-prefixing of the augment yz,
+in the Imperfect (VI. 4.75). The counter-example of this will be srqreqi-
+ara From ey and we ‘to respect, to worship’, are derived sryy: and ey-
+wg: in the Perfect before the 3rd per. pl. ¥, there being vocalisation of ¢ and
+the elision of 9 irregularly. Then there is reduplication, then 9 changed to
+w, then the lengthening of this , then the addition of the augment 4, as:
+WETS T+ TCT HITT eT IG (VIL. 4. 66 eaT+eEtA
+(VIL 4. 70)=stt+ater tag (VIL 4. 71)-ergg: tt The irregularity consists
+in the samprasarga with the elision of st Thus aqar SAANTTS!, T ABHATE: tt
+The secular forms will be wrag:, swag: The form Freqq is the Perfect 2nd
+per. sing. of the root eq to go’: there is vocalisation of the reduplicate,
+and the non-addition of the augment ¥€ before the affix & i This is the ir-
+regularity. The regular form is qeaf¥y uu The form first is the Perfect of
+exg, the vocalisation of the reduplicate is the irregularity. The regular form
+is weary.) From the root sfx ‘to cook’, is derived wat before the Nishtha
+affix, ft changed to irregularly. As snareq era The form fr is
+‘also derived from the same root by shortening the vowel with the same affix.
+As qt he erfttina:, fret at ger: Some say the wr substitution of sft takes
+place when the word refers to aa, in the plural, and fig when it refers to othar
+
+=== PAGE 38 ===
+
+BK. VI. Cu. 1 § 37 J VOCALISATION. i057
+
+than Gr n Sometimes the word ‘1a: is seen in the singular, referring to objects
+other than et#t Thus aft -arat qetat ut In fact, the exhibition of the word »aTar:
+in the plural in the stra is not absolutely necessary. The words eqrftt and
+erat: are from the same root sf, with the prefix sg and taking the affixes
+f¥t and W respectively. Before these sft is replaced by etx, and the non-
+addition of 4 in the Nishtha is irregular. As, amanda ge anit asta,
+Sreheqe strated:
+TATA STATA BON TANS Ul A, TATE, THTATLOT Il
+
+aftr u epee Tet: Ser aM: STAT TAT I
+
+matter seer wemeriarraarae Wate aay ETN
+
+37. When a semivowel hase been once vocalised,
+
+there is no vocalisation of the other semivowel that may pre-
+cede it in the same word.
+
+Thus equ; has two semi-vowels q and a; when @ is once vocalised into
+x, the preceding 4 will not be vocalised into zu Thus we have f@@: | From
+ra—Prta:, Fax—easta: «Though the rule of vocalisation does not specify
+what particular scmivowel is to be vocaliscd, yct according to the maxim
+that the operation is to be performed on the letter nearest to the operator, the
+second semivowel in the above cases is vocalised and the first is not, by force
+of this rule. Had the first semi-vowel been vocalised, then there would be no
+scope for this sftra, because then no scmi-vowel will be found preceding a
+vocalised letter. This sftra is a jfiapaka that the vocalisation commences with
+the second of the conjunct scmi-vowels.
+
+Though the anuvritti of vai was understood here, the repetition of
+this word shows that the prohibition of double vocalisation in the same word
+applies even when the semivowels are not contiguous, Thus by VI. 1. 133
+there is vocalisation of the word gaz, the 4 being changed to @, the q is not
+changed as gat" It might be objected that when the g of g, and g the sam-
+prasarana of q coalesce into one by sandhi rules, then there being the substitu-
+tion of one long & for the two @’s and this is sth4nivat to the original, the a and
+of 7a should be considered in fact as contiguous and not separated by an
+intervening letter, and therefore, the explanation given above does not hold.
+good; we reply, The substitution of one long vowel for two vowels, is not
+considered sthanivat (Sce I. 1.58). Even though it be considered as sthanivat,
+it is still a separating Ictter.
+
+Vart:—There is vocalisation of the semivowel of ft when followed by
+"4, and there is elision of the % of ww, when it refers to Metres. As faq
+a Ae= Ts Fw ll FX aru The word ry takes the samasdnta affix w by
+V. 4.74. Why do we say when referring to a metre? Observe et wf tt
+
+=== PAGE 39 ===
+
+1058 VOCALISATION. [ Bx. VI. Cu. I § 40
+
+Vart:—In the Chhandas there is diversely vocalisation of the semi-
+vowel of of followed by the affix agqy as c+ A= + A HCt EF Ct
+(VILL 2. 15) = aa; as, eit tarag a Fara: | Sometimes it does not take place, as
+efaara gfenea: The # here is not changed to 4 as required by VIII. 2. 15.
+
+Vért:—There is vocalisation of agar before qq when a Name is meant:
+as murat a enfirs: tt This Vartika is unnecessary. See VIII. 2,12 where
+the form aftag is given.
+
+fale wat a: wae Noah nt fete, aa:, a: (@rearcore a) It
+GR ut ararcntararaa | fete cea eat water Sree a rahe
+38. In the substituted root aa (IL. 4. 41), the @ in
+the Perfect is not vocalised.
+
+The phrase 4 aqaret is understood here. Thus zara, Haq:, HA u The
+word faz is employed in this aphorism for the sake of subsequent s@tras, this
+one could have done well without it even.
+
+earrenreaacent fate waa TAT Na, a, Bea, aeAATTEATA, NAN
+geet u ere rar aenrces Rent fete cet waa WreAATT ATT I
+39. Before the tense-attixes of the Perfect that have
+
+an indicatory g (I. 2.5), for the qofag may optionally bo
+substituted a & 0
+
+Thus Hag: or HAg!, HY: or Hy: uw According to Patanjali, the phrase qaret
+of this stra couldhavebeendispensed with;this much would have been cnough:—
+eraaen marae: Thus 4+ srqaq= at at + qq = Taq: and ag: (the vocalisation
+being prohibited). In the alternative:—ar + Wqq=7+ Aqa=T4-TITE+ HA(VI.
+1.77) =m7g!, By: u Here there is vocalisation. In the case of qq substitute, the
+@ is never vocalised, so we have Hag:, HA: Ww Thus all the three forms have been
+evolved without using qaTeq U
+
+Ber: WoW verte tt Aer: (Asrercora, a) tt
+ay: 0 erase ey eegdarcases erase sea? rarest a Ae
+40. The semivowel of gq ‘to weave’ is not vocalised
+in the Perfect.
+
+Thus ef, t7a:, 3g: 0 This root belongs to asnft class and would have
+been vocalised before (ta affixes by VI. 1. 15; and before non-faa affixes the
+Reduplicate syllable of the Pertect would have been vocalised by VI. 1. 17.
+Both vocalisations are prohibited here.
+
+waft aneen cari i cafe, @,(a@rarcea, a) il
+afte: wey carer et cate Te easy: SATCO T ATT
+41. The semivowel of & is not vocalised when the
+Participial affix 1a follows.
+
+=== PAGE 40 ===
+
+BK. VI. Cu. 1 § 45 J VOCALISATION. 1059
+
+Thus qara, s74ra The separation of this sQtra from the last, is for
+the sake of the subsequent sftras, into which the anuvritti of eag only runs.
+FTN BIN GNA Sr, a, (STATcony a) Ul
+UR: caterer tsar aera Urea Te: TAT TTT
+42. ‘Ihe semivowel of sat ‘to grow old’ is not vocali-
+sed when the affix er follows.
+Thus qsara, s7sara Wt
+Saar BQ TaN Nl er:, a, (ATCA, 4) It
+AER: wh weer 1 aay TTT ET TATE Te: CATCH TATA
+43. The scmivowel of sat (34) ‘to cover’ is not
+vocalised when the affix ety follows.
+As qeara, sqeura tt’ ~The separation of this sQtra from the last, is for
+the sake of the subscquent s@tra, in which the anuvritti of & runs.
+Pravar at: 188 eT Brava, a:, (asrarcora, @) It
+ate u watt a satrema Tae Teer VTE TAT TA Prarer eoraret a wafer tt
+44. The vocalisation may. optionally take place
+when sq preceded by giz takes the affix wan
+Thus oftdta ara or qiveara tt The augment g¥% presented by VI. 1. 71
+is debarred by VI. 4. 2. which causes the lengthening of the vowel: since VI.
+4 2 is subsequent to VI. 1. 71.
+
+ata saga SATA Vg TATA Nl ara, Tas, TARA, TANT tt
+gee: Uw ara FU THT Tae ae TTAETTT TeaNTTTA wale Hay T TeAy A eTNe
+45. Ina root, which in the system of grammatical
+instruction (i.e. in the Dhatup4tha), ends with a diphthong
+(q, @, at and a), there is the substitution of at for the diph--
+thong, provided that no affix with an indicatory q follows it.
+
+The word yrat: is to be read into this sdtra from VI. 1.8 Thus wy
+Foret, TTA, TaasaL, Para, frag, Haren Why do we say ending
+with an Ty (diphthong Observe aat from ®, and gat from gn Why do we
+say in upadesa or Dhatupatha? Observe at, etrar where & and eit are not
+the forms taught in the first enunciation of the root in the Dhatupatha, but are
+secondary forms. Why do we say, before non-farm affixes? Observe #%-l-0%
++faq= ara, srg uw Exception is, however, made in the case of the affix
+gqof the Perfect: as #%, HN This is explained by interpreting the word
+firq as faratfy, that is the affixes having an indicatory q in the beginning: ww
+has qat the end, This is done on the maxim afery finverqaras aeet “when a
+term which denotes a letter is exhibited in a rule in the form of the Locative
+
+=== PAGE 41 ===
+
+1060 VOCALISATION. [ BK. V1. Cu. 1 § 48.
+
+case, and qualifies some thing else which likewise stands in the Locative case,
+that which is qualified by it must be regarded as beginning with the letter
+which is denoted by the term in question and not as ending whith it”,
+
+The word wfira is an example of gasanfaqy:. a simple prohibition of
+acontingent case. Therefore, the substitution of wt for gx vowels, is not
+caused by the affixes that follow, but must take place prior to the occasion for
+the application of the affixes arises. Thus III. 1. 136 ordains # after roots
+ending in 81; so that *% and # are presupposed to end in sq when applying
+this affix: thus gr, gra: 0 Similarly byIII. 3. 128 we apply 34 to % and 3%
+by presupposing it as sya roots: as Erata:, Bart: I
+
+The word wy is understood in all the subsequent sAtras upto VI. 1. 57
+
+a sat Fe nee Taal, Bar, FER, (aa) UN
+eof: Case eereree UTeTAAS Ter SrTRTTTeT Tafa
+46. There is not the substitution of at for the
+Diphthong of the root = when the affixes of the Perfect follow.
+
+Thus efaeara, dears The reduplicate of the Perfect is vocalised
+here by VI. 1.17. The Vriddhi in afteqra takes place by VII. 2. 115 before
+the for affix org u
+
+RHOISHSAAT Won war i epela, eRordt:, afer, (ona)
+TET: UOTE TAT TR EHS THT Aaaea ca: Ea TF Tea STATA ATT
+47. In the roots ex and SFa ‘to move’, there is
+the substitution of the #t for the diphthong when the affix
+asx follows.
+
+Thus faegre: instead of faegte:, and faexts: instead of fete: u By
+VIII. 3. 76, the @ is optionally changed to q after @, as fasqre:, and fasts:
+
+sSrestrat oft wee wart i ft, ce, sara, of, (ara)
+ae, U pontsy RSMa Ry, Ta one, Fa Sie, CAST META: EMT oA TET eTTERTUTT
+u
+48. The substution of ar for the diphthong takes
+place in the causatives of the roots ai ‘to by’, ¢ ‘to study’ and
+Ft ‘to conquer.’
+Thus wrqaft, searqafe and srqafy tt The augment g is added by VII.
+3. 36, since these roots end in long 8 Ul
+WeQn cant n reae:, earcates
+afte u onfarearee | fing eereteraa Reve urareerea eRe Tare: ETA Se TTT
+START TT AT
+
+=== PAGE 42 ===
+
+Bx. VI. Cu. 1 § 50. ] wat SUBSTITUTION. ro6t
+
+49. The substitution of at takes place for the
+diphthong in the causative of ra, when it does not refer to
+the next life.
+
+The word qratte is derived form qzarx ‘the next world’ by adding
+the affix 63q with the force of ‘for the sake of '(V. 1. 109). The double Vyid-
+dhi takes place by VII. 3. 20. The sense of the word fay must refer to ear
+or non-intelligent things for the purposes of this substitution. Thus wrt araafe,
+wrt araafa | Why do we say when not referring to the next world? See
+areata Suahe, areas Rite Berar nu The force of fev is here that of know-
+ledge, arva: fagita = arararearargara The ascetic acquires certain know-
+ledge through austerities, the knowledge so acquired produces its result in the
+next world (4@@) i. e. the next life, therefore, the Snr of the ascetic is for
+the sake of the next life, and so there is no substitution of st for gu Why
+the substitution docs not take place here: st arqata, eretrgrrenit ‘he
+causes food to be prepared for the purpose of giving to the Brahmanas’. Here
+though the gift of the food produces effect in the next world, yet as that ig
+the effect of qq and not of the verb fay, the substitution does take place.
+When the verb fay directly and not through the mediation of another action,
+produccs paraloukika effect, then the substitution does not take place. The
+verb fat here belongs to the DisAdi class and not to the Bhv4di, as the form
+fata in the sfitra shows it.
+
+ararfahrtetet waft aw sok cat tem’, Rrite, revs,
+af’, atl
+aft: u atire sezana aa | aioe frarata, Biase wear, Meare, eaaet agai ealt
+Cat ae Fale TITTTT TR TAT ATT CIP TTT TUT
+50. And there is substitution of at for the finals
+of at ‘to hurt’, f& ‘to scatter’, and gt ‘to decay’ when the
+affix eqq follows, as well as before those affixes which demand
+this substitution for the diphthong. .
+By force of the word = ‘and’ in the sftra, the substitution takes
+place of the diphthongs also of these verbs before all affixes other than re,
+and this substitution takes place, before the occasion for the applying of the
+affixes arises (aqyuraeurart trea watz) So that these verbs should be under-
+stood as if they were enunciated with an wf, so that all rules of affixes relat-
+ing to sq will apply to them. Thus sarat, Tatasan, WATE, Waa, Marat, Pras,
+Peracas, fata, Tatal, TAAL, TAL, TTA Ww ~The substitution of wrt be-
+ing understood to have taken place in the very a7 (in the dhatupatha)-of
+4
+
+=== PAGE 43 ===
+
+1062 wr SUBSTITUTION ( BK. VI. Cu. 1. § 52.
+
+these roots, the affixes relating to roots ending in x or § do not apply to these
+atall. Thus aqqrar rad, tagaza, formed by gq and gw by taking =a and
+adding these affixes (III. 3. 128 and IIL. 3. 18) and not the affixes ora (IIT.
+3. 56) and wa (IIT. 3. 126).
+firarar Stara: We aT nl fara, aia: It
+
+TAT: 0 eagtia Tata, ET TTT TSE wT eae: A Vote MaNeeAaE-
+ware aa Pet: eraa | Maaatatears TTT ATH TTT CTA RATA POTS BTRT-
+oe wag
+aiftang 0 Relfitat aed: weed aR: O
+
+51. There is optionally the substitution of at for
+the final of # ‘to adhere’, in the very dh&tupatha, when the
+affix erg follows or such an affix as would demand this substi-
+tution of the diphthong.
+
+The final of # will take guna substitution before fea affixes, and
+will become %, this incipient diphthong q is changed to aq by this rule. The
+same is the case with all the roots subsequently taught, thus fag will be &,
+and then ¢ changed to 1, at=atqand sit changed to am &c. Therefore we
+have employed the anuvritti of va ‘diphthong’ in all sdtras. The words
+earq and ayeaq zqyea are understood here. The roots #t belonging to Divadi
+and Kriyadi are both included here. Thus faarat, faeras, fanaa, faera,
+fatar Rear, fatacrse and fasta u
+
+Vért:—The wt substitution does not take place when the affix srw
+(IIL. 3. 56, III. 1.134) and qa (III. 3. 126) come after fa, fa, ft and a: as,
+defer: Porat iat frente: waar aa 1 keg foe, Froar Tee
+
+The # invariably takes sq substitution when the sense is that
+of ‘showing respect,“deceiving’or ‘insulting’. As atergarqtaa, saat afmargercaa 0
+The option allowed by this aphorism is a restricted option (vyavasthita-vibhasha)
+The substitution of sqrt for the final of ¢ is optional when the sense of the root
+is not that of ‘showing respect’, ‘subduing’ or ‘decciving’. But when it has any
+one of these three senses, the substitution is compulsory. Sce 1. 1. 70.
+
+> fetaaref 042 cana nt faz:, sate
+
+ah wPonete aa | fae earraeg Taree: CIP Sens Fee Pere orare Be aA
+.52. There is optionally the substitution of at
+
+in the room of the diphthong of the verb fig ‘ to suffer pain’,
+
+in the Chhandas.
+
+The word faurqr is understood here. Thus fad farang or Mraqu In
+secular literature we have Fret Geafa u
+
+=== PAGE 44 ===
+
+Bx. VI. Cu. 1. § 56] wt SUBSTITUTION. . 1063
+
+TAT TAS WAZ TNA WaT, |We:, TAs, (Ta) |
+qa: a8 ToRareaed marries ais ToT TT! ETE PYTTT BITRE BEET wae!
+53. There is optionally the substitution of atin the
+
+room of the diphthong of the root yt ‘to exert’ when pre-
+ceded by the preposition #7 and taking the affix Aq
+
+The affix a4 forming the Absolutive Participle is added by ITI. 4.
+22, and the word formed by it is repeated. Thus stqmrerrarer, or erqrtrerqeitea tt
+So also this affix is added by III. 4. 53: as, SEQTMe Mat or wEqqnt Tey
+“they are fighting with raised swords ’.
+
+Preqaeit nga nage u Re, eRe, otro
+aft u Reg ata na er era Poa sere wate
+64. There is optionally the substitution of at in
+the room of the diphthong of the roots ft and *§t when in
+the Causative.
+
+Thus arqafa, araaft (VII. 3. 36 for the addition of ¢) so also earcart
+
+or errata
+SHA MAT WS TTA TAA, Fras:
+aft: uo omar? Tia Va TARTAR TTTaTAAT Caer Ta TAA TT arTER OY Tat A
+FUT RTT TAT aE
+55. There is optionally the substitution of ay in
+the room of the diphthong of the root 4 in the causative,
+when meaning ‘to conceive an embryo ’
+
+The root # Adadi 39 means ‘to go, to conceive, to shine, to eat, and to
+desire’. The substitution takes place when it means ‘to impregnate or conceive’,
+Thus gt arar wt: garqafer or qaraaia = argaf ~The word waa means the
+receiving of the embryo which in course of time will lead to the birth of a child.
+
+aTszat wag wari naa, tz wT
+ORT wont Tat Prrrata a Bae TOT aetEl TATA ART, A Bee
+
+AIT APTS, AAA RIAL! aa TAaraey Ht wageaed wate TA Pore srrearceat
+wara
+
+56. There is optionally the substitution of at for
+the diphthong of the root wt ‘to fear’, in the Causative, when
+the fear is produced directly through the agent of the causa-
+tive.
+
+The words tr and fargr are understood here. The word ¥@ in the
+stra is the technical ¥] meaning eqarqea TatAH ( [. 4. 54 and-55.), .When the
+
+=== PAGE 45 ===
+
+1064 wr SUBSTITUTION. ~ ( Bk. VI. Cu. 1. § 58
+
+Hetu Agent himself is directly the cause of the fear, that fear is called the
+War “the fear caused by the Hetu”. Thus grat arqaz (VIL. 3. 36) or afi
+(VIL. 3. 40°. So also feat arqaa or xigaay This root takes the affixes of the
+Atmanepada, by I. 3. 68; and the augment gq is added by VII. 3. 40, which does
+not come when there is si substitution, for the ¥t in VII. 3. 40 is equal to #r+
+i.e. At ending in g; and means a ending in § takes the augment qu
+
+Why do we say ‘when the agent of the causative is the producer of the
+fear’? Observe af anet wraara tara: Here the fear is produced from the
+gisarar and not from Devadatta the Agent.
+
+Fret eaaat Go Tare Bree, ere
+ata home Ta, Rare eT Premio Aga fore ieee Urata
+wait ott qeat Pranentieait 4a 0
+57. There is invariably the substitution of at for
+
+the diphthong of the root fet ‘to smile’ in the Causative,
+when the astonishment is produced directly through the Agent
+
+of the Causative.
+
+The words @ and ears are both understood here. The word freq
+shows that the anuvritti offearqr ceases. Thus qrarafear ar frenrqaa uu Other-
+wise we have ofqaaa freragra | The word wa here is taken to mean erat
+i. e, ‘wondering, feeling astonished’, See I. 3. 68 where also this meaning has
+been extended to wq by its connection with ffeq together; the proper word ought
+to have been gqeRy in connection with féq, and ¥qAy in connection with 0
+
+afrentteraane 4c cat ate, cait:, ene, aa, ahaha vu
+BRT ager Prat, cae Weare, cerrathaterreereraraas aa THT SATA aT
+, 58. The augment ea (#) comes after the = of aH
+‘to create’, and eat ‘to sce’, when an affix beginning with a
+wa letter (the Mute and the Sibilant) follows: provided that
+it has no indicatry & 0
+
+Thus 84+ qq=]+A+U+Y=ag_ nom. sing. eer, so also ary, Wesay,
+Wer, HEM, xEeaT «This st augment prevents the guna substitute ordained by
+VII. 3. 86. But in erareft, and stgrdtq the Vyiddhi takes place in the Aorist,
+after the augment st had taken effect.
+
+Why do we say when beginning with a Mute or a Sibilant? Observe
+qaraa, tara with gn Why do we say not having an indicatory a? Observe
+ge, ge: before the affix su The forms of roots being exhibited in the sdtra,
+the rule applies when affixes relating to verbs come after these, and not when
+other affixes relating to noun follow. Thus wqpmara, Ferary IIcre the
+words are used as nouns rather than verbs, For the maxim tat @@qaet
+
+wereay Arg applies here,
+
+=== PAGE 46 ===
+
+BK, VI. Cu. 1.§. 61 J wit SUBSTITUTION. * 1065
+
+HGTTT ALTIATAATATA WGN TANT ll TATE, B, HA, T
+WaIea, ATATeATT I
+Aa: u aerate THA, Teas wT eT seITTET UTAATATAT TET Terese Te
+TAT SeATTRAATATT HAR
+59. The augment a comes optionally after the
+sg of those roots which are exhibited in the Dhatuptha as
+anudatta, when such roots end in a consonant having a = as’
+penultimate, and are followed by an affix beginning with a a.
+mute or sibilant and not having an indicatory &
+
+The word gqqq is understood here, so also geaafafa Thus war or
+affar or ant, HHT, @ftat or gAT ‘The roots gq ‘to satisfy’, and zqg,‘to be happy
+to release’, belong to Divadi class, sub-class Radh&di, and they take the aug-
+ment gg optionally (VII, 2. 45), so we have the three forms given above: for
+these roots are also anudatta in their first enunciation.
+
+Why do we say “which are anudatta in the Upades4 or the system’
+of grammatical instruction”? Observe ast, 12, Ten, from ae zaRT which
+is exhibited as s@rq, and because it has an indicatory & it takes ¥@_ optionally.
+Why do we say ‘having a penultimate @ letter’? Observe 4a, Bar Why
+do we say ‘before an affix beginning with a mute ora sibilant’? Observe
+
+org, eora | Why do we say ‘not having an indicatory @’? Observe qr,
+ew: Before affixes not beginning with a g% consonant this augment will not
+be inserted, as aforg, 74914 11
+atrtasrqfe go cart Ul atta, ere
+gr watt cerrat Rreaes eared orate Pree Praaa
+60. The word sity is found in the Chhandas.
+
+This word is another form of faq: and means ‘head’. This is not a
+substitute of far in the Vedas, for both forms are found therein. Thus deat’
+fe aa ara ate Gea, ae ait Iria In the secular literature there is only
+one form fat: w
+
+Saar nau wna a, a, wer
+ar: u etait Tat argaraeay a ae afeans fe ot PagIatar a atgect
+sat frewerntadta | eared ates wear: Prcuszer etearea sara
+ata aT RTT
+61. There is the substitution of this stem sfrt
+for fire when a Taddhita-affix beginning with q follows.
+
+The word #t& is understood here. This rule teaches substitution.
+The original for which this substitution comes is not given in the sQtra, we
+must infer it. The appropriate original is fra u Thus sftoar f& gear vara,
+
+=== PAGE 47 ===
+
+1066 Some SuBSTITUTION. ( Bx. VI. Cu. I. § 62
+
+wtfea: et: The affix aq is here added by IV. 3.55. The word eta
+retains its original form before this affix aq, the final sq not being replaced
+by anything else (VI. 4. 168). Why do we say when ‘a Taddhita-affix
+follows’? Observe far yeaa =fareata, here q is not a Taddhita affix, and so
+there is no substitution.
+
+Vért:—The substitution is optional when meaning ‘hair’, As ufd-
+ear: BT: or Frcear: Bar:
+© sire ee carat af, aire
+Qa: u area ares free: etearee erga Hae
+
+62. There is the substitution of sit for freq
+
+when a Taddhita affix beginning with a vowel follows.
+
+Thus gftatircdtstea = erfeaeitte: formed by adding the Patronymic affix aq
+(IV. 1, 96). So also euafara qa eitedtta | Had the word been sti (instead
+of wtf as taught herein) then it would have retained its final q before these
+affixes and would not have given the proper forms (VI. 4. 168). Again in
+forming the feminine of gritaetfe: by adding cag (IV. 1. 78), arises this difi-
+culty :—sa@ (a) isa Taddhita affix beginning with a, when this is applied to
+wifeasitfd:, we must apply the last rule and change the et into ett (for whey
+being the substitute of faq is prima facie a substitute of ett also for the
+purposes of that rule: VI. 1.61). The form which we get will be this, erfta-
+uate: + cag = erereteat a (VI. 1. 61)=erfeadirtear (VI. 4. 168). But this isa
+wrong form, the desired form is erfeasfteat How do we explain this? Thus
+enfea eine + cae = erferate + a (the x is elided by VI. 4. 148 and in the room of ¢ we
+substitute a sero or atqiza) Now this AdeSa becomes sthanivat to © thus
+the affix q not being directly applied to wg, because this zero intervenes, ett
+is not replaced by wf¥4 as required by VI. 1. 61, for it is not followed by an
+affix beginning with q but by a zero sthanivat to gsgaffix.
+
+This sOtra is not of Panini, but is really a Vartika raised to the rank
+
+of a stra by later authors,
+
+TAA LATE TPN ETH SH GT AASEOITAZ Weg TPT Ht
+UG, 7H, AA, ME, Ca, AY, at, Awa, TAT, aA, waa, Iqq,
+area, wa, Tafag Wl
+
+Fu org oa fear Are era Fre TER AT TT ABT USL ITH aT Teast UeTat
+ears verdana TH! IT TL AL ALE Ae TTL aT a aL Ua Te TE,
+Taz eT qua AAA
+
+Stew varity aeTRTETTEAMAT ate UTE ATTRA ATAT TTY
+
+are uate Tlareatfa TREAT

@@ -1,0 +1,419 @@
+{
+  "title": "the-4-vedas",
+  "discovered_at": "2026-07-13T17:06:13.295729+00:00",
+  "edition_count": 16,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Rig-Veda Sanhita",
+      "authors": [
+        "H. H. Wilson",
+        "Edward B. Cowell",
+        "William Frederick Webster"
+      ],
+      "year": 1850,
+      "languages": [
+        "san",
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "rigvedasanhitc01wils",
+        "rigvedasanhita01wils",
+        "rigvedasanhitac01websgoog",
+        "rigvedasanhitac00websgoog",
+        "rigvedasanhitac00unkngoog"
+      ],
+      "edition_count": 21,
+      "isbn": [
+        "1019914467",
+        "0342704540",
+        "1844530647",
+        "8170200709",
+        "1021466581",
+        "9781844530649",
+        "0342704524",
+        "101853833X",
+        "9781019914465",
+        "9780342704514",
+        "1021412651",
+        "9781022260115",
+        "9781021466587",
+        "9780342704538",
+        "9788170200703",
+        "0342704532",
+        "1018542647",
+        "9781018542645",
+        "1377802493",
+        "0524073058",
+        "9780342704521",
+        "1022260111",
+        "9780342704545",
+        "1376828510",
+        "9781018538334",
+        "9781021412652",
+        "9781376828511",
+        "9780524073056",
+        "0342704516",
+        "9781377802497"
+      ],
+      "publisher": [
+        "Cosmo Publications",
+        "W. H. Allen and co.",
+        "Tr\u00fcbner and co.",
+        "N. Tr\u00fcbner and co.",
+        "W. H. Allen and co. [etc]",
+        "Wm. H. Allen",
+        "Cosmo (Publications,India)",
+        "Creative Media Partners, LLC",
+        "Franklin Classics",
+        "Trubner & Co"
+      ],
+      "ol_key": "/works/OL8720692W"
+    },
+    {
+      "source": "open_library",
+      "title": "The Rig-veda with the commentary of Udgitha-Acharya (x, 5, 4- x, 34, 3)",
+      "authors": [
+        "Udg\u012btha"
+      ],
+      "year": 1935,
+      "languages": [
+        "san"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "D.A.-V. College Research Department"
+      ],
+      "ol_key": "/works/OL42662786W"
+    },
+    {
+      "source": "open_library",
+      "title": "Introduction to Vedic Knowledge : Volume 4",
+      "authors": [
+        "Parama Devi"
+      ],
+      "year": 2013,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "1482598329",
+        "9781482598322"
+      ],
+      "publisher": [
+        "CreateSpace Independent Publishing Platform"
+      ],
+      "ol_key": "/works/OL40000841W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.382745",
+      "title": "Descriptive Catalogue Of The Manucripts In The Govt Oriental Library Madras Vol 1 Vedas",
+      "creator": "Parthasarathi",
+      "year": 1937,
+      "language": "mul",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "the-fundamental-message-of-islam",
+      "title": "The Fundamental Message Of Islam",
+      "creator": "fmoislam@protonmail.com",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ShruthiPrasthana",
+      "title": "Sarvamula-Granthah:Shruthi-Prasthanam",
+      "creator": "",
+      "year": 1973,
+      "language": "Sanskrit",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2005078568",
+      "title": "The Interface between the Written and the Oral",
+      "year": 1989,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Harvey J. Graff",
+        "Jack Goody"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2165090314",
+      "title": "Design Science in the Information Systems Discipline: An Introduction to the Special Issue on Design Science Research",
+      "year": 2008,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "March March",
+        "Veda C. Storey"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Rig-Veda Sanhita",
+      "authors": [
+        "H. H. Wilson",
+        "Edward B. Cowell",
+        "William Frederick Webster"
+      ],
+      "year": 1850,
+      "languages": [
+        "san",
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "rigvedasanhitc01wils",
+        "rigvedasanhita01wils",
+        "rigvedasanhitac01websgoog",
+        "rigvedasanhitac00websgoog",
+        "rigvedasanhitac00unkngoog"
+      ],
+      "edition_count": 21,
+      "isbn": [
+        "1019914467",
+        "0342704540",
+        "1844530647",
+        "8170200709",
+        "1021466581",
+        "9781844530649",
+        "0342704524",
+        "101853833X",
+        "9781019914465",
+        "9780342704514",
+        "1021412651",
+        "9781022260115",
+        "9781021466587",
+        "9780342704538",
+        "9788170200703",
+        "0342704532",
+        "1018542647",
+        "9781018542645",
+        "1377802493",
+        "0524073058",
+        "9780342704521",
+        "1022260111",
+        "9780342704545",
+        "1376828510",
+        "9781018538334",
+        "9781021412652",
+        "9781376828511",
+        "9780524073056",
+        "0342704516",
+        "9781377802497"
+      ],
+      "publisher": [
+        "Cosmo Publications",
+        "W. H. Allen and co.",
+        "Tr\u00fcbner and co.",
+        "N. Tr\u00fcbner and co.",
+        "W. H. Allen and co. [etc]",
+        "Wm. H. Allen",
+        "Cosmo (Publications,India)",
+        "Creative Media Partners, LLC",
+        "Franklin Classics",
+        "Trubner & Co"
+      ],
+      "ol_key": "/works/OL8720692W"
+    },
+    {
+      "source": "open_library",
+      "title": "Modern English translation of the Rig Veda samhitaa",
+      "authors": [
+        "Prasanna Chandra Gautam"
+      ],
+      "year": 2012,
+      "languages": [
+        "eng",
+        "san"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9937243203",
+        "9789937243186",
+        "9937243211",
+        "9789937243193",
+        "9937243181",
+        "993724319X",
+        "9789937243209",
+        "9789937243216"
+      ],
+      "publisher": [
+        "Kulachandra Gautam Smriti Sansthan"
+      ],
+      "ol_key": "/works/OL23247005W"
+    },
+    {
+      "source": "open_library",
+      "title": "The Rig-veda with the commentary of Udgitha-Acharya (x, 5, 4- x, 34, 3)",
+      "authors": [
+        "Udg\u012btha"
+      ],
+      "year": 1935,
+      "languages": [
+        "san"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "D.A.-V. College Research Department"
+      ],
+      "ol_key": "/works/OL42662786W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "allvedas_202504",
+      "title": "all vedas in different scripts",
+      "creator": "sayantan roy",
+      "year": 2024,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "Metadata",
+        "Text"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "vedon-ka-yatharth-svarup-pt-dharma-dev-vidya-martand",
+      "title": "Vedon Ka Yatharth Svarup Pt Dharma Dev Vidya Martand",
+      "creator": "Pt Dharma dev vidyamartand",
+      "year": null,
+      "language": "mul",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "yajurveda-samhita-vol-1-with-english-translation-by-swami-satya-prakash-saraswat",
+      "title": "Yajurveda Vol 1 By Swami Satya Prakash Saraswati in English",
+      "creator": "",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2005078568",
+      "title": "The Interface between the Written and the Oral",
+      "year": 1989,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Harvey J. Graff",
+        "Jack Goody"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2165090314",
+      "title": "Design Science in the Information Systems Discipline: An Introduction to the Special Issue on Design Science Research",
+      "year": 2008,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "March March",
+        "Veda C. Storey"
+      ]
+    }
+  ]
+}

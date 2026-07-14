@@ -1,0 +1,315 @@
+{
+  "title": "Sushruta-Samhita",
+  "discovered_at": "2026-07-13T15:25:34.791808+00:00",
+  "edition_count": 16,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "The Sushruta Samhita",
+      "authors": [
+        "Kaviraj Kunjalal Bhishagratna"
+      ],
+      "year": 2006,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "borrowable",
+      "public_domain": false,
+      "ia_identifiers": [
+        "sushrutasamhitae0000susr"
+      ],
+      "edition_count": 1,
+      "isbn": [
+        "8130702770",
+        "9788130702773"
+      ],
+      "publisher": [
+        "Cosmo (Publications,India)"
+      ],
+      "ol_key": "/works/OL9259112W"
+    },
+    {
+      "source": "open_library",
+      "title": "An English translation of the Sushruta samhita",
+      "authors": [
+        "Susruta"
+      ],
+      "year": 1907,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "englishtranslati02susr"
+      ],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [],
+      "ol_key": "/works/OL12316120W"
+    },
+    {
+      "source": "open_library",
+      "title": "Sushruta Samhita",
+      "authors": [],
+      "year": null,
+      "languages": [],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "8891013099",
+        "9788891013095"
+      ],
+      "publisher": [],
+      "ol_key": "/works/OL34615856W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "chapter-27-psychedelics-v-3-4-1",
+      "title": "Chapter 27 Psychedelics V 3 4 1",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ejvg_sushruta-samhita-part-4-by-sushruta-hindi-commentary-and-translation-by-pandit-m",
+      "title": "Sushruta Samhita Part 4 By Sushruta Hindi Commentary And Translation By Pandit Muralidhara Sharma Sanskrit Hindi Ayurveda Medicine 1899 Mumbai Shri Venkateshwar Press",
+      "creator": "Shri Venkateshwar Press",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "sushrutasamhitamuralidharsharmavenkateswarasteampressreprintcolour_202003_943_z",
+      "title": "Sushruta Samhita Muralidhar Sharma Venkateswara Steam Press Reprint Colour",
+      "creator": "Shefali Panikker",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W639208285",
+      "title": "An English translation of the Sushruta Samhita : based on original Sanskrit text",
+      "year": 1907,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Kaviraj Kunjalal Bhishagratna"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W585013455",
+      "title": "SURGICAL PROCEDURES IN SUSHRUTA SAMHITA",
+      "year": 2011,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Singh R. K"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "The Sushruta Samhita",
+      "authors": [
+        "Kaviraj Kunjalal Bhishagratna"
+      ],
+      "year": 2006,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "borrowable",
+      "public_domain": false,
+      "ia_identifiers": [
+        "sushrutasamhitae0000susr"
+      ],
+      "edition_count": 1,
+      "isbn": [
+        "8130702770",
+        "9788130702773"
+      ],
+      "publisher": [
+        "Cosmo (Publications,India)"
+      ],
+      "ol_key": "/works/OL9259112W"
+    },
+    {
+      "source": "open_library",
+      "title": "An English translation of the Sushruta samhita",
+      "authors": [
+        "Susruta"
+      ],
+      "year": 1907,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "englishtranslati02susr"
+      ],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [],
+      "ol_key": "/works/OL12316120W"
+    },
+    {
+      "source": "open_library",
+      "title": "Sushruta Samhita",
+      "authors": [],
+      "year": null,
+      "languages": [],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "8891013099",
+        "9788891013095"
+      ],
+      "publisher": [],
+      "ol_key": "/works/OL34615856W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "chapter-27-psychedelics-v-3-4-1",
+      "title": "Chapter 27 Psychedelics V 3 4 1",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ejvg_sushruta-samhita-part-4-by-sushruta-hindi-commentary-and-translation-by-pandit-m",
+      "title": "Sushruta Samhita Part 4 By Sushruta Hindi Commentary And Translation By Pandit Muralidhara Sharma Sanskrit Hindi Ayurveda Medicine 1899 Mumbai Shri Venkateshwar Press",
+      "creator": "Shri Venkateshwar Press",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "sushrutasamhitamuralidharsharmavenkateswarasteampressreprintcolour_202003_943_z",
+      "title": "Sushruta Samhita Muralidhar Sharma Venkateswara Steam Press Reprint Colour",
+      "creator": "Shefali Panikker",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W639208285",
+      "title": "An English translation of the Sushruta Samhita : based on original Sanskrit text",
+      "year": 1907,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Kaviraj Kunjalal Bhishagratna"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W585013455",
+      "title": "SURGICAL PROCEDURES IN SUSHRUTA SAMHITA",
+      "year": 2011,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "Singh R. K"
+      ]
+    }
+  ]
+}

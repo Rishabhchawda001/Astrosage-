@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-07-11T17:02:11Z",
+  "elapsed_seconds": 1272.0,
+  "expected_files": 755,
+  "downloaded": 709,
+  "already_existed": 44,
+  "skipped": 0,
+  "failed": 2,
+  "files_on_disk": 751,
+  "total_size_mb": 15690.8,
+  "total_size_gb": 15.32,
+  "hashes_computed": 680,
+  "errors": [
+    {
+      "file": "Copy of Payment options",
+      "error": "download_failed"
+    },
+    {
+      "file": "Payment options",
+      "error": "download_failed"
+    }
+  ]
+}

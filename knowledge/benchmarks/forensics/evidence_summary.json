@@ -1,0 +1,44 @@
+{
+  "total_pdfs": 599,
+  "total_documents_processed": 589,
+  "total_pages_sampled": 79078,
+  "page_class_distribution": {
+    "scanned_image": {
+      "count": 40678,
+      "pct": 51.44
+    },
+    "native_text": {
+      "count": 28520,
+      "pct": 36.07
+    },
+    "ocr_overlay": {
+      "count": 9290,
+      "pct": 11.75
+    },
+    "blank": {
+      "count": 401,
+      "pct": 0.51
+    },
+    "mixed_content": {
+      "count": 189,
+      "pct": 0.24
+    }
+  },
+  "document_class_distribution": {
+    "hybrid": 20,
+    "native_text": 226,
+    "scanned_image": 259,
+    "timeout": 42,
+    "ocr_overlay": 39,
+    "mixed_content": 2,
+    "error": 1
+  },
+  "native_text_pct": 36.07,
+  "scanned_pct": 51.44,
+  "ocr_overlay_pct": 11.75,
+  "mixed_pct": 0.24,
+  "blank_pct": 0.51,
+  "processing_time_sec": 3583.6,
+  "conclusion": "DISPROVED: Significant scanned content. The 'zero scanned' claim is FALSE.",
+  "verdict": "disproved"
+}

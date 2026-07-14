@@ -1,0 +1,53 @@
+{
+  "recommended_pipeline": "PyMuPDF (native) + pymupdf (scanned) + pymupdf (parsing)",
+  "pipeline_description": "Native PDF → PyMuPDF (direct text extraction)",
+  "alternative_pipeline": "Scanned PDF → Tesseract/PaddleOCR → Docling/PyMuPDF",
+  "ocr_engine_rankings": [
+    {
+      "engine": "pymupdf",
+      "composite_score": 100.0,
+      "avg_time_s": 1.934,
+      "avg_chars": 491577,
+      "avg_confidence": 1.0,
+      "success_rate": 100.0,
+      "tests": 23
+    },
+    {
+      "engine": "tesseract",
+      "composite_score": 70.8,
+      "avg_time_s": 75.622,
+      "avg_chars": 25579,
+      "avg_confidence": 0.766,
+      "success_rate": 100.0,
+      "tests": 3
+    }
+  ],
+  "parser_rankings": [
+    {
+      "parser": "pymupdf",
+      "avg_time_s": 1.195,
+      "avg_headings": 896.2,
+      "avg_verses": 43.9,
+      "structure_rate": 87.5,
+      "success_rate": 100.0
+    }
+  ],
+  "rationale": {
+    "native_pdfs": "PyMuPDF provides direct, lossless text extraction — no OCR overhead",
+    "scanned_pdfs": "pymupdf selected for highest composite score (quality + speed + reliability)",
+    "parser": "pymupdf selected for best structure preservation",
+    "tradeoffs": "PaddleOCR offers best Hindi/Sanskrit quality but slower; Tesseract is fastest for English",
+    "maintenance": "PyMuPDF is mature and well-maintained; OCRmyPDF wraps Tesseract with PDF-aware workflow"
+  },
+  "hardware_requirements": {
+    "cpu_only": "PyMuPDF, Tesseract, OCRmyPDF — no GPU needed",
+    "gpu_optional": "PaddleOCR benefits from GPU but works on CPU",
+    "memory_minimum": "4GB RAM for small PDFs, 16GB for large (>100MB)",
+    "disk_space": "2-5GB for OCR models (PaddleOCR ~2GB, Tesseract ~200MB)"
+  },
+  "benchmark_summary": {
+    "total_ocr_tests": 26,
+    "total_parser_tests": 16,
+    "sample_count": 25
+  }
+}

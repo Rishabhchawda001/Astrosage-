@@ -1,0 +1,51 @@
+{
+  "title": "101-Valmiki-Ramayan-Telugu",
+  "discovered_at": "2026-07-13T11:53:02.360986+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W460587",
+      "title": "That\u2019s what She Said: Sita in the Lives and Imaginations of Hindu Women: Choice, Ideals and the Oral Tradition.",
+      "year": 2012,
+      "is_oa": true,
+      "oa_url": "https://spectrum.library.concordia.ca/974862/1/Delaye_MA_F2012.pdf",
+      "authors": [
+        "Ashleigh Delaye"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2979456265",
+      "title": "Hindi Christian Literature in Contemporary India",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9780367330637&type=googlepdf",
+      "authors": [
+        "Rakesh Peter-Dass"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W460587",
+      "title": "That\u2019s what She Said: Sita in the Lives and Imaginations of Hindu Women: Choice, Ideals and the Oral Tradition.",
+      "year": 2012,
+      "is_oa": true,
+      "oa_url": "https://spectrum.library.concordia.ca/974862/1/Delaye_MA_F2012.pdf",
+      "authors": [
+        "Ashleigh Delaye"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2979456265",
+      "title": "Hindi Christian Literature in Contemporary India",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9780367330637&type=googlepdf",
+      "authors": [
+        "Rakesh Peter-Dass"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4096 @@
+=== PAGE 1 ===
+
+Gackwad’s Oriental _ Series
+—
+
+‘Published under the Authority
+of the Mabaraja Sayajirao
+University of Baroda, Baroda
+
+General Editor :
+A. N. Jani,
+MA,, Ph.D., D.Litt,
+Kavyatirtha,
+Director, Oriental Institute
+
+No, 163
+
+=== PAGE 3 ===
+
+VRDDHAYAVANAJATAKA
+
+OF
+MINARAJA
+Vol. I
+
+Edited by
+David Pingree,
+Ph.D.
+
+Professor of the History of Mathematics,
+Brown University, U.S.A.
+
+ns0RAO Y
+YY
+cf a
+=
+%
+Rea TA
+
+Oriental Institute
+Baroda
+1976
+
+=== PAGE 4 ===
+
+First Edition : 1976
+Copies 500
+
+Published with the Financial Aid of the University Grants Commission,
+the Government of Gujarat and the M. S. University of Baroda
+
+Price Rs. 64/-
+
+Copies can be had of :—
+
+The Manoger,
+UNIVERSITY PUBLICATIONS SALES UNIT,
+M. S. University of Baroda, Press, (Sadhana Press ),
+Near Palace Gate, Palace Road, Baroda-390001.
+
+Printed by Shri R. J. Patel, Manager, The Maharaja Sayajirao University of Baroda Press
+(Sadhana Press ), Near Palace Gate, Palace Road, Baroda, and published by Dr. A. N. Jani,
+Director, Oriental Institute, The Maharaja Siyajirao University of Baroda, Baroda,
+December, 1976.
+
+=== PAGE 5 ===
+
+FOREWORD
+
+I am very happy to place before the world of scholars Vol. Il of the
+Vrddhayavanajataka of Minaraja critically edited by Dr. David Pingree of
+Brown University ( U.S.A. ).
+
+The present volume contains chapters 40-71 of the text and the four
+appendices giving later insertions in the text at several places.
+
+Regarding the importance of the Vrddhayavanajataka, I find I have already
+said. what I wished to in the Foreword to Vol. I and I do not see any reason in
+repeating it here.
+
+I am particularly happy that it has been possible to present a better text of
+Vol I. than was the case for Vol. I.
+
+I thank Dr. Pingree for his meticulous care and wholehearted co-operation
+for preparing the present critical edtion. We eagerly look forward to Vol. III
+in which Dr. Pingree has promised to give a full introduction to the present text,
+elucidating the early stages in the development of Asrology, particularly in
+Western India, and throwing valuable light on cultural relations between ancient
+Greece and India in this field.
+
+Finally, I take the opportunity to express our grateful appreciation of the
+financial assistance given by University Grants Commission and the Government
+of Gujarat.
+
+Oriental Institute, A. N. JANr
+Baroda. Director
+November 26, 1976
+
+=== PAGE 7 ===
+
+PREFACE
+
+This, the second volume of Minar4ja’s Vrddhayavanajataka, cortains the
+remainder of the text as it is preserved in the manuscripts—that is to say,
+adiydyus 4)—71. There are a number of lacunae in these adh) dyas, which the
+systematic arrangement of Minaraja’s work allows one to detect without trouble;
+these have been noted in the edition. One suspects that there are others as well,
+and that some of the text here edited was added to the original at some inter-
+mediate time between MinarAja and the copying of the earliest manuscript in the
+fifteenth century; but nothing regarding these matters can be positively affirmed.
+
+The text as edited and copied will, I hope, prove to be both legible and
+intelligible. 1 have usually resisted radical emendations, preferring to mark
+particularly suspicious passages with a dagger. Others might wish to employ
+that symbol more generously than have I. The text displays several imper-
+fections in language and in prosody; I believe Minardja is often at fault rather
+
+than the scribes.
+
+The manuscripts upon which the text contained in this volume is based are
+the following :
+
+A. MS 558 of 1899/1915 in the Bhandarkar Oriental Research Institute,
+Poona.
+
+B. MS 104 of 1873/74 in the same library.
+
+C. MS 211 of 1883/34 in the same library.
+
+D. MS 11328 in the Oriental Institute, Baroda.
+
+F. Copy of MS 2499 in the Vishveshvaranand Vedic Research Institute,
+Hoshiarpur.
+
+G. MS 349 of 1882/83 in the Bhandarkar Oriental Research Institute,
+Poona.
+
+I. MS Sanskrit 2230 in the India Office Library, London.
+L. Or. 5244 in the British Museum, London.
+
+O. Wilson 427 in the Bodleian Library, Oxford.
+
+P. MS Sanscrit 1736 in the Bibliothéque Nationale, Paris.
+
+R. MS G 3141 in the Asiatic Society, Calcutta.
+
+S. Copy of MS 9503 in the Scindia Oriental Institute, Ujjain.
+W. Copy of MS 8113 in the same library.
+
+=== PAGE 8 ===
+
+First Edition: 1976
+Copies 500
+
+Published with the Financial Aid of the University Grants Commission,
+the Government of Gujarat and the M. S. University of Baroda
+
+Price Rs. 64/+
+
+Copies can be had of :—
+
+The Manoger,
+UNIVERSITY PUBLICATIONS SALES UNIT,
+M. S. University of Baroda, Press, (Sadhana Press ),
+Near Palace Gate, Palace Road, Baroda-390001.
+
+Printed by Shri R. J. Patel, Manager, The Maharaja Sayajirao University of Baroda Press
+( Sadhana Press ), Near Palace Gate, Palace Road, Baroda, and published by Dr. A. N. Jani,
+Director, Oriental Institute, The Maharaja Szyajirao University of Baroda, Baroda,
+December, 1976,
+
+=== PAGE 9 ===
+
+FOREWORD
+
+I am very happy to place before the world of scholars Vol. Il of the
+Vrddhayavanajdtaka of Minaraja critically edited by Dr. David Pingree of
+Brown University ( U.S.A. ).
+
+The present volume contains chapters 40-71 of the text and the four
+appendices giving later insertions in the text at several places.
+
+Regarding the importance of the Vrddhayavanajataka, I find I have already
+said. what I wished to in the Foreword to Vol. 1 and I do not see any reason in
+repeating it here.
+
+I am particularly bappy that it has been possible to present a better text of
+Vol LI. than was the case for Vol. I.
+
+I thank Dr. Pingree for his meticulous care and wholehearted co-operation
+for preparing the present critical edtion. We eagerly look forward to Vol. III
+in which Dr. Pingree has promised to give a full introduction to the present text,
+elucidating the early stages in the development of Asrology, particularly in
+Western India, and throwing valuable light on cultural relations between ancient
+Greece and India in this field.
+
+Finally, I take the opportunity to express our grateful appreciation of the
+financial assistance given by University Grants Commission and the Government
+of Gujarat.
+
+Oriental Institute, A. N. JANr
+Baroda, Director
+November 26, 1976
+
+=== PAGE 11 ===
+
+PREFACE
+
+This, the second volume of Minar4ja’s Vrddhayavanajaétaka, cortains the
+remainder of the text as it is preserved in the manuscripts—that is to say,
+adiydyus 4)—71. There are a number of lacunae in these adh) 4yas, which the
+systematic arrangement of Minaraja’s work allows one to detect without trouble;
+these have been noted in the edition. One suspects that there are others as well,
+and that some of the text here edited was added to the original at some inter-
+mediate time between Minaraja and the copying of the earliest manuscript in the
+fifteenth century; but nothing regarding these matters can be positively affirmed.
+
+The text as edited and copied will, I hope, prove to be both legible and
+intelligible. 1 have usually resisted radical emendations, preferring to mark
+particularly suspicious passages with a dagger. Others might wish to employ
+that symbol more generously than have I. The text displays several imper-
+fections in language and in prosody; I believe Minardja is often at fault rather
+than the scribes.
+
+The manuscripts upon which the text contained in this volume is based are
+the following :
+
+A. MS 558 of 1899/1915 in the Bhandarkar Oriental Research Institute,
+Poona.
+
+B. MS 104 of 1873/74 in the same library.
+
+C. MS 231 of 1883/34 in the same library.
+
+D. MS 11328 in the Oriental Institute, Baroda.
+
+F. Copy of MS 2499 in the Vishveshvaranand Vedic Research Institute,
+Hoshiarpur.
+
+G. MS 349 of 1882/83 in the Bhandarkar Oriental Research Institute,
+Poona.
+
+I. MS Sanskrit 2230 in the India Office Library, London.
+L. Or. 5244 in the British Museum, London.
+
+O. Wilson 427 in the Bodleian Library, Oxford.
+
+P. MS Sanscrit 1736 in the Bibliothéque Nationale, Paris.
+
+R. MS G 3141 in the Asiatic Society, Calcutta.
+
+S. Copy of MS 9503 in the Scindia Oriental Institute, Ujjain.
+W. Copy of MS 8113 in the same library.
+
+=== PAGE 12 ===
+
+viii
+
+In volume three of this edition these manuscripts, those used for volume
+one, and some others that | have examined will be more fully described. That
+volume will also include an historical and technical introduction to Minarja’s
+work, editions of some shorter texts related to the Vrddhayavanajdtaka, and an
+index of verses,
+
+Now it is my most pleasant duty to express my sincére thanks to the many
+libraries whose manuscripts I have been allowed to consult, and to the Oriental
+Institute at Baroda, and especially its former Director, Dr. B. J. Sandesara, for
+having agreed to include the Vrddhayavanajdtaka in the Gaekwad’s Oriental
+Series. 1 also thank Dr. A. N. Jani, present Director for showing personal
+interest in the printing of the present work. I also thank my young friend Shri
+P. H. Joshi, Research officer, Oriental Institute, for assiduously going through
+the tedious task of correcting the proofs of the present work.
+
+But I am paticularly indebted to Dr. U. P. Shah, who bas for many years
+encouraged me to complete this edition. I hope that he,and the many others
+who have aided my studies, will find it useful for elucidating not only the early
+stages in the development of astrology in India, but also the society of Western
+India during the domination of Kgatrapas. But I anticipate volume three,
+
+Brown University, David Pingree
+Providence, R. I., U.S.A.
+June 24, 1976
+
+=== PAGE 13 ===
+
+“wy
+wR
+
+wi
+we
+wy
+ve
+ww
+we
+ws
+Ke
+4a
+wR
+4a
+ae
+44
+
+“e
+
+earerra Tea:
+
+saprranena:
+
+serareraaarea ra:
+egearraa areata:
+sqafraa reat:
+saprraareana:
+
+sprperrparena:
+
+a
+
+“eq
+
+<3
+a4
+
+are
+
+qe
+qeu
+ar
+
+aR
+
+Bea
+ave
+aus
+Jee
+aw
+
+RW
+
+=== PAGE 14 ===
+
+ke ataras amen: Rade
+4S, Sarufitgereanra: Ww
+fo oy TRAIN: cE
+a »  AARSNAT: RR
+§,, Usain: ae
+8 Tegra: ase
+QA sagt: ay
+QQB aman: Fig
+§¥ aeMatena: ass
+&4%  afteqaaraa: Us
+qt gwar: as US
+Qe Raprererrar: lve
+Qe arReaTera: qe
+48 ara: Yer
+ve grafearara: eR
+v9) Paearena: yey
+9 Appendix—I Reh
+z ” W Res
+a ” mr we
+v » Iv We
+
+=== PAGE 15 ===
+
+nats a
+Hera
+TEATIMATF |
+fgeteay aren: |
+
+aa
+
+FATS ATT: Ut Vo Ul
+wraftad aaa: gag:
+aaa Ae fed BaATT |
+WH FS A WAT
+fdas aon ata 8
+aaa amt faa: sat
+wrrfra: TI ATL |
+qairg gai Fae
+afrgt Gale a 12
+al wae afe wrrded
+ae cae fae FART |
+dey as aa fiat
+fafa aesagsee 3
+ABCFILORSW
+before 1 BFR have:
+ates Aaornny
+ain && saata gary
+W has:
+Fates FafFerrsae
+aia e& suafa gant
+aa Fae) AM TT
+
+adtetter wae 7e
+ra aati L id *Ari BILW 2a Rave qt L 2b araftur: W
+
+qa LS 3b sagt F
+
+=== PAGE 16 ===
+
+cy eer
+
+afta aah fara: sat
+we at Deqad ate7 |
+em sald as at
+afega auat ata ie
+gartad ara fet
+at Tat ARIANA I
+aes Aaat ate
+qdaad aad eA 4
+arataaeitened fet
+wate aes ate THOTT |
+TATA TORTS
+ae eatin GheAT HK
+Ataiaa: asd fet
+TETAS TAAL ATA |
+wa dt fasanats
+faeaot AraTaTAT U9 tl
+arartaa: stand fer
+at cad afameaay |
+anfas ayaa
+fia saat AAA TS
+sHaraa: aad fer
+at aa afea gery |
+sins aitad ga
+as way ard 713 1
+ABCDFILORSW
+4a 7a W 4b Bem L 4c atanfi Sei L aiIS 4d 2a” S
+gc dat Laie A, atts W ¢a D begins with fem 6b gh L
+aext ABCDILOSW 6c aar° FR gea° BCDFIW 6d ae: BCIO @ an
+
+L 7a dered L 8b-9a om. F 8c am W, wn? D Sc-d °g¢é—saat om,
+A 8d satatB gb-10a om, BW gb wei LS od waist L, gach A
+
+=== PAGE 17 ===
+
+reaftaitseare: | t
+
+grad: faa feat
+at cad faargery |
+wareaes faut: atta
+BAT TBA TU Lo I
+
+araaa: saad fe
+
+waa ah gad Raga 1
+gaa nfraged
+
+aaitiart faa TAT Le
+
+araPaa: Aaga Fert
+
+Bae a Was TI
+faarantts feeargart
+
+Bar Tava TAIT WR
+
+SrrPad tayehiert
+
+ad cae afore |
+eres aaRt TATA
+
+grice Grad 3 22 1
+
+aA Ta TTS ery
+
+at saa watifearry |
+TM FAH BIST
+
+radat fat AAT Ne Ul
+
+ABCDFILORSW
+
+rob fram? FR rod gw4° PF xrrb gat F fav S r1c g2° I aed
+ABC 11d ‘Rent BDLW, “frat ACI, Peart O, Pre FR rad sar?
+CD gid B, a7 W 13c unas I wast BFR, we W 13d geé°C
+14c sar F 14d fiwta BLW
+
+=== PAGE 18 ===
+
+e TATA
+
+gaa ae aan feat
+
+waa wt wa AAAT |
+sara Frege
+
+TAT FATGTHT | 4 Ul
+Sranfead Faller
+
+at saAshiTat gery |
+area faarart
+
+arated Baa aaNTz 28
+
+aa gat wast feat
+at cad Tse |
+avaqsd agaracet
+
+wartad amanfad 4 U1 29 Il
+
+Sienfaa: qaqa fer
+
+aa saa qaeraaea |
+Deas Fea
+
+fadafaa saarfteaa 8 1
+
+sharaal afaratg yr:
+
+Rafa aa Tete |
+agdge gai aay
+
+Read WeAAM FU LSU
+
+ABCDFILORSW
+
+15a-b “m—agei om, A 5b m8 fad FRA 15d “a F 16b
+faga W fut W, gai Seed W rod saad O, saraaat F o17c giz’ BFR
+caraes FR 17d °aaafad om. A 18c gaan’ B, eaaa’ I ME L, *ae I,
+°Rra W 19a afta qige: F 19b qt O
+
+=== PAGE 19 ===
+
+swenftwtisvara: | 4
+
+sartaa: qagat ea
+
+at sqasfiganaraay |
+ararfaelt ear faett
+
+ararag aeafeed FT Ro Ul
+gritan: aight AeA
+
+at sae aagigaras |
+RT FIA WANT
+
+are wat ayaa DAT RE
+
+a4 fafasea: 1
+wegaer aft ede
+at cada ag |
+
+Srinagar
+at aad afaafia F122 Ul
+WRAL
+
+wrgsiar afe werdter
+
+at s@afa aarrttey |
+gorges afafraae
+
+aera afer ata 1 R411
+
+ABCDFILORSW
+
+20b-21a om, CD, but C adds in marg. 20d smrag F *aftopa W,
+°qftet B 21a: qiad feat ge W arb cast FR 21c ga¥ C, gael in marg,
+C after 21: afi staqasat omiguefaecs: L, eft ttacaae fadiafrecs aqat W
+22c eratrm® S “gf? FR 22d gad W 23 om, cod. 24b-25a om. B order
+in CDL: 24a, 25b-d, 25a, 24b-d
+
+=== PAGE 20 ===
+
+‘ qeerenarss
+wrayer aft amet
+at spaPa para |
+
+ganas
+ware TIT TW I
+
+wtrearer af& wade
+at spaifa BIBI |
+
+prea tafsafsarse
+Te 8s yMATTHT 1 28 Ul
+
+qafe@rar aff water
+ad celta Tea |
+
+aaigt sant ga
+saferai wid + oll
+
+aafestar af afaar: -
+at aa naga sag:
+
+sragena f& aaiared
+BH RG saaATETA: Re i
+
+ABCDFILORSW
+
+26 before 25 in S 25b gmé° F, gad I 25c °af&° FR, “af&® L,
+‘aft’ B, “wfe° D, *af? W 25d aa? FR °dad F 26a famtan D 26c °faafa-
+ati L, °Raféat FW, faafia aC 27a quieter F 27c aqat: LW, aaret B
+27d %° D “deat L 28b aa L wéed F sdf W 28c aad” AW, axdar®
+C, aim? L, agin’ F, adn’ Sd ABDR g 28d “sqn® FR, “Amit: W,
+“gat: D, gut: C
+
+=== PAGE 21 ===
+
+wearfttitserre: 1 .
+
+aateger af afedear
+at oepafra at Tar |
+whfaes fafeenfied
+_ genes aeaadrg Tu A8 tI
+
+ated ae arrdert
+
+at spate farsa |
+nargd Iagz-faaw
+
+fdas afta a 80H
+
+adastar af erdeu
+
+at spafta feqrartay |
+eaptanhgqaras
+
+sas worms TAL A
+
+adagm aff afin: g-
+At gates fatiates |
+at va 3 ot fat
+fret aeraiger eq 1132 Ul
+
+qigahe af ert
+
+at s@afa afigarery |
+sareafad seat oh
+
+aes taaioT AMIR 1 RA
+
+ABCDFILORSW
+
+2ga aftant L 2gb att] at O 29 Carat S 3ob fenk® FR 31c
+sient? ABCDFIORSW, “stent? L 32d wi FI 33b xftcart W 33¢
+sqnqr?RS, seq’ F, sara; CDILO 33d gata W
+
+=== PAGE 22 ===
+
+é qosrerraget
+
+waerager fet
+
+at ogifa gore |
+arargamfaggetas
+
+caftas gaagaeT 1 Re
+
+qaintsarégar Rat
+
+Fis meh arg |
+sara Prgerent
+
+Hareaanes ata 84
+
+fargaéga fret
+Fifa wa a adirafer |
+var afte aaah
+Barat orf arr AE
+
+warera a wade
+
+at spa gana |
+TIPO GATT
+
+freaag Afar a 89 tt
+
+ABCDFILORSW
+
+34a qatatem ABCDFILORSW 34b mm W 34c “ge? F gf?
+© ‘Prt FILORSW 34d aqaa? W 35b-36a om. BLW 35d ftatt AD,
+état F 36d at F order in W : 36, 30a, 31b-32d, 40a-43a,
+at sedi agaiae
+crm gaa farang
+aranfadts fam eat
+37a-40a, 46b
+
+=== PAGE 23 ===
+
+weatftitseara: | 8
+
+warstar aff eae
+
+at o@ifra garkana |
+arifas gant gy
+
+Ralgua ageled FW Re
+
+aaRyR ae aadea:
+
+gata val aggferraa |
+feared saat Ferg
+
+sais sifaaaad 3 890
+
+FARA ae Baa
+at spate aarfadag |
+fadaite seraard .
+warfare afaafsa a vo tl
+
+araastar af eadeat
+at opafea aar ett |
+
+rena saat scar
+sqata aGd we ek
+
+ABCDFILORSW
+
+38b ata? IL 38c.area F sored LW 39a amd S 39b agurit”
+F 39c: aaa qth gata LW 3G¢ faced FRS, fade B, Pret CD den”
+F, fava" CD, 8° AS 40a sada C, ameama W 4oc Rt LW gey®
+CDFW 4ta wmieiat F 4id maf FRS, wart A sft jar C,
+ag D
+
+=== PAGE 24 ===
+
+ae qerarsras
+
+way ae wadear
+
+at sqafa ateatay |
+gRITs qaTaITS
+
+nerd etd ata eR
+saree afe wade
+
+at sqafa aganag |
+fafiers faangers
+
+seeded fad wag 23
+
+waiter rare
+
+faerie age fraraq 1
+yar sera
+
+gars teres gate ee ti
+
+sarearsgar fee
+at ogafra aqaaay |
+fiat ga saaIeg
+aal fast Has FIA es UI
+
+wag teareger fer
+
+at sqafa gardaraa |
+TAR TTA
+
+caratd aad gafey tek tl
+
+ABCDFILORSW
+
+42c wen® L 42d gfd—43b °mnd in marg.O 42d xftt B, gfat
+CD 43b-46a om. W 43d facat FRS 44a “aftara L 4q4c qereae?
+FRS, wera? L Cari L 44d aii BFRS sf¢ L 45d g¥a CD, swté
+L 4ob gd? W 4c ua BLW, aa? FRS ‘Pit L 46d gyft F
+
+=== PAGE 25 ===
+
+wearfétiscara: | a
+
+armgstar af eaten
+
+at opafa var faites |
+faeaerafafae: ata
+
+ward fea gas Faz ee I
+
+amagar aff wadear
+
+at opafa Raretry |
+ferent aaa
+
+fraad avd gre ee I
+
+agai af& ade
+at oeafea ada 877
+arts FReTTT
+aera sgfive Tues
+aarieargrpazer:
+gaa wa gaaraway |
+at ganiiga: ata
+ae fgsrray Baar Mo I
+
+Ferateadgar aes
+
+at agafra array |
+afreand aaa +
+
+BAGG TATA T UML At
+
+ABCDFILORSW
+
+48 om. LW 48b fasta’ C 48c Saad R, “a FS 49c *ramg’ B
+ger AS, Fee’ C 4od “Arivé FS, favs R 50a °qfH? W CR: F 50b
+area’ W 50c “ga: L 51c-53b om, BLW 51c °ark $ .
+
+=== PAGE 26 ===
+
+42 qaavatar’
+
+Rrrgesarégar Pret
+at sgafea afaaeer |
+P + rniiets .
+eavafagrat ard 4? I
+asaya af sada
+at sqaFa TATA |
+gente afiareate
+waa TATA 43 I
+
+asfaata aff eadear
+
+at sgafta Bee |
+Rauf shaaeaher
+
+ahrgt wast TATAPL 4? II
+
+Uma afe wares
+
+at seated auiateq |
+ararfas arrest
+
+feand Penaraaey 44 1
+
+shargtersgar Fer
+
+at ogifa gates |
+arearas avanfanetar
+
+faafsia Bawa: a 48 Hl
+a4 Faefever: ti
+
+ABCDFILORSW
+
+52b afin’ FRS 53c ea LW 53d s4eiti FS squraamd L 54a
+ste’ W order in W: 55b-d, 55a, 54b-d 54b ama’ F, aufa’O, ert?
+B, 3 ata® W, tatfa’ L 54d aunt D 5sa gag® W 55b atta’ om. O 55¢
+‘ea’ D 55d dat’ FS 5ta stasatsm° F 50b afafea aC, aftaté W 56c
+wean’ BIO col. aff aaa Asedin dq W, eff stzaae° Agate: L
+
+=== PAGE 27 ===
+
+sweatitattsware: | we
+
+ferrarga fet
+Bafa aed agaTAITT |
+
+earawatd az i 4s
+
+weqtarasqsar
+at seta aie |
+aargt wiafa HaeF
+fanaa fed BIEL NM I
+
+aeegtiergea sare
+
+at s@afea fierdear: |
+wet aaa Te
+
+waaay fed a Ate 42
+
+qiegarrsgar Pret
+at o@ifa camara |
+wares goast ged
+Bs AYRE WARE TU Ro Ul
+
+ABCDFILORSW
+
+57a “amé’ D 57¢ fareaw’ CDI, fixfcaa’® FRS, Rawaa* B,
+fioraen? W, afrgt n° L 58a ara? S “asa? DF order in D: 59,58
+59a “afsars L 59¢ era? F gaq% B Gob fa° L Goc ged BCDILW 60d
+“age BOR
+
+=== PAGE 28 ===
+
+fe Carreras
+
+wegararaaagear
+
+at saata faemdear: |
+ants are gs
+
+farmat cere 1 Ek
+aegarargersrysar
+
+at opted gnfaqaay |
+ar ae etefadiags
+
+faceatior oad TN RR
+
+aegarartgar fea
+
+at sapata afasdiory |
+fared SARs a ae
+
+geadage FA Wa
+aerastargrararer
+
+at ogafa Adama |
+ReTas fryers
+
+faa fact: aad aga tl Re II
+wegstaréaar fer
+
+ad apafa Tee |
+faafezd eeaarisare
+
+areal weber 1 84 I
+
+ABCDFILORSW
+
+61-62 om. W 61b-52a om, BL 61a ‘asa’ D 61 wa’ D 61d
+geq’ CDIO °surt F 62a “dteqae’ ADIO “gfratar RS, °qsaata F 62b
+aiiftaea I, asfasdi S 62c ari BL 62d facfe® L 63a “arm? W 63b aia?
+A fadraet F 63c frat BDRSW 63¢ eqeners fregcareaat ara (cf. 64c) F
+qed, C, went D, a1 era BLRSW, 7e7.1, a O, a A 63d Ata CD
+64a “afrara L 64b “wat 1 64d age DOW
+
+=== PAGE 29 ===
+
+wearféeitseara: | "
+
+wreyatga fet
+
+at sata sHaRe |
+farealt gati aes
+
+fidawea serra 86 UI
+
+aatearararghiarer
+at sqata frraaa |
+
+arts sratacifearse
+aatat dzateé TU koh
+
+aahaargeafaaret
+
+at cHara aEATATIA |
+eraeat Ragaeaiad
+
+freer eters: 1 8 tI
+
+qafwraréga fea
+
+gata ve favaraay |
+gat Agandan
+
+sors saeahha 78S 1
+qatestargeafaarar
+
+at sgara faeadear: |
+Aarferd sak: ata
+
+THEA saad FU vo 1)
+
+ABCDFILORSW
+
+67a Cdtearae’® S °qfhara L 67b aca W 67c wi CL 68a “qfmara
+L 63b *s#i CD 68c “ae? CD 68d gfigett CD ag amt: L Rent
+CD 69d ®emft%om,A 700m. W 70a “afer L
+
+=== PAGE 30 ===
+
+ve
+
+cod,
+gaa F 87c ga° ORS
+famfreat D 9° F
+
+Tara
+
+sqnsfarégar feat
+at sata weafasa |
+FIR Fa mee
+aaramte geass FN 8 Ul
+WeR-e8
+
+Aaastarrgs Fe
+
+at s@ia gaat ana |
+MAG TAUIANS
+
+Ses TaREAT TH co Il
+
+Aagstartgar fae
+
+at seafa afasdtor |
+frafienai saat
+
+qed ndfaafa ance ut
+
+Aaagriéga AeA
+
+at saa atiqaraa |
+adn afte frat
+
+qaftol sogfidtfeawy tl c8 tl
+
+ABCFILORSW
+
+Sic fact 1, fart B, faci W, faff L 81d aa° ABCD 82-86 om
+order in D: 88, 87 87a °sta° W 87b gara® S, gata R
+88c frferat S, fenferat A, fanfanat 1
+
+8Gb ale? S, aex° BCDI, aex? W
+
+afas | 89d gadci D,. genftr L, —oriti W og° D .
+
+=== PAGE 31 ===
+
+seeatftcitseaia: |
+
+Farisaragarsgn:
+
+gata aed fe emdea: |
+weaetanted stra
+
+waage YAH TW So |
+
+arartsaraqarsgar
+
+at sated fete: |
+agrard gaa gad
+
+gee gaatarsg 82
+
+ua agfdaed: |
+
+araainaatagear
+
+wren Fafa aT |
+HGRA ACMEATE
+
+aarte gaawa FN 2 H
+
+warzaiaafiar fae
+at sgafa qoaray |
+gear feaatas .
+aqarfas waafad 3 123 1
+
+chy
+
+ABCDFILORSW
+
+go °Htsa W goc “dei BFS fire LW, sia B god #6 fae
+FRS sfteq? W, sf"° B, aaa° Lota ‘ata’ W gic aat I, gaa W
+awa W gid “ata FRS col. sf dtaaaaa agidiain ar W, sft otge® ag
+
+faerera L g2b aradeqt daadft F
+
+g2c °stt LW, ‘tt F order in D;
+
+94,93 93C Aea° ABILW 93d 49° ABCDILOW
+
+=== PAGE 32 ===
+
+te qewerenert
+
+wrgimgeaaga |
+
+at cepafrr TeIRITA |
+aanfaetr afequara
+
+fagradr afeafia 7 1199 I
+
+watrgaiareqsagat
+
+ad separa faerrder: |
+feuverand fafzarara
+
+at ale aifdat freer a4
+
+eaeqatareqsrater
+
+at oRAPaei aardy |
+nara ffafaariane
+
+sagt saad 4 %8 1
+
+veranda
+
+a Tpafra Tease |
+adios aguisar
+
+qiraaaa aad WAT MN So UI
+
+a ASAT
+at agafta Reade: |
+gardfeeraaarqaes
+
+araararhars AZCAT 1 Ae I
+
+ABCDFILORSW
+
+g4b Psat A g4c a DLW °gfa® IL, “28° W 950m. W 95a
+Ca F gsd at S aftom. F, ta L  g6c aarad F “affraid Cl g7b
+‘at BC g7c Cmftath I, caren) AFORS 7d fate L 98a de? L
+"aa D 8c ata? L oSd géfa® BFRS
+
+=== PAGE 33 ===
+
+srearfteitseara: |
+
+rgerarqsaant
+ae opara aiater |
+ararfass frente
+fais eat at 82,
+
+aegarargegsaare
+
+at s@Afa Frewtdem: |
+anftsafirearraaaacs
+
+ad fared fava: adaq |i foo
+
+wargstargesaair
+at s@afta feraden: |
+an fate waalsare
+RRA Teas TU Lo? Mt
+
+qakaearnqsagar
+
+at s@afta Pesaetear: |
+aaa WRATH
+
+aaratte fraawta wi 202 Ul
+
+qaherarneqeaanr
+
+at aaafta faerie: |
+snfraa gearate
+
+aaa BY RAGE TH Lo2 Il
+
+ABCDFILORSW
+
+ay
+
+99a “saga F, *aagst BCDILRSW gb gaa? L gcc sim? F,
+ar’ W gid faan® B aiff D 100c “Rraea’ B, fenfa’ LW 100d
+aé B, a S, at FLO 101d a@a° FRS °ary ILW ze? 1
+C roga ame? L r03c wanafid W axa? L ro3d aq L, aaa s
+
+“age DOR
+
+Io2zc °aengt
+
+=== PAGE 34 ===
+
+RR xara
+
+aaftarargqpaarr
+
+at sepafa faeiaaee: |
+wa de Fae SHIT
+
+Ra WITS FU Lov Ut
+aatesfargeqsaaner
+
+aa sgafa aeaqEaT |
+EAU
+
+AMAA BIT AGT 1 Fo tl
+
+adashargqrart
+
+at sata afta |
+aia Feclaged
+
+welge aeaAfead 1 R08 Il
+FRRAATASATAT
+
+at Tea FETA |
+aar afe Aiea
+
+fafasté saaB4 7 1 Qow ti
+
+FRRaPTASTaT
+
+at seata Gaquay |
+asta arated
+
+i ARS aTTTATANT II Bod I
+
+ABCDFILORSW
+
+Toga “drat? W loge wi fad L ati CD amd FW, ari
+ABCD, fii 1 toga “demex® D ro5b-100a om. ABCILOW 105¢
+agenagama FR Cara’ S  rosd gara® D agar fad RS, aad F
+ro6a quit’ D  r07a “ateargr’ W “gaat C, “at F  r07b gan’ F,
+war L roze gfe? FR, afta? W ro7d aaaiex W 108b-109a
+om. BCDLW_ 108c °aata’ FI 108d Camat AlO, “aatat FRS-
+
+=== PAGE 35 ===
+
+swearftatiseata: | aR
+
+RATATAT
+at pata TaTeITy |
+area Hifagd geri
+qetgaataaaeadt: 1 fo 1
+
+aeaestararyerater
+
+at saa GerIasy |
+srqatts sian
+
+fea sai argaarny FN ko Ml
+
+aaa aTa Sra
+
+at raha EarTAHT |
+tentad strong
+
+arrgyat FaATETHT kee Hl
+
+Aagshargeserane
+
+at agate Masa |
+faaraats oferta
+
+faafega afenat geomy 882 Ul
+
+aq dafanet: 1
+
+ABCDFILORSW
+
+loge a BW, galt L rogd emaqaadt W r10b gata® FORS
+gaa 1, gava? ABCD, gata’ L, ga W riod agatw gh W oriib
+gava’ FRS, gate? W 111d gaIgta om. L, angst W  r1za “gig
+cod, 112b fa/fa? C, fr D, fafe° F, fae L col, om. S, sf stgaaat
+qanaamein dq W, ea dae? ot Gaafdertsearaa: L
+
+=== PAGE 36 ===
+
+we
+
+eaeamrarert:
+wegiaqeterga
+aanfirat: eaate fared: |
+at goa fiat sat
+aafad ateftatia a 2e8
+
+weghagg aaa
+at para nerahaa |
+atemeaara eafiaret
+aah maior Meifearwa 1! 888 Ul
+
+arqraahindgar
+
+at s@mafa nardgfea |
+aaerard agora
+
+fades faaaret a 824 tl
+
+erg aaegpayE-
+TAT: EAR BaeEMT: |
+ar Ay PaABeTATA
+ara aaafea fra 888
+
+wargabarreqsagR-
+ata: gay endear: |
+aat Aq saad .
+waka aafsaTAsA | ¢ 89 I
+Weel
+
+ABCDFILORSW
+
+113 om, S
+
+113b eaten: L
+
+113c Part O, gaat B, gata L,
+
+gated F, aot R, vaste W fafa BCDW, faftt | 3114 om. FI 115¢
+dex? Worigd fiver sf& ged sae L, Raia aca a W fed’ om,
+B 116a ‘ge: FIRS 116d aj F 117a “gat: FRS 118 om, cod,
+
+=== PAGE 37 ===
+
+aeatitetseare: Pty
+FARAVAAISATA-
+
+SAAT: Ia BAPAMT: |
+aarat asafe aad
+at TpAa SMAATT ARB N
+
+wa refaaeT: Il
+
+ad var eae feradeat:
+
+araffes aeaad FATT |
+gaa woeaAaATa
+
+Ba: aA GATATTT tl LRo tl
+
+aq aafaaed: I
+
+Sa: anegledadal
+wera ge fee: |
+Seaffee: wafega: aed
+
+at: Baheyraaaad 1 VAL Ul
+
+warnsreratapiera-
+
+ameg aN sae: |
+adsa wa aaah
+
+art wafgaartaaat i 222
+
+ABCDFILORSW
+
+11ga °ga: FORS order in D: 11ga-b, 120b-d, 119d-Izoa
+rgd gat? BLW col. gfe *tzzaae senedteaa: aq: W, fet oi? oraPra-
+sarenraa: L 120a ag: ACDIO f€ om W 120b @taf’ FR, aa’
+W, -° L, aaP CD “ad F 120c *Hd CD col. sf Agaraa arama
+aq: W, efi ftaaanas aamedrena: L r21-1430m. Lizia °° W
+Iztb wa CD, w° F gf SW 121c xenfas 1 enfime: F, erat
+B 12d eat? B avdui C, gana’ F 122b aanfiarm: D
+
+=== PAGE 38 ===
+
+a qererarel
+
+favzaudeaaiiiern-
+Sh aarea sfahiren: |
+aa waar fagdaret
+are aaa | 883
+
+Srafia: ageafserar-
+ai ada af 2fa afta: |
+
+asa Sra: agar
+
+Aafia: WaaTHAT LRA
+aaRaA aera,
+
+are: are: Bag a: |
+ara aagaR ATE
+
+gaits: fiftanfaaa 1 24 Ul
+Bearqeea: ata
+
+dar a8aa Jara Faa: |
+asad Fa Faye:
+
+Barras: oafsafsare: 228 I
+
+wanted: AEVAC RAT
+
+@iisa ara: gua aqea: |
+waaar mefes: afaay
+
+TA: AIBHY FA: M1 VR Il
+
+ABCDFIORSW
+
+I2ia tae’ B, fas F, ae RS 123c “Harel FRS 124b #4
+BCDFRSW 124d dafiaa: W ofa? S rasa ‘amt W 125b atten:
+CDO, ai W ame: Cl, gam: D, aareq: RS, aateq: BW 125¢
+°gfa? D 26a °H8°-S 120) Car BCFS, “Haer AD 126c asa
+FIOR, aat S, wat CW “aret ACDW ‘a4: ABCDRSW 127b “at
+FORS 127¢ am RS, a4 F aafin D, ahs
+
+=== PAGE 39 ===
+
+searftaitseara: ae
+
+ward, aReATAGdA:
+
+& Hanes vaAqa: |
+qa: sfaataafiaaar
+
+waTaA: AMAT: WLR HI
+
+faerranfensinsigar
+
+areaier: Bfadisa an: |
+ryRaleahararestst
+
+aasa TaeT waa AAAS: tt 223 U1
+
+wera earafndésren
+
+A waaa A: TAA: |
+saafia: afeedart
+
+aan: aad gee: 820 Ul
+
+fiemfadfragenibiae
+qi aaa at: FAA: |
+aaa aaa: geet
+fet aga: Hawa: RE UI
+
+ABCDFIORSW
+
+128a eaeaed? FRF ane C 128b aeaaret FIORS, agameat
+ABW 128c qaataafraea W 128d Cas: W afia® I r2ga “aes?
+D “Sa W xragb dmeney W aim: W  125c “sta} ABCF 129d
+ara: g° FRS, aia: a: W 130a wane’ W eae I 130b 4 32a O
+rzoc #f° I 31a “fanféa? FRS °faata C 131b gsi IW, Isa
+BCDFORS, ¢° A _13Ic aa’ ABCDIO, arm W “eat CDR, ‘at
+ABFIOSW
+
+=== PAGE 40 ===
+
+re ecaTTTTTs
+
+gerearaeaia: aaa:
+BY aaa ze Asa: |
+fea: sade: ofraeardt
+waat: BrafasaaT | 232
+
+srreantenaemy
+
+afedlaga at: 7qa: |
+aefaa daga: Hare:
+
+safireagy maatezar 1 883
+
+aamaTyeaTaa-
+
+Sé: aaea: zfaar ze: |
+afisa sia: asaaaaw
+
+BAMISA Gad BAA: | Le Ul
+
+wranfeararanasese-
+
+aafatsa qadeagea: |
+gaifige: saarata:
+
+frag: areafrmaat 834 UI
+
+aeafeaniranadee:
+
+RATA vA ASA: |
+AMAT TATA
+
+narsara: fraqeaar 228 il
+
+ABCDFIORSW
+
+132a “stufea® BFIORSW, °sra° CD, Sara? A 132b aa?
+133b of’ om. D 132b ad cod. yaa: ABCFIRSW 132c “ait W
+133a Cuaiae? BFIORSW 133c tym: AC 134b “SR: W  134¢ ah
+ORSW ‘fégat S 134d ati RS sé om, FRS 135a “H@#° om. S,
+38%" W 135b-136a om. CD 135d gaffa’ W 136a “S82: W after
+136b in F: ga: saa) aftaaad, gown Wises, onneratnd wae
+°sarfl CD, “sara: FW
+
+=== PAGE 41 ===
+
+sweanrteitseara: any
+
+arnfeearaieea
+
+SSASANT: BUN gers: |
+asa ara Fag
+
+AATRH: AAAI {1 8 I
+
+aatearearaiase st
+
+TUT: HAST TA: |
+waat: aaa: ata:
+
+aaraey eceieaar tl 88
+
+aaifeacagaa: anet—
+Aisha: efaasa sta: |
+araraam: gaa age:
+frenfa@itae: a2 1 222, 1
+
+aaatat sepia
+
+wal Haga at AAT: |
+AVATAR: AYIA:
+
+argefad afafiaza i 820 tl
+
+ABCDFIORSW
+
+137a anife’ BCDFIORSW ‘alata’ B, °dieata®? RSW 48" W
+137b-138a om, W 137b gota: B, 71a: FRS 138a anf O and?
+S 138b ma” I, am R, avan’ FS, am? W, dim? B 138c aud:
+BCO, dhfiad: 1, aida: S, ddut: A 138d acdleze S 139b 3 ax:
+S 139¢ gun’ D 139d-t40b om.I 139d frm S r40b sh
+ORSW, °a% F
+
+=== PAGE 42 ===
+
+ye TATE
+Raa aaa: sadsa ae: |
+wage qaferaa:
+TRUITT: BAA MW LEV Ul
+
+wraftda: draaeses:
+qtsaesa os aa: |
+masa sta: Bfaherat
+datas: Ffsaa: WAT: 1 LVR I
+
+araftaa: aga: ane:
+arasae: ae: |
+asa Ta TE
+eats: Paraaaaa | 8e
+
+aa fags wararameaa:
+
+ABCDFIORSW
+
+I4qia Gael dak” W 142a dtrafemr W 143a areaga: ACIOW,
+aras: FRS 143b “Saar: BDR gama’ CD, aan’ I for 143¢ W
+Tepeats 142¢ 143¢ “#ta° ABORS, “aie? F 143d ‘eorfte: R,
+°eorfte: F, defat: W a’ BIRS, #%° W col, sara: ay: W f°
+om. FIR
+
+=== PAGE 43 ===
+
+USAATTS ATT Nee
+
+wafturrctenat: aR
+at fad fad waeTL |
+wat gaits saat et
+Aafia waMTT Te
+saferardemae: aaa
+at afta aad F971
+aataest goa Fea
+Rated waaafad FRU
+waftrardigoat: aaa
+ag faa ange |
+fat gate aaaeah
+Rifas TAM BATT HR I
+aaftaaettenae: asta
+ai fad faa Aaa |
+arafad wed aha
+feataasearsy tle Ul
+waftaardiensz: aga
+ag faa’ qereqaray |
+aragea agaga
+fates aifafiafia a 411
+ABCDFILORSW
+ib ff ABDFIORS ic ati LW 1d #a° I ‘aad F, aaa
+LW 2b ataad faa fads W 2c Ramsar L fia O, ao W, qa
+B 3 0m. F 3a ast? D 3b a L 3c aes D 3d geate’ RS
+4b faatom. W 4c amand D amiom.A ei D 50m ABCDIO
+5b agent LW 5c-d om. L,in W: wa a wey ages ga = “oigaent
+aedt fet 5d fies F
+
+=== PAGE 44 ===
+
+ar Tamara
+
+saftaaeiterae: anrat
+at faa agterrsy |
+watt Réagaad
+
+faafSia argent 1 & I
+
+eraferdy ufafa: aati
+ae RaW sary |
+
+So as aifafaiia Tot
+aus: eanngaa gat
+
+waftaa: dsaaqay |
+saafad sadntiela
+
+garhts arateateg | ¢ i
+
+wa: Gwar ga sae:
+
+waa aa a aad a |
+asad sant ait
+
+TTA FAIA TNS Ul
+
+BAT ye: sKfa wa
+aafia: ser aqeay |
+adtaa at aha 4 at ear
+maaa sasred Fl Qo Ul
+
+ABCDFILORSW
+
+6c °x ABCDFORS  °qu° LW “ait I after 6 L adds: eft
+wguenetrns Alt 7c Cat I aat B, wat LW, aat 1 at O 8a
+emager C 8d gaiai RS, gaitai F od 3 om. AC 10d ya”
+AFORS ‘and F
+
+=== PAGE 45 ===
+
+qowrernfteitseare: |
+
+a
+
+ART ae: THAT TAL
+afganhta gary |
+
+at saanftsinticed
+faataahs eaarqary i 2
+
+AA sae agra
+
+at saa aafaaarea |
+aaa sanfataetsare
+
+gases caarquern y 82
+
+Sfaftad qaaat aay
+at gaat Baar aaay |
+fred sanerTa
+aera araafitad 7 83
+
+grifad yaaa ware
+
+at gard saaaeanrdy |
+Aaraes afar
+
+eafifrad aeafaasia Fl 82
+
+Saad aaa sae
+at TAA RATT |
+fia Gard BARAT
+feats pasha 84 it
+
+ABCDFILORSW
+
+1rb sat L after 11 L adds: sf aagefdta samt oe
+
+aftge Fo or2b af F, a L
+14b aan: LW “sara S
+faftte® W, fae® F ga° FRS
+
+14c¢ ga° BDFRS °é4 FLRSW
+
+12a
+14b-15a om. B, but adds in marg.
+15d fare? L,
+after 15 L adds: aft ahagefth’ we
+
+=== PAGE 46 ===
+
+aw Tawra:
+
+gataa taqeiaeh
+
+at saa faa sara i
+TqagarAtfrTast
+
+atdad cata fader ea
+
+aratad Berea
+
+at saa asa |
+saa aaa
+
+aefead meodAT TH Rw I
+@raraa: adagal wae
+
+ad saa TARE |
+aoa Raiser
+
+ahrdaifanéd ane
+
+sfartad Raaeiaet
+
+ad sae aafasraay |
+arardard: eqaatidate
+
+ward faa: aT 28,
+
+sharftaa: daa sara:
+aaa ae Tia 71
+ages aageraert
+frags’ Rafafit zt Ro Hl
+
+ABCDFILORSW
+
+16b-17a om. CD 16b ffi sa LW 6c °srt LS, °art in
+marg.L 17a dranfrd) L 24° LW 17c “at F 8b sangyt after
+18d in B, waaftgi RS, wayaqi F, wqai D, a finiét a L, -feaftr az
+W = 18c after 18b ‘qiin B 18d-rgb om. W 18d om. Lge
+ga? LW °at BDILW zob “featt W, “dita FRS 20c °sk: D 20d
+‘aed DW Regafit L
+
+=== PAGE 47 ===
+
+qweeariten scare: | au
+
+gaat: aaa aaei
+
+at sad aagadian |
+areca
+
+asad Taahs FATL UT
+
+wa fafaeer: 1
+aaftaar: qaaraneatar
+
+at aR ward |
+qi faa
+
+TIAA AaMTA TW RZ
+
+agar aff frader
+at spate fratateg |
+faenfads fred gart
+sateasaatigay ti 23 Hl
+
+wrastar aff ade
+
+ad cata BAAS |
+feafas st act
+
+Bfrgt wat TRUTH Re
+
+ABCDFILORSW
+
+2ic °fiffi ABFLOR 21d adiad CDF col. aft wtaauqa aa
+fanedtrena: W, afar 9° uaaa fare? L gia CD, sf qd F orderin D:
+22a-b sgafi, 23a-b, 22b wa°—22d a, 23c-d = 22d ate C, aaa
+Bowe B 23b Care I 23 fafa BCDL, faftrad J, frat AF, aaud S
+gat S 24b-25a om. BCDILW
+
+=== PAGE 48 ===
+
+at Gevarares
+
+aeaua aff Prades .
+
+at sgafra gelaeaa |
+agit afar get
+
+Tela aeganfad 74H
+agar aff fradear
+
+ad sqaPa HASTATTT |
+fatadarg wa aa
+
+mata foraesfaay tt 24 1
+
+aqararar afe fradear
+
+at saata afaréiory |
+aE TEgI FIA
+
+wafer TAGE Fo Il
+qaiestiar aff fradeet
+
+at s@afa fareaay |
+gee gaeaweaté
+
+fafeardarertaza tt R<
+
+qatar af fadear
+
+at sapara fA |
+gam altsaeed
+
+HAT ar TAT Re
+
+ABCDFILORSW
+
+25b ‘faaa L, figs D ~5b-27a om. O, but 26b sa=*—27b
+sgaftin marg. 25b-26aom, A 25d arqaafad RS, acqaafad F 26b
+“ara C, Cad FRS 26c @qrati S  27c “ay FRS 28c epat F,
+seat LW 28d faftsa® L, free FR, fata? S ga’ I, Psa? W, “sR? L
+29b frei W 29d aaed 1, nee LW
+
+=== PAGE 49 ===
+
+toermearftenseant: | as
+
+qatar afe freden
+
+at spate afataarey |
+addr seahia =
+
+aarat arganfadira 1 20 11
+
+adastar af& faadear
+
+at seafa aarp |
+fears saat qgsd
+
+we: ahd wees Tae
+
+adage wT Far ey-
+
+at seaa aaa |
+fraifad eater
+
+wT WIR TW RR
+
+qasrra af& fraden
+
+ad Raa TAAITT |
+aftqas anatase
+
+aarftrga afeafta a 2h
+
+ABCDFILORSW
+
+30b aff a S, gaia L, gfahi F orderin RS: 31a, 32b-d,
+32a, 31b-d = 31¢ feat D aad LW, amt ABCDFIORS 32 om. F
+orderinB: 32b wg°—32d 4, 32a-b sgaft 32a qa L 32b fade
+@4 L, waar W 9 32c-d in L: gami after feed
+
+wears Yasar ate (cf. 29c-d )
+
+in W: aaryeaiacnarat
+
+aarrated ages sa
+
+32c fier ABO, dx? 1 32d “ag OR =. 33d at W
+
+=== PAGE 50 ===
+
+ae qecarare
+
+qaisanqysr aaeat
+
+at spits ssearay |
+faenfaas eta aaa
+arafid Aeranfad 3 82
+
+qafatearhgar wart
+
+at cea ae |
+frag yaaa
+
+areas fad aa 34 1
+
+qalateardgar aaa
+
+at agar gaiend |
+qeraurd fata ft
+
+saifad Taaated TW RK
+
+aqrara af fradear
+at ogifa aseaTay |
+warrad Pegaaatd
+fadrararaafrerna. i) 20 i
+
+aranstar af faadear
+at ceafa afega a1
+ar de gafauaiz-
+eas aftesatay i 3¢ i
+
+ABCDFILORSW
+
+34a “ata? O 34b 9° FRS = 34d aafad F, safit S, ofa R,
+aif LW aia’ L, dea D  35b-36a om.CD fax? F 35d “art afte
+om. S 36a quia’ Fi 36d ‘aff LRS qom. B 37c get’ CD
+ce LRS 38b age S 38d “egomfings qesatt L,...... aie W
+38d Caomnfis S, “equi BR
+
+=== PAGE 51 ===
+
+quaeantatseare: | as
+
+waregat aff Aadea
+
+at saifta sara: |
+ahfeare qeafedr
+
+marta reaafeed 3 2°
+
+waaay aff fraden
+
+at o@afa Maleea 1
+arafrr gant fae
+
+wargaio frahia a eo
+
+aaacfar af Pade
+at capita afta |
+errand aaArfaent
+arraarararast ee
+
+waagnl afe faaarar
+
+at a@aFa aa aH |
+afar
+
+fanfes sifagt aai fF ee
+
+samen af Frade
+
+at oaafta cara |
+aged baer
+
+Saag WITH FTW LRA
+
+ABCDFILORSW
+
+39¢ ge°om. D 30d ‘aftexd W 40a “gat F 40c 4° BILW
+ge LW gia aang F | 4ib-j2aom. W 4ibaa° FRS  4rc aeft-
+aa C faa’ L 42d flat W dia? It 42d Pat f&e—43c etterenfe”
+om,1 42d 4S 43d aa° BFI .
+
+=== PAGE 52 ===
+
+Wo gerard
+
+TATA GUA TATAT
+at ogifta quay |
+adil aftattad =
+safe gaaniged tl ee Ul
+
+WR ASSAT FAT
+
+at s@afta aatade |
+FATA HAL A
+
+ehorate afiered a 2% Ul
+
+west
+
+Aastha afe faeaear
+at spate fades |
+fred GEE RATE
+qarad arafadtfsaier i ee tt
+
+Agger aff fader
+
+at sgafra TATA |
+ahs matte ag
+
+aUualal AAs TW VC tl
+
+ABCDFILORSW
+
+44a ‘afar LW 44b fige’ BB, ge°S 44d sm D “steal W,
+’ateft L 45 om. LW 45c arn’ F agtom. A 45d qa° FRS
+46 om. cod, 47b-48a0m.C 47b ‘aa L  47c at O 47d ara”
+L, sera? Fo 48c se Bo afees F, eet C—ats D, aaatg
+L aafe CD, agt: LW 48d om. A
+
+=== PAGE 53 ===
+
+qwaeanitenseara: a
+
+angie aft freer
+
+at op ifa aera |
+fate meet afta
+
+smarts qaaet eat 1 ee U1
+
+arsargeaiarer
+at spafa afreqa |
+Hartad qatar
+
+Gee TIAA To fi
+
+Aarearsgar wear
+
+faematt saafta ada
+frais epee ga
+
+anita ead Fee 42 Ul
+Aargwarsgar ara
+
+ad caafra gaara |
+As haa wea
+
+FARE FT FEIT 42 I
+
+Srareargea rae
+
+waftaat: dsafea addy |
+ndlafa eftaearars
+
+saa GaaaTHy 43
+
+ABCDFILORSW
+
+49c wregstafe Le? R 50a °gfrere LW 50c “Pret
+ABCDFIORS sod aaa’ W, ga FRS Carte W aL 51c
+we F 51d aeé FS, ge 1 9 52a ATatate’ ABCDLOW 52a
+ari—s2d qat’om. O 52d aed L, gatiei C 53a “qfima
+W, “amt L 53¢ ta D, afta? F an’ LW
+
+=== PAGE 54 ===
+
+Be
+
+qeaerarea
+
+Aartearbaar ae:
+
+Fafa yor sat ATH |
+
+santas, agariané
+
+aaa Hidanfard 7 4e tt
+
+ararteartear we
+
+at spata aaegtea |
+
+TATA TATTAAR
+
+Garead BeoTaTTATHT | 44 A
+
+startearkgar seu:
+
+garda aaafa ads 1
+
+rafas aifant gered
+
+frafes aiftaaaad a 14s
+
+wd fafarem:
+
+argaeqger we
+
+ae agra FATT |
+
+gia
+
+ABCDFILORSW
+
+ayrangted aa tye Ul
+
+54b #afe FRSW qa RS 54c wm W 54d em” O, ear”
+
+LW 55a arate”
+gm’ F, ga’ RS 56b gtd’ LW
+wanted: W after qi L adds: fact?
+
+W 57¢ ge O° F
+
+CDI 55b ate’ ABCDLW, ge” L
+
+55d
+
+56c gett: W col, sf street
+57a “areiig’ O, Stare?
+
+=== PAGE 55 ===
+
+Umaeatiteitseara: aa
+
+ehegitaraegtrarat
+
+at s@afta naraaray |
+fatwa ofidtast
+
+Sone wraahard a 4 |
+
+vtegtrrrgeafaare
+at spate Rareeier |
+aera aast Hast
+wales warfaaahsd 4% i
+wregtarégar aaa
+ai opafra faetdizer |
+what ETH GHC
+faserarad afafetadiry i Ro I
+
+eegerargfaarar
+
+ai aaafa gareafer |
+False arawansare
+
+Tonite afrerird 31 88 1
+irgarargea fare
+
+aaftaar: dsaqafa wey |
+faRsrand Bae
+
+FATAS ATG FIAT |G UI
+
+ABCDFILORSW
+
+58 om. D 58a Sita” W 58b-s9a om. L  58c fama’
+ABCIOW “art ABCIO 59 om.S 60b-61a om.S 60b “a4 FR
+God ‘arat F °faa® DF 61a °atengr’ D 62a “ater? BDFL
+62c ‘saat BS, sami A 62d sau} DORS
+
+=== PAGE 56 ===
+
+we qerarares
+
+wrgalendgar wren
+
+at cata frees |
+afega araaniftet
+
+war faves fsargat 1&3 HI
+
+warastaraeafaaray
+
+at s@afa seraaray |
+facie cava ata
+
+afrgt sifaaatad 7&2 I
+
+warqsfarhgar sara
+
+at sqafea daw |
+Rrege argye asa
+
+quage atearry tl &4 Ul
+are yRSyA TACT
+
+at spite dag |
+aPrRtarRATAy aT
+
+gered Haasan 1&8
+
+aahararnagfaarat
+at oaafa fares |
+aaaifad wIeHfad 7 Ret
+
+ABCDFILORSW
+
+63b-63d om. 1 63¢ Canfas S 63d afta a F eat:
+A, THC 64c Ra |, fya BD, faa C 64d ark’ S,
+afr? R, if F 65b °R 1, “a O, CME ABCD 65d
+°os W 66c = gata” AB, dam W, a. at’ O ‘aa? FRS
+66d ‘afta W 67a om. D 67a “atm” BIL 67b fare?
+ABCDFILOSW 67c 4° FRS_ 67d aam° FW aaaafad om. B
+
+=== PAGE 57 ===
+
+qewenftetsvara: 1 we
+
+aaharargeafaare
+at saa ear aaen:
+qa a GReAa
+gaged fears a Re
+
+wakararsgar aarar
+
+ae oR A TATATTT |
+aaad Bast gnd
+
+fareeaata fara 7 8S 1
+
+aatestargegsarat
+
+at ogafta aha |
+fates vifearfada ©
+
+TATA aaa HAT | wo Il
+
+[ aatestiargeafaarar
+
+at sqafa AEE FI
+ayaa wea
+
+TAPAA TaASs FI oes 1]
+
+aakstarégar sear
+
+ad s@afea ear TAT |
+aaifrs gente ad
+
+MIS TAAITTHT | 82 Il
+
+ABCDFILORSW
+
+order in LW: 71a~74a, 75b-g1d, 68-74 68b aat—68c
+ge om, C 68c ‘ages LW = 08d “#4 F | 6gc aI Loc
+faaeé O, fares FR 7oAa=71a in F 70Ab Herat R, Aged FS
+70Ac araifey F, eetfa? W gib-7zaom,L = 7ic wa Fo o7id
+afren FRS -
+
+=== PAGE 58 ===
+
+a areata
+
+aafgaréga Fe
+
+at s@afeat GaEATTT |
+whe gaateadlt
+
+TAIT aar FEAT [1 8% Ul
+
+aaah TET
+
+at opafa aatgt a 1
+drag BAAEIaTH
+
+TERA TIA ATH [1 3 Ul
+
+adasiartgar sear
+
+at sated aaa dr
+wombs aT BATT
+
+Hea TAME F Il ov Ul
+
+194-98 II
+
+wanaerrag Sara
+
+wafesar: daaafea wedy |
+Bria arTaayT
+
+ae fast aaATfAMAT 1 ov I
+
+waa ATRT ATR
+
+aaftaar: data ey |
+atafah rama
+
+wafrd aaftar aaa tod 1
+
+ABCDFILORSW
+
+72b g° om. W, a ABCDIOS ‘am’ B § 72c yf FRS
+73a “sta OS orderin S: 73a, 74, 73c-d 73b aaqr W
+73¢ ‘act FR 74c eae L 74d ga° CIORS °ayated FRS
+75-76 om. cod. 774 we Om. AB, af F 78a °aana? W
+79° T° F, aa W
+
+=== PAGE 59 ===
+
+qeremtatseny: | we
+
+SARAMTETA IAAT
+
+at saafta waar |
+TSANG TAS
+
+wart aft aed F3a U1 0? 11
+
+aearsfaraegiaaret
+at safes eat waa: |
+* faentte aoa
+Farad mea FN co Hl
+
+sarsfarhgar sea
+
+at spa wa aI
+gihenssaametad
+
+ava saad TN Ck
+
+Saya: aaa
+
+waftaar: data wey |
+aravateaafatl: aire
+
+fram qudad 3c? Ul
+
+ABCDFILORSW
+
+79a-b om. W Job zaATAT C 7oc wera F,  weme®
+R, wer’ S, amg? W 79d ent DL ‘ef CL ata] aft a
+RS, afffia F after 79 W adds: wa 4 ary age sett
+
+cages Stiga
+
+80b wart ar B  80c “fd F  8rb ata L qe O 81c arftaar’
+FRSW, gyieart ABCDI, ayfieay O, gdieiL “se? FRS, “ary” Ww,
+aie® L *ftsra® L 81d “amd F 82a “st” cod, 82c arate”
+BCDILW ‘s=° om. B, “fra” W
+
+=== PAGE 60 ===
+
+we Foran
+
+sraasfagea sara
+at cpaPa aaTATHT |
+aeargeaified et
+
+Rata WR BAT CRU
+
+saasfarsaar vata .
+at o@afa a fasrary |
+aa faaqdars
+
+wal mee AIAeHEA ce
+
+FAAYRATU Fal H-
+Saftaar: daaaPa ada |
+aamard sroranfeaet
+spreaders ct
+
+PRATT
+
+at saad aearay |
+atagei ad ae a
+
+aaa ee aflarag | c&
+at sgt Ra Barri
+
+memes qeaizay |
+anthad age: aad
+
+Anastaraqhae: tl 29
+
+ABCDFILORSW
+
+83b gat’ BI 84c “art F 84d sé F 86c eat
+WwW oat FRS 86d 2 F ‘syd B orderin W: 87d, 87a-c
+87d “aeratm: O
+
+=== PAGE 61 ===
+
+awraearta scare: | ws
+
+agsharsgar are
+
+at sqafta fataagia |
+waa aaa
+
+FITANATIBATEL tS
+HayR aga AAMT
+
+aa oat fattazne |
+VUE WTA
+
+ware agaefaay | <8 11
+
+arewarqeysaanr
+
+aafaar: daaata wah |
+TAR waaleage
+
+afar Frat: aay 0 I
+
+Quem saa
+
+waftaar: daaafa aay |
+aay za afiarast
+
+qaidys FIBA AHO? Ul
+1 aqiaFrU: A
+wEMUAATT EAA
+
+aaftuar: daaata wey |
+Banbad ania aged
+
+fated eqUAy TNR
+
+ABCDFILORSW
+
+88b fagiq? ABCDILW &8c “as FR, “wiv ABCDILOW
+88d ‘awe% D gob wafer: L goc-g1d om, D gib
+gid warfirn: C wa" ABCFLORSW, 37° 1 col. sft *fqaaaa agizalm-
+ena: W ol, wi] eff D g2c gvi BFLORS, acey CDIW, ge7 A
+
+=== PAGE 62 ===
+
+4e yaaa
+eiegainafear aarar
+at oeafa aga |
+astade afore
+afrgi mala ada 1&3 I
+
+whegaiaateragar
+
+waftaar: daaafea veda |
+fares Bra Tae
+
+qaaat afeafsa Fee A
+
+arzaareeayal
+
+waftaar: dsaafa ada)
+freanfad gad gas
+
+Dafa yT WIATHT | S4 Ul
+wtrgaarageaaia
+
+at aga aelaeay |
+wWaseafsalsae
+
+adrafa cated 388 I
+
+waezairgegsraiar
+at ogAfA AeA |
+aoe waar 1a
+qaedaAaATy |S I
+
+ABCDFILORSW
+
+g3b .°erat FRS, “am ABCD g4c sia FRS ya B
+g5c faut FRS, aad D g6c ‘aRafsatt D, “siaarSiatar B, “sftafrr
+at LW ofd °g1 CD 4 om. B g7a “ave W  g7c
+
+zn? W, am° L waa’ FRS, gaa° B g7d sanfg° 1, af? BL
+
+=== PAGE 63 ===
+
+qumeantaitseare: 1 “
+
+weaizararqeayat
+
+waftaar: daaafa ada |
+aaeas arfataarsarst
+
+naan aAfafaaiaa a Wee
+ealegateareeasaaitt
+
+aaftaar: daaafa ad |
+aaa areata
+
+aad ae fat FHF 1 22 UI
+wrgaragegsaaia
+
+waftaar: dataata aly |
+ONS ALTE UATAT
+
+frac sfaat Aza 11 R00 1
+arastaagsaat
+
+waftuar: dsaafa aedy |
+Peed aang aaaftard
+
+Basi Wat Blaraq tl 28 Il
+aahararegsagar
+
+waftaar: daaafta aay |
+fara aed aA
+
+SHEA TAUW TW LOR I
+
+Uo
+
+ABCDFILORSW
+
+g8a “ata? D 98b ai—o8c aifa’ om. S g8c aif?
+FIR, (zal? W oma? W gga. ailaraz’ ACI, “arma? D gc
+Ioob om. C goc saad’ £ © 00a Carma’ D, aa?
+ABILOW looc amma CD, mes L rood <faaafad a FRS
+order in D: 101a-b, 102c-d, 102a-b, 101c-d IoIc °° O
+rord a@gi D, “aaigi ABFIORSW, aferga L goat ABCW, grit
+L,aqaw F  ozc fay FRS 1o2d ae” S, age” F, age’
+R 103 om, cod,
+
+=== PAGE 64 ===
+
+ae TeIAAMT
+
+qahabargqsaata
+
+wafiar: daaafea FAG |
+fed aai aaaas Hae
+
+fegae afiegaey tl 208 Ul
+aafeshargeqsaaiat
+
+warfiar: aaaaea ada |
+FAA FIRTAIT
+
+qaate wadieadlay Wl 404 I
+
+adashargeqadla
+
+wafeaat: aaaatea ae |
+aad sraafirad
+
+aaa menue 4 8K 1
+
+RAAT
+
+waftaar: aaaafea aaa |
+aaahte atte
+
+faaarr effamad 7 1 209 II
+
+saraeAT BART
+
+waftaar: aaa agra |
+IqHAY FART
+
+TATRA TANCAAT tl Vo
+
+ABCDFILORSW
+
+Toga °gaige’ F aa C order in FRS: 105¢c-d, 105a-b, 104¢-d
+order in ACDIOW: 106,105 orderin BL: 109, 1o5c-d, 105a-b
+Tosa “getgt? ABCDFILORS  105¢ 3%” FO, gai° B, 49° L, aa’ W
+105d a#a° ABCDFIORSW 7a° FRS 1oéc yal’ R, au’ F 106d
+afiea W ro7c “fi Lb ro7d fsa FRS éffa? B 108a
+*damae’ BFRSW, “tsarae®? L 108b °qyqa? ABFILOR, ‘aq’ S,
+“ara” W, ~Cuaqa® CD ro8c 4° F ro8d Hq 0, “Ad IW
+ar J, a O, gq’ FRS, g° L
+
+=== PAGE 65 ===
+
+ABCDFILORSwW
+
+qereeariteitsearg. |
+
+FAA
+
+waft: daaafta wha |
+aaa ated 4 ar
+
+afasned Raat 20%, II
+
+Ansara
+
+ad saafa HaRAeTT |
+qfaga soa fae
+
+VATA AAG HA 1 LR I
+
+wasgstaagsaaie
+
+vaifwat: daaafea ada |
+qefgarfacnd afa
+
+advert gender 1 688
+
+alagstargegsadiar
+waftaar: dsaafa ada |
+vgaard agar
+garage Srrared F828
+aq Gafiaed:
+aeghaagiorgar
+naftasn daaafa aaa |
+Bais aaeaitass
+Bei as qaadad Tek
+
+bi!
+
+Toga aaatraav’? L = rogb wafaar Loge qa” W, ag L
+11vd agg ABCDLORSW, “aang F, ‘armg |
+It1¢e-112b om, CD Tlic gan FRS, aft L
+
+agri W
+rib waftar: L
+
+col, ft ftqzaat dara: W
+
+col, qi)efa DL 113¢ ‘fig W
+
+=== PAGE 66 ===
+
+we qararare’
+
+ahezanagteaarer
+waftaar: davaafta ada 1
+eqaraga ued gaze
+warafnmaadas TL ee Ul
+
+weganatasgar
+vaftaar: asaafea ada |
+waa geatte ;
+wand ACIAH TU LY Il
+
+aegirpayA—
+
+svat: aaaaea ade
+arafad paRagTt
+
+aaah qeaRaay 2k 8 Ul
+
+Wegaramesaga -
+
+aaa: aaaata ada |
+wataar: siftaandta
+
+fara seta ARAMA ko
+
+qalararaeqsaar —
+
+ada: aaaafea ala |
+peated afar
+
+aalat Faaafad Tcl
+
+“ABCDFI LORSW
+
+114 om. BLW > 14a gat ACDFIORS 114b-11sa “fuat”
+om.1 = r14c eraeq? O 14d Caa°—11Saom.O 115b aef om.
+C rise aa° W fame FRS 115d waxdid om. W CHEW OO r16a
+“gar: FLRSW =o ri6c-rr7bom, W r16c a F GH FRS  rr6d
+RG OL, fret, S, A F  oxx7a “qa: FLRS  117b ad om. C
+i17e Offa’ L 117d sae FRS aaa? W 118a °gmt:, FLR
+118b ai om, D irSe-t1gb om. CD —_118d aageta® LW
+
+=== PAGE 67 ===
+
+upuearftatscare: | ay
+
+FARA UAT
+
+aan: aaah way |
+aaareraaafaag
+
+teas afta rata tl 829 Il
+
+Let afgaen: t
+wring eayA—
+aaa: amaafta wha |
+
+aaftaar aftaavaain:
+aaa aot aa 11 220 |
+
+aq acafaaei: |!
+
+afa ofiggaaa sarradimeara: |!
+
+ABCDFILORSW
+
+19a ‘ge: FLR r1gc *aufana 1 19d Casitas 1 col.
+af ofgaaaa afeancun dqat W = rzoa gta’ Lo “gat: FR 120b wef
+om. D 120c Sata'art: CD col, xf staat: W chapter
+col, f° cm, DFIR °qaasta% O
+
+=== PAGE 68 ===
+
+faenftatsena: it e2 tt
+
+ahaneiiense: aaa
+
+at fae freargan |
+BANAT TAMA
+
+ai i HisAT TT
+
+adtanedienae: aaa
+
+at saa qaqeaaay j
+Aafad aed gas
+
+frenfafa afgad a2a 3
+
+adanedienae: aareat
+
+at saa aeqaarry |
+faataa aftramnel
+
+Rema saat TH 3 Ul
+
+atanediena: ast)
+
+at fad aearatar |
+Aenean aeAraTe
+
+Paige afesafadtar iy i
+
+adtanedienst: aga
+
+ai qa fanaeaqa |
+gard gai ake
+
+Peas agoftd F141
+
+ABCDFILORSW
+
+1c °g% CILOW 1d wit BFRSW, a ACDIO °xS% W, aff
+CDL 2c wat FRS, ati L 3c Cari D 3d fren? L qc
+mamel B, Carga L, Soqari F 4d °RAR ABCDFILORW 5c gt”
+B, a’ W, ae’ L 5d “afét AB, ai CD
+
+=== PAGE 69 ===
+
+firwenftetserra: |
+
+adtanedteoat: way
+ad cad eefacguerd |
+
+ad cat fraaraze
+factauomngReIeT | & I
+
+adtan: aiaae: aint
+
+at cad afreiges |
+aalfada farce
+
+phot gazed 7 1)» Il
+
+adtan: ahaa: aay
+
+at faa’ fanaa |
+Waa AIR
+
+aata weaftar aa tt <
+aetan: share: astat
+
+at Taq saa |
+wage ghee
+
+Aga waafha ae
+adn: etaae: aa
+
+at faduseadefaers |
+AAG FAI FAST
+
+adfiae a advafer ti fo tl
+
+ABCDFILORSW
+
+6b afa° I
+sist: om. A
+
+at CD 6c feat A after 6 L adds: cf
+7d eimai om. BL, at ati W sauraent W
+ae’ Bo ood fea” L
+
+“wale S, “Raf? O roc wa” I
+
+Ta
+gc
+
+ob “f° D, °e° RS, °e* W, °2° F, °x* B
+
+=== PAGE 70 ===
+
+“ Temata
+
+arftan: aaa: aaa
+
+at cae fest Peteq
+saree ARATGTA
+
+rags goat aay ke
+aden afaga: aden
+
+at faa’ feaneTdry |
+arana yaisret
+
+nara fade: aRag il 23 I
+
+adtam qaaa: asta
+at saa aaaisarry |
+
+pus agafeas
+asad aamara ata 1 23
+
+adtat qaaa: agat
+
+at aa aefrearara |
+gate atiea qa
+
+adlad aifafemed zn eT
+
+adam qaaa: aad
+at aa aafesaraa |
+aR sf daa
+faasfay Fea varies W841
+
+ABCDFILORSW
+
+Iic sae O 12b fea? LW “ad FRS 12c °aa L ‘ata
+wea D, °afaiea W order in D: 13a, 14b-14d, 13b-13d_ = -13¢ B®”
+om, W, 3° L aomgre FRS 13d asf L 14a afan C 14b
+°firsq® 1 15d fratt L
+
+=== PAGE 71 ===
+
+igacanftattseare: 1 my
+
+adian: aaga: asttay
+
+at frat aaareaan |
+afafia aga gars
+
+atafzd gaatga TGR
+
+adian: ange: aay
+
+at saa TearaaTy |
+Rated arrafaegatl:
+
+gana qassatag il 2 Ul
+
+adtaa: aaqa: adi
+at saa afrarnieg |
+ag Aaa DAF
+saa Aehoaray 8 tl
+
+satay Zaqe: agar
+
+at fava sagadiag |
+waifsare aeqraaer
+
+aaquaesa zamled 7 22 I
+
+aia tage: aaa
+
+at cad faaaatay |
+freer areata
+
+geared waz Tio il
+
+ABCDFILORSW
+
+16 om, ABCDILORSW iéa gaat F 16c °aagnat F 17b
+
+wea’ RS, tat? ABCDILOW 17¢ Aa ABFR, zat CD, xren° W,
+zie’ 1, 22° O Cat BCDI, “st W “Hfeai: BCDL “a: 1 17d ga
+fat FRS 18a adn S 18c agra’ 1, aaa Lo Cand 1, Catt
+
+w 18d ana’ F = 1gb saa CDF —.20c “aT a?
+
+=== PAGE 72 ===
+
+fe eaters
+
+aftamt Ree: war:
+
+aaa ae fraaaay |
+saaehs qaee
+
+fared afrratag  8 8
+
+oq fgfare: 1
+
+adiaden azar
+
+at oRafa TET |
+gaemna agenfrara
+
+wT gla BAT WR Ul
+
+erga aesifaar: —
+
+aay aaa a agra: |
+meas: faangend
+
+argu waaisaad | 22 I
+
+actaden daacasiar
+
+at seat cama |
+area Arar
+
+favaeis qaaistd 7 22
+
+adtiader waz aat
+at ofa cards |
+wuread gaa Bas
+fread as as TN R4 I
+
+ABCDFILORSW
+
+aia tage: CW aid fafen’ B, dita L 22c agama’ ACD-
+FILORSW, gaff” B 23b aal wit BRS 23d aa@° F, war’ RK
+2qc waa L “Ma ABDFIRW, “ale: CO 25a “daget: D 25b
+aw ABCDIOW =. 25c 2a’ F, 27 B
+
+=== PAGE 73 ===
+
+farweanftaitseara: 1 ay
+
+adtadeat wreath
+
+at spafa gwaeey |
+RATATAT
+
+waa Ta BATT | X& Ul
+
+aftadear eer
+
+at s@afa zara |
+auifts Feat ger
+
+nerad waat FATA | Rv Il
+
+adtadear aaaiasttar
+
+at cea starry |
+faded acafafaarst
+
+gorges fae an << il
+
+ahaaear wWatagar
+
+at cata fdas |
+amats wa fas
+
+sats waft FW Re 1
+
+ABCDFILORSW
+
+26c °sarya® AO, “saan? B Cah FRS = 2¢d gaat Fo a7d
+ga DIL, x ABFORSW 28b wa W 2k aeq’—28d fia° om.
+LW 28c “faafad a D after 2€d a W adds: + wi 4 ard age
+sari = 2ga HRT D = zgd aa’ S
+
+=== PAGE 74 ===
+
+R Tareas
+
+aetaden aaa
+
+at seaFa AeA |
+faneatiia aaarhage
+
+at afi aaaei 7 Ul Ro Il
+
+aetadea eaareasta
+at s@afa Faq aR |
+Saale aeaBeE za :
+ganttad nar aay 1 2
+
+adizaear eaaagar
+
+at saafra saczieTa |
+aarme aftaica
+
+maa wadad FAX A
+
+adtadear alaaier
+
+at sqafa frarftara 1
+TATE WR TET
+
+antes arava ata 23
+
+adtadear eastagar
+
+at saafa qararty |
+fraaa ateargys
+
+setaehte WeaAG TN Re UW
+
+ABCDFILORSW
+
+30b fadiaqi Fo =. 31a CHa” LW 3b gH CD gic Te”
+ABDORS @arf@i L = 31d sapmed weaizées LW gaa’ B after 31d L
+adds: amnfid diaed aati (cf. 33d) ve gaaratt =. 32a “eT LS 32
+aa L ga° B, ga L, aft” F 32d saat L order in 1: 34, 33
+
+33d amnfad F 34 om, BLW 34b av LaF, aR 34d
+wera’ ACDIOR, seq’ F
+
+=== PAGE 75 ===
+
+farwrarftaitseaia: |
+
+adiadear efastaate
+
+at agata fafiatres |
+aarfad 9 afd aed
+
+afaftta aererg 777 134 1
+
+WRat
+
+ahaden: afaadrar
+
+at ceafra qanfaea |
+alas pang
+
+qyere aged J I Roll
+Teradea: aferdirastiar
+
+at sata fafraaes |
+Trargee fafa
+
+qaaa WaqeTs a 3 NN
+
+afiadean: afar
+
+at saat faders |
+seiead aaah 3
+
+MAB WaT FN 3, I
+aitadem: aria
+
+at ogatra fea ofa
+rata waar aad
+
+aa fad saat a eo WN
+
+ABCDFILORSW
+
+35¢ & afd om. S, eiefid FR
+
+B 300m. cod. 37 om, L 37d-38d om. B
+
+aq’ CD
+
+38 om, ACD 38a SHtafier W
+
+38b °R F, ES 38d aaqt om, LW, adad IR
+
+a
+
+35d gufea CD, gefa A, afta
+
+37d gee’ F
+38b=37b in W
+39d aa° S
+
+=== PAGE 76 ===
+
+a Teresa
+
+adtaden: afrarastar
+
+at rpifea aat aha |
+daha fgaea
+
+Haas CATT ek
+ahaden: araragat
+
+at seafa qarray |
+adtratarged Bast
+
+gas ages 7 We? I
+afiadear: afhaaaiar
+
+at sqafea waged |
+aad aga fet
+
+AE BG FareTq U1 RU
+atader: afastage
+
+at aga GREAT |
+aaiaesa aa feet
+
+Wee MWeATeR AAT ee Ul
+adiadem: afastaater
+
+at agate fea fear A
+aa aaa TyATAAG
+
+aaoad stated Ta 1 84 I
+
+ABCDFILORSW
+
+42c Ch F 438 @raatea: ~W 43c safes L, saree w
+45a cava” D 45b=46c in S 45d Cart CD, °sn? Ww, “
+F ef LW saa F
+
+=== PAGE 77 ===
+
+freeattstsvara: | rey
+
+adtaden: afta
+
+at oats garaafey |,
+art gard Taare
+
+feenfatta cazrarey le & Ul
+
+adtadear: gaarastar
+
+at sata eermafea |
+aafad cisked gah
+
+THAN BAAIGHT II Pe I
+
+adiadear: gaara
+at sara gas |
+eta wast were
+aifiaawmaagi Tec Ul
+
+Ttadea: gra aaier
+
+at pata ga: ata 1
+alavafrarads: alta
+
+aafes Saatad a ee 1
+afladen: gasiagar
+
+ad oats gary |
+qoifat aagramed
+
+waa Oa agIsa FY II
+
+ABCDFILORSW
+
+46a °aten D 46b gaa’ AC 46c art W aft CD guar
+
+Ww 46d “fad FW 47 om. LW 47¢ anfia B, ainfta FR,
+aimfa ACO, anmfia I, aiuPad Dawe R= 48 om. 1 48c HeqaT
+FRS wen LW, aati CD 49c dire? O Cag? W aad om. C
+
+49d aa° D after °fré CD add: gurfat 50b=49b in W
+
+=== PAGE 78 ===
+
+a arenas
+
+adiadear: gsisftaater
+
+at sepatta ferorqay |
+etas aftageaier
+
+aa: aad aad Ga 4 Ul
+
+afaaear: eagratT
+ad saaPa aETATIT |
+aa fact qearaT
+feaveand gaahergwa | 48 Ul
+
+adfiaaen qastagar
+
+at sgafa aaa ge |
+AAR aaa
+
+RORAAT A SAMAATT | 43 Ul
+
+arhadear gasfaaler
+at aRaPa gaAcey |
+Alias araleaTs
+ferhtasatraata 7148 Ul
+
+adaaent qagmare
+aR cafe aafaan |
+aantaa saat faa
+eI eT 1444 II
+
+ABCDFILORSW
+
+51) “gra F, °gen: W 51d ana |, gag B 53b-54a om.
+LW -53c ett D = 5qb gama” Ws 5g ga L 54d Saat
+aa° ABCDILOW, ‘aata a° FR °affaa ABCDIOW 55b-56a om,
+LW 455d Santana F, Ceirtaé 1, Crass B
+
+=== PAGE 79 ===
+
+firwearftaitsvara: 1 ve
+
+adadea gegrala -
+
+at saa Ge: ata |
+ferment gadis
+
+arqerra eated 48
+aa fafasem:
+z rqaaregatt
+
+at seats nerfs |
+
+ARAM DAIRT :
+
+ABA Fat TAHT | HOU
+heqaraeghaaiat—
+
+eadiadent saa ela |
+ae fran ofrarfient
+
+samara aaa 42 U1
+waeqaarg has
+
+radtaden saafea acy |
+aafaget aghast
+
+aaa TERS TW 4S
+wheqindgareadha
+
+at seat Aaafiag |
+guiad aragcqatey
+
+avaqeraet ata tI Ro Ul
+
+ABCDFILORSW
+
+56 om. D 56c gaa’ SW, aad? O 56d dge* om. w,
+wage’ L 57b safe’ O “yd B 57¢ awit acs CD 58a “qua.
+atn F 58d Carefia’ F 59a Satara’ L 59c ama’ Lw,.
+aenfa® B, defi? ACDFI 54d “am O ~— Gob “ft LW, “frei A
+
+=== PAGE 80 ===
+
+ae qeaetsTTe
+
+argararng faa
+
+weaaen seata aa
+qed agar
+
+franfes meray 1&2 0
+
+adrgerargegfaarer—
+vadtaden saafta wea
+
+Wart
+
+wrqarardgaadha
+
+at saata agaatdy |
+TRATAPAATATST
+
+TAR WPA FT 3
+
+washing ar
+
+eadtaden saafta aay |
+qa
+
+aaaa Faas HA | AY I
+
+warashasgaraay
+ai sgata aanfirray |
+amaesndgea aaa
+neqrafterafea fea a 1&4 Ul
+
+ABCDFILORSW
+
+61c ma W 62c-d=63c-d ( but with qauftateqina’ ) in S
+for 62c-d W has:
+wat aed agesard
+myfterncont —-
+the rest omit 62c-d 63¢ were’ IR ‘art D, aa W 64d ya°® D
+65c ‘ward? F °ga FR 65d feiom, BLW after a L adds wat
+
+=== PAGE 81 ===
+
+frecariteitsera: 1 a
+
+irzanigaertt
+
+at spate fachagter |
+ARTA SRA
+
+aemraener aha RE I
+
+aatearanaegisane
+
+at sara qufaaray |
+asftad Teast FEI
+
+AAG 74 82a | Ro
+
+aaharargeafaarat
+
+at s@afa gers |
+apftedea: gaara
+
+waa ah PaaAaTT RSH
+aakararsgaraat
+
+at spare vada |
+aaa seated gate
+
+fataa taza qT ke 1
+qafestaraegsarat—
+
+sqdaeem saafta wee |
+agent yma ait
+
+aohegarfeagTaar tl vo Ul
+
+ABCDFILORSW
+67a ‘arene W 67c aed CIL 67d aziom. A 68d
+
+aia BL Gob wafagh W Occ ag 1, a A wairg L 70d “att
+om. S
+
+=== PAGE 82 ===
+
+ee Teaararei
+
+qatestartgareacha
+
+at cada gosta |
+aarafrerdat: at
+
+HaHa AAMEATT, 1 9 At
+
+aategartgarerdy
+ai s@afa gafgaray |
+WAS THOAHH
+aerraarraaeray | 9%
+
+aaastagraaaret—
+
+eadtacen saafa ada |
+Rafgsrai sot free
+
+TIAA: BRI FTAT 1193 Ul
+aaasfartaaegtt
+
+at omaha Baa |
+sears afiat gag
+
+PPUATTABSTAGT |] 9? I
+
+qaqanrsgargha
+
+at saaPa gama |
+agad adda: att
+
+aeaqeraled 24 04 1
+
+ABCDFILORSW
+
+7ia Cedar W 7id saan W 72a=71a in D 72
+weq’ F “st BCDILW aga’ W 73a=70a in F 73b wi L
+73d “AR: FRS sf&i FRS 74b-75a om. W 74¢ arenas FRS
+wma FRS 74d “wea? I “ae? Fo 75b Fam? L 75d “qsmrenité F
+
+=== PAGE 83 ===
+
+frwearftertseara: | oT)
+
+aaiatsrrgeqsaart—
+
+rated seats asta |
+aes wuhiga age
+
+aR: sath astaTHA | OF II
+aanataagfaarr—
+
+adaarat santa ady |
+quran faata a
+
+TAMA PIVCATATL ll 90 I
+
+seRaPATaRa fara
+radaaen aaafea aay |
+Faas BE FI wc it
+
+WARarATSTATAT
+
+at ogafta aarquay |
+qaiaeta searaaa
+
+aud famed + bee 1
+araqusfaracarare—
+
+radaden aaafta aeiq |
+asad vaafeaed
+
+qoutad Bat RIT I co UI
+
+ABCDFILORSW
+
+7éc agar BB eafagd L 76d aqui CDFR, 9% S wa’ AD
+77a wares (qsq Fat’ cod. 77-78a om, W 774
+‘si ABCDO gb aqqri CD =79¢ PL 80c aa" R, aa? F
+°ga? B, “ga? I Cad FR, Cad S| 80d waifat F
+
+=== PAGE 84 ===
+
+oz
+
+s
+
+Tarecanel
+
+wanstariganaha
+
+at a@aRa fame |
+aftrdt agagai
+
+Braet aerat: sa <2 Ul
+FARBRMagATAy
+
+ai seta safaris |
+He Tard gad ake
+
+fadtadartrd 82a 1 c2
+waasiageaisarr—
+
+eater saa weal |
+Bavarnigd Aas
+
+farmalt axa 7 eR
+
+aaasharsgargay
+
+ai agafta aRadtaa |
+faarazedt gaé
+
+aarfeda afore F294
+
+WHAYRTTATAT
+
+at o@afea earaaiey |
+Tags TARA
+
+waar me ae UN C4 UI
+
+ABCDFILORSW
+
+order in S: 81a-b, 82c-d, 82a-b, 81c-d 81c afta? S agqa?
+81d aaaa: F Page S 83c ware? L fata om. D, aa% C
+
+83d fafa? O, frga® RS, faeat’ F 84c aa ABCDILOW, gag F
+
+84d fad CF
+ae’? O
+
+85a “eqdiat W 85b aaa? S, fear” D, gaa F,
+
+85c araanfa? FRS
+
+=== PAGE 85 ===
+
+frwenftaitseara: | on
+
+TRAE TSAaT —
+
+eadadent saafta wet |
+Tad asAge
+
+faerie agated Fn c&
+
+Aaastarara fare
+
+at sgafea GarersTers |
+aa Waa
+
+waar Waa TU co tt
+
+Fagsharsgaredda
+
+at calf zarraag |
+STATA TS
+
+TAH FIBA FU Ce
+
+Aaggardgaegdt
+
+at s@ifta sary |
+wares aeenfaes,
+
+faarfafa arraaqa 7 <2 11
+
+Arateargeqsaata—
+
+eadladear saafa ada
+Bere Fag
+
+feat edad TU eo
+
+ABCDFILORSW
+
+86a anatase’? B 86c ernt om. LW gaa D “fg FRSW
+86d aaatgi O =87b gat’ C 87d sufsatt ABCDO, ay Prati ILRW,
+mafadtet F, safiatt S 88d aa° W ga’ D ‘amd I 89b at sar
+aden ati W = 8g awa” BCDILW °q<i FRS = oc ewen® BL gaaeq?
+Ww god “aft F
+
+=== PAGE 86 ===
+
+oe aararart
+
+aearrergeqsari—
+
+radiata saafa wea |
+wera Was BAe
+
+aise aaaisa a 38
+ug aafareT: I
+aeainagtarea-
+
+radadent saafta aed |
+saqafravaga: ata
+
+wufad haa ata eR
+
+erghtagtarg
+
+at selfs meTyTay |
+aatrareaaents
+
+ayes aed sararg 1 %3 U
+eaeqaaghaaga—
+
+sqdlageat sania aed |
+fafretatsactiaarst
+
+aaifrad aaa F132 I
+
+waegitamnqsaaar—
+
+eqdiadeat saa aed |
+faqraaiaaaaann
+
+fadiatt aa a7 14 Ul
+
+ABCDFILORSW
+
+gtc=goc in W gic HAH C gid a F tom. 1 col:
+aft fgzaad agit deat W col. giom. B  g2c “rare” O, *frag®
+B g2d- walt FRS g3c aatfad ta? B g4c Rae? C gd
+zar L afaataa CD —g5b-95Aa om. LW gsd sari D
+
+=== PAGE 87 ===
+
+fgaearftaitseara: 1 o%
+
+( aretaqgaga—
+
+eadtadear aaafta why 1
+Farad aad TAT
+
+ahaa TEATS UN)
+
+aahraaiaraeqsaatr—
+
+eadadear aaatea wea
+gerard gag
+
+Zafgarai fad fafag ee
+atrzierages7ara—
+
+radadear saafea aay |
+aneidts eae978
+
+THAT TAH Te
+
+ahrzarragsa ga
+
+edaaear aaa ahr
+alfa adat sia
+
+aaa qaarqHT WS
+
+argaameaai—
+
+eadiaatar aaafea ae |
+frafafas cages
+
+Sars afar ata ee i
+
+ABCDFILORSW
+
+g5Ac ater® BC, ary” AO, aie F °<t BLW, ‘at FRS aaré CD
+g54d agvia® FRS goc “afiazd F gai S, daz B g6d-115b om.
+w g7b saaft aa om. L wf B g7e wat ABCDILO, wa’ R,
+aw Fo g7d wat’ B, aaa Fg 8a Cataav’ CD g8c zat? FS
+98d ean? L gob safe net om. D gge Cat Ls ggd fata”
+I, Bara’ FRS afar’ S
+
+=== PAGE 88 ===
+
+ee eaaaaaTTs
+
+sragfargeyeai-
+eadtaden sata wer |
+Aare PReAATT
+> fafeoaarfard ada 22% 1
+
+Aagstargepadia-
+
+radtadear saata aay |
+sae AAMT
+
+aftadtl fai Fer 1 eR
+
+a4 Gafraet: Ul
+
+erginaT Taya
+agdtadear aaafea nay |
+fafaaaaraud qua .
+tara TET ATT 1 2 kz
+
+rads eran
+
+eqetaen safer aed |
+areata guret
+
+gaan fragt 4 822 i
+
+ABCDFILORS
+
+rib saafa aa om. CD t11c-112b om, F 112b safe
+aa om. CD I12c °HARaT F 1i2d afta FRS col. sfa *taaaaa
+daateci dt W after 96 col. agfi? D, aa/dafa’ C 113b
+
+saat atom, CD = 113c-tryb om. I 114b waft ae om. CD
+114 om. F I14c “frariact ABILRS gated ABC, gard IRS, geret
+L, corr, to gareq L?, gang D 11qd aga° IL
+
+=== PAGE 89 ===
+
+faweatitaiiseara: 4 - es
+
+eirgirataartga—
+radiadear saafta weg |
+"Fae saa
+fea farai qordgarara 1 824 I
+
+area
+
+aden: daaafa aq |
+adtadeaaat ated
+
+rate waiaaa 1288 U1
+
+argtrameqeays—
+
+aeeny: aaaafa nay |
+adladear saat
+
+aaa aAfafaaed 7A 220
+
+gaara
+
+aaart: aaaata ae
+gad wafers
+
+faftat qoafaahia a eee
+
+ABCDFILORSW
+
+115b saafa wom, D av om. C — 115¢ east W afar D
+115d anda a F r16a °saI: FR 116b wom, D 116
+
+wate A, wate} FR 116d-117d om, L 116d °faa® BSW-
+117a gst: DFORSW si7b aom, D 117¢ Cwemart WS o118a.
+°gmt: FRS 1rsb ae om, D 118c-119b om, 1 118c wanfe?
+
+ABCLOW, #fa° D, wamfa’ RS, wagfa’ F 118d “frat W, °feaita FS
+
+=== PAGE 90 ===
+
+<e TaraaaTy
+saralapagR-
+aaa: aarafta wae |
+
+qhaden gas gata
+wanPad HaaaBI T1888
+
+ag etaseq: 1
+
+aver: daaafta alg |
+Faker afta gai
+
+puts afianbad a 11 e204
+
+a4 aafisen: 11
+
+aft fegaat aca:
+
+ABCDFILORSW
+
+11ga “ger FR r1gb dwaifiaeiom. CD 119 @@s CD,
+gga Ll ade S, gum A, aft B 119d éafx° ACDIO col.: sf
+Meera aftaecia aqat W col. om, O 120a *gat: FIR 1z0b
+aaadfa ae om. C 120¢c aft FRS, aaaf% B col, : actafierrt aqui
+W chapter col, om, O *f° om, FIRS agaare ati: W
+
+=== PAGE 91 ===
+
+Brrenfiatsera: 1122 0
+
+aaifacedianae: gael
+ai faa3 guétediag |
+frre wats a
+wads Waa |
+sataess Wags 72
+amiPaaetiena: qa}
+at frat aasrddaq |
+seafeaareed Faget
+arifaa aaatad a 1 2 11
+aieataacheornergl
+at gard antifenay |
+rags ahaa
+wei gat F271 3
+Sfataadtenae: qanit
+ad 9a afearraraa |
+fdas sagen
+frais Foaataa a iy ii
+gateaadiense: gael
+at saa agamaray |
+was Saat Tee
+agra aeaaebad a 14
+ABCDFILORSW
+1b 4a? CDF ic om. C °a¢% ADL Id aaiff DORS
+Ie om, AO ab “aia” O 2c 9a? DO “AIAN 9 cd a OW.
+am CD = 3a agai ORS, qaen L 3b saa F, faut L 3c af’
+FLW 3d gat CD 4b afaa’ (4c gaa” C, Fa L 5b
+cara’ B, Sara’ F, Sara? W Catt F 5c sar? F, avn” LW qe? C ‘ak
+R, “ad Ss, “at B .
+
+=== PAGE 92 ===
+
+<2 eames
+
+Aaaarhens: Geen
+
+ad saa watifeary |
+aaa sea
+
+fame ITAL | & Ul
+waiead aaa: Gaa:
+
+waeagd asaaa aay |
+ame WER
+
+sare argfaatia 9 tt
+
+wala: Maga: GaN
+
+at saa agaleagey |
+seas BeRTs
+
+watt storgai afte tt < it
+saad tage: gad
+
+at aag gait saa |
+agrard qIACHE
+
+eurad taqerawyz 1S I
+
+nerad eaifant Ta |
+saaRafsaahael
+
+gonad fad ata io Ml
+
+ABCDFILORSW
+
+6b-7a om. Ws 6c “ar F, “a LS 7b renga FR, Sener
+W, wore aS qe Care om, A, °am® L 90 seni ADFILW
+arg’ FR, mer’ S “Rafi O — gc-rob om, A rob #fa° L = rod
+ftt B
+
+=== PAGE 93 ===
+
+Preearftaitsware: a
+
+wala: ada: geen
+at saa qed ata |
+Aafia we
+frre Bae RTH 82 UI
+
+Arnfaa: aga: gaan
+
+at saa gaardteq |
+aston
+
+gata sifafaatta au eX U
+
+Aafad Faye: geet:
+
+aaa ad faa gdtar |
+aadnerarafiend
+
+MAY FNRAT ll 03
+
+arrhaad teaye: gael
+at saa naa a |
+atadta Red ai
+araaergqanaardy | ky I
+
+anfaa: alga: geet
+ad TEA ARTA |
+aaa Aefafsar
+aataerfonfange 84 Ut
+
+ABCDFILORSW
+
+I1a qga: om. B,......af: W 11b gyri BCFLRSW Tre
+qe’ D r2d fifa’ D 13b gai BF —s 3c @@a° cod. *avarax
+ACIOW, ‘anwar 1, “mama D, cnanast B “frewt CD = 13d adgati
+W, ate’ CD 14 om. O 14c afta’ FLRSW 14d aa”
+cod. stwad S, ‘ated L, aera W, Cat 1 5c art W 15d
+eta’ D :
+
+=== PAGE 94 ===
+
+ee FareTATTe
+
+Srataa tae: gar
+
+at saa aeatergea |
+aaa Fidat cea
+
+avaysa afaigd a 88
+aiatadt Game: gael
+
+at saa aatetted |
+aegaea afd a ar ea
+
+dares a TAA TANAT IN Lo Ut
+apafaa: aga: gaedd
+
+at saa fafaarraday |
+arhfeas Sas
+
+Dasa s3gI TN LS Ul
+sharadl tee: gael
+
+ad TaAstanferrsy |
+gatawafrgaret
+
+aaiftad ata Aza 1 &e
+
+Wolk
+
+gataa: qiga: Fan
+
+at aqaseige fafrerz |
+frets wae
+
+Blea Wass TRL
+
+nq fgfateu: 1
+ABCDFILORSW
+ibe zfs om. L, in marg, L? 16d afta F 17a a-
+ge: DW 17b qa om, LW 17¢ aja FR 17d aa? L
+18b ‘arkaa W, atadit: FRS Ca: ABCDI, ‘iat: O 18d °aa ABFI-
+ORW, ‘ara C, °ara®? DS 1g om, W 1ga §@’—19d watad
+
+om. BL 1gbs&° D = 19¢ °a@e@e D = 20 om, cod. — 2c
+aaa? FRS ‘eaara: W aid aaa° W
+
+=== PAGE 95 ===
+
+freearitaitseara: 1 ra
+
+aaa: waM Aq
+
+aa seatra Aaefaey |
+gifaaea afadiags
+
+frada deraafad To 2% Ul
+
+sarge: Ba Aga
+gata dita afar |
+Teast HAET
+qaeeaisageguy 123
+
+wairashar: Bar AA
+sania SIS w TT |
+aay Aearaafingd
+ara ate afafradiaa ze i
+
+Tara: FAN AACA
+
+aa wpaa FRAT |
+BES RIC CU CuEaD!
+
+cater aaa TI
+
+areata: Gan A_e
+
+gata aafaaaaa |
+weae taqegaai
+
+ae ATEPATY | R4
+
+ABCDFILORSW
+
+22a 4am D amai W 22b faas°—23b wafi om. Forder
+in S: 22a, 23b-d, 23a, 22b-d 23a Catar: S 23b fae BIW,
+aa CD 23c “dai W 23d °aafaa® L "ae S 24a Saat
+CD —.24d_ aa CD, aed FW 25b aay CD 25¢ casas”
+L cae W 26c “faaat W
+
+=== PAGE 96 ===
+
+“et
+
+qerararel
+
+qatar: gant age
+
+Fifa da witagery |
+ReAae HITT
+
+PAA TANS FW RU
+aatesttar: gam aya
+
+aaa marfigaegetry |
+frearisiea cert
+
+Airyt AastargUHT WR Ui
+
+aategar: gaa Age
+
+wal qRARA Fay |
+Fares TETRA
+
+qed wadgd a R81
+
+aakale: gear ager
+
+wits TARA: aa |
+faquest seat
+
+ereaai Afaaafead 1 0 1
+
+adgsfa: gear age
+waa arnfrageasy |
+arhers aia
+eaifasrengatrerrray 2%
+
+ABCDFILORSW
+
+27c “get ABCDFIORW 27d aan? Ws 28a “diva F
+31d aif BCDILW ‘aniféa’ BCDIL, ‘arafta* W
+
+> aranfig’ LW
+
+28b
+
+=== PAGE 97 ===
+
+freverftaitseara: |
+
+agg: gaa wqTr
+
+wafea ot fra geher |
+frasarnieaadrat
+
+mated SAI FATT NBR Ut
+
+aasata: gam Fae
+
+Fifa wiahatsa a1
+afraamiand ata
+
+sarees SHBG N32 UI
+
+qalatsargys: Fae
+
+at ogi aaa Gay)
+frareags WRTaRTA,
+
+eran seas 287 U1 28 I
+
+qaiateartge: Geer
+at cRAPa WeAgSTT |
+fagwad Tea
+aerfatardaahdea 0 34
+
+qaigwataa: gee
+
+at nqafra gefeaar |
+fagued oat att
+
+drnftrerst qorafsia 7 3&1
+
+ABCDFILORSW
+
+32¢ fan® F
+
+order in W: 34a, 35b-d, 35a, 34b-d
+
+ce) 35b °me
+36c Sor} F
+
+sania? BW 32d fran” F
+
+ACFL 36a qatar’ CDLW
+
+34a ata” W
+
+33d sza? |
+34d ae
+36b “fiers W
+
+=== PAGE 98 ===
+
+«ee Tarra
+
+sana: GaN AEA
+
+wits fensaniges |
+maa Patsy
+
+RETA WIAA Zo
+
+agar GaN RATT
+
+gata vasaareasy i
+avers’ Foaeqara
+
+Rear BaaAG TW 3c
+
+Wei
+
+ANAT: Fa HAC
+Rita wasfaqnaay |
+aaiss Aa
+fafreaaasaarat a 20 fi
+
+aagasta: gant Aga
+
+gafa areata |
+Tae AAAN: ata
+
+agar fafaarttdag ee i
+
+VRIYH Qa Aga
+
+gata afraadad |
+sAASTNIsAyAA a
+
+HUA FINTRET 1 8% tl
+
+ABCDFILORSW
+
+. 37d cart cod. 38d “dz# O 39 om.cod. — goa “ate:
+sw 4ob °frrn® W car BW Ala-qzaom,C = 4Ic_ gare”
+DW, wa ABCIOR 41d ‘sari W faafsenfits S 42a gum D
+42d fen? D ean L :
+
+=== PAGE 99 ===
+
+Prwenftaitseara: 1
+
+aT: TAT AAT
+
+gata Ragan |
+Rea FFOTATAT
+
+mafia aad a THM eR I
+
+WRATH: FAT AAA
+
+waa qaraafaqea |
+anefag, gar ata
+
+zaad aadad 7 ee tl
+
+SRIIG: Gat Agel
+
+aha Halraaieny |
+Ane feaaargiaa
+
+aradais: eqadtat a 24
+
+aagUasga: Baa
+at aeafa sfaratag |
+aargara gaaifars
+atqaeisaaiad Wek i
+
+aiagstar: am wae
+
+afd Gasaareraray |
+aus eoraersarg
+
+fRareh NeaaFad a ve 0
+
+ABCDFILORSW
+
+43b °sfafts® BLW 43c Faz" O 44a guar D
+
+°aq FRS, “aa? D °sfaa F 45d at DF
+46c Cara W, sa B, Ss F, “stat S, at DR
+46d °aafa® BLW, °anfta® C, Campi? ADFIOR
+
+46d a om, I
+46d-47c om. S
+
+47¢ aR D, we° F
+
+=== PAGE 100 ===
+
+eaves
+
+aaa: gem Ay
+
+gata arifeaaeniay |
+aerial faarart
+
+ra AATTT TM Vd |
+
+aga: gen wyTT
+
+gate qonfasfaeaey |
+Raa wa
+
+afague afea ata 22
+
+AAMAS: FAST
+
+at ogafta aar gaher 1
+atafsa aRaersard
+
+aeq wait quaamay ti 40 I
+
+Aartearsgar: sae
+
+at sgafa qe |
+areas BeTga Tae
+
+dey atae fea feud TN 4e
+
+Frgtearsgar: gear
+
+at s@ata aeeaay |
+qege agaaey feat
+
+TTT WTA WR A
+
+ABCDFILORSW
+
+48a “am: C —-48b-4ga om. LW 48b aRrita® FR, afaaia®
+
+D SaRpTa C, “aarti D, Camas F 48d gue C 49 om, S
+
+50a “ats? W
+
+50c wR® DFRS sod get A, ga 1 ara’ W
+
+51b ae° C, ae DFW, a S 5id yj om, D ate D fet FLW
+
+52a dem? DF
+
+§2a “dgat:—53a ahaa in marg. O

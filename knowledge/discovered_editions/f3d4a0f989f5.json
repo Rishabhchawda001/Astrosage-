@@ -1,0 +1,176 @@
+{
+  "title": "Time_Frequency_Analysis_Om",
+  "discovered_at": "2026-07-13T15:28:49.909260+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp86-00513r001964100026-6",
+      "title": "CIA Reading Room cia-rdp86-00513r001964100026-6: SCIENTIFIC ABSTRACT FR:ZAYTSEV, M.K. TO:ZAYTSEV, L.M.",
+      "creator": "CIA Reading Room",
+      "year": 1967,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp86-00513r000204800010-6",
+      "title": "CIA Reading Room cia-rdp86-00513r000204800010-6: SCIENTIFIC ABSTRACT FR:BEREZINA, G.P. TO:BEREZIN, Y.A.",
+      "creator": "CIA Reading Room",
+      "year": 1967,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "DTIC_ADA188661",
+      "title": "DTIC ADA188661: Time-Frequency Representations for Speech Signals.",
+      "creator": "Defense Technical Information Center",
+      "year": 1987,
+      "language": "english",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp86-00513r000616900035-6",
+      "title": "CIA Reading Room cia-rdp86-00513r000616900035-6: SCIENTIFIC ABSTRACT FR:GRINGAUZ, K.I. TO:GRINGAUZ, K.I.",
+      "creator": "CIA Reading Room",
+      "year": 1967,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp86-00513r002065900021-6",
+      "title": "CIA Reading Room cia-rdp86-00513r002065900021-6: SCIENTIFIC ABSTRACT FR:ALEKSANDROV, V.M. TO:ALEKSANDROV, G.V.",
+      "creator": "CIA Reading Room",
+      "year": 1967,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "cia-readingroom-document-cia-rdp86-00513r000204800010-6",
+      "title": "CIA Reading Room cia-rdp86-00513r000204800010-6: SCIENTIFIC ABSTRACT FR:BEREZINA, G.P. TO:BEREZIN, Y.A.",
+      "creator": "CIA Reading Room",
+      "year": 1967,
+      "language": "english",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2167464793",
+      "title": "Description and Power Analysis of Two Tests for Detecting Recent Population Bottlenecks From Allele Frequency Data",
+      "year": 1996,
+      "is_oa": true,
+      "oa_url": "https://academic.oup.com/genetics/article-pdf/144/4/2001/34668949/genetics2001.pdf",
+      "authors": [
+        "J. M. Cornuet",
+        "Gordon Luikart"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2061382044",
+      "title": "Theory of high-harmonic generation by low-frequency laser fields",
+      "year": 1994,
+      "is_oa": true,
+      "oa_url": "http://link.aps.org/pdf/10.1103/PhysRevA.49.2117",
+      "authors": [
+        "Maciej Lewenstein",
+        "Ph. Balcou",
+        "Misha Ivanov"
+      ]
+    }
+  ]
+}

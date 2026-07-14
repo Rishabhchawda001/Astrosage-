@@ -1,0 +1,100 @@
+{
+  "title": "Skand puran 21",
+  "discovered_at": "2026-07-13T15:17:10.342396+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "HridaayaleshMahatmyaInSkandaPuran4757GhaAlm21Shlf4DevanagariSkandPurana",
+      "title": "Hridaayalesh Mahatmya In Skanda Puran 4757 Gha Alm 21 Shlf 4 Devanagari Skand Purana",
+      "creator": "eGangotri",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "KRI592KailasMargArthaSkandPuranBrahmottaraKhand1872AgraSwamiMadhavanandPrakashYantralayaAgra",
+      "title": "KRI 592 Kailas Marg Artha Skand Puran Brahmottara Khand 1872 Agra Swami Madhavanand Prakash Yantralaya Agra",
+      "creator": "eGangotri",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "JPEG Thumb",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "swahahaviswadhashradhdhakshinayagyaindevipuran",
+      "title": "Swaha ( Havi) Swadha ( Shradh) & Dhakshina ( Yagya) In Devi Puran",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4396639696",
+      "title": "Ashwamedha Yagya in Puran",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://dsiij.dsvv.ac.in/index.php/dsiij/article/download/341/246",
+      "authors": [
+        "Manisha Bhardwaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4391183190",
+      "title": "Does the ancient Indian practice of Yagya reflect some critical product design attributes? A Designer\u2019s perspective",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://ijyr.dsvv.ac.in/index.php/ijyr/article/download/111/141",
+      "authors": [
+        "Abhishek Srivastava",
+        "Sonal Atreya"
+      ]
+    }
+  ]
+}

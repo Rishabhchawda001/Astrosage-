@@ -1,0 +1,57 @@
+{
+  "title": "08. Dr. Mohini Mehrotra",
+  "discovered_at": "2026-07-13T11:51:32.533895+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2436159294",
+      "title": "India's fragmented social protection system: Three rights are in place; Two are still missing",
+      "year": 2014,
+      "is_oa": true,
+      "oa_url": "http://hdl.handle.net/10419/148749",
+      "authors": [
+        "Santosh Mehrotra",
+        "Neha Kumra",
+        "Ankita Gandhi"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7165400790",
+      "title": "Government Copyright in School Textbooks and the Fundamental Right to Education",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.61238/ijcl.2021.10.1.05",
+      "authors": [
+        "Anupriya Dhonchak",
+        "Rahul Bajaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2436159294",
+      "title": "India's fragmented social protection system: Three rights are in place; Two are still missing",
+      "year": 2014,
+      "is_oa": true,
+      "oa_url": "http://hdl.handle.net/10419/148749",
+      "authors": [
+        "Santosh Mehrotra",
+        "Neha Kumra",
+        "Ankita Gandhi"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7165400790",
+      "title": "Government Copyright in School Textbooks and the Fundamental Right to Education",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.61238/ijcl.2021.10.1.05",
+      "authors": [
+        "Anupriya Dhonchak",
+        "Rahul Bajaj"
+      ]
+    }
+  ]
+}

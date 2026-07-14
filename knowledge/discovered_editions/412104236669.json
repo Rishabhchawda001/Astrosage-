@@ -1,0 +1,264 @@
+{
+  "title": "108 Upanishad Part-1",
+  "discovered_at": "2026-07-13T11:57:10.568312+00:00",
+  "edition_count": 12,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "The Dhamma Of Gotama The Buddha And The Gospel Of Jesus The Christ",
+      "authors": [
+        "Aiken, Charles Francis, 1863-1925"
+      ],
+      "year": 1900,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "TheDhammaOfGotama",
+        "dhammaofgotamabu00aike",
+        "dhammagotamabud00goog"
+      ],
+      "edition_count": 5,
+      "isbn": [
+        "1428621970",
+        "0548113238",
+        "9781428621978",
+        "9780548113233"
+      ],
+      "publisher": [
+        "Marlier & Company",
+        "Marlier and Company, Limited",
+        "Marlier & company, limited",
+        "Kessinger Publishing, LLC"
+      ],
+      "ol_key": "/works/OL226790W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "the-fundamental-message-of-islam",
+      "title": "The Fundamental Message Of Islam",
+      "creator": "fmoislam@protonmail.com",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "McGillLibrary-rbsc_Indic-MS_37_Poleman520-20315",
+      "title": "Stotras and other Sanskrit religious texts",
+      "creator": [
+        "S\u0301an\u0307kara\u0304ca\u0304rya, author.",
+        "S\u0301an\u0307kara\u0304ca\u0304rya, commentator.",
+        "Container of (work): S\u0301an\u0307kara\u0304ca\u0304rya. Works. Selections.",
+        "Pus\u0323padanta, active 10th century, author.",
+        "Container of (work) Pus\u0323padanta, active 10th century. Mahimnah\u0323stava."
+      ],
+      "year": 1700,
+      "language": "Sanskrit",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "Image Container PDF",
+        "Item Tile",
+        "MARC",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "108UpanishadsPart1brahmaVidyaKhanadaPt.ShriramSharmaAcharya-Hindi",
+      "title": "108 Upanishads Part 1 (brahma Vidya Khanada) Pt. Shriram Sharma Acharya-Hindi",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2589257150",
+      "title": "Isha-Upanishad and Economics Consideration: An Elucidation",
+      "year": 2016,
+      "is_oa": true,
+      "oa_url": "https://www.nepjol.info/index.php/EL/article/download/14864/12068",
+      "authors": [
+        "Babu Ram Gewali"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3136303058",
+      "title": "INTEGRAL EDUCATION IN ANCIENT INDIA FROM VEDAS AND UPANISHADS TO VEDANTA",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "https://www.granthaalayahpublication.org/journals/index.php/granthaalayah/article/download/IJRG18_A07_1468/1244",
+      "authors": [
+        "Albert Ferrer"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "The Dhamma Of Gotama The Buddha And The Gospel Of Jesus The Christ",
+      "authors": [
+        "Aiken, Charles Francis, 1863-1925"
+      ],
+      "year": 1900,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "TheDhammaOfGotama",
+        "dhammaofgotamabu00aike",
+        "dhammagotamabud00goog"
+      ],
+      "edition_count": 5,
+      "isbn": [
+        "1428621970",
+        "0548113238",
+        "9781428621978",
+        "9780548113233"
+      ],
+      "publisher": [
+        "Marlier & Company",
+        "Marlier and Company, Limited",
+        "Marlier & company, limited",
+        "Kessinger Publishing, LLC"
+      ],
+      "ol_key": "/works/OL226790W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "upanishad-108-in-hindi-part-ii._202409",
+      "title": "UPANISHAD 108 IN HINDI PART II.",
+      "creator": "V.C.SINGH",
+      "year": 2024,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "108-upanishad-hindi.-part-i.",
+      "title": "108 UPANISHAD HINDI. PART I.",
+      "creator": "V.C.SINGH",
+      "year": 2024,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "upanishadpart1",
+      "title": "108 Upanishad Part 1",
+      "creator": "",
+      "year": null,
+      "language": "English",
+      "formats": [
+        "Abbyy GZ",
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "Scandata",
+        "Single Page Processed JP2 ZIP"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2589257150",
+      "title": "Isha-Upanishad and Economics Consideration: An Elucidation",
+      "year": 2016,
+      "is_oa": true,
+      "oa_url": "https://www.nepjol.info/index.php/EL/article/download/14864/12068",
+      "authors": [
+        "Babu Ram Gewali"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3136303058",
+      "title": "INTEGRAL EDUCATION IN ANCIENT INDIA FROM VEDAS AND UPANISHADS TO VEDANTA",
+      "year": 2018,
+      "is_oa": true,
+      "oa_url": "https://www.granthaalayahpublication.org/journals/index.php/granthaalayah/article/download/IJRG18_A07_1468/1244",
+      "authors": [
+        "Albert Ferrer"
+      ]
+    }
+  ]
+}

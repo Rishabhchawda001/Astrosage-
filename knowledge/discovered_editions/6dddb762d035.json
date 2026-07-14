@@ -1,0 +1,149 @@
+{
+  "title": "unencrypted-geeta",
+  "discovered_at": "2026-07-13T17:07:38.029739+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "unencrypted-geeta-1",
+      "title": "Geeta",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "unencrypted-geeta-1_202308",
+      "title": "Unencrypted Geeta ( 1)",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3113303577",
+      "title": "Addressing Misinformation on Whatsapp in India Through Intermediary Liability Policy, Platform Design Modification, and Media Literacy",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://scholarlypublishingcollective.org/psup/information-policy/article-pdf/doi/10.5325/jinfopoli.10.2020.0276/1611493/jinfopoli_10_1_276.pdf",
+      "authors": [
+        "Ben Medeiros",
+        "Pawan Singh"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2552902989",
+      "title": "An Efficient Multi-keyword Symmetric Searchable Encryption Scheme for Secure Data Outsourcing",
+      "year": 2016,
+      "is_oa": true,
+      "oa_url": "http://www.mecs-press.org/ijcnis/ijcnis-v8-n11/IJCNIS-V8-N11-8.pdf",
+      "authors": [
+        "Vasudha Arora",
+        "S. S. Tyagi"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "unencrypted-geeta-1_202308",
+      "title": "Unencrypted Geeta ( 1)",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "unencrypted-geeta-1",
+      "title": "Geeta",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3113303577",
+      "title": "Addressing Misinformation on Whatsapp in India Through Intermediary Liability Policy, Platform Design Modification, and Media Literacy",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://scholarlypublishingcollective.org/psup/information-policy/article-pdf/doi/10.5325/jinfopoli.10.2020.0276/1611493/jinfopoli_10_1_276.pdf",
+      "authors": [
+        "Ben Medeiros",
+        "Pawan Singh"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2552902989",
+      "title": "An Efficient Multi-keyword Symmetric Searchable Encryption Scheme for Secure Data Outsourcing",
+      "year": 2016,
+      "is_oa": true,
+      "oa_url": "http://www.mecs-press.org/ijcnis/ijcnis-v8-n11/IJCNIS-V8-N11-8.pdf",
+      "authors": [
+        "Vasudha Arora",
+        "S. S. Tyagi"
+      ]
+    }
+  ]
+}

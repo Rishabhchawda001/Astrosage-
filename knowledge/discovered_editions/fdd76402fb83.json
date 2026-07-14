@@ -1,0 +1,198 @@
+{
+  "title": "ling (1)",
+  "discovered_at": "2026-07-13T16:10:38.614478+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "See How They Grow",
+      "authors": [
+        "Mary Ling"
+      ],
+      "year": 1992,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "borrowable",
+      "public_domain": false,
+      "ia_identifiers": [
+        "owl0000tayl",
+        "seehowtheygrow00mary"
+      ],
+      "edition_count": 10,
+      "isbn": [
+        "1564582051",
+        "1564581136",
+        "9781564583116",
+        "1564583112",
+        "9780789476555",
+        "9781564582058",
+        "9781564581143",
+        "0789476541",
+        "1564583120",
+        "9781564583123",
+        "9781564582041",
+        "1564581152",
+        "1564582043",
+        "9781564581150",
+        "1564581128",
+        "9781564581129",
+        "1564581144",
+        "9780789476548",
+        "078947655X",
+        "9781564581136"
+      ],
+      "publisher": [
+        "DK Preschool"
+      ],
+      "ol_key": "/works/OL3335546W"
+    },
+    {
+      "source": "open_library",
+      "title": "Ri mu dong ling(1)",
+      "authors": [
+        "Nan Yue"
+      ],
+      "year": 2000,
+      "languages": [
+        "chi"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9789573239284",
+        "9573239280"
+      ],
+      "publisher": [
+        "Yuan Liu"
+      ],
+      "ol_key": "/works/OL10180696W"
+    },
+    {
+      "source": "open_library",
+      "title": "2001 nian de Zhongguo",
+      "authors": [
+        "Han Suyin"
+      ],
+      "year": 1970,
+      "languages": [
+        "chi"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Nan yue chu ban she"
+      ],
+      "ol_key": "/works/OL33616047W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "bdrc-W2PD19109",
+      "title": "thang ga 'bri tshul",
+      "creator": "",
+      "year": 2012,
+      "language": "tib",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "Item Tile",
+        "JSON",
+        "MARC",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Raw BDRC Book Zip",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "bdrc-W21501",
+      "title": "mtsho sngon slob gso/ (dus deb/)",
+      "creator": "",
+      "year": 1979,
+      "language": "tib",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "Item Tile",
+        "MARC",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Raw BDRC Book Zip",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "bdrc-W23834",
+      "title": "Phyag chen nges don rgya mtsho\u02bci bsdus don rtsa tshig khyer bder bkod pa nges don sgo \u02bcbyed : The entrance to the ultimate meaning, a work that expresses in verse the essential points of mahamudra mediation as presented in the ocean of ultimate meaning (phyag chen nes don rgya mtsho), written by the ninth karmapa, dban-phyug-rdo-rje",
+      "creator": "",
+      "year": 1993,
+      "language": "tib",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "Item Tile",
+        "MARC",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Raw BDRC Book Zip",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "Unknown",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2771472591",
+      "title": "Inflammatory responses and inflammation-associated diseases in organs",
+      "year": 2017,
+      "is_oa": true,
+      "oa_url": "http://www.oncotarget.com/index.php?journal=oncotarget&page=article&op=download&path%5B%5D=23208&path%5B%5D=73165",
+      "authors": [
+        "Linlin Chen",
+        "Huidan Deng",
+        "Hengmin Cui"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2155464214",
+      "title": "PD-1 and Its Ligands in Tolerance and Immunity",
+      "year": 2008,
+      "is_oa": true,
+      "oa_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10637733/pdf/nihms-1940820.pdf",
+      "authors": [
+        "Mary Keir",
+        "Manish J. Butte",
+        "Gordon J. Freeman"
+      ]
+    }
+  ]
+}

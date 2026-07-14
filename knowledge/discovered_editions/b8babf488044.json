@@ -1,0 +1,103 @@
+{
+  "title": "\u092f\u091c\u0941\u0930\u094d\u0935\u0947\u0926",
+  "discovered_at": "2026-07-13T17:30:48.918453+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "purusha-sukta",
+      "title": "\u092a\u0941\u0930\u0941\u0937\u0938\u0942\u0915\u094d\u0924 Purusha Sukta : Purushottama Bhashya of Nigrahacharya",
+      "creator": "Shri Bhagavatananda Guru",
+      "year": 2021,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "agni-puranam-nepali",
+      "title": "Agni Puranam in Nepali",
+      "creator": "",
+      "year": null,
+      "language": "nep",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "vedic-vangmaya-mein-vigyan-nepali",
+      "title": "Vedic Vangmaya Mein Vigyan Nepali",
+      "creator": "\u0928\u0947\u092a\u093e\u0932\u0917\u0902\u091c \u0906\u0930\u094d\u092f \u0938\u092e\u093e\u091c",
+      "year": null,
+      "language": "nep",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7134169684",
+      "title": "\u092d\u0930\u0924\u092f \u091c\u091e\u0928 \u092a\u0930\u092a\u0930 \u092e \u0935\u0926 \u0915 \u092d\u092e\u0915",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.65403/bhairavi.vol30.022",
+      "authors": [
+        "\u0921\u0949. \u0936\u0940\u0932\u093e \u091d\u093e"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4391456701",
+      "title": "\u0935\u0926\u0915\u0932\u0928 \u0938\u092e\u091c\u0915 \u0935\u092f\u0935\u0938\u0925\u0915 \u0905\u0927\u092f\u092f\u0928",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "http://dx.doi.org/10.62078/grks.2023.v01i01.010",
+      "authors": [
+        "Parmeshwar Poudel"
+      ]
+    }
+  ]
+}

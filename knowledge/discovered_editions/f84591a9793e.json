@@ -1,0 +1,141 @@
+{
+  "title": "Shiv Chalisa",
+  "discovered_at": "2026-07-13T15:00:44.854801+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Sri Shiv Chalisa",
+      "authors": [],
+      "year": null,
+      "languages": [],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9788131009277",
+        "8131009270"
+      ],
+      "publisher": [
+        "manoj publications"
+      ],
+      "ol_key": "/works/OL34313204W"
+    },
+    {
+      "source": "open_library",
+      "title": "The Hymns and Orisons of Lord Shankar",
+      "authors": [
+        "B.K. Chaturvedi"
+      ],
+      "year": 1999,
+      "languages": [],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9788171821693",
+        "8171821693"
+      ],
+      "publisher": [
+        "Diamond Pocket Books Pvt. Ltd."
+      ],
+      "ol_key": "/works/OL9088563W"
+    },
+    {
+      "source": "open_library",
+      "title": "Shiv Charitra Aivam Chalisa",
+      "authors": [
+        "Yogiraj Shri Ramesh Ji Maharaj"
+      ],
+      "year": 2023,
+      "languages": [
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9789354409035",
+        "9354409032"
+      ],
+      "publisher": [
+        "Prakash Book Depot"
+      ],
+      "ol_key": "/works/OL36493796W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shri-shiv-chalisa",
+      "title": "Shri Shiv Chalisa",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "shiv-stuti-chalisa-naval-kishore-press",
+      "title": "Shiv Stuti Chalisa Naval Kishore Press",
+      "creator": "eGangotri",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "surya-beej-mantra",
+      "title": "\u0936\u093f\u0935 \u091a\u093e\u0932\u0940\u0938\u093e \u0939\u093f\u0902\u0926\u0940 \u092e\u0947\u0902 PDF | Shiv Chalisa PDF",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

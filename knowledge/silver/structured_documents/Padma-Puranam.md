@@ -1,0 +1,570 @@
+# Padma-Puranam
+
+**Document ID:** DOC-18C4D577579F
+**Language:** english (latin)
+**Pages:** 18
+**Class:** scanned_image
+**SHA256:** `18c4d577579f3c85370675f31eb9ca8147784fdd35991d06247371a4444e9cf6`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+www. telugubooeékacm¥esit us for mo:
+Ltiyds Pint Si sive, Birndapiois Sto Gowls Be
+Sra SB) wan, Syicsgscimnd SOige Mr 8
+deen sosincodygngoitayD Siygeasiot Snmygsoe
+Sa f9 voces yin Yotbos HBr wots Beng
+Leva w6ad Serge LED, "SpHH HD VFS Se
+SSahinin, I) Lngyén BOMB grate utd sre
+Boy" GdGABNBAINs By) BS dao. “ienrisegewE
+Lt Sgr fe. tr JoSSSaSOS wt Dyn SANG, SO
+lopiotnaBSsgss gerQasircyISSsssvesT eh Yoms
+ond agtosense. 820 mhiod Boos sxysoumnd Haoos
+es yanattein season nettgosttetse gore
+ohgSoas ASSDS;ttetje o66DSsStOD SESS He
+aye ests
+
+Tyo WH 4H oid 1 Topod “BOSSKS EH
+Dorsnis SodG00 Greesbons. S6OH GersyEsves Sr S0BBD
+20 wrtingt Dirsioe $8 BOMBA. wd MLD Bros se
+soyieoi, Gitmo BAM pSoas. Asses gyros? 19D
+BsipPS0 ah hd BOD "eH. nD go So So
+(ohsb. = Boysste xeerreyEh oySEs ansoses By Te
+ssRASSorsswe hat S6b005S9 wd SSs0 Mpo0Aesa em
+59 wees. ome aiosigein Ho TOSS gw Tod, soe
+Sengyinis, sin SoS Yogiow SOBs. Spy OS
+sinerisacnod inossnedagDE9 BSy SO GANS
+SNS emis wih SoBe, mesasssGHsnaasossAses Ross
+“S684 sriss0 80 $s ssn 6DY08 Hos $9 HE
+dondoostsctrenssumsssytoattogaBiogge Ascari
+
+## Page 2
+
+waw. telugubookeaékiowmebsit us for mo:
+samassin Bh am os DOSE nygGm } 06" s6y_'00 Bb;
+scesterSodr wBs “iter ihS w orn YSQED sn] 68S
+daseorred cine. “ws, Bi osryo80. SSD aSD;ein to?
+L4 tis000 rd ood) SoN6%9D 2)AE. ome HSSi3e
+4930063 SnD GSSNCD wB ODT Gysorccd
+sobssnes Qpin(berigsoai’s Do” wD (60. Bes S6yOasves
+Spa wos bs Semeb Bumsse Laie) Hye, Boos
+$5 yris,Dipipsvresirinisiny SEB EDE Dents GBseT,
+DRO; YG. BYES uF SHSETDE Io; SSyE GHD Die
+Sri, wy ord wasn CUMCE. Sei Bos BEsnes
+oni6fin omgindoLtreaee 0) “Eoib S8erOrsin S08
+eed Qsive Bo ¥Sp8o HainSomG?Sn SoS6COSS Seige
+2D m Bess Dorsnis mesa wSr Hae, “D gssneods hs
+werssosioGos app SassehSO)AO. wb SASH D Tye Ysu8
+wsotDasis wsmignaing B erm og fy Sp» Sr 9
+tpssche us pssnslpsis lsob Sr Ostobyssnedt 4-39
+oSiottintaino SBC cpa DdSoON8 SoC wasp
+roasts BoyioesbbossesrBiniirosrd Pte Beso
+Stoo, 65 i9es gers Bnky SSYTrossSd wos?
+says woo Toco
+
+L539) WBYEDS Sroynd GSgSrDinss SOjoSHe 46s
+crt) Sse, S0%o thogs A053. 467856 (ciods $9
+Sap fiar ten croytitr asst poy Sonboseshgcaa ms yorcss
+Sep 4B hots te Dtssin Goce wémeroyiodsbeegs" sd
+ss. 410" Sings S09" Sis dro AeSONE Ga ASS
+b mayiessettog MSS 666 sip Bin HubOsr?
+sorysipSrbiSeg Sn ried 50 Hasossons9 so YDS METOESE
+xt S58 Be Howeseys
+
+## Page 3
+
+waw. telugubookeaékiowmebsit us for mo:
+benosendjrogssBerirjroossndowBatsomesszO Essa”
+Ho tioSSOT A weSSnSeSDcedimis PomOENOCTE SRS
+sejorrin, eBeSb6SSs ESTO ring #94085.
+noes
+
+Lig aDrt4od D8 U8. Bs A M8, 6. Mv Stee sodt
+spasscirtbbows is ypiolsvARis"AseririseBSHD- Vere?
+b 608 esi" SDs MSejoee> SoBegE San 69 circ bes
+sogioBs ySiniowcisstysosinsbssosisyeioys.o0aghoo
+beinsbbsyhss0 Boyiaeda BEM ONTOES od wf Bivssosm
+Lio BUS Rost! agi SBSH. IE Meo, DE ry, Ars 20)
+sab wari HONG! uf @rje OBiSBe 4d, w D8
+"he ves 6519 Bayo. a "Sooses  e:b80 38D ose
+Mocs Hdd wD “Ese 50689 CHa" SBn w6 of Toss
+1050 cin BOR, He “SNES fa HSS (rBeain Bos
+s0de Soansasy3 D0 MO8%en Bi SRS. Aiba BoBoBD Bos
+ry6t SOLOS, 048 DYPD Boca cid Seiad a4 Bde
+noms Dfp D6 DOs, 9 Fy Grom w8 EET DONE
+wtoseBssth gaDigestySBArciOsaty Mesh MBs
+wsissstontniserDinsgesod0esborosianarscedgrs
+Sain8t 260u000, surerivighded AatsySsi0% qos" SBE
+Stove 80g, “S08 wixgis 2 Soo gosrea TBO) Sreerss "SBE
+(eOsre erode Hits. "D BSgS"SD cpBMD. “sors
+BODTASSiyS Sot b eins BERS "BS. Dar nbd Move
+1A Big 0 BOS POEs ING 66408 As SDosESs RepPYS
+Peat énj6 380 hts Stwei eodaotiawtObsEeir wat”
+> Guin) FOE Srodinis ASSES. KoadfSDSwDbI
+Bsessj Bho mirsior Soe" Mids dohsBoBsS
+
+## Page 4
+
+www. telugubookeaékiowkbsit us for mo:
+seSngt Son Bay wlth SoBe, "D AP gis 9 ws
+Dey" Ss. ASccs af 58554000," hyp HOM cots
+ABs ap BUYS "BS Hsin DSS Senha “aryl
+sda Srejirog swmsgminedsss wR SiorceeDibsoe
+nOSSnet engi HabSOSD SoD BPO. Scars snd
+Snti® S30 hopin Sgr Knee, wyBSod A fb oft
+cys Seincimny. 0B) Rebbe (Des) ere, hgsoos
+SopPinined Sgr Kuiiye Gaingd od sobicd ine
+abit, Diba Sebi mec" Me He G66 Soo ot,
+"6D yn od do Heine Bib SDSS cB wD
+nssybrosinis 20) o0in]3S. ahd winySyredinis Bsn sSodn
+ro wf SeecingSnd FQ, w Dey Med Sersnsed as
+tt tod oui, aot, "ioe wins MBSE Cases oe
+9 tn, B20 8 S6D Ray ASSO wdbois"S 3H
+tot 6 cin S88 Ak eptos DEY AS odpsnined DALCRS
+races wernt 85) wiyiotints FOG 0h Sree
+SBS o8 oss SEED KS 65 YEON SMa Bod
+Pines Be wos BSD
+ter ane win
+votorrsinctoenagdheaegssiin bedosoeged! Dtssose
+s2)Sastpphncdentoncesinsyserdiso0Bis mdr Pans
+ScBs2y 68 Svs btgrenbths midernd Sekt
+dorsnditagindjenso steps adpept BaysSo¥s. 08 35
+Onde oi Sets BASIC Sirens?
+SABES stothorur BSS ya Soren De—aOksd?
+tir Baar enn San StesnSZSEyn DB’
+ririnis w3 uf (obsn insimyswoc' ERS ySimnySo
+intend pintntore” wd btn Bb Ain, Send OBE
+
+## Page 5
+
+waw. telugubookeaékiowmiebsit us for mo:
+“w irtn 08h drs Bi SBRE"SD Ne cH. wD"
+Urano Sondnod eosin wnsietar ey Snow
+Kise SabE DBO" iE" DS Nsw SEOs
+wasted  agaioda fy O4"D Deny SBR Wh
+£00 289 Bio pi. sGndod Sige BATHR"SD bsion
+godin nhs B66. wdtint NAB, "a oj Sy 209 wot
+sims Sin 9650 280 pein 9S Ss; Sabena"
+be Dede. iden thay webu Moen Shemp WO fe
+wn “on te MEySUBS iy m ded DSBLMG MES
+Stns A6)808 ogi Dderd GonBK"¥d fhod Gas 28
+sAbent "> yap wacom Sobang rs D8 39g BS
+Sroréaas oabend® u2j00 Sr bo Fos ins 20) Morac
+:8 Sc8038, bi ond WIC Dehcbt xO endo
+grdgtoyo0"9 ersrcien
+
+s6jtoySnst Sp6pSo Borate So0'D Hn St ons
+2 168) Boy. Ss Owes. UBD! Meg, BIBSErO.ES
+22 Sex open 6D FE Pat Sow Sos af ypraso Bays
+sees sofscersiodesctsgebonggowh6odg L8od voted
+26 ae sims JBtoser S09 Days Ta;OSE wopoBS. weds
+ora Sotegosis2tans6st aysts3, is DD sssatbatasod
+Pirin singpowsbndreorairchssinthngp gece
+fay whee Bsiyr 709 4000 SBDLBROSAns Dechise
+aot Daithery ool Hater Scye BS cysoabwe sodnd
+SoSSSSTEIMSKAA SG Moe MSED LO
+veorscnopesinsyinecsmyiawddszrmeateshyeere
+Pej eotacinsniySbekennsrsCcnoe 2BO gsr
+sdanagayasuga bya donioudh mssearosaoses
+og ivrsirobn Spin etSndggr OSCE uc S600,
+
+## Page 6
+
+www. telugubookgaékacrmawbsit us for mo:
+Seems: yocergh en Dsinwns DG By woryrEsnGROd
+rintagaSsyantBoedseysOanipEhn. 5 sysxtineg" Ss
+stg tort nnanngDhDoSSnAes ST tEGbosnos
+ssactitin 8 Sengyion, {BPD Dea Boas. ote
+Lofilch dod ow made Thy Moses Deed, A
+sgt fodsnd metshstensterinyeesob bop Mysas
+steereeoseDB0 pws yoomdenssdEod Sgh Sop," Sowesse
+Taye dychosde doit ajp EE Abtwcdn Aiyoc win
+SAD wSeOe Devas EYE Sycosein ed, ott By
+Dany opto Wed Pedin ROGED Heid OpeE. wats
+ga pad gty"Atn, Ups OH be Dy"D Beets amy
+pees £0) Dye KBDOSE GonSBe, DrsTaGo Ea Gxt
+Gort, Sends 2g Dey Nr fad wD SOc Wd cro
+mis, EntEns codes eaAOD OBER wd Sods Bod
+LS NePBOYSAiAS SySoE SOL Labstons
+Skit, rs Seinen Mote ships owe "D Rake Krys
+stosibtimssboSssnsgi ch Thy rn Sie SinSe wos
+Sins. oiinds heros josie Dyed Soros
+pesncan, ad an apts to FAD 8, "D gad"D aN
+6 Petts So Sie SfGad eHow volnA es ends
+‘bowasnsse" amos Shed BAF DSEy Eo. A8 obs Beh
+SBF, his Sen oaaDE Sen Sse Skiie
+
+Sree Gy SAESE oD Soe ingsne! ones O69 MB
+resoyrssoend, “he deaggjin mo dadbeorshes
+rejinis wis esitedseco md Nodmoroiinns Sse
+sre DIwesseSoeseNOOD Sos Sine Bos, Sos
+oda 14 Done seer. fps Ane Sars £09 ty
+>Orwyintioybsendtrat deena nbcecspoecheeh say
+
+## Page 7
+
+waw. telugubookeaékiowmebsit us for mo:
+word D S08 SHG Ans AEG Sap 9D SOS toe
+ot Gbessim, 20 weplo CHpED WSC ph OOS
+6B380', sya SPIE OS Sy POIEDD bDS Sood
+Seba cid aand ow Scots 30 ci way 8 eo
+us 09 Mose > 6j58"90 cirBH Sings 30) a8 Bod
+2) DH oy DBS ws Srioda BOO ber syerossns
+QOD 659 Sob 96 Bt roctsnsinr® oot hats Bh
+WG Bepis Phy cots My eos wad GENES) Se Sond
+misihijes Shy cin MESSE Secbdnse Soy sd
+o pois {Sor ecthitadciinsm oma ase6's
+Seddsinintnssstindn "Bd ind hs Son8 SSeoHBIS St
+Bsyyr in cath BIyomsserions Yrdsing Sp. Pod
+Beerinei Sabb noes jaEBC SR ambi tne
+rion io nf horasodm Sniyponsos 0 5G Mod
+stttactatinsonssSsttO ono” hoses SiiSoys%
+sy Sena 184 i S0,Po Sn, Kan Sebo" WSR
+“Aiinhitonensed Spade. 5 cides (rosie Soyer
+SeogoyDorscesssesreessDsdatn tinh seingsn Leste
+rind Sfov03is. ew Kogspees GSyKEND 85) Ay 38 Hf
+Linc Sbosibe Afooodine"eD SOLO SPQ Fendt ed
+sige SRS. rind, wb 5D MEd, Se SoS Th. ob ond
+SPOG;Sn SeiB Siijbod, “oinsogrinimd He ote a6
+Sopeito nt Pig (i SasyB. 09 84 wasN8 oe Soom
+sotoDmrsirsimiecgstigreyiitihis By bspedasinss
+PSG ends Edo: 80 By," Db eingind” aise
+spot Snétn Seig"D Engodd. nnd hyo Has BByo.o8
+rin By wasnt w Pep; nts Sntjeom Ps nd me
+signe aj eit! ced Pg gost nogh DOES.
+
+## Page 8
+
+www. telugubookeaékiomebsit us for mo:
+SpamibdciancnsedsSocsarm ss MBS yee ToBAG
+r9sds piomypodgowe Tj cd D toy) dg Bid torsesomes
+Be gawtente re bs 30;P00, D9 wBh, Sayers Bag" OBE
+rimdurinod,'hy wies ogisdarte Bess 5 #8} 7469%
+tsa Sxsort0s species HB 89, Dok ws Boas 579
+donbstonyo Sham @ cossrsinst Ldgde oss50 pha
+rotenone oin Bed cb0 pine ideo Bertin. dhseo9
+Soter sass rsmDdesoeOnMessaiogt. ogy faim
+rieringortneBnedeDn, dees oxen $5 singe
+Sea mtorinscter ined scitedis Sbimicoroeiniow sy
+on bgainsbsstinotSrssiod wetinep ssn ecto seeO DTS
+nrtgSSoO.micnonasOyoWsnc SsbA SOOM
+dst pO Ese/BsdreansnsinetschSseomsresio Bt
+Sound astgiee
+
+Borsa asco heousoet2B09 656 es nied ecb
+vinyines tosses DoStGtegis wigthgainrss Ba SoDBE
+syghersBso8" Soto HORSE. ysis Greod 2808. oD B84
+tem pists cor eens SNSeSSooNpE Sn e
+Pomeai0Ri.SErducdtSS/SESOO" SADA. Sia
+tejuysio Persist Mav8. wf 5 Ass HOB, “os woGi8
+sstcosetanetShaitysnisOo ors MIONSSadasoonSpAT ts
+mbt Ossinidiegetiedns SIT AD se eon)
+teins svopsnssodtotinmtySoisbsintop Rs. W606" Gas
+Sensosrfoaeegioss yn tis tousdsTangsedya GAOL
+De ORSiYhiineySir iat LQO SoA. 1D SEs
+Sari gin rosstain BSS nis MeSedjorsOosMtGhoT9
+sb ppSP wetrstesasDIE BS NGs6OMIDOy SESE
+
+$30" S8r 489
+
+## Page 9
+
+www. telugubookeaékiowmebsit us for mo:
+witocobtsiods 26S wodseheinneSedSoeasdysinss
+Sop wh8o82 os0d SodsIT9G9 BD) oArSD wats
+eens #54 on0ys Sarno yini SoD SAMSTAG. by
+2s iosastwigiodiyrsteguopr itetksasotngascetSteed
+tesa 989 aging Res wn BS 9 463 erased SARS
+vowing Dep S4or39 OD Sai wdc O89 fst o30
+Sesh yin Briain ein bE Morr 8
+sotodtutwti{aPstysucrdgnjrsetsar ote pewlgtot
+20, carb moinecbod.osutntsnstDpin Dns
+Db pina Engod Sasa SAetoisD od, wy 2035
+odetindtearegtittbnstegncjmstatsyr oman touciet
+soi stontnitnsnie oa Wing Scioto
+sorte rari tanehDUBDSGerStngbo eH SSOc
+seoutsntasicbninntodtsnndroyienfSoBSOa
+minions SnD Bn Fonsi By Essent Si ond
+st esitininestne Soden snd SGomrstyRosn
+meaty iniponn bytBode, Gupte, myer nous
+ciegsSnb8e Hain S60, Sio wseysia Hasesea seat oss
+scrotiyietdomasin srs hecmioutnes sys
+S088 MSs esedlin SESS MD Sopa BE.
+bar stro
+
+Porsinined fol 2Stasae Bian oSaiTGh SOY. oss
+SrosabDSEnNay Esruchs' a botoR Oto
+Seis wires fost (trod ends Debs Bay
+Sabri tans Pas" oris Sing SARS YORE Cots
+U;SorduphBors why Opp, 5 eb wiry ws eros
+cn BD $5508 638. NBD Sand Bla WHS
+tsp is Sensnths 0008 gros,
+
+## Page 10
+
+waw. telugubookeaékiomeibsit us for mo:
+Sop $5jSnie G00 SADaine pe - eff pros Bie
+asda Sins 4008S Hades ipo Ba) syed
+$000 SisiDrskSoei (oes Both, PPASO gbOS 58
+s:bood Saison, GAjeos Gboske Se Shy 33—;esnos
+pi. oes 46 Bh (BEb00) BSA mi fo wo
+1 AOE AER. digits Sosy, BS; AOE SHER
+Seton Pysodin efi, wang BESS. Aye f~SOSES
+(Shossiaidy tylye82n inotintedhin sister cootadaests
+StBiotine Goudie DQM Heke. WATE Sesied we_e
+Seci08 Pébien, Bh 6S Genes SEnSEir SoD any w De
+icin com eB OSS LSS,
+Pabne ed dimdisF bb Ades gOSSDSD rom bésns
+thoySind Sin HSBAGPD Sno Neweinsode ut DO
+shorten Bacio BSS0d 35) ws WBS O39 Do es
+cris meotsnsnere rode Roe SALA Sr 30
+2030. wos Dns 26) #68" DRY. wd SHEE. w D-0BE
+Ltovserbabhersescen SQ Sob0. 8 $5 et Src BUS
+msogeaicbctand gooey Syejous Sogins wbsoBsBe
+Sad up, Koen (OloR, SEED einen tmd wed coed
+Soot bO. wD wey ys x in Sino Rood
+chin aici wen coco ca S08
+en repr sinsostanysoorIsasdes—Hsior'S9
+Spiswdde ridins BACB BsSenindfojsersinserBO, te
+sooéses dbSo0 Sis asodh BOD gress BBB. ws 8D ATod
+Bsbomnis. ug bsdstosNsereaAsAsnrOosn By Dy
+$y" Soot pSSnBs "Spe tad
+stossB. esos o,S Gein HeyPos <eossTe
+rents “Soyo oodsnd Ges,
+
+## Page 11
+
+waw. telugubookeaékiomebsit us for mo:
+egies epyotacn
+wrinyeo Song | (rpsooeds DYESS weed, Sep Sn
+14,20 Mypsinssnybd erie DysBin dx TSS ns
+20. snse Ones Doss askew BSiaobAyrE SESE
+desoc. erryent> BEERS Ge Sonia, Uebessnie m3
+Dorsiintind w Pind! od (pn RESTS, w css
+oryo* $ass0 668 BSts ae U4 (oOyRD NapSTHD.
+Dosind Hoty BA Sots wo S08)
+Sees | MpSoYSNSoA, Degen Sen Dons
+srs, Bos wits SEW Bod to mpndodS BASS
+Shin Sirs, PPOBESocS (S6ye6s Fat) 7M SNS
+SAD Gobi DSBS AONEDOSPOwe
+Shs worsindt Sgn Eanes SBOE w Hn She SiH
+sgsngiot siecneoeybdorsts)ASSosiSch son
+scbinsEis Seb ecesims wisps LeisBe
+De EWE | KodedSG SIyLeriNS OyTEnse Dens
+inset fore ubsBen ASO tSSnsssp SSDS
+NSH Mn) Sends Beyadosnts BS ees.
+efi wisiSines + eosin, pin debe, 2968
+Soyer ddcbodo Di nsorsnsoin 09 O56
+sg pes ossDin fesrselesocetacinf ao io6Sac
+cody wstossDs
+seit Deshi erence, En cod ate
+ss oes ypinngocinsneacaientnssstocs yas
+sgstents ysis tastingrnincsneerouress DSS yi
+Sp scenes teddies Sods
+Sinden pander gin ey Ooc
+gS pny esn Sys gS) HasTS.
+
+## Page 12
+
+waw. telugubookeaékiomlbsit us for mo:
+Seren dindonineoion. fobbastociciiinodsot
+dasguasn 4200S a SSespAOEessDAechsGobiesy6to,
+Sis BBE wna Bpsn SSS eo BARA SoHOS OS
+A gat Sontasote yososingatdsySgaindezssees
+ssstriyiasnnsrtcneainags sy Se ep tsotsodnoo
+nsyeretn bod sBSnfagr8Soo SoencacneSj SENS:
+Seo nwcurjoesSovosinal BGA) SYAs
+Sg tfresiaesio007. ogOK) Ms Es esos Mg
+dasSecsoyseocnarssnbeStDysorsre rsteBSe!
+ee ee rs
+SSS hcinmso ARSE Daryn BSS Dri ASS
+sfssminsionygzSesysmioSeQBSE hg, BESS Nm
+vocisodis Bosna (OEP) MEOctn ar a
+See otg pire gSnvod goood dnd eto Bs
+seo d (perbedssin SSDs. ge (gases, af}
+MES itech YSedH SSNS SrBjEcmiend se
+rpotdd yet $abSD SOc Dysin BAS 50 bey—S BOC
+sti BEST. seBUt STAs SOO GAsoesSSDE
+sicoginitiod shosinsh Sense Byki od BEd
+Déiyeob. aise dyin deities wpe Boa, DG
+fed B0yetG. myn SE yesnE SaAKHISDSD Singe> BE
+re
+
+sie utoyd woylem Celie Mo gajsbyins ciyis
+dando $88 BY wc Noah Bis Wyss Groen
+ears soe)
+sacri Shtosiiye. pry, MRED beaSAD 669 eed
+LoS. w8 Oi 6539 FOCTBE. wy "BOGS m HOHE
+roti wears orsBy6En" oDSY3E
+
+## Page 13
+
+waw. telugubookeaékiowmiibsit us for mo:
+roar tes ints Bey wes “nrg 8 Hn 6B
+gion rayne trodote ENS ERR GS
+ss6rston Wi Sin Fy oy Soap D wir] ogh
+oP aSB) wi) Thay. rd wiry anand rtd, Hs ES
+sectantsonggses bgerreetgoo ener ote
+ssptoodepetmaec dois MycoessndsbBear SDS E07
+Spey Snseso eT omcte Mpiode Dp S88 5
+rei Biginr yoann hops wokth ins
+roids hotinensDSBSO AA pediressboasohbengys
+10s" AdSEDEy Se MpbyraiedS” Sousocsnmnos
+Sees i cogs Son, 6 do jc ANS hrs
+seuronic jegeestindsones ttybAssons30DFS
+ScBOseebiowr ett eng aBeiry oa raKir gions
+$0) S85 yey SptosS wd HOB, 9d on "DY HSE
+dat Ld wstinsnen CocisSD Bie. Bntd wrd, "he oes
+asqaypoBeinsaactnecdeds fps BAYH SOGo MES
+eS6"SD Rots. 19D ed “omNSIOG' Sass PS 9 Dn
+srsdSBiGosbs P6 SD HhoBss. wm wd, "hy Seysog gz
+Sichtjin @rtc'Sd Hoe. AEs wh 5 RepO end “Bas
+soy at bf incacp Simp irosnswisgBSoeSaie ce
+
+resiGtdsorisir sesndAss NOG WSSwSSObsPaNs Ls60%
+soSvossend'Lisstjore Ubtig@ Sissons esse DbeStich
+
+## Page 14
+
+www. telugubookeaékiomiibsit us for mo:
+di» wings Bg Gersind De Sin Oey. pryso ureodsows
+rnseOrypSnenPoREchegter pared Suh TOBE. BAe"
+berry DesomteoangsEnScnSnse\ HSE SMO SES"
+tym snuesinctbrepirtedsefSSsaresit MS Bostoee
+ApsBofoted't gwzs shes tototed 685d bom greg B
+oP Rlosedingiges FBS Seinen Diya. enysoD0y69 sods
+heciieataancg wcdeabayekoysinsdiséen dogr3i0%
+ociocnes errywerotbesn Sos SpSSOSRSNE MK
+Loypopsoensgssraibioagesse8etssoentlan SDe erie
+ch phaasasatneestosietnan§ soars degerys Bsroseo"
+hessoonsindaStonsioucnpiniDsn]28 paso engostossnd od
+HossticnsssiO Ryo woseirumissetssaiD5yB008.cigss
+S059 BO. 50 Seo O6 Sosd. ES esp SIYSH Wr
+Bose wre Bor sm. §ir80 ODE, “Bio 5 BBS Wiiy—-69 Hb
+gid Sods. abs of jFOe 36) ONG DESO 2B
+Binj8y 888%. “hss 99389 12000. "sir BO Sng OBS
+000i. “Horie oh 5 Sysaints ssodhce, 5 8 cases
+BBS Boo SuySodin so¥DS S6Gw HoE"Se Moc,
+“hid S6orind Dt0d NMG. 2, BLED 69 Si
+sotints Ne 50:88 wostisy 6 BB 56 S846 des was. s06c
+aint Wie 530 $0) wD EBs. 208 “wrod # dew
+wgibop) cinodi ny AODESOEE SEWED Mes. 28D
+sesnes07" Serta shieir poxbeyesDesecso SAG" SB
+ud wohteoR. of joegeoo ZEEE dos SFO Abas wD
+wire 5 8584068. ry WBS B00 maIGD wd, “OD
+b Bpared SuyODG ma—d MHOoGTD “ss Desi ss
+mesDhDoarBiyedb05y' cosy o6S66 & QAzOH Wins os 0
+BUI. mai® Ss Baby wa BESO! wsodiire wohtOoR.
+
+## Page 15
+
+waw. telugubookeaékiowmkbsit us for mo:
+Bey As wpe Dose
+dapaoysicsoansitonoyseeaemsonsasranps
+Pas masasotensc'y sr ansianea par Coons Oe
+Lite taster BoB. pd 054336 08 (ro "bes 8
+scimbi'Snilsussrdoswaicitint cidYSeRs Sere 58%
+S30 ssp Sadosi. w rss Uo Ding Toes"sd Tay
+snscnpferessotiatoss sepdsmsindosoey Sires
+onottso 3h. epics sacindesond HIRD ohmosinse
+Deny svodr Ses 96D Lod w byosiBGug0creny gnc
+om BS, "IAD vos wo WAlS So & So LEC
+Sov tain msn "59 ebAN wc" roderoiereys Bas
+arScndo dena Sstnstnstiodatdbncdsendowenssy Ss)
+Sécsd wb, “thin Deched wep PODHD Hees O°
+sora BOy"S28, DsabReden dod tod 39 b 5458 art
+sates 5 HSm00 Dat YB" BOER SrSsnes! og Oy
+psaeacrssinsbodeonssbissnet Bos igo 0Ssi08
+Seputienstoysotbawnstgessiotaiosnd! B69 wprien
+b songs 80 Gagssnsos 8H eee9d 208 ZabeEDS. © Bos
+rssineiSSis Do Sect wB Mrpéyi ToBms asyasio
+nogtitosteoitbenarssomytobinysdjsoubotdeog" Ad
+SoS 6 86 (886 degen woh dorSoes BOD Soh TOBE
+sreyotee Soy
+
+sey eadStosss,gogjDerthayas"snejotanasgore39"s3
+coins aides nso ysne' steers DMasP a <M
+SyfossoPairrssrejodeinadbn sens. saoe30ss; $800
+Scisnt nooo ivosra ipdousS BSP s6e
+Soc wit ij B08, "nyu > Pe29 mapa Bos
+“39 cod,
+
+## Page 16
+
+waw. telugubookeaékiowmieibsit us for mo:
+ssp 89S od cabin foc "oo" ad Ty
+sd! Dol wrt ad waged Np BANE Syfoe
+sesso Depo BSP, od Snir Bot wT cin
+2 “ecg, ingen Os Mosh hoy tos
+states? Byard ee? HbR cocoa
+Lio Span Sgn ws or npn 8h
+
+A gosioatty"esop ef essa paint §
+gs'09 8200, Boe Bopesbet en, “wean Bpagjosir
+ASotero Ss BBS Sg ited SireD went Set yee
+Sead. 26 pin DE BSS GioSC! Endy Sons ex
+eoy890 Desoow SSSjeoBin Gy WED “hpeANS qs"es
+ASoDn. Sen SoBSE, oun SOyS 50 BEA. pr, aD sn
+(ino Sed“ rend Ngo Sg Qos wc Dg. Se
+ABsen geo aA OcaLTD og DS teysnees me
+ety. wéginnents Sin Stn in Bo SHON cS
+Bye Spe 0d a SDC BEA neyo A Scns 5
+22 yo wh to Boe
+
+fA her 563550
+
+se ipa Se yess Bais Gh AerQSOH Badd
+sceptics oe BES. eine Sacer 58 ren
+Sears. O88 Bo denvents Noe, 26S
+hs prin NAG'D a erp, a PHB OD
+snBisss Bede atl BoSSveB Bao RTE Sunes
+css paniy So: ASD yas SOREN SOS
+yes ses Ban pc Harn. Sgbarrycs fet: A
+34; SadroceseSein in es, wisn Gon
+ton Scns fo | ASD Stosoe 6s Dad v4 ese
+Seine ins pas Sosengy sh SAO sess
+
+## Page 17
+
+waw. telugubookeaékiowmeibsit us for mo:
+Spr: epsinis sth sof eros
+sSrpyeusasseassotinctaaatStnses;son osesdcns
+greys: gsog 89 sess Dy
+sSunppaiin: apersioes 95 Masues Toros. ceysesot
+vs
+SAS i 604309, otis Sy
+Sreroyshsasesnyogsbretenges Bests ghd gro 66
+a
+myore jie: Ag mia aboDSS gsr) ys Hart
+etirer pio: AOD SIGS ASfSgSr ein ABODSE es
+So Sos Sees.
+saoproor panibocabonsstineys msi ASgtiets hess
+soca sbtashiSns,etnabnso elias gerSDOse
+sare aie 9 aonSoet segshise Mts
+song pansubosebonsoelstnaess ap bs oye tar
+rrp : Aico a Fess Spo abode D! Spo
+sojdoencigiuthsteianytatrgrocintatsiotes Bs
+gj te Aon. SOS WAS ka nySTSBS oDSonG HESS
+Sing Bhotrbins pwede BHT Lain
+ssve"dooaiinstrd BGD Mend Saensd sides
+Deshi totes Bp Bayo. Boyes Roreciinc'at Mors
+AStsysn00s O's soso. HYD Rotor Des SiybeSoN
+a H Bow S8400S5R) DonbHER Ses; Bob Qed
+Bo SONY Sj oboe A BOOT coda Nye B40 Thee
+ueiSctosnitanotignmaeraiyebirsseaoe. Sosso er
+doco sided. SO SEBoses Bimcawies Sra 893
+ssc Agr weserde,
+
+## Page 18
+
+waw. telugubookeaékiowmieibsit us for mo:
+LS soy SSnSs DLE Ad
+Sen ott ccocswi(trobubsgbosinscnasOS usar Arcos
+ocsoren YEAS, nbdnis SOSOSuTD, Mae SHO
+niescioes asybostrses wis mag Bases Hf aniyea
+sSedsovets Tose Habs SSEPMODS Sige Aste
+Drbssmges Bpat Sistyesod. mdignts, Esso dose
+SPsn eden ny i Oe, ut Sects Ane
+ond Eee DotestrsGn asic Boseron’ Beyphsd. tt

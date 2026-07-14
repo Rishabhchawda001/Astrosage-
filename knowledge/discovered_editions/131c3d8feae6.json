@@ -1,0 +1,101 @@
+{
+  "title": "agni Puran 4",
+  "discovered_at": "2026-07-13T15:50:23.185134+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "mkeh_agni-puran-ed-by-rajendra-lal-mitra-vol.-2-chap-115-268-biblioteca-indica-series",
+      "title": "Agni Puran Ed By Rajendra Lal Mitra Vol. 2 Chap 115 268 Biblioteca Indica Series 1876 Calcutta N. K. Sircar At Ganesh Press",
+      "creator": "N.K. Sircar At Ganesh Press",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "agni-puran_202510",
+      "title": "AGNI PURAN",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "20220403_20220403_1545-Parmeshwarko_Adalatma_Veda_ra_Bible",
+      "title": "\u092a\u094d\u0930\u092e\u0947\u0936\u094d\u0935\u0930\u0915\u094b \u0905\u0926\u093e\u0932\u0924\u092e\u093e \u0935\u0947\u0926 \u0930 \u092c\u093e\u0907\u092c\u0932-Parmeshwarko Adalatma Veda ra Bible",
+      "creator": "\u0930\u093e\u092e\u091a\u0928\u094d\u0926\u094d\u0930 \u0922\u0915\u093e\u0932",
+      "year": null,
+      "language": "nep",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4396639696",
+      "title": "Ashwamedha Yagya in Puran",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://dsiij.dsvv.ac.in/index.php/dsiij/article/download/341/246",
+      "authors": [
+        "Manisha Bhardwaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3048487338",
+      "title": "Comparison of Properties of Naveen, Puran and Suryatapi Guda (Jaggery) with Respect to Guru and Laghuguna- An Observational Study",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.31782/ijcrr.2020.121514",
+      "authors": [
+        "Prashant Umate",
+        "Meena Deogade",
+        "Akshay Pargaonkar"
+      ]
+    }
+  ]
+}

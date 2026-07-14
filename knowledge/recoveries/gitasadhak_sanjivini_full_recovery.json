@@ -1,0 +1,26 @@
+{
+  "document": "गीता साधक संजीवनी",
+  "document_id": "DOC-RECOVERED-GITASADHAK-SANJIVINI-FULL",
+  "recovery_timestamp": "2026-07-13T19:38:16.376435+00:00",
+  "source": {
+    "identifier": "sadhaksanjivani_202004",
+    "title": "Sadhak Sanjivani (Full Text with Parishisht)",
+    "publisher": "Gita Press, Gorakhpur",
+    "author": "Swami Ramsukhdas",
+    "chars": 4423568,
+    "corruption_level": "clean"
+  },
+  "previous_state": {
+    "chars": 4721397,
+    "corruption_chars": 31301,
+    "corruption_type": "encoding_corruption",
+    "readable_devanagari_lines": 1
+  },
+  "recovery_result": {
+    "chars": 4424139,
+    "corruption_chars": 0,
+    "readable_devanagari_pct": "high",
+    "recovery_confidence": 1.0
+  },
+  "notes": "Full Sadhak Sanjivini recovered from Archive.org edition. Local version had complete encoding corruption (only 1 readable Devanagari line out of 35K+ lines). External edition is clean Gita Press publication."
+}

@@ -1,0 +1,12 @@
+{
+  "book": "ऋग्वेद",
+  "recovery_date": "2026-07-13T20:27:49.929088",
+  "source": "archive_org",
+  "source_item": "RigVedaInHindi",
+  "source_file": "RgVeda-Hindi_djvu.txt",
+  "old_chars": 2840312,
+  "new_chars": 2322337,
+  "old_verses": 0,
+  "new_verses": 499,
+  "garbled_eliminated": 371528
+}

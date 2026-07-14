@@ -1,0 +1,14 @@
+{
+  "date": "2026-07-14T06:04:54.282522",
+  "total_unresolved": 19711,
+  "silver_grams": 18820,
+  "classification": {
+    "metadata_artifact": 1372,
+    "encoding_artifact": 317,
+    "too_short_artifact": 13,
+    "heading_artifact": 0,
+    "variant_reading": 2699,
+    "partial_match": 9,
+    "potentially_missing": 15301
+  }
+}

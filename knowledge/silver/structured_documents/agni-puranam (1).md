@@ -1,0 +1,487 @@
+# agni-puranam (1)
+
+**Document ID:** DOC-A5D5F6EA05F7
+**Language:** english (latin)
+**Pages:** 13
+**Class:** scanned_image
+**SHA256:** `a5d5f6ea05f7fa2eed57d7fa176050bb81333bbfd53a55f8dca024befe15c721`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+www .teltigubooks.tk.,
+
+Is weryeosoe? app Bso5w8S
+Pu onygrbe doe eypo Dg Some
+
+eA yss05 Been Se or ug
+
+60) yor Sry s0 Says wn
+
+Seghepinate apo Sogo 560
+
+oyeySreerse br Store Gage0 5379
+
+Daygire 5 Denyse wpe Sse
+
+BBySp yo Seyi & Safco sokraiee
+
+Drsinye Sts pe Sofyaio te goods
+wim Ses RSrSins Biss SosSen Sep haD
+ie Pasay vost ons Bsy—8S & gomsas
+BSperhio, BSI hed MOPS w Tne $6 & Gomsn
+S59 98 Kasia whey (trosSBi. SeyDepen Seda yrs,
+Lose 06 Seip. Soe Bird Dyn ADE Srey
+Serpiet Dspos, PASEO Gard Soden, Snfd MOO SHAD
+wojpdd Meme MypAd ay Seyoainers TMZ, SsrGopss
+DaoySo 0D aigise & QomEn Af DS SeysgSNd BSyEy I
+Pino's dacwio Bi, Adc DstodukSD. «4 Yom as
+Sogegyid ina BSyssodes. Shy SSKSnDK wnysige D3beds
+gerne, BinSop Ss indus Pe SosoRIbSRSOn BO
+BbyS gous mes why As) Sor GDE FHS
+Sit sseee
+"BG 966 cingsnet Sedge AAsNs DOD UbyEIMEN
+enone Sosy Bsa7T0 Kai D0bO9"Sr. onyHos
+S¥pis bp BD" SSE 9B W49 FAO Soe 63
+Sots Hid QB TD SoHE" Hose Jd08 bajo BE
+vas og USAC,
+
+## Page 2
+
+wwwatebugubookss te kee
+Dererens a rogexGit oa sedoaes Gaye DOE yo!
+row end wobe words wiiir02 2) Negi DOG
+{estrant Seedosm, 34j88 winds wos med 50%
+Sydo gh wonbk Sudown fan. Gysopjm mopested
+sapgocnn dodiind Pies Oft. Sosimw'so Go ane #3
+ng web. 8c aye wr wD wine wot cingejow
+Sines gejowis, maidens Qt, seems espn
+iSi. 298 wie eiixsrans Sto Sakgee Mie. dosow
+sno easton dow pa, ot Toff Ene Say D8
+gird wash Ot'ygies moneda. SErodyE HALImO df
+Sey2293) Regen SON F28, SEIN io Wood dds BO
+soning oxjonedet Of Ped~o% StroRs, dodo
+e2yoaD DiseyEsn $00 sadNasvost Sod uMGOD wed
+Decetitinte wont. ud epaa. aAygoiaginn MES
+E30 os cance ays rosso
+
+sytorpy dgowpio B83 BA a—od wads Sa
+Grestfnse wap eniéed epiiae mobs i Dy
+sesoinehensngdow Mabo Ancol Senseyo owes MOE
+puso Sarpeto Hie wd Gr eye HORS
+wats #63, 6, cyano Goya Gejewin 00D, 1628
+Sreiwre ndod cupinie seirood Dodges inoHog
+seorinin, uf Sh wpérséni eine wageoucee
+cayowsscantnesotn oystigens waayeoss SS
+Sesinds abe eparsin deme Sovansinse BUyi. dejow
+mis Koonyinye Vin seoerdmye, ufos wrap
+cxtbyi Sto Sraige wiftro@BD 0 ROB 3469 4
+op ot oad be aio od red etd
+
+Apochcooden iain tontonBanitveyptipr odio
+
+## Page 3
+
+www. Pelugubooks: ti:
+
+Sosy DoE Pins syoyd wpSOt HYD SEBS awEs
+DoRKbEnis SOE wPLSipSS Kanes QBS oP SorOindS
+Dodges GoD Sind ds sry ai whninys 8D) Serre
+Soiatipds Dodge Srér Es 86H By o3jrecow oe
+ajonjs> 0 tia Bor, ciel minDySe nijR
+Spied Sots Hried Gobind Sodio haspsaee. 8d
+singin 65369 Qifpdh Sear eh Kipd wap. we
+Dijérss Grd 00 Dire Shi dard GD once pes
+2s gaye $e Soy, Pages! agin 65s, Sayrioe
+dai" sSEDy ang }ED 29 D SF Irmo is Ser ge
+29 Sate BT nme TS RgEEyLeaingEOSD Bors ie
+ct sinse den wpds Pajeireots, nas wogsgets oD
+wis cingn dae Sain $6hfpt, “Whee Sos. wd SoS
+13)0b Sepirjso.w SopSYE AE. wo prod wairowHneS
+Ssnaim Dod Be oegsjins Dog"SD sod angen
+ssyed Enis PEs mogioot Lose hinys. Pégen Sede
+ecoQoas Sos Sods Miss tyod erst. sess
+spine’, Saou Hod ba9 SABA SgSyos Seats SeS0
+Debs bajo Wsoyib—, aociein POR srioas
+sco PES Sits Sends hes cite Donde cs Ps
+st nds Sens isn ond Gk Sayan
+Soorssioct ssoNand.eySespsoys DyoeRss
+
+ntsgrs 30389 29 ae tyson SBR. gyegsoyersds
+veined M9 ohio. dione POShH Hpa hed Sm
+Dedobis Wp rsSners SEDGE Bods ek
+specycingind winds td wo. des tng to
+So-80gh atogin dem G6yoe409 G06
+
+## Page 4
+
+www stedtugubooksstk«
+
+SoSSRS. Sms RoeNgEAe GHygOD Med GObEDS. vw
+8 QASGOE MDD ekg MosseOsinet wos
+Reowdodm, aadodiyem. GROzEYD. rekon Rogoo%
+Sphogiom SobSbs, epee wigpais ed ed ate
+JayP2 Say. Gm HEMaRs! sober 63 Q~Ho% wods
+etggrinss 2BD0B:. eis 469 ABtinkD prod BAONBS. ety
+spine agorseysnuc* sdtexs ake Beira On eatoD.
+6S coginct Stel eatsne, PesoKanG emp 68
+ySieye, Dodd aEsoet Sodye. DEL. QP. ooOw,
+sds wogged ag6 Pden EBS. $20 503 wis gepsoes
+ODER Med atpgaimsin hin eyceet ince
+Sotgessnas ogpind age D9 ove Dood, omy’ SHLGSH 2D)
+70 ans, Simjostie Degas SanDpasn Toso. wads
+fangs seesotgents weingget 88 Sdtod0. noid sobs
+nisin De snsschinana's Db Geyowin, Aetna Horst
+ob taps soe serdgenss agg Soostode,
+Brod Deeds - oD Yagso
+2 299 ESS wociins DOSDSS SOA Gopi ods 0
+esyBin, Booch Boysen diated 66 gins agp SDB
+Volisena|S8sr (OY) ees Loiswsd setiNAl By
+ee eee
+S¥)bcb Hood Bye Dood GAk;HH. aMELOBS waged
+fo0008 89 wd fat dnd Kh Benmeds Oh Sato
+fen Hod Hot thee SORG Srastjs BO. D6 Modo
+sytain Gaioocst 0 280 ats Sod. Bip ghord
+soshs Slopes wsys Saieard ge Beso. woadins
+S80, tao GD oxen Bess Satgepezen ov OE MES
+sects De-yatin Ch cieatittts oc.
+
+## Page 5
+
+www Pel noubooks: te:
+
+oot ma eategnn Reyes te ar aon
+sage bing pancas sagen Uhecs youn, eae
+Srechén sou conte Svge"aiy sntayinm teseoad
+vo Soop ae mgstand howe aeetys potas
+rots pop Geis bp pcnegine fea, ethan tn
+poy afyanae Boaroree of puncd Poser
+Legh ge et wet prin
+
+Saat weve oa georan
+
+ech rece
+
+| Soa ansoan
+
+SSpaooeun
+
+Degen Sonne yeh # rood
+seoorbnn vo Pate, sgh voce Sear wood
+Syst urvodsnms og ten aaa fous toosen
+ronson coos ohtned on Doan ip Qty
+sous peje, en So waa vo geeast wap
+sdeves- oD pedwes
+
+sagvinwrD, wee{ peat nO Sybter Bfm0Ot
+mon mye! Lang baer aed dines Orns
+coger’ Iathevngedsoeuinges oye niga
+ooo #oye TW seine pb asian nowese ped
+wt ome
+
+vanes oni Sotte,
+
+,Sooee eons extn
+
+: pr antgeweo ae
+
+## Page 6
+
+Wwwetetugubooks.tk
+
+ses os ompbersnes HOSS
+1 Berd adgrdgneie mss Sein.
+
+1 Rigs wD Sivoodis wsdérogs MDROsSEs. BBD Rosin.
+9 adsainers weep Snveca wciio ADRoD Ins Birth
+0 soda - a9 oes
+
+Sod Sy HO SoseyEose Fes Dppodies
+
+|. Sa eines D8Er we,
+
+2. Ds woes Sop SOK
+
+of Bgiien Sayer So.
+
+1 GErd  woctss usa B95
+
+5 S88 wD ylet opsyg HOEosss
+
+5 wos: gteces drow
+
+1. isp ets Sosdes! yb STocts
+
+yr: 58 pssines HBOS
+
+9 ao: nae Seven Bod, Yom SopErYE Sao
+
+10 gS 00 Lagoenss Gonjorayes) SDocSEs
+
+1 Seg: Bass - Blass Days,
+
+12 wowgri: Bt SOS ods,
+
+13 ae
+
+gers San): Ses ggg Hoss,
+
+1. fs: gine Sesion Hyg.
+
+18 &)8 Sgn 0DMy rir KOE.
+
+16 Sars : DEDdIereomE BS.
+
+17. agers: Hestss wBlpssns HBOS
+
+18 era: ipsinen Snyiotrodinm Sod Gxines MDhosss,
+12. Bg: Sagicden Sypatros.
+
+20. ec) Sys WBS Hearn
+
+## Page 7
+
+www setekugubooks.tk
+2.86498 : sor oa
+
+20 Sadness SnD way HO
+
+2 368 (28) JasotSr
+
+28 v8 en Meri,
+
+2 Soc: euersocn8! ott
+
+27. Ds Ba) Apts Sos.
+
+2h wc ibe Bets, Sve Deen wc Hossa
+9 iy 6 aged ge Oho
+
+eye (6g sues Cakpop oes eer St,
+1. tnttoe Sse a
+
+2 Doe (gir
+
+Sd Hogue Pets Mocs
+
+swash: wtp agave: $0osts
+
+fo dy yg Gatos
+
+yi Gees Sino anc
+
+7. i en fe So
+
+es spy Bo
+
+aR Dio: 68 Sg Hee
+
+ft SES USSR pMEMRgStos Pose
+
+cb 05 899 toc
+
+tg ies ea
+
+ton ny fen As
+
+Stoney ined 2G Da.
+
+S870: b99 coro.
+
+0. re rein 368
+
+wed Staten otis
+
+momen £88 ypc nae
+
+## Page 8
+
+55 8: gn» dena sod,
+ss. dip: Hse greganes ays,
+
+7. SOE : forse Stross.
+
+sh. dng | 64s Bstrese.
+
+9. 698 wen ADO.
+
+0. fa eas gn bdo,
+
+worsen
+
+SrAspso@as ssnustossobatsjsseSucrsiaesecdsss
+So YSoegias wim ayes eid mes Moves BO BAYS
+Sas80i. SHAS AgéSnpiom soyod Sodan DSgSs
+SasDio. 8 chose dle Som SaisBie. sogyrosnecee ae
+SB Sass@is,o0 kos ebetnd BctmD Hawes. Hf Bes
+Se Reps CaS remyéziom boyPD doderssin
+SssRindird So Eas MySio daiies Bs oe
+Src icin joime Daigy, Mysinse Habwy sade
+Scisyeu'D iy S000. qagbxdesnen, fom weSses S06
+S008, ysis Bhs Soa8 wodtye Fab wis Hasse
+Soye BSS umige Anfiwes abode Qa Sngioers
+shod Sing, Aghciinte Rodd ie heyseyess CemSBS
+ven Bows S528 ogg SEBS. SNS wheTSMEOSSes
+Saosin ryrossio Bioysso JS. NES BSAKySS Cases
+sto EraerOlD, MayoEID, Mbyd Lyowin GAL For o8
+coasts Grdosd adenosass pais wBoSNGAsss Soden.
+Wg) SHE Haines SS Haye SOA) dyye" And
+Sreplousints snsons.Afyssir 158) by9 inden. sds" (ABC
+$5 BS SnSoP Ss. erste dons, SND Sods GO
+Dstt, ysis LoS,
+
+## Page 9
+
+www,.teltigubooks tk.
+cebu ona ssn na ayes) som ae sane
+a nr
+nn enn
+sya egued outaba veges Soto ee woyea
+22 SA
+SS SSE
+may argefas eopisnecuangar'cndaes Pemiyaag
+soa meses mbnowas pene doth ow gran does
+a ore oy Syunre ousna sytm iyen
+vetocam Was ancratae, ane ah conch
+ee OE
+sapgtannd anjacr na agi ones eta: acne
+SEioeqyants ssscu dniurtegs mesaava qa
+SSS
+vayayomatnumaaywasapeencscpianpayire
+verehyea open tyaan ekoangeee sega
+ae’
+
+So gee
+
+cee ecaunjauoasaansengyenanames
+es
+SSS EES
+saat © yoann hee Gastmanen won, age
+wane ofa vets Pa, gna unr cay tence
+SS SSS SSS
+See
+
+## Page 10
+
+tea [ewe ele eam as
+
+aegis gear [aren | Pate Rags te
+
+sews | agcecsoaget cog | oo ee 3
+
+TY lL ccoall
+cs _|eomssust eat | Bers erate
+snae | geet [oo | sein se gee
+3
+
+sage jae |e er igs
+
+a Ses ors
+p03
+
+tose [tee [row | aaron Bede oom
+
+vias tae ages | gear oe hat
+
+t Ssiirinost Bigger Sodesions RyascseBs, £09 dared
+79, hogisstmd Ss, NOD wair Yrssos ByOS Koro apes
+
+sd OY NYsrssei0d SreossBe.
+
+a igiee
+Laney | ogee oee
+
+2g | see aet5
+a pererry
+
+“ sees
+
+res | gS Saas
+
+666 | Soca cams
+1a) Se 68 Go
+Boss Sean $08 fa
+
+ates aor Bigs See hed
+
+## Page 11
+
+www. teltigubooks .tk.,
+asd torayien aftasnan pe Sena Fagin
+SEES SS
+SSE SS
+SEE ES
+sana ic eyson op tar mayer Mase
+Se SES
+
+whoeee
+
+SE onan gusjensann, apye eye
+LU Se a Se
+seat qauonds a geste oiayee Tm
+weuoas « tasetces Dagan ogame eqs
+SSUES es
+SS
+mo on ro te. oegn oa ta Gems orem npn
+Soasn uceenoran pn ain daagen game
+mo ecana # karaayet cas aaemn goopanc
+oorennnanentnnrnnnler
+“EES SS
+Sa Lannea”
+Se cing ag wren? peas onus soaring praceo
+SSeS
+eS AES
+ants wages spas coup tome eaprace of
+Se
+a See.
+aa eran rtee
+orang hepsoanay dent geen
+
+## Page 12
+
+wi bo) Boupeoks...£k,
+
+Sainse Bsagering, Pu bracing Deis, Qasr Movs
+Sosa GirBiny Seite eoBLphD nadie gaoucioring
+Bye Bey REM tow ss Hin dows of
+Se PAe) E;ND ssoapins GALEHC oan. sarod
+Shain prise", BoeronS WS grist doa, md 80) Oy
+Sbyosstd recinss oc, maak ye OD SDM ene
+Sssedie nD Hibs Sie uebocie Hog Sted Nore
+mye mBd Dice BS Sted, 8 ud Grrr Dri
+Peciniin UeMeash iso Deyo md MO) Sens
+since, BD hens "Sate Hin SciySe NESrSOSySnys
+clei Hpi Sy. “AcTeeD “wy sdindys Bed
+sof. wee Stsin AONEIn BAHT SeirdD 24559 5005
+Som) Sire “Arce BoE “ros erase. 8
+stir S656. Ber SSMS, BgGrSBS (eke, ANS ivoire
+voce. mii cir Pusoet desde of coxsn 6
+Sssogiois (red GOLFD) dsgh SoS mavBD wboasst me!
+pS f8j0 dod, "inod Snobe Bingnain Goat BS yates
+And warcit@ eer Bsc,
+Sess orsss)
+Seinen Gesinst MEP Gesios Sahin. Giese rnp
+soSSo. PS Beste SxoSsBE. undies ) anciw Hrss6"s
+wgirisais ADD “LE es Gas AfeoS HeySSA ors, ans
+Ssnsines Sardis, Sands Haney Sand SHEED (a - oa
+Ss, igs fotinen Sg gsuQSir Mme BE S42) SEO
+spi9)- § eA) SOSY OB orysangge wd peSaddass;d
+9 Lore Sxerdte DONT ed Sad, aba As) ing moet
+soe, 14S Sods,
+
+## Page 13
+
+www. teltgubooks,.£k
+
+Lyf eosin Gertosochodise, oD B4ySo whose Gy DassE
+Satis Gist) u68b waka. of fio Seeoysn ASE eys
+NONSENB Of fais PpSBin. HPSS dang, Sears Sree He
+PeiSHingjo eas SD. Base, mSNsOSELNS PS SoS
+pploesargpie mes. wodd NSIS. wars SSNS! SS
+scoordeinsor ship eorisaw BS Ago wits ng Sra
+Sob SSS BS 6 fy ofc Eirio. wd Says. wf wossers
+sSopQs, "EDSGrEs wry”
+
+sp onygoess

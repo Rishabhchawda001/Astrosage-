@@ -1,0 +1,56 @@
+{
+  "title": "Ayurvedic Upay",
+  "discovered_at": "2026-07-13T12:41:30.403625+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "aurvedikupchar",
+      "title": "Aurvedik Upchar",
+      "creator": "H padya",
+      "year": 1995,
+      "language": "guj",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4406124580",
+      "title": "Examining the Epidemiology of Diseases with a Special Emphasis on Patanjali Yoga and Ayurveda: A Comprehensive Review Study",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "http://juniperpublishers.com/jyp/pdf/JYP.MS.ID.555828.pdf",
+      "authors": [
+        "Ahsan Huda Yumkhaibam",
+        "Sm Farooque",
+        "Sanjoy Sarkar"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4416939682",
+      "title": "Edible bamboo shoots: a sustainable nexus of nutrition, livelihood, and food security for rural communities in India",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://public-pages-files-2025.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2025.1654510/pdf",
+      "authors": [
+        "Pradip Kumar Sarkar",
+        "Bijoya Bhattacharjee",
+        "Sujit Kumar Das"
+      ]
+    }
+  ]
+}

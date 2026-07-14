@@ -1,0 +1,4410 @@
+# Srimad-Bhagavad-Gita-in-Gujarati
+
+Ÿæè}æjxæ±eè„æ
+1
+Ÿæè}æjxæ±eè„æ
+(¥ƒü ¨çã„)
+-: «ftþf :-
+©eMðtr{™thtÞý
+{krŒh ¼ws - fåA.
+Ëkð‚T 2062 …tu»tËwŒ 2
+Ë™u. 2005 ‚t. 1-1-06
+yæÞtÞ - 1
+yæÞtÞ 1 Úte 5
+Ÿæè}æjxæ±eè„æ (¥ƒü ¨çã„)
+{ë„ÚæcÅî ©±æ™ J
+{}æüÿæï~æï ÜéULÿæï~æï ¨}æ±ï„æ ²é²éy¨±: J
+}ææ}æÜUæ: Ðæ¢Ç±æpñ± çÜU}æÜéU±ü„ ¨¢…² JJ1JJ
+Ä]‚ht»xÙ htò ËksÞ™u …qAu Au=
+nu ËksÞ ! Ä{o™t ûtuºt¼q‚ fwYûtuºt{tk ÞwØ fhðt™e RåAtÚte
+¼u„t ÚtÞu÷t {tht …wºttu ‚u{s …tkzðtuyu þwk fÞwO ? >>1>>
+¨¢…² ©±æ™ J
+ÎëcÅì±æ „é Ðæ‡Ç±æÝèÜ¢U Ã²êÉ¢ Îé²æïü{ÝS„Îæ J
+¥æ™æ²ü}æéÐ¨X}² Úæ…æ ±™Ý}æÏæí±è„ì JJ2JJ
+Ðà²ñ„æ¢ Ðæ‡ÇéÐé~ææ‡ææ}ææ™æ²ü }æã„è¢ ™}æê}æì J
+Ã²êÉæ¢ ÎíéÐÎÐé~æï‡æ „± çàæc²ï‡æ {è}æ„æ JJ3JJ
+ËksÞ fnu Au = ‚u Ë{Þ{tk htò ŒwÞtuoÄ™ ÔÞqn h[™tÚte
+„tuXðtÞu÷e …tkzðtu™e Ëu™t™u òuR™u s yt[tÞo ÿtuý „wY™e …tËu
+sR™u ð[™ ƒtu÷ðt ÷tøÞtu. nu yt[tÞo ! yt…™t ƒwÂØ{t™ rþ»Þ
+ÿw…Œ…wºt Ä]üãwB™u ÔÞqnh[™tÚte „tuXðu÷e …tkzw…wºttu™e yt {tuxe
+Ëu™t™u yt… swytu ! ™ent¤tu ! >> 2-3 >>
+¥~æ àæêÚæ }æãïc±æ¨æ |æè}ææ…éüÝ¨}ææ ¨éç{ J
+²é²é{æÝæï ç±ÚæÅp ÎíéÐÎp }æãæÚƒ: JJ4JJ
+{ëCÜïU„épïçÜU„æÝ: ÜUæàæèÚæ…p ±è²ü±æÝì J
+ÐéLç…yÜéUç‹„|ææï…p àæñÏ²p ÝÚÐé¢xæ±: JJ5JJ
+²é{æ}æ‹²ép ç±RUæ‹„ ©œæ}ææñ…æp ±è²ü±æÝì J
+¨æñ|æÎíæï ÎíæñÐÎï²æp ¨±ü »± }æãæÚƒæ: JJ6JJ
+yt Ëu™t{tk {tuxtk {tuxtk Ä™w»t Äth™tht y™u hý Ëk„út{{tk ¼e{
+y™u yòow™ suðt {nthÚte ÞwÞwÄt™-ËtíÞrf, rðhtx y™u ÿw…Œhtò
+y™u {ntËt{ÚÞo-ðt™ Ä]üfu‚w, [urf‚t™ y™u ftrþhts, ‚u{s
+™h©uc yuðtu …wYS‚T, fwÂL‚¼tus y™u þiçÞ ™t{u «rËØ htò,
+ð¤e þqhðeh ÞwÄt{LÞw, …ht¢{e W¥t{tiò, Ëw¼ÿt™tu …wºt yr¼{LÞw
+y™u ÿti…Œe™t …wºttu «r‚ rðLæÞtrŒf …tk[, ‚u{s ƒeò …ý …tkzÞ
+htò rð„uhu ½ýtf Au. y™u yt ƒÄtÞ {nthÚteytus Au. >> 4-6 >>
+¥S}ææÜ¢U „é ç±çàæCæ ²ï „æçóæÏææï{ çm…æïœæ}æ J
+Ýæ²ÜUæ }æ}æ ¨ñ‹²S² ¨¢¿ææƒZ „æ‹Ïæí±èç}æ „ï JJ7JJ
+nu Âîòu¥t{-yt[tÞo ! nðu yt…ýt ËiLÞ{tk su {wÏÞ {wÏÞ
+ÞtuØtytu Au, ‚uytu™u yt… òýe ÕÞtu. y™u ‚u {the Ëu™t™t ™tÞftu
+‚{the òý™u {txu ‚{tu™u fne ƒ‚tðwk Awk. >>7>>
+
+
+Ÿæè}æjxæ±eè„æ
+2
+|æ±æ‹|æèc}æp ÜU‡æüp ÜëUÐp ¨ç}æô„…²: J
+¥Eyƒæ}ææ ç±ÜU‡æüp ¨æñ}æÎçœæS„ƒñ± ™ JJ8JJ
+¥‹²ï ™ Ïæã±: àæêÚæ }æÎƒïü y²QU…èç±„æ: J
+ÝæÝæàæ›ÐíãÚ‡ææ: ¨±ïü ²éhç±àææÚÎæ: JJ9JJ
+yuf ‚tu yt…-ÿtuý„wY, ƒeò ¼e»{r…‚t, ‚Útt fýo y™u
+ÞwØ{tk sÞ {u¤ð™tht yt f]…t[tÞo, ‚Útt yïíÚtt{t, rðfýo,
+‚u{s Ëtu{Œ¥t™tu …wºt sÞÿÚt.
+y™u yt rËðtÞ™t ƒeò …ý þÕÞ y™u f]‚ð{torŒf þqhðehtu
+Au, fu suytu {thu {txu …tu‚t™t Sð™™tu …ý íÞt„ fh™tht Au.
+y™u ‚u Ë½¤t y™uf þ† y™u «nth fhðt™tk ËtÄ™tuðt¤t Au,
+‚u{s ‚u Ë½¤t ÞwØ fhðt{tk yr‚ r™…wý‚tðt¤t Au. >>8-9>>
+¥Ð²æü#¢ „ÎS}ææÜ¢U ÏæH¢ |æèc}ææç|æÚçÿæ„}æì J
+Ð²æü#¢ çy±Î}æï„ï¯æ¢ ±H¢ |æè}ææç|æÚçÿæ„}æì JJ10JJ
+¼e»{r…‚tÚte hûtt fhtÞu÷wk yt…ýwk ËiLÞ ‚tu y…Þtoó ½ýwks
+ytuAwk ÷t„uAu. y™u ¼e{Úte hûtt fhtÞu÷wk yt yu{™wk þºtwytu™wk ËiLÞ
+‚tu sÞ {u¤ððt{tk ËB…qýo Ë{Úto sýtÞ Au. >>10>>
+¥²Ýï¯é ™ ¨±ïü¯é ²ƒæ|ææxæ}æ±çSƒ„æ: J
+|æèc}æ}æï±æç|æÚÿæ‹„é |æ±‹„: ¨±ü »± çã JJ11JJ
+{txu ‚{u ƒÄtÞ Ëðo ÔÞqnh[™tytu™t «ðuþ{t„o{tk ÞÚttÞtuøÞ
+rð¼t„ «{týu ËtðÄt™ W¼t hne™u [tu‚hVÚte yuf ¼e»{-
+r…‚t™wks Ëðo «fthu hûtý fhtu. >>11>>
+„S² ¨¢…Ý²‹ã¯Z ÜéUL±ëh: çÐ„æ}æã: J
+ô¨ãÝæÎ¢ ç±ÝlæñÓ™ñ: àæW¢ ÎŠ}ææñ Ðí„æÐ±æÝì JJ12JJ
+‚u Ë{Þ{tk {nt«‚t…e fwYð]Ø ¼e»{-r…‚t{nu ‚u ŒwÞtuoÄ™™u
+n»to W…òð‚tk ®Ën™tŒ suðe Wå[ MðhÚte ¼Þkfh „so™t fhe™u
+…Ae …tu‚t™tu þk¾ ðòzâtu. >>12>>
+„„: àæWæp |æï²üp Ð‡æ±æÝÜUxææï}æé¶æ: J
+¨ã¨ñ±æ|²ã‹²‹„ ¨ àæÏÎS„é}æéHæïù|æ}æ„ì JJ13JJ
+‚u …Ae ‚wh‚s ƒeò ÞtuØtytuyu …tu‚…tu‚t™t þk¾, ¼uheytu,
+{]Œk„, ™„thtk ‚u{s hýþª„tk rð„uhu yufŒ{ ðòzâtk y™u ‚u
+þçŒ yr‚þÞ {nt™T ¼Þkfh ÚtÞtu. >>13>>
+„„: Eï„ñãü²ñ²éüQïU }æãç„ S²‹ÎÝï çSƒ„æñ J
+}ææ{±: Ðæ‡Ç±pñ± çÎÃ²æñ àæWæñ ÐíÎŠ}æ„é: JJ14JJ
+‚u …Ae ïu‚ yïtuÚte òuzu÷t …tu‚t™t {tuxt hÚt{tk ƒuXu÷t
+÷û{e…r‚ ¼„ðt™ ©ef]»ýu y™u …tkzw…wºt yòow™u …tu‚t™t rŒÔÞ
+þk¾tu ðòzât. >>14>>
+Ðæ@…‹²¢ N¯èÜïUàææï Îï±Îœæ¢ {Ý¢…²: J
+Ðæñ‡Ç¢î ÎŠ}ææñ }æãæàæW¢ |æè}æÜU}ææü ±ëÜUæïÎÚ: JJ15JJ
+¥Ý‹„ç±…²¢ Úæ…æ Üé‹„èÐé~ææï ²éç{çDÚ: J
+ÝÜéUH: ¨ãÎï±p ¨éÍææï¯}æç‡æÐécÐÜUæñ JJ16JJ
+‚u{tk Ó»tefuþ-¼„ðt™u …tk[sLÞ þk¾ ðòzâtu, Ä™ksÞ-
+yòow™ ŒuðŒ¥t þk¾ ðòzâtu, ¼Þkfh f{o fh™tht ð]ftuŒhu …tu‚t™tu
+…tIzÙ ™t{™tu {ntþk¾ ðòzâtu, fwL‚e …wºt ÞwrÄÂch htòyu
+y™L‚rðsÞ ™t{™tu þk¾ ðòzâtu y™u ™fw÷ y™u ËnŒuðu …ý
+Ëw½tu»t y™u {rý…w»…f ™t{™t …tu‚…tu‚t™t þk¾ ðòzât. >>15-
+16>>
+ÜUæà²p ÐÚ}æïEæ¨: çàæ¶‡Çè ™ }æãæÚƒ: J
+{ëClé}Ýæï ç±ÚæÅp ¨æy²çÜUpæÐÚæç…„: JJ17JJ
+ÎíéÐÎæï ÎíæñÐÎï²æp ¨±üàæ: Ðëçƒ±èÐ„ï J
+¨æñ|æÎíp }æãæÏææãé: àæW‹ÎŠ}æé: ÐëƒÜUì ÐëƒÜUìJ18J
+{tuxt Ä™w»t™u Äth™thtu ftþehtò, {nthÚte rþ¾kze htò,
+ÿw…Œ™tu …wºt Ä]üãwB™, rðhtx-htò, ftuRÚte …htsÞ ™ fhtÞ yuðtu
+ËtíÞrf, nu …]rÚtðe…r‚ Ä]‚ht»xÙ hts™T ! ÿw…Œ-htò, ÿti…Œe™t
+…wºttu «r‚rðLæÞtrŒf …tk[ y™u Ëw¼ÿt™tu …wºt {ntƒtnw yr¼{LÞwk,
+yu Ëðuo [tu‚hVÚte …tu‚-…tu‚t™t òwŒt òwŒt þk¾tu™u ðòzðt ÷tøÞt.
+>>17-18>>
+¨ Íææï¯æï {æ„üÚæcÅîæ‡ææ¢ NÎ²æçÝ Ã²ÎæÚ²„ì J
+Ý|æp Ðëçƒ±è¢ ™ñ± „é}æéHæï Ã²ÝéÝæÎ²Ýì JJ19JJ
+yæÞtÞ - 1
+
+
+Ÿæè}æjxæ±eè„æ
+3
+yu Ëðo þk¾tu™tu ‚u {nt ¼Þkfh þçŒ „so™t ytftþ y™u
+…]Úðe™u yr‚þÞ „òðe {wõ‚tu Ä]‚ht»xÙ™t ‚{tht …wºttu™tk ÓŒÞ™u
+rðŒthe ™t¾ðt ÷tøÞtu. >>19>>
+¥ƒ Ã²±çSƒ„æ‹ÎëcÅì±æ {æ„üÚæcÅîæÝì ÜUçÐŠ±…:J
+Ðí±ëœæï àæ›¨¢Ðæ„ï {ÝéLl}² Ðæ‡Ç±: JJ20JJ
+N¯èÜïUàæ¢ „Îæ ±æv²ç}æÎ}ææã }æãèÐ„ï J
+¥…éüÝ ©±æ™ J
+¨ïÝ²æïL|æ²æï}æüŠ²ï Úƒ¢ SƒæÐ² }æïùÓ²é„ JJ21JJ
+²æ±Îï„æçóæÚèÿæïùã¢ ²æïhéÜUæ}ææÝ±çSƒ„æÝì J
+ÜñU}æü²æ ¨ã ²æïhÃ²}æçS}æ‹Ú‡æ¨}æél}æï JJ22JJ
+²æïyS²}ææÝæÝ±ïÿæïùã¢ ² »„ïù~æ ¨}ææxæ„æ: J
+{æ„üÚæcÅîS² ÎéÏæéühï²éühï çÐí²ç™ÜUè¯ü±: JJ23JJ
+‚u …Ae ÞwØ fhðt {txu ÔÞðMÚttÚte „tuXðtR™u Ëßs ÚtÞu÷t
+Ä]‚ht»xÙ™t ‚{tht …wºttu™u òuR™u …hM…h þ†ËB…t‚ Útðt ÷tøÞtu
+‚u Ë{Þ{tk fr…-n™w{t™S ‚u™t æðs{tk ƒuXu÷t Au yuðt …tkzw…wºt
+yòow™ …tu‚t™wk Ä™w»t W„t{e™u nu {ne…r‚ Ä]‚ht»xÙ ! ‚u Ë{Þ{tk
+Ó»tefuþ ¼„ðt™™t «íÞu yt «{týu ðtõÞ fnuðt ÷tøÞtu.
+yòow™ fnu Au=
+nu yåÞw‚ ! ƒÒtu Ëu™tytu™t {æÞu {thtu hÚt ÷R sR™u W¼tu
+ht¾tu ! fu ßÞtkÚte ÞwØ fhðt™e RåAtÚte Ëßs ÚtR™u W¼t hnu÷t
+yu ŒwÞtuoÄ™trŒf™u nwk òuô-òuR þfwk. > y™u ð¤e yt hýËk„út{{tk
+{thu ftu™e ËtÚtu ÞwØ fhðt™wk Au, ‚uðt Ë½¤t ÞwØ fhðt
+RåA™thtytu™u …ý nwk òuô, fu suytu ŒwƒwoÂØ Ä]‚ht»xÙ™t …wºt
+ŒwÞtuoÄ™™wk ÞwØ{tks r«Þ fhðt™u RåA‚t Útft ynª yt hý¼qr{{tk
+ytðu÷t Au. >>20-23>>
+¨¢…² ©±æ™ J
+»±}æéQUæï N¯èÜïUàææï xæéÇæÜïUàæïÝ |ææÚ„ J
+¨ïÝ²æïL|æ²æï}æüŠ²ï SƒæÐç²y±æ Úƒæïœæ}æ}æì JJ24JJ
+|æèc}æÎíæï‡æÐí}æé¶„: ¨±ïü¯æ¢ ™ }æãèçÿæ„æ}æì J
+©±æ™ Ðæƒü Ðà²ñ„æÝì ¨}æ±ï„æ‹ÜéUMçÝç„ JJ25JJ
+ËksÞ fnu Au=
+nu ¼th‚ ! ¼th‚fw÷tuí…Òt Ä]‚ht»xÙ ! „wztfuþ r™ÿt™u
+S‚™tht yòow™u yt «{týu fnu÷t ©ef]»ý ¼„ðt™™u yòow™™t
+W¥t{ hÚt™u ƒÒtu Ëu™tytu™t {æÞu ¼e»{-ÿtuýtrŒf ‚u{s Ëðo
+htòytu™e Ë{ût{tk W¼tu ht¾e™u nu …tÚto ! ÞwØ fhðt ¼u„t ÚtÞu÷t
+yt ftihðtu™u ‚u{s ‚u™t …ût™tytu™u …ý òu ! yu{ fÌtwk. >>24-
+25>>
+„~ææÐà²çySƒ„æÝì Ðæƒü: çÐ„ëÝƒ çÐ„æ}æãæÝì J
+¥æ™æ²æü‹}ææ„éHæ‹|æíæ„ë‹Ðé~ææ‹Ðæñ~ææ‹¨¶è¢S„ƒæJ26J
+EàæéÚæÝì ¨éNÎpñ± ¨ïÝ²æïL|æ²æïÚçÐ J
+„æ‹¨}æèÿ² ¨ ÜUæñ‹„ï²: ¨±æü‹Ïæ‹{êÝ±çSƒ„æÝìJ27J
+ÜëUÐ²æ ÐÚ²æç±Cæï ç±¯èÎçóæÎ}æÏæí±è„ì J
+…]Útt™t …wºt yòow™u ‚u hý¼qr{{tk ytðe™u ƒÒtu Ëu™tytu{tk
+W¼t hnu÷t r…‚tytu™u ftftytu™u, r…‚t{ntu™u=ŒtŒtytu™u,
+yt[tÞtuo™u, {t{tytu™u, ¼tRytu™u, …tiºttu™u, Ë¾tytu™u, ‚u{s
+ïþwhtu™u ‚Útt Ëðo ËwÓŒtu™u …ý òuÞt. fwL‚e™tu …wºt yòow™ ÞwØ
+{txu ‚iÞth ÚtR™u W¼t hnu÷t ‚u Ë½¤t Ë„t ËBƒLÄeytu™u
+[tu‚hVÚte òuR™u yr‚þÞ f]…tÚte ytrðü ÚtR™u ¾uŒ …t{‚tu
+…t{‚tu yt «{týu fnuðt ÷tøÞtu. >>26-27>>
+¥…éüÝ ©±æ™ J
+ÎëcÅì±ï}æ¢ S±…Ý¢ ÜëUc‡æ ²é²éy¨é¢ ¨}æéÐçSƒ„}æì JJ28JJ
+¨èÎç‹„ }æ}æ xææ~ææç‡æ }æé¶¢ ™ ÐçÚàæéc²ç„ J
+±ïÐƒép àæÚèÚï }æï Úæï}æã¯üp …æ²„ï JJ29JJ
+xææ‡Çè±¢ d¢¨„ï ãS„æœ±Bñ± ÐçÚÎs„ï J
+Ý ™ àævÝæï}²±Sƒæ„é¢ |æí}æ„è± ™ }æï }æÝ: JJ30JJ
+yòow™ fnu Au=
+nu f]»ý ! ÞwØ fhðt RåA‚t yt Ë{e…{tk W¼t hnu÷t {tht
+Mðs™tu™u òuR™u {thtk „tºt yðÞðtu rþrÚt÷ ÚtR òÞ Au. y™u
+yæÞtÞ - 1
+
+
+Ÿæè}æjxæ±eè„æ
+4
+{tYk {w¾ …ý ËwftR òÞ Au. {tht þheh{tk fB…thtu ÚtR ytðu
+Au. y™u htu{n»to-Ykðtztk W¼tk ÚtR ytðu Au. yt {tYk „tkzeð Ä™w»t
+ntÚt{tkÚte …ze òÞ Au y™u {the [t{ze …ý ƒ¤wk ƒ¤wk ÚttÞ Au.
+y™u nwk W¼tu hnuðt™u …ý þÂõ‚{t™ ™Úte y™u {tYk {™ ‚tu òýu
+¼{‚wk ntuÞ™u þwk ? yu{ sýtÞ Au.>>28-30>>
+çÝç}æœææçÝ ™ Ðà²æç}æ ç±ÐÚè„æçÝ ÜïUàæ± J
+Ý ™ Ÿæï²æïùÝéÐà²æç}æ ãy±æ S±…Ý}ææã±ï JJ31JJ
+nu fuþð ! þfw™tu …ý nwk rð…he‚s Œu¾wk Awk y™u yt {tht
+ËBƒLÄe s™tu™u ÞwØ{tk {the ™t¾e™u …AeÚte …ý nwk {tYk ©uÞ
+™Úte òu‚tu. >>31>>
+ÝÜUæâï ç±…²¢ ÜëUc‡æ Ý ™ ÚæÁ²¢ ¨é¶æçÝ ™ J
+ôÜU Ýæï ÚæÁ²ïÝ xææïç±‹Î ôÜU |ææïxæñ…èüç±„ïÝ ±æJ32J
+²ï¯æ}æƒïü ÜUæçâ„¢ Ýæï ÚæÁ²¢ |ææïxææ: ¨é¶çÝ ™ J
+„ §}æïù±çSƒ„æ ²éhï Ðíæ‡ææ¢Sy²vy±æ {ÝæçÝ ™J33J
+nu f]»ý ! nwk yt ÞwØ fhe™u rðsÞ ™Úte RåA‚tu, ‚u{s htßÞ
+fu htßÞ™tk Ëw¾tu™u …ý ™Útes RåA‚tu.  nu „turðLŒ ! y{™u htßÞ
+{¤u ‚tuÞ þwk ? yÚtðt ¼tu„-rð÷tËtuÚte fu Sð™Úte …ý þwk ? fthý
+fu su{™u {txu y{thu htßÞ, htßÞ™t ¼tu„tu ‚Útt htßÞ™tk Ëw¾tu
+RÂåA‚ Au, ‚u yt Ë½¤t ‚tu …tu‚t™t «tý y™u Ä™ ËðoMð™tu
+íÞt„ fhe™u ÞwØ{tk Ët{t ytðe™u W¼t Au. >>31-32>>
+¥æ™æ²æü: çÐ„Ú: Ðé~ææS„ƒñ± ™ çÐ„æ}æãæ: J
+}ææ„éHæ: EàæéÚæ: Ðæñ~ææ: à²æHæ: ¨}Ïæç‹{ÝS„ƒæ J34J
+yt[tÞtuo, r…‚tytu, ftftytu, …wºttu, ‚Útt ŒtŒtytu, {t{tytu,
+ËËhtytu, …tiºttu, ~Þt÷ftu ‚Útt ƒeò …ý Ë½¤t ËBƒLÄeytu,
+yu Ë½¤t W¼u÷t Au. >>34>>
+»„æóæ ã‹„éç}æÓÀæç}æ ÍÝ„æïùçÐ }æ{é¨êÎÝ J
+¥çÐ ~æñHæïv²ÚæÁ²S² ãï„æï: ôÜU Ýé }æãèÜëU„ï J35JJ
+nu {ÄwËqŒ™ ! ‚uytu {™u {thu ‚tu …ý nwk yu{™u {thðt ™Úte
+RåA‚tu, rºt÷tufe™t htßÞ {txuÞ ™rn, ‚tu …Ae …]Úðe {txu ‚tu nwk
+{tYks fu{ ? >>35>>
+çÝãy² {æ„üÚæcÅîæóæ: ÜUæ Ðíèç„: S²æÁ…ÝæÎüÝ J
+ÐæÐ}æï±æŸæ²ïÎS}ææ‹ãy±ñ„æÝæ„„æç²Ý: JJ36JJ
+ð¤e- Ä]‚ht»xÙ™t Atufhtytu™u {the ™t¾e™u y{™u þwk «er‚
+Útðt™e n‚e ? {txu nu s™tŒo™ ! yt‚‚tÞe yuðt …ý yu ftihðtu™u
+{the™u y{™u fuð¤ …t…s ÷t„u. >>36>>
+„S}ææóææãæü ±²¢ ã‹„é¢ {æ„üÚæcÅîæÝì S±Ïææ‹{±æÝì J
+S±…Ý¢ çã ÜUƒ¢ ãy±æ ¨éç¶Ý: S²æ}æ }ææ{± J37JJ
+{txu y{tht ƒtLÄðtu yuðt Ä]‚ht»xÙ™t Atufhtytu™u fu
+…ût™tytu™u …ý {thðt™u {txu y{u ÞtuøÞ ™Úte, fu{ fu nu {tÄð !
+Mðs™tu™u {the™u y{u fu{ Ëw¾eÞt ÚtRyu ? (™ s ÚtRyu.) >>37>>
+²lŒ²ï„ï Ý Ðà²ç‹„ Hæï|ææïÐã„™ï„¨: J
+ÜéUHÿæ²ÜëU„¢ Îæï¯¢ ç}æ~æÎíæïãï ™ Ðæ„ÜU}æì JJ38JJ
+ÜUƒ¢ Ý ¿æï²}ææS}ææç|æ: ÐæÐæÎS}ææçóæ±<„„é}æì J
+ÜéUHÿæ²ÜëU„¢ Îæï¯¢ ÐíÐà²çj…üÝæÎüÝ JJ39JJ
+òu fu ÷tu¼Úte ¼úür[¥t ÚtR „Þu÷t yu ftihðtu fw¤™t ûtÞÚte
+Út‚tu Œtu»t-…t…, ‚u{s r{ºtÿtun{tk hnu÷wk …t… ™Úte Œu¾‚t, ‚tu …ý
+nu s™tŒo™ ! fw¤ûtÞf]‚ Œtu»t™u òu™tht y{tuyu yt …t…Úte r™ð]Â¥t
+…t{ðt {txu fu{ ™ Ë{Íðwk òuRyu ? Ë{Íðwks òuRyu. 38-39
+ÜéUHÿæ²ï Ðí‡æà²ç‹„ ÜéUH{}ææü: ¨Ýæ„Ýæ: J
+{}æïü ÝCï ÜéUH¢ ÜëUyF}æ{}ææïüùç|æ|æ±y²é„ JJ40JJ
+fw¤™tu ûtÞ ÚtðtÚte Ë™t‚™ …hB…ht„‚ þtï‚ Ä{tuo ™tþ …t{e
+òÞ Au. y™u Ä{o ™ü ÚtðtÚte Ë{„ú fw¤ ™tþ …t{e òÞ Au. y™u
+ð¤e yÄ{o Ëðo «fthu …ht¼ð …{tzu Au. >>40>>
+¥{}ææüç|æ|æ±æyÜëUc‡æ ÐíÎéc²ç‹„ ÜéUHç›²: J
+›è¯é ÎéCæ¨é ±æc‡æïü² …æ²„ï ±‡æü¨VÚ: JJ41JJ
+nu f]»ý ! yÄ{oÚte …ht¼ð ÚtðtÚte fw¤ð‚e Mºteytu Œqr»t‚
+ƒ™e òÞ Au. y™u nu ð]Â»ý fw¤™LŒ™ Mºteytu Œqr»t‚-¼úü ÚtðtÚte
+«ò ðýoËkfh ÚttÞ Au.>>41>>
+yæÞtÞ - 1
+
+
+Ÿæè}æjxæ±eè„æ
+5
+¨VÚæï ÝÚÜUæ²ñ± ÜéUHÍÝæÝæ¢ ÜéUHS² ™ J
+Ð„ç‹„ çÐ„Úæï sï¯æ¢ Hé#çÐ‡ÇæïÎÜUçRU²æ: JJ42JJ
+ðýoËkfh «ò fw¤™tu ™tþ fh™thtytu™u ‚u{s ƒtfe™t Ë{„ú
+fw¤™u …ý ™hf{tks ™t¾™the ÚttÞ Au. y™u yu{™t {he™u „Þu÷t
+r…‚]ytu …ý …tA¤Úte ®…zŒt™ y™u ‚…oýtrŒf r¢Þtytu ÷wó ÚtðtÚte
+yÄtu„r‚™us …t{u Au. >>42>>
+Îæï¯ñÚï„ñ:  ÜéUHÍÝæÝæ¢  ±‡æü¨VÚÜUæÚÜñU: J
+©y¨æl‹„ï …æç„{}ææü: ÜéUH{}ææüp àææE„æ: J43J
+ðýoËkfh‚t™u …{tz™tht fw¤Ät‚e …wY»ttu™t yu {ntŒtu»tÚte
+þtï‚ Ë™t‚™ òr‚Ä{tuo y™u …hB…ht„‚-fw¤Ä{tuo …ý Ë½¤t
+™tþ fhe ™¾tÞ Au. >>43>>
+©y¨óæÜéUH{}ææü‡ææ¢ }æÝéc²æ‡ææ¢ …ÝæÎüÝ J
+ÝÚÜïUùçÝ²„¢ ±æ¨æï |æ±„èy²ÝéàæéŸæé}æ JJ44JJ
+nu s™tŒo™ ! WíËÒt ÚtR „Þt Au fw¤Ä{o su{™t yuðt
+{™w»Þtu™tu ™hf{tk r™Þ‚-y¾kz ðtË ÚttÞ Au yu{ y{u yt[tÞtuo™t
+{w¾Úte Ëtk¼éÞwk Au. >>44>>
+¥ãæï Ïæ± }æãyÐæÐ¢ ÜU„éZ Ã²±ç¨„æ ±²}æì J
+²ÎíæÁ²¨é¶Hæï|æïÝ ã‹„é¢ S±…Ý}æél„æ: JJ45JJ
+yntu- ¾uŒ™e ðt‚ Au, fu- yhuhu y{u ytðwk {tuxwk …t… fhðt™t
+r™ùÞ W…h ytðe „Þt, fu su- htßÞËw¾™t ÷tu¼u fhe™u Mðs™tu™u
+nýðt™u {txu ‚iÞth ÚtR „Þt. >>45>>
+²çÎ }ææ}æÐí„èÜUæÚ}æàæ›¢ àææ›Ðæ‡æ²: J
+{æ„üÚæcÅîæ Ú‡æï ã‹²éS„‹}æï ÿæï}æ„Ú¢ Ïæ±ï„ì JJ46JJ
+{txu þ† ntÚt{tk ÷R™u ‚iÞth ÚtÞu÷t Ä]‚ht»xÙ™t Atufhtytu
+þ†hrn‚ y™u …tu‚t™tu ƒ[tð …ý ™rn fh‚tu yuðtu {™u hý{tk
+òu {the ™t¾u, ‚tu ‚tu {tYk yr‚þÞ fÕÞtý ÚttÞ. >>46>>
+¨¢…² ©±æ™ J
+»±}æévy±æ…éüÝ: ¨¢w²ï ÚƒæïÐSƒ ©Ðæç±àæ„ì J
+ç±¨ëÁ² ¨àæÚ¢ ™æÐ¢ àææïÜU¨¢ç±xÝ}ææÝ¨: JJ47JJ
+ËksÞ fnu Au =
+þtufÚte yr‚ WÂîø™ r[¥tðt¤tu yòow™ ÞwØ Ë{Þ{tks yt
+«{týu fne™u ƒtý Ërn‚ Ä™w»t Atuze ŒR™u hÚt™t yuf ¼t„{tk
+ƒuËe „Þtu. >>47>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢ ²æïxæàææ›ï
+ŸæèÜëUc‡ææ…éüÝ¨¢±æÎïù…éüÝç±¯æÎ²æïxææï Ýæ}æ Ðíƒ}ææïùŠ²æ²: JJ1JJ
+Rr‚ ©e{ŒT¼„ðŒT„e‚tËq…r™»tíËw ƒúñrðãtÞtk Þtu„þtMºtu
+©ef]»ýtòow™ËkðtŒu yòow™rð»ttŒÞtu„tu ™t{ «Út{tuyæÞtÞ: >>1>>
+
+## ¥ƒ çm„è²æïùŠ²æ²:
+
+¨¢…² ©±æ™ J
+„¢ „ƒæ ÜëUÐ²æç±C}æŸæéÐê‡ææüÜéUHïÿæ‡æ}æì J
+ç±¯èÎ‹„ç}æÎ¢ ±æv²}æé±æ™ }æ{é¨êÎÝ: JJ1JJ
+ËksÞ fnu Au = …qðuo fnuðt «{týu …h{ f]…tÚte ytrðü ÚtÞu÷t,
+y©wytuÚte …qýo ytfw¤-ÔÞtfw¤ ™uºttuðt¤t y™u yr‚þÞ ¾uŒ fh‚t ‚u
+yswo™ «íÞu {ÄwËqŒ™ ¼„ðt™ yt «{týu ð[™ fnuðt ÷tøÞt. >>1>>
+Ÿæè |æxæ±æÝé±æ™ J
+ÜéU„Sy±æ ÜUà}æHç}æÎ¢ ç±¯}æï ¨}æéÐçSƒ„}æì J
+¥Ýæ²ü…éC}æS±x²ü}æÜUè<„ÜUÚ}æ…éüÝ JJ2JJ
+©e ¼„ðt™ fnu Au = nu yswo™ ! ytÞo …wY»ttuyu fŒe ™rns
+Ëuðu÷wk, Mð„o «tÂó{tk …ý rðhtuÄe y™u yt ÷tuf{tk …ý y…feŠ‚
+fh™tYk, yuðwk yt f~{¤ {™™tu {tun ytðt rð»t{ Ë{Þ{tk ‚™u
+fÞtkÚte «tó ÚtÞwk ? ÚtR ytÔÞwk ? >>2>>
+vHñÏ²¢ }ææ S}æ xæ}æ: Ðæƒü Ýñ„œ±Ä²éÐÐl„ï J
+ÿæéÎí¢ NÎ²ÎæñÏæüË²¢ y²vy±æïçœæD ÐÚ¢„Ð JJ3JJ
+nu …tÚto ! …]Útt™t …wºt yswo™ ! ‚wk yt{ ™…wkËf¼tð™u ™ …t{e
+ò. yt ‚thu rð»tu ™Úte ½x‚wk, {txu nu þºtw‚t…™ ! ûtwÿ ÓŒÞŒtiƒoÕÞ™u
+Atuze ŒR™u ‚wk ÞwØ {txu W¼tu Útt ? ËtðÄt™ Útt ? >>3>>
+yæÞtÞ - 2
+
+
+Ÿæè}æjxæ±eè„æ
+6
+¥…éüÝ ©±æ™ J
+ÜUƒ¢ |æèc}æ}æã¢ ¨¢w²ï Îíæï‡æ¢ ™ }æ{é¨êÎÝ J
+§¯éç|æ: Ðíç„ ²æïyS²æç}æ Ðê…æãæü±çÚ¨êÎÝ JJ4JJ
+yswo™ fnu Au = nu {ÄwËqŒ™ ! ¼e»{r…‚t{n™u y™u
+ÿtuý„wY™u ÞwØ{tk ƒtýtuÚte fuðe he‚u nwk «nth fhe þfwk ? fu{ fu
+‚uytu ‚tu {thu …h{ …qßÞ Au. >>4>>
+xæéMÝãy±æ çã }æãæÝé|ææ±æÝì Ÿæï²æï |ææïQé¢U |æñÿ²}æÐèã HæïÜïU J
+ãy±æƒüÜUæ}ææ¢S„é xæéMUçÝãñ± |æéTè² |ææïxææÝì Lç{ÚÐíçÎx{æÝì JJ5JJ
+{txu {nt™w¼tð „wYytu™u ™rn ný‚tk yt ÷tuf{tk r¼ûttÚte
+{u¤ðu÷wk yÒt ¾tðwk yus yr‚ ©uÞMfh Au, fu{ fu yÚto÷wçÄ
+„wYytu™u {the ™t¾e™u ‚tu ‚u{™ts YrÄhÚte ¾hztÞu÷t ¼tu„tu
+yt ÷tuf{tk y{thu ¼tu„ððt™t. >>5>>
+Ý ™ñ„çmk: ÜU„Úóææï xæÚè²æï ²mæ …²ï}æ ²çÎ ±æ Ýæï …²ï²é: J
+²æÝï± ãy±æ Ý ç……èç±¯æ}æS„ïù±çSƒ„æ: Ðí}æé¶ï {æ„üÚæcÅîæ: JJ6JJ
+ð¤e yu …ý y{u òý‚t ™Úte fu yt ƒu{tkÚte (r¼ûtt {t„e
+¾tðe ? fu ÞwØ fhðwk ?)y{thu {txu fÌtwk ©uc Au ? yÚtðt ‚tu y{u
+yu{™u S‚eyu, fu ‚uytu y{™u S‚u, ð¤e ‚u{ A‚tk su{™us {the™u
+y{u Sððt™e …ý RåAt ™Úte ht¾‚t, ‚u Ä]‚ht»xÙ™t Atufhtytu
+‚tu ÞwØ{tk Ë{t ytðe™u W¼t Au. >>6>>
+ÜUæÐü‡²Îæï¯æïÐã„S±|ææ±:ÐëÓÀæç}æ y±æ¢ {}æü¨¢}æêÉ™ï„æ: J
+²ÓÀîï²: S²æçóæçp„¢ Ïæíêçã „‹}æï çàæc²S„ïùã¢ àææç{}ææ¢ y±æ¢ ÐíÐóæ}æì J7J
+Œe™‚t™u ÷eÄu {thtu Mð¼tð …÷xtR „Þtu Au, ‚uÚte
+Ä{or™ýoÞ™e ƒtƒ‚{tk ËðoÚtt {qZr[¥t ƒ™e „Þu÷tu nwk ‚{™u …qAwkAwk
+fu {tYk su r™Âù‚ ©uÞ ntuÞ ‚u {™u Ë{Ítðtu ! nwk ‚{thtu rþ»Þ Awk,
+{txu ‚{thu þhýu ytðu÷t {™u {™u ƒtuÄ fhtu. >>7>>
+Ý çã ÐíÐà²æç}æ }æ}ææÐÝélæÎì ²ÓÀæïÜU}æéÓÀæï¯‡æç}æç‹Îí²æ‡ææ}æì J
+¥±æŒ² |æê}ææ±¨ÐÕ}æëh¢ ÚæÁ²¢ ¨éÚæ‡ææ}æçÐ ™æç{Ðy²}æì JJ8JJ
+…]Úðe W…h™wk þºtwhrn‚ y™u Ë{]ÂØðt¤wk Ë{„ú htßÞ …t{e™u,
+y„h ‚tu Œuðtu™wk Mðtr{íð …t{e™u …ý RrLÿÞtu™u ËðoÚtt þtu»tý
+fh™thtu {thtu þtuf ™tþ fhu yuðwk ftuR…ý ðM‚w y„h ËtÄ™
+{tht òuðt{tk ™Útes ytð‚wk. >>8>>
+¨¢…² ©±æ™ J
+»±}æévy±æ N¯èÜïUàæ¢ xæéÇæÜïUàæ: ÐÚ¢„Ð J
+Ý ²æïyS² §ç„ xææïç±‹Î}æévy±æ „êc‡æè¢ Ïæ|æê± ã JJ9JJ
+ËksÞ fnu Au = yt «{týu „wztfuþ-yswo™ Ó»tefuþ-¼„ðt™™u
+fne™u nu …hL‚… ! ‘‘nwk ÞwØ ™rns fYk’’ yu{ Auðx{tk „turðLŒ-
+¼„ðt™™u fne ŒR™u …Ae {ti™s ƒ™e „Þtu. >>9>>
+„}æé±æ™ N¯èÜïUàæ: Ðíã¨çóæ± |ææÚ„ J
+¨ïÝ²æïL|æ²æï}æüŠ²ï ç±¯èÎ‹„ç}æÎ¢ ±™: JJ10JJ
+nu ¼th‚ ! Ä]‚ht»xÙ ! ƒÒtu Ëu™tytu™t {æÞus yt «{týu ¾uŒ
+…t{‚t ‚u yswo™ «íÞu ©ef]»ý ¼„ðt™ nË‚t nË‚t s yu{
+fnuðt ÷tøÞt. >>10>>
+Ÿæè |æxæ±æÝé±æ™ J
+¥àææïÓ²æÝ‹±àææï™Sy±¢ Ðí¿ææ±æÎæ¢p |ææ¯¨ï J
+xæ„æ¨êÝxæ„æ¨ê¢p ÝæÝéàææï™ç‹„ Ðæç‡Ç„æ: JJ11JJ
+¼„ðt™ fnu Au = ™rn þtuf fhðt ÷tÞf™tu ‚wk y™wþtuf fhu
+Au. y™u ð¤e ƒwÂØðtŒ™e ðt‚tu ƒtu÷u Au. fu{ fu …krz‚tu-¿tt™es™tu
+{hu÷tytu™tu ‚u{s Sð‚tytu™tu …ý, yÚtðt Œun™tu fu ytí{t™tu
+…ý y™wþtuf fh‚ts ™Úte. >>11>>
+Ý y±ï±æã¢ …æ„é Ýæ¨¢ Ý y±¢ Ýï}æï …Ýæç{Ðæ: J
+Ý ™ñ± Ý |æç±c²æ}æ: ¨±ïü ±²}æ„: ÐÚ}æì JJ12JJ
+nwk fÞthuÞ ™ n‚tu yu{ ™rn, ‚wk …ý õÞthuÞ ™ n‚tu yu{ ™rn,
+‚u{s yt ƒÄt htòytu …ý ™ n‚t yu{ ™rn. yÚtto‚T nwk, ‚wk y™u
+yt Ë½¤t …ý …qðuo n‚ts. >
+ð¤e yt…ýu ƒÄtÞ nðu …Ae™t Ë{Þ{tk …ý ™rn ntuRyu
+yu{ ‚tu ™rns, yÚtto‚T ntuRþwks. >>12>>
+ÎïçãÝæïùçS}æ‹²ƒæ Îïãï ÜUæñ}ææÚ¢ ²æñ±Ý¢ …Úæ J
+„ƒæ Îïãæ‹„ÚÐíæç#{èüÚS„~æ Ý }æésç„ JJ13JJ
+yæÞtÞ - 2
+
+
+Ÿæè}æjxæ±eè„æ
+7
+Œune-Sðtí{t™u yt Œun{tks su{ fw{thtÔtMÚtt, ÞwðtðMÚtt y™u
+ð]ØtðMÚtt, y™w¢{u ƒŒ÷tÞt fhu Au, ‚us «{týu yt„¤ ƒeò-
+ƒeò Œun™e «tÂó …ý ÚttÞ Au. {txu yu{ òýe™u Äeh …wY»t ‚u{tk
+{tun ™Úte …t{‚tu. >>13>>
+}ææ~ææSÐàææüS„é ÜUæñ‹„ï² àæè„æïc‡æ¨é¶Îé:¶Îæ: J
+¥æxæ}ææÐæç²ÝæïùçÝy²æS„æ¢çS„ç„ÿæS± |ææÚ„ J14J
+nu fwL‚e…wºt-yswo™ ! þçŒtrŒf rð»tÞtu™t M…þtuo ‚tu þe‚-W»ý,
+Ëtht-™hËt ntuR™u Ëw¾-Œw:¾™u yt…™tht Au. y™u ‚uÞ yt„{™-
+„{™ Mð¼tð™t ntuðtÚte yÂMÚth ™tþðk‚ Au, {txu nu ¼th‚ !
+‚u™u ‚wk Ën™ fh. >>14>>
+²¢ çã Ý Ã²ƒ²‹y²ï„ï ÐéL¯¢ ÐéL¯¯ü|æ J
+¨}æÎé:¶¨é¶¢ {èÚ¢ ¨æïù}æë„y±æ² ÜUËÐ„ï JJ15JJ
+nu …wY»t©uc-yswo™ ! Ëw¾-Œw:¾ su™u Ë{t™ ÚtR „Þtk Au, yuðt
+su Äeh ytí{Œþeo …wY»t™u yu rð»tÞtu ÔÞÚtt-Wîu„ ™Úte …{tz‚t ‚u
+…wY»t y{]‚íð {wÂõ‚™u {txu fÕ…tÞ Au - ÞtuøÞ ÚttÞ Au. >>15>>
+Ýæ¨„æï ç±l„ï |ææ±æï Ýæ|ææ±æï ç±l„ï ¨„: J
+©|æ²æïÚçÐ ÎëCæïù‹„Sy±Ý²æïS„œ±Î<àæç|æ: JJ16JJ
+yË‚T …ŒtÚto™tu ËŒT¼tð ™Úte y™u Ë‚T-ðM‚w™tu yËŒT¼tð
+™Úte. yt Ë‚T-yË‚T yu ƒÒtu™tu …ý ¾htu Ëth-r™ýoÞ ‚tu ‚¥ðŒþeo
+{ntí{tytuyu òýu÷tu Au. >>16>>
+¥ç±Ýæçàæ „é „çmçh ²ïÝ ¨±üç}æÎ¢ „„}æì J
+ç±Ýæàæ}æÃ²²S²æS² Ý ÜUçpyÜU„éü}æãüç„ JJ17JJ
+‚u Ë‚T-ðM‚w ytí{‚¥ð ‚tu yrð™tþe Au yu{ ‚wk òý. fu su™tÚte
+yt Ë½¤wk rðï yÚtðt yt yt¾wk þheh ÔÞtó Au. y™u yu rðfthþqLÞ
+ytí{‚¥ð™tu rð™tþ fhðt ftuR …ý Ë{Úto ™Úte. >>17>>
+¥‹„±‹„ §}æï Îïãæ çÝy²S²æïQUæ: àæÚèçÚ‡æ: J
+¥çÝçàæÝæïùÐí}æï²S² „S}ææléŠ²S± |ææÚ„ JJ18JJ
+r™íÞ-r™hL‚h ËŒT¼tððt¤tu, ™tþ ™rn …t{™thtu y™u
+y«{uÞ-Ëðo «{týtuÚte …ý r™ýoÞ ™ fhe þftÞ yuðt þhehÄthe
+ytí{t™t yt ¼q‚ ¼rð»Þ{tk Út™tht Œuntu yL‚ðt¤t-™tþðL‚ Au,
+{txu nu ¼th‚ !-yswo™ ! yu ƒÄt™tu þtuf {wfe™u ‚wk ÞwØ fh. >>18>>
+² »Ý¢ ±ïçœæ ã‹„æÚ¢ ²pñÝ¢ }æ‹²„ï ã„}æì J
+©|ææñ „æñ Ý ç±…æÝè„æï Ýæ²¢ ãç‹„ Ý ã‹²„ï J19JJ
+su yt ytí{t™u ný™thtu yu{ òýu Au, ‚u{s su yu™u ƒeòÚte
+nýtÞu÷tu {t™u Au. ‚u ƒÒtu ftkR Ë{Í‚ts ™Úte. fu{ fu yt ytí{t
+ftuR™u ný‚tuÞ ™Úte, ‚u{ ƒeò ftuRÚte …tu‚u nýt‚tu …ý ™Úte. >>19>>
+Ý …æ²„ï ç}æí²„ï ±æ ÜUÎæç™ óææ²¢ |æêy±æ |æç±„æ ±æ Ý |æê²: J
+¥…æï çÝy²: àææE„æïù²¢ ÐéÚæ‡ææï Ý ã‹²„ï ã‹²}ææÝï àæÚèÚï JJ20JJ
+yt-Sðtí{t fŒe Wí…Òt Út‚tu ™Úte, ‚u{s-‚u fÞthuÞ {h‚tu
+…ý ™Úte. ‚u{ Ë]Âü-Ë{Þ{tk Wí…Òt ÚtR™u …tAtu «÷Þ Ë{Þ{tk
+™rn ntuÞ yu{ …ý ™rn. fu{ fu yt ytí{t ys, r™íÞ, ËŒtÞ
+yuf Y… y™u …wht‚™ Au. y™u ‚uÚtes ‚tu þheh nýt‚tk …ý-yu
+nýt‚tu ™Úte. >>20>>
+±ïÎæç±ÝæçàæÝ¢ çÝy²¢ ² »Ý}æ…}æÃ²²}æì J
+ÜUƒ¢ ¨ ÐéL¯: Ðæƒü Ü¢U Íææ„²ç„ ãç‹„ ÜU}æì JJ21J
+nu …tÚto ! yu ytí{t™u su …wY»t ys, yÔÞÞ, r™íÞ-rËØ y™u
+yrð™tþe òýu Au, ‚tu ‚u …wY»t ftu™u fuðe he‚u nýu Au ? yÚtðt ‚tu
+nýtðu Au ? >>21>>
+±æ¨æ¢ç¨ …è‡ææüçÝ ²ƒæ ç±ãæ² Ý±æçÝ xæëØæç„ ÝÚæïùÐÚæç‡æ J
+„ƒæ àæÚèÚæç‡æ ç±ãæ² …è‡ææü‹²‹²æçÝ ¨¢²æç„ Ý±æçÝ Îïãè JJ22JJ
+su{ {týË …tu‚u òw™tk ðMºttu™u íÞt„ fhe ŒR™u ƒeòk ™ðtk
+Äthý fhu Au, ‚us «{týu Œune-Sðtí{t Sýo ÚtÞu÷tk [t÷w þhehtu™tu
+íÞt„ fhe ƒeòk ™ðtk ™ðtk þhehtu{tk «ðuþ fhu Au. >>22>>
+ÝñÝ¢ çÀ‹Îç‹„ àæ›æç‡æ ÝñÝ¢ ãÎç„ Ðæ±ÜU: J
+Ý ™ñÝ¢ vHïÎ²‹y²æÐæï Ý àææï¯²ç„ }ææL„: JJ23JJ
+yu ytí{t™u þMºttu AuŒ‚tk ™Úte, yu ytí{t™u yÂø™ ƒt¤‚tu
+™Úte, yu™u s¤ …ý fntuðhtð‚tk ™Úte, ‚u{ ðtÞw  …ý yu™u Ëwfð‚tu
+™Úte. >>23>>
+yæÞtÞ - 2
+
+
+Ÿæè}æjxæ±eè„æ
+8
+¥ÓÀïlæïù²}æÎæsæïù²}ævHïlæïùàææïc² »± ™ J
+çÝy²: ¨±üxæ„: Sƒæ‡æéÚ™Hæïù²¢ ¨Ýæ„Ý: JJ24JJ
+yt ytí{t AuŒe þftÞ ™rn,ƒt¤e þftÞ ™rn, fntuðhtðe
+þftÞ ™rn, ‚u{ Ëwftðe þftÞ ™rn yuðtu Au. ð¤e-yu ytí{t
+r™íÞ, Ëðo þheh{tk «ðuþ fh™thtu, ÂMÚth Mð¼tð™tu, y[¤ y™u
+ËŒtÞ yufY…u hnuðtðt¤tu Au. >>24>>
+¥Ã²QUæïù²}æç™‹y²æïù²}æç±ÜUæ²æïüù²}æéÓ²„ï J
+„S}ææÎï±¢ ç±çÎy±ñÝ¢ ÝæÝéàææïç™„é}æãüç¨ JJ25JJ
+yu ytí{t RrLÿÞtuÚte ™ sýtÞ yuðtu, yL‚:fhýÚte ™
+rð[thtÞ yuðtu y™u þMºttrŒfÚte rðfth ™ …{tztÞ yuðtu fnuðtÞ
+Au, {txu yu ytí{t™u yuðtu òýe Ë{Íe™u ‚thu yu™tu y™wþtuf
+fhðtu ÞtuøÞ ™Úte. >>25>>
+¥ƒ ™ñÝ¢ çÝy²…æ„¢ çÝy²¢ ±æ }æ‹²¨ï }æë„}æì J
+„ƒæçÐ y±¢ }æãæÏææãæï Ýñ±¢ àææïç™„é}æãüç¨ JJ25JJ
+nðu yu ytí{t™u ‚wk þheh™t sL{ ËtÚtu ËŒtÞ sL{ …t{™thtu
+yuðtu {t™‚tu ntuÞ, yÚtðt ‚tu þheh™t {hý ËtÚtu ËŒtÞ {hý
+…t{™thtu yuðtu {t™‚tu ntuÞ, ‚tu …ý nu {ntƒtnw-yswo™ ! ‚thu
+yu™tu þtuf fhðtu ÞtuøÞ ™Úte. >>26>>
+…æ„S² çã {íé±æï }æëy²é{íéü±¢ …‹}æ }æë„S² ™ J
+„S}ææÎÐçÚãæ²ïüùƒïü Ý y±¢ àææïç™„é}æãüç¨ JJ27JJ
+fthý fu - sL{ …t{u÷t™wk {]íÞw r™rù‚ s Au y™u {hu÷t™tu
+sL{ …ý r™rù‚ s Au, {txu y…rhntÞo-yð~Þ ƒ™ðt™t yÚto{tk
+‚wk þtuf fhðt™u ÞtuøÞ ™Úte. >>27>>
+¥Ã²QUæÎèçÝ |æê„æçÝ Ã²QU}æŠ²æçÝ |ææÚ„ J
+¥Ã²QUçÝ{Ýæ‹²ï± „~æ ÜUæ ÐçÚÎï±Ýæ JJ28JJ
+nu ¼th‚ ! yswo™ ! Ëðo¼q‚-«týe{tºt ytrŒ¼t„{tk
+yÔÞõ‚Y…us ntuÞ Au, Võ‚ ð[÷e yðMÚtt{tk ÔÞõ‚ ÚtR™u
+yt¾hu …tAtk yÔÞf‚{tks ÷Þ …t{™thtk Au, ‚tu …Ae ‚u{tk þtu
+þtuf fhðtu ? >>28>>
+¥æp²ü±yÐà²ç„ ÜUçpÎïÝ}ææp²ü±mÎç„ „ƒñ± ™æ‹²: J
+¥æp²ü±Ó™ñÝ}æ‹²: Ÿæë‡ææïç„Ÿæéy±æŒ²ïÝ¢ ±ïÎ Ý ™ñ± ÜUçp„ì JJ29JJ
+yu ytí{t™u ftuRf ytùÞo suðtus swyu Au, ‚u{s ð¤e ƒeòu
+ftuRf ‚tu yu™u ytùÞo suðtus fne ƒ‚tðu Au. ð¤e ƒeòu Ëtk¼¤™thtu
+…ý yu™u ytùÞo™e …uXus ©ðý fhu Au. yt «{týu ©ðýtrŒf fhe™u
+…ý yu™u ¾he he‚u ‚tu ftuRs òý‚tu ™Úte. >>29>>
+Îïãè çÝy²}æ±Š²æïù²¢ Îïãï ¨±üS² |ææÚ„ J
+„S}ææy¨±æüç‡æ |æê„æçÝ Ý y±¢ àææïç™„é}æãüç¨ JJ30JJ
+ð¤e nu ¼th‚ ! yswo™ ! Ëðo™t Œun{tk …nu÷tu yt Œune-
+Sðtí{t ËŒtÞ yðæÞs Au, {txu Ëðo ¼q‚-«týe{tºt ‚thu þtuf
+fhðt ÞtuøÞ ™Úte. >>30>>
+S±{}æü}æçÐ ™æ±ïÿ² Ý ç±ÜUæç}Ð„é}æãüç¨ J
+{}²æüçh ²éhÓÀîï²æïù‹²yÿæç~æ²S² Ý ç±l„ï JJ31JJ
+ð¤e- ‚thu MðÄ{o™tu …ý rð[th fhe™u yt ÞwØ{tkÚte
+[÷tÞ{t™ Útðwk ÞtuøÞ ™Úte, fthý fu Ä{o«tó
+ûtrºtÞÄ{to™wY… ÞwØfh‚tk ƒeòwk ftuR …ý ©uÞ-©uc f{o ûtrºtÞtu™u
+{txu Aus ™rn. >>31>>
+²ÎëÓÀ²æ ™æïÐÐóæ¢ S±xæümæÚÐæ±ë„}æì J
+¨éç¶Ý: ÿæç~æ²æ: Ðæƒü H|æ‹„ï ²éh}æèÎëàæ}æì JJ32J
+Œið RåAtÚte y™tÞtËus «tó ÚtÞu÷wk, ¾wÕ÷t ƒthýt™t
+Mð„oîth suðwk, ytðwk Ä{oÞwØ ‚tu nu …]Útt™t …wºt yswo™ ! ‚tht suðt
+Ëw¾e-¼tøÞþt¤e ûtrºtÞtus …t{u Au. >>32>>
+¥ƒ ™ïœ±ç}æ}æ¢ {}²Z ¨¢xæíæ}æ¢ Ý ÜUçÚc²ç¨ J
+„„: S±{}æZ ÜUè=„ ™ çãy±æ ÐæÐ}æ±æŒS²ç¨ JJ33J
+{txu nðu òu ‚wk yt Ä{oÞwØ ™rn fhu ‚tu ‚uÚte MðÄ{o™tu y™u
+feŠ‚™tu ™tþ fhe™u fuð¤ …t…™us …t{eþ. >>33>>
+¥ÜUè=„ ™æçÐ |æê„æçÝ ÜUƒÄc²ç‹„ „ïùÃ²²æ}æì J
+¨}|ææç±„S² ™æÜUè<„}æü‡ææÎç„Ó²„ï JJ34JJ
+ð¤e {™w»Þtu ‚the ½ýt ÷tkƒt ft¤ ËwÄe y…feŠ‚ „tÞt fhþu.
+yæÞtÞ - 2
+
+
+Ÿæè}æjxæ±eè„æ
+9
+y™u Ëðo ËL{t™™eÞ «r‚Âc‚ …wY»t™u y…feŠ‚ yu ‚tu {hý
+fh‚tk …ý yrÄf Œw:¾ŒtÞe Au. >>34>>
+|æ²æÎí‡ææÎéÐÚ„¢ }æ¢S²‹„ï y±æ¢ }æãæÚƒæ: J
+²ï¯æ¢ ™ y±¢ Ïæãé}æ„æï |æêy±æ ²æS²ç¨ HæÍæ±}æì J35J
+y™u yt ƒÄt {nthÚteytu ‚™u ¼ÞÚtes ÞwØ{tkÚte …tAtu nXe
+„Þtu yu{ {t™þu. y™u yu{ ÚtðtÚte su{™e yt„¤ ‚tYk ƒnw {t™
+Au ‚u{™e yt„¤ ‚the ƒnws n÷ftR ÚtR sþu. >>35>>
+¥æ±æÓ²±æÎæ¢p Ïæãé‹±çÎc²ç‹„ „±æçã„æ: J
+çÝ‹Î‹„S„± ¨æ}æ‰²Z „„æï Îé:¶„Ú¢ Ýé çÜU}æì JJ36J
+‚u{s-‚tht þºtwytu ‚tht Ët{ÚÞo™u r™LŒ‚tk ‚thu {txu ™
+ƒtu÷tÞ ‚uðt ƒnws ¾htƒ þçŒtu ƒtu÷þu, ‚tu ‚uÚte ƒeswk fÞwk {tuxwk
+Œw:¾ Au ? >>36>>
+ã„æï ±æ ÐíæŒS²ç¨ S±xæZ ç…y±æ ±æ |ææïÿ²¨ï }æãè}æìJ
+„S}ææÎéçœæD ÜUæñ‹„ï² ²éhæ² ÜëU„çÝp²: JJ37JJ
+‚u{ A‚tk yt ÞwØ{tk òu ‚wk nýtÞtu ‚tu Mð„o-Ëw¾ …t{eþ y™u
+S‚e™u ‚tu …]Úðe™wk Ët{útßÞ ¼tu„ððt™wk Aus. {txu nu fwL‚e…wºt-
+yswo™ ! ‚wk ÞwØ {txu f]‚r™ùÞ ÚtR WX ! ËtðÄt™ ÚtR ò. >>37>>
+¨é¶Îé:¶ï ¨}æï ÜëUy±æ Hæ|ææHæ|ææñ …²æ…²æñ J
+„„æï ²éhæ² ²éÁ²S± Ýñ±¢ ÐæÐ}æ±æŒS²ç¨ JJ38JJ
+y™u Ëw¾-Œw:¾ Ë{t™ fhe™u-{t™e™u, ‚u{s ÷t¼-y÷t¼,
+sÞ-…htsÞ, yu ƒÄt{tk Ë{‚t ht¾e™u ‚u …Aes ÞwØ {txu òuztR
+ò ! yu{ fhðtÚte ‚™u …t… ™rn ÷t„u. >>38>>
+»¯æ „ïùç|æçã„æ ¨æ¢w²ï Ïæéçh²æïüxæï çy±}ææ¢ Ÿæë‡æé J
+Ïæéh²æ ²éQUæï ²²æ Ðæƒü ÜU}æüÏæ‹{¢ ÐíãæS²ç¨ JJ39JJ
+nu …tÚto ! yt ‚™u ËtkÏÞ-Þtu„{tk ð‚oðt™e ƒwÂØ fne, nðu
+Þtu„{tk f{o-Þtu„{tk ‚tu yt fnwk Awk ‚u ƒwÂØ Ëtk¼¤ ? su ƒwÂØyu
+Þwõ‚ ð‚oðtÚte f{oÚte Út‚t ƒLÄ™u ‚wk Ëðo «fthÚte xt¤e þfeþ.
+>>39>>
+Ýïãæç|æRU}æÝæàææïùçS„ Ðíy²±æ²æï Ý ç±l„ï J
+S±ËÐ}æŒ²S² {}æüS² ~ææ²„ï }æã„æï |æ²æ„ì JJ40JJ
+yt ƒwÂØÞwõ‚ f{oÞtu„{tk ythk¼u÷t™tu ™tþ ™Úte Út‚tu, ‚u{
+y…qýo hnuðt{tk «íÞðtÞ …ý ™Úte ÷t„‚tu. yt Ä{o™wk MðÕ…
+yt[hý …ý {tuxt ¼ÞÚte hûtt fhu Au. >>40>>
+Ã²±¨æ²æçy}æÜUæ ÏæéçhÚïÜïUã ÜéULÝ‹ÎÝ J
+Ïæãéàææ¶æ sÝ‹„æp Ïæéh²æïùÃ²±¨æç²Ýæ}æì JJ41JJ
+nu fwY™LŒ™ ! f{oÞtu„Y… ©uÞtu{t„o{tk r™ùÞtí{f yufs-
+yuf «fth™es ƒwÂØ Au. y™u rðrðÄ f{o™t V¤¼uŒ™u ÷eÄu y™L‚
+«fthu ðnU[tÞu÷e ƒnw þt¾tðt¤e ƒwÂØytu ‚tu yr™Âù‚
+©uÞtu{t„oðt¤tytu™es Au. >>41>>
+²æç}æ}ææ¢ ÐéçcÐ„æ¢ ±æ™¢ Ðí±Î‹y²ç±Ðçp„: J
+±ïÎ±æÎÚ„æ: Ðæƒü Ýæ‹²ÎS„èç„ ±æçÎÝ: JJ42JJ
+ÜUæ}ææy}ææÝ: S±xæüÐÚæ …‹}æÜU}æüÈUHÐíÎæ}æì J
+çRU²æç±àæï¯ÏæãéHæ¢ |ææïxæñE²üxæô„ Ðíç„ JJ43JJ
+|ææïxæñE²üÐí¨QUæÝæ¢ „²æÐN„™ï„¨æ}æì J
+Ã²±¨æ²æçy}æÜUæ Ïæéçh: ¨}ææ{æñ Ý ç±{è²„ï JJ44JJ
+ðuŒ{tk fnu÷t V¤ðtŒ{tks ËðoMð {t™™tht y™u ‚u rËðtÞ™wk
+ƒeòwk ftuR yrÄf Ëw¾ Aus ™rn yu{ ƒtu÷™tht, rð»tÞtu{tks
+ytËõ‚ r[¥tðt¤t y™u ‚uÚtes Mð„o™us …h{ ËtæÞ {t™™tht,
+yuðt yrðît™T-{q¾os™tu sL{-f{o™e …hB…ht Y… V¤™us
+yt…™the y™u ¼tu„-yiïÞo™u Wvuþe™u «ð‚uo÷e yuðe f{of÷t…™t
+ƒntu¤t rðM‚thðt¤e su yt …wÂ»…‚t- V¤ rð™t™tk fuð¤
+…w»…{tºt™es þtu¼t™e {tVf yt…t‚hBÞ sýt‚e {tunf ðtýe
+ƒtu÷u Au. yuðt ¼tu„ yiïÞo{tk yíÞL‚ ytËõ‚ ÚtÞu÷t y™u ‚u
+rð»tÞtËÂõ‚™u ÷eÄus su{™e ƒwÂØ rð»tÞtu ‚hV nhtR ¾U[tR
+„R Au. ‚u …wY»ttu™e ƒwÂØ Ë{trÄ{tk yuf r™ùÞðt¤e ÚtR™u
+ÂMÚth‚t …t{‚e ™Úte. >>42-44>>
+yæÞtÞ - 2
+
+
+Ÿæè}æjxæ±eè„æ
+10
+~æñxæé‡²ç±¯²æ ±ïÎæ çÝ›ñxæé‡²æï |æ±æ…éüÝ J
+çÝmü‹mæï çÝy²¨œ±Sƒæï çÝ²æïüxæÿæï}æ ¥æy}æ±æÝìJ45J
+nu yswo™ ! ðuŒtu Ë½¤t rºt„wý{Þ ËkËth™u WŒuþe™u «ð‚uo÷t
+Au, {txu ‚wk ‚tu rºt„wý r{r©‚ ¼tðÚte hrn‚ ÚtR ò ! y™u
+y¾kz…ýu ËŒtÞ Ë¥ð-„wý{tk hnu™thtu ¿tt™e ÚtR™u Ëw¾-Œw:¾,
+þtuf-{tun, rð„uhu htsË-‚t{Ë ¼tðtuÚte hrn‚ Útt ! y™u Þtu„-
+ûtu{™e …ý r[L‚tÚte hrn‚ ÚtR ò ! >>45>>
+²æ±æÝƒü ©ÎÐæÝï ¨±ü„: ¨}ŒHé„æïÎÜïU J
+„æ±æ‹¨±ïü¯é ±ïÎï¯é Ïæíæræ‡æS² ç±…æÝ„: JJ46JJ
+[tu‚hV WA¤‚t ¾qƒ s¤Úte A÷tu-A÷ ¼hu÷t {tuxt
+s¤tþÞ{tk …ý M™t™-…t™trŒf fhðt{tk sux÷wk «Þtus™ {™tÞ
+Au, ‚ux÷wks «Þtus™ fu V¤ ƒúñ òý™th rð¿tt™ËB…Òt {™w»Þ™u
+Ëðo ðuŒtu{tk hnu÷wk Au. >>46>>
+ÜU}æü‡²ï±æç{ÜUæÚS„ï }ææ ÈUHï¯é ÜUÎæ™Ý J
+}ææ ÜU}æüÈUHãï„é|æêü}ææü „ï ¨XæïùSy±ÜU}æüç‡æ JJ47JJ
+‚thu f{o{tks-f{o fhðt{tks yrÄfth Au, …hL‚w-V¤tu{tk
+fÞthuÞ …ý yrÄfth ™Úte. {txu yr¼{t™™u ÷eÄu f{o™t V¤{tk
+‚wk fthý¼q‚ ™ Útt ! ‚u{ f{o ™ fhðt{tk Atuze Œuðt{tk …ý ‚™u
+RåAt y„h ytËÂõ‚ ™ Úttytu ! >>47>>
+²æïxæSƒ: ÜéUL ÜU}ææüç‡æ ¨X¢ y²vy±æ {Ý¢…² J
+ç¨h²ç¨h²æï: ¨}ææï |æêy±æ ¨}æy±¢ ²æïxæ ©Ó²„ï J48J
+nu Ä™ksÞ ! rËÂØ-yrËÂØ Y… ÷t¼-y÷t¼{tk Ë{t™ ¼tð
+ht¾e™u, Ëk„ RåAt fu ytËÂõ‚ Atuze ŒR™u Þtu„{tk ð‚oðt…qðof
+Œhuf f{o fhtu ! ynªytk rËÂØ-yrËÂØ{tk Ë{‚t ht¾ðe-{t™ðe
+yus Þtu„ fnu÷tu Au. >>48>>
+ÎêÚï‡æ s±Ú¢ ÜU}æü Ïæéçh²æïxææhÝ¢…² J
+Ïæéhæñ àæÚ‡æ}æç‹±ÓÀ ÜëUÐ‡ææ: ÈUHãï„±: JJ49JJ
+nu Ä™ksÞ ! ƒwÂØÞtu„ fh‚tk fuð¤ f{o ½ýwks n÷fwk-r‚åA
+Au. {txu ‚wk ƒwÂØ{tk Ë{‚tY… ƒwÂØÞtu„{tk ÂMÚth‚t …t{ðt™e
+RåAt ht¾ ! fu{ fu V¤{tk nu‚w¼q‚ ÚtR™u f{o fh™tht {™w»Þtu ‚tu
+f]…ý-fk„t÷ suðts Au. >>49>>
+Ïæéçh²éQUæï …ãæ„èã ©|æï ¨éÜëU„ÎécÜëU„ì J
+„S}æælæïxææ² ²éÁ²S± ²æïxæ: ÜU}æü¨é ÜUæñàæH}æì J50J
+ƒwÂØÞtu„{tk ÂMÚth‚t …t{u÷tu …wY»t yt ÷tuf{tks Ëwf]‚ y™u
+Œw»f]‚ yu ƒÒtu™tu íÞt„ fhe Œu Au, {txu ‚wk …ý Þtu„™u {txu
+ƒwÂØÞtu„{tk ÂMÚth‚t …t{ðt™u {txu «Þí™ fh ! fthý fu ƒwÂØÞtu„
+yus f{o fhðt{tk [‚whtR-znt…ý Au. >>50>>
+ÜU}æü…¢ Ïæéçh²éQUæ çã ÈUH¢ y²vy±æ }æÝèç¯‡æ:J
+…‹}æÏæ‹{ç±çÝ}æéüQUæ: ÐÎ¢ xæÓÀ‹y²Ýæ}æ²}æì JJ51JJ
+Ë{íðY… ƒwÂØÞtu„ …t{u÷t {nt¿tt™e …wY»ttu f{oÚte Út‚t
+V¤™tu íÞt„ fhe™u íÞt„ fhðtÚte sL{ rð„uhu rðfthtuÚte
+rðr™{woõ‚ ÚtR™u Ëðo W…ÿðÚte hrn‚ …h{ …Œ™u-¼„ðØt{™u
+…t{u Au. >>51>>
+²Îæ „ï }ææïãÜUçHH¢ ÏæéçhÃ²üç„„çÚc²ç„ J
+„Îæ xæ‹„æç¨ çÝ±ïüÎ¢ Ÿææï„Ã²S² Ÿæé„S² ™ JJ52JJ
+ßÞthu ‚the ƒwÂØ ytí{t-y™tí{t™t yrððufY… {tunÚte
+y¿tt™Úte Út‚e f÷w»t‚t™u ËðoÚtt ‚he sþu íÞthus Ëtk¼¤ðt ÷tÞf
+y™u Ëtk¼¤u÷tk yu Ëðo™tu ‚™u ðihtøÞ WŒtËe™‚t ytðþu. >>52>>
+Ÿæéç„ç±Ðíç„Ðóææ „ï ²Îæ SƒæS²ç„ çÝpHæ J
+¨}ææ{æ±™Hæ ÏæéçhS„Îæ ²æïxæ}æ±æŒS²ç¨ JJ53JJ
+rðrðÄ yr¼«tÞ™tk þt†ðtfÞtu™t ©ðýÚte rðrðÄ «fthu
+¼uŒtR „Þu÷e ‚the yÂMÚth ƒwÂØ ßÞthu r™ù¤ ÚtR™u Ë{trÄ{tk
+ÂMÚth‚t …t{þu íÞthus ‚wk Ë{íðY… ƒwÂØÞtu„™u …t{eþ. >>53>>
+¥…éüÝ ©±æ™ J
+çSƒ„Ðí¿æS² ÜUæ |ææ¯æ ¨}ææç{SƒS² ÜïUàæ± J
+çSƒ„{è: ôÜU Ðí|ææ¯ï„ çÜU}ææ¨è„ ±í…ï„ çÜU}æìJ54J
+yswo™ …qAu Au = nu fuþð ! Ë{trÄr™c ÂMÚt‚«¿t …wY»t™e
+¼t»tt- ƒtu÷e fuðe ntuÞ Au ? yÚtðt yu™u fuðt þçŒtuÚte fnuðt{tk
+yæÞtÞ - 2
+
+
+Ÿæè}æjxæ±eè„æ
+11
+ƒtu÷tððt{tk ytðu Au ? ÂMÚt‚«¿t …wY»t þwk ƒtu÷u Au ? yu fu{ ƒuËu
+Au ? y™u fu{ nhu-Vhu Au ? yu {™u fntu ! >>54>>
+Ÿæè|æxæ±æÝé±æ™ J
+Ðí…ãæç„ ²Îæ ÜUæ}ææ‹¨±æü‹Ðæƒü }æÝæïxæ„æÝì J
+¥æy}æ‹²ï±æy}æÝæ „éC: çSƒ„Ðí¿æS„ÎæïÓ²„ï JJ55JJ
+©e ¼„ðt™ fnu Au = nu …tÚto ! ËtÄf ßÞthu {™{tk hnu÷t
+Ëðo ft{ rð»tÞuåAtytu™tu íÞt„ fhu Au y™u …h{uïh{tks yÚtðt
+ytí{MðY…{tks þwØ ¼tðÚte òuzu÷t {™Úte ËL‚wü hnu Au, íÞthu
+‚u ÂMÚt‚«¿t fnuðtÞ Au. >>55>>
+Îé:¶ïc±ÝéçmxÝ}æÝæ: ¨é¶ï¯é ç±xæ„SÐëã: J
+±è„Úæxæ|æ²RUæï{: çSƒ„{è}æéüçÝLÓ²„ï JJ56JJ
+Œw:¾tu™t «Ëk„tu{tk su™wk r[¥t Wîu„ ™Úte …t{‚wk y™u Ëw¾tu{tk
+…ý su™u M…]nt x¤e „R Au. y™u ‚uÚtes ht„, ¼Þ y™u ¢tuÄ
+rð„uhu {t™rËf rðfthtuÚte su hrn‚ ÚtÞtu÷tu Au. yuðtu {™™þe÷
+…wY»t ÂMÚt‚«¿t fnuðtÞ Au. >>56>>
+²: ¨±ü~ææÝç|æFïãS„œæyÐíæŒ² àæé|ææàæé|æ}æì J
+Ýæç|æÝ‹Îç„ Ý mïçC „S² Ðí¿ææ Ðíç„çD„æ JJ57JJ
+su Ëðoºt ËðoÚtt r™:M™un ÚtÞu÷tu Au. y™u ‚u ‚u þw¼-yþw¼
+ðM‚w «tó Út‚tk ™Úte yr¼™kŒ™ fh‚tu, fu ™Úte îu»t fh‚tu, ‚u
+…wY»t™e …ý «¿tt «r‚Âc‚ ÂMÚth ÚtR yu{ òýðwk. >>57>>
+²Îæ ¨¢ãÚ„ï ™æ²¢ ÜêU}ææïüùXæÝè± ¨±üàæ: J
+§ç‹Îí²æ‡æèç‹Îí²æƒïü|²S„S² Ðí¿ææ Ðíç„çD„æ JJ58JJ
+yt ËtÄf Þtu„e ßÞthu …tu‚t™tk RrLÿÞtu™u fq{o-ft[ƒtu su{
+…tu‚t™t yðÞðtu™u ËðoÚtt Ëkfu÷e ÷u Au, yus «{týu ‚u ‚u RrLÿÞtu™t
+rð»tÞtuÚte …tAtk ¾U[e™u Mððþ{tk ht¾u Au, íÞthu ‚u™e «¿tt
+«r‚Âc‚-ÂMÚth òýðe. >>58>>
+ç±¯²æ ç±çÝ±„ü‹„ï çÝÚæãæÚS² ÎïçãÝ: J
+Ú¨±…Z Ú¨æïùŒ²S² ÐÚ¢ Îëcmæ çÝ±„ü„ï JJ59JJ
+òu fu r™htnth {™w»Þ™t rð»tÞtu ½ýwk fhe™u r™ð]¥t ÚttÞ Au,
+…ý ‚u{tk hË-ytËÂõ‚ ‚tu hnu Aus. y™u ‚u ytËÂõ‚-ðtË™t ‚tu
+…hk-…h{tí{MðY…™tu yÚtðt ytí{MðY…™tu Ëtûttífth ÚtÞus
+r™ð]Â¥t …t{u Au. >>59>>
+²„„æï sçÐ ÜUæñ‹„ï² ÐéL¯S² ç±Ðçp„: J
+§ç‹Îí²æç‡æ Ðí}ææƒèçÝ ãÚç‹„ Ðí¨|æ¢ }æÝ: JJ60JJ
+nu ftiL‚uÞ ! ðthkðth «Þí™ fh‚t yuðtÞ …ý rðît™T-
+rððufþe÷ …wY»t™t {™™u yr‚ ƒ¤ðt™ RrLÿÞtu rð»tÞtu ‚hV
+ƒ¤tífthu ¾U[e òÞAu. >>60>>
+„æçÝ ¨±æüç‡æ ¨¢²}² ²éQU ¥æ¨è„ }æyÐÚ: J
+±àæï çã ²S²ïç‹Îí²æç‡æ „S² Ðí¿ææ Ðíç„çD„æ JJ61J
+{txu ‚u Ëðo RrLÿÞtu™u ËBÞfT «fthu r™Þ{{tk ht¾e™u
+ƒwÂØÞtu„Þwõ‚ ÚtR™u {Œuf…h ð‚uo Au y™u ‚u{ ÚtðtÚte su™tk RrLÿÞtu
+Mððþ{tk hnu Au, ‚u …wY»t™e «¿tt {tht MðY…{tk ÂMÚth‚t …t{u÷e
+òýðe. >>61>>
+Š²æ²„æï ç±¯²æ‹Ðé¢¨: ¨XS„ï¯êÐ…æ²„ï J
+¨Xæy¨¢…æ²„ï ÜUæ}æ: ÜUæ}ææyRUæï{æïùç|æ…æ²„ï J62J
+RUæï{æj±ç„ ¨}}ææïã: ¨}}ææïãæyS}æëç„ç±|æí}æ: J
+S}æëç„|æí¢àææÎì ÏæéçhÝæàææï ÏæéçhÝæàææyÐí‡æà²ç„ J63J
+(nðu- ‚u{ ™rn fh™th™u y™Útto…Â¥t sýtðu Au)
+…wY»t™u rð»tÞtu™wk r[L‚ð™-M{hý fh‚tk ‚u{tk Ëk„-ytËÂõ‚
+ÚtR ytðuAu, ytËÂõ‚{tkÚte ft{-yt‚wh‚t ÚttÞAu y™u ‚u{tkÚte ‚u
+rð»tÞ{tk ytzu ytð™th W…h ¢tuÄ ÚttÞAu. ¢tuÄ{tkÚte Ëk{tun-
+ftÞtoftÞo™t yrððufY… „tZ y¿tt™ «ËhuAu. y™u Ëk{tunÚte …Ae
+M{]r‚rð¼ú{, M{]r‚¼úkþÚte …Ae ƒwÂØ™tþ y™u ƒwÂØ™tu ™tþ ÚtðtÚte
+…wY»ttÚtoÚte ¼úü ÚtR™u yt¾hu {tuût{t„oÚte …ý ¼úü ÚtR òÞAu.
+>>62-63>>
+Úæxæmï¯ç±²éQñUS„é ç±¯²æçÝç‹Îí²ñpÚÝì J
+¥æy}æ±à²ñ<±{ï²æy}ææ Ðí¨æÎ}æç{xæÓÀç„ JJ64JJ
+yæÞtÞ - 2
+
+
+Ÿæè}æjxæ±eè„æ
+12
+Ðí¨æÎï ¨±üÎé:¶æÝæ¢ ãæçÝÚS²æïÐ…æ²„ï J
+Ðí¨óæ™ï„¨æï sæàæé Ïæéçh: Ð²ü±ç„D„ï JJ65JJ
+(nðu-ƒwÂØ ÂMÚth fhðt™tu W…tÞ fnuAu)
+ðþ ð‚uoAu {™ su™wk yuðtu ËtÄf …wY»t r«Þ-yr«Þ ðM‚w{tk
+ht„-îu»tÚte hrn‚ {txus Mððþ{tk ð‚o™thtk yuðtk RrLÿÞtuÚte
+rð»tÞtu™wk Ëuð™ fh‚tk {™™e «ËÒt‚t-r™{o¤‚t …t{uAu. y™u {™™e
+«ËÒt‚t-r™{o¤‚t «tó Út‚tk Ëðo Œw:¾™e ntr™ yu™u yt…tu-yt…
+ÚtR òÞAu y™u «ËÒt r[¥tðt¤t™e ƒwÂØ ‚wh‚s
+…h{tí{MðY…{tk ËðoÚtt ÂMÚth‚t …t{u Au. >>64-65>>
+ÝæçS„ ÏæéçhÚ²éQUS² Ý ™æ²éQUS² |ææ±Ýæ J
+Ý ™æ|ææ±²„: àææç‹„Úàææ‹„S² ÜéU„: ¨é¶}æì J66J
+§ç‹Îí²æ‡ææ¢ çã ™Ú„æ¢ ²‹}æÝæïùÝé ç±{è²„ï J
+„ÎS² ãÚç„ Ðí¿ææ¢ ±æ²éÝæü±ç}æ±æ}|æç¨ JJ67JJ
+yus ðt‚ ÔÞr‚huf-¼tðÚte fne ƒ‚tðu Au-
+yÞwõ‚™u-yL‚:fhý ðþ ™rn fh™th™u, ƒwÂØ-ÂMÚth ƒwÂØ
+Út‚e ™Úte, ‚u{ yÞwõ‚ …wY»t™u …h{tí{MðY…{tk ¼tð™t-
+M™un…qðof {™™e ÂMÚth‚t …ý Út‚e ™Úte. {txu ¼tð™tþqLÞ …wY»t™u
+þtÂL‚ …ý {¤‚e ™Úte y™u yuðt yþtL‚™u Ëw¾ ‚tu {¤us fÞtkÚte
+? fu{fu-rð»tÞtu{tk MðALŒÚte Vh™thtk RrLÿÞtu™e …tA¤ su …tu‚t™t
+{™™u sðt Œu Au, ‚tu ‚u {™ yu …wY»t™e ƒwÂØ™u rð…he‚ ðtÞw s¤{tk
+Vh‚t ðntý™us su{, yu{ yð¤u {t„uo ¾U[e òÞ Au. >>66-67>>
+„S}æælS² }æãæÏææãæï çÝxæëãè„æçÝ ¨±üàæ: J
+§ç‹Îí²æ‡æèç‹Îí²æƒïü|²S„S² Ðí¿ææ Ðíç„çD„æ JJ68JJ
+{txu nu {ntƒtntu ! su™tk RrLÿÞtu RrLÿÞtu™t yÚtoY… rð»tÞtu
+Útfe Ëðo «fthu r™„ún fhe™u Mððþ{tk ht¾u÷tk ntuÞAu, ‚u …wY»t™es
+«¿tt …h{tí{MðY…{tk ÂMÚth‚t …t{u÷e òýðe. >>68>>
+²æ çÝàææ ¨±ü|æê„æÝæ¢ „S²æ¢ …æxæ<„ ¨¢²}æè J
+²S²æ¢ …æxæíç„ |æê„æçÝ ¨æ çÝàææ Ðà²„æï }æéÝï:J69J
+nðu- ¿tt™e-y¿tt™e™tu ÂMÚtr‚¼uŒ fne ƒ‚tðu Au.
+Ëðo ¼q‚-«týe{tºt™e su htrºt y¿tt™Y… yLÄfth{Þ Au,
+‚u{tk ËkÞ{e-¿tt™e …wY»t ò„uAu-òý…ýu Þwõ‚ ð‚uo Au. y™u su{tk
+¼q‚-«ýe{tºt ò„uAu-ËtðÄt™ ð‚uo Au, ‚u ytí{Œþeo {™™þe÷
+ËkÞ{e …wY»t™e htrºt Au. >>69>>
+¥æÐê²ü}ææ‡æ}æ™HÐíç„D¢
+¨}æéÎí}ææÐ: Ðíç±àææç‹„ ²m„ì J
+„myÜUæ}ææ ²¢ Ðíç±àææç‹„ ¨±ïü ¨ àææç‹„}ææŒÝæïç„ Ý ÜUæ}ææÜUæ}æè J70JJ
+[tu‚hVÚte ½ýwk …týe ¼htðt A‚tk …ý y‚qx {ÞtoŒtðt¤t
+Ë{wÿ{tk y™uf ™Œe-™t¤tk™wk s¤ su{ yt…tu-yt… ¼htÞAu, ‚us
+«{týu Ëðo ft{™tytu-rð»tÞtu yt…tu-yt… su{tk «ðuþ fhuAu, ‚u
+…wY»ts þtÂL‚ …t{uAu, …ý rð»tÞtu™u su …tu‚u RåAu Au ‚u™u ‚tu þtÂL‚
+{¤‚es ™Úte. >>70>>
+ç±ãæ² ÜUæ}ææ‹²: ¨±æü‹Ðé}ææ¢pÚç„ çÝ:SÐëã: J
+çÝ}æü}ææï çÝÚãVæÚ: ¨ àææç‹„}æç{xæÓÀç„ JJ71JJ
+{txu su …wY»t Ëðo rð»tÞtu™u ŒqhÚtes íÞt„ fhe™u r™:M…]n Útftu
+rð[huAu y™u r™{íð ÚtR™u Œun{tkÚte …ý su™u ynk¼tð x¤e
+òÞAu, ‚us …wY»t ¾he þtÂL‚™u y™w¼ðuAu. >>71>>
+»¯æ Ïæíæræè çSƒç„: Ðæƒü ÝñÝæ¢ ÐíæŒ² ç±}æésç„J
+çSƒy±æS²æ}æ‹„ÜUæHïùçÐ ÏæíræçÝ±æü‡æ}æëÓÀç„ J72J
+nu …tÚto ! yt {U fne yu ƒútñe ÂMÚtr‚ òý ! yt ÂMÚtr‚ …t{e™u-
+…tBÞt …Ae ftuR {tun{tk VËt‚tu ™Úte. ð¤e yt ÂMÚtr‚{tk yL‚ft¤u
+…ý hnuðtÞ ‚tuÞ ƒúñr™ðtoý-sL{{]íÞwÚte hrn‚ ÂMÚtr‚Y… fiðÕÞ
+{wÂõ‚ {¤u Au. (yuðtu yt ƒútñe ÂMÚtr‚™tu {rn{t Au.) >>72>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢ ²æïxæàææ›ï
+ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï ¨æ¢w²²æïxææï Ýæ}æ çm„è²æïùŠ²æ²: JJ2JJ
+Rr‚ ©e{ŒT¼„ðŒT„e‚tËq…r™»tíËw ƒúñrðãtÞtk Þtu„þtMºtu
+©ef]»ýtòow™ËkðtŒu ËtkÏÞÞtu„tu ™t{ Âî‚eÞtuyæÞtÞ: >>2>>
+yæÞtÞ - 2
+
+
+Ÿæè}æjxæ±eè„æ
+13
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒ „ë„è²æïùŠ²æ²:
+
+¥…éüÝ ©±æ™
+Á²æ²¨è ™ïyÜU}æü‡æS„ï }æ„æ Ïæéçh…üÝæÎüÝ J
+„ôyÜU ÜU}æüç‡æ ÍææïÚï }ææ¢ çÝ²æï…²ç¨ ÜïUàæ± JJ1JJ
+yswo™ …qAu Au = nu s™tŒo™-«¼w ! òu ‚{tuyu f{o fh‚tk ƒwÂØ
+yus ©uc {t™e ntuÞ, ‚tu nu fuþð ! ytðt ½tuh ÞwØY… f{o™u rð»tu
+{™u þt {txu «uhtu Atu ? >>1>>
+Ã²æç}æŸæï‡æï± ±æv²ïÝ Ïæéôh }ææïã²¨è± }æï J
+„ÎïÜ¢U ±Î çÝçpy² ²ïÝ Ÿæï²æïùã}ææŒÝé²æ}æì JJ2JJ
+ytðt ÔÞtr{©-…hM…h rðYØ yÚtoðt¤t ðtõÞÚte yt… {the
+ƒwÂØ™u {turn‚ fh‚t ntu ™u þwk ? yu{ {™u ÷t„u Au, {txu yt…
+r™ùÞ fhe™u {™u yufs ðt‚ fntu ! fu suÚte nwk {tYk ©uÞ ËtÄe
+þfwk. >>2>>
+Ÿæè|æxæ±æÝé±æ™ J
+HæïÜïUùçS}æç‹mç±{æ çÝDæ ÐéÚæ ÐíæïQUæ }æ²æÝÍæ J
+¿ææÝ²æïxæïÝ ¨æ¢w²æÝæ¢ ÜU}æü²æïxæïÝ ²æïçxæÝæ}æì JJ3JJ
+©e ¼„ðt™ fnu Au = nu r™»…t…- yswo™ ! yt ÷tuf{tk ƒu
+«fth™es r™ctytu-¿tt™Þtu„Úte ËtkÏÞtu™e-¿tt™eytu™e y™u f{oÞtu„Úte
+Þtu„eytu™e-f{oÞtu„eytu™e. yu{ {U «Út{Útes fne Au. >>3>>
+Ý ÜU}æü‡ææ}æÝæÚ}|ææóæñcÜU}²Z ÐéL¯æïùàÝé„ï J
+Ý ™ ¨¢‹²¨ÝæÎï± ç¨h¢ ¨}ææç{xæÓÀç„ JJ4JJ
+ð¤e f{o™tu ytŒhs ™ fhu ‚uÚte ftkR …wY»t ™i»fBÞo™u-
+¿tt™Þtu„™e rËÂØ™u …t{‚tu ™Úte, ‚u{ f{o Ë{q¤„tk Atuze ŒuðtÚte
+…ý rËÂØ™u-{tuût{t„o™e rËÂØ™u ™Útes …t{‚tu. >>4>>
+Ý çã ÜUçpyÿæ‡æ}æçÐ …æ„é ç„Dy²ÜU}æüÜëU„ì J
+ÜUæ²ü„ï s±àæ: ÜU}æü ¨±ü: ÐíÜëUç„…ñxæéü‡æñ: JJ5JJ
+fthý fu ftuR …ý {™w»Þ-«týe õÞthuÞ yuf ûtý ðth …ý
+f{o fÞto rËðtÞ™tu hnu‚tu ™Úte. «f]r‚™t „wýtu Ëðo «týeytu …tËu
+…hðþ‚t{tk ht¾e™u yrðh‚…ýu f{o fhtðu Aus. >>5>>
+ÜU}æïüç‹Îí²æç‡æ ¨¢²}² ² ¥æS„ï }æÝ¨æ S}æÚÝì J
+§ç‹Îí²æƒæüç‹±}æêÉæy}ææ ç}æ‰²æ™æÚ: ¨ ©Ó²„ï JJ6JJ
+y™u su f{uorLÿÞtu™tu W…hÚte ËkÞ{ fhe™u {™Úte òu rð»tÞtu™wks
+M{hý fh‚tu ð‚uo Au, ‚tu ‚u {qZ ƒwÂØðt¤tu {týË r{ÚÞt[th-
+Œtkr¼fs fnuðtÞ Au. >>6>>
+²çSy±ç‹Îí²æç‡æ }æÝ¨æ çÝ²}²æÚ|æ„ïù…éüÝ J
+ÜU}æïüç‹Îí²ñ: ÜU}æü²æïxæ}æ¨QU: ¨ ç±çàæc²„ï JJ7JJ
+…ý su RrLÿÞtu™u {™Úte r™Þ{{tk ht¾e™u f{uorLÿÞtuÚte
+f{oÞtu„™tu ythk¼ fhu Au. y™u V¤{tk y™tËõ‚ hnu Au, ‚tu nu
+yswo™ ! ‚u ËðoÚte ©uc {™tÞ Au. >>7>>
+çÝ²„¢ ÜéUL ÜU}æü y±¢ ÜU}æü Á²æ²æï sÜU}æü‡æ: J
+àæÚèÚ²æ~ææçÐ ™ „ï Ý Ðíç¨h²ïÎÜU}æü‡æ: JJ8JJ
+{txu ‚tYk òr‚- „wý «{týu r™Þ‚ ÚtÞu÷wk yð~Þ rðÂn‚ f{o
+fh. fthý fu f{o ™rn fhðt fh‚tk f{o fhðwk yu ½ýu Œhßsu ËtYk
+Au. y™u yu{ òu ‚wk f{o Atuze ŒRþ, ‚tu ‚tht þheh™tu r™ðton …ý
+rËØ ™rns ÚtR þfu. >>8>>
+²¿ææƒæüyÜU}æü‡ææïù‹²~æ HæïÜUæïù²¢ ÜU}æüÏæ‹{Ý: J
+„ÎƒZ ÜU}æü ÜUæñ‹„ï² }æéQU¨X: ¨}ææ™Ú JJ9JJ
+Þ¿t™u {txu fht‚tk f{o rËðtÞ™tk ƒtfe™tk f{o fhðt{tks yt Ë½¤tu
+÷tuf f{oÚte ƒLÄ™ …t{™thtu ÚttÞ Au. {txu nu ftiL‚uÞ ! ‚wk V¤{tk
+ytËÂõ‚ Atuze ŒR™u fuð¤ Þ¿t™u {txus f{o fh™thtu Útt. >>9>>
+¨ã²¿ææ: Ðí…æ: ¨ëcÅì±æ ÐéÚæï±æ™ Ðí…æÐç„: J
+¥ÝïÝ Ðí¨ç±c²Š±}æï¯ ±æïùçSy±CÜUæ}æ{éÜUì JJ10JJ
+…qðuo Ë]Âü- Ë{Þ{tks ƒúñtyu Þ¿ttuyu Ërn‚ «òytu™u ËSo™u
+fÌtwk fu yt Þ¿t fhðtÚte ‚{u ð]ÂØ …t{tu ! yt Þ¿ts ‚{tht Rü
+{™tuhÚttu rËØ fhþu. >>10>>
+yæÞtÞ - 3
+
+
+Ÿæè}æjxæ±eè„æ
+14
+Îï±æ‹|ææ±²„æÝïÝ „ï Îï±æ |ææ±²‹„é ±: J
+ÐÚSÐÚ¢ |ææ±²‹„: Ÿæï²: ÐÚ}æ±æŒS²ƒ JJ11JJ
+yt Þ¿tÚte ‚{u Œuðtu™e Ëk¼tð™t fhtu ! y™u ‚u Œuðtu ‚{™u
+Ëk¼tð™t fhe™u ð]ÂØ …{tzu ! yu{ …hM…h Ëk¼tð™t fh‚tk ‚{u
+Ëðo «òytu W¥thtu¥th …h{ ©uÞ …t{þtu. >>11>>
+§Cæ‹|ææïxææç‹ã ±æï Îï±æ ÎæS²‹„ï ²¿æ|ææç±„æ: J
+„ñÎüœææÝÐíÎæ²ñ|²æï ²æï |æéÑìQïU S„ïÝ »± ¨: JJ12JJ
+Þ¿tÚte «ËÒt ÚtÞu÷t Œuðtu ‚{™u RÂåA‚ ¼tu„tu yt…þu. …hk‚w
+‚u Œuðtuyu yt…u÷t ¼tu„tu™u ‚u{™u ytÃÞt rËðtÞ su ¼tu„ðu Au ‚u
+‚tu [tuhs Au. >>12>>
+²¿æçàæCæçàæÝ: ¨‹„æï }æéÓ²‹„ï ¨±üçÜUçËÏæ¯ñ: J
+|æé¢…„ï „ï y±Íæ¢ ÐæÐæ ²ï Ð™‹y²æy}æÜUæÚ‡ææ„ì JJ13JJ
+Þ¿t fh‚tk yðþu»t hnu÷wk yÒt s{™tht Ëí…wY»ttu Ëðo …t…Úte
+{wftR òÞ Au. y™u su …t…e s™tu fuð¤ …tu‚t™us {txu htkÄu Au -
+htkÄe™u ¾tÞ Au, ‚u ‚tu fuð¤ …t…™wks ¼ûtý fhu Au. >>13>>
+¥óææj±ç‹„ |æê„æçÝ Ð…ü‹²æÎóæ¨¢|æ±: J
+²¿ææj±ç„ Ð…ü‹²æï ²¿æ: ÜU}æü¨}æéj±: JJ14JJ
+ÜU}æü Ïæírææïj±¢ ç±çh ÏæírææÿæÚ¨}æéj±}æì J
+„S}ææy¨±üxæ„¢ Ïæíræ çÝy²¢ ²¿æï Ðíç„çcÆ„}æì JJ15JJ
+¼q‚-«týe{tºt yÒtÚtes Wí…Òt ÚttÞ Au. yÒt™e Qí…Â¥t
+…soLÞÚte ÚttÞ Au. …soLÞ-{u½ Þ¿tÚte ÚttÞAu. y™u ‚u Þ¿t
+r¢ÞtËtæÞ ntuðtÚte f{oÚtes ‚u™tu Ë{wŒT¼ð rËÂØ Au. f{o ƒúñÚte
+- f‚to™wk þheh y™u «uhf ðuŒ yu ƒÒtuÚte rËØ ÚttÞ Au. y™u ‚u ƒúñ
+yûthMðY… …hƒúñÚtes WŒT¼ðu÷wk Au. {txu ËðoÔÞt…e …hkƒúñ
+r™íÞ r™hL‚h Þ¿t{tk «r‚ct …t{u÷wks Au. >>14-15>>
+»±¢ Ðí±<„„¢ ™R¢U ÝæÝé±„ü²„èã ²: J
+¥Íææ²éçÚç‹Îí²æÚæ}ææï }ææïÍæ¢ Ðæƒü ¨ …è±ç„ JJ16JJ
+yt{ y™trŒ ft¤Úte yt ÷tuf{tk ¼„ðt™u «ð‚toðu÷t [¢™u
+su {týË ™Úte y™wËh‚tu ‚u …wY»t …t…Y… ytÞw»Þðt¤tu y™u
+RrLÿÞtht{ ntuðtÚte nu …tÚto ! yt ÷tuf{tk r™»V¤ Sðu Au. >>16>>
+²Sy±æy}æÚç„Úï± S²æÎæy}æ„ë#p }ææÝ±: J
+¥æy}æ‹²ï± ™ ¨¢„éCS„S² ÜUæ²Z Ý ç±l„ï JJ17JJ
+Ýñ± „S² ÜëU„ïÝæƒæïü ÝæÜëU„ïÝïã ÜUpÝ J
+Ý ™æS² ¨±ü|æê„ï¯é ÜUçpÎƒüÃ²ÐæŸæ²: JJ18JJ
+„S}ææÎ¨QU: ¨„„¢ ÜUæ²Z ÜU}æü ¨}ææ™Ú J
+¥¨QUæï sæ™Ú‹ÜU}æü ÐÚ}ææŒÝæïç„ ÐêL¯: JJ19JJ
+y™u su {týË ‚tu ytí{MðY…{tks «er‚ðt¤tu ntuÞ y™u
+ytí{t™LŒ{tks ËŒtÞ ‚]ó ntuÞ y™u ytí{t™LŒ™t ÷t¼Útes
+ËŒtÞ ËL‚wü hnu‚tu ntuÞ ‚u …wY»t™u ftkR fhðt™wk ntu‚wk ™Úte.
+fu{ fu – yt ÷tuf{tk ‚u™u f{o fhðtÚte ftkR yÚto-«Þtus™ ™Úte
+ntu‚wk, ‚u{ – ™ fhðtÚte ftkR y™Úto suðwk …ý ™Úte ntu‚wk, ‚u{ ‚u™u
+‚tu Ëðo ¼q‚-«týe{tºt{tk ftuR ò‚™tu yÚtoËBƒLÄ …ý ntu‚tu ™Úte.
+{txu ‚wk …ý V¤tËÂõ‚Úte hrn‚ ÚtR™u ‚thu fhðt ÞtuøÞ f{o
+fÞto fh ! y™u yu{ ytËÂõ‚yu hrn‚ Útftu f{o fh‚tk fh‚tk …wY»t
+…tu‚u …h™u-ytí{MðY…™u yÚtðt- …h{tí{MðY…™u …t{u Au.
+>>17-19>>
+ÜU}æü‡æñ± çã ¨¢ç¨çh}ææçSƒ„æ …ÝÜUæÎ²: J
+HæïÜU¨¢xæíã}æï±æçÐ ¨¢Ðà²‹ÜU„éü}æãüç¨ JJ20JJ
+…qðuo ÚtÞu÷t s™ftrŒf ¿tt™eytu …ý f{oÚtes ËB…qýo…ýu
+rËÂØ™u …t{e „Þt Au. {txu ÷tufËk„ún™u …ý òu‚tk-rð[th‚tk ‚thu
+f{o fhðwk yus ÞtuøÞ-ËtYk Au. >>20>>
+²lÎæ™Úç„ ŸæïDS„œæÎï±ï„Úæï …Ý: J
+¨ ²yÐí}ææ‡æ¢ ÜéUL„ï HæïÜUS„ÎÝé±„ü„ï JJ21JJ
+©uc {týË su su suðwk suðwk yt[hý fhu Au, ‚u òuR™u ƒeò
+Ët{tLÞ {týË …ý ‚us ‚uðwks yt[hý fhu Au. y™u ‚u ©uc
+{týË su™u «{tý fhu Au, ‚u™us ÷tuftu …ý y™wËhu Au. >>21>>
+Ý }æï ÐæƒæüçS„ ÜU„üÃ²¢ ç~æ¯é HæïÜïU¯é ôÜU™Ý J
+ÝæÝ±æ#}æ±æ#Ã²¢ ±„ü »± ™ ÜU}æüç‡æ JJ22JJ
+yæÞtÞ - 3
+
+
+Ÿæè}æjxæ±eè„æ
+15
+nu …]Útt…wºt-yswo™ ! {thu yt Ë{„ú rºt÷tufe{tk ftkR fhðt
+ÞtuøÞ f{o Aus ™rn, ‚u{ ftkR ™rn …t{u÷wk …ý ™Úte, ‚u{ ftkR
+…t{ðt suðwk …ý ™Úte, ‚tu …ý nwk f{o{tk ð‚wo Awk s. >>22>>
+²çÎ sã¢ Ý ±„ïü²¢ …æ„é ÜU}æü‡²„ç‹Îí„: J
+}æ}æ ±y}ææüÝé±„ü‹„ï }æÝéc²æ: Ðæƒü ¨±üàæ: JJ23JJ
+©y¨èÎï²éçÚ}æï HæïÜUæ Ý ÜéU²æZ ÜU}æü ™ïÎã}æì J
+¨¢ÜUÚS² ™ ÜU„æü S²æ}æéÐã‹²æç}æ}ææ: Ðí…æ: JJ24JJ
+òu fŒt[ nwk f{o fhðt{tk ËtðÄt™ Útftu ™ ð‚wO, ‚tu nu …tÚto ?
+Ëðo {™w»Þtu {tht {t„o™us y™wËhu.
+y™u òu nwk f{o ™ fYk, ‚tu yt Ë½¤t ÷tuftu f{o- {t„oÚte ¼úü
+ÚtR òÞ y™u ðýoËkfh™tu f‚to …ý nwks Úttô y™u yu{ ÚtðtÚte
+yt Ëðo «òytu™u yð¤u {t„uo «ð‚toðe™u ™tþ fh™thtu nwk s Úttô
+>>23-24>>
+¨QUæ: ÜU}æü‡²ç±mæ¢¨æï ²ƒæ ÜéU±üç‹„ |ææÚ„ J
+ÜéU²æüçmmæ¢S„ƒæ¨QUçpÜUè¯éüHæïüÜU¨¢xæíã}æì JJ25JJ
+{txu nu ¼th‚ ! y¿tt™e {týËtu su{ f{o{tk ytËõ‚ ÚtR™u
+f{o fhu Au, ‚u{ rðît™T ¿tt™e s™ ÷tuftu™u Ë™{t„uo Œtuhðt™u RåA‚tu
+Útftu y™tËõ‚ hne™u rðrn‚ f{o fÞto fhu. >>25>>
+Ý Ïæéçh|æïÎ¢ …Ý²ïÎ¿ææÝæ¢ ÜU}æü¨çXÝæ}æì J
+…æï¯²ïy¨±üÜU}ææüç‡æ ç±mæ‹²éQU: ¨}ææ™ÚÝì JJ26JJ
+y™u f{o{tk òuztÞu÷t y¿tt™e s™tu™u f{oÚte …ze òÞ yuðtu
+ƒwÂØ¼uŒ ™ W…òðu, …hL‚w …tu‚u Ë{Íw ntuR™u ƒwÂØÞtu„Þwõ‚ ÚtR™u
+Ëðo f{o™wk ËBÞfT he‚u yt[hý fh‚tu Útftu Ëðo ÷tuftu™u ‚u
+f{o{t„o{tk «er‚ W…òðu. >>26>>
+ÐíÜëU„ï: çRU²}ææ‡ææçÝ xæé‡æñ: ÜU}ææüç‡æ ¨±üàæ: J
+¥ãVæÚç±}æêÉæy}ææ ÜU„æüãç}æç„ }æ‹²„ï JJ27JJ
+„œ±ç±œæé }æãæÏææãæï xæé‡æÜU}æüç±|ææxæ²æï: J
+xæé‡ææ xæé‡æï¯é ±„ü‹„ §ç„ }æy±æ Ý ¨Á…„ï JJ28JJ
+«f]r‚™t Ë¥ðtrŒf „wýtu™u ÷eÄus Ëðo f{tuo «ð‚uo Au yu{
+™rn Ë{Í™thtu ynkfth™u ÷eÄus rð{qZ ƒwÂØðt¤tu …wY»t yu Ëðo
+f{o™tu f‚to nwks Awk yu{ {t™u Au- {t™e™u ƒLÄtÞ Au. >
+y™u nu {ntƒtntu ! „wý-f{o™t rð¼t„™t ‚¥ð™u òý™thtu
+¿tt™e s™ ‚tu «f]r‚™t „wýtu Ë¥ðtrŒf, „wýtu{tk-„wý™tk
+…rhýt{Y… f{tuo{tk «ð‚uo Au, yu{ {t™e™u ‚u{tk yr¼{t™Úte
+ƒLÄt‚tu ™Úte. >>27-28>>
+ÐíÜëU„ïxæéü‡æ¨¢}æêÉæ: ¨Á…‹„ï xæé‡æÜU}æü¨é J
+„æÝÜëUyFç±Îæï }æ‹Îæ‹ÜëUyFç±óæ ç±™æH²ï„ì JJ29JJ
+«f]r‚™t „wýtuÚte ËðoÚtt {qZ ƒ™e „Þu÷t {týËtu „wýÚte
+«ð‚o‚tk f{tuo™u rð»tu ytËÂõ‚…qðof òuztÞ Au, ‚uðt f{o™wk hnMÞ
+™rn Ë{Í™tht, {LŒ-ƒwÂØ™t {týËtu™u, f{o™t ‚¥ð™u ÞÚttÚto
+òý™th ¿tt™e s™ f{oÚte [¤tÞ{t™ ™ fhu. >>29>>
+}æç² ¨±æüç‡æ ÜU}ææüç‡æ ¨¢‹²S²æŠ²æy}æ™ï„¨æ J
+çÝÚæàæè<Ý}æü}ææï |æêy±æ ²éŠ²S± ç±xæ„Á±Ú: JJ30JJ
+{txu ‚wk …ý Ëðo f{o Ëðuoïh yuðt {thu rð»tu y…oý fhe™u
+ytí{MðY…{tk ÂMÚth‚t …t{u÷t r[¥t ðzu r™htþe y™u r™{o{íð
+ÚtR™u, ‚u{s þtuf- ËL‚t…Úte …ý hrn‚ ÚtR™u ÞwØ fh ! >>30>>
+²ï }æï }æ„ç}æÎ¢ çÝy²}æÝéç„Dç‹„ }ææÝ±æ: J
+Ÿæhæ±‹„æïùÝ¨ê²‹„æï }æéÓ²‹„ï „ïùçÐ ÜU}æüç|æ: J31J
+su {™w»Þtu yt {tht {‚™u r™hL‚h y™wËhe™u ð‚uo Au, ‚u{s
+yt {‚{tk su ©Øtðt¤t Au y™u yËqÞt ™Úte fh‚t, ‚u …ý þw¼-
+yþw¼ f{o-ƒLÄ™Úte {wftÞ Au. >>31>>
+²ï y±ï„Î|²¨ê²‹„æï ÝæÝéç„Dç‹„ }æï }æ„}æì J
+¨±ü¿ææÝç±}æêÉæ¢S„æç‹±çh ÝCæÝ™ï„¨: JJ32JJ
+y™u su {™w»Þtu ‚tu yÇÞËqÞt fh‚t Útft yt {tht {‚™u ™Úte
+y™wËh‚t, ‚u{™u ‚tu Ëðo ¿tt™{tk rð{qZ ¼tð™u …t{u÷t y™u
+rððufþqLÞ ntuðtÚte {tuût{t„oÚte ¼úü ÚtÞu÷t òýðt. >>32>>
+¨Îëàæ¢ ™ïC„ï S±S²æ: ÐíÜëU„ï¿ææüÝ±æÝçÐ J
+ÐíÜëUô„ ²æç‹„ |æê„æçÝ çÝxæíã: ôÜU ÜUçÚc²ç„ JJ33JJ
+yæÞtÞ - 3
+
+
+Ÿæè}æjxæ±eè„æ
+16
+ytí{t-y™tí{t™t rððuf™u …t{u÷tu ¿tt™e s™ …ý …tu‚t™e
+«f]r‚™u y™wY…s yt[hý fhu Au, {txu ¼q‚-«týe{tºt …tu‚-
+…tu‚t™e «f]r‚™us y™wËhu Au, {txu þt†f]‚ - -1 - r™„ún þwk
+fhþu ? >>33>>
+§ç‹Îí²S²ïç‹Îí²S²æƒïü Úæxæmï¯æñ Ã²±çSƒ„æñ J
+„²æïÝü ±àæ}ææxæÓÀïœææñ sS² ÐçÚÐç‹ƒÝæñ JJ34JJ
+rð»tÞtu{tk ht„ y™u îu»t rð¼t„…qðof ÔÞðMÚttÚte hnu÷ts Au,
+{txu ‚u ht„îu»t™t ðþ{tk ™ Ë…ztðwk, fthýfu - ‚u ht„ y™u îu»t
+yu ƒus yt …wY»t™t fèt rðhtuÄe Au. >>34>>
+Ÿæï²æ‹S±{}ææïü ç±xæé‡æ: ÐÚ{}ææüyS±ÝéçD„æ„ì J
+S±{}æïü çÝ{Ý¢ Ÿæï²: ÐÚ{}ææïü |æ²æ±ã: JJ35JJ
+Ëthe he‚u y™wct™ fhu÷t …h Ä{o fh‚tk LÞq™ „wýðt¤tuÞ
+MðÄ{o ©uÞ™u yt…™thtu Au. {txu MðÄ{o{tk hne™u {hðwk yu ËtYk
+Au, …ý …h Ä{o ‚tu yt¾hu ¼Þ W…òð™thtus ÚttÞ Au. >>35>>
+¥…éü± ©±æ™ J
+¥ƒ ÜïUÝ Ðí²éQUæïù²¢ ÐæÐ¢ ™Úç„ ÐêL¯: J
+¥çÝÓÀóæçÐ ±æc‡æïü² ÏæHæçÎ± çÝ²æïç…„: JJ36JJ
+yswo™ …qAu Au = nu ð]Â»ýfw¤™LŒ™ ! ¿tt™Þtu„{tk «ð‚uo÷tu
+yt …wY»t ftuýu «uÞtuo Útftu RåAt ™ ntuÞ ‚tu …ý su{ ƒ¤ífthu
+«uhtÞu÷tu ntuÞ ‚u{ …t…-f{o™wk yt[hý fhu Au ? >>36>>
+Ÿæè|æxæ±æÝé±æ™ J
+ÜUæ}æ »¨ RUæï{ »¯ Ú…æïxæé‡æ¨}æéh±: J
+}æãæàæÝæï }æãæÐæŒ}ææ ç±h²ïÝç}æã ±ñçÚ‡æ}æì JJ37JJ
+©e¼„ðt™ fnu Au = hòu„wý{tkÚte Ë{wKð su™tu Au yuðtu yu
+ft{ y™u yus ¢tuÄ {nt¼q¾t¤ðtu y™u {nt…t…Y… Au, {txu
+yu™us yt {tuût{t„o{tk {tuxtu þºtw òý ! >>37>>
+{ê}æïÝæç±í²„ï ±çq²üƒæÎàææïü }æHïÝ ™ J
+²ƒæïËÏæïÝæ±ë„æï xæ|æüS„ƒæ „ïÝïÎ}ææ±ë„}æì JJ38JJ
+Äq{tztÚte su{ yÂø™ ytðhý …t{u Au, Œ…oý su{ {u÷Úte
+{r÷™‚t …t{uAu. y™u ð¤e su{ WÕƒÚte „¼o ytðhý …t{u÷tu
+ntuÞ Au, ‚us «{týu ‚u ft{Úte yt «týe{tºt ytðhý …t{u÷t Au.
+>>38>>
+¥æ±ë„¢ ¿ææÝ}æï„ïÝ ¿ææçÝÝæï çÝy²±ñçÚ‡ææ J
+ÜUæ}æLÐï‡æ ÜUæñ‹„ï² ÎécÐêÚï‡ææÝHïÝ ™ JJ39JJ
+nu fwL‚e…wºt-yswo™ ! …qhe ™ þftÞ yuðt y™u yÂø™ suðt
+y…th¼ûte yt ft{Y…e r™hL‚h™t þºtwyu ¿tt™Þtu„{tk «ð‚uo÷t
+¿tt™e™wk ¿tt™ ytðhe ÷eÄu÷wk Au. >>39>>
+§ç‹Îí²æç‡æ }æÝæï ÏæéçhÚS²æç{DæÝ}æéÓ²„ï J
+»„ñ<±}ææïã²y²ï¯ ¿ææÝ}ææ±ëy² ÎïçãÝ}æì JJ40JJ
+RrLÿÞtu, {™ y™u ƒwÂØ, yu yt ft{™wk yrÄct™-yt©ÞMÚtt™
+Au. y™u yu ËtÄ™tuÚte yu ft{ Œune-Sðtí{t™u ¿tt™ ytðhe ÷R™u
+{tun …{tzu Au. >>40>>
+„S}ææœ±ç}æç‹Îí²æ‡²æÎæñ çÝ²}² |æÚ„¯ü|æ J
+ÐæŒ}ææÝ¢ Ðí…çã sïÝ¢ ¿ææÝç±¿ææÝÝæàæÝ}æì JJ41JJ
+{txu nu ¼h‚»to¼ ! ‚wk «Út{ yu RrLÿÞtu™u r™Þ{{tk-ðþ{tk
+fhe™u ¿tt™-rð¿tt™™u ™tþ fh™tht yu {nt…t…Y… ft{™u Ë{q¤„tu
+™tþ fhe ™t¾ ! >>41>>
+§ç‹Îí²æç‡æ ÐÚæ‡²æãéçÚç‹Îí²ï|²: ÐÚ¢ }æÝ: J
+}æÝ¨S„é ÐÚæ Ïæéçh²æïü Ïæéhï: ÐÚ„S„é ¨: JJ42JJ
+»±¢ Ïæéhï: ÐÚ¢ ÏæéÎìŠ±æ ¨¢S„|²æy}ææÝ}ææy}æÝæ J
+…çã àæ~æé¢ }æãæÏææãæï ÜUæ}æMUÐ¢ ÎéÚæ¨Î}æì JJ43JJ
+(¿tt™{tk rðhtuÄeytu{tk …ý yus «Ät™ Au yu{ fne ƒ‚tðu Au-)
+þheh™e y…uûttyu RrLÿÞtu «Ät™ Au, RrLÿÞtu fh‚tk {™ «Ät™
+Au. y™u {™ fh‚tk ‚tu ƒwÂØ «Ät™ Au. y™u su ft{ Au ‚u ‚tu ËðoÚte
+…h su ƒwÂØ ‚u fh‚tkÞ …h-«Ät™ Au.
+{txu nu {ntƒtntu ! yu «{týu yu ft{™u ƒwÂØÚte …ý …h-
+ƒ¤ðt™ òýe™u …tu‚t™t {™™u ƒwÂØY…e ykfwþÚte Œƒtðe™u yu
+ft{Y…e ŒwhtËŒ þºtw™u Ë{q¤„tus ™tþ fhe ™t¾ ! >>42-43>>
+yæÞtÞ - 3
+
+
+Ÿæè}æjxæ±eè„æ
+17
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢ ²æïxæàææ›ï
+ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï ÜU}æü²æïxææï Ýæ}æ „ë„è²æïùŠ²æ²: JJ3JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk Þtu„þtMºtu
+©ef]»ýtòow™ËkðtŒu f{oÞtu„tu ™t{ ‚]‚eÞtuàæÞtÞ: >>3>>
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒ ™„éƒæïüùŠ²æ²:
+
+Ÿæè |æxæ±æÝé±æ™ J
+§}æ¢ ç±±S±„ï ²æïxæ¢ ÐíæïQU±æÝã}æÃ²²}æì J
+ç±±S±æ‹}æÝ±ï Ðíæã }æÝéçÚÿ±æÜU±ïùÏæí±è„ì JJ1JJ
+©e ¼„ðt™ fnu Au = fÞthuÞ …ý ûtÞ ™rn …t{™thtu yt
+yrð™tþe f{oÞtu„™tu {t„o {U …qðuo ËqÞoŒuð™u fÌttu n‚tu, ‚u …Ae
+ËqÞoŒuðu …tu‚t™t …wºt {™w™u fÌttu n‚tu. y™u yu {™wyu Mð…wºt
+Rûðtfw™u fÌttu n‚tu. >>1>>
+»±¢ ÐÚ}ÐÚæÐíæ#ç}æ}æ¢ Úæ…¯ü²æï ç±Îé: J
+¨ ÜUæHïÝïã }æã„æ ²æïxææï ÝC: ÐÚ¢„Ð JJ2JJ
+yt{ …hB…htÚte «tó Út‚t yt f{oÞtu„™u …qðuo™t Ë½¤t
+htsŠ»tytu òý‚t n‚t, …hL‚w ½ýt ÷tkƒt ft¤u fhe™u ‚u f{oÞtu„™tu
+{t„o nu þºtw‚t…™ ? yswo™ yt ÷tuf{tk ™ü«tÞ ÚtR „Þtu Au. >>2>>
+¨ »±æ²¢ }æ²æ „ïùl ²æïxæ: ÐíæïQU: ÐéÚæ„Ý: J
+|æQUæïùç¨ }æï ¨¶æ ™ïç„ ÚãS²¢ sï„Îéœæ}æ}æì JJ3JJ
+‚u s yt …wht‚™ f{oÞtu„™tu {t„o {U ‚™u yts n{ýtk fne
+ƒ‚tÔÞtu, fthý fu ‚wk {thtu …h{ ¼õ‚ y™u ð¤e {thtu r«Þ Ë¾t
+Au, {txu yt yr‚ W¥t{ hnMÞY… f{oÞtu„ {U ‚™u fÌttu Au yu{
+òý >>3>>           ¥…éüÝ ©±æ™ J
+¥ÐÚ¢ |æ±„æï …‹}æ ÐÚ¢ …‹}æ ç±±S±„: J
+ÜUƒ}æï„çm…æÝè²æ¢ y±}ææÎæñ ÐíæïQU±æçÝç„ JJ4JJ
+yswo™ …qAu Au = yt…™tu sL{ n{ýtk ð‚o{t™ ft¤{tk Au
+y™u rððMðt™™tu–ËqÞoŒuð™tu sL{ ‚tu …qðuo ÚtÞtu n‚tu. ‚tu yu nwk
+fu{ Ë{Íe þfwk fu yt…us …qðou yu f{oÞtu„ fÌttu n‚tu ?. >>4>>
+Ÿæè|æxæ±æÝé±æ™ J
+ÏæãêçÝ }æï Ã²„è„æçÝ …‹}ææçÝ „± ™æ…éüÝ J
+„æ‹²ã¢ ±ïÎ ¨±æüç‡æ Ý y±¢ ±ïyƒ ÐÚ¢„Ð JJ5JJ
+©e ¼„ðt™ fnu Au = nu yswo™ ! {thtk y™u ‚thtk ½ýtkf
+sL{ ðe‚e „Þtk Au, ‚u Ë½¤tk sL{™u nwk òýwk Awk, …ý nu …hL‚…
+! ‚wk ™Úte òý‚tu. >>5>>
+¥…æïùçÐ ¨óæÃ²²æy}ææ |æê„æÝæ}æèEÚæïùçÐ¨Ýì J
+ÐíÜëUô„ S±æ}æç{Dæ² ¨¢|æ±æ}²æy}æ}ææ²²æ JJ6JJ
+fu{ fu - nwk ‚tu f{toÄe™
+f{toÄe™
+f{toÄe™
+f{toÄe™
+f{toÄe™ sL{Úte hrn‚, MðY… y™u Mð¼tðÚte
+…ý ÔÞÞhrn‚- yrð™tþeMðY… ¼q‚-«týe{tºt™tu r™Þt{f ntuðt
+A‚tk …ý {tht …h{ ðtíËÕÞtrŒf yËtÄthý Mð¼tð™u
+y™wËhe™u {the …tu‚t™e RåAtÚtes «„x Úttô Awk. >>6>>
+²Îæ ²Îæ çã {}æüS² xHæçÝ|æü±ç„ |ææÚ„ J
+¥|²éyƒæÝ}æ{}æüS² „Îæy}ææÝ¢ ¨ë…æ}²ã}æì JJ7JJ
+y™u yu he‚u ßÞthu ßÞthu {U «ð‚toðu÷t yuftÂL‚f Ä{o™e
+ø÷tr™ ÚttÞ Au y™u yÄ{o™e [Z‚e-«ƒ¤‚t ÚttÞ Au, íÞthu nwk
+{tht MðY…™u Ëswo Awk--ytrð¼toð …t{wk Awk. >>7>>
+ÐçÚ~ææ‡ææ² ¨æ{êÝæ¢ ç±Ýæàææ² ™ ÎécÜëU„æ}æì J
+{}æü¨¢SƒæÐÝæƒæü² ¨¢|æ±æç}æ ²éxæï ²éxæï JJ8JJ
+y™u {tht ¼õ‚ yuðt ËtÄws™tu™t …rhºttý-hûtý {txu y™u
+‚u{™t ÿtune Œw»f{eo yËwhtu™t rð™tþ {txu ‚Útt yuftÂL‚f Ä{o™t
+ËBÞfT-MÚtt…™ {txu nwk Þw„tu Þw„ yð‚th ÷ô Awk. >>8>>
+…‹}æÜU}æü ™ }æï çÎÃ²}æï±¢ ²æï ±ïçœæ „œ±„: J
+y²ævy±æ Îïã¢ ÐéÝ…ü‹}æ Ýñç„ }ææ}æïç„ ¨æïù…éüÝ JJ9JJ
+yt {thtk sL{ y™u f{o ‚u™u rŒÔÞ Au yu{ su ‚tr¥ðf ¼tðÚte
+òýuAu. ‚tu ‚u …ý …tu‚t™t þheh™tu íÞt„ fhe™u VheÚte sL{ ™Úte
+…t{‚tu, …ý nu yswo™ ! {™us …t{u Au. >>9>>
+yæÞtÞ - 4
+
+
+Ÿæè}æjxæ±eè„æ
+18
+±è„Úæxæ|æ²RUæï{æ }æ‹}æ²æ }ææ}æéÐæçŸæ„æ: J
+Ïæã±æï ¿ææÝ„Ð¨æ Ðê„æ }æjæ±}ææxæ„æ: JJ10JJ
+ht„, ¼Þ y™u ¢tuÄ rð„uhu rðfthtuÚte hrn‚ ÚtÞu÷t, {tht{tk
+y™LÞ ¼tðÚte yufr[¥t ÚtÞu÷t y™u {™us ytþhu÷t yuðt ½ýtf
+…wY»ttu {tht MðY…™t …h{¿tt™Y… ‚…Úte …rðºt ÚtR™u {tht
+MðY…™u …t{u÷t Au. >>10>>
+²ï ²ƒæ }ææ¢ ÐíÐl‹„ï „æ¢S„ƒñ± |æ…æ}²ã}æì J
+}æ}æ ±y}ææüÝé±„ü‹„ï }æÝéc²æ: Ðæƒü ¨±üàæ: JJ11JJ
+nu …tÚto ! su {™w»Þtu {™u suðt suðt ¼tðÚte ¼su Au, ‚uytu™u nwk
+…ý ‚u{s ¼swk Awk--V¤Œt™îtht y™wfq¤ Úttô Awk, y™u yt¾hu
+yu Ëðo {™w»Þtu {tht {t„o™us y™wËhu Au–{wÂõ‚{t„o{tk ytðu
+Au. >>11>>
+ÜUæÑìÿæ‹„: ÜU}æü‡ææ¢ ç¨ôh ²…‹„ §ã Îï±„æ: J
+çÿæÐí¢ çã }ææÝé¯ï HæïÜïU ç¨çh|æü±ç„ ÜU}æü…æ JJ12JJ
+fhu÷tk f{o™e V¤rËÂØ™u RåA‚t Útft yt ÷tuf{tk su {™w»Þtu
+Œuð‚tytu™wk Þs™-…qs™ fhu Au, ‚tu ‚u{™u yt {t™w»t ÷tuf{tk f{oÚte
+Út™the V¤rËÂØ ðnu÷e «tó ÚttÞ Au. >>12>>
+™æ„é±ü‡²Z }æ²æ ¨ëC¢ xæé‡æÜU}æüç±|ææxæàæ: J
+„S² ÜU„æüÚ}æçÐ }ææ¢ ç±h²ÜU„æüÚ}æÃ²²}æì JJ13JJ
+„wý-f{o™t rð¼t„ «{týu ƒútñýtrŒf [thuÞ ðýtuo {U håÞt
+Au. {txu ‚u™tu f‚to …ý {™u òý ! y™u f‚to A‚tk yf‚to yrðfthe
+…ý {™us òý ! >>13>>
+Ý }ææ¢ ÜU}ææüç‡æ çH}Ðç‹„ Ý }æï ÜU}æüÈUHï SÐëãæJ
+§ç„ }ææ¢ ²æïù|æ…æÝæç„ ÜU}æüç|æÝü ¨ ÏæŠ²„ï JJ14JJ
+fu{ fu {™u f{tuo ÷u…-ytðhý fhe þõ‚tk ™Úte, ‚u{ {™u f{o™t
+V¤{tk M…]nt …ý ™Úte. ð¤e-yt{ {™u su òýu Au ‚u …ý f{oÚte
+ƒLÄt‚tu ™Úte. >>14>>
+»±¢ ¿ææy±æ ÜëU„¢ ÜU}æü Ðê±ñüÚçÐ }æé}æéÿæéç|æ: J
+ÜéUL ÜU}æñü± „S}ææœ±¢ Ðê±ñü: Ðê±ü„Ú¢ ÜëU„}æì JJ15JJ
+…qðuo ÚtÞu÷t {w{wûtwytuyu …ý yu{ òýe-Ë{Íe™u f{o fhu÷tk
+Au, {txu ‚wk …ý …qðo ft¤™t …wY»ttuyu …ht-…qðoÚte fhu÷tk f{os fÞto
+fh ! >>15>>
+ôÜU ÜU}æü çÜU}æÜU}æïüç„ ÜU±²æïùŒ²~æ }ææïçã„æ: J
+„œæï ÜU}æü Ðí±ÿ²æç}æ ²Á¿ææy±æ }ææïÿ²¨ïùàæé|ææ„ìJ16J
+f{o þwk ? y™u yf{o þwk ? yu ƒtƒ‚{tk {tuxt {tuxt frð-
+¿tt™eytu …ý {tun …t{e òÞ Au. ‚tu ‚u f{o nwk ‚™u fne Ë{Ítðeþ,
+fu su òÛÞt-Ë{ÍÞt …Ae f{o™t yþw¼ ƒLÄ™Úte ‚wk {wftR
+sRþ. >>16>>
+ÜU}æü‡ææï sçÐ ÏææïhÃ²¢ ÏææïhÃ²¢ ™ ç±ÜU}æü‡æ: J
+¥ÜU}æü‡æp ÏææïhÃ²¢ xæãÝæ ÜU}æü‡ææï xæç„: JJ17JJ
+f{o™e ƒtƒ‚{tk …ý òýðt suðwk Au. y™u rðf{o™e yux÷u
+ðuŒtuõ‚ rðrðÄ f{o™e ƒtƒ‚{tk …ý òýðt suðwk Au. ‚u{s
+yf{o™e ƒtƒ‚{tk …ý òýðt suðwk Au. fu{ fu f{o™e ƒtƒ‚ yr‚
+„n™-rðr[ºt „wk[ðýtuÚte ¼hu÷e Au. >>17>>
+ÜU}æü‡²ÜU}æü ²: Ðà²ïÎÜU}æüç‡æ ™ ÜU}æü ²: J
+¨ Ïæéçh}ææ‹}æÝéc²ï¯é ¨ ²éQU: ÜëUyFÜU}æüÜëU„ì JJ18JJ
+{txu f{o{tk yf{o su swyu Au, y™u yf{o{tk f{o su swyu Au,
+‚tu ‚u òu™thtu …wY»t Ëðo {™w»Þtu{tk ƒnw ƒwÂØ{t™ Au. y™u ‚us
+Þwõ‚-f{oÞtu„Þwõ‚ Au. y™u yus Ë{„ú Ëíf{o fh™thtu Au. >>18>>
+²S² ¨±ïü ¨}ææÚ}|ææ: ÜUæ}æ¨¢ÜUËÐç±<…„æ: J
+¿ææÝæçxÝÎx{ÜU}ææü‡æ¢ „}ææãé: Ðç‡Ç„¢ Ïæé{æ: JJ19JJ
+su …wY»t™t Ëðo Ë{thk¼tu ft{-RåAt y™u ËkfÕ…u hrn‚ ntuÞ
+Au. y™u suýu ¿tt™Y… yÂø™Úte Ëðo f{o ¼M{Ët‚T fhu÷tk Au,
+‚uðt ¿tt™rËÂØ …t{u÷t f{oÞtu„e™u ¿tt™es™tu …krz‚ yu{ fnu Au.
+>>19>>
+y²vy±æ ÜU}æüÈUHæ¨X¢ çÝy²„ë#æï çÝÚæŸæ²: J
+ÜU}æü‡²ç|æÐí±ëœææïùçÐ Ýñ± çÜUç@yÜUÚæïç„ ¨: JJ20JJ
+yæÞtÞ - 4
+
+
+Ÿæè}æjxæ±eè„æ
+19
+ð¤e f{oV¤{tk ytËÂõ‚ Atuze ŒR™u ËŒtÞ ËL‚wü hnu™thtu.
+y™u ËðtoÄth «¼w rËðtÞ ƒeò ftuR{tk yt©Þ ƒwÂØ ™rn
+ht¾™thtu yuðtu ¿tt™e s™ f{o{tk …qhu …qhtu «ð‚uo÷tu ntuÞ ‚tu …ý ‚u
+ftkR fh‚tus ™Úte yu{ òýðwk. >>20>>
+çÝÚæàæè²ü„ç™œææy}ææ y²QU¨±üÐçÚxæíã: J
+àææÚèÚ¢ ÜïU±H¢ ÜU}æü ÜéU±üóææŒÝæïç„ çÜUçËÏæ¯}æì JJ21JJ
+V¤™e RåAt rð™t™tu, su™wk r[¥t ytí{MðY…{tks r™Þ‚-
+ÂMÚth fhu÷wk Au, y™u Ëðo …rh„ún-Ëk„ún™e W…trÄ suýu Atuze ŒeÄe
+Au, yuðtu …wY»t fuð¤ þhehÚtes Út‚wk f{o fh‚tu Ë‚tu …ý ftuR
+«fth™t Œtu»t™u ™Úte …t{‚tu. >>21>>
+²ÎëÓÀæHæ|æ¨‹„éCæï m‹mæ„è„æï ç±}æy¨Ú: J
+¨}æ: ç¨hæ±ç¨hæñ ™ ÜëUy±æçÐ Ý çÝÏæŠ²„ï JJ22JJ
+Œið RåAtÚte «tó Út‚t ÷t¼Úte ËŒtÞ ËL‚wü hnu™thtu, þtuf-
+{tuntrŒf îLî™u Œƒtðe™u ð‚o™thtu, {íËhu hrn‚ y™u rËÂØ-
+yrËÂØ{tk …ý Ë{ ¼tð ht¾™thtu, ytðtu …wY»t f{o fhe™u …ý
+ƒLÄt‚tu ™Úte. >>22>>
+xæ„¨XS² }æéQUS² ¿ææÝæ±çSƒ„™ï„¨: J
+²¿ææ²æ™Ú„: ÜU}æü ¨}æxæí¢ Ðíç±Hè²„ï JJ23JJ
+ytËÂõ‚yu hrn‚, V¤uåAt{tk {wõ‚ ¼tðu ð‚o™thtu, ¿tt™Úte
+ÂMÚthr[¥t ƒ™u÷tu y™u Þ¿t™u-¼„ðŒthtÄ™™u {txu f{o fh™thtu,
+yuðt …wY»t™wk Ë{„ú f{o rð÷e™ ¼tð™u …t{e òÞ Au. >>23>>
+ÏæírææÐü‡æ¢ Ïæíræ ãç±ÏæíürææxÝæñ Ïæíræ‡ææ ãé„}æì J
+Ïæíræñ± „ïÝ xæ‹„Ã²¢ ÏæíræÜU}æü¨}ææç{Ýæ JJ24JJ
+y…oý fhðt™wk ËtÄ™ ‚u …ý ƒúñ, ntu{ðt™wk ÿÔÞ ‚u …ý
+ƒúñY… yÂø™{tk ƒúñtí{f ¿tt™eyu ntuBÞwk, yu he‚u Ëðo{tk
+ƒúñár»x ht¾ðtÚte Ëðo f{o ƒúñ{tks y…oý fh™th …wY»tu ƒúñ-
+…hƒúñs …t{ðt ÞtuøÞ Au. >>24>>
+Îñ±}æï±æÐÚï ²¿æ¢ ²æïçxæÝ: Ð²éüÐæ¨„ï J
+ÏæírææxÝæ±ÐÚï ²¿æ¢ ²¿æïÝñ±æïÐ…éuç„ JJ25JJ
+ƒeò fux÷tf f{oÞtu„eytu ŒuðËBƒLÄes Þ¿t™wk …Þwo…tË™
+fhu Au. ƒeò fux÷tf ƒúñY… yÂø™{tk Þ¿tMðY… ¼„ðt™™wk
+Þ¿tÚtes ntu{t[o™Y… Q…tË™ fhu Au. >>25>>
+Ÿææï~ææÎèÝèç‹Îí²æ‡²‹²ï ¨¢²}ææçxÝ¯é …éuç„ J
+àæÏÎæÎèç‹±¯²æÝ‹² §ç‹Îí²æçxÝ¯é …éuç„ JJ26JJ
+ƒeò ð¤e ©tuºttrŒf RrLÿÞtu™u ËkÞ{Y… yÂø™{tk ntu{u Au,
+ƒeò fux÷tf þçŒtrŒf rð»tÞtu™u RrLÿÞtuY… yÂø™{tk ntu{u Au.
+>>26>>
+¨±æü‡æèç‹Îí²ÜU}ææüç‡æ Ðíæ‡æÜU}ææüç‡æ ™æÐÚï J
+¥æy}æ¨¢²}æ²æïxææxÝæñ …éuç„ ¿ææÝÎèçÐ„ï JJ27JJ
+ð¤e ƒeò fux÷tf ¿tt™Úte Ëw«ftrþ‚ {™:ËkÞ{Y…
+Þtu„tÂø™{tk Ëðo RrLÿÞf{tuo y™u «týf{tuo …ý ntu{u Au-
+{™:ËkÞ{îtht Mððþ{tk ht¾u Au. >>27>>
+ÎíÃ²²¿ææS„Ðæï²¿ææ ²æïxæ²¿ææS„ƒæÐÚï J
+S±æŠ²æ²¿ææÝ²¿ææp ²„²: ¨¢çàæ„±í„æ: JJ28JJ
+‚eûý ðú‚Äthe ËkÞ{þe÷ Þr‚-…wY»ttu ftuRf ÿÔÞÞ¿t, ftuRf
+‚…tuÞ¿t, ‚Útt ftuRf Þtu„Þ¿t, ftuRf MðtæÞtÞÞ¿t y™u ftuRf
+¿tt™Þ¿t fh™tht ntuÞ Au. >>28>>
+¥ÐæÝï …éuç„ Ðíæ‡æ¢ Ðíæ‡æïùÐæÝ¢ „ƒæÐÚï J
+Ðíæ‡ææÐæÝxæ„è LÎìŠ±æ Ðíæ‡ææ²æ}æÐÚæ²‡ææ: JJ29JJ
+fux÷tf «tý™u y…t™{tk ntu{u Au, ‚Útt ƒeò fux÷tf y…t™™u
+«tý{tk ntu{u Au. y™u fux÷tf «týy…t™™e „r‚ htufe™u
+«týtÞt{…htÞý ð‚o™tht ntuÞ Au. >>29>>
+¥ÐÚï çÝ²„æãæÚæ: Ðíæ‡ææ‹Ðíæ‡æï¯é …éuç„ J
+¨±ïüùŒ²ï„ï ²¿æç±Îæï ²¿æÿæçÐ„ÜUË}æ¯æ: JJ30JJ
+ð¤e-ƒeò fux÷tf r™Þ‚-r{‚ ytnthðt¤t ntuR™u «týtu™u
+«týtu{tk ntu{u Au. yt W…h fÌtt yu Ëðuo …ý Þ¿tMðY…™u òý™tht-
+Ë{Í™tht Au. y™u Þ¿tÚtes ûteý ÚtR „Þtk Au …t… su{™tk yuðt
+Au. >>30>>
+yæÞtÞ - 4
+
+
+Ÿæè}æjxæ±eè„æ
+20
+²¿æçàæCæ}æë„|æé…æï ²æç‹„ Ïæíræ ¨Ýæ„Ý}æì J
+Ýæ²¢ HæïÜUæïùSy²²¿æS² ÜéU„æïù‹²: ÜéUL¨œæ}æ J31J
+Þ¿t™wk þu»t¼q‚ y{]‚ s{™tht Ë™t‚™ ƒúñ™u-Ëtûtt‚T
+…hƒúñ™u …t{u Au. y™u Þ¿t ™rn fh™tht™u nu fwYË¥t{ ! yt
+÷tuf™wks Ëw¾ ™Úte ‚tu …h÷tuf™wk-sL{tL‚h™wk Ëw¾ ‚tu ntuÞs fÞtkÚte
+? >>31>>
+»±¢ Ïæãéç±{æ ²¿ææ ç±„„æ Ïæíræ‡ææï }æé¶ï J
+ÜU}æü…æç‹±çh „æ‹¨±æüÝï±¢ ¿ææy±æ ç±}ææïÿ²¨ï JJ32JJ
+ytðt ƒnw«fth™t Þ¿ttu ðuŒ™t {w¾{tk-ðuŒîtht rðM‚th …t{u÷t
+Au. ‚u Ëðo Þ¿ttu f{oÚtes rËØ ÚttÞ Au yu{ ‚wk òý ! y™u yu{
+òýe™u-òýðtÚte ‚wk ËkËth™t f{oƒLÄ™Úte {wftR sRþ. >>32>>
+Ÿæï²æ‹ÎíÃ²}æ²æl¿ææÁ¿ææÝ²¿æ: ÐÚ¢„Ð J
+¨±Z ÜU}ææüç¶H¢ Ðæƒü ¿ææÝï ÐçÚ¨}ææŒ²„ï JJ33JJ
+y™u nu …hL‚… ! ÿÔÞÚte rËØ Út‚t Þ¿t fh‚tk ¿tt™Þ¿t yr‚
+©uc Au. fu{ fu nu …tÚto ! Ë½¤wk f{o Ëðo «fthu ¿tt{{tks …rhË{tó
+--1-- ÚtR òÞ Au. >>33>>
+„çmçh Ðíç‡æÐæ„ïÝ ÐçÚÐíàÝïÝ ¨ï±²æ J
+©ÐÎïÿ²ç‹„ „ï ¿ææÝ¢ ¿ææçÝÝS„œ±Î<àæÝ: JJ34JJ
+²Á¿ææy±æ Ý ÐéÝ}ææïüã}æï±¢ ²æS²ç¨ Ðæ‡Ç± J
+²ïÝ |æê„æ‹²àæï¯ï‡æ Îíÿ²S²æy}æ‹²ƒæï }æç² JJ35JJ
+‚¥ðŒþeo ¿tt™e s™tu ‚™u ‚u ¿tt™™tu W…Œuþ fhþu. y™u ‚u ‚wk
+«rý…t‚ fhe™u y™w¢{u ÞÚttË{Þ «&™ …qAðtÚte y™u ‚u
+{nt…wY»ttu™e Ëuðt-þw©q»tt fhðtÚte òýsu.
+fu su ¿tt™™u òýe Ë{Íe™u nu …tkzw…wºt-yswo™ ! ‚wk VheÚte ytðtu
+{tun ™rn …t{u. y™u ð¤e-su ¿tt™™t «¼tðÚte Ëðo ¼q‚tu™u
+Ë{„ú…ýu ytí{MðY…{tk òuRþ y™u ‚u …Ae ‚u ƒÄwkÞ ‚wk {tht{tk
+òuRþ. >>34-35>>
+¥çÐ ™ïÎç¨ ÐæÐï|²: ¨±ïü|²: ÐæÐÜëUœæ}æ: J
+¨±Z ¿ææÝŒH±ïÝñ± ±ëç…Ý¢ ¨¢„çÚc²ç¨ JJ36JJ
+Ëðo …t… fh™thtytu fh‚tk …ý òu ‚wk yrÄf …t… fh™thtu
+ntuRþ, ‚tu …ý ‚u Ëðo …t…Y… Ë{wÿ™u ¿tt™Y… ™tiftÚte ‚wk Ëw¾uÚte
+‚he sRþ. >>36>>
+²ƒñ{æ¢ç¨ ¨ç}æhæïùçxÝ|æüS}æ¨æyÜéUL„ïù…éüÝ J
+¿ææÝæçxÝ: ¨±üÜU}ææüç‡æ |æS}æ¨æyÜéUL„ï „ƒæ JJ37JJ
+nu yswo™ ! Ëthe he‚u «ßðr÷‚ ÚtÞu÷tu yÂø™ su{ ftütu™u
+ƒt¤e™u ¼M{ Y… fhe ŒuAu, ‚us «{týu ËwáZ ÚtÞu÷tu ¿tt™Y…
+yÂø™ Ëðo f{oò¤™u ƒt¤e™u ¼M{Ët‚T fhe Œu Au. >>37>>
+Ý çã ¿ææÝïÝ ¨Îëàæ¢ Ðç±~æç}æã ç±l„ï J
+„yS±²¢ ²æïxæ¨¢ç¨h: ÜUæHïÝæy}æçÝ ç±‹Îç„ JJ38JJ
+yt ÷tuf{tk ¿tt™™u ‚wÕÞ ƒeswk ftuR …ŒtÚto …rðºt Aus ™rn,
+y™u ‚u ðt‚ ft¤u fhe™u Þtu„Úte ËkrËØ ÚtÞu÷tu …wY»t ytí{MðY…{tk
+…tu‚t™e {u¤us òýu Au. >>38>>
+Ÿæhæ±æ¢Ì|æ„ï ¿ææÝ¢ „yÐÚ: ¨¢²„ïç‹Îí²: J
+¿ææÝ¢ HÏŠ±æ ÐÚæ¢ àææç‹„}æç™Úï‡ææç{xæÓÀç„ JJ39JJ
+Ëthe …uXu r™Þ{{tk htÏÞtk Au RrLÿÞtu suýu y™u ©Øtðt™T ÚtR™u
+‚í…h Útftu ð‚o™thtus …wY»t yt ¿tt™™u …t{u Au. y™u yuðt ¿tt™™u
+…t{e™u Úttuzts Ë{Þ{tk …h{-Ëðtuoíf]ü þtÂL‚™u …t{u Au. >>39>>
+¥¿æpæŸæhæÝp ¨¢àæ²æy}ææ ç±Ýà²ç„ J
+Ýæ²¢ HæïÜUæïùçS„ Ý ÐÚæï Ý ¨é¶¢ ¨¢àæ²æy}æÝ:J40J
+ytðt ¿tt™ rËðtÞ™tu, „wY y™u þt†ðtõÞ{tk ©Øt rð™t™tu
+y™u ‚uÚtes ËkþÞu Þwõ‚ {™ðt¤tu …wY»t ™tþ …t{u Au. y™u ËkþÞu
+Þwõ‚ {™ðt¤t …wY»t™u yt ÷tufuÞ ™Úte  y™u …h÷tufuÞ ™Úte, ‚u{
+‚u™u fÞtkR Ëw¾ …ý ™Útes. >>40>>
+²æïxæ¨¢‹²S„ÜU}ææü‡æ¢ ¿ææÝ¨¢çÀóæ¨¢àæ²}æì J
+¥æy}æ±‹„¢ Ý ÜU}ææüç‡æ çÝÏæŠÝç‹„ {Ý¢…² JJ41JJ
+Þtu„Úte-f{oÞtu„Úte …h{uïh{tk suýu …tu‚t™tk Ë½¤tk f{o
+y…oý fhu÷tk Au y™u ‚¥ð¿tt™Úte Ë{q¤ AuŒtR „Þu÷t Au ËkþÞtu
+su™t yuðt ytí{¿tt™e™u nu Ä™kßÞ? f{o ƒLÄ™ fh‚tk ™Úte. >>41>>
+yæÞtÞ - 4
+
+
+Ÿæè}æjxæ±eè„æ
+21
+„S}ææÎ¿ææÝ¨¢|æê„¢ NySƒ¢ ¿ææÝæç¨Ýæy}æÝ: J
+çÀœ±ñÝ¢ ¨¢àæ²¢ ²æïxæ}ææç„DæïçœæD |ææÚ„ JJ42JJ
+{txu nu ¼th‚ ! y¿tt™Útes Ë{wKð …t{u÷t {™{tk hnu÷t
+yu ËkþÞ™u ¿tt™Y… ‚÷ðthÚte ‚wk ‚the …tu‚t™e {u¤us AuŒe ™t¾e™u
+f{oÞtu„™tu yt©Þ fh ! y™u ÞwØ {txu WX-‚iÞth ÚtR ò ! >>42>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢ ²æïxæàææ›ï
+ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï ¿ææÝÜU}æü¨¢‹²æ¨²æïxææï Ýæ}æ ™„éƒæïüùŠ²æ²: JJ4JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk Þtu„þtMºtu
+©ef]»ýtòow™ËkðtŒu f{oËkLÞtËÞtu„tu ™t{ [‚wÚttuoàæÞtÞ: >>4>>
+
+## ¥ƒ Ð@}ææïùŠ²æ²:
+
+¥…éüÝ ©±æ™ J
+¨¢‹²æ¨¢ ÜU}æü‡ææ¢ ÜëUc‡æ ÐéÝ²æïüxæ¢ ™ àæ¢¨ç¨ J
+²ÓÀîï² »„²æïÚïÜ¢U „‹}æï Ïæíêçã ¨éçÝçp„}æì JJ1JJ
+yswo™ …qAu Au = nu f]»ý ! yuf ðth f{o™tu Ë{q¤„tu íÞt„
+fhðt™wk fntu Atu, ð¤e-VheÚte …tAt f{o fhðtks yu{ f{oÞtu„
+…ý fntu Atu. ‚tu yu ƒu{tkÚte su ©uc {t„o ntuÞ ‚u {™u Ëwr™Âù‚…ýu
+fntu ! >>1>>          Ÿæè |æxæ±æÝé±æ™ J
+¨¢‹²æ¨: ÜU}æü²æïxæp çÝ:Ÿæï²¨ÜUÚæ±é|ææñ J
+„²æïS„é ÜU}æü¨¢‹²æ¨æyÜU}æü²æïxææï ç±çàæc²„ï JJ2JJ
+©e ¼„ðt™ fnu Au = f{oËkLÞtË y™u f{oÞtu„ yu ƒÒtuÞ
+r™Âù‚…ýu ©uÞ™us fh™tht Au, ‚tu …ý ‚u ƒu{tkÚte f{oËkLÞtË
+fh‚tkÞ f{oÞtu„ rðþu»t…ýu [ZeÞt‚tu Au. >>2>>
+¿æï²: ¨ çÝy²¨¢‹²æ¨è ²æï Ý mïçC Ý ÜUæÑìÿæç„J
+çÝmü‹mæï çã }æãæÏææãæï ¨é¶¢ Ïæ‹{æyÐí}æéÓ²„ï JJ3JJ
+su fþtÞ™tu îu»t ™Úte fh‚tu ‚u{ fþtÞ™e RåAt …ý ™Úte
+fh‚tu, ‚u …wY»ts r™íÞËkLÞtËe Au yu{ ‚u™u òýðtu. y™u nu
+{ntƒtntu ! yswo™ ! þtuf-{tunrŒf îLîtuÚte hrn‚ ÚtÞu÷tus yt
+ËkËth™t ƒLÄ™Úte Ëw¾uÚte-Ënu÷tRÚte {wftR òÞ Au. >>3>>
+¨æ¢w²²æïxææñ ÐëƒxÏææHæ: Ðí±Îç‹„ Ý Ðç‡Ç„æ: J
+»ÜU}æŒ²æçSƒ„: ¨}²xæé|æ²æï<±‹Î„ï ÈUH}æì JJ4JJ
+ð¤e ËtkÏÞ-{t„o y™u Þtu„-{t„o yu ƒÒtu sqŒt Au yu{ ‚tu
+{q¾toytus fnu Au, …ý ftkR …krz‚tu yu{ fnu‚t ™Úte, fu{ fu - yu
+ƒu{tkÚte yuf™u …ý Ëthe he‚u ytþhu÷tu {týË ƒÒtu™t V¤™u …t{u
+Au. >>4>>
+²y¨æ¢w²ñ: ÐíæŒ²„ï SƒæÝ¢ „læïxæñÚçÐ xæ}²„ï J
+»Ü¢U ¨æ¢w²¢ ™ ²æïxæ¢ ™ ²: Ðà²ç„ ¨ Ðà²ç„ J5J
+su MÚtt™ ËtkÏÞ - {t„eoytu ËtkÏÞÚte …t{u Au, ‚us MÚtt™
+f{oÞtu„eytu Þtu„Úte …ý …t{u Au. {txu yu he‚u ËtÏÞ y™u Þtu„
+yu ƒÒtu™u su yufY…us swyu Au ‚uýus ¾Yk ‚¥ð òuÞwk yu{ fnuðtÞ.
+yÚtto‚T ‚u™wks Ë{Íðwk ¾Yk Au. >>5>>
+¨ó²æ¨S„é }æãæÏææãæï Îé:¶}ææ#é}æ²æïxæ„: J
+²æïxæ²éQUæï }æéçÝÏæíüræ Ýç™Úï‡ææç{xæÓÀç„ JJ6JJ
+nu {ntƒtntu ! ËkLÞtË ‚tu f{oÞtu„ rMtðtÞ ½ýt f÷uþÚte …ý
+…t{ðtu yþõÞ Au. y™u f{oÞtu„ fh™thtu {™™þe÷ W…tËf …wY»t
+ƒúñ™u ƒnws Íz…Úte yÕ… Ë{Þ{tk …t{u Au-…ntU[e òÞ Au. >>6>>
+²æïxæ²éQUæï ç±àæéhæy}ææ ç±ç…„æy}ææ ç…„ïç‹Îí²: J
+¨±ü|æê„æy}æ|æê„æy}ææ ÜéU±üóæçÐ Ý çHŒ²„ï JJ7JJ
+su f{oÞtu„{tk òuztÞu÷tu Au, …tu‚t™wk {™ y™u RrLÿÞtu …ý suýu
+ËðoÚtt S‚u÷tk Au y™u Ëðo ¼q‚-«týe{tºt™t ytí{t-yL‚Þto{e
+…h{tí{t ‚us …tu‚t™t ytí{t-yL‚Þto{e Au yu{ su y™w¼ðu Au.
+‚u …wY»t f{o fhðt A‚tk …ý ÷u…t‚tu-ƒLÄt‚tu ™Úte. >>7>>
+Ýñ± ôÜUç™yÜUÚæï}æèç„ ²éQUæï }æ‹²ï„ „œ±ç±„ì J
+Ðà²†àæë‡±‹SÐëàæçTæÍæíóæàÝ‹xæÓÀ‹S±Ð†E¨Ýì J8J
+ÐíHÐç‹±¨ë…‹xæëØóæéç‹}æ¯çóæç}æ¯óæçÐ   J
+§ç‹Îí²æ‡æèç‹Îí²æƒïü¯é ±„ü‹„ §ç„ {æÚ²Ýì JJ9JJ
+f{oÞtu„e ‚¥ððu¥tt …wY»tu ‘nwk ftkR fh‚tus ™Úte,’ yu{ {t™ðwk-
+Ë{Íðwk. y™u …tu‚u òu‚tk, Ëtk¼¤‚tk, M…þo fh‚tk, Ëqk½‚tk, ¾t‚tk,
+[t÷‚tk, ôÄ‚tk, ïtË ÷u‚tk y™u {wf‚tk, ƒtu÷‚tk, {¤{qºttrŒf™tu
+yæÞtÞ - 5
+
+
+Ÿæè}æjxæ±eè„æ
+22
+WíË„o fh‚tk, „úný fh‚tk, ™uºt W½tz‚tk y™u {ª[‚tk …ý,
+RrLÿÞtu …tu‚-…tu‚t™t rð»tÞtu{tk yt…tu-yt…s «ð‚uo Au yu{ Äthe™u
+ËŒtÞ yËk„…ýu hnuðwk. >>8-9>>
+Ïæíræ‡²æ{æ² ÜU}ææüç‡æ ¨X¢ y²vy±æ ÜUÚæïç„²: J
+çHŒ²„ï Ý ¨ ÐæÐïÝ ÐkÐ~æç}æ±æ}|æ¨æ JJ10JJ
+su …wY»t Ëðo f{tuo ƒúñ{tk y…oý fhe™u V¤tËÂõ‚ Atuze ŒR™u
+fÞto fhu Au, ‚tu ‚u …wY»t su{ s¤Úte f{¤…ºt y÷„ hnu Au, ‚u{
+…t…-…wÛÞY… f{oÚte …tu‚u ÷u…t‚tu ™Úte. >>10>>
+ÜUæ²ïÝ }æÝ¨æ Ïæéhì²æ ÜïU±HñçÚç‹Îí²ñÚçÐ J
+²æïçxæÝ: ÜU}æü ÜéU±üç‹„ ¨X¢ y²vy±æy}æàæéh²ï JJ11JJ
+{txus f{oÞtu„eytu þhehÚte, {™Úte, ƒwÂØÚte y™u yuf÷e
+RrLÿÞtuÚte …ý ytí{þwÂØ™u {txu V¤tËÂõ‚ ‚Útt yr¼{t™ Atuze
+ŒR™u f{o fÞto fhu Au. >>11>>
+²éQU: ÜU}æüÈUH¢ y²vy±æ àææç‹„}ææŒÝæïç„ ÝñçDÜUè}æìJ
+¥²éQU: ÜUæ}æÜUæÚï‡æ ÈUHï ¨QUæï çÝÏæŠ²„ï JJ12JJ
+f{oÞtu„e ¿tt™e …wY»t f{oV¤™u Atuze ŒR™u ™iÂcfe-þtï‚
+þtÂL‚™u …t{u Au. y™u yÞwõ‚-yýË{Íw Au ‚u ‚tu ðtË™tÞtu„u
+fhe™u «uhtÞtu Útftu V¤{tk ytËõ‚ ÚtR™u ƒkÄtR òÞ Au. >>12>>
+¨±üÜU‡ææüç‡æ }æÝ¨æ ¨¢‹²S²æS„ï ¨é¶¢ ±àæè J
+Ý±mæÚï ÐéÚï Îïãè Ýñ± ÜéU±üóæ ÜUæÚ²Ýì JJ13JJ
+ðþurLÿÞ …wY»t Ëðo f{o™tu {™Úte ËkLÞtË-íÞt„ fhe™u ™tf-
+ft™ rð„uhu ™ð îthðt¤t yt ftÞt™„h{tk ftkR …ý ™rn fh‚tu,
+fu ™rn ftkR fhtð‚tu-«uh‚tu Útftu yt™LŒÚte ð‚uo Au. >>13>>
+Ý ÜU„ëüy±¢ Ý ÜU}ææüç‡æ HæïÜUS² ¨ë…ç„ Ðí|æé: J
+Ý ÜU}æüÈUH¨¢²æïxæ¢ S±|ææ±S„é Ðí±„ü„ï JJ14JJ
+S‚urLÿÞ Ë{Úto Þtu„e …wY»t ÷tuf™wk–Œuð{™w»ÞtrŒfY…u Wí…Òt
+Út™tht Sð÷tuf™wk f‚]oíð y™u f{o ‚u™u ™Úte Ëso‚tu, ‚u{s
+f{oV¤™t ËkÞtu„™u …ý ™Úte Ëso‚tu, …ý Mð¼tð-su «f]r‚
+‚u™tÚtes yt ƒÄwk «ð‚uo Au. >>14>>
+ÝæÎœæï ÜUS²ç™yÐæÐ¢ Ý ™ñ± ¨éÜëU„¢ ç±|æé: J
+¥¿ææÝïÝæ±ë„¢ ¿ææÝ¢ „ïÝ }æésç‹„ …‹„±: JJ15JJ
+y™u ytí{t ‚tu rð¼w Au, {txu Œuð-{™w»ÞtrŒf ftuR …ý
+þhehf]‚ …t… fu …wÛÞ™u „úný fh‚tus ™Úte. y™u …h{tí{-
+MðY…™u ™rn òýðwk yu Y… y¿tt™Úte ytí{t™wk Ä{o¼q‚ ¿tt™
+ytðhR „Þu÷wk ntuðtÚtes «týeytu yt ËkË]r‚{tk {tunÚte VËtÞt
+fhu Au. >>15>>
+¿ææÝïÝ „é „Î¿ææÝ¢ ²ï¯æ¢ Ýæçàæ„}ææy}æÝ: J
+„ï¯æ}ææçÎy²±Á¿ææÝ¢ ÐíÜUæàæ²ç„ „yÐÚ}æì JJ16JJ
+ßÞthu yu …h{tí{MðY…™t ¿tt™u fhe™u su{™wk ‚u y™trŒ
+y¿tt™ ™tþ fhe ™tÏÞwk Au, ‚u{™us ‚u ytí{MðY…™wk ¿tt™ y™u
+…h{tí{MðY…™wk …h{ ¿tt™ ËqÞo™e {tVf «ftþu Au. >>16>>
+„iéh²S„Îæy}ææÝS„çóæDæS„yÐÚæ²‡ææ: J
+xæÓÀ‹y²ÐéÝÚæ±ëôœæ ¿ææÝçÝ{êü„ÜUË}æ¯æ: JJ17JJ
+‚u …h{tí{MðY…{tk su{™e ƒwÂØ y™u {™ ÂMÚth ÚtÞu÷tk Au,
+‚u{tks su áZ r™ctðt¤t Au y™u ‚í…htÞý-‚Œuf…h ð‚o™tht
+Au. ‚tu ‚uðt W…tË™Y… ¿tt™Úte su{™tk fÕ{»t Ë{q¤ ™tþ …t{e
+„Þtk Au ‚u …wY»ttus …w™htð]Â¥tðSo‚ …h{ Ät{™u …t{u Au. >>17>>
+ç±læç±Ý²¨¢Ðóæï Ïæíæræ‡æï xæç± ãçS„çÝ J
+àæéçÝ ™ñ± EÐæÜïU ™ Ðç‡Ç„æ: ¨}æÎ<àæÝ: JJ18JJ
+y™u ‚uðt …krz‚tu-¿tt™e ¼f‚tu rðãt y™u rð™ÞtrŒfÚte ËB…Òt,
+ƒútñý, „tÞ, ntÚte, ït™ y™u ï…tf òr‚™t {týË{tk …ý
+Ë{áÂüðt¤ts ntuÞ Au. >>18>>
+§ãñ± „ñ<…„: ¨xææïü ²ï¯æ¢ ¨æ}²ï çSƒ„¢ }æÝ: J
+çÝÎæïü¯¢ çã ¨}æ¢ Ïæíræ „S}ææiræç‡æ „ï çSƒ„æ: JJ19JJ
+su{™wk {™ ytðt Ë{-¼tð{tk ÂMÚth ÚtÞu÷wk Au ‚uytuyu ‚tu yt
+sL{{tks {tÞt™tu Ë„o S‚e ÷tÄtu Au. fthý fu ƒúñ-…hƒúñ
+r™Œtuo»t y™u Ë{ Au, ‚uÚte ‚u Ë{áÂüðt¤t ƒúñ{tks ÂMÚt‚ ð‚uo
+Au. >>19>>
+yæÞtÞ - 5
+
+
+Ÿæè}æjxæ±eè„æ
+23
+Ý ÐíNc²ïçyÐí²¢ ÐíæŒ² Ýæïçm…ïyÐíæŒ² ™æçÐí²}æì J
+çSƒÚÏæéçhÚ¨¢}æêÉæï Ïæíræç±Îì Ïæíræç‡æ çSƒ„: JJ20JJ
+{™„{‚e r«Þ ðM‚w …t{e™u ™Úte n»to …t{‚tu, fu yr«Þ-
+yý„{‚e ðM‚w …t{e™u ™Úte Wîu„ …t{‚tu, ytðtu ÂMÚth ƒwÂØðt¤tu
+yËB{qZ ƒúñrðŒT …wY»t …hƒúñ{tk ÂMÚth Au. yu{ òýðwk. >>20>>
+ÏææræSÐàæïüc±¨QUæy}ææ ç±‹Îy²æy}æçÝ ²y¨é¶}æìJ
+¨ Ïæíræ²æïxæ²éQUæy}ææ ¨é¶}æÿæ²}æàÝé„ï JJ21JJ
+ƒtÌt rð»tÞtu™t M…þo{tk-Ëw¾tMðtŒ{tk ytËÂõ‚yu hrn‚
+{™ðt¤tu su …wY»t ytí{MðY…{tk hnu÷t …h{tí{MðY…™t Ëw¾™tu
+y™w¼ð fhu Au, ‚u …wY»ts ƒúñMðY…{tk Þtu„Þwõ‚-ÂMÚth {™
+fhðtÚte yûtÞ Ëw¾™u …t{u Au. >>21>>
+²ï çã ¨¢SÐàæü…æ |ææïxææ Îé:¶²æïÝ² »± „ï J
+¥ælæ‹„±‹„: ÜUæñ‹„ï² Ý „ï¯é Ú}æ„ï Ïæé{: JJ22JJ
+rð»tÞtu™t ËkË„osLÞ su ¼tu„rð÷tË Au, ‚u ¾hu¾h Œw:¾™ts
+fthý¼q‚ Au. y™u ‚u …ý ytrŒ-yL‚ðt¤t ntuðtÚte nu ftiL‚uÞ !
+ztÌtt-ƒwÂØ{t™ {™w»Þtu ‚u{tk h{‚t ™Úte. >>22>>
+àævÝæï„èãñ± ²: ¨æïÉé¢ ÐíævàæÚèÚç±}ææïÿæ‡ææ„ì J
+ÜUæ}æRUæï{æïj±¢ ±ïxæ¢ ¨ ²éQU: ¨ ¨é¶è ÝÚ: JJ23JJ
+su …wY»t yt sL{{tks þheh Aqx‚t …nu÷tk ft{-¢tuÄtrŒf™t
+ðu„™u Ën™ fhðt þÂõ‚{t™ ÚttÞ Au, ‚u …wY»ts {tuût™u ÷tÞf
+Au. y™u yus …h{ Ëw¾e Au. >>23>>
+²æïù‹„:¨é¶æïù‹„ÚæÚæ}æS„ƒæ‹„Á²æïüç„Úï± ²: J
+¨ ²æïxæè ÏæíræçÝ±æü‡æ¢ Ïæíræ|æê„æïùç{xæÓÀç„ JJ24JJ
+su yL‚htí{t{tks Ëw¾e Au, yL‚htí{t{tks ytht{ fh™thtu
+Au ‚Útt su™u yL‚h{tk Mð-…hMðY…™tu «ftþ ÚtÞu÷tu Au, ‚u ƒúñY…
+ÚtÞu÷tu Þtu„e ƒúñr™ðtoý™u …t{u Au. >>24>>
+H|æ‹„ï ÏæíræçÝ±æü‡æ}æë¯²: ÿæè‡æÜUË}æ¯æ: J
+çÀóæmñ{æ ²„æy}ææÝ: ¨±ü|æê„çã„ï Ú„æ: JJ25JJ
+suytu™tk …t… ËðoÚtt ûteý-™ü«tÞ ÚtR „Þtk Au. þtuf-{tuntrŒf
+‚Útt Mð-…h™tu ¼uŒ¼tð su{™u AuŒtR „Þtu Au, su{™wk {™ ËðoÚtt
+r™Þ{{tk hnu÷wk Au. y™u suytu Ëðo ¼q‚-«týe{tºt™t rn‚{tks
+‚í…h ÚtR™u òuztÞu÷t Au, ‚uðt ytí{Œþeo …wY»ttus ƒúñr™ðtoý-
+ƒúñËtûttífthsLÞ …h{ þtÂL‚™u …t{u Au. >>25>>
+ÜUæ}ææRUæï{ç±²éQUæÝæ¢ ²„èÝæ¢ ²„™ï„¨æ}æì J
+¥ç|æ„æï ÏæíræçÝ±æü‡æ¢ ±„ü„ï ç±çÎ„æy}æÝæ}æì JJ26JJ
+‚u{s ft{ ¢tuÄtrŒfÚte hrn‚ ÚtÞu÷t, su{™wk r[¥t …ý ËwËkÞ‚
+Au y™u ytí{‚¥ð …ý su{ýu òýe ÷eÄwk Au. yuðt «Þí™þe÷
+…wY»ttu™us ƒúñr™ðtoý Ëðo «fthu ËŒtÞ Ë{e…{tks ð‚uoAu. >>26>>
+SÐàææü‹ÜëUy±æ ÏæçãÏææüsæ¢pÿæépñ±æ‹„Úï |æíé±æï: J
+Ðíæ‡ææÐæÝæñ ¨}ææñ ÜëUy±æ Ýæ¨æ|²‹„Ú™æçÚ‡ææñ JJ27JJ
+²„ïç‹Îí²}æÝæïÏæéçh}æéüçÝ}ææïüÿæÐÚæ²‡æ: J
+ç±xæ„ïÓÀæ|æ²RUæï{æï ²: ¨Îæ }æéQU »± ¨: JJ28JJ
+ƒnth™t rð»tÞtu™u ƒnth-Œqh fhe™u, áÂü ¼úfwrx™t {æÞ-
+¼t„{tks ht¾e™u, ™trËft{t„uo „{™ fh‚t «tý-y…t™ ðtÞw™u
+Ë{t™ „r‚ðt¤t fhe™u, RrLÿÞtu, {™ y™u ƒwÂØ™u r™Þ{{tk
+ht¾e™u su RåAt, ¼Þ y™u ¢tuÄtrŒf rðfthÚte hrn‚ ÚtR™u
+{tuût…htÞý ð‚o™thtu {wr™ Au, ‚u ËŒtÞ ŒunŒþt{tk …ý {wõ‚s-
+{wõ‚«tÞs Au. >>27-28>>
+|ææïQUæÚ¢ ²¿æ„Ð¨æ¢ ¨±üHæïÜU}æãïEÚ}æì J
+¨éNÎ¢ ¨±ü|æê„æÝæ¢ ¿ææy±æ }ææ¢ àææç‹„}æëÓÀç„ JJ29JJ
+Þ¿t y™u ‚… rð„uhu™tk V¤™u ¼tu„ð™th, Ëðo ÷tuf™tu {nuïh-
+…h{ r™Þt{f y™u Ëðo¼q‚-«týe{tºt™tu …h{ ËwÓŒT yuðtu su nwk ‚u
+{™u òýe™u W…tËe™u …h{ þtï‚ þtÂL‚™u …t{u Au. >>29>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢ ²æïxæàææ›ï
+ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï ÜU}æü¨¢‹²æ¨²æïxææï Ýæ}æ Ð@}ææïùŠ²æ²: JJ5JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk Þtu„þtMºtu
+©ef]»ýtòow™ËkðtŒu ËkLÞtËÞtu„tu ™t{ …k[{tuàæÞtÞ: >>5>>
+yæÞtÞ - 5
+
+
+Ÿæè}æjxæ±eè„æ
+1
+Ÿæè}æjxæ±eè„æ
+(¥ƒü ¨çã„)
+-: «ftþf :-
+©eMðtr{™thtÞý
+{krŒh ¼ws - fåA.
+Ëkð‚T 2062 …tu»tËwŒ 2
+Ë™u. 2005 ‚t. 1-1-06
+yæÞtÞ - 6
+yæÞtÞ 6 Úte 11
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒ ¯DæïùŠ²æ²:
+
+Ÿæè|æxæ±æÝé±æ™ J
+¥ÝæçŸæ„: ÜU}æüÈUH¢ ÜUæ²Z ÜU}æü ÜUÚæïç„ ²: J
+¨ ¨¢‹²æ¨è ™ ²æïxæè ™ Ý çÝÚçxÝÝü ™æçRU²: JJ1JJ
+©e ¼„ðt™ fnu Au = f{oV¤™tu yt©Þ-WŒuþ ™rn ht¾‚tk
+þt†rðrn‚ fhðt ÞtuøÞ f{o™u su fÞto fhu Au, ‚us ¾htu ËkLÞtËe
+y™u ‚us ¾htu Þtu„e Au. …ý yÂø™ntuºttrŒf f{o Atuze Œu™th, y„h
+r¢Þt{tºt Atuze Œu™th, ËkLÞtËe fu Þtu„e fnuðt‚tus ™Úte >>1>>
+²¢ ¨¢‹²æ¨ç}æç„ Ðíæãé²æïüxæ¢ „¢ ç±çh Ðæ‡Ç± J
+Ý s¨¢‹²S„¨¢ÜUËÐæï ²æïxæè |æ±ç„ ÜUpÝ JJ2JJ
+nu …tkzð ! su™u ËkLÞtË fnu Au, ‚u™u s Þtu„ yu{ òý ! y™u
+ËkfÕ…{tºt™tu Ë{q¤„tu íÞt„ fÞto rËðtÞ ftuR …ý Þtu„e yux÷u-
+f{oÞtu„e ÚtR þf‚tu ™Úte. >>2>>
+¥æLLÿææï}æéüÝï²æïüxæ¢ ÜU}æü ÜUæÚ‡æ}æéÓ²„ï J
+²æïxææMÉS² „S²ñ± àæ}æ: ÜUæÚ‡æÝéÓ²„ï JJ3JJ
+Þtu„{t„o{tk ðÄðt™u {txu RåA‚t {wr™™u f{oÞtu„ yus fthý
+Au. y™u Þtu„tYZ-Þtu„rËØ ÚtÞu÷t ‚us Þtu„e™u ‚u{tk þ{ yu fthý
+Au. >>3>>
+²Îæ çã Ýïç‹Îí²æƒïü¯é Ý ÜU}æüS±Ýé¯Á…„ï J
+¨±ü¨¢ÜUËÐ¨¢‹²æ¨è ²æïxææMÉS„ÎæïÓ²„ï JJ4JJ
+ßÞthu RrLÿÞtu™t yÚttuo{tk-rð»tÞtu{tk ‚u{s ‚u rð»tÞtu™tk
+ËtÄ™¼q‚ f{tuo{tk, ™Úte òuzt‚tu, y™u Ëðo ËkfÕ…tu™tu Ë{q¤„tu
+íÞt„ fhe ŒuAu. íÞthu ‚u Þtu„tYZ yu{ fnuðtÞ Au. >>4>>
+©hÚïÎæy}æÝæy}ææÝ¢ Ýæy}ææÝ}æ±¨æÎ²ï„ì J
+¥æy}æñ± sæy}æÝæï Ïæ‹{éÚæy}æñ± çÚÐéÚæy}æÝ: JJ5JJ
+{™w»Þ rððufu Þwõ‚ S‚u÷t {™Úte ytí{t™tu WØth fhu, …ý
+ytí{t™tu yÄ:…t‚ ™ Útðt Œu. fthý fu S‚u÷wk {™ s ytí{t™tu
+ƒLÄw-rn‚fthf Au, y™u ™rn ðþ fhu÷wk {™ s ytí{t™tu-…tu‚t™tu
+þºtw Au. >>5>>
+Ïæ‹{éÚæy}ææy}æÝS„S² ²ïÝæy}æñ±æy}æÝæ ç…„: J
+¥Ýæy}æ}æS„é àæ~æéy±ï ±„ïü„æy}æñ± àæ~æé±„ì JJ6JJ
+suýu …tu‚t™e rððufðt¤e ƒwÂØÚte …tu‚t™wk {™ SíÞwk Au
+‚u ytí{t™tu ƒLÄw ‚u S‚u÷wk {™ s Au. y™u su™u …tu‚t™wk
+{™ ðþ{tk ™Úte ‚u™u ‚tu ‚u {™ s yÄ:…t‚ fh™tYk þºtw™e
+{tVf ð‚uo Au. >>6>>
+
+
+Ÿæè}æjxæ±eè„æ
+2
+yæÞtÞ - 6
+ç…„æy}æÝ: Ðíàææ‹„S² ÐÚ}ææy}ææ ¨}ææçã„: J
+àæè„æïc‡æ¨é¶Îé:¶ï¯é „ƒæ }ææÝæÐ}ææÝ²æï: JJ7JJ
+suýu …tu‚t™wk {™ SíÞwk Au y™u su ËðoÚtt þtL‚ ÚtÞu÷tu Au. ‚u
+…wY»t™u þe‚-W»ý, Ëw¾-Œw:¾, ‚Útt {t™-y…{t™, yu Ëðo
+Ë{Þ{tk …tu‚t™tu ©uc-þwØ ytí{t Ë{tÄt™ …t{u÷tu ÂMÚth¼tðu
+ð‚uo Au. >>7>>
+¿ææÝç±¿ææÝ„ë#æy}ææ ÜêUÅSƒæï ç±ç…„ïç‹Îí²: J
+²éQU §y²éÓ²„ï ²æïxæè ¨}æHæïCæà}æÜUæ@Ý: JJ8JJ
+¿tt™-rð¿tt™Úte ËŒtÞ ‚]ó-Ëk‚wü ytí{t su™tu Au. y™u ‚uÚtes
+fqxMÚt-r™Šðfth y™u ËðoÚtt SíÞtk Au RrLÿÞtu suýu y™u ‚uÚtes
+f[htu, …t»ttý y™u f™f{tk …ý su™u Ë{¼tð ð‚uo Au, ‚us ¾htu
+ÞtuøÞ‚tðt¤tu Þtu„e fnuðtÞ Au.>>8>>
+¨éNç‹}æ~ææ²éüÎæ¨èÝ}æŠ²Sƒmïc²Ïæ‹{é¯é J
+¨æ{éc±çÐ ™ ÐæÐï¯é ¨}æÏæéçh<±àæéc²„ï JJ9JJ
+ËwÓŒT, r{ºt, þºtw, WŒtËe™, {æÞMÚt, îu»t fhðt ÞtuøÞ s™tu{tk,
+ƒLÄw s™tu{tk, y™u ËtÄw s™tu{tk, ‚u{s …t…e s™tu{tk …ý, Ë{t™
+ƒwÂØ ht¾™thtus rðþu»t-©uc {™tÞ Au. >>9>>
+²æïxæè ²éTè„ ¨„„}ææy}ææÝ¢ Úãç¨ çSƒ„: J
+»ÜUæÜUè ²„ç™œææy}ææ çÝÚæàæèÚÐçÚxæíã: JJ10JJ
+Þtu„ ËtÄ™th Þtu„es™ yuftL‚ MÚtt™{tk yuf÷t hne™u, r[¥t
+y™u ytí{t-yL‚:fhý™u r™Þ{{tk ht¾e™u, Ë½¤e RåAtytu
+Atuze ŒR™u y…rh„ún hne™u ytí{t™u …h{tí{MðY…{tk y¾kz
+òuzu-Ëk÷ø™ fhu. >>10>>
+àæé™æñ Îïàæï Ðíç„DæŒ² çSƒÚ}ææ¨Ý}ææy}æÝ: J
+Ýæy²éçÓÀî„¢ Ýæç„Ýè™¢ ™ñHæç…ÝÜéUàææïœæÚ}æì JJ11JJ
+„~æñÜUæxæí¢ }æÝ: ÜëUy±æ ²„ç™œæïç‹Îí²çRU²: J
+©Ðç±à²æ¨Ýï ²é†Á²ælæïxæ}ææy}æç±àæéh²ï JJ12JJ
+ƒnw ô[wk ™rn ‚u{ ƒnw ™e[wk …ý ™rn yuðwk Œ¼o, {]„[{o y™u
+ð†, ‚u yuf ƒeò™e W…h ht¾e™u, ‚uðwk …tu‚t™wk ÂMÚth ytË™
+…rðºt søÞt{tk MÚtt…™ fhe™u.
+‚u ytË™ W…h ƒuËe™u {™™u …h{tí{MðY…{tk yuft„ú fhe™u
+r[¥t y™u RrLÿÞtu™t ÔÞt…th™u ftƒw{tk fhe™u ytí{MðY…™e
+rðþwÂØ {txu Þtu„tÇÞtË fhu. >>11-12>>
+¨}æ¢ ÜUæ²çàæÚæïxæíè±¢ {æÚ²óæ™H¢ çSƒÚ: J
+¨¢Ðíïÿ² Ýæç¨ÜUæxæí¢ S±¢ çÎàæpæÝ±HæïÜU²Ýì JJ13JJ
+Ðíàææ‹„æy}ææ ç±xæ„|æèÏæíüræ™æçÚ±í„ï çSƒ„: J
+}æÝ: ¨¢²}² }æçÓ™œææï ²éQU ¥æ¨è„ }æyÐÚ: JJ14JJ
+þheh™tu {æÞ ¼t„, {M‚f y™u „úeðt yu yk„tu™u ËeÄtk,
+Ëh¾tk y™u r™ù¤ ht¾e™u, …tu‚u ÂMÚth ÚtR™u, ytË-…tË rŒþtytu
+…ý ™rn òu‚tk …tu‚t™e ™trËft™t y„ú-Ët{wks òuR hne™u. >
+y™u …tu‚t™t {™™u ËðoÚtt þtL‚ ht¾e™u, x¤e „Þtu Au ¼Þ
+su™u, ƒúñ[the Ä{o{tk áZ hne™u, {™™tu ËkÞ{ fhe™u, {tht{tks
+r[¥t ht¾e™u, {í…htÞý ÚtR™u, ËtðÄt™ Útftu Þtu„tÇÞtË fhðt
+ƒuËu-ð‚uo. >>13-14>>
+²éTóæï±¢ ¨Îæy}ææÝ¢ ²æïxæè çÝ²„}ææÝ¨: J
+àææô‹„ çÝ±æü‡æÐÚ}ææ¢ }æy¨¢Sƒæ}æç{xæÓÀç„ JJ15JJ
+yt «{týu …tu‚t™tu Þtu„tÇÞtË ËŒtÞ fÞto fh™thtu Þtu„e
+…tu‚t™t {™™u ðþ{tk fhe™u r™ðtoý«Ät™ yuðe {tht MðY…{tk
+hnu÷e …h{ þtÂL‚ …t{u Au. >>15>>
+Ýæy²àÝ„S„é ²æïxææïùçS„ Ý ™ñÜUæ‹„}æÝàÝ„: J
+Ý ™æç„ S±ŒÝàæèHS² …æxæí„æï Ýñ± ™æ…éüÝ JJ16JJ
+²éQUæãæÚç±ãæÚS² ²éQU™ïCS² ÜU}æü¨é J
+²éQUS±ŒÝæ±Ïææï{S² ²æïxææï |æ±ç„ Îé:¶ãæ JJ17JJ
+yt Þtu„ ƒnw ¾t™th™u rËØ Út‚tu ™Úte, ‚u{s {wv÷ ™rn
+¾t™th™u …ý ™Úte Út‚tu. nu yswo™ yr‚ ô½ðt™t Mð¼tðt¤t™u
+…ý ™rn, ‚u{ ËðoÚtt ò„™th™u …ý  ™rns. >
+…ý ytnth-rðnth ÞtuøÞ-«{týËh fh™th™u, ‚Útt r¢Þtytu
+…ý ÞtuøÞ «{tý{tks fh™th™u, ‚u{s ô½ðwk
+
+
+Ÿæè}æjxæ±eè„æ
+3
+yæÞtÞ - 6
+y™u ò„ðwk ‚u …ý su™wk ÞtuøÞ r™Þ{Ëhs Au, ‚uðt r™Þr{‚ ËkÞ{e
+…wY»t™us yt Œw:¾™u ný™thtu Þtu„ rËØ ÚttÞ Au. >>16-17>>
+²Îæ ç±çÝ²„¢ ç™œæ}ææy}æ‹²ï±æ±ç„D„ï J
+çÝ:SÐëã: ¨±üÜUæ}æï|²æï ²éQU §y²éÓ²„ï „Îæ JJ18JJ
+rðþu»t…ýu r™Þ{{tk fhu÷wk {™ ßÞthu ytí{MðY…{tks ÂMÚth
+ÚtR™u hnu Au. y™u Ëðo ft{™tytuÚte hrn‚ ÚtR òÞ Au, íÞthus ‚u
+Þtu„e …h{tí{tu…tË™{tk Þwõ‚-ÞtuøÞ‚tðt¤tu fnuðtÞ Au. >>18>>
+²ƒæ ÎèÐæï çÝ±æ„Sƒæï ‹æïX„ï ¨æïÐ}ææ S}æë„æ J
+²æïçxæÝæï ²„ç™œæS² ²éT„æï ²æïxæ}ææy}æÝ: JJ19JJ
+ðtÞw rð™t™t «Œuþ{tk hnu÷tu Œe…f su{ ™rn fk…‚t- ÂMÚth
+hnuAu, ‚u Œe…™e W…{t, r[¥t™u r™Þ{{tk fhe™u Þtu„tÇÞtË fh™th
+Þtu„e™t {™™u fnu÷e Au. >>19>>
+²~ææïÐÚ}æ„ï ç™œæ¢ çÝLh¢ ²æïxæ¨ï±²æ J
+²~æ ™ñ±æy}æÝæy}ææÝ¢ Ðà²óææy}æçÝ „éc²ç„ JJ20JJ
+¨é¶}ææy²ç‹„Ü¢U ²œæiéçhxæíæs}æ„èç‹Îí²}æì J
+±ïçœæ ²~æ Ý ™ñ±æ²¢ çSƒ„pHç„ „œ±„: JJ21JJ
+²¢ HÏŠ±æ ™æÐÚ¢ Hæ|æ¢ }æ‹²„ï Ýæç{Ü¢U „„: J
+²çS}æç‹Sƒ„æï Ý Îé:¶ïÝ xæéL‡ææçÐ ç±™æË²„ï J22JJ
+„¢ ç±læÎì Îé:¶¨¢²æïxæç±²æïxæ¢ ²æïxæ¨¢ç¿æ„}æì J
+¨ çÝp²ïÝ ²æïQUÃ²æï ²æïxææïùçÝ<±‡‡æ™ï„¨æ JJ23JJ
+Þtu„tÇÞtËÚte htuftÞu÷wk r[¥t su Þtu„tÇÞtË{tk h{{tý hnu
+Au. y™u ð¤e su Þtu„{tk ðþ fhu÷t þwØ {™Úte ytí{MðY…{tks
+…h{tíMðY…™u òu‚tk ËL‚wü ð‚uo Au. >
+y™u ßÞtk fuð¤ ƒwÂØ„útÌt y™u RrLÿÞtuÚte y„tu[h yuðwk su
+ytíÞÂL‚f Ëw¾ ‚u™u òýu Au–y™w¼ðu Au. y™u su{tk ÂMÚth ÚtÞu÷tu
+Þtu„e ‚¥ð-…h{tí{MðY…Úte [¤tÞ{t™ Út‚tu ™Úte. >
+y™u su …h{tí{÷t¼™u …t{e™u ‚u rËðtÞ™t ƒeò ÷t¼™u
+‚uÚte yrÄf ™Úte {t™‚tu. y™u su{tk ÂMÚt‚ ÚtR™u „{u ‚uðt {tuxt
+Œw:¾Úte …ý ‚u™u [¤tÞ{t™ fhe þf‚tu ™Úte. >
+‚u™u ËtkËtrhf f÷uþ{tºt™t ËkÞtu„™u Œqh fh™th Þtu„ ™t{u
+òýu. y™u ‚u Þtu„™u fkxt¤t rËðtÞ™t Ë‚‚ WíËtne r[¥tÚte
+yÇÞtË fhðtu òuRyu. >>20-23>>
+¨¢ÜUËÐÐí|æ±æ‹ÜUæ}ææ¢Sy±æ ¨±æüÝàæï¯„: J
+}æÝ¨ñ±ïç‹Îí²xæíæ}æ¢ ç±çÝ²}² ¨}æ‹„„: JJ24JJ
+àæÝñ: àæÝñLÐÚ}æïiéhKæ {ëç„xæëãè„²æ J
+¥æy}æ¨¢Sƒ¢}æÝ: ÜëUy±æ Ý ôÜUç™ÎçÐ ç™‹„²ï„ì J25J
+²„æï ²„æï çÝçpÚç„ }æÝp@H}æçSƒÚ}æì J
+„„S„„æï çÝ²}²ñ„Îæy}æ‹²ï± ±àæ¢ Ý²ï„ì JJ26JJ
+ËkfÕ…Úte W…s‚t Ëðo ft{-ðtË™tytu™tu Ëðo «fthu íÞt„
+fhe™u y™u RrLÿÞtu™t Ë{qn™u {™Úte [tu‚hVÚte rðþu»t…ýu
+r™Þ{{tk fhe™u. >
+y™u ÄiÞoÚte ÂMÚth fhu÷e ƒwÂØÚte Äehu Äehu rð»tÞtuÚte W…ht{
+…t{u. y™u {™™u ytí{MðY…{tk ËBÞfT «fthu ÂMÚth fhe™u ‚u
+rËðtÞ ƒeswk ftkR …ý ™ Ëk¼thu. >
+yt{ fhðt A‚tk …ý yÂMÚth y™u yr‚ [k[¤ {™ su su
+RrLÿÞîtht ƒnth «Ëhu, íÞtkÚte íÞtkÚte ‚u™u r™Þ{{tk fhe™u
+ytí{MðY…{tk yÚtðt …h{tí{MðY…{tk ðþ-ÂMÚth fhu. >>24-26>>
+Ðíàææ‹„}æÝ¨¢ sïÝ¢ ²æïçxæÝ¢ ¨é¶}æéœæ}æ}æì J
+©Ðñç„ àææ‹„Ú…¨¢ Ïæíræ|æê„}æÜUË}æ¯}æì JJ27JJ
+ytðt «þtL‚ {™ðt¤t, {÷e™ ¼tðÚte hrn‚ ÚtÞu÷t,
+ft{trŒf rðfthY… fÕ{»tÚte hrn‚ y™u ƒúñY… ÚtÞu÷t yu Þtu„e™u
+Ëðtuo¥t{ Ëw¾ «tó ÚttÞ Au. >>27>>
+²éTóæï±¢ ¨Îæy}ææÝ¢ ²æïxæè ç±xæ„ÜUË}æ¯: J
+¨é¶ïÝ Ïæíræ¨¢SÐàæü}æy²‹„¢ ¨é¶}æàÝé„ï JJ28JJ
+yt «{týu ËŒtÞ …h{tí{MðY…{tk òuz™th Þtu„e Ë½¤tk
+fÕ{»tÚte hrn‚ þwØ ƒ™e™u …h{tí{ËtûttífthÚte «tó Út‚t
+ytíÞÂL‚f-r™hðrÄf Ëw¾™tu y™w¼ð Ëw¾uÚte-y™tÞtËu fhu
+Au. >>28>>
+
+
+Ÿæè}æjxæ±eè„æ
+4
+yæÞtÞ - 6
+¨±ü|æê„Sƒ}ææy}ææÝ¢ ¨±ü|æê„æçÝ ™æy}æçÝ J
+§üÿæ„ï ²æïxæ²éQUæy}ææ ¨±ü~æ ¨}æÎàæüÝ: JJ29JJ
+²æï }ææ¢ Ðà²ç„ ¨±ü~æ ¨±Z ™ }æç² Ðà²ç„ J
+„S²ã¢ Ý Ðí‡æà²æç}æ ¨ ™ }æï Ý Ðí‡æà²ç„ JJ30JJ
+Þtu„Þwõ‚ ytí{t su™tu ÚtÞu÷tu Au yuðtu rËØ Þtu„e Ëðoºt
+Ë{Œþo™ðt¤tu ÚtR™u Ëðo ¼q‚ «týe{tºt{tk Ë{ ¼tðu hnu÷t
+…tu‚t™t ytí{t™u swyu Au y™u Ëðo ¼q‚tu™u …tu‚t™t ytí{t{tk Ë{
+¼tðu swyu Au. >
+y™u su {™u Ëðo{tk swyu Au. y™u Ëðo {tht{tk Au yu{ swyu
+Au. ‚tu ‚uðt ËBÞfT Œþo™ðt¤t …h{ ¿tt™e ¼õ‚™u nwk fÞthuÞ
+y„tu[h hnu‚tu ™Úte. y™u ‚u ¿tt™e ¼õ‚ fÞthuÞ {™u y„tu[h
+hnu‚tu ™Úte. >>29-30>>
+¨±ü|æê„çSƒ„¢ ²æï }ææ¢ |æ…y²ïÜUy±}ææçSƒ„: J
+¨±üƒæ ±„ü}ææÝæïùçÐ ¨ ²æïxæè }æç² ±„ü„ï JJ31JJ
+y™u ytðwk yufíð-Ë{Œþo™ …t{u÷tu su ¿tt™e ¼õ‚ Ëðo ¼q‚{tk
+ðtË fhe hnu÷t {™u Ëðo «fthu ¼su Au, ‚tu ‚u Þtu„e yt ÷tuf{tk
+ð‚o‚tu ntuðt A‚tk ËŒtÞ {tht{tks ð‚uo Au. >>31>>
+¥æyÝæñÐ}²ïÝ ¨±ü~æ ¨}æ¢ Ðà²ç„ ²æïù…éüÝ J
+¨é¶¢ ±æ ²çÎ ±æ Îé:¶¢ ¨ ²æïxæè ÐÚ}ææï }æ„: J32J
+{txu nu yswo™ ! Ëðo «ýe{tºt{tk su …tu‚t™e W…{tÚtes Ëw¾
+yÚtðt ‚tu Œw:¾™u Ë{t™…ýu swyu Au-{t™u Au. ‚tu ‚us …h{-
+Ëðtuoíf]ü Þtu„e {t™u÷tu Au. >>32>>
+¥…éüÝ ©±æ™ J
+²æïù²¢ ²æïxæSy±²æ ÐíæïQU: ¨æ}²ïÝ }æ{é¨êÎÝ J
+»„S²æã¢ Ý Ðà²æç}æ ™@Hy±æçySƒô„ çSƒÚæ}æìJ33J
+™@H¢ çã }æÝ: ÜëUc‡æ Ðí}ææçƒ ÏæH±gëÉ}æì J
+„S²æã¢ çÝxæíã¢ }æ‹²ï ±æ²æïçÚ± ¨éÎécÜUÚ}æì JJ34JJ
+yswo™ …qAu Au = nu {ÄwËqŒ™ ? su yt Ë{ ¼tðÚte ht¾ðt™tu
+ËtBÞ Þtu„ ‚{u {™u fÌttu, yu ËtBÞ Þtu„™e ÂMÚth ÂMÚtr‚ nwk {™™e
+[k[¤‚t™u ÷eÄu òuR þf‚tu ™Úte. >
+fthý fu nu f]»ý ! {™ ¾hu¾h [k[¤, ‚tuVt™e, yr‚ ƒ¤ðt™
+y™u yr‚ áZ Au, {txu ‚u {™™tu r™„ún fhðtu ‚u‚tu Ëðo‚tu„t{e
+ðtÞw™tu r™„ún fhðt suðwk yr‚ Œw»fh ftÞo Au yu{ nwk {t™wk Awk.
+>>33-34>>
+Ÿæè|æxæ±æÝé±æ™ J
+¥¨¢àæ²¢ }æãæÏææãæï }æÝæï Îé<Ýxæíã¢ ™H}æì J
+¥|²æ¨ïÝ „é ÜUæñ‹„ï² ±ñÚæx²ï‡æ ™ xæës„ï JJ35JJ
+©e ¼„ðt™ fnu Au = nu {ntƒtntu ! yswo™ ! {™™tu r™„ún
+fhðtu ‚u yr‚ Œw»fh Au. y™u ‚u yr‚ [k[¤ Au. yu ðt‚ r™:ËkþÞ
+yu{ s Au. ‚tu …ý nu ftiL‚uÞ ! yÇÞtË y™u ðihtøÞÚte ‚u ðþ
+fhe þftÞ Au. >>35>>
+¥¨¢²„æy}æÝæ ²æïxææï ÎécÐíæÐ §ç„ }æï }æç„: J
+±à²æy}æÝæ „é ²„„æ àæv²æïù±æ#é}æéÐæ²„: JJ36JJ
+su™wk {™ ðþ{tk ™Úte yuðt …wY»tu ‚tu yu …h{tí{Þtu„ Œw»«t…
+Au, yu{ {thtu {‚-r™ùÞ Au. …ý ð~Þ {™ðt¤tyu ‚tu yÇÞtË
+y™u ðihtøÞY… W…tÞÚte «Þí™ fh‚tk …t{ðt™u þõÞs Au. >>36>>
+¥…éüÝ ©±æ² J
+¥²ç„: Ÿæh²æïÐï„æï ²æïxææÓ™çH„}ææÝ¨: J
+¥ÐíæŒ² ²æïxæ¨¢ç¨çh¢ ÜUæ¢ xæô„ ÜëUc‡æ xæÓÀç„J37J
+ÜUçÓ™óææï|æ²ç±|æíCçàÀóææ|æíç}æ± Ýà²ç„ J
+¥Ðíç„Dæï }æãæÏææãæï ç±}æêÉæï Ïæíræ‡æ: Ðçƒ JJ38JJ
+»„‹}æï ¨¢àæ²¢ ÜëUc‡æ Àïœæé}æãüS²àæï¯„: J
+y±Î‹²: ¨¢àæ²S²æS² Àïœææ Ý séÐÐl„ï JJ39JJ
+yswo™ …qAu Au = nu f]»ý ! ©Øtyu Þwõ‚ Útftu Þtu„{tk «ð‚uo,
+…ý «Þí™ ™rn fh‚tk yÄð[ Þtu„Úte {™ [¤e òÞ, ‚tu ‚u
+Þtu„™e …qýo rËÂØ™u ™rn …t{‚tk þe „r‚™u …t{u Au ? >
+nu {ntƒtntu ! ©e f]»ý ! Þtu„{tk «Â‚ct ™rn …t{u÷tu y™u
+ƒúñ«tÂó™t {t„o{tk rð{qZ ƒ™e™u …zu÷tu yu{ ƒÒtu ‚hVÚte ¼úü
+
+
+Ÿæè}æjxæ±eè„æ
+5
+yæÞtÞ - 6
+ÚtÞu÷tu ‚u ËtÄf þwk Aqxt …zu÷t ðtŒ¤™t xwfzt™e …uXu ™tþ …t{e
+òÞ Au ? >
+nu f]»ý ! yt {thtu ËkþÞ ‚{u Ë{„ú…ýu AuŒðt™u ÞtuøÞ Atu.
+fthý fu ‚{tht rËðtÞ ƒeòu ftuR yt {tht ËkþÞ™tu AuŒ™th
+{™u sýt‚tu ™Úte. >>37-39>>
+Ÿæè|æxæ±æÝé±æ™
+Ðæƒü Ýñ±ïã Ýæ}æé~æ ç±ÝæàæS„S² ç±l„ï J
+Ý çã ÜUË²æ‡æÜëUyÜUçpgéxæüô„ „æ„ xæÓÀç„ JJ40JJ
+©e ¼„ðt™ fnu Au - ‚u™tu yt ÷tuf{tk y™u …h÷tuf{tk …ý
+rð™tþ-{t„oÚte ¼úü Út‚tus ™Úte. fthýfu nu ‚t‚ ! fÕÞtý™t
+ËtÄ™{tk «ð‚uo÷tu ftuR Œw„or‚™u …t{‚tus ™Úte. >>40>>
+ÐíæŒ² Ðé‡²ÜëU„æ¢ HæïÜUæÝéç¯y±æ àææE„è: ¨}ææ:J
+àæé™èÝæ¢ Ÿæè}æ„æ¢ xæïãï ²æïxæ|æíCæïùç|æ…æ²„ï JJ41JJ
+¥ƒ±æ ²æïçxæÝæ}æï± ÜéUHï |æ±ç„ {è}æ„æ}æì J
+»„çh ÎéHü|æ„Ú¢ HæïÜïU …‹}æ ²ÎèÎëàæ}æì JJ42JJ
+…ý ‚u ‚tu …wÛÞþt¤e™t ÷tuftu™u …t{e™u íÞtk ½ýt ft¤ ðËe™u
+y™u …Ae yu Þtu„¼úü …wY»t ©e{L‚™u ½hu yð‚hu Au. >
+yÚtðt ‚tu {ntƒwÂØ{L‚ Þtu„es™tu™t fw¤{tks «„x ÚttÞ
+Au. y™u ytðwk su sL{ {¤ðwk ‚u yt ÷tuf{tk yr‚ Œw÷o¼{tk Œw÷o¼
+{™tÞ Au. >>41-42>>
+„~æ „¢ Ïæéçh¨¢²ïxæ¢ H|æ„ï Ðæñ±üÎïçãÜU}æì J
+²„„ï ™ „„æï |æê²: ¨¢ç¨hæñ ÜéULÝ‹ÎÝ JJ43JJ
+y™u ‚u «tó ÚtÞu÷t sL{{tk …qðo Œun™t ËkMfthrËØ ‚u
+ƒwÂØËkÞtu„™u …t{u Au. nu fwY™LŒ™ ! ytðtu sL{ …t{e™u …Ae
+Þtu„rËÂØ {u¤ððt {txu VheÚte «Þí™ fhu Au. >>43>>
+Ðê±æü|²æ¨ïÝ „ïÝñ± çãí²„ï s±àææïùçÐ ¨: J
+ç…¿ææ¨éÚçÐ ²æïxææS² àæÏÎÏæírææç„±„ü„ï JJ44JJ
+y™u …qðo sL{™t yÇÞtËƒ¤Útes ‚u™u RåAt ™ ntuÞ ‚tu …ý
+…hðþ…ýus ‚u ‚hV ytf»toý ÚttÞ Au. yt{ …h{tí{Þtu„™tu
+S¿ttËw s™ …ý þçŒ ƒúñ™u yr‚¢{ý fhe òÞ Au. (yuðtu
+Þtu„™tu {rn{t Au.) >>44>>
+Ðí²Õæl„}ææÝS„é ²æïxæè ¨¢àæéhçÜUçËÏæ¯: J
+¥ÝïÜU…‹}æ¨¢ç¨hS„„æï ²æç„ ÐÚæ¢ xæç„}æì JJ45JJ
+yt he‚u «Þí™…qðof r™hk‚h {kzâtu hnu™th Þtu„e …t…Úte
+ËðoÚtt þwØ ÚtR™u y™uf sL{u ËkrËØ ÚtR™u yt¾hu …h{ „r‚™us
+…t{u Au. >>45>>
+„ÐçS±|²æïùç{ÜUæï ²æïxæè ¿ææçÝ|²æïùçÐ }æ„æïùç{ÜU:J
+ÜU<}æ|²æpæç{ÜUæï ²æïxæè „S}æælæïxæè |æ±æ…éüÝ J46J
+{txu ‚…Mðeytu fh‚tkÞ Þtu„e yrÄf Au, ¿tt™eytu fh‚tk …ý
+yrÄf s {t™u÷tu Au. ‚tu …Ae fuð¤ f{o fh™thtytu fh‚tk ‚tu
+yrÄf Aus. {txu nu yswo™ ! ‚wk …ý f{oÞtu„e-…h{tí{tu…tËfs
+Útt. >>46>>
+²æïçxæÝæ}æçÐ ¨±ïü¯æ¢ }æe„ïÝæ‹„Úæy}æÝæ J
+Ÿæhæ±æ‹|æ…„ï ²æï }ææ¢ ¨ }æï ²éQU„}ææï }æ„: JJ47JJ
+fthý fu- ƒÄt «fth™t Þtu„eytu™t {æÞu su {tht{tk
+yL‚:fhý …htuðe™u ©Øtðt™T ÚtR™u {™us ¼su Au, ‚us
+Þwõ‚‚{–Ëðo©uc Þtu„e {U {t™u÷tu Au. >>47>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢ ²æïxæàææ›ï
+ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï ¥æy}æ¨¢²}æ²æïxææï Ýæ}æ ¯DæïùŠ²æ²: JJ6JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk Þtu„þtMºtu
+©ef]»ýtòow™ËkðtŒu yÇÞtËÞtu„tu ™t{ »tctuàæÞtÞ: >>6>>
+
+
+Ÿæè}æjxæ±eè„æ
+6
+yæÞtÞ - 7
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒ ¨#æïùŠ²æ²:
+
+Ÿæè|æxæ±æÝé±æ™ J
+}æÄ²æ¨QU}æÝæ: Ðæƒü ²æïxæ¢ ²éTæ‹}æÎæŸæ²: J
+¥¨¢àæ²¢ ¨}æxæí¢ }ææ¢ ²ƒæ ¿ææS²ç¨ „ÓÀë‡æé JJ1JJ
+©e ¼„ðt™ fnu Au = nu …]Útt™t …wºt yswo™ ! {tht{tk …qhu …qYk
+{™ ht¾e™u y™u {thtus áZ yt©Þ fhe™u {thtu Þtu„ ËtÄ‚tk {™u
+Ë{„ú…ýu r™:ËkþÞ su{ ‚wk òýu ‚u{ nwk fnwk Awk ‚u Ëtk¼¤ ! >>1>>
+¿ææÝ¢ „ïùã¢ ¨ç±¿ææÝç}æÎ¢ ±ÿ²æ}²àæï¯„: J
+²Á¿ææy±æ Ýïã |æê²æïù‹²Á¿ææ„Ã²}æ±çàæc²„ï JJ2JJ
+nwk ‚™u rð¿tt™u Ërn‚ yt ¿tt™ ƒtfe ™ hnu yu{ ËB…qýo
+¾q÷tËtðth fnuðt™tu Awk. fu su òÛÞt-Ë{ÍÞt …Ae VheÚte yt
+÷tuf{tk ƒeswk ftkR òýðt suðwk ƒtfe hnu‚wk s ™Úte. >>2>>
+}æÝéc²æ‡ææ¢ ¨ã›ï¯é ÜUçpl„ç„ ç¨h²ï J
+²„„æ}æçÐ ç¨hæÝæ¢ ÜUçp‹}ææ¢ ±ïçœæ „œ±„: JJ3JJ
+nòhtu-nòh {™w»Þtu{tk rËÂØ™u {txu ftuRfs «Þí™ fhu Au.
+y™u «Þí™ fh™tht rËØtu{tkÚte …ý {™u ¾he he‚u ‚tu ftuRfs
+òýu Au. >>3>>
+|æêç}æÚæÐæïùÝHæï ±æ²é: ¶¢ }æÝæï ÏæéçhÚï± ™ J
+¥ãVæÚ §„è²¢ }æï ç|æóææ ÐíÜëUç„ÚC{æ JJ4JJ
+¥ÐÚï²ç}æ„Sy±‹²æ¢ ÐíÜëUô„ ç±çh }æï ÐÚæ}æì J
+…è±|æê„æ¢ }æãæÏææãæï ²²ïÎ¢ {æ²ü„ï …xæ„ì JJ5JJ
+¼qr{, s¤, yÂø™, ðtÞw y™u ytftþ, {™, ƒwÂØ y™u
+ynkfth, yu{ ytX «fthu ðnU[tÞu÷e yt {the «f]r‚-{tÞt Au.
+yt {the y…ht-ƒeò ð„o™e «f]r‚ Au y™u yt™tÚte [ZeÞt‚e
+©uc SðY… {the ƒeS «f]r‚ Au ‚u™u ‚wk òý ! fu su™tÚte yt
+s„‚T Äthý fhtÞ Au. >>4-5>>
+»„læïÝèçÝ |æê„æçÝ ¨±æü‡æèy²éÐ{æÚ² J
+¥ã¢ ÜëUyFS² …xæ„: Ðí|æ±: ÐíH²S„ƒæ JJ6JJ
+Ëðo ¼q‚-«týe{tºt yt ƒu{tkÚtes Wí…Òt ÚttÞ Au yu{ ‚wk
+æÞt™{tk ht¾ ! y™u ‚u ƒÒtu «f]r‚ {the ntuðtÚte nwks Ë{„ú s„í™tu
+fthý Awk y™u «÷Þ-™tþ fh™th …ý nwks Awk. >>6>>
+}æœæ: ÐÚ„Ú¢ Ýæ‹²çyÜUç@ÎçS„ {Ý¢…² J
+}æç² ¨±üç}æÎ¢ Ðíæï„¢ ¨ê~æï }æç‡æxæ‡ææ §± JJ7JJ
+nu Ä™ksÞ ! {thtÚte …h ‚¥ð ƒeswk ftuR Aus ™rn. y™u yt
+Ë½¤wk rðï {tht{tk Œtuht{tk {rýftytu™e …uXu …htuðu÷wk Au. (…ý
+{thtÚte …]ÚtfT ™Úte.) >>7>>
+Ú¨æïùã}æŒ¨é ÜUæñ‹„ï² Ðí|ææçS}æ àæçàæ¨ê²ü²æï: J
+Ðí‡æ±: ¨±ü±ïÎï¯é àæÏÎ: ¶ï ÐæñL¯¢ Ýë¯é JJ8JJ
+nu ftiL‚uÞ ! s¤{tk hË ‚u nwk Awk. [kÿ{tk y™u ËqÞo{tk «¼t ‚u nwk
+Awk. Ëðo ðuŒtu{tk «ýð-Hfth nwk Awk ytftþ{tk þçŒ nwk Awk. y™u
+…wY»ttu{tk …wY»ttÚto ‚u nwk Awk. >>8>>
+Ðé‡²æï xæ‹{: ÐëçƒÃ²æ¢ ™ „ï…pæçS}æ ç±|ææ±¨æñJ
+…è±Ý¢ ¨±ü|æê„ï¯é „ÐpæçS}æ „ÐçS±¯é JJ9JJ
+…]Úðe{tk …rðºt „LÄ ‚u nwk Awk. y™u yÂø™{tk ‚us-«¼t ‚u nwk
+Awk. Ëðo ¼q‚tu{tk Sð™-þÂõ‚ ‚u nwk Awk. y™u ‚…Mðeytu{tk ‚… ‚u
+nwk Awk. >>9>>
+Ïæè…¢ }ææ¢ ¨±ü|æê„æÝæ¢ ç±çh Ðæƒü ¨Ýæ„Ý}æì J
+ÏæéçhÏæéüçh}æ„æ}æçS}æ „ï…S„ï…çS±Ýæ}æã}æì JJ10JJ
+nu …tÚto ! Ëðo ¼q‚tu™wk Ë™t‚™ ƒes-fthý ‚u nwk Awk, yu{ ‚wk
+Ë{Í ! ƒwÂØ{t™ …wY»t™e ƒwÂØ ‚u nwk Awk. y™u ‚usMðeytu™wk ‚us-
+…ht¢{ ‚u nwk Awk. >>10>>
+ÏæH¢ ÏæH±„æ¢ ™æã¢ ÜUæ}æÚæxæç±±<…„}æì J
+{}ææüç±Lhæï |æê„ï¯é ÜUæ}ææïùçS}æ |æÚ„¯ü|æ JJ11JJ
+ƒ¤ðt™ {™w»Þtu™wk ft{ y™u ht„ ðSo‚ yuðwk þwØ ƒ¤ ‚u nwk
+Awk. y™u nu ¼h‚»to¼ ! ¼q‚-«týe{tºt{tk Ä{oÚte yrðYØ yuðtu
+su ft{ ‚u nwk Awk. >>11>>
+
+
+Ÿæè}æjxæ±eè„æ
+7
+yæÞtÞ - 7
+²ï ™ñ± ¨æçœ±ÜUæ |ææ±æ Úæ…¨æS„æ}æ¨æp ²ï J
+}æœæ »±ïç„ „æç‹±çh Ý y±ã¢ „ï¯é „ï }æç² JJ12JJ
+y™u ð¤e su ftuR Ëtr¥ðf ¼tð-…ŒtÚttuo Au. ‚u{s htsË
+y™u ‚t{Ë …ŒtÚttuo Au, ‚u Ë½¤t {tht{tkÚtes W…su÷t Au, yu{
+òý ! …hL‚w ‚u Ë½¤t ¼tðtu{tk nwk ™Úte, …ý ‚uytu {tht{tk–{thu
+ytÄthu Au. (yu{ Ë{Í !) >>12>>
+ç~æç|æxæéü‡æ}æ²ñ|ææü±ñÚïç|æ: ¨±üç}æÎ¢ …xæ„ì J
+}ææïçã„¢ Ýæç|æ…æÝæç„ }ææ}æï|²: ÐÚ}æÃ²²}æì JJ13JJ
+yt fÌtt yuðt Ëtr¥ðf, htsË y™u ‚t{Ë yu ºtý „wý{Þ
+¼tðtuÚte-…ŒtÚttuoÚte {tun …t{u÷wk yt Ë½¤wk s„‚T, yu {tÞt™t ftÞoÚte
+…h hnu÷t yrð™tþeMðY… yuðt {™u òý‚wk-ytu¤¾‚wk ™Úte.
+>>13>>
+Îñ±è sï¯æ xæé‡æ}æ²è }æ}æ }ææ²æ ÎéÚy²²æ J
+}ææ}æï± ²ï ÐíÐl‹„ï }ææ²æ}æï„æ¢ „Úç‹„ „ï JJ14JJ
+fthý fu Œuð-ËðoË]üt yuðtu su nwk ‚u {the yt „wý{Þe {tÞt
+‚u ŒwhíÞÞ Au. {txu suytu {™u s y™LÞ ¼tðÚte ytþhu Au. ‚u s
+yu {tÞt™u ‚he þfu Au. >>14>>
+Ý }ææ¢ ÎécÜëUç„Ýæï }æêÉæ: ÐíÐl‹„ï ÝÚæ{}ææ: J
+}ææ²²æÐN„¿ææÝæ ¥æ¨éÚ¢ |ææ±}ææçŸæ„æ: JJ15JJ
+{tÞt™t ƒ¤Úte suytu™wk ¿tt™ nhtR „Þu÷wk Au y™u ‚uÚtes
+yËwh ¼tð™u ytþhu÷t Œw»f{eo {qZ ™htÄ{tu {thtu yt©Þ-þhý
+÷R þf‚t s ™Úte. >>15>>
+™„é<±{æ |æ…‹„ï }ææ¢ …Ýæ: ¨éÜëUç„Ýæïù…éüÝ J
+¥æ„æïü ç…¿ææ¨éÚƒæüƒèü ¿ææÝè ™ |æÚ„¯ü|æ JJ16JJ
+¼h‚ðkþ{tk ©uc yuðt nu yswo™ ! {™u yt‚o, S¿ttËw, yÚto™e
+RåAtðt¤tu y™u [tuÚttu ¿tt™e, yu{ [th «fth™t Ëwf]‚þt÷e s™tu
+¼su Au. >>16>>
+„ï¯æ¢ ¿ææÝè çÝy²²éQU »ÜU|æçQU<±çàæc²„ï J
+çÐí²æï çã ¿ææçÝÝæïùy²ƒü}æã¢ ¨ ™ }æ}æ çÐí²: JJ17JJ
+‚u [th{tkÚte ¿tt™e ¼õ‚ r™hk‚h {tht{tks òuztR hnu™thtu
+y™u yuf {tht{tks y™LÞ ¼Âõ‚{t™ ntuðtÚte  ËðoÚte ©uc Au.
+y™u ¿tt™e ¼õ‚™u nwk yíÞL‚ Ônt÷tu Awk. y™u ‚u {™u yíÞL‚
+Ônt÷tu Au. >>17>>
+©ÎæÚæ: ¨±ü »±ñ„ï ¿ææÝè y±æy}æñ± }æï }æ„}æì J
+¥æçSƒ„: ¨ çã ²éQUæy}ææ }ææ}æï±æÝéœæ}ææ¢ xæç„}æìJ18J
+yu ƒÄt {tht ¼õ‚tu WŒth Au, …ý ‚u{tk ¿tt™e ¼õ‚ ‚tu {thtu
+ytí{ts Au, yu{ {tYk {t™ðwk Au. fthý fu ‚u {tht{tk {™ ht¾e™u
+Ëðtuo¥t{ yíÞÂL‚f „r‚«tÃÞMðY… yuðt {™us y™LÞ ¼tðÚte
+ytþhu÷tu Au. >>18>>
+ÏæãêÝæ¢ …‹}æÝæ}æ‹„ï ¿ææÝ±æ‹}ææ¢ ÐíÐl„ï J
+±æ¨éÎï±: ¨±üç}æç„ ¨ }æãæy}ææ ¨éÎéHü|æ: JJ19JJ
+ƒnw sL{™u yL‚u …ý ‘‘{thu Ëðo ðtËwŒuðs Au.’’ yuðt
+¿tt™ðt¤tu ÚtR™u y™LÞ ¼tðÚte {™us ytþhu Au. ‚uðtu {ntí{t
+yt ÷tuf{tk yr‚ Œw÷o¼ Au. >>19>>
+ÜUæ}æñS„ñNü„¿ææÝæ: ÐíÐl‹„ïù‹²Îï±„æ: J
+„¢ „¢ çÝ²}æ}ææSƒæ² ÐíÜëUy²æ çÝ²„æ: S±²æ JJ20JJ
+y™u ƒeòytu ‚tu ‚u ‚u ft{™tytuÚte nhtR „Þwk Au ¿tt™ su{™wk
+yuðt ntuðtÚte, …tu‚u …tu‚t™e «f]r‚-Mð¼tð™u ðþ ÚtR™u, ‚u ‚u
+{t„o{tk hnu÷t r™Þ{tu™u ytþhe™u ƒeò RLÿtrŒf Œuðtu™u þhýu
+òÞ Au. >>20>>
+²æï ²æï ²æ¢ ²æ¢ „Ýé¢ |æQU: Ÿæh²æ<™„éç}æÓÀç„J
+„S² „S²æ™Hæ¢ Ÿæhæ¢ „æ}æï± ç±Î{æ}²ã}æì JJ21JJ
+¨ „²æ Ÿæh²æ ²éQUS„S²æÚæ{Ý}æèã„ï J
+H|æ„ï ™ „„: ÜUæ}ææ‹}æ²ñ± ç±çã„æç‹ã „æÝì JJ22JJ
+su su ¼õ‚ {the ‚™w™u (ƒÄwks ‚u™wk þheh ntuðtÚte.) ©Øt-
+rðïtËÚte …qsðt™u ythtÄðt™u RåAu Au ‚u ‚u ¼õ‚™u ‚u{tk ‚u{tk
+‚u ‚u y[¤ ©Øt nwks fhe yt…wk Awk.
+y™u ‚u ¼õ‚ ‚u y[¤ ©Øtyu Þwõ‚ ÚtR™u ‚u ‚u Œuðtu™wk ythtÄ™
+
+
+Ÿæè}æjxæ±eè„æ
+8
+yæÞtÞ - 7
+fhu Au. y™u ‚u …Ae (V¤«Œt‚t nwk ntuðtÚtes) {Us h[e yt…u÷tk
+Mð„torŒf ft{-V¤™u …t{u Au. >>21-22>>
+¥‹„±œæé ÈUH¢ „ï¯æ¢ „j±y²ËÐ}æï{¨æ}æì J
+Îï±æ‹Îï±²…æï ²æç‹„ }æjQUæ ²æç‹„ }ææ}æçÐ JJ23JJ
+…ý ‚u yÕ…ƒwÂØ™t {týËtuyu {u¤ðu÷wk ‚u ‚u ythtÄ™Y…
+f{o™wk V¤ ™tþðk‚ ntuÞ Au. fu{fu Œuð‚tytu™u ¼s™th Œuðtu™u …t{u
+Au. y™u {tht ¼õ‚tu ‚tu {™us …t{u Au. >>23>>
+¥Ã²Q¢U Ã²çQU}ææÐóæ¢ }æ‹²‹„ï }ææ}æÏæéh²: J
+ÐÚ¢ |ææ±}æ…æÝ‹„æï }æ}ææÃ²²}æÝéœæ}æ}æì JJ24JJ
+{tht yrð™tþe y™u Ëðtuoíf]ü …h{ ¼tð™u ™rn òý™tht
+ƒwÂØ rð™t™t yƒwÄ {týËtu yÔÞõ‚-y÷turff rŒÔÞ{qŠ‚ yuðt
+{™u ƒeò {™w»Þ suðtu ÔÞÂõ‚¼tð …t{u÷tu {t™u Au. >>24>>
+Ýæã¢ ÐíÜUæàæ: ¨±üS² ²æïxæ}ææ²æ¨}ææ±ë„: J
+}æêÉæïù²¢ Ýæç|æ…æÝæç„ HæïÜUæï }ææ}æ…Ã²²}æì JJ25JJ
+fu{ fu {the Þtu„{tÞtÚte Ë{tð]‚ ÚtÞu÷tu nwk Ëðo™u ™Úte
+ytu¤¾t‚tu, {txus ysL{t y™u yrð™tþe yuðt {™u yt {qZ-
+y¿tt™e ÷tuf ™Úte òýe-ytu¤¾e þõ‚t. >>25>>
+±ïÎæã¢ ¨}æ„è„æçÝ ±„ü}ææÝæçÝ ™æ…éüÝ J
+|æç±c²æç‡æ ™ |æê„æçÝ }ææ¢ „é ±ïÎ Ý ÜUpÝ JJ26JJ
+nu yswo™ ! ¼q‚ft¤{tk ÚtR „Þu÷tk, ð‚o{t™Ë{Þ{tk hnu÷tk
+y™u ¼rð»Þft¤{tk Út™thtk, yu Ëðo ¼q‚-«týe{tºt™u nwk òýwk Awk.
+…ý {™u ‚tu ftuR òý‚tus ™Úte. >>26>>
+§ÓÀæmï¯¨}æéyƒïÝ m‹m}ææïãïÝ |ææÚ„ J
+¨±ü|æê„æçÝ ¨¢}ææïã¢ ¨xæïü ²æç‹„ ÐÚ¢„Ð JJ27JJ
+fthý fu nu ¼th‚ ! yt Ë]Âü{tk hnu÷tk Ëðo¼q‚-«týe{tºt
+RåAtytu y™u îu»tÚte WKð‚tk þtuf-{tuntrŒf îLî{tk VËtðtÚte nu
+…hL‚… ! yíÞL‚ {tun-Ëk¼ú{ …t{u Au. (‚uÚtes {™u ™Úte òýe
+þf‚tk.) >>27>>
+²ï¯æ¢ y±‹„xæ„¢ ÐæÐ¢ …ÝæÝæ¢ Ðé‡²ÜU}æü‡ææ}æì J
+„ï m‹m}ææïãçÝ}æéüQUæ |æ…‹„ï }ææ¢ ÎëÉ±í„æ: JJ28JJ
+…hL‚w- su …wÛÞþt¤e s™tu™tk ‚tu …t… ÷„¼„ ™»x«tÞ ÚtR
+„Þtk Au, ‚u …wY»ttus áZðú‚ ÚtR™u Ëw¾-Œw:¾trŒf îLî¼tð Y…
+{tun{tk ™rn VËt‚tk {™us ¼suAu >>28>>
+…Úæ}æÚ‡æ}ææïÿææ² }ææ}ææçŸæy² ²ç„ç‹„ ²ï J
+„ï Ïæíræ „çmÎé: ÜëUyF}æŠ²æy}æ¢ ÜU}æü ™æç¶H}æì JJ29J
+yt «{týu sht-{hýtrŒf ËkË]r‚™t f÷uþtuÚte {wftðt™u {txu
+{™u ytþhe™u suytu «Þí™ fhu Au, ‚uytu s ‚u ƒúñ™u òýu Au. y™u
+Ë{„ú yæÞtí{ ‚¥ð™u ‚u{s f{o™t Ë½¤t ‚¥ð™u …ý òýu Au.
+>>29>>
+¨æç{|æê„æç{Îñ±¢ }ææ¢ ¨æç{²¿æ¢ ™ ²ï ç±Îé: J
+Ðí²æ‡æÜUæHïùçÐ ™ }ææ¢ „ï ç±Îé²éüQU™ï„¨: JJ30J
+y™u yt he‚u yrÄ¼q‚, yrÄŒið y™u yrÄÞ¿tu Ërn‚ {™u
+suytu òýu Au. ‚tu ‚uytu {tht{tk r[¥t òuztÞ÷wk ntuðtÚte, «Þtý
+ft¤{tk …ý {™us òýu Au-{™u òýe™u {™us …t{u Au. >>30>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢ ²æïxæàææ›ï
+ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï ¿ææÝç±¿ææÝ²æïxææï Ýæ}æ ¨#}ææïùŠ²æ²: JJ7JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk Þtu„þtMºtu
+©ef]»ýtòow™ËkðtŒu ¿tt™rð¿tt™Þtu„tu ™t{ Ëó{tuàæÞtÞ: >>7>>
+
+
+Ÿæè}æjxæ±eè„æ
+9
+yæÞtÞ - 8
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒæC}ææïùŠ²æ²:
+
+¥…éüÝ ©±æ™ J
+ôÜU „ÎìÏæíræ çÜU}æŠ²æy}æ¢ ôÜU ÜU}æü ÐéL¯æïœæ}æ J
+¥ç{|æê„¢ ™ ôÜU ÐíæïQU}æç{Îñ±¢ çÜU}æéÓ²„ï JJ1JJ
+¥ç{²¿æ: ÜUƒ¢ ÜUæïù~æ ÎïãïùçS}æ‹}æ{é¨êÎÝ J
+Ðí²æ‡æÜUæHï ™ ÜUƒ¢ ¿æï²æïùç¨ çÝ²„æy}æç|æ: JJ2JJ
+yswo™ …qAu Au =
+nu …wY»ttu¥t{ ! ‚u ƒúñ þwk Au ? yæÞtí{ þwk ? y™u f{o þwk ?
+yrÄ¼q‚ þwk fnuðtÞ ? y™u yrÄŒið þwk fnuðtÞ Au ?
+nu {ÄwËqŒ™ ! yt Œun{tk yrÄÞ¿t ftuý ? y™u ‚u fuðtu òýðtu
+? y™u {™™u S‚™thtytuyu yL‚ft¤u ‚{™u fuðe he‚u òýðt ?
+yu ƒÄwkÞ {™u fne Ë{Ítðtu ! >>1-2>>
+Ÿæè|æxæ±æÝé±æ™
+¥ÿæÚ¢ Ïæíræ ÐÚ}æ¢ S±|ææ±æïùŠ²æy}æ}æéÓ²„ï J
+|æê„|ææ±æïj±ÜUÚæï ç±¨xæü: ÜU}æü¨¢ç¿æ„: JJ3JJ
+©e ¼„ðt™ fnu Au = …h{-Ëðtuoíf]ü yuðwk su yûth yus
+ƒúñ Au. y™u ûtuºt¿ttu™tu Mð¼tð yu yæÞtí{ fnuðtÞ Au. ¼q‚
+«týe{tºt™t Œuð{™w»ÞtrŒf swŒt swŒt ¼tð y™u ‚u™e Wí…Â¥t
+fh™thtu rðË„o yu f{o ™t{u fnuðtÞ Au. >>3>>
+¥ç{|æê„¢ ÿæÚæï |ææ±: ÐéL¯pæç{Îñ±„}æì J
+¥ç{²¿ææïùã}æï±æ~æ Îïãï Îïã|æë„æ¢ ±Ú JJ4JJ
+«trýytu™tu ûth ¼tð yu yrÄ¼q‚ Au. y™u …wY»t yu yrÄŒið‚
+Au. y™u ŒunÄtheytu{tk ©uc nu yswo™ ! yt Œun{tk-{tht þheh¼q‚
+ƒúñtrŒf Œuðtu{tk, yrÄÞ¿t-Þ¿ttu{tk y„ú…qßÞ ‚tu nwks-Ëðtoí{t
+Awk. >>4>>
+¥‹„ÜUæHï ™ }ææ}æï± S}æÚ‹}æévy±æ ÜUHï±Ú}æì J
+²: Ðí²æç„ ¨ }æjæ±¢ ²æç„ ÝæSy²~æ ¨¢àæ²: JJ5JJ
+y™u yL‚ft¤u Ëðtoí{t ðtËwŒuð yuðt {™u s Ëk¼th‚tk
+Ëk¼th‚tk þheh™tu íÞt„ fhe™u òÞAu. ‚u {thts MðY…™u …t{u
+Au yt{tk ftkR ËkþÞ ™Úte s. >>5>>
+²¢ ²¢ ±æçÐ S}æÚ‹|ææ±¢ y²…y²‹„ï ÜUHï±Ú}æì J
+„¢ „}æï±ñç„ ÜUæñ‹„ï² ¨Îæ „jæ±|ææç±„: JJ6JJ
+ðÄthu þwk ? yL‚ft¤u su su ¼tð™wk M{hý fh‚tk fh‚tk
+þheh™tu íÞt„ fhu Au, ‚tu ‚u {týË nu ftiL‚uÞ ! ËŒtÞ ‚u ¼tðÚte-
+ðtË™tÚte ðtrË‚ ÚtÞu÷tu ntuðtÚte ‚u ‚u ¼tð™us …t{u Au. >>6>>
+„S}ææy¨±ïü¯é ÜUæHï¯é }ææ}æÝéS}æÚ ²éŠ² ™ J
+}æÄ²<Ð„}æÝæïÏæéçh}ææü}æï±ñc²S²¨¢àæ²}æì JJ7JJ
+{txu ‚wk …ý Ëðo ft¤{tk {tYks M{hý fh‚tu hnu y™u
+MðÄ{oY… ÞwØ …ý fh ! y™u {tht{tks {™ y™u ƒwÂØ™u ËðoÚtt
+y…oý fhðtÚte {™u s …t{eþ. yt{tk ftkR ËkþÞ ™Úte. >>7>>
+¥|²æ¨²æïxæ²éQïUÝ ™ï„¨æ Ýæ‹²xææç}æÝæ J
+ÐÚ}æ¢ ÐéL¯¢ çÎÃ²¢ ²æç„ ÐæƒæüÝéç™‹„²Ýì JJ8JJ
+nu …tÚto ! yÇÞtË-Þtu„Þwõ‚ y™u y™LÞ„tr{ yuðt
+r[¥tÚte rŒÔÞtfth …h{ …wY»t™wk r[L‚ð™ fh‚tk fh‚tk ‚u™u
+s …t{u Au. >>8>>
+ÜUô± ÐéÚæ‡æ}æÝéàææç¨„æÚ}æ‡ææïÚ‡æè²æ¢¨}æÝéS}æÚïl: J
+¨±üS² {æ„æÚ}æç™‹y²MUÐ}ææçÎy²±‡æZ „}æ¨: ÐÚS„æ„ì JJ9JJ
+Ðí²æ‡æÜUæHï     }æÝ¨æ™HïÝ |ævy²æ ²éQUæï ²æïxæÏæHïÝ ™ñ± J
+|æíé±æï}æüŠ²ï Ðíæ‡ææ}ææ±ïà² ¨}²ÜUì ¨ „¢ ÐÚ¢ ÐéL¯}æéÐñç„ çÎÃ²}æì JJ10JJ
+²ÎÿæÚ¢ ±ïÎç±Îæï ±Îç‹„ ç±àæç‹„ ²l„²æï ±è„Úæxææ: J
+²çÎÓÀ‹„æï Ïæíræ™²Z  ™Úç‹„ „œæï ÐÎ¢ ¨¢xæíãï‡æ Ðí±ÿ²ï JJ11JJ
+‚u …h{ …wY»t, frð-rºtft¤Œþeo, …wht‚™, Ëðo™wk r™Þ{™
+fh™tht, Ëqû{Úte …ý yr‚ Ëqû{, Ëðo™u h[™tht, {™-ðtýe™u
+…ý y„tu[h yuðwk yr[LíÞ-y÷tirff Y…-ytf]r‚ su™e Au,
+ytrŒíÞ™t suðtu Ë{wßsð¤ ðýosu™tu Au. y™u {tÞt™t ‚{Úte
+…h hnu÷t, yuðt …h{ …wY»t™u su Ë‚‚ Ëk¼tÞto fhu Au. >11>
+
+
+Ÿæè}æjxæ±eè„æ
+10
+yæÞtÞ - 8
+y™u {hý Ë{Þ{tk …ý r™ù¤ {™ ht¾e™u, ¼Âõ‚Þwõ‚
+ÚtR™u, y™u Þtu„Ët{ÚÞoÚte «tý™u ¼]fwrx™t {æÞ{tk ƒhtuƒh ÂMÚth
+ht¾e™u su M{hý fhu, ‚u …wY»ts ‚u rŒÔÞtfth …h{ …wY»t™u …t{u
+Au.>
+su™u ðuŒrð‚T …wY»ttu yûth yu{ fnu Au, Œw™eÞtk™t ht„
+rËðtÞ™t ðþurLÿÞ W…tËf …wY»ttu su{tk «ðuþ fhu Au. su™u
+RåAt™tht ƒúñ[Þo ðú‚ …t¤u Au. ‚u …Œ nwk ‚™u Ëkûtu…Úte fneþ-
+fnuðt™tu Awk. >>9-11>>
+¨±ümæÚæç‡æ ¨¢²}² }æÝæï NçÎ çÝLŠ² ™ J
+}æêŠ‹²æü{æ²æy}æÝ: Ðíæ‡æ}ææçSƒ„æï ²æïxæ{æÚ‡ææ}æì J12J
+¥æïç}æy²ïÜUæÿæÚ¢ Ïæíræ Ã²æãÚ‹}ææ}æÝéS}æÚÝì J
+²: Ðí²æç„ y²…‹Îïã¢ ¨ ²æç„ ÐÚ}ææ¢ xæç„}æì JJ13JJ
+Ëðo RrLÿÞîth™u Mððþ{tk fhe™u, {™™u ÓŒÞ{tk yuft„ú
+fhe™u, …tu‚t™t «tý™u {M‚f{tk ÂMÚth fhe™u, Þtu„Úte
+…h{tí{MðY…{tk Äthýt …t{u÷tu. >
+y™u …hƒúñ™t ðt[f
+ytukfthY… yuftûth™u s…‚tu y™u {™u y¾kz Ëk¼th‚tu Útftu Œun™tu
+íÞt„ fhe™u su òÞAu, ‚u …wY»t …h{ „r‚ …t{u Au. >>12-13>>
+¥Ý‹²™ñ„æ: ¨„„¢ ²æï }ææ¢ S}æÚç„ çÝy²àæ: J
+„S²æã¢ ¨éH|æ: Ðæƒü çÝy²²éQUS² ²æïçxæÝ: JJ14JJ
+nu …tÚto ! y¾kz y™LÞr[¥t ÚtR™u su {™u r™hL‚h yrðÂåAÒt
+Ëk¼thu Au, ‚tu ‚uðt y¾kz {tht{tk òuztÞu÷t Þtu„e™u nwk ËðoÚtt
+Ëw÷¼s Awk. >>14>>
+}ææ}æéÐïy² ÐéÝ…ü‹}æ Îé:¶æH²}æàææE„}æì J
+ÝæŒÝé±ç‹„ }æãæy}ææÝ: ¨¢ç¨ôh ÐÚ}ææ¢ xæ„æ: JJ15JJ
+{the «tÂóY… …h{ ËBÞfT rËÂØ™u …t{u÷t {ntí{tytu {tht
+Ät{{tk {™u …t{e™u Vhe™u Œw:¾™e …hB…htÚte ¼hu÷wk yþtï‚
+sL{ (rð„uhu rðfthtu™u) ™Úte …t{‚t. >>15>>
+¥æÏæíræ|æé±ÝæÌæïÜUæ: ÐéÝÚæ±<„Ýæïù…éüÝ J
+}ææ}æéÐïy² „é ÜUæñ‹„ï² ÐéÝ…ü‹}æ Ý ç±l„ï JJ16JJ
+nu yswo™ ! ƒúñt™t ¼wð™ ËwÄe™t ÷tuftu ƒÄtÞ …w™htð]Â¥tðt¤t
+Au, …ý nu ftiL‚uÞ ! {™u …tBÞt …Ae ‚tu Vhe™u sL{ …t{ðt™wk
+hnu‚wks ™Úte. >>16>>
+¨ãd²éxæÐ²ü‹„}æã²üÎìÏæíræ‡ææï   ç±Îé: J
+Úæô~æ ²éxæ¨ãdæ‹„æ¢ „ïùãæïÚæ~æç±Îæï …Ýæ: JJ17JJ
+(nðu-«Ëk„t‚T ƒúñt™t ytÞw»Þ™wk «{tý fnu Au-) [th Þw„
+{¤e™u yuf {ntÞw„ fnuðtÞ Au, y™u yuðt yuf nòh {ntÞw„
+ËwÄe™t {ntft¤™u ƒúñt™tu yuf rŒðË y™u yuf nòh {ntÞw„™e
+yuf htrºt, yu{ ƒúñt™t yntuhtºt™u òý™tht fnuAu. >>17>>
+¥Ã²QUæÎìÃ²QU²: ¨±æü: Ðí|æ±‹y²ãÚæxæ}æï J
+Úæ~²æxæ}æï ÐíHè²‹„ï „~æñ±æÃ²QU¨¢¿æÜïU JJ18JJ
+ƒúñt™t rŒðË™e þYyt‚ Út‚tk yÔÞf‚{tkÚte Ëðo ÔÞÂõ‚ytu
+Wí…Òt ÚtR ytðu Au. y™u …tAe htrºt ytð‚tk ‚us yÔÞf‚{tk
+ËðoÚtt ÷e™ ÚtR òÞ Au. >>18>>
+|æê„xæíæ}æ: ¨ »±æ²¢ |æêy±æ |æêy±æ ÐíHè²„ï J
+Úæ~²æxæ}æïù±àæ: Ðæƒü Ðí|æ±y²ãÚæxæ}æï JJ19JJ
+‚us yt «týe{tºt™tu Ë{qn …hðþ Útftu ðthkðth Wí…Òt ÚtR™u
+nu …tÚto ! htrºt ytð‚tk ÷Þ …t{u Au. y™u …tAtu rŒðË ytð‚tk
+Wí…Òt ÚtR ytðu Au. >>19>>
+ÐÚS„S}ææœæé |ææ±æïù‹²æïùÃ²QUæïùÃ²QUæy¨Ýæ„Ý:J
+²: ¨ ¨±ïü¯é |æê„ï¯é Ýà²y¨é Ý ç±Ýà²ç„ JJ20JJ
+¥Ã²QUæïùÿæÚ §y²éQUS„}ææãé: ÐÚ}ææ¢ xæç„}æì J
+²¢ ÐíæŒ² Ý çÝ±„ü‹„ï „hæ}æ ÐÚ}æ¢ }æ}æ JJ21JJ
+…ý yt yÔÞõ‚ Útfe …h ƒeòu Ë™t‚™ yÔÞõ‚ ¼tð-…ŒtÚto
+Au. fu su Ëðo ¼q‚tu ™tþ …t{‚tk …ý yu …tu‚u ™tþ ™Úte …t{‚tu.
+su yÔÞõ‚ ¼tð™u yûth yu{ fnu Au. y™u ‚u™u …h{ „r‚-
+«tÃÞ MÚtt™ fnu Au. fu su™u …t{e™u …tAt ™Úte Vh‚t ‚u {tYk …h{
+Ëðtuoíf]ü Ät{ Au. >>20-21>>
+ÐéL¯: ¨ ÐÚ: Ðæƒü |ævy²æ H|²Sy±Ý‹²²æ J
+²S²æ‹„: SƒæçÝ |æê„æçÝ ²ïÝ ¨±üç}æÎ¢ „„}æì JJ22JJ
+
+
+Ÿæè}æjxæ±eè„æ
+11
+yæÞtÞ - 9
+nu …tÚto ! su™e yLŒh yt ¼q‚-«týe{tºt hnu÷tk Au. y™u suýu
+yt Ë½¤wk rðï ËkfÕ… {tºtÚte rðM‚tÞwO Au. yÚtðt su™tÚte ÔÞtó
+Au. ‚u …h …wY»t …h{tí{t y™LÞ ¼Âõ‚Útes {¤u Au. (ƒeòu
+{t„os ™Úte.) >>22>>
+²~æ ÜUæHï y±Ýæ±ëçœæ}ææ±ëôœæ ™ñ± ²æïçxæÝ: J
+Ðí²æ„æ ²æç‹„ „¢ ÜUæH¢ ±ÿ²æç}æ |æÚ„¯ü|æ JJ23JJ
+nðu f{oÞtu„eytu su ft¤{tk {hý …t{‚tk y™tð]Â¥t y™u
+ytð]Â¥t …t{u Au, ‚u ft¤™u nu ¼h‚ð»to¼ ! nwk ‚™u fnwk Awk >>23>>
+¥çxÝÁ²æïüç„Úã: àæévH: ¯‡}ææ¨æ ©œæÚæ²‡æ}æì J
+„~æ Ðí²æ„æ xæÓÀç‹„ Ïæíræ Ïæíræç±Îæï …Ýæ: JJ24JJ
+yÂø™, ßÞtur‚; rŒðË, þwf÷ …ût, W¥thtÞ™™t A {tË, yt
+ft¤{tk s™tht ƒúñrð‚T …wY»ttu ƒúñ™u …t{u Au. >>24>>
+{ê}ææï Úæç~æS„ƒæ ÜëUc‡æ: ¯‡}ææ¨æ Îçÿæ‡ææ²Ý}æìJ
+„~æ ™æ‹Îí}æ¨¢ Á²æïç„²æïüxæè ÐíæŒ² çÝ±„ü„ï JJ25JJ
+Äq{, htrºt, ‚Útt f]»ý …ût y™u ŒÂûtýtÞ™™t A {tË, ‚u
+ft¤{tk s™thtu Þtu„e [kÿ™t ÷tuf™u …t{e™u …wÛÞ ¾qx‚tk …tAtu Vhu
+Au. >>25>>
+àæévHÜëUc‡æï xæ„è sï„ï …xæ„: àææE„ï }æ„ï J
+»ÜU²æ ²æy²Ýæ±ëçœæ}æ‹²²æ±„ü„ï ÐéÝ: JJ26JJ
+yt þwõ÷ y™u f]»ý yu ƒÒtu {t„tuo s„ít™t y™trŒ s {t™u÷t
+Au. ‚u{tkÚte yufÚte s™th y™tð]Â¥t-{wÂõ‚ …t{u Au. y™u ƒeòÚte
+s™th …tAtu ytðu Au. >>26>>
+Ýñ„ï ¨ë„è Ðæƒü …æÝ‹²æïxæè }æésç„ ÜUpÝ J
+„S}ææy¨±ïü¯é ÜUæHï¯é ²æïxæ²éQUæï |æ±æ…éüÝ JJ27JJ
+nu …tÚto ! yt ƒÒtu {t„o Ë{Í™thtu ftuR …ý Þtu„e fÞthuÞ
+{tun …t{‚tu ™Úte. {txu nu yswo™ ! ‚wk Ëðo ft¤{tk Þtu„Þwõ‚ Útt !
+>>27>>
+±ïÎï¯é ²¿æ¯é „Ð:¨é ™ñ± ÎæÝï¯é ²yÐé‡²ÈUH¢ ÐíçÎC}æìJ
+¥y²ïç„ „y¨±üç}æÎ¢ ç±çÎy±æ ²æïxæè ÐÚ¢ SƒæÝ}æéÐñç„ ™æl}æì JJ28JJ
+ðuŒtu{tk, Þ¿ttu{tk, ‚…{tk y™u Ëðo Œt™tu{tk su …wÛÞV¤ fnu÷wk
+Au. ‚u Ëðo V¤ WÕ÷kÄe sR™u yt ƒÒtu {t„o™t ‚¥ð™u òý™thtu
+Þtu„e ytã Ë™t‚™ …h{ MÚtt™™u …t{u Au. >>28>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢ ²æïxæàææ›ï
+ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï ¥ÿæÚÏæíræ²æïxææï Ýæ}ææCæïùŠ²æ²: JJ8JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk Þtu„þtMºtu
+
+## ©ef]»ýtòow™ËkðtŒu yûth …h-ƒúñÞtu„tu ™t{ yü{tuàæÞtÞ:
+
+>>8>>
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒ Ý±}ææïùŠ²æ²:
+
+Ÿæè|æxæ±æÝé±æ™ J
+§Î¢ „é „ï  xæés„}æ¢  Ðí±ÿ²æ}²Ý¨ê²±ï J
+¿ææÝ¢ ç±¿ææÝ¨çã„¢ ²Á¿ææy±æ }ææïÿ²¨ïùàæé|ææ„ì JJ1JJ
+©e ¼„ðt™ fnu Au = ‚wk yËqÞt Œtu»tÚte hrn‚ Au {txu yr‚
+hnMÞY… yuðwk yt rð¿tt™u Ërn‚ ¿tt™ ‚u nwk ‚™u fneþ. fu su
+¿tt™ Ë{ÍðtÚte {tuût{tk rðhtuÄe yþw¼-…t…{tºtÚte ‚wk {wõ‚ ÚtR
+sRþ. >>1>>
+Úæ…ç±læ  Úæ…xæés¢  Ðç±~æç}æÎ}æéœæ}æ}æì J
+Ðíy²ÿææ±xæ}æ¢ {}²Z ¨é¨é¶¢ ÜU„éü}æÃ²²}æì JJ2JJ
+yt ¿tt™ Ëðo rðãtytu{tk ©uc Au. Ëðo hnMÞtu{tk …h{
+hnMÞY… Au. …rðºt, W¥t{, «íÞût…ýu Ë{ÍtÞ yuðwk, Ëw¾uÚte
+ËtÄe þftÞ, ™tþ ™ …t{u yuðwk y™u Ä{uo Þwõ‚ Au. >>2>>
+¥Ÿæg{æÝæ: ÐéL¯æ {}æüS²æS² ÐÚ¢„Ð J
+¥ÐíæŒ² }ææ¢ çÝ±„ü‹„ï }æëy²é¨¢¨æÚ±y}æüçÝ JJ3JJ
+nu …hL‚… ! yt ¿tt™Y… Ä{o{tk ©Øt ™rn ht¾™tht …wY»ttu,
+{™u ™rn …t{‚tk {]íÞw™e …hk…htÚte ¼hu÷t ËkËth-{t„o{tk …tAt
+Vhu Au. >>3>>
+
+
+Ÿæè}æjxæ±eè„æ
+12
+yæÞtÞ - 9
+}æ²æ „„ç}æÎ¢ ¨±Z …xæÎÃ²QU}æê<„Ýæ J
+}æySƒæçÝ ¨±ü|æê„æçÝ Ý ™æã¢ „ïc²±çSƒ„: JJ4JJ
+yÔÞõ‚-RrLÿÞtu™u y„tu[h rŒÔÞ{qŠ‚ yuðt {U s yt
+Ë½¤wk s„‚T rðM‚thu÷wk Au, yÚtðt ÔÞt…u÷wk Au. {txus Ëðo ¼q‚tu
+{tht{tk-{thu ytÄthu hnu÷tk Au. …ý nwk ‚u{tk-‚u{™u ytÄthu
+hnu÷tu ™Úte. >>4>>
+Ý ™ }æySƒæçÝ |æê„æçÝ Ðà² }æï ²æïxæ}æñEÚ}æì J
+|æê„|æëóæ ™ |æê„Sƒæï }æ}ææy}ææ |æê„|ææ±Ý: JJ5JJ
+ð¤e yu Ëðo ¼q‚tu {tht{tk ™Úte hnu÷tk yuðwk …ý {tYk Rïh
+¼tð™u Ëq[ð™tYk Þtu„-Ët{ÚÞo Au, ‚u™u ‚wk òu-Ë{Í y™u Ëðo ¼q‚™e
+ð]ÂØ-…tu»tý fh™thtu {thtu ytí{t-MðY… Ëðo ¼q‚™wk ¼hý-…tu»tý
+fhu Au, ‚tu …ý ‚u ‚u{tk hnu÷tu ™Úte. LÞthtu s Au. >>5>>
+²ƒæÜUæàæçSƒ„æï çÝy²¢ ±æ²é: ¨±ü~æxææï }æãæÝì J
+„ƒæ ¨±æüç‡æ |æê„æçÝ }æySƒæÝèy²éÐ{æÚ² JJ6JJ
+Ëðoºt yM¾r÷‚ „r‚ fh™thtu {nt™T ðtÞw su{ r™hL‚h
+ytftþ{tk s hnu÷tu Au. A‚tk LÞthtu Au. ‚u s «{týu Ëðo ¼q‚tu
+{tht{tk hnu÷tk Au. yu{ Ë{Í ! >>6>>
+¨±ü|æê„æçÝ ÜUæñ‹„ï² ÐíÜëUô„ ²æç‹„ }ææç}æÜUæ}æì J
+ÜUËÐÿæ²ï ÐéÝS„æçÝ ÜUËÐæÎæñ ç±¨ë…æ}²ã}æì JJ7JJ
+ni ftiL‚uÞ ! fÕ…™u yL‚u Ëðo ¼q‚-«týe{tºt {the {tÞt «íÞu
+«ðuþe òÞ Au. ‚us Ëðo ¼q‚tu™u fÕ…™t ythk¼{tk …tAtu nwk s
+ËswO Awk. >>7>>
+ÐíÜëUô„ S±æ}æ±C|² ç±¨ë…æç}æ ÐéÝ: ÐéÝ: J
+|æê„xæíæ}æç}æ}æ¢ ÜëUyF}æ±àæ¢ ÐíÜëU„ï±üàææ„ì JJ8JJ
+«f]r‚-{tÞt™t ðþ…ýtÚte …hðþ-f{toÄe™ ð‚o‚t yt Ë{„ú
+¼q‚Ë{qn™u nwk {the {tÞt-þÂõ‚™u yð÷kƒe™u ð¾‚tu-ð¾‚
+ðthkðth ËswO Awk. >>8>>
+Ý ™ }ææ¢ „æçÝ ÜU}ææüç‡æ çÝÏæŠÝç‹„ {Ý¢…² J
+©Îæ¨èÝ±Îæ¨èÝ}æ¨Q¢U „ï¯é ÜU}æü¨é JJ9JJ
+…ý nu Ä™ksÞ !‚u Ë]Âü ytrŒf f{o{tk WŒtËe™™e …uXu
+ð‚o™tht y™u ytËÂõ‚ rð™t™t {™u, ‚u Ë]Âü ytrŒf f{o ƒLÄ™
+fhe þf‚tk ™Úte. >>9>>
+}æ²æŠ²ÿæï‡æ ÐíÜëUç„: ¨ê²„ï ¨™Úæ™Ú}æì J
+ãï„éÝæÝïÝ ÜUæñ‹„ï² …xæçmÐçÚ±„ü„ï JJ10JJ
+y™u nwk yæÞût-‚xMÚt hne™us «f]r‚îtht yt [ht[h rðï™u
+Ëòoðwk Awk. y™u nu ftiL‚uÞ ! yt fthýÚtes yt Ë½¤wk s„‚T
+ËkË]r‚{tk rðrðÄ ¼tðu …rhð‚o™ …tBÞt s fhu Au. >>10>>
+¥±…æÝç‹„ }ææ¢ }æêÉæ }ææÝé¯è¢ „Ýé}ææçŸæ„}æì J
+ÐÚ¢ |ææ±}æ…æÝ‹„æï }æ}æ |æê„}æãïEÚ}æì JJ11JJ
+Ëðo ¼q‚-«týe{tºt™tu nwk Ëðtuo…rh r™ÞL‚t Awk. yu {tYk {tuxwk
+yiïÞo ™rn òý™tht {qZtí{tytu {™w»Þ þheh™u ytþhe™u «íÞût
+ð‚o‚t {the yð¿tt fhu Au. >>11>>
+}ææïÍææàææ }ææïÍæÜU}ææü‡ææï }ææïÍæ¿ææÝæ ç±™ï„¨: J
+Úæÿæ¨è}ææ¨éÚè¢ ™ñ± ÐíÜëUô„ }ææïçãÝè¢ çŸæ„æ: JJ12JJ
+ytðt {™w»Þtu r™»V¤ ytþtytu Ëuð™tht, r™»V¤ f{o
+fh™tht, r{ÚÞt ¿tt™ Ë{Í™tht, ¼úü r[¥tðt¤t y™u ‚uytu
+htûtËe y™u ytËwhe {tÞt™u ytþhu÷t ntuÞ Au. >>12>>
+}æãæy}ææÝS„é }ææ¢ Ðæƒü Îñ±è¢ ÐíÜëUç„}ææçŸæ„æ: J
+|æ…‹y²Ý‹²}æÝ¨æï ¿ææy±æ |æê„æçÎ}æÃ²²}æì JJ13JJ
+y™u nu …tÚto ! Œiðe «f]r‚™u ytþhu÷t {ntí{tytu-{tht ¿tt™e
+¼õ‚tu ‚tu, {™u Ëðo ¼q‚™tu ytrŒ-fthý y™u yrð™tþe MðY…
+òýe-Ë{Íe™u y™LÞ {™ðt¤t ÚtR™u {™u s ¼su Au. >>13>>
+¨„„¢ ÜUè„ü²‹„æï }ææ¢ ²„‹„p ÎëÉ±í„æ: J
+Ý}æS²‹„p }ææ¢ |ævy²æ çÝy²²éQUæ ©Ðæ¨„ï JJ14JJ
+{tYks Ë‚‚-y¾kzfe‚o™ fh‚t, y™u áZËkfÕ… ÚtR™u {™u
+«ËÒt fhðts Œhuf «Þí™ fh‚t, r™hL‚h {™us ™{Mfth fh‚t
+y™u {tht{tk y¾kz Þwõ‚ ÚtR™u «u{…qðof {thes W…tË™t fhu
+Au. >>14>>
+
+
+Ÿæè}æjxæ±eè„æ
+13
+yæÞtÞ - 9
+¿ææÝ²¿æïÝ ™æŒ²‹²ï ²…‹„æï }ææ}æéÐæ¨„ï J
+»ÜUy±ïÝ Ðëƒvy±ïÝ Ïæãé{æ ç±E„æï}æé¶}æì JJ15JJ
+ƒeò ¿tt™Þtu„e ¼õ‚tu, {the fÚtt-fe‚o™trŒf fhðtY…
+¿tt™Þ¿tÚte {tYk …qs™ fh‚t Útft {the W…tË™t fhu Au. ð¤e
+ƒeòytu …ý y™ufY…u hnu÷t {the W…tË™t yufíðÚte ‚u{s
+…]Útø¼tðÚte …tu‚…tu‚t™e Yr[ «{týu ƒnw «fthu fhu Au. >>15>>
+¥ã¢ RU„éÚã¢ ²¿æ: S±{æã}æã}ææñ¯{}æì J
+}æ‹~ææïùã}æã}æï±æÁ²}æã}æçxÝÚã¢ ãé„}æì JJ16JJ
+çÐ„æã}æS² …xæ„æï }ææ„æ {æ„æ çÐ„æ}æã: J
+±ïl¢ Ðç±~æ}ææï¢ÜUæÚ «v¨æ}æ ²…éÚï± ™ JJ17JJ
+¢‚w-©ti‚ Þ¿t nwk Awk. Þ¿t-M{t‚o Þ¿t nwk Awk. MðÄt- ytnwr‚
+yt…ðt™tu {kºt nwk Awk. yti»trÄ nwk Awk {kºt nwk Awk. ½e …ý nwk s Awk.
+ntu{ðt™wk îth yÂø™ nwk Awk. y™u ntu{u÷wk ÿÔÞ …ý nwk s Awk.
+yt Ë½¤t s„ít ™tu r…‚t-s™f, {t‚t-s™™e, Ät‚t-…tu»tf,
+r…‚t{n-ŒtŒtu, òýðt suðwk ‚¥ð, …rðºt ðM‚w, Hfth, ÉøðuŒ,
+Ët{ðuŒ y™u yÚtðoðuŒ …ý, yt Ë½¤tY…u nwks Awk. >>16-17>>
+xæç„|æü„æü Ðí|æé: ¨æÿæè çÝ±æ¨: àæÚ‡æ¢ ¨éN„ì J
+Ðí|æ±: ÐíH²: SƒæÝ¢ çÝ{æÝ¢ Ïæè…}æÃ²²}æì JJ18JJ
+…t{ðt ÞtuøÞ …h{ «tÂóMÚtt™, ¼hý …tu»tý fh™thtu, Ëðo™tu
+Mðt{e, Ëðo™t f{o™tu Ëtûte, Ëðo™tu r™ðtË-ytÄth, þhý-hûtý
+fh™th, ËwÓ‚T-y«urh‚ rn‚ fh™th, «¼ð-Wí…Â¥t™wk fthý,
+«÷Þ-÷Þ™wk fthý, Ëðo™e ÂMÚtr‚ ht¾™th, r™Ät™, y™u
+yrð™tþe ƒes-fthý nwk s Awk >>18>>
+„Ðæ}²ã}æã¢ ±¯Z çÝxæëØæ}²éy¨ë…æç}æ ™ J
+¥}æë„¢ ™ñ± }æëy²ép ¨Î¨Ó™æã}æ…éüÝ JJ19JJ
+ËqÞoY…u nwk s ‚…wk Awk. ðhËtŒ™u htufe …ý nwk s ht¾wk Awk. y™u
+ð¾‚ ytÔÞu nwk s ðhËtðwk Awk. y{]‚-{wÂõ‚ yÚtðt Sð™, y™u
+{]íÞw ‚u …ý nwk s Awk. y™u nu yswo™ ! ËítT-ftÞoY… yt s„‚T,
+y™u yË‚T ftÞoÚte r¼Òt fthýY… ‚¥ð ‚u …ý nwk s Awk >>19>>
+~æñç±læ }ææ¢ ¨æï}æÐæ: Ðê„ÐæÐæ ²¿æñçÚcÅì±æ S±xæüô„ Ðíæƒü²‹„ï J
+„ï Ðé‡²}ææ¨æl ¨éÚï‹ÎíHæïÜU}æàÝç‹„ çÎÃ²æç‹Îç± Îï±|ææïxææÝì JJ20JJ
+„ï „¢ |æévy±æ S±xæüHæïÜ¢U ç±àææH¢ ÿæè‡æï Ðé‡²ï }æy²üHæïÜ¢U ç±àææç‹„J
+»±¢ ~æ²è{}æü}æÝéÐíÐóææ xæ„æxæ„¢ ÜUæ}æÜUæ}ææ H|æ‹„ï JJ21JJ
+ðuŒºtÞe{tk fnu÷tk f{o fh™tht, Ëtu{-hË™wk …t™ fh™tht y™u
+‚uÚte s …t… hrn‚ ÚtÞu÷t …wY»ttu ðuŒ rðrn‚ Þ¿ttuÚte {tYk …qs™
+fhe™u Mð„o ÷tuf™e «tÂó™e {t„ýe fhu Au. ‚uytu …wÛÞ«tÃÞ
+ËwhuLÿ÷tuf™u …t{e™u Mð„o{tk hnu÷t Œuð¼tu„tu™u ¼tu„ðu Au.
+‚u ÷tuftu ‚u rðþt¤-ði¼ðþt¤e Mð„o÷tuf™u ¼tu„ðe™u …wÛÞ
+ÚtR hnu Au íÞthu …tAt {íÞo ÷tuf{tk ytðu Au. yt «{týu ðuŒºtÞe{tk
+fnu÷t Ä{o™u y™wËh™tht rð»tÞtu…¼tu„™e yr¼÷t»tt ht¾™tht
+{™w»Þtu ytðt„{™u …tBÞt fhu Au. >>20-21>>
+¥Ý‹²æçp‹„²‹„æï }ææ¢ ²ï …Ýæ: Ð²éüÐæ¨„ï J
+„ï¯æ¢ çÝy²æç|æ²éQUæÝæ¢ ²æïxæÿæï}æ¢ ±ãæ}²ã}æì JJ22JJ
+y™u su s™tu y™LÞ ¼tðÚte ¼trð‚ ÚtR™u {tYks r[L‚ð™
+fh‚tk {the W…tË™t fhu Au. yuðt ‚u {tht{tk y¾kz òuztÞu÷t
+…wY»t™wk Þtu„ y™u ûtu{ ‚u™u nwks W…tze ÷ô Awk. >>22>>
+²ïùŒ²‹²Îï±„æ |æQUæ ²…‹„ï Ÿæh²æç‹±„æ: J
+„ïùçÐ }ææ}æï± ÜUæñ‹„ï² ²…‹y²ç±ç{Ðê±üÜU}æì JJ23JJ
+y™u suytu …ý ƒeò Œuð‚tytu{tk ¼Âõ‚ ht¾u Au. y™u
+©ØtÞwõ‚ ÚtR™u …qs™ fhu Au, ‚u …ý nu ftiL‚uÞ ! òu fu-…qò ‚tu
+{thes fhu Au. …ý yrðrÄ…qðof-{™u Ëðtoí{t ™rn òýe™u …htuût
+he‚u …qsu Au. >>23>>
+¥ã¢ çã ¨±ü²¿ææÝæ¢ |æQUæ ™ Ðí|æéÚï± ™ J
+Ý „é }ææ}æç|æ…æÝç‹„ „œ±ïÝæ„àÓ²±ç‹„ „ï JJ24JJ
+fthý fu Ëðo Þ¿ttu™tu ¼tuõ‚t y™u «¼w-V¤«Œt‚t ‚tu nwk s
+Awk. …ý yu he‚u {™u ‚uytu ¾he he‚u ÞÚttÚto òý‚t ™Úte. ‚uÚte
+‚uytu yrð™tþe {ntV¤Úte …ze òÞ Au. yÚtto‚T-yr‚ yÕ… V¤™u
+{u¤ðu Au. >>24>>
+
+
+Ÿæè}æjxæ±eè„æ
+14
+yæÞtÞ - 9
+²æç‹„ Îï±±í„æ Îï±æç‹Ð„ë‹²æç‹„ çÐ„ë±í„æ: J
+|æê„æçÝ ²æç‹„ |æê„ïÁ²æ ²æç‹„ }ælæç…ÝæïùçÐ }ææ}æìJ25J
+Œuðtu{tk ©Øt ht¾e™u  ðú‚fh™tht Œuðtu™u …t{u Au. r…‚]ytu{tk
+©Øt ht¾e™u ðú‚ fh™tht r…‚]ytu™u …t{uAu. ¼q‚ ¼ihðtrŒf™u
+…qs™tht ¼q‚ ¼ihðtrŒf™u …t{u Au. y™u yu‚tu ¾wÕ÷wks Au fu {tYk
+Þs™-…qs™ fh™tht ‚tu {™u s …t{u Au. >>25>>
+Ð~æ¢ ÐécÐ¢ ÈUH¢ „æï²¢ ²æï }æï |ævy²æ Ðí²ÓÀç„ J
+„Îã¢ |ævy²éÐN„}æàÝæç}æ Ðí²„æy}æÝ: JJ26JJ
+(nwk fux÷tu Ëh÷ y™u Ëw÷¼ Awk ‚u ‚tu òu !) …ºt, …w»…, V¤ fu
+s¤, su {™u «u{Úte y…oý fhu Au. ‚u nwk …rðºt-yuft„ú {™ðt¤t
+{tht ¼õ‚™wk ¼Âõ‚Úte yt…u÷w „úný fYk Awk. >>26>>
+²yÜUÚæïç¯ ²ÎàÝæç¨ ²Á…éãæïç¯ ÎÎæç¨ ²„ì J
+²œæÐS²ç¨ ÜUæñ‹„ï² „yÜéULc± }æÎÐü‡æ}æì JJ27JJ
+{txu ‚wk …ý su fhu Au, su ¾tÞ Au, su ntu{u Au, su yt…u Au,
+y™u su ‚… fhu Au. ‚u Ë½¤wk nu ftiL‚uÞ ? {™u y…oý ƒwÂØÚte s
+fh ! >>27>>
+àæé|ææàæé|æÈUHñÚï±¢ }ææïÿ²¨ï ÜU}æüÏæ‹{Ýñ: J
+¨¢‹²æ¨²æïxæ²éQUæy}ææ ç±}æéQUæï }ææ}æéÐñc²ç¨ JJ28JJ
+y™u yt{ {™u y…oý fhðtÚte Ëthtk-™hËtk V¤ yt…™thtk
+þw¼-yþw¼ Ëðo f{oƒkÄ™tuÚte ‚wk {wftR sRþ. y™u yt
+V¤íÞt„Y… ËkLÞtËÞtu„Úte Þwõ‚ {™ðt¤tu ‚wk Ëðo f{oÚte {wõ‚
+ÚtR™u {™us …t{eþ. >>28>>
+¨}ææïùã¢ ¨±ü|æê„ï¯é Ý }æï mïc²æïùçS„ Ý çÐí²: J
+²ï |æ…ç‹„ „é }ææ¢ |ævy²æ }æç² „ï „ï¯é ™æŒ²ã}æìJ29J
+Ëðo ¼q‚-«týe{tºt{tk Ë{ ¼tðÚte nwk hnu÷tu Awk, {txu {thu
+yt îu»t fhðt ÞtuøÞ, fu yt «u{ fhðt ÞtuøÞ yuðtu rð¼t„ ™Úte.
+…ý su ftuR {™u …h{ «u{Úte ¼su Au. ‚tu ‚uytu {tht{tk Au. y™u
+‚uytu{tk nwk …ý Awk. (yÚtto‚T- ¼su ‚u™t ¼„ðt™ Au.) >>29>>
+¥çÐ ™ïy¨éÎéÚæ™æÚæï |æ…„ï }ææ}æÝ‹²|ææÜUì J
+¨æ{éÚï± ¨ }æ‹„Ã²: ¨}²xÃ²±ç¨„æï çã ¨: JJ30JJ
+y™u ð¤e {h ftuR „{u ‚uðtu yr‚ Œwht[the ntuÞ, ‚tu …ý {™u
+y™LÞ ¼tðÚte òu ¼su Au, ‚tu ‚u ¾htu ËtÄws Au yu{ {t™ðtu,
+fthý fu nðu ‚u ½ýt Ëtht r™ùÞ W…h ytðe „Þu÷tu Au {txu. >>30>>
+çÿæÐí¢ |æ±ç„ {}ææüy}ææ àæEÓÀæô‹„ çÝxæÓÀç„ J
+ÜUæñ‹„ï² Ðíç„ …æÝèçã Ý }æï |æQ: Ðí‡æà²ç„ JJ31JJ
+ytðtu {týË xwkfe {wŒ‚{tks Ä{toí{t ÚtR òÞ Au. y™u y¾kz
+þtÂL‚™u …ý …t{u Au. nu ftiL‚uÞ ! ‚wk «r‚¿tt fhe™u fnu su fu {thtu
+¼õ‚ fÞthuÞ {tuût{t„oÚte …zþu ™rn. >>31>>
+}ææ¢ çã Ðæƒü Ã²ÐæçŸæy² ²ïùçÐ S²é: ÐæÐ²æïÝ²:J
+ç›²æï ±ñà²æS„ƒæ àæêÎíæS„ïùçÐ ²æç‹„ ÐÚæ¢ xæç„}æìJ32
+nu …tÚto ! {thtu {rn{t ‚tu òu ! {thtu yt©Þ fhe™u ‚tu, su ftuR
+…t… Þtur™{tk sL{u÷t ntuÞ, ‚u{s Mºteytu, ði~Þtu, ‚Útt þqÿtu, ‚u
+Ë½¤tÞ …ý …h{ Ëðtuoíf]ü „r‚Y… {tht Ät{™u …t{u Au. >>32>>
+ôÜU ÐéÝÏæíæüræ‡ææ: Ðé‡²æ |æQUæ Úæ…¯ü²S„ƒæ J
+¥çÝy²}æ¨é¶¢ HæïÜUç}æ}æ¢ ÐíæŒ² |æ…S± }ææ}æì JJ33JJ
+‚tu …Ae …wÛÞðt™ ƒútñýtu ‚Útt htsŠ»t-ûtrºtÞtu, ‚u {tht ¼õ‚tu
+ntuÞ ‚tu ‚u …h{„r‚ …t{us. yu{tk ð¤e fnuðt™wk s þwk ntuÞ ? {txu
+‚wk yt yr™íÞ y™u ðtM‚rðf Ëw¾ rð™t™t {t™ð ÷tuf™u sL{™u
+…t{e™u {tYks ¼s™ fhe ÷u ! >>33>>
+}æ‹}æÝæ |æ± }æjQUæï }ælæ…è }ææ¢ Ý}æSÜéUL J
+}ææ}æï±ñc²ç¨ ²évy±ñ±}ææy}ææÝ¢ }æyÐÚæ²‡æ: JJ34JJ
+‚wk {tht{tks {™ ht¾™thtu Útt ! {tht{tks M™un ht¾ ! {tYks
+…qs™ fh ! y™u {™us ™{Mfth fh ! yt «{týu ‚wk {í…htÞý
+ÚtR™u {tht{tks {™ òuzeþ, ‚tu ™¬e ‚wk {™us …t{eþ. >>34>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢ ²æïxæàææ›ï
+ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï Úæ…ç±læÚæ…xæés²æïxææï Ý±}ææïùŠ²æ²: JJ9JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk Þtu„þtMºtu
+
+## ©ef]»ýtòow™ËkðtŒu htsrðãt-hts„wÌtÞtu„tu ™t{ ™ð{tuàæÞtÞ:
+
+>>9>>
+
+
+Ÿæè}æjxæ±eè„æ
+15
+yæÞtÞ - 10
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒ Îàæ}ææïùŠ²æ²:
+
+Ÿæè|æxæ±æÝé±æ™ J
+|æê² »± }æãæÏææãæï Ÿæë‡æé }æï ÐÚ}æ¢ ±™: J
+²œæïùã¢ Ðíè²}ææ‡ææ² ±ÿ²æç}æ çã„ÜUæ}²²æ JJ1JJ
+©e ¼„ðt™ fnu Au = nu {ntƒtntu ! {tYk ð[™ Ëtk¼¤e™u
+«ËÒt Út‚t ‚™u ‚tYk rn‚ fhðt™e RåAtÚte «uhtR™u su nwk ƒeswk
+W¥t{ ð[™ fnwkAwk ‚u ‚wk æÞt™ ŒR™u Ëtk¼¤ ! >>1>>
+Ý }æï ç±Îé: ¨éÚxæ‡ææ: Ðí|æ±¢ Ý }æã¯ü²: J
+¥ã}ææçÎ<ã Îï±æÝæ¢ }æã¯èü‡ææ¢ ™ ¨±üàæ: JJ2JJ
+{thtu Wí…Â¥t «fth Ëðo Œuð„ýtu ‚u{s {nr»toytu …ý òý‚t
+™Úte. fthý fu yu Œuðtu™tu y™u {nŠ»tytu™tu …ý Ëðo «fthu nwk s
+ytrŒ fthý Awk. >>2>>
+²æï }ææ}æ…}æÝæôÎ ™ ±ïçœæ HæïÜU}æãïEÚ}æì J
+¥¨¢}æêÉ: ¨ }æy²ïü¯é ¨±üÐæÐñ: Ðí}æéÓ²„ï JJ3JJ
+su {™u ysL{t-sL{trŒf rðfthu hrn‚, y™u y™trŒ Ëðo
+÷tuf™tu {nuïh Ëðo-r™ÞL‚t yu{ òýu Au, ‚u {™w»Þtu{tk W¥t{
+¿tt™e Ëðo …t…Úte ËðoÚtt {wftR òÞAu. >>3>>
+Ïæéçh¿ææüÝ}æ¨¢}ææïã: ÿæ}ææ ¨y²¢ Î}æ: àæ}æ: J
+¨é¶¢ Îé:¶¢ |æ±æïù|ææ±æï |æ²¢ ™æ|æ²}æï± ™ JJ4JJ
+¥ôã¨æ ¨}æ„æ „éçCS„Ðæï ÎæÝ¢ ²àææïù²àæ: J
+|æ±ç‹„ |ææ±æ |æê„æÝæ¢ }æœæ »± Ðëƒçx±{æ: JJ5JJ
+ƒwÂØ, ¿tt™, yËk{tun-ËtðÄt™‚t,ût{t, ËíÞ, Œ{, þ{,
+Ëw¾, Œw:¾, ¼ð-Wí…Â¥t, y¼tð-™tþ, ¼Þ y™u y¼Þ …ý.
+y®nËt, Ë{‚t-Ë{áÂü, ‚wÂü-Ëk‚tu»t, ‚…, Œt™, Þþ,
+y…Þþ, yt Ë½¤t swŒt-swŒt «fth™t ¼q‚{tºt™t ¼tðtu-„wýtu,
+{tht Útfes «ð‚uo Au. >>4-5>>
+}æã¯ü²: ¨# Ðê±ïü ™y±æÚæï }æÝ±S„ƒæ J
+}æjæ±æ }ææÝ¨æ …æ„æ ²ï¯æ¢ HæïÜU §}ææ: Ðí…æ:J6J
+Ët‚ {nŠ»tytu, ‚u …nu÷tk™t [th-Ë™ftrŒftu, ‚Útt [tiŒ{™wytu,
+yt Ë½¤t, fu su{™tÚte ÷tuf{tk yt Ë½¤e «òytu ÚtR Au, ‚u
+ƒÄt ƒúñt™t {™Úte ÚtÞu÷t {tht ¼tðtu Au. >>6>>
+»„æ¢ ç±|æêô„ ²æïxæ¢ ™ }æ}æ ²æï ±ïçœæ „œ±„: J
+¨æïùç±ÜU}ÐïÝ ²æïxæïÝ ²éÁ²„ï Ýæ~æ ¨¢àæ²: JJ7JJ
+{the yt rð¼qr‚ y™u {tYk yt Ët{ÚÞo ‚u™u su ‚¥ðÚte òýu
+Au, ‚tu ‚u …wY»t yrð[¤ ¼Âõ‚Þtu„Úte òuztÞ Au-r™»…Òt ÚttÞ Au,
+yu{tk ftkR ËkþÞ ™Úte. >>7>>
+¥ã¢ ¨±üS² Ðí|æ±æï }æœæ: ¨±Z Ðí±„ü„ï J
+§ç„ }æy±æ |æ…‹„ï }ææ¢ Ïæé{æ |ææ±¨}æç‹±„æ: JJ8JJ
+nwks Ëðo s„í™tu ytrŒ fthý¼q‚ Awk. y™u {thtÚtes yt Ë½¤wk
+rðï «ð‚uo Au. yt «{týu Ë{Íe™u ztÌtt-ƒwÂØ{t™ {týËtu,
+{tht{tk ¼tð-¼Âõ‚yu Þwõ‚ ÚtR™u {™us ¼su Au. >>8>>
+}æçÓ™œææ }æe„Ðíæ‡ææ Ïææï{²‹„: ÐÚSÐÚ}æì J
+ÜUƒ²‹„p }ææ¢ çÝy²¢ „éc²ç‹„ ™ Ú}æç‹„ ™ JJ9JJ
+{tht ¼õ‚tu {tht{tks r[¥t ht¾e™u, {tht{tks «týð]Â¥t
+òuze™u, …hM…h yufƒeò™u {thtu {rn{t Ë{òð‚tk, y™u
+r™hL‚h {thes fÚtt-ðt‚toytu fh‚tk ËL‚wü ð‚uo Au. y™u
+yt™LŒt™w¼ð {týu Au. >>9>>
+„ï¯æ¢ ¨„„²éQUæÝæ¢ |æ…„æ¢ Ðíèç„Ðê±üÜU}æì J
+ÎÎæç}æ Ïæéçh²æïxæ¢ „¢ ²ïÝ }ææ}æéÐ²æç‹„ „ï JJ10JJ
+yt «{týu {tht{tk y¾kz òuztR hnu÷t y™u {™u s «er‚…qðof
+¼s™tht ‚u {tht ¼õ‚tu™u nwk ‚uðtu ƒwÂØÞtu„ yt…wk Awk fu su™tÚte
+‚uytu {™u Ëtûtt‚T …t{u Au-XuX {tht Ät{{tk s òÞ Au. >>10>>
+„ï¯æ}æï±æÝéÜU}Ðæƒü}æã}æ¿ææÝ…¢  „}æ: J
+Ýæàæ²æ}²æy}æ|ææ±Sƒæï ¿ææÝÎèÐïÝ |ææS±„æ JJ11JJ
+y™u ‚uytu™t W…h y™w„ún fhðt {txus, ‚u{™t
+
+
+Ÿæè}æjxæ±eè„æ
+16
+yæÞtÞ - 10
+ÓŒÞthrðLŒ{tk y¾kz rðhts{t™ hnu÷tu nwk «ftrþ‚
+¿tt™Œe…Úte ‚u{™t y¿tt™Úte «Ëh‚t ykÄfth™u-ytðhý™u
+™tþ fYk Awk. >>11>>
+¥…üéÝ ©±æ™ J
+ÐÚ¢ Ïæíræ ÐÚ¢ {æ}æ Ðç±~æ¢  ÐÚ}æ¢  |æ±æÝì J
+ÐéL¯¢ àææE„¢ çÎÃ²}ææçÎÎï±}æ…¢ ç±|æé}æì JJ12JJ
+¥æãéSy±æ}æë¯²: ¨±ïü  Îï±<¯ÝæüÚÎS„ƒæ J
+¥ç¨„æï Îï±Hæï Ã²æ¨: S±²¢ ™ñ± Ïæí±èç¯ }æï JJ13JJ
+yswo™ …qAu Au = yt…s …hkƒúñ Atu, …h{ Ät{-«tÃÞ MÚtt™,
+…h{ …rðºt-…r‚‚…tð™ Atu. y™u yt…™us þtï‚ …wY»t,
+rŒÔÞ{qŠ‚, ytrŒŒuð, ysL{t y™u rð¼w ËðoÔÞt…f Atu. yu{ ƒÄt
+{nŠ»tytu fnu Au. ‚u{s ŒuðŠ»t ™thŒ{wr™. yrË‚, Œuð¤ y™u
+ÔÞtË{wr™, yu Ëðuo ‚Útt yt… …tu‚u …ý {™u yu{s fne Ë{Ítðtu
+Atu. >>12-13>>
+¨±ü}æï„Îë„¢ }æ‹²ï ²‹}ææ¢ ±Îç¨ ÜïUàæ± J
+Ý çã „ï |æxæ±‹Ã²ôQU ç±ÎéÎïü±æ Ý ÎæÝ±æ: JJ14JJ
+nu fuþð ! yt… {™u su fntu Atu, ‚u Ë½¤wk nwk ËíÞs {t™wk Awk.
+¾hu¾h nu ¼„ðt™T ! yt…™t ÔÞÂõ‚ ¼tð™u ‚tu ™Úte Œuðtu òý‚t,
+fu ™Úte ŒiíÞtu òý‚t. >>14>>
+S±²}æï±æy}æÝæy}ææÝ¢ ±ïyƒ y±¢ ÐéL¯æïœæ}æ J
+|æê„|ææ±Ý  |æê„ïàæ  Îï±Îï±  …xæyÐ„ï JJ15JJ
+nu ¼q‚¼tð™ !-¼q‚-«týe{tºt™u ð]ÂØ …{tz™tht ! nu ¼q‚uþ
+! ¼q‚{tºt™t r™Þk‚t, nu ŒuðŒuð ! s„í…‚u ! y™u nu …wY»ttu¥t{ !
+‚{us yuf ‚{tht MðY…™u ‚Útt {rn{t Ët{ÚÞo™u ‚{the {u¤us
+MðÞk …tu‚us òýtu Atu. >>15>>
+±QéU}æãüS²àæï¯ï‡æ çÎÃ²æ sæy}æç±|æê„²: J
+²æç|æ<±|æêç„ç|æHæïüÜUæçÝ}ææ¢Sy±¢ Ã²æŒ² ç„Dç¨ J16J
+{txu yt…™e rŒÔÞ-Ëðo©uc rð¼qr‚ytu {™u Ë{„ú…ýu fnuðt™u ÞtuøÞ
+Atu. fu su rð¼qr‚ytuÚte yt Ëðo ÷tuf{tk yt… ÔÞt…e™u hnu÷t Atu. >>16>>
+ÜUƒ¢ ç±læ}æã¢ ²æïôxæSy±æ¢ ¨Îæ ÐçÚç™‹„²Ýì J
+ÜïU¯é ÜïU¯é ™ |ææ±ï¯é ç™‹y²æïùç¨ |æxæ±‹}æ²æ JJ17JJ
+nu Þtu„uïh ! ‚{tYk ËŒtÞ …rhr[L‚ð™ fh‚tk ‚{™u nwk fuðe
+he‚u òýe þfwk ? nu ¼„ð™T ! fÞt fÞt …ŒtÚttuo{tk {thu yt…™wk
+r[L‚ð™ fhðwk ? >>17>>
+ç±S„Úï‡ææy}æÝæï ²æïxæ¢ ç±|æêô„ ™ …ÝæÎüÝ J
+|æê²: ÜUƒ² „ëç#<ã Ÿæë‡±„æï ÝæçS„ }æïù}æë„}æì JJ18JJ
+nu s™tŒo™ ! yt…™tu {rn{t y™u yt…™e rð¼qr‚ytu VheÚte
+rðM‚th…qðof {™u fntu ? yt…™tu {rn{t Ë{òð™tYk y{]‚ ‚wÕÞ
+yt…™wk ¼t»tý Ëtk¼¤‚tk {™u ‚]Âó s Út‚e ™Úte. >>18>>
+Ÿæè
+|æxæ±æÝé±æ™
+
+## J
+
+ã‹„ „ï ÜUƒç²c²æç}æ çÎÃ²æ sæy}æç±|æê„²: J
+Ðíæ{æ‹²„: ÜéULŸæïD ÝæSy²‹„æï ç±S„ÚS² }æï JJ19JJ
+©e ¼„ðt™ fnu Au = ¼÷u íÞthu nu fwY©uc ! ‚™u {the rŒÔÞ
+rð¼qr‚ytu{tkÚte {wÏÞ…ýu hnu÷e fux÷ef rð¼qr‚ytu fneþ. fthý
+fu - {the rð¼qr‚ytu™t rðM‚th™tu yL‚ ‚tu ™Úte s. >>19>>
+¥ã}ææy}ææ xæéÇæÜïUàæ ¨±ü|æê„æàæ²çSƒ„: J
+¥ã}ææçÎp }æŠ²¢ ™ |æê„æÝæ}æ‹„ »± ™ JJ20JJ
+nu „wztfuþ ! Ëðo ¼q‚-«týe{tºt™t ÓŒÞ{tk hnu÷tu ytí{t-
+Sðtí{t ‚u nwk Awk-{the rð¼qr‚ Au. y™u Ëðo ¼q‚tu™tu ytrŒ fthý,
+{æÞ-ÂMÚtr‚-hûtý fh™thtu, y™u yL‚-Ëknth fh™thtu …ý nwk s
+Awk. >>20>>
+¥æçÎy²æÝæ}æã¢ ç±c‡æéÁ²æïüç„¯æ¢ Úç±Ú¢àæé}ææÝì J
+}æÚèç™}æüL„æ}æçS}æ Ýÿæ~ææ‡ææ}æã¢ àæàæè  JJ21JJ
+ƒth ytrŒíÞtu{tk rð»ýw™t{u ytrŒíÞ nwk Awk. «ftþðt¤t
+…ŒtÚttuo{tk ykþw{t™T-ËqÞoŒuð nwk Awk. ytu„ý…[tþ ðtÞwytu{tk
+{her[™t{u ðtÞw nwk Awk. y™u ™ûtºttu{tk [Lÿ{t ‚u nwk Awk. >>21>>
+±ïÎæÝæ¢ ¨æ}æ±ïÎæïùçS}æ Îï±æÝæ}æçS}æ ±æ¨±: J
+§ç‹Îí²æ‡ææ¢ }æÝpæçS}æ |æê„æÝæ}æçS}æ ™ï„Ýæ JJ22JJ
+
+
+Ÿæè}æjxæ±eè„æ
+17
+yæÞtÞ - 10
+ðuŒtu{tk Ët{ ðuŒ nwk Awk Œuðtu{tk RLÿ Œuð nwk Awk. RrLÿÞtu{tk {™
+nwk Awk. y™u ¼q‚tu{tk [u‚™t-ƒwÂØ‚¥ð nwk Awk. >>22>>
+LÎíæ‡ææ¢ àæ¢ÜUÚpæçS}æ ç±œæïàææï ²ÿæÚÿæ¨æ}æì J
+±¨êÝæ¢ Ðæ±ÜUpæçS}æ }æïL: çàæ¶çÚ‡ææ}æã}æì JJ23JJ
+ÐéÚæï{¨æ¢ ™ }æéw²¢ }ææ¢ ç±çh Ðæƒü ÏæëãSÐç„}æìJ
+¨ïÝæÝèÝæ}æã¢ SÜU‹Î: ¨Ú¨æ}æçS}æ ¨æxæÚ: JJ24JJ
+y„eÞth Yÿtu{tk þkfh nwk Awk. Þûttu{tk y™u htûtËtu{tk fwƒuh nwk
+Awk. ytX ðËwytu{tk …tðf ™t{u ðËw nwk Awk. rþ¾htuðt¤t …ðo‚tu{tk
+{uY ™t{u …ðo‚ nwk Awk.
+nu …tÚto ! …whturn‚tu{tk {wÏÞ su Œuð„wÁ ƒ]nM…r‚ ‚u {™u òý
+! Ëu™t…r‚ytu{tk ftŠ‚f Mðt{e nwk Awk. y™u s¤tþÞtu{tk Ët„h nwk
+Awk. >>23 - 24>>
+}æã¯èü‡ææ¢ |æëxæéÚã¢ çxæÚæ}æS}²ïÜU}æÿæÚ}æì J
+²¿ææÝæ¢ …Ð²¿ææïùçS}æ Sƒæ±Úæ‡ææ¢ çã}ææH²: J25J
+{nŠ»tytu{tk ¼]„wÉr»t nwk Awk. Ëðo ðtýe{tk yuftûth - H fth
+nwk Awk. Þ¿ttu{tk s…Þ¿t nwk Awk. y™u MÚttðh yux÷u ÂMÚth …ŒtÚttuo{tk
+rn{t[¤ nwk Awk. >>25>>
+¥Eyƒ: ¨±ü±ëÿææ‡ææ¢ Îï±¯èü‡ææ¢ ™ ÝæÚÎ: J
+xæ‹{±æü‡ææ¢ ç™~æÚƒ: ç¨hæÝæ¢ ÜUçÐHæï }æéçÝ: JJ26JJ
+Ëðo ð]ûttu{tk yïíÚt-…e…¤tu nwk Awk. ŒuðŠ»tytu{tk ™thŒ {wr™ nwk
+Awk. Ëðo „kÄðtuo{tk r[ºthÚt nwk Awk. y™u Ëðo rËØ…wY»ttu{tk f…e÷{wr™
+nwk Awk. >>26>>
+©Ó™ñ: Ÿæ±¨}æEæÝæ¢ ç±çh }ææ}æ}æë„æïj±}æì J
+»ïÚæ±„¢ xæ…ï‹Îíæ‡ææ¢ ÝÚæ‡ææ¢ ™ ÝÚæç{Ð}æì JJ27JJ
+½tuztytu{tk y{]‚™e ËtÚtu Ë{wÿ{tkÚte ™ef¤u÷tu Wå[i:©ðt ™t{u
+½tuztu {™u òý ! „suLÿtu{tk yihtð‚ {™u òý ! y™u {™w»Þtu{tk
+htò {™u òý ! >>27>>
+¥æ²é{æÝæ}æã¢ ±…í¢ {ïÝéÝæ}æçS}æ ÜUæ}æ{éÜUì J
+Ðí…ÝpæçS}æ ÜU‹ÎÐü: ¨Ðæü‡ææ}æçS}æ ±æ¨éçÜU: J28J
+ytÞwÄtu{tk ð@ ytÞwÄ nwk Awk. Äu™wytu{tk ft{Œw½t Äu™wk nwk Awk.
+«ò …uŒt fh™tht fkŒ…o-ft{ ‚u …ý nwk Awk. y™u Ë…tuo{tk ðtËwfe
+Ë…o nwk Awk. >>28>>
+¥Ý‹„pæçS}æ ÝæxææÝæ¢ ±L‡ææï ²æÎ¨æ}æã}æì J
+çÐ„ë‡ææ}æ²ü}ææ ™æçS}æ ²}æ: ¨¢²}æ„æ}æã}æì JJ29JJ
+™t„tu{tk y™k‚ ™t{u ™t„ nwk Awk. s¤ðtËeytu{tk ðYýŒuð nwk
+Awk. r…ºtwytu{tk yÞo{t nwk Awk. y™u r™Þ{™ fh™thtytu{tk s{htò
+nwk Awk. >>29>>
+ÐítæÎpçS}æ Îñy²æÝæ¢ ÜUæH: ÜUH²„æ}æã}æì J
+}æëxææ‡ææ¢ ™ }æëxæï‹Îíæïùã¢ ±ñÝ„ï²p Ðçÿæ‡ææ}æì JJ30JJ
+ŒiíÞtu{tk ¼õ‚hts «FtŒ nwk Awk. …rhýt{ …{tz™thtytu{tk
+yÚtðt „ý™t fh™thtytu{tk Ë{Úto ft¤ nwk Awk. …þwytu{tk {]„hts-
+®Ën nwk Awk. y™u …ûteytu{tk …ûtehts „Yz nwk s Awk. >>30>>
+Ð±Ý: Ð±„æ}æçS}æ Úæ}æ: àæ›|æë„æ}æã}æì J
+Ûæ¯æ‡ææ¢ }æÜUÚpçS}æ ›æï„¨æ}æçS}æ …æq±è JJ31JJ
+ðnu‚t ðu„ðt¤t …ŒtÚttuo{tk …ð™ nwk Awk. þ†Ätheytu{tk ŒþhÚt
+…wºt ©eht{ nwk Awk. {tA÷tytu{tk {½h nwk Awk. y™u ðnu‚t «ðtn-
+™Œeytu{tk söwfLÞt „k„t nwk Awk. >>31>>
+¨xææü‡ææ}ææçÎÚ‹„p }æŠ²¢ ™ñ±æã}æ…éüÝ J
+¥Š²æy}æç±læ ç±læÝæ¢ ±æÎ: Ðí±Î„æ}æã}æì JJ32JJ
+nu yswo™ ! Œhuf Ë„tuo™tu ytrŒ yk‚ y™u {æÞ …ý nwk s Awk.
+rðãtytu{tk yæÞtí{ rðãt nwk Awk. y™u ðtŒ fh™thtytu™t ðtŒ™tu
+rð»tÞ nwk Awk.  >32>
+¥ÿæÚæ‡ææ}æÜUæÚæïùçS}æ m‹m: ¨æ}ææç¨ÜUS² ™J
+¥ã}æï±æÿæ²: ÜUæHæï {æ„æã¢ ç±E„æï}æé¶: JJ33JJ
+yûthtu{tk y yûth nwk Awk. Ë{tËtu{tk W¼Þ…Œ «Œt™ îLî
+Ë{tË nwk Awk. Ëðoft¤™t rð¼t„tu{tk yûtÞft¤ nwk Awk. y™u [tu‚hV
+{w¾ðt¤tu ƒúñt ‚u …ý nwk s Awk. >>33>>
+
+
+Ÿæè}æjxæ±eè„æ
+18
+yæÞtÞ - 10
+}æëy²é: ¨±üãÚpæã}æéj±p |æç±c²„æ}æì J
+ÜUè<„: Ÿæè±æüB ÝæÚè‡ææ¢ S}æëç„}æïü{æ {ëç„: ÿæ}ææJ34J
+Ëðo™u nh™thtu {]íÞw-ft¤ nwk Awk. y™u Wí…Òt Út™thtytu™tu
+WŒT¼ð-Wí…Â¥t™wk MÚtt™ nwk Awk. y™u Mºteytu{tk feŠ‚, ©e, ðtýe,
+M{]r‚, {uÄt, Ä]r‚ y™u ût{t yu Ëðo nwk s Awk. >>34>>
+Ïæëãy¨æ}æ „ƒæ ¨æ}Ýæ¢ xææ²~æè À‹Î¨æ}æã}æì J
+}ææ¨æÝæ¢ }ææxæüàæè¯æïüùã}æë„êÝæ¢ ÜéU¨é}ææÜUÚ: JJ35JJ
+‚u{s Ët{ðuŒ™t {kºttu{tk ƒ]níËt{ ‚u nwk Awk. y™u Ëðo AkŒtu{tk
+„tÞºteAkŒ ‚u nwk Awk. ƒth {rn™tytu{tk {t„oþe»to ({t„Ëh) {tË
+‚u nwk Awk. y™u A É‚wytu{tk ðËk‚ nwk Awk. >>35>>
+lê„¢ ÀH²„æ}æçS}æ „ï…S„ï…çS±Ýæ}æã}æì J
+…²æïùçS}æ Ã²±¨æ²æïùçS}æ ¨œ±¢ ¨œ±±„æ}æã}æì J36JJ
+Au‚™thtytu™wk ãq‚-A¤Ët{ÚÞo nwk Awk. ‚usMðeytu™wk ‚us-«¼tð
+nwk Awk. rðsÞ y™u ÔÞðËtÞ ‚u …ý nwk Awk. y™u ËtÂíðf-Ë{Úto
+…wY»ttu™wk Ët{ÚÞo nwk Awk. >>36>>
+±ëc‡æèÝæ¢ ±æ¨éÎï±æïùçS}æ Ðæ‡Ç±æÝæ¢ {Ý¢…²: J
+}æéçÝÝæ}æŒ²ã¢ Ã²æ¨: ÜU±èÝæ}æéàæÝæ ÜUç±: JJ37JJ
+Ëðo ÞtŒðtu{tk ðtËwŒuð ‚u nwk Awk. y™u …tkzðtu{tk Ä™ksÞ-yswo™
+‚u nwk Awk. {wr™ytu™t {æÞu …ý ÔÞtË {wr™ ‚u nwk Awk. y™u frðytu{tk-
+¿tt™es™tu{tk Wþ™t-þw¢t[tÞo frð nwk Awk. >>37>>
+Î‡Çæï Î}æ²„æ}æçS}æ Ýèç„ÚçS}æ ç…xæè¯„æ}æì J
+}ææñÝ¢ ™ñ±æçS}æ xæésæÝæ¢ ¿ææÝ¢ ¿ææÝ±„æ}æã}æì JJ38JJ
+r™Þ{™ fh™thtytu™tu Œkz nwk Awk. y™u sÞ™e yr¼÷t»tt
+Ëuð™thtytu™e ™er‚-„wÌtrð[thýt nwk Awk. hnMÞtu{tk {ti™ y™u
+¿tt™ðt¤tytu™wk …h{ ¿tt™ ‚u …ý nwk s Awk. >>38>>
+²Ó™æçÐ ¨±ü|æê„æÝæ¢ Ïæè…¢ „Îã}æ…éüÝ J
+Ý „ÎçS}æ ç±Ýæ ²yS²æ‹}æ²æ |æê„¢ ™Úæ™Ú}æì JJ39JJ
+y™u ð¤e nu yswo™ ! Ëðo ¼q‚-«týe {tºt™wk su Ë™t‚™ ƒes-
+fthý ‚u …ý nwk s Awk. fthý fu yuðwk yuf …ý [ht[h-¼q‚«týe
+™Úte, fu su {tht rËðtÞ ÚtÞwk ntuÞ fu hnu‚wk ntuÞ. >>39>>
+Ýæ‹„æïùçS}æ }æ}æ çÎÃ²æÝæ¢ ç±|æê„èÝæ¢ ÐÚ¢„Ð J
+»¯ „êgïàæ„: ÐíæïQUæï ç±|æê„ï<±S„Úæï }æ²æ JJ40JJ
+nu …hL‚… ! {the rŒÔÞ-y÷tirff ytùÞo{Þ rð¼qr‚ytu™tu
+…th s ™Úte. y™u yt ‚tu {U ‚™u y{wf y{wfs rð¼qr‚™tu rðM‚th
+rŒøŒþo™ suðtu fÌttu Au. >>40>>
+²lçm|æêç„}æy¨œ±¢  Ÿæè}æÎê<…„}æï±  ±æ J
+„œæÎï±æ±xæÓÀ y±¢ }æ}æ „ï…æï¢ùàæ¨¢|æ±}æì JJ41JJ
+yt s„‚{tk su su rð¼qr‚ðt¤wk «týe-þtu¼tÞ{t™ fu
+«¼tðþt¤e ntuÞ ‚u ‚u ƒÄwkÞ {tht ‚us-Ët{ÚÞo™t yuf ykþ{tkÚte
+s ÚtÞu÷wk Au, yu{ ‚wk òý ! >>41>>
+¥ƒ±æ ÏæãéÝñ„ïÝ ôÜU ¿ææ„ïÝ „±æ…éüÝ J
+ç±àÅ|²æãç}æÎ¢ ÜëUyF}æïÜUæ¢àæïÝ çSƒ„æï …xæ„ì JJ42JJ
+yÚtðt ‚tu nu yswo™ ! ‚thu yt ƒÄw òýðtÚte þtu rðþu»t Au ? yt
+Ë½zt s„‚™u nwk {tht yiïÞo™t yuf ykþÚte yiïÞo ÷uþÚte Äthe
+hÌttu Awk. >>42>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢ ²æïxæàææ›ï
+ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï ç±|æêç„²æïxææï Ýæ}æ Îàæ}ææïùŠ²æ²: JJ10JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk Þtu„þtMºtu
+©ef]»ýtòow™ËkðtŒu rð¼qr‚Þtu„tu ™t{ Œþ{tuàæÞtÞ: >>10>>
+
+
+Ÿæè}æjxæ±eè„æ
+19
+yæÞtÞ - 11
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒñÜUæÎàææïùŠ²æ²:
+
+¥…éüÝ ©±æ™
+}æÎÝéxæíãæ² ÐÚ}æ¢ xæés}æŠ²æy}æ¨¢ç¿æ„}æì J
+²œ±²æïQ¢U ±™S„ïÝ }ææïãæïù²¢ ç±xæ„æï }æ}æ JJ1JJ
+yswo™ fnu Au = {tht W…h y™w„ún fhðt {txu yt…u su …h{
+hnMÞY… yæÞtí{-¿tt™ ËkƒkÄe ð[™ fÌtwk, ‚u™tÚte {thtu yt {tun
+x¤e „Þtu. >>1>>
+|æ±æŒ²²æñ çã |æê„æÝæ¢ Ÿæé„æñ ç±S„Úàææï }æ²æ J
+y±œæ: ÜU}æHÐ~ææÿæ }ææãæy}²}æçÐ ™æÃ²²}æì JJ2JJ
+fu{ fu - nu f{¤™Þ™ «¼tu ! {U yt…™t Útfe ¼q‚-«týe{tºt™e
+W¥…Â¥t y™u «÷Þ rðM‚thÚte Ëtk¼éÞt Au, ‚Útt yt…™tu y¾kz
+yrð™tþe {rn{t …ý Ëtk¼éÞtu Au. >>2>>
+»±}æï„lƒæyƒ y±}ææy}ææÝ¢ ÐÚ}æïEÚ J
+ÎíCéç}æÓÀæç}æ „ï MUÐ}æñEÚ¢ ÐéL¯æïœæ}æ JJ3JJ
+nu …h{uïh ! yt… …tu‚t™u suðt fntu Atu, yu ƒhtuƒh yu{ s
+Au. …hk‚w nu …wY»ttu¥t{ ! yt…™wk yu Ëf¤ yiïÞo Ëk…Òt yiïÞoY…
+nwk Ëtûtt‚T ™uºttuÚte òuðt RåAw Awk. >>3>>
+}æ‹²¨ï ²çÎ „ÓÀv²¢ }æ²æ ÎíCéç}æç„ Ðí|ææï J
+²æïxæïEÚ „„æï }æï y±¢ Îàæü²æy}ææÝ}æÃ²²}æì JJ4JJ
+nu «¼tu ! òu {thtÚte ‚u yt…™wk Y… Œu¾ðt™u þõÞ Au, yu{
+yt… {t™‚t ntu, ‚tu nu Þtu„uïh ! {™u yt… yt…™t yu yrð™tþe
+MðY…™tk Œþo™ fhtðtu. >>4>>
+Ÿæè|æxæ±æÝé±æ™ J
+Ðà² }æï Ðæƒü MUÐæç‡æ àæ„àææïùƒ ¨ãdàæ: J
+ÝæÝæç±{æçÝ çÎÃ²æçÝ ÝæÝæ±‡ææüÜëU„èçÝ ™ JJ5JJ
+©e ¼„ðt™ fnu Au = nu …tÚto ! {thtk Ëtuyu Ëtu y™u nòhtu
+nòh ™t™t «fth™tk y™uf ðýo™ðt¤tk y™u y™uf ytf]r‚ytuðt¤tk
+rŒÔÞ y÷tirffY…tu™u ‚wk òu ! >>5>>
+Ðà²æçÎy²æ‹±¨ê‹LÎíæÝçEÝæñ }æL„S„ƒæ J
+Ïæãê‹²ÎëCÐê±æüç‡æ Ðà²æp²æüç‡æ |ææÚ„ JJ6JJ
+nu ¼h‚fw¤tuí…Òt- yswo™ !{tht{tk hnu÷t ƒth ytrŒíÞtu,
+ytX ðËwytu, y„eÞth Yÿtu, ƒu yÂï™efw{thtu, ‚Útt
+ytu„ý…[tË {Y‚tu™u òu ! ‚u{ s …qðuo fŒe ™rn òuyu÷tk yuðtk
+½ýtkf ytùÞofthe Y…tu™u …ý òu ! >>6>>
+§ãñÜUSƒ¢ …xæyÜëUyF¢ Ðà²ælæ ¨™Úæ™Ú}æì J
+}æ}æ Îïãï ÎéÇæÜïUàæ ²Ó™æ‹²ÎìÎíCéç}æÓÀç¨ JJ7JJ
+nu „wztfuþ ! n{ýtk yt {thtk þheh{tk yuf¼t„{tk hnu÷wk
+Ë[ht[h Ë½¤wk rðï òu ! ‚u{s-‚wk su ftkR ƒeswk òuðt RåA‚tu
+ntuÞ ‚u …ý òu ! >>7>>
+Ý „é }ææ¢ àæv²¨ï ÎíCé}æÝïÝñ± S±™ÿæé¯æ J
+çÎÃ²¢ ÎÎæç}æ „ï ™ÿæé: Ðà² }æï ²æïxæ}æñEÚ}æì JJ8JJ
+…ý {™u ‚wk yt ‚tht «tf]‚-{trÞf [ûtwÚte ‚tu òuðt Ë{Úto
+™rn s ÚttÞ. {txu nwk ‚™u rŒÔÞ [ûtw yt…wAwk. yu™tkÚte ‚wk {tYk
+Rïh¼tð™u sýtð™tYk Þtu„ Ët{ÚÞo òu ! >>8>>
+¨¢…² ©±æ™ J
+»±}æévy±æ „„æï Úæ…‹}æãæ²æïxæïEÚæï ãçÚ: J
+Îàæü²æ}ææ¨ Ðæƒæü² ÐÚ}æ¢ MUÐ}æñEÚ}æì JJ9JJ
+ËksÞ fnu Au = nu hts™T ! {ntÞtu„uïh y™u M{hý {tºtÚte
+…t…™u ný™tht ¼„ðt™ ©enrhyu yt«{týu fne™u ‚wh‚s
+…]Útt…wºt-yswo™™u …h{ yiïÞoÞwõ‚ …tu‚t™wk Y… ƒ‚tÔÞwk. >>9>>
+¥ÝïÜU±v~æÝ²Ý}æÝïÜUæjé„ÎàæüÝ}æì   J
+¥ÝïÜUçÎÃ²æ|æÚ‡æ¢ çÎÃ²æÝïÜUæïl„æ²é{}æì JJ10JJ
+çÎÃ²}ææË²æ}ÏæÚ{Ú¢ çÎÃ²xæ‹{æÝéHïÐÝ}æì J
+¨±æüp²ü}æ²¢ Îï±}æÝ‹„¢ ç±E„æï}æé¶}æì JJ11JJ
+y™uf {w¾ y™u y™uf ™uºttuyu Þwõ‚, y™uf yKw‚-
+ytùÞofthe Œu¾tððt¤wk, y™uf rŒÔÞ yt¼q»týtuyu Þwõ‚, y™u
+y™uf W„t{u÷tk rŒÔÞ ytÞwÄtu Äthe hnu÷wk.
+
+
+Ÿæè}æjxæ±eè„æ
+20
+yæÞtÞ - 11
+rŒÔÞ …w»…{t¤tytu y™u ðMºttu Äthý fhe hnu÷wk, rŒÔÞ „kÄ™wk
+ƒÄu þhehu su™u ÷u…™ fhu÷wk Au. Ëðo ytùÞtuoÚte …qýo, [tu‚hV
+Ëe{tyu hrn‚, Ëðo ƒtswyu {w¾ðt¤wk yuðwk rðhtxY… ¼„ðt™u
+yswo™™u ƒ‚tÔÞwk. >>10-11>>
+çÎç±  ¨ê²ü¨ãdS²  |æ±ïléxæÐÎéçyƒ„æ J
+²çÎ |ææ: ¨Îëàæè ¨æ S²æjæ¨S„S² }æãæy}æÝ:J12J
+„~æñÜUSƒ¢  …xæyÜëUyF¢  Ðíç±|æQU}æÝïÜU{æ J
+¥Ðà²gï±Îï±S²  àæÚèÚï  Ðæ‡Ç±S„Îæ JJ13JJ
+ytftþ{tk nòhtu ËqÞo yuf ËtÚtu WŒÞ …tBÞt ntuÞ y™u ‚u™tu
+suðtu «ftþ ÚttÞ, ‚u «ftþ …ý {ntí{t-rðïY… …h{tí{t™t
+«ftþ™u ‚wÕÞ fŒtr[‚T ÚttÞ fu ™ …ý ÚttÞ.
+…tkzw…wºt yswo™™u ‚u Ë{Þ{tk y™uf «fthu r¼Òtr¼Òt hnu÷wk
+Ë½¤wk s„‚T Œuðtu™t …ý Œuð ¼„ðt™ ©ef]»ý™t yu þheh{tk
+yuf¼t„{tk hnu÷wk ŒeXwk. >>12-13>>
+„„: ¨ ç±S}æ²æç±Cæï NCÚæï}ææ {Ý¢…²: J
+Ðí‡æ}² çàæÚ¨æ Îï±¢ ÜëU„æTæçHÚ|ææ¯„ JJ14JJ
+y™u ‚u …Ae ytðtk yiïÞoÚte [fe‚ y™u htu{tk[ þhehðt¤tu
+yswo™ «ftþ{Þ rðïY… ©ef]»ý …h{tí{t™u ©æÄt-¼Âõ‚ …qðof
+{M‚fÚte ™{Mfth fhe ntÚt òuze™u fnuðt ÷tøÞtu. >>14>>
+¥…éüÝ ©±æ™ J
+Ðà²æç}æ Îï±æ¢S„± Îï± Îïãï ¨±æZS„ƒæ |æê„ç±àæï¯¨YæÝì J
+Ïæírææ‡æ}æèàæ¢ ÜU}æHæ¨ÝSƒ}æë¯è¢p ¨±æüÝéÚxææ¢p çÎÃ²æÝì JJ15JJ
+yswo™ fnu Au = nu «ftþ {q‚uo ! nwk yt…™t þheh{tk Ë½¤t
+Œuðtu™u, ‚Útt y™uf ¼q‚tu™t Ë{wŒtÞtu™u, ‚Útt f{¤Y… ytË™{tk
+ƒuXu÷t ƒúñt™u, ‚Útt þkfh™u, ‚Útt Ëðo Ér»tytu™u ‚u{s rŒÔÞ
+ytfthðt¤t Ë…tuo™u nwk Œu¾wk Awk. >>15>>
+¥ÝïÜUÏææãêÎÚ±v~æÝï~æ¢ Ðà²æç}æ y±æ¢ ¨±æü„æïùÝ‹„MUÐ}æìJ
+Ýæ‹„¢ Ý }æŠ²¢ Ý ÐéÝS„±æôÎ Ðà²æç}æ ç±EïEÚ ç±EMUÐ JJ16JJ
+nu rðï™t Mðt{e Ë{ÚtoŒuð ! nwk yt…™u y™uf ¼wò, WŒh,
+{w¾ y™u ™uºttuðt¤t ‚Útt Ëðoƒtswyu y™k‚Y…u Œu¾t‚t òuô Awk.
+nu rðïY… ! nwk yt…™tu ™Úte yk‚ Auztu Œu¾‚tu, fu ™Úte {æÞ Œu¾‚tu,
+‚u{s yt…™tu ytrŒ ¼t„ …ý nwk ™Úte Œu¾‚tu. >>16>>
+çÜUÚèçÅÝ¢ xæçÎÝ¢ ™çRU‡æ¢ ™ „ï…æïÚæôàæ ¨±ü„æï Îèç#}æ‹„}æì J
+Ðà²æç}æ y±æ¢ Îé<ÝÚèÿ²¢ ¨}æ‹„ægè#æÝHæÜüUléç„}æÐí}æï²}æì JJ17JJ
+nwk yt…™u {wfwxðt¤t, „Œtðt¤t, [¢ðt¤t ‚Útt ËðoÚtt ‚us™t
+Ë{qnY… y™u Ëðo ƒtswyuÚte {nt ftÂL‚{t™, ‚Útt ƒ¤‚tu yÂø™
+y™u ËqÞo™u Ë{t™ «ftþ{Þ y™u Ëðo ƒtswyuÚte y{t… MðY…
+y™u Ët{wk …ý ™ òuR þftÞ yuðt ŒwŠ™heûÞY… yt…™u Œu¾wk Awk.
+>>17>>
+y±}æÿæÚ¢ ÐÚ}æ¢ ±ïçÎ„Ã²¢ y±}æS² ç±à±S² ÐÚ¢ çÝ{æÝ}æì J
+y±}æÃ²²: àææE„{}æüxææï#æ ¨Ýæ„ÝSy±¢ ÐéL¯æï }æ„æï }æï JJ18JJ
+yt…s òýðt ÞtuøÞ- ¿tuÞMðY… …h{ yûth Atu. yt…s
+yt Ëf¤ rðï™t …h{ r™Ät™-yt©Þ Atu. þtï‚-Ë™t‚™
+Ä{o™t hûtf yt… s Atu. ‚Útt yÔÞÞ MðY… Ë™t‚™ …wY»t-
+…h{tí{t yt… s Atu. yu{ {thtu {‚-yr¼«tÞ Au. >>18>>
+¥ÝæçÎ}æŠ²æ‹„}æÝ‹„±è²ü}æÝ‹„Ïææãé¢ àæçàæ¨ê²üÝï~æ}æì J
+Ðà²æç}æ y±æ¢ Îè#ãé„æàæ±v~æ¢ S±„ï…¨æ ç±àæ±ç}æÎ¢ „Ð‹„}æì JJ19JJ
+yt…™u ytrŒ, {æÞ y™u yL‚u ðSo‚, y™L‚ ðeÞo-
+…ht¢{ðt¤t, y™L‚ ¼wòytuðt¤t, [Lÿ-ËqÞoY… ™uºttuðt¤t,
+«sðr÷‚ sðt¤tytuðt¤tu yÂø™ su™t {w¾{tk hnu÷tu Au. y™u
+…tu‚t™t ‚usÚte yt Ë½¤t rðï™u ‚…tð‚t yuðt nwk òuô Awk. >>19>>
+læ±æÐëçƒÃ²æïçÚÎ}æ‹„Ú¢ çã Ã²æ#¢ y±²ñÜïUÝ çÎàæp ¨±æü: J
+ÎëcÅì±æjé„¢  MÐ}æéxæí¢  „±ïÎ¢ HæïÜU~æ²¢ ÐíÃ²çƒ„¢ }æãæy}æÝì JJ20JJ
+nu {ntí{™T ! Mð„o ÷tuf y™u yt …]Úðe ÷tuf yu ƒu™tu ð[÷tu
+÷½¤tu ytftþ™tu ¼t„ ‚Útt Ëðo rŒþtytu ‚{tu yuf÷tÚte s ÔÞtó-
+…qýo Au. y™u yt yt…™wk ytùÞofthe y™u W„ú-¼Þkfh Y… òuR™u
+Ë½¤e rºt÷tufe yr‚þÞ ÔÞÚtt …t{e „R Au. >>20>>
+
+
+Ÿæè}æjxæ±eè„æ
+21
+yæÞtÞ - 11
+¥}æè çã y±æ¢ ¨éÚ¨Yæ ç±àæç‹„ ÜïUç™jè„æ: ÐíæTæH²æï xæë‡æç‹„J
+S±S„èy²évy±æ }æã<¯h¨Yæ: S„é±ç‹„ y±æ¢ S„éç„ç|æ: ÐécÜUHæç|æ: J21J
+yt Ë½¤t Œuð‚tytu™t Ë{qntu yt…™t «íÞu s «ðuþ fhe
+hÌtt Au. y™u fux÷tf ¼Þ¼e‚ ÚtR™u ntÚt òuze™u yt…™e M‚wr‚
+fhu Au. ‚u{s {nŠ»tytu y™u rËØtu™t Ë{qntu ‘‘fÕÞtý ntu’’ yu{
+fne™u ½ýtk W¥t{ M‚wr‚ð[™Y… M‚tuºttuÚte yt…™e M‚wr‚ fhu Au.
+>>21>>
+LÎíæçÎy²æ ±¨±æï ²ï ™ ¨æŠ²æ ç±EïùçEÝæñ }æL„pæïc}æÐæp J
+xæ‹{±ü²ÿææ¨éÚç¨h¨Yæ ±èÿæ‹„ï y±æ¢ ç±çS}æ„æpñ± ¨±ïü JJ22JJ
+y„eÞth Yÿtu, ƒth ytrŒíÞtu, ytX ðËwytu, ËtæÞ Œuðtu, rðï
+Œuðtu, yÂï™e fw{thtu, {Y‚T-ðtÞw„ýtu ‚Útt r…‚]„ýtu, ‚u{s
+„LÄðo, Þût, yËwh y™u rËØtu™t Ë{qntu, yt Ëðuo rðÂM{‚-[rf‚
+ÚtR™u ¼Þ…qðof yt…™u òuR hÌtt Au. >>22>>
+MÐ¢   }æãœæï   Ïæãé±v~æÝï~æ¢ }æãæÏææãæï   ÏæãéÏææãêLÐæÎ}æì J
+ÏæãêÎÚ¢      ÏæãéÎ¢cÅîæÜUÚæH¢ ÅëcÅì±æ HæïÜUæ: ÐíÃ²çƒ„æS„ƒæã}æì JJ23JJ
+nu {ntƒtntu ! yt…™wk ƒnw {w¾ y™u ƒnw ™uºttuðt¤wk,½ýtf
+ƒtnwytu, ËtÚt¤tu y™u …„tuðt¤wk, ƒnw WŒhðt¤wk, ƒnw ŒtZtuÚte
+¼Þkfh ÷t„‚wk, yuðwk yt {tuxwk Y…- ytf]r‚ òuR™u Ë½¤t ÷tuftu
+ÔÞtfw¤ ÚtR „Þt Au. y™u nwk …ý ÔÞtfw¤ ÚtR „Þtu Awk. >>23>>
+Ý|æ:SÐëàæ¢ Îè#}æÝïÜU±‡æZ Ã²æœææÝÝ¢ Îè#ç±àææHÝï~æ}æì J
+ÎëcÅì±æ çã y±æ¢ ÐíÃ²çƒ„æ‹„Úæy}ææ {ëô„ Ý ç±‹Îæç}æ àæ}æ¢ ™ ç±c‡ææï J24
+fthý fu-nu rð»ýtu ! ytftþ™u yze hnu÷t, ŒuŒeÃÞ{t™-
+«ftþ{Þ, y™uf ðýo-hk„ðt¤t, Vtxwk {w¾ y™u «ßðr÷‚ rðþt¤
+™uºttuðt¤t yuðt yt…™u òuR™u yr‚ ÔÞÚtt …t{u÷tu ¼Þ¼e‚
+yL‚:fhýðt¤tu nwk Äehs ™Úte …t{‚tu, ‚u{ {™u þtÂL‚ …ý ™Úte
+Út‚e. >>24>>
+Î¢cÅîæÜUÚæHæçÝ ™ „ï }æé¶æçÝ ÎëcÅì±ñ± ÜUæHæÝH¨çóæ|ææçÝ J
+çÎàææï Ý …æÝï Ý H|æï ™ àæ}æü Ðí¨èÎ Îï±ïàæ …xæçóæ±æ¨ JJ25JJ
+yt…™tk ŒtZtu™u ÷eÄu ¼Þkfh ÷t„‚tk y™u «÷Þ ft¤™t yÂø™
+Ë{t™ «sðr÷‚ {w¾tu òuR™u nwk rŒþtytu …ý òý‚tu ™Úte, ‚u{
+{™u Ëw¾ …ý Út‚wk ™Úte. {txu nu Œuðuþ ! nu s„ÂÒtðtË ! yt…
+«ËÒt Úttytu ! >>25>>
+¥}æè ™ y±æ¢ {ë„ÚæcÅîS² Ðé~ææ: ¨±ïü ¨ãñ±æ±çÝÐæH¨Yñ: J
+|æèc}ææï Îíæï‡æ: ¨ê„Ðé~æS„ƒæ¨æñ ¨ãæS}æÎè²ñÚçÐ ²æï{}æéw²ñ: JJ26JJ
+±v~ææç‡æ „ï y±Ú}ææ‡ææ ç±àæç‹„ Î¢cÅîæÜUÚæHæçÝ |æ²æÝÜUæçÝ J
+ÜïUç™çmHxÝæ ÎàæÝæ‹„Úï¯é ¨¢Îëà²‹„ï ™ê<‡æ„ñLœæ}ææXñ: JJ27JJ
+yt Ë½¤t Ä]‚ht»xÙ™t Atufhtytu Ëðo yðr™…t¤tuyu Ërn‚
+yt…™t{tk «ðuþ fhe hÌtt Au, yt ¼e»{-r…‚t{n, ÿtuýt[tÞo,
+y™u yt Ëq‚…wºt-fýo, ‚Útt y{tht …ût™t …ý {wÏÞ {wÏÞ
+ÞtuØtytuyu Ërn‚ ƒnw ftuR yr‚ íðht…qðof rðfht¤ ŒtZtu™u ÷eÄu
+yr‚ ¼Þt™f yt…™t {w¾{tk «ðuþ fhe hÌtt Au. y™u fux÷tf ‚tu
+¼tk„e „Þu÷tk {M‚ftuyu Ërn‚ yt…™t Œtk‚tu™t yL‚ht¤ ¼t„{tk
+ð¤„e hnu÷t Œu¾tÞ Au. >>26-27>>
+²ƒæ ÝÎèÝæ¢ Ïæã±æïù}Ïæé±ïxææ: ¨}æéÎí}æï±æç|æ}æé¶æ Îí±ç‹„ J
+„ƒæ „±æ}æè ÝÚHæïÜU±èÚæ ç±àæç‹„ ±v~ææ‡²ç|æç±Á±Hç‹„ JJ28JJ
+su{ ™Œeytu™t ½ýtf s¤™t «ðtntu Mðt¼trðf…ýu Ë{wÿ
+‚hVs ðu„…qðof Œtuzu Au. yux÷u fu Ë{wÿ{tks su{ «ðuþ fhu Au.
+‚u{ s yt Ë½¤t ™h ÷tuf™t ðehtu …ý yt…™tk yr‚ «sðr÷‚
+{w¾tu{tk «ðuþ fhe hÌtt Au. >>28>>
+²ƒæ  ÐíÎè#¢  Á±HÝ¢ Ð„Xæ ç±àææç‹„ Ýæàææ² ¨}æëh±ïxææ: J
+„ƒñ± Ýæàææ² ç±àæç‹„ HæïÜUæ S„±æçÐ ±v~ææç‡æ ¨}æëh±ïxææ: JJ29JJ
+su{ ƒ¤‚t yÂø™ «íÞu …‚k„eytytu ytkÄ¤t ÚtR™u …tu‚t™t
+™tþ {txu yr‚ ðu„Úte Œtuz‚t Útft «ðuþ fhu Au. ‚u s «{týu yt
+Ë½¤t ÷tuf …ý …tu‚t™t ™tþ™u {txus yt…™t {w¾tu{tk yr‚
+ðu„…qðof Œtuz‚t «ðuþ fhe hÌtt Au. >>29>>
+HïçHs¨ï  xæí¨}ææÝ: ¨}ææ‹„æÌæïÜUæ‹¨}æxæíæ‹±ÎÝñÁ±üHçj: J
+„ï…æïç|æÚæÐê²ü    …xæy¨}æxæí¢ |ææ¨S„±æïxæíæ: Ðí„Ðç‹„ ç±c‡ææï JJ30JJ
+yt… yt Ë½¤t ÷tuftu™u «ßðr÷‚ {w¾tuÚte „¤e ÷u‚t Útft
+
+
+Ÿæè}æjxæ±eè„æ
+22
+yæÞtÞ - 11
+[tu‚hVÚte [txe hÌtt Atu. nu rð»ýtu ! yt…™e W„úftÂL‚ytu Ë{„ú
+s„í™u …tu‚t™t ‚usÚte ¼he ftZe™u yr‚ ‚…tÞ{t™ sýtÞ Au.-
+‚…e hnu Au. >>30>>
+¥w²æçã }æï ÜUæï |æ±æÝéxæíMUÐæï Ýæ}ææïùS„é „ï Îï±±Ú Ðí¨èÎ J
+ç±¿ææ„éç}æÓÀæç}æ |æ±‹„}ææl¢ Ý çã Ðí…æÝæç}æ „± Ðí±ëçœæ}æì JJ31JJ
+{™u fntu ! fu ytðt W„ú-¼Þt™f Y…ðt¤t yt… ftuý Atu ? nu
+Œuððh ! yt…™u ™{Mfth Au. yt… «ËÒt Úttytu ! ytrŒ…wÁ»t
+yt…™u nwk rðþu»t…ýu òýðt RåAwk Awk. fu{ fu-yt…™e yt «ð]r‚
+{tht Ë{Ítðt{tk ™Úte ytð‚e. >>31>>
+ÜUæHæïùçS}æ HæïÜUÿæ²ÜëUyÐí±ëhæï HæïÜUæÝì ¨}ææã„éüç}æã Ðí±ëœæ: J
+«„ïùçÐ y±æ¢ Ý |æç±c²ç‹„ ¨±ïü ²ïù±çSƒ„æ: Ðíy²ÝèÜïU¯é ²æï{æ: JJ32J
+©e ¼„ðt™ fnu Au-nwk ÷tuftu™tu ûtÞ-Ëknth fh™thtu
+{ntƒ¤ðt™ ft¤ Awk. y™u nt÷-ynªyt yt Ëðo ÷tuftu™tu Ëknth
+fhðt «ð‚uo÷tu Awk. {txu su Ët{t …ût™e Ëu™tytu{tk hnu÷t ÞtuØtytu
+Au. ‚u Ë½¤tÞ …ý yuf ‚tht rËðtÞ ™ne hnu. yÚtto‚T ‚wk ÞwØ
+™rn fhu ‚tuÞ ‚u Ëðuo Sððt™t ™Úte. {hðt™t s Au.>>32>>
+„S}ææœ±}æéçœæD ²àææï H|æS± ç…y±æ àæ~æêÝì |æéÑìÿ± ÚæÁ²¢ ¨}æëh}æìJ
+}æ²ñ±ñ„ï çÝã„æ: Ðê±ü}æï± çÝç}æœæ}ææ~æ¢ |æ± ¨Ã²¨æç™Ýì JJ33JJ
+{txu ‚wk WX ! Þþ «tÂó fhe ÷u ! y™u þºtwytu™u S‚e™u Ä™
+ÄtLÞtrŒf Ë{]ÂØÚte Ë{]Ø htßÞ ¼tu„ð ! yt Ëðo þqhðeh
+ÞtuØtytu™u {U «Út{Útes {the áÂü{tºtÚte {the {qfu÷t Au. y™u nu
+ËÔÞËtr[™T ! ‚wk ‚tu yt ÞwØ{tk sÞ …t{ðt{tk r™r{¥t{tºts Útt !
+>>33>>
+Îíæï‡æ¢ ™ |æèc}æ¢ ™ …²Îíƒ¢ ™ ÜU‡æZ „ƒæ‹²æÝçÐ ²æï{±èÚæÝì J
+}æ²æ ã„æ¢Sy±¢ …çã }ææ Ã²çƒDæ ²éŠ²S± …ï„æç¨ Ú‡æï ¨ÐÕæÝì JJ34JJ
+ÿtuýt[tÞo y™u r¼»{r…‚t{n, ‚Útt sÞÿÚt y™u fýo, ‚Útt
+ƒeò …ý ½ýtf {tht îtht nýtÞu÷t þqhðeh ÞtuØtytu™u ‚wk {th !
+‚wk ÔÞÚtt ™ …t{eþ, r™:ËLŒun ‚wk ÞwØ fh ! hÚt Ëk„út{{tk þºtwytu™u
+‚wk s S‚™thtu Au. >>34>>
+¨¢…² ©±æ™ J
+»„ÓÀ>y±æ ±™Ý¢ Üïàæ±S² ÜëU„æTçH±ïüÐ}ææÝ: çÜUÚèÅè J
+Ý}æSÜëUy±æ |æê² »±æã ÜëUc‡æ¢ ¨xæeÎ¢ |æè„|æè„: Ðí‡æ}² JJ35JJ
+ËksÞ fnu Au- fuþð ¼„ðt™wk ytðwk ð[™ Ëtk¼¤e™u {wfwxÄthe
+yswo™ ntÚt òuze™u Úth Úth fk…‚tu ™{Mfth fhe™u VheÚte …ý
+yíÞL‚ ¼Þ¼e‚ ÚtR sR™u «ýt{ fhe™u ¼„ðt™ ©ef]»ý™t
+«íÞu „ŒT„Œ ðtýeÚte fnuðt ÷tøÞtu >>35>>
+¥…éüÝ ©±æ™ J
+SƒæÝï N¯èÜïUàæ „± ÐíÜUèy²æü ÎxæyÐíNc²y²ÝéÚÁ²„ï  ™ J
+Úÿææ¢ç¨ |æè„æçÝ çÎàææï Îí±ç‹„ ¨±ïü Ý}æS²ç‹„ ™ ç¨h¨Yæ: JJ36JJ
+yswo™ fnu Au = nu yL‚Þtor{™T ! yt…™tk ™t{ y™u „wý ‚Útt
+«¼tð™wk fe‚o™ fhðtÚte Ë½ýwk s„‚T yr‚ nr»to‚ ÚtR hÌtwk Au.
+y™u yt…™t{tk yr‚ M™unt‚wh ƒ™e òÞ Au. ‚u{s ¼Þ¼e‚
+ÚtÞu÷t htûtË„ýtu [tu‚hV rŒþtytu{tk Œtuze òÞ Au. y™u Ëðo
+rËØ„ýtu ™{Mfth fhe hÌtt Au. >>35>>
+ÜUS}ææÓ™ „ï Ý Ý}æïÚ‹}æãæy}æÝì xæÚè²¨ï Ïæíræ‡ææïùŒ²æçÎÜU~æïü J
+¥Ý‹„ Îï±ïàæ …xæçóæ±æ¨ y±}æÿæÚ¢ ¨Î¨œæyÐÚ¢ ²„ì JJ37JJ
+nu {ntí{™T ËðoÚte {nt™T y™u ƒúñt™t …ý ytrŒf‚to yuðt
+yt…™u fu{ ‚uytu ™{Mfth ™ fhu ? fu{fu nu y™L‚ ! nu Œuðuþ ! nu
+s„ÂÒtðtË ! Ë‚T-ftÞo y™u yË‚T-fthý yu ƒÒtuY… yt Ë½¤wk
+rðï y™u ‚u ËðoÚte …ý …h yuðwk su yûth ‚u …ý yt… s Atu.
+>>37>>
+y±}ææçÎÎï±: ÐéL¯: ÐéÚæ‡æSy±}æS² ç±ES² ÐÚ¢ çÝ{æÝ}æì J
+±ïœææç¨ ±ïl¢ ™ ÐÚ¢ ™ {æ}æ y±²æ „„¢ ç±E}æÝ‹„MUÐ JJ38JJ
+yt… ytrŒŒuð y™u …whtý-Ë™t‚™ …wY»t-…h{tí{t Atu. yt…
+s yt rðï™t …h{ ytÄth Atu. òý™tht Atu. y™u òýðt ÞtuøÞ
+…h{Ät{ …ý yt… s Atu. nu yÒt‚Y… ! yt…u s yt Ë½¤wk
+rðï ÔÞt…u÷wk Au. yÚtto‚T yt…s Ëðoºt …rh…qýo Atu. >>38>>
+
+
+Ÿæè}æjxæ±eè„æ
+23
+yæÞtÞ - 11
+±æ²é²ü}ææïùçxÝ±üL‡æ: àæàææV: Ðí…æÐç„Sy±¢ ÐíçÐ„æ}æãp J
+Ý}ææï Ý}æS„ïùS„é ¨ãdÜëUy±: ÐéÝp |æê²æïùçÐ Ý}ææï Ý}æS„ï JJ39JJ
+yt…s ðtÞw, Þ{, yÂø™, ðYý, [Lÿ{t, «òytu™t Mðt{e
+ƒúñt y™u ‚u™t …ý r…‚t ðihts Atu. yt…™u nòhtu ðth ™{Mfth
+Au. ™{Mfth Au. ð¤e yt…™u VheÚte …ý ðthkðth ™{Mfth fYk
+Awk, ™{Mfth fYk Awk >>29>>
+Ý}æ: ÐéÚS„æÎƒ ÐëD„S„ï Ý}ææïùS„é „ï ¨±ü„ »± ¨±ü J
+¥Ý‹„±è²æüç}æ„ç±RU}æSy±¢ ¨±Z ¨}ææŒÝæïç¯ „„æïùç¨ ¨±ü: JJ40JJ
+nu y™L‚-y…th Ët{ÚÞoðt¤t «¼tu ! yt…™u yt„¤Úte …ý
+™{Mfth Au. y™u …tA¤Úte …ý ™{Mfth Au. nu Ëðtoí{™T ! yt…™u
+Ëðo ƒtswytuÚte ™{Mfth Au. fthý fu yt… ‚tu y™L‚-y{t…
+…ht¢{ðt¤t Atu. y™u Ëðo{tk ÔÞt…e™u hnu÷t Atu. {txu yt… s
+ËðoY… Atu. >>40>>
+¨¶ïç„ }æy±æ Ðí¨|æ¢ ²ÎéQ¢U ãï ÜëUc‡æ ãïU ²æÎ± ãï ¨¶ïç„ J
+¥…æÝ„æ }æçã}ææÝ¢ „±ïÎ¢ }æ²æ Ðí}ææÎæyÐí‡æ²ïÝ ±æçÐ JJ41JJ
+²Ó™æ±ãæ¨æƒü}æ¨yÜëU„æïùç¨ ç±ãæÚàæÄ²æ¨Ý|ææï…Ýï¯é J
+»ÜUæïùƒ±æŒ²Ó²é„ „y¨}æÿæ¢ „yÿææ}æ²ï y±æ}æã}æÐí}æï²}æì JJ42JJ
+ytðtu ‚{thtu {rn{t ™rn òý‚tk {U yt… {tht Ë¾t Atu
+yu{ {t™e™u «u{Úte yÚtðt ‚tu fÞthuf «{tŒÚte …ý {U nu f]»ý ! nu
+ÞtŒð ! nu Ë¾u ! yuðt þçŒtu fÌtt ntuÞ, ‚u{s nu yåÞw‚ ! yt…™u
+{U ntMÞ-rð™tuŒ «Ëk„u rðnth, þGÞt, ytË™ y™u ¼tus™
+rð„uhu™t «Ëk„u, yt… yuf÷t ntu íÞthu yÚtðt yt…™t Ë¾t
+rð„uhu™t Ë{ût{tk …ý y…{tr™‚ fÞto ntuÞ, ‚u Ë½¤t y…htÄ™e
+y…th {rn{tðt¤t y«{uÞMðY… yt…™e …tËu nwk ût{t {t„wk Awk
+>>41-42>>
+çÐ„æç¨ HæïÜUS² ™Úæ™ÚS² y±}æS² ÐêÁ²p xæéLxæüÚè²æÝì J
+Ý y±y¨}ææïùSy²|²ç{ÜU: ÜéU„æïù‹²æï HæïÜU~æ²ïùŒ²Ðíç„}æÐí|ææ± JJ43JJ
+„S}ææyÐí‡æ}² Ðíç‡æ{æ² ÜUæ²¢ Ðí¨æÎ²ï y±æ}æã}æèàæ}æèÇK}æì J
+çÐ„ï± ²é~æS² ¨¶ï± ¨w²é: çÐí²: çÐí²æ²æãüç¨ Îï± ¨æïÉé}æì JJ44JJ
+yt… yt MÚttðh-sk„{tí{f Ëf¤ ÷tuf™t r…‚t y™u yt
+Ëðo rðï™t …qßÞ „wY y™u Ëðo ‚wÕÞ ƒeòu ftuR ™Úte, ‚tu …Ae
+yt…™tÚte yrÄf ‚tu ntuR s fu{ þfu ? >>
+‚uÚte nu «¼tu ! yt…™t [hýtu{tk yt þheh™u y…oý fhe™u
+«ýt{ fhe™u M‚wr‚ fhðt ÞtuøÞ Ëf¤ rðï™t Mðt{e yt…™u «ËÒt
+fhðt {txu «tÚto™t fYk Awk - nu Œuð ! r…‚t su{ …wºt™tu, Ë¾t su{
+Ë¾t™tu y™u r«Þ-…r‚ su{ r«Þt-…í™e™tu y…htÄ Ën™ fhu Au.
+yus «{týu yt… {thtu y…htÄ Ën™ fhðt ÞtuøÞ Atu. >>44>>
+¥ÎëCÐê±Z Nç¯„æïùçS}æ ÎëcÅì±æ |æ²ïÝ ™ ÐíÃ²çƒ„¢ }æÝæï }æï J
+„Îï± }æï Îàæü² Îï±MUÐ¢ Ðí¨èÎ Îï±ïàæ …xæçóæ±æ¨ JJ45JJ
+{U …nu÷tk ™rn Œu¾u÷wk yt…™wk ytðwk ytùÞo{Þ Y… òuR™u nŠ»t‚
+ÚtÞtu Awk. ‚u{s ð¤e {tYk {™ ¼ÞÚte …ý ÔÞtfw¤ ƒ™e „Þwk Au,
+{txu nu Œuð ! {™u su «Út{ n‚wk ‚u s Y… ƒ‚tðtu ! y™u nu Œuðuþ !
+nu s„ÂÒtðtË ! yt… «ËÒt Úttytu ! >>45>>
+çÜUÚèçÅÝ¢ xæçÎÝ¢ „RUãS„ç}æÓÀæç}æ y±æ¢ ÎíCé}æã¢ „ƒñ± J
+„ïÝñ± MUÐï‡æ ™„é|æü…ïÝ¨ãdÏææãæï¢ |æ± ç±E}æê„ïü JJ46JJ
+nwk yt…™u {wfwxÄthe, „ŒtÄthe y™u [¢ nM‚{tk su{™u Au,
+yuðt Œu¾ðt RåAwk Awk, {txu nu rðïMðY… ! nu ËnËúƒtntu ! yt…
+‚u «{týus-‚u [‚wo¼wsY…u s Úttytu ! Œþo™ yt…tu ! >>46>>
+Ÿæè|æxæ±æÝé±æ™ J
+}æ²æ Ðí¨óæïÝ „±æ…éüÝïÎ¢MÐ¢ ÐÚ¢ Î<àæ„}ææy}æ²æïxææ„ì J
+„ï…æï}æ²¢ ç±E}æÝ‹„}ææl¢ ²‹}æï y±Î‹²ïÝ Ý ÎëCÐê±ü}æì JJ47JJ
+©e¼„ðt™ fnu = Au nu yswo™ y™w„ún…qðof «ËÒt ÚtÞu÷t {U
+{the Þtu„ þÂõ‚™t «¼tðÚte yt {tYk …h{ ‚uòu{Þ Ëðo™wk
+ytrŒ¼q‚ y™u Ëe{tyu hrn‚ rðhtxY… ‚™u ƒ‚tÔÞwk Au. fu su
+‚tht rËðtÞ ƒeò ftuRyu ytÚte …qðuo ŒuÏÞwk ™ntu‚wk. >>47>>
+Ý ±ïÎ²¿ææŠ²ÝñÝü ÎæÝñÝü ™ çRU²æç|æÝü „Ðæïç|æLxæíñ: J
+»±¢MUÐ: àæv² ¥ã¢ ÝëHæïÜïU ÎíCé¢ y±Î‹²ïÝ ÜéULÐí±èÚ JJ48JJ
+fwYfw¤{tk ©uc nu yswo™ ! {™w»Þ ÷tuf{tk ytðt «fthu rðïY…u
+
+
+Ÿæè}æjxæ±eè„æ
+24
+nwk ™rn ‚tu ðuŒtuÚte, fu ™rn Þ¿ttuÚte, fu ™rn yæÞÞ™tu fhðtÚte,
+‚u{s ™rn Œt™tuÚte, fu ™rn r¢ÞtytuÚte, y„h ‚tu ™rn W„ú ‚…tuÚte
+…ý, ‚tht rËðtÞ ƒeò ftuRyu Œu¾ðt{tk ytðe þõ‚tu ntuô. >>48>>
+}ææ „ï Ã²ƒæ }ææ ™ ç±}æêÉ|ææ±æï ÎëcÅì±æ MUÐ¢ ÍææïÚ}æèÎëÑì}æ}æïÎ}æì J
+Ã²Ðï„|æè: Ðíè„}æÝæ: ÐéÝSy±¢ „Îï± }æï MÐç}æÎ¢ ÐíÐà² JJ49JJ
+{tYk yt ytðwk ½tuh-¼Þt™f Y… òuR™u ‚™u ÔÞÚtt {t Úttytu !
+y™u rð{qZ ¼tð …ý {t Úttytu ! ‚wk ¼Þhrn‚ y™u «ËÒt {™ðt¤tu
+ÚtR™u VheÚte {tYk þk¾, [¢, „Œt y™u …Œ{. ‚uýu Þwõ‚ [‚w¼wos
+Y… Ëthe he‚u òu ! >>49>>
+¨¢Áæ² ©±æ™ J
+§y²…éüÝ¢ ±æ¨éÎï±S„ƒæïvy±æ S±Ü¢U MÐ¢ Îàæü²æ}ææ¨ |æê²: J
+¥æEæ¨²æ}ææ¨ ™ |æè„}æïÝ¢ |æêy±æ ÐéÝ: ¨æñ}²±Ðé}æüãæy}ææ JJ50JJ
+ËksÞ fnu Au = ðtËwŒuð ¼„ðt™u yswo™™u yt «{týu fne™u
+VheÚte …tu‚t™wk [‚w¼wos Y… ƒ‚tÔÞwk. y™u VheÚte {ntí{t ©ef]»ý
+¼„ðt™u ËtiBÞ-y¢tuÄ ËwLŒh{qŠ‚ ÚtR™u ¼Þ …t{u÷t yswo™™u
+ytïtË™ fhe™u Äehs yt…e. >>50>>
+¥…éüÝ ©±æ™ J
+ÎëcÅì±ïÎ¢ }ææÝé¯¢ MÐ¢ „± ¨æñ}²¢ …ÝæÎüÝ J
+§ÎæÝè}æçS}æ ¨¢±ëœæ: ¨™ï„æ: ÐíÜëUô„ xæ„: JJ51J
+yswo™ fnu Au-nu s™tŒo™ ! yt…™wk yt yr‚ ËtiBÞ-þtÂL‚fh
+{t™w»t Y… òuR™u n{ýtk nwk ÂMÚthr[¥t ÚtÞtuAwk. y™u nwk {tht yË÷
+Mð¼tð™u …tBÞtu Awk. >>51>>
+Ÿæè|æxæ±æÝé±æ™ J
+¨éÎéÎüàæüç}æÎ¢ MÐ¢ ÎëC±æÝç¨ ²‹}æ}æ J
+Îï±æ ¥Œ²S² MÐS² çÝy²¢ ÎàæüÝÜUæçÑìÿæ‡æ: JJ52JJ
+©e ¼„ðt™ fnu Au = yt {tYk su rðï-rðhtxT Y… ‚U ŒeXwk, ‚u
+Y…™wk Œþo™ ‚tu yr‚þÞ Œw÷o¼ Au. ƒúñtrŒf Œuðtu …ý yt Y…™tk
+Œþo™ r™hL‚h RåAÞts fhu Au. >>52>>
+Ýæã¢ ±ïÎñÝü „Ðæ¨æ Ý ÎæÝïÝ Ý ™ïÁ²²æ J
+àæv² »±¢ç±{æï ÎíCé¢ ÎëC±æÝç¨ }ææ¢ ²ƒæ JJ53JJ
+suðt «fthÚte ‚U {™u ŒuÏÞtu. ‚uðe he‚u ‚tu nwk ðuŒtuÚte …ý ™Úte
+Œu¾ðt{tk ytð‚tu. fu ™Úte ‚…Úte  Œu¾t‚tu, fu ™Úte Œt™Úte, fu ™Úte
+Þ¿tÚte …ý Œu¾ðt{tk þõÞ Út‚tu. >>53>>
+|ævy²æ y±Ý‹²²æ àæv² ¥ã}æï±¢ç±{æïù…éüÝ J
+¿ææ„é¢ ÎíCé¢ ™ „œ±ïÝ Ðí±ïCé¢ ™ ÐÚ¢„Ð JJ54JJ
+…hL‚w nu …hL‚… yswo™ ! {tht{tk y™LÞ ¼Âõ‚Úte ‚tu ytðt
+«fthu òýðt™u, Œu¾ðt™u Ëtûtt‚T fhðt™u y™u ‚¥ðu fhe™u Ãðuþ
+fhðt {the ËtÚtu …h{ ËtBÞ …t{ðt {txu …ý nwk þõÞ Úttô Awk
+>>54>>
+}æyÜU}æüÜëU‹}æyÐÚ}ææï }æjQU: ¨X±<…„: J
+çÝ±ñüÚ: ¨±ü|æê„ï¯é ²: ¨ }ææ}æïç„ Ðæ‡Ç± JJ55JJ
+nu …tkzð ! su …wY»t fuð¤ {thu {txu s Ë½¤tk f{o fh™thtu
+ÚttÞ Au. {tht …htÞý ð‚uo Au. {tht{tk ¼Âõ‚ðt¤tu ntuÞ Au. Ëk„-
+ytËÂõ‚ rð™t™tu ntuÞ Au. y™u Ëðo¼q‚-«týe{tk ðih ¼tðu hrn‚
+ntuÞ Au. ‚u …wY»t {™u …t{u Au. >>55>>
+„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢
+²æïxæàææ›ï ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï ç±EMÐÎàæüÝ²æïxææï
+Ýæ}æñÜUæÎàææïùŠ²æ²: JJ11JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk
+Þtu„þtMºtu ©ef]»ýtòow™ËkðtŒu
+
+## rðïY…Œþo™Þtu„tu  ™t{iftŒþtuàæÞtÞ:
+
+>>11>>
+yæÞtÞ - 11
+
+
+Ÿæè}æjxæ±eè„æ
+1
+Ÿæè}æjxæ±eè„æ
+(¥ƒü ¨çã„)
+-: «ftþf :-
+©eMðtr{™thtÞý
+{krŒh ¼ws - fåA.
+Ëkð‚T 2062 …tu»tËwŒ 2
+Ë™u. 2005 ‚t. 1-1-06
+yæÞtÞ - 12
+yæÞtÞ 12 Úte 18
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒ mæÎàææïùŠ²æ²:
+
+¥…éüÝ ©±æ™ J
+»±¢ ¨„„²éQUæ ²ï |æQUæSy±æ¢ Ð²éüÐæ¨„ï J
+²ï ™æŒ²ÿæÚ}æÃ²Q¢U „ï¯æ¢ ÜïU ²æïxæç±œæ}ææ: JJ1JJ
+yswo™ fnu Au = su y™LÞ ¼õ‚s™ yt …qðuo fÌtwk yu «fthu
+r™hL‚h yt…™t ¼s™-æÞt™{tk Ëk÷ø™ hne™u yt…™e W…tË™t
+fhu Au. y™u su ƒeòytu yÔÞõ‚ yûth™e W…tË™t fhu Au. yt
+ƒu «fth™t W…tËftu{tk yr‚ W¥t{ Þtu„ðu¥tt ftuý Au ? >>1>>
+Ÿæè|æxæ±æÝé±æ™
+
+## J
+
+}æÄ²æ±ïà² }æÝæï ²ï }ææ¢ çÝy²²éQUæ ©Ðæ¨„ï J
+Ÿæh²æ ÐÚ²æïÐï„æS„ï }æï ²éQU„}ææ }æ„æ: JJ2JJ
+©e¼„ðt™ fnu Au = {tht{tks {™™u yuft„ú fhe™u su
+¼õ‚s™tu {tht{tk s r™íÞÞwõ‚ ÚtR™u {the W…tË™t fhu Au.
+y™u {tht{tks suytu …h{ áZ ©Øtyu Þwõ‚ Au. ‚u s {tht
+¼õ‚tu{tk yr‚ Þwõ‚-ÞtuøÞ‚tðt¤t ©u»X {t™u÷t Au. >>2>>
+²ï  y±ÿæÚ}æçÝÎïüà²}æÃ²Q¢U  Ð²éüÐæ¨„ï J
+¨±ü~æxæ}æç™‹y²¢ ™ ÜêUÅSƒ}æ™H¢  {íé±}æì JJ3JJ
+¨¢çÝ²}²ïç‹Îí²xæíæ}æ¢   ¨±ü~æ  ¨}æÏæéh²: J
+„ï ÐíæŒÝé±ç‹„ }ææ}æï±  ¨±ü|æê„çã„ï Ú„æ: JJ4JJ
+y™u su s™tu ‚tu RrLÿÞtu™t Ë{qn™u Yzu «fthu ðþ{tk fhe™u,
+r™Œuoþ ™ fhe þftÞ yuðwk y™u ‚uÚtes yÔÞõ‚, yuðt fqxMÚt,
+y[¤, yrð™tþe, yûth-ƒúñ™u W…tËu Au. y™u Ëðoºt Ë{ ƒwÂØ
+ht¾™tht Au. y™u ¼q‚-«týe{tºt™wk rn‚ fhðt{tks ht[™tht Au.
+‚tu ‚uytu …ý {™us …t{u Au. >>3-4>>
+vHïàææïùç{ÜU„ÚS„ï¯æ}æÃ²QUæ¨QU™ï„¨æ}æì J
+¥Ã²QUæ çã xæç„Îéü:¶¢ Îïã±çjÚ±æŒ²„ï JJ5JJ
+…hL‚w-yÔÞõ‚ yûth-ƒúñ{tk ytËõ‚ r[¥tðt¤t ‚u yûth™t
+W…tËftu™u yr‚ yrÄf f÷uþ Ënuðtu …zu Au. y™u ŒunÄtheytuyu
+yt¾hu Œw:¾…qðofs ‚u yÔÞõ‚ „r‚ «tó fhtÞ Au. >>5>>
+²ï „é ¨±æüç‡æ ÜU}ææüç‡æ }æç² ¨¢‹²S² }æyÐÚæ: J
+¥Ý‹²ïÝñ± ²æïxæïÝ }ææ¢ Š²æ²‹„ ©Ðæ¨„ï JJ6JJ
+„ï¯æ}æã¢ ¨}æéh„æü }æëy²é¨¢¨æÚ¨æxæÚæ„ì J
+|æ±æç}æ Ýç™ÚæyÐæƒü }æÄ²æ±ïçàæ„™ï„¨æ}æì JJ7JJ
+…ý su s™tu ‚tu {í…htÞý ÚtR™u Ëðo f{o {tht{tk s Ë{…oý
+fhe™u y™LÞ-yuftÂL‚f ¼Âõ‚Þtu„Úte {tYk s æÞt™ fh‚tk {the
+s W…tË™t fhu Au.
+
+
+Ÿæè}æjxæ±eè„æ
+2
+yæÞtÞ - 12
+‚tu nu …tÚto ! yu {tht{tks r[¥t …htuð™tht {tht «u{e yuftÂL‚f
+¼õ‚tu™tu nwk Úttuzts Ë{Þ{tk {]íÞwY… ËkËth-Ët„hÚte WØth
+fh™thtu Úttô Awk. >>6-7>>
+}æÄ²ï± }æÝ ¥æ{yS± }æç² Ïæéôh çÝ±ïàæ² J
+çÝ±ç¨c²ç¨ }æÄ²ï± ¥„ ªŠ±Z Ý ¨¢àæ²: JJ8JJ
+{txu ‚wk {tht{tks {™ ÷„tðe Œu ! {tht{tk s ƒwÂØ …htuðe Œu !
+nðu …Ae ‚wk {tht{tk s r™ðtË …t{eþ. yt ðt‚{tk ftkR ËkþÞ ™
+fheþ. >>8>>
+¥ƒ ç™œæ¢ ¨}ææ{æ„é¢ Ý àævÝæïç¯ }æç² çSƒÚ}æìJ
+¥|²æ¨²æïxæïÝ „„æï }ææç}æÓÀæ#é¢ {Ý¢…² JJ9JJ
+y™u òu ‚wk {tht{tk ÂMÚth r[¥t ht¾e™u ½ýtu Ë{Þ æÞt™ fhðt
+Ë{Úto ™ Út‚tu ntuÞ, ‚tu nu Ä™ksÞ ! yÇÞtË-Þtu„Úte ‚wk {™u
+…t{ðt™e RåAt ht¾ ! >>9>>
+¥|²æ¨ïùŒ²¨}æƒæïüùç¨ }æyÜU}æüÐÚ}ææï |æ± J
+}æÎƒü}æçÐ ÜU}ææüç‡æ ÜéU±üç‹¨çh}æ±æŒS²ç¨ JJ10JJ
+yuðtu yÇÞtË fhðt{tk …ý ‚wk yË{Úto ntuÞ ‚tu fuð¤ {thu
+{txus f{o fhðt{tk …htÞý ÚtR ò ! {thu {txus f{o fh‚tk fh‚tk
+…ý {the «tÂóY… ÂMtrØ™u …t{eþ. >>10>>
+¥ƒñ„ÎŒ²àæQUæïùç¨ ÜU„éZ }ælæïxæ}ææçŸæ„: J
+¨±üÜU}æüÈUHy²æxæ¢ „„: ÜéUL ²„æy}æ±æÝì JJ11JJ
+nðu- {the «tÂó {txu yu …ý fhðt ‚wk yË{Úto ntuÞ ‚tu {tht
+¼Âõ‚-Þtu„™u ytþhe™u {™-ƒwÂØ™u ftƒw{tk ht¾e™u …Ae Ëðo
+f{o™t V¤™tu íÞt„ fh ! >>11>>
+Ÿæï²æï çã ¿ææÝ}æ|²æ¨æÁ¿ææÝæÎìŠ²æÝ¢ ç±çàæc²„ïJ
+Š²æÝæyÜU}æüÈUHy²æxæSy²æxææÓÀç‹„Ú‹„Ú}æì JJ12JJ
+yÇÞtË fh‚tk ¿tt™ ½ýwk ËtYk Au. ¿tt™ fh‚tk æÞt™ rðþu»t
+ËtYk Au. æÞt™ fh‚tkÞ f{o™t V¤™tu íÞt„ ©uc Au. fu{fu íÞt„Úte
+‚wh‚s …Ae þtÂL‚ «tó ÚttÞ Au. >>12>>
+¥mïCæ ¨±ü|æê„æÝæ¢ }æñ~æ: ÜUL‡æ »± ™ J
+çÝ}æü}ææï çÝÚã¢ÜUæÚ: ¨}æÎé:¶¨é¶: ÿæ}æè JJ13JJ
+¨¢„éC: ¨„„¢ ²æïxæè ²„æy}ææ ÎëÉçÝp²: J
+}æÄ²<Ð„}æÝæïÏæéçh²æïü }æjQU: ¨ }æï çÐí²: JJ14JJ
+Ëðo ¼q‚-«týe{tºt™tu îu»t ™rn fh™thtu, r™:MðtÚto…ýu Ëðo™e
+{iºte ht¾™thtu, yfthý Ëðo™t W…h fYýt ht¾™thtu, {{‚tyu
+Ërn‚ y™u ynkfthu …ý hrn‚, Ëw¾-Œw:¾{tk Ë{ hnu™thtu y™u
+y…htÄe™u …ý y¼Þ yt…ðtY… ût{t ht¾™thtu, y™u su ¼õ‚-
+Þtu„e ËŒtÞ ËL‚tu»te hnu‚tu ntuÞ, {™ RrLÿÞtu™u ftƒw{t ht¾™thtu
+y™u {tht MðY…™t áZ r™ùÞðt¤tu ntuÞ, {tht{tk {™ ytrŒf
+RrLÿÞtu y™u ƒwÂØ™u y…oý fhe™u {thes ¼Âõ‚ fh™thtu su {thtu
+¼õ‚ ‚us {™u r«Þ Au. >>13-14>>
+²S}ææóææïçm…„ï HæïÜUæï HæïÜUæóææïçm…„ï ™ ²: J
+ã¯æü}æ¯ü|æ²æïmïxæñ}æéüQUæï ²: ¨ ™ }æï çÐí²: JJ15JJ
+¥ÝÐïÿæ: àæéç™Îüÿæ ©Îæ¨èÝæï xæ„Ã²ƒ: J
+¨±æüÚ}|æÐçÚy²æxæè ²æï }æjQU: ¨ }æï çÐí²: JJ16JJ
+su™tÚte ftuR …ý «týe Wîu„ ™ …t{u y™u su …tu‚u ftuR …ý
+«týeÚte Wîu„ ™ …t{u y™u su n»to, y{»to, ¼Þ y™u Wîu„trŒf
+rðfthtuÚte hrn‚ ÚtR™u ð‚uo ‚u ¼õ‚ {™u r«Þ Au.
+su ftuR™e y…uûtt ™Úte ht¾‚tu, ykŒh-ƒnth þwØ hnu Au.
+[‚wh, …ût…t‚u hrn‚ ð‚o™thtu y™u Œw:¾trŒf™e ÔÞÚtt ™rn
+…t{™thtu, ‚u{s Ëðo ythk¼{tºt™tu …rhíÞt„ fh™thtu su {thtu
+¼õ‚ ‚u s {™u r«Þ-Ônt÷tu Au. >>15-16>>
+²æï Ý Nc²ç„ Ý mïçC Ý àææï™ç„ Ý ÜUæÑìÿæç„J
+àæé|ææàæé|æÐçÚy²æxæè |æçQU}ææ‹²: ¨ }æï çÐí²: JJ17JJ
+su fÞthuÞ n¾toR s‚tu ™Úte y™u ftuR™tu îu»t …ý fh‚tu ™Úte,
+su fÞthuÞ þtuf ™Úte fh‚tu ‚u{ fþt™e ytftkûtt ™Úte ht¾‚tu,
+y™u Ëtht-™hËt™tu Ëðo™tu …rhíÞt„ fhe™u {tht{tk ¼Âõ‚ðt¤tu
+su ¼õ‚s™ ‚u {™u ƒnws r«Þ-Ônt÷tu Au. >>17>>
+
+
+Ÿæè}æjxæ±eè„æ
+3
+yæÞtÞ - 13
+¨}æ: àæ~ææñ ™ ç}æ~æï ™ „ƒæ }ææÝæÐ}ææÝ²æï: J
+àæè„æïc‡æ¨é¶Îé:¶ï¯é ¨}æ: ¨Xç±±<…„: JJ18JJ
+„éË²çÝ‹ÎæS„éç„}ææñüÝè ¨¢„éCæï ²ïÝ ÜïUÝç™„ì J
+¥çÝÜïU„: çSƒÚ}æç„|æüçQU}ææ‹}æï çÐí²æï ÝÚ: JJ19JJ
+su þºtw{tk y™u r{ºt{tk ‚Útt {t™-y…{t™{tk …ý Ë{ ð‚uo
+Au. þe‚-W»ýtrŒf ‚Útt Ëw¾-Œw:¾{tk …ý su Ë{ ð‚uo Au. ‚u{s
+Ëðo{tk Ëk„-ytËÂõ‚yu hrn‚ Au.
+su r™LŒt y™u M‚wr‚™u Ë{t™ Ë{ÍuAu. {™™ fhðt™t
+Mð¼tððt¤tu Au, þheh™t r™ðton{tk su ftuR …ŒtÚto {¤e ytðu
+‚u™tÚte su ËŒtÞ ËL‚tu»te hnu™th Au. yuf s MÚtt™{tk r™Þ‚ ðtË
+™rn ht¾™thtu y™u {tht{tk ËŒtÞ ÂMÚth ƒwÂØ ht¾™thtu {tht{tk
+¼Âõ‚{t™ …wY»t {™u ƒnws Ônt÷tu Au. >>18-19>>
+²ï „é {}²æü}æë„ç}æÎ¢ ²ƒæïQ¢U Ð²éüÐæ¨„ï J
+Ÿæg{æÝæ }æyÐÚ}ææ |æQUæS„ïù„è± }æï çÐí²æ: JJ20JJ
+nu yswo™ ! su …wY»ttu yt {tht ¼Âõ‚-Þtu„Y… Ä{o{Þ y{]‚™wk
+{tht fnuðt «{týu ð‚eo™u …Þwo…tË™ fhu Au. y™u ‚u{tk ©ØtÞwõ‚
+ÚtR™u {í…htÞýs ð‚uo Au. ‚u {tht ¼õ‚tu {™u yr‚þÞs r«Þ-
+Ônt÷t{tk Ônt÷t Au. >>20>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢
+²æïxæàææ›ï ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï |æçQU²æïxææï Ýæ}æ
+mæÎàææïùŠ²æ²: JJ12JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk
+Þtu„þtMºtu ©ef]»ýtòow™ËkðtŒu ¼Âõ‚Þtu„tu  ™t{
+îtŒþtuàæÞtÞ: >>12>>
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒ ~æ²æïÎàææïùŠ²æ²:
+
+|æxæ±æÝé±æ™ J
+§Î¢ àæÚèÚ¢  ÜUæñ‹„ï²  ÿæï~æç}æy²ç|æ{è²„ï J
+»„læï ±ïçœæ „¢ Ðíæãé: ÿæï~æ¿æ §ç„ „çmÎ: JJ1JJ
+©e ¼„ðt™ fnu Au = nu yswo™ ! yt þheh™u ûtuºt yuðt ™t{u
+fnuðt{tk ytðu Au. y™u ‚u ûtuºt-þheh™u su òýu Au. ‚u Sðtí{t™u
+ûtuºt¿t yuðt ™t{u ‚u ûtuºt-ûtuºt¿t™t MðY…™u ÞÚttÚto òý™tht ¿tt™e
+s™tu fnu Au. >>1>>
+ÿæï~æ¿æ¢ ™æçÐ }ææ¢ ç±çh ¨±üÿæï~æï¯é |ææÚ„ J
+ÿæï~æÿæï~æ¿æ²æï¿ææüÝ¢  ²œæÁ¿ææÝ¢ }æ„¢ }æ}æ JJ2JJ
+nu ¼th‚ ! Ëðoûtuºt-þhehtu{tk hnu÷t ûtuºt¿t-Sðtí{t™u
+…ý....1....ûtuºt™e …uXus {™u s òý ! y™u yt ûtuºt y™u ûtuºt¿t,
+yu ƒÒtu™t MðY…™wk su ÞÚttÚto ¿tt™ ‚us ¿tt™ Au. yu{ {U {t™u÷wk Au.
+>>2>>
+„yÿæï~æ¢ ²Ó™ ²æÎëB ²çmÜUæçÚ ²„p ²„ì J
+¨ ™ ²æï ²yÐí|ææ±p „y¨}ææ¨ïÝ }æï Ÿæë‡æé JJ3JJ
+‚u ûtuºt-þheh, su Au. suðwk Au. suðt rðfthðt¤wk Au. ‚Útt su™t
+Útfe su ÚtÞu÷wk Au. ‚Útt ûtuºt¿t-Sðtí{t su Au. y™u suðt «¼tððt¤tu
+Au. ‚u Ë½¤wk Ëkûtu…Úte {tht Útfe Ëtk¼¤ ! >>3>>
+«ç¯ç|æÏæüãé{æ xæè„¢ À‹Îæïç|æ<±ç±{ñ: ÐëƒÜUì J
+Ïæíræ¨ê~æÐÎñpñ±   ãï„é}æçj<±çÝçp„ñ: JJ4JJ
+yt ûtuºt-ûtuºt¿t™wk MðY… Mð¼tð rð„uhu Ér»tytuyu ƒnw «fthu
+™t™t «fth™t ðuŒ{kºttuÚte swŒwk swŒwk fnuðt{tk ytÔÞwk Au. ‚u{s-
+nu‚wðtŒ …qðof™tk r™Âù‚ yÚtoðt¤tk ƒúñËqºttu™tk ðtõÞtuÚte …ý
+fnuðt{tk ytÔÞwk Au. >>4>>
+}æãæ|æê„æ‹²ã¢ÜUæÚæï  ÏæéçhÚÃ²QU}æï±  ™ J
+§ç‹Îí²æç‡æ ÎàæñÜ¢U ™ Ð@ ™ïç‹Îí²xææï™Úæ: JJ5JJ
+
+
+Ÿæè}æjxæ±eè„æ
+4
+yæÞtÞ - 13
+§ÓÀæ mï¯: ¨é¶¢ Îé:¶¢ ¨¢Íææ„pï„Ýæ {ëç„: J
+»„yÿæï~æ¢ ¨}ææ¨ïÝ ¨ç±ÜUæÚ}æéÎæN„}æì JJ6JJ
+…k[ {nt¼q‚, ynkfth, y™u yÔÞõ‚-«f]r‚, {n¥t¥ð, ‚Útt
+Œþ RrLÿÞtu, yuf {™ y™u þçŒtrŒf …tk[ RrLÿÞtu™t …tk[ rð»tÞtu.
+‚u{s RåAt, îu»t, Ëw¾, Œw:¾, …k[¼q‚™t Ë{qnY… MÚtq¤
+®…z, [u‚™ Sðtí{t™u Äthý fhðwk, yÚtðt [u‚™t-ƒwÂØ y™u
+Äthý yÚtðt ÄiÞo, yt Ëkûtu…Úte rðfthtuyu Þwõ‚ ûtuºt™wk MðY… fnu÷wk
+Au. >>5-6>>
+¥}ææçÝy±}æÎç}|æy±}æôã¨æ ÿææç‹„Úæ…ü±}æì J
+¥æ™æ²æïüÐæ¨Ý¢ àææñ™¢ Sƒñ²ü}ææy}æç±çÝxæíã: JJ7JJ
+§ç‹Îí²æƒïü¯é  ±ñÚæx²}æÝã¢ÜUæÚ  »±  ™ J
+…‹}æ}æëy²é…ÚæÃ²æç{Îé:¶Îæï¯æÝéÎàæüÝ}æì JJ8JJ
+¥¨çQUÚÝç|æc±X:  Ðé~æÎæÚxæëãæçÎ¯é J
+çÝy²¢ ™ ¨}æç™œæy±ç}æCæçÝCæïÐÐçœæ¯é JJ9JJ
+nðu-…tk[ &÷tufÚte ¿tt™™wk ÷ûtý fnu Au – r™{to™ ¼tðu ð‚oðwk,
+Œk¼u hrn‚ ð‚o™ ht¾ðwk, yrnËt, ût{t ht¾ðe, {™ y™u ðtýeÚte
+Ëh÷ ð‚oðwk, ©Øt …qðof „wY™e Ëuðt fhðe, ykŒh y™u ƒnth™e
+þwÂØ ht¾ðe, MðÄ{torŒf yt[hðt{tk {™™e ÂMÚth‚t ht¾ðe,
+y™u {™-RrLÿÞtu™tu rðþu»t…ýu r™„ún fhðtu. >>
+RrLÿÞtuÚte ¼tu„ðt‚t þçŒtrŒf rð»tÞtu{tk ht„u hrn‚ ð‚oðwk,
+ftuR «fth™tu ynkfth ™ ht¾ðtu, yt ËkËth{tk y™w¼ðt‚t sL{,
+{]íÞwk, sht, ÔÞtrÄ, rð„uhu rðfthtu{tk hnu÷tk Œw:¾ y™u Œtu»ttu™wk
+ðthkðth yt÷tu[™ ht¾ðwk. >>
+…wºt, Œtht y™u Œun-„untrŒf ðM‚wytu{tk ytËÂõ‚ ™ ht¾ðe,
+‚u{s ‚u{tk yr‚ {{‚tÚte ƒkÄtR sðwk ™rn, Ëtht-™hËt Ëkòu„tu
+«tó ÚttÞ íÞthu ‚u{tk ËŒtÞ Ë{r[¥t…ýwk ht¾ðwk >>7-9>>
+}æç² ™æÝ‹²²æïxæïÝ |æçQUÚÃ²ç|æ™æçÚ‡æè J
+ç±ç±QUÎïàæ¨ïç±y±}æÚç„…üÝ¨¢¨çÎ   JJ10JJ
+¥Š²æy}æ¿ææÝçÝy²y±¢ „œ±¿ææÝæƒüÎàæüÝ}æì J
+»„Á¿ææÝç}æç„ ÐíæïQU}æ¿ææÝ¢ ²Î„æïù‹²ƒæ JJ11JJ
+{tht{tk y™LÞ Þtu„Úte ytÔÞr¼[trhýe r™ù¤ ¼Âõ‚
+ht¾ðe. ‚Útt yuftL‚ y™u þwØ þtL‚ «Œuþ{tk hnuðt™e Yr[ y™u
+rð»tÞe s™Ë{wŒtÞ{tk «er‚ ™ ht¾ðe. >>
+ytí{MðY…™t y™wËLÄt™…qðof …h{tí{MðY…{tk r™íÞ-
+r™hL‚h ÂMÚtr‚ ht¾ðe y™u ‚¥ð¿tt™Y… yÚto™wk Œþo™-Ëtûttífth
+fhðtu. yt Ë½¤wk ¿tt™ yu{ fnu÷wk Au. y™u yt™tÚte su rð…he‚ ‚u
+y¿tt™ òýðwk. >>10-11>>
+¿æï²¢ ²œæyÐí±ÿ²æç}æ ²Á¿ææy±æ}æë„}æàÝé„ï J
+¥ÝæçÎ}æyÐÚ¢ Ïæíræ Ý ¨œæóææ¨ÎéÓ²„ï JJ12JJ
+su òýðt ÞtuøÞ Au. y™u su™u òýe™u y{]‚Y…-{wÂõ‚™u …t{u
+Au. ‚u nwk ‚™u Ëthe he‚u fnwk Awk. ‚u y™trŒ-ytrŒhrn‚ Au. nwks
+su™u …h-«Ät™ Awk yuðwk ƒúñ Au. y™u ‚u ƒúñ Ë‚T yu{ …ý ™Úte
+fnuðt‚wk, ‚u{ yË‚T yu{ …ý ™Úte fnuðt‚wk. >>12>>
+¨±ü„: Ðæç‡æÐæÎ¢ „y¨±ü„æïùçÿæçàæÚæï}æé¶}æì J
+¨±ü„: Ÿæéç„}æÌæïÜïU ¨±ü}ææ±ëy² ç„Dç„ JJ13JJ
+‚u ƒúñ Ëðo ƒtswyu ntÚt-…„ðt¤wk Au. Ëðo ƒtswyu ™uºt, {M‚f
+y™u {w¾ðt¤wk Au. Ëðo ƒtswyu ft™ðt¤wk Au. fu{fu ÷tuf{tk Ëðo™u
+ytðhe™u-ÔÞt…e™u hnuAu. >>13>>
+¨±ïüç‹Îí²xæé‡ææ|ææ¨¢ ¨±ïüç‹Îí²ç±±<…„}æì J
+¥¨Q¢U ¨±ü|æëÓ™ñ± çÝxæéü‡æ¢ xæé‡æ|ææïQëU ™ JJ14JJ
+Ëðo™e RrLÿÞtu™t rð»tÞtu™tu «ftþ fh™tYk Au. y™u …tu‚u Ëðo
+RrLÿÞtuÚte hrn‚ Au. …tu‚u yËõ‚-r™÷uo… Au. y™u Ëðo™wk Äthý-
+…tu»tý fh™tYk Au. …tu‚u {trÞf „wýtuÚte hrn‚ {txu r™„woý Au.
+y™u r™ÞL‚t…ýu „wý™wk ¼tu„ð™tYk …ý Au. >>14>>
+ÏæçãÚ‹„p |æê„æÝæ}æ™Ú¢ ™Ú}æï± ™ J
+¨êÿ}æy±æœæÎç±¿æï²¢ ÎêÚSƒ¢ ™æç‹„ÜïU ™ „„ì JJ15JJ
+¼q‚-«týe{tºt™e ƒnth y™u ykŒh …ý …qýoY…u Au. [h-
+y[hY…u …ý yus Au. yr‚ Ëqû{ ntuðtÚte ‚u ŒwŠð¿tuÞ Au. y™u
+Œqh hnu÷wk …ý yu Au. y™u Ë{e…{tk …ý yus Au. >>15>>
+
+
+Ÿæè}æjxæ±eè„æ
+5
+yæÞtÞ - 13
+¥ç±|æQ¢U ™ |æê„ï¯é ç±|æQUç}æ± ™ çSƒ„}æì J
+|æê„|æ„ëü ™ „Á¿æï²¢ xæíç¨c‡æé Ðí|æç±c‡æé ™ JJ16JJ
+MðÞk yrð¼õ‚-rð¼t„þqLÞ ntuðt A‚tk …ý Ëðo ¼q‚tu{tk
+rð¼õ‚ suðwk s hnu÷wk Au. «týeytu™wk ¼hý-…tu»tý fh™tYk, Wí…Òt
+fhe™u ð]ÂØ …{tz™tYk y™u ð¤e «÷Þ ð¾‚u Ëðo™u „¤e ÷u™tYk
+Au. yÚtto‚T Ëknth fh™tYk Au. yuðwk ‚u òýðwk. >>16>>
+Á²æïç„¯æ}æçÐ „ÁÁ²æïç„S„}æ¨: ÐÚ}æéÓ²„ï J
+¿ææÝ¢ ¿æï²¢ ¿ææÝxæ}²¢ NçÎ ¨±üS² ç±çD„}æì JJ17JJ
+Ëðo «ftþ fh™thtk ‚uòu™u …ý ‚u «ftþ yt…™tYk Au. {tÞt™t
+‚{-ykÄfthÚte …h fnu÷wk Au. ¿tt™Y… Au. òýðt ÞtuøÞ Au.
+¿tt™Útes „BÞ-«tÃÞ Au. y™u Ëðo™t ÓŒÞ{tk ðËe hÌtwk Au. >>17>>
+§ç„ ÿæï~æ¢ „ƒæ ¿ææÝ¢ ¿æï²¢ ™æïQ¢U ¨}ææ¨„: J
+}æjQU »„çm…æ² }æjæ±æ²æïÐÐl„ï JJ18JJ
+yt «{týu ûtuºt, ‚Útt ¿tt™ þwØ ytí{‚¥ðY… Ëkûtu…Úte fne
+ƒ‚tÔÞwk, {thtu ƒõ‚ yt ƒhtuƒh Ë{Íe™u {tht ¼tð™u-ËtÄBÞoY…
+…h{ …Œ™u …t{u Au. >>18>>
+ÐíÜëUô„ ÐéL¯¢ ™ñ± ç±hì²ÝæÎè ©|ææ±çÐ J
+ç±ÜUæÚæ¢p xæé‡ææ¢pñ± ç±çh ÐíÜëUç„¨}|ææ±æÝì JJ19JJ
+«f]r‚-{tÞt y™u …wY»t-Sðtí{t yu ƒÒtuÞ™u y™trŒ
+òý-Ë{Í ! y™u Ëðo rðfthtu y™u „wýtu ‚u «f]r‚{tkÚte
+ÚtÞu÷t òý ! >>19>>
+ÜUæ²üÜUÚ‡æÜU„ëüy±ï ãï„é: ÐíÜëUç„LÓ²„ï J
+ÐéL¯: ¨é¶Îé:¶æÝæ¢ |ææïQëUy±ï ãï„éLÓ²„ï JJ20JJ
+ftÞo y™u fthý™t f‚to…ýt{tk nu‚w «f]r‚ fnuðtÞ Au.
+y™u Ëw¾-Œw:¾™t ¼tuõ‚t …ýt{tk nu‚w …wY»t-Sðtí{t
+fnuðtÞ Au. >>20>>
+ÐéL¯: ÐíÜëUç„Sƒæï çã |æéÑìQïU ÐíÜëUç„…æ‹xæé‡ææÝì J
+ÜUæÚ‡æ¢ xæé‡æ¨XæïùS² ¨Î¨læïçÝ…‹}æ¨é JJ21JJ
+…wY»t-Sðtí{t «f]r‚{tk hne™us «f]r‚™t „wýtu-rð»tÞtu™u
+¼tu„ðu Au. y™u yt Sðtí{t™u Ëthe-™hËe Þtur™ytu{tk sL{ «tó
+Útðt{tk «f]r‚™t „wý™tu Ëk„ s fthý Au. >>21>>
+©ÐÎíCæÝé}æ‹„æ ™ |æ„æü |ææïQUæ }æãïEÚ: J
+ÐÚ}ææy}æïç„ ™æŒ²éQUæï ÎïãïùçS}æ‹ÐéL¯: ÐÚ: JJ22JJ
+ð¤e – yt Œun{tk yuf ƒeòu …wY»t …ý hnu÷tu Au. y™u ‚u
+W…ÿüt-ËtûteY…u Au. y™w{L‚t-y™w{r‚ yt…™thtu-ƒwÂØ™tu «uhf
+Ëðo¿t Au. ¼‚to-¼hý …tu»tý fh™thtu Au. ¼tuõ‚t-þheh¼q‚
+Sðîtht yu …ý ¼tuõ‚t Au. y™u {nuïh-Ëti™tu {tuxtu W…rh
+r™Þt{f Au. y™u yu™u …h{tí{t yu{ …ý fnuðt{tk ytðu Au.
+>>22>>
+² »±¢ ±ïçœæ ÐéL¯¢ ÐíÜëUô„ ™ xæé‡æñ: ¨ã J
+¨±üƒæ ±„ü}ææÝæïùçÐ Ý ¨ |æê²æïùç|æ…æ²„ï JJ23JJ
+yt «{týu …wY»t™u-…h{tí{t™u yÚtðt Sðtí{t™u ‚Útt «f]r‚
+su {tÞt ‚u™u ‚u™t „wýtuyu Ërn‚ su {™w»Þ ÞÚttÚto òýu Au. ‚u
+ËðoÚtt-nhftuR «fthu ð‚o‚tu ntuÞ fu hnu‚tu ntuÞ ‚tu …ý ‚u Vhe
+sL{ ™Úte …t{‚tu. >>23>>
+Š²æÝïÝæy}æçÝ Ðà²ç‹„ ÜïUç™Îæy}ææÝ}ææy}æÝæ J
+¥‹²ï ¨æ¢w²ïÝ ²æïxæïÝ ÜU}æü²æïxæïÝ ™æÐÚï JJ24JJ
+fux÷tf W…tËftu yu …h{tí{t™u þwØ {™Úte MðMðY…{tks
+æÞt™îtht Œu¾u Au. Ëtûtt‚T y™w¼ðu Au. ƒeò ËtkÏÞ Þtu„Úte y™u
+fux÷tf ‚tu f{oÞtu„Úte …ý yu™u Œu¾u Au. >>24>>
+¥‹²ï y±ï±}æ…æÝ‹„: Ÿæéy±æ‹²ï|² ©Ðæ¨„ï J
+„ïùçÐ ™æç„„Ú‹y²ï± }æëy²é¢ Ÿæéç„ÐÚæ²‡ææ: JJ25JJ
+ƒeò fux÷tf yt{ …qYk ™rn Ë{s™tht ‚u ‚tu ƒeòytu-
+‚¥ððu¥tt Ëí…wY»ttu Útfe Ëtk¼¤e™u …h{tí{t™e W…tË™t fhu Au.
+‚tu ‚uðt ©ðý…htÞý ð‚o™tht s™tu …ý {]íÞw…hB…htÚte ¼hu÷t
+yt ËkËth-Ët„h™u ËðoÚtt ‚he s òÞ Au. >>25>>
+²æ±y¨¢…æ²„ï ôÜUç™y¨œ±¢ Sƒæ±Ú…X}æ}æì J
+ÿæï~æÿæï~æ¿æ¨¢²æïxææœæçmçh |æÚ„¯ü|æ JJ26JJ
+
+
+Ÿæè}æjxæ±eè„æ
+6
+yæÞtÞ - 13
+nu ¼h‚»to¼ ! sux÷tk MÚttðh sk„{ «týe Wí…Òt ÚttÞ
+Au. yu Ë½¤tk ûtuºt y™u ûtuºt¿t™t ËkÞtu„Úte s Wí…Òt ÚtÞu÷tk
+‚wk òý ! >>26>>
+¨}æ¢ ¨±ïü¯é |æê„ï¯é ç„D‹„¢ ÐÚ}æïEÚ}æì J
+ç±Ýà²yS±ç±Ýà²‹„¢ ²: Ðà²ç„ ¨ Ðà²ç„ JJ27JJ
+Ëðo ¼q‚tu{tk-«týe{tºt{tk yL‚Þto{e¼tðu Ë{t™…ýu hnu÷t
+…h{uïh™u su swyu Au. ‚u{s-™tþ …t{ðt™t Mð¼tððt¤tk yt
+þhehtu{tk hnu÷t yrð™tþe ytí{t™u, su{s {™u su swyu Au. ‚u s
+¾Yk swyu Au. >>27>>
+¨}æ¢ Ðà²ç‹ã ¨±ü~æ ¨}æ±çSƒ„}æèEÚ}æì J
+Ý çãÝSy²æy}æÝæy}ææÝ¢ „„æï ²æç„ ÐÚæ¢ xæç„}æìJ28J
+y™u Ëðoºt Ë{…ýu ðËe hnu÷t …h{uïh™u òu‚tu su …wY»t
+ftuR …ý ytí{t™u …tu‚u …tu‚tîtht ™tþ ™Úte fh‚tu ‚tu ‚uðt ð‚o™Úte
+‚u …h{ „r‚™u …t{u Au. >>28>>
+ÐíÜëUy²ñ± ™ ÜU}ææüç‡æ çRU²}ææ‡ææçÝ ¨±üàæ: J
+²: Ðà²ç„ „ƒæy}ææÝ}æÜU„æüÚ¢ ¨ Ðà²ç„ JJ29JJ
+y™u ð¤e su …wY»t Ë½¤tk f{o «f]r‚Útes-«f]r‚îthts fhtÞ
+Au yu{ swyu Au. y™u ‚uÚte ytí{t™u Ëtûtt‚T yf‚to su swyu Au ‚u
+…wY»t ƒhtuƒh swyu Au-Ë{Íu Au. >>29>>
+²Îæ  |æê„Ðëƒx|ææ±}æïÜUSƒ}æÝéÐà²ç„  J
+„„ »± ™ ç±S„æÚ¢ Ïæíræ ¨}Ðl„ï „Îæ JJ30JJ
+ßÞthu yt ¼q‚tu™tu …]Útø¼tð yufs …h{tí{t™u ytÄthu yu
+…h{tí{t{tks swyu Au. y™u ‚u …h{tí{t Útfe s yu ¼q‚tu™tu
+rðM‚th-Ë„torŒf Út‚t swyu Au. yÚtðt «f]r‚{tks …]Útø¼t„ y™u
+«f]r‚Útes Ë„torŒf swyu Au. íÞthu yu ƒúñ-ytí{MðY…™u yÚtðt
+…hƒúñ™u …t{u Au. >>30>>
+¥ÝæçÎy±æçóæxæéü‡æy±æyÐÚ}ææy}ææ²}æÃ²²: J
+àæÚèÚSƒæïùçÐ ÜUæñ‹„ï² Ý ÜUÚæïç„ Ý çHŒ²„ï JJ31JJ
+nu ftiL‚uÞ ! yt yL‚Þto{e …h{tí{t y™trŒ y™u {trÞf
+„wýtuÚte hrn‚-r™„woý ntuðtÚte yrð™tþe y™u yûth MðY… Au.
+{txu þheh{tk-Mðþheh¼q‚ Sðtí{t{tk hnuðt A‚tk ‚u fh‚tÞ
+™Úte y™u ÷u…t‚tÞ ™Úte. >>31>>
+²ƒæ ¨±üxæ„¢ ¨æñÿ}²æÎæÜUæàæ¢ ÝæïÐçHŒ²„ï J
+¨±ü~ææ±çSƒ„æï Îïãï „ƒæy}ææ ÝæïÐçHŒ²„ï JJ32JJ
+su{ ytftþ Ëqû{‚t™u ÷eÄu Ëðoºt hnuðt A‚tk ÷u…t‚tu ™Úte.
+‚u s «{týu …h{tí{t Ëðoºt Œun{tk-Mðþheh¼q‚ Sðtí{t{tk
+hnuðt A‚tk ‚u ‚u ytí{tytu™tk f{oÚte ÷u…t‚t ™Úte. >>32>>
+²ƒæ ÐíÜUæàæ²y²ïÜU: ÜëUyF¢ HæïÜUç}æ}æ¢ Úç±: J
+ÿæï~æ¢ ÿæï~æè „ƒæ ÜëUyF¢ ÐíÜUæàæ²ç„ |ææÚ„ JJ33J
+nu ¼th‚ ! su{ yufs ËqÞo yt Ë½¤t ÷tuf™u «ftrþ‚ fhu
+Au. ‚us «{týu ûtuºte-ûtuºt¿t …h{tí{t yt Ë½¤t ûtuºt¼q‚
+ytí{ð„o™u «ftrþ‚ fhu Au. >>33>>
+ÿæï~æÿæï~æ¿æ²æïÚï±}æ‹„Ú¢   ¿ææÝ™ÿæé¯æ  J
+|æê„ÐíÜëUç„}ææïÿæ¢ ™ ²ï ç±Îé²æüç‹„ „ï ÐÚ}æì JJ34J
+yt «{týu ûtuºt y™u ûtuºt¿t yu ƒÒtu™t ðtM‚rðf ¼uŒ™u ¿tt™Y…
+™uºttuÚte swyu Au. ‚u{s ¼q‚-«týe{tºt™tu «f]r‚ Útfe ¿tt™îtht
+Út‚tu {tuût-{tuût™tu W…tÞ ‚u™u su òýu Au. ‚u …h{¿tt™e ¼õ‚s™
+…h-…h{tí{t™u yÚtðt …h{ Ät{™u …t{u Au. >>34>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢
+²æïxæàææ›ï ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï ÿæï~æÿæï~æ¿æç±|ææxæ²æïxææï
+Ýæ}æ ~æ²æïÎàææïùŠ²æ²: JJ13JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk
+Þtu„þtMºtu ©ef]»ýtòow™ËkðtŒu
+
+## ûtuºtûtuºt¿trð¼t„Þtu„tu  ™t{ ºtÞtuŒþtuàæÞtÞ:
+
+>>13>>
+
+
+Ÿæè}æjxæ±eè„æ
+7
+yæÞtÞ - 14
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒ ™„éÎüàææïùŠ²æ²:
+
+Ÿæè|æxæ±æÝé±æ™ J
+ÐÚ¢ |æê²: Ðí±ÿ²æç}æ ¿ææÝæÝæ¢ ¿ææÝ}æéœæ}æ}æì J
+²Á¿ææy±æ }æéÝ²: ¨±ïü ÐÚæ¢ ç¨çhç}æ„æï xæ„æ: JJ1JJ
+©e ¼„ðt™ fnu Au = Ë½¤tk ¿tt™tu™t {æÞu yr‚ W¥t{ {tYk
+…h{ ¿tt™ nwk ‚™u VheÚte fnwk Awk. su ¿tt™™u òýe™u-Ë{Íe™u Ëðo
+{wr™ytu yt ËkËth{tkÚte {wõ‚ ¼tð™u …t{e™u …h{ rËÂØ …t{e
+„Þt Au. >>1>>
+§Î¢ ¿ææÝ}æéÐæçŸæy² }æ}æ ¨æ{}²ü}ææxæ„æ: J
+¨xæïüùçÐ ÝæïÐ…æ²‹„ï ÐíH²ï Ý Ã²ƒç‹„ ™ J2J
+yt ¿tt™™u ytþhe™u {tht ËtÄBÞoY… …h{ {wÂõ‚™u …t{u÷t
+{wf‚tí{tytu Ë„o™t ythk¼{tk Wí…ÒtuÞ Út‚t ™Úte y™u «÷Þ
+ð¾‚u ftuR ÔÞÚtt-rðfth™u …ý …t{‚t ™Úte. >>2>>
+}æ}æ ²æïçÝ}æüãÎìÏæíræ „çS}æ‹xæ|æZ Î{æ}²ã}æì J
+¨¢|æ±: ¨±ü|æê„æÝæ¢ „„æï |æ±ç„ |ææÚ„ JJ3JJ
+¨±ü²æïçÝ¯é ÜUæñ‹„ï² }æê„ü²: ¨}|æç±ç‹„ ²æ: J
+„æ¨æ¢ Ïæíræ }æãlæïçÝÚã¢ Ïæè…ÐíÎ: çÐ„æ JJ4JJ
+nu ¼th‚ ! s„í™t fthý¼q‚ {the {n‚T-ƒúñY… {tÞt ‚u{tk
+nwk [u‚™Ë{wŒtÞY… „¼o Äthý fYk Awk-MÚtt…™ fYk Awk. y™u ‚u{tkÚte
+Ëðo ¼q‚-«týe{tºt™e Wí…Â¥t ÚttÞ Au.
+nu ftiL‚uÞ ! ™t™t «fth™e Ë½¤e Þtur™ytu{tk su su þhehÄthe
+«týeytu™e ytf]r‚ytu Wí…Òt ÚttÞ Au. ‚u Ëðo™e „¼o Äthý
+fh™the {t‚t™u MÚtt™u {n‚T ƒúñ {tÞt Au. y™u ‚u{tk ƒes
+MÚtt…™thtu r…‚t nwk Awk. >>4>>
+¨œ±¢ Ú…S„}æ §ç„ xæé‡ææ: ÐíÜëUç„¨¢|æ±æ: J
+çÝÏæçŠÝç‹„ }æãæÏææãæï Îïãï ÎïçãÝ}æÃ²²}æì JJ5JJ
+nu {ntƒtntu ! Ë¥ð, hs y™u ‚{ yu ºtýuÞ „wý «f]r‚-
+{tÞt{tkÚte Wí…Òt ÚtÞu÷t Au. ‚u yÔÞÞ-rðfthþqLÞ yûth-
+yrð™tþe Sðtí{t™u þheh{tk ƒtkÄu Au. >>5>>
+„~æ ¨œ±¢ çÝ}æüHy±æyÐíÜUæàæÜU}æÝæ}æ²}æì J
+¨é¶¨XïÝ ÏæŠÝæç„ ¿ææÝ¨XïÝ ™æÝÍæ JJ6JJ
+nu r™Œtuo»t yswo™ ! ‚u ºtý „wýtu{tk Ë¥ð„wý r™{o¤ ntuðtÚte
+«ftþ fh™thtu y™u r™Šðfth Au. ‚u yt Sðtí{t™u Ëw¾tËÂõ‚Úte
+y™u ¿tt™ËÂõ‚Úte ƒkÄ™{tk ™t¾u Au. >>6>>
+Ú…æï Úæxææy}æÜ¢U ç±çh „ëc‡ææ¨X¨}æéj±}æì J
+„çóæÏæŠÝæç„ ÜUæñ‹„ï² ÜU}æü¨XïÝ ÎïçãÝ}æì JJ7JJ
+„}æSy±¿ææÝ…¢ ç±çh }ææïãÝ¢ ¨±üÎïçãÝæ}æì J
+Ðí}ææÎæHS²çÝÎíæç|æS„çóæÏæŠÝæç„ |ææÚ„ JJ8JJ
+nu ftiL‚uÞ ! hòu„wý ht„Y… Au. y™u ‚u ‚]»ýt y™u ytËÂõ‚™wk
+Wí…Â¥tMÚtt™ Au. yu{ òý ! {txu ‚u ŒunÄthe Sðtí{t™u f{o{tk
+y™u ‚u™t V¤{tk ytËÂõ‚Úte Œun{tk ƒtkÄuAu.
+Ëðo ŒunÄtheytu™u {tun W…òð™thtu ‚{tu„wý y¿tt™Úte ÚtÞu÷tu
+òý ! y™u nu ¼th‚ ! ‚uÚte ‚u ‚{tu„wý Sðtí{t™u «{tŒ, yt¤MÞ
+y™u r™ÿt-¾qƒ ô½ðwk, yuðt yuðt Œw„woýtuÚte Œun{tk ƒtkÄu Au. >7-8
+¨œ±¢ ¨é¶ï ¨¢…²ç„ Ú…: ÜU}æüç‡æ |ææÚ„ J
+¿ææÝ}ææ±ëy² „é „}æ: Ðí}æÎï ¨¢…²y²é„ JJ9JJ
+nu ¼th‚ ! Ë¥ð„wý Ëw¾{tk òuzu Au, hòu„wý f{o{tk òuzu Au. y™u
+‚{tu„wý ‚tu ¿tt™™u Ztkfe ŒR™u «{tŒ{tk …qhu…qhtu ™t¾e Œu Au. >>9>>
+Ú…S„}æpæç|æ|æê² ¨œ±¢ |æ±ç„ |ææÚ„ J
+Ú…: ¨œ±¢ „}æpñ± „}æ: ¨œ±¢ Ú…S„ƒæ JJ10JJ
+nu ¼th‚ ! fÞthuf hòu„wý y™u ‚{tu„wý™u Œƒtðe™u
+Ë¥ð„wý ð]ÂØ …t{u Au. ‚u{s fÞthuf Ë¥ð„wý y™u ‚{tu„wý™u
+Œƒtðe™u hòu„wý ðÄe òÞ Au. y™u fÞthuf Ë¥ð„wý y™u
+hòu„wý™u Œƒtðe™u ‚{tu„wý ðÄe òÞ Au. >>10>>
+¨±ümæÚï¯é  ÎïãïùçS}æ‹ÐíÜUæàæ  ©Ð…æ²„ï J
+¿ææÝ¢ ²Îæ „Îæ ç±læçm±ëh¢ ¨œ±ç}æy²é„ JJ11JJ
+ßÞthu yt Œun{tk RrLÿÞtuY… Ëðo îth{tk y™u yL‚:fhý{tk
+
+
+Ÿæè}æjxæ±eè„æ
+8
+yæÞtÞ - 14
+«ftþ-[u‚™‚t y™u ¿tt™ Wí…Òt ÚtÞu÷wk ntuÞ íÞthu Ë¥ð„wý ð]ÂØ
+…t{u÷tu Au yu{ òýðwk òuRyu. >>11>>
+Hæï|æ: Ðí±ëçœæÚæÚ}|æ: ÜU}æü‡ææ}æàæ}æ: SÐëãæ J
+Ú…S²ï„æçÝ …æ²‹„ï ç±±ëhï |æÚ„¯ü|æ JJ12JJ
+nu ¼h‚»to¼ ! ßÞthu hòu„wý ð]ÂØ …t{u Au. íÞthu ÷tu¼, «ð]Â¥t
+y™u f{tuo™tu Ëft{ ¼tðu ythk¼ fhðtu, yþtÂL‚ y™u
+rð»tÞ¼tu„™e ÷t÷Ët yu Ë½¤tk ðÄu Au. >>12>>
+¥ÐíÜUæàææïùÐí±ëçœæp Ðí}ææÎæï }ææïã »± ™ J
+„}æS²ï„æçÝ …æ²‹„ï ç±±ëhï ÜéULÝ‹ÎÝ JJ13JJ
+nu fwY™LŒ™ ! ‚{tu„wý ßÞthu ð]ÂØ …t{u Au íÞthu
+yL‚:fhý{tk y™u RrLÿÞtu{tk y«ftþ, fhðt ÞtuøÞ f{tuo{tk …ý
+y«ð]Â¥t, ‚u{s «{tŒ-yËtðÄt™‚t y™u {tun-r™ÿt rð„uhu
+{turn™e ð]Â¥tytu, yt Ë½¤wk Wí…Òt ÚtR ytðu Au. >>13>>
+²Îæ ¨œ±ï Ðí±ëhï „é ÐíH²¢ ²æç„ Îïã|æë„ì J
+„Îæïœæ}æç±Îæ¢ HæïÜUæÝ}æHæ‹Ðíç„Ðl„ï JJ14JJ
+ßÞthu Ë¥ð„wý ð]ÂØ …t{u÷tu ntuÞ y™u òu ‚u Ë{Þ{tk
+ŒunÄthe «týe «÷Þ-{]íÞw …t{u Au. íÞthu ‚tu W¥t{ f{o fh™tht
+…wÛÞþt¤e ÷tuftu™u «tÃÞ¼q‚ yuðt r™{o¤ Mð„torŒf ÷tuftu™u …t{u
+Au. >>14>>
+Ú…ç¨ ÐíH²¢ xæy±æ ÜU}æü¨çX¯é …æ²„ï J
+„ƒæ ÐíHèÝS„}æç¨ }æêÉ²æïçÝ¯é …æ²„ï JJ15JJ
+hòu„wý ð]ÂØ …t{u÷t Ë{Þ{tk {hý …t{e™u {™w»Þ f{o{tk
+ytËÂõ‚ðt¤t {™w»Þtu{tk sL{ …t{u Au. y™u ‚{tu„wý ðÄu÷t
+ð¾‚{tk {hý …t{e™u …þw…ûte ytrŒf {qZ Þtur™{tk sL{u Au. >>15>>
+ÜU}æü‡æ: ¨éÜëU„S²æãé: ¨æçœ±Ü¢U çÝ}æüH¢ ÈUH}æì J
+Ú…¨S„é ÈUH¢ Îé:¶}æ¿ææÝ¢ „}æ¨: ÈUH}æì JJ16JJ
+Ëwf]‚- Ëtr¥ðf f{o™wk V¤ ‚tu ¿tt™-Ëw¾ ytrŒf Ëtr¥ðfs
+r™{o¤ V¤ fnu÷wk Au. htsË f{o™wk V¤ Œw:¾-Œw:¾{Þ Au. y™u
+‚t{Ë f{o™wk V¤ y¿tt™-{tun rð„uhu Au. >>16>>
+¨œ±æy¨¢…æ²„ï ¿ææÝ¢ Ú…¨æï Hæï|æ »± ™ J
+Ðí}ææÎ}ææïãæñ „}æ¨æï |æ±„æïù¿ææÝ}æï± ™ JJ17JJ
+Ë¥ð„wý Útfe ¿tt™ Wí…Òt ÚttÞ Au. y™u hòu„wý Útfe ‚tu
+r™ùu ÷tu¼s Wí…Òt ÚttÞ Au. y™u ‚{tu„wý Útfe «{tŒ y™u {tun
+W…su Au. ‚u{s y¿tt™ …ý W…su Au s. >>17>>
+ªŠ±Z xæÓÀç‹„ ¨œ±Sƒæ }æŠ²ï ç„Dç‹„ Úæ…¨æ:J
+…Íæ‹²xæé‡æ±ëçœæSƒæ ¥{æï xæÓÀç‹„ „æ}æ¨æ: JJ18JJ
+Ë¥ð„wý{tk hnu™tht …wY»ttu Mð„torŒf Ÿ[t ÷tuftu{tk òÞ Au.
+hòu„wý{tk hnu™tht htsË …wY»ttu {æÞ-{t™ð ÷tuf{tk hnu Au.
+y™u ‚{tu„wý™t ftÞoY… r™ÿt «{tŒ y™u yt÷MÞtrŒf n÷ft
+Œtu»ttu{tk hnu™tht ‚t{Ë …wY»ttu …þw ytrŒf ™e[ Þtur™ytu{tk òÞ
+Au. >>18>>
+Ýæ‹²¢ xæé‡æï|²: ÜU„æüÚ¢ ²Îæ ÎíCæÝéÐà²ç„ J
+xæé‡æï|²p ÐÚ¢ ±ïçœæ }æjæ±¢ ¨æïùç{xæÓÀç„ JJ19JJ
+ßÞthu ÿüt-Sðtí{t ºtý „wýtu rËðtÞ ƒeò ftuR™u f‚to ™Úte
+Œu¾‚tu-Ë{Í‚tu. y™u ºtýuÞ ŒwýtuÚte …h hnu÷t …tu‚t™t MðY…™u
+‚u{s …h{tí{MðY…™u ÞÚttÚto Ë{Íu Au. íÞthu ‚u …wY»t {tht
+MðY…™u …t{u Au. >>19>>
+xæé‡ææÝï„æÝ„èy² ~æè‹Îïãè Îïã¨}æéj±æÝì J
+…‹}æ}æëy²é¢…ÚæÎé:¶ñ<±}æéQUæïù}æë„}æàÝé„ï JJ20JJ
+Œune-Sðtí{t Œun™t fthý¼q‚ yu ºtýuÞ „wýtu™u WÕ÷k½™
+fhe™u „wýt‚e‚ ÚtR™u sL{, {]íÞwk, sht yu ytrŒf Œw:¾tuÚte
+rð{wõ‚ ÚtR™u y{]‚™u-{tuût™u …t{u Au. >>20>>
+¥…éüÝ ©±æ™ J
+ÜñU<HXñ›è‹xæé‡ææÝï„æÝ„è„æï |æ±ç„ Ðí|ææï J
+çÜU}ææ™æÚ: ÜUƒ¢ ™ñ„æ¢›è‹xæé‡ææÝç„±„ü„ï JJ21JJ
+yswo™ …qAu Au = yt ºtý „wýtu™u yr‚¢{ý fhe™u hnu÷tu
+…wY»t fÞtk fÞtk ÷ûtýtuÚte ytu¤¾tÞ Au ? y™u ‚u fuðt yt[thðt¤tu
+ntuÞ Au ? ‚u{s nu «¼tu ! yu ºtý „wýtu™u yu fuðe he‚u yr‚¢{ý
+fhe™u ð‚uo Au ? >>21>>
+
+
+Ÿæè}æjxæ±eè„æ
+9
+yæÞtÞ - 15
+Ÿæè|æxæ±æÝé±æ™ J
+ÐíÜUæàæ¢ ™ Ðí±ëôœæ ™ }ææïã}æï± ™ Ðæ‡Ç± J
+Ý mïçC ¨¢Ðí±ëœææçÝ Ý çÝ±ëœææçÝ ÜUæâç„ JJ22JJ
+©e ¼„ðt™ fnu Au = nu …tkzð ! «ftþ, «ð]Â¥t y™u {tun yu
+Ë½¤tk ºtý „wý™tk f{tuo «ð‚uo÷tk™u ™Úte îu»t fh‚tu, fu r™ð]Â¥t
+…t{u÷tk™u ™Úte ytftkûtt fh‚tu. >>22>>
+©Îæ¨èÝ±Îæ¨èÝæï xæé‡æñ²æïü Ý ç±™æË²„ï J
+xæé‡ææ ±„ü‹„ §y²ï± ²æïù±ç„Dç„ ÝïX„ï JJ23JJ
+su WŒtËe™™e {tVf ð‚o‚tu hne™u „wýtu su™u [¤tÞ{t™ fhe
+þf‚t ™Úte y™u Ë½¤wk „wýtu s fhe hÌtt Au yu{ {t™e™u su
+MðMðY…t™wËLÄt™ ht¾e™u …h{tí{MðY…{tk ÂMÚth ð‚uo Au. ‚tu
+‚u …tu‚t™e ƒúñÂMÚtr‚ Útfe fÞthuÞ [¤tÞ{t™ Út‚tu ™Úte. >>23>>
+¨}æÎé:¶¨é¶: S±Sƒ: ¨}æHæïCæà}æÜUæ@Ý: J
+„éË²çÐí²æçÐí²æï {èÚS„éË²çÝ‹Îæy}æ¨¢S„éç„: JJ24JJ
+}ææÝæÐ}ææÝ²æïS„éË²S„éË²æï ç}æ~ææçÚÐÿæ²æï: J
+¨±æüÚ}|æÐçÚy²æxæè xæé‡ææ„è„: ¨ ©Ó²„ï JJ25JJ
+su Ëw¾-Œw:¾{tk Ë{ ð‚uo Au. y¾kz MðMðY…{tk s hnu Au.
+f[htu, …íÚth y™u ftk[™ yu Ë½¤wk su™u Ëh¾wk s Au. r«Þ-
+yr«Þ™tu ËkÞtu„ …ý su™u ‚wÕÞ s ¼tËu Au. ËŒtÞ Äehs
+ht¾™thtu Au. y™u …tu‚t™e r™LŒt y™u &÷t½t …ý su™u Ëh¾es
+÷t„u Au.
+su {t™-y…{t™{tk …ý Ë{t™ hnu Au. r{ºt…ût{tk y™u
+þºtw…ût{tk …ý su Ë{t™ ð‚uo Au y™u Ëðo ythk¼{tºt™tu …rhíÞt„
+fh™thtu su Au. ‚u …wY»t „wýt‚e‚ yuðt ™t{u fnuðtÞ Au. >>24-25>>
+}ææ¢ ™ ²æïùÃ²ç|æ™æÚï‡æ |æçQU²æïxæïÝ ¨ï±„ï J
+¨ xæé‡ææ‹¨}æ„èy²ñ„æ‹Ïæíræ|æê²æ² ÜUËÐ„ï JJ26JJ
+nðu-„wýt‚e‚ Útðt™tu W…tÞ-«fth fnu Au-
+ð¤e-su {™u yÔÞr¼[the-r™ù¤ ¼Âõ‚Þtu„Úte r™hL‚h Ëuðu
+Au-¼suAu. ‚u …wY»t yt ºtýuÞ „wýtu™u WÕ÷k½™ fhe™u ƒúñY…
+Útðt™u {txu ÞtuøÞ ƒ™u Au. >>26>>
+Ïæíræ‡ææï çã Ðíç„Dæã}æ}æë„S²æÃ²²S² ™ J
+àææE„S² ™ {}æüS² ¨é¶¨ï²ñÜUæç‹„ÜUS² ™ J27J
+fthý fu- yrðfthe y™u yrð™tþe y{]‚MðY… ƒúñ™e
+«r‚ct yt©Þ-ytÄth nwks Awk. ‚u{s þtï‚-Ë™t‚™ yuftÂL‚f
+Ä{o™tu y™u yuftÂL‚f-ytíÞÂL‚f Ëw¾-yt™LŒ™tu yt©Þ …ý
+nwks Awk. >>27>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢ ²æïxæàææ›ï
+ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï xæé‡æ~æ²ç±|ææxæU²æïxææï Ýæ}æ ™„éÎüàææïùŠ²æ²:JJ14JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk Þtu„þtMºtu ©ef]»ýt-
+òow™ËkðtŒu „wýºtÞrð¼t„Þtu„tu  ™t{ [‚woŒþtuàæÞtÞ: >>14>>
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒ Ð@ÎàææïùŠ²æ²:
+
+|æxæ±æÝé±æ™ J
+©{ü}æêH}æ{: àææ¶}æEyƒ¢  ÐíæãéÚÃ²²}æì J
+À‹Îæ¢ç¨ ²S² Ð‡ææüçÝ ²S„¢ ±ïÎ ¨ ±ïÎç±„ì JJ1JJ
+©e ¼„ðt™ fnu Au = ytrŒ-…wY»t …h{tí{tY… ô[u {q¤
+su™wk Au. ™e[u ƒúñtrŒf þt¾tytu su™e «Ëhu÷e Au. yuðt ËkËthY…
+…e…¤t™t ð]ût™u yÔÞÞ-yrð™tþe-r™íÞ fnuAu. y™u ðuŒtu su™tk
+…tkŒztk Au. ytðt Ë{q¤ ËkËth ð]ût™u su ÞÚttÚto Ë{ÍuAu. ‚us ðuŒ™t
+‚tí…Þo™u òý™thtu Au. >>1>>
+¥{pæïŠ±¢ü Ðí¨ë„æS„S² àææ¶æ xæé‡æÐí±ëhæ ç±¯²Ðí±æHæ: J
+¥{p  }æêHæ‹²Ýé¨¢„„æçÝ ÜU}ææüÝéÏæ‹{èçÝ }æÝéc²HæïÜïU JJ2JJ
+Ë¥ðtrŒf ºtý „wýtuÚte ð]ÂØ …t{u÷e y™u rð»tÞtuY… ËwLŒh
+…Õ÷ð-fwk…¤tuðt¤e yuðe ‚u ð]ût™e þt¾tytu ™e[u y™u W…h Ëðoºt
+Vu÷tR hnu÷e Au. y™u ð¤e {™w»Þ ÷tuf{tk f{to™wËthu ƒLÄtÞu÷tk
+y™uf ðtË™tytuY… {q¤tu ™e[u-W…h ƒÄuÞ Vu÷tR hnu÷tk Au. >>2>>
+
+
+Ÿæè}æjxæ±eè„æ
+10
+yæÞtÞ - 15
+Ý LÐ}æS²ïã „ƒæïÐH|²„ï Ýæ‹„æï Ý ™æ<ÎÝ ™ ¨¢Ðíç„Dæ J
+¥Eyƒ}æïÝ¢ ¨éç±MÉ}æêH }æ¨Xàæ›ï‡æ ÎëÉïÝ çÀœ±æ JJ3JJ
+„„: ÐÎ¢ „yÐçÚ}ææ<xæ„Ã²¢ ²çS}æ‹xæ„æ Ý çÝ±ü„‹„ï |æê²:J
+„}æï± ™æl¢ ÐéL¯¢ ÐíÐlï ²„: Ðí±ëôœæ Ðí¨ê„æ ÐéÚæ‡æè JJ4JJ
+yt ËkËth-ð]ût™wk ðýo™ fÞwO ‚uðwk Y… yt ÷tuf{tk ‚tu W…÷çÄ
+Út‚wks ™Úte. ‚u{s yt™tu yL‚ y™u ytrŒ …ý W…÷çÄ Út‚tu ™Úte
+y™u yu™e ËB«r‚ct-¾hu ¾he he‚u yu þu{tk hÌttu Au. yu …ý
+Ë{Ít‚wk ™Úte. ytðt yr‚ ò{e „Þu÷tk Ÿztk {q¤ðt¤t yt ËkËth-
+ð]ût™u y™tËÂõ‚Y… áZ þ†Úte AuŒe ™t¾e™u. ‚u …Ae fu …Œ-
+yrð[¤ MÚtt™ ¾tu¤e ftZðwk òuRyu. fu su MÚtt™{tk „Þu÷t
+{wõ‚tí{tytu VheÚte ËkËth-{kz¤{tk …tAt Vh‚t ™Úte y™u ‚u
+Ëðo™t ytrŒ …wY»t …h{tí{t™us nwk þhý …t{wk Awk. fu su …wY»t-
+…h{tí{t Útfe yt …wht‚™ ËkËth«ð]r¥t [t÷u÷e Au. >>3-4>>
+çÝ}ææüÝ}ææïãæ ç…„¨XÎæï¯æ ¥Š²æy}æçÝy²æ ç±çÝ±ëœæÜUæ}ææ: J
+m‹mñ<±}æéQUæ: ¨é¶Îé:¶¨¢¿æñxæüÓÀ‹y²}æêÉæ: ÐÎ}æÃ²²¢ „„ì JJ5JJ
+‚u yrð[¤ …Œ …t{™thtytu™tk ÷ûtý fnu Au-
+su{™t {t™-{tuntrŒf ™ü ÚtR „Þt ntuÞ Au. su{ýu
+ytËÂõ‚Y… Œtu»t™u ËðoÚtt S‚e ÷eÄu÷tu ntuÞAu. ytí{¿tt™{tk su
+r™hL‚h ŒZ ÂMÚtr‚ …t{u÷t ntuÞ Au. su{™e ft{™tytu ËðtOþu r™ð]¥t
+ÚtÞu÷e ntuÞ Au. y™u Ëw¾-Œw:¾trŒf ™t{™tk îLîtu Útfe ËðoÚtt hrn‚
+ÚtÞu÷t ntuÞ Au. ytðt y{qZ-¿tt™e s™tus ‚u yÔÞÞ-yûth …Œ™u
+…t{u Au. >>5>>
+Ý „jæ¨²„ï ¨ê²æïü Ý àæàææVæï Ý Ðæ±ÜU: J
+²ey±æ  Ý çÝ±„‹„ïü „hæ}æ ÐÚ}æ¢ }æ}æ JJ6JJ
+‚u Ät{™u ËqÞo «ftþ fhe þf‚tu ™Úte, ‚u{s [Lÿ{t fu yÂø™
+…ý «ftþ fhe þõ‚tu ™Úte. y™u su MðÞk«ftþ Ät{™u …t{e™u
+…t{™tht {wõ‚tí{tytu …tAt Vh‚t ™Úte ‚u {tYk …h{-Ëðtuoíf]ü
+Ät{ Au. >>6>>
+}æ}ææñ±æ¢àææï …è±HæïÜïU …è±|æê„: ¨Ýæ„æÝ: J
+}æÝ:¯DæÝèç‹Îí²æç‡æ ÐíÜëUç„SƒæçÝ ÜU¯üç„ JJ7JJ
+yt Sð÷tuf{tk {thtu ykþ¼q‚ Ë™t‚™ Sðtí{t «f]r‚{tk
+hnu÷tk y™u {™ su{tk Aêwk Au. yuðtk …tk[uÞ RrLÿÞtu™u …tu‚t ‚hV
+¾U[u Au-ðþ{tk ht¾u Au. >>7>>
+àæÚèÚ¢ ²Î±æŒÝæïç„ ²Ó™æŒ²éyRUæ}æ„èEÚ: J
+xæëçãy±ñ„æçÝ ¨¢²æ„è ±æ²éxæü‹{æçÝ±æàæ²æ„ì JJ8JJ
+yt Œun™tu Mðt{e-Sðtí{t su þheh{tkÚte ™ef¤u Au. ‚u{tkÚte
+ðtÞw …w»…trŒf MÚtt™{tkÚte „LÄ™us su{ yu{ yt {™u Ërn‚
+RrLÿÞtu™u „úný fhe™u su þheh™u …t{u Au ‚u{tk ‚u {™-RrLÿÞtuyu
+Ërn‚ òÞ Au. >>8>>
+Ÿææï~æ¢ ™ÿæé¢ SÐàæüÝ¢ ™ Ú¨Ý¢ Íæíæ‡æ}æï± ™ J
+¥çŠDæ² }æÝpæ²¢ ç±¯²æÝéÐ¨ï±„ï JJ9JJ
+y™u ‚u þheh{tk yt Sðtí{t ©tuºt, [ûtw y™u íð[t ‚Útt hË™t
+y™u ½útý, ‚u{s {™, ytx÷tk™tu yt©Þ ÷R™u þçŒtrŒf rð»tÞtu™wk
+Ëuð™-W…¼tu„ fhu Au. >>9>>
+©yRUæ}æ‹„¢ çSƒ„¢ ±æçÐ |æéTæÝ¢ ±æ xæé‡ææç‹±„}æì J
+ç±}æêÉæ ÝæÝéÐà²ç‹„ Ðà²ç‹„ ¿ææÝ™ÿæé¯: JJ10JJ
+yt «{týu þheh{tkÚte ™ef¤‚tu, þheh{tk hnu‚tu, rð»tÞtu™u
+¼tu„ð‚tu y™u Ë¥ðtrŒf „wýtuyu Þwõ‚ sýt‚tu yt Sðtí{t ‚u™u
+ËðoÚtt {qZ-y¿tt™e s™tu ™Úte Œu¾‚t, …ý ¿tt™Y… [ûtw su{™tk
+¾q÷e „Þu÷tk Au ‚uðt ¿tt™e s™tu ‚tu Œu¾u Au- y™w¼ðu Au. >>10>>
+²„‹„æï ²æïçxæÝpïñÝ¢ Ðà²‹y²æy}æ‹²±çSƒ„}æì J
+²„‹„æïùŒ²ÜëU„æ}„æÝæï ÝñÝ¢ Ðà²‹y²™ï„¨: JJ11JJ
+Þí™ fh™tht Þtu„es™tu s yt þheh{tk hnu÷t ytí{t™u òuR
+þfuAu, …ý su{™tk yL‚:fhý yþwØ-{÷e™ Au ‚uðt y¿tt™e s™tu
+‚tu Þí™ fhðt A‚tk …ý yu ytí{t™u ™Úte Œu¾‚t. >>11>>
+²ÎæçÎy²xæ„¢ „ï…æï …xæÎì|ææ¨²„ïùç¶H}æì J
+²Ó™‹Îí}æç¨ ²Ó™æxÝæñ „œæï…æï ç±çh }ææ}æÜU}æìJ12J
+ËqÞo{kz¤{tk hnu÷wk su ‚us Ë{„ú s„ít™u «ftþ fhe hÌtwk Au.
+‚u{s su [Lÿ{kz¤{tk ‚us Au, ‚Útt yÂø™{tk su ‚us Au. ‚u ‚us
+
+
+Ÿæè}æjxæ±eè„æ
+11
+yæÞtÞ - 15
+{tYk s-{U s yt…u÷wk Au yu{ òý ! >>12>>
+xææ}ææç±à² ™ |æê„æçÝ {æÚ²æ}²ã}ææï…¨æ J
+Ðéc‡ææç}æ ™æñ¯{è: ¨±æü: ¨æï}ææï |æêy±æ Ú¨æy}æÜU:J13J
+y™u nwks …]Úðe{tk «ðuþ fhe™u {tht Ët{ÚÞoÚte Ëðo¼q‚tu™u
+Äthý fYAwk. ‚Útt hË{Þ MðY…ðt¤t [Lÿ{tY…u ÚtR™u Ëðo
+yti»trÄytu™wk nwks …tu»tý fYk Awk yÚtto‚T …]Úðe{tk Äthý þÂõ‚ y™u
+[Lÿ{tk …tu»tf þÂõ‚ yu {thes Au. yu{ ‚wk Ë{Í ! >>13>>
+¥ã¢ ±ñEæÝÚæï |æêy±æ Ðíæç‡æÝæ¢ Îïã}ææçŸæ„: J
+Ðíæ‡ææÐæÝ¨}ææ²éQU: Ð™æ}²óæ¢ ™„é<±{}æì JJ14JJ
+nwks ðiït™h ytÂø™Y…u ÚtR™u «týeytu™t Œun{tk hne™u «tý-
+y…t™ ðtÞwyu Þwõ‚ Útftu ¼ûÞ-¼tußÞtrŒf [thuÞ «fth™t yÒt™u
+…[ðwk Awk. >>14>>
+¨±üS² ™æã¢ NçÎ ¨¢çÝç±Cæï }æœæ: S}æëç„¿ææüÝÝ}æÐæïãÝ¢ ™J
+±ïÎñp ¨±ñüÚã}æï± ±ïlæï ±ïÎæ‹yÜëUmïÎç±Îï±  ™æã}æì JJ15JJ
+nwks Ëðo «týeytu™t ÓŒÞ{tk yL‚Þto{e-ykŒh hne™u r™Þ{™
+fh™thtY…u hnu÷tu Awk. Ëðo «týe-{tºt™u M{]r‚, ¿tt™ y™u
+rðM{hý, yu ƒÄwkÞ f{oV¤«Œt‚t yuðt {tht Útfes «ð‚uo Au.
+Ëðo ðuŒtrŒf ËåAtMºttuÚte òýðt-Ë{Íðt ÞtuøÞ nwks Awk. y™u
+ðuŒtL‚™tu fh™thtu y™u ðuŒ™t hnMÞ™u òý™thtu …ý nwk s Awk.
+>>15>>
+mæç±}ææñ ÐéL¯æï HæïÜïU ÿæÚpæÿæÚ »± ™ J
+ÿæÚ: ¨±æüç‡æ |æê„æçÝ ÜêUÅSƒæïùÿæÚ ©Ó²„ï JJ16JJ
+({txus ðuŒ™t hnMÚttÚto Y… ‚¥ðºtÞ™u r™Y…ý fh‚tk …tu‚us
+fnu Au-) yt ÷tuf{tk ƒu …wY»t Au. yuf ûth y™u ƒeòu yûth. Ëðo
+¼q‚-«týe{tºt ûth-ƒØ …wY»t Sðtí{t Au. y™u ƒeòu fqxMÚt-
+þwØ r™Šðfth yûth-{wõ‚ …wY»t Au. yu{ fnuðtÞ Au. >>16>>
+©œæ}æ: ÐéL¯Sy±‹²: ÐÚ}ææy}æïy²éÎæN„: J
+²æï HæïÜU~æ²}ææç±à² ç±|æy²üÃ²² §EÚ: JJ17JJ
+y™u W¥t{ …wY»t ¼„ðt™ ‚tu yu ƒÒtuÚte swŒts Au. y™u
+…h{tí{t yuðt ™t{u fnu÷t Au. fu su-ºtýuÞ ÷tuf{tk yL‚Þtor{¼tðu
+«ðuþ fhe™u ‚u™u Äthý fhu Au. y™u MðY…Úte su r™Šðfth Au.
+y™u ‚u Ëðo™t Rïh-Mðt{e yuðt ©e™thtÞý Au. >>17>>
+²S}ææyÿæÚ}æ„è„æïùã}æÿæÚæÎçÐ ™æïœæ}æ: J
+¥„æïçS}æ HæïÜïU ±ïÎï ™ Ðíçƒ„: ÐéL¯æïœæ}æ: JJ18JJ
+nu yswo™ ! su fthýÚte nwk ûthÚte-Ëðo «týeð„oÚte Mð¼tðÚte
+y‚e‚-LÞthtu Awk y™u þwØ ƒúñ yûth-{wõ‚ fh‚tkÞ nwk MðY…-
+Mð¼tðÚte …ý yr‚þÞ W¥t{-Ëðtuo…rh Awk. {txu Ëf¤ ÷tuf{tk
+y™u ðuŒtu{tk …ý nwk …wY»ttu¥t{ yuðt {tht yËtÄthý ™t{Úte «rËØ
+Awk. >>18>>
+²æï }ææ}æï±}æ¨¢}æêÉæï …æÝæç„ ÐéL¯æïœæ}æ}æì J
+¨ ¨±üç±j…ç„ }ææ¢  ¨±ü|ææ±ïÝ |ææÚ„ JJ19JJ
+nu ¼th‚ ! su ¿tt™e ¼õ‚ {™u yt «{týu [tuÏ¾e he‚u Ëtûtt‚T
+…wY»ttu¥t{ òýu Au. ‚u Ëðo ðt‚™u ‚¥ðÚte Ë{Í™thtu Au. y™u ‚u
+Ëðo¼tðÚte-«fthÚte {™us ¼su Au-{thes W…tË™t fhu Au.
+>>19>>
+§ç„ xæés„}æ¢ àææ›ç}æÎ}æéQ¢U }æ²æÝÍæ J
+»„iéÎìŠ±æ Ïæéçh}ææ‹S²æyÜëU„ÜëUy²p |ææÚ„ JJ20JJ
+nu r™Œtuo»t yswo™ ! yt «{týu yt hnMÞ „tu…™eÞ þt† {U
+‚™u fÌtwk Au. yt þt†™u yt fÌtwk yu{ Ë{Íe™u {týË ƒwÂØ{t™T-
+‚¥ððu¥tt ÚttÞ Au. y™u f]‚tÚto ÚtR òÞ Au. >>20>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢
+²æïxæàææ›ï ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï ÐéL¯æïœæ}æ²æïxææï Ýæ}æ
+Ð@ÎàææïùŠ²æ²: JJ15JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk
+Þtu„þtMºtu ©ef]»ýtòow™ËkðtŒu …wY»ttu¥t{Þtu„tu
+™t{ …k[ŒþtuàæÞtÞ: >>15>>
+
+
+Ÿæè}æjxæ±eè„æ
+12
+yæÞtÞ - 16
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒ ¯æïÇàææïùŠ²æ²:
+
+Ÿæè|æxæ±æÝé±æ™ J
+¥|æ²¢ ¨œ±¨¢àæéçh¿ææüÝ²æïxæÃ²±çSƒç„: J
+ÎæÝ¢ Î}æp ²¿æp S±æŠ²æ²S„Ð ¥æ…ü±}æì JJ1JJ
+©e ¼„ðt™ fnu Au = ËðoÚtt r™¼oÞ ð‚oðwk, yL‚:fhý™e
+ËB…qýo rðþwÂØ, ¿tt™…qðof ¼Âõ‚-Þtu„{tk áZ ÂMÚtr‚, Ëtr¥ðf
+Œt™, RrLÿÞtu™wk Œ{™, Þ¿t, MðtæÞtÞ …X™-…tX™, ‚Útt
+¼„ðÒtt{-fe‚o™ rð„uhu™tu yÇÞtË, r™{o¤ ‚… y™u RrLÿÞtu
+‚Útt yL‚:fhý™e Ëh÷‚t ht¾ðe. >>1>>
+¥ôã¨æ ¨y²}æHæïRUæï{Sy²æxæ: àææç‹„ÚÐñàæéÝ}æìJ
+Î²æ |æê„ïc±HæïHéŒy±¢ }ææÎü±¢ ãíèÚ™æÐH}æì JJ2JJ
+{™, ðtýe y™u þhehÚte ®nËtyu hrn‚ ð‚oðwk, ÞÚttÚto …ý
+r«Þ ƒtu÷ðwk, ¢tuÄ™t r™r{¥t{tk …ý ¢tuÄ ™ fhðtu, f{o™t V¤™tu
+y™u f‚to…ýt™t yr¼{t™™tu íÞt„, þtÂL‚, [tzeÞt…ýwk ™ fhðwk,
+¼q‚-«týe{tºt W…h yfthý ŒÞt ht¾ðe, rð»tÞtu{tk ÷tu÷w…‚t
+™ ht¾ðe, ftu{¤‚t ht¾ðe, r™ÂLŒ‚ ft{ fhðt{tk ÷ßò ht¾ðe
+y™u ÔÞÚto-r™»V¤ [uüt ™ fhðe. >>2>>
+„ï…: ÿæ}ææ {ëç„: àææñ™}æÎíæïãæï Ýæç„}ææÝ„æ J
+|æ±ç‹„ ¨¢ÐÎ¢ Îñ±è}æç|æ…æ„S² |ææÚ„ JJ3JJ
+‚us, ût{t-…ht…htÄ Ën™ fhðt™e þÂõ‚, ÄiÞo, þti[-
+…rðºt‚t, ftuR™tu …ý ÿtun ™ fhðt™e ð]Â¥t, …tu‚t™u rð»tu
+…qßÞ…ýt™t y¼tðY… r™hr¼{tr™‚t, nu ¼th‚ ! yt Ë½¤t
+„wýtu Œiðe ËB…ît¤t™u ntuÞ Au. >>3>>
+Î}|ææï ÎÐæïüùç|æ}ææÝp RUæï{: ÐæLc²}æï± ™ J
+¥¿ææÝ¢ ™æç|æ…æ„S² Ðæƒü ¨¢ÐÎ}ææ¨éÚè}æì JJ4JJ
+nðu-ytËwhe ËB…ŒT fnu Au-nu …tÚto ! Œk¼, r{ÚÞt ytzBƒh,
+yr¼{t™, ‚u{s ¢tuÄ y™u fXtuh‚t y™u y¿tt™ …ý, yt ƒÄt
+Œw„woýtu ytËwhe ËB…ît¤t {™w»Þtu{tk ntuÞ Au. >>4>>
+Îñ±è ¨¢Ðçm}ææïÿææ² çÝÏæ‹{æ²æ¨éÚè }æ„æ J
+}ææ àæé™: ¨¢ÐÎ¢ Îñ±è}æç|æ…æ„æïùç¨ Ðæ‡Ç± JJ5JJ
+Œiðe ËB…ŒT {wÂõ‚™u {txu y™u ytËwhe ËB…ŒT ƒLÄ™™u {txu
+{t™u÷e Au. {txu nu …tkzð ! ‚wk þtuf ™ fh ! fu{fu ‚wk ‚tu Œiðe ËB…Œtyu
+Þwõ‚ Wí…Òt ÚtÞu÷tu Au. >>5>>
+mæñ |æê„¨xææñü HæïÜïUùçS}æ‹Îñ± ¥æ¨éÚ »± ™ J
+Îñ±æï ç±S„Úàæ: ÐíæïQUæ ¥æ¨éÚ¢ Ðæƒü }æï Ÿæë‡æé JJ6JJ
+nu …tÚto ! yt ÷tuf{tk Œiðe-ËB…ît¤tu y™u ytËwhe-ËB…ît¤tu
+yuðtu ƒu «fth™tu ¼q‚Ë„o òuðt{tk ytðu Au. ‚u{tk Œiðe Ë„o
+rðM‚th…qðof fÌttu y™u nðu ytËwhe Ë„o {tht Útfe ‚wk Ëtk¼¤ ! >>6>>
+Ðí±ëç„¢ ™ çÝ±ëçœæ¢ ™ …Ýæ Ý ç±ÎéÚæ¨éÚæ: J
+Ý àææñ™ ÝæçÐ ™æ™æÚæï Ý ¨y²¢ „ï¯é ç±l„ï JJ7JJ
+ytËwh-Mð¼tððt¤t {týËtu «ð]Â¥t þwk ? y™u r™ð]Â¥t þwk ?
+yu ƒÒtu™u ftkR Ë{Í‚ts ™Úte. y™u ‚u{™t{tk þti[-…rðºt‚t ™Úte
+ntu‚e, ‚u{s yt[th-Ä{o …ý ntu‚tu ™Úte. y™u ËíÞ …ý ntu‚wk
+™Úte. >>7>>
+¥¨y²}æÐíç„D¢  „ï  …xæÎæãéÚÝèEÚ}æì J
+¥ÐÚSÐÚ¨¢|æê„¢ çÜU}æ‹²yÜUæ}æãñ„éÜU}æì JJ8JJ
+‚u ytËwh s™tu ‚tu yt s„í™u …ý yËíÞ, yt©Þhrn‚ y™u
+y™eïh r™ÞL‚t rð™t™wk ™ ÄýeÞ‚w fnu Au. y™u fuð¤ ¼tu„-
+rð÷tË™u {txus Au. y™u …hM…h Mºte-…wY»t™t ËkË„oÚte Wí…Òt
+ÚtÞt rËðtÞ™wk ƒeswk þwk Au ? yu{ fnu Au. >>8>>
+»„æ¢ ÎëçC}æ±C|² ÝCæy}ææÝæïùËÐÏæéh²: J
+Ðí|æ±‹y²éxæíÜU}ææü‡æ: ÿæ²æ² …xæ„æïùçã„æ: JJ9JJ
+ytðe ™tÂM‚f ‚wåA áÂü™u yð÷kƒe™u ™ü«tÞ ytí{t-{™
+yÚtðt Mð¼tððt¤t y™u yr‚ yÕ… ‚wåA ƒwÂØðt¤t, ytðt
+Ë½¤t s„í™wk yrn‚ fh™tht ¢qhf{o {™w»Þtu s„ít™t rð™tþ™u
+{txu W„ú-¼Þkfh f{o fh™tht ÚttÞ Au. >>9>>
+
+
+Ÿæè}æjxæ±eè„æ
+13
+yæÞtÞ - 16
+ÜUæ}æ}ææçŸæy² ÎécÐêÚ¢Î}|æ}ææÝ}æÎæç‹±„æ: J
+}ææïãæÎìxæëãèy±æ ¨Îìxæíæãæ‹Ðí±„ü‹„ïùàæéç™±í„æ: JJ10JJ
+Œk¼, yr¼{t™ y™u {Œu Þwõ‚ ‚u {™w»Þtu Œw»…qh ft{™tu
+yt©Þ fhe™u y¿tt™Úte ¾tuxt Œwht„úntu™u …fze™u y…rðºt
+yt[hý fh‚t Útft ËkËth{tk «ð‚uo Au. >>10>>
+ç™‹„æ}æÐçÚ}æï²æ¢ ™ ÐíH²æ‹„æ}æéÐæçŸæ„æ: J
+ÜUæ}ææïÐ|ææïxæÐÚ}ææ »„æ±çÎç„ çÝçp„æ: JJ11JJ
+XuX {hý ËwÄe™e yr‚ y…th r[L‚t{tk „hftð ÚtÞu÷t y™u
+ft{-rð»tÞtu…¼tu„ fhðtu yus «Ät™ su{™u Au. y™u ytx÷wks
+yu ¾Yk Au yu{ áZ Xhtð fhe ƒuXu÷t ntuÞ Au. >>11>>
+¥æàææÐæàæàæ„ñÏæühæ: ÜUæ}æRUæï{ÐÚæ²‡ææ: J
+§üã‹„ï ÜUæ}æ|ææïxææƒü}æ‹²æ²ïÝæƒü¨@²æÝì JJ12JJ
+Ëtu yu Ëtu ytþt…tþtuÚte ƒLÄtÞu÷t yu {™w»Þtu ft{ ¢tuÄ
+…htÞý ð‚o™tht ntuðtÚte rð»tÞ-Ëw¾ ËB…tŒ™ fhðt {txus
+yLÞtÞÚte …ý ÿÔÞ™tu Ëk[Þ fhðt {txu Wã{ fhu Au. >>12>>
+§Î}æl }æ²æ HÏ{ç}æ}æ¢ ÐíæŒS²ï }æÝæïÚƒ}æì J
+§Î}æS„èÎ}æçÐ }æï |æç±c²ç„ ÐéÝ{üÝ}æì JJ13JJ
+yt ytx÷wk yts {U {u¤ÔÞwk. ytx÷tu {™tuhÚt …qhtu ÚtR sþu.
+ytx÷wk ÿÔÞtrŒf ËtÄ™ ‚tu Au. y™u ytx÷wk …ý VheÚte «tó ÚtR
+sþu. >>13>>
+¥¨æñ }æ²æ ã„: àæ~æéãüçÝc²ï ™æÐÚæÝçÐ J
+§üEÚæïùã}æã¢ |ææïxæè ç¨hæïùã¢ ÏæH±æ‹¨é¶è JJ14JJ
+yt þºtw {U {the ™tÏÞtu y™u nðu ƒeò þºtwytu™u …ý {the
+™t¾eþ. nwk Ë{Úto Awk. nwk ¼tu„-rð÷tË ¼tu„ððtðt¤tu Awk. Ë½¤e
+rËÂØytu {tht ytÄe™{tk Au. ‚uÚte nwk ƒ¤ðt™ y™u Ë½¤e he‚u
+Ëw¾e Awk. >>14>>
+¥æÉKæïùç|æ…Ý±æÝçS}æ ÜUæïù‹²æïùçS„ ¨Îëàææï }æ²æJ
+²ÿ²ï ÎæS²æç}æ }ææïçÎc² §y²¿ææÝç±}ææïçã„æ: JJ1JJ
+¥ÝïÜUç™œæç±|æíæ‹„æ }ææïã…æH¨}ææ±ë„æ: J
+Ðí¨QUæ: ÜUæ}æ|ææïxæï¯é Ð„ç‹„ ÝÚÜïUùàæé™æñ JJ16JJ
+{thu Ä™ËB…Â¥t …ý ¾qƒ Au. y™u ½ýt {tuxt fwxwBƒðt¤tu nwk
+Awk. {tht suðtu ƒeòu ftuý Au. ? nwk Þ¿t fheþ. Œt™ fheþ. y™u
+¾qƒ yt™LŒ-{Ít fheþ. ytðt y¿tt™Úte {tun …t{e „Þu÷t.
+r[¥t{tk hnu÷e y™uf ¼ú{ýtytuÚte ¼úr{‚ ÚtR „Þu÷t.
+{tunò¤Úte Ë{tð]‚-…qýo ƒLÄ™ …t{e „Þu÷t. y™u rð»tÞ-
+¼tu„{tk yíÞL‚ ytËõ‚ yuðt ytËwh s™tu yr‚ y…rðºt
+™hf{tk …zu Au. >>15-16>>
+¥æy}æ¨¢|ææç±„æ: S„Ï{æ {Ý}ææÝ}æÎæç‹±„æ: J
+²…‹„ï Ýæ}æ²¿æñS„ï Î}|æïÝæç±ç{Ðê±üÜU}æì JJ17JJ
+‚u …tu‚u …tu‚t™us ©uc {t™™tht ½{kze ÷tuf Ä™, {™ y™u
+{ŒÚte Þwõ‚ ÚtR™u fuð¤ ™t{-{tºt™t Þ¿ttuÚte …t¾kz fhe™u
+þt†rðrÄ rð™t™wk Þs™-…qs™ fhu Au. >>17>>
+¥ã¢ÜUæÚ¢ ÏæH¢ ÎÐZ ÜUæ}æ¢ RUæï{¢ ™ ¨¢çŸæ„æ: J
+}ææ}ææy}æÐÚÎïãï¯é Ðíçm¯‹„æïù|²¨ê²ÜUæ: JJ18JJ
+‚u {™w»Þtu ynkfth, ƒ¤, „ðo, ft{ y™u ¢tuÄtrŒf rðfthtu™u
+ðþ ÚtR™u ƒeòytu™e r™LŒt fh™tht y™u …tu‚t™t y™u ƒeòytu™t
+Œun{tk hnu÷t yL‚Þto{e {™u-{thtus îu»t fh™tht ÚttÞ Au. >>18>>
+„æÝã¢ çm¯„: RêÚæ‹¨¢¨æÚï¯é ÝÚæ{}ææÝì J
+çÿæÐæ}²…d}æàæé|ææÝæ¨éÚèc±ï± ²æïçÝ¯é JJ19JJ
+yt «{týu îu»t fh™tht …t…e ™Xtht r™ŒoÞ ™htÄ{tu™u yt
+ËkËth{tk ytËwhe Þtur™ytu{tks ðthkðth nwk ™t¾wk Awk. >>19>>
+¥æ¨éÚè¢ ²æïçÝ}ææÐóææ }æêÉæ …‹}æçÝ …‹}æçÝ J
+}ææ}ææÐíæŒ²ñ± ÜUæñ‹„ï² „„æï ²æ‹y²{}ææ¢ xæç„}æì JJ20JJ
+nu ftiL‚uÞ ! sL{tu-sL{ ytËwhe Þtur™™u …t{u÷t ‚u {qZ {týËtu
+{™u ™rn …t{e™us …Ae yÄ{-yr‚ ™e[ „r‚™u …t{u Au. yÚtto‚T
+½tuh ™hf{tks …zu Au. >>20>>
+ç~æç±{¢ ÝÚÜUS²ïÎ¢ mæÚ¢ ÝæàæÝ}ææy}æÝ: J
+ÜUæ}æ: RUæï{S„ƒæ Hæï|æS„S}ææÎï„y~æ²¢ y²…ï„ì J21J
+ft{, ¢tuÄ y™u ÷tu¼, yu ytí{t™tu rð™tþ-yÄtu„r‚ fh™tht
+
+
+Ÿæè}æjxæ±eè„æ
+14
+yæÞtÞ - 17
+ºtý «fth™t ™hf™t îth¼q‚ Au. {txus yu ºtýuÞ™tu íÞt„ fhðtu
+òuRyu. >>21>>
+»„ñ<±}æéQU: ÜUæñ‹„ï² „}ææïmæÚñç›ç|æÝüÚ: J
+¥æ™Úy²æy}æÝ: Ÿæï²S„„æï ²æç„ ÐÚæ¢ xæç„}æì JJ22JJ
+nu ftiL‚uÞ ! ™hf™t îthY… yu ft{trŒf ºtýuÞ rðfthtuÚte
+hrn‚ ÚtÞu÷tu …wY»t …tu‚t™t fÕÞtý™tu W…tÞ fhu Au. y™u ‚u …Ae
+…h{-Ëðtuoíf]ü „r‚Y… {™us …t{u Au. >>22>>
+²: àææ›ç±ç{}æéy¨ëÁ² ±„ü„ï ÜUæ}æÜUæÚ„: J
+Ý ¨ ç¨çh}æ±æŒÝæïç„ Ý ¨é¶¢ Ý ÐÚæ¢ xæç„}æìJ23JJ
+„S}ææÓÀæ› Ðí}ææ‡æ¢ „ï ÜUæ²æüÜUæ²üÃ²±çSƒ„æñ J
+¿ææy±æ àææ›ç±{æÝæïQ¢U ÜU}æü ÜU<„ç}æãæãüç¨ JJ24JJ
+su {™w»Þ þt†«r‚…trŒ‚ rðrÄ™tu íÞt„ fhe™u …tu‚t™e RåAt
+{wsƒ yt[hý fhu Au ‚u ™Úte rËÂØ™u …t{e þf‚tu, fu ™Úte Ëw¾™u
+…t{‚tu fu ™Úte s …h „r‚™u …ý …t{‚tu.
+‚u {txu ‚thu ftÞo-yftÞo™e ÔÞðMÚtt™t r™ýoÞ{tk þt†s
+«{tý Y… Au. yu{ òýe-Ë{S™u yt ÷tuf{tk þt†rðÄt™Úte
+fnu÷wk f{os fhðt™u ‚wk ÞtuøÞ Au. >>23-24>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢
+²æïxæàææ›ï ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï Îñ±æ¨éÚ¨¢Ðçm|ææxæ²æïxææï
+Ýæ}æ ¯æïÇàææïùŠ²æ²: JJ16JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk
+Þtu„þtMºtu ©ef]»ýtòow™ËkðtŒu ŒiðtËwh-
+ËB…Âî¼t„Þtu„tu  ™t{ »ttuzþtuàæÞtÞ: >>16>>
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒ ¨#ÎàææïùŠ²æ²:
+
+¥…üéÝ ©±æ™
+²ï àææ›ç±ç{}æéy¨ëÁ² ²…‹„ï Ÿæh²æç‹±„æ: J
+„ï¯æ¢ çÝDæ „é ÜUæ ÜëUc‡æ ¨œ±}ææãæï Ú…S„}æ: JJ1JJ
+yswo™ …qAu Au = nu f]»ý ! su ©ØtÞwõ‚ {™w»Þtu þt†rðrÄ™tu
+íÞt„ fhe™u Þs™-…qs™ fhu Au. ‚u{™e r™ct-ÂMÚtr‚, ‚u fuðt
+«fth™e Au ? Ëtr¥ðfe Au ? fu htsËe Au ? ®fðt ‚t{Ëe Au ? >>1>>
+Ÿæè|æxæ±æÝé±æ™
+ç~æç±{æ |æ±ç„ Ÿæhæ ÎïçãÝæ¢ ¨æ S±|ææ±…æ J
+¨æçœ±ÜUè Úæ…¨è ™ñ± „æ}æ¨è ™ïç„ „æ¢ Ÿæë‡æé JJ2JJ
+©e¼„ðt™ fnu Au- ŒunÄtheytu™u Ëtr¥ðfe, htsËe y™u
+‚t{Ëe yuðe ºtý «fth™e ©Øt Mðt¼trðfes ntuÞ Au. ‚u ºtý
+«fth™e ©Øt™u ‚wk {tht Útfe Ëtk¼¤ ! >>2>>
+¨œ±æÝéMÐæ ¨±üS² Ÿæhæ |æ±ç„ |ææÚ„ J
+Ÿæhæ}æ²æïù²¢ ÐéL¯æï ²æï ²ÓÀîh: ¨ »± ¨: JJ3JJ
+nu ¼th‚ ! Ëðo {™w»Þtu™u …tu‚-…tu‚t™t yL‚:fhý™u
+y™wY…s ©Øt ntuÞ Au. y™u yt …wY»t-Sðtí{t ©Øt{Þ-
+©Øt«Ät™ Au. {txu su …wY»t su{tk-suðe ©Øtðt¤tu ntuÞ Au. ‚tu ‚u
+…tu‚u …ý ‚u Y…s Au. >>3>>
+²…‹„ï ¨æçœ±ÜUæ Îï±æ‹²ÿæÚÿææ¢ç¨ Úæ…¨æ: J
+Ðíï„æ‹|æê„xæ‡ææ¢pæ‹²ï ²…‹„ï „æ}æ¨æ …Ýæ: JJ4JJ
+Ëtr¥ðf {™w»Þtu RLÿtrŒf Œuðtu™u …qsu Au. htsË {™w»Þtu Þût
+y™u htûtËtu™u …qsu Au. y™u ƒeò ‚t{Ëe s™tu ‚tu «u‚ y™u
+¼q‚„ýtu™u …qsu Au. >>4>>
+¥àææ›ç±çã„¢ ÍææïÚ¢ „Œ²‹„ï ²ï „Ðæï …Ýæ: J
+Î}|ææã¢ÜUæÚ¨¢²éQUæ: ÜUæ}æÚæxæÏæHæç‹±„æ: JJ5JJ
+
+
+Ÿæè}æjxæ±eè„æ
+15
+yæÞtÞ - 17
+ÜUàæü²‹„:  àæÚèÚSƒ¢  |æê„xæíæ}æ}æ™ï„¨: J
+}ææ¢ ™ñ±æ‹„: àæÚèÚSƒ¢ „æç‹±hì²æ¨éÚçÝp²æÝì JJ6JJ
+su {™w»Þ þt†rðrÄyu hrn‚ yuðwk {™:fÂÕ…‚ ½tuh ‚… ‚…u
+Au. y™u Œk¼ ‚Útt ynkfthu Þwõ‚ ‚u{s ft{™tytu, ht„-ytËÂõ‚
+y™u þtheh ƒ¤™t …ý yr¼{t™ðt¤t ntuR™u.
+þheh{tk-þhehY…u hnu÷t ¼qr{ ytrŒf ¼q‚Ë{wŒtÞ™u f]þ
+fh‚t-Œ{™ fh‚t. y™u {tht þheh¼q‚ Sðtí{t{tk yL‚Þto{eY…u
+hnu÷t yuðt {™u …ý Œw¼ð‚t Útft ð‚uo Au. ‚uðt y¿tt™eytu™u ‚wk
+ytËwh r™ùÞðt¤t òý ! >>5-6>>
+¥æãæÚSy±çÐ ¨±üS² ç~æç±{æï |æ±ç„ çÐí²: J
+²¿æS„ÐS„ƒæ ÎæÝ¢ „ï¯æ¢ |æïÎç}æ}æ¢ Ÿæë‡æé J7JJ
+ytnth …ý Ëðo™u …tu‚-…tu‚t™e Yr[ «{týu ºtý «fth™tu
+r«Þ ntuÞAu. ‚u{s Þ¿t, ‚… y™u Œt™, ‚u™t …ý ºtý-ºtý «fth
+Au. ‚u™t ¼uŒ ‚wk {tht Útfe Ëtk¼¤  ! >>7>>
+¥æ²é: ¨œ±ÏæHæÚæïx²¨é¶Ðíèç„ç±±{üÝæ: J
+ÚS²æ: çFx{æ: çSƒÚæ Nlæ ¥æãæÚæ: ¨æçœ±ÜUçÐí²æ:J8J
+ytÞw»Þ, ƒwÂØ, ƒ¤,ythtuøÞ, Ëw¾ y™u «er‚, yu Ëðo™u
+ðÄth™tht, hËðt¤t, ½e ð„uhu [eftþðt¤t, ƒ„zu ™rn yuðt
+y™u ¾tk‚tk …ý r«Þ ÷t„u yuðt ytnth-¼tus™™t …ŒtÚttuo Ëtr¥ðf
+…wY»ttu™u r«Þ Au. >>8>>
+ÜUÅì±}HH±‡ææy²éc‡æ„èÿ‡æMUÿæç±ÎæçãÝ: J
+¥æãæÚæ Úæ…¨S²ïCæ Îé:¶àææïÜUæ}æ²ÐíÎæ: JJ9JJ
+fzðt, ¾txt, ¾ht, ƒnws „h{t-„h{, ‚e¾t, ÷q¾t, Œtn
+fh™tht ‚u{s Œw:¾, þtuf y™u htu„™u Wí…Òt fh™tht ytðt
+ytnth- ¾tðt™t …ŒtÚttuo htsË {týËtu™u r«Þ ntuÞ Au. >>9>>
+²æ„²æ}æ¢ xæ„Ú¨¢ Ðêç„ Ð²éüç¯„¢ ™ ²„ì J
+©çÓÀC}æçÐ ™æ}æïŠ²¢ |ææï…Ý¢ „æ}æ¨çÐí²}æì JJ10JJ
+htkæÞt …Ae su™t W…h ½ýtu ð¾‚ ðe‚e „Þtu ntuÞ. hË rð™t™wk,
+Œw„oLÄðt¤wk, ðtËe y™u WÂåAü ‚Útt y…rðºt yuðwk su ¼tus™ ‚u
+‚t{Ë s™tu™u r«Þ ntuÞ Au. >>10>>
+¥ÈUHæÜUæçâç|æ²ü¿ææï ç±ç{ÎëCæï ² §Á²„ï J
+²CÃ²}æï±ïç„ }æÝ: ¨}ææ{æ² ¨ ¨æçœ±ÜU: JJ11JJ
+þt†rðrÄ «{týu fhðt{tk ytð‚tu y™u fhðtu s òuRyu yu
+yt…ýe Vhs f‚oÔÞ Au, yu{ {™{tk Ë{tÄt™-r™ùÞ fhe™u
+V¤t™wËLÄt™ ™rn ht¾™tht r™»ft{ {týËtuyu fhu÷t Þ¿t ‚u
+Ëtr¥ðf Þ¿t Au. >>11>>
+¥ç|æ¨¢{æ² „é ÈUH¢ Î}|ææƒü}æçÐ ™ñ± ²„ì J
+§Á²„ï |æÚ„ŸæïD „¢ ²¿æ¢ ç±çh Úæ…¨}æì JJ12JJ
+nu ¼h‚©uc ! V¤™wk y™wËLÄt™ ht¾e™u ‚tu, ‚u{s Œk¼™u
+¾t÷e {tuxtR™u …tu»tðt™u {txus su Þ¿t fhðt{tk ytðu Au. ‚u™u ‚wk
+htsË Þ¿t òý ! >>12>>
+ç±ç{ãèÝ}æ¨ëCæóæ¢ }æ‹~æãèÝ}æÎçÿæ‡æ}æì J
+Ÿæhæç±Úçã„¢ ²¿æ¢ „æ}æ¨¢ ÐçÚ™ÿæ„ï JJ13JJ
+þt†rðrÄ rËðtÞ™tu, yÒt™wk …ý Œt™ su{tk ™ ntuÞ, {Lºt™wk
+Wå[thý fÞto rËðtÞ™tu, ŒÂûtýtytu …ý su{tk ™ y…tÞ y™u
+su{tk ©Øt …ý ™ ntuÞ yuðt Þ¿t™u ‚t{Ë Þ¿t fnuðt{tk ytðu Au.
+>>13>>
+Îï±çm…xæéLÐíæ¿æÐê…Ý¢  àææñ™}ææ…ü±}æì J
+Ïæíræ™²ü}æôã¨æ ™ àææÚèÚ¢ „Ð ©Ó²„ï JJ14JJ
+Œuð‚t, ƒútñý, „wY y™u «t¿t-ËtÄws™tu rð„uhu™wk …qs™ fhðwk,
+…rðºt‚t ht¾ðe, Ëh÷‚t, ƒúñ[Þo y™u y®nËt, yt
+þhehËkƒkÄe-þhehËtæÞ ‚… fnuðtÞ Au. >>14>>
+¥ÝémïxæÜUÚ¢ ±æv²¢ ¨y²¢ çÐí²çã„¢ ™ ²„ì J
+S±æŠ²æ²æ|²¨Ý¢ ™ñ± ±æÑì}æ²¢ „Ð ©Ó²„ï JJ15JJ
+ftuR™u …ý Wîu„ ™rn fh™tYk, Ëtk¼¤‚tk r«Þ ÷t„u y™u rn‚
+fhu, yuðwk su ËíÞ-ÞÚttÚto ¼t»tý, ËåAt†™wk …X™-…tX™, ‚u{s
+¼„ðÒtt{-{kºttrŒf™t s…™tu yÇÞtË fhðtu, yu ðtkø{Þ-ðtýeÚte
+rËØ Út‚wk ‚… fnuðtÞ Au. >>15>>
+
+
+Ÿæè}æjxæ±eè„æ
+16
+yæÞtÞ - 17
+}æÝ: Ðí¨æÎ: ¨æñ}²y±¢ }ææñÝ}ææy}æç±çÝxæíã: J
+|ææ±¨¢àæéçhçÚy²ï„œæÐæï }ææÝ¨}æéÓ²„ï JJ16JJ
+{™™e «ËÒt‚t, ËtiBÞ‚t-þtL‚Mð¼tð‚t, {ti™-
+¼„ðíMðY…{tk yuft„ú‚t, {™™tu ËðoÚtt r™„ún y™u
+yL‚:fhý™e ËBÞõþwÂØ, yt Ë½¤wk {t™Ë-{™:ËtæÞ ‚…
+fnuðt{tk ytðu Au. >>16>>
+Ÿæh²æ ÐÚ²æ „#¢ „ÐS„çy~æç±{¢ ÝÚñ: J
+¥ÈUHæÜUæçâç|æ²éüQñU: ¨æçœ±Ü¢U ÐçÚ™ÿæ„ï JJ17JJ
+V¤™e ytftkûtt ™rn ht¾™tht y™u ¼„ðíMðY…{tk òuztÞu÷t
+{™w»Þtuyu …h{ ©ØtÚte fhðt{tk ytð‚wk W…h ƒ‚tðu÷wk yu ºtýuÞ
+«fth™wk ‚… Ëtr¥ðf ‚… fnuðtÞ Au. >>17>>
+¨yÜUæÚ}ææÝÐê…æƒZ „Ðæï Î}|æïÝ ™ñ± ²„ì J
+çRU²„ï „çÎã ÐíæïQ¢U Úæ…¨¢ ™H}æ{íé±}æì JJ18JJ
+Ëífth {txu, {™-{h‚ƒt {txu y™u ÷tuf{tk …qò ÚttÞ ‚u {txu
+y™u ‚u …ý Œk¼Úte s fhðt{tk ytð‚wk ytðwk su ‚… yt ÷tuf{tk
+fhðt{tk ytðu Au ‚u htsË ‚… fnuðtÞ Au. y™u ‚u [¤-ûtrýf
+y™u yÂMÚth ƒnw ÷tkƒtu Ë{Þ ™ ™¼u yuðwk ntuÞ Au. >>18>>
+}æêÉxæíæãï‡ææy}æÝæï ²yÐèÇ²æ çRU²„ï „Ð: J
+ÐÚS²æïy¨æÎÝæƒZ ±æ „œææ}æ¨}æéÎæN„}æì JJ19JJ
+{qZ…ýu Œwht„únÚte y™u þheh™u ‚u{s {™™u …ý f÷uþ …zu
+‚uðwk su ‚… fhtÞ Au ‚Útt …h™tu rð™tþ-¼wkzwk fhðt {txu fhðt{tk
+ytð‚wk ‚… ‚u ‚t{Ë ‚… fnuðtÞ Au. >>19>>
+Îæ„Ã²ç}æç„ ²gæÝ¢ Îè²„ïùÝéÐÜUæçÚ‡æï J
+Îïàæï ÜUæHï ™ Ðæ~æï ™ „gæÝ¢ ¨æçœ±Ü¢U S}æë„}æìJ20J
+Œt™ yt…ðwk s òuRyu yu{ Äthe™u su Œt™ Œuþ, ft¤ y™u
+…tºt-Ëw…tºt òuR™u ‚u{tk su™t ‚hVÚte W…ftY… ƒŒ÷t™e ytþt
+…ý ™ ntuÞ yuðt™u yt…ðt{tk ytð‚wk su Œt™ ‚u Ëtr¥ðf Œt™
+fnuðtÞ Au. >>20>>
+²œæé Ðíy²éÐÜUæÚæƒZ ÈUH}æéçgà² ±æ ÐéÝ: J
+Îè²„ï ™ ÐçÚçvHC¢ „gæÝ¢ Úæ…¨¢ S}æë„}æì JJ21JJ
+su Œt™ ‚tu «íÞw…fth Útðt™u {txu yÚtðt V¤™tu WŒuþ fÕ…e™u
+f÷uþ…qðof yt…ðt{tk ytðu Au. ‚u htsË Œt™ fnuðtÞ Au. >>21>>
+¥ÎïàæÜUæHï ²gæÝ}æÐæ~æï|²p Îè²„ï J
+¥¨yÜëU„}æ±¿ææ„¢ „œææ}æ¨}æéÎæN„}æì JJ22JJ
+Ëtht-™hËt Œuþ ft¤™tu rð[th fÞto rð™ts, y…tºttu™u,
+Ëífth rËðtÞ, yÚtðt r‚hMfth fhe™u su Œt™ yt…ðt{tk ytðu
+Au. ‚u ‚t{Ë Œt™ fnuðtÞ Au. >>2>>
+ú „y¨çÎç„ çÝÎïüàææï Ïæíræ‡æç›ç±{: S}æë„: J
+Ïæíæræ‡ææS„ïÝ ±ïÎæp ²¿ææp ç±çã„æ: ÐéÚæ JJ23JJ
+ú, „„ì y™u „ì yu{ ºtý «fthu ƒúñ™tu r™Œuoþ fnu÷tu Au. y™u
+‚u™tÚtes …qðuo-Ë]Âü™t ythk¼{tk ƒútñýtu, ðuŒtu y™u Þ¿ttu h[u÷t
+Au. >>23>>
+„S}ææÎæïç}æy²éÎæNy² ²¿æÎæÝ„Ð: çRU²æ: J
+Ðí±„ü‹„ï ç±{æÝæïQUæ: ¨„„¢ Ïæíræ±æçÎÝæ}æì JJ24JJ
+{txus ƒúñðtŒe Ëí…wY»ttu™e ðuŒ™t rðÄt™Úte fnu÷e Þ¿t, Œt™
+y™u ‚… rð„uhu r¢Þtytu ‘‘ú’’ yuðt Wå[thý …qðofs «ð‚uo Au.
+>>24>>
+„çÎy²Ýç|æ¨¢{æ² ÈUH¢ ²¿æ„Ð: çRU²æ: J
+ÎæÝçRU²æp ç±ç±{æ: çRU²‹„ï }ææïÿæÜUæçâç|æ: J25J
+‘‘„„ì’’ ‚u …h{uïhs yt Ë½¤wk Au. yu{ Äthe™u V¤™wk
+y™wËLÄt™ ™rn ht¾‚tk {tuûttÚteo s™tuyu Þ¿t y™u ‚… rð„uhu
+r¢Þtytu ‚Útt rðrðÄ «fth™e Œt™-r¢Þtytu fhðt{tk ytðu Au.
+>>25>>
+¨jæ±ï ¨æ{é|ææ±ï ™ ¨çÎy²ï„yÐí²éÁ²„ï J
+ÐíàæS„ï ÜU}æüç‡æ „ƒæ ¨ÓÀÏÎ: Ðæƒü ²éÁ²„ï JJ26JJ
+‘‘¨„ì’’ yu þçŒ™tu Ëtht ËíÞ¼tð{tk ‚u{s ËtÄw-
+©uc¼tð{tk «Þtu„ fhtÞ Au. ‚u{s nu …tÚto ! «þM‚-©uc f{o{tk
+…ý ‘‘¨„ì’’ þçŒ™tu «Þtu„ fhtÞ Au. >>26>>
+²¿æï „Ðç¨ ÎæÝï ™ çSƒç„: ¨çÎç„ ™æïÓ²„ï J
+
+
+Ÿæè}æjxæ±eè„æ
+17
+yæÞtÞ - 18
+ÜU}æü ™ñ± „Îƒèü²¢ ¨çÎy²ï±æç|æ{è²„ï JJ27JJ
+‚Útt Þ¿t{tk, ‚…{tk y™u Œt™{tk su ÂMÚtr‚-ÂMÚth‚t…qðof ð‚oðwk
+‚u ‘‘¨„’’ yuðt þçŒÚte fnuðtÞ Au. ‚u{s ‚u Þ¿ttrŒf {txu fhðt{tk
+ytð‚wk f{o ‚u …ý ‘‘¨„ì’’ yuðt þçŒÚtes fnuðtÞ Au. >>27>>
+¥Ÿæh²æ ãé„¢ Îœæ¢ „ÐS„#¢ ÜëU„¢ ™ ²„ì J
+¥¨çÎy²éÓ²„ï Ðæƒü Ý ™ „yÐíïy² Ýæï §ã JJ28JJ
+nu …tÚto !©Øt rð™t™wk ntu{u÷wk, Œt™ yt…u÷wk, ‚… ‚…u÷wk y™u
+ƒtfe™wk …ý su ftkR fhu÷wk f{o ‚u yË‚T yu{ fnuðtÞ Au. y™u ‚u
+f{o™wk V¤ {Þto …Ae ‚u{s {Þto …nu÷tk yt ÷tuf{tk …ý ™Útes
+{¤‚wk. >>28>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢ ²æïxæàææ›ï
+ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï Ÿæhæ~æ²ç±|ææxæ²æïxææï Ýæ}æ ¨#ÎàææïùŠ²æ²: JJ17JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk Þtu„þtMºtu
+©ef]»ýtòow™ËkðtŒu ©ØtºtÞ-rð¼t„Þtu„tu  ™t{
+ËóŒþtuàæÞtÞ: >17>
+
+## ú Ÿæè ÐÚ}ææy}æÝï Ý}æ:
+
+
+## ¥ƒæCæÎàææïùŠ²æ²:
+
+¥…üéÝ ©±æ™
+¨¢‹²æ¨S² }æãæÏææãæï „œ±ç}æÓÀæç}æ ±ïçÎ„é}æì J
+y²æxæS² ™ N¯èÜïUàæ ÐëƒPïUçàæçÝ¯êÎÝ JJ1JJ
+yswo™ …qAu Au = nu {ntƒtntu ! nwk ËkLÞtË™wk ‚¥ð-ÞÚttÚto MðY…
+òýðt RåAwk Awk. y™u nu Ó»tefuþ ! nu furþr™ËqŒ™ ! íÞt„™wk ‚¥ð
+…{ ËkLÞtËÚte r¼Òt…ýu òýðt RåAwk Awk. >>1>>
+Ÿæè|æxæ±æÝé±æ™ J
+ÜUæ}²æÝæ¢ ÜU}æü‡ææ¢ ‹²æ¨¢ ¨¢‹²æ¨¢ ÜU±²æï ç±Îé:J
+¨±üÜU}æüÈUHy²æxæ¢ ÐíæãéSy²æxæ¢ ç±™ÿæ‡ææ: JJ2JJ
+©e¼„ðt™ fnu Au = fux÷tf frð-…krz‚tu ftBÞ f{o™t
+íÞt„™us ËkLÞtË òýuAu. y™u fux÷tf rð[ûtý ¿tt™es™tu Ëðo
+f{o™t V¤íÞt„™u íÞt„ yu «{týu fnu Au. >>2>>
+y²æÁ²¢ Îæï¯±çÎy²ïÜïU ÜU}æü Ðíæãé}æüÝèç¯‡æ: J
+²¿æÎæÝ„Ð:ÜU}æü Ý y²æÁ²ç}æç„ ™æÐÚï JJ3JJ
+fux÷tf Ëqû{ ƒwÂØðt¤t ztÌtt {týËtu Œtu»tðt¤tk f{o íÞt„
+fhðtk yu{ fnu Au. íÞthu ƒeòytu fux÷tf yu{ fnu Au fu Þ¿t,
+Œt™ y™u ‚… yuðtk yuðtk f{o ‚tu ™ s ‚sðtk. >>3>>
+çÝp²¢ Ÿæë‡æé }æï „~æ y²æxæï |æÚ„¨œæ}æ J
+y²æxææï çã ÐéL¯Ã²æÍæí ç~æç±{: ¨¢ÐíÜUè<„„: JJ4JJ
+nu ¼h‚Ë¥t{ ! ‚u íÞt„™t ËBƒLÄ{tk {thtu r™ùÞ Ëtk¼¤
+nu …wY»tÔÞt½ú ! ‚u íÞt„ ‚tu ºtý «fth™tu rð„‚ðth fnu÷tu Au. >>4>>
+²¿æÎæÝ„Ð: ÜU}æü Ý y²æÁ²¢ ÜUæ²ü}æï± „„ì J
+²¿ææï ÎæÝ¢ „Ðpñ± Ðæ±ÝæçÝ }æÝèç¯‡ææ}æì JJ5JJ
+Þ¿t, Œt™ y™u ‚…, yuðtk f{o ‚tu ‚sðt ÷tÞf ™Úte, {txu yu
+‚tu fhðtks. fu{fu Þ¿t, Œt™ y™u ‚…, yu ‚tu ƒÄtk Ëqû{ ƒwÂØðt¤t
+{™w»Þtu™u …ý …tð™ fh™thtk s Au. >>5>>
+»„æ‹²çÐ „é ÜU}ææüç‡æ ¨X¢ y²vy±æ ÈUHæçÝ™ J
+ÜU„üÃ²æÝèç„ }æï Ðæƒü çÝçp„¢ }æ„}æéœæ}æ}æì JJ6JJ
+y™u yt Ë½¤tkÞ f{o …ý nu …tÚto ! Ëk„-ytËÂõ‚ y™u V¤™e
+ytþt …ý Atuze ŒR™u s fhðtk. yu{ {thtu W¥t{ r™Âù‚ {‚-
+yr¼«tÞ Au.>>6>>
+çÝ²„S² „é ¨¢‹²æ¨: ÜU}æü‡ææï ÝæïÐÐl„ï J
+}ææïãæœæS² ÐçÚy²æxæS„æ}æ¨: ÐçÚÜUè<„„: JJ7JJ
+r™Þ‚ -yð~Þ «tó f{o™tu ‚tu íÞt„ fhðtu ½x‚tu s ™Úte.
+y™u òu {tunÚte-rð…he‚ Ë{ÍýÚte ‚u™tu …rhíÞt„ fhu Au. ‚tu ‚u
+‚t{Ë-yÄtu„r‚ yt…™thtu íÞt„ fnu÷tu Au. >>7>>
+Îé:¶ç}æy²ï± ²yÜU}æü ÜUæ²vHïàæ|æ²æœ²…ï„ì J
+¨ ÜëUy±æ Úæ…¨¢ y²æxæ¢ Ýñ± y²æxæÈUH¢ H|æï„ì JJ8JJ
+f{o ‚tu Œw:¾Y… s Au. yu{ òýe™u þhehf÷uþ™t ¼ÞÚte su
+f{o™tu íÞt„ fhu Au. ‚u …wY»t yuðtu htsË íÞt„ fhe™u íÞt„™t
+
+
+Ÿæè}æjxæ±eè„æ
+18
+yæÞtÞ - 18
+V¤™u ™Úte …t{‚tu. yu íÞt„™tu ftkR yÚto s ™Úte. >>8>>
+ÜUæ²üç}æy²ï± ²yÜU}æü çÝ²„¢ çRU²„ïù…éüÝ J
+¨X¢ y²QU±æ ÈUH¢ ™ñ± ¨ y²æxæ: ¨æçœ±ÜUæï }æ„:J9J
+f{o fhðwks òuRyu yu{ Ë{Íe™u nu yswo™ ! su r™Þ‚ f{o
+fÞto fhu Au. y™u ‚u{tk Ëk„-ytËÂõ‚ y™u V¤ …ý Atuze ŒR™u
+fhu Au. ‚tu ‚u Ëtr¥ðf íÞt„ {t™u÷tu Au. >>9>>
+Ý mïcÅKÜéUàæH¢ ÜU}æü ÜéUàæHï ÝæÝé¯Á…„ï J
+y²æxæè ¨œ±¨}ææç±Cæï }æï{æ±è çÀóæ¨¢àæ²: JJ10JJ
+Ë¥ð„wýu ËB…Òt, ÞÚttÚto Ë{Íýðt¤tu y™u ËLŒun rð™t™tu
+- r™:ËkþÞ, f{oV¤ íÞt„ fh™thtu …wY»t yfwþ¤ f{o™tu îu»t ™Úte
+fh‚tu ‚u{ fwþ¤ f{o{tk ytËõ‚ …ý Út‚tu ™Úte. >>10>>
+Ý çã Îïã|æë„æ àæv²¢ y²Qé¢U ÜU}ææü‡²àæï¯„: J
+²S„é ÜU}æüÈUHy²æxæè ¨ y²æxæèy²ç|æ{è²„ï JJ11JJ
+fthý fu ŒunÄtheytuyu ËðoÚtt ‚tu f{o Atuze þft‚tk s ™Úte.
+{txu su f{o™t V¤™tu íÞt„ fhu Au. yu s ¾htu íÞt„e yu{ fnuðtÞ
+Au. >>11>>
+¥çÝCç}æC¢ ç}æŸæ¢ ™ ç~æç±{¢ ÜU}æü‡æ: ÈUH}æì J
+|æ±y²y²çxæÝæ¢ Ðíïy² Ý „é ¨¢‹²æç¨Ýæ¢ Òç™„ì JJ12JJ
+f{oV¤™tu íÞt„ ™rn fh™thtytu™u yr«Þ, r«Þ, y™u r«Þ-
+yr«Þ-r{©, yuðtk ºtý «fth™tk V¤ {he™u ¼tu„ððtk …zu Au.
+…hL‚wk su f{oV¤™tu íÞt„ fh™tht Au. ‚u{™u ‚tu fÞthuÞ yuðwk V¤
+¼tu„ððt™wk ntu‚wk s ™Úte. >>12>>
+Ð@ñ„æçÝ }æãæÏææãæï ÜUæÚ‡ææçÝ çÝÏææï{ }æï J
+¨æ¢w²ï ÜëU„æ‹„ï ÐíæïQUæçÝ ç¨h²ï ¨±üÜU}æü‡ææ}æì J13J
+nu {ntƒtntu ! nðu ËÄ¤t f{o™e rMtrØ™u {txu yt …tk[ fthýtu
+f{o™tu yL‚ ÷tððt™e ÞwÂõ‚ þe¾ð™tht ËtkÏÞ þt†{tk fnuðt{tk
+ytÔÞtk Au, ‚u™u {tht Útfe ‚wk Ë{Í. >>13>>
+¥ç{DæÝ¢ „ƒæ ÜU„æü ÜUÚ‡æ¢ ™ Ðëƒçx±{}æì J
+ç±ç±{æp Ðëƒv™ïCæ Îñ±¢ ™ñ±æ~æ Ð@}æ}æì JJ14JJ
+yrÄct™-þhehY… MÚtt™, f‚to-Sðtí{t, swŒt swŒt «fth™tk
+fhý-{™ y™u RrLÿÞtu, y™uf «fth™e [uüt-ÔÞt…th y™u yu{tk
+…tk[{w Œið-V¤Œt‚t ¼„ðt™. >>14>>
+àæÚèÚ±æÑì}æÝæïç|æ²üyÜU}æü ÐíæÚ|æ„ï ÝÚ: J
+‹²æÄ²¢ ±æ ç±ÐÚè„¢ ±æ Ð@ñ„ï „S² ãï„±: JJ15JJ
+{týË þheh, ðtýe y™u {™Úte su fkR ËtYk fu ¾tuxwk f{o
+ythk¼u Au. ‚u{tk yt yrÄct™trŒf …tk[ nu‚wytu-fthýtu Au. >>15>>
+„~æñ±¢ ¨ç„ ÜU„æüÚ}ææy}ææÝ¢ ÜïU±H¢ „é ²: J
+Ðà²y²ÜëU„Ïæéçhy±æóæ ¨ Ðà²ç„ Îé}æüç„: JJ16JJ
+‚u{tk yt{ M…ü ntuðt A‚tk su yrþÂût‚ ƒwÂØðt¤tu ntuðtÚte
+Œw{or‚ {týË fuð¤ yuf÷t Sðtí{t™us f‚to swyu Au-{t™u Au.
+‚tu ‚u ¾Yk òu‚tu-òý‚tu ™Úte. >>16>>
+²S² Ýæã¢ÜëU„æï |ææ±æï Ïæéçh²üS² Ý çHŒ²„ï J
+ãy±æçÐ ¨ §}ææ¢ÌæïÜUæóæ ãç‹„ Ý çÝÏæŠ²„ï JJ17JJ
+su …wY»t™u ynkf]‚ ¼tð ™Úte y™u su™e ƒwÂØ Ëtht-™hËtÚte
+÷u…t‚e ™Úte. ‚u …wY»t yt Ë½¤t  ÷tuf™u {the™u-{thuAu. ‚tu …ý
+‚u {th‚tuÞ ™Úte y™u ƒkÄt‚tuÞ ™Úte. >>17>>
+¿ææÝ¢ ¿æï²¢ ÐçÚ¿ææ„æ ç~æç±{æ ÜU}æü™æïÎÝæ J
+ÜUÚ‡æ¢ ÜU}æü ÜU„ïüç„ ç~æç±{: ÜU}æü¨¢xæíã: JJ18JJ
+¿tt™, ¿tuÞ y™u …rh¿tt‚t-òý™thtu, yu{ ºtý «fthu f{o™e
+™tuŒ™t-rðrÄ Au. y™u fhý-ËtÄ™, f{o y™u f‚to, yu{ ºtý
+«fth™tu f{o™tu Ëk„ún-r™Y…ý Au. >>18>>
+¿ææÝ¢ ÜU}æü ™ ÜU„æü ™ ç~æ{ñ± xæé‡æ|æïÎ„: J
+ÐíæïÓ²„ï xæé‡æ¨¢w²æÝï ²ƒæ±ÓÀë‡æé „æ‹²çÐ JJ19JJ
+nðu Ë¥ðtrŒf „wý¼uŒ™u ÷eÄu ¿tt™, f{o y™u f‚to ‚u …ý
+ºtý-ºtý «fth™tk Au. yu{ „wýftÞo™t ¼uŒ™u r™Y…ý fh™th
+þtMºttu{tk fnuðt{tk ytÔÞwk Au. ‚u™u …ý {tht Útfes ‚wk ÞÚttÚto…ýu
+Ëtk¼¤ ! >>19>>
+
+
+Ÿæè}æjxæ±eè„æ
+19
+yæÞtÞ - 18
+¨±ü|æê„ï¯é ²ïÝñÜ¢U  |ææ±}æÃ²²}æèÿæ„ï J
+¥ç±|æQ¢U ç±|æQïU¯é „Á¿ææÝ¢ ç±çh ¨æçœ±ÜU}æì J20J
+ƒútñýtrŒf rð¼t„Úte hnu÷tk Ëðo ¼q‚-«týe{tºt{tk
+yrð¼õ‚-ƒútñýtrŒf rð¼t„ÔÞðMÚtt su{tk ™Úte. yuðt yuf
+yrð»t{ yÔÞÞ-yrð™tþe ytí{t™u su ¿tt™u fhe™u swyu Au òýu
+Au. ‚u ¿tt™™u Ëtr¥ðf ¿tt™ òý ! >>20>>
+Ðëƒvy±ï „é ²Á¿ææÝ¢ ÝæÝæ|ææ±æ‹Ðëƒçx±{æÝì J
+±ïçœæ ¨±ïü¯é |æê„ï¯é „Á¿ææÝ¢ ç±çh Úæ…¨}æì JJ21JJ
+ƒútñýtrŒf Ëðo ¼q‚tu{tk r¼Òt r¼Òt «fth™t swŒt swŒt
+¼tðtu™u …]ÚtfT …]ÚtfT …ýu su ¿tt™Úte òýu Au. ‚u ¿tt™™u htsË ¿tt™
+òý ! >>21>>
+²œæé ÜëUyF±ÎïÜUçS}æ‹ÜUæ²ïü ¨QU}æãñ„éÜU}æì J
+¥„œ±æƒü±ÎËÐ¢ ™ „œææ}æ¨}æéÎæN„}æì JJ22JJ
+y™u su ¿tt™ ‚tu yufs ftÞo{tk Ë{„ú V¤ðt¤t{tks su{,
+yu{ ytËõ‚ ÚttÞ, RÂåA‚ V¤™wk y™wËLÄt™ …ý su{tk ™ ntuÞ,
+‚¥ðtÚto rËðtÞ™wk y™u su ‚wåA V¤ …{tz™tYk ntuÞ, ‚u ‚t{Ë
+¿tt™ fnu÷wk Au. >>22>>
+çÝ²„¢ ¨XÚçã„}æÚæxæmï¯„:  ÜëU„}æì J
+¥ÈUHÐíïŒ¨éÝæ ÜU}æü ²œæy¨æçœ±ÜU}æéÓ²„ï JJ23JJ
+r™Þ‚-yð~Þ «tó, Ëk„-ytËÂõ‚yu hrn‚ y™u V¤™e
+RåAt ™rn ht¾™tht r™»ft{ …wY»tu ht„-îu»t rËðtÞ fhu÷wk su
+f{o ‚u Ëtr¥ðf f{o fnuðtÞ Au. >>23>>
+²œæé ÜUæ}æïŒ¨éÝæ ÜU}æü ¨æã¢ÜUæÚï‡æ ±æ ÐéÝ: J
+çRU²„ï ÏæãéHæ²æ¨¢ „Îíæ…¨}æéÎæN„}æì JJ24JJ
+su f{o ‚tu V¤™e RåAtÚte «uhtR™u fhu÷wk ntuÞ y™u ynkfth-
+yr¼r™ðuþ …ý su{tk …qhtu ntuÞ, ‚u{ ƒnw «ÞtËðt¤wk su f{o ntuÞ,
+ytðwk f{o ‚u htsË f{o fnu÷wk Au. >>24>>
+¥ÝéÏæ‹{¢ ÿæ²¢ ôã¨æ}æÝ±ïÿ² ™ ÐæñL¯}æì J
+}ææïãæÎæÚ|²„ï ÜU}æü ²œæœææ}æ¨}æéÓ²„ï JJ25JJ
+…rhýt{u Út™tYk V¤, yÚttorŒf™tu Út‚tu rð™tþ, «týeytu™e
+Út‚e ®nËt, ‚u{s …tu‚t™wk Ët{ÚÞo, yt Ë½¤t™tu rð[th-rððuf
+fÞto rËðtÞs fuð¤ {tun-{{‚tÚte su f{o ythk¼tÞ Au. ‚u ‚t{Ë
+f{o fnuðtÞ Au. >>25>>
+}æéQU¨XæïùÝã¢±æÎè {ëy²éy¨æã¨}æç‹±„: J
+ç¨hKç¨hKæï<Ý<±ÜUæÚ: ÜU„æü ¨æçœ±ÜU ©Ó²„ï J26J
+V¤{tk ytËÂõ‚ suýu Atuze ŒeÄe Au, ynkfth ¼ÞwO ð[™ …ý
+™rn ƒtu÷™thtu, ÄiÞo y™u Ë‚‚ WíËtn ht¾™thtu, ftÞo™e rËÂØ-
+yrËÂØ{tk …ý þtuf-{tuntrŒf rðfth ™rn …t{™thtu, ytðtu f‚to
+Ëtr¥ðf f‚to fnuðt{tk ytðu Au. >>26>>
+Úæxæè ÜU}æüÈUHÐíïŒ¨éHéüÏ{æï ôã¨æy}æÜUæïùàæéç™: J
+ã¯üàææïÜUæç‹±„: ÜU„æü Úæ…¨: ÐçÚÜUè<„„: JJ27JJ
+ytËÂõ‚ðt¤tu, f{o™t V¤™u RåA™thtu, Wr[‚ ÿÔÞ …ý ™rn
+¾[o™thtu, rnkËt{tk Yr[ðt¤tu, y…rðºt…ýu ð‚o™thtu y™u ðthkðth
+n»to-þtuf …t{™thtu, ytðtu f‚to htsË f‚to fnu÷tu Au. >>27>>
+¥²éQU: ÐíæÜëU„: S„Ï{: àæÆæï ÝñcÜëUç„ÜUæïùH¨:J
+ç±¯æÎè ÎèÍæü¨ê~æè ™ ÜU„æü „æ}æ¨ ©Ó²„ï JJ28JJ
+þtMºteÞ f{o yt[hðt{tk „tV÷ ð‚o™thtu, «tf]‚-rððufþqLÞ
+…t{h, „wY-ŒuðtrŒf™e yt„¤ …ý y™{ú ð‚o™thtu, þX, X„thtu,
+yt¤MÞ ht¾™thtu «{tŒe, ËŒtÞ yËk‚wü hne™u ¾uŒ …t{™thtu
+y™u Œe½o Ëqºte, ytðtu f‚to ‚t{Ë f‚to fnuðtÞ Au. >>28>>
+Ïæéhï|æïüÎ¢ {ë„ïpñ± xæé‡æ„ç›ç±{¢ Ÿæë‡æé J
+ÐíæïÓ™}ææÝ}æàæï¯ï‡æ Ðëƒvy±ïÝ {Ý¢…² JJ29JJ
+nðu-ƒwÂØ™t y™u Ä]r‚™t …ý „wýu fhe™u Út‚t ºtý «fth™t
+¼uŒ nu Ä™ksÞ ! nwk swŒt-swŒt rðÂõ‚…qðof fneþ ‚u™u Ë{„ú…ýu
+‚wk ËtðÄt™ ÚtR™u Ëtk¼¤ ! >>29>>
+Ðí±ëôœæ ™ çÝ±ëôœæ ™ ÜUæ²æüÜUæ²ïü |æ²æ|æ²ï J
+Ïæ‹{¢ }ææïÿæ¢ ™ ²æ ±ïçœæ Ïæéçh: ¨æ Ðæƒü ¨æçœ±ÜUèJ30J
+nu …tÚto ! su ƒwÂØÚte {™w»Þtu «ð]Â¥t y™u r™ð]Â¥t™u òýu Au.
+
+
+Ÿæè}æjxæ±eè„æ
+20
+yæÞtÞ - 18
+‚u{s ftÞo-yftÞo™u, ¼Þ-y¼Þ™u, ‚Útt ƒkÄ-{tuût™u …ý òýu
+Au. ‚u Ëtr¥ðfe W¥t{ ƒwÂØ Au. >>30>>
+²²æ {}æü}æ{}æZ ™ ÜUæ²Z ™æÜUæ²ü}æï± ™ J
+¥²ƒæ±yÐí…æÝæç„ Ïæéçh: ¨æ Ðæƒü Úæ…¨è JJ31JJ
+nu …tÚto ! su ƒwÂØÚte Ä{o-yÄ{o™u, ‚Útt ftÞo-yftÞo™u …ý
+yÞÚttÚto …ýu òýu Au. yÚtto‚T-¾he he‚u ðtM‚rðf …ýu ™Úte
+Ë{Í‚tu ‚u htsËe {æÞ{ ƒwÂØ Au. >>31>>
+¥{}æZ {}æüç}æç„ ²æ }æ‹²„ï „}æ¨æ±ë„æ J
+¨±æüƒæüç‹±ÐÚè„æ¢p Ïæéçh: ¨æ Ðæƒü „æ}æ¨è JJ32JJ
+y™u nu …tÚto ! ‚{tu„wýÚte ytðhý …t{u÷e su ƒwÂØÚte yÄ{o™u
+Ä{o yu{ {t™u Au. ‚u{s Ë½¤t yÚttuo™u-þt†{tk fnu÷t ËŒÚttuo™u …ý
+rð…he‚s {t™u Au. ‚u ƒwÂØ ‚tu ‚t{Ëe yÄ{ ƒwÂØ òýðe. >>32>>
+{ëy²æ ²²æ {æÚ²„ï }æÝ: Ðíæ‡æïç‹Îí²çRU²æ: J
+²æïxæïÝæÃ²ç|æ™æçÚ‡²æ {ëç„: ¨æ Ðæƒü ¨æçœ±ÜUèJ33J
+ƒeò rð»tÞtu{tk ÔÞr¼[th ™rn …t{™the yuðe su Ä]r‚Úte {™,
+«tý y™u RrLÿÞtu™e r¢Þtytu™u ¼Âõ‚Þtu„™e rËÂØ {txu ðþ fhtÞ
+Au. nu …tÚto ! ‚u Ëtr¥ðfe Ä]r‚ òýðe. >>33>>
+²²æ „é {}æüÜUæ}ææƒæü‹{ëy²æ {æÚ²„ïù…éüÝ J
+Ðí¨XïÝ ÈUHæÜUæâè {ëç„: ¨æ Ðæƒü Úæ…¨è JJ34JJ
+nu yswo™ ! su Ä]r‚Úte ‚tu V¤™e ytftkûttðt¤tu …wY»t Ä{o, yÚto
+y™u ft{, ‚u™u yr‚ ytËÂõ‚…qðof Äthu Au- {wfe þõ‚tu ™Úte, nu
+…tÚto ! ‚u htsËe Ä]r‚ òýðe. >>34>>
+²²æ S±ŒÝ¢ |æ²¢ àææïÜ¢U ç±¯æÎ¢ }æÎ}æï± ™ J
+Ý ç±}æé@ç„ Îé}æïü{æ {ëç„: ¨æ Ðæƒü „æ}æ¨è JJ35JJ
+fwƒwÂØðt¤tu {™w»Þ su Ä]r‚Úte Mð¡-r™ÿt, ¼Þ, þtuf, rð»ttŒ-
+¾uŒ y™u {Œ-„ðo, yt Ëðo™u Atuze þõ‚tu ™Úte, nu …tÚto ! ‚u ‚t{Ëe
+Ä]r‚ òýðe. >>35>>
+¨é¶¢ çy±ÎæÝè¢ ç~æç±{¢ Ÿæë‡æé }æï |æÚ„¯ü|æ J
+¥|²æ¨æÎí}æ„ï ²~æ Îé:¶æ‹„¢ ™ çÝxæÓÀç„ JJ36JJ
+²œæÎxæíï ç±¯ç}æ± ÐçÚ‡ææ}æïù}æë„æïÐ}æ}æì J
+„y¨é¶¢ ¨æçœ±Ü¢U ÐíæïQU}ææy}æÏæéçhÐí¨æÎ…}æì JJ37JJ
+nu ¼h‚»to¼ ! nðu-n{ýtk {tht Útfe ºtý «fth™wk Ëw¾ ‚wk
+Ëtk¼¤ ! su Ëw¾{tk Ëns yÇÞtËÚte s h{u Au-ÂMÚtr‚ …t{u Au,
+y™u ËtkËtrhf f÷uþ™t yL‚™u …ý …t{u Au.
+ð¤e su yÇÞtË ð¾‚u rð»t Ë{t™ ÷t„u Au. y™u …rhýt{u
+y{]‚™u ‚wÕÞ ™eðzu Au. ytðwk …tu‚t™e ytí{r™ùÞf ƒwÂØ™e
+«ËÒt‚tÚte ÚtÞu÷wk Ëw¾ ‚u Ëtr¥ðf Ëw¾ fnu÷wk Au. >>36-37>>
+ç±¯²ïç‹Îí²¨¢²æïxæælœæÎxæíïù}æë„æïÐ}æ}æì J
+ÐçÚ‡ææ}æï ç±¯ç}æ± „y¨é¶¢ Úæ…¨¢ S}æë„}æì JJ38JJ
+rð»tÞ y™u RrLÿÞtu™t ËkÞtu„Úte su y™w¼ð ð¾‚u y{]‚™u
+‚wÕÞ {eXwk ÷t„u Au. …ý …rhýt{u rð»t™e {tVf Œw:¾ŒtÞe ™eðzu
+Au. ‚u htsË Ëw¾ fnu÷wk Au. >>38>>
+²Îxæíï ™æÝéÏæ‹{ï ™ ¨é¶¢ }ææïãÝ}ææy}æÝ: J
+çÝÎíæHS²Ðí}ææÎæïyƒ¢ „œææ}æ¨}æéÎæN„}æì JJ39JJ
+su Ëw¾ ¼tu„ð‚e ð¾‚u y™u …rhýt{u …ý Sðtí{t™u fuð¤
+{tun™u s fh™tYk ÚttÞ Au. ‚u{s r™ÿt, yt÷MÞ y™u «{tŒ, ‚u™tÚte
+«tó Út‚wk Ëw¾ ‚u ‚t{Ë Ëw¾ fnu÷wk Au. >>39>>
+Ý „ÎçS„ ÐëçƒÃ²æ¢ ±æ çÎç± Îï±ï¯é ±æ ÐéÝ: J
+¨œ±¢ ÐíÜëUç„…ñ}æéüQ¢U ²Îïç|æ: S²æçy~æç|æ<xæ‡æñ: JJ40JJ
+nu yswo™ ! …]Úðe W…h {™w»Þtu{tk yÚtðt ‚tu Mð„o{tk
+Œuð‚tytu{tk yuðwk ftuR «týe ™Úte fu su yt «f]r‚Úte W…su÷t ºtý
+ŒwýtuÚte hrn‚ ntuÞ. >>40>>
+Ïæíæræ‡æÿæç~æ²ç±àææ¢ àæêÎíæ‡ææ¢ ™ ÐÚ¢„Ð J
+ÜU}ææüç‡æ Ðíç±|æQUæçÝ S±|ææ±Ðí|æ±ñxæéü‡æñ: JJ41JJ
+nu …hL‚… ! ƒútñý, ûtrºtÞ y™u ði~Þtu™tk ‚u{s þqÿtu™tk …ý
+f{o Mð¼tðÚte ÚtÞu÷t „wýtu™u ÷eÄu-„wýtu «{týus swŒtk swŒtk
+rð¼t„Úte fnu÷tk Au. >>41>>
+
+
+Ÿæè}æjxæ±eè„æ
+21
+yæÞtÞ - 18
+àæ}ææï Î}æS„Ð: àææï™¢ ÿææç‹„Úæ…ü±}æï± ™ J
+¿ææÝ¢ ç±¿ææÝ}ææçS„v²¢ ÏæíræÜU}æü S±|ææ±…}æì JJ42JJ
+þ{,Œ{, ‚…, ƒu «tfth™wk þti[, ût{t, ytsoð, ¿tt™, rð¿tt™
+y™u ytÂM‚f‚t, yt Ë½¤tk ƒútñý™u Mð¼tð«tó f{o fnu÷tk
+Au. >>42>>
+àææñ²Z „ï…æï {ëç„Îæüÿ²¢ ²éhï ™æŒ²ÐHæ²Ý}æì J
+ÎæÝ}æèEÚ|ææ±p ÿææ~æ¢ ÜU}æü S±|ææ±…}æì JJ43JJ
+þtiÞo, ‚us, ÄiÞo, Œût‚t, ÞwØ{tk …ý …÷tÞ™ ™ fhe sðwk, Œt™
+y™u Rïh¼tð, yt ƒÄtk ûtrºtÞtu™u Mð¼tðÚtes «tó ÚtÞu÷tk Ëns
+f{o Au. >>43>>
+ÜëUç¯xææñÚÿ²±æç‡æÁ²¢ ±ñà²ÜU}æü S±|ææ±…}æì J
+ÐçÚ™²æüy}æÜ¢U ÜU}æü àæêÎíS²æçÐ S±|ææ±…}æì JJ44JJ
+¾uz fhðe, „tÞtu rð„uhu …þwytu™wk hûtý fhðwk y™u ðtrýßÞ-
+ðu…th fhðtu. yt ði~Þtu™tk Mð¼tð«tó f{o Au. y™u ºtý ðýo™e
+…rh[Þto fhðe yu Y… þqÿtu™wk …{ Mð¼tð«tó f{o Au. >>44>>
+S±ï S±ï ÜU}æü‡²ç|æÚ„: ¨¢ç¨ôh H|æ„ï ÝÚ: J
+S±ÜU}æüçÝÚ„: ç¨ôh ²ƒæ ç±‹Îç„ „ÓÀë‡æé JJ45JJ
+Ëðo {™w»Þtu …tu‚-…tu‚t™t f{o{tks yt¼h‚-håÞt-…åÞt
+hne™u ËkrËÂØ™u …t{u Au. nðu ‚u …tu‚t™ts f{o{tkr™h‚ hne™u su{
+rËÂØ™u …t{u Au. ‚u ‚wk Ëtk¼¤ ! >>45>>
+²„: Ðí±ëçœæ|æêü„æÝæ¢ ²ïÝ ¨±üç}æÎ¢ „„}æì J
+S±ÜU}æü‡ææ „}æ|²Ó²ü ç¨ôh ç±‹Îç„ }ææÝ±: JJ46JJ
+su™t Útfe yt ¼q‚-«týe{tºt™e «ð]Â¥t-ythk¼ ÚttÞ Au, y™u
+suýu yt Ë½¤wk s„‚T ÔÞt…u÷wk Au. ‚u …h{tí{t™u …tu‚t™t f{oÚte
+…qS™u-«ËÒt fhe™u {týËtu rËÂØ™u …t{u Au. >>46>>
+Ÿæï²æ‹S±{}ææïü ç±xæé‡æ: ÐÚ{}ææüyS±ÝéçD„æ„ì J
+S±|ææ±çÝ²„¢ ÜU}æü ÜéU±üóææŒÝæïç„ çÜUçËÏæ¯}æì JJ47JJ
+Ëthe he‚u y™wct™ fhu÷t …h Ä{o fh‚tk …{ LÞq™ „wýðt¤tu
+ntuÞ ‚tuÞ …tu‚t™tu Ä{o Ëthtu-©uÞ yt…™thtu Au, fu{fu Mð¼tðÚtes
+r™Þ‚ fhu÷wk f{o fh‚tk {týË fÞthuÞ rfÂÕð»t-Œw:¾ y„h ‚tu
+…t… ™Úte …t{‚tu. >>47>>
+¨ã…¢ ÜU}æü ÜUæñ‹„ï² ¨Îæï¯}æçÐ Ý y²…ï„ì J
+¨±æüÚ}|ææ çã Îæï¯ï‡æ {ê}æïÝæçxÝçÚ±æ±ë„æ: JJ48JJ
+nu ftiL‚uÞ ! Œtuþðt¤wk-LÞq™ „wýðt¤wk ntuÞ ‚tuÞ …tu‚t™wk Ëns
+f{o {týËtuyu ‚sðwk òuRyu ™rn, fu{fu-Ëðo f{o™t ythk¼tus
+Äq{tztÚte yÂø™ s su{ yu{ Œtu»tÚtes ytðhu÷t ¼hu÷t Au. >>48>>
+¥¨QUÏæéçh: ¨±ü~æ ç…„æy}ææ ç±xæ„SÐëã: J
+ÝñcÜU}²üç¨ôh ÐÚ}ææ¢ ¨¢‹²æ¨ïÝæç{xæÓÀç„ JJ49JJ
+Ëðoºt ðM‚w{tºt{tk ytËÂõ‚yu hrn‚ ƒwÂØðt¤tu, {™™u
+S‚™thtu y™u Mð„torŒf™t Ëw¾{tk …ý M…]nt rð™t™tu …wY»t
+f{oV¤™t ËkLÞtËÚtes Ëðtuoíf]ü ™i»fBÞorËÂØ™u …t{u Au. >>49>>
+ç¨ôh Ðíæ#æï ²ƒæ Ïæíræ „ƒæŒÝæïç„ çÝÏææï{ }æïJ
+¨}ææ¨ïÝñ± ÜUæñ‹„ï² çÝDæ ¿ææÝS² ²æ ÐÚæ JJ50JJ
+™i»fBÞorËÂØ™t V¤Y… æÞt™Þtu„™u …t{u÷tu …wY»t suðe he‚u
+ƒúñ™u-…hƒúñ™u …t{u Au, ‚u Ëkûtu…Úte fnu÷tu «fth {tht Útfe ‚wk
+òý !-Ë{Í ! fu su …h{tí{«tÂóY… ¿tt™™e …ht ftct-Wíf]ü
+ÂMÚtr‚ fnu÷e Au. >>50>>
+ÏæéhKæ ç±àæéh²æ ²éQUæï {ëy²æy}ææÝ¢ çÝ²}² ™J
+àæÏÎæÎèç‹±¯²æ¢Sy²vy±æ Úæxæmï¯æñ Ã²éÎS² ™ J51J
+ç±ç±QU¨ï±è HÍ±æàæè ²„±æPUæ²}ææÝ¨: J
+Š²æÝ²æïxæÐÚæï çÝy²¢ ±ñÚæx²¢ ¨}æéÐæçŸæ„: JJ52JJ
+¥ã¢ÜUæÚ¢ ÏæH¢ ÎÐZ ÜUæ}æ¢ RUæï{¢ ÐçÚxæíã}æì J
+ç±}æéÓ² çÝ}æü}æ: àææ‹„æï Ïæíræ|æê²æ² ÜUËÐ„ï JJ53JJ
+ËðoÚtt rðþwØ ƒwÂØyu Þwõ‚ ÚtR™u, ÄiÞoÚte {™™u r™Þ{{tk
+ht¾e™u, þçŒtrŒf rð»tÞtu™tu íÞt„ fhe™u y™u ht„-îu»t™tu …ý
+ËðoÚtt …rhíÞt„ fhe™u,
+yuftL‚ Ëuð™ fhðt™t Mð¼tððt¤tu ÚtR™u, ÷½w ytnth fhe™u,
+ðtýe, þheh y™u {™™u r™Þ{{tk ht¾e™u, …h{ ðihtøÞ™u ËðoÚtt
+
+
+Ÿæè}æjxæ±eè„æ
+22
+yæÞtÞ - 18
+ytþÞtuo Útftu r™hL‚h æÞt™Þtu„…htÞý ð‚o‚tu.
+‚u{s ynkfth, ƒ¤, Œ…o, ft{, ¢tuÄ y™u …rh„ún™tu
+…rhíÞt„ fhe™u r™{o{íð ÚtR™u þtL‚ ÚtÞu÷tu …wY»t ƒúñY… Útðt™u
+ÞtuøÞ ÚttÞ Au. >>51-53>>
+Ïæíræ|æê„: Ðí¨óææy}ææ Ý àææï™ç„ Ý ÜUæâç„ J
+¨}æ: ¨±ïü¯é |æê„ï¯é }æjôQU H|æ„ï ÐÚæ}æì JJ54JJ
+ytðtu ƒúñ¼q‚ ÚtÞu÷tu, «ËÒt r[¥tðt¤tu …wY»t r«Þ ðM‚w™t
+™tþÚte ™Úte þtuf fh‚tu, fu ™Úte r«Þ ðM‚w™e ytftkûtt fh‚tu, Ëðo
+¼q‚-«týe{tºt{tk Ë{ ¼tð …t{u÷tu …wY»t {the …ht-«u{÷ûtýt
+¼Âõ‚™u …t{u Au. >>54>>
+|ævy²æ }ææ}æç|æ…æÝæç„ ²æ±æ‹²pæçS}æ „œ±„:J
+„„æï }ææ¢ „œ±„æï ¿ææy±æ ç±àæ„ï „ÎÝ‹„Ú}æì JJ55JJ
+nwk suðztu Awk y™u su Awk ‚uðtu ‚tu {™u ‚¥ðÚte ¼Âõ‚Útes òýu
+Au. y™u yu{ ‚¥ðÚte {™u òýe-Ë{Íe™u ‚u …Ae {tht «íÞu «ðuþ
+fhu Au-{™us …t{u Au. >>55>>
+¨±üÜU}ææü‡²çÐ ¨Îæ ÜéU±æü‡ææï }æmKÐæŸæ²: J
+}æyÐí¨æÎæÎ±æŒÝæïç„ àææE„¢ ÐÎ}æÃ²²}æì JJ56JJ
+ðýto©{™u Ë{wr[‚ …tu‚-…tu‚t™t f{o ËŒtÞ fh‚tu y™u {thtu
+áZ yt©Þ ht¾™thtu …wY»t {the «ËÒt‚t {u¤ðe™u ‚u îtht
+yrð™tþe þtï‚ …Œ™u- ƒúñÄt{™u …t{u Au. >>56>>
+™ï„¨æ ¨±üÜU}ææüç‡æ }æç² ¨¢‹²S² }æyÐÚ: J
+Ïæéçh²æïxæ}æéÐæçŸæy² }æçÓ™œæ: ¨„„¢ |æ± JJ57JJ
+¿tt™u fhe™u Ëðo f{tuo {tht{tk Ë{…ýo fhe™u {í…htÞý ÚtR™u
+ƒwÂØÞtu„™tu Ë{t©Þ fhe™u y¾kz {tht{tks r[¥tð]Â¥t ht¾™thtu
+ÚtR ò ! >>57>>
+}æçÓ™œæ: ¨±üÎéxææüç‡æ }æyÐí¨æÎæœæçÚc²ç¨ J
+¥ƒ ™ïœ±}æã¢ÜUæÚæóæ Ÿææïc²ç¨ ç±ÝâKç¨ JJ58JJ
+{tht{tk r[¥t ht¾ðtÚte Ëðo ŒwM‚h Œw:¾tu™u …ý {the
+«ËÒt‚tÚte ‚he sRþ. y™u òu ‚wk ynkfth ht¾e™u {tYk ð[™
+™rn Ëtk¼¤u ‚tu ‚wk rð™tþ™u {t„uo sR™u ¼úü ÚtR sRþ. >>58>>
+²Îã¢ÜUæÚ}ææçŸæy² Ý ²æïyS² §ç„ }æ‹²¨ï J
+ç}æ‰²ñ¯ Ã²±¨æ²S„ï ÐíÜëUç„Sy±æ¢ çÝ²æïÿ²ç„ JJ59JJ
+ynkfth™u ytþhe™u ‘‘nwk ÞwØ ™rn fYk’’ yu{ òu ‚wk {t™‚tu
+ntuÞ ‚tu ‚u ‚thtu {™™tu Xhtð r{ÚÞt-™ft{tu Au. ‚the «f]r‚s-
+Mð¼tðs ‚™u ÞwØ fhðt{tk «uhþu. >>59>>
+S±|ææ±…ïÝ ÜUæñ‹„ï² çÝÏæh: S±ïÝ ÜU}æü‡ææ J
+ÜU„éZ ÝïÓÀç¨ ²‹}ææïãæyÜUçÚc²S²±àææïùçÐ „„ì J60J
+nu ftiL‚uÞ ! …qðo ËkMfthY… Mð¼tðÚtes «tó Mðf{oÚte
+ƒkÄtÞu÷tu ‚wk {tun™u ðþ ÚtR™u su ftÞo fhðt ™Úte RåA‚tu ‚us ftÞo
+‚wk …hðþ Útftu …ý sYh fheþ. >>60>>
+§üEÚ: ¨±ü|æê„æÝæ¢ Ngïàæïù…éüÝ ç„Dç„ J
+|æíæ}æ²‹¨±ü|æê„æçÝ ²‹~ææMUÉæçÝ }ææ²²æ JJ61JJ
+nu yswo™ ! Ëðo™t Mðt{e ¼„ðt™ Ëðo ¼q‚tu™t ÓŒÞ-«Œuþ{tk
+…tu‚t™e {tÞt-þÂõ‚Úte ËkË]r‚-[¢Y… Þkºt W…h ytYZ ÚtÞu÷tk
+Ëðo ¼q‚-«týe{tºt™u ‚u™t ‚u™t f{o «{týu ËkËth{tk ¼{tð‚t
+Útft hnu Au. >>61>>
+„}æï± àæÚ‡æ¢ xæÓÀ ¨±ü|ææ±ïÝ |ææÚ„ J
+„yÐí¨æÎæyÐÚæ¢ àææç‹„ SƒæÝ¢ ÐíæŒS²ç¨ àææE„}æìJ62J
+nu ¼th‚ ! ‚uÚte ‚wk Ë{„ú ¼tðÚte-«fthÚte ‚u …h{uïh™us
+þhýu ò-hnu, ‚u …h{tí{t™e «ËÒt‚tÚtes ‚wk …h{ þtÂL‚™u y™u
+yrð[¤ …Œ™u …t{eþ. >>62>>
+§ç„ „ï ¿ææÝ}ææw²æ„¢ xæésæeés„Ú¢ }æ²æ J
+ç±}æëà²ñ„Îàæï¯ï‡æ ²ƒïÓÀç¨ „ƒæ ÜéUL JJ63JJ
+yt «{týu {U ‚™u „wÌt{tk yr‚ „wÌt …h{ hnMÞY ¿tt™ fne
+ƒ‚trðÞwk. {txu yu Ë„¤wk Ë{„ú…ýu rð[the™u su{ ‚the RåAt
+ntuÞ ‚u{ fh ! >>63>>
+¨±üxæés„}æ¢ |æê²: Ÿæë‡æé }æï ÐÚ}æ¢ ±™: J
+§Cæïùç¨ }æï ÎëÉç}æç„ „„æï ±ÿ²æç}æ „ï çã„}æìJ64J
+
+
+Ÿæè}æjxæ±eè„æ
+23
+yæÞtÞ - 18
+ð¤e-VheÚte …ý Ëðo hnMÞ{tk …ý …h{ hnMÞY… {tYk
+Ëðtuoíf]ü rn‚ fh™tYk ð[™ Ëtkƒ¤ ! ‚wk {™u yíÞk‚ Ôntu÷tu Awk
+y™u yr‚ áZ {r‚ðt¤tu Awk {txu ‚tht rn‚™wk ð[™ nwk ‚™u fneþ-
+fnwk Awk. >>64>>
+}æ‹}æÝæ |æ± }æjQUæï }ælæ…è }ææ¢ Ý}æSÜéUL J
+}ææ}æï±ñc²ç¨ ¨y²¢ „ï Ðíç„…æÝï çÐí²æïùç¨ }æï JJ65JJ
+{tht{tks {™ ht¾{™thtu Útt ! {thtus ¼õ‚ Útt ! {tYks
+…qs™ fh™thtu Útt ! y™u {™us ™{Mfth fh ! yt{ fhðtÚte ‚wk
+{™us …t{eþ. ‚wk {™u yr‚ r«Þ Awk. {txu ‚the yt„¤ nwk M‚Þ
+«r‚¿tt-ð[™ fnwk Awk >>65>>
+¨±ü{}ææü‹ÐçÚy²Á² }ææ}æïÜ¢U àæÚ‡æ¢ ±í… J
+¥ã¢ y±æ ¨±üÐæÐï|²æï }ææïÿæç²c²æç}æ }ææ àæé™: J66J
+‚wk Ëðo Ä{o™u-Ä{o™t ƒ¤™u Atuze ŒR™u {™u yuf™us þhý
+…t{ nwk ‚™u Ëðo …t… Útfe {wftðeþ. ‚wk ftkR þtuf fheþ {tk. >>66>>
+§Î¢ „ï Ýæ„ÐSÜUæ² Ýæ|æQUæ² ÜUÎæ™Ý J
+Ý ™æàæéŸæê¯±ï ±æÓ²¢ Ý ™ }ææ¢ ²æïù|²¨ê²ç„ JJ67JJ
+yt {U ‚™u fnu÷wk ¿tt™ su ‚… fhðt{tk Yr[ðt¤tu ™ ntuÞ,
+‚u{s su {thtu ¼õ‚ ™ ntuÞ ‚u™u õÞthuÞ fnuðwk ™rn, ‚u{s su yt
+¿tt™ Ëtk¼¤ðt ™ RåA‚tu ntuÞ, y„h Ëuðtð]Â¥t rËðtÞ™tu ntuÞ
+‚u™u …ý ™ fnuðwk. y™u su {tht ‚hV yÇÞËqÞt fh‚tu ntuÞ ‚u™u
+fÞthuÞ ™s fnuðwk. >>67>>
+² §}æ¢ ÐÚ}æ¢ xæés¢ }æjQïUc±ç|æ{æS²ç„ J
+|æôQU }æç² ÐÚæ¢ ÜëUy±æ }ææ}æï±ñc²y²¨¢àæ²: JJ68JJ
+su …wY»t yt …h{ hnMÞY… ¿tt™ {tht ¼õ‚tu{tk fne™u
+«ð‚toðþu ‚tu ‚u {thu rð»tu …ht-«u{÷ûtýt ¼Âõ‚ fhe™u {™us
+…t{þu. yu{tk ÷ð-÷uþ þkfts ™Úte. >>68>>
+Ý ™ „S}ææ‹}æÝéc²¯é ÜUçp‹}æï çÐí²ÜëUœæ}æ: J
+|æç±„æ Ý ™ }æï „S}ææÎ‹²: çÐí²„Úæï |æéç± JJ69JJ
+yuðt {tYk ¿tt™ Vu÷tð™tht ¼õ‚ …wY»t fh‚tk {tYk yíÞL‚
+r«Þ fh™th {™w»Þtu{tk ƒeòu ftuR Aus ™rn. y™u yt …]Úðe
+W…h ‚u™t fh‚tk ƒeòu ftuR {™u yr‚þÞ Ônt÷tu …ý Út™th
+™Útes. >>69>>
+¥Š²ïc²„ï ™ ² §}æ¢ {}²Z ¨¢±æÎ}ææ±²æï: J
+¿ææÝ²¿æïÝ „ïÝæãç}æC: S²æç}æç„ }æï }æç„: JJ70JJ
+yt…ýt ƒu™t yt {tuût yt…™tht Ä{o ËkƒkÄe ËkðtŒ™tu su …tX
+fhþu, ‚tu ‚u …wY»tu nwk Ëðtuoíf]ü ¿tt™Þ¿tÚte …qsu÷tu ÚtRþ yu{ {thtu
+r™ùÞ Au. >>70>>
+Ÿæhæ±æÝÝ¨ê²p Ÿæë‡æé²æÎçÐ ²æï ÝÚ: J
+¨æïùçÐ }æéQU: àæé|ææ¡ÌæïÜUæ‹ÐíæŒÝé²æyÐé‡²ÜU}æü‡ææ}æìJ71J
+yt ¿tt™-þt†{tk su ©Øtðt™T ÚtR™u Ëtk¼¤u, y™u ð¤e su
+yt{tk yÇÞËqÞt ™ fhu, ‚tu ‚u …wY»t …ý …wÛÞ f{o fh™tht …rðºt
+¼õ‚ «]»ttu™t ÷tuf™u …t{u Au. >>71>>
+ÜUçÓ™Îï„ÓÀ>„¢ Ðæƒü y±²ñÜUæxæíï‡æ ™ï„¨æ J
+ÜUçÓ™Î¿ææÝ¨¢}ææïã: ÐíÝCS„ï {Ýï…² JJ72JJ
+nu …tÚto ! yt {U fÌtwk ‚u ‚U yuft„ú-ËtðÄt™ r[¥tÚte Ëtk¼éÞwk
+? y™u nu Ä™kßÞ ! ‚thtu y¿tt™Úte ÚtÞu÷tu {tun ËðoÚtt ™ü
+ÚtÞtu ? >72>
+¥…éüÝ ©±æ™ J
+ÝCæï }ææïã: S}æëç„HüÏ{æ y±yÐí¨æÎæ‹}æ²æÓ²é„ J
+çSƒ„æïùçS}æ xæ„¨‹Îïã: ÜUçÚc²ï ±™Ý¢ „± JJ73JJ
+yswo™ fnu Au = nu yåÞw‚ ! ‚{the «ËÒt‚tÚte {thtu {tun ™ü
+ÚtR „Þtu Au. y™u nwk …qhu-…qhe M{]r‚{tk-ËtðÄt™e{tk ytÔÞtu Awk. nwk
+ËkŒun rð™t™tu ÚtR™u W¼tu Awk y™u ‚{tYk ð[™ …t¤eþ. >>73>>
+¨¢…² ©±æ™ J
+§y²ã¢ ±æ¨éÎï±S² ÐæƒüS² ™ }æãæy}æÝ: J
+¨¢±æÎç}æ}æ}æŸææñ¯}æjé„¢  Úæï}æã¯ü‡æ}æì JJ74JJ
+ËksÞ fnu Au = yt «{týu {ntí{t ðtËwŒuð y™u …tÚto yu
+ƒÒtu™tu htu{tk[ fhu yuðtu yt yKw‚ ËkðtŒ {U Ëtk¼éÞtu. >>74>>
+
+
+Ÿæè}æjxæ±eè„æ
+24
+Ã²æ¨Ðí¨æÎæÓÀ>„±æÝï„eés}æã¢   ÐÚ}æì J
+²æïxæ¢ ²æïxæïEÚæyÜëUc‡ææy¨æÿææyÜUƒ²„: S±²}æì J75J
+Ëf¤ Þtu„™t Mðt{e MðÞk ©ef]»ý ¼„ðt™ …tu‚us yswo™™u
+fnu‚t n‚t ‚u{™t Útfe yt …h{hnMÞY… ËkðtŒ {U ÔÞtË{wr™™e
+«ËÒt‚t™u ÷eÄu Ëtk¼éÞtu. >>75>>
+Úæ…‹¨¢S}æëy² ¨¢S}æëy² ¨¢±æÎç}æ}ææ}æjé„}æì J
+ÜïUàæ±æ…éüÝ²æï: Ðé‡²¢ Nc²æç}æ ™ }æéãé}æéüãé: JJ76JJ
+nu hts™T ! fuþð ¼„ðt™ y™u yswo™™t yt yr‚ …rðºt
+yKw‚ ËkðtŒ™u Ëk¼the™u nwk ðthkðth yr‚ n»to …t{wk Awk. >>76>>
+„Ó™ ¨¢S}æëy² ¨¢S}æëy² MÐ}æy²jé„¢ ãÚï: J
+ç±S}æ²æï }æï }æãæ‹Úæ…‹Nc²æç}æ ™ ÐéÝ: ÐéÝ: JJ77JJ
+nu hts™T ! ©enrh-f]»ý™wk ‚u yr‚ yKw‚ Y… Ëk¼the™u
+{™u ƒnws {tuxtu rðM{Þ ÚttÞ Au. y™u nwk ðthkðth yr‚
+n»to …t{wk Awk. >>77>>
+yæÞtÞ - 18
+²~æ ²æïxæïE: ÜëUc‡ææï ²~æ Ðæƒæïü {Ýé{üÚ: J
+„~æ Ÿæè<±…²æï |æêç„{íéü±æ Ýèç„}æüç„}æü}æ JJ78JJ
+nu hts™T ! ßÞtk-su …ût{tk Ëtûtt‚T Þtu„uïh f]»ý Au. y™u
+Ä™wÄthe …]Útt…wºt yswo™ Au. íÞtks ©e-÷û{e, rðsÞ y™u ¼qr‚
+yiïÞo Au. y™u y[¤ ™er‚ …ý íÞtks Au. yu{ {the {r‚-r™ùÞ
+Au. >>78>>
+ú„y¨çÎç„ Ÿæè}æjxæ±eè„æ¨êÐçÝ¯y¨é Ïæíræç±læ²æ¢
+²æïxæàææ›ï ŸæèÜëUc‡ææ…éüÝ¨¢±æÎï }ææïÿæ¨¢‹²æ¨²æïxææï
+Ýæ}ææCæÎàææïùŠ²æ²: JJ18JJ
+Rr‚ ©e{K„ðNe‚tËq…r™»tíËw ƒúñrðãtÞtk
+Þtu„þtMºtu ©ef]»ýtòow™ËkðtŒu ËkLÞtËÞtu„tu
+™t{tütŒþtuàæÞtÞ: >>18>>

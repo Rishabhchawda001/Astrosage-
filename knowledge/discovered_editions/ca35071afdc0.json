@@ -1,0 +1,102 @@
+{
+  "title": "\u0935\u0940\u0930 \u0938\u093e\u0935\u0930\u0915\u0930",
+  "discovered_at": "2026-07-13T17:37:03.516414+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "krantidoot-review-by-saket-suryesh-author-dr.-manish-shrivastava",
+      "title": "Krantidoot Review By Saket Suryesh Author Dr. Manish Shrivastava",
+      "creator": "Manish Shrivastava",
+      "year": 2022,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "20231125_20231125_0339",
+      "title": "\u091b\u0939 \u0938\u094d\u0935\u0930\u094d\u0923\u093f\u092e \u092a\u0943\u0937\u094d\u0920 \u0932\u0947\u0916\u0915 \u0935\u093f\u0928\u093e\u092f\u0915 \u0926\u093e\u092e\u094b\u0926\u0930 \u0938\u093e\u0935\u0930\u0915\u0930",
+      "creator": "\u0926\u093e\u092e\u094b\u0926\u0930 \u0938\u093e\u0935\u0930\u0915\u0930",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "1857_ka_swatantryaSamar",
+      "title": "1857 \u0915\u093e \u0938\u094d\u0935\u093e\u0924\u0902\u0924\u094d\u0930\u094d\u092f \u0938\u092e\u0930",
+      "creator": "Pushkar",
+      "year": 2018,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4380363121",
+      "title": "\u00e0\u00a4\u00b9\u00e0\u00a4\u00bf\u00e0\u00a4\u201a\u00e0\u00a4\u00a6\u00e0\u00a5\u201a \u00e0\u00a4\u00b0\u00e0\u00a4\u00be\u00e0\u00a4\u00b7\u00e0\u00a5\u00e0\u00a4\u0178\u00e0\u00a5\u00e0\u00a4\u00b0 \u00e0\u00a4\u00b5 \u00e0\u00a4\u00e0\u00a4\u00be\u00e0\u00a4\u00b0\u00e0\u00a4\u00a4\u00e0\u00a5\u20ac\u00e0\u00a4\u00af \u00e0\u00a4\u2020\u00e0\u00a4\u0153\u00e0\u00a4\u00be\u00e0\u00a4\u00a6\u00e0\u00a5\u20ac \u00e0\u00a4\u2022\u00e0\u00a5\u2021 \u00e0\u00a4\u00aa\u00e0\u00a5\u00e0\u00a4\u00b0\u00e0\u00a5\u2039\u00e0\u00a4\u00a7\u00e0\u00a4\u00be \u00e0\u00a4\u2022\u00e0\u00a5\u00e0\u00a4\u00b0\u00e0\u00a4\u00be\u00e0\u00a4\u201a\u00e0\u00a4\u00a4\u00e0\u00a4\u00bf\u00e0\u00a4\u2022\u00e0\u00a4\u00be\u00e0\u00a4\u00b0\u00e0\u00a5\u20ac \u00e0\u00a4\u00b5\u00e0\u00a5\u20ac\u00e0\u00a4\u00b0 \u00e0\u00a4\u00b8\u00e0\u00a4\u00be\u00e0\u00a4\u00b5\u00e0\u00a4\u00b0\u00e0\u00a4\u2022\u00e0\u00a4\u00b0",
+      "year": 2021,
+      "is_oa": false,
+      "oa_url": null,
+      "authors": [
+        "\u00e0\u00a4\u0161\u00e0\u00a4\u201a\u00e0\u00a4\u00a6\u00e0\u00a5\u008d\u00e0\u00a4\u00b0 \u00e0\u00a4\u00a6\u00e0\u00a4\u00be\u00e0\u00a4\u00b8"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4400087698",
+      "title": "\u0938\u0935\u0924\u0924\u0930\u092f\u0935\u0930 \u0938\u0935\u0930\u0915\u0930 \u2013 \u090f\u0915 \u0905\u091c\u0930\u092e\u0930 \u0935\u092f\u0915\u0924\u092e\u0924\u0935",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "http://dx.doi.org/10.69758/wgrv1679",
+      "authors": [
+        "\u0936\u094d\u0930\u0940\u092e\u0924\u0940 \u0938\u0941\u092a\u094d\u0930\u093f\u092f\u093e \u092e\u0928\u094b\u0939\u0930 \u092a\u093e\u0902\u0921\u0947"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "107-Valmiki-Ramayan-Telugu",
+  "discovered_at": "2026-07-13T11:56:43.773137+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4400983849",
+      "title": "From Agni to Agency: Sita\u2019s Liberation in Arni and Chitrakar\u2019s Graphic Retelling of the Ramayana",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://www.mdpi.com/2076-0787/13/4/97/pdf?version=1721651970",
+      "authors": [
+        "Dhruvee Sinha",
+        "Zeeshan Ali"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2979456265",
+      "title": "Hindi Christian Literature in Contemporary India",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9780367330637&type=googlepdf",
+      "authors": [
+        "Rakesh Peter-Dass"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4400983849",
+      "title": "From Agni to Agency: Sita\u2019s Liberation in Arni and Chitrakar\u2019s Graphic Retelling of the Ramayana",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://www.mdpi.com/2076-0787/13/4/97/pdf?version=1721651970",
+      "authors": [
+        "Dhruvee Sinha",
+        "Zeeshan Ali"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2979456265",
+      "title": "Hindi Christian Literature in Contemporary India",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9780367330637&type=googlepdf",
+      "authors": [
+        "Rakesh Peter-Dass"
+      ]
+    }
+  ]
+}

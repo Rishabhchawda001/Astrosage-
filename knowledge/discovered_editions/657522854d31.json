@@ -1,0 +1,31 @@
+{
+  "title": "vayu puran banaras",
+  "discovered_at": "2026-07-13T17:09:33.283458+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4210443200",
+      "title": "Exploring the Science of Marma - An Ancient Healing Technique: Marma in Yoga and Other Ancient Indian Traditions",
+      "year": 2022,
+      "is_oa": true,
+      "oa_url": "http://dsiij.dsvv.ac.in/index.php/dsiij/article/download/156/215",
+      "authors": [
+        "Alka Mishra",
+        "Vandana Shrivastava"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4206220423",
+      "title": "Exploring the Science of Marma - An Ancient Healing Technique - Part 3: Marma in Yoga and Other Ancient Indian Traditions",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://osf.io/f4a2y/download",
+      "authors": [
+        "Alka Mishra",
+        "Vandana Shrivastava"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "title": "sadhak_sanjivini_sanskrit_hindi",
+  "discovered_at": "2026-07-13T16:58:59.830792+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "sadhak_sanjivini_sanskrit_hindi",
+      "title": "sadhak_sanjivini_sanskrit_hindi",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "sadhak_sanjivini_sanskrit_hindi",
+      "title": "sadhak_sanjivini_sanskrit_hindi",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3036656546",
+      "title": "Exploring the Possible Applicability of Yagya in Present Time: A Review",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://osf.io/zepgd/download",
+      "authors": [
+        "Vandana Shrivastava",
+        "Saurabh Mishra",
+        "Alka Mishra"
+      ]
+    }
+  ]
+}

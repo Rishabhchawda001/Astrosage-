@@ -1,0 +1,33 @@
+{
+  "title": "Garud Puran complete",
+  "discovered_at": "2026-07-13T13:12:54.655458+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2972219719",
+      "title": "Data\u2010Driven Materials Science: Status, Challenges, and Perspectives",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/advs.201900808",
+      "authors": [
+        "Lauri Himanen",
+        "Amber Geurts",
+        "Adam Stuart Foster"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3014091026",
+      "title": "Data\u2010Driven Materials Science: Status, Challenges, and Perspectives",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.1002/advs.201903667",
+      "authors": [
+        "Lauri Himanen",
+        "Amber Geurts",
+        "Adam S. Foster"
+      ]
+    }
+  ]
+}

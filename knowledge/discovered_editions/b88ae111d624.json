@@ -1,0 +1,81 @@
+{
+  "title": "Yog Puran",
+  "discovered_at": "2026-07-13T15:43:21.513080+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "20250126_20250126_1018",
+      "title": "\u0938\u0902\u092d\u094b\u0917 \u0938\u0947 \u0915\u0941\u0902\u0921\u0932\u093f\u0928\u0940 \u091c\u093e\u0917\u0930\u0923 \u0924\u0915",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "LCP Encrypted EPUB",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "Yograhasya_201707",
+      "title": "Yograhasya",
+      "creator": "SUVRATSUT",
+      "year": 2017,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "vichar-sangrah",
+      "title": "Vichar Sangrah",
+      "creator": "Pandit Gori Shankar Shastri, Care Adhytmik Punar Jagran, Spiritual Think Tank of India, 71 Arya, Nagar, Alwar 301001, Rajasthan, India, Publication 1956",
+      "year": 2025,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

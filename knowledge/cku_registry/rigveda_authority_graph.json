@@ -1,0 +1,68 @@
+{
+  "editions": [
+    {
+      "file": "rigveda_hindi.txt",
+      "publisher": "Ramgochind Trivedi",
+      "year": 1920,
+      "editor": "Ramgochind Trivedi",
+      "commentator": "Sayana",
+      "language": "Hindi",
+      "recension": "Shakala",
+      "authority_score": 55
+    },
+    {
+      "file": "rigveda_sayanacharya_djvu.txt",
+      "publisher": "Sayana",
+      "year": 1890,
+      "editor": "Sayana Acharya",
+      "commentator": "Sayana",
+      "language": "Sanskrit-Hindi",
+      "recension": "Shakala-Sayana",
+      "authority_score": 70
+    },
+    {
+      "file": "rigveda_samhita_ramtek_djvu.txt",
+      "publisher": "Ramtek",
+      "year": 1950,
+      "editor": "Unknown",
+      "commentator": "Unknown",
+      "language": "Sanskrit",
+      "recension": "Shakala",
+      "authority_score": 40
+    },
+    {
+      "file": "rigveda_jayadev_part1.txt",
+      "publisher": "Jayadev Sharma",
+      "year": 1975,
+      "editor": "Jayadev Sharma",
+      "commentator": "Jayadev Sharma",
+      "language": "Hindi",
+      "recension": "Shakala-Bhashya",
+      "authority_score": 50
+    }
+  ],
+  "families": [
+    {
+      "name": "Sayana Bhashya",
+      "editions": [
+        "rigveda_sayanacharya_djvu.txt"
+      ]
+    },
+    {
+      "name": "Ramgochind Trivedi",
+      "editions": [
+        "rigveda_hindi.txt"
+      ]
+    },
+    {
+      "name": "Jayadev Sharma",
+      "editions": [
+        "rigveda_jayadev_part1.txt"
+      ]
+    }
+  ],
+  "primary_witness": "rigveda_sayanacharya_djvu.txt",
+  "canonical_reconstruction": "Authority-weighted: Sayana Bhashya as primary, others as variants",
+  "scripture": "Rigveda",
+  "date": "2026-07-14T09:15:38.590314"
+}

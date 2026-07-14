@@ -1,0 +1,14708 @@
+# Skand puran 14
+
+**Document ID:** DOC-AC77F888EE66
+**Language:** english (latin)
+**Pages:** 343
+**Class:** native_text
+**SHA256:** `ac77f888ee66e1e270838668ec76af0724ba68c213cc72ecc7281e802833cfc1`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+ANCIENT INDIAN 
+TRADITION & MYfHOLOGY 
+Translated by 
+A BOARD OF SCHOlARS 
+Edited by 
+DR G.P. BHATI 
+" 
+VoLUME 62
+
+## Page 3
+
+ANCIENT INDIAN TRADITION AND 
+MYTHOLOGY SERIES 
+[VOLUMES REL EA SED] 
+VOLUMES 
+SIVA 1-4 
+LINGA 5-6 
+BHAGAVATA 7-11 
+GARUJ;>A 12-14 
+NARADA 15-19 
+KURMA 20-21 
+BRAHMANJ;>A 22-26 
+AGNI 27-30 
+vARAHA 31-32 
+BRAHMA 33-36 
+VAYU 37-38 
+PADMA 39-48 
+SKANDA, PARTS I-XIV, 49-62 
+VOLUMES UNDER PREPARATION 
+SKANDA, PARTS XV-XXIII 
+BHAVI!:)YA 
+BRAHMAVAIVARTA 
+DEViBHAGAVATA 
+KALIKA 
+MARKADJ;>EYA 
+MATSYA 
+VAMANA 
+VI!:)DU 
+VI!:)DUDHARMOTTARA
+
+## Page 4
+
+THE 
+SKANDA-PURANA 
+. 
+Translated and Annotated by 
+DR. G.V. TAGARE 
+PART XIV 
+MOTILAL BANARSIDASS PUBLISHERS 
+PRIVATE LIMITED e DELHI
+
+## Page 5
+
+First Editiun: Delhi, 1999 
+C MOTILAL BANARSIDASS PUBUSHERS PRIVATE UMITED 
+All Rights Reserved 
+ISBN: 81-20S-1698-6 
+Also availabk at: 
+MOTILAL BANARSIDASS 
+236 Sri Ranga, 9th Main ill Block, Jayanagar, Bangalore 560 011 
+41 U.A. Bungalow Road, Jawahar Nagar, Delhi 110 007 
+8 Mahalaxmi Chamber, Warden Road, Mumbai 400 026 
+120 Royapettah High Road, Mylapore, Chennai 600 004 
+Sanas Plaza, 1302, Baji Rao Road, Pune 411 002 
+8 Camac Street, Calcutta 700 017 
+Ashok Rajpath, Patna 800 004 
+Chowk, Varanasi 221 001 
+UNESCO COLLECTION OF REPRESENTATIVE WORKS-Indian Series. 
+This book has been acapted in tlu Indian Translation Series of tlu UNESCO 
+Collection of Rejrresmtative Wmfcs, jointly sponsured by tlu United 
+Nations Educatitmal, Scientific and Cultural . Organizt.Jtion 
+(UNESCO) and tlu Government of India 
+PRINTED IN INDIA 
+BY JAINENDRA PRAKASH JAIN AT SHRI JAINENDRA PRESS, 
+A-45 NARAINA, PHASE I, NEW DELHI 110 028 
+AND PUBLISHED BY NARENDRA PRAKASH JAIN FOR 
+MOTILAL BANARSIDASS PUBLISHERS PRIVATE UMITED, 
+BUNGALOW ROAD, DELHI 110 007
+
+## Page 6
+
+PUBUSHERS NOTE 
+The purest gems lie hidden in the Ԗattorn of the ocean or in the 
+depth of rocks. One has to dive into the ocean or delve into the 
+rocks to find them ouL Similarly, truth lies concealed in the language 
+which with the passage of time has become obsolete. Man has to 
+learn that language before he discovers that truth. 
+But he has neither the means nor the leisure to embark on that 
+course. We have, therefore, planned to ·help him acquire knowl­
+edge by an easier course. We have started the series of Ancient 
+Indian Tradition and Mythology in English Translation. Our goal 
+is to universalize knowledge through the most popular interna­
+tional medium of expression. The publication of the Purar;tas in 
+English Translation is a step towards that goal. 
+Acknowledgements 
+It is our pleasant duty to put on record our sincere thanks to 
+Dr. R.N. Dandekar and the UNESCO authorities for their kind 
+encouragement .and valuable help in the publication of the 
+volumes in this series.
+
+## Page 7
+
+PuBLISHERs NoTE 
+ABBREVIATIONS 
+CONTENTS 
+SKANDA-PURAëA 
+BooK V: A VANTYA-KHAëI;>A 
+SECTION III: REV A-KHAëI;>A 
+v 
+xi 
+1. Pural)a Texts Described 
+1 
+2. The Greatness of Reva 
+6 
+3. Markai)Qeya Rescued in the Pralaya 
+10 
+4. Boons to Narmada 
+13 
+5. Naming the River Narmada 
+1 7 
+6. Epithets of Narmada Explained 
+21 
+7. The Advent of Kiirma Kalpa 
+25 
+8. The Advent of Baka Kalpa 
+27 
+9 . The Origin of Narmada 
+30 
+10. The Benefits of Bath in Narmada 
+34 
+1 1 . The Greatness of Narmada 
+40 
+12. Eulogy of Narmada 
+48 
+13. The Story of Twentyone Kalps 
+50 
+14. Kalaratri Annihilates the Universe 
+53 
+15. Turbulence of the Annihilation (Pralaya) 
+58 
+16. Eulogy of Siva by Brahma 
+62 
+17. Annihilation by Twelve Suns 
+64 
+18. Glorification of Narmada 
+68 
+19 
+.. Varahakalpa 
+69 
+20. Varahakalpa (continued) 
+74 
+21. The Origin of the River Kapila 
+81 
+22. The Origin of Visalya 
+87 
+23. The Greatness of the Confluence of Visalya 
+89 
+24. The Greatness of the Confluence of Karanarmada 
+91 
+25. The Greatness of the Confluence of Nilagailga 
+91 
+26. The Observance Called Madhiika Trtiya 
+92 
+27. Creating Agitation in Tripura 
+106 
+28. Destruction of Tripura: Glorification of Jvale8vara 
+and Amare8vara Tirthas 
+107
+
+## Page 8
+
+Skanda Purii:T)a 
+29. The Greatness of the Confluence of Kaveri 
+and Narmada 
+30. The Glory of Daru Tirtha 
+31. The Greatness of Brahmavarta 
+32. The Greatness of Patresvara Tirtha 
+33. The Greatness of Agni Tirtha 
+34. Description of Ravi Tirtha 
+35. Glorification of Meghanada Tirtha 
+36. The Glory of Daruka Tirtha 
+37. Glorification .of Deva Tirtha 
+38. The Greatness of Narmade8vara Tirtha 
+39. The Greatness of Kapila Tirtha 
+40. The Greatness of Karaiije8vara Tirtha 
+41. The Greatness of Kur:tQ.ale8vara Tirtha 
+42. The Greatness of Pippalada Tirtha 
+43. The Greatness of Vimale8vara Tirtha 
+44. Eulogy of Sulabheda 
+45. Andhaka Gets a Boon 
+46. Abduction of Saci 
+47. Devas Return to Svarga 
+48. Andbaka Blessed 
+49. Glorification of Sulabheda 
+50. Rules about the Eligibility for Dana 
+51. Glorification of Danadharma 
+52. The Story of Dirghatapas 
+53. :\U.asp'lga Goes to Svarga 
+54. Dirghatapas Goes to Heaven 
+55. KaSiraja Attains Moka 
+56. Fruit of Dana Described 
+57. The Sahara Goes to Svarga 
+58. The Greatness of Siilabheda Tirtha 
+59. The Greatness of Aditya Tirtha 
+60. The Greatness of Adityesvara Tirtha 
+61. The Greatness of Sakresvara Tirtha 
+62. The Greatness of KaroQ.isvara Tirtha 
+63. The Greatness of Kumaresvara Tirtha 
+64. The Greatness of Agastyesvara Tirtha 
+65. The Greatness of Anandesvara Tirtha 
+66. The Greatness of Matrtirtha 
+67. The Greatness of Lmi.ke8vara Tirtha 
+117 
+121 
+122 
+123 
+125 
+129 
+131 
+133 
+135 
+137 
+143 
+146 
+148 
+i51 
+156 
+159 
+162 
+165 
+168 
+170 
+177 
+181 
+185 
+190 
+191 
+195 
+200 
+203 
+214 
+217 
+219 
+220 
+226 
+227 
+229 
+230 
+231 
+232 
+233
+
+## Page 9
+
+Contents 
+68. The Greatness of Dhanada 
+69. The Greatness of Marigalesvara Tirtha 
+70. The Greatness of Ravi Tirtha 
+7 1. The Greatness of Kamesvara Tirtha 
+72. The Greatness of Mal).inagesvara Tirtha 
+73. The Greatness of Goparesvara Tirtha 
+74. The Greatness of Gautameiivara Tirtha 
+75. The Greatness of Sarikhaciiqa Tirtha 
+76. The Greatness of Pareiivara Tirtha 
+77. The Greatness of Bhimeiivara Tirtha 
+78. The Greatness of Naradesvara Tirtha 
+79. The Greatness of Dadhiskanda and 
+Madhuskanda Tirthas 
+80. The Greatness of Nandikeiivara Tirtha 
+81. The Greatness of Varul).eiivara TI;tha 
+82. The Greatness of Pafica Tirtha(s) 
+83. The Greatness of Haniimanteiivara Tirtha 
+84. Kapi and Other Tirthas 
+85. The Greatness of Somanatha Tirtha 
+86. The. Greatness of Pirigaleiivara Tirtha 
+87. The Greatness of \b:la-tray-mocana Tirtha 
+88. The Greatness of Kapilesvara Tirtha 
+89. The Greatness of Piitikesvara Tirtha 
+90. The Greatness of Jalasayi Tirtha 
+9 1. The Greatness of Cal).c;laditya Tirtha 
+92. The Greatness of Yamahasya Tirtha 
+93. The Greatness of Kalhoqi Tirtha 
+94. The Greatness of Nandikesvara Tirtha 
+95. The Greatness of Narayal).a. Tirtha 
+96. The Greatness of Kopsvara Tirtha 
+97. The Greatness of Vyasa Tirtha 
+98. The Greatness of Prabhasa Tirtha 
+99. The Greatness of Nageiivara Tirtha 
+100. The Greatness of Markal).qeiivara Tirtha 
+ix 
+242 
+243 
+244 
+245 
+245 
+25 1 
+253 
+254 
+254 
+256 
+257 
+260 
+26 1 
+262 
+263 
+264 
+274 
+279 
+288 
+290 
+290 
+29 1 
+292 
+30 1 
+302 
+305 
+306 
+306 
+308 
+309 
+325 
+328 
+33 1
+
+## Page 11
+
+ABBREVIATIONS 
+Common and self-evident abbreviations such as Ch (s) -Chapter(s) , 
+p-page, pp-pages, v-verse, vv-verses, Ftn-Footnote, Hist. Ind. 
+Philo.-History of Indian Philosophy are not included in this list. 
+AGP 
+AIHT 
+AITM 
+AP 
+AV 
+Bdp 
+BG 
+BhP 
+Br 
+BsP 
+BVP 
+cc 
+cvs 
+DB 
+De or 
+GDAMI 
+DhS 
+GP 
+GS 
+HD 
+JP 
+KA 
+KP 
+S.M. Ali's The Geography of Puril7J.as, PPH, New Delhi, 
+1973 
+Ancient Indian Historical Tradition, F.E. Pargiter, Motilal 
+Banarsidass (MLBD) , Delhi 
+Ancient Indian Tradition and !vtythology Series, MLBD, 
+Delhi 
+Agni Pura7J.a, Guru Mandai Edition (GM) , Calcutta, 
+1957 
+Atharoa Veda, Svadhyaya MaԘ:tcJal, Aundh 
+Brahmii:rJ4a Puril7J.a, MLBD, Delhi, 1973 
+Bhagavadgita 
+Bhagavata Pura7J.a, Bhagavat Vidyapeeth, Ahmedabad 
+Brilhma7J.a (preceded by name such as Satapatha) 
+Bhavirya Puril7J.a, Vishnu Shastri Bapat, Wai 
+Brahma Vaivarta Pura7J.a, GM, 1955-57 
+Caturoarga Cintiima7J.i by Hemadri 
+Cara7J.a Vyitha Sittra by Saunaka, Com. by Mahidasa. 
+Dedi Bhiigavata, GM, 1960-61 
+The Geographical Dictionary of Ancient and Medieval 
+India, N.L. De/Dey, Oriental Reprint, Delhi, 197 1 
+Dharma Sittra (preceded by the author's name such 
+as Gautama) 
+Garu4a Pura7J.a, ed. R.S. Bhattacharya, Chowkhamba, 
+Varanasi, 1964 
+Grhya Sittra (preceded by the name of the author 
+such as Apastamba) 
+History of Dharma Siistra, P.V. Kane, G.O.S. 
+Puril7J.a Qoumal of the Kashiraj Trust) , Varanasi 
+Kautilya ArthaSiistra 
+Kitrma Puril7J.a, Venkate5vara Press Edn., Bombay; also 
+Kashiraj Trust Edn., Varanasi, 197 1
+
+## Page 12
+
+xii 
+LP 
+Manu 
+Mbh 
+MkP 
+MN 
+MtP 
+MW 
+NP 
+PdP 
+PE 
+PR or 
+PRHRC 
+ħv 
+Sat Br 
+SC or SMC 
+Skp 
+SP 
+VaP 
+VR 
+VdP 
+VmP 
+VP 
+VrP 
+Skanda Puriz1J.Q 
+Linga Puriz7J.a, GM, 1960; also MLBD, Delhi, 1981 
+Manusmrti 
+Mahabharata, Gita Press, Gorakhpur, VS 2014 
+Mizika1J.4eJa Puriz7J.a 
+Mahizbhizrata Nizmiznukrama1J.'i, Gita Press, Gorakhpur, 
+vs 2016 
+Matsya Puriz1J.a, GM, 1954 
+M. Monier-Williams' Sanskrit-English Dictionary, MLBD, 
+Delhi, .1976 
+Nizradiya or Nizrada Puriz1J.a, Venkatdvara Press, 
+Bombay 
+Padma Pura7J.a, GM, 1957-59 
+Puriz1J.iC Encyclopaedia, V. Mani, English Version, 
+MLBD, Delhi, 1975 
+Puranic Records on Hindu Rites and Customs, 
+R.C. Hazra, Calcutta, 1948 
+IJg Veda, Svadhyaya MaQ.<;lal, Aundh 
+Satapatha Brizhma7J.a 
+Smrti Candrikiz by Devanna Bhana 
+Skanda Puriz1J.a 
+Siva Puriz7J.a 
+Vizyu Puriz1J.Q 
+Vizlmiki Riimizya7J.a 
+Vi¹1J.udharmottara Puriz1J.a 
+Vizmana Puriz1J.Q 
+Vi¹'TJ.U Puriz1J.a 
+Varizha Puriz1J.Q
+
+## Page 13
+
+SKANDA PURA.rǒA 
+BooK V: AVANTYA-KHAëJ;)A 
+SECfiON III: REV A-KHAëJ;)A 
+CHAPTER ONE 
+Purii:r.ta Texts Described 
+Obeisance to Sri Gar;te5a. 
+Om obeisance to Sri Puru¢ottama. 
+Om obeisance to Sri Narmada. 
+Om obeisance to Hari, Hanԗ and Hirar;tyagarbha. 
+Obeisance to Vyasa, Valmiki, Suka and Parasara. 
+Obeisance to Preceptors, Cows and Brahmar;tas. 
+I. 
+May the waters of Narmada protect ye all-the waters 
+which inebriate the swarms of bees with the fragrance of ichor 
+washed off from the temples of elephants taking a dip in her, 
+which are made tawny-coloured due to the -saffron dissolved 
+(and washed away) from the pairs of breasts of Siddha women 
+while they take their holy bath in her, of which trees on either 
+bank are strewn over with the flowers offered by sages every 
+morning and evening, (the waters) the force of the waves of 
+which is checked by alligators and trunks of elephants. 
+2. )fay Narmada with sacred places on her both banks, 
+who has washed off the masses of sins of all the worlds and is 
+worthy of being venerated by Devas, sages and human beings, 
+always dispel (our) sins. 
+3. 
+Narmada is possessed of meritorious waters. She has sanc­
+tified the ·entire earth. May she destroy all sins past, present 
+or future, of the people taking birth on the earth. 
+4. 
+Even ·ascetics desire her sandy banks. May Reva with Siva 
+as her deity, ever rendering service to multitudes of sages, be 
+conducive to my welfare. 
+5. 
+Mter bowing down to Narayar;ta and Nara, the most ex-
+
+## Page 14
+
+2 
+Skanda Pura7J-a 
+cellent one among men, to Goddess Sarasvatl and to Vyasa one 
+should recite Jaya1• 
+6-1 6. In the meritorious place of Naimiᤁa which was resorted 
+to by many sages, Saunaka who began a Satra (a sacrifice of 
+long duration) , asked Suta in detail: "0 Suta, I believe that 
+mastery of Dharma (holy rites and activities of piety) has been 
+greatly esteemed always by you. As a disciple of Vyasa, you 
+alone are the propounder of the divine, nectarine stories of 
+the PuraQ.as. Hence, 0 Kavi (the seer of things beyond) , I ask 
+you something pertaining to piety and holy places. There are 
+many holy spots and shrines. They have been heard by me too. 
+The divine river pertaining to Brahma (Sarasvatl) , as well as 
+the river pertaining to ViᤁQ.u (Ganga) have been heard by me. 
+The third excellent river (Narmada) pertaining to Rudra has 
+never been heard by me. 0 highly intelligent one, narrate 
+unto me the details about that holy river having the Vedas as 
+her sustaining basis-a river honoured and adored by the mul­
+titude of Devᦚs and consecrated by (the presence of) excellent 
+Tlrthas. What is that land which Reva has occupied? How has 
+she originated from Sri Rudra? Tell me all those Tlrthas which 
+have resorted to Reva. " 
+Suta said: 
+0 Kulapati (Head of the families) of sages, you have put a 
+pertinent question as to the nature of Narmada. She is won­
+derful, sacred, deStructive of faults when described or listened 
+to, 0 excellent one. The son of Satyavatl, who had a sense of 
+fulfilment after analysing, redacting and compiling the Vedas, 
+Upavedas, Vedarigas etc. is the expounder of the eighteen 
+PuraQ.as. After bowing down to him, I shall narrate the PuraQ.as 
+in due order. By giving discourse on them, there will be wel­
+come incᦠease in piety and longevity. The Sruti and Smrti texts 
+have been proclaimed as the eyes of Vipras (BrahmaQ.as) . One 
+bereft of one of these two is a one-eyed man and one bereft 
+of both is loudly proclaimed as blind. The Srutis, ᦡmrtis and 
+I. 
+]AYA: This was the title of Mahabharata. It was at first restricted to that 
+epic but ,was adopted by the Purai;as like Vayu and Brahma7J4a. Finally 
+Kalpalaru, on the authority of Bhav4ya Pura7;1a, conceded it to Valmiki 
+Riimaya1;1a (VR), 18 Mahapural)as and Manusmrti.
+
+## Page 15
+
+V.iii.l . 1 7-28 
+3 
+Purat:tas are the three eyes of learned men. He who sees through 
+these three is considered as part and parcel of Mahe5vara. 1 
+1 7-28. 
+The Vedic Vidya (lore) of the Atman was created 
+by Isvara himself. Then there is Saunaklya lore (the Mantra 
+lore such as Rgvidhana, etc.) . Then there is the Paurat:tikl lore 
+in the form of Dharmasastra (treatises on ethics, piety and 
+good conduct) . These three lores are very important ones in 
+taking definite decisions about all scriptural matters. This is 
+the command of Brahma that Purat:ta is (to be taken as) the 
+fifth Veda. He who does not know the Purat:ta does not under­
+stand anything here, whether it is a holy rite or piety or an 
+item of knowledge of any sort or anything else worthwhile. 
+What is there tl;lat is not found in the Purat:ta? 
+The Vedas have been well-ensconcep formerly in the Purat:ta. 
+There is no doubt about it. The Veda is terribly worried about 
+one with incomplete mastery of the Vedas apprehending, "He 
+will distort me. " 
+This is the conclusiᦜn arrived at earlier by Itihasas and Purat:tas 
+that the Purat:ta constitutes the soul of the Vedas; the well­
+known six Ailgas (ancillary subjects) are the different limbs; 
+what is found in the Vedas is seen in the Smrtis and what is 
+seen in both is narrated in the PuraQ.as. Among all scrjptural 
+treatises it was the Purat:ta that was remembered at the mᦝtset 
+by Brahma. Thereafter the Vedas issued forth from his mouths. 
+In this Kalpa and Manvantara there was only one Purat:ta, 0 
+sage. It was the means of acquiring the three aims of life. The 
+meritorious text consisted of a hundred crores of verses. The 
+Four-faced Lord remembered it and proclaimed it to the sages. 
+Thereafter the Purat:ta functioned as the source of all the 
+scriptural treatises. As time passed on the sage noticed the 
+inability of the people to comprehend the Purat:ta (due to 
+their deficient intellect) . The Lord assumes the form of Vyasa 
+during every Dvapara Yuga always and abridges the Purat:ta to 
+eight hundred thousand verses. This again is classified into 
+1. 
+W 16-28 describe the importance of Pura)Jas. It is possible that originally 
+there was one compendium called Pura)Ja. Due to later accretions, the 
+original Pura)Ja was divided into many independent works, now known 
+as eighteen Mahapura)Jas. But the exorbitant ci'aim that the original Pura)Ja 
+consisted of a hundred crore of verses and is retained in heaven is an 
+exaggerated glorification of Pura!Jas.
+
+## Page 16
+
+4 
+Skanda Purii7J.a 
+eighteen (separate Pural).as) and put into currency in the world 
+of mortals. Even to-day the Pural).a extends to a hundred crore 
+(verses) in Devaloka (world of immortals). 
+29-45a. 
+Further, here it has been still abridged into four 
+hundred thousand verses. These eighteen Pural).as extant now 
+are being enumerated here. 1 0 excellent sage, listen; I shall 
+mention them each by name. 
+The Pural).a has five characteristic features, viz. creation, 
+subsidiary creation, dynasties, Manvantaras and genealogical 
+legends (of kings). 
+There in the collection, the first Pural).a is Brahma. There 
+are ten thousand verses therein. It has a number of meritori­
+ous stories. Padma Pural).a is cited as consisting of fifty-five 
+thousand verses. The third Pural).a is ViZl).u Pural).a with twenty­
+three thousand verses. The fourth Pural).a was originally pro­
+claimed by Vayu. It is remembered as Vayaviya Pural).a. Since 
+devotion to Siva has been propounded in it, the other name 
+for it is Saiva. 0 Saunaka, there are twenty-four thousand verses 
+in it. The fifth Pural).a is cited as BhaviZya Pural).a containing 
+four Parvas (Books). There are fourteen thousand five hun­
+dred verses in it. The sixth Pural).a contains nine thousand 
+verses and it is glorified as Markal).c;leya Pural).a. Agneya Pural).a 
+is the seventh one and it contains sixteen thousand verses. The 
+eighth one is mentioned as Naradiya Pural).a. It consists of 
+twenty-five thousand verses. The ninth one is Bhagavata having 
+two parts. The nmpber of verses therein is eighteen thousand. 
+The tenth Pural).a, Brahma-vaivarta, has been mentioned as 
+containing the same number of verses. Linga Pural).a should 
+be known as the eleventh Pural).a. It has eleven thousand verses. 
+0 eminent sage, that Linga Purat:ta has two parts. They know 
+that the twelfth Pural).a is Varaha Pur:iil).a with twenty-four thousand 
+verses. 0 most excellent one among the illustrious ones, Skanda 
+Pural).a is divided into seven Khal).c;las. It is observed that the 
+number of verses in it is eighty-one thousand. Then the four­
+teenth Pural).a is Vamana by name. 0 Kulapati, ever since early 
+days it is declared to consist of ten thousand verses. Kaurma 
+1. 
+In this list of eighteen Purat)as, Vayu and Saiva Pural}a are regarded as 
+one and the same, though actually they are separate (Tagare, Intro. to 
+Vayu Pura7Ja, pp. XIX-XXV) . Matsya (53.1'8-19) , Agni (272. 4-5) regard 
+Vayu (and not Siva) as a Mahapural}a.
+
+## Page 17
+
+V.iii. l. 45b-53 
+5 
+PuraQ.a, the fifteenth PuraQ.a, they say, has two parts. In Kali 
+age, 0 Lord of Sarikhyas, it has seventeen thousand verses. 
+Matsya PuraQ.a, the sixteenth one in the order, was narrated 
+to Manu by die Fish (Lord in that incarnation) . 0 most elo­
+quent one, the verses number fourteen thousand. Garuc;la PuraQ.a 
+is remembered as the seventeenth PuraQ.a. It has nineteen 
+thousand verses. The eighteenth PuraQ.a is BrahmaQ.c;la having 
+two parts. The number of verses is twelve thousand eight hundred. 
+45b-53. Similarly there are UpapuraQ.as which have been 
+narrated by Vedhas (Brahma) . 
+The excellent Saura UpapuraQ.a is a part of Brahma PuraQ.a. 
+It has two versions. It is an easily accessible UpapuraQ.a based 
+on the meritorious story of Siva. The first version is propounded 
+by Sanatkumara and the second one has been uttered by Surya. 
+0 great sage, it is well known by the nalfle of Sanatkumara. 
+The second UpapuraQ.a is Narasirhha. It forms a part of Padma 
+PuraQ.a. Saukeya (that of Suka) is the third and is considered 
+as a part of ViᤁQ.u PuraQ.a. The fourth one is Barhaspatya; it 
+is always honoured as an ancillary to Vayu PuraQ.a. The fifth 
+UpapuraQ.a is Daurvasasa. It is always ancillary to Bhagavata. 
+N·arada UpapuraQ.a is mentioned by poets (learned men) as an 
+ancillary to Bhaviᤁya. (Then there <;_re) Kapila, Manava and 
+one narrated by Usanas. VaruQ.a and the two Kalika UpapuraQ.as 
+are ancillary to BrahmaQ.c;la. Samba and Saura UpapuraQ.as with 
+the collection of all topics are Mahesvara (pertaining to 
+Mahesvara-Siva) . Then there are Parasara, Bhagavata and Kaurma 
+the eighteenth. These eighteen UpapuraQ.as have been enu­
+merated by me in due order. He who listens to or recites this 
+PuraQ.asarhhita becomes sharer of infinite merit. On death he 
+goes to the city of Brahma.
+
+## Page 18
+
+6 
+Skanda Purii:r;,a 
+CHAPTER TWO 
+The Greatness of &vii 1 
+Sitta said: 
+1-8. Kn:r:ta Dvaipayana recounted the greatness of Narmada. 
+It was what you asked me and I shall fully narrate it to you. 
+0 excellent sage, with the exception of Lord Brahma who is 
+competent to recount the details of the holy spots on Narmada? 
+Formerly Janamejaya put this very question to a disciple of 
+Dvaipayana named Vaisarilpayana. It has the meritorious ref­
+erence to the Tlrthas on Reva. I shall mention it to you, 0 
+Sa unaka. 
+Formerly King Janamejaya, the son of Parlkᤁita, was initiated 
+in the holy rites concerning Yajiia. All the articles for Havis 
+(sacrificial offering) had been gathered together. The rites 
+were going on. Eminent Brahma:r:tas were seated around and 
+the sacrificial fire had been kindled with the holy offerings 
+consigned to it. Everywhere pious discussions and discourses 
+were being .held. Day and night, 0 Kulapati, the words "Let it 
+be given. Let it be consumed" were being uttered by the people, 
+in the phice of sacrifice. Those who were relaxed were indulg­
+ing in different pastimes. Thus the Yajiia was being performed 
+in the chamber that was on a par with the heavenly assembly 
+hall. Janamejaya then put this question to Vaisarilpayana who 
+was seated there: 
+Janamejaya said: 
+9-1 2. 0 Vaisarilpayana, it is known to me that by the grace 
+of Dvaipayana, you have acquired knowledge. Hence, in the 
+presence of the sages I am putting this question to you. Do tell 
+me the events of the past regarding the holy pilgrimages of my 
+forefathers. I have heard that they had experienced many kinds 
+of painful calamities for a long time. After being defeated in 
+the game of dice, the sons of Prtha, my grandfathers, began 
+to wander all over the earth girt by the ocean, with a strong 
+desire to visit holy spots. How did they fare in their wander-
+I. 
+This Purat:J.a identifies Revi with Narmada. But as De (p98) points out, 
+some Pural}.as like BhP, Vamana, treat Revi as an independent river.
+
+## Page 19
+
+V.iii.2. 1 3-28 
+7 
+ings, 0 BrahmaQ.a? By whom were they accompanied, 0 dear 
+one, in their travels over many parts and regions of the earth? 
+You have been considered by me as omniscient. Do tell me 
+these detailS. 
+Vaisampiiyana said: 
+1 3-1 6. 
+0 Lord of the earth, 0 sinless one, after making 
+obeisance to Lord Virfipakᤁa (Siva) and the great poet Vedavyasa, 
+I shall tell you what you have been asking. 
+The five PaQ.<;lavas, your grandfathers, spent some time in 
+the excellent Kamyaka forest1 along with Draupadl and BrahmaQ.as·. 
+In that forest where the chief person was Uddalaka, the highly 
+intelligent Kasyapa, VibhaQ.<;laka, the great sage, Guru, Pulastya, 
+Lomasa and others including their soᤨs lind grandsons lived. 
+There they had their holy ablutions in all the Tlrthas, 0 em­
+inent king. Then they went to the Vindhya mountain. 
+1 7-ᦞ8. 
+There they saw a holy hermitage surrounded by 
+trees such as Carhpaka, KarQ.ikara, Punnaga, Nagakesara, Bakula, 
+Kovidara, Da<;lima, etc. It was rendered beautiful by Arjuna 
+.trees in full bloom, Bilvas, Paᤃalas, Ketakas, Kadambas, Amras, 
+Madhukas, Nirhbas,Jamblras, Tindukas, Nalikeras (coconut trees), 
+Kapitthas, Kharjfiras and Panasas. ᦟIt was crowded and over­
+spread with various kinds of trees and creepers. It was spread 
+over by various winding tendrils. The whole park was full of 
+flowers and fruits. It was a big garden shining like Caitraratha 
+forest. It was adorned with extensive ponds and tanks. It was 
+embellished by clusters of lotuses. It was (as if) concealed by 
+white, blue, yellow, whitish pink lilies, etc. It was scattered with 
+Harhsas (swans) , KaraQ.<;lava geese, Cakravakas (ruddy geese), 
+etc. which enhanced its beauty. It was resorted to by many 
+types of birds such as A<;tis, Kakas (a kind of raven) , cranes, 
+cuckoos, etc. It abounded in many types of beasts such as lions, 
+tigers, boars, great elephants in their rut, huge-bodied buffa­
+loes, deer, Citrakas, rabbits, GaQ.<;lakas (rhinoceros) , jackals, 
+antelopes, bears (Bhallakas), bipeds as well as quadrupeds. It 
+was resplendent and pleasing to the mind. There were many 
+cuckoos too. Many kinds of birds such as Jlvafljlvaka flocks 
+I. 
+One Kamyaka Vana was on the banks of Sarasvati while another was in 
+the district of Mathura (De 88) .
+
+## Page 20
+
+8 
+Skanda Purii:r;ta 
+adorned it. The place was free from miseries and grief. It was 
+highly charming with smart and active animals. People were 
+free from hunger and thirst and devoid of all ailments. The 
+whole place attracted everyone. Here the deer used to suck at 
+the udders of lioness with great affection. Cat and mouse licked 
+each other with faces lifted up. The same was the case with 
+lions and elephant cubs, serpents and peacocks. On seeing 
+that beautiful forest the sons of PaQ.QU entered it. 
+29-36. 
+Dharmaputra saw there Sage MarkaQ.c.leya1 who had 
+the lustre like that of the midday Sun. He was attended upon 
+by sages who were mast᤼rs of the different scriptural texts. 
+They belonged to noble families. They had the Sattva qualities 
+and they strictly followed the conventions regarding cleanli­
+ness and good conduct. They performed Japa thrice everyday. 
+They were endowed with great intelligence, patience and for­
+titude. They were particular in performing Japa three times a 
+day. They were interested in regular performance of Homa 
+with the chanting of the Mantras of ᤒk. Yajus and Sarna Vedas. 
+Some of the attending sages were performing penances sitting 
+in the midst of five fires. Some preferred to stay in secluded 
+spots; some kept their arms raised up. Some remained without 
+any support. Others kept on moving along with the movement 
+of the Sun. Others took food in morning and evening. Still 
+others took only one meal per day. Some took food once in 
+twelve days. Some had food once a fortnight. Still others took 
+food on every new-moon day. Some used to eat moss. alone 
+from ponds. Still others regularly took in only PiQ.yaka (oil­
+cake) . Some ate Palasa leaves. A few had restricted regular 
+food. Some took in only air or water. The sage was attended 
+upon by eminent old sages of the types mentioned above. The 
+glorious son of Dharma entered the hermitage and saw the 
+quiescent, excellent sage, engaged in meditating on the great­
+est Being (Brahman) . After circumambulating, he prostrated 
+before him like a log of wood. 
+37-46. 
+On seeing Dharmaputra fallen at his feet with devotion, 
+the intelligent sage glanced at him for a long time and asked, 
+"Who are you?" 
+1. 
+MarkaJ:Ic;leya: A great sage who witnessed seven Kalpas. He was associated 
+with YudhiHhira as a member of his Sabha (Mbh, Sabhii, chs. 4-15) and 
+in his exile in the forest (Mbh, Vana, chs. 186-232) . He is the narrator 
+of Revii-Miihiitmya. 
+·
+
+## Page 21
+
+V.iii.2.47-58 
+9 
+On hearing his words, a boy near him said, "Here is Dharmaraja 
+who has come to meet you. " 
+On hearing the words uttered by the boy, he respectfuVy 
+said, "0 dear one, 0 dear one, do come, do come. " After 
+moving a little from his seat, the sage lovingly sniffed at his 
+head and made him seated. After he had been seated in the 
+assembly, he honoured him duly by offering cereals grown in 
+tlte forᦖst, fruits, roots and juices of various kihds. All the 
+PiiQ.<;lavas along with the BrahmaQ.as (accompanying· them) were 
+suitably honoured. 
+After resting for a short while, YudhiHhira, the son of Dharma, 
+asked the excellent sage with curiosity: "Sir, it is known to me 
+that you are the most long-lived one of all the people. 0 sinless 
+one, narrate unto me the relevant events {;If all the seven Kalpas. 
+Even when a Kalpa ends and when the mobile and immobile 
+beings perish, you do not (perish) , 0 eminent BrahmaQ.a. How 
+is this? What is the reason therefor? 0 sage, there are many 
+rivers including Ganga. All of them flow into the seas. Among 
+them which are those rivers that survive the Pralaya? What are 
+those that become dissolved? Which of thQse rivers are always 
+full of sacred waters? Which of them never get perished? 0 
+dear one, do tell me this with a delighted mind. I wish to hear 
+it entirely along with the sages and kinsmen." 
+Sri Marka7J.4eya said: 
+47-58. 
+Very well, 0 highly intelligent Yudhinhira, 0 son 
+of Dharma! I shall narrate duly what you have eagerly asked 
+for, 0 sinless one. This is the ancient meritorious legend re­
+counted by Rudra. It dispels all sins. Listen to the merit of one 
+who listens devoutly to it. 0 king, there is no doubt about this 
+that he will obtain that merit which is ordinarily obtained through 
+a thousand Asvamedhas and a hundred Vajapeyas. According 
+to the statement of Rudra, a Brahmana-slayer, a liquor-imbib­
+er, a thief, a cow-slayer-all these men become freed from all 
+SillS. 
+These rivers are remembered (i.e. traditionally ᦗnown) as 
+those that dispel all sins: Ganga, the most excellent one of all 
+the rivers, Sarasvati, Kaveri, Devika, Sindhu, Salakup, Sarayii, 
+Satarudra, Mahi, Carmila, the meritorious Godavari, the river
+
+## Page 22
+
+10 
+Skanda Purii:rJ.a 
+Yamuna, PayoᤁQi, Satadru and the splendid Dharmanadi. There 
+are other rivers too. 
+0 excellent king, I shall tell you the reason. The seas and 
+all the rivers get destroyed in every Kalpa. But even when 
+seven Kalpas passed away Narmada has not perished. 0 great 
+king, Narmada is the only excellent river that stays for the 
+longest time filled with water and eulogized by groups of sages, 
+0 blessed one. Ganga and other rivers become destroyed at 
+the end of every Kalpa. This divine river has been seen since 
+long. This I shall explain to you, 0 sinless one. 0 great king, 
+it is a miraculous river well-known in all the three worlds. 
+CHAPTER THREE 
+Miirkar:uf-eya Rescued in the Pralaya 
+Yudhi${hira said: 
+1-1 1 . 0 great sage, the terrible annihilation of seven Kalpas 
+has been witᦘessed by you. There is no one else here, 0 holy 
+Sir, who is so long-lived as you. Padmanabha (ViᤁQU with a 
+lotus in the navel) , the slayer of Asuras, who has a thousand 
+feet1, eyes and bellies has been seen by you when he was lying 
+asleep in the vast expanse of water. When the mobile and 
+immobile beings were being burnt, it was through the grace 
+of that Lord that you were not destroyed. It was due to the 
+boon granted by the Noble Soul. 0 sinless one, what were the 
+miracles seen by you, as you were wandering about? 0 holy Sir, 
+mention this. My curiosity is great. When the terrible end oi 
+the Yuga was imminent, when there was excessively terrible 
+destruction, when all the worlds were formerly afflicted with 
+drought extending to more than a hundred years, when the 
+destruction of vegetation and medicinal herbs was awful, when 
+there were neither the Devas nor the Danavas, when every­
+thing was devoid of vigour, when there was no u-tterance of 
+Vaᤌaᤍ, when everything was defiled much by Kali, when the 
+rivers, lakes, ponds, puddles and par-ks became dried up, when, 
+1. 
+An echo of Puruda-siikta (RV X.90) . Here Vigm is identified with the 
+Primeval Man.
+
+## Page 23
+
+V.iii.3.12-22 
+1 1 
+0 holy Sir, Maharloka merged into Janaloka, where were the 
+noble-souled sages, the BrahmaQas, the ᤧ
+atriyas, the Vaiiiyas, 
+etc. and the sages equipped with divine splendour? 0 great 
+sage, when all beings are destroyed, which of the living beings 
+remained stable (alive) ? Did they disappear altogether? Do 
+mention, 0 highly fortunate one, all these things severally. 
+What are the elements? 0 eminent BrahmaQa, how can one 
+atᦙain Siddhi when the terribly hideous Kala had caught hold 
+of .even Brahma, ViᤁQu, Indra and Rudra? 
+On being enquired thus by Dharmanlja, the wise Sage Markan<;la 
+surrounded by groups of sages, said thus: 
+Sri MiirkmJ4eya said: 
+1 2-22. 
+0 king, let all the sages along with you listen to 
+the great PuraQa narrated by Sarilbhu to the Vayudevata1• This 
+ancient work was heard by Skanda from Vayu. VasiHha heard 
+it from him and Paraiiara from him. From him (Parasara) it was 
+heard by JatiikarQya and by the great sages from the latter. 
+Thus it was traditionally narrated by hundreds of excellent 
+BrahmaQas. The Sarilhita consisting of a hundred thousand 
+verses was narrated by Sarilbhu indeed by thoroughly explor­
+ing earlier all the Sastras and the deeper meaning of the Vedas 
+in fact. Later it was classified into four, in accordance with the 
+four Yugas, after due consideration by great sages, of the deficiency 
+in the intellects of men. Mter propitiating Paiiubhartr (i.e. 
+Paiiupati-Siva) , the great Lord, I heard this PuraQa which · I 
+shall narrate entirely to you. On hearing this, 0 king, all the 
+creatures are freed from all sins, mental and physical, accumu­
+lated in the course of seven births. With the favour of ViᤌQU 
+Parameᤁthin, the Lord of Devas, I have repeatedly witnessed 
+the terrible destructions of seven Kalpas. When the whole universe 
+was utterly burnt by the twelve Adityas and everything was 
+turned into a vast expanse of water, I had to swim through the 
+ocean with the movement of my arms. Wandering (swimming) 
+thus, I became utterly exhausted. Then, 0 king, I saw in the 
+water the ancient Puruᤌa, the Lord without beginning and 
+1 . 
+W 1 2-14 give the Text-transmission ofReva KhaiJ.<Ja through Gum-parampam 
+as follows: Sambhu-+Vayu-+Skanda-+Vasid!ha-+PariSara-+Jatiikarr}.ya-+Vyasa-+ 
+Suta.
+
+## Page 24
+
+1 2 
+Skanda Purii:rJ.a 
+destruction, having lustre like that of the Sun. He had bright­
+ened the peak of the Lord of Mountains and all the ten quarters. 
+A second person, Manu, was seen, accompanied by his sons 
+and grandsons. 
+23-32. 
+He too was drifting in the great deep sea envel­
+oped in darkness. He was whirling round and round as though 
+perched on the rim of a wheel, without resting even for a short 
+while. 
+Swimming in the great sea with the movements of the arms, 
+I became afraid and dispirited. Stationed there, I saw the great 
+Fish in an inebriated state. 0 descendant of Bharata, he spoke 
+to me on seeing me: "Do come; do come. " He was Mahesvara 
+in the form of a fish, the most important and the chief of all. 
+Thereupon, 0 Lord of men, I hurriedly proceeded near the 
+mouth of that Lord. I lost consciousness and became utterly 
+exhausted and disgusted. Then I saw at the extremity (end) 
+of the ocean, a meritorious river meandering as it wished1• She 
+had many whirlpools and eddies. Waves were set in motion in 
+the waters and she seemed to laugh boisterously by means of 
+the foams. Fishes of diverse kinds swimming therein made the 
+waters agitated. There was a young woman of comely appear­
+ance in the. middle of the river. She was dark in complexion 
+like the petals of a blue lotus. The current of the river was 
+quite agitated with ripples. Her bodily limbs had the divine 
+golden colour. She shone remarkably like molten gold. She 
+had kept a big boat pressed on either side by the pair of her 
+knees. Manu asked her: "0 divinely excellent lady, who may 
+you be? 0 celestial lady of great beauty, what may be the 
+purpose for which you stand here? When both Suras and Asuras 
+have perished, you are moving about in the ocean gracefully! 
+The rivers, the oceans and the mountains have perished. 0 
+chaste lady, how is it that you .alone among these many stay 
+behind? t wish to hear the great reason therefor. 0 goddess, 
+tell me without omitting anything. " 
+The Abalii (the frail lady) said: 
+33-41 . 
+I am the sin-destroying meritorious river well known 
+by the name Amrta. I have originated from the limbs of Isvara. 
+1 . 
+Six Kalpas are described to affirm the imperishability ofReva. Sage Marka1.1¾eya 
+is a witness as he too was with her in those Pralayas.
+
+## Page 25
+
+V.iii.4. 1-6 
+1 3 
+Whence is fear if you resort to me? 0 Brahma:Q.a, I have brought 
+this boat for your sake. Sankara is stationed therein. Hence it 
+will not get destroyed. 
+On hearing her words, my eyes became dilated with wonder. 
+I got into the boat, 0 great king, along with Manu. With palms 
+joined in veneration, I bowed down to the Lord, the all-per­
+vading great Isana, the bestower of freedom from fear, and 
+eulogized · him: 
+"Obeisance to Lord Sadyojata and Vamadeva. Obeisance unto 
+you in every birth. Obeisance to you who are attainable through 
+devotion. Obeisance to BhuQ. and BhuvaQ.. Obeisance to the 
+Lord senior to Rama (Viᤁ:r:tu) . Obeisance to you, 0 fair Lord 
+Kala; obeisance to one in the form of Kali. Obeisance to the 
+incomprehensible one, the one of unmanifest form; to the 
+great Lord and abode of brilliance. We do know the Lord of 
+Lords, 0 Rudra. Obeisance, obeisance . to you. Obeisance to 
+the cause of the creation and annihilation of the universe. 
+Obeisance. ,; 
+Thus eulogized by me before the creation (of the world) , 
+the great Lord became pleased with me. Then he said: "0 
+devotee of excellent holy rites, choo·se a boon. "1 
+CHAPTER FOUR 
+Boons to Narmada 
+Sri Mqrkar.u!eya said: 
+1-6. Then I alighted from the sea (the boat) along with 
+Manu and bowed to the pair of feet of Mahadeva saluted by 
+all Devas. He was stationed on the peak of Trikuᤃᦚ2 having the 
+lustre of gold and comprising rocks of various colours. The 
+Lord was seated on a great peak. He was accompanied by a 
+crore of Rudras. The unborn, immutable Lord of the noble 
+soul identical with all living beings was ᦛaluted by us both. 0 
+1 . 
+This seems to be an abrupt end of the chapter. 
+2. 
+A lofty mountain to the north of Panjab and south of Kashmir, the Tri· 
+kakud of the Atharva Veda (De 1 06) .
+
+## Page 26
+
+14 
+Skanda Purii1Ja 
+king worthy of esteem, 0 scion of the family of Kuru, I stayed 
+in that terrible, vast expanse of water along with Rudra for a 
+thousand Yugas. 
+Yudhi¸!hira said: 
+0 dear Sir, on hearing this a great deal of curiosity has been 
+aroused in my mind. Hence even as I listen along with my 
+kinsmen, please tell in detail who was that lady of eyes resem­
+bling lotus leaves? She was wandering like a Ybgin in that vast 
+ocean-like expanse of water enveloped by darkness. She intro­
+duced herself as the daughter of Rudra. 
+Sri Miirka1J,tf,eya said: 
+7-1 2. 
+Formerly Manu was asked by me this same ques-
+tion. 
+I shall recount the origin of that lady. The night of 
+Brahma Parameᤁthin passed off and the bright day dawned. 
+The creatures were being created. Then I bowed down my 
+head to Manu, 0 Yudhiᤁthira, and put to him this question: 
+"Who is this lotus-eyed, dark-complexioned lady with a coun­
+tenance resembling the Moon? She declares herself to have 
+been born of Rudra and wanders in the vast expanse of waters. 
+Is she Savitri, the mother of the Vedas? Or is she Sarasvati? Is 
+she Mandakini (Ganga) , the most excellent one of all the 
+rivers? Is she Lakᤁmi? Or is she Uma? She may be Kalaratri 
+herself or she may-be Prakrti worthy of happiness. Do tell me 
+this, 0 holy Sir. She is indeed Amrtasarhbhava (origin of nectar, 
+or originated from nectar) . She wanders in the vast sea-like 
+expanse of water of terrible appearance, where serpents and 
+Rakᤁasas have perished. " 
+Manu sail 
+1 3-19. 
+Listen, 0 dear one, I shall duly explain her origin, 
+how this lady of excellent complexion originated from Rudra. 
+Formerly Siva Sankara of quiescent body performed ·extensive 
+penance along with Uma for the sake of the welfare of all the 
+worlds. The Lord of self-control, the immanent soul of all 
+living beings, climbed the Mountain Rkᤁasaila1 and performed 
+I. 
+§a-iaila-§a-paroata: The eastern part of the Vindhya range extending 
+from the Bay of Bengal to the source of Narmada and SoQa. (De 168-169)
+
+## Page 27
+
+V.iii.4.20-33 
+1 5 
+a severe penance. H e was invisible to all living beings. As that 
+Lord was performing penance, perspiration issued forth from 
+his body. The (drops of) sweat originating from Rudra flooded 
+that mountain. The highly meritorious, excellent river was born 
+of it. It was she of long eyes resembling the petals of a lotus, 
+whom you saw in the sea-like expanse of water. Formerly in the 
+first Kftayuga, she assumed the form of a woman and propi­
+tiated Rudra for ten thousand years. 
+Thereupon Sankara, the great Lord, was pleased. Accompa­
+nied by Uma, he spoke to her: "0 highly fortunate lady, speak 
+out whatever there is in your mind. " 
+The Sarit ( The River) said: 
+w 
+20-33 
+By your grace, 0 Lord of Devas, let me be imper-
+ishable at the advent of Pralaya when all mobile and immobile 
+beings are destroyed. When the rivers, oceans and mountains 
+have perished, 0 Lord of Devas, let me be holy and imperish­
+able, with your favour. Devout persons who have taken bath in 
+me should be rid of all their sins, even if they have committed 
+major and minor sins, 0 Sankara. Jahnavi destroys great sins 
+in the northern region. I should become so in the sou.thern 
+region. Then only I shall be worshipped by gods. Just as the 
+celestial river coming down from Svarga became well-known 
+on the earth as Ganga, 0 Lord of Devas, so let me be the 
+Dakᤁil).aganga (Southern Ganga) . A man who devoutly takes 
+his holy bath in me, 0 Mahesvara, should acquire that merit 
+which is usually obtained by taking holy bath in all the Tirthas 
+of the earth. 0 Lord, may the sin of Brahmal).a-slaughter and 
+others like that which have remained accumulated be destroyed 
+by taking the holy plunge for the period of a month. My desire 
+is that, due to the holy dip in me, 0 Sankara, one shall get 
+all those benefits that accrue frcm the study of all the Vedas 
+and performance of all the Yajiias. From my water, 0 Sankara, 
+let there be that benefit which usually arises from all sorts of 
+Danas and fasts and the holy plunge in all the Tirthas. Those 
+who adore Mahdvara on my banks should repair unto your 
+Loka, 0 Siva. Let this happen, 0 Lord, Q Mahesana; 0 Lord 
+of the world, this alone is the boon. I desire that you do stay 
+always on my banks along with Uma and other deities. Let 
+every living being that dies in my waters go to Amaravati, whether
+
+## Page 28
+
+16 
+Skanda Purii7J.a 
+they have done excellent Karmas or ignoble Karmas, whether 
+they are mentally calm with full control over the sense-organs 
+or not. 0 Lord of the chiefs of Devas, if you are pleased and 
+if you consider it proper, let me be well-known in all the three 
+worlds as the destroyer of great sins. 
+0 excellent king, the Bull-vehicled Lord was requested for 
+these and other divine boons by Narmada. On being pleased 
+he said: 
+Sri M.ahesa replied: 
+34-43a. 
+0 uncensured (i.e. praiseworthy) lady, 0 illustri­
+ous one, let what has been said (requested) by you, happen 
+thus. 0 lotus-eyed one, excepting you, there is none else de­
+serving the boon in all the worlds. 0 lady of excellent coun­
+tenance, undoubtedly you have become one liberating devo­
+tees from all sins ever since the time you issued forth from my 
+body. At the period when Kalpas come to a close, and specially 
+at calamitous times, those men who reside res<,>rting to your 
+northern bank, and even insects, worms etc., trees, hedges, 
+creepers etc. do attain excellent goal, 0 fair lady, after the fall 
+of the bodies .. Those BrahmaQ.as of great regard for piety and 
+holy rites who resort to the southern bank and reside there till 
+death, do go to the place of the Pitrs. At your instance, as well 
+as for some other᥾reason, I shall always stay with Uma on your 
+banks. 0 fair lady, 0 great lady, undoubtedly everything will 
+happen thus. The deities will live on your northern bank along 
+with Vil?Q.U, Brahma, Indra, Candra and VaruQ.a and also Sadhyas, 
+at my behest. Similarly, 0 celestial lady of great beauty, the 
+others will stay on the southern bank along with me and the 
+Pitrs. This is your boon. Do go (hurry up) , 0 blessed one; 
+redeem men from sins. Do go there accompanied by the groups 
+of sages, Siddhas, Suras and Asuras. 
+43b-54. 
+After saying this, Lord Mahadeva, duly bowed down 
+to by me and Manu, vanished along with Uma. Therefore this 
+highly meritorious river is mentioned as the destroyer of great 
+sins. This is the lady about whom yo᥿ asked. Let there be no 
+amazement on your part. This is (on a par with) Ganga of 
+great merit, well-known in all the three worlds. With her
+
+## Page 29
+
+V.iii.5. 1-1 4 
+1 7 
+fifteen different branches i t floods all the ten quarters. They 
+are: SoQ.a, Mahanada, Narmada, Surasa, Mandakini, DasarQ.a, 
+Citrakiita, Tamasa, Vidasa, Karabha, Yamuna, Citrotpala, Vipasa, 
+Rafijana and Valuvahini. All these are born of the feet of Rkᤁa 
+mountain. All originated from Rudra. All are meritorio1,1s, auspicious 
+and bestowers of welfare. They destroy all sins. She is eulo­
+gized by the masters of the Vedas, by these divine names as 
+well as by the illustrious knowers of the PuraQ.as, by Ajyapas 
+and Soma pas (varieties of Pitrs) . 0 excellent one among men, 
+everything has been narrated. That which is conducive to good 
+fortune and uttered by Manu is splendid. The origin of Amrta 
+is incomparably sacred, since it is spoken by Rudra, 0 scion 
+of the family of Bharata. Those men who glorify these fifteen 
+names after getting up early in the mog1ing, will attain the 
+entire benefit of a holy plunge into the river. Mter casting off 
+their human form, they will attain the highest place by riding 
+an aerial chariot of solar lustre, reverberating with the sound 
+of a hundred bells. 
+CHAPTER FIVE 
+Naming the River Narmada 
+Yudhi¸thira said: 
+1-1 4. 0 excellent BrahmaQ.a, the enᦀire story recounted is 
+wonderful. The groups of sages along with me are extremely 
+wonder-struck. It is very assuring that this divine, meritorious 
+Narmada, that has issued forth from the body of Rudra and 
+hence has no human source of origin, causes the destruction 
+of great sins. 0 sage of good holy rites, when seven Kalpas have 
+come to a close (even as you have been a witness) , this aus­
+picious river along with you has not become dead. What else 
+can be a more excellent merit? What are those Kalpas referred 
+to, the seven ones, which come to an end, if this divine lady 
+and you too, 0 great sage, have not become dead. When the 
+whole universe had been converted into a vast expanse of waters 
+without any trace of the flocks of birds, at the close of the 
+Yuga, what was the form assumed by Mahadeva? How does he
+
+## Page 30
+
+18 
+Skanda Purii1_1,a 
+annihilate the universe? How does he remain in the great sea 
+of waters? How does he create the universe? How does he 
+sustain the subjects? What form does the divine river assume 
+when everything has been converted into a single sea-like expanse 
+of waters? Why is she called Narmada? How is she remembered 
+as Reva? Why this name Aiijana (or Raiijana) ? Why Surasa? 
+Why was she called Krpa? Why the name Mandakinl? Why 
+should she be (called) SoQ.a? Why (is she called) Trikuta? Why 
+Valuvahinl? Crores and crores of Tirthas have entered the great 
+ocean. How many crores of these rivers serve Narmada? How 
+is she served by the sages with sacred threads and by the dei­
+ties? 0 excellent sage, why is it heard that she is divided sev­
+erally? Why is she called VaiᤄQ.avi by those conversant with the 
+PuraQ.a? What are those Sthanas and Tlrthas where the excel­
+lent river has to be adored? Do mention the different Tirthas 
+separately where Hara is present. What is the size and magni­
+tude of the divine river as created by Rudra? Of what nature 
+are the Karmas (rites) mentioned by Rudra to you? 0 excel­
+lent BrahmaQ.a, how did this region become over-run by Mlecchas? 
+0 highly intelligent MarkaQ.<;leya, 0 holy Sir, narrate this unto 
+me. 
+Sri Miirka1_1,r!eya said: 
+1 5-26. 
+May all the sages, and you too, 0 YudhiHhira, lis­
+ten to the PuraQ.ic legend regarding Narmada as recounted by 
+the Trident-bearing Lord. It was heard by me from the Vayu 
+Devata and he had heard it from Mahesvara. Since human 
+beings are incapable, the sages abridged it formerly. The first 
+one is Mayura.1 0 dear one, Kaurmya comes thereafter. Then 
+Pura, Kausika, Matsya and Dvirada; _Yaraha is what was seen by 
+me. VaiᤄQ.ava is the eighth one. Then what was called Nyagrodha 
+was evolved; then the excellent Akamkᤄa. Then Padma, Tamasa, 
+Samvarta, Udvarta and Mahapralaya. These, the thinkers on 
+the Vedas mentioned in regard to the PuraQ.a. 
+These are the abridged versions condensed by those noble 
+souls. They have been divided into four parts by Brahma and 
+others and the great sages. That I shall expatiate upon, 
+0 
+knower of the contents of Pural).as. The highly terrible seven 
+I. 
+These are later considered as names of Kalpas.
+
+## Page 31
+
+V.iii.5.27-37 
+1 9 
+Kalpas during which this river did not die (had these charac­
+teristics) : All mobile beings became enveloped in darkness without 
+distinguishable characteristics and were not known clearly. The 
+rays of the Moon and the Sun vanished. The living beings 
+disappeared. At the extremity of the darkness, the Puru!ia, the 
+preceptor of the universe, was known under his great name. 
+The eternal one was both manifest and unmanifest. He moved 
+about therein alone. Then the one consisting of Omkara passed 
+off and Dvija (the second-born from the original) created Gayatri. 
+Then Isana, the Vira! (Cosmic) Puru!ia, sported about with 
+her. From his own body he created the universe consisting of 
+and named after the five elements. Sportingly he created the 
+universe consisting of and named after the five elements. The 
+being called Vira! sportingly created Hi,rar:tmaya (golden be­
+ing) along with the Bija (seed) . That became the divine egg 
+resembling the twelve Adityas (Suns) (in brilliance) . 
+27-37. 
+Breaking it (the egg) the four-faced being, Pitamaha, 
+was born . He created thus the universe consisting of Devas, 
+Asuras and human beings, animals, creatures and birds, the 
+sweat-born, egg-born and the embryo-born ones. This egg is 
+proclaimed as the first one in the Purar:tas. 
+0 excellent king, ParameHhin Rudra sported about with 
+Uma in the vast expanse of. sea-like water. A splendid girl was 
+born out of the sweat of Uma due to her delight. When Sarva's 
+chest pressed against the breasts of Uma, a great girl of lotus­
+like eyes issued forth from the sweat. This is the second birth, 
+0 YudhiHhira. That (lady, river) whirled around the worlds of 
+Devas, Asuras and human beings. Unrivalled in beauty of form 
+as she was, she maddened the three worlds. On seeing her, the 
+leaders of Devas and Daityas were enchanted. They wondered: 
+'How is she· to be obtained?' 0 scion of the family of Bharata, 
+they searched for that girl here and there. She fascinated the 
+entire universe through her seductive and graceful charms and 
+coquettish manners. She moved about in her divine form like 
+a lightning streak in the middle of clouds. The most excellent 
+one among all maidens, she shone in her lustre. Then all the 
+Suras, Daityas and Danavas who were enamoured of that girl 
+and overcome with Kama (lust) requested Rudra for that girl 
+to be given to them. Then Mahadeva said: "Of the two, Devas 
+and Danavas , h e who will prove superior in ᦁtren gth
+
+## Page 32
+
+20 
+Skanda Purii:rJa 
+and splendour will attain this girl, not otherwise, 0 excellenᦂ 
+Suras. " 
+38-44. 
+Then all the Devas and Asuras approached the girl 
+saying, "I shall seize her, I shall seize her. " Even as all were 
+watching her, the girl vanished. Then they saw her stationed 
+a Yojana away. All of them then rushed to the place where she 
+was seen. Then they saw her stationed three or four Yojanas 
+away. Then the lady of elephantine gait vanished and stationed 
+herself hundreds and thousands of Yojanas away. On account 
+of her lightness she was seen hundred thousands of Yojanas 
+away. They saw her sometimes ahead and sometimes behind in 
+different directions and intermediate quarters. The . beautiful 
+lady appeared in one direction and many directions. Thus they 
+were forced to wander about by her for a period of a thousand 
+divine years. But that girl born of Mahadeva's limbs was not 
+attained by them. Thereupon the Lord laughed boisterously 
+along with Uma. 
+45-52. 
+The Gar:tas joyously danced in accordance with the 
+beating of the time. Suddenly the girl was seen very near Sail.kara. 
+On seeing her the wonder-struck Devas returned with faces 
+turned away. Then the Pinaka-bearing Lord himself gave her 
+a name: "Since you humoured them by means of your pranks 
+and gambols, 0 beautiful girl, you will become the excellent 
+river Narmada (Narma, humour+dii, giver) . " The Lord resumed 
+his form and joked. This river of cool water and auspicious 
+features was called Narmada by him. When the destruction of 
+the seven Kalpas, as was said by Sarilbhu before, took placᦃ, 0 
+great king, she did not die. She became well-known as Narmada. 
+Then he gave that well-behaved, splendid girl to the great 
+Ocean. The Lo.rd, the Lord of Devas, the Lord of all living 
+beings and goblins gave her to the Ocean. Thereafter the divine 
+river Narmada laughing boisterously through the foams de­
+scended from the great mountain Rkᤁa and entered the Ocean, 
+the Lord of rivers. Thus she was born of i'svara in the Brahma 
+Kalpa and was seen by me in Matsya Kalpa. Listen as described 
+by me.
+
+## Page 33
+
+V.iii.6. 1-7 
+21 
+CHAPTER SIX 
+Epithets1 of Narmada Explained 
+Markar.u!-eya said: 
+1-7. 
+Again, 0 excellent king, when the end. of the third 
+Yuga approached, Lord Nilalohita assumed the forms of the 
+twelve Suns and burnt the entire ocean-girt earth along with 
+the mountains and forests. Mahe§vara then was in the form of 
+Kala, the destroyer. Thereafter he became an enormously big; 
+cloud and flooded the entire earth with water. His body as­
+sumed a dark physical form and the earth was marked with 
+lightning and Moon as though hit with a weapon and flooded 
+with water. The entire universe was tur-ned into a vast expanse 
+of water. By means of his Maya, he withdrew the universe into 
+himself and slept in the translucent water. In the ocean envel­
+oped i-n darkness, when the element of Vayu (Wind) assumed 
+the activity of Mahesvara, I wandered about for a period of a 
+thousand divine years. 0 great king, I meditated upon the 
+Lord in the form of Orilkara, the Lord by whom everything was 
+rendered impenetrable. I was meditating in the pure water 
+when the mobile arid immobile beings got merged in that ter­
+rible ocean. I suddenly espied a Mayiira (peacock) embellished 
+with golden feathers with wonderful eyelike marks of various 
+colours. The peacock was blue-throated and had excellent eyes. 
+1 . The following are the epithets of Narmada: 
+(i) 
+Trikilli: The river descended from Mount Trikii˨ (vv 16-17) . 
+(ii) 
+Mahati: (i) The river lifted up to Mount ˩Ąa (vv 26-27) : (it) Of speed-
+ily flowing current (vv 30-31) . 
+(iii) Soita: That in which drops from Siva's trident fell (v 28) . 
+(iv) 
+Surasii: A river of excellent Rasa or water (v 32) . 
+(v) 
+K.rpii: A bestover of freedom from Sariuara (vv 32-34) . 
+(vi) 
+Mandiikini: A slow-flowing river (v 34) . 
+(vii) REVA: Reverberating all the quarters with sound (&va) while flowing 
+(vv 37-38) . 
+(viii) Mahiin;avii: Who broke away from the Ocean (v 39) . 
+(ix) 
+Vipiipii : Remover of sins (v 39) . 
+(x) 
+Vipiisii : Remover of the bond of Sarhsara (v 40) . 
+(xi) 
+Vimalli : With clean, splendid waters (vv 41-42) . 
+(xii) Karabhii .: Of lustrous hands (waves) (vv 42-43) . 
+(xiii) &njanii : Delighter of th e world (vv 43-44) . 
+(xiv) Viiyu-viihini: Carrier of every resident on her bank to heaven (v. 44) .
+
+## Page 34
+
+22 
+Skanda Purii:TJ,a 
+8-20. 
+Then the Mayura (peacock) of great prowess moved 
+about within the ocean-like expanse of water which it agitated 
+much through its great shrill cry. T9e three-crowned peacock 
+was Siva, the protector of the three worlds. He agitated the 
+waters in the form of a peacock. He saw the river of great flow 
+of current, whirling within the great ocean. On seeing her 
+whirling rapidly with waves after waves, Mahadeva in the form 
+of Mayura asked her: "Who are you, 0 splendid lady with a 
+permanent physical form? In the course of the great annihi­
+lation you have not become destroyed, even when the multi­
+tudes of Devas and Asuras have perished in the great ocean­
+like expanse of rivers and lakes. Who are you, 0 lotus-eyed 
+one, who continue to move about? How is it that you did not 
+get destroyed?" 
+Narmada said: 
+With your favour, 0 Lord of Devas, I have no death. Do 
+create the universe once again, 0 Lord. The night has come 
+to an end. 
+On being told thus, Mahadeva shook the cage-like plumage 
+of feathers. Then from the middle of the cage, from the plum­
+age issued forth all these: The great Daityas and Devas were 
+born of his wings. The river Narmada began to flow in between 
+those two groups. Thereupon another great mountain was seen, 
+0 eminent scion of the family of Bharata. It had three huge 
+peaks and it appeared like a horned bull. It was well-known by 
+the name Trikuᤃa. It was embellished with all jewels. The river 
+descended from Trikuta and flooded the earth. Hence she 
+became well known as Trikitti. She is the greatest saviour of the 
+Pitrs. 
+From the second peak Ganga spread over the surface of the 
+earth. The third peak split into seven pieces. They became the 
+seven Kulaparvatas in Jambudvlpa. 
+All the 
+things of the world were born, such as planets, 
+constellations, moon, villages, rivers, four types of living be­
+ings, viz. the oviparous, the viviparous, the sweat-born and the 
+germinating ones (i.e. trees and plants that pierce through the 
+ground and grow) . Thus the entire universe issued forth from
+
+## Page 35
+
+V.iii.6-21-34 
+23 
+the Mayiira formerly. Everything, 0 tiger among men, was born 
+of Mahadeva. 
+21-27. 
+Then the Lord of Devas separated the rivers and 
+oceans and said to Narmada: "You go to the ,southerp. quarter. 
+Just as in the northern country Jahnavi is the meritorious sacred 
+river, destroyer of great sins, you shall be the splendid river 
+in the South. Just as Ganga originating from my head is highly 
+meritorious, so also indeed better than Ganga, you shall be 
+meritorious undoubtedly. With a part of mine I .shall be by 
+your side. You shall be a panacea for those who are defiled by 
+great sins. " 
+O n being told thus by the Lord, she became the Southern 
+Ganga and destroyer of great sins. She hurriedly went to the 
+southern region of the country. With the blessings of the Moon­
+crested Lord, she went to the ᤥkᤁa mountain whence she, 
+being urged by Mahadeva, proceeded with the full comple­
+ment of the currents of water. She was called Mahat'i by Mahadeva, 
+0 Lord of the earth, because she was lifted up with great 
+speed. 
+28-34. 
+While the Lord was performing the penance, drops 
+fell down from the tip ef the trident. Hence she became known 
+by the name So7J.a. 
+Those rivers are seventeen in number. Of all the rivers, 
+Narmada is the most meritorious, since it had issued forth 
+from the body of Rudra and also through the grant of the 
+boon by the noble soul. 
+Due to the blessings of Sankara, the divine river is the destroyer 
+of great sins. She is ·called Mahati also, because she was seen 
+in the terrible, great ocean. Her limbs were prominent and she 
+is huge in size. Hence also she is called Mahati. 
+On being stirred and agitated by the elephants of the quar­
+ters comparable to clouds (in size) , the waters became turbid, 
+but she has excellent Rasa (water) . Hence she is (called) Surasii. 
+Bestowing freedom from fear, she is sympathetic to all the 
+worlds immersed in the ocean of worldly existence. Hence she 
+is remembeJ;ed - as Krpa. 
+Formerly in the meritorious l{rtayuga she was embellished 
+with the divine Mandara flowers strewn from the Kalpa trees. 
+The river is full of Rohitaka fish. So she flows slowly. Hence 
+she is remembered as Mandiikini.
+
+## Page 36
+
+24 
+Skanda Purii:rJ.a 
+35-45. 
+She came ᦄo this world quickly piercing through 
+the great ocean. She is worthy of being adored by Suras and 
+Siddhas. Hence she is Mahii:r1Javii. 
+She has clusters of lilies of various colours. She is agitated 
+by Rkᤁas (bears) and Dvipas (elephants) . She breaks through 
+the large mountain and proceeds to the great ocean. With 
+great Rava (sound) she makes all the quarters reverberate, 
+flooding all places and shining ·everywhere. Hence she is re­
+membered as Revii. 
+She makes those miserable (ones) on account of the suffer­
+ings of wives and children due to the curses, wherewith they 
+are overwhelmed, free from sins. Hence she is remembered as 
+Vipiipii. 
+She redeems and liberates from harassment due to bondage 
+and the great misery . caused by faeces, urine etc., aᦅ well as 
+dust and mire and blood. Hence she is called Vipiisii. 
+She is the redeemer from the ocean of worldly existence. 
+Narmada has waters free fro"m impurities. Her face is as splen­
+did as the clear moᦆm. In the great, awful envelopment of 
+darkness, she is highly lustrous. For all these reasons, she is 
+called Vimalii by learned men, 0 excellent king. 
+Her hands (waves) are as lustrous as the rays of the sun and 
+moon. As she flows the whole universe rejoices. For all these 
+reasons, she is called Karabhii. 
+Merely by her sight, she delights the worlds, 0 descendant 
+of Bharata. The meaning of the root ...JRaiij is to delight, 0 
+excellent king. Hence she is called Raiijanii. 
+She takes even grass, creepers, hedges, creatures and birds 
+to heaven (once they grow nearby) . Hence she is called Viiyuviihini 
+He who knows the (meaning of) names in this manner and 
+particularly the way she flows, goes undoubtedly to Rudraloka 
+after being liberated from sins.
+
+## Page 37
+
+V.iii. 7.1-20 
+25 
+CHAPTER SEVEN 
+The Advent of Kurma Kalpa1 
+Sri MiirkatJ4eya said: 
+1-9. 
+Again there was the advent of a vast expanse of ocean­
+like water with horrible features in which mobile and immobile 
+beings perished. The whole world was submerged in water. 
+Darkness enveloped everything and there was no Jjght at all. 
+Brahma alone assumed the form of a Khadyota (Firefly, Glow­
+worm) . For the period of a thousand divine years, he moved 
+about in the great ocean enveloped in darkness. He then saw 
+in the terrible expanse of ocean, the Lord asleep in the form 
+of a tortoise. The excellent Lord, the iacomprehensible, ex­
+tended to a thousand Yojanas. He resembled the twelve Adityas 
+(Suns) in splendour. He had a thousand feet and eyes. On 
+seeing him, Brahma was surprised and roused him slowly by 
+means of auspicious hymns tak!!n from the Vedic and Vedailga 
+texts: "0 Vacaspati (Lord of Speech) , do wake up. 0 Supreme 
+Being, obeisance to you. 0 Parame5vara (Supreme Lord) , the 
+entire universe is stationed in your belly. Hence, 0 Mahasattva 
+(huge being of immense inner strength and good qualities) , 
+release what was withdrawn within by you. The night of Brahma 
+has passed off. The day has dawned. 0 Lord of all worlds, have 
+a view, whereby the universe can take birth . " 
+O n hearing his words, Parame5vara (Great Lord) got up 
+ejecting the three worlds that had been swallowed at the time 
+of the close of the Kalpa. Devas, Danavas, Gandharvas, Yak11as, 
+Uragas (Serpents) and Rak11asas along with the Moon, the Sun 
+and the planets, issued forth from his body. 
+1 0-20. 
+Mter dividing the entire ocean-like expanse of wa­
+ter, Parame5vara espied the earth consisting of trees, medici­
+nal herbs and puddles, extensively abounding in stones and 
+flood of water and full of rivers and lakes. He saw Himavan the 
+great mountain, Sveta the excellent mountain, the great mountain 
+Srngavan as well as other Kulaparvatas. (He espied) the Dvipas 
+1 . 
+This describes Narmada in the form of a beautiful lady who survived 
+Pralaya in Kflrma Kalpa.
+
+## Page 38
+
+26 
+Skanda Purii:r:ta 
+such as Jarhbii Dvlpa, Kusa, Krauiica, Gomeda, Sal mala, ending 
+with Puᤁkara and the seven great oceans, the great mountain 
+Lokaloka- all these were stationed in front. That Mahesvara 
+saw the entire universe consisting of the mobile and immobile 
+beings with the fourfold Prakrtis that had come out at the 
+beginning of the Yuga. The Lord saw the earth with scattered 
+pieces of rocks. The goddess (divine · lady) was in the great 
+ocean perched on the back of the tortoise. On the top of the 
+shattered rocky hill where there was neither a river nor a lake, 
+the waters of the ocean were moving in waves with agitated 
+whirlpools and eddies. The medicinal herbs were shedding 
+lustre on the surface of the earth where there were various 
+rocks and stone slabs. The great Lord saw the river reverber­
+ated with warbling of birds and teeming with fish and tortoise. 
+The divine river resembled an excellent cloud. She had divine 
+charm and a number of incomparable eddies (stores ofwater) . 
+The divine river Narmada was in the form of a woman in 
+the middle of the ocean and she had dark complexion like the 
+colour of a cloud. The thighs, buttocks and the breasts were 
+thick and huge. She had inimitable gorgeous garments and 
+she was bedecked in ornaments. She had anklets and girdles 
+of excellent chains. She was bedecked in necklaces and brace­
+lets. 
+21-27. 
+He saw Narmada of unmanifest limbs and noble 
+features. She was beautified by various orqaments of magical 
+origin. The young woman had just risen above the watᦇr with 
+half raised arms eulogizing the Lord of the chiefs of Devas. 
+Her eyes were large like the petals of a lotus. On seeing that 
+splendid lady, I was overwhelmed with surprise in the heart. 
+I took my holy dip in her splendid water. I began to eulogize 
+joyously by means of Mantras taken from the Vedic Scriptures. 
+In front of her I saw the mobile and immobile beings created 
+along with Devas, Asuras, Gandharvas, Pannagas and great Uragas. 
+I saw that the highly esteemable lady did not undergo destruc­
+tion before because she was born of the body of Mahadeva. 
+With his favour she did not get dissolved. She was seen by me 
+again and again. 0 excellent king, it has been recounted to 
+you. Those excellent Brahmal).as who study this manifestation 
+pertaining to Kiirma and the learned men who listen to it, are 
+liberated from all sins.
+
+## Page 39
+
+V.iii.8.1-22 
+27 
+CHAPTER EIGHT 
+The Advent of Baka Kalpa 
+MiirkmJ4eya said: 
+1-1 0a. 
+When the world was destroyed again and envel­
+oped with water, I was caught in the middle of the great ocean 
+and so I crossed the waters with my arms. When a hundred 
+divine years elapsed, 0 excellent king, I was completely ex­
+hausted. I began to meditate on the Lord who could take me 
+across the great ocean. 
+At that time, as I was meditating, I saw a great bird resem­
+bling a pearl necklace, Kunda flower, and the moon (in com­
+plexion) . I saw a Baka (crane) white tiŔ cow's milk. 
+On seeing that crane, I was dismayed: 'Whence can there 
+be the existence of a bird in this terrible, great ocean?' I 
+thought. Untiringly I went on swimming (to it) and asked that 
+crane: "0 Lord endowed with divine Yogic soul! Assuming the 
+form of a bird you seem as if to enchant me. Who may you 
+be, wandering in this vast expanse of waters? Do naᦤ;rate this 
+to me completely. Whoever you are, I do obeisance to you. " 
+He told me: "I ain Mahadeva, Brahma and Vil)Q.U. 0 dear 
+one, don 't you understand that the entire universe has been 
+annihilated (or taken within) ? 0 great sage, I am the father 
+and mother of the universe as well as of yours. Seeing every­
+thing submerged in the great ocean, I was moved with sympa­
+thy. Hence I have come here in the guise of a bird. Why are 
+you getting agitated? Why do you wander like this in the great 
+ocean? Quickly come within the fold of my wings, 0 BrahmaQ.a, 
+so that you can rest. " 
+1 0b-13. On being told thus by that Lord, 0 king, I en­
+sconced myself within his wings and began wandering in the 
+water. At the end of even a thousand Yugas I was not tired and 
+I continued to be in the middle of the ocean. Then, 0 virtuous 
+king, I suddenly heard in all the quarters an excellent, mys­
+terious sound mixed with the sound of anklets. All of a sudden 
+the entire mass of water in the ocean shrank in size. 'What 
+could this be? ' Thinking thus I looked in every direction. 
+1 4-22. 
+Ten girls from all the. quarters came to the ocean . 
+They were clad in gorgeous garments and bedecked with anklets
+
+## Page 40
+
+Skanda Purii1J.a 
+and other ornaments. One of them had the lustre resembling 
+that of the moon. Another had the radiance of the sun. A 
+certain girl had the lustre of a mass of collyrium. One of the 
+maidens had the brilliance of a red lotus. They had different 
+forms. All of them were gentle and they were bedecked in 
+various ornaments. Those holy maidens worshipped the crane 
+with Arghya, Padya and garlands. The self-refulgent mountain 
+entered that immutable, very terrible bird of mountain-like 
+size. It became enlarged into thousands of Yojanas and hun­
+dreds of Yojanas. There was a distance of thirty thousand Yojanas 
+from the terrestrial zone. 
+Then the earthly zone assumed a divine refulgence abound­
+ing in five kinds of gems. There was a divine flight of stairs of 
+crystal rendered very charming with golden pillars. (The city 
+built there) extended to a thousand Yojanas. Twice that was 
+its length. It had a great many tanks and wells, palaces and 
+towers. Kalpa trees abounded in the place. It was decorated 
+with sixty flags. 
+In that beautiful, excellent city there was another beautiful 
+city embellished with various kinds of gems. The altar was 
+brilliant with flags and banners. The city was two hundred 
+Yojanas in length and a hundred Yojanas in width. 
+23-3 1 . 
+There was a very splendid river in the middle of 
+the city. It had meritorious waters and rocky banks studded 
+with gems. It was a great river. On its bank I saw a great Linga 
+too. It had the lustre of lightning and the Sun. All round, it 
+was set with blue sapphires. In some places it resembled fire. 
+In some other places it was smoke-coloured, yellow in some 
+places, red in other places and white elsewhere. The Linga of 
+diverse colours was very wonderful to behold. It was surrounded 
+by Brahma, Vil1Q.U, Indra and Sadhyas. It was surrounded by 
+Nandisvara and other GaQ.adhyakl1as, Indra and Adityas. I stared 
+at that great Linga of Isana alone. 
+Thereafter I saw Devas and Danavas with closed eyes lying 
+asleep all round it. They were bedecked in divine jewels and 
+ornaments. 
+Then after taking their holy bath in the waters of that river, 
+those highly esteemed, excellent, ten young maidens duly of­
+fered Arghya, Padya to the Linga along with that bird and 
+worshipped them with divine flowers. Like lightning vanishing
+
+## Page 41
+
+V.iii.8.32-48 
+29 
+behind a cluster of clouds, all those ladies disappeared within 
+that excellent city. 
+32-38. 
+Neither the king of birds was there nor those women 
+nor the Devas. The Liilga alone which was being worshipped 
+(by me?) remained there. I was surprised. On account of the 
+grief, I was fainting as it were. I thought everything was an 
+illusion created by Rudra. Then those girls emerged (from the 
+water) brightening the entire universe with the divine gar­
+ments and ornaments they were wearing, like lightning streaks 
+brightening a cluster of clouds. After adoring the Liil.ga with 
+divine, golden lotuses those ladies of splendid countenances 
+and excellent ornaments soon entered the water. 
+In the other eᦈcellent city I repeatedly saw a divine (immor­
+tal) girl adoring Mahdvara. Thereupqn J asked that beautiful 
+lotus-eyed girl: "Who may you be, 0 goddess staying in this city 
+worshipping Siva? Where have all those ladies gone? Where are 
+those leaders of Gat:tas? I do obeisance to you, 0 illustrious 
+Mahdvarl. 0 lady of holy rites! I wish to know this with your 
+favour. Take pity on me, 0 great goddess! 0 sinless one, do 
+tell me this. " 
+The Stii ( lady) replied: 
+39-48. 
+0 BrahmaQa, how is it that I have been forgotten 
+by you? You had seen me in the previous Kalpa. Let there be 
+no forgetfulness on your part. I am the same Kalpavahini well­
+known as Narmada; I was born of Rudra's body. The girls seen 
+by you adoring Mahesvara, the girls who have brought you 
+along with the king of birds, 0 excellent sage, are the quarters. 
+Mahayogin Mahesvara has been brought here by these, Nandisvara 
+and others from Sivapura, 0 BrahmaQa. The same deity, Mahadeva, 
+has established himself here in the form of a Liilga. The preceptor 
+of the Suras and Asuras is being worshipped by Brahma, ViᤁQu 
+and Indra. It is called Liilga by the great sages conversant with 
+the Purat:tas, because the entire universe consisting of mobile 
+and immobile beings, becomes merged therein. Formerly, all 
+the groups of Devas were taken together and dissolved by the 
+Lord through Maya. They are not seen now. On being created 
+by the Self-born Lord, they will be seen 'again. I am engaged 
+in adoring the Liilga. My name is Narmada. I have been the 
+maid in attendance of Rudra for a period of a thousand Yugas.
+
+## Page 42
+
+30 
+Skanda Purii'T}a 
+0 eminent Brahmat:J.a, you have become immortal with his 
+favour. By worshipping Siva, you have become a Siddha equipped 
+with truth, straightforwardness and kindness. 
+After saying this the goddess vanished there itself. 
+49-55. 
+The women, the Lord of Devas, Mahesvara in the 
+form of a Baka-all vanished. On hearing her words I got 
+down into the great river and took bath, with the recitation of 
+Mantras duly worshipping the Liri.ga. But when I rose up from 
+the river I could not see the Liri.ga or the river, 0 king. At that 
+time itself all the worlds were born and also the earth with all 
+forests. The same firmament became spangled with the stars, 
+moon and sun. As before, what was rendered unseen was seen 
+again. I mentally bowed down to the Lord and worshipped 
+Mahe§vara. 
+It was thus that in the previous Baka Kalpa, this immutable 
+lady (Narmada) was seen by me. Narmada, the destroyer of the 
+great sins of human beings, (was seen by me) . Hence this 
+esteemable (divine river) should always be resorted to by all 
+Brahmar:tas, ᤏatriyas, Siidras, Vaisyas and others of righteous 
+nature if they wish to get piety increased. Those who devoutly 
+take their bath in the waters of Narmada even once and wor­
+ship Mahesvara get all their sins dissolved undoubtedly. 
+CHAPTER NINE 
+The Origin of Narmada 
+Sri MiirkaTJr!eya said: 
+1-'7. I shall recount to you another subsequent Yuganta (ending 
+of a Yuga) . Listen. 
+Formerly when the world consisting of the mobile and im­
+mobile beings was burnt by the Suns, when everywhere the 
+rivers, lakes and oceans were completely dried up and de­
+stroyed, when the utterance ofVa!!at became non-existent among 
+men, when people began to transgress bounds of decorum, the 
+entire sky was filled with clouds of various forms shining with
+
+## Page 43
+
+V.iii.9.8-18 
+31 
+rainbows and the world was filled with floods of water. There­
+upon it formed a vast ocean-like water expanse. Lord Hara 
+kept the entire universe within his belly and went to sleep. 
+Supporting his own Prakrti that Lord of subjects, the Vogic 
+soul, entered the ocean and lay down for a period of a thou­
+sand Yugas. 
+All the 11ages beginning with Bhrgu and those beginning 
+with Sanaka, all those who reside in Brahmaloka saw the Bull­
+emblemed Lord lying asleep along with his wife on a splen­
+didly pure couch covered with many sheets. 
+8-1 8. That lady is omniformed. Mahesvara is also omniformed. 
+I saw the immutable Lord who closely embraced her and lay 
+asleep. At the foot of the Lord I saw that dark-complexioned 
+girl characterised by lotuses, with well-shaped buttocks, mas­
+saging the feet of the Lord. That Syama (Dark-complexioned 
+one) was clad in pure, spotless garments. She had a python for 
+the sacred thread. Her eyes resembled the petals of a lotus. 
+She was bedecked in all sorts of ornaments. This knowledge­
+able Narmada of excellent complexion serves and attends upon 
+the sleeping Lord of the chiefs of Devas for the entire period 
+of a thousand Yugas. 
+Brahma, the great Lord too, eulogizes the immutable Sari.kara 
+along with his mental sons, Bhrgu and others, by means of the 
+four Vedas held by him, 0 king. With great devotion they 
+eulogized Sarilbhu free from ailments. With the Mantras origi­
+nating from Isvara, they continued the eulogy of the Lord of 
+Devas there. All of a sudden, all those four Srutis got sub­
+merged into the sea. With the Vedas got lost thus, the Lord 
+(Brahma) became enveloped with the darkness of ignorance. 
+He approached Lord !sana who was asleep and began to wake 
+him up. "0 Hara, 0 tawny-eyed one, get up, 0 Mahadeva, 0 
+Mahdvara. All my Vedas have been taken away. Hence I am 
+attempting to eulogize (you) . The entire universe consisting of 
+the mobile and immobile beings, whether divine or non-divine 
+had been pervaded by the Vedas. It is due to them that I could 
+remember the past and the present and performed the duty 
+of creation. Without them I feel isolated. I am no better than 
+a dumb, blind and senseless one, always. Without them there 
+is no hope of any movement, vigour, strength or ardour. 0
+
+## Page 44
+
+32 
+Skanda Purii'T}a 
+Lord of the chiefs of Devas, I cannot recollect anything with­
+out them. 
+1 9-28. 
+It behoves you, 0 Lord of the chiefs of Devas, to 
+give them (back) to me quickly. The entire universe consisting 
+of the mobile and immobile beings is insentient, blind andᦉ 
+deaf. 0 Lord of Suras, the fourteen worlds do not shine. Deprived 
+of the Vedas, 0 Lord of Suras, I have become deficient in 
+vigour and vitality. Hence I bow down (arden_tly) . Whatever 
+there is, whether mobile or immobile, is entirely born of the 
+Vedas. 0 preceptor of the universe, the entire range of scrip­
+tural texts shines well only as long as the eternal treasure of 
+the Vedas has not been removed. By keeping up and holding 
+steadfast to the Vedas one can quell all sins as in the case of 
+the darkness that is destroyed by the rising sun. 
+The eternal Brahman is the subtle mystery in the Vedas. 0 
+Lord, I used to know it as seated in the heart. It has gone now 
+due to the roar of the Vedas. 0 Sankara, I was reciting the 
+Vedas before you to•day. All of a sudden, those Vedas have 
+gone away. 0 Lord, I shall not be in a position to create the 
+earth. All of them (the Vedas) have entered the ocean in 
+front. They are being requested for by me. Let them stay in 
+my memory. 0 Sarva, this daughter of wide eyes knows every­
+thing. 0 Bhava, no one else is like her. She has been in existence 
+for a thousand Yugas. This illustrious sage MarkaQ.<;la is the 
+most excellent one among intelligent ones. 0 Mahadeva, he 
+attends upon you \,n every Kalpa. He performs excellent Vratas 
+for the sake of the welfare of the three worlds. " 
+29-39. 
+On being told thus by Brahma Parameᤁthin, the 
+Lord of Devas spoke to Narmada, the most excellent one among 
+rivers, in sweet and smooth words: "0 blessed one, tell Brahma 
+what he is asking for? By whom have all the Vedas of Brahma, 
+the preceptor of the universe, been taken away? " On being 
+told thus by Rudra, the fawn-eyed one said: "0 Mahdvara, 
+while you were asleep, Brahma was reciting the Vedas. In this 
+terrible expanse of water, two terrible Danavas, Madhu and 
+Kaitabha, spotted out a vulnerable point. These two Asuras 
+were already born in the previous Kalpa. They could not be 
+defeated by Suras. 0 Mahadeva, formerly it was you who had 
+created thetn. Hence they were invincible to Suras and Asuras. 
+They had all the glory and fortune. They became subtle like
+
+## Page 45
+
+V.iii.9.40-50 
+33 
+wind. They snatched off all the Vedas even as the Grandfather 
+was reciting them. Thereafter they entered the great ocean. "1 
+On hearing these words of Amrta that highly refulgent one 
+remembered the Conch-discus-club-bearing Lord of Devas2• 0 
+great king, that excellent Sura, the Lord capable of bringing 
+about the death of the Danavas; the Lord adored by all the 
+deities, came to the surface of the earth. The Lord then as­
+sumed the form of a fish and stirred up the ocean. There the 
+Lord saw the Vedas kept in Patala. The Slayer of Madhu saw 
+the two Daityas of great vigour and vitality. By means of his 
+power he slew the two mighty-armed Daityas of great vigour 
+and terrific strength. The Lord of the cosmos bedecked by the 
+discus brought the Vedas kept hidden there in water and handed 
+them to the Four-faced Lord. 
+40-50. 
+Thereafter, having regained the Vedas Lord Pitamaha 
+became delighted. He again began the creation of the entire 
+universe consisting of the mobile and immobile beings. The 
+maid in attendance of Rudra, the meritorious divine river, the 
+sanctifier of all living beings, diverted her water there. 
+Thereᦊpon· Devas and sages, with penance as their sole asset, 
+began with highly delighted mind the worship of the Three­
+eyed Lord on her banks. The single form of Mahe§a became 
+for another reason triple arid began to function in the forms 
+of Brahma, ViᤁQU and Isvara. 
+Those who are deluded enough to emphasize absolute dis­
+tinction among these are of sinful activities. How can they h ave 
+piety and spiritual fulfilment? 
+· 
+In the same manner these three rivers born of Rudra are 
+one and the same in the different forms of Ganga, Reva and 
+Sarasvati. Ganga is the form of ViᤁQU and is conducive to the 
+destruction of all sins. Narmada originating from the body of 
+Rudra is also like that. The form of Brahma, Sarasvati, is well 
+known in all the three worlds. The divine form of the goddess 
+I . 
+The role of Narmada as the reporter ofVeda-snatchers, Madhu and Kaitabha, 
+to Siva who was lying asleep on the ocean of cosmic waters is meant for 
+the glorification of Narmada and Siva. BhP, Mbh and other Pun1Qas do 
+not attribute this (ViĄQu's) role to Siva. 
+2. 
+The credit of killing Madhu and Kaitabha and restoration of the Vedas 
+is not denied to ViĄQU. But it is said that he was commanded to do so 
+by Siva. This is a Saivite twist to the episode.
+
+## Page 46
+
+34 
+Skanda Purii:T}a 
+can go wherever she desires. She stands for the richness (i.e. 
+powers) of speech. 
+Narmada is specially greatest and most auspicious form di­
+vinely bestowed with the power of going wherever she pleased. 
+Everywhere she is adored by Suras. She is remembered as the 
+subtlest of all subtle forms pervading all living beings. This is 
+the immortal, everlasting, excellent flight of stairs leading to 
+heaven (Svarga) . She was created by Rudra as the redeemer 
+of people from the ocean of worldly existence. 
+5 1-56. 
+Those who drink the water of this river become 
+liberated from the mass of great sins. They leave off the state 
+of mundane existence that existed without beginning and attain 
+the pure and permanent salvation. 
+As is Ganga, so is Reva and Sarasvati too is so. The merit 
+acquired from holy bath, visiting and meditation is mentioned 
+as equal. Due to the boon granted, the blessed one (Narmada) 
+is mentioned as superior by learned men. By the mercy (of the 
+Lord) she does not get defunct. If she is approached ( the 
+devotee is liberated) . Hence people are liberated from sins by 
+due performance of holy ablution and other auspicious rites, 
+if they bow down to the Three-eyed Lord on Narmada, 0 
+excellent king. Since this great river has originated from the 
+limbs of Uma and Rudra, she has become highly meritorious 
+and she takes the devotees to Svarga. 
+He who listens to the activity of the divine river (after getting 
+detached from the body of the excellent Isana) goes to Rudra, 
+being sung about loudly by Gandharvas and Yakl!as. 
+CHAPTER TEN 
+The Benefits of Bath in Narmada 
+Yudhi${hira said: 
+1-1 2. 
+0 excellent BrahmaQ.a, in which Kalpa was this highly 
+eᦋeemable Narmada divided by all the noble-souled sages en­
+dowed with the power of penance? Narrate this in detail, 0 
+most excellent one among eloquent persons. 
+What calamities have the people to face at the end of the
+
+## Page 47
+
+V.iii.l 0. 13-20a 
+35 
+Kalpa? 0 Sir, describe the arrangement as existed in the last 
+Kalpa? 0 sinless one, how was this in the earlier Kalpa that 
+preceded it? 
+On being requested thus in the midst of the assembly, Marka:r:tQa 
+spoke these words: 
+Miirkar.uj,eya said: 
+I shall narrate (it) . Let this be listened to by all. This story 
+has been successively heard from the earlier days. This is the 
+special story of the the great Kalpa beyond this one, when 
+Kala (Time, god of destruction) was terrible and hideous, caus­
+ing the destruction of the worlds. Even in that highly terrible 
+situation, this (river) did not die. Hen'ce she was divided by the 
+delighted (sages) . Listen to that story. In the three days of 
+Pitamaha, when the Yuga was about to come to an end, the 
+mental sons of Brahma, excellent persons like Brahma himself, 
+viz. Sanaka and other noble souls, and those who were called 
+Vaimanika Ga:r:tas (groups of people moving about in aerial 
+chariots) , the Guardians of the quarters, Yama, Indra, Varu:r:ta 
+and others-all these remained awaiting Kala (god of death) . 
+They were interested in the events of the world. Then; when 
+the Kalpa came to a close, they had excellent knowledge that 
+the life span of everyone comes to a close in accordance with 
+the nature of the Yuga. They then left Bhiirloka (earth) and 
+came to Bhuval). world. Then they gradually (moved) to Svarloka, 
+Mahal)., Jana and Tapas Lokas (regions) . After all the other 
+Lokas, they resorted to the excellent Satyaloka. For a period 
+of a thousand Yugas, they remained in Satyaloka, accompanied 
+by their sons and grandsons till the Cosmos was created again. 
+1 3-20a. 
+Such of those sons of Brahma as do not exist at the 
+beginning of the Kalpa, leave off the three worlds and remain 
+without any supporting base. The Brahma:r:tas who _ were with 
+them and the ascetics as well, Yakᤁas, Rakᤁasas,· Pisacas, the 
+other Vaimanika Ga:r:tas, the highly esteemable sages, the dif­
+ferent kinds of Var:r:tas -all these undergo suffering on the 
+earth along with others dwelling on the surface. 
+A great drought extending to a hundied years happened to 
+befall them. It was extremely terrible, bringing about the de­
+struction of the worlds, causing trees and creepers also to perish.
+
+## Page 48
+
+36 
+Skanda Purii:r;a 
+It brought about a great agitation in all the three worlds and 
+· dried up the seven oceans. All the people were overpowered 
+by hunger. They began to wander in all the ten quarters. In 
+their miserable condition, they sustained themselves with fruits 
+and roots and bulbous roots. The rivers, wells, oceans and 
+sacred Tlrthas as well were resorted to. These too-all the 
+oceans and rivers, got dried up. Thereat living beings of very 
+poor intrinsic strength got perished at the outset, being de­
+prived of a great quantity of water. 
+20b-27a. When the rivers and oceans got destroyed, sixty 
+thousand sages living in Kurukᤁetra, Vaikhanasa BrahmaiJ.as, 
+Dantoliikhalins (who just bit grains with their teeth making 
+them their threshing and pounding rods) , ascetics who lived 
+in secret caves of Himacala -all these ascetics who were dis­
+tressed due to hunger and thirst approached me. With palms 
+joined together in veneration all said: "0 great sage, we are 
+in anguish. 0 Brahmal).a, the whole universe consisting of rivers, 
+oceans and mountains has completely dried up. Where will we 
+_all go together until the times change? 0 eminent Brahmal).a, 
+you are long-lived. You did not die even at the close of the 
+Yuga. Everything of the past, future and present is retained in 
+your heart (memory) . Hence you know everything. 0 BrahmaiJ.a 
+of great holy rites, do tell us. How long will we have to spend, 
+0 highly esteemable sage of good Vratas? All the mobile and 
+immobile beings are distressed on being assailed by drought. 
+Save us from utter annihilation, 0 highly esteemable one." 
+27b-33a There upon, I mentally pondered and spoke thus 
+urging those Brahmal).as: "All of you leave this Kurukᤁetra along 
+with your wives and sons. Leaving this northern quarter, let us 
+go to the excellent southern region, abounding in towns, vil­
+lages and milkmen's colonies, and beautified by cities and met­
+ropolitan . areas. Let us go to the banks of Narmada resorted 
+to by many Siddhas. Let us see that highly meritorious (river) 
+born of Rudra's limbs, conducive to the destructim1 of all sins, 
+the highly esteemable one surrounded by Nyagrodha trees. 
+Her waters have ripples and whirlpools; she abounds in frogs 
+and fish. The chirping sound of different kinds of birds rever­
+berates. Crores of sages resort to her. She is ardently attended 
+upon by the devotees of Mahe5vara, Sankhyas and Siddhaᦌ. We 
+are afraid of droughts but on both of her banks we shall build
+
+## Page 49
+
+V.iii. l 0.33b-52 
+37 
+our hermitages without difficulty. We can successfully perform 
+holy rites. " 
+33b-36. 
+On being told thus tpey came to the banks of Narmada 
+accompanied by their followers. They settled there without any 
+fear from anyWhere. They remembered the tqmmon. difficul­
+ties at the beginning of a Kalpa . They came to ·the banks of 
+Narmada at the very beginning· of Kali Yuga. 
+Then for a complete period of a hundred divine, years they 
+stayed on · the banks of Reva. 0 king, I witnessed the Ipiracle 
+of ihe stay of the sages there for a period of thirtyĮsix thousand 
+human years. 
+37-52. 
+When (the other parts of} the world were assailed 
+by drought, when the mobile and immobile beings became 
+dried up, when all the reckonings of the beginning of the Yuga 
+had been changed, when there was loss of "' consciousness fol­
+lowed by a hue and cry, when the classification of the four 
+Vaqtas became extinct, when the . order of Balis (oblations) 
+and Homas became defunct, when the utterance of the phrases 
+Svaha and VaEat ceased, when ' the purity of personal cleanli­
+ness and good conduct was no longer maintained, then this 
+excellent river alone was resorted to by crores of sages. No· 
+other river was as beautiful as this in all the three worlds, 0 
+king. This region with the meritorious water shone like the city 
+of Amaravati of Indra. The divine river Narmada shone like 
+Ganga in Svarga. 
+The temples and shrines were splendid and the hermitages 
+were well-planned . There were as many shrines adorning both 
+the banks as there w.ere trees and mountains up to the spot 
+where she meets the otrean. When Agnihotras were performed, 
+the sacrificial offerings and the smoke issuing forth gave the 
+region around Narmada the appearance of a night during rainy 
+season . 
+Shining splendid with the adorations and consecrations in 
+the many shrines, the area with many rivers blazed like the 
+cities of Indra and of Bhaskara. 
+Sorne pįrforİed austerities in the midst of five fires. Some 
+performed Agnihotras. Some of them were engaged in austere 
+penance and they took in (inhiiled) the columns of smoke . 
+Some were engaged in Atmayajfia (meditation on the self) . 
+Others were engaged in devotional practiceı. Some followed 
+the VaiZQava tenets and others the Saiva observances of vows.
+
+## Page 50
+
+38 
+Skanda Purii:r:ta 
+In taking food also, they had varieties: Intake of food once 
+in a day, once in two days, once in six days etc. Some practised 
+Candraya:r:ta; some Krcchra and some Atikrcchra. Thus they 
+worshipped Lord Sarikara and Lord Ke5ava by means of these 
+and similar kinds of austerities elaborately practised on the 
+banks of Narmada. 
+They worshipped the great Lord as a single entity or in 
+different forms. In the extremely terrible Kali Yuga, they at­
+tained excellent Siddhi. Lord Isa granted Siddhis to the differ­
+ent devotees in accordance with the .nature of their devotion, 
+extent of knowledge and the aspect of the deity adored with 
+devotion. In accordance with the natural urge they attained 
+Siddhi and got dissolved (in the deity?) . 
+Those people who resort to different deities, wallow in the 
+ocean of worldly existence. They are persons who leave the 
+great tree of !sana and cling to the branches. They come back 
+to the world and are born frequently. In the course of the four 
+Yugas, they wander successively in various kinds of births as 
+Devas, immobile beings etc. 
+53-6 I. Re-birth, off to Svarga and down to the terrible Raurava­
+that will be their lot. On the other hand, those who devoutly 
+worship Bhava, Lord !sana, on the banks of Narmada, are not 
+born again. Some of those who had been adoring till their 
+death had attained the greatest goal; some in twelve years; 
+other ascetics in six years; some in three years; some in a single 
+year. Some have become Siddhas in six months and others in 
+three months. These sages had resorted to the Lord and Narmada 
+of great renown. After cutting off all the defects of the worldly 
+existence, they have attained the eternal Brahman. 
+Thus in Kali ·Age, hundreds and thousands of sages have 
+resorted to the banks of Narmada and merged into Rudra. 
+Those Brahma:r:tas who resort to the banks of Narmada and put 
+in effort to perform the Saiva Vrata, devoutly take their holy 
+bath thrice a day and adore the Lord, attain Siva. Or those who 
+constantly remember Naraya:r:ta along with meditations, adora­
+tions, Japas and Mahavratas cross to the other shore of the 
+ocean of worldly existence like royal swans with' their white 
+wings well-washed. 
+It is the truth. It is the truth. Again it is the truth. It is being 
+proclaimed with raised hands. This has been excellently decided 
+and concluded that Narayal}a should be meditated upon always.
+
+## Page 51
+
+V.iii. l0.62-75 
+39 
+62-68. 
+He who conquers his self, 0 king, resides for a 
+month or a fortnight resorting to Reva and worships Hara, 
+becomes a man of great esteem. He shall become identical 
+with the Pinakaᦍbearing Lord of Devas. 
+Even worms, insects and ants that die in the waters of Narmada, 
+attain divine forms. They are born in noble families living for 
+a hundred years engaged in pious rites. 
+Those trees whose roots have been eroded by the great 
+waves and rapid currents and fall down in due course, get their 
+sins destroyed through the waters of Narmada. They shine 
+refulgently and proceed to heaven. 
+Even senseless, deaf and mute ones having no vested inter­
+ests and ardent desires or those who earnestly desire things, 
+when they die on the banks of Reva, do '"go to heaven. Why 
+should one doubt then about the Brahmar:tas endowed with 
+emotional fervour with Bhava as their object of worship? 
+The devotees who perform the_ worship of Siva and direct 
+their mental feelings towards Ke8ava and get their bodies purified 
+by the waters of Reva, do attain, on being liberated from their 
+bodies, that goal which those others who subject their limbs 
+to desiccation through monthly fasts do not attain. 
+Those who resort to the banks of Narmada and adore Siva 
+of immutable splendour or NarayaQ.a with mental purity, do 
+not taste the breast-milk of mothers again. There are other 
+great sages wh<;> resort to the banks of Narmada eulogized with 
+hymns by Devas, and sustain themselves through grains of Nivara, 
+Syamaka, Yava, Iilguda etc.; they do not meet with death. 
+69-75. 
+Those who approach the banks of the divine river 
+and get themselves truly purified by the worship of the Lord 
+thrice a day, do not lie down again within the belly of a young 
+woman with faeces, urine, skin, bones and veins as their pillows. 
+Of what avail to them are the many kinds of sacrifices and 
+Dana or the entire range of excellent Tirthas resorted to by 
+them? They resort to the northern or southern banks of Narmada 
+travᦎrsed previously by Rudra himself. Those men who do not 
+resort to Reva who originated from Rudra's body and who 
+functions like a flight of stairs unto heaven, have been cheated, 
+are lame, sluggish and blind and are on a par with" brutes. 
+The eminent Brahmar:tas who never wish to see Kaliyuga 
+again shall approach the banks of Narmada, eschew associa-
+
+## Page 52
+
+40 
+Skanda Purii:IJa 
+tion with all the others and worship Sarva. In spite of being 
+overwhelmed by innumerable obstacles ᦏhose who never leave 
+the banks of Narmada are worthy of being honoured: They 
+should be venerated by all the people. They do what is ben­
+eficial to all the peopl«:!. 
+Bhrgu, Atri, Gargeya, VasiHha and Kanka along with hun­
+dreds of other persons have taken bath in the waters (of this 
+river) , have attained the greatest of Siddhis and have gone to 
+the worlds of Maruts (Devas) , not to others. 
+Those who are always pure in their "inner thoughts and read 
+this holy and highly meritorious narrative that yields wisdom, 
+are really men of great esteem. They attain the greatest goal. 
+Indeed the statement of Rudra himself is a valid testimony 
+thereof. 
+CHAPTER ELEVEN 
+The Greatness of Narmada 
+Yudhi$thira said: 
+1-6. It is pleasantly wonderful that this river is very signifi­
+cant and highly meritorious as she has not been destroyed at 
+the end of the Yuga. Hence she is the worthiest of being re­
+sorted to by leading sages eagerly interested in meditation, 
+adoration and holy bath. 
+The sages earnest in pious rites attained salvation by resort­
+ing to that river: I understand from your statement that the 
+rules and observances based on the Vedic passages and evolved 
+by the sages, are conducive to the attainment of salvation. The 
+different kinds of observances along with the adoration of the 
+Lord of Devas, enable them to become liberated from the 
+defects of Kali. They may be liberated in twelve, ten, eight, six, 
+four or three years or even months. Undoubtedly one who 
+adores Brahina, the most excellent one of Suras, or· Kesava, the 
+preceptor of the universe, dispels all sins. Mention all these in 
+detail, 0 sinless one. All the creatures are deeply immersed in 
+the dense mire of worldly existence. How do they attain Svarga? 
+This is my doubt. Do clarify it.
+
+## Page 53
+
+V.iii. l l . 7-19 
+41 
+Sri Miirka7J4eya said: 
+7-1 3. After a number of births human state is obtained. 
+With great difficulty devotion to Sailkara is generated. This 
+attainment is rendered possible through Tlrthas, Danas, fasts, 
+Yajfias, adorations Qf Devas and Bn'ihmaQas and through great 
+faith, 0 king. Hence faith has to be maintained by men fond 
+of pious rites. Isvara is also attainable by Sraddha (faith) . Hence 
+faith is considered specially significant. Otherwise, if it is devoid 
+of Sraddha, everything is fruitless, 0 descendant of Bharata. 
+Hence one should resort to devotion to Rudra Parameᤁᤃhin. 
+Only the life of those is fruitful who have unswerving devotion. 
+Bhakti (devotion) is of three kinds, namely Sattvikl, Rajasl and 
+Tamasi and the benefit derived by all tMe people is also of 
+three kinds. Men are reborn again and again as a result of 
+their Karmas. After hundreds of births, wise worshippers of the 
+deities obtain devotion to the three deities when sinful Karmas 
+are destroyed. 
+1 4-19. 
+Through (the kindness of) Isana, salvation is ob­
+tained thereafter without any doubt. Those excellent BrahmaQaS 
+who resort to the banks of Narmada and follow the Rath of the 
+Vedas, attain the greatest goal undoubtedly. Those excellent 
+Brahmat:Jas who resort to the banks of Narmada, who ardently 
+follow the path prescribed in the three Vedas reach the high­
+est goal. Those people who are of concentrated minds and 
+who ardently worship the immutable Siva attain spiritual progress 
+quickly. 
+Embodied beings attain spiritual progress after · lapse of a 
+great deal of time in places other than the banks of Narmada, 
+but here the spiritual progress is attained quickly. Men con­
+versant ·with Sankhya (path of knowledge) attain Siddhi in six 
+years. VaiᤁQavas richly endowed with knowledge, also achieve . 
+progress before that. Like rivers joining the ·ocean, all those 
+who know and practise Yoga become unified in the Mahe5vara 
+Yoga at the end of the Kalpa. 
+Of all the Yogas Mahe8vara Yoga is the most excellent. Resorting 
+to it, even those of sinful origins cease to have rebirths by 
+adoring Siva on the banks of the river. 
+This type. of progress is very difficult to accomplish. It de­
+stroys all sins. By resorting to Reva all creatures are liberated 
+quickly.
+
+## Page 54
+
+42 
+Skanda Purii:r_ta 
+20. 
+Even if they belong to sinful species, by worshipping 
+Siva on the banks of Narmada they are not born again in (any 
+of) the species. 
+2 1 . 
+This goal is difficult to attain. She destroys all sins. 
+Beings get liberated from Sarilsara ' after resorting to Reva. 
+22. 
+Hence one should as a habit take the holy bath and 
+smear oneself with holy ash. By approaching the banks of Narmada, 
+one shall quickly attain Siddhi. 
+23-32. 
+A man who calmly and respectfully adores the Liil.ga 
+thrice a day, shall become freed from all ailments and attain 
+the greatest goal. 
+Even if he be a sinner, he will attain Siddhi in six months. 
+Those who have great purity of mind attain Siddhi in three 
+months. 
+Just as sno.w touched by rays of the Sun breaks into frag­
+ments and vanishes from the top of a mountain, so also sin 
+when touched by the splendid particles of holy ash gets de­
+stroyed. 
+Those BrahmaQ.as devoted to Rudra who are sprinkled with 
+holy ash charged with the Mantra Sadyojata1 etc. shine like the 
+Sun without impurities. 
+Just as serpents afraid of Garu<;la, perish, so also the sins 
+when sprinkled with ash, perish. 
+Those who smear themselves with the holy ash sanctified by 
+the waters of Narmada, are immediately ri'd of masses of sins. 
+There is no doubt about it. 
+Those who observe Pasupata Vrata devoutly in the manner 
+enjoined without eatiᦐg Sudra food attain the greatest goal. 
+BrahmaQ.a's food is (regarded as) Amrta (Nectar) ; ᤏatriya's 
+food is remembered as milk; Vaisya's food is mere food, and 
+Sudra's food is proclaimed as blood. 
+Those excellent BrahmaQ.as who get nourished with Sudra's 
+food and juice and later die, become deprived of Tapas and 
+knowledge and are born as crows and vultures. 
+I. 
+The following are the sources of the Mantras: 
+i) agnimi!e purohitam (RV I. 1 . 1 .) 
+ii) ibetvo (KS 3-6) . 
+iii) agna ayahi vitaye (RV VI. 16.10) . 
+iv) .ianno devi abhiblaye (RV X.9.4) .
+
+## Page 55
+
+V.iii. l l .33-50 
+43 
+Sinful action of men remains based on their food. If one 
+takes anyone's food, he takes the latter's sin too. 
+33-40. 
+Sankara has declared that, more particularly so, in 
+the case of those who are unsteady in the performance of 
+austerities despite the fact that they have resorted to the holy 
+rites of ascetics. Undoubtedly they go to Naraka,. 
+Brahmar:tas of this type, if they are well established in Pasupatya 
+Vrata, do undoubtedly burn the great mass of sins. 
+This has been urged by Sruti that those who associate with 
+a cheat and are afflicted by avariciousness should not be talked. 
+to or associated with (accommodated in the party of the good) . 
+People are ruined due to the faults committed by their parents; 
+others are ruined as a result of their own actions; and still 
+others a•·e ruined due to vanity born of knowledge and egotism. 
+Those who have been excluded through the orders of the 
+Smrtis but still adhere to Sailkara's pious rite, undergo suffer­
+ings, but in due course they attain the greatest goal. 
+Fools, men who have no faith, those with increasing hypoc­
+risy, wicked souls and those who glorify a bad doctrine do not 
+attain Siddhi. 
+Those who adhere to Sankara Vrata and are highly fortu­
+nate in practising the rites of Tirtha, are born undoubtedly in 
+base wombs, if they are avaricious. 
+Evil action is not quelled by Tirthas and Danas. But sins 
+committed due to inadvertence or ignorance become dissolved. 
+41-50. 
+After knowing this, all Brahmar:tas should act in 
+accordance with the injunctions (of religion) . They must fre­
+quently recite in a low voice the great Brahman (the Vedic 
+passages) . He who recites the passages connected with Lord 
+Viriipakᤁa (Siva) pf the highest form and also the Rudra Mantras 
+sees isana directly within six months if he avoids undue attach­
+ment (to the world) . He who has perfect self-control and recites 
+the Sarhhitas ten times on the banks of Narmada shall be 
+liberated from all sins. 
+He who reads the Purar:ta Sarhhita whether pertaining to 
+Siva or Viᤁt:J.u, before a Sivalinga on the banks of Narmada 
+becomes identical with Siva. Until the destruCtion of all living 
+beings, he is . honoured in Svargaloka. 
+This Nandigita was formerly uttered by Nandin . in order to 
+dispel the sufferings of worldly existence.
+
+## Page 56
+
+44 
+Skanda Puro:r;ta 
+He uttered this in a Siva shrine in the assembly of celestial 
+sages, Siddhas and Gandharvas. Listen to this splendid Nandigita, 
+0 king, with full concentration of mind. It is meritorious. It 
+gives heavenly pleasures and salvation. It destroys the fear of 
+worldly existence. 
+"0 people distressed at every step by worldly sufferings, if 
+you wish to avoid the deep abyss of worldly existence, 0 people 
+bound with different kinds of bonds of Karmas perpetrated by 
+yourselves, listen for the sake of your own happiness to this 
+beneficial thing recounted by me. 
+0 Sakra, do not go along the crooked path. 0 Yama, do not 
+torture me. 0 Pracetas (Varul).a) , subdue your own mind. 0 
+Vittapa (Kubera) , eschew avariciousness. 
+If you are sick and disgusted with the tossings and upheavals 
+of the waves of the ocean of worldly existence, distribute your 
+entire wealth among the distressed and helpless peᦑple and 
+also the people of distinguished characteristics. 
+51-60. 
+The Pinaka-wielding holy Lord protects the man 
+who is disgusted with birth, is afraid of death and is over­
+whelmed by lust etc., but who does not slip from Yama (re­
+straints) , . Niyama (observances) etc. 
+0 Kinasa (god of death } , do not be arrogant. If you inflict 
+injury on a creature that has sought refuge in Sarva (Siva) , you 
+will be laughed at. That alone will be your refuge. 
+What can cause fear unto men devoted to Siva and Viᤁl).u? 
+The terrible Kala is but a child. Who is Mrtyu (god of death) ? 
+Who is base Yama? (They are negligible. ) 
+Unto the creature distressed by the burden of mundane 
+existence (but) habitually residing on the banks of Reva, Bharga 
+and Bhagavan (Viᤁl).u) are destroyers of the fear from worldly 
+existence. 
+0 pitiable fellow, if you wish for (spiritual) knowledge and 
+salvation, resort to Siva, meditate upon Siva, eulogize Siva, 
+worship Siva and bow down to Siva. Recite the scriptural text 
+of Paiicanana (Pasupata Path) ; perform the Japa of the five­
+lettered Mantra ( namaQ siviiya) . Meditate on the Tattvas con­
+sisting of five; worship the great Paiicanana (Siva) . 
+Of what account are those series of rites which have been 
+differentiated due to diversity of nature, if the glorious Paiicanana, 
+Siva, is served exclusively?
+
+## Page 57
+
+V.iii.l l .61-70 
+45 
+Of what avail are the confident, maddening, trumpeting 
+sounds of the elephant of worldly existence, if Lord Paiicanana 
+(Siva; a lion) is resorted to with the positive fragrance of faith 
+and devotion? 0 foolish, deluded one, why do you grieve after 
+seeing the futility of Karmas? Perform the Japa of Bhlma ( the 
+terrible one) , the consort of Bhavanl, the destroyer of fear. 
+0 deluded one, resort to Bharga, the Lord of Suras, the 
+bestower of heavenly pleasures and salvation-Bharga who has 
+his abode on the banks of Narmada and who is the cause of 
+the destruction of numerous miseries. 
+61-70. 
+0 deluded one, why do you go to distant quarters 
+like a mad person (or) like one devoid of any feelings, after 
+abandoning Reva worthy of being attᦒnded upon by even the 
+celestial river, and where Lord Hara aiJd Lord Hari are sta­
+tioned on her banks? 
+Resort to the meritorious waters of Reva; worship the eter­
+nal Rudra; perform the japa of the five-lettered Mantra ( namaiJ, 
+siviiya) and go to the desired region. 
+Why torture your own body by pursuing innumerable means 
+of Mokl;ᦓ? Resort to Reva. After attaining Siva the greatest 
+region is easily achievable. " 
+What Nandin sang i n the presence of Siva i n this manner 
+after going to Kailasa and meeting the Guardians of the Quar­
+ters, has been recounted to you now. 
+Miirkarpf,eya said: 
+He who always protects pious rites and is devoted to the holy 
+bath and Dana after reaching the banks of Narmᦔda is rid of 
+all sins. 
+One may recite all the Vedas for a hundreᦕ years disregard­
+ing the injunctions or perform the Japa of Mrtyulaitgala 
+(Mrtyufijaya) Mantra, namely tryambakam yajiimahe, etc. (RV 
+Vll.59. 1 2) . This may equal the other or may be even superior 
+to it in GuQ.as (merits) . 
+Just as a person who is not pure either in Blja (semen i.e. 
+Father) or in Yoni (mother) does not obtain (the be1:1efit of) 
+Rudra Mantra, so also Laitgala (Mrtyufijaya Mantra) does not 
+stand by (save) the person bereft of life span. 
+A person of great self-control who performs the Japa of
+
+## Page 58
+
+46 
+Skanda Puriir.ta 
+Gayatrl is superior in good qualities. Stationing himself on the 
+banks of Narmada, he who recites Mantras beginning with 
+( I ) agnimzle, (2) i$etvo, (3) agna iiyiihi and (4) sanno devz, is rid 
+of sins. 
+One would perform Brahma Yajiia. One who always per­
+forms, with concentration, the Japa of the Vedas along with 
+the Angas and Upangas, does not obtain that benefit which a 
+man of self-control obtains by the Japa of Gayatrl. 
+71-80. 
+A Brahmat:ta equipped with the (knowledge of) Veda 
+is rid of all sins by performing once the Japa of Rudriidhyiiya. 
+He goes to Viᤁt:tuloka. 
+By performingjapa of another Sarhsthana, Siikta or Arat:tyaka 
+one is rid of all sins and goes to ViᤁQuloka. 
+Whatever Japa is performed and whatever Dana is offered, if 
+done so on the banks of Narmada, shall become everlasting. 
+Those who always resort to Narmada with Vratas of this sort go 
+to the VaiᤁQava region or the immutable Saiva region after death. 
+Some men go to Satyaloka and others go to Siiryaloka. There 
+they remain surrounded by groups of heavenly damsels till all 
+the living beings are annihilated. While this was the situation 
+in this world, 0 great king, ten crores of sages, original inhab­
+itants of Kurukᤁetra, resorted to the banks of Narmada along 
+with me, 0 blessed one. They had their diet restricted to fruits 
+and roots and they continued to adore Siva. 
+The period of time extended to a hundred divine years 
+which according to human reckoning comes to thirty-six thousand 
+(years) . 
+When the Sandhya period elapsed, 0 excellent king, the 
+remainder stood at a hundred years of human reckoning. Then 
+there was a drought that destroyed all people, whereby everything 
+met terrible destruction. 
+81-90. 
+Due to the power of those sages who had mastered 
+the Vedas and attained Siddhi earlier, Lord Indra. the slayer 
+of Bala and Vrtra, showered rain. 
+All round there was the downpour with profuse supply of 
+water. As a result of the rain, their sustenance became possible. 
+A long period of time was spent by those desirous of great 
+Siddhi (sustaining themselves) with Syamaka, lnguda, Bilva and 
+other things growing on the banks of Narmada. 
+Again when there was the advent of the closing period of
+
+## Page 59
+
+V.iii. l 1 .91-96 
+47 
+the Yuga and oniy a small part of Kali Yuga remained, all the 
+mobile and immobile beings became entirely dried up. 
+The entire surface of the earth became denuded of trees, 
+medicinal herbs and hedges, grasses and creepers too, as it was 
+affected by drought. 
+Thereupon thousands of those · sages became distressed due 
+to hunger ·and thirst. As befitting the nature of the Yuga, 0 
+king, they became bereft of Sattva (intrinsic strength) . 
+When the end of the Yuga was imminent, when people ceased 
+to utter Svadha and perform Homa, they were unable to de­
+cide: "What should be done? Where will we go? Who will be 
+our refuge?" 
+I told them repeatedly: "Do not be af.-aid. Many such changes 
+of times have been witnessed by me. " 
+They were brought to the banks of Narmada by m e . "This 
+divine (river) alone is our refuge when the close of the Yuga 
+is imminent. 0 excellent Brahmal).as, we do not have any other 
+refuge. This is the mother of all living beings, 0 excellent 
+Brahmal).as. 
+91-96. . It was by resorting to this great river that our grand­
+fathers and great-grandfathers and other forefathers-all of 
+them, went to heaven. 
+. 
+Seven of my earlier grandfathers beginning with Bhrgu, 
+DhaumrQ.i, my wife, the highly virtuous lady of pure smiles, 
+Manasvatl, my mother, Bhargavas, Ailgiras-s, Pulastya, Pulaha, 
+VasiHha, Atreya, Kasyapa and other highly glorious ones prac­
+tising vows and observances numbering hundreds of thousands 
+attained Siddhi here. 
+Hence this highly esteemable river should never be aban­
+doned. No other river is capable of giving the benefit of the 
+three worlds. 
+The residents of the banks of Narmada are rid immediately 
+of many Dvandvas (mutually conflicting things) and also the 
+great fear of hunger and thirst. Hence the excellent river should 
+be resorted to with all endeavour by those who desire great 
+welfare here in this world and hereafter. "
+
+## Page 60
+
+48 
+Skanda Purii:r_ta 
+CHAPTER TWELVE 
+Eulogy of Narmada 
+Sri Miirkar.uf,eya said: 
+1-6. 
+On hearing this, 0 king, the sages became highly 
+delighted. With palms joined together in veneration the BrahmaQ.as 
+began to eulogize .Narmada. 
+"Obeisance to you, 0 divine river of meritorious waters. 0 
+alligator-gaited one, obeisance. Obeisance to thee, the redeemer 
+from sins. Obeisance, 0 goddess of excellent countenance. 
+Obeisance to you, 0 splendid one, 0 reservoir of meritori­
+ous waters. 0 river of pure Sattva quality, served by Suras and 
+Siddhas, obeisance to you, the excellent one originating from 
+the limbs of Rudra. 
+Obeisance to you, 0 divine river, flowing towards the sea, 
+0 auspicious one, 0 bestower of boons. Obeisance to you, 0 
+bestower of the happiness of the two worlds (here and here­
+- after) , 0 sinless one to whom many groups of living beings 
+have resorted. 
+0 excellent one among rivers, 0 remover of sins, 0 river 
+of diverse varieties, your limbs have been resorted to by Gandharvas, 
+Yakᤁas and Uragas; 0 eternal onP., you have mercy on groups 
+of living beings; 0 bestower of salvation, 0 divine one, do what 
+is beneficial to us. 
+0 divine one served and attended upon by big multitudes 
+of huge elephants, buffaloes and boars! You have great waves 
+as garlands. 0 bestower of boons, 0 bestower of happiness, all 
+of us bow down to you. Release us from the bondage of the 
+(category) of Pasus. 
+7-1 5. Men wander through the various Narakas because they 
+are fettered with many kinds of inauspicious sins. But their 
+sufferings torment them only till they do not touch. your waters 
+emerging from the waves set in motion by violent gusts of 
+winds. 0 lotus-faced one, you are the goal unto those who are 
+tortured by the fear of many series of miseries, who are envel­
+oped by many sins and overwhelmed by many Dvandvas ( mu­
+tually opposing pairs e.g. pleasure-pain) . 
+0 divine river, there is no doubt about this that after attain-
+
+## Page 61
+
+V.iii. l2.16-18 
+49 
+ing you all the rivers become sanctified and free from impu­
+rities. You gra,nt freedom from fear to those who are distressed 
+due to miseries. You have been honoured by many excellent 
+and noble men. 
+The stones in you when touched by rays of the Moon and 
+the Sun, shall grant the greatest region. On being flooded with 
+your sacred waters, they attain great welfare and holiness. What 
+wonder can there be here? 
+Men wander through hells, become distressed with miseries 
+and their bodies become infested with sins only so long as they 
+do not resort to your waves and ripples set in motion by great 
+gusts of winds. 
+Mlecchas (barparians) , Pulindas (hunters) and Yatudhanas 
+(demons) who drink your meritorioi.tᥧ water, 0 divine river, 
+become liberated from terrible fears, undoubtedly. What won­
+der is here! 
+All the lakes and rivers have become defunct in this terrible, 
+defiled Kali Yuga; but,_ you, 0 divine river, shine with the full 
+complement of water like Ganga in heaven, the pathway of the 
+constellations. 
+0 excellent one, 0 giver of boons, we have waited so long. 
+Now, with your favour, we shall go to Rudra. Do grant uᥨ your 
+favour. 
+You are our goal like a mother or father who protects the 
+sons; proteCt us till the end of the Yuga. With your excellent 
+favour, we shall cross the adverse period when everything is 
+overwhelmed by a severe drought. " 
+1 6-18. 
+The eminent BrahmaQ.as who read this eulogy and 
+the quiescent men who listen to this attain Rudra by means of 
+a vehic;le drawn by a bull. They shall be adorned with divine 
+garments too. 
+Those who read this prayer always after taking the hofy bath 
+in the waters of Narmada, will ultimately be granted the purest 
+goal by this excellent river. 
+A devotee shall get up in the morning everyday and recite 
+this prayer. He may even recite it lying down on bed. He shall 
+be liberated from sins and becomes purified in body. He at­
+tains the abode of Mahe8vara.
+
+## Page 62
+
+50 
+Skanda Purii:r;ta 
+CHAPTER THIRTEEN 
+The Story of Twentyone Kalpas1 
+Sri Markatttf.eya said: 
+1-8. 
+On being eulogized thus by the leading sages, the 
+divine, meritorious river thought thus: 'I shall grant excellent 
+boon unto all. ' 
+Thereafter, o n coming to know that they were asleep during 
+the night, the Divinity of sweet smiles appeared before every 
+sage in dream. 
+When it was midnight, she arose from the midst of the water 
+(in the guise of a woman) clad in clean garments and be­
+decked in divine garlands. She was a lady of excellent waist: 
+She had an umbrella raised aloft. She was adorned in rubies. 
+To each of them she severally said: "Do not be afraid. Do 
+reside near me banishing the fear arising from hunger etc." 
+Mter saying thus to those great sages in the course of dream, 
+the divine one entered her own waters and disappeared. 
+Later, in the morning, the sages joyously said to one an­
+other: "The Divinity was seen by me in such and such form in 
+the course of a dream. She was excellent to look at. Freedom 
+from fear has ·been granted to us (and its) fulfilment too ere 
+long. Undoubtedly the vision of Narmada is remarkable." 
+9-1 5 
+Another day, 0 king, they witnessed along with the 
+members of their family in the vicinity of their own hermitages 
+fishes of excellent form. 
+On seeing the fishes there, the great sages became struck 
+witl: wonder. Without being excited they worshipped the dei­
+ties with Havya and Kavya. 
+Mter obtaining shoals of fishes with the favour of the great 
+goddess, they sustained themselves day "by day along with their 
+wives and sons.2 Still there were further shoals of fishes, on 
+ᥩeeing which they became struck with wonder.. 
+There were the dead Paᤃhina variety of fishes with well-
+1. 
+This chapter gives a list of twenty-one Kalpas (vv 42-45) . Narmada survived 
+all these Kalpas but MarkaQ¾eya lived for seven Kalpas from Mayiira to 
+Varaha (the present Kalpa)_. 
+2. 
+The sages do not obs˪rve strict vegetarianism. Probably fish was a staple 
+food of North Indian Brahmal)as then.
+
+## Page 63
+
+V.iii.l3.16-31 
+51 
+nourished limbs. 0 Yudhiᤁ!hira, at every threshold of the hermitages 
+of these ascetics, these fishes were seen dead. 
+Thereupon all the residents of the banks of Narmada be­
+came well-nourished and delighted. All the sages eschewed 
+every fear arising from hunger and thirst. 
+0 leader of the descendants of Bharata, they stayed on 
+performing penances andjapa. Resorting to the banks of Narmada, 
+they worshipped the Pitrs and Devas. 
+1 6-23. 
+With those excellent BrahmaQ.as performing Japa 
+and penance for ever, the excellent river shone like the firma­
+ment with stars and planets. 
+Formerly Narmada, the bestower of piety, was duly demar­
+cated by numerous brilliant BrahmaQ.as who had mastered the 
+Vedas. Narmada; the bestower of welfar(',.. on men, was demar­
+cated by ten crores of sages residing on the banks of Narmada, 
+the Divinity of well-defined limbs. 
+With resplendent sacred threads and rosary strings spread 
+on both the banks, 0 descendant ofBharata:, the highly meritorious 
+Narmada proceeding "towards the ocean shone remarkably. 
+There were several shrines with splendid Lingas made of 
+sand and clay, with which the excellent river shone like the 
+night that shines by means of stars. 
+Propitiating the Suras and Pitrs thus, all those sages resided 
+on the banks of Narmada till the ultimate annihilation of all 
+living beings. 
+Thereafter, a little more than a hundred terrible years elapsed, 
+0 descendant of Bharata. Then at midnight, a girl with reful­
+gence like that of a mass of lightning streaks rose up from the 
+water. She had a python serving as the Yajiiopavita. She was 
+gentle in appearance yet. In hand she grasped a trident. She 
+spoke ·to them then: 
+24-31 . 
+"0 ye groups of sages, do come. I am never born 
+of a womb. Do merge unto me along with your sons and wives. 
+Thereby you will achieve Siddhi. I shall grant you the several 
+wishes each one has. I shall take you unto ViᤁQ.u, Brahma, 
+Isana or any other excellent Sura. Indeed I am the bestower 
+of boons and am pleased. Be engrossed in PraQ.ayama ('re­
+straint of breath ') and enter with concentration along with 
+your sons and wives. Leave off your herᥪitages. You must not 
+waste time. Pralaya is imminent. It is the annihilation of all
+
+## Page 64
+
+52 
+Skanda Purii:r,ta 
+living beings. The Kalpa conflagration is extremely terrible. I 
+was the only one when there was the highly terrible destruc­
+tion of people. All the remaining rivers and all the seas have 
+become ( dried up and) defunct. Due to the boon granted by 
+Mahe5a, I am not annihilated. Stha:r:tu, the Lord, is immortal, 
+the eternal Lord. }'Vhat is it that he will not grant, 0 excellent 
+Brahma:r:tas, if he is duly adored and prayed to?" 
+Mter saying this to the sages, Reva, that Divinity who had 
+grasped a trident with her hand and who had the python serv­
+ing as a sacred thread, entered the water. 
+32-39. 
+On hearing her words their minds were overwhelmed 
+with wonder. All of them venerated me and repeatedly craved 
+for my pardon: 
+"While residing with your support we had uttered certain 
+things which may kindly be forgiven. " 
+All those highly fortunate ones abandoned their abodes along 
+with their kinsmen and disciples. They recited the Japa of the 
+sole imperishable Brahman (the single-syllabled OM) and meditated 
+on Mahe5vara in their hearts. They took their holy ablution in 
+the waters sanctified through Mantras. Mter having success­
+fully performed their holy Vratas, they entered the waters of 
+Narmada like winged mountains (entering the sea) 1 • With Kusa 
+grass i:n their hands and holding the sacred fires, they bright­
+ened all the quarters. 
+0 great king, I alone remained there after their departure. 
+I reached Amare5ᥫ and adored the river Narmada. The seven 
+Kalpas beginning with Mayiira were experienced by me, Q 
+king, 0 descendant of Bharata, due to the favour of Vedhas 
+(god Brahma) . I spent all those years along with Reva. 
+But ever since my birth till to-day, I do not know (the nature 
+of) her former existence. This Narmada is the Sakti of Sailkara, 
+the · Kala n.amed lla of Sarilbhu. She destroys all sins and re­
+deems people from worldly existence. 
+40-47. 
+0 son of Pa:r:t<;lu, in the fourteen earlier Kalpas, 
+when I too was not born, this (divine river) was happily present. 
+In those fourteen earlier Kalpas too Narmada never ceased to 
+exist. I shall recount them as that Divinity narrated to me. 
+1 . 
+I t appears that Brii.hmaJ)aS living on the banks were washed away i n the 
+flood of Narmada.
+
+## Page 65
+
+V.iii.l4.1-10 
+53 
+The list of Kalpas: 
+Know that the first one is Kipila; the second one is Prajapatya. 
+Thereafter the following: Brahina, Saumya, Savitra, Barhaspatya1 
+Prabhasaka, Mahendra, Agnikalpa, Jayanta, Maruta, Vaiᤌr:tava, 
+Bahuriipa and Jyautiᤌa is the fourteenth. These Kalpas which 
+I enumerated are those in which Narmada never ceased to be. 
+The fifteenth Kalpa is Mayiira; the sixteenth is Kaurma. Then 
+co.me the Kalpas: Baka, Matsya, Padma and Vatakilpa, 0 de­
+scendant of Bharata. The twenty-first current Kalpa· is Varaha. 
+These seven Kalpa-s were lived through by me along with Reva. 
+Thus the twenty-one Kalpas lived through by Narmada born 
+of Siva have been spoken by me in various ways. 
+0 excellent king, they have been mentioned to you. What 
+more shall I tell you? 
+CHAPTER FOURTEEN 
+Kalaratri Annihilates the Univƨse 
+YudhiEthira asked: 
+1-1 0. Then all those illustrious sages with austerities as their 
+asset went to the·highest world. What miracle did happen thereafter? 
+Sri MarkaTJ4eya replied: 
+Mter those residents of the banks o_f Narmada had gone, 
+there ensued the terrible annihilation causing the destruction 
+of all living beings. 
+By means of Ħ. YajuQ. and Sarna passages, Brahma and 
+others eulogized Lord Siva, the eternal great ·Lord seated on 
+the peak of Kailasa: 
+"0 Lord, annihilate the universe along with Devas, Asuras 
+and human beings. The end of a thousand Yugas has arrived: 
+It is capable of destroying (them) . 
+Adopting my form, all these visible worlds have b"een cre­
+ated by you. Assuming the form of Viᤌr:tu these have been 
+sustained. The same form has become trichotomized as Brahma,
+
+## Page 66
+
+54 
+Skanda Pura:T}a 
+Siva and ViᤁI).u for the purpose of creation, sustenance and 
+annihilation, 0 great Lord. " 
+O n hearing these truthful words of ViᤁI).u - ParameHhin, the 
+great Lord Siva pierced through the Cosmic Egg, greater than 
+the greatest, beginning with Bhiirloka and ending with Brahmaloka. 
+He was then accompanied by those two (Brahma and ViᤁI).u) 
+and Uma and all his retinue. Lord Nilalohita pierced through 
+the seven worlds and entered the beginningless divine region 
+of Siva along with them. 
+There was no wind there; there was no firmament there; 
+there was no fire; no surface of the ground where Sail.kara, the 
+Lord, was present along with Uma. There was no sun, no planets, 
+neither constellations nor the quarters. 
+1 1-22. 
+There were no Guardians of Quarters, 0 excellent 
+king, nor even pleasure and pain. Wise men called it the region 
+of Brahman; they call it the region of Siva. Others call him isa 
+and ᥬetrajiia (the immanent soul) . Sail.khyas praise him as 
+the · primordial liberation (Adimokᤁa) . 
+Some call it the pre-eminent Brahman. Some call him Sarva, 
+the age-old unborn isana. Some call him single-formed; some, 
+many-formed, the first and Avyaya (the immutable one) . It is 
+an entity having no colour, no name or lineage; the wise knowers 
+call it the fourth state ( Turyam Padam) 
+It is of the nature of Vijiiana (perfect knowledge) , the qbject 
+of meditation. It is the subtlest one resting in Atman, the most 
+excellent isana, the greatest one. 
+Then all those three came up to Lord isa and amalgamated 
+themselves into one form. They alone in their separate forms 
+protect the entire universe. 
+In the form of Rudra, the Lord causes the annihilation of 
+all living beings; in the form of ViᤁI).U he protects the worlds; 
+he is the cause of creation in the form of Brahma. 
+The great Lord becomes Kala on being united with Prakrti. 
+The multiformed, esteemable Prakrti abides at his side. 
+People conversant with it, who know the meanings of words, 
+call it Prakrt.i. It is Parame5vara who is the cause (of the dis­
+tinction between) Prakrti and Puruᤁa. 
+From him issued forth the entire universe, the mobile and 
+immobile beings. When the end of the Yuga arrives, it gets 
+merged in to him.
+
+## Page 67
+
+V.iii.l4.23-33 
+55 
+Everything marked by Bhaga and Liilga is pervaded by 
+Parameᤌthin: Viᤌr;tu is in the form of Bhaga and Mahesvara is 
+in the form of Linga. 
+Viᤌr;tu is remembered as Bhagal because he shines ( Bhati) in. 
+all the worlds and is sung about ( Giyate) in the worlds. He has 
+penetrated all the living beings in BhiiQ. and Bhuvar Loka. 
+He is said to be Viᤌr;tu because of Vis ana (en trance) . He is 
+the great Lord identical with all the Devas. The appellation 
+Bhaga is proclaimed due to Bhasana (shining) and G_amana 
+(moving about) . 
+· 
+23-33. 
+Learned men know it as Linga2 because it is that 
+in which everything in the world beginning with Brahma and 
+ending with a blade of grass gets merged and unified. 
+Thereupon Mahadeva said to the ·goddeᥭ who was standing 
+nearby:· "0 splendid lady, do not delay. Annihilate the entire 
+universe. Eschew this gentle form, resplendent like the white 
+rays of the Moon. Assume a terrible form and annihilate the 
+mobile and immobile beings. 
+0 lotus-eyed goddess, be surrounded by the terrible and 
+hideous groups of goblins and devour the entire world of liv­
+ing beings. 
+Thereafter I shall destroy the universe and make it flooded. 
+After converting everything into a vast expanse of water I shall 
+happily go to sleep along with you." 
+Sri Devi said: 
+0 highly brilliant Lord, I would rather not annihilate this 
+universe. Having been its mother I would not devour it as l.t 
+is motionless and extremely distressed. Due to the innate womanly 
+nature, my heart melts with pity. 0 Lord of the universe, how 
+can I burn down this universe? Hence, 0 Sailkara, you yourself 
+do annihilate this universe. 
+On being spoken thus, Dhiirjati Nilalohita became angry. 
+He rebuked the godd.ess Mahdvari with a gruff, hissing HUM 
+sound·. With his eyes blazing with anger, he said thus: "Om hum 
+1 . 
+A popular etymology of 'Bhaga' and 'Vi¨©u. ' 
+2 . 
+A popular etymology o f the word 'Linga'. This i s accepted i n Virasaiva 
+Texts.
+
+## Page 68
+
+56 
+Skanda Pura:IJ.a 
+phat tvam sal],"1 0 descendant of Bharata, on being slighted 
+with Hurhkara, the wide-eyed goddess of plump thighs and 
+hips became instantly hideous like Kalaratri {Nightmare) . Pro­
+ducing hissing, gruff sounds of loud report, she made the ten 
+quarters reverberate. Like a lightning streak of excessive hid­
+eousness, she increased in size. 
+34-46. 
+She was too dazzling to be seen, like a lightning 
+streak. She was swiftly moving as clusters of lightning streaks. 
+She was excited and enraged like the flames {streaks) of light­
+ning. Her eyes resembled the fiery lightning. 
+Her hairs were dishevelled and her eyes were wide; her neck 
+and her belly were lean . . She was clad in the hide of a tiger 
+and a python served as the. sacred thread. She was bedecked 
+with scorpions and lizands blazing like the mass of flames. In 
+height and magnitude she covered the three worlds. Her limbs 
+shone and the black serpents served as earrings. She kept a 
+stout stick of various colours raised aloft. She had covered 
+herself with the hide of a tiger. Causing the destruction of the 
+universe the highly terrible deity increased in size, licking the 
+corners of the mouth. She hissed making the sound Hum. She 
+opened her mouth wide making gruff sounds and causing 
+excitement un to the entire universe. The goblins following her 
+began to gambol and frisk. She took deep breaths exhibiting 
+her anger. Laughing boisterously, she distorted the nostrils. 
+Her eyes resembled a pit of fire. Making shrill sounds she 
+burned the entire universe. 
+Being burnt thus, Suras fell on the earth. So also did Yakᤁas, 
+Gandharvas and Kinnaras along with the great serpents .. The 
+multitudes of Bhiitas crying Hiihii and Hai-Hai fell down. They 
+tumbled down with loud lamentations and cries of distress. 
+The entire universe with all the three worlds became filled 
+with these howls and squeals. All the world became filled with 
+these falling, flying and ·blazing beings. The entire earth was 
+covered with the tumbling peaks of mountains making noise 
+like Catacata {crackling sound) . In that violent festival, she 
+heightened .the delight of Rudra. 
+Injuring and torturing the living beings, munching and 
+· I. 
+These are the "Seeds" of Mantras (Mantra-bijas) of a destructive nature. 
+Using these Mantra-bijas, Sankara transformed the motherly Uma into a 
+devouring ogress in order to destroy the universe.
+
+## Page 69
+
+V.iii.l 4.4 7-66 
+57 
+crunching the immobile beings, she inhaled the odour arising 
+from the various things that were consumed by the fire. She 
+howled like a vixen. 
+In that violent destructive activity of annihilating the uni­
+verse, CaQc;li became all the more ferocious with the face rendered 
+gory with streams of blood oozing out and the entire body 
+smeared with blood gushing in currents. 
+47-57. 
+Hundreds of the BrahmaiJ.as, ᥬatriyas, Vaisyas and 
+others and the 'great sages beginning with Bhrgu who had 
+reached the Mahar Loka began to perish. Devas and Asuras 
+became terrified. So also Yakᤁas, Uragas and Rakᤁasas. Some 
+of them entered Patala and got them concealed in the caves 
+and lakes. 
+That goddess pervaded all the quarters and stationed her­
+self like death personified. She had been engaged by the Lord 
+in that period of destruction of the Yuga. 
+Originally single, she transformed herself into nine and then 
+into ten forms. Bursting into boisterous laughter she assumed 
+sixty-four forms and then a hundred forms. Siva, the goddess, 
+became thousand-formed and then assumed millions and crores 
+of bodies, Her forms were numerous, her sizes were diverse 
+and she had innumerable weapons. Her movements were of 
+various sorts. At the behest of Siva the goddess assumed these 
+forms, 0 king. The groups of the followers of Mahdvara wielded 
+hideous weapons in the firmament i.n all the quarters checking 
+and restraining the fleeing beings. Armed with tridents and 
+Panisas they wandered everywhere accompanying her. 
+Then some of the excessively fierce groups of Matrs in the 
+company of Vinayakas rose up in size and started the act of 
+annihilating the universe. 
+Thereupon her curved fang-like teeth resembling 1\.unda 
+flowers and the moon lengthened into thousands, ten thou­
+sands and billions of Yojanas. The rows of fangs and the nails 
+were sharp and rough. They ruthlessly scraped the sky and the 
+quarters and overspread the earth consisting of the seven 
+continents. The forests and the mountains were smashed to 
+smithereens when struck with those fangs. The rocks and boulders 
+crumbled into thousands of pieces. 
+58-66. 
+Himavan, Hemakilᤍa. Niᤌadha, Gandhamadana, 
+Malyavan, Nila, the great mountain Sveta, the centre of M;eru,
+
+## Page 70
+
+58 
+Skanda Purii:TJa 
+IHipiᤃha, all the seven continents and the oceans and also the 
+mountain Lokaloka trembled and quivered, 0 excellent king. 
+Great trees became shattered on being hit with the curved 
+fangs resembling thunderbolt. Terrible evil portents overshad­
+owed the quarters around along with the stars, planets and 
+groups of beings moving about in aerial chariots. Surrounded 
+by thousands of vixen and the great MatrgaQ.as she wandered 
+over the entire universe at the conclusion of the Yuga. 
+They were whirling, shouting and howling. Some were thrashing 
+and some were blazing. All the ten quarters were pervaded by 
+the Prainathas. The extensive range of mountains became shattered. 
+The main entrance to the palatial buildings became broken. 
+Hairs and dry bones lay scattered in confusing masses. The 
+villages and cities stood razed to the ground by the conflagra­
+tion. Ashes lay in heaps above them. All the three worlds ᥮onsisting 
+of the mobile and immobile beings were filled with the ashes 
+of the funeral pyres. Laments and loud cries of Hiihii and 
+Ahiihii spread everywhere. This universe lay helpless and bereft 
+of refuge. 
+· 
+CHAPTER FIFTEEN 
+Turbulence of the Annihilation (Pralaya) 
+Sri Marka1;u!.eya said: 
+1-I Oa. 
+Then Kalaratri of blazing (very bright) eyes, sur­
+rounded by thousands of terrible Matrs indulged in the de­
+strl,lction of the entire universe. 
+The fierce Mothers, the Saktis identical with (or pertaining 
+to) Brahma, Vi11Q.U and Siva, the Saktis of Vayu, Indra, Anala 
+(Fire) , Kubera, Yama, Toyesa (VaruQ.a) , Skanda, Kro<;la (i.e. · 
+Varaha) and Nrsirhha moved about striking terror. 
+In the course of that ultimate annihilation, the Mothers 
+moved around armed with discuses, tridents, clubs, swords, 
+thunderbolts, Saktis, ᥯ᤃis, Panisas, Khaᤃvailgas and blazing 
+torches urgently prompted by Uma-all of them overran all 
+the ten quarters. 
+The entire range of the three worlds all over became com-
+
+## Page 71
+
+V.iii. l5.10b-30 
+59 
+pletely burnt, when they heavily trod over with hissing sounds 
+of Hum and resultant outbursts. 
+The entire earth all round became awful to look at, as skulls, 
+variegated tresses of hairs etc., lay scattered all over along with 
+hues and cries, laments and shouts of distress. The streets were 
+split and cracked with the debris of the houses and ornamental 
+gateways lying shattered. 
+The entire Jarhbu Dvlpa that is said to have hundreds and 
+thousands of sectors, lay demolished per force. People residing 
+in Jarhbu Dvipa and (other) Dvlpas like Saka, Kusa, Krauiica, 
+Gomeda, Salmali and Puᤌkara and those residing in moun­
+tains, were all .seized by death and by goblins and groups of 
+Mother-goddesses who were decked with the skulls of great 
+Asuras. They were drunk with suet, marrow, blood and flesh. 
+They were giving out terrific shouts. They"'were inebriated with 
+smell of wine. 
+1 0b-1 3a. Mahamaya appeared surrounded with thousands 
+of flames. Her earrings were dazzling like lightning. Her body 
+became red with the blood gushing forth. She was very terrible 
+(to look at) . Fond of human flesh and suet, she was drinking 
+blood there. With a skull in hand, the terrible (Mahamaya) was 
+devouring Suras and Asuras. Dancing, boisterously laughing, 
+shouting loudly, taking somersaults, she struck terror in the 
+three worlds. Her laughter was like the peals of thunder. 
+1 3b-1 4. Mter having swallowed up the earth ending with 
+seven seas, she came to the place where Lord Mahesvara lived 
+on the bank of Narmada, along with Mother-goddesses. 
+15. 
+Laughing loudly, (the goddess) danced on the stout 
+bodies of Amaras (immortal ones = Devas) . The word 'Amaras' 
+means 'gods' and ' Ka,a' means 'a body'.1 
+1 6-1 7. 
+0 excellent king, as this moun.tain is scattered over 
+(enveloped) with bodies, heaps of shattered bones and bodies 
+dripping with suet, fat and blood, so it is called 'Amarailkata' 
+by the wise· ones. It is greatly sanctifying and sacred all over 
+the world as it is created by Sarhbhu. 
+18-30. 
+Sailkara is ever present there along with Uma. Hence 
+I too stationed myself at the tip of its foot, with steady obser­
+vances. 
+I. 
+A popular etymology of mountain 'Amara-katlaka ', the source of Narmada.
+
+## Page 72
+
+60 
+Skanda Purii:fJ,a 
+Humble with the fervour of obeisance I continued to eulo­
+gize Nilalohita. 
+Along with Mrtyu, the joyous Sailkara began to dance even 
+as the Gal).as and the groups of Mothers started beating the 
+time. 
+The Gal). as joyously danced in groups with flesh, fat and suet 
+in their hands. They had Khatvailgas, firebrands, Panisas and 
+Parighas too. There were dwarfs, those with matted hairs, those 
+with shaven heads and those with long neck, lips and hairs. 
+Gal).as with long penises, protruding bellies and arms loosely 
+suspended were dancing and laughing. The faces of some were 
+hideously distorted. The arms, mouths etc. were fiercely con­
+torted and twisted. 
+When the transit of the (Yuga) period set in they made 
+Amara as Kal).taka (thorn) . Among them, I saw the highly terrible 
+Mrtyu, the cause of fright for the entire universe. 
+I saw Mrtyu dancing there. His hairs were tawny-coloured 
+iike a lightning streak. The goddess bedecked in clean gar­
+ments was stationed near him. The earrings produced jingling 
+sound near .her cheeks. She had serpents serving the purpose 
+of the sacred thread. She was adoring Mahe8vara by means of 
+diverse kinds of offerings. 
+There I saw Mother Narmada revered and bowed to by the 
+entire universe. There were waves and whirlpools therein. She 
+resembled the ocean with excellent billows rising up. Invisible 
+due to the great lake and the rivers falling therein, she had 
+the visible form as well. 0 descendant of Bharata, shᥰ was 
+being honoured by Suras, Siddhas and groups of sages. 
+In the middle I saw the terrible aspect of Narmada called 
+Saptasaptaka. She had great waves and foams. She flooded the 
+entire universe. She was Mrgakrᤁl).arhbara (clad in the skin of 
+a black an tel ope) . She was flowing in seven ways (currents) 
+producing thunderous sound as of the rumbling sounds of 
+smoking Asani (thunderbolt) . 
+Thus I saw the incomparable havoc of destruction, 0 excel­
+lent king. The rays of the sun and the moon disappeared from 
+the world consisting of mobile and immobile · beings. 
+31-36. 
+There was a great evil portent. The stellar sphere 
+had completely vanished. It caused everything to whirl con­
+tinuously like Aliitacakra (circular movement of a firebrand) .
+
+## Page 73
+
+V.iii.l5.37-42 
+61 
+It was scattered over with millions of air-chariots of Kinnaras 
+and great Uragas. There was a terrible, roaring wind which 
+shook the mobile and immobile beings. It was the well-known 
+Sarilvarta issuing from the mouth of Rudra. It dried up the 
+seven oceans. May Hara protect you all day by day-Hara with 
+dust particles smeared all over his body, with eyes and hairs 
+tawny in colour, with his matted hairs tied up. He held a large 
+resplendent trident and shouted loudly. He held the big bril­
+liant Sula (trident) and bow. There was a crown on his head. 
+He had put on coat-of-mail. He had smeared all his body with 
+the ashes of cremation ground. Garlands of skulls covered his 
+neck. Great serpents were tied to the top of his head as though 
+they were threads. Go'{'asas (lizard-like serpents) entwined his 
+limbs. There were the celestial river, the .. crescent moon, the 
+poison and fire on the head .. He was clad in the hide of el­
+ephant. He played on the :Pamaru. The terrible Khatvariga and 
+Pinaka were held in the hands. 
+37-42. 
+The divine being pervaded through the seven worlds. 
+The great extending arms (serpents?) encircled all the limbs. 
+His eye resembled the rising Sun with the centre like a tender 
+sprout. It was pink in colour like the cloud at dusk, red lily, 
+ruby, saffron and a streak of lightning. During the period of 
+the conclusion of the Yuga, "he played with heated Liriga and 
+blazing eye. Like Meru the Lord appeared as though he was 
+discharging golden shafts. He walked there making the moun­
+tain shattered to pieces through the kicking with the tips of 
+his feet. He was desirous of annihilating the entire heaven. He 
+was laughing hideously. The sole Lord of the universe desirous 
+of annihilating Svarga burst out his boisterous laughter, agi­
+tated and annihilated the entire heaven. 
+On seeing the excellent unborn Lord, the great Lord en­
+gaged in annihilating the universe, that Kalaratri accompanied 
+by the Mothers and all the GaQ.as began to worship Siva. Nandin 
+and Bhrngin and other GaQ.as bowed down to that Lord of all 
+the living beings, the most excellent one in the universe, the 
+cause of all, Hara the enemy of'Smara. They bowed to him day 
+and night.
+
+## Page 74
+
+62 
+Skanda Purii:r:w 
+CHAPTER SIXTEEN 
+Eulogy of Siva by Brahmii 
+Sri Miirkar;uf,eya said: 
+1-7. 
+The Trident-bearing Lord was surrounded by the terrible 
+groups of goblins along with the Mothers. 
+He continued his dance. Wearing two pieces of elephant 
+hide he evinced his desire to annihilate the entire universe. 
+Sarhbhu danced amidst the conflagration that consumed 
+the three worlds. The entrails of all the leaders of Suras con­
+stituted his garland. Their fat, suet and blood smeared his 
+limbs. 
+Accompanied by Kalaratri that noble-souled Lord annihi­
+lated the entire region of the three worlds at the ·proper time. 
+Named Sarhvartaka and having the state of the fierce Sun, the 
+noble-souled Sarhbhu, the most excellent one in the universe, 
+opened his mouth that resembled Batf,aviimukha (the entrance 
+to the submarine fire) and laughed boisterously. It appeared 
+like profuse outcome of sparks mixed with smoke or like the 
+blow of a violent gust of wind wafting great firebrands and 
+thunderbolts. 
+All the ten quarters were filled with that loud outburst of 
+laughter arising from Hara. It had the forceful impact of a 
+thousand thunderbolts. All the great oceans became agitated. 
+The loud sound reached the world of Brahma. The entire 
+Cosmic Egg shook and quaked violently. The· sages became 
+frightened and they worried wondering, 'What could this be?' 
+All those frightened sages along with Suras and Asuras and the 
+great Serpents bowed down to Brahma, the Lorᥱ _ of the great 
+chiefs: 
+8-1 1 . ·"Who is this being that sports about s.tationed on the 
+surface of the earth? His limbs are terrible and they blaze like 
+the refulgence of a lightning streak. His body resembles the 
+Kalanala fire and due to his boisterous laughter the whole 
+universe is bewildered. 
+In a moment it has become utterly confused. Is it possible 
+that he may wish to annihilate all the three worlds, along with 
+you and all the seven oceans? Desirous of annihilating he proteeds 
+towards Jana, Tapas and Satya worlds.
+
+## Page 75
+
+V.iii.16.12-20 
+63 
+Who is this Lord? 0 incomprehe,nsible being, recount all 
+this. Never before has this difficult situation been faced. You 
+do know the truth. You an! considered by us as the greatest 
+being. " 
+On hearing their words, Brahma consoled rhe groups of 
+Suras and others and said: 
+Sri Brahmii said: 
+1 2-15. 
+He is Kala (Death) , the eternal Atman desirous of 
+annihilating the entire heaven and the whole universe. When 
+the whole work is complete, he will be lying down. The Lord 
+Isana will be lying down in the future Parivatsaras (years) . It 
+is not surprising. 
+This Lord himself is Samvatsara, Pariv&.tsara, Udvatsara and 
+Vatsara (different ways of reckoning years) . Though seen, he 
+is invisible. He is the one who illuminates everything. He is 
+adored by means of Homa. He is gross. He is subtle. He is the 
+ultimate atom. 
+There is nothing in this world here greater than this. He is 
+the great-est .and greater than the greatest. The Lord is pro­
+claimed as Atman. Of features similar to those Kala will be­
+come pleased with me. 
+Mter saying this, the holy Lord, the chief of Suras, propi­
+tiated (Siva) in the company of Sanatkumara and others. He 
+was of complete self-control. 
+Brahmii said: 
+1 6-20. 
+Obeisance is done to Sarva of quiescent forms and 
+features. Obeisance, obeisance to you in the. form of Aghora. 
+0 Sarva, 0 immanent soul of all, obeisance, obeisance to you. 
+0 Lord of goblins, obeisance to you, 0 great Atman. 
+Obeisance, obeisance to you, 0 Svadha and Vᥲaᥳra, developed 
+further into Omkara and Hurilkara. Obeisance to the Lord of 
+the three Gu1,1as, to Mahdvara., identical with the Trayi (three 
+Vedas) , the immanent soul of the three Gu1,1as. 
+You are Sankara. You alone are Mahdvara. You have pen­
+etrated into the foremost Pradhana. You are Vil[II,lU, Isa and 
+Prapitamaha. You are the Fire-god with seven tongues of flames, 
+with an infinite number of tongues of flames.
+
+## Page 76
+
+64 
+Skanda Puratta 
+0 Lord, you alone are the creator and the creation; you are 
+the entity worthy of being known by the universe; you are the 
+greatest support of the universe. The Brahmat:tas who have 
+mastered and understood the Vedas call you the most excel­
+lent and the greatest. You are greater than -the greatest. They 
+speak of you as subtler than the subtlest. The words along with 
+the mind recede therefrom. 
+Sri Mahadeva said: 
+21-24. 
+I have been eulogized by you through diverse kinds 
+of Mantras. 0 Lotus-born One, I shall increase the .peace and 
+calm in you. Look at me burning down this world, annihilating 
+forcibly by means of many faces. 
+Mter saying thus and consoling Pitamaha, the Lord of the 
+universe vanished there itself along with the goddess. 
+By listening to this great and meritorious hymn, people attain 
+the blissful goal. Even those who are infested by many sins 
+proceed towards Rudra by means of aerial chariots free from 
+impurities. They will never experience any fear-the excellent 
+Brahmat:tas who recite this, 0 dear one. There is no doubt 
+about this that Siva will be their saviour in the course of war, 
+theft, fire, forest and ocean. 
+CHAPTER SEVENTEEN 
+Annihilation by Twelve Suns 
+Sri Markattf/,eya said: 
+1. 
+On being eulogized thus by Brahma and others and by 
+the leading sages who had gone to the world of Brahma, the 
+Lord began the annihilation of the universe. 
+2. 
+Brahma saw the face of Mahadeva, the imperishable 
+southern face (mouth) highly awful and hideous. Its great curved 
+fangs produced loud reports while gnashing. The face resembled 
+the abysmal depths of the nether worlds. 
+3-5. The eyes were tawny like fire and lightning streaks.
+
+## Page 77
+
+V.iii.l 7.6-15 
+65 
+The face was frightening and causing the hairs to stand on 
+end. The fangs and the tongues were huge. The neck was 
+covered by great serpents, and the necklace was constituted of 
+the great heads of the Asuras. It caused great Pralaya. It swal­
+lowed the Havis in the form of the waters and winds of the 
+oceans. The face of Mahadeva resembled Ba<;lavamukha ( the 
+open entrance to the submarine fire) . He saw him licking up 
+the entire world by the tip of the tongue. 
+6. 
+It extended to thousands of Yojanas, nay hundreds of 
+thousands of Yojanas. All the ten quarters appeared hideous 
+with flesh, fat and suet abounding therein. 
+7. 
+Hundreds and thousands of the curved fangs grew large. 
+Pitamaha saw Sqras, Gandharvas, Aᥴuras, Yakᤁas, Uragas and 
+Rakᤁasas stuck up at the tips of the cur'\>'ed fangs. 
+8-9a. 0 great king, I too saw the universe caught as if in 
+a machine within the structure of the curved fangs, with the 
+necks shattered and thereafter it was found to enter his open 
+mouth. 
+9b-10. 
+Just as the rivers roaring due to the movement of 
+different waves dashing against one another, with the confused 
+· mass of great foams, fall into the ocean and get merged therein, 
+so also the extensive range of the entire universe having. many 
+living beings·, impenetrable like a vast ocean, entered the blaz­
+ing spacious mouth of Rudra. It was terrible with rumbling 
+sounds as of clouds. 
+1 1 . From his mouth a huge column of flames and hideous 
+sparks issued forth, scattering smoke everywhere. They had 
+different forms and they illuminated all the quarters with the 
+brilliance of fire. 
+1 2. 
+The face of Mahe5vara of myriad miraculous forms with 
+curved. fangs and tremulous tongues seemed to be garlanded 
+wit}:l thousands of solar flames. Though one and single he 
+revealed himself in twelve ways. 
+1 3. 
+Twelve Adityas came out of the mouth of Rudra. Re­
+sorting to the southern quarter, they began scorching the earth. 
+1 4. 
+All earthly creatures resting on the different trees and 
+grass blades that had already been dried up earlier due to 
+drought, became utterly confused over the entire range of the 
+surface of the earth. 
+15. 
+Being burnt suddenly by those Suns coming out of
+
+## Page 78
+
+66 
+Skanda Purii:FJ-a 
+Rudra, everything became enveloped in smoke. All the stars 
+and planets got destroyed. 
+1 6. 
+The entire terrestrial sphere became suddenly kindled 
+and it blaze.d forth. All the mobile and immobile beings be­
+came enveloped in a garland of flames. 
+1 7. 
+In all the seven continents and oceans, rivers and lakes 
+the fire consumed th<; entire universe as though it were the 
+sacred clarified butter being consigned to it in the course of 
+a sacrificial rite. 
+1 8. 
+The Adityas born from Rudra, refulgent with extensive 
+fiery brilliance and overwpelmed with great flames burnt the 
+whole universe. 
+19. The rays of the Adityas got mutually entangled. Thus 
+the Lord burnt the three worlds consisting of mobile and immobile 
+beings. 
+20. 
+Mahe5vara became the fire itself of the size of the seven 
+continents and burnt completely the entire earth consisting of 
+the seven continents ·and encircled by the seven oceans. 
+2 1 . Then it burnt the earth with Sumeru and Mandara as 
+its limit. Thereafter it pierced through the seven Patalas and 
+burnt Nagaloka. 
+· 
+22. 
+0 Yudhiᤁᤃhira, the Agni continued to burn and blaze 
+after completely burning down the seven Patalas beneath the 
+earth along with the stars. 
+23. 
+When fanned with bellows a metal piece seems to blaze 
+at night along with᥵the burning charcoal. In the same manner 
+everything in the universe blazed forth on being kindled by 
+Sarhvartagni. 
+24. 
+Bereft of trees, grass-blades, springs, lakes, and rivers 
+and with the clusters of the peaks of mountains scattered, the 
+ground became comparable to the back of a tortoise. 
+25. 
+Mt.er making the entire universe chaotically unsettled 
+through the series of flames and sparks and merged in Cit (the 
+conscious, sentient Being) Mahe5vara, Rudra, remained in his 
+own great form. 
+26. 
+Accompanied by most of the MatrgaQas, Yakᤁas, Uragas 
+and Rakᤁasas, the godde᥶s Harilocana ( ' having green eyes' , 
+.'having leonine eyes' ) merged in Mahadeva. 
+27. 
+Like the flame of fire that has become quiescent, the 
+goddess attained the ·state of extinction. 0 sinless one, the
+
+## Page 79
+
+V.iii.l 7.28-37 
+67 
+entire universe along with the three worlds became completely 
+burnt down. 
+28. 
+With the favour of Rudra, Narmada not born of a womb, 
+and I were excluded from this annihilation. Ten thousand 
+Yugas were thus concluded by me as though subsisting in water 
+(of Narmada) . 
+29-3 1. 
+The Trident-bearing Lord was propitiated formerly 
+by me. Hence I became immortal and free from old age. I had 
+also recited the following scriptural passages: Aghamar6a1Ja, Ghora 
+Mantra, Vamadeva Sitkta, Tryarhbaka Sitkta, ̎
+abha Sitkta, Trisupar1Ja, 
+Durga Sitkta, Savitra Sitkta, Brhadara1Jyaka, Brhatsaman and Uttara 
+Saman. So also, the great Raudn Gayatn, Sivopani6ad, Pratiratha 
+Sitkta and Mrtyuiijaya Sitkta. 1 
+32. 
+The earth extending to the rivt:rs and oceans was 
+reduced to ashes. But the highly esteemable Narmada compa­
+rable to Am:rta, was excluded (spared) . 
+33᥷34. 
+The following are the Kulaparvatas: Mahendra, Malaya, 
+Sahya, Hemakiita, Malyavan, Vindhya and Pariyatra. These 
+mountains were compietely burnt down by the twelve Adityas. 
+(Due to heat) the rocks in them were severely shattered. They 
+are seen reduced to ashes. But Narmada did not perish then. 
+35-36. 
+Himavan, Hemakiita, Nisadha, Gandhamadana, the 
+excellent mountain Malyavan, Nlla, Sveta and S:rngavan_:these 
+great mountains were resorted to by Devas and Gandharvas. 
+All of them were completely burnt down by the Yugantagni 
+(Fire at the end of the Yuga) . The great rocks and boulders 
+of all these were shattered. 
+37. 
+Thus the utter annihilation of everything except that 
+of the highly meritorious Narmada was earlier seen by me at 
+the close of the Yuga, 0 excellent king. 
+1 . 
+The author has confused Vedic Siiktas, individual Mantraˣ and a Pural}.ic 
+compendium of seven chapters called "Sivopani¿ad."
+
+## Page 80
+
+68 
+Skanda Purii1Jll 
+CHAPTER EIGHTEEN 
+Glorification of Narmada 
+Sri MiirkarJtf.eya said: 
+1-7. 
+When the world was completely burnt by the Suns 
+originating from Isvara, with the seven oceans rendered dry 
+along with (the burning of) the seven continents, huge clouds 
+issued forth from his mouth. When the world was dried up by 
+the Suns and burnt down by Kalagni, clouds issued forth from 
+the mouth of Sarikara. Terrible clouds having features compa­
+rable to the weapon of lndra (i.e. Rainbow) , urged by the most 
+excellent !sana made the universe completely dark. Some of 
+the clouds had the lustre of a blue lotus; somewhere they had 
+the lustre of collyrium; . some resembled cow's milk, Kunda 
+flower and the moon; others resembled the eyelets on the 
+feathers of a peacock; and some had the lustre of smokeless 
+fire. Some clouds had the forms resembling great mountains; 
+some could be compared to shoals of great fishes; some had 
+excellent forms of huge elephants; and some clouds resembled 
+great peaks. Some were similar in form to the moving waves 
+and billows; s᥸me were akin to the domes in a big city; some 
+resembled great towers and ornamental gateways; others ap­
+peared to be adorned at the extremities by comets·, firebrands 
+and thunderbolts (:.haracterized by lightning streaks. A Gal).a of 
+Rudra named Samvartaka got his limbs concealed. The Lord 
+showered limitlessly and made the universe one vast expanse 
+of water. 
+Utterly terrified and flooded with the currents of the waters 
+of Ganga, I dared not look at !sana increasing in size along 
+with the great clouds and having limbs covered with Indra's 
+thunderbolt. 
+8-1 3. Devouring the burning universe all round repeatedly, 
+the elephants (clouds resembling them) covered the ground 
+completely. They filled the universe (with waters). and van­
+ished all of them. 
+The seven great oceans, the lakes, the continents, all the 
+rivers, Bhiil). and Bhuval;l were filled with waves and waves of 
+waters. Everything became a vast expanse of waters. 
+In the entire range of mobile and immobile beings, devoid
+
+## Page 81
+
+V.iii.l9.1-7 
+69 
+of fire, the Moon and the Sun, in the darkness caused by the 
+disappearance of the stars, when all the winds subsided into 
+a calm atmosphere, nothing -was visible. 
+0 king, then, in that vast expanse of water I eulogized hiin 
+(the Lord) with the purity of mind retainLd. Thereafter, I 
+thought thus: 'In whom shall I seek a quiescent refuge?' 
+I then remembered the Lord within my heart. Remaining 
+within the water, I thought of the Lord as worth1 of seeking 
+refuge iri . I bowed down to him, sought refuge i.n him and 
+then I meditated upon him. Mter meditation, I forded the 
+watery expanse, with his favour, never losing sense and forti­
+tude. 0 son of a great man, due to the favour of the goddess, 
+fatigue and anguish disappeared from me. 
+CHAPTER NINETEEN 
+Viiriihakalpa 
+Sri Miirker:uf,eya said: 
+1-7. 
+I was about to die in that vast ocean-like expanse of 
+water and was distressed. Muttering to myself and sighing, 0 
+excellent king1 I swam across the water with my arms. 
+Stationed in the middle of the sea-like expanse, when every­
+thing was quiet and motionless, I heard an inimitable "Ambho" 
+sound (the sound of a cow) causing reverberation in all the 
+ten quarters. Despondent as I was, I saw_ a cow standing before 
+me. She resembled a swan, a Kunda flower and the moon, 
+white in colour like a pearl necklace and cow's milk. Her body 
+was bedecked with many· gems of diverse colours. The horns 
+were bedecked in gold. Her hoofs were covered with coral. She 
+was fascinating with the tail lifted up and shining like a ban­
+ner. With her snout stooping down she was making bellowing 
+sound. She was crossing the ocean with her hoofs. She was 
+encircled by golden strings of small tinkling bells and pearls. 
+By the movements of her legs (when she waded through) in 
+the water of the vast ocean-like expanse a mass of foams formed 
+around her and she appeared to dance. She shouted loudly as
+
+## Page 82
+
+70 
+Skanda Purii'T_la 
+she stirred up the ocean sending up columns of waters. 0 
+fortunate one, in smooth and majestic voice she said to me: 
+8-1 4 
+"0 dear child, do not be afraid. 0 dear one, you have 
+no death. With the favour of Mahadeva, neither you nor I have 
+to face death . Support yourself holding on to my tail. I shall 
+take you across this ocean. I shall save you, 0 Brahmal).a, from 
+this fearful situation as long as the universe is flooded. In 
+order to ward off hunger and quench thirst, suck at my udders. 
+Be satisfied by drinking the divine milk with Amrta as its basis. " 
+O n hearing her words, I joyously sucked at her udders. No 
+sooner had the udders been sucked than hunger and thirst 
+vanished. I had a divine strength and vitality capable of swim­
+ming across the sea. Then I spoke to her: "Who are you wan­
+dering here in this vast ocean-like expanse? Tell me the truth. 
+There is a great curiosity in me. You alone are my refuge even 
+as I wander here and there lashed about and on the point of 
+death as it were. It was due to the residue of my good fortune, 
+0 Divinity of holy rites. " 
+The cow said: 
+1 5-32. 
+Have I been forgotten by you? I am Mahe8var1 (Great 
+Goddess) of diverse forms. I am Narmada, the bestower of 
+piety on men, the bestower of heavenly pleasures, happiness 
+and strength. On seeing you distressed Rudra has despatched 
+me saying: "0 noble lady, redeem that Brahmal).a. Let him not 
+lose his life in the water. " At the instance of the Lord, I have 
+come near you in the form of a cow. I hurried lest Sarhbhu 
+should be one of false speech. 
+On being told thus by her, I came to know that her tail was 
+splendid and indestructible and comparable to Indrayudha (Vajra) . 
+I held on to it with my arms. Resorting to the banner-like tail, 
+I crossed the ocean. She told me that the deity therein was 
+Lord Mahadeva. Thereafter, for a period of a thousand Yugas, 
+I wandered about along with her in that darkened atmosphere 
+encircled all · round by the waters of the great ocean. 
+I continued wandering, holding on to the tip of the tail of 
+the cow. There was no movement of wind. There was no light. 
+There was darkness. It was free from ailments. 
+All of a sudden, I saw Lord Isana asleep in the ocean-like
+
+## Page 83
+
+V.iii.l9.33-43 
+71 
+expanse of water.1 He resembled a flower of Atasi, split collyrium 
+and was free from impunties like the sky. He was dark like 
+petals of a blue lotus. The imqmtable Lord was clad in yellow 
+robes. His head was shining with a crown having the colour of. 
+the sun and dazzling like lightning. He had excellent features 
+like the sky. His cheeks were being brushed by the earrings 
+and the chest illuminated by the necklace. He was rendered 
+splendid by the divine golden ornaments. He was Jying on a 
+couch of the serpent. The serpent served as pillow too. He had 
+the splendour of a thousand suns. He had many arms and 
+thighs.2 He had inimmerable faces. He was charming. He had 
+a thousand eyes and necks. The heroic Lord was asleep in the 
+ocean-like expanse (of water) . 
+He had a great mass of matted hairs llaving the sparkling 
+lustre of lightning. The Lord was stationed thus pervading the 
+entire universe merged in a single expanse of water. The Lord 
+had swallowed everything including Devas, Asuras and human 
+beings. The omnipresent, unmanifest, infinite Lord had faces 
+all round. 
+Near the soles of his feet, there was Uma Visvarupa, the 
+highly fortunate one embellished with golden bracelets. 
+The goddess identical with Sri, Hri, Dhi (intellect) , Vak 
+(speech) , wielding the Visvamayi (Universal Maya) , Siva, the 
+goddess was identical with Siddhi, Kirti (renown) , Rati (god­
+dess of love) , Brahmi, Kalaratri. She was not born of a womb. 
+I saw her sitting very close to Isvara. I saw the moon-faced 
+goddess of all, Uma identical with Dhrti (fortitude) .3 
+33-43. 
+I circumambulated Lord Isa who was quiescent and 
+asleep. He had the col()ur of fresh gold. He was associated with 
+Uma. He was meritorious and excellent but was enveloped by 
+darkness. 
+I then bowed down to him. 
+At the close of the night, the excellent Lord who was asleep, 
+naturally woke up. When he woke, he stirred up the waters of 
+the ocean with his arms. Reflecting on the destruction of the 
+universe in the water, he began to consider what should be 
+1 . 
+Here Siva is identified with Vidr.m-a syncretism. 
+2. 
+An echo of the Puruda-sukta (RV X. 90) . 
+3. 
+Uma and Lakdmi (all great female deities like Sri, Vak etc.) are treated 
+as non-different.
+
+## Page 84
+
+72 
+Skanda Purii:r;ta 
+done. The Lord of miraculous limbs assumed the form of a 
+Boar.1 
+His splendour was like that of a huge rain-bearing cloud. 
+His garland consisting of gold coins (golden-coloured stars) , 
+was hanging down. Adorned with a crown, the Lord held the 
+conch, the discus and the sword. The noble-souled Lord iden­
+tified himself with the Vedas and Vedarigas. The ancient Lord 
+causing the origin of the three worlds holds the form of the 
+three Vedas. 
+The very same Rudra who annihilated became Prapitamaha 
+for the purpose of creation. For the purpose of protection, he 
+himself becomes Hari with the excellent discus, sword, club 
+and lotus in his hands. 
+Distinction among them is unbecoming.2 They are all noble­
+souled ones having the same physical form. An ignorant per­
+son who brings in distinction among them, albeit by means of 
+apparently cogent reasons and arguments based on principles 
+of reasoning, falls into terrible hell gradually. He who creates 
+distinction (between these-Siva and Viᤁr:tu) is a wicked soul 
+with a hostile motive. 
+One may be devoted to any of these. Mter casting off the 
+physical body, one certainly attains immortality through that 
+devotion itself. 
+The same Lord, the creator, the protector and the annihi­
+lator presumably enchants the world by means of these physi­
+cal forms. Hence one should avoid falling into delusion and 
+entertain hatred in view of the different forms. 
+For the same reason the excellent Isana, the creator of the 
+universe, assumed the form of the Boar. When the three worlds 
+became immersed in the waters of the ocean, the immanent 
+soul was sought within the vortex of the waters. 
+The Lord pierced through the water within the ocean and 
+entered Patala in a moment. He touched the entire Earth sunk 
+under water. By one of his curved fangs, Lord Viᥨr:tu of inimi­
+table daring lifting up the Earth, the divine lady of lotus-petal­
+like eyes; who had got submerged in the water at the time of 
+1 . 
+Vidt:m's Boar-incarnation is attributed to Siva here. 
+2. 
+Strong condemnation of treating Siva and VidJ}.U as different-a syncretic 
+trend of that (PuraJ}.ic) age.
+
+## Page 85
+
+V.iii.l9.44-53 
+73 
+Pralaya when the peaks of mountains and the rocks therein got 
+shattered. 
+44-53. 
+With her body hanging, suspended at the tip of the 
+curved fang (of the divine Boar) she shone like the moonlight 
+sticking to the peak of KaiHisa. Of uneven form, she res᥹mbled 
+the lightning sticking to the cusp or horn of the moon. 
+The Lord of manifested Sattva quality (or power) and of 
+incomparable prowess lifted up from the middle of the water, 
+the Earth sunk within the waters of the sea in the same manner 
+as an elephant lifting the sinking she-elephant with force or 
+(like a sailor) lifting the boat that has been shattered. 
+The noble Lord raised up the Earth from the great mass of 
+watery expanse and then divided the whole range of the ocean 
+as well. He deposited, as it were, the watel"!! of the great ocean 
+into the oceans and then into the rivers (also) . 
+He re-created the mountains that had been shattered ear­
+lier. He created all the continents and seas. In the Kalpa he 
+created the ranges of rocky mountains that had been arranged 
+with the boulders. 
+Mter having assumed physical forms of various features he 
+created groups of Devas and of Indras. Suddenly issued forth 
+the Fire-god from his mouth, the Moon from the mind and the 
+Sun from the eye. 
+As that Yogdvara (Yoga personified) began to meditate, the 
+group of Suras and Indra, the Vedas, the different Varr:tas, all 
+the medicinal herbs, juices, everything issued forth. From his 
+mind was evolved the entire universe consisting of immobile 
+beings, oviparous beings, viviparous beings, sweat-born beings, 
+plants etc. that split the ground and grow up, in fact every­
+thing including i᥺sects, ants etc. 
+Then the great Lord mentally transformed himself into a 
+multiformed being. The Lord of immutable soul pervaded 
+everything by means of his eight Miirtis (Cosmic forms) and 
+thereafter sported about gracefully. He had richly flourishing 
+splendour even as I was witnessing everything. He sported gracefully, 
+0 Brahmar:tas (?) . 0 king, I witnessed everything for the periocl 
+of a Muhiirta. 
+Mter creating ,everything sportingly, the Lord of Devas, the 
+creator of the Cosmos, omnipresent and having eyes. all round, 
+the primordial creator, vanished.
+
+## Page 86
+
+74 
+Skanda Purii:T}a 
+54-61 . 
+(In that short span of time) All those things con-
+sisting of names and forms, the entire universe was witnessed 
+by me . They were surrounded by oceans and continents. 
+Everything was overspread by the stars and constellations. 
+Everything appeared wonderful with the sky, clouds and the 
+system of planets full of different kinds of living beings. Yet I 
+could not see the Sarvasuresvarl (the goddess of all Suras) in 
+the form of the cow, the divinity of great esteem. 
+My mind became agitated thinking, 'Where can she be now? ' 
+I surveyed the various parts of the quarters. Excepting that 
+Isvararigl (born of the limbs of the Lord) how was it that I 
+could see all? 
+Thereafter I saw the splendid river here with crystal-clear 
+waters. She had the blue hue of a big cloud. Her limbs were 
+rendered splendid by many trees and she was surro᥻nded by 
+elephants, horses and birds. As before, I resorted to the banks 
+of the divine river. I stationed myself in Amarakat;ttaka and 
+found myself happily resting. My soul was rid of excitement. 
+It attained happiness. After having seen the river full of meri­
+torious water, free from impurities even at the close of the 
+Kalpa, I felt as though I was seeing my own mother looking 
+at me compassionately. I was free from ailment and sorrow. 
+Those leading Brahmal).as who read and listen to this meri­
+torious narrative of the Mahavaraha Kalpa everyday become 
+pure. They will get rid of all inauspiciousness and go to heaven 
+inhabited by Amaras, Siddhas and Gandharvas. They will attain 
+heavenly pleasures in the company of the celestial damsels 
+resembling the pure · moon and endowed with different kinds 
+of charms. 
+CHAPTER TWENTY 
+Viiriihakalpa (continued) 
+Yudhi6thira said: 
+1-2. 
+Various acts and destructions have been heard by me, 
+with your favour, 0 sinless one, that were done by Lord Sarva 
+and seen by you. Now I wish to hear about the prowess of the
+
+## Page 87
+
+V.iii.20.3-16 
+75 
+Lord wielding the Sani.ga bow. 0 eminent Brahmal}.a, it behoves 
+you to tell me whatever has been seen by you (about ViᤁI}.U) . 
+Sri Miirka'l}-tf,eya said: 
+3. 
+Hereafter, I shall recount the characteristic (prognos-
+tic) features of the destruction of the subjects, the significant 
+(portentious) mark that is seen and how the Kalpa is recycled. 
+4. 
+There are falls of firebrands and meteors along with 
+thunder. There is earthquake; a dust-storm as well as terrible 
+loud report. 
+5. 
+Yakᤁas, Kinnaras and Gandharvas, Pisacas, Uragas and 
+Rakᤁasas-all these undergo annihilation when the close of the 
+Yuga is imminent. 
+6. 
+Mountains, oceans, rivers, different.types of lakes, trees, 
+creepers and grasses-all get dried up. 
+7-8. Thus when everything was under turmoil, when all re­
+gions·were bereft of all medicinal herbs and water, when the 
+three worlds consisting of mobile and immobile beings resembled 
+a dry log of wood, at midday, when the time for ablution 
+arrived, I saw the three worlds becoming inaccessible and in 
+a form of fire too dazzling to be viewed. 
+9. 
+Two Suns were seen in the east, 0 dear one. So also 
+in the north and in the west. Similarly in the south too, two 
+radiant Suns were seen. 
+10. 
+Two Suns were stationed in Nagaloka and two in the 
+middle of the sky. Thus twelve Adityas began to blaze in all the 
+quarters. 
+1 1 . They burnt the entire earth including mountains, parks 
+and forests. Nothing was seen unburnt except Reva and myself. 
+1 2. 
+When the earth was being burnt, the smell of ghee and 
+sacrificial offerings issued forth. Thereupon my body became 
+parched. Unbearable thirst too overwhelmed me. 
+1 3. 
+I did not find water. Everything was dried up by the 
+Suns. I looked into the Kamal}.c;lalu (waterpot) . That too was 
+dry. 
+1 4. 
+Then I was distressed with grief, particularly overwhelmed 
+by thirst. I jumped up into the sky from the earth looking 
+around. 
+1 5-1 6. 
+Then I espied a house in the firmament beautifully 
+furnished. 0 excellent king, desirous of seeing it, I passed
+
+## Page 88
+
+76 
+Skanda Purii:T}a 
+through the ramparts of diverse types and wonderful features 
+and reached the portals embellished with panels with bolts. 
+The turrets and their tops were quaint and amusing. 
+1 7. 
+Its height was eighty-six thousand Yojanas. Half thereof 
+was separately embellished with gold and jewels. 
+18. 
+0 excellent king, in the centre thereof I saw a huge 
+bed. A Being of divine tresses of hairs was lying on the bed. 
+19. 
+He was lying down stretching a full Yojana long with 
+curly hairs. His splendour was heightened by a wonderful crown 
+of refulgent lustre. 
+20-2 1 a. 
+He was dark in complexion and had the lustre of 
+lotus petals. His nose was excellent. His face was majestic like 
+that of a lion. His arms were long. Excellent moustache and 
+beard marked his cheeks. He was handsome with Trivau (curly 
+hairs near the navel) and his ears were adorned with earrings. 
+21b-23. He appeared to be stout with chubby fleshy limbs. 
+His sides were embellished with Avarta (eddy-like curves) . His 
+hips were extremely splendid. The knees and calves were well 
+rounded. His palms were marked with the outline of a lotus. 
+His excellent nails and fingers were slightly reddish. His voice 
+appeared to resemble the thunder of clouds. He was hand­
+some in every limb. Thus I saw Lord Puruᤄottama in the middle 
+of the bed. 
+24-25a 
+He had a conch, a discus and a club in his hands. 
+He was lying on his right side. His hand was lifted up with the 
+rosary string suspended therefrom. His brilliance was like that 
+of ten thousand Suns. On seeing him I became devoted to him 
+and got ready to eulogize him. 
+[Prayer] 
+25b-29. "Be victorious, 0 Isa; be victorious, 0 Vagi:Sa (Lord 
+of Speech) ; be victorious, 0 Lord bedecked with divine orna­
+ments of the limbs. Be victorious, 0 Lord of Devas. 0 glorious 
+one, 0 eternal one, you are Brahman itself. All the worlds are 
+stationed in your body, 0 Parameiivara. You are our goal. 
+Indeed, 0 Lord of Devas, all the worlds have you as the 
+support as they are stationed. 
+1 . 
+This eulogy emphasizes the identity o f Siva and VidQ.U.
+
+## Page 89
+
+V.iii.20.30-42 
+77 
+You are the most excellent one of all beings. You are the 
+creator and the support of the Earth. You are the Hautra (function 
+of the Hotr Priest) of the Agnihotras. You alone are the Sutra 
+Mantra. You are the Gokarr:ta (shrine) , Bhadra Karr:ta (a Siva 
+shrine Karnali on Narmada) . You are the Mahesvara region. 
+You are the Kirti (fame) of all the Kirtis, the destroyer of 
+wretchedness and sins. You are (the sacred place) Naimiᤄa. 
+Kurukᤄetra and the great Viᤄr:tupada at Gaya 
+30. 
+0 Lord, the earth was sportingly covered with (one) 
+foot (by you) . 0 Lord, Bali was bound by you. Indra was re­
+instated in his position by you. 
+31-34. 
+0 Lord, you are the Yugas like Kali, Dvapara, Treta 
+and Krta. You are the suppressor of Pralamba. You are the 
+creator. You are the destroyer. You suppᥢrt the worlds. You are 
+Kala, the destroyer of all. All the clans of Devas were created 
+by you alone, 0 God. You are the path of all the worlds. You 
+are salvation, the greatest goal. Brahma, the eternal one of the 
+Rajas form is the Lord born from you. Rudra originating from 
+(your) Krodha (Anger) is also so (born from you) . You are 
+established in Sattva. 0 Lord, the mobile and immobile beings 
+have been created by you for the sake of sport. " 
+Thus the Lord was eulogized by me, when my entire body 
+was scorched. 
+35. 
+0 king, the Lord of all living beings was thus eulo­
+gized by me with great devotion. Even as I was eulogizing the 
+Lord, I saw there pots filled with water. 
+36. 
+Thereupon the thirst that had been forgotten by me 
+became increased. I approached the side of that Puruᤄa. 
+37-38. 
+I thought thus when I was desirous of drinking 
+water: 'He never saw me. He was asleep. He never woke up. 
+He who is deluded by sin and tries to wake up a sleeping 
+person incurs the great sin of Brahmar:ta's slaughter. ' 
+39-40. 
+Even as this was being thought by me, a second 
+being came there. He did not utter anything. He did not see 
+anyone. He had worn an antelope skin on his left shoulder. 
+He had matted hairs. He held a KamaQ.Q.alu (waterpot) ·and a 
+staff. A girdle encircled him. He was three-eyed. He had smeared 
+ash all over the body. He was of great lustre. 
+41-42. 
+Even as I was desirous of eulogizing him and gazed
+
+## Page 90
+
+78 
+Skanda Purii1Ja 
+at him with clear eyes, a woman embellished in all ornaments 
+was seen. She was of excellent beauty in every limb. On seeing 
+her I prostrated on the ground saying "Be victorious". 
+43-44. 
+Be victorious, 0 goddess originating from the limbs 
+of Rudra. Be victorious, 0 eternal Brahmi. Be victorious, 0 
+Kaumari, 0 Mahendri, 0 Vai!?Qavi, 0 Varul).i, be victorious, 0 
+Kauberi, 0 Savitri; be victorious, 0 Dhatr1: of excellent coun­
+tenance. In this world consisting of mobile and immobile beings 
+protect my body that has become scorched with thirst. " 
+Sri Devi said: 
+45. 
+0 tiger among Brahmal).as, I am delighted by your splendid 
+speech. 0 excellent Brahmal).a, what is in your mind has been 
+understood by me. 
+46. 
+Listen, 0 Brahmal).a, I too have adopted this severe 
+vow. Due to the levity common to all women, an austere vow 
+has been adopted by me who am deficient in intellect. 
+47-48. 
+If a righteous son well-known all over the world is 
+to be born to me, I will first breast-feed a Brahmal).a and then 
+alone my son. 0 great sage, such a son has been born to me. 
+0 eminent Brahmal).a, if you wish to be alive suck the breasts. 
+Sri MiirkaTJ4eya said: 
+49-51 . 
+In the case of Brahmal).as this (namely sucking the 
+breasts) is something not to be done. 1 Again a boy has to be 
+invested with a sacred thread. Otherwise the Vrata cannot be 
+fulfilled. 0 lotus-eyed one, Brahmal).a-hood is difficult to ob­
+tain in all the three worlds. Listen now how one becomes a 
+Brahmal).a and by means of whicᥣ Sarilskaras (consecratory 
+rites) . First there is . the rite of Bijavapana ( 'sowing of the 
+seed' ) in women through sacred rites. It is called Bijak!?epa too 
+since the seed is thrown (sown) . 
+52-59. 
+0 lady of high esteem, at the end thereof the sec­
+ond one, Garbhadhana (impregnation) , takes place. Purilsavana 
+rite is the third. Simanta is the fourth one. The fifth one is 
+I. 
+VV 49-58 give a list of 48 Samskaras. The list contians the names of 
+sacrifices like Agni¿ˤoma, SautramaQi etc., which can hardly be called 
+'Samskaras'. Old Smrtis like Manu or Yajiiavalkya do not specifY the n˥mber 
+of Samskaras. P.V. Kane in HD II.i deals with 16 Samskaras which are 
+regarded as essential.
+
+## Page 91
+
+V.iii.20.60-70 
+79 
+Jitakarma (post-natal rite) . Namakarma (Naming) is called the 
+sixth rite. Ni11krama (taking out the baby in open air for the 
+first time) is the seventh rite. Annaprasana (formal feeding 
+with food) is the eighth rite. Ciic,lakarma (cutting the lock of 
+hair) is the ninth rite. The tenth one is Maufijlbandhana (in­
+vestiture with the sacred thread) . Thereafter the rites of Ai11ika, 
+Darvika, Sa\lmika, Bhaumika, Patnlsarhyojana (marriage) are 
+performed. Then follows Daivakarma (offering oblations to 
+gods) . Then come Manu11yaka (rites in regard to human be­
+ings) and Pitrkarma (propitiation of the ancestors) . 0 splen­
+did lady, these rites are performed on the tenth or eighth 
+lunar days. Then follow the rites of Bhiita, Bhavya, lga, ParvaQ.a, 
+Sraddha, AgrayaQ.a on the SravaQ.I d:'.y, during the Darsa and 
+PaurQ.amasl of the months of Caitra and 1svayuj, Niruc,lhapasu­
+savana, SautramaQ.i, Agni11toma, Atyagni11toma, ᤅoc,lasl, Vajapeya, 
+Atiratra, Aptoryama, Dasavajapeyas, forbearance towards all living 
+beings, Anasiiya (absence of jealousy) , Sauca (purity) , Mailgala, 
+(auspiciousness) , AkarpaQ.ya (absence of miserliness) and Asprha 
+(absence of desire) . One becomes a BrahmaQ.a by consecration 
+through these forty-eight Sarhskaras. 
+60. 
+After realizing this, 0 highly esteemed lady, it does not 
+behove you to compel me to drink breast-milk. 0 gentle lady, 
+how can one like me drink breast-milk? 
+61-70. 
+On hearing these words of mine, the lady spoke 
+these words: "If you do not drink the breast-milk, the boy will 
+die. It is heard in the three worlds, in the Vedas and in the 
+Smrtis that one is rid of all sins but _cannot be rid of the s.in 
+of infanticide. The sin of killing will be incurred by you. Even 
+a great devotee of the Lord has to suffer the consequences of 
+infanticide in a hundred births. On death he incurs the state 
+of a dog extending to three hundred years. At the close thereof 
+he is born in the womb of a crow. There too he suffers the 
+consequences of the sinful act during eight hundred births. 
+He becomes a pig during ten births, at the close of which he 
+is born as a worm. Then he has a gradual rise in the births of 
+cow, elephant, horse and human being. Thus it is heard in 
+Srutis, Sastras and the Vedas. 0 scorcher of enemies, 0 excellent 
+BrahmaQ.a, the killing of a child brings about a sin more heinous 
+than all other sins. A BrahmaQ.a committing the slaughter of 
+a boy, is certainly cooked in Naraka. He undergoes torture at
+
+## Page 92
+
+80 
+Skanda Pura7J.a 
+the hands of Yama for eight hundred years. If you drink my 
+breast-milk, the fault is less severe. If you do not drink the sin 
+shall extend to many years. In case you drink the milk there 
+will be much merit besides the alleviation of hunger and thirst. 
+Hence do not entertain in your mind any doubt. Do come, 0 
+Brahma:Qa; for the sake of the boy drink the milk from my 
+breasts." 
+. 
+71-74. 
+On hearing those words I became ready to drink 
+the milk from the breasts. I was never satisfied in the course 
+of drinking the excellent breast-milk. 0 descendant of Bharata, 
+thirty-three thousand years thus elapsed. Deluded by the deceptive 
+slumber for a long time I woke up in the lap. Mter the delusion 
+of sleep had vanished, 0 son of PaQ<;iu, I looked around and 
+could not see the sleeping being or the boy. 0 descendant of 
+Bharata, I saw those four waterpots. Nor was that goddess to 
+be seen. All of them had gone somewhere. 
+75. While I was reflecting thus and standing there pondering 
+over everything, the goddess spoke these words with slight 
+laughter. 
+Sri Devi said: 
+76-80. 
+That sleeping person was KrᥨQa. The second being 
+that came was Hara. The four pitchers were the oceans, 0 
+excellent BrahmaQa. The boy seen by you was Brahma, the 
+grandfather of the worlds. I should be known as Prthivi con­
+sisting of the seven continents and mountains. Here, 0 BrahmaQa, 
+you see the excellent river Narmada who left you dn the ground 
+where she is well-established. She of auspicious features flows 
+for the good of all living beings. She is well-known as River 
+Reva. Hence Narmada has not become defunct. Mter realizing 
+this be calm and normal, 0 great sage. 
+Mter saying this to me that Divinity vanished there itself. 
+8 1 . 
+It is thus that the Lord stationed in Sattva used to lie 
+always during Pralaya-the great Lord in the form of Sattva on 
+whose support the universe is sustained. 
+82. 
+Thus the great and excellent miracle was seen and 
+experienced by me. It is meritorious and destructive of all sins. 
+83. 
+0 excellent one among men, it has thus been nar­
+rated and it was this that you had asked for. 0 king of mighty 
+arms, what else do you wish to hear?
+
+## Page 93
+
+V.iii.21 . 1-l l 
+81 
+CHAPTER TWENTYONE 
+The Origin of the River Kapilii 
+Yudhi6thira said: 
+1-2. 
+0 excellent BrahmaQa, with your favour different 
+narratives of miraculous import have been heard by me. I wish 
+to hear further, 0 BrahmaQa, about good holy vows. Do tell 
+me. How did this meritorious river named Narmada, the most 
+excellent one among all the rivers, become well-known? Tell 
+me again, 0 sinless one. 
+Sri Miirka7J,f/,eya said: 
+. 
+3. 
+Narmada is the most excellent one among all rivers. It 
+is destructive of all sins. It shall redeem all living beings, both 
+mobile and immobile. 
+4-5. 
+I shall recount to you the greatness of Narmada which 
+has been heard by rrie from my predecessors. 0 king, listen 
+with concentration of mind. Ganga is auspicious in Kanakhala; 
+Sarasvati in Kurukᤁetra; but Narmada is auspicious everywhere, 
+whether it be a village or a forest. 
+6. 
+The .water of Sarasvati sanctifies one in three days; the 
+water of Yamuna in seven days; the water of Ganga sanctifies 
+one immediately; but the water of Narmada does so through 
+the very sight. 
+7-8. 
+It is meritorious and beautiful at every step, in all the 
+three worlds. In the region to the west of Kalingadda on the 
+mountain Amarakar:ttaka, 0 great king, Devas, Gandharvas, sages 
+and ascetics have performed penance and attained great Siddhis. 
+9. 
+Mter taking his holy bath there, strictly controlling the 
+sense-organs and scrupulously observing restraints and observ­
+ing fast for a night, a man shall redeem a hundred members 
+of his family. 
+1 0. 
+0 dear one, since the mountain Amarakar:ttaka is a 
+great Siddhi-kᤁetra, it has been resorted to by all the Devas and 
+served by sages. 
+1 1 . Siddhas, Vidyadbaras, Bhiitas and, Gandharvas both vis­
+ible and invisible, desirous of Siddhi, serve and resort to this 
+excellent holy place.
+
+## Page 94
+
+82 
+Skanda Purii:r_ta 
+1 2. 
+Ever since then I too have resorted to the great holy 
+spot. Indeed in this holy spot the Consort of Uma is stationed 
+in the form of Prar:tava. 
+1 3. 
+Srlkar:tᤃha (Siva) and his Gar:tas have been served by 
+groups of all living beings. 0 king, I shall recount the details 
+of this Tlrtha extending from this excellent mountain. 
+1 4-1 5a. 
+0 excellent king, even Brahma is not competent to 
+fully extol all the meritorious Tlrthas situated on either side 
+of Narmada. 
+1 5b. 
+0 leading king, it is heard that the excellent river is 
+more than a hundred Yojanas long. 
+1 6-17. 
+It is half a Yojana in width. There are sixty crore 
+sixty thousand Tlrthas undoubtedly on both the banks of the 
+river from the mountain upto the sea. 
+18. 
+The Wind-god has mentioned that the Tlrthas number 
+sixty-seven crore sixty-seven thousand sixty-seven hundred. 
+19. 
+But, only in Krtayuga they become visible, 0 king. All 
+pious-minded men see them always. 
+20. 
+As Kali becomes severe and terrible, men become short 
+in stature and deficient in intrinsic strength. 
+2 1 . They say, 0 king, that Jaldvara and other Tlrthas on 
+this mountain accord satisfaction to the Pitrs on whom they as 
+well bestow heavenly pleasures and salvation. 
+22. 
+The holy spot Daruvana1 is very excellent. There the 
+confluence of Caruka is auspicious. On the north (bank) of 
+Narmada the holy .spot of Carukesvara is the most excellent. 
+23-25. 
+DarukeS\rara Tirtha, Vyatlpate8vara, Pataldvara Tirtha, 
+Koᤃiyajfia-these, 0 excellent king, are on the northern bank 
+of Reva. Near the side of Amaresvara there are one hundred 
+eight Lirigas, the chief whereof is Varur:tdvara. They dispel all 
+sins. 
+26. 
+Near Mandhatrpura are Siddhdvara and Yamdvara. 
+To the east of Orhkara is the excellent Tlrtha of Kedara. 
+27-28. 
+Near it, 0 great king, is Svargadvara ( 'Gateway to 
+Heaven' ) that dispels sins. It is the meritorious Tlrtha named 
+Brahme§vara. In front of it is Saptasarasvata. 
+1 . 
+I t is some local spot on the bank of Narmada. I t i s different from Daruvana 
+(area round the famou_s jyotirliilga Avan¾hya Naganatha) in Marathwada 
+region of Maharashtra.
+
+## Page 95
+
+V.iii.21.29-46a 
+83 
+Then there are the Rudragaka, Savitra and Somatlrtha. These 
+are the Liilgas, 0 Bull among the descendants of Bharata, on 
+the southern bank of Reva. 
+29. 
+0 dear one, crores of Rudras are stationed on this 
+mountain. They can be propitiated through ablutions, scents, 
+garlands and unguents. 
+30. 
+0 king, the Rudras shall undoubtedly become pleased 
+here. Sins can be wiped off by means of Japa. One attains 
+infiniteness (Mokᤄa) through meditation. 
+31 . 
+One obtains worldly pleasures through Dana: So said 
+Sailkara. In the region towards the west of the mountain, Lord 
+Mahe§vara himself, the eternal Lord, the primordial cause of 
+the Cosmos, is stationed in the form of Pral).ava. 
+32. 
+A devotee should control hiĥ @ense-organs and re-
+main celibate. Mter taking his holy bath, he shall remain pure 
+and perform the libation and other rites of the Pitrs as en­
+joine(l by scriptures. 
+33. 
+He should propitiate Pitr-gods with the water mixed 
+with gingelly seeds. 0 son of PaQ.9u, members of his family up 
+to seven generations including himself rejoice in heaven. 
+34. 
+He remains happy and enjoys different kinds of worldly 
+pleasures. He rejoices for sixty thousand years (in heᥤven) 
+duly adored by Suras. 
+35-36. 
+He rejoices for a long period. Mter coming down 
+from heaven, he is reborn in a family devoid of impurities, 
+when he shall be rich, liberal in gifts, devoid of ailments and 
+honoured by laymen. Again he remembers the holy spot and 
+makes pilgrimage thereto. 
+37. 
+During the second birth he will be very enthusiastic 
+(in eagerly resorting to the eddy) in the performance of the 
+Vrata with celibacy, observance of fasts and subduing of sense­
+organs. 
+38-46a. 
+Withdrawing from all forms of violence he attains 
+excellent merit. 0 kirig, know the meritorious benefit of the 
+devotee who practises piety in this manner and gives up life . 
+0 son of PaQ.9u, he rejoices in heaven for a hundred thousand 
+years full of groups of Apsaras and reverberating with divine 
+words and sounds. He shall be smeared wᥥth divine scents and 
+unguents and adorned with divine ornaments. He plays about 
+along with gods. He will be eulogized by Siddhas and Gandharvas.
+
+## Page 96
+
+84 
+Skanda Purii:r.ta 
+After coming down (again) from heaven he becomes (is born 
+as) a very powerful king possessing elephants, horses, chariots 
+and other vehicles. He shall be conversant with holy rites and 
+eagerly devoted to scriptural texts. He will dwell in a house full 
+of gold and silver supported by hundreds of columns. It will 
+have seven or eight storeys with excellent doorways and abounding . 
+in male and female servants and slaves. 
+Like the world of Indra, his abode shall be astir with the 
+sighs and deep breaths of elephants in rut and the neighing 
+sounds of horses. He shall be a glorious leader of kings of 
+kings and a dear lover of all womenfolk. He shall stay in such 
+a house for more than a hundred years enjoying pleasures and 
+amusements. He shall be devoid of all ailments. 
+This is what will happen in case of those who die in Amare5vara: 
+46b-47a. He who devoutly enters into funeral pyre on 
+AmarakaQtaka shall attain heaven after death (ultimately) reaching 
+the greatest goal. 
+4 7b-49 
+It is known from the PuraQa that everything re­
+garding holy ablution, Dana, Japa and Homa, whether auspi­
+cious or inauspicious, shall have a crore of times more of its 
+benefit. The trees also growing on her banks and falling down 
+after a lapse of time attain the greatest goal on being touched 
+by the waters - of Narmada. His departure (death) thereto is 
+without return (to Samsara) like that of the wind in the fir­
+mament. 
+50-52. 
+0 king; if the devotee falls down (offers his body) 
+into the Tirtha, he will enjoy pleasures in Patala. Three thou­
+sand maidens stand in waiting in his abode seeking errands 
+from him. Richly endowed with divine enjoyment of pleasures, 
+he amuses himself for as long as he wishes (to do) . On the 
+whole of the earth stretching upto the sea, 0 excellent one 
+among men, there is nothing like mountain AmarakaQtaka. 
+53. 
+To the west of the mountain, it should be known that 
+there is a Tirtha; the eddy named Jalesvara wellᥦknown in all 
+the three worlds. 
+54. 
+By offering balls of rice there and performing Sandhya 
+prayers, the Pitrs become' propitiated and satisfied for a period 
+of twelve years. 
+55-57a. 'On the southern bank o( Narmada there is the
+
+## Page 97
+
+V.iii.21 .57b-68 
+85 
+great river Kapila1 overgrown with Sarala (pine) and Arjuna 
+trees, rendered beautiful by Khadiras and adorned by the creepers 
+of Madhavi and Sallaki. 0 }sing, it is always delightful with 
+roaring beasts of prey, other beasts like jackals, monkeys etc., 
+and chirping of diff<::rent kinds of birds. 
+57b-58a. We have heard that there are more than a hun­
+dred crores of sages there. After performing penance there 
+they have attained liberation. They have no rebirth. They never 
+came bat:k (to Samsara) . 
+58b-60a. Since the noble-souled Kapila performed penance 
+there, a meritorious Tirtha has sprung up there. It was re­
+sorted to formerly by the sages following Kapila; it has been 
+praised by the name of Kapila. It is destructive of all sins. 
+60b-62a. There in Amare5vara there are more than hundred 
+w 
+crores of Tirthas. One who stays for a night and day there, is 
+rid of all sins after offering Dana duly to an excellent BrahmaQa 
+in accordance with one's capacity .. Due to the favour of Isvara 
+everything shall become a crore of times more meritorious. 
+62b-64a. 0 descendant of Bharata, here the form of PraQava 
+is Anakᥨara (not in the form of a syllable) . It is in the form 
+of Siva himself. It will be one made with syllables and Matras(?) . 
+Creatures and animals, trees, hedges, creepers etc. meeting 
+with death there undoubtedly attain heaven. 
+64b-65a. There itself is a great river named Visalya. By tak­
+ing holy bath and offering Dana duly there also, one will become 
+meritorious. 
+65b-66. All the groups of Devas along with K.innaras, great 
+serpents, Yakᥨas, Rak᥼asas, Gandharvas, sages and ascetics come 
+there and visit her in. Amaresvara. 
+67a. 
+Those two auspicious Ka᥽s (ridges) were bowed down 
+to by all of them after coming there. 
+67b-68. In the earlier awful Yuga that terrifies all the worlds, 
+the son of Narmada, who had been Sasalya (one with a. dart 
+within, i.e. one who suffers from pain) was rendered Visalya 
+(free from Salya) by all the Devas and sages. Hence it is re­
+membered as Visalya.2 
+1 . 
+D e (p.4) states that Kapila i s an aflluent (tributary) o f Narmada. This 
+Pural).a traces the name to Sage Kapila who is said to have performe<l 
+penance on the banks of Narmada. 
+2. 
+A popular etymology. Another such etymological episode is given in vv 
+7 1-77 below:
+
+## Page 98
+
+86 
+Skanda Purii:t:ta 
+Yudhi6thira said: 
+69-70 
+How did Visalya rise up, 0 dear one. How did Kapila? 
+0 sage, how did the son of Narmada become one with Salya? 
+This is something mysterious to the people. 0 sage of good 
+holy rites, I wish to hear. 
+Sri Miirkat;uf,eya said: 
+7 1 . 
+Formerly, 0 king, the daughtt';r of Dakᤄa i.e. DakᤄayaQ.i 
+(Gauri) sported about in the waters of Narmada with great joy 
+along with the Trident-bearing One. 
+72. 
+After rising up suddenly from the water she changed 
+her clothes. The wet clothes of the goddess were sportingly 
+squeezed and pressed by the attendants. 
+73-74a. 
+When the clothes were being squeezed dry, drops 
+of coloured water resembling a rainbow fell down. Hence the 
+great river named Kapila issued forth. 
+74b-77. The tawny-coloured water issuing from the clothes 
+got mixed with the unguents. Due to the Kapila colour the 
+river became Kapila by name too. The water was mixed with 
+the scented Rasas (unguents) of different kinds of flowers and 
+rendered fragrant. Splendid hands as tender as sprouts squeezed 
+the clothes and the water that issued forth became tawny-coloured 
+with mixtures of different colours. 
+78. 
+Hence the excellent river is called Kapila by persons 
+conversant with the topics of the PuraQ.as. This excellent river 
+Kapila originating from the waters of Narmada dropping from 
+the clothes should be considered highly meritorious.
+
+## Page 99
+
+V.iii.22.1-20 
+87 
+CHAPTER TWENTYTWO 
+The Origin of Visalya 
+Sri Marka1J,tf,eya said: 
+1-8. 
+Henceforth I shall recount how it came to be Visalya,1 
+one that is miraculous unto the people, the destrQyer of all 
+sins. 
+Agni, a mental son of Brahma, was born. He was Mukhya 
+Vahni. He was a highly righteous saᤋe. 
+Svaha who is remembered as a daughter of Dakᤁa became 
+his wife. 0 great king, three sons were born to her: ( 1 ) Ahavaniya 
+Agni, (2) DakᤁiQ.agni, and (3) the third Garhapatya. All the 
+three worlds are sustained by these threi 
+This Garhapatya Agni begot two splendid sons named Padmaka 
+and Sanku. Both of them were ex€ellent Agnis. 
+Garhapatya Agni stayed on the banks of Narmada and per­
+formed great penance and propitiated Rudra. He had great 
+concentration and self-control. 
+He thus performed severe austerities for ten thousand years. 
+The delighted Bull-emblemed great Lord spoke to hiin: "0 
+highly esteemed one, tell me what you have in your mind. 
+Even if what you desire is something very difficult to get, I shall 
+undoubtedly be-stow it on you." 
+The Agni said: 
+9-1 0. 0 Mahe5vara, may this highly esteemed Narmada and 
+the sixteen other rivers be my wives with your favour. 
+I shall beget excellent sons of them in accordance with my 
+desire. 0 Mahdvara, let this boon alone be granted to me. 
+lsvara said: 
+1 1-20. 
+These excellent rivers named DhiᤁQ.i, of large eyes, 
+1 . 
+Kiipila Hrada removed the darts from the body of Dhi˦l).indra, the son of 
+Narmada born from Garhapatya Agni. 
+This episode is not found in any other Pural)a and as such it is a special 
+contribution of this author. 
+The main emphasis is on the efficacy of Narmada in removing darts in 
+the form of sins from human bodies by mere bath in Kapila.
+
+## Page 100
+
+88 
+Skanda Purii:T}a 
+shall be your wives. Undoubtedly they are well-known in the 
+Vedas. 
+The Agriis remembered in Adhvara (sacrifice) shall become 
+their sons. They will become very famous by the name of DhiᤁQya 
+until the annihilation of all living beings. 
+Mter saying this Mahadeva vanished there itself. The excel­
+lent river Narmada became his wife. 
+The following sixteen rivers too were duly declared as his 
+wives: Kciveri, KrᤁQaveQi, Reva, Yamuna, Godavari, Vitasta, 
+Candrabhaga, Iravati, Vipasa, Kausiki, Sarayu, Satarudrika, Sipra, 
+Sarasvati, Hradini and Pavani. 
+That highly lustrous (Fire-god) divided himself among those 
+DhiᤁQis. Due to the transgression of the husband Suds (fires, 
+called Suds) were born as the sons of Narmada and other 
+DhiᤁQis. All these are remembered as DhiᤁQyapas. 
+The well-known one named DhiᤁQindra became the son of 
+Narmada. He was powerful and unequalled in beauty of form, 
+0 king. 
+Thereafter a fight between Devas and Asuras broke out causing 
+horripilation. It became famous in the three worlds as Mayatciraka. 
+The Suraᥟ were attacked by the extremely terrible Daityas, 
+the chief of whom were Maya and Tara. They became terrified 
+and they sought refuge in ViᤁQU. 
+. 
+21-30. 
+"Save us, 0 Hrᤁikesa, from this awful calamity. 
+Annihilate all the Daityas, the leaders whereof are Maya and 
+Tara. " On being told thus, the Lord surveyed the ten direc­
+tions. At that time Pavaka (Fire) and Maruta (Wind) were seen 
+in the battle by the Lord. 
+On being summoned by ViᤁQu both of them went near him 
+instantly. They stood bowing down before the intelligent Lord 
+of Devas. 
+Then the leading Pavaka (Fire) DhiᤁQi was told by the noble­
+souled Lord: "0 son of Narmada, burn down these extremely 
+terrible Asuras. " 
+O n being told thus, those two gods, Pavaka ᥠnd Maruta, 
+burned down all the Daityas, the leaders of whom were Maya 
+and Tara. 
+While being burnt they surrounded Agni by means of divine 
+weapons resembling fire and sun. They were hundreds and 
+thousands in number.
+
+## Page 101
+
+V.iii.23.31-V.iii.23.6 
+89 
+Along with groups of weapons Agni too burnt those great 
+Asuras. Everything was enveloped in circles of flames by the 
+wind. 
+Thus scorched and enveloped by flames of fire, the Daityas 
+entered Patala and concealed themselves under water in thou­
+sands. 
+Thereafter all the Suras adored and honoured Agni, the 
+immutable young son of Narmada, and returned to heaven. 
+The son of Reva of excessive splendour and surrounded by 
+fire (gods) , full of darts as he was, hurriedly came to Narmada 
+eagerly to visit her. 
+31-36. 
+On seeing her son, extremely wounded by a mass 
+of weapons, Narmada of meritorious waters got up struck with 
+a shock. With her breasts excited due tᥡ Y..e secretion of milk, 
+she embraced him with both the arms. Taking the weapon­
+wounded son with her, she entered the Kapila Hrada. 
+lmii}.ediately after the entry into the Kapila Hrada that destroys 
+sins, she instantly made the Sasalya one Visalya (with darts 
+removed) . 
+Since he became Visalya (dartless) after entering her aus­
+picious water, the river Kapila is called Visalya too by learned 
+men. 
+Others too who are pure, clean and have concentration of 
+mind are rid of Piipa-Salyas (darts in the form of sins) . On 
+death, they go to heaven. 
+Thus everything that was asked earlier by you as to the cause 
+of the origin of Visalya has been recounted, 0 Lord of men. 
+CHAPTER TWENTYTHREE 
+The Greatness of the Confluence of Visalyii 
+Miirka7Jf/-eya said: 
+1-6. 
+0 king, those mortals with great devotion who cast off 
+their lives at the confluence, attain the highest state. 
+He who goes to Amare§vara, abandons all cherished desires 
+and gives up his life there shall invariably dwell in heaven.
+
+## Page 102
+
+90 
+Skanda Purii:r;ta 
+A man who goes to the great mountain and gives us his life, 
+shall go to Amaravati -by means of an aerial chariot resembling 
+the sun. 
+On seeing the man falling down from the moun tain 
+Amarakaᦣ:ttaka, all the Apsaras say, "He shall be my husband. " 
+Those conversant with piety say that the water of Sarasvati 
+is on a par with that of Ganga: Men of enlightenment who 
+know these things better, say that the water of Reva is far 
+superior to it (i.e. the water of Ganga) . There is no doubt in 
+it. 
+The place of one who keeps the water of Reva upon his 
+head, is near the Lord of the leading Suras, because it is occupied 
+for residence by many Vidyadharas, Kinnaras and others and 
+is the abode of the greatest of merits. 
+7-1 5. 0 king, of what avail is the verbose talk? If one does 
+not wish to see again the terrible ocean of worldly existence, 
+one should always resort to Narmada. 
+It is remembered as one that sanctifies all the three worlds. 
+Even if one dies elsewhere he attains the goal of Gaᦣ:tdvara. 
+This river is surrounded everywhere by many places of Yajfias. 
+There is nothing here which is not a Tirtha. As has been 
+spoken by you, sinning men, whether they have performed 
+penance or not, who die on her banks, go to Svarga like lead­
+ing Amaras. 
+Thus, 0 excellent king, it is with a desire for the welfare of 
+all the worlds that Kapila and Visalya were created formerly by 
+Isvara. 
+By taking his holy bath there along with the observance of 
+fast and control of the sense-organs, a man shall undoubtedly 
+attain the benefit of a great Asvamedha. 
+He who refrains from eating at this Tirtha shall be rid of 
+all sins and attain Siva's place. 
+By taking the holy bath once in the confluence of Visalya, 
+one attains that benefit which one attains through Snana and 
+Dana done all over the earth extending to the seas. 
+Thus, 0 king, the meritorious and sacred river has been 
+extolled to you. I shall narrate again whatever you may ask.
+
+## Page 103
+
+V.iii.24. 1-V.iii.25.3 
+91 
+CHAPTER TWENTYFOUR 
+The Gr_eatness of the Confluence of Karanarmadii 
+Sri Miirkar.ujeya said: 
+1-3. 
+The confluence of Kara1 and Narmada in Mandhatrpura 
+shall take the Pitrs to ViᤁQ.upura if one goes to the place, takes 
+bath and propitiates the Pitrs. 
+With a desire to kill the Daityas, ViᤁQ.U formerly rubbed his 
+hands and took up the discus. From his perspiration the ex­
+cellent river began to flow and joined Reva. By taking the holy 
+ablution there, one is rid of all sins. 
+CHAPTER TWENTYFIVE 
+The Greatness of the Confluence of Mlagangii 
+Sri Miirkar.uf,eya said: 
+1-3. 
+0 excellent king, to the eastern side of Orilkara is the 
+confluence, well-known all over the world, where Nllaganga 
+meets Reva. 
+By taking the holy bath there and performing Japa, what 
+objective in the world will be impossible to get? One shall stay 
+in the city of NllakaQ.fha for sixty thousand years. 
+By propitiating the Pitrs in Sraddha through water mixed 
+with gingelly seeds, one shall redeem twenty-one generations 
+including oneself. 
+1 . 
+The rivulet Kara, a tributary of Narmada, is so named as i t issued from 
+the perspiration of Vi˧˫;m's hand.
+
+## Page 104
+
+92 
+Skanda Purii:r;a 
+CHAPTER TWENTYSIX 
+The Observance Called Madhitka Trtiyii1 
+Yudhi6thira said: 
+1-7 
+0 excellent Brahmat:J.a, JaleS.vara too has been men-
+tioned earlier by you. How is it meritorious? How is it resorted 
+to by R11is and Siddhas? 
+Sri Miirka7J¢eya said: 
+A greater Tirtha than Jalesvara was never there before nor 
+will there ever be (in future) . 0 son of Pat:J.<;iu, listen as I 
+recount its origin. 
+Formerly all the groups of sages along with groups of Maruts 
+and lndra were extremely tormented by all the Asuras and 
+were led to destruction in many ways. 
+On being killed and assailed by many Asuras headed by 
+Bat:J.asura and having Jambha and Sumbha as .their leaders, 
+they sought - refuge in Brahma. 
+They wt;nt by means of aerial chariots as huge as mountains, 
+horses comparable (in bigness) to elephants, chariots of the 
+size of cities drawn by lions and tigers and also by tortoises and 
+crocodiles. Others went on foot. 
+After reaching the great region inaccessible to unrighteous 
+persons, they saw the Lotus-born Lord, the benefactor of all 
+the world. All of them went there and eulogized with concen­
+tration and mental purity. 
+I . 
+This Vrala is observed on the 3rd day in the bright half of Phalguna. ll 
+is meanl for women. h granl5 conjugal felicity and sons and is an insur­
+ance against widowhood. An observer of the Vrala is lo fast on this day. 
+The next day she is lo worship Goddess Gauri on a Madhiika tree and 
+pray for Saubhagya (conjugal felicity) . Brahmal)a women whose husbands 
+are alive are honoured with flowers, garments and edibles (Hemadri, 
+Vrata I. 4 1 3-415) . According lo Bhavidya Pural)a, the Vrala is lo be ob­
+served on the 3rd day in the dark half of Phalguna. Our lexl prescribes 
+this Vrata on the 3rd day of bright half of Cailra and also the riles lo be 
+observed throughout the fortnight. 
+Madhiika ( Cinometra ramijlora, Moh in Maralhi) is useful for distilling 
+intoxicating liquor.
+
+## Page 105
+
+V.iii.26.8-23 
+93 
+The Devas prayed: 
+8-1 5. Be victorious, 0 immeasurable Lotus-born One. Be 
+victorious, 0 cause of creation. 0 most excellent one among 
+Suras, we have sought refuge in you. 
+On hearing the words of the Devas of purified souls, the 
+Grandfather replied in words as deep-sounding and resonant 
+as the rumbling of clouds: "Wherefore have you come, 0 Devas? 
+Why this paleness in everyone? By whom have you all been 
+insulted? 0 immortal ones, do tell me quickly. " 
+The Devas said: 
+There is a Danava of great vigour and ᥍rowess named Bai).a. 
+He is arrogant on account ·of his strength. Everything belong­
+ing to us has been taken away by him. We have been deprived 
+of all our wealth and jewels. 
+On hearing the words of the Devas, Brahma, the grandfa­
+ther of th᥎ wo'rlds, the Lord of Devas, pondered: "What is the 
+means for his destruction? The sinful Danava cannot be killed 
+by any of the heaven-dwellers excepting Lord Saiikara. He cannot 
+be killed by me or ViᤁI).U. We shall go there alone where Lord 
+Maheiivara is present. He is the resort unto all. There is no one 
+else." 
+After saying this, Brahma, the most excellent one among 
+the knowers of the Vedas, went to the place where Maheiivara 
+was present. He was accompanied by learned Brahmai).as. 
+1 6-23. 
+He eulogized Parameiivara through richly-worded 
+prayers. 
+The Devas said: 
+Be victorious, 0 Lord of the chiefs of Devas. Be victorious, 
+0 one half of whose body is shared by Uma, 0 bull-seated one, 
+0 mighty-armed one having the Moon as the ornament. 
+Obeisance to the one holding in his front hand the t_rident. 
+Obeisance to the wielder of Khatvailga. Be victorious, 0 Lord 
+of goblins, 0 destroyer of Dakᤁa's Yajiia. 
+Obeisance, 0 Lord having (i.e. worshipped with) ᥏he five-
+
+## Page 106
+
+94 
+Skanda Purii:IJa 
+syllabled ( namaiJ, siviiya) Mantra, 0 Lord having the five ele­
+ments for physical form, 0 Isana having five faces. You are 
+being sung about by the Vedas. 
+Obeisance to you who are always engaged in the activities 
+of creation, sustenance and annihilation. 0 AHamurti (one 
+having eight cosmic forms) , 0 destroyer of Smara! Remember 
+the truth as eulogized. 
+0 Lord, your person is praised by the Brahma:r:tas as being 
+constituted of five bodies, viz. Sadyojata, Vamadeva, Aghora, 
+Isa and Tatpuruᤁa. (These are the opening words of Mantras 
+from 1 7. 1-5 Mahiiniiriiya'T_la Upani6ad. ) In an extensive expanse 
+of gold, 0 Hara, you coo like a swan. 
+On being eulogized thus by the groups of sages beginning 
+with Brahma and by the Suras and Asuras (?) the Lord became 
+delighted in his mind and said to the groups of Devas: 
+lsvara said: 
+24-34. 
+Welcome unto the Devas and Vipras (Brahma:r:tas) . 
+The night has dawned well today. What shall we do? Tell me 
+quickly. Who else is to be resorted to by Suras and Asuras? 
+What is the misery? What is the distress? Whence has fright 
+arisen? Do tell me, 0 blessed ones, the cause thereof which 
+you have been thinking of. 
+On being told thus by Rudra, the leading Suras replied 
+displaying their respective bodies shyly with faces turned down­
+wards: "There is a terrible Danava of great virility and arrogant 
+of his strength. He is well known by the name BaQ.a. He has 
+three great cities.1 
+He has performed severe penance for a thousand years. 
+Brahma was delighted by his Dama (control over the sense­
+organs) and Niyama (restraints) . 
+I . 
+The Purat:ta regards Bat:ta as the king of Tripuras (three cities made of 
+three metals) . But Mbh, KarJa, Ch. 33 names Kamalakda, Tarakda and 
+Vidyaunmali as the masters of these three cities. Those cities were created 
+by Maya, the architect of Asuras and not by Brahma as in this text. The 
+capital of Bat:ta was Sot:titapura (in Kumaun) .
+
+## Page 107
+
+V.iii.26.35-45 
+95 
+He granted him three impenetrable cities that can go wher­
+ever he wishes to go. They are made of steel, silver and gold. 
+The set of three cities has been created by Brahma. It can 
+move and go wherever one wishes to go. The Danavas highly 
+powerful due to it, stationed themselves in the three cities. 
+The great Asuras harass the entire region of the three worlds. 
+Staff, noose, sword and other weapons are used to harass unagitating 
+persons. The set of the three cities occupied by the Danavas 
+moves about like a wheel. As in the case of a mirage, it is visible 
+at some places and invisible at others. 
+Wherever that great set of cities of the arrogant Danava 
+descends neither Brahma1_1as nor Devas, neither cows nor other 
+creatures are seen there. Nothing is seen where the three citie 
+fall. Rivers, villages and many countries have been reduced to 
+ash. 
+35-45. 
+Gold, silver, jewels, pearls, the beautiful jewel-like 
+women-all these he seizes forcibly. 
+0 Hara, it is not possible for the groups of Devas to slay him 
+with any weapon or missile either during day or at night. Hence, 
+0 Mahadeva, do burn him down. You alone are our last resort. 
+Thus, 0 -Lord of Devas, it behoves you to do this favour unto 
+all of us. 
+0 Lord, it behoves you. to do everything whereby Devas, 
+Gimdharvas, sages and ascetics attain utmost courage. " 
+lsvara said: 
+I shall do all these things. Do not _get dejected. Ere long I 
+shall do what is conducive to your happiness. 
+Mter consoling all those Devas with Indra as their leader, 
+the Lord of Devas thought about the means of the destruction 
+of the three cities. 
+'How, in what manner, should the set of cities be destroyed 
+by me? Excepting Narada no other remedy is possible. ' 
+Mter steadying himself thus, he meditated upon Narada. At 
+the very instant, the sage of excessive penance came like wind. 
+The holy Lord had a Kamal).c;lalu (water-pot) held in his hand 
+and three staffs tied together. He was endowed with perfect 
+knowledge. He was resplendent with the Yogapaga (upper cloth) 
+and rosary of beads as well as an umbrella. The matted hairs
+
+## Page 108
+
+96 
+Skanda Purii1J,a 
+were kept tied upon his head. He had the splendour resem­
+bling that of fire and the Sun. He circumambulated the Lord 
+three times and prostrated on the ground like a log of wood. 
+Narada, the holy sage, joined his palms in veneration. He 
+then eulogized Sarva, the lofty-minded Lord, with a great prayer. 
+Niirada said: 
+46-55. 
+Be victorious, 0 Sarhbhu, 0 Viriipakᤁa (odd-eyed 
+that is three-eyed one) . ᥐe victorious, 0 thr_ee-eyed Lord; be 
+victorious, 0 Sail.kara, 0 !Sana, 0 Rudra, 0 ISvara. Obeisance 
+to you. 
+You are ·the Lord protector. You are the creator of the universe. 
+0 Lord, you alone are the annihilator. You are the protector 
+of the worlds, the slayer of the wicked god of Death. 
+0 Surdana, save us, 0 eternal Lord with the Vedas for your 
+form, 0 eternal Bhava-miirti, 0 enemy of worldly existence; be 
+the bestower of freedom from fear on those who resort to you. 
+For the sake of the destruction of the possibility of being 
+(born) in the world, I seek refuge in you. 
+Why have I been thought of, 0 Lord? May the command be 
+given, 0 Lord. 
+Whose mind am I to agitate and excite? Who should tumble 
+down on to the ground? Whom shall I instigate for a quarrel, 
+0 Lord, 0 foremost one among the victorious ones? 
+On hearing the words of Narada, Mahadeva, the Lord of 
+Devas, became glad with eyes in full bloom and spoke these 
+words: "Welcome unto you, 0 sage par excellence, always fond 
+of quarrels. 0 eternal son of Brahma, conversant with the 
+principles of playing on the ViQa, ·O Narada, hasten to the 
+great set of three cities of BaQa, the Lord of Danavas. It causes 
+great fright among all the worlds. The husbands there are on 
+a par with the Devas and the wives are equal to the Apsaras. 
+The great set of the three cities moves by the refulgence of 
+those ladies. It cannot be split up by any means, 0 excellent 
+BrahmaQa. You do go there quickly and enchant everyone by 
+means of several rites of diverse characteristics."
+
+## Page 109
+
+V.iii.26.56-67 
+97 
+Niirada said: 
+56-67. 
+At your behest, 0 Lord of Devas, I shall get the 
+excellent city broken up (by dissension) though it is impen­
+etrable by diverse means on the part of the Devas including 
+Vasava (Indra) . 
+Mter saying this, 0 king, the sage went to that excellent city 
+of Bal)a endowed with increasing prosperity and extending to 
+a hund,red Yojanas. All fanciful things had been stacked there. 
+Different kinds of minerals gave it variegated, wonderful fea­
+tures. It was teeming with many mansions. It is (was) rendered 
+brilliant with many buildings. It was equipped with ornamental 
+gateways. It was· rendered beautiful with panels with sliding 
+bolts. It was equipped with many mechanicᥑl contrivances. It was 
+sparkling with ramparts and moats. It abounded in tanks, wells 
+and lakes as well as shrines of deities. It was embellished with 
+lotus-ponds teeming with swans and KaraQ.<J.avas. It was rich with 
+many birds. The excellent city of Bal)a had all these features. 
+Bal)a's huge palatial residence was in its centre. It had seven 
+storeys and was resplendent. It was embellished in gold with 
+divine workmanship. It was rendered beautiful with pearl strings, 
+diamonds and lapis lazuli. The ground was paved with gold 
+plates and made splendid with jewels. Various sounds such as 
+the breaths (trumpetings?) of elephants in rut, chariots, the 
+neighing sounds of horses, the jingling sound of the anklets 
+of women etc. made the atmosphere resonant. 
+The palace was guarded by Danavas of awful features, arro­
+gant due to their strength. They were armed with Kha<J.gas 
+(swords) and Tomaras. They had various weapons such as 
+thunderbolts, goads and arrows. The excellent palatial resi­
+dence of Bal)a had these characteristic features. It was {amous 
+like the peak of Kailasa and was comparable to the abode of 
+Mahendra. 
+Narada hurriedly proceeded towards that city by the way of 
+sky. Mter going up to the gate he spoke these words to the 
+ᤏattr (the officer in-charge) : "0 gatekeeper, 0 very wise one, 
+0 one expert in discharging royal duties! Be quick and inform 
+Bal)a that Narada is waiting at the gateᥒ"
+
+## Page 110
+
+98 
+Skanda Pura7Ja 
+68-77. 
+He bowed down to the feet of Narada quickly. Then 
+he began to submit to Bar:ta who was in the centre of the Royal 
+Court. All his limbs began to tremble. He covered his face with 
+the hand. Even as all the soldiers were listening he spoke these 
+words: "There stands at the threshold, Narada who is honoured 
+and adored by Devas, Gandharvas, Yakᤁas, Kinnaras and Danavas. 
+He is fond of (instigating) quarrels and is very difficult to 
+pacify. " 
+Ba7Ja said: 
+Usher in the blessed son of Brahma, the brilliant one who 
+cannot be transgressed and who is unbearable. Why has he 
+been stopped outside? 
+On hearing these words uttered by the Lord, he went there 
+in great hurry and made Narada step in. 
+On seeing the celestial sage Narada adored by Suras, enter­
+ing, the delighted Daitya got up at once and saluted the feet 
+of the sage. He offered the sage a seat, formal Arghyapadya 
+and adoration duly. Then he dedicated to him his kingdom 
+and himself along with the kinsmen. Bar:tasura himself enquired 
+of the sage about his welfare. 
+Narada said: 
+78-89. 
+Excellent! Excellent! 0 mighty-armed one causing 
+Danu's race to flourish! Who else excepting you is praise-worthy 
+in the whole range of the three worlds? 0 leading scion of the 
+family of Danu, 0 most excellent one among the descendants 
+of Danu! I have been honoured with wealth and jewels of very 
+excellent <JUalities; also by the offer of _your kingdom as well 
+as your own self. Who else will adore (me) ? 
+I have nothing_ to do with the enjoyment of worldly plea­
+sures. Enjoy your own unimperilled kingdom. l have come 
+here aftᥓr visiting Mahesvara only with an eagerness to see you. 
+I have heard that the $et of your three cities moves about 
+due to the chastity of your wife. 0 Lord of Danavas, I have 
+come here to see that celebrated wife of yours. If you consider 
+it proper, do not delay; let me see her. 
+* 
+* 
+*
+
+## Page 111
+
+V.iii. 26.90-96 
+99 
+On hearing the words of Narada, he looked at the Kaiicukin, 
+the elderly staff-bearing officer of the womens' inner apart­
+ment, endowed with good qualities. Delighted in his heart, the 
+king made the quarters reverberate with his voice and told 
+him: "0 Kaiicukin, may the chief queen accompanied by all 
+the attendants of the inner apartment unhesitatingly grant an 
+audience to Narada. " In view of the command of his master, 
+he grasped the hand of Narada, entered the apartment and 
+said to the queen: "This is Narada who has come to see you." 
+On seeing the excellent sage, she bowed down to his feet and 
+offered an excellent golden seat, Arghyapadya and other things. 
+The holy sage who was pleased offered her the greatest bless­
+ing and said: "0 queen, in the entire range of the three worlds, 
+no other woman like you is seen, who •is chaste, well-behaved 
+and endowed with truthfulness and cleanliness. It is by your 
+power that the set of the three cities always whirls like a wheel." 
+Ori hearing those words joyously uttered by Narada, the 
+queen who was the most excellent one among righteous and 
+pious ladies, devoutly asked the sage about the sacred rites: 
+Riijiii (the queen) said: 
+90-92. 
+0 holy Sir, what are those Vratas in the world whereby 
+Devas become pleased? What are the Danas (religious gifts) 
+offered which yield great benefits? What are those holy obser­
+vances of fasts included by learned ones among the holy rites 
+meant for women, by the performance whereof virtuous ladies 
+go to heaven? 0 highly esteemed one, mention all these things 
+truthfully. I wish to know everything. Do speak unhesitatingly. 
+Niirada said: 
+93. 
+Excellent! Excellent! 0 highly blessed lady, you have 
+put such a question as will enable all ladies to get their piety 
+increased by paying heed to it. 
+94. 
+By fasts and Danas husband and sons come under 
+control. I shall tell you those rites which when performed always 
+bring about ·honour from kinsmen. 
+95-96. 
+0 beautiful lady, I shall menti'on those rites which 
+bring good results if performed and bad results if not per­
+formed. If they are performed a Durbhagii (unfortunate woman)
+
+## Page 112
+
+1 00 
+Skanda Purii:r.ta 
+becomes Subhaga (fortunate) . If they are not performed a Subhaga 
+becomes Durbhaga. A woman without a son shall be blessed 
+with a son if performed and cursed (on non-performance) . A 
+virgin obtains a husband and another becomes deprived of the 
+husband (when not performed) . 
+97-99a. 
+Those who offer these things do not go near Varna: 
+Tiladhenu (a cow made of gingelly seeds) , gold, silver, cows, 
+clothes, beverage, plot of land, scents, incense, unguents, sandals 
+of wood or leather,· umbrella, meritorious fans, oil for foot 
+massage, oil for head, bathing requisites, beds and seats. Those 
+who give these (as Dana) do not go to Varna (- loka) . 
+99b-l 00. If the following are offered to couples on Lalitadina 
+(the day of Lalita, probably 5th day in the bright half of Asvina) , 
+there shall be conjugal felicity in this world and hereafter; 
+Honey, black gram, milk, ghee, salt, jaggery, medicine, bever­
+age, plot of land, paddy, sugarcane juice and smooth red clothes. 
+1 01-1 02a. 
+The following things should be offered to a 
+meritorious and handsome Brahmaᤂa of good conduct: I shall 
+tell you, 0 queen, how these things should be given and on 
+what Tithis: 
+[ Tithis and Danas:] 
+1 02b-1 04a. 
+I Lunar day: A woman should observe the Vrata 
+of purity on the Pratipada day and offer fuel to a Brahmaᤂa 
+in the forenoon, reciting the Mantra: "May Hutasana (fire) be 
+pleased with me. ,.;.0 beloved one of the king, in the course of 
+her twenty-six births she will never experience either ailment 
+or distress in her limbs and joints. 
+1 04b-1 05a. 
+II Lunar day: A woman who joyously offers butter 
+to an important Brahmaᤂa on the second lunar day, shall become 
+one endowed with a smooth, stender body. 
+1 05b-1 07a. 
+III Lunar day: Listen to the meritorious benefit 
+of the woman who, on the third lunar day, offers salt to an 
+excellent Brahmaᤂa, uttering the Mantra: "May Goddess Gauri 
+be pleased with me. " A virgin will attain a husbanᥔ and will 
+sport about with him likᥕ Uma (with Siva) . She will never be 
+a widow. She will obtain great fame. 
+1 07b-l 09,a. 
+IV Lunar day: After observing the Vrata of Naktam 
+(i.e. taking food only at night) on the fourth lunar day she
+
+## Page 113
+
+V.iii. 26.1 09b-121 a 
+1 01 
+should offer sweetmeats (Modakas) to a BrahmaQa. She should 
+utter the Mantra: "May the Lord of Devas, GaQanatha, Vinayaka 
+be pleased." As a result of her act, 0 beautiful lady, there will 
+never be any obstacle in any rite. So says the Grandfather (i.e. 
+Brahma.) 
+109b-1 1 0a. 
+V Lunar day: A woman who offers gingelly seeds 
+to a BrahmaQa on the fifth lunar day shall become endowed 
+with beauty like Tilottama. 
+1 10b-1 1 2a. 
+VI Lunar day: A devout lady shall alwa.ys offer 
+a fruit of Madhiika on the sixth lunar day with the Agni-born 
+Lord (i.e. Karttikeya) in view to a BrahmaQa who has mastered 
+the Vedas. Her son will become a great king like Skanda who 
+is the most excellent one among the groups of Devas. He will 
+be adored in all the worlds. 
+1 1 2b-1 1 5a. 
+VII Lunar day: With the Lord of the Cosmos, 
+the Lord of Devas, Divakara (Sun-god) in view, a devout lady 
+should honour an excellent BrahmaQa with gold. The merito­
+rious benefit of that sacred rite has been extolled by excellent 
+BrahmaQas. 0 queen, I shall mention it to you. Listen with 
+concentration of mind, 0 chaste lady. None of these skin diseases 
+will occur in (affect) her limbs even if the sins of prior births 
+happen to be in force: Scabies, leprosy, (leucoderma, white 
+patches, pachydermia etc. 
+1 1 5b-1 1 7a. 
+VIII Lunar day: On the eighth lunar day a de­
+vout, beautiful lady should offer a black cow to a BrahmaQa 
+with good conduct, uttering the Mantra, "May Mahdvara be 
+pleased. " Her sin incurred in the course of many births per­
+ishes. She will become endowed with riches. There is no doubt 
+about this because th.e Dana is very excellent. 
+1 1 7b-1 1 9a. 
+IX Lunar day: A woman should devoutly offer 
+to a BrahmaQa, scents and incense with Katyayanl in view on 
+the ninth lunar day. Listen to its benefit. If her brother, father, 
+son or husband were to enter the battlefield, they shall never 
+become overwhelmed because they are protected by that Dana 
+rite. 
+1 19b-12 1 a. 
+X Lunar day: 0 queen, a woman should offer 
+sugarcane juice on the tenth lunar day to a BrahmᥖQa other 
+than one with deficient limbs, with the Lokapalas (guardians 
+of the worlds) in view. Due to that Dana, she becomes the most
+
+## Page 114
+
+102 
+Skanda Purii:r,.ta 
+endearing one for all the worlds. There is no doubt about this: 
+So said Sailkara. 
+1 2l b-1 23a. 
+XI and XII Lunar days: On the eleventh day, a 
+woman should observe fast and should offer water to a BrahmaQ.a 
+devoted to ViᤁQ.u on the twelfth day with NarayaQ.a in view. She 
+will make people delighted with her touch and talk. She should 
+purify people too. Since the gift of water will be of infinite 
+benefit, it is considered great. 
+1 23b-1 25a. 
+XIII Lunar day: With great devotion, a woman 
+should offer to a BrahmaQ.a oil for foot-massage and oil for the 
+head with Kama (god of love) in view on the thirteenth lunar 
+day. Mter death she may be born in any womb. In all those, 
+she will never be separated from her husband. 
+1 25b-126a. 
+XIV Lunar day: A woman should offer to a 
+BrahmaQ.a on the fourteenth lunar day, with Dharma in view, 
+a utensil and sandals. In regard to her all the worlds are never 
+imperilled. 
+1 26b-127. 
+XV Lunar day: Thus in the course of Sraddha 
+at the close of every fortnight, she shall propitiate excellent 
+BrahmaQ.as. 0 queen, her line of progeny shall always be unbroke:l). 
+Thus the efficacy of the Tirthas and Dana offerings has been 
+recounted to you. 
+[Propitiation of Plants and Herbs:] 
+1 28-1 30. Also, listen to the propitiation of Vanaspatis (plants 
+and herbs) . One will attain heaven by approaching (devoutly) 
+the following trees: Jarilbii, Nirilba, Tinduka, Madhiika, Amra, 
+Amalaka, Salmali, Vata, Pippala, Sami, Bilva, Amalivrkᤁa, Kadali, 
+Patali and other: meritorious trees. 
+Niirada said: 
+1 31-1 34a. 
+If a Vrata is performed in the month of Caitra 
+by a woman, other Vratas are not on a par with even the 
+sixteenth fraction thereof. 
+If it is listened to, 0 lady of good fortune, one will never 
+see misfortune. Just as snow disappears when sunlight falls on 
+it, so also misery and misfortune become dispelled due to this 
+Vrata.
+
+## Page 115
+
+V.iii.26.1 34b-142 
+103 
+Listen now to the procedure of propitiation of Lalita called 
+Madhuka, 1 0 lady of good fortune. Even as it is being re­
+counted it is conducive to ha,ppiness. 
+1 34b-1 39. 
+On the third lunar day of the bright half of 
+Caitra a woman takes holy bath and keeps het mind pure. The 
+image of Sarikara along with that of Uma is to be made out 
+of the trunk of a Madhuka tree. They have to be duly installed 
+by an excellent BrahmaQ.a. With scented flowers, incenᥗe, camphor 
+and saffron, she adores the Lord with due utterance . of the 
+Mantras. The feet are adored uttering the Mantra: "Obeisance 
+to $iva. " The penis is worshipped uttering "Obeisance to 
+Manmatha. " The belly is worshipped by uttering "Obeisance to 
+Kalodara. " The neck is worshipped by uttering "Obeisance to 
+NilakaQ.ᤃha. " The head is worshipped by '!ttering "Obeisance 
+to Sarvatman (one identical with all, one who is the soul of 
+all) . " 
+She then adores Uma. The belly i s worshipped with the 
+utterance "Obeisance to ᤏamodara ('one who has a lean belly') . 
+The neck is worshipped by uttering the Mantra "Obeisance to 
+SukaQ.ᤃha ( 'one with excellent neck'). The head is worshipped 
+by uttering "Obeisance to Saubhagyadayini ·( 'One who grants 
+conjugal felicity' ) . " The Arghya is offered later. 
+[Arghya Mantra:] 
+1 40. 
+"Obeisance to you, 0 Lord of the chiefs of Devas, 0 
+consort of Uma, 0 Lord of the cosmos. 0 Lord, accept this 
+Arghya and destroy all my misfortunes. " 
+1 4 1 . 
+After the offering o f Arghya, the Karaka (waterpot) 
+is offered. It is filled with water and it- is covered with a leaf 
+of Madh uka and is offered along with a gold piece in accor­
+dance with the capacity of the devotee. 
+[ The Mantra for offering the Karaka:] 
+1 42. 
+"0 Lalita, the Karaka filled with water and endowed 
+1 . 
+Vv 1 34-1 50 give details of a different variety of Madhiika Trtiya. Goddess 
+Lalita is identified with Madhiika tree. The Vrata begins on the 3rd day 
+of the bright half of Caitra and is t.o be continued every month and is 
+to be concluded on 3rd day of the bright half of Phalguna.
+
+## Page 116
+
+104 
+Skanda Purii:r.ta 
+with Saubhagya (conjugal felicity) is offered to you. It should 
+increase conjugal felicity etc. " 
+1 43-1 52. 
+Uttering this Mantra, the excellent Karaka is 
+offered to a Brahmal).a. Till the next third lunar day of the 
+bright half of the month the devotee should avoid salt. After 
+praying for the forgiveness of the Goddess and the Lord of 
+Devas the devotee should eat only the Havis at night. This 
+procedure should be adopted every month . The Vrata is con­
+cluded on the third day of the bright half of Phalguna. 
+Salt is to be offered in the month of Vaisakha and Ghee 
+should be offered in the month of Jyeᤁtha. In the month of 
+ᥘa<;lha Niᤁpava (variety of rice) is to be offered. Milk is to be 
+offered in Sraval).a. Mudgas (green gram) are to be offered in 
+the month ofNabhasya (Bhadrapada) . Paddy is offered in .ASvayuja. 
+A vessel of Sarkara (sugar) is offered in Karttika and also a 
+Karaka filled with juice. In the month of Margasirᤁa. Karpasa 
+(cotton) is offered along with a Karaka filled with ghee. Kumkuma 
+(saffron) is offered in the month of Pauᤁa and in the month 
+of Magha a vessel filled with gingelly seeds is offered. In the 
+month of Phalguna a vessel filled with sweetmeats is to be 
+given. What is to be offered in the succeeding Trtiya should 
+be avoided in the course of the current month. The procedure 
+in the case of these later rites is the same as before, 0 beloved 
+one to mind. The same image made of Madhuvrkᤁa i& to be 
+worshipped regularly. Ultimately everything is handed over to 
+the Brahmal).a preceptor. 
+Listen to the rite of Udyapana1 (ritualistic conclusion of a 
+Vrata) . The devotee goes to the Madhuvrkᤁa with all requisites 
+kept ready. The image is fixed in the centre of Madhuka and 
+Sarva stationed there as Uma sharing half of his body is to be 
+worshipped. 
+1 53-1 59. 
+Sarva is to be worshipped with profuse offer-
+ings of the adoration and repeatedly with Kurilktima, and garlands 
+of very tender flowers as well as Kusurilbha flowers and Kesara. 
+Twelve couples should be offered pairs of Kausumbha (red in 
+hue) cloths. resembling the flowers of Atasi for Wl'!aring. Each 
+<. - these pairs should be given pairs of sandals, umbrellas, necklaces, 
+1 . 
+The Udyapana (concluding procedure of the Vrata) i s described i n vv 
+1 50-1 69.
+
+## Page 117
+
+V.iii.26.160-169 
+1 05 
+chains, bangles, rings and beds with splendid sheets covering 
+them. They should be smeared with Kurhkuma and adored 
+with many flowers. They are made to stay in the Madhiikavasaka 
+(grove of Madhiika trees) and offered various jewels and fed 
+duly. After they have taken food, they are to be made to rest 
+on the beds and forgiveness is requested for since everything 
+is rooted in the Guru. The Guru should be known as Mahesvara. 
+If the Guru is pleased, the entire world consisting of Suras and 
+Asuras is pleased. If one wishes for one's welfare, one should 
+offer unto the Guru whatever one likes the most in the world, 
+whatever endearing thing one has in the house. These things 
+are to be offered by the rich, well-to-do people. What should 
+be given by others is as mentioned below: 
+1 60-1 69. 
+Others should worship two> couples duly, the 
+first couple being any and the second that of Guru and his 
+wife. In adoring them, one should avoid Vittasiithya (over-scru­
+pulousness in the expenditure) . Then forgiveness is craved 
+from the Goddess, the Lord, the BrahmaQa and the Guru: "0 
+Goddess Lalita, just as you are never separated from Sarhbhu, 
+so also grant me non-separation from my husband and sons. " 
+It is by performing the observance of Madhiikatrtiya in 
+accordance with this procedure that IndraQi attained the sta­
+tus of the wife of Indra and also an excellent son. She attained 
+conjugal felicity and good fortune in all the worlds and also 
+excellent happiness with all prosperity. 
+A virgin who performs this Vrata in accordance with this 
+procedure attains an excellent husband like IndraQi who got 
+Indra. 
+An unfortunate one attains good fortune; a fortunate one 
+begets a son . . A lady with a son gains everlasting happiness. She 
+never sees grief ·anywhere. 
+Misfortune accumulated in the course of many births cer­
+tainly perishes. The lady after death goes to heaven and re­
+joices along with Uma. 
+Mter enjoying the worldly pleasures for more than hun­
+dreds of crores of years she is born into the world again when 
+she gets a king as her husband. 
+The lady of good fortune then becomes richly endowed with 
+beauty and bears a son destined to become a king. 
+Thus the Vrata that is the most excellent one of all Vr;at?.s
+
+## Page 118
+
+1 06 
+Skanda Pura:T_ta 
+has been narrated to you completely. 0 lady of good fortune, 
+whatever desire you have within your heart do ask for it. 
+CHAPTER TWENTYSEVEN 
+Creating Agitation in Tripura 
+Sri Miirkar.uf,eya said: 
+1-6. 
+On hearing the words of Narada, the queen said: "Be 
+pleased, 0 eminent Brahmal).a. Accept whatever Danas you 
+wish. I shall offer you gold, jewels as well as different kinds of 
+garments. Other rare and valuable things too I shall offer. to 
+you. " 
+O n hearing the words of the queen, Narada spoke thus: "0 
+fair lady, let it be given to others, to the Brahmal).as who lack 
+_ means of sustenance. We are richly endowed with everything 
+acceptable and accessible always through devotio_n." 
+On being told thus the queen invited poor Brahmal).as who 
+were masfers of the Vedas and Vedari.gas and began distribut­
+ing gifts as would be conducive to Saubhagya (conjugal bliss 
+and fortune) . "May Hari and Sari.kara be always pleased with 
+me due to this Dana rite that increases Saubhiigya (conjugal 
+felicity) as instructed by Narada. " 
+Thereafter the queen said · to the great sage Narada: 
+The Queen said: 
+7-1 3. Dana has been made as instructed by you. It is done 
+with my husband in view. 0 excellent Brahmal).a, in every birth 
+of mine may Bal).a alone be my husband. 0 dear excellent 
+Brahmal).a, I don't have any other deity excepting Bal).a. On 
+the strength of this truth, may my husband live for a hundred 
+years. Women need not perform any other holy rite as the 
+husband alone is their deity. Still at your instance the Dana has 
+been duly offered. 0 honourable Sir, now let us do our duty. 
+I to my husband, 0 Brahmal).a Sage, go now. May blessing be 
+granted (to me) . 
+* 
+* 
+*
+
+## Page 119
+
+V.iii.28. 1-12 
+107 
+Then, 0 excellent king, Narada took leave of her saying "So 
+be it," captivated the hearts of all and vanished from there 
+with his mind dwelling on another matter. The BriihmaQ.a was 
+duly adored by sky-walkers. 
+Then, 0 descendant of Bharata, all of them (the wives of 
+BiiQ.a) turned their minds towards their husband. Deluded and 
+enchanted by Niirada all of them became pallid and devoid of 
+lustre. 
+CHAPTER TWENTYEIGHT 
+Destruction of Tripura: 
+Glorification of Jviilesvara and Ama1'f!svara 1irthas 
+Miirka'P-4-eya said: 
+1 . 
+In the meantime Rudra occupied the banks of Narmada. 
+While he was sporting in the company of Uma, Narada arrived 
+there. 
+2. 
+Mter bowing down to the Lord of the chiefs of Devas, 
+Sankara along with Umii, he submitted to the Lord the details 
+of what happened then at Tripura: 
+3-4. "At the behest of my Lord (you) , I went to the place 
+where BiiQ.a's palace was situated. Mter meeting BiiQ.a as per 
+formalities, I went to the great Antal).pura. There I saw thou­
+sands of the queens of BiiQ.a, the intelligent. one. Then I stirred 
+up that city in a befitting manner and in the way it had been 
+desired and have now returned. " 
+5. 
+On hearing the words of Narada, the Lord gave his 
+approval saying, "Well done! Well done! " Then the Lord of 
+Devas pondered over the whirling of Tripura. 
+6-7. He thought: 'Tripura moves like the discy.s whirled 
+from his hand by ViᤁQ.U, the powerful one. It has great velocity 
+and it is extensive. It has been preserved by my splendour. 
+BiiQ.a is reputed all over the world as one devoted to me. Word 
+has been already given by me particularly to the BrahmaQ.as. '· 
+8-1 2. Thus Mahe§vara, the Lord of Devas, the L.;>rd of the 
+people, thought for a long time regarding the successful completion
+
+## Page 120
+
+1 08 
+Skanda Purii1Ja 
+of the task. 1 The Three-eyed Lord meditated upon Mandara as 
+the bow, the earth as the bow-string, the eternal Lord ViᤄQu 
+as an arrow with the blazing Fire-god with faces (mouths) on 
+all sides as the sharp arrowhead, the excellent-feathered GarU<;Ia 
+in the centre of the two feathers at the tail-end. Then he made 
+the Earth as the chariot and the two Asvins as the yoke. (He 
+fixed) god Indra as axel, Kubera (the Lord of wealth) at the 
+front. Yama (was posted) at the right side, while terrible Kala 
+on the left; the Sun and the Moon were the wheels and Gandharvas 
+spokes. 
+1 3-20. 
+SurajyeHha (Brahma) was made the charioteer; the 
+Vedas were made the excellent horses. The Vedailgas were 
+turned into the iron bits in the mouth and the Chandas-s 
+(Metres) were made the reins. The orally uttered Omkara was 
+made the whip by Mahdvara. Dhata was placed at the head 
+and Vidhata behind. The Marutas (Winds) gathered from all 
+the quarters were placed in the Urdhva Yantra (the overhead 
+mechanical device) . All the following ones were fixed to all the 
+joints: great Serpents, Pisacas, Siddhas, Vidyadharas, GaQas and 
+groups of Bhiitas. Meru was stationed in the centre of the pole; 
+the great mountain (Mahagiri) was beneath the pole. The terrible 
+serpents were stationed in the mechanical device; VaruQa and 
+Nairrta in the Samya (part of the chariot) . Gayatri and Savitri 
+were stationed at the place where the rein was fastened. All 
+round in the flagstaff of the chariot were placed Satya (truth) , 
+Sauca (cleanliness) , Dama (control of the senses) and Rakᤄa 
+(protection) . After making the chariot (embellished with) all 
+the Devas, Mahdvara, the Lord of Devas, stood ready (for 
+battle) wearing the coat of mail and holding the sword with 
+the fingers having protectors made of leather of Godha (mountain 
+lizard) . After adjusting his garments and binding the matted 
+tresses of hair, he got his divine bow ready and fitted his excellent 
+chariot. Stationed in the centre of the chariot, 0 Yudhiᤄthira, 
+the Lord shone brilliantly. 
+21-34. 
+With the twang of the bow, he made the three 
+worlds quake. After making the Vaisakha-Sthana (? special warrior 
+posture) , Hara remained steady there. After surveying for a 
+1 . 
+The description of the Chariot .and other preparations against Tripura 
+are reminiscent of similar preparations given in Mbh, Kan:ta, Chs. 33-34. 
+Here the enemy is BaQ.a, a devotee of SiVa.
+
+## Page 121
+
+V.iii.28.35-44 
+1 09 
+long time, the Lord became angry with the eyes turning red. 
+He then controlled himself and meditated on the great Man­
+tra. With a desire to destroy the set of three cities, he released 
+(shot) the arrow when all the three of them stood together in 
+the space. For the period of a split half of a moment, he saw 
+the group of the three cities and smote them with an arrow 
+having three joints and three blades. 
+In regard to the set of the three cities, 0 most excellent one 
+among the descendants of Bharata, all the people became highly 
+frightened. The terrible ones in the form of Kala began to 
+laugh boisterously for the destruction of all Asuras. The men 
+experienced pain and distress. They remained motionless with 
+eyes not at all winking as though they •vere drawn in a picture. 
+The Devas in their abodes prattled and laughed loudly. They 
+(Asuras?) saw themselves adorned in red garments in dreams. 
+With the red garlands round their heads, they fell into muddy 
+whirlpools. They saw themselves with oil smeared on the heads. 
+0 excellent king, they saw themselves riding in the vehicles 
+drawn by donkeys. The great Samvartaka wind, resembling the 
+final destructi·on of the Yugas, uprooted many of the houses 
+and groups of trees. There were earthquakes with loud thun­
+der-like reports. Thousands of meteors fell down. The Lord 
+showered blood mixed with · much rough gravel. In the sacri­
+ficial fire-pits of the Brahmal).as, the fire, though properly oblated, 
+burned with smoke and sparks. The elephants were rid of the 
+stage of rut. The horses became deprived of their Sattva ( in­
+trinsic strength) . Even when not played upon, there came sound 
+from thousands of instruments. Though not shaken, the flag­
+staffs and various kinds of umbrellas fell down. The trees and 
+the leaves began to burn. Everything was upset and there was 
+much of hue and cry. 
+35-44. 
+The violent gust of wind demolished the gardens 
+of various kinds. Induced by it, all the flames and sparks blazed. 
+The trees, hedges, creepers and houses all round were envel­
+oped by the fire that blazed in all the directions. Everything 
+that burned was seen blazing with the lustre of a Kimsuka leaf. 
+On account of the smoke, it was impossible to go from house 
+to house. All the people in Tripura began, to wail and lament 
+on being completely burned by the fire of the anger of Hara. 
+The whole city of Tripura enkindled in all the quarters, began
+
+## Page 122
+
+1 10 
+Skanda Puriir.ta 
+to burn. The tops and peaks were shattered in thousands and 
+they fell down. The smoke-enveloped fire was seen blazing all 
+round. It spread from quarter to quarter, dancing as it were. 
+It rushed through forests, temples, all the houses and turrets. 
+Urged by Kala himself, the fire blazed everywhere in the city. 
+Burning furiously as though enkindled by the anger of Hara, 
+it burned everything in the worlds. The whole region around 
+the three cities consisting of children and old people burnt 
+along with the vehicles, forests and doorways of the houses. 
+Some were engaged in taking food. Others were engaged in 
+drinking liquor. The courtezans were engaged in dancing and 
+singing. Distressed by the flames of fire, they embraced one 
+another. 0 excellent king, all those who were being burnt 
+became senseless. 
+45-60a. 
+Other Danavas there were burned and deluded by 
+the fire. With their faces overwhelmed with the smoke, they 
+could not go elsewhere. The lotus ponds abounding in golden 
+lotuses and stirred up by the swans and Karal).c,iava birds and 
+_the different kinds of tanks and wells blazed there. The parks 
+in the cities and the lakes were seen burnt by fire. They were 
+covered by faded lotuses. The extensive buildings and palaces 
+over a range of eight Yojanas, resembling huge peaks of mountains, 
+originally rendered splendid by jewels, were seen now com­
+pletely burnt down and shattered on the ground. When the 
+men, women, children and old people were being burnt every­
+where, the ruthless fire went on burning. There was loud 
+lamentation and wailing. 0 excellent king, some woman was 
+sleeping soundly. Another was in intoxicated state. One lady 
+of distinction had been sporting about and lying on her large 
+bed. A woman of large eyes bedecᤰed in a number of neck­
+laces, who had been asleep, became distressed due to the smoke. 
+The wretᤱhed woman too fell into the fire. A certain woman 
+fond of her son had been closely embracing her S<?n. She too 
+was burnt by the blazing fire in Tripura. A certain golden­
+complexioned lady bedecked in sapphire saw her husband fallen. 
+She too fell over him. A certain lady of solar lustre was lying 
+asleep on her lover. When distressed by fire, 0 king, she embraced 
+his neck still more closely. Another lady of cloud-like complex­
+ion had a loose girdle of gold and white upper cloth. Shᤲ fell 
+down on the ground. A certain lady had the lustre of the moon 
+and a Kunda flower. She was adorned in sapphires. She was
+
+## Page 123
+
+V.iii.28.60b-79a 
+l l l 
+found praying to the fire with palms joined i n reverence and 
+kept over her head. While the clothes of a certain woman were 
+burning the tresses of hair of another woman were seen blaz­
+ing, 0 descendant of Bharata. All were frightened by even 
+golden vessels, that resembled the blazing fire. A certain ex­
+cellent lady distressed by too much of misery, lamented like a 
+female osprey on seeing the husband reduced to ashes. She 
+fell down on his head and embraced him closely. Another 
+woman saw her husband reduced to ashes in her own house. 
+She was distressed very much and lamented like a female osprey. 
+A certain woman saw her mother and father senseless. She 
+trembled and fell down on the ground in utter distress like an 
+exhausted mare. A certain excellent woman on being burned 
+ran about here and there. When a woman turned her face she 
+could not see her son who h.ad been in her lap. 
+60b-64a. 
+Kurilbhila's house was burnt and it fell on the 
+ground. So also the ruthless fire burnt the houses of Kiiᤄmar:u;la, 
+Dhiimrᤳ. Kuhaka, Baka, Viriipanayana, Viriipakᤄa, Surilbha, 
+:Pirilbha, Raudra, the excellent Asura Prahlada, DaQ.«;lapaQ.i, 
+VipaQ.i, Sirilhavaktra, Dundubha, Sarilhrada, J)iQ.«;ii, MuQ.«;ii, 
+Kravyada, Vyaghravaktra, BaQ.a's brother and BaQ.a. So also the 
+houses of other Danavas, arrogant due to their strength. 
+64b-70. In every house the women who were being burnt 
+began to lament uttering piteous words. They found them­
+selves without support. They approached Siva: "0 Pavaka, if 
+you have any enmity towards the menfolk of the demon, what 
+offence has been committed by the women who are like a 
+cuckoo in the cage of domesticity. You are not ruthless. You 
+are not too wicked. What anger do you cherish towards the 
+womenfolk? Have you not heard this in the world that women 
+should not be killed at any cost? But in your case you have the 
+additional power in burning when you are induced by the 
+wind. Mercy has not been shown by you. You do not have any 
+chivalry towards women. Even barbarians (Mlecchas) show mercy 
+on hearing the words of women. But a barbarian of barbarians 
+is insensitive. He can not be restrained. " Even as the women 
+were lamenting thus, there, 0 descendant of Bharata, the fire 
+continued to blaze with profuse flames and sparks. On seeing 
+all these, BaQ.a who also felt scorched said: 
+71-79a. 
+"I have been a sinful soul in having slighted Hara
+
+## Page 124
+
+1 1 2 
+Skanda Purii:IJa 
+and so I am doomed. Sinful and foolish that I have been, my 
+(future) worlds have been destroyed. 
+Cows and Brahmat:tas in this world as well as hereafter have 
+been slain. Foodstuffs and beverages have been destroyed, so 
+also Mathas (religious institutions) , parks and penance-groves. 
+The hermitages of the sages, the parks of deities, the abodes 
+of Gat:tas etc. have been demolished. Due to that sin my pen­
+ance and power have been upset. What shall I do with my 
+.wealth? With my kirigdom? With my Antal).pura? I had been of 
+deluded intellect. I would rather seek refuge in the feet of 
+Sail.kara. Neither mother nor father, neither kinsmen nor othᤴr 
+people excepting Mahe§ana can be the dispeller of· the great­
+est distress. The fruit of the sin committed by oneself is to be 
+tasted by oneself. I shall also get burned along with all those 
+good men . " Mter saying thus he kept the Sivalinga on the 
+head and hurriedly went out of the house. He was enveloped 
+by fire. Utterly distressed, with all the limbs sweating profusely, 
+faltering frequently he began to eulogize Hara with words choked 
+and sought refuge in him. 
+-
+79b-82. "0 Sankara, if I am to be killed, I have already 
+been completely burned by the fire of your anger. 0 Mahadeva, 
+let not this Linga be destroyed by you with your favour, 0 
+Great Lord. I have adored, 0 most excellent one among Suras, 
+I have meditated with devotion, 0 Lord. Hence it behoves you 
+to guard this which is dearer to _me than my life. If I am to 
+be blessed by you, 0 most excellent one among Suras, or if I 
+am to be killed, 0 Mahadeva, let my devotion to you be con­
+stant in every birth, whether among animals, insects or birds, 
+in any of the brutish creatures as a result of my own Karma; 
+let my devotion to you be firm and unshakeable." 
+83. 
+Mter saying thus the highly
+. 
+esteemed Bat:ta, the most 
+excellent ᤵme among devout persons, propitiated the Lord of 
+the chiefs of Devas by means of a hymn as follows: 
+[Eulogy of Siva:] 
+Ba7Ja said: 
+84-1 00. 
+0 Siva, 0 Sankara, obeisance to the annihilator of 
+everything. Obeisance to the one that dispels the distress of 
+those who are afraid of the worldly existence. Obeisance, 0 
+Lord, 0 destroyer of the body of the Flower-weaponed One
+
+## Page 125
+
+V.iii.28.84-l 00 
+1 1 3 
+(Manmatha) , the person who likes to please young women. Be 
+victorious, 0 Lord of Parvati; be victorious, 0 essence of the 
+ultimate truth. 0 Lord who have made a necklace of terrible 
+serpents, be victorious, 0 Lord who have applied pure ashes 
+on his limbs. Be victorious, 0 root-cause of all Mantras, the 
+sole deserving person in the universe. Be victorious, 0 Lord 
+with clusters of matted hairs rendered tawny by the venomous 
+serpents. Be victorious, 0 Lord whose bow Pinaka is held (ready) 
+by Bhairava. Be victorious, 0 odd-eyed one, 0 Lord without 
+attachment. Be victorious, 0 Sarikara wearing the waves of 
+Ganga. Be victorious, 0 Lord with terrible forms, with the 
+Khatvariga in the hand, 0 moon-crested one. Be victorious, 0 
+most praise-wortJ-ly one in all the worlds. Be victorious, 0 Lord 
+of the most excellent ones among ᤶuras, 0 essence of the 
+world of Suras. Be victorious, 0 Sarva, who have burnt down 
+all essential things. Be victorious, 0 Lord worthy of being glorified, 
+the purest one of all the worlds. Be victorious, 0 Bull-emblemed 
+One, with conducts '?f diverse kinds. Be victorious, 0 Lord 
+with well-arranged garland of human skeletons, 0 Lord, 0 
+Kala unto the skeleton of the body of Aghasura. Be victorious, 
+0 blue-throated one, 0 Lord with the gait of an excellent bull. 
+Be victorious, 0 suppressor of the sins of all the worlds. Be 
+victorious, 0 Lord whose feet have been bowed to by Siddhas, 
+Suras and Asuras. Be victorious, 0 Rudra who take one across 
+the terrible ocean of worldly existence. Be victorious, 0 Girisa 
+worthy of being honoured by the Lord of Suras. Be victorious, 
+0 Lord of subtle form, 0 Lord worthy of being pondered over. 
+Be victorious, 0 Lord by whom the Tripura has been burned, 
+0 intrinsic strength of the universe. Be victorious, 0 truth of 
+all scriptures. Be victorious, 0 Lord difficult to be compre­
+hended. 0 redeemer from worldly existence, 0 redeemer of 
+devotees from the terrible, big ocean of worldly existence full 
+of the sins of Kali. Be victorious, 0 Lord of the groups of 
+Suras, Asuras and Devas. Obeisance, 0 Lord with faces of horse, 
+monkey, lion and lordly elephant. 0 Lord of great shortness, 
+stoutness and great length! It is impossible for Amaras to perceive 
+you, 0 Nira·iijana (one devoid of afflicting attachment) . I bow 
+down to your feet. Be victorious, 0 Lord a,:companied by Arilba 
+(Mother goddess) , 0 Lord Hara having the splendour of ex­
+cellent eyes. What is it that one 'Vho reaches the greatest height
+
+## Page 126
+
+1 1 4 
+Skanda Pura7Ja 
+does not destroy by not attaining you? Then, even penance will 
+be one that disturbs mostly; though great, it is very terrible. 
+Neither sons nor kinsmen, neither wives nor all the friends of 
+the world will approach one in difficulties, one who moves 
+about alone. Whatever has been done by one, auspicious or 
+inauspicious, that alone will accompany him like a caravan 
+when he goes ahead. There is no fear unto a person who 
+moves about without much wealth about him. A rich man will 
+not be rid of fear. Hence I shall forsake wealth. Greedy per­
+sons commit sins. Even after hearing all about righteousness, 
+after having comprehended it, men are not pure in every detail. 
+You are ViᤄQU, the Lord of the universe. You are the eternal 
+Lord in the form of Brahma, 0 Lord of the chiefs of Devas. 
+You are Indraᤷ 0 Lord of Suras. Obeisance to you. You are the. 
+Earth; you are VaruQa; you are the wind; you are the Fire-god; 
+you are the initiation; you are the householder performing 
+the sacrifice; you are the firmament; you are Soma (the Moon, 
+the Soma juice) ; you are the Sun; you are the Lord of wealth; 
+you are Varna; you are Guru Uupiter) ; the entire universe is 
+pervaded by you in the same manner as the three worlds are 
+enveloped by the refulgent splendour of the Sun. 
+101. 
+On hearing this hymn composed by B;iQa, Lord Mahe5vara 
+eschewed his anger. Delighted within himself he spoke these 
+· words: 
+lsvara said: 
+1 02-103. From now onwards, 0 Danava, you need not be 
+afraid. Stay in your golden abode or by my side along with your 
+sons, grandsons, kinsmen and wife. From now onwards, 0 dear 
+one, you are one who cannot be killed by any enemy. 
+Marka7Jt!eya said: 
+104-105a. 
+0 descendant of Bharata, again a boon was 
+granted by the Lord of Devas: "Honoured and adored by Suras 
+and Asuras, do reside happily at your pleasure in heaven, mortal 
+world and the nether regions, without perishing and without 
+changing. " 
+105b-1 12. 
+Thereafter, Rudra restrained the fire. His third 
+Pura was saved by Lord Sarilbhu. The other two engulfed by
+
+## Page 127
+
+V.iii.28.1 1 3-121 
+1 15 
+the clusters of flames fell down on the ground. Rising half 
+above the flames reached heaven (?) . The sound Hii-Hii uttered 
+by the groups of sages was great and loud. So also the lamen­
+tations of the gods of great esteem, Siddhas, Vidyadharas and 
+others. One piece fell on Srisaila. 0 king, the second one fell 
+on the mountain Amarakar).taka. Since it fell down blazing it 
+is remembered as Jvaldvara1 • When the Tripura was burnt 
+down, 0 king, when the excellent piece fell down, Lord Rudra 
+stayed there as the person restraining the clusters of flames for 
+the sake of protecting the sages continuing lamentations of 
+Hii-Hii. Mahdana stood there accompanied by Uma and Vrᤄabha, 
+his own form. He who at least remembers mentally Amarakal).ᤸka 
+with devotion, shall undoubtedly attain more merit than that 
+of Candrayal).a. 
+1 1 3-1 20. 
+Since, 0 most excellent one among the de-
+scendants of Bharata, the excellent mountain is highly meri­
+torious, it shall always be destructive of all sins. It is overgrown 
+with various kinds of trees and creepers. It is rendered splen­
+did by different kinds of flowers. Various kinds of hedges and 
+creepers abound therein. It is overspread by various creepers. 
+It is infested by lions and tigers. It is adorned by herds of deer. 
+It is always joyously filled with the roaring sound of the beasts 
+of prey. There on that mountain Sarikara, the Lord of the 
+chiefs of Devas, is served by thousands of gods, the chiefs of 
+whom are Brahma, Indra and ViᤄI).U. He who falls off the precipices 
+of this mountain Amarakal).ᤃaka, sports about successively in all 
+the fourteen worlds, 0 king, i.e. the worlds2 of Indra, Vahni, 
+Kubera, Vayu, Yama, Niqti, Varul).a, Soma, Siirya, Brahma (whose 
+region is devoid of pain) , ViᤄI).u, Umarudra and thereafter that 
+of Isvara. The greatest world is that of Sadasiva. It is quiescent, 
+subtle; the luminosity that is beyond all sense-organs. An in­
+telligent devotee gets merged into it undoubtedly in accor­
+dance with this procedure. 
+Yudhi6!hir(l said: 
+1 2 1 . 
+0 excellent sage, is there any special procedure envisaged 
+I . 
+The Tirtha Jvale5vara is etyhJologically connected with the burning o f the 
+second city out of Tripuras. 
+2. 
+A list of 1 4 Bhuvanas.
+
+## Page 128
+
+1 16 
+Skanda Purii:fJ,a 
+in regard to falling down the precipice? 0 great sage, I have 
+a great doubt in this regard; do tell me everything. 
+Sri Miirka1J4eya said: 
+1 22-1 32. 
+Listen, 0 son of Pai).QU, I shall tell you that 
+procedure. Mter performing a rite at the outset, a devotee 
+shall fall down the precipice. He shall at first perform three 
+Krcchra rites after performing the Japa a million times. He 
+should take in only vegetables (greens) and barley water. He 
+should take ablutions three times (a day) and remain clean. 
+He should worship Isa, the three-eyed Lord of Devas, three 
+times. 0 great king, the number of Homas shall be one-tenth 
+thereof(?) He should perform the Japa of the Lord a hundred 
+thousand times and worship with scents and garlands. At night 
+he shall in dream see himself seated in an aerial chariot. Thereafter 
+he should hurl himself. One who hurls himself in accordance 
+with this procedure .shall attain the heavenly world and sport 
+about along with Devas. Mter enjoying soul-stirring pleasures 
+for thirty crore thirty thousand years, he shall return to . the 
+earth and enjoy the whole earth under his single· umbrella. He 
+will be adored by the people. Freed from ailments and grief 
+he will live for a hundred years. That Tirtha is well-known in 
+all the three worlds as Jvaleiivara. 0 son of Kunti, the river Jvala 
+created by Siva flows there. Mter extinguishing the fire in the 
+city of Bal).a, it joins Reva, 0 great king. The devotee should 
+take his holy batli. there in accordance with the injunctions. 
+Duly uttering the Mantras he shall propitiate the Pitrs and 
+deities with water mixed with gingelly seeds and offerings of 
+balls of rice. He shall attain the benefit of Paul).<;iarika sacri­
+fice. 0 king, he who performs Anasaka ( 'no destruction', ' not 
+taking food') in that Tirtha is rid of all sins. He goes to Rudraloka. 
+1 33-1 42. 
+He shall become the Lord of Amaras (Devas) 
+served by hundr᤹ds of Devas and attended upon by groups of 
+sages. So he shall be excessively meritorious. The Amarakal).taka 
+. Tirtha _extending to a Yojana all round is very meritorious. It 
+is excellent and meritorio,us, because there are crores of Rudras. 
+If a devotee circumambulates that lofty mountain, it is un­
+doubtedly ,as good as though the entire earth has been 
+circumambulated. The three kinds of sins incurred through
+
+## Page 129
+
+V.iii.29.1-14 
+1 1 7 
+mind, words and deeds become destroyed: So said Sarikara. 
+0 king, by the side of Amare8vara is the Tirtha Sakresvara. 
+Formerly it was installed by Sakra after performing penance. 
+The auspicious Tirtha name"d Kusavarta has been created bY. 
+Brahma. It is well known as BrahmakuJ:l<;ia. Beyond that is 
+Harhsatirtha. So also Arhbariᤄa Tirtha and Mahakalesvara. To 
+the east of Kaveri is the Tirtha Matrkesvara. These are on the 
+southern bank of Reva, 0 great scion of the family of Bharata. 
+They dispel sins if they are resorted to, bathed in or if the 
+Dana rite is performed. Siva is famous as Bhairava on Bhrguturiga, 
+0 great king. To the south thereof is the Tirtha Capalesvara. 
+These are situated on the northern bank of Reva. They dispel 
+misery. By worshipping them and bowing to them, one shall 
+attain the benefit of the pilgrimage. They cause obstacles to 
+men, if they are not visited or adored. 
+CHAPTER TWENTYNINE 
+The Greatness of the Confluence of Kiiveri and Narmada 
+YudhiElhira said: 
+1-5. 
+0 excellent one, KaverP is well known in the three 
+worlds. 0 MarkaJ:l<;ia, I wish to listen to her .1'eCll greatness. 
+What is the mode of visiting that river? 0 Lord, what is the 
+benefit of the touch thereof? 0 Sage, what benefit accrues 
+from ablution, Japa,· Dana and Upavasa (observance of fast 
+there at the confluence of Kaveri) ? Do narrate, 0 highly es­
+teemed one. I have heard that any holy rite heard, seen, narrated, 
+performed or approved of does sanctify one. It is the Vedic 
+statement, 0 sage, that as in the case of Dharma, so in that 
+of heaven and hell too. 
+Sri Miirka7J4eya said: 
+6-1 4. Excellent! Excellent! 0 highly esteemed one, since 
+1 . . 
+This is a small tributary of Narmada and not the famous river of Karnatak. 
+The attainment of the Kingship of Yak¿as is attributed to the sacred 
+efficacy of the confluence of Kaveri and Narmada.
+
+## Page 130
+
+118 
+Skanda Pura1YJ 
+you have asked me, listen with concentration to the excellent 
+benefit of Kaveri. There is a Yalqa of great intrinsic strength, 
+well-known by the name Kubera. By the power of the Tirtha, 
+0 king, he became the king of Yak¢as. 
+Hence listen to it along with the proper procedure (of bath 
+etc.) with great devotion, 0 king of great esteem. He attained 
+Siddhi through (the merit accrued from bath in) the confluence 
+of Kaveri. 
+In the confluence, well-known in the world, of Kaveri and 
+Narmada, Kubera who was really valourous, took his holy bath 
+and became cleari. He · dufy observed all the restraints (and 
+instructions) based on the injunctions of the sacred scriptures, 
+0 excellent one among men. He propitiated the eternal Mahadeva 
+with single'-minded concentration. He spent a month taking 
+food orice a day. Then he spent some time taking food on the 
+sixth day only? Then he spent some time, 0 excellent·king, by 
+observing fast for a fortnight. The sensible one, thereafter, 
+spent some time by taking· in only roots, greens and fruits. 
+Then for some time he stayed in the Tirtha with moss for his 
+food. He spent some time with the observancԑ of expiations 
+called Paraka and Krcchra, 0 honoured one. Then (he spent) 
+some time with the observance of CandrayaQa and then some 
+time with wind and water as food. Thus, 0 excellent one among 
+men, eschewing lust and attachment, he stayed there for more 
+than a hundred years torturing his body .and making it ema­
+ciated. 
+1 5-25. 
+At the end of a hundred years, Mahe5vara, the Lord 
+of Devas, became pleased with his great devotion and spoke to 
+him smilingly: "0 Yalqa of great strength and excellent holy 
+rites, choose a .boon. I have become pleased with your devo­
+tion. I sԒall grant you what you wish. " 
+The YaRa said: 
+If you are pleased, : 0 Lord of Devas along with Uma, 0 
+Saiikara, let me be the Lord of all the Yak¢as from to-day 
+without an erid and free from any change and reduction, with 
+devotion unto you duly kept before me. 0 Paramesvara, grant 
+unto me the inclination for righteous · actions.
+
+## Page 131
+
+V.iii.29.26-37 
+1 19 
+i.fvara said: 
+What has been requested for by you is the fruit of your own 
+righteousness? The same is granted. 
+· 
+Mter saying this Hara vanished. 
+He too had his holy ablution in accordance wit_h the injunc­
+tions. He propitiated the Pitrs and deities. Taking leave of the 
+Tirtha, he went Ԋorne with his objectS achieved. Honoured by 
+Yak¢as, he had his coronation in accordance with the injunc­
+tions. He ruled over the extensive excellent kingdom. 
+0 sinless one, there many other Suras, Siddhas, Yak¢as, 
+Gandharvas, Kinnaras, groups of celestial damsels .and sages 
+have attained spiritual perfection. Hence , they know that the 
+confluence of K.averi is ·destructive of a.ll slgs. It is the gateway 
+unto all heavenly worlds, 0 Yudhi¢Ɔhira. If people take their 
+holy bath in the Kaveri confluence and offer libations with 
+gingel!y seeds, they are blessed. They are noble-souled and 
+they have led their life excellently, 0 dear one. Ten earlier 
+and ten later generations on the mother's side as well as those 
+on the father's side of the devotee are redeemed by him from 
+the hellish ocean. 
+26-37. 
+Hence, a man must make every effort to have his 
+holy ablution there. He should worship Lord Isvara if he seeks 
+the eternal state (i.e. Mok¢a) . 0 king, Snana, Daria and Arcana 
+(adoration) performed devoutly by men (there) have · more 
+benefit than a horse-sacrifice, 0 excellent one among men. 
+Everlasting heavenly pleasure is obtained through Homa; the 
+life-span gets increased due to ]apa; one attains the eternal 
+region characterised by Sivakala(?) through meditation. 
+0 Lord of men, one who enters fire in that Tirtha, shall stay 
+in Agniloka until the annihilation of all living beings. 
+0 excellent one among men, listen to the. meritorious benefit 
+of that person who observes the rite of fasting in the Tirtha. 
+He will rejoice with deities in an aerial chariot resembling the 
+sun and fully occupied by Gandharvas and Apsaras. He will be 
+fanned by excellent women. 
+. 
+For sixty thousand years and sixty centuries he sports about 
+stationed in Rudraloka. At the end he comes to the earth born . 
+as a king enjoying all pleasures and engaged in munificent 
+gifts. Freed from anguish and grief, he shall live fot a hundred 
+years.
+
+## Page 132
+
+120 
+Skanda Purii:r;a 
+0 king, River Kaveri has all these good qualities. She is well­
+known in all the three worlds at the confluence of Narmada. 
+Those who have controlled their speech, body and mind and 
+those who are engaged in the meditation on one worthy of 
+being meditated upon, at the confluence of Kaveri, 0 dear 
+one, shall also attain salvation. 
+Listen, 0 excellent king, I shall recount another miraculous 
+thing. What other (river) is on a par with the river in all the 
+three worlds? 
+There is no doubt about this that ·those who have reached 
+Narmada, those who circumambulate her, and those who drink 
+her water ·are meritorious. 
+38-43. 
+For another fifteen births there will not be any 
+break in the line of their succession. Their sin gets dissolved 
+like snow at the time of sunrise. A man who takes his holy . 
+ablution in Kaveri obtains the benefit usually attained at the 
+confluence of Ganga and Yamuna. It is remembered as eight 
+times more beneficial when Tuesday coincides with the four­
+teenth lunar day, during Vyatipata, during the transit of the 
+Sun and when Rahu and the Moon come in conjunction (lu­
+nar eclipse) . 
+If at the ᤺
+onfluence of Ganga and Yamuna the merit of 
+ablution is equal to the weight of Yavas (barley grains) eighty 
+in number, at the confluence of Kaveri and Narmada th᤻ same 
+is remembered as eight times more. Ganga is honoured by 
+sixty thousand ᤐetrapalas (Guardians of holy shrines) . Other 
+Tirthas are guarded by half that number. There is no doubt 
+about it. The confluences of the rivers mentioned in Amardvara 
+are guarded by eighty thousand ᤐetrapalas. 
+44-48. 
+So also to the south of Amardvara, two Lingas guard 
+the Tirtha, one being Linga Capaleiivara and the second 
+Ca:t:t<;lahasta. They were formerly installed by Siva as the guard­
+ians of Kaveri etc. The divine Narmada existing over many 
+Kalpas, is guarded by a hundred thousand (ᤐ_etrapalas) . The 
+mountain is guarded by a hundred thousand Orilkaras, the 
+persons engaged ·by Iiia and equipped with sixty bows. A sin 
+committed in other places perishes in this holy spot. A sin 
+committed in this Tirtha becomes fixed forever. 
+Thus 0 dear one, Kaveri, the most excellent one among 
+rivers, has been recounted to you. She has originated from 
+Rudra's body. Hence this most excellent river is meritorious.
+
+## Page 133
+
+V.iii.30.1-10 
+CHAPTER THIRTY 
+The Glory of Diiru 1irtha 
+Sri Miirkar.uf,eya said: 
+121 
+1-5. 
+On the northern bank of Narmada, there is the ex­
+cellent Darutirtha where an excellent BrahmaQ.a performed 
+penance, 0 highly esteemed one, and became a Siddha. 
+Yudhi$!hira said: 
+Who is this most excellent BrahmaQ.a Daruka who became 
+a Siddha there, 0 great sage? Whose son was he? It behoves 
+you to recount this to . me. 
+Sri Miirka1J,f/,eya said: 
+In the great Bhargava family was born a highly fortunate 
+BrahmaQ.a named Daru as the son of the intelligent Devasarman. 
+He was a master of the Vedas and Vedailgas. He became a 
+celibate student, a householder and a forest-dwelling hermit 
+consecutively. (Ultimately) as a world-renouncing ascetic he 
+performed severe austerities in accordance with the injunc­
+tions in regard to the sacred rites of Sannyasa. 0 YudhiHhira, 
+he meditated on Mahadeva, abstaining from food intake. He 
+stayed at that Tirtha till the end of his life. 
+6-1 0. That Tlrtha became well-known in all the three worlds 
+after his name. One should take the holy bath there, in accor­
+dance with the injunctions and adore the Pitrs and deities. He 
+should be truthful in speech and subdue anger. He should be 
+engaged in what is beneficial to all living beings. 0 king, here 
+itself he will obtain all desires in every respect. If one is en­
+grossed in truth and purity and performs the rite of Upaviisa 
+(fast) , he shall undoubtedly attain the benefit of the SautramaQ.i 
+sacrifice. A follower of ᤒgveda should recite ᤒk passages; a 
+master of Sam a veda Sam an hymns; and a follower of Yajurveda 
+should perform the ]apa of Yajur Mantras. They will obtain 
+excellent benefit. Sailkara said that if a person abandons hi,s 
+life in that Tirtha in accordance with the injunctions, he will 
+attain the ultimate state from which there is no return.
+
+## Page 134
+
+122 
+Skanda Puratw 
+CHAPTER THIRTYONE 
+The Greatness of Brahmiivarta 
+Sri MarkaStf,eya said: 
+1-6a. Thereafter one should proceed to the Tirtha well­
+known in all the three worlds as Brahmavarta1• It is destructive 
+of all sins. There, 0 Yudhil;lƆhira, Brahma is always present as 
+a perpetual worshipper. With the arms lifted up and without 
+any support he continues to move around perpetually. For 
+twelve years he remained as a Mahavrati (observer of great 
+holy vows) , taking food only once (a day) . He remained in this 
+Tirtha . meditating on Mahesvara in accordance with the in­
+junctions. Hence, 0 Lord, that meritorious Tirtha came to be 
+called Brahmavarta. One should take one's ablution there in 
+accordance with the injunctions and propitiate the Pitrs and 
+deities. He should worship Isana, the Lord; or Vil;IԋU, the great 
+Lord. By the power of that Tirtha he obtains that benefit which 
+usually accrues from all Yajfias performed with due monetary 
+gifts; 
+6b-10. 
+Every Tirtha becomes well. known in the world after 
+the name of a Deva, Danava or Dvija who has attained spiritual 
+enlightenment there. It is also great. Neither water nor ground, 
+neither fertile field nor arid ground attain sanctity without the 
+(spiritual) efforts of men. People achieve spiritual perfection 
+through their power, resoluteness and fortitude, 0 king. 
+Due to blunders as well as covetousness people certainly fall 
+into hell. Wherever a sage resides after restraining his sense­
+organs, there springs up a Kurukl;letra, Naimil;la or Pul;lkara. 
+I . 
+This is not the famous Brahmavarta, the region between Sarasvati and· 
+Dr.;tdvati, which later became known as Kuruqetra. The author wants to 
+brin1 all famous sacred places to the banks of_ Narmada.
+
+## Page 135
+
+V.iii.32.1-15 
+CHAPTER THIRTITWO 
+The Greatness of Patreivara Tirtha 
+Sri Mii.rkarpf,eya said: 
+123 
+1-8. 
+From there a pilgrim should go to Patre5vara that is 
+destructive of all sins. It is there that the highly esteemed, 
+powerful .son of Citrasena became a Siddha (spiritua!ly per­
+fect) . 
+YudhiEthira said: 
+0 holy Sir, I wish to know who was this Siddha of great 
+austerities, who attained spiritual perfecti'on in that Tirtha? 
+Whose son was he and what was the cause (of his perfection) ? 
+Sri Mii.rkaTJ-4eya said: 
+0 excellent king, there was a former intimate friend 9f 
+Indra called Citra. He had great splendour. His son was well­
+known as Patre5vara. He was handsome and .fortunate. He was 
+a terror unto all enemie.s. He was so close a friend of Indra 
+as though he was another Jaya (Jayanta) . 
+Once in the middle of the Royal Assembly where all the 
+Devas had gatQ.ered together, he became much infatuated by 
+the dance and songs of Menaka for a long time. He trans­
+gressed all bounds of decency. It was as though his life had 
+become extinct. The Lord of Suras cursed him who had no 
+control over his senses: "Though you are staying in Svarga, yet 
+you have succumbed to weaknesses like a mortal. Hence you 
+will certainly spend a long time in the mortal world." 
+On being cursed thus by the Lord of Suras, Ԍhe youthful son 
+of Citrasena began to tremble. With palms joined in reverence, 
+he spoke to the excellent one among Suras: 
+Patresvara said: 
+9-15. I have been sinful, infatuated and lost control of the 
+mind and senses. I, therefore, reaped the fruit thereof. But it 
+behoves you to be pleased.
+
+## Page 136
+
+124 
+Skanda Purii7Ja 
+Sakra said: 
+Resort to the banks of Narmada and prop1t1ate the quies­
+cent Siva for twelve years with the senses under control. You 
+will attain a good state. The scriptures declare that this world 
+(i.e. Svarga) belongs to pious persons having self-control, truth­
+fulness and purity, and not to people who are sinners. 
+When this was told by the intelligent Thousand-eyed One, 
+the sensible son of the Gandharva bowed down to him and 
+went to the earth. 
+He took his holy bath in the pure waters of Reva near 
+Brahmavarta. After performing Japa in accordance with the 
+injunctions, he adored Sailkara by means of air, water, oilcake, 
+fruits, flowers and leaves. He maintained himself by eating 
+roots and drinking barley water. He performed severe austeri­
+ties with five fires around him. Thereupon, the Lord became 
+pleased. 
+He saw the Trident-bearing Consort of Uma, the bestower 
+of boons. He had the Pinaka bow in his hand. The Destroyer 
+of Andhaka (Siva) had the crescent moon for his crestjewel 
+and elephant hide as his cloth. On seeing the Lord in front, 
+he fell down (at his feet) . 
+lsvara said: 
+1 6-25. 
+Welfare unto you. Choose your boon. 0 sinless one, 
+I shall grant you the boon. Whatever you wish, I shall give you. 
+No doubt need be entertained in this. 
+Patresvara said: 
+If you are pleased, 0 Lord of Devas, if a boon has to be 
+granted to me, 0 Lord, be stationed here for ever in the 
+Tirtha after my name. 
+On hearing this, Mahadeva in words choked with joy said: 
+"So be it". Then the delighted Lord Sailkara went away along 
+with Uma. 
+When the Lord went to heaven, he took his holy plunge in 
+the Tirtha, propitiated the Pitts in accordance with the injunc­
+tions regarding the Japa and installed the Lord of Devas duly,
+
+## Page 137
+
+V.iii.33. 1-7 
+1 25 
+0 descendant of Bharata. It became well known in all the 
+three worlds as Patresvara. 
+After being rid of his curse, 0 king, he went to the beautiful 
+Indraloka. He was received with the utterances of "Be victori­
+ous" etc., and was highly delighted thereby. Thus, 0 Yudhil?thira, 
+the question you had put has been clarified. One is rid of all 
+sins by a single holy ablution there. He who after holy ablution 
+and adoration of the Pitrs and Devas shall worship Mahadeva 
+in that Tlrtha, 0 Yudhil?thira, obtains the benefit of a horse­
+sacrifice. After death he will sport about in the city of Siva for 
+more than a hundred years and then be born among mortals 
+as a king or someone of the same status as that of a king. He 
+will be conversant with the truth of the Vedas and Vedangas 
+and live a hundred years without sickness or grief. Again he 
+shall remember that water (t:he Tirtha i.e. Reva) . 
+CHAPTER THIRTYfHREE 
+The Greatness of Agni Tirtha 
+Sri Miirkattrf,eya said: 
+1-7. 
+Thereafter one should go to the excellent Agnitlrtha, 
+0 great king. It is there that Agni went on being enchanted 
+by Kama. 
+Yudhi$/hira said: 
+How was the Lord (Agni) , the sustainer of the universe, 
+defiled by Kama? How can there be perpetual residence (of 
+Agni) in single places? This is unparalleled and mysterious, the 
+most excellent in all the worlds. Do tell me, 0 highly esteemed 
+one, I have very great curiosity. 
+Sri Miirkattr!eya said: 
+Excellent! Excellent! 0 highly intelligent one! An excellent 
+question has been put by you, 0 sinless one. I shall mention 
+(the answer to it) as was heard from Mahesvara.
+
+## Page 138
+
+126 
+Skanda Pum'l'}a 
+There was a great king named Duryodhana 1 in Krtayuga. He 
+was fully equipped with elephants, horses and chariots and he 
+duly protected the earth. On seeing the king richly endowed 
+with handsome features and youthful figure and enjoying rich 
+and divine pleasures, Narmada sought him.2 The highly de­
+lighted king of Mahi!}mati abandoned other young maidens 
+and loved that girl. 
+8-14. 0 excellent .king, he (that king) sported with her and 
+at the proper time Narmada gave birth to a lotuԍyed girl. 
+Richly endowed with beauty in every limb and joint, she be­
+came well-known in all the worlds. The father and the mothe.r 
+had affectionate attachment to her. Mter a long time the excellent 
+girl reached the prime of her youth, 0 king, but even when 
+wooed she never wished to offer hersel[ 
+On another 4ay, Vahni (Fire-god) assumed the form of a 
+BrahmaQ.a of great austerities, slowly approached the king and 
+requested him secretly: "0 excellent scion of the family of 
+Raghu, I am a BrahmaQ.a deficient in progeny, poor and helpless. 
+I woo her (your daughter) to become my wife. Your daughter 
+named Sudarsana is unrivalled all over the earth in her physi­
+cal beauty. She lives (grows) in your palace; 0 highly esteemed 
+one, do give her to me. I am alone. I have become disgusted 
+with long celibacy. I am now affiicted with love. 0 dear one, it 
+behoves you to do me this favour, since I earnestly- beg for it." 
+Raja ( The King) said: 
+15-23. 
+0 excellent BrahmaQ.a, I will never give my splen­
+did daughter to one who belongs to another caste and is also 
+devoid of wealth; you may go. 
+On being told this, Vahni (Fire-god) became excessively afflicted. 
+Without siying anything further to the king, he vanished there 
+itself. 
+1: 
+The story i s borrowed from Mbh, Anu.Sasana Ch. 3 . This king Duryodhana 
+is different from the Mahabharata hero, Duryodhana, son of·Dhrtar½¾­
+This PuraJ].a utilises the episode for the glorification of Agni Tirtha on 
+Narmada. 
+2. 
+Narmada seems to be enamoured of even human beings. Before meeting 
+her consort, the Sea, she married Agni (domestic fire) and got a son. Now 
+she marries King Duryodhana and gave birth to a daughter who was given 
+to Agni in marriage.
+
+## Page 139
+
+V.iii.33.24 -34 
+127 
+Mter the Brahmar:ta had gone away, the king took counsel 
+with his mini-sters and priests. Highly delighted, he occupied 
+his seat in front of the sact:ificial pit. Even as he was devoutly 
+performing the sacrifice in the company of the Brahmar:tas, 0 
+descendant of Bharata, Vahni vanished fr<>m the place even as 
+all of them were watching. The Brahmar:tas became disappointed. 
+They went to the palace of the king with disappointment in 
+their minds and spoke to the king: 
+The Briihma7J.as said: 
+0 great king Duryodhana, may this mysterious event be heard. 
+This miraculous thing has not been heard or seen before, 0 
+excellent king. 0 king, all of us began dulԓ our sacrificial rites 
+in the fire. For some reason the fire is neither seen nor does 
+it burn. 
+On hearing this terribly unpleasant thing issuing from the 
+mouths of the BrahmaQas, the king fell down from his seat on 
+the ground like a tree, the root of which has been cut. He soon 
+.recovered and became composed in a short while, but looked 
+all round as though he had become mad and spoke- these 
+words: 
+24-34. 
+"0 excellent BrahmaQas, what is this mysterious 
+incident? Consider this from the standpoint of the scriptures 
+and do tell me the reason hereof. What is the reason for the 
+disappearance of fire? Is it any of my sins or yours, whereby 
+the Fire-god has vanished from the hall of sacred fire. WaS 
+there any loophole in the Ԕourse of the recitation of the Man­
+tras? Was any rite performed without the requisite Daԕir:ta? 
+Was there any omission of the due rites? Why is Vahni not to 
+be seen? There is no enemy like Yajfta. If there is any fault in 
+the cooked food served, it will burn the nation. If it is· without 
+the utterance of the requisite Mantras it will burn the ].ttviks. 
+If it is deficient iri Dak¢iQas it will destroy the Datr (donor) ." 
+The Briihma1J.as said: 
+We are not guilty of the omission of the Mantras. Nor, 0 
+king, are we negligent in our Vratas. You are not .sh<>rt of the 
+Dravyas (money, sacrificial requisites) . Please · reflect whether 
+there is any other fault.
+
+## Page 140
+
+128 
+Skanda Pura:IJa 
+The King said: 
+Yet, all of you join together and think about the means of 
+remedy whereby there will be all-round welfare always in this 
+world as well as hereafter. 
+On being told thus, all those Brahmai:las came to a final 
+decision. They, observing fast, stationed themselves at the place 
+where the fire had vanished. Then in their dream the exces­
+sively refulgent Fire-god said to the Brahmai:las: "May ye all 
+hear the cause of my disappearance. The king was requested 
+by me to give his daughter to me, but he does not wish to give. 
+Therefore, I have vanished from the sacrificial hall, 0 excel­
+lent Brahmai:las. If only the king is prepared tQ offer his highly 
+honoured daughter to me, then will I be present burning brightly 
+in his abode. Not otherwise. " 
+O n listening to these words issued from the mouth of the 
+Fire-god, those Brahmai:las, struck with wonder causing their 
+eyes to glisten, spoke these words to the king: 
+35-46. 
+"Mter knowing your view all of us went to the sacrificial 
+chamber, observed fast and stayed there for the night. Then 
+we saw the Fire-god. We were told by him: 'If the king is 
+prepared to give his daughter to me, I shall continue to stay 
+in his palace and blaze; not otherwise, 0 Brahmai:las.' Mter 
+coming to know of this, it behoves you to give your daughter, 
+0 great king. " 
+The King said: 
+Your words and those of that god should be kept in mind 
+by me. I wish to stipulate an excell᤼nt condition in regard to 
+the offer of my daughter. May the Fire-god be present always 
+in my abode. I shall give my daughter of charming side-glances; 
+not otherwise. 
+On hearing this, the Brahmai:las hurriedly approached the 
+Fire-god and got the marriage performed. Hutasana (Fire-god) 
+became delighted on getting Sudarsana. 0 YudhiHhira, there­
+after he remained ever present in Mahiᤁmati and continued to 
+blaze. Ever since then the people call that Tirtha 'Agnitir:tha'. 
+Those who became purified by means of holy ablutions and 
+Dana at the juncture of the two halves of the month and
+
+## Page 141
+
+V.iii.34.1-9 
+1 29 
+propitiate the Pitrs and Devas became possessed of the ben­
+efits of a horse-sacrifice. 
+If gold is offered as gift at that Tlrtha, 0 king, one acquires 
+the merit of gifting plots of land. There is no doubt about this. 
+If one observes the vow of non-intake of food in that Tlrtha, 
+one becomes able to sport about in Agniloka after death and 
+is honoured by Suras. 
+Thus the origin of Agnitlrtha has been recounted to you by 
+me. It is conducive to the destruction of all sins. Merely on 
+being listened to, it is meritorious, 0 most excellent one among 
+men. It is conducive to wealth and destructive of sins for ever. 
+So said Satikara. 
+CHAPTER THIRTYFOUR 
+Description of Ravi 1irtha 
+Sri Miirkarpf,eya said: 
+1-9. 
+There itself is another Tlrtha of the noble-souled Aditya 
+(Sun-god) . I shall glorify it, 0 excellent one among men, if 
+you are interested in listening. 
+Yudhi6!hira said: 
+On hearing this incomparable mystery coming out of your 
+mouth, I am struck with wonder and I experience horripilation, 
+0 excellent sage. 
+The Thousand-rayed Lord is the annihilator, creator and 
+free from any contamination. He caused the uplift of the worlds 
+through his incarnation on the bank of Narmada. Is the Lord 
+in the form of a man? Or does he redeem as a result of penance? 
+In whose family did he take his birth? Under whose control did 
+he come to be? 
+Sri Miirka7J,Q.cya said: 
+A devout, pure Brahmar:ta born in the family of Kulika made 
+preparation for pilgrimage to that Tirtha thinking, 'I shall visit 
+the Sun-god'.
+
+## Page 142
+
+130 
+Skanda Purii.1J,Q 
+He made the journey of more than a hundred Yojanas without 
+taking food and without drinking water;. He was verily pre­
+vented from the journey in a dream: "0 sage of great Sattva 
+quality, enough of your Vrata of this sort. Look at me, I have 
+pervaded everything, the mobile and immo'bile beings. I blaze. 
+I withhold rain and I then release it too. He who sees me not 
+dead but as Mrtyu (cause of death) sees reality. Choose any 
+fair boon whatever has been desired by you." 
+The Brahma'T}a said: 
+1 0-1 7. 
+If you are pleased, 0 Lord, if the boon is to be 
+given to .me, be present for ever on the northern bank of 
+Narmada. 0 Lord, be the bestower of boons to those persons 
+who are self-controlled and remember you with great devotion, 
+though staying a hundred Yojanas away. 
+Be the bestower of boons to those who are hunchbacked, 
+-blind, deaf and dumb, or those who have some defect in some 
+limb or sense-organ and bow unto your feet. Without delay," 0 
+-Lord, show mercy to those whose noses are shattered, whose 
+intellects are retarded and of whom there remain only bones 
+and skin. 
+Be the bestower of boons, 0 Lord of the universe, to those 
+who worship you everyday after taking the holy bath in Narmada 
+water. 
+0 unswerving Lord, grant the desired boons to those who 
+euiogize you in the morning through Vedic and secular prayers. 
+0 Lord, this is my final boon that boons should be granted to 
+those meri on the earth who get their haircut or shaving when 
+yoԎ are in full view. 
+Out of pity the Lord thereupon told the sage, "Let it be so". 
+0 great king, he stationed himself there with a hundredth part 
+and then vanished. 
+18-24. 
+A man should go to that Tirtha with great devotion 
+and perform the holy ablution. He should propitiate the Pitts 
+and .Devas. He shall thereby derive the benefit of Agni¢ԏoma. 
+He who immolates himself by entering fire at that Tirtha, 
+0 king, goes to Agniloka brightening all the quarters. 
+He who gives up his body after reaching that Tirtha, shall 
+go to the world of Varul}.a. So said Saiikara.
+
+## Page 143
+
+V.iii.35.1-7 
+131 
+He who abandons worldly life by adopting Sannyasa at that 
+Tirtha and quits life, is honoured in the heavenly world where 
+groups of Apsaras are (in attendance) and divine (musical) 
+sounds reverberate. Mter staying there he returns to the mortal 
+world and becomes well-conversant with the Vedas and Vedarigas. 
+He shall be rid of ailments and grief and shall be the Lord of 
+crores and crores. Accompanied by sons and wife he shall live 
+a hundred years. 
+· 
+He who gets up early in the morning and remembers the 
+Sun-god there becomes undoubtedly rid of the sins committed 
+throughout the life. 
+CHAPTER THIRTYFIVE 
+Glorification of Meghaniida Tirlha 
+YudhiEthira said: 
+1-7. What_"is the reason for which Mahadeva stands in the 
+middle of water, 0 excellent Brahmat:ta. after avoiding the 
+northern and southern banks? 
+Sri MiirkatJ.t/.eya said: 
+This narrative, 0 dear one, is unparalleled, meritorious and 
+pleasing - to the ears. I shall recount to you entirely what has 
+been heard in the Purat:tas. 
+0 highly esteemed one, in Treta Yuga Ravat:ta who was an 
+enemy of Devas, conqueror of the three worlds, terrible, fright­
+ening to both Sura:s and Asuras, impossible of being killed by 
+Devas, DaԐavas, Gandharvas, sages and ascetics, was going around 
+the earth by means of his aerial chariot. 
+At that time, a haughty Danava named Maya staying within 
+a cave was performing penance iii · the middle of the Vindhya 
+range of mountains. The RakԙJasa (i.e. Ravat:ta) approached 
+him humbly on the ground. He was adored and honour.ed with 
+reverence, Danas etc. (Ravat:ta) asked: "To whom does this girl 
+with eyes resembling lotus petals and countenance like the full 
+moon belong? What is her name? 0 Sir, why does she ,perform 
+the severe penance?"
+
+## Page 144
+
+1 32 
+Skanda Purii1Ja 
+Maya said: 
+8-1 1 . 
+I am the excellent Lord of Danavas and am called 
+Maya. The name of my wife is Tejovati. Her splendid daughter 
+is well known as Mandodari. She is engaged in penance for the 
+sake of a husband and hence she is adoring the splendid Husband 
+of Uma. 
+On hearing those words Raval).a who had been deluded due 
+to arrogance, becam'e humble and spoke to Maya: 
+"I am born of the family of Pulastya. I have humiliated the 
+pride of Devas and Danavas, 0 highly esteemed one. I request 
+you. It behoves you to offer your daughter. " 
+1 2-1 6. 
+Mter realizing his connexion with Pitamaha (Brahma) 
+the noble-souled Maya honoured Raval).a duly and offered his· 
+daughter. The Rakᤄasa was duly honoured by the night-stalkers 
+(i.e. demons) . He took her in an aerial chariot and began to 
+sport about in the celestial garden with her. 
+Mter some time, 0 descendant of Bharata, Raval).a who could 
+make people cry, begot a son and became the most excellent 
+one among those who had sons. 
+Even as he was born, the child of huge body gave out a loud 
+cry (sound) like that of the Sarhvartaka cloud, whereby the 
+worlds· became benumbed. Mter hearing that terrible roar, 
+Brahma, the grandfather of the worlds, named him Meghanada. 
+1 7-25. 
+Having been named thus he took up a great Vrata 
+and propitiated Sailkara, the Lord of Devas, along with Uma. 
+He made his body lean through Vrata, Niyama, Dana, obser­
+vances, Homa, Japa in accordance with the injunctions and by 
+performing Krcchra and Candrayal).a. On a certain day he went 
+to Mountain Kailasa, took up two Liilgas and proceeded to­
+wards the South. Mter coming to the banks of Narmada, the 
+mighty Danava became desirous of taking a holy bath. He placed 
+the Liilgas down and performed Japa and adored the Lord, 0 
+᤽ing. The night-stalker became contented by the stay in the 
+shrine, holy ablution and Homa in the fire. When he wished 
+to go back to Lanka, 0 excellent king, he took up one of the 
+Liilgas with his left hand and the other one with the other 
+hand with due devotion. By the time the son of Raval).a could 
+take up the Mahaliilga it fell down in . the waters of Narmada. 
+He uttered "Go, Go" and installed it in the middle of the
+
+## Page 145
+
+V.iii.35.26--V.iii.36.6 
+water. After bowing down to Lord Parameᤄthin, the son of 
+RavaQ.a went away by the aerial path duly honoured by the 
+demons. Ever since then the Tirtha became well known as 
+Meghanada. 
+26-31 . 
+The roar had been heard before and it was the 
+cause of the destruction of all sins, 0 great king. One who 
+takes his holy bath in that Tirtha well-known as Garjana and 
+stays there for' a day and a night shall obtain the merit of 
+performing a horse-sacrifice. 
+If a person performs the rite of offering balls of rice in that 
+Tirtha, 0 king, there is no doubt about this that the merit that 
+accrues from a Sattrayajila will accrue to him. He has propi­
+tiated the Pitrs for twelve years. If a person feeds a BrahmaQ.a 
+with the food of all six tastes, 0 descendant f>f Bharata, at that 
+Tirtha, 0 excellent one among men, the devotee obtains ev­
+erlasting merit. 
+He who brings his life to an end with a purified soul shall 
+stay in·Sankara's world until the destruction of all living beings. 
+Thus, 0 tiger among men, the excellent origin of Garjana 
+Tirtha has been recounted to you due to ties of affection. It 
+causes the destruction of all sins. 
+CHAPTER THIRTYSIX 
+The Glory of Diiruka Tirtha 
+Sri Miirkǎ uf,eya said: 
+1-6. 
+Thereafter, 0 great king, one should go to the excel­
+lent Daru Tirtha1 where Indra's friend Daruka became a Siddha 
+formerly. 
+Yudhi6!hira said: 
+0 sinless one, how was the penance performed formerly by 
+Daruka? I wish to hear the procedure thereof from you, 0 
+excellent BrahmaQ.a. 
+1 . 
+As noted i n Chapter 231 infra. Daruka Tirtha i s repeated four times 
+( catviiro diirukeivariiM in this text.
+
+## Page 146
+
+134 
+Skanda Purii'T}a 
+Sri Miirka'T}qeya said: 
+Well, I shall recount to you the wonderful incident that 
+occurred long back in the celestial assembly of the sages of 
+purified souls. The name of the favourite charioteer of Indra 
+was Matali. Once for some reason he cursed his son. The son 
+affected by the curse quaked and fell at the splendid feet of 
+Indra with his head touching them. He submitted to the Lord 
+of Devas (the full details) . The Lord of Suras told the accursed 
+one how and by means of what rite could the terrible curse 
+come to an end: 
+7-1 3. "Go to the banks of Narmada and stay there till the 
+end of the Yuga propitiating Mahesvara. Then you will have a 
+rebirth. In this birth you will be well known by the name Daruka1 
+in the form of a human being. Mter serving the great Lord 
+holding the conch, discus and club you will attain Siddhi." 
+On being told thus by the intelligent thousand-eyed Indra, 
+(the son of Matali) who had lost his senses, bowed down to 
+him and came to the banks of Narmada. By means of Vratas 
+and fasts he moᥙtified his body. He was always engaged in japa 
+and Homa and propitiated the trident-bearing, noble-souled 
+Mahadeva·, the bestower of boons. He adored with great devo­
+tion, 0 king, till the ultimate annihilation of all living beings. 
+The excessively wise son of Matali became a charioteer of a 
+partial incarnation ofViᤁIJ.U. Propitiating the Lord of the Cosmos 
+he attained the good state (i.e. Mokᤁa) . 
+1 4-19. 
+Thus, 0 dear one of good holy Vratas, the origin 
+of Darutlrtha has been recounted in the manner it was nar­
+rated to me by Sailkara. 
+On hearing it, Yudhiᤁthira was struck with great wonder. He 
+saw his brothers with hairs standing on end repeatedly. 
+Sri Miirka'T}f/,eya said: 
+A man who takes his holy ablution there duly, says the Sandhya 
+I . 
+Daruka was a trusted charioteer of Knl)a and is mentioned many times 
+in Mbh. Before his death, KrdI:la sent Daruka to Pal)c;iavas with the news 
+of the catastrophic destruction of Yadavas (Mbh, Mausala 4.2-3) . This 
+Pural)a writer claims the greatne_ss of Daruka's career to this Tirtha by 
+naming it Daruka Tirtha.
+
+## Page 147
+
+V.iii.37. 1-8 
+135 
+prayers, worships Sailkara, the Lord of Devas, and begins the 
+repeated recitation of the Vedas with concentration, shall 
+undoubtedly attain the merit of a horse-sacrifice. One who 
+devoutly feeds Brahmat:tas at that Tirtha with great purity at­
+tains the merit of feeding a thousand Brahmat:tas (elsewhere) . 
+Whatever has been performed with pure intention, vii. Snana 
+(holy bath) , Dana (offering gifts) , Japa, Homa, self-study of the 
+Vedas, adoration of the deities etc. shall be fruitful. 
+CHAPTER THIRTYSEVEN 
+Glorification of Deva Tirtha 
+. 
+Sri Miirkar.ujeya said: 
+1-8.- Therefrom, 0 eminent king, one should go to the ex­
+cellent Tirtha called Devatirtha where thirty-three Devas took 
+their holy bath and attained great Siddhi. 
+Yudhi6'hira asked: 
+How did all the Suras attain the great Siddhi, 0 dear one? 
+All of them had been conquered by the powerful Danavas. 
+How did they get highest salvation by taking the holy bath in 
+the Tirtha? 
+Sri Miirkar;ujeya said: 
+Formerly, 0 king, Indra along with the groups of Devas, was 
+ousted from his kingdom by the awful hordes of Daityas of 
+great might in the course of a battle. 
+Their army was shattered by the divisions of elephants, horses 
+and chariots. On being annihilated and smashed and dissi­
+pated by the onslaughts they fled along the roads. Assailed by 
+Jarilbha, Surilbha and Nisurilbha, Kii!jmaQ<;ia, Kuhaka and oth­
+ers, they trembled with fear and all of them approached God 
+Brahma. The Devas with Vahni as their leader bowed down. 
+their heads to Brahma Parame!jthin and submitted thus : "See, 
+see, 0 highly esteemed one, we have been smashed to smithereens 
+by the Danavas. We have been separated from our sons ·and
+
+## Page 148
+
+136 
+Skanda Purii:T}a 
+wives. Hence we have sought refuge in you. Save us, 0 Lord 
+of Devas, 0 grandfather of all the worlds. 0 Lord of Suras, 0 
+Paramdvara, barring you we have no other refuge. " 
+Brahmii said: 
+9-1 7. 
+For the sake of the destruction of the Danavas, 
+station yourselves on the banks of Narmada and perform pen­
+ance in the place with composure. Penance is the greatest 
+strength. 
+There is no other means of remedy; there is no Mantra or 
+rite excepting the meritorious waters of Reva, the cause of the 
+destruction of all sins. It is my opinion that poverty, ailment, 
+death, imprisonment and other difficulties are the results of 
+sin. After realizing this, perform severe penance. 
+On hearing those truthful words of Brahma Parameᤄthin, all 
+the Suras with Agni as their leader came to Narmada. 
+There they performed severe penance and attained Siddhi. 
+Ever since then that Tlrtha is being sung about as the excellent 
+Devatlrtha i"n all the three worlds. It is conducive to the de­
+struction of all sins. 
+A man who has controlled his sense-organs duly and goes 
+there and devoutly takes the holy bath, shall obtain Mauktika 
+(pearl, salvation) . 
+He who feeds a few Brahmal).as at that Tlrtha shall obtain, 
+0 king, the merit as though he has fed a thousand Brahmal).as. 
+Devasila ( ' the Rock of Gods') there is very beautif..ul and is 
+conducive to the increase of great merit. 
+1 8-22. 
+Those who die after renunciation shall obtain ev­
+erlasting state (i.e. Mokᤄa) . He who enters burning fire there 
+at that Tlttha, 0 Lord of men, shall stay in Rudraloka until the 
+annihilation of all living beings. 
+Thus Snana, Japa, Homa, self-study of the Vedas, adoration 
+of the deities, good and evil deeds done at that Tlrtha shall 
+be everlasting. 
+Thus the origin and procedure of the pilgrimage to Devatlrtha 
+has been entirely recounted to you as was heard from Sankara. 
+Those who read this story of Devatlrtha that destroys sins 
+and redeems devotees from all miseries do go to Devaloka.
+
+## Page 149
+
+V.iii.38. 1-12 
+1 37 
+CHAPTER THIRTYEIGHT 
+The Greatness of Narmadesvara Tirtha 
+Sri Miirkar_uf,eya said: 
+1-1 2. Therefrom, 0 great king, one should go to the excel­
+lent Tlrtha named Guhavasl where Mahadeva spent millions of 
+years as a Siddha staying in a cave. 
+Yudhi$thira said: 
+For what reason, 0 dear one, did Mahadeva, the preceptor of 
+the universe, spend so long a period in the cave, 0 excellent 
+BrahmaQa? 0 sinless one, narrate thi:s completely in detail to me. 
+I wish to hear everything in full. I am extremely interested. 
+Sri Miirkar_uf,eya said: 
+Excellent! 0 great king, an excellent question has been put 
+by you. This is fully explained in the Pural)a. Now that I am 
+pretty old, it is difficult for me to expatiate upon it. It occurred 
+pretty long back. It is a matter of hoary antiquity. Hence I shall 
+succinctly tell you, 0 dear one. Know it from me. 
+Formerly, 0 king, in Krtayuga, there was a great forest named 
+Daruvana. It was overgrown with many trees and creepers. It 
+was splendidly' beautified by various tender creepers. It was 
+resorted to by lions, tigers, boars, elephants and rhinoceroses. 
+There were many birds there. 
+It was like the divine park 
+Caitraratha. 
+There some highly wise men of very severe austerities lived 
+devoutly, strictly adhering to the system of four Asramas (stages 
+of life) , viz. celibate student, householder, retired hermit and 
+recluse. All of them desired the greatest state (Mokᤄa) . They 
+strictly practised their own respective duties. 
+Once, during spring, for some undisclosed reason, Mahadeva 
+was proceeding in an aerial chariot along with Uma. There he 
+saw a hermitage· in water reverberating with the Rk., Saman and 
+Yajus hymns. The way in and out could not be seen. It was 
+conducive to the destruction of all sins. On seeing it, the goddess 
+was delighted. She asked the Lord of the chiefs of Devas with the 
+moon for his crest jewel, in words choked with excessive delight:
+
+## Page 150
+
+1 38 
+Skanda Puriir_ta 
+The Devi said: 
+1 3-22. 
+0 Lord, whose is this hermitage echoing with the 
+sounds of the Vedic texts? On seeing this one becomes rid of 
+all tiresome feelings of hunger, thirst etc. 
+Mahesvara said: 
+0 goddess, have you not heard about this great Daruvana? 
+Many Brahmal).as dwell here as householders. All the women­
+folk there are engaged solely in attending on their husbands. 
+0 Daughter of the Mountain, no other deity is known to them. 
+No other sacred duty is practised by them. 
+On hearing this excellent statement uttered by the Lord of 
+Devas, she became overcome by curiosity and said to Sari.kara 
+again: "0 Lord, 0 Mahadeva, it has been stated by you that 
+the women are engaged in the sacred duty of attending on 
+their husbands. Be like Madana (god of love) and upset their 
+fidelity. " 
+lsvara said: 
+0 my beloved, I do not approve of what has been spoken 
+by you. Indeed the Brahmal).as are great beings. One should 
+not act antagonistically to them or displease them. Anger: is the 
+striking weapon of Brahmal).as. Discus is the striking weapon 
+of Hari. (Their) Anger is more ruthless than the discus. Hence 
+one should not infuriate a Brahmal).a. 
+Neither Devas nor common people, neither Nagas nor Asuras 
+in all the three worlds, have survived from being destroyed 
+after being (angrily) looked at by them. 
+Sa1vation, Svarga (heavenly pleasure) , earthly benefit and 
+welfare in the mortal world all come only to those towards 
+whom the highly esteemed Brahmal).as, the deities of the earth, 
+are well-disposed. 
+By realizing this, 0 highly esteemed lady, leave your im­
+proper insistence on the proposed act. That wherewith Brahmal).as 
+become angry is antagonistic to the other world as well. 
+The goddess said: 
+23-38. 
+0 Lord, the honour of those ladies IS highly es-
+
+## Page 151
+
+V.iii.38.23-38 
+1 39 
+teemed by the Suras unless you suppress it and keep it low. I 
+am not your beloved nor am I subservient to you. 0 Mahadeva, 
+in the Lokaloka there is nothing which cannot be accomplished 
+by you. 0 most excellent one among Suras, may at least this 
+single task (request) of mine be carried ou't .. 
+On being told thus by the goddess, Mahadeva who is favourably 
+disposed towards the inclinations and behests of tl}.e goddess, 
+adopted the form of a Kapalika and went to Daruva,na. He 
+adjusted the dishevelled matted hairs and retained only the 
+moon as his crest-jewel and a chain round the neck along with 
+the earrings. He wore the hide of a tiger and was bedecked 
+in girdle and necklaces. He seemed to cause tremor in the 
+earth through the loud jingling sounds of the anklets. The 
+matted hairs were tied up and the great ᤾ord had smeared his 
+body with holy ash. In his hand he retained the skull of the 
+noble-souled Brahma. He played on his big l;)amaru (drum) 
+causing the earth to quake. He reached Daruvana in the morning. 
+By that time all those meritorious people who desired (to 
+collect) flowers, leaves and fruits went with others. The wind 
+was blowing. On seeing the miraculous form of the Lord, 0 
+descendant of Bharata, the minds of those young women became 
+defiled by Kama (God of Love) . 
+On seeing the splendid male, all those excellent ladies, the 
+womenfolk of . Daruvana, experienced exudation of perspira­
+tion in their bodies due to exhilaration. 
+On seeing the miraculous Lord, there were various types of 
+outbursts of emotional excitement among those ladies, 0 best 
+of men. (Those wives. of the BrahmaQ.as were upset emotion­
+ally.) Some of them could not know where their garments 
+were. Others lost their upper garment on seeing the wonderful 
+form of the Lord. They were extremely enchanted and fasci­
+nated. The tresses of hairs of some of them got dishevelled. 
+Some stood up from their seats desirous of offering alms but 
+could not even stir. One lady who was overproud of her beauty 
+and youthful form forgot to breast-feed her son lying on her 
+lap. On seeing Mahadeva, another lady became struck by the 
+arrows of Kama. She pressed down her protruding breasts with 
+her arms. Sighing and expelling hot breaths, she ceased to 
+talk. Thus Paramesvara made all those womenfolk excited in 
+a wonderful way and went off.
+
+## Page 152
+
+140 
+Skanda Purii:r.ta 
+39-46. 
+By that time, all those Brahmal).as after wandering 
+all over the great forest came back to their abodes and saw 
+their wives weak and for splendour. Those ladies who had 
+great devotion towards their husbands formerly had now slipped 
+down from chastity. On coming to know of this, those excel­
+lent Brahmal).as came out. They consulted one another and 
+understood that Lord Mahdvara had vanished after upsetting 
+the minds of their ladies. One infuriated BrahmaiJ.a lifted a 
+stick and ran. Another raised up a KalmaᤄayaHi (spotted stick?) 
+and still others a handful of Darbha grass. They ran about here 
+and there in the forest, 0 king; the noble-souled ones gath­
+ered together and said in anger: 
+"If we have performed any Homas, if we have propitiated 
+our preceptors, then, by the strength of that truth let the 
+excellent Liri.ga (Penis) of the Lord fall down. If we have gone 
+from one Asrama (stage of life) to another in the due order 
+as laid down in the scriptures, then by the strength of that 
+truth, let the Liri.ga of the Lord fall on the ground. Thus, by 
+the power of the truth of the Brahmal).as repeated thrice, even 
+as Siva stood seeing, his Liri.ga fell down on the ground.1 
+47-54. 
+In Lokaloka there was a great lamentation, 0 
+descendant of Bharata, when the Liri.ga of the Lord fell down 
+and the great destruction of the whole universe became immi­
+nent. 
+The sound of the Liri.ga falling down was extremely terrible. 
+There were terrible earthquakes and falling of comets and 
+1 . 
+Mter the Vedic period, people seem to have forgotten the identity of 
+Rudra and Agni. They forgot that the Linga is a symbol of blazing flame 
+of sacrificial fire. Though the procedure of Linga-worship and Fire-wor­
+ship was the same (G.B. Dandage, Yajiia, Rudra and Sivalinga) people in 
+the Pural).ic period identified the Pil).¾i of Siva with phallus. And to 
+explain separateness of the Linga from Siva's body a story for its fall was 
+created. 
+There are different versions of the fall of Siva's penis: 
+i. 
+Parvati instigates Siva to tempt the wives of sages in Daruvana-an 
+indecent act for which sages fˢrced him to drop his penis. 
+ii. 
+Mter self\immolation of Sati (Siva's first wife) Siva in his bereave­
+ment went a-begging in Daruvana-a colony of sages. Wives of sages 
+went after him and as a penalty Siva was made to drop his 
+penis. 
+iii. 
+Siva of his own accord cut down his own penis (Mbh, Sauptika 7.2 1 ) . 
+As Siva is adorable, his penis too was regarded adorable. Versions 
+· (i) and (ii) above hint at the superiority of sages over Siva.
+
+## Page 153
+
+V.iii.38.55-68 
+1 41 
+meteors when the Liilga of the Lord fell down. The tops of 
+mountains fell down and the seas became dried up. The Devas 
+became moody and dispirited. 
+All of them collected together and approached Brahma 
+ParameHhin. With their palms joined in reverence they eulo­
+gized him with different kinds of hymns. The Lord of the 
+universe with four lotus-like faces became delighted. He said 
+to the distressed Suras: "Do not be grief-stricken. The Three­
+eyed Lord of Devas has been affected by the curse of BrahmaQ.as. 
+When those BrahmaQ.as endowed with penance are pleased, he 
+will become free (from the effect of the curse) again." 0 suppressor 
+of enemies, on hearing this the Devas went back. All of them 
+and the sages thought together, 0 descendant of Bharata. Along 
+with Visvamitra, VasiHha, Jabali, Kasyapa and others they said 
+to the Slayer of Tripura: 
+" 
+55-59. 
+"0 Lord of Suras, the spiritual splendour of the 
+twice-born is extremely powerful. Endowed with forbearance 
+and performing the penance, you shall become devoid of fatigue. 
+Since it was due to the resentment of the sages that the ex­
+cellent Liilga of yours, 0 Mahadeva, fell down, it will not become 
+worthy of being worshipped. The merit that men attain by 
+worshipping the Liilga cannot be obtained either by perform­
+ing Agnihotra or AgniHoma. By the words of Devas, Danavas, 
+Yakᤄas, Gandharvas, Uragas, Rakᤄasas and the BrahmaQ.as it 
+will be worthy of being worshipped. It will be worthy of being 
+worshipped by Brahma, ViᤄQ.u, Indra and Candra. It is the 
+benefit of your Liilga in this world as well as in the other." 
+60-68. 
+On being told thus, the Lord of the cosmos bowed 
+down to the excellent BrahmaQ.as. Endowed with great delight 
+he joiqed his palms in reverence and spoke: "BrahmaQ.as are 
+mobile Tirthas bereft of water. They can be desired by all. 
+Dirty (sinful) people become purified by the water of the words 
+of these BrahmaQ.as. There is no holy spot, no Tirtha where 
+after causing the anger of a BrahmaQ.a one can go and get 
+purified. Even Puᤄkaras (holy places) are Dᤄaras (arid lands) . 
+That which is not composed by BrahmaQ.as is no Sastra; that 
+which is not offered to a BrahmaQ.a is no Dana; that which is 
+no outcome of the favour of a BrahmaQ.a,is no happiness; and 
+that which is not caused by the anger of a BrahmaQ.a is no 
+misery. All the Tirthas throughout the earth and also Ganga
+
+## Page 154
+
+142 
+Skanda Puriir.ta 
+and other rivers do not deserve even a sixteenth part of one 
+sentence of a BrahmaQ.a. " 
+Mter duly honouring all the BrahmaQ.as, after being permit­
+ted by the great sages, the Lord went to the excellent bank of 
+Narmada. 
+The Lord observed the great Vrata, became engaged in Japa 
+and Snana and performed the penance for an Arbuda (many 
+millions) of years residing in a Guha (cave) . When the obser­
+vance was concluded, the Lord installed Mahe5vara. Being saluted 
+by the Suras, the Lord went to Kailasa along with them. 
+Since Paramesvara had been installed on the banks of Narmada 
+by him, for that reason he is called Narmade5vara. 1 
+69-75. 
+A Yati who has conquered all the sense-organs, who 
+takes his holy bath and worships Mahadeva, Narmadesvara (Lord 
+of Narmada) , shall obtain the merit of a horse-sacrifice. 
+If anyone offers to the Pitrs gingelly seeds, water, Kusa grass 
+and flowers, 0 son of 
+PaQ.QU, his ancestors of twenty-one 
+generations rejoice in Svarga. 
+He who feeds BrahmaQ.as in that Ti:rtha with milk pudding 
+mixed with ghee, 0 king, obtains the merit accruing from a 
+crore (i.e. feeding a crore of BrahmaQ.as elsewhere) . 
+0 YudhiHhira, he who stands in the middle of the water and 
+offers gold or. silver to BrahmaQ.as shall obtain the merit of 
+AgniHoma. He who approaches Narmade5vara and stays there 
+without food on the eighth or fourteenth lunar day shall attain 
+the fruit of the (fulfilment of) birth. 
+He who enters burning fire in that Tlrtha, 0 king, shall be 
+free from the fear of ailments for seven births, 0 descendant 
+of Bharata. 
+He who abstains from food intake in that Tlrtha his goal 
+shall be Rudraloka from where he will never return. 
+76-77. 
+Thus the procedure of the pilgrimage and the origin 
+thereof have been recounted to you, 0 excellent one among 
+men. In the Purat:ta it has been laid down in detail. A man who 
+glorifies the origin of Narmadesvara and who listens to it with 
+devotion shall obtain the merit of the holy ablutidn. 
+I . 
+The Linga was installed by Lord Siva himself on Narmada and came to 
+be called Narmadesvara.
+
+## Page 155
+
+V.iii.39.1-19 
+143 
+CHAPTER THIRTYNINE 
+The Greatness of Kapila Tirtha 
+Sri Markarpf,eya said: 
+1-9. 
+From there, one should go to the excellent Tirtha 
+called Kapila Tirtha. By the holy ablution alone with devotion 
+(in it) , a man is liberated from all sins. 
+Yudhi6thira said: 
+0 excellent BrahmaQ.a, the greatness of Narmadeiivara, the 
+cause of great w᤿nder in all the worlds, has been recounted. 
+Now do narrate to me Kapila Tirtha, ᥀t what time, in what 
+connection did that excellent Tirtha originate? 0 holy Lord, 
+how was the meritorious Tirtha that destroys all sins, origi­
+nated? 
+Sri Markarpf,eya said: 
+Listen, 0 king, 0 descendant of Bharata, I shall extol the 
+excellent Kapila Tirtha, on hearing which your surprise shall 
+vanish entirely. Formerly in the beginning of l(rtayuga, Brahma, 
+the grandfather of the worlds, created the entire range· of 
+living beings of four types. He was engaged in Japa and Homa 
+thereaft᥁r devoutly. He meditated for a short while and stayed 
+there at the sacrificial pit. From the blazing sacrificial pit, 
+Kapila (a tawny-coloured cow) rose up. Her horns were as 
+refulgent. as the flames of fire. The cow yielding good milk had 
+three eyes. She was entirely fiery (in form) with a fiery back 
+with all the limbs fiery. She had all the (good) characteristics. 
+Her voice was as sweet as the jingling sound of a bell. On 
+seeing that highly esteemed Kapila in the centre of the sacri­
+ficial pit, Brahma, the preceptor of the worlds, bowed down 
+and spoke thus: 
+1 0-19. 
+"0 meritorious Kapila, obeisance to you. 0 auspi­
+cious one bowed down to by all the worlds, 0 divine one, you 
+are conducive to all auspiciousness, inimitable and incompa­
+rable in all the three worlds. You are La'k᥂mi; you are Smrti; 
+you are intellect; you are fortitude. 0 lady of excellent coun­
+tenance, you are well-known as Goddess Uma. You are Sati.
+
+## Page 156
+
+144 
+Skanda Purii:r:ta 
+There is no doubt in this. You are the great Goddess VaiᤄQ.avi; 
+you are Mahadevl. 0 lady of excellent countenance, you are 
+BrahmaQ.i. 0 highly esteemed one, you are Kumari. You are 
+Bhakti (devotion) as well as Sraddha (faith) . You are Kalaratri 
+unto living beings. You are the maiden Paramesvarl. You are 
+the units of time: Lava, Truᤃi, Muhiirta, Lakᤄa, year, month, 
+ᤐaQ.a, entire Kala. In the whole range of the three worlds 
+consisting of mobile and immobile beings, there is nothing 
+without you . " 
+O n being eulogized thus with honour by ParameHhin, Kapila 
+said to the highly esteemed Lotus-born Lord: "0 Lord of Devas, 
+0 preceptor of the universe, I am pleased with your words 
+(Eulogy) . What should I do to please you? (Lit 'what task tleasant 
+to you can I do for you today?) . Tell me everything, 0 Grand-· 
+father. " 
+Brahmii said: 
+0 Parame§vari, you have been created by me for the sake 
+of the welfare of the world. Hence, go to the mortal world 
+from heaven with a desire for the welfare of all the worlds. You 
+contain within you all the Devas. You are identical with all the 
+worlds, If people offer (you) in accordance with the · injunc­
+tions, they will have their residence in heaven. 
+Mter saying this1 to Brahma Goddess Paramdvari came to 
+the surface of the earth, duly venerated by Suras and Siddhas. 
+Yudhi6thira said: 
+20-26. 
+When, 0 dear one, at the instance of Brahma, the 
+splendid one came here, how were the Devas and the worlds 
+stationed ln her limbs? 0 excellent BrahmaQ.a, how did Kapila 
+settle herself in the Dᤄara (arid) ᤐetra? Tell me this. 
+Sri Miirka1J4eya said: 
+On being told by Brahma, the creator of the world, from 
+I. 'evam uktt¥ii' tato devi brahmiitam,': This text is corrupt. If emended as 'evam 
+uktii tato devi brahma7Ja paramdvari 'When addressed thus by God Brahma 
+etc ' , the meaning becomes clear.
+
+## Page 157
+
+V.iii.39.27-38 
+145 
+Brahmaloka she went to the meritorious Narmada, the sanc­
+tifier of the worlds. She performed extensive austerities on 
+Narmada resorting to the banks. Then she wandered all over 
+the earth, including the mountains, forests and parks. Ever 
+since then, 0 great king, it became well known as _the excellent 
+Kapila Tlrtha, destructive of all sins and resorted to by the 
+groups of sages. 
+If one takes the holy bath in that Tlrtha in accordance with 
+the injunctions and offers a Kapila (tawny-coloured) cow, it is 
+as good as the entire earth along with mountains, forests and 
+parks has been gifted by him. 
+He who devoutly watches that cow being gifted to an excel­
+lent BrahmaQa, finds his sins accumulated in the course of a 
+hundred years, perished. There is no d᥃ubt about this. 
+27-33a. 
+Those Lokas, viz. BhiiQ., BhuvaQ., SvaQ., MahaQ., Jana, 
+Satya and Tapas are stationed on her back, 0 excellent king.1 
+The Fire-god is stationed in the mouth; the serpents in the 
+teeth; Dhata and Vidhata on the lips; Sarasvatl on the tongue; 
+the thousand-rayed Lords, the Sun and the Moon, in the eyes; 
+the Wind-god. is stationed, 0 excellent king, at the centre of 
+the nostrils. Mahadeva is on the forehead; Asvins in the ears; 
+Nara and NarayaQa in the horns; the Grandfather in the middle 
+of the horns; Karil.bala and the noose-holding VaruQa are sta­
+tioned beneath. Yama, the holy Lord, has resorted to the belly 
+and stationed there. The serpents are stationed in the hoofs; 
+the rays of the Sun at the tip of the tail. Those who keep such 
+a Kapila in their houses, the Kapila identical with all the Devas, 
+are really blessed. There is no doubt about this. 
+33b-38. If anyone circumambulates a Kapila after getting 
+up early in the morQing, it is as good as circumambulating the 
+earth including mountains, forests and parks. One should bathe 
+Sankara with Kapila-Paiicagavya (five milk-products from a tawny­
+coloured cow) ; he should observe fast at that Tlrtha. Mter 
+taking the holy bath in accordance with the injunctions he 
+should propitiate the Pitrs and deities. All the members of his 
+family including ten ancestors and ten successors become satisfied 
+and ascend to heaven with his wishes in mind. 
+1 . 
+VV 27-37a describe how various parts o f cow's body are occupied by 
+Devas. Hence she is said to be "Constituted of Devas".
+
+## Page 158
+
+1 46 
+Skanda Purii:r;ta 
+Thus the procedure (of pilgrimage) and the origin of Kapila 
+Tirtha has been narrated to you as well as the benefit or the 
+merit thereof, 0 excelient king. It is conducive to the attain­
+ment of wealth, fame and long span of life. It is an excellent 
+one destroying all miseries. On listening to -it, one is liberated 
+from all sins. There is no doubt about it. 
+CHAPTER FORTY 
+The Greatness of Karaiijesvara Tirtha 
+Sri Miirkar.uf,eya said: 
+1-9. 
+Therefrom a person should go to the excellent Tirtha 
+Karafije8vara, 0 great king, where a Daitya became a Siddha 
+and well-known in all the worlds. 
+Yudhi6thira said: 
+0 highly esteemed one, a person of great penance became 
+a Siddha in that Tirtha. Whose son was he? How and at what 
+time did he become a Siddha? Tell me, 0 BrahmaQa. 
+Sri Miirkarpf,eya said: 
+Formerly in Krtayuga, 0 king, a mental son of Brahma named 
+Marici was born. He was conversant with the principles of the 
+Vedas and Vedailgas. 
+He was a storehouse of penance. He too had a mental son 
+after a great deal of time. His mental son was like another 
+Brahma. 
+Marici ·had these qualities: forbearance, self-control, com­
+passion, munificence, truthfulness, cleanliness and straight­
+forwardness. 0 descendant of Bharata, the son too had all 
+these qualities. 
+On seeing Kasyapa, the excellent Brahmar:ta endowed with 
+all these good qualities, Dakᤄa. the Prajapati, gave him his 
+daughters as wives. They were Aditi, Diti, Danu and ten others. 
+They had sons and grandsons, 0 eminent descendant of Bharata.
+
+## Page 159
+
+V.iii.40. 1 0-26 
+1 47 
+Aditi gave birth to sons, the leader of whom was Indra. They 
+were born of Kasyapa, the Prajapati, 0 mighty-armed one. 
+All the three great worlds including the mobile and immo­
+bile beings were pervaded by them. A highly esteemed son was 
+born to Danu. He was named Karaiija. 
+1 0-18. 
+He was richly endowed with all good features. Even 
+as a boy, he performed great penance after resorting to the 
+banks of Narmada. His penance was excellent and very severe. 
+It continued for a thousand divine years. It consisted of Krcchra, 
+CandrayaQ.a etc., 0 king. 
+· 
+His diet consisted of greens, roots and fruits. He regularly 
+had holy bath and performed Homa. Mahadeva was pleased 
+thereat and (came there) along with Uma. 
+The Lord, the Slayer of the Tripuras, offered him boons as 
+he pleased: "0 Karaiija of great strength, I am pleased with 
+you. 0 sinless one, choose a boon. I shall grant it except that 
+of immortality. " 
+Karanja said: 
+0 Mahadeva, if you are pleased, if I am to be given a boon, 
+then let my sons and grandsons be inclined towards righteous­
+ness. 
+Saying "So be it" and accompanied by Uma, the bull-vehicled 
+Mahadeva vanished there itself along with his GaQ.as. 
+When the Lord had vanished, the Daitya installed Mahadeva 
+after his name and joyously went home. 
+Ever since then that Tlrtha became the most exc;ellent one 
+of all the Tlrthas. Merely by taking his holy bath there a man 
+is rid of all sins. 
+19-26. 
+He who takes his bath in that Tlrtha and propiti­
+ates Pitrs and deities shall undoubtedly attain the merit of 
+Agni!jtoma Yajiia. 
+He who abstains from food-intake there in that Tlrtha, 0 
+king, goes to Rudraloka and never returns from there. 0 son 
+of Dharma, he who abandons his life in its waters or in fire, 
+dwells in the place of Siva for twenty thousand years. When the 
+merit is exhausted, he is born in a pure family. He becomes 
+conversant with the Vedas and Vedari.gas and efficient in all 
+Sastras. As a king or one of royal nobility he will live for a
+
+## Page 160
+
+148 
+Skanda Purii:TJa 
+hundred years accompanied by sons and grandsons and devoid 
+of all ailments. 
+Thus whatever was asked by you, 0 sinless one, has been 
+recounted regarding the benefit of the Tirtha as well as of the 
+Snana and Dana there, 0 descendant of 8harata. 
+This story is meritorious, destructive of sins and evil dreams 
+of those who read or listen to the excellent greatness of the 
+Tirtha. Sailkara has said that the merit is everlasting if a devotee 
+reads this at the time of Sraddha with devotion to the Pitrs. 
+CHAPTER FORTYONE 
+The Greatness of KU1:uf,alesvara 7irtha 
+Sri Miirkar:uf,eya said: 
+1-9. 
+From there, a person should go to the excellent 
+Kui)Qalesvara Tirtha where the great Yakᤄa Kui)Qadhara be­
+came a Siddha, 0 excellent king, after performing severe penance 
+that caused fright to Suras and Asuras. He sported about in the 
+palace of Paulastya, 0 excellent king. 
+Yudhi$thira said: 
+In which Yuga was he born? Whose son was this highly intelligent 
+one by whom Sailkara was propitiated by performing severe 
+penance? 0 dear one, 0 sinless one, tell me this in detail. I 
+don ' t feel satiated by listening to the excellent nectarine story. 
+Sri Miirkar:uf,eya said: 
+Visravas, son of Pulastya, was born in Treta Yuga as son of 
+Bharadvaja's daughter. He was on a par with Brah᥄a. He was 
+much satisfied by his devout wife. He begot a son, Dhanada 
+who (later on had lots of grandchildren) and was character­
+ized by all good features. 
+As soon as he was born, Brahma, the grandfather of the 
+worlds, came to know of it and was delighted along with the 
+sages and the Devas. He named the boy: "As you are bor.n of 
+Visravas and became .my grandson, 0 sinless one, the name
+
+## Page 161
+
+V.iii.41 . 1 0-21 
+149 
+VaisravaQ.a has been given to you. You will become the protec­
+tor of the wealth of all the Devas. As the fourth guardian of 
+quarters, you will be free from old age and death . " 
+1 0-1 5. 
+0 great king, his wife was a s well known a s Isvari. 
+The Yakᤄa became the excellent Lord of Yakᤄas. His son was 
+KuQ.<;la. 
+He attained excellent physical form. With the permission of 
+his parents, he went to the banks of Narmada and performed 
+severe penance. During summer he performed the penance in 
+the centre of five fires; during rainy season he slept on bare 
+ground; during Hemanta he stood in the middle of water; for 
+a hundred years he took in only air (as food) . When a hundred 
+years were completed, he stood on a single toe, 0 king. There­
+after, as a mere skeleton, he raised his arms and stood thus .. 
+KuQ.<;lala controlled his breath and perfornfed the penance, 0 
+leader among the descendants of Bharata. In the fourth century 
+of the years (of penance) , the Bull-vehicled Lord became pleased 
+(and said) : "0 dear one, choose a boon whatever you may wish 
+for in your mind. I shall undoubtedly grant you the same." 
+Ku7J.4ala said: 
+1 6-2 1 . 
+I should be invincible to all the enemies. Let me 
+move about in the city of the Lord of Yakᤄas with his favour. 
+Let me move about as his attendant. 
+Saying "So be it", Mahadeva, venerated by all the worlds, 
+went through the sky to Mountain Kailasa. 
+When the Lord vanished, the Yakᤄa installed the Lord of 
+Devas, the excellent KuQ.<;lalesvara, joyously. 
+He adorned the Lord of the cosmos with flowers, unguents 
+and incense, vehicles ( vimiinaiQ> , chowries and umbrellas and 
+things causing satisfaction to the Liliga 1 • 
+After propitiating the Brahmar:tas well with food, drink, 
+ornaments etc., and pleasing Mahadeva he went to his abode. 
+Ever since then, that Tirtha became well known in all the 
+three worlds by the name KuQ.<;laldvara. It is excellent and 
+exceedingly meritorious. 
+I. Pura"Qa 'satisfaction' MW 642.
+
+## Page 162
+
+150 
+Skanda Purii:TJ-a 
+22-29. 
+Anyone who is engaged in the observance of ritu­
+alistic fast at that Tirtha and worships Isana, the Lord, be­
+comes rid of all sins. 
+He who offers to Brahmal).as gold, silver, jewels or pearls 
+and feeds them becomes happy. He rejoices in heaven. 
+One may belong to the ᤒk, Yajus or Sarna Sakha of the 
+Veda. If one takes the holy bath in the Tirtha and recites a 
+ᤒk Mantra, he enjoys the entire benefit (of reciting the Veda 
+completely) . Listen, 0 son of PaQ.<;lu, to the benefit of one who 
+offers a cow to Brahmal).as. He is honoured in Svarga Loka for 
+as many thousands of years as there are hairs in it and in its 
+progeny. He will attain residence in Svarga in the company of 
+his sons and grandsons. The man of great esteem shall dwell 
+in Svarga for so many years along with sons and grandsons. 
+A man who offers food there, goes to the world of Mahe§a 
+and dwells there for numerous years. There is no doubt about 
+it. He becomes happy and rejoices in Svargaloka where Gandharvas, 
+Siddhas and Apsaras sing. 
+Thus, 0 son of Dharma and Prtha, the whole of the power 
+of the Tirtha has been recounted to you. He who listens and 
+eulogizes is rid of all sins and again comes back to these three 
+worlds due to its prowess.
+
+## Page 163
+
+V.iii.42.1-7 
+151 
+CHAPTER FORTYfWO 
+The Greatness of Pippaliida Tirtha 
+Sri Miirka7J4eya said: 
+1-7. 
+Therefrom, one should go to the excellent Pippalesvara 
+where Pippalada, a great Yogin of austerᥚ penance, became a 
+Siddha. 
+Yudhi6!hira said: 
+0 holy Sir, I wish to hear the story of Pippalada1 and the 
+greatness of that Tlrtha where the great ascetic became a Siddha. 
+Whose son was he? 0 highly esteemed onᥛ. why did he per­
+form the penance? 0 sinless one, narrate this in full detail. 
+Miirka'T)tf,eya said: 
+The highly venerable Yajfiavalkya who had mastered the Vedas 
+ᥜnd Vedari.gas performed an excellent penance while he was 
+at Mithila. The sister of the intelligent Yajfiavalkya became a 
+widow unfortunately in her seventh year itself. As a result of 
+her previous Karma, she was also an orphan without her par­
+ents. In her husband's family too there was no one. Hence she 
+was alone. 
+Wandering over the earth, she gradually came near her brother 
+who was performing a penance with a desire for the other 
+world and its happiness. 
+I . 
+PippaHi.da was an ancient sage who, according to Prasna Upani¦ad, imparted 
+spiritual knowledge to sages such as Sukesa, Saibya and others. He visited 
+Bhidma while the latter was on the bed of arrows (Mb]J, Santi 47.9) . 
+The author of Skanda l.i. l 7 records him to be the son of Dadhica and 
+Suvarcas. When Dadhica handed over his body to Devas Suvarcas placed 
+the new-born baby under the shade of a Pippala tree which nursed it on 
+its fruits. Hence the name. 
+The author of Reviikha7Jtf.a, in his enhusiasm to glorify a KJetra on Reva 
+is insensitive to the reputation of the great sage Yajfiavalkya, the court 
+philosopher of Janaka of Mithila. 
+He makes Pippalada a bastard born of Yajfiavalkya and his widowed sister. 
+Pippalada creates a l<ftya (Female Ogress) to kill Yajiiavalkya who is shown 
+to have run from Janaka and other gods. 
+Popular etymology of Pippalada gave rise to such stories.
+
+## Page 164
+
+152 
+Skanda Purii:T}a 
+8-1 3. She attended to his needs and stayed there perform­
+ing penance. On a certain occasion, she had her monthly course 
+during the day when she took her bath. She saw a rag kept 
+concealed and so wore it as her undergarment. In the mean­
+time, at night Yajfiavalkya had an erotic dream in a place where 
+there was none. As a result of the dream, there was an emis­
+sion of semen in his loin cloth. It resembled a drop of blood. 
+Since he was refulgent with his austere penance, it had the 
+lustre of fire. The poor Brahmal).a woke up and found the 
+piece of cloth defiled. He thought it not worthy of being touched 
+and so cast it off and washed himself clean in accordance with 
+the injunctions in the Smrti texts. Bath at night has been 
+prohibited. So the Brahmal).a went to sleep again. At midnight 
+the woman took this cloth and covered her vaginal aperture. 
+In the morning the sage searched for his loin cloth here and 
+there. Thereupon the Brahmal).a woman said: "Dear Sir, what 
+are you searching for? What do you want? Tell me the fact. " 
+Yiijiiavalkya said: 
+1 4-23. 
+I had an unholy dream at night, 0 fair lady. My 
+loin cloth became wet, which I kept aside. It is not to be seen 
+now. 
+On hearing this statement, the Brahmal).a lady became excessively 
+frightened, 0 king. She said: "0 Brahmal).a; that piece of cloth 
+was worn as an undergarment by me after my menstrual bath . " 
+O n hearing her words the great sage burst out: "Alas! Alas! " 
+and fell on the ground like a tree the root of which had been 
+cut. Pure like the sky, the innocent lady asked: "What is this? " 
+Consoling the Brahmal).a, she spoke thus: "Tell me the reason 
+even if it · were to be the uttermost secret, so that we shaH 
+ponder over it and get the remedy carried out. " After reflect­
+ing for some time, he found it possible to speak. With a fright­
+ened mind, he spoke out. Listen to what he said, 0 king: "0 
+lady of auspicious Vratas, it is none of your faults nor mine. 
+Of the foetus in your womb, fate alone is the cause. It has to 
+be carefully preserved by you forever. It should not be de­
+stroyed. It should be awaited till the whole period is over. " The 
+chaste lady was ashamed. Yet she said in distress, "So be it" . 
+. She nurtured the child in the womb till the normal delivery.
+
+## Page 165
+
+V.iii.42.24-45 
+153 
+As soon as the child was born, the Brahmal).a lady came to the 
+root of a banyan tree. Abandoning the child there she spoke 
+thus: 
+24-33. 
+"May all those living beings in all the worlds, mobife 
+a::J.d immobile, protect this child abandoned · by me. " 
+Mter saying this, the Brahmal).a lady went away, 0 excellent 
+king. 
+The child in that plight lay still for a short while. Then it 
+threw up the hands and legs winking the splendid eyes. Then 
+it opened its eyes and cried making shockingly awful sounds. 
+Due to the sound the mobile and immobile beings became 
+frightened. The earth shook violently along with its moun­
+tains, forests and parks. On taking that hungry Brahmal).a child 
+to be some great spirit, the tree continued to spread its shade 
+over him. For the sake of drinking, the child had its nectarine 
+exudation, 0 descendant of Bharata. Thus the boy grew up 
+there. He delightedly pondered: 'What is the state of Planets 
+in my case?' Thereupon the Planet of cruel movements (i.e. 
+Saturn) was angrily looked at and Sanaiscara, the Planet of 
+slow motion, fell suddenly on to the ground. Utterly fright­
+ened he joined his palms in veneration and said: "0 Brahmal).a, 
+0 Pippalada, 0 great sage! What is my offence, pray? I was 
+moving in my orbit in the space. Why have I been caused to 
+fall on the ground? " On being asked thus by the son of the 
+Sun (i.e. Saturn) , Pippalada, the great sage, spoke these words 
+angrily. Hear it, 0 king: "0 Sauri (son of the Sun) , 0 evil­
+minded one, why do you harass me, a child bereft of father 
+and mother? Explain to me thoroughly. " 
+Sanaiscara said: 
+34-45. 
+Ruthlessness is my innate nature. My viewing is also 
+likewise. Leave me free. I shall undoubtedly do what you ask 
+me to do. 
+Pippalada said: 
+From now onwards, children upto the age of sixteen should 
+not be tormented by you. This condition has been stipulated, 
+0 Planet. 
+He said "Let "it be so". Mter saying this, he went away and
+
+## Page 166
+
+154 
+Skanda Purii:IJa 
+returned. The Slow-moving One (Saturn) bowed down to the 
+excellent sage and took the celestial path. 
+When he vanished, the boy of great tenacity thought of his 
+father and was overwhelmed with anger. He concentrated his 
+mind on fire and created fire there. He uttered Krtya Mantras 
+and performed Homa in the fire uttering "May the Krtya issue 
+forth". At once that girl adorned with clusters of flames and 
+resembling fire came out and said: "What shall I do? Shall I 
+dry up the seas? Shall I smash down the mountains? Shall I 
+envelop the earth? Shall I make the firmament tumble down? 
+On whose head shall I fall? 0 Brahmal).a, whom shall I slay? 
+Let the task be mentioned quickly. Do not cause waste of time 
+for me." 
+O n hearing her words, Pippalada of great austerity, got his 
+eyes red in colour and spoke these words: "0 auspicious lady, 
+it was with great paroxysm of anger that you have been thought 
+of by me. My father is Yajiiavalkya. Fall on him. Do not delay. " 
+On being told thus, she went hurriedly exploding the firma­
+ment. Yajiiavalkya, the noble-souled, highly intelligent, great 
+sage was performing penance staying at Mithila. The highly 
+refulgent sage looked around at the various quarters when he 
+saw the great spirit having the lustre of fire and the sun, present 
+there. 
+46-58. 
+On seeing it arriving suddenly, the great sage became 
+very frightened. Pursued by the spirit he went to King Janaka. 
+"Know that I, ordinarily a refuge to others, have come to you 
+(for protection) , 0 excellent king. If you are capable, 0 king, 
+save me from the terror of the great spirit. " The king spoke 
+these words: 'The spirit has originated from Brahmal).ical splendour. 
+It cannot be restrained. It is difficult to overcome. I cannot 
+prot<:ct you. " 
+Thereafter the great ascetic went to another excellent king, 
+seeking refuge. Abandoned by him, he went to the abode of 
+lndra out of fear. The trembling Brahmai.J.a repeatedly said: "0 
+king of Devas, I offer obeisance to you. Save me from the fear 
+of the great spirit. " 
+On hearing his words, the King of Devas said· this: "I am 
+unable to save you from the fury of a Brahmal).a. " 
+Then that Brahmal).a, the most excellent one· among the 
+knowers of Brahman, went to Brahma's ab.ode and then to
+
+## Page 167
+
+V.iii.42.59-66 
+155 
+Viᤄl).uloka. He was addressed by him too in the same way. 
+Then, 0 king, the sage became distressed and lost hope of 
+remaining alive. Pursued by the spirit he wenL to the abode of 
+Sankara. Yajiiavalkya who was endowed with the power of Yoga, 
+0 son of Pal).<;lu, concealed himself in the middle of the flesh 
+and nail (of Lord Siva) so much so that even the Lord could 
+not see. 
+At last the spirit arrived there blazing with the ll;lstre of fire 
+and the sun. It said to Mahe5vara, the Lord of Devas: "Leave 
+off, leave off the person. " On being told thus by that spirit, 0 
+descendant of Bharata, Mahadeva showed the leading Yogin 
+between the nail and the flesh. The Lord of goblins subdued 
+the spirit and said to the sage who had been in great danger: 
+"0 great sage, 0 Brahmal).a, do not be. afraid. Come out. " 
+Thereafter on seeing the spirit settled in a very subtle body, 
+he asked thus: "0 great spirit, what will you do with him? Tell 
+me. 
+.. 
+The Krtya said: 
+59-66. 
+0 Lord of Devas, I have been thought of by Pippalada 
+overwhelmed with anger. I shall destroy hi·s body. 0 Lord, I 
+have been invoked for doing this act of violence. 
+On hearing these words that had escaped from the mouth 
+of the spirit, Mahadeva, conversant with Mantras whispered 
+᥅orne Mantras to Yajiiavalkya who was stationed in his waist. 0 
+Yudhiᤄthira, he gave the Brahmal).a the name Yogisvara. The 
+Lord of Devas discharged him and vanished there itself. 
+Pippalada had sent away that spirit. But he was gloomy on 
+account of his parents. He resorted to the bank of Narmada 
+and performed penance standing on a single toe and abstain­
+ing from food till his sixteenth year. 0 king, he thus propiti­
+ated the Lord of Devas, Sail.kara along with Uma. Thereafter 
+Sankara who was pleased with him spoke these words: 
+lsvara said: 
+0 Brahmal).a of good holy rites, I am pleased with your 
+penance. Choose a boon wished for by you mentally. I shall 
+grant it.
+
+## Page 168
+
+156 
+Skanda Purii:rJ.a 
+Pippaliida said: 
+If the Lord is pleased with me, if a boon has to be granted 
+to me, 0 Lord Mahe5vara, be present in this Tirtha here. 
+67-74. 
+On being told thus, the Lord said to PippaHida, the 
+great sage, "So be it" and vanished along with the groups of 
+goblins. 
+Mter the Lord had gone Pippalada took his holy bath in the 
+great waters, installed Mahadeva and went to Uttara Parvata 
+(Northern Mountain) . A person should take his holy bath devoutly 
+in the Tirtha there, uttering the relevant Mantras, 0 king, 
+propitiate Pitrs and Devas and worship Mahe5vara. He shall get 
+the excellent benefit of Asvamedha Yajiia (horse-sacrifice) . On 
+death he goes to the city of Rudra. No doubt should there be 
+in this connection. 
+With the Pitrs in view, the devotee should feed BrahmaQas, 
+0 descendant of Bharata. They will rejoice in heaven for twelve 
+years. 
+If any one adopts Sannyasa and abandons his body in the 
+Tirtha, his goal (destination) shall be Ruc!raloka from where 
+he will never return. 
+Thus everything that was asked by you (i.e. the greatness 
+and the origin of the Pippalada Tirtha) , 0 sinless one, has 
+been explained. 
+This is meritorious, destructive of sins, conducive to wealth, 
+dispelling evil dreams and all the sins of those who read or 
+listen to shall be dispelled. 
+CHAPTER FORTYfHREE 
+The Greatness of Vimalesvara Tirtha 
+Sri Miirka7J-4eya said: 
+1-8. 
+From there, 0 great king, a pilgrim should go to the 
+excellent Vimale5vara. There ·the divine rock (Devasila, the 
+divine slab) is beautiful, made by Devas themselves. The per­
+son should take his holy bath there with devotion and adore
+
+## Page 169
+
+V.iii.43.9-18 
+157 
+Brahmal).as. 0 king, even with the least of Dana he will gain 
+much. There is no limit thereto. 
+Yudhi$thira said: 
+0 great Brahmal).a, what are those Danas considered praise­
+worthy in the world, on offering which devoutly a man be­
+comes liberated from all sins? 
+Sri Markar:ttf.eya said: 
+Gold, silver, copper, jewels, pearls, plots of land and cows 
+gifted liberate a man from inauspiciousness. 
+He who abandons his life in that Tirtha shall reside in Rudraloka 
+as long as the ultimate destruction qf alJ. living beings. 
+From there he should go to Puᤄkaril).i that is destructive of 
+all sins. Mter taking the holy bath there, he should adore Lord 
+Divakara (Sun-god) , a mass of splendour. 
+He should recite a ᥆k or a Saman hymn. He shall attain the 
+benefit of reciting Samaveda. 
+By uttering a Mantra of Yajurveda or ᤒgveda he will attain 
+the benefit of reciting (the whole of) Yajurveda or ᤒgveda 
+similarly. 
+Meditating on Divakara he should recite the Mantra or even 
+a syllable thereof. By the Japa of Adityahrdaya one is liberated 
+from all sins. 
+9-1 8. The devotee should take his holy bath in that Tirtha 
+and duly adore Brahmal).as. His merit becomes a crore times 
+more. There is no doubt about it. 
+One who dies in that Tirtha through abstention from food­
+intake, or by entering fire, or falling into the waters or by 
+jumping from the rocky precipice attains the great goal (Mokᤄa) . 
+0 excellent king, a Brahmal).a, or a I<Jiatriya, or a Vaisya or a 
+Siidra performing the duties laid down, shall attain the greatest 
+goal (Mokᤄa) . 
+Yudhi$thira said: 
+Tell me the means whereby all the different Varl).as (castes) 
+become freed from all sins after knowfng ailments, loss of 
+energy and delusion.
+
+## Page 170
+
+158 
+Skanda Purii:IJa 
+Sri Miirkm;uf,eya said: 
+A Brahmal)a devoid of lust and anger, forsaking his life 
+through fasts, obtains the goal of the good by making use of 
+gingelly seeds mixed with water (for libation) and gingelly oil 
+for head bath. A ᤐatriya shall attain the goal of the good by 
+courting death in battle. In case there is no war, 0 highly 
+intelligent one, he shall obtain the same through service. One 
+suffering from a chronic illness or under the adverse influence 
+of evil Planets or a very old man or one whose sense-organs 
+have been impaired, should burn himself in fire duly and obtain 
+the goal of the good. 
+A Vaisya too abandoning his life in this manner shall attain 
+auspiciousness. With purity of feelings, he should abandon 
+himself into the waters and attain the status of Siva. 
+A Sudra too obtains good goal by serving Brahmal)as and 
+propitiating Mahdvara. Otherwise he is not liberated. The sinner 
+falls certainly into hell. 
+Or if he is unable ·to make use of Pral)ava, or to offer gifts 
+to Brahmal)as as well as the preceptor, he should dry up his 
+body in the five fires after taking leave of excellent Brahmal)as. 
+1 9-26. 
+He should take leave of Brahmal)as who are quies­
+cent, have self-control, have controlled anger and who have 
+mastered scriptures and are very efficient. He should prepare 
+Kariljagni (fire of dry cowdung) with their advice (to burn 
+himself) . 
+Thus the Varl)a᥇become deluded by arrogance, by following 
+wrong methods (?) Just as a blind man falls into the cave of a 
+mountain so also they fall into a terrible hell. 
+Those who eschew the injunctions of the scriptures and 
+behave as they please, are born as worms. No balls of rice are 
+offered to them nor need they be offered libation and other 
+rites. 
+Those who resort to activities according to their whims and 
+fancy, abandoning the pious rites mentioned in the Sruti and 
+Srnrti do fall into hell. 0 Yudhighira, there are tw᥈nty-eight 
+crores of Narakas (Hells) . They may fall into any or all of these 
+hells. Human birth is rarely achieved, 0 king. It is acquired 
+by means of many pious rites. 
+Being born as a maQ, one who eschews arrogance and malice,
+
+## Page 171
+
+V.iii.43.27-V.iii.44.8 
+159 
+con trolling himself always, he alone can be called Jniinacak,m̍ 
+('Knowledge-eyed' i.e. wise) 
+If one is blinded by the Timira (disease of the eye, dark­
+ness) of ignorance and one's eye is not opened by the appli­
+cation of collyrium of perfect knowledge, one should be known 
+as congenitally blind. 
+0 excellent king, thus everything that was asked by you has 
+been explained. 
+27-33. 
+As uttered by Rudra himself, Narmada is the most 
+excellent of all rivers and has issued forth from Rudra's body. 
+She shall redeem all living beings, mobile and immobile. This 
+highly meritorious river has been made to come down for the 
+benefit of all the worlds, by the noble-souled Isvara, the pre­
+siding deity of all the Devas. 
+The sins committed mentally, verbally and physically perish 
+as a result of the holy bath. This river has come out of Rudra's 
+body. Hence she is highly meritorious. Everyday a devotee should 
+get up in the morning and step on the ground devoutly. Then 
+he should recite this Mantra. 0 dear one, he attains the ben­
+efit of the holy bath: "Obeisance, 0 divine one of meritorious 
+waters. Obeisance to one that flows towards the ocean. 0 redeemer 
+from sins, I make obeisance to you. Obeisance, 0 excellent­
+countenanced divine one. Obeisance to you who are served by 
+groups of excellent sages. Obeisance to you who have issued 
+forth from the body of the Three-eyed Lord. Obeisance to you 
+who are the most excellent one of those of holy activities. 
+Obeisance to you who are the perpetual sanctifier of all holy 
+ones. " 
+CHAPTER FORTYFOUR 
+Eulogy of Sitlabheda 
+Sri Marka?j.rf,eya said: 
+1-8. 
+Listen, 0 king, to that Tirtha which is the most ex­
+cellent one of all the Tirthas. It has been created by the Trident­
+bearing Lord on the southern bank of Reva. It has been cre­
+ated, 0 excellent king, for the salvation of all great men.
+
+## Page 172
+
+1 60 
+Skanda Purii:r;ta 
+Yudhiţthira said: 
+0 excellent Brahmar:ta, various pious rites have been heard 
+by me with your favour. All the Danadharmas and different 
+kinds of Tlrthas also have been heard. I wish to hear about 
+another thing whereby Saril.sara (worldly existence) is cut off 
+and salvation is attained and there is no rebirth. Do recount 
+all these things. Please do me this favour, 0 excellent Brahmal)a. 
+Sri Miirkar;tf/,eya said: 
+Listen with single-minded attention to the Tlrtha greater 
+than the other Tlrthas. On hearing its power, one is rid of the 
+sins committed during a year, whether the sins be verbal or 
+mental or particularly physical. By glorifying that Tlrtha one 
+is liberated from all sins. 
+The Tlrtha extends to five Krosas, 0 king.. It bestows worldly 
+pleasures and salvation. It is divine and beneficent to the living 
+beings that commit sinful deeds. 
+On the southern bank (of Reva) there is a mountain named 
+Bhrgu. It is on its top that the Tlrtha has been established by 
+Sarilbhu. 
+9-20. It is well known as Siilabheda in all the three worlds, 
+0 king. The trees that grow there in all the four quarters of 
+the Tlrtha undoubtedly go to the abode of Rudra when they 
+fall down. 
+The creatures and birds on the earth that die there in that 
+Tlrtha go to the greatest world. There is no doubt about it. 
+The Ganga that issues from Patala is called Bhogavatl. She 
+has come out through Siilabheda. She is destructive of all sins. 
+There is another great meritorious river named Glrvar:ta flow­
+ing there into the middle of the Kur:tc;la which has been dug 
+up by th᥉ Trident-bearing Lord by piercing with it (i.e. his 
+trident) . 
+Then the ancient river Sarasvatl issued forth, 0 king, which 
+redeems one from all sins. 
+In the place where these three including Bhasvatl flow and 
+where there is the rock called Glrvar:ta there is a Tlrtha the like 
+of which was never before nor will there ever be (hereafter) . 
+Kedara, Prayaga, Kurukᤄetra, Gaya and other excellent Tlrthas 
+do not merit even a sixteenth fraction of that Tlrtha. Five holy
+
+## Page 173
+
+V.iii.44.21-34 
+161 
+places are separate Tirthas. I shall recount them in aggregate 
+succinctly and then each one separately. 
+Just as Gaya is meritorious in Nabhi, Cakratirtha is on a par 
+with it. Just as Kupa (Well) in DharmaraQ.ya is meritorious, 
+Sulabheda is on a par with it. Just as Brahmayupa is merito­
+rious, the case of Devanadi is of that sort. Just as Gayasiras is 
+meritorious, so also is the Sila (Rock) of the Suras; just as the 
+Puliikara shrine, so also is MarkaQ.<;lahrada. Offering balls of 
+rice and libation of water to Pitrs there is everlasting to the 
+Pitrs. He who performs Sraddha there and drinks the water 
+everyday is liberated from all sins like a serpent which is lib­
+erated from its slough. The devotee should honour unblamable 
+BrahmaQ.as bereft of arrogance and anger. 
+21-28. 
+A Dana rite extending to thirteen days shall be 
+thirteen times more meritorious. 
+By visiting the venerated God GaQ.anatha with a counte­
+nance resembling that of an elephant, all obstacles perish after 
+seeing the Lord of Karilbala ᤐetra. One should worship with 
+great devotion, Mahdvara with the trident in his hand. Uma 
+has to be carefully adored to the east of the Lord. Thereafter 
+the person shall devoutly worship MarkaQ.<;lesa residing in the 
+cave. He is liberated from all sins committed knowingly and 
+unknowingly. 
+One who has entered the centre of the cave should recite 
+the three-syllabled Sukta (or Sukta beginning with tri-ambakam 
+yajiimahe) . He will obtain a sixth fraction of the merit accruing 
+from Nilaparvata. Trinaras (? three men) stand there with the 
+Adityas and Maruts. 
+Excellent is the Kotiliri.ga Sthana full of all the Devas. Just 
+as all the rivers ultimately get merged in ocean, so also the sins 
+perish by visiting Sulabheda, the proof of which is directly 
+perceived even today, 0 king. 
+29-34. 
+Sparks appear in the centre of the Liri.ga when 
+bathed. The second proof there is that a drop of oil does not 
+spread. This is the proof originating from the power of Sulabheda. 
+He who remembers Sulabheda everyday three times shall 
+become purified internally and externally, 0 king. 
+Though I had been asked even by Suras, it was not men­
+tioned to anyone by me. The Tirtha has to be treated as the 
+greatest secret of all secrets.
+
+## Page 174
+
+1 62 
+Skanda Purii:TJa 
+It should always be considered secret. It is destructive of all 
+sins, of all defects. It is meritorious and excellent, 0 Lord of 
+people. Siilabheda is the Tirtha full of all Tirthas. When its 
+power is heard one is rid of all sins. 
+0 dear one, Siilabheda has been succinctly narrated to you. 
+A man who devoutly listens to it is rid of all sins. 
+CHAPTER FORTYFIVE 
+Andhaka Gets a Boon 
+Sri Miirka'T]tf,eya said: 
+1-8. 
+This very question was put to Mahe§vara formerly by 
+King UWinapada in the assembly of sages and Devas. 
+Uttiinapiida said: 
+This Tirtha is extremely meritorious and full of all Devas. 
+It is considered as more secret than others so much so that no 
+other more secret place has been heard or seen. How did 
+Siilabheda come into being? By whom has it been created? 0 
+Lord, tell me in detail the greatness of that Tirtha. 
+lsvara said: 
+Formerly there was a Danava of great vigour, arrogant of his 
+strength. No man was great in strength like him. He was son 
+of Brahma's son. He was irrepressibly arrogant and his name 
+was Andhaka. Staying in his own abode, he, the sinner, ruled 
+his kingdom bereft of thorns (opponents) . He was well nour­
+ished and highly delighted. He stayed in the mortal world but 
+he could not be assailed by the Suras. The abode of that sinner 
+was as though a garden of fire. 
+In the meanwhile, 0 descendant of Bharata, he thought 
+thus on a certain occasion: 'I shall propitiate Mahadeva whereby 
+he will bless me. I will request him for a divine boon which 
+is in my mind. ' 
+After resolving thus, Andhaka went out of his house. 
+9-1 7. He reached the bank of Reva. The Danava performed
+
+## Page 175
+
+V.iii.45.18-26 
+1 63 
+a fierce and severe penance that caused hairs to stand. He 
+abstained from food for a thousand divine years. The second 
+thousand of divine years, he spent taking in only water. In the 
+third thousand, he was engaged in inhaling smoke. For the 
+fourth space of thousand years, he practised Yoga. No one 
+before had performed an extremely fierce penance of this 
+sort. 0 descendant of Bharata, (his) only the bones and skin 
+(in his body) remained. 
+A column of smoke rose from his head, 0 king, which went 
+beyond Devaloka and remained pervading Kailasa. 
+Then Uma who was seated near the Lord spoke these words: 
+"Who is this engaged in fierce penance in the human world? 
+0 Paramdvara, four thousand years have elapsed. Such a pen_ance 
+has never been performed by anyone. A penance like this has 
+not been seen or heard. 0 Lord, why are· you indifferent in 
+regard to this devotee endowed with regular observances. 0 
+Lord, you grant boons quickly to all others with less penance. 
+0 Mahe᥊vara who are reputed to be a lover of devotees, until 
+this Danava is raised up (from penance) I would rather not 
+play the game of dice with you. " 
+lsvara said: 
+1 8-26. 
+Excellent! Excellent! 0 great goddess marked with 
+all auspicious characteristics, I do not know that the great 
+Danava is undergoing sufferings. 0 fair lady, he has estab­
+lished himself in the Yogic practice meditating on the greatest 
+position (Brahman) . Come with me to the place where he is 
+performing his penance. 
+After saying this, Lord Mahesvara went there accompanied 
+by Uma. He was seen by Lord Saril.bhu as one reduced to mere 
+bones and_ skin. The delighted Mahesvara, the Lord of Devas, 
+said: "Oh ! A strenuous feat has been displayed by you, terrible, 
+awe-inspiring and causing horripilation! Why have you, 0 dear 
+one, performed such a terrible penance? I shall grant you the 
+boon, 0 dear one, whatever may be in your mind. " 
+Andhaka said: 
+If you are pleased with me, 0 Lord, if you wish td grant a
+
+## Page 176
+
+1 64 
+Skanda Puriir_ta 
+boon, 0 Sailkara, 0 Mahesvara, I shall vanquish all the Suras 
+with your favour. 
+isvara said: 
+The Devas should never be fought with, even in dream. 
+What is impossible should not be mentioned-what is not ap­
+pealing to the mind. Request for something else which may be 
+in your mind. You will enjoy different kinds of pleasures in the 
+mortal worlds or Patalas on a par with the pleasures of Svarga. 
+Do rule the kingdom without impediments, like the Lord of 
+Devas in Svarga. 
+27-33. 
+On hearing the words of the Lord, Andhaka stood 
+there disappointed and gloomy. He said: "My painful struggles 
+and austerities have become futile. Nothing has been achieved 
+by me. " He took a deep sigh and fell on the ground like a tree 
+the roots of which have been cut. He lay breathless. 
+On seeing him senseless, the Goddess spoke these words: "0 
+Sankara, grant this (Danava) whatever he desires. If you ne­
+glect your devotees, it will result in your disrepute. " 
+isvara said: 
+0 goddess, if I grant him the boon in accordance with his 
+wish, then he will never care for ViᤄI).u, Brahma, even for me 
+and also other Suras. 0 goddess of Devas, having attained the 
+height of power, he will slight and disregard all. 
+The Devz said: 
+0 Mahesvara, lift him up by some means. Let a boon be 
+granted like "Conquer all the Suras except ViᤄI).u." 
+isvara said: 
+34-41 . 
+This is the same splendid way, 0 fair lady, as has 
+occurred to my mind. I shall grant him the boon as has been 
+suggested by you. 
+Then being sprinkled with nectar, he became normal and 
+peaceful in a moment. He was refreshed with all the litnbs 
+having regained their splendour.
+
+## Page 177
+
+V.iii. 46. 1-1 3 
+165 
+The Lord said: 
+Listen with concentrated mind. Accept the excellent boon. 
+shall grant you what pleases you excluding the operation 
+thereof against ViᤄI).u. Everything shall be successful in your 
+case. Let not your righteousness be otherwise. 0 Asura, if you 
+are inclined (to accept) I shall grant you the boon. You will 
+conquer all. the Suras, excluding ViᤄI).U and me. 
+A ndhaka said: 
+Let it be so. Relying on my strength alone, 0 Mahesvara, I 
+shall conquer (all) excluding ViᤄI).u. I have become contented. 
+0 Lord, do go along with Uma to the excellent peak of KaiHisa. 
+After this riding on his great buli, the- Lol;d who had granted 
+him the boon, vanished there itself along with Uma. 
+CHAPTER FORTYSIX 
+Abduction of Saci 
+Sn MiirkarJ4eya said: 
+1-4. 
+After getting the boon, the Danava went to his city. 
+It had quadrangles of diverse types. There were many gardens 
+full of plantain groves, jackfni'it trees, Bakulas, mangoes, Amratakas, 
+Carhpakas, Asokas, coconut trees, pomegranates, citrons and 
+various other kinds of fine trees. There were .many lakes beau­
+tifying the gardens. The temples of divine features were deco­
+rated with a series of banners and festoons. The whole place 
+reverberated with the sounds of the chanting of the Vedas and 
+other auspicious passages and musical notes. 
+5-1 3. He entered his divine abode made of gold and golden 
+strings and saw his sons, wife, ministers, servants and slaves. 
+Then he saw many persons shouting cries of victory and run­
+ning about here and there. With ensigns and banners raised 
+up, they revealed the radiance of their hearts. Some of them 
+tied festoons and raised arched doorways. Some of them scat­
+tered flowers. Others rushed towards Andhaka to greet ᥝim 
+with citrons in their hands. Some people in the city were seen
+
+## Page 178
+
+166 
+Skanda Puriir_ta 
+holding vessels filled with cooked food. There itself many people 
+were seen with hands full. There hundreds and thousands of 
+women held pots filled with raw rice-grains. The BrahmaQ.as 
+recited Mantras and the women (sang) auspicious songs. The 
+Ministers and the servants brought elephants as presents. Everyone 
+of the citizens felicitated him. He saw all including the cavalry 
+and infantry in motion. He saw the treasuries filled with gold. 
+He saw she-buffaloes, cows, bulls and umbrellas. 
+In this way Andhaka lived in the mortal world for some time 
+with feelings of elation and satisfaction. He was never attacked 
+by Suras. 
+1 4. 
+Mter coming to know that he had secured great boons 
+the heaven-dwellers began to feel apprehensive. They collected 
+together and sought refuge in Indra. 
+Sakra said: 
+1 5-23. 
+How is it that all the heaven-dwellers have come 
+here? Wherefrom has fear arisen in your case? Why have you 
+come seeking refuge? 
+Thereupon all the Devas spoke these words to Sakra: 
+The Devas said: 
+0 Lord of Suras, there is a Daitya named Andhaka. He has 
+become all the more powerful on account of the boons granted 
+by Sarilbhu. He is invincible unto all the Devas. What should 
+be done now? 0 Lord of Devas, consider this yourself. What 
+means should be employed? 
+Thus the Devas spoke to Sakra. Then they had mutual 
+consultation. While they were doing so, the Danava came to 
+know of it through the reports made by the spies. On coming 
+to know about the congregation of the Devas, the Danava came 
+out of his abode alone, seated in his chariot and equipped with 
+inany weapons. 0 king, he passed over the impassable upper 
+ridge o᥋ Meru sportingly. It had been strengthened with golden 
+ramparts. The upper surface of Meru was rendered splendid 
+through different kinds of hermitages. It was very difficult for 
+the hordes of enemies to gain access to that place, 0 excellent 
+king. The Asura however entered that place sportingly (and
+
+## Page 179
+
+V.iii.46.24-38 
+1 67 
+without effort) as though it was his own abode. The Slayer of 
+Vrtra (i.e. lndra) became afraid and he offered his own seat. 
+Andhaka sat there on the splendid seat of Sakra himself. He 
+surveyed the entire place full of the Devas all round. 
+Sakra said: 
+24-33. 
+What is the purpose of your visit to this place? Do 
+tell me. 0 Danava, whatever we:1lth we possess, I shall hand 
+over to you. 
+A ndhaka said: 
+I do not desire the wealth, nor elephants, 0 Lord of Suras; 
+show me your great elephant Airavata embellished with all 
+heavenly ornaments. Show me the horse·uccai):lsravas, the jewels 
+(beauties) beginning with Urvasl. 0 Lord of heaven, show me 
+the flowers of Parijataka and the many varieties of trees. 0 
+Consort of Sacl, show me all the kinds of musical instruments. 
+On hearing these words of his, Sakra thought thus (in his 
+mind) : 'I don 't see at all anyone who can kill this sinner. (If) 
+the heavenly world is miserable, there is no one to accord it 
+protection. ' Frightened thus, he gave the musical instruments 
+and other things. After making the Asura seated on the stage, 
+he made the groups of Apsaras perform the Tat:u;lava dance. 
+All the Suras including Yama, Maruta and Kinnaras also sat 
+there. 0 king, one by one all the Apsaras beginning with Urvasi 
+danced before him to the accompaniment of songs and musical 
+notes of the instruments. His mind was never at rest. (His 
+mind was not satisfied) after witnessing the Apsaras, 0 king; 
+his mind became enamoured of Saci. He seized Sakra's wife 
+and proceeded towards his city. Thereupon the war between 
+Andhaka and the Stiras ensued. 
+34-38. 
+With different kinds of weapons such as discus, 
+thunderbolt and other heavy means of fighting all the groups 
+of the Devas were smashed, 0 excellent king, in the war. All 
+the Suras became distressed. They were destroyed in many 
+ways. All the Maruts were broken down at the war front. Just 
+as a single lion walks (triumphantly) through the forest after 
+killing all the elephants, so also he, single-handedly defeated 
+all of them and routed them. Just as the immature lord of a
+
+## Page 180
+
+1 68 
+Skanda Purii:r:ta 
+village may harass all the people and seize wealth and gar­
+ments and never feels the harassment of subjects for himself, 
+so also that great Danava seized Sakra's wife and went away. 
+CHAPTER FORTYSEVEN 
+Devas Return to Svarga 
+Sri Miirkar.u!eya said: 
+1-3. 
+All the GirviiQ.as (Devas) sought refuge in Brahma. 
+They reached the world of Brahma, riding on their elephants 
+having the size of excellent mountains, horses comparable · to 
+elephants, chariots having the size of a city fitted with lions 
+and tigers, and also on tortoises, buffaloes and crocodiles. The 
+Devas reached the world of Brahma with Sakra as their leader. 
+On seeing the Lotus-born Lord, the Suras prostrated them­
+selves with the eight ·limbs touching the ground. 
+The Devas said: 
+4-6. 
+Be victorious, 0 Lord worthy of being respected by 
+the whole universe. Be victorious, 0 cause of the worldly existence. 
+0 most excellent one among Suras, 0 (Lord) having lotus as 
+your source of origin, we have sought refuge in you alone. 
+On hearing the distressful words of Devas of purified souls, 
+he (Brahma) spoke to Devaraja (lndra) in a voice deep and 
+majestic like the rumbling of clouds: 
+"Why have you come here, 0 Devas? Wherefore is this pallor 
+seen on the face of everyone? By whom have all of you been 
+insulted. May this be reported to me quickly. " 
+The Devas said: 
+7-1 1 . 0 Lotus-born Lord, the great Daitya named Andhaka 
+is enormously powerful. By him all the groups of the Devas 
+have be᥌n deprived of their wealth and jewels. Mter killing 
+groups of Devas by means of sword, discus and axe, that Danava 
+abducted Sakra's wife forcibly and went away. 
+* 
+* 
+*
+
+## Page 181
+
+V.iii.47.12-19 
+1 69 
+On hearing the words of the Devas, Brahma, the grandfa­
+ther of the worlds, began to ponder, 0 great king, about the 
+means of slaying the Danava: "The sinful Danava cannot be 
+killed by you all the heaven-dwellers. He (i.e. ViᤄQ.u) is the 
+saviour of all the worlds. There is no one else." 
+Thus all the Suras were addressed by Brahma. Thereafter, 
+keeping Brahma at the head, all of them went to the place 
+where Kesava was present. They (Brahma and others) eulo­
+gized the Discus-bearing Lord by means of hymns of prayer. 
+The Devas said: 
+1 2-19. 
+0 Lord of the chiefs of Devas, 0 Lord whose bosom 
+has been resorted to by Lakᤄmi, be victorious. 0 Lord of Devas, 
+0 destroyer of Asuras, we have sought refuge in you. 
+On being eulogized by all the Suras beginning with Brahma, 
+Janardana became pleased in his mind and said to the groups 
+of the Suras: 
+, 
+Sri Vasudeva said: 
+Welcome unto the Devas and Vipras. Today the night has 
+dawned very well (by your arrival) . What is your task on hand? 
+Let it be mentioned quickly. With whom are the heaven-dwell­
+ers angry? What is your misery? What is your distress? Whence 
+has terror originated? 0 highly blessed ones, mention the cause 
+thereof and whatever lurks in your minds. Today let that person 
+'who has caused discomfiture (to you) go to the abode of Yama. 
+On being told thus by KrᤄQ.a, they all said, shyly pointing out 
+their bodies and bowing down their heads: "0 Lord, we have 
+been deprived of our kingdom by Andhaka and hence ren­
+dered lustreless and lacking all radiance. 0 Lord, protect us 
+like a father protecting the son. Slay the enemy of Indra along 
+with his sons and grandsons." The Lotus-seated One (i.e. Brahma) 
+also said thus. Thereupon the great Lord whose lotus-like feet 
+have been bowed down to by Suras and Asuras, and who was 
+equipped with the conch, discus, club and bow, got up from 
+the couch of serpent. He stood in front of the Devas.
+
+## Page 182
+
+170 
+Skanda Purii:r:ta 
+Sri Vasudeva said: 
+20-22. 
+I will kill that sinner by whom the Suras have been 
+harassed, (wherever he happens to be) whether he stays in 
+Patala, mortal world or in heaven itself. May the Devas go to 
+their own abode contented with enhanced energy. 
+On hearing those words of Vi!;QU, all of them beginning 
+with Brahma and including Vasava, bowed to Hari delightedly 
+and went to heaven by means of their respective vehicles. 
+CHAPTER FORTYEIGHT 
+Andhaka Blessed 
+Uttanapada said: 
+1-6. 
+0 Lord, in which place did that Andhaka, the great 
+Daitya, stay? After conquering all the Devas which place did he 
+resort to? 
+Sri Mahesa said: 
+0 king, I shall tell you the place which the Danava resorted 
+to after reaching Patala. He began to ravish girls. Kdava came 
+to know that the Danava was staying there. He took up the bow 
+and discharged an Agni missile, intending, 'Let him (Andhaka) 
+be burned.' 
+When he was. scorched by fire, he (Andhaka) discharged a 
+Varul)a missile. The Agneya missile was subdued by the great 
+VaruQa missile. 
+Then he began to think, 'By whom has this arrow been 
+discharged? Whose is this manly power? Who will (hence) go 
+to the abode of Yama?' 
+Thereupon the demon Andhaka, infuriated in the battle, 
+set out along the path of the arrow and saw Janardᤩna with the 
+bow kept ready in his hand. 
+Andhaka said: 
+7-1 4, You will not be happy any more, that you have been
+
+## Page 183
+
+V.iii.48.15-24 
+1 71 
+seen by me. Just as an elephant cannot escape from the sight 
+of a tiger, so you too cannot go. When a mouse falls a prey 
+to a cat, it cannot get away. You are in a similar plight in front 
+of me. 
+I am goinᤪ to send you along the terrible path of Yama. I 
+have been searching for you and was about to proceed towards 
+your abode. But, 0 Kesava, you have been brought into a 
+straight fight with me by Kala. All those many Danavas who 
+were defeated earlier by you were not men, they were only 
+women, 0 Kesava. But I will not fight with you by means of 
+any weapon. 
+Even as the great Danava spoke thus, Kesava did not become 
+angry. On seeing him not caring to fight, t}le Danava thought 
+thus: 'I shall have a (wrestling) duel with him.' After resolving 
+thus, 0 king, he fought. He was kicked down to the ground 
+by KrᤁQ.a with his foot. 
+Within a short while he composed himself and got up. Realizing 
+that he was incompetent for a full-fledged duel, he began to 
+employ the expedient of Saman (peaceful overtures) . He brought 
+together the palms with pure intentions and prostrated him­
+self with eight limbs touching the ground. 
+Andhaka said: 
+15-24. 
+Be victorious; obeisance to KrᤁQ.a, Hari, ViᤁQ.u, the 
+_victorious. Be victorious, 0 Hpᤁlkesa. Obeisance to the creator 
+of the universe, to the noble-souled Acyuta. Obeisance to the 
+lotus-navelled one. Obeisance to the Lord having lotus gar­
+lands, to Srlsa (Lord of Sri) , to Janardana, to the yellow-robed 
+one. 0 Srlpati, be victorious. Perpetual obeisance to Govinda. 
+Obeisance to the Lord lying down in the ocean. Obeisance to 
+the roaring Narasirilha of a hideous face. Obeisance to Sanigin, 
+of dark complexion, holding the conch, discus and club. Obeisance 
+to you, the Lord in the form of Vamana, to the Lord in the 
+form of Yajiia. Obeisance to the Lord in the form of Varaha; 
+to the Lord who measured the three worlds with (three) steps. 
+Obeisance, obeisance to Kesava who has pervaded all the quarters. 
+0 Vasudeva, obeisance to you. Obeisance to the destroyer of 
+Kaiᤍabha. Obeisance to you, 0 most excellent one among Suras, 
+0 leader of Suras, 0 resort of Lakᤁmi. I bow unto all those who 
+pay respects to ViᤁQ.U, the Lord of Devas, to Prajᤫpati, the
+
+## Page 184
+
+1 72 
+Skanda Purii:1Ja 
+creator of the universe. I bow unto all those who make obei­
+sance to the intelligent Vasudeva, the Lord of the entire range 
+of living beings. I bow unto all those who make obeisance to 
+Vi1;iQU of immeasurable brilliance, the Yajii.avaraha (the boar of 
+sacrificial features) . Again and again I make obeisance unto 
+you, the storehouse of all Gur:tas. 0 Lord, 0 ocean of mercy, 
+0 Lord fond of all devotees and all forms of devotion ! 
+Sri Bhagaviin said: 
+25-28. 
+0 great Danava, I am pleased with you. Choose any 
+boon as desired. I shall grant you a boon even if it be some­
+thing rare in all the three worlds. 
+A ndhaka said: 
+0 Lord, if you are pleased with me and are willing to grant 
+me a desired boon, 0 Lord, then do grant me the favour of 
+a fight with you that is extremely splendid. Thereupon, sanc­
+tified by your hands, I shall go to splendid worlds. 
+Sri Bhagaviin said: 
+How can l fight with you now that I have been propitiated 
+by you? My anger cannot be aroused against you, 0 Andhak(!, 
+How will I then fight? You are undoubtedly inclined towards 
+combat. If so, do go to fight with Lord Mahesvara. 
+Andhaka said: 
+29-36. 
+There my objective is not ·achieved. 
+Sri Bhagaviin said: 
+Son, go and shake the peak (of Kailasa) with all your might. 
+When the peak is shaken the Lord of Devas shall become 
+terribly infuriated. 0 Danava, the enraged Sankara shall grant 
+you the favour of a terrible fight. 
+At the instance of Vi1;iQU, the sinful Danava went to the place 
+where Mahesvara was present. After reaching the Kailasa peak, 
+he shook it frequently. When the peak was shaken, all the 
+three worlds too shook. The many summits of the peaks shook
+
+## Page 185
+
+V.iii.48.37-44 
+1 73 
+and fell down . 0 king, soon the four oceans became one. 
+Meteors fell and many trees tumbled down. In the company 
+of Uma, the Lord became surprised. Goddess Girija closely 
+embraced the Lord and spoke these words: "0 Lord, why does 
+this mountain shake? Why does this earth quake? Why do the 
+serpent Seᤁa. the mortal world and the nether worlds shake? 
+Is this the utter annihilation of the Yuga? It behoves you to 
+narrate it to me. " 
+lsvara said: 
+37-44. 
+Whose mind has become wicked? Who has put his 
+hand into the mouth of the serpent? On whose forehead Varman1 
+(coat of mail?) h,as been put? He will go to the abode of Yama. 
+I have been asleep after resorting to Kai}'.isa. Undoubtedly if 
+anyone wakes me up and comes face to face with me I will kill 
+him. 
+The Lord of Devas further thought, 'There is no doubt 
+about this that this is Andhaka. ' Thereafter he considered the 
+means whereby he could be easily killed in an instant. 
+All the Suras headed by Brahma came along with the Vasus. 
+He made a chariot consisting of all the Devas. 2 Some of the 
+Devas stationed themselves in the wheel; some at the tip and 
+the sides of the snout. Some of the Devas stationed themselves 
+on the navel and some on the Dhuryas (forepart of the poles 
+of the chariot) . Some remained steady on the Dhuris (foremost 
+part on the chariot) and some on the Yupas. Some of them 
+were the supporting pillars of the Syandana (chariot) . Some 
+were Syandanave${akas (serving as cover of the chariot) . Others 
+stationed themselves on Amalasiiraka (a part of the chariot) 
+and still others stationed themselves on its pot-like dome. Thus 
+the divine chariot rendered splendid by the banners, garlands 
+etc., became terrifying to the enemies. After making this chariot 
+consisting of the Devas, Mahdvara, the preceptor of the uni-
+1 . 
+Probably 'Karman' as Va ("') and Ka (q;) are similar in Devanagari script. 
+If emended thus it means 'On whose forehead is this act imprinted (i.e. 
+to whom has this act been allotted by Destiny) ?' 
+2. 
+An echo of the chariot prepared for killing Tripurasura. Here the names 
+of gods so employed are not given.
+
+## Page 186
+
+1 74 
+Skanda Purii:r;a 
+verse, ascended it. With anger the Lord set out to the place 
+where the Danava was present. 
+45-58. 
+He said, "Stop! Stop! 0 evil-minded one, where do 
+you go?" Taking up the bow in his hand, he discharged arrows 
+at the Danava. When the Danava stood firm in the battle, the 
+Lord cut off his arrows. Andhaka was then covered (with a 
+volley of arrows) . Neither the sun nor the sky, nor the moon 
+were to be seen there. The Danava then discharged the Agneya 
+(pertaining to the Fire-god) missile on Siva. All the Devas trembled 
+with fear on being scorched by the smouldering charcoals dropping 
+from the arrows. (They cried:) "0 Mahadeva, save us, save us. 
+We are being burnt by the Danava. " 
+Thereupon the Lord of Devas fitted a Varuᤂa missile on his 
+bow. Within a moment the Agneya missile was destroyed by the 
+Varuᤂa missile. Thereupon in the battlefield a Vayavya (per­
+taining to the Wind) missile was discharged by the Danava. 0 
+dear one, the Varuᤂa missile vanished on being destroyed by 
+the Vayavya missile. With infuriated mind the Lord then dis­
+charged a Sarpa (serpentine) missile. Undoubtedly the Maruta 
+(Vayavya) missile was destroyed by the serpentine arrows. Thereat 
+a Garu<;la missile was sportingly discharged by the Danava. On 
+seeing the Garu<;la missile the Sarpa missile disappeared. Thereupon 
+a Narasirhha missile was discharged by the Lord of Devas. The 
+Garu<;la missile was destroyed by the Narasirhha missile. Thus 
+one missile was suppressed by another missile. They did not 
+affect either of the'm. 0 dear one, the great war became equally 
+terrifying unto the Suras and the Asuras. Various weapons were 
+employed such as discus, dart, arrow, Tomara, sword, Mudgara, 
+Bhalla and the splendid Karᤂikara. Yet the Danava could not 
+be killed by those diverse kinds of weapons. Then swords, darts 
+and Tomaras, all terrible with flames issuing forth were dis­
+charged by the Bull-emblemed Lord in the battle against the 
+Danava. But like a Gau<;la maiden the missile never touched 
+the body (of the Danava) . 
+· Thereupon Siva and Andhaka abandoned the weapons and 
+engaged themselves in hand-to-hand fight (wrestling) . They 
+caught hold of each other's hands and began to hit with fists. 
+Thus Siva and Andhaka fought employing all the means of a 
+regular war.
+
+## Page 187
+
+V.iii.48.59-74 
+1 75 
+Sri Miirka7J,tf,eya said: 
+59-65. 
+The Lord of Devas began to think about the means 
+of restraining Andhaka. "There is no doubt that I will kill the 
+evil-minded one." 0 excellent king, when he was hurled by 
+Siva the Danava fell on the ground face down and hands lifted 
+up. Then the enemy of Devas became furious. The Lord of 
+Devas was kept in the armpit, pressed and afflicted. Lord Mahesvara 
+became motionless and he swooned. On seeing him senseless 
+the Danava thought thus: 'Alas, an evil action has been per­
+petrated by me, a sinner. What shall I do? Where can I get rid 
+of the Karma? ' 
+He carried the Lord in his arms (in the particular position 
+called Utsanga) and went to the Kailasa mountain. The king 
+of Daityas placed Sankara on the bed ana went out. The Lord 
+who fell on the bed began to feel the pain. He saw himself in 
+his own abode. 
+66-74. 
+"How was this discomfiture brought down upon me 
+by that evil-minded wretch?" Saying this he was overwhelmed 
+with anger and he rushed against the Danava after seizing an 
+iron bar weighing a thousand Bharas. On seeing the Danava, 
+the Lord hurled it on to the head of the Danava. 
+Then the Danava laughingly cut it with his sword. There­
+upon in the great battle the missile named Kaucchera ·was 
+recollected by the Lord. Even as it blazed, it was hurled hitting 
+the Danava in his chest instantly. On being hit with that, the 
+Danava vomited blood. He fell face-down and was pierced with 
+the trident. Again he was split into two by the Lord · of Devas 
+with his trident. Fixed at the tip of the trident the sinful wretch 
+was whirled like a wheel. Every drop of blood that fell on the 
+ground from his body gave rise to Danavas with weapons in 
+their hands. Thereupon the Lord became utterly afflicted on 
+account of the energetic Danava. 
+At that time Durga, Camut:t<;la of terrifying countenance, was 
+remembered by the Lord. Presently she came on the scene 
+shining with different kinds of weapons and striking terror 
+with her very appearance. She had long curved fangs, a huge 
+body, tawny-coloured eyes and the earlobes hanging loose. She 
+said, "0 Lord, may the command be given. Who is to go to the 
+abode of Varna?"
+
+## Page 188
+
+1 76 
+Skanda Purii'T}a 
+lsvara said: 
+75-85. 
+0 fair lady, drink the blood of this Danava as much 
+as you please. 0 Durga, lap up the blood that drops on to the 
+ground. Do not delay. 0 fair lady, extend a helping hand so 
+that I can kill the Danava. 
+On being told thus, that Goddess Durga drank the blood. 
+All the Danavas numbering many thousands were killed by the 
+Lord of Devas. On seeing those Danavas brought down to the 
+ground Andhaka eulogized Mahesvara, the Lord of Devas: 
+Andhaka said: 
+Be victorious, 0 Lord of the chiefs of Devas having half of 
+Uma's body as part of your own body. Obeisance to you, o' 
+Lord of the chiefs of Devas. Obeisance to Sarva, possessing 
+three Gm.tas within him. 
+0 Lord seated on .the bull! 0 Lord with the moon for your 
+crest jewel! Be victorious, 0 Lord with the Khaᤃvailga in the 
+hand. Obeisance to you, 0 Gangadhara. 
+Obeisance to you holding I;>amaru in the harid. Obeisance 
+to the Lord having the garland of skulls. Obeisance to Mahda, 
+the destroyer ᤬f Smara's body. Obeisance to you, to Mahda. 
+Obeisance to the Lord who shattered the teeth of Puᤁan. 
+Obeisance to you, the Lord of Ga1_1as. Be victorious, 0 Lord 
+with a handsome body. Obeisance to the Lord without form, 
+to the multi-formed Lord. 
+0 Sankara, obeisance to the destroyer of the head of Virifici. 
+Obeisance to you, the Lord who reside in the cremation ground 
+and have terrifying forms. 
+You are omnipresent. You are the creator. You are the destroyer. 
+No one eJse. You are the earth. You are the quarters. You are 
+Guru Uupiter) and Bhargava (Venus) . 0 Lord of the chiefs of 
+Devas, you are Sauri (Saturn) and also the son of the Earth 
+(Mars) . All those visible things, the stars, the planets etc., are 
+you yourself. 
+Mter eulogizing the Lord thus, the Danava bowed down to 
+Mahesvara with palms joined together.
+
+## Page 189
+
+V.iii.48.86---V.iii.49.9 
+1 77 
+lsvara said: 
+86-90. 
+Well! Well! 0 Danava of great intrinsic strength, 
+request for a boon . I am the donor and you are the suppliant. 
+I shall grant whatever is desired. 
+Andhaka said: 
+0 Lord of Devas, if you are pleased, if a boon is to be 
+granted to me, then I should be made one on a par with 
+yourself. No other boon. I shall be Bhasmt (one smeared with 
+ash) , ]ati (one having matted hairs) , Trinetii (having three 
+eyes) , Trisult (having a trident) , Caturbhuja (having four arms) , 
+having a tiger hide as the upper garment and serpents for 
+Yajiiopavita. 0 Mahe§vara, if you are pls:ased, I shall desire 
+these. 
+lsvara said: 
+I shall grant you the boon as requested by you, 0 sinless 
+one. Dear son, stationed among my GaQ.as you shall become 
+Bhpi.gisa. 
+CHAPTER FORTYNINE 
+Glorification of Sulabheda 
+Sri Miirkarpf,eya said: 
+1-9. 
+After subduing Andhaka, Mahesvara, the Lord of Devas, 
+Rudra, went to Kailasa mountain along with · uma. 
+Then the Devas too led by Brahma and including Vasava 
+came there. Delighted and contented,. all of them bowed down 
+to the Consort of Parvati. 
+lsvara said: 
+0 Pitamaha! May all those who have come, sit here. For the 
+sake of the Devas, the Danava has been killed. On account of 
+his blood my trident cannot be free from impurities. 0 Brahma, 
+one engrossed in a splendid Vrata, penance and Japya (utter-
+
+## Page 190
+
+1 78 
+Skanda Purii:TJ,a 
+ance of holy names) has been killed. 0 Four-faced Lord, I wish 
+to perform an elaborate pilgrimage. All those of you who have 
+assembled here may come along with me. 
+After saying thus, the Lord of the chiefs of Devas set out 
+towards Prabhasa. Beginning with Prabhasa, he took bath in all 
+the Tlrthas between Ganga and the ocean. Still, 0 king, there 
+was no clearance from impurity. Then the Lord went to Narmada 
+along with the Devas. He, fond of austerity as he was, took bath 
+on the northern as well as southern bank. He then went to a 
+spot named Bhrgu on the mountain on the southern bank. 0 
+king, staying there along with the Devas, Mahadeva wandered 
+over many places. Getting dejected ultimately he sat down. 
+10-1 6. 
+Since that spot appeared fascinating to all the heaven­
+. dwellers, Lord Mahdvara considered it a special Tlrtha (of 
+unique features) and stayed there. 
+He pierced the mountain with his trident. Thereby Rasatala 
+too got split then and the trident became free from impurities. 
+No stain or pollution was seen anywhere. 
+The highly meritorious Bharatl was invoked there by the 
+Devas. The highly meritorious Sarasvatl issued forth from the 
+mountain. Here, there is a second confluence like that of white 
+and black (waters) at Vet:-1 (Prayaga) . Brahma himself installed 
+the excellent Brahmda Liil.ga. It is highly meritorious and 
+destructive of all miseries. Lord Janardana himself is stationed 
+to the south thereof. The river is ever present there at the tip 
+of the foot of Viljt:J.U. There was no outlet to the water as it 
+stood held up within the walls of the pit. With the tip of the 
+trident, a line was drawn. Thereupon, 0 king, the water began 
+to flow and it fell into the great river Reva. 
+1 7-28. 
+The Jalalinga is the highly meritorious Cakratlrtha, 
+0 excellent king. The Lord of Devas himself duly performed 
+the holy ablution at the spot Sulabheda. He considered him­
+self pure as if no sin had been committed. To the northern 
+quarter thereof the Lord of Devas, the preceptor of the uni­
+verse, the trident-bearing Lord of the chiefs of Devas estab­
+lished himself. 
+Among all the Tlrthas that alone was the holiest place and 
+consisted of all Devas. It is meritorious and destructive of all 
+sins and miseries. The preceptor of the universe installed the
+
+## Page 191
+
+V.iii. 49.29-39 
+1 79 
+Lord of Devas in that Tirtha and released1 ( app.ointed) one 
+hundred eight guardian-deities, the one hundred eight Vinayakas. 
+Those one hundred eight ᤏetrapalas cautiously guard it. 
+Obstacles hinder one who wishes to stay there. Some people 
+are engrossed in domestic worries; some, in agriculture; some 
+organize meetings; some are engaged in earning money; some 
+indulge in indirect allegations; some are always engaged in 
+violence; some are infatuated with other men 's wives; some 
+destroy the means of sustenance of others. Others offer ex­
+cuses like: "How can we go to the Tirthas? The wife is afflicted 
+with hunger and so the sons and servants and others. " The 
+men are kept entangled in the nets of illusion by the groups 
+of Devas. 
+Men who are habitual sinners do not get,. the opportunity for 
+the holy ablution (here) . Groups of the servants of Devas always 
+protect that Tirtha. Men who are blessed and meritorious do 
+get the opportunity for the holy ablution in Sarasvati, Bhogavati 
+and especially in the celestial river (Ganga) . This confluence 
+is meritorious like that of white (Ganga) and blac.k (Yamuna) 
+currents at the Ve61 (Prayaga) . On seeing the Tirtha, all the 
+Devas became delighted in their minds. 
+29-39. 
+They went to the presence of the Lord and began 
+to extol: "0 Lord of Devas! This Tirtha is on a par with your 
+Gayatirtha. Another Tirtha, the most secret of all secret Tirthas, 
+like this was never there nor will there ever be." The Trident­
+bearing Lord was worshipped by lndra and others, the groups 
+of Apsaras, Yakᤁas, Kinnaras, Gandharvas, the Guardians of the 
+Quarters and of the worlds. Through dances and songs and 
+prayers, he was worshipped by all the Suras and Asuras, by 
+GaQ.as and by all the Siddhas, Nagas and others. Mahdvara was 
+worshipped by them. 0 king, the spot was pierced by the Lord 
+with the tip of his trident. Even today the eddy filled by the 
+Suras is seen in three distinct ways. The group of three KuQ.c.Ias, 
+0 tiger among men, is great and is' always full of confused 
+noise. It is destructive of all sins. It dispels all miseries and it 
+is excellent. 
+1 . 
+The reading "rak¦apiilim muktvii" (releasing the guardians or guards) ap­
+pears defective. If ' muktvii " is emended as · yuktvii ', "appointing guard­
+ians", it makes better sense. In Devanagari script 'yu' ('!) and ' mu" ('!) 
+in MSS appear alike. Hence ' muktvii" might have been read (composed) 
+for 'yuktvii".
+
+## Page 192
+
+180 
+Skanda Purii:T}a 
+A person who takes his holy bath there after observing fast 
+duly, is rid of a year's sins even if he has not received initiation 
+{Dikᤁa) and knows no Mantras. 
+Those who duly take the holy ablution with (the utterance 
+of) five Mantras mentioned in the Vedas along with auspicious 
+pots filled with gold, or with ten syllables, siᥞ syllables or three 
+syllables (they attain better fruit) . 
+0 king, twice-born ones should perform the requisite rituals 
+separately in the Tlrtha. In the case of BrahmaQ.as, Kᤁatriyas 
+and Vaisyas as well as of women and Siidras (the mode is the 
+same) . They should duly perform the holy bath after meditat­
+ing upon the three generations. Men who drink water uttering 
+the ten-syllabled Mantra, go to the great world of Lord Mahdvara. 
+Water drunk from RudrakuQ.Qa is like that drunk in Kedara. 
+40-48. 
+The syllable 4a used in conjunction with five Rephas 
+(letter Ra) is honoured by Suras ( "Rak$a, Rak$a" repeated five 
+times) used along with Omkara (ten-syllabled Mantra) should 
+be known as praiseworthy. 
+A person who controls his sense-organs and duly performs 
+the holy ablution and offers libations to the Pitrs and the 
+deities with water mixed with gingelly seeds, shall redeem the 
+members of his family upto twenty generations, ten before and 
+ten after him. 
+One who performs Sraddha in the Siilabheda Tlrtha shall 
+undoubtedly obtain that merit which a man who performs Sraddha 
+in the five holy spots including Gaya gets. 
+If the devotee makes Dana duly, the merit is everlasting. 
+Even his Du$krta (evil) turns to be Sukrta (merit) . 
+Just as Gayasiras is always meritorious in regard to the rites 
+unto the Pitrs. so also Siilabheda Tlrtha is meritorious by means 
+of holy baths, libations and Danas. A ᤏatriya should make the 
+following thirteen gifts to a BrahmaQ.a who has mastered the 
+Vedas, is of noble parentage, who has controlled his sense­
+organs, is clean, who is richly endowed with scholarship and 
+mastery of the Vedas, is free from hypocrisy and who regularly 
+performs his duties. The gifts shall be made on thirteen days 
+and the merit thereof shall be thirteen times more. The gifts 
+should be in the form of gold, cow, earth (plot of land) , gingelly 
+seeds, seat, a pair of shoes, bed, excellent horses, a pair of 
+clothes, grains, a furnished house, a plough with the tie to the 
+yoke and a cultiVated field.
+
+## Page 193
+
+V.iii.50. 1-8 
+181 
+CHAPTER FIFTY 
+Rules about the Eligibility for Dana 
+Uttiinapiida asked: 
+1-5. 
+0 Lord, what type of Brahmat:tas are worthy of being 
+adored? What type are proclaimed as not worthy of being adored, 
+especially in connection with Sraddha rites, Dana rites and 
+rites connected with marriage celebration? Kindly let me know 
+whether the faith in regard to Sraddha and other rites arises 
+by the intercession of divine beings or Destiny. 0 Lord, to 
+whom is Dana not offered? 
+lsvara said: 
+An elephant made of wood, a deer made of hide and a 
+Brahmat:ta who has not studied the Vedas-all these three are 
+so by name only. Just as a eunuch is useless (unproductive) for 
+women, just as a cow is useless for a cow, just as a gift made 
+ro an ignorant person is useless (meritless) , so also a BrahmaQ.a 
+without the knowledge of Rk (Rgveda) is useless. 
+Just as a sower who sows seeds in an arid place, does not 
+reap the fruit thereof, so also a donor making a gift unto one 
+without the knowledge of Rk does not derive any merit. 
+6-8. 
+The following Brahmat:tas should always be avoided I 
+after due consideration: a chronic patient; one deficient in 
+organs or having extra limbs; one-eyed; a son (born) of a 
+widow; one who violates the vow of continence; one with black 
+teeth; a gluttonous one eating everything (pure, impure) ; a 
+paramour of a Sudra woman; one who betrays friends; a slan­
+derer; one who sells Soma juice; one who censures others; one 
+who abandons father, mother and the preceptor; one who 
+always censures Brahmat:tas etc. 0 king, a Brahmat:ta who eats 
+the cooked food of a Sudra though consecrated with Mantras 
+is a Karmacat:t<;lala (Cat:t<;lala by acts as against one born as a 
+I. 
+Compare the lists of undeserving donees given in Mbh, Vana, 300.5-9. 
+The list given here is similar to infra SkP VII.i.205.58-72. The list of 
+undeserving donees is similar to that of ineligibles for invitation to Sraddha. 
+M:anu III. 1 50-1 66 gives a long list of such persons, which has been adopted 
+by this text.
+
+## Page 194
+
+182 
+Skanda Puriir_ta 
+Cal).<;iala) . If one touches him, one should take bath. He is not 
+worthy of being even touched. 
+9-14. After a careful enquiry these Brahmal).as should be 
+abandoned: one with defective nails; one associating with a 
+Siidra woman; a thief; a bastard; one who depends upon great 
+gifts and one who indulges in self-destruction; one who teaches 
+on wages; a eunuch; a ravisher of a virgin and an accursed one. 
+If a Brahmal).a accepts a gift and trades therewith, one should 
+not offer him gifts. It shall be futile. 
+There are Brahmal).as well-endowed with learning and regu­
+lar study of the Vedas. They are of excellent conduct as well. 
+A gift given unto them becomes everlasting. 0 king, make gifts 
+to poor people and not flourishing ones. A medicine gives 
+relief to the sick. Of what avail are medicines given to one 
+devoid of illness? 
+Uttiinapiida said: 
+What is the procedure thereof? What are the rites regarding 
+Ti:rtha Sraddha? How is a gift to be made? 0 Sankara, describe 
+this to me. 
+lsvara said: 
+15-26. 
+A person should control all his sense-organs with 
+great purity and devoutly perform Sraddha at home. He should 
+circumambulate the preceptor after feeding him and silently 
+follow him till he reaches the boundary (of the village) (and 
+bid farewell to him) . Then he should go to Siilabheda and duly 
+perform the holy ablution. If a devotee performs Sraddha with 
+Havya, Kavya etc., in due order in five holy spots and then 
+offers balls of rice along with milk pudding, honey and ghee, 
+the Pitrs are propitiated for seventeen years. 
+· If a devotee performs the Sraddha with raw rice grains, 
+Badaras, Ingudas, honey and ghee in this Ti:rtha, he too shall 
+obtain the merit thereof. There is no doubt about it. He who 
+assiduously offers shoes to Brahmal).aS shall undoubtedly attain 
+heaven, riding on a horse. 
+He who offers a bed, a horse and especially an umbrella 
+shall go seated on an aerial chariot, surrounded by groups of 
+celestial damsels.
+
+## Page 195
+
+V.iii.50.27-36 
+183 
+He who gives an excellent house along with seven kinds of 
+grain shall reside in a golden house in my world as he pleases. 
+He who gives a Tiladhenu (a cow made of gingelly seeds) 
+covered with a cloth and accompanied by a calf shall dwell in 
+heaven until the ultimate annihilation of all living beings. 
+0 king, if the person gives water and cooked food in his own 
+house, or in a forest or on the path to a pilgrim-centre, he 
+shall never see the world of Yama. He will attain the merit as 
+though all the types of gifts have been given (by him) . 
+One should make gift of water, cooked food and freedom 
+from fear. There has never been a greater gift than cooked 
+rice nor will there ever be any. 
+If a devotee makes the gift of a virgin, or that of a bull, his 
+residence shall be there where I am pre᤭ent. It cannot be 
+otherwise. 
+Uttiinap_iida said: 
+27-29. 
+0 Lord, how is the gift of a virgin to be made by 
+righteous persons? How is a wife to be nourished (taken care 
+of) ? How is the marriage rite of a virgin to be performed? 0 
+Lord of Devas, I have one more thing to ask. To whom is a 
+virgin not to be given? 0 Lord, where should she be offered? 
+By giving to whom will it be of everlasting merit? What is the 
+criterion for considering something as best, middling or base, 
+0 Lord? How can (a gift) be Rajasa or Tamasa or one having 
+no better (i.e. Sattvika) ? 
+lsvara said: 
+30-36. 
+Of all Danas, Kanyii Diina (gift of a virgin) is the 
+best. A parent should give his daughter after approaching a 
+boy of noble birth, handsome features, learning and discre­
+tion. The father should give his well-adorned daughter on an 
+auspicious Lagna and Muhurta. If he offers horses, elephants 
+and garments in accordance with his capacity, his stay shall be 
+in the region where there is no ailment. 
+If the daughter dearer than one's own life is given away, it 
+is as though all the three worlds have been given away along 
+with the mobile and immobile beings. If anyone begs for wealth 
+for the sake of a virgin, he shall be a KarmacaQ<;lala (a CaQ<;lala
+
+## Page 196
+
+1 84 
+Skanda Pura7Ja 
+in action) and he shall become a woodworm after death. If, 
+out of food-greediness, anyone takes food in his house, he will 
+become pure only by means of the expiation called Candrayaᤂa 
+or Taptakrcchra. 
+Uttanapada said: 
+If one has no wealth in one's house but has a daughter to 
+be given away, how can he celebrate her marriage if he does 
+not beg? 
+lsvara said: 
+37-46. 
+0 king; one should celebrate the marriage of a 
+daughter, even if one has no wealth, merely by repeating the 
+name of the virgin. It does not bring about any defect. 
+Without begging if the Dana is made after approaching (a 
+groom) , it is the most excellent Dana. Even if the Yuga comes 
+to a close this (benefit of Dana) does not become ineffective. 
+The Uttama (excellent) Dana is after approaching (the groom) . 
+If the groom is invited (and given the daughter) , it is pro­
+claimed as· middling; if he is begged of it is base; if (he) makes 
+the request "Give ! Give! " it is the meanest. 
+If a stone is tied to another and dropped into water, both 
+of them (sink down and) perish. So also is the gift of cooked 
+food given to one not deserving. 
+Hence a gift (Dana) is not to be made to one who is incom­
+petent. It brings down the donor and especially oneself. One 
+who is competent takes both across like dry wood put in water. 
+Just as a boat, so also a learned man takes one to the other shore. 
+If an Ahitagni (a Brahmaᤂa maintaining perpetual sacrificial 
+fire in the family) accepts gifts from Sudras, he is no better 
+than a Sudra here in this birth. After death he becomes a dog. 
+Accepting gifts from indecent people secretly and despica­
+bly is a futile effort in regard to a Brahmaᤂa who is an Agnihotrin. 
+That man is unworthy of being fed. He is burned with Kari![la 
+fire (fire of cowdung cakes) . Afterwards for seven births he is 
+undoubtedly born as a mat-maker. The Dana made through 
+sense of shame or for the desire of being considered chival­
+rous or because of importunity or through restraint and the 
+Dana made to servants-all these are futile.
+
+## Page 197
+
+V.iii.51. 1-9 
+185 
+CHAPTER FIITYONE 
+Glorification of Danadharma 
+Uttanapada said: 
+1-9. 
+0 isvara, at what time is Sraddha and Dana to be 
+performed and on what lunar day should pilgrimage be done? 
+Tell me quickly. 
+lsvara said: 
+Just as Pitrtirtha (i.e. Gaya) is meritorious, excellent and 
+conductive to the fulfilment of all desires, so also this Tirtha 
+is meritorious for the performance of holy bath, giving Dana, 
+offering libations etc. One should perform special Sraddha in 
+all the Yugadis (days on which Yugas began) . 0 dear one herԆ 
+are the names etc. of the Manvantaras: 
+Month & Tithi on which a Manvantara 
+N a tn e 
+o f t h e 
+started 
+Man van tara 
+Asvayuj 
+Bright half, Ninth day 
+Siiryasavaq1i 
+Karttika 
+Bright half, Twelfth 
+Svayambhuva 
+Caitra 
+Bright half, Third 
+Uttama 
+Bhadrapada 
+Bright half, Third 
+Tamas a 
+Aac;lha 
+Bright half, Tenth 
+Cakua 
+Magha 
+Bright half, Seventh 
+Vaivasvata 
+Sraval).a 
+Dark half, 
+Eighth 
+Dakasavarl).i 
+ԇac;lha 
+Full Moon 
+Rudrasavarl).i 
+Phalguna 
+New Moon 
+Svarocia 
+Paua 
+Bright half, Eleventh 
+Raivata 
+Karttika 
+Full Moon 
+Indrasavarl).i 
+Phalguna 
+Full Moon 
+Brahmasavarl).i 
+Caitra 
+Full Moon 
+Raucya 
+JyeHha 
+Full Moon 
+Dharmasavarl).i 
+The first days of the Manvantaras are proclaimed as those 
+according infinite benefit. o king, Sraddha is to be performed 
+in Ԉhe course of both the transits of the Sun viz. no.rthern as 
+well as southern. The following are the occasions for the per­
+formance of Sraddha: the third lunar day in the months of 
+Karttika, Magha and Vaisakha; the full-moon day in Caitra and
+
+## Page 198
+
+186 
+Skanda Purii'T}a 
+J 
+Jyeᤁᤃha; the AHakas (seventh, eighth and ninth lunar days) ; 
+the Sailkranti day (transit of the Sun in the signs of zodiac) ; 
+and the Vyatipata day. What is offered during these days is 
+proclaimed as everlasting. 
+1 0-1 6. 
+One should observe fast on the eleventh day in the 
+bright half of the month of Madhu (Caitra) . At night he should 
+keep awake near the feet of ViᤁI).u. Those who perform the 
+adoration of ViᤁI).u with incense, light, Naivedyas (food offer­
+ings) , flower garlands, agallochum, sandal etc. and read the 
+old legends (Pural).as) and a Brahmal).a who repeats the Siiktas 
+from the Rk, Yajus or Sarna Vedas shall be rid of all sins. He 
+goes to the world of ViᤁI).u. 
+In the morning after assiduously worshipping Brahmal).as, 
+he should perform Sraddha and should make gifts (within his 
+capacity) of cow, gold, cloth etc. His Pitrs become pleased 
+until the annihilation of all the living beings. The performer 
+of the Sraddha shall go there where Lord janardana is present. 
+On the thirteenth lunar day he should start from there for 
+the Liilga stationed in the cave. By seeing Lord !sana named 
+Markal).<;la, he is rid of all sins. 
+Uttiinapiida said: 
+0 Mahadeva, by whom was the highly splendid Liilga in­
+stalled within the cave? 0 Lord, it behoves you to narrate it 
+to me. 
+lsvara said: 
+1 7-28. 
+The eminent sage Markal).<;leya is well-known in all 
+the three worlds: He performed severe austerities for a period 
+of one thousand divine years. He entered the cave and prac­
+tised Yoga there. The Liilga named Markal).<;lesvara was installed 
+by him. A pilgrim should take his holy ablution there devoutly, 
+observe fast and control the sense-organs. Keeping awake at 
+night, he should assiduously offer lamps. The Lord should be 
+bathed in Paiidl.mrta in accordance with one 's capacity. Mter 
+anointing the Lord therewith, he should duly perform the 
+adoration. Brahmal).as should perform Japa (chanting of Man­
+tras) of the Mantras current in their Sakhas (branch of their 
+particular Veda) . They should also recite Savitri Mantra one
+
+## Page 199
+
+V.iii.5 1 .29-43 
+187 
+thousand eight or one hundred eight times. By doing this, 0 
+excellent king, the person shall attain the fruit or'his birth. On 
+the fourteenth day he should again take his holy bath and 
+perform the adoration duly. Gifts should be made after testing 
+the worth of the recipient, if one wishes for one's own welfare. 
+Undoubtedly the Pitrs are pleased with him for twelve years. 
+The donor goes to that place where the enjoyment is eternal. 
+After entering the middle of the cave the pilgrim should wallow 
+oil the ground as much as he can. The merit that is .derived 
+from the Ni:la Mountain is entirely attained by them. Listen to 
+the meritorious fruit of the person who performs Sraddha at 
+every Parva at Sulabheda, especially at the end of the month 
+of Caitra (on the New-Moon day). He shall obtain the PuQ.ya 
+derived at Kedara, at the confluence of Ganga and the ocean, 
+at the confluence of black and white (i.e. Ganga and Yamuna) 
+or in other Tirthas, especially the PuQ.ya (Merit) that is derived 
+from Arbuda and Amara mountain. One should propitiate the 
+Pitrs and deities in accordance with the injunction and with 
+due utterance of the Mantras. The man thereby attains the 
+fruit of all the Tirthas beginning with Gaya. 
+29-43. 
+He would redeem twenty generations of his family, 
+ten before him and ten after him. Thereafter the person should 
+remain pure and with a mind fully concentrated perform Nyasa 
+on the southern idol as mentioned before and offer eight 
+flowers. These are the eight mental flowers mentioned in the 
+scriptures: Listen. They are: ( 1 ) Varija, (2) Saumya, (3) Agneya, 
+"(4) Vayavya, (5) Parthiva, (6) Vanaspatya, (7) Prajapatya, and 
+(8) Sivapuᤄpa. Now listen to the meaning of these: ( 1 ) Wirija 
+should be known as water; (2) Saumya means honey, ghee and 
+milk; (3) Agneya means incense, light etc. ; ( 4) Viiyavya means 
+sandal paste etc.; (5) Piirthiva means roots, bulbous roots etc.; 
+(6) Viinaspatya means fruits; (7) Priijiipatya means reading and 
+recitation; and (8) Sivapu6pa is vasana (imagination, knowl­
+edge through intuition etc.) . 
+(Alternatively: ) Non-violence is the first Puᤄpa. Control of 
+sense-organs is the second. The third Puᤄpa is Dayii (compas­
+sion) . ᤏama (forbearance) is the fourth Puᤄpa; then Dhyiina 
+(meditation) is a Puᤄpa; then Tapa/J, ( austerity) and the sev­
+enth is jiiiina Pu6pa. Truth is the eighth Puᤄpa. The deities are 
+pleased with these. Ascetics and wise ones should be pleased
+
+## Page 200
+
+188 
+Skanda Purii:r:ta 
+through devotion, 0 king. An umbrella, a covering cloth and 
+a pair of sandals should be offered. If one is adored with these, 
+three persons (generations) are adored. The person shall stay 
+in the heavenly world until all the living beings are annihi­
+lated. Men should perform ]iipya with d-evotion to the Trident­
+bearing Lord. They should anoint the Lord of Devas with 
+Paiidimrta, Paiicagavya, Yakᤁakardama and Kmikuma as well as 
+Srikhar.u;la, agallochum and sandalpaste. They should perform 
+the worship of the Trident-bearing Lord with different kinds 
+of flowers, keep awake at night an<l offer lights assiduously. 
+Incense and Naivedya should be offered and Purar:tic legends 
+should be read. Men who stay there should perform Japa de­
+voutly. Snsukta, Pauru6asukta, Piivamiina, Vr6iikapi and other 
+Vedic Mantras should be chanted. Then the Rudrasukta of various 
+sorts should be recited. He shall adore the Brahmar:tas devout­
+ly. The devotee adoring and bowing to them with various kinds 
+of offerings is honoured in the world of Siva. 
+44-55. 
+A follower of ᤥgveda chants the Suktas agnimile 
+etc. A follower of Yajurveda should chant Rudra Sukta, Puru6a 
+Sukta, Slokiidhyiiya, Sukriya, the groups of Mantras beginning 
+with i6etvii, etc., ]yotir B1'iihma7Ja, Giiyatrya, Madhu and Ma7J4ala 
+Briihma7Jas. 
+A follower of Yajurveda should recite the Suktas of Devavrata, 
+Viimadevya, Puru6ar6abha and Brhadrathantara. These devotees 
+shall proceed to that place where Lord Mahesvara is ptesent. 
+If a devotee performs Piidasauca (cleansing of the feet) and 
+Abhya1iga (oil bath) here with great devotion, he undoubtedly 
+obtains the merit that accrues from the gift of a cow. He should 
+feed Brahmar:tas with honey and milk-pudding. If a single Brahmar:ta 
+is fed, it is as though ten millions have been fed. The devotee 
+should with great devotion give to an excellent BrahmaQa, 
+gold, silver or a garment. Thereby Devas, human beings and 
+Pitrs become propitiated. 
+At the time of a lun;u or solar eclipse, men should take their 
+·holy bath with great devotion, worship the deity and perform 
+Japa and Homa. They should make gifts in accordance with 
+their capacity, to a Brahmar:ta who has mastered the Vedas. 
+The following gifts should be made to a deserving person: a 
+horse, a chariot, an elephant, a vehicle, Tulapuruᤌa (things 
+equal to one in weight) , a cart filled with seven types of food-
+
+## Page 201
+
+V.iii.51.56-62 
+1 89 
+grains, a plough along with the tie of the yoke and mature 
+bullocks bearing the yoke, cows, plots of lands, gingelly seeds, 
+gold etc. The re'cipient should be duly adored. 
+Nothing should be given to an undeserving person by a 
+sensible person desirous of prosperity. Since the earth holds 
+all living beings, a plot of land producing all kinds of vegeta­
+tion should be given to a BrahmaQ.a. 
+Now, 0 great king, listen to the benefit of gifting cows. 
+56-62. 
+When two legs and the face of the calf are seen at 
+the vaginal outlet of a cow, she should be known .as the very 
+earth, so long as she does not release the calf from the womb. 
+Somehow the devotee should offer her to a BrahmaQ.a. The 
+merit thereof is as though the earth consisting of mountains, 
+forests and greal parks has been gifted. On being gifted the 
+cow shall redeem twenty-one generations of the family. 
+When the Sun or the Moon is eclipsed, then blessed ones 
+shall give a milch cow with her hoofs covered with silver, along 
+with a cloth and a brass vessel for milking. 
+I do not .know the · amount of the merit thereof even after 
+the lapse of hundreds of years. 0 king, there is numerical limit 
+to the merit earned for every gift made on other occasions but 
+for a gift made at the time of lunar or solar eclipse there is 
+no such lim.it. 
+Where a cow is seen, 0 king, all the Tirthas are there. One 
+should understand that Parva (period of holy festivals) too 
+exists there. There need not be any doubt in this respect. If 
+a man remembers the Tirtha and goes there or dies there, he 
+shall become an attendant of Rudra.
+
+## Page 202
+
+190 
+Skanda Purii'T}a 
+CHAPTER FIITYfWO 
+The Story of D'irghatapas 
+lsvara said: 
+1-10. 0 king, I shall narrate another story that happened 
+long ago. A sage of great austerities went to heaven along with 
+his family. 
+Uttiinapiida said: 
+How did the BrahmaQa, the great sage, go to heaven along 
+with his family? 0 Lord, I am very much eager to know. Kindly 
+tell me, 0 Lord. 
+lsvara said: 
+Formerly there was a king of Kasi well known as Citrasena. 
+He was a brave warrior, a liberal donor and highly righteous. 
+He had realised all his desires and he possessed great wealth. 
+The city was well-populated. It was full of different kinds of 
+gems. It was situated on the banks of Ganga and was well­
+known as VaraQasl. 
+It resembled the autumnal moon in splendour. It was well­
+adorned by !_earned men. Indrayaᤄ!is (Flag-staff of Indra) were 
+seen all over it. It was full of cows and cowherd colonies. There 
+were many banners (fluttering over it) . It reverberated with 
+sounds of Vedic recitation. Various kinds of merchants en­
+gaged themselves in buying and selling. It was rendered re­
+splendent by mechanical devices, well laid streets and many 
+other lofty towers. Temples of divine features and majestic 
+hermitag«s abounded there. It was beautified with trees, jack­
+fruit trees, Bakulas, Talas, Asokas, Amrakas, Rajavrkᤄas, Kapitthas 
+and Da<;limas. Auspicious chants of Vedic recitations sanctified 
+everything. It was beautiful with many varieties of fruits and 
+flowers. It was embellished with clusters of KadaH (plantain) 
+trees. 
+On the northern side of that city there was a splendid hermitage. 
+It is well-known in all the three worlds by the name Mandaravana. 
+1 1-1 7. 
+It contained many Mandata trees. Hence it came 
+to be known by the name Mandaraka.
+
+## Page 203
+
+V.iii.53. 1-7 
+191 
+A Brahmat:ta named Dlrghatapas lived there. In view of his 
+prolonged severe austerities, he is remembered as Dlrghatapas. 
+He resided there along with his wife, sons and daughters-in­
+law. His five sons always served him diligently. His youngest 
+son Rkᤄaspiga was also a man of great austerities, richly en­
+dowed with Vedic study, celibate and endowed with good qualities. 
+He always practised Yoga and took in bulbous roots, roots and 
+fruits. He used to assume the form of a deer and move among 
+the herds of deer. Everyday in the evening he used to come 
+back to his parents. With great devotion, the son of the sage 
+made obeisance to them and went again to forests and moun­
+tain caves. Thus the son of the sage sported about with young 
+fawns everyday . . 
+Once by chance that Rkᤄaspiga passed away. 
+CHAPTER FIFTYTHREE 
+]J.k̋ asrnga Goes to Svarga 
+Uttiinapiida said: 
+1-7. 
+0 Lord, how did the younger son of Sage Dlrghatapas 
+who was residing in the hermitage, meet death? 
+lsvara said: 
+Listen with concentration to the divine story, 0 king. Merely 
+by listening to it, one is rid of all sins. 
+The king of K.asl was well-known on the earth, 0 king, as 
+Citrasena. He was mighty, had great energy and was great in 
+exploits. Righteousness always prevailed in his kingdom. There 
+was no impiety anywhere. Engaged always in the Vedic rites, he 
+protected the subjects righteously. He strictly adhered to his 
+duty. He was fond of war as well as of hospitality to guests. Abiding 
+by the conventional duties and rights of ᤐatriyas; he enjoyed 
+worldly pleasures as he pleased. There is (was) no limit to the 
+wealth in his treasury. He possessed elephants, horses, chariots 
+and foot-soldiers. He used to discuss and discourse with the scholars 
+well-versed in Itihasas and Purat:tas. The king shone like Lord 
+Sarikara in Kailasa. While he was ruling the kingdom like this 
+·(once) the king spoke to the minister:
+
+## Page 204
+
+192 
+Skanda Puriitta 
+8-1 7. "I shall go ahunting. Stay here you all attending to 
+the protection of the kingdom. " When the ministers said, "You 
+may go", the ruler of the land went off. 
+His vassal kings following him hurriedly riding on their re­
+spective horses even as their royal umbrellas got brushed with 
+one another. Thus they followed him to the forest. Dust from 
+the ground was kicked up by the hoofs of the horses and the 
+elephants. Thereby the solar disc and the quarters were com­
+pletely covered. Neither the sun nor the moon, neither the 
+quarters nor the trees nor even the peaks of the mountains all 
+round could be seen. They could not even see one another as 
+if it were a mid-night in the rainy season. 
+There he espied a great herd of deer. Accompanied by all 
+those princes, the king rushed at them. The herd was dis­
+persed and the deer ran helter-skelter in various directions. 
+King Citrasena alone took a path and reached the place 
+where those deer were present. He entered the impenetrable 
+forest and the dark .caves of the mountains completely over­
+grown with creepers and hedges. He stopped in a place where 
+he could scarcely be seen. Thinking that the deer had disap­
+peared, the king looked around and thought: 'lri which direc­
+tion shall I go? Where can I be in touch with the soldiers of 
+the army? ' Thus King Citrasena was in a great predicament. He 
+resorted to the shade of the trees and took rest. 
+1 8-29. 
+l)istressed with hunger and thirst, he wandered all 
+round in the forest and caves of the mountains. Then he saw 
+a divine lake adorned with clusters of lotuses. It was full of 
+swans and KaraQ.<;fava variety of cranes. The Cakravaka birds 
+rendered it splendid. On seeing it, the great king felt his hairs 
+standing on ends. He gathered the lotuses and took his bath. 
+Mter offering libations to the Pitrs, Devas and human beings 
+duly, he cpvered Sail.kara with the lotus᤮s and adored him. He 
+drank the pure water adequately with mental concentration 
+and purity. He came out of the water and saw a tree nearby. 
+He spread his upper cloth on the ground and sat down. Then, 
+as he sat there he began to think, 'What shall I do now?' Even 
+as he was sitting there, he saw many deer in the forest region. 
+Some were facing the east; others the south; some faced the 
+west and a few the northern direction. Some deer were asleep. 
+Others stood with their cars lifted up: In the centre of those
+
+## Page 205
+
+V.iii.53.30-45 
+193 
+deer, was standing .Rkᤁaspiga, the Yogin of great austerities. 
+On seeing the deer, the king thought about his food intake, 
+'I shall kill one from these deer and eat as I please. By eating 
+the venison, I shall become normal in my physical state. I shall 
+return to Kasl assiduously enquiring about the pathway. ' Mter 
+thinking thus the king who was at the foot of the tree raised 
+his bow and fixed an arrow therein. He discharged the arrow 
+into those deer that had been herded together. That .Rkᤁaspiga 
+of great austerities who was in their midst was hit. 
+30-38. 
+All those forest-dwellers (deer) became frightened 
+and went from there crying. The sage who fell down cried 
+"Krᤁr:ta! Krᤁr:ta! " and continued: "Alas! something horrible has 
+been committed by him who has killed me now. Who is that 
+evil-minded wretch, in whom this sinful thought has occurred? 
+I was stationed amidst th᤯ deer. I do not harass or obstruct 
+anyone. " On hearing that human voice, the king was struck 
+with dismay. Hurrying there he saw the BrahmaQ.a shining with 
+Brahmar:tical splendour. 
+Citrasena said:· 
+Alas! Something horrible has been committed by me be­
+cause the BrahmaQ.a was slain. 
+He then said to the Brahmar:ta: "You have been unwittingly 
+killed by me, 0 sinless one, because I mistook you for a deer. 
+I shall now gather together much wood and immolate myself. 
+Among things seen and unseen, there is nothing like the slaughter 
+of a BrahmaQ.a. Unless I immolate myself, I will not be rid of 
+the sin of BrahmaQ.a-slaughter. " 
+.IJ.k6asrnga said: 
+At my death you will not attain Sid<Jhi (object desired) . Now 
+when I die, there will be many killings. On my death my mother, 
+the aged father, the saintly brothers and their wives will die. 
+When these deaths occur how can there be purity in you? If 
+you are inclined to do so, I shall tell you a means. 
+Citrasena said: 
+39-45. 
+May the means which is in your mind be men-
+
+## Page 206
+
+194 
+Skanda Puriir_ta 
+tioned. 0 great sage, I shall do everything even if I have to 
+exert myself. 
+!Jk$a.Srnga said: 
+I shall ask you something regarding yourself. Who are you? 
+From where have you come? How did you come here? Who are 
+you? One among Brahmal).as, K§atriyas or Vaisyas? Or are you 
+Siidra-born? 
+Citrasena said: 
+0 dear one, I am not a Siidra. I am neither a Vaisya nor 
+a Brahmal).a. 0 Brahmal).a, I am not low-born. 0 great sage, 
+I am a Kᤑatriya. I know my duties. I am aware of what has been 
+done by me. I am engaged in the welfare of all living beings. 
+Unwittingly a sin has been perpetrated. What is the means of 
+becoming purified? 
+]Jk,m.5piga said: 
+Take me to the hermitage where my parents are present. 
+Introduce yourself as the slayer of their son and say that you 
+regret it. On seeing me, perhaps they may have compassion for 
+you. They will tell you the means whereby there can be (men­
+tal ) peace. 
+After hearing his words, 0 excellent king, Citrasena took 
+the Brahmal).a on his shoulder and went to the hermitage. 
+46-49. 
+When he became unable to carry he began to take 
+rest frequently. Presen tly he saw that the Brahmal).a had lost 
+consciousness anrl that all his sense-organs had become im­
+paired. Citrasena kept him in the shade of a banyan tree. He 
+folded his cloth four times and began to fan him therewith 
+frequently. Even as he watched, 0 great king, Rkᤄasp'lga of 
+great austerities quickly passed away by means of Dhyanayoga 
+(meditation ) because he was fully conversant with Yoga. He 
+cremated the Brahmal).a according to the rites that have been 
+enjoined. After taking his bath, he lamented with great sorrow.
+
+## Page 207
+
+V.iii.54. 1-1 7 
+195 
+CHAPTER FIFTYFOUR 
+Dzrghatapas Goes to Heaven 
+lsvara said: 
+1-5. 
+Thereupon the king became greatly anguished. (He 
+thought: ) 'How can I go back to my abode in Varat:J.asi? Af­
+flicted by the sin of BrahmaQ.a-slaughter, I shall consign my 
+body to fire. Or at the instance (of the son of the sage) l shall 
+go to the hermitage and recount to the great sage everything 
+in the way it had happened. ' 
+After thinking thus, the king went to the hermitage taking 
+the bones of Rkᤄasp:iga. The excellent king stood within · the 
+range of the vision of that great sage of putified soul. 
+Dirghatapas said: 
+Do come. Welcome unto .you. May you be pleased to sit here 
+on the seat so that I can offer you Argha and Madhuparka 
+along with the seat. 
+Citrasena said: 
+6-1 7. 0 great sage, I am not worthy of being received with 
+the offerings of Argha (materials of worship) or even being 
+spoken to. Your son, the BrahmaQ.a stationed in the middle of 
+the deer, was killed by me. Rkᤄasp:iga, a BrahmaQ.a of great 
+austerities, was killed as a result of the wrong impression that 
+he was a deer. Know that I am the slayer of your son. Punish 
+me with the severest form of punishment. Having consider­
+ation for my delusion and confusion, 0 excellent sage, do what 
+is befitting in this regard. 
+The mother of the dead son became highly perturbed on 
+hearing those words. She came out of the house and lamented, 
+"Alas! I am killed. " She fell on the ground and lamented with 
+the profundity of her grief and affliction. "I am doomed, " she 
+lamented and cried in affliction very piteously like a female 
+osprey. "0 my son ! My son ! Reveal your face unto me. Honour 
+me, your mother. 0 my son, when will I see you again at the
+
+## Page 208
+
+196 
+Skanda Purii:r:w 
+threshold arriving there with the fullness of your Vedic study 
+and eagerness for the performance of Japa and Homa. There 
+is a popular saying that sandalpaste is cool but the embrace of 
+the limbs of the son is cooler than sandalpaste, if the body 
+becomes the subject of the close embrace of one's own son. 
+Of what avail is sandal paste or a drop of nectar? Of what avail 
+is even the moon? 0 my beloved son ! I wish to embrace you. 
+Separated from you and grief-stricken I will surely die . " La­
+menting thus in her affliction and wretchedness due to having 
+been bereaved of the son, she fell into a swoon on the ground. 
+On seeing his- wife fallen due to the affliction and grief for her 
+dead son, the sage became extremely furious at King Citrasena. 
+Dzrghatapas said: 
+1 8-28. 
+Go away, get away, 0 great sinner. Do not show me 
+your face. Why was my son, a BrahmaQ.a, killed without any 
+purpose? 0 king, many sins of many Brahmar:ta-slaughters will 
+befall you. You alone are the cause of the death of me along 
+with the entire family. 
+After saying this, the sage thought over the matter again. 
+Then he eschewed his fury as a true sage and said: 
+Dzrghatapas said: 
+0 dear one, shed off your anguish. I have been rather very 
+harsh. You have been reprimanded, 0 bestower of honour, by 
+me who have been scorched by misery and assailed by the be­
+reavement of my son. What does a wise man do when impelled 
+by his own Karmas. Even at the outset, the intellect of men 
+follows the Karmas. It is in accordance with this that death has 
+been enjoined for me. Undoubtedly the (sin of) slaughters will 
+befall you as uttered by me before. Among Brahmar:tas, ᤢ
+atriyas 
+and Vaisyas, among the castes of Siidras and Car:t<;lalas who are 
+you? Tell me the truth. Why was a Brahmar:ta killed? 
+Citrasena said: 
+I shall submit, 0 Brahmar:ta- sage, you must forgive me. I am 
+not a BrahmaQ.a. 0 dear one, I am neither a Vaisya nor a
+
+## Page 209
+
+V.iii.54.29-45 
+197 
+Sudra, neither a hunter nor a base-born one. 0 great sage, I 
+am a ᤏatriya. I am the king of Kasl. I have come to this 
+excellent forest to hunt deer. By mistake, this sage in the guise 
+of a deer was shot down . I have incurred sin. Now I am resort­
+ing to your feet. What should be done by me, 0 BrahmaQ.a? 
+Tell me the true means. 
+Dirghatapas said: 
+29-34. 
+0 Lord, even a single sin of BrahmaQ.a-slaughter 
+cannot be redeemed. How can eleven such sins be redeemed? 
+Listen, 0 king. On account (of the death) of ᤒkᤄaspi.ga, my 
+four sons, their wives, the mother and I - all these will die. 
+0 dear one, I shall tell you a splendid way-out. Listen to it. See 
+whether you can carry out that easy task, 0 king. Cremate the 
+entire family including me in funeral pyre; 0 king, cast off the 
+bones at Sulabheda in the waters of Narmada. On the south­
+ern bank of Narmada is the well-known Tirtha named Sulabheda: 
+It is an excellent Ti:rtha that destroys all sins and all miseries. 
+Be clean (physically and mentally) and cast off our bones into 
+the Tirtha. You will be rid of all sins undoubtedly. That is my 
+word. 
+The King said: 
+35-45. 
+0 dear one, let the command be given. I shall 
+undoubtedly carry it out. Whatever I have, the entire kingdom, 
+the treasury, the friends and sons, 0 great BrahmaQ.a, all of 
+them are yours, at your disposal. I shall give them to you. Be 
+pleased ( to accept it) . 
+0 king (Uttanapada) , even as the BrahmaQ.a and the king 
+were conversing thus, the wife of the sage, whose heart broke 
+into two died there. The woman assailed by the grief for the 
+son fell on the ground, devoid of life. All the sons met with 
+death on account of the bereavement of their mother. Along 
+with the husbands all the daughters-in-law also died. 0 excel­
+lent king, all those saintly souls attained death. The king called 
+together all those Brahmar:tas, the residents of the hermitage. 
+The excellent king informed them of everything in the way it 
+had happened. On being permitted by them, he gathered firewood
+
+## Page 210
+
+198 
+Skanda Purii:T}-a 
+assiduously. King Citrasena performed the cremation and collected 
+the bones of all the sages beginning with Rkᤄaspiga. 0 king, 
+that king (Citrasena) proceeded towards the southern quarter 
+on foot. When he could not walk, on being pressed down by 
+the weight, he took rest and then proceeded after a short 
+while. At every stage he set down the bones and took bath 
+along with his garment. Without taking food but taking in 
+water only, he thus proceeded facing the southern quarter. 
+Before long he reached the banks of Narmada. On seeing the 
+Brahmar:tas staying in the hermitage the king asked: 
+Citrasena said: 
+46-55. 
+0 excellent Brahmar:tas, 0 highly blessed ones, may 
+the path leading to Sulabheda be shown to me, so that I can 
+go there for the fulfilment of my task. 
+The sages said: 
+Within a Krosa (3 Kms) distance from here there is the 
+highly splendid Ti:rtha. You will see it on the southern bank 
+of Narmada. 
+At the instance of the sages the king went on hastily and ere 
+long saw the Tirtha full of many Dvijas (birds, Brahmar:tas) , 
+overgrown with a number of creepers and trees and rendered 
+splendid by numerous flowers. There were many bears and 
+lions too and splendid devotees observing many kinds of vows. 
+Some of them were standing on a single foot. Others had their 
+eyes turned towards the sun. Some were standing on a single 
+big toe. Others were standing with the arms lifted up. Some 
+took a single meal a day. Some took in as food bulbous roots 
+and fruits. Some took in food only once in three nights. Others 
+observed the vow of Paraka. Some were engaged in Candrayar:ta 
+expiation. Some observed fast for a fortnight. Some observed 
+fast for a whole month. Some broke fast at the end of a Rtu. 
+Some were engaged in the practice of Yogic exercises. Some 
+meditated upon ' That' ( Tat-pada i.e. Supreme Brahman) . Some 
+took in, as food only withered and decaying leaves. Some ate 
+ᤓJitter and estringent things. Some took in mosses · for food. 
+Some took in air as food. Some were householders and some 
+were Agnihotrins. On seeing the Brahmar:tas like these, the
+
+## Page 211
+
+V.iii.54.56-73 
+1 99 
+king knelt down on the ground, bowed down his head and 
+spoke these words, 0 king: 
+Citrasena said: 
+56-64. 
+0 Brahmat:tas, in which part of the land is that 
+Tirtha? Tell me the truth so that the thing desired may be 
+made possible. 
+The sages said: 
+Go a distance of a hundred Dhanvan taras (Dhanus=four 
+Hastas) . On the peak of Bhrguturi.ga you will see that large 
+Tirtha full of water. It is holy. 
+On hearing their words, he went near the Kut:t<;l.a. On seeing 
+that Tirtha, the king became confused again. He was struck with 
+wonder and began to think over and over again. Then the king 
+saw a flesh-eating Kurara (osprey) in the sky. It was hovering 
+round holding a snake but was being attacked by those (birds) 
+without a piece of flesh. Desirous of the piece of flesh they 
+fought with one another. Struck by the beaks the osprey fell into 
+the water where formerly the Trident-bearing Lord had split the 
+ground. By the power of that Tirtha, he immediately became a 
+man. He (the king) saw that person in divine form seated in an 
+aerial chariot. As he went ahead, Yakᤄas, Gandharvas and Apsaras 
+eulogized him. Even as he was being sung about by the Apsaras, 
+he vanished on the top of the Sun. Citrasena was extremely 
+surprised. He decided that the same was the Tirtha as mentioned 
+by the holy sage. On seeing the power of the Tirtha, he expe­
+rienced horripilation. 
+65-73. 
+He thought, 'This is my blessed day since I have 
+come here.' He then placed the bones down and took his holy 
+bath in accordance with the injunctions. With water mixed with 
+gingelly seeds he propitiated the Pitrs and deities. Then the king 
+took the bones and cast them into the water. For a moment, the 
+king stood looking up witb the face lifted up. He saw all of them 
+(members of the family of Dirghatapas) in divine forms and 
+splendid features. They had divine garments and were adorned 
+with divine ornaments. They were seated in various kinds of 
+aerial chariots attended upon by celestial damsels. On seeing 
+them separately seated in the aerial chariots, the king was de­
+lighted.
+
+## Page 212
+
+200 
+Skanda Purii:r}a 
+Then the sage seated on the aerial chariot spoke to Citrasena: 
+"0 gentle soul, 0 King Citrasena, 0 excellent king, thanks to 
+your favour. I had this divine goal. Your task has been carried 
+out excellently. Even a son cannot do like this unto his Pitrs. 
+0 dear one, by the power of my utterance you will be free from 
+sins. 0 great king, you will realize your cherished desires, whatever 
+be in your mind. " After blessing the intelligent Citrasena, sage 
+Dirghatapas went to heaven along with his sons. 
+CHAPTER FIITYFIVE 
+Kiiszriija Attains Mok$a 
+Uttiinapiida said: 
+1-5. 
+On seeing the great efficacy of the Tirtha, what did 
+King Citrasena do? Where did he stay? What was his food? 
+lsvara said: 
+After climbing on to the Bhrguturiga peak and resorting to 
+the north-eastern quarter the excellent king performed an elaborate 
+penance in the Ku:r:u;la there. Then he meditated upon all the 
+Devas, Brahma, ViᤁJ.lu and Mahesvara and hurled himself down. 
+Presently, Rudra and Kesava appeared before him and held 
+him by the hand. Rudra spoke these words to the king: 
+lsvara said: 
+0 great king, do not unnecessarily abandon your life pre­
+maturely. You are still very young. It is not proper for you to 
+die now. Hasten back to your abode. Enjoy all desired and 
+desirable pleasures. Like another Sakra of heaven, rule your 
+kingdom free from thorns (enemies) . 
+Citrasena said: 
+6-1 2. 0 Lord, I desire neither the kingdom nor the sons 
+nor kinsmen, neither the wife nor the treasury, neither el­
+ephants nor horses.· Leave me, leave me, 0 great Lord, let
+
+## Page 213
+
+V.iii.55. 1 3-21 
+201 
+there be no obstacles put in my way. With your favour, 0 
+Mahe8vara, heaven has been attained by me today. 
+lsvara said: 
+Of what avail is Svarga unto him, before ·whom there are 
+Brahma, ViᤁQ.u and Sarilbhu? What will he do by going there? 
+We three gods are pleased. Choose an excellent boon as you 
+please. 0 great king, that shall undoubtedly be true. 
+Citrasena said: 
+If you, the three Lords: Brahma, ViᤁQ.u and Mahesvara, are 
+pleased, it behoves all the three of you to stay here perma­
+nently. In the same way as Gayasiras has been rendered meri­
+torious by all of you, this SUlabheda also shcruld be made sacred. 
+I shall stay wherever all the three of you stay. Further, grant 
+me the over-lordship of all the GaQ.as. 
+lsvara said: 
+1 3-2 1 . 
+0 king, we the three Devas, shall stay in Siilabheda 
+from today onwards in all the three divisions of time by means 
+of a fraction. You shall certainly be the Lord of the GaQ.as. By 
+the name 'Nandin' staying near me you shall be worshipped 
+before I am. Mter your casting off the hones, as Dirghatapas 
+went to heaven seated in an aerial chariot along with the members 
+of his family, so you too shall do. 
+Thus, 0 king, the Devas granted boons to Citrasena and 
+stationed themselves on the top of the KuQ.Q.a in the southern 
+quarter. They said to one another, "This is a great meritorious 
+Tirtha. Just as Gayasiras has already been cited as meritorious, 
+so also on the banks of Reva this Siilabheda is undoubtedly 
+meritorious. " 
+lsvara said: 
+This Tirtha is as meritorious as Gayasiras. By offering balls 
+of rice and libation even once a man shall attain p1,1rity. Ex­
+cepting only Gayasiras, 0 king, no Tirtha is equal to even a 
+sixteenth fraction of the SUlabheda Tirtha. From north to south 
+the KuQ.Q.a extends to ten Hastas and from north-east to west
+
+## Page 214
+
+202 
+Skanda Puriir.ta 
+twenty-one Hastas. In regard to the rites of offering balls of 
+rice and the like, that Tirtha has these dimensions. Those who 
+are engaged in impiety do not get a chance of offering Dana 
+here. 
+22-31 . 
+Viᤄl).U stationed himself in the form of Pitr (i.e. 
+father) , Brahma in the form of Pitamaha (grandfather) and 
+Rudra as Prapitamaha (great-grandfather) . Thus the three deities 
+got themselves stationed, 0 king. The Pitrs are always waiting 
+like this: "When will my son visit the Tirtha? When will he 
+redeem us? " If a devotee takes the holy bath in Sulabheda and 
+visits but once Suladhara (Trident-bearing Lord Siva) he shall 
+not be without sons or wealth for seven births. He will never 
+become sick. He shall redeem twenty-one generations of his 
+father's family, twenty-one generations of the mother's family 
+and ten generations of his wife's family. 0 king, if a single 
+Brahmal).a is fed in the Sulabheda Vana with even greens, 
+roots and fruits, it amounts to the feeding of ten million persons 
+elsewhere. A devout man who performs Sraddha at the five 
+spots shall redeem all the members of the family, who have 
+become Pretas (ghosts) , with the favour of Brahmal).as and deities 
+as well as of the Pitrs. A person who of{ers Sraddha should stay 
+there where Lord Mahesvara is present. If a devotee performs 
+Sraddha with devotion in that Tirtha, the following persons 
+shall attain liberation undoubtedly for a Yuga: They are: those 
+who commit suicide, those who have killed cows and Brahmal).as, 
+those who have been killed by animals with curved fangs, or 
+drowned in water, or struck down by lightning, those who were 
+not cremated or on whose death Asauca1 was not observed or 
+libation not offer_ed. 0 king, merely by taking bath all the sins 
+committed through ignorance or childish nature will be dis­
+pelled. 
+32-40. 
+Just as a cloth washed by a washerman becomes 
+pure and clean, so also a sinner who takes his bath in that 
+Tirtha becomes free from impurities. One who adopts Sannyasa 
+(life of a recluse) in this Tirtha in accordance with the injunc­
+tions and meditates upon Mahadeva always shall- attain the 
+highest position. He shall sport about as he pleases and wishes 
+1 . 
+Non-performance of auspicious rites due to impurity caused by certain 
+inauspicious happenings such as death etc.
+
+## Page 215
+
+V.iii.56. 1-8 
+203 
+for in the palace of Siva and is later born in an auspicious 
+family as one conversant with the principles of the Vedas and 
+Vedangas. He shall be endowed with handsome features and 
+comeliness. He shall be devoid of all ailments, He may be boni 
+as a king or prince. He shall be endowed with piety and good 
+conduct. Thus, 0 king, the excellent benefit of the Tirtha has 
+been recounted to you. On hearing this a man shall always be 
+riᤣ of all sins . 
+.If one reads this narrative always to leading Brahmat:tas, at 
+the time of Sraddha or in a temple during festival days, Devas 
+become pleased with him. So also human beings along with 
+the Pitrs. All the sins of those who read or listen perish. He 
+who writes the 'Greatness of the Tirtha ', and gives it to Brahmat:tas 
+attains the ability to recollect previous birtlf and also gets the 
+desired benefit. He shall stay in Rudraloka as long as the written 
+syllables stay on. 
+CHAPTER FIFITSIX 
+Fruit of Dana Described 
+Uttanapada said: 
+1-8. 
+I wish to know some more. By whom was Ganga brought 
+down? How did the holy River which was stationed on the head 
+of Rudra, happen to come here? What is the efficacy of the 
+holy Devasila? 0 Sankara, if you are pleased, describe these 
+things to me. 
+lsvara said: 
+Listen with mental concentration as to how the highly es­
+teemed Ganga was brought down by all the Devas for the sake 
+of the welfare of all the worlds. 
+0 king, in the southern quarter, there is a mountain named 
+Vindhya. All the Devas went to the top thereof , 0 ·king. 
+Mter adoring Isa, the Lord of the universe, Lord of Devas, 
+the preceptor of the universe, they requested him: "Release 
+to the ground Ganga stationed in the middle of your matted
+
+## Page 216
+
+204 
+Skanda Purii.TJ-a 
+hairs." Thus Ganga was invoked by all the Suras led by Brahma. 
+Thereupon the brilliant river was released to the earth by Rudra 
+from his head. 
+This has been created as a highly meritorious river there in 
+that spot by the Devas themselves. Therefore she has become 
+Devanadi (divine river) for the welfare of men on the earth. 
+Those who always live on her banks, those who take their 
+holy bath with devotion and those who always drink her water, 
+do not go to the abode of Varna. 
+9-1 8. Praci Sarasvati is to the west of the celestial river, 0 
+king, in the Km:u;la of Siilabheda where she had fallen. 
+There is an excellent Tirtha to the south of Siilabheda. It 
+is there that the meritorious Devasila was created by the Lord 
+himself. 
+If one takes his holy bath there with devotion and propiti­
+ates the Pitrs and deities, they will become contented until the 
+time of the annihilation of all living beings. 
+A person should feed Brahmal).as there with great devotion 
+after taking a holy dip there. Even if a small quantity of cooked 
+food is offered, there is no end thereof (in regard to efficacy) . 
+Uttanapada said: 
+What are those Danas which when offered are highly es­
+teemed in the world? By offering which devoutly is a man rid 
+of all sins? Tell me the greatness "of Devasila, the benefit that 
+accrues from the holy bath, Dana and the like and the good 
+that would be attained through Vrata, Upavasa (fast) and Niyama 
+(restraints and observances) . 
+lsvara said: 
+0 king, formerly there was a very powerful king of Cedi well­
+known as Virasena. He was the Lord of a vast region and he 
+was superbly vigorous. There was no enemy throughout the 
+land nor was there any pestilence. No thieves ravaged the land 
+nor was th ere any impiety. Only righteousness prevailed ev.ery­
+where and at all times. 
+The king had many sons and he was always joyous in the 
+company of his wives. He had a single daughter as beautiful
+
+## Page 217
+
+V.iii.56. 19-35 
+205 
+as the Daughter of the Mountain (Parvati) . The girl was a 
+darling of the parents and all the kinsmen. At the proper time 
+her marriage was· duly celebrated. 
+19-26. 
+Thereafter the king of Cedi began a Yajiia (a sac­
+rifice) lasting for twelve years. In the meantime the husband 
+of his daughter met with his death. 
+Seeing his daughter widowed the king became grief-stricken. 
+He told his wife who too was afflicted with misery: "My dear, 
+a great misery has befallen us. It shall be unbearable through­
+out our life. This girl is proud due to her beauty and youth. 
+It is very difficult to keep her under restraint. Perhaps she may 
+even spoil the family. How can this girl be guarded? There is 
+no means whereby Bhanumati (name of the girl) can be kept 
+safe . " On hearing the mutual discussion oi the parents, the girl 
+said: 
+Bhanumati said: 
+0 dear father, I am pever ashamed to say what follows before 
+you. Verily no defect or default shall assail you, 0 king, on my 
+account. From now onwards I shall cease to have my tresses of 
+hairs. At your place I shall wear half (of the usual length) of 
+a coarse cloth. I shall observe the Vratas laid down in the 
+Purar:tas. I shall cause myself to wither up and thus propitiate 
+Janardana. This is what I think, dear father, if you allow me 
+to do so. 
+On hearing the words of Bhanumati, the king became highly 
+delighted. 
+27-35. 
+In view of her intended pilgrimage, the king placed 
+a vast amount of wealth at her disposal. To guard her he engaged 
+many old men to accompany her. He sent Brahmar:tas and 
+priests, slaves and servants as well as foot-soldiers capable of 
+protecting her. 
+Thus with the full consent of her father the chaste lady went 
+to the banks of Ganga, 0 king. She took holy dips in both the 
+shores1 of Ganga. Honouring excellent Brahmar:tas everyday 
+with sweet scents, garlands, ornaments etc., she spent twelve 
+years on the banks of Ganga. 
+I . 
+This probably implies that she performed a circumambulation o f the 
+river.
+
+## Page 218
+
+206 
+Skanda Purii:TJ,a 
+Thereafter, the princess left Ganga and proceeded towards 
+the South and arrived at the great river Reva along with her 
+attendants and ministerial followers. At Orhkara at Amarakarnaka 
+she stayed for five years. She went from one Tirtha to another 
+Tirtha both on the north as well as on the south bank (of 
+Reva) . Taking many holy ablutions and adoring Brahmar:tas 
+devoutly and without lethargy, she went to the West reaching 
+the confluence of the celestial river. 
+There she saw a holy hermitage full of the congregation of 
+sages. On seeing the saintly concourse she bowed down and 
+said: "What is the greatness of this Tirtha? What is the name? 
+I may be favoured by ye, 0 venerable ones. Let this be spo­
+ken. " 
+The sages said: 
+36-47. 
+This is well-known as Cakra Tirtha. It was here that 
+the discus was granted to Hari by the Trident-bearing Lord of 
+Devas, the delighted Mahdvara. 
+If a person takes his holy bath in the Tirtha here and pro­
+pitiates the Pitrs and deities, he will undoubtedly reach that 
+destination from where there is no return at all. 
+0 Tapasvini {ascetic woman) , the next day the person should 
+go to Sulabheda and duly perform the holy ablution in accor­
+dance with the injunctions mentioned before. 
+He will undoubtedly be rid of sins committed in the course 
+of three births. Three cavity-fuls of water and gingelly seeds 
+(Aiijali 
+= cavity of palms joined together) alone should be 
+offered as libation (to Pitrs) . There is no doubt that the Pitrs 
+thus become satiated for twelve years. 
+He who performs Sraddha devoutly through Brahmar:tas well­
+versed in l!he Vedas, 0 king, should avoid usuriousness. What­
+ever is offered to the Pitrs becomes everlasting in its benefit. 
+The next day, he should go to the splendid and meritorious 
+Devasila. There the meritorious Jahnavi formerly created by 
+Devas, is visible. 
+0 king, one should take holy bath there and offer water 
+mixed with gingelly seeds (to Pitrs) . Merely offering balls of 
+rice once, one is rid of the sin of Brahmar:ta-slaughter. 
+The person should. observe fast on the eleventh day in er-
+
+## Page 219
+
+V.iii.56.48-57 
+207 
+ther half (of the month) and keep awake at night. He should 
+also read the story from a PuraQ.a. He should perform the 
+adoration of ViᤄQ.u with flowers, incense and Naivedya offer­
+ings. He should feed Brahmat:J.as in the morning and make 
+gifts in accordance with his capacity. 
+On the fourth day he should go to the place where Pracisarasvati 
+(flows) issuing forth from the body of Brahma, for the purpose 
+of sanctifying embodied beings. After taking bath the man 
+should devoutly propitiate the Pitrs and deities. 
+After duly performing the Sraddha he should feed uncensurable 
+(praise-worthy) BrahmaQ.as. Undoubtedly the Piqs become satiated 
+for twelve years. 
+48-57. 
+This spot consists of all Devas and all Tlrthas. The 
+place is full of crores of deities and is the most excellent of 
+all excellent Tlrthas with ten million Lirigas. 
+If a person who is pure and has controlled his sense-organs, 
+takes his bath for three nights, a fortnight, a month, six months 
+and (sometimes) a year, he is sure to dwell in heaven. He will 
+never be born again in the mortal world. 
+Strictly observing the restraints he will be rid of sins accu­
+mulated in the course of three births. 
+A woman of pure vows who remains there for a period of 
+twelve years without a male associate, is honoured in Rudraloka 
+for all times. 
+On hearing the words of the sages, she went ahead with 
+great joy. She took holy bath in the Tlrtha and remained active 
+and alert day and night. 
+On seeing the power of the Tirtha she said again, "0 BrahmaQ.as 
+including the priests, may my words be listened to. I will not 
+forsake such a holy spot as this either in the day or at night 
+as long as I live. Kindly tell my mother and father these words: 
+'Your daughter is staying at Sulabheda, regularly observing the 
+vows.' " 
+After saying this, 0 king, Princess Bhanumatl continued her 
+stay there. She began the observance of fast on alternative 
+days. Gradually she increased the duration of the fast to a 
+month. She always stationed herself at Devasila and meditated 
+upon the Discus-bearing Lord. She burned incense day and 
+J:tight; offered sandalpaste and lights. She herself washed the
+
+## Page 220
+
+208 
+Skanda Purii:r:ta 
+feet and fed BrahmaQ.as. That queen (Princess) thus observed 
+her vows and stayed there for twelve years. 1 
+lsvara said: 
+58-68. 
+Now, 0 king, listen to another story showing the 
+greatness of Devasila. I shall narrate, 0 mighty-armed one, an 
+old legend along with the historical background. 
+There was a hunter, a forest-dweller of the Sahara tribe. 
+Afflicted by famine he went to the forest accompanied by his 
+wife for procuring some meaL He did not see birds or animals 
+or fruits. Ultimᤤtely he espied a lake beautified with clusters 
+of lotuses. 
+On seeing the excellent lake, the Sabarl (Sahara's wife) 
+spoke these words: "Take these splendid lilies (lotuses) for the . 
+sake of getting the money for our food. Righteous and pious 
+persons will be coming to Sulabheda for the adoration of the 
+Lord. The flowers can be sold." 
+On hearing the words of his wife, he gathered the lotus 
+flowers. After coming out of the water he saw a Srlvrkᤁa (Bilva 
+tree) in front of him. He plucked ripe fruits of Srlphala and 
+reached Sulabheda where he saw a great number of people. 
+On the eleventh day in the bright half of the month of 
+Caitra, even children, old men and women should not eat 
+anything. 
+He saw a pavilion erected there over the DevaSila rock. It 
+was divinely exquisite, embellished with flower garlands and 
+covered with cloths. 
+The sages who lived in the hermitages came there. They 
+undertook their fasts and holy observances. All of them had 
+the holy fires with them and their wives too were there. 
+The entire bank of the Devanadl appeared very charming 
+with the uowds of sages. 0 excellent king, the whole path was 
+blocked by visitors. 
+69-79. 
+On seeing the entire country present there, the 
+Sahara said to his wife: "Go and ask someone as to why they 
+1 . 
+Upto verse 57 the story of Bhanumati is narrated. The remaining part of 
+her story will be told later. In the meanwhile the story of Sabari, which 
+is a part of Bhanumati's, is told by isvara. The story is told to emphasize 
+the Mahatmya of DevaSila and is not a break in Bhanumati's story.
+
+## Page 221
+
+V.iii.56.80-89 
+209 
+are having the holy bath. Is it any of the Parvas (holy festival 
+days) about which we hear? Is it the lunar or solar eclipse? Is 
+it the transit of the Sun or the Akᤁayatrtlya?" 
+Thereupon, at the instance of her husband the Sabarl set 
+off. She saw a woman there to whom she gave two splendid 
+lotus flowers and asked: "What is the Tithi (lunar day) today? 
+What is the Parva today? Do tell me. Why do the people take 
+the holy ablution? What is the reason for the holy bath? " 
+The woman said: 
+It is the holy Ekadasl (eleventh day) today. It causes destruc­
+tion of all sins. If even once anyone observes fast today, he will 
+attain heaven. 
+On hearing her words, the Sabarl recounted to the Sahara 
+without excitement, 0 excellent king, the entire statement of 
+the woman. "It is a meritorious Ekadasl today. It is named 
+Madanaikadasl. Even children and old men observe fast today. 
+All sins will be destroyed thereby. It is heard that there is a 
+splendid ·princess, regularly observing holy vows and restric­
+tions in diet. The chaste lady is Bhanumatl by name. No woman 
+on a par with this lady has been heard of in all the three 
+worlds. She appears to be some divine lady incarnated on the 
+earth. " 
+O n hearing the words of his wife, the Sahara said to her: 
+"Sell the lotuses for whatever you get immediately and get your 
+food. But this is my firm determination that I should not eat. 
+0 fair lady, evil-minded that I am, nothing auspicious has been 
+done by me. " 
+Saban said: 
+80-89. 
+As far as I remember, L did not eat before you 
+(have eaten) . Whatever was left after your meal only that was 
+eaten by me. 
+On coming to know of the resolute decision of his wife, the 
+hunter went away to have his holy bath. Wearing half of his 
+upper garment he devoutly took his holy bath. He paid re­
+spects to all the Devas and then went to Devasila. Though 
+diffident (about results) he stood there bowing down tojanardana.
+
+## Page 222
+
+210 
+Skanda PuriirJ,a 
+The queen (Princess) was informed by that woman to whom 
+the Sabari had given the two lotus flowers. On seeing the pair 
+of lotus flowers, she (Princess) said to the servant: "Wherefrom 
+were the lotus flowers obtained by you. Do tell me presently. 
+Go quickly and bring more such lotus flowers. Bring the lotus 
+flowers in exchange of food grain or cash. " 
+O n hearing the words of Bhanumati, she (the servant woman) 
+went to the Sahara. "Give me more of the Sriphalas and flowers." 
+Saban said: 
+Go and tell the queen that I shall give you the Sriphalas 
+along with the flowers. I do not covet anything nor do I wish 
+for anything in return. 
+She hastened back and told the princess everything just as 
+it happened and the words of the Sabari in full detail. 
+On hearing her words, the queen herself went there and 
+spoke lovingly to the Sabari: "Give me the lotuses for the price. " 
+Saban said: 
+90-97. 
+0 queen, I do not desire to get (any) price of the 
+flowers and the fruits. Sriphalas and flowers may be taken from 
+me as you please. Do perform duly the adoration of Vasudeva, 
+the Lord of the umverse. 
+The queen said: 
+I will not accept the lotuses from you without g1vmg the 
+price thereof. I shall give you a Kharika (sixteen Drol).as) of 
+food-grain. May it be accepted. 
+Accept ten, twenty, thirty, forty or even a hundred Kharikas 
+and go across the ocean of famine. 
+For the sake of the lotuses, I shall surely give you money, 
+jewels, gold or anything else desired by you. 
+Saban said: 
+0 lady of fair countenance, I do not think of foodstuff now. 
+Excepting the Lord, I do not think of anything else. My mind 
+is not inclined to anything other than the thought of the Lord, 
+0 fair lady.
+
+## Page 223
+
+V.iii.56. 98-1 10 
+21 1 
+The queen said: 
+Food should not be discarded by ᤔ·ou. Everything is estab­
+lished in food. Hence, by all means accept the foodstuff given 
+by me. Sages of great esteem, those who dwell in forests-all 
+diligently come and beg at the portals of householders. 
+Saban said: 
+98-1 1 0. 
+It has been rejected earlier. Everything is estab­
+lished in Satya (Truth ) . It is due to Satya that the sun blazes. 
+It is because of Satya that the fire burns. Through Satya the 
+ocean stands (firm) . The wind blows through Satya. Through 
+Satya crops ripen and cows yield milk. The entire universe 
+consisting of mobile and immobile beings has Satya for its 
+support. Hence by all means, one should pᤕotect Satya through 
+abiding by Satya. Excepting the task pertaining to the Lord, 
+my mind is not inclined in regard to anything. Take the flow­
+ers, 0 queen, and perform the adoration of the mace-bearing 
+Lord Viᤄt:tu. 
+It is learnt through the statements of Brahmat:tas that there 
+is no harm at all in accepting Kusa grass, greens, water, fish, 
+scents, flowers, raw rice-grain (for rituals) , meat, bed, seat, 
+corn etc., and water. These should not be rejected. 
+The queen said: 
+Flowers are of four types: those plucked from gardens; flowers 
+(collected) from forest; flowers which are bought and flowers 
+obtained as gift. The best one is a flower from the forest plucked 
+by oneself. The middling is a fruit (flower) gathered from a 
+garden. That which is bought is the base one. Learned men 
+know that what is obtained as a gift is futile. 
+Purohita (Priest) said: 
+0 queen, take the flowers and perform the adoration of the 
+mace-bearing Lord Viᤄt:tu. Under some pretext you should render 
+help in return at some other time. 
+lsvara said: 
+Accepting the Sriphalas given by the Sahara along with the
+
+## Page 224
+
+212 
+Skanda Purii:r.w 
+lotus flowers, the queen performed the auspicious adoration. 
+She listened to the Purai_lic story and kept awake at night. 
+Thereupon the Sahara spoke these words to his wife: "0 beau­
+tiful lady, let the oil be taken as much as can be obtained for 
+the lamps. " Thereafter they lighted a lamp and performed the 
+auspicious adoration of Hari. 
+They meditated upon the Upholder of the Earth and kept 
+awake at night. At dawn they saw the people eager to take the 
+holy bath. Some were bathing in Siilabheda and others in the 
+Devanadl. Some men took bath in Sarasvati and others in the 
+whirlpool of MarkaQ<;la. 
+1 1 1-1 20. Some went to Cakratirtha and took the holy bath 
+in accordance with the injunctions. All those pure persons 
+performed Sraddha assiduously and faithfully on the Devasila 
+rock after their holy bath. Their mind remained pure. 
+On seeing them, the Sahara too offered Pi1.1<;las with the 
+Bilva fruits. 
+Similarly Bhanumati offered the Pi1.1<;las to her husband. 
+Uncensurable (praiseworthy) Brahmai_las who were devoid of 
+hypocrisy and practice of usury were fed. 
+The queen fed them with Haviᤁya (cooked rice) , curd, sugar, 
+honey and ghee, milk pudding made out of cow's milk and 
+especially with Krtanna (rice mixed with condiments etc.) . Mter 
+feeding them, the queen made monetary and other gifts in 
+accordance with the injunctions. The gifts were sandals and 
+shoes, umbrella, bed, cow, bull, various kinds of jewels, gold 
+and cash too. 
+0 great king, if a person makes a gift of a tawny-coloured 
+cow at Cakratlrtha, it is on a par with a gift of the whole earth 
+along with the mountains, forests and parks. 
+Uttiinapiida said: 
+0 Lord of Devas, be favourably disposed towards me and 
+recount to me all those esteemed gifts to be made over (in the 
+name) of the Lord of the universe. 
+lsvara said: 
+He who makes the gift of gingelly seeds obtains desired 
+progeny; he who gives lamps gets excellent visual power; he
+
+## Page 225
+
+V.iii.56. 121-1 34 
+213 
+who gives plot of land attains heaven and he who gives gold 
+gets longevity. 
+The giver of a house becomes free from ailments; he wno 
+gives silver becomes handsome; he who gives clothes attains 
+the world of the Moon; and he who gives horses becomes 
+identical with the Sun-god. 
+One who gives a bull attains well-attained glory and fortune; 
+a giver of cows goes to heaven; one who gives vehicles and bed 
+obtains a (good) wife and one who gives succour from fear 
+obtains prosperity. 
+1 2 1-1 29. A person who gives foodgrain attains permanent 
+happiness; one who gives Vedic text attains the eternal Brah­
+man. Of all Danas, viz. water, food, earth, clothes, gingelly 
+seeds, gold and ghee, Brahmadana (gift of learning) is the 
+best. 
+" 
+The donor gets correspondingly adequate return in accor­
+dance with the intention or the degree of emotional fervour 
+with which he makes the gift, whatever it may be. 
+0 king, listen to what the Sahara said to his wife on seeing 
+the various gifts made by the queen: "0 fair lady, I have heard 
+entirely the Purar;ta as read by the Brahmar;tas who have mas­
+tered the Vedas. The benefit of the Danadharma is auspicious. 
+The sin accumulated in the previous births has been wiped off 
+through the holy bath, Dana, Vrata etc. After casting off the 
+body, that cannot be ordinarily cast off, one attains excellent 
+goal. I am afraid of the ocean of worldly existence, 0 fair lady. 
+I speak the truth unto you. I have committed many sins, 0 fair 
+lady. Many animals have been killed by me. I have always burnt 
+down many hills. I am scorched by those sins. Poverty never 
+leaves me. The sinner that I am, I have never taken the holy 
+bath in a Tirtha. Therefore, 0 fair lady, I am miserable . I have 
+incurred poverty that cannot be removed. You go to your mother's 
+house. Cease to have love and affection for me. I wish to climb 
+on to the peak of the mountain and hurl myself to death." 
+Saban said: 
+1 30-1 34. I have nothing to do with my mother or father. I 
+have nothing to do with kinsmen and relatives. 0 my Lord, I 
+shall attain the same goal as you. Women's Dharma does not 
+allow that they should continue to live without their husbands.
+
+## Page 226
+
+214 
+Skanda Purii'f}a 
+In such a life many defects are possible as proclaimed by 
+Dharmasastra texts, 0 Lord of Bhojas (i.e. Sahara clan) . Do 
+make the ritualistic breaking of the fast, lest the Vrata should 
+be defective. Whatever is desired by you, you should dedicate 
+to Vigm. 
+On hearing the words of his wife the Sahara was pleased. He 
+took the Sriphala and duly performed the Homa. Mter bowing 
+down to all the deities he took food with her. Coming to know 
+that there was Viᤄuva (Equinox) on the full-moon day of Caitra 
+he stayed there for three days. 
+CHAPTER FIITYSEVEN 
+The Sabara Goes to Svarga 
+lsvara said: 
+1-8. 
+Mter feeding Brahmal).as, Bhanumati ate what was 
+left after feeding them. Mter eating she took rest with plea­
+sure, while the food got digested. On the Madanakhya Trayodasi 
+day (thirteenth of the bright half named Madana) , she took 
+bath in the Hrada (whirlpool) of Markal).<;ia and adored Lord 
+Guhasaya (Siva) (stationed in a cave as abode) . She observed 
+fast as enjoined. She bathed Mahesvara with PaiicaiTlrta and 
+sweet scents. Incense, lamps, Naivedyas were offered. She adored 
+(the Lord) with different kinds of flowers and excellent Naivedyas. 
+She kept awake in the night hearing Pural).ic stories and wit­
+nessing dances and hearing songs and prayers. She meditated 
+upon Lord Mahdvara. The entire quantity of cooked food was 
+duly spread in front of the Lord. All the people belonging to 
+all the four castes were fed along with their attendants. 
+On the fourteenth day the whole day was spent in worshipping 
+the Bull-emblemed Lord. She kept awake in the night keeping 
+conchs blowing and drums and other instruments continuously 
+being plᤖyed. The sound of Paᤃahas echoed everywhere. Many 
+devotees thronged there. Then the whole night was spent in 
+dancing and singing songs and prayers. At dawn the Brahmal).as 
+were fed with milk-puddings, honey and ghee.
+
+## Page 227
+
+V.iii.57.9-23 
+215 
+9-1 6. Gifts were made to BrahmaQas in accordance with 
+own capacity as well as the qualifications of the ones. The Lord 
+was adored with sweet-smelling flowers such as Madana and 
+the like, and clothed all round with delicate clothes of various 
+colours. Many garlands were kept hanging down and many 
+lamps were kept blazing. There were various kinds of sweet 
+cooked foods such as Modakas etc., round in shape. 
+Then all those BrahmaQas engrossed in the study of the 
+Vedas glorified that Parva by the name Padmaka. Today is the 
+day of the Sun (Sunday) . The Tithi (lunar day) is fifteenth. 
+The constellation is that pertaining to Tvam·. Today is the day 
+of the transit of the Sun, the equinoctial time. Vyati:pata is the 
+Yoga and ViHi is the KaraQa. This Parva named Padmaka has 
+four times more benefit than that of Ayana etc. Whatever is 
+offered, consigned to the sacred fire, or r-epeated as Japa be­
+comes everlasting. 
+Those BrahmaQas went to Sulabheda along with Bhanumati. 
+They saw the Sahara standing at the KuQc;la along with his wife. 
+0 king, the Sahara went in the north-eastern direction. He 
+climbed on to the Bhrgu mountain along with his wife in order 
+to leap down therefrom. 
+Bhiinumati said: 
+1 7-23. 
+0 noble-minded one, stop, stop. Listen to my words. 
+Why do you give up your life? You are still a youth. What is 
+your distress? What is the cause of your dejection? What is your 
+misery? What is your ailment? You seem to be a child now. 
+Pray, let the reason be mentioned. 
+Sahara said: 
+I have no reason to offer. I have no sorrow. I am afraid of 
+the worldly existence and my intellect does not intend to do 
+anything else. It is with very great difficulty that one fortu­
+nately obtains human birth. If, even after getting the human 
+birth, one does not practise piety, 0 beautiful lady, one defi­
+nitely falls into a terrible hell solely due to one's own defect. 
+Hence I wish to hurl myself down into this Tirtha that is destructive 
+of sins.
+
+## Page 228
+
+216 
+Skanda Puriir;ta 
+The queen said: 
+You have yet ample time to acquire piety. Whether one has 
+done one's duty well or ill, one becomes pure through Vrata 
+and Dana. I shall give you food-grain or clothes or adequate 
+cash. Perform righteous actions always. Always meditate upon 
+Mahdvara. 
+Sahara said: 
+24-3 1 . 
+I desire no money, no food-grains, no garments. If 
+anyone accepts food from another, he accepts his sins as well. 
+The queen said: 
+One who has bulbous roots, roots and fruits for food. or 
+wanders begging for excellent alms or takes the holy- bath in 
+the excellent Tirthas, is rid of all sins. Whatever the pure man 
+does, he shall be free from sins. You will become pure through 
+your holy rites and will certainly attain beatitude. 
+Sahara said: 
+Intake of food has been abandoned by me today, but I will 
+not eschew Satya (Truth ) which is greater even than my vital 
+airs. 0 fair lady, do this favour to me. Excuse me. 
+After saying this the Sahara bound himself with half of his 
+upper cloth, meditated upon Hari and fell down along with his 
+wife. 
+When he fall down from the top of the mountain, 0 king, 
+he died. They were seen smashed to smithereens over the 
+Kur;u;la. Kithin a period of three Muhiirtas the Sahara climbed 
+on to an aerial chariot along with his wife and attained the 
+excellent state (i.e. beatitude) .
+
+## Page 229
+
+V.iii.58.1-13 
+217 
+CHAPTER FIITYEIGHT 
+The Greatness of Sulabheda Tirtha 
+Uttiinapiida said: 
+1-8. 
+Thereafter, 0 Lord of the chiefs of Devas, what did 
+Bhanumati do? This is my doubt. 0 Lord, do me the favour 
+of mentioning this. 
+lsvara said: 
+Mter reflecting for a short while, she went near the Kul)c;la. 
+Observing the greatness of the Kul)c;la, the queen became filled 
+with delight. 
+She invited many Brahmal)as and adore·d them duly at the 
+same moment. The princess duly made gifts to the Brahmal)as. 
+Mter making firm resolve, she stayed with calmness of mind. 
+Then, 0 king, she adored the Pitrs and Devas. She spent a 
+fortnight of the month of Madhu remaining there. Then on 
+the new-moon day, the queen went near the mountain. 
+She climbed on to the peak of the mountain, joined the 
+palms of the hands together and spoke these words of request 
+to all those Brahmal)as: "May my mother, father, brother and 
+all other friends and relatives be requested to forgive me. Let 
+them be told these words of mine: 'Your daughter performed 
+penance at Siilabheda in accordance with her capacity. She 
+cast herself into that Tirtha and has gone to heaven. "' 
+The Briihma'T}as said: 
+9-1 3. 0 lady of splendid vows, we shall convey the message 
+given by you to your mother and father. 0 lady of excellent 
+hips, let there be no doubt in your mind. 
+Mter dismissing those people, she, stood on the peak of the 
+mountain and girdled herself with half of the upper cloth 
+firmly. Then, 0 king, with concentration she hurled herself 
+down from the top of the mountain. 
+When she fell down (half the distance from the mountain) 
+the celestial damsels were delighted. They said: "0 dear Bhanumati, 
+0 highly esteemed fortunate lady of great penance, be pleased
+
+## Page 230
+
+218 
+Skanda Purii:TJ.a 
+to get into the divine aerial chariot and proceed towards Kail:"isa. " 
+Even as they were all watching, she went to heaven. 
+Miirkarpf,eya said: 
+1 4-24. 
+Thus the full details regarding Siilabheda have been 
+recounted to you as heard earlier from Sankara in the assem­
+bly of sages and Devas. 
+He who devoutly reads this at a Tirtha or in a divine shrine, 
+is released from great sins incurred in the course of a hundred 
+births. 
+All these (following) sinners are released from the sins by 
+the power of Siilabheda: Sinners such as a BrahmaJ.la-slayer, a 
+drinker of spirituous liquor, a thief, a defiler of his preceptor's 
+bed, a killer of cows, a murderer of women, a misappropriator 
+of the property of gods (temples) and BrahmaJ.las, a traitor to 
+his master, a killer of friends, a committer of breach of trust, 
+one who takes away the deposits of others, destroyer of other 
+people's treasures (or pawned things) , a diluter of wine, a user 
+of false weights, a usurer (with high rates) , a creater of impediments 
+(with regard to marriages etc.) of girls, a seller of girls, one 
+who indulges in sexual intercourse with wives of others or a 
+brother, cows, daughter-in-law, daughters, a hater of others 
+and defiler of piety. If anyone reads this at the time of Sraddha, 
+0 king, while the BrahmaJ.las take their food, the Pitrs become 
+overjoyed with him. 
+One who devoutly listens to this when it is being read and 
+has self-control shall be rid of all sins. He shall enjoy all plea­
+sures and niceties of life. 
+This is conducive to great fame and longevity; this is sacred 
+and excellent. It increases the life span and glory of those men 
+who read and listen. 
+Thus the meritorious greatness of Siilabheda has been re­
+counted to you. It is not listened to by sinners. This Siilabheda 
+is situated on the southern bank of the river of the enemy of 
+Madana (i.e. Ganga) . It is like a spade that digs up and uproots 
+the bulbous roots of powerful sins.
+
+## Page 231
+
+V.iii.59. 1-14 
+219 
+CHAPTER FIITYNINE 
+The Greatness of .Aditya Tirtha 
+Miirka7J-4eya said: 
+1-8. 
+Thereafter, a person should go to Pu11karil).i that is 
+destructive of all sins. When its power is listened to, one is rid 
+of all sins. 
+There is a highly splendid Tlrtha on the northern bank of 
+Reva, where Lord Divakara (Sun-god) is always present as Vedamiirti 
+(the Veda incarnate) . 
+This Tirtha is meritorious and bestower of all desires just as 
+Kuruk11etra is meritorious, excellent aild conducive to the fulfilment 
+of all desires. 
+• 
+0 Lord of the Earth, just as Dana increases in benefit at 
+Kuruk11etra, so also undoubtedly it increases in Pu11kariQ.i as well. 
+If a person gifts a grain of Yava at Pu11karil).1, the place (in 
+heaven) that he attains is proclaimed as the same as when one 
+offers gold over the head, 0 king. 
+One should take his holy ablution at the time of solar eclipse 
+and make duly gifts of elephants, horses, chariots, jewels, a 
+house, cows, bullocks bearing the burden of the yokes etc. 
+If a person gives gold or silver to Brahmal).as till the thir­
+teenth day, it shall give thirteen times the benefit. 
+He should propitiate the Pitrs and deities by means of liba­
+tions of water mixed with gingelly seeds. The person shall 
+cherish love for that Tirtha in the twelfth year, 0 king. 
+9-1 4. If a person performs Sraddha there with milk-pud­
+ding, honey and ghee, the performer of Sraddha attains heaven. 
+Everything given to the Pitrs shall be everlasting. 
+One attains never-fai!ing benefit by offering raw rice grains, 
+Badaras, Bilvas or oil extracted from higuda along with sesamum 
+in that Tirtha. 
+There is no doubt about it. The devotee shall take his holy 
+ablution in the Tirtha, worship Lord Divakara, perform the 
+Japa of Adityahrdaya and again worship the Sun-god. He shall 
+attain the greatest world honoured even by Devas. 
+If a person makes the Japa of even a single Mantra from the 
+Rgveda, Yajur Veda or a Saman hymn, 0 king, he attains the 
+benefit of (reciting) the entire Veda.
+
+## Page 232
+
+220 
+Skanda Purii:rJa 
+One who meditates upon Divakara and repeats the three­
+syllabled Mantra (i.e. Aditya) after the Japa of Adityahrdaya, is 
+released from all sins. 
+0 excellent king, one who duly gives up his life there, shall 
+go to the greatest region where Lord Divakara is present. 
+CHAPTER SIXTY 
+The Greatness of Adityesvara Tirtha 
+Sri Markat;tf!,eya said: 
+1-8. 
+I shall further describe (the greatness of) the excel­
+lent Aditye5vara which is destructive of all miseries and all 
+obstacles, 0 son of Prtha. The Tirtha is always conducive to 
+longevity, increase in glory and prosperity. It grants sons, welfare 
+and heavenly pleasures. 
+0 scion of the family of Kurus, other (Ravi) Tirthas have 
+not attained the glory of this Tirtha, whether in heaven, or 
+mortal world or in Patala. 0 excellent king, all these Tirthas, 
+viz. Kurukᤁetra, Gaya, Ganga, Naimiᤁa. Puᤁkara, Varar:tasi, Kedara, 
+Prayaga, Rudra-nandana, Mahakala, Sahasrakᤁa and Sukla Tirtha 
+do not merit even a sixteenth fraction of Ravi Tirtha. 
+0 excellent king, listen to what happened in Ravitirtha. 
+Though I am extremely distressed due to old age, I shall narrate 
+it to you out of affection. May all the sages of great vigour 
+engaged in austerities listen. 
+This has been heard by me in the presence of Rudra along 
+with Nandin, Skanda and the Gar:tas. Sambhu was asked by 
+Parvati as to the benefit of Ravitirtha. What was narrated by 
+Sambhu enthusiastically, everything sung about by Rudra, was 
+heard by me with concentrated attention. 
+9-1 6. I shall recount it to you. Listen to it with caution. 
+Brahmar:tas oppressed by famine resorted to Narmada. They 
+were: Uddalaka, Vasiᤁᤃha, Mar:tc;lavya, Gautama, ¥ajftavalkya, Garga, 
+Sar:tc;lilya, Galava, Naciketa, Vibhar:tc;l.a, Valakhilyas and others, 
+Satatapa, Sankha, Jaimini, Gobhila, Jaigiᤁavya, Satanika. All those 
+came there.
+
+## Page 233
+
+V.iii.60. 17-37 
+221 
+Pilgrimage was performed by them around Narmada. Inci­
+dentally the leading sages came to the Aditydvara shrine too. 
+It was splendid and was covered with various trees such as 
+Dhava, Tinduka, Patala, jarhbira, Arjuna, Kubjaka, Sami, Kesara, 
+Kirhsuka etc. That Tirtha of highly meritorious nature was full 
+of fragrant flowers. There were the trees of Punnaga, coconut, 
+Khadira and Kalpa trees as well. The holy spot was infested by 
+many beasts of prey, deer and cats. It was rendered splendid 
+by bears, elephants and Citrakas (hunting leopards) . All the 
+sages entered the forest full of flowers. 
+1 7-23. 
+At the end of the forest, they saw women of red 
+complexion wearing red garments. They had smeared them­
+selves with red sandalpaste and worn red-coloured ornamen ts. 
+They were holding nooses in their hand!' and were terrifying 
+(to look at) . Near them were men resembling black clouds. 
+Their faces (mouths) were large and they had huge bodies. 
+They had nooses in their hands and they could be compared 
+to AnavHti (Drought) . They had tawny-coloured eyes. 
+0 most excellent one among the descendants of Kuru, another 
+old woman was seen by the leading sages. She had a long 
+tongue. Her face was hideous and her curved fangs were sharp. 
+She was unassailable. 0 descendant of Bharata, the old woman 
+was very near that group. The BrahmaQas engaged in their 
+self-study of the Vedas were seen by those people of evil ·ac­
+tions. 
+They collectively spoke to the BrahmaQas engaged in aus­
+terities: "All our masters are standing in the midst of the Tirtha. 
+Those highly esteemed ones should be urged to start hurriedly 
+by all means. " 
+On hearing those words of theirs, all of them hurriedly went 
+to the marshy land in Narmada and the excellent BrahmaQas 
+surveyed Reva. 
+24-37. 
+Then some of the others began to eulogize: "Be 
+victorious, 0 divine one, (we make) obeisance to you. Obei­
+sance to you, 0 (river) resorted to by groups of Siddhas. Obeisance 
+to you, the most auspicious and sacred one among all. Obei­
+sance to you, the most excellent one issuing forth from the 
+person of Rudra. 
+Obeisance to you, the holiest and the most sanctifying one 
+of all. Obeisance to you, 0 divine one, 0 auspicious bestower
+
+## Page 234
+
+222 
+Skanda Purii:tJa 
+of boons. I bow to you, 0 excellent one among the rivers, 0 
+bestower of happiness, 0 destroyer of sins, 0 river of diverse 
+features and cool waters. Obeisance to you whose limbs (wa­
+ters) are respectfully attended to by many groups of living 
+beings. (Bow to you) whose waters have purified Gandharvas, 
+Yakᤄas and Serpents, one whose waters are drunk by herds of 
+great elephants, buffaloes and boars; (to you) who wear water­
+waves as garlands. I bow down to you, the most excellent one 
+among all, the bestower of happiness. Do release us fettered 
+by the nooses of sins. 
+Men do wander through the hells only as long as they do 
+not resort to your waters, touched by the rays of the moon and 
+the sun. 0 divine one, if it is touched (by the devotees) it shall 
+bestow the highest region. 
+0 divine one with a face resembling a lotus, you are the 
+ultimate goal unto the people harassed by many a fear of the 
+worldly existence, en.veloped by many sins and many Dvandvas 
+( mutually opposing pairs like pain-pleasure etc.) . There is no 
+doubt about this, 0 divine one, that rivers become sanctified 
+and free from impurities after having resorted to you. You 
+bestow freedom from fear on those who are afflicted by mis­
+eries. You are adored by many SiHas (men of good conduct) . 
+Men with their physical forms submerged in faeces and urine, 
+wander in h.ells as long as they do not touch this water, the 
+waves whereof are scattered with great power. 
+Even Mlecchas (barbarians) , Pulindas (hunting tribe ) , 
+Yatudhanas (demons) who drink thy meritorious water, 0 di­
+vine one, become released from terrible fear. More so in the 
+case of the BrahmaQ.as afraid of the noose of worldly existence. 
+In this terrible Yuga brought in by Kali, lakes and rivers get 
+decreased, but you, 0 divine one, shine with the waters full to 
+the brim ·like Ganga in the heavenly path of the galaxy. 
+0 bestower of boons, 0 excellent one, after waiting this 
+much of time we will, with your favour, attain liberation. Do 
+this favour so that we will attain salvation. 
+Those who have resorted to you, those who have sought 
+refuge in you, have you as the ultimate goal. You protect them 
+like a mother or like a father who protects the sons. Protected 
+by you, we pass off the terrible period of oppression due to 
+drought. "
+
+## Page 235
+
+V.iii.60.38-59 
+223 
+Eulogized thus, 0 Yudhiᤄᤃhira, the divine river Narmada, 
+the most excellent one among the rivers, became visible to 
+those BrahmaQas in the most excellent form. 
+Miirka7Jr:f,eya said: 
+38-46. 
+0 king, those who rea<f and listen to this prayer 
+with great devotion and mental calmness, attain Rudra by means 
+of a vehicle yoked with a bull. Their limbs will be embellished 
+with divine garments. 
+If persons take bath in the waters of Narmada and repeat this 
+prayer always, this excellent river shall ere long bestow on them, 
+at the close of their life, the purest state (in the other world) . 
+One should get up in the morning and cepeat this excellent 
+hymn everyday. When one goes to bed then also one should 
+repeat this. Thereupon the holy River grants him the dissolu­
+tion of his body in her own waters. 0 king of great esteem, she 
+accords him support as well. They will be rid of sins and will 
+rejoice in heaven enjoying all pleasures. Not otherwise. 
+The divine river Narmada, on being propitiated by this hymn, 
+0 descendant of Bharata, nourished those Brahmat:J.as by means 
+of her waters. She flowed through the southern tract of land. 
+The River said: "I shall grant you Amrtatva (immortality) which 
+is not obtained even by Yogins. It is very difficult even for all 
+the Suras to attain. You will get it with my favour. " 
+Mter receiving this very excellent boon the BrahmaQas were 
+delighted in their minds. As they were going, they saw a great 
+miracle: 
+Sri Miirka7Jr:f,eya said: 
+0 son of Kunti, persons stationed on the banks of Narmada 
+were seen by them. They were very powerful and engaged in 
+holy ablution and adoration of the deity. They were five in 
+number. 
+They were seen by all the BrahmaQas who had mastered the 
+Vedas and Vedail.gas. Understand, 0 great king, how they were 
+enquired after by them: 
+The Briihma7Jas said: 
+47-59. 
+At the end of the forest was a pair of women extremely
+
+## Page 236
+
+224 
+Skanda Purii:fJ,a 
+terrible and awe-inspiring. These old men too with nooses in 
+their hands were terror-striking. They were unassailable, diffi­
+cult to look at and moving about here and there. They spoke 
+auspicious words: "There is no salvation there. " 
+All of them began to look about here and there again and 
+again, but not at each other. May the words uttered by them 
+be narrated in full. "0 excellent men, our five men (husbands) 
+stay there. 0 blessed ones, they should be made to proceed 
+promptly and hurriedly by all means. " 
+Then those five men after hearing these auspicious words, 
+looked at one another and began to say again and again: ''Where 
+are they? Whose? Where did they go? What was said by those 
+terrible ones?" 
+The men said: 
+By all (of us) Tirthavagahana (bathing in the holy waters) 
+was performed with great devotion in all Tirthas in eastern, 
+southern, western and northern directions. But the sin has not 
+been dispelled by them. But they (we) became free from sins 
+by the power of this Tirtha. May all the sages, the Brahmar;tas, 
+comparable to fire and god of Death (in brilliance) listen: 
+Their sins were terrible, unthinkable unto the embodied ones. 
+The wife of the preceptor was resorted to by one of the sin­
+ners. The wealth of a friend, gold and other assets·, was taken 
+away by another. The sin of Brahmar;ta-slaughter, the highly 
+terrible sin, was committed by another. Another unwittingly 
+committed the sin of imbibing spirituous liquor. The slaughter 
+of cows was committed by another sinner unwittingly. 0 king, 
+the sins of all these were committed unintentionally. On hear­
+ing those words of the Brahmar;tas they became surprised. Instantly 
+all the sinners became rid of sins by the power of this Tirtha, 
+the power' of Narmada. 
+60-70. 
+Nowhere can sins gain access here. All those sin­
+ners thought after consulting one another. Citrabhanu (Sun) 
+was remembered by them after thinking about Hari in the 
+heart. Mter taking the holy plunge in the auspicious waters of 
+Reva, the Pitrs and deities were propitiated by them. Mter 
+meditating on Lord _Ftnardana in the heart and bowing to 
+Lord Bhaskara (Sun-god) they circumambulated the blazing
+
+## Page 237
+
+V.iii.60.71-78 
+225 
+fire with devotion. 0 king, 0 excellent one among the sons 
+of Pal).<;lu, they who were distressed due to the sins and were 
+fallen, now regained the sattvikt bhavana (mental predilection 
+of Sattvika type) and abandoned Rajas and Tamas. 
+On the northern bank of Narmada everything was destroyed 
+by them in the fire. Then, 0 Yudhi!jthira, they were seen seated 
+in an aerial chariot. 
+An incomparable miracle was seen by the sages on the banks 
+of Narmada. Ever since then all of them were bereft of Riiga 
+(attachment) and Dve6a (hatred) . The Brahmal).as who were 
+delighted resorted to Ravi Tirtha with a desire for salvation. 
+0 king, listen to the auspicious merit of this Tirtha. I am 
+afflicted by old age, 0 king, but happy due to the devotion. 
+I am stationed within two Krosas ( 1 Krosa = 3 Kms. ) . Hence 
+I shall describe in a general way Ravitirthi that is as auspicious 
+as Kuruk!jetra. It is what was recounted by Isvara formerly to 
+ᤅal).mukha and heard by me. It was heard by them all from 
+Rudra and I was present nearby. 
+lsvara said: 
+When a solar eclipse takes place, 0 ᤅa<;lanana, the (meritorious) 
+benefit in Kuruk!jetra and Ravitirtha is on a par with each 
+other. In regard to the holy bath, Dana, Japya and Homa in 
+particular the benefit in Kuruk!jetra is the same (as here at 
+Ravi Tirtha) . No doubt should be entertained in this connection. 
+71-78. 
+Whether it is a village or a forest, Narmada is aus­
+picious and meritorious everywhere. Especially at Ravi Tirtha 
+Reva is the bestower of meritorious benefits. 
+Persons with the sense-organs under control should visit the 
+Tirtha on a sixth lunar day, Sunday, Vyatipata, Vaidhrti, Sari.kranti, 
+eclipse day and new-moon day. They should be free from lust 
+and anger as well as Raga (attachment) and Dve6a (hated) . 
+They should observe fast before the deity with great devotion . 
+They should keep awake at night and offer light unto the 
+deity. They must listen to the story of Vi!jl).U or, 0 son of Kunti, 
+they should repeat Vedic Mantras, whether they be from ᤥgVeda, 
+Yajurveda, Samaveda or Atharveda. One who recites even one 
+ᤒk shall obtain the benefit of (the recitation of) the whole 
+Veda and by the reciiation of the Gayatri the benefit of the 
+recitation of all the four Vedas is obtained.
+
+## Page 238
+
+226 
+Skanda Purii:T}-a 
+At dawn the persons should adore BrahmaQ.as with the gifts 
+of cooked food and gold, or by giving plots of land, garments 
+and cooked food in accordance with their capacity. 
+0 son of PaQ.<;lu, they may make gifts of umbrella, shoes, 
+beds and houses. There shall be freedom from fear through 
+the gifts of an elephant, a virgin, a horse, learning, a bull 
+capable of bearing a yoke, vehicle etc. 
+79-86. 
+Enemy becomes friend; poison becomes Amrta. The 
+Planets become highly pleased and the Sun becomes pleased. 
+Thus the entire merit-giving benefit of Ravitirtha has been 
+recounted to you, 0 king. Men who devoutly hear the auspi­
+cious benefit of Ravitirtha shall be rid of sins. They reside in 
+the world of Ravi. He who gifts a pot of gingelly seeds gets the 
+benefit that accrues from the gift of a cow, by viewing Bhrgu, 
+by drinking the water in Kedara and also the worship of an 
+Asvattha tree for a year. By glorifying Adityesvara one gets all 
+these (above-mentioned) benefits. On listening to the efficacy, 
+0 prince, one ceases to be born again i.e. gets liberated. I shall 
+mention all these to you, 0 king, out of devotion. All sins 
+disappear like water when the pot (containing it) is broken. 
+One should undoubtedly be face to face with the Tirtha. There 
+is no doubt about it. The greatest secret of the Tirtha has been 
+mentioned to you, 0 son of PaQ.QU. 
+The auspicious narration of the Tirtha should be kept con­
+cealed from all sinners, persons who kill masters, friends etc. 
+This should be guarded always by sensible persons. 
+CHAPTER SIXTYONE 
+The Greatness of Sakreivara Tirtha 
+Sri Miirkar.uf.eya said: 
+1-1 0. Thereafter one should go to the well-known merito­
+rious Sakratirtha on the southern bank of Narmada. It is destructive 
+of all sins. 
+Formerly a very severe penance was started by Sakra at that 
+Tirtha itself. With great devotion he performed penance ᤗith 
+Lord Mahe5vara in view.
+
+## Page 239
+
+V.iii.62.1-7 
+227 
+Propitiated thereby, 0 king, the Lord, the Consort of Uma, 
+granted him the over-lordship of Devas, the excellent kingdom 
+and the destruction of Danavas. 
+It (the boon) was acquired by Sakra, 0 king, by the power 
+of Narmada Tirtha. Thereafter the Tirtha became the most 
+meritorious one on the earth. 
+By observing fast on the thirteenth lunar day in the dark 
+half of the month of Karttika with devotion, one is rid of all 
+sins. 
+0 dear son of Pat:«;lu, the devotee is released from the sins 
+(evil effects) caused by inauspicious dreams, ill omens, malefic 
+Planets and Sakini (a kind of evil spirit) . 
+0 great king, there is no doubt that congenital sins of those 
+who devoutly visit Sakre5vara, perish. Undoubtedly sins accrued 
+due to a sexual approach to a woman wno should not be so 
+approached, marrying one who should not· be married and 
+killing one 's master or a friend, perish. The auspicious gift of 
+a cow should be made to a leading Brahmat:a. Or a yokable 
+bullock beautiful in every limb should be given, 0 king. This 
+should be given with great devotion by one who desires resi­
+dence in heaven. Thus the entire benefit of Sakre5vara has 
+been recounted to you, 0 king. 
+CHAPTER SIXTYfWO 
+The Greatness of Karor#svara 1irtha 
+Sri Markar:t4eya said: 
+1-7. 
+Then, one should go to the excellent Tirtha named 
+Karo«;li:Svara, 0 great king. 0 dear one, it was there that Danavas 
+along with their followers were killed by the delighted Devas 
+led by lndra who always thought of victory. The Danavas were 
+killed in battle by the infuriated groups of Devas. Remember­
+ing again and again the previous enmity, sons and grandsons 
+(of Danavas) too were killed. 
+Remembering the kinship (with them) all the Devas includ­
+ing lndra gathered together their heads and cast them into the 
+waters of Narmada. All the Suras took their holy bath there
+
+## Page 240
+
+228 
+Skanda Purii:rJ,a 
+and installed Umapati (Siva) . All the Suras delighted in their 
+minds went to their region in the firmament. 
+0 blessed one, an excellent crore of the Danavas was slain. 
+Ever since then that Tirtha is well known over the earth as 
+Karo<;fi. 0 son of PaiJQU, it is destructive of sins. 
+A devotee should observe fast devoutly on the eighth and 
+fourteenth days of either half of a month and keep awake 
+before the Trident-bearing Lord at night, engaged in reading 
+(listening to) the stories of the good (meritorious stories) and 
+in reciting and studying the Vedas. 
+8-1 6. In the morning he should then worship Tridasesvara. 
+The idol (Liilga) should be bathed in Paiicamrta and smeared 
+with sandalpaste. He should with concentration offer worship 
+with excellen t sprouts (of Bilva tree) and flowers. 
+Facing the southern direction, he should recite the Mantras 
+of various types. In accordance with the injunctions a handful 
+of gingelly seeds should be offered by way of libation to the 
+dead in the water coming upto the navel. Turning towards the 
+southern direction, he should control his sense-organs and 
+offer Sraddha to the (departed) BrahmaiJa. Sraddha should be 
+performed through Brahmal)as of uneven number eagerly en­
+gaged in the study and recitation of the Vedas. The Brahmal)as 
+should be propitiated with gold, cows, foodstuffs, betel leaves, 
+ornaments and a pair of sandals, 0 son of PaiJ<;iu. His rite shall 
+be effective a crore-fold more. No doubt need be entertained. 
+0 king, listen to the merit that accrues to one who duly casts 
+off his body in the Tirtha. 
+That man of righteous soul resides in the rarely accessible 
+Sivaloka as long as the bones remain in the waters of Narmada. 
+After a long time, he may fall down therefrom and be born 
+as a human being here. He shall then be glorious and owner 
+of a lot of wealth. He shall be honoured by kings. 
+1 7-23. 
+He shall be endowed with all piety. He shall be 
+intelligent and have sons to perpetuate his line. The man shall 
+be well-known all over the earth and long-lived. He will re­
+member the Tirtha once again, 0 excellent king, will go to 
+that Tirtha, worship Karo<;le5vara and attain the greatest goal. 
+Tridasesvara was installed by Indra, Candra, Yama, Rudra, 
+Adityas, Vasus and Visvedevas on the northern bank of Reva 
+with a desire for the welfare of all the worlds.
+
+## Page 241
+
+V.iii.63.1-9 
+229 
+If a man endowed with devotion erects a palace (shrine) in 
+that Tlrtha, 0 excellent one among men, he shall attain the 
+goal of the good. 
+He should erect the same by means of timber, stone and 
+bricks, all with wealth legitimately acquired. 
+Whether he be a BrahmaQa, a ᤏatriya or a Vaisya or a 
+Siidra or even a woman, he should do everything within his 
+capacity. When Sail.kara is duly worshipped all those men too 
+go to their respective goals. 
+If a person always listens to the greatness of the Tlrtha with 
+devotion , his sins perish within six months. 
+CHAPTER SIXTYTHREE 
+The Greatness of Kumiiresvara Tirtha 
+Sri Miirkar:uf,eya said: 
+1-9. 
+Then, 0 great king, one should go to the excellent 
+Kumaresvara. It is the most famous of all the Tlrthas. It is in 
+the vicinity of Agastyesvara. 
+Formerly, 0 king, spiritual power was achieved by ᤅar:tmukha 
+after propitiating the destroyer of all sins, with great devotion. 
+By resorting to the Tlrtha, he became the commander-in­
+chief of the army of Devas. He destroyed all the enemies. That 
+noble-souled one became endowed with fiery brilliance by resorting 
+to the Tirtha. Ever since then, that spot on the banks of Narmada 
+became a Tlrtha. 
+A person should go to that Tlrtha with concentration of the 
+mind and control over the sense-organs. Especially on the four­
+teenth day of Karttika and also on the eighth day, one should 
+bath the Lord of the Daughter of the Mountain, with curds, 
+milk and ghee. 
+There should be performance of music and the due offering 
+of balls of rice. 
+Whatever is given by Brahmar:tas who have mastered the 
+Vedas and are duly engaged in the six holy rites, becomes 
+everlasting, 0 son of PaQQU.
+
+## Page 242
+
+230 
+Skanda PuraTJ,a 
+This Tlrtha consisting of all other Tlrthas was created by 
+Sikhivahana (Skanda) , 0 king. 
+Thus the entire benefit of (a visit to) Kumaresvara has been 
+narrated to you. 
+By visiting Kumaresvara merit is obtained, 0 son of Par:t<;lu. 
+On death, he attains heaven . What has been spoken by Isvara 
+is the truth. 
+CHAPTER SIXTYFOUR 
+The Greatness of Agastydvara Tirtha 
+Sri MarkaTJ-4eya said: 
+1-4. 
+Then, 0 great king, one should go to the highly splendid 
+Tlrtha, the excellent Agastyesvara (created) for the sake of the 
+destruction of the sins of men. 
+By taking the holy ablution there, 0 king, one is rid of the 
+sin of Brahmar:ta-slaughter. 
+On the fourteenth day in the dark half of the month of 
+Karttika the devotee should control his sense-organs and be 
+engaged in meditation. He should bathe the Lord with ghee. 
+Accompanied by twenty-one generations of his family he shall 
+(not1 ) slip down (?) from the region of Isvara. 
+He shall then make gifts of wealth, shoes, umbrella, ghee, 
+blanket and food to all. All (the gifts) shall have crore-times 
+more benefit. 
+1 . 
+'na' (not) is not printed i n the text due to oversight.
+
+## Page 243
+
+V.iii.65.1-l l 
+231 
+CHAPTER SIXTYFIVE 
+The Greatness of Anandesvara Tirtha 
+Sri Miirka7J-4eya said: 
+1-1 1 . 0 great king Yudhiᤄᤃhira, then one should go to the 
+excellent Anandesvara where Rudra had the greatest delight. 
+I shall describe that Tirtha which destroys all sins. 
+Yudhi6!hira said: 
+0 excellent BrahmaJ.la, Rudra had the greatest delight? May 
+the entire episode be recounted to me succinctly even as I am 
+accompanied by my kinsmen. 
+Sri Miirka7J-4eya said: 
+I shall describe the excellent Ananddvara, 0 great king. 
+After slaying the Danavas, Mahdvara, the Lord of Devas, was 
+adored by all the Devas, Kinnaras, Yakᤄas and Pannagas. The 
+highly delighted Bull-vehicled Lord danced. 
+He had assumed the Bhairava (terrible) form with Gaur! 
+stationed in half of his body. This Bhairava was surrounded by 
+terrible Bhiitas (goblins) , Vetalas (vampires) and Kari.kalas (skel­
+etons) . 0 son of PaJ.lQU, he danced on the southern bank of 
+Narmada. The Lotus-seated One was installed by all the de­
+lighted groups of Maruts. Ever since then that Tirtha is men­
+tioned as Anandesvara. One should duly adore the Lord on 
+the eighth, fourteenth and fifteenth (i.e. full-moon) lunar days, 
+0 king. He should smear him with sweet scents. 0 Yudhiᤄᤃhira, 
+according to one's capacity he should adore BrahmaJ.las. A gift 
+of cows should be made. A gift of garments causes prosperity 
+and happiness. On the thirteenth day in Vasanta, he should 
+perform Sraddha too by means of Iri.gudas, Badaras, Bilvas, raw 
+rice-grains or water. At the excellent Ananddvara Tirtha the 
+devotees should perform the Sraddha unto the departed ones. 
+They shall be delighted until the destruction of all living 
+beings. There shall be no snapping of the family-line in the 
+course of seven births. 0 descendant of Bharata, bliss shall 
+certainly come to them in every birth.
+
+## Page 244
+
+232 
+Skanda Purii:TJ.a 
+CHAPTER SIXTYSIX 
+The Greatness of Matrt'irtha 
+Sri Markarpjeya said: 
+1-9. 
+Then, 0 great king, a person should go to the excel­
+lent Matrtlrtha. It is situated on the southern bank of Narmada 
+very near the confluence. 
+The Mothers gathered together on the bank of Narmada, 
+0 great king. The Lord of Devas, wearing a Vyala (python) as 
+his Yajfiopavlta and with Uma as half of his body, was present 
+there. The group of Yoginls said: "0 Hara, it is a pity indeed, 
+0 Mahe!ivara. That we are invincible to all Devas is due to your 
+grace, 0 Mahe!ivara. (But now) may this Tlrtha be well-known 
+by this procedure all over the earth." Siva said: "0 Yoginls, let 
+it be so. " Mter saying this, he vanished. 
+Sri Markarpjeya said: 
+The devotee should be invariably pure and observe fast at 
+that Tlrtha with great devotion on the ninth lunar day. He 
+should adore Matrgocara (Lord Siva) . The Mothers will be 
+pleased with him. The Bull-vehicled Lord too will be delighted. 
+An excellent scholar well-versed in the Mantrasastra should 
+preside over the ritualistic holy ablution of a barren woman 
+and of a woman whose dear child is dead or one who has no 
+son, 0 YudhiHhira. 
+They should offer a water-pot with gold and five kinds of 
+jewels therein. 
+The preceptor should bathe the woman desirous of a son 
+with a brass-pot. That woman shall bear a vigorous son en­
+dowed with good qualities. 
+Whatever one desires shall be achieved by him, 0 king. 
+There has never been a Tirtha greater than Matrtlrtha and 
+never shall be.
+
+## Page 245
+
+V.iii.67.1-14 
+233 
+CHAPTER SIXTYSEVEN 
+The Greatness of Lunkesvara Tirtha 
+Sri Mii.rkarpf,eya said: 
+1-8. 
+The Tirtha well-known as Lurikdvara is situated in 
+the middle of water beyond (the previous Tirtha) . It is bowed 
+to by Suras and Asuras. 
+This Tirtha is highly meritorious and renowned as very 
+miraculous all over the earth, 0 descendant of Bharata. Listen 
+to the origin and greatness of this Tirtha. 
+Formerly there was a demon of great power, who was arro­
+gant due to (his) great strength. He was well-known as Kalaprᤁtha. 
+He was a grandson of Brahma. 
+• 
+He resorted to the bank of Ganga and performed a very 
+severe penance. Remaining in topsy-turvy position he began to 
+imbibe smoke day and night. The Lord happened to stand 
+nearby in the company of Uma. On seeing him engaged in 
+fierce penance, Parvati said: "See, see, 0 Mahadeva, there is 
+a man imbibing smoke. Be pleased. (Make him happy. ) 0 
+Lord, grant him a boon quickly. " 
+lsvara said: 
+The words spoken by you do not appeal to me. One's own 
+affair should always be thought of. One should disregard other 
+people's affairs. He who follows the whims and pleasures of 
+fools, women, children and enemies invariably falls into a terrible 
+distress. This is the truth that has been uttered. 
+The Devi said: 
+9-1 4. It is stated in scriptures that when a husband requested 
+(for something) by the wife speaks of various causes (pleads 
+excuses) that woman becomes humiliated. "If you do not honour 
+me (my request) , I shall commit suicide. " 
+Thus urged by Parvati, the Lord went towards the Danava. 
+lsvara said: 
+Why do you imbibe smoke? Why do you perform these
+
+## Page 246
+
+234 
+Skanda Pura:IJa 
+austerities? What is your sorrow? What is your distress? Tell me 
+the desired object. You still seem to be only a youth about 
+twenty years old. Hence tell me the great cause or purpose of 
+this penance. 
+The Diinava said: 
+May unflinching devotion to you and steadfastness towards 
+you be granted to me. Another period of one thousand years 
+has gone unobstructed, 0 Lord. 0 Lord, already two thousand 
+days have· been completed by me doing this penance. 
+lsvara said: 
+1 5-23. 
+Do request for whatever has been desired by you, 
+0 devotee of good Vratas. I am pleased with you. 
+On hearing the words of the Lord, the Danava thought, 
+' Shall I request for heaven? Or shall I request for the entire 
+earth?' Thus he thought on being afflicted by the arrows of 
+Kama. 
+The Diinava said:1 
+If you are pleased with me, 0 Lord, you will kindly grant 
+me this boon, 0 Lord. I am not pleased with wars since I have 
+no strength. 0 Lord, if I touch anyone on the head, whether 
+he be a Deva, Danava or Gandharva, let him be reduced to ash 
+instantly. 
+lsvara said: 
+Whatever has been thought of by you shall be fruitful. Get 
+up. Go quickly to your abode, 0 Danava. 
+The Diinava said: 
+0 Lord of the chiefs of Devas, be pleased to stay so that I 
+shall test your boon by placing my hand on your head. I can 
+have the satisfaction and conviction. 
+1 . 
+This story seems to be a special contribution of Reva KhaJ:u;la. As PE 1 27A 
+notes, it is not traced in any other Pural).a.
+
+## Page 247
+
+V.iii.67.24-36 
+235 
+Thereupon Mahesvara began to worry. 'Neither Skanda nor 
+Hari nor Brahma can be competent to deal with this situation 
+now. ' After coming to know that the calamity had overtaken 
+him, the Lord requested his bull, "Now, fight with this sinful 
+one. " 
+The Daitya extended his hand and was about to touch the 
+Lord's head. By that time he was lashed with his tail by the bull 
+and so he fell down distressed. 
+24-36. 
+Accompanied by Uma, the Lord went in the. south­
+ern direction. Extremely frightened, he turned his neck fre­
+quently to look back ( to see how far he followed) . When the 
+Lord vanished from the scene, the Daitya fought with the bull. 
+Both of them were very powerful, the most excellent ones 
+among the mighty. They fought each other for three Ghatikas, 
+striking each other with thunderbolt-like tiits and the Daitya 
+could not get the chance to touch the head of the bull with 
+the hands. 
+Striking him with a lash of his tail, the bull came away. The 
+Daitya too got up and closely followed the bull. 
+With the speed of wind, he came to the place where Lord 
+Mahesvara was present. On seeing the Danava coming, the bull 
+spoke these words: 
+"0 Lord, be pleased to ride on my back and go ahead quickly." 
+Accordingly the Lord got on to his back along with Uma and 
+sped ahead. 
+Then the Lord reached heaven and entered the palace of 
+Sakra; but the Danava in his arrogance due to his might did 
+not leave off the pursuit of the Lord. 
+Leaving the world of lndra, he went to Brahma's world. 
+Wherever the Lord went in fright along with the heaven-dwellᤘ 
+ers, he saw the Danava following closely his back. 
+Mter wandering in all the worlds the Lord was overwhelmed. 
+with surprise. There was no place where he could rest even for 
+a moment. 
+On coming to know of a fierce fight between the Lord and 
+the Danava, sage Narada became highly delighted in his soul. 
+He began to dance saying, "I am blessed today. My birth and 
+my life has been excellently lived. " On seeing the great quarrel 
+his satisfaction reached the maximum. Leaving them aside the 
+Brahmal).a Narada came to the place where Mahesvara, the 
+Lord, was present.
+
+## Page 248
+
+236 
+Skanda Pura:IJ-a 
+On seeing the Bn'ihmat:ta the Lord adored him and spoke 
+thus: 
+37-44. 
+"0 Narada, 0 most excellent one among sages, do 
+you know where Kesava is? Go there and inform Kesava about 
+this. " 
+Niirada said: 
+The Lord of Devas certainly dispels the disaster of Devas, 
+Danavas and Siddhas, Gandharvas, Uragas (Serpents) and Raᤦasas. 
+The impossible should not be uttered, not even mentally thought 
+of, 0 Lord; I am not aware of such calamity in your case. 
+lsvara said: 
+0 Narada, do go quickly to the place where Lord janardana 
+is present. Everything done by the Danava has been already 
+known to you. This Danava cannot be slain by groups of Maruts 
+even assisted by Indra. 0 great sage, go and intimate (this) to 
+Lord Kdava. 
+Niirada said: 
+0 Lord, I am not going now. Kdava is in sound sleep in the 
+Ocean of Milk. For urging him, behest has to be given by you 
+to these-mother, sister or daughter. One should not wake up 
+a sleeping king, master or preceptor. 
+lsvara said: 
+If a great fire catches the house and wise men do not wake 
+up the people there, they will perish. 
+Niirada said: 
+45-52. 
+Hurry up, Mahadeva; my good Lord, save yourself. 
+No doubt, I shall go to the place where Lord Janardana is 
+present. 
+Thereupon the extremely terrible Nandin and Mahakala took 
+up weapons in their hands brawny like pillars and struck the 
+Danava with weapons like Mudgara etc.
+
+## Page 249
+
+V.iii.67.53-60 
+237 
+All the three had huge bodies measuring seven palm trees 
+in height. While .they were fighting one another there was no 
+question of subduing or resting at all. 
+Thereafter the Brahmat:ta went towards Kesava who was asleep 
+in the Ocean of Milk. He saw him lying on the couch of the 
+serpent Seᤁa. The pair of his feet were held by Lakᤁmi and 
+kept on her thigh. Kesava was devoutly sung about by the 
+Apsaras. 
+Mter bowing down devoutly (Narada said:) "Today my birth 
+has become fruitful. My life has become excellent one. 0 Lakᤁmi, 
+do wake up the Lord of Devas unhesitatingly. " 
+On hearing the words of Narada Lakᤁmi pressed the big toe 
+of the Lord and said, "Narada is at the threshold. Do wake up, 
+0 Slayer of Madhu. " 
+On seeing Narada the Lord was highiy pleased and said, 
+"Welcome, 0 excellent one among sages. The night has well­
+dawned today. " 
+Niirada said: 
+53-60. 
+0 Lord, this morning is fruitful unto me, thanks 
+to thy vision. The Devas have ceased to be in good condition 
+and safe. Get up and proceed to them. 
+Sri Vi,St'U said: 
+It behoves you to recount the cause of the disaster to Brahma, 
+Indra, Rudra and the others, groups of Maruts. 
+Narada said: 
+A great and severe penance was performed by a Danava. A 
+boon was granted by Rudra enabling (him) to reduce to ash 
+(by the touch of his hand any one) as desired by him mentally. 
+On the strength of the boon so granted, he attempts to kill 
+the Lord. On coming to know such an attempt, the Lord has 
+been brought here along with the Devas. 
+On hearing the words of Narada, Hari went along with the 
+sage and saw Isana going to the northern direction. 
+On seeing the Lord (Hari) Rudra embraced him again and 
+again. Madhusildana also bowed to the Lord (Rudra) .
+
+## Page 250
+
+238 
+Skanda Purii7J-a 
+V(51J-U said: 
+0 Lord Mahesvara, may the cause of fear be mentioned. I 
+shall send the Devas, Danavas and Yakᤄas to the abode of Yama. 
+There is profuse perspiration on your forehead, 0 Mahdvara, 
+undoubtedly breaking through the head, the limbs and the 
+sense-organs (which are tired) . 
+lsvara said: 
+61-69. 
+Fools have no happiness. Patients have no happi­
+ness. One who is not free has no happiness. Particularly a hen­
+pecked husband (dependent on another i.e. wife) has no happiness. 
+0 ViᤄQU, urged by a woman a boon has been granted to the 
+Danava by me: "If you place your hand on anyone's head he 
+will be reduced to a heap of ashes. " Told thus by me he has 
+become invincible and immortal, 0 Kesava. The sinner wishes 
+to kill me. Have you any means of remedy? 
+Vi,s-7J-u said: 
+0 Sailkara, I shall find out some means of killing the Danava. 
+May you and all the Devas go and stay on the banks of Reva. 
+You must not delay. 0 Lord, hurry up. 
+A Tirtha like that cannot be seen in the mortal world, a 
+Tirtha where there is Ganga, the great river Reva and Praci 
+Sarasvati tlowing to the south. 
+If holy ablution is taken there and Dana is performed de­
+voutly, the sin committed in the course of seven births perishes 
+undoubtedly. This Tirtha is highly meritorious and destructive 
+of all sins. 0 Lord of Devas, do go to the Luilkesa Tirtha there 
+along with the Devas. 
+At the instance of ViᤄQU he (Siva) entered the excellent 
+Hrada (whirlpool) . 
+70-78. 
+He diverted himself very much along with the groups 
+of Maruts. Thereafter Lord (KrᤄQa) employed his Maya _in various 
+ways. He created the month of Vasanta beautified with splen­
+did gardens and forests abounding in the following trees: Asoka, 
+Bakula, splendid Brahmavrkᤄa (i.e. Palasa) , Srivrkᤄa, Kapittha, 
+Siriᤄa, Rajacampaka, Sriphala, Tala, Kadamba, Udumbara, A.Svattha
+
+## Page 251
+
+V.iii.67. 79-88 
+239 
+and various other trees. They had profuse collection of flowers 
+of sweet scent with humming bees hovering round. 
+In the centre thereof there was a great splendid Nyagrodha 
+tree. Many birds perched thereon. It was reverberated with the 
+cooing of cuckoos. KpᤄQ.a instantly assumed the form of a girl 
+of such physical charm as there was no other girl on a par with 
+her (in beauty) in the three worlds consisting of mobile and 
+immobile beings. A group of seven girls also (was created) . 
+They were very beautiful with splendid eyes. All of them had 
+divine forms embellished with divine ornaments. They were 
+desirous of a man. 
+A swing was tied to bamboos and decorated with beautiful 
+garlands of pearls_, jewels, rubies and splendid lapis lazuli. Those 
+great girls sat on it and began to sing sweetly. 
+79-88. 
+A cool breeze blew gently over the splendid forest. 
+Sweet fragrance was wafted by wind and it tickled the sense of 
+smell of the Danava. 
+He was very much astonished by the sweet scent of flowers. 
+He thought, ' Smelling it, I feel that such a (fragrant) flower1 
+has been never seen or heard by me. ' 
+Even as h e was reflecting thus, a splendid sound of music 
+(was heard by him) . On hearing the sound of music he became 
+deluded by the Maya of Hari. 
+Just as a deer falls into the great snare of a hunter, so also 
+the KalasprHa (one who is touched by Kala) Daitya fell into 
+the trap of KrᤄQ.a. 
+On seeing the girl the Daitya swooned and fell on the ground. 
+Even as he fell down he saw a girl standing at the foot of a 
+banyan tree. 
+Seeing the faces of the girls, he was again afflicted by the 
+god of Love. He lifted up a golden staff and wished to topple 
+her down. 
+The girl said: 
+No. No. Do not touch me. I am a virgin of an excellent 
+family. Oh, leave me off so that I can go home quickly! 
+I. 
+pu$pam is probably the original reading and not puJJ.yam.
+
+## Page 252
+
+240 
+Skanda Purii.7J.ll 
+The Danava said: 
+0 splendid girl, I wish to marry you. Thus, undoubtedly you 
+shall become the queen of the entire earth. 
+The girl said: 
+In childhood father protects her (a woman) . In youth husband 
+protects her. In old age son protects her. Hence a woman does 
+not deserve being independent. I am not free. I am born of 
+a noble family. Either my father, brother or mother should be 
+approached with the request. 
+The Danava said: 
+89-96. 
+0 lady of splendid eyes, if you are not going to act 
+independently, if you do not wish me (to be your husband) , 
+it will end in my death today. It is true. 
+The girl said: 
+Trust cannot be placed (indiscriminately) on every man. 
+Men behave with women curiously. They are lascivious and 
+infatuated with love. You may very well marry me and enjoy all 
+pleasures with me. Later my whole life may be ruined. Neither 
+you nor anyone else will be mine. 
+Whether one is a BrahmaQ.a girl, a ᤧ
+atriya girl, a Vaisya girl 
+or a Siidra girl, she cannot have a second husband. She will 
+have to remain single throughout her life. 
+The Danava said: 
+The statement made by you has been kept in mind by me. 
+Whatever _you may think of, I shall offer for convincing you. 
+The girl said: 
+Understand that I am a cowherd lass. I am playing with my 
+companions. Only take the solemn oath taken in our family. 
+It is not the ordeal known as 'poison' 'Kosa' or 'Tula' (Bal­
+ance) . In all cowherd families the hand is placed on the head. 
+The hand was then placed on his own head by the Daitya,
+
+## Page 253
+
+V.iii.67.97-109 
+241 
+blind with passionate love, 0 great king. Immediately he was 
+reduced to ash. He was burnt down like a bundle of hay. 
+97-1 09. An auspicious shower of flowers was heaped upon 
+Ke5ava by the Devas. Delighted and free from feverish mental 
+anguish, all the Devas went to their respective abodes. 
+Kesava went to the Ocean of Milk after Kalasprᤄta had been 
+struck down. 
+He who devoutly listens to the story of the Danava shall 
+always be victorious as Sarikara had uttered already. For this 
+reason it is well-known as Lirige5vara (Lurikesvara) . (The sin) 
+that is lying latent within perishes merely by the holy ablution. 
+All the sins pertaining to the skin, bone, blood, flesh, suet, 
+nerves, marrow and semen virile perish even if they had been 
+perpetrated in the course of a crore birWl.s. 
+If a devotee devoutly drinks three cavity-fuls of the water at 
+Lurike5vara, 0 great king, all his sins become split into a thousand 
+smithereens. Particularly on the eighth and fourteenth days of 
+either half of a month a man should observe fast, 0 son of 
+.PaQ<;lu, and perform the Sraddha for the Pitrs. All the Pitamahas 
+(grandfathers i.e. ancestors) condemned to hell become re-
+deemed. 
+If a person offers even a KakiQI (worthless small coin) to a 
+BrahmaQa who has mastered the Vedas, he attains thereby all 
+the benefits of the Dana rites performed in Kurukᤄetra etc. 
+It is not otherwise. 0 king, it is Sarikara who says this. 
+0 king, this Liriga is Sparsa Liriga (a Liriga to be touched 
+in adoration) made by Sarikara himself. Merely by touching it 
+men attain residence in Rudra Loka. The same is the case with 
+regard to the benefit of Dana etc. performed here., as in the 
+case of Kurukᤄetra etc. 
+It is for this reason that the Lokapalas (Guardians of the 
+Quarters) are made protectors. Durga ·.n an auspicious form 
+having four hands is also created fm the sake of protection. 
+Dhanada, the chief of the Lokapalas, is the bodyguard of 
+Isvara. He always protects through the activities of the Planets. 
+Lurikesvara is not left off even today, 0 great king, by the 
+Devas who have assumed the forms of sons, brother, or some­
+one related to the master.
+
+## Page 254
+
+242 
+Skanda Purii7J-a 
+CHAPTER SIXTYEIGHT 
+The Greatness of Dhanada 
+Sri MiirkaTJ-f!eya said: 
+1-1 1 . Then one should go to the Ti:rtha of Dhanada, 0 
+Yudhiᤄᤃhira. It is on the southern bank of Narmada and it 
+causes the destruction of all sins. There is no doubt about this 
+that the benefit of all the Ti:rthas is obtained there. 
+A person with the sense-organs under control should ob­
+serve fast with great devotion on the thirteenth day in the 
+bright half of the month of Caitra and keep awake at night. 
+A wise man should bathe Dhanada with Paiicamrta, 0 great 
+king. A Dipa (lamp) supplied with ghee should be given. 
+Arrangement for vocal and instrumental music should be made. 
+Desirous of the welfare of himself, he should adore Brahmar;tas 
+in the morning. They should be persons deserving Pratigraha 
+(religious gift) and expounders of the principles of various 
+lores. They must be persons regularly performing rites en­
+joined in Srauta and Smarta Texts. They should be indifferent 
+towards the wives of others. They should be adored with gifts 
+of cows, gold, garments, shoes, foodstuffs, umbrellas and beds. 
+All sins shall thus be destroyed. The sins acquired in the course 
+of three births shall be destroyed by the power of Dhanada. 
+It is the giver of heavenly pleasures to the arrogant and sal­
+vation to the humble. It shall give food to the poor in every 
+birth. Destruction of misery and birth in a good family shall 
+be had naturally by the man. 
+By resorting to the waters of Narmada, there shall be de­
+struction of ailments. He who imparts Vidya (learning) at the 
+Ti:rtha of Dhanada attains Bhaskara Loka (world of the Sun) 
+which is free of all ailments. 
+Those who arrange a large procession of idols in accordance 
+with their capacity, 0 son of PaQQU, on the southern bank of 
+Reva, go to the wᤙrld of Sati.kara bereft of all miseries.
+
+## Page 255
+
+V.iii.69.1-16 
+243 
+CHAPTER SIXTYNINE 
+The Greatness of Mangalesvara 1irtha 
+Sri Miirka1J¢eya said: 
+1-8. 
+Then one should go to the excellent Mailgaldvara 
+installed by the Son of the Earth (i.e. Mars) with a desire for 
+the welfare of all people. 
+The moon-crested Lord Sailkara was propitiated (by Mailgala) 
+with great devotion. On the fourteenth day, the Lord and 
+preceptor, Mailgaldvara, manifested himself (and said) : "Tell 
+me, dear son, the splendid boon (you wish to have ) . I shall 
+grant it to you, 0 Maiigala. " 
+Mangala said: 
+0 Saiikara, 0 Sambhu, do me this favour: May I be born of 
+the sweat of your limbs and stay in every birth in the middle 
+of the Planets. 
+0 Isana, with your favour I am worthy of being worshipped 
+by all the Devas. Today I have become blessed due to your 
+appearance before and conversation with me. Stay at this holy 
+spo t, 0 Lord of the chiefs of Devas , afte r my name 
+(Maiigalamahesvara) . 
+The Lord said, "Let it be so, dear son " and vanished. 
+Maiigala, the noble soul, installed Mahesvara by means of 
+his own Yogic power and worshipped the Trident-bearing Lord. 
+The Liiiga named Mailgalesvara is the destroyer of all mis­
+eries. A wise devotee should propitiate Brahmat:tas at that Tirtha. 
+He shall propitiate the Brahmat:tas along with their wives. 
+9-1 6. 0 excellent king, (he should observe) the Caturthi:­
+ailgaraka-vrata, at the conclusion of which a cow along with 
+bulls capable to carry the yoke is given to a Brahmat:ta couple 
+(man and wife) . The Brahmat:ta should be learned and a master 
+of the Veda. The gift should be given with God Siva in view 
+saying, "May Mahadeva, the bull-emblemed Lord, accompa­
+nied by his wife be pleased. " 0 son of Pat:t<;lu, gift of a pair of 
+red clothes should be made. The bearers of yoke (bulls) may 
+be red in colour, or white or black. An umbrella, auspicious 
+bed, red garlands and unguents should be given with a pure 
+heart, 0 excellent son of Pat:t<;lu.
+
+## Page 256
+
+244 
+Skanda Puriir;ta 
+Sraddha too should be performed on the fourth and eighth 
+days of both the fortnights, the dark and the bright. There 
+should not be any hesitation in spending money. Thereby the 
+departed souls become well-pleased, 0 king, for a period of 
+one Yuga. In every birth the man becomes blessed with sons, 
+0 excellent king. 
+By the power of the Tirtha, the devotee shal·l be handsome 
+in every limb, 0 king. There shall be well-being in the family. 
+There can never be any evil thing anywhere. The sin of the 
+devotee who glorifies the Lord everyday is destroyed. 
+CHAPTER SEVENTY 
+The Greatness of Ravi Tirtha 
+Sri Miirkar_uf,eya said: 
+1-4. 
+There is a highly splendid Tirtha on the northern 
+bank of Reva. It was inaugurated by Ravi. 0 son of Kunti, it 
+causes the destruction of all sins. 
+There, on the northern bank, Bhaskara (the Sun-god) stays 
+with his sixteenth part. He is installed on Narmada as an eradi­
+cator of all the ailments of men. 
+0 excellent king, on every sixth, eighth and fourteenth lunar 
+day, if a man bathes (the deity) and devoutly offers Sraddha 
+unto the departed, 0 son of Kunti, his sins will be destroyed. 
+He is honoured in the world of the Sun. 
+Falling down from heaven (later) he will be born in a family 
+free from impurities. In every birth he shall live free of all 
+ailments and will be wealthy.
+
+## Page 257
+
+V.iii. 71 .1-V.iii. 72.5 
+245 
+CHAPTER SEVENTYONE 
+The Greatness of Kame5vara Tirtha 
+Sri Markatt4eya said: 
+1-4. 
+Thereafter, 0 excellent one among the sons of PaQᤚu, 
+listen to another Tirtha named Kamdvara. It was here that 
+Gar:tadhyakᤄa (Gar:tesa) , the highly powerful son of Gauri, became 
+a Siddha (i.e. one who had achieved spiritual perfection) . 
+In that Tirtha, a devotee should control his sense-organs, 
+bathe the idol with Pafi.camrta with great devotion and offer 
+incense, Naivedya and other articles of adoration. By propiti­
+ating the Lord of the worlds thereby, he will be rid of 1all sins. 
+0 YudhiHhira, a devotee should take his holy bath there on 
+the eighth day in the month of Margasirᤄa. Whatever be his 
+desire in performing the adoration, he shall certainly attain it. 
+CHAPTER SEVENTYfWO 
+The Greatness of Mattinagesvara Tirtha1 
+Sri Miirkatt4eya said: 
+1-5. 
+Thereafter, 0 great king, one should go to the aus­
+picious Mar:tinagesvara on the northern bank of Narmada. It 
+causes the destruction of all sins. It has been installed by Mar:tinaga 
+with a desire for the welfare of all the worlds. 
+Yudhi6lhira said: 
+How was Isvara propitiated by a serpent with venom in the 
+fangs? Even though they may be very small, venomous reptiles 
+strike terror unto the world. 
+May everything conducive to the destruction of all sins be 
+recounted to me. My misery due to the distress caused by 
+1 . 
+Herein the legend of Vinata's enslavement and release {from Mbh, Adi 
+chs 19-20) is adapted for the glorification of this Tirtha.
+
+## Page 258
+
+246 
+Skanda Purii:r.ta 
+Duryodhana, that originating from Karra and Bhi!!ma and the 
+terrible distress caused to Paficali is washed away by the cur­
+ren t (of sane advice) from your lotus-like mouth and (thus) 
+I have attained great peace (of mind) . We have heard the sin­
+destroying story that issued forth from your mouth, 0 Brahmal)a. 
+Still, it is unreasonable that our pain has not subsided. 
+6. 
+Or, 0 dear one, the benefit (fruit) that is derived from 
+Vidyadana (imparting learning) is obtained by always listening 
+to the stories or episodes concerning Hari. 
+Sri Miirka'T}.f/,eya said: 
+7-1 5. As and when you go on speaking (by way of request) , 
+0 king, fluency of speech comes to ine naturally. Neither the 
+laxity of limbs due to my old age nor your friendship becomes 
+diminished, 0 dear one. Hence in the company of your kins­
+men listen to this praiseworthy story that destroys sins. 
+I shall narrate to you the old legend in the manner it happened. 
+It has been traditionally handed down by the ancestors, 0 
+descendant of Bharata. 
+Kasyapa had two wives, the most excellent ones in all the 
+worlds. Vinata gave birth to Garu<;la and Kadru to serpen ts. 
+0 dear one, they stayed on contentedly in the abode of 
+Kasyapa. Both the ladies Kadru and Vinata were always de­
+lighted. Kasyapa, the patriarch, sported .along with them. 
+One day, the slender-limbed wife of Kasyapa, who was stay­
+ing in the hermitage and whose countenance was splendid, saw 
+the horse UccaiQ.sravas that had the speed of mind and was 
+white all over. He was running non-stop with his speed com­
+parable to that of mind. On seeing the horse she (Kadru) 
+jealously spoke these words: 
+Kadril said: 
+Tell me, fair lady, of what colour is the horse of Sahasrarilsu 
+(the Sun) . (This is evidently a mistake, as the horse belonged 
+to Indra?) I say it is black. What do you say? Tell me. 
+Vinatii said: 
+1 6-25. 
+Is it not that you see only black (things) with your 
+eyes and not white one.s? 0 fair lady, by speaking the untruth
+
+## Page 259
+
+V.iii. 72.26-34 
+247 
+you will go to the world of Varna. With regard to the truth or 
+otherwise of (our) statement it is a wager between you and me. 
+(If my statement turns out to be untrue) I shall be a slave in 
+your palace for a thousand years. If my words prove to be 
+untrue and Uccaissravas turns out to be black, then I shall be 
+a slave in your palace. 0 mother of serpents. 
+Kadru then said: "If Uccaissravas is white, I shall be your 
+slave. " Thus the dispute between the two increased. 
+The young lady in the hermitage was worried throughout 
+the night. All her activities were reported to the kinsmen . She 
+spoke to her sons, 0 son of Kuntl, "I have made a bet. " 
+On hearing that a bet was made by their mother the Ser­
+pents shouted loudly: "There is no doubt' that you have be­
+come a slave. The vehicle of Bhaskara (? of Indra) is white. 
+The horse Uccaissravas is white, it is not black at all. " 
+Kadrft said: 
+Now think of a means to prevent my becoming a slave. Do 
+enter the hair-pores of the horse Uccaissravas, only for a short 
+while, till he appears black. Within a moment she can be made 
+my slave. After making the lady Vinata who is proud of being 
+true, my slave, you all will be back at your own places happily. 
+The serpents said: 
+26-34. 
+0 mother, you are our mother and hence worthy 
+of being worshipped by us. In the same manner she is worthy 
+of being worshipped (by her sons) . Hence one should be particular 
+in not deceiving mothers. Verbally, mentally and physically 
+one should do whatever is conducive to the benefit of the 
+mother, father's wife (step-mother) , maternal and paternal grand­
+mothers. 
+Kadrii became furious at their words. She blazed like the 
+fire of death. "If there are serpents on the earth not willing 
+to carry out my behest, all of them will unexpectedly get into 
+the mouth of fire. " 
+All the serpents heard those words of their mother. Some 
+of them penetrated the pores of the hairs of the horse Uccaissravas.
+
+## Page 260
+
+248 
+Skanda Purii:IJa 
+Some vanished in the ten different quarters because they were 
+afraid of the curse of Kadrii. Some of them disappeared under 
+the waters of Ganga; some in those of Sarasvatl. Some of them 
+hid themselves in the great ocean. Some entered the caves of 
+Vindhya. The excellent serpent Mal).inaga resorted to the waters 
+of Narmada and performed extensive penance on the north­
+ern bank of Narmada. 
+0 son of Kunti, to save himself from the fear of the curse 
+of his mother, he meditated upon the destroyer of Kama. He 
+meditated on the Lord who is indivisible (impossible to be 
+divided) , incomprehensible and devoid of birth and death. For 
+more than a hundred years he subsisted himself on air; for half 
+of that period he fixed his eyes on the Sun. While he was thus 
+engrossed in meditation, the Lord, the destroyer of Tripuras, 
+appeared before him. 
+35-43. 
+"Excellent! Excellent! 0 highly esteemed one. 0 
+serpent, you have intrinsic strength. I have been resorted to 
+by you with devotion. I am pleased with you, 0 Lord of serpents. 
+Request for any boon from me whatever may be in your mind. " 
+Ma7Jinaga said: 
+0 Lord, it is out of fear from the curse of my mother that 
+I subjected myself to austerities on the banks of Narmada. May 
+my mother's curse be ineffective in regard to me, with your 
+favour, 0 my Lord. 
+lsvara said: 
+0 dear one, at my behest you will never get into the jaws 
+of fire. 0 son, you will also reside in my world. 
+Ma7Jinaga· said: 
+0 Mahadeva, may you be pleased to stay by a part of yours 
+in this spot. May you be pleased to stay in the waters of Narmada 
+by a thousandth fraction of yours for the sake of obliging the 
+worlds. 0 Sankara, stay here after my name. 
+lsvara said: 
+0 serpent, install my great Linga here at my behest. 
+After saying this, the Lord vanished and went away with 
+Uma.
+
+## Page 261
+
+V.iii. 72.44-53a 
+249 
+Miirkarpf,eya said: 
+Those who go to that Tirtha with pure and clean minds on 
+the fifth, eighth or fourteenth day, whether it be bright half 
+or dark half of the month, and always adore the Lord, do not 
+go to Yama, 0 son of Kuntl. 
+They must bathe with curds, honey, ghee or milk, Lord 
+Virupakᤄa. half of whose body is that of Uma, the Lord who 
+burned down the body of Kama and who slew the demon Agha; 
+ot they rnust witness the great Lord being bathed with great 
+devotion. They will therefore go to the great world devoid of 
+all sins. 
+44-5 1 . 
+Sraddha for the departed should be performed, 0 
+son of Kunti, on the fifth and eighth lunar days through well­
+qualified Brahmar:tas-those who study and" ponder over Vedic 
+passages, who are devoted to their own wives with scrupulous 
+avoidance of other men's wives, who are gentle and polished, 
+who invariably perform the six enjoined rites and who avoid 
+sending Sudras on errands (of spiritual nature) . 
+Dear son, the following persons should never be employed 
+in Sraddha: lame ones, lepers, impotent ones, those who live 
+on usury, husbandmen and those of an avocation different 
+from the decent rites. 
+0 king, in Vratas and Sraddhas, that Brahmar:ta should be 
+avoided from afar, a Brahmar:ta who keeps a Siidra wo"llan in 
+his abode or who keeps buffaloes. 
+In the auspicious MaQ.inagesvara Tirtha the following Brahmar:tas 
+should never be honoured, if one wishes for upward progress 
+of oneself along with the Pitrs: one-eyed ones, mumblers ( those 
+who utter meaningless, indistinct words) , mentally disordered 
+and those devoid of self-study of the Vedas. 
+One who makes a gift of a cow beautiful in every limb, to 
+a BrahmaQa, goes to the greatest world {and stays there) until 
+the annihilation of all living beings. Thereafter, slipping down 
+from the heavenly world, he will be born in a family devoid 
+of impurities. 
+0 king, if persons visit Mar:tinagdvara with great devotion, 
+there shall be no fear from serpents in their family.. 
+52-53a. 
+By visiting MaQ.inaga shrine devotees appear to groups 
+of serpents in the forms of GarU<a and so the serpents are 
+suspicious (afraid) of them.
+
+## Page 262
+
+250 
+Skanda Purii:IJa 
+Henceforth, 0 king, listen to the benefits of Danas (gifts) 
+made here. 
+53b-65. 
+0 great king, those excellent men, if desirous of 
+their welfare (final beatitude) , should give to a deserving 
+(BrahmaQa) cooked rice with all condiments, water, bed, an 
+umbrella, a virgin and a sweet-speaking maidservant (slave) . 
+Fragrant flowers, scents and garments, lamp, food-grains, a 
+splendid well-furnished house should be given. Those who give 
+with great devotion go to heaven. 
+Whatever gift is given at MaQinaga, residence in heaven 
+becomes certain as a fruit of that Dana. All sins disappear like 
+water in a mud-pot not yet annealed and baked. 
+One who gives unto a BrahmaQa foodstuffs cooked and pre­
+pared in the waters of Narmada becomes rid of all sins and 
+sports about with Devas. 
+Hereafter I shall mention the characteristics of those who 
+slip down from the heavenly worlds: They are long-lived. Their 
+sons will be alive. They will be alive. They will be devoid of all 
+types of ailments. They will be endowed with sons and servants. 
+They will be persons ready to renounce. They will enjoy plea­
+sures. They will always be engaged in the narration of pious 
+stories. They will be devotees of Devas, BrahmaQas and precep­
+tors. They will relish pilgrimages. They will be obedient to 
+mothers and fathers. They will be devoid of hatred and anger. 
+0 son of PaQQU, all the people having these characteristics 
+have truly come down from heavenly worlds and they will go 
+to heaven again. 
+0 excellent king, MaQinaga is a Ti:rtha which is the most 
+excellent one alJ!ong Tirthas. One who reads or listens to this 
+narration about the Ti:rtha shall be rid of all sins. He is honoured 
+in the world of Siva. No poison affects them. They move about 
+as they please. By listening to this narrative one gets that benefit 
+which one gets by viewing Bhaskara ( the Sun-god) on the sixth 
+lunar day in the month of Bhadrapada.
+
+## Page 263
+
+V.iii.73.1-15 
+251 
+CHAPTER SEVENTYTHREE 
+The Greatness of Gopiireivara 7irtha 
+Sri Miirka7J,tf,eya said: 
+1-5. 
+0 son of Kunti, there is an extremely splendid Tirtha 
+on the southern bank of Narmada. The excellent Gopardvara 
+is destructive of all sins. A meritorious Liilga issued .forth from 
+the body of a cow on the surface of the earth there, 0 king. 
+Yudhi$thira said: 
+How did it come to happen thata Liilga that causes destruc­
+tion of sins issued forth from the body of a cow on the south­
+ern bank of Narmada very near MaQ.inaga? 0 BrahmaQ.a, may 
+the origin of the Goparesvara Liilga be narrated succinctly. 
+Sri Miirka1J-4eya said: 
+Formerly, 0 son of Kunti, Kamadhenu performed a pen­
+ance there. She meditated on Mahesvara, the Lord of Devas, 
+with great devotion. 
+Mahdvara, the Lord of the worlds, became pleased with the 
+tawny-coloured cow. From within her body Paramdvara, the 
+indivisible Lord, came out. 
+Mahesvara said: 
+0 tawny-coloured one, 0 Paramesvarl, 0 mother of the uni­
+verse, I am pleased with you. 0 one of fair countenance, say 
+quickly why the propitiation was carried on. 
+Surabhi said: 
+6-15. I have been created by Parameᤁᤃhin for the sake of 
+helping the worlds. It is with my favour that all the affairs of 
+the world come to fulfilment. 0 Sailkara, if people will pro­
+ceed towards heaven, it is due to my favour. 0 Sarilbhu, do stay 
+in my Tirtha with a desire for the welfare of the wᦥ;>rlds. 
+Saying "So it shall be", the Lord stayed there joyously. Ever 
+since then, that Tlrtha became well known all over the earth.
+
+## Page 264
+
+252 
+Skanda Purii'T}a 
+By means of a single bath, 0 great king, one dispels a great 
+mass of sins. The gift of a cow at Goparesvara should be made 
+with great devotion. A suitable cow should be given to a de­
+serving excellent Brahmal).a along with gold and calf. 
+The cow should be young, white in colour and yield profuse 
+milk. It shall be given along with cloths also. 
+The gift should generally be made on the eighth or four­
+teenth lunar day in the dark half of a mon th. 
+Of all the months, the month of Karttika is of special sig­
+nificance. The gift should be made over to a Brahmal).a eager 
+to continue the self-study of the Vedas. 
+The gift is to be made with great devotion. One who makes 
+the gift duly, he who accepts it gracefully and duly-both of 
+them are meritorious. One who witnesses this also earns merit. 
+One should offer balls of rice to the departed ones with due 
+reverence and devotion. Thus, 0 great king; the departed ones 
+attain the great goal (heaven) . 
+The sins of those who make devoutly obeisance everyday to 
+Rudra become dissolved like water in a broken pot. 
+One who releases a bull ritualistically in that Tirtha is honoured 
+in Sivaloka. The Pitrs are redeemed by him. 
+Yudhi$thira said: 
+1 6-23. 
+0 excellent Brahmal).a, quickly explain assiduously 
+the benefit that accrues to men when Vpᤄotsarga (ceremonial 
+and ritualistic releasing of a bull) is done. 
+Sri Miirka'T}f/,eya said: 
+Listen, 0 son - of Dharma. I shall explain fully the benefit 
+that is attained when a bull fully endowed with all excellent 
+characteristics, 0 king, is let loose on the full-moon day in the 
+months of Karttika and Vaisakha. A person should take his 
+holy bath and remain clean with all the sense-organs controlled. 
+He should make the Vr11otsarga in the presence of Rudra uttering, 
+"May ᤛara be pleased". Dear son, he should keep nearby four 
+excellent female calves. After offering these possessing all essential 
+features to a leading Brahmal).a, he shall say: "May Mahadeva 
+be pleased. May Brahma, Vil?I).U and Mahesvara be pleased. " 
+He will be honoured in Sivaloka, 0 king, for as many years
+
+## Page 265
+
+V.iii.74. 1-6 
+253 
+as there are hairs on all the limbs. After staying in Sivaloka, 
+when he is reborn in the mortal world, it shall be in a great 
+family richly endowed with wealth and food-grains. He shall be 
+endowed with handsome features and excellent learning. He 
+shall be clean and truthful. He shall be devoid of ailments. 
+0 Yudhighira, the greatness of Gopare5vara has been nar­
+rated by me. The Linga had issued forth from the body of the 
+cow on the southern bank of Narmada. 
+CHAPTER SEVENTYFOUR 
+The" Greatness of Gautamesvara"Tirtha 
+Sri Miirkarpf,eya said: 
+1-6. 
+There is an excellent Tirtha on the northern bank of 
+Reva. It is destructive of all sins in the mortal world. It is 
+(known) by the name Gautamesvara. It has been established 
+by Gautama himself, with a desire for the welfare of all the 
+worlds. 0 Yudhighira, this Tlrtha is in the form of a flight of 
+stairs unto heaven for all men. Go there with great devotion 
+to the place where the Lord, the preceptor of the universe, is 
+present for the sake of the destruction of sins. He is also the 
+bestower of a residence in Svarga. 
+The Tlrtha is conducive to the augmentation of blessedness. 
+It bestows victory. It is destructive of miseries. By means of a 
+single offering of balls of rice there a devotee shall redeem 
+three generations of his family. 
+At the behest of Gautama, everything that is given with devotion, 
+whether meagre or much, shall become a hundred thousand 
+times (more beneficial) as stated by Rudra. This is the greatest 
+Tlrtha of all Tlrthas.
+
+## Page 266
+
+254 
+CHAPTER SEVENTYFIVE 
+The Greatness of Sankhacit4a Tirtha 
+Sri Miirka7J4eya said: 
+Skanda Purii:FJa 
+1-5. There is a great and beautiful Tlrtha on the southern 
+bank of Narmada. It is well-known in the terrestrial sphere by 
+the name of Sankhacii<;la, 0 son of Pal).<;iu. Sankhacii<;la is himself 
+present there on the pleasant bank of Narmada, due to the 
+fear of Vainateya (Garu<;la) . 
+A person should remain clean with mental concentration 
+and purity and bathe Sankhacii<;la with milk, honey and ghee. 
+He should keep awake at night before the Lord. After honouring 
+Brahmal).as of esteemed holy vows, with cooked rice soaked in 
+curds, a cow should be gifted to an eminent Brahmal).a. Thereby 
+all sins will be destroyed. 
+Libation should be offered . ( to the Pitrs) killed by serpent 
+bite. He shall go to the greatest world, as said by Sankara. 
+CHAPTER SEVENTYSIX 
+The Greatness of Piiresvara Tirtha 
+Sri Miirka7J4eya said: 
+1-7. Thereafter, one should go to the excellent Pare5vara 
+(Tlrtha) , 0 great king. The noble-souled Parasara performed 
+on the splendid banks of Narmada a severe penance for the 
+sake of a son, 0 son of Pal).<;iu. 
+Gaur!, the daughter of Himavan, was propitiated by him 
+with great devotion on the northern bank of Narmada. 
+The great goddess, the sharer of half of the body of Sankara, 
+became pleased with him. "Oh ! 0 excellent sage! I am pleased 
+by your devotion. 0 Brahmal).a, request for a boon . from me, 
+0 highly intelligent Parasara. " 
+Pariisara said: 
+0 goddess, if you are pleased with me, if a boon has to be
+
+## Page 267
+
+V.iii. 76.8-24 
+255 
+given to me, 0 goddess, grant me a son who is endowed with 
+the qualities of truthfulness and cleanliness, who regularly studies 
+the Vedas and is an expert in all scriptural texts. 1 0 goddess, 
+thanks to the boon; may there be your presence in this Tirtha 
+here. 0 Daughter of the Mountain, for the sake of helping the 
+worlds, may you be pleased to stay on the southern bank of 
+Narmada by the name of Parasara. 
+Sri Devi said: 
+8-1 7. So be it, 0 Brahmal).a. 
+She vanished there itself. The noble-souled Parasara installed 
+Parvati. He established Sarikara, bowed down to by Suras and 
+Asuras, the Lord who cannot be comprehe'!lded in an adequate 
+manner, who cannot be divided and approached even by Devas. 
+0 king, Parasara, the noble-souled one, became contented. 
+The Tirtha there should be resorted to devoutly by a pure 
+person with a controlled mind. Whether a woman or a man, 
+she or he should be free from lust and anger. 
+The month may be Magha, Caitra, Vaisakha, Sraval).a or 
+Margasirᤄa. but invariably it should be (visited) in the bright 
+half of the month. There the devotee stays in a splendid place 
+on the ·southern bank. 
+After observing fast with great devotion, he should perform 
+the following Vrata. He shall keep awake during the night and 
+offer lights in accordance with his capacity. There should be 
+dance, vocal and instrumental music etc. The devotee should 
+be devoid of lust and anger. 
+In the morning, Brahmal).as should be honoured in accor­
+dance with one's capacity, 0 son of Kunti, by means of cash 
+gifts, gold, garments, umbrellas, quilts, betel leaves and food. 
+The devotee should propitiate Brahmal).as of esteemed Vratas. 
+0 excellent king, Sraddha should be performed with libations 
+of water or cooked or uncooked food. 
+1 8-24. 
+In the case of women and Siidras, Ama-sraddha 
+(Sraddha with uncooked food) is recommended. 
+0 YudhiHhira, four times the usual quantity should be given 
+in case it is uncooked food to be given to the Brahmal).as. 
+1 . 
+Birth ofVyasa as a son i s suggested to be the fruit of this boon to Parasara.
+
+## Page 268
+
+256 
+Skanda Purii:r;ta 
+The BrahmaQ.as should be assiduously honoured in accor­
+dance with the injunctions of the Vedas, by means of Kusa 
+grass a Hasta (forearm, a cubit) in length as well as gingelly 
+seeds and raw rice-grains. 
+The BrahmaQ.as should sit facing the north and the per­
+former of Sraddha himself faces the south. Uttering the fol­
+lowing Mantra, the food should be placed on Darbha(?) before 
+the BrahmaQ.a: "May the departed ones go to the great world 
+by the power of this Tirtha. May my sin be subdued. May 
+auspiciousness always increase. 0 excellent BrahmaQ.a, may the 
+family and the groups of kinsmen ( always) flourish . " 
+Mter uttering this, gifts should b e made to the BrahmaQ.as 
+in accordance with one's capacity. Cow, plot of land, gingelly 
+seeds, gold etc., cooked food, garments etc. should be given, 
+0 excellent son of PaQ.<;iu, in the splendid hermitage of Paresvara. 
+Those who devoutly listen are rid of all sins. 
+CHAPTER SEVENTYSEVEN 
+The Greatness of Bhime.Svara Tirtha 
+Sn Markar:uf,eya said: 
+1-7. 
+Thereafter, one should go to the Bhimeilvara Tirtha, 
+which destroys all sins. It is resorted to by the groups of sages 
+who are splendid and regular performers of severe Vratas. 
+A person controlling the sense-organs and observing fast, 
+should take his holy bath in the Tirtha. Raising his arms up 
+towards the Sun, he should utter the single-syllabled Mantra. 
+The sins accrued to him in the course of that birth perish 
+instantly. 
+By (the recitation of) Gayatri, the sins acquired in the course 
+of seven births perish certainly. A hundred repetitions destroy 
+the sins committed before in the course of ten births. Gayatri 
+destroys the sins arising in the course of three births by means 
+of a thousand repetitions. 
+The Mantra whether Vedic or secular (non-Vedic) in origin 
+that is repeated, 0 king, instantly burns down all sins like fire 
+that burns blades of grass.
+
+## Page 269
+
+V.iii. 78. 1-9 
+257 
+One should not wilfully commit sins on the strength of the 
+power of a deity. If the sin is committed due to ignorance, it 
+perishes quickly, but not the other one at any time. 
+A person should offer gifts at that Tirtha according to his 
+capacity. 0 son of PaQQU, everything yields everlasting benefit. 
+CHAPTER SEVENTYEIGHT 
+The Greatness of Niiradesvara Tirtha 
+Sn Miirka7J-4eya said: 
+1-9. 
+Thereafter, a person should go _to the excellent 
+Naradesvara Tirtha, 0 great king. It is the greatest of all Tirthas, 
+established by Narada. 
+Yudhi6thira said: 
+0 excellent one among sages, why was this Tirtha estab­
+lished by Narada? 0 excellent one, narrate all this to me if you 
+are pleased. 
+Sn Miirka7J-4eya said: 
+Narada, the son of ParameHhin, the excellent sage, 0 son 
+of Kunti, performed penance on the northern bank of Reva 
+formerly. The control of the nine NaQis1 (blood vessels?) reached 
+its extreme limit and Pasubhartr (i.e. Siva) was thus propiti­
+ated by Narada. 
+lsvara said: 
+0 eminent BrahmaQa, 0 Lord of Yogins not born of a womb, 
+I am pleased with you. 0 dear one, request for a boon, what­
+ever desire you may have been cherishing in your mind. 
+] _ 
+In human bodies, there are ten NaQ.is. Out of them IQ.ii,, Pingala and 
+Sudunn:ta are the main ones. SudUIJ1IJ.a is the most important as it leads 
+to God-realization. There is no appropriate equivalent term in E.nglish 
+as some of the NaQ.is carry life breath and not blood.
+
+## Page 270
+
+258 
+Skanda Purii:r;ta 
+Niirada said: 
+With your favour, 0 Sarhbhu, may my practice of Yoga be 
+successful. Let my devotion to you be firm in me for all time. 
+0 Lord, I should be the master of the Vedas and Vedarigas and 
+should have power of moving about as I wish. 0 Lord of the 
+worlds, I should be one conversant with the events of the three 
+divisions of time (past, present, future) and expert in music. 
+Whenever a battle takes place among Devas, Danavas and human 
+beings, 0 Mahesvara, whether it be in Patala, mortal world or 
+heaven, I should be competent to see the same everyday with 
+your favour. I may also (be able to) see you and Parvati. Let 
+this Tlrtha be well known as the destroyer of all sins. 
+lsvara said: 
+1 0-1 4. 
+0 Narada, undoubtedly everything shall occur thus. 
+What has been thought of by you will be achieved. There is 
+no doubt about it. 
+You shall be one roaming about wherever you wish, whether 
+it be in Svarga, Patala or in human habitation. You wander 
+everywhere and you will not be stopped by anyone. 
+With my favour, you shall certainly have (mastery over) the 
+seven Svaras (notes) , the three Gramas (gamuts in music) , the 
+twenty-one Murcchanas (melodious keys) and forty-nine Tanas 
+(protracted notes) (i.e. all the details of the Science of Music) 
+Your dance and divine music will be pleasing to me. Every­
+day you shall watch the quarrel among Devas, Danavas and 
+Kinnaras. 
+With my favour, your Tirtha on the earth shall become 
+meritorious. With my favour, you will be a singular master of 
+the principles of the Vedas and Vedarigas, an adept in all 
+branches of knowledge and yet, 0 Narada, you shall be free 
+from undue attachment. 
+1 5-23ᤝ 
+After saying thus, the Lord vanished. Narada in­
+stalled the Trident-bearing Lord there, 0 great king. The Tirtha 
+renders help to all living beings. Installed by Narada, it has 
+become the most excellent Tirtha in the world. 0 excellent 
+king, one who visits that Tlrtha, should have control over all 
+sense-orgari'ᤜ. 0 son of Kunti, with great devotion- he should
+
+## Page 271
+
+V.iii. 78.24-32 
+259 
+observe fast on the fourteenth day in the dark half of the 
+month of Bhadrapada and keep awake at night. 
+An umbrella should be given to a Brahmai).a of auspicious 
+characteristics. Sraddha should be offered to those who were 
+killed with weapons. By the power of the balls of rice offered, 
+they will go to the greatest world. 
+With the Pitrs in view, 0 descendant of Bharata, a tawny­
+coloured cow should be offered to a Brahmai).a after saying 
+this Mantra: "Due to the purity of this Sraddha and with the 
+favour of the Brahmai).a, let them attain the greatest goal . " 
+Monetary gift should b e given to the Brahmai).a in accor­
+dance with one's capacity, uttering this Mantra: "Due to the 
+purity of the waters of Narmada, the power of the wealth legitimately 
+acquired and their own intrinsic worth , let,.the departed ones 
+go to the highest goal. " 
+0 wide-eyed one, Haviᤄya rice should be given to Brahmai).as. 
+the light should be given devoutly and there shall be dance 
+and music. He who carries out these activities in the holy temple 
+shall acquire everything. He attains the vicinity of Rudra-so 
+said Rudra himself. 
+By the gift of learning alone, one shall attain everlasting 
+goal. 
+24-32. 
+Yoked bulls and arable land should be gifted, 0 
+king. There the devotee should propitiate Fire-god devoutly 
+with auspicious Mantras, using plenty of ghee and other ar­
+ticles of Homa. 
+They should worship devoutly and perform dance in all the 
+three parts (of the day) . 
+In the Tlrtha named after Narada on the northern bank of 
+Reva, Fire-god is worthy of being propitiated. Devas have Fire 
+for their mouth. The sage is identical with all the Devas. All 
+are delighted by the sage. When Havyavaha (Fire-god) is worshipped 
+poverty is averted. 
+With wealth there is happiness in every birth. Men of noble 
+birth and excellent clothes will always be endowed with wealth. 
+The following revive and resuscitate youth that goes on receding: 
+raft that of rivers, husband that of women, king engaged in 
+good conduct that of the subjects, wealth that of men and 
+seasons that of trees. 
+It was at that Tirtha that Dhanadatva (status of being a giver
+
+## Page 272
+
+260 
+Skanda Purii:r:ta 
+of wealth) was obtained by Dhane5a (Kubera) , the power of 
+restraining (Vamatva) was obtained by Varna, Indratva by the 
+Thunderbolt-wielding Lord, and the status of being a king was 
+obtained by other kings. By the efficacy of Narade5vara Dhruva 
+attained stability (fixed position) . 
+A Tlrtha that is the most excellent one among all the Tlrthas 
+was created by Narada on the northern bank of Reva on the 
+ocean-girt earth. That is the most excellent one of all Tlrthas. 
+CHAPTER SEVENTYNINE 
+The Greatness of Dadhiskanda and Madhuskanda 1irthas 
+Sri Miirka7J.4eya said: 
+1-7. 
+Then, 0 great king, one should go to two excellent 
+Tirthas that destroy all sins, viz. Dadhiskanda and Madhuskanda. 
+If the devotee takes his holy bath in Dadhiskanda and offers 
+curd to Brahmal).as, 0 descendant of Bharata, neither sickness 
+nor old age, neither grief nor jealousy assail him in the course 
+of seven births. He is born in a pure family and stays there as 
+long as a thousand Moons last. 
+One should offer gingelly seeds mixed with honey in the 
+Madhuskanda Tlrtha. He will never see Lord Vaivasvata (Varna) 
+for a period of seventy births. If the person offers balls of rice 
+mixed with honey there shall be no poverty in the family till 
+(the birth of) . grandsons of his grandsons. 
+In the Tirtha the man shall take his holy bath duly facing 
+the south and offer balls of rice mixed with curd. His father, 
+grandfather and great-grandfather will be contented for twelve 
+years. No hesitation need be felt in this regard.
+
+## Page 273
+
+V.iii.80. 1-l l 
+261 
+CHAPTER EIGHTY 
+The Greatness of Nandikesvara Tirtha 
+Sri Markar.ujeya said: 
+1-1 1 . Then a person should go to the excellent Tirtha called 
+Nandikesvara, 0 great king. It was here that Mahanandin became 
+a Siddha (enlightened one) . I shall narrate everything to you. 
+Formerly Nandin, the Lord of GaQas, faced Reva and pro­
+ceeded from Tirtha to Tirtha performing austerities and achieving 
+victory• . When he left Dadhiskanda and Madhuskanda, Mahadeva 
+became pleased and spoke to Nandinatha. 
+lsvara said: 
+0 Nandisa, I am delighted. Choose any boon that you desire. 
+I am pleased with your penance performed in the course of 
+your pilgrimage. 
+NandHvara said: 
+I do not covet wealth nor do I desire a family and progeny. 
+Excepting your lotus-like feet, I do not desire anything else. 
+Whether I am born amidst worms, insects and locusts or as a 
+brute of lower order, let my devotion be steady towards you in 
+all my births. 
+Saying "So it shall be" with great tenderness, 0 king, Mahadeva 
+held that enlightened one by the hand and went to his abode. 
+A man who takes his holy bath in that Tirtha with great 
+devotion and worships the Three-eyed Lord, attains the ben­
+efit of Agniᤄtoma Yajfia. 
+If a person bathes in the Tirtha and casts off his life, then 
+he becomes Siva's attendant and rejoices for everlasting Kalpas. 
+After a great deal of time, he will be born in a pure family well-
+1 . 
+Here ']aya' seems to be a misprint for ']apa' . There is no propriety of 
+'achieving victory' as there is no enemy to be defeated. In Devamigari 
+script pa ('1) and ya (lf) appear alike and the printed text if emended as 
+'japam kuroan, 'performing Japa' is more suitable in the context.
+
+## Page 274
+
+262 
+Skanda Purii7J-a 
+conversant with the principles of the Vedas and Vedail.gas. He 
+will live for a hundred years. 
+Thus, 0 dear one, the excellent greatness of the Tirtha has 
+been narrated to you. It is difficult of access for human beings 
+but it destroys all sins. 
+CHAPTER EIGHTYONE 
+The Greatness of Varu7J-esvara 7irtha 
+Sri Miirka1J,f/,eya said: 
+1-8. 
+Then, 0 great king, one should go to the excellent 
+VaruiJesvara where the great Lord VaruiJa became a Siddha. 
+0 excellent king, subsisting on oil-cakes, vegetables and leaves, 
+he observed K.rcchra, CandrayaiJa and other austerities and 
+propitiated the Lord of the Daughter of the Mountain. Thereby 
+he attained great Siddhi. 
+One who takes his holy bath there in that Tirtha, offers 
+libations to the Pitrs and deities and devoutly worships Sail.kara, 
+attains the greatest goal. 
+Listen to the meritorious benefit of that person who offers 
+along with cooked rice a KuiJcJika (pitcher) , Vardhani (pot) or 
+a big water-pot. He attains that .benefit which a man is likely 
+to get by means of a Sattra (sacrifice) lasting for twelve years. 
+No hesitation need be felt about it. 
+Of all Danas, the gift of cooked rice is remembered as the 
+greatest. 0 excellent king, water and cooked rice cause instant 
+delight. . 
+Men who die there in the Tirtha attain residence in the city 
+of VaruiJa until all the living beings are annihilated. 
+Mterwards, when the period is completed, he is reborn in 
+the mortal world. A man who gifts cooked rice always lives for 
+a hundred years.
+
+## Page 275
+
+V.iii.82. 1-15 
+263 
+CHAPTER EIGHTYfWO 
+The Greatness of Paiica Tirtha(s) 
+Sri Miirka1J-4eya said: 
+1-7. 
+Thereafter, 0 king, one should go to the excellent 
+Vahni Tirtha where the highly refulgent Hutasana performed 
+penance and became a Siddha. Formerly he had been made 
+one that eats everything by a (certain) sage in Dar:u;laka. But 
+Hutasana resorted to the banks of Narmada and became pu­
+rified. 
+One who bathes there in the Tirtha, worships Mahesvara 
+and enters a blazing pyre attains identity with Agni. One who 
+devoutly takes his holy bath there and offers libations to the 
+Pitrs and deities, undoubtedly obtains the benefit of Agnigoma 
+Yajfl.a. 
+The excellent Kaubera Tirtha is next to it, 0 king. It was 
+there that Kubera, the Lord of Yakᤄas, formerly became a great 
+Siddha. 
+A man who takes his holy bath there in the Tirtha and 
+devoutly worships the Lord of the universe accompanied by 
+Uma, becomes rid of all sins. 
+There one who, after taking bath and standing in water 
+upto the navel, gives gold (as Dana) to a Brahmal).a, will obtain 
+a hundred million times the usual benefit. 
+8-1 5. The benefit that is obtained in Dadhiskanda, Madhu­
+skanda, NandiSa, Varul).alaya and Agneya is obtained merely by 
+taking holy bath in that Tirtha. Those by whom the five exces­
+sively meritorious Narmada Tirthas have been visited, are worthy 
+of being saluted. They are blessed in the world of human 
+beings and their wishes have been- fulfilled. 
+They go to the world of Bhaskara, that is extremely great 
+and destructive of sorrow. From Bhaskara's world they go to 
+the Loka of Isvara and from Aisvara Loka they go to Anivartaka 
+world (that from which there is no return to Sarhsafa) . He is 
+taken to the greatest world and stays there till fourteen lndras 
+complete their reign. Thence slipping down from Svarga, the 
+man becomes a righteous king. Free from all sins he will enjoy 
+the entire world consisting of the mobile and immobile beings.
+
+## Page 276
+
+264 
+Skanda Purii:r;ta 
+Those residents who always resort to the Narmada Tirtha 
+and have Vi!iJ:.lU as their deity will undoubtedly be born as 
+heroes with unbroken glory. 
+Ganga is meritorious at Kanakhala; Sarasvati in Kuruk!ietra; 
+but Narmada is meritorious everywhere whether in village or 
+in forest. 
+One should always reside on the banks of Reva. He shall be 
+on a par with one who has bathed in all the Tirthas and imb(bed 
+Soma juice everyday. 
+All the rivers beginning with Ganga, seas and lakes perish 
+at the end of the Kalpa. But Narmada does not perish thereby. 
+CHAPTER EIGHTYTHREE 
+The Greatness of Hanumantesvara Tirtha 
+Sri Miirkar.t4eya said: 
+1-8. 
+Then, 0 great king, one should go the extremely 
+splendid Tirtha reputed as destructive of the sin of Brahmai_la­
+slaughter. It is installed on the banks of Reva. Here is an 
+excellent Linga named Haniimanta1 • 
+Yudhi$thira said: 
+Do tell me, how the Tirtha named Haniimantesvara origi-· 
+nated (was established) on the southern bank of Reva and it 
+is capable of destroying the sin of Brahmai_la's slaughter. 
+Sri Miirka1J4eya said: 
+Well! Well! 0 mighty-armed king adorning the lunar race! 
+I. 
+Here the RamayaQa hero, Hanuman, is charged with the sin of BrahmaQa­
+slaughter for killing RavaQa's army of Brahma-rakdasas in battle. Killing 
+in battles is no sin and Hanuman did it as per Rama's order. But accord­
+ing t? this PuraQa, he accrued the sin of BrahmaQa-slaughter from which 
+he was redeemed by performing penance on the bank of Reva. He in­
+stalled a Linga in honour of Siva. It became known as 'Haniimantesvara' 
+in his memory. Neither RamayaJ.Ia nor Mbh nor other PuraQas know this 
+story.
+
+## Page 277
+
+V.iii.83.9-16 
+265 
+This Tirtha which is to be kept more secret than other secret 
+Tirthas, has never been disclosed to anyone else by me. It is 
+due to my love unto you that I tell you. Further I have now 
+been afflicted by old age. 
+Formerly, there was a great battle between kama and RavaQ.a. 
+Pulastya was the son of Brahma and Visravas was his son. RavaQ.a 
+was born of him. He was a Brahmarakasa with ten heads. With 
+the favour of the Trident-bearing Lord, he became the con­
+queror of all the three worlds. All the Devas were conquered. 
+Rama's wife was abducted, though prevented by KurhbhakarQ.a 
+urging "Release, release Sita. " The sinner was implored again 
+and again by VibhiaQ.a and Mandodari: "You have been con­
+quered by Kartavirya who was defeated by the Son of ReQ.uka 
+(i.e. Parasurama) . That Parasurama has"' been defeated by 
+Ramabhadra. How can you have victory over him in battle?" 
+Rava7J.a said: 
+9-1 6. I can never be conquered by monkeys, men, bears, 
+boars etc. devoid of arms, nor by groups of Devas and Asuras. 
+Sri Miirka7J.4eya said: 
+But he was defeated by Ramacandra with the assistance of 
+Sugriva, Haiiuman, Kumuda, Angada and others. The power­
+ful Paulastya was killed in battle by Ramacandra. The garden 
+was demolished and heroes killed by the son of Prabhaiijana 
+(Vayu) . RavaQ.a's son Akakumara was killed in the battle. The 
+huge and terrible army of the Rakasas was threshed by the 
+Monkey. 
+Thus the main activity of Rama was over and Sita was set 
+free. When Rama went to Ayodhya, Haniiman, the great monkey, 
+went to the mountain named Kailasa for paying obeisance to 
+Mahesvara. 
+That excellent monkey was then addressed by Nan din: "Stop! 
+Stop! Due to the slaughter of the Rakasas you have incurred 
+the sin of BrahmaQ.a-slaughter. Hence, 0 monkey, Bhairava's 
+assembly certainly should not be witnessed by you.ԉ 
+Hanumiin said: 
+0 Lord Nandin, ask Hara the expiation for the suppression
+
+## Page 278
+
+266 
+Skanda Purii:T}-a 
+of the sin. Why I, a monkey, have become a sinner? What is 
+the cause thereof? 
+Nandin said: 
+1 7-27. 
+Was not (the river) born of Rudra's body and sta­
+tioned in the earth heard of by you? By listening to her name, 
+the sin incurred in the course of a birth perishes. By glorifying 
+her twice the sin is destroyed. By taking bath in Reva, the sin 
+acquired in the course of thirty births becomes annihilated. 
+Hence go to the banks of Narmada and perform a severe penance. 
+On hearing what was said by Nandin, the son of Wind-god 
+went to the banks of Narmada, to the southern confluence on 
+the earth. He meditated upon the very auspicious Lord, the 
+odd-eyed (three-eyed) , trident-bearing one endowed with matted 
+hairs as crown and python as the sacred thread, the Lord who 
+smeared all his limbs with the holy ash, the Lord producing 
+the reverberating sound of I;>amaru, the quiescent sharer of 
+half of Uma's body, who is seated on the bull-vehicle. 
+He adored the Lord for many many years. Ultimately the 
+great Lord was pleased and he arrived along with Uma and 
+spoke sweet words with the majestic rumbling sound of clouds. 
+The Lord said: "Well! Well! 0 dear one, severe penance has 
+been performed by you. Formerly by killing RavaQ.a (and his 
+followers) sin has not been committed by you. Indeed you 
+were engaged in the task of your master. You have become a 
+Siddha by seeing me. " 
+O n seeing Hara, the eternal Lord, · the partner of half of 
+Uma ' s body, Hanuman prostrated before him with eight limbs 
+touching the grou"nd and said: "Be victorious, 0 Sambhu, obeisance 
+to you. Be victorious. Obeisance to the destroyer of Andhaka. 
+Be victorious, 0 bearer of Ganga 'on the head." 
+On being eulogized thus, Mahadeva, the bestower of boons, 
+spoke these words: "0 dear one, 0 son of the Wind-god, choose 
+a boon from me. " 
+Sri Hanumiin said: 
+0 Mahesvara, due to my conversation with you just for a 
+moment, let not the sin arising frcm the slaughter of the 
+Brahmarakᤄasa be effective (in my case) .
+
+## Page 279
+
+V.iii.83.28-45 
+267 
+lsvara said: 
+28-33. 
+Dear Son, undoubtedly you are free from sins, due 
+to the greatness of the Narmada Tirtha, the power of Dharma 
+and Yoga and of seeing me. 0 great monkey, I shall grant you 
+another boon. The following names of yours shall be condu­
+cive to the welfare of the worlds: Maruti (Son of Wind-god) , 
+Hanuman, Anjanisuta ( Son of Anjani) , Vayuputra, Mahabala 
+(Extremely powerful) , Riime${a (Darling of Ramah Phalguna, 
+Gatra, Pingiik$a (Tawny-eyed) , Amitavikrama (Of uᤨmeasured 
+valour) , Udadhikrama7J.a-Sre${ha (Excellent due to feat of cross­
+ing of the ocean) , Da5agrivasya Darpaha (Destroyer of the arrogance 
+of the Ten-headed One ) , Lak$ma7J.apra7J.adata (Bestower of life 
+on Lakᤁma1.1a) and Sttasokanivartana (On& who has dispelled 
+Sita's sorrow) . 
+Mter saying this, Lord Sailkara vapished along with Uma. 
+Haniiman installed Isvara there devoutly. 
+That Liilga is a bestower of cherished desires by the favour 
+of Isvara, by the power of his Brahmacarya (celibacy) and the 
+strength of his Yogic soul. The Liilga cannot be chopped off 
+nor can it be comprehended adequately and is devoid of origin 
+and destruction. 
+Sri Marka7J.4eya said: 
+34-45. 
+Dear son, listen to the directly perceived proof of 
+the efficacy of Hanumantdvara. 0 son of Paf.l<Ju, it occurred 
+at the end of Treta and the beginning of Dvapara. 
+There was a king named Suparvan on the earth. The king 
+enjoyed perpetual happiness. The men (subjects) had a long 
+span of life. He was endowed with sons and wealth and his 
+reign was free from the harassment caused by thieves. Satabahu1 
+of terrible valour was his son. 
+0 Lord of men, this prince always indulged in sinful activi­
+ties. He wandered all over the earth, mountains and forests. 
+For hunting herds of deer he came to the Vindhya mountain. 
+He was sporting about in the forest where different kinds of 
+trees grew sprawling and herds of elephants wandered about. 
+I . 
+The stories of Subahu and Sikhal)¾in are contributed to illustrate the 
+greatness of Hanumantesvara.
+
+## Page 280
+
+268 
+Skanda Purii:!J.a 
+It was full of beautiful lions and leopards. It was infested by 
+wild boars and deer. Mter sporting there, the king (prince) 
+arrived at a certain place on Narmada. 
+He arrived at the forest of Haniimanta that extended to a 
+hundred Krosas. It was splendid with groves of tamarinds. It 
+was full of Kadamba trees. It was rendered splendid always on 
+account of Palasa, Jarhbira, Karaiija, Khadira, Paᤃala, Badara, 
+Sami and Tinduka trees. It was crowded with herds of deer. It 
+reverberated with the sounds of peacocks. Droves of pigeons 
+cooed all round with exquisite notes. 
+The king sported about there in autumn and during the 
+dark half of the month of Asvina. Arriving at the centre of the 
+forest he saw a tawny-coloured Brahmal).a moving about. The 
+restless Brahmal).a with a book in his hand was asked: 
+Satabiihu said: 
+0 excellent Brahmal).a, with a book in your hand you wan­
+der alone in the forest looking this way and that. Why do you 
+wander thus? 
+The Briihma7J.a said: 
+46-5 1 . 0 king, I have come from Kanyakubja. I have been 
+sent here by the Princess to deposit the bones (ashes) in the 
+water of the Hanumante5vara Tirtha. 
+The king said: 
+0 Brahmal).a, why is the throwing of the bones carried out 
+in HanumanteSvata? What is the purpose? It is something wonderful. 
+Let it be explained to me. 
+The son of Suparvan left his vehicle and (got down on the 
+ground) . Mter bowing down, he joined his palms in reverence 
+to the Brahmal).a, 0 king. Then he (the Brahmal).a) narrated 
+his earlier story in full. 
+The Briihma7J.a said: 
+There is a powerful king named Sikhal).<;lin in Kanyakubja. 
+This king has no son. As a result of his long-cherished desire, 
+a daughter was born to him.
+
+## Page 281
+
+V.iii.83.52-61 
+269 
+By the power of Narmada the girl of beautiful limbs could 
+remember the previous births. Once the question of her marriage 
+was raised by the father: 
+"Dear daughter, this worldly existence is not permanent. I 
+wish to perform the rite of Kanyadana (gifting away a virgin) . 
+One should perform tomorrow's task today itself, and the work 
+of the afternoon in the foremoon itself. Death does not wait 
+to see if one has completed his tasks or not. " 
+The Virgin said: 
+52-61 . 
+Dear father, I must be given in marriage at the 
+time when I wish for it. 
+! 
+The king was surprised at the statement of his daughter. 
+Sikha?J4in said: 
+0 highly esteemed. girl, what you have stated is surprising. 
+Let it be fully explained. 
+On hearing what her father said, the excellent girl came 
+near him, 0 king, and recounted what had happened in 
+Han urn an tesvara. 
+"Father, at that time, I was a female peacock (peahen) . My 
+name was Kalapinl and I lived with my husband on the south­
+ern bank of Reva very near the confluence of Reva and Aurvya. 
+Once it chanced that I was sporting about in the meritori­
+ous Hanumantavana. At night I was asleep in the company of 
+my husband on a Sarala tree. Hungry hunters came to that 
+excellent forest. 
+I was seen by those sinners who thought of killing me even 
+as I was in the company of my husband. I was tied up with a 
+cord along with my master (husband) . They wrung my neck 
+and cracked the tail. Along with my husband they baked our 
+flesh in fire and ate it as they pleased. Contented they went 
+to sleep and the night came to a close. 
+In the morning the remnant of my flesh and the bones from 
+(my) body covered with nerves and flesh were seized by one of 
+those birds of prey. One piece fell down from the sky from the 
+birds. On seeing the piece of flesh other birds too flocked there.
+
+## Page 282
+
+270 
+Skanda Purii:r_ta 
+62-73. 
+On seeing the flock of birds the bird dropped down 
+the piece of hones even as the entire flock of birds moved 
+about and watched. 
+0 king, it fell into the waters of Narmada in Hanumantesvara; 
+It was a piece of my bone that fell into the waters of Narmada. 
+By the power of the meritorious nature of the Tirtha I was 
+born as your daughter. I became a princess with moon-like 
+countenance. 
+Born into your royal family, I became endowed with the 
+power of remembering previous births. Hence I do not desire 
+marriage. 0 excellent king, even now my husband is in a difficult 
+situation among the birds and animals there. 0 great king, the 
+remnant of his bones is sure to be in that Tirtha. Dear father, 
+despatch an excellent Brahmai).a to cast off those bones. Thus, . 
+0 excellent king, the explanation has been given to you in full. 
+My husband is in a tight spot among birds and animals. If 
+you do send someone, dear father, to the banks of Narmada, 
+I shall make him know ( the bones) as indicated by the places 
+and signs. " 
+[ The Briihmana said:] 
+I was summoned there by Sikhai).<;lin, 0 king. (He had said: ) 
+"I shall give you twenty villages. Go to the banks of Narmada. " 
+Thus my despatch was announced by him. I was afflicted by 
+absence of glory and wealth. 
+The Virgin said: 
+You go to the meritorious Narmada that destroys all sins. To 
+the south-east of Somanatha is the great deity Hanumante8vara. 
+Within half a Krosa from Reva, there is a well-grown banyan 
+tree. In the vicinity of the banyan tree, .there is a Karaiija and 
+a Kaᤃaha tree. You will see the minute pieces of the bones very 
+near the root of the banyan tree. 0 excellent Brahmai).a, carefully 
+look out for them under the tree and collect them and go to 
+Reva. 
+74-83. 
+In the dark half of Asvina on the lunar day pertain­
+ing to Tripurari (i.e. 1 4th day) bathe the Trident-bearing Lord 
+devoutly and keep awake at night. In the morning stand in the 
+water upto your navel", 0 excellent Brahmai).a, and say "Let his 
+liberation take place " and cast them off.
+
+## Page 283
+
+V.iii.83.84-90 
+271 
+After casting off the bones, you must take the holy bath that 
+is destructive of sins. 
+[ The Briihma7J.a said:] 
+As mentioned by the girl, 0 great king, by doing thus he 
+will have his liberation. Everything that was narrated by the 
+girl was recorded in the book (notebook) . Then I came here, 
+0 great king, to this Tirtha that annihilates sin. 
+After seeing the signs (remnants of bones) , 0 king, I took 
+the bones and scattered in the waters of Narmada in accor­
+dance with the injunctions mentioned before. 
+There was an immediate shower of flowers, 0 son of Pa:t:t<;fu, 
+followed by the shout "Excellent! Excellent! " There came a 
+divine aerial chariot and the peacock assumed a divine form 
+and went to heaven. 
+After seeing this convincing proof, 0 king, in Hanumantdvara, 
+the Brahmar.ta and the king, Satabahu, undertook a fast. En­
+gaged in propitiating Isvara, they reduced their own bodies by 
+drying them up. The excellent Brahma:t:ta and Satabahu stayed 
+meditating on the Lord. 
+Within half a month, Satabahu, the noble-minded king, died. 
+An aerial chariot with splendid tinkling bells came there. · (A 
+voice spoke out:) "Excellent! Excellent! 0 excellent king, get 
+into the aerial chariot. " 
+Satabiihu said: 
+84-90. 
+I will not come along the path to heaven as long 
+as the Brahma:t:ta is also not present. The excellent Brahma:t:ta 
+is my very preceptor because he imparted instructions to me. 
+The celestial damsels said: 
+This Brahma:t:ta is overwhelmed with greed. Sins are gath­
+ered through covetousness. 
+0 king, only men characterised by Sattva quality, who die 
+in Hanumantesvara go to the world of Sankara that destroys 
+all sins. 
+There is no destruction of the sin of this Brahma:t:ta, 0 king. 
+The house and the housewife dominate the mind of this Brahma:t:ta.
+
+## Page 284
+
+272 
+Skanda Purii:rJ-a 
+Thereupon Satabahu said to the Brahmal}.a politely: "Leave 
+off covetousness, the cause of all disaster, 0 excellent BrahmaQ.a." 
+Mter saying this the king went to heaven surrounded by the 
+celestial girls. 
+Mter a few days the BrahmaQ.a went to heaven accompanied 
+by panegyrists. 
+By the power of the Tlrtha, the peacock was reborn as son 
+of the king of Kasl. He recollected the previous birth given to 
+him by the girl. Seeing him become major (in age) the chaste 
+princess, with the leave of her father attained the prince as her 
+husband in Svayarhvara. 
+Sri Miirka1}-tf,eya said: 
+91-1 0 1 . This is the event that took place in that Tlrtha, 0 
+excellent king. For this reason this Tlrtha is always very sacred. 
+The time of visit to this Tlrtha may be any month but the 
+(lunar) eighth and the fourteenth days are good, especially so 
+the fourteenth day in the dark half of the month of Asvina. 
+A devotee shall bathe the deity · with great devotion with 
+honey, milk or ghee. Again the Lord is bathed with curds 
+mixed with sugar-candy and ultimately witp the water sprin­
+kled with Kusa grass. 
+The devotee should smear Mahe5vara with sandalpaste and 
+sweet scents, Then he should adore with sweet-smelling flowers 
+and Bilva leaves. 
+The devotee should further adore with great devotion Siva 
+named Hanumante5vara by means of various kinds of flowers 
+available at the time and season such as Unmattamuni, Jati, Ka.Sa, 
+Kusa etc., or by means of bulbous roots or fruits ofMucukunda tree. 
+The lamp should be lighted with ghee or, if it is not avail­
+able, wit)J. gingelly oil. 
+Sraddha should be performed through BrahmaQ.as who are 
+householders and masters of the Vedas. They should have all 
+the essential characteristics and possess nobility of birth. 
+Uttering the words: "May those who are detained in Naraka 
+(Hell) proceed to heaven," he should bow down to the Brahmal}.as. 
+He should propitiate the Brahmal}.as devoutly with garments, 
+cooked food and gold. 
+All the fallen BrahmaQ.as should be avoided, especially one 
+who has a Vpᤁall as his housewife. Devas call a woman Vrᤁall
+
+## Page 285
+
+V.iii.83.1 02-1 1 1 
+273 
+if she is libidinous and carnally approaches other · lustful men 
+in addition to her own husband. A Siidra woman is not Vrᤄali. 
+Sankara said that through Sraddha all sins of BrahmaQ.a­
+slaughter, imbibing liquor, resorting to preceptor's wife, steal­
+ing gold, acting treacherously towards friends and mis-using 
+deposits entrusted, are destroyed. 
+Sri Miirkm:uf,eya said: 
+1 02-1 1 1 . Of what avail is my prattling, 0 dear one? Why 
+should I recount much? Anyone having comnitted all kinds of 
+sins should make gifts to a Brahmat:J.a. 
+Particularly at this Tirtha, the gift of a cow should be made, 
+because, 0 son of Kunti, such a gift is far superior to all other 
+kinds of gifts. 
+• 
+Cows are full of all the Devas and all the nevas are identical 
+with a cow. 0 king, Sakra dwells always on the tips of the 
+horns; Skanda occupies the chest; Brahma the head; the Bull­
+emblemed Lord is in the forehead; the deities Moon and Sun 
+are the two eyes. Sarasvati dwells in the tongue. All the Sadhyas 
+and groups of Maruts are her teeth, 0 king. One should know 
+that all the four Vedas with the Angas and duly arranged words 
+are in the Hurilkara (bellowing of cow) . Sages, the innumer­
+able ascetics, dwell in the pores of the hairs. Yama stands at 
+the back always scrutinizing the auspicious and the inauspi­
+cious. He has a huge body. He is armed with a big staff. He 
+is dark-complexioned and has a buffalo for his vehicle. The 
+four meritorious oceans are the flowing currents of milk from 
+her udders. Cow should be honoured by a sensible person 
+always, because Ganga who originated from the feet of Viᤄ:r:tu 
+and destroys sins merely by her sight is stationed in the flowing 
+milk. 0 son of Pa:r:tc;lu, the sacred and all-auspicious Lakᤄmi is 
+always present in cowdung. Hence smearing with cowdung should 
+be done. Gandharvas, Apsaras and Nagas are well-established 
+at the tips of the hoofs. Know that cow is identical with all the 
+Tirthas that are present on the ocean-girt earth. Hence Gavya 
+(milk product) is sacred. 
+Yudhi$thira said: 
+Dhenu (cow) full of all Devas is embellished with the Devas 
+and others. Why have they resorted to cow?
+
+## Page 286
+
+274 
+Skanda Purii:fJ-a 
+Sri Miirka7J-4eya said: 
+1 1 2-1 18. ViᤄQU is identical with all the Devas. Cows are born 
+of ViᤄQu's body. On account of these two things, the different 
+Devas are attributed by the people (to the different limbs of 
+cow) . 
+Before the deity Hanumantesvara a cow should be gifted 
+with great devotion to a Brahmal).a, 0 son of PaQQU. She should 
+be a milch cow. She may be white or tawny-coloured. She 
+should be accompanied by her calf and should be well-behaved. 
+She should be covered with a white cloth. She should be well 
+adorned with gold fitted to the horns. A milk pot made of 
+brass should also be gifted along with the cow. 
+She should be given in front of Hanumantesvara by one 
+observing rules and regulations and desirous of heavenly plea­
+sures and everlasting status. 
+Those who give cows to the indigent and the feeble go to 
+the world of ViᤄQu. After slipping down to the world, 0 king, 
+he is born in the abode of a BrahmaQa. He becomes an able 
+son of the family with all good qualities, learning, wealth and 
+prosperity. 
+The Hanumantesvara Tirtha destroys all sins, 0 king. One 
+who hears about it becomes rid of sins resuhing from admix­
+ture of castes. 
+There is no doubt about this that even one who sees it from 
+far or thinks about it becomes free from sins and is liberated. 
+CHAPTER EIGHTYFOUR 
+Kapi and Other Ttrthas 
+Sri Miirka7J-4eya said: 
+1-8. 
+In this context they cite an ancient legend. On the 
+Kailasa Mountain this was recounted by Siva to ᤅal).mukha who 
+had devoutly asked him. 
+lsvara said: 
+Formerly, 0 Skanda, in Tretayuga, Raval).a was killed by Rama. 
+At that time fourteen crores of Brahmarakᤄasas were killed.
+
+## Page 287
+
+V.iii.84.9-1 7 
+275 
+When they were killed for the sake of according protection to 
+heaven-dwellers, dear son, there was a great deal of joy and 
+merriment in all the three worlds. 
+After redeeming Slta, Rama came to Ayodhya along with the 
+leading monkeys. Bharata, the elder brother of Lakᤄmar;ta, arranged 
+for a great festival and handed over the kingdom to him. Thereafter 
+Ram a began to rule the kingdom from which all thorns ( en­
+emies) had been eradicated. Hanuman who had completed his 
+task, went to Kailasa. Nandin, the door-keeper, did not allow 
+the monkey, though he was a part of Rudra, to meet Rudra, 
+the destroyer of a heap of sins. 
+Nandi was thereupon asked by him: "What sin has been 
+committed by me? Wherefore am I denied the pleasure of 
+seeing the meritorious body of Rudra accompanied by Arhbika?" 
+Nandin said: 
+0 leader of monkeys, you had taken up (this) incarnation 
+for the sake of the Devas. Yet the sin committed can be de­
+stroyed only through suffering the consequences thereof. 
+Hanumiin said: 
+9-1 7. 0 Nandin , was it any sin that I committed, when I was 
+carrying out the task of Devas? Of course the wicked Rakᤄasas 
+who desecrated the Yajiias of the Brahmar;tas were killed. 
+Curious to hear their conversation, Hara peeped through 
+another door and saw the monkey of terrible strength, who 
+happened to be a part of himself. Afterwards, he saw the Lord 
+of monkeys standing before him. 
+The Lord said: 
+lsvara said: 
+0 monkey, Ganga, Gaya, Reva, Yamuna and Sarasvatl are 
+the rivers that destroy all sins. Take the holy baths in them. 
+On the southern bank of Narmada there is an extremely 
+splendid Tlrtha situated very near Somanatha. 0 monkey, do 
+go there. At my behest your great sin will perish by taking a 
+holy plunge there. 
+* 
+* 
+*
+
+## Page 288
+
+276 
+Skanda Purii:TJ,a 
+Leaping up from there, Hanuman roared loudly and went 
+to the southern bank of Reva. He performed a very severe 
+penance there. Mter a short period, with the favour of Isa, 0 
+son of Kunti, the sin resulting from the slaying of the Rakᤁasas 
+became dissolved even as he performed the penance. 
+Thereafter, Lord Hara went to that Tirtha along with the 
+Devas. He embraced the monkey and granted him a boon: 
+"Henceforth this shall undoubtedly be your Tirtha. " 
+Thenceforth it became Kapitlrtha and Hara himself remains 
+stationed there by the name Hanumantdvara. He dispels all 
+sins resulting from all sorts of killings. 
+1 8-27. 
+All the sins of that person who takes his holy bath 
+there devoutly and worships the Liil.ga, perish as averred by 
+Hara himself. 
+If the bones are dissolved there and if Pir:u;las are offered 
+there, there is everlasting benefit. Whatever is gifted there has 
+a crore times benefit. 
+Hanuman went to Ayodhya to see Rama. He recounted to 
+him what transpired in regard to himself in the course of their 
+pleasant dialogue. 
+Sn Riima said: 
+As you carried out the task of the Devas as well as that of 
+mine (you incurred sin ) . So I too have become a sinner. Un­
+doubtedly I have to and I shall perform penance. 
+Thereafter Raghava performed penance for twenty-four years 
+there on the southern bank of Reva that destroys sins.1 
+He stayed in the city of Jyoti!)mati and took a holy plunge in 
+Reva. At his bidding Lak!)mai_la rendered him regular service. 
+Both of them, Rama and Lak!)mai_la installed Liil.gas there. 
+By the power of the genuine penance on the banks of Reva 
+the two heroes of great intellect, Rama and Lak!)mai_la, at­
+tained relief from sins. 
+Then Hara, the leader of Devas, came to the Tirtha along 
+with the meritorious sages. After releasing his own Kala (Part) 
+into the Tirtha he granted a boon. 
+I . 
+There is no confirmation of this in the text of Ramayal)a. This is for the 
+glorification of that Tirtha.
+
+## Page 289
+
+V.iii.84.28-44 
+277 
+Potfuls of water of all the Tlrthas were poured on the ground 
+by the sages. Gathering together it became a Linga by the 
+name Kalakurhbha. 
+The Lord became well-known as Kurhbhe5vara; he was adored 
+by the groups of Devas. Rama too worshipped that Linga that 
+was resorted to by the Devas. 
+28-36. 
+ln order to enhance the glory of Rama, the Lord 
+granted another boon. On the twenty-fourth year of his pen­
+ance, Rama attained relief from sins, when Saturn was in Kanya 
+(Virgo) Zodiac along with Jupiter (Guru) . Hence the Devas 
+proclaimed gladly that the Devayatra (divine procession) shall 
+be conducted at that time. 
+Just as one obtains the benefit of all the Tlrthas in the 
+Godavari Tlrtha, so also 
+.
+men get the benefit through the holy 
+ablution in Reva and also by visiting the Lingas. 
+[Siva said:] 
+0 Saᤂmukha, listen to the benefit of those who remain in 
+the vicinity of Kurhbhe5vara on the banks of Narmada and 
+perform the Sraddha of Pitrs. The Pitrs will have the never­
+failing goal for as many years as there are pores of hairs in the 
+body of all human beings. 
+By seeing the three Lingas men obtain that benefit which 
+is usually obtained by visiting all the deities on the earth and 
+taking ablution in all the Tlrthas. 
+A man without a son obtains a son. An impoverished man 
+obtains wealth; a sick person is freed from ailments. No hesi­
+tation or doubt need be entertained in this respect. 
+0 Skanda, in the vicinity of Kurhbhesvara the benefit ob­
+tained is twelve times that of the bath taken in Godavari when 
+Jupiter is in Sirhha (Leo) Zodiac. 
+Those who know but do not visit Kurhbh asarhbhu, the con­
+sort of Uma, on the southern bank of Narmada, have their very 
+birth fruitless. 
+37-44. 
+This is spoken by the Lord, that the Devayatra should 
+be conducted in the twenty-fourth year as in the case of Godavari 
+Yatra as per bidding of the sages. 
+The Dana made in the vicinity of Reva in Kurhbhe5vara is 
+everlasting in its benefit as long as the Moon, the Sun and the 
+stars are oresent in the firmament.
+
+## Page 290
+
+278 
+Skanda Purii7Ja 
+There all great Diinas should be made by wise and learned 
+people. They praise the Dana of cows, gold and silver here. 
+When a mass of sins perishes by a mere remembrance of the 
+Tirtha, what doubt is there, 0 Skanda, that it destroys the sin 
+of Brahmal).a-slaughter through holy bath? 
+He who takes the holy bath there in the Tirtha and per­
+forms the Sraddha, 0 YudhiHhira, shall redeem one hundred 
+one generations of his family at the bidding of Siva. 
+Whatever Tirthas, lakes and oceans there are, they do not 
+deserve even a sixteenth fraction of the adoration of the Sivaliilga. 
+Thus the Devas with Hari and Isvara as their leaders granted 
+the boon , left their excellent names and went to their respec­
+tive abodes. 
+After granting the boon to this Tirtha, Rama, the elder 
+brother of Lakᤄmal).a, entered Ayodhya freed from sins by the 
+waters of Narmada. 
+45-50. 
+Accompanied by sages, people, deities and the 
+members of his family, and after making a gold idol of Sita, 
+he performed a sacrifice there at that Tirtha. That Tirtha was 
+created formerly in Tretayuga, and named after Skanda. Hence 
+the Liilga should be regularly visited by people. 
+Sins accrued due to great evil deeds affect the bodies only 
+until a creature visits the Tirtha resorted to by Devas. 
+Those who visit the great Lord Hara installed in the city of 
+Jyotiᤄmati are noble-souled and blessed. Their birth and life 
+are excellent. 
+Hence getting rid of ignorance, the Tirtha named Kurhbhdvara 
+should be respectfully approached by people for the sake of 
+obtaining all benefits. 
+Sri Miirka7J,rf,eya said: 
+After hearing these words of Sarhbhu, ᤅal).mukha respect­
+fully bowed to the pair of lotus-like feet of his father, reached 
+· the southern bank of Siva's river and visited (Liilgas of) the 
+leading monkey, Rama and Kurhbhasarhbhu.
+
+## Page 291
+
+V.iii.85. 1-10 
+279 
+CHAPTER EIGHTYFIVE 
+The Greatness of Somaniitha 1irtha1 
+Sri Miirkar:tcf,eya said: 
+1-10. Then, 0 great king, one should go to the age-old 
+Tlrtha of Narmada that destroys even the sin of Brahmar:ta­
+slaughter. It is on a par with Varar:tasl. 
+Yudhi${hira said: 
+0 Brahmar:ta, let the wonderful thing that happened on the 
+banks of Narmada be recounted. 0 venerable Lord, how is it 
+on a par with Varanaᤄl? Do tell me. My kingdom is taken away 
+from me. I have sunk in the ocean of misery, 0 excellent 
+Brahmar:ta. Along with my kinsmen I have become rid of sor­
+rows after having bathed in the water of your speech. 
+Sri Miirkaryjeya said: 
+Excellent! Excellent! 0 mighty-armed one who are .an orna­
+ment unto the lunar race, I have been asked about a very rare 
+and inaccessible Tlrtha that has to be kept as the utmost secret. 
+At first there was the Pitamaha (Grandfather Brahma) , the 
+Lord of the entire universe. Ten leading sages were mentally 
+born unto him, viz. Marlci, Atri, Angiras, Pulastya, Pulaha, 
+Kratu, Pracetas, VasiHha, Bhrgu and Narada. 
+The highly refulgent Prajapati named Pracetas begot Dakᤄa. 
+It is well-known that fifty daughters were born to Dakᤄa. 
+He gave ten of them to Dharma and thirteen to Kasyapa. 
+The illustrious one gave twenty-seven to Moon-god (lndu) . 
+Among those girls there was one named Rohir:tl. She was the 
+greatest beloved of Moon-god. Due to his compassion for the 
+remaining ones, Dakᤄa cursed Moon. 
+I . 
+The story of Dakda·s curse to Soma (Moon-god) for his special attention 
+to Rohil)i and neglect of other wives and his redemption from it by a bath 
+in the conf)uence of Sarasvati and Western Sea is given in Mbh, Salya 
+35.45-86. Here the credit of the redemption is given to a bath in Narmada 
+to commemorate which Somanatha was installed.
+
+## Page 292
+
+280 
+Skanda Purii:T}a 
+By the power of the curse of Dakᤄa. the Prajapati (Patri­
+arch) , Candra (Moon-god) , the Lord of the night, became 
+afflicted by consumptive disease and lost all splendour. 
+1 1-20. 
+Soma (Moon-god) , the nectar-rayed one, went trem-
+bling to Pitamaha and prayed: "0 Lotus-born One, obeisance 
+to you. 0 Vedagarbha (having the Vedas in the womb} , obei­
+sance to you. I have sought refuge in you. Protect me, 0 Lotus­
+seated One. " 
+Brahmii said: 
+0 Lord of the night, you appear to be bereft of your Kalas 
+(digits) and hence lacking lustre. 0 dear one, what is the 
+reason for which you have become dejected in mind? 
+Soma said: 
+"0 Brahma, 0 Lord of the universe, lack of lustre in me is 
+due to the curse of Dakᤄa. 0 Pitamaha, may the expiation for 
+this curse be suggested to me. 
+Brahmii said: 
+Reva is easily accessible everywhere but at three holy spots 
+viz. Orhkara, Bhrgukᤄetra and the confluence with Aurva it is 
+difficult of access, 0 Lord of the night, go_ there where Reva 
+has its bank (i.e. go to the banks of Reva) . 
+He hurriedly went to the place where there is the confluence 
+of Reva and Aurvi. 
+Soma who was at the terminal stage of sickness meditated 
+upon the Enemy of Tripuras. When a hundred years were 
+complete Mahe§vara became pleased (with him) . The Bull­
+seated Lord, the Consort of Uma, appeared before Somaraja 
+who prostrated before the Lord and prayed loudly: "Be victo­
+rious, 0 Sarhbhu, I make obeisance to you. Be victorious, 0 
+Sailkara; obeisance to the destroyer of sins. Be victorious, 0 
+Isvara, 0 Lord of the universe, obeisance to you. Be victorious, 
+0 Lord having Vasuki as an ornament. Obeisance. Be victori­
+ous. Obeisance to the Lord holding trident and skull. Be vic­
+torious, 0 destroyer of the body of Andhaka. Obeisance to the
+
+## Page 293
+
+V.iii.85.21-35 
+281 
+slayer of the groups of Danavas. Be victorious, 0 Niᤄkala (with­
+out Kalas, parts) . Obeisance to the Sakala (with Kalas) . Be 
+victorious, 0 Kala. Obeisance to the burner of Kama. Be vic­
+torious. Obeisance to the one having blue neck. Be victorious. 
+0 subtle one, 0 unsullied one, 0 Lord of sound! Obeisance 
+to you. Be victorious, 0 primordial one, 0 beginningless one, 
+0 endless one. 0 Sankara, obeisance. Be victorious, 0 Isa, save 
+me, the servant. " 
+· 21-25. · 
+On being eulogized thus by Somaraja, 0 son of 
+PaQ.<;lu, 0 excellent king, Mahadeva was pleased with him along 
+with Siva. Sankara said: 
+lsvara said: 
+0 fair one, request for a boon from me, whatever may be 
+in your mind. Very good! Very good! Or mighty one, I am 
+pleased with your penance. 
+Soma said: 
+0 Mahe5vara, I am burnt by the curse of Dakᤄa and have 
+become feeble without intrinsic strength. 0 Lord, stop the 
+effect of the curse. 0 Lord, grant me welfare. 
+lsvara said: 
+I have been captivated by your devotion. I, along with Uma, 
+have been propitiated. You are Somanatha devoid of sins. By 
+resorting to the Tirtha you have become so (sinless) . 
+Thus the Lord of the chiefs of Devas spoke ( to Moon-god) . 
+Mter meditating for a while, the great Linga was installed by 
+Indu. It is the bestower of cherished desires on all living beings 
+in the world. It is destructive of all miseries.· It Is destructive 
+of the sin of BrahmaQ.a-slaughter. 
+Yudhi$lhira said: 
+26-35. 
+0 venerable Lord, tell me succinctly the ,power of 
+Somanatha. You have come to us, 0 excellent BrahmaQ.a, .as 
+the saviour of those who are submerged in the ocean ofmisery.
+
+## Page 294
+
+282 
+Skanda Purii:r:ta 
+Sri Miirkar.ujeya said: 
+Listen to · the efficacy of the Tlrtha. 1 I shall briefly recount 
+to you what happened on the northern bank at the confluence 
+of Reva and Uri. 
+There was a king named Sarhbara. Trilocana was his son and 
+KaQva was the son of Trilocana. He was given to sinfulness. 
+He used to wander in forest everyday and looked for herds 
+of deer. A herd of deer was killed by the son of Trilocana. 
+A Brahmal)a was wandering in the midst of the deer in the 
+guise of a deer in the desolate forest. Due to his association 
+with the herd of deer, the excellent sage was incidentally killed 
+by KaQva. 
+KaQva who had thus incurred the sin of BrahmaQa-slaughter 
+roamed over the earth lustre less and feeble. In the course of 
+his wanderings he reached Narmada at the confluence of Uri. 
+It abounded in trees like Kirhsuka, Asoka, Jamblra, Panasa, 
+Kadamba, Pa!ala etc. The beauty was enhanced by Bilva and 
+Narailga trees. There were tamarind and Campaka trees too. 
+An Agasti tree spread its shadow there. 
+The forest teeming with many living beings was splendid 
+everywhere with beasts of prey like leopards, deers, cats, Sarhbara 
+and Sukara (wild boars) . It was full of rabbits, Gavayas (blue 
+oxen) , peacocks and wild asses. 
+Hardly did he enter the forest when KaQva was overwhelmed 
+with thirst and extreme fatigue. He then took his holy bath in 
+the meritorious waters of Reva at the confluence that destroys 
+sins. 
+36-40. 
+With great devotion, SomaniHha was adored by him, 
+0 YudhiHhira. He drank the excessively pure waters that destroy 
+all sins. 
+· 
+Along with his servants, he tasted various kinds of fruits. 
+l::hterly tired due to the hunting of deer, he slept soundly in 
+the shade of the trees. 
+In the meantime a certain Brahmal)a came to that confluence 
+in the excellent Tlrtha for bathing. The Brahmal)a wayfarer 
+was urged by delight with (his) mind resting therein'. 
+1 . 
+The story of Prince Kai;va to illustrate the efficacy of this Tirtha, is a 
+special contribution of this author. ·
+
+## Page 295
+
+V.iii.85.41-54 
+283 
+A woman said to him: "0 excellent BrahmaQ.a, stop, stop ! " 
+Even as the frightened BrahmaQ.a looked all round in every 
+direction, 0 king, he saw a woman clad in red garments, wearing 
+red garlands, smeared profusely with red sandalpaste. She held 
+a noose in her hands. 
+The woman said: 
+41-46. 
+0 BrahmaQ.a, may this message be heard. If you 
+are going towards the confluence, my husband is staying there. 
+Send him to me quickly saying, "Your wife is waiting alone in 
+the middle of the forest. " 
+On hearing thus, the BrahmaQ.a repaired to the holy confluence, 
+rare even to Suras. Kar:tva who was restinlr in the cool shade 
+of the trees was seen by the BrahmaQ.a. Thereupon the excel­
+lent BrahmaQ.a spoke these words to him: 
+The Briihmar_ta said: 
+A certain lotus-eyed maiden was seen by me in the middle 
+of the forest. The maiden is clad in red garments. She has 
+smeared her body with red sandalpaste. Wearing red garlands 
+she appears highly splendid. The fawn-eyed damsel has a noose 
+in her hands. Seated on the top of a tree, she spoke to me 
+these words: " May my husband be sent. " 
+Kar_tva said: 
+0 eminent BrahmaQ.a, in which holy spot is that fawn-eyed 
+damsel? To whom does she belong? For what reason is she 
+staying there? Tell me all this. 
+The Briihmar_ta said: 
+47-54. 
+She is in the park itself half a Krosa away from the 
+confluence. 
+The king could not understand (who she was) merely through 
+these words of the BrahmaQ.a. 
+Thereupon, King Kar:tva commanded his own messenger.
+
+## Page 296
+
+284 
+Skanda Pura:r;a 
+Kar.tva said: 
+Do go there and ask her from which place she has come and 
+where will she go. 
+The messenger thus sent hurriedly went near the woman. 
+He saw the maiden seated on the tree and told her, 0 
+excellent king: "My master asks you who you are and where will 
+you go?" 
+The girl said: 
+A preceptor instructs and trains those who possess Atman 
+(i.e. those who are good) . A king chastises those with an evil­
+Atman (i.e. the evil-minded ones) . Here, Varna, the son of 
+Vivasvan (Sun-god) is the chastiser of those who commit sins 
+secretly. The sin of Brahmal).a-slaughter has befallen through 
+the killing of the Brahmal).a in the guise of a deer. Though 
+possessed by me, your king is liberated by the power of -the 
+Tirtha. 
+Within a distance of half a Krosa the sin of Brahmal).a-slaughter 
+cannot gain entry. Such is the power of Somanatha. It is re­
+membered as one on a par with Varal).asi. 
+Do go; let the king be sent here quickly and without any 
+hesitation. 
+The servant hurriedly came back trembling and greatly agitated. 
+He recounted everything that happened earlier. At the state­
+ment of the servant the king fell on the ground. 
+The servant said:. 
+55-63. 
+0 Lord, why do you grieve? Whether it is auspi­
+cious or inauspicious, it has already been acquired. 
+On hearing his words the king spoke these words: "I will cast 
+off my life in the vicinity of Somanatha. May fire and plenty 
+of fuel be brought. " 
+Presently everything was brought by the servants who were 
+under his control. The king took his holy ablution in the splendid 
+water at the confluence that is destructive of sins. He adored 
+Somanatha with great devotion. He circumambulated three
+
+## Page 297
+
+V.iii.85.64-70a 
+285 
+times the blazing fire. Mter meditating in his heart upon Janardana, 
+the Lord clad in yellow garments and wearing matted hairs (?) 
+and a crown, Ka::r.tva, the king, jumped into the fire. 
+He meditated upᤞn the Lord who was accompanied by Sri 
+and was seated on Garmᤚa, the Lord who held conch, discus 
+and club and who invariably slew Asuras. (He prayed:) "May 
+beatitude be attained by me. " 
+A voice said: "Excellent! Excellent! 0 prince! " and a shower 
+of flowers fell. 
+The servants witnessed the unprecedented miracle-and looked 
+at one another. They too meditated on Gadadhara (Lord ViᤁI).U 
+holding a mace) in their hearts and died by jumping into the 
+fire. Thereafter, 0 son of Pal).<;lu, all of them were seen seated 
+in aerial chariots. 
+By the power of Somanatha they were 'freed from sins and 
+went to heaven as the Brahmal).a was meditating on the Bull­
+emblemed One. 
+Sri Miirkar;uf,eya said: 
+64-70a. 
+This is the power Somanatha. 
+Listen with attention to the ritual (of worship) . The days for 
+observance of fast are the eighth and the fourteenth lunar 
+days. At all times the fast can be undertaken on Sundays- es­
+pecially in the bright half if Sunday coincides with the seventh 
+lunar day. The man should observe fast and at night he should 
+devoutly keep awake. 
+He should bathe Parame8vara with milk products and Paiicamrta. 
+Thereafter he should apply sandal paste and offer flowers, incense 
+etc. The lamp shall be lighted with ghee therein and there 
+should be dance and music. 
+In the morning of Monday and the eighth lunar day, Brahmal).as 
+should be honoured. They should have great control on anger 
+and be self-possessed. They should have avoided censuring 
+others. They should be handsome in every limb. They should 
+be worthy of being praised. They should be those who looked 
+after their wives very well. They should be regularly reciting 
+Gayatri. They should never indulge in prohibited rites. If a 
+remarried widow, Vpᤁali and Siidri frequent anyone's abode, 
+he (such a Brahmal).a) should be abandoned even frorn a distance 
+by one who wishes for one's welfare. In the course of Vrata,
+
+## Page 298
+
+286 
+Skanda Puriir_ta 
+Sraddha and Dana, the following should be avoided even from 
+a great distance: those deficient in any limb, those who have 
+additional limbs and those who have no proper antecedents. 
+70b-78. 
+Brahmal).as bereft of Vedic study are like maidens 
+of steel. Undoubtedly they cause the downfall of themselves 
+along with those on whose behalf they perform holy rites. 
+Brahmal).as regularly performing the six Karmas are on a 
+par with the rafts made of Salmali tree (silk-cotton tree) . They 
+themselves cross and enable the donor too to cross (the ocean 
+of existence) . 
+One who performs a Sraddha at Some5vara (of the departed 
+ones) without feeling of jealousy, his ancestors, the departed 
+ones, become deeply satisfied until the annihilation of all liv­
+ing beings. 
+This is my truthful statement that he who gifts cooked food, 
+garments and gold to a Brahmal).a goes to the world of Sarikara. 
+One should gift a full-fledged horse, young and white in 
+colour. It may be red ·or yellow but shall have all characteristic 
+features. The Brahmal).a as well as the horse should be smeared 
+with Kurhkuma, adorned with garlands and covered with a 
+white cloth. 
+He should tell the Brahmal).a, "Keep your feet on my shoul­
+ders and get on to the horse. " 
+When the Brahmal).a is comfortably seated after mounting, 
+the devotee should say, "May Bhaskara (Sun-god) be pleased. " 
+He shall be rid of all sins and go to the world of Sarikara. 
+79-89. 
+If a person with his sense-organs under control 
+goes to Somatirtha on a day of eclipse, he shall become a 
+righteous king even after falling down from Satyaloka. His residence 
+shall always be there. It never perishes. His son becomes long­
+lived. His wife is always favourably disposed towards him. He 
+shall be free from all miseries and shall live more than a hundred 
+years. 
+A person should observe fast and eschew anger and (then) 
+offer a cow to a Brahmal).a along with her calf. The cow should 
+be a milch one and should be covered with a white doth. The 
+cow may be of any of these colours: variegated, yellow, smoke­
+gray, blue and spotted, tawny etc. She should be embellished 
+with bells and ornaments. The hoofs should be covered with
+
+## Page 299
+
+v. iii.85. 90-99 
+287 
+silver. A pot made of brass should be given for milking. 0 king, 
+the horns should be capped with gold. 
+By offering a white cow a donor gets the family increased; 
+a red cow increases good fortune. Variegated and yellow ones 
+are reputed as destroyers of misery. 
+A tawny-coloured one destroys sin acquired in the course of 
+seven births. The donor of a cow attains Satyaloka, 0 king. 
+At the end of a fortnight, during Vyatipata and Vaidhrti, at 
+the time of the transit of the Sun, when the day comes to a 
+close, when there is the Gajacchayaparva (?) , solar edipse etc., 
+the noble-souled devotees should go to the confluence rare 
+even unto the Suras. After smearing oneself with clay he enters 
+the water. With water upto the level of the heart, he shall 
+perform the Japa of Gayatri, of Viᤄl)u, Sup-god or Siva as he 
+pleases and perform Prar:tayama. They too are relieved of their 
+sins. Thus spake Sari.kara. If one circumambulates the area 
+around Somanatha, it is as though the entire earth consisting 
+of the seven continents has been circumambulated by him. 
+90-99. 
+There is no doubt that a slayer of a Brahmal)a, an 
+imbiber of liquor, one who resorts to the wife of the preceptor, 
+a killer of foetus, one who steals gold-all these are rid of their 
+sins. A person with the sense-organs subdued, who listens to 
+this narrative of the Tirtha, becomes rid of the ailment if he 
+is sick and if he is not sick attains happiness. 
+If your mind is burning with trouble you will do well, 0 
+YudhiHhira, to listen to me. In this world, 0 king, even a single 
+foeticide is very difficult to get rid of. It is much more difficult, 
+0 son of Kunti, in the case of Moon who was guilty of twenty­
+six sins of foeticide (due to his negligence of twenty-six wives) . 
+He too came to this Tirtha, performed a very severe penance 
+and became rid of all sins. 
+The Cool-rayed One thus became happy. 0 king, this an­
+cient Gatha (verse) is heard as sung by the great sages: "A 
+single Liri.ga installed duly shall dispel ten foeticidal sins." Hence, 
+0 descendant of Bharata, Soma (Moon-god) installed three 
+Lingas: The first Liri.ga was installed at the confluence of Reva 
+and Uri; the second one at Bhrgukacchaka; after attaining 
+great Siddhi he installed the third one at Prabhasa. 
+Thus I have told you entirely the greatness of the Tirtha. 
+It is conducive to piety, good fame, long life and heavenly 
+pleasures. It sanctifies men.
+
+## Page 300
+
+288 
+Skanda Purii:r_ta 
+He who seeks sons, gets sons and one without desire attains 
+heaven. Mter performing the pilgrimage to the Tirtha, 0 king, 
+one becomes relieved of all sins. Thus the entire benefit of 
+Somanatha has been narrated. Undoubtedly one who listens to 
+this gets a son and one who bathes, eight sons. 
+CHAPTER EIGHTYSIX 
+The Greatness of Pingalesvara Tirtha 
+Sri Miirkar;uf,eya said: 
+1-8. 
+Thereafter, 0 great king, one should go to the excel: 
+lent Piilgalavarta. It is on the northern bank in the vicinity of 
+the confluence. 0 leading king, Piilgaldvara was installed by 
+Havyavahana (Fire-g_od) . 
+Yudhiţthira said: 
+0 venerable one, how was Isvara installed by Havyavaha? 
+Narrate everything to me. It behoves you to recount it as a 
+favour. 
+Miirka1J4eya .said: 
+0 king, Retas (semen virile) was sprinkled over Havyavahana 
+by Sarilbhu who had attained the height of orgastic excitement 
+while gleefully sporting with Gaurl. 
+The Retas was cast into the mouth of Havyavaha by Rudra 
+of unmeasured lustre. Scorched by the Retas of Rudra, he became 
+eager to undertake a pilgrimage. 
+Crossing the oceans and rivers he gradually came to Reva. 
+Fire-god then performed a severe penance with great devotion 
+᤟nd meditated. 
+Hutasana (Fire-god) solely lived on air and conᤠinued the 
+penance for more than a hundred years. Ultimately Mahadeva 
+became pleased and was ready to grant boons to Jatavedas 
+(Fire-god) . Approaching him (Fire-god) , he spoke these words:
+
+## Page 301
+
+V.iii.86.9-15 
+289 
+lsvara said: 
+0 Havy;Ha (Fire-god) , choose a boon, whatever may be m 
+your mind. 
+Vahni (Fire-god) said: 
+Obeisance to you, 0 Lord of all the worlds. 0 Lord of fiery 
+form, I make obeisance to you. Scorched by your Retas, I have 
+become leprous, 0 Mahdvara. Be compassionate, 0 Mahadeva; 
+destroy (heal completely my) ailmen ts. 
+lsvara said: 
+9-15. 0 Havyavaha, be free from ilhtess quickly with my 
+favour. Taking your holy bath in the Ti:rtha here, you will 
+regain your original form. 
+After saying thus, Mahadeva vanished there itself. Thereaf­
+ter Havyavaha hurriedly took his bath in the waters of Reva. 
+Instantly he became completely free from ailments and at­
+tained a divine form. Vahni (Fire-god) thereafter installed the 
+Lord of Devas, named Pingale§vara. 
+He worshipped him joyously and eulogized through prayers. 
+Thereafter Havyavahana went back to his own land, the land 
+of Devas. 
+0 king, it was thus that Pingalesvara was installed by Havyavaha. 
+Only he who has subdued anger should observe fast there. He 
+will attain the benefit of the Yajiia called Atiratra. In the end, 
+he shall attain the status of Rudra. 
+0 descendant of Bharata, one should offer a tawny-coloured 
+cow with her calf to a BrahmaQa. She should be adorned in 
+accordance with one 's capacity. 0 great king, he who gives this 
+shall attain the greatest goal.
+
+## Page 302
+
+290 
+Skanda Purii:r.ta 
+CHAPTER EIGHTYSEVEN 
+The Greatness of f.l7J.a-tray-mo.cana Tirtha1 
+Sri Marka7J-4eya said: 
+1-5. 
+Thereafter, 0 king, one should go to the highly excellent 
+Tlrtha which was established by the groups of sages born of the 
+family of Brahma. 
+It is called Rr:tamocana. It is situated on the banks of Reva. 
+A person should devoutly offer libations to the Pitrs and de­
+ities for six months. 
+Instantly the debt to Devas, Pitrs, and human beings owed 
+by himself becomes redeemed as soon as the man takes his 
+bath in the waters of Narmada. 
+There the sin is actually and directly seen as the result. If 
+a person who has subdued his sense-organs takes his bath with 
+concentration of mind in that Tlrtha and performs charity and 
+worships the Consort of Girija (Uma) , he becomes free from 
+the three kinds of debts and remains resplendent in the heav­
+enly world. 
+CHAPTER EIGHTYEIGHT 
+The Greatness of Kapile5vara Tirtha 
+Sri Marka7J-4eya said: 
+1-7. Thereafter, 0 son of Kuntl, a person should resort to the 
+Kapila Tirtha installed by Kapila. It is destructive of all sins. 
+0 king, on the eighth and fourteenth days of a bright fort­
+night, the person should bathe the Lord, with great devotion, 
+with the milk of a tawny-coloured cow or ghee. Then he should 
+smear Mahdvara with sandalpaste and sweet scents. Then , 0 
+excellent king, he should adore with white, sweet-smelling flowers. 
+Those who have conquered their anger and adore (Siva) thus, 
+never go to the abode of Yama. 
+1 . The belief that everyone owes the obligations of and has to repay the 'debt' 
+to parents or ancestors, to gods and to society is certainly noble. Dharma5astra 
+works specified Sraddha, performance of sacrifices etc. for this. But this 
+text advises to take a bath in this Tirtha and wash off the debts.
+
+## Page 303
+
+V.iii.89. 1-5 
+291 
+By adoring Kapilesvara, wise persons never see the terrible 
+hell of Asipatravana and the fierce Yamaculll (Oven of Yama) . 
+After taking the holy bath in the meritorious Reva waters, the 
+devotee should feed auspicious BrahmaQ.as, 0 descendant ofBharata, 
+and gratify them with the gifts of cows, garments, gingelly seeds, 
+umbrella and quilts. He is reborn as a pious king. 
+His splendour will be dazzling but he will not be terrible 
+(i.e. he will be quiescent) . His sons will live long. He will speak 
+pleasing words. 0 son of PaQ.<;lu, he will never face hosts of 
+enemies. 
+CHAPTER EIGHTYNINE 
+The Greatness of Putikesvara Tirtha 
+Sri Miirkm:u!eya said: 
+1-5. 
+Thereafter, 0 great king, a person should go to the 
+excellent Putike§vara which is destructive of all sins. It is situ­
+ated on the southern bank of Narmada. It was installed by 
+Jambavanta who sought the welfare of all the worlds. 
+There was a king named Prasenajit. The jewel from his1 
+chest was taken out, where a wound had been caused, which 
+had become foul and putrid. He performed a penance there 
+at the Tlrtha and the wound healed. 
+The excellent Putikesvara Linga was installedᤡ by him. 0 
+most excellent one among the descendants of Bharata, the 
+man who devoutly takes his holy bath there attains all cher­
+ished desires after worshipping Paramesvara. 0 king, on the 
+eighth and the fourteenth days in the dark half of a month 
+and at all times, devotees should adore the Lord. They never 
+go to the abode of Yama. 
+I . 
+Here the reading should have been ' tasya' and not ' tasyam' as i t cannot 
+be construed in this contex't which refers to King Presenajit. 
+2. 
+There appears some confusion of the author. According to BhP X.56. 1 3-
+l 4 a lion killed Prasenajit and took away the dazzling Syamantaka gem 
+from him; Jimbavan killed the lion and took away the gem. Here jambavan 
+is said to have taken the gem from the chest of Prasenajit; so it was 
+Prasenajit who was wounded and the wound was healed at this Tirtha. So 
+here ' lena' stands for Prasenajit and notjambavan unless we imagine that 
+seeing the healing effect of the water of the Tirtha in the case of Prasenajit, 
+Jambavan installed the Linga.
+
+## Page 304
+
+292 
+Skanda Purii:T}a 
+CHAPTER NINETY 
+The Greatness of jalasiiyt Tirtha 
+Sri Miirkar.uf,eya said: 
+1-1 1 . On the northern bank of Reva, there is an excellent 
+Tirtha dedicated to ViᤁQ.U. It's name Jalasiiyt is well-known all 
+over the earth. 
+Mter slaying DanavasJanardana went to sleep there. The discus 
+was also washed by the Discus-bearing Lord of Devas. By resorting 
+to the waters of Reva, Sudarsana became free from sins. 
+Yudhi$!hira said: 
+Do recount the details of the Cakratirtha bowed to by groups 
+of sages, so also the inimitable prowess of ViᤁQ.u as well as the 
+benefit accruing from Reva. 
+Sri Miirkar;uf,eya said: 
+Well! Well! 0 highly intelligent YudhiHhira, you are indeed 
+one without any attachment (for worldly pleasures) . The Tirtha 
+that has to be kept as a great secret has been created by the 
+Discus-bearing Lord himself. Hence I shall recount to you the 
+story that is destructive of sins. 
+Formerly there was a great Daitya well-known as Talamegha.1 
+All the Devas were conquered by him, 0 king. Their kingdom 
+was taken away. He claimed: "I am ViᤁQ.U. There is no doubt 
+about it. " He himself partook of the shares in the Yajiias. The 
+wealth of Dhanada was taken away. The elephant of Sakra was 
+snatched. The sinner coveted even IndraQ.i and the excellent 
+horse of Sun-god. 
+0 son of Kunti, afraid of Talamegha, Ravi, Rudras, Indra, 
+Yama, Skanda, VaruQ.a, Fire-god, Wind-god, Lord Dhanesvara, 
+Vakpati (Brhaspati) and Mahesa became morose. They went to 
+Brahmaloka and met Pitamaha. The Suras beginning with Vagisa 
+(Brhaspati) eulogized with various hymns of prayer: "Obei­
+sance to the Lord carrying out the differentiation of the three 
+GuQ.as and thereafter acquiring differentiation." 
+* 
+* 
+* 
+1 . No such demon is known to Mbh, VR, and PE. This appears to be a new 
+legend to glorify the Tirtha.
+
+## Page 305
+
+V.iii. 90. 12-24 
+293 
+On seeing the Devas devoid of enthusiasm and pallid in 
+face, 0 king, the delighted Lord replied to the heaven-dwell­
+ers: 
+Brahmii said: 
+1 2-24. 
+Welcome unto the group of Suras. Why? Your earlier 
+brilliance has vanished? Your faces resemble the luminaries 
+under the painful influence of overhanging mist and fog? The 
+weapons of the Suras remain unmanifest due to the disappear­
+ance of their lustre. The Kulisa (thunderbolt) of the Slayer of 
+Vrtra appears as though its glory has been checked and mit­
+igated. Further, the noose in the hand of Pracetas (VaruQ.a) 
+which used to be impossible to ward off to the enemies has 
+reduced to the helplessness of a serpent.whose vigour and 
+vitality has been checked by a Mantra (magic spell) . 
+The mental gloom of Kubera seems to proclaim his discom­
+fiture. Vayu (Wind) with controlled gait appears like a tree 
+with broken branches. 
+Though never-failing, Yama too, now goes on scratching the 
+ground with his staff devoid of its intrinsic brilliance, bringing 
+out the dimness of an extinguished firebrand. 
+How have these Adityas (Sun-gods) unfortunately have be­
+come cool through the loss of their brilliance ( They can be 
+seen at pleasure like those painted in a picture. So, tell me, 
+dear ones, why you have come here and wl;J.at you seek from 
+me. What is the pur!JOSe oi your visit, 0 Suras? Tell me 
+unhesitatingly. Only the creation of the worlds is vested in me. 
+The onus of guarding it lies in you. 
+Thereupon Vrtra's Slayer nudged his Guru as though by 
+means of his thousand eyes that exhibited the lustre of a lotus­
+pond gently wafted by mild wind. 
+Indeed he was the eye (the seer) on behalf of Indra. Though 
+he possessed only two eyes, they were more powerful than h is 
+(Indra's) thousand eyes. Vacaspati (Brhaspati) spoke thus to 
+the Lotus-seated Lord with hands joined in deference. 
+"0 dear father, the mighty Talamegha born of your family, 
+harasses the Devas like a comet that has come up. 
+All the groups of the Devas are miserable on account of that 
+Danava. Talamegha, the powerful Lord of the Daityas, tor-
+
+## Page 306
+
+294 
+Skanda Purii1J,a 
+ments all of us. Hence we have sought refuge in you. 0 Vidhi 
+(Brahma) , be our shelter and resort. " 
+Thereupon the delighted Lord Brahma spoke these words 
+to them: 
+Brahmii said: 
+25-35. 
+0 Suras, except Lord Madhava, there is no one 
+among you who is on a par with that Talamegha. That Danava 
+cannot be controlled by me too. 
+Thereupon, 0 king, all the groups of the Suras with Viriiici 
+(Brahma) as their leader started towards the Ocean of Milk. 
+Utterly miserable on account of that enemy, the Devas hur­
+riedly set off with a desire to see Kesava. After reaching the 
+Ocean of Milk, they eulogized Lord Jalasayin (i.e. Viᤄr:tu) . 
+The Devas said:' 
+You are beginningless and the universe takes its origin from 
+you. You annihilate the universe but you yourself are endless. 
+The universe constitutes your form; otherwise you are form­
+less. Be victorious, 0 Lord adored by the Devas. 
+Be victorious, 0 Lord lying in the Ocean of Milk. Be victo­
+rious, 0 Lord who are always wooed by Lakᤄml. Be victorious, 
+0 son of Devakl, for the purpose of the· destruction of the 
+Danavas. Be victorious, 0 Lord having the conch and the club 
+in the hands. Be victorious, 0 Lord holding the discus. 
+On hearing this eulogy sung by the Devas, Jalasayin woke 
+up. He uttered sweet words with the majestic rumbling sound 
+of clouds: "0 Brahma, why have I been awakened by your Suras 
+and Asuras (?) , though they are themselves powerful. " 
+Brahmii said: 
+0 Krᤄr:ta, they have come to your abode due to their fright 
+of Talamegha. 0 Janardana, the sinner Talamegha cannot be 
+killed by anyone. Do kill that wicked fellow. Otherwise he will 
+not die.
+
+## Page 307
+
+V.iii. 90.36-45 
+295 
+Sri Kr6r:ta said: 
+0 Devas, return to your own abodes and take up the work 
+of your own subjects. I shall kill the evil-minded, mighty Talamegha. 
+But let the Devas tell me the place where that Danava stays. 
+The Devas said: 
+36-45. 
+That Lord of Danavas dwells in the caves of Himalaya 
+surrounded by twenty-four thousand maidens and by innumer­
+able horses and chariots, 0 Krᤄ:r:ta. 
+Actors1 (? warriors) are of various kinds there, 0 Hari, and 
+their qualities cannot be counted. The elephants are as huge 
+as mountains and the horses are comparable to elephants. The 
+mighty giant inspiring fear into the Devas stays there. 
+" 
+On hearing the words of those Devas who were extremely 
+agitated within, the Lord thought about Garu<;la, the destroyer 
+of multitudes of enemies. 
+The Lord wielding club and discus, took up the discus in the 
+hand. With his other hands janardana held the bow, the pestle 
+and the plough2 and mounted the Lord of birds for the pur­
+pose of slaying the Danava. 
+At that time evil portents, terrible in form, began to occur 
+in the city of the Danava. 
+Jackals entered the middle of vultures along with pigeons. 
+Even when there was no wind blowing, his flagstaff fell down. 
+There was a fight between serpents and mice as well as lions 
+and elephants. Rivers deviated from their path and flowed with 
+a mixture of blood. Untimely and off-season flowers were seen 
+on the trees all round. Then the Lord of the universe reached 
+Himalaya, the Lord of mountains. In the vicinity of the city, 
+the conch, Pafi.cajanya, was blown suddenly. 
+Due to that loud report, the Lord of Danavas became highly 
+infuriated. Then the mighty Talamegha spoke these words: 
+1. The reading should be emended as Bha!ii/} (oro:) , soldiers, as Na!ii/}, actors, 
+is irrelevant here. 
+2. A pestle and a plough as weapons of war are associated with Balarama, 
+Kr¿Q.a's elder br6ther. They are shown to be Vi¿Q.u's weapons here!
+
+## Page 308
+
+296 
+Skanda Pura7J.a 
+Talamegha said: 
+46-55. 
+0 Dhundhumara, who is it that has unwittingly 
+fallen into the clutches of Death without being aware of my 
+power? 0 Dhundhuniara, at my behest, go quickly, surrounded 
+by your own army; bind that professedly mighty one and bring 
+him to me forcibly. 
+Dhundhumara said: 
+Undoubtedly, I shall bring him whether he be a Sura, Yakᤁa 
+or Kinnara, even if he be fully equipped with multitude of 
+chariots, elephants, horses and foot-soldiers. 
+Thereupon the source of origin of the universe, the power­
+ful Lord, was seen seated on GarucJa. 
+"Let him be caught. Let him be caught. " The servants were 
+ordered thus by him. As they ran about in the four directions 
+all round, they were burned like locusts by Suparr;ta (GarucJa) 
+of fiery form. 
+Dhundhumara was hit hard with an arrow by Krᤁr;ta. Struck 
+on his chest the sinful fellow fell on the chariot in a state 
+similar to that of the dead. Thereupon all the Danavas became 
+excited an.d raised a great cry. 
+Thereafter the infuriated Talamegha got into a chariot and 
+set out. 0 son of Kunti, he saw Kdava holding the conch, 
+discus and club. 
+Talamegha said: 
+0 Krᤁr;ta, these other Danavas who were killed by you in 
+battle are on a par with Hirar;tyakasipu. 0 Acyuta, they were 
+not manly enough. 
+After saying thus, 0 son of Kunti:, the Danava discharged a 
+volley of arrows like a heavy downpour. Keii ava cut and split 
+the arrows discharged by the Danava. 
+GarucJa slew that part of the army that was indestructible by 
+the Suras and Asuras. Twice the number of his (T2.lamegha's) 
+arrows was dfscharged by Krᤁr;ta. 
+56-65. 
+The Danava discharged twice the number further
+
+## Page 309
+
+V.iii.90.66-78 
+297 
+(increasing) two-fold. Krᤁr:ta cut them off with arrows eight 
+times that number. 
+Thereupon an excellent Agneya (pertaining to Fire) arrow 
+was discharged by the angry Daitya. Krᤁr:ta discharged VaruQa 
+(pertaining to Varur:ta) and the Agneya missile was suppressed 
+by the Varut:J.a. Talamegha then countered it by discharging 
+Vayavya (pertaining to the Wind) . Hrᤁikda discharged Sarpa 
+(pertaining to the serpent) for suppressing the Vayavya. Nrsirilha 
+(.Krᤁr:ta) discharged the Narasirhha arrow, 0 son of Par:t<;lu. 
+On seeing the Narasirilha, the highly powerful Talamegha 
+got down from the chariot quickly. He then seized a sword and 
+shield and said, "0 Krᤁt:J.a, I shall send you along the terrible 
+path of Varna. " Saying this, 0 son of Kunti, the Danava ap-
+proached Kesava. 
+• 
+The Daitya struck with his sword the club-wieldingjanardana. 
+Delighted in his mind, Kdava caught hold of the tip of the 
+Mar:t<;lala (Disc?) and struck Talamegha on his chest in the 
+course of that great battle. Thereupon the Daitya struck Hari 
+andjanardana struck the Daitya in that battle. On thatjanardana 
+became all the more infuriated. 0 descendant of Bharata, he 
+then took up the never-failing discus and hurled it on the head 
+of Talamegha. His head rolled down. Mountains quaked. The 
+oceans became agitated, 0 ·son of Kunti, and rivers deviated 
+from their regular courses. 
+66-78. 
+Then the Devas let down a shower of flowers on 
+Kdava (saying) : "0 Kesava, one who could not be killed by the 
+groups of Suras, has been killed by you ! " Then the Devas became 
+normal and happy when Talamegha was felled down. 0 son of 
+Kunti, Janat:dana resorted to the banks of Narmada. 
+He considered Narmada, the Ocean of Milk itself. Accom­
+panied by Lakᤁmi, Krᤁr:ta lay down on the serpent, Ananta, on 
+the northern bank of Narmada. 
+The terrific Cakra (discus) with the garlands of flames and 
+sparks fell into the waters of Narmada in the mortal world very 
+near Jalasayin. 
+Due to the contact with the waters of Narmada, it became 
+rid of sins that had been acquired due to the killing of Talamegha, 
+0 son of royal personage. The entire sin was immediately washed 
+off in Narmada waters, 0 descendant of Bharata. 
+Thereafter, 0 king, this Tirtha became well-known as]alaiay"i
+
+## Page 310
+
+298 
+Skanda Purii:r:ta 
+1irtha; some call it Kiiliighaniisana and others Cakra 1irtha. The 
+Tirtha on Narmada is very famous in Bharatavarᤁa. 
+May the power of that Tirtha be listened to, 0 king. Just as 
+Ananta is the most famous of all the serpents, Janardana of all 
+the Devas and Margasirᤁa of all the months, so also is Narmada 
+the most famous of all the rivers. 
+In the month of Margasirᤁa. on the eleventh day in the 
+bright half, a man devoid of lust and anger should, meditating 
+on Viᤁᤂu. go to Jalesa. 
+One who takes a single meal at night and that too unsolic­
+ited, who observes fast, feeds Brahmaᤂas and offers gifts to 
+them does not go to the abode of Varna. 
+Those people who are afraid of the world of Yama, 0 son 
+of PaᤂQU, should visit the Lover of Sri lying on the couch of 
+the Serpent. He is encircled by cowherdesses, has resorted to 
+Yoganidra (Yogic slumber) and is Cosmic-formed. He is the 
+Lord of the universe and destroyer of the fear of worldly existence. 
+79-89. 
+With great devotion, one should bathe the Lord 
+with honey, milk, ghee or with water mixed with sugar candy. 
+Those people bereft of jealousy who visitjanardana, the source 
+of origin of the universe, the deity as being bathed, go to the 
+greatest world bowed to by Suras and Asuras. 
+A lamp should be lighted with ghee or with gingelly oil. The 
+devotees should keep awake at night before the Lord, keeping 
+themselves free from envious tendencies. 0 excellent ·king, 
+with devotion they should listen to the story of Viᤁᤂu. There 
+is no doubt that sins like that of Brahmar:ta-slaughter perish. 
+If the men circumambulate the preceptor of the universe, 
+Jalasayin, it is as good as if the earth consisting of the seven 
+continents is circumambulated. 
+When the night dawns, with purity a person should propi­
+tiate the Pitrs with the libations of water. 0 son of PaᤂQu, the 
+men should perform Sraddha there through well-qualified 
+Brahmaᤂas always devoted to their own wives, quiescent and 
+avoiding other men 's wives. They should regularly recite Vedic 
+passages. They should be auspicious and be strictly engaged in 
+their own duties and rites. They must regularly perform Yajiias 
+everyday. They must perform Sandhya rites twice a day. If one 
+wishes for one's welfare, one should perform Sraddha with 
+great faith.
+
+## Page 311
+
+V.iii.90.90-101 
+299 
+Those men are blessed in the mortal world, who, worthy of 
+being saluted on the earth, always abide resorting to the lotus­
+like feet of Hari. Those who visitJalasayin, the leader of Suras, 
+directly, those who perform holy rites, such as fortnightly fast; 
+Paraka Vrata, the splendid CandrayaQa rites, the terrible monthly 
+fast, eating only once in six days and the Paficama Vrata, at 
+that Tirtha, shall get the everlasting goal. 
+Sri Marka1J4eya said: 
+90-1 01 . 
+Henceforth I shall explain the benefit of Tiladhenu1 
+(a cow made of gingelly seeds) , the procedure thereof, the 
+time and the auspicious benefit of the gift. 
+This meritorious anecdote was former!f heard from Sage 
+Dvaipayana by Narada and others on various occasions at the 
+site of the holy Naimiᤁa, 
+This is highly conducive to longevity and auspiciousness. It 
+augments glory. A wise man who narrates this to Brahmar:tas 
+attains infinite benefit. 
+A cow, a house, a quilt, women etc. should not be gifted to 
+many (i.e. more than one) : On a gift being divided (among 
+many) ( vibhaktadak$ina!J?) these do not attain (go back to) the 
+donor. 
+One of these should be given, 0 YudhiHhira. If it is distrib­
+uted among many, it will be subjected to sale and shall burn 
+down the family (of the donor) upto the seventh generation. 
+Gingelly seeds are of various colours-some are white, some 
+black and some resembling cow's urine. A person should make 
+a cow and its calf with all these diverse kinds of gingelly seeds. 
+The cow should be made of four Dror:tas (a measure of 
+quantity of approximately 60 or 30 Kgs) of the gingelly seeds 
+as much of each colour as are available. The calf should be 
+made of one Dror:ta of gingelly seeds or more if desired. 
+The cow of gingelly seeds can be made by the measure or 
+weight current in the particular region and doing so a devotee 
+attains everlasting benefit. 
+It should be placed comfortably on a clean ground strewn 
+with flowers, incense and raw rice-grains. Two Ratnas ·(jewels) 
+I. This topic is not directly related to this Tirtha. It is probably an interpo­
+lation out of context.
+
+## Page 312
+
+300 
+Skanda Purii:TJ.a 
+should be placed in the ears and two lamps in the eyes. A piece 
+of sandal should be placed in the chest and gold at the navel. 
+Honey and ghee should be given above and mustard seeds will 
+constitute the hairs. A blanket should be thrown on the back 
+and honey and ghee on the hips. Vavasa (fodder) , milk-pud­
+ding and ghee along with honey also are to be given. 
+The horns are bedecked with gold and the hoofs with silver. 
+The tail is also bedecked in gold. Ratnas are placed on the back. 
+A brass vessel as one intended for milking should be given. 
+102-1 1 1 . Tiladhenu purifies from all the following sins: those 
+committed in the childhood; those unwittingly committed; ver­
+bal ones; physical ones; mental ones; the sins of spitting into 
+water, crossing over a threshing rod, carnally approaching a 
+Vpᤁali:, the wife of the preceptor, a virgin etc.; stealing gold; 
+and imbibing liquor. ·other sins too are quelled. 
+After 6bserving fast for a day and a night, the devotee should 
+gift it in accordance with the injunctions. 
+The various obstacles in the path towards the abode of Varna 
+are easily countered by this gift: for example, the river Vaitarar:ti 
+in the terrible city of Varna; the sandy expanse , the iron pieces, 
+the rocky region etc. where a sinner is roasted and fried; the 
+hell Avici, the Yamala mountains, where there are steel-beaked 
+crows and terrible hounds; the hell Asipatravana where there 
+is the Kuᤃasalmali: etc. The devotee shall easily cross over these 
+and proceed towards the abode of Dharmaraja. 0 descendant 
+of Bharata, on seeing him, Dharmaraja speaks pleasing and 
+wholesome words: "There is an excellent, befitting Vimana 
+(aerial chariot) embellished with gems and jewels. 0 excellent 
+man, get into it and attain the greatest goal." Do not give this 
+to a clever soldier; do not give it to a mere priest; do not give 
+it to a squint-eyed one or an ugly one, one deficient in limbs 
+and one who lives on shrines. Do not give it to a Brahmar:ta 
+not familiar with the Vedas, nor to one who sells everything, 
+one who is treacherous towards friends, one who is ungrateful, 
+and one devoid of Mantras. 
+1 1 2-1 1 7. It should be given to one who has mastered the 
+Vedanta, to a Srotriya having a large family. It should 'be given 
+to a son of a master of Vedanta, to a householder, to a Brahmar:ta 
+of handsome features in all limbs, one of good conduct and 
+pleasing words.
+
+## Page 313
+
+V.iii.91. 1-9 
+301 
+The full-moon days of Magha, Karttika, Vaisakha, Margaslrᤄa. 
+Aᤄa<;lha and Caitra are good for the gift. The Ayana (transit of 
+the Sun) , Viᤄuva · (equinox) , Vyatlpata, at all times on the holy 
+occasion ofᤅa<;la81ti etc. and the holy period/moment ofHasticchaya 
+(also are good) . 
+Thus the Kalpa of Tiladhenu has been recounted to you by 
+me. 
+They go to the world of ViᤄI).U after placing the foot on 
+Yama. After the extinction of life, they go undoubtedly to the 
+world of Viᤄl).u. They break through the solar zone and go. No 
+hesitation need be entertained. 
+Thus the benefit of Cakratlrtha has been entirely recounted 
+to you, 0 king. On hearing this devoutly, a man is rid of all 
+SinS. 
+CHAPTER NINETYONE 
+The Greatness of Car.uf,iiditya Tirtha 
+Sri Miirka'T}r/-eya said: 
+1-9. 
+Thereafter, 0 king, one should go to the highly splendid 
+Tirtha called Cal).<;laditya. 0 excellent king, it was established 
+by Cal).<;ia and Mul).<;la. 
+Formerly there were two great and terrible Daityas named 
+Cal).<;ia and Mul).<;ia. Resorting to the banks of Narmada, they 
+performed very severe penance. 
+They meditated on Lord Bhaskara (Sun-god} , the destroyer 
+of darkness in all the three worlds. Pleased with their penance, 
+the Thousand-rayed Lord said: "Excellent! Excellent! Request 
+for a boon, 0 heroes, as you wish, whatever has been desired 
+by your mind. " 
+Ca'T}r/-a and Mu'T}r/-a said: 
+0 Divakara, we should be invincible to all the Devas. We 
+should be mentally very alert. At all times, we should be be­
+yond the reach of all the ailments.
+
+## Page 314
+
+302 
+Skanda Purii:TJ,a 
+"Let it be so", said Bhaskara, the stealer of waters. Mter 
+saying so, Bhanu (Sun-god) vanished. With great devotion Bhaskara 
+was installed there by them. One should go there for the fulfilment 
+of oneself. There one should propitiate by means of libations 
+etc., Girval).as (Devas) , human beings and the Pitrs. He shall 
+stay in the world of Bhaskara for a period of a day of Viriiici 
+(Brahma) , 0 king. 
+He should light a lamp on the sixth lunar day, 0 king. He 
+is liberated from all sins. He goes to the city of Ravi (Sun-god) . 
+He who listens to the origin of CaQ.c;labhanu (i.e. Bhanu 
+installed by CaQ.c;la) , 0 leading scion of the family of Bharata, 
+shall be always victorious. He shall be free from mental suffer­
+ing and physical ailment. 
+CHAPTER NINETYfWO 
+The Greatness of Yamahasya Tirtha 
+Sri MiirkaTJ.4eya said: 
+1-5. 
+Thereafter, one should go to the excellent Vamahasya 
+Tirtha which dispels all sins. It is situated on the banks of 
+Narmada. 
+Yudhi$thira said: 
+0 eminent Brahmal).a, how did this Vamahasya come into 
+existence on the earth? Narrate this entirely to me. I have got 
+great curiosity about it. 
+Sri Marka7J4eya said: 
+Well! Well! 0 highly intelligent one! I have been pertinently 
+asked, 0 prince. Formerly your father (Varna/Dharma) came 
+to the sacred Narmada for taking his holy bath. Just ᤆs a cloth 
+washed by a washerman becomes free from impurities, so also, 
+0 VudhiHhira, Dharmaraja (Varna) became free from impuri­
+ties. On seeing his body devoid of impurities, he was surprised 
+and he laughingly said:
+
+## Page 315
+
+V.iii.92.6-24 
+303 
+Yama said: 
+6-1 8. How do men loaded with sins come to my city? Merely 
+through a single holy bath in Reva, the position in the world 
+of Viᤁr:tu is obtained. 
+Those who are physically fit but do not visit the auspicious 
+Reva of meritorious waters, should be known as persons con­
+genitally blind or on a par with dead and lame men. 
+0 king, it is for this reason that the chastiser of the worlds 
+laughed: Those who are physically fit, yet do not visit the river 
+Reva of meritorious waters! 
+Yama installed the Lord there and went to heaven. 0 king, 
+a devotee who has conquered anger and sense-organs should 
+devoutly observe fast, particularly on the f;urteenth lunar day 
+in the dark half of the month of Asvina. He shall be liberated 
+from all the sins. 
+He should keep awake at night and light the lamp of the 
+Lord with ghee, 0 gn;at king. Listen to the benefit thereof. 
+He is redeemed of all sins such as those resulting from 
+carnally approaching a prohibited woman, from eating prohib­
+ited foodstuffs and from drinking prohibited beverages. 
+The sin that results from riding what should not be ridden 
+and by milking what should not be milked, is dispelled merely 
+by the holy ablution. Thus all types of sins do perish. 
+That man never sees the world of Yama. 0 king, this is the 
+greatest secret of the Pitrs on the Earth. 
+Undoubtedly, to those who make gift at Yamahasya every­
+thing becomes everlasting. A devotee should subdue anger and 
+adore Brahmar:tas on a new-moon day by means of various gifts 
+such as gold, plot of land, gingelly seeds, skin of a black an­
+telope, cow of gingelly seeds etc. 
+Those who gift in accordance with what is laid down in the 
+scriptures, a horse, an elephant along with ploughshare, a girl, 
+a cow, a buffalo that yields good quantity of milk etc. do not 
+go to the world of Yama. 
+1 9-24. 
+Yama becomes delighted at every birth, 0 Yudhiᤁthira. 
+Buffalo is the vehicle of Yama and buffaloes are the mothers 
+of his vehicle, buffalo. Certainly Yama becomes pleased as a 
+result of their gift. 
+Even if one is surrounded by sins, one does not go to Yama.
+
+## Page 316
+
+304 
+Skanda Pura:IJ-a 
+For this reason the gift of a buffalo here is excellent. Water 
+should be sprinkled on its horns. The buffalo should be cov­
+ered with a smoke-coloured cloth. Hoofs should be made of 
+iron and copper (red cloth?) should be placed on the back. 
+On the east there shall be a hillock of salt; on the south-east 
+there shall be a mountain of jaggery. Cotton constitutes the 
+portion of the south; butter on the south-west; seven food­
+grains on the west. Rice grains should be placed on the north­
+west. Gold is placed on the northern side and ghee on the 
+north-east. These things should be offered uttering "May Vamaraja 
+be pleased with me. " 
+25-30. 
+Before the Brahmal).a, one shall utter these words: 
+"Varna's world is highly frightening. Asipatravana is terrible. 
+Vamaculli is extremely terrifying. Vaitaral).i is horrible. Kumbhipaka 
+causes terror. Kalasiitra is extremely terrifying. So also the 
+Vamala mountains, Krakaca (scissors) , Tailayantra (oil-extract­
+ing machine) , the hounds, the vultures are hideous. Nirucchvasa 
+is highly noisy, Raurava is excessively terrible. 0 excellent Brahmal).a, 
+we hear that all these are present in the world of Varna. With 
+your favour and by the power of this Tirtha, let them be gentle. 
+By the power of this Dana and with the favour of Vamaraja, 
+may I not go to Naraka in any birth whatsoever. " 
+Men who listen to this account of Vamahasya shall be rid of 
+sins. They will not see the abode of Varna.
+
+## Page 317
+
+V.iii.93.1-10 
+305 
+CHAPTER NINETYTHREE 
+The Greatness of Kalhotf,i 1irtha 
+Sn Miirkar:uf,eya said: 
+1-10. Thereafter, one should go to the excellent KalhoQi 
+Tirtha which is well-known all over Bharata as destroyer of the 
+sins of (even) Ganga. 
+It is difficult of access to men, 0 son of Kunti, and is situated 
+on the banks of Reva for the sake of destruction of the sins 
+of living beings like the Oᤁara1 (arid) Puᤁkara. "That is the 
+Tirtha. This is meritorious. " These are the words of the Trident­
+bearing Lord. 
+Ganga came there in the form of a cow -for the purpose of 
+holy ablution. Hence it became well-known as the excellent 
+KalhoQi Tirtha. 
+Three nights should be spent there around a full-moon day, 
+0 Yudhiᤁᤃhira. If a person eschews Rajas and Tamas GuQ.as as 
+well as anger, hypocrisy and jealousy, 0 son of Kunti, the 
+benefit of salvation is obtained by him. 
+The devotee shall bathe the Lord three times a day on all 
+the three days. The milk should be that of a cow and the cow 
+should have its calf aiive. The milk is to be kept in a copper 
+vessel. Honey should be mixed therewith. 
+Uttering "om namalj. snsiviiya" ( Om, obeisance to Lord Siva) , 
+the deity is to be bathed. He goes to heaven surrounded by 
+celestial damsels. 
+The person should duly take his holy ablution and offer 
+Dana on behalf of the departed ones. He should make gift of 
+a white cow to a BrahmaQ.a of great cleanliness who is always 
+devoted to his wife. He should say, "May my grandfathers be 
+pleased. " 
+The devotee should adopt Sattvika qualities. The cow shall 
+be accompanied by her calf and should be covered with a cloth 
+and placed on gold. Such a donor shall attain the world of 
+Sambhu. 
+I. O$ara seems to be a special name of the sacred places, such as ReQ.uka 
+Tirtha (Panjab) , Sukara, Kasi, Kalifljara, Mahakala (Ujjain ) . According to 
+Padma Pura1)a they are nine in all. (De 1 02)
+
+## Page 318
+
+306 
+Skanda Purii:TJ-a 
+CHAPTER NINETYFOUR 
+The Greatness of Nandikesvara Tirtha 
+Sri Miirkarpf,eya said: 
+1-4. 
+Beyond that itself, 0 king, one should go to the aus­
+picious Nanditirtha that is destructive of all sins of men. It was 
+formerly created by Nandin. 
+It accords salvation to creatures overwhelmed by masses of 
+sins. It is on the banks of Narmada. A devotee should observe 
+fast for a day and a night, 0 Yudhiᤁthira, there at Nandinatha. 
+He should adore Nandikdvara with the full complement of 
+the five Upacaras. 0 son of Dharma, he should gift gems to 
+Brahmar:tas. 
+He should then go to the greatest place where the Pinaka­
+bearing Lord resides. He will be endowed with all types of 
+comforts and ease and will rejoice along with celestial damsels. 
+CHAPTER NINETYFIVE 
+The Greatness of Niiriiya7J.a Tirtha 
+Sri Miirka7J.4eya said: 
+1-1 0. Thereafter, one should go to the excellent Badaryasrama, 
+0 great king. It has been formerly mentioned by Sarhbhu as 
+the most meritorious and excellent Tirtha of all Tirthas. 
+Kiritin (i.e. Arjuna) , your brother, also called Phalguna, 
+became a Siddha there for the sake of the descendants of 
+Bharata. Know that he is Nara with divine features. 
+Both of them, Nara and NarayaQa came to the banks of 
+Narmada. Knowledge is attained only by him who is devoted 
+to Janardana. 
+One who is impartial towards all beings, mobile as well as 
+immobile, Brahmar:ta as well as Car:t<;lala, gets the favour of 
+Janardana. He is pleased with him. 
+0 son of Kunti, see the identity between me and other 
+Atmans. There never is any difference. The Badarikasrama 
+penance-grove has been made by Nara and NarayaQa.
+
+## Page 319
+
+V.iii.95.1 1-21 
+307 
+For the purpose of blessing the worlds, Sari.kara was installed 
+there. The Liri.ga installed by the triad of deities opens the 
+path to heaven and then to salvation. 
+After going there, a devotee should remain clean and ob­
+serve fast for a night. Eschewing Rajas and Tamas, he should 
+adopt Satt_vika attitude. At night he should keep awake. The 
+festival days are the eighth day in the month of Madhu and 
+the fourteenth day of either half. Particularly that of Asvina 
+month has been spoken to you, 0 son of PaQ.QU. With great 
+devotion he should bathe the Bull-emblemed Lord with milk 
+along with honey. This mixed with curds and sugar-candy to 
+which ghee is added, is the holy Paiicamrta with which the 
+Lord is to be bathed. 
+1 1-21 . 
+If a devotee perceives Siva bei.ng bathed duly, and 
+he has devotion and absence of envy, his residence is near Siva 
+in the world of Sakra. There is no doubt at all. 
+If obeisance is made to the Trident-bearing Lord even in­
+sincerely, it shall act as the unraveller of the bondage of the 
+worldly existence. 
+If the practice of reciting the Mantra "om nama/], siviiya" is 
+stabilised by the devotee, it is as good as everything is studied 
+and heard and performed by him. 
+The devotee with sense-organs subdued should take one 
+meal a day and devoutly bathe the Lord. 0 son of Kunti, I shall 
+mention a bit of the benefit he is sure to attain. 
+Though afflicted by old age I shall speak out of my affection 
+for you. They pierce the solar zone and enter the greatest 
+place (supreme position) . 
+He and people like him become full of all happiness in the 
+world. The fact that they are the abodes of pions rites shall be 
+a surprise to the kinsmen. 0 Lord of the earth, they are en­
+dowed with the fulfilment of all desires on the earth. 
+The devotee shall perform Sraddha there itself with the 
+mixture of the waters of Narmada throug;h well qualified BrahmaQ.as 
+of noble birth and mastery over the Vedas, who are of hand­
+some features and good conduct, who are virtuous and de­
+voted to their own wives, who have been born in the Aryadda, 
+who are adepts and possess excellent physical forms. 
+The offering of the balls of rice should be done when the 
+Sun is in the last Muhiirta of the day, if the person wishes for 
+the greatest world of the Pitrs, 0 son of Dharma.
+
+## Page 320
+
+308 
+Skanda Purii:r:ta 
+A person should cautiously avoid those BrahmaQ.as who are 
+squint-eyed, wicked and hypocritical, who are ruthless men, 
+eunuchs and those who slander BrahmaQ.as. One shall avoid 
+these BrahmaQ.as if one wishes for one 's welfare. 
+22-28. 
+Hence with all efforts one should resort to a de­
+serving, well-qualified BrahmaQ.a. He shall then redeem the 
+departed ones from hells, the chief whereof is Kurhbhipaka. 
+Thus there shall be salvation of all the Pitrs, 0 Prince. Uttering 
+"May my Pitamaha be pleased" the devotee should give gold 
+to BrahmaQ.as. 
+To them he should give cooked rice, and garments with 
+devotion. He should give a cow, bullock, land and an umbrella, 
+all of good qualities. That man attains Svarga. So said Lord 
+Sankara. 
+One who gives up his life through fire, water or starvation 
+shall go to Siva's palace. 
+On the banks of NaranarayaQ.i or in DevadroQ.i, 0 king, one 
+should perform holy rites. He dwells in the presence of Isvara 
+as long as fourteen Indras complete their reign. Slipping down 
+again from heaven he becomes a powerful king endowed with 
+all prosperity and good qualities and alert in protecting the 
+subjects. Then he remembers that Tirtha and comes back to 
+the same Tirtha. 
+CHAPTER NINETYSIX 
+The Greatness of KotHvara 1irtha 
+Sri Miirkar_uf,eya said: 
+1-6. 
+Thereafter, 0 great king, one should go to the great 
+KoᤃiSvara Tirtha where, 0 descendant of Kuru, a crore of sages 
+came there for the sake of the welfare of KrᤁQ.advaipayana. 
+The eminent sages took counsel with all the BrahmaQ.as who 
+recited auspicious Vedic passages. Sankara, the cause of the 
+destruction of bondage, was installed there. The Lord causes 
+severance from the worldly existence (Sarhsara) and destroys 
+the distress of all living beings.
+
+## Page 321
+
+V.iii.97.1-8 
+309 
+It is called KoᤃiSvara on the earth, 0 prince. One who bathes 
+the Lord devoutly, on a full-moon day, especially of the month 
+of Sraval)a, 0 Yudhiᤁᤃhira, after offering libations of water and 
+balls of rice to the manes in accordance with the injunctions 
+will give everlasting satisfaction to the Pitrs until the _ annihi­
+lation of all living beings. 
+This is the greatest secret of the Pitrs that have resorted to 
+the banks of Reva. It accords salvation to all creatures. It has 
+been created by the excellent sages. 
+CHAPTER NINETYSEVEN 
+The Greatness of Vyasa 1irtha 
+Sri Mqrkar;uf,eya said: 
+1-8. 
+Thereafter, a person should go to the excellent 
+Vyasatirtha, 0 king. It is rarely accessible to men. It is meriᤇ 
+torious and is stationed in the air-space between heaven and 
+earth. 
+Yudhi6lhira said: 
+Why is that Vyasatirtha well-established in the atmosphere? 
+Recount this succinctly. Do avoid verbose details. 
+Sri Markar;uf,eya said: 
+Well! Well, 0 mighty-armed one! You are a favourite with 
+good men and pious too. You are engaged in your own duties, 
+0 son of Kunti, and you have respect and interest in pilgrim­
+age. 
+Vyasatirtha .. is well-nigh inaccessible to all the creatures, 0 
+king. Mflicted by old age, 0 prince, I have become incapable. 
+Having lost alertness, my mind is out of tune and devoid of 
+the power of recollection. This great secret Tirtha has not 
+been divulged to anyone by me. 
+Kali cannot enter that region, 0 great king, because it is the 
+place of rest of Vyasa. It came to be established in the atmosphere 
+due to the activity of Reva. 
+·
+
+## Page 322
+
+310 
+Skanda Purii7Ja 
+Even Virinci is incapable of glorifying adequately the good 
+points of Reva. How can I then know the excellent greatness 
+of Reva? 
+, 
+Hence I recount a bit of (the greatness) of Vyasatirtha. 
+Here there is direct, convincing evidence seen in the Kali age. 
+9-1 7. No bird crosses beyond the terrible trident. 0 prince, 
+I shall succinctly mention its region. 
+Formerly there was, 0 king, an honoured sage named Parasara. 
+A fierce penance of great benefit was performed by him in the 
+waters of Ganga.1 
+He entered the waters of Ganga and stayed therein restrain­
+ing his breath. When the twelfth year was complete, he came 
+out from within the water. 
+Seeking alms he roamed about in the village. In a certain 
+place he saw a boat in which he saw an extremely charming 
+woman too. 
+On seeing her he became overwhelmed with love and so 
+spoke to her sweetly: "0 lady seated in the boat, you agitate 
+my mind. 0 fawn-eyed one, on the banks of the river who may 
+you be? Take me to the other bank. " 
+On being asked thus by him, she bowed down to the emi­
+nent sage. On seeing him infatuated with love, she told about 
+herself: 
+"I am a slave in a household of fishermen. I am a virgin , 0 
+excellent Brahmat:ta. 0 venerable one, I have been directed by 
+my master to look after the boat. It behoves you to know that 
+the entire fact concerning me has been revealed to you. " 
+On being told thus by her, he meditated for a short while 
+and spoke thus: 
+Pariisara said: 
+1 8-28. 
+0 fair lady, by my knowledge (insight) I know your 
+nativity. You are not the daughter of a fisherman. 0 beautiful 
+woman, you are the daughter of a king.2 
+I. VV 1 0 ff describe the story ofVyasa's birth from Parasara and Satyavati. The 
+story is the same as in Mbh, Adi 63.50-85. 
+2. VV 1 8-49 describe how Satyavati, though a daughter of King Vasu (called 
+Uparicara Vasu in Mbh ) , was born of a fish as the tube of Vasu's semen 
+fell in the river while it was being carried to his queen. 1'his story is the 
+same as in Mbh, Adi. 63.7()-83.
+
+## Page 323
+
+V.iii.97.29-35 
+31 1 
+The girl said: 
+0 BrahmaQ.a, who is my father? Let it be mentioned. In 
+whose womb was I born? In which family was I born? How did 
+it happen that I became known as the daughter of a fisher­
+man? 
+Pariisara said: 
+I shall narrate everything that has been asked by you. There 
+was a king named Vasu who was an ornament unto the lunar 
+race. 
+He was the overlord of Jarhbudvlpa, 0 fair lady, and he 
+heightened terror in the minds of the enemies. He had seven 
+hundred wives and a thousand sons. l{e righteously protected 
+the people and he was honoured always like a god. Mlecchas 
+(Barbarians) , the residents of Kl?lradvlpa, did not recognize his 
+suzerainty. 
+Accompanied by his sons and attendants noted for their 
+valour, he went beyond the ocean in order to exterminate 
+them. The battle with Vasu was started by the Mlecchas. 0 
+fawn-eyed one, the entire host of Mlecchas was overpowered· 
+by Vasu and made to pay tribute. The whole host inclusive of 
+the sons, vehicles and army was subdued. The chief of his 
+queens was your mother, 0 fawn-eyed one. 
+While the king was away, she had her monthly course. Usually 
+the emotion of love in women is inordinate at all times. Espe­
+cially during the days of menses, they are pierced by the arrows 
+of the god of Love. 
+On being tormented by the god of Love that splendid-eyed 
+lady thought, 'I shall send a messenger to King Vasu now. ' The 
+messenger was called and instructed "0 messenger, go imme­
+diately to the king. " 
+The Messenger said: 
+29-35. 
+King Vasu, the chastiser of enemies, has gone to 
+the other shore. 0 splendid lady, without boats it is impossible 
+to go there. All the boats are taken to the other shore. 
+The love-lorn queen became all the more upset at the words 
+of the messenger. Her companion told her: "Why are you worried?
+
+## Page 324
+
+312 
+Skanda Purii7J.a 
+May your own letter expressing your state of mind correctly, 
+be sent through a courier parrot. 0 beautiful lady, birds do go 
+across the sea. " 
+At the words of her companion the queen regained peace 
+(of mind) , 0 king. A scribe was instructed: "At my behest write 
+the letter: '0 King Vasu, it is impossible for Satyabhama to 
+continue to live without you. The days of menses have started 
+already. ' 0 scribe, do write the letter. " When the letter was 
+duly written on a Bhiirja leaf by the scribe, the parrot kept in 
+a cage was immediately brought near. 
+Satyabhiimii said: 
+36-47. 
+Take this letter and go quickly to the presence of 
+King Vasu. 
+Pariisara continued: 
+The- bird bowed down, took up the excellent letter, flew up 
+into the sky, 0 king, and went through the firmament. Soon 
+the bird reached the vicinity of King Vasu. 
+When the letter was dropped down by the parrot, the king 
+took it with his hand and understood that it was sent by Satyabhama. 
+Thinking over the purport of the letter, the king squeezed out 
+his never-failing semen virile and put it in a tube. He entrusted 
+it along with a letter in reply stating, "Go- to the queen." The 
+bird took the tube of semen, bowed down to the king, and flew 
+away. The parrot was flying over the sea when it was spotted 
+by a hawk. 
+Thinking that the parrot had some meat with it the falcon 
+attacked it. It was pecked with the beak and killed by the 
+vulture, 0 descendant of Bharata. When the parrot swooned 
+the semen virile fell into the waters of the sea. The semen 
+virile of King Vasu was swallowed by a fish. A girl appeared 
+within the womb of the fish, 0 beautiful lady. 
+That fish was caught by fishermen who brought it home. 
+-When the fish was cut open, 0 excellent girl, you were seen 
+there rᤈsembling the Moon in lustre and having the dazzling 
+brilliance of the Sun. On seeing you all the fishermen on the 
+banks of Ganga became delighted. 
+All the delighted people went to the abode of the chief of
+
+## Page 325
+
+V.iii.97.48-64 
+313 
+the fishermen and said: "There is a jewel of a girl whom you 
+do take. She is highly brilliant. " As he had no issue he adopted 
+the fawn-eyed maiden. He said to his wife, "0 fair lady of fawn­
+eyes, bring up this girl." 
+Sri Markar;uf,eya said: 
+48-56. 
+Then she (the girl with the boat) reflected upon 
+thᤉ words. of Parasara and said: "Well, 0 dear BrahniaQa, there 
+is the odour of fish emanating from me. " After saying this, 0 
+king, she was willing to surrender herself. 
+Thereupon, the girl was rendered divinely fragrant by the 
+sage by means of his Yogic power. By the same power, he 
+enkindled fire and circumambulated it aDJi duly married her 
+out of love. 
+Then the sage began to touch the erotic centres of the girl 
+in the boat itself. On coming to know that the BrahmaQa was 
+eager to make love, she became afraid, 0 son of Dharma. She 
+laughingly told him: "0 Lord, 0 wise one, in the presence of 
+the public you are on the verge of doing what the rustic people 
+are accustomed to do. How is it that you are not ashamed ! " 
+The sage then meditated for a short while and remembered 
+the Tamasi Maya in his heart., The dark Maya arrived and the 
+entire world of mobile and immobile beings was enveloped by 
+her. 
+The girl was dismayed thereby but was highly humoured. 
+The happiness of being ith a woman was attained by the sage 
+who had been tormented by the compulsion of celibacy for 
+long and he sported about diverting himself. 
+The girl was afflicted by the burden of conception instantly 
+and she quickly delivered a boy holding a staff and having 
+matted hairs. He was quiescent and held a waterpot too. A 
+girdle embellished his waist. There was an upper cloth over his 
+shoulder. (Apparently,} he was unafflicted by ViᤁQu's Maya. 
+57-64. 
+On seeing that boy of her own family, 0 SOJ? of 
+Kunti, the maiden became suspicious and nervous. Tremblingly 
+she sought refuge in the sage saying: "0 excellent sage, save, 
+save my son, the wonderful son with a loin cloth and excellent 
+girdle, holding a staff, having matted hairs and embellished 
+with an upper cloth. "
+
+## Page 326
+
+314 
+Skanda Purii7Ja 
+Pariisara said: 
+Do not be afraid. Even when your son is born you will still 
+be a virgin and you will be known by the name Yojanagandha 
+(one whose fragrance reaches a Yojana) and Satyavatl. 
+A king named Santanu will be your husband. You will be his 
+chief queen and a crest-jewel of the lunar race. 
+Go back, 0 blameless lady, to your resort and remain there 
+as before. Do not be sad. Here you have seen the power of my 
+knowledge. 
+[Sri Miirka7Jr!eya continued:] 
+After saying this, the BrahmaQ.a went away. The maiden 
+approached her son. He humbly bowed down and prostrated 
+with great devotion to his mother and said: 
+"0 mother, I may be forgiven for what I am going to say. 
+Be pleased with me. 0 my mother, I will make efforts at the 
+propitiation of the Lord. " 
+Upset at the words of her son she spoke these words: 
+Yojanagandhii said: 
+65-76. 
+0 dear son, do not go away now abandoning me, 
+your sinless mother. Due to separation from you, there is no 
+doubt, I will die soon. 
+No one is more affectionate than a son, no greater kinsman 
+than a brother, no greater pious activity than truthfulness, and 
+no greater sin than falsehood. 
+In spite of your childhood, dear son, you will be my support. 
+I have no husban_d; (and if you go) I will have no son. See the 
+mockery of Karmas. 
+Vyiisa said: 
+Do not be vexed within. What is uttered by me is the truth. 
+0 divine lady, at the time of any danger I may be remembered 
+for the accomplishment of a task. I shall redeem yqu from 
+danger. My haughty reply may be pardoned.1 
+I . Cf. Mbh, Adi 63. 84-85
+
+## Page 327
+
+V.iii.97.77-85 
+315 
+Sri Miirkarpf,eya said: 
+Mter saying thus, Vyasa went away. That maiden too went 
+home. At the close of Tretayuga and the beginning of Dvapara, 
+0 king, the son of Parasara was in a predicament in the middle 
+of a forest. The Devas with Sakra as the leader thought about 
+Vyasa (i.e. about his consecration etc. ) . It was told by Narada 
+himself: "He (Vyasa) is the son of Parasara. He was born of a 
+daughter of a fisherman on the bank of Ganga. He Is endowed 
+with (spiritual) knowledge. " Then at the instance of Narada, 
+the excellent Suras too came there. Rama, Pitamaha and Sakra 
+were surrounded by groups of sages. Seats were offered to all 
+separately. They said, "Excellent! Excellent! " 
+Garbhadhana (the rite of conception). and other consecra­
+tory rites of the boy were performed by Pitf.maha (god Brahma) . 
+He was named Dvaipayana because he was born in an island. 
+He was called Parasarya because he was born of Parasara. Since 
+he was a part of KrᤁQ.a, he was named KrᤁQ.a. He would be 
+arranging the Vedic texts. Hence (he is named) Vyasa. 
+He was given the sacred ablution by Viriiici and blessed 
+again and again by the groups of sages. "You are Vyasa in all 
+the worlds." Mter saying thus the Devas went away. 
+Pilgrimage was begun by KrᤁQ.a Dvaipayana. 
+77-85. 
+He took bath in Ganga. Kedara and Puᤁkara were 
+visited by him. So also Gaya, Naimiᤁa. Kurukᤁetra and Sarasvati. 
+He visited Mahakala at Ujjayini and Somanatha at Prabhasaka. 
+The great sage took his holy ablution everywhere on the earth 
+girt by the ocean. 
+Ultimately he reached the immortal, splendid Narmada that 
+originated from Rudra's person. On seeing Narmada, he be­
+came glad and obtained peace of mind. 
+He performed an elaborate penance after resorting to the 
+banks of Narmada; In summer he stood in the midst of five 
+fires; in rainy season he lay on bare ground; in Hemanta (early 
+winter) he stood wearing wet cloth and meditated upon Mahe5vara. 
+He meditated 
+on Paramdva-ra abiding in the lotus of his 
+heart. He meditated upon the splendid bestower of boons, the 
+Lord who is the cause of creation and is indivisible. Engross­
+ed in meditation he worshipped the Siddhdvara Linga every­
+day.
+
+## Page 328
+
+316 
+Skanda Purii7J,a 
+Due to the adoration of Siddhesvara Liilga, and the power 
+of Dhyanayoga, Sankara became directly visible to Krᤁr:tadvaipayana. 
+lsvara said: 
+0 dear one, I am pleased with you. Choose a splendid boon. 
+Vyiisa said: 
+0 Lord, if you are pleased, if a boon has to be given to me, 
+then (I ask) you will become directly visible on the banks of 
+Narmada. Let me be the knower of the past and thᤊ future, 
+0 Consort of Uma, with your favour. 
+isvara said: 
+86-96. 
+Let it be so in your case, dear son, undoubtedly 
+with my favour. I have been captivated by your devotion. I shall 
+be visible on the banks of Narmada by a half of one-thou­
+sandth part in your hermitage. 
+[Sri Miirka7J,tf,eya continued:] 
+After sayinᤋ so the Lord went to the excellent Kailasa moun­
+tain. 
+Krᤁr:tadvaipayana duly took a wife1 and he protected his wife 
+in accordance with the injunCtions in the scriptures. The son 
+of Parasara who had no son before begot a son. He was nour­
+ished and brought up by all the Devas, the leaders of whom 
+were Viriflci and Indra. 
+At the time of the birth of the son Vasiᤌᤍha and other eminent 
+sages came there: So also those led by Parasara, in the course 
+of their pilgrimage. Manu, Atri, Viᤌr:tu, Harita, Yajflavalkya, 
+Usanas, Ailgiras, Yama, Apastarilba, Sarilvarta, Katyayana, Brhaspati 
+and thousands, hundred thousands and hundred crores of sages 
+of estimable conduct came with their disciples and camped on 
+the banks of Narmada. 
+1 . But MbJ:t does not mention Vyasa's marriage. It was at the sight of the 
+celestial lady Ghrtaci that Vyays had emission of semen and Suka was born. 
+(Mbh, Santi 324. 4-10)
+
+## Page 329
+
+V.iii.97.97-1 12 
+317 
+All came to the splendid hermitage ofVyasa with great pleasure, 
+0 king. On seeing the eminent Bnihmaᦢ:tas, he stood up by way 
+of welcoming them. At the outset he bowed down to the feet 
+of his father and then to all the others duly. He gave them 
+seats with devotion and then offered Padya and Arghya. Mter 
+keeping the palms joined together in deference he spoke these 
+words: 
+"There is no doubt. I have been elevated (to a higher position) 
+by the conversation and adoration of all of you. With great 
+pleasure, I shall offer you all the vegetables and fruits available 
+i!l the forest. " 
+97-1 02. . He bowed to them severally and invited all of them. 
+On seeing the sage Krᤌᦢ:tadvaipayana humbly bowing down, 
+they blessed hi:rn with benedictions for Jntcess and looked at 
+one another. All of them then looked at Parasara. 
+The eminent sages said to him, "0 dear one, reply suitably 
+to Krᤁᦢ:tadvaipayana. " On being told thus by all of them, the 
+venerable Parasara spok_e to his son Vyasa about what was decided 
+by the sages to be done. 
+Sri Parasara said: 
+The sages do not wish to partake of your hospitality on the 
+southern bank lest it !'hould cause a break in their Vrata. Particularly 
+they wish to partake of food in a Sraddha. 
+Vyasa said: 
+I shall do what you say. Kindly stay here for a short while. 
+I shall propitiate the River and perform the excellent rite. 1 
+[Sri Marka1J4eya continued:] 
+Mter saying this and remaining pure, he resorted to the 
+bank of Narmada. He recited the following prayer promptly. 
+Know . it, 0 kir.g. 
+1 03-1 1 2. "Be victorious, 0 venerable goddess. Obeisance to 
+you, 0 bestower of boons. Be victorious, 0 destroyer of sins 
+1. The miracle of change in the course of· Narmada is found only in this 
+Pura1_1a.
+
+## Page 330
+
+318 
+Skanda Purii7Ja 
+and bestower of many benefits. Be victorious, 0 you who hold 
+the skulls of Surilbha and Nisurilbha. I bow down to you, 0 
+destroyer of the distress of Devas and human beings. 
+Be victorious, 0 divine form having the moon and the suri 
+as eyes. Be victorious, 0 excellent one of divine form with the 
+face embellished by Fire-god. Be victorious, 0 great one sub­
+merged in Bhairava's body. Be victorious, 0 divine form drying 
+up the blood of Andhaka. 
+Be victorious, 0 suppressor of Mahiᤁa (demon in the form 
+of a buffalo) with trident in the hand. Be victorious, 0 de­
+stroyer of the sins of the entire world. Be victorious, 0 goddess 
+bowed down to by Rama and Pitamaha. Be victorious, 0 divine 
+form bowed down to by the heads of Bhaskara. and Sakra. 
+Be victorious, 0 divine lady eulogized by Sat:tmukha and Isa, . 
+the armed one. Be victorious, 0 divine river flowing towards 
+the ocean, 0 divine one eulogized by Sarilbhu. Be victorious, 
+0 destroyer of misery and poverty. Be victorious, 0 divine 
+form causing increase of sons and wives. 
+Be victorious, 0 goddess adopting all bodies. Be victorious, 
+0 guide unto Naka (heaven) , 0 destroyer of misery. Be vic­
+torious, 0 destroyer of ailments, 0 cause of salvation. Be vic­
+torious, 0 bestower of all desired things, 0 most excellent one 
+among those who have achieved spiritu<l perfection . " 
+[Sri MiirkaTJrf-eya continued:] 
+Vyasa will be pleased and so also the Bull-vehicled Lord with 
+one who reads in the presence of Siva this prayer composed 
+by Vyasa, or in the house with pure feelings devoid of lust and 
+anger. The divine river Narmada will also be pleased. She is 
+the destroyer of all sins. 
+Those on the earth by whom Narmada is eulogized will never 
+come with.in the sight of Varna. 
+"0 goddess, in the matter of glorifying your good qualities, 
+even Pitamaha will be at a loss. 0 Narmada, even Vakpati 
+(Brhaspati) does not know how to eulogize your form al;lequately. 
+How then can I endeavour to comprehend your good qualities, 
+0 divine river. " 
+In view of these, the divine river Narmada understood the 
+state of purity (of Vyasa) verbally, mentally and physically and 
+became pleased with him. Then she spoke these words:
+
+## Page 331
+
+V.iii.97. 1 1 3-1 30 
+319 
+1 1 3-1 2 1 . "0 Vyasa, 0 great sage, I am delighted with your 
+truthful utterance. If at all you desire to be granted any boon, 
+I shall fully grant it to you. " 
+Vyasa said: 
+0 divine one, if you are pleased with me, if a boon has to 
+be granted to me, it behoves you to provide hospitality unto 
+the sages on your northern bank. 
+Narmada said: 
+An improper boon has been requested for, 0 Vyasa, that of 
+deviating from the path. Even by Indra, Candra and Yama, it 
+is not possible to make me flow through. a wrong path. Dear 
+son , request for another boon even if it be difficult of access 
+on the earth. 
+[Sri Markarpf,eya continued:] 
+On hearing these words of the divine river Vyasa fell into 
+a swoon. Thinking 'My arduous ehdeavour has become futile', 
+he fell down. 
+The entire earth consisting of mountains, forests and parks 
+trembled. On seeing Vyasa fallen into a swoon, the Devas including 
+Vasava raised a loud cry of lamentation and came there · in 
+thousands. 
+. 
+They lifted up Vyasa who was engaged in arranging the 
+Vedic text. They said: "0 excellent River, he is straining him­
+self for the sake of BrahmaQ.as and not for his own sake. He 
+would presently cast off his life for the sake of cows and BrahmaQ.as." 
+Thus Narmada was told by the excellent Suras beginning with 
+Brahma. 
+Reva who became afraid, sprinkled him with her own waters 
+and fanned him with many cool gusts of wind. The son of 
+Satyavati, who regained consciousness, bowed down to the Devas 
+and said to the river: 
+Vyasa said: 
+1 22-1 30. Benefit has been indicated by all the Tirthas for 
+resorting to them; yet due to my deficiency of fortune, 0 divine 
+river, my meritorious hope has become futile like forest-flowers 
+in the case of people.
+
+## Page 332
+
+320 
+Skanda Puro:r:ta 
+Narmada said: 
+0 sage of great esteem, wherever on the surface of the earth 
+. you may desire to lead me I shall follow your path closely 
+behind you even as you may hold the staff and proceed along 
+with Vindhya. 
+[Sri Markar;uf,eya:] 
+On being told thus, Vyasa, the highly refulgent son of Satyavati, 
+made the excellent river flow on the southern side of his hermitage. 
+The highly brilliant sage wielding the staff made a Hmhkara 
+(gruff sound) . On being afraid of the Hurhkara of Vyasa the 
+daughter of Rudra quietly moved on. 
+With his staff he pointed out the path. The divine river . 
+became active there. The divine river was seen going along the 
+path of Vyasa by Devas with Sakra as their leader. Then the 
+Devas along with Kinnaras made a shower of flowers. 
+The Brahma1,1as, the chief of whom was Parasara, became 
+glad with blossoming eyes. (They said:) "Dear son, tell us what 
+we have to do. We have been delighted by your act. " 
+Vyasa said: 
+Performing an elaborate penance and making gifts attended 
+with great be_nefits, men should do what is conducive to the 
+happiness of good people. 
+If the highly fortunate ones (like you) are pleased, if I am 
+to be blessed, may all of you unhesitatingly stay in my hermit­
+age. 
+My hospitality through greens and leaves with an admixture 
+of Revamrta (nectarine water of Reva) should be accepted by 
+you all with Parasara as the chief guest. All of you do stay in 
+my hermit-;.ge on the northern bank of Reva. 
+Markar;uf,eya said: 
+1 3 1-142. 
+Holy ablution, libations and the Nitya rites (de­
+scribed as daily rites) were performed by the excellent Brahma1,1as. 
+Thereafter they went to VyasakUI,lQa and performed Homa by 
+means of Sriphalas and Bilva leaves in the holy fire. 
+More than a thousand sages performed the Homa in the
+
+## Page 333
+
+V.iii.97.143-152 
+321 
+holy fire. They were: Gautama, Bhrgu, Mat:tc;lavya, Narada, Loma8a, 
+Parasara, Sankha, Kausika, Sage Cyavana, Pippalada, Vasiᤌtl).a, 
+Naciketa of great austerities, Visvamitra, Agastya, Uddalaka, 
+Yama, SaQ.c;lilya, Jaimini, KaQ.va, Yajiiavalkya, Usanas, Angiras, 
+Satatapa, Dadhici, Kapila, Galava, Jaigiᤁavya, Dakᤁa. Bharata, 
+Mudgala, Vatsyayana of great brilliance, Sarilvarta, Sakti,Jatukarwa, 
+Bharadvaja, Valakhilya, AruQ.i etc. etc. 
+They had Akᤁamala (rosary) in their hands and they were 
+engaged in meditative absorption. 
+All the BrahmaQ.as performed the Homa rite with full con­
+centration. Thereupon a Linga destructive of ailments and 
+bestowing salvation rose up there. 
+On seeing the greatest deity that is indivisible, Vyasa be­
+came delighted. The Devas showered flo\ters and the excellent 
+BrahmaQ.as pronounced benediction. 
+On seeing the Three-eyed Lord, Vyasa prostrated with eight 
+limbs touching the ground and adored the BrahmaQ.as with 
+greens, roots and fruits. 
+After feeding the Pitrs at the outset, all the BrahmaQ.as were 
+duly served meals, 0 son of PaQ.c;lu. Mter pronouncing holy 
+blessing, the BrahmaQ.as went away. Ever since then that Tirtha 
+is called Vyasatirtha by learned men. 
+Yudhi6!hira said: 
+1 43-1 52. 
+Do tell me in its entirety, whatever is merito-
+rious as associated with Vyasatirtha. At what time do Snana, 
+Dana and the other rites yield great benefit? 
+Sn Miirkm;uf,eya s̊ id: 
+I shall speak everything to you in the company of your brothers, 
+0 son of PaQ.c;lu. 
+A person should observe fast on t!te fourteenth day in the 
+bright half of .Karttika. Remaining pure and controlling the 
+sense-organs, he should keep awake at night with great devo­
+tion. 
+He should devoutly bathe the Lord with honey, milk and 
+ghee, curds mixed with sugar candy and finally with water 
+poured through Kusa grass. He should then smear Paramesvara 
+with sweet-smelling sandalpaste. Thereafter he should perform
+
+## Page 334
+
+322 
+Skanda Purii:TJ,a 
+worship with fragrant flowers and Bilva leaves, and also .with 
+various flowers such as Mucukunda, Kunda, Kusa,Jati, Unmattamuni 
+flowers and other seasonal flowers. 
+He should adore Dvipesvara, the excellent deity, with great 
+devotion. Paramesvara is pleased by the gift of jaggery made 
+of sugarcane. By gifting eight Gac,lukas (pieces of jaggery?) sin 
+acquired during the day is dispelled. By gifting eight hundred 
+Gac,lukas sin acquired in the course of a month is dispelled; by 
+twice that sin of a year is destroyed; by ten thousand Gac,lukas 
+sin of the whole life ever since the birth is destroyed. By twice 
+that ailment is destroyed and by thrice there shall be acqui·· 
+sition of wealth. By six times that number one becomes elo­
+quent in speech and by twice that one becomes a Siddha. 
+There is no doubt that the status of Rudratva is achieved by 
+one million (Gac,lukas gifted) . 
+1 53-164. 
+0 great king, one should devoutly take the holy 
+ablution on a full-moon day in accordance with the injunctions 
+while uttering the prescribed Mantras. It destroys all sins. 
+The Varut:J.a, Agneya or Brahmya type of holy ablution causes 
+everlasting benefit. A sensible man should duly offer libation 
+to Devas, Pitrs and human beings. 
+If a Rk verse is recited, he shall obtain the benefit of (re­
+citing the whole of) Rgveda. If a Saman verse is recited he 
+shall get the benefit of Sarna Veda recitation. By reciting a 
+Yajur Mantra he gets the benefit of (reciting) Yajurveda and 
+by reciting Gayatri he obtains everything (benefits of reciting 
+all the Vedas) . He should recite the single-syllabled Mantra 
+( Om) or the Saura (pertaining to the Sun-god) Mantra or the 
+Mantra with Siva as the deity or the Vaiᤄr:tava Mantra known 
+as twelve-syllabled Mantra, namely "om namo bhagavate viisudeviiya. " 
+With great devotion he should adore Brahmar:tas marked 
+with all characteristic features of Brahmar:tahood, devoted to 
+their own wives and devoid of hypocrisy or covetousness. 
+The following Brahmar:tas shall be excluded: those following 
+different occupations, sinners, fallen ones, those who serve 
+Siidras, those who have accepted a Siidra woman (as wife) , 
+those in whose house a Vnali is always present, backbiters, 
+wicked ones, those who censure preceptors and elders, those 
+who habitually hate the Vedas, those who argue endlessly and 
+those with cunning behaviour characteristic of cranes. Such 
+persons should be excluded in Sraddha, Dana and all Vratas.
+
+## Page 335
+
+V.iii.97. 165-1 78 
+323 
+A Brahmar;ta of great self-control is better even if he knows 
+only the essence of Gayatri. He is better than a master of all 
+the four Vedas, should he be bereft of self-control, eating 
+indiscriminately and selling everything. 
+One should honour deserving Brahmar;tas by gifts of cooked 
+food and gold. One who makes the gift of shoes, garments, 
+quilt, umbrella, seat etc. to a Brahmar;ta with devotion is honoured 
+in heaven. 
+A real cow, or a Jaladhenu, or Ghrtadhenu, Tiladhenu or 
+buffaloes also should be given (as religious gift) . 
+A man who gifts antelope skin, gingelly seeds and ghee, a 
+virgin and a book shall obtain the everlasting world. 
+1 65-1 71 . 
+I have made a true statement that he who desires 
+heavenly pleasures should make the gift df bullocks with well­
+adorned hoofs (with silver plate) along with food-grains and 
+sundry articles of daily use. 
+The devotee should (symbolically) tie a thread round a Dvipa 
+(continent) or the auspicious earth, a temple or even the great 
+Lord (Liilga) with devotion. 
+If the man performs circumambulation in accordance with 
+the injunctions, it is as good as circumambulating the seven 
+continents viz. Jarhbu, Plakᤁa. Salmali, Kusa, Krauiica, Kasa 
+and Puᤁkara which are encircled by seven oceans. 
+0 great king, the devotee shall perform the rite of Vrᤁotsarga 
+(ceremonial release of a bull) at the shrine of Dvipdvara. By 
+means of reddish-coloured bull the devotee attains the world 
+of Mahe5a. 
+A bull that has grey face, forehead and legs and is white in 
+the tail is a guide (leads) to heaven. A blue one also is said 
+to be like this. One who makes thus dedication in the Dvipdvara 
+shrine, lives in heaven for as many years as there are hairs on 
+its body, 0 descendant of Bharata. 
+1 72-1 78. By the power of VyasatiJ;tha he successively goes 
+to the worlds of Sun-god, Sailkara, Viriiici and ViᤁQU and enjoys 
+the pleasures there as he pleases. 
+Then the devotee should honour devoutly a Brahmar;ta and 
+his wife together. White and red garments are presented to the 
+Brahmar;ta. The couple should be circumambulated uttering 
+this Man tra: "May the preceptor of the universe be pleased 
+with me. "
+
+## Page 336
+
+324 
+Skanda Purii:t;ta 
+There is no other kinsman in this world or in the other 
+world on a par with a BrahmaQ.a. It is he who saves from falling 
+into the highly horrible world of Yama. 
+The devotee should, with great devotion, adore a BrahmaQ.a 
+who is conversant with Itihasas and PuraQ.as,' is a devotee of 
+Vi!jQ.U, who has subdued his sense-organs and who has mas­
+tered the Samaveda in particular. 
+If people remember Dvipesvara with devotion even while 
+. staying at home, ·neither grief nor loss nor sin harasses them. 
+At the outset the devotee should adore the Siddhesvara Liilga 
+and thereafter the shrine where the illustrious Vyasa, the son 
+of Satyavati, became a Siddha. 
+It is by adoring this (Liilga) that the highly intelligent Dharasarpa 
+became a Siddha. 
+1 79-1 85. 
+0 king, one who casts his life in that Tirtha 
+goes to the presence of Siva after piercing the world of Sun. 
+The goal attained after casting life at the Tirtha varies thus: 
+If a devotee gets drowned in the water there, he lives in the 
+world of Siva for seven thousand years. If he immolates himself 
+into the fire, he lives in the other world for eleven thousand 
+years. If he falls from a precipice, he lives in the other world 
+for sixteen thousand years. If he dies in a great battle-, he lives 
+for sixty thousand years in the world of Siva. If he dies as a 
+result of the attack of a cow, he lives in Sivaloka for eighty 
+thousand years. 0 descendant of Bharata, if he dies fasting, his 
+goal is everlasting. 
+The father, the grandfather, and the great-grandfather look 
+at the scion of their family arriving in the form of air. They 
+fondly yearn: . 'Who is such a son in our family as offers us 
+gingelly seed water as libation in that Tirtha on the full-moon 
+day of Karttika or Vaisakha months?' 
+By resorting to that Tirtha we will attain heavenly pleasures. 
+Thus the excellent Dvipesvara has been recounted to you entirely. 
+One who reads this with great devotion or listens with due 
+attention thereto shall be rid of all sins. He rejoices in the 
+palace of Siva. 
+The Arid land ( OEara) of all Tirthas has been created by the 
+leading sages. 0 excellent king, there is no doubt that Vyasatirtha 
+bestows all desires.
+
+## Page 337
+
+V.iii.98.1-7 
+325 
+CHAPTER NINETYEIGHT 
+The Greatness of Prabhii.sa Tirth.o.J 
+Sri Mii.rkar:t4eya said: 
+1-7. 
+Thereafter, 0 great king, one should go to the excel­
+lent Prabhasesvara which is well-known in all the -three worlds 
+as an excellent flight of stairs unto heaven. 
+Yudh#thira said: 
+0 dear one, do recount to me, how did Prabhasa originate 
+as the bestower of a flight of stairs unto heaven and as a visible 
+one having great beneftts. Do describe it tQ me succinctly with­
+out delay. 
+Sri Mii.rkar:t4eya said: 
+The wife of Ravi well-known as Prabha was unfortunate. 
+Sarilbhu was formerly propitiated by her through a very severe 
+penance. 
+For a year she stood taking in only air and for another year 
+she was engaged in meditative absorption. Thereupon, 0 son 
+of Par:t<;lu; Mahadeva was pleased with Prabha. 
+lsvara said: 
+Why do you undergo suffering, 0 maiden? What is desired 
+to be said may be spoken. Indeed I am one with Bhaskara. 
+There is no duality between us. 
+Prabhii. said: 
+0 Lord Sariibhu, excepting her husband no woman has any 
+other Lord anywhere. He may or may not have good qualities; 
+he may be wealthy; he may be amenable to love or prone to 
+hatred; husband is a deity unto women. 
+But, 0 Lord of Sure8vara, it is my misfortune that I am 
+1. 
+This is different from the Prabhasa which i s o n the western coast of 
+Kathiawar and is famous for its Somanatha temple. This one is a sacred 
+place associated with Reva. 
+·
+
+## Page 338
+
+326 
+Skanda Pura7J.a 
+scorched and distressed in the midst of my companions as I 
+do not get the happiness due from a husband. Hence I un­
+dergo very great distress. 
+lsvara said: 
+8-1 5. With my favour you will be a darling unto Bhaskara. 
+Parvati said: 
+If Bhaskara does not take your word as an authority, the 
+sufferings (i.e. penanceԂ of this Prabha would become futile, 
+0 Parame5vara. 
+The dispeller of darkness was thought about (mentally sum­
+moned) by Mahe5a at the instance of Uma. Bhanu (Sun) came 
+down from the sky on to the bank of Narmada. 
+Bhanu said: 
+0 slayer of the demon Aghasura, 0 Lord, why have I been 
+summoned? . 
+· 
+lsvara said: 
+0 Bhanu, protect Prabha according her the greatest con­
+tentment. 
+Uma said: 
+0 destroyer of fog and mist, may you be pleased always to 
+stay in the palace of Prabha. 0 Ravi, let her be made the chief 
+wife among all the wives. 
+Bhii.nu said: 
+0 lady of excellent countenance, 0 goddess, I shall carry 
+out your words of advice. 
+On hearing this, Prabha was summoned. She requested 
+Mahe5vara: 
+Prabha said: 
+0 Lord, 0 Consort of Uma, 0 slayer of Manmatha, may you
+
+## Page 339
+
+V.iii. 98.16-35 
+327 
+be pleased to be present here permanently by a part of yours. 
+Let one part be placed here for opening the Tirtha. 
+Sri Miirka7J.f/,eya said: 
+1 6-25. 
+A Linga constituted by all the Devas was installed 
+there, 0 son of Pat:tc,lu. It is a rare Linga well-known in all the 
+worlds as Prabhasesa. 
+All the other Tirthas yield benefit in due course, . but, 0 
+great king, Prabhasesa bestows the . desired benefit immedi­
+ately. 
+Especially on the seventh day in the bright half of the month 
+of Magha, a devotee should offer a horse to a Brahmat:ta of the 
+qualities mentioned before. Indratva (stitus of lndra) or the 
+region of Bhaskara is obtained by him, 0 king. 
+One should make the gift over to a Brahmat:ta after taking 
+holy bath with great devotion. A donor of cow attains heaven 
+or Satyaloka, 0 king. 
+The cow should be auspicious, beautiful in every limb. She 
+should be young, splendid and yielding plenty of milk. She 
+should be adorned with a bell. She should ·have her calf with 
+her (in that Dana) . A brass pot for milking should be given 
+along with her. Those who make this gift, 0 excellent king, do 
+not go to the abode of Varna. 
+One who bathes the deity with great devotion attains the 
+highest world and stays there until the annihilation of all living 
+beings. Merely by the bath all wretchedness is dispelled, 0 
+Pat:tc,lava. 
+A person who devout]y offers at this Tirtha a virgin in marriage 
+to a Brahmat:ta of the proper age and on a par with him in 
+respect of nobility of the family, character and financial status, 
+0 great king, even if he is a great sinner, gets his sins dissolved 
+like salt in water. 
+26-35. 
+All these sins (mentioned below) are dissolved, 0 
+son of Pat:tc,lu, through the gift of a virgin (in marriage) : sin 
+resulting from an act of treachery against the master; that of 
+one who misappropriates mon-ey deposited; that of a slayer of 
+a friend; that of an ungrateful person; sin arising from perjury; 
+sin arising from demolishing a park in a village; carnally ap­
+proaching other men's wives; sin due to usury; sin due to committing 
+a theft; sin of destroying a well; sin of one guilty of Bic,lalavrata
+
+## Page 340
+
+328 
+Skanda PuriirJ,a 
+(vow of a cat i.e. hypocrisy) ; arrogance; sin of felling trees; sin 
+of prohibiting marital alliance; sin of cutting down a tree in 
+a park; sin of cohabiting with a woman of the prohibited type; 
+sin of coveting other man's wife after forsaking one's own wife; 
+sin due to misappropriating a Brahmal).a's wealth; sin of a 
+person administering poison; that o-f a cow-killer; sin arising 
+from selling learning; sin in associating (with sinners) ; the 
+terrible sin of killing dogs and cats, serpents and Siidras; sin 
+of a person unlawfully possessing landed property after taking 
+it by force; sin of prevention of gifts· to Brahmal).as; and mis­
+deeds against cows and fire etc. 
+Mter going to the world of Bhaskara, he proceeds to the 
+auspicious Rudraloka. He sports about in Rudraloka for a period 
+of the reign of fourteen Indras. When all the sins are dis­
+solved, the faith in Siva is generated in him. One who visits this 
+Prabhasa Tirtha, 0 son of Pal).c;lu, attains the benefit of all the 
+Tir_thas and that of a horse-sacrifice. 
+Gift of a cow is highly meritorious and destructive of aU sins. 
+It is praiseworthy on every occasion but particularly on the 
+fourteenth lunar day. 
+CHAPTER NINETYNINE 
+The Greatness of Nagesvara Tirtha 
+Sri MarkarJ,f/.eya said: 
+1-5. 
+Thereafter, 0 great king, a person should go to the 
+Vasukisa Tirtha that destroys all the clusters of sins and that 
+was established on the southern bank of Narmada. 
+YudhiE'hira said: 
+0 dear one, for what reason was the deity Vasukisa installed 
+on the southern bank of Narmada? 0 my preceptor, do nar­
+rate it in detail. 
+Sri MarkarJ,f/.eya said: 
+Mter creating and stabilising all these (visible) worldly objects,
+
+## Page 341
+
+V.iii.99.6-21 
+329 
+Sarhbhu began to dance. Due to excess of activity sweat issued 
+forth mixed with the waters of Ganga coming out of the head 
+(matted hairs) . As it fell down, a serpent began to lick it. 
+Thereupon, 0 descendant of Bharata, Mandakini became 
+angry with the serpent and cursed: "0 serpent, 0 insignificant 
+creature, you will become a python. " 
+Vasuki said: 
+6-1 1 . 0 divine river duly honoured by Hara, I am a sinner 
+guilty of misdemeanour but worthy of being blessed by you. 
+You are the meritorious, splendid river sanctifying the three 
+worlds. You are the deliverer from mundane existence and the 
+destroyer of the · distress of the distressep ones. You are sta­
+tioned at the threshold of heaven (Sᤎarga) , 0 goddess, take 
+pity on me. 
+Ganga said: 
+Perform an elaborate penance on Vindhya with Sail.kara in 
+view. Thereafter you will regain your original position and the 
+state of a serpent at my behest. 
+Sri Marka7J¢eya said: 
+Then the serpent hastened to the splendid mountain Vindhya 
+and engaged in the propitiation of Sail.kara. He began to perform 
+the penance. 
+Everyday he meditated upon the three-eyed Mahadeva en­
+gaged in playing the I;)amaruka (hand-drum) . When a hun­
+dred years were completed, the preceptor of the universe was 
+moved ·(with pity) and approaching him spoke these soft, loving 
+words, "0 dear serpent, with due deference, choose your boon 
+from me." 
+Vasuki said: 
+1 2-21 . 
+0 Lord, if you are pleased with me, 0 Sankara if 
+you grant m:e a boon, 0 Lord of Devas, let there be redemp­
+tion from sin unto me. Do mention any 'Firtha that is destruc­
+tive of all sins.
+
+## Page 342
+
+330 
+Skanda Puro:IJ.a 
+lsvara said: 
+0 serpent of great might, do go to Reva, the bestower of 
+welfare. Take your holy ablution in accordance with the rel­
+evant injunctions on its meritorious southern bank. 
+Mter saying so, the Lord vanished. Vasuki in great haste 
+entered the waters of Narmada in his python: form. 
+The excellent current of Jahnavi flowed along with his path; 
+he became a serpent again redeemed of all his sins in the 
+waters of . Narmada. 
+Sankara was installed there in Narmada, 0 Yudhi¢ԃhini. 
+Thereafter, the Nagesvara Linga became famous as the de­
+stroyer of sins. 
+A devotee should bathe Siva with honey on the eighth or 
+fourteenth day. Undoubtedly he ·will become rid of sins imme­
+diately. 
+0 son of Kunti, those men without sons who take their holy 
+bath at the confluence will get an excellent and splendid son 
+comparable to Kartavirya. 
+One who observes fast and performs Sraddha there itself, 0 
+Prince, shall release the departed ones from hell. 
+Neither in the family nor among his kinsmen shall there be 
+fear from serpents. With the favour of Nagas his _family shall 
+be free from defects and hence rejoice. 
+Thus, 0 excellt;nt king, everything has been recounted to 
+you due to my affection for you.
+
+## Page 343
+
+V.iii.l 00. 1-9 
+331 
+CHAPTER ONE HUNDRED 
+The Greatness of Marka7J.4esvara 1irtha 
+Sri Marka7J.4eya said: 
+1-9. 
+Thereafter, 0 king, one should go to the extremely 
+splendid Tirtha on the southern bank of Narmada, well-known 
+as MarkaĨ<;lesa. 
+Dear son, it is the most excellent of all the Tirthas, saluted 
+by Devas. It is to be kept as the utmost secret of all secrets. 
+It has not been told to anyone by me. 
+It was installed by me formerly and it is like a flight of stairs 
+unto heaven. Knowledge dawned upon me there itself, with 
+the favour of Sankara. 
+! 
+Anyone else who goes there. and recites the Drupada prayer 
+under the waters becomes liberated from all sins, verbal, mental 
+or physical, 0 son of PaĨ<;lu. Clasping the PiĨ<;li (of Siva Linga) 
+the devotee should face the southern quarter and devoutly 
+worship the Trident-bearing Lord with a form having thirty­
+two handԄ. I _am sure, 0 king, that after the fall of the body 
+ԅe will go to Siva. 
+At night on the eighth lunar day, 0 descendant of Bharata, 
+he .should light lamps (filled) with ghee and he will attain the 
+heavenly world. So said Sankara. 
+0 prince, thereby the Pitrs become contented until the time 
+of the annihilation of all living beings and they become pleased 
+with him too. 
+· 
+A person should offer libations there with Inguda, Badara, 
+Bilva, raw rice-grains or mere water to the ancestors of his 
+family. He shall obtain the benefit (fruit) of his birth.

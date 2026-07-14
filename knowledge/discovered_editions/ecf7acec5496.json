@@ -1,0 +1,180 @@
+{
+  "title": "basava-puranam-telugu",
+  "discovered_at": "2026-07-13T15:52:26.396478+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "basavapuranam018461mbp",
+      "title": "Basava Puranam",
+      "creator": "Pandita Peddamatamu Rachaveera Devara",
+      "year": null,
+      "language": "tel",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Million Books Original Metadata",
+        "Million Books Original TIFF ZIP",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed TIFF ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "basavapuranam018465mbp",
+      "title": "BASAVA PURANAM",
+      "creator": "PANDITA PEDDAMATAMU RACHAVEERA DEVARA",
+      "year": null,
+      "language": "tel",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Million Books Original Metadata",
+        "Million Books Original TIFF ZIP",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed TIFF ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "diyC_basava-puranam-telugu-by-palkuriki-somanatha-andhra-patrika-press",
+      "title": "Basava Puranam Telugu By Palkuriki Somanatha Andhra Patrika Press",
+      "creator": "Andhra Patrika Press",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4365462205",
+      "title": "Social and Economic Profile of Mala Mastis of Andhra Pradesh- A Select Study",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://zenodo.org/record/7828126",
+      "authors": [
+        "J. Chalapathi Rao"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "yrve-197-basava-puranam-telugu-veerashaivism-palm-leaf-",
+      "title": "197 Basava Puranam Telugu Veerashaivism Palm Leaf Manuscript Palkuriki Somanatha",
+      "creator": "Palkuriki Somanatha",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "basavapuranam018461mbp",
+      "title": "Basava Puranam",
+      "creator": "Pandita Peddamatamu Rachaveera Devara",
+      "year": null,
+      "language": "tel",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Million Books Original Metadata",
+        "Million Books Original TIFF ZIP",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed TIFF ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "basavapuranam018465mbp",
+      "title": "BASAVA PURANAM",
+      "creator": "PANDITA PEDDAMATAMU RACHAVEERA DEVARA",
+      "year": null,
+      "language": "tel",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "Million Books Original Metadata",
+        "Million Books Original TIFF ZIP",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed TIFF ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4365462205",
+      "title": "Social and Economic Profile of Mala Mastis of Andhra Pradesh- A Select Study",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "https://zenodo.org/record/7828126",
+      "authors": [
+        "J. Chalapathi Rao"
+      ]
+    }
+  ]
+}

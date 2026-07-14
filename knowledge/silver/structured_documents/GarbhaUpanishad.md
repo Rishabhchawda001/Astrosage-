@@ -1,0 +1,510 @@
+# GarbhaUpanishad
+
+**Document ID:** DOC-46870B4F8092
+**Language:** english (latin)
+**Pages:** 11
+**Class:** native_text
+**SHA256:** `46870b4f80925c2f3261c3f7d9baa9d8f3d0f292767d3f30b61d082d8bc15760`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+गर्भ उपनिषद् 
+Garbha Upanishad 
+ 
+Translation and notes by Subhash Kak (सुभाष काक) 
+ 
+॥ गर्भोपनिषद् ॥ 
+ 
+ॐ सह नाववतु । सह नौ भुनƠु । 
+सहवीयɍ करवावहै । तेजǔःव नावधीतमःतु । 
+मा ǒवǑƮषावहै ॥ 
+ 
+ॐ शान्तिः शान्तिः शान्तिः ॥ 
+ 
+Om! May we be protected; may we be nourished; may we act together with 
+energy; may our study be vigorous and effective; may we not mutually dispute. 
+Om! śāntiå, śāntiå, śāntiå. 
+ 
+ॐ पञ्चात्मकं पञ्चसु वतर्मानं षड्रसं षड्गुणयोगयुक्तम् । 
+तत्सप्तधातु त्रिमलं द्वियोनि चतुर्वर्धाहारमयं शरीरं ॥ 
+ 
+The body is fivefold in nature (the five elements), existing in the five, depending 
+on the six supports (tastes of food), connected with the six qualities, [consisting 
+of] seven dhātus (tissues), three impurities, having two yonis (sexes), and 
+[nourished by] four kinds of food. 
+ 
+ 
+भवित पञ्चात्मकिमित कःमात् पृथिवीयापःतेजोवायुराकाशिमित  
+अर्थम् पञ्चात्मके शरीरे ।  
+का पृिथवी का आपः Ǒकं तेजः को वायुः Ǒकमाकाशम् । 
+तऽ य×कǑठनं सा पृिथवी यÙिवं ता आपो यदंणंु 
+तƣेजो यच्चरित स वायुः यस्मिन् तदाकाशिम×युÍयते ॥ 
+ 
+How is it pancātmakam (five-fold)? Because of the five: earth, water, fire, air and 
+ether. In this five-fold body, what is earth, what is water, what is fire, what is air, 
+and what is ether? It is said that what is hard is earth, what is fluid is water, what 
+is warm is fire, what moves is air, and what is space is ether.  
+ 
+तऽ पृिथवी धारणे आपः संपादनकरणे तेजः प्रकाशने 
+ 
+1
+
+## Page 2
+
+वायुगर्मने आकाशमवकाशूदाने । 
+पृथक् ौोऽे शब्दोपलब्धौ ×वक् ःपशȶ दृष्टी Ǿपे जिह्वा रसने 
+नािसकाऽऽयाणे उपःथƱानÛदनेऽपानमु×सगȶ बुद्ध्या 
+बुद्ध्या मनसा संकल्पयित वाचा वदित । 
+ 
+There the earth is to support, water is to consolidate, fire is for light, air is for 
+movement, and ether is to provide space. Separately, ears are to receive words, 
+the skin for touch, eyes to see form, tongue for taste, and nose for smell. The 
+genitalia are for pleasure and apāna for evacuation. One cognizes with the 
+intellect (buddhi), envisions with the mind (manas), and speaks with words (vāk). 
+ 
+ 
+षड्रसम् कःमात् मधुराàललवणितƠकटकषायरसाǔÛवÛदतेु । 
+षड्रसपर्भगाण्धारम् ।  
+इत्यादीनां शब्दसंख्याः गुणधार्मिकविधा भवति ॥ १ ॥ 
+ 
+How is the six-fold support? It is said to be the six tastes [of food]: sweet, acid, 
+salty, pungent, bitter, and astringent. And ¬adja, Å¬abha, gāndhāra, pancama, 
+madhyama, dhaivata, ni¬āda, together with agreeable and disagreeable sounds 
+and prayer, make ten categories.  
+ 
+शुक्लः रक्तः कृंणो कृष्णः पीतः कपिलः पाण्डुरः इित । 
+सप्तधातुिमित कःमात् यदा देवदत्तस्य िåयातद्ǒवषया  जायते ॥  
+परःपरं सात्त्विकगुण×वात् षड्विधः रसो 
+रसाच्छोǔणतं शोणितात् मांसं मांसात् मेदः मेदसः 
+स्नायु ःनाåनोऽःथीÛयǔःथßयो मज्जा शुक्रम् शुक्रम् 
+शुक्रशोणितसंयोगादावतीर्य गर्भ ǿतद् åयोनिः नयति । 
+ 
+It has white, red, black, smoky gray, yellow, tawny and pale as the colours. What 
+are the seven dhātus (tissues) when Devadatta (any person) desires enjoyment of 
+objects? From the proper combination of qualities, six types of taste (rasa) 
+emerge. From relish of food, blood is created, from it flesh, thence fat, bones, 
+marrow, semen. By the combination of semen and blood the embryo (garbha) is 
+born, and its growth is regulated by the heart (mother’s heartbeat as well as the 
+embryo’s). 
+ 
+अर्धमेऽधिकरणाः अर्थस्थाने तस्य तस्यस्थाने 
+वायुः वायुःथाने ǿदयं ूाजाप×या×बमात् ॥ २ ॥ 
+ 
+2
+
+## Page 3
+
+[The seven dhātus] are in the heart where there’s inner fire; at the place of the fire 
+is pitta (bile); at the pitta-organs is movement (vāyu); and at the vāyu-place is the 
+heart, all growing in order according to the law (Prajāpati).  
+  
+ऋतुकाले संूयोगादेकराऽोǒषतं किललं भवित 
+सप्तमेऽऽष्टमे बुद्धिम् भवित अधर्माष्टमेण तद् 
+भवति मासाष्टमेण कटितो भवित मासेन िशरः 
+संपƭते मासऽयेण पादूवेशो भवित । 
+ 
+When ready, on the joining [of the male and female], [the embryo] after [a day] 
+and night is in a mixed (semi-fluid) state; after seven days it becomes a bubble; 
+after a fortnight, a solid mass, and in a month, it hardens. In two months, it 
+develops the head; in three months, the feet grow.  
+ 
+अथ चतुथȶ मासे जठरकǑटूदेशो भवित । 
+पÑचमे मासे पृश्नवंशो भवित । 
+षष्ठे मासे मुखनािसकानासिकाच्छविः भवति । 
+ 
+In the fourth month, belly and hip are formed; in the fifth month, the backbone is 
+formed; in the sixth month, nose, eyes and ears are formed.  
+ 
+सƯमे मासे जीवेन संयुƠो भवित । 
+अƴमे मासे सवर्संपूणȾ भवित । 
+In the seventh month, [the embryo] comes to have the jīva (conscious self), and in 
+the eighth month, it becomes complete in every sense. 
+ 
+ǒपतू रेतोऽितरक्तात् पुǽषो भवित । 
+मातुः रेतोऽितǐरƠाǔ×Ƹयो भवÛ×युभयोबȸजतुãय×वाÛनपुंसको भवित । 
+ 
+If the father’s seed is more potent, it becomes male; if the mother’s seed is 
+stronger, it becomes female. If the seeds are equal, it becomes an intersexual 
+(napu÷saka, neither male, nor female).  
+ 
+åयाकुिलतमनसोऽÛधाः खÑजाः कुÞजा वामना भवति । 
+अÛयोÛयवायुपǐरपीǑडतशुबƮैÚयाǔÙƮधा 
+तनुः ःयाƣतो युÊमाः ूजायते ॥  
+If [at the time of impregnation] the parents are agitated, the child will be blind, 
+crippled, hunch-backed or stunted. If the vital air moves around, the seed enters in 
+two parts, resulting in twins. 
+ 
+3
+
+## Page 4
+
+पञ्चात्मकः समथर्ः 
+पञ्चात्मकतेजसेƨरसƱ सàयÊ£ानात् Úयानात् 
+अ¢रमोÌकारं िचÛतयित । 
+तदेतदेका¢रं £ा×वाऽƴौ ू
+कृतयः षोडश ǒवकाराः शरीरे तःयैवे देǑहनाम् । 
+ 
+Enabled by the five-fold self, the intelligence of the five elements emerges, and he 
+meditates on the imperishable syllable Om. With the knowledge of the syllable, 
+he understands the eight natures [five sense organs, the mind, intellect and ego] 
+and their sixteen modifications belong to the self residing in the body.  
+ 
+अथ माऽाऽिशतपीतनाडȣसूऽगतेन ूाण आÜयायते । 
+अथ नवमे मािस सवर्ल¢णसंपूणȾ भवित पूवर्जातीः ःमरित 
+कृताकृतं च कमर् ǒवभाित शुभाशुभं च कमर् ǒवÛदित ॥ ३ ॥ 
+ 
+Whatever is consumed or drunk by the mother passes through the nerves and 
+vessels to the child, becoming the source of his satisfaction. During the ninth 
+month, all outer signs attain completeness. And he is reminded of his previous 
+birth, and recounts the good and bad deeds committed. 
+ 
+ 
+नानायोिनसहॐाǔण ǺंÒवा चैव ततो मया । 
+आहारा ǒवǒवधा भुƠाः पीताƱ ǒवǒवधाः ःतनाः ॥ 
+जातःयैव मृतःयैव जÛम चैव पुनः पुनः । 
+अहो दःखोदधौु मÊनः न पँयािम ूितǑबयाम् ॥ 
+यÛमया पǐरजनःयाथȶ कृतं कमर् शुभाशुभम् । 
+एकाकȧ तेन दƻािम गताःते फलभोिगनः ॥ 
+ 
+ 
+He thinks: I have seen thousands of wombs, eaten several kinds of food and 
+sucked many breasts. Born and dead again and again, I am immersed in grief but 
+see no remedy. Thinking of my good and bad deeds, I am suffering alone, 
+although the bodies that enjoyed the fruits are gone. 
+ 
+यतद् योÛयां ूमुÑचािम सांÉयं योगं समाौये । 
+अशुभ¢यकतार्रं फलमुǒƠूदायकम् ॥ 
+यतद् योÛयां ूमुÑचािम तं ूपƭे महेƳरम् । 
+ 
+4
+
+## Page 5
+
+अशुभ¢यकतार्रं फलमुǒƠूदायकम् ॥ 
+ 
+When I get out of this womb, I will take refuge in Sā¡khya-Yoga, which destroys 
+misery and yields liberation; when I get out of this womb, I will take refuge in 
+Maheśvara, who destroys misery and grants liberation.  
+ 
+यतद् योÛयां ूमुÑचािम तं ूपƭे 
+भगवÛतं नारायणं देवम् । 
+अशुभ¢यकतार्रं फलमुǒƠूदायकम् । 
+यतद् योÛयां ूमुÑचािम Úयाये ॄƺ सनातनम् ॥ 
+ 
+When I get out of this womb, I will take refuge in Nārāyaªa, who destroys misery 
+and grants liberation. When I get out of this womb, I will meditate on the eternal 
+Brahman. 
+ 
+अथ जÛतुः Ƹीयोिनशतं योिनƮाǐर 
+संूाƯो यÛऽेणापीÔयमानो महता दःखेनु जातमाऽःतु 
+वैंणवेन वायुना संःपृँयते तदा न ःमरित जÛममरणं 
+न च कमर् शुभाशुभम् ॥ ४ ॥ 
+ 
+ 
+When he reaches the birth canal and comes out of it with great difficulty, he is 
+touched by an all-pervading movement [Māyā] that causes him to forget previous 
+births and the good and the bad deeds performed therein.  
+ 
+शरीरिमित कःमात् 
+सा¢ादÊनयो ƻऽ िौयÛते £ानाǔÊनदर्शर्नाǔÊनः कोƵाǔÊनǐरित । 
+तऽ कोƵाǔÊननार्मािशतपीतलेƻचोंयं पचतीित । 
+दशर्नाÊनी Ǿपादȣनां दशर्नं करोित । 
+£ानाǔÊनः शुभाशुभं च कमर् ǒवÛदित । 
+ 
+Why the body is called śarīram. It has three fires – namely, jñānāgni, darśanāgni 
+and ko¬−hāgni. Of these, ko¬−hāgni is that fire which enables the digestion of all 
+that is eaten; darśanāgni is the fire that gives the power of seeing forms; jñānāgni 
+is that fire of knowledge which enables one to distinguish between good and bad 
+actions. 
+ 
+तऽ ऽीǔण ःथानािन भवति  
+ǿदये दǔ¢णाǔÊनǽदरे गाहर्प×यं 
+ 
+5
+
+## Page 6
+
+मुखमाहवनीयमा×मा यजमानो  
+मनो ॄƺा लोभादयः पशवो धृितदȹ¢ा सÛतोषƱ 
+बुƨȣǔÛियाǔण य£पाआदित्य कमȶǔÛियाǔण हवींǒष िशरः 
+कपालं केशा दभार् मुखमÛतवȶतद्ः चतुंकपालं 
+िशरः षोडश पाƳर्दÛतोƵपटलािन । 
+ 
+They have three places. At the heart is the dak¬iªāgni, in the belly is the 
+gārhapatya, in the mouth is the āhavanīya. Ātman is the yajamāna (sacrificer); 
+the  mind is the Brahmā (the doer); greed and so on [anger, jealousy] are animals 
+[of sacrifice]; mental strength is the vow; contentment and the organs of intellect 
+are the instruments of the yajña (sacrifice); the action organs are the sacrificial 
+objects (comparable to the havis or the rice); the head or the skull is the utensil; 
+the hair thereon is the darbha (the dried grass used in homa); the mouth is the 
+inner altar, the head are the four cups, and the two rows of teeth are the sixteen 
+cups (kapāla) [of the sacrifice]. 
+ 
+ 
+सƯोƣरं ममर्शतं साशीितकं सǔÛधशतं सनवकं ःनायुशतं 
+सƯ िशरासतािन पÑच मज्जाशतािन अःथीिन च ह 
+वै ऽीǔण शतािन षǒƴƱाधर्चतॐो रोमाǔण कोÒयो 
+ǿदयं पलाÛयƴौ Ʈादश पलािन जिह्वा ǒपƣूःथं 
+कफःयाढकं शुÈलं कुडवं मेदः ूःथौ Ʈाविनयतं 
+मूऽपुरȣषमाहारपǐरमाणात् ॥ ५॥  
+ 
+[The human body] consists of 107 marmas (weak or sensitive spots), 180 sutures 
+or junction points, 109 snāyu (sinews), 700 channels, 500 majjā (muscle), 360 
+bones, and forty five million hairs. The heart weighs 8 palas and the tongue 
+weights 12 palas. It has one prastha of pitta (bile), one ā©haka of kapha, one 
+ku©ava of śukra, and two prasthas of fat.  The measure of the urinary or solid 
+excretions is dependent on the intake. [1 pala = 45.5 grammes; 1 prastham = 728 
+grammes; 1 ā©hakam = 2,912 grammes; 1 ku©avam = 182 grammes] 
+ 
+पैÜपलादं मो¢शाƸं 
+पǐरसमाƯं पैÜपलादं मो¢शाƸं पǐरसमाƯिमित ॥ 
+ 
+This Mok¬a ˜āstra was enunciated by the sage Pippalāda. This Mok¬a ˜āstra was 
+enunciated by the sage Pippalāda.  
+ 
+ॐ इित गर्भपिनष×समाƯा ॥ 
+ 
+ 
+6
+
+## Page 7
+
+Notes 
+ 
+ 
+1. Pippalāda and his date 
+ 
+The first question concerns the date of the Garbha Upani¬ad. Since it is ascribed 
+to Pippalāda, we need to determine this sage’s place in the Vedic tradition, 
+although it is believed that the text may not be as old as the sage. Pippalāda is also 
+the instructing sage of the Praśna Upani¬ad and the author of the Atharvaveda 
+śākhā named after him (Paippalāda śākhā). As a principal arranger of the 
+Atharvaveda, he should be assigned to at least the middle of the second 
+millennium BCE, if the ›gveda is to be taken to be no later than 2000 BCE, as is 
+suggested by hydrological evidence related to the drying up of the Sarasvatī river 
+around this time, and the fact that the ›gveda celebrates this river as the great 
+river of its time, flowing from the mountains to the sea. 
+ 
+According to the Purāªas, Pippalāda was the disciple of the ›¬i Vedasparśa, and 
+he instructed Yudhi¬−hira in the significance of the A¡gāravrata, which is based 
+on a dialogue between ˜ukra and Virocana.  
+ 
+The physiological knowledge in the Garbha Upani¬ad is consistent with that 
+found in the oldest Upani¬ads. Like the other texts, it speaks of recursion, but it 
+doesn’t list as many channels (veins and nerves) as the other texts do. This 
+indicates that this Upani¬ad may be older than what has been assumed. 
+ 
+Pippalāda answers six questions in the Praśna Upani¬ad, a number that is 
+reminiscent of the six darśanas. The six questions touch upon six different 
+aspects of reality: forms (nyāya), basis of life (mīmā÷sā), origins (sā÷khya), 
+devas within (yoga), next world (vedānta), and modifications (vaiśe¬ika). This is 
+not an argument for the lateness of the Praśna Upani¬ad, but rather for the remote 
+antiquity of six bases to reality, which mirroring the six directions. 
+ 
+ 
+2. Recursion 
+ 
+Recursion, the mirroring of the cosmos at several levels, including at the level of 
+the body, is one of the central ideas of the Upani¬ads. It is clearly stated, for 
+example, in the Chāndogya Up. 8.1.1 and 3, where we are told that within the 
+heart is this small place with the heaven, earth, sun, moon, and stars where the 
+lights of the universe shine. 
+ 
+अथ यतद्दमǔःमÛॄƺपुरे दहरं पुÖडरȣकं वेँम 
+दहरोऽǔःमÛनÛतराकाशःतǔःमÛयदÛतःतदÛवेƴåयं 
+तƮाव ǒवǔज£ािसतåयिमित ॥ ८. १. १ ॥ 
+ 
+ 
+7
+
+## Page 8
+
+यावाÛवा अयमाकाशःतावानेषोऽÛतǿर्दय आकाश 
+उभे अǔःमÛƭावापृिथवी अÛतरेव समाǑहते 
+उभावǔÊनƱ वायुƱ सूयार्चÛिमसावुभौ 
+ǒवƭुÛन¢आदित्य यÍचाःयेहाǔःत यÍच नाǔःत सवɍ 
+तदǔःमÛसमाǑहतिमित ॥ छाÛदोÊयोपिनषद् ८. १. ३ ॥ 
+ 
+There is in this city of Brahman (the body) the mansion in the shape of a 
+lotus and in it the small inner ākāśa (sky). What lies there that should be 
+sought, which one should seek to understand?’ 
+ 
+As large indeed as is this ākāśa, so large is that ākāśa in the heart. Within it 
+are contained both heaven and earth, both fire and air, both sun and moon, 
+lightning and stars; whatever there is of him (Self) in this world and whatever 
+is not, all that is contained within it. (Chandogya Up. 8.1.1 and 8.1.3) 
+ 
+This recursion is also expressed across time, and it leads to a variety of paradoxes 
+that, the Vedas tell us, cannot be explained away by language. It is described most 
+clearly in the last (fifth) section of the Garbha Upani¬ad in which the body itself is 
+seen as the ground of the sacrifice. 
+ 
+Speaking of recursion, one must also mention “hiraªyagarbha,” the golden womb 
+out of which, the Veda tells us, the universe emerged. In an abstract sense, 
+creation at the cosmic level is to be understood in a sense similar to that at the 
+individual level.  
+ 
+3. Physiology and consciousness 
+ 
+Now we consider the most interesting assertion that the body consists of 107 
+marmas (weak spots), 180 sutures or junction points, 109 snāyu (sinews), 700 
+veins, 500 majjā (muscle), 360 bones, and forty five million hairs. 
+ 
+The numbers 180 and 360 are obviously astronomical and related to the number 
+of days in the civil year. Their occurrence is the assertion of the mirroring of the 
+cosmos in the body. 
+ 
+The numbers 107 and 109 are also, but less obviously, astronomically related. I 
+have shown elsewhere (see the references below) that the Vedic Å¬is characterized 
+the universe by the measure of 108, for it represents the distance to the sun and 
+the moon from the earth, in multiples of their respective diameters. If the body 
+mirrors the universe, it will have 108 parts, with 107 vulnerable joints (marmas), 
+and 109 lashes to hold them together (snāyu). 
+ 
+Other Upani¬ads (e.g. Aitareya 3.3) speak of four kinds of life: born alive, born 
+from egg, born from moisture (insects), and born from germ (plants). 
+ 
+ 
+8
+
+## Page 9
+
+बीजानीतराǔण चेतराǔण चाÖडजािन च जाǽजािन च ःवेदजािन चोǒƫÏजािन चाƳा गावः पुǽषा 
+हǔःतनो यǔ×कÑचेदं ूाǔण जÌगमं च पतǒऽ च यÍच ःथावरं सवɍ त×ू£ानेऽं ू£ाने ूितǒƵतं ू
+£ानेऽो लोकः ू£ा ूितƵा ू£ानं ॄƺ ॥ ऐतरेय उपनिषद् ३.॥ 
+ 
+[These all] are born of eggs, of wombs, of moisture, and of sprouts, namely 
+horses, cattle, men, elephants, and all creatures that there are that move or fly 
+and those that do not move. All these are guided by consciousness and 
+supported by consciousness; the basis is consciousness. Consciousness is 
+Brahman. (Aitareya Up. 3.3) 
+ 
+Consciousness is not taken to exist only in the human, but in all life. 
+ 
+4. Channels in the body (nerves) 
+ 
+The count of 700 channels does not go to the usual details that are to be found in 
+other Upani¬ads. Thus Pippalāda instructs ¸ślavāyana in Praśna Upani¬ad 3.6: 
+ 
+अऽैतदेकशतं नाडȣनं तासां शतं 
+शतमेकैकःया ƮासƯितƮार्सƯितः ू
+ितशाखानाडȣसहॐाǔण 
+भवÛ×यासु åयानƱरित ॥ ूưोपिनषत् ३.६ ॥ 
+ 
+Here there are one hundred and one channels; 
+each of these has one hundred more;  
+each further has seventy-two thousand branching channels, 
+through which the vyāna (breath) courses. (Praśna Upani¬ad 3.6) 
+ 
+This means that the total number of channels (veins, nerves) equals: 
+ 
+ 
+101 + 101×100 + 101×100×72,000 = 727,210,201. 
+ 
+Of these, the most significant channel is the su¬umnā. 
+ 
+BÅhadāraªyaka Upani¬ad 2.1.19 speaks of how the Self returns to the body along 
+the 72,000 hitā channels, which branch off from the heart to all parts of the body. 
+This together with a further description of these nerves of four colours is 
+described well in the Kau¬ītaki Brāhmaªa Upani¬ad: 
+Ǒहता नाम ǿदयःय नाÔयो ǿदया×पुरȣततमिभूतÛवǔÛत यथा सहॐधा केशो ǒवपाǑटतःतावदÖåयः 
+ǒपÌगलःयाǔणàना ितƵǔÛ त।  शुÈलःय कृंणःय पीतःय लोǑहतःयेित तासु तदा भवित। यदा सुƯः 
+ःवÜनं न कंचन पँय×यथाǔःमÛूाण एवैकधा भवित तथैनं वाÈसवȷनार्मिभः सहाÜयेित मनः 
+सवȷÚयार्तैः सहाÜयेित च¢ुः सवȷ Ǿपैः सहाÜयेित ौोऽं सवȷः शÞदैः सहाÜयेित मनः सवȷÚयार्तैः सहाÜयेित 
+स यदा ूितबुÚयते यथाÊनेÏवर्लतो ǒवःफुिलÌगा ǒवूितƵेरÛनेवमेवैतःमादा×मनः ूाणा यथायतनं 
+ 
+9
+
+## Page 10
+
+ǒवूितƵÛते ूाणेßयो देवा देवेßयो लोकाःतƭथा ¢ुरः ¢ुरÚयाने Ǒहतः ःयाǑƮƳंभरो वा ǒवƳंभरकुलाय 
+एवमेवैष ूा£ आ×मेदं शरीरमनुूǒवƴ आ लोमßय आ नखेßयः  ॥  ४. १९. ॥ 
+तमेतमा×मानमेतमा×मनोऽÛववःयित यथा ौेǒƵनं ःवाःतƭथा ौेƵैः ःवैभुर्ÌƠे यथा वा ौेǒƵनं 
+ःवा भुÑजÛत एवमेवैष ूा£ आ×मैतैरा×मिभभुर्ÌƠे यथा ौेƵी ःवैरेवं वैतमा×मानमेत 
+आ×मनोऽÛववःयǔÛत यथा ौेǒƵनं ःवाः स यावƨ वा इÛि एतमा×मानं न ǒवज£ौ तावदेनमसुरा 
+अिभबभूवुः स यदा ǒवज£ावथ ह×वासुराǔÛवǔज×य सवȶषां भूतानां ौैंÓयं ःवाराÏयमािधप×यं 
+पयȶित तथो एवैवं ǒवƮाÛसवȶषां भूतानां ौैंÓयं ःवाराÏयमािधप×यं पयȶित य एवं वेद य एवं वेद 
+॥    कौषीतǑकॄाƺणोपिनषत् ४. २० ॥  
+The nerves of the heart named hitā extend from the heart of the person 
+towards the surrounding body. Fine as a hair divided a thousand-fold, they 
+stand full of thin essence of various colours, white, black, yellow, and red. In 
+these one remains when sleeping and sees no dream, becoming one with the 
+prāªa alone. Then speech with all names goes to it, the eye with all forms 
+goes to it, the ear with all sounds goes to it, and the mind with all thoughts 
+goes to it. And when he awakes, then as from a blazing fire sparks proceed in 
+all directions, thus from that self the prāªas proceed, each towards its place, 
+from the prāªas the gods (the senses), from the gods the worlds. And as a 
+razor might be placed in a razor-case, or as fire in the fire-place, even so this 
+conscious self enters the body to the very hairs and nails.  
+On that self depend other selves, as the men follow the chief, or as his own 
+people are of service to the chief, even so these other selves are of service to 
+that self. So long Indra did not understand this self, the Asuras defeated him. 
+When he understood this, striking down and conquering the Asuras, he 
+attained pre-eminence among all gods and all beings, sovereignty and 
+supremacy. And thus also he who knows this obtains pre-eminence among all 
+beings, sovereignty, supremacy -  he who knows this, yes, he who knows 
+this. (Kau¬ītaki Brāhmaªa Upani¬ad 4.19-20) 
+ 
+5. Causal chain and birth 
+ 
+In Section 4, the Upani¬ad speaks of how the newborn forgets the causal chain at 
+the moment of birth. This echoes the Bhagavad Gītā: 
+ 
+इÍछाƮेषसमु×थेन ƮÛƮमोहेन भारत । 
+सवर्भूतािन संमोहं सगȶ याǔÛत परÛतप ॥ भगवƥȣता ७- २७॥ 
+ 
+By the rising together of desire and envy by the confusion of duality, all 
+beings, when born, fall into the state of forgetting. (Bhagavad Gītā 7.27) 
+ 
+ 
+10
+
+## Page 11
+
+By doing this, it is able to fit the individual’s embodiment in the womb that is 
+consistent with the idea of rebirth. 
+ 
+6. General views 
+ 
+Like other sages of the Upani¬ads, Pippalāda is systematic and rational. The 
+physical basis of life, and the sequence following the development of the embryo, 
+is clearly defined. He describes the basis of life mystically in categories that go, in 
+sequence, from 2 to 7. In the body emerge 8 natures and in it arise 16 
+modifications that are similar to the tattvas of Sā¡khya. In Praśna Upani¬ad 6.4, 
+these are listed by Pippalāda.  
+ 
+The embryo is taken to have become jīva (conscious self) in the seventh month, 
+and in the eighth month, it becomes complete in every sense. This gives the time 
+the fetus becomes a person, with attendant legal rights. It is not explained how the 
+jīva comes to be attached to the body.  
+ 
+Although other passages indicate that the jīva resides in the heart’s recess, it also 
+suffuses the entire body; furthermore, its identity with the Puru¬a means that, 
+mysteriously, it is the one with the entire universe. The distinction also implies 
+the existence of the subtle body (li¡gam). In the Sarvasāra Upani¬ad 7, the subtle 
+body is defined as created out of the mind and other subtle elements that reside in 
+the knot of the heart. The consciousness within this subtle body is called the 
+“knower of the field” (k¬etrajña). 
+ 
+The body is an instrument of the heart, but for it to be able to do what it can, the 
+k¬etrajña must be free: this is mok¬a or mukti.  
+ 
+7. Mass ratios 
+ 
+The conversion ratios in the last section of the Upani¬ad are from Paul Deussen’s 
+book The Philosophy of the Upanishads (Dover, 1966, page 285). 
+ 
+References 
+ 
+S. Kak, The Astronomical Code of the ›gveda. Munshiram Manoharlal, New 
+Delhi, 2000. 
+ 
+S. Kak, The axis and the perimeter of the Hindu temple. Mankind Quarterly, vol. 
+46, 2006. 
+  
+© Subhash Kak, सुभाष काक, 2006 
+ 
+11

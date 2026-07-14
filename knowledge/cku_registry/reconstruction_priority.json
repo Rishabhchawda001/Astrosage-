@@ -1,0 +1,234 @@
+[
+  {
+    "scripture": "Bhagavat Purana",
+    "editions": 5,
+    "canonical_pct": 39.2,
+    "unique_ckus": 35056,
+    "primary_score": 63,
+    "priority_score": 34742
+  },
+  {
+    "scripture": "Valmiki Ramayana",
+    "editions": 4,
+    "canonical_pct": 45.0,
+    "unique_ckus": 26871,
+    "primary_score": 65,
+    "priority_score": 24385
+  },
+  {
+    "scripture": "Yogavasishtha",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 14483,
+    "primary_score": 0,
+    "priority_score": 14483
+  },
+  {
+    "scripture": "Harivansh Puran",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 11870,
+    "primary_score": 0,
+    "priority_score": 11870
+  },
+  {
+    "scripture": "Naradiya Puran",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 9763,
+    "primary_score": 0,
+    "priority_score": 9763
+  },
+  {
+    "scripture": "Devi Bhagwat",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 7554,
+    "primary_score": 0,
+    "priority_score": 7554
+  },
+  {
+    "scripture": "Vishnu Puran",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 6369,
+    "primary_score": 0,
+    "priority_score": 6369
+  },
+  {
+    "scripture": "Atharvaveda",
+    "editions": 2,
+    "canonical_pct": 37.7,
+    "unique_ckus": 5731,
+    "primary_score": 75,
+    "priority_score": 6248
+  },
+  {
+    "scripture": "Kurma Puran",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 6189,
+    "primary_score": 0,
+    "priority_score": 6189
+  },
+  {
+    "scripture": "Rigveda",
+    "editions": 4,
+    "canonical_pct": 39.4,
+    "unique_ckus": 5827,
+    "primary_score": 70,
+    "priority_score": 6003
+  },
+  {
+    "scripture": "Brahma Puran",
+    "editions": 2,
+    "canonical_pct": 0.7,
+    "unique_ckus": 5728,
+    "primary_score": 0,
+    "priority_score": 5688
+  },
+  {
+    "scripture": "Yajurveda",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 1839,
+    "primary_score": 50,
+    "priority_score": 2758
+  },
+  {
+    "scripture": "Durga Saptashati",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 1814,
+    "primary_score": 0,
+    "priority_score": 1814
+  },
+  {
+    "scripture": "Vishnu Sahasranama",
+    "editions": 2,
+    "canonical_pct": 22.0,
+    "unique_ckus": 1286,
+    "primary_score": 80,
+    "priority_score": 1806
+  },
+  {
+    "scripture": "Linga Puran",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 1760,
+    "primary_score": 0,
+    "priority_score": 1760
+  },
+  {
+    "scripture": "Vidur Niti",
+    "editions": 3,
+    "canonical_pct": 0.7,
+    "unique_ckus": 835,
+    "primary_score": 60,
+    "priority_score": 1327
+  },
+  {
+    "scripture": "Samaveda",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 820,
+    "primary_score": 50,
+    "priority_score": 1230
+  },
+  {
+    "scripture": "Tukaram Gatha",
+    "editions": 2,
+    "canonical_pct": 22.2,
+    "unique_ckus": 1578,
+    "primary_score": 0,
+    "priority_score": 1228
+  },
+  {
+    "scripture": "Matsya Puran",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 859,
+    "primary_score": 0,
+    "priority_score": 859
+  },
+  {
+    "scripture": "Skanda Puran",
+    "editions": 2,
+    "canonical_pct": 0.0,
+    "unique_ckus": 841,
+    "primary_score": 0,
+    "priority_score": 841
+  },
+  {
+    "scripture": "Agni Puran",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 778,
+    "primary_score": 0,
+    "priority_score": 778
+  },
+  {
+    "scripture": "Shiv Purana",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 491,
+    "primary_score": 0,
+    "priority_score": 491
+  },
+  {
+    "scripture": "Brahma Vaivarta Puran",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 442,
+    "primary_score": 0,
+    "priority_score": 442
+  },
+  {
+    "scripture": "Padma Puran",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 411,
+    "primary_score": 0,
+    "priority_score": 411
+  },
+  {
+    "scripture": "Vaman Puran",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 247,
+    "primary_score": 0,
+    "priority_score": 247
+  },
+  {
+    "scripture": "Sadhak Sanjivani",
+    "editions": 2,
+    "canonical_pct": 84.4,
+    "unique_ckus": 1435,
+    "primary_score": 0,
+    "priority_score": 224
+  },
+  {
+    "scripture": "Garuda Puran",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 2,
+    "primary_score": 0,
+    "priority_score": 2
+  },
+  {
+    "scripture": "Varaha Puran",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 1,
+    "primary_score": 0,
+    "priority_score": 1
+  },
+  {
+    "scripture": "Brahma Sutras",
+    "editions": 1,
+    "canonical_pct": 0.0,
+    "unique_ckus": 1,
+    "primary_score": 0,
+    "priority_score": 1
+  }
+]

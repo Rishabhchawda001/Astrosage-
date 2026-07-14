@@ -1,0 +1,59 @@
+{
+  "title": "\u0939\u0938\u094d\u0924\u0930\u0947\u0916\u093e \u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u0914\u0930 \u092a\u0902\u091a\u093e\u0902\u0917\u0941\u0932\u0940 \u0938\u093e\u0927\u0928\u093e",
+  "discovered_at": "2026-07-13T17:46:00.728092+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "20230127_20230127_1549",
+      "title": "\u0939\u0938\u094d\u0924\u0930\u0947\u0916\u093e \u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u0914\u0930 \u092a\u0902\u091a\u093e\u0902\u0917\u0941\u0932\u0940 \u0938\u093e\u0927\u0928\u093e",
+      "creator": "Bhanupratap Singh",
+      "year": 2023,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "20230110_20230110_2138",
+      "title": "\u0939\u0938\u094d\u0924\u0930\u0947\u0916\u093e \u0935\u093f\u091c\u094d\u091e\u093e\u0928 \u0914\u0930 \u092a\u0902\u091a\u093e\u0902\u0917\u0941\u0932\u0940 \u0938\u093e\u0927\u0928\u093e",
+      "creator": "Ajay Uttam",
+      "year": 2023,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

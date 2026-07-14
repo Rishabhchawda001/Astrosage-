@@ -1,0 +1,78 @@
+{
+  "title": "\u092e\u0939\u093e\u0930\u093e\u0923\u093e \u092a\u094d\u0930\u0924\u093e\u092a ( Hindi )",
+  "discovered_at": "2026-07-13T17:28:38.456283+00:00",
+  "edition_count": 3,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "2024-e-book-50-1-13-jun-2024",
+      "title": "2024 E Book 50 \u0939\u093f\u0928\u094d\u0926\u0940 \u092d\u093e\u0917 1 \u0939\u0932\u094d\u0926\u0940 \u0918\u093e\u091f\u0940 \u0930\u0923\u0938\u0902\u0917\u094d\u0930\u093e\u092e",
+      "creator": "\u0935\u093f\u0902\u0917 \u0915\u092e\u093e\u0902\u0921\u0930 \u0936\u0936\u093f\u0915\u093e\u0902\u0924 \u0913\u0915",
+      "year": 2024,
+      "language": "mar",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.321296",
+      "title": "\u092e\u0939\u093e\u0930\u093e\u0923\u093e \u092a\u094d\u0930\u0924\u093e\u092a",
+      "creator": "\u0936\u0930\u094d\u092e\u093e, \u0930\u093e\u092e\u0938\u094d\u0935\u0930\u0942\u092a",
+      "year": 1904,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "MAHARANDI-PRATAP-SMRUTI_GRANTH",
+      "title": "\u092e\u0939\u093e\u0930\u093e\u0923\u093e \u092a\u094d\u0930\u0924\u093e\u092a \u0938\u094d\u092e\u0943\u0924\u093f \u0917\u094d\u0930\u0928\u094d\u0925",
+      "creator": "\u0921\u0949. \u0926\u0947\u0935\u0940\u0932\u093e\u0932 \u092a\u093e\u0932\u0940\u0935\u093e\u0932",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

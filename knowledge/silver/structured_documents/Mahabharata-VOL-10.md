@@ -1,0 +1,5327 @@
+# Mahabharata-VOL-10
+
+**Document ID:** DOC-9BC6E1195B19
+**Language:** english (latin)
+**Pages:** 415
+**Class:** ocr_overlay
+**SHA256:** `9bc6e1195b19b4c3017134a23e4d731df4b27e374486a98eb03b65fa8dbe4536`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+THE MAHABHARATA
+KRISHNA-DWAIPAYANA VYASA
+
+Translated into English prose from the
+original Sanskrit Text.
+: BY
+PRATAP CHANDRA ROY, C. 1. E.
+
+VOL X
+
+SANTI PARVA ( Part III )
+and
+ANUSASANA PARVA ( Part I)
+
+ORIENTAL PUBLISHING CO.
+11D, ARPULI LANE
+CALCUTTA-12
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 2
+
+SANTI PARVA
+
+SECTION CCCII
+
+“Yudhishthira said,—'O king, thou hast duly propounded unto me,
+in the way in which it should be, the path of Yoga which is approved by
+the wise, after the manner of a loving preceptor unto his pupil. I ask
+now about the principles of the Sankhya philosophy. Do thou discourse
+to me on those principles in their entirety. Whatever knowledge exists
+in the three worlds is known to thee I’
+
+“Bhishma said,—'Listen now to what the subtile principles are of
+the followers of the Sankhya doctrine have been established by all the
+great and puissant Yatis having Kapila their first. In that doctrine
+O chief of men, no errors are discoverable. Many, indeed, are its
+merits, In fact, there is no fault in it. Comprehending with the aid
+of knowledge that all objects exist with faults, indeed, understanding
+that the objects—so difficult to cast off—with which human beings and
+Pisachas and Rakshasas and Yakshas and snakes and Gandharvas and
+pitris and those that are wandering in the intermediate orders of being
+(such as birds and animals) and great birds (such as Garuda and others)
+and the Maruts and royal sages and regenerate sages and Asuras and
+Viswedevas and the celestial Rishis and Yogins invested with supreme
+Puissance and the Prajapatis and Brahman himself are engaged, and
+understanding truly what the highest limit is of one’s period of exis-
+tence in this world, and apprehending also the great truth, O foremost
+of eloquent men, about what is called felicity here, having a clear
+knowledge of what the sorrows are that overtake when the hour comes
+all those that are concerned with (transitory) objects, and knowing full
+well the sorrows of those that have fallen into the intermediate orders
+of being and of those that have sunk into hell, perceiving all the merits
+and all the faults cf heaven, O Bharata, and all the demerits that attach
+to the declarations of the Vedas and all the excellencies that are connec-
+ted with them recognising the faults and merits of the Yoga and the
+Sankhya systems of philosophy, realizing also that the quality of Sattwa
+bas ten properties, that of Rajas has nine, and that of Tamas has eight,
+that the Understanding has seven properties, the Mind has six, and Space
+has five, and once more conceiving that the Understanding has four
+properties and Tamas has three, and Rajas has two and Sattwa as, one,
+and truly apprehending the path that is followed by all objects when
+destruction overtakes them and what the course is of self knowledge,
+the Sankhyas, possessed of knowledge and experience and exalted by
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 3
+
+2 MAHABHARATA
+
+their perceptions of causes, and acquiring thorough auspiciousness,
+attain to the felicity of Emancipation like the rays of the Sun, or the
+Wind taking refuge in Space.’ Vision is attached to from; the sense of
+scent to smell; the ear to sound ; the tongue to juices; and the skin (or
+body) to touch. The wind has for its refuge Space. Stupefaction has
+Tamas (Darkness) for its refuge. Cupidity has the objects of the senses
+for its refuge, Vishnu is attached to (the organs of) motion. Sakra is
+attached to (the organs of) strength. The deity of fire is attached to the
+stomach, Earth is attached to the Waters. The Waters have Heat (or
+fire) for their refuge. Heat attaches itself to the Wiud ; and the wind
+has Space for its refuge ; and Space has Mahat for its refuge, and Mahat
+has the Understanding for its foundation. The Understanding has its
+refuge in Tamas; Tamas has Rajas for its refuge ; Rajas is founded upon
+Sattwa ; and Sattwa is attached to the Soul. The soul has the glorious
+and puissant Narayana for its refuge. That glorious deity has Emancipa-
+tion for his refuge. Emancipation is independent of all refuge. Knowing
+that this hody, that is endued with six and ten possessions, is the result
+of the quality of Sattwa, understanding fully the nature of the’ physical
+organism and che character of the Chetana that dwells’ within it,
+recognising the one existent Being that live in the body viz., the Soul,
+which stands aloof trom every concern of the body and in which no sin
+can attach, realising the nature of that second object, viz.; the
+acts of persons attached to the objects of the senses, understanding also
+the character of the senses and the sensual obj-cts which have their
+refuge in the Soul, appreciating the difficulty of Emancipation “and the
+scriptures that bear upon it knowing fully the nature of the vital
+breaths called Prana, Apana, Samana, Vyana, and Udana, asalso the two
+other breaths, viz-, the one going downward and the other moving
+upward indeed, knowing those seven breaths ordained to accomplish
+seven ditterent functions, ascertaining the nature of the Prajapatis and
+the Rishis and the high paths, many in number, of virtue or righteous.
+
+1 The ten properties included in sattwa or Goodness are gladness, cheerfulness,
+enthusiasm, fame righteousness, contentment, faith, sincerity, liberality, and lordship.
+The nine properties included in Kaj.s or Passion are belief in the deities, (ostentatious)
+charity, €.joyment and endurance of happiness and sorrow, disunion, exhibition of
+manliness, lust and wrath. intoxication, pride, malice, and disposition to revile. The
+eigne qualities included in Tamas or Jarkness are unconsciousness, stupefaction, excess
+of stupefaction. muddiness of the under-tanding, blindness (of results), sleep, hredless«
+ness. and procrastination The seven incidents of Kuddhi or rhe Understanding are
+Mahur, consciousness, and the five subtile essences. The six incidents of Mind are Mind
+and the five senses. The five incidents appertaining to Space are space, water. wind,
+light, and earth. According toa different school of philosophy, Fuddhi or the Under.
+standing is said to have four incidents appertaining to it, Viz». doubt, ascertainment,
+prite, and memory. Tamas ( ‘arkness) also is otherwise regarded to have only three
+incidents, Viz, inability of comprehension. partial comprehensicn. and totally erro-
+neous comprehension, Rajas (Yassion) is (according to this school) regarded as having
+ly the two incidents of inclination (to act) and sorrow. Sattwa has but one incident.
+Viz., Enlightenment.—T. 2
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 4
+
+SANTI PABVA 8
+
+ness, and the seven Rishis and the innumerable royal Rishis, O scorcher
+of foes, andthe great celestial Rishis and the other regenerate Rishis
+endued with the effulgence of the Sun, beholding all these falling away
+from their puissance in course of many long ages, O monarch, hearing of
+the destruction of even of all the mighty beings in the universe,
+understanding also the inauspicious end that is attained, O king, by
+creatures of sinful acts, and the miseries endured by those that fall into
+the river Vaitarani in the realms of Yama, and the inauspicious
+wanderings of creatures through diverse wombs, and the character of
+their residence in the unholy uterus in the midst of blood and water
+and phlegm and urine and feces, all of foul smell, and then in bodies
+tbat result from the union of blood and the vital seed, of marrow and
+sinews, abounding with hundreds of nerves and arteries and forming an
+impure mansion of nine doors, comprehending also what is for his own
+good what those divers combinations are which are productive of g. 0d
+beholding the abominable conduct of creatures whose natures are
+characterised by Darkness or Passion or Goodness, O chief of Bharata’s
+race,—conduct that is reprehended, in view of its incapacity to acquire
+Emancipation, by the followers of the Sankhya doctrine who are fully
+conversant with the Soul, beholding the swallowing up of the Moon and
+the Sun by Rahu, the falling of stars from their fixed positions and the
+diversions of constellations from their orbits. knowing the sad separation
+of all united objects and the diabolical behaviour of creatures in
+devouring one another, seeing the absence of all intelligence in the
+infancy of human beings and the deterioration and destruction of the
+body, marking the little attachment creatures have tothe quality of
+Sattwa in consequence of their being overwhelmed by wrath and
+stupefaction, beholding also only one’ among thousands of human beings
+resolved to struggle after the acquisition of Emancipation, under-
+standing the difficulty of attaining to Emancipation according to what
+is stated in the scriptures, seeing the marked solicitude that creatures
+manifest for all unattained objects and their comparative indifference
+to all objects that have been attained. marking the wickedness that
+results from all objects of the senses O king and the repul-ive bodies, O
+son of Kunti, of persons reft of life. and the residence, always fraught
+with grief, of human beings, O Bharata, in houses (in the midst of
+spouses and children), knowing the end of those terrible and fallen men
+who become guilty of slaying Brahmanas, and of those wicked
+Brahmanas that are addicted to the drinking of aleoholic stimulants,
+and the equally sad end of those that become criminally attached to
+the spouses of their preceptors, and of those men. O Yuchishtbira, that
+do not properly reverence their mothers, as also of those that have no
+reverence and worship to offer to the deities, understanding also, with
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 5
+
+4 MAHABHARATA
+
+the help of that knowledge (which their philosophy imparts), the end
+that of all perpetrators of wicked acts, and the diverse ends that
+overtake those who have taken birth among the intermediate orders,
+ascertaining the diverse declarations of the Vedas, the courses of seasons,
+the fading of years, of months, of fortnights, and of days, beholding
+directly the waxing and the waning of the Moon, seeing the rising and
+the ebbing of the seas, and the diminution of wealth and its increase
+once more, and the separation of united objects, the lapse of Yugas, the
+destruction of mountains, the drying up of rivers, the deterioration of
+(the purity of) the several orders and the end also of that deterioration
+occurring repeatedly, beholding the birth, decrepitude, death, and
+sorrows of creatures, knowing truly the faults attaching to the body and
+the sorrows to which human beings are subject, and the vicissitudes to
+which the bodies of creatures are subject, and understanding all the
+faults that attach to their own souls, and also all the inauspicious faults
+that attach to their own bodies (the followers of the Sankhya philosophy
+succeed in attaining to Emancipation).
+
+“Yudhishthira said—'O thou of immeasurable energy, what are
+those faults that thou seest attaching to one’s body? It behoveth thee
+to expound this doubt to me fully and truly !'
+
+“Bhisbma said,—‘Listen, O slayer of foes ! The Sankhyas or followers
+of Kapila, who are conversant with all paths and endued with wisdom,
+say that there are in all five faults, O puissant one, in the human body.
+They are Desire and Wrath and Fear and Sleep and Breath. These
+faults are seen in the bodies of all embodied creatures. Those that are
+endued with wisdom cut the root of wrath with the aid of Forgiveness.
+Desire is cut off by casting off all purposes. By cultivation of the quality
+of Goodness (Sattwa) sleep is conquered, and Fear is conquered by
+cultivating Heedfulness. Breath is conquered by abstemiousness of diet
+Oking. Truly understanding gunas by the aid of hundreds of gunas,
+hundreds of faults, and diverse causes by hundreds of causes, ascertaining
+that the world is like the froth of water, enveloped by hundreds of
+illusions flowing from Vishnu, like a painted edifice, and as unsubstantial
+asa reed, beholding it to be (as terrible as) a dark pit, or as unreal as
+bubbles of water, for the years that compose its age areas shortlived
+(compared to the duration of eternity) as bubbles, seeing it exposed
+to immediate destruction, bereft of happiness, having certain ruin
+for itsend and from which it can never escape, sunk in Rajas and
+Tamas, and utterly helpless like an elephant sunk in mire,—noting all
+this—the Sankayas, O king, endued with great wisdom, casting off all
+affection arising from one’s relation towards one's children, by the aid,
+O king, of that extensive and all-embracing knowledge which their
+system advocates and cutting off quickly, with the weapon of knowledge
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 6
+
+SANTI PARVA 5
+
+and the bludgeon of penances, O Bharata, all inauspicious scents born of
+Rajas and all scents of a like nature arising from Tamas and all
+auspicious scents arising from Sattwa and all pleasures of the touch (and
+of the other senses) born of the same three qualities and inhering to the
+body,—indeed, O Bharata, aided by the Yoga of knowledge, these Yatis
+crowned with success,—cross the Ocean of life, That Ocean, so terrible
+has sorrow for its waters. Anxiety and grief constitute its deep lakes.
+Disease and death are its gigantic alligators. The great fears that strike
+the heart at every step are its huge snakes. The deeds inspired by
+‘Tamas are its tortoises. Those inspired by Rajas are its fishes, Wisdom
+constitutes the raft for crossing it. The affections entertained for
+objects of the senses are its mire- Decrepitude constitutes its region
+of grief and trouble.’ Knowledge, O chastiser of foes, is its island,
+Acts constitute its great depth. Truth is its shores. Pious observances
+constitute the verdant weeds floating on its bosom-? Envy constitutes
+its rapid and mighty current. The diverse sentiments of the heart
+constitute its mines. The diverse kinds of gratification are its valuable
+gems. Grief and fever are its winds. Misery and thirst are its mighty
+eddies. Painful and fatal diseases are its huge elephants. The
+assemblage of bones are its flights of steps, and phlegm is its froth,
+Gifts are its pearl-banks. The lakes of blood are its corals, Loud
+laughter constitutes its roars. Diverse sciences are its impassability.
+Tears are its brine- Renunciation of company constitutes the high
+refuge (of those that seek to cross it). Children and spouses are its
+unnumbered leeches. Friends and kinsmen are the cities and towns
+on its shores. Abstention from injury, and Truth, are its boundary
+line. Deatn is its storm-wave- The knowledge of Vedanta is its island
+(capable of affording refuge to those that are tossed upon its waters).
+Acts of compassion towards all creatures constitute its life-buoys,*
+and Emancipation is the priceless commodity offered to those voyaging
+on its waters in search of merchandise. Like its substantive prototype
+with its equine head disgorging flames of fire, this ocean too has its
+fiery terrors. Having transcended the liability, that is so difficult to
+transcend, of dwelling within the gross body, the Sankhyas enter into
+pure space-* Surya then bears, with his rays, those righteous men that
+
+1 ‘Durga’ is an inaccessible region such as a-forest or wilderness which cannot be
+passed through except with great pain and danger.—T.
+2 The correct reading seems to be ‘sthita-vratati-samkulam’—T.
+
+3 ‘Udadhi’ is, literally, a water-jar. In this country most people, while
+swimming, use water-jars as buoys. The mouth of jar being dipped into the water
+the sir confined within it serve to support heavy weights. Ihave heard that the most
+rapid currents are crossed by milkmaids in this way, all the while bearing milk pails
+on their heads—T.
+
+4 In the second line of 72, ‘dustaram janma’ means janma-yuktam dustaram.’—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 7
+
+6 MAHABHARATA
+
+ate practicers of the Sankhya doctrines. ‘Like the fibres of the
+lotus-stalk conveying water to the flower into which they all converge,
+Surya, drinking all things from the universe, conveys them unto
+those good and wise men.' Their attachments all destoyed, possessed of
+energy, endued with wealch of penances, and crowned with success,
+these Yatis, O Bharata, are borne by that wind which is subtile,
+cooling, fragrant, and delicious to the touch, O Bharata! In fact, that
+wind which is the best of the seven winds, and which blows in regions
+of great felicity. conveys them, O son of Kunti, to that which is the
+highest end in space.? Then space into which they are carried, O
+monarch, conveys them to the highest end of Rajas.* Rajas then bear
+them to the highest end of Sattwa. Sattwa then bears them, O thou
+of pure soul, to the Supreme and puissant Narayana. The puissant and
+pure-sould Narayana at last, through himself, bears them to the
+Supreme Soul. Having reached the Supreme Soul, those stainless
+persons who have (by that time) become the body of (what is called).
+That* attain to immortality, and they have never afterwards to return
+from that position, O King! That is the highest end, O son of Pritha,
+which is attained by those high-souled men who have transcended the
+influence of all pairs of opposites
+
+“Yudhishthira said—'O sinless one, have those persons of firm vows
+after they have attained to that excellent position which is fraught with
+puissance and felicity, any recollection of their lives including birth
+and death? It behoveth thee to tell me properly what the truth isin
+respect, O thouof Kuru's race. Ido not think it proper.to question
+any one else than thee! Observing the scriptures bearing upon
+Emancipation, I find this great fault in the subject (for certain scrip.
+tures on the topic declare that consiousness disappears in the emanci-
+pate state, while other scriptures declare the very reverse of this),
+If, having attained tothis high state, the Yatis continue>to live in
+consciousness, it would seem, O king, that the religion of Pravritti is
+superior. If, again, consciousness disappears from the emancipate state
+
+1 The sense seems to be that by practising the Sankhya doctrines men cease to have
+any regard for even their gross bodies. They succeed in realising their existence as
+independent of allearthly or heavenly objects. What is meant by the Sun bearing
+them in his rays and conveying to them all things from every part of the universe is
+that these men acquire great puissance. This isnot the pusissance of Yoga tut of
+knowledge. Everything being regarded as unsubstantial and transitory. the po
+Indra himself, or of Brahman, is looked upon as desirable and unworthy of acai
+Sincere conviction of this kind and the course of conduct that is confirmable to it
+is literally puissance of the highest kind, for all the purposes of puissance are capable
+of being served by it.—T.
+
+2 This is taken as meaning that the Sankhyas are conveyed to the firmament
+of the heart. Perhaps, what is intended by it is that they become withdrawn frem
+external objects and even the impressions of all external things.—T.
+
+3. Perhaps, this means the pleasures of heaven.—T.
+
+4 I. e. they who have identified themselves with Brabma.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 8
+
+SANTI PARVA 7
+
+and'Gne who has become emancipate only resembles a person sunk in
+dreamless slumber, then nothing can be more improper than to say
+that there is really no consciousness in Emancipation (for of all that
+happens in dreamless slumber is that one's consciousness is temporarily
+overshadowed ‘and suspended, but never lost, for it returns when one
+awakes from that slumber)?"
+
+“Bhishma said—'However difficult it may be to answer it, the
+question whick thou hast asked, O son, is proper. Verily, the question
+is of such a kind that even they that are possessed of great learning
+become stupefied in answering it, O chief of Bharata’s race. For
+all that, bear what the truth is as expounded by me. The high-souled
+followers of Kapila have set their high understandings on this point.
+The senses of knowledge, O King, planted in the bodies of embodied
+creatures, are- employed’ in their respective functions of perception.
+They are the instruments of the Soul, for it is through them that
+subtile Being ‘perceives.? Disunited with the Soul, the senses are
+like lumps of wood. and are without doubt, destroyed (in respect of
+the functions they serve) like the froth that is seen on the bosom of
+the ocean.* When the embodied creature, O ‘scorcher‘of foes, sinks
+into sleep along with his senses, the subtile Soul then roves among all
+subjects like the wind through space.‘ The subtile Soul, during
+slumber, continues to see (all forms) and touch all objects of touch,
+O king, and taken in other perceptions, as well as when it is awake.
+In consequence of their inability to act without their director, the
+senses, during sleep, all become extinguished in their respective places
+(and lose their powers) like snakes deprived of poison.® At such
+times, the subtile Soul, repairing into the respective place of all the
+senses, without dout, discharges all their functions.’ All the
+
+1 Yudhisthira’s question seems to be this. Is there or is there not consciousness
+in the emancipate state? Different scriptures answer this question difterently.
+If it be said that there is consciousness in that state, then why di-card heaven ard
+its pleasures, or the religion ot Prevritti or acts which lead to those pleasures?
+Where is the necessity then of Sannyasa or the religion of Nivritti or abstention
+from all acts? On the supposition of there being consciousness in the emancipate
+state, the Religion of Pravritti should be taken as superior. If,on the otherhand, the
+
+steaze of cOusciousness be denied, that would be an error. ‘Dukshataram’ is
+yuktaram'—T.
+
+2 Although I make use of the word 'perceive’ yet rememberirg that the mind
+is included among the senses and regarded as the sixth sense, the functions of
+recollection, representation, &c, are also implied bs the word ‘pasyati.” The Furdwan
+trauslator gives a ridicul. usly etroneous version of this Verse—T.
+
+The Commentator expl.ins that the simile of the froth is introduced in
+consequence of its disappeatance with the disappearance of water. K. P, Singha is
+incorrect in taking the instance of froth as illustrative cf the quickness of the
+destuction —T.
+
+4° ‘Sarvatra’ does not mean‘through every part of the sleeper's kecdy" as. .P.
+Singha takes it, but ‘sarvavishaye’ as the Commentator correctly explains it.—T.
+
+‘Wha’ is ‘sapne’ *Anis :h' is ‘nasti isah or pravartaah yasya.—T.
+
+€ For the Soul, in dreams, sees and hears and touches andsmells &c, precisely
+as it does while awake—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 9
+
+8 MAHABHARATA
+
+qualities of Sattwa, all the attributes of the Understanding, O Bharata,
+as also those of Mind, and Space, and Wind, O thou of righteous soul,
+and all the attributes of liquid substances, of Water, O Partha, and
+of Earth,—these senses with these qualities—O Yudhishthira, which
+inhere to Jiva-souls, are along with the Jiva-soul itself, overwhelmed
+by the Supreme Soul or Brahma. Acts also, good and bad, overwhelm
+that Jiva-soul. Like disciples waiting upon their preceptor with
+reverence, the senses too wait upon the Jiva-soul transcends Prakriti’
+it attains to Brahma that is without change, that is highest, that is
+Narayana, that is beyond all pairs of opposites, and that transcends
+Prakriti. Freed from both merit and demerit, the Jiva-soul entering
+the Supreme Soul which is divested of all attributes, and which is the
+home of all auspiciousness, does not return thence, O Bharata. What
+remains, O son, is the mind with the senses, O Bharata. These have
+to come back once more at the appointed season for doing the
+bidding of their great Master." Soon after, O son of Kunti, (when this
+body is cast off) the Yati striving after Emancipation, endued as he
+is with knowledge and desirous as he is of Guna, succeeds in attaining
+to that Peace of Emancipation which is his who becomes bodiless.?
+The Sankhyas, O king, are endued with great wisdom. They succeed
+in attaining to the highest end by means of this kind of knowledge.
+There is no knowledge that is equal to this. Do not yield to any kind
+of doubt. The Knowledge which is described in the system of the
+Sankbyas is regarded as the highest. That knowledge is immutable
+
+and is eternally fixed. It is eternal Brahma in fulness. It has no
+beginning, middle and end. It transcends all pairs of opposites.
+It is the cause of the creation of the universe. It stands in fulness,
+It is without deterioration of any kind. It is uniform, and everlasting.
+Thus are its praises sung by the wise. From it flow creation and
+destruction and all modifications. The great Rishis speak of it and
+applaud it in the sciptures. All learned Brahmanas and all righteous
+men regard it as flowing from Brahma, Supreme, Divine, Infinite,
+Immutable, and Undeteriorating. All Brahmanas again that are
+attached to objects of the senses adore and applaud it by ascribing to
+it attributes that belong to illusion.‘ The same is the view of Yogins
+well observant of penances and meditation and of Sankhyas of
+
+1 The sense seems to be that a person who becomes emancipate in this life
+becomes so in Samadhi. When the state of Samidhi is over, his mind and senses
+return and returning they do the bidding of the Supreme, i e. bring about both
+happiness and misery, which, of course, are the consequences of the acts of past lives
+though that happiness and misery are not feft. In the next Verse is said that these
+men very soon leave their bodies and become freed frem rebirth —T.
+
+2_ There are two kinds of Emancipation ; one is attainable here, in this body,
+It is ‘Jivan-mukei’ the other is ‘Videha-kaivalya’ or that which becomes cne's when
+one is bodiless. In 93, Jivan-mukti has been spoken of. In this Verse, the observations
+apply to *Videhakaivaly:
+
+3. ‘Vadanti’ is ‘stuvanti.’ Such men hymn its praises by regarding it as Supreme
+Deity possessed of attributes. Those attibutes. of course, are the result of illusion,
+for in its real nature there can be no attributes in Brahma.—Ty
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 10
+
+SANTI PARVA 417
+
+immeasureble insight. The Srutis declare, O son of Kunti, that the
+Sankhya form of philosophy is the form of that Formless one. The
+cognitions (according to that philosophy) have, O chief of Bharata’s
+race, been said to be the knowledge of Brahma.?
+
+““There are two kinds of creatures on Earth, O lord of Earth, viz.,
+mobile and immobile. Of these that are mobile are superior, That
+high knowledge, O king, which exists in perons conversant with
+Brahma, and that which occurs in the Vedas, and that which is found
+in other scriptures, and that in Yoga, and that which may be seen in
+the diverse Puranas, are all, O monarch, to be found in Sankhya
+Philosophy.?, Whatever knowledge is seen to exist in high histories
+whatever knowledge occurs. O king, in the sciences appertaining to
+the acquisition of wealth as approved by the wise, whatever other
+knowledge exists in this world,—all these—flow, O high-souled
+monarch, from the high knowledge that occurs among the Sankhays.
+Tranquillity of soul high puissance all subtile knowledge of which the
+scriptures speak, penances of subtile force, and all kinds of felicity.
+O king, have all been duly ordained in the Sankhya system. Failing
+to acquire, Oson of Pritha, that compelete knowledge which is
+recommended by their system, the Sankhays attain to the status of
+deities and pass many years in felicity. Lording it over the celestials
+as they will, they fall, upon the expiration of the allotted period, among
+learned Brahmanas and Yotis.* Casting off this body, those regenerate
+ones that follow the Sankhya system enter into the superior state of
+Brahma like the celestials entering into the firmament by devoting
+themselves wholly to that adorable system which is theirs and which is
+worshipped by all wise men. Those regenerate persons that are devoted
+to the acquisition of that knowledge which is recommended in the
+Sankhya system, even if they fail to attain to eminence, are never seen
+to fall among intermediate creatures, or to sink into the status of sinful
+men. That high-souled person who is fully conversant with the vast,
+high, ancient, ocean-like, and immeasurable Sankhya system that is
+pure and liberal and agreeable, becomes, O king, equal to Narayna. I
+have now told thee, O god among men, the truth about the Sankhya
+system. Itis the embodiment of Narayana, of the universe as it exists
+
+1 Brahma is knowledge without duality’ knowledge without the conscicusess
+of knower and known. The knowledge or cognition of an object, when object is arni-
+hilated, assumes the form of that knowledge which is called Brahma.—T,
+
+2 The Commentator explains that the object of this Verse is to show that among
+mobile creatures those endued with knowledge are superior, and among all kinds cf
+knowledge, the knowledge occuring in the Sankbya system is the bighest.—T.
+
+3 Tee, if in consequence of any defect of practice or Sadhana, the Sankhyas foil to
+attain to Emancipation, they at least become translated into gods,—T,
+
+53 Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 11
+
+418 MAHABHARATA
+
+from the remotest time. When the time of Creation comes, He causes
+the Creation to start into life, and when the time comes for destruction,
+He swallows up everything. Having withdrawn everything into his
+
+own body he goes to sleep,—that inner Soul of the universe.”*
+
+SECTION CCCIII
+
+“Yudhishthira said,—'What is that which is called Undeteriorating
+and. by attaining to which no one has to come back? What, again, is
+that which is called Deteriorating, and by attaining to which one has
+to rerurn once more ? O slayer of foes, I ask thee the distinction that
+exists,O thou of mighty arms, between the Deteriorating and the
+Undeteriorating ones for understanding them both truly, O delighter
+of the Kurus, Brahmanas conversant which the Vedas speak of thee as
+an Ocean of knowledge. Highly-blessed Rishis and Yatis of high souls
+do the same. Thou hast very few days to live, When the Sun turns
+from the southern path for entering into the northern, thou shalt attain
+to thy high end. When thou shalt leave us, from whom shall we hear
+of all that is beneficial for us? Thou art the lamp of Kuru's race.
+Indeed thou art always blazing with the light of knowledge. O
+perpetuator of Kuru's race, I desire, therefore to hear all this from
+thee. Listening to thy discourses that are always sweet like nectar,
+my curiosity, without being satiated is always increasing I’
+
+“Bhishma said—'I shall, in this connection, relate to thee the old
+narrative of the discourse that took place between Vasishtha and king
+Karala of Janaka’s race. Once on a time when that foremost of Rishis.
+Viz., Vasishtha, endued with the effulgence of the Sun, was seated at his
+ease, king Janaka asked him about that highest knowledge which is for
+our supreme good. Highly proficient in that department of knowledge
+which is concerned with the Soul and possessed of certain conclusions
+in respect of all branches of that science,* as Maitravaruni, that
+foremost of Rishis, was seated the king approaching him with joined
+hands, asked him in bumble words, well pronounced and sweet and
+destitute of all controversial spirit, the question.—O holy one, I desire
+to hear, of Supreme and Eternal Brahma by attaining to which men of
+wisdom have not to come back. I desire also to know that which is
+called Destructible and That into which this universe enters when
+destroyed. Indeed, what is That which is said to be indestructible,
+suspicious, beneficial and free from evil of every kind ?—’
+
+1 I.e., it is everything—T.
+2 That Narayana who does all this is the embodiment of the Sankhya system—T.
+
+3 The Commentator explains the compound ‘Adhyatmagatinischayam,
+differently.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 12
+
+SANTI PARVA 419
+
+“Vasishtha said—Hear, O lord of Earth, as to how this universe
+is destroyed, and, of That which was never destroyed and which
+will never be destroyed at any time. Twelve thousand years, (according
+to the measure of the celestials), make a Yuga, four such Yugas taken
+a thousand times, make a Kalpa which measures one day of Brahman.’
+Brahman’s night also, O king, is of the same measure. When Brahman
+himself is destroyed.? Sambhu of formless soul and to whom the Yuga
+attributes of Anima, Laghima, &c, naturally inhere, awakes, and once
+more Creates that First or Eldest of all creatures, possessed of vast
+proportions of infinite deeds, endued with form, and identifiable with
+the universe. That Sambhu is otherwise called Isana (the lord of
+everything), He is pure Effulgence, and transcends all deterioration,
+having his hands and feet stretching in all directions, with eyes and
+head and mouth everywhere, and with ears also in every place. That
+Being exists, overwhelming the entire universe. The eldest-born Being
+is called Hiranyagarbha. This holy one has (in the Vedanta) been
+called the Understanding. In the Yuga scriptures He called the
+Great, and Virinchi, and the Unborn. In the Sankhya scriptures,
+He is indicated by diverse name, and regarded as having Infinity
+for his Soul. Of diverse forms and constituting the soul of the universe.
+He is regarded as One and Indestructible. The three worlds of
+infinite ingredients have been created by Him without assistance from
+any source and have been overwhelmed by him. In consequence of
+His manifold forms, He is said to be of universal form. Undergoing
+modifications He creates Himself by Himself. Endued with mighty
+energy, He first creates Consciousness and that Great Being called
+Prajapati endued with Consciousness, The Manifest (or Hiranyagarbha)
+is created form the Unmanifest. This is called by the learned the
+Creation of Knowledge. The creation of Mahan (or Virat) and
+Consciousness, by Hiranyagarbha, is the Creation of Ignorance.®
+Ascription of attributes (worthy of worship) and the destruction
+thereof, called respectively by the names of Ignorance and Knowledge
+by persons learned by the interpretation of the Srutis, then arose,
+referring to this, that, or the other of the three (viz, Akshara,
+Hiranyagarbha, or Virat).‘ Know, O king, that the creation of the
+
+L Both the Vernacnlar trauslators render this Verse wrongly.—T-
+2 ‘Vasyante’ is explained by the Commentator as implying Brahmanah ante,’ and
+not ‘at the end of that night’. The line occurs in Manu (Chap 1.74) where ‘ance’ refers
+to Brahmana’s day and night. Vasishtha here refers to Mobapralaya, and not eny inter-
+mediate Pralaya—T a
+3 In the creation,of Mahan or Prajapati or Virat, and of Consciousness, the ele-
+ment of Tamas or Ignorance predominates.—T. i
+~ "4 This is a very abstruse Verse. I am not sure that I have understood it correctly.
+Whit is said here seems to be this: from Akshara arose Hiranyagarbha : from Hiranya-
+garbha arose Virat. This, that or the other is worshipped by ordinary men, while
+Persons: possessed of reali insight do not invest any. of them with attributes worthy of
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 13
+
+490 MAHABHARATA
+
+(subtile) elements from consciousness is the third.? ‘In all kinds of
+consciousness is the fourth creation which flows modification’ of the
+third. This fourth creation comprises Wind and Light and Space
+and Water and Earth, with their properties of sound, touch, form,
+taste and scent, This aggregate of ten arose, without doubt, at
+the same time. The fifth creation, O monarch, is that which has
+arisen from combination of the primal elements (named above).
+This comprises the ear, the skin, the eyes, the tongue, and the nose
+forming the fifth, and speech, and the two hands, and the two legs,
+and the lower duct, and the organs of generation. The first five of
+these constitute the organs of knowledge, and the last five the organs of
+action. All these, with mind, arose simultaneously O king. These
+constitute the four and twenty topics that exist in the forms of all living
+creatures. By understanding these properly, Brahmanas possessed of
+insight into the truth have never to yield to sorrow. In the three worlds
+a combination of these, called body, is possessed by all embodied crea-
+tures. Indeed, O king a combination of those is known as such in deities
+and men and Danavas, and Yakshas and spirits and Gandharvas and
+Kinnaras and great snakes, and Charanas and Pisachas, in celestial Rishis
+and Rakshasas, in biting flies, and worms, and gnats, and vermin born
+of filth and rats, and dogs and Swapakas and Chaineyas and Chandalas
+and Pukkasas in elephants and steeds and asses and tigers, and trees and
+kine. Whatever other creatures exist in water or space or on earth,
+for there is no other place in which creatures exist as we have heard,
+have this combination. All these, O sire, included within the class
+called Manifest, are seen to be destroyed day after day. Hence, all
+creatures produced by union of these four and twenty are said to be
+destructible.
+
+s “ This then is the Indestructible. And since the universe, which
+is made up of Manifest and Unmanifest, meet with destruction, there-
+fore, it is said to be Destructible. The very Being called Mahan who is
+the eldest-born is always spoken of as an instance of the Destructible.
+I have now told thee, O monarch, all that thou hadst asked me, Trans-
+cending the four and twenty topics already adverted to is the twenty-
+fifth called Vishnu, That Vishnu in consequence of the absence of all
+attributes, is not a topic (of knowledge) though as then which pervades
+
+worship. The speaker says that the ascription of attributes, called Ignorance, and the
+non-ascription for destruction of that ascriptions called Knowledge, (with respect to
+Virat or Hitanyagarbha or Akshara), then arose. It might be asked that when there
+Were No men as yet to worship or to condemn such worship, how could the two arise ?
+The answer is that the two, in their subtile forms, came into existence and were after-
+wards availed of by men when men come into being.—T.
+
+1 From Akshara or the Indestructible is Hiranyagarbha. From Hiranyagarbha is
+Mahan or Virat and Consciousness. From the last are the subtile elements.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 14
+
+SANTI PARVA 421
+
+all the topics, he has been called so by the wise. Since that which is
+destructible has caused all this that is Manifest, therefore, all this is
+endued with form. The twenty-fourth, which is Prakriti, is said to
+preside over all this (which has sprung from her modifications), The
+twenty-fifth, which is Vishnu, is formless and, therefore, cannot be said
+to preside over the universe.’ It is that Unmanifest (Prakriti), which,
+when endued with body (in consequence of union with Chit) dwells in
+the hearts of all creatures endued with body. As regards eternal
+Chetana (the Indestructible), although he is without attributes and with-
+out form, yet he (in consequence of a union with Prakriti) assumes all
+forms. Uniting with Prakriti which has the attributes of birth and
+death, he also assumes the attributes of birth and death. And in conse-
+quence of such union he becomes an object of perception and though in
+reality divested of all attributes yet he comes to be invested therewith,
+It is in this way that the Mahan-Soul (Hiranyagarbha), becoming united
+with Prakriti and invested with Ignorance, undergoes modifications and
+becomes conscious of Self. Uniting with the attributes of Sattwa and
+Rajas and Tamas, he becomes identified with diverse creatures belonging
+to diverse orders of Being, in consequence of his forgetfulness and his
+waiting upon Ignorance. In consequence of his birth and destruction
+arising from the fact of his dwelling in upon with Prakriti, he thinks
+himself to be no other than what he apparently is. Regarding himself
+as this or that, he follows the attributes of Sattwa, Rajas, and Tamas.
+Under the influence of Tamas, he attains to diverse kinds of conditions
+that are affected by Tamas. Under the influence of Rajas and Sattwa,
+he attains similarly to conditions that are affected by Rajas and Sattwa.
+There are three colours in all, viz, White, Red, and Dark. All those
+colours appertain to Prakriti (so that He it is who becomes White or
+Red or Dark according as the nature of the Prakriti with which is He
+becomes identified for the time being). Through Tamas one goes to
+hell. Through Rajas one attains to and remains in the status of
+humanity. Through Sattwa, people ascend to the regions of the deities
+and become sharers of great felicity. By adhering to sin continuously
+one sinks into the intermediate order of beings. By acting both
+righteously and sinfully one attains to the status of the deities. In this
+way the twenty-fifth, viz., Akshara (the Indestructible), the wise say, by
+
+union with the unmanifest (Prakriti), becomes transformed into Kshara
+(destructible), By means of knowledge however, the Indestructible
+becomes displayed in His true nature—”
+
+1 The meanfngs of such Verses depend upon the grammatical significations of
+certain words that are used. They can scarcely be rendered accurately into ary other
+language not derived from Sanskrit. What is said here is that it is Frakriti which must
+be said to be the Adhishthatri of the universe. Vishnu is notso. Vishnu Brahma,
+Akshara, or the Indestuctible, however, is said to cover or pervade the universe
+(vyapnoti). Vishnu is Vyapka but no Adhishthatri.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 15
+
+SECTION CCCIV
+
+“‘Vasishtha said—Thus in consequence of his forgetfulness the
+Soul follows ignorance and obtains thousands of bodies one after another.
+He attains to thousands of births among the intermediate orders and
+sometimes among the very gods in consequence of his union with (parti-
+cular) attributes and the puissance of attributes.' From the status of
+humanity, he goes to heaven and from heaven he comes back to huma-
+nity, and from humanity he sinks into hell for many long years. As
+the worm that fabricates the cocoon shuts itself, completely on every
+side by means of the threads it weaves itself, even so the Soul, though
+in reality transcending all attributes, invests himself on every side with
+attributes (and deprives himself of liberty).? Though transcending (in
+his real nature) both happiness and misery, it is thus that he subjects
+himself to happiness and misery. It is thus also that, though transcend-
+ing all diseases, the Soul regards himself to be afflicted by headache and
+opthalmia and toothache and affections of the throat and abdominal
+dropsy, and burning thirst, and enlargement of glands, and cholera, and
+vitiligo, and leprosy, and burns, and asthma and phthisis, and epilepsy,
+and whatever other diseases of diverse kinds are seen in the bodies of
+embodied creatures. Regarding himself, through error, as born among
+thousands of creatures in the intermediate orders of being, and some-
+times among the gods, he endures misery and enjoys the fruits of his
+good deeds. Invested with Ignorance he regards himself as robed some-
+times in white cloth and sometimes in full dress consisting of four pieces
+or as lying on floors (instead of on beds on bedsteads) or with hands and
+feet contracted like those of forgs or as seated upright in the attitude of
+ascetic contemplation, or as clad in rags or as lying or sitting under the
+canopy of heavenor within mansions built of bricks and stone or on
+rugged stones or on ashes ot bare stones or on the bare earth or on beds
+or on battlefields or in water or in mire or on wooden planks or on
+diverse kinds of beds; or impelled by desire of fruits, he regards himself
+as clad in a scant piece of cloth made of grass or as totally nude or as
+robed in silk or in skin of the black antelope or in cloth made of flax
+or in sheep-skin or in tiger-skin or in lion-skin or in fabric of hemp, or
+in barks of birch or in cloths made of the produce of prickly plants, or
+in vestures made of threads woven by worms or of torn rags or in
+diverse other kinds of cloth too numerous to mention. The soul regards
+
+1 In the previous Section it has been said that through Tamas he takes birth
+among the intermediate orders, through Rajas among human beings, and through Satewa
+among gods. The root ‘“kshi" in’‘Gunakshayat’ means ‘aisaryya or puissance —T.
+
+2 The soul weaves acocoon with attributes (or, acts which result from actri-
+butes), and though free deprives himself of freedom.—T. ‘
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 16
+
+SANTI PARVA 428
+
+himself also as wearing diverse kinds of ornaments and gems, or as eat-
+ing diverse kinds of food. He regards himself as sometimes eating at
+intervals of one night, or once at the same hour every day, or as at the
+fourth, the sixth, and the eighth hour every day, or as once in six or
+seven or eight nights, or as once in ten or twelve day, or as once ina
+month, or as eating only roots, or fruits, or as subsisting upon air or
+water alone, or on cakes of sesame husk, or curds or cowdung, or the
+urine of the cow or potherbs or flowers or moss or raw food, or as
+subsisting on fallen leaves of trees or fruits that have fallen down and
+lay scattered on the ground, or diverse other kinds of food, impelled by
+the desire of winning (ascetic) success. The Soul regards himself as
+adopting the observance of Chandrayana according to the rites ordained
+in the scriptures, or diverse other vows and observance, and the courses
+of duty prescribed for the four modes of life, and even direlictions of
+duty, and the duties of other subsidiary modes of life included in the
+four principal ones, and even diverse kinds of practices that distinguish
+the wicked and sinful. The Soul regards himself as enjoying retired
+spots and delightful shades of mountains and the cool vicinity of spring
+and fountains, and solitary river banks and secluded forests, and
+sacred spots dedicated to the deities, and lakes and waters withdrawn
+from the busy hunts of men, and lone mountain caves affording the
+accomodation that houses and mansions afford. The Soul regards him-
+self as employed in the recitation of different kinds of hidden Mantras
+or as observing different vows and rules and diverse kinds of penances,
+and sacrifices of many kinds, and rites of diverse sorts. The Soul
+regards himself as adoptiug sometimes the way of traders and merchants
+and the practices of Brahmanas and Kshatriyas and Vaisyas and Sudras,
+and gifts of diverse kinds unto those that are destitute or blind or help.
+less. In consequence of his being invested with Ignorance, the Soul
+adopts different attributes of Sattwa and Rajas and Tamas, and
+Righteousness and Wealth and pleasure. Under the influence of Prakriti
+the Soul, undergoing modification himself, observes and adopts and
+practises all these and regards himself as such. Indeed, the Soul regards
+himself as employed in the utterance of the sacred mantras Swaha and
+Swadha and Vashat, and in bowing unto those he regards as his Supe-
+riors; in officiating in the sacrifices of others, in teaching pupils, making
+gifts and accepting them ; in performing sacrifices and studying, the
+scriptures, and doing all other acts and rites of this kind. The Soul
+tegards himself as concerned with birth and death and disputes and
+slaughter. All these, the learned say, constitute the path of acts good
+and bad. It is the goddess Prakriti who cause birth and death. When
+the time approaches for universal Destruction, all existent objects and
+attributes are withdrawn by the Supreme Soul which then exists alone
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 17
+
+424 MAHABHARATA
+
+like the Sun withdrawing at evening all his rays; and when the time
+comes for Creation He once more creates and spreads them out like the
+Sun shedding and spreading out his rays when morning comes. Even
+thus the Soul, for the sake of sport, repeatedly regards himself invested
+with all these conditions, which are his own forms and attributes,
+infinite in number, and agreeable to himself. It is this way that the
+Soul, though really transcending the three attributes, becomes attached
+to the path of acts and creates by modification Prakriti invested with
+the attributes of birth and death and indentical with all acts and condi-
+tions which are characterised by the three attributes of Sattwa, Rajas,
+and Tamas. Arrived at the path of action, the Soul regards particular
+acts tobe endued with particular characteristics and productive of
+particular ends. O monarch, the whole of this universe has been blinded
+by Prakriti and all things have been diversely overwhelmed (through
+Prakriti) by the attributes of Rajas and Tamas. It is in consequence of
+the Soul being invested by Prakriti that these pairs of opposites produc-
+tive of happiness and woe, repeatedly come. It is in consequence of
+this Ignorance that Jiva regards these sorrows to be his and imagines
+them as pursuing him. Indeed, O monarch, through that Ignorance it
+is that Jiva imagines he should anyhow cross those sorrows, and that
+he should. going into the regions of the gods, enjoy the felicity that
+awaits all his good acts. It is through Ignorance that he thinks he should
+enjoy and endure these delights and these woes here in this world.
+Through Ignorance Jiva thinks,—I should secure my happiness. By
+continually doing good acts, I may have happiness in this life till its
+close andI shall be happy in all my future lives. Though, again the
+(evil) acts I do in this life unending sorrow may become mine- The
+status of humanity is fraught with great misery, for from it one sinks
+into hell. From hell, it will take many long years before Ican come
+back to the status of humanity. From humanity I shall attain to the
+status of the gods. From that superior status I shall have to come back
+again to humanity and thence to sink into hell once more !—One who
+always regards this combination of the primal elements and the senses.
+with the Chit's reflection in it, to be thus invested with the characteris
+tics of the Soul, has repeatedly to wander among gods and human beings
+and to sink into hell. Being always invested with the idea of meum,
+Jiva has to make around of such births. Millions upon millions of
+birth have to be gone through by Jiva in the successive forms he
+assumes, all of which are liable to death. He who does acts in this way,
+which are all fraught with good and bad fruits, has in the three worlds
+to assume successive form and to enjoy and endure fruits corresponding
+therewith, Itis Prakriti that cause acts fraught with good and bad
+acts; andit is Prakriti that enjoys and endures the fruits thereof in
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 18
+
+SANTI PARVA 425
+
+the three worlds. Indeed, Prakriti follows the course of acts. The
+status of the intermediate beings, of humanity, and of the gods as well,—
+these three fields,—should be known as originating in Prakriti and has
+been said to be destitute of all attributes. Her existence is affirmed only
+in consequence of her acts (beginning with Mahat). After the same
+manner, Purusha (or Soul), though without attributes himself, has his
+existence affirmed in consequence of the acts which the body does when
+it receives his reflection. Although the Soul is not subject to modifica-
+tions of any kind and is the active principle that sets Prakriti in motion,
+yet entering a body that is united with the senses of knowledge and
+action, he regards all the acts of those senses as hisown- The five
+senses of knowledge beginning with the ear, and those of action beginn-
+ing with speech, uniting with the attributes of Sattwa and Rajas and
+Tamas, become engaged in numerous object. Jiva imagines that it is he
+who does the acts of his life and that the senses of knowledge and acts
+belong to him, although in reality he has no senses. Indeed, though
+unequipt with body, he imagines that he hasa body. Though destitute
+of attributes, he regards himself as endued therewith, and though trans-
+cending Time, imagines himself to be under Time’s control. Though
+desticute of understanding, he still regards himself as endued therewith,
+and though transcending the (four and twenty) topics, regards himself as
+one included among them, Though deathless, he still regards himself as
+liable to death, and though motionless regards himself to be endued with
+motion. Though not possessed of a material case, he still regards himself
+as possessed of one; and though unborn, he still regards himself as in-
+vested with birth. Though transcending penances, he still regards as
+engaged in penances, and though he has no end (after which to strive),
+he still regards himself as liable to attain to ends (of diverse kinds).
+Though not endued with motion and birth, he still regards himself as
+endued with both, and though transcending fear, still regards himself as
+liable to fear. Though Indestructible, he still regards himself Destruc-
+tible. Invested with Ignorance, the Soul thus thinks of himself.—"
+
+SECTION CCCV
+
+“ Vasishtha said,—It is thus, in consequence of his Ignorance and
+his association with others that are invested with Ignorance, that Jiva
+has recourse to millions and millions of births every one of which has
+dissolution in the end, In consequence of his transformation into Chit
+invested with Ignorance, Jiva betakes himself to millions of abodes one
+of which is liable to end in destruction, among intermediate beings and
+men and the deities. In consequence of Ignorance, Jiva, like Chandra-
+
+54 Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 19
+
+426 MAHABHARATA
+
+mas, has to wax and wane thousands and thousands of times. This is
+truly the nature of Jiva when invested with Ignorance. Know that
+Chandramas has in reality full sixteen portions. Only fifteen of these
+are subject to increase and decrease. The sixteenth (i.e., that portion
+which remains invisible and which appears on the night of the New-
+moon) remains constant. After the manner of Chandramas, Jiva too
+has full sixteen portions. Only fifteen of these, (viz., Prakriti with Chit’s
+reflection, the ten senses of knowledge and action, and the four inner
+faculties) appear and disappear. The sixteenth (viz., Chit in its purity)
+is subject to no modification. Invested with Ignorance, Jiva repeatedly
+and continually takes birth in the fifteen portions named above. With
+the eternal. and immutable portion on Jiva primal essence become unit-
+ed and this union takes place repeatedly. That sixteenth portion is sub-
+tile. It should be known as Sma (eternal and immutable). It is never
+upheld by the senses. On the other hand, the senses are upheld by it.
+Since those sixteen portions are the cause of the birth of creatures,
+creatures can never, O monarch, take birth without their aid. They
+are called Prakriti. The destruction of Jiva’s liability to be united with
+Prakriti is called Emancipation. The Mahat-Soul, which is the twenty-
+fifth, if it regards that body of sixteen portions called the Unmanifest,?
+has to assume it repeatedly. In consequence of not knowing That
+which is stainless and pure, and for its devotion to what is the result of
+acombination of both Pure and Impure, the Soul, which isin reality
+pure, becomes, O king Impure. Indeed, in consequence of its devotion
+to Ignorance, Jiva, though characterised by Knowledge becomes repeat-
+edly associated with Ignorance. Though, O monarch, free from error
+of every kind, yet in consequence of its devotion to the three attributes
+of Prakriti, it becomes endued with those attributes.—’
+
+SECTION CCCVI
+
+‘"Janaka said,—O holy one, it has been said that the relation
+between male and female is like that which subsists between the Indes-
+tructible and the Destructible (or Purusha and Prakriti). Without a
+male, a female can never conceive. Without a female a male also can
+never create form. In consequence of their union with each other, and
+each depending upon the attributes of the other, forms (of living crea-
+tures) are seen to flow. This is the case with all orders of being. Through
+each other’s union for purposes of (sexual) congress, and through
+each depending upon the attributes of the other, forms (of living
+
+1 Made of Chit and Not-Chit combined.—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 20
+
+SANTI PARVA 427
+
+creatures) flow in menstrual seasons. I shall tell to thee the indications
+thereof, Hear what the attributes are that belong to the sire and what
+those are that belong to the mother. Bones, sinews and marrow, O
+regenerate one, we know, are derived from the sire. Skin, flesh, and
+blood, we hear are derived from the mother. Even this, O foremost of
+regenerate persons, is what may be read of in the Vedas and other
+scriptures. Whatever is read as declared in the Vedas and in other
+scriptures is regarded as authority. The authority, again, of the Vedas
+and other scriptures (not inconsistent with the Vedas), is eternal. If
+Prakriti and Purusha be always united together in this way by each
+opposing and each depending on the other's attributes, I see, O holy
+one, that Emancipation cannot exist. Thou, O holy one, art possessed
+of spiritual vision so that thou seest all things as if they are present
+before thy eyes. If, therefore, there be any direct evidence of the ex:
+tence of Emancipation, do thou, speak of itro me. Weare desirous
+of attaining to Emancipation. Indeed, we wish to attain to That which
+is auspicious, bodiless, not subject to decrepitude, eternal beyond the
+ken of the senses, and having nothing superior to it !—
+
+*“Vasishtha said—What thou sayest about the indications of the
+Vedas andthe other scriptures (in respect of the matter) is even so.
+Thou takest those indications in the way in which they should be taken.
+Thou bearest, however, in thy understanding, only the texts of the
+Vedas and the other scriptures. Thou art not, O monarch, truly con-
+versant with the real meaning of those texts. That person who bears in
+his understanding merely the texts of the Vedas and the other scriptures
+without being conversant with the true sense or meaning of those texts.
+bears them fruitlessly. Indeed, one who holds the contents of a work
+in memory without comprehending their meaning is said to bear an use-
+less burden. He, however, who is conversant with the true meaning
+of a treatise, is said to have studied that treatise to purpose. Questioned
+regarding the meaning of a text, it behoveth one to communicate that
+meaning which he has comprehended by a careful study. That person
+of dull intelligence who refuses to expound the meanings of texts in the
+midst of a conclave of the learned, that person of foolish understanding,
+never succeeds in expounding the meaning correctly-' An ignorant
+person, going to expound the true meaning of treatises, incurs ridicule.
+Even those possessed of a knowledge of the Soul have to incur ridicule
+on such occasions (if what they go to explain has not been acquired by
+study). Listen now to me, O monarch, as to how the subject of
+
+1 The sense seems to the that the obligation to explain a treatise in
+the midst of a conclave always stimulates the best {sculties, and if itis a
+conclave of the learned the friction of intellects is sure to bring out the
+correct sense.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 21
+
+428 MAHABHARATA
+
+Emancipation has been explained (by preceptors to disciple from days
+of old) among high-souled persons conversant with the Sankhya and the
+Yoga systems of philosophy. That which the Yogin, behold is precisely
+that which the Sankhayas arrive after to attain. He who sees the
+Sankhya and the Yoga systems to be one and the same is said to be
+endued with intelligence. Skin, flesh, blood, fat, bile, marrow, and sinews,
+and these senses (of both knowledge and action), about which thou wert
+speaking unto me, exist Objects flow from objects; the senses from
+the senses, From body one obtains a body, asa seed is obtained from
+seed. When the Supreme Being is without senses, without seed, without
+matter, without body, He must be divested of all attributes! and in
+consequence of His being so, how, indeed, can He have attributes of any
+kind? Space and other attributes arise from the attributes of Sattwa
+and Rajasand Tamas, and disappear ultimately in them. Thus the
+attributes arise from Prakriti. Skin, flesh, blood, fat, bile, marrow, bones,
+and sinews,—these eight that are made of Prakriti, know, O king, may
+sometimes be produced by the vital seed alone (of the male). The Jiva-
+soul and the universe are said to both partake of Prakriti characterised
+by the three attributes of Swatta, Rajas, and Tamas. The Supreme Soul
+is different from both the Jiva-soul and the universe. As the seasons
+though unendued with forms, are nevertheless inferred from the appear-
+ance of particular fruits and flowers, after the same manner, Prakriti,
+though formless, is inferred from the attributes of Mahat and the rest
+that spring from it. In this way from the existence of Chaitanya in the
+body, the Supreme Soul, divested of all attributes whatever and per-
+fectly stainless, is inferred, Without beginning and destruction, without
+end, the overseer of all things, and auspicious, that Soul, only in conse-
+quence of its identifying itself with the body and other attributes, comes
+to be taken as invested with attributes. Those persons that are truly
+conversant with attributes know that only objects endued with attri-
+butes can have attributes but that That which transcends all attributes
+can have none. When the Jiva-soul conquers all attributes born of
+Prakriti and which it assumes under error, only then does it behold the
+Supreme Soul. Only the highest Rishis conversant with the Sankhya
+and the Yoga systems know that Supreme Soul which Sankhya and
+Yogins and believers in all other systems say is beyond the Understand-
+ing, which is regarded as Knower and endued with the highest wisdom
+in consequence of its casting off all consciousness of identification with
+Prakriti, which transcends the attribute of Ignorance or Error, which
+is Unmanifest, which is beyond all attributes, which is called the
+Supreme, which is dissociated from all attributes, which ordains all things,
+which is Eternal and Immutable, which overrules Prakriti and all the
+attributes born of Prakriti, and which, transcending the four and twenty
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 22
+
+SANTI PARVA 429
+
+topics of enquiry, forms the twenty-fifth. When menof knowledge,
+who stand in fear of birth, of the several conditions of living conscious-
+ness, and of death, succeed in knowing the Unmanifest, they succeed in
+understanding the Supreme Soul at the same time. An intelligent man
+regards the unity of the Jiva-soul with the Supreme Soul as consistent
+with the scriptures and as perfectly correct ; while the man destitute of
+intelligence looks upon the two as different from each other. This forms
+the distinction between the man of intelligence and man that is destitute
+of it. The indications of both Kshara and Akshara (destructible and
+indestructible) have now been said unto thee. Akshara is Oneness or
+Unity, while multiplicity or variety is said to be Kshara. When one
+begins to study and understands properly the five and twenty topics of
+enquiry, one then comperhends that the Oneness of the Soul is consist-
+ent with the scriptures and its multiplicity is what is opposed to them.
+These are the several indications of what is included in the tale of topics
+or principles created and what transcends that tale. The wise have said
+that the tale of topics numbers only five and twenty. That which
+transcends the topics is beyond that number and forms the twenty-sixth.
+The study or comprehension of created things (numbered five and
+twenty) according to their aggregates (of five) is the study and compre-
+hension of topics. Transcending these is That which is eternal.—’”
+
+SECTION CCCVII
+
+“ ‘Janaka said—Thou hast, O foremost of Rishis, said that Unity
+is the attribute of that which is Akshara (Indestructible) and variety or
+multiplicity is the attribute of what is known as Kshara (Destructible).
+I have not, however, clearly understood the nature of these two,
+Doubts are still lurking in my mind. Ignorant men look upon the Soul
+as endued with the incident of multiplicity. They, however that are
+possessed of knowledge and wisdom regard the Soul to be one and the
+same. I, however, have avery dull understanding. Iam, therefore.
+unable to comprehend how all this can happen. The causes also that
+thou hast assigned for the unity and the multiplicity of Akshara and
+Kshara I have almost forgotten in consequence of the restlessness of my
+understanding. I therefore, desire to hear thee once more discourse to
+me on those same incidents of unity and multiplicity, on him who is
+knowing, on what is destitute of knowledge, on Jiva-soul, Knowledge,
+Ignorance. Akshara, Kshara, and on the Sankhya and the Yoga systems,
+in detail and separately and agreeable to the truth—
+
+“*Vasishtha said,—I shall tell thee what thou askest | Listen how
+ever, to me, O monarch, asI expound to thee the practices of Yoga
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 23
+
+430 MAHABHARATA
+
+separately. Contemplation, which constitutes an obligatory practices
+with Yogins, is their highest puissance.'’ Those conversant with Yoga
+say that Contemplation is of two kinds. One is the concentration of the
+mind, and the other is called Pranayama (regulation of breath). Prana-
+yama is said to be endued with substance ; while concentration of mind
+is unendued withit.? Excepting the three times when a man passes
+urine and stools and eats, one should devote the whole of his time to
+contemplation. Withdrawing the senses from their objects by the aid
+of the mind, one possessed of intelligence, having made oneself pure,
+should agreeably to the two and twenty modes of transmitting the Prana
+breath, unite the Jiva-soul with That which transcends the four and
+twentieth topic (called Ignorance or Prakriti)® which is regarded by the
+wise as dwelling in every part of the body and as transcending deeay
+and destruction. It is by means of those two and twenty methods that
+the Soul may always be known, as heard by us. It is certain that this
+practice of Yoga is his whose mind is never affected by evil passions.
+It is not any other person's. Dissociated from all attachments, abste-
+mious in diet, and subduing all the senses, one should fix one’s mind on
+the Soul, during the first and the last part of the night, after having, O
+king of Mithila, suspended the functions of the senses, quieted the mind
+by the understanding, and assumed a posture as motionless as that of a
+block of stone. When men of knowledge, conversant with the rules of
+Yoga, become as fixed as a stake of wood, and as immovable as a
+mountain, then are they said to be in Yoga. When one does not hear,
+and smell, and taste, and see ; when one is not conscious of any touch ;
+when one’s mind becomes perfectly free from every purpose; when one
+is not conscious of any thing, when one cherishes no thought ; when one
+becomes like a piece of wood, then is one called by the wise to be in
+perfect Yoga. Atsuch atime one shines like a lamp that burnsina
+place where there is no wind; at such a time one becomes freed even
+from one’s subtile form, and perfectly united with Brahma. When one
+attains to such progress, one has no longer to ascend or to fall among
+intermediate beings. When persons like ourselves say that there has
+been a complete identification of the Knower, the Known, and Know-
+ledge, then is the Yogin said to behold the Supreme Soul. While in
+
+1 For enables them to conquer Ignorance,—T.
+
+2 When Pranayama is performed with the aid, of mantras or yapa, it
+is said to be saguna or sagarbha or endued with eubstance. Concentration
+of mind, however, is made without the aid of such yapa.—T.
+
+3 The twoand twenty ‘sanchodans’ of ‘Preranas are the two and
+twenty modes of transmitting the Prana breath from the toe of the foot to
+the crown of the head. That which transcends Prakriti is the Supreme
+Soul.—T.
+
+4 The reading 1 adopt is 'na-kathyate.’—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 24
+
+SANTI PARVA 431
+
+Yoga, the Supreme Soul displaysitself in the Yogin’s heart like a blazing
+fire, or like the bright Sun, or like the lightning’s flame in the sky. That
+Supreme Soul which is Unborn and which is the essence of nectar, that
+is seed by high-souled Brahmanas endued with intelligence and wisdom
+and conversant with the Vedas, is subtiler than what is subtile and
+greater than what is great. That Soul, though dwelling in all creatures,
+is not seen by them. The creator of the worlds, He is seen only bya
+person endued with wealth of intelligence when aided by the lamp of
+the mind. He dwells on the other share of thick Darkness and trans-
+cends him called Iswara.’ Persons conversant with the Vedas and
+endued with omniscience call Him the dispeller of Darkness, stainless,
+transcending Darkness, without attributes and endued therewith.
+""This is what is called the Yoga of Yogins. What else is the
+~) indication of Yoga? By such practices do Yogins succeeded in beholding
+the Supreme Soul that transcends destruction and decay. This much
+that Ihave told thee in detail concerns about the science of Yoga, I
+shall now discourse to thee of that Sankhva philosophy by which the
+Supreme Soul is seen through the gradual destruction of errors.? The
+Sankhyas, whose system is built on Prakriti, say that Prakriti, which is
+Unmanifest, is the foremost. From Prakriti, they say, O monarch, the
+second principle called Mahat, is produced. It is heard by us that from
+Mahat flows the third principle called Consciousness. The Sankhyas
+blessed with sight of the Soul say that from Consciousness flow the five
+subtile essence of sound, form, touch, taste, and scent. All these eight
+they call by the name of Prakriti. The modifications of these eight are
+sixteen in number. They are the five gross essence of space, light,
+earth, water, and wind, and the ten senses of action and of knowledge
+including the mind. Men of wisdom devoted to the Sankhya path and
+conversant with all its ordinances and dispensations regard these four
+and twenty topics as embracing the whole range of Sankhya enquiry.
+That which is produced becomes merged in the producing. Created by
+the Supreme Soul one after another, these principles are destroyed in a
+reverse order. At every new Creation, the Gunas start into existence
+in the lateral order (as stated above), and (when Destruction comes)
+they merge, (each into its progenitor) in a reverse order, like the waves
+of the ocean disappearing in the ocean that gives them birth. O best of
+kings, this is the manner in which the Creation and the Destruction of
+Prakriti takes place. The Supreme Being isal! that remains when
+Universal Destruction takes place, and it is He that assumes multifarious
+
+1 Atmagnah is 'Iswarat parah.'—T.
+
+2 °*Parisankhyadarsanam’ is explained by the Commentator thus:
+*Parisankhyanam,’ is ‘parivarianam,’ i.e, the gradual ‘pravilapam’ of errors ;
+‘gene darsanam or sakshatkaram.’—'
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 25
+
+482 MAHABHARATA
+
+forms when Creation starts into life, This is even so, O king, as
+ascertained by men of knowledge. It is Prakriti that causes the Over-
+presiding Purusha to thus assume diversity and revert back to unity.
+Prakriti also herself has the same indications. Only fully conversant
+with the nature of the topics of enquiry knows that Prakriti also assumes
+the same kind of diversity and unity, for when Destruction comes she
+reverts into unity and when Creation flows she assumes diversity of
+form. The Soul makes Prakriti, which contains the principles of pro-
+duction or growth, to assume manifold forms. Prakriti is called Kshetra
+(or soil). Transcending the four and twenty topics or principles is the
+Soul which is great. It presides over that Prakriti or Kshetra. Hence,
+O great king, the foremost of Yatis say that the Soul is the Presider.
+Indeed, it has been heard by us that in consequence of the Soul’s presi-
+ding overall Kshetras. He iscalled the Presider. And because He
+knows that Unmanifest Kshetra, He is, therefore, also called Kshetrajna
+(Knower of Kshetra). And because also the Soul enters into Unmanifest
+Kshetra (viz., the body), therefore he is called Purusha. Kshetra is
+something quite different from Kshetrajna. Kshetra is Unmanifest.
+The Soul, which transcends the four and twenty principles, is called
+the Knower. Knowledge and the object known are different from each
+other. Knowledge, again, has been said to be Unmanifest, while the
+object of knowledge is the Soul which transcends the four and twenty
+principles. The Unmanifest is called Kshetra, Sattwa (understanding),
+and also Iswara (the supreme Lord), while Purusha, which is the twenty-
+fifth principle has nothing superior to it and is nota principle (for it
+transcends all principles and is only called a principle conventionally).
+This much O king, is an account of the Sankhya philosophy. The
+Sankhayas called the cause of rhe universe, and merging all the grosser
+principles into the Chit behold the Supreme Soul. Rightly studying the
+four and twenty topics along with Prakriti, and ascertaining their true
+nature, the Sankhyas succeed in beholding That which transcends the
+four and twenty topics or principles,’ Jiva in reality is that very Soul
+which transcends Prakriti and is beyond the four and twenty topics,
+When he succeeds in knowing that Supreme Soul by dissociating himself
+from Prakriti, he then becomes indentifiable with the Supreme Soul,
+I have now told thee everything about the Sankhya System truly. Those
+who are conversant with this philosophy succeed in attaining to tran-
+quility. Indeed, as men whose understandings are subject to error have
+direct cognisance of Brahma. They that succeed in attaining to that
+state have never to come back to this world after the dissolution of
+
+1 The Commentator explains that ‘nistattwah’ means nirgatam
+tatéwam aparoksham yasmat ;—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 26
+
+SANTI PARVA 433
+
+their bodies; while as regards those that are said to be emancipate in
+this life, puissance, and that indescribable felicity which attaches itself
+to Samadhi, and immutability, become theirs, in consequence of their
+having attained to the nature of the Indestructible.» They who behold
+this universe as many (instead of seeing it as one and uniform) are said
+to see incorrectly. These men are blind to Brahma. O chastiser of foes,
+such persons have repeatedly to come back into the world and assume
+bodies (in diverse orders of Being). They, who are conversant with all
+that has been said above become possessed of omniscience, and accord-
+ingly when they pass from this body no longer become subject to the
+control of any more physical frames. All things, (or the entire universe),
+have been said to be the result of the Unmanifest. The Soul, which is
+the twenty fifth, transcends all things. They who know the Soul have
+no fear of returning to the world.’ ”
+
+\e SECTION CCCVIII
+
+» ““ Vasishtha said\—I have thus far discoursed to thee on the Sankhya
+
+Philosophy. Listen now to me as I tell thee what is Vidya (knowledge)
+and what is Avidya (Ignorance), one after the other. The learned say
+that that Prakriti, which is fraught with the attributes of Creation and
+Destruction, is called Avidya; while Purusha, who is freed from the
+attributes of Creation and Destruction and who transcends the four and
+twenty topics or principles, is called Vidya. Listen to me first as I tell
+thee what is Vidya among successive sets of other things, as expounded
+in the Sankhya philosophy. Among the senses of knowledge and those
+of action, the senses of knowledge are said to constitute what is known
+as Vidya. Ofthe senses of knowledge and their object, the former
+constitute Vidya as has been heard by us. Of objects of the senses and
+the mind, the wise have said that the mind constitutes Vidya. Of mind
+and the five subtile essences, the five subtile essences constitute Vidya.
+Of the five subtile essences and Consciousness, Consciousness constitutes
+Vidya. Of Consciousness and Mahat, Mahat, O king, is Vidya. Of
+all the topics or principles beginning with Mahat, and Prakriti, it is
+Prakriti, which is unmanifest and supreme, that is called Vidya. Of
+Prakriti, and that called Vidhi which is Supreme, the latter should be
+known as Vidya. Transcending Prakriti is the twenty-fifth (called
+
+1 ‘Param,’ ‘Apatam,’ and 'Avyayam’ are theirs in consequence of
+‘Alshara-bhavatwa.’ ‘Aparam’ means satyakamatwa, satyasamkalpatwa,
+, puissance. ‘Param’ is the indescribable felicity of Samadhi. The
+declare that knower of Brahma becomes Brahma.—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 27
+
+484 MAHABHARATA
+
+Purusba) who should be known as Vidya. Of all Knowledge that which
+is the Object of Knowledge has been said to be the Unmanifest, O king."
+Again, Knowledge has been said to be Unmanifest and the Object of
+knowledge to be that which transcends the four and twenty. Once
+more, Knowledge has been said to be Unmanifest, and the Knower is
+that which transcends the four and twenty. I have now told thee what
+is truly the import of Vidya and Avidya. Listen now to me asI tell
+thee all that has been said about the Indestructible andthe Destructible.
+Both Jiva and Prakriti have been said to be Indestructible, and both of
+them have been said to be Destructible- I shall tell thee the reason of
+this correctly asI have understood it. Both Prakriti and Jiva are
+without beginning and without endor destruction, Both of them are
+regarded as supreme (in the matter of Creation). Those that are
+possessed of knowledge say that both are to be called topics or principles.
+In consequence of its attributes of (repeated) Creation and Destruction),
+the Unmanifest (or Prakriti) is called Indestructible. That Unmanifest
+becomes repeatedly modified for the purpose of creating the principle,
+And because the principles beginning with Mahat are produced by
+Purusha as well, and because also Purusha and the Unmanifest are
+mutually dependant upon each other, therefore is Purusha also, the
+twenty-fifth, called Kshetra (and hence Akshara or Indestructible).?
+When the Yogin withdraws and merges all the principles into the Un-
+manifest Soul (or Brahma) then the twenty-fifth (viz., Jiva or Purusha)
+also, with all those principles disappears into it. When the principles be-
+come merged each into its progenitor, then the one that remains is Pra-
+kriti. When Kshetrajna too,* O son, becomes merged into his own pro-
+ducing cause then (all that remains is Brahma and, therefore) Prakriti
+with all the principles in it becomes Kshara (or meets with destruction),
+and attains also to the condition of being without attributes in conse-
+quence of her dissociation from all the principles, Thus it is that Kshetra-
+jna, when his knowledge of Kshetra disappears, becomes, by his nature,
+destitute of attributes, as it has been heard by us. When he becomes
+Kshara he then assumes attributes. When, however, he attains to his
+
+1 Hence, as the commentator explains, by knowing what is called the
+Unmanitfest one is capable of attaining to omniscience.—T.
+
+2 What is stated here is this ; the Unmanifest or Prakriti, by modifi-
+cation, produces Mahat and the other principles. But the agency of Purusha
+also is necessary for such production, for Prakriti oan do nothing without
+Porusha, and Purusha also can do nothing without Prakriti. The principles
+of Mahat and the rest, therefore, may be said to have their origin as much
+in Purusha asin Prakriti. Beside, the two being naturally dependent on
+each other, if Prakriti be called Kshara, Purusha also may be 80 called.—T,
+
+3 Le, Jiva or Purusha.—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 28
+
+SANTI PARVA 435
+
+own real nature, he then succeeds in understanding his own condition of
+being really destitute of attributes. By casting off Prakriti and begin-
+ning to realise that he is different from her, the intelligent Kshetrajna
+then comes to be regarded as pure and stainless. When Jiva ceases to
+exist in a state of union with Prakriti, then does he become identifiable
+with Brahma. When, however, he exists united with Prakriti, he then,
+O king, seems to be different from Brahma. Indeed, when Jiva shows
+no affection for Prakriti and her principles, he then succeeds in behold-
+ing the Supreme and having once beheld Him wishes not to fall away
+from that felicity. When the Knowledge of truth dawns upon him,
+Jiva begins to lament in this strain :—Alas, how foolishly have I acted
+by falling through ignorance into this frame composed of Prakriti like
+a fish entangled inanet! Alas, through ignorance, I have migrated
+from body to body like a fish from water to water thinking that water
+is the element in which alone it can live. Indeed, like a fish that does
+not know anything else than water to be its element, I also have never
+known anything else than children and spouses to be my own! Fie on me
+that through ignorance, I have been repeatedly migrating from body to
+body in forgetfulness (of the Supreme Son) {| The Supreme Soul alone
+is my friend. I have capacity for friendship with Him. Whatever be
+my nature and whoever I may be, I am competent to be like Him and
+toattain anidentity with Him. I see my similarity wich Him. Iam,
+indeed, like Him. He is stainless. It is evident that lam of the same
+nature. Through Ignorance and stupefaction, I have become associated
+with Inanimate Prakriti. Though really without attachments, I have
+passed this long time ina state of attachment with Prakriti. Alas, by
+her was I so long subdued without having been able to know it. Various
+are the forms—high, middling, and low,—that Prakriti assume. Oh,
+how shall I dwell in those forms?! How shall I live conjointly with
+her? In consequence only of my ignorance I repair to her companion-
+ship. I shall now be fixed (in Sankhya or Yoga). I shall no longer keep
+her companionship. For having passed so longa time with her, I should
+think that I was so long deceived by her, for myself being really exempt
+from modification, how could I keep company with one that is subject
+to modification ? She cannot be held to be responsible for this. The
+responsibility is mine, since turning away from the Supreme Soul I
+become of my own accord attached to her. In consequence of that
+attachment, myself, though formless in reality, had to abide in multi-
+farious forms. Indeed, though formless by nature I become endued
+with forms in consequence of my sense of meum, and thereby insulted
+
+1 High, suoh as gods, middling, such as human beings and low, such
+as animals.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 29
+
+438 MAHABHARATA
+
+and distressed. In consequence of my sense of meum, concerning the
+result of Prakriti, I am forced to take birth in diverse orders of Being.
+Alas, though really destitute of any sense of meum, yet in consequence
+of affecting it, what diverse acts of an evil nature have been committed
+by me in those orders in which I took birth while I remained in them
+with a soul that had lost all knowledge! Ihave no longer anything to
+do with him who, with essence made up of consciousness, divides herself
+into many fragments and who seeks to unite me with them. It is only
+now that I have been awakened and have understood thatIlam by
+nature without any sense of meum and without that consciousness which
+creates the forms of Prakriti that invest me all around. Casting’ off
+that sense of meum which I always have with respect to her and whose
+essence is made up of consciousness, and casting off Prakriti herself, I
+shall take refuge in Him who is auspicious. I shall be united with Him,
+and not with Prakriti which isinanimate. If I unite with Him, it will
+be productive of my benefit. I have no similarity of nature with
+Prakriti !—The twenty-fifth, (viz., Jiva), when he thus succeeds ‘in
+understanding the Supreme, becomes able to cast off the Destructible
+and attain to identity with that which is Indestructible and which is
+the essence of all that is auspicious. Destitute of attributes in his true
+nature and in reality Unmanifest, Jiva becomes invested with what is
+Manifest and assumes attributes. When he succeeds in beholding that
+which is without attributes and which is the origin of the Unmanifest,
+he attains, O ruler of Mithila, to identify the same.
+
+“'T have now told thee what the indications are of what is Indes-
+tructible and what is Destructible, according to the best of my know-
+ledge and according to what has been expounded in the scriptures. I
+shall now tell thee, according to what I have heard, as to how Know-
+ledge that is subtile, stainless, and certain, arises. Do thou listen to
+me- I have already discoursed to thee what the Sankhya and the Yoga
+systems are according to their respective indications as expounded in
+their respective scriptures. Verily, the science that has been expounded
+in Sankhya treatises is identical with what has been laid down in the
+Yoga scriptures. The knowledge, O monarch, which the Sankhya
+preach, is capable of awakening every one. In the Sankhya scriptures,
+that Knowledge has been inculcated very clearly for the benefit of
+
+disciples. The learned say that this Sankhya system is very extensive.
+Yogin have great regard for that system as also for the Vedas. In the
+Sankhya system no topic or principle transcending the twenty-fifth is
+addmitted. That which the Sankhyas regard as their highest topic or
+principles has been duly described (by me). In the Yoga philosophy, it
+is said that Brahma, which is the essence of knowledge without duality,
+becomes Jiva only when invested with Ignorance. In the Yoga serip-
+tures, therefore, both Brahma and Jiva are spoken of,—’ "
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 30
+
+SECTION CCCIX
+
+““WVasishtha said—Listen now to me asI discourse to thee on Bud-
+dhas (Supreme Soul) and Abuddha(Jiva) which is the dispensation of
+attributes (of Sattwa, Rajas, and Tamas), Assuming many forms (under
+the influence of illusion) the Supreme Soul, becoming Jiva, regards all
+those forms as real.' In consequence of (his regarding himself identical
+with) such transformations, Jiva fails to understand the Supreme Soul,
+for he bears the attributes (of Sattwa and Rajas and Tamas) and creates
+and withdraws into himself what he creates. Ceaselessly for his sport,
+O monarch, does Jiva undergo modifications, and because he is capable
+of understanding the action of the Unmanifest, therefore is he called
+Budhyamana (the Comprehender).?, The Unmanifest or Prakriti can
+at no time comprehend Brahma which is really without attributes even
+when it manifests itself with attributes. Hence is Prakriti called
+Unintelligent. There is a declaration of the Srutis to the effect that if
+ever Prakriti does succeed in knowing the twenty-fifth (i.e. Jiva) Prakriti
+then (instead of being something differentiated from Jiva) becomes
+identified with Jiva who is united with her. (As regards, however, the
+Supreme Soul, which is ever disunited and dissociated, and which
+transcends the twenty-fifth Prakriti can never comprehend it).‘ In
+consequence of this (viz., his attachment to or union with Prakriti), Jiva
+or Purusha, who is not manifest and which in his real nature is not
+subject to modifications, comes to be called asthe Unawakened or
+Ignorant, Indeed because the twenty-fifth can comprehend the Un-
+manifest, he is therefore, called Budhymana (or Comprehender). . He
+cannot, however, readily comprehend the twenty-sixth, which is stainless,
+which is Knowledge without duality, which is immeasurable, and which
+is eternal. The twenty-sixth, however, can know both Jiva and Prakriti,
+numbering the twenty-fifth and the twenty-fourth respectively. O thou
+of great effulgence, only men of wisdom succeed in knowing that
+Brahma which is Unmanifest, which inheres in its real nature to all that
+is seen and unseen, and which, O son is the one independent essence in
+
+1 ‘Budha’ is 'Bodha’ cr pure Knowledge. ‘Abudha’is the reverse of
+‘Buddha.’ The Supreme Soul is Knowledge, while Jiva is Ignorance.—
+
+2 In consequence of Jiva’s union with or attachment to Prakriti. Jiva
+takes this object for a vessel, that for a mountain, and that other fora
+third. When knowledge comes, Jiva succeeds in understanding that all his
+impressions are erroneous and that the external world is only a modification
+of Self. “In consequence of Jiva's capacity to comprehend this, he is called
+Budhyamansa or Comprehender..
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 31
+
+433 MAHABHARATA
+
+the universe.!| When Jiva considers himself different from what he
+trully is, (i. e-, when he regards himself as far or lean, fair or dark a
+Brahmana or a Sudra), it is only then that he fails to know the Supreme
+Soul and himself and Prakriti with which he is uvited. When Jiva
+succeeds in understanding Prakriti (and knowing that she is something
+different from him) then he is said to be restored to his true nature and
+then does he attain to that high understanding which is pure and stain-
+less (and which is concerned with Brahma). When Jiva succeeds, O
+tiger among kings, in attaining to that excellent understanding, he then
+attains to that Pure Knowledge (without duality) whichis called the
+twenty-sixth (or Brahma)- He then casts off the Unmanifest or Prakriti
+which is fraught with the attributes of Creation and Destruction. When
+Jiva succeeds in knowing Prakriti which is unintelligent and subject to
+the action of the three attributes of Sattwa, and Rajas and Tamas, he
+then becomes destitute of attributes himself. In consequence of his
+thus understanding the Unmanifest (to be something different from
+him). he succeeds in acquiring the nature of the Supreme Soul. The
+learned say that when he is freed from the attributes (of Sattwa and
+Rajas and Tamas) and united in the nature with the Supreme Soul then
+does Jiva become identified with that Soul. The Supreme Soul is called
+Tattwa as well as Not-Tattwa, and transcends decay and destruction.”
+O giver of honours, the Soul, though it has the manifest principles (viz.
+the body) for its resting place, yet it cannot be said to have acquired
+the nature of those principles. The wise say that (including the Jiva-
+soul) there are five and twenty principles inall. Indeed, O son, the
+Soul is not to be regarded as possessed of any of the principles (Mahat
+and the rest). Endued with Intelligence, it transcends the principles.
+It casts off quickly even that principle which is the indication of the
+Knowing (or awakened) one.* When Jiva comes to regard himself as
+the twenty-sixth which is divested of decay and destruction, it is then
+that, without doubt, he succeeds by his own force in attaining to simi-
+larity with the twenty-sixth. Though awakened by the twenty-sixth
+
+1 ‘Drisya’ and ‘Adrisya,’ are the Seen and the Unseen, thatis the
+gross and the subtile, or effects and causes. ‘Swabhavena anugatam’ is
+‘inhering (unto all of them, in its own nature, that is, Brahma prevades all
+things and unites with them without itself being changed as regards its
+own nature. Vudhyate has ‘manishibhih’ understood alter it.—T.
+
+2 'Tattwa’ is explained by the Commentator as ‘anaropitarupam’ i. e,,
+uninvested with any form in consequence of Ignorance ; ‘Not-Tattwa’ is
+‘nityaparoksham,’ i.e., always within the ken of the understandiog.—T.
+
+3 That indication is ‘I am Brahma,’ Such conviction or knowledge
+even, which characterises those that are awakened or Buddha, is cast off
+by the twenty-sixth.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 32
+
+SANTI PABVA 439
+
+which is Pure Intelligence, Jiva still becomes subject to Ignorance.
+This is the cause of Jiva, multifariousness (in respect of forms) as
+explained in the Srutis and the Sankhya scriptures, When Jiva, who
+is endued with Chetana (and Unintelligent Prakriti), loses all Conscio-
+usness of a distinct or individual Self, then does he, losing his multifa-
+riousness, resume his Oneness. O ruler of Mithila, when Jiva, who is
+found to be in union with happiness and misery and who is seldom free
+from the consciousness of Self, succeeds in attaining to a similarity with
+the Supreme Soul which is beyond the reach of the understanding, then
+does he become freed from virtue and vice. Indeed, when Jiva, attain-
+ing to the twenty-sixth which is Unborn and Puissant and which is
+dissociated from all attachments, succeeds in comprehending it
+thoroughly. he himself becomes possessed of puissance and entirely casts
+oft the Unmanifest or Prakriti. In consequence of understanding the
+twenty-sixth, the four and twenty principles seem to Jiva to be unsubs-
+tantial or of no value. I have thus told thee, O sinless one, according
+to the indications of the Srutis, the nature of the Unintelligent (or
+Prakriti), and of Jiva, as also of that which is Pure Knowledge (viz., the
+Supreme Soul), agreeably to the truth, Guided by the scriptures,
+variety and oneness are thus to be understood. The difference between
+the gnat and the Udumvara, or that between the fish and water, illuse
+trates the difference between the Jiva-soul and the Supreme Soul.!
+The Multiplicity and Oneness of these two are then understood in this
+way. This is called Emancipation, viz. this comprehension or know-
+ledge of oneself as something distinct from Unintelligent or Unmanifest
+Prakriti. The twenty-fitth, which resides in the bodies of living crea-
+tures, should be emancipated by making him know the Unmanifest or
+the Supreme Soul which transcends the understanding. Indeed, that
+twenty-fifth is capable of attaining to Emancipation in this way only
+and not through any other means, it is certain. Though really different
+from the Kshetra in which he resides for the time being, he partakes of
+the nature of that Kshetra in consequence of his union with it.? Uniting
+with what is Pure, he becoces Puree Uniting with the Intelligent, he
+becomes Intelligent. By uniting, O foremost of men, with one that is
+
+1 These examples are often used to explain the difference between the
+Jiva-soul and the Supreme Soul. The Udumvara is the fruit of the Fious
+glomerata. When ripe and broken, the hollow centre is seen to contain
+many full-grown gnats. The gnat lives in the frurt but is not the fruit, just
+as the fish though living in the water is not the water that is itr home.
+Jiva, after the-same way, though living in the Supreme Soul, is not the
+Supreme Soul.—T.
+
+2 *Parah’ is ‘Anyah’ or ‘Chidatman.’ 'Paradharma’ means ‘partaking’ of
+the nature of Kshetra in which he resides. ‘Sametya’ is kshetrena iva
+ekibhuya.’—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 33
+
+440° MAHABHARAPA
+
+Emancipate, he becomes Emancipated. By uniting with one that has
+been freed from attachments of every kind, he becomes freed from all
+attachments. By uniting with one striving after Emancipation, he
+himself, partaking of the nature of his companion, strives after Emanci-
+pation. By uniting with one of pure deeds he becomes pure and of pure
+deeds and endued with blazing effulgence. By uniting with one of
+unstained soul, he becomes of unstained soul himself. By uniting with
+the One independent Soul, he becomes One and Independent. Uniting
+with One that is dependent on One's own Self, he becomes of the same
+nature and attains to Independence.—
+
+“*_O monarch, I have duly told thee all this that is perfectly
+true, Candidly haveI discoursed tothee on this subject, viz, the
+Eternal and Stainlessand Primeval Brahma. Thou mayst impart this
+high knowledge, capable of awakening the soul. unto that person, O
+king, who though not conversant with the Vedas is nevertheless, humble
+and has a keen desire for acquiring the knowledge of Brahma. It should
+never be imparted unto one that is wedded to falsehood, or one that is
+cunning or roguish, or one that is without any strength of mind or one
+that is of crooked understanding, or one that is jealous of men of know-
+ledge, or one that gives pain to others. Listen to me as I say who they
+are unto whom this knowledge may safely be communicated. It should
+be given to one that isendued with faith, or one that is possessed of
+merit, or one that always abstains from speaking ill of others, or one
+that is devoted to penances from the purest of motives, or one that is
+endued with knowledge and wisdom, or one that is conversant of the
+sacrifices and other rites laid down in the Vedas, or one that is possessed
+of a forgiving disposition, or one that is inclined to take compassion on
+and do good to all creatures ; or one that is fond of dwelling in privacy
+and solitude, or one that is fond of discharging all acts laid down in the
+scriptures, or one that is averse to quarrels and disputes, or one that is
+possessed of great learning or one endued with wisdom or one possessed
+of forgiveness and self-restraint and tranquillity or soul. This high
+knowledge of Brahma should never be communicated to one that is not
+possessed of such qualifications, It has been said that by imparting this
+knowledge to one that cannot be regarded as fit receptacle for holding
+it no advantage or good fruit can arise. Unto one that is not observant
+of any vows and restraints, this high knowledge should never be
+communicated even if he gives in exchange the whole Earth full of gems
+and wealth of every kind. Without doubt, however. O king, this
+knowledge should be given to one that has conquered one's senses. O
+‘Karala, let no fear be thine any longer, since thou hast heard all this
+regarding high Brahma'from me today! I have discoursed to.thee duly
+about high and holy Brahma that is without beginning’ and ‘middle
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 34
+
+SANTI PARVA 441
+
+(and end) and that is capable of dispelling all kinds of grief. Beholding
+Brahma whose sight is capable of dispelling both birth and death, O
+king which is full of auspiciousness, which removes all fear, and which
+benefit, and having acquired this essence of all knowledge, cast off all
+error and stupefaction today! I had acquired this knowledge from the
+eternal Hiranyagarbha himself, O king, who communicated it to me for
+my having carefully gratified that great Being of every superior Soul.
+Asked by thee today, I have, O monarch, communicated the knowledge
+of eternal Brahma to the just asI had myself acquired it from my
+teacher. Indeed, this high knowledge that is the refuge of all persons
+conversant with Emancipation has been imparted to thee exactly as I
+had it from Brahman himself !—’
+
+"Bhishma continued,—'I have thus told thee of high Brahma agree-
+
+7
+
+ably to what the great Rishi (Vasishtha) had said (unto king Karala of _
+
+Janaka’s race), by attaining to which the Twenty-fifth (or Jiva) has
+
+never to return. Jiva, in consequence of his not knowing truly the -
+
+Supreme Soul which is not subject to decay and death, is obliged to
+frequently come back into the world. When, however, Jiva succeeds
+in acquiring that high knowledge, he has no longer to come back.
+Having heard it, O king from the celestial Rishi, I have, O son, commu-
+nicated to thee high knowledge productive of the highest good. This
+knowledge was obtained from Hiranyagarbha by the high-souled Rishi
+Vasishtha. From that foremost of Rishis, viz, Vasishtha, it was
+acquired by Narada, From Narada I have acquired that knowledge
+which istruly identifiable with the eternal Brahma. Having heard
+this discourse of high import, fraught with excellent words, do not, O
+foremost of the Kurus, yield any longer to grief. That man who knows
+Kshara and Akshara becomes freed from fear. He, indeed, O king, is
+obliged to cherish fear who is destitute of this knowledge. In conse-
+quence of Ignorace (of Brahma), the man of foolish soul hath repeatedly
+to come back into this world. Indeed, departing from this life, he has
+to-be born in thousands and thousands of orders of Being every one of
+which hath death inthe end. Now in the world of the deities, now
+among men, and now among intermediate orders of Being, he has to
+appear again and again. If in course of time he succeeds in crossing that
+Ocean of Ignorance in which he is sunk, he then succeeds in avoiding
+rebirth altogether and attaining to identity with the Supreme Soul.
+The Ocean of Ignorance is terrible. It is bottomless and called the
+Unmanifest. O Bharata, day after day, creatures are seen to fall and
+sink in that Ocean: Since thou, O king, hast been freed from that eternal
+and limitless Ocean of Ignorance, thou, hast, therefore become freed
+from Rajas and also Tamas.’ ”
+
+56
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 35
+
+SECTION CCCX
+
+“Bhishma said—'Once ona timea king of Janaka’s race, while
+ranging the uninhabited forests in pursuit of deer, saw a superior
+Brahmana or Rishi of Bhrigu’s race- Bowing with his head unto the Rishi
+who was seated at his ease, king Vasuman took his seat near him and
+obtaining his permission put to him this question :—O holy one, what is
+productive of the highest benefit, both here and hereafter, to man who
+is endued with an unstable body and who is the slave of his desires?
+Properly honoured by the king, and thus questioned, that high-souled
+Rishi possessed of ascetic merit then said these words unto him that
+were highly beneficial.
+
+“The Rishi said,—If thou desirest both here and hereafter what is
+agreeable to thy mind, do thou then, with restrained senses, abstained
+from doing what is disagreeable to all creatures. Righteousness is bene-
+ficial unto them that are good. Righteousness is the refuge of those .
+that are good. From Righteousness have flowed the three worlds with
+their mobile and immobile creatures. O thou that art eagerly desirous
+of enjoying all agreeable objects, how is it that thou art not yet satiated
+with objects of desire? Thou seest the honey, O thou of little under-
+standing, but art blind to the fall. As one desirous of earning the
+fruits of knowledge should set oneself to the acquisition of knowledge,
+even so one desirous of earning the fruits of Righteousness should set
+oneself to the acquisition of Righteousness. If a wicked man from desire
+of virtue, strives to accomplish an act that is pure and stainless, the
+fulfilment of his desire becomes impossible. If, on the other hand, a
+good man, impelled by the desire of earning virtue, strives to accom-
+plish an act that is even difficult, its accomplishment becomes easy for
+him. If, while residing in the woods, one acts in such a way as to
+enjoy all the pleasures of a residence amidst men in towns, one comes
+to be looked upon not as a forest recluse but asa denizen of towns.
+Similarly, if one, while residing in towns, acts in such a way as to enjoy
+the felicity that attaches to the life of a forest recluse, one comes to be
+looked upon not as a denizen of towns but asa forest recluse. Ascer-
+taining the merits of the religion of Acts and that of Abstention from
+acts, do thou, with concentrated senses, be devoted to the practices of
+righteousness that appertain to thought, word, and deed, Judging of
+the propriety of time and place, purified by the observance of vows
+and other cleansing rites, and solicited (by them), do thou, without
+
+1 This is a simile very often used for illustrating the danger of pursu-
+ing objects of the senses. Collectors of honey used to rove over mountains,
+
+guided by the sight of flying bees. These men frequently met with death
+from falls from precipices.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 36
+
+SANTI PARVA 448
+
+malice, make large gifts unto them that are good.'' Acquiring wealth
+by righteous means, one should give it away unto those that are
+deserving. One should make gifts, casting off anger ; and having made
+Bifts one should never give way to sorrow nor prcclaim those gifts with
+one’s own mouth. The Brahmana who is full of compassion, who is
+observant of candour, and whose birth is pure, has been regarded as a
+person deserving of gifts. A person is said to be pure in birth when he
+is born of mother that has only one husband and that belongs to the
+same order to which her husband belongs. Indeed, such a Brahmana,
+conversant with the three Vedas, viz., Rich, Yajush, and Saman, possess-
+ed of learning, duly observant of the six duties (of sacrificing on his own
+account, officiating at the sacrifices of others, learning, teaching, making
+gifts, and receiving gifts), has been regarded as deserving of gifts.
+Righteousness becomes unrighteousness, and unrighteousness becomes
+righteousness, according to the character of the doer, of time, and of
+place.? Sin is cast off like the filth on one's body,—a little with a little
+exertion and a greater quantity when the exertion is greater. A person,
+after purging his bowels, should take ghee, which operates most benefi-
+cially on his system (as a healthy tonic). After the same manner, when
+one has cleansed oneself of all faults and sets oneself to the acquisition of
+righteousness, that righteousness, in the next world, proves to be pro-
+ductive of the highest happiness. Good and evil thoughts exist in the
+minds of all creatures. Withdrawing the mind from evil thoughrs, it
+should always be directed towards good thoughts. One should always
+reverence the practices of one’s own order. Do thou strive. therefore,
+to act in such a way that thou mayst have faith in the practices of thy
+own order. O thou that art endued with an impatient soul, betake thy-
+self to the practice of patience. O thou that art of a foolish understand-
+ing, seek thou to be possessed of intelligence! Destitute of tranquillity,
+seek thou to be tranquil, and bereft of wisdom as thou art, do thou
+seek toact wisely! He who moves in the companionship of the righteous
+succeeds, by his own energy, in acquiring the means of accomplishing
+what is beneficial for him both in this and the next world. Verily, the
+root of that benefit (which thus becomes his here and hereafter) is
+unwavering firmness, The royal sage Mahabhisha, through want of this
+
+1 The Burdwan translator renders this Verse incorreotly.—T
+
+2 This bas been repeatedly laid down in the Hindn soriptures. Gifts
+produce no merit unless made to deserving persons. If made to the un-
+deserving, instead of ceasing to produce any merit, they become positively
+sinful. The considerations of time and place alsoare to be attended to.
+By failing to attend to them, sin is incurred where merit is expected. Truth
+becomes as sinful asa lie, under particular circumstances ; and a falsehood
+becomes as meritorious as truth under circumstances. The Hindu scriptures
+make circumstances the test of acte.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 37
+
+444 MAHABHARATA
+
+firmness, fell from heaven. Yayati, also, though his merits had become
+exhausted (in consequence of his boastfulness and though whe as hurled
+down from heaven) succeeded in regaining regions of felicity through
+his Grmness. Thou art sure to attain to great intelligence, as also to
+what is for thy highest good, by paying court to virtuous and learned
+persons possessed of ascetic merit.—
+
+“Bhishma continued,—'Hearing these words of the sage, king
+Vasuman, possessed of a good disposition, withdrawing his mind from
+the pursuits of desire, set it upon the acquisition of Righteousness.’ ”
+
+SECTION CCCXI
+
+“Yudhishthira said—‘It behoveth thee, O grandsire, to discourse
+to me on that which is freed from duty and its reverse, which is freed
+from every doubt, which transcends birth and death, as also virtue and
+sin, which is auspiciousness, which is eternal fearlessness, which is
+Eternal and Indestructible, and Immutable, which is always Pure, and
+which is ever free from the toil of exertion.’
+
+“Bhishma said,—'I shall in this connection recite to thee the old
+narrative, O Bharata, ofjthe discourse between Yajnavalkya and Janaka.
+Once ona time the famous king Daivarati of Janaka’s race, fully con-
+versant withthe import of all questions, addressed this question to
+Yajnavalkya, that foremost of Rishis.
+
+“"Janaka said —O regenerate Rishi, how many kinds of senses are
+there? How many kinds also are there of Prakriti? What is the
+Unmanitest and highest Brahma ? What is higher than Brahma ?, What
+is birth and what is death? What are the limits of Age? It behoveth
+thee, O foremost of Brahmanas, to discourse on all these topics unto me
+that am solicitous of obtaining thy grace ; I am ignorant while thou art
+an Ocean of knowledge. Hence, I ask thee! Verily, I desire to hear thee
+discourse on all these subjects !—
+
+“*Yajnavalkya said—Hear, O monarch, what I say in answer to
+these questions of thine, I shall impart to thee the high knowledge
+which Yogins value, and especially that which is possessed by the
+Sankhyas. Nothing is unknown to thee. Still thou askest me. One
+however, that is questioned should answer. This is the eternal practice.
+Eight principles have been called by the name of Prakriti, while sixteen
+have been called modifications. Of Manifest, there are seven. These
+are the views of those persons who are conversant with the science of
+Adhyatma, The Unmanifest (or original Prakriti), Mahat, Consciouse
+ness, and the five subtile elements of Earth, Wind, Space, Water, and
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 38
+
+SANTI PARVA 445
+
+Light,—these eight are known by the name of Prakriti.” Listen now to
+the enumeration of those called modifications. They are the ear, the
+skin, the tongue, and the nose ; and sound, touch, form, taste, and scent,
+as also speech, the two arms, the two feet, the lower duct (within the
+body), and the organs of pleasure. Amongst these, the ten beginning
+with sound, and having their origin in the five great principles.? are
+called Visesha. /The five senses of knowledge are called Savisesha O,
+tuller of Mithila. Persons conversant with the science of Adhyatma
+regard the mind as the sixteenth. This is conformable to thy own views
+as also to those of other learned men well acquainted with the truths
+about principles.’ From the Unmanifest, O king, springs the Mahat-
+soul. The learned say this to be the first creation relating to Pradhana
+(or Prakriti): From Mahat, O king of men, is produced Consciousness,
+This has been called the second creation having the Understanding for
+its essence.* From Consciousness hath sprung the Mind which is the
+essence of sound and the others that are the attributes of space and the
+rest. This is the third creation, said to relate to Consciousness. From
+mind have sprung the great elements, (numbering five). O king ! Know
+that this is the fourth creation called mental, asI say. Persons con-
+versant with the primal elements say that Sound and Touch and Form
+and Taste and Scent are the fifth creation, relating to the Great
+(primal) elements. The creation of the Ear, the Skin, the Tongue, and
+the Scent, forms the sixth and is tegarded as having for its essence
+multiplicity of thought. ‘The senses that come after the Ear and the
+others (i.e. the senses of action) then arise, O monarch, This is called
+seventh creation and relates to the sensesof Knowledge. Then, O
+monarch, come the breath that rises upward (viz., Prana) and those that
+have a transverse motion (viz,, Saman, Udana, and Vyana). This is the
+eighth creation and is called Arjjava.* Then come those breaths that
+course transversely in the lower parts of the body (viz., Samana, Udana
+and Vyana) and also that called Apana coursing downwards. This,
+ninth creation, is also called Arjjava, O king. These nine kinds of
+creation, and these principles, O monarch, which latter number four
+
+1 These, including Mind, form the tale of sixteen called Vikriti or
+modifications of Prakriti.—T.
+
+2 These are the subtile principles or Tanmatras and not the gross
+elements.—T.
+
+3 'Mahat’ is sometimes called ‘Buddhi’ hence the creation of Cons-
+ciousness from Mahat must be creation relating to Buddbi—tT.
+. 4 ‘Arjjava’ mean 'relating to straight paths or courses,’ so called from
+the straight course of these winds or breaths. By reference to these breaths
+is intended the other limbs of the physical system besides those already
+indicated. —T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 39
+
+446 MAHABHARATA
+
+and twenty, are declared to thee according to what has been laid down
+in the scriptures. After this, O king, listen to me as I tell thee durations
+of time as indicated by the learned in respect of these principles or
+attribute.’ ”
+
+SECTION CCCXII
+
+“Yajnavalkya said,—Listen to me, O foremost of men, as I tell thee
+what the duration of time is in respect to the Unmanifest (or the
+Supreme Purusha), Ten thousand Kalpas are said to constitute a single
+day of his. The duration of his night is equal. When his night expires,
+he awakes, O monarch, and first creates herbs and plants which consti-
+tute the sustenance of all embodied creatures. He then creates Brahman
+who springs from a golden egg. That Brahman is the form of all creat-
+ed things, as has been heard by us. Having dwelt for one whole year
+within that egg, the great ascetic Brahman, called also Prajapati (Lord
+of all creatures), came out of it and created the whole Earth, and the
+Heaven above. The Lord then, it is read in the Vedas, O king, placed
+the sky between Heaven and Earth separated from each other. Seven
+thousand and five hundred Kalpas measure the day of Brahman.
+Persons conversant with the science of Adhyatma say that his night also
+is of an equal duration. Brahmana, called Mahan, then creates Cons-
+ciousness called Bhuta and endued with excellent essence.’ Before
+creating any physical bodies out of the ingredients called the Great
+elements, Mahan or Brahma, endued with penances, created four others
+called his sons. They are the sires of the original sires, O Best of kings,
+as heard by us.? It hath been also heard by us, O monarch that the
+senses (of knowledge) along with the four inner faculties, have sprung
+from the (five Great elements called) Pitris, and that the entire
+universe of mobile and immobile Beings has been filled with those Great
+elements.?. The puissant Consciousness created the five Bhutas. These
+
+1 ‘Rishi’ here means ‘Mahan’ or Great. Consciousness is said to have
+an excellent essence, and is also a Bhuta because of its capacity to produce
+the Great Bhutas, five in number.—T.
+
+2 These, the Commentator explains, are Mind, Buddhi or Understand-
+ing Consciousness, and Chitwa, considered as Vyashti instead of as
+Samashthi. These are the sires of the primeval sires, i.¢., {rom these sprung
+the Mahabbutas or Great oreatues (vis., the five primal Elements).—T.
+
+3 'Devah'’is explained by the Commentator as meaning the Benses
+and the four inner faculties. *Devaih’ he thinks, refers to the Bhutas or
+Great elements. Literally rendered, the Verse would read as'the Devas
+are the Children of the Pitris ; with the Devas, all the worlds of Mobile
+Being have been covered.’ It is not safe to reject the learned Commentator.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 40
+
+SANTI PARVA 447
+
+are Earth, Wind, Space, Water, and Light numbering the fifth. This
+Consciousness (who is a Great Being and) from whom springs the third
+creating, has five thousand Kalpas for his night, and his day is of equal
+duration. Sound, Touch, Form, Taste, and Scent,—these five are
+called Visesha, They inhere into the five great Bhutas. All creatures,
+O king, incessantly pervaded by these five, desire one another's compa-
+nionship, become subservient to one another; and challenging one
+another, transcend one another; and led by those immutable and
+seductive principles, creatures kill one another and wander in this world
+entering into numerous orders of Being.! Three thousands of Kalpas
+represent the duration of their day. The measure of their night also is
+the same.?_-The Mind roveth over all things, O king, led on by the
+Senses. The Senses donot perceive anything. It is the Mind that
+perceives through them. The Eye sees forms when aided by the Mind
+but never by itself. When the Mind is distracted, the Eye fails to
+perceive with even the objects fully before it. It is commonly said that
+the Senses perceive. This is not true, for it is the Mind that perceives
+through the Senses. When the cessation takes place of the activity of
+the Mind, the cessation of the activity of the Senses follows. That is
+the cessation of the activity of the Senses which is the cessation of the
+activity of the Mind. One should thus regard the Senses to be under
+the domination of the Mind, Indeed, the Mind is said to be the Lord
+of all the Senses. O thou of great fame, these are all the twenty Bhutas
+in the Universe.—' "
+
+SECTION CCCXIII
+
+“Yajnavalkya said,—I have, one after another, told thee the order
+of the creation, with their total number, of the various principles, as
+also the extent of the duration of each, Listen now to meas I tell thee
+of their destruction, Listen to me how Brahman, who is eternal and
+undecaying, and who is without beginning and without end, repeatedly
+creates and destroys all created objects. When his day expires and night
+comes, he becomes desirous of sleep. At such atime the unmanifest
+and holy one urges the Being called Maharudra, who is conscious of his
+great powers, (for destroying the world). Urged by the unmanifest,
+
+1 These two Verses refer to the power of the attributes of sound &c.,
+over Jiva Loves and hates, andall kinds of relationship of Jiva are due to
+the action of the attributes named.—T.
+
+. 2 The duration here given has reference to the day and the night of
+the Mahabhutas.—T,
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 41
+
+448 MAHABHARATA
+
+that Being assuming the form of Surya of hundreds of thousands of rays,
+divides himself into a dozen portions each resembling a blazing fire. He
+then consumes with his energy, O monarch, without any loss of time,
+the four kinds of created beings, Viz., viviparous, oviparous, fifth-born,
+and vegetable. Within the twinkling of the eye all mobile and immobile
+creatures being thus destroyed, the Earth becomes on every side as bare
+as a totoise shell. Having burnt everything on the face of the Earth,
+Rudra, of immeasurable might, then quickly fills the bare Earth with,
+Water possessed of great force He then creates the Yuga-fire which
+dries up thit Water (into which the bare Earth has been dissolved).
+The Water disappearing, the great element of Fire continues to blaze
+fiercely. Then comes the mighty Wind of immeasurable force, in his
+eight forms, who swallows up quickly that blazing fire of transcendant
+force, possessed of seven flames, and identifiable with the heat existing
+every creature. Having swallowed up that fire, the Wind courses in
+every direction, upwards, downwards, and transversely. Then space of
+immeasurable existent swallowed up that Wind of transcendant energy.
+Then Mind cheerfully swallows up that immeasurable Space. Then
+that Lord of all creatures, viz., Consciousness, who is the Soul of every-
+thing, swallows up the Mind. Consciousness, in his turn, is swallowed
+up by the Mahat-soul who is conversant with the Past, the Present,
+and the Future. The incomparable Mahat-soul or Universe is then
+swallowed up by Sambhu, that Lord of all things, to whom the Yoga
+attributes of Anima, Laghima, Prapti, &c., naturally inhere, who is
+regarded as the Supreme and pure Effulgence that is Immutable. His
+hands and feet extend over every part ; his eyes and head and face are
+everywhere, his ears reach every place, and he exists overwhelming all
+things. He isthe heart of all creatures; His measure is of a digit of
+the thumb. That Infinite and supreme Soul, that Lord of all, thus
+swallows up the Universe./ After this, what remains is the Undecaying
+and the Immutable. One who is without defect of any kind, who is the
+Creator of the Past, the Present, and the Future; and who is perfectly
+faultless, I have thus, O monarch, duly told thee of Destruction. I
+shall now discourse to thee on the subjects of Adhyatma, Adhibhuta,
+and Adhidaivata,—'"
+
+SECTION CCCXIV
+fm ‘Yajnavalkya said,—Brahmanas conversant with the topics of
+enquiry speak of the two feet as Adhyatma, the act of walking as Adhi-
+bhuta, and Vishnu as Adhidaivatam (of those two limbs). The lower
+duct (anal canal) is Adhyatma; its function of throwing out the excreta
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 42
+
+SANTI PARVA 449
+
+is Adhibhuta, and Mitra (Surya) is the Adhidaivata (of that organ).
+The organ of generation is called Adhyatma. Its agreeable function is
+called Adhibhuta, and Prajapati is its Adhidaivata. The hands are
+Adhyatma ; their function as represented by acts is Adhibhuta ; and
+Indra isthe Adhidaivata of those limbs. The organs of speech are
+Adbyatma ; the words uttered by them are Adhibhuta; and Agni is
+their Adhidaivata. The eye is Adhyatma; vision or form is its
+Adhibhuta ; and Surya isthe Adhidaivata of that organ. The ear is
+Adhyatma ; sound is Adhibhuta ; and the points of the horizon are its
+Adhidaivata. The tongue is Adhyatma, taste is its Adhibhuta; and
+Water isits Adhidaivata. The sense of scent is Adhyatma ; odour is
+its Adhibhuta ; and Earth is its Adhidaivata. The skin is Adhyatma;
+touch is its Adhibhuta ; and Wind is its Adhidaivata. Mind has been
+called Adhyatma; that with which the Mind is employed is Adhibhuta ;
+and Chandramas is its Adhidaivata. Consciousness is Adhyatma;
+conviction in one's identity with Prakriti is its Adhibhuta; and Mahat
+or Buddhi is its Adhidaivata. Buddhi is Adhyatma ; that which is to
+be understood is its Adhibhuta ; and Kshetrajna is its Adhidaivata. I
+have thus truly expounded to thee, O king, with its details taken
+individually, the puissance of the Supreme (in manifesting Himself in
+different forms) in the beginning, the middle, and the end, O thou that
+art fully conversant with the nature of the original topics or principles/
+Prakriti, cheerfully and of her own accord, as if for sport, O monarch,
+produces, by undergoing modifications herself, thousands and thousands
+of combinations of her original transformations called Gunahs. As men
+can light thousands of lamps from buta single lamp, after the same
+manner Prakriti, by modification, multiplies into thousands of existent
+objects the (three) attributes (of Sattwa and Rajasand Tamas) of
+Purusha. Patience, joy, prosperity, satisfaction, brightness of all faculties,
+happiness, purity, health, contentment, faith, liberality, compassion,
+forgiveness, firmness, benevolence, equanimity, truth, acquittance of -
+obligations, mildness, modesty, calmness, external purity, simplicity,
+observance of obligatory practices, dispassionateness, fearlessness of
+heart, disregard for the appearance or otherwise of good and evil as also
+for past acts,—appropriation of objects only when obtained by gift, the
+absence of cupidity, regard for the interests of others, compassion for
+all creatures,—these have been said to be the qualities that attach to
+the attribute of Sattwa. The tale of qualities attaching to the attribute
+of Rajas consists of pride of personal beauty, assertion of lordship, war,
+disclination to give, absence of compassion, enjoyment and enduring of
+happiness and misery, pleasure in speaking ill of others, indulgence in
+quarrels and disputes of every kind, arrogance, discourtesy, anxiety,
+
+indulgence in hostilities, sorrow, appropriation of what belongs to
+Downloaded from https://www.holybooks.com
+57 https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 43
+
+460 MAHABHARATA
+
+others, shamelessness, crookedness, disunions, roughness, lust, wrath,
+pride, assertion of superiority, malice, and calumny. These are said
+to spring from the attributes of Rajas. I shall now tell thee of that
+assemblage of qualities which springs from Tamas. They are stupefac-
+tion of judgment, obscuration of every faculty, darkness, blind darkness.
+By darkness is implied death, and by blind darkness is meant wrath.
+Besides these, the other indications of Tamas are greediness in respect
+of all kinds of food, ceaseless appetite for both food and drink, taking
+pleasure in scents and robes and sports and beds and seats and sleep
+during the day and calumny and all kinds of acts proceeding from
+heedlessness, taking pleasure, from ignorance (of purer sources of joy)
+in dancing and instrumental and vocal music, and aversion for every
+kind of religion. These, indeed, are the indications of Tamas—'”
+
+SECTION CCCXV
+
+“**Yajanvalkya said,—These three, O foremost of men, (viz., Sattwa,
+Rajas, and Tamas), are the attributes of Prakriti. These attach to all
+things of the universe and always inhere tothem. The Unmanifest
+Purusha endued with the six Yoga attributes transforms himself by
+himself into hundreds and thousands and millions and millions of forms
+(by embracing these three attributes). Those that are conversant with
+the science of Adhyatma, say that unto the attribute of Sattwa is
+assigned a high, unto Rajas a middling, and unto Tamas, a low place in
+the universe. By the aid of unmixed righteousness one attains to a high
+end (viz., that of the deities or other celestial beings). Through
+righteousness mixed with sin one attains tothe status of humanity.
+While through unmixed sin one sinks into a vile end (by becoming an
+animal or a vegetable &c.). Listen now tome, O king, asI speak to
+thee of the intermixture or compounds of the three attributes of Sattwa,
+Rajas, and Tamas. Sometimes Rajas is seen existing. with Sattwa,
+Tamas also exists with Rajas. With Tamas may also be seen Sattwa.
+Then also may Sattwa and Rajas and Tamas be seen existing together
+and in equal proportions. They constitute the Unmanifest or Prakriti.
+When the Unmanifest (Purusha) becomes endued with only Sattwa, he
+attains tothe regions of the deities. Endued with both Sattwa and
+Rajas, he takes birth among human beings. Endued with Rajas and
+Tamas, he takes birth among the intermediate order of Being. Endued
+with all three, viz.,Sattwa and Rajas and Tamas, he attains to the
+status of humanity. Those high souled persons that transcend both
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 44
+
+SANTI PARVA 451
+
+righteousness and sin, attain, it is said, to that place which is eternal,
+immutable, undecaying, and immortal. Menof knowledge attain to
+births that are very superior, and their place is faultless and undecaying,
+transcending the ken of the senses, free from ignorance, above birth
+and death, and full of light that dispels all kinds of darkness. Thou
+hadst asked me about the nature of the Supreme residing in the
+Unmanifest, (viz. Purusha). I shall tell thee. Listen to me, O king,
+Even when residing in Prakriti, He is said to reside in His own nature
+without partaking of the nature of Prakriti.? Prakriti, O king, is
+inanimate unintelligent. When presided over Purusha, then only can
+she create and destroy,—
+
+“ ‘Janaka said,—Both Prakriti and Purusha, O thou of great intelli-
+gence, are without beginning and without end. Both of them are
+without form. Both of them are undecaying. Both of them, again,
+incomprehensible. How then, O foremost of Rishis,’can it be said that
+one of them is inanimate and unintelligent ? How, again, is the other
+said to be animate and intelligent? And why is the latter called
+Kshetrajna ? Thou, O foremost of Brahmanas, art fully conversant with
+the entire religion of Emancipation. I desire to hear in detail of the
+religion of Emancipation in its entirety. Do thou discourse to me then
+of the existence and Oneness of Purusha, of his separateness from Prakriti,
+of the deities which attach to the body of the place to which embodied
+creatures repair when they die, and that place to which they may ulti-
+mately, in course of time, be able to go. Tell me also of the Knowledge
+described’in the Sankhya system, and of the Yoga system separately. It
+behoveth thee also to speak of the premonitory symptoms of death, O
+best of men. All these topics are well known to thee evenas an (emblic)
+myrobalan in thy hand !—'"
+
+1 ‘Prakritisthah’ means ‘in bis own Prakriti or nature.’ The sense of
+the line is that Purusha, even when residingin the case that Prakriti
+provides him with, does not partake of the nature of Prakriti but continues
+to be undefiled by her.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 45
+
+SECTION CCCXVI
+
+“*Yajoavalkya said,—That which is without attributes, O son, can
+never be explained by ascribing attributes to it. Listen, however, to
+me asl expound to thee what is possessed of attributes and what is
+devoid of them. High-souled Munis conversant with the truth regard-
+ing all the topics or principles say that when Purusha seizes attributes
+like a crystal catching the reflection of ared flower, he comesto be
+called as possessed of attributes; but when freed from attributes like
+the crystal freed from reflection, he comes to be viewed in” his real
+nature, that is, as beyond all attributes,!_ Unmanifest Prakriti is by her
+nature endued with attributes. She cannot transcend them. Destitute
+of intelligence by nature, she becomes attached to attributes, Unmani-
+fest Prakriti cannot know anything, while Purusha, by his nature, is
+possessed of knowledge.—There is nothing higher than myself,—even
+this is what Purusha is always conscious of. For this reason the
+unmanifest (or Prakriti), although naturally inanimate and unintelligent,
+still becomes animate and intelligent in consequence of her union with
+Purusha who is Eternal and Indestructible instead of remaining in her
+own nature due to her destructibility.2 When Purusha, through
+ignorance, repeatedly becomes associated with attributes, he fails to
+understand his own real nature and therefore he fails to attain to Eman-
+cipation. In consequence Purusha’s lordship over the principles that
+flow from Prakriti, he is said to partake of the nature of those princi-
+ples, In consequence also of his agency in the matter of creation, he
+is said to possess the attribute of creation. In consequence of his
+agency in the matter of Yoga, he is said to possess the attribute of Yoga.
+For his lordship over those particular principles known by the name of
+Prakriti, he is said to possess the nature of Prakriti.® For his agency
+in the matter of creating the seeds (of all immobile objects), he is said to
+partake of the nature of those seeds. And because he causes the several
+principles or attributes to start into life, heis, therefore, said to be
+
+1 LT expand this Verse for bringing out the meaning. A verbal render-
+ing will become unintelligible.—T.
+
+2 This is a difficult Verse. Iam not sure that I have understood it
+correctly. The sense to be that Prakriti, which is really unintelligent and
+incapable of enjoyment or endurance, becomes intelligent and capable of
+enjoyment or endurance in consequence of being united with Purusha who
+is intelligent. Thus when pleasurable or painful sensations are felt, it is
+the body shat seems to feel it only in consequence of the Soul that presides
+over it —T.
+
+3 The first line of 7 is the same in sense ag the second line of 8. In
+the Bombay text, only the second line of 8 occurs, while the first line of 7
+has peer justly omitted. In fact, Tattwa and the Prakriti are the same
+thing.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 46
+
+SANTI PARVA 463
+
+subject to decay and destruction (for those principles themselves are
+subject thereto). In consequence, again, of his being the witness of
+everything, and in consequence also of there being nothing else than he,
+as also for his consciousness of identity with Prakriti, Yatis crowred
+with ascetic success, conversant with Adhyatma, and freed from fever
+of every kind, regard him as existing by himself without a second,
+immutable, unmanifest (in the form of Cause), unstable, and manifest
+(in the form of effects). This is what has been heard by us. Those
+Sankhyas, however, that depend upon Knowledge only (for their
+Emancipation) and the practice of compassion for all creatures, say that
+itis Prakriti which is One but Purushas are many.’ Asa matter of
+fact, Purusha is different from Prakriti which though unstable, still
+appears as stable. As a blade of reed is different from its outer cover,
+even so is Purusha different from Prakriti. Indeed, the worm that is
+ensconced within the Udumvara should be known as different from the
+Udumvara. Though existing with the Udumvara, the worm is not to
+be regarded as forming a portion of the Udumvara. The fish is distinct
+from the water in which it lives, and the water is distinct from the fish
+that lives in it. Though the fish and water exist together, yet it is never
+drenched by water. The fire that is contained in an earthen sauce’pan
+is distinct from the earthen sauce’pan, and the sauce’pan is distinct from
+the fire it contains. Although the fire exists in and with the sauce’pan,
+yet it is not to be regarded as forming any part of it. The lotus-leaf
+that floats on a piece of water is distinct from the piece of water on
+which it floats. Its co-existence with water does not make it a portion
+of the water. The perennial existence of those objects in and with
+those mentioned, is never correctly understood by ordinary people.
+They who behold Prakriti and Purusha in any other light are said to
+possess a vision that is incorrect. It is certain that they have repeatedly
+to sink into terrible bell. I have thus told thee the philosophy of the
+Sankbyas that excellent science by which all things have been correctly
+ascertained, Ascertaining the nature of Purusha and Prakriti in this
+way, the Sankhyas attainto Emancipation. I have also told thee of
+the systems of those others that are conversant with the great principles
+of the universe. I shall now discourse to thee on the science of the
+
+Yogins.—’”
+
+SECTION CCCXVII
+
+“Yajnavalkya said,—I have already spoken to thee of the science
+of the Sankhyas. Listen now to me as/I truly discourse on the science
+
+1 This refers to the opinion of the atheistic Sankhyas.--T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 47
+
+464 MAHABHARATA
+
+of the Yogins as heard and seen by me, O best of kings! There is no
+knowledge that can compare with that of the Sankhyas. There is no
+puissance that compares with that of Yoga. These two ordain the same
+practices, and both are regarded as capable of leading to Emancipation.
+Those men that are not blest with intelligence regard the Sankhya and
+the Yoga systems to be different from eachother. We, however, O
+king, look upon them as one and the same, according to the conclusion
+to which we have arrived (after study and reflection). That which the
+Yogins have in view is the very same which the Sankhyas also have in
+view. He who sees both the Sankhya and the Yoga systems to be one
+and the same is to be regarded as truly conversant with the topics or
+principles that ordain the universe. Know, O king, that the vital
+breaths and the senses are the chief means for practising Yoga. By only
+regulating those breaths and the senses, Yogins wander everywhere at
+their will. When the gross body is destroyed, Yogins, endued with
+subtile bodies possessed of the eight Yoga attributes (of Anima, Laghima
+Prapti, &c-,) wander over the universe, enjoying (in that body) all kinds
+of felicities, O sinless one. The wise have, in the scriptures, spoken of
+Yoga as conferring eight kinds of puissance. They have spoken of Yoga
+as possessed of eight limbs.?_ Indeed, O king, they have not spoken of
+any other kind of Yoga. It has been said that the practices of Yogins
+excellent fas these are (for their results), are of two kinds. Those two
+kinds, according to the indications occurring in the scriptures, are
+practices endued with attributes and these freed from attributes. The
+concentration of the mind (on the sixteen objects named), with simulta-
+neous regulation of the breath, O king, (is one kind). The concentration
+of the mind (in such a way as to destroy all difference between the
+contemplater, the object contemplated, and the act of contemplation)
+along with subjugation of the senses, (isof another kind). The first
+kind of Yoga is said to be that possessed of attributes; the second kind
+issaid to be that freed from attributes.* Then, again, Regulation of
+
+1 By the word ‘Rudra’ is meant Prana and the other breaths, The
+Commentator explains that the etymolgy is utkramana kale dehinam roda-
+yanti iti Rudrah Pranab. By regulating the vital breaths and the Senses,
+Yogins attain to Yoga-puissance and succeed in roving wherever they please
+in their linga-sarira or subtile bodies—T.
+
+2 The Hight limbs of Yoga are Pranayma Pratyahara, Dhyana,
+Dharana, Tarka, Samadhi, with the two additional ones of Yama and
+Niyama,—T.
+
+8 In the first line of 9 the word 'Pranayma’ is used to mean regulation
+of the vital breaths. In the second line, the same word implies the ‘ayamah
+or nigrahah’ of the senses with the mind. By 'Dharana’ is meant the fixing
+of the mind, one after another, on the sixteen things named in treatises on
+Yoga. By ‘ekagrata’ of the mind is meant that concentration in which there
+is no longer any conscionsness of difference between, Dhyatri, Dheya, and
+Dbyana,.’—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 48
+
+BANTI PARVA 465
+
+the breath is Yoga with attributes. In Yoga without attributes, the
+mind, freed from its functions, should be fixed. Only the regulation of
+the breath which is said to be endued with attributes should, in the first
+instance, be practised, for, O ruler of Mithila, if the breath (that is
+inhaled and suspended) be exhaled without mentally reflecting the while
+upon a definite image (furnished by a limited mantra), the wind in the
+neophyte’s system will increase to his great injury.’ In the frst Yama
+of the night, twelve ways of holding the breath are recommended.
+After sleep, in the last Yama of the night, other twelve ways of doing
+the same have been laid down, Without doubt, one endued with tran-
+quillity, of subdued senses, living in retirement, rejoicing in one’s own
+self, and fully conversant with the import of the scriptures, should
+(regulating one’s breath in these four and twenty ways) fix one’s Soul
+(on the Supreme Soul).? Dispelling the five faults of the five senses, viz.,
+(withdrawing them from their objects of) sound, form, touch, taste, and
+scent, and dispelling those conditions called Pratibha and Apavanga, O
+ruler of the Mithilas, all the senses should be fixed upon the mind. The
+mind should then be fixed on Consciousness, O king ; Consciousness
+should next be fixed on intelligence or Buddhi, and Buddhi, should then
+be‘fixed on Prakriti. Thus merging these one after another, Yogins con-
+template the Supreme Soul which is One, which is freed from Rajas,
+which is stainless, which is Immutable and Infinite and Pure and with-
+out defect, who is Eternal Purusha, who is unchangeable, who is
+Indivisible, who is without decay and death, who is everlasting, who
+transcends diminution, and whichis Immutable Brahma. Listen now,
+© monarch, to the indications of one that is in Yoga. All the indications
+of cheerful contentment that are his who is slumbering in contentment
+are seen in the person, that is in Samadhi. The person in Samadhi,
+the wise say, looks like the fixed and upward flame of a lamp that is
+full of oil and that burns ina breezeless spot. He is like a rock which
+is incapable of being moved in the slightest degree by evera heavy
+downpour from the clouds. He is incapable of being moved by the din
+of conches and drums, or by songs or the sound of hundreds of musical
+
+1 It is difficult for those who do not practise Pranayama to under-
+stand this fully. The fact is, Saguna Pranayama, when the breath is in-
+haled, the inhalation is measured by the time taken up in mentally reciting
+a well-known mantra. So when inhaled breath is suspended, the suspension
+is measured by the time taken in mentally reciting a particular mantra,
+When, therefore, the suspended breath should be exhaled, it should be done
+by similarly measuring the time of exhaling For beginners, this Saguna
+Pranayama is recommended. Of course only exhalation has been spoken of
+but it applies equally to inhalation and suspension, These three processes,
+in Yoga language, are Puraka, Kumbbaka, and Rechaka.—T, 7
+
+2 ‘Ekantasilin’ means a ‘Sannyasin’; ‘atmarama’is one who takes
+pleasure in one’s soul instead of in spouses and ohildren.—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 49
+
+406 MAHABHARATA
+
+instruments beat or blown together. Even this is the indication of one
+in Samadhi. As a man of cool courage and determination, while ascend-
+ing a flight of steps with a vessel full of oil in his hands, does not spill
+even a drop of the liquid if frightened and threatened by persons armed
+with weapons éven so the Yogin, when his mind has been concentrated
+and when he beholds the Supreme Soul in Samadhi, does not, in conse-
+quence of the entire stoppage of the functions of his senses at sucha
+time, move in the slightest degree. Even these should be known to be
+the indication of the Yogin while he is in Samadhi. While in Samadhi,
+the Yogin beholds Brahma which is Supreme and Immutable, and which
+is situated like a blazing Effulgence in the midst of thick Darkness. It
+is by this means that he attains, after many years, to Emancipation
+after casting off this inanimate body. Even this is what the eternal
+Sruti declares. This is called the Yoga of the Yogins, What else is it ?
+Knowing it, they that are endued with wisdom regard themselves as
+crowned with success,—
+
+SECTION CCCXVIII
+
+‘Yajnavalkya said,—Listen now to me, with attention, O king, as
+to what the places are to which those who die have to go. Ifthe
+Jiva-soul escapes through the feet, it is said that the man goes to
+the region of the Vishnu. If through the calves, it has been
+heard by us, that the man repairs to the regions of the Vasus.
+If through the knees, he attains to the companionship of
+those deities thit are called Sadhyas. If through the lower duct,
+the man attains to the regions of Mitra. If through the posteriors,
+the man returns to the Earth, and if through the thighs to the
+
+region of Prajapati. If through the flanks, the man attains to the
+regions of the Maruts, and if through the nostrils, to the region of
+Chandramas. If through thearms, the man goes to the region of
+
+Indra, and if through the chest, to that of Rudra, If through the
+neck, the man repairs to the excellent region of that foremost of
+
+asceties known bythe nameof Nara. If through the mouth. the
+man attains to the region of the Viswadevas and if through the ears,
+to the region of the deities of the several points of the horizon. If
+
+through the nose, the man attains tothe region of the Windgod;
+and if through the eyes, to the region of Agni. If through the brows,
+the man goes to the region of the Aswins ; and if through the forehead,
+to that of Pitris. If through the crown of the head, the man attains to
+the region of the puissant Brahman, that foremost of the gods. v4
+have thus told thee. Oruler of Mithila, the several places to which
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 50
+
+SANTI PARVA 457
+
+men repair according to the manner in which their Jiva-souls escape
+from their bodies, I shall now tell thee the premonitory indication, as
+Jaid down by the wise of those who have but one year to live. One
+who, having previously seen the fixed star called Arandhati, fails to see
+it, or that other star called Dhruva,’ or one that sees the full Moon or
+the flame of a burning lamp to be broken towards the south, has but
+one year to live. Those men, O king, who can no longer see images of
+themselves reflected in the eyes of others, have but one year to live.
+One who being endued with lustre loses it, or being endued with
+wisdom loses it,—indeed, one whose inward and outward nature is thus
+changed,—has but six months more to live. He who disregards the
+deities, or quarrels with the Brahmanas, or one who being naturally of
+adark complexion becomes pale of hue, has but six months more to
+live. One who, sees the lunar disc to have many holes like a spider's
+web or one who sees the solar disc to have similar holes, has bute one
+weak more to live, One who, when smelling fragrant scents in place
+of worship, perceives them to be as offensive as the scent of corpses,
+has but one week more to live. The depression of the nose or of the
+ears, the discolour of the teeth or of the eye, the loss of all consciousness,
+and the loss also of all animal heat, are symptoms indicating death that
+very day. If, without any perceptible cause a stream of tears suddenly
+flows from one’s left eye, andif vapours be seen to issue from one’s
+head, that is a sure indication that the man will die before chat day
+expires. Knowing all these premonitory symptoms, the man of cleansed
+soul should day and night unite his soul with the Supreme Soul (in
+Samadhi). Thus should he go on till the day comes tor kis dissolution.
+If, however, instead of wishing to die he desires to live in this world,
+he casts off all enjoyments,—all scents and tastes,—O king, and lives on
+in abstinence. He thus conquers death by fixing his soul on the
+Supreme Soul. Indeed, the man who is blessed with knowledge of the
+Soul, O monarch, practises the course of life recommended by the
+Sankhyas and conquers death by uniting his soul with the Supreme Soul.
+At last, he attains to what is entirely indestructible, which is without
+birth, which is auspicious, and immutable, and eternal, and stable,
+and which is incapable of being attained to by men of uncleansed
+souls.-—
+
+1 The pole-star.—T.
+
+58 Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 51
+
+SECTION CCCXIX
+
+“Yajnavalkya said,—Thou hast asked me, O monarch, of that
+Supreme Brahma which resides in the Unmanifest. Thy question
+relates toa deep mystery. Listen to me with close attention, O king!
+Having conducted myself with humility according to the ordinances
+laid down by the Rishis I obtained the Yajushes, O king, from Surya.
+Without the austerest penances I formerly adored the heat-giving deity.
+The puissant Surya, O sinless one, gratified with me, saying,—Solicit
+thou, O regenerate Rishi, the boon upon which thou hast set thy
+heart, however difficult it may be of acquisition. I shall, with cheer-
+ful Soul, grant it to thee. It is very difficult to incline me to grace !—
+Bowing unto him with a bend of my head, that foremost of heat-giving
+luminaries was addressed by me in these words,—I have no knowledge
+of the Yajushes. I desireto know them without loss of time !—The
+holy one, thus solicited, told me,—I shall impart the Yajushes- unto
+thee. Made up of the essence of speech, the goddess Saraswati will
+enter into thy body,—The deity then commanded me to open my
+mouth, I did as I was commanded. The goddess Saraswati then
+entered into my body, O sinless one, At this, I began to burn.
+Unable to endure the pain I plunged into a stream. Not understanding
+that what the high-souled Surya had done for me was for my good,
+I became even angry with him. While I was burning with the energy
+of the goddess, the holy Surya told me,—Do thou endure this burning
+sensation for only a little while. That will soon cease and thou wilt be cool.
+Indeed I became cool. Seeing me restored to ease, the Maker of light said
+unto me,—The whole Vedas, with even those parts that are regarded
+as its appendix, together with the Upanishads, will appear in thee
+by inward light, O regenerate one! The entire Satapathas also thou
+wilt edit, O foremost of regenerate ones. After that, thy understand-
+ing will turn to the path of Emancipation, Thou wilt also attain
+to that end which is desirable and which is coveted by both Sankhyas
+and Yogins!—Having said these words unto me, the divine Surya
+proceeded to the Asta hills, Hearing his last words, and after he
+had departed from the spot where I was, I came home in joy and then
+remembered the goddess Saraswati. Thought of by me, the auspi-
+cious Saraswati appeared instantly before my eyes, adorned with all
+the vowels and the consonants and having placed the syllable Om in
+the van. I then, according to the ordinance, offered unto the
+goddess the usual Arghya, and dedicated another to Surya, that
+foremost of all heat-giving deities. Discharging this duty I took
+my seat, devoted to both those deities. Thereupon the entire Sata-
+patha Brahmanas, with all their mysteries and with all their abstracts
+as also their appendices, appeared of themselves before my mental
+
+a
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 52
+
+SANTI PARVA 459
+
+vision, at which I became filled with great joy.’ I then taught
+them to a hundred good disciples and thereby did what was’ disa-
+greeable to my high-souled maternal uncle (Vaisampayana) with
+the disciples gathered round him.? Then shining in the midst of my
+disciples like the Sun himself with his rays, I took the management
+of the Sacrifice of thy high-souled sire, O king. In that Sacrifice
+adispute arose between me and my maternal uncle as to who should
+be permitted to appropriate the Dakshina that was paid for the recita-
+tion of the Vedas. In the very presence of Devala, I took half of that
+Dakshina, (the other half going to my maternal uncle). Thy sire and
+Sumanta and Paila and Jaimini and other articles all acquiesced in that
+arrangement.®
+
+“I had thus got from Surya the five times ten Yajushes, O
+monatch. I then studied the Puranas with Romaharshan. Keeping
+before me those (original) Mantras and the goddess Saraswati, I then,
+O king, aided by the inspiration of Surya, set myself to compile the
+excellent Satapatha Brahmanas, and succeeded in achieving the task
+never before undertaken by any one else. That path which I had
+desired to take has been taken by me and I have also taught it to
+my disciples» Indeed, the whole of those Vedas with their abstracts
+have been imparted by me to those disciples of mine. Pure in mind
+and body, all those disciples have, in consequence of my instructions,
+become filled with joy. Having established (for the use of others)
+this knowledge consisting of fifty branches which I had obtained
+from Surya, I now meditate on the great object of that knowledge viz,,
+(Brahma). The Gandhatva Viswavasu, well conversant with the Vedan-
+ta scriptures, desirous, O king, of ascertaining what is beneficial for the
+Brahmanas in this knowledge and what truth occurs in it, and what
+is the excellent object of this knowledge, once questioned me. He put
+
+1 ‘Chakre' literally means ‘I made.’ The Commentator explains it as equivalent
+to'swayam avirabhut.'—T.
+
+2 'Vipriya’ evidently means ‘what is not agreeable.’ There was evidently a
+dispute between Yajnavalkya and his maternal uncle Vaisampayana, the celebrated
+disciple of Vyasa. This dispute is particularly referred co in the next Verse.
+Vaisampayana had been a recognised teacher of the Vedas and had collected a large
+number of disciples around him. When, therefore, the nephew Yajnavalkya, having
+obtained the Vedas from Surya, began to teach them, he was naturally looked upon
+with a jealousy, which culminated (as referred to in the next Verse) into an open
+dispute about the Dakshina to be appropriated in the Sacrifice of Janaka. The Burdwan
+translator incorrectly renders the word ‘vipriya’ which he takes to mean as ‘very
+agreeable.’ Inthe Vishnu Purana it is mentioned that a dispute took place between
+Yajnavalkya and Paila. The latter's preceptor, Vyasa, came, and taking his side,
+asked Yajnavalkya to return him the Vedas which he had obtained from him.
+Yajnavalkya vomitted forch the Vedas. These were instantly devoured by two other
+Rishis in the form of Tittiri birds. These afterwards promulgated the Taittiriya
+Upanishads.—T.
+
+3 This shows that I was then regarded as the equal of Vaisampayana himself in
+the matter of Vedic knowledge. Sumanta and Paila and Jaimini, with Vaisampayana,
+were the rishis that assisted the great Vyasa in the task of arranging the Vedas.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 53
+
+460 MAHABHARATA
+
+to me altogether four and twenty questions, O king, relating to the
+Vedas, Finally, he asked me a question, numbered twenty-fifth which
+relates to that branch of knowledge which is concerned with the
+inferences of ratioscination. Those questions are as follow :—What
+is universe and what is not-universe ? What is Aswa and what Aswa ?
+What is Mitra? What is Varuna? What is Knowledge? What is
+Object of knowledge ? What is Unintelligent ? What is Intelligent ?
+Who is Kah? Who is possessed of the principle of change? Who
+is not possessed of the same? What is he that devours the Sun
+and what is che Sun? What is Vidya and what is Avidya ?
+What is Immobile and what Mobile? What is without beginning,
+what is Indestructible, and what is Destructible? These were the
+excellent questions put to me by that foremost of Gandharvas- After
+king Viswavasu, that foremost of Gandharvas, had asked me these
+questions one after another, I answered them properly. At first,
+however, I told him,—Wait for a brief space of time, till I reflect on
+thy questions !—So be it, Gandharva said, and sat in silence. I then
+thought once again of the goddess Saraswati in my mind. The replies
+then to those questions naturally arose in my mind like butter from
+curds. Keeping in view the high science of inferential ratioscination,
+I churned with my mind, O monarch, the Upanishads and the
+supplementary scriptures relating to the Vedas. The fourth science
+then that treats of Emancipation, O foremost of kings, and on which
+I have: already discoursed to thee, and which is based upon the
+twenty-fifth, viz. Jiva, 1 then expounded to him.’ Having said all
+this, O monarch, to king Viswavasu, I then addressed him, saying
+Listen now to the answers that I give unto the several questions that
+thou hast put to me- I now turn to the question which, O Gandharva,
+thou askest, viz.—What is Uuniverse and what is not-universe ?—
+The Universe is Unmanifest and original Prakriti endued with the
+principles of birth and death which are terrible (to those that are
+desirous of Emancipation). It is, besides, possessed of the three
+attributes (of Sattwa, Rajas, and Tamas), in consequence of its produ-
+cing principles all of which are fraught with those attributes.2, That
+which is Not-universe is Purusha divested of -all attributes. By
+Aswa and Aswa are meant the female andthe male, the former
+is Prakriti and the latter is Purusha. Similarly, Mitra is Purusha,
+
+1 This is called the Fourth Science, the three others being the three Vedas,
+Agriculture, and the Science of Morality and Chastisement.—T.
+
+2 Prakriti is regarded as something in which Sattwa, Rajas, and Tamas reside in
+
+exactly equal proportion. All the principles of Mahat, &c., which flow from Prakriti,
+are characterised by these three attributes in diverse measure.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 54
+
+SANTI PARVA 461
+
+and Varuna is Prakriti’ Knowledge, again, is said to be Prakriti.
+while the object to be known is called Purusha. The Ignorant (Jiva),
+and the Knowing or Intelligent are both Purusha without attributes (for
+it is Purusha that becomes Jiva when invested with Ignorance). Thou
+hast asked what is Kah, who is endued with change and who is unendued
+therewith. I answer, Kah is Purusha.? That which is endued with
+change is Prakriti. He that is not endued therewith is Purusha.
+Similarly, that which is called Avidya (the unknowable) is Prakriti ;
+and that which is called Vidya is Purusha, Thou hast asked me
+about the Mobile and the Immobile. Listen to what my
+answer is. That which is mobile is Prakriti, which undergoing
+modification, constitutes the cause of Creation and Destruction,
+The Immobile is Purusha, for without himself undergoing modi-
+fications he assists at Creation and Destruction. (According to a
+different system of philosophy) that which is Vedya is Prakriti;
+while that whichis Avedya isPurusha. Both Prakriti and Purusha
+are said to be unintelligent, stable, indestructible, unborn, and
+eternal, according to the conclusions arrived at by philosophers
+conversant, with the topics included in the name of Adhyatma. In
+consequence of the indestructibility of Prakriti in the matter of
+Creation. Prakriti, which is unborn, is regarded as not subject to
+decay or destruction. Purusha, again, is indestructible and unchange-
+able, for change it has none. The attributes that reside in Prakriti are
+destructible, but not Prakriti herself. The learned, therefore, call
+Prakriti indestructible. Prakriti also, by undergoing modifications,
+operates as the cause of Creation. The created results appear and dis-
+appear, but not original Prakriti. Hence also is Prakriti called
+indestructible. Thus have I told thee conclusions of the fourth Science
+based on the principles of ratiocinative inference and having Emanci-
+pation for its end. Having acquired by the science of ratiocinative
+inference and by waiting upon preceptors, the Rich, the Samans, and
+the Yajushes, all the obligatory practices should be observed and all the
+Vedas studied with reverence. O Viswavasu! O foremost of Gandhar-
+vas, they who study the Vedas with all their branches but who do not
+know the Supreme Soul from which all things take their birth and
+into which all things merge when destruction comes, and which is the
+one object whose knowledge the Vedas seek to inculcate,—indeed,
+they who have no acquaintance with that which the Vedas seek
+to establish,_study the Vedas to no purpose and bear their
+burthen of such study in vain. Ifa person desirous of butter churns
+
+1 By Mitra is meant here the deity giving light and heat. By Varuna is meant
+the waters that compose the universe.—T.
+
+2 ‘Kah’, the commentator explained, is ‘anandah' or felicity.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 55
+
+462 . MAHABHARATA
+
+the milk of the she-ass, without finding what he seeks he simply meets
+with a’substance that is as foul of smell as ordure. After the same
+manner, if one, having studied the Vedas, fails to comprehend what
+is Prakriti and what is Purusha, one only proves one’s. own
+foolishness of understanding and bears a useless burthen (in
+the form of Vedic lore). One should, with devoted attention, reflect
+on both Prakriti and Purusha, so that one may avoid repeated birth and
+death. Reflection upon the fact of one’s repeated births and deaths and
+avoiding the religion of acts that is productive at best of destructible
+results, one should betake oneself to the indestructible religion of Yoga.
+O Kasyapa, if one continuously on the nature of the Jiva-soul and
+its connection with the Supreme Soul, one then succeeds in divesting
+oneself on all attributes and in beholding the Supreme soul.
+The Eternal and Unmanifest Supreme Soul is regarded by men of
+foolish understandings to be different from the twenty-fifth or the Jiva-
+soul. They are endued with wisdom that behold both these as truly one
+and the same. Frightened at repeated births and deaths, the Sankhyas
+and Yogins regard the Jiva-soul and the Supreme Soul to be one and the
+same.— "
+
+"'Viswavasu then said,—Thou hast, O foremost of Brahmanas,
+said that Jiva-soul is indestructible and truly undistinguished from the
+Supreme Soul. This, however, is difficult to understand. It behoveth
+thee toonce more discourse on this topic tome. I have heard dis-
+courses on this subject from Jaigishavya. Aista,s Devala, the regenerate
+sage Parasara, the intelligent Varshaganya, Bhrigu, Panchasikha,
+Kapila, Suka, Gautama, Arshtisena, the high-souled Garga, Narada,
+Asuri, the intelligent Paulastya, Sanatkumara, the high-souled Sukra,
+and my sire Kasyapa. Subsequently I heard. the discourses of Rudra
+and the intelligent Viswarupa, of several of the deities, of the Pitris,
+and the Daiteyas. I have acquired all that they say, for they generally
+discourse that eternal object of all knowledge. I desire, however, to
+hear what thou mayst say on those topics with the aid of thy intelligence.
+Thou art the foremost of all persons, anda learned lecturer on the
+scriptures, and endued with great intelligence. There is nothing that
+is unknown to thee. Thou art an ocean of the Srutis, as described, O
+Brahmana, in the world of both the deities and Pitris. The great Rishis
+residing in the region of Brahma say that Aditya himself, the eternal
+lord of all luminaries, is thy preceptor (in the matter of this branch of
+knowledge). O Yajnavalkya, thou hast obtained the entire science, O
+Brahmana, of the Sankhyas, as also the scriptures of the Yogins in
+
+1 The comparison lies in the folly of the two persons indicated. One churning
+aas's milk for butter is only a fool. Similatly, one failing to understand the nature of
+Prakriti and Purusha from the Vedas is only a fool.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 56
+
+SANTI PARVA 463
+
+particular, Without doubt, thou art enlightened, fully conversant
+with the mobile and immobile universe. I desire to hear thee discourse
+on that knowledge, which may be likened to clarified butter endued
+with solid grains.
+
+““Yajnavalkya said—thou art, O foremost of Gandharvas,
+competent to comprehend every knowledge. As, however, thou
+askest me do thou hear me then discourse to thee according as I
+myself have obtained it from my preceptor. Prakriti, which is
+unintelligent, is apprehended by Jiva. Jiva, however, cannot be
+apprehended by Prakriti, O Gandharva. In consequence of
+Jiva being reflected in Prakriti, the latter is called Pradhana
+by Sankhyas and Yogins conversant with the original
+principles as indicated in the Srutis. O sinless one, the other,
+beholding, beholds the twenty-fourth (Prakriti) and the twenty-fifth
+(Soul) ; not beholding, ic bebolds the twenty-sixth.’ The twenty-fifth
+thinks that there is nothing higher than itself. In reality, however,
+though beholding, it does not behold that (viz, the Twenty-sixth)
+which beholds it-? Men possessed of wisdom should never accept the
+Twenty-fourth (viz, Prakriti, which is unintelligent or inert) as
+identifiable with the Twenty-fifth or the Soul which has a real and
+independent existence. The fish live in water. It goes thither
+impelled by its own nature. As the fish, though living in the water,
+is to be regarded as separate from it, after the same manner is the
+Twenty-fifth to be apprehended, (i.e, though the Twenty-fifth exists
+in a state of contact with the Twenty-fourth or Prakriti, it is, however,
+in its real nature, separate from and independent of Prakriti. When
+overwhelmed with the consciousness of meum or Self, and when
+unable to understand its identity with the Twenty-sixth, in fact, in
+consequence of the illusion that invests it, of its co-existence with
+Prakriti, and of its own manner of thinking, the Jiva-soul always
+
+1 Igivea literal rendering of this Verse for showing how difficule it is to under-
+stand the meaning. The Commentator correctly explains the sense which is as follows :
+‘anyah' or the other is the Soul as distinguished from its reflection upon Prakriti, that
+is the Soul in its real character as independent of Prakriti, What is said here is that
+when the Soul, in its real character beholds, or acts as a witness of everything (ise.
+asexists inthe states of wakefulness and dream), becomes conscious of both itself
+(che Iwenty-fifth) and Prakriti (the Twenty fourth) when, however, it ceases to behold
+or act as such witness (i.e. in the state of dreamless slumber of Yoga-samadhi), it
+succeeds in beholding the Supreme Soul or the Twenty-sixth. In simple language what
+is said here is that the Soul becomes conscious of both itself ard Prakritiin the state
+of wakefulnessand dream. In Samadhi alone, it beholds the Supreme Soul.—T.
+
+2 What is said here is that the Twenty-sixth or the Supreme Soul always beholds
+the Twentyefifth or the Jivasoul. The latter, however, filled with vanity, regards
+that there is nothing higher than it. It can ‘easily, in Yogasamadhi, behold the
+Twenty.sixth. Though thus competent to behold the Supreme Soul, it fails ordinarily
+to behold it. The Commentator sees in this Verse a reputation of the doctrine of the
+Charvakas and the Saugatas who deny that there is a Twenty sixth Tattwa or evena
+Twenty fifth which they identify with the Twenty fourth —T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 57
+
+464 MAHABHARATA
+
+skins down, but when freed from such consciousness it goes upwards,
+When the Jiva-soul succeeds in apprehending that it is one, and
+Prakriti with which resides is another, then only does it, O regenerate
+one, succeed in beholding the Supreme Soul and attaining to the condi-
+tion of Oneness with the universe. The Supreme is one, O king, and
+the Twenty-fifth (or Jiva-soul) is another. In consequence, however,
+of the Supreme overlying the Jiva-soul the wise regard both to be one
+and the same? For these reasons, Yogins, and followers of
+the Sankhya system of philosophy, terrified by birth and death,
+blessed with sight of the Twenty-sixth, pure in body and mind,
+and devoted to the Supreme Soul, and do not welcome the Jiva-
+soul as indestructible? When one beholds the Supreme Soul and
+losing all consciousness of individuality becomes identified with the
+Supreme, one then becomes omniscient, and possessed of such omni-
+science one becomes freed from the obligation of rebirth, I have thus
+discoursed to thee truly, sinless one, about Prakriti which is unintelli-
+gent, and Jiva-soul which is possessed of intelligence, and the Supreme
+Soul which is endued with omniscience, according to the indications
+occurring in the Srutis. That man who beholds not any difference
+between the knower of the known, is both Kevala and not Kevala, is
+the original cause of the universe, is both Jiva-soul and the Supreme
+Soul, —
+
+“ *Viswavasu said_—O puissant one, thou hast duly and adequately
+discoursed on that which is the origin of all the deities and which is
+productive of Emancipation. Thou hast said what is true and excellent.
+May inexhaustible blessings always attend thee, and may thy mind be
+ever united with intelligence !—
+
+""Yajoavalkya continued,—Having said those words, the prince
+of Gandharvas proceeded towards heaven, shining in resplendence
+of beauty. Before leaving me, the high-souled one duly honoured me
+
+1 ‘Tatsthanat’ is explained by the Commentator as ‘Varasya avaradhisthanat,
+ies in consequence of ‘vara’ overlying the ‘avara.’ The instance of the string and
+the snake iscited. At first the string is erroneously taken for the snake. When the
+error is dispelled, the string appears as the string, Thus the Supreme and the Jiva soul
+come to be taken as one when true knowledge comes.—T.
+
+2 The ordinary doctrine is that the Jiva soul is indestructible, for it is both
+unborn and deathless, its so called births and deaths being only changes of the forms
+which Prakriti undergoes in course of her association with it, an association that
+continues as long as the Jiva-soul does not succeed in effecting itsemancipation. In
+this Verse the ordinary doctrine is abandoned. What is said here is that the Jiva-soul
+is not deathless, for when it becomes identified with the Supreme Soul, that alteration
+may be taken as its death—T.
+
+3. This is a very difficult Verse sya’ and ‘apasya’ are ‘drashtri‘ and ‘drisya’,
+knower and known (or Soul and Prakriti)*Kshemaya’ and ‘Tattwa are ‘drik’ and ‘drisya
+iw., knowledge and known. One that seesno difference between these that is, one
+that regards all things as one and the same, is both "Kevala’ and ‘not-Kevale," &o,
+meaning that such a person, though still appearing as a Jiva (to others) isin reality
+identifiable with the Supreme Soul.—
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 58
+
+SANTI PABVA 465
+
+me by taking the accustomed turns round my person, and I looked upon
+him, highly pleased. He inculcated the science he had obtained from
+me unto those celestials that dwell in the regions of Brahman and other
+deities, unto those that dwell on Earth, unto also the denizens of the
+nether regions, and unto them that had adopted the path ot Emancipa-
+tion, Oking. The Sankhyas are devoted to the practices of their system.
+The Yogins are devoted to the practices inculcated by their system,
+Others there are that are desirous of achieving their Emancipation.
+Unto these latter this science is productive of visible fruits, O lion
+among king. Emancipation flows from Knowledge. Without Knowledge
+it can never be attained. The wise have said it, O monarch. Hence,
+one should strive one’s best for acquiring true Knowledge in all its
+details, by which one may succeed in freeing oneself from birth and
+death, Obtaining knowledge from a Brahmana or a Kshatriya or Vaisya
+or evenaSudra who is of low birth, one endued with faith should
+always show reverence for such knowledge. Birth and death cannot
+assail one that is endued with faith. All orders of men are Brahmanas.
+All are sprung from Brahma. All men utter Brahma.? Aided by an
+understanding that is derived from and directedto Brahma. I inculcated
+this science treating of Prakriti and Purusha. Indeed, this whole
+universe is Brahma. From the mouth of Brahma sprung the Brahmanas;
+from his arms, sprung the Kshatriyas ; from his navel, the Vaisya ; and
+from his feet, the Sudras. All the orders, (having sprung in this way)
+should not be regarded as pilfering from one another. Impelled by
+Ignorance, all men meet with death and attain, O king, to birth that is
+the cause of acts.?_ Divested of Knowledge, all orders of men, dragged
+by terrible Ignorance, fall into varied orders of being due to the princi-
+ples that flow from Prakriti. For this reason, all should, by every means,
+seek to acquire Knowledge. I have told thee that every person is entit-
+led to strive for its acquisition. One that is possessed of Knowledge is a
+Brahmana. Others, (viz., Kshatriyas and Vaisyas and Sudras) are possess-
+ed of knowledge. Hence, this science of Emancipation is always open
+to them all. This, O king has been said by the Wise. The questions thou
+hadst asked me have all been answered by me agreeably to the truth.
+Do thou, therefore, cast off all grief. Go thou to the other end of this
+enquiry. Thy questions were good. Blessings on thy head for ever !—
+
+1 This may mean that as men spesk, and as speech is Brabma, all
+men must be regarded as utterers of Brahma. It, again, Brabma bs taken
+to mean the Vedas in special, it may imply that all men utter the Vedas or
+are competent to study the Vedas. Such an exceedingly liberal sentiment
+from the mouth of Yajnavalkya is compatible only with the religion of
+Emancipation which he taught.—T.
+
+2 The doctrine is that unless acts are destroyed, there can be no
+Emancipation.—T.
+
+Downloaded from https://www.holybooks.com
+59 https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 59
+
+466 MAHABHARATA
+
+“Bhishma continued—Thus instructed by the intelligent Yajnavalkya
+the king of Mithila became filled with joy. The king honoured that
+foremost of ascetics by walking round his person. Dismissed by the
+monarch, he departed from his court. King Daivarati, having obtained
+the knowledge of the religion of Emancipation, took his seat, and touch-
+ing a million of kine and a quantity of gold and a measure of gems and
+jewels, gave them away unto a number of Brahmanas. Installing his
+son inthe sovereignty of the Videhas, the old king began to live,
+adopting the practices of the Yatis. Thinking mainly of all ordinary
+duties and their derelictions (as laid down in the scriptures), the king
+began to study the science of the Sankhyas and the Yogins in their
+entirety. Regarding himself to be Infinite, he began to reflect on only
+the Eternal and Independent One. He cast off allordinary duties and
+their derelictions, Virtue and Vice, Truth and Falsehood, Birth and
+Death, and all other things appertaining to the principles produced by
+Prakriti. Both Sankhyas and Yogins, agreeably to the teachings of their
+sciences, regard this universe to be due to the action of the Manifest
+and the Unmanifest. The learned say that Brahma is freed from good
+and evil, is self-dependent, the highest of the high, Eternal, and Pure.
+D.» thou, therefore, O monarch, become Pure! The giver, the receiver
+of the gift, the gift irself, and that which is ordered to be given away,
+areall to be deemed as the unmanifest Soul. The’ Soul is the Soul's
+one possession. Who, therefore, can be a stranger toone? Dothou
+think always in this way. Never think otherwise. He who does not
+know what 1s Prakriti possessed of attributes and what is Purusha trans-
+cending attributes, only he, not possessed as he is of knowledge, repairs
+tos:cred waters and performs sacrifices. Not by study of the Vedas,
+not by penances, not by sacrifices O son of Kuru, can one attain to the
+status of Brahma. Only when one succeeds in apprehending the
+Supreme or Unmanifest, one comes to be regarded with reverence. They
+who wait upon Mahat attain to the regions of Mahat. They who wait
+upon Consciousness, attain to the spot that belongs to Consciousness,
+They wh» wait upon what is higher attain to places that are higher than
+these. Those persons, learned in the scriptures, who succeed in appre-
+hending Eternal Brahma who is higher than Unmanifest Prakriti,
+succeed in obtaining that which transcends birth and death, which is
+free from attributes, and which is both existent and nonexistent I got
+all this knowledge from Janaka. The latter had obtained it from Yajna-
+valkya. Knowledge is very superior, Sacrifices cannot compare with
+it. With the aid of Knowledge one succeeds in crossing the world’s
+ocean which is full of difficulties and dangers. One can never cross
+that ocean by means of sacrifices, Birth and death, and other impedi-
+ments, O king, men of knowledge say, one cannot pass over by ordinary
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 60
+
+BANTI PARVA 467
+
+éxertion.! Men attain to heaven through sacrifices, penances, vows,
+and observances. But they have again to fall down therefrom on the
+Earth. Do thou, therefore, adore with ‘reverence that which is
+Supreme, most pure, blessed, stainless, and sacred, and which transcends
+all states (being Emancipation itself), By apprehending K-hetra, O
+king, and by performing the Sacrifice that consists in the acquisitiow of
+Knowledge, thou wilt really be wise. In former time, Yajnavalkva did
+that good to king Janaka which is derivable from a study of the
+Upanishads. The Eternal and Immutable Supreme was the topic about
+which the great Rishi bad discoursed to the king of Mithila. It enabled
+him to attain to that Brahma which is auspicious, and immoral, and
+which transcends all kinds of sorrow.”
+
+SECTION CCCXX
+
+“Yudhishthira said—'Having acquired great power and great
+wealth, and having obtained a long period of life, how may one succeed
+in avoiding death? By which of these means, viz, penances, or the
+accomplishment of the diverse acts (laid down in the Vedas), or by
+knowledge of the Srutis, or the application of medicines, can one succeed
+in avoiding decrepitude and death ?
+
+“Bhishma said,—‘In this connection is cited the old narrative of
+Panchasikha who was a Bhikshu in his practices and Janaka. Once ona
+time Janaka, the ruler of the Videhas, questioned the great Rishi Pancha-
+sikha, who was the foremost of all persons conversant with the Vedas
+and who had all his doubts removed in respect of the purpose and
+import of all duties. The King said—By what conduct, O holy one may
+one transcend Decrepitude and death? Itis by penances, or by the
+understanding, or by religious acts (like sacrifices and vows), or by
+study and knowledge of the scriptures ?—Thus addressed by the ruler of
+the Vedas the learned Panchasikha, conversant with all invisible things,
+answered, saying,—There is no prevention of these two (viz,, decrepitude
+and death) ; nor is it true that cannot be prevented under any circums=
+tances. Neither days, nor nights, nor months, cease to go on. Only that
+man, who, though transitory, betakes himself to the eternal path (of the
+religion of Nivritti or abstention from all acts) succeedsin avoiding birth
+and death. Destruction overtakes, all creatures. All creatures seem to
+be ceaselessly borne along the infinite current of time. Those that are
+borne along the infinite current of time which is without a raft (to
+rescue) and which is infested by those two mighty alligators, viz., decre-
+pitude and death, sink down without anybody coming to their assistance,
+
+1 Literally, ‘these are not obstacles by external nature,’ and are
+therefore irremovable by personal exertion of the ordinary kind.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 61
+
+468 MAHABHARATA
+
+As one is swept along that current, one fails to find any friend for help
+and one fails to be inspired with interest for any one else. One meets
+with spouses and other friends only onone’s road. One had never before
+enjoyed this kind of companionship with any one for any length of time.
+Creatures, as they are borne along the current of time, become repea-
+tedly attracted towards one another like masses of clouds moved by the
+wind meeting one another with loud sound. Decrepitude and death are
+devourers of all creatures, like wolves. Indeed, they devour the strong
+and the weak, the short and the tall. Among creatures, therefore,
+which are all so transitory, only the Soul exists eternally. Why should
+he, then, rejoice when creatures are born and why should he grieve when
+they die? Whence have I come. WhoamI? Whither shall I go?
+Whose amI? Before what doI rest? What Shall Ibe? For what
+reason then dost thou grieve for what ? Who else then thou wilt behold
+heaven or hell (for what thou doest)? Hence, without throwing aside
+the scriptures, one should make gifts and perform sacrifices !—"
+
+SECTION CCCXXI
+
+“Yudhishthira said,—'Without abandoning the domestic mode of
+life,.O royal sage of Kuru’s race, who ever attained to Emancipation
+which is the annihilation of the Understanding (and the other faculties)?
+Do tell me this! How may the gross and the subtile form be cast off ?
+Do thou also, O grandsire, tell me what the supreme excellence of
+Emancipation is.’
+
+“Bhishma said—'In this connection is cited the old narrative of
+the discourse between Janaka and Sulabha, O Bharata! In days of yore
+there was a king of Mithila, of the name of Dharmadhyaja, of Janaka’s
+race. He was devoted to the practices of the religion of Renunciation.
+He was well conversant with the Veda, with the scriptures on Emanci-
+pation, and with the scriptures bearingon his own duty asa king.
+Subjugating his senses, he ruled this Earth. Hearing of his good
+behaviour in the world, many men of wisdom, well-conversant with
+wisdom, O foremost of men, desired to imitate him. In the same Satya
+Yuga, a woman of the name of Sulabha, belonging to the mendicant
+order, practised the duties of Yoga and wandered over the whole Earth.
+In course of her wanderings over the Earth, Sulabha heard from many
+Dandis of different places that the ruler of Mithila was devoted to the
+religion of Emancipation. Hearing this report about king Janaka and
+desirous of ascertaining whether it was true or not, Sulabha became
+desirous of having a personal interview with Janaka. Abandoning, by
+her Yoga powers, her former form and features, Sulabha assumed the
+most faultless features and unrivalled beauty. In the twinkling of an
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 62
+
+SANTI PARVA 469
+
+eye and with the speed of the quickest shaft, the fair-browed lady of
+eyes like lotus-petals repaired to the capital of the Videhas. Arrived
+at the chief city of Mithila teeming with a large population, she adopted
+the guise of a mendicant and presented herself before the king. The
+monarch, beholding, her delicate form, became filled with wonder and
+enquired who she was, whose she was, and whence she came. Welcom-
+ing her, he assigned her an excellent seat, honoured her by offering
+water to wash her feet, and gratified her with excellent refreshments.
+Refreshed duly and gratified with the rites of hospitality offered unto
+her, Sulabha, the female mendicant, urged the king, who was surrounded
+by his ministers and seated in the midst of learned scholars, (to declare
+himself in respect of his adherence to the religion of Emancipation).
+Doubting whether Janaka had succeeded in attaining to Emancipa-
+tion, by following the religion of Nivritti, Sulabha, endued with Yoga-
+power, entered the understanding of the king by her own understanding.
+Restraining, by means of the rays of light that emanated from her own
+eyes, the rays issuing from the eyes of the king, the lady, desirous of
+ascertaining the truth, bound up king Janaka with Yoga bonds.’ That
+best of monarch, priding himself upon his own invincibleness and defeat-
+ing the intentions of Sulabha seized her resolution with his own
+resolution.?- The king, in his subtile form, was without the royal
+umbrella and sceptre. The lady Sulabha, in hers, was without the
+triple stick. Both staying then in the same (gross) form, thus conversed
+with each other. Listen to that conversation as it happened between
+the monarch and Sulabha.
+
+“Janaka said,—O holy lady, to what course of conduct art thou
+devoted? Whose art thou? Whence hast thou come? After finishing
+thy business here, whither wilt thou go ? No one can, without question-
+ing, ascertain another’s acquaintance with the scriptures, or age, or
+order of birth. Thou shouldst, therefore, answer these questions of
+mine, when thou has come to me. Know that I am truly freed from all
+vanity in respect of my royal umbrella and sceptre. I wish to know
+thee thoroughly. Thou art deserving, I hold, of my respect-? Do thou
+listen to meas I speak to thee on Emancipation for there is none else
+(in this world) that can discourse to thee on that topic. Hear me also
+I tell thee who that person is from whom in days of old I acquired this
+
+1 ‘Sanchodayishyanti’ implies 'queetioned.’ Here it means questioning
+the king internally or by Yoga power.—T.
+
+2 ‘Utemayan’ is explained by the Commentators as 'priding himself
+upon his own invincibleness.’ ‘Ayaya bhavam’ implies ‘her determination
+to make the king dumb’ ‘Viseshayan’ is abhibhavan.—
+
+3 ‘Sammantum’ is explained by the Commentator as equivalent to
+"gamyak jnatum,’—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 63
+
+470 MAHABHARATA
+
+distinguishing knowledge.’ I am the beloved disciple of the high-
+souled and venerable Panchasikha, belonging to the mendicant order, of
+Parasara's race. My doubts have been dispelled and am fully conver-
+sant with the Sankhya and the Yoga systems, and the ordinances as in
+respect of sacrifices and other rites, which constitutes the three well-
+known paths of Emancipation.?_ Wandering over the earth and pursu-
+ing the while the path that is pointed out by the scriptures, the learned
+Panchasikha formerly dwelt in happiness in my abode for a period of
+four months in the rainy season. That foremost of Sankhyas discoursed
+to me, agreeably to the truth, and in an intelligible manner suited to
+my comprehension, on the several kinds of means for attaining to
+Emancipation. He did not, however, command me to give up my king-
+dom, Freed from attachments, and fixing my Soul on supreme Brahma,
+and unmoved by companionship, I lived, practising in its entirety that
+triple conduct which is laid down in treatiseson Emancipation. Renun-
+ciation (ofall kinds of attachments) is the highest means prescribed
+for Emancipation. It is from Knowledge that Renunciation, by which
+one becomes freed is said to flow. From Knowledge arises the endea-
+vour after Yoga, and through that endeavour one attains to knowledge
+of Self or Soul. Through knowledge of Self one transcends joy and grief.
+That enables one to transcend death and attain to high success. That
+high intelligence (knowledge of Self) has been acquired by me, and
+accordingly I have transcended all pairs of opposites. Even in this life
+have I been freed from stupefaction and have transcended all attach-
+ments. Asa soil, saturated with water and softened theryby, causes
+the (sown) seed to sprout forth, after the same manner, the acts of men
+cause rebirth, Asa seed, fried on a pan or otherwise, becomes unable
+to sprout forth although the capacity for sprouting was there, after the
+same manner my understanding having been freed from the productive
+principle constituted by desire, by the instruction of the holy Pancha-
+sikha of the mendicant order, it no longer produces its fruit in the form
+of attachment to the object of the senses. I never experience love for
+my spouse or hate for my foes. Indeed, I keep aloof from both, behold
+
+1 It is difficult to say in what sense the word ‘vaisesbikam’ is used
+here. There is # partioular system of philosophy called Vaiseshika or Kanada
+the system believed to have been originally promulgated by a Rishi of the
+name of Kanada. That system has close resemblance to the atomic theory
+of European philosophers. It has many points of striking resemblance
+with Kapila’s system or Sankhya. Then, again, some of the original
+principles, as enunciated in the Sanakhya system, are called by the name of
+Visesha.—T.
+
+2 The mention of 'Vidhi’ indicated, as the Commentator explains,
+‘Karmakands.’ The value of ‘Karma’ in the path of Emancipation’ is to
+purify the Soul.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 64
+
+SANTI PABVA 471
+
+ing the fruitlessness of attachment and wrath. I regard both persons
+equally, viz., him that smears my right hand with sandal-paste and him
+that wounds my left. Having attained my (true) object, lam happy,
+and look equally upon a clod of‘earth, a piece of stone, and a lump of
+gold. Iam freed from attachments of every kind, though am engaged
+in ruling a kingdom. In consequence of all this I am distinguished over
+all bearers of triple sticks. Some foremost of men that are conversant
+with the topic of Emancipation say that Emancipation has a triple path.
+(These are knowledge, Yoga, and sacrifices and rites). Some regard
+Knowledge having all things of the world for its object as the means of
+Emancipation. Some hold that the total renunciation of acts (both
+external and internal) is the means thereof, _Another class of persons
+conversant with the scriptures on Emancipation say that Knowledge is
+the single means. Other, viz. Yatis, endued with subtile vision, hold
+that acts coastitute the means. The high-souled Panchasikha, discard-
+ing both the opinion about knowledge and acts, regarded the third as
+the only means or path of Emancipation. If men leading the domestic
+mode of life be endued with Yama and Niyama, they become the equals
+of Sannyasins. If, on the other hand, Sannyasins be endued with desire
+and aversion and spouses and honour and pride and affection, they
+become the equals of men leading domestic modes of life.’ If one can
+attain to Emancipation by means of knowledge, then may Emancipation
+exist in triple sticks (for there is nothing to prevent the bearers of such
+stick from acquiring the needful knowledge). Why then may Emanci-
+pation not exist in the umbrellaand the sceptre as well, especially when
+there is equal reason in taking up the triple stick and the sceptre ??
+One becomes attached to all those things and acts with which one has
+need for the sake of one’s own self for particular reasons.*? Ifa person,
+beholding the faults of the domestic mode of life, casts it off for adopt-
+ing another mode (which he considers to be fraught with great merit),
+he cannot, for such rejection and adoption, be regarded as one that isa
+once freed from all attachments, (for all that he has done has been to
+
+1 K. P. Singha wrongly translates this Verse.—T.
+
+2 ‘There is equal reason in taking up &o.,’ implies that the bearing of
+the sceptre is only a mode of life like that of holders of the triple stick.
+Both the king and the Sannyasin are free to acquire knowledge and both,
+therefore, may attain to Emancipation notwithstanding their respective
+emblems. Inthe emblems themselves there is no efficacy or disqualifica-
+tion.—T.
+
+3 The object of this Verse is to show that all persons, led by interest,
+become attached to partioular things. The littleness or greatness of those
+things cannot aid or har people’s way to Emancipation. ‘I may be a king,
+gays Janaka, and thou mayst bea mendicant. Neither thy mendicanoy
+nor my royalty can aid or obstruct our Emancipation. Both of us, by
+Knowledge, oan achieve what we wisb, notwithstanding our outward
+surroundings.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 65
+
+472 MAHABHABATA
+
+attach himself to a new mode after having freed himself from a previous
+one).* Sovereignty is fraught with the rewarding and the chastising of
+others. The life of a mendicant is equally fraught with the same (for
+mendicants also reward and chastise those they can). When, therefore,
+mendicants are similar to kings in this respect, why would mendicants
+only attain to Emancipation, and not kings? Notwithstanding the
+possession of sovereignty, therefore, one becomes cleansed of all sins by
+means of knowledge alone, living the while in Supreme Brahma. The
+wearing of brown cloths, shaving of the head, bearing of the triple stick,
+and the Kamandalu,—these are the outward signs of one’s mode of life.
+These have no value in aiding one to the attainment of Emancipation.
+When, notwithstanding the adoption of these emblems of a particular
+mode of life, knowledge alone becomes the cause of one’s Emancipation
+from sorrow, it would appear that the adoption of mere emblems is
+perfectly useless, Or, if, beholding the mitigation of sorrow in it, thou
+hast betaken thyself to these emblems of Sannyasi, why then should not
+the mitigation of sorrow be beheld in the umbrella and the sceptre to
+which I have betaken myself ? Emancipation does not exist in proverty;
+nor is bondage to be found in affluence. One attains to Emancipation
+through Knowledge alone, whether one is indigent or affluent. For these
+reasons, know that I am living in a condition of freedom, though osten-
+sibly engaged in the enjoyments of religion, wealth, and pleasure, in the
+form of kingdom and spouses, which constitute a field of bondage (for
+the generality of men). The bonds constituted by kingdom and afflu-
+ence, and the bondage to attachments, I have cut off with the sword of
+Renunciation whetted on the stone of the scriptures bearing upon
+Emancipation. As regards myself then, I tell thee that I have become
+freed in this way. O lady of the mendicant order, I cherish an affec-
+tion for thee. But that should not prevent me from telling thee that
+thy behaviour does not correspond with the practices of the mode of
+life to which thou hast betaken thyself! Thou hast great delicacy of
+formation. Thou hast an exceedingly shapely form. The age is young,
+Thou hast all these, and thou hast Niyama (subjugation of the senses).
+I doubt it verily. Thou hast stopped up my body (by entering into me
+with the aid of the Yoga power) for ascertaining as to whether I am
+really emancipated or not, This act of thine ill corresponds with that
+mode of life whose emblems thou bearest. For Yogin that is endued
+with desire, the triple stick is unfit. As regards thyself, thou dost not
+adhere to thy stick. As regards those that are freed, it behoves even
+
+ee
+1 Hence, by changing my royal life for that of s bearer of the triple
+stiok I can gain nothing. —T, --
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 66
+
+SANTI PARVA 473
+
+them to protect themselves: from fall.?' Listen now to me as to what
+thy transgression has been in consequence of thy contact with me and
+thy having entered into my gross body with the aid of thy understand-
+ing. To what reason is thy entrance to be ascribed into my kingdom or
+my palace? At whose sign hast thou entered into my heart ??. Thou
+belongest to the foremost of all the orders, being, as thou art, a Brah-
+mana woman, As regards myself, however, Iam a Kshatriya. There
+is no union for us two. Do not help to cause an intermixture of colours.
+Thou livest in the practice of those duties that- lead to Emancipation.
+I live in the domestic mode of life. This act of thine, therefore, is
+another evil thou hast done, for it produces an unnatural union of two
+opposite modes of life. Ido not know whether thou belongest to my
+own gotra or dost not belong toit, As regards thyself also, thou dost
+not know who Iam (viz., to what gotraI belong). If thou art of my
+own gotra, thou hast, by entering into my person, produced another
+il_—the evil, viz., of unnatural union. If, again, thy husband be alive
+and dwelling in a distant place, thy union with me has produced the
+fourth evil of sinfulness, for thou art not one with whom I may be law-
+fully united. Dost thou perpetrate all these sinful acts, impelled by the
+motive of accomplishing a particular object? Dost thou do these from
+ignorance or from perverted intelligence ? If, again, in consequence of
+thy evil nature thou hast thus become thorougbly independent or un-
+restrained in thy behaviour, I tell thee that if thou hast any knowledge
+of the scriptures, thou wilt understand that everything thou hast done
+has been productive of evil. Athird fault attaches to thee in conse-
+quence of these acts of thine, a fault that is destructive of peace of
+mind, By endeavouring to display thy superiority, the indication of a
+wicked woman is seen in thee. Desirous of asserting thy victory as thou
+art, itis not myself alone whom thou wishest to defeat, for it is plain
+that thou wishest to obtain a victory over even the whole of my court
+(consisting of these learned and very superior Brahmanas), by casting
+thy eyesin this way towatdsall these meritorious Brahmanas, it is
+evident that thou desirest to humiliate them all and glorify thyself (at
+their expense). Stupefied by thy pride of Yoga-puissance that has been
+born of thy jealousy (at sight of my power,) thou hast caused a union of
+thy understanding with mine and thereby hast really mingled together
+nectar with poison. That union, again, of man and woman, when each
+
+1 *Yukte’ in the first line means ‘in the Yogin.’ The Bombay reading ‘Tridandanke*
+isa mistake for ‘Tridandakam.’ The Bombay text reads ‘na muktasyasti gopana,’ mean-
+ing that "there isno telief for one that has fallen down after having arisen in Yoga,’
+The Bengal text reads ‘vimuktasya’ I adopt the Bengal reading.—T.
+
+2 What the king says is that he, the king, had made no assignation with the lady
+in consequence of which she could be justified in entering his body. The word ‘Sanni-
+
+karsha’ here means ‘sanketa.’ Both the Vernacular translators render this word
+wrongly.—T.
+60 Downloaded from https://www.holybooks.com
+
+https://www.holybooks.com/mahabharata-all-volumes-it
+
+12-pdf-files/
+
+## Page 67
+
+474 MAHABHARATA
+
+covets the other, is sweet as nectar. That association, however, of man
+and woman when the latter, herself coveting, fails to obtain an indivi-
+dual of the opposite sex that does not covet her, is, instead of being a
+merit, only a fault that is as noxious as poison. Do not continue to
+touch me. Know that I am righteous. Do thou act according to thy
+own scriptures. The enquiry thou hadst wished to make, viz., whether I
+am orl am not emancipated, has been finished. It behoves thee not to
+conceal from me all thy secret motives. It behoves thee not, that thus
+disguisest thyself, to conceal from me what thy object is, that is whether
+this call of thine has been prompted by the desire of accomplishing some
+object of thy own or whether thou hast come for accomplishing the
+object of some‘other king (that is hostile to me). One should never
+appear deceitfully before a king; nor before a Brahmana ; nor before
+one's wife when that wife is possessed of every wifely virtue. Those
+who appear in deceitful guise before these three very soon meet with
+destruction. The power of kings consists in their sovereignty. The
+power of Brahmanas conversant with the Vedas isin the Vedas. Women
+wield a high power in consequence of their beauty and youth and
+blessedness. These then are powerful in the possession of these powers.
+He, therefore, that is desirous of accomplishing his own object should
+always approach these three with sincerity and candour. Insincerity
+and deceit fail to produce success (in these three quarters). It behoveth
+thee, therefore, to apprise me of the order to which thou belongest by
+birth, of thy learning and conduct and disposition and nature, as also of
+the object thou hast in view in coming to this place |—" ‘
+
+“Bhishma continued—'Though rebuked by the king in these un-
+pleasant, improper, and ill-applied words, the lady Sulabha was not atall
+abashed. After the king had said these words, the beautiful Sulabha
+then addressed herself for saying the following words in reply that were
+more handsome than her person.
+
+“‘Sulabha said —O king, speech ought always to be free from the
+nine verbal faults and the nine faults of judgment. It should also, while
+setting forth the meaning with perspicuity, be possessed of the eighteen
+well-known merits.*. Ambiguity, ascertainment of the faults and merits
+of premises and conclusions, weighing the relative strength or weakness
+of those faults and merits, establishment of the conclusion, and the ele-
+ment of persuasiveness or otherwise that attaches to the conclusion thus
+arrived at—these five characteristics appertaining to the sense—
+constitute the authoritativeness of what is said. Listen now to the
+characteristics of these requirements beginning with ambiguity, one after
+another, as I expound them according to the combinations, When
+
+1 These faults and merits are set forth in the Verses that follow.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 68
+
+SANTI PARVA 475
+
+knowledge rests on distinction in consequence of the object to be known
+being different from one another, and when (as regards the comprehen-
+sion of the subject) the understanding rests upon many points one after
+another, the combination of words (in whose case this occurs) is said to
+be vitiated by ambiguity." By ascertainment (of faults and merits),
+called Sankhya, is meant the establishment, by elimination, of faults or
+merits (in premises and conclusions), adopting tentative meanings.?
+Krama or weighing the relative strength or weakness of the faults or
+merits. (ascertained by the above process), consists in settling the pro-
+priety of the priority or subsequence of the words employed in a
+sentence. This is the meaning attached to the word Krama by persons
+conversant with the interpretation of sentences or texts. By Conclusion
+is meant the final determination, after this examination of what has been
+said on the subjects of religion, pleasure, wealth, and Emancipation, in
+respect of what it particularly is that has been said inthe text. The
+_sorrow born of wish or aversion increases to a great measure. The
+conduct, O king, that one pursues in such a matter (for dispelling the
+sorrow experienced) is called Prayojanam.‘ Take it for certain, O king,
+at my word, that these characteristics of Ambiguity and the other
+(numbering five in all), when occurring together, constitute a complete
+and intelligible sentence.’ The words I shall utter will be fraught with
+
+1 ‘Saukshmyam,’ is literally ‘minuteness,’ It means ambiguity here. I have render
+ed Verse 81 very closely to give the reader an idea of the extreme terseness of these
+Verses. For bringing out the meaning of the Verse, the following illustration may
+serve. A sentence is composed containing some words each of which is employed In
+diverse senses, asthe well-known Verse of Parasara which has been interpreted to
+sanction the remarriage of Hindu widows. Here, the object indicated by the words used
+are varied. Definite knowledge of the meaning of each word is arrived at by means of
+distinctions, i.e., by distinguishing each meaning from every other. In such cases, the
+understanding before arriving at the definite meaning, rests in succession upon diverse
+points, now upon one, now upon another. Indeed, the true meaning is to be arrived
+at in such cases by a process of elimination. When such processes become necessary for
+seizing the sense of any sentence, the fault issaid tobe the fault of minuteness or
+ambiguity.—T.
+
+2 To take the same example : first take the well-known words of Parasara as really
+sanctioning the remarriage of widows. Several words in the Verse would point to this
+meaning, several others would not. Weighing probabilities and reasons, let the
+meaning be tentatively adopted that second husbands are sanctioned by the Rishi for
+the Hindu widow. This is Sankhya.—T.
+
+3 Having tentatively adopted the meaning the second husbands are sanctioned by
+the Verse referred to, the conclusion should be either its acceptance or rejection. By
+seeing the incompatibilty of the tentative meaning with other settled conclusions in
+respect of other texts other writers, the tentative meaning is capable of being rejected,
+and the final conclusion arrived at, to the effect, that the second husband is to be taken
+only according to the Niyoga-vidhi and not by marriage.—T.
+
+4 By‘prayojanam’ is meant the conduct one pursues for gratifying one’s wish to
+acquire or avoid any object. Wish, in respect of either acquisition or avoidance, if
+ungratified, becomes a source of pain. The action or conduct that one adopts for
+removing that pain is called ‘Prayojanam.’ In the Gautamacsutras it i id that
+“yamarthamadhikritya pravartate, tat prayojanam. The two definitions are
+identi
+
+5 By occurrence of these five characteristics together is meant that when these are
+properly attended to by a speaker or writer, only then can his sentence be said to be
+
+—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/_
+
+## Page 69
+
+476 MAHABHARATA
+
+sense, free from ambiguity (in consequence of each of them not being
+symbols of many things), logical, free from pleonasm or tautology,
+smooth, certain, free from bombast, agreeable or sweet, truthful, not
+inconsistent with the aggregate of three, (viz., Righteousness, Wealth
+and Pleasure), refined (i.e., free from Prakriti), not elliptical or imperfect,
+destitute of harshness or difficulty of comprehension, characterised by
+due order, not far-fetched in respect of sense, corrected with one
+another as cause and effect and each having a specific object. I shall
+not tell thee anything, prompted by desire or wrath or fear or cupidity
+or abjectness or deceipt or shame or compassion or pride. (I answer
+thee because it is proper for me to answer what thou hast said). When
+the speaker, the hearer, and the words said, thoroughly agree with one
+another in course of a speech, then does the sense or meaning come out
+very clearly, When, in the matter of what is to be said, the speaker
+shows disregard for the understanding of the hearer by uttering words
+whose meaning is understood by himself, then, however good those
+words may be, they become incapable of being seized by the hearer?
+That speaker, again, who, abandoning all regard for his own meaning,
+uses words that are of excellent sound and sense, awakens only erroneous
+impressions in the mind of the hearer. Such words in such connection
+become certainly faulty. That speaker, however, who employs words
+that are, while expressing his own meaning, intelligible to the hearer, as
+well, truly deserves to be called a speaker. No other man deserves the
+name. It behoveth thee, therefore, O king, to hear with concentrated
+attention these words of mine, fraught with meaning and endued with
+wealth of vocables. Thou hast asked me who I am, whose I am, whence
+I amcoming, &c. Listen to me, O king, with undivided mind, asI
+answer these questions of thine. As lac and wood, as grains of dust and
+drops of water, exist commingled when brought together, even so are the
+existences of all creatures.* Sound, touch, taste, form, and scent, these
+and the senses, though diverse in respect of their essences, exist yet ina
+state of commingling like lac and wood. It is again well known that
+nobody asks any of these, saying, who art thou? Each of them also has
+
+complete and intelligible. In Nyaya philosophy, the five requisites ate ‘Pratijna,’
+“Hetu,’ ‘Udaharana’ *Upanaya,’ and ‘Nigamana.’ In the Mimansa philosophy, the five
+requisites have been named differently. ‘Vishaya,’ ‘Samsaya,’ ‘Purvapaksha,’ ‘Uttara,
+and ‘Nirnaya.’—T.
+
+___ 1 These characteristics, the Commentator points out, though numbering sixteen,
+include the four and twenty mentioned by Bhojadeva in his Rhetoric called 'Saraswati«
+kanthabharana.'—T.
+
+2 ‘Parartham’ means, as the Commentator explains, ‘of excellent sense.’ It does
+not mean ‘Paraprayojanam’ as wrongly rendered by the Burdwan Translators The
+latter's version of the text is thoroughly unmeaning—T.
+
+3 What Sulabha says here is this: the great primal elements ate the same whether
+they make up this body or that other body ; and then it is the same Chit that pervades
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 70
+
+SANTI PARVA 477
+
+no knowledge either of itself or of the others. The eye cannot see itself.
+The ear cannot hear itself, The eye, again, cannot discharge the func-
+tions of any of the other senses, nor can any of the senses discharge the
+functions of any sense save its own. If all of them even combine
+together, even they fail to know their own selves as dust and water
+mingled together cannot know each other though existing ina state of
+union. In order to discharge their respective functions, they await the
+contact of objects that are external to them. The eye, form, and light,
+constitute the three requisites of the operation called seeing. The same,
+as in this case, happens in respect of the operations of the other senses
+and the ideas which is their result. Then, again, between the functions
+of the senses (called vision, hearing, &c.,) and the ideas which are their
+result (viz., form, sound, &c.), the mind is an entity other than the senses
+and is regarded to have an action of its own. With its help one distin-
+guishes what is existent from what is non-existent for arriving at
+certainty (in the matter of all ideas derived from the senses). With the
+five senses of knowledge and five senses of action, the mind makes a
+total of eleven. The twelfth is the Understanding. When doubt arises
+in respect of what is to be known, the Understanding comes forward and
+settles all doubts (for aiding correct apprehension). After the twelfth,
+Sattwa is another principle numbering the thirteenth. With its help
+creatures are distinguished as possessing more of it or less of it in their
+constitutions-2 After this, Consciousness (of self) is another principle
+(numbering the fourteenth). It helps one to an apprehension of self as
+distinguished from what is not self. Desire is the fifteenth principle, O
+king. Unto it inheres the whole universe.” The sixteenth principle is
+Avidya. Unto it inhere the seventeenth and the eighteenth principles
+called Prakriti and Vyakti (i.e, Maya and Prakasa). Happiness and
+sorrow, decrepitude and death, acquisition and loss, the aggreable end
+the disagreeable,—these constitute ‘the nineteenth principle and are
+called couples of opposites. Beyond the nineteenth principle is another,
+vize, Time called the twentieth. Know that the births and death of all
+creatures are due to the action of this twentieth principle. These twenty
+exist together. Besides these, the five Great primal elements, and exis-
+tence and non-existence, bring up the tale to seven and twenty. Beyond
+
+every combination of the great elements. The object of this observation isto show
+that Janaka should not have asked these questions about Sulabha, he and she being
+essentially the same person. To regard the twoas different would indicate obscuration
+of vision.—T.
+
+1 What is meant by this is that when creatures are said to possess more of sattwa
+and less of sattwa, sattwa seems to be a principle that is existent in the constitutions of
+creatures.—T.
+
+2 By the word ‘Kala’ is meant the 16 principles beginning with Prana. What is
+intended to besaid is that as long as the principle of Desire exists, rebirth becomes
+possible. The universe, therefore, restson the principle of Desireor Vasana, The
+‘senses, &c., all arise from this principle of Vasana.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 71
+
+478 MAHABHARATA
+
+these, are three others, named Vidhi, Sukra, and Vala, that make the
+tale reach thirty.!' That in which these ten and twenty principles occur
+is said to be body. Some persons regard unmanifest Prakriti to be the
+source or cause of these thirty principles, (This isthe view of the
+atheistic Sankhya school), The Kanadas of gross vision regard the Mani-
+fest (or atoms) tobe their cause. Whether the Unmanifest or the
+Manifest be their cause, or whether the two (viz. the Supreme or
+Purusha and the Manifest or atoms) be regarded as their cause, or
+fourthly, whether the four together (viz., the Supreme or Purusha and
+his Maya and Jiva and Avidya or Ignorance) be the cause, they that are
+conversant with Adhyatma behold Prakriti as the cause of all creatures.
+That Prakriti which is Unmanifest, becomes manifest in the form of
+these principles, Myself, thyself, O monarch, and all others that are
+endued with body are the result of that Prakriti (so far as our bodies
+are concerned), Insemination and other (embryonic) conditions are due
+to the mixture of the vital seed and blood. In consequence of insemina-
+tion the result which first appears is called by the name of ‘Kalala.’
+From ‘Kalala’ arises what is called Vudvuda (bubble). From the stage
+called 'Vudvuda' springs what is called ‘Pesi’. From the condition called
+‘Pesi’ that stage arises in which the various limbs become manifested.
+From this last condition appear nails and hair. Upon the expiration of
+the ninth month, O king of Mithila, the creature takes its birth so that,
+its sex being known, it comes to be called a boy or girl. When the crea-
+ture issues out of the womb, the form it presents is such that its nails
+and fingers seem to be of the hue of burnished copper. The next stage .
+is said to be infancy, when the form that was seen at the time of birth
+becomes changed. From infancy youth is reached, and from youth, old
+age, Asthe creature advances from one stage into another, the form
+presented inthe previous stage becomes changed. The constituent
+elements of the body, which serve diverse functions in the general eco-
+nomy, undergo change every moment in every creature. Those changes,
+however, are so minute that they cannot be noticed.? The birth of
+particles, and their death, in each successive condition, can not be
+marked, O king, even as one cannot mark the changes in the flame of
+a burning lamp.* When such is the state of the bodies of all creatures,
+
+1 By 'Vidhi’ is meant that righteousness and its reverse which constitute the seed
+of Desire. By ‘sukra’ is meant that which helps that seed to grow or put forth its
+
+Peco? By ‘Vala’ is meant the exertion that one makes for ‘gratifying one’s
+lesire."—T.
+
+2 The fact then of continual change of particles in the body was wellknown to the
+Hindu sages. This discovery is nor new of modern physiology. Elsewhere it has been
+shown that Harvey's great discovery about the circulation of the blood was not unknown
+to the Rishis.—T.
+
+3 The instance mentioned for illustrating the change of corporal particles is
+certainly a very happy one. The flame of a burning lamp, though perfectly steady (as
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 72
+
+SANTI PARVA 499
+
+—that is when that which is called the body is changing incessantly even
+like the rapid locomotion of a steed of good mettle——who then has come
+whence or not whence, or whose is it or whose is it not, or whence does
+it not arise? What connection does there exist between creatures and
+their own bodies ?'! As from the contact of flint with iron, or from two
+sticks of wood when rubbed against each other, fire is generated, even
+so are creatures generated from the combination of the (thirty) princi-
+ples already named. Indeed, as thou thyself seest thy own body in thy
+body‘and as thou thyself seest thy soul in thy own soul, why is it that
+thou dost not see thy own body and thy own soul in the bodies and souls
+of others? Ifit is true that thou seest an identity with thyself and
+others, why then didst thou ask me who I am and whose? If it is true
+that hast. O king been freed trom the knowledge of duality that
+(erroneously) says—this is mine and this other is not mine,—then what
+use is there with such questions as Who art thou, whose art thou and
+whence dost thou come ? What indications of Emancipation can be said
+to occur in that king who acts as others act towards enemies and allies
+and neutrals and in victory and truce and war? What indications of
+Emancipation occur in him who does not know the true-nature of the
+aggregate of three as manifested in seven ways in all acts and who, on
+that account, is attached to that aggregate of three ?? What indications
+of Emancipation exist in him who failsto cast an equal eye on the
+agreeable, on the weak, and the strong? Unworthy as thou art of it,
+thy pretence to Emancipation should be put down by thy counsellers!
+This thy endeavour to attain to Emancipation (when thou hast so many
+faults) is like the use of medicine by a patient who indulges in all kinds
+of forbidden food and practices. O chastiser of foes, reflecting upon
+spouses and other sources of attachment, one should behold these in
+one’s own soul. What else can be looked upon as the indication of
+Emancipation ? Listen now to me as I speak in detail of these and
+certain other minute sources of attachment appertaining to the four well
+
+in a breezeless spot), is really the result of the succesive combustion of particles of oil
+and thesuccessive extinguishment of such combustion. Both this and the previous
+Verse have been rendered inaccurately by K. P. Singha.—T.
+
+1 Hence the questions of Janaka, asking as to who the lady was or whose, were
+futile.—T.
+
+2 The seven ways are as follow Righteousness and Wealth and Pleasure indepen-
+dently and distinct from one another count three, then the first and second, the first
+and third, and second and third, count three and lastly, all three existing together. In
+all acts, one or other of these seven may be found. The first and second exist in all acts
+whose result isthe righteous acquisition of wealth; the first and third exist in the
+procreation of children in lawful wedlock; the second and third in ordinary acts of
+worldly men. Of acts in which all three combine, the rearing of children may be
+noticed, for it is at once a duty, a source of wealth, and a pleasure. K.P. Singha omits
+all reference to these seven ways, while the Burdwan translator, misunderstanding the
+gloss, makes utter nonsense of it.—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 73
+
+480 MAHABHARATA
+
+known acts (of lying down for slumber, enjoyment, eating, and dressing)
+to which thou art still bound though thou professest thyself to have
+adopted the religion of Emancipation. That man who has to rule the
+whole world must, indeed, bea single king without a second. He is
+obliged to live in only a single palace. In that palace he has again only
+one sleeping chamber. In that chamber he has, again, only one bed on
+which at night he is to lie down. Half that bed again he is obliged to
+give to his Queen-consort. This may serve as an example of how little
+the king’s share is of all he is said toown. Thisis the case with his
+objects of enjoyment, with the food he eats, and with the robes he
+wears. He is thus attached to a very limited share of all things. He is,
+again, attached to the duties of rewarding and punishing. The king is
+always dependent on others, He enjoysa very small share of all he is
+supposed to own, and to that small share he is forced to be attached (as
+well as others are attached to their respective possessions). In the matter
+also of peace and war, the king cannot be said to be independent. In
+the matter of women, of sports and other kinds of enjoyment, the king's
+inclinations are exceedingly circumscribed. In the matter of taking
+counsel and in the assembly of; his councillors what independence can
+the king be said to have ? When, indeed, he sets his orders on other
+men, he is said to be thoroughly independent. But then the moment
+after, inthe several matters of his orders, his independence is barred
+by the very men whom he bas ordered.? If the king desires to sleep, he
+cannot gratify his desire, resisted by those who have businessto transact
+with him. He must sleep when permitted, and while sleeping he is
+obliged to wake up for attending to those that have urgent business
+with him—Bathe, touch, drink, eat, pour libations on the fire, perform
+sacrifices, speak, hear,—these are the words which kings have to hear.
+from others and hearing them have to slave to those that utter them.
+Men come in batches to the king and solicit him for gifts. Being, hows
+ever, the protector of the general treasury, he cannot make gifts unto
+even the most deserving. If he makes gifts, the treasury becomes
+exhausted. If he does not, disappointed solicitors look upon him with
+hostile eyes. He becomes vexed and as the result of this, misanthropical
+feelings soon invade his mind. If many wise and heroic and wealthy
+men reside together, the king’s mind begins to be filled with distrust in
+consequence. Even when there is no cause of fear, the king entertains
+fear of those that always wait upon and worship him. ThoseI have
+mentioned O king, also find fault with him. Behold, in what way the
+king's fears may arise from eventhem! Then again all men are kings
+
+1 The king may order some men to do somethings. These men, after obeying those
+orders, return tohim to report the fact of what they have accomplished. The king is
+obliged to grant them interviews fot listening to them.—T,
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 74
+
+SANTI PARVA 481
+
+in their own houses. All men, again, in their own houses are house-
+holders, Like kings, O Janaka, all men in their own houses chastise
+and reward. Like kings others also have sons and spouses and their
+own selves and treasuries and friends and stores. In these respects the
+king is not different from other men.—The country is ruined,—the city
+is consumed by fire,—the foremost of elephants is dead,—at all this the
+king yields to grief like others, little regarding that these impressions
+are alidueto ignorance and error. Theking is seldom freed from
+mental griefs caused by desire and aversion and fear. He is generally
+afflicted also by headaches and diverse diseases of the kind. The king is
+afflicted (like others) by all couples of opposites (as pleasure and pain,
+&c). He is alarmed at everything. Indeed, full of foes and impedi-
+ments as kingdom is, the king, while he enjoys it, passes nights of
+sleeplessness. Sovereignty, therefore, is blessed with an exceedingly
+small share of happiness. The misery with which it is endued is very
+great. It isas unsubstantial as burning flames fled by straw or the
+bubbles of froth seen on the surface of water. Who is there that would
+like to obtain sovereignty, or having acquired sovereignty can hope to
+win tranquillity? Thou regardest this kingdom and this palace to be
+thine. Thou thinkest also this army, this treasury, and these counsellers
+to belong to thee. Whose, however, in reality are they, and whose are
+they not? Allies, ministers, capital, provinces, punishment, treasury,
+and the king,—these seven which constitute the limbs of a kingdom
+exist, depending upon one another, like three sticks standing with one
+another's support. The merits of eachare set off by the merits of the
+others. Which of them can be said to be superior tothe rest? At
+those times those particular ones are regarded as distinguished above the
+rest when some important end is served through their agency. Supe-
+riority, for the time being, is said to attach .to that one whose efficacy
+is thus seen. The seven limbs already mentioned, O best of kings, and
+the three others, forming an aggregate of ten, supporting one another,
+are said to enjoy the kingdom like the king himself.!| That king who is
+endued with great energy and who is firmly attached to Kshatriya
+practices, should be satisfied with only a tenth part of the produce of
+the subject's field. Other kings are seen to be satisfied with less than a
+tenth part of such produce. There is no one who owns the kingly office
+without some one else owing it in the world, and there is no kingdom
+without a king.” If there be no kingdom, there can be no righteousness,
+1 The Commentator explains that the three others are Vriddhi,
+Keshaya, and Sthana, allof whioh arise from policy. Some of the seven
+limbs are inanimate, such as the Treasury. But it is said that the Treasury
+supports the ministers, and the ministers support the Treasury.—T.
+
+Hence, when every kingdom has a king, and kings too are many, no
+one should indulge in pride at the thought of his being a king.—T.
+
+61
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 75
+
+482 MAHABHARATA
+
+and if there be no righteousness, whence can Emancipation arise ?
+Whatever merit is most sacred and the highest, belongs to kings and
+kingdoms.’ By ruling a kingdom well, a king earns the merit that
+attaches to a Horse-sacrifice with the whole Earth given away as
+Dakshina, (But how many kings are there that rule their kingdoms
+well?) Orruler of Mithila, Ican mention hundreds and thousands of
+faults like these that attach to kings and kingdoms. Then, again, when
+Lhave no real connection with even my body, how then can I be said
+to have any contact with the bodies of others? Thou canst not charge
+me with having endeavoured to bring about an intermixture of castes.
+Hast thou heard the religion of Emancipation in its entirety from the
+lips of Panchasikha together with its means, its methods, its practices,
+and its conclusion ?? If thou hast prevailed over all thy bonds and
+freed thyself from all attachments, may I ask thee, O king, who thou
+preservest thy connections still with this umbrella and these other
+appendages of royalty? I think that thou hast not listened to the
+scriptures, or, thou hast listened to them without any advantage, or,
+perhaps, thou hast listened to some other treatises looking like the scrip-
+tures. It seems that thou art possessed only of worldly knowledge, and
+that like an ordinary man of the world thou art bound by the bonds of
+touch and spouses and mansions and the like. If it be true that thou
+hast been emancipated from all bonds, what harm have I done thee by
+entering thy person with only my Intellect? With Yatis, among all
+orders of men, the custom is to dwell in uninhabited or deserted abodes.
+What harm then have I done to whom by entering thy understanding
+which is truly of real knowledge? I have not touched thee, O king,
+with my hands, or arms, or feet, or thighs, O sinless one, or with any
+other part of the body. Thou art bornin a high race. Thou hast
+modesty. Thou hast foresight. Whether the act has been good or bad,
+my entrance into thy body has been a private one, concerning us two
+only. Wasit not improper for thee to publish that private act before
+all thy court ? These Brahmanas are all worthy of respect. They are
+foremost of preceptors. Thou also art entitled to their respect, being
+their king. Doing them reverenee, thou art entitled to receive rever-
+ence from them. Reflecting on all this, it was not proper for thee to
+proclaim before these foremost of men the fact of this congress between
+
+1 The object of this Verse is to show that as Janaka rules his king.
+dom without being attached to it, he cannot lay claim tothe merit that
+belongs to kings.—.
+
+2 ‘Upaya’ or ‘means’ implies here the attitude of sitting (as in Yoga),
+‘Upanishad’ or ‘method’ implies ‘sravana and manana, i.e., listening and
+thinking. ‘Upasanga’ or ‘practices’ imply the several limbs of ‘Dhyana,’
+&o, ‘Nischaya’ or ‘conclusion’ has reference to Brahma,—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 76
+
+SANTI PARVA 488
+
+two persons of opposite sexes, if, indeed, thou art really acquainted
+with the rules of propriety in respect of speech, O king of Mithila, I
+am staying in thee without touching thee at all even like a drop of
+water ona lotus leaf that stays on it without drenching it in the least.
+If, notwithstanding instructions of Panchasikha of the mendicant order,
+thy knowledge has become abstracted from the sensual objects to which
+it relates? Thou hast, it is plain, fallen off from the domestic mode of
+life but thou hast not yet attained to Emancipation that is so difficult
+to arrive at. Thou stayest between the two, pretending that thou hast
+reached the goal of Emancipation. The contact of one that is emanci-
+pated with another that has been so, or Purusha with Prakriti, cannot
+lead to an intermingling of the kind thou dreadest, Only those that
+regard the soul to be identical with the body, and that think the several
+orders and modes of life to be really different from one another, are
+open to the error of supposing an intermingling to be possible. My
+body is different from thine. But my soul is not different from thy
+soul. When I am able to realise this, I have not the slightest doubt that
+my understanding is really not staying in thine though I have entered
+into thee by Yoga.’ A pot is borne in the hand. Inthe pot is milk.
+On the milk is a fly. Though the hand and pot, the pot and milk, and
+the milk and the fly, exist together, yet are they all distinct from each
+other. The pot does not partake the nature of the milk. Nor does the
+milk partake the nature of the fly. The condition of each is dependent
+on itself, and can never be altered by the condition of that other with
+which it may temporarily exist. After this manner, colour and
+practices, though they may exist together with and in a person that is
+emancipate, do not really attach to him. How then can an intermingling
+of orders be possible in consequence of this union of myself with thee?
+Then, again, Iam not superior to thee in colour, Nor am I a Vaisya,
+nor a Sudra. I am, O king, of the same order with thee, born of a pure
+race. There was a royal sage of the name of Pradhana. It is evident
+that thou hast heard of him. I am born in his race, and my name is
+Sulabha. In the sacrifices performed by my ancestors, the foremost of
+the gods, viz., Indra, used to come, accompanied by Drona and Sata-
+stinga, and Cuakradwara (and other presiding geniuses of the great
+mountains). Born in sucha race, it was found that no husband could
+be obtained for me that would be fit for me, Instructed then in the
+religion of Emancipation, I wander over the Earth alone, observant of
+the practices of asceticism. I practise no hypocrisy in the matter of the
+life of. Renunciation. I am not a thief that appropriates what belongs
+to others. I am not a confuser of the practices belonging to the
+
+1 I expand this Verse fully.—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 77
+
+“484 MAHABHARATA
+
+different orders. Iam firm in the practices that belong to that mode of
+life to which I properly belong. I am firm and steady in my vows. I
+never utter any word without reflecting onits propriety. I did not
+come to thee, without having deliberated properly, O monarch!
+Having heard that thy understanding has been purified by the religion
+of Emancipation, I came here from desire of some benefit. Indeed, it
+was for enquiring of thee about Emancipation that I had come. I do
+not say it for glorifying myself and humiliating my opponents. But I
+say it, impelled by sincerity only, What I say is he that is emancipated
+never indulges in that intellectual gladiatorship which is implied by a
+dialectical disputation for the sake of victory. He, on the other hand,
+is really emancipate who devotes himself to Brahma, that sole seat of
+tranquillity. Asa person of the mendicant order resides for only one
+night in an empty house (and leaves it the next morning), even after
+the same manner I shall reside for this one night in thy person (which,
+asl have already said, islike an empty chamber, being destitute of
+knowledge). Thou hast honoured me with both speech and other offers
+that are due from a host to a guest. Having slept this one night in thy
+person, Oruler of Mithila, which is as it were my own chamber now,
+tomorrow I shall depart.—
+
+“Bhishma continued, —'Hearing these words fraught with excellent
+sense and with reason, king Janaka failed to return any answer
+thereto.?’”
+
+SECTION CCCXXII
+
+“Yudhishthira said,—'How was Suka, the son of Vyasa, in days of
+old, won over to Renunciation? I desire to hear thee recite the
+story. My curiosity in this respect is irrepressible. It behoveth thee,
+O thou of Kuru’s race, to discourse to me on the conclusions in respect
+of the Unmanifest (Cause), the Manifest (Effects), and of the Truth
+(or Brahma) that is in, but unattached to, them, as also of the acts of
+the self-born Narayana, as they are known to thy understanding.
+
+1 Tho ‘na’ in tho second line is connected with 'Vyayachcchate.'—T,
+
+2 Tho object of this Verse is to show that the words uttered by
+Sulabha were unanswerable. To attain to Emancipation one must practice
+a life of Renunciation instead of continuing in the domestic mode,—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 78
+
+SANTI PARVA 485
+
+“Bhishma said,—‘Beholding his son Suka living fearlessly as ordi-
+nary men do in practices that are considered harmless by them, Vyasa
+taught him the entire Vedas and then discoursed to him one day in
+these words.
+
+«Vyasa said—O son, becoming the master of the senses, do thou
+subdue extreme cold and extreme heat, hunger and thirst, and the
+wind also, and having subdued them (as Yogins do), do thou practise
+righteousness. Do thou duly observe truth and sincerity, and freedom
+from wrath and malice, and self-restraint and penances, and the duties
+of benevolence and compassion. Rest thou on truth, firmly devoted to
+righteousness, abandoning all sort of insincerity and deceit. Do thou
+support thy life on what remains of food after feeding gods and guests.
+Thy body is as transitory as the froth on the surface of water. The Jiva-
+soul is sitting unattached in it asa birdonatree. The companionship
+of all agreeable object is exceedingly short-lived. Why then, O son, dost
+thou sleep in such forgetfulness? Thy foes are heedful and awake and
+ever ready ( to spring on thee) and always watchful of their oppor-
+tunity. Why art thou so foolish as not to know this? As the days are
+going one after another, the period of thy life is being lessened. Indeed
+when thy life is being incessantly shortened, why dost thou not run to
+preceptors (for learning the means of rescue)? Only they that are des-
+titute of faith (in the existence of next life) set their hearts on things
+of this world that have the only effect of increasing flesh and blood.
+They are totally unmindful of all that is concerned with the next world.
+Those men that are stupefied by erroneous understandings display a
+hatred for righteousness. The man who walks after those misguided
+persons that have betaken themselves to deviousand wrong paths is
+afflicted equally with them. They however, that are contented, devo-
+ted to the scriptures, endued with high souls, and possessed of great
+might, betake themselves to the part of righteousness. Do thou wait
+upon them with reverence and seek instruction from them. Do thou
+act according to the instructions received from those wise men whose
+eyes are set upon righteousness. With understanding cleansed by such
+lessons and rendered superior, do thou then restrain thy heart which
+is ever ready to deviate from the right course. They whose understan-
+dings are always concerned with the present, who fearlessly regard the
+tomorrow as something quite remote,—they who do not observe any
+restrictions in the matter of food,—are really senseless persons that fail
+to understand that this world is only a field of probation.2 Repairing
+
+1 These foss are, of course, the passions,—T.
+
+2 Literally, ‘the world is only a field of action,’ implying that crea-
+tures, coming here, have to act: these actions lead to rewards and punish-
+ments, both here and hereafter. The way to Emancipation is, as has been
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 79
+
+486 MAHABHARATA
+
+to the flight of steps constituted by Righteousness, do thou ascend those
+steps one after another. At present thou art like a worm that is em-
+ployed in weaving its cocoon round itself and thereby depriving itself
+of all means of escape. Do thou keep to thy left, without any scruple,
+the atheist who transgresses all restraints, who is situated like a house
+by the side of a fierce and encroaching current, (for the destruction he
+courts), and who (to others) seems to stand like a bamboo with its tall
+head erected in pride. Do thou with the raft of Yoga, cross the ocean
+of the world whose waters are constituted by thy five senses. Having
+Desire and Wrath and Death for its fierce monsters, and owning birth
+for its vortex. Do thou cross, with the raft of Righteousness, the world
+that is affected by Death and afflicted by Decrepitude, and upon which
+the thunder-bolts constituted by days and nights are falling incessantly.
+When Death is seeking thee at all moments, viz., when thou art sitting
+or lying down, it is certain that Death may get thee for his victim at
+any time- Whence art thou to obtain thy rescue! Like the she-wolf
+snatching away a lamb, Death snatches away one that is still engaged
+in earning wealth and still unsatisfied in the indulgence of his pleasures.
+When thou art destined to enter into the dark, do thou hold up the
+blazing lamp made of righteous understanding and whose flame has been
+well-husbanded out. Falling into various forms one after another in the
+world of men, a creature obtains the status of Brahmanhood with great
+difficulty. Thou hast obtained that status. Do thou then, O son en-
+deavour to maintain it (properly).? A Brahmana hath not been born
+for the gratification of desire. On the other hand, his body is intended
+to be subjected to mortification and penances in this world so that in-
+comparable happiness may be his inthe next world. The status of
+Brahmanhood is acquired with the aid of long-continued and austere
+penances. Having acquired that status, one should never waste one's
+time in the indulgence of one's senses. Always engaged in penances
+and self-restraint and desirous of what is for thy good, do thou live and
+act, devoted to peace and tranquillity. The period of life, of every
+man, is like a steed. The nature of that steed is unmanifest. The (six-
+teen) elements (mentioned before) constitute its body. Its nature is
+
+often shown before, by exhausting the consequences of acts by enjoyment
+or sufferance and by abstaining, from further acts by adopting the religion
+of Nivritti—T.
+
+1 *Kulapatam' is explained by the Commentator as ‘Mahanadipuram,'
+In Naram' &o, ‘venumivodshritam’ (asin the Bombay text) or ‘venumiyod-
+dbhatam’ (as in the Bengal text) is rather unintelligible unless it be taken
+in the sense in which I have taken it. K. P. Singha mistranslates ‘Kula-
+patam,’ and the Burdwan translator misunderstands both ‘Kulaparam’ and
+venumivoddhatam.'—T.
+
+2 I. ©., to uphold it by doing the duties of a Brahmana.—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 80
+
+SANTI PABVA 487
+
+exceedingly subtile, Kshanas, and Trutis, and Nimeshas are the hair
+on its body. The twilights constitute its shoulder-joints, The lighted
+and the dark fortnights are its two eyes of equal power. Months are
+its other limbs. That steed is running incessantly. If thy eyes be not
+blind, beholding then that steed incessantly moving forward in its in-
+visible course, do thou set thy heart on righteousness, after hearing
+what thy preceptors have to say on the question of the next world.
+They that fall away from righteousness and that conduct themselves
+recklessly, that always display malice towards others and betake them-
+selves to evil ways are obliged to assume (physical) bodies in the regions
+of Yama and suffer diverse afflictions, in consequence of their unright-
+eous acts of diverse kind.'’ That king who is devoted to righteousness
+and who protects and chastises the good and the wicked with discrimi-
+nation, attains to those regions that belong to man of righteous deeds.
+By doing diverse kinds of good acts, he attains to such felicity as is
+faultless and as is incapable of being attained to by undergoing even
+thousands of births.» Furious dogs of frightful mien, crows of iron
+beaks, flocks of ravens and vultures and other birds, and blood-sucking
+worms, assail the man who transgresses the commands of his parents
+and preceptors when he goes to hell after death.® That sinful wretch
+who, in consequence of his recklessness, transgresses the ten boundaries
+that have been fixed by the Self-born himself, is obliged to pass his time
+in great affliction in the wild wastes that occur in the dominions of the
+king of Pitris.# That man who is tainted with cupidity, who is in love
+with untruth, who always takes a delight in deception and cheating,
+and who does injuries to others by practising hypocrisy and deception,
+has to go to deep hell and suffer great woe and affliction for his acts of
+wickedness. Such a man is forced to bathe inthe broad river called
+Vaitarani whose waters are scalding, to enter into a forest of trees
+whose leaves areas sharp as swords, and then to lie down on a bed of
+
+1 ’Prachalita-dharma &c., implies those that have fallen away from
+righteousness. The Burdwan translator misunderstands the Verse.
+*Karanabhih’ is ‘kriabhih.'—T.
+
+2 The Commentator explains that this Verse is for assuring Yudhish-
+thira that kings are competent to obtain felicity in the next world. ‘Anu-
+pagatam’ is explained by the Commentator as ‘not attainable in even thou-
+sands of births.'—T.
+
+8 ‘Rudhirapah’ is blood-sucking worms. ‘Uparatam’ is dead.—T,
+
+4 The ten boundaries or commandments, as mentioned by the Com-
+mentator, are the five positive ones, viz,, Purity, Contentment, Penances,
+Study of the Vedas, Meditation on God, and the five negative ones, viz.,
+abstention from cruelty, from untruth, from theft, from non-observance of
+yows, and from acquisition of wealth.—T,
+
+Downloaded from https://www.holybooks.com
+\ https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 81
+
+483 MAHABHARATA
+
+battle-axes. He has thus to pass his days in frightful hell in great afflic-
+tion. Thou beholdest only the regions of Brahman and other deities,
+but thou art blind to that which isthe highest (viz., Emancipation),
+Alas, thou art ever blind also to that which brings Death on its train
+(viz., decrepitude and old age).! Go (along the path of Emancipation) !
+Why tarriest thou? A frightful terror, destructive of thy happiness,
+is before thee! Do thou take prompt steps for achieving thy Eman-
+cipation! Soon after death thou art sure to be taken before Yama at
+his command, For obtaining felicity in the next world, strive to attain
+to righteousness through the practice of difficult and austere vows. The
+puissant Yama, regardless of the sufferings of others, very soon takes
+the lives of all persons, that is of thyself and thy friends. There is
+none capable of resisting him. Very soon the wind of Yama will blow
+before thee (and drive thee to his presence). Very soon wilt thou be
+taken to that dread presence all alone, Do thou achieve what will be
+for thy good there. Where now is that Death-wind which will blow
+before thee very soon? (Art thou mindful of it?) Very soon will the
+points of the compass, when that moment arrives, begin to whirl be-
+fore thy eyes. (Art thou mindful of that?) Ovson, soon (when that
+mement comes) will thy Vedas disappear from thy sight as thou goest
+helplessly into that dread presence, Do thou, therefore, set thy heart
+on Yoga abstraction which is possessed of great excellence.? Do thou
+seek to attain that one only treasure so that thou mayst not have
+to grieve at the recollection (after Death) of thy former deeds good
+and bad all of which are characterised by error.* Decrepitude very
+soon weakens thy body and robs thee of thy strength and limbs and
+beauty. Do thou, therefore, seek that one only treasure. Very
+soon the Destroyer, with Disease for his charioteer, will with a
+strong hand, for taking thy life, pierce and break thy body. Do thou,
+therefore, practise austere penance. Very soon will, those terrible
+wolves that reside within thy body, assail thee from every side. Do thou
+endeavour, therefore, to achieve acts of righteousness. Very soon
+
+1 ‘Chirasya' is grammatically connected with 'na vudhyase,’ meaning
+that ‘thou art always blind 0.’ The Burdwan translator misunderstands
+it completely and takes it as equivalent to'achirena.' K. P, Singha skips
+over it.—T.
+
+2 The Burdwan translator gives a ridiculous version of the Verse.—T.
+
+_ 3 'Kevalam nidhim’ is literally, ‘one only treasure’. It may imply
+either Samadhi or Brahma. Acts, whether good or bad, all arise from:
+error. Abstention from acts is the true way to Emancipation.—T.
+
+4 The passions are spoken of as wolves.—tT,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/ y)
+
+## Page 82
+
+SANTI PARVA 489
+
+wilt thou, all alone, behold a thick darkness, and very soon wilt thou
+behold golden trees on the top of the hill. Do thou, therefore, hasten
+to achieve acts of righteousness.' Very soon will those evil campanions
+and foes of thine, (viz, the senses), dressed in the guise of friends,
+swerve thee from correct vision. Do thou, then, O .son, strive to
+achieve that which is of the highest good. Do thou.earn that wealth
+which has no fear frém either kings or thieves, and which one has’ not
+to abandon even at Death. Earned by one's own acts, that wealth has
+never to be divided among co-owners. Each enjoys that wealth (in the
+other world) which each has earned for himself. O son, give that to
+others by which they may be able to live in the next world. .Do' thou also
+set thyself to the acquisition of that wealth which is indestructible and
+durable. Do not think that thou shouldst first enjoy all kinds .of - plea-
+sures and then turn thy. heart on Emancipation, for before thou art
+satiated with enjoyment thou mayst be overtaken by’Death.: :Do: thou,
+in view of this, hasten to doacts. of goodness.? Neither mother, nor son,
+nor relatives, nor dear friends even when solicited with honours, accom-
+. pany the man that dies. To the regions of Yama one has ‘to go oneself,
+» unaccompanied by any one. Only those deeds, good and bad, that one
+‘did before death accompany the man that goes to the other world, The
+gold and gems that one has earned by good and bad means do not
+- become productive of any benefit to one when one’s body meets with
+dissolution. Of men that have gone to the other world, there is no~
+witness, better than the soul, of all act done and undone in life. That
+when the acting-Chaitanya (Jiva-soul) enters into the witness-Chaitanya
+the destruction of the body takes place, is seen by Yogasintelligence
+when Yogins enter the firmament of their hearts.® Even here, the god
+of Fire, the Sun. and the Wind,—these three reside in the body. . These,
+beholding as they do all the practices of one’s life become one’s witnesses.
+Days and Nights,—the former characterised by the virtue of displaying
+all-things.and the latter characterised by the virtue of concealing all
+things,—are running incessantly and touching all things (and thereby
+lessening their allotted periods of existence). _Do thou, therefore, be
+
+1 The sight of golden trees is a premonitory sign of Death.—T.
+
+2 Literally rendered, the Verse. would run thus : ‘Before the cooking is
+complete of the Yavaka of @ rich man, in fact, while it is still uncooked, thou
+mayst J meet with death.’ Do thou, therefore, hasten.’ By ‘Yavaka’ is meant a
+particular kind of food made.of ghee and flour or barley.—T. .
+
+3 In Verse 63 it is said that the Soul is the witness in the other world
+of all acts. and omission in this life., In Verse 54, what is said is tha’ the
+existence of the Soul when the body is not, is possible, for Yogins, in Yoga,
+live in their Soul, unconscious the while of their bodies. The entrance of the
+acting-Chaitanya into that Chaitanya which survives as the witness means
+the death of the body.—T.
+
+62
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 83
+
+490 MAHABHARATA
+
+observant of the duties of thy own order,' The road in the other world
+(that leads to the regions of Yama), is infested by many foes (in the
+form of iron-beaked birds and wolves ) and by many repulsive and
+terrible insects and worms. Do thou take care of thy own acts, for
+only acts will accompany you along that road. There one has not to
+share one’s acts with others, but every one enjoys or endures the fruits
+of those acts which every one has himself perfornféd. As Apsaras and
+great Rishis attain to fruits of great felicity, after the same manner, men
+of righteous deeds, as the fruits of their respective righteous acts, obtain
+in the other world cars of transcendent brightness that move everywhere
+at the will of the riders. Men of stainless deeds and cleansed souls and
+pure birth obtain in the next world fruits that correspond with their
+own righteous acts in this life. By walking along the high road cons-
+tituted by the duties of domesticity, men acquire happy ends:by attain-
+ing to the region of Prajapati or Vrihaspati or of him of a hundred
+sacrifices, I can give thee thousands and thousands of instructions.
+Know, however, that the puissant cleanser (viz., Righteousness), - keeps
+all foolish persons in the Dark.? Thou hast passed four and twenty.
+years. Thou art now full five and twenty years of age. Thy years are
+passing away- Do thou be into lay thy store of righteousness. The
+Destroyer that dwells within error and heedlessness will very soon
+deprive thy senses of their, respective powers. Do thou before that
+consummation is brought about, hasten to observe thy duties, relying on
+thy body alone.* When it is thy duty to go along that road in which
+thyself only shalt be in front and thyself only in the rear, what need
+then hast thou with either thy body or thy spouse and children ?4 When
+men have to go individually and without companions to the region of
+Yama, it is plain that in view of-such a situation of terror, thou shouldst
+seek to acquire that one only treasure (viz., Righteousness or Yoga-
+samadhi). The puissant Yama, regardless of the afflictions of” others,
+snatches, away the friends and relatives of one’s race by the very roots.
+
+1 The Burdwan translator gives an erroneous version of this Verse.—T.
+
+2 I think the sense is that only righteousness can bring a man to the
+path that leads to happiness and not mere instructions howsoever
+repeated—T,
+
+3 The Commentator explains that ‘Pramadagah’ is equivalent to
+Pramadagrihavasin and refers to ‘Antakab.’ Chamum’ is ‘Indriyasenam
+‘Grahitam' is body. ‘Yathagrahitam’ is ‘'dehamanatikramya.’ In this Verse
+‘pura’ may mean either ‘in the near future’ or ‘soon,’ or ‘pura’ may mean
+*before,’ i.e., ‘before the Destroyer makes thy senses so, &c..—T.
+
+4 The road in which thyself shalt be in front and thyself in the rear’ is
+the road of Self-knowledge. The Burdwar translator does not understand
+how the first line comes to mean ‘Knowledge of Self ! accordingly, though
+he uses tha word ‘atmajnana’ (following the Commentator), yet he erron-
+eously repeats some of the words used in the line,—T, J
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 84
+
+SANTI PARVA 491
+
+There is no one that can resist him. Do thou, therefore, seek to acquire
+a stock of righteousness I impart to thee these lessons, O son, thatare all
+agreeable with the scciptures I follow. Do thou observe them by acting
+according to their import. He who supports his body by following the
+duties laid down for his own order, and who makes gifts for earning
+whatever fruits may attach to such acts, becomes freed from the
+consequences that are born of ignorance and error.! The knowledge
+which a man of righteous deeds acquires from Vedic declarations leads
+to omniscience. That omniscience is identical with the science of the
+highest object of human acquisition (viz,, Emancipation). Instruction,
+imparated to the grateful, becante beneficial (in consequence of their
+leading to the attainment of that highest object of human acquisition).?
+The pleasure that one takes in living amidst the habitations of. men is
+truly a fast-binding cord. Breaking that cord, men of righteous deeds
+repair to regions of great felicity. Wicked men, however, fail to break
+that bond. What use hast thou of wealth, O son, or with relatives, or
+with children, since thou hast to die: Do thou employ thyself in seeking
+for thy soul which is hidden in a cave. Where have all thy grandsires
+gone? D6 that today which thou wouldst keep for tomorrow. Do that
+in the.forenoon which thou wouldst keep for the afternoon. Death does
+not wait for any one, to see whether one has or has not accomplished
+one’s task. Following the body after one’s death (to the crematorium),
+one’s relatives and kinsmen and friends come back, throwing it on the
+funeral pyre. Without ascruple do thou avoid those men that are
+sceptics, that are destitute of compassion, and that are devoted to wicked
+ways, and do thou endeavour to seek, without listlessness or apathy,
+that which is for thy highest good. When, therefore, the world is thus
+afflicted by Death, do thou, with thy whole heart, achieve righteousness,
+aided all the while by unswerving patience. That man who is well
+conversant with the means of attaining to Emancipation and who duly
+discharges the duties of his order, certainly attains to great felicity in
+the other world. For thee that dost not recognise death in the attain-
+ment of a different body and that dost not deviate from the path trod
+by the righteous, there is no destruction. He that increases the stock
+- of righteousness is truly wise. He, on the other hand, that falls away
+
+1 The last word of the second line is 'muchyate’ and not yujyate.’ If
+yujyate’ be adhered to, meaning would be ‘freed the consequences of igno-
+rance and error, he would succeed in attaining to Brahma.—T.
+
+2 This is a very abstruse Verse. I have rendered it, following the lead
+of the Commentator, ‘Srutam,’ he explains is ‘the knowledge, born of vedic
+declarations like Tattwamasi &o. ‘Sarvamasnute’ is equivalent to ‘samastam
+Brahmandam vyapnoti,’ meaning ‘such knowledge leads to sarvatmyam, i.c.,
+omniscience’ 'Tadetat-é&c.,’ is ‘that omniscience is the darsanam. of param-
+purushartha or Mokhsa,’ Kritajna upadishtam artham’ is ‘samhitam,’—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 85
+
+492 MAHABHARATA
+
+from righteousness is said to be a fool. One that is engaged in the
+accomplishment of good deeds attains to heaven and other rewards as
+the fruits of thosé deeds ; but he that is devoted to’ wicked deeds has to
+sink in hell. Having acquired the status of humanity, so difficult of
+acquisition, that is the stepping-stone to heaven, one should fix one’s soul
+on Brahma so that one may not fall away once more. That man whose
+undeistanding, directed to the path of heaven, does not deviate there-
+from, is regarded by the wise as truly a man of righteousness and when
+he dies his friends should indulge in grief. That man whose understan-
+ding’is not restless and which is directed to Brahma and who has
+attained to heaven, becomes freed from a great terror (viz, hell), They
+that ate born in retreats of ascetics and that die there, do not earn much
+merit by abstaining all their life from enjoyments and the indulgence of
+desire. He, however, who though possessed of objects of enjoyment
+casts them off and engages himself in the practice of penances, succeeds
+in acquiring everything, The fruits of the penances of such a man are,
+Ithink, much higher. Mothers and sires and sons. and spouses, by
+hundreds and thousands, every one had and will have in this world.
+Who, however, were they and whose are we?! I am quite alone. I
+have no one whom I may call mine. Nor do I belong to any one’ else.
+I do not see that person whose I am, nor do I see him whom I may call
+mine, They have nothing to do with thee. Thou hast nothing to do
+with them. All creatures take birth agreeably to their acts of past lives.
+Thou also shalt have to go hence (for taking birth in anew order)
+determined by thy own acts. In this world it is seen that the friends
+and followers of only those that are rich behave towards the rich with
+dévotion. The friends and followers of those, however, that are poor
+fall away during even the life-time of the poor. Man commits numerous
+evil acts for the sake of his wife (and children). From those evil acts he
+derives much distress both here and hereafter. The wise man beholds
+the world of life devastated by the acts performed by every living being.
+Do thou, therefore, O son, act according to all the instructions I have
+given thee! The man possessed of true vision, beholding this world to
+be only a field of action, should, from desire of felicity in the next world,
+do acts that are good. Time, exerting his irresistible strength, cooks all
+creatures (in his own cauldron), with the aid of his ladle constituted by
+months:and seasons, the sun for his fire,and days and nights for his fuel,
+days and nights, that is that are the witnesses of the fruits of every act
+
+1 The sense is that in course of our repeated rebirths we have got these
+relations repeatedly and will get them as repeatedly, But we are, in reality,
+quite unconnected with them. Their union with us like the union of
+pieces of wood floating ina river, now joined together temporarily, now
+separated—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 86
+
+SANTI PARVA 493
+
+.done by every creature. For what purpose is that wealth which is not
+given away and which is not enjoyed ? For what purpose is that
+strength which is not employed in resisting or subjugating one’s foes ?
+‘For what purpose is that knowledge of the scriptures which does not
+impel one to deeds of righteousness? And for what purpose is that
+soul which does not subjugate the senses and abstain from evil acts ?—’
+
+“Bhishma continued,—‘Having heard these beneficial words
+spoken by the Island-born (Vyasa), Suka. leaving his sire, proceeded
+to seek a preceptor that could teach him the religion of Emancipa-
+tion. "? z .
+
+SECTION CCCXXIII
+
+“Yudhishthira said,—'If there is any efficacy in gifts, in sacrifices,
+in penances well-performed, and in dutiful services rendered to precep-
+tors and other reverend seniors, do thou, O grandsire, speak of the
+same to me ! Z
+
+“Bhishma said,—' An ui standing associated with evil causes the
+mind to fall into sin. In ‘this : state one stains one’s acts, and then falls
+into great distress. Those that are of sinful acts have to take birth as
+Persons of very indigent circumstances. From famine to famine, from
+pain to pain, from fear to fear, is their change. They are more dead
+than those that are dead. Possessed of affluence, from joy to joy, from
+heaven to heaven, from happiness to happiness, proceed they that are
+possessed of faith, that are self-restrained. and that are devoted to
+righteous deeds. They that are unbelievers have to pass, with groping
+hands, through regions infested by beasts of prey and elephants and
+pathless tracts teeming with snakes and robbers and other causes of fear.
+What more need be said of these? They, on the other hand, that are
+endued with reverence for gods and guests, that are liberal, that have
+proper regard for persons that are good, and that make gifts in sacrifices,
+have for theirs the path (of felicity) that belongs to men of cleansed and
+subdued souls. Those that are not righteous should not be counted
+among men even as grains without kennel are not counted among grain
+and'as cockroaches are not counted among birds, The acts that one
+does, follow one even when one runs fast- Whatever acts one does, lie
+down with the doer who lays himself down. Indeed, the sins one does, sit
+when the doer sits, and run when he runs. The sins act when the doer
+
+1 *Mokshadaisikam’ is explained by the Commentator as ‘Mokshahdes-
+hataram.’ K. P. Singha wrongly renders this word. This Section is called
+‘pavakadhyayanam,’ meaning ‘chitta- sodbakadhyayanam," that is, the
+Lesson which, when read and mastered, is to lead to the ewelea ting of
+the heart.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 87
+
+494 MAHABHARATA
+
+acts, and, in fact follow the doer like his shadow. Whatever the acts _
+one does by whatever means and under whatever circumstances, are
+sure to be enjoyed and endured (in respect of their fruits) by the doer
+in his next life. From every side Time is always dragging all creatures,
+duly observing the rule in respect of the distance to which they are
+thrown and which is commensurate with their acts." As flowers and
+fruits, without being urged, never suffer their proper time to passaway_
+without making their appearance, even so the acts one has done. in past
+life make their appearance at the proper time. Honour and dishonour,
+gain and loss, destruction and growth, are seen to set in. No one can
+resist them (when they come). None of them is enduring, for disappear
+it must after appearance. The sorrows one suffers is the result of one’s
+acts. The happiness one enjoys flows from one’s acts. From the time
+when one lies within the mother’s womb one begins to enjoy and
+endure one’s acts of a past lifee Whatever acts good and bad one does
+in childhood, youth, or old age, one enjoys and endures their conse-
+quences in one’s next life in similar ages. As the calf recognises its
+dam even when the latter may stand among thousands of her species,
+after the same manner the acts done by one in one’s past life come to
+one in one’s next life (without any mistake) although one may live
+among thousands of one's species. As a piece of dirty cloth is whitened
+by being washed in water, after the same. manner, the righteous;
+cleansed by continuous exposure unto the fire of fasts and penances, at _
+last attain to unending happiness. O thou of high intelligence, the
+desires and purposes of those whose sins have been washed off by long.
+continued penances well-performed, become crowned with fruition.
+The track of the righteous cannot be discerned even as that of birds in
+the sky or that of fishes in the water. There isno need of speaking ill
+of others ; nor of reciting the instances in which others have tripped.
+On the other hand, one should always do what is delightful, agreeable,
+and beneficial to one’s own self.?’ "
+
+1 Time, aga personified agent, is throwing all creatures at unequal
+distances. Some are thrown near and some to a great distance. These
+distances are regulated by the nature of the acts done by the: creatures
+thrown. Some are cast among animals, some among men. Throwing or
+burling them thus, Time drags them again, the binding-cords being always
+in bis hands.—T.
+
+2 Both the Vernacular translators have misunderstood the first line-
+of this verge although there is no difficulty in it. Apastamva says ‘drishto
+dharma-vyatikrama ; Sahasancha purvesham.’ What Bhishma says
+here is that one should not speak of those instances of ‘Vyatikramah’
+and Sabasam.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 88
+
+SECTION CCCXXIV
+
+: “Yudhishthira said—'Tell me, O grandsire, how the high-souled
+Suka of austere penances took birth as the son of Vyasa, and how did
+he succeed in attaining to the highest success ? Upon what woman
+did Vyasa, endued with wealth of asceticism, beget that son of his ?
+We do not know who was Suka’s mother, nor do we know anything
+of the birth of that high-souled ascetic. How was it that, when he
+was a mere boy, his mind became directed to the knowledge of the
+subtile (Brahma) ? Indeed, in this world no second person can be
+seen in whom such predilections could be marked at so early an age.
+I desire to hear all this in detail, O thou of great intelligence, I am
+never satiated with hearing thy excellent and nectar-like words.
+Tell me, O grandsire, in their proper order, of the greatness, and the
+knowledge of Suka and of his union with the (Supreme) Soul !'
+“Bhishma continued,—'The Rishis did not make merit depend
+upon years or decrepitude or wealth or friends. They said that he
+‘amongst them was great that studied the Vedas. All this that thou
+enquirest about has penances for its root. That penance, again, O
+son of Pandu, arises from the subjugation of the senses, Without
+doubt, one incurs fault by giving one's senses the reins, It is only by
+restraining them that one succeeds in earning success. The merit
+that attaches toa thousand Horse-sacrifices or a hundred Vajapeyas
+cannot come up to evena sixteenth portion of the merit that arises
+from Yoga, I shall, on the present occasion, recite to thee the circumst-
+ances of Suka’s birth, the fruits he won of his penances, and the fore-
+most end he achieved (by his acts), topics that are incapable of being un-
+derstood by persons of uncleansed soul. Once ona time on the summit
+of Meru adorned with Karnikara flowers, Mahadeva sported, accom-
+panied by the terrible spirits that were his associates. The daughter
+of the king of mountains, viz, the goddess Parvati, was also there.
+There at the close vicinity of that summit, the Island-born (Vyasa)
+underwent extraordinary austerities. O best of the Kurus, devoted to
+the practices of Yoga, the great ascetic withdrawing himself by Yoga
+into his own Soul, and engaged in Dharana, practised many austerities
+for the sake of (obtaining) a son. The prayer he addressed to the
+great God was,—O puissant one, let me have a son that will have
+the puissance of Fire and Earth and Water and Wind and Space.
+Engaged in the austerest of penances, the Island-born Rishi begged
+of:that great God who is incapable of being approached by persons
+of ‘uncleansed: souls, (not by words but) by his Yoga-resolution.
+The puissant Vyasa remained there for a hundred years, subsisting
+on air alone, engaged in adoring Mahadeva of multifarious form, the
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-vdlumes-in-12-pdf-files/
+
+## Page 89
+
+496 MAHABHARATA
+
+lord of Uma. Thither all the regenerate Rishis and royal sages and
+the Regents of the world and the Sadhyas along with the Vasus, and
+the Adityas, the Rudras, and Surya and Chandramas, and the Maruts,
+and the Oceans, and the Rivers and the Aswins, the Deities, the
+Gandharvas, and Narada and Parvata and the Garfdharva Viswavasu,
+and the Siddhas, and the ‘Apsaras, There Mahadeva, called also by
+the name of Rudra, sat, decked with an excellent garland of Karnikara
+flowers, and blazed with efulgence like the Moon with his rays.
+In those delightful and celestial woods populous with deities and
+heavenly Rishis, the great Rishi remained, engaged in high Yoga-
+contemplation, from desire of obtaining a son. His strength suffered
+no diminution, nor did he feel any pain. At this the three worlds
+were much amazed, While the Rishi, possessed of immeasurable
+energy, sat in Yoga, his matted locks, in consequence of his energy,
+were seen to blaze like flames of fire. The illustrious Markandeya
+it was from whom I heard of this. He used always to recite to me
+the acts of the deities. It is for this that the matted locks of the
+high-souled and ( Island-born ) Krishna, thus emblazed by his energy
+on that occasion, seem to this day to be endued with the complexion
+of fire. Gratified with such penances and such devotion, O Bharata,
+of the Rishi, the great God resolved (to grant him his wish). The
+Three-eyed deity, smiling with pleasure, addressed him and said—O
+Island-born one, thou shalt get a son like to what thou wishest !
+Possessed of greatness, he shall be as pure as Fire, as Wind, as Earth,
+as Water, and as Space ! He shall be possessed of the consciousness
+of his being Brahma’s self ; his understanding and soul ‘shall be
+devoted to Brahma, and he shall completely depend upon Brahma
+so as to be indentifiable with it !—’”
+
+“SECTION CCCXXV i
+
+“Bhishma said,—'The son of Satyavati having obtained this high
+boon from the great God, was one day employed in rubbing his sticks
+for making a fire. While thus engaged, the illustrious Rishi, O king,
+beheld the Apsara Ghritachi, who, in consequence of her energy,
+was then possessed of great beauty. Beholding the Apsara in those
+woods, the illustrious Rishi Vyasa, O Yudhishthira, became-suddenly
+smitten with desire. The Apsara ( Ghritachi ), seeing the» Rishi's
+heart troubled by desire, transformed herself into a she-parrot and
+came to that spot. Although he, beheld the Apsara disguised ‘in
+another form, the desire that had arisen in the Rishi’s heart ( without
+disappearing) spread itself over very part of his body, Summoning
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 90
+
+SANTI PARVA 497
+
+all'his patience, the ascetic endeavour to suppress that desire. With
+all his effort, however, Vyasa did not succeed in controlling his agi-
+tated mind. In consequence of the inevitability of what was to happen,
+the Rishi’s heart was attracted by Ghritachi's fair form. He set him-
+self more earnestly to the task of making a fire for suppressing his emo-
+tion, but in spite of all his efforts his vital seed came out. That best
+of regenerate ones, however, O king, continued to rub his stick without
+feeling any scruples for what had happened. From the seed that fell,
+was born a son unto him, called Suka. In consequence of this circum-
+stance attending his birth, he came to be called by name of Suka- In-
+deed, it was thus that great ascetic that foremost of Rishis and highest
+of Yogins, took birth from the two sticks (his father had for making
+fire). As ina sacrifice a blazing fire shed its effulgence all around
+when libations of clarified butter are poured upon it, after the same
+manner did Suka take his birth, blazing with effulgence in consequence
+of his own energy. Assuming the excellent form and complexion that
+were his sire, Suka, O son of Kuru, of cleansed Soul, shone likea
+smokeless fire. The foremost of rivers, viz, Ganga. O king, coming to
+the breast of Meru, in her own embodied form, bathed Suka (after
+his birth) with her waters. There fell from the welkin, O son of Kuru,
+an ascetic’s stick and a dark deer-skin for the use, O monarch, of the
+high-souled Suka. The Gandharvas sang repeatedly andthe diverse
+tribes of Apsaras danced; and celestial kettledrums of loud sound
+began to beat. The Gandharva Viswavasu, and Tumvuru and Narada,
+and those other Gandharvas called by the names of Haha, and Huhu,
+eulogised the birth of Suka. There the regents of the world with Sakra
+at their head came, as also the deities and the celestial and the regener-
+ate Rishis. The Wind-god poured showers of celestial flowers upon
+the spot. The entire universe, mobile, and immobile, became, filled
+with joy, The high-souled Mahadeva of great effulgence, accompanied
+by the Goddess, and moved by affection, came there and soon after
+the birth of the Muni’s son invested him with the sacred thread. Sakra,
+the chief of the gods, gave him, from affection, a celestial Kamandalu
+of excellent form, and some celestial robes. Swans and Satapatras and
+cranes by thousands, and many parrots and Chasas, O Bharata, wheel-
+
+ed over his head. Endued with great splendour and intelligence, Suka,
+having obtained his birth from the two sticks, continued to live there,
+engaged the while in the attentive observance of many vows and fasts.
+A's soon as Suka was born, the Vedas with alltheir mysteries and all
+their abstracts, came for dwelling in him, O king, even as they dwell
+in his sire. For all that, Suka selected Vrihaspati, who was conversant
+with all the Vedas together with their branches and commentaries, for
+his preceptor, remembering the universal practice.’ Having studied
+
+1 Although the Vedas came to Suka of their own accord, yet he was
+
+63 Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 91
+
+498 MAHABHARATA
+
+allthe Vedas together will all their mysteries and abstracts, as also
+all the histories and the science of government, O puissant monarch,
+the great ascetic returned home, after giving his preceptor the tuition-
+fee, Adopting the vow ofa Brahmacharin, he then commenced to
+practise the austerest penances concentrating all his attention thereon.
+In even his childhood, he became an object of respect with the gods
+and Rishis for his knowledge and penances. The mind of the great asce~
+tic, O king, took no pleasure in the three modes of life with the domes-
+tic among them, keeping in view, as he did, the religion of Emancipa-
+tion.
+
+SECTION CCCXXVI
+
+“Bhishma said—'Thinking of Emancipation, Suka approached
+his sire and possessed as he was of humility and desirous of achieving
+his highest good, he saluted his great preceptor and said,—Thou art well
+versed in the religion of Emancipation. Do thou O illustrious one,
+discourse to me upon it, so that supreme tranquillity of mind, O puis-
+sant one, may be mine | —Hearing these words of his son, the great
+Rishi said unto him,—Do thou study, O son, the religion of Emancipa-
+tion and all the diverse duties of life !—At the command of his sire,
+Suka, that foremost of all righteous men, mastered all the treatises on
+Yoga, O Bharata, as also the science promulgated by Kapila) When
+Vyasa beheld his son to be possessed of the resplendence of the Vedas,
+endued with the energy of Brahma, and fully conversant with the reli-
+gion of Emancipation, he addressed him, saying,—Go thou to Janaka
+the ruler of Mithila. The king of Mithila will tell thee everything for
+thy Emancipation Bearing the command of his sire, O king, Suka
+proceeeded to Mithila for enquiring of its king about the truth of
+duties and the Refuge of Emancipation. Before he set out, his sire
+further ttold him,—Do thou go thither by that path which ordinary
+human beings take. Do not have recourse to thy Yoga-puissance for
+proceeding through the skies—At this Suka was not at all surprised
+(for he was humble by nature). He was further told that he should
+proceed thither with simplicity and not from desire of pleasure.—Along
+your way do not seek for friends and spouses, since friends and
+spouses are causes of attachment to the world. Although the ruler
+of Mithila is one in whose sacrifices we officiate, still thou shouldst not
+indulge in any feeling of superiority while living with him. Thou shouldst
+
+in deference to the universal custom, obliged to formally acquire them from
+a preceptor.—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 92
+
+SANTI PARVA 490
+
+live under his direction and in obedience to-him. Even he will dispel
+all thy doubts.! That king is well versed in all duties and well
+acquainted with the scriptures on Emancipation. He is one for whom I
+officiate in sacrifices. Thou shouldst, without any scruple, do what he
+bids—Thus instructed, the righteous-souled Suka proceeded to Mithila
+on -foot although he was able to traverse through the skies over the
+whole Earth with her seas. Crossing many hills and mountains, many
+rivers, many waters and lakes, and many woods and forests abounding
+with beasts of prey and other animals, crossing, the two Varshas of
+Meru and Hari successively and next the Varsha of Himavat, he came
+at last to the Varsha known by the name of Bharata. Having seen many
+countries inhabited by Chins and Huns, the great ascetic at last reached
+Aryavarta. In obedience to the commands of his sire and bearing
+them constantly in his mind, he gradually passed along his way on tke
+Earth like a bird: passing through the air. Passing through many delight-
+fultowns and populous cities, he saw diverse kinds of wealth without
+waiting to observe them. On his way he passed through many delight-
+ful gardens and planes and many sacred waters. Before much time had
+passed he reached the country of the Videhas that was protected by the
+virtuous and high-souled Janaka. There he beheld many populous
+villages, and many kinds of food and drink and viands and habitations
+of cowherds swelling with men and many herdsof cattle. He beheld
+many fields abounding with paddy and barley and other grain, and many
+lakes and waters inhabited by swans and cranes and adorned with
+beautiful lotuses. Passing through the Videha country teeming with
+- well-to-do people, he arrived at the delightful gardens of Mithila rich
+with many species of trees. Abounding with elephants and horses and
+cars, and peopled by men and women, he passed through them without
+waiting to observe any of the things that were presented tohis eye,
+Bearing that burthen in his mind and ceaselessly dwelling upon it (viz,
+the desire'of mastering the religion of Emancipation), Suka of cheerful
+soul and taking delight in internal survey only, reached Mithila at last.
+Arrived at the gate, he sent word through the keepers. Endued with
+tranquillity of mind, devoted to contemplation and Yoga, he entered
+the city, having obtained permission, Proceeding along the principal
+street abounding with well-to-do men, he reached the king’s palace and
+entered it without any scruples. The porters forbade him with rough
+words. Thereat, Suka, without any anger, stopped and waited. Neither
+1 Vyasa was the priest or Ritwija of the house of Mithila and as such
+
+the kings of Mithila were his ‘Yajyas’ or ‘Yajmanas.’ The duty ofa
+*Yajamana’ is to reverence every member of the priest’s family. The sire,
+
+therefore, cautions the son that he should not, while living with the king
+of Mithila, assert his superiority over him in any respect.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 93
+
+600 MAHABHARATA
+
+the sun nor the long distance he had walked had fatigued him in the
+least- Neither hunger, nor thirst, nor the exertion he had made, had
+weakened him. The heat of the Sun had not scorched or pained or
+distressed him in any degree. Among those porters there was one who
+felt compassion for him, beholding him staying there like the midday
+Sun in his effulgence. Worshipping him in due form and saluting him
+properly, with joined hands he led him to the first chamber of the
+palace. Seated there, Suka, O son, began to think of Emancipation only.
+Possessed of equable splendour he looked with an equal eye upon a
+shaded spot and one exposed to the Sun's rays. Very soon after, the
+king's minister, coming to that place with joined hands, led him to the
+second chamber of the palace. That chamber led to a spacious garden
+which formed a portion of the inner apartments of the palace. It
+looked like a second Chaitraratha, Beautiful pieces of water occurred
+here and there at regular intervals, Delightful trees, all of which’ were
+in their flowering season, stood in that garden. Bevies of damsels, of
+transcendent beauty, were in attendance. The minister led Suka
+from the second chamber to that delightful spot. Ordering those
+damsels to give the ascetic a seat, the minister left him there. Those
+well-dressed damsels were of beautiful features, possessed of excellent
+hips, young in years, clad in red robes of fine texture, and decked with
+many ornaments of burnished gold. They were well skilled in agreeable
+conversation and maddening revelry, and thorough mistresses of the
+arts of dancing and singing. Always opening their lips with smiles, they
+were equal to the very Apsaras in beauty. Well-skilled in all the acts
+of dalliance, competent to read the thoughts of men upon whom.they
+wait, possessed of every accomplishment, fifty damsels, of a very
+superior order and of easy virtue, surrounded the ascetic, Presenting
+him with water for washing his feet, and worshipping him respectfully
+with the offer of the usual articles, they gratified him with exellent
+viands agreeable to the season. After he had eaten, those damsels then,
+one after another, singly led him through the grounds, showing him
+every object of interest, O Bharata. Sporting and laughing and singing,
+those damsels, conversant with the thoughts of all men, entertained
+that auspicious ascetic of noble soul. The pure-souled ascetic born in
+the fire-sticks, observant without scruples of any kind of his duties,
+having all his senses under complete control, and a thorough master of
+his wrath, was neither pleased nor angered at all this. Then those fore-
+most of beautiful women gave him an excellent seat. Washing his feet
+and other limbs, Suka said his evening prayers, sat on that excellent
+seat, and began to think of the object for which he had come there. In
+the first part of the night, he devoted himself to Yoga. The puissant
+ascetic, passed the middle portion ofthe night in sleep. Very soon
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 94
+
+SANTI PARVA 601
+
+waking up from his slumber, he went through the necessary rites of
+cleansing his body, and though surrounded by those beautiful women,
+he once again devoted himself to Yoga. It was in this way, O Bharata,
+that the son of the Island-born Krishna passed the latter part of that
+day and the whole of that night in the palace of king Janaka.’ "
+
+SECTION CCCXXVII
+
+“Bhishma said—The next morning, king Janaka, O Bharata,
+accompanied by his minister and the whole household, came to Suka,
+placing his priest in the van. Bringing with him costly seats and diverse
+kinds of jewels and gems, and bearing the ingredients of the Arghya on
+his own head, the monarch approached the son of his reverend precep-
+tor. The king, taking with his own hands, from the hands of his priest,
+that seat adorned with many gems, overlaid with an excellent sheet,
+beautiful in all its parts, and exceedingly costly, presented it with great
+reverence. to his preceptor's son Suka. After the son of (the Island-
+born) Krishna had taken his seat on it, the king worshipped him accord-
+ing to prescribed rites, At first offering him water to wash his feet, he
+then presented him the Arghya and kine. The ascetic accepted that
+worship offered with due rites and mantras. That foremost of regenerate
+persons, having thus accepted the worship offered by the king, and
+taking the kine also that were presented to him. then saluted the
+monatch, Possessed of great energy, he next enquired after the king's
+welfare and prosperity. Indeed, O king, Suka embraced in his enquiry
+the welfare of the monarch's followers and officers also. Receiving
+Suka’s permission, Janaka sat down with all his followers, Endued with
+a high soul and possessed of high birth, the monarch, with joined hands,
+sat down on the bare ground and enquired after the welfare and
+unabated prosperity of Vyasa’s son- The monarch then asked his guest
+the object of his visit. .
+
+“Suka said,—Blessed be thou, my sire said unto "me that his Yaja-
+mana, the ruler of the Videhas, known all over the world by the name
+of Janaka, is well versed in the religion of Emancipation. He commanded
+me to come to him without delay, if I had any doubts requiring solution
+in the matter of the religion of either Pravritti or Nivritti- He gave
+me to understand the king of Mithila would dispel all my doubts. I
+have, therefore, come hither, at the command of my sire, for the
+purpose of taking lessons from thee. It behoveth thee, O foremost of
+all righteous persons, to instruct me! What are the duties of a
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 95
+
+502 MAHABHARATA
+
+Brahmana, and what is the essence of those duties that have Emancipa-
+tion for their object. How also is Emancipation to be obtained ? Is it
+obtainable by the aid of knowledge or by that of penances ?—
+
+“Janaka said—Hear what the duties are of a Brahmana from the
+time of his birth. After his investiture, O son, with the sacred thread,
+he should devote his attention to the study of the Vedas. By practising
+penances and dutifully serving his preceptor and observing the duties
+of Brahmacharyya, O puissant one, he should pay off the debt he owes
+to the deities and the Pitris, and cast off all malice. Having studied
+the Vedas with close attention and subjugated his senses, and having
+given his preceptor the tuition fee, he should, with the permission of
+his preceptor, return home. Returning home, he should betake himself
+to the domestic mode of life and wedding a spouse confine himself. to
+her, andlive freeing himself from every kind of malice, and having
+established his domestic fire. Living in the domestic mode, he should
+procreate sons and grandsons, After that, he should retire to the
+forest, and continue to worship the same fires and entertain guests with
+cordial hospitality. Living righteously in the forest, he should at last
+establish his fire in his soul. and freed from all pairs of opposites, and
+casting off all attachments from the soul, he should pass his days in
+the mode called Sannyasa which is otherwise called the mode of
+Brahma.— ‘
+
+"‘Suka said—If one succeeds in attaining to an vaclecpaeiies
+cleansed by study of the scriptures and to true conceptions of all things,
+and if the heart succeeds in freeing itself permanently from the effects
+ofall pairs of opposites, is it still necessary for such a person to adopt,
+one after another, the three modes of life called Brahmacharyya, Gar-
+hastya, and Vanaprastha? This is what I ask thee. It behoveth thee
+to tellme. Indeed, O ruler of men, do tell me this according to the true
+import of the Vedas |—
+
+““Janaka said,—Without the aid of an understanding cleansed by
+study of the scriptures and without that true conception of all things
+which is known by the name of Vijnana, the attainment of Emancipa-
+tion is impossible. That cleansed understanding, again, it is said, is
+unattainable without one's connection with a preceptor. The preceptor
+is the helmsman, and knowledge is the boat (aided:by whom and which
+one succeeds in crossing the ocean of the world). After having acquired
+that boat, one becomes crowned with success. Indeed, having crossed
+the ocean, one may abandon both. For preventing the destruction of
+allithe worlds and for preventing the destruction of.acts (upon which
+the ‘worlds depend), the duties appertaining to the four ‘modes of | life
+were practised by the wise/of old. By abandoning acts, good and’ ‘bad;
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 96
+
+SANTI PARVA os
+
+agreeably to this order of acts one succeeds, in course of many birth, in
+attaining to Emancipation.’ That man who, through penances perform-
+ed in course of many births. succeeds in obtaining a cleansed mind and
+understanding and soul, certainly becomes able to attain to Emancipa-
+tion (in a new birth) in even the very first mode viz, Brahmacharyya.?
+When, having attained to a cleansed understanding, Emancipation
+becomes his and in consequence thereof he becomes possessed of know-
+ledge in respect of all visible things, what desirable object is there to
+attain by observing the three other modes of life 2® One should always
+cast off faults born of the attributes of Rajas and Tamas. Adhering
+to the path of Sattwa, one should know Self by Self.‘ Beholding one’s
+self in all creatures and all creatures in one’s self, one should live
+(without being attached to anything) like aquatic animals living in water
+without being drenched by that element. He who succeeds in transcend-
+ing all pairs of attributes and resisting their influence, succeeds in casting
+off all attachments, and attains to infinite felicity in the next world,
+going thither like a bird soaring into the sky from below. In this con-
+nection, there isa saying sungof old by king Yayati and borne in
+remembrance, O site, by all persons conversant with the scriptures
+bearing upon Emancipation. The effulgent ray (i.e., the Supreme Soul)
+exists in one’s Soul and not anywhere’else. It exists equally in all crea-
+tures. One can see it oneself if one's heart be devoted to Yoga. When
+a person lives in such a way that another is not inspired with fear at his
+sight, and when a person is not himself inspired with fear at the sight
+of others, when a person ceases to cherish desire and hate, he is then
+said to attain to Brahma. When a person ceases to entertain a sinful
+attitude towards all creaturesin thought, word, and deed, he is then
+said toattain to Brahma.’ By restraining the mind and the soul, by
+casting off malice that stupefies the mind, and by throwing off desire
+and: stupefaction, one is said to attain toBrahma. When a person
+assumes an equality of attitude in respect of all objects of hearing and
+vision (andthe operations of the other senses) as also in respect of all
+
+1 16 is certain that one must abandon all, acts before one can attain
+to Emancipation, But then acts should not be cast off all at once. It is
+according to this order that they should be abandoned, é.e., in the order of
+the severs! modes.—T.
+
+2 The ‘karanas’ are the inner faculties.—T.
+
+8 Ie., when Emancipation and omniscience have been attained in the
+very first mode of life, no further need exists for conforming to the three
+other modes of life.—T.
+
+4 ie, behold the Supreme Soul by his own Soul.--T,
+
+5 Instead of ‘papakam’ some texts read ‘pavakam’, meaning of. the
+nature of fire.’ —T, 4
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 97
+
+604 MAHABHARATA
+
+living creatures, and transcends all pairs of opposites, he is then said to
+attain to Brahma. When person casts an equal eye upon praise and
+dispraise, gold and iron, happiness and misery, heat and cold, good and
+evil, the agreeable and the disagreeable, life and death, he is then said
+to attain to Brahma. One observing the duties of the mendicant orders
+should restrain one’s senses and the mind even like a tortoise withdraw-
+ing its out-stretched limbs.? As a house enveloped in darkness is capable
+of being seen with the aid ofa lighted lamp, after the same manner
+can the soul be seen with the aid of the lamp of the understanding. O
+foremost of intelligent persons, I see that all this knowledge that Iam
+communicating to thee dwells in thee. Whatever else should be known
+by one desirous of learning the religion of Emancipation is already
+known to thee, O regenerate Rishi, Iam convinced that through the
+grace of thy preceptor and through the instructions thou hast received,
+thou hast already transcended all objects of the senses-? O great ascetic,
+through the grace of that sire of thine, I have attained to omniscience,
+and hence I have succeeded in knowing thee. Thy knowledge is much
+greater than what thou thinkest thou hast. Thy perceptions also that
+result from intuition are much greater than what thou thinkest thou
+hast. Thy puissance also is much greater than thou art conscious of.
+Whether in consequence of thy tender age, or of the doubts thou hast
+not been able to dispel, or of the fear that is due to the unattainment
+of Emancipation, thou art not conscious of that knowledge due to
+intuition although it has arisen in thy mind, After one’s doubts have
+been dispelled by persons like us, one succeeds in opening the knots of
+one’s heart and then, bya righteous exertion one attains to and becomes
+conscious of that knowledge. As regards thyself, thou art one that hast
+already acquired knowledge. Thy intelligence is steady and tranquil,
+Thou art free from covetousness. For all that, O Brahmana, one never
+succeeds in -attaining to Brahma, which is the highest object of acquisi+
+tion, without exertion, Thou seest no distinction between happiness
+and miserys Tiou art not covetous. Thou hast no longing for dancing
+and song. Thou hast no attachments. Thou hast no attachment to
+friends. Thou hast no fear in things that inspire fear. O blessed one, I
+see that thou castest an equal eye upona lump of gold and a clod of
+earth. Myself and other persons possessed of wisdom, behold thee esta-
+blished in the highest and indestructible path of tranquillity. Thou
+
+1 After ‘manasa,’ ‘saba’is understood. It does not mean that the
+senses are to be restrained by the mind, but the words imply that the mind
+and the senses are to be restrained. K.P. Singha renders the line correctly,
+The Burdwan translator, as usual, is careless.—T.
+
+2 K.P. Singha skips over this verse.—T,
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 98
+
+SANTI PARVA 605
+
+stayest, O Brahmana, in those duties which obtain for the Brahmana
+that fruit which should be his and which is identical with the essence of
+the object represented by Emancipation. What else hast thou to ask
+
+me ?—'
+
+SECTION CCCXXVIII
+
+“Bhishma said,—'Having heard these words of king Janaka, Suka
+of cleansed soul and settled conclusions began to stay in his Soul by his
+Soul, having of course seen Self by Self.1 His object being accomplish-
+ed, he became happy and tranquil, and without putting further ques-
+tions to Janaka, he proceeded northwards to the mountains of Himavat
+with the speed of the wind and like the wind.? Those mountains
+abounded with diverse tribes of Apsaras and echoed with many lofty
+sounds, Teeming with thousands of Kinnaras and Bhringarajas* it was
+adorned, besides, with many Madgus and Khanjaritas and many Jivaji-
+vakas of variegated hue. And there were many peacocks also of
+gorgeous colours, uttering their shrill but melodious cries. Many bevies
+of swans also, and many flights of gladdened Kokilas too, adorned the
+place. The. prince of birds, viz., Garuda, dwelt on that summit
+constantly. The four Regents of the world, the deities, and diverse
+classes of Rishis, used always to come there from the desire of doing
+good to the world. It was there that the high-souled Vishnu had undere
+gone the severest austerities for the object of obtaining a son. It was
+there that the celestial generalissimo named Kumara, in his younger
+days, disregarding the three worlds with all the celestial denizens, threw
+down his dart, piercing the Earth therewith. Throwing down his dart,
+Skanda, addressing the universe, said,—If there be any person that is
+superior to me in might, or that holds Brahmanas to be dearer, or that
+can compare with me in devotion to the Brahmanas and the Vedas, or
+that is possessed of energy like unto me, let him draw up this dart or at
+least shake it [—Hearing this challenge, the three worlds become filled
+with anxiety, and all creatures asked one another, saying,—Who will
+raise this dart ?—Bishnu beheld all the deities and Asurasand Rakshasas
+to be troubled in their senses and mind. He reflected upon what should
+
+1 Le., he turned his soul’s gaze on his soul and withdrew himself from
+every worldly object.—T.
+
+2 He no longer walked like ordinary men. Without trailing along the
+solid support of the Earth, he proceeded through the sky.—T.
+
+8 Popularly, Bhimaraja, the Lanius Malabaricus.—T,
+
+64 Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 99
+
+606 MAHABHARATA
+
+be the best to be done under the circumstances. Without being able
+to bear that challenge in respect of the hurling of the dart, he cast his
+eyes on Skanda, the son of the Fire-god. The pure-souled Vishnu caught
+hold of the blazing dart, with his left hand, and began to shake it,
+When the dart was being thus shaken by Vishnu possessed of great
+might, the whole Earth with her mountains, forests, and seas, shook with
+the dart. Although Vishnu was fully competent to raise the dart, still
+he contented himself with only shaking it. In this, the puissant lord
+only kept the honour of Skanda intact. Having shaken it himself, the
+divine Vishnu, addressing Prahlada, said—Behold the might of Kumara!
+None else in the universe can raise this dart! Unable to bear this,
+Prahlada resolved to raise the dart. He seized it, but was unable to
+shake it at all. Uttering a loud cry, he fell down on the hill-top in a
+swoon. Indeed, the son of Hiranya-kasipu fell down onthe Earth.
+Repairing towards the northern side of those grand mountains, Maha-
+deva, having the bull for his sign, had undergone the austerest penances.
+The asylum where Mah adeva had undergone those austerities is encom-
+passed on all sides witha blazing firee Unapproachable by persons of
+uncleansed souls, that mountain is known by the name of Aditya. There
+is afiery girdle all around it, of the width of ten Yojanas, and it is
+incapable of being approached by Yakshas and Rakshasas and Danavas,
+The illustrious god of Fire, possessed of mighty energy, dwells there in
+person employed in removing allimpediments from the side of Maha-
+deva of great wisdom who remained there for a thousand celestial years,
+all the while standing on one foot. Dwelling on the side of that fore-
+most of mountains, Mahadeva of high vows (by his penances) scorched
+the deities greatly! At the foot of those mountains, in a retired spot,
+Parasara’s son of great ascetic merit, viz., Vyasa, taught the Vedas unto
+his disciples. Those disciples were the highly blessed Sumantra, Vaisam-
+payana, Jaimini of great wisdom, and Paila of great ascetic merit. Suka
+proceeded to that delightful asylum where his sire, the great ascetic
+Vyasa, was dwelling, surrounded by his disciples. Seated in his asylum,
+Vyasa beheld his son approach like a blazing fire of scattered flames, or
+resembling the sun himself in effulgence. As Suka approached, he did
+not seem to touch the trees or the rocks of the mountain. Completely
+dissociated from all objects of the senses, and engaged in Yoga, the high-
+souled ascetic came, resembling, in speed, a shaft let from a bow. Born
+on the fire-sticks, Suka, approaching, his sire, touched his feet. With
+
+1 It is believed that a person, by performing austere penances, scor-
+obes the three worlds. It is in consequence of this effect of penances that
+the superior deities were always compelled by the Asuras and Danavas to
+grant them whatever boons they solicited.—T.
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/
+
+## Page 100
+
+SANTI PARVA 607
+
+becoming formalities he then accosted the disciples of his sire. With
+great cheerfulness he then detailed to his father all the particulars of
+his conversation with king Janaka. Vyasa the son of Parasara, after
+the arrival of his puissant son, continued to dwell there on the Himavat
+engaged in teaching his disciples and his son. One day as he was seated,
+his disciples, all well-skilled in the Vedas, having their senses under
+control, and endued with tranquil souls, sat themselves around him. All
+of them had thoroughly mastered the Vedas with their branches. All of
+them were observant of penances. With joined hands they addressed
+their preceptor in the following words.
+
+“The disciples said.—We have, through thy grace, been endued
+with great energy. Our fame also has spread. There is one favour that
+we humbly solicit thee to grant us.—Hearing these words of theirs, the
+regenerate Rishi answered them, saying,—Ye sons, tell me what that
+boon is which ye wish I should grant you !—Hearing this answer of their
+preceptor, the disciples became filled with joy. Once more bowing their
+heads low unto their preceptor and joining their hands, all of them in
+one voice said, O king, these excellent words:—If our preceptor has been
+pleased with us, then, O best of sages, we are sure to be crowned with
+success! Weall solicit thee, O great Rishi, to grant usa boon. Be
+thou inclined to be graceful to us. Let no sixth disciple (besides us five)
+succeed in attaining to fame! We are four. Our preceptor’s son forms
+the fifth. Let the Vedas shine in only us five! Even this is the boon
+that we solicit ;—Hearing these words of his disciples, Vyasa, the son of
+Parasara, possessed of great intelligence, well conversant with the
+meaning of the Vedas, endued with a righteous soul, and always engaged
+in thinking of objects that confer benefits on a person in the world
+hereafter, said unto his disciples these righteous words fraught with
+great benefit:—The Vedas should always be given unto him whoisa
+Brahmana, or unto him who is desirous of listening to Vedic instructions,
+by him who eagerly wishes to attain a residence in the region of
+Brahman! Do ye multiply. Let the Vedas spread (through your exer-
+tions). The Vedas should never be imparted unto one that has not
+formally become a disciple. Nor should they be given unto one who is
+not observant of good vows. Nor should they he given for dwelling in
+one that isof uncleansed soul. These should be known as the proper
+qualifications of persons that can be accepted as disciples (for the
+communication of Vedic knowledge). No science should be imparted
+unto one without a proper examination of one’s character, as pure gold
+is tested by heat, cutting and rubbing, after the same manner disciples
+should be tested by their birth and accomplishments. Ye should never
+set your disciples to tasks to which they should not be set, or to tasks
+that are fraught with danger. One's knowledge is always commensurate
+
+Downloaded from https://www.holybooks.com
+https://www.holybooks.com/mahabharata-all-volumes-in-12-pdf-files/

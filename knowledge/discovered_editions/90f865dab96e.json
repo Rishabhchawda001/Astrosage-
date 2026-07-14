@@ -1,0 +1,33 @@
+{
+  "title": "Arogyanidhi2",
+  "discovered_at": "2026-07-13T12:39:55.698209+00:00",
+  "edition_count": 1,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "Arogyanidhi2",
+      "title": "Arogyanidhi - 2",
+      "creator": "",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

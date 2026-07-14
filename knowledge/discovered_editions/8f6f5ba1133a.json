@@ -1,0 +1,394 @@
+{
+  "title": "test_download",
+  "discovered_at": "2026-07-13T17:05:30.690085+00:00",
+  "edition_count": 14,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "TOEFL iBT. Internet-Based Test",
+      "authors": [
+        "Pamela Sharpe",
+        "Pamela J. Sharpe",
+        "Pamela Sharpe Ph.D."
+      ],
+      "year": 2006,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "borrowable",
+      "public_domain": false,
+      "ia_identifiers": [
+        "barronshowtoprep00shar",
+        "barronshowtoprep0012shar",
+        "barronstoeflibti00shar",
+        "barronstoeflibti0000shar_q8h0",
+        "toeflibtinternet0000shar",
+        "toeflibtinternet00shar_0",
+        "barronstoeflibti0000shar"
+      ],
+      "edition_count": 16,
+      "isbn": [
+        "9780764183447",
+        "9780764143687",
+        "0764179179",
+        "9780764196980",
+        "0764184164",
+        "1438001568",
+        "0764196995",
+        "9780764183164",
+        "9780764183430",
+        "9780764133749",
+        "9780764183065",
+        "0764183192",
+        "9781438076249",
+        "0764143689",
+        "0764183451",
+        "9780764196997",
+        "9780764179051",
+        "9781438076256",
+        "0764183443",
+        "1438011873",
+        "0764179055",
+        "0764183176",
+        "143807624X",
+        "9781438011875",
+        "0764183060",
+        "0764184156",
+        "9781438078847",
+        "1438076258",
+        "9780764183201",
+        "9780764179174",
+        "9780764183454",
+        "0764183168",
+        "0764183435",
+        "9781438001562",
+        "0764183184",
+        "9780764184161",
+        "9780764184154",
+        "0764133748",
+        "1438078846",
+        "9780764183171",
+        "0764183206",
+        "9780764183188",
+        "9780764183195",
+        "0764196987"
+      ],
+      "publisher": [
+        "Barrons Educational Series",
+        "Barron's",
+        "Barron's Educational Series",
+        "Kaplan Publishing",
+        "B.E.S. Publishing",
+        "Barron's Educational Series, Inc",
+        "Barrons Educational Series, Inc"
+      ],
+      "ol_key": "/works/OL2966944W"
+    },
+    {
+      "source": "open_library",
+      "title": "Financial Aid Test Downloadable Update",
+      "authors": [
+        "Raymond D. Loewe"
+      ],
+      "year": 2002,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "0471264857",
+        "9780471264859"
+      ],
+      "publisher": [
+        "John Wiley & Sons"
+      ],
+      "ol_key": "/works/OL8226788W"
+    },
+    {
+      "source": "open_library",
+      "title": "Instructor's Manual with Tests (Download Only) for Intro to African American Studies",
+      "authors": [
+        "Eric Jackson"
+      ],
+      "year": 2014,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "0205841023",
+        "9780205841028"
+      ],
+      "publisher": [
+        "Pearson Education, Limited"
+      ],
+      "ol_key": "/works/OL36652171W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "purple-and-black-bold-and-bright-music-presentation-1_202506",
+      "title": "Purple And Black Bold And Bright Music Presentation ( 1)",
+      "creator": "Tiranga",
+      "year": 2004,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Metadata"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "book-one-how-to-build-doctrine",
+      "title": "Book One - How to Build Doctrine \u2014 The Scriptural Instruction Series",
+      "creator": "Bryan Gwin",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "hp-3964a3968a-operating-service-manual",
+      "title": "HP 3964A & 3968A Operating & Service Manual",
+      "creator": "Hewlett-Packard",
+      "year": 1979,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "Metadata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Financial Aid Test Downloadable Update",
+      "authors": [
+        "Raymond D. Loewe"
+      ],
+      "year": 2002,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "0471264857",
+        "9780471264859"
+      ],
+      "publisher": [
+        "John Wiley & Sons"
+      ],
+      "ol_key": "/works/OL8226788W"
+    },
+    {
+      "source": "open_library",
+      "title": "TOEFL iBT. Internet-Based Test",
+      "authors": [
+        "Pamela Sharpe",
+        "Pamela J. Sharpe",
+        "Pamela Sharpe Ph.D."
+      ],
+      "year": 2006,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "borrowable",
+      "public_domain": false,
+      "ia_identifiers": [
+        "barronshowtoprep00shar",
+        "barronshowtoprep0012shar",
+        "barronstoeflibti00shar",
+        "barronstoeflibti0000shar_q8h0",
+        "toeflibtinternet0000shar",
+        "toeflibtinternet00shar_0",
+        "barronstoeflibti0000shar"
+      ],
+      "edition_count": 16,
+      "isbn": [
+        "9780764183447",
+        "9780764143687",
+        "0764179179",
+        "9780764196980",
+        "0764184164",
+        "1438001568",
+        "0764196995",
+        "9780764183164",
+        "9780764183430",
+        "9780764133749",
+        "9780764183065",
+        "0764183192",
+        "9781438076249",
+        "0764143689",
+        "0764183451",
+        "9780764196997",
+        "9780764179051",
+        "9781438076256",
+        "0764183443",
+        "1438011873",
+        "0764179055",
+        "0764183176",
+        "143807624X",
+        "9781438011875",
+        "0764183060",
+        "0764184156",
+        "9781438078847",
+        "1438076258",
+        "9780764183201",
+        "9780764179174",
+        "9780764183454",
+        "0764183168",
+        "0764183435",
+        "9781438001562",
+        "0764183184",
+        "9780764184161",
+        "9780764184154",
+        "0764133748",
+        "1438078846",
+        "9780764183171",
+        "0764183206",
+        "9780764183188",
+        "9780764183195",
+        "0764196987"
+      ],
+      "publisher": [
+        "Barrons Educational Series",
+        "Barron's",
+        "Barron's Educational Series",
+        "Kaplan Publishing",
+        "B.E.S. Publishing",
+        "Barron's Educational Series, Inc",
+        "Barrons Educational Series, Inc"
+      ],
+      "ol_key": "/works/OL2966944W"
+    },
+    {
+      "source": "open_library",
+      "title": "Instructor's Manual with Tests (Download Only) for Intro to African American Studies",
+      "authors": [
+        "Eric Jackson"
+      ],
+      "year": 2014,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "0205841023",
+        "9780205841028"
+      ],
+      "publisher": [
+        "Pearson Education, Limited"
+      ],
+      "ol_key": "/works/OL36652171W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "purple-and-black-bold-and-bright-music-presentation-1_202506",
+      "title": "Purple And Black Bold And Bright Music Presentation ( 1)",
+      "creator": "Tiranga",
+      "year": 2004,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "Metadata"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "baliapal-koulare-punjab-1987",
+      "title": "\u0b2c\u0b3e\u0b32\u0b3f\u0b06\u0b2a\u0b3e\u0b33 \u0b15\u0b4b(\u0b15\u0b42)\u0b33\u0b30\u0b47 \u0b2a\u0b1e\u0b4d\u0b1c\u0b3e\u0b2c",
+      "creator": "\u0b28\u0b3e\u0b30\u0b3e\u0b5f\u0b23",
+      "year": 1987,
+      "language": "Oriya",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "book-one-how-to-build-doctrine",
+      "title": "Book One - How to Build Doctrine \u2014 The Scriptural Instruction Series",
+      "creator": "Bryan Gwin",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2072500831",
+      "title": "Statistical power analyses using G*Power 3.1: Tests for correlation and regression analyses",
+      "year": 2009,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.3758/BRM.41.4.1149.pdf",
+      "authors": [
+        "Franz Faul",
+        "Edgar Erdfelder",
+        "Axel Buchner"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2087484885",
+      "title": "G*Power 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences",
+      "year": 2007,
+      "is_oa": true,
+      "oa_url": "https://link.springer.com/content/pdf/10.3758%2FBF03193146.pdf",
+      "authors": [
+        "Franz Faul",
+        "Edgar Erdfelder",
+        "Albert-Georg Lang"
+      ]
+    }
+  ]
+}

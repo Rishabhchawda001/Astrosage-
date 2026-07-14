@@ -1,0 +1,21 @@
+{
+  "scripture": "Bhagavat Purana",
+  "date": "2026-07-14T06:38:04.500894",
+  "editions": {
+    "Khemraj Part 1": 7714,
+    "Khemraj Part 2": 198,
+    "Gita Press Vol 1": 8971,
+    "Hindi Full": 17966,
+    "Vol 2 Sanskrit-Hindi": 215
+  },
+  "total_unique_ckus": 35056,
+  "canonical_ckus": 8,
+  "edition_only_ckus": 35048,
+  "evidence_distribution": {
+    "1": 35048,
+    "2": 8,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  }
+}

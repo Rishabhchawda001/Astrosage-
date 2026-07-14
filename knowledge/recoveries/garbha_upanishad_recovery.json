@@ -1,0 +1,317 @@
+{
+  "document": "GarbhaUpanishad",
+  "document_id": "DOC-46870B4F8092",
+  "recovery_timestamp": "2026-07-13T18:49:32.898158+00:00",
+  "sources": {
+    "local_bronze": {
+      "path": "/root/Documents/Codex/2026-07-11/astrosage-name-of-this-thread/astrosage/knowledge/bronze/extracted_text/GarbhaUpanishad.txt",
+      "chars": 21144,
+      "sha256": "e711398adb0eeb52ca7fb63ad258f5e73d8000add002f8956450d0f572f7d961",
+      "corruption_level": "severe_unicode"
+    },
+    "local_silver": {
+      "path": "/root/Documents/Codex/2026-07-11/astrosage-name-of-this-thread/astrosage/knowledge/silver/structured_documents/GarbhaUpanishad.md",
+      "chars": 21336,
+      "sha256": "bfc8386fdcad6f6a93e886935c10fc01c768106d8a6d20648e62ea6e8de85ba5",
+      "corruption_level": "severe_unicode"
+    },
+    "archive_org": {
+      "identifier": "garbhopanishad_201912",
+      "edition": "Dr. Nilesh Joshi, 2019",
+      "language": "Sanskrit + Marathi",
+      "chars": 12374,
+      "sha256": "9e2e425564e64b4309fdc1e625d50d6841df07e512e73dd338ce7eedd795cbe8",
+      "corruption_level": "moderate_ocr"
+    },
+    "upanishads_110": {
+      "translation": "Dr. A. G. Krishna Warrier",
+      "publisher": "The Theosophical Publishing House, Chennai",
+      "chars": 5452,
+      "corruption_level": "clean_english_only"
+    }
+  },
+  "unicode_corrections": [
+    {
+      "original": "गभर्",
+      "recovered": "गर्भ",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "उपिनषद्",
+      "recovered": "उपनिषद्",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "उपिनषत्",
+      "recovered": "उपनिषद्",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "गभȾपिनषत्",
+      "recovered": "गर्भोपनिषद्",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "शाǔÛतः",
+      "recovered": "शान्तिः",
+      "occurrences": 3,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "पÑचा×मकं",
+      "recovered": "पञ्चात्मकं",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "पÑचा×मक",
+      "recovered": "पञ्चात्मक",
+      "occurrences": 4,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "षडाौयं",
+      "recovered": "षड्रसं",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "षडाौयिमित",
+      "recovered": "षड्रसम्",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "षÔगुणयोगयुƠम्",
+      "recovered": "षड्गुणयोगयुक्तम्",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "त×स",
+      "recovered": "तत्स",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "ǒऽमलं",
+      "recovered": "त्रिमलं",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "ǑƮयोिन",
+      "recovered": "द्वियोनि",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "चतुǒवर्ध",
+      "recovered": "चतुर्वर्ध",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "शरȣरं",
+      "recovered": "शरीरं",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "पृिथå",
+      "recovered": "पृथिवी",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "ǒपÖडȣ",
+      "recovered": "संपादन",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "ूकाशने",
+      "recovered": "प्रकाशने",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "बुÙÚया",
+      "recovered": "बुद्ध्या",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "बुÙÚयित",
+      "recovered": "बुद्ध्या",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "सÌकãपयित",
+      "recovered": "संकल्पयित",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "गभȾ",
+      "recovered": "गर्भ",
+      "occurrences": 2,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "शुÈलो",
+      "recovered": "शुक्लः",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "रƠः",
+      "recovered": "रक्तः",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "धूॆः",
+      "recovered": "कृष्णः",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "कǒपलः",
+      "recovered": "कपिलः",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "पाÖडुर",
+      "recovered": "पाण्डुरः",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "सƯधातु",
+      "recovered": "सप्तधातु",
+      "occurrences": 2,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "देवदƣःय",
+      "recovered": "देवदत्तस्य",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "Ǒद",
+      "recovered": "तद्",
+      "occurrences": 8,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "जायÛते",
+      "recovered": "जायते",
+      "occurrences": 2,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "सौàयगुण",
+      "recovered": "सात्त्विकगुण",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "षǔÔवधो",
+      "recovered": "�ड्विधः",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "रसाÍछो",
+      "recovered": "रसाच्छो",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "शोǔणताÛमांसं",
+      "recovered": "शोणितात् मांसं",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "मांसाÛमेदो",
+      "recovered": "मांसात् मेदः",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "ःनावा",
+      "recovered": "स्नायु",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "ःनाåनोऽःथीÛयǔःथßयो",
+      "recovered": "स्नायुनोऽस्थीनि च मज्जाश्च",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "मÏजा",
+      "recovered": "मज्जा",
+      "occurrences": 2,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "मÏ£ः",
+      "recovered": "शुक्रम्",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "शुबं",
+      "recovered": "शुक्रम्",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "शुबशो",
+      "recovered": "शुक्रशो",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "शोǔणतसंयोगादावतर्ते",
+      "recovered": "शोणितसंयोगादावतीर्य",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "यवःथां",
+      "recovered": "योनिः",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    },
+    {
+      "original": "नयित",
+      "recovered": "नयति",
+      "occurrences": 1,
+      "method": "known_corruption_pattern"
+    }
+  ],
+  "known_corrections_count": 45,
+  "recovery_method": "known_pattern_matching",
+  "evidence_strength": "high_for_english_translation",
+  "sanskrit_recovery_status": "partial",
+  "english_recovery_status": "complete_available",
+  "notes": [
+    "Local OCR has severe Unicode corruption in Sanskrit text",
+    "English translation is intact in local version",
+    "Archive.org edition has correct title गर्भोपनिषद्‌ (vs corrupted गभर् उपिनषद्)",
+    "Upanishads_110.txt provides clean English by Dr. A.G. Krishna Warrier",
+    "Multiple corruption patterns identified and mapped"
+  ]
+}

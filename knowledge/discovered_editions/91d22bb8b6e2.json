@@ -1,0 +1,107 @@
+{
+  "title": "Vigyan Bhairav Tantra, Vol 2 (1)",
+  "discovered_at": "2026-07-13T15:33:49.660332+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "oshoYoga",
+      "title": "Philosophia Ultima by rajneesh ( osho )",
+      "creator": "osho",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "Columbia Peaks",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "JPEG",
+        "Metadata",
+        "Ogg Vorbis",
+        "PNG",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Spectrogram",
+        "Text",
+        "Text PDF",
+        "VBR MP3"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3033879073",
+      "title": "Getting off the Wheel: A Conceptual History of the New Age Concept of Enlightenment",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://brill.com/downloadpdf/journals/nu/67/4/article-p373_2.pdf",
+      "authors": [
+        "Bas J.H. Jacobs"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4400737252",
+      "title": "Ayurvedic poisonous plants and their medicinal values",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://www.hjhs.co.in/index.php/hjhs/article/download/210/158",
+      "authors": [
+        "Zahid Urrehman",
+        "Akila Begum"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "oshoYoga",
+      "title": "Philosophia Ultima by rajneesh ( osho )",
+      "creator": "osho",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Abbyy GZ",
+        "Archive BitTorrent",
+        "Columbia Peaks",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "JPEG",
+        "Metadata",
+        "Ogg Vorbis",
+        "PNG",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Spectrogram",
+        "Text",
+        "Text PDF",
+        "VBR MP3"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3033879073",
+      "title": "Getting off the Wheel: A Conceptual History of the New Age Concept of Enlightenment",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://brill.com/downloadpdf/journals/nu/67/4/article-p373_2.pdf",
+      "authors": [
+        "Bas J.H. Jacobs"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4400737252",
+      "title": "Ayurvedic poisonous plants and their medicinal values",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://www.hjhs.co.in/index.php/hjhs/article/download/210/158",
+      "authors": [
+        "Zahid Urrehman",
+        "Akila Begum"
+      ]
+    }
+  ]
+}

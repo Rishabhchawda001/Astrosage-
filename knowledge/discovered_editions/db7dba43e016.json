@@ -1,0 +1,69 @@
+{
+  "title": "brihaspatisutrao00brharich",
+  "discovered_at": "2026-07-13T15:58:02.413557+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "Brihaspati sutra, or, The science of politics according to the school of Brihaspati",
+      "authors": [
+        "Brhaspati."
+      ],
+      "year": 1921,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "public",
+      "public_domain": true,
+      "ia_identifiers": [
+        "brihaspatisutrao00brharich"
+      ],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Moti Lal Banarsi Dass"
+      ],
+      "ol_key": "/works/OL10705114W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "brihaspatisutrao00brharich",
+      "title": "Brihaspati sutra, or, The science of politics according to the school of Brihaspati",
+      "creator": [
+        "Brhaspati",
+        "Thomas, Frederick William, 1867-1956",
+        "Bhagavad Datta, 1893-1968"
+      ],
+      "year": 1921,
+      "language": "eng",
+      "formats": [
+        "Abbyy GZ",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "Daisy",
+        "DjVu",
+        "DjVuTXT",
+        "Djvu XML",
+        "Dublin Core",
+        "EPUB",
+        "Grayscale PDF",
+        "Item Tile",
+        "MARC",
+        "MARC Binary",
+        "MARC Source",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scan Factors",
+        "Scandata",
+        "Single Page Original JP2 Tar",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

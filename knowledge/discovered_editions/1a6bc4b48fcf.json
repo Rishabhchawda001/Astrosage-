@@ -1,0 +1,175 @@
+{
+  "title": "Mahabharata-VOL-10",
+  "discovered_at": "2026-07-13T13:48:39.069108+00:00",
+  "edition_count": 7,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.390273",
+      "title": "\u0c2e\u0c39\u0c3e\u0c2d\u0c3e\u0c30\u0c24\u0c24\u0c24\u0c4d\u0c35\u0c15\u0c25\u0c28\u0c2e\u0c41-\u0c35\u0c47\u0c26\u0c35\u0c4d\u0c2f\u0c3e\u0c38\u0c28\u0c3f\u0c02\u0c26\u0c3e\u0c28\u0c3f\u0c30\u0c3e\u0c15\u0c30\u0c23\u0c2e\u0c41 \u0c26\u0c4d\u0c35\u0c3f\u0c24\u0c40\u0c2f \u0c2d\u0c3e\u0c17\u0c2e\u0c41",
+      "creator": "\u0c35\u0c3e\u0c30\u0c23\u0c3e\u0c38\u0c3f \u0c38\u0c41\u0c2c\u0c4d\u0c30\u0c39\u0c4d\u0c2e\u0c23\u0c4d\u0c2f\u0c36\u0c3e\u0c38\u0c4d\u0c24\u0c4d\u0c30\u0c3f",
+      "year": 1948,
+      "language": "tel",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.311257",
+      "title": "The Mahabharata Vol.2 Shlokpad Suchi",
+      "creator": "Vishnu S.sukthankar",
+      "year": 1968,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "mahabharatatatparyanirnayavol1bannanjegovindacharyav_202003_855_T",
+      "title": "Mahabharata Tatparya Nirnaya Vol 1 Bannanje Govindacharya V",
+      "creator": "Karna Dhar",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "open_library",
+      "title": "Characters from the Mah\u0101bh\u0101rat",
+      "authors": [
+        "Chander Kanta Suri"
+      ],
+      "year": 1992,
+      "languages": [
+        "eng"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [],
+      "publisher": [
+        "Books For All"
+      ],
+      "ol_key": "/works/OL38796683W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.541486",
+      "title": "The Mahabharata Vol.1 Adiparvan Vol.-ii",
+      "creator": "Vishnu S.sukthankar",
+      "year": 1969,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.382280",
+      "title": "\u0cb6\u0ccd\u0cb0\u0cc0 \u0cae\u0ca8\u0ccd\u0cae\u0cb9\u0cbe\u0cad\u0cbe\u0cb0\u0ca4 \u0ca4\u0cbe\u0ca4\u0ccd\u0caa\u0cb0\u0ccd\u0caf \u0ca8\u0cbf\u0cb0\u0ccd\u0ca3\u0caf \u0cb8\u0c82\u0caa\u0cc1\u0c9f \u0ceb",
+      "creator": "\u0c95\u0cc1\u0cb2\u0c95\u0cb0\u0ccd\u0ca3\u0cbf \u0c85\u0cb0\u0ccd. \u0c8e\u0c9a\u0ccd",
+      "year": null,
+      "language": "kan",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "JPEG Thumb",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.390273",
+      "title": "\u0c2e\u0c39\u0c3e\u0c2d\u0c3e\u0c30\u0c24\u0c24\u0c24\u0c4d\u0c35\u0c15\u0c25\u0c28\u0c2e\u0c41-\u0c35\u0c47\u0c26\u0c35\u0c4d\u0c2f\u0c3e\u0c38\u0c28\u0c3f\u0c02\u0c26\u0c3e\u0c28\u0c3f\u0c30\u0c3e\u0c15\u0c30\u0c23\u0c2e\u0c41 \u0c26\u0c4d\u0c35\u0c3f\u0c24\u0c40\u0c2f \u0c2d\u0c3e\u0c17\u0c2e\u0c41",
+      "creator": "\u0c35\u0c3e\u0c30\u0c23\u0c3e\u0c38\u0c3f \u0c38\u0c41\u0c2c\u0c4d\u0c30\u0c39\u0c4d\u0c2e\u0c23\u0c4d\u0c2f\u0c36\u0c3e\u0c38\u0c4d\u0c24\u0c4d\u0c30\u0c3f",
+      "year": 1948,
+      "language": "tel",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

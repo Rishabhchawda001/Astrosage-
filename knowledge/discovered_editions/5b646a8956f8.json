@@ -1,0 +1,171 @@
+{
+  "title": "vedic_astro_textbook",
+  "discovered_at": "2026-07-13T17:11:28.610990+00:00",
+  "edition_count": 8,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "vedic_astro_textbook-2",
+      "title": "vedic_astro_textbook-2",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "anfb_vedic-astro-textbook-tantra-books",
+      "title": "Vedic Astro Textbook Tantra Books",
+      "creator": "Tantra Books",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "vedic_astro_textbook-2_202403",
+      "title": "JYOTISHA",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "vedic_astro_textbook-2",
+      "title": "vedic_astro_textbook-2",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "vedic_astro_textbook-2_202403",
+      "title": "JYOTISHA",
+      "creator": "",
+      "year": null,
+      "language": "",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "anfb_vedic-astro-textbook-tantra-books",
+      "title": "Vedic Astro Textbook Tantra Books",
+      "creator": "Tantra Books",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3163848012",
+      "title": "Empirical testing of few fundamental principles of Vedic astrology through comparative analysis of astrological charts of cancer diseased persons versus persons who never had it",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://www.allresearchjournal.com/archives/2021/vol7issue5/PartB/7-5-6-895.pdf",
+      "authors": [
+        "Nagesh Rajopadhye",
+        "Abhishek Rajopadhye",
+        "Madhura Rajopadhye"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4381141028",
+      "title": "Evolution of Caste System: How are Nepali Dalits Left Behind in Education?",
+      "year": 2022,
+      "is_oa": true,
+      "oa_url": "https://www.nepjol.info/index.php/scholars/article/download/55780/41648",
+      "authors": [
+        "Bhawan Singh Chalaune"
+      ]
+    }
+  ]
+}

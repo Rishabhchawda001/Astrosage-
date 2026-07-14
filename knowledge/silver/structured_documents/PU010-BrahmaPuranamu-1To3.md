@@ -1,0 +1,4375 @@
+# PU010-BrahmaPuranamu-1To3
+
+**Document ID:** DOC-EF9A1BC7E49D
+**Language:** mixed (mixed)
+**Pages:** 594
+**Class:** unknown
+**SHA256:** `ef9a1bc7e49d88bf461a97efc5f968bf6e55e2e7f3e6cbf09952e8211193f11d`
+**Pipeline:** Document Intelligence v1.0
+
+---
+
+## Page 1
+
+www.freegurukul.org
+
+## Page 2
+
+8, ah
+
+TOS ७७6... 09०७ DS SQ.
+60% Soar ०००6 Heb Sos ७०० foo deg
+
+as th
+
+oo rom ००६ (5 33 (ob ७४ज रु
+
+too 62&०20०ह
+
+मा]
+
+है श्र
+ier a
+<a 00% ४06 ००७. BOR; २०७ ODD rom ०%०३०७ gs too 558०8 gm =
+ho 65969
+{90> Bot gm neers (od CasQdIIr0a ead, wor BD to 95७-७०5 कप (20 ७60०6
+toe DerswsosAs toe dogtnd ooarards
+
+toe ब 33००० 843०७ (oe eovairy के. 3०
+
+(0b dado 2०००6
+
+——————
+
+## Page 3
+
+Fie
+
+Free Gurukul
+
+"EDS MBH Debs BPOGAS” GO DOH, BsyevyoSs 87066 0५6 SOSOr” + 9०00० + छठ &06000० +
+TEIGSS> LPG OOHOD Dar SU SMS avciorr Se YYSRy arSS 8405७) 3S V5( Geos BQd oh
+80905" Mod HSOoH ७०६६५७७०४००. ७०५५४) 000 aro8 ६,७9७ 39060 च60090606०00.
+
+ayn TH TO VSO 882&6 arsorw Se BoBAS TPHoiodSO. Se Opthos HoH ayo ७७३ DSeo
+७0804%4660. advdoS Qysren How PRIgovs GS) 6806 Avs Baviiavos. ०60 QB NoywWs
+&8७0त"० woder JarSw, Say sexys Dede, SAyer sw SDIS DorsChow ss DHOS wooosssedy, Arse
+SOV SH erSS DOD SESW HOT avew, क्षण्ठल्लेणु<५० Geos 88 God NoQood ow.
+
+Se Gowrom &HSo~ V5 BH H HwAHL, OMA SLE) च08%6068 6७ Svoren:
+t) erS 8६0७७ Bd 996: htto/Awww.new.diiemet.in
+2) OS 0060809० Ness BoBYAS BS HES : www.freegurukulorg
+3) San wan Sa VE : httpsy/sites.google.com/site/sairealattitudemanagement
+4) 308 wd: Free Gurukul
+
+OOS: बेड, SEQ HPoGo GHSorr eBook Grnoss क्षण्ठ७ Hadawy GAS Sad Hsiao’ 85060
+80008. BO HAPS GjQYIO GOS OH. Se HE? ७0०७&0ए१००७१७(७०७5,७) SHAY / SHSen ७६६०<०००० JOH
+SMS YYSOW (8०05600 BOSHD. OMS How MBH GALOSOSHDMHD SAS’ SH 3००४ 5069, PSO
+&०७06066०60 OD MHD SxS odway Aw.
+
+Website: www.freegurukul.org Mobile App: Free Gurukul email: support@freegurukul.org
+
+Facebook: www.facebook.com/freegurukul — Help Line / WhatsApp: 904 202 0i23
+
+“SoS OF 0: 0००४००, SYP ;OS' 60066 966 ७6 SOSorr + Moore + Bs aborr + weaySH Sr ७०५७8 eonodawd "
+
+660९ DOH 8665 B08HS5 — Free Gurukul Education Foundation
+
+DFO Dare JCS DAS e9NaQQ
+
+## Page 4
+
+WSS HAS De HS - GOS Gad wh moda
+
+http://www.new.dli.ernet.in
+
+— Digital Library of India: In: x
+
+Digital Library of India
+
+Hosted by: Indian Institute of Science. Banaalore in co-operation with
+CMU. IITT-H, NSF, ERNET and MCIT for the Govt. of India and 24 major participating centres.
+
+oe Vision Mission Goals Benefits ContentSelection Current Status People Funding Copyright Policy FAQ REP
+
+* Books
+
+Title) Ramayanam |
+Author = | DLT |
+Year sito
+Subject} Any Subject ¥
+aa ee
+Languagy Telugu v — = — — = ST |
+Scanning sc, For the first time in history, the Digital Library of India is digitizing all the significant works of Mankind
+Centre Any Centre
+case) [[Seacn] Click Here to know More about DLt “"”
+Books Journals Newspapers Manuscripts
+* Rashtrapati Bhavan ° INSA « Times of India * Tamil Heritage
+Conan © CMUBooks + Indian Express Foundation
+Pr ives + The Hindu + AnnaUniversity Newt
+‘Statistics Report sanskrit,
+ui * Deccan Herald
+Status Report * TD. Tinupathi * Eenadu
+Feedback | Suggestions | * Kerala Sahitya « Vaartha
+Problems | Missing links or Akademi
+Books
+
+Title Beginning with.
+eek ste for Ek Conectinn aje|cilojelFiciwilii)ai«iciein|olplealals|tilulviwi xiv) 2
+
+Author's Last Name
+
+DLIMIRROR at IUCAA Data Center PUNE
+
+Year
+3850-4900__] 904-9:0 | 7974-4920__]_ 4927-7930__] 4937-4940__] 4947-7950 | 3957- |
+| a ee ae ee et Oe ee ee eT
+} Astrophysics} Biology | Chemistry | Education | Law [mathematics Mythology | Retision | eee |
+Language
+English | Bengali | | Kannada | Marathi | Telugu
+
+## Page 5
+
+38० Mboshor 00065, Sax ३$व्यू[० 0४0 058०४
+Hoiherrr 8र्चुद/णताए atitseh 608. wssdvo 00 6086",
+S08 sol) ४५ daz 58.8 558!
+
+Deer! SH eScohod Mrwh Tabs 08०8.
+PEsdtoT ar, BSS Grgar sas Svsrgs
+POSES 58667 970 ahs dish, 60555 dabcrng
+PUSS FH Vow BosFeryO! expt sis wed
+abiger, &3४5४5०४5४0)७०, &000००४6:5००, ok Derydaitoen ७८००
+cinsites, wero’ arte Srtosboh 6१887, (65०४० xp brr
+S855 BotiNentbeoail!
+
+BoE SBS Thos Say ४०४४०३००७, ७० FES,
+PHSohN 608 Hoh SHG sa wO Smoth SEsSciow
+EAM sored. Noo, ७४09०. sons ‘ay 4
+S&SBsoodHos. end he 06.४० Tor? ७०४४ do 59600
+50276 Hoyos GSowAS ६700० दप५8 Sofmo sepsioh.
+[65०४० ७ Gono ४530 0८०5057"0४०8. छर्दड Serarenrr aot
+ड/४पृएएछ०६० ह५ू.6० ४00०0. art Hod 6०5४90%%० डी कु८०
+80700. OS) Saree whol ath ऊँ "9:8७ So satigrots,
+
+Sh eras hm. win siktirgesss Sros 05508:
+Tohir Hasse. AorBhhe! ter si) 406.08 ७४६6०,
+४5% 598०, ४2548:७०3०, SKMBSE” oP 2568 was
+BOD 3&]०6. 68 eHOeyHH (ऐ०७०४०6- +
+
+475७०: है PSosQ HS - ३१७४७ 20I4
+
+## Page 6
+
+peter en ar LAP IIE LIES TE reas mE,
+
+eon y WI a0. )
+
+weet
+
+(2) 9) Sows छ*ठ०65983
+
+Bw S sows), 508 889 ४000 Oe
+Eyes yan Wot थे?
+
+~$ ‘ 2 «. =a
+3605: aero!) TOSS He Seoctwtos «
+co है
+
+४, 9985 Bxgots 000०0 #&60099-50८ nowprvssre
+6575 छह> 8 DIGsoo Ochoa 7 ote हैं? ४०४०५ 5 ev
+oe eg n _ Do rae
+BPC " "Oo sox COO 2 )® Bomba 59050 WC nro sos
+
+655०8) Pas) n° v OV SI QOET Pep 4 wiv k 2७१ poor? my) 8559 oo? $ cod &
+
+,
+
+8, 3 ०७६5० ६) ONO HCO ४०० ८ Soot wee Go
+’ हि ( « 6 .
+SOD? S SPO cave a YS a) BA C3 aH 0550 2") yo
+०265 DWH HB worsreo<e ०) ४0-5955०6 Roo So
+&@ ४
+
+55०59 BTPGO MOO wd wd (2 2)) ७ “) wrod 5 छा SSE ७
+D&D
+
+wee ON Tet
+
+## Page 7
+
+हि ae —
+
+by
+
+By) Sg T° ६३ So
+
+BB SDH ‘Jo Dgrosoo nore, 88 S35 BIB
+8098, TPA IBATES ०2980, TI DAM HH PSone, Sy,
+४0 5, SSS, PAS, SoS, 80४००, FR, SPS, OST
+5७, sGard, Sos, WAH, woo, 585, SNS DQ,
+PX चैहठ, Sv, Wo, SS, WSS, PISS, ४०४, SHlara
+
+a
+
+हि 5 :
+४)४४7०७१) रद xs >) x NOS Soa > 5०%: Ace so $ as eT Sere) 5 aye?
+बुरे SIPS? 50557 028d, | We SH we ४३७०४ aire
+. 2 .
+
+3)
+
+९००३. Soa, Das 8 & 8 ८559 A. § GP ore WET OI KS
+
+eat. ५
+
+०४०४०, 6599 TUS ऑहर्क ४०) ७७०० 2885:52808 6060
+
+BND, SO ५ Ree ४) है Ea) OY, HS ४१७५-०४ के SE OWNS
+
+= दर 4
+
+Dossy oan SO दी Teo wo a
+
+Bote  MssreGowW
+है]
+
+om
+
+7
+
+४5४ 5,567 ०६७ क्रा0008९0०029 0000 wr. ८89575680 ९४ woo
+rf 75 %, oo
+
+schsormbe Ko SY QB Moth dive Mazso
+
+race 345 :
+SS WD (१ ७० ८४७५ 4
+
+50 5
+
+“WOK rao www, 800८४" ०४ vow
+YQ) PRN (0६0०९)
+
+aD, aap ६90200 Soe
+
+ay Oc
+
+Snoes.
+
+NHooythoD aie
+
+Shows, MmBaothoorwr, Se apare™ ७०४): 2,०४०४७ RM Ko
+ON
+
+80D, Der sxsoewe wed SHOOT * Woda bio OPO TIN
+
+cA.
+
+SHB \ Bass DP OD EPYSy S00 » enter wWrSse a8 wy ae
+
+a,
+
+soo “ Seo So 8 ee पछ
+20076 TW HOD 55»४ 5 ST°-GNoans "3550४
+s पर va D Coe
+
+MI og HP yg Vos Soa ands, od ६६ iS, ६6
+
+## Page 8
+
+Ue
+
+४०) 3592 SUP cd Moo *
+
+cnt ABA Boor SsysrS votes TOSS aeg ८७ <
+SITPRO Reo D 85०
+
+«८८5९८ wera PS “wee FF? sae ™“ 54 ow apa x
+SB SOPPAg ows “RV NCWIT soises 3 { &%8 ई SEEN
+
+. ५...... On
+Sst 5259 ००5०० Sao, खण्ड Sogo 53४७5 2७७०७ ox Bs
+— x 7 Ss .
+5) ४90565650. DoeooNKHdsaHomen By. Wore
+
+Kpomocso® AS) VWGowwoess. SWor-Mso wroOleXo wos
+650८ Send | ५655४) ० BSG 2 Si Bn 'ड०८>(७८४ $
+& Ni 9, 3) ocsoen 8:38 १ eesretoFamowwe  AswBo
+yor Soowol eX Dio Mercm, 99500 00 B SSN PSH ०
+
+Day, ne .
+3०97)539 589.
+cq
+
+DEL छ०७880%90४ 9 HB*Qo 55065, - DBs ome, OE 5६४5० "3500०
+Maio, eo ye S *eMowor, Dspossort SSL SSpo Rss क्ै+ए४०७
+ag
+
+XB joOssowso 5०6550:5063, FoN Moro, ४७० GHjo Mow Bees
+
+| ४0५० Hoos, Yrronr Bey 8४5० How, ४ उटकंछ SCS Ho ४9
+
+sh, soa 3 उ१8६००४०७४७, WKS) PYBvdh कैफ 040 ०७०028७89, Ox
+नजर
+
+5089589%9539, #3एण०७ Teoria, 0४१५ कण्ठ3०%7639, 7००० BOT?
+
+Sows, NG grBH Soo rows © tg 9०० H, WeExS 5 ६8305
+
+oh.
+
+iy
+
+5, Ene (isrso Hw, SH ODTQVOAwH SOS SSO D
+
+WON आ0३०४००१४२०० SSC or OMOND, 6860४ Sora, ६-2 2४050
+
+‘\
+
+5
+
+eB 3500 ४0:50 WY ०609० ४०४ ७5०७० DIST? poate, w?
+
+po
+
+SK 59006 09, ४०). Sst oom SmMsrdow SWE, ४9४
+ठ59 DAWA) TVS 659; BOSN Do How S Tes
+H5 Se sai, Sos Dhoom, soy) om 88503 Bo Mow
+
+BORN, BID BGO Psi SSS 5556०) 8८ [० Sow wei
+
+## Page 9
+
+¥ 2") 3g ४) OP ६9 3६53
+
+6०७, Bxsarytous, BA owss SX Tas 25) 7
+reso NS ps DrPH Daodo tH tory wo. 8००३-०० ७० ठण् | sno
+BES er88 “BoswKeaXs 55908 6 289०८ [Wy owsews PXSosoo —
+Eko [wr Eg om aA DYfo wowasd Ko gs Ook
+Benois. SYS aow SsAaPTsoesmH, ४४: 5
+४8590 Sows, DS BL SSo aso Foe, BSD Sows हल
+Bow pay 0 ७३6०७ 80%. NBG sod grveassio Gass,
+०३०९८४४० Herre Qos” DMT ASF soroary. ४४४
+“on ° Soe 2ob) COSY 56७76" ogo BoSoansc ध्स्ध्गू
+SX ) 30 2579 0S aT? MOWAT} ८४०५. . 8६20 BS) WrrBoossa.
+SdH 9090 ४४७ 8:50
+
+4 SARS OSX 8४99० be :
+७०७७ / “६8
+
+SHG Gor BS Beayo Soo DBS oro &<6क्क*र 850
+Sm, ४ )क०86)00890%89 SAS HFSWoMeBS cor DFGasvod
+
+98.6० wrotoxyS. sod Bes ero! द्वाण्कण्छ55896-6% 5
+wore, OMT Garoorse Hr #90कश्छ ठऊ oosrgerGS 280.
+85:89 8 8 chHD Boer. 558&6०898006 dHosrosSoawm,
+CHsrosr oma Fred 6830 29965 ४०5१8 ०७ 3B
+C3 MIPS MOT? ahr sono Fre हो] 5880 ०2७. ono
+४०३४०७०७७ ODD GAH. 8७059 SSH) HSJavoo0~ Bae
+Soro | 5९890 Ko बा हुआ 5ु४०००४७० 2943 aio, 90089 20४3 aso
+SK Dao 59६०१ ४९ ४०३७४ ४४7७9 SBS) soa, SoSH
+४६4 Somme 8 ९30 Womans ४26 RE "०७०० Deagwe
+
+## Page 10
+
+| 2) SQ ४9) 5" & Kose ञ रू
+
+0 6 083300४5 7०७ 297०७ ७ Dro SOS Sawn &5 oD B DYES DI.
+छे*&दकू०8 96505 555४0 oem,
+
+700०5590 47 ह SYK SoHo DOSS aos SyBoo0s SDe
+Zodsarcs , BSI 4289 8008 हक TDcsHo
+0800०. ४०७ $88०४०४७ 0 9०७४७, ESYoewead "6-००,
+
+a 3 0 ESSN. Sevoowwen 6 HaSso2n? (Frsoveyrec Xe
+
+(0
+
+8
+
+39 MESS MregN arses क्*0००53508४0१४४७०%०४ Dar g Boo
+BENQM, ७१७ BONNAS, Bos 59088 599 wor sstor No
+559४7) 4:77१८ १00&88020 BAD. दू०90550< arsrg som DY os
+HaoX MEQVOBM, WYSS 55786. 6008०48 42 ox yor
+Mors TES ०४८०७:४०४० y ८० SXSo%o Sr arBeagQn wo
+WROOWHO DE ०5969 567०5590%०४७०७ SSSoSS Isso wo
+SVD 55506 ००५७३९० TDD GowmWn anoeonrc Sase™ SA,
+Bo 8 WN soi SVS SoNw, SoSSW Nsom Bors 8 ६532६
+
+3, ७806380 Sos 583 5590०88%99 H°S HT soN aH SyScovoG
+RH.  Hageoc 7१698 9 aSoasaa7v"c ४०90५ FAFoo, S'wons, 559
+Sow, WRow, Srsow, (७०४०, 58 BdoSeomrc Ko & 3
+' छ090०0 ०559 ४5996. €9७०४६6० aang ९०: SarSBN rao ens
+7 xon08 SoSDyoOS arcs SSMS soo SEBS aro O89
+- RoBs . 85086 sob-D ७०8), Gorse, Howes, De
+..__ ७८%, ४१४०४), SRBocio—_ OH Sr*SHHS) rh D exo
+wwioS SoM yNoOS, HGF sowr~wd Coo? Gos MWS 60 ६०75 %
+'5089:69900590 79 NASSP Roddinxy ४55. Do Doras
+TSW ७७०४०८ BHyowmimpng we. SZ ४ SPXoaomMoe
+
+## Page 11
+
+. fe
+
+DY SQ Y Te ६३ Soro
+
+55658 Sy ono. SHard Ww Sew ४05 Scud
+SM. Minsk 8४ Wr SPSS VFOWS wWrayc
+BD Hooves WAY ce SCs VW २0० t Ba Bayo wes)
+
+Jo
+2) sega 6&8 GS Toss ve OOO sian £90 2000 556 )#६००
+
+heed
+
+23979 HSS ० TODS Sg
+
+—o
+
+| Spoomis, Sorrwbws <QiGSsomwo Sows
+E2009 TPDOWWSTA 56900. SID Soo Do DST OS,
+SAYS Hod 0659 ASQ 020००४०, SY OBANEPAG So aww, [Sdir
+MOWRY 02 CDAD, 4032 38 Somes, 85550) A 39700 ०३७७
+en Sx 5%80 बैं० २७००० ४४9५४. ०४० VRQ. BAS
+AS) ४)808 5० 55) y soso} «= RoenyHyorws, ssoroor,
+Roxosowo Gow HAWKS SAN E30 D, sore Bassas
+Sp BOOS VAST esw 8००७ ere yNT PS BSowes,  soeSasno
+TBGH DSK csowwHw NykoBM. Hy chadgrsiog 20
+89894 959४ Ms 4955० 68५ PrSsoyooaeo & 2883 ४9०9०
+HBySQow ००598. Der sOsos ads gBsjo BSS Bod
+S Row Mi BJrPSR 780८ WSTMOBGS. TNO.
+AB Srenss% 65 Gsrrowwi Tom wooo 50 4778० ado
+
+Sor BHOS DD DS SoM _ a jerDas Ro
+
+DSsore 66 sxtao dr apr Hye SPLAT Soave wrS8 ०४
+, § ;
+
+na
+
+SD PNXSoMooH S Asis) Dorp SyavoWw. edo?
+
+oxo HSS sHweDHWspd ४,0५० 9. Gao 5४8)55560 ४
+
+dans SD Baexson S/o, BHD T3599 559:0०४४ SOK (०) ४८४७
+
+eens
+
+## Page 12
+
+४7) xe S® 69 Sov. <
+
+HB. GB 80908:5०865880 ०802०. GSoTIsy 6%-586०॥०
+
+Som, 95550) ३,०४४ WM ४59893) Sars 89 TPDO WN»
+
+pow Dy ०.5 “<0
+sar Asher eel 85९
+
+ys 2) ASS BW °oSsios NesoAws sew
+३०४० SisawwxigoRoora, 8 bxootoois, rag soBoomwas
+
+=) 7०80 00 :8553 85७55 FN chofoaws av BixBo ert
+४5० 6") ६289«
+
+Kh DW orvee :
+ee XS के ) x90 Pe pend
+——# Dy AN See 4
+
+8556० Kea 5550. BX 60% 00% 5556० 8823 BSyja do
+
+Do BM —SJorsB 5557४ ) 500) DSO wbBD BKB YS SPE Soo
+ESS) Bes sO ys Bor M27 ay Bods *FowwwH Brg HSC BNO
+55908 Bape ol! QoSWshoomy Ways sowtssdapo BS SONS}
+WroS8g sr Od ०5७, SAI DNs io SOF STS SHMF SQM
+WAYXC BSTHW., SGISGT°HTSY -HOYIIS VS. Go <6
+Svan Sio westod SHOSAN SOO YY Mrrc ws
+Me OM QwtHwahoce AGohow sam Sx SRT aso S09
+Kom 58०६ 22) AIT ASS SwX SoS" oss SGoSS sD
+320 ९००७ ४०७५ कि... 888+6०07 BoaGahopimmysos FS
+Urs GOA ows Noosa, Bassoons, SE Wado
+88083 5४ 0 3000५ ६१०65 9 9०० BMD wo ES sas er sO EQM
+Vs 655/987555०0 BAA Progr BEX rod Sor Boho MS
+४557० ):9; M&, Doro, SSS em PNHSSOSMOD we
+
+## Page 13
+
+रुप ०) 3g DT ६३२ Sve
+
+2h, GU SP Me Ssacth Ser SOROS ८50 BB ००३) ह
+He में)कै००४८४कैत3े३४ SBSH ASD, 70% 059, SSS aos
+SorX 0००७४ BSNowo TPoONAdSY ४82७ 67०8) छ"्द807%0०
+‘wos MBSA OSH ४००९७ ४४59)०० १8988. FS SOHBS
+Srirrsys SOD SIC ४ SIH. Nowy SAC
+Rose wYersO Gos as ESPs Bdowods Seogye
+HisYJoos— PJ Has," 88 sotfocs, Sassi go Facts, SOB
+(३७९४ Qe
+... 80४४) pores! soxwsePrGo FS Kosjoxs WOT
+SHH) SPododsarcs He (foe ANQNoSS Wow a
+SISSY SS SyH- BIS Ho2SM 6०४) S008 af X Soto
+fer 62") 850 २० BIDS SA 59576 ०७४०४००३११४००३७ Tre ySs0
+४४३७ DEQoAsow SNE wr boBw. ७ [98880 ०६०७०
+DS sired Jo BS: ठ7०क765००० SSB 57) ६365० 506'
+Moss 88 Riko KoOMDODNACE eer! 0800 caress
+
+a
+
+ays { we 8 { 6 xs ! 3 है
+SSH QoS SUS ४» NDI HIPB” 88 ! DDI ASIA S ४503 +895
+CEOS) ४2४6 क्र 878 ४2,280 ००४७ Boor Tyo
+
+Kose !? ed S\FoRo 5
+
+OSHS Xs PSK . हैं ७३8५7 ४0: 2002 33363
+६००१४०४७०५ BX. Wee Lemestala, | 59०४०, 5) 228
+Snes, Dex SyF or ¢ 838 28८४७ 8753 60 So") 8S wo
+
+| Bw SH 87998, OOS ayer OKYy S035 BS™* SaSwo aX
+BSypxpo % 29.0000 BAD « 85988. 0४ ४)#५४8 659 SPAS]
+DVemdIwaH BSS OeIN By ooisho & ar Sx MH Se '0
+
+i
+'
+
+i,
+fi
+
+## Page 14
+
+| 9) QD VP & Nove an
+
+BH, GMBOYSS Bors (AT GarosPwsow) 4०58 sind
+es WEG ००४५० ४9 लै॥6६)०४४७ ००७४७)*३१७०.....४४४०१८ So, Bree
+to, TSMQ oye, TIAL, KHgarv,, ४9, OARS, 0B
+'न्‍छ9)०8, ४0299 soy ck, BPAY ०४०----७४७क*४॑ Vo Sonos
+MPrWYWS SA onsso%w;, ON, 88७5४, कपूर, ४१४५)
+GOATS, Kd OS Tabomenke Bs 89059 ७5७७७०७ woxy
+DoDS. ors WHSaH0M Bene BBs SSorssr, 590
+BERG. Brac Sx [SarVotssc BoM. DIST?
+४४४७ ४६55 Does") 38556) ADV Sar SOs OArYh 5695 BeN?¥ 57४७
+SH SyROS Bod AH AlradAad costous SPN. Gig ४99०
+BOBS 596 0HSBIWOS SMVOCDMipo Bos) No Bs,
+SEDO Wo ssadosbeno xt Srow 8 2800० om, 39
+erBowMmo wm SA SO 587 8008. . ७६४६१४०४४७७७ %9 Syed
+ह 370 CSS SOD? 559%%3४ NOD )HMOBANE ७9. 586९5 899०0 ४% ७
+SMM Momr, ४&-द5%0059 |. swoBo. HB ") SHBvow~sse
+SHIP OW Mspo ४989, TeadrredimPDr 0 ७ Brag oS rs
+SON है ७०७७७ HM 883 xoaxrora Te wyPAcbo Taw HT
+ASS [STGH. BIAS Srvowes Teymoows
+8००8 KIN ety BS. Gea #555कर१०४ Rossy क्षै१४१०
+a BSE rata Qows ४४89 05% ७ 83559०:४5 BAZ ४ )%०३७ Sy
+How KOyoBH, Vlndaogeo R5ySSSwoms, THNsenowy
+ह #(०९६७५५ ०७४० ९228067क#६३०४७०९०४४ aT? MOLVA Drags Mowow
+Mougownord, DEVS oenenw\ 8°) ani 8 sow Sse DDX
+
+Somos BED. HWW DWI DS. 8693 कै 559 wna
+2
+
+## Page 15
+
+90 | ४४) og 8) OP 2d Mose
+
+MHHLESSoosH ०9 6०४०४ SSA. TSOSS 5१8९७
+
+MopowN BVoScNOAS. SHOT SS § Qogur eo ४2०:
+
+(SB? ON 9058)5 9"&805500 AOA. So5hS BHMoBD 65589
+B°Sg dots PDI MOH DH. APM DOAJ NOBASWS
+Bindoot PrHsws,, WY, Naw, FS, Seras ox wr.
+WW HYo Joo Shaot. OX wrso Broa FON wh 2) क्षण Sore ।
+56006 7 So CONE. 689 3 Hees Socios Gestone
+
+०) 09% Joos ०7४४६७० था 590 (MF 8&99द0०5859 soo) o> wes
+
+Meow WHS Tow [OSV Aba wreapoaso
+
+DERM. SOV] sero | HOP MWANAH[NSosiawo Bre prs
+
+29 Ne SBP wowmnsos SarSSo Bod ci PUB aD "S02
+
+SH APE SosiQ orm S siwoBs. STO थ , 5 Soo, SON OS
+
+6576४. 58585 S°SSNS DEQ ०४००० Boh Srsmws, ४०४ष०३४०
+
+७००० SAK) BS srsostore SxopSvohdas. ASTD
+
+ABowse BMMGWITsHow ४६०४५. Go Bors oso}
+
+wo Sapo [EP BIST? so 2053६ (४०३7 Bo BS, wr Uvws Sw
+
+BSP NvemH, SYGIyWtowo BS awo8d. wey sHsoxvo
+
+Wor ST SS Sw TPDO WS &6:50%१890०७०० ब553
+
+20०00555०60. & 'छ०5 ०४१४० DSS SroTSow we S*o8ss
+
+08% 88६००७० BITS. yO cosas spissayFarvo
+
+007s TS Go B Pow. BSyarvowsoo a So Saroas
+
+8965० BosHoroMHAaoS Bhs BScAT ow SrwFour
+
+SS SOW THe BIABOST Woo W°asEcao to GY asoe
+
+Basasaoeo WS ow 55% (Naa sooworre [warNrsow ata
+
+## Page 16
+
+a) rQ ho 2 35096 aQ
+
+2७ Sok Po GS. SHAHB ag, FIGS Be wes
+eK owsmo KOAS 6567०%96%85 DOO 87)क००३ ००४ 5 sox
+870200४5306 wrasos) SAY a) $m SyfomoDsa> Boobs
+OS — Tarcsw sso द्व 5६४४9 PIO 2H 9) “Rood
+BYD0D BoGod के Wwoow, WaHAy ०६३०४ Hd ४72 soo
+ADo tH ow. 89) aso 9) sso soar” SAMQRErW ON JT Gowe
+DLA Oe Ke B¥oOs Rowen wreosess Nao GB Taos.
+cS SoySogrg Soe OX Wer wrwsro2wed 0906 6590%9%8%3
+Ghoms S*sAar hoo Srosot Jor सके oremar)as
+Soe: Bota GAsrBoD ८६५ एहै०%०)०४००० ! 0०06 ००४४६७०४७ (A>
+93890 ६58#ठण्छछ०%४9००४७,. [NerVowsSVBoooS AHA We
+[&-&०%8” 3र्दी09०४९ wyPD ‘Boo NS SHINS So ४0989 «
+89953. 5888056०00)0 BA 89:55908० रॉ 56७38. ००४७४ SQ)
+559009. छिप 2 ० Kpowss 559/3 5०65 60०० ४)४१०४५
+९०20565:5570०8 ह | |
+
+998 ns My 005०0 ८४ Em, HBAS 8
+oxo § ८590 5355990 260८56«. THN DID Ome
+
+9530 कं ACY To oxo ws EHaswrwy. ४65४2 60558
+SHIMOV Ro 85०४ wes ठ5857#2कऊऊफओंं ! Hor Or 85७ है 8 SN
+Soo SVows, spcicdsso WON ९92४020०0 650 ATjowso Oy
+055० 530 Da okxo MO Sov s 7०४३४) ४5४578 80४2८ & ४७०४०. © sq
+“5680 ७ 3 ४०४ ५... “a पक
+बा. ४०४० Ore Ge हशकंऊण (४ iio DEDO US 4S PIP OG Bows
+८०००४ BD M8000, SerWesowow SOSA RDO W 83.7?
+हे ¢
+
+©2 SDVH. PXarMo BO Woshy9 DF goma ४58०8
+
+## Page 17
+
+co}
+
+Of ay ag ew) O° ee 3६:0०
+
+SSS छ ४557०) सैंड Soe Sy Loewe soc B50 ४०955
+88059 ४०४60565850:699"0, Dy SAD ro SxeSar BDA ey
+कि ne DEN VaroDs.
+
+AQS*S ३99४०००! SHHMH से") 58999 वर्ड ४० STs
+BorxeysoorsoB gXsotoo 00 शे055900590 ४ 9355... 565 Bes
+ey . SS BES eS, SiPHIVVO GN, SOS Boe BC S 58०
+SSposs GS KWo ४3 Te Nassar BSS, BOW aw, ACs
+By Hoary By 2400) 55707 TSG) AONOFT Bc wHsood (Pop
+55०0 GN soso SyBomo0 BiH. araSo ger SB 8४००८ ५5398555068 0
+BSGSS BOM, SS SoS % 38५ “pes NSD, SEAS जे:
+Xo 8, omBSAT IS Trav, Hom Isso  Saodyo5
+3 SEELNGIO <8504052 tyros 05678 XS SoS Bs,
+
+क्र, है 5g, AS DX, AK Nose ४7४४) FBS 55356 er tows
+API Bo TWroBA.. BLS ये ४९००५! TH AowostooNe ४४०50
+com K os ars a08 650 Do%wox ४७४ ४००४ OW MAY ४9७४७ Eo Ss
+
+8 SOG A; SBP OE M9 SOB ery 3509 WH 89 SUS shoo WS No
+53070) 59:86 ४००२७ :&०क्डेकछे
+| $छ्छेणी. og LBS wos’ DO Sado) Ds. 58-40
+WSs BS AresormisrynIiche! Bs, sews, 2०%, 67९
+SK, Dario: SOP SS छ ०5595 Ser hB Bow SHOd,
+SHS S DBS See ASow F 258०४ 5359 AD. sede
+Fy ! Hy Soe zs SHS er-SB aso gaya SEAT OMG sos
+mo8 asa RSS HODSt29 Bo MoS VOsHoasHy DD dH Try Soo Nase
+१95९ 53४४० नगजर&80489 BETTIE ४०४ ४8598०30559 whos So
+
+wee. eee hs ge a Te eer ae]
+
+## Page 18
+
+- 2) 56%) Bor eo Se | छठे
+
+[59 Bere Soc B 569०6 559 VO AGA Sora १2556.
+४० 8*55555 PL ७४०० 80 55899 8०८ क/८ए४%१०5६-०., * छि
+sobIGeos Basrarerase उएछ०० वैठ00 TIS.
+598 दै ००००! GIB MTrFsswo Towser gor HH*ess
+DUQNoMewS sw. SOS wossoiso ०7७७ amadxc[Soeoxsr
+\S HN cwowws Srwwsorgeo WH. SEH B sordops
+€० BN SOX Sos TD Dow or; 9887 Oroto
+5650, NA 550600578 Wo 9 2.059००४४००४)) WOM aMoa05 Bre
+PX ISOs TE. GY Troows KVMs cwaos Box ४9
+KA Some SH, GUA SSowwswOe SsySTsowS Tesoro
+B ०059० AH Ores gross DoTPSESy BoA Do
+“SOC SS0BRS Korains 3060९ dooSoans SON SMeseNo
+we Swe Dow. ह
+MIP 600. 6०99 BIW Hrs 559%069७0 aoter 8839 ४)
+2 ०-७8. वकालत ! .8०७४४७४-०४४७ SOX 55०० 0.४६ SOS Es -
+TWeHSNO ‘SON TPE. arse Soe SS aoe WHS To2wN S
+{£30 Sooe Goodin SreSoodsr BS) TodoBa. .
+WIAD Soeror! Yrslsrvoewnow Caos a &
+[WI QUsjow SkpVo wo D STerSy 3 Bio S Hy sod Sr EFo
+Bm. 05 ptio SH anSB DH OOVA Bows Boys se
+Sew. ag BH Bhrrerhoxcmes 68) Gow KS GN
+४४0०४०)०००४० GS, avd, Nosh, arss, do, ordiar
+Ho 8885 ०७७ &.,.8000० BA गई Bor DSH WH Wy SOG
+88% 5०6० ४०० ७ Bed (Saray TST? SHES. Codey Sor
+
+कितने 6 लत ee A Ee el +०» ८»
+
+## Page 19
+
+av 2) a ४) 0० ६० 35094
+
+60०5 ४ ठ#9कर्क(#की SerDS हि 05089 कै095० GA aoa .
+sHSowws Wrox wT DoD ret DoD Avivo HS grooS owe
+{22 any? 6 Trot STeNoeawsas WOW! SerSy रच SB ysre0
+03 फष्टओ , NewdSSa Ts O28, 00 W १28०8 Boss
+SH. SHRNaso, saxrtBogoreos SS क०0:465» SMW? Bodo
+ws D8e Soso0 2 657०5 ४५७०. है? PS Bossody) Sooo ४०७४६ 70:50.
+
+qa,
+art Srdg HGomT” Hows (25 sb ९०8500#% wm ००४४
+8७०४9 [४७7४५ ०० 77१60:9969 ४9 60%80छ8 ठ5590:0600. "० wrB
+ae oo,
+9० ahop8 eH TPO WS 2०55० aiwTBFo2o WD
+BSH SSH Sores 599 FH aT goaovwo DO wrote
+BU YBr*con ०5% ०५ BS. DsoSS OHS Yxovo ४7७
+SOE [W'OLE WUD DarFoens ess ४950680० COIN.
+OS yS WA THO Mow | Q BHyoi woB Nera ४980० SH
+५...
+788905% 6 ००७०४४०9 SHY KrSHc A* Zoe 8958026%20 5097 69550 Be
+BSP DMD. SSwo 28963 ००)85 05 OF TOSIORTA OWS rate!
+ho |x) 52) 3 BOZOSCK ०८ BO BH) (४०४९0 >४) 0९ 9)
+
+MrT =D AO 85867 ao WOO WD. SOY SHowon Des
+y° DQ. %) व
+
+Mowor Ae so KEIN ४४४०००० WS,
+
+© Sgrthoo Bio SHovicrwr, asso 55४० 80५9 Wj o00b.
+
+. on . On ine)
+cc BUOPaKes BS Bred rms aos) ! SHS 78% 98%)
+2) ९००३६७००४७ "65590 3a 9807०४० OO 95१४ ०४०००. 77९०
+SrsysroSo 2४०४ 25७ OLSoass 8७809 68  #70890 Ko
+B TSS TOD NOS VowN 99980०5)809-7 GD Bessodoaso Sr
+592 )० ५.१9 *08933.......20 ४| है: ००छ० ! SGN ammeom, x
+
+ard
+
+कप जनता अप अल
+
+## Page 20
+
+४०) 56009 ST? ६३ Sore | oO%
+
+SDB Q eons SMTP 66 HO woSesos eweHow ¢ aijars Ro
+WAowWoB TFS* SMSF areas Bsa SHAT SHO
+BSS BOD Bec 500 BS 555०89 ४-800590 Bw. [rua
+Sgr Bs Brea ETT ! SOT? 00D ४6:7० HA chos
+558865*६70 ६७ KOS? 55098:555899० 698 BeonD 85०55 Sar
+४29 Saas” 00०४४ ono 59 7" ८७ १ ४६ %5९६७ 55०50 की
+MEGP Nowod क्०र३):89089200 #04650 YS? Ase Soro
+SooSe छ855»ए" 8 8६$8००65 ह० ४ N88 SSEVNOD १ .
+#"658090057०8-550290७ WTS oD KrSHED HY wodesosm ४8५
+SSxmorev0mn NSN DTPAaI ७४७० (WdSorea so Son sorts
+&590% ow aco HoX DOs sxseoostS ७४७८ BA
+'ऊष्छू 8. SSOSoMD Bw SIPS BG 8००0३ soo 6808 sore
+Boj3088 HHO हे Sraeaon 55903 BAAS o2wmMoB Bong
+308 HB}Jvo 5500० MMSooootowy es*5507mw. F aerrHoG ow
+SO DSM ० 56) 59 )००8 [थक 822. 5786५ soNonos Bo
+55986 BK aor sihows ८७5७७ ८8० ऊँ ३9०58
+ABowND 588 20:50 555० [#७/ क्षे० ४०७ ठ5 कई 5)89002508569%६80
+wD AWA Ms 8 50%8057) ९०००४६७०४७ GBA ODS oaosrrr se
+GOD. soxrGars ! ST ISsrsgowvw moOodD www |
+SMT SHOW Y Sood awd wo क0७००१३ Sy Ph SKorevo200 8
+8897 MA HAa Las pec [warBy Ro TAD tH eis “OF yowo sso
+970, Soba oxTeSo 90223  APATAW, 08 BSB ooo
+BHIGarOSSS 655०८ रू"86%890%6८ Sons. 0:०४ - syed ;
+THNLEED ७७४०९ BDO SEQ. OKT Sso0 SH KersD
+
+## Page 21
+
+of ay 3g 5) TP ४३ More
+
+४8,50० Ay Fels RoASTR, OLR ASIAHOM sy
+४० KenSAmMoB OTYFoss ws ws. HDT smoror! sag
+४०२०८ MASoBY FIO, NaS swoyGsas ATF pss} go
+६०४५४ SHSA CL, B8,.WS Bao SVOM ssrrHows
+wre Vargas Bhs. SEAS MBI NQY ost
+WOK BOs Seoweoss, ४४०७४) GS BMHjWHH, BoAOS 8%
+en, Heroes ४ Sy FBG SSe9 Pry BS. wares’
+ero | SSLS eSB O38 om some Dac. WMHoSV,
+SHA, GM, ७००, PMs, 5४55509, BoFay, sorxrar’ ,
+BrHsy, DFC —_ va ४१४७७ SHYOP Sg ००. wr*S8o NOASSO SN
+BH LomSonS so BAX TOospew. DIS MMT SoaHosws
+DB Axes, HPggaoow TRgeor, sowTGs wows fois
+wa, 56580 &8508)0985, Mrs SHOT Sahos Warns,
+Sowers Hoes Sod ozwens, ९90%0८४० ०685 x5" Faso eno ao
+Krom 57098 55, ९७68० ५9055 ०58 ४९४४) PHOS 0800 :90
+ao, So¥ esos Wa HNoFoyoeweoa ६४:४४४०००००० 77९० Wa.
+o> HoWow SBS NOP Bo 20955 S300 Bae WD jo oS) €
+Bo [SP AoGM. Wo MOP sos 6 oF VRoSor Ki Bal DAT a
+350989 Koay DBNBS ५5 fas) SOP") By Saori a Mos)
+BoXc BLCOHIr se, MIs ows sooIsEss ७४७७
+Boor Dy CHB 6. SQOcech, [Bowers D¥asacso, Pwyow,
+VNoocw, WHoaew, (४89"५४0९%, [MBP Key —_IH “BS xo
+(HH SMS) ७:४० ३७ ४००४७ ७5 SOc BAwrDa$s Vorsoge ४3, (3
+{(ProBockh SMars ४७१०० [०४४४० AWNSoBoom~s
+
+## Page 22
+
+४) 5500 D) T? ६० Sov. eZ
+
+Tos 8०56 om 8 STevow QB. BWsowss SB \ibersa
+MS, APGAE SGM ais BDow0 NB. Kywe 4)89०००:४०४७, ox
+CSM 596९6 55989 SB 55069 Baem, or") eanciso, 685७
+2१०८८. SMHS eos NOACK. ७8००४७० FSaoom mS*axjo
+th, SDxerXBasw SMW WDD. GN oowss FOS owoay
+Mods WAT Ho SMDoS WSs aswowow an Ws. ७७१8 FP anc
+to DM prs BS Kaociocs ST Weo Kisses 8 8. ७४5.
+STP Mo 58 SK evo2we SHEQO DOB TO ड559० Sw
+Wrahoasse (WAM BIG 94 ४) show BSevow 30 ०
+बी MWA DHTWEH. GBHoww Essorsosors sodas
+VNOYH Nodwoo ह१०६६७७8... ७४ ४5 ४769 SMO ) क्षृ*४0९०७9 ayer
+S\OAPSED woes MTG. GH SISK Garo ४)४५७७०७9
+Bw AON 659 B कम ७०००७ ४ YFYowNKomaddsorxow ७
+By Doo th wo Bw ओके ४ ड०8955056 8089४56॥ Dad aw
+SEW os 50,52० 3. DOM. ४४४९४ BWySmorsPxsow Foo
+Waa ND 559 ODS BrHeadord 59 ४४ OLLT Hasea Sosy Mowsow
+STG. BS BOS Sow edhaw wMmIosss DoySow ७
+SHY. ७४७४४४५१0 oysVgomo SMSO #ण्छ)७०
+BMI SVM DOG Bro WF Pw Try w. SISHd Psy Sos
+dD G50 WSS) ०59#*6&)० ०१४७० ० 77९"90०७४७97"9७ VBR
+SHrYrISows ६७४४८४७, AYsrehew © or> OB, By Seas 25,
+(Soci, 56९53८% B's ०४०४८ 59, OST*SBxm, Forsch, Bs
+Boctfo, FOC cro _ AH PSST ०४७७ MoOBM. DVoSesox
+(84857 के ७९४००४० SHrto B £, ७893 है... ०१७ 05569 १७
+
+Ps)
+3
+
+## Page 23
+
++शजणा ह 2) SQ. D T ६० Sov
+
+"8०३५ FEWEMT row cw Treaovadsows SIF Ro wr wor
+Dye MB[SNeowos Worwo wr 990४0 modasc wasps
+ह BR ao Vv i) 8 V8, 89, Sx), 6%, MOSS,
+MS, KID, ONS, SH), OO SST, ४०, ४०5), 35999........९0 85
+RTH ४8:888898 SQ BS. 98 ४०68४१58० ४०६४१ oS
+(SDM —
+SyroG soo WHS SHwIGoS8oawss SQ Soe So Toes
+(55 SSE S #>्छ SHOT. DW? SoSeorw NOB) &७"१8४%-५७०
+80059 8889 B SHG SmxGoStsoanw HERB oes BAAS S Odo
+NOG KoMSosc NaS Wasa Ss ६७३53 ४0659 ४४४,
+Broo DFyowetHs7AS. NBS ८०65 SEIS ao SAB
+AByoawse K§oOASow Dx, 68550 VBS saci, कृ्ण्छ, ४055,
+8७79८६०, 0%5%60०060९% HDS) ci, Poors, 08०९०, Vo
+Ret, PW oe __ MAH sozvysy” SST SSB w2g006.
+PNM STS HH DFG HoYgoasa ens Hts Fare
+Sra How ssth छे 8, sxodBar oes 5७४४ BBM
+SSH08S, WEN 8008८ ws 0H HK OH, ४४००६) ० SH S@o
+HBSS cies NOAA. Dw Soos esa DSO 7९५ ४09०० ay
+एक 8 SOATBANO Ts sh. VWshoay ७7७क९४०४० ९०० [ws
+Hod SF,jSow orotooms, Baa OMT YT HDS S 550९७
+BASS Sea soa Sarg Bo Bb. 965 BSN SSS oa en
+NBOSS* HBO wQorworboeses. Howe SoSyAxsoros Bs
+Swo Traeren. 05870 MSI) Da FoaoeX o¥ . BSS Saw 0 ६४५
+NTPOSD cmd dire Sa omosGT ४०29 9597 oso soars Bs
+
+## Page 24
+
+a) mg % OP ct Moe orn
+
+' SPX e020 FPO SOSA Soa ४० Xero ४59 ०८६४5 ४४%)
+SM BOSON . sredeag SP Dces, SreBeIg Soc zh SMOG So So Oro’
+
+9०० KORG. shaw TBE 9०9०४ 55559 Io Gos
+| BSaSonoBsw. 8 Rox 95 53 2
+SS MoS 5598 % 0% Sana sho wows DyrgSo wees.
+
+७...
+
+OF Bret. Ss Sonwoxvso
+
+SeBegsIOssy tem, . ७४७.६४०४०८:४४०, ४&१&5%89८89,,
+Sots 8698००8)७ Mo, 07 ४888. कछ५60#69०8 SIRS
+Sry छ 8. SSH storm, STDS srrairrs) OM BHe
+8, 'ड०७०८:४४७४० ४०६३0 ४ 26589 DST SoM, ९6898 We’
+Soi ४9०९8, ४98 85050 5 Dye. Com 'झष्ली४5003८%9-
+Bg sfocss Wd Yas yWtoo SySoryw jews, ४7९59 ०४०,
+Wows soe, ४०% )छ* 680९5, Mowar soem, 77 क्ष"क ३०४,
+HS, dH HAT? Hoa er TIC ४१४१४ 8 6. wis ४50 ब५5७०४०२७,
+DOowi SOOT mvsocs क्र#/४०%००- SOSNSBEc wt ao
+@ 00788 WrSGF yo eww 86506 STeHBD [४४७9० WDD
+SSASSGWHACI SSW POG. sreUrarg dws so ६४ ४ BH,
+FOI, WreSSoWr Smock, 56370 दै0८5०, Ton ६0८४0 BMS Sy
+Mw Do wo KOAS. Se YoSans AsrGormeoss sowsaeoen
+oO 55900. | !
+
+SASS SOc BSS oS sens, SSwoGeow, २७४४0 9
+COS SK KWL Nose कषषिठ०००४०५ wos HGxorr7Gex,
+Foms agers, SPIHIRHcCMH, OQRrrsogneso, Fowutsero, Fverc
+I, Weadiocm, 55908, SoyosoFocs, GeCevcrio, 8 By 890९ Ty
+DE Pere, Sho, SHobgew, . FS seer, घ०ए 0.६
+
+## Page 25
+
+90 ४७) ४९ ६9) OT? ६० 3855०
+
+to, SIG so, SBI दै5८:४०, SYS wow, SMC = Tsebess,
+SI? ooo Der fairs oe) RQ ory ४9९ $3, BSH HG cos 9&)9
+8 —Uwmwrwo [#क्क१४59९०५ 38५४8): OOD SH ००३४९७)४५
+89889 ०४०४ 89 ००० DIF VIg 60674 Br ASOO Sd ४6508
+grime EMBO DM bo DoSowwssoa aBNcFothes
+SHEL S 2४8
+Rowers ser oss Las? FNakw, Pesos
+४8 BIEN, SyNSMQSH है 808 0% ४8००००४०७. BS ४५४०७
+SH 5987 aw, SOF xox ३०८0५ Songs 205 ०७७
+858 HSS GR Omes BS. wd WIN Bokdirsm. we
+MdASoOS web Sens Sse sseb sooo 6838, 5800 ४४5
+65029 PHD mia wHoTr-eemsosessod ढ़ 5590० ४
+SWH. Totes ०८००७ ७४ कछ०४० छ 8. giv INDE oo
+SHIMGwoT MsooWei® WI To Samos Tpgorc
+2)RVS avarrgssoons Noses Asse FSGS 05४०8
+SNH WS NoBeor ४४09 ते*५ Asrsovo ADGMH. Gorsy
+woken wea areageas १४ HS 56906 0
+78 Sr SAC ows WS ई४कश्डछ end yy BS
+WS Pook Same. TS G SowwsssoArN sw woods
+We? 6260००७० ER BOS") OS) 5B 8, ws SOW crip y
+DoH, — ध०८४०, Wor, WW, ४899, 8०७००८४०, १४५
+Boocéis, BosWMOcsho, NIMH, Bron Meio, HIsTreacsh, 8008४
+Voy «HAD Aorow wen gH OBSSHTY 6005 0550७ 04
+st 59099 HIM Mzho,  BoBorocr, NM 9005%8)5 Soo xOA
+
+## Page 26
+
+४) SQ ४ 0" sw _90.
+
+8, Homose BOYS ७60 GorocwsH. WOM sere
+ajgrmormarsyos SMSF so QS SSH. ७क्क१४७8)०४०४४६०७४5-
+JENS SHB) 8५ छ*89०० ४0866...
+५४00० SiO ६605-०46550%0% &6:57505$ 905568 55-55 ०9४७७.
+
+| ४रलैईक 88) coSon0n6. Dsosen &9608७०026. Sows, 7९१)०
+Dd. arOSOPS ४009५ ८४०9 E0707 ४)07६४०0 DOSS ० ४०८६
+Ne) sHe3 SHBWVowow DSBoD asw0GS. Basen 589 SRescar
+OS d%onb. Sosy HHO DSosenws VssrihoS 8. 'छः59 )8४9 To.
+D, BEA, WR, AID, HOO, Ny GB) 55७७ "86588 ८७5०० H
+835. eo So SoS, GOrr¥ 5) Hogar ¥ Xow, “ag as:
+ह है] Was BW sXr,owweowm, X a8 KySIX evo.
+eos, ४०8६ ODM rao wen, AIOE ७8708 IND, Yorn
+enw ws. SIQHHBy aor Tro} OT ४०४%$७७ 6.
+| 88689 OMeacih, 7055557९:0 Wi 05509: 65/5०० KOA
+. 8, ७०59 Kemer हें द5*55६०४ Fg ssa 22 १६०० 200 VAT we
+; BERS WO DHUSM BosracB SByowwos DBAS OHS SAHyo
+. ४89 soe OX "66, soo 055 DF WBS j so VS oewensM AAS:
+: “SSo20en &5508 ४ SBS SB) NOV tS!) D8 WeXKeso2n end
+' 0090-04 938099 559 Sard S Bosh Gh. ७४-००४७४ Hor HS
+SS wvowmenksres wSSSHH wT SAG. 9७8 ॥(560880 SF
+GrhoB Booed. Hest osossoct, wrros, SHcio, Oo.
+| hoch, 59%6#6%90९0, YouKem, CISwcH, 90०४ ०१९४०;
+| Fopras, KO, .080८69, BNowciwers, 50%*6००८60, ४0४४ Be
+: iS, BSorspcs, ४0० ०४५८४५, OH yMo Hoc, . SBQpcss,
+
+## Page 27
+
+29 | 24) 3g D ० ६० Mo.
+
+“Rosogrecs, Fogo, FSoparenci, FRencsh, Drarocsh, &
+#%७४६०८४०, Fops soot, 5590) cored serra « DEDS}
+re 2%89०४०%५ FOS 0०)७४5७०50 .
+
+Ses SHH [७6% Sy ४०9०, Saw wv, Boxe
+७०००० 820०2 HHH IT eodscn0 8. SB Sopgom
+ORSSoSI@sspes, MIs AWA Nmoresromens, go
+% 89080 or SUroJoTrMeo HV. pars aoKsKen
+raomsewm, x0008 OS\I*K raoawens, ६8:22 ४5 SHS 08०७ '
+AWN, CHT Sereno SH 2(०420:६०७०७०४० wil. wes
+४५०४०: ह्वे!४४००२४४४०५४७४० DM SoSB 65956 559८ हेंडे93#6४
+snrree AB ०४८४८ 80, BYowses sox FSS IBHo ९७ ४)
+S/T Er Hw 809००००००७. gh ०5065» ते'5979558500७
+BwIK OW NO. Ny 992 Bano.
+
+.. है. ४28ु6२७8४0०र०:893 HBX sore Tres 2380 [ले
+5०9०४८24ै5398, Go war qUsor Laos xo tas sing
+WOH SYS ASI TOS HPS oBsMH. GPUS x0 [००४०१ Bsc
+WS ७)४०३५००४० BNSrNTHm oon SyRodsS, SK sre
+HMSGoTowsh SyReGw. Bsarssjo MRL swWSosso ६१०६०
+S BBS0B WO MOT aS 98950 wos Ar So SESHaror
+80D SISO TPDOWETD ००००[% 590 HBas0 todd SsK{Go
+BX. ISA Bod WTP BLSSO ०६७ ४9 HFK osm. Feo
+tis BS THQSoms WHrHod As HOS asgurtes s ¥
+SSS Soave Athows FSoscNORSSO DAG) Sows DoD &'
+HON MNT aBVooots 89 Krepasyso. ABs wes
+
+## Page 28
+
+(७ 8०3 ४) ठण ६० Sore ~23
+SOAYBOD FS <9750४००७०४ HOTS soos” XBywreasso A
+DoBw. 59S oRTS')Boo 6676 ४४५%)० 4820 a8 SMX S200)
+SSowshHo Saw. BwoFovowWows 0०56० )०%० Do® Boos
+०६३२०००४ BESSY STS evoww7—0 हु ००३59 KOPAosSvds» Sd
+Door Wok.  g_AFow7 Fst owe NEWS
+SIS ५४ 89 NSF Worn Boy ०5७ TH |Foood Hose”
+Sows 9698० 58. GoiSoGHS Joao MNF Siar igo" ©
+srsgaoowy a8 ३0७५ 88949०४०४० [#र्क8०9 5908०%.|०९०
+SwoPKowenn? BANS Bs. ABywo Xow enor Des")
+[SS omB 8659०... H*Swaswwa TrSoPoBA. SHS
+KD BSN? TWTGVASAD FoBosmhormvsD Vos Jos ४0)
+ow SIGH FEvoewe 8757, ४८१७0 537० BBW yo Sow
+ere SBE. Shy DPV 0B N NByorw Borg Howse 35908 2६००
+awn BDO, Gadtotoon NesAS 5७ १०:४०१४४४४० 0०४१०
+8 SRP Yo 69099: Saad corm dodows ४80५७
+Distas B amosd. 0०४७४ PIS) SV, SHOEI ASN,
+Vas "EW sHS, BSK can Bxpo rows, SXaesos SMowsed *)
+BeUsoon TagOP Koos mow SBFoaoG™ S778 y-Ve
+warSBSSor0s DBP AO BM. [Sasso AHF OTAG HG Hes ०59८
+Dy PMI Tre PHT TsorooS So SJBALose wasso.s
+
+¢
+S gr 25 oe “~ 565 5 3) rb $
+SACS *H sssperroe | ७६७०0 Sto DOWD 500९7, Spader,
+
+कि
+टू # _ opp t% oe फट, 53
+DSC, jars, Be Dg cro, GB MccF9-_. 09 SBP 0970 a8)
+w 7 है
+
+BOB. SEcw 007९ 0 5००४९५०७७ wrysoW 80080999 0%०30.
+
+a
+
+GAIT) 3४) T° Non. BOD BIN BenoMmardse ४०४३ ४३ ४
+
+55029 Gi, ७४798: BSS कू/ oo ow GM,
+
+## Page 29
+
+Od 2) 5008 SD TP ६७. 8503०
+
+4 Sy Pow QSTPSEE YS s5o9. Genin ।
+8४22 “Dy, Krrtoow 6४36७ DLV AY. FROM BA
+2S ass 0 MO BrasoSio & Moy HoH) SH TewrQorarn> SDB
+
+800) [SSoewNn &8 ७5०89 ०४०४५ Dey हैँ. ००७ ADO W dc (४६
+
+Hoe , Ble oidow, [XsromwoWOH, 5555 0०00७४50, SHoavows
+eS Oe | छः
+
+DODO 55590 NPDSBM. 95950 ४०'ठ०६७००४७५ Ny
+TD, 50%87(08020०४०८ 70650, SASEXrowewH 02500, si
+KeaowosM ४5990, SHeoSeaozw vw WMD, B BQarssXeao
+290% 5६०6 B20 BOSSI, HB yXraowowsH SB ४४9७60०
+BUI swd, cod, TK, ros, SoC asrs, DF 5X czowweso
+
+‘rowed 5576 Fog, F ०४(६०३७०००४० १5980 6०9, ९्षे5
+
+WN? DSrACBM,. mBaiw ADS 880-86059029580 PAH,
+NoFoGowosoan ०४०८ 2 SHO, WN evo2wow 5082, SB)
+
+. KesowwKe SAND, ABNrowe S orsHO, COPNeroewe
+
+a
+
+a
+
+WBYIRIHO, WRN evowwysy 2(555529, SNM 220209 ७४७ wise
+५...
+
+Rd, ##(६३०३७० ०४७ ४0%. 409, SSH BK rromesH6oe DE Praoeas
+
+NAMM WDODAD. arg ०0०५9 45960. Was 6089 ००७०४७
+25880 AYSod, AS ywoHom FRoGBsw. skew grog
+हे (रत
+BH, Se WarsB 0570 SB एण्छ ह0%359० के ७30%5009, Ser
+888 ..6०% SS Sb SarsBD Yo SX FomswHd, Py smhs),
+8०% 68% 59० BX ShomoWod GF Vw, Wom ४6 5880"
+SBD 59 )० द 6760 क9%४४१9 5x0 AS \oHenn® ४8६) 5).89 3:53.
+BY 60 vodent wstoenss 550559०089 B cmos. dow
+
+Gas ५...
+
+whee < छ a wh uti as 7.54 fon 5355 , s xX
+SS, AGSdORTo 8०7५ SHON, J" MOG oss PTW SoawNe
+
+## Page 30
+
+(७ og % T° ६३ Noo. Lah
+
+se
+
+KHTSOTAS mows 020 880 SOI Ooro wary &.
+
+है) Bosens Nod 8699 Fowr ०३४०३ HO° 7 Sy Hod
+Draxsrdh 25980 SHAG WANS, 28989. wWrdienaowfod
+Sows ATMs Seca Soo B DLS MHI o mows
+KMBjOSDSM. NW AScSvoMBSD civrE SKLS ७98७०
+70*4५ SAS GowwNe BB y srw SHOSHA 576 5550. 0 5"६१४४99७
+
+883065 65505 Ae Bow 55972 5
+
+Novo 6829 3७४ yer ado Sooo Keo ८८ Sasso! Se
+BNGSYSOS Serworrosso>Bowwn DSSoNScwowAy os. ६७
+yxstojors SHos Big Sod *srsoaw mDOSS*, कर. cao
+29998, BDSAN 20 20ND, B Sg wm NaH Ne2oe700, 5") 55,
+BY, BW, NoGss, ASaXevoewoowm, 8558 GHosay ow
+OMS TPEANA £80 299 0059 PBS *swow Bi39 MDDS, ०६४९
+SEG GS Tors MSBrRoOs*, Ase ST ps0 oF,
+
+55965 S°X 6 st ०४६५७ BIG 58 SXow ००५४ ४09 OSHS
+8 8 STO BoP Sesoww ६४9४5०65 woes 69S Seas ws,
+Sow wZods® OPrSTvSyT oS ०9७०४) SP ६080० 569
+3.” GD जे")2०४०६००59 Sassy ७०० BLOW.
+
+ALaseerTrlS wn IOs sso Dre SoBe Dr ofoer.-
+SWDawM, EVSIVIM, ohm, ०७०७७ xvososo, MPahog oaior
+SROPAE HSDBYSE Sows Bevis. १8७४० ४०० wr
+(SSH 89) So ON MevoAossocioW., Wiss Gx HNooas
+, SOIK,Boww, ७ asx), Yom, BUSS aoc ४० SW. G
+
+TISMsrmoo Bray DTP WHY soos SS VGoN Gave
+4
+
+## Page 31
+
+Se, Se 55९09 ४) UP ६० So
+
+: = ~ a Sa
+a9 <$0 १८७००४० SIGS SODBPRX 5४557 Byes wotsaye Seo ABs
+oy Jsrgiwos wo HT}, 800 (०0००० ६9) Ne 0) ह ८ o
+
+a न ww as) 233 ९१७3 ie ९93 a 88
+tH 55०8908९ हैं छा 2 ड20020००४ ON छा इक 29 Mons),
+
+Oy 0 x
+
+SS ४98 So¥o20s - SOW SIM TOM 7M Vokoo
+
+I
+/
+{Ser8B cin SawoGs, BIST Do. BO TGS
+WwW
+
+Lg
+
+é
+
+*“ ro क्र Be ey eet OD भर SY 57 ८85 . Bg
+TSS asmom KOAW. Go-wVH BOQ [पक 8005४ 0४ iw GV
+
+~ a,
+
+cinch 359. BIL Beas AHS WAVE
+
+en
+
+S SrreS OPS Moms DeSds Se 20०9४ KOR, . ७४८5३
+८३४ MeoMooD 05597 का 0 ९6७ 5320 ४०: SBewoero Ts
+
+Sear ०9)
+
+~ > Baer ६८ ०७.
+Beegwoos 7s SPO wW OC Maa DH “ABs Niow oe)
+
+ag 2. 75४) रह) = 4%
+Mo, ६9: 3g 7०05० 0 दे 00950. GOOG 2 PONOMM [Se
+
+ot WBS LASOIA? APD
+
+Th. 659 2 ०2999 ०दें55
+
+om)
+
+2 a ,
+vito Sd पद on PS 3853 E ८ «८ a
+25 MM. OHIQH ७०590 ले Sead sre | [05707
+
+385205:55० Bw, esses are 855 SSO Best eaess ८४०
+
+‘
+
+a :
+is ow
+
+QC WNOVNTRS SA ckwoo 5 ८582 5S SM, Gea Qe “So 7
+. © 0५37-८० wx vey cay at सी
+SS BH Harareny Soe Sot DIS AoGS a hw 5 5४७ Kes
+aye
+Wr Hra sXe aise aK > ९३०
+an
+
+Besos SH) Wessex Mo ४709
+« — “ .
+Bema AoW 25000, «ewWeye t Sow ९2590
+
+aA a
+80.55 65 BO! 92९0 mow
+BQ)\Bd. HN AK VHT HI esorw MAoWDeD, swe ८४५
+
+- —% (0४25
+
+are EOE ५2 7४० at won as ue ~$
+Soho. SPSS A 5 35:05 (33 ४5७७० BS
+
+oN
+Xe SBS Somos AM VY WAPHSHT. sore MdowHuciwor.
+
+a मर sy “S35 wae ‘ or ३, aan >) . (9. we Ne at
+कि &)8089%%0०४ HPROW SH yo AMYHOBY » v jarsshewo
+
+: दि wa acy =e, Ea Paral Sox Bet
+. SG boBo 59 ४ Joe BUSwesA, GAGA cdoxo Api ws
+. v he
+१) a
+
+& AV OL 994 .
+
+## Page 32
+
+{Ory DT ४३ ४५
+i :
+
+o ’ asf a
+“och 7050 Toot ०
+
+meee: is 53 ० sam a; 23
+Sf ७००४७ ४०) Soo aye ४»
+od
+
+292050 ६805 5595 55559 १ 5०) 3,
+
+2
+
+- ag ; 73० oro cee
+
+Se showeowon ares" BOE
+. fa ’ ae B28
+
+So ESPs 509 ४४ ASAD So$srDowort Ji 6
+
+),
+
+-S 2. a
+Drees 8690 58939 WMS ९७७३०) 9 cop ९०४00:
+
+a8 ee
+Sm Soods S LO) 6 DOS 585 AN SN 50 BONADAQ 70000 6
+
+ई
+
+WRODNOMD. War Cards iinsCos ० 07
+») T
+
+B33 Tes ass ०0070 Wy) 000०0 Mofo spr 85०55 Do Geren
+8.2 @
+
+DSH. ON BH ty Beno Wo awry wor ९६
+od -
+
+¥ oh xl oa ng id
+oO aN! 2)
+
+3४00७ TWAS, Go sso
+(४)
+
+८ a a io ee ee
+areoajwoors 58% ) 3 S cere tle)
+C
+
+era xe wim मै BM 7४ ८85६ 7
+SS DMsV0 ATM POS Me CMC A ८४96)53%0 ९१३०
+ट्ल5 के “ore 8) ८ eo रे eee ee ६ oe है - 4
+oo ४४ ८50:50987 6 DOD cdwotohyo AOD wosie5 HAG’) Ta
+rhe
+
+9८८, Pe fy ag Z yy =e ~ ah we -
+& y OM DEO CPOTID ce DAs (Kreehrvovosiny”
+BEce 6590 86559 NawSNoF sons Mrreawdrsiso ६;
+3 oy 2 aS eet a ee a शनि
+BOSE WON OIGUS [PB 60090 8006 दर CIA ०१००)
+2 ०72) ८5 नि :
+&9 X50 3 DO a हि QIN OF PIL) ; Rie se rey) © 5 fat) है €४१०७४७ Spo
+
+9 ->तन्त BK e Cn ag ४),
+So™peD RS :9056990608. ०००५०७९० BOT VID [7० 8 20५ क।
+
+On C5) amore
+
+ed
+
+a 75०७
+
+ind
+eas) ८५ 29 DMs" S 6990 896) aH, ares
+
+. he (ss ४५० OMS ay ae ene mee
+WSY|WOM 070 02००४ TORR IPA ATC 5), ren
++ हि aa Ra. )
+
+ait Fat “eu Og Re aera ae aw wy eet ge . न
+wos Qe cir wo Mota > 2370 ST? 6555 ९४६83 ४ ४७८ TO, OQ EM ya
+
+i |
+
+355४९ ६
+
+दा
+
+०0० य GIO Won
+
+deena
+
+## Page 33
+
+Or [४ ४800 D T v9 sw
+
+a न शी ost) —S
+NFOPPSomwD wrwdgenodey doa oongw. “sro oxh
+
+0... «८ RD on
+
+550 55598 He STS JOG SyPodToBay%y jos Gass
+
+Soa 505७ 9 8 Gi 535990 259 Qo DQ sh 388 Desa 30.0 55509
+5S, WMG ४8४ ०४३४५०४ Yor 9%, HS oxi Mook OSH ०४००
+2 “chee Beooavve NWO BDA Poss sora: SQN SSOSSB)
+SH. SSOGSToW, GOoAsySP Bsowes Nesom, FAT
+mo 5
+
+MDW NT VOM, Worssoaw woMOPogrodN cao2ven
+RH SYS “EBod Beas oswd wes Darsoo 7795-०0... Wer
+
+wear Ss Gero Sm wide ADAMO , Byer or
+rey 2 ५... 9
+mB Wromos™ Wrst Qod SOS PSN OBC werBorson
+SSH ५ ९०४५८ [PS Soo BS wo. syersr) roan ४290 :"०४४०
+ns DAS SSDS oS) SSO Sew Bs 808 0293033 88580 8
+5559 se Bows 87" 0८७ 57७००४७४ s Gwowmss GBs. {S838
+of Oo Qu
+SowNows WSOIowT soe aN Ho ४०5309 804 SIDS) dire
+ra02ne, 8a sSoal So asees DES oan aoa NON S02 Oro
+isa हें 8४४४० SBA, GID Behm BlagoNXow A
+Bes. GHMT*ALowS Foo Mey Fas FDow wos. g75
+Wows Say Bre ४४9४७ SHMMoBm. #*(६३००१०७०० Vey
+2) Q 5
+SS SSoawy sarlan DOWD Ho BWA. HIST Dooarsod
+
+one ४४.६ ४०० 297790 ६880,
+
+4
+
+BT wowv~ Stow B Tsharown Srothz ons
+
+QW. 3
+COPON WAT. ७०४६५ 55955509 GHMUTBoows ४४० Wi.
+wSohs DAM QWIOHS saos See Gar SSoSonsBm. ©
+Hy ४0500 67 Krome Syopostorwo herby WSJ aVousere
+v oe eee
+
+## Page 34
+
+[@ sg D Tr a XoI0 शा
+
+%79059 ७ 3. &9*४%5-०९ ६७७० DOOD Hor Bowen Neo gwsorer —
+S MWBo th Wo so asso NRrAods. wee ४6865. 5555055०
+SEY joemre DOA 9 WG Se 856 Some [SPAM ०७ “Cire
+7609० BD shodtoo Bi ३९००6» RreGosren ० OL .05. %9565%०0
+Sogeror | 939 STS rT ows BSS Nesowwo B ४८
+28S Soc TDOBN so. BA, comPsssrnd SHB sid soF
+Sgoavx, ०१३०७ 456 Toons, MH हु odroawow DoF Bese
+Xai. की BAGO RBomoricNoisswo ? Vmwoow sip OFo
+FASQS\LSswow 7858, 30,०१८ BO GHrsBQyS. wr-esao wy
+PWFSS 7०0०४. PASEO SByH Joe Ho Noh doo P< O
+WHEMbGH DST miyBatokawe 32088 0 w
+5998. Sy SrSSonSHyYyBSoBN oe OOSEHe w
+SgewarHo TrIsGBow 6. 0550 AyPW[ESS, (४0० Noessow
+
+MrSSFows SK MSH mor दर्द ०६७:७ Sopsarsons Ae
+DOBWM.
+
+SUPISIK MH Arod) Sz woesess ST *SOSD OSH B
+55980%6289 89. soxrtoe a DBS 2७० KOyoseN ०८६४७ Boo S™
+२०४३८ BS gM ४9४० SoG FHO20 0005७ 5 ४50 WAY G30 as
+
+55508 o Sessa SAS Sy \warBos) sod aod. So
+sPrmowe 808०७ (Sein SQ 205०६०059 Segara eoosi
+BARSo asa DP evVIeTrss Prb So iy RG De-Seaoz9 WDD
+MBG ० RSG. ७४७०४ gor FMP GR Kw Saioo
+(BoD #०००5४०४७० WDotoivombyaie DA srevo ४०४७
+BND Ronsowdce S SoA. GrSD ow'n Srv Hoy shown
+
+ae ++ a जज
+
+## Page 35
+
+30 (४० srg ४88) We cs 3899«
+
+<
+
+wisrgTe #8 5558 IX sy 08 woo 9 WOT) ४5097 ४
+है /
+
+Sardss SM Ronodn ४०५ ८०६ Boer Sl soo Wweog
+५... a
+
+DOSHEN cva2vo है HAD 695 oo GMT DATo =
+
+87 ae So
+2 OSD DoBD \e ar QTrae Hrs sG nots
+SS 0wQW sHslemNoSwMo AeeBy ow'n De JioWro.
+em)
+
+e) Qe EN) on ; a)
+
+SOxsrt oars | (ह.)४%० 2.255 QO WAIDAAG sd a Xenon da
+
+५ Six दा 98, [580० Boy woven? Bod
+TPS. Wi Gx के dsj [SB Bro PoscW ०४) 2 58228)
+दि 4 ay Sf oe wt बट ag pea
+er छ*65597 6 NAVD ठ559050865, AG aor eNowws dod
+oe]
+
+Smo is. DH 9०४ 0200 ADo Moe DS ar BRIE Bog JOM R
+DSsow 87000 %93 oda CHASM. BHS Wed yrs 7
+Do®xno. dv © )arrarr Go wne RPBSSD DY swoN Yoo wow
+
+Oxo. BS Bresrahoaniic 505" 980० ००० MMOS” HAT
+
+Co
+
+35937 ८ MESVS TWN OCS. AS 8०0 KSMowN Bo
+Po soos 05००७" Dos soo. SRM SHothosos Ax y uw 88
+rows KeoorXcs So, oxspiare | Osis 50%४750:555०7)
+Bx VOOBNS DAS OGD Rovers mows. Bod 7:55 A €
+
+63 & us “s THR ET ey Me en ae ,
+638 HSHQOB HBO Wen पे
+DH 350 So SID a Bosc wx Tey B
+ढ555: ADIASAS 3 ड
+et @
+
+३ ८ A gt ५४ «८ ..
+"55005 ४0०८ AON ८३०)
+o
+
+* & 3 tot ae:
+OD gw (8 C33) (७2०७ Wasp 589. sapere ः शी
+छः
+S538 87 | AOD oe «5... es “4 .
+०४४७ § y B09 ANBAOW On wWOSIA, हि: ye es Ng
+3 ce) खाए,
+
+TD, DOW APD
+GW, ढ So 75 बट
+
+Bar OS 0 Wee
+NOPHar cH sSorxstsrsoaw NoNNecto. Fd hos), A SBotoss
+
+Sow : WTS SO ०४३ Bpoewn SAT WG srs 7 oo
+
+## Page 36
+
+(wag D उठ ca Kose 30
+RYmchows WSIS DSH ४४४४ ४०४४ ०४७:%० 0 Boyd ssyo
+Sd. SPs at, 84) $ Bx DAW ८ 2 )) relye ९) (0 23)
+Sek 60&0060४८6०टीक/0, ALS) एफ आओ 23४8५ [शक्कर Dae
+
+(Sons TACHA. APT 58899 690 0०0%90०0४% AGQ_ aos ८59
+—
+
+हि . - oy 5 3
+Deas seNown SoxrGo छण्ढं 0८55
+/
+SCAD MoM) DiS [arewmor BSoWIs. BPs
+)०/) | ५ है
+
+Q
+
+है 8085 Bigihary 89. ALS) DW 6855935४ 3 97) ० 2 00006
+: Ww OL
+
+ao
+
+वि है भर x aren)
+DoW. Tw jeruseteaowan 8 ad 0
+
+Sola. ¢ 909 oO > HAMHQ के
+~ 2 न .
+
+62८००) IG xx (00 पद Pi) De
+
+om Q
+9 ८८ DONS] Bao Acirev re)
+
+oy
+
+Dy BES 5०) en 2, een - : Co ean ae
+TNO AOS Naw ¥ sco ha’ OTA il Ou ह८ 5 TO RI? ay 2) » प्णद)
+. हि is &
+
+thy a mt ees - a 2) oe) क्र
+OU Neo 2D 0350 je NAO wed 56 6553, ५ 702१9
+
+98593 GS 59०० ४७७ Aor
+५5
+
+ain बात दबाए, Mewnioditaens ais
+
+onene WP ysGomows we
+
+nay
+G Crd
+
+(2079 559 ०)
+
+८
+a, ome हि TERS et WO
+NO Wwe SLOW ४७४५ ९५ ७ ७७
+
+7 ७ ६
+
+झट
+
+A e
+BG हे (3५900 ५१० ५ EOIN ४9. 0290७ INO
+Pwd 5 दे Moa 8) किन oS ee - ) “
+3 36 DA CIIOBIV Why to ४० ४० &7“/६ ८) £
+७ 5...
+el, 8 Be ह 95७ 53 डा my . ee" we
+४0000 MO oss. 652 XO, SOO ry: > 00070 ४00, Bay
+. हे ९) rd ८: fal
+ete “6
+Oa, Des VE OeEd ND, हर को Gay TAS Komome
+
+MIS BMG. 8४४ ys Ss ४४05 ७956 6 ४0०70: ९. ०७-२० क्क्
+पर ८... ¢ CoS a, '
+
+"Pops 5535: > पर
+"ty थे Bre sods ४५ >> Ae) ON By OMA ed OOM.
+
+9५४५ Oe
+SOLO
+fs a
+
+a a 82:90 53: बढ बा ot phen lit *
+Ove Ses. tseson Cm DUO @I%o wa nT IG pega ed
+
+रह
+
+## Page 37
+
+. 39 {2 #00 %) TP cd Sor.
+
+a BTW BIT PA G0 2077¢ BRS ScD BoA. Ss YSasoanwse [४४४५
+2(६००४७० ७४०७ ४६६०६४०००७०६४० री 56758666%5539 oro 2 ४४59
+AOA soo. OD Show NOV Sande AD ०६०४४४७७ Bs,
+DBA १४७० BIOS कटे" 6७ svc MLA oMSMMyYw Soy
+8559८ BB 5९८83 sone 2y Soe AD SITY shoo DOES 83
+08 Geo SAT 8८७ Sods oNwe 2 Jesen SDOW WA ९७५ GS gto
+7 Wy $०४४१७ ६ ८ Py a 825. (६३०६७ ००४७७ B 5928%20 56
+359 UX aoe er, ORs SSN FBO AOI 90% BGeoon BENG
+PODS HOD siexioan WwDoDaswoSd. Hag S*K ow wons
+SS jo2wev# ard eos & So20e05 D293 SEIT? C NOyoscwes
+HM. wahoo श*३833८%9 STysoNw DysrSyB SNK, wo
+BHO HSIKG BL 6893 ws sor Soave Das
+8780, BSSeo FHSHD SSyowXH, wWXSotboo Kx 589
+OOXK MD BV? SOS HS owes x 3,80 99706, Boz
+89989788, ASeen cH wd SO\owNH, CoSHD S*xxm
+BSD BESS 0298 NP HSswow, DAN evoaen SHV
+SS) SONH, VoD S*xn meager Cura TS Joos OX
+BOW M, Orbea DNS wav SE jowNH, ०5685 हे ०98
+SKK BWD cdo SERBS )0898 ST? CS? Sct 8 Bors ws
+BOOS BSead SSjowNw vasiarwd 80005 Fysr9
+SWS ows COBB Wa Sow~w, Two xexsrDO 5४१०
+23969 saiarssd S*xnvsy 997४5 Ssross 235 & ४०
+8००४७, NoBMQeo 8568८ DS\OWNM 6596-60 65% so
+
+अक्षर )02002९ DNONOBABowws, ४७60४०४००७० ०४०४० ४०
+
+## Page 38
+
+Sy ay yD 0? ६9 sae
+
+Sp. AX BrwSowwN MY Mesh WrcNerciv. ४0 कपडे" है? 0६५७९ ४७
+FD —9t0
+
+Ry ०४०४७ Br wSoMAT? Sy & AgrwowwmSs Wot. T
+HN, DTW OR Rg wow ४8589 SOOM PrHer ६६५७ OMTTPWIN
+sxo2wendionS so SW» \Ssnd" © BO Qor OAT? GOS SSN, G0d
+००5»: ह ह
+
+& fa
+
+---* ON fods O83 ४5855. Ge
+
+SFommgoorsrS ya; mx GoSto>wocsosO Drug
+By ons-Byas», SPBMNeIowe DAS TTocamooNsrh asx, A
+B ०४8४००४० NA mote [४4 ०४०४००5७ Nrehoo BDA.
+Sod ero | SFomoloSssSyMroSowenm FISX ०००० 3
+SH SHG oscars. SHS eNO ४० ERD BwySs 89350
+to. 55040, ALS Ospem, ED soos, “TP asoWerso,
+छठ ४008०, WriXpcs SMaroo APrwlsmrsjeo. #ऐ Mews,
+S wows 59808) SB SICGHocr. ASS ८55, Fog esos ici
+WHgcwosH, Bosoarash SHoBy_.o2sH POSEN gwen. FA coe
+BSS WISP Asowsy oF omy. । c& BSA Nraowaey SOF ७29७
+OMAGH BR SH. 55580, OB CoAKerw, Derwrrreco, x4)
+HH, &०४:५०४०, ०९४४० SMDIG 2६९७४ (७०४९७ 9 )००
+HH SAV ahom ANRoD awww. SAX (Goce, VAY Wes,
+gem, SoywrBP, ४808), SEBS २०४०४, Hg Basso Sort,
+४0२09 ८80, Woes, DBoJex Si SMHopyHs aAGasomsas
+MHDHoo. 3A [SSsoxosloBta. Bw as, 504)
+40, S 0०0०९९४० SBD, [र१४३०९%४०; ४७४०४) ७ BH, ७9)
+
+## Page 39
+
+४०) 800 D 'ए० ४२ so. SH
+
+98804 SH ४98000७० xoxo od Taw BVowe B50
+a) TGST Davos GoSo avs Bxstdeoo HAST sows के
+४०४ 0, #&०8 35%) (४ SDB se NS ७४६657०8 , [9869८
+4७ लक.) SPS, Gem ह895059. के" 55598): )
+& हक का
+eo. ०० 60%6995 MPD WTS) a बंप 3. Sy PS ९७००७
+"00290. 8४0 809896555550 060०७ « SWIMM &9४ 5०656 5७०;४८ ©
+४०४)४< ४० 2S ono DAH. are Seog n 650 % GRY D*abowwWe
+Baws0oF OMS Se BH aww NOAG. WeSoBeaos &9%5%5
+Bb. BI MsmMWHSO Qxporws, (60590 ;४080, GrorrGowwao,
+ow _ wo 2
+58% 39०0:080, 5$"%$३)०:४७४0, HDasw, ढै089 9:98, SF HM,
+SP MG ow, SMow ww 2२४३) BS. RmsfoBtows DMs
+x 3 3B 30% se Sc Tras 5 बल
+६००४००० ६३४७ छ 8. ४७ ०५० ७०७७४ 6"9०४%४७, Sy
+Komi, VAL dw, ४६०५) ०:४०४0,. grea, ४ै०६०४8००0%3:50,
+OYSSohoom Hmarsy & 50 BS. DOS) 7, JT SBT SMoororGy
+WMorraoewvasoSs ४४३४ xo SA ०४९8४ ८3033. AW? SN a
+HloStows Badan WIgrrse BS. Wraoideds mgBaso,
+‘ 6...
+SHG om, #95%)०%०४9 SA xorrenorwym,  Waedixhowox,
+SM 8865, ई०३४६००४०४०, 0५०59, Folamw, WHoB Mer &
+ SHMBW Ho) HG. इक्के WoL sos Qotte oO wrasw exjo
+
+a
+
+i SS), cioGs. Oxiod isosGoStoans C323 Harta, ८59
+50 ००:05, 50588550%0 ४0, aD cag 9990० “ORO, ४४४ ४99 0 dao SO
+5 —L
+6५ SOT WOLD, SSSR Hooeh awe ६४४) TBO. | take
+> e mel 0...
+
+| BGO Boas ESKrao ewww [S¥ BXmrozem wAprdaraios
+aD 8985 र्ट988०र्ड४०४०: BS 8 69885 Sy Bao Boos
+
+ee 2 ae
+
+4
+
+## Page 40
+
+7 Se_ ay ag ©) Dt £8 Soe
+
+है CSS 650० H, 55978 ०5960, GI CSAs; 55०, OG Soy How, ea
+०००७० 3:55 [SSP Hoss 5, DSW x0 ४0४5 & $0.89, ¥y8
+mo SMH SDO| 5852 22० NOs, SAO DML BOA 385
+Cows PFyiwotoso, HPorow, DSWhoBoo Moro, &9क्ृ९४9०%०5,
+DSevro ow, OBA shvosows, कै ४0270 Hwa ४2१0 ९० Bee)
+क5७5९०४४७० ७०७ 290) 50 80. SpSNIM Bo ०0559, BSSovo Sy od
+° Cx Wahowwen NORM. WAsHBeo SoWwNrroaenme ०8१४६
+“ Bowcasotoo8d. Si s5 oS So 899४ SOS) 65929 HOAMIG
+5560० aha. HB 55506 59556 %7१ ० eX 9527० Som 55.
+28,9०0-%83: aw So Sess SHS Boe, 85985 SasCwo Bi 0«
+Qc¥ WS moo Or है ४6859 66950०80० ४० चेक, 3855950०र्:
+Somes YB, Som, SIS Des, AS Soc, AP VearCarces
+DTG Dow} Sy. Soss-F8590 BONWOWTGIS cio 6762 BOSAD 555
+४5588 ००. BES ० & 7०००४ AMT. WR 5380 6589808)4%
+ODS, TSS कक DBSsnrco~wenw, Saw Sesoawoo ry,
+SASS Xcaoenens; BID WMT° WH २७४७७ Dorgevwox#s. waza
+२०७ BSH 88588 80600 0०853 85 smothens, 579. GEC 305) 97५
+Boen SMGwH SNcswar WOAG. Hows pe) S00 S¥OBXO
+BowWoswIoS5H. Dos aswo8s. ६&४9859380 ०0650 ००४४७ STS SS
+BQ SHSaskows SSSHesowSesHw, 5506 ७० [SMSB asd.
+S73), sosfodto ४०8 66 छो 805 है 857० 5४00 GAO SIN,,
+HD ४००४० SF, Temp sowo. SND [wasrg*Fouss Se
+MMHoMwy. 8४७०७७०० SA Msesoawc ADD wSarserwoaw.
+QQ arrbothivomm. oBssy STPSQNAN CAOAMIOVE WON Dore
+
+A mnt ne nl pd ee ct अज++ eee a pane ak aed
+
+“
+
+## Page 41
+
+४) 55०) 889) De co Se 3%
+
+Sum BS\owsm. PABQSQ SoSSowwsoSO SIrGex
+8 Gipt KWarowo MAH. SIWormHxc, WY Kew, as
+85% छछ SHIMON FSS aH RS SrrSyarc 696: FOWGo Hoc
+io, 3880८ Borrowers, Bw c BOTT Sc ON ESS
+3 22९5९ PALS MAOH oromn. BW bass oxfbso
+How, Fssowx ByBasoo ०0:60 87590 2569, LBxyo 5
+35, WBS \soromw, sree, 05553 659 HAT WO ASX 55559)
+Ge 2७७ 552) OMIM. [SWS Trvows D9 SPT NS 58596 ४
+moon sow Wybowot Cirosrv0s sawor SEX gx ¥
+
+Hypomen oPowcN owe
+
+SodSegerrar ! NS sosfoSSoaArnsedy So B Sse
+BIW, 8४८४ SANS MTGoSSowom SDoBSW 880८४. we
+KWH) ७०००४५/४०४४, Gow SOD Xx.GI 55०76 Soosjw #965
+Se AWPraoay Agr~gHoF 6. NW SAIS aor [०७%
+Sos ४50:000 ४00. ) ४०४४७ हड९ उ०छ० )००:59 ४85597०:४६००९०० ४७
+87906 #909. 709059 Mos &७9%#७6#&0990:90 #7"8०४)- ser
+४9 core 589%) Soo wo छः 5० BS 65५४9 ४58:0 ४9 5508 #४+%
+छ680005., ०००३ Fogo Barwrcs DiI aa ४595४
+BL ovo ws वा G ४0 HH ४७ ४9 २) ० GE ४ ४.
+ESOS OCS Shoramaoo ४7950. ooSawme करे
+रकु,० ares. 9659 5537४ ४6०8 )9४४०९७० ३8०४8 शे*9:50800 77९
+Doms. SIDasa7roSo wos Sans SSL ySeaow 77०३० ४9 |
+Som. ByRiioS,. ASgatwNow SS, sSxGoBso wd
+Myon, BHAFmmyow ows BNOwreaxoacasows
+
+ee get 5 ties Mot acai ae AN व्लकनन o
+
+## Page 42
+
+357 2 SQ QD TP 62 sor. |
+
+DoTrmowor AZ otoares SHY orto. sos Goss
+TSown SoxstSoawr 5556७ Sy 3s S59 SroMoMe. galwso
+ws Sy SSF¥asow GH BsS* KorBo¥ 3 SMH Bose
+
+९.) ५... डर
+Vso.» 55989 0 65५5० ६७०४८ BY Koro gy ०००४० Sais
+BIpewoovowmes BHTooms, 65 eosirr Taos HDD smomHyys,
+8, Sarr Soden AocHoe Notomws. CDN SiS ozw wwe
+KeryoSonmm. YoryoSTrvows NFYopsrdoeweow DSSS
+So BOBIID १९००० 2 )४+88४5#एककैनर्ड ०००४ ४08%*४&)
+RSS OS) oo ssi SIpSomi, 56०0059 NM Tr vrcdomowo
+% DOsSoa ors &) 9807 602०७ RE ४४०७/६-४००:४:४७. ४६
+aKo wodimi ७४५४००:४०४०, क"ढ069०४० Nx TBSBHO 8)
+शर्त, ४908650०50 | 8.5 000 :08005080, 55586ल्‍60.04०. wm
+४600 BNE DoD SGOT sooSHono~S 5 86 OMS SON Saw a
+
+; पा ६) One
+SHS sos Qo8s 5585५ Bo Faso Doe 59,00 SSSA.
+
+a ee aes रच »\
+
+ALS Soeror | VIG HWwow wreHawoein~yorws OS,
+Stoo 89.० ७69. ७४88 DPGSogsorcsH Sr How BO क्ष*
+
+BY ०४589 80. TDD GHATS AP Tear soase ASST ae |
+
+0590 59 69 Dawgs 55555 MH. WeIHKFAGSP as, 30 ४9905,
+
+४6 550५७ 555 ४76४० टू ०9 Sor oro HDB” 9 ०5005»0 ४० :
+
+' छण्छ 098 055०४80०9 a 0 Bo 568) 9०७०४ 8 2555 ४5. ४0% छ
+
+ee >> nee ee ee
+
+## Page 43
+
+४) 34 D D> ca sv. Se
+
+७० MD OOS Narra ALP OK SAB 9585०
+$680 m9 BOB Sa. OB Go Som BD ४8१८०७७० ४०55०9 ४94
+BOG Fro ३७०४८ NICHDew RMP Sows ५६ Wo Mo so
+| 890) 980८8 7 OOH. ७०६०७ ४ ४८४$०5०0%0० ” DOT HO
+wo NTGEHHS WSIRKO ४०50989, GOS oso seo ade avo
+BS BO) MSSow ox SoSErwwosH, Ssosow Somer tyo
+mB 53 SH Booroay, [PS 80% SH 00558) TS asmens,
+SHS ८5969 SIGS 55७८ NOAS. ७४%) DSH ४8०४०
+BB Gos TIS BHo BR Hoo, Marsa XNew.
+| 85280 0४98 TG 59००४ soso ToD Hsroseoray sre
+66778900. AHN Boys SSM SSS OSA Fasse BOO Sy
+BO WAD. OB» EPPS aor O80 66 QMO we ! के Bos
+68896 ठए ०४०४) MAB. OS yt Soe Bd Lwvowds
+989 Hey wmroerry ! SH ar 2) D083 8८ SSM. Mera ४50
+१०४ AN Faso 09०४0 TODA 4 ७०७७, 0 ४७
+5 Boivhthomysy. B 8297 Tons  9058055 55959 On), 565 हे
+Hci 08०2885:90.7? OD ७४-*8.०-४७७७ 55७ wen ८४८०६)! J
+BI sow, १११४-४१ ४७५६७०७७०४७ NISL NOT Seok Si &
+65028 wor Oossm. Assy SH yrerowo ४७०7८ SP HSoyQe AM w
+SDN), 5 S09 7 ed Way, ,
+
+| BHAQO ८७79७ sox, SSS NO MOD SrrSo aHoATyY
+
+S20 WEY HHI Sod} 55:7७ DICT GWOr* sooo way
+
+& चर
+८: 2-8 38 a . as 5633 585
+S. TD, 255०8 SAIS UHTNGowmeoc QS, Somcw how.
+
+8293३ Kr Bow MSO Alo was
+
+3 QD ४$४०५35859०20$ we Aa 20
+
+## Page 44
+
+vo ४) 508 DY TP ६० Wise
+
+WBBM. GB SHAT Sows STP NIN WES (४८४०७ ७
+3509) CS~Sasa00 aro ठ5>7 5 BH LAY Sooo8So Bonn Bye डे (8०
+wns ४60४5000563 ० ४5. ges TP BBGO MV arco Nox 5 SH
+nN
+SENS Sood cwmoBsH. GAsogws |isaood ७४३४
+Mog os, Bye 3 woo sM BS ४४0 ७695 85985०5)0%059 OOP
+कट, 5889 TH Wom KORD. Show B #४#&80४99059806
+3
+४8509 BHAI) 7#ए"८४७०८४७७ sedan, Wess हए०590 96०४ FS Fy
+‘ ५...
+wo sad DOS SS Syox% KORW. yeas Sa QJow Bsa
+WDhIoFoW उक्षेई&97 Bow tsoRw. wus) SHH
+S508 3 ४86069०% DsrPoMcNOD RM WD S*SSFomvsm De
+WYP Si BSH DID =-NomBowsA dH Sor MT 8$59 क्वै००
+४४(क्छ हें छ्छ SHOW 589 6 Dohoth oc AP S83 Sire Bows ४
+XQ cs aoa, PSL ASD GHA Frodo 069८ egravoans diss
+६००३० SOS wracrrey dD BHsindD BowncBwy. weds ay
+86590 ८9 56589 8078 So(BBoN38o ४0० Sy छ"०४०उ82 5655 |
+Qu. Cnn, बस
+ ५« eon oy te xX 5०698 dv 625 By 397858)
+Sy BroSowas DSS ४० WIE AKQAOD, ५४ 5०%) ! ®
+TAIswomos w SQ G50 Soo. &) SHMWSH SF oro SG *sSoawwo
+Hil NSIS Wssxos NOB okSocwsy. ६४५५७ BOK ay,
+_ anne C4
+550 Soo ewre :७)५० 550 dio Soc AD SE 3509 BA, SH ४595७:
+४5४५9&80%9, SAN NOG *S Say BE RBI BS NE sSo00 awe gy ४59४) B.
+Vomss 8 TWD ASD BSBDBO. GoBsSsra srsre
+Mr Bo Bssrn0 Koo SSM. "७0:७४ Bs Na? sorgss
+so BS Sal हे S*SEVS 607०८5४ ७5858 sooo.
+LS* ESC oe i 5O3 WH ई$9०४८०३+ 99, wWeSseroa 98759 ७
+
+wo 7 MAG SiON ) BFP OTD) MOI.
+
+## Page 45
+
+{2 3550 ] 0" ca ४603० हे oO
+
+69d 7") ottrdis ASNGosoows . ८६ ४069 5० ! Bas,
+Mow 80% 0०89०००7( HAGre ANTE Tr Veso ws. Yoo
+58 HSOBSIQrCHS, ४69 "8०55 ४7७8 59)० 5] SAS
+Bows FASAOASH, TD, AG] W°TS sow SQ soo Baio
+४9 Bx Wares meerom. ESo 855 छ१ ४826 soworow
+४90७ १:59 Bosm., 0िप्ले०४४393७४७ Nero Nsom (EDN cede be
+RSD SoowsHo 22७४). Vorhson DS HarrF gor ws
+86१9: ow TASH. BLS sHWSee STPowrssedesoww 7TSevo20
+का Aso Vows Oxo ७5६३) TWcKOS.” GOD ०४७००६०&०
+A) 659 ७०9 ०४ Wes Bias 4४9० 27०७० « BO! Sow*so wows
+Gori HoogoF 55०्क, HSS, 0080 ही. AHGYard pug srowsoes
+Qs uU >
+Me WeScv0 Bend «४०७४. ७४) 89 ४०४१० Yrouorrc जे
+| 349 8 Bros a ० Hd wiser TIDE BOTPD SV V3. D.
+BbS0 HM TRIPN 2) 9 2S SBE ४००४0 X"ars0 QD, DP srr छ ४
+% 00४89 Koad 9) 68 ss THY WN Jas cae 239 ADO to
+Dain, WASBA ang 2००5७ OES Sy BOG Sows OOS
+बे कण AxQ DOWAD.
+sya % BO STS Gor 89) Ho 8४8: 033
+$Ho SSH. 960४6 590 WIIO AOyDH 60०७, Sig
+oan 4७6" है#9 ४9० 769 छ" 690 TOD, AoS  SWsoewo
+«cRBart Dou BBR “BSB. 8४४5७५४४०४७७० MMs yo “Bw
+fo te ९.)
+8. 38 क WHOIS कर. AD SS BSH Hoy व्यटीरेले
+Bow C2roscerey as ws ST’ Sh od woewvo wg 2299 039
+
+WAS. Wy wriciaw, ByHg ०5७, एप 5" Fao A ow
+6
+
+## Page 46
+
+vs oo . (SSO o ६४ Sate
+
+SreBB Qed ASL AG dH KBR“ OOK ! 8 83 MN 3
+. SoSH DD SHE DSS Soa KOON Ome. BB EIS -Sowswe
+SSreeONe NsoYCGNSeSows 080०. Ae Byse.” ७७ Wi yb
+
+‘So, STP TPO s0% 87) 40० ४० 39%780%% 0० 0०8०५ BHI SMC
+. —o' (3
+
+ई०/४8०७80.. ७४५४४ DEITY Seg Bago 4 )00050% Yous
+"67906 ठ#9*र0055द्ञ४ Gros ४० ४४०७४७ SOS NS).
+छणउ०ीएछ. 8080४ के ऋ० Sx TEMG DHS ०5 ०७०१००१ SS
+
+Sos aw sb | Dore BS.
+
+‘IPO BBowss Brxsvows SSPE Bory Sox BO
+
+AGE GOv. SAE Th HBAS VITO &
+BySHowwMy VwBorwH is Nswyso BBA corm ow!
+Wrsoawo . wr~)y 55705 55959, Sheisoo soo SAco spo
+Se KSxwpowo Bb) BresesFors Bsr arwOaTo».
+BBWS DWSDMAKoF 5590 ५७:४६ ANT" Go Soewesod cor
+BEJow MAY ००७८ MAG, क्र"08० ag od soS srw
+SO ००७ ORGHBSS ००४०००४ GSS Mg Bb. ७०४०३५१४७
+oO a, Cease
+Sree 00930 68:59 TSS GST S590 DIO DoBH6. OF SS eres
+‘ ~ &)
+BF 65826 MI ToSW KH DDS son™ 6908080&59755०0 O36. exo
+SVs DS, wows SS SOT SORSS OTS soi w}SEYO b> Say
+’ #०कू"दै9 hoe Sosa cwoIgs BS 530% WI APDODS
+
+SHSa Voss 0०90-09 SS gaooe awor Soriod FB yor
+BBM. GHah IsHyetgowwos 69 | ०४००5 BINT कि
+
+SS Qoaowo SES voFSGoass AO BD. SHOR SoS) aio
+5७ (४४9804०%/७) लेटे sinc 2. 8"४053) SST 59. Rey
+
+|
+
+## Page 47
+
+band
+
+{2 Hy 0? £9 Soe ४5
+
+606०0. HOTS Kc sows (०८४७, whe 8&5889
+BWSyKows< SSoan TDM MIY cH. SIMs SO F
+है ४0०5८: KS BG 8० TTPO DAD. 9४030, POS SA Two
+Sos BPS AKI SSaOy ०७०४७ OS}BHS ०४०४७ SM 85908) sod
+Sy fomo Bas. SPSLT SE aH A SRO STFS 55570 655 ४507"
+कि BOTH 58. SMS HSA २७55:6 # No DOSowX ४7४5)
+३20० ४०5०8 ४७ 75835 8 Brae SAIcatoo MSooueds 2s
+HUT IS 5579४ 8 Fyeosss StS Sago ४०१७४ ४४0७० ०४७
+KORM. BISNIS BI WSFowms OGM 8०-5७ 5०७४७ D
+WHY ०००७ MHISGotovss soos,
+
+तक ह००९७ SOFAS ra sso. ¢+—
+
+SodSHeror ! 8 SHG 69885 TS छू००७ Or HH He
+४0, WA Moth, By Xow soe 38 SESQoSoced, oct,
+6:40८50, Tse ४90४%०)०५०, ४76" 599०: ) SoJoo KOA
+8 ears) BOM 88903) XV aos रे oS rss
+HB") wore NOAG. ७०७५५ ९०४० Tr Ter छ0छ+)86069७०
+हैषऐ५छ४०0०४७४ . 55706-09%08 Bago wd pyre 659 BOG ६९६०
+FRG cm, 9260605%86669 NO Go aomdeodancd SSeS Do
+BM. 55559 Tr RonroD Borgo} | weRab 550 ४५४० ७5७
+ers) HU QMIH 02.0 No arSQozweT™, ee & 50). ४0% ! Bx
+०छ०)805000०590 02308 2४00000 0 6 ०४ HMot0FS Ww sno
+MON व्यण्ठ:0४7% ४० PHBL FS Sow. # TVS VYSGO tox)
+
+Mino.” YD coe OW SrGIAD 39 65590 2% RTI Stieww To
+
+## Page 48
+
+yy ह [४ QD De sy
+
+BH Soo VyWrowOS « LGSSwyroe! Bs 85056 दा atto
+(OHO FOwS LH ao i&d. 33 BD BwBohso 55 * SS wr 520 SHE
+oe SarSB 5576 SWS SAC SS RovwIayo Feta «
+i." OD FYgoraoraci, ArHl dw, NA 9००9 Oxy Dot
+chs, DIT \asGr0 erBvo WoO, ८६ SSIS D | Sosa ABS ०
+WSN, DS SHoeossMowo 8890 ww Bsowwsow Wo }
+How 30890. SY SSSR ४) 7५% 00 mowwabh TF ६७
+MSH SOF Hmorhod Dass Jamowm Siylooowaas ४76
+(OS CMOS ४०5०6 a5OQ Te SHowas<. BaXoenvo ४०)००००%४)
+TN OS.” ह |
+
+OD 58950 yoo, Derr BO wor x DOYR OTD w
+WS yteosen, SIPS SHE ०००४ ४०% 98 BSS wD wo
+orrKows ABM  ४०७७०४३)७० Br ४) SoYos% KOR. &
+I SJSTSOBSSoIOE ive Bod ४0550 5४ BGou KORA
+SNOW soy SHO_ @Hy,_ ७०५४०, Naswer, AS GTR OAS 3553
+LHD Joo १8886. ७०९७. BS, ect, GS, BF sor, Ds
+SHC H ४३५३४ BFsow, 2550०: SPOGATjoHFo. DAN ado
+7 a) CF soot DOO. MMP) SNoBown LA5° mooavyo
+दस 559८ WAN ३६००० ७५९ DAS ७ WOE 89 Bo 283 8922० 58४5
+SS SOSH DAY BY so D0 TNS ७8550 sory 0% SAS BW Sabo
+Nore CU DIM. PX xo ०६०४५४८७३०७ A SOHO 55595
+WM MSowN WSs (SERPSSASoaws BSSOWASL © es Hem.
+HIGdmomm, &56*४59०% 5B SBSH sSoe0 Aro): TPO
+
+## Page 49
+
+[४ Brg 6) 'ठ" ६३ sho. - OR
+
+5० (०१७०७० NODA sino Tw. HOME aH Traoowwos
+wt Bc ४)%7"७ Boo IOS)
+
+४0500 ०880 FHorow, WP rosso ८८४) OOM Sow
+§xpomom NOAG. के ०585 ६३९58 0 ४9० BEM) 008 HH) Soo
+49 DPM. FOTW PWe 275० Trays Maw wotomoNs. vr
+PRES SOF ७ OOTP ar v0 Was | 80:0० 7TPODS « ao
+Howse Der HBS MS 6590%9 ROOD S973 Boo BLN.
+8059 ०७988 Sos BH Ma x9 0250 SOFSBOR ७ So.
+85५88, ७४०२० 6539608०0:5058, 6०४59 555 69986८56565559:0/80#88.
+0४89 ४68689० 6080० 83८ wh KTS. SHEN owes
+00000 00 20
+
+SHMMI GDH 0265 ADV HMosM, SGN HS, TWH 0०४33
+
+०08८-५४ |
+
+४#४0607"289080. Kos #&&620<636758590% NORM, FH S/O ४ ‘)
+7 0... ८..... ४ न्न््न्
+Formos wee BH a0 86 Nobo He MVHS [2०430 465390 Wd.
+५2 Ned
+TMAH Shoei Saar Gsascrrrd ४७) ७ट ४595
+Ho oo 65596. oA Sow o8o ot 80359 क्रष्ण sors)
+8090 68969... Gos SressSresoww ७४००:४७7४०० diss
+०5909 &.-
+98950 ge Dre <६९०४००४ ahem us GieSINK eyes,
+
+aa”
+"PO
+
+“)
+ana, WF WIGS H HDG Homo SMBrCo SOA 899४9 ०१४००
+SHV gio SUBS LS sorgw oro HMDS yA क्षक्वष्ठ केक ०४ oS
+ee
+ROS. SoSH. Oy त Stow Bw NSoBwsDsard
+ao ae ०.
+Soo OMA 559० BORD, MS Iwrecds 55970 ४6 Iwao “ESV
+' MO 85४5८ APgarsow WHod ०58०४: sotoFpsoows
+
+\
+
+## Page 50
+
+we. [20 ४0७ STP ६३ Bode
+
+85८ ANowmAcow*anm. gb SIgdHo & Xo 29 29" 35090 %0 Ss
+
+Bir Bos HITEKPowws DOHMH.
+
+७98 Nrrthoom Bi ३४०59 ssood 0000 [600 ०90... 888
+one ! wae ००% BSE S 8998 asses ४02०886८
+StH MNae | Golsr© spd soryw wes aorah4s Coo 8
+
+४००८8 $ For 880०४ %00 HOB Stoo Sy CSoass6c rot
+
+SoD. GHy3EO FOS OS OT ४9 Br smoSoxnsc WNows
+
+ADB. T Nihoo% SSowsto Atoms ASo¥ Sky NO
+a. है ow
+
+84 १ BS YT OS S509 KAS Sow BeoAosSocnH.
+
+७8000059 Krifoo ALNTHA. KoYSeeror! ४१४५६
+Fowws, Boraodrasiaen, SV By 6 ९० Bos So No B'S SF omens
+ES. woBoXrow ०४)५०८ Nal SPSsoar OD 3&:6.20 OS Bo
+ BcBtScaros. GB toc ४5 ws QoS Sows We 20 65930 6 # ४»
+
+Lo Say
+Lyd Boras ew wmorck ersXSorw® SYS cao ९9०58.
+
+3B SOO S900 Dearaiws wean ctoKo% ASRoD
+eo, ५...
+
+oma. Ojos webxsoFo2veo 52 00 AN. 8508 S00
+
+OswrSoKenw SBeag Pras WF owoD asmods, ws FOE
+BSoteD ४288० 70000. TW KH S40 EWS, chm, BS
+Bos ४०४०४ BooSeo S&S SHI [Wargerdssv0
+7:०0. Bears gimeoas, ES omeo ४768 667०9 )%20००१७५
+8५ ००0४७ $ hy 050068.. ४0%, ००४० MOST AP so क्वि०्०ँ०
+MOTH 8 Erwm%o HB Saw. gO B SSH ४5%
+D MBP SSFoaws § 69० हु Sows, 88 | ४४५७७)
+0 छु0र्ट:5393- . md
+0 +
+"BES yi ४०४४) Fosygeacia ABTQSotis Sraswose
+
+## Page 51
+
+(४ 8850 ४) G ६४ So. | ve
+
+ASS. GYMS SGU HJos, क्र१5०४७०७ ww,
+nes” SEY 2822 2992० HONS, TOI ७58६8 80600
+BROOME Homose 80597 Bom are Soe
+PROMS soo KH LOD SNS) AI 995 OS Sos SVM. SF
+AE wFavsoSooro FOV sSoogo 5 DsosomoH Ow Jos
+KOAG. ७०5४८७०५४७७०४ TSsoass, AVodiesy Wea SOY so
+% WOW क्ष*5 ६5५5. ६०-००
+
+wa BRO HO BHT TI | Soa 77600४65 ००४) *)52)०
+6800990855, 09090 Bere Sow #४४5५०४:५५७ N7D छै&७69.0 Soe
+शा90 0559. 0805 aw 90% ० WIL WS 3899 SODKA O29 77906 ८
+XB FIST*oS www Mod Acdoso ws *xyod SS IMG 6509
+SSE FFHo WT xoxo AORMW. Goda Sino WDD:
+FT HVoHwe ARGS 0580075  SRewstoaws DOH
+WOES BOD BD ao Ss 58088 SoNot FI Hows ser
+SO) BRITT GVO S45 a0 WES Doo to FN BAD.
+
+BFF Soe H DOG Scioo 62688 6:५0:०४०, GSN ४590
+
+x, BEEc Dy Hoormr, ४४७७8 856 60800 05070, GIA 8०557
+tid, SES 555०0 ०:४५0७, GI BIST HG orww, Bd
+28 8890 869 BdoDb. Taos wssoso ०") 3 SHG
+Soo 009०8८28*55080. SINS ७. 60क-00०:०80, GIA Asser
+dr BWlomAao sos. # %9क*0 03४०० 26836 ०5०५७ to so
+fo 65950 600 #&क्षे०४७०४ ;07%8 08 $530 {SST HO 6595" ४५४४७
+KORG, OP BS ७०59 sxBodJeo Soci Iwo Jssoonsy
+YowNXc A 80:8० ०८४७० sd a4 odd,
+
+## Page 52
+
+CS [9 sg SS ca sv
+
+---+ ४08००9ल्‍४ 05880, $---
+ST HTP ४००० AEIOTWAD. Sorbo ts ervo~ ! ४58०6 5770
+SH MSU, 5,09 KOAB. क्रष्ठ ६७०8७. Sw lsd evas,
+DarVGomenmH, wososooow, OVD od, ar (59०७ SB gre
+XA vse DSH 2 2992० 7२००-००. 29). 6% ats DBA
+Bx 8008० 5570 ०५8 'ठण्छ 86952 0 MDD BH SSK HvVowsy
+Meso wow. ७४५ 583 6053० Bio) SOQ) wry
+
+SS 0209 SSoodosSo SD 55589 80 sro W ४८ soso
+क्षण ! AS) SQdSSxio0K Tag SE. co Soas ०6858. S* Ba
+
+960३9 SNe Salsaslseraoa WET 8 (छ*० ४ TSH a5
+HATS sows Sx Waren T*asocto wa SY SHS) BT sion od,
+SIR SgSscivo BMvmo%oo <8028886005० Syd ६6०४]
+
+Som wren TN eSomww S058 Hoo 8 ASDA पर | 5384
+० sori, sxswosvsoos Sr ०30##6009650%9 866
+RCMP HSCS HMA QC. SHH ८*%05589४%0289. Nswo
+Dod S*NHarFowssesS 55-658 Faso awwohw, so
+Ero me HOSTS Nos FFAG AT CNswr Dror too Xow,
+TAD 08358 Herr mosuanas 60600 Mywoms. wis
+DoW *diwsFoaos ST°-Yor*? GAB SITS SOY ०४५5७ TBE
+WN \Q 02 AIG ow. God Si2 AAP mos eomod ०5%
+००७ ००9769-069 के Smosh, एड २४ KrreosarSoaw ora er
+SOT . OB WeasowN ७855९ Reowoowowm., woes vx
+SEF soa woScarosoary wo. इ6० sroson)! SHS |)
+Bags’ छ० 65000 GA US, 758 SF 2 Soand eo Sosbosase)
+
+## Page 53
+
+ay og ४5) TP ६9 Bde . en
+
+८,
+
+59559, ७४8८४ OB Asoo छक्के 880७78४०४७०७:७७ Blow
+@
+९७ TUNIS. GHD SBowdos |
+
+é 8) cas SMOSH. Yr
+SG sho 7०389 SIS errs ow APHOWSMcdoaws AM Gxjoxm
+BLT TAR BSGoss SBoooiw S* esr Ea xaow A SB
+acBosocNeo Sa 650५ SBQ) DOT ५ So. aor | ९9350 565
+
+SMSo0 Moers “SSer so 55555. Go, Bros wish FH
+
+SuNowe ह 8539 SOO फ*्०« 5555200०0 Brows 730585
+v ’
+
+SMD Booortcarorm, ”
+
+0 cSwiohoe ४09 ७ sp 89 S09 SBS BM By अं
+
+BSS wT OS), 299० 326४9 Vor AoSo ६६००-७0 ५५०७६६४७४#क्षफऋश!
+J Sooo SyroNS ST WK G0 Br WSocsseHF
+OWS. BIOS ०१०४० ४० Kooirsoom VssrBHoo Sow.” dD
+Say Sos ad GOO SOS ty ४03 VAT AOD Sy SrSeo ws oz0¢
+TDD SOLS DY Sowos Dor.
+
+Seo 557० HGorwo.w Bois) Srey BATA OD Gx THE 3S
+OQ OFS KoroSoxslowws co FooISoss wees Wes
+SM. ९०5७9 ४०४09") ws soa MH, SSX eH oanP Passa
+
+a
+ry
+
+wt,
+
+x न
+SNarwo Bro AxpTxjow Is Ba30 20088 ons ४६८ MoSeoradsorBQa
+2 a Pa i? aKa!
+SSowwwo wea POBSHY WH. LHe BOG ० 5690० WN Sows
+Cow's 8
+
+ye 5 हे
+NSodirWlo AV, AUVGywot  ARoroxsreeaoaw 9555०
+
+ane
+
+न न ८ oO $
+S54 MDoMSs ५ CNS oMoR ce [Bs08o Bx
+
+न 9) 5:४5" 2 ey SNe « 6; ८) iene
+Xoo%h. Ba TGasw BipNowsThwowwe OSVSHg W-
+a Ane.
+DSSS ON Mateo wWeoBwomMoc 559 , MoWo02580 55०४९ ०
+
++ ob ee २. ०४ Bent व ५ wx “
+४0090 Mook A oA, DBstooiorgoo Rotate 559 ० है ४५
+
+a “
+
+## Page 54
+
+yo ००) SQ D TP ६३ Sve
+
+७४५४० Deas Spo wens DigNowoorss SK 8656००$9०700०
+Goo WD WD (S59) Sspoanw BTreD SHS ० ५०१७ #ह$094)०9०४७४
+SISSY SoG. MSvdrrHYoD Hy wo Sreqlooas aed
+Sooo ४३१5 5996 BT SPITS BHM Boo BMS Bode ee
+TODS, GOAN [LT SyBowwwse SSSvsorsw08 OA
+89००० wen S8\smbF 0४७ Nays Bh. 688४ 555 Sas
+SoS YSasorox SOMES TONKS OHO 29 7K5 Sa5o0] So avo Os
+8७४४) SSS SON SoNc WASH. ९७४०5 DeiyoPo ss way
+STEEN ०5,09० ४७०: # 8058०05%-'ढ/ं०७ ? 3 ६४० ४०:5० ९६3
+SLBA, ८ Sy Sar Sows 0:#०60 BS, ७&०685:55 55५
+8909 ०0:99 Mit Growmws xy 856०507% ९5७:४-8-८०७ sox
+200०० BK DTW Gro) ४७०७७ axy wr NBos ar
+Srow हें 39,57८ WS SoD SPN vooass Dor.¥wd
+8७४०५ ७७०४७ हैं ००४८ EL, SET amo Ss TD NSH
+» Bye eos SSO WA BOSD SSS. EBoMorom
+56४8 2० a  Sogdronr vows FE.cHSS ow J 69239& B50 ४७७
+MH, DCoBSS ss 8 55% FT SSSWS ST Koeawens Das hooxs
+WASH ०४७ TESTA & 54% 2(००१७४४४/७० SSonsois war
+Bo BM.
+
+SSocSorHlsi’ ars SHC HH 5 ७७ Dye
+Koss Bg Soo Som Wom ITeoHQovo Saxe B aswoab
+SyTPrH Ques SBS BCom, ७७6६ 8 BS ISE 3800 25 MDSOaSO
+BoM, THLE eaSioos x SOSH BT’ RGorHysH BDawnoNs. so
+
+SHYT, oF IT हे RG om NBHS DM ००४७७ Be
+
+rd
+
+## Page 55
+
+Dw) QD or ७ xe a
+
+8589 ०5558 SST aor S*BHw. “Rr nw B,S*¥goes By
+SCBT Hoeww< ajargd SHG A, ७ RreassB8e ४०) Ss aeso
+88.8. GIL AT aoiy> Bo PY 58509 5. SB gy हर
+SPIES, SH WitrwsesB Rosana SSSA eager
+Bh DST ARGO DWH. GIS BIST*VOaaDs GA xr
+ad Sonos. dc F$oSiwas awwr 3 54590
+Bok SrBH, VSO DotHmB am WSIarsMow Rots.
+SDoM HB HBS VITrSersrag sain Baw B. sok.
+SR SE Sar) TS ov QM PAD. BRoSos STrowedss.
+DMMB yew, shot Mo Sees SMSC QW D ewswyes SS 555 'छ 8.
+5585 6०१685 SSH OD, GIDE STySaHow VogTHo6x.
+%, SHAS 08)5०2 59० Bro (OS MGommH, ७608 dargajwrs
+०४४३० PAC) 35796 558 559, eds - SBg SST sSo0@ 5
+350
+
+cy
+
+oma 20438.
+os)
+
+तक ४59 SSCS asa. ¢—
+
+MFsnewo BM SFg_SSocws MV yBSo Darvas ७53०४ )०
+Sse — ;
+
+woo 9३593 ००७० wad 858 SLT HS SSMS Sx wsboG
+i. Woy so BIN, Sasso 859, 00653 8680, Sesrxvsabo
+BSH, Tree QI r 8"8908 89 SHsboBw. -8४८०७5७%
+Troe wserxs Ore 8 6575 5 SHBIQH OS Ve ३०९०) 3
+ono woe [AF Soa ONTHTY AH Sow, ८८ ०४५५०४, ९9४ %क५०
+By, OD क्षे४)...0० BM. S99 ५३४३० BS 575 55909 Sol Foro
+७, ( ३४४५८ Way yD GH?” OND GHAR. 955 ४० Go
+
+## Page 56
+
+Me
+
+&
+
+@) ct 290 SSosrorn | HSoBH AD
+
+2 55०2 B TP ६३ ao
+
+BS ऋा opots Ose,
+
+98 Sow en rrowes ६ Keo SRD.” O COP EBOWD,
+STS. SSgsJSoor Sow ORoGH. क्षक ०४७० GH SR
+
+wm ck 9५ ८-8
+29० छ HA WeAD ८९00%४०७59.
+छे on
+८ on < a =8 हि नि 6 — बट =
+
+४४98 )<9० B99 Bole शक्षर४ ३-3. BIO 3 ठकव्ाछण्द
+4 “ a
+SomwnsMo Won sein -४८४-७४० ० Bm. 5) Sore 8508 559 we
+N[Ssive BONG We ६20४6 बज EOE 9 DONS HHS gow 7S e90 23
+
+Wee CPS PeOkw 0:59
+“mea we ae nsf _ ae
+WH ML BM SPONe (४७०0
+XPD Vassoan we 22) 38 We WD
+
+va eS
+5895 छठ SOKO छा )ए५४० UNI CoM
+owt meso aN & WD Pr so
+SHMBCABWBW ION Yowws ८
+
+न /
+
+7h 9७ Me Kew कराए १८37८
+Bret sha ANS Goss as जा 0720८
+&
+f)
+on ७3. ४५४६८ 2५ pm
+BIN, ४५०४0: wok ©
+e)
+
+™
+
+HO OX
+
+%) =e Yo RO kD sot Pre
+eno /०० ०६5० II SoH 3
+
+TDW. KPuoPsonon  Nosoo Oxo
+v
+
+950 5% omosesrs SS on MBBS
+Bis TE TBE ०००४० Ss
+
+- yo eye & 2
+99००० eA Go 2055
+
+Cd» 289 Ws 3
+8) re Som
+
+ao Meorods dio, VI QD 8००४ के,
+
+5758४ * 30589 KB 20 B%BI0 oS PO ESOSTPRS
+oy
+
+SSP eo PHD 2 ०३४805553955 ७
+
+aw
+
+OSM Troexo GH पे
+
+Row NOT. Deo Sr SEgS 80 GES क्र"०४३४०४
+‘ Dg
+Dosw DsRoW AH. *
+बट pee ee 3 os . S
+rs) 85) =O Ws WSs CeO 5592 DIM NFS
+2 x
+
+Hops Mewo ४0 sar ४४ y Varo ww Wyo ६३४०५
+
+Pa
+
+६3४9 ८:४० (& 988:80209950 XS
+
+Sowesso ean BONS WS tear shes wos DT CHS
+
+a
+
+8४६९००२० ०७ ४६०७ DSPo ४ छ्ब 550288७०४02७9४ SYN) do now se x8
+; , oo ,
+
+oN)
+
+(2) Wo
+
+SVB Gas Deeresessess ss we
+VO VASIPNowMsS We Sraiedstoct SNSoawws #
+
+DOHOD GHomSIHHo od.
+
+2
+
+a WANs ६29 9४० दे or yeoo
+
+## Page 57
+
+४ 850 HTP ce wh / ME
+
+Q) oe SI SS SEQ 08 x59 GTORN|NS xin SSooHoD csswo ws
+
+S[SBHOSOLA STowsVGe as *eo 550९ BOT Bro 6580
+H, Oy SSE SGo now MOA CSNY HPajock CABG Dow
+to TrarroSepySoeaws ex oe § Nootono~ tse DOA OW wow
+
+89. HOGS oor Dig SSoan Moa PISS SFoms SH |
+MV BENSON Hows. Tas SQ TPAS SSH Hoo
+
+8 Ra * a ec yy wy
+TDD SS y Dus CNRowsss VrGon eo Saw, ४8४5 #द्धण्०
+3 ?
+
+हैँ
+
+508 HS BOOTS Ar SHDAwr sess SHPxpow Ne go
+ro 6०890 ४9 SsoaX5o0B Sia SM Be wes
+©
+
+Jee S asa ८०००४०७७, Smo mBoNPT Tod BW ८४5००
+
+©,
+
+asf
+
+MHBID 008.23 TWD SD core Beno car ०४ हो" om, Lo
+BES 5505 8:/08 SAO ¢ ATs NOAW. NIQw Iw ¢
+ai) SOX 20% 55030 दा१5666०9" १999 XORM. 8580०
+'डण्5६३० ००० wow क्षष४ का 55०:४5 80) 30 ६60९0 Sow 'छण $89
+Noth दाद SY SIGS aso बता है, AHELQS. WANS Savy
+286 39026 Se 6089 ०००००८४० Nyy Bo १506, Se AS DSI SES
+SSoois WLSISY SQ oSssoods NS EE Soo Ti aso a
+
+——?9 SHga Bo 5 39) ०४5 ;97 655 ००) . a.
+
+aS 757८४ SEQS Sons 855०0 छेण्क्ृ१४४० WIAs Deo
+SOOT? a y 659, SONSBaD ४४0 HV Soodo 89) A’ So To
+४0 SKXSpoth GRYAMom "0० Saw, BGS 0०७0 Sow Be
+6 थ्ठ ०... ७) 6
+८४५ 24908. 800. WDWS*® aod Sak RPA wood 3
+
+## Page 58
+
+yy ४) ) DH Td so.
+
+Gh
+
+Nain Wad Sow Sic AUS Bre T Sor Da5~ Boo
+5 GireAT SM SGD wrSSTPVoM sot sews ToS$2Gs0N so
+esr woot DY PYRE SS oseo BPM. SoWSMHo SMOSS
++A) SIQ SSDS RAG
+aoe Bs 5४००) 0० | ee Sows SST shoo SSwBSo0s
+
+| NON FWoho{QonsrH yo 55%, OBAT STS ०5%
+KM 30997 ०508) 6 sy BOBS» aoe) S SArKo २०३७
+BOI UNF owes MHYS की ४9. MS Srsows ७978०
+Ko V BD. LO HNO ३980-89 69 55% SHIM 55% S59
+२0029 BYF oS soe Dag Boo BESS 82
+
+ek
+
+HSoStsw SPOS sro nwxss DTG DoJ 525 SSH
+bwOBXyo Noss FPersHosesoro we oN BF oMDGR ०८ 9) ४६००
+B sow RF GTP ah Noercsouc B\$0%0% 53885 &8#85802
+० अमन रा oO
+Now messed SD Sos daw. DF DoE ox WegD Fass
+Sowwm (wows, — ४0838 BSF Ss Bao DSABO ४७४७३.
+
+aye xs Qe S3 5 A 52) > — ome
+&0559 D 8०9 ॥०7% (38 ०४५ DBS TAS 02068 ais DQ
+So WDD Tas Kaos WIdNMc 205s Boo BEE No.
+Bs 24) 58595#88 55) MDE GaoHo Jor BSNeoa0m, saFe
+
+ON
+SOMOS LMI 5 X50 3)४०85589 ४४869 SXopoeaary
+(earde aD. ,
+
+७8% osx Ke 90000 02 UAH HUB a0
+SSHn0 SN SEF or ox 5)59)०5 BAGO TAD. [98०
+BS sow SbF yo 9c STARS DAS wardirasoas nm.
+
+oo
+
+२०७ ४४3 33 &%:5990 Tod ) 20 BSBS No (SIOF yo
+
+## Page 59
+
+४) QD 'ठ" ४9 so. जज,
+
+MSG 6/95&5०3०88, SIN SES, Soman, ३७०८५
+
+3
+se? Seay MEA. 5555 BOBS X30 SN Wo ten ४85
+Dado EMI VIN aMwow: DG. ees sx ४5० ५532 28 ०० ६६५७
+
+2
+tA
+&
+29
+R
+b
+
+i Bomomwoy DBA? sozw0w Dao too Bao
+
+3
+
+9 T°AIALQOSo 4290555550 5983, ७525 & Soom, 5४१३
+
+Wer wo ha ४०१३8, SB syd = Sine, Ble
+e> ou ’ पु
+WraXesoaen SeaoNXowwwn 0६#०४०० WDDS.
+
+TSMDS MWASAQ STL) So msc Bra
+Was sto हे ०+६०४४७०० WDOw FS DH, ७ छ१5-७०० ५४५ x ‘2
+
+NowsoS ४5598 ९७)७७६६००४७७छ ४9र्छकीठर्ड:१०%० WSS. TF
+OLF) 393590 BWSR’ ASVS2-Somn SKS 2४४: 3220%
+
+08०95. 58%#ल्‍0 AGT Ol H 59879 ४05 ०७६७. ४885०
+BSooghom Din SS 599 55 By Hoo ४४४ SS PSF
+BTS TS FaoynoH VsrHowvo कण"्३० ८७४8, VAS Sow wd
+«23 8680४ erro Sos SParso Dg, ७४८: FF, ४255
+
+on?
+N
+
+४, TISE Gamo दर्द 89४७३ Gowo WHo Bar.
++ SABO x0. $---
+
+QA sresoo2ss TS bo cho 38060 )०७ ४9559 ० 2३०
+रई 55583 NNN Sow क6808055०७ 659 Sd [कह ००93. &07९8699 583
+BSH DLN. Sao So er-oe | Wswo SBSgiarsoow
+“Rovoreiwoheaxsos *689065555 0०988 ४0985 955७० रे Sry
+Bo १००38 ४ S TrarQ Sea GT Koso BPA ON HBO
+pow eros ठ&०0 48. wes 8, ८595४ » wes, डफ्09 ०४,
+
+## Page 60
+
+Re 3") QD Tce soo
+
+BS Poo distaiw8 6. Wests mobo) TrBGSS_ GP Svo es SSoa.
+SMo 2 ooo SHYj\OW smMdeoWr. OS) BIT SIVA KOA SIR
+56590 BM. ६७:3906 559 WR 85506 sovsowwnws SoMa 55530 हे
+88, SBNSB dir So Vass AYSIBrNs0 A-DoDamo
+
+WAV हैं
+Ps. WR SBE SBD BX so 9 WSramterae greg
+Oa OO 52९55ए Wes “8 353) WA “TPA; aC | SOS
+Seaswo WAS SOLS SSMS OLE Ae BS NOSMOS 550 ०७3
+aed
+
+D) Tepeagagows "339 ss I -D$sooWHoe MOD Swairo
+Ssoowsedoce GSA aox SAF) soso 59० Koy
+WoresSo0 BMD BDO NOM. GHB SKS? 650 2995 Dag’
+Hoo *0399 ४9 CLO SwHygwtSoWerSF¥orgeso 8४00 od
+BDBOAN WING. SSIAr SS SH 0४७० 8000० ७69. OSOGT
+"650०0 GSD 'ड० AQ DT? SE 8,/००००८ [WarBoDBw, छठ यु
+Ay o> Sy SOADSN £30 200 ०४०९ Aor MSysrr Bos
+
+DIOWO BSARGN AGO % S90 oa 0509 ) क० we? (SSP
+SsoBIS Som ADloNowsn SresraNeowes xvowredoB
+MH. GENooSowsT TVS 55 SI ¥aH Sr woass 0555 Dso8 6
+Sg sooo 65»० BM ६५००० SON Gox ४ as
+
+8. wows. Sco BesxrPragwows Dod
+—o 3 3
+
+6
+नए
+SHSODS So FI ASS HOS 8०0 8/556०87(690239७.. Bs 2००४० |
+WDD MOOG} Sod 89 359&6-*&90० EMOONOGI Doss
+86088 MTP HOO WN I Wo Seow NHy-j80 Aroscaros Goss
+
+SHSM MVIsrNowoD (४७४ MrID Peasy 6557 298,
+
+fa
+
+Heo sno tho Sesorpow Feerntoorowso 2४5०8, ० :
+
+## Page 61
+
+a) wg Ow x sS03e We,
+
+QB SHPaSos od SNwA F SSSI SS so ssaisos 8B
+&. SK Hom MOMs SGowowy ४880 ०४० FPHoorowrsn S83
+४80 soos ४6४७४ 856७९४७ 5"*9०589. ७७५ wes THe
+XN sow Form, Wows ads mowo Ws ss Soars 3990S
+Sow ADD DOD wSSeaoBm, Meats moxr[ SP Hose
+IISc WSN evcwmen 85358 Seon, wssesNevoewen F
+Woe T sresenn 83 EsHownls., Smsmowrendisors D हें ४८5७
+SETS er ov है कु 55885 'ठ05859059. 9590%४८2" Go
+४9. 8०७०5 sh SRaowr Be sow S( Sysraor% gstore
+Mrroxovs, Meaitsyood, Soefresisdeor, 6४009: “Boor
+OEE 59०० Atyowes, BoB Sond.
+
+AT ३9६ asovo BSIODNG Sere HB OOTWDS sSoo7V? 83% TPeragw
+ooo ९) 558४ So §& 07% SHF Gos ASW. se
+
+' dow ई )४४9००00 70९८ wed Psd esoew ०४५७० S Pon sot vio ws
+
+SSB BN \oawric y SPO. ७४७४० BKIGy%Mo 0 To:
+2) है as wy २) yy
+
+s xt =S .
+
+6) 39 Vor y &3४ 0००७७ ४50 5 ॥ ७ 77"0.02) 0-08 पी 90 6505509 :
+
+२82९७ ०१०४ ६११९७] SY Hw S an 505 क्षर WA cMorergo, # गेल ,
+
+25060, NRO LOY, RIOT? 5550, 379 ४0 १४७०४० CROCCO ९०
+5 oe * 43० ae
+DO. Sv ७७४») ९६ 00979) 09४7७ ७४० टी] SY का ONG on] 79963 (89 Oa *
+
+i SON ६
+
+= ast wa) mn Bat न nt oS बट ou oo 2 ८.३७ aa o
+kale) BM SWIC, 703 SBIWlH, Bo QdIpo¢ to, NoWsArAS We
+
+ees ey ५. . ४ 5 ee 0 कि sys a) ae
+86553 ASO So ४४०४ ७४७ aN ८४0 WD’. “BL
+G
+
+बट oy!
+
+200) WEITee है 5993 PROMO OBA XO shook
+
+LO we hey ८६
+60 SHONCEUA,
+जन
+
+ह 0 mene “5 ats, nye cy “4 - जा ९ न
+पट OATH CxO TS iwaQ ४ MOH98 soa “WO\s
+
+8
+
+## Page 62
+
+ase . ४) 878 D OP 8 sor
+
+ares, #6 35590 ४765 8. PHNeos o arosbws 60568
+४60० 99.) 55909, soBasw TGs 55% ox 853,० &/6
+Nin, GEco ४7७४60825%० WIA ०६०-४०४६००४७ Now way
+Kero Bw. W* OPA EIO 6209 S8o wrscAnoSs ४%89%9 Jo
+ES 889० FSW si SO HOMO #00 00 MDOGM. #.
+BEGGS 8804 ss FAST soo ar) १०७४७. EX BSE
+Sor IG ss Sx xooiooBSbo ODUM. GSoSTsw Kom
+FST CHP v0 ADO BM.GIK CONS ¥ ens Ss sobs 559००
+— ४0860 9090059०९9.
+
+SN SMe ४88४9 ४ ७००७ 8502059क्ष"6५ moet. Vow
+
+DSU TrMHirS Eorooren, GBS E89, Codscirem
+
+5598 SdoFSd. GR Wa Siguricdawm, GOS srcAroe
+
+Hess, CMa के woBo. sxe} sors eGo w
+
+D008 SH Bases ४४8 eres ons ™MmBMoso Soo Seow
+
+ES? SH, Lenss Sow Dom, seksi zos So¥ sso
+
+८ ERRS SBM Tro Now. gots 8०४7 BSlOSA owsSor
+
+श्र aK nel 355७ SD 2 ० am So é ~~ Oe “o 5% १)
+
+| SHBo AON Ser Koos ay. ७४४ gs 8g oo (89,
+
+80868 TS SLST AID Hoos DroPo WH. «बैक? wp
+BKIrRLows WS ७800 2कै००४ SLOT oom,
+
+SID SKBASowe wowseso SSOSY HH}
+
+- 00 WH BLS. Cols So Ws Kod Go soor BJs. ७
+
+OSOBS moo
+
+Soo) Hersson3s शक oD CMO. DAdBoMc Ber-sto
+
+WS BASH [ATjomwen DOSY 050०5... ७0 aogew avo
+हे हु ony
+
+é
+wN, SHES oes THF, DH'/V0 WHOS Ao Rie
+
+te
+
+## Page 63
+
+हु
+
+2) ae 2%) TF? ६9 5453 ०. | ह Mer
+
+oS), .STrHom 80४9७ है ४१ Ep ४४5०४ SS", SPB Ash
+MosCWaDH. Wsaords OS ow TrODSSNBD SreNows sas
+8 85H SMBH. CerasweNSysinsoB comPDN soon SK BGS.
+e508 BOs08 SS 555900 NOAS,
+| FRONT SSHOVM TO cMrwadSsswowow :55४8-886-० 6६६१.
+KXBWOT SO DOS 559 DSownroamx RISsamose Yo
+BBwom 'ठ०855०959. GAs &89 8० Hoo BroSoWaho Soom
+७6988 BO So x05 १७०६5९५ BHO DSM per Cox Ts 855 ROAM.
+BSc 602%09४90४ so BPS vomwswo SD Svar _ sso 55
+soo 80४ ४६9० AoW mADvow BSR, SSgnoow BHA Soo
+४967 80०9० SASoSBoa20 ADO BM-GRODSH SSOP
+® A8woowSowo Bw. © sin gss48og0% WON Sook NoNs ४४%
+9090 BAD) 69893 DSc XO SrXomBod SSSSaare S
+SHB. GSE SesowwIssa (0289 WASBar mow KORA.
+SPASMS |MBoormm, asygstorarsso TB xo.
+3, ७७७ Youbdspori, SSE RoYHAQHows, ७88 DQBg
+Sooo Bon aS wetioomm, ७588 an Bossgo ows 200/36
+Bac ASSO 2 MONT. 660 ४०09० 209 Beso Woarsay? Noss
+Spro ag ४9. ean 830 SSS SHFRl AHA, SY &230:980, -
+SHOE Ger omis ४0०00... Srersoo GojSigro BaHgso.
+BID S}o roar aenoos ForsarSar sows Dy Yeo रद
+BG B¥eregsiar sho HGS 55006 BHD YSErQoww
+BIDE Oxy ०४०४७, BID FSA Hooihs, SHnor SWHWHWY)
+डे: ००४७ KOAS. ७७०००४०७४)४७७०७ ssenBoodso. BRK: Near
+
+## Page 64
+
+B20 a) y 550
+
+Re
+&
+
+YO? ६० 85035 |
+
+¢ €2४ Ro[ Boss Darowo SX Ocis~o0% Wow BHR;
+BoSoows. HOWexe. BDA Boras Sowo2aer SSDI CUC hoe |
+&6 808 SSW ०७०० Sot Hoowmpss 65: BorGD GE कै४/3०50599 &, |
+85D ots, GOS SIeso2w $8 Boro Zomsow,
+85590 8०058 SKB Orato SaHoxsors wine. ४] OP ssaow arg
+हु हि हि हु
+Soo SOMWosH, SHWlAaw, SIONS 05% 600:55765, GSB
+Wenoioim, ७8803 HMorxwom, ७698८ ewoWSMoMom, SHAS &
+333 % ४00 ०:6५, १28९४१९8 Bard Momo, ७58 Sow 2४950 ॥ 80
+हि n pew - a
+
+D8 RLMadjomwrs, GINS ई (०0 0:59, S8D 300 0४080, ९3४ 98
+Ss Teak, BOISE ४९००:०४9 ADAG.
+
+Ore SsowWo HoT sown DBP Trex ooDgreg
+
+ता? .
+HSB W088, VON ४८58 yo “WIT, WCWBS OND GSA TH mo
+५...
+
+Bio Soom, ००६६६४ 50% 806 88७68 55090 Bose S 5590
+68. BOS ५४० SoG sre DEG sosawvs HOS Soar
+
+> s
+Sh ०४० BRB. ProSererossyosrsrenwm 5706९ ४9७,
+MYB 559०0, Saoperu | Dsv foams, SHBgem, BH
+arse ws ०8०४० RooSorosrd Ny AWN sor wsotowrts
+SarsiohoS SdoSo2os OTPSS STS छा OMIM.
+
+a
+
+हु
+
+$ oF हे ye NSN oo. Ge
+
+6788: 55०४ m0 66६9 053583- ह0४४४690७ण०ठ" |. aX wre
+ERO sowed Vas assess. 85509 [४४चुद)०#
+0 छित020०४ . ४७०४०: ४८% ५ BSS 0555१865555:530 6 ०50 9:600%0
+"Jo MSonoWH. ७४९४० swt Psow 7ए१श0० ८७४७, ४6506 क्ष"
+
+## Page 65
+
+४) रा OF ६8 ४09 . ZO
+
+BYosMyo Sem SdI GS अं ्टू (४४०85309 50. OHS sss
+४5०० TOUS. ७३४०७ 320००) OH AHS 0597४ २6999 6 है & ४०४७७
+8008०: Mc BBs DOS ४७:६७७ 555 DAdsrwow ss x58
+OB OO WY eZ sSo5 KE Soo O to Boos. SARSS ९3025
+8505 Noa oo diooX Ty Soo HSoDB, AD RTPI SPOT 89.3 S59
+mrecaroS Sond. gc¥ a dodceresd STON piss - Deon
+Ky 89060 WHT SoWoesdse SA GsGBSoB WMS  AD*x00
+TSrASe Hoo 55539 89-« ु
+. छक्ष Hod 65550 7९०७ SPX HT? wos के/9(9०5500
+&& 2४४2 5020० Sor sid 6866००० CAS Bros BBS DW
+. &9 8०5४० BMI mayo 4658 6००. |. 80७5. है
+£3020 20D, DIS QOS )#(६४०४०००४०, SON raoeweoas Wd
+Bose क्ष"४०७8, e829 SoS resasrrmo Bx Tes soxoD Ss soo
+STTGISGowor™ ४60७) TGR BAS. APRS aor
+ws sy 88,065 ७०४७७ GT sre 29 MDD ons @BRoY)
+STAD S509 APKSSVonSo WOSMoMoramose Sa Hosa 2°)
+KO ६४००० ADB. ७860 ४७783" SIs SrIBSo wos
+Sow Mr Doow SIT 7 $०००४० woo. SB RITPKAIG oo?
+BNoewns¥ oF Tr Grdows VBA. ह । oe
+दो कर" rw sows 5980) |Pomosesc, ७४
+re SKSTS Jom oSONMH BS erevyozn wrod) FISK YSSHSo woo
+2888 Sow AAOGBM, GNoTTsoo [wsirgero GMHS aos
+wrSO8 Tray aso MIOBH. OSyIwoRaw WH. ४४७
+Dwomovos, | DI के००४०:४५, &$४8004)0००० ०5 EHWO SY Se
+
+## Page 66
+
+8....9 ४) SQ QD TO ६9 Mv
+
+CBI EX HONS MBM x0 S20 MHS orag ry rz FISK
+BAHTAY So Bro oradiredHaoy soso TAM. ७०४०० ०००४०
+SHS [ws 2*He SSWLS 55००0: May Gxors wrds [Ass
+e2venrds Sa ६०४० ४०590)० Wii.
+
+४8058 8967 Sredeagn Sowa ssrgcsm, 5B) xioa02Jo
+cH, — 77०9४ BS oMWIy ४०७५ Soot mans, SB
+o5n088. sS20N e955 Boo Sora Sx BHo Bows SSH c
+B cmos, Ws हीए)०% wirrosinON asd Boo Doren
+THoBM, ७०७, 59599, DS, Se, ४59, 86, 58, aed Q 559
+ao NSM aso gors’} BOs re ७७४० TED Bow we ad. 2६20
+SHY’ 80608 ० waa Wer Ypo Ds} Neasiargn
+Soo SHOP sasows SEAFoO wg dowse Baits soxwsoren
+Borevo sD Doras wwoww.
+
+Box" WHSSo Brrr wos ०9४०४ इक्ष
+WG BLN. 2082 wo des THD Wssoito was. ४४५
+OS 9४५४७ WSs Sow क्ष JO0% bo aso TS exo DiS toe
+00 6008 ४० (56990 4 ६28०५ ao tH DBs 590 Dyas
+HBT MGT YT 5&#60 589. TiO ४७) ४४०४)७ asa
+Do Brwwso rod so Tavieos, anxpenso 2७6 Sobso0
+Sc TPOVBAD slo WyFHyBS Sadjossvasn NO ८७8४9
+००७००. WMmagwy sd *aoNB. Td 657०४ Bod sor) sso
+
+०४5०४ SM.
+
+BNO Sy ssw a5 RO} cx% Bom JAsdrows OBN SoS
+
+RIPON sas ॥०% WL BS How Seo amok. ७४७
+
+## Page 67
+
+४) 80७ $ 0५ ६७ Moe 23.
+
+ASAT BOP sorb asin 3595 629 ० BOP Joxs ASK ra0a0e9
+SH» 5D 85755 ह |
+
+55० 3५ 3 ges Ry कि
+
+2) 3 7 3950 Sa 869989 | 2) 8०5७. Saget Key
+
+PSS BSXevoave 9७०४ HHS Sond. 68 0%४6०
+
+DOA EHTS SONI stip BUT saosraonss
+| DargSo WERE. VWod SON, BX ey BS ९१5४5 wg
+900 8 a JsngsrOSo 5 oo0 PSTN’ dio AWarwweowo 28
+Sorrow  sewoNows SBod HY o¥ oasow sey soaoasy
+ह 55९0० . 5६5 ४5 छा 55०8 Ly we
+50०0 | So 20४ e655 RTH soto ०५४०४ ३७ SOyotoskos
+ADO We . :
+
+DSK Bos SSB TW AHOTHYGH aswowd0
+ow SY esrOsGo0 es | COT PAK BA\O299 SES 89००६ 2590 60:89 €>
+' 555८ BPOPBH 050४9 E78 0000 ४6/0%४०७७०च०१६००७४४००क* ०७० XB
+Brews oawTrDows "Doo. BAG) shoot VSP SosrsgQ o
+SRS SOM BomsovoGM, 596 (र्ढ sireSHdesrsisswo Ss
+WT OTE Saw ABS, 0 tHtHoBw.
+
+OH yh WoBsseom SoFairssy B  cosrPhife ca
+PsodSowe OAS, ayn yBSoscNKORAS*® SIgsoo BsySo
+55960 ToXsGy Soowsrres SGV 0DS. GS 659 Qs 3
+४४०0४ Bio 9659890:8009 05९०४) ३890-98 55980, STP OMA ss
+8 SASDAowoc 82999 SFgisoo BH Soawsa S208 woDo
+BH. ४)#'हुर्व० 4४५ Gd, Tw wrod ४5०४४07०८ oe
+VBodwo Atom KSgioo BHySoawsa Hen. ४१55 व
+SH KywrowDS8o SS di ०9885 0०8०४ 9 )द१(2४6४ OB 559
+6 १8९5० Tasers 52 ) ८ exch) ४9४9० BAS BH
+
+## Page 68
+
+ey om) QD 6" ६० 35000
+
+| 8855 DxosS 60850 MoV sso ETOVSdsw
+> ई0०)६४४०४७० DOD 56500 5908 ०3५०० KMD mM¥Seasoo "8०७
+"Ro. ७४७३५००:%७ SBM oT ST" XN Ss SBL00 6550 छ
+888, SEIDOS T HS ow BD osteo & WDA Wao -
+BBS ATTY, GHGS VIYS ४००50 5,.०४०४.. Awsigy
+Soo NOAS. woes ४७ SHYT Smosd. GB WSrwsy
+& SBS") Soo Qc Wayso¥ sono 7500५ SHS GowwrAc Bays
+७०. MI STB 0750 00५. 86७60. ह४ Vso¥ Von's 8505.
+STS FR SFQSg so MA vMwoHy. sda wNYOrrgBogoo
+SFOS ABS, OM We -
+
+->--$ Bos \SoFSE Sade $n
+
+५ SDS eager? o> ! sentostoc ८ ४५ ८४», ws 22१00 585
+
+जि]
+
+v
+
+३०) ६ ७१० 659, 559०9 559, - DBS rH [ETS ction SPO)
+55०06) YM. HT? 93४0४9० corona ८:४9 ७ ०) So") ४४9०
+thio, VAQ wet 4०५ ८४9 ७"9 05%, Deg aos ass S BVO»
+SHS HMM ०7७०७७४६०९०० SWaAvswodsotss 50505 ४
+89068. | 7509 5570:875000 SSM YONA WSs DAD XYQ
+220 BOT WW IHD SoG. worst orarM Wow Poros
+| Maso 83ठ5< 2७७, D&S, Gun, OM, Sr, ००४०9, JA, servo
+BB S809 ००४७००३०९७७" ८ Kon है Swonwem, aozwsesd
+Seoo2vwsH, WOT MSowmnmM, DI errwNBowwsmw, Toss srs
+Wows, 35 808 SoHo ‘DBoweor 896 58960 छो ४००००
+हि KoSSresis 3. ७०४०४४७, BH VSL MS Somos so Mwivok.
+
+## Page 69
+
+oy QD TP ४० 53% et
+
+HS” MO कक" DHS sino WOU. soso 73८ [wF0%5o
+998% 2०898 * ६६७० ४७० ४75४) SIX 008 Sore ४ 5०6 PVR Ko |
+Bw. SE A SOAS) LIPS So Mo < ) 50000(0500 Moss Trg ATS
+SSO AMototwoBw. GgursoSme SoA Wesso Gis
+४०४४४ (४०५ ह
+
+SaorrsVIaHocHe 2०४ ३०४७२४४५. द&8059* 2 ४०००५ ono
+
+Bd, OST, छेद" 5७3), HIS say, (YESS), .
+
+Z. <.
+
+SITY 55305), 05555) aD 52058) Sy wo ४088. ९७० SX
+neem or 5, 83 & ay & ia) a ४४४९७
+
+SHON) 3०878 Dvoors, SOAS [Bavotoo &76 ०७
+
+“3४ ) 98 om, GENE 50850 ७१ 569, * शैप5०५०६४७०:४७ SO
+
+“ne
+
+MSF BO) Oxia 3588: RFD COMBE 50555 BSR ०४५७9
+
+ss
+
+Ms
+
+29°38,  esxrary 27
+
+४008७ So wos sy Sowa » S20 mo
+=
+५ aM. OX 8 . oS? Sotas’s
+So ao 80c a odo We NOW BQ Ser ID win Abotwoeos
+: कि Qo
+
+BID १९७ 569 wr Bowe Fodor 5
+
+iy WAP ED SrrSNoHy WraowsoSs Lot BSoon
+FOeBw. Los eI 088 80 oF o) oo CamNXonet Na .
+5० DOS Hevows ऐप फंड WSs. ९90८5 ४ ४४०६)
+SHH sooo 9085० ६७5 ४ Ways. 96500 ४ TO sais Se Ax
+Hvow SP Hordes, OD NGoh ४००४०४७ ४९90 ४#0%
+KRomszoxvie osm Wis xs Dao sok, WA chmod dino
+MoD 89890 ७०६४७७०४७ Kom GN ersayw chirTywrevio
+BIOS 5898० ०0०७0. ११3 soc aS Non artsy OA sho
+20 KORM,
+
+BAD ०४० Poesia? ४५४८६ ४: soos SED Bok 59 Bide
+
+2. -
+
+## Page 70
+
+ay | a) sy D OF ६३ Sie
+
+BS SST IGM Ss NomMAPNsoaiood 882४0 Wessg
+De ODA cio, ४४७४०) 559 SMITHS HOSQY ०598 Derg
+Bo TOW Beyor A SdassoeH SAG O85 a 5: ०
+KOM. Projo SK TINS waver, D8 SYK Sows
+Mo SKowerrsrKGomm, ७5086 MIPorw SH sod, WIATH¢
+MBVowoio, MFT Morr, MIrHiGomr, swe 6 60 66907
+SM SOPs avo 36.
+
+sues TTP BO? 86 ssa0~ o—
+
+Bos MIHox% Tre 5599 & 96066 58539 50 SM cows Sew
+Bown SWS RO 3 ०००००४)४०४०७० BGUIS aw 9४०5580 55%
+9 Shon "900४<८57&० क्र, .. GIISSomsiows sh क००( Hows
+ह06+च/0590०0७ 76588, ७१78८ SBBSJoewN 880०० m
+DoW o2sobo aso BY ows खरे 087658 89058 85०5 SD Sood
+. Sara) Sav0 4676%)60%05< ४५ ASSN SS), 985: Me ४०९२१०
+Bw SATAN D TPB TA 80 WON Derg Boo Gm, ४08
+WATS ४४४ - 8 Dao: क्ष्क्षेत०७०६४:४७.
+
+TWAT MRO 68955 sy" AGSB HOMES SO SDS FG Sah:
+बचे, GH Wis Wa ४००४6 Sounds $y hod
+Dav. PV oso Brow Oo wHBSahabdie TBSIB
+Soboos woh. sic Som, Sasa Aor
+ap SSN 200 So Bs 39 ०६१०१४०७७ S Mol WRBHwy Vad
+SOMO KsyeoNe SR SHPTSS BHM SgsBo DOD « daa
+DS), Daw Dao PotoQes, EN SHoLo 850 69 ४8 Fay
+
+&
+
+## Page 71
+
+थे mg D Tt So. e2
+
+9)053 3°) oo Boi AS sooo NSMxXdhoo woSoanowm.
+Beads DTokSW NK som Wsoihess 085 BSso Boor,
+SAP SMowsow, Frotoorwh SmoVoNMow. Bdotwos, . SH Ye
+io AQwNrvoew ७४ ८ ३७) क्ृ१४७० Brow. ON Wy Gorda
+SSF Seo 53 ८500899 soo bo Saw
+ह SoS So ३003४ कृष्क्षेण"७छ GR Woes GY sso 70
+Doo 29 y 7०609 2) ATT > १४००७ SS} so So SU).
+
+QO.
+OS yi SHS SS HBB SAS WMHS 89 D> SAS HaoB 0 BM.
+DASTowos We Bo HPO NSS AS MoS. ८ 3०0९० woes Sood
+
+ON) yor X soso wea x") 7०06) GSW N sooo ४७७ OYSEByW-
+
+SPO¥ Yao 908 ४५४७9 BD BB cirr0S¥o BGNEA ४०० TY BY
+5. 8") aso soar TSBs 9०09 SON 0 ४7७४७ Drs ६59
+9558 690 woot. anDso SAsooT ams SHgsS. sos
+K\grrod HOSED SHOT SSo Tod Brogan! AY 9५४४७
+४80900४/:2४७&980. Wan shoe ४9४9४ woe ह 3B Sood. Yo
+MHS 88४०८ [ROBT Hyorwom, ParooS wow SMD 0% Oye.
+Koch. ABSDBc SW°Sro SOS YIN ano oNonod 5570४ ८:४७
+Was geo ६6265:30
+
+OD Wi yb ci MUP PAGSS SONS EB ४5698 ०)
+SMO BOS? CAH! ६5०४७ (Araregiwen. B3drrSows ko
+GET Bsvooowsose, "609४8 ४ ) 90 NOTH asmom DAKyoros
+BDoWes Sw DBo Wes” OD [rhothbawm 2000-080 065
+(8697 | Bete So¥OyD cSrBwsPNsnvs &४89४97०0५99.
+१६७३४ BOOM IAF 0५ Besar ow. gO omigewen sors ee
+
+## Page 72
+
+- हा 7 a4 a » , we
+
+28 8850908565'्5 Kosnod SoBe 86968. og do ० 56 aryl
+. “ee & esr छठ ~
+
+€9 Sob 559 ४595७ BO 58500985०00क" | ArH 6००श ३ -हा
+$ ४5४5 g Dr wee Yo ४८ a 05... ey -< we,
+ADF so! ESS) NBO acKoms, Bitar § yD 78 BPS Roomy
+BySo ४5० ९० 6585 are SMA? 7 Tras Lows Ara oNA pwn arog
+
+eS
+
+SOUT Hemi, Pos moerpSarsers SMSO HIO were
+६००७ BONS 0७०59 SSYD* MANO T Mca WIS aac ४0०४७
+& <४२२४०४७३ है) seas 700 cr 82555: 55750) wee Se
+> SSB TI 79% if ‘ @” Cowen SMW w How
+
+AN 752० S 3a ८8705%2055४8 wet
+
+Sosa Dwo%o [AHRQ O75 SST doe
+qu
+
+677 ४७९ fy Ys) . te «ih ॥। Hur & ys oa
+4820 ston pede ! 57 NS
+
+RES) Stax 8a ABI CEE oi aor WPM acsse’? eODSIAd,
+wSodE xs SSQaveS F MHASH ASM vss SHY osm,
+SHRAGAR aso NMS IS Hoo woSs. ४9४8० BW ४४७
+
+KAQ. Deswaddin, 0४९ दे 0४४ 55% KOK IQS देह SSM
+
+SAKA BareQvo weds eR ८०0४ 5४४ (ma Bre ons
+™ on a ns
+Tyg 6.
+
+. = हि (4 «८ ........... eae wt 4
+EGS JoS ०३० SAS Mev cSAG SS eep Meares 6७5 93
+
+Bowe ८8585 Bx SB SOS TS a ८5850 Tie. OT Aero ६०४
+io]
+
+a
+
+NO ४9750, 20 De a Ss OTD NASR 65०५५ Ay Sout
+
+5 Sa Boar ahr
+
+9
+
+Bw. Seto ४5 Basan s sFeprewoe 92065 Ma ४" 8५
+
+se — 6३४६ ८८ x ~ ४ a power (-37705286
+55990 852... Gases Bode Ser 3A, — Gia" ५ द््क्राएःछ ty
+. . Cs.
+
+g
+
+5D se yi i, = ra ae “' es af hf 5 Zy 7
+०३. DPOB 5 ९80४#550552793 & 5009४. Car py
+
+5a
+
+oe)
+
+ड2 79:39 0० EMWSVH Tract. ४४969 shay Ha Ty ow
+
+Md, oto ५०:४५ SMBX wen AGG. KGFKoSmo ४50
+
+## Page 73
+
+t
+S
+
+ay xg D TF ce so | Ba
+
+HT Roos Jo ४ DR. ६8८४5 कूएरर्ठश0कृ४9० 7 2०) Bo
+Egos 2258 [2४९३ AH SIG So SorgQhogo EDT Goo Sos
+है DIGSsoo BMPS Sarasin Nos. Pye LWows wr
+Beso WAESoVSHos awSoxd Bas. .
+DTG ooj Hoss ES wrBocs Bo orsyod ok Ho
+DoDE. BW Woes 3585 90%" SSH ९9059. Bao
+Hoc, YO chiawre [Ssngoen. 98०8 Sree ax N90
+४० Da. goBaowy oy Gaoibo4s% TosD 5880 Psy
+csots 3reSer
+
+_ a8 2. न ne 9 ~ <
+Severe, Tsay Tedoer, Hod), yO, Weesie
+कर
+29, 3 0970०८४0, MoUs \oMoewe, &४65006:50, Ov 80050, TW Dero
+ue
+
+AAs, #०0६9०८:53 . BooSorowey BIDS. WFWoOr © %५ ०
+
+sy .
+Lo
+
+8 So OR OS) Smoawot Bresso, WLP Se, |r Ream 0 5
+arAsjen, BS wrshyeo, Poowrw sey, wri enien, १०७४०
+९0, SHadrrSen, BOF Ges NCasoFNnwat wohjodds.
+SD SPo Moa 7") TS Sa VMIVT GOONS WoGswSow 080४5
+ae
+DI segs Swe aDows ALMSa ४5508 8:
+Yooh. wy
+on"
+
+ns FWP gowor, WSS EE 22090078०४८ D ’ Low. GOs
+A Ne
+
+iG
+
+DI LOE | 0 BS 56535 ०755 ae कि ३०४० EN
+
+-3 6) ४ rd
+B) Pos srOsRGdaiHs sowie wore “Uekhews 250) “G
+
+i
+
+SS BILMN sroewrd ster D PEO 737 Moe WOKE MAGS.
+
+g - oe
+BSIOOW 85 SarGoncmarwrers weg Ww “YON Yay
+
+xy
+
+xord wa spo NORM. DIG day ४७ “to awe we of feet
+
+DMoJeoook. sea WSO 6-55? 9
+SS ०)
+
+नी
+
+६055 800 SoG ae  shSono wy SONS Bee wa Soarc
+
+## Page 74
+
+20 ४०) ४503 ४) OP ६३9 Moo.
+
+68०55, HS asap SoF Ks sow. ४८४ Mstthojyo ४78
+Sn > ar -—_r> ‘
+९३४०४ १४9०० 9०0५ Wyo.
+
+——$ SaNOS soo. ¢—
+
+MINS Teageror ] ७०5७२,७४५ 8059) 888०6 ०57/06क्ष"
+'द0202,:8552906 ४95 ऐ 69००9, 55-69 69 60839, sowstorareows ro
+Sawer, 586), 60048८80, Sk, ONS SHS %5/७55%)
+Mew RDODNS. NSoSenr (AI ¥ Dar SHS oss. ९2895
+SSOP ars Mc DOWFTDHBersonos. Doo wModSSo¥ soo
+
+89 WScHo wronrsoxo KORM DBKTBY x ३००5) cay
+Kors SSS Moto Bw.
+
+SU Troe x Ber Seso’ 27७ BarrWoSvior) 8889 a)
+
+RODS ५४४० SIKH OD UX omwmmrsrk ४) BOS 890 2°)
+SeyarrD8o Soo 555०७“ AK sss NBS 6597 en 7S” 555९
+BOA 8७689 sa [ergons. Odom 2०१४5 Bayo cet NODM. ९
+६०९7 02 Sono WSostorer WaoryrSar BSCE saw DOO
+SSM Noo Sasos* Sor SE Sows jon 28028८0520 a0 8 १०595
+75 SOM. Blawg Tos SB aswossa SyBawxy S*os
+OB YA Sno%soH. SBaio, wih 589८, Nobo BE go aw oS
+
+<Q 976५ 8३ NAO soo DSSHow NWS woo
+SoM.
+
+O8 RT aHTrwoH BS baw Bsersxeo ४59७-५४
+SB Simwsivrem Sm Sitamone, BM ssoaw 8858७०
+| 8" क्कक02058,.. 58#5587588 QoQ MBS Homes,
+
+## Page 75
+
+QD Ov ose ह 2a
+
+SirohSoISY wom SXWIOED ewes Bardoys 96538
+७४38 Sowo so Nowe dwokws. Vos Exdeom, oe
+HwSwo wns dic Das Karty Sos S हैं &606४00 Stan «hs
+
+SOS SExSwoKod 58% 896. Gowswsoawerw”™ ed
+y BES Soo womb.
+
+७६3४० Sa aoe ०5358 0६9७ WFgowo क*ई6 of HF
+है POS AI 853७ sas PIP es OST Prasad was
+Snowman “Bsa DOAMHY “Bova eropar | Sao: BOSC) Ho
+mow Tikiverds woretovo MOONS PFS oh Sor gi
+TBowN 00555 soo ०६०४४ छह 55&90:80 60५ ७89 DreSoATbosa
+$d Bw 8७०४७ ४४558 DOD SSDI ४9 DBasmMHosa 555.
+
+SS conta $#“85808 क BSS wo Seow 22300 85 28 5509
+B ४8890 assarge | AS WME SE Aros. GAS
+Hows SP BIFKoms GH.” OD G8. BsFoaws to
+wim NO Csaosore WR Boorrshjords Sz SR 0D.
+BD SByhow rome sayy ower TY ISO F | 55०00 ८६६0 Food
+गे 45500530 nO MAW moo ce Sear! 9 ows हैं 550 KWo 5
+i) S020 7०56०. 555०8४४८ AGS SS कि००( Sects -#०१६४४० ०४59७
+wh. Bow WSyS As 80.80550 5०:38 ८ 23°) ०४5०8 A,B Mod"
+beSesrere ! gtr ४ ४४) SISO roSE Swiss noo
+casi, Baath ys.” 6D S}Aog5_ 6 9०908:
+
+UIT? Wh 58576८ १४ BID orSHow OST, OF 5
+BLDaciowwoWSsHooxric SSQ NLA *awHoWo Wo Mower» SBxSso0
+
+Kea KOALGOXC Bar ASW ६ Evo SSS ०४६१४ ०३४४ oo ०5०)
+
+## Page 76
+
+és ct ४) Sg 5) Te ६० 8893
+
+ह VEsw oOmMearnososess 050 8००० mDoD D 5० ४४४
+ona 533 BBA 220 ढ़ ६8029 A ५७७]
+
+₹9:5 285 FSS Soom BSS reson Bx 5585) Hox
+
+SD Bi yt Vaas sie a ox Bors 2 Sot 9 है १5355 Sore
+
+SHH Jo BOO. ४०(३४०% ४786 छिछ50555०% ७ BO. Bao
+
+AY jomod . DergBoo’s SANA.” VD Ud ham Esser
+
+Bor Ry rfyr tog HOSE odo 89890 5839 C950 3S sos
+
+SoS So 83585 wah arose wax thro 45०५७ OH 9४9 8
+SOHYOMBGSW STS] Stixio SB OST GOD sown
+WS 0४९ BB WY ores. TJooows"s, odes
+Deeg SS 0७7 ४००७ ai #४ 250०-52 57 5) es ASS 83०. TDW
+Ned
+Semon we BQSS RSS BS - 88५ B 85.05
+Oo Sins ०59४ CUES Bate) BIE SWORE 3 Sous. Baw my
+Ca DO NLo ew HIS No Shy © 290 35 O955 ASD SO verso so eve
+Shows 8800 253889. Goma OS HOG MPS Seve
+ASH. ६5७ Net ६5०९ GX DPBS 85960 SON BSBS wart
+NOS BO WIND Sh N SPH PHS Tw 39 OGISISOSA wosess
+HAY BWIBAS? GIB sy ooo8 RRDB Sor F 33 (४985० § 3500 99५
+RP Doty, 558७८ 2) Vato Dd 545 है. ००३०० हू कै 40080
+NOS 89500 7९४8 ७४७ कछूप580.. [80:35 wees 582 Bows MOOK Se
+6 AX WPI CYS 855. +.....-
+STAY ७०० ALDEN. #0) 00००५ ! 5०६8० द४&890६
+
+BPS. Gc¥ छर्तछ08०३४ ५३:०५ 28. MH. a Naw sd
+
+## Page 77
+
+(BQ Te ee 2
+
+{dj
+
+MSIIHFRG 5559, MCF Tr-awws, MwTiwewxpos SKS] BK 6००
+४७ ME. ७08 Dyrg woo Srovoes awomas, S528 sass
+४089, GSAS DacinowAw, SHMc #09590, ७४88 #*569 ४5
+Soom, BIN DIS Sorc Bower BHomwms, ७698८ WB
+४8 क०00४0050७ 883800%0285, ७6088 8०७ Bymorwm, G52 Xo.
+&-३१०5७७;॥ ७७898 कठ". 8०७० BOL 6). 29०5५ BAow0DS.88
+HSA y Hom 8:80 HS Wspo BSD). S*SDarg ००
+BEM. BSS 80580 sowtasdioo Srowows rw Hoowsoiss,
+BHLMc_  DUMBSQSor°aHwoX SHcsH, Foo, Xj Fyaodsoe
+Ho 898569008068:6059 wotonoNd.
+
+Bod KySymrs% Mesos, GIS Tswoxm X
+DAG. MIHONOWS ४१8४9: 8 Fg sor MHeod 5७ B 6. F
+wos 8 “A905, 8S O8c TS Sosy 209538. SPOS SOT™
+Showa, GIs AS SHoms 2०६0५ BSc. Sy SSSHY_O; |
+80०छ" 8:59 ४ 556/06:6029 WAowe.am BSGOSS 56708 ao
+Ho ४९३० ७४ - REGS AATF So Bro Ssfoss most ore
+SF cram 9०००४ Derg too कुछ... shew Ia Goss
+Tow BLS Tr WSs Sy 69०७ SSS BORA
+WN soon Ay soo SHB QHBOSITc 2a} *B Son “Bono Bw~
+
+SSSI Agrrg hoo A SSosoosoomm, SEAS 8g
+FO cHmohswIpor, SIDS 88 क्व५58० ४०४७ BAGS. BS”
+950९6 ४१ 9-कू 8 Jansbarowec BOY. GEMc ४४३४४) ०
+BMOWBEP SNH TATA AHS N. 28987 Gogo xB
+8550 600५9 SMIMoGMe ी ४४ y% डण्छ 82690 ##6ण6र्दू SS Gos
+ह - 40 क
+
+## Page 78
+
+es ह ७) ey] Tw Sow
+
+Soo 88४ ७०४७० हे शक ई 5650789090 coum. AB wy
+
+#9029970 A, 8557900. NOT 70९:50 SY SMe QydOww sys ० ०७४७७
+AN Soewrrec BYR BY.
+3 ou
+
+SO So wo FIN} o क S$ ecHPrasvox S
+है cy
+
+Gos AS*ar~ SworegisedO sor 52४ 8 RS ayy ax
+SIPS MON 8१४50 SINKS Sows DHQoTwHIr aso med ७०)
+?
+
+ee ०. ५ ok : xy
+SPow Moo amp th 0 62.53. rss aor SVS TMS soo @ Us ”) 09 0
+SOPSS Ho 059०6 5, BUDE BAB, Tra) PEDO POIMHYD F
+
+655900०6 0... BS®ar% wSsoses Drove ADD wr
+
+aK
+
+TPE 89०१४ )99०: SDM.
+
+७५%) Bee EC) ass Mc CSPOMSON 5559० EX ६४०७ ४5)
+82० How. ०४५४४ OMA Der 0 85 erxocay
+DX Gsm OOS Sew. Sos sow हे GY sot ४४००5
+
+2 oc, or Bl kw od nl
+| TAY shor FrBod ०) WPADDB™ Berroa APLoD 5
+
+a ‘¢ डर
+
+0) ठ० $ ४००४० PAG) HEGOWS DSM. 65" sso G
+कक ।
+SE AD Ar कृ०5६० ४) PSs
+SAS arms oS
+
+om 3 ५०
+
+i
+“) Oo
+
+CSC 8:59 SOD TS Ho & sox Deo
+HEROS) SY sors Dw. Gos DxySwisowoG ~Y Bo AT AG)
+
+bed
+
+DOR? § Sooo WUD Meeow 7ए"5)0 Web. ४) 09% 59६ 5) 8
+
+Bossi, Poh THO sts 5555० NOAA CS ४०१४
+
+8 060,..0 So, E358 33050; 39) OD} .0 RAD Bods,
+
+‘ 65 es ‘ = 3533 "5० «हु ta A ०, wt 32 * C Loe me,
+SHY Oy 028 SOS ०७, > 9) g NOGA ४० ४6508 Md. 8
+
+है ray C 2090 a fa) Seago od On BS oS99 0) X00 is) 0 ४3०४ oe ws Mga” 530
+£9
+& SHBNM oo wo Tagsrovow MNS NOaw, Ban st
+
++
+
+## Page 79
+
+99 500 ४5) oO 2 Sn. ; 2x
+
+SP MDT JSON )3$००६०४ SP dwg ४0०० "० से 589८ 89० ‘>
+'ठप्कर ०० Sh oD sods. ७००७८ KOS orsaeras TOR
+
+or oO Qos
+6550 TD. SIDE HIS How SP SEP DSN SSS Fars
+PHOS SOSA ठण्ड की aw Trxoeg ४०605 So ar 3
+
+$9 COR. 2...
+resid SNOW AARC SHI "DG W.
+
+PIPL BOW OS NoOMsor ४ 59 DoF ¥MNr°wexh
+
+toe 88 GQ 8990%050, GSd28c Atosbot oc, 853 eyes
+Hoormis, GIN soswWaoo Hrwossy Chom, sss Ogsow
+89, GSD SCKWormH, HAS MMOsSr~Horow, ७608 Fy xX
+
+Hom,  esGs 3००७४ ७०७ ४०5, GINS Wesome 2(888.
+SWoreawy Hi yWiooros) res BS. Stoyoos SFygs
+Hodse, POWs Pr yrrmoasc NOAW. worsen, Eats)
+९७ SHS seo SMO soe PO BIHS FErrroaow OS ySSo¥om
+
+~ a
+
+a २० 5 Sa oD ye!
+००7७०५) ००५७७, 8४९४४ ७-+००४४०४ ०००४७ AH ०5589.
+
+—¢ ८४59555*69-5£ [9४9- $---
+
+Swap Me DV Sng BoM 808०० God * Ross }s
+४58 Ber OND SOB, 5595557०७, Sodio, ७657०9, 557०9, MH
+SO aio HrxSGBISamen NOAB. Vow asasrBSdo ow
+BSG. MUG gdoo 26790" ८६६७ YM 28४598० Bow 557०6 We
+८०599 BrevayS ows HH vodod 2 sr gagrer®o 45०85. ५ 5
+% oro 5 MX SHOT es oases Praho Ho so5sod
+HM ४000० ४0, ९४९८5 ४08० MEN ४659 SOK BHP DD S»
+
+“
+
+SS L.
+४680५ 0९:४8 Bro ४१४४३ ow Sor Gao. Bd 656557०98 Wacdord
+Coe “. .
+
+## Page 80
+
+है 2") 30) D TP £9 5600०
+
+Hor aH, Sosfcews, 80599 [Sowragens, ORG
+BH, Drees wAyods. BosrYaresogor गर्ल ire
+&8c DBIMAD soSoawsy, Sos ah ow, ASQowa 709
+SY SH 88989 ajar Bo Ba. SIKow smS*SXSodoew on
+MT SO°Ffomos SoBorgs So SU SY ४०७६७) 3७ Soe
+0 coma Q हि ५......
+
+He CHB 867०9 ०४8 ४5क्षे १०0 ठ$7०889ए0४97 ०७४ 85
+S-aot%eoo ४७० ०55७. wono aw. ६2050 0%०००४७० ढ़ ctor
+BSONHO ४#8099० Ser. ४0599809 THs ४0060
+559 BSIYIM MGGsrAoricashts SUyS. CUPomas, ४६
+RwyoSmorim roux ०७ 560:005560ऊ0 83555 %%50 Sapowsioo
+PAS) AY Sos tsooOIs SoH ow 8689०
+Yo ४०9७ 89.
+नी
+
+२5८४४ छठ ०७९० FRovakha
+
+—
+
+BSHUEHO SVS yi At arWomIWosaimodins 3१४
+Byrend ४ Se 565 550 Od ~ Se Ss ६०३० ०!
+Benn Howrs00 2") gore 908 ४9० SH. Sores NY
+WOKS SOWA ain S*°N ON so OVSSo wrod, GHA
+Bows ToB SHoWa. Major श४+8४००००४७/७०८ Tes
+DdSSeoNb. | OS» wr (६७ 903५-02 mene MspHoB yout
+PST SoD DIErroaw AGI DEAD. "0 ८5979 Faom
+
+ON *
+
+BHD aN} MPoMe S rSIW wIGsoYom~as ooo
+Dao. OdHG OF oas 86308 ४5 00% #86%9४०क%० widSo
+DEG. STO Yo OM Tvyisin Waren AY 29556 &
+8०55 )०% SotoxoB wed आज shows Se nirboBs.
+exsod3 88598 ५ ९. .8)%$7० SM Bo Nomsows ST HUG ४9.
+SROMOGH Sho cHawgy wor youss Hav Savors wes
+
+## Page 81
+
+29 808 6) TP ६३ Sv. ह 2a
+
+888८ DIRS GE soar SHB OB.
+
+HBr MsStorwe MASSvondowwm, HvACHDo2So
+
+t ७)
+wh NOH) PsooSoxns sonod Shor 9 MoFawe SSH
+ao os क्ष॥89९०७७ AYLO ony. Woes BE soc
+
+BX DoS Me arolI Moar, regs SOG MD Now so
+CRN SR co T Noa 5००५9 580 MS VM Kowiwy, OAows}
+HMC WAYS Noes 0७५४9. Br Sasso 7%5508४० ४
+४653० ६७३७४००७४४६ DBTHo tw sO56. SOS) ows
+८59557& ४उणक्एण्ड")०४००ह्व , SMT) ६१०४७००८ 9०0र्ठ9 8०७ om
+BGM Ss ४०४०)०४७० ०४5६9 Shoo BrSow iso Was
+S°SoRM. Sct F Syowec ESQ 80:9889 SSors Gow
+SIH. ger cso TPAGo way nie a8 a0 D3 nls,
+ao EEK HBojo SMH BHD wo D Ong N A. ८६८ MONTeTr!
+DY TW SySBGamvo RSD 9४४५४४७ Wig. io THS*
+BH SWS Boo srg sts aah aor 550%6०:6596< ४00० 083.7
+OD 806 059 Momo, ८ haostorurl B STEW ase geass w.
+SHER 306 DG WSO S KreDoscnbasmos3Id. dSrASS ve
+IBIS B TINT VGH As Sodasoxy 9 - OTS :533७
+BIH weotoas B AasyKSGssoois trey TS. EW ao wire
+4कष४४०४8956 SSB. aM ar Bag Tisine ६5069868:6080%9
+*)98०००४०णछ BOHM. BWHSSsostoruwl AxosOIwsxdo
+FSS) K*)Sreo ts bo8 TBH soo Neos ७४० Som) ! TSB)
+HSJeo NSo¥a ero sooh cow yw. KI pr! ०8४6४ 5508
+
+ae Bg 0209 S80 DRI A0Y) x0
+
+## Page 82
+
+ao ४०) rg OD we ६३ x,
+
+BHO Bia BeoXdsdr 5550 Hess} 0") 9073 PN aSaDe
+BSN), Both to ८६ ५2०06 ! 5308 ! Sw 885 558०: 77" 55360
+
+6359-06 SS, NH कट. sows Sdol »प्०! 88) TP Ses SB
+8")p00 8D MHS ANOSO S 88D we Ser groan DO Wo rw
+WS! EOQDFAQ BM. mS geo 55953ऊ"क हें Sioa" reg,
+BOLWD, ७७४३७ OZ 558० Bs WD Sr Salsas wedi
+
+a mR . Ee) we 720 eS
+
+Bs SOQ . Brag Soo go) CBr Date Ares 5 7
+
+P-sod Dy DBI Bo SN tan Mowrewe ! AD SOMOS छ*
+
+5 ५ ८5850% 020 5७7 85%50 RS ~My ह# tormo ss
+
+8 3S san S 0 So 0 ८ peo | 5555 a ०
+x” ry ~~  @eO a
+
+300 Bou eVo ams ASSO.” ed Pou | 5४ ७९७
+
+559 SY SrsSosoo BAO Qo Kotha KoAho ७७ , (9S ,८8८59९
+by te)
+C78 SH AMDT Weag ०६१०० ४००७ SPAT MAW ००७०७ ४४
+४550 8 कषै ९ aso tbo ह Sa0'5 Sy PL aooSooanad SOWGON "5०400
+Br. BHcesy DT CASI Bac DST wom 5 5१४० S soos
+~ ५...
+955090%& 85896 SI *Noaven *& 0००७० लै590 5५3 ८९०60 0०0०) [3 :४१९४८
+W HABoS ४४560०२) BUBO CY SX Woe SOAS 4 [हे 009 at
+Ww)
+KPH yor BSNTOPONVoewwows OD ४४४७)'क० ६५: "WO 29°20 Od 2)
+SSS Soarworrc हि AS-D OG wrens F [So coe oo
+XAT soo ४98755०७ ००): TVR ३55. है: 5650 DEER wo,
+६८ SMM SN sSoodSos इद००५६४ we
+
+, . ye S$
+)« ETA TEE po dS
+
+SARS Gos Ss 88957 छ् ७8 ayy gee WAS Oy Wratys
+nr.) canes)
+Mommy. BS )PNAH Moxy ४5597 are, COS, 80: cago
+&
+९०89, SYosto Bs) Bwowwenw Mores Sry yews DOD Codd.
+
+S* 3७208 ४०08 NOON 8890 59 Wo Asse do ४५ है 09 ६ ५०३)
+
+ee
+
+## Page 83
+
+)) 5० ca Sade er
+SVS, TM, Derr BD3dwWoamsSow . mse sows
+SVMorwo wees 23°) sr GEG “So ४67०5. 8४७5० Bos 585०
+Soo BF SHOT Wo WS onsWvsSow DowYoSasm HBv¥
+one BSNS are too 70०7 aisrgssar’) SH 60% 7७
+i. ४00४ 0०० BOD DEBS soscaroH* 65-०86#6 ४59 AA ODS
+SA Sh ०४क्ष &४०5३४॥७० SB a eroBS OOK 5७०४७». 6859059
+559 छ ४४50 SE sow कष्ट DEQ wogno Brow, BoePs
+ऐ 2४७४४ AB 585000359 666 %59०0089 AX ०४०७ ०१७४७ APD Sar
+Sia, ४90 छण व 559 SoSHH ४66 ००७००० MNS). 8-३ ०००8०%%0
+WISIN 87650099090000 A ४४ OSC MMo anes Moise Syardas
+NoVo wos SST oF SoS Sk Soca.”
+© ०००९० Wx Xoo द 220०९ oP SdH 357०0 SBy
+Rbree Ce SWowsso Soo wirwswoaw Sea 77१90 WD.
+OOD SST? C250 ही yosBooN ors SxS Sows WY [8 0 ४०४
+SUI x 8) 9०६ as Sgro rs bod 38०४9: Be 605०8 ६6०७
+3555० TDA. SHOIMOISM LOA Mmwmwrsthososs Poh
+ISO soo ४7०59 ४५2885990 878 87(555०06 69७ 2४0६७"७४ ०४७०७०७४०-
+89४86 85369" ० | 8८४ Sy Akos SoMMo Srowroraheno SHS
+6०98 ASUSSOFSooAreHy WAS Poem, Besaird
+[४४०० ne )9 ४0 75९80 0०:७० 55९ ७३४59 AG OD wr omMrArer se ws
+555० 55» 20०४29००:४, लेते Som ०० HMMS
+—+ 0580४ ss Sahoo. $—.
+
+oa
+
+xiretiog 0090550 9. Soo) 89) Soerror ! Sst Ho08M
+
+,
+
+HBHISOVo VOM ४०७०४ 53 ०३४४७, 55889 MhAwom F
+oll ae] mo,
+
+## Page 84
+
+TO . ४) OQ) TP a My
+
+6०50 BE. Devs MSWMGommM, CIA Fy ardor,
+H, ७४४8 WH Morr, ७6908 HW*sworwss, ७७४०8 छठ)
+४0५०:४७४७५ aoNs. छठ"क०)800885 #ब"हुँ550९8०, YF Famer
+SE 550८५5, (०6 टी ०५७०८४०, Sey Game, ४७० सै 559८४५, SBasnc
+0, Baw, SNawoct, SBasoex SMASH MGDMYooms,
+Bes, Ios, 59, FoS, MoS, pos, ७8००४, 6065, ates
+४०, 66 ४५७०७ MEM MSH YS oad ado. ६28 )#0४०
+Wise ००(७३४) क्ष*४०७० Board SSM OESQOM Bod
+Cr BH.
+
+Sos way SHIEH AFA ow rT xo.0 28 8०8००
+“589868058. 5900४ *#5०७र्ख TPB  8%&"8४05०%७
+QEsS bo हे ४४... 45) क्ष"४5:8#न्‍ हु छै४:83र्चुछ के axmodam
+DP aHeso WEA. BSP So BWwSBHo Brown Sar
+FGMSIOD « 08580 mmwocey” ahd SEPT VOB. shy
+DOGS SVBrPoS Sara owe SS ps ४9556 639 grsisis
+OPIS SAPS. VBC wrx Bso# 90०) क्ष"४ ८ २७६७०
+ROI O MoS 358,50 WECM, GHD SHB) xr otH Is
+४० 0502020000590%5 Bates ऋण: 5)99.6० WEG. ७
+SIPS Hox ह ४599/655क्९6५ os oway WDMBH wo Wes wa
+BW WoSenNo MISH oor, MIS PIO shoevary, 00222
+wh, Adshevr, BSHIVGOOS SBF ames W* Moavyc 2)
+RBS.
+
+SE 550886 SEs aicss, TIPS, NBawogcr wa
+RoW Boon DBS. ७०59७ Hawes we AMUSO ८०४०,
+
+## Page 85
+
+(७ yD 0५ £9 ose TA
+
+६6908 %<८३:०१० BODO cS MAH, ९38 /१08: 2७४०७४७४७०० Soi,
+७6908 asa dior, ७४98 6555-6९ ९७० WMH 2086. ९2४30
+ध-धक०९००१४७ VY VGSW SED WO Hos, RRO 3 dino Tw
+BSI dy Boengowsoxo, BS wWrO380% Sows WN 0% |
+४959) SHY. 58४68 59380 Figyor $#985९55, BISve
+iSo 5000658)6550% 669 enSonohs, oom 6080 Sor MBN OSS
+Sys ४.90, 25868, <50, 5,57४ 9 CHB 59/009 क्ष*८9००७०४0«
+
+५5०5
+५
+od 8078 SyMowAn, 809० ई.,99055, NSS ४३₹:०:४०:४; SES
+a) है ०५00 हु
+७०००३ 8५ $.56530 ०४००8, Axioms, | 55590 59:53;
+Spon o ,
+3७४ )399% 59802) 5 56900 KOAB. ws soa DoOwaw
+
+4
+
+$55393530 tH cB ४7656 ७२ ०४०४४ ४४७ O'S 55590 WMHs
+
+80 80४ 620:%9४9, 5)8.%585 BD 3559 2४
+
+Some BOT show we ४०)४०४००७ ७5399 80---8९४ BBE
+NoFsooonsrS 8? ०5580, 990९9 5७% SPs. ४0०2०
+"SH. GI sowssoigo KM 6554"48०४०४०, 8398 Sx 83
+89, ७898 KS xporws, GHNI wOsw zdoOS. sod srs
+ArrHeHoGHSavod SAB Acke MytTo Sgn, e898
+Sof 2089078, Meher, SONih, ४४0:550७८४०,  50०:४५८४,॥
+KOomces NMBsjorosmeo KORG. ars Haw DSawe
+S79" 85589 Dargo 5. PSaIia SVK ws ६००९७
+Kx ६ ३७१४०) 65500076 D 85 oc 8) soi 080, SWS S* w now od
+wisrgesow DOS ०६ DYGos 585०8 0 | 98) xs
+BSHYSH. ४००१०४४७०४ ७४३४० SVK OS, ७955 ISS ५
+geome Sore) aseHai ds o239 Hy BIgrAc, [सै ४४०७०५७
+
+&
+
+## Page 86
+
+oe {2 809७ D TP ६३ ४69०
+
+zis 089 odors SooQ SSS ७५: 50 Se ०१8
+
+AGea ००७४७, 8d ७8४०४) Gyo. wereVd वजनी एड
+fo) पर
+
+छणठछ9कण दा S00 POD ४४४००७०७०२७४ Wow RO MSI wa sy
+Meg
+TNO DBA SHIM OH Be) Be WOosc wy wwsSoaweno, ७००
+
+NX, Son, 5080, FPO, Dots Tr sow we ४)४-ह४०७ @
+fam ee «८. ४० R we enone,
+Gon orwso KSwrarxoarx Hi weeds naa)
+
+. v
+
+BIDS BOM hw, GHD Soisswr Ja00 MOAT? Yaoswss
+
+&
+
+DS ie ऐड 0:59 83 Vows, garter yO And oe) GEA OA MO
+
+न्य्र्द == 5 Ve ८:४० “ oe ved mel, 7५ “OP we? es poe eg Hy.
+9 SPOawoAicho SM-\ahskicSy soo WeDo Gs. 2 C3" Sag
+eo. : oe eR
+
+Bo Sy srrop ows Worosonw ८४०० Woes na Qs
+SHH GF SHoo% DiI 67,553 २०८४६०१४७०:००:४८ ४7० Foe ८5७०५
+28. ७४४88 Woia oH SVGsaoasn, WWY F OMG BON 5०० ६७
+He ४७०७०१७८६७७७ ६ 05:9०: KOAB. ७-७४०5०/४७:४७ 5270०
+domes, SIS 55328-855580० & NBTS0 yo ४०50 209236 ESWO WA?
+POSIT STOO NG No WowrMlo ४ DareBo mo Wd.
+ayes wes) है, 7"088 wrOS oro ४89७ए००४००४ AD AS.
+SrSLoMWo%s soojpPwwowS B ठण्छऊ SIMO BAIS Wodsvo
+४०७87" 8 55856 PDD THFGOSCAY SDD Uxiasw 5७
+DSS Saree BoP Dao 65०.
+SEG oH POW S50 MN, Bs 2 35°F), १०४०४,
+BILE . BW ySTeS Sy oxo, CHO Wu Brey Ny 22) ४०१ POD,
+७२४98 BAS) po xsi,
+
+56975 BS Ey 55900 RAGS 9 & 0)
+
+a (१७९
+ed Ss a. a \°
+
+## Page 87
+
+(७४ QD To so. x3
+
+oH, BID Sol" SMO MNT MGW Hoos 2036. 38 cHo
+C कण >> है
+
+SoVarsow. ४६४0 sow Coes BBs Sowa, ४४७४6
+Bojeom, eo ४ 2४० MAM, 559#*ऐ 65००४ ८60935060. Qc¥ Bro
+FWNoSMoe Mo ६005 aiwds Fo nsry Ways 5085 Meso.
+
+@) ६०
+#४०5% 80 680० ० | ३४० ७ 559580 sb@artsow Syhi. ७
+08८ WMsHyNQONeo wr ४४087" 3८:४०, SYD woes ४689-०८
+
+So Wx wl 5:70. eosSonod, NW Soa Cpa SK garesbeo,
+
+c
+
+2.००, HSVMLGen, aan gs weciocaw B awoke. DeGsoo
+
+(war बश्छेए0 55570 OTE SSRI 85063 HIawotsis. 63४6#6० 28
+
+४35 0:9८60 "88069 DOR SVG. 6९5९ wi) Tacs, DOS
+TOs TOP QA Boos 5385, GID voxarnd HBT SS
+HO BSI goiSoc mo, Soin Jo Hoc iso, SYN, OSpocws ४883
+Seoromionaen XOABL eadss CHK 0०४०585 a ESTN) a
+Pwd Mowe a0 % Dye. Se Fc SAWBIVN AIO OG S
+SHROUMNT ODay so Dar 9००2४ # है HHS BH. WS
+0४: 0 TMwore. SII Msinosows DW SOHT* ao xoo ४१88 Px)
+Hew. FISD oormess SHS swwd ask B Taos
+8. om 2066 6००67 कक ४ ८९0 ०४० wD ww sree
+Bono २३७०. ९969 09% ९००४००७० ४४8०७ SSGNonows IBM.
+BreCssrGOvo Wr xiao 0४४० DUG MTHS 8% yi, ४9०58
+BH DSxoo0 MAD abFGeroan mreDoDs. QI SasrrwWoSBso9
+Ne ATO SrPwxowids gp oMooeio SQrGo save ४3. 8) 66890: Te
+ar 04८0.%० a 8 50508 कं कण ero ws &#0०998४800 Saw
+
+९४००) 9 gener) fan) aye 2%89०४०४ Noss? Bo १९४४ 5535: 5०%
+
+## Page 88
+
+oe ; : (2 373 ४७) OP ६३ More
+
+X cSt, NOx, sSoxst Ko Jc देद608 90९0८ ८9 66697 WOO % 55७
+
+oo MBAG, छश्ठेठछ Ho arr to) SSO SOS ON | ४४0८,
+
+3308 SHmMD%en SoS enSowotd. Colh Ny 20783
+DAS 5): 7७५ Ro Seso 0७४ ०००७७ N™o Seas BA 55>
+enm, N° odsess BS Rgoo है 0. PSsovs, छाई 5550 wey, G59
+
+शिक्क"९०४४०८४४०४०४४५०४००४०, 9993: aire SSM TS 3०४४०० ४१००
+oo, GHOSE HsSSogooros, ७७३६४ srlrrPacdady, ६०५४७१७
+६ 359०99 NBS aor, GIDE ४73 favo ४०११०. ७)
+5x MOSH Sorc 39 BS) So SMIMSroxoM eoSowcDs. Te
+Do Srsowyy,.cch Fresco vraig ४०६४४ Go a. Foye
+EIQ DBN 659० 462669९ ३०००४, 8900५ woo ast 200७ ०४७7४७७
+ByS TG 35309 server SomBoBw. AS “८६०37 ४५ TE 82 a
+mdm Sood AL oBm.
+
+8 SoSH sar Bae BMDoM YIN docs Nec. कए ९:53
+
+od
+
+Gadd
+
+seo DOSIHDsoawoD ७४6 QP VS. sey
+By 2 )#0 69 $C Bodo ४3598) ८४० S SMD. ६३९९ दस
+NA DreaISoNoS TS sow swwsHs 593८४. Serorto ye ४
+
+5553 55. Saxo) Nas SoS WBS Grrawwakg soa ०६०
+
+iy
+
+“389. 3 < ४ ५59060 wes Bs PLOHAMVOSTECOD “SP IRAT So
+५:
+4
+ASO 0 20 56359. ७४४8 हुँ, ५०४४८८०४७०, BBS
+४ v |
+59, ७898 80490%059, GID THGorom, Os vs:
+3 52 2. Mata et ‘ 398 ५ 20359 :४:)-४)2, x MH og J कि
+» BONS WS 3९७०0 HAD, GOIS 0805० 7950 ७४:०० ४४0, GM
+
+v
+४०४ ४१४४ 8:५5 कु०5 80४०४ WHI sow 2४075, mye"
+* ई Mo BS sso ४ 555 TPOASSLNS S095 8७ 5 9. wevo kw» g
+
+ee en
+
+## Page 89
+
+वि ॥॒
+[४ ४0७8 D TT ca More ra
+signe, हें. ५ )5596७४, हे Hyon Bo .
+2९४ SAOTBSOY sow SH oss. Rows F Hos 8 25
+PB March OHM. S08 ७४६००३४०८४०, AlorMorwH, Ow
+Dor ocr WMSoIOW Hoe wAoDS. ७० Sadorgox 99,
+"S8D, MPDD MDM SPLWM geo Nos. ७०३४५ S808 a
+SaQow BLM. ४४९८४ WHS Soos SV aosiahy soo mv
+DoW. ६०४५४ KomBD 56969 ७9९८ AMEN Bye. wD
+SH BoAVSosMoeeG Aom SD 59908 BrDd, Sood
+SDM. Hots Basa ०५४9 03 Konontow dS arvarro
+DOT 55989 Wass SBS 5d soxOowhi wodwawo B
+SHOR” Bo AM. SIT?HO0 Sess wd wrod Non WHOS So
+Beto ९90०-85, Swarwyorw 550 5५०९४५४:४०४५ SHIT HBO
+Bok Sr. GED Yeroros, ७508 oorsrHGomw, G53
+WFIMo mA AVON, WBMocsso SN BB Some ४४३
+के )doo wt SSK rea os Kore Soars. 8४८ 20s
+
+०5०७० 676४) “50 RG xHtSsow MAotwoaw ०8०५४
+_ ©
+
+3500 cM DGD 8० (So wo Sct ४557९ BS SSCS 5988 80-8:50.
+SSL Wav x. BIOS DT* Loose ors, BHD ¥ 3300S,
+७2508 Warr BIDS. BesrwySoFsno Meh) ०००५ sess
+0.0990. |
+Dadorsos VO ८5 ०क्ष'४ 9४०४ yr oBaw, Kross
+WDBeGots, ४७)४४४४७४ "BQ BOG ०४४५७ ४१०28, ७608 Bs
+90४४४ 7 VM ४504$००८४०, Syow asc, ays Sasocw, 5599
+2₹8८%, ४00०: ८४० SM है ४०/85080%5 ९०४००००४१५ है]
+
+## Page 90
+
+ve fe 35" %) OP ca Mo.
+
+PWMSBISM WDM WBS Bx. Drow oa wowve (wR No
+0... पु
+WISN. . SoSeosto 89506 ऐ००. GrAow™ 5००9०४० QA.
+
+3०%) 3938 GMD Sesow 23) Rove mBoTE MS. 6558-६6
+
+wt e Som We 2. 3.2 «८
+BQO 3X0 eo” SHSM BoM Mo Yo ४) ०00, ds Way Woo
+q 2 we
+
+जन
+
+द#507559850 50 33 BIDS, UO
+
+or, SHS AA So Moc पे Gayo Mot, G5 OIS¢ (Bary Boo
+
+Xe ny me ry 3. 4, oa;
+So WOO Boers ye
+smal
+
+SoPODSNM AD Sooo Aa ax ४) 555, eD$ aalsoo wars
+
+"Ono Dh. Ro Sos SIP 29D) eo NOAS. Sos : aie 49
+Sy Boccso. ९5% ८६5 So ६४४४४7८:5० ५ BOTW LOT a ०२७
+aro Senw SSH IS 65908.
+
+&893904850065 80) OS? KPO 55:58" SASSO SHY
+NOB "SxS eo ई5595%55 02७९७ FSH Wess BS. rss
+655», WO NgsBox, Oo, ONS S aio SMa Bo Oo Ge”
+SHETS) Som HSS BB Boo¥ pio DANS 0 2308
+SAX HOM BrewrrshHow sd 685 | ST ocho SOF ४८50०
+FowNR osc ७9००कू०० wR NORV "DGhx. ७४०
+ork Hoare (STP aS SHo wows MoSMHorw® HMw sr
+BS coos BAQoOUM. Ganiwsso Hostimo rors, ७578 ४565०
+४6069 w 3S, asso ४5७59 ८ a oSr>N VAIO Byrag “rw so
+४5009 हे. | 6 STP) 3० WOHS%M. OG ६5559 a So aos, BOTS
+BoyOH WSYowMH, TOIsiayo B 559०७, woe
+SoFsowtosenw, F SHV TD How Org Bo 3 Sed
+SM MAMGcmH, 5:%539 5, SEE Boers, ७2698 Moco MaKe
+MBM woNonos.
+
+## Page 91
+
+गा (४० ४०७ ४) 'ठ" ४३ Sa. 2
+
+bas Lu ee «७. (१५८
+* BOS MBmM lus wOsootoo Bx ४८४ Ye SOR,
+
+5 ests ort . a
+8४883 BrQs DH LMoWQ Sse, ७४१98 80755 cro,
+
+2 मु व न
+४9.०४. 80,200 20 (४9 ४8 cos BSDBEDSS WD BS Sw
+; a a
+
+Smee WAR. | S BHMcmh ACS sos S65 OS 55500
+
+RPO. Wades
+
+By Soca SOSHAS ६०८ MOSS SIT. e385
+H wNGrasco =") wg Bo COHEN BSH ४४00:08४ 65 ९
+छाई 60872 2) 5ं>6७०० ८)४9१)४०८७, ४१८39, दक्व१ ४ ९०९४०, cH
+४०९90, do Bagger, sre) SHI GOIN cto en%onc Dd. Da
+के )$ ५४३ SOW" Moo nH, HOS 2000४ बे 0 ४089 avo 36 oe ००० ०००
+
+हरी एक Mok ७8४92 655९5: 58 Kes, EN DM eh, Das
+४५८४७ PMI ey OS Howse 53 o XS Sotwenm®, ९७९०४० ४0
+w0ds. ex Souci  (55890:0089, + 55७9 690 80053
+४०६९५ ROMS AUBIN NSPS 590 5060, ७४७08 58४-99090 Eo
+ankmomm sons. 75590 7:5505० AMAmankyeo, 0508)68
+ZA ood, Sop 4४9 6000, NOY ws Pacinos rer
+B 500०<0. Hap ४0:85: ४796७ BdoBwH. ७688 Fos
+Mem, Ward, शा So ADAG. क्र Be soc & X99 of
+Mow Wc ae 990 ४870 Mogens DM. BW Irrvoss 69582;
+BIoBM. BIS sss, 7737४ See, Foouss 860565076060 0:69
+९०६४००००९७, Bard 2800८: दव्र्छ७ Wargrg ०5०८%४०8०७ 55.
+
+80:6 600० Xo ६३ 65988 ४0885०%800):0%) 5८ ators
+ONO. SOS MNoMage 5667 08800. ७69४४ 6० BENG ४०
+
+SEIN ISO WOW BOOP soo GA ao 0 WSR, Nonen 9० ६008
+
+wat,
+
+ToT waren Jolt ay ih.
+
+>
+
+## Page 92
+
+ose . ७ ४8०0) 8) GP ca &833%
+
+है oS5% Ess) Sos SX Ss ase KORS, SSH so
+Kore DerawsacS As ywrsswwse ४७)४-३४०० ४5095,
+FoPMWIH TO MMB vs com DOS 2856: BMDOE 868
+car KORG. OSZmors, TPHoyew KMwOP.OSJhesgex
+है oS ON SBM 8:55 है| Sino Bw ७४965 )9889 9७ ७१:४७
+woe 30880 sor SKS Sara aocssy SOP )cs, sroxot
+th, Aor 88080%08 5 Gx 559०० wwYows, ७०९४ Ry
+THIS APOBPESHOIDS NGepHoJeo NOAG. "०४५४४
+SOB sMotAr, BHAI BPP %०00%0७& SPMAWY ०४४४9; SRD EAI Te
+Bb, Sroros adods. ७४७0 58, moss EMIS SMP Og cho.
+So 5९१ 90:02, 000 0#0८%४ ७० 80090, Woes Bons)
+| 8% FM HOM ST MWsorad eo¥awoN6. 500) 79 ०४४७०
+Maw Bow 5550 8४८ ढैं 5555 PSST) SSA,
+How SMSO vo joo sa By soc SMHS ers ase
+RA OIOWS WWI MYSowr SF sostaou soo wo
+Ba. . ७४४8९ ४) S*Haso Bacto ई९७४१8८:४७ ४9538 Bers
+Sorgdoge Browvrasogm. IA DI ows. ८85:%06७ ७
+Tag ४0000 498०० 8555 ९%० &80899:5990 ४/753950, Now edo
+BAGH, ४४४४ ह"के५ 559, WoUSR HO co SMO STODA Moros wy
+SN rGIP LY SKowsWo ४") Sagutorear WKN Doo
+Bio. 8690 8040 ०%४०४ "80560 ४७ 270 #908004. 6:808555550
+Bx WTO 68८५७ wonoGw. +०5४०७:४०६६४ aor (es
+७७७ छेक HPN, 5568%9(86 599 SK Tto~waole
+५ BVEY QBs Ar Beis CS ywS NIB, Sopra
+
+## Page 93
+
+OHYOT ome vet
+
+j
+
+PQS BLEW AY WOT, WOOT wo KG Sty
+
+SPH SOM NYS VSN Be ४0१28) RIM 8६.0 £0%09८४ DK
+
+OJ est ~m
+
+Sows BY, easwry 5585, Mes,
+
+2)
+८५
+
+00560 NON AVS 5७००४ छ छ589050508 ०६8०० ०४४० ४७
+
+arn ५. ORS 2
+so C3 ONY» Aor x Pat) \ aoe Bad
+ied
+
+छण्डे 0३७४ TeQoP Iam. Code AGIs - ? Sook Ss
+
+> wrens
+
+ise)
+
+oy
+
+४७ TD vere 59 PHO MH
+em [४ Hyw 33500, SMO :59:50 oS) 38 SD
+
+ABBew wy TSOP No VOD GerSwvoS» WAS aocdHoas
+
+MQow ds कद: 30597 979 Arsharde ८००४) Yeerks 9
+Bry Bos 8 oe D 0) ९६८ ९) 5.2८ eye PSow WADE. Gerexvo
+3...
+
+ok rem)
+or 78700 TSI“ ५४00 ०४६ 95७ Se 33 oy om. St ea
+
+a
+
+oo 5 ro” % so PU Mey “i 553 ए ए दे 53 «>> DOS ९) = Be (253 9653
+
+8४. ७००7०७ VSS sre 5७० ८ क्े०6९०७४०४०० Bw. 87098
+a a
+
+ty Garett D 20४:
+
+DAC BOS PR CRTG Borto ८४००७. 89
+
+पु sa
+
+S OOK WDD wow. Ss ‘)ss020
+Co
+
+a
+
+४5०65 5 5700. Ayr.
+
+पु oy न nos: a Sha! leet, TR 5
+ZC java OS दो. आर शक ४४5७३ ४८ Bo Dx om ron 3 9०९2
+
+Ned
+
+Siseatio norm HMI VGA. SIHQ > VT cove 22558०
+/
+so NS ५070 2008 के vite ४ ०२४४४००४060,. पे४27 000: xe
+बल
+
+ch ७ 9०६५.॥ 7, 53) ०७) ठः ors Q Pah) Oe) ४3 (०००९ OC (0 )$9० al Wo “
+
+है PION APO 207 OW, Sr woosersoow ADD 555४9 oF SesiOc
+
+89 75807 2893. ETAT लक toc ८690 corre ४७४० We - 8४9४४
+
+BG Foe
+
+” as a Sr
+anaes | 908 #इ70 ४०४५७ 425०० gS, Ase, Hory SVS
+
+OID oer
+
+eB ane ४८. «८ रु 4
+SUS AC ott, a Sor
+
+a a mois <7 *< 6. % Paves a 58558 न
+Stoo here MOE Doser, BINS oO 99
+
+## Page 94
+
+oy (2 a) 8 Ut co Sve
+
+H B06. 2888758 YHA too 6689 SSIarabsn Kod, oF
+08८ ००४, Now sae BH, OOosdsos* wade SA¥oos
+699०0 WDBH. ७8658 8058 6 aGMS FGsao cawowm,
+SWS SESE छ BON ४०४6 38 WS xo Daw.
+SoS Focm PVPowsry Mw yoBoD aio onee A SSM. ७
+558 gow  YWHSPsnermsH, SHWer Mower, GI sro
+5०9९ “Stem, Savors, Sex SON rH HGS HOOT
+29°36 QSseror | (Some SH wl Motor, WBsomosH ४90०
+DB. Dow ForUDBocssa 0609० 83 HF 8५650020086
+2०)989० BIL De 8955० 8885/-708छ* HG ८४५ #<५0%७०76%85७
+WD, ७४४४००९०2७६६००६6029७०७.. DIGS spxswWeooeom Noy
+BST) 058*630 2D Wad. | OHH 7S ७ 8908S M0 HOC
+Bis SS 550८४ North. SIMossS #*०क्ृष्ठ ही ४:5555585 KOR
+Me AMOS BE Bow rss ५००७७ OSS, owe. |
+VMHSH FWyowr, GIS 580 89008, GIO Fssy
+
+Soo ww, | ७४१8८ wi B0 HN, BHO ४9 &00:5569, NOM.
+BOOM. Ser 00:89 WRT? HSC [# 9. BOND, Gog
+' 0९% NAS SOMO 80008, vom SIS) SOS AI? TFSI ९४
+SeSacis, Bras awe 863" Saver JO Moo GOSS ase
+XOAB. ७७०७७ “BPS ON 8 8900० xX SogRSo Jor,
+BSAC 2४ cw, 8708 Sxhrowcms SDDS. saesrowds
+SS Asrrosdsyvous SJBAow WAIN SHH QOGIDTS
+| 8600 4979. PLS %००५७००७०३) BoC soo WS csmosid. BIW
+a sro Ws GIAS Psmotoo SYK Mo ror, ७3908: NySO
+
+## Page 95
+
+{BD ४0 B) TP cd ४७७ FO
+
+: Ss ४५, ट 7 4
+४59०४; 30 Bevery S88 wget, SySrAQ 580 SOHO Ai)
+ea B Do 08.
+
+TN 5०5४5 ४ es
+तक F ४ DORIS 568 8:59. कै...
+
+ors ४9950 ss &&60%8 ) १०० Bo 56905 ahxosa
+5 . oa Pay
+
+soowwsc ")arng Soo SRG ७. Bch ४8% BQW soe AD SSS
+BPs oIBABS. Ste PVHwW TT .867"5536& लक 4७
+CHO DMBVSMWAS sro Joo 85 AQoxmwsd  wonoBas.
+BTS Dorerxwsmo SaswIs% capo seom SSow Bs vers}
+co Dogod S572 SDSL HL KPO a Te SS TSO 208 &&06$
+SHIQHOS BWowsinw, YOASM SHA wT Seasor Bows 9
+४५9, 6509/656578 STO awH, BS SSguvowms SY oH moter
+soo Boxod [०९०७४ ३5395 ८ DoT DorwHxsey*Fasowi, So
+UP MUON SoSe SHG AQ SomoaF HIG ४७७ 0९80 or
+02250 000७5 22% ह् 3०७ 6588 SHS) TSW .
+oo ODS Ssowmwor "03090 02०७०४७ we 55 60259
+OD BomoWM. WSFyxoy NF OSXomods™* TSSY SaHoow MH
+BB BwS, Haws CHoBw, Sows) ssws srs GSS,
+Noid BowmoWs. GHciso xs BG Sssoow0 wows Marr GISH v9
+a 0७७७ ०७७४ 7ए०0०७४७.. Voth कै७0559०कै9७० Fro
+'४889550 8०3 559०8... Mss SSN ०%०९६६)७%६३३४७
+oo 06४००७ 2 SBS wo BOOTS SVT. &. SHIM se SS sooo
+NG) DHSS CH QerGoxivo Kor ooo ONY Te
+i590 BS) 2868 AN Mo) 8798०.
+
+## Page 96
+
+हक (Bw sg Sy TP cd 5980०
+
+८६ SEM WSrasnoworws, Wessoktow, Showy oso
+* am >
+EN
+
+< - . + weeny ७२५ eae VN Ss
+DS "\sNorvod, TF (Sy CONS 9G So SP Suey Meta 507
+8) ee. = 233
+#8##ठणछ8 ९८४98 SrA 2०5०) PTT शेण्छ, Harn
+MM Hors Soe COG R MG St me.
+a a rs xy 2) oO नहा
+Mowry, SHoow sro 20580 WO ५००४४००४६०० Ow ) Be WS 05%
+
+SONS He ७5% 25656: 5७७४६: ३४० १४-०३ ix Heer 5 35
+BOS Mee” ¢ Troe toda. Sovitaulresho: GN POM TS.
+
+a
+— “58 eg or ५८: 8 © 5 ean a’ < > ey? ’ *-
+Soo Weg sow o ६8:088 देर SSO y VSD WY )mooavew
+
+WD GMO. Wer GPTy MoT Dasar7ve 25७४७ Bodo
+
+Woww. NSsossoe FWD SEQ 550 ०४७६ WO GoedA Pan gr
+
+ea ooh ४०.८ ew gee . 5 Doo oe
+
+wo. OM. ATES 0 8७४०४ ६४४४० ००-७० way Dodo wow
+ड़ जन
+
+By SKE 5४९८७ ४ 9 OX <2 went “3p
+
+MH. SOFIA 58/908९:5 ४0८89 5:07. BWsrodctos, |
+
+. पु © a 2५
+
+री) srw roca, Soo Mydowo todo ws 3०३४० S Baro Baines
+on 7
+
+“
+B ५.....
+
+"85 5 0:835०% yar ena, कपूर का 05 Sores} Swot. Brew
+
+BIS] W Sr HVY Soc Tt SHS mod FHT Y, OW Hy.0V0
+. है
+
+std Do 86009 ७४359. . ः् re") (० ONO ० 7०2४ ०००: ७
+
+Za
+
+इ8 $98.00 es roid 8 Sorta १0%] OOO Wooo a) GOT? ITP SS: ay x») 9 OPIDIOC
+So oes ee ae we Drage oa <8 २0८३9
+
+x SO WM, HE Ch WP arose S } 3590. &:४90% % श्र ०
+
+Morwshan 2०४) 086%30:59%90:009. ४95४४ का
+
+Ho 57 ४
+न
+
+Oo 7 के 9] Noon) oS weg
+
+Ss
+&
+
+| 80580 ९४ है ऐ7ं.छ"४9०570% (SEED wo
+Bro ४8599 ७१४० eS TOD Bo SHO: aso Kore Qeegye ९ ४४8)
+& ७३४ 555० oO ४) ४क१०४० ४००५४६४४०- 52020 20 TWN Arg Io
+2902) २४ SII SS. SodtwISo wiodoaddooc BP’ Srvaray ७४४७०
+दें, 555७ 0 है) 350 SN Wo Mod. 65869 559 SokmPBowr Webs
+38°) Soas OSS, 89०68 ०४४४०४७० ७०४5४ १6० ६55५. B ४8) 0:8०
+ie WS Moo QSo® Dossy -S sprmatormw. Ion
+
+fee pec etme apne nent enn OE ge amide ae ce ese नम बन अनाज Ee ee #न
+
+## Page 97
+
+Gy
+
+[४ 34 ४ OP ca xiv. =
+
+KSC Ps sowed aw yorstywoms, wird &s
+NSo Q Moss swosO 6:34 )2४००००० -805$530-82-2०
+Hd. MHI SKoMPV"No OAtony ३४०४४ 88#70%०
+200९0 FIO oss BOSD) A Sogsrs oreo 70) ७७०
+SoD MAoWMAO Sos A awoPVSwte (0०8०-59 ४49३००४४४७७
+
+wos somo. छेद Pw Tra TAD NotTsouwen
+
+es
+
+[SBrrAo Dso Faire | Soars ९) BN We BMowrsewe ys Ns Boe
+
+५...
+
+i
+
+sredOS १३०९8 oc Bw MIT M/OWvVXoVo GOS TOD
+©) Dy * 5 ) ०
+
+Soo WO8oD 5505:589 0505८ sireIOG wedewd wows
+
+So APD esdy ६३955, rege 5४०३३ Moo ४९४०५०९ ९)2575 SS
+a)
+BBM, 25 FMI MsysGw, xKBH|YSS worms. BA
+
+MWohAcS | हृ५ & ०5६8०) OPS) 85 SONS Cire SN) sg S
+
+Cray Ws wwe] ४5960 NSY SY Sx oswro 97) ११०८०४७) हैं Wide
+७ 8 ye ४८ ॥
+9.०० SOLAR ESO S Ways Fh DST LGWN BOS Ho ae
+
+5,
+60 6558 Ao Hobs Moo ATP C Sa ४३ ५ ALSAwaBO nro Sr ao 28 ०5६७४
+t a
+658 5 Gut MPO Said weigh OR Vo. Shy GZ
+c
+
+४०) '
+SSO ४७ VF OVNS )ssonsu% OY ow? BS owe Birvo Wo eo doc
+
+५
+
+४)४07 2० ES ORIG SD, Cd 50० Ay ST* 55550 SATIATION २४४५ TWPeIQ so
+
+fal fa
+2 wy
+
+Me 2)४0०० ८८ 280० 7509, & poe सेट 5 ya 3 oxam, Sysss
+89899 4009 VE. www 2४४०६०४०४ ६५७ ऐं६७:४०४००
+
+2
+
+QM Sorry )४० Sa ROAT? OS NA GYjo Xo दो ८४०: ४०४5 3 के. Hoo
+
+RDM. 3H ४ ॥ DANO WAC S$ rOWS song ot )9 Meno
+
+OPW Per 20 Se 20०४9 )007६ 0७६६ ४७9, 35 Soc, ७४४)८
+©
+
+87898 WT? dH ४0०४० a Nord.» ७5 eg 3 sow 56० Ditobo 5355 ,
+
+ee ete ne owe tae meee
+
+## Page 98
+
+डर av et a {2 xy <9) OU? 03 8833०
+
+"४8058 (0०८2 SHAG MEIN Ox) a Sere ono Ay
+रद Sbrokc BOD MGs Adam, Oysws Yow AS) ४४७
+BAy SoS BM HOW TSN VasBood 5399 58) w¥ ०58
+F2x0BM. ” .
+
+e830 8 soc Sow, SS ३४१ २००४००:० ४820० SP eres B36
+88 BEXKomm Se. SOA) T Sis STG 5080, % ७
+eo Toho mokm, ७|४9४8#0०%7७95% &308१6%9र्छ ay
+og soopSBGoo 5595. SONS ~rOS 85०55085
+dS» woods. Yo Www, FOAM, SySiewocrh,
+*5%०४३६५ ७८४०, 8०5० 4६५ ७४८४० Sw B 55705587% 6 | x59 enone.
+“BI*Do Benoa XyF"W, ow, wesoBoeowH, MFNGeo B 559०
+GS. ७०65 ४४०४० ९७८ ANoBGF ५५585 TBS 89. GIDE
+wr Blew cds S*HDA< MSonoWH, ७888८ wr eormwosm
+29०50 86%): )०० KOA. 55889. ०१७ Bos awmeso¥ sos H8
+“rer Go}@9, Seow, Steen, wsoBen, ST o8 Swen,
+DT PaoGwew, WB, Koarhoen SMa shows wywosos
+Sowa NG_To was. wiwdlo amos TSOFSH Ys
+| HY Bg asoon SP ०४८४४.
+
+४,४४१ ३ ४० ०१७ ०8%9#04605%७ Bows ४०७०३ 5]
+क ०5७००, 208०४ ४०४४ ४ SHES. GENE stom x
+Br. SISOS SHAD) vo 7888. Yor BySrwct Sof
+xo SHES ४. SySeodSows Sy A ४०४ sow, SHS Vos sor
+BSSOF sow, SHMDSHSos Shr VSSoF www ०)४४० DEBE 9२
+Nvadens prin cool ps tna y,
+
+## Page 99
+
+et Rg 2४
+
+(2 og 55) TD. हक sr a
+
+OK & AS oi 3 59 4 ma रु pat
+2 Ws 9886 WES sor OSG s
+(४5503 SITS ow CO OSs APE. SH SSG aeg 020% en
+ahs" ४9४0९ 28992०४७ xa BON SINS १४६0४ 0258 -ओ०७४0९७७
+
+470०50557*9%० SDN JosoF sows S* 0088, DONT Some
+
+PEA Oto ६४४२०४०४४) Foy RA Borge. — ४968 8) xooeras
+दृण्5 ६३ AMDOWAS SFC 0x5 4) MLO 6675555»४), है ५ "6:
+SS hoa, FIs ४४0४५ :995 aarho wn. 2८४ .८5855४0
+880%589, 5552 ४ coo लकी ४080४ 550 NASA ODS. AF
+
+XK
+
+on
+
+8 BG DGHHITFo wr. VisoFsowoG Sy
+So wt Bronae OQ)O BSD OS Mi
+
+है co
+
+% . vw 8
+--+ [BE Laxgwoss ४:00. ¢—
+
+ss SH 77*० ८5९0, Sree I MDY eng SF mooG5. Ho Se
+moses Ds woooGoss NB fom, | Sor BI ठ5»9क" ४२2;
+EsorBocssy MOBY 80 ०)००४५.. ७8 0- MSoVqSosS
+SyAsooass Os 0889. SBE Bas NoudhemoS5yr, Co
+SMHS NM 596, Yod SHS PW Heoy-ccs, DB Hex
+SMT W WOTNS. GQ Gewy oz AWRot WHw wig Howard
+OATS A GP SO BIND SOT N.« BE oo .. TES OLS
+MOT CHD Noo Oar SA Br SS ५४० Sorte AN SSoanort
+
+९890 STU sow boc ARSC AT Rh. Treg 5०४ F Seo,
+& .
+SB rte 2
+
+tho Show ROS HOH Oe ADAM. WSs ar BS Hen, Hoc
+SiC ant ५9, 5४5 * ४ whey "Bo . ¥
+KSMHIrwS MAHA AD) “How WA. Go DBE sso SE
+Ise g-e S88 Rta ssho TMote eM, ७३०४४, ४9०४०
+
+## Page 100
+
+हाछ 3. (& 37g D ०१ ६३ Nove
+टी ह न Re ७०, 065०५:
+३४४४5०४०० Senos, SHcs was, Balas, १650
+DIS So Soci, OHA) comers B 5590 को 33
+SSS WS Meth, sero, BoSowsem, . ९200832 55596
+DoHws 3 DEOMI, ICD, CoD, 0 8983 5559
+५
+Q 5 - +S 0 ws . Ss
+t, OAR Mew, SEWN, % Bo sony ४०, Bad Maw, 52
+हु 55, MASH eH, WS Ser, GoB¥Sew, GSsrwow
+०) ) थे 9१५ ? i ’ 5
+S)) Barras wre So B09 Sw AO) 9 2029, MOSS HOH} yi Sac XO
+9
+Rb. wrwr eos 8006 ) 2०5 TTBS Hots (SASH, GW ६:08
+$C Axes
+o
+
+‘ Vs 23) (५9० 9
+
+on!
+
+SHIM. BIOS. OD Sws 94५४०, 9४) 9९४०, ©
+x8 0५.०
+
+8260 दाक्ाप्ण८ 40, 20075) wow, #855&00४0, ०03 939, ७४०८४,
+eee ~ S 9६ $2, A 08४ ५ ans sy” Hi ४53 ४ PSO) nA दर
+
+824७0 ८4०, POQP yo, KW serch swe 6 S95)
+
+i“ Zh va ~ =5 मु
+
+४9050, BOS, [हैं Ses DMD) )3 2७89 80०४0, Bsdr toy ¥2
+
+पु iG) —2,
+SY SOAP NT ४५५5 Wr Hom 5550... ७8४४४ aux oBIaho HM
+
+HO OBSeHa wSon0ds, Colwsnxys Axo CEO Se So
+
+MeN
+
+Ch. SED SSF Mohd 5555. Doh XAG Kets. ७४८८
+
+ree)
+
+3 5
+pe
+
+d
+
+8200 फ 78% 3४० Wo SdibotMogeos Bod wa, Si TAM Par
+Gowers 3५४ Soa Sooce OY SON 8920 Bosc Rao. Wrevy
+Sxoww x [HDBjS™ Ox POS WAD, STPN SEI Soo ots RD
+
+DIST MoS Mc S GMoWe., sexo Wop~hHOsBe wreeBsso
+
+35507०567:58 65८8 6555 छो6)9, or Bsegs
+
+“PEC GN? 9
+
+S84 DCS, ON >) २५७ S MAM HD 3090८ ४50, al > 223 ४४92९ :50॥
+
+x wpe une ४८००“ By
+§ Sone tn Paros, Norse. wee sh,
+
+0 ind ७०९] a)
+
+8535 oo 3 » B83 5 DVS oe Das, ee) है {3 PIA Gh a COO
+< aed &
+SS 00000552) 04508 eoXavodd. Wows WH 8 SN VStreaNy
+५ /
+Qo sen win Py « 2 sgyer Coe jw Selle
+7 रे शा ९900:50 घट) IS. (9 o oy? z 8 WN DAI) Brot 9 QoS १0९
+™ co
+
+: ‘
+
+Sf y (१४० QO.

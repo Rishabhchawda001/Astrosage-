@@ -1,0 +1,13 @@
+{
+  "total_characters_analyzed": 248592,
+  "devanagari_characters": 24781,
+  "latin_characters": 192071,
+  "other_characters": 24045,
+  "devanagari_pct": 9.97,
+  "latin_pct": 77.26,
+  "other_pct": 9.67,
+  "encoding_errors": 0,
+  "replacement_characters": 0,
+  "issues": [],
+  "samples_analyzed": 50
+}

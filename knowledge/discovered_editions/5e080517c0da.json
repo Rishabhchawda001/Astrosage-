@@ -1,0 +1,103 @@
+{
+  "title": "\u0935\u093f\u0937\u094d\u0923\u0941 \u092a\u0941\u0930\u093e\u0923",
+  "discovered_at": "2026-07-13T17:36:33.087786+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "puran_vishnu",
+      "title": "Vishnu Puran \u0935\u093f\u0937\u094d\u0923\u0941 \u092a\u0941\u0930\u093e\u0923 \u0939\u093f\u0902\u0926\u0940",
+      "creator": "Sanatan",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Cloth Cover Detection Log",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "wg263",
+      "title": "2006 -Vishnu Puran Mein Pritivimbit Sanskrit - Ek Adhyayan",
+      "creator": "Vishav Vibha Tripathi",
+      "year": 2006,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ganpati-stotra-raj",
+      "title": "Ganpati StotraRaj",
+      "creator": "https://www.facebook.com/essenceofastro",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7103886357",
+      "title": "\u0906\u0927\u0928\u0915 \u092a\u0930\u092a\u0930\u0915\u0937\u092f \u092e \u0935\u0937\u0923 \u092a\u0930\u0923 \u0915 \u092e\u0939\u0924\u0935",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.17510784",
+      "authors": [
+        "Lakshmi.V"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W7103902604",
+      "title": "\u0906\u0927\u0928\u0915 \u092a\u0930\u092a\u0930\u0915\u0937\u092f \u092e \u0935\u0937\u0923 \u092a\u0930\u0923 \u0915 \u092e\u0939\u0924\u0935",
+      "year": 2025,
+      "is_oa": true,
+      "oa_url": "https://doi.org/10.5281/zenodo.17510783",
+      "authors": [
+        "Lakshmi.V"
+      ]
+    }
+  ]
+}

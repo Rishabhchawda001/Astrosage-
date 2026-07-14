@@ -1,0 +1,16 @@
+{
+  "checkpoint_id": "UE-b18384c6eeda",
+  "timestamp": "2026-07-13T08:53:27.717951+00:00",
+  "results": {
+    "books_processed": 3,
+    "units_extracted": 1450,
+    "passports_created": 0,
+    "evidence_records": 2900,
+    "variants_created": 0,
+    "graph_nodes": 1453,
+    "graph_edges": 0,
+    "validations": 1450,
+    "verified_units": 1450,
+    "unknown_units": 0
+  }
+}

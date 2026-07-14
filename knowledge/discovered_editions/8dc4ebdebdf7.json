@@ -1,0 +1,133 @@
+{
+  "title": "\u092e\u0939\u093e\u0930\u093e\u0923\u093e \u092a\u094d\u0930\u0924\u093e\u092a",
+  "discovered_at": "2026-07-13T17:28:51.484837+00:00",
+  "edition_count": 6,
+  "editions": [
+    {
+      "source": "open_library",
+      "title": "\u092e\u0939\u093e\u0930\u093e\u0923\u093e \u092a\u094d\u0930\u0924\u093e\u092a \u091a\u0930\u093f\u0924\u094d\u0930",
+      "authors": [
+        "Ratnakar Narale"
+      ],
+      "year": 2023,
+      "languages": [
+        "hin"
+      ],
+      "ebook_access": "no_ebook",
+      "public_domain": false,
+      "ia_identifiers": [],
+      "edition_count": 1,
+      "isbn": [
+        "9781989416389",
+        "1989416381"
+      ],
+      "publisher": [
+        "Pustak Bharati"
+      ],
+      "ol_key": "/works/OL36404128W"
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.gov.uttarakhand.go.2015-10-20.3112015155337",
+      "title": "Uttarakhand Government Order, 2015-10-20, Sport Department, New, Number 26/VI-2/2015-22(3)/2010 TC",
+      "creator": "Government of Uttarakhand",
+      "year": 2015,
+      "language": [
+        "eng",
+        "hin"
+      ],
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.gov.uttarakhand.go.2016-05-31.862016133428",
+      "title": "Uttarakhand Government Order, 2016-05-31, Sport Department, New, Number 415/vi/2016-21(2)2016",
+      "creator": "Government of Uttarakhand",
+      "year": 2016,
+      "language": [
+        "eng",
+        "hin"
+      ],
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.gov.uttarakhand.go.2016-11-21.2811201613290",
+      "title": "Uttarakhand Government Order, 2016-11-21, Sport Department, New, Number 878/VI/2016-21(13)/2016",
+      "creator": "Government of Uttarakhand",
+      "year": 2016,
+      "language": [
+        "eng",
+        "hin"
+      ],
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4383003123",
+      "title": "\u0939\u0932\u0926\u0918\u091f \u092f\u0926\u0927 \u092e \u092e\u0939\u0930\u0923 \u092a\u0930\u0924\u092a \u0915 \u092f\u0917\u0926\u0928",
+      "year": 2020,
+      "is_oa": true,
+      "oa_url": "https://www.allstudyjournal.com/article/266/2-3-161-651.pdf",
+      "authors": [
+        "\u0938\u0940\u0924\u093e \u0915\u0941\u092e\u093e\u0930\u0940"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4295058524",
+      "title": "\u092e\u0939\u0930\u0923 \u092a\u0930\u0924\u092a \u0938\u0918\u091a \u0915\u092c\u0921\u0921 \u0916\u0933 \u0915\u0937\u0924\u0930\u0924\u0932 \u092f\u0917\u0926\u0928\u091a \u0905\u092d\u092f\u0938",
+      "year": 2022,
+      "is_oa": true,
+      "oa_url": "https://zenodo.org/record/7064185",
+      "authors": [
+        "\u0921\u0949. \u0926\u0940\u092a\u0915 \u092e\u093e\u0928\u0947 \u0930\u093e\u0935\u0938\u093e\u0939\u0947\u092c \u0917\u0930\u093e\u0921"
+      ]
+    }
+  ]
+}

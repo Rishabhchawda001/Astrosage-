@@ -1,0 +1,29 @@
+{
+  "title": "Bhagavad-gita-Swami-BG-Narasingha",
+  "discovered_at": "2026-07-13T12:43:34.938246+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1819357769",
+      "title": "Building science of Indian temple architecture",
+      "year": 2008,
+      "is_oa": true,
+      "oa_url": "http://hdl.handle.net/1822/17470",
+      "authors": [
+        "Shweta Vardia"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1819357769",
+      "title": "Building science of Indian temple architecture",
+      "year": 2008,
+      "is_oa": true,
+      "oa_url": "http://hdl.handle.net/1822/17470",
+      "authors": [
+        "Shweta Vardia"
+      ]
+    }
+  ]
+}

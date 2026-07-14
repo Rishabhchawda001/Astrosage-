@@ -1,0 +1,59 @@
+{
+  "title": "\u0932\u0915\u094d\u0937\u094d\u092e\u0940_\u092a\u094d\u0930\u093e\u092a\u094d\u0924\u093f_\u0915\u0947_\u0926\u0941\u0930\u094d\u0932\u092d_\u092a\u094d\u0930\u092f\u094b\u0917",
+  "discovered_at": "2026-07-13T17:34:32.522395+00:00",
+  "edition_count": 2,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "20230112_20230112_0437",
+      "title": "\u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u092a\u094d\u0930\u093e\u092a\u094d\u0924\u093f \u0915\u0947 \u0926\u0941\u0930\u094d\u0932\u092d \u092a\u094d\u0930\u092f\u094b\u0917-\u0921\u093e \u0928\u093e\u0930\u093e\u092f\u0923 \u0926\u0924\u094d\u0924 \u0936\u094d\u0930\u0940\u092e\u093e\u0932\u0940",
+      "creator": "Ajay Uttam",
+      "year": 2023,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "20230112_20230112_0437",
+      "title": "\u0932\u0915\u094d\u0937\u094d\u092e\u0940 \u092a\u094d\u0930\u093e\u092a\u094d\u0924\u093f \u0915\u0947 \u0926\u0941\u0930\u094d\u0932\u092d \u092a\u094d\u0930\u092f\u094b\u0917-\u0921\u093e \u0928\u093e\u0930\u093e\u092f\u0923 \u0926\u0924\u094d\u0924 \u0936\u094d\u0930\u0940\u092e\u093e\u0932\u0940",
+      "creator": "Ajay Uttam",
+      "year": 2023,
+      "language": "hin",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    }
+  ]
+}

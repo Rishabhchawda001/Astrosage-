@@ -1,0 +1,130 @@
+{
+  "scripture": "Bhagavat Purana",
+  "date": "2026-07-14T09:14:49.807884",
+  "editions": [
+    {
+      "file": "bhagavat_vol1_gita_press.txt",
+      "publisher": "Gita Press",
+      "year": 1997,
+      "editor": "Hanuman Prasad Poddar",
+      "commentator": "Gita Press",
+      "language": "Hindi",
+      "script": "Devanagari",
+      "recension": "Gita Press",
+      "source": "Archive.org",
+      "license": "Public Domain",
+      "completeness": "Partial (Vol 1)",
+      "authority_score": 63
+    },
+    {
+      "file": "bhagwat_puran_part1_khemraj.txt",
+      "publisher": "Khemraj",
+      "year": 1958,
+      "editor": "Pt. Kanhaiyalal Upadhyay",
+      "commentator": "Saraswati",
+      "language": "Hindi",
+      "script": "Devanagari",
+      "recension": "Khemraj",
+      "source": "Archive.org",
+      "license": "Public Domain",
+      "completeness": "Partial (Part 1)",
+      "authority_score": 60
+    },
+    {
+      "file": "bhagwat_puran_part2_khemraj.txt",
+      "publisher": "Khemraj",
+      "year": 1958,
+      "editor": "Pt. Kanhaiyalal Upadhyay",
+      "commentator": "Saraswati",
+      "language": "Hindi",
+      "script": "Devanagari",
+      "recension": "Khemraj",
+      "source": "Archive.org",
+      "license": "Public Domain",
+      "completeness": "Partial (Part 2)",
+      "authority_score": 60
+    },
+    {
+      "file": "bhagavat_purana_hindi_full.txt",
+      "publisher": "Unknown",
+      "year": 1958,
+      "editor": "Unknown",
+      "commentator": "Unknown",
+      "language": "Hindi",
+      "script": "Devanagari",
+      "recension": "Unknown",
+      "source": "Archive.org",
+      "license": "Public Domain",
+      "completeness": "Full",
+      "authority_score": 45
+    },
+    {
+      "file": "bhagavat_vol2_sanskrit_hindi.txt",
+      "publisher": "Unknown",
+      "year": 2000,
+      "editor": "Unknown",
+      "commentator": "Unknown",
+      "language": "Sanskrit-Hindi",
+      "script": "Devanagari",
+      "recension": "Unknown",
+      "source": "Archive.org",
+      "license": "Public Domain",
+      "completeness": "Partial (Vol 2)",
+      "authority_score": 30
+    }
+  ],
+  "families": [
+    {
+      "name": "Khemraj",
+      "editions": [
+        "bhagwat_puran_part1_khemraj.txt",
+        "bhagwat_puran_part2_khemraj.txt"
+      ]
+    },
+    {
+      "name": "Gita Press",
+      "editions": [
+        "bhagavat_vol1_gita_press.txt"
+      ]
+    },
+    {
+      "name": "Unknown",
+      "editions": [
+        "bhagavat_purana_hindi_full.txt",
+        "bhagavat_vol2_sanskrit_hindi.txt"
+      ]
+    }
+  ],
+  "stemma": {
+    "root": "Original Sanskrit Text",
+    "branches": [
+      {
+        "family": "Khemraj",
+        "descendants": [
+          "Part 1",
+          "Part 2"
+        ]
+      },
+      {
+        "family": "Gita Press",
+        "descendants": [
+          "Vol 1"
+        ]
+      },
+      {
+        "family": "Unknown",
+        "descendants": [
+          "Full Text"
+        ]
+      }
+    ]
+  },
+  "canonical_reconstruction": {
+    "primary_witness": "bhagwat_puran_part1_khemraj.txt",
+    "reason": "Highest authority score with commentary",
+    "supporting_editions": [
+      "bhagavat_vol1_gita_press.txt",
+      "bhagavat_purana_hindi_full.txt"
+    ]
+  }
+}

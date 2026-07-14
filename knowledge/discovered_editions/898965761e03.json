@@ -1,0 +1,101 @@
+{
+  "title": "Skand puran 18",
+  "discovered_at": "2026-07-13T15:16:08.013151+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "aamn_studies-in-skand-puran-part-2-by-dr.-a.-b.-l.-awasthi-1978-kailash-prakashan",
+      "title": "Studies In Skand Puran Part 2 By Dr. A. B. L. Awasthi 1978 Kailash Prakashan",
+      "creator": "Kailash Prakashan",
+      "year": null,
+      "language": "eng",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "aBOx_skand-puran-manu-03-01-645-lal-bahadur-shastri-sanskrit-university",
+      "title": "Skand Puran Manu 03 01 # 645 Lal Bahadur Shastri Sanskrit University",
+      "creator": "Lal Bahadur Shastri Sanskrit University",
+      "year": null,
+      "language": "hin",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "in.ernet.dli.2015.485079",
+      "title": "Skand Puran",
+      "creator": "Sanskriti Sansthan, Bareli, Up",
+      "year": null,
+      "language": "san",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4396639696",
+      "title": "Ashwamedha Yagya in Puran",
+      "year": 2024,
+      "is_oa": true,
+      "oa_url": "https://dsiij.dsvv.ac.in/index.php/dsiij/article/download/341/246",
+      "authors": [
+        "Manisha Bhardwaj"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W4385892516",
+      "title": "Ganga: A subtle overview of names and glory in Sanskrit literature and the current scenario",
+      "year": 2023,
+      "is_oa": true,
+      "oa_url": "http://dsiij.dsvv.ac.in/index.php/dsiij/article/download/224/238",
+      "authors": [
+        "Ambika Bhatt",
+        "Purnima Srivastava",
+        "Pavan kumar Yadav"
+      ]
+    }
+  ]
+}

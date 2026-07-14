@@ -1,0 +1,108 @@
+{
+  "title": "Atharva Veda Telugu",
+  "discovered_at": "2026-07-13T12:41:16.726598+00:00",
+  "edition_count": 5,
+  "editions": [
+    {
+      "source": "archive_org",
+      "identifier": "atharvavedasamhi014565mbp",
+      "title": "ATHARVA VEDA SAMHITA I",
+      "creator": "VIDVAN VISHVAM",
+      "year": null,
+      "language": "tel",
+      "formats": [
+        "Animated GIF",
+        "Archive BitTorrent",
+        "Daisy",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Item Tile",
+        "Metadata",
+        "Million Books Original Metadata",
+        "Million Books Original TIFF ZIP",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed TIFF ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "ve-134-atharva-veda-samhitha-11-12-kandalu",
+      "title": "VE 134 Atharva Veda Samhitha 11& 12 Kandalu",
+      "creator": "Dr.Rayavarapu Pavan Kumar",
+      "year": null,
+      "language": "tel",
+      "formats": [
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "Text PDF",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "archive_org",
+      "identifier": "dli.ernet.385488",
+      "title": "Telugu Atharva Veda San\u02bchita Man\u02bctra Pada Paat\u02bcha Sahitan Vol 5",
+      "creator": [
+        "Vishvan\u02bc ,vidvaan",
+        "Vishwam,vidwan"
+      ],
+      "year": 1989,
+      "language": "tel",
+      "formats": [
+        "Additional Text PDF",
+        "Archive BitTorrent",
+        "DjVuTXT",
+        "Djvu XML",
+        "EPUB",
+        "Image Container PDF",
+        "Item Tile",
+        "Metadata",
+        "OCR Page Index",
+        "OCR Search Text",
+        "Page Numbers JSON",
+        "Scandata",
+        "Single Page Processed JP2 ZIP",
+        "chOCR",
+        "hOCR"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W3193394090",
+      "title": "THE VEDAS AND BHAKTI HARMONIZED - KOVALUR: THE MUTAL ALVARS AND TIRUMANKAI",
+      "year": 2021,
+      "is_oa": true,
+      "oa_url": "https://www.granthaalayahpublication.org/Arts-Journal/index.php/ShodhKosh/article/download/ShodhKosh_27/47",
+      "authors": [
+        "Kesava Rajarajan"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2138589322",
+      "title": "Final complementizers in hybrid languages",
+      "year": 1999,
+      "is_oa": true,
+      "oa_url": "https://kops.uni-konstanz.de/server/api/core/bitstreams/04f32b3c-1f1c-41d4-a8fd-855293223285/content",
+      "authors": [
+        "Josef Bayer"
+      ]
+    }
+  ]
+}

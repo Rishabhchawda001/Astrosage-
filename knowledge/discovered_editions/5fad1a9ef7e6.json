@@ -1,0 +1,51 @@
+{
+  "title": "102-Valmiki-Ramayan-Telugu",
+  "discovered_at": "2026-07-13T11:53:38.332057+00:00",
+  "edition_count": 4,
+  "editions": [
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2979456265",
+      "title": "Hindi Christian Literature in Contemporary India",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9780367330637&type=googlepdf",
+      "authors": [
+        "Rakesh Peter-Dass"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1568740655",
+      "title": "Fictionalized Indian English Speech and the Representations of Ideology in Indian Novels in English",
+      "year": 2009,
+      "is_oa": true,
+      "oa_url": "https://digital.library.unt.edu/ark:/67531/metadc12168/m2/1/high_res_d/dissertation.pdf",
+      "authors": [
+        "Kalaivahni Muthiah"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W2979456265",
+      "title": "Hindi Christian Literature in Contemporary India",
+      "year": 2019,
+      "is_oa": true,
+      "oa_url": "https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.4324/9780367330637&type=googlepdf",
+      "authors": [
+        "Rakesh Peter-Dass"
+      ]
+    },
+    {
+      "source": "openalex",
+      "id": "https://openalex.org/W1568740655",
+      "title": "Fictionalized Indian English Speech and the Representations of Ideology in Indian Novels in English",
+      "year": 2009,
+      "is_oa": true,
+      "oa_url": "https://digital.library.unt.edu/ark:/67531/metadc12168/m2/1/high_res_d/dissertation.pdf",
+      "authors": [
+        "Kalaivahni Muthiah"
+      ]
+    }
+  ]
+}
